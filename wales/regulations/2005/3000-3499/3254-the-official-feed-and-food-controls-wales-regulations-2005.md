@@ -45,11 +45,11 @@ The National Assembly for Wales, in exercise (as respects regulation 41 of the f
 
 ## PART I — PRELIMINARY
 
-### 1. Title, commencement and application[^key-7b1f7de1471c0dc11ba304ec9a0b9088]
+### 1. Title, commencement and application[^c-7b1f7de1471c0dc11ba304ec9a0b9088]
 
 The title of these Regulations is the Official Feed and Food Controls (Wales) Regulations 2005, they come into force on 1 January 2006 and apply in relation to Wales.
 
-### 2. Interpretation[^key-d6c03e406cb87d1cbd4191bd31608261]
+### 2. Interpretation[^c-d6c03e406cb87d1cbd4191bd31608261]
 
 (1) In these Regulations—
 
@@ -79,7 +79,7 @@ The title of these Regulations is the Official Feed and Food Controls (Wales) Re
 
 ## PART II — MAIN PROVISIONS
 
-### 3. Competent authorities[^key-726672fd233332279a3f8fd095db638c]
+### 3. Competent authorities[^c-726672fd233332279a3f8fd095db638c]
 
 (1) Subject to paragraphs (2) and (5), any body specified in Column 1 of Schedule 4 is designated as a competent authority for the purposes of the provisions of Regulation 882/2004 indicated in the corresponding entry in Column 2 of that Schedule in so far as those provisions apply in relation to relevant feed law.
 
@@ -93,7 +93,7 @@ The title of these Regulations is the Official Feed and Food Controls (Wales) Re
 
 (6) Where the Agency is designated as a competent authority pursuant to paragraph (3) for the purposes of Article 31(2) of Regulation 882/2004, the designation will extend, as regards Article 31(2)(a) to (e), to those establishments and activities in respect of which the Agency executes and enforces the Food Hygiene (Wales) Regulations 2005 by virtue of regulation 5(2) of those Regulations.
 
-### 4. Exchanging and providing information[^key-21ee1256b414395a34766f26eb9a2511]
+### 4. Exchanging and providing information[^c-21ee1256b414395a34766f26eb9a2511]
 
 (1) For the purposes of enabling competent authorities, other OFFC authorities and Member States to fulfil the obligations placed on them by Regulation 882/2004 competent authorities may exchange among themselves or provide to other OFFC authorities any information received by them in the execution or enforcement of relevant feed law or relevant food law.
 
@@ -105,7 +105,7 @@ The title of these Regulations is the Official Feed and Food Controls (Wales) Re
 
 (5) For the purposes of this regulation, “**other OFFC authorities**” means authorities designated in the United Kingdom as competent authorities for the purposes of Regulation 882/2004 other than the competent authorities designated under these Regulations.
 
-### 5. Obtaining information[^key-580f333fa06e1b5857824c5d3d231ada]
+### 5. Obtaining information[^c-580f333fa06e1b5857824c5d3d231ada]
 
 (1) For the purpose of enabling competent authorities and Member States to fulfil the obligations placed on them by Regulation 882/2004 and for the purpose of executing or enforcing relevant feed law or relevant food law, a competent authority may require a control body—
 
@@ -123,7 +123,7 @@ is guilty of an offence.
 
 (4) For the purposes of paragraph (1), the term “**control body**” (“***corff rheoli***”) includes any member, officer or employee of a control body.
 
-### 6. Power to issue codes of recommended practice[^key-4aae9f64d81b4c675c8a119480467742]
+### 6. Power to issue codes of recommended practice[^c-4aae9f64d81b4c675c8a119480467742]
 
 (1) For the guidance of feed authorities and food authorities, the Assembly may issue codes of recommended practice as regards—
 
@@ -143,7 +143,7 @@ is guilty of an offence.
 
 (6) Before issuing any code under this regulation, the Assembly will have regard to any relevant advice given by the Agency.
 
-### 7. Monitoring of enforcement action[^key-f6317286b0e8161ca9ff83534cfeced4]
+### 7. Monitoring of enforcement action[^c-f6317286b0e8161ca9ff83534cfeced4]
 
 (1) The Agency has the function of monitoring the performance of enforcement authorities in enforcing relevant audit legislation.
 
@@ -163,7 +163,7 @@ is guilty of an offence.
 
 (6) Section 19 of the Food Standards Act 1999 applies in relation to information obtained through monitoring under this regulation as if it were information obtained through monitoring under section 12 of that Act.
 
-### 8. Power to request information relating to enforcement action[^key-4882ae61df7ea554de3f6eea438d243d]
+### 8. Power to request information relating to enforcement action[^c-4882ae61df7ea554de3f6eea438d243d]
 
 (1) For the purpose of carrying out its function under regulation 7 in relation to any enforcement authority the Agency may require a person mentioned in paragraph (2) —
 
@@ -177,7 +177,7 @@ is guilty of an offence.
 
 (3) The Agency may copy any records made available to it in pursuance of a requirement under paragraph (1)(b).
 
-### 9. Power of entry for persons monitoring enforcement action[^key-c54872fe1fd4e256288a761c6a3adb7d]
+### 9. Power of entry for persons monitoring enforcement action[^c-c54872fe1fd4e256288a761c6a3adb7d]
 
 (1) The Agency may authorise any individual (whether a member of its staff or otherwise) to exercise the powers specified in paragraph (4) for the purpose of carrying out its function under regulation 7 in relation to any enforcement authority.
 
@@ -211,7 +211,7 @@ is guilty of an offence.
 
 (10) In this regulation “**authorised person**” means a person authorised under this regulation.
 
-### 10. Meaning of “enforcement authority” and related expressions[^key-cdb5f14fc9b427259f245744393da253]
+### 10. Meaning of “enforcement authority” and related expressions[^c-cdb5f14fc9b427259f245744393da253]
 
 (1) In regulations 7 to 9 “**relevant audit legislation**” means relevant feed law and relevant food law in respect of which the Agency is designated as a competent authority pursuant to paragraphs (1) and (3) of regulation 3 respectively but does not include relevant legislation as defined in section 15 of the Food Standards Act 1999.
 
@@ -219,7 +219,7 @@ is guilty of an offence.
 
 (3) Any reference in regulations 7 to 9 (however expressed) to the performance of an enforcement authority in enforcing any relevant audit legislation includes a reference to the capacity of that authority to enforce it.
 
-### 11. Offences relating to regulations 8 and 9[^key-de603234171175b84e4b16da3cd701ae]
+### 11. Offences relating to regulations 8 and 9[^c-de603234171175b84e4b16da3cd701ae]
 
 A person who —
 
@@ -229,7 +229,7 @@ A person who —
 
 is guilty of an offence.
 
-### 12. Right of appeal[^key-98f64dea5ca60f8ae27b2045d21cc9a1]
+### 12. Right of appeal[^c-98f64dea5ca60f8ae27b2045d21cc9a1]
 
 (1) Any person who is aggrieved by a decision of the competent authority taken in respect of an establishment subject to approval under Article 4(2) of Regulation 853/2004 pursuant to—
 
@@ -259,25 +259,25 @@ may appeal to a magistrates' court.
 
 (7) In this Regulation each of the terms “hygiene prohibition order”, “hygiene emergency prohibition notice”, “hygiene emergency prohibition order” and “**remedial action notice**” has the same meaning as it has in the Food Hygiene (Wales) Regulations 2005.
 
-### 13. Appeals to Crown Court against dismissal under regulation 12(1)[^key-064a9c6c09f6ad1c481c05891d0ab455]
+### 13. Appeals to Crown Court against dismissal under regulation 12(1)[^c-064a9c6c09f6ad1c481c05891d0ab455]
 
 A person who is aggrieved by the dismissal by a magistrates' court of an appeal to it under regulation 12(1) may appeal to the Crown Court.
 
-### 14. Staff of competent authority of another Member State[^key-d638bfbb9755fafd6ae56466866dfd84]
+### 14. Staff of competent authority of another Member State[^c-d638bfbb9755fafd6ae56466866dfd84]
 
 An authorised officer of a competent authority may take with him or her the staff of the competent authority of another Member State for the purpose of conducting an administrative enquiry under Article 36 of Regulation 882/2004.
 
-### 15. Commission experts[^key-d292bbdf46026f57ccee69c7be87e6fc]
+### 15. Commission experts[^c-d292bbdf46026f57ccee69c7be87e6fc]
 
 (1) When an enforcing officer enters premises for the purposes of executing and enforcing official controls the officer may take with him or her a Commission expert to enable that expert to carry out functions under Article 45 of Regulation 882/2004.
 
 (2) In this Regulation “**enforcing officer**” means an authorised officer of any authority which is responsible for executing and enforcing official controls for the verification of compliance with relevant feed law and relevant food law.
 
-### 16. Prohibition on disclosure of trade secrets[^key-96180edd24326e5ffb99eea763d1acc1]
+### 16. Prohibition on disclosure of trade secrets[^c-96180edd24326e5ffb99eea763d1acc1]
 
 If a person enters any premises by virtue of regulation 14 or 15 and discloses to any person any information obtained on the premises with regard to any trade secret he or she will be, unless the disclosure is made in the performance of his or her duty, guilty of an offence.
 
-### 17. Execution and enforcement[^key-0bfeb4916d941728f07690924b2b08e1]
+### 17. Execution and enforcement[^c-0bfeb4916d941728f07690924b2b08e1]
 
 (1) The authority responsible for executing and enforcing paragraph (3) of regulation 5 is the competent authority who imposed the requirement on the control body concerned under paragraph (1) of that regulation.
 
@@ -285,7 +285,7 @@ If a person enters any premises by virtue of regulation 14 or 15 and discloses t
 
 (3) The authority responsible for executing and enforcing regulation 16 is the authority whose officer took the person who made the disclosure on to the premises concerned.
 
-### 18. Powers of entry[^key-a440e377f06d0cf47498f1d63dcb3a82]
+### 18. Powers of entry[^c-a440e377f06d0cf47498f1d63dcb3a82]
 
 (1) An authorised officer of a relevant enforcement authority other than the Agency will, on producing, if so required, some duly authenticated document showing his or her authority, have a right at all reasonable hours—
 
@@ -329,7 +329,7 @@ the justice may by warrant signed by him or her authorise the authorised officer
 - (a) on which an animal or bird affected with any disease to which that Act applies is kept; and
 - (b) which is situated in a place declared under that Act to be infected with such a disease.
 
-### 19. Obstruction etc. of officers[^key-34e7bcbf5ba911526ad7dc699aca8dd1]
+### 19. Obstruction etc. of officers[^c-34e7bcbf5ba911526ad7dc699aca8dd1]
 
 (1) Any person who—
 
@@ -347,7 +347,7 @@ will be guilty of an offence.
 
 (3) Nothing in paragraph (1)(b) may be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
 
-### 20. Penalties[^key-4244b6483e6e8381fad13b0962ecdf50]
+### 20. Penalties[^c-4244b6483e6e8381fad13b0962ecdf50]
 
 (1) Subject to paragraph (2), a person guilty of an offence under this Part of the Regulations will be liable—
 
@@ -358,7 +358,7 @@ will be guilty of an offence.
 
 (3) A person guilty of an offence under regulation 19 will be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
-### 21. Time limit for prosecutions[^key-170e0dea5df45db4f6965f6338cee11c]
+### 21. Time limit for prosecutions[^c-170e0dea5df45db4f6965f6338cee11c]
 
 No prosecution for an offence under this Part of the Regulations which is punishable under paragraph (1) of regulation 20 may be begun after the expiry of—
 
@@ -369,7 +369,7 @@ whichever is the earlier.
 
 ## PART III — OFFICIAL CONTROLS ON FEED AND FOOD OF NON-ANIMAL ORIGIN FROM THIRD COUNTRIES
 
-### 22. Interpretation of this Part of the Regulations[^key-dfb6c1fe9ca9790abf391cf1e1b89c89]
+### 22. Interpretation of this Part of the Regulations[^c-dfb6c1fe9ca9790abf391cf1e1b89c89]
 
 In this Part of the Regulations—
 
@@ -381,19 +381,19 @@ In this Part of the Regulations—
 - “**product**” (“***cynnyrch***”) means feed or food whose import is regulated by Article 15 of Regulation 882/2004 (feed and food of non-animal origin not included in the scope of Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078)) and includes those composite food products listed in the Annex to Commission Decision [2002/349/EC](https://www.legislation.gov.uk/european/decision/2002/0349) laying down the list of products to be examined at border inspection posts under Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) [^c10798541] which include only a limited percentage of products of animal origin and which are thereby excluded from the provisions of Directive [98/78/EC](https://www.legislation.gov.uk/european/decision/1998/0078) by Article 3(1) of that Decision;
 - “**the relevant territories**” (“***y tiriogaethau perthnasol***”) means the territories referred to in Annex I to Regulation 882/2004.
 
-### 23. Feed enforcement responsibilities[^key-751e0f061ccb517fcee17332de82ee1f]
+### 23. Feed enforcement responsibilities[^c-751e0f061ccb517fcee17332de82ee1f]
 
 It is the responsibility of the feed authority to execute and enforce the Import Provisions in its area or district as the case may be in relation to feed.
 
-### 24. Food enforcement responsibilities[^key-4f9329a54dac33c614eda16db68b05dc]
+### 24. Food enforcement responsibilities[^c-4f9329a54dac33c614eda16db68b05dc]
 
 It is the responsibility of each food authority to execute and enforce the Import Provisions in its area in relation to food.
 
-### 25. Functions of the Commissioners[^key-2f87482a3f7031ec08d2f03ca8eaf289]
+### 25. Functions of the Commissioners[^c-2f87482a3f7031ec08d2f03ca8eaf289]
 
 The Commissioners must carry out the functions given to customs services under Article 24 of Regulation 882/2004 in relation to feed and food.
 
-### 26. Deferred execution and enforcement[^key-0415fe2b48b5570fc77eb1d51609ebef]
+### 26. Deferred execution and enforcement[^c-0415fe2b48b5570fc77eb1d51609ebef]
 
 (1) Where—
 
@@ -425,7 +425,7 @@ the enforcement authority for the place in which the destination is located, if 
 
 (5) No person may breach an undertaking given under paragraph (1)(d).
 
-### 27. Prohibition on introduction of certain feed and food[^key-03eb7d2a2beff1561846dc00cf35af26]
+### 27. Prohibition on introduction of certain feed and food[^c-03eb7d2a2beff1561846dc00cf35af26]
 
 (1) No person may—
 
@@ -446,7 +446,7 @@ the enforcement authority for the place in which the destination is located, if 
 - (a) “**specified feed**” (“***bwyd anifeiliaid penodedig***”) means feed that is a product;
 - (b) “**specified food**” (“***bwyd penodedig***”) means food that is a product.
 
-### 28. Checks on products[^key-56e240acdeb13871dafdd142577a4d1e]
+### 28. Checks on products[^c-56e240acdeb13871dafdd142577a4d1e]
 
 (1) The person responsible for introducing any product into Wales must permit an authorised officer of an enforcement authority to carry out checks in relation to the product pursuant to Article 16 of Regulation 882/2004.
 
@@ -454,19 +454,19 @@ the enforcement authority for the place in which the destination is located, if 
 
 (3) When an authorised officer of an enforcement authority is carrying out an identity check or a physical check on a product in accordance with Article 16 that officer will be entitled to require that the check takes place at a specified place.
 
-### 29. Detention, destruction, special treatment, re-dispatch and other appropriate measures and costs[^key-cfbe3bc176f74a3f1a956c13fff162f4]
+### 29. Detention, destruction, special treatment, re-dispatch and other appropriate measures and costs[^c-cfbe3bc176f74a3f1a956c13fff162f4]
 
 (1) An enforcement authority has the power to do anything that a competent authority may do under Articles 18 to 21 and 24(3) of Regulation 882/2004 if the conditions set out in those Articles are fulfilled.
 
 (2) The enforcement authority is the competent authority for the purposes of Article 22 of Regulation 882/2004.
 
-### 30. Decisions pursuant to Article 19 of Regulation 882/2004 (imports of feed and food from third countries)[^key-ddecf82f5936110b09ae6f49f78c78b3]
+### 30. Decisions pursuant to Article 19 of Regulation 882/2004 (imports of feed and food from third countries)[^c-ddecf82f5936110b09ae6f49f78c78b3]
 
 (1) If an authorised officer of an enforcement authority wishes to take any of the measures referred to in Article 19(1)(a) and (b) of Regulation 882/2004 in respect of feed or food the officer must serve a notice to that effect on the feed or food business operator, as the case may be, responsible for it after the officer has heard that feed or food business operator as provided in Article 19.
 
 (2) If an authorised officer of an enforcement authority wishes to exercise any of the powers referred to in Article 19(2) of Regulation 882/2004 in respect of feed or food the officer must serve a notice to that effect on the feed or food business operator, as the case may be, responsible for it.
 
-### 31. Right of appeal in respect of notices served under regulation 30[^key-c241e03f7b6a5fbbfd85ab6f2a58310e]
+### 31. Right of appeal in respect of notices served under regulation 30[^c-c241e03f7b6a5fbbfd85ab6f2a58310e]
 
 (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve a notice under regulation 30 may appeal to a magistrates' court.
 
@@ -476,11 +476,11 @@ the enforcement authority for the place in which the destination is located, if 
 
 (4) Where on an appeal under paragraph (1) a magistrates' court determines that the decision of the authorised officer of the enforcement authority is incorrect, the authority must give effect to the determination of the court.
 
-### 32. Appeals to Crown Court against dismissal of appeal under regulation 31[^key-55d623b1ceb7622c7322ebf9eef8dca7]
+### 32. Appeals to Crown Court against dismissal of appeal under regulation 31[^c-55d623b1ceb7622c7322ebf9eef8dca7]
 
 A person who is aggrieved by the dismissal by a magistrates' court of an appeal to it under regulation 31(1) may appeal to the Crown Court.
 
-### 33. Serious risk to animal or public health[^key-ef1d6613f1adaa269ca92bfabd7ce131]
+### 33. Serious risk to animal or public health[^c-ef1d6613f1adaa269ca92bfabd7ce131]
 
 (1) Where the Assembly or the Agency learns of, or has reasonable grounds to suspect, that food or feed has been or may be introduced from a third country is likely to constitute a serious risk to animal or public health, either of them may by written declaration suspend, or impose conditions on, the introduction into Wales of any product from the whole or any part of that third country.
 
@@ -494,7 +494,7 @@ A person who is aggrieved by the dismissal by a magistrates' court of an appeal 
 
 (6) A declaration may be modified, suspended or revoked by a further written declaration published, so far as is practicable, in the same manner and to the same extent as the original declaration.
 
-### 34. Liability for charges[^key-c31782fd1d35d4b7970f31dd01622351]
+### 34. Liability for charges[^c-c31782fd1d35d4b7970f31dd01622351]
 
 (1) The enforcement authority must notify the person responsible for a consignment of the charge falling to be paid for the controls carried out on it by the authority.
 
@@ -502,7 +502,7 @@ A person who is aggrieved by the dismissal by a magistrates' court of an appeal 
 
 (3) The charge referred to in paragraph (1) is any charge for the costs incurred in relation to the consignment by the enforcement authority acting as the competent authority for the purposes of Article 22 of Regulation 882/2004 by virtue of regulation 29(2).
 
-### 35. Procurement by authorised officers of samples with regard to food[^key-ba28d29defc564272fc31cc23fbe6979]
+### 35. Procurement by authorised officers of samples with regard to food[^c-ba28d29defc564272fc31cc23fbe6979]
 
 An authorised officer of a food enforcement authority may, for the purposes of the execution and enforcement by that authority of the Import Provisions—
 
@@ -513,7 +513,7 @@ An authorised officer of a food enforcement authority may, for the purposes of t
 - (c) take a sample from any food source, or a sample of any contact material, which is found by the officer on or in any such premises; and
 - (d) take a sample of any article or substance which is found by the officer on or in any such premises and which the officer has reason to believe may be required as evidence in proceedings under any of the provisions of the Import Provisions.
 
-### 36. Analysis etc. of samples[^key-e60f8d5d1d732445ece0e6978abc6b6a]
+### 36. Analysis etc. of samples[^c-e60f8d5d1d732445ece0e6978abc6b6a]
 
 (1) An authorised officer of an enforcement authority who has procured a sample under regulation 35 must—
 
@@ -553,7 +553,7 @@ will be sufficient evidence of the facts stated in it unless, in a case falling 
 
 (11) The certificate given by a food analyst or examiner under paragraph (6) must be in the form set out in Schedule 3 to the Food Safety (Sampling and Qualifications) Regulations 1990.
 
-### 37. Powers of entry of authorised officers of a food enforcement authority[^key-a53d53bfcf9abc1fa154f74e0f32ed19]
+### 37. Powers of entry of authorised officers of a food enforcement authority[^c-a53d53bfcf9abc1fa154f74e0f32ed19]
 
 (1) An authorised officer of a food enforcement authority will, on producing, if so required, some duly authenticated document showing that officer's authority, have a right at all reasonable hours—
 
@@ -591,7 +591,7 @@ the justice may by warrant signed by him or her authorise the authorised officer
 - (a) on which an animal or bird affected with any disease to which that Act applies is kept; and
 - (b) which is situated in a place declared under that Act to be infected with such a disease.
 
-### 38. Obstruction etc. of officers[^key-19e08a4fb2ab830507cd70b39559f7d4]
+### 38. Obstruction etc. of officers[^c-19e08a4fb2ab830507cd70b39559f7d4]
 
 (1) Any person who—
 
@@ -609,7 +609,7 @@ will be guilty of an offence.
 
 (3) Nothing in paragraph (1)(b) may be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
 
-### 39. Offences and penalties[^key-c773ae122932cbcfb67c01c0d876d564]
+### 39. Offences and penalties[^c-c773ae122932cbcfb67c01c0d876d564]
 
 (1) Any person who—
 
@@ -625,7 +625,7 @@ will be guilty of an offence.
 
 (3) A person guilty of an offence under regulation 38 will be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months or to both.
 
-### 40. Time limit for prosecutions (imports)[^key-eea7b782ec595f8d45366f413728fea6]
+### 40. Time limit for prosecutions (imports)[^c-eea7b782ec595f8d45366f413728fea6]
 
 No prosecution for an offence under the Import Provisions which is punishable under regulation 39(2) will be begun after the expiry of—
 
@@ -636,7 +636,7 @@ whichever is the earlier.
 
 ## PART IV — AMENDMENTS TO THE GENERAL FOOD REGULATIONS 2004
 
-### 41. Amendments to the General Food Regulations 2004[^key-9e33078cb5f8b804e425e223b4329119]
+### 41. Amendments to the General Food Regulations 2004[^c-9e33078cb5f8b804e425e223b4329119]
 
 (1) The General Food Regulations 2004 [^c10798561] are amended in accordance with paragraphs (2) to (5) in so far as they apply in relation to Wales.
 
@@ -687,11 +687,11 @@ whichever is the earlier.
 
 ## PART V — ENFORCEMENT AND SUPPLEMENTARY PROVISIONS
 
-### 42. Offences due to fault of another person[^key-371d3c1333ee1c8a101c067a6fe2193d]
+### 42. Offences due to fault of another person[^c-371d3c1333ee1c8a101c067a6fe2193d]
 
 Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person will be guilty of the offence; and a person may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
 
-### 43. Defence of due diligence[^key-1f9cc904f6a117214f6b1c49a191584c]
+### 43. Defence of due diligence[^c-1f9cc904f6a117214f6b1c49a191584c]
 
 (1) In any proceedings for an offence under these Regulations, it will, subject to paragraph (2), be a defence for the accused to prove that he or she took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under his or her control.
 
@@ -702,7 +702,7 @@ Where the commission by any person of an offence under these Regulations is due 
 
 the accused has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was then in the accused's possession.
 
-### 44. Offences by bodies corporate[^key-96a2557398c180b67aafc7a7e0e19c3b]
+### 44. Offences by bodies corporate[^c-96a2557398c180b67aafc7a7e0e19c3b]
 
 (1) Where an offence under these Regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -713,11 +713,11 @@ he or she as well as the body corporate will be deemed to be guilty of that offe
 
 (2) In paragraph (1)(a) “**director**”, in relation to any body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
 
-### 45. Offences by Scottish partnerships[^key-f8e61e0b68bb9b3e1bab3c5090d70e8c]
+### 45. Offences by Scottish partnerships[^c-f8e61e0b68bb9b3e1bab3c5090d70e8c]
 
 Where an offence under these Regulations which has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner, as well as the partnership will be deemed to be guilty of that offence and liable to be proceeded against and punished accordingly.
 
-### 46. Protection of officers acting in good faith[^key-e4aa1ee6b72e50e8d473a2f30894691f]
+### 46. Protection of officers acting in good faith[^c-e4aa1ee6b72e50e8d473a2f30894691f]
 
 (1) An officer of a competent authority is not personally liable in respect of any act done by him or her—
 
@@ -737,7 +737,7 @@ the authority may indemnify the officer against the whole or a part of any damag
 
 (4) A public analyst appointed by a food authority must be treated for the purposes of this regulation as being an officer of the authority, whether or not the analyst's appointment is a whole-time one.
 
-### 47. Service of documents[^key-6d4c7d90dbb63eb4c19cc9c07fa61704]
+### 47. Service of documents[^c-6d4c7d90dbb63eb4c19cc9c07fa61704]
 
 (1) Any document which is required or authorised under these Regulations to be served on a person may be served—
 
@@ -750,7 +750,7 @@ the authority may indemnify the officer against the whole or a part of any damag
 - (a) by delivering it to some other person at the premises; and
 - (b) if there is no other person at the premises to whom it can be delivered, by affixing it or a copy of it to some conspicuous part of the premises.
 
-### 48. Revocations[^key-9d041f406fde04047532eaf43440a15b]
+### 48. Revocations[^c-9d041f406fde04047532eaf43440a15b]
 
 (1) In so far as they apply in relation to Wales, the instruments specified in column 1 of Part I of Schedule 6 are revoked to the extent specified in column 3 of that Part.
 
@@ -766,35 +766,35 @@ The Presiding Officer of the National Assembly
 
 SCHEDULES
 
-## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^key-42dcfed7739f1baef758426efbd177da]
+## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^c-42dcfed7739f1baef758426efbd177da]
 
 Regulation 2(1)
 
-[^key-42dcfed7739f1baef758426efbd177da]
+[^c-42dcfed7739f1baef758426efbd177da]
 
 “**Regulation 178/2002**” (“***Rheoliad 178/2002***”) means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c10798581] as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c10798591];
 
-[^key-42dcfed7739f1baef758426efbd177da]
+[^c-42dcfed7739f1baef758426efbd177da]
 
 “**Regulation 852/2004**” (“***Rheoliad 852/2004***”) means Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) of the European Parliament and of the Council on the hygiene of foodstuffs [^c10798601];
 
-[^key-42dcfed7739f1baef758426efbd177da]
+[^c-42dcfed7739f1baef758426efbd177da]
 
 “**Regulation 853/2004**” (“***Rheoliad 853/2004***”) means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c10798611] as read with Directive 2004/41;
 
-[^key-42dcfed7739f1baef758426efbd177da]
+[^c-42dcfed7739f1baef758426efbd177da]
 
 “**Regulation 882/2004**” (“***Rheoliad 882/2004***”) means Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules [^c10798621]; and
 
-[^key-42dcfed7739f1baef758426efbd177da]
+[^c-42dcfed7739f1baef758426efbd177da]
 
 “**Directive 2004/41**” (“***Cyfarwyddeb 2004/41***”) means Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662) and [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) and Council Decision [95/408/EC](https://www.legislation.gov.uk/european/decision/1995/0408) [^c10798631].
 
-## SCHEDULE 2 — DEFINITION OF RELEVANT FEED LAW[^key-be157a173433f468cdf45130a4dcac08]
+## SCHEDULE 2 — DEFINITION OF RELEVANT FEED LAW[^c-be157a173433f468cdf45130a4dcac08]
 
 Regulation 2(1)
 
-[^key-be157a173433f468cdf45130a4dcac08]
+[^c-be157a173433f468cdf45130a4dcac08]
 
 “**relevant feed law**” (“***cyfraith bwyd anifeiliaid berthnasol***”) means —
 
@@ -807,11 +807,11 @@ Regulation 2(1)
 - (g) the Feeding Stuffs (Safety Requirements for Feed for Food-Producing Animals) Regulations 2000 [^c10798731]); and
 - (h) the Food Hygiene (Wales) Regulations 2005 in so far as they apply in relation to feed.
 
-## SCHEDULE 3 — DEFINITION OF RELEVANT FOOD LAW[^key-b1e3c018b5a485a76137145dce1b53b4]
+## SCHEDULE 3 — DEFINITION OF RELEVANT FOOD LAW[^c-b1e3c018b5a485a76137145dce1b53b4]
 
 Regulation 2(1)
 
-[^key-b1e3c018b5a485a76137145dce1b53b4]
+[^c-b1e3c018b5a485a76137145dce1b53b4]
 
 “**relevant food law**” (“***cyfraith bwyd berthnasol***”) means —
 
@@ -828,7 +828,7 @@ Regulation 2(1)
 - (b) food law in so far as it applies in relation to materials and articles in contact with food except in so far as it involves the regulation of food contact materials under the Ceramic Ware (Safety) Regulations 1988 [^c10798841]; and
 - (c) food law in so far as it involves the regulation of primary production and those associated operations listed in paragraph 1 of Part AI of Annex I to Regulation 852/2004 under the Food Hygiene (Wales) Regulations 2005.
 
-## SCHEDULE 4 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 882/2004 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FEED LAW[^key-3ed89d6071a590aeead6163ab3409245]
+## SCHEDULE 4 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 882/2004 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FEED LAW[^c-3ed89d6071a590aeead6163ab3409245]
 
 Regulation 3(1)
 
@@ -838,7 +838,7 @@ Regulation 3(1)
 | 1\. | The Agency | Articles 3(6), 4(2) to (6), 5(1) to (3), 6, 7, 8(1) and (3), 9, 10, 11(1) to (3) and (5) to (7), 12 19(1), (2) and (3)24, 31(1) and (2)(f), 34, 35(3) and (4), 36, 37(1), 38, 39, 40(2) and (4), 52 and 54 |
 | 2\. | The feed authority | Articles 3(6), 4(2) to (6), 5(1) to (3), 6, 7, 8(1) and (3), 9, 10, 11(1) to (3) and (5) to (7), 15(1) to (4), 16(1) and (2), 18, 19(1) and (2), 20, 21, 22, 24, 31, 34, 35(3), 36, 37(1), 38, 39, 40(2) and (4) and 54 |
 
-## SCHEDULE 5 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 882/2004 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FOOD LAW[^key-5657e07d6e510ca9d12468a9d0de8fb7]
+## SCHEDULE 5 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 882/2004 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FOOD LAW[^c-5657e07d6e510ca9d12468a9d0de8fb7]
 
 Regulation 3(3)
 
@@ -852,7 +852,7 @@ Regulation 3(3)
 
 Regulation 48
 
-### PART 1 — — REVOCATION OF INSTRUMENTS THAT APPLY IN RELATION TO WALES AND OTHER PARTS OF GREAT BRITAIN[^key-bfc14b5d767de34083743045f5d6aff5]
+### PART 1 — — REVOCATION OF INSTRUMENTS THAT APPLY IN RELATION TO WALES AND OTHER PARTS OF GREAT BRITAIN[^c-bfc14b5d767de34083743045f5d6aff5]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
@@ -881,7 +881,7 @@ Regulation 48
 | The Drinking Milk Regulations 1998 | S.I. 1998/2424 | Regulation 7 |
 | The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations 1999 | S.I. 1999/1540 | Regulation 18(1) and (3) |
 
-### PART 2 — — REVOCATION OF INSTRUMENTS THAT APPLY IN RELATION TO WALES[^key-0513aaa96208c85028b9db52f6141794]
+### PART 2 — — REVOCATION OF INSTRUMENTS THAT APPLY IN RELATION TO WALES[^c-0513aaa96208c85028b9db52f6141794]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
@@ -983,123 +983,123 @@ Regulation 48
 
 [^c10798471]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (OJ No. L245, 29.9.2003, p.4).
 
-[^key-7b1f7de1471c0dc11ba304ec9a0b9088]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-7b1f7de1471c0dc11ba304ec9a0b9088]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-d6c03e406cb87d1cbd4191bd31608261]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/3254/regulation/2) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-d6c03e406cb87d1cbd4191bd31608261]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/3254/regulation/2) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798481]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
 [^c10798491]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-726672fd233332279a3f8fd095db638c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/3254/regulation/3) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-726672fd233332279a3f8fd095db638c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/3254/regulation/3) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798501]: Marginal citation: [S.I. 2005/3292](https://www.legislation.gov.uk/uksi/2005/3292) (W.252).
 
-[^key-21ee1256b414395a34766f26eb9a2511]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/3254/regulation/4) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-21ee1256b414395a34766f26eb9a2511]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/3254/regulation/4) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-580f333fa06e1b5857824c5d3d231ada]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/3254/regulation/5) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-580f333fa06e1b5857824c5d3d231ada]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/3254/regulation/5) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-4aae9f64d81b4c675c8a119480467742]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2005/3254/regulation/6) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-4aae9f64d81b4c675c8a119480467742]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2005/3254/regulation/6) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-f6317286b0e8161ca9ff83534cfeced4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2005/3254/regulation/7) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-f6317286b0e8161ca9ff83534cfeced4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2005/3254/regulation/7) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798511]: Marginal citation: [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-4882ae61df7ea554de3f6eea438d243d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2005/3254/regulation/8) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-4882ae61df7ea554de3f6eea438d243d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2005/3254/regulation/8) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-c54872fe1fd4e256288a761c6a3adb7d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2005/3254/regulation/9) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-c54872fe1fd4e256288a761c6a3adb7d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2005/3254/regulation/9) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-cdb5f14fc9b427259f245744393da253]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2005/3254/regulation/10) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-cdb5f14fc9b427259f245744393da253]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2005/3254/regulation/10) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-de603234171175b84e4b16da3cd701ae]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2005/3254/regulation/11) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-de603234171175b84e4b16da3cd701ae]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2005/3254/regulation/11) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-98f64dea5ca60f8ae27b2045d21cc9a1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2005/3254/regulation/12) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-98f64dea5ca60f8ae27b2045d21cc9a1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2005/3254/regulation/12) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798521]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-064a9c6c09f6ad1c481c05891d0ab455]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2005/3254/regulation/13) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-064a9c6c09f6ad1c481c05891d0ab455]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2005/3254/regulation/13) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-d638bfbb9755fafd6ae56466866dfd84]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2005/3254/regulation/14) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-d638bfbb9755fafd6ae56466866dfd84]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2005/3254/regulation/14) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-d292bbdf46026f57ccee69c7be87e6fc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2005/3254/regulation/15) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-d292bbdf46026f57ccee69c7be87e6fc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2005/3254/regulation/15) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-96180edd24326e5ffb99eea763d1acc1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2005/3254/regulation/16) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-96180edd24326e5ffb99eea763d1acc1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2005/3254/regulation/16) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-0bfeb4916d941728f07690924b2b08e1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2005/3254/regulation/17) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-0bfeb4916d941728f07690924b2b08e1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2005/3254/regulation/17) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-a440e377f06d0cf47498f1d63dcb3a82]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2005/3254/regulation/18) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-a440e377f06d0cf47498f1d63dcb3a82]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2005/3254/regulation/18) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798531]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-34e7bcbf5ba911526ad7dc699aca8dd1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2005/3254/regulation/19) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-34e7bcbf5ba911526ad7dc699aca8dd1]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2005/3254/regulation/19) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-4244b6483e6e8381fad13b0962ecdf50]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2005/3254/regulation/20) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-4244b6483e6e8381fad13b0962ecdf50]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2005/3254/regulation/20) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-170e0dea5df45db4f6965f6338cee11c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2005/3254/regulation/21) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-170e0dea5df45db4f6965f6338cee11c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2005/3254/regulation/21) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-dfb6c1fe9ca9790abf391cf1e1b89c89]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2005/3254/regulation/22) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-dfb6c1fe9ca9790abf391cf1e1b89c89]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2005/3254/regulation/22) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798541]: Marginal citation: OJ No. L121, 8.5.2002, p.6.
 
-[^key-751e0f061ccb517fcee17332de82ee1f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2005/3254/regulation/23) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-751e0f061ccb517fcee17332de82ee1f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2005/3254/regulation/23) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-4f9329a54dac33c614eda16db68b05dc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2005/3254/regulation/24) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-4f9329a54dac33c614eda16db68b05dc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2005/3254/regulation/24) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-2f87482a3f7031ec08d2f03ca8eaf289]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2005/3254/regulation/25) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-2f87482a3f7031ec08d2f03ca8eaf289]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2005/3254/regulation/25) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-0415fe2b48b5570fc77eb1d51609ebef]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2005/3254/regulation/26) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-0415fe2b48b5570fc77eb1d51609ebef]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2005/3254/regulation/26) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-03eb7d2a2beff1561846dc00cf35af26]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2005/3254/regulation/27) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-03eb7d2a2beff1561846dc00cf35af26]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2005/3254/regulation/27) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-56e240acdeb13871dafdd142577a4d1e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2005/3254/regulation/28) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-56e240acdeb13871dafdd142577a4d1e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2005/3254/regulation/28) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-cfbe3bc176f74a3f1a956c13fff162f4]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2005/3254/regulation/29) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-cfbe3bc176f74a3f1a956c13fff162f4]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2005/3254/regulation/29) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-ddecf82f5936110b09ae6f49f78c78b3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2005/3254/regulation/30) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-ddecf82f5936110b09ae6f49f78c78b3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2005/3254/regulation/30) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-c241e03f7b6a5fbbfd85ab6f2a58310e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2005/3254/regulation/31) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-c241e03f7b6a5fbbfd85ab6f2a58310e]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2005/3254/regulation/31) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-55d623b1ceb7622c7322ebf9eef8dca7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2005/3254/regulation/32) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-55d623b1ceb7622c7322ebf9eef8dca7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2005/3254/regulation/32) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-ef1d6613f1adaa269ca92bfabd7ce131]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2005/3254/regulation/33) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-ef1d6613f1adaa269ca92bfabd7ce131]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2005/3254/regulation/33) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-c31782fd1d35d4b7970f31dd01622351]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2005/3254/regulation/34) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-c31782fd1d35d4b7970f31dd01622351]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2005/3254/regulation/34) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-ba28d29defc564272fc31cc23fbe6979]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2005/3254/regulation/35) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-ba28d29defc564272fc31cc23fbe6979]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2005/3254/regulation/35) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-e60f8d5d1d732445ece0e6978abc6b6a]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2005/3254/regulation/36) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-e60f8d5d1d732445ece0e6978abc6b6a]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2005/3254/regulation/36) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798551]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463), to which there are amendments not relevant to these Regulations.
 
-[^key-a53d53bfcf9abc1fa154f74e0f32ed19]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2005/3254/regulation/37) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-a53d53bfcf9abc1fa154f74e0f32ed19]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2005/3254/regulation/37) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-19e08a4fb2ab830507cd70b39559f7d4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/3254/regulation/38) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-19e08a4fb2ab830507cd70b39559f7d4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/3254/regulation/38) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-c773ae122932cbcfb67c01c0d876d564]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2005/3254/regulation/39) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-c773ae122932cbcfb67c01c0d876d564]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2005/3254/regulation/39) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-eea7b782ec595f8d45366f413728fea6]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2005/3254/regulation/40) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-eea7b782ec595f8d45366f413728fea6]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2005/3254/regulation/40) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-9e33078cb5f8b804e425e223b4329119]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2005/3254/regulation/41) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-9e33078cb5f8b804e425e223b4329119]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2005/3254/regulation/41) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798561]: Marginal citation: [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-371d3c1333ee1c8a101c067a6fe2193d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2005/3254/regulation/42) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-371d3c1333ee1c8a101c067a6fe2193d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2005/3254/regulation/42) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-1f9cc904f6a117214f6b1c49a191584c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2005/3254/regulation/43) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-1f9cc904f6a117214f6b1c49a191584c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2005/3254/regulation/43) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-96a2557398c180b67aafc7a7e0e19c3b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2005/3254/regulation/44) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-96a2557398c180b67aafc7a7e0e19c3b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2005/3254/regulation/44) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-f8e61e0b68bb9b3e1bab3c5090d70e8c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2005/3254/regulation/45) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-f8e61e0b68bb9b3e1bab3c5090d70e8c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2005/3254/regulation/45) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-e4aa1ee6b72e50e8d473a2f30894691f]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2005/3254/regulation/46) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-e4aa1ee6b72e50e8d473a2f30894691f]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2005/3254/regulation/46) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-6d4c7d90dbb63eb4c19cc9c07fa61704]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2005/3254/regulation/47) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-6d4c7d90dbb63eb4c19cc9c07fa61704]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2005/3254/regulation/47) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-9d041f406fde04047532eaf43440a15b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2005/3254/regulation/48) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-9d041f406fde04047532eaf43440a15b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2005/3254/regulation/48) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798571]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-42dcfed7739f1baef758426efbd177da]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2005/3254/schedule/1) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-42dcfed7739f1baef758426efbd177da]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2005/3254/schedule/1) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798581]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
 
@@ -1113,7 +1113,7 @@ Regulation 48
 
 [^c10798631]: Marginal citation: OJ No. L157, 30.4.2004, p.33. The revised text of Directive 2004/41/EC is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p.12).
 
-[^key-be157a173433f468cdf45130a4dcac08]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/2) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-be157a173433f468cdf45130a4dcac08]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/2) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798641]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
@@ -1135,7 +1135,7 @@ Regulation 48
 
 [^c10798731]: Marginal citation: [S.I. 2004/3254](https://www.legislation.gov.uk/uksi/2004/3254).
 
-[^key-b1e3c018b5a485a76137145dce1b53b4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2005/3254/schedule/3) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-b1e3c018b5a485a76137145dce1b53b4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2005/3254/schedule/3) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
 [^c10798741]: Marginal citation: [S.I. 1997/1729](https://www.legislation.gov.uk/uksi/1997/1729), amended by [S.I. 2001/3590](https://www.legislation.gov.uk/uksi/2001/3590) and [S.I. 2004/147](https://www.legislation.gov.uk/uksi/2004/147).
 
@@ -1159,10 +1159,10 @@ Regulation 48
 
 [^c10798841]: Marginal citation: [S.I. 1988/1647](https://www.legislation.gov.uk/uksi/1988/1647).
 
-[^key-3ed89d6071a590aeead6163ab3409245]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2005/3254/schedule/4) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-3ed89d6071a590aeead6163ab3409245]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2005/3254/schedule/4) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-5657e07d6e510ca9d12468a9d0de8fb7]: Commencement: [Sch. 5](https://www.legislation.gov.uk/wsi/2005/3254/schedule/5) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-5657e07d6e510ca9d12468a9d0de8fb7]: Commencement: [Sch. 5](https://www.legislation.gov.uk/wsi/2005/3254/schedule/5) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-bfc14b5d767de34083743045f5d6aff5]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/1) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-bfc14b5d767de34083743045f5d6aff5]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/1) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
 
-[^key-0513aaa96208c85028b9db52f6141794]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)
+[^c-0513aaa96208c85028b9db52f6141794]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/wsi/2005/3254/schedule/6/part/2) in force at 1.1.2006, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/3254/regulation/1)

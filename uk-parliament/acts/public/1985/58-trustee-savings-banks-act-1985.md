@@ -72,7 +72,7 @@ An Act to make provision for the purposes of or in connection with the reorganis
 
 ## The reorganisation
 
-### 2. The Central Board and the reorganisation.[^key-9dbd636e40f10fdcbdbfb3eb1028249e]
+### 2. The Central Board and the reorganisation.[^c-9dbd636e40f10fdcbdbfb3eb1028249e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,9 +104,9 @@ An Act to make provision for the purposes of or in connection with the reorganis
 
 ### 4. Dissolution of existing banks and repeal of 1981 Act etc.
 
-(1)[^key-3528e3b8c294132ece8ba501bf06b1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3528e3b8c294132ece8ba501bf06b1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-110db393e353e190055514447b480819][^c767316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-110db393e353e190055514447b480819][^c767316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c767317] On such day as the Treasury, by order made by statutory instrument, appoints—
 
@@ -119,7 +119,7 @@ shall, subject to any provision made under subsection (5) below, cease to have e
 
 (5) Any order under subsection (3) above may contain such transitional and saving provisions as appear to the Treasury to be appropriate in connection with the reorganisation.
 
-(6) [^key-01a00b6628957861ae57d30f3354919e]... in subsection (3)(b) above, “the other enactments relating to such banks” has the meaning given by section 7(3) below.
+(6) [^c-01a00b6628957861ae57d30f3354919e]... in subsection (3)(b) above, “the other enactments relating to such banks” has the meaning given by section 7(3) below.
 
 ## Taxation
 
@@ -270,7 +270,7 @@ and, for the purposes of the said sections 59, shall be treated as having been d
 
 (4A)[^c767373] “Deposit taker” means—
 
-- (a) a person who has permission under Part 4A[^key-2de93fe4ac6f33584deaae571d24426f] of the Financial Services and Markets Act 2000 to accept deposits; or
+- (a) a person who has permission under Part 4A[^c-2de93fe4ac6f33584deaae571d24426f] of the Financial Services and Markets Act 2000 to accept deposits; or
 - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits or other repayable funds from the public.
 
 (4B) But a person is not a deposit-taker if he has permission to accept deposits only for purpose of carrying on another regulated activity in accordance with that permission.
@@ -444,15 +444,15 @@ Sections 4(3) and 7(3).
 
 [^c767309]: Modification: [S. 1(4)](https://www.legislation.gov.uk/ukpga/1985/58/section/1/4): 21.7.1986 appointed as vesting day by [S.I. 1986/1222](https://www.legislation.gov.uk/uksi/1986/1222), [art. 2](https://www.legislation.gov.uk/uksi/1986/1222/article/2)
 
-[^key-9dbd636e40f10fdcbdbfb3eb1028249e]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/58/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
+[^c-9dbd636e40f10fdcbdbfb3eb1028249e]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/58/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
 
 [^c767313]: Textual amendment: Words in [s. 3(7)](https://www.legislation.gov.uk/ukpga/1985/58/section/3/7) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para.27](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/27) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
 [^c767314]: Marginal citation: [1965 c. 19](https://www.legislation.gov.uk/ukpga/1965/19). (N.I.).
 
-[^key-3528e3b8c294132ece8ba501bf06b1b8]: Textual amendment: S. 4(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
+[^c-3528e3b8c294132ece8ba501bf06b1b8]: Textual amendment: S. 4(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
 
-[^key-110db393e353e190055514447b480819]: Textual amendment: S. 4(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
+[^c-110db393e353e190055514447b480819]: Textual amendment: S. 4(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
 
 [^c767316]: Modification: 31.10.1990 appointed for the purposes of ss. 2(4), 4(2) by [S.I. 1990/1982](https://www.legislation.gov.uk/uksi/1990/1982), [art. 2](https://www.legislation.gov.uk/uksi/1990/1982/article/2)
 
@@ -460,7 +460,7 @@ Sections 4(3) and 7(3).
 
 [^c767318]: Marginal citation: [1981 c. 65](https://www.legislation.gov.uk/ukpga/1981/65).
 
-[^key-01a00b6628957861ae57d30f3354919e]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/1985/58/section/4/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
+[^c-01a00b6628957861ae57d30f3354919e]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/1985/58/section/4/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 16
 
 [^c767322]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1985/58/section/6) repealed by [Banking Act 1987 (c. 22, SIF 10)](https://www.legislation.gov.uk/ukpga/1987/22), [s. 108(2)](https://www.legislation.gov.uk/ukpga/1987/22/section/108/2), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1987/22/schedule/7/part/I)
 
@@ -516,7 +516,7 @@ Sections 4(3) and 7(3).
 
 [^c767373]: Textual amendment: Sch. 1 para. 11(4A)-(4C) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [297(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/297/3)
 
-[^key-2de93fe4ac6f33584deaae571d24426f]: Textual amendment: Words in [Sch. 1 para. 11(4A)(a)](https://www.legislation.gov.uk/ukpga/1985/58/schedule/1/paragraph/11/4A/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 48](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/48) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2de93fe4ac6f33584deaae571d24426f]: Textual amendment: Words in [Sch. 1 para. 11(4A)(a)](https://www.legislation.gov.uk/ukpga/1985/58/schedule/1/paragraph/11/4A/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 48](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/48) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c767374]: Marginal citation: [1929 c. 29](https://www.legislation.gov.uk/ukpga/1929/29).
 

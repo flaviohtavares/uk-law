@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Provisions of the Companies Act 2006 coming into force on 1st October 2007[^key-50933487c53ae886132c2d6b03dd8a48]
+## 2. Provisions of the Companies Act 2006 coming into force on 1st October 2007[^c-50933487c53ae886132c2d6b03dd8a48]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
   - sections 227 to 230 (directors’ service contracts);
   - section 231 (contract with sole member who is also a director);
   - sections 232 to 239 (directors’ liabilities);
-  - sections 248[^key-41fea2befdedee7d68dc694ec4d77e23] to 259 (supplementary provisions);
+  - sections 248[^c-41fea2befdedee7d68dc694ec4d77e23] to 259 (supplementary provisions);
 - (e) sections 260 to 269 (derivative claims and proceedings by members);
 - (f) in Part 13 (resolutions and meetings)—
   - sections 281 to 287 (general provisions about resolutions);
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50933487c53ae886132c2d6b03dd8a48]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2194/article/2) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-50933487c53ae886132c2d6b03dd8a48]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2194/article/2) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
 
-[^key-41fea2befdedee7d68dc694ec4d77e23]: Textual amendment: Word in [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/d) substituted (30.9.2007) by [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/1)
+[^c-41fea2befdedee7d68dc694ec4d77e23]: Textual amendment: Word in [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/d) substituted (30.9.2007) by [The Companies Act 2006 (Commencement No. 4 and Commencement No. 3 (Amendment)) Order 2007 (S.I. 2007/2607)](https://www.legislation.gov.uk/uksi/2007/2607), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2607/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2007/2607/article/4/1)

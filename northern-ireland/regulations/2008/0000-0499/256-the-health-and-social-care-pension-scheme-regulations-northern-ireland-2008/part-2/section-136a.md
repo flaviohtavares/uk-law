@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136A. Application of Chapter 10 of this Part[^key-2212ef046179ca474bf07d49bb83903e]
+## 136A. Application of Chapter 10 of this Part[^c-2212ef046179ca474bf07d49bb83903e]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) return to HSC employment in respect of which there is a liability to pay contributions to the scheme in accordance with regulation 10 of the 1995 Regulations (Contributions by members) within a period of less than 5 years beginning with the day on which they last left such employment (whether or not that period includes 1st October 2009);
 - (b) become members of the 1995 Section (whether for the first time or for a second or subsequent time having previously been a member of that Section) in accordance with regulation 7(3) of the 1995 Regulations (Restrictions on membership).
-- (c)[^key-c17a3cff9e6485559e6232d4da9a5ddd] both—
+- (c)[^c-c17a3cff9e6485559e6232d4da9a5ddd] both—
   - (i) became entitled to a pension under regulation 14 or 14A of the 1995 Regulations (which deal with an early retirement pension on the grounds of redundancy and an early retirement pension on termination of employment by employing authority, respectively) on leaving employment with one employing authority, and
   - (ii) elected to continue to be an active member of the 1995 Section in respect of any other continuing pensionable employment in accordance with paragraph (6) of regulation 77 of those Regulations (Members doing more than one job).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)
+[^c-2212ef046179ca474bf07d49bb83903e]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/nisr/2008/256/part/2) c. 10 added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2010/22/regulation/55)
 
-[^key-c17a3cff9e6485559e6232d4da9a5ddd]: Textual amendment: [Reg. 136A(1)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136A/1/c) inserted (with effect in accordance with reg. 1(4)(a) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 32](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/32), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-c17a3cff9e6485559e6232d4da9a5ddd]: Textual amendment: [Reg. 136A(1)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136A/1/c) inserted (with effect in accordance with reg. 1(4)(a) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 32](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/32), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

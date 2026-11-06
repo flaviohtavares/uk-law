@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Public functions: duty to provide information on special advisers[^key-152851052190331a55a8690ccc75536b]
+## 33. Public functions: duty to provide information on special advisers[^c-152851052190331a55a8690ccc75536b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-152851052190331a55a8690ccc75536b]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/8/section/33) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-152851052190331a55a8690ccc75536b]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2010/8/section/33) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)

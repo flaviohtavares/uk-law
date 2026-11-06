@@ -32,7 +32,7 @@ summary: ''
 
 Water Industry, England And Wales
 
-The Water Industry (Schemes for Adoption of Private Sewers) Regulations 2011 (revoked)[^key-8f8f01632474473ef992d3828b4b7ed4]
+The Water Industry (Schemes for Adoption of Private Sewers) Regulations 2011 (revoked)[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 Made
 
@@ -42,52 +42,52 @@ Coming into force
 
 1st July 2011
 
-[^key-8f8f01632474473ef992d3828b4b7ed4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f8f01632474473ef992d3828b4b7ed4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 1. Citation, commencement and expiry[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 2. Interpretation[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Main schemes[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 3. Main schemes[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Supplementary schemes[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 4. Supplementary schemes[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exempt private sewers and exempt private lateral drains[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 5. Exempt private sewers and exempt private lateral drains[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Publication of proposal to make a declaration[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 6. Publication of proposal to make a declaration[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Existing proposals to make declarations, and existing declarations[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 7. Existing proposals to make declarations, and existing declarations[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Outstanding appeals under section 105(1)(b) of the Act[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 8. Outstanding appeals under section 105(1)(b) of the Act[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Existing applications for agreements, and existing agreements, under section 104 of the Act[^key-8f8f01632474473ef992d3828b4b7ed4]
+## 9. Existing applications for agreements, and existing agreements, under section 104 of the Act[^c-8f8f01632474473ef992d3828b4b7ed4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f8f01632474473ef992d3828b4b7ed4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f8f01632474473ef992d3828b4b7ed4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f8f01632474473ef992d3828b4b7ed4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f8f01632474473ef992d3828b4b7ed4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f8f01632474473ef992d3828b4b7ed4]: Textual amendment: Regulations cease to have effect (1.7.2018) by [The Water Industry (Schemes for Adoption of Private Sewers) Regulations 2011 (S.I. 2011/1566)](https://www.legislation.gov.uk/uksi/2011/1566), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1566/regulation/1/2)
+[^c-8f8f01632474473ef992d3828b4b7ed4]: Textual amendment: Regulations cease to have effect (1.7.2018) by [The Water Industry (Schemes for Adoption of Private Sewers) Regulations 2011 (S.I. 2011/1566)](https://www.legislation.gov.uk/uksi/2011/1566), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1566/regulation/1/2)

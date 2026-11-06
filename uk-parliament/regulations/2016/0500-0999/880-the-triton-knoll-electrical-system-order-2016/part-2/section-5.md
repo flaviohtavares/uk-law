@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Transfer of benefit of Order[^key-5b234c3736fa38311b2fc6d3415224f3]
+## 5. Transfer of benefit of Order[^c-5b234c3736fa38311b2fc6d3415224f3]
 
 *Extent: E+W+S*
 
@@ -66,6 +66,6 @@ at least 10 days before the transfer or grant takes effect or, if the transfer o
 
 ## Annotations
 
-[^key-5b234c3736fa38311b2fc6d3415224f3]: Commencement: Art. 5 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-5b234c3736fa38311b2fc6d3415224f3]: Commencement: Art. 5 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00016]: Footnote: Section 6 was substituted by section 30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by sections 136 and 145 of, and by Schedule 23 to, the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).

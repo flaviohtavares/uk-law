@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256B. Bank of England” and “Prudential Regulation Authority”[^key-77fd20ebf6c9a876c04cc24635a8b03a]
+## 256B. Bank of England” and “Prudential Regulation Authority”[^c-77fd20ebf6c9a876c04cc24635a8b03a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77fd20ebf6c9a876c04cc24635a8b03a]: Textual amendment: S. 256B inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/62) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-77fd20ebf6c9a876c04cc24635a8b03a]: Textual amendment: S. 256B inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/62) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)

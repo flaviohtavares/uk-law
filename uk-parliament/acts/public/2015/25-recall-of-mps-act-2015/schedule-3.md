@@ -26,7 +26,7 @@ Section 16
 
 #### Overview
 
-**1.**[^key-07584a9f47d2cb5e4f07740115e42e96] (1) This Schedule regulates expenditure in relation to recall petitions.
+**1.**[^c-07584a9f47d2cb5e4f07740115e42e96] (1) This Schedule regulates expenditure in relation to recall petitions.
 
 (2) Part 2 limits the amount of petition expenses that may be incurred during the recall petition period—
 
@@ -55,7 +55,7 @@ Section 16
 
 #### Limit on petition expenditure: persons other than accredited campaigners
 
-**2.**[^key-e761ca9b707da7af6783534a3155b270] (1) The total petition expenses incurred during the recall petition period by or on behalf of a person who is not an accredited campaigner must not exceed £500.
+**2.**[^c-e761ca9b707da7af6783534a3155b270] (1) The total petition expenses incurred during the recall petition period by or on behalf of a person who is not an accredited campaigner must not exceed £500.
 
 (2) The following provisions of this paragraph apply where—
 
@@ -73,7 +73,7 @@ Section 16
 
 #### Limit on petition expenditure: accredited campaigners
 
-**3.**[^key-ba6511a29e2c9a6bc5b7733111672204] (1) The total petition expenses incurred during the recall petition period by or on behalf of an accredited campaigner must not exceed £10,000.
+**3.**[^c-ba6511a29e2c9a6bc5b7733111672204] (1) The total petition expenses incurred during the recall petition period by or on behalf of an accredited campaigner must not exceed £10,000.
 
 (2) The following provisions of this paragraph apply where—
 
@@ -108,7 +108,7 @@ Section 16
 
 #### Expenses incurred by persons acting in concert
 
-**4.**[^key-2141dbbfb879c493b29b2126d0200da6] (1) This paragraph applies where petition expenses are incurred by or on behalf of a person in pursuance of a relevant plan.
+**4.**[^c-2141dbbfb879c493b29b2126d0200da6] (1) This paragraph applies where petition expenses are incurred by or on behalf of a person in pursuance of a relevant plan.
 
 (2) “**Relevant plan**” means a plan or other arrangement by which—
 
@@ -121,7 +121,7 @@ with a view to, or otherwise in connection with, promoting or procuring the succ
 
 #### Expenses incurred before the recall petition period
 
-**5.**[^key-8e0fda05d612df48ea62c52dbd27f73d] (1) This paragraph applies where—
+**5.**[^c-8e0fda05d612df48ea62c52dbd27f73d] (1) This paragraph applies where—
 
 - (a) before the beginning of the recall petition period, a petition expense is incurred by or on behalf of a person in respect of property, services or facilities, and
 - (b) the property, services or facilities is or are made use of by or on behalf of the person during the recall petition period with a view to, or otherwise in connection with, promoting or procuring the success or failure of the recall petition.
@@ -132,7 +132,7 @@ with a view to, or otherwise in connection with, promoting or procuring the succ
 
 #### Notional petition expenses
 
-**6.**[^key-c7359db68a571a15489ce6ed6bb3b006] (1) This paragraph applies where the following two conditions are met in relation to a person (“P”).
+**6.**[^c-c7359db68a571a15489ce6ed6bb3b006] (1) This paragraph applies where the following two conditions are met in relation to a person (“P”).
 
 (2) The first condition is that—
 
@@ -144,7 +144,7 @@ with a view to, or otherwise in connection with, promoting or procuring the succ
 - (a) for a period any part of which falls within the recall petition period, and
 - (b) in circumstances such that, if any expenses were to be (or are) actually incurred by or on behalf of P in respect of that use, they would be (or are) petition expenses by virtue of Part 4 of this Schedule.
 
-(3A)[^key-7717694609a7b4208e5f131c2e39ae76] For the purposes of sub-paragraph (3), property, services or facilities are made use of on behalf of P only if their use on behalf of P is directed, authorised or encouraged by P or (where P is an accredited campaigner) by P or the responsible person.
+(3A)[^c-7717694609a7b4208e5f131c2e39ae76] For the purposes of sub-paragraph (3), property, services or facilities are made use of on behalf of P only if their use on behalf of P is directed, authorised or encouraged by P or (where P is an accredited campaigner) by P or the responsible person.
 
 (4) Where this paragraph applies—
 
@@ -181,7 +181,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Petition expenses incurred before becoming an accredited campaigner
 
-**7.**[^key-e1e75c3f1a9eb8bcdb7f7cd641b3b1a9] A reference in this Part of this Schedule to a petition expense incurred during the recall petition period by or on behalf of an accredited campaigner includes—
+**7.**[^c-e1e75c3f1a9eb8bcdb7f7cd641b3b1a9] A reference in this Part of this Schedule to a petition expense incurred during the recall petition period by or on behalf of an accredited campaigner includes—
 
 - (a) any petition expense incurred during that period by or on behalf of a person who is not an accredited campaigner in relation to the recall petition in question at the time the expense is incurred but who subsequently becomes such an accredited campaigner, and
 - (b) any petition expense treated by virtue of paragraph 5 or 6 as incurred during that period by or on behalf of a person where that person becomes an accredited campaigner in relation to the recall petition in question during that period.
@@ -190,7 +190,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Restriction on incurring petition expenses
 
-**8.**[^key-4e71c40e9ee3e31f5b4c5e660241256d] (1) No petition expenses are to be incurred by or on behalf of an accredited campaigner unless they are incurred with the authority of—
+**8.**[^c-4e71c40e9ee3e31f5b4c5e660241256d] (1) No petition expenses are to be incurred by or on behalf of an accredited campaigner unless they are incurred with the authority of—
 
 - (a) the responsible person, or
 - (b) a person authorised in writing by the responsible person to incur the expenses.
@@ -201,7 +201,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Restriction on payments in respect of petition expenses
 
-**9.**[^key-abb0a9d7bd5a78eb7e6e3e981bc094a7] (1) No payment may be made in respect of petition expenses incurred, or to be incurred, by or on behalf of an accredited campaigner unless it is made by—
+**9.**[^c-abb0a9d7bd5a78eb7e6e3e981bc094a7] (1) No payment may be made in respect of petition expenses incurred, or to be incurred, by or on behalf of an accredited campaigner unless it is made by—
 
 - (a) the responsible person, or
 - (b) a person authorised in writing by the responsible person to make the payment.
@@ -222,7 +222,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Restrictions on payment of claims in respect of petition expenses
 
-**10.**[^key-34a2a56ad7cca0f1ae0ea2808b0a1631] (1) A relevant claim is not payable unless it—
+**10.**[^c-34a2a56ad7cca0f1ae0ea2808b0a1631] (1) A relevant claim is not payable unless it—
 
 - (a) is sent to the responsible person or to a person authorised under paragraph 8 to incur the expenses, and
 - (b) is sent before the end of the period of 21 days beginning with the first day after the recall petition period.
@@ -258,7 +258,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Payment of claims in respect of petition expenses: application for leave to pay late claims
 
-**11.**[^key-ebf42ef34e1088b31262adce40b132f2] (1) An application may be made to the appropriate court for leave for a relevant claim to be paid although sent to a person mentioned in paragraph 10(1)(a) after the end of the period allowed under paragraph 10(1)(b); and the appropriate court, if satisfied that for any special reason it is appropriate to do so, may by order grant the leave.
+**11.**[^c-ebf42ef34e1088b31262adce40b132f2] (1) An application may be made to the appropriate court for leave for a relevant claim to be paid although sent to a person mentioned in paragraph 10(1)(a) after the end of the period allowed under paragraph 10(1)(b); and the appropriate court, if satisfied that for any special reason it is appropriate to do so, may by order grant the leave.
 
 (2) An application under sub-paragraph (1) may be made by—
 
@@ -279,7 +279,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Disputed claims
 
-**12.**[^key-5f5da5b4d0b8616f4d1f86ed5e7979c0] (1) A person who makes a disputed claim may bring an action for it; and paragraph 10(2) does not apply in relation to any sum paid in pursuance of a judgment or order made by a court in the proceedings.
+**12.**[^c-5f5da5b4d0b8616f4d1f86ed5e7979c0] (1) A person who makes a disputed claim may bring an action for it; and paragraph 10(2) does not apply in relation to any sum paid in pursuance of a judgment or order made by a court in the proceedings.
 
 (2) In this paragraph “**disputed claim**” means a relevant claim that—
 
@@ -300,7 +300,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### Meaning of “petition expense”
 
-**13.**[^key-b765a7ec49324cbcc7889a4b312c42e1] (1) For the purposes of this Schedule an expense is a “petition expense” if—
+**13.**[^c-b765a7ec49324cbcc7889a4b312c42e1] (1) For the purposes of this Schedule an expense is a “petition expense” if—
 
 - (a) it is incurred with a view to, or otherwise in connection with, promoting or procuring the success or failure of a recall petition,
 - (b) it is incurred in respect of a matter listed in paragraph 14,
@@ -315,7 +315,7 @@ as is reasonably attributable to the use made of the property, services or facil
 
 #### List of matters
 
-**14.**[^key-4905198926735b917c29b10fbe148c71] (1) The matters referred to in paragraph 13(1)(b) are as follows.
+**14.**[^c-4905198926735b917c29b10fbe148c71] (1) The matters referred to in paragraph 13(1)(b) are as follows.
 
 (2) Advertising of any nature (whatever the medium used).
 
@@ -335,7 +335,7 @@ Expenses incurred in respect of this matter include costs incurred in connection
 
 #### General exclusions
 
-**15.**[^key-480379158f6fcc8b0e896ab03d206a7f] (1) The matters referred to in paragraph 13(1)(c) are as follows.
+**15.**[^c-480379158f6fcc8b0e896ab03d206a7f] (1) The matters referred to in paragraph 13(1)(c) are as follows.
 
 (2) The publication of any matter, other than an advertisement, relating to the recall petition in—
 
@@ -389,7 +389,7 @@ For that purpose, no account is to be taken of any period during which Parliamen
 
 #### Meaning of “accredited campaigner”
 
-**17.**[^key-a5d6f369f25d9837712ebca3a6ab86b0] (1) In this Schedule “**accredited campaigner**” means a person (“P”) who—
+**17.**[^c-a5d6f369f25d9837712ebca3a6ab86b0] (1) In this Schedule “**accredited campaigner**” means a person (“P”) who—
 
 - (a) is eligible to be an accredited campaigner (see paragraph 18),
 - (b) has delivered to the petition officer an accreditation notice (see paragraph 19), and
@@ -402,7 +402,7 @@ For that purpose, no account is to be taken of any period during which Parliamen
 
 #### Eligibility to be an accredited campaigner
 
-**18.**[^key-7a05dbf6e9f661a71bd1a873bda0e022] (1) A person is eligible to be an accredited campaigner if the person is any of the following—
+**18.**[^c-7a05dbf6e9f661a71bd1a873bda0e022] (1) A person is eligible to be an accredited campaigner if the person is any of the following—
 
 - (a) a registered party;
 - (b) an individual who is resident in the United Kingdom;
@@ -417,12 +417,12 @@ For that purpose, no account is to be taken of any period during which Parliamen
 (2) In this paragraph “**an electoral register**” means—
 
 - (a) a register of parliamentary or local government electors maintained under section 9 of the Representation of the People Act 1983,
-- (b)[^key-30ab7e4a88476b5f2b13d56667dc6a91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-30ab7e4a88476b5f2b13d56667dc6a91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-30ab7e4a88476b5f2b13d56667dc6a91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-30ab7e4a88476b5f2b13d56667dc6a91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Accreditation notice
 
-**19.**[^key-146df04968747a9d40e2f85bc165a2d5] (1) In this Part of this Schedule, “**accreditation notice**”, in relation to a person (“P”) who is eligible to be an accredited campaigner, means a notice—
+**19.**[^c-146df04968747a9d40e2f85bc165a2d5] (1) In this Part of this Schedule, “**accreditation notice**”, in relation to a person (“P”) who is eligible to be an accredited campaigner, means a notice—
 
 - (a) identifying the recall petition to which it relates,
 - (b) stating whether P proposes to campaign for the success or failure of the petition,
@@ -457,7 +457,7 @@ For that purpose, no account is to be taken of any period during which Parliamen
 
 #### Notice of alteration
 
-**20.**[^key-6542e095f2f45887dcdef41914eea8cf] (1) This paragraph applies if, at any time before the end of the compliance period, any information which in accordance with this Schedule is contained in an accreditation notice ceases to be accurate.
+**20.**[^c-6542e095f2f45887dcdef41914eea8cf] (1) This paragraph applies if, at any time before the end of the compliance period, any information which in accordance with this Schedule is contained in an accreditation notice ceases to be accurate.
 
 (2) The accredited campaigner must, as soon as reasonably practicable after becoming aware of the inaccuracy, deliver a notice (“a notice of alteration”) to the petition officer—
 
@@ -491,7 +491,7 @@ remains to be complied with on the part of the accredited campaigner.
 
 #### The responsible person
 
-**21.**[^key-849e143608f0af4eca9c4468c4addffb] (1) If the accredited campaigner is a registered party but is not a minor party, the responsible person in relation to the accredited campaigner is the treasurer of the party.
+**21.**[^c-849e143608f0af4eca9c4468c4addffb] (1) If the accredited campaigner is a registered party but is not a minor party, the responsible person in relation to the accredited campaigner is the treasurer of the party.
 
 (2) In any other case, the responsible person in relation to the accredited campaigner is—
 
@@ -505,7 +505,7 @@ remains to be complied with on the part of the accredited campaigner.
 
 #### Duty of petition officer to publish information about accredited campaigners
 
-**22.**[^key-5fde95580394e016af2c03e586a3e626] (1) The petition officer must, as soon as reasonably practicable after receiving an accreditation notice under paragraph 17 or a corrected version of an accreditation notice under paragraph 20, make the information contained in it available to the public in any way the officer thinks fit.
+**22.**[^c-5fde95580394e016af2c03e586a3e626] (1) The petition officer must, as soon as reasonably practicable after receiving an accreditation notice under paragraph 17 or a corrected version of an accreditation notice under paragraph 20, make the information contained in it available to the public in any way the officer thinks fit.
 
 (2) But the petition officer must not make available to the public the home address of an accredited campaigner who is an individual.
 
@@ -536,7 +536,7 @@ remains to be complied with on the part of the accredited campaigner.
 
 #### Corrupt and illegal practices
 
-**25.**[^key-99af49311c955dc86cfdee158b35b875][^key-2814ca648caf16b830e372840b38f823] (1) An offence that is a corrupt practice under this Schedule is treated—
+**25.**[^c-99af49311c955dc86cfdee158b35b875][^c-2814ca648caf16b830e372840b38f823] (1) An offence that is a corrupt practice under this Schedule is treated—
 
 - (a) for the purposes of section 168 of the Representation of the People Act 1983 (mode of prosecution and penalty for corrupt practices) as a corrupt practice,
 - (b) for the purposes of section 173 of that Act (incapacities on conviction of corrupt or illegal practice) as a corrupt practice,
@@ -555,60 +555,60 @@ remains to be complied with on the part of the accredited campaigner.
 
 #### Application of defined terms in PPERA 2000
 
-**26.**[^key-28f4ca69a2679a80a9aca7d187d0bbdc] (1) In this Schedule, the following expressions have the same meaning as in PPERA 2000: “business”; “market value”; “minor party”; “property”; “registered party”; “treasurer” (see section 160(1) of that Act).
+**26.**[^c-28f4ca69a2679a80a9aca7d187d0bbdc] (1) In this Schedule, the following expressions have the same meaning as in PPERA 2000: “business”; “market value”; “minor party”; “property”; “registered party”; “treasurer” (see section 160(1) of that Act).
 
 (2) In the case of references to the treasurer of a registered party, see section 25(7) of that Act (which is inserted by paragraph 4(3) of Schedule 6 to this Act).
 
 ## Annotations
 
-[^key-07584a9f47d2cb5e4f07740115e42e96]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-07584a9f47d2cb5e4f07740115e42e96]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-e761ca9b707da7af6783534a3155b270]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e761ca9b707da7af6783534a3155b270]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-ba6511a29e2c9a6bc5b7733111672204]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/3) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ba6511a29e2c9a6bc5b7733111672204]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/3) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-2141dbbfb879c493b29b2126d0200da6]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-2141dbbfb879c493b29b2126d0200da6]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-8e0fda05d612df48ea62c52dbd27f73d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-8e0fda05d612df48ea62c52dbd27f73d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-c7359db68a571a15489ce6ed6bb3b006]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-c7359db68a571a15489ce6ed6bb3b006]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-7717694609a7b4208e5f131c2e39ae76]: Textual amendment: [Sch. 3 para. 6(3A)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/6/3A) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 20(6)](https://www.legislation.gov.uk/ukpga/2022/37/section/20/6), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/1))
+[^c-7717694609a7b4208e5f131c2e39ae76]: Textual amendment: [Sch. 3 para. 6(3A)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/6/3A) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 20(6)](https://www.legislation.gov.uk/ukpga/2022/37/section/20/6), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/3/1))
 
-[^key-e1e75c3f1a9eb8bcdb7f7cd641b3b1a9]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e1e75c3f1a9eb8bcdb7f7cd641b3b1a9]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-4e71c40e9ee3e31f5b4c5e660241256d]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/8) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-4e71c40e9ee3e31f5b4c5e660241256d]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/8) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-abb0a9d7bd5a78eb7e6e3e981bc094a7]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/9) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-abb0a9d7bd5a78eb7e6e3e981bc094a7]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/9) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-34a2a56ad7cca0f1ae0ea2808b0a1631]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/10) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-34a2a56ad7cca0f1ae0ea2808b0a1631]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/10) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-ebf42ef34e1088b31262adce40b132f2]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/11) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ebf42ef34e1088b31262adce40b132f2]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/11) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-5f5da5b4d0b8616f4d1f86ed5e7979c0]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/12) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-5f5da5b4d0b8616f4d1f86ed5e7979c0]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/12) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-b765a7ec49324cbcc7889a4b312c42e1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/13) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-b765a7ec49324cbcc7889a4b312c42e1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/13) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-4905198926735b917c29b10fbe148c71]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-4905198926735b917c29b10fbe148c71]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-480379158f6fcc8b0e896ab03d206a7f]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/15) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-480379158f6fcc8b0e896ab03d206a7f]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/15) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-a5d6f369f25d9837712ebca3a6ab86b0]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/17) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-a5d6f369f25d9837712ebca3a6ab86b0]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/17) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-7a05dbf6e9f661a71bd1a873bda0e022]: Commencement: Sch. 3 para. 18 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-7a05dbf6e9f661a71bd1a873bda0e022]: Commencement: Sch. 3 para. 18 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-30ab7e4a88476b5f2b13d56667dc6a91]: Textual amendment: Sch. 3 para. 18(2)(b)(c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-30ab7e4a88476b5f2b13d56667dc6a91]: Textual amendment: Sch. 3 para. 18(2)(b)(c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-146df04968747a9d40e2f85bc165a2d5]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/19) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-146df04968747a9d40e2f85bc165a2d5]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/19) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-6542e095f2f45887dcdef41914eea8cf]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/20) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-6542e095f2f45887dcdef41914eea8cf]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/20) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-849e143608f0af4eca9c4468c4addffb]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/21) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-849e143608f0af4eca9c4468c4addffb]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/21) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-5fde95580394e016af2c03e586a3e626]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/22) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-5fde95580394e016af2c03e586a3e626]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/22) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-99af49311c955dc86cfdee158b35b875]: Commencement: Sch. 3 para. 25 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-99af49311c955dc86cfdee158b35b875]: Commencement: Sch. 3 para. 25 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-2814ca648caf16b830e372840b38f823]: Modification: Sch. 3 para. 25 applied (4.3.2016) by [The Recall of MPs Act 2015 (Recall Petition) Regulations 2016 (S.I. 2016/295)](https://www.legislation.gov.uk/uksi/2016/295), arts. 1, [139](https://www.legislation.gov.uk/uksi/2016/295/article/139)
+[^c-2814ca648caf16b830e372840b38f823]: Modification: Sch. 3 para. 25 applied (4.3.2016) by [The Recall of MPs Act 2015 (Recall Petition) Regulations 2016 (S.I. 2016/295)](https://www.legislation.gov.uk/uksi/2016/295), arts. 1, [139](https://www.legislation.gov.uk/uksi/2016/295/article/139)
 
-[^key-28f4ca69a2679a80a9aca7d187d0bbdc]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/26) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-28f4ca69a2679a80a9aca7d187d0bbdc]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2015/25/schedule/3/paragraph/26) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C15. Reduction of returned contributions following payment in lieu of contributions[^key-437eaa699133b039731c661aef7fe417]
+## C15. Reduction of returned contributions following payment in lieu of contributions[^c-437eaa699133b039731c661aef7fe417]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ and where no superannuation contributions were payable in that employment, any a
 
 ## Annotations
 
-[^key-437eaa699133b039731c661aef7fe417]: Commencement: [Reg. C15](https://www.legislation.gov.uk/uksi/1986/24/regulation/C15) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-437eaa699133b039731c661aef7fe417]: Commencement: [Reg. C15](https://www.legislation.gov.uk/uksi/1986/24/regulation/C15) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00034]: Footnote: [S.I. 1960/1103](https://www.legislation.gov.uk/uksi/1960/1103).

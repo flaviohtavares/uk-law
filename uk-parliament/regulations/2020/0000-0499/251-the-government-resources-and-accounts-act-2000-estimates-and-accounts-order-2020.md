@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation and commencement[^key-00255adc8f434f084078409f8828a286]
+## 1. Citation and commencement[^c-00255adc8f434f084078409f8828a286]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2020.
 
 (2) This Order comes into force on 1st April 2020.
 
-## 2. Designations[^key-196f3b8d8fc7ea413997d430cfa3ebfa]
+## 2. Designations[^c-196f3b8d8fc7ea413997d430cfa3ebfa]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -67,7 +67,7 @@ Rebecca Harris
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE — Designated Bodies[^key-e1c750ddd1645ffef53ed36d2b9f54c5]
+## SCHEDULE — Designated Bodies[^c-e1c750ddd1645ffef53ed36d2b9f54c5]
 
 Article 2
 
@@ -579,8 +579,8 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c24047221]: Marginal citation: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the [Constitutional Reform and Governance Act 2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-00255adc8f434f084078409f8828a286]: Commencement: Art. 1 in force at 1.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/251/article/1/2)
+[^c-00255adc8f434f084078409f8828a286]: Commencement: Art. 1 in force at 1.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/251/article/1/2)
 
-[^key-196f3b8d8fc7ea413997d430cfa3ebfa]: Commencement: Art. 2 in force at 1.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/251/article/1/2)
+[^c-196f3b8d8fc7ea413997d430cfa3ebfa]: Commencement: Art. 2 in force at 1.4.2020, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/251/article/1/2)
 
-[^key-e1c750ddd1645ffef53ed36d2b9f54c5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2020/251/schedule) substituted (31.1.2021) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) (No. 2) Order 2020 (S.I. 2020/1530)](https://www.legislation.gov.uk/uksi/2020/1530), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1530/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1530/schedule)
+[^c-e1c750ddd1645ffef53ed36d2b9f54c5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2020/251/schedule) substituted (31.1.2021) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) (No. 2) Order 2020 (S.I. 2020/1530)](https://www.legislation.gov.uk/uksi/2020/1530), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/1530/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1530/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z45. Conditions for this Part to apply to fund[^key-99ec40eae4e63472000e98d5a2a781e8]
+## 69Z45. Conditions for this Part to apply to fund[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In order for this Part to apply to an authorised investment fund in respect of a
 
 ## Annotations
 
-[^key-99ec40eae4e63472000e98d5a2a781e8]: Textual amendment: Pt. 4B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24)
+[^c-99ec40eae4e63472000e98d5a2a781e8]: Textual amendment: Pt. 4B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24)

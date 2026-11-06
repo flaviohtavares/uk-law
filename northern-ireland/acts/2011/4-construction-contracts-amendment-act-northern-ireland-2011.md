@@ -36,7 +36,7 @@ An Act to amend the Construction Contracts (Northern Ireland) Order 1997.
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Requirement for construction contracts to be in writing[^key-b7e33455747a2e60517800dd1e81c72e]
+## 1. Requirement for construction contracts to be in writing[^c-b7e33455747a2e60517800dd1e81c72e]
 
 (1) Article 6 of the 1997 Order (provisions applicable only to agreements in writing) is repealed.
 
@@ -47,7 +47,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) In this Act “**the 1997 Order**” means the Construction Contracts (Northern Ireland) Order 1997 (NI 1).
 
-## 2. Power to disapply provisions of the 1997 Order[^key-e5a49874ceaf69e4ed7f1202bc7ef371]
+## 2. Power to disapply provisions of the 1997 Order[^c-e5a49874ceaf69e4ed7f1202bc7ef371]
 
 (1) Article 5 of the 1997 Order (provisions not applicable to certain contracts) is amended as follows.
 
@@ -61,7 +61,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-## 3. Adjudicator's power to make corrections[^key-fc85a764fc9169705803e8a8d55eb796]
+## 3. Adjudicator's power to make corrections[^c-fc85a764fc9169705803e8a8d55eb796]
 
 In Article 7 of the 1997 Order (right to refer disputes to adjudication) after paragraph (3) insert—
 
@@ -69,7 +69,7 @@ In Article 7 of the 1997 Order (right to refer disputes to adjudication) after p
 
 .
 
-## 4. Adjudication costs[^key-3b4ba8b0c294d92755099d0526a95988]
+## 4. Adjudication costs[^c-3b4ba8b0c294d92755099d0526a95988]
 
 After Article 7 of the 1997 Order insert—
 
@@ -84,7 +84,7 @@ After Article 7 of the 1997 Order insert—
 
 .
 
-## 5. Determination of payments due[^key-da587587683b44643a9c79b08cd77339]
+## 5. Determination of payments due[^c-da587587683b44643a9c79b08cd77339]
 
 In Article 9 of the 1997 Order (dates for payment) after paragraph (1) insert—
 
@@ -104,7 +104,7 @@ In Article 9 of the 1997 Order (dates for payment) after paragraph (1) insert—
 
 .
 
-## 6. Notices relating to payment[^key-ba48b5f82987fffb414bfb5b4c332cb3]
+## 6. Notices relating to payment[^c-ba48b5f82987fffb414bfb5b4c332cb3]
 
 (1) The 1997 Order is amended as follows.
 
@@ -171,7 +171,7 @@ In Article 9 of the 1997 Order (dates for payment) after paragraph (1) insert—
 
 .
 
-## 7. Requirement to pay notified sum[^key-f15a2810d95cc080b60972c2bd2bacd9]
+## 7. Requirement to pay notified sum[^c-f15a2810d95cc080b60972c2bd2bacd9]
 
 (1) For Article 10 of the 1997 Order (notice of intention to withhold payment) substitute—
 
@@ -234,7 +234,7 @@ In Article 9 of the 1997 Order (dates for payment) after paragraph (1) insert—
 - (a) in paragraph (1) for the words from “Where” to “given” substitute “ Where the requirement in Article 10(1) applies in relation to any sum but is not complied with, ”;
 - (b) in paragraph (3) for “the amount due” substitute “ the sum referred to in paragraph (1) ”.
 
-## 8. Suspension of performance for non-payment[^key-8231046dcf47c6a23c5b3080dd43a204]
+## 8. Suspension of performance for non-payment[^c-8231046dcf47c6a23c5b3080dd43a204]
 
 In Article 11 of the 1997 Order (right to suspend performance for non-payment)—
 
@@ -258,18 +258,18 @@ In Article 11 of the 1997 Order (right to suspend performance for non-payment)�
 
 ## Annotations
 
-[^key-b7e33455747a2e60517800dd1e81c72e]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/4/section/1) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-b7e33455747a2e60517800dd1e81c72e]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/4/section/1) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-e5a49874ceaf69e4ed7f1202bc7ef371]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/4/section/2) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-e5a49874ceaf69e4ed7f1202bc7ef371]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/4/section/2) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-fc85a764fc9169705803e8a8d55eb796]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/4/section/3) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-fc85a764fc9169705803e8a8d55eb796]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/4/section/3) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-3b4ba8b0c294d92755099d0526a95988]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/4/section/4) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-3b4ba8b0c294d92755099d0526a95988]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/4/section/4) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-da587587683b44643a9c79b08cd77339]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/4/section/5) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-da587587683b44643a9c79b08cd77339]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/4/section/5) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-ba48b5f82987fffb414bfb5b4c332cb3]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/4/section/6) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-ba48b5f82987fffb414bfb5b4c332cb3]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/4/section/6) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-f15a2810d95cc080b60972c2bd2bacd9]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/4/section/7) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-f15a2810d95cc080b60972c2bd2bacd9]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/4/section/7) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
 
-[^key-8231046dcf47c6a23c5b3080dd43a204]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/4/section/8) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)
+[^c-8231046dcf47c6a23c5b3080dd43a204]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/4/section/8) in operation at 14.11.2012 by [S.R. 2012/367](https://www.legislation.gov.uk/nisr/2012/367), [art. 2](https://www.legislation.gov.uk/nisr/2012/367/article/2)

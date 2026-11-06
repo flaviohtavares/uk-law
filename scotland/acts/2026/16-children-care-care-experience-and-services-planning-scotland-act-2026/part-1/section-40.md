@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Peer support services[^key-a87abf0d33958b898107dcea1521a96c]
+## 40. Peer support services[^c-a87abf0d33958b898107dcea1521a96c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a87abf0d33958b898107dcea1521a96c]: Commencement: S. 40 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-a87abf0d33958b898107dcea1521a96c]: Commencement: S. 40 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

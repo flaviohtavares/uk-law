@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. National DNA Database Strategy Board[^key-23d8262ffe8b9bbeb68e9af22ed88263]
+## 24. National DNA Database Strategy Board[^c-23d8262ffe8b9bbeb68e9af22ed88263]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ After section 63AA of the Police and Criminal Evidence Act 1984 (for which see s
 
 ## Annotations
 
-[^key-23d8262ffe8b9bbeb68e9af22ed88263]: Commencement: S. 24 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-23d8262ffe8b9bbeb68e9af22ed88263]: Commencement: S. 24 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

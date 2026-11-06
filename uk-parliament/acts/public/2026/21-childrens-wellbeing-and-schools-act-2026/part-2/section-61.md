@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Co-operation between schools and local authorities[^key-caf5d43cb78f2e5b7da6eb4bcabcc339]
+## 61. Co-operation between schools and local authorities[^c-caf5d43cb78f2e5b7da6eb4bcabcc339]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caf5d43cb78f2e5b7da6eb4bcabcc339]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2026/21/section/61) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-caf5d43cb78f2e5b7da6eb4bcabcc339]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2026/21/section/61) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

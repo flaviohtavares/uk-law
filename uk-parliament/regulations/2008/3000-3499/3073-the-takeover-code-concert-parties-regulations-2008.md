@@ -46,9 +46,9 @@ at 12.00 p.m. on 28th November 2008
 
 The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to credit and financial institutions and the taking of deposits or other repayable funds from the public[^f00002].
 
-In exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, the Treasury make the following Regulations:[^key-3319a5a07586c92a9c0d9c5f539f3cee]
+In exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, the Treasury make the following Regulations:[^c-3319a5a07586c92a9c0d9c5f539f3cee]
 
-## 1. Citation, commencement and interpretation[^key-3da5fe70dc2810530e28da553ce94ec9]
+## 1. Citation, commencement and interpretation[^c-3da5fe70dc2810530e28da553ce94ec9]
 
 (1) These Regulations may be cited as the Takeover Code (Concert Parties) Regulations 2008 and come into force 12.00 p.m. on 28th November 2008.
 
@@ -59,7 +59,7 @@ In exercise of the powers conferred on them by section 2(2) of the European Comm
 - (c) “recapitalisation scheme” means the facility announced by the Chancellor of the Exchequer on 8 October 2008 to make available capital to certain financial institutions in order to strengthen their resources in the interests of financial stability;
 - (d) “UKFI” means UK Financial Investments Limited, company registered number 06720891.
 
-## 2. Application of Rule 9 of the Takeover Code[^key-6fe6b56cc5fe5bfe04d668a3040d4701]
+## 2. Application of Rule 9 of the Takeover Code[^c-6fe6b56cc5fe5bfe04d668a3040d4701]
 
 (1) For the purposes of Rule 9 of the Takeover Code the following persons are not to be regarded as acting in concert with each other or the Treasury or the Secretary of State or UKFI by virtue of the Treasury holding (through a nominee or otherwise) shares in each of those persons—
 
@@ -96,12 +96,12 @@ A full Regulatory Impact Assessment has been prepared. It may be obtained from t
 
 [^f00002]: Footnote: [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495).
 
-[^key-3319a5a07586c92a9c0d9c5f539f3cee]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-3319a5a07586c92a9c0d9c5f539f3cee]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-3da5fe70dc2810530e28da553ce94ec9]: Commencement: Reg. 1 in force at 28.11.2008 12:00 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3073/regulation/1/1)
+[^c-3da5fe70dc2810530e28da553ce94ec9]: Commencement: Reg. 1 in force at 28.11.2008 12:00 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3073/regulation/1/1)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-6fe6b56cc5fe5bfe04d668a3040d4701]: Commencement: Reg. 2 in force at 28.11.2008 12:00 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3073/regulation/1/1)
+[^c-6fe6b56cc5fe5bfe04d668a3040d4701]: Commencement: Reg. 2 in force at 28.11.2008 12:00 p.m., see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/3073/regulation/1/1)
 
 [^f00004]: Footnote: [2008 c.2](https://www.legislation.gov.uk/ukpga/2008/2).

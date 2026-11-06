@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Importing or exporting a psychoactive substance[^key-5bd02ac9dd9f4f1a32cc9dbd1735c298]
+## 8. Importing or exporting a psychoactive substance[^c-5bd02ac9dd9f4f1a32cc9dbd1735c298]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ In this subsection “**controlled drug**” has the same meaning as in the Misu
 
 ## Annotations
 
-[^key-5bd02ac9dd9f4f1a32cc9dbd1735c298]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/2/section/8) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-5bd02ac9dd9f4f1a32cc9dbd1735c298]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/2/section/8) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

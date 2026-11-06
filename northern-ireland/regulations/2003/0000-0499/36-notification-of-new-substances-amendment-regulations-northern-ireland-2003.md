@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Notification of New Substances (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-8b5424ffc22e34373bb8c412e56da072]
+Notification of New Substances (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-8b5424ffc22e34373bb8c412e56da072]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 28th February 2003
 
-[^key-8b5424ffc22e34373bb8c412e56da072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b5424ffc22e34373bb8c412e56da072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8b5424ffc22e34373bb8c412e56da072]
+## 1. Citation and commencement[^c-8b5424ffc22e34373bb8c412e56da072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8b5424ffc22e34373bb8c412e56da072]
+## 2. Interpretation[^c-8b5424ffc22e34373bb8c412e56da072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-8b5424ffc22e34373bb8c412e56da072]
+## 3. Amendment of the principal Regulations[^c-8b5424ffc22e34373bb8c412e56da072]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b5424ffc22e34373bb8c412e56da072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b5424ffc22e34373bb8c412e56da072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b5424ffc22e34373bb8c412e56da072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b5424ffc22e34373bb8c412e56da072]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b5424ffc22e34373bb8c412e56da072]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/36) revoked (1.12.2008) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/4)
+[^c-8b5424ffc22e34373bb8c412e56da072]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/36) revoked (1.12.2008) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/4)

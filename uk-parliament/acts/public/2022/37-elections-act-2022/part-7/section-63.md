@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Power to amend references to subordinate legislation etc[^key-b68648031c654438d7e79768c0a27a2c]
+## 63. Power to amend references to subordinate legislation etc[^c-b68648031c654438d7e79768c0a27a2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ in consequence of the amendment or revocation of any subordinate legislation whi
 
 ## Annotations
 
-[^key-b68648031c654438d7e79768c0a27a2c]: Commencement: S. 63 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)
+[^c-b68648031c654438d7e79768c0a27a2c]: Commencement: S. 63 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)

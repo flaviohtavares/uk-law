@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. UK credit or financial institutions: severance of existing financial relationships[^key-acd365f628a51f72bd554c8269b057f4][^key-dd0a2f3667716ec21d9002647a0ba615]
+## 19. UK credit or financial institutions: severance of existing financial relationships[^c-acd365f628a51f72bd554c8269b057f4][^c-dd0a2f3667716ec21d9002647a0ba615]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ a person falling within regulation 18(2).
 
 ## Annotations
 
-[^key-acd365f628a51f72bd554c8269b057f4]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-acd365f628a51f72bd554c8269b057f4]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-dd0a2f3667716ec21d9002647a0ba615]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/411/regulation/19) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(i)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/i)
+[^c-dd0a2f3667716ec21d9002647a0ba615]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/411/regulation/19) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(i)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/i)

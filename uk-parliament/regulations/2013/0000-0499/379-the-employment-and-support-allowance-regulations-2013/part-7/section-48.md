@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) For the purposes of section 11E(1)(a) of the Act (claimant is the responsible carer for a child aged at least one and under a prescribed age) the prescribed age is three[^key-743fb1d8878c81b9817760a065684728].
+(1) For the purposes of section 11E(1)(a) of the Act (claimant is the responsible carer for a child aged at least one and under a prescribed age) the prescribed age is three[^c-743fb1d8878c81b9817760a065684728].
 
 (2) A claimant falls within section 11E of the Act (claimants subject to work-focused interview requirement only) if—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-743fb1d8878c81b9817760a065684728]: Textual amendment: Word in reg. 48(1) substituted (28.4.2014) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations 2014 (S.I. 2014/1097)](https://www.legislation.gov.uk/uksi/2014/1097), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1097/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2014/1097/regulation/17)
+[^c-743fb1d8878c81b9817760a065684728]: Textual amendment: Word in reg. 48(1) substituted (28.4.2014) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations 2014 (S.I. 2014/1097)](https://www.legislation.gov.uk/uksi/2014/1097), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1097/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2014/1097/regulation/17)

@@ -31,7 +31,7 @@ summary: ''
 
 European Communities
 
-The European Communities (Designation) (No. 4) Order 2009 (revoked)[^key-cc4c6b34132256ca63fd1c03f57cac70]
+The European Communities (Designation) (No. 4) Order 2009 (revoked)[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 Made
 
@@ -51,42 +51,42 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-cc4c6b34132256ca63fd1c03f57cac70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc4c6b34132256ca63fd1c03f57cac70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 1. Citation, commencement and interpretation[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to accreditation of conformity assessment bodies[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 2. Designation in relation to accreditation of conformity assessment bodies[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to cross-border healthcare[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 3. Designation in relation to cross-border healthcare[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to public procurement[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 4. Designation in relation to public procurement[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designation in relation to pyrotechnic articles[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 5. Designation in relation to pyrotechnic articles[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Relationship with other designations[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 6. Relationship with other designations[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Restrictions[^key-cc4c6b34132256ca63fd1c03f57cac70]
+## 7. Restrictions[^c-cc4c6b34132256ca63fd1c03f57cac70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc4c6b34132256ca63fd1c03f57cac70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc4c6b34132256ca63fd1c03f57cac70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc4c6b34132256ca63fd1c03f57cac70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc4c6b34132256ca63fd1c03f57cac70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc4c6b34132256ca63fd1c03f57cac70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2743) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc4c6b34132256ca63fd1c03f57cac70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2743) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

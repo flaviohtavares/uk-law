@@ -24,19 +24,19 @@ summary: ''
 
 (2) Condition B is that no single property represents more than 40% of the total value of the properties involved in the property rental business.
 
-(2A)[^key-b9509f8d1a130ea2ac4154635200a198] Condition C is , or was at any time from the relevant time,[^key-4ffc981c5ab6c2cb55a3acae1229da90] that the property rental business involves at least 1 property—
+(2A)[^c-b9509f8d1a130ea2ac4154635200a198] Condition C is , or was at any time from the relevant time,[^c-4ffc981c5ab6c2cb55a3acae1229da90] that the property rental business involves at least 1 property—
 
-- (a) the value of which is equal to, or in excess of[^key-47693f13b553da1858fff5577216aa83], £20 million [^key-5fc9625021e908f0ebff5ae6bddba733]..., and
+- (a) the value of which is equal to, or in excess of[^c-47693f13b553da1858fff5577216aa83], £20 million [^c-5fc9625021e908f0ebff5ae6bddba733]..., and
 - (b) which is designed, fitted or equipped for the purpose of being rented, and is rented or available for rent, as a commercial unit.
 
-(2B) For the purposes of subsection (2A) the “**relevant time**” means the later of[^key-819f711e5113ac8004f09a47352b6244]—
+(2B) For the purposes of subsection (2A) the “**relevant time**” means the later of[^c-819f711e5113ac8004f09a47352b6244]—
 
-- (a)[^key-99e756eb57c7c515b939922936940a5a] entry, and
+- (a)[^c-99e756eb57c7c515b939922936940a5a] entry, and
 - (b) when the property was acquired.
 
-(3) For the purposes of conditions A to C[^key-6ec4db570f62eb57a6ed8c61978340a2] the property rental businesses of the members of a group are to be treated as a single business.
+(3) For the purposes of conditions A to C[^c-6ec4db570f62eb57a6ed8c61978340a2] the property rental businesses of the members of a group are to be treated as a single business.
 
-(4) For the purposes of conditions A to C[^key-368c6124d8b2dc0734a4752379b7a426]—
+(4) For the purposes of conditions A to C[^c-368c6124d8b2dc0734a4752379b7a426]—
 
 - (a) a reference to a property “involved” in a business is a reference to an estate, interest, or right by the exploitation of which the business is conducted,
 - (b) a property is a single property if it is designed, fitted or equipped for the purpose of being rented, and it is rented or available for rent, as a commercial or residential unit (separate from any other commercial or residential unit),
@@ -48,18 +48,18 @@ summary: ''
 
 ## Annotations
 
-[^key-b9509f8d1a130ea2ac4154635200a198]: Textual amendment: S. 529(2A)(2B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/3/2/a)
+[^c-b9509f8d1a130ea2ac4154635200a198]: Textual amendment: S. 529(2A)(2B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/3/2/a)
 
-[^key-4ffc981c5ab6c2cb55a3acae1229da90]: Textual amendment: Words in s. 529(2A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/a/i)
+[^c-4ffc981c5ab6c2cb55a3acae1229da90]: Textual amendment: Words in s. 529(2A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/a/i)
 
-[^key-47693f13b553da1858fff5577216aa83]: Textual amendment: Words in s. 529(2A) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/a/ii)
+[^c-47693f13b553da1858fff5577216aa83]: Textual amendment: Words in s. 529(2A) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(a)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/a/ii)
 
-[^key-5fc9625021e908f0ebff5ae6bddba733]: Textual amendment: Words in s. 529(2A) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/a/iii)
+[^c-5fc9625021e908f0ebff5ae6bddba733]: Textual amendment: Words in s. 529(2A) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/a/iii)
 
-[^key-819f711e5113ac8004f09a47352b6244]: Textual amendment: Words in s. 529(2B) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/b/i)
+[^c-819f711e5113ac8004f09a47352b6244]: Textual amendment: Words in s. 529(2B) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/b/i)
 
-[^key-99e756eb57c7c515b939922936940a5a]: Textual amendment: S. 529(2B)(a)(b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/b/ii)
+[^c-99e756eb57c7c515b939922936940a5a]: Textual amendment: S. 529(2B)(a)(b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/8/b/ii)
 
-[^key-6ec4db570f62eb57a6ed8c61978340a2]: Textual amendment: Words in s. 529(3) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/3/2/b)
+[^c-6ec4db570f62eb57a6ed8c61978340a2]: Textual amendment: Words in s. 529(3) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/3/2/b)
 
-[^key-368c6124d8b2dc0734a4752379b7a426]: Textual amendment: Words in s. 529(4) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/3/2/c)
+[^c-368c6124d8b2dc0734a4752379b7a426]: Textual amendment: Words in s. 529(4) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/3/2/c)

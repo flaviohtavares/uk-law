@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Regulated Covered Bonds (Amendment) Regulations 2011 (revoked)[^key-61f4bd0241aea0c124584343985aecd2]
+The Regulated Covered Bonds (Amendment) Regulations 2011 (revoked)[^c-61f4bd0241aea0c124584343985aecd2]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st January 2013
 
-[^key-61f4bd0241aea0c124584343985aecd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61f4bd0241aea0c124584343985aecd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-61f4bd0241aea0c124584343985aecd2]
+## 1. Citation and commencement[^c-61f4bd0241aea0c124584343985aecd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Regulated Covered Bond Regulations 2008[^key-61f4bd0241aea0c124584343985aecd2]
+## 2. Amendment of the Regulated Covered Bond Regulations 2008[^c-61f4bd0241aea0c124584343985aecd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Review[^key-61f4bd0241aea0c124584343985aecd2]
+## 3. Review[^c-61f4bd0241aea0c124584343985aecd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61f4bd0241aea0c124584343985aecd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61f4bd0241aea0c124584343985aecd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61f4bd0241aea0c124584343985aecd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61f4bd0241aea0c124584343985aecd2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61f4bd0241aea0c124584343985aecd2]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-61f4bd0241aea0c124584343985aecd2]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

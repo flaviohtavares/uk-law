@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Surrender of property[^key-96a541dac6a789762ffa1d2f36cbf6c9]
+## 37. Surrender of property[^c-96a541dac6a789762ffa1d2f36cbf6c9]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96a541dac6a789762ffa1d2f36cbf6c9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/12/section/37) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-96a541dac6a789762ffa1d2f36cbf6c9]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/12/section/37) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Offences in relation to proceedings[^key-3718ba26a721dedc187becb803764498]
+## 67. Offences in relation to proceedings[^c-3718ba26a721dedc187becb803764498]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3718ba26a721dedc187becb803764498]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/10/section/67) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3718ba26a721dedc187becb803764498]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/10/section/67) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

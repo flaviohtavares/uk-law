@@ -329,7 +329,7 @@ The Gas Act 1965 is amended as follows.
 
 (3) For the words from “imposed” to “or, as” substitute “ imposed by the Environment Agency, by the Natural Resources Body for Wales or, as ”.
 
-#### 41. Nuclear Installations Act 1965 (c. 57)[^key-83974f78d5f48abef924155776c6bc75]
+#### 41. Nuclear Installations Act 1965 (c. 57)[^c-83974f78d5f48abef924155776c6bc75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -3567,7 +3567,7 @@ In the Dee and Clwyd River Authority Act 1973, any relevant reference is to be t
 
 ## Annotations
 
-[^key-83974f78d5f48abef924155776c6bc75]: Textual amendment: [Sch. 2 para. 41](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/41) revoked (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/30); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-83974f78d5f48abef924155776c6bc75]: Textual amendment: [Sch. 2 para. 41](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/41) revoked (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/30); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c21770091]: Marginal citation: Subsections (1A) and (5A) are inserted by paragraph 2 of Schedule 8 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), which has been brought into force, in relation to England only, by the Planning Act 2008 (Commencement No. 2) (England) Order 2012 ([S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601) (C. 13)). In relation to Wales, this Schedule contains a corresponding amendment to paragraph 2 of Schedule 8 to the Planning Act 2008.
 

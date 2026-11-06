@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Form of test certificates and notices of refusal[^key-a08e089b0993d218c4654ab2627a6410]
+## 28. Form of test certificates and notices of refusal[^c-a08e089b0993d218c4654ab2627a6410]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Goods vehicle test certificates and notices of the refusal of a goods vehicle te
 
 ## Annotations
 
-[^key-a08e089b0993d218c4654ab2627a6410]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1988/1478/regulation/28) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-a08e089b0993d218c4654ab2627a6410]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1988/1478/regulation/28) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of the Reserve Forces Non-Regular Permanent Staff (Pensions and Attributable Benefits Scheme) Regulations 2011[^key-c4e1740a0563f1764821b3b48e2734ee]
+## 27. Amendment of the Reserve Forces Non-Regular Permanent Staff (Pensions and Attributable Benefits Scheme) Regulations 2011[^c-c4e1740a0563f1764821b3b48e2734ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Reserve Forces Non Regular Permanent Staff Pension Scheme [^f00023] is amend
 
 ## Annotations
 
-[^key-c4e1740a0563f1764821b3b48e2734ee]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-c4e1740a0563f1764821b3b48e2734ee]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00023]: Footnote: This pension scheme is established in the Reserve Forces Non-Regular Permanent Staff (Pension and Attributable Benefits Scheme) Regulations 2011.

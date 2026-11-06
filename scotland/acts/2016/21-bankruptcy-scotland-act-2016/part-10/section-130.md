@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Accounting periods[^key-204c3e3413f5b2e779ad11be287cbba1]
+## 130. Accounting periods[^c-204c3e3413f5b2e779ad11be287cbba1]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-204c3e3413f5b2e779ad11be287cbba1]: Commencement: S. 130 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-204c3e3413f5b2e779ad11be287cbba1]: Commencement: S. 130 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

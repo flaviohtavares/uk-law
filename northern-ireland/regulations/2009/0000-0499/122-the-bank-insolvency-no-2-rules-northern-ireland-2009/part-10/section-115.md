@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Membership of committee[^key-8a922d34343451e4536222247fb3c9a2]
+## 115. Membership of committee[^c-8a922d34343451e4536222247fb3c9a2]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a922d34343451e4536222247fb3c9a2]: Commencement: Rule 115 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8a922d34343451e4536222247fb3c9a2]: Commencement: Rule 115 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

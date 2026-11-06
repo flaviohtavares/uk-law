@@ -26,7 +26,7 @@ summary: ''
 - (b) column 2 describes M's employment in or engagement with a health service activity; and
 - (c) column 3 specifies the nature of the income derived by M from the employment or engagement.
 
-  Table[^key-80cb86c906490c50747d4d7ebe06eb6e]
+  Table[^c-80cb86c906490c50747d4d7ebe06eb6e]
 
   <table>
   <thead>
@@ -46,7 +46,7 @@ summary: ''
   </tbody>
   </table>
 
-  [^key-c577dee4e4bf7ef9952c226275d82218]
+  [^c-c577dee4e4bf7ef9952c226275d82218]
 
 (2) M's pensionable earnings may be attributable to M belonging concurrently to more than one group in the Table.
 
@@ -64,16 +64,16 @@ summary: ''
 
 - (a) a fully registered person (within the meaning of section 55 of the Medical Act 1983 [^c22414751]) who is not a GP registrar and is—
   - (i) a medical practitioner;
-  - (ii) an ophthalmic provider[^key-356c5d4475fe4fdf874babd7fa76b744]; or
+  - (ii) an ophthalmic provider[^c-356c5d4475fe4fdf874babd7fa76b744]; or
   - (iii) a locum practitioner; or
 - (b) a dental practitioner.
 
 ## Annotations
 
-[^key-80cb86c906490c50747d4d7ebe06eb6e]: Textual amendment: [Reg. 27(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/27/1) Table substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2016/97/regulation/3/a)
+[^c-80cb86c906490c50747d4d7ebe06eb6e]: Textual amendment: [Reg. 27(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/27/1) Table substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2016/97/regulation/3/a)
 
-[^key-c577dee4e4bf7ef9952c226275d82218]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/ssi/2015/94/regulation/27) Table inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [43](https://www.legislation.gov.uk/ssi/2024/272/regulation/43)
+[^c-c577dee4e4bf7ef9952c226275d82218]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/ssi/2015/94/regulation/27) Table inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [43](https://www.legislation.gov.uk/ssi/2024/272/regulation/43)
 
 [^c22414751]: Marginal citation: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-356c5d4475fe4fdf874babd7fa76b744]: Textual amendment: Word in [reg. 27(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/27/5/a/ii) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2016/97/regulation/3/b)
+[^c-356c5d4475fe4fdf874babd7fa76b744]: Textual amendment: Word in [reg. 27(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/27/5/a/ii) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2016/97/regulation/3/b)

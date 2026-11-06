@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Financial resources: welfare[^key-35a38437316fabded09a22a71c722303]
+## 101A. Financial resources: welfare[^c-35a38437316fabded09a22a71c722303]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ unless the resources are provided subject to conditions requiring the person to 
 
 ## Annotations
 
-[^key-35a38437316fabded09a22a71c722303]: Textual amendment: [S. 101A](https://www.legislation.gov.uk/ukpga/2009/22/section/101A) inserted (29.6.2021) by [Education and Training (Welfare of Children) Act 2021 (c. 16)](https://www.legislation.gov.uk/ukpga/2021/16), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2021/16/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2021/16/section/3/2)
+[^c-35a38437316fabded09a22a71c722303]: Textual amendment: [S. 101A](https://www.legislation.gov.uk/ukpga/2009/22/section/101A) inserted (29.6.2021) by [Education and Training (Welfare of Children) Act 2021 (c. 16)](https://www.legislation.gov.uk/ukpga/2021/16), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2021/16/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2021/16/section/3/2)

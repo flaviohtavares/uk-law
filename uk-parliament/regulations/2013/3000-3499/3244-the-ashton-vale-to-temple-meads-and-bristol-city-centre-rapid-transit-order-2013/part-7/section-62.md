@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Disclosure of confidential information[^key-1f08e39092b9583732d78e54bbb8b08f]
+## 62. Disclosure of confidential information[^c-1f08e39092b9583732d78e54bbb8b08f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-1f08e39092b9583732d78e54bbb8b08f]: Commencement: Art. 62 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-1f08e39092b9583732d78e54bbb8b08f]: Commencement: Art. 62 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — ALIGNMENT WITH EU LAW
 
-### 1. Power to make provision corresponding to EU law[^key-896c2c2e64d22dab4d5703bfdb3ef3b1]
+### 1. Power to make provision corresponding to EU law[^c-896c2c2e64d22dab4d5703bfdb3ef3b1]
 
 (1) The Scottish Ministers may by regulations—
 
@@ -44,7 +44,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (i) corresponding to an EU regulation, EU tertiary legislation or an EU decision,
   - (ii) for the enforcement of provision made under sub-paragraph (i) or otherwise to make it effective,
   - (iii) to implement an EU directive, or
-  - (iv) modifying any provision of assimilated[^key-705017494e6eb2f4108b331080c3c46a] law relating to the enforcement or implementation of an EU regulation, EU tertiary legislation, an EU decision or an EU directive,
+  - (iv) modifying any provision of assimilated[^c-705017494e6eb2f4108b331080c3c46a] law relating to the enforcement or implementation of an EU regulation, EU tertiary legislation, an EU decision or an EU directive,
 
   so far as the EU regulation, EU tertiary legislation, EU decision or EU directive has effect in EU law after IP completion day, or
 - (b) otherwise make provision for the purpose of dealing with matters arising out of, or related to, the operation from time to time of—
@@ -91,7 +91,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Regulations under subsection (1) may make any provision that could be made by an Act of the Scottish Parliament.
 
-### 2. Purpose of maintaining and advancing standards[^key-2edf3c433621645246413c632d63bccf]
+### 2. Purpose of maintaining and advancing standards[^c-2edf3c433621645246413c632d63bccf]
 
 (1) The purpose of section 1(1) is, among other things, to contribute towards maintaining and advancing standards in relation to the following matters—
 
@@ -105,7 +105,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In subsection (1)(a), “**environmental protection**” has the meaning given by section 45(1).
 
-### 3. Limitations on the section 1(1) power[^key-d128afe1e10eb18becc1bd4fcffcaf60]
+### 3. Limitations on the section 1(1) power[^c-d128afe1e10eb18becc1bd4fcffcaf60]
 
 (1) Regulations under section 1(1) may not—
 
@@ -131,7 +131,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**relevant criminal offence**” means an offence for which an individual who has reached the age of 21 is capable of being sentenced to imprisonment for a term of more than 2 years (ignoring any enactment prohibiting or restricting the imprisonment of individuals who have no previous convictions),
 - “**retrospective provision**”, in relation to provision made by regulations, means provision taking effect from a date earlier than the date on which the regulations are made.
 
-### 4. Duration of the section 1(1) power[^key-88582317c4399d8118521f2a570d43bf]
+### 4. Duration of the section 1(1) power[^c-88582317c4399d8118521f2a570d43bf]
 
 (1) No regulations may be made under section 1(1) after the end of the period of 6 years beginning with the day on which section 1(1) comes into force.
 
@@ -145,7 +145,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Regulations under subsection (2) are subject to the affirmative procedure.
 
-### 5. Scrutiny of regulations under section 1(1)[^key-224751ee0179b644812a171cc0b1e88d]
+### 5. Scrutiny of regulations under section 1(1)[^c-224751ee0179b644812a171cc0b1e88d]
 
 (1) Regulations under section 1(1) which contain provision falling within subsection (2) are subject to the affirmative procedure.
 
@@ -159,7 +159,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Any other regulations under section 1(1) are (if they have not been subject to the affirmative procedure) subject to the negative procedure.
 
-### 6. Policy statement on the section 1(1) power[^key-8f0e199fd4dcb17f7be652bf3bfc90bb]
+### 6. Policy statement on the section 1(1) power[^c-8f0e199fd4dcb17f7be652bf3bfc90bb]
 
 (1) The Scottish Ministers must publish, in such manner as they consider appropriate, a statement of their policy on—
 
@@ -182,7 +182,7 @@ when considering whether to use the power under section 1(1).
 
 (5) It is not necessary for a policy statement to have been published under this section before the power under section 1(1) may be used.
 
-### 7. Procedure for publication of policy statement[^key-86c7ee0190cbdeb514eb628c297397bf]
+### 7. Procedure for publication of policy statement[^c-86c7ee0190cbdeb514eb628c297397bf]
 
 (1) Before publishing a policy statement under section 6, the Scottish Ministers must lay a copy of the statement before the Scottish Parliament for approval.
 
@@ -206,7 +206,7 @@ when considering whether to use the power under section 1(1).
 
 (8) The Scottish Ministers must lay a draft of the first policy statement under subsection (3)(a) as soon as reasonably practicable after section 1(1) comes into force.
 
-### 8. Explanatory statements for regulations under section 1(1)[^key-3aba1f90fccdb14ae1ab6fabf7074b77]
+### 8. Explanatory statements for regulations under section 1(1)[^c-3aba1f90fccdb14ae1ab6fabf7074b77]
 
 (1) This section applies where a Scottish statutory instrument containing regulations under section 1(1), or a draft of such an instrument, is to be laid before the Scottish Parliament.
 
@@ -220,7 +220,7 @@ when considering whether to use the power under section 1(1).
 
 (6) This section does not apply in relation to any laying before the Scottish Parliament of an instrument or draft instrument where an equivalent instrument or draft (ignoring any differences relating to procedure) has previously been laid before the Parliament.
 
-### 9. Explanatory statements: good reasons, human rights etc.[^key-84b3efe6070936398d46d9b652e9932d]
+### 9. Explanatory statements: good reasons, human rights etc.[^c-84b3efe6070936398d46d9b652e9932d]
 
 (1) The statements referred to in section 8(2) are as follows.
 
@@ -229,7 +229,7 @@ when considering whether to use the power under section 1(1).
 - (a) the instrument or draft,
 - (b) why, in the Scottish Ministers' opinion, there are good reasons for making the provision contained in the instrument or draft,
 - (c) the law before IP completion day which is relevant to the provision, and
-- (d) the effect (if any) of the provision on assimilated[^key-d765a00f73ec5d1523571a98cc6738dd] law.
+- (d) the effect (if any) of the provision on assimilated[^c-d765a00f73ec5d1523571a98cc6738dd] law.
 
 (3) A statement explaining the effect (if any) of the instrument or draft on—
 
@@ -269,7 +269,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (10) In this section, “**equality legislation**” means the Equality Act 2006, the Equality Act 2010 or any subordinate legislation made under either of those Acts.
 
-### 10. Reports relating to the use of the section 1(1) power[^key-be4011144d7ad8238e4a92b86cb273a2]
+### 10. Reports relating to the use of the section 1(1) power[^c-be4011144d7ad8238e4a92b86cb273a2]
 
 (1) The Scottish Ministers must, for each reporting period, prepare and lay before the Scottish Parliament a report explaining—
 
@@ -287,7 +287,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (3) Paragraphs (c) and (d) of subsection (1) do not apply to the report for the final reporting period.
 
-### 11. Consultation on reports under section 10(1)[^key-637a9a02e557bb558717c7fbf9fb7df2]
+### 11. Consultation on reports under section 10(1)[^c-637a9a02e557bb558717c7fbf9fb7df2]
 
 (1) Before laying a report before the Scottish Parliament under section 10(1), the Scottish Ministers must—
 
@@ -311,7 +311,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (8) In calculating the period of 28 days mentioned in subsection (7), no account is to be taken of any period during which the Parliament is dissolved or in recess for more than 4 days.
 
-### 12. Interpretation of Part 1[^key-946bf5d46773280b5b11a6837bd090a4]
+### 12. Interpretation of Part 1[^c-946bf5d46773280b5b11a6837bd090a4]
 
 (1) In this Part—
 
@@ -351,7 +351,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 ### CHAPTER 1 — ENVIRONMENTAL PRINCIPLES
 
-#### 13. The guiding principles on the environment[^key-e7f5e2d3523964e75f4694b01c4b0e38]
+#### 13. The guiding principles on the environment[^c-e7f5e2d3523964e75f4694b01c4b0e38]
 
 (1) In this Chapter, references to the guiding principles on the environment are references to the following principles—
 
@@ -391,11 +391,11 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 - “**making policies**” includes developing, adopting or revising policies,
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975.
 
-#### 14. Ministers' duties to have due regard to the guiding principles[^key-c9eb99f1419dc4a5616f3e0af3f09503]
+#### 14. Ministers' duties to have due regard to the guiding principles[^c-c9eb99f1419dc4a5616f3e0af3f09503]
 
 (1) The Scottish Ministers must, in making policies (including proposals for legislation), have due regard to the guiding principles on the environment.
 
-(2)[^key-d0f4c9cc3c1dd667a9e73d6f6998df0e] Ministers of the Crown must, in making policies (including proposals for legislation) so far as extending to Scotland, have due regard to the guiding principles on the environment.
+(2)[^c-d0f4c9cc3c1dd667a9e73d6f6998df0e] Ministers of the Crown must, in making policies (including proposals for legislation) so far as extending to Scotland, have due regard to the guiding principles on the environment.
 
 (3) The duties in subsections (1) and (2) do not apply in relation to any policy or proposal so far as relating to—
 
@@ -408,13 +408,13 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 - (b) an Act of the Scottish Parliament,
 - (c) subordinate legislation.
 
-#### 15. Other authorities' duty to have due regard to the guiding principles[^key-ec0240e4cd40fd9f800350664dcc711c][^key-ca21a1b9f2e6ea204e9e136dbdb12a81]
+#### 15. Other authorities' duty to have due regard to the guiding principles[^c-ec0240e4cd40fd9f800350664dcc711c][^c-ca21a1b9f2e6ea204e9e136dbdb12a81]
 
 (1) A responsible authority must, in doing anything in respect of which the duty under section 1 of the Environmental Assessment (Scotland) Act 2005 (“**the 2005 Act**”) applies (requirement for environmental assessment), have due regard to the guiding principles on the environment.
 
 (2) In subsection (1), “**responsible authority**” is to be construed in accordance with section 2 of the 2005 Act but does not include the Scottish Ministers or a Minister of the Crown.
 
-#### 16. Purpose of the duties under sections 14 and 15[^key-186d9563982fa6a09b79453a8b2cbc33]
+#### 16. Purpose of the duties under sections 14 and 15[^c-186d9563982fa6a09b79453a8b2cbc33]
 
 (1) Those to whom the duties in sections 14 and 15 apply are to comply with the duties with a view to—
 
@@ -428,7 +428,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (3) In subsection (2)(b), “**animal and plant life**” includes any living organisms.
 
-#### 17. Guidance[^key-83cb5cefa0633589ff0c55307ed97c2c]
+#### 17. Guidance[^c-83cb5cefa0633589ff0c55307ed97c2c]
 
 (1) The Scottish Ministers must publish guidance on—
 
@@ -449,7 +449,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (5) References in subsections (2) to (4) and in section 18 to guidance under this section include references to revised guidance.
 
-#### 18. Procedure for publication of guidance[^key-ad769c2ebb2eccb8edcbc2d2ea68a02a]
+#### 18. Procedure for publication of guidance[^c-ad769c2ebb2eccb8edcbc2d2ea68a02a]
 
 (1) Before publishing guidance under section 17, the Scottish Ministers must lay the guidance before the Scottish Parliament.
 
@@ -477,7 +477,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 #### Establishment of Environmental Standards Scotland
 
-##### 19. Environmental Standards Scotland[^key-8606bcdcc639b853abf298d729d4c8fe]
+##### 19. Environmental Standards Scotland[^c-8606bcdcc639b853abf298d729d4c8fe]
 
 (1) Environmental Standards Scotland (in Gaelic, Ìrean Àrainneachdail na h-Alba) is established.
 
@@ -487,7 +487,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 #### Functions of Environmental Standards Scotland
 
-##### 20. Functions[^key-68a307b3d33bb987b5effd5d5c4311f5]
+##### 20. Functions[^c-68a307b3d33bb987b5effd5d5c4311f5]
 
 (1) Environmental Standards Scotland's functions are—
 
@@ -515,7 +515,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (3) In exercising its functions, Environmental Standards Scotland must act objectively, impartially, proportionately and transparently.
 
-##### 21. Power to modify functions[^key-fd46a0e302e957281fd253fc7c3d9f00]
+##### 21. Power to modify functions[^c-fd46a0e302e957281fd253fc7c3d9f00]
 
 (1) The Scottish Ministers may by regulations modify Environmental Standards Scotland's functions for the purpose of implementing an international obligation that arises or may arise under an agreement or arrangement between the United Kingdom and the EU following the withdrawal of the United Kingdom from the EU.
 
@@ -530,7 +530,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (5) In subsection (1), “**modify**” includes confer or remove a function.
 
-##### 22. Duty to prepare and publish strategy on exercise of functions[^key-d2104fb9b91693440988382df1470506]
+##### 22. Duty to prepare and publish strategy on exercise of functions[^c-d2104fb9b91693440988382df1470506]
 
 (1) Environmental Standards Scotland must—
 
@@ -539,7 +539,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 (2) Schedule 2 makes further provision about the strategy.
 
-##### 23. Co-operation duties of public authorities and Environmental Standards Scotland[^key-e6c724d5899d9b8a575517cccf958f21]
+##### 23. Co-operation duties of public authorities and Environmental Standards Scotland[^c-e6c724d5899d9b8a575517cccf958f21]
 
 (1) A public authority must co-operate with Environmental Standards Scotland, and give it such reasonable assistance as it requests (including the provision of information), in connection with the exercise of its functions.
 
@@ -552,7 +552,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 #### Information notices
 
-##### 24. Power to require information[^key-ac74676baa4d2e7ff36386d30eb258d7]
+##### 24. Power to require information[^c-ac74676baa4d2e7ff36386d30eb258d7]
 
 (1) Environmental Standards Scotland may, by issuing a notice in writing (an “information notice”), require a public authority to provide information which Environmental Standards Scotland reasonably requires for the purpose of exercising any of its functions.
 
@@ -572,7 +572,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 - (b) documents of any type or copies of, or extracts from, such documents,
 - (c) any explanation or other information (including unrecorded information).
 
-##### 25. Failure to comply with an information notice[^key-7ef2427f5262f0c796aee39203c90a74]
+##### 25. Failure to comply with an information notice[^c-7ef2427f5262f0c796aee39203c90a74]
 
 (1) Where a public authority fails, without reasonable excuse, to comply with an information notice issued to it under section 24(1), Environmental Standards Scotland may report the matter to the Court of Session.
 
@@ -583,7 +583,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 
 #### Improvement reports and improvement plans
 
-##### 26. Improvement report[^key-af34146bc968a81ef2e09c0e67145b65]
+##### 26. Improvement report[^c-af34146bc968a81ef2e09c0e67145b65]
 
 (1) Environmental Standards Scotland may prepare an improvement report if it considers that, in exercising its functions (including regulatory functions), a public authority has failed to—
 
@@ -604,7 +604,7 @@ a statement explaining why, in the Scottish Ministers' opinion, there are good r
 - (a) comply with environmental law, or
 - (b) improve the effectiveness of environmental law or of how it is implemented or applied.
 
-##### 27. Restrictions on preparing an improvement report[^key-945331464350e564bb81d07020daae94]
+##### 27. Restrictions on preparing an improvement report[^c-945331464350e564bb81d07020daae94]
 
 Environmental Standards Scotland may not prepare an improvement report in respect of—
 
@@ -613,7 +613,7 @@ Environmental Standards Scotland may not prepare an improvement report in respec
   - (i) it has issued a compliance notice under section 31(1) in respect of the same failure arising out of the same conduct, and
   - (ii) it has not subsequently withdrawn the compliance notice under section 35(1).
 
-##### 28. Content of an improvement report[^key-47a18b1d0103986d1da430ea5c1873ba]
+##### 28. Content of an improvement report[^c-47a18b1d0103986d1da430ea5c1873ba]
 
 An improvement report must—
 
@@ -625,7 +625,7 @@ An improvement report must—
 - (c) set out the impact of the failure (including any environmental harm, risk of environmental harm or missed opportunity to improve the quality of the environment), and
 - (d) propose a timescale for the Scottish Ministers, or other public authority, to take the remedial measures recommended in the report.
 
-##### 29. Improvement report: procedural requirements[^key-a5d4f709bef844643411be62a6352210]
+##### 29. Improvement report: procedural requirements[^c-a5d4f709bef844643411be62a6352210]
 
 Where Environmental Standards Scotland prepares an improvement report under section 26(1), it must—
 
@@ -633,7 +633,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 - (b) lay a copy of the report before the Scottish Parliament, and
 - (c) publish a copy of the report.
 
-##### 30. Improvement plan[^key-081cd02bfc60c27aab4969e8c9a8c2d9]
+##### 30. Improvement plan[^c-081cd02bfc60c27aab4969e8c9a8c2d9]
 
 (1) Where Environmental Standards Scotland lays a copy of an improvement report before the Scottish Parliament under section 29, the Scottish Ministers must respond to the report by preparing an improvement plan.
 
@@ -671,7 +671,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 #### Compliance notices
 
-##### 31. Compliance notice[^key-7e3da3dbe752aa138faa34e2cdedc9a7]
+##### 31. Compliance notice[^c-7e3da3dbe752aa138faa34e2cdedc9a7]
 
 (1) Environmental Standards Scotland may issue a compliance notice to a public authority if Environmental Standards Scotland considers that—
 
@@ -682,7 +682,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (2) A compliance notice is a notice requiring the public authority to whom it is issued to take the steps set out in the notice in order to address its failure to comply with environmental law.
 
-##### 32. Restrictions on issuing a compliance notice[^key-8f0f90e9a3cdd456f1a5fbc3653a7a08]
+##### 32. Restrictions on issuing a compliance notice[^c-8f0f90e9a3cdd456f1a5fbc3653a7a08]
 
 (1) Environmental Standards Scotland may not issue a compliance notice in respect of—
 
@@ -691,7 +691,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (2) A compliance notice issued in contravention of subsection (1) is of no effect.
 
-##### 33. Content of a compliance notice[^key-0e049d4d150539314bce64513b3cd5ad]
+##### 33. Content of a compliance notice[^c-0e049d4d150539314bce64513b3cd5ad]
 
 (1) A compliance notice must include the following information—
 
@@ -710,7 +710,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (2) The reference in subsection (1)(d) to the period within which the required steps are to be taken is a reference to such period of not less than 28 days, beginning with the date on which the notice was issued, as Environmental Standards Scotland determines.
 
-##### 34. Variation of a compliance notice[^key-0cd6c240c45a8ab82a7863a9df5dd432]
+##### 34. Variation of a compliance notice[^c-0cd6c240c45a8ab82a7863a9df5dd432]
 
 (1) Environmental Standards Scotland may vary a compliance notice so as to extend the period mentioned in section 33(1)(d) (“the compliance period”).
 
@@ -721,7 +721,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (3) The variation of a compliance notice under subsection (1) does not affect the date of its issue for the purpose of section 36(2)(a).
 
-##### 35. Withdrawal of a compliance notice[^key-31b252cd8fcea1700c526111f800f3b6]
+##### 35. Withdrawal of a compliance notice[^c-31b252cd8fcea1700c526111f800f3b6]
 
 (1) Environmental Standards Scotland may withdraw a compliance notice.
 
@@ -732,7 +732,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (3) Where a compliance notice is withdrawn under subsection (1), it is to be treated as if it had never been issued.
 
-##### 36. Appeal against a compliance notice[^key-35ba35c7e659b2389e378f19653bbe3f]
+##### 36. Appeal against a compliance notice[^c-35ba35c7e659b2389e378f19653bbe3f]
 
 (1) A public authority to whom a compliance notice has been issued may appeal to a sheriff against Environmental Standards Scotland's decision to issue the notice on the ground that—
 
@@ -756,7 +756,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (5) Where an appeal is made under this section, the period mentioned in section 33(1)(d) is suspended until the appeal is finally determined or is withdrawn.
 
-##### 37. Failure to comply with a compliance notice[^key-a5eebf8fb32c58ecbcc43419afb6f421]
+##### 37. Failure to comply with a compliance notice[^c-a5eebf8fb32c58ecbcc43419afb6f421]
 
 (1) Where a public authority fails, without reasonable excuse, to comply with a compliance notice issued to it under section 31(1), Environmental Standards Scotland may report the matter to the Court of Session.
 
@@ -767,7 +767,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 #### Judicial review and other civil proceedings
 
-##### 38. Power to apply for judicial review or intervene in civil proceedings[^key-921d6ece91775f2096d286dcbfdbd88e]
+##### 38. Power to apply for judicial review or intervene in civil proceedings[^c-921d6ece91775f2096d286dcbfdbd88e]
 
 (1) Environmental Standards Scotland may make an application for judicial review in relation to a public authority's conduct (whether or not it has issued a compliance notice or prepared an improvement report in respect of that conduct) if Environmental Standards Scotland considers that—
 
@@ -794,7 +794,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 #### Disclosure of information
 
-##### 39. Disclosure of information to Environmental Standards Scotland[^key-e45f9727aa45070bf7c9a514521de3c9]
+##### 39. Disclosure of information to Environmental Standards Scotland[^c-e45f9727aa45070bf7c9a514521de3c9]
 
 (1) No enactment or rule of law prohibiting or restricting the disclosure of information prevents a public authority from providing Environmental Standards Scotland with information necessary for the exercise of Environmental Standards Scotland's functions in accordance with—
 
@@ -810,7 +810,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 (4) In subsection (3), “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
 
-##### 40. Confidentiality of proceedings[^key-0147650624e683e7edbf5d64cc10f8d7]
+##### 40. Confidentiality of proceedings[^c-0147650624e683e7edbf5d64cc10f8d7]
 
 (1) Environmental Standards Scotland must not disclose—
 
@@ -832,7 +832,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 #### Duty to consult on effectiveness of governance arrangements
 
-##### 41. Duty to consult on effectiveness of governance arrangements[^key-9a0d7f551c0ad3174deaad71b83760f9]
+##### 41. Duty to consult on effectiveness of governance arrangements[^c-9a0d7f551c0ad3174deaad71b83760f9]
 
 (1) The Scottish Ministers must—
 
@@ -863,7 +863,7 @@ Where Environmental Standards Scotland prepares an improvement report under sect
 
 #### Interpretation of Chapter 2
 
-##### 42. Meaning of “public authority”[^key-60a9b7057b16ddca6f9c8b0069a7db3c]
+##### 42. Meaning of “public authority”[^c-60a9b7057b16ddca6f9c8b0069a7db3c]
 
 In this Chapter, “**public authority**” means a person exercising any function of a public nature that is not—
 
@@ -876,7 +876,7 @@ In this Chapter, “**public authority**” means a person exercising any functi
   - (vi) a body to which paragraph 3 (reserved bodies) of Part III of schedule 5 of the Scotland Act 1998 applies, or
 - (b) a function in connection with proceedings in the Scottish Parliament or the Parliament of the United Kingdom.
 
-##### 43. Meaning of “failing to comply with environmental law”[^key-3fdeddad181c29ee31bf6e3933ce7b57]
+##### 43. Meaning of “failing to comply with environmental law”[^c-3fdeddad181c29ee31bf6e3933ce7b57]
 
 For the purposes of this Chapter, any reference (however expressed) to a public authority failing (or having failed) to comply with environmental law is a reference to any of the following conduct by the authority—
 
@@ -886,7 +886,7 @@ For the purposes of this Chapter, any reference (however expressed) to a public 
 
 and references to “compliance with environmental law” are to be construed accordingly.
 
-##### 44. Meaning of “environmental law” and “effectiveness of environmental law”[^key-35548cdc7efdea0051a27b6e19cc6d07]
+##### 44. Meaning of “environmental law” and “effectiveness of environmental law”[^c-35548cdc7efdea0051a27b6e19cc6d07]
 
 (1) In this Chapter, “**environmental law**” means any legislative provision to the extent that it—
 
@@ -922,7 +922,7 @@ and references to “compliance with environmental law” are to be construed ac
 
 and references to “effective environmental law” are to be construed accordingly.
 
-##### 45. Meaning of “environmental protection”, “environmental harm” and “the environment”[^key-0466b834493f5ed05fb441e013801b6f]
+##### 45. Meaning of “environmental protection”, “environmental harm” and “the environment”[^c-0466b834493f5ed05fb441e013801b6f]
 
 (1) In this Chapter, “**environmental protection**” means—
 
@@ -953,7 +953,7 @@ and references to “effective environmental law” are to be construed accordin
 
 (5) In subsection (3)(b), “**animal and plant life**” includes any living organisms.
 
-##### 46. Interpretation of Chapter 2: general[^key-989086de78ab6224b5bd13dfe20ae058]
+##### 46. Interpretation of Chapter 2: general[^c-989086de78ab6224b5bd13dfe20ae058]
 
 (1) In this Chapter—
 
@@ -989,7 +989,7 @@ and references to “effective environmental law” are to be construed accordin
 
 ### CHAPTER 3 — ENVIRONMENTAL POLICY STRATEGY
 
-#### 47. Environmental policy strategy[^key-5010a9f879f44e6d1e67f6fb36f646d9]
+#### 47. Environmental policy strategy[^c-5010a9f879f44e6d1e67f6fb36f646d9]
 
 (1) The Scottish Ministers must prepare and publish an environmental policy strategy.
 
@@ -1110,13 +1110,13 @@ The short title of this Act is the UK Withdrawal from the European Union (Contin
 
 ### Independence from Ministers
 
-**1.**[^key-c0db5bd348dc521dce54ba2f0bfe7442] (1) In performing its functions, Environmental Standards Scotland is not subject to the direction or control of any member of the Scottish Government.
+**1.**[^c-c0db5bd348dc521dce54ba2f0bfe7442] (1) In performing its functions, Environmental Standards Scotland is not subject to the direction or control of any member of the Scottish Government.
 
 (2) Sub-paragraph (1) is subject to any contrary provision in this or any other enactment.
 
 ### Appointment of members
 
-**2.**[^key-48baf68b84bb1c48e3fbf69244289f87] (1) Environmental Standards Scotland is to consist of—
+**2.**[^c-48baf68b84bb1c48e3fbf69244289f87] (1) Environmental Standards Scotland is to consist of—
 
 - (a) a member appointed by the Scottish Ministers to chair Environmental Standards Scotland, and
 - (b) at least 4 but no more than 6 other members appointed by the Scottish Ministers.
@@ -1149,7 +1149,7 @@ The short title of this Act is the UK Withdrawal from the European Union (Contin
 
 ### Persons who may not be members
 
-**3.**[^key-9753d59ed42eafc04f7dc7ce50ba9962] (1) The Scottish Ministers may not appoint a person as a member if sub-paragraph (2) or (3) applies to the person.
+**3.**[^c-9753d59ed42eafc04f7dc7ce50ba9962] (1) The Scottish Ministers may not appoint a person as a member if sub-paragraph (2) or (3) applies to the person.
 
 (2) This sub-paragraph applies to a person who is—
 
@@ -1183,7 +1183,7 @@ The short title of this Act is the UK Withdrawal from the European Union (Contin
 
 ### Members' remuneration and expenses
 
-**4.**[^key-e4be6bf02b719d3cd0163f3af4be36d7] (1) Environmental Standards Scotland may pay—
+**4.**[^c-e4be6bf02b719d3cd0163f3af4be36d7] (1) Environmental Standards Scotland may pay—
 
 - (a) its members, and
 - (b) the members of any committee established by it,
@@ -1199,7 +1199,7 @@ such sums as it may, with the approval of the Scottish Ministers, determine in r
 
 ### Early termination of membership
 
-**5.**[^key-0c7c9a2aaf09a111761b4546a86ee297] (1) A person's membership of Environmental Standards Scotland ends if—
+**5.**[^c-0c7c9a2aaf09a111761b4546a86ee297] (1) A person's membership of Environmental Standards Scotland ends if—
 
 - (a) the person gives notice in writing to the Scottish Ministers and the Presiding Officer of the Scottish Parliament that the person resigns,
 - (b) the person becomes disqualified from being a member,
@@ -1221,7 +1221,7 @@ such sums as it may, with the approval of the Scottish Ministers, determine in r
 
 ### Chief executive and other staff
 
-**6.**[^key-f752f85bf5ecacb4a33ea87d9cedbd64] (1) Environmental Standards Scotland is to have, as a member of staff, a chief executive.
+**6.**[^c-f752f85bf5ecacb4a33ea87d9cedbd64] (1) Environmental Standards Scotland is to have, as a member of staff, a chief executive.
 
 (2) The chief executive may not be a member of Environmental Standards Scotland.
 
@@ -1235,13 +1235,13 @@ such sums as it may, with the approval of the Scottish Ministers, determine in r
 
 ### Committees
 
-**7.**[^key-8abe585b951aa263484a4653ce58428f] (1) Environmental Standards Scotland may establish committees.
+**7.**[^c-8abe585b951aa263484a4653ce58428f] (1) Environmental Standards Scotland may establish committees.
 
 (2) The membership of a committee may include (but may not consist entirely of) persons who are not members of Environmental Standards Scotland but those persons are not entitled to vote at meetings.
 
 ### Authority to perform functions
 
-**8.**[^key-8302d16fd322d011ec2f9230988e0ab2] (1) Environmental Standards Scotland may authorise—
+**8.**[^c-8302d16fd322d011ec2f9230988e0ab2] (1) Environmental Standards Scotland may authorise—
 
 - (a) any of its members,
 - (b) any committee established by it,
@@ -1257,11 +1257,11 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Regulation of procedure
 
-**9.**[^key-7745379e100a55546651319b323b476c] Environmental Standards Scotland may regulate its own procedure (including quorum) and that of any committee.
+**9.**[^c-7745379e100a55546651319b323b476c] Environmental Standards Scotland may regulate its own procedure (including quorum) and that of any committee.
 
 ### Validity of things done
 
-**10.**[^key-020a8020ed4d564fe02d6167b7ede095] The validity of anything done by Environmental Standards Scotland or its committees is not affected by—
+**10.**[^c-020a8020ed4d564fe02d6167b7ede095] The validity of anything done by Environmental Standards Scotland or its committees is not affected by—
 
 - (a) a vacancy in membership,
 - (b) a defect in the appointment of a member,
@@ -1269,14 +1269,14 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### General powers
 
-**11.**[^key-e6bb73bbf977eb658c5b265f236e6aa9] Environmental Standards Scotland may do anything which appears to it—
+**11.**[^c-e6bb73bbf977eb658c5b265f236e6aa9] Environmental Standards Scotland may do anything which appears to it—
 
 - (a) to be necessary or expedient for the purposes of, or in connection with, the performance of its functions, or
 - (b) to be otherwise conducive to the performance of its functions.
 
 ### Annual report
 
-**12.**[^key-2469283e90c375206d47ab4deb246e29] (1) Environmental Standards Scotland must, as soon as practicable after the end of each financial year—
+**12.**[^c-2469283e90c375206d47ab4deb246e29] (1) Environmental Standards Scotland must, as soon as practicable after the end of each financial year—
 
 - (a) prepare and publish a report on its activities during that year,
 - (b) send a copy of the report to the Scottish Ministers, and
@@ -1286,7 +1286,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Resources
 
-**13.**[^key-4295aa41d29ce883e7289fccddbdf2f3] (1) The Scottish Ministers must seek to ensure that the amount of resources allocated for use by Environmental Standards Scotland is reasonably sufficient to enable it to perform its functions.
+**13.**[^c-4295aa41d29ce883e7289fccddbdf2f3] (1) The Scottish Ministers must seek to ensure that the amount of resources allocated for use by Environmental Standards Scotland is reasonably sufficient to enable it to perform its functions.
 
 (2) Each report prepared under paragraph 12 must include an assessment by Environmental Standards Scotland of whether the amount of resources allocated for use by it in the financial year to which the report relates was sufficient to enable it to perform its functions.
 
@@ -1294,7 +1294,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Initial members: transitional provision
 
-**14.**[^key-927f4d288f30903cac44f9d227dc9f98] (1) This paragraph applies if—
+**14.**[^c-927f4d288f30903cac44f9d227dc9f98] (1) This paragraph applies if—
 
 - (a) before the commencement date, a body known as Environmental Standards Scotland is established (the “non-statutory Environmental Standards body”) in pursuance of a resolution of the Scottish Parliament—
   - (i) endorsing the establishment of the body by that name, and
@@ -1318,7 +1318,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Application of legislation relating to public bodies
 
-**15.**[^key-e3b45abd6821b7fa715b034d8695bb8b] (1) In schedule 3 of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (devolved public bodies), before the entry relating to Food Standards Scotland insert— “ Environmental Standards Scotland ”.
+**15.**[^c-e3b45abd6821b7fa715b034d8695bb8b] (1) In schedule 3 of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (devolved public bodies), before the entry relating to Food Standards Scotland insert— “ Environmental Standards Scotland ”.
 
 (2) In schedule 1 of the Freedom of Information (Scotland) Act 2002 (Scottish public authorities: non ministerial office holders in the Scottish Administration), after paragraph 7A insert—
 
@@ -1352,7 +1352,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Content
 
-**1.**[^key-58a1e733b838c56bb704300973fc97c0] (1) The strategy prepared and published under section 22(1) must set out how Environmental Standards Scotland intends to—
+**1.**[^c-58a1e733b838c56bb704300973fc97c0] (1) The strategy prepared and published under section 22(1) must set out how Environmental Standards Scotland intends to—
 
 - (a) monitor—
   - (i) public authorities' compliance with environmental law, and
@@ -1387,7 +1387,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Procedure for publication of strategy
 
-**2.**[^key-996568269cfaa0195f47469a03d0aee3] (1) Before publishing the strategy under section 22(1), Environmental Standards Scotland must lay a copy of the strategy before the Scottish Parliament for approval.
+**2.**[^c-996568269cfaa0195f47469a03d0aee3] (1) Before publishing the strategy under section 22(1), Environmental Standards Scotland must lay a copy of the strategy before the Scottish Parliament for approval.
 
 (2) Environmental Standards Scotland must not publish the strategy before the end of the 40-day period mentioned in sub-paragraph (5).
 
@@ -1418,7 +1418,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Publication of first strategy and interim strategy
 
-**3.**[^key-b6d3b54926d524c98b5e868d461d14f4] (1) Sub-paragraphs (2) and (3) apply to the publication of the first strategy under section 22(1).
+**3.**[^c-b6d3b54926d524c98b5e868d461d14f4] (1) Sub-paragraphs (2) and (3) apply to the publication of the first strategy under section 22(1).
 
 (2) Environmental Standards Scotland must lay a copy of the strategy before the Scottish Parliament under paragraph 2(1) before the end of the period of 12 months beginning with the day on which section 19 comes into force (being the day on which Environmental Standards Scotland is established).
 
@@ -1436,7 +1436,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Review of strategy
 
-**4.**[^key-ca27d1a52d970a826755b5c1e3ea3634] (1) Environmental Standards Scotland—
+**4.**[^c-ca27d1a52d970a826755b5c1e3ea3634] (1) Environmental Standards Scotland—
 
 - (a) must, from time to time, review the strategy published under section 22(1), and
 - (b) may, if it considers it appropriate, revise it.
@@ -1448,142 +1448,142 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ## Annotations
 
-[^key-896c2c2e64d22dab4d5703bfdb3ef3b1]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/4/section/1) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-896c2c2e64d22dab4d5703bfdb3ef3b1]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/4/section/1) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-705017494e6eb2f4108b331080c3c46a]: Textual amendment: Word in [s. 1(1)(a)(iv)](https://www.legislation.gov.uk/asp/2021/4/section/1/1/a/iv) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 11(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/11/2)
+[^c-705017494e6eb2f4108b331080c3c46a]: Textual amendment: Word in [s. 1(1)(a)(iv)](https://www.legislation.gov.uk/asp/2021/4/section/1/1/a/iv) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 11(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/11/2)
 
-[^key-2edf3c433621645246413c632d63bccf]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/4/section/2) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-2edf3c433621645246413c632d63bccf]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/4/section/2) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-d128afe1e10eb18becc1bd4fcffcaf60]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/4/section/3) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-d128afe1e10eb18becc1bd4fcffcaf60]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/4/section/3) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-88582317c4399d8118521f2a570d43bf]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/4/section/4) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-88582317c4399d8118521f2a570d43bf]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/4/section/4) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-224751ee0179b644812a171cc0b1e88d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/4/section/5) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-224751ee0179b644812a171cc0b1e88d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/4/section/5) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-8f0e199fd4dcb17f7be652bf3bfc90bb]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/4/section/6) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-8f0e199fd4dcb17f7be652bf3bfc90bb]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/4/section/6) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-86c7ee0190cbdeb514eb628c297397bf]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/4/section/7) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-86c7ee0190cbdeb514eb628c297397bf]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/4/section/7) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-3aba1f90fccdb14ae1ab6fabf7074b77]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/4/section/8) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-3aba1f90fccdb14ae1ab6fabf7074b77]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/4/section/8) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-84b3efe6070936398d46d9b652e9932d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/4/section/9) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-84b3efe6070936398d46d9b652e9932d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/4/section/9) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-d765a00f73ec5d1523571a98cc6738dd]: Textual amendment: Word in [s. 9(2)(d)](https://www.legislation.gov.uk/asp/2021/4/section/9/2/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 11(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/11/3)
+[^c-d765a00f73ec5d1523571a98cc6738dd]: Textual amendment: Word in [s. 9(2)(d)](https://www.legislation.gov.uk/asp/2021/4/section/9/2/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 11(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/11/3)
 
-[^key-be4011144d7ad8238e4a92b86cb273a2]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/4/section/10) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-be4011144d7ad8238e4a92b86cb273a2]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/4/section/10) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-637a9a02e557bb558717c7fbf9fb7df2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/4/section/11) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-637a9a02e557bb558717c7fbf9fb7df2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/4/section/11) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-946bf5d46773280b5b11a6837bd090a4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/4/section/12) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-946bf5d46773280b5b11a6837bd090a4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/4/section/12) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-e7f5e2d3523964e75f4694b01c4b0e38]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/4/section/13) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-e7f5e2d3523964e75f4694b01c4b0e38]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/4/section/13) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-c9eb99f1419dc4a5616f3e0af3f09503]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/4/section/14) in force at 16.11.2023 by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2023/310/regulation/3/a)
+[^c-c9eb99f1419dc4a5616f3e0af3f09503]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/4/section/14) in force at 16.11.2023 by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2023/310/regulation/3/a)
 
-[^key-d0f4c9cc3c1dd667a9e73d6f6998df0e]: Modification: [S. 14(2)](https://www.legislation.gov.uk/asp/2021/4/section/14/2) excluded (10.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 19(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/19/5)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/19/6), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/c)
+[^c-d0f4c9cc3c1dd667a9e73d6f6998df0e]: Modification: [S. 14(2)](https://www.legislation.gov.uk/asp/2021/4/section/14/2) excluded (10.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 19(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/19/5)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/19/6), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/c)
 
-[^key-ec0240e4cd40fd9f800350664dcc711c]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/4/section/15) in force at 29.3.2021 for specified purposes by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-ec0240e4cd40fd9f800350664dcc711c]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/4/section/15) in force at 29.3.2021 for specified purposes by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-ca21a1b9f2e6ea204e9e136dbdb12a81]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/4/section/15) in force at 16.11.2023 in so far as not already in force by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 3(b)](https://www.legislation.gov.uk/ssi/2023/310/regulation/3/b)
+[^c-ca21a1b9f2e6ea204e9e136dbdb12a81]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/4/section/15) in force at 16.11.2023 in so far as not already in force by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 3(b)](https://www.legislation.gov.uk/ssi/2023/310/regulation/3/b)
 
-[^key-186d9563982fa6a09b79453a8b2cbc33]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/4/section/16) in force at 16.11.2023 by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 3(c)](https://www.legislation.gov.uk/ssi/2023/310/regulation/3/c)
+[^c-186d9563982fa6a09b79453a8b2cbc33]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/4/section/16) in force at 16.11.2023 by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 3(c)](https://www.legislation.gov.uk/ssi/2023/310/regulation/3/c)
 
-[^key-83cb5cefa0633589ff0c55307ed97c2c]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/4/section/17) in force at 15.11.2023 by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 2](https://www.legislation.gov.uk/ssi/2023/310/regulation/2)
+[^c-83cb5cefa0633589ff0c55307ed97c2c]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/4/section/17) in force at 15.11.2023 by [S.S.I. 2023/310](https://www.legislation.gov.uk/ssi/2023/310), [reg. 2](https://www.legislation.gov.uk/ssi/2023/310/regulation/2)
 
-[^key-ad769c2ebb2eccb8edcbc2d2ea68a02a]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/4/section/18) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-ad769c2ebb2eccb8edcbc2d2ea68a02a]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/4/section/18) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-8606bcdcc639b853abf298d729d4c8fe]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/4/section/19) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-8606bcdcc639b853abf298d729d4c8fe]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/4/section/19) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-68a307b3d33bb987b5effd5d5c4311f5]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/4/section/20) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-68a307b3d33bb987b5effd5d5c4311f5]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/4/section/20) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-fd46a0e302e957281fd253fc7c3d9f00]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2021/4/section/21) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-fd46a0e302e957281fd253fc7c3d9f00]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2021/4/section/21) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-d2104fb9b91693440988382df1470506]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/4/section/22) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-d2104fb9b91693440988382df1470506]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/4/section/22) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-e6c724d5899d9b8a575517cccf958f21]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2021/4/section/23) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-e6c724d5899d9b8a575517cccf958f21]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2021/4/section/23) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-ac74676baa4d2e7ff36386d30eb258d7]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2021/4/section/24) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-ac74676baa4d2e7ff36386d30eb258d7]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2021/4/section/24) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-7ef2427f5262f0c796aee39203c90a74]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2021/4/section/25) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-7ef2427f5262f0c796aee39203c90a74]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2021/4/section/25) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-af34146bc968a81ef2e09c0e67145b65]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2021/4/section/26) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-af34146bc968a81ef2e09c0e67145b65]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2021/4/section/26) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-945331464350e564bb81d07020daae94]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/4/section/27) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-945331464350e564bb81d07020daae94]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/4/section/27) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-47a18b1d0103986d1da430ea5c1873ba]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2021/4/section/28) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-47a18b1d0103986d1da430ea5c1873ba]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2021/4/section/28) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-a5d4f709bef844643411be62a6352210]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/4/section/29) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-a5d4f709bef844643411be62a6352210]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/4/section/29) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-081cd02bfc60c27aab4969e8c9a8c2d9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/4/section/30) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-081cd02bfc60c27aab4969e8c9a8c2d9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/4/section/30) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-7e3da3dbe752aa138faa34e2cdedc9a7]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/4/section/31) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-7e3da3dbe752aa138faa34e2cdedc9a7]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/4/section/31) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-8f0f90e9a3cdd456f1a5fbc3653a7a08]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/4/section/32) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-8f0f90e9a3cdd456f1a5fbc3653a7a08]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/4/section/32) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-0e049d4d150539314bce64513b3cd5ad]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2021/4/section/33) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-0e049d4d150539314bce64513b3cd5ad]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2021/4/section/33) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-0cd6c240c45a8ab82a7863a9df5dd432]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/4/section/34) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-0cd6c240c45a8ab82a7863a9df5dd432]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/4/section/34) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-31b252cd8fcea1700c526111f800f3b6]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/4/section/35) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-31b252cd8fcea1700c526111f800f3b6]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/4/section/35) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-35ba35c7e659b2389e378f19653bbe3f]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2021/4/section/36) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-35ba35c7e659b2389e378f19653bbe3f]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2021/4/section/36) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-a5eebf8fb32c58ecbcc43419afb6f421]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2021/4/section/37) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-a5eebf8fb32c58ecbcc43419afb6f421]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2021/4/section/37) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-921d6ece91775f2096d286dcbfdbd88e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2021/4/section/38) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-921d6ece91775f2096d286dcbfdbd88e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2021/4/section/38) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-e45f9727aa45070bf7c9a514521de3c9]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2021/4/section/39) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-e45f9727aa45070bf7c9a514521de3c9]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2021/4/section/39) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-0147650624e683e7edbf5d64cc10f8d7]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2021/4/section/40) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-0147650624e683e7edbf5d64cc10f8d7]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2021/4/section/40) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-9a0d7f551c0ad3174deaad71b83760f9]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2021/4/section/41) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-9a0d7f551c0ad3174deaad71b83760f9]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2021/4/section/41) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-60a9b7057b16ddca6f9c8b0069a7db3c]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2021/4/section/42) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-60a9b7057b16ddca6f9c8b0069a7db3c]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2021/4/section/42) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-3fdeddad181c29ee31bf6e3933ce7b57]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2021/4/section/43) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-3fdeddad181c29ee31bf6e3933ce7b57]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2021/4/section/43) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-35548cdc7efdea0051a27b6e19cc6d07]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2021/4/section/44) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-35548cdc7efdea0051a27b6e19cc6d07]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2021/4/section/44) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-0466b834493f5ed05fb441e013801b6f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2021/4/section/45) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-0466b834493f5ed05fb441e013801b6f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2021/4/section/45) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-989086de78ab6224b5bd13dfe20ae058]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2021/4/section/46) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
+[^c-989086de78ab6224b5bd13dfe20ae058]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2021/4/section/46) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/a)
 
-[^key-5010a9f879f44e6d1e67f6fb36f646d9]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/4/section/47) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
+[^c-5010a9f879f44e6d1e67f6fb36f646d9]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/4/section/47) in force at 29.3.2021 by [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141), [reg. 2](https://www.legislation.gov.uk/ssi/2021/141/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/141/schedule)
 
-[^key-c0db5bd348dc521dce54ba2f0bfe7442]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/1) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-c0db5bd348dc521dce54ba2f0bfe7442]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/1) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-48baf68b84bb1c48e3fbf69244289f87]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/2) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-48baf68b84bb1c48e3fbf69244289f87]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/2) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-9753d59ed42eafc04f7dc7ce50ba9962]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/3) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-9753d59ed42eafc04f7dc7ce50ba9962]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/3) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-e4be6bf02b719d3cd0163f3af4be36d7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/4) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-e4be6bf02b719d3cd0163f3af4be36d7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/4) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-0c7c9a2aaf09a111761b4546a86ee297]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/5) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-0c7c9a2aaf09a111761b4546a86ee297]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/5) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-f752f85bf5ecacb4a33ea87d9cedbd64]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/6) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-f752f85bf5ecacb4a33ea87d9cedbd64]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/6) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-8abe585b951aa263484a4653ce58428f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/7) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-8abe585b951aa263484a4653ce58428f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/7) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-8302d16fd322d011ec2f9230988e0ab2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/8) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-8302d16fd322d011ec2f9230988e0ab2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/8) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-7745379e100a55546651319b323b476c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/9) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-7745379e100a55546651319b323b476c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/9) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-020a8020ed4d564fe02d6167b7ede095]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/10) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-020a8020ed4d564fe02d6167b7ede095]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/10) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-e6bb73bbf977eb658c5b265f236e6aa9]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/11) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-e6bb73bbf977eb658c5b265f236e6aa9]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/11) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-2469283e90c375206d47ab4deb246e29]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/12) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-2469283e90c375206d47ab4deb246e29]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/12) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-4295aa41d29ce883e7289fccddbdf2f3]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/13) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-4295aa41d29ce883e7289fccddbdf2f3]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/13) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-927f4d288f30903cac44f9d227dc9f98]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/14) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-927f4d288f30903cac44f9d227dc9f98]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/14) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-e3b45abd6821b7fa715b034d8695bb8b]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-e3b45abd6821b7fa715b034d8695bb8b]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-58a1e733b838c56bb704300973fc97c0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/1) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
+[^c-58a1e733b838c56bb704300973fc97c0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/1) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
 
-[^key-996568269cfaa0195f47469a03d0aee3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/2) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
+[^c-996568269cfaa0195f47469a03d0aee3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/2) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
 
-[^key-b6d3b54926d524c98b5e868d461d14f4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/3) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
+[^c-b6d3b54926d524c98b5e868d461d14f4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/3) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
 
-[^key-ca27d1a52d970a826755b5c1e3ea3634]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/4) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)
+[^c-ca27d1a52d970a826755b5c1e3ea3634]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/4/schedule/2/paragraph/4) in force at 1.10.2021 by [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/c)

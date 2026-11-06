@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Contributions during absences with permission[^key-5d42069859646432e1118a98bc4d8e50]
+## 21. Contributions during absences with permission[^c-5d42069859646432e1118a98bc4d8e50]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ he must make the payments specified in paragraph (5) on his deemed pay.
 
 ## Annotations
 
-[^key-5d42069859646432e1118a98bc4d8e50]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-5d42069859646432e1118a98bc4d8e50]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

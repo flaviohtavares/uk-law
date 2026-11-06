@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Abolition of “contract exemption”[^key-e07387ec8eebcf1be9f3f32ec2e3e439]
+## 53. Abolition of “contract exemption”[^c-e07387ec8eebcf1be9f3f32ec2e3e439]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 75(1) of the Local Government (Miscellaneous Provisions) Act 1976 (ha
 
 ## Annotations
 
-[^key-e07387ec8eebcf1be9f3f32ec2e3e439]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2006/49/section/53) in force at 28.1.2008 for E.W. by [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 2](https://www.legislation.gov.uk/uksi/2007/3492/article/2)
+[^c-e07387ec8eebcf1be9f3f32ec2e3e439]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2006/49/section/53) in force at 28.1.2008 for E.W. by [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 2](https://www.legislation.gov.uk/uksi/2007/3492/article/2)

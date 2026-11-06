@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Adoption orders[^key-1ca6ea64475c385978a83dfc5c0aa844]
+## 43. Adoption orders[^c-1ca6ea64475c385978a83dfc5c0aa844]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ca6ea64475c385978a83dfc5c0aa844]: Commencement: S. 43 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1ca6ea64475c385978a83dfc5c0aa844]: Commencement: S. 43 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

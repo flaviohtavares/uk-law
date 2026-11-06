@@ -278,7 +278,7 @@ the court shall by order direct the registration of the contract, and thereupon 
 
 (4) Where the court does not by order direct the registration of a contract made during the relevant period, any party to that contract who is certified by the court to have entered into the contract in good faith without a view to evading the operation of the scheme may recover the amount of any damage suffered by him by reason of the avoidance of the contract from any party thereto who is certified by the court to have entered into the contract with a view to evading the operation of the scheme.
 
-(5) For the purposes of an appeal under this section with respect to any contract, the court shall, subject to subsection (6), be the county court [^key-d6cb11aea38a80fb9dae611560ffc558]....
+(5) For the purposes of an appeal under this section with respect to any contract, the court shall, subject to subsection (6), be the county court [^c-d6cb11aea38a80fb9dae611560ffc558]....
 
 (6) Notwithstanding the provisions of subsection (5)—
 
@@ -438,7 +438,7 @@ shall, to such amount as may be certified by the Ministry with the approval of t
 
 - (a) made by a board in compliance with a requisition under Article 43 of the Diseases of Animals (Northern Ireland) Order 1981[^c11571091];
 - [(aa)[^c11571111] made to a district council for the purposes of its functions under the Food and Drugs Act (Northern Ireland) 1958 [^m00003], or to the Ministry;\]
-- (aaa)[^key-6714c3a429addfa3946a9b8e2f4176c6] made to the Competition and Markets Authority, if it is made for the purpose of enabling the Authority to perform any of its functions under the Fair Trading Act 1973, the Competition Act 1980 or Part 3 of the Enterprise and Regulatory Reform Act 2013;
+- (aaa)[^c-6714c3a429addfa3946a9b8e2f4176c6] made to the Competition and Markets Authority, if it is made for the purpose of enabling the Authority to perform any of its functions under the Fair Trading Act 1973, the Competition Act 1980 or Part 3 of the Enterprise and Regulatory Reform Act 2013;
 - (b) made for the purposes of a prosecution or other legal proceedings (including arbitrations) under this Act or under a scheme or regulation made under this Act or for the purpose of any report of such proceedings;
 - (c) if, and in so far as, the disclosure is required or authorised by this Act or any scheme or regulation made thereunder.
 
@@ -562,7 +562,7 @@ Section 3(10).
 
 [^c11570941]: Textual amendment: [1975 NI 8](https://www.legislation.gov.uk/1975/ni8)
 
-[^key-d6cb11aea38a80fb9dae611560ffc558]: Textual amendment: Words in s. 13(5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 56](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/56), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d6cb11aea38a80fb9dae611560ffc558]: Textual amendment: Words in s. 13(5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 56](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/56), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c11570961]: Textual amendment: [1968 c.34](https://www.legislation.gov.uk/ukpga/1968/34)
 
@@ -586,7 +586,7 @@ Section 3(10).
 
 [^m00003]: Marginal citation: 1958 c.27
 
-[^key-6714c3a429addfa3946a9b8e2f4176c6]: Textual amendment: [S. 23(2)(aaa)](https://www.legislation.gov.uk/apni/1964/13/section/23/2/aaa) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 209](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/209) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-6714c3a429addfa3946a9b8e2f4176c6]: Textual amendment: [S. 23(2)(aaa)](https://www.legislation.gov.uk/apni/1964/13/section/23/2/aaa) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 209](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/209) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
 [^c11571141]: Textual amendment: [1970 c.20 (NI)](https://www.legislation.gov.uk/apni/1970/20)
 

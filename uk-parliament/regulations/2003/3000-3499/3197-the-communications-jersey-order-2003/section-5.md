@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**5.**[^key-c9eae5d09160c91d60c1184223adfabe] Sections 1 and 7 of, and the Schedule to, the 2002 Act shall extend to Jersey with the modifications set out in Schedule 1 to this Order.
+**5.**[^c-c9eae5d09160c91d60c1184223adfabe] Sections 1 and 7 of, and the Schedule to, the 2002 Act shall extend to Jersey with the modifications set out in Schedule 1 to this Order.
 
 ## Annotations
 
-[^key-c9eae5d09160c91d60c1184223adfabe]: Commencement: Art. 5 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-c9eae5d09160c91d60c1184223adfabe]: Commencement: Art. 5 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)

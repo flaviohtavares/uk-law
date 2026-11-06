@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.5. Trial bundles[^key-3dd3a18e9a1d7dd34d4c38872c5b1a3f]
+## 39.5. Trial bundles[^c-3dd3a18e9a1d7dd34d4c38872c5b1a3f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dd3a18e9a1d7dd34d4c38872c5b1a3f]: Commencement: [Rule 39.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-3dd3a18e9a1d7dd34d4c38872c5b1a3f]: Commencement: [Rule 39.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

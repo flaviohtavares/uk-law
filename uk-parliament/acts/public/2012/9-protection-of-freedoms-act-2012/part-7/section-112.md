@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Power of entry in relation to stalking[^key-8edfc9c6bab03e1c9c7a7465f02b28da]
+## 112. Power of entry in relation to stalking[^c-8edfc9c6bab03e1c9c7a7465f02b28da]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 2A of the Protection from Harassment Act 1997 (for which see secti
 
 ## Annotations
 
-[^key-8edfc9c6bab03e1c9c7a7465f02b28da]: Commencement: S. 112 in force at 25.11.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/b)
+[^c-8edfc9c6bab03e1c9c7a7465f02b28da]: Commencement: S. 112 in force at 25.11.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/b)

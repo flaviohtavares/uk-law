@@ -164,12 +164,12 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 (1) An employee may present a complaint to an employment tribunal that his employer has infringed a right conferred on him by regulation 3, or (subject to regulation 6(5)), regulation 6(2).
 
-(2) Subject to paragraph (3), an employment tribunal shall not consider a complaint under this regulation unless it is presented before the end of the period of six[^key-65467b4669610c158acb77187fe21eb9] months beginning—
+(2) Subject to paragraph (3), an employment tribunal shall not consider a complaint under this regulation unless it is presented before the end of the period of six[^c-65467b4669610c158acb77187fe21eb9] months beginning—
 
 - (a) in the case of an alleged infringement of a right conferred by regulation 3(1) or 6(2), with the date of the less favourable treatment or detriment to which the complaint relates or, where an act or failure to act is part of a series of similar acts or failures comprising the less favourable treatment or detriment, the last of them;
 - (b) in the case of an alleged infringement of the right conferred by regulation 3(6), with the date, or if more than one the last date, on which other individuals, whether or not employees of the employer, were informed of the vacancy.
 
-(2A)[^key-23110af7e1be582b8b0daf19cb7fbebe] Regulation 7A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-23110af7e1be582b8b0daf19cb7fbebe] Regulation 7A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) A tribunal may consider any such complaint which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -212,7 +212,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 - (a) increase the amount of compensation required to be paid to the complainant in respect of the complaint, where an order was made under paragraph (7)(b); or
 - (b) make an order under paragraph (7)(b).
 
-### 7A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-8ecf87e84ec0efab97002e6e6d7197ca]
+### 7A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-8ecf87e84ec0efab97002e6e6d7197ca]
 
 (1) In this regulation—
 
@@ -343,7 +343,7 @@ The amendments in Part 1 of Schedule 2 to these Regulations shall have effect su
 
 (1) For the purposes of these Regulations, the holding, otherwise than under a contract of employment, of the office of constable or an appointment as a police cadet shall be treated as employment, under a contract of employment, by the relevant officer.
 
-(1A)[^key-d58dc4d5e0cc4b77b4ac61cd5d72ccfd] For the purposes of these Regulations, any constable or other person who has been seconded to SOCAto serve as a member of its staff shall be treated as employed by SOCA, in respect of actions taken by, or on behalf of, SOCA.
+(1A)[^c-d58dc4d5e0cc4b77b4ac61cd5d72ccfd] For the purposes of these Regulations, any constable or other person who has been seconded to SOCAto serve as a member of its staff shall be treated as employed by SOCA, in respect of actions taken by, or on behalf of, SOCA.
 
 (1B) For the purposes of regulation 12 (liability of employers and principals),—
 
@@ -353,10 +353,10 @@ The amendments in Part 1 of Schedule 2 to these Regulations shall have effect su
 (2) In this regulation “the relevant officer” means—
 
 - (a) in relation to a member of a police force or a special constable or police cadet appointed for a police area, the chief officer of police (or, in Scotland, the chief constable);
-- (b)[^key-284003f682324fe9bd08c8d2440e35c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-284003f682324fe9bd08c8d2440e35c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in relation to any other person holding the office of constable or an appointment as a police cadet, the person who has the direction and control of the body of constables or cadets in question.
 
-(3)[^key-15a9e6078492a20d7ef463ad3a11e8e6] In this regulation “SOCA” means the Serious Organised Crime Agency.
+(3)[^c-15a9e6078492a20d7ef463ad3a11e8e6] In this regulation “SOCA” means the Serious Organised Crime Agency.
 
 ## PART 5 — EXCLUSIONS
 
@@ -377,7 +377,7 @@ The amendments in Part 1 of Schedule 2 to these Regulations shall have effect su
 
 ### 19. Agency workers
 
-(1)[^key-a784eda1fefb35741c39eceb81529c91] Save in respect of paragraph 1 of Part 1 of Schedule 2, these Regulations shall not have effect in relation to employment under a fixed-term contract where the employee is an agency worker.
+(1)[^c-a784eda1fefb35741c39eceb81529c91] Save in respect of paragraph 1 of Part 1 of Schedule 2, these Regulations shall not have effect in relation to employment under a fixed-term contract where the employee is an agency worker.
 
 (2) In this regulation “agency worker” means any person who is supplied by an employment business to do work for another person under a contract or other arrangements made between the employment business and the other person.
 
@@ -385,7 +385,7 @@ The amendments in Part 1 of Schedule 2 to these Regulations shall have effect su
 
 ### 20. Apprentices
 
-These Regulations shall not have effect in relation to employment under a fixed-term contract where the contract is a contract of apprenticeship,[^key-ed8d0d161a0d2f8d38f0e104bb51a4a5][^key-f51f20fbe4f8894fbc9300c442e02cf6] an apprenticeship agreement (within the meaning of section 32 of the Apprenticeships, Skills, Children and Learning Act 2009) or approved English apprenticeship agreement (within the meaning of section A1(3) of the Apprenticeships, Skills, Children and Learning Act 2009)[^key-5d57fb94134369dbb08aba4c8ed30c51].
+These Regulations shall not have effect in relation to employment under a fixed-term contract where the contract is a contract of apprenticeship,[^c-ed8d0d161a0d2f8d38f0e104bb51a4a5][^c-f51f20fbe4f8894fbc9300c442e02cf6] an apprenticeship agreement (within the meaning of section 32 of the Apprenticeships, Skills, Children and Learning Act 2009) or approved English apprenticeship agreement (within the meaning of section A1(3) of the Apprenticeships, Skills, Children and Learning Act 2009)[^c-5d57fb94134369dbb08aba4c8ed30c51].
 
 Signed by authority of the Secretary of State
 
@@ -597,21 +597,21 @@ A Transposition Note explaining how the Regulations gives effect to the Directiv
 
 [^c870351]: Marginal citation: Part 10 is amended by these Regulations, Schedule 2, to extend the circumstances in which, under section 95, an employee is treated as dismissed for the purposes of that Part.
 
-[^key-65467b4669610c158acb77187fe21eb9]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/7/2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/758/regulation/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-65467b4669610c158acb77187fe21eb9]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/7/2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/758/regulation/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-23110af7e1be582b8b0daf19cb7fbebe]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/7/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/14)
+[^c-23110af7e1be582b8b0daf19cb7fbebe]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/7/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/14)
 
-[^key-8ecf87e84ec0efab97002e6e6d7197ca]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/2034/regulation/7A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/15)
+[^c-8ecf87e84ec0efab97002e6e6d7197ca]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2002/2034/regulation/7A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/15)
 
 [^c870352]: Marginal citation: [Section 203](https://www.legislation.gov.uk/uksi/2002/2034/section/203) was amended by the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) and by the Employment Relations Act 1999, section 44 and Schedule 9.
 
 [^c870353]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-d58dc4d5e0cc4b77b4ac61cd5d72ccfd]: Textual amendment: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/1A) - [Reg. 17(1B)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/1B) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/30/2)
+[^c-d58dc4d5e0cc4b77b4ac61cd5d72ccfd]: Textual amendment: [Reg. 17(1A)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/1A) - [Reg. 17(1B)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/1B) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/30/2)
 
-[^key-284003f682324fe9bd08c8d2440e35c9]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/2) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 30(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/30/3)
+[^c-284003f682324fe9bd08c8d2440e35c9]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/2) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 30(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/30/3)
 
-[^key-15a9e6078492a20d7ef463ad3a11e8e6]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/3) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 30(4)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/30/4)
+[^c-15a9e6078492a20d7ef463ad3a11e8e6]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/17/3) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 30(4)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/30/4)
 
 [^c870355]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
@@ -619,13 +619,13 @@ A Transposition Note explaining how the Regulations gives effect to the Directiv
 
 [^c870357]: Marginal citation: [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772).
 
-[^key-a784eda1fefb35741c39eceb81529c91]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/19/1) substituted (27.10.2008) by [Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations 2008 (S.I. 2008/2776)](https://www.legislation.gov.uk/uksi/2008/2776), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2776/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/2776/regulation/2/2)
+[^c-a784eda1fefb35741c39eceb81529c91]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/2034/regulation/19/1) substituted (27.10.2008) by [Fixed-term Employees (Prevention of Less Favourable Treatment) (Amendment) Regulations 2008 (S.I. 2008/2776)](https://www.legislation.gov.uk/uksi/2008/2776), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2776/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/2776/regulation/2/2)
 
-[^key-ed8d0d161a0d2f8d38f0e104bb51a4a5]: Textual amendment: Reg. 20 substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/1/2/a)
+[^c-ed8d0d161a0d2f8d38f0e104bb51a4a5]: Textual amendment: Reg. 20 substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/1/2/a)
 
-[^key-f51f20fbe4f8894fbc9300c442e02cf6]: Textual amendment: Words in reg. 20 inserted (9.1.2013) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments to Subordinate Legislation) (England and Wales) Order 2012 (S.I. 2012/3112)](https://www.legislation.gov.uk/uksi/2012/3112), [arts. 1](https://www.legislation.gov.uk/uksi/2012/3112/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/3112/article/3/2)
+[^c-f51f20fbe4f8894fbc9300c442e02cf6]: Textual amendment: Words in reg. 20 inserted (9.1.2013) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments to Subordinate Legislation) (England and Wales) Order 2012 (S.I. 2012/3112)](https://www.legislation.gov.uk/uksi/2012/3112), [arts. 1](https://www.legislation.gov.uk/uksi/2012/3112/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/3112/article/3/2)
 
-[^key-5d57fb94134369dbb08aba4c8ed30c51]: Textual amendment: Words in reg. 20 inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/1/2/b)
+[^c-5d57fb94134369dbb08aba4c8ed30c51]: Textual amendment: Words in reg. 20 inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/1/2/b)
 
 [^c870358]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). There are amendments to paragraph 2 of Schedule 11, which are not relevant to these Regulations.
 

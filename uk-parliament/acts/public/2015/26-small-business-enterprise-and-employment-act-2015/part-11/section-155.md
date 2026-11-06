@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Section 154(1): further provision[^key-d9e0f5168a1ae44e42cdde232c1dc2e8]
+## 155. Section 154(1): further provision[^c-d9e0f5168a1ae44e42cdde232c1dc2e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e0f5168a1ae44e42cdde232c1dc2e8]: Commencement: S. 155 in force at 1.1.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/b)
+[^c-d9e0f5168a1ae44e42cdde232c1dc2e8]: Commencement: S. 155 in force at 1.1.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/b)

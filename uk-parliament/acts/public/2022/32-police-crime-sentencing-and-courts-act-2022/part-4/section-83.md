@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Offence relating to residing on land without consent in or with a vehicle[^key-2ebefbf7e834a499e5e491b6908f209e]
+## 83. Offence relating to residing on land without consent in or with a vehicle[^c-2ebefbf7e834a499e5e491b6908f209e]
 
 *Extent: E+W*
 
@@ -161,4 +161,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ebefbf7e834a499e5e491b6908f209e]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/32/section/83) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-2ebefbf7e834a499e5e491b6908f209e]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/32/section/83) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

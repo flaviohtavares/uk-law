@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Termination of membership[^key-83b335ea3ca089b067681f120a633b69]
+## 124. Termination of membership[^c-83b335ea3ca089b067681f120a633b69]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.161 of the 1986 Rules[^f00052].
 
 ## Annotations
 
-[^key-83b335ea3ca089b067681f120a633b69]: Commencement: Rule 124 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-83b335ea3ca089b067681f120a633b69]: Commencement: Rule 124 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00052]: Footnote: Paragraph (1) was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

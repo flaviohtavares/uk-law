@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Power to make super-complaints[^key-69e74ed7547517f54985c9e79923422e]
+## 169. Power to make super-complaints[^c-69e74ed7547517f54985c9e79923422e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69e74ed7547517f54985c9e79923422e]: Commencement: S. 169 in force at Royal Assent, see [s. 240(4)(v)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/v)
+[^c-69e74ed7547517f54985c9e79923422e]: Commencement: S. 169 in force at Royal Assent, see [s. 240(4)(v)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/v)

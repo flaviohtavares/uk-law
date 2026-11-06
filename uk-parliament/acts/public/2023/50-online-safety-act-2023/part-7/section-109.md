@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Offences in connection with information notices[^key-5dd9a53f85c61f489365c5c8c626adbe][^key-aa6940568e1222e7fd55c52f24cc2813]
+## 109. Offences in connection with information notices[^c-5dd9a53f85c61f489365c5c8c626adbe][^c-aa6940568e1222e7fd55c52f24cc2813]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) It is a defence for a person charged with an offence under subsection (1) to show that—
 
 - (a) it was not reasonably practicable to comply with the requirements of the information notice at the time required by the notice, but
-- (b) the person has subsequently taken all of the steps that it was reasonable, and reasonably practicable, to take[^key-ed195abd1c23b1bc0d3c06028e256c51] to comply with those requirements.
+- (b) the person has subsequently taken all of the steps that it was reasonable, and reasonably practicable, to take[^c-ed195abd1c23b1bc0d3c06028e256c51] to comply with those requirements.
 
 (3) A person commits an offence if, in response to an information notice—
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) the person suppresses, destroys or alters, or causes or permits the suppression, destruction or alteration of, any information required to be provided, or document required to be produced, by an information notice, and
 - (b) the person’s intention was to prevent OFCOM from being provided with the information or document or (as the case may be) from being provided with it as it was before the alteration.
 
-(6A)[^key-97536bb52e01dacf9df224e214c8f44f] A person who is given an information notice under section 101(C1) commits an offence if—
+(6A)[^c-97536bb52e01dacf9df224e214c8f44f] A person who is given an information notice under section 101(C1) commits an offence if—
 
 - (a) the person deletes or alters, or causes or permits the deletion or alteration of, any information required by the notice to be retained, and
 - (b) the person’s intention was to prevent the information being available, or (as the case may be) to prevent it being available in unaltered form, for the purposes of any official investigation into the death of the child to whom the notice relates.
@@ -67,10 +67,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5dd9a53f85c61f489365c5c8c626adbe]: Commencement: S. 109 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5dd9a53f85c61f489365c5c8c626adbe]: Commencement: S. 109 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-aa6940568e1222e7fd55c52f24cc2813]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/50/section/109) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
+[^c-aa6940568e1222e7fd55c52f24cc2813]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/50/section/109) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
 
-[^key-ed195abd1c23b1bc0d3c06028e256c51]: Textual amendment: Words in [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/109/2/b) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(5)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/5/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-ed195abd1c23b1bc0d3c06028e256c51]: Textual amendment: Words in [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/109/2/b) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(5)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/5/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-97536bb52e01dacf9df224e214c8f44f]: Textual amendment: [S. 109(6A)](https://www.legislation.gov.uk/ukpga/2023/50/section/109/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2023/50/section/109/6B) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(5)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/5/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-97536bb52e01dacf9df224e214c8f44f]: Textual amendment: [S. 109(6A)](https://www.legislation.gov.uk/ukpga/2023/50/section/109/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2023/50/section/109/6B) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(5)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/5/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

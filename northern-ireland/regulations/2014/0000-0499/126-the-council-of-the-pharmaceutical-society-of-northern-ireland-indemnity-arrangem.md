@@ -32,7 +32,7 @@ summary: ''
 
 Pharmacy
 
-The Council of the Pharmaceutical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2014 (revoked)[^key-c454999aae1fe32a1dc10ee6bc3945f4]
+The Council of the Pharmaceutical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2014 (revoked)[^c-c454999aae1fe32a1dc10ee6bc3945f4]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 1st June 2014
 
-[^key-c454999aae1fe32a1dc10ee6bc3945f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c454999aae1fe32a1dc10ee6bc3945f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c454999aae1fe32a1dc10ee6bc3945f4]
+## 1. Citation, commencement and interpretation[^c-c454999aae1fe32a1dc10ee6bc3945f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c454999aae1fe32a1dc10ee6bc3945f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Time for serving Notice of Appeal[^key-c454999aae1fe32a1dc10ee6bc3945f4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Appeals - other provisions[^key-c454999aae1fe32a1dc10ee6bc3945f4]
+## 9. Time for serving Notice of Appeal[^c-c454999aae1fe32a1dc10ee6bc3945f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c454999aae1fe32a1dc10ee6bc3945f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Appeals - other provisions[^c-c454999aae1fe32a1dc10ee6bc3945f4]
 
-[^key-c454999aae1fe32a1dc10ee6bc3945f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c454999aae1fe32a1dc10ee6bc3945f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c454999aae1fe32a1dc10ee6bc3945f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c454999aae1fe32a1dc10ee6bc3945f4]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2014/126) revoked (21.11.2022) by [The Council of the Pharmaceutical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2022 (S.R. 2022/285)](https://www.legislation.gov.uk/nisr/2022/285), [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/285/article/1/1), [reg. 11](https://www.legislation.gov.uk/nisr/2022/285/regulation/11)
+[^c-c454999aae1fe32a1dc10ee6bc3945f4]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2014/126) revoked (21.11.2022) by [The Council of the Pharmaceutical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2022 (S.R. 2022/285)](https://www.legislation.gov.uk/nisr/2022/285), [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/285/article/1/1), [reg. 11](https://www.legislation.gov.uk/nisr/2022/285/regulation/11)

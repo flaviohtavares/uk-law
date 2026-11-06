@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Racial discrimination.[^key-e0de4b873cd4e3d58461345658be77d3][^c1127475]
+## 23. Racial discrimination.[^c-e0de4b873cd4e3d58461345658be77d3][^c1127475]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e0de4b873cd4e3d58461345658be77d3]: Textual amendment: S. 23 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-e0de4b873cd4e3d58461345658be77d3]: Textual amendment: S. 23 repealed (1.10.2010) by 2010 c. 15, Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
 [^c1127475]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 

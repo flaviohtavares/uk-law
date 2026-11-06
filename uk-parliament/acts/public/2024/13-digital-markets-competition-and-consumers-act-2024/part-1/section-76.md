@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Power to enter premises under a warrant: supplementary[^key-c42ddb91b074f1dd5657e6e739f1772c][^key-f020be41715c7a5b3cc4347e152579f8]
+## 76. Power to enter premises under a warrant: supplementary[^c-c42ddb91b074f1dd5657e6e739f1772c][^c-f020be41715c7a5b3cc4347e152579f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c42ddb91b074f1dd5657e6e739f1772c]: Commencement: S. 76 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c42ddb91b074f1dd5657e6e739f1772c]: Commencement: S. 76 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f020be41715c7a5b3cc4347e152579f8]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2024/13/section/76) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-f020be41715c7a5b3cc4347e152579f8]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2024/13/section/76) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

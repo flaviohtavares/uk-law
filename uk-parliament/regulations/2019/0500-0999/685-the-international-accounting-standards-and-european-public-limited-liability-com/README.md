@@ -67,7 +67,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 - [Section 3 — Interpretation of this Part](part-2/section-3.md)
 
-#### CHAPTER 2 — International accounting standards on IP completion day[^key-3e650580b78c044c971a80855f80bad2]
+#### CHAPTER 2 — International accounting standards on IP completion day[^c-3e650580b78c044c971a80855f80bad2]
 
 *Extent: E+W+S+N.I.*
 
@@ -170,4 +170,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23673301]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-3e650580b78c044c971a80855f80bad2]: Textual amendment: Words in Pt. 2 Ch. 2 heading substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/23/a)
+[^c-3e650580b78c044c971a80855f80bad2]: Textual amendment: Words in Pt. 2 Ch. 2 heading substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/23/a)

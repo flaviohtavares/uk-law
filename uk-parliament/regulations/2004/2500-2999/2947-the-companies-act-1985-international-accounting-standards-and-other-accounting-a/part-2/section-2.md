@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Preparation of individual and group accounts in accordance with IAS Regulation[^key-6b5809ea2cc1121aa6d00b7e57349b74]
+## 2. Preparation of individual and group accounts in accordance with IAS Regulation[^c-6b5809ea2cc1121aa6d00b7e57349b74]
 
 *Extent: E+W+S*
 
@@ -141,7 +141,7 @@ For sections 226 and 227 of the 1985 Act (duty to prepare individual and group a
 
 ## Annotations
 
-[^key-6b5809ea2cc1121aa6d00b7e57349b74]: Commencement: Reg. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-6b5809ea2cc1121aa6d00b7e57349b74]: Commencement: Reg. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00002]: Footnote: Section 226 was substituted by section 4(1) of the Companies Act 1989, and section 227 by section 5(1) of that Act.
 

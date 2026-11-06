@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Supplementary provisions relating to fitness to practise cases[^key-0deb801c8c9a0efce04ca8367a0dcc81]
+## 33. Supplementary provisions relating to fitness to practise cases[^c-0deb801c8c9a0efce04ca8367a0dcc81]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 
 (5) Subsection (3) is subject to any order made under section 30(1) or (2).
 
-(5A)[^key-3a419c81333cc3dc100f9c48086c98a0] In exercising a function under section 27B, 27C or 28, a Practice Committee (or any panel by which the function is exercisable as mentioned in section 2(6A)) must have regard to the over-arching objective.
+(5A)[^c-3a419c81333cc3dc100f9c48086c98a0] In exercising a function under section 27B, 27C or 28, a Practice Committee (or any panel by which the function is exercisable as mentioned in section 2(6A)) must have regard to the over-arching objective.
 
 (6) Schedule 3 to this Act (proceedings before the Investigating Committee, the Interim Orders Committee and Practice Committees: dentists) shall have effect.
 
 ## Annotations
 
-[^key-0deb801c8c9a0efce04ca8367a0dcc81]: Textual amendment: S. 33 and cross-heading substituted for s. 33 (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 24](https://www.legislation.gov.uk/uksi/2005/2011/article/24) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-0deb801c8c9a0efce04ca8367a0dcc81]: Textual amendment: S. 33 and cross-heading substituted for s. 33 (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 24](https://www.legislation.gov.uk/uksi/2005/2011/article/24) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-3a419c81333cc3dc100f9c48086c98a0]: Textual amendment: [S. 33(5A)](https://www.legislation.gov.uk/ukpga/1984/24/section/33/5A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 1(4)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/1/4); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-3a419c81333cc3dc100f9c48086c98a0]: Textual amendment: [S. 33(5A)](https://www.legislation.gov.uk/ukpga/1984/24/section/33/5A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 1(4)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/1/4); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)

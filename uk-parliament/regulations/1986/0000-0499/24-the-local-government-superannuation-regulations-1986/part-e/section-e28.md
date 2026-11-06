@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E28. Counting of certain reckonable service and qualifying service in determining entitlement to benefits[^key-37f3619c031f5af7fd9ebe8f051a6608]
+## E28. Counting of certain reckonable service and qualifying service in determining entitlement to benefits[^c-37f3619c031f5af7fd9ebe8f051a6608]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purpose of determining whether a person is entitled to, or to payment of
 
 ## Annotations
 
-[^key-37f3619c031f5af7fd9ebe8f051a6608]: Commencement: [Reg. E28](https://www.legislation.gov.uk/uksi/1986/24/regulation/E28) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-37f3619c031f5af7fd9ebe8f051a6608]: Commencement: [Reg. E28](https://www.legislation.gov.uk/uksi/1986/24/regulation/E28) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

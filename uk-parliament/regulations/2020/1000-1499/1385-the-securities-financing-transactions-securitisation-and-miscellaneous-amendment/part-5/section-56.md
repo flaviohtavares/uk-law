@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019[^key-2e354c025d1e50bc56bce852d210fe6d]
+## 56. The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019[^c-2e354c025d1e50bc56bce852d210fe6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -114,7 +114,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2e354c025d1e50bc56bce852d210fe6d]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-2e354c025d1e50bc56bce852d210fe6d]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2020/1385/regulation/56) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00040]: Footnote: [S.I. 2019/542](https://www.legislation.gov.uk/uksi/2019/542), as amended by [S.I. 2019/1416](https://www.legislation.gov.uk/uksi/2019/1416) and [2020/646](https://www.legislation.gov.uk/uksi/2020/646).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Commission Implementing Regulation (EU) No 668/2014[^key-02fa1b9ca4f334ee21f76f0d782f3ad3]
+## 23. Commission Implementing Regulation (EU) No 668/2014[^c-02fa1b9ca4f334ee21f76f0d782f3ad3]
 
 *Extent: E+W+S+N.I.*
 
@@ -217,7 +217,7 @@ summary: ''
 
 ## Annotations
 
-[^key-02fa1b9ca4f334ee21f76f0d782f3ad3]: Commencement: Reg. 23 in force at 31.12.2020, see reg. 1(7)
+[^c-02fa1b9ca4f334ee21f76f0d782f3ad3]: Commencement: Reg. 23 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414441]: Marginal citation: The Pantone colour matching system is an industry-standard colour specification system which allocates a number and a specific ink formulation to each colour.
 

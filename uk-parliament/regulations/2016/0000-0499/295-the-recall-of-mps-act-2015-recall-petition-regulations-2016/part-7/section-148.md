@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Publication of documents[^key-d6ce884d8650d96e9374990e8096feed]
+## 148. Publication of documents[^c-d6ce884d8650d96e9374990e8096feed]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6ce884d8650d96e9374990e8096feed]: Commencement: Reg. 148 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d6ce884d8650d96e9374990e8096feed]: Commencement: Reg. 148 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

@@ -39,7 +39,7 @@ Made
 
 The Department for Social Development makes the following Order in exercise of the power conferred by section 41(1) and (2) of the Child Maintenance Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation and interpretation[^key-d8464e741827091d0dea0bc4e34fbf7c]
+## 1. Citation and interpretation[^c-d8464e741827091d0dea0bc4e34fbf7c]
 
 (1) This Order may be cited as the Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013.
 
@@ -71,7 +71,7 @@ The Department for Social Development makes the following Order in exercise of t
   - (i) alleged to be the absent parent for the purposes of an application for child support maintenance under the Child Support Order, or
   - (ii) treated as the absent parent for the purposes of the Child Support Order.
 
-## 2. Appointed day[^key-020304fcf268501c575cb571165aaa30]
+## 2. Appointed day[^c-020304fcf268501c575cb571165aaa30]
 
 (1) The day appointed for the coming into operation of the following provisions of the Act, for the purposes of those types of cases falling within Article 3—
 
@@ -88,9 +88,9 @@ in so far as not already in operation, is 29th July 2013.
 
 (2) In Schedule 5 the entry relating to section 27 (pilot schemes) of the 2000 Act comes into operation on 29th July 2013.
 
-## 3. Cases to which the new calculation rules apply[^key-2364ab0a9c5041126e75d0af4899ac30]
+## 3. Cases to which the new calculation rules apply[^c-2364ab0a9c5041126e75d0af4899ac30]
 
-(1)[^key-d13a74d7eb958531475c1c0b7ed6751f] The types of cases falling within this Article, for the purposes of Article 2(1), are those cases satisfying any of paragraphs (2) to (4).
+(1)[^c-d13a74d7eb958531475c1c0b7ed6751f] The types of cases falling within this Article, for the purposes of Article 2(1), are those cases satisfying any of paragraphs (2) to (4).
 
 (2) A case satisfies this paragraph where—
 
@@ -98,12 +98,12 @@ in so far as not already in operation, is 29th July 2013.
 - (b) that application is made in respect of two or three qualifying children with the same person with care and the same non-resident parent; and
 - (c) subject to paragraph (5), there is no existing case which has both the same person with care and the same non-resident parent referred to in sub-paragraph (b).
 
-(3)[^key-ab79742e970911125985ecb74705bcba] A case satisfies this paragraph where it is an existing case and—
+(3)[^c-ab79742e970911125985ecb74705bcba] A case satisfies this paragraph where it is an existing case and—
 
 - (a) the non-resident parent, in a case falling within paragraph (2), is also the non-resident parent or absent parent in relation to the existing case; and
 - (b) the person with care in relation to the existing case is not the person with care in relation to the case falling within paragraph (2).
 
-(4)[^key-ab79742e970911125985ecb74705bcba] A case satisfies this paragraph where it is an existing case and—
+(4)[^c-ab79742e970911125985ecb74705bcba] A case satisfies this paragraph where it is an existing case and—
 
 - (a) the non-resident parent or absent parent (“A”) is a partner of a non-resident parent in a case falling within paragraph (2) (“B”); and
 - (b) A or B is in receipt of a prescribed benefit.
@@ -120,7 +120,7 @@ the case is to be treated as an existing case (and so is not a case that satisfi
 - (a) where made by telephone, the date it is made; and
 - (b) where made by post, the date of receipt by the Department.
 
-(7)[^key-57be39e206484e098ca08c14217a14c7] For the purposes of paragraph (4)—
+(7)[^c-57be39e206484e098ca08c14217a14c7] For the purposes of paragraph (4)—
 
 - “partner” has the meaning given in paragraph 10C(4) of Schedule 1 to the Child Support Order (as substituted by Schedule 1 to the 2000 Act);
 - “prescribed benefit” means a benefit prescribed, or treated as prescribed, for the purposes of paragraph 4(1)(c) of Schedule 1 to the Child Support Order (as substituted by Schedule 1 to the 2000 Act).
@@ -130,18 +130,18 @@ the case is to be treated as an existing case (and so is not a case that satisfi
 - (a) where there is a maintenance assessment or maintenance calculation in force, the date on which the liability under that assessment or calculation ends as a result of the request to cease acting; and
 - (b) where there is an application still to be determined, the date notified to the person with care as the date on which the Department has ceased acting.
 
-## 4. Transitional provision for existing cases[^key-cb5c74681fbb6d5841fbb1523b464e43][^key-9b18dc5210b5374dde698581de70355c]
+## 4. Transitional provision for existing cases[^c-cb5c74681fbb6d5841fbb1523b464e43][^c-9b18dc5210b5374dde698581de70355c]
 
 Where a case falls within Article 3(3) or (4), the provisions of the Child Support Order continue to apply—
 
 - (a) as they were in operation immediately before the coming into operation of the provisions in Article 2(1) in relation to that case;
 - (b) until the maintenance calculation made in response to the application referred to in Article 3(2)(a) takes effect.
 
-## 5. Amendment of the Child Maintenance (2008 Act) (Commencement No. 10 and Transitional Provisions) Order[^key-f41242a1981104f38f3538201f1d31ba]
+## 5. Amendment of the Child Maintenance (2008 Act) (Commencement No. 10 and Transitional Provisions) Order[^c-f41242a1981104f38f3538201f1d31ba]
 
 With effect from 29th July 2013, Article 5 of the Child Maintenance (2008 Act) (Commencement No. 10 and Transitional Provisions) Order (Northern Ireland) 2012[^f00007] is omitted.
 
-## 6. Transitional provision when making the maintenance calculation[^key-776242b38db5eed7da351270d4e65c48]
+## 6. Transitional provision when making the maintenance calculation[^c-776242b38db5eed7da351270d4e65c48]
 
 For the period beginning on and including 29th July 2013 and ending on the date on which the new calculation rules come into operation for all purposes the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012[^f00008] shall read as if—
 
@@ -242,7 +242,7 @@ The following provisions of the Child Maintenance Act (Northern Ireland) 2008 ha
 
 [^f00001]: Footnote: [2008 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2008/10)
 
-[^key-d8464e741827091d0dea0bc4e34fbf7c]: Commencement: Art. 1 in operation at made date
+[^c-d8464e741827091d0dea0bc4e34fbf7c]: Commencement: Art. 1 in operation at made date
 
 [^f00002]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
@@ -250,28 +250,28 @@ The following provisions of the Child Maintenance Act (Northern Ireland) 2008 ha
 
 [^f00004]: Footnote: The definition of “maintenance calculation” is substituted by paragraph 12(e) of Schedule 3 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and the term “non-resident parent” is substituted by paragraph 11 of that Schedule
 
-[^key-020304fcf268501c575cb571165aaa30]: Commencement: Art. 2 in operation at made date
+[^c-020304fcf268501c575cb571165aaa30]: Commencement: Art. 2 in operation at made date
 
 [^f00005]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-2364ab0a9c5041126e75d0af4899ac30]: Commencement: Art. 3 in operation at made date
+[^c-2364ab0a9c5041126e75d0af4899ac30]: Commencement: Art. 3 in operation at made date
 
-[^key-d13a74d7eb958531475c1c0b7ed6751f]: Modification: [Art. 3(1)](https://www.legislation.gov.uk/nisr/2013/201/article/3/1) modified (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(a)](https://www.legislation.gov.uk/nisr/2014/194/article/5/a)
+[^c-d13a74d7eb958531475c1c0b7ed6751f]: Modification: [Art. 3(1)](https://www.legislation.gov.uk/nisr/2013/201/article/3/1) modified (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(a)](https://www.legislation.gov.uk/nisr/2014/194/article/5/a)
 
 [^f00006]: Footnote: Article 7 was amended by Article 12(1) of the Child Support (Northern Ireland) Order 1995 ([S.I. 1995 No. 2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)), Schedule 7 to the Social Security (Northern Ireland) Order 1998 ([S.I. 1998 No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), and is amended by sections 1(2) and 2 of, and paragraphs 11 and 13 of Schedule 3 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and was amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-ab79742e970911125985ecb74705bcba]: Modification: [Art. 3(3)](https://www.legislation.gov.uk/nisr/2013/201/article/3/3)[(4)](https://www.legislation.gov.uk/nisr/2013/201/article/3/4) excluded (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(b)](https://www.legislation.gov.uk/nisr/2014/194/article/5/b)
+[^c-ab79742e970911125985ecb74705bcba]: Modification: [Art. 3(3)](https://www.legislation.gov.uk/nisr/2013/201/article/3/3)[(4)](https://www.legislation.gov.uk/nisr/2013/201/article/3/4) excluded (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(b)](https://www.legislation.gov.uk/nisr/2014/194/article/5/b)
 
-[^key-57be39e206484e098ca08c14217a14c7]: Modification: [Art. 3(7)](https://www.legislation.gov.uk/nisr/2013/201/article/3/7) excluded (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(b)](https://www.legislation.gov.uk/nisr/2014/194/article/5/b)
+[^c-57be39e206484e098ca08c14217a14c7]: Modification: [Art. 3(7)](https://www.legislation.gov.uk/nisr/2013/201/article/3/7) excluded (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(b)](https://www.legislation.gov.uk/nisr/2014/194/article/5/b)
 
-[^key-cb5c74681fbb6d5841fbb1523b464e43]: Commencement: Art. 4 in operation at made date
+[^c-cb5c74681fbb6d5841fbb1523b464e43]: Commencement: Art. 4 in operation at made date
 
-[^key-9b18dc5210b5374dde698581de70355c]: Modification: [Art. 4](https://www.legislation.gov.uk/nisr/2013/201/article/4) excluded (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(b)](https://www.legislation.gov.uk/nisr/2014/194/article/5/b)
+[^c-9b18dc5210b5374dde698581de70355c]: Modification: [Art. 4](https://www.legislation.gov.uk/nisr/2013/201/article/4) excluded (30.6.2014) by [The Child Maintenance (2008 Act) (Commencement No. 14 and Transitional Provisions) Order (Northern Ireland) 2014 (S.R. 2014/194)](https://www.legislation.gov.uk/nisr/2014/194), [art. 5(b)](https://www.legislation.gov.uk/nisr/2014/194/article/5/b)
 
-[^key-f41242a1981104f38f3538201f1d31ba]: Commencement: Art. 5 in operation at made date
+[^c-f41242a1981104f38f3538201f1d31ba]: Commencement: Art. 5 in operation at made date
 
 [^f00007]: Footnote: [S.R. 2012 No. 440 (C. 45)](https://www.legislation.gov.uk/nisr/2012/440)
 
-[^key-776242b38db5eed7da351270d4e65c48]: Commencement: Art. 6 in operation at made date
+[^c-776242b38db5eed7da351270d4e65c48]: Commencement: Art. 6 in operation at made date
 
 [^f00008]: Footnote: [S.R. 2012 No. 427](https://www.legislation.gov.uk/nisr/2012/427)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) In subsection (1)—
 
-- (a) “**the unguaranteed element**” means the amount by which the relevant sum exceeds the earner’s guaranteed minimum on the day after his cessation date or, in the case of a widow's, widower’s or surviving civil partner's[^key-5d3deafd1ef025240db683044c8a59ff] pension, one half of that minimum; and
+- (a) “**the unguaranteed element**” means the amount by which the relevant sum exceeds the earner’s guaranteed minimum on the day after his cessation date or, in the case of a widow's, widower’s or surviving civil partner's[^c-5d3deafd1ef025240db683044c8a59ff] pension, one half of that minimum; and
 - (b) “**the assumed later unguaranteed element**” means the amount by which the relevant sum would exceed the earner’s guaranteed minimum (or, in the case of a widow's, widower’s or surviving civil partner's pension, one half of that minimum) on the assumptions mentioned in subsection (3).
 
 (3) The assumptions mentioned in subsection (2) are—
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d3deafd1ef025240db683044c8a59ff]: Textual amendment: Words in s. 86(2)(a)(b) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005 (S.R. 2005/433)](https://www.legislation.gov.uk/nisr/2005/433), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/21)
+[^c-5d3deafd1ef025240db683044c8a59ff]: Textual amendment: Words in s. 86(2)(a)(b) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005 (S.R. 2005/433)](https://www.legislation.gov.uk/nisr/2005/433), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/21)

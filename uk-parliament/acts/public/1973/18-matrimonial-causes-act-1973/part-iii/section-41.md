@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Restrictions on decrees for dissolution, annulment or separation affecting children.[^key-3119ce2675fab3058e7bc4db541d0a65]
+## 41. Restrictions on decrees for dissolution, annulment or separation affecting children.[^c-3119ce2675fab3058e7bc4db541d0a65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3119ce2675fab3058e7bc4db541d0a65]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1973/18/section/41) repealed (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 17(1)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/17/1/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), [arts. 5](https://www.legislation.gov.uk/uksi/2014/1042/article/5), [11](https://www.legislation.gov.uk/uksi/2014/1042/article/11))
+[^c-3119ce2675fab3058e7bc4db541d0a65]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1973/18/section/41) repealed (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 17(1)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/17/1/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), [arts. 5](https://www.legislation.gov.uk/uksi/2014/1042/article/5), [11](https://www.legislation.gov.uk/uksi/2014/1042/article/11))

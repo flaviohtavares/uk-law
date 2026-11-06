@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Restriction on days of supply of fireworks[^key-b51203e0a1070ccbec4aecdca7d2fa9a]
+## 22. Restriction on days of supply of fireworks[^c-b51203e0a1070ccbec4aecdca7d2fa9a]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ but does not include supplying them otherwise than in the course of a business.
 
 ## Annotations
 
-[^key-b51203e0a1070ccbec4aecdca7d2fa9a]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-b51203e0a1070ccbec4aecdca7d2fa9a]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

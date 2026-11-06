@@ -64,7 +64,7 @@ HAS ADOPTED THIS REGULATION:
 
 However, in respect of holdings of not more than 10 animals, this measure shall apply only if more than two animals are not fully identified in accordance with the provisions of Regulation (EC) No 820/97.
 
-**Article 3.** If a keeper does not pay the charge referred to in Article 9 of Regulation (EC) No 820/97, the appropriate Minister[^key-405929f59ce65e857033f5fbb27d3ca6] may withhold or refuse the issue of passports to that keeper. In cases of persistent failure by a keeper to pay that charge, the appropriate Minister may also restrict the movement of animals to and from the holding of that keeper in accordance with Article 21 of that Regulation.
+**Article 3.** If a keeper does not pay the charge referred to in Article 9 of Regulation (EC) No 820/97, the appropriate Minister[^c-405929f59ce65e857033f5fbb27d3ca6] may withhold or refuse the issue of passports to that keeper. In cases of persistent failure by a keeper to pay that charge, the appropriate Minister may also restrict the movement of animals to and from the holding of that keeper in accordance with Article 21 of that Regulation.
 
 **Article 4.** 1. If a keeper fails to report to the competent authority movement to and from his holding in accordance with Article 7(1), second indent, of Regulation (EC) No 820/97, the competent authority shall restrict the movement of animals to and from that holding.
 
@@ -74,7 +74,7 @@ However, in respect of holdings of not more than 10 animals, this measure shall 
 
 It shall apply from 1 March 1998.
 
-[^key-21459c819da10cc7f192b2d07685b50e]....
+[^c-21459c819da10cc7f192b2d07685b50e]....
 
 ## Annotations
 
@@ -82,6 +82,6 @@ It shall apply from 1 March 1998.
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 1053/2010 of 18 November 2010 amending Regulation (EC) No 494/98 as regards administrative sanctions in cases of failure to prove the identification of an animal (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2010/1053).
 
-[^key-405929f59ce65e857033f5fbb27d3ca6]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/1998/494/article/3) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-405929f59ce65e857033f5fbb27d3ca6]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/1998/494/article/3) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21459c819da10cc7f192b2d07685b50e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/1998/494/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21459c819da10cc7f192b2d07685b50e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/1998/494/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Other discretionary charitable relief[^key-07cfa7a9bafaa655bc95f52177e4df50]
+## 45. Other discretionary charitable relief[^c-07cfa7a9bafaa655bc95f52177e4df50]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07cfa7a9bafaa655bc95f52177e4df50]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/2010/948/regulation/45) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(9)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/9) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-07cfa7a9bafaa655bc95f52177e4df50]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/2010/948/regulation/45) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(9)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/9) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

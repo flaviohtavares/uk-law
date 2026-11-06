@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Permits: requirement for a permit[^key-85ae62ac286904deed83ab4be3bdd7c4]
+## 9. Permits: requirement for a permit[^c-85ae62ac286904deed83ab4be3bdd7c4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85ae62ac286904deed83ab4be3bdd7c4]: Commencement: Reg. 9 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-85ae62ac286904deed83ab4be3bdd7c4]: Commencement: Reg. 9 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

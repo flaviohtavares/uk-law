@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Defence[^key-057d6e9b7e89a25d54392fbb28a851e2]
+## 22. Defence[^c-057d6e9b7e89a25d54392fbb28a851e2]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-057d6e9b7e89a25d54392fbb28a851e2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/247/regulation/22) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-057d6e9b7e89a25d54392fbb28a851e2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/247/regulation/22) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

@@ -47,11 +47,11 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-171d6086332dde4fcaa5e96b393fbfe5]
+### 1. Citation and commencement[^c-171d6086332dde4fcaa5e96b393fbfe5]
 
 These Regulations may be cited as the Electricity at Work Regulations 1989 and shall come into force on 1st April 1990.
 
-### 2. Interpretation[^key-f1ecb143f6eadc984b83011830c8ab92]
+### 2. Interpretation[^c-f1ecb143f6eadc984b83011830c8ab92]
 
 (1) In these Regulations, unless the context otherwise requires–
 
@@ -60,9 +60,9 @@ These Regulations may be cited as the Electricity at Work Regulations 1989 and s
 - “conductor” means a conductor of electrical energy;
 - “danger” means risk of injury;
 - “electrical equipment” includes anything used, intended to be used or installed for use, to generate, provide, transmit, transform, rectify, convert, conduct, distribute, control, store, measure or use electrical energy;
-- [^key-a9c4545559cf957e63dac011f90f8ec7]...
+- [^c-a9c4545559cf957e63dac011f90f8ec7]...
 - “injury” means death or personal injury from electric shock, electric burn, electrical explosion or arcing, or from fire or explosion initiated by electrical energy, where any such death or injury is associated with the generation, provision, transmission, transformation, rectification, conversion, conduction, distribution, control, storage, measurement or use of electrical energy;
-- [^key-a9c4545559cf957e63dac011f90f8ec7]...
+- [^c-a9c4545559cf957e63dac011f90f8ec7]...
 - “system” means an electrical system in which all the electrical equipment is, or may be, electrically connected to a common source of electrical energy, and includes such source and such equipment.
 
 (2) Unless the context otherwise requires, any reference in these Regulations to–
@@ -70,12 +70,12 @@ These Regulations may be cited as the Electricity at Work Regulations 1989 and s
 - (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered;
 - (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which the reference appears.
 
-### 3. Persons on whom duties are imposed by these Regulations[^key-9d22c90dd5c4a57e3b12378f78009067]
+### 3. Persons on whom duties are imposed by these Regulations[^c-9d22c90dd5c4a57e3b12378f78009067]
 
 (1) Except where otherwise expressly provided in these Regulations, it shall be the duty of every–
 
 - (a) employer and self-employed person to comply with the provisions of these Regulations in so far as they relate to matters which are within his control; and
-- (b)[^key-4897830ff935e607918a4fb0dff9168b]
+- (b)[^c-4897830ff935e607918a4fb0dff9168b]
   - (i) manager, in relation to a mine within the meaning of the Mines and Quarries Act 1954, and
   - (ii) operator, in relation to a quarry within the meaning of regulation 3 of the Quarries Regulations 1999, to ensure that all requirements or prohibitions imposed by or under these Regulations are complied with in so far as they relate to the mine of which he is the manager or quarry of which he is the operator and to matters which are within his control.
 
@@ -86,7 +86,7 @@ These Regulations may be cited as the Electricity at Work Regulations 1989 and s
 
 ## PART II — GENERAL
 
-### 4. Systems, work activities and protective equipment[^key-536a584698218719c1b45afedac79995]
+### 4. Systems, work activities and protective equipment[^c-536a584698218719c1b45afedac79995]
 
 (1) All systems shall at all times be of such construction as to prevent, so far as is reasonably practicable, danger.
 
@@ -96,11 +96,11 @@ These Regulations may be cited as the Electricity at Work Regulations 1989 and s
 
 (4) Any equipment provided under these Regulations for the purpose of protecting persons at work on or near electrical equipment shall be suitable for the use for which it is provided, be maintained in a condition suitable for that use, and be properly used.
 
-### 5. Strength and capability of electrical equipment[^key-02cf56bc9276e6a37d6be72e5a257553]
+### 5. Strength and capability of electrical equipment[^c-02cf56bc9276e6a37d6be72e5a257553]
 
 No electrical equipment shall be put into use where its strength and capability may be exceeded in such a way as may give rise to danger.
 
-### 6. Adverse or hazardous environments[^key-9cb0e371adbdf182deeb4a791e122347]
+### 6. Adverse or hazardous environments[^c-9cb0e371adbdf182deeb4a791e122347]
 
 Electrical equipment which may reasonably foreseeably be exposed to–
 
@@ -111,30 +111,30 @@ Electrical equipment which may reasonably foreseeably be exposed to–
 
 shall be of such construction or as necessary protected as to prevent, so far as is reasonably practicable, danger arising from such exposure.
 
-### 7. Insulation, protection and placing of conductors[^key-804a9aab700b149d2d87fcd8b90cccf2]
+### 7. Insulation, protection and placing of conductors[^c-804a9aab700b149d2d87fcd8b90cccf2]
 
 All conductors in a system which may give rise to danger shall either–
 
 - (a) be suitably covered with insulating material and as necessary protected so as to prevent, so far as is reasonably practicable, danger; or
 - (b) have such precautions taken in respect of them (including, where appropriate, their being suitably placed) as will prevent, so far as is reasonably practicable, danger.
 
-### 8. Earthing or other suitable precautions[^key-51d67b18454e9c6bc847a9e4221dbbbe]
+### 8. Earthing or other suitable precautions[^c-51d67b18454e9c6bc847a9e4221dbbbe]
 
 Precautions shall be taken, either by earthing or by other suitable means, to prevent danger arising when any conductor (other than a circuit conductor) which may reasonably foreseeably become charged as a result of either the use of a system, or a fault in a system, becomes so charged; and, for the purposes of ensuring compliance with this regulation, a conductor shall be regarded as earthed when it is connected to the general mass of earth by conductors of sufficient strength and current-carrying capability to discharge electrical energy to earth.
 
-### 9. Integrity of referenced conductors[^key-390176b84bd6bce0423cfebb863cf8b6]
+### 9. Integrity of referenced conductors[^c-390176b84bd6bce0423cfebb863cf8b6]
 
 If a circuit conductor is connected to earth or to any other reference point, nothing which might reasonably be expected to give rise to danger by breaking the electrical continuity or introducing high impedance shall be placed in that conductor unless suitable precautions are taken to prevent that danger.
 
-### 10. Connections[^key-3c701245514146793ca47e19a10fa436]
+### 10. Connections[^c-3c701245514146793ca47e19a10fa436]
 
 Where necessary to prevent danger, every joint and connection in a system shall be mechanically and electrically suitable for use.
 
-### 11. Means for protecting from excess of current[^key-46e08e39427c084e96e6ca878c622326]
+### 11. Means for protecting from excess of current[^c-46e08e39427c084e96e6ca878c622326]
 
 Efficient means, suitably located, shall be provided for protecting from excess of current every part of a system as may be necessary to prevent danger.
 
-### 12. Means for cutting off the supply and for isolation[^key-b026c90b2901fe609236f8d5812de590]
+### 12. Means for cutting off the supply and for isolation[^c-b026c90b2901fe609236f8d5812de590]
 
 (1) Subject to paragraph (3), where necessary to prevent danger, suitable means (including, where appropriate, methods of identifying circuits) shall be available for–
 
@@ -145,11 +145,11 @@ Efficient means, suitably located, shall be provided for protecting from excess 
 
 (3) Paragraph (1) shall not apply to electrical equipment which is itself a source of electrical energy but, in such a case as is necessary, precautions shall be taken to prevent, so far as is reasonably practicable, danger.
 
-### 13. Precautions for work on equipment made dead[^key-f8a02209d2f714771787a94a52d09b8e]
+### 13. Precautions for work on equipment made dead[^c-f8a02209d2f714771787a94a52d09b8e]
 
 Adequate precautions shall be taken to prevent electrical equipment, which has been made dead in order to prevent danger while work is carried out on or near that equipment, from becoming electrically charged during that work if danger may thereby arise.
 
-### 14. Work on or near live conductors[^key-4b8ba38a4f1dd49c910e97139e2cfd0e]
+### 14. Work on or near live conductors[^c-4b8ba38a4f1dd49c910e97139e2cfd0e]
 
 No person shall be engaged in any work activity on or so near any live conductor (other than one suitably covered with insulating material so as to prevent danger) that danger may arise unless–
 
@@ -157,71 +157,71 @@ No person shall be engaged in any work activity on or so near any live conductor
 - (b) it is reasonable in all the circumstances for him to be at work on or near it while it is live; and
 - (c) suitable precautions (including where necessary the provision of suitable protective equipment) are taken to prevent injury.
 
-### 15. Working space, access and lighting[^key-448ef036b15bd401675da0d88336496a]
+### 15. Working space, access and lighting[^c-448ef036b15bd401675da0d88336496a]
 
 For the purposes of enabling injury to be prevented, adequate working space, adequate means of access, and adequate lighting shall be provided at all electrical equipment on which or near which work is being done in circumstances which may give rise to danger.
 
-### 16. Persons to be competent to prevent danger and injury[^key-ab25758f17d426974e8bd8d611c4bf7a]
+### 16. Persons to be competent to prevent danger and injury[^c-ab25758f17d426974e8bd8d611c4bf7a]
 
 No person shall be engaged in any work activity where technical knowledge or experience is necessary to prevent danger or, where appropriate, injury, unless he possesses such knowledge or experience, or is under such degree of supervision as may be appropriate having regard to the nature of the work.
 
 ## PART III — REGULATIONS APPLYING TO MINES ONLY
 
-### 17. Provisions applying to mines only[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 17. Provisions applying to mines only[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Introduction of electrical equipment[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 18. Introduction of electrical equipment[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Restriction of equipment in certain zones below ground[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 19. Restriction of equipment in certain zones below ground[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Cutting off electricity or making safe where firedamp is found either below ground or at the surface[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 20. Cutting off electricity or making safe where firedamp is found either below ground or at the surface[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Approval of certain equipment for use in safety-lamp mines[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 21. Approval of certain equipment for use in safety-lamp mines[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Means of cutting off electricity to circuits below ground[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 22. Means of cutting off electricity to circuits below ground[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Oil-filled equipment[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 23. Oil-filled equipment[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Records and information[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 24. Records and information[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Electric shock notices[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 25. Electric shock notices[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Introduction of battery-powered locomotives and vehicles into safety-lamp mines[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 26. Introduction of battery-powered locomotives and vehicles into safety-lamp mines[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Storage, charging and transfer of electrical storage batteries[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 27. Storage, charging and transfer of electrical storage batteries[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Disapplication of section 157 of the Mines and Quarries Act 1954[^key-8457e0e1611a8ca8ac0cb917c95f618d]
+### 28. Disapplication of section 157 of the Mines and Quarries Act 1954[^c-8457e0e1611a8ca8ac0cb917c95f618d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — MISCELLANEOUS AND GENERAL
 
-### 29. Defence[^key-f080e5f72b9a6fc89c4e27888a8507db]
+### 29. Defence[^c-f080e5f72b9a6fc89c4e27888a8507db]
 
 In any proceedings for an offence consisting of a contravention of regulations 4(4), 5, 8, 9, 10, 11, 12, 13, 14, 15, 16 or 25, it shall be a defence for any person to prove that he took all reasonable steps and exercised all due diligence to avoid the commission of that offence.
 
-### 30. Exemption certificates[^key-faa655c415d59f2b5eec60134517e5c9]
+### 30. Exemption certificates[^c-faa655c415d59f2b5eec60134517e5c9]
 
 (1) Subject to paragraph (2), the Health and Safety Executive may, by a certificate in writing, exempt–
 
@@ -241,21 +241,21 @@ or any class of the above, from any requirement or prohibition imposed by these 
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-### 31. Application[^key-abb45232cd2e4be1eb47886097c25623][^key-61f89d46796c177c0aa5adf509a34130]
+### 31. Application[^c-abb45232cd2e4be1eb47886097c25623][^c-61f89d46796c177c0aa5adf509a34130]
 
 These Regulations shall apply—
 
 - (a) in Great Britain; and
 - (b) outside Great Britain as sections 1 to 59 and 80 to 82 of the Health and Safety at Work etc. Act 1974 apply by virtue of the provisions of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 1995.
 
-### 32. Disapplication of duties[^key-9699deb43fa78c7001307fb856e36082]
+### 32. Disapplication of duties[^c-9699deb43fa78c7001307fb856e36082]
 
 The duties imposed by these Regulations shall not extend to–
 
 - (a) the master or crew of a sea-going ship or to the employer of such persons, in relation to the normal ship-board activities of a ship’s crew under the direction of the master; or
 - (b) any person, in relation to any aircraft or hovercraft which is moving under its own power.
 
-### 33. Revocations and modifications[^key-83f96bb44446e25ba307eba3f689ae03]
+### 33. Revocations and modifications[^c-83f96bb44446e25ba307eba3f689ae03]
 
 (1) The instruments specified in column 1 of Part I of Schedule 2 are revoked to the extent specified in the corresponding entry in column 3 of that Part.
 
@@ -273,27 +273,27 @@ Department of Employment
 
 7th April 1989
 
-## SCHEDULE 1 — PROVISIONS APPLYING TO MINES ONLY AND HAVING EFFECT IN PARTICULAR IN RELATION TO THE USE BELOW GROUND IN COAL MINES OF FILM LIGHTING CIRCUITS[^key-fd9ca8d93e27027a5d014e34a791cb14]
+## SCHEDULE 1 — PROVISIONS APPLYING TO MINES ONLY AND HAVING EFFECT IN PARTICULAR IN RELATION TO THE USE BELOW GROUND IN COAL MINES OF FILM LIGHTING CIRCUITS[^c-fd9ca8d93e27027a5d014e34a791cb14]
 
 **No longer in force.**
 
 Regulation 17
 
-**1.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fd9ca8d93e27027a5d014e34a791cb14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — REVOCATIONS AND MODIFICATIONS
 
 Regulation 33
 
-### PART I — revocations[^key-9bebe3a1c1713704e483bbe85141200e]
+### PART I — revocations[^c-9bebe3a1c1713704e483bbe85141200e]
 
 <table>
 <thead>
@@ -385,19 +385,19 @@ Regulation 33
 
 ### PART II — modifications
 
-**1.**[^key-cb925a4dfaf33a61cc16f096e8ca2e44] The Mines and Quarries Act 1954 shall be modified as follows–
+**1.**[^c-cb925a4dfaf33a61cc16f096e8ca2e44] The Mines and Quarries Act 1954 shall be modified as follows–
 
 - (a) in section 64(2) (which relates to safety-lamps) after the word “one” insert “conforming with the provisions of regulation 19(2)(a) to (d) of the Electricity at Work Regulations 1989 or”;
 - (b) in section 182(1) (which defines “permitted lights”) the words “or health and safety regulations” shall be substituted for the words “or Regulations 18 and 18A of the Coal and Other Mines (Safety-Lamps and Lighting) Regulations 1956 as substituted and inserted respectively by the Coal and Other Mines (Safety-Lamps and Lighting) (Amendment) Regulations 1983”.
 
-**2.**[^key-478ced5c53d3d8a2a01a8c11a2be92fa] Regulation 4 of the Coal and Other Mines (Fire and Rescue) Regulations 1956[^f00011] (which relates to the provision of dust or sand in relation to electric motors) shall be modified by substituting the words “which is not electrical apparatus that is designed to be moved while working” for the words “which is not portable apparatus for the purposes of the Coal and Other Mines (Electricity) Regulations 1956”.
+**2.**[^c-478ced5c53d3d8a2a01a8c11a2be92fa] Regulation 4 of the Coal and Other Mines (Fire and Rescue) Regulations 1956[^f00011] (which relates to the provision of dust or sand in relation to electric motors) shall be modified by substituting the words “which is not electrical apparatus that is designed to be moved while working” for the words “which is not portable apparatus for the purposes of the Coal and Other Mines (Electricity) Regulations 1956”.
 
-**3.**[^key-d3987cf8e7b3ffdd8c85adfe733bb88f] The Shipbuilding and Ship-repairing Regulations 1960[^f00012] shall be modified as follows–
+**3.**[^c-d3987cf8e7b3ffdd8c85adfe733bb88f] The Shipbuilding and Ship-repairing Regulations 1960[^f00012] shall be modified as follows–
 
 - (a) in regulation 51(3)(c) (which requires the provision of lamps and torches in confined spaces in vessels) the words “of an appropriate type” shall be substituted for the words “of a safety type approved for the purpose of this Regulation”;
 - (b) in paragraphs (1) and (3) of regulation 59 (which impose restrictions with respect to the application etc. of naked lights, fires, lamps and heated rivets in oil-carrying vessels), the words “a lamp of an appropriate type” shall be substituted for the words “a safety lamp of a type approved for the purpose of this Regulation” where they respectively appear.
 
-**4.**[^key-942c0e2584945a82c4c293eec3325080] Section 1(4) of the Mines Management Act 1971 (which relates to exceptions from statutory responsibilities that may be placed on managers' assistants) shall be modified by the substitution of the following paragraphs for paragraph (d)–
+**4.**[^c-942c0e2584945a82c4c293eec3325080] Section 1(4) of the Mines Management Act 1971 (which relates to exceptions from statutory responsibilities that may be placed on managers' assistants) shall be modified by the substitution of the following paragraphs for paragraph (d)–
 
 > - (d) responsibility for making rules under regulation 19(2)(g) of the Electricity at Work Regulations 1989; and
 > - (e) such other responsibilities as may be prescribed.
@@ -447,72 +447,72 @@ The Regulations revoke the instruments specified in Part I of Schedule 2 (*regul
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
 
-[^key-171d6086332dde4fcaa5e96b393fbfe5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-171d6086332dde4fcaa5e96b393fbfe5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-f1ecb143f6eadc984b83011830c8ab92]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/635/regulation/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-f1ecb143f6eadc984b83011830c8ab92]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/635/regulation/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-a9c4545559cf957e63dac011f90f8ec7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/635/regulation/2/1) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-a9c4545559cf957e63dac011f90f8ec7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1989/635/regulation/2/1) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-9d22c90dd5c4a57e3b12378f78009067]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/635/regulation/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-9d22c90dd5c4a57e3b12378f78009067]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/635/regulation/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-4897830ff935e607918a4fb0dff9168b]: Textual amendment: Reg. 3(1)(b) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II)
+[^c-4897830ff935e607918a4fb0dff9168b]: Textual amendment: Reg. 3(1)(b) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II)
 
-[^key-536a584698218719c1b45afedac79995]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/635/regulation/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-536a584698218719c1b45afedac79995]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/635/regulation/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-02cf56bc9276e6a37d6be72e5a257553]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/635/regulation/5) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-02cf56bc9276e6a37d6be72e5a257553]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/635/regulation/5) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-9cb0e371adbdf182deeb4a791e122347]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/635/regulation/6) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-9cb0e371adbdf182deeb4a791e122347]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/635/regulation/6) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-804a9aab700b149d2d87fcd8b90cccf2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/635/regulation/7) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-804a9aab700b149d2d87fcd8b90cccf2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/635/regulation/7) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-51d67b18454e9c6bc847a9e4221dbbbe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/635/regulation/8) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-51d67b18454e9c6bc847a9e4221dbbbe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/635/regulation/8) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-390176b84bd6bce0423cfebb863cf8b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/635/regulation/9) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-390176b84bd6bce0423cfebb863cf8b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/635/regulation/9) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-3c701245514146793ca47e19a10fa436]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/635/regulation/10) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-3c701245514146793ca47e19a10fa436]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/635/regulation/10) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-46e08e39427c084e96e6ca878c622326]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/635/regulation/11) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-46e08e39427c084e96e6ca878c622326]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/635/regulation/11) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-b026c90b2901fe609236f8d5812de590]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/635/regulation/12) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-b026c90b2901fe609236f8d5812de590]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/635/regulation/12) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-f8a02209d2f714771787a94a52d09b8e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/635/regulation/13) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-f8a02209d2f714771787a94a52d09b8e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1989/635/regulation/13) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-4b8ba38a4f1dd49c910e97139e2cfd0e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/635/regulation/14) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-4b8ba38a4f1dd49c910e97139e2cfd0e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1989/635/regulation/14) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-448ef036b15bd401675da0d88336496a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/635/regulation/15) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-448ef036b15bd401675da0d88336496a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1989/635/regulation/15) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-ab25758f17d426974e8bd8d611c4bf7a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/635/regulation/16) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-ab25758f17d426974e8bd8d611c4bf7a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1989/635/regulation/16) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-8457e0e1611a8ca8ac0cb917c95f618d]: Textual amendment: [Regs. 17-28](https://www.legislation.gov.uk/uksi/1989/635/regulation/17) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-8457e0e1611a8ca8ac0cb917c95f618d]: Textual amendment: [Regs. 17-28](https://www.legislation.gov.uk/uksi/1989/635/regulation/17) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-f080e5f72b9a6fc89c4e27888a8507db]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1989/635/regulation/29) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-f080e5f72b9a6fc89c4e27888a8507db]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1989/635/regulation/29) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-faa655c415d59f2b5eec60134517e5c9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1989/635/regulation/30) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-faa655c415d59f2b5eec60134517e5c9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1989/635/regulation/30) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-abb45232cd2e4be1eb47886097c25623]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/635/regulation/31) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-abb45232cd2e4be1eb47886097c25623]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/635/regulation/31) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-61f89d46796c177c0aa5adf509a34130]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/635/regulation/31) substituted (21.2.1998) by [The Offshore Electricity and Noise Regulations 1997 (S.I. 1997/1993)](https://www.legislation.gov.uk/uksi/1997/1993), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1993/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/1993/regulation/2)
+[^c-61f89d46796c177c0aa5adf509a34130]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/1989/635/regulation/31) substituted (21.2.1998) by [The Offshore Electricity and Noise Regulations 1997 (S.I. 1997/1993)](https://www.legislation.gov.uk/uksi/1997/1993), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1993/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/1993/regulation/2)
 
-[^key-9699deb43fa78c7001307fb856e36082]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1989/635/regulation/32) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-9699deb43fa78c7001307fb856e36082]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1989/635/regulation/32) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-83f96bb44446e25ba307eba3f689ae03]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1989/635/regulation/33) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-83f96bb44446e25ba307eba3f689ae03]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1989/635/regulation/33) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
 [^f00009]: Footnote: [1969 c. 10](https://www.legislation.gov.uk/ukpga/1969/10).
 
 [^f00010]: Footnote: [1971 c. 20](https://www.legislation.gov.uk/ukpga/1971/20).
 
-[^key-fd9ca8d93e27027a5d014e34a791cb14]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/1) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-fd9ca8d93e27027a5d014e34a791cb14]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/1) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-9bebe3a1c1713704e483bbe85141200e]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/part/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-9bebe3a1c1713704e483bbe85141200e]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/part/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-cb925a4dfaf33a61cc16f096e8ca2e44]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-cb925a4dfaf33a61cc16f096e8ca2e44]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
-[^key-478ced5c53d3d8a2a01a8c11a2be92fa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-478ced5c53d3d8a2a01a8c11a2be92fa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1956/1768](https://www.legislation.gov.uk/uksi/1956/1768), to which there are amendments not relevant to these Regulations.
 
-[^key-d3987cf8e7b3ffdd8c85adfe733bb88f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-d3987cf8e7b3ffdd8c85adfe733bb88f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1960/1932](https://www.legislation.gov.uk/uksi/1960/1932); the relevant amending instrument is [S.I. 1983/644](https://www.legislation.gov.uk/uksi/1983/644).
 
-[^key-942c0e2584945a82c4c293eec3325080]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)
+[^c-942c0e2584945a82c4c293eec3325080]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1989/635/schedule/2/paragraph/4) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/635/regulation/1)

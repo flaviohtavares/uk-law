@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10.[^key-34a74516a58e769ed370a0cb00272b02]
+## 10.[^c-34a74516a58e769ed370a0cb00272b02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In Article 2—
 
 - (a) in paragraph 2—
   - (i) at point (l), for “Community”, substitute “ appropriate authority ”;
-  - (ii)[^key-c69f24b5853bb18848ea49784d9d8bb2] after point (n) insert—
+  - (ii)[^c-c69f24b5853bb18848ea49784d9d8bb2] after point (n) insert—
 
     > - (o) “**third country**” means any country or territory other than the British Islands;
     > - (p) “**prescribe**” means prescribe by regulations;
@@ -42,6 +42,6 @@ In Article 2—
 
 ## Annotations
 
-[^key-34a74516a58e769ed370a0cb00272b02]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-34a74516a58e769ed370a0cb00272b02]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c69f24b5853bb18848ea49784d9d8bb2]: Textual amendment: Reg. 10(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/3)
+[^c-c69f24b5853bb18848ea49784d9d8bb2]: Textual amendment: Reg. 10(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/3)

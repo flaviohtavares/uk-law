@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Scrutiny: user focus[^key-432884efd6e782b534893052faa28f47]
+## 112. Scrutiny: user focus[^c-432884efd6e782b534893052faa28f47]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-432884efd6e782b534893052faa28f47]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/8/section/112) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-432884efd6e782b534893052faa28f47]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/8/section/112) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)

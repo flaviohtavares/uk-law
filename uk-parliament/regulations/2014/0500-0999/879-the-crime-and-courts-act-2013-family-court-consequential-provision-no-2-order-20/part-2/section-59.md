@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Amendments to the Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995[^key-da679079b1039e86dfff63b6b81b89c2]
+## 59. Amendments to the Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995[^c-da679079b1039e86dfff63b6b81b89c2]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Insofar as it remains in force to the extent specified in article 6 of the Recip
 
 ## Annotations
 
-[^key-da679079b1039e86dfff63b6b81b89c2]: Commencement: Art. 59 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-da679079b1039e86dfff63b6b81b89c2]: Commencement: Art. 59 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00016]: Footnote: [S.I. 2007/2005](https://www.legislation.gov.uk/uksi/2007/2005).
 

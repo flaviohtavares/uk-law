@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Animal gatherings: Scotland[^key-b658bacd49d1b4c906eee153fe71a146]
+## 8A. Animal gatherings: Scotland[^c-b658bacd49d1b4c906eee153fe71a146]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-b658bacd49d1b4c906eee153fe71a146]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1981/22/section/8A) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 6](https://www.legislation.gov.uk/asp/2006/11/section/6), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-b658bacd49d1b4c906eee153fe71a146]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1981/22/section/8A) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 6](https://www.legislation.gov.uk/asp/2006/11/section/6), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Deferred payment agreements and loans: further provision[^key-f75822e227f74d03290800bee9d750de][^key-5a59c1b28bd78df8daa37d83f8672d39][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17]
+## 35. Deferred payment agreements and loans: further provision[^c-f75822e227f74d03290800bee9d750de][^c-5a59c1b28bd78df8daa37d83f8672d39][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 
 *Extent: E+W*
 
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f75822e227f74d03290800bee9d750de]: Commencement: S. 35 in force at 1.10.2014 for specified purposes by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2014/2473/article/2/1/k)
+[^c-f75822e227f74d03290800bee9d750de]: Commencement: S. 35 in force at 1.10.2014 for specified purposes by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2014/2473/article/2/1/k)
 
-[^key-5a59c1b28bd78df8daa37d83f8672d39]: Commencement: S. 35 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/993/article/2/i) (with transitional provisions in S.I. 2015/995)
+[^c-5a59c1b28bd78df8daa37d83f8672d39]: Commencement: S. 35 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/993/article/2/i) (with transitional provisions in S.I. 2015/995)
 
-[^key-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+[^c-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
 
-[^key-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
+[^c-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)

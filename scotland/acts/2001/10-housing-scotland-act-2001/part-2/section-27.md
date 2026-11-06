@@ -22,28 +22,28 @@ summary: ''
 
 (1) Schedule 4, which makes provision about the landlord’s obligations to repair a house let under a Scottish secure tenancy, has effect.
 
-(2) The Scottish Ministers may by regulations make provision for or in connection with[^key-da15e7ed63bd50f768746e6e44623130] entitling a tenant under a Scottish secure tenancy whose landlord is a landlord specified in the regulations to have qualifying repairs carried out to the house which is the subject of the tenancy.
+(2) The Scottish Ministers may by regulations make provision for or in connection with[^c-da15e7ed63bd50f768746e6e44623130] entitling a tenant under a Scottish secure tenancy whose landlord is a landlord specified in the regulations to have qualifying repairs carried out to the house which is the subject of the tenancy.
 
-(3) Regulations under subsection (2) may, in particular, make provision for or in connection with—[^key-ec59333c7948e452bf89c2aab95a4a13]
+(3) Regulations under subsection (2) may, in particular, make provision for or in connection with—[^c-ec59333c7948e452bf89c2aab95a4a13]
 
 - (a) the maximum amount payable in respect of any single qualifying repair,
-- (aa)[^key-a5d88de1fa44f46f8e1c105c292bf035] the period within which an inspection of the house is to take place to determine whether a qualifying repair is required,
+- (aa)[^c-a5d88de1fa44f46f8e1c105c292bf035] the period within which an inspection of the house is to take place to determine whether a qualifying repair is required,
 - (ab) the period within which a qualifying repair is to be commenced,
-- (b) the period within which a qualifying repair is to be completed, [^key-a6ff29227c99c52a439d7436824cd477]...
+- (b) the period within which a qualifying repair is to be completed, [^c-a6ff29227c99c52a439d7436824cd477]...
 - (c) the repairs which are qualifying repairs for the purposes of this section,
-- (d)[^key-48264d3c308923cd87a800d0f7c12dfc] compensation payable in relation to a failure to comply with a requirement imposed by the regulations,
+- (d)[^c-48264d3c308923cd87a800d0f7c12dfc] compensation payable in relation to a failure to comply with a requirement imposed by the regulations,
 - (e) any review or appeal in relation to a failure to comply with a requirement imposed by the regulations.
 
 ## Annotations
 
 [^c484751]: Commencement: S. 27 wholly in force at 30.9.2002, see s. 113(1)(2) and [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2](https://www.legislation.gov.uk/ssi/2002/321/article/2) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))
 
-[^key-da15e7ed63bd50f768746e6e44623130]: Textual amendment: Words in s. 27(2) substituted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
+[^c-da15e7ed63bd50f768746e6e44623130]: Textual amendment: Words in s. 27(2) substituted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
 
-[^key-ec59333c7948e452bf89c2aab95a4a13]: Textual amendment: Words in s. 27(3) substituted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/i), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
+[^c-ec59333c7948e452bf89c2aab95a4a13]: Textual amendment: Words in s. 27(3) substituted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/i), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
 
-[^key-a5d88de1fa44f46f8e1c105c292bf035]: Textual amendment: S. 27(3)(aa)(ab) inserted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/ii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
+[^c-a5d88de1fa44f46f8e1c105c292bf035]: Textual amendment: S. 27(3)(aa)(ab) inserted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/ii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
 
-[^key-a6ff29227c99c52a439d7436824cd477]: Textual amendment: Word in s. 27(3) repealed (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(iii)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/iii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
+[^c-a6ff29227c99c52a439d7436824cd477]: Textual amendment: Word in s. 27(3) repealed (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(iii)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/iii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
 
-[^key-48264d3c308923cd87a800d0f7c12dfc]: Textual amendment: S. 27(3)(d)(e) inserted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(iv)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/iv), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
+[^c-48264d3c308923cd87a800d0f7c12dfc]: Textual amendment: S. 27(3)(d)(e) inserted (6.12.2025) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 46(2)(b)(iv)](https://www.legislation.gov.uk/asp/2025/13/section/46/2/b/iv), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)

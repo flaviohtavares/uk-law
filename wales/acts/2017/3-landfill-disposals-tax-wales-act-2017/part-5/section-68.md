@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Penalties relating to non-disposal areas[^key-08a55b3d8e57218f5f2974323047ac81]
+## 68. Penalties relating to non-disposal areas[^c-08a55b3d8e57218f5f2974323047ac81]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08a55b3d8e57218f5f2974323047ac81]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2017/3/section/68) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-08a55b3d8e57218f5f2974323047ac81]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2017/3/section/68) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

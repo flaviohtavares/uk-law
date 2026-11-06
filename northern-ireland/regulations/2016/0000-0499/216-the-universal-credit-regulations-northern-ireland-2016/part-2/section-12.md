@@ -36,8 +36,8 @@ summary: ''
   - (iv) a higher national diploma, or
 - (b) any other course of study which is of a standard above advanced GNVQ or equivalent, including a course which is of a standard above a general certificate of education (advanced level), or above a Scottish national qualification (higher or advanced higher).
 
-(4) A claimant who is not a qualifying young person and is not undertaking a course described in paragraph (2)[^key-bd8123eaf07d149b7056b163c5ad527f] is nevertheless to be treated as receiving education if the claimant is undertaking a course of study or training that is not compatible with any work-related requirement imposed on the claimant by the Department.
+(4) A claimant who is not a qualifying young person and is not undertaking a course described in paragraph (2)[^c-bd8123eaf07d149b7056b163c5ad527f] is nevertheless to be treated as receiving education if the claimant is undertaking a course of study or training that is not compatible with any work-related requirement imposed on the claimant by the Department.
 
 ## Annotations
 
-[^key-bd8123eaf07d149b7056b163c5ad527f]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/nisr/2016/216/regulation/12/4) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/2)
+[^c-bd8123eaf07d149b7056b163c5ad527f]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/nisr/2016/216/regulation/12/4) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/2)

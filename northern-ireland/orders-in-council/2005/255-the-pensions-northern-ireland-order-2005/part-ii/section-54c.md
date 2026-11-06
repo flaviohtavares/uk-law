@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**54C.**[^key-82c827f76fe952419d9a2d7b3fce5992][^key-e91d281f48f69b48f14ee2142792456b] (1) This Article applies in relation to an occupational pension scheme other than—
+**54C.**[^c-82c827f76fe952419d9a2d7b3fce5992][^c-e91d281f48f69b48f14ee2142792456b] (1) This Article applies in relation to an occupational pension scheme other than—
 
 - (a) a money purchase scheme, or
 - (b) a prescribed scheme or a scheme of a prescribed description.
@@ -49,6 +49,6 @@ the series of acts or failures to act is to be regarded as an act or failure to 
 
 ## Annotations
 
-[^key-82c827f76fe952419d9a2d7b3fce5992]: Modification: [Art. 54C](https://www.legislation.gov.uk/nisi/2005/255/article/54C) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/14/4)
+[^c-82c827f76fe952419d9a2d7b3fce5992]: Modification: [Art. 54C](https://www.legislation.gov.uk/nisi/2005/255/article/54C) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [14(4)](https://www.legislation.gov.uk/nisr/2022/192/regulation/14/4)
 
-[^key-e91d281f48f69b48f14ee2142792456b]: Textual amendment: [Arts. 54C](https://www.legislation.gov.uk/nisi/2005/255/article/54C), [54D](https://www.legislation.gov.uk/nisi/2005/255/article/54D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))
+[^c-e91d281f48f69b48f14ee2142792456b]: Textual amendment: [Arts. 54C](https://www.legislation.gov.uk/nisi/2005/255/article/54C), [54D](https://www.legislation.gov.uk/nisi/2005/255/article/54D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))

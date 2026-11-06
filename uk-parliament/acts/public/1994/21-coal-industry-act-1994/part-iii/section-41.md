@@ -38,7 +38,7 @@ summary: ''
 
 (6) In this section—
 
-- “**planning authority**” means any local planning authority within the meaning of the [^c10937701]Town and Country Planning Act 1990 and any corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 *(Extent: E+W)*[^key-a7c77f2d610af99ffe112c0b93b5f6f7] *(Extent: E+W)*[^key-c5a0dc88e516bee675c3010606948f2f], *(Extent: E+W)* or any planning authority within the meaning of Part IX of the [^c10937711]Local Government (Scotland) Act 1973; and
+- “**planning authority**” means any local planning authority within the meaning of the [^c10937701]Town and Country Planning Act 1990 and any corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 *(Extent: E+W)*[^c-a7c77f2d610af99ffe112c0b93b5f6f7] *(Extent: E+W)*[^c-c5a0dc88e516bee675c3010606948f2f], *(Extent: E+W)* or any planning authority within the meaning of Part IX of the [^c10937711]Local Government (Scotland) Act 1973; and
 - “**relevant date of publication**”, in relation to a notice under this section, means whichever is the later of—
   - (a) the date of the publication of the notice in the London or Edinburgh Gazette; and
   - (b) the date of the first of the publications of that notice for the purposes of subsection (3)(c)(ii) above.
@@ -47,8 +47,8 @@ summary: ''
 
 [^c10937701]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-a7c77f2d610af99ffe112c0b93b5f6f7]: Textual amendment: Words in s. 41(6) substituted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 33](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/33)
+[^c-a7c77f2d610af99ffe112c0b93b5f6f7]: Textual amendment: Words in s. 41(6) substituted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 33](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/33)
 
-[^key-c5a0dc88e516bee675c3010606948f2f]: Textual amendment: Words in s. 41(6) inserted (E.W.) (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/19); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
+[^c-c5a0dc88e516bee675c3010606948f2f]: Textual amendment: Words in s. 41(6) inserted (E.W.) (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/19); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
 
 [^c10937711]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).

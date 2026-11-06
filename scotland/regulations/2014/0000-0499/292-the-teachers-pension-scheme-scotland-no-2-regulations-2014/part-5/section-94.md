@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Cessation of phased retirement pension[^key-eca493c1a794e903cd7490dd51bc86cd]
+## 94. Cessation of phased retirement pension[^c-eca493c1a794e903cd7490dd51bc86cd]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca493c1a794e903cd7490dd51bc86cd]: Commencement: [Reg. 94](https://www.legislation.gov.uk/ssi/2014/292/regulation/94) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-eca493c1a794e903cd7490dd51bc86cd]: Commencement: [Reg. 94](https://www.legislation.gov.uk/ssi/2014/292/regulation/94) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

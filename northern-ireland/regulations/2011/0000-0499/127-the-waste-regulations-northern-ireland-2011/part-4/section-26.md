@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Amendment of the Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995[^key-608642c9b73bb47a2e8aa9c647a28008]
+## 26. Amendment of the Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995[^c-608642c9b73bb47a2e8aa9c647a28008]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-608642c9b73bb47a2e8aa9c647a28008]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/nisr/2011/127/regulation/26) revoked (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2013/241/regulation/5)
+[^c-608642c9b73bb47a2e8aa9c647a28008]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/nisr/2011/127/regulation/26) revoked (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2013/241/regulation/5)

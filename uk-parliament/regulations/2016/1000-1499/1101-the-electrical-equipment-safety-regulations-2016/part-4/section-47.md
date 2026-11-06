@@ -28,9 +28,9 @@ summary: ''
 
 (2) Where an enforcing authority is not the Secretary of State and it takes measures under paragraph (1), it must notify the Secretary of State immediately.
 
-(3)[^key-3b5de0232232a7c28314fd4010b154b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3b5de0232232a7c28314fd4010b154b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The notice referred to in paragraph (2)[^key-9aac0d588c0f33f3ff5b54ae7bae406e] must include, where available—
+(4) The notice referred to in paragraph (2)[^c-9aac0d588c0f33f3ff5b54ae7bae406e] must include, where available—
 
 - (a) the data necessary for the identification of the electrical equipment concerned;
 - (b) the origin and the supply chain of the electrical equipment;
@@ -72,9 +72,9 @@ summary: ''
 
 [^M_E_5266fd79-e6c1-4950-a97b-6bf8bc5cfba1]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-3b5de0232232a7c28314fd4010b154b0]: Textual amendment: Reg. 47(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 27(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/27/a) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b5de0232232a7c28314fd4010b154b0]: Textual amendment: Reg. 47(3) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 27(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/27/a) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9aac0d588c0f33f3ff5b54ae7bae406e]: Textual amendment: Words in reg. 47(4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 27(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/27/b) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9aac0d588c0f33f3ff5b54ae7bae406e]: Textual amendment: Words in reg. 47(4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 23 para. 27(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/27/b) (with [Sch. 23 para. 30](https://www.legislation.gov.uk/uksi/2019/696/schedule/23/paragraph/30)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_f7df935e-8bdb-4533-8dad-66679383d1c5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 

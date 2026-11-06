@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Advisers for occupational pension schemes[^key-7a47539e658574a3de5e520e41eddbba]
+## 153. Advisers for occupational pension schemes[^c-7a47539e658574a3de5e520e41eddbba]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a47539e658574a3de5e520e41eddbba]: Commencement: Art. 153 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7a47539e658574a3de5e520e41eddbba]: Commencement: Art. 153 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

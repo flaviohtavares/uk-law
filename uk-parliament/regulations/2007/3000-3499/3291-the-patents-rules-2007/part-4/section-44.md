@@ -49,7 +49,7 @@ summary: ''
 
 (5) In relation to a request for an opinion under section 74A, the comptroller must enter each of the following matters in the register as soon as practicable after the event to which they relate—
 
-- (a) a notice that a request under section 74A(1)[^key-c0120ce4aa97486b36166bfdf59f2583]... has been received;
+- (a) a notice that a request under section 74A(1)[^c-c0120ce4aa97486b36166bfdf59f2583]... has been received;
 - (b) a notice that such a request has been refused or withdrawn;
 - (c) a notice that an opinion has been issued.
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0120ce4aa97486b36166bfdf59f2583]: Textual amendment: Words in [rule 44(5)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/44/5/a) omitted (1.10.2014) by virtue of [The Patents (Amendment) (No. 2) Rules 2014 (S.I. 2014/2401)](https://www.legislation.gov.uk/uksi/2014/2401), [rules 1](https://www.legislation.gov.uk/uksi/2014/2401/rule/1), [9](https://www.legislation.gov.uk/uksi/2014/2401/rule/9)
+[^c-c0120ce4aa97486b36166bfdf59f2583]: Textual amendment: Words in [rule 44(5)(a)](https://www.legislation.gov.uk/uksi/2007/3291/rule/44/5/a) omitted (1.10.2014) by virtue of [The Patents (Amendment) (No. 2) Rules 2014 (S.I. 2014/2401)](https://www.legislation.gov.uk/uksi/2014/2401), [rules 1](https://www.legislation.gov.uk/uksi/2014/2401/rule/1), [9](https://www.legislation.gov.uk/uksi/2014/2401/rule/9)

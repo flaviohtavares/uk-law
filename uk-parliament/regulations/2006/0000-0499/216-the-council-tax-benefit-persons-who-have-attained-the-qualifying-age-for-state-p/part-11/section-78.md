@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 78. Recording and holding information[^key-9a6d04a5029a465917735c3dca58c13e]
+## 78. Recording and holding information[^c-9a6d04a5029a465917735c3dca58c13e]
 
 A relevant authority which obtains relevant information or to whom such information is supplied—
 
@@ -23,4 +23,4 @@ A relevant authority which obtains relevant information or to whom such informat
 
 ## Annotations
 
-[^key-9a6d04a5029a465917735c3dca58c13e]: Textual amendment: Reg. 78 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [10(6)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/10/6)
+[^c-9a6d04a5029a465917735c3dca58c13e]: Textual amendment: Reg. 78 substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [10(6)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/10/6)

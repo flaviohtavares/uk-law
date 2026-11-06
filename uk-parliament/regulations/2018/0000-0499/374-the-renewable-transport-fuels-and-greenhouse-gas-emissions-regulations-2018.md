@@ -54,21 +54,21 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 ## PART 1 — PRELIMINARY MATTERS
 
-### 1. Citation and commencement[^key-2fe72a152e08cc0869a2efdbe35f2a1d]
+### 1. Citation and commencement[^c-2fe72a152e08cc0869a2efdbe35f2a1d]
 
 These Regulations may be cited as the Renewable Transport Fuels and Greenhouse Gas Emissions Regulations 2018 and come into force on 15th April 2018.
 
-### 2. Extent[^key-758f1ae14c403e8ac8ade2ceee69f567]
+### 2. Extent[^c-758f1ae14c403e8ac8ade2ceee69f567]
 
 An amendment, repeal or revocation made by these Regulations has the same extent as the Act or instrument amended, repealed or revoked.
 
 ## PART 2 — AMENDMENT OF THE ENERGY ACT 2004
 
-### 3. Introductory[^key-823aee5ac82d6c429c96b7785bf66fda]
+### 3. Introductory[^c-823aee5ac82d6c429c96b7785bf66fda]
 
 The Energy Act 2004 is amended in accordance with this Part.
 
-### 4. Amendment of section 132 of the Energy Act 2004[^key-b0104a252c9965c3b921e95d7caf3315]
+### 4. Amendment of section 132 of the Energy Act 2004[^c-b0104a252c9965c3b921e95d7caf3315]
 
 (1) Section 132 (interpretation of Chapter 5 of Part 2)[^f00009] is amended as follows.
 
@@ -108,11 +108,11 @@ The Energy Act 2004 is amended in accordance with this Part.
 
 ## PART 3 — RENEWABLE TRANSPORT FUEL AMENDMENTS
 
-### 5. Introductory[^key-bf3003d5cd77d0a4a1d1ea3a11c6619a]
+### 5. Introductory[^c-bf3003d5cd77d0a4a1d1ea3a11c6619a]
 
 The Renewable Transport Fuel Obligations Order 2007[^f00014] is amended in accordance with this Part.
 
-### 6. Insertion of article 1A[^key-a80ccef24d3acf77aa31bb39214a0f0e]
+### 6. Insertion of article 1A[^c-a80ccef24d3acf77aa31bb39214a0f0e]
 
 After article 1 (citation and commencement), insert—
 
@@ -140,7 +140,7 @@ After article 1 (citation and commencement), insert—
 
 .
 
-### 7. Amendment of article 2[^key-cab97a25f0e581683cc3b187223ea740]
+### 7. Amendment of article 2[^c-cab97a25f0e581683cc3b187223ea740]
 
 (1) Article 2 (interpretation)[^f00016] is amended as follows.
 
@@ -281,7 +281,7 @@ After article 1 (citation and commencement), insert—
 
 .
 
-### 8. Amendment of article 3[^key-c83f1114592ce7ebd5d55c4c0903653d]
+### 8. Amendment of article 3[^c-c83f1114592ce7ebd5d55c4c0903653d]
 
 (1) Article 3 (definitions of fuels and fuel products)[^f00025] is amended as follows.
 
@@ -367,7 +367,7 @@ After article 1 (citation and commencement), insert—
 
 .
 
-### 9. Amendment of article 4[^key-3f29f96f8908ad6c23b9599c5a78d483]
+### 9. Amendment of article 4[^c-3f29f96f8908ad6c23b9599c5a78d483]
 
 (1) Article 4 (the renewable transport fuel obligation)[^f00032] is amended as follows.
 
@@ -497,11 +497,11 @@ After article 1 (citation and commencement), insert—
 
 .
 
-### 10. Revocation of article 4A[^key-e1d1b18313631c979736290ce9b3e6e8]
+### 10. Revocation of article 4A[^c-e1d1b18313631c979736290ce9b3e6e8]
 
 Article 4A (duty of Secretary of State in respect of the directive)[^f00033] is revoked.
 
-### 11. Amendment of article 5[^key-a66ee75b799f6105472b9ceb53d2de75]
+### 11. Amendment of article 5[^c-a66ee75b799f6105472b9ceb53d2de75]
 
 (1) Article 5 (determinations of amounts of transport fuel)[^f00034] is amended as follows.
 
@@ -578,11 +578,11 @@ Article 4A (duty of Secretary of State in respect of the directive)[^f00033] is 
 
 .
 
-### 12. Amendment of article 9[^key-2cc81c4f95f0867d530b3880272bb289]
+### 12. Amendment of article 9[^c-2cc81c4f95f0867d530b3880272bb289]
 
 In article 9 (closures of accounts), in paragraph (2)(b) for “any” substitute “all”.
 
-### 13. Amendment of article 12[^key-532ad8dfb79314e383a0a0c4d5579d87]
+### 13. Amendment of article 12[^c-532ad8dfb79314e383a0a0c4d5579d87]
 
 (1) Article 12 (duty to require information from obligated suppliers)[^f00035] is amended as follows.
 
@@ -618,7 +618,7 @@ In article 9 (closures of accounts), in paragraph (2)(b) for “any” substitut
 
 .
 
-### 14. Amendment of article 15[^key-193c3d0a07660f918e25619fd92bc911]
+### 14. Amendment of article 15[^c-193c3d0a07660f918e25619fd92bc911]
 
 (1) Article 15 (other powers and duties conferred and imposed on the Administrator)[^f00036] is amended as follows.
 
@@ -633,7 +633,7 @@ In article 9 (closures of accounts), in paragraph (2)(b) for “any” substitut
 
 (4) In paragraph (3)(a), for “relevant hydrocarbon oil” substitute “relevant fuel”.
 
-### 15. Amendment of article 16[^key-e422e2410560f8ae7e205894eff7ecef]
+### 15. Amendment of article 16[^c-e422e2410560f8ae7e205894eff7ecef]
 
 (1) Article 16 (application for RTF certificates)[^f00037] is amended as follows.
 
@@ -661,7 +661,7 @@ In article 9 (closures of accounts), in paragraph (2)(b) for “any” substitut
 
   .
 
-### 16. Amendment of article 16A[^key-3fb59dbd179426d85cd7b5cab88c9ce3]
+### 16. Amendment of article 16A[^c-3fb59dbd179426d85cd7b5cab88c9ce3]
 
 (1) Article 16A (verifier’s assurance procedures and reports)[^f00038] is amended as follows.
 
@@ -673,7 +673,7 @@ In article 9 (closures of accounts), in paragraph (2)(b) for “any” substitut
 
 .
 
-### 17. Amendment of article 16B[^key-c2c298a9660db762a0e05ece65b97446]
+### 17. Amendment of article 16B[^c-c2c298a9660db762a0e05ece65b97446]
 
 In article 16B (annual verifier’s report on additional sustainability information)[^f00039], for paragraph (3) substitute—
 
@@ -686,7 +686,7 @@ In article 16B (annual verifier’s report on additional sustainability informat
 
 .
 
-### 18. Amendment of article 17[^key-191a6bd8cda5fe2db2325c1636284c10]
+### 18. Amendment of article 17[^c-191a6bd8cda5fe2db2325c1636284c10]
 
 (1) Article 17 (issue of RTF certificates)[^f00040] is amended as follows.
 
@@ -713,7 +713,7 @@ In article 16B (annual verifier’s report on additional sustainability informat
 - (a) in sub-paragraph (a), omit the “and” at the end;
 - (b) omit sub-paragraph (b).
 
-### 19. Insertion of article 17A[^key-1ba30ddcf257777587d1092cb136347b]
+### 19. Insertion of article 17A[^c-1ba30ddcf257777587d1092cb136347b]
 
 After article 17, insert—
 
@@ -740,7 +740,7 @@ After article 17, insert—
 
 .
 
-### 20. Substitution of article 19[^key-e574a0afed98de93e4e81b8e43647c2a]
+### 20. Substitution of article 19[^c-e574a0afed98de93e4e81b8e43647c2a]
 
 For article 19 (use of an RTF certificate in a later obligation period)[^f00041], substitute—
 
@@ -767,7 +767,7 @@ For article 19 (use of an RTF certificate in a later obligation period)[^f00041]
 
 .
 
-### 21. Amendment of article 20[^key-7ced1f2d12517256c6b4394b923d6763]
+### 21. Amendment of article 20[^c-7ced1f2d12517256c6b4394b923d6763]
 
 (1) Article 20 (revocation of an RTF certificate)[^f00042] is amended as follows.
 
@@ -821,7 +821,7 @@ For article 19 (use of an RTF certificate in a later obligation period)[^f00041]
 
 .
 
-### 22. Amendment of article 21[^key-4b136dee01dc785b16ceadef2f274cdf]
+### 22. Amendment of article 21[^c-4b136dee01dc785b16ceadef2f274cdf]
 
 (1) Article 21 (payments)[^f00043] is amended as follows.
 
@@ -894,7 +894,7 @@ For article 19 (use of an RTF certificate in a later obligation period)[^f00041]
 
 (10) In paragraph (11), for “11th January immediately following”, substitute “day immediately after the last day of”.
 
-### 23. Insertion of article 21A[^key-87e0564ae401d08e338c4b1569a5c306]
+### 23. Insertion of article 21A[^c-87e0564ae401d08e338c4b1569a5c306]
 
 After article 21, insert—
 
@@ -922,11 +922,11 @@ After article 21, insert—
 
 .
 
-### 24. Revocation and saving of article 22[^key-116a0212606261fa391a95c97986f74c]
+### 24. Revocation and saving of article 22[^c-116a0212606261fa391a95c97986f74c]
 
 Article 22 (re-cycling of buy-out payments)[^f00044] is revoked, but continues to have effect in relation to any obligation period ending on or before 14th April 2017.
 
-### 25. Amendment of article 23[^key-b655f581590bcc5f4ca7257ee7ea1f5e]
+### 25. Amendment of article 23[^c-b655f581590bcc5f4ca7257ee7ea1f5e]
 
 (1) Article 23 (civil penalties)[^f00045] is amended as follows.
 
@@ -947,11 +947,11 @@ Article 22 (re-cycling of buy-out payments)[^f00044] is revoked, but continues t
 
 .
 
-### 26. Revocation of Part 7[^key-5fc4b7c2dbc60269b484504ad414cbba]
+### 26. Revocation of Part 7[^c-5fc4b7c2dbc60269b484504ad414cbba]
 
 Part 7 (transitional provisions)[^f00046] (articles 25 to 30) is revoked.
 
-### 27. Amendment of the Schedule[^key-1e6b8379d87b0eda65c93f7b3a8c4d6a]
+### 27. Amendment of the Schedule[^c-1e6b8379d87b0eda65c93f7b3a8c4d6a]
 
 (1) The Schedule (sustainability criteria)[^f00047] is amended as follows.
 
@@ -1059,99 +1059,99 @@ Part 7 (transitional provisions)[^f00046] (articles 25 to 30) is revoked.
 
   .
 
-## PART 4 — GREENHOUSE GAS EMISSIONS AMENDMENTS[^key-545acf65453d3522e7327cf2985ec23c]
+## PART 4 — GREENHOUSE GAS EMISSIONS AMENDMENTS[^c-545acf65453d3522e7327cf2985ec23c]
 
 **No longer in force.**
 
-### 28. Introductory[^key-545acf65453d3522e7327cf2985ec23c]
+### 28. Introductory[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Amendment of regulation 2[^key-545acf65453d3522e7327cf2985ec23c]
+### 29. Amendment of regulation 2[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Amendment of regulation 3[^key-545acf65453d3522e7327cf2985ec23c]
+### 30. Amendment of regulation 3[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Amendment of regulation 4[^key-545acf65453d3522e7327cf2985ec23c]
+### 31. Amendment of regulation 4[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Amendment of regulation 5[^key-545acf65453d3522e7327cf2985ec23c]
+### 32. Amendment of regulation 5[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Amendment of regulation 6[^key-545acf65453d3522e7327cf2985ec23c]
+### 33. Amendment of regulation 6[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Insertion of Part 2A[^key-545acf65453d3522e7327cf2985ec23c]
+### 34. Insertion of Part 2A[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Amendment of regulation 7[^key-545acf65453d3522e7327cf2985ec23c]
+### 35. Amendment of regulation 7[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Amendment of regulation 8[^key-545acf65453d3522e7327cf2985ec23c]
+### 36. Amendment of regulation 8[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Amendment of regulation 9[^key-545acf65453d3522e7327cf2985ec23c]
+### 37. Amendment of regulation 9[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Amendment of regulation 10[^key-545acf65453d3522e7327cf2985ec23c]
+### 38. Amendment of regulation 10[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Amendment of regulation 12[^key-545acf65453d3522e7327cf2985ec23c]
+### 39. Amendment of regulation 12[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Substitution of regulation 13[^key-545acf65453d3522e7327cf2985ec23c]
+### 40. Substitution of regulation 13[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Amendment of regulation 14[^key-545acf65453d3522e7327cf2985ec23c]
+### 41. Amendment of regulation 14[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Amendment of regulation 15[^key-545acf65453d3522e7327cf2985ec23c]
+### 42. Amendment of regulation 15[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Insertion of regulation 15A[^key-545acf65453d3522e7327cf2985ec23c]
+### 43. Insertion of regulation 15A[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Amendment of regulation 16[^key-545acf65453d3522e7327cf2985ec23c]
+### 44. Amendment of regulation 16[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Insertion of Part 3A[^key-545acf65453d3522e7327cf2985ec23c]
+### 45. Insertion of Part 3A[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Amendment of regulation 17[^key-545acf65453d3522e7327cf2985ec23c]
+### 46. Amendment of regulation 17[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Amendment of regulation 18[^key-545acf65453d3522e7327cf2985ec23c]
+### 47. Amendment of regulation 18[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Amendment of regulation 25[^key-545acf65453d3522e7327cf2985ec23c]
+### 48. Amendment of regulation 25[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 49. Substitution of regulation 26[^key-545acf65453d3522e7327cf2985ec23c]
+### 49. Substitution of regulation 26[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Insertion of Schedule[^key-545acf65453d3522e7327cf2985ec23c]
+### 50. Insertion of Schedule[^c-545acf65453d3522e7327cf2985ec23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1197,13 +1197,13 @@ An impact assessment on the effect that these Regulations will have on the costs
 
 [^f00008]: Footnote: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
 
-[^key-2fe72a152e08cc0869a2efdbe35f2a1d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-2fe72a152e08cc0869a2efdbe35f2a1d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
-[^key-758f1ae14c403e8ac8ade2ceee69f567]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/374/regulation/2) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-758f1ae14c403e8ac8ade2ceee69f567]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/374/regulation/2) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
-[^key-823aee5ac82d6c429c96b7785bf66fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/374/regulation/3) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-823aee5ac82d6c429c96b7785bf66fda]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/374/regulation/3) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
-[^key-b0104a252c9965c3b921e95d7caf3315]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/374/regulation/4) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-b0104a252c9965c3b921e95d7caf3315]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/374/regulation/4) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00009]: Footnote: Section 132 of the 2004 Act was amended by section 78 of, and Schedule 7, to the Climate Change Act 2008 and by [S.I. 2012/2723](https://www.legislation.gov.uk/uksi/2012/2723). There are other amendments which are not relevant to these Regulations.
 
@@ -1215,15 +1215,15 @@ An impact assessment on the effect that these Regulations will have on the costs
 
 [^f00013]: Footnote: OJ L 60 2.3.2013 p.1. There are amendments to the EU instrument which are not relevant to these Regulations.
 
-[^key-bf3003d5cd77d0a4a1d1ea3a11c6619a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/374/regulation/5) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-bf3003d5cd77d0a4a1d1ea3a11c6619a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/374/regulation/5) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2007/3072](https://www.legislation.gov.uk/uksi/2007/3072).
 
-[^key-a80ccef24d3acf77aa31bb39214a0f0e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/374/regulation/6) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-a80ccef24d3acf77aa31bb39214a0f0e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/374/regulation/6) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00015]: Footnote: Section 30 of the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) was amended by section 19 of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-cab97a25f0e581683cc3b187223ea740]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/374/regulation/7) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-cab97a25f0e581683cc3b187223ea740]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/374/regulation/7) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00016]: Footnote: Article 2 was amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493), [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937), [2013/816](https://www.legislation.gov.uk/uksi/2013/816) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
 
@@ -1243,7 +1243,7 @@ An impact assessment on the effect that these Regulations will have on the costs
 
 [^f00024]: Footnote: See section 132(1) of the 2004 Act for the definition of “renewable transport fuel”.
 
-[^key-c83f1114592ce7ebd5d55c4c0903653d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/374/regulation/8) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-c83f1114592ce7ebd5d55c4c0903653d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/374/regulation/8) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00025]: Footnote: Article 3 was amended by [S.I. 2009/843](https://www.legislation.gov.uk/uksi/2009/843), [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2013/816](https://www.legislation.gov.uk/uksi/2013/816).
 
@@ -1259,73 +1259,73 @@ An impact assessment on the effect that these Regulations will have on the costs
 
 [^f00031]: Footnote: Copies of the relevant BS EN standards can be obtained from: BSI, 389 Chiswick High Road, London W4 4AL (email: cservices@bsigroup.com).
 
-[^key-3f29f96f8908ad6c23b9599c5a78d483]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/374/regulation/9) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-3f29f96f8908ad6c23b9599c5a78d483]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/374/regulation/9) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00032]: Footnote: Article 4 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937), [2013/816](https://www.legislation.gov.uk/uksi/2013/816) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
 
-[^key-e1d1b18313631c979736290ce9b3e6e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/374/regulation/10) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-e1d1b18313631c979736290ce9b3e6e8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/374/regulation/10) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00033]: Footnote: Article 4A was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-a66ee75b799f6105472b9ceb53d2de75]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/374/regulation/11) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-a66ee75b799f6105472b9ceb53d2de75]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/374/regulation/11) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00034]: Footnote: Article 5 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937), [2013/816](https://www.legislation.gov.uk/uksi/2013/816) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
 
-[^key-2cc81c4f95f0867d530b3880272bb289]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/374/regulation/12) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-2cc81c4f95f0867d530b3880272bb289]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/374/regulation/12) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
-[^key-532ad8dfb79314e383a0a0c4d5579d87]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/374/regulation/13) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-532ad8dfb79314e383a0a0c4d5579d87]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/374/regulation/13) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00035]: Footnote: Article 12 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-193c3d0a07660f918e25619fd92bc911]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/374/regulation/14) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-193c3d0a07660f918e25619fd92bc911]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/374/regulation/14) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00036]: Footnote: Article 15 was amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-e422e2410560f8ae7e205894eff7ecef]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/374/regulation/15) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-e422e2410560f8ae7e205894eff7ecef]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/374/regulation/15) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00037]: Footnote: Article 16 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2015/534](https://www.legislation.gov.uk/uksi/2015/534).
 
-[^key-3fb59dbd179426d85cd7b5cab88c9ce3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/374/regulation/16) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-3fb59dbd179426d85cd7b5cab88c9ce3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/374/regulation/16) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00038]: Footnote: Article 16A was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-c2c298a9660db762a0e05ece65b97446]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/374/regulation/17) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-c2c298a9660db762a0e05ece65b97446]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/374/regulation/17) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00039]: Footnote: Article 16B was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-191a6bd8cda5fe2db2325c1636284c10]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/374/regulation/18) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-191a6bd8cda5fe2db2325c1636284c10]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/374/regulation/18) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00040]: Footnote: Article 17 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2013/816](https://www.legislation.gov.uk/uksi/2013/816).
 
-[^key-1ba30ddcf257777587d1092cb136347b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/374/regulation/19) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-1ba30ddcf257777587d1092cb136347b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/374/regulation/19) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
-[^key-e574a0afed98de93e4e81b8e43647c2a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/374/regulation/20) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-e574a0afed98de93e4e81b8e43647c2a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/374/regulation/20) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00041]: Footnote: Article 19 was substituted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-7ced1f2d12517256c6b4394b923d6763]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/374/regulation/21) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-7ced1f2d12517256c6b4394b923d6763]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/374/regulation/21) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00042]: Footnote: Article 20 was amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and [2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-4b136dee01dc785b16ceadef2f274cdf]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/374/regulation/22) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-4b136dee01dc785b16ceadef2f274cdf]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/374/regulation/22) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00043]: Footnote: Article 21 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-87e0564ae401d08e338c4b1569a5c306]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/374/regulation/23) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-87e0564ae401d08e338c4b1569a5c306]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/374/regulation/23) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
-[^key-116a0212606261fa391a95c97986f74c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/374/regulation/24) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-116a0212606261fa391a95c97986f74c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/374/regulation/24) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00044]: Footnote: Article 22 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-b655f581590bcc5f4ca7257ee7ea1f5e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/374/regulation/25) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-b655f581590bcc5f4ca7257ee7ea1f5e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/374/regulation/25) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00045]: Footnote: Article 23 was amended by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937) and [2013/816](https://www.legislation.gov.uk/uksi/2013/816).
 
-[^key-5fc4b7c2dbc60269b484504ad414cbba]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/374/regulation/26) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-5fc4b7c2dbc60269b484504ad414cbba]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/374/regulation/26) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00046]: Footnote: Part 7 was inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
-[^key-1e6b8379d87b0eda65c93f7b3a8c4d6a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/374/regulation/27) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
+[^c-1e6b8379d87b0eda65c93f7b3a8c4d6a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/374/regulation/27) in force at 15.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/374/regulation/1)
 
 [^f00047]: Footnote: The Schedule was revoked by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and re-inserted by [S.I. 2011/2937](https://www.legislation.gov.uk/uksi/2011/2937).
 
@@ -1333,4 +1333,4 @@ An impact assessment on the effect that these Regulations will have on the costs
 
 [^f00049]: Footnote: OJ L 350 28.12.1998 p.58. The directive has been amended by Commission [Directive 2000/71/EC](https://www.legislation.gov.uk/european/directive/2000/0071) of 7 November 2000 (OJ L 287 14.11.2000 p.46); [Directive 2003/17/EC](https://www.legislation.gov.uk/european/directive/2003/0017) of the European Parliament and of the Council of 3 March 2003 (OJ L 76 22.3.2003 p.10); Regulation [(EC) No 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council of 29 September 2003 (OJ L 284 31.10.2003 p.1); [Directive 2009/30/EC](https://www.legislation.gov.uk/european/directive/2009/0030) of the European Parliament and of the Council of 23 April 2009 (OJ L 140 5.6.2009 p.88); Commission [Directive 2011/63/EU](https://www.legislation.gov.uk/european/directive/2011/0063) of 1 June 2011 (OJ L 147 2.6.2011 p.15); Commission [Directive 2014/77/EU](https://www.legislation.gov.uk/european/directive/2014/0077) of 10 June 2014 (OJ L 170 11.6.2014 p.62); and Directive (EU) 2015/1513 of the European Parliament and of the Council of 9 September 2015 (OJ L 239 15.9.2015 p.1).
 
-[^key-545acf65453d3522e7327cf2985ec23c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2018/374/part/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-545acf65453d3522e7327cf2985ec23c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2018/374/part/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

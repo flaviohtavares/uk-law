@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Applicable amounts for income support[^key-5acf032278a1d787338afc35eafdf0c6]
+## 18. Applicable amounts for income support[^c-5acf032278a1d787338afc35eafdf0c6]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5acf032278a1d787338afc35eafdf0c6]: Commencement: Art. 18 comes into force in accordance with art. 1(1)(h)
+[^c-5acf032278a1d787338afc35eafdf0c6]: Commencement: Art. 18 comes into force in accordance with art. 1(1)(h)
 
 [^f00031]: Footnote: Schedule 3 was substituted by regulation 2 of, and Schedule 1 to, [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and paragraph 18 was amended by regulation 2(3)(j) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
 

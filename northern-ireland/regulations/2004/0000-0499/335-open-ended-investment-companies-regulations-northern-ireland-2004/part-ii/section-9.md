@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Publication[^key-f84a0836be3a1b825dce896f9bb7f6c6]
+## 9. Publication[^c-f84a0836be3a1b825dce896f9bb7f6c6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Section 391 of the Act (publication) applies to the notices mentioned in regulat
 
 ## Annotations
 
-[^key-f84a0836be3a1b825dce896f9bb7f6c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/335/regulation/9) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-f84a0836be3a1b825dce896f9bb7f6c6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/335/regulation/9) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

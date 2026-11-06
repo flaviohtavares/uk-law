@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 732(2) of the Income Tax (Trading and Other Income) Act 2005[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-faacae5d9f7ce4087e0ed0da2e511453]
+## 1. Citation, commencement and interpretation[^c-faacae5d9f7ce4087e0ed0da2e511453]
 
 (1) This Order may be cited as the Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) Order 2011 and shall come into force on 18th May 2011.
 
 (2) In this Order “Skipton Fund Limited” and “Qualifying Person” have the meanings given in respectively section 731(7) and (8) of the Income Tax (Trading and Other Income) Act 2005 (treated as inserted by article 2(2)(b)).
 
-## 2. Application of sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005[^key-7dafb997e8e1d833d75e6c452cbad4e7]
+## 2. Application of sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005[^c-7dafb997e8e1d833d75e6c452cbad4e7]
 
 (1) Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005 shall have effect with the following modifications in relation to payments made pursuant to a scheme or arrangement administered by Skipton Fund Limited to a Qualifying Person.
 
@@ -71,7 +71,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
   > (7) In this section “Skipton Fund Limited” means the company limited by guarantee of that name (company number 5084964).
   >
-  > (8) In this section and sections 733 and 734 “Qualifying person” has the meaning given in the agreement entered into between the Secretary of State for Health and Skipton Fund Limited dated 24th March 2011 , as amended on 30th April 2012[^key-84041ab604f45b6bba21f584a62e0bbc].
+  > (8) In this section and sections 733 and 734 “Qualifying person” has the meaning given in the agreement entered into between the Secretary of State for Health and Skipton Fund Limited dated 24th March 2011 , as amended on 30th April 2012[^c-84041ab604f45b6bba21f584a62e0bbc].
 
   .
 
@@ -106,8 +106,8 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5). Section 732 was amended by paragraph 3 of Schedule 2 to the Crime and Security Act [2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17).
 
-[^key-faacae5d9f7ce4087e0ed0da2e511453]: Commencement: Art. 1 in force at 18.5.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1157/article/1/1)
+[^c-faacae5d9f7ce4087e0ed0da2e511453]: Commencement: Art. 1 in force at 18.5.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1157/article/1/1)
 
-[^key-7dafb997e8e1d833d75e6c452cbad4e7]: Commencement: Art. 2 in force at 18.5.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1157/article/1/1)
+[^c-7dafb997e8e1d833d75e6c452cbad4e7]: Commencement: Art. 2 in force at 18.5.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1157/article/1/1)
 
-[^key-84041ab604f45b6bba21f584a62e0bbc]: Textual amendment: Words in [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2011/1157/article/2/2/b) inserted (23.5.2012) by [The Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) (Amendment) Order 2012 (S.I. 2012/1188)](https://www.legislation.gov.uk/uksi/2012/1188), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1188/article/1), [2](https://www.legislation.gov.uk/uksi/2012/1188/article/2)
+[^c-84041ab604f45b6bba21f584a62e0bbc]: Textual amendment: Words in [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2011/1157/article/2/2/b) inserted (23.5.2012) by [The Skipton Fund Limited (Application of Sections 731, 733 and 734 of the Income Tax (Trading and Other Income) Act 2005) (Amendment) Order 2012 (S.I. 2012/1188)](https://www.legislation.gov.uk/uksi/2012/1188), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1188/article/1), [2](https://www.legislation.gov.uk/uksi/2012/1188/article/2)

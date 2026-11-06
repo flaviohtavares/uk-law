@@ -42,12 +42,12 @@ to pay any amount due from him or it by way of bingo duty.
 
 (5) Subject to paragraph (6), the following persons shall be disqualified for obtaining or holding a bingo club licence—
 
-- (a) a person under the age of 18[^key-705d38f8ccf29f8d8034409be4ec33c7];
-- (b)[^key-cae3f454545205739e2c1ddaa1b7b9d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-a838e18f7a69379393715049d1751e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-60edd9de35682193e014f125ee250ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person under the age of 18[^c-705d38f8ccf29f8d8034409be4ec33c7];
+- (b)[^c-cae3f454545205739e2c1ddaa1b7b9d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a838e18f7a69379393715049d1751e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-60edd9de35682193e014f125ee250ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4b9daf49a8b281bd10de06230c4d53a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4b9daf49a8b281bd10de06230c4d53a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A bingo club licence purporting to be held by any person—
 
@@ -60,12 +60,12 @@ is void.
 
 [^c17001281]: Textual amendment: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41)
 
-[^key-705d38f8ccf29f8d8034409be4ec33c7]: Textual amendment: Word in [art. 61(5)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/a) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(1)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/1/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-705d38f8ccf29f8d8034409be4ec33c7]: Textual amendment: Word in [art. 61(5)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/a) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(1)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/1/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-cae3f454545205739e2c1ddaa1b7b9d5]: Textual amendment: [Art. 61(5)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/b) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-cae3f454545205739e2c1ddaa1b7b9d5]: Textual amendment: [Art. 61(5)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/b) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-a838e18f7a69379393715049d1751e5b]: Textual amendment: [Art. 61(5)(c)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/c) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-a838e18f7a69379393715049d1751e5b]: Textual amendment: [Art. 61(5)(c)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/c) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-60edd9de35682193e014f125ee250ce5]: Textual amendment: [Art. 61(5)(d)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/d) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-60edd9de35682193e014f125ee250ce5]: Textual amendment: [Art. 61(5)(d)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/5/d) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-4b9daf49a8b281bd10de06230c4d53a1]: Textual amendment: [Art. 61(6)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/6) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-4b9daf49a8b281bd10de06230c4d53a1]: Textual amendment: [Art. 61(6)](https://www.legislation.gov.uk/nisi/1985/1204/article/61/6) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(b)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

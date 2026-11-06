@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Enforcement by the Commission[^key-f01de5d7fceaae974200a6b750d9dd34][^key-5956ffb0e1bb8b1409880803227e0af8]
+## 50. Enforcement by the Commission[^c-f01de5d7fceaae974200a6b750d9dd34][^c-5956ffb0e1bb8b1409880803227e0af8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f01de5d7fceaae974200a6b750d9dd34]: Commencement: S. 50 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-f01de5d7fceaae974200a6b750d9dd34]: Commencement: S. 50 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-5956ffb0e1bb8b1409880803227e0af8]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-5956ffb0e1bb8b1409880803227e0af8]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

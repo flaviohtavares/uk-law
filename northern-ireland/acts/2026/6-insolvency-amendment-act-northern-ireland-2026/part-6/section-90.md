@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Creditors not required to prove small debts: company insolvency[^key-e95da77f0b1d6859a1dc7db9922eeb91]
+## 90. Creditors not required to prove small debts: company insolvency[^c-e95da77f0b1d6859a1dc7db9922eeb91]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Schedule 5 (provision that may be included in company insolvency rules), afte
 
 ## Annotations
 
-[^key-e95da77f0b1d6859a1dc7db9922eeb91]: Commencement: S. 90 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e95da77f0b1d6859a1dc7db9922eeb91]: Commencement: S. 90 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

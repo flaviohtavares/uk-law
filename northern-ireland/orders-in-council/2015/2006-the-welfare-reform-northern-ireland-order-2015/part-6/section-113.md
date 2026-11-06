@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Time limits for legal proceedings[^key-7892543355c4104335b07990800ee750]
+## 113. Time limits for legal proceedings[^c-7892543355c4104335b07990800ee750]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In section 110 of the Administration Act (legal proceedings), in subsection (2)â
 
 ## Annotations
 
-[^key-7892543355c4104335b07990800ee750]: Commencement: [Art. 113](https://www.legislation.gov.uk/nisi/2015/2006/article/113) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/d)
+[^c-7892543355c4104335b07990800ee750]: Commencement: [Art. 113](https://www.legislation.gov.uk/nisi/2015/2006/article/113) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(d)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/d)

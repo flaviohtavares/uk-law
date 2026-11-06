@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. The support standard[^key-c4b4f824105a41c1ab3af53993dcdc27]
+## 7. The support standard[^c-c4b4f824105a41c1ab3af53993dcdc27]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4b4f824105a41c1ab3af53993dcdc27]: Commencement: Reg. 7 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-c4b4f824105a41c1ab3af53993dcdc27]: Commencement: Reg. 7 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

@@ -35,24 +35,24 @@ amending Decision 2012/757/EU concerning the technical specification for interop
 
 (Text with EEA relevance) (revoked)
 
-[^key-9293b7852d5a43da5e2b3721caddd570]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9293b7852d5a43da5e2b3721caddd570]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9293b7852d5a43da5e2b3721caddd570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9293b7852d5a43da5e2b3721caddd570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-9293b7852d5a43da5e2b3721caddd570]
+## Article 2. Entry into force[^c-9293b7852d5a43da5e2b3721caddd570]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9293b7852d5a43da5e2b3721caddd570]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9293b7852d5a43da5e2b3721caddd570]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-9293b7852d5a43da5e2b3721caddd570]
+## ANNEX[^c-9293b7852d5a43da5e2b3721caddd570]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9293b7852d5a43da5e2b3721caddd570]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-9293b7852d5a43da5e2b3721caddd570]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

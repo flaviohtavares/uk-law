@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Part 5 of the Police Act 1997: Channel Islands and Isle of Man[^key-b8bdbac27bd63ca39ec6154decc95f10]
+## 168. Part 5 of the Police Act 1997: Channel Islands and Isle of Man[^c-b8bdbac27bd63ca39ec6154decc95f10]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8bdbac27bd63ca39ec6154decc95f10]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2005/15/section/168) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/aa)
+[^c-b8bdbac27bd63ca39ec6154decc95f10]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2005/15/section/168) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/aa)

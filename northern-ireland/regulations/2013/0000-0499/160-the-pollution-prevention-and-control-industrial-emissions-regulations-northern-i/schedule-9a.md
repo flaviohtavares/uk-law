@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9A — Medium Combustion Plant[^key-8aea29ad84249a6c3b5d7b0f65d5b63a]
+## SCHEDULE 9A — Medium Combustion Plant[^c-8aea29ad84249a6c3b5d7b0f65d5b63a]
 
 *Extent: N.I.*
 
@@ -139,13 +139,13 @@ is not required to comply with the emission limit values for nitrogen oxides set
 
 (5)
 
-- (a) Where a district council is the enforcing authority and it grants a derogation under sub-paragraphs (2) or (4) it must inform the Department immediately[^key-aa41c3f5d26d3c1f2ebbf71180f40223]... .
-- (b)[^key-d8df7f6a36db9b58cb54109479846145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) Where a district council is the enforcing authority and it grants a derogation under sub-paragraphs (2) or (4) it must inform the Department immediately[^c-aa41c3f5d26d3c1f2ebbf71180f40223]... .
+- (b)[^c-d8df7f6a36db9b58cb54109479846145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8aea29ad84249a6c3b5d7b0f65d5b63a]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/nisr/2013/160/schedule/9A) inserted (20.3.2018) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/33)](https://www.legislation.gov.uk/nisr/2018/33), [regs. 1](https://www.legislation.gov.uk/nisr/2018/33/regulation/1), [6](https://www.legislation.gov.uk/nisr/2018/33/regulation/6)
+[^c-8aea29ad84249a6c3b5d7b0f65d5b63a]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/nisr/2013/160/schedule/9A) inserted (20.3.2018) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/33)](https://www.legislation.gov.uk/nisr/2018/33), [regs. 1](https://www.legislation.gov.uk/nisr/2018/33/regulation/1), [6](https://www.legislation.gov.uk/nisr/2018/33/regulation/6)
 
-[^key-aa41c3f5d26d3c1f2ebbf71180f40223]: Textual amendment: Words in [Sch. 9A para. 11(5)(a)](https://www.legislation.gov.uk/nisr/2013/160/schedule/9A/paragraph/11/5/a) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(7)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa41c3f5d26d3c1f2ebbf71180f40223]: Textual amendment: Words in [Sch. 9A para. 11(5)(a)](https://www.legislation.gov.uk/nisr/2013/160/schedule/9A/paragraph/11/5/a) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(7)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8df7f6a36db9b58cb54109479846145]: Textual amendment: [Sch. 9A para. 11(5)(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/9A/paragraph/11/5/b) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(7)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8df7f6a36db9b58cb54109479846145]: Textual amendment: [Sch. 9A para. 11(5)(b)](https://www.legislation.gov.uk/nisr/2013/160/schedule/9A/paragraph/11/5/b) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 2 para. 2(7)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/2/paragraph/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

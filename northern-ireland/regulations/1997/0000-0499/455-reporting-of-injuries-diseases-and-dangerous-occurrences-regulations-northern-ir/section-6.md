@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Reporting of gas incidents[^key-ff132b28f2e230fa2a2042f14017e9d0]
+## 6. Reporting of gas incidents[^c-ff132b28f2e230fa2a2042f14017e9d0]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ he shall within 14 days send a report of it to the Department on a form approved
 
 ## Annotations
 
-[^key-ff132b28f2e230fa2a2042f14017e9d0]: Commencement: Reg. 6 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-ff132b28f2e230fa2a2042f14017e9d0]: Commencement: Reg. 6 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1997 No. 194](https://www.legislation.gov.uk/nisr/1997/194)

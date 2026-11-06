@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 998. Meaning of “grossing up”[^key-bf29cfb9ff74d3f96c912a22944d0bfa]
+## 998. Meaning of “grossing up”[^c-bf29cfb9ff74d3f96c912a22944d0bfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ R is the percentage rate of tax by reference to which the net amount is to be gr
 
 ## Annotations
 
-[^key-bf29cfb9ff74d3f96c912a22944d0bfa]: Modification: S. 998 applied (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 19 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/3/4)
+[^c-bf29cfb9ff74d3f96c912a22944d0bfa]: Modification: S. 998 applied (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 19 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/3/4)

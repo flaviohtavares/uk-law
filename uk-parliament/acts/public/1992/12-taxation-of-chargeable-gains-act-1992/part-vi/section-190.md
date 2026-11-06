@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Tax recoverable from another group company or controlling director.[^key-c42008dae329e95a470c4862d376625e][^key-b7bf38722d51a41c7da4f50adadd9fab]
+## 190. Tax recoverable from another group company or controlling director.[^c-c42008dae329e95a470c4862d376625e][^c-b7bf38722d51a41c7da4f50adadd9fab]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,14 +29,14 @@ summary: ''
 (2) The condition referred to in subsection (1)(b) above is—
 
 - (a) that the taxpayer company is resident in the United Kingdom at the time when the gain accrued, or
-- (b)[^key-c51d72cb12fbb117c88058fcea48cff5] that the gain is chargeable to corporation tax as a result of section 2B(3) or (4).
+- (b)[^c-c51d72cb12fbb117c88058fcea48cff5] that the gain is chargeable to corporation tax as a result of section 2B(3) or (4).
 
 (3) The following persons may, by notice under this section, be required to pay the unpaid tax—
 
 - (a) if the taxpayer company was a member of a group at the time when the gain accrued—
   - (i) a company which was at that time the principal company of the group, and
   - (ii) any other company which in any part of the period of twelve months ending with that time was a member of that group and owned the asset disposed of, or any part of it, or where that asset is an interest or right in or over another asset, owned either asset or any part of either asset; and
-- (b) if the taxpayer company was not resident in the United Kingdom at the time when the gain accrued[^key-6ba74d9293305b8743c9fa14403384dc], any person who is, or during the period of twelve months ending with the time when the gain accrued was, a controlling director of the taxpayer company or of a company which has, or within that period had, control over the taxpayer company.
+- (b) if the taxpayer company was not resident in the United Kingdom at the time when the gain accrued[^c-6ba74d9293305b8743c9fa14403384dc], any person who is, or during the period of twelve months ending with the time when the gain accrued was, a controlling director of the taxpayer company or of a company which has, or within that period had, control over the taxpayer company.
 
 (4) The Board may serve a notice on a person within subsection (3) above requiring him, within 30 days of the service of the notice, to pay—
 
@@ -79,21 +79,21 @@ as if it were a notice of assessment and that amount were an amount of tax due f
 
 (13) In this section—
 
-- “[^key-d666b17d0b80246e29477893218ae2c0]**director**”, in relation to a company, has the meaning given by section 67(1) and (2) of ITEPA 2003 and includes any person falling within section 452(1) of CTA 2010;
-- “**controlling director**”, in relation to a company, means a director of the company who has control of it (construing control in accordance with sections 450 and 451 of CTA 2010[^key-d96ce1eea38d66583fac10cb8597b4d5]);
+- “[^c-d666b17d0b80246e29477893218ae2c0]**director**”, in relation to a company, has the meaning given by section 67(1) and (2) of ITEPA 2003 and includes any person falling within section 452(1) of CTA 2010;
+- “**controlling director**”, in relation to a company, means a director of the company who has control of it (construing control in accordance with sections 450 and 451 of CTA 2010[^c-d96ce1eea38d66583fac10cb8597b4d5]);
 
   “group" and “principal company" have the meaning which would be given by section 170 if in that section for references to 75 per cent. subsidiaries there were substituted references to 51 per cent. subsidiaries.
 
 ## Annotations
 
-[^key-c42008dae329e95a470c4862d376625e]: Modification: Ss. 170-192 restricted (27.7.1999) by [Commonwealth Development Corporation Act 1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/1), [4(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/4/1)
+[^c-c42008dae329e95a470c4862d376625e]: Modification: Ss. 170-192 restricted (27.7.1999) by [Commonwealth Development Corporation Act 1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/1), [4(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/4/1)
 
-[^key-b7bf38722d51a41c7da4f50adadd9fab]: Textual amendment: S. 190 substituted for ss. 190, 191 (with effect in accordance with Sch. 29 para. 9(3) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 9(1)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/9/1) (with [Sch. 29 paras. 9(4)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/9/4), [46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))
+[^c-b7bf38722d51a41c7da4f50adadd9fab]: Textual amendment: S. 190 substituted for ss. 190, 191 (with effect in accordance with Sch. 29 para. 9(3) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 9(1)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/9/1) (with [Sch. 29 paras. 9(4)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/9/4), [46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))
 
-[^key-c51d72cb12fbb117c88058fcea48cff5]: Textual amendment: S. 190(2)(b) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 69(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/69/2)
+[^c-c51d72cb12fbb117c88058fcea48cff5]: Textual amendment: S. 190(2)(b) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 69(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/69/2)
 
-[^key-6ba74d9293305b8743c9fa14403384dc]: Textual amendment: Words in s. 190(3)(b) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 69(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/69/3)
+[^c-6ba74d9293305b8743c9fa14403384dc]: Textual amendment: Words in s. 190(3)(b) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 69(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/69/3)
 
-[^key-d666b17d0b80246e29477893218ae2c0]: Textual amendment: Words in s. 190(13) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 246(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/246/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d666b17d0b80246e29477893218ae2c0]: Textual amendment: Words in s. 190(13) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 246(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/246/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d96ce1eea38d66583fac10cb8597b4d5]: Textual amendment: Words in s. 190(13) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 246(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/246/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d96ce1eea38d66583fac10cb8597b4d5]: Textual amendment: Words in s. 190(13) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 246(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/246/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

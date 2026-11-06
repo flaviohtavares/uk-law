@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Tax advisers: ineligibility orders[^M_I_00bd7e18-1415-4316-cb23-e2b9751a3f7a][^key-6e10638efa1f671526ec228ff696629a][^key-64d0ceff9e889d349516eda08856de9a]
+## 236. Tax advisers: ineligibility orders[^M_I_00bd7e18-1415-4316-cb23-e2b9751a3f7a][^c-6e10638efa1f671526ec228ff696629a][^c-64d0ceff9e889d349516eda08856de9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ For provision about the effect of a permanent ineligibility order, see in partic
 
 [^M_I_00bd7e18-1415-4316-cb23-e2b9751a3f7a]: Commencement: S. 236 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-6e10638efa1f671526ec228ff696629a]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-6e10638efa1f671526ec228ff696629a]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-64d0ceff9e889d349516eda08856de9a]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-64d0ceff9e889d349516eda08856de9a]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2026/11/section/236) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

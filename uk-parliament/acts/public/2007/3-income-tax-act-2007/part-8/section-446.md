@@ -22,12 +22,12 @@ summary: ''
 
 In this Chapter “**charity**” includes—
 
-- (a) the Trustees of the National Heritage Memorial Fund, and[^key-94d069771c05c099be1c71a70239ace5]
-- (b) the Historic Buildings and Monuments Commission for England, [^key-7d563d741c4eed3fa671f5118589c58a]...
-- (c)[^key-7d563d741c4eed3fa671f5118589c58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Trustees of the National Heritage Memorial Fund, and[^c-94d069771c05c099be1c71a70239ace5]
+- (b) the Historic Buildings and Monuments Commission for England, [^c-7d563d741c4eed3fa671f5118589c58a]...
+- (c)[^c-7d563d741c4eed3fa671f5118589c58a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94d069771c05c099be1c71a70239ace5]: Textual amendment: Word in s. 446 inserted (1.4.2012) by [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+[^c-94d069771c05c099be1c71a70239ace5]: Textual amendment: Word in s. 446 inserted (1.4.2012) by [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
 
-[^key-7d563d741c4eed3fa671f5118589c58a]: Textual amendment: S. 446(c) and preceding word omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+[^c-7d563d741c4eed3fa671f5118589c58a]: Textual amendment: S. 446(c) and preceding word omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)

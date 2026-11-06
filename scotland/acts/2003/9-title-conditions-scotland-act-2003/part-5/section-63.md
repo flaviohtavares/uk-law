@@ -37,11 +37,11 @@ a real burden making any such provision being referred to in this Act as a “ma
 - (a) the date on which such period as may be specified in the burden expires;
 - (b) the relevant date;
 - (c) the ninetieth day of any continuous period throughout which, by virtue of subsection (2) above, the burden is not exerciseable; and
-- (d) if a manager is dismissed under section 64 of this Act (in either of the cases mentioned in subsection (6) or (6A)[^key-42140c9f747dc1cfcd0d6fc49bc39bac] below), the date of dismissal.
+- (d) if a manager is dismissed under section 64 of this Act (in either of the cases mentioned in subsection (6) or (6A)[^c-42140c9f747dc1cfcd0d6fc49bc39bac] below), the date of dismissal.
 
 (5) In this section, the “relevant date”—
 
-- (a) in either of the cases[^key-536ff90e3b80bbc594be0f2c78f6dc42] so mentioned means the date thirty years after the day specified in subsection (7) below;
+- (a) in either of the cases[^c-536ff90e3b80bbc594be0f2c78f6dc42] so mentioned means the date thirty years after the day specified in subsection (7) below;
 - (b) in a case where the manager burden is imposed under a common scheme on any unit of a sheltered or retirement housing development, means the date three years after the day so specified; and
 - (c) in any other case, means the date five years after the day so specified.
 
@@ -52,7 +52,7 @@ a real burden making any such provision being referred to in this Act as a “ma
 
 to a tenant of such a person.
 
-(6A)[^key-c8d47b59d45e6c1c1a56a8ba5e96fc7e] The case is where—
+(6A)[^c-c8d47b59d45e6c1c1a56a8ba5e96fc7e] The case is where—
 
 - (a) a leasehold condition is imposed on the disposal, by virtue of section 61 of the Housing (Scotland) Act 1987 as modified by section 84A of that Act (application of right to buy in cases where landlord is lessee), of a landlord's interest in a property by—
   - (i) a person such as is mentioned in any of the sub-paragraphs of subsection (2)(a) of section 61; or
@@ -66,18 +66,18 @@ to a tenant of such a person.
 (8) Where a power conferred by a manager burden is exercisable, any person who is, by virtue of that burden, a manager may not be dismissed—
 
 - (a) under section 28(1)(d) of this Act; or
-- (b) in a case other than those[^key-525bfed5abfb700b1cfd5546ab4693c5] mentioned in subsections (6) or (6A)[^key-be9df8b9e34179bc5660ba668c3c2ea5] above, under section 64 of this Act.
+- (b) in a case other than those[^c-525bfed5abfb700b1cfd5546ab4693c5] mentioned in subsections (6) or (6A)[^c-be9df8b9e34179bc5660ba668c3c2ea5] above, under section 64 of this Act.
 
 (9) Section 17(1) of the 2000 Act (extinction on appointed day of certain rights of superior) shall not apply to manager burdens.
 
 ## Annotations
 
-[^key-42140c9f747dc1cfcd0d6fc49bc39bac]: Textual amendment: Words in [s. 63(4)(d)](https://www.legislation.gov.uk/asp/2003/9/section/63/4/d) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(a)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/a); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-42140c9f747dc1cfcd0d6fc49bc39bac]: Textual amendment: Words in [s. 63(4)(d)](https://www.legislation.gov.uk/asp/2003/9/section/63/4/d) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(a)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/a); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
 
-[^key-536ff90e3b80bbc594be0f2c78f6dc42]: Textual amendment: Words in [s. 63(5)(a)](https://www.legislation.gov.uk/asp/2003/9/section/63/5/a) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/b); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-536ff90e3b80bbc594be0f2c78f6dc42]: Textual amendment: Words in [s. 63(5)(a)](https://www.legislation.gov.uk/asp/2003/9/section/63/5/a) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/b); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
 
-[^key-c8d47b59d45e6c1c1a56a8ba5e96fc7e]: Textual amendment: [S. 63(6A)](https://www.legislation.gov.uk/asp/2003/9/section/63/6A) inserted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(c)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/c); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-c8d47b59d45e6c1c1a56a8ba5e96fc7e]: Textual amendment: [S. 63(6A)](https://www.legislation.gov.uk/asp/2003/9/section/63/6A) inserted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(c)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/c); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
 
-[^key-525bfed5abfb700b1cfd5546ab4693c5]: Textual amendment: Word in [s. 63(8)(b)](https://www.legislation.gov.uk/asp/2003/9/section/63/8/b) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(d)(i)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/d/i); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-525bfed5abfb700b1cfd5546ab4693c5]: Textual amendment: Word in [s. 63(8)(b)](https://www.legislation.gov.uk/asp/2003/9/section/63/8/b) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(d)(i)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/d/i); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
 
-[^key-be9df8b9e34179bc5660ba668c3c2ea5]: Textual amendment: Words in [s. 63(8)(b)](https://www.legislation.gov.uk/asp/2003/9/section/63/8/b) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(d)(ii)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/d/ii); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-be9df8b9e34179bc5660ba668c3c2ea5]: Textual amendment: Words in [s. 63(8)(b)](https://www.legislation.gov.uk/asp/2003/9/section/63/8/b) substituted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(4)(d)(ii)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/4/d/ii); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)

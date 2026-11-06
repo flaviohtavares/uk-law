@@ -25,7 +25,7 @@ summary: ''
 - (a) to provide 2 specimens of breath for analysis by means of a device of a type approved by the Head of the Department, or
 - (b) to provide a specimen of blood or urine for a laboratory test.
 
-(1A)[^key-57d401741e1762845b9cfb99a60ed9da] A constable may, subject to the following provisions of thisArticle, require a person whom he may require to co-operate with a check-point breath test under Article 17CA—
+(1A)[^c-57d401741e1762845b9cfb99a60ed9da] A constable may, subject to the following provisions of thisArticle, require a person whom he may require to co-operate with a check-point breath test under Article 17CA—
 
 - (a) to provide 2 specimens of breath for analysis by means of a device mentioned in paragraph (1)(a), or
 - (b) to provide a specimen of blood or urine for a laboratory test.
@@ -50,9 +50,9 @@ summary: ''
 - (a) a device or a reliable device of the type mentioned in paragraph (1)(a) was not available at that place or it was for any other reason not practicable to use such a device there, or
 - (b) the constable who made the previous requirement has reasonable cause to believe that the device used there has not produced a reliable indication of the proportion of alcohol in the breath of the person concerned.
 
-(3) A requirement under paragraph (1)(a) or (1A)(a)[^key-0828af7a040375dd5c894f7d65473b96] may be made only by a constable who is especially authorised by the Chief Constable to make such requirements.
+(3) A requirement under paragraph (1)(a) or (1A)(a)[^c-0828af7a040375dd5c894f7d65473b96] may be made only by a constable who is especially authorised by the Chief Constable to make such requirements.
 
-(4) A requirement under paragraph (1)(b) or (1A)(b)[^key-f87c54907492e3eca9913a581d122f9e] to provide a specimen of blood or urine can only be made at a police station or at a hospital; and it cannot be made at a police station unless—
+(4) A requirement under paragraph (1)(b) or (1A)(b)[^c-f87c54907492e3eca9913a581d122f9e] to provide a specimen of blood or urine can only be made at a police station or at a hospital; and it cannot be made at a police station unless—
 
 - (a) the constable making the requirement has reasonable cause to believe that a specimen of breath cannot be provided or should not be required, or
 - (b) specimens of breath have not been provided elsewhere and[^c21148431] at the time the requirement is made a device or a reliable device of the type mentioned in paragraph (1)(a) is not available at the police station or it is then for any other reason not practicable to use such a device there, or
@@ -81,13 +81,13 @@ and, where by virtue of this paragraph there can be no requirement to provide a 
 
 ## Annotations
 
-[^key-57d401741e1762845b9cfb99a60ed9da]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/nisi/1995/2994/article/18/1A) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(4)(a)](https://www.legislation.gov.uk/nia/2016/11/section/4/4/a), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-57d401741e1762845b9cfb99a60ed9da]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/nisi/1995/2994/article/18/1A) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(4)(a)](https://www.legislation.gov.uk/nia/2016/11/section/4/4/a), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
 [^c21148381]: Textual amendment: Art. 18(2)-(2D) substituted (16.7.2008) for art. 18(2) by [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [59(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/59/4); [S.R. 2008/293](https://www.legislation.gov.uk/nisr/2008/293), [art. 2](https://www.legislation.gov.uk/nisr/2008/293/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/293/schedule)
 
-[^key-0828af7a040375dd5c894f7d65473b96]: Textual amendment: Words in [art. 18(3)](https://www.legislation.gov.uk/nisi/1995/2994/article/18/3) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/4/4/b), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-0828af7a040375dd5c894f7d65473b96]: Textual amendment: Words in [art. 18(3)](https://www.legislation.gov.uk/nisi/1995/2994/article/18/3) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(4)(b)](https://www.legislation.gov.uk/nia/2016/11/section/4/4/b), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
-[^key-f87c54907492e3eca9913a581d122f9e]: Textual amendment: Words in [art. 18(4)](https://www.legislation.gov.uk/nisi/1995/2994/article/18/4) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(4)(c)](https://www.legislation.gov.uk/nia/2016/11/section/4/4/c), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-f87c54907492e3eca9913a581d122f9e]: Textual amendment: Words in [art. 18(4)](https://www.legislation.gov.uk/nisi/1995/2994/article/18/4) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 4(4)(c)](https://www.legislation.gov.uk/nia/2016/11/section/4/4/c), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
 
 [^c21148431]: Textual amendment: Words in art. 18(4)(b) inserted (16.7.2008) by [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [59(5)](https://www.legislation.gov.uk/nisi/2008/1216/article/59/5); [S.R. 2008/293](https://www.legislation.gov.uk/nisr/2008/293), [art. 2](https://www.legislation.gov.uk/nisr/2008/293/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/293/schedule)
 

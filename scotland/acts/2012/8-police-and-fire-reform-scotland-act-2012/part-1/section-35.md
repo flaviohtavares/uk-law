@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Annual police plans[^key-115043e348591de034eb8d39c0dc5458]
+## 35. Annual police plans[^c-115043e348591de034eb8d39c0dc5458]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-115043e348591de034eb8d39c0dc5458]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2012/8/section/35) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/253/article/3))
+[^c-115043e348591de034eb8d39c0dc5458]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2012/8/section/35) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/253/article/3))

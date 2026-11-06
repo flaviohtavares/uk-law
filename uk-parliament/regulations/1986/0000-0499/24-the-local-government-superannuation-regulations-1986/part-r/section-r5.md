@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R5. Provisions as to contributions equivalent premiums[^key-e53d533385cf3e7c6f311ca2cbee91d8]
+## R5. Provisions as to contributions equivalent premiums[^c-e53d533385cf3e7c6f311ca2cbee91d8]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e53d533385cf3e7c6f311ca2cbee91d8]: Commencement: [Reg. R5](https://www.legislation.gov.uk/uksi/1986/24/regulation/R5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e53d533385cf3e7c6f311ca2cbee91d8]: Commencement: [Reg. R5](https://www.legislation.gov.uk/uksi/1986/24/regulation/R5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00087]: Footnote: [S.I. 1984/380](https://www.legislation.gov.uk/uksi/1984/380).

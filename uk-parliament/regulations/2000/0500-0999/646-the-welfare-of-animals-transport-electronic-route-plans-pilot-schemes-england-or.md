@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH, ENGLAND
 
-The Welfare of Animals (Transport) (Electronic Route Plans Pilot Schemes) (England) Order 2000 (revoked)[^key-30f97e3e1f199e528287e520f567b4ba]
+The Welfare of Animals (Transport) (Electronic Route Plans Pilot Schemes) (England) Order 2000 (revoked)[^c-30f97e3e1f199e528287e520f567b4ba]
 
 Made
 
@@ -43,40 +43,40 @@ Coming into force
 
 3rd April 2000
 
-[^key-30f97e3e1f199e528287e520f567b4ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30f97e3e1f199e528287e520f567b4ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, Commencement and Extent[^key-30f97e3e1f199e528287e520f567b4ba]
+## 1. Title, Commencement and Extent[^c-30f97e3e1f199e528287e520f567b4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-30f97e3e1f199e528287e520f567b4ba]
+## 2. Interpretation[^c-30f97e3e1f199e528287e520f567b4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Electronic submission of route plans[^key-30f97e3e1f199e528287e520f567b4ba]
+## 3. Electronic submission of route plans[^c-30f97e3e1f199e528287e520f567b4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. ERP pilot schemes[^key-30f97e3e1f199e528287e520f567b4ba]
+## 4. ERP pilot schemes[^c-30f97e3e1f199e528287e520f567b4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Permission to participate in ERP pilot schemes[^key-30f97e3e1f199e528287e520f567b4ba]
+## 5. Permission to participate in ERP pilot schemes[^c-30f97e3e1f199e528287e520f567b4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Specific requirements applicable to electronic route plans[^key-30f97e3e1f199e528287e520f567b4ba]
+## 6. Specific requirements applicable to electronic route plans[^c-30f97e3e1f199e528287e520f567b4ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30f97e3e1f199e528287e520f567b4ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30f97e3e1f199e528287e520f567b4ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-30f97e3e1f199e528287e520f567b4ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30f97e3e1f199e528287e520f567b4ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30f97e3e1f199e528287e520f567b4ba]: Textual amendment: Order revoked (5.1.2007) by [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [art. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/3260/schedule/paragraph/1)
+[^c-30f97e3e1f199e528287e520f567b4ba]: Textual amendment: Order revoked (5.1.2007) by [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [art. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/3260/schedule/paragraph/1)

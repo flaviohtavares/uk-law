@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Offences (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+## 82. Offences (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) It is an offence for a person to make a statement— *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(1) It is an offence for a person to make a statement— *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-- (a) which that person knows to be false or misleading in a material particular; or *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-- (b) recklessly and which is false or misleading in a material particular, *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+- (a) which that person knows to be false or misleading in a material particular; or *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+- (b) recklessly and which is false or misleading in a material particular, *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-where the statement is made in purported compliance with a provision of this Order. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+where the statement is made in purported compliance with a provision of this Order. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(2) It is an offence for a person to fail to comply with an enforcement notice. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(2) It is an offence for a person to fail to comply with an enforcement notice. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(3) It is a defence for a person charged with an offence under paragraph (2) to prove that such person had a reasonable excuse for the matters charged. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(3) It is a defence for a person charged with an offence under paragraph (2) to prove that such person had a reasonable excuse for the matters charged. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(4) It is an offence for a person to pretend to be an authorised person. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(4) It is an offence for a person to pretend to be an authorised person. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(5) It is an offence for a person in control of any premises to refuse to allow the administrator or an authorised person access to those premises contrary to article 66(4) where such access is reasonably required. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(5) It is an offence for a person in control of any premises to refuse to allow the administrator or an authorised person access to those premises contrary to article 66(4) where such access is reasonably required. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)

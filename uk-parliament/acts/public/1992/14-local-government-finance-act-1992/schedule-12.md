@@ -130,13 +130,13 @@ shall be debited (as items of account) to the account kept for the year
 - (a) the operation of—
   - (i)[^c12083761] section 24A (lands and heritages partly unoccupied for a short time) of the [^c12083771]Local Government (Scotland) Act 1966;
   - (ii) section 244 (remission of rates on account of poverty) of the 1947 Act; [^c12083781]. . .
-  - (iii) section 4(5) (reduction and remission of rates payable by charitable and other organisations) of the [^c12083791]Local Government (Financial Provisions etc.[^key-77b04cecab921181de78a15300217e1e]) (Scotland) Act 1962; and[^c12083801]
-  - (iiia)[^key-8c090a4de834508793903ccc21df9bad] section 3A (schemes for reduction and remission of rates) of that Act;
+  - (iii) section 4(5) (reduction and remission of rates payable by charitable and other organisations) of the [^c12083791]Local Government (Financial Provisions etc.[^c-77b04cecab921181de78a15300217e1e]) (Scotland) Act 1962; and[^c12083801]
+  - (iiia)[^c-8c090a4de834508793903ccc21df9bad] section 3A (schemes for reduction and remission of rates) of that Act;
   - (iv) paragraph 4 of Schedule 2 (discretionary relief for rural settlements) to the Local Government and Rating Act 1997
 - (b) the costs of collection and recovery; and
 - (c) such other matters (if any) as he thinks fit.
 
-(4)[^key-9ca4f62a1aa991faa541c4f9910f69a0] Regulations under this paragraph in their application to a particular financial year (including regulations amending or revoking others) shall not be effective unless they come into force before 1st January in the preceding financial year.
+(4)[^c-9ca4f62a1aa991faa541c4f9910f69a0] Regulations under this paragraph in their application to a particular financial year (including regulations amending or revoking others) shall not be effective unless they come into force before 1st January in the preceding financial year.
 
 **11.** (1) This paragraph applies where regulations under paragraph 10 above are in force in respect of a financial year, and has effect subject to any such regulations.
 
@@ -214,13 +214,13 @@ but if the authority then comply with the sub-paragraph he shall resume payments
 
 [^c12083791]: Marginal citation: [1962 c. 9](https://www.legislation.gov.uk/ukpga/1962/9)
 
-[^key-77b04cecab921181de78a15300217e1e]: Textual amendment: Word in Sch. 12 para. 10(3)(a)(iii) inserted (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(2)(a)](https://www.legislation.gov.uk/asp/2015/6/section/140/2/a), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
+[^c-77b04cecab921181de78a15300217e1e]: Textual amendment: Word in Sch. 12 para. 10(3)(a)(iii) inserted (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(2)(a)](https://www.legislation.gov.uk/asp/2015/6/section/140/2/a), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
 
 [^c12083801]: Textual amendment: Word “and" and Sch. 12 paragraph 10(3)(a)(iv) inserted (1.12.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/1), [Sch. 3 para. 29(b)(ii)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/29/b/ii); [S.I. 1997/2826](https://www.legislation.gov.uk/uksi/1997/2826), [art. 2(d)](https://www.legislation.gov.uk/uksi/1997/2826/article/2/d)
 
-[^key-8c090a4de834508793903ccc21df9bad]: Textual amendment: Sch. 12 para. 10(3)(a)(iiia) inserted (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(2)(b)](https://www.legislation.gov.uk/asp/2015/6/section/140/2/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
+[^c-8c090a4de834508793903ccc21df9bad]: Textual amendment: Sch. 12 para. 10(3)(a)(iiia) inserted (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(2)(b)](https://www.legislation.gov.uk/asp/2015/6/section/140/2/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
 
-[^key-9ca4f62a1aa991faa541c4f9910f69a0]: Modification: Sch. 12 para. 10(4) excluded (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(4)](https://www.legislation.gov.uk/asp/2015/6/section/140/4), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
+[^c-9ca4f62a1aa991faa541c4f9910f69a0]: Modification: Sch. 12 para. 10(4) excluded (31.10.2015) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 140(4)](https://www.legislation.gov.uk/asp/2015/6/section/140/4), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
 
 [^c12083821]: Modification: Sch. 12 para. 11(2) modified (31.12.1996) by [S.I. 1996/3070](https://www.legislation.gov.uk/uksi/1996/3070), [reg. 4](https://www.legislation.gov.uk/uksi/1996/3070/regulation/4).
 

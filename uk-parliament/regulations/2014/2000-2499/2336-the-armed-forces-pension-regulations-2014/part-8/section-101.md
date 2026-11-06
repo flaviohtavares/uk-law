@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Applications for a transfer value payment[^key-9d3075e5b93df74937aed07187688fc7]
+## 101. Applications for a transfer value payment[^c-9d3075e5b93df74937aed07187688fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3075e5b93df74937aed07187688fc7]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2014/2336/regulation/101) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-9d3075e5b93df74937aed07187688fc7]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2014/2336/regulation/101) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

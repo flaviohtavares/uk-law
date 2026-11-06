@@ -29,7 +29,7 @@ summary: ''
 
 EDUCATION, WALES
 
-[^key-5ac2e3d24772c269e77c25ac75fb427d]The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (revoked)
+[^c-5ac2e3d24772c269e77c25ac75fb427d]The Assembly Learning Grants and Loans (Higher Education) (Wales) (No. 2) Regulations 2011 (revoked)
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 12 April 2011
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-5ac2e3d24772c269e77c25ac75fb427d]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-5ac2e3d24772c269e77c25ac75fb427d]
 
 ## Contents
 
-### PART 1 — GENERAL[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 1 — GENERAL[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Revocation, savings and transitional provisions](part-1/section-3.md)
 
-### PART 2 — ELIGIBILITY[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 2 — ELIGIBILITY[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 7 — Previous study](part-2/section-7.md)
 - [Section 8 — Transfer of status](part-2/section-8.md)
 
-### PART 3 — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 3 — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -80,13 +80,13 @@ Coming into force
 - [Section 11 — Information](part-3/section-11.md)
 - [Section 12 — Requirement to enter into a contract for a loan](part-3/section-12.md)
 
-### PART 4 — GRANTS AND LOANS FOR FEES[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 4 — GRANTS AND LOANS FOR FEES[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Chapter 1 — GENERAL PROVISION[^key-6ad839f5ae7d11b3b7a344b19c372438]
+#### Chapter 1 — GENERAL PROVISION[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 14 — Students becoming eligible during the course of an academic year](part-4/section-14.md)
 - [Section 15 — Events](part-4/section-15.md)
 
-#### Chapter 2 — GRANTS FOR FEES[^key-6ad839f5ae7d11b3b7a344b19c372438]
+#### Chapter 2 — GRANTS FOR FEES[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 19 — Fee grant](part-4/section-19.md)
 - [Section 20 — New fee grant](part-4/section-20.md)
 
-#### Chapter 3 — FEE CONTRIBUTION LOANS AND FEE LOANS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+#### Chapter 3 — FEE CONTRIBUTION LOANS AND FEE LOANS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -121,7 +121,7 @@ Coming into force
 - [Section 24A — New private institution fee loan](part-4/section-24a.md)
 - [Section 24B — Accelerated graduate entry fee loan](part-4/section-24b.md)
 
-### PART 5 — GRANTS FOR LIVING COSTS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 5 — GRANTS FOR LIVING COSTS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -149,7 +149,7 @@ Coming into force
 - [Section 44 — Special support grant — new system eligible students who are 2010 cohort students or 2012 cohort students](part-5/section-44.md)
 - [Section 45 — Special support grant — new system eligible students who are 2011 cohort students](part-5/section-45.md)
 
-### PART 6 — LOANS FOR LIVING COSTS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 6 — LOANS FOR LIVING COSTS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -170,7 +170,7 @@ Coming into force
 - [Section 59 — Deductions from loans for living costs](part-6/section-59.md)
 - [Section 60 — Interpretation of Part 6](part-6/section-60.md)
 
-### PART 7 — GENERAL LOAN PROVISIONS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 7 — GENERAL LOAN PROVISIONS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -178,7 +178,7 @@ Coming into force
 
 - [Section 61 — Additional amount of loans](part-7/section-61.md)
 
-### PART 8 — COLLEGE FEE LOANS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 8 — COLLEGE FEE LOANS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -186,7 +186,7 @@ Coming into force
 
 - [Section 62 — College fee loans](part-8/section-62.md)
 
-### PART 9 — FINANCIAL ASSESSMENT[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 9 — FINANCIAL ASSESSMENT[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -195,7 +195,7 @@ Coming into force
 - [Section 63 — Calculation of contribution](part-9/section-63.md)
 - [Section 64 — Application of contribution](part-9/section-64.md)
 
-### PART 10 — PAYMENTS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 10 — PAYMENTS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -210,7 +210,7 @@ Coming into force
 - [Section 70 — Overpayments](part-10/section-70.md)
 - [Section 71 — Payments — interpretation](part-10/section-71.md)
 
-### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 11 — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -234,7 +234,7 @@ Coming into force
 - [Section 87 — Payment of grants for books, travel and other expenditure and grants for disabled distance learning students' living costs](part-11/section-87.md)
 - [Section 88 — Overpayments](part-11/section-88.md)
 
-### PART 12 — SUPPORT FOR PART-TIME COURSES[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 12 — SUPPORT FOR PART-TIME COURSES[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -265,7 +265,7 @@ Coming into force
 - [Section 113 — Payment of grants for fees](part-12/section-113.md)
 - [Section 114 — Overpayments](part-12/section-114.md)
 
-### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 13 — SUPPORT FOR POSTGRADUATE STUDENTS WITH DISABILITIES[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -282,7 +282,7 @@ Coming into force
 - [Section 123 — Payment of grant](part-13/section-123.md)
 - [Section 124 — Overpayments](part-13/section-124.md)
 
-### PART 14 — AMENDMENT OF THE 2011 REGULATIONS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### PART 14 — AMENDMENT OF THE 2011 REGULATIONS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -301,16 +301,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ad839f5ae7d11b3b7a344b19c372438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ad839f5ae7d11b3b7a344b19c372438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5ac2e3d24772c269e77c25ac75fb427d]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3)); and Regulations (as saved) continued (17.2.2017) by [The Education (Student Support) (Wales) Regulations 2017 (S.I. 2017/47)](https://www.legislation.gov.uk/uksi/2017/47), [reg. 3(11)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/11) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/47/regulation/1/3), [3(16)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/16)) (as amended (12.3.2018) by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/191/regulation/2), [100](https://www.legislation.gov.uk/uksi/2018/191/regulation/100), [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/2))
+[^c-5ac2e3d24772c269e77c25ac75fb427d]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3)); and Regulations (as saved) continued (17.2.2017) by [The Education (Student Support) (Wales) Regulations 2017 (S.I. 2017/47)](https://www.legislation.gov.uk/uksi/2017/47), [reg. 3(11)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/11) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/47/regulation/1/3), [3(16)](https://www.legislation.gov.uk/uksi/2017/47/regulation/3/16)) (as amended (12.3.2018) by [S.I. 2018/191](https://www.legislation.gov.uk/uksi/2018/191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/191/regulation/2), [100](https://www.legislation.gov.uk/uksi/2018/191/regulation/100), [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/2))
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))
+[^c-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))

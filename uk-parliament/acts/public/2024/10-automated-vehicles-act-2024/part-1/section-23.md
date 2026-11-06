@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Supplementary provision[^key-77ce60005b0501cc9652bf7a26a61f94]
+## 23. Supplementary provision[^c-77ce60005b0501cc9652bf7a26a61f94]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77ce60005b0501cc9652bf7a26a61f94]: Commencement: S. 23 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-77ce60005b0501cc9652bf7a26a61f94]: Commencement: S. 23 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -106,7 +106,7 @@ A member may at any time resign his membership of a National Park authority by n
 
 ## 9. Vacancies
 
-Upon a vacancy arising the vacancy shall as soon as practicable be filled, in the case of a local authority member, by the appointment of a new member by the council in whose representation the vacancy arises and, in the case of a Secretary of State member, by the Secretary of State after consultation with the Natural Resources Body for Wales[^key-d9646fc4916e4f23617fe71e047a5f1c].
+Upon a vacancy arising the vacancy shall as soon as practicable be filled, in the case of a local authority member, by the appointment of a new member by the council in whose representation the vacancy arises and, in the case of a Secretary of State member, by the Secretary of State after consultation with the Natural Resources Body for Wales[^c-d9646fc4916e4f23617fe71e047a5f1c].
 
 ## 10. Notice of appointment etc
 
@@ -143,7 +143,7 @@ The rules set out in Schedule 3 to this Order shall apply to the meetings and pr
 
 ## 13. Reports and returns
 
-A National Park authority shall, if so requested by the Secretary of State, forthwith send or give to the Natural Resources Body for Wales[^key-ec03c3a0c30ab6cb61b4c65050f68733] and the council for every principal area the whole or any part of which is within the National Park for which that National Park authority is established a copy of any report return or information which that authority is required to send or give to the Secretary of State in accordance with section 230 of the 1972 Act (reports and returns) [^c17854871].
+A National Park authority shall, if so requested by the Secretary of State, forthwith send or give to the Natural Resources Body for Wales[^c-ec03c3a0c30ab6cb61b4c65050f68733] and the council for every principal area the whole or any part of which is within the National Park for which that National Park authority is established a copy of any report return or information which that authority is required to send or give to the Secretary of State in accordance with section 230 of the 1972 Act (reports and returns) [^c17854871].
 
 ## 14. Accounts etc.
 
@@ -194,7 +194,7 @@ Sections 40 to 45 of the 1994 Act shall apply to the transfer of staff to, and t
 
 ## 18. Application of other enactments and instruments with modifications
 
-The enactments and instruments referred to in Schedule 5 shall apply to a National Park authority subject to the modifications set out in that Schedule. *(affected by repeal, see note)*[^key-d657a5442bef667a8f10a949b96efc84]
+The enactments and instruments referred to in Schedule 5 shall apply to a National Park authority subject to the modifications set out in that Schedule. *(affected by repeal, see note)*[^c-d657a5442bef667a8f10a949b96efc84]
 
 ## 19. Transitional provisions
 
@@ -227,7 +227,7 @@ article 6
 
 ### Part I: — Number of members
 
-Brecon Beacons National Park Authority[^key-4fd210bee462e1143436b077b8dbf7f3]
+Brecon Beacons National Park Authority[^c-4fd210bee462e1143436b077b8dbf7f3]
 
 |  |  |
 | --- | --- |
@@ -239,7 +239,7 @@ Pembrokeshire Coast National Park Authority
 
 |  |  |
 | --- | --- |
-| Local authority members[^key-a5d9d263ed087138f2148e940edf3aee] | 12 |
+| Local authority members[^c-a5d9d263ed087138f2148e940edf3aee] | 12 |
 | Members appointed by the Welsh Ministers | 6 |
 | Total number of members | 18 |
 
@@ -253,7 +253,7 @@ Snowdonia National Park Authority
 
 ### Part II: — Appointment of local authority members
 
-Brecon Beacons National Park Authority[^key-12dc7019545a731f7ff038c68f8bd7a6]
+Brecon Beacons National Park Authority[^c-12dc7019545a731f7ff038c68f8bd7a6]
 
 | Council of a principal area | Number of members |
 | --- | --- |
@@ -269,7 +269,7 @@ Pembrokeshire Coast National Park Authority
 
 | Council of a principal area | Number of members |
 | --- | --- |
-| Pembrokeshire County Council[^key-0e2d5f2bbd449ba4b09a1844544a4766] | 12 |
+| Pembrokeshire County Council[^c-0e2d5f2bbd449ba4b09a1844544a4766] | 12 |
 
 Snowdonia National Park Authority
 
@@ -307,7 +307,7 @@ article 11
 
 (8) So far as is consistent with the preceding provisions of this paragraph, the following provisions of this Schedule shall apply to the calling and conduct of meetings under this paragraph.
 
-### 2. Annual and other meetings[^key-9b79a3d0cde74bf2e066e836dc862b20]
+### 2. Annual and other meetings[^c-9b79a3d0cde74bf2e066e836dc862b20]
 
 (1) The Authority shall in every year after 1995 hold an annual meeting. The first meeting held after 31st May in any year after 1995 shall be the annual meeting.
 
@@ -331,16 +331,16 @@ article 11
 
 (4) Where necessary, the meeting at which such a casual vacancy is to be filled shall be convened by the proper officer of the Authority.
 
-### 6. Calling of meetings[^key-61c36460c6eaa523f5ce0bd6db2609f4]
+### 6. Calling of meetings[^c-61c36460c6eaa523f5ce0bd6db2609f4]
 
 (1) Meetings of the Authority shall be held at such place, either within or without the National Park for which it is established, as it may direct.
 
 (2) Three clear days at least before a meeting of the Authority—
 
-- (a) notice [^key-269d447c134e7edc250ed1fbb3737afe]... of the intended meeting shall be published electronically[^key-1d404f242897bf50fb9b1a4f4e4ce73d] and, where the meeting is called by members of the Authority, the notice shall state the names of[^key-c59c8ad1ef0ec0e2fb1614411f95cca4] those members and shall specify the business proposed to be transacted thereat; and
-- (b) a summons to attend the meeting, specifying the business proposed to be transacted thereat, and authenticated[^key-0a06454699643393b4ed2b7ce9e1f4dc] by the proper officer of the Authority shall, subject to sub-paragraph (3) below, be sent electronically to[^key-df0f8a970cbbd3b3d8eb340d92d1e885] every member of the Authority with an electronic copy[^key-198ae25f4cf826a86f7b8a5385aec7ca] to the proper officer of the council for every principal area the whole or any part of which is within the National Park for which the Authority is established, the Natural Resources Body for Wales[^key-f8b5cbd0919d7a7e5df60552e343db39] and the Secretary of State.
+- (a) notice [^c-269d447c134e7edc250ed1fbb3737afe]... of the intended meeting shall be published electronically[^c-1d404f242897bf50fb9b1a4f4e4ce73d] and, where the meeting is called by members of the Authority, the notice shall state the names of[^c-c59c8ad1ef0ec0e2fb1614411f95cca4] those members and shall specify the business proposed to be transacted thereat; and
+- (b) a summons to attend the meeting, specifying the business proposed to be transacted thereat, and authenticated[^c-0a06454699643393b4ed2b7ce9e1f4dc] by the proper officer of the Authority shall, subject to sub-paragraph (3) below, be sent electronically to[^c-df0f8a970cbbd3b3d8eb340d92d1e885] every member of the Authority with an electronic copy[^c-198ae25f4cf826a86f7b8a5385aec7ca] to the proper officer of the council for every principal area the whole or any part of which is within the National Park for which the Authority is established, the Natural Resources Body for Wales[^c-f8b5cbd0919d7a7e5df60552e343db39] and the Secretary of State.
 
-(2A)[^key-55f04fca9e030e104d6632f2c31f0836] The notice of the meeting given under sub-paragraph (2)(a) must—
+(2A)[^c-55f04fca9e030e104d6632f2c31f0836] The notice of the meeting given under sub-paragraph (2)(a) must—
 
 - (a) where the meeting or part of the meeting is open to the public and is held through remote means only, give details of the time of the meeting and how to access it;
 - (b) where the meeting or part of the meeting is open to the public and is held partly through remote means or is not held through remote means, give details of the time and place of the meeting and how to access it;
@@ -353,7 +353,7 @@ article 11
 
 (2D) In this paragraph, references to a meeting of the Authority held through remote means are to a meeting held by means of any equipment or other facility which enables persons who are not in the same place to speak and be heard by each other (whether or not the equipment or facility enables those persons to see or be seen by each other).
 
-(3) If a member of the Authority gives notice in writing to the proper officer of the Authority that that member[^key-e6751484d48d074f502660393f04237a] desires summonses to attend meetings of the Authority to be sent to that member[^key-a2a0f17968afdfb54bf0d3b42cbcf776] at some address specified in the notice rather than electronically[^key-a76a86247c96d869fb04d94f81a6c5a3], any summons addressed to that member and left at or sent by post to that address shall be deemed sufficient service of the summons.
+(3) If a member of the Authority gives notice in writing to the proper officer of the Authority that that member[^c-e6751484d48d074f502660393f04237a] desires summonses to attend meetings of the Authority to be sent to that member[^c-a2a0f17968afdfb54bf0d3b42cbcf776] at some address specified in the notice rather than electronically[^c-a76a86247c96d869fb04d94f81a6c5a3], any summons addressed to that member and left at or sent by post to that address shall be deemed sufficient service of the summons.
 
 (4) Want of service of a summons on any member of the Authority shall not affect the validity of such a meeting.
 
@@ -373,7 +373,7 @@ Subject to the provisions of paragraph 45 of Schedule 12 to the 1972 Act [^c1785
 
 ### 9. Minutes of proceedings of meetings
 
-A copy of the minutes of the proceedings at each meeting of the Authority shall be sent to the proper officer of the council for every principal area the whole or any part of which is within the National Park for which the Authority is established, to the Natural Resources Body for Wales[^key-d835d15e55e94e644543ca19c6179975] and to the Secretary of State within thirty five days after the date of the meeting.
+A copy of the minutes of the proceedings at each meeting of the Authority shall be sent to the proper officer of the council for every principal area the whole or any part of which is within the National Park for which the Authority is established, to the Natural Resources Body for Wales[^c-d835d15e55e94e644543ca19c6179975] and to the Secretary of State within thirty five days after the date of the meeting.
 
 ### 10. Computation of time
 
@@ -403,7 +403,7 @@ In section 175 of the 1972 Act (allowances for attending conferences and meeting
 
 In section 177 of the 1972 Act (provisions supplementary to sections 173 to 176) paragraph (b) of subsection (1) [^c17854931] shall have effect as if a National Park authority were a body specified in section 21(1) of the 1989 Act as referred to in paragraph (a) of subsection (1) of section 177.
 
-### 2A. Part VIII of the Local Government Finance Act 1988 (Financial Administration)[^key-56d6ae94cc3fa80a8a8f54b609f9e7aa]
+### 2A. Part VIII of the Local Government Finance Act 1988 (Financial Administration)[^c-56d6ae94cc3fa80a8a8f54b609f9e7aa]
 
 (1) Subject to the following provisions of this paragraph, Part VIII of the Local Government Finance Act 1988 (financial administration) shall apply as if a National Park authority were a relevant authority as referred to in that Part.
 
@@ -437,7 +437,7 @@ The Water Resources Act 1991 shall apply as if—
 
 The Transport and Works Act 1992 shall apply as if a National Park authority were a local authority for the purposes of section 11(4)(a) (inquiries and hearings).
 
-### 2E. Local Government (Wales) Act 1994[^key-c5350e1854e39290d7d8a19292c11416]
+### 2E. Local Government (Wales) Act 1994[^c-c5350e1854e39290d7d8a19292c11416]
 
 In Part III of Schedule 5 to the Local Government (Wales) Act 1994 (development plans — transitional provisions) the definition of “new planning authority” in paragraph 11(1) shall have effect as if it included reference to a National Park authority.
 
@@ -520,7 +520,7 @@ The Local Government Reorganisation (Wales) (Limitation of Compensation) Regulat
 
 The Local Government (Wales) (Service Agency Agreements) Regulations 1995 [^c17855011] shall apply as if a National Park authority were a new authority for the purposes of the Regulations.
 
-### 11. The Commons (Schemes) Regulations 1982[^key-2680aee61a886603a90e421efba221dc]
+### 11. The Commons (Schemes) Regulations 1982[^c-2680aee61a886603a90e421efba221dc]
 
 The Commons (Schemes) Regulations 1982 shall apply as if—
 
@@ -528,7 +528,7 @@ The Commons (Schemes) Regulations 1982 shall apply as if—
 - (b) In paragraph 1 of Form I (Form of Scheme) of the Schedule the words “or National Park authority” were inserted after the words “district council”; and
 - (c) In Form II (Form of Notice) of the Schedule the words “or National Park authority” were inserted after the words “district council”.
 
-### 12. ...[^key-63bcb86daaf978b029193931c1315a3c][^key-63bcb86daaf978b029193931c1315a3c]
+### 12. ...[^c-63bcb86daaf978b029193931c1315a3c][^c-63bcb86daaf978b029193931c1315a3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -540,11 +540,11 @@ The Removal and Disposal of Vehicles Regulations 1986 shall apply as if in parag
 
 The Set-Aside Regulations 1988 shall apply as if in regulation 2(1) the definition of “National Park Authority” included a National Park authority established by this Order.
 
-### 15. The Planning (Listed Buildings and Conservation Areas) Regulations 1990[^key-3418f252359481251e1b2015642c4511]
+### 15. The Planning (Listed Buildings and Conservation Areas) Regulations 1990[^c-3418f252359481251e1b2015642c4511]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. The Litter Control Areas Order 1991[^key-54fa34d8ceca3a897079dccece38d495]
+### 16. The Litter Control Areas Order 1991[^c-54fa34d8ceca3a897079dccece38d495]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -560,15 +560,15 @@ The Transport and Works (Model Clauses for Railways and Tramways) Order 1992 sha
 
 The Local Authorities (Recovery of Costs for Public Path Orders) Regulations 1993 shall apply as if a National Park authority were an authority for the purposes of the Regulations.
 
-### 20. The Conservation (Natural Habitats, &c.) Regulations 1994[^key-e0cafc84a012c1f040d9283f665065cc]
+### 20. The Conservation (Natural Habitats, &c.) Regulations 1994[^c-e0cafc84a012c1f040d9283f665065cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Town and Country Planning (General Development Procedure) Order 1995
 
-The Town and Country Planning (General Development Procedure) Order 1995 shall apply as if in Part 2 of Schedule I to that Order (notification to be sent to applicant when planning permission is refused or granted subject to conditions) in the final paragraph after the words “City of London” there were inserted “or National Park authority”. *(Extent: W)* *(affected by repeal, see note)*[^key-c488ba06cb52e28f7329287462886a87]
+The Town and Country Planning (General Development Procedure) Order 1995 shall apply as if in Part 2 of Schedule I to that Order (notification to be sent to applicant when planning permission is refused or granted subject to conditions) in the final paragraph after the words “City of London” there were inserted “or National Park authority”. *(Extent: W)* *(affected by repeal, see note)*[^c-c488ba06cb52e28f7329287462886a87]
 
-### 22. The Local Government Reorganisation (Compensation for Loss of Remuneration) Regulations 1995[^key-5469f999d750a5f09a83ed583bc9d44f]
+### 22. The Local Government Reorganisation (Compensation for Loss of Remuneration) Regulations 1995[^c-5469f999d750a5f09a83ed583bc9d44f]
 
 The Local Government Reorganisation (Compensation for Loss of Remuneration) Regulations 1995 shall apply as if—
 
@@ -771,53 +771,53 @@ This Order also makes provision for an authority to send copies of reports etc t
 
 [^c17854861]: Marginal citation: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7); [section 7](https://www.legislation.gov.uk/uksi/1995/2803/section/7) was amended by the Local Government Act 1985, Schedule 3, paragraph 6 and by the [Environmental Protection Act 1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43), [Schedule 8](https://www.legislation.gov.uk/ukpga/1990/43/schedule/8), [paragraph 4](https://www.legislation.gov.uk/ukpga/1990/43/paragraph/4). It is to be repealed from a day to be appointed by the 1995 Act sections 120(3) and 125(3) and Schedule 24.
 
-[^key-d9646fc4916e4f23617fe71e047a5f1c]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/1995/2803/article/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d9646fc4916e4f23617fe71e047a5f1c]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/1995/2803/article/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ec03c3a0c30ab6cb61b4c65050f68733]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/uksi/1995/2803/article/13) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ec03c3a0c30ab6cb61b4c65050f68733]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/uksi/1995/2803/article/13) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c17854871]: Marginal citation: [Section 230](https://www.legislation.gov.uk/uksi/1995/2803/section/230) of the 1972 Act is applied to a National Park authority by virtue of Schedule 7, paragraph 17(2)(c) to the 1995 Act.
 
 [^c17854881]: Marginal citation: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-d657a5442bef667a8f10a949b96efc84]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/uksi/1995/2803/article/18) revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125)); and further revoked in part (W.) (30.4.2012) by [The Town and Country Planning (Development Management Procedure) (Wales) Order 2012 (S.I. 2012/801)](https://www.legislation.gov.uk/uksi/2012/801), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/801/article/1/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2012/801/schedule/8) (with [art. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2012/801/article/1/2), [33(2)(3)](https://www.legislation.gov.uk/uksi/2012/801/article/33/2/3)) (as amended (1.3.2016) by [S.I. 2016/55](https://www.legislation.gov.uk/uksi/2016/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/55/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2016/55/article/32/2) (with [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/55/article/1/2/3))
+[^c-d657a5442bef667a8f10a949b96efc84]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/uksi/1995/2803/article/18) revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125)); and further revoked in part (W.) (30.4.2012) by [The Town and Country Planning (Development Management Procedure) (Wales) Order 2012 (S.I. 2012/801)](https://www.legislation.gov.uk/uksi/2012/801), [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/801/article/1/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2012/801/schedule/8) (with [art. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2012/801/article/1/2), [33(2)(3)](https://www.legislation.gov.uk/uksi/2012/801/article/33/2/3)) (as amended (1.3.2016) by [S.I. 2016/55](https://www.legislation.gov.uk/uksi/2016/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/55/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2016/55/article/32/2) (with [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/55/article/1/2/3))
 
-[^key-4fd210bee462e1143436b077b8dbf7f3]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/I) substituted (1.4.2020) by [The National Park Authorities (Wales) (Amendment) Order 2020 (S.I. 2020/119)](https://www.legislation.gov.uk/wsi/2020/119), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/119/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/119/article/2/2)
+[^c-4fd210bee462e1143436b077b8dbf7f3]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/I) substituted (1.4.2020) by [The National Park Authorities (Wales) (Amendment) Order 2020 (S.I. 2020/119)](https://www.legislation.gov.uk/wsi/2020/119), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/119/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/119/article/2/2)
 
-[^key-a5d9d263ed087138f2148e940edf3aee]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/I) substituted (31.12.2007) by [The National Park Authorities (Wales) (Amendment) Order 2007 (S.I. 2007/3423)](https://www.legislation.gov.uk/wsi/2007/3423), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/3423/article/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2007/3423/article/3/2)
+[^c-a5d9d263ed087138f2148e940edf3aee]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/I) substituted (31.12.2007) by [The National Park Authorities (Wales) (Amendment) Order 2007 (S.I. 2007/3423)](https://www.legislation.gov.uk/wsi/2007/3423), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/3423/article/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2007/3423/article/3/2)
 
-[^key-12dc7019545a731f7ff038c68f8bd7a6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/II) substituted (1.4.2020) by [The National Park Authorities (Wales) (Amendment) Order 2020 (S.I. 2020/119)](https://www.legislation.gov.uk/wsi/2020/119), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/119/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/119/article/2/3)
+[^c-12dc7019545a731f7ff038c68f8bd7a6]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/II) substituted (1.4.2020) by [The National Park Authorities (Wales) (Amendment) Order 2020 (S.I. 2020/119)](https://www.legislation.gov.uk/wsi/2020/119), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/119/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/119/article/2/3)
 
-[^key-0e2d5f2bbd449ba4b09a1844544a4766]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/II) substituted (31.12.2007) by [The National Park Authorities (Wales) (Amendment) Order 2007 (S.I. 2007/3423)](https://www.legislation.gov.uk/wsi/2007/3423), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/3423/article/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2007/3423/article/3/3)
+[^c-0e2d5f2bbd449ba4b09a1844544a4766]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1995/2803/schedule/2/part/II) substituted (31.12.2007) by [The National Park Authorities (Wales) (Amendment) Order 2007 (S.I. 2007/3423)](https://www.legislation.gov.uk/wsi/2007/3423), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/3423/article/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2007/3423/article/3/3)
 
-[^key-9b79a3d0cde74bf2e066e836dc862b20]: Modification: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/2) modified (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/442/regulation/8)
+[^c-9b79a3d0cde74bf2e066e836dc862b20]: Modification: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/2) modified (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/442/regulation/8)
 
-[^key-61c36460c6eaa523f5ce0bd6db2609f4]: Modification: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6) modified (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [18](https://www.legislation.gov.uk/wsi/2020/442/regulation/18)
+[^c-61c36460c6eaa523f5ce0bd6db2609f4]: Modification: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6) modified (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [18](https://www.legislation.gov.uk/wsi/2020/442/regulation/18)
 
-[^key-269d447c134e7edc250ed1fbb3737afe]: Textual amendment: Words in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/a) omitted (1.5.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/2/a) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-269d447c134e7edc250ed1fbb3737afe]: Textual amendment: Words in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/a) omitted (1.5.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/2/a) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-1d404f242897bf50fb9b1a4f4e4ce73d]: Textual amendment: Word in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/a) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/2/b) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-1d404f242897bf50fb9b1a4f4e4ce73d]: Textual amendment: Word in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/a) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/2/b) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-c59c8ad1ef0ec0e2fb1614411f95cca4]: Textual amendment: Words in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/a) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/2/c) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-c59c8ad1ef0ec0e2fb1614411f95cca4]: Textual amendment: Words in [Sch. 3 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/a) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/2/c) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-0a06454699643393b4ed2b7ce9e1f4dc]: Textual amendment: Word in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/3/a) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-0a06454699643393b4ed2b7ce9e1f4dc]: Textual amendment: Word in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/3/a) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-df0f8a970cbbd3b3d8eb340d92d1e885]: Textual amendment: Words in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/3/b) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-df0f8a970cbbd3b3d8eb340d92d1e885]: Textual amendment: Words in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/3/b) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-198ae25f4cf826a86f7b8a5385aec7ca]: Textual amendment: Words in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/3/c) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-198ae25f4cf826a86f7b8a5385aec7ca]: Textual amendment: Words in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/3/c) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-f8b5cbd0919d7a7e5df60552e343db39]: Textual amendment: Words in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f8b5cbd0919d7a7e5df60552e343db39]: Textual amendment: Words in [Sch. 3 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-55f04fca9e030e104d6632f2c31f0836]: Textual amendment: [Sch. 3 para. 6(2A)-(2D)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2A) inserted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/4) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-55f04fca9e030e104d6632f2c31f0836]: Textual amendment: [Sch. 3 para. 6(2A)-(2D)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/2A) inserted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/4) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-e6751484d48d074f502660393f04237a]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/3) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(5)(i)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/5/i) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-e6751484d48d074f502660393f04237a]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/3) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(5)(i)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/5/i) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-a2a0f17968afdfb54bf0d3b42cbcf776]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/3) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(5)(ii)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/5/ii) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-a2a0f17968afdfb54bf0d3b42cbcf776]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/3) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(5)(ii)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/5/ii) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
-[^key-a76a86247c96d869fb04d94f81a6c5a3]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/3) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(5)(iii)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/5/iii) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
+[^c-a76a86247c96d869fb04d94f81a6c5a3]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/6/3) substituted (1.5.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/356)](https://www.legislation.gov.uk/uksi/2021/356), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/356/regulation/1/2), [6(5)(iii)](https://www.legislation.gov.uk/uksi/2021/356/regulation/6/5/iii) (with [regs. 10](https://www.legislation.gov.uk/uksi/2021/356/regulation/10), [11](https://www.legislation.gov.uk/uksi/2021/356/regulation/11))
 
 [^c17854891]: Marginal citation: [Paragraph 45](https://www.legislation.gov.uk/uksi/1995/2803/paragraph/45) in Part VI of Schedule 12 to the 1972 Act is applied to a National Park authority by virtue of paragraph 12(1)(a) of Schedule 7 to the 1995 Act.
 
-[^key-d835d15e55e94e644543ca19c6179975]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d835d15e55e94e644543ca19c6179975]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/1995/2803/schedule/3/paragraph/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c17854901]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -827,9 +827,9 @@ This Order also makes provision for an authority to send copies of reports etc t
 
 [^c17854931]: Marginal citation: Subsection (1) of section 177 was substituted by the 1989 Act, Schedule 11, paragraph 28(2). It was amended by [S.I. 1991/446](https://www.legislation.gov.uk/uksi/1991/446).
 
-[^key-56d6ae94cc3fa80a8a8f54b609f9e7aa]: Textual amendment: [Sch. 5 paras. 2A-2D](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/2A) inserted (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/1)
+[^c-56d6ae94cc3fa80a8a8f54b609f9e7aa]: Textual amendment: [Sch. 5 paras. 2A-2D](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/2A) inserted (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/1)
 
-[^key-c5350e1854e39290d7d8a19292c11416]: Textual amendment: [Sch. 5 para. 2E](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/2E) inserted (31.5.1996) by [The National Park Authorities (Wales) (Amendment No. 2) Order 1996 (S.I. 1996/1224)](https://www.legislation.gov.uk/uksi/1996/1224), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1224/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1996/1224/article/2/a)
+[^c-c5350e1854e39290d7d8a19292c11416]: Textual amendment: [Sch. 5 para. 2E](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/2E) inserted (31.5.1996) by [The National Park Authorities (Wales) (Amendment No. 2) Order 1996 (S.I. 1996/1224)](https://www.legislation.gov.uk/uksi/1996/1224), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1224/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1996/1224/article/2/a)
 
 [^c17854941]: Marginal citation: [S.I. 1983/1761](https://www.legislation.gov.uk/uksi/1983/1761): relevant amendments were made by [S.I. 1986/1271](https://www.legislation.gov.uk/uksi/1986/1271); [S.I. 1990/435](https://www.legislation.gov.uk/uksi/1990/435) and [S.I. 1994/3018](https://www.legislation.gov.uk/uksi/1994/3018). A National Park authority is a body whose accounts are required to be audited in accordance with [Part III of the Local Government Finance Act 1982 (c.32)](https://www.legislation.gov.uk/ukpga/1982/32) by paragraph 19(1) of Schedule 7 to the 1995 Act.
 
@@ -847,19 +847,19 @@ This Order also makes provision for an authority to send copies of reports etc t
 
 [^c17855011]: Marginal citation: [S.I. 1995/1040](https://www.legislation.gov.uk/uksi/1995/1040). Paragraph 12 of Schedule 8 to the 1995 Act makes a National Park authority for a National Park in Wales a new principal council for the purposes of section 25 of the 1994 Act (service agency agreements), under which these Regulations are made.
 
-[^key-2680aee61a886603a90e421efba221dc]: Textual amendment: [Sch. 5 paras. 11-21](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/11) added (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/2)
+[^c-2680aee61a886603a90e421efba221dc]: Textual amendment: [Sch. 5 paras. 11-21](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/11) added (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/2)
 
-[^key-63bcb86daaf978b029193931c1315a3c]: Textual amendment: [Sch. 5 para. 12 and heading](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/12) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2024/924/regulation/18)
+[^c-63bcb86daaf978b029193931c1315a3c]: Textual amendment: [Sch. 5 para. 12 and heading](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/12) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2024/924/regulation/18)
 
-[^key-3418f252359481251e1b2015642c4511]: Textual amendment: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/15) omitted (4.11.2024) by virtue of [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/wsi/2024/930/schedule/4/paragraph/7)
+[^c-3418f252359481251e1b2015642c4511]: Textual amendment: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/15) omitted (4.11.2024) by virtue of [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/wsi/2024/930/schedule/4/paragraph/7)
 
-[^key-54fa34d8ceca3a897079dccece38d495]: Textual amendment: [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/16) omitted (28.3.1997) by virtue of [The Litter Control Areas (Amendment) Order 1997 (S.I. 1997/633)](https://www.legislation.gov.uk/uksi/1997/633), [arts. 1](https://www.legislation.gov.uk/uksi/1997/633/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1997/633/article/3/1)
+[^c-54fa34d8ceca3a897079dccece38d495]: Textual amendment: [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/16) omitted (28.3.1997) by virtue of [The Litter Control Areas (Amendment) Order 1997 (S.I. 1997/633)](https://www.legislation.gov.uk/uksi/1997/633), [arts. 1](https://www.legislation.gov.uk/uksi/1997/633/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1997/633/article/3/1)
 
-[^key-e0cafc84a012c1f040d9283f665065cc]: Textual amendment: [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/20) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-e0cafc84a012c1f040d9283f665065cc]: Textual amendment: [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/20) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-c488ba06cb52e28f7329287462886a87]: Textual amendment: [Sch. 5 para. 21](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/21) revoked (W.) (30.4.2012) by [The Town and Country Planning (Development Management Procedure) (Wales) Order 2012 (S.I. 2012/801)](https://www.legislation.gov.uk/wsi/2012/801), [art. 1(1)](https://www.legislation.gov.uk/wsi/2012/801/article/1/1), [Sch. 8](https://www.legislation.gov.uk/wsi/2012/801/schedule/8) (with [art. 1(2)-(4)](https://www.legislation.gov.uk/wsi/2012/801/article/1/2), [33(2)](https://www.legislation.gov.uk/wsi/2012/801/article/33/2)[(3)](https://www.legislation.gov.uk/wsi/2012/801/article/33/3)) (as amended (1.3.2016) by [S.I. 2016/55](https://www.legislation.gov.uk/uksi/2016/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/55/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2016/55/article/32/2) (with [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/55/article/1/2/3))
+[^c-c488ba06cb52e28f7329287462886a87]: Textual amendment: [Sch. 5 para. 21](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/21) revoked (W.) (30.4.2012) by [The Town and Country Planning (Development Management Procedure) (Wales) Order 2012 (S.I. 2012/801)](https://www.legislation.gov.uk/wsi/2012/801), [art. 1(1)](https://www.legislation.gov.uk/wsi/2012/801/article/1/1), [Sch. 8](https://www.legislation.gov.uk/wsi/2012/801/schedule/8) (with [art. 1(2)-(4)](https://www.legislation.gov.uk/wsi/2012/801/article/1/2), [33(2)](https://www.legislation.gov.uk/wsi/2012/801/article/33/2)[(3)](https://www.legislation.gov.uk/wsi/2012/801/article/33/3)) (as amended (1.3.2016) by [S.I. 2016/55](https://www.legislation.gov.uk/uksi/2016/55), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/55/article/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2016/55/article/32/2) (with [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/55/article/1/2/3))
 
-[^key-5469f999d750a5f09a83ed583bc9d44f]: Textual amendment: [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/22) added (31.5.1996) by [The National Park Authorities (Wales) (Amendment No. 2) Order 1996 (S.I. 1996/1224)](https://www.legislation.gov.uk/uksi/1996/1224), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1224/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/1224/article/2/b)
+[^c-5469f999d750a5f09a83ed583bc9d44f]: Textual amendment: [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/22) added (31.5.1996) by [The National Park Authorities (Wales) (Amendment No. 2) Order 1996 (S.I. 1996/1224)](https://www.legislation.gov.uk/uksi/1996/1224), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1224/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/1224/article/2/b)
 
 [^c17855021]: Marginal citation: [Section 116](https://www.legislation.gov.uk/uksi/1995/2803/section/116) of the 1972 Act is applied to a National Park authority by virtue of paragraph 13(6) of Schedule 7 to the 1995 Act.
 

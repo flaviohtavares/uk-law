@@ -25,7 +25,7 @@ summary: ''
 - (a) any Local Pharmaceutical Committee for its area (including any Local Pharmaceutical Committee for part of its area or for its area and that of all or part of the area of one or more other HWBs);
 - (b) any Local Medical Committee for its area (including any Local Medical Committee for part of its area or for its area and that of all or part of the area of one or more other HWBs);
 - (c) any persons on the pharmaceutical lists and any dispensing doctors list for its area;
-- (d) any LPS chemist in its area with whom NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] has made arrangements for the provision of any local pharmaceutical services;
+- (d) any LPS chemist in its area with whom NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] has made arrangements for the provision of any local pharmaceutical services;
 - (e) any Local Healthwatch organisation for its area, and any other patient, consumer or community group in its area which in the opinion of HWB1 has an interest in the provision of pharmaceutical services in its area; and
 - (f) any NHS trust or NHS foundation trust in its area;
 - (g) NHS England; and
@@ -51,4 +51,4 @@ but requests a copy of the draft in hard copy form, HWB1 must as soon as is prac
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

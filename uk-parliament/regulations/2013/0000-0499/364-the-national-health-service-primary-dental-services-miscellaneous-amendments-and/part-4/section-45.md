@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Amendment of regulation 3[^key-49c496bd6d6caf605f8a528811db371a]
+## 45. Amendment of regulation 3[^c-49c496bd6d6caf605f8a528811db371a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In regulation 3 (charges for the provision of dental services)—
 
 ## Annotations
 
-[^key-49c496bd6d6caf605f8a528811db371a]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2013/364/regulation/45) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-49c496bd6d6caf605f8a528811db371a]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2013/364/regulation/45) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Separate account for each capacity of membership[^key-64e73632ce3c2e08f41a297c500eacf4]
+## 78. Separate account for each capacity of membership[^c-64e73632ce3c2e08f41a297c500eacf4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64e73632ce3c2e08f41a297c500eacf4]: Commencement: [Reg. 78](https://www.legislation.gov.uk/ssi/2014/292/regulation/78) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-64e73632ce3c2e08f41a297c500eacf4]: Commencement: [Reg. 78](https://www.legislation.gov.uk/ssi/2014/292/regulation/78) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

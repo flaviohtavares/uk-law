@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Military application[^key-610f9803e7416c8b274c88a4e954182a]
+## 101. Military application[^c-610f9803e7416c8b274c88a4e954182a]
 
 *Extent: E+W+S+N.I.*
 
-(1) This Part shall not apply to a function or activity which is performed or carried out by a member of any of Her Majesty's forces (within the meaning of the Armed Forces Act 2006)[^key-81d5b04d0d28309ecd2545cc4f825317] , acting in the course of his duties.
+(1) This Part shall not apply to a function or activity which is performed or carried out by a member of any of Her Majesty's forces (within the meaning of the Armed Forces Act 2006)[^c-81d5b04d0d28309ecd2545cc4f825317] , acting in the course of his duties.
 
 (2) This Part shall not apply to a function or activity which is performed or carried out by—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-610f9803e7416c8b274c88a4e954182a]: Commencement: S. 101 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(x)](https://www.legislation.gov.uk/uksi/2004/827/article/3/x)
+[^c-610f9803e7416c8b274c88a4e954182a]: Commencement: S. 101 in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(x)](https://www.legislation.gov.uk/uksi/2004/827/article/3/x)
 
-[^key-81d5b04d0d28309ecd2545cc4f825317]: Textual amendment: Words in [s. 101(1)](https://www.legislation.gov.uk/ukpga/2003/20/section/101/1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 199](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/199); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-81d5b04d0d28309ecd2545cc4f825317]: Textual amendment: Words in [s. 101(1)](https://www.legislation.gov.uk/ukpga/2003/20/section/101/1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 199](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/199); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

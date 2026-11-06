@@ -41,11 +41,11 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred by sections 5, 5A and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and now vested in it[^f00002], hereby makes the following Order:
 
-## 1. Title and commencement[^key-40f03e6d0f380f4a56ea5350785b66d0]
+## 1. Title and commencement[^c-40f03e6d0f380f4a56ea5350785b66d0]
 
 This Order is called the The Shellfish (Specified Sea Area) (Prohibition of Fishing Methods) (Wales) Order 2003 and comes into force on 9th March 2003.
 
-## 2. Interpretation[^key-fb28cbdf4e619438ba3724ba6661aeba]
+## 2. Interpretation[^c-fb28cbdf4e619438ba3724ba6661aeba]
 
 In this Order—
 
@@ -54,13 +54,13 @@ In this Order—
 - “hydraulic dredging” (“*carthu hydrolig*”) means a method of fishing for bivalve molluscs buried in the sea bed whereby the dredge is trailed behind the boat at the end of a 10-20cm diameter pipe and water is pumped at high pressure to the mouth of the dredge and directed back up the pipe creating suction causing material, including the fish being dredged for, to be lifted to the surface of the water;
 - “the specified sea area” (“*yr ardal fôr benodedig*”) means that area of Carmarthen Bay north of a line directly southwards from the Gower Peninsula to a point whose co-ordinates are 04°10−W, 51°30−N then westwards to 04°27−W, 51°30−N, then northwards to 04°27−W, 51°36−N, then westwards to 04°42−W, 51°36−N, then directly northwards across Caldey Island to the coastline at Tenby.
 
-## 3. Prohibition[^key-5ba99bc810bd9e4ffe74aad55726b536]
+## 3. Prohibition[^c-5ba99bc810bd9e4ffe74aad55726b536]
 
 The use of hydraulic dredging to recover bivalve molluscs in the specified sea area is hereby prohibited.
 
-## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-82274e9d21dc9bbac6361624121606a4]
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^c-82274e9d21dc9bbac6361624121606a4]
 
-(1) For the purpose of the enforcement of article 2 of this Order a British sea-fishery officer may exercise in relation to any fishing boat[^key-21d3a49da284b5478f92a1153455821a] within the territorial sea adjacent to Wales the powers conferred by paragraphs (2) to (4) of this Article.
+(1) For the purpose of the enforcement of article 2 of this Order a British sea-fishery officer may exercise in relation to any fishing boat[^c-21d3a49da284b5478f92a1153455821a] within the territorial sea adjacent to Wales the powers conferred by paragraphs (2) to (4) of this Article.
 
 (2) The officer may go on board the boat, with or without persons assigned to assist with the officer’s duties, and for that purpose may require the boat to stop and may do anything else that would facilitate the boarding of the boat
 
@@ -102,14 +102,14 @@ The Order contains provisions relating to enforcement. Other provisions, includi
 
 [^f00002]: Footnote: By virtue of the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999 No. 672)](https://www.legislation.gov.uk/uksi/1999/672) the functions of “the Ministers” under the Act were transferred to the National Assembly.
 
-[^key-40f03e6d0f380f4a56ea5350785b66d0]: Commencement: Art. 1 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+[^c-40f03e6d0f380f4a56ea5350785b66d0]: Commencement: Art. 1 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
 
-[^key-fb28cbdf4e619438ba3724ba6661aeba]: Commencement: Art. 2 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+[^c-fb28cbdf4e619438ba3724ba6661aeba]: Commencement: Art. 2 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
 
-[^key-5ba99bc810bd9e4ffe74aad55726b536]: Commencement: Art. 3 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+[^c-5ba99bc810bd9e4ffe74aad55726b536]: Commencement: Art. 3 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
 
-[^key-82274e9d21dc9bbac6361624121606a4]: Commencement: Art. 4 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
+[^c-82274e9d21dc9bbac6361624121606a4]: Commencement: Art. 4 in force at 9.3.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/607/article/1)
 
-[^key-21d3a49da284b5478f92a1153455821a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2003/607/article/4/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/9/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-21d3a49da284b5478f92a1153455821a]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2003/607/article/4/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/9/2/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

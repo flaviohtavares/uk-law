@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The General Teaching Council for Wales (Constitution) (Amendment) Regulations 2012 (revoked)[^key-ce76be0d2536b2130511b2036bea081c]
+The General Teaching Council for Wales (Constitution) (Amendment) Regulations 2012 (revoked)[^c-ce76be0d2536b2130511b2036bea081c]
 
 Made
 
@@ -43,24 +43,24 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-ce76be0d2536b2130511b2036bea081c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce76be0d2536b2130511b2036bea081c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-ce76be0d2536b2130511b2036bea081c]
+## 1. Title and commencement[^c-ce76be0d2536b2130511b2036bea081c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the General Teaching Council for Wales (Constitution) Regulations 1999[^key-ce76be0d2536b2130511b2036bea081c]
+## 2. Amendment of the General Teaching Council for Wales (Constitution) Regulations 1999[^c-ce76be0d2536b2130511b2036bea081c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce76be0d2536b2130511b2036bea081c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce76be0d2536b2130511b2036bea081c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ce76be0d2536b2130511b2036bea081c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce76be0d2536b2130511b2036bea081c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce76be0d2536b2130511b2036bea081c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/169) revoked (1.4.2015) by [The Education Workforce Council (Membership and Appointment) (Wales) Regulations 2014 (S.I. 2014/2365)](https://www.legislation.gov.uk/wsi/2014/2365), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/1)
+[^c-ce76be0d2536b2130511b2036bea081c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/169) revoked (1.4.2015) by [The Education Workforce Council (Membership and Appointment) (Wales) Regulations 2014 (S.I. 2014/2365)](https://www.legislation.gov.uk/wsi/2014/2365), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/1)

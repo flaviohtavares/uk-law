@@ -46,13 +46,13 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and application[^key-686ed0376a01f16193e5cd9ed26d59bc]
+### 1. Citation, commencement and application[^c-686ed0376a01f16193e5cd9ed26d59bc]
 
 (1) These Regulations may be cited as the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (Wales) Regulations 2013 and they come into force on the day after the day on which they are made.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-f076bbd45ec29b13dcfc571de41d1309]
+### 2. Interpretation[^c-f076bbd45ec29b13dcfc571de41d1309]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 2 — REPRESENTATIONS AND APPEALS IN RELATION TO NOTICES TO OWNER
 
-### 3. Scope of Part 2 and duty to notify rights to make representations and to appeal[^key-eea99d2dd0714400d130ec69413f0144]
+### 3. Scope of Part 2 and duty to notify rights to make representations and to appeal[^c-eea99d2dd0714400d130ec69413f0144]
 
 (1) Regulations 4 to 7 have effect where—
 
@@ -128,7 +128,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 (6) Where the recipient of the penalty charge notice makes a request under paragraph (5), the enforcement authority must comply with the request within a reasonable time.
 
-### 4. Representations against notice to owner[^key-2386dd3b5835c3987f35a0fdeada615e]
+### 4. Representations against notice to owner[^c-2386dd3b5835c3987f35a0fdeada615e]
 
 (1) The recipient may make representations against a notice to owner to the enforcement authority which served that notice.
 
@@ -177,7 +177,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 (9) In this regulation “hiring agreement” and “vehicle-hire firm” have the same meanings as in section 66 of the Road Traffic Offenders Act 1988[^f00008]
 
-### 5. Duty of enforcement authority to which representations are made[^key-0f906d4c27dd860937fe6d4cdd330fe9]
+### 5. Duty of enforcement authority to which representations are made[^c-0f906d4c27dd860937fe6d4cdd330fe9]
 
 (1) The enforcement authority may disregard any representations which it receives after the end of the period of 28 days beginning with the date of service of the relevant notice to owner.
 
@@ -206,7 +206,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 - (b) refund any sum paid in relation to the notice to owner; and
 - (c) serve a notice on the person making the representations informing them that the notice to owner has been cancelled because the enforcement authority failed to serve notice of their decision in accordance with paragraph (2)(b).
 
-### 6. Rejection of representations against notice to owner[^key-4d4e1f9cf3ad793ba3d1edd9d48f8d57]
+### 6. Rejection of representations against notice to owner[^c-4d4e1f9cf3ad793ba3d1edd9d48f8d57]
 
 (1) Where representations are made under regulation 4 and the enforcement authority serves a notice of rejection under regulation 5(2)(b), that notice must—
 
@@ -222,7 +222,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 (4) In paragraph (3), “applicable discount” has the same meaning as in regulation 2 of the General Provisions Regulations.
 
-### 7. Appeals to an adjudicator in relation to decisions under regulation 5[^key-de574d34943f5a05a130a63100f89193]
+### 7. Appeals to an adjudicator in relation to decisions under regulation 5[^c-de574d34943f5a05a130a63100f89193]
 
 (1) Where an enforcement authority serves a notice of rejection under regulation 5(2)(b) in relation to representations made under regulation 4, the person making those representations may appeal to an adjudicator against the authority’s decision—
 
@@ -253,7 +253,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 3 — REPRESENTATIONS AND APPEALS IN RELATION TO THE IMMOBILISATION OF VEHICLES
 
-### 8. Right to make representations[^key-7dae74e2dad2ee150687acf9d1da24ee]
+### 8. Right to make representations[^c-7dae74e2dad2ee150687acf9d1da24ee]
 
 (1) This regulation applies to the owner or person in charge of a vehicle where—
 
@@ -287,7 +287,7 @@ and any such representations must be in such form as may be specified by the enf
 
 (6) In determining the form for making representations an enforcement authority must act through the joint committee through which, in accordance with regulation 15 of the General Provisions Regulations, it exercises its function relating to adjudicators.
 
-### 9. Duty of enforcement authority to which representations are made[^key-646bee1b5751c7243cd34c3fed979785]
+### 9. Duty of enforcement authority to which representations are made[^c-646bee1b5751c7243cd34c3fed979785]
 
 (1) The enforcement authority may disregard any representations which are received by it after the end of the period of 28 days beginning with the date on which the person making them is informed under regulation 8(2) of their right to make representations.
 
@@ -313,7 +313,7 @@ and any such representations must be in such form as may be specified by the enf
 - (a) it is to be deemed to have accepted the representations and to have served notice to that effect under paragraph (2)(b); and
 - (b) must immediately after the end of that period refund all such sums as are mentioned in paragraph (3).
 
-### 10. Appeals to an adjudicator in relation to decisions under regulation 9[^key-eb16e775c920583c199fadc7c7a45c51]
+### 10. Appeals to an adjudicator in relation to decisions under regulation 9[^c-eb16e775c920583c199fadc7c7a45c51]
 
 (1) Where an enforcement authority serves a notice of rejection under regulation 9(2)(b) in relation to representations made under regulation 8(4), the person making those representations may appeal to an adjudicator against the authority’s decision—
 
@@ -345,13 +345,13 @@ the adjudicator must direct that authority to make the necessary refund.
 
 ## PART 4 — OFFENCES AND PROCEDURE
 
-### 11. False representations[^key-9b1373d459a886d8fc5fa8efdf69a394]
+### 11. False representations[^c-9b1373d459a886d8fc5fa8efdf69a394]
 
 (1) A person who makes any representation under Part 2 or 3 of these Regulations or under the Schedule so far as it relates to an appeal under Part 2 or 3, which is false in a material particular, and does so recklessly or knowing it to be false, is guilty of an offence.
 
 (2) A person convicted of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 12. Procedure to be followed by adjudicators, service of documents and recovery of sums payable[^key-cb53de7a6857ff65c197e10baab55e7b]
+### 12. Procedure to be followed by adjudicators, service of documents and recovery of sums payable[^c-cb53de7a6857ff65c197e10baab55e7b]
 
 (1) The Schedule to these Regulations has effect as to the procedure and service of documents in adjudication proceedings and the register.
 
@@ -364,7 +364,7 @@ the adjudicator must direct that authority to make the necessary refund.
 
 is, if a county court so orders, to be recoverable by the person to whom the amount is payable as if it were payable under a county court order.
 
-### 13. Revocation[^key-2d03dc4f85b9a195d9cd1b68aee5c8f7]
+### 13. Revocation[^c-2d03dc4f85b9a195d9cd1b68aee5c8f7]
 
 The Civil Enforcement of Parking Contraventions (Representations and Appeals) (Wales) Regulations 2008[^f00009] are hereby revoked.
 
@@ -376,13 +376,13 @@ Ministry of Justice
 
 26th February 2013
 
-## SCHEDULE — PROCEDURE IN ADJUDICATION PROCEEDINGS[^key-45686887a94e20c06f2997bb456440d1]
+## SCHEDULE — PROCEDURE IN ADJUDICATION PROCEEDINGS[^c-45686887a94e20c06f2997bb456440d1]
 
 Regulation 12
 
 ### PART 1 — INTERPRETATION
 
-#### 1. Interpretation of Schedule[^key-2a22ba2530a9ab4b76cb595232cc576b]
+#### 1. Interpretation of Schedule[^c-2a22ba2530a9ab4b76cb595232cc576b]
 
 (1) In this Schedule—
 
@@ -402,7 +402,7 @@ Regulation 12
 
 ### PART 2 — PROCEDURE RELATING TO APPEALS
 
-#### 2. Initiating an appeal[^key-b088307e23714719e7df9fc58b7a4cb0]
+#### 2. Initiating an appeal[^c-b088307e23714719e7df9fc58b7a4cb0]
 
 (1) An appeal is to be made by delivering a notice of appeal to the proper officer.
 
@@ -416,7 +416,7 @@ Regulation 12
 
 (3) If the notice of appeal is delivered to the proper officer later than the time limit specified in regulation 7(1)(a) or 10(1)(a) (as the case may be), the appellant must include in the notice a statement of the reasons which are relied upon for justifying the delay, and the adjudicator must treat any such statement of reasons for delay as a request for extending that time limit.
 
-#### 3. Action upon receipt of notice of appeal and copy of such notice[^key-99fc33618ae5a9acd3889cdb0cbf237e]
+#### 3. Action upon receipt of notice of appeal and copy of such notice[^c-99fc33618ae5a9acd3889cdb0cbf237e]
 
 (1) Upon receiving a notice of appeal the proper officer must —
 
@@ -444,7 +444,7 @@ Regulation 12
 
 the proper officer must inform the appellant that the adjudicator has declined the request for an extension or, as the case may be, of the reasons why the adjudicator considers that the notice does not accord with paragraph 2 and must record the action taken in the register.
 
-#### 4. Further representations[^key-57b7b27afea6bb219bdaa7110d80fe01]
+#### 4. Further representations[^c-57b7b27afea6bb219bdaa7110d80fe01]
 
 (1) Any party may deliver representations in relation to the matters referred to in regulation 4(2)(b) or 8(4), as appropriate in the circumstances, to the proper officer at any time before the appeal is determined.
 
@@ -460,7 +460,7 @@ the proper officer must inform the appellant that the adjudicator has declined t
 
 (7) This paragraph is without prejudice to the powers of an adjudicator under paragraph 10.
 
-#### 5. Adjudicator’s power to require attendance of witnesses and production of documents[^key-5d969a1081484e74fea491eb368a6784]
+#### 5. Adjudicator’s power to require attendance of witnesses and production of documents[^c-5d969a1081484e74fea491eb368a6784]
 
 (1) The adjudicator may, by notice in writing sent to any person (including a party to the proceedings), require that person—
 
@@ -479,7 +479,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (6) Any person who fails to comply with a requirement made under sub-paragraph (1) is guilty of an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-#### 6. Disposal of an appeal without a hearing[^key-319366f6eff9c704f6ce61cd29b1c280]
+#### 6. Disposal of an appeal without a hearing[^c-319366f6eff9c704f6ce61cd29b1c280]
 
 (1) Subject to the following provisions of this paragraph, the adjudicator may dispose of an appeal without a hearing.
 
@@ -496,7 +496,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 - (a) there has elapsed a period of 28 days beginning with the date on which an acknowledgment is sent in accordance with paragraph 3(1) during which neither party has requested a hearing; or
 - (b) both parties have consented to its disposal without a hearing.
 
-#### 7. Notice of time and place of hearing[^key-14b5f8cbba34dfe0710b2f1566602f19]
+#### 7. Notice of time and place of hearing[^c-14b5f8cbba34dfe0710b2f1566602f19]
 
 (1) This paragraph has effect where a hearing is to be held for the purpose of disposing of an appeal.
 
@@ -514,7 +514,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (4) This paragraph applies to an adjourned hearing but, if before the adjournment, the time and place of the adjourned hearing are notified to all persons expected to attend, no further notice is required.
 
-#### 8. Admission to a hearing[^key-02d2c9004242e930230a42a6566f0223]
+#### 8. Admission to a hearing[^c-02d2c9004242e930230a42a6566f0223]
 
 (1) Subject to the provisions of this paragraph, a hearing is to be held in public.
 
@@ -530,7 +530,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (5) Without prejudice to any other powers an adjudicator may have, the adjudicator may exclude from the hearing of an appeal, or part of it, any person whose conduct has disrupted or is likely, in the opinion of the adjudicator, to disrupt the hearing.
 
-#### 9. Appearances at a hearing[^key-38f5476569e1730b3ffe2172696d6dbd]
+#### 9. Appearances at a hearing[^c-38f5476569e1730b3ffe2172696d6dbd]
 
 (1) The appellant and the enforcement authority are entitled to appear at the hearing of an appeal.
 
@@ -540,7 +540,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (4) If in any particular case the adjudicator is satisfied that there are sufficient reasons for doing so, the adjudicator may prohibit a particular person from assisting or representing either party at the hearing.
 
-#### 10. Procedure at a hearing[^key-29abaf5070226c7263d373eea6c920de]
+#### 10. Procedure at a hearing[^c-29abaf5070226c7263d373eea6c920de]
 
 (1) At the beginning of the hearing of an appeal the adjudicator must explain the order of proceedings.
 
@@ -553,7 +553,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (4) Without prejudice to paragraph 6(3)(c), where a party who has been sent a notice of the hearing of an appeal or has otherwise been notified of the hearing in accordance with paragraph 7 fails to attend the hearing, the adjudicator may dispose of the appeal in that party’s absence.
 
-#### 11. Decisions on appeals[^key-ef2a67e2b9500deab1a44cac0f6e50d5]
+#### 11. Decisions on appeals[^c-ef2a67e2b9500deab1a44cac0f6e50d5]
 
 (1) The adjudicator must give the reasons for a decision on an appeal.
 
@@ -564,7 +564,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 - (a) as soon as practicable record the decision in the register, together with the adjudicator’s reasons and any directions given; and
 - (b) send a copy of the register entry to each party.
 
-#### 12. Review of adjudicator’s decision[^key-d80cf13ef6e5f5d0363b5c1871075533]
+#### 12. Review of adjudicator’s decision[^c-d80cf13ef6e5f5d0363b5c1871075533]
 
 (1) The adjudicator may, on the application of a party, review—
 
@@ -590,7 +590,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (6) Paragraph 11 applies to the confirmation, revocation or variation of a decision under this paragraph as it applies to a decision made on the disposal of an appeal.
 
-#### 13. Costs[^key-de869d2c49d05b2a1df740358b54eadb]
+#### 13. Costs[^c-de869d2c49d05b2a1df740358b54eadb]
 
 (1) The adjudicator is not normally to make an order awarding costs and expenses, but may, subject to sub-paragraph (2) make such an order—
 
@@ -601,7 +601,7 @@ and any such notice must contain a statement of the effect of sub-paragraphs (2)
 
 (3) An order under sub-paragraph (1) must require the party against whom it is made to pay to the other party a specified sum in respect of the costs and expenses incurred by that other party in connection with the proceedings.
 
-#### 14. Consolidation of proceedings[^key-0bce4710efb6215a8a2e07340b84c62b]
+#### 14. Consolidation of proceedings[^c-0bce4710efb6215a8a2e07340b84c62b]
 
 (1) Where there are pending two or more appeals and at any time it appears to an adjudicator that—
 
@@ -612,7 +612,7 @@ the adjudicator may order that both or all of the appeals or those specified in 
 
 (2) An order must not be made under this paragraph unless all parties concerned have been given an opportunity of making representations against the making of the order.
 
-#### 15. Miscellaneous powers of adjudicators[^key-1782210e4e854db19248337424240c07]
+#### 15. Miscellaneous powers of adjudicators[^c-1782210e4e854db19248337424240c07]
 
 (1) An adjudicator may—
 
@@ -624,13 +624,13 @@ the adjudicator may order that both or all of the appeals or those specified in 
 
 (2) An adjudicator may exercise the powers conferred by this Schedule (other than paragraph 12) on the application of a party or on the adjudicator’s own motion.
 
-#### 16. Clerical errors[^key-b136fea1fd757d005e64e1c962585ced]
+#### 16. Clerical errors[^c-b136fea1fd757d005e64e1c962585ced]
 
 Clerical mistakes in any document recording a direction or decision of the adjudicator, or errors in such a document arising from an accidental slip or omission, may be corrected by the proper officer on the direction of the adjudicator.
 
 ### PART 3 — SERVICE OF DOCUMENTS AND NOTICES
 
-#### 17. Service of documents on the parties[^key-879c1ef483da92b37a8210a6a27ae897]
+#### 17. Service of documents on the parties[^c-879c1ef483da92b37a8210a6a27ae897]
 
 (1) This paragraph has effect in relation to any notice or other document required or authorised by these Regulations to be sent to a party to an appeal.
 
@@ -675,7 +675,7 @@ and unless the contrary is proved, any such document so left is to be taken to h
 - (a) left at the proper address of a party is to be taken to have been delivered on the first working day after the day on which it was left;
 - (b) sent by fax or other means of electronic transmission is to be taken to have been delivered on the first working day after the day on which it was transmitted.
 
-#### 18. Delivery of notices or documents to the proper officer[^key-5a6eb224a60cfe37efab0a2fa709c5e4]
+#### 18. Delivery of notices or documents to the proper officer[^c-5a6eb224a60cfe37efab0a2fa709c5e4]
 
 (1) This paragraph has effect in relation to any notice or other document required or authorised by or under this Part to be delivered to the proper officer.
 
@@ -697,14 +697,14 @@ and any such document so left is to be taken to have been delivered on the secon
 
 ### PART 4 — DIRECTIONS AS TO INVALID NOTICES
 
-#### 19. Scope of Part 4[^key-9c74ebe39562e38647b63d8d4bf59774]
+#### 19. Scope of Part 4[^c-9c74ebe39562e38647b63d8d4bf59774]
 
 Paragraph 20 applies where—
 
 - (a) the order of a county court which has been made against a person (“a relevant person”) in accordance with regulation 21 of the General Provisions Regulations is deemed to have been revoked following the making of a witness statement; and
 - (b) the enforcement authority has referred the case to the adjudicator for directions.
 
-#### 20. Procedure[^key-e518deabf55f6ba0639160ca337a05f9]
+#### 20. Procedure[^c-e518deabf55f6ba0639160ca337a05f9]
 
 (1) In a case to which this paragraph applies—
 
@@ -718,7 +718,7 @@ Paragraph 20 applies where—
 
 ### PART 5 — THE REGISTER
 
-#### 21. The register[^key-8cc9ac302b45ed2718a2097a9b929002]
+#### 21. The register[^c-8cc9ac302b45ed2718a2097a9b929002]
 
 (1) The proper officer must establish and maintain, in accordance with the following provisions of this paragraph, a register for the purpose of recording proceedings conducted under these Regulations.
 
@@ -752,9 +752,9 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-686ed0376a01f16193e5cd9ed26d59bc]: Commencement: Reg. 1 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-686ed0376a01f16193e5cd9ed26d59bc]: Commencement: Reg. 1 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-f076bbd45ec29b13dcfc571de41d1309]: Commencement: Reg. 2 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-f076bbd45ec29b13dcfc571de41d1309]: Commencement: Reg. 2 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
 [^f00003]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
 
@@ -762,82 +762,82 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00005]: Footnote: “owner” is defined in section 92 Traffic Management Act 2004.
 
-[^key-eea99d2dd0714400d130ec69413f0144]: Commencement: Reg. 3 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-eea99d2dd0714400d130ec69413f0144]: Commencement: Reg. 3 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
 [^f00006]: Footnote: Regulation 10(1)(a) of the General Provisions Regulations applies to a penalty charge notice served on the basis of a record produced by an approved device.
 
-[^key-2386dd3b5835c3987f35a0fdeada615e]: Commencement: Reg. 4 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-2386dd3b5835c3987f35a0fdeada615e]: Commencement: Reg. 4 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
 [^f00007]: Footnote: See Schedule 9, paragraph 34(1) of the 1984 Act as to the Orders to which Part VI of that Schedule applies; paragraph 34 of Schedule 9 was amended by the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17 and by the Road Traffic Regulation (Special Events) Act [1994 (c.11)](https://www.legislation.gov.uk/ukpga/1994/11), Schedule, paragraph 5(3).
 
 [^f00008]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53). Section 66 was amended by the Road Safety Act 2006, section 5, Schedule 1, paragraphs 1,8 and 9 and section 59, Schedule 7.
 
-[^key-0f906d4c27dd860937fe6d4cdd330fe9]: Commencement: Reg. 5 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-0f906d4c27dd860937fe6d4cdd330fe9]: Commencement: Reg. 5 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-4d4e1f9cf3ad793ba3d1edd9d48f8d57]: Commencement: Reg. 6 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-4d4e1f9cf3ad793ba3d1edd9d48f8d57]: Commencement: Reg. 6 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-de574d34943f5a05a130a63100f89193]: Commencement: Reg. 7 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-de574d34943f5a05a130a63100f89193]: Commencement: Reg. 7 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-7dae74e2dad2ee150687acf9d1da24ee]: Commencement: Reg. 8 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-7dae74e2dad2ee150687acf9d1da24ee]: Commencement: Reg. 8 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-646bee1b5751c7243cd34c3fed979785]: Commencement: Reg. 9 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-646bee1b5751c7243cd34c3fed979785]: Commencement: Reg. 9 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-eb16e775c920583c199fadc7c7a45c51]: Commencement: Reg. 10 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-eb16e775c920583c199fadc7c7a45c51]: Commencement: Reg. 10 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-9b1373d459a886d8fc5fa8efdf69a394]: Commencement: Reg. 11 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-9b1373d459a886d8fc5fa8efdf69a394]: Commencement: Reg. 11 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-cb53de7a6857ff65c197e10baab55e7b]: Commencement: Reg. 12 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-cb53de7a6857ff65c197e10baab55e7b]: Commencement: Reg. 12 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-2d03dc4f85b9a195d9cd1b68aee5c8f7]: Commencement: Reg. 13 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-2d03dc4f85b9a195d9cd1b68aee5c8f7]: Commencement: Reg. 13 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2008/608](https://www.legislation.gov.uk/uksi/2008/608).
 
-[^key-45686887a94e20c06f2997bb456440d1]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2013/359/schedule) incorporated (with modifications) (27.2.2013) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) Removed Vehicles (Wales) Regulations 2013 (S.I. 2013/361)](https://www.legislation.gov.uk/wsi/2013/361), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/361/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2013/361/regulation/6)
+[^c-45686887a94e20c06f2997bb456440d1]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2013/359/schedule) incorporated (with modifications) (27.2.2013) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) Removed Vehicles (Wales) Regulations 2013 (S.I. 2013/361)](https://www.legislation.gov.uk/wsi/2013/361), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/361/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2013/361/regulation/6)
 
-[^key-2a22ba2530a9ab4b76cb595232cc576b]: Commencement: Sch. para. 1 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-2a22ba2530a9ab4b76cb595232cc576b]: Commencement: Sch. para. 1 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
 [^f00010]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
 [^f00011]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b088307e23714719e7df9fc58b7a4cb0]: Commencement: Sch. para. 2 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-b088307e23714719e7df9fc58b7a4cb0]: Commencement: Sch. para. 2 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-99fc33618ae5a9acd3889cdb0cbf237e]: Commencement: Sch. para. 3 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-99fc33618ae5a9acd3889cdb0cbf237e]: Commencement: Sch. para. 3 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-57b7b27afea6bb219bdaa7110d80fe01]: Commencement: Sch. para. 4 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-57b7b27afea6bb219bdaa7110d80fe01]: Commencement: Sch. para. 4 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-5d969a1081484e74fea491eb368a6784]: Commencement: Sch. para. 5 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-5d969a1081484e74fea491eb368a6784]: Commencement: Sch. para. 5 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-319366f6eff9c704f6ce61cd29b1c280]: Commencement: Sch. para. 6 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-319366f6eff9c704f6ce61cd29b1c280]: Commencement: Sch. para. 6 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-14b5f8cbba34dfe0710b2f1566602f19]: Commencement: Sch. para. 7 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-14b5f8cbba34dfe0710b2f1566602f19]: Commencement: Sch. para. 7 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-02d2c9004242e930230a42a6566f0223]: Commencement: Sch. para. 8 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-02d2c9004242e930230a42a6566f0223]: Commencement: Sch. para. 8 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-38f5476569e1730b3ffe2172696d6dbd]: Commencement: Sch. para. 9 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-38f5476569e1730b3ffe2172696d6dbd]: Commencement: Sch. para. 9 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-29abaf5070226c7263d373eea6c920de]: Commencement: Sch. para. 10 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-29abaf5070226c7263d373eea6c920de]: Commencement: Sch. para. 10 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-ef2a67e2b9500deab1a44cac0f6e50d5]: Commencement: Sch. para. 11 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-ef2a67e2b9500deab1a44cac0f6e50d5]: Commencement: Sch. para. 11 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-d80cf13ef6e5f5d0363b5c1871075533]: Commencement: Sch. para. 12 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-d80cf13ef6e5f5d0363b5c1871075533]: Commencement: Sch. para. 12 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-de869d2c49d05b2a1df740358b54eadb]: Commencement: Sch. para. 13 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-de869d2c49d05b2a1df740358b54eadb]: Commencement: Sch. para. 13 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-0bce4710efb6215a8a2e07340b84c62b]: Commencement: Sch. para. 14 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-0bce4710efb6215a8a2e07340b84c62b]: Commencement: Sch. para. 14 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-1782210e4e854db19248337424240c07]: Commencement: Sch. para. 15 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-1782210e4e854db19248337424240c07]: Commencement: Sch. para. 15 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-b136fea1fd757d005e64e1c962585ced]: Commencement: Sch. para. 16 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-b136fea1fd757d005e64e1c962585ced]: Commencement: Sch. para. 16 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-879c1ef483da92b37a8210a6a27ae897]: Commencement: Sch. para. 17 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-879c1ef483da92b37a8210a6a27ae897]: Commencement: Sch. para. 17 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
 [^f00012]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-5a6eb224a60cfe37efab0a2fa709c5e4]: Commencement: Sch. para. 18 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-5a6eb224a60cfe37efab0a2fa709c5e4]: Commencement: Sch. para. 18 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-9c74ebe39562e38647b63d8d4bf59774]: Commencement: Sch. para. 19 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-9c74ebe39562e38647b63d8d4bf59774]: Commencement: Sch. para. 19 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-e518deabf55f6ba0639160ca337a05f9]: Commencement: Sch. para. 20 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-e518deabf55f6ba0639160ca337a05f9]: Commencement: Sch. para. 20 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
 
-[^key-8cc9ac302b45ed2718a2097a9b929002]: Commencement: Sch. para. 21 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)
+[^c-8cc9ac302b45ed2718a2097a9b929002]: Commencement: Sch. para. 21 in force at 27.2.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/359/regulation/1/1)

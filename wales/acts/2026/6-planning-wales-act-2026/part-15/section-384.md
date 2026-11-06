@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 384. Offences of failing to comply with information notice[^key-c5d7907befca1c9560d9056ca6802b24]
+## 384. Offences of failing to comply with information notice[^c-c5d7907befca1c9560d9056ca6802b24]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5d7907befca1c9560d9056ca6802b24]: Commencement: S. 384 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c5d7907befca1c9560d9056ca6802b24]: Commencement: S. 384 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

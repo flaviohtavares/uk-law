@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Interpretation[^key-7d1c73b94bc711f59cf9251cd6094b27]
+## 117. Interpretation[^c-7d1c73b94bc711f59cf9251cd6094b27]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 2 of the Income Tax (Definition of Unit Trust Scheme) Regulations 
 
 ## Annotations
 
-[^key-7d1c73b94bc711f59cf9251cd6094b27]: Commencement: Art. 117 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-7d1c73b94bc711f59cf9251cd6094b27]: Commencement: Art. 117 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

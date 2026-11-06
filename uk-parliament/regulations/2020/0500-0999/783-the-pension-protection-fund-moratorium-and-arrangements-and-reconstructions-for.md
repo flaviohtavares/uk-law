@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment) Regulations 2020 (revoked)[^key-0f8dcf3d1201c7a107687a3a069d71d2]
+The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment) Regulations 2020 (revoked)[^c-0f8dcf3d1201c7a107687a3a069d71d2]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 23rd July 2020
 
-[^key-0f8dcf3d1201c7a107687a3a069d71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f8dcf3d1201c7a107687a3a069d71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0f8dcf3d1201c7a107687a3a069d71d2]
+## 1. Citation, commencement and extent[^c-0f8dcf3d1201c7a107687a3a069d71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) Regulations 2020[^key-0f8dcf3d1201c7a107687a3a069d71d2]
+## 2. Amendment of the Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) Regulations 2020[^c-0f8dcf3d1201c7a107687a3a069d71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 1[^key-0f8dcf3d1201c7a107687a3a069d71d2]
+## 3. Amendment of regulation 1[^c-0f8dcf3d1201c7a107687a3a069d71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 2[^key-0f8dcf3d1201c7a107687a3a069d71d2]
+## 4. Amendment of regulation 2[^c-0f8dcf3d1201c7a107687a3a069d71d2]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 3[^key-0f8dcf3d1201c7a107687a3a069d71d2]
+## 5. Amendment of regulation 3[^c-0f8dcf3d1201c7a107687a3a069d71d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f8dcf3d1201c7a107687a3a069d71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f8dcf3d1201c7a107687a3a069d71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0f8dcf3d1201c7a107687a3a069d71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f8dcf3d1201c7a107687a3a069d71d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f8dcf3d1201c7a107687a3a069d71d2]: Textual amendment: Regulations revoked (16.9.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment and Revocation) Regulations 2020 (S.I. 2020/990)](https://www.legislation.gov.uk/uksi/2020/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/990/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/990/regulation/6)
+[^c-0f8dcf3d1201c7a107687a3a069d71d2]: Textual amendment: Regulations revoked (16.9.2020) by [The Pension Protection Fund (Moratorium and Arrangements and Reconstructions for Companies in Financial Difficulty) (Amendment and Revocation) Regulations 2020 (S.I. 2020/990)](https://www.legislation.gov.uk/uksi/2020/990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/990/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/990/regulation/6)

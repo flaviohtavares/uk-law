@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Statement on fuel poverty[^key-035bed74217e3b295205f64c9f442657]
+## 88. Statement on fuel poverty[^c-035bed74217e3b295205f64c9f442657]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-035bed74217e3b295205f64c9f442657]: Textual amendment: S. 88 and cross-heading repealed (19.9.2019) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-035bed74217e3b295205f64c9f442657]: Textual amendment: S. 88 and cross-heading repealed (19.9.2019) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)

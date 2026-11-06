@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Power to begin a conduct investigation[^key-bec89d57d0e64733c8e599fb704fd38a][^key-e4b3315139532cc36069cf1c5eed3d04]
+## 26. Power to begin a conduct investigation[^c-bec89d57d0e64733c8e599fb704fd38a][^c-e4b3315139532cc36069cf1c5eed3d04]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bec89d57d0e64733c8e599fb704fd38a]: Commencement: S. 26 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-bec89d57d0e64733c8e599fb704fd38a]: Commencement: S. 26 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e4b3315139532cc36069cf1c5eed3d04]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2024/13/section/26) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-e4b3315139532cc36069cf1c5eed3d04]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2024/13/section/26) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

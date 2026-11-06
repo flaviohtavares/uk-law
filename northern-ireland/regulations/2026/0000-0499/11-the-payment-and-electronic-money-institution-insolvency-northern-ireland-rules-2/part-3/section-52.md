@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Calculation of voting rights (creditors)[^key-529ad2b9ebb2c375b89c3d8c69cce63a]
+## 52. Calculation of voting rights (creditors)[^c-529ad2b9ebb2c375b89c3d8c69cce63a]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-529ad2b9ebb2c375b89c3d8c69cce63a]: Commencement: [Rule 52](https://www.legislation.gov.uk/nisr/2026/11/rule/52) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-529ad2b9ebb2c375b89c3d8c69cce63a]: Commencement: [Rule 52](https://www.legislation.gov.uk/nisr/2026/11/rule/52) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

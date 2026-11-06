@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Annual report on implementation of Directive[^key-d2c27008b2118210b65c3750f9567759][^key-c9196831bd58407e66ce95d51e1af92c]
+## 26. Annual report on implementation of Directive[^c-d2c27008b2118210b65c3750f9567759][^c-c9196831bd58407e66ce95d51e1af92c]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2c27008b2118210b65c3750f9567759]: Textual amendment: S. 26 repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-d2c27008b2118210b65c3750f9567759]: Textual amendment: S. 26 repealed (10.6.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [s. 56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-c9196831bd58407e66ce95d51e1af92c]: Commencement: S. 26 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/562/article/2/d)
+[^c-c9196831bd58407e66ce95d51e1af92c]: Commencement: S. 26 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/562/article/2/d)

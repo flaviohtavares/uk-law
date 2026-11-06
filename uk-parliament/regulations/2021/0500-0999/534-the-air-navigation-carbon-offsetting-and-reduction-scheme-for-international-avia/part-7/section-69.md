@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Procedure for appeals[^key-d0f936c49b098c0b5603281dc9a766e8]
+## 69. Procedure for appeals[^c-d0f936c49b098c0b5603281dc9a766e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0f936c49b098c0b5603281dc9a766e8]: Commencement: Art. 69 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-d0f936c49b098c0b5603281dc9a766e8]: Commencement: Art. 69 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

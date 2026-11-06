@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Amendment of Article 6 of [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^key-65085bd70046081f515cff46665f8a9e]
+## 241. Amendment of Article 6 of [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^c-65085bd70046081f515cff46665f8a9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 6 (training organisation requirements), in paragraph 2, for “a Memb
 
 ## Annotations
 
-[^key-65085bd70046081f515cff46665f8a9e]: Commencement: Reg. 241 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-65085bd70046081f515cff46665f8a9e]: Commencement: Reg. 241 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021 (revoked)[^key-1727cc7e9b7deeb37438179fa5ee3643]
+The Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021 (revoked)[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 at 4.00 a.m. on 17th May 2021
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1727cc7e9b7deeb37438179fa5ee3643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 1 — Introductory[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -60,14 +60,14 @@ at 4.00 a.m. on 17th May 2021
 - [Section 2 — Interpretation and introduction of Schedules 1 to 4](part-1/section-2.md)
 - [Section 2A — Exemptions for vaccinated travellers and others](part-1/section-2a.md)
 
-### PART 1A — Requirements on persons arriving in England[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 1A — Requirements on persons arriving in England[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 **No longer in force.**
 
 - [Section 3 — Requirement on passengers to provide information](part-1a/section-3.md)
 - [Section 3ZA — Requirement to possess notification of negative test result](part-1a/section-3za.md)
 
-### PART 1B — Additional requirements for eligible travellers[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 1B — Additional requirements for eligible travellers[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 **No longer in force.**
 
@@ -85,7 +85,7 @@ at 4.00 a.m. on 17th May 2021
 - [Section 3K — Self-isolation requirements on eligible travellers](part-1b/section-3k.md)
 - [Section 3L — Application of this Part to a person who was required to be in isolation in accordance with Schedule 11 immediately before 4.00 pm on 15th December 2021 and who meets the conditions in any of regulations 3C to 3H](part-1b/section-3l.md)
 
-### PART 2 — Additional requirements on persons arriving in England who are not eligible travellers[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 2 — Additional requirements on persons arriving in England who are not eligible travellers[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ at 4.00 a.m. on 17th May 2021
 - [Section 9A — Application of this Part to a person who was required to be in isolation in accordance with Schedule 11 immediately before 4.00 pm on 15th December 2021 and to whom regulation 3L does not apply](part-2/section-9a.md)
 - [Section 10 — Further requirements on arrivals from category 3 countries or territories](part-2/section-10.md)
 
-### PART 3 — Enforcement[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 3 — Enforcement[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -109,7 +109,7 @@ at 4.00 a.m. on 17th May 2021
 - [Section 11 — Enforcement of requirement to self-isolate](part-3/section-11.md)
 - [Section 12 — Power of entry](part-3/section-12.md)
 
-### PART 4 — Requirements on operators[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 4 — Requirements on operators[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -124,14 +124,14 @@ at 4.00 a.m. on 17th May 2021
 - [Section 17A — Requirement to ensure passengers possess evidence of vaccination](part-4/section-17a.md)
 - [Section 18 — Requirement to ensure that certain passengers arrive only at designated ports](part-4/section-18.md)
 
-### PART 4A — Requirements on private test providers and diagnostic laboratories[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 4A — Requirements on private test providers and diagnostic laboratories[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 **No longer in force.**
 
 - [Section 18A — Requirements on test providers](part-4a/section-18a.md)
 - [Section 18B — Requirements on other persons carrying out testing services](part-4a/section-18b.md)
 
-### PART 5 — Offences, proceedings and information[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 5 — Offences, proceedings and information[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -143,7 +143,7 @@ at 4.00 a.m. on 17th May 2021
 - [Section 22 — Power to use and disclose information](part-5/section-22.md)
 - [Section 23 — Self-incrimination](part-5/section-23.md)
 
-### PART 6 — Final provisions[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 6 — Final provisions[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -157,7 +157,7 @@ at 4.00 a.m. on 17th May 2021
 
 **No longer in force.**
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]SCHEDULES
+[^c-1727cc7e9b7deeb37438179fa5ee3643]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -181,14 +181,14 @@ at 4.00 a.m. on 17th May 2021
 
 **No longer in force.**
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1727cc7e9b7deeb37438179fa5ee3643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1727cc7e9b7deeb37438179fa5ee3643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)
+[^c-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)

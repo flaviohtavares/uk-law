@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217RA. Companies qualifying for orchestra tax relief[^key-ae72997d7de0e438453f66dfd6fd5589]
+## 1217RA. Companies qualifying for orchestra tax relief[^c-ae72997d7de0e438453f66dfd6fd5589]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) the company intends that the concert should be performed live—
   - (i) before the paying public, or
   - (ii) for educational purposes, and
-- (d) the UK[^key-6b30435e2b84211ddafc0f6b6dcb9fc3][^key-c8feb1a8075eb0b411908910adf4407b] expenditure condition is met in relation to the concert (see section 1217RB).
+- (d) the UK[^c-6b30435e2b84211ddafc0f6b6dcb9fc3][^c-c8feb1a8075eb0b411908910adf4407b] expenditure condition is met in relation to the concert (see section 1217RB).
 
 (3) In this Part “**qualifying orchestral concert**” means an orchestral concert—
 
@@ -43,14 +43,14 @@ summary: ''
 - (c) the company intends that all or a high proportion of the concerts in the series should be performed live—
   - (i) before the paying public, or
   - (ii) for educational purposes,
-- (d) the UK[^key-ca49b223ec21aad0e9348cc3bfd0542d][^key-45c1f8aa00cbffd6205d8e4855fab5ae] expenditure condition is met in relation to the series, and
+- (d) the UK[^c-ca49b223ec21aad0e9348cc3bfd0542d][^c-45c1f8aa00cbffd6205d8e4855fab5ae] expenditure condition is met in relation to the series, and
 - (e) the company has made an election under section 1217Q(4) in relation to the series.
 
 (5) In this section “**qualifying orchestral concert series**” means two or more orchestral concerts, all or a high proportion of which are qualifying orchestral concerts.
 
 (6) For the purposes of this section a concert is “live” if it is to an audience before whom the musicians are actually present.
 
-(6A)[^key-1a3bd5e3bf72795bb2008d86edaa4fbf] A concert performed before the public is not regarded as being performed before the paying public unless—
+(6A)[^c-1a3bd5e3bf72795bb2008d86edaa4fbf] A concert performed before the public is not regarded as being performed before the paying public unless—
 
 - (a) it is separately ticketed, and
 - (b) it is intended that a significant proportion of the earnings from the concert should be obtained by such ticketing.
@@ -78,14 +78,14 @@ summary: ''
 
 ## Annotations
 
-[^key-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
+[^c-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
 
-[^key-6b30435e2b84211ddafc0f6b6dcb9fc3]: Textual amendment: Word in [s. 1217RA(2)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/2/d) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/5/2/a) (with [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/11))
+[^c-6b30435e2b84211ddafc0f6b6dcb9fc3]: Textual amendment: Word in [s. 1217RA(2)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/2/d) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/5/2/a) (with [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/11))
 
-[^key-c8feb1a8075eb0b411908910adf4407b]: Textual amendment: Words in [s. 1217RA(2)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/2/d) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(33)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/33/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8feb1a8075eb0b411908910adf4407b]: Textual amendment: Words in [s. 1217RA(2)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/2/d) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(33)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/33/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca49b223ec21aad0e9348cc3bfd0542d]: Textual amendment: Word in [s. 1217RA(4)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/4/d) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/5/2/a) (with [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/11))
+[^c-ca49b223ec21aad0e9348cc3bfd0542d]: Textual amendment: Word in [s. 1217RA(4)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/4/d) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/5/2/a) (with [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/11))
 
-[^key-45c1f8aa00cbffd6205d8e4855fab5ae]: Textual amendment: Words in [s. 1217RA(4)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/4/d) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(33)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/33/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45c1f8aa00cbffd6205d8e4855fab5ae]: Textual amendment: Words in [s. 1217RA(4)(d)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/4/d) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(33)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/33/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a3bd5e3bf72795bb2008d86edaa4fbf]: Textual amendment: [S. 1217RA(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/6A) inserted (1.4.2022 in relation to a concert or series of concerts only where the production process starts on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/3)[(5)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/5)
+[^c-1a3bd5e3bf72795bb2008d86edaa4fbf]: Textual amendment: [S. 1217RA(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RA/6A) inserted (1.4.2022 in relation to a concert or series of concerts only where the production process starts on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/3)[(5)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/5)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, in exercise of the powers conferred on it by Article 3(1) to (4) and (7) of the Financial Assistance for Young Farmers (Northern Ireland) Order 2004[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-98d9026d79ef9988937d737163d2bea9]
+## 1. Citation and commencement[^c-98d9026d79ef9988937d737163d2bea9]
 
 This Order may be cited as the Financial Assistance for Young Farmers Scheme Order (Northern Ireland) 2005 and shall come into operation on 4th April 2005.
 
-## 2. Financial Assistance for Young Farmers Scheme (Northern Ireland) 2005[^key-4d69fbc913ea40a8a0ac044602676b3b]
+## 2. Financial Assistance for Young Farmers Scheme (Northern Ireland) 2005[^c-4d69fbc913ea40a8a0ac044602676b3b]
 
 The Department hereby makes the Scheme set out in the Schedule.
 
@@ -61,11 +61,11 @@ Department of Agriculture and Rural Development
 
 Article 2
 
-### 1. Citation[^key-70cbbc837a41a59a9e1b290b9db29bd2]
+### 1. Citation[^c-70cbbc837a41a59a9e1b290b9db29bd2]
 
 This Scheme may be cited as the Financial Assistance for Young Farmers Scheme (Northern Ireland) 2005.
 
-### 2. Interpretation[^key-fec2c5844d583adec16451036eecc15e]
+### 2. Interpretation[^c-fec2c5844d583adec16451036eecc15e]
 
 (1) In this Scheme –
 
@@ -89,11 +89,11 @@ This Scheme may be cited as the Financial Assistance for Young Farmers Scheme (N
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-### 3. Financial assistance for young farmers[^key-03ff26be9c4dd9b0cf8c5d41ea0d5fb5]
+### 3. Financial assistance for young farmers[^c-03ff26be9c4dd9b0cf8c5d41ea0d5fb5]
 
 (1) Subject to the provisions of this Scheme and the Order, the Department may make to any young person a grant towards approved expenditure incurred by him in servicing a qualifying loan.
 
-(1A)[^key-cbfeca3f7075cdd4aca995bfa0a470a2] The Department shall not make a grant under paragraph (1) in respect of expenditure incurred in servicing any part of a qualifying loan which has not been used before 1st August 2010 for the purposes of, or in connection with, the implementation of the business plan referred to in paragraph (3).
+(1A)[^c-cbfeca3f7075cdd4aca995bfa0a470a2] The Department shall not make a grant under paragraph (1) in respect of expenditure incurred in servicing any part of a qualifying loan which has not been used before 1st August 2010 for the purposes of, or in connection with, the implementation of the business plan referred to in paragraph (3).
 
 (2) The Department shall not make a grant under paragraph (1) in respect of expenditure incurred more than 5 years after the date on which the qualifying loan is made.
 
@@ -102,20 +102,20 @@ This Scheme may be cited as the Financial Assistance for Young Farmers Scheme (N
 - (a) has been, or is to be, obtained from an authorised deposit taker for the purposes of, or in connection with, the implementation of a business plan relating to the establishment, expansion or carrying on of an agricultural business; and
 - (b) has been approved by the Department for the purposes of this Scheme.
 
-### 4. Applications[^key-edf2200483f992e103f9c88d846181ed]
+### 4. Applications[^c-edf2200483f992e103f9c88d846181ed]
 
 (1) An application for a grant under this Scheme shall be made in such form and contain such information and be accompanied by such documents as the Department may require.
 
 (2) The Department may require an applicant to furnish such further information and documents as it considers necessary.
 
-### 5. Closing date for applications[^key-1b2163e7e6b0513cd3a2a3325ecfa3b7]
+### 5. Closing date for applications[^c-1b2163e7e6b0513cd3a2a3325ecfa3b7]
 
 The Department shall not pay any grant under this Scheme unless—
 
 - (a) the application for the grant is received by the Department before 28th February 2009; and
 - (b) all information and documents required to be furnished under Article 4 (2) are received by the Department before 1st July 2009.
 
-### 6. Amount of grant[^key-21d4929d6e7885e0d2c7d7327b3f5893]
+### 6. Amount of grant[^c-21d4929d6e7885e0d2c7d7327b3f5893]
 
 (1) The grant payable under Article 3(1) to any young person in the period of 12 months beginning with a reckonable date shall not exceed an amount determined in accordance with paragraphs (2) and (3).
 
@@ -127,13 +127,13 @@ The Department shall not pay any grant under this Scheme unless—
 
 (5) The total grant payable to any young person under Article 3(1) shall not exceed £17,000.
 
-### 7. Financial limits[^key-21dcfeaa11277044e8db2fe17c8e2f88]
+### 7. Financial limits[^c-21dcfeaa11277044e8db2fe17c8e2f88]
 
 (1) If, in view of the total number of applications already received or the total expenditure already approved, the Department is at any time of the opinion that the financial resources which are available for payment of grant under this Scheme during any period are insufficient to satisfy any payment during that period which would result from the approval of any further expenditure, it may suspend further consideration of any applications received at the date of its decision but not yet determined, or any application it may receive after the date of its decision, until such time as may subsequently be specified by it.
 
 (2) Notice of a suspension by the Department under paragraph (1), or the termination of any such suspension, shall be published in the Belfast Gazette.
 
-### 8. Record keeping[^key-f075df46bd4c4f4a88940edb1f23d5f9]
+### 8. Record keeping[^c-f075df46bd4c4f4a88940edb1f23d5f9]
 
 (1) Subject to paragraphs (2) and (3), a beneficiary shall keep any document related to his agricultural business, qualifying loan or business plan for the period beginning with the date of the determination of his application by the Department and ending on the expiry of the period of 10 years from the date on which the last payment of grant under this Scheme is made to him.
 
@@ -141,7 +141,7 @@ The Department shall not pay any grant under this Scheme unless—
 
 (3) Paragraph (1) does not apply if the document has been removed by an authorised person under Article 9(2)(e).
 
-### 9. Powers of authorised persons[^key-be6adb72e93b13da953b9c7ae88c01ed]
+### 9. Powers of authorised persons[^c-be6adb72e93b13da953b9c7ae88c01ed]
 
 (1) An authorised person may at all reasonable times, on producing, if so required, a document showing his authority, enter on any land used for the purpose of an applicant’s agricultural business for the purpose of carrying out an inspection of such land or of any document, record or equipment in the possession or under the control of the applicant relating to, or which the authorised person may reasonably suspect relates to, the applicant’s agricultural business, qualifying loan or business plan.
 
@@ -157,7 +157,7 @@ The Department shall not pay any grant under this Scheme unless—
 
 (4) An authorised person entering any land under paragraph (1) may take with him such other persons as he considers necessary and paragraphs (2) and (3) apply to such persons when acting under the instructions of an authorised person as if they were authorised persons.
 
-### 10. Determination of interest to be recovered[^key-1b8dbd2f17e4f5927bca83b239265cad]
+### 10. Determination of interest to be recovered[^c-1b8dbd2f17e4f5927bca83b239265cad]
 
 (1) Interest on an amount recoverable under Article 3(7) of the Order shall be determined on a day to day basis between the date on which the Department made the payment to be recovered and the date on which the Department recovers the payment and the rate of interest shall be one percentage point above LIBOR.
 
@@ -165,7 +165,7 @@ The Department shall not pay any grant under this Scheme unless—
 
 (3) In any proceedings relating to the recovery of such interest, a certificate of the Department stating the LIBOR applicable during a period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
 
-### 11. Offences and penalties[^key-17209b9721127ed7a10501d78839729d]
+### 11. Offences and penalties[^c-17209b9721127ed7a10501d78839729d]
 
 (1) If any person, for the purpose of obtaining for himself or any other person, any grant under Article 3, knowingly or recklessly makes a statement which is false or misleading in a material particular, he shall be guilty of an offence.
 
@@ -192,13 +192,13 @@ The Scheme –
 
 [^f00001]: Footnote: S.I. [2004/3080 (N.I. 21)](https://www.legislation.gov.uk/nisi/2004/3080)
 
-[^key-98d9026d79ef9988937d737163d2bea9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-98d9026d79ef9988937d737163d2bea9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-4d69fbc913ea40a8a0ac044602676b3b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/69/article/2) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-4d69fbc913ea40a8a0ac044602676b3b]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/69/article/2) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-70cbbc837a41a59a9e1b290b9db29bd2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/1) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-70cbbc837a41a59a9e1b290b9db29bd2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/1) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-fec2c5844d583adec16451036eecc15e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/2) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-fec2c5844d583adec16451036eecc15e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/2) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
 [^f00002]: Footnote: [2008 c. 8](https://www.legislation.gov.uk/ukpga/2008/8)
 
@@ -208,22 +208,22 @@ The Scheme –
 
 [^f00005]: Footnote: The Monetary Policy Committee was constituted on a statutory basis by section 13 of the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11)
 
-[^key-03ff26be9c4dd9b0cf8c5d41ea0d5fb5]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/3) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-03ff26be9c4dd9b0cf8c5d41ea0d5fb5]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/3) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-cbfeca3f7075cdd4aca995bfa0a470a2]: Textual amendment: [Sch. para. 3(1A)](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/3/1A) inserted (2.6.2008) by [The Financial Assistance for Young Farmers Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/186)](https://www.legislation.gov.uk/nisr/2008/186), [arts. 1](https://www.legislation.gov.uk/nisr/2008/186/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/186/article/2/2)
+[^c-cbfeca3f7075cdd4aca995bfa0a470a2]: Textual amendment: [Sch. para. 3(1A)](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/3/1A) inserted (2.6.2008) by [The Financial Assistance for Young Farmers Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/186)](https://www.legislation.gov.uk/nisr/2008/186), [arts. 1](https://www.legislation.gov.uk/nisr/2008/186/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/186/article/2/2)
 
-[^key-edf2200483f992e103f9c88d846181ed]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/4) substituted (2.6.2008) by [The Financial Assistance for Young Farmers Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/186)](https://www.legislation.gov.uk/nisr/2008/186), [arts. 1](https://www.legislation.gov.uk/nisr/2008/186/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/186/article/2/3)
+[^c-edf2200483f992e103f9c88d846181ed]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/4) substituted (2.6.2008) by [The Financial Assistance for Young Farmers Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/186)](https://www.legislation.gov.uk/nisr/2008/186), [arts. 1](https://www.legislation.gov.uk/nisr/2008/186/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/186/article/2/3)
 
-[^key-1b2163e7e6b0513cd3a2a3325ecfa3b7]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/5) substituted (2.6.2008) by [The Financial Assistance for Young Farmers Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/186)](https://www.legislation.gov.uk/nisr/2008/186), [arts. 1](https://www.legislation.gov.uk/nisr/2008/186/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/186/article/2/4)
+[^c-1b2163e7e6b0513cd3a2a3325ecfa3b7]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/5) substituted (2.6.2008) by [The Financial Assistance for Young Farmers Scheme (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/186)](https://www.legislation.gov.uk/nisr/2008/186), [arts. 1](https://www.legislation.gov.uk/nisr/2008/186/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/186/article/2/4)
 
-[^key-21d4929d6e7885e0d2c7d7327b3f5893]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/6) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-21d4929d6e7885e0d2c7d7327b3f5893]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/6) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-21dcfeaa11277044e8db2fe17c8e2f88]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/7) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-21dcfeaa11277044e8db2fe17c8e2f88]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/7) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-f075df46bd4c4f4a88940edb1f23d5f9]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/8) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-f075df46bd4c4f4a88940edb1f23d5f9]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/8) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-be6adb72e93b13da953b9c7ae88c01ed]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/9) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-be6adb72e93b13da953b9c7ae88c01ed]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/9) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-1b8dbd2f17e4f5927bca83b239265cad]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/10) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-1b8dbd2f17e4f5927bca83b239265cad]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/10) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
 
-[^key-17209b9721127ed7a10501d78839729d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/11) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)
+[^c-17209b9721127ed7a10501d78839729d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2005/69/schedule/paragraph/11) in operation at 4.4.2005, see [art. 1](https://www.legislation.gov.uk/nisr/2005/69/article/1)

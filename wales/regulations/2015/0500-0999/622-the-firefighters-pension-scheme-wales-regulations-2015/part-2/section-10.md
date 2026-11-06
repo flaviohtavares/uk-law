@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Scheme advisory board: establishment[^key-fccfa6e985547e5523d0bcb3fce03915]
+## 10. Scheme advisory board: establishment[^c-fccfa6e985547e5523d0bcb3fce03915]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fccfa6e985547e5523d0bcb3fce03915]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-fccfa6e985547e5523d0bcb3fce03915]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

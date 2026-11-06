@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31W. Alternatives to cross-examination in person[^key-dee58ceba3289d5b49035bca98a2b2ba]
+## 31W. Alternatives to cross-examination in person[^c-dee58ceba3289d5b49035bca98a2b2ba]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dee58ceba3289d5b49035bca98a2b2ba]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/1984/42/part/4B) inserted (21.7.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))
+[^c-dee58ceba3289d5b49035bca98a2b2ba]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/1984/42/part/4B) inserted (21.7.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 65](https://www.legislation.gov.uk/ukpga/2021/17/section/65), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))

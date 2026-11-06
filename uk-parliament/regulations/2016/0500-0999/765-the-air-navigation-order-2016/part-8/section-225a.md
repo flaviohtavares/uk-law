@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225A. Notifications relating to en-route obstacles[^key-e64bcb3003c854fea57de20f0e78ad30]
+## 225A. Notifications relating to en-route obstacles[^c-e64bcb3003c854fea57de20f0e78ad30]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e64bcb3003c854fea57de20f0e78ad30]: Textual amendment: [Pt. 8 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/part/8/chapter/3) inserted (6.9.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/879/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/879/article/8)
+[^c-e64bcb3003c854fea57de20f0e78ad30]: Textual amendment: [Pt. 8 Ch. 3](https://www.legislation.gov.uk/uksi/2016/765/part/8/chapter/3) inserted (6.9.2021) by [The Air Navigation (Amendment) Order 2021 (S.I. 2021/879)](https://www.legislation.gov.uk/uksi/2021/879), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/879/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/879/article/8)

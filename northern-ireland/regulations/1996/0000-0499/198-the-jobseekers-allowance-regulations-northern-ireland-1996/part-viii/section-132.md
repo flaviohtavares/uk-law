@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Calculation of covenant income where a contribution is assessed[^key-a47076532d89ecd0ea92aa4043a0473e]
+## 132. Calculation of covenant income where a contribution is assessed[^c-a47076532d89ecd0ea92aa4043a0473e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a47076532d89ecd0ea92aa4043a0473e]: Commencement: Reg. 132 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-a47076532d89ecd0ea92aa4043a0473e]: Commencement: Reg. 132 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -46,37 +46,37 @@ In accordance with section 97(2) of that Act, the Scottish Ministers have inform
 
 ## PART 1 — Introductory and interpretation
 
-### 1. Citation and commencement[^key-143c37532b1281b49d5145e63510ca1a]
+### 1. Citation and commencement[^c-143c37532b1281b49d5145e63510ca1a]
 
 (1) These Regulations may be cited as the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
 
 (2) Subject to paragraph (3), these Regulations come into force on 19 November 2023.
 
-(3) Regulation 13(2) and (3) come into force on 23 June 2024[^key-33296b36141a6acd0be3f006193b201e].
+(3) Regulation 13(2) and (3) come into force on 23 June 2024[^c-33296b36141a6acd0be3f006193b201e].
 
-### 2. Interpretation[^key-cf987fa13bfe61c4766cbc1a9dcf87d4]
+### 2. Interpretation[^c-cf987fa13bfe61c4766cbc1a9dcf87d4]
 
 In these Regulations—
 
 - “**the 2018 Act**” means the Social Security (Scotland) Act 2018,
 - “**the 1992 Act**” means the Social Security Contributions and Benefits Act 1992[^f00002],
-- “additional cared for person” is a person described in regulation 14B(1)(b),[^key-a8b9c927a2629a6654fa305e388ed1ac]
+- “additional cared for person” is a person described in regulation 14B(1)(b),[^c-a8b9c927a2629a6654fa305e388ed1ac]
 - “**Adult Disability Payment**” means disability assistance for adults given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00003],
 - “**Armed Forces Independence Payment**” means a payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00004],
 - “**Attendance Allowance**” means an attendance allowance under—
   - (a) section 64 of the 1992 Act, or
   - (b) the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00005],
 - “**award week**” means a period of 7 days beginning on a Sunday and ending on a Saturday,
-- “cared for person , other than where those words appear within the term “additional cared for person”[^key-e165876fc8aa74ecc81242bfd1182e18]” is a person described in regulation 5(1),
-- “[^key-21d1862adb43a95e3169ef0bb27f3b46]**Carer Additional Person Payment**” means the Carer Additional Person Payment component of Carer Support provided for in regulation 14B,
+- “cared for person , other than where those words appear within the term “additional cared for person”[^c-e165876fc8aa74ecc81242bfd1182e18]” is a person described in regulation 5(1),
+- “[^c-21d1862adb43a95e3169ef0bb27f3b46]**Carer Additional Person Payment**” means the Carer Additional Person Payment component of Carer Support provided for in regulation 14B,
 - “**carer element of Universal Credit**” means the amount awarded by virtue of—
   - (a) section 12(2)(c) of the Welfare Reform Act 2012[^f00006], or
   - (b) article 17(2)(c) of the Welfare Reform (Northern Ireland) Order 2015[^f00007],
-- “[^key-ef0454f2edefb6315b8370a509436973]**Carer Support**” means carer’s assistance given in accordance with these  Regulations,
+- “[^c-ef0454f2edefb6315b8370a509436973]**Carer Support**” means carer’s assistance given in accordance with these  Regulations,
 - “**Carer’s Allowance**” means a benefit for carers given under—
   - (a) section 70 (carer’s allowance) of the 1992 Act[^f00008], or
   - (b) section 70 (carer’s allowance) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00009],
-- “[^key-2eaaeca2a80f2ba2d41ed8585d9abdc3]**Carer Support Payment**” means the Carer Support Payment component of Carer Support provided for in regulation 4A,
+- “[^c-2eaaeca2a80f2ba2d41ed8585d9abdc3]**Carer Support Payment**” means the Carer Support Payment component of Carer Support provided for in regulation 4A,
 - “**Child Disability Payment**” means disability assistance for children and young people given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021[^f00010],
 - “**Constant Attendance Allowance**” means an allowance under—
   - (a) section 104 of the 1992 Act, or
@@ -91,7 +91,7 @@ In these Regulations—
   - (b) any other state that is party to the Agreement on the European Economic Area signed at Oporto on 2 May 1992[^f00014], together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993[^f00015], as modified or supplemented from time to time,
 - “**Industrial Injuries Disablement Benefit**” means a benefit payable under Part V and section 103 of the 1992 Act,
 - “**legal detention**” means detention in legal custody within the meaning of section 295 of the Criminal Procedure (Scotland) Act 1995[^f00016],
-- “[^key-823dc91244a5ad7531fc9f09c603d970]**Pension Age Disability Payment**” means disability assistance for older people given in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024,
+- “[^c-823dc91244a5ad7531fc9f09c603d970]**Pension Age Disability Payment**” means disability assistance for older people given in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024,
 - “**Personal Independence Payment**” means personal independence payment under—
   - (a) Part 4 of the Welfare Reform Act 2012, or
   - (b) Article 82 of the Welfare Reform (Northern Ireland) Order 2015[^f00017],
@@ -100,8 +100,8 @@ In these Regulations—
   - (b) the daily living component of Personal Independence Payment,
   - (c) the care component of Child Disability Payment at the middle or highest rate,
   - (d) the care component of Disability Living Allowance at the middle or highest rate,
-  - (dia) the care component of Scottish Adult Disability Living Allowance at the middle or highest rate,[^key-b402964d4517accb0103883d8b4e636a]
-  - (da) Pension Age Disability Payment,[^key-116e579ca010b76be7c9bbd3df22a50a]
+  - (dia) the care component of Scottish Adult Disability Living Allowance at the middle or highest rate,[^c-b402964d4517accb0103883d8b4e636a]
+  - (da) Pension Age Disability Payment,[^c-116e579ca010b76be7c9bbd3df22a50a]
   - (e) Attendance Allowance,
   - (f) Armed Forces Independence Payment, or
   - (g) Constant Attendance Allowance—
@@ -111,21 +111,21 @@ In these Regulations—
   - (a) one of the following Regulations—
     - (i) Council Regulation [(EC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) of 14 June 1971[^f00018] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community,
     - (ii) Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004[^f00019] on the coordination of social security systems, or
-  - (b) in relation to an individual to whom the agreement constituted by the exchange of letters set out in the schedule of—[^key-22f0b53cf4ed8e0a0d590daf37765662]
+  - (b) in relation to an individual to whom the agreement constituted by the exchange of letters set out in the schedule of—[^c-22f0b53cf4ed8e0a0d590daf37765662]
     - (i) the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974, or
     - (ii) the Social Security (Gibraltar) Order 2024,
 
     applies, a Regulation mentioned in paragraph (a) of this definition as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018,
-- “[^key-fc4241a79135d029e3f9db720d951093]**Scottish Adult Disability Living Allowance**” means disability living allowance for adults given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025,
-- “[^key-f29831120f93e290f47b2c787407862a]**Scottish Carer Supplement**” means the Scottish Carer Supplement component of Carer Support provided for in regulation 14A,
+- “[^c-fc4241a79135d029e3f9db720d951093]**Scottish Adult Disability Living Allowance**” means disability living allowance for adults given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025,
+- “[^c-f29831120f93e290f47b2c787407862a]**Scottish Carer Supplement**” means the Scottish Carer Supplement component of Carer Support provided for in regulation 14A,
 - “**War Disablement Pension**” means—
   - (a) any retired pay, pension or allowance granted in respect of disablement under powers conferred by or under the Air Force (Constitution) Act 1917[^f00022], the Personal Injuries (Emergency Provisions) Act 1939[^f00023], the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939[^f00024], the Polish Resettlement Act 1947[^f00025], or Part VII or section 151 of the Reserve Forces Act 1980[^f00026],
   - (b) without prejudice to paragraph (a) of this definition, any retired pay or pension to which any of paragraphs (a) to (f) of section 641(1) of the Income Tax (Earnings and Pensions) Act 2003[^f00027] applies, and
 - “**Young Carer Grant**” means a grant paid under the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^f00028].
 
-## PART 2 — Carer Support[^key-7692b085ab91f81d72c8155f0dd71006]
+## PART 2 — Carer Support[^c-7692b085ab91f81d72c8155f0dd71006]
 
-### 3. Overview[^key-2fa5cd8d5ddde0afb9fccb6406faf088]
+### 3. Overview[^c-2fa5cd8d5ddde0afb9fccb6406faf088]
 
 (1) Carer Support is to consist of the following components—
 
@@ -145,13 +145,13 @@ In these Regulations—
 
 ## PART 3 — Eligibility
 
-### 4. Age criteria[^key-8608904d487c1b3fff071cd1f93d1969]
+### 4. Age criteria[^c-8608904d487c1b3fff071cd1f93d1969]
 
-(1) Carer Support[^key-1fc48db74335f968100178fcb465f90d] may only be paid in respect of an individual who is 16 years of age or older.
+(1) Carer Support[^c-1fc48db74335f968100178fcb465f90d] may only be paid in respect of an individual who is 16 years of age or older.
 
 (2) Where an individual was born on 29 February, the individual’s birthday is to be taken to fall on 28 February in a year which is not a leap year.
 
-### 4A. Carer Support Payment[^key-cf32476aba7af39b1ef65cf90b197b32]
+### 4A. Carer Support Payment[^c-cf32476aba7af39b1ef65cf90b197b32]
 
 An individual is entitled to Carer Support Payment if they meet the conditions set out in—
 
@@ -159,7 +159,7 @@ An individual is entitled to Carer Support Payment if they meet the conditions s
 - (b) regulation 12 (entitlement to other benefits), and
 - (c) regulation 14 (earnings limit).
 
-### 5. Provision of care to a cared for person[^key-0ddcd3c85356a624644a5b8e616c72a3]
+### 5. Provision of care to a cared for person[^c-0ddcd3c85356a624644a5b8e616c72a3]
 
 (1) Carer Support Payment may only be paid to an individual in respect of a period during which that individual provides regular and substantial care to a person to whom a qualifying disability benefit is normally payable (a “cared for person”).
 
@@ -180,11 +180,11 @@ in respect of that cared for person.
 
 (5) No individual can be entitled to more than one Carer Support Payment in respect of the same period.
 
-(6)[^key-e3683aef3a18d2f40e9475754b104fca] A period during which an individual fails to satisfy the requirement of paragraph (1)[^key-3eb799b7a067dbe52d36d86c0b8836d2] is to be treated as a temporary break in care within the meaning of regulation 40 (temporary break in care), provided the individual satisfies the requirements set out in regulation 40.
+(6)[^c-e3683aef3a18d2f40e9475754b104fca] A period during which an individual fails to satisfy the requirement of paragraph (1)[^c-3eb799b7a067dbe52d36d86c0b8836d2] is to be treated as a temporary break in care within the meaning of regulation 40 (temporary break in care), provided the individual satisfies the requirements set out in regulation 40.
 
 (7) For the avoidance of doubt, an individual may be entitled to Carer Support Payment in respect of a cared for person where another individual is entitled to Young Carer Grant for that cared for person.
 
-### 6. Residence and presence conditions[^key-4d82885c91b58515d4ff0ec8292640d4]
+### 6. Residence and presence conditions[^c-4d82885c91b58515d4ff0ec8292640d4]
 
 (1) An individual satisfies the residence and presence conditions where on any day that individual—
 
@@ -204,7 +204,7 @@ in respect of that cared for person.
   - (i) to whom the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019[^f00032], as modified from time to time in accordance with any provision of it, applies, and
   - (ii) in respect of whom the United Kingdom is, as a result, competent for the payment of long term care benefits.
 
-(4) The reference in paragraph (3)(b) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to Carer Support[^key-5b1ec527652a49cce0c24264d19c7837], paragraph (3) would be incompatible with the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019.
+(4) The reference in paragraph (3)(b) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to Carer Support[^c-5b1ec527652a49cce0c24264d19c7837], paragraph (3) would be incompatible with the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019.
 
 (5) Paragraph (1)(c) does not apply to a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 where the person—
 
@@ -215,7 +215,7 @@ in respect of that cared for person.
 (6) The past presence condition in paragraph (1)(e) does not apply where an individual—
 
 - (a) has a terminal illness, or
-- (b) cares for a cared for person or additional cared for person[^key-a034e0db8337990cb667e9925404af5e] who—
+- (b) cares for a cared for person or additional cared for person[^c-a034e0db8337990cb667e9925404af5e] who—
   - (i) has a terminal illness,
   - (ii) is in receipt of Armed Forces Independence Payment or Constant Attendance Allowance at or above the normal maximum rate with Industrial Injuries Disablement Benefit, or at the basic (full day) rate with a War Disablement Pension, or
   - (iii) is not required to meet a past presence condition by virtue of an exception set out in—
@@ -223,25 +223,25 @@ in respect of that cared for person.
     - (bb) regulation 2A(1) or 2C(1) of the Social Security (Disability Living Allowance) Regulations 1991[^f00035],
     - (cc) regulation 2A(1), 2B, 2C(1) or paragraph 5 of Schedule 2 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00036],
     - (dd) regulation 22 or 23A(1) of the Social Security (Personal Independence Payment) Regulations 2013[^f00037],
-    - (ee) regulation 5(8), (10)(b), 5(10A) or 8 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021[^f00038], [^key-2e8ad646b08db04aaddb1bc0dbb886e9]...
-    - (ff) regulation 15(7), 17(2), 18 or 19 of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00039], [^key-4c247ea424788232b637f28db80376fb]...
-    - (gg)[^key-741e269a92c36b50b960ca03fdb22cd2] regulation 9(7), 11(2), 12 or 13 of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^key-2bc59fdd79c4d5bf9965b61b6c46223d]
-    - (hh)[^key-4301b7beb58ac1d0649d5df0475507a1] regulation 10(7), 12(2), 13 or 14 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
+    - (ee) regulation 5(8), (10)(b), 5(10A) or 8 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021[^f00038], [^c-2e8ad646b08db04aaddb1bc0dbb886e9]...
+    - (ff) regulation 15(7), 17(2), 18 or 19 of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00039], [^c-4c247ea424788232b637f28db80376fb]...
+    - (gg)[^c-741e269a92c36b50b960ca03fdb22cd2] regulation 9(7), 11(2), 12 or 13 of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^c-2bc59fdd79c4d5bf9965b61b6c46223d]
+    - (hh)[^c-4301b7beb58ac1d0649d5df0475507a1] regulation 10(7), 12(2), 13 or 14 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
 
-(7) For the purposes of paragraph (6), an individual, cared for person or additional cared for person[^key-3d14d0c11c0010530a72d5598fec82cb] has a terminal illness where they are entitled to—
+(7) For the purposes of paragraph (6), an individual, cared for person or additional cared for person[^c-3d14d0c11c0010530a72d5598fec82cb] has a terminal illness where they are entitled to—
 
 - (a) Disability Living Allowance by virtue of regulation 2(4) of the Social Security (Disability Living Allowance) Regulations 1991,
 - (b) Disability Living Allowance by virtue of regulation 2(3) of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992,
 - (c) Attendance Allowance by virtue of section 66 of the 1992 Act,
 - (d) Attendance Allowance by virtue of regulation 2(3) of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00040],
-- (da)[^key-0872f881c2046ec8417d9c609504871d] Pension Age Disability Payment by virtue of regulation 18 of the Disability Assistance for Older People (Scotland) Regulations 2024,
+- (da)[^c-0872f881c2046ec8417d9c609504871d] Pension Age Disability Payment by virtue of regulation 18 of the Disability Assistance for Older People (Scotland) Regulations 2024,
 - (e) Personal Independence Payment by virtue of regulation 21 of the Social Security (Personal Independence Payment) Regulations 2013,
 - (f) Universal Credit by virtue of regulations 16(2), 28(5)(a) or 40(5) read with paragraph 1 of Schedule 9 of the Universal Credit Regulations 2013[^f00041],
 - (g) Employment and Support Allowance by virtue of regulations 7(1)(a), 16(1)(a), 31(1)(a), 45(2) or 85(2)(b) of the Employment and Support Allowance Regulations 2013[^f00042],
 - (h) Personal Independence Payment by virtue of regulation 21 of the Personal Independence Payment Regulations (Northern Ireland) 2016[^f00043],
 - (i) Child Disability Payment by virtue of regulation 15 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021,
 - (j) Adult Disability Payment by virtue of regulation 26 of the Disability Assistance for Working Age People (Scotland) Regulations 2022.
-- (k)[^key-dd7e1b30cfc898290478a55562ba07bb] Scottish Adult Disability Living Allowance by virtue of regulation 20 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
+- (k)[^c-dd7e1b30cfc898290478a55562ba07bb] Scottish Adult Disability Living Allowance by virtue of regulation 20 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
 
 (8) The habitual residence condition in paragraph (1)(b) and the past presence condition in paragraph (1)(e) do not apply where an individual is a person who—
 
@@ -254,18 +254,18 @@ in respect of that cared for person.
 - (e) has leave to enter or remain in the United Kingdom as the dependant of a person referred to in sub-paragraph (d),
 - (f) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2[^f00044] of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Ukraine immediately before 1 January 2022, and
-  - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022, [^key-7a5daba79fe66cc9e322c9af3042b639]...
+  - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022, [^c-7a5daba79fe66cc9e322c9af3042b639]...
 - (g) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Sudan before 15 April 2023, and
-  - (ii) left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan ,[^key-c39ee59c0834fef285b75efc541bf558] [^key-00432b23fec37c53862cddbffd67cb6a]...
+  - (ii) left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan ,[^c-c39ee59c0834fef285b75efc541bf558] [^c-00432b23fec37c53862cddbffd67cb6a]...
 - (h) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, and
-  - (ii) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack ,[^key-be9ebe57f7a3a7725481ccd090cb988e]
+  - (ii) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack ,[^c-be9ebe57f7a3a7725481ccd090cb988e]
 - (i) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
   - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date, and
-  - (iii) arrived in the United Kingdom on or before 13 December 2025, [^key-2d141f02bc4c6a9078cf7cf085d28674]...
-- (j) has been granted, or is deemed to have been granted, leave outside the immigration rules ,[^key-7a2b93efc09e6e004eb7da85a7c98dac]
+  - (iii) arrived in the United Kingdom on or before 13 December 2025, [^c-2d141f02bc4c6a9078cf7cf085d28674]...
+- (j) has been granted, or is deemed to have been granted, leave outside the immigration rules ,[^c-7a2b93efc09e6e004eb7da85a7c98dac]
 - (k) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
   - (i) was residing in a country or territory outside of the United Kingdom,
   - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
@@ -279,9 +279,9 @@ in respect of that cared for person.
 - (a) “**immigration rules**” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971[^f00045],
 - (b) “**the Afghan Citizens Resettlement Scheme**” means the scheme announced by the United Kingdom Government on 18 August 2021[^f00046].
 
-(10)[^key-a2a5dd12834cb080968d3466ef465d2e] Where paragraph (8)(k) applies, it will apply for 52 weeks beginning on the day on which His Majesty’s Government provided public information to advise British nationals to leave a country or territory immediately or arranged the evacuation of British nationals from that country or territory (whichever is earlier).
+(10)[^c-a2a5dd12834cb080968d3466ef465d2e] Where paragraph (8)(k) applies, it will apply for 52 weeks beginning on the day on which His Majesty’s Government provided public information to advise British nationals to leave a country or territory immediately or arranged the evacuation of British nationals from that country or territory (whichever is earlier).
 
-### 7. Temporary absence from the common travel area[^key-1b001c4853f43db3c6105e8752cf1936]
+### 7. Temporary absence from the common travel area[^c-1b001c4853f43db3c6105e8752cf1936]
 
 (1) Where an individual is temporarily absent from the common travel area, the individual is to be treated as present in the common travel area for—
 
@@ -309,11 +309,11 @@ in respect of that cared for person.
 - (a) an individual is “temporarily absent” if, at the beginning of the period of absence, that absence is unlikely to exceed 52 weeks, and
 - (b) “**medical treatment**” means medical, surgical, psychological or rehabilitative treatment (including any course or diet regimen).
 
-### 7A. Time limits on absences where the claimant is treated as being in the common travel area[^key-e0ab5cf7a05f8faad5a7fd4aa3102b0d]
+### 7A. Time limits on absences where the claimant is treated as being in the common travel area[^c-e0ab5cf7a05f8faad5a7fd4aa3102b0d]
 
 Where the individual is temporarily absent from the common travel area in the circumstances specified in regulation 7(1), the total period of an absence where an individual is treated as present in the common travel area will not exceed 26 weeks.
 
-### 8. Serving members of His Majesty’s forces, civil servants and their family members[^key-293545abbe74c60e3fc2880771f9a678]
+### 8. Serving members of His Majesty’s forces, civil servants and their family members[^c-293545abbe74c60e3fc2880771f9a678]
 
 (1) A relevant individual is to be treated as meeting the residence and presence conditions set out in regulations 6(1)(a), (b) and (d) where on any day that individual is outside the common travel area—
 
@@ -354,7 +354,7 @@ Where the individual is temporarily absent from the common travel area in the ci
     - (i) where that force is one of His Majesty’s military forces, the depot for M’s unit is outside the United Kingdom, or
     - (ii) where that force is one of His Majesty’s air forces, M is liable under the terms of M’s engagement to serve only in a specified area outside the United Kingdom.
 
-### 9. Aircraft workers, mariners and continental shelf operations[^key-7fbe735c3f703652fcd8e90ba1ed90da]
+### 9. Aircraft workers, mariners and continental shelf operations[^c-7fbe735c3f703652fcd8e90ba1ed90da]
 
 (1) An individual is to be treated as meeting the presence conditions set out in regulation 6(1)(d) and (e) for any period where that individual is—
 
@@ -374,7 +374,7 @@ Where the individual is temporarily absent from the common travel area in the ci
 
   but does not include a person in so far as that employment is as a serving member of His Majesty’s forces.
 
-### 10. Persons residing in the United Kingdom to whom a relevant EU regulation applies[^key-5b0549b3b86022a2cadb796da1506bf4]
+### 10. Persons residing in the United Kingdom to whom a relevant EU regulation applies[^c-5b0549b3b86022a2cadb796da1506bf4]
 
 (1) The past presence condition set out in regulation 6(1)(e) (residence and presence conditions) does not apply where on any day the individual is—
 
@@ -384,16 +384,16 @@ Where the individual is temporarily absent from the common travel area in the ci
   - (i) to whom the rules set out in a relevant EU regulation apply by virtue of—
     - (aa) Title III of Part 2 of the EU withdrawal agreement,
     - (bb) Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020[^f00054] (“**the 2020 Act**”),
-    - (cc) Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act), [^key-5d512fe5dd5f9e5d7066e30c0a0d402e]...
-    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974[^f00055], or[^key-e91bc67fb3ca9c8c5f0edf0a9d2b7ab3]
+    - (cc) Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act), [^c-5d512fe5dd5f9e5d7066e30c0a0d402e]...
+    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974[^f00055], or[^c-e91bc67fb3ca9c8c5f0edf0a9d2b7ab3]
     - (ee) the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024, and
   - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash.
 
-(2) An individual to whom a relevant EU regulation applies is not entitled to Carer Support[^key-788a85b9cf63ecbfd41f955559ac5d40] for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of the relevant EU regulation in question.
+(2) An individual to whom a relevant EU regulation applies is not entitled to Carer Support[^c-788a85b9cf63ecbfd41f955559ac5d40] for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of the relevant EU regulation in question.
 
-### 11. Persons residing outside the United Kingdom to whom a relevant EU regulation applies[^key-2a465737b281796f8a5057b6cf9f3731]
+### 11. Persons residing outside the United Kingdom to whom a relevant EU regulation applies[^c-2a465737b281796f8a5057b6cf9f3731]
 
-(1) The residence and presence conditions set out in regulation 6(1) (residence and presence conditions) do not apply in relation to Carer Support[^key-1495f477218736b04a45621ad801c1bc] where on any day the individual satisfies the conditions in paragraph (2).
+(1) The residence and presence conditions set out in regulation 6(1) (residence and presence conditions) do not apply in relation to Carer Support[^c-1495f477218736b04a45621ad801c1bc] where on any day the individual satisfies the conditions in paragraph (2).
 
 (2) The conditions referred to in paragraph (1) are that the individual must—
 
@@ -401,9 +401,9 @@ Where the individual is temporarily absent from the common travel area in the ci
   - (i) to whom the rules set out in a relevant EU regulation apply by virtue of—
     - (aa) Title III of Part 2 of the EU withdrawal agreement,
     - (bb) Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“**the 2020 Act**”),
-    - (cc) Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act), [^key-0bc0666ec77325a6ff9205a4d1a89cd9]...
-    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974, or[^key-ac620525c394dc1396b91ed8f74552ba]
-    - (ee)[^key-ff166bfecf909e4781161080baf6aa3c] the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024, and
+    - (cc) Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act), [^c-0bc0666ec77325a6ff9205a4d1a89cd9]...
+    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974, or[^c-ac620525c394dc1396b91ed8f74552ba]
+    - (ee)[^c-ff166bfecf909e4781161080baf6aa3c] the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024, and
   - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash,
 - (b) be habitually resident in—
   - (i) Switzerland,
@@ -415,7 +415,7 @@ Where the individual is temporarily absent from the common travel area in the ci
 
 (4) An individual to whom a relevant EU regulation applies is not entitled to Carer Support for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of the relevant EU regulation in question.
 
-### 12. Entitlement to other benefits[^key-651061168d405da24ed810b4885460e3]
+### 12. Entitlement to other benefits[^c-651061168d405da24ed810b4885460e3]
 
 (1) An individual is not entitled to Carer Support Payment in respect of a cared for person for any period that they are entitled to—
 
@@ -425,9 +425,9 @@ Where the individual is temporarily absent from the common travel area in the ci
 
 (2) An individual may be entitled to Carer Support Payment in respect of a cared for person where they have previously been entitled to Young Carer Grant.
 
-### 13. Individuals in education[^key-fc2888ef2435e3de69283b2cd88cc1b4][^key-c35a3f4e9e7451ebfd902d99586ebcc4]
+### 13. Individuals in education[^c-fc2888ef2435e3de69283b2cd88cc1b4][^c-c35a3f4e9e7451ebfd902d99586ebcc4]
 
-(1)[^key-fc2888ef2435e3de69283b2cd88cc1b4] An individual who has not reached the age of 20 will not be entitled to Carer Support[^key-8c9e82b0ea9b386dc616d438f760ec4d] if they are—
+(1)[^c-fc2888ef2435e3de69283b2cd88cc1b4] An individual who has not reached the age of 20 will not be entitled to Carer Support[^c-8c9e82b0ea9b386dc616d438f760ec4d] if they are—
 
 - (a) undertaking a course of full-time education, which is not advanced education and which is not provided by virtue of their employment or any office held by them, or
 - (b) being provided with “appropriate full-time education” in England within the meaning of section 4 (appropriate full-time education or training) of the Education and Skills Act 2008[^f00056], which is not—
@@ -435,7 +435,7 @@ Where the individual is temporarily absent from the common travel area in the ci
   - (ii) provided by virtue of their employment of any office held by them,
 - (c) undertaking approved training that is not provided by means of a contract of employment.
 
-(2)[^key-3d65f84caa1710715d1ac40d302260ca] This regulation does not apply to an individual if they are—
+(2)[^c-3d65f84caa1710715d1ac40d302260ca] This regulation does not apply to an individual if they are—
 
 - (a) without parental support,
 - (b) entitled to disability living allowance, child disability payment, adult disability payment or personal independence payment and, on a date before the date on which the individual starts receiving education—
@@ -447,7 +447,7 @@ Where the individual is temporarily absent from the common travel area in the ci
   - (i) and the other member of the couple is not undertaking a course of education, or
   - (ii) both of whom are receiving education, and the other member of the couple falls within one of the exceptions set out in paragraph (2)(a) to (d).
 
-(3)[^key-3d65f84caa1710715d1ac40d302260ca] For the purposes of paragraph (2)(a), an individual is without parental support if they are not being looked after by a local authority and—
+(3)[^c-3d65f84caa1710715d1ac40d302260ca] For the purposes of paragraph (2)(a), an individual is without parental support if they are not being looked after by a local authority and—
 
 - (a) has no parent,
 - (b) cannot live with their parents because—
@@ -458,7 +458,7 @@ Where the individual is temporarily absent from the common travel area in the ci
   - (ii) is detained in custody pending trial or sentence upon conviction or under a sentence imposed by a court, or
   - (iii) is prohibited from entering or re-entering Great Britain.
 
-(4)[^key-fc2888ef2435e3de69283b2cd88cc1b4] For the purposes of this regulation—
+(4)[^c-fc2888ef2435e3de69283b2cd88cc1b4] For the purposes of this regulation—
 
 - “**advanced education**” means full-time education (which is not school education within the meaning of the Education (Scotland) Act 1980[^f00059]) for the purposes of—
   - (a) a course in preparation for a degree, a diploma of higher education, a higher national certificate, a higher national diploma, or a teaching qualification, or
@@ -481,13 +481,13 @@ Where the individual is temporarily absent from the common travel area in the ci
   - (b) in calculating the time spent in pursuit of the course, no account is taken of time occupied by meal breaks or spent on unsupervised study, and
 - “**qualifying young person**” has the same meaning as regulation 5 of the Universal Credit Regulations 2013.
 
-### 14. Earnings limit[^key-62d876023acbcc430da9beca79524590]
+### 14. Earnings limit[^c-62d876023acbcc430da9beca79524590]
 
-(1) An individual is not entitled to Carer Support Payment in any award week in which their earnings in respect of the immediately preceding award[^key-f1cd22bf872552ba18f9208e46396aa6] week exceed £204[^key-7411f1655edaeee22b6fcd3987528694].
+(1) An individual is not entitled to Carer Support Payment in any award week in which their earnings in respect of the immediately preceding award[^c-f1cd22bf872552ba18f9208e46396aa6] week exceed £204[^c-7411f1655edaeee22b6fcd3987528694].
 
 (2) Earnings are to be calculated in accordance with schedule 2.
 
-### 14A. Scottish Carer Supplement[^key-5c257e460d03da7d1c9f5fadc5246077]
+### 14A. Scottish Carer Supplement[^c-5c257e460d03da7d1c9f5fadc5246077]
 
 An individual is entitled to Scottish Carer Supplement for each award week in which Carer Support Payment is payable to the individual.
 
@@ -529,19 +529,19 @@ may run concurrently.
 
 ## PART 4 — Making of applications and payments and duration of eligibility
 
-### 15. Making payments[^key-ff90a7079ded7131ea96e63f2e5d54ab]
+### 15. Making payments[^c-ff90a7079ded7131ea96e63f2e5d54ab]
 
-(1) Where Carer Support[^key-1bf1a56143c1da87aa33c7dbdb2dbf1f] is payable in respect of an individual, the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the individual.
+(1) Where Carer Support[^c-1bf1a56143c1da87aa33c7dbdb2dbf1f] is payable in respect of an individual, the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the individual.
 
 (2) Where the Scottish Ministers consider, for any reason, that it is no longer appropriate for a particular person who falls within paragraph (1) to continue to receive the payment, they may cease making payment to that person.
 
-### 16. Amount and form of Carer Support[^key-cdc079708ac94a3de011a1cd18eb7460][^key-2e48e8f2d30ed36c450026548fb97c76]
+### 16. Amount and form of Carer Support[^c-cdc079708ac94a3de011a1cd18eb7460][^c-2e48e8f2d30ed36c450026548fb97c76]
 
-(1) The[^key-16353857ca9b47eca98ba02d658da059] weekly rate of payment of Carer Support Payment is £86.45[^key-f9626135ab7ac4bc85131899f27045f2].
+(1) The[^c-16353857ca9b47eca98ba02d658da059] weekly rate of payment of Carer Support Payment is £86.45[^c-f9626135ab7ac4bc85131899f27045f2].
 
-(1A)[^key-dcf82efffd9429a3aa4e980cd2ec53fe] The weekly rate of payment of Scottish Carer Supplement is £11.70[^key-387fffb5994ce87f8082e0fc585a3976].
+(1A)[^c-dcf82efffd9429a3aa4e980cd2ec53fe] The weekly rate of payment of Scottish Carer Supplement is £11.70[^c-387fffb5994ce87f8082e0fc585a3976].
 
-(1B) The weekly rate of payment of Carer Additional Person Payment is £10.40[^key-0dc190264fbdfc825487e8dc7525d096].
+(1B) The weekly rate of payment of Carer Additional Person Payment is £10.40[^c-0dc190264fbdfc825487e8dc7525d096].
 
 (2) For any award week where an individual is entitled to one or more overlapping benefit, the amount of Carer Support Payment that is to be given to the individual is to be reduced—
 
@@ -563,19 +563,19 @@ may run concurrently.
 - (k) Contributory Employment and Support Allowance,
 - (l) Training Allowance.
 
-(4) When the cared for person dies and an individual was entitled to Carer Support[^key-7d5c134c4615eb0699da78f26ef4ae9b] in respect of that cared for person immediately before their death, the individual’s entitlement to Carer Support will continue to be paid until whichever of the following comes first—
+(4) When the cared for person dies and an individual was entitled to Carer Support[^c-7d5c134c4615eb0699da78f26ef4ae9b] in respect of that cared for person immediately before their death, the individual’s entitlement to Carer Support will continue to be paid until whichever of the following comes first—
 
 - (a) until the first day of the award week following the award week in which the individual ceases to satisfy any of the eligibility requirements set out in regulations 6 to 14, or
-- (b)[^key-f2dd118c2828cfda66d3a3d0dabceeb7] the expiry of the period of 12 award weeks after the first day of the award week following the award week in which the cared for person died.
+- (b)[^c-f2dd118c2828cfda66d3a3d0dabceeb7] the expiry of the period of 12 award weeks after the first day of the award week following the award week in which the cared for person died.
 
-(4A)[^key-b1b3252517d909a42437c197c7141a8e] When an additional cared for person dies and an individual was entitled to Carer Additional Person Payment in respect of that additional cared for person immediately before their death, the individual’s entitlement to Carer Additional Person Payment in respect of that person will continue to be paid until whichever of the following comes first—
+(4A)[^c-b1b3252517d909a42437c197c7141a8e] When an additional cared for person dies and an individual was entitled to Carer Additional Person Payment in respect of that additional cared for person immediately before their death, the individual’s entitlement to Carer Additional Person Payment in respect of that person will continue to be paid until whichever of the following comes first—
 
 - (a) the first day of the award week following the award week in which the individual ceases to satisfy the eligibility requirement set out in regulation 14B(1)(a), or
 - (b) the expiry of the period of 12 award weeks after the first day of the award week following the award week in which the additional cared for person died.
 
-(5) Carer Support [^key-715dff37aba781ab5427c17d6200c579]... may only be given as money, except as provided for by—
+(5) Carer Support [^c-715dff37aba781ab5427c17d6200c579]... may only be given as money, except as provided for by—
 
-- (a) regulation 17 (abatement in respect of a relevant individual) in relation to Carer Support Payment[^key-def03b6d19b69e564874c0a2e3ea1f8f], or
+- (a) regulation 17 (abatement in respect of a relevant individual) in relation to Carer Support Payment[^c-def03b6d19b69e564874c0a2e3ea1f8f], or
 - (b) regulation 26 (form of payment – giving Carer Support Payment by way of deduction).
 
 (6) For the purposes of this regulation—
@@ -605,11 +605,11 @@ may run concurrently.
 - “**Widowed Parent’s Allowance**” means an allowance referred to in section 39A of the 1992 Act,
 - “**Widow’s Pension**” means a pension referred to in section 38 of the 1992 Act.
 
-### 17. Abatement in respect of a relevant benefit[^key-9036a054cbf22e41f2a905ef41bd39ee]
+### 17. Abatement in respect of a relevant benefit[^c-9036a054cbf22e41f2a905ef41bd39ee]
 
 (1) This regulation applies where an individual—
 
-- (a) makes an application for Carer Support [^key-2ed8e2c4c8a86d7a5b27a133171e8169]..., or
+- (a) makes an application for Carer Support [^c-2ed8e2c4c8a86d7a5b27a133171e8169]..., or
 - (b) becomes entitled to an increased amount of Carer Support Payment following a determination without application, and
 - (c) that individual is (or if they are a member of a couple, their partner is) in receipt of a relevant benefit at any time during the abatement period.
 
@@ -639,26 +639,26 @@ may run concurrently.
   - (c) Income-related Employment and Support Allowance, or
   - (d) Pension Credit.
 
-### 18. When an application is to be treated as made and beginning of entitlement to assistance[^key-c44a5a42dad031c8eb76b9dd1a1a0f87]
+### 18. When an application is to be treated as made and beginning of entitlement to assistance[^c-c44a5a42dad031c8eb76b9dd1a1a0f87]
 
-(1) An application for Carer Support[^key-713becdb808b403476d3442b4ca98eb0] is to be treated as made on the day it is received by the Scottish Ministers.
+(1) An application for Carer Support[^c-713becdb808b403476d3442b4ca98eb0] is to be treated as made on the day it is received by the Scottish Ministers.
 
 (2) Where, on the basis of an application, a determination is made that an individual is entitled to Carer Support, entitlement to assistance is to begin—
 
 - (a) on the first day of the award week in which the application is treated as made in accordance with paragraph (1),
 - (b) where the individual has notified the Scottish Ministers that they wish their entitlement to assistance to begin on a date prior to the day on which their application is treated as made, on the first day of the award week in which that chosen date falls, provided that—
   - (i) the date chosen by the individual is no more than 13 weeks prior to the day on which their application is treated as made, and
-  - (ii) the individual satisfied the eligibility requirements set out in regulation 3(2) (overview)[^key-00c59314550c86443034210d1ba044a5] of these Regulations on that chosen date, [^key-2860f4076c66e1cb7731aad594fe6d3a]...
-- (c) where regulation 19 applies (applications made within 13 weeks of a qualifying disability benefit), a date to be chosen by the Scottish Ministers in accordance with that regulation,[^key-fab8110abd28b3a13a810c5da098d5c8]
+  - (ii) the individual satisfied the eligibility requirements set out in regulation 3(2) (overview)[^c-00c59314550c86443034210d1ba044a5] of these Regulations on that chosen date, [^c-2860f4076c66e1cb7731aad594fe6d3a]...
+- (c) where regulation 19 applies (applications made within 13 weeks of a qualifying disability benefit), a date to be chosen by the Scottish Ministers in accordance with that regulation,[^c-fab8110abd28b3a13a810c5da098d5c8]
 - (d) where regulation 41 (individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) applies, in accordance with that regulation, or
 - (e) where regulation 41A (individuals in respect of whom Carer’s Allowance was paid before 6 November 2025 applies), in accordance with that regulation.
 
-(3)[^key-0d66ec6eed3da479a1321ead7541ddf5] Where the individual does not satisfy the eligibility requirements set out in regulation 3(2) (overview)[^key-ec1b7246a2e53a7b00f82970a710862d] of these Regulations on the date referred to in paragraph (2)(a), (b), (d) or (e), the Scottish Ministers may choose that entitlement begins on a later date, provided that—
+(3)[^c-0d66ec6eed3da479a1321ead7541ddf5] Where the individual does not satisfy the eligibility requirements set out in regulation 3(2) (overview)[^c-ec1b7246a2e53a7b00f82970a710862d] of these Regulations on the date referred to in paragraph (2)(a), (b), (d) or (e), the Scottish Ministers may choose that entitlement begins on a later date, provided that—
 
 - (a) the individual satisfies the eligibility requirements set out in regulation 3(2) (overview) of these Regulations on the later date, and
 - (b) that later date is no more than 13 weeks after the day on which their application is treated as made in accordance with paragraph (1).
 
-(4)[^key-e279c862e22077070b735135897c1b32] For the purposes of section 38(3) of the 2018 Act, the period covered by an application for Carer Support—
+(4)[^c-e279c862e22077070b735135897c1b32] For the purposes of section 38(3) of the 2018 Act, the period covered by an application for Carer Support—
 
 - (a) under paragraph (2)(a)—
   - (i) begins on the day on which the application is treated as having been made, and
@@ -692,21 +692,21 @@ may run concurrently.
 
     whichever is later.
 
-### 18A. Entitlement beginning before individual satisfied the residence requirements in regulation 46[^key-9f0024755a71157d475f0ff9a182caec]
+### 18A. Entitlement beginning before individual satisfied the residence requirements in regulation 46[^c-9f0024755a71157d475f0ff9a182caec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18B. Entitlement beginning before individual satisfied the residence requirements in regulation 46 – individuals in education mentioned in regulation 13(2)[^key-fd47baaa453469d44618445e352fd7da]
+### 18B. Entitlement beginning before individual satisfied the residence requirements in regulation 46 – individuals in education mentioned in regulation 13(2)[^c-fd47baaa453469d44618445e352fd7da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Applications made within 13 weeks of a qualifying disability benefit decision[^key-b9fbe25d5361f2ba353f69d15b1c6dc9]
+### 19. Applications made within 13 weeks of a qualifying disability benefit decision[^c-b9fbe25d5361f2ba353f69d15b1c6dc9]
 
-(1)[^key-c3522c7e6a961c2b1993a806cb3371b5] Where an individual makes an application for Carer Support within 13 weeks of a relevant qualifying disability benefit decision in respect of a cared for person, the Scottish Ministers may determine that entitlement to Carer Support begins on the first day of the award week in which, as a result of that relevant qualifying disability benefit decision, entitlement to that benefit begins, provided the individual satisfied the eligibility requirements set out in regulation 3(2) (overview) of these Regulations on that date.
+(1)[^c-c3522c7e6a961c2b1993a806cb3371b5] Where an individual makes an application for Carer Support within 13 weeks of a relevant qualifying disability benefit decision in respect of a cared for person, the Scottish Ministers may determine that entitlement to Carer Support begins on the first day of the award week in which, as a result of that relevant qualifying disability benefit decision, entitlement to that benefit begins, provided the individual satisfied the eligibility requirements set out in regulation 3(2) (overview) of these Regulations on that date.
 
-(2)[^key-b104f77da4768714bd07ff0b9ef098d6] Where the individual does not satisfy the eligibility requirements set out in regulation 3(2) (overview)[^key-a3089c6bc13dede0d0fe0e3415471480] of these Regulations on the date on which the relevant qualifying disability benefit decision in respect of a cared for person[^key-2bd7b04e6767ccedf56370531c350abc] falls, the Scottish Ministers may determine that entitlement to Carer Support Payment begins on a later date, provided that—
+(2)[^c-b104f77da4768714bd07ff0b9ef098d6] Where the individual does not satisfy the eligibility requirements set out in regulation 3(2) (overview)[^c-a3089c6bc13dede0d0fe0e3415471480] of these Regulations on the date on which the relevant qualifying disability benefit decision in respect of a cared for person[^c-2bd7b04e6767ccedf56370531c350abc] falls, the Scottish Ministers may determine that entitlement to Carer Support Payment begins on a later date, provided that—
 
-- (a) the individual satisfies the eligibility requirements set out in regulation 3(2) (overview)[^key-21dd595c5d121060e0ec21e79cf09320] on the later date, and
+- (a) the individual satisfies the eligibility requirements set out in regulation 3(2) (overview)[^c-21dd595c5d121060e0ec21e79cf09320] on the later date, and
 - (b) that later date is no more than 13 weeks after the day on which their application is treated as made in accordance with regulation 18(1) (when an application is to be treated as made and beginning of entitlement to assistance).
 
 (3) For the purposes of this regulation, “**relevant qualifying disability benefit decision**” means a decision—
@@ -718,35 +718,35 @@ may run concurrently.
 
 awarding a qualifying disability benefit to the cared for person mentioned in paragraph (1).
 
-### 20. Entitlement beginning before the commencement of these Regulations[^key-db207eb619c4b5288a1ae47b001e5639]
+### 20. Entitlement beginning before the commencement of these Regulations[^c-db207eb619c4b5288a1ae47b001e5639]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amount and form of Carer Support Payment where payments are backdated[^key-54caaded9c057ed6dae5cefb921d4501]
+### 21. Amount and form of Carer Support Payment where payments are backdated[^c-54caaded9c057ed6dae5cefb921d4501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Time of payment[^key-837a975857052338975db3735a3a4535]
+### 22. Time of payment[^c-837a975857052338975db3735a3a4535]
 
-Where an award of Carer Support[^key-3ce57232ddf311a25d9eeb431344dfa7] is made, the Scottish Ministers are to—
+Where an award of Carer Support[^c-3ce57232ddf311a25d9eeb431344dfa7] is made, the Scottish Ministers are to—
 
 - (a) make the first payment of assistance on a date specified in the notice of determination, and
 - (b) inform the individual that any subsequent payment will be made—
   - (i) 4 weekly in arrears, or
   - (ii) weekly in advance.
 
-### 23. Temporary stop in entitlement[^key-0af819f128bd336bb97a4121ca5906c7]
+### 23. Temporary stop in entitlement[^c-0af819f128bd336bb97a4121ca5906c7]
 
-(1) This paragraph applies where a determination has been made[^key-6b624779c6c5b21a96944c89eb159846] that an individual is no longer entitled to Carer Support[^key-0ae70ed254e227490b5615c06d364fdf] in respect of a cared for person because—
+(1) This paragraph applies where a determination has been made[^c-6b624779c6c5b21a96944c89eb159846] that an individual is no longer entitled to Carer Support[^c-0ae70ed254e227490b5615c06d364fdf] in respect of a cared for person because—
 
 - (a) the individual’s earnings in respect of an award week exceeded the earnings limit set out in regulation 14,
-- (b) the cared for person has voluntarily relinquished their entitlement to their qualifying disability benefit and the individual therefore no longer satisfies the requirements of regulation 5(1) (provision of care to a cared for person) in respect of an award week, [^key-f8e6b2b6431cb69f3c351f1abb907273]...
-- (c) subject to regulation 40 (temporary break in care), the individual failed to satisfy the requirements of regulation 5(1) (provision of care to a cared for person) in respect of an award week,[^key-7cd03a3a1e20feb6c5d3579236007e45]
+- (b) the cared for person has voluntarily relinquished their entitlement to their qualifying disability benefit and the individual therefore no longer satisfies the requirements of regulation 5(1) (provision of care to a cared for person) in respect of an award week, [^c-f8e6b2b6431cb69f3c351f1abb907273]...
+- (c) subject to regulation 40 (temporary break in care), the individual failed to satisfy the requirements of regulation 5(1) (provision of care to a cared for person) in respect of an award week,[^c-7cd03a3a1e20feb6c5d3579236007e45]
 - (d) the cared for person has become resident in Scotland from another part of the United Kingdom and is therefore no longer a person to whom a qualifying disability benefit is normally payable,
-- (e) the cared for person is a person to whom one of the qualifying disability benefits specified in paragraph (7A) was normally payable immediately before the corresponding date specified in that paragraph, but is no longer normally payable ,[^key-97c9b9fd51edea23633b47aed16bb608]
+- (e) the cared for person is a person to whom one of the qualifying disability benefits specified in paragraph (7A) was normally payable immediately before the corresponding date specified in that paragraph, but is no longer normally payable ,[^c-97c9b9fd51edea23633b47aed16bb608]
 - (f) the individual is temporarily absent in terms of regulation 7(2)(a) (temporary absence from the common travel area) and no longer treated as present in the common travel area in terms of regulation 7(1)
 
-(2) Where paragraph (1) applies, the Scottish Ministers are to make a determination without application of the individual’s entitlement to Carer Support if, within 26 weeks of the determination mentioned in paragraph (1), the Scottish Ministers establish that the individual satisfies the eligibility requirements set out in regulation 3(2) (overview)[^key-dc3f18feabdd0905d3d6cce231e1179d] of these Regulations.
+(2) Where paragraph (1) applies, the Scottish Ministers are to make a determination without application of the individual’s entitlement to Carer Support if, within 26 weeks of the determination mentioned in paragraph (1), the Scottish Ministers establish that the individual satisfies the eligibility requirements set out in regulation 3(2) (overview)[^c-dc3f18feabdd0905d3d6cce231e1179d] of these Regulations.
 
 (3) The duty on the Scottish Ministers to make a determination without application mentioned in paragraph (2) does not apply where another individual has been awarded—
 
@@ -759,16 +759,16 @@ in respect of the cared for person mentioned in paragraph (1).
 (4) This paragraph applies where an individual who has an ongoing entitlement to Carer Support cares for a cared for person whose qualifying disability benefit has been—
 
 - (a) reduced to £0,
-- (b) ended or the payment has stopped[^key-425dea95f5cfa59dce451f11984dc1e7] as a result of the cared for person being—
+- (b) ended or the payment has stopped[^c-425dea95f5cfa59dce451f11984dc1e7] as a result of the cared for person being—
   - (i) admitted to a hospital or care home, or
   - (ii) in legal detention,
-  - (iii)[^key-7166dde56afb13403cb491f37a386f36] temporarily absent and no longer treated as present in the common travel area,
+  - (iii)[^c-7166dde56afb13403cb491f37a386f36] temporarily absent and no longer treated as present in the common travel area,
 - (c) suspended as a result of—
   - (i) the circumstances mentioned in—
-    - (aa) regulation 26A(3)(a) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021[^f00071], [^key-17937c3fb46b7a0ee0854915f60bc7db]...
-    - (bb) regulation 38(3)(a) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00072], [^key-0090c52ed04a8ada28fa58490a15f9d5]...
-    - (cc)[^key-ebda68d99c8cbf1ad13380593a00f191] regulation 30(3)(a) of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^key-ab2e4705a1d99593cc46a6ee6455e8b3]
-    - (dd)[^key-c28a8589f96c6472e0a2a3870080676b] regulation 33(3)(a) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025,
+    - (aa) regulation 26A(3)(a) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021[^f00071], [^c-17937c3fb46b7a0ee0854915f60bc7db]...
+    - (bb) regulation 38(3)(a) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00072], [^c-0090c52ed04a8ada28fa58490a15f9d5]...
+    - (cc)[^c-ebda68d99c8cbf1ad13380593a00f191] regulation 30(3)(a) of the Disability Assistance for Older People (Scotland) Regulations 2024, or[^c-ab2e4705a1d99593cc46a6ee6455e8b3]
+    - (dd)[^c-c28a8589f96c6472e0a2a3870080676b] regulation 33(3)(a) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025,
   - (ii) a failure to provide information in accordance with—
     - (aa) regulation 17 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00073],
     - (bb) regulation 17 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00074],
@@ -786,7 +786,7 @@ in respect of the cared for person mentioned in paragraph (1).
 
 (7) Where paragraph (4)(c) applies, the determination comes into effect on the first day of the award week following the day on which the cared for person’s qualifying disability benefit has been suspended for 4 weeks.
 
-(7A)[^key-b650141eb5f823a62ba28bed208a3609] The qualifying disability benefits and the corresponding dates referred to in paragraph (1)(e) are—
+(7A)[^c-b650141eb5f823a62ba28bed208a3609] The qualifying disability benefits and the corresponding dates referred to in paragraph (1)(e) are—
 
 - (a) the daily living component of Personal Independence Payment, to be normally payable before 6 November 2025,
 - (b) the care component of Disability Living Allowance at the middle or highest rate, to be normally payable before—
@@ -794,7 +794,7 @@ in respect of the cared for person mentioned in paragraph (1).
   - (ii) where the individual was 16 or over before 7 July 2023, 23 February 2026,
 - (c) Attendance Allowance, to be normally payable before 23 February 2026.
 
-(8)[^key-7cc472de66b095e3a8dd69b63aa68b12] Where paragraph (5) applies, the Scottish Ministers are to make a determination without application of the individual’s entitlement to Carer Support if, within 26 weeks of the determination mentioned in paragraph (5), the Scottish Ministers establish that—
+(8)[^c-7cc472de66b095e3a8dd69b63aa68b12] Where paragraph (5) applies, the Scottish Ministers are to make a determination without application of the individual’s entitlement to Carer Support if, within 26 weeks of the determination mentioned in paragraph (5), the Scottish Ministers establish that—
 
 - (a) a determination is made that the value of the qualifying disability benefit that is to be given to the cared for person is an amount more than £0, or
 - (b) the suspension of the cared for person’s qualifying disability benefit mentioned in paragraph (4)(c) is ended and the cared for person would have been entitled to the qualifying disability benefit during the period of suspension.
@@ -818,9 +818,9 @@ in respect of the cared for person mentioned in paragraph (1).
 - (a) where it is determined that during the period of suspension, the cared for person would have been entitled to a qualifying disability benefit in respect of that period, on the first day of the award week in which the cared for person’s entitlement to the qualifying disability benefit begins,
 - (b) in any other event, on the first day of the award week in which the suspension is ended.
 
-(12)[^key-744cc897a655e519b51a91f72239a9cf] For the purposes of paragraph (1) a determination of an individual’s entitlement has the same meaning as in section 25 of the 2018 Act.
+(12)[^c-744cc897a655e519b51a91f72239a9cf] For the purposes of paragraph (1) a determination of an individual’s entitlement has the same meaning as in section 25 of the 2018 Act.
 
-### 23A. Determination following change in qualifying disability benefit – additional cared for person[^key-1c1c9f159d4da0fdd0894efb2b8817d1]
+### 23A. Determination following change in qualifying disability benefit – additional cared for person[^c-1c1c9f159d4da0fdd0894efb2b8817d1]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support, without receiving an application, where the individual—
 
@@ -836,9 +836,9 @@ in respect of the cared for person mentioned in paragraph (1).
 
 (4) Where paragraph (1)(b)(iii) applies, the determination comes into effect on the first day of the award week following the day on which the additional cared for person’s qualifying disability benefit has been suspended for 4 weeks.
 
-### 24. Multiple applications involving the same cared for person[^key-297c43757bb7e53fe7d02a15638d1b5c]
+### 24. Multiple applications involving the same cared for person[^c-297c43757bb7e53fe7d02a15638d1b5c]
 
-(1) Where the Scottish Ministers receive two or more applications for Carer Support [^key-e6f1e8d6ecf7cabd482206d9ed510d90]... from different individuals in respect of the same cared for person, the Scottish Ministers must determine the application made first before determining any other application.
+(1) Where the Scottish Ministers receive two or more applications for Carer Support [^c-e6f1e8d6ecf7cabd482206d9ed510d90]... from different individuals in respect of the same cared for person, the Scottish Ministers must determine the application made first before determining any other application.
 
 (2) Where, but for regulation 5(3) (provision of care to a cared for person), two or more individuals would be entitled to Carer Support Payment in respect of the same cared for person for the same period, only one of them may be entitled, being either—
 
@@ -890,7 +890,7 @@ in respect of the cared for person mentioned in paragraph (1).
 
 (9) Where paragraph (2) applies at the same time as paragraphs (3) or (4), the Scottish Ministers must make a determination under paragraph (2) before making a determination under paragraph (3) or (4).
 
-### 24A. Multiple applications involving the same additional cared for person[^key-0ba1c9ea3f210a6af78a795d77d2fffd]
+### 24A. Multiple applications involving the same additional cared for person[^c-0ba1c9ea3f210a6af78a795d77d2fffd]
 
 (1) Where the Scottish Ministers are required under these Regulations to make a determination of the entitlement of two or more individuals to Carer Support in respect of the same additional cared for person, the Scottish Ministers must determine the entitlement of the individual whose entitlement first fell to be determined in accordance with section 37 of the 2018 Act (whether on receipt of an application from the individual or by virtue of any provision of these Regulations) before making any other determination.
 
@@ -913,9 +913,9 @@ in respect of the cared for person mentioned in paragraph (1).
 
 (6) Where paragraph (2) applies at the same time as regulation 24(2), (3) or (4) (multiple applications involving the same cared for person), the Scottish Ministers must make a determination under regulation 24(2), (3) or (4) before making a determination under paragraph (2)(b).
 
-### 25. Continuing eligibility[^key-4976dc768d70ec0d663f7b57ae8c8da6]
+### 25. Continuing eligibility[^c-4976dc768d70ec0d663f7b57ae8c8da6]
 
-(1) Subject to paragraphs (3) and (4), a determination that an individual is entitled to Carer Support[^key-44969d33fd5f0b78b9f339a9ef5bc834] in respect of a period is to be made on the basis that the individual has an ongoing entitlement to Carer Support after the end of that period, except where paragraph (2) applies.
+(1) Subject to paragraphs (3) and (4), a determination that an individual is entitled to Carer Support[^c-44969d33fd5f0b78b9f339a9ef5bc834] in respect of a period is to be made on the basis that the individual has an ongoing entitlement to Carer Support after the end of that period, except where paragraph (2) applies.
 
 (2) This paragraph applies where, after the end of the period mentioned in paragraph (1), the individual no longer satisfies the eligibility rules.
 
@@ -930,52 +930,52 @@ in respect of the cared for person mentioned in paragraph (1).
 - (b) the information on which the determination mentioned in paragraph (1) was made still applies and is relevant in the individual’s case, and
 - (c) there is no change in circumstances of the individual which would require to be notified under section 56 of the 2018 Act.
 
-### 26. Form of payment – giving Carer Support by way of deduction[^key-c63feb5be9bb3be53119bfbc18478a8c][^key-fae29913b0b594d316afe9a909dc7379]
+### 26. Form of payment – giving Carer Support by way of deduction[^c-c63feb5be9bb3be53119bfbc18478a8c][^c-fae29913b0b594d316afe9a909dc7379]
 
-(1) Where an individual has a liability to the Scottish Ministers under section 63 of the 2018 Act, the individual’s payment of Carer Support[^key-3cef691a4f1a48cdedeb449a836a1638] may be given (in whole or in part) by way of deduction, at a reasonable level, from that liability either—
+(1) Where an individual has a liability to the Scottish Ministers under section 63 of the 2018 Act, the individual’s payment of Carer Support[^c-3cef691a4f1a48cdedeb449a836a1638] may be given (in whole or in part) by way of deduction, at a reasonable level, from that liability either—
 
 - (a) with the agreement of the individual, or
 - (b) without the individual’s agreement, where the individual has unreasonably refused to agree to the assistance being given in that form.
 
 (2) For the purposes of paragraph (1), “**reasonable level**” means a level that is reasonable having regard to the financial circumstances of the individual.
 
-### 27. When a decrease in amount or cessation of entitlement takes effect[^key-993c3e28886c2781241b7eb228b0e46c]
+### 27. When a decrease in amount or cessation of entitlement takes effect[^c-993c3e28886c2781241b7eb228b0e46c]
 
-(1) Where, as a result of a determination without application, the amount of Carer Support [^key-1c857796ad5531d799d12f0743e84659]... payable in respect of an individual is decreased or their entitlement to a component is ceased[^key-875823f2611b5bf0c1870d5317fbf1cf], the change takes effect—
+(1) Where, as a result of a determination without application, the amount of Carer Support [^c-1c857796ad5531d799d12f0743e84659]... payable in respect of an individual is decreased or their entitlement to a component is ceased[^c-875823f2611b5bf0c1870d5317fbf1cf], the change takes effect—
 
 - (a) in the case of a determination without application under regulation 35 (consideration of entitlement after specified period) or 36(a) (determination following change of circumstances etc.), on the first day of the award week following the award week in which—
   - (i) the individual should have notified the Scottish Ministers of the change, where the individual was required to notify a change under section 56 of the 2018 Act, if the individual—
     - (aa) knowingly fails to notify a change, or
     - (bb) fails to notify the change as soon as reasonably practicable after it occurred, or
   - (ii) in any other case, the Scottish Ministers make the determination,
-- (ab)[^key-ed8ef2d34b0b44b0d8d04560858e7c9a] in the case of a decrease pursuant to a determination made under regulation 36(f) or 36(g) (determination following change of circumstances etc.), on the day on which the individual’s entitlement to Carer’s Allowance ceased,
-- (ac)[^key-cefaf5fb2fb092fac8be9e8fc41eaf2b] in the case of a determination without application under regulation 36(c) (determination following change of circumstances etc.), on the first day of the award week following the award week in which the individual died,
-- (b)[^key-3b97b03c1bac8f2464bbb89d1fdb1351] in the case of an earlier determination which was based on error within the meaning of regulation 37 (determination following official error – underpayments) or regulation 38 (determination following error – overpayments), on the first day of the award week in which the earlier determination took effect,
+- (ab)[^c-ed8ef2d34b0b44b0d8d04560858e7c9a] in the case of a decrease pursuant to a determination made under regulation 36(f) or 36(g) (determination following change of circumstances etc.), on the day on which the individual’s entitlement to Carer’s Allowance ceased,
+- (ac)[^c-cefaf5fb2fb092fac8be9e8fc41eaf2b] in the case of a determination without application under regulation 36(c) (determination following change of circumstances etc.), on the first day of the award week following the award week in which the individual died,
+- (b)[^c-3b97b03c1bac8f2464bbb89d1fdb1351] in the case of an earlier determination which was based on error within the meaning of regulation 37 (determination following official error – underpayments) or regulation 38 (determination following error – overpayments), on the first day of the award week in which the earlier determination took effect,
 - (c) in any other case, on the first day of the award week following the award week in which the Scottish Ministers make the determination.
 
 (2) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set a later date for the purposes of paragraph (1).
 
-### 28. When an increase in amount of entitlement takes effect[^key-10ed6e8164b4909d3107258860862afc]
+### 28. When an increase in amount of entitlement takes effect[^c-10ed6e8164b4909d3107258860862afc]
 
-(1) Where, as a result of a determination without application, the amount of Carer Support[^key-2e07385a36ed42011ab0ba2f1f000b18] payable in respect of an individual is increased or their entitlement to a component is awarded[^key-a2aac9ad8517a8c64dbbbcd16db218f0], the change takes effect—
+(1) Where, as a result of a determination without application, the amount of Carer Support[^c-2e07385a36ed42011ab0ba2f1f000b18] payable in respect of an individual is increased or their entitlement to a component is awarded[^c-a2aac9ad8517a8c64dbbbcd16db218f0], the change takes effect—
 
-- (a) in the case of an award of entitlement to a component or[^key-328cdd8a331391010d57dadb77b4f3f7] an increase pursuant to a determination made under regulation 36(a) or (b) (determination following change of circumstances etc.), on the first day of the award week in which—
-  - (i) the individual first satisfies the requirements for an award of entitlement to a component or[^key-dfa0d4cad3c5d60926b44a0d0cf770ac] an increased amount of Carer Support—
+- (a) in the case of an award of entitlement to a component or[^c-328cdd8a331391010d57dadb77b4f3f7] an increase pursuant to a determination made under regulation 36(a) or (b) (determination following change of circumstances etc.), on the first day of the award week in which—
+  - (i) the individual first satisfies the requirements for an award of entitlement to a component or[^c-dfa0d4cad3c5d60926b44a0d0cf770ac] an increased amount of Carer Support—
     - (aa) where the individual reports the change within 13 weeks of the change occurring, or
     - (bb) where the individual reports the change more than 13 weeks after the change occurring, but only if the Scottish Ministers consider that the individual has good reason for not reporting the change within 13 weeks, or
   - (ii) in any other case, the individual reports the change,
   - (iii) where as a result of the Scottish Ministers becoming aware that a determination of an individual’s entitlement was made in ignorance of a material fact, the Scottish Ministers make the determination.
-- (ab)[^key-f5a4dd16f9b8933e72feea9a4dcd9336] in the case of an increase pursuant to a determination made under regulation 36(f) or 36(g) (determination following change of circumstances etc.) on the day on which the individual’s entitlement to Carer’s Allowance ceased,
-- (b)[^key-2d770665f5a7dc50be1f67ffaffd05e1] in the case of an earlier determination which was based on error within the meaning of regulation 37 (determination following official error – underpayments) or regulation 38 (determination following error – overpayments), on the first day of the award week in which the earlier determination took effect,
+- (ab)[^c-f5a4dd16f9b8933e72feea9a4dcd9336] in the case of an increase pursuant to a determination made under regulation 36(f) or 36(g) (determination following change of circumstances etc.) on the day on which the individual’s entitlement to Carer’s Allowance ceased,
+- (b)[^c-2d770665f5a7dc50be1f67ffaffd05e1] in the case of an earlier determination which was based on error within the meaning of regulation 37 (determination following official error – underpayments) or regulation 38 (determination following error – overpayments), on the first day of the award week in which the earlier determination took effect,
 - (c) in any other case, on the first day of the award week following the award week in which the Scottish Ministers make the determination.
 
 (2) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set an earlier date for the purposes of paragraph (1).
 
 ## PART 5 — Suspensions
 
-### 29. Circumstances in which assistance may be suspended[^key-4e2c9527e4e80563defab44214262094]
+### 29. Circumstances in which assistance may be suspended[^c-4e2c9527e4e80563defab44214262094]
 
-(1) The Scottish Ministers may decide that an individual who has an ongoing entitlement to Carer Support[^key-a63754be419fee0c361955e68db44123] in respect of a period by virtue of regulation 25 (continuing eligibility) is not to become entitled to be given some or all of that assistance at the time at which the individual otherwise would in accordance with that regulation, as read with regulation 22 (time of payment) (referred to in these Regulations as a decision to suspend the individual’s Carer Support).
+(1) The Scottish Ministers may decide that an individual who has an ongoing entitlement to Carer Support[^c-a63754be419fee0c361955e68db44123] in respect of a period by virtue of regulation 25 (continuing eligibility) is not to become entitled to be given some or all of that assistance at the time at which the individual otherwise would in accordance with that regulation, as read with regulation 22 (time of payment) (referred to in these Regulations as a decision to suspend the individual’s Carer Support).
 
 (2) Where such a decision is made in respect of an individual, payments of Carer Support to that individual are to be suspended until such a time as the Scottish Ministers decide that the individual is once again to become entitled to be given Carer Support.
 
@@ -991,13 +991,13 @@ in respect of the cared for person mentioned in paragraph (1).
   - (iii) being put under pressure in relation to money or other property,
   - (iv) having money or other property misused.
 
-### 30. Having regard to financial circumstances[^key-fc0887bcd3f3c198f5ce8a0d393694c2]
+### 30. Having regard to financial circumstances[^c-fc0887bcd3f3c198f5ce8a0d393694c2]
 
-The Scottish Ministers must have regard to an individual’s financial circumstances prior to making a decision to suspend payment to the individual of some or all of Carer Support[^key-be5468eb30ea4e22e8609eb08d0085b8].
+The Scottish Ministers must have regard to an individual’s financial circumstances prior to making a decision to suspend payment to the individual of some or all of Carer Support[^c-be5468eb30ea4e22e8609eb08d0085b8].
 
-### 31. Information to be given following suspension[^key-ff07b9e40a1029b7f85d27862d4b443b]
+### 31. Information to be given following suspension[^c-ff07b9e40a1029b7f85d27862d4b443b]
 
-(1) Having made a decision to suspend an individual’s Carer Support[^key-35970755cf58721a37faba8873539f2b], the Scottish Ministers must inform the individual of—
+(1) Having made a decision to suspend an individual’s Carer Support[^c-35970755cf58721a37faba8873539f2b], the Scottish Ministers must inform the individual of—
 
 - (a) their decision to suspend the individual’s Carer Support,
 - (b) the reasons for their decision,
@@ -1006,9 +1006,9 @@ The Scottish Ministers must have regard to an individual’s financial circumsta
 
 (2) The Scottish Ministers must fulfil their duty under paragraph (1) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-### 32. Right to review suspension[^key-474b7a60d82c34daace308e50f41a9ef]
+### 32. Right to review suspension[^c-474b7a60d82c34daace308e50f41a9ef]
 
-(1) An individual may require the Scottish Ministers to review a decision to suspend that individual’s Carer Support[^key-e42522448be8301ce7e75a7f0fde6110].
+(1) An individual may require the Scottish Ministers to review a decision to suspend that individual’s Carer Support[^c-e42522448be8301ce7e75a7f0fde6110].
 
 (2) The Scottish Ministers must—
 
@@ -1017,7 +1017,7 @@ The Scottish Ministers must have regard to an individual’s financial circumsta
 
 (3) The Scottish Ministers must fulfil their duty under paragraph (2)(b) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-### 33. Ending a suspension[^key-e7e0da730a3cc5e938d556c03b8e8107]
+### 33. Ending a suspension[^c-e7e0da730a3cc5e938d556c03b8e8107]
 
 The Scottish Ministers are to make a decision to end a suspension where—
 
@@ -1027,55 +1027,55 @@ The Scottish Ministers are to make a decision to end a suspension where—
 - (d) the circumstances mentioned in regulation 29(3)(b) (circumstances in which assistance may be suspended) no longer apply, or
 - (e) the Scottish Ministers consider it appropriate in the circumstances, including having regard to the financial circumstances of the individual.
 
-### 34. Effect of suspension ending[^key-51c940264bf4360e7f40336a6ea2a913]
+### 34. Effect of suspension ending[^c-51c940264bf4360e7f40336a6ea2a913]
 
 When—
 
-- (a) the suspension of an individual’s Carer Support[^key-ba991b59798729948401a927a73802a2] ends, and
+- (a) the suspension of an individual’s Carer Support[^c-ba991b59798729948401a927a73802a2] ends, and
 - (b) under the latest determination of the individual’s entitlement to Carer Support relating to the period of the suspension the individual would have become entitled to be given Carer Support during that period,
 
 the individual is immediately to be given the Carer Support that the individual would have become entitled to be given under the determination during the period of suspension.
 
-## PART 6 — Re-consideration of entitlement to Carer Support: determination without application[^key-6b14793170a5010f03e0beb8c87889e6]
+## PART 6 — Re-consideration of entitlement to Carer Support: determination without application[^c-6b14793170a5010f03e0beb8c87889e6]
 
-### 35. Consideration of entitlement after specified period[^key-a028638bb26dcc4c1d707cc01834d99c]
+### 35. Consideration of entitlement after specified period[^c-a028638bb26dcc4c1d707cc01834d99c]
 
-The Scottish Ministers must make a determination of an individual’s entitlement to Carer Support[^key-95cd5ec33ebfa3fed2d168f422fc8723], without receiving an application, after the end of the period specified (if any) in—
+The Scottish Ministers must make a determination of an individual’s entitlement to Carer Support[^c-95cd5ec33ebfa3fed2d168f422fc8723], without receiving an application, after the end of the period specified (if any) in—
 
 - (a) the individual’s notice of determination under section 40 or notice of re-determination under section 44 (as the case may be), or
 - (b) a determination made by the First-tier Tribunal for Scotland under section 49,
 
 of the 2018 Act.
 
-### 36. Determination following change of circumstances etc.[^key-8166cca1ee90a38cec266fed215b1001]
+### 36. Determination following change of circumstances etc.[^c-8166cca1ee90a38cec266fed215b1001]
 
-The Scottish Ministers must make a determination of an individual’s entitlement to Carer Support [^key-ede562bbd90534289a54c9f6f1fa780e]..., without receiving an application, where the individual has an ongoing entitlement to Carer Support [^key-ede562bbd90534289a54c9f6f1fa780e]... and they become aware—
+The Scottish Ministers must make a determination of an individual’s entitlement to Carer Support [^c-ede562bbd90534289a54c9f6f1fa780e]..., without receiving an application, where the individual has an ongoing entitlement to Carer Support [^c-ede562bbd90534289a54c9f6f1fa780e]... and they become aware—
 
 - (a) of a change of circumstances whether or not notified by the individual in accordance with section 54 or 56 of the 2018 Act,
-- (b) that a determination of an individual’s entitlement was made in ignorance of a material fact which is likely to result in an alteration to the amount or the component[^key-c465e71693734146fbb4bf66017f9d31] of Carer Support [^key-16b4ddd6c1480ec290fc95c340e4d822]... payable to the individual or which is likely to mean that the individual is no longer entitled to Carer Support [^key-16b4ddd6c1480ec290fc95c340e4d822]...,
+- (b) that a determination of an individual’s entitlement was made in ignorance of a material fact which is likely to result in an alteration to the amount or the component[^c-c465e71693734146fbb4bf66017f9d31] of Carer Support [^c-16b4ddd6c1480ec290fc95c340e4d822]... payable to the individual or which is likely to mean that the individual is no longer entitled to Carer Support [^c-16b4ddd6c1480ec290fc95c340e4d822]...,
 - (c) that the individual has died,
 - (d) that the cared for person has died,
-- (da)[^key-ef413b3b7caa04ce9d0626965768f4d5] that an additional cared for person has died,
+- (da)[^c-ef413b3b7caa04ce9d0626965768f4d5] that an additional cared for person has died,
 - (e) that the individual has notified the Scottish Ministers that they wish for their entitlement to assistance to begin on a date prior to the day on which their application was treated as made, provided that—
-  - (i)[^key-28bc4b842a57d3dfb9020f982dd5371b] the date chosen by the individual—
-    - (aa)[^key-2ebe554107091b673b42ab09b5dc7597] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-    - (bb)[^key-a9d0ba604a5329a64e6f1bbc5b57f555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-28bc4b842a57d3dfb9020f982dd5371b] the date chosen by the individual—
+    - (aa)[^c-2ebe554107091b673b42ab09b5dc7597] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb)[^c-a9d0ba604a5329a64e6f1bbc5b57f555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (cc) in any other case, no more than 13 weeks prior to the day on which their application is treated as made,
-  - (ii) the individual satisfied the eligibility requirements set out in regulation 3(2) (overview)[^key-5b0a319d965f85831d26e4c67bfcc0c3] of these Regulations on that chosen date , and[^key-72c9430bfbad82192f7942b44540c066]
+  - (ii) the individual satisfied the eligibility requirements set out in regulation 3(2) (overview)[^c-5b0a319d965f85831d26e4c67bfcc0c3] of these Regulations on that chosen date , and[^c-72c9430bfbad82192f7942b44540c066]
   - (iii) the individual notifies the Scottish Ministers—
-    - (aa) within 13 weeks of the date on which their entitlement to Carer Support [^key-a6693570ce1b2baba091e24c286f4946]... was determined on the basis of an application, or
+    - (aa) within 13 weeks of the date on which their entitlement to Carer Support [^c-a6693570ce1b2baba091e24c286f4946]... was determined on the basis of an application, or
     - (bb) where the Scottish Ministers consider that the individual has good reason for not notifying that they wish for their entitlement to assistance to begin on a date prior to the day on which their application was treated as made within the period referred to in head (aa), on a later date.
-- (f) of an alteration of the award of Carer’s Allowance which the individual was entitled to immediately before the date of transfer to Carer Support Payment in accordance with Part 2 of schedule 1, as a result of a decision made pursuant to— *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (i) a revision under regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6][^f00082] (“**the 1999 Regulations *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**”),
-  - (ii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a supersession under regulation 6 of the 1999 Regulations, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (iii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] an appeal under section 12 of the Social Security Act 1998 (“ *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**the 1998 Act *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**”)[^f00083],
-  - (iv (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a redetermination under section 13 of the 1998 Act, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (v) an appeal to the Upper Tribunal under section 14 of the 1998 Act, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (vi (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a revision under article 10 of the Social Security (Northern Ireland) Order 1998 *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6][^f00084] (“**the 1998 Order *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**”),
-  - (vii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a supersession under article 11 of the 1998 Order, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (viii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] an appeal under article 13 of the 1998 Order, or *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (ix (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] an appeal to the Commissioner under article 15 of the 1998 Order, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-- (fa)[^key-ea1ae5e1dba53b8aec43bef549cf2edb] of an alteration of the award of Carer Support Payment which the individual was entitled to immediately before the date of transfer to Carer Support in accordance with schedule 2 (transfer from Carer Support Payment to Carer Support) of the Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025, as a result of—
+- (f) of an alteration of the award of Carer’s Allowance which the individual was entitled to immediately before the date of transfer to Carer Support Payment in accordance with Part 2 of schedule 1, as a result of a decision made pursuant to— *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (i) a revision under regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6][^f00082] (“**the 1999 Regulations *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**”),
+  - (ii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a supersession under regulation 6 of the 1999 Regulations, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (iii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] an appeal under section 12 of the Social Security Act 1998 (“ *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**the 1998 Act *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**”)[^f00083],
+  - (iv (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a redetermination under section 13 of the 1998 Act, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (v) an appeal to the Upper Tribunal under section 14 of the 1998 Act, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (vi (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a revision under article 10 of the Social Security (Northern Ireland) Order 1998 *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6][^f00084] (“**the 1998 Order *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**”),
+  - (vii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a supersession under article 11 of the 1998 Order, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (viii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] an appeal under article 13 of the 1998 Order, or *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (ix (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] an appeal to the Commissioner under article 15 of the 1998 Order, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+- (fa)[^c-ea1ae5e1dba53b8aec43bef549cf2edb] of an alteration of the award of Carer Support Payment which the individual was entitled to immediately before the date of transfer to Carer Support in accordance with schedule 2 (transfer from Carer Support Payment to Carer Support) of the Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025, as a result of—
   - (i) a determination under regulation 24 (multiple applications involving the same cared for person),
   - (ii) a determination under regulation 35 (consideration of entitlement after specified period),
   - (iii) a determination under regulation 36 (determination following change of circumstances etc.),
@@ -1084,20 +1084,20 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
   - (vi) a determination under section 43 (duty to re-determine) of the 2018 Act,
   - (vii) a determination under section 49 (First-tier Tribunal’s power to determine entitlement) of the 2018 Act, or
   - (viii) a decision pursuant to an appeal to the Upper Tribunal under section 47 of the Tribunals (Scotland) Act 2014,
-- (g) of an alteration of the award of Carer’s Allowance which the individual was entitled to immediately before moving to Scotland in circumstances in which regulation 41 (individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) applies, as a result of a decision made pursuant to— *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (i) a revision under regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (“ *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**the 1999 Regulations *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**”),
-  - (ii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a supersession under regulation 6 of the 1999 Regulations, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (iii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] an appeal under section 12 of the Social Security Act 1998 (“ *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**the 1998 Act *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**”),
-  - (iv (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a re-consideration under section 13 of the 1998 Act, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (v) an appeal to the Upper Tribunal under section 14 of the 1998 Act, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (vi (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a revision under article 10 of the Social Security (Northern Ireland) Order 1998 *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6][^f00085] (“**the 1998 Order *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]**”),
-  - (vii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] a supersession under article 11 of the 1998 Order, *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (viii (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] an appeal under article 13 of the 1998 Order, or *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
-  - (ix (affected by repeal, see note))[^key-c5206a9b2db81f47e151ad96d1a640b6] an appeal to the Commissioner under article 15 of the 1998 Order. *(affected by repeal, see note)*[^key-c5206a9b2db81f47e151ad96d1a640b6]
+- (g) of an alteration of the award of Carer’s Allowance which the individual was entitled to immediately before moving to Scotland in circumstances in which regulation 41 (individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) applies, as a result of a decision made pursuant to— *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (i) a revision under regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (“ *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**the 1999 Regulations *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**”),
+  - (ii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a supersession under regulation 6 of the 1999 Regulations, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (iii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] an appeal under section 12 of the Social Security Act 1998 (“ *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**the 1998 Act *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**”),
+  - (iv (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a re-consideration under section 13 of the 1998 Act, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (v) an appeal to the Upper Tribunal under section 14 of the 1998 Act, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (vi (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a revision under article 10 of the Social Security (Northern Ireland) Order 1998 *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6][^f00085] (“**the 1998 Order *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]**”),
+  - (vii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] a supersession under article 11 of the 1998 Order, *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (viii (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] an appeal under article 13 of the 1998 Order, or *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
+  - (ix (affected by repeal, see note))[^c-c5206a9b2db81f47e151ad96d1a640b6] an appeal to the Commissioner under article 15 of the 1998 Order. *(affected by repeal, see note)*[^c-c5206a9b2db81f47e151ad96d1a640b6]
 
-### 37. Determination following official error - underpayments[^key-387510dae3e00041c0ad1750241c1760]
+### 37. Determination following official error - underpayments[^c-387510dae3e00041c0ad1750241c1760]
 
-(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support[^key-70b6396b9dce25c6bfe15f54051e1580], without receiving an application, where—
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support[^c-70b6396b9dce25c6bfe15f54051e1580], without receiving an application, where—
 
 - (a) they have previously made a determination of the individual’s entitlement to Carer Support (“the original determination”),
 - (b) they establish that, due to an official error, the original determination was incorrect resulting in the individual—
@@ -1117,9 +1117,9 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 
 (3) In this regulation “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone else.
 
-### 38. Determination following error – overpayments[^key-46ae07c15b8c30a29886a391067bc072]
+### 38. Determination following error – overpayments[^c-46ae07c15b8c30a29886a391067bc072]
 
-(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support[^key-5178997e0f7adb5dc52dd72ffd3c853c], without receiving an application, where—
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support[^c-5178997e0f7adb5dc52dd72ffd3c853c], without receiving an application, where—
 
 - (a) they have previously made a determination of the individual’s entitlement to Carer Support (“the original determination”),
 - (b) they establish that, due to an error, the original determination was incorrect resulting in the individual being given—
@@ -1145,9 +1145,9 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
     - (bb) an assumption which proves to be wrong, or
 - (b) a new determination not being made after an assumption on the basis of which an earlier determination was made has proved to be wrong.
 
-### 39. Determination to effect a deduction decision[^key-0aec2e08785e182254a308b7a5315abd]
+### 39. Determination to effect a deduction decision[^c-0aec2e08785e182254a308b7a5315abd]
 
-(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support[^key-872005fa89b76a91e447743170ed817c], without receiving an application, where the circumstances in paragraphs (2) and (3) apply.
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support[^c-872005fa89b76a91e447743170ed817c], without receiving an application, where the circumstances in paragraphs (2) and (3) apply.
 
 (2) This paragraph applies where—
 
@@ -1169,7 +1169,7 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 
 ## PART 7 — Breaks in care
 
-### 40. Temporary break in care[^key-afe87340b03b1930ad0bb8d302b34dd7]
+### 40. Temporary break in care[^c-afe87340b03b1930ad0bb8d302b34dd7]
 
 (1) An award week in respect of which an individual fails to satisfy the requirement of regulation 5(2) (provision of care to a cared for person) is to be treated as an award week in respect of which that individual satisfies that requirement if—
 
@@ -1196,7 +1196,7 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 
 ## PART 8 — Movement of individuals between Scotland and the rest of the United Kingdom
 
-### 41. Individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland[^key-24317ebc67b3eda8e9d269da768e5313][^M_F_44d1cc7c-7651-4f99-9025-952f4e81b4cb]
+### 41. Individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland[^c-24317ebc67b3eda8e9d269da768e5313][^M_F_44d1cc7c-7651-4f99-9025-952f4e81b4cb]
 
 (1) This regulation applies where an individual—
 
@@ -1204,16 +1204,16 @@ The Scottish Ministers must make a determination of an individual’s entitlemen
 - (b) was resident in another part of the United Kingdom, and
 - (c) was entitled to Carer’s Allowance in respect of a cared for person immediately before the date of the move.
 
-(2) Where, on the basis of an application, a determination is made that an individual to whom paragraph (1) applies is entitled to Carer Support[^key-043c94b7d9287c91b926161b42ed253d], entitlement to assistance is to begin in accordance with paragraphs (3) to (5).
+(2) Where, on the basis of an application, a determination is made that an individual to whom paragraph (1) applies is entitled to Carer Support[^c-043c94b7d9287c91b926161b42ed253d], entitlement to assistance is to begin in accordance with paragraphs (3) to (5).
 
-(3)[^key-8a746b0ffbc5ae3a5d76567786a671c3] Where an application is received by Scottish Ministers within 26 weeks of the date of the move, entitlement to Carer Support begins—
+(3)[^c-8a746b0ffbc5ae3a5d76567786a671c3] Where an application is received by Scottish Ministers within 26 weeks of the date of the move, entitlement to Carer Support begins—
 
 - (a) on the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased, or
 - (b) 15 March 2026,
 
 whichever is later.
 
-(3A)[^key-accbee2ad85dd704636bb77fb08742f0] Where—
+(3A)[^c-accbee2ad85dd704636bb77fb08742f0] Where—
 
 - (a) entitlement begins in accordance with paragraph (3), and
 - (b) the individual would have been entitled to any payment of Scottish Carer Supplement or Carer Additional Person Payment, had their entitlement to Carer Support started on a date between—
@@ -1226,14 +1226,14 @@ whichever is later.
 
 (5) Where the Scottish Ministers are satisfied that there is a good reason why an application was made more than 26 weeks after the date of move, they may treat the application as having been made within that period.
 
-(6) Where entitlement begins in accordance with paragraph (3)(a)[^key-6bd2389c6be186544c4c16780df61219], for the week in which entitlement begins, “**award week**” means—
+(6) Where entitlement begins in accordance with paragraph (3)(a)[^c-6bd2389c6be186544c4c16780df61219], for the week in which entitlement begins, “**award week**” means—
 
 - (a) where the individual cares for a cared for person who is in receipt of Constant Attendance Allowance, a period of 4 days, starting on the Wednesday of that week and ending on the following Saturday, or
 - (b) in all other cases, a period of 6 days, starting on the Monday of that week and ending on the following Saturday.
 
 (7) In this regulation, “the date of the move” is the date when the individual becomes resident in Scotland, as notified by the individual or otherwise communicated to the Scottish Ministers (whether the notification takes place before or after the date of the move).
 
-### 41A. Individuals in respect of whom Carer’s Allowance was paid before 6 November 2025[^key-2c016cd2d4c7df5558fd682a60dbc85d]
+### 41A. Individuals in respect of whom Carer’s Allowance was paid before 6 November 2025[^c-2c016cd2d4c7df5558fd682a60dbc85d]
 
 (1) This regulation applies where an individual—
 
@@ -1242,19 +1242,19 @@ whichever is later.
   - (ii) either—
     - (aa) fell within the definition of a “relevant individual” in terms of regulation 44 and paragraph 3 of schedule 1 as they applied before 6 November 2025, or
     - (bb) would have fallen within the definition referred to in sub-head (aa) had the entitlement to Carer’s Allowance referenced in head (i) been established prior to 6 November 2025,
-- (b) has not had their entitlement transferred or otherwise become entitled to Carer Support Payment (before 15 March 2026) or Carer Support[^key-613d2484cd5d2c9b8afa00fd7ba7b469], and
+- (b) has not had their entitlement transferred or otherwise become entitled to Carer Support Payment (before 15 March 2026) or Carer Support[^c-613d2484cd5d2c9b8afa00fd7ba7b469], and
 - (c) is not a person to whom regulation 41(1) applies.
 
-(2) Where, on the basis of an application, a determination is made that an individual to whom paragraph (1) applies is entitled to Carer Support [^key-68b058c4c124cbbaf20a61c157e59fec]..., entitlement to assistance is to begin in accordance with paragraphs (3) to (5).
+(2) Where, on the basis of an application, a determination is made that an individual to whom paragraph (1) applies is entitled to Carer Support [^c-68b058c4c124cbbaf20a61c157e59fec]..., entitlement to assistance is to begin in accordance with paragraphs (3) to (5).
 
-(3)[^key-0baf8f3c7b7f0b25e6775170b9161b70] Where an application is received by the Scottish Ministers within 26 weeks of the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Carer’s Allowance was not transferred to an entitlement to Carer Support Payment, entitlement to Carer Support begins on—
+(3)[^c-0baf8f3c7b7f0b25e6775170b9161b70] Where an application is received by the Scottish Ministers within 26 weeks of the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Carer’s Allowance was not transferred to an entitlement to Carer Support Payment, entitlement to Carer Support begins on—
 
 - (a) the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased, or
 - (b) 15 March 2026,
 
 whichever is later.
 
-(3A)[^key-3f92619db529cfc7fdd3507e13dd31b9] Where—
+(3A)[^c-3f92619db529cfc7fdd3507e13dd31b9] Where—
 
 - (a) entitlement begins in accordance with paragraph (3), and
 - (b) the individual would have been entitled to any payment of Scottish Carer Supplement or Carer Additional Person Payment, had their entitlement to Carer Support started on a date between—
@@ -1263,18 +1263,18 @@ whichever is later.
 
 the value of the first payment of Carer Support to be given to the individual is to be increased by the value of any payment of Scottish Carer Supplement or Carer Additional Person Payment that they would have been entitled to for each award week between the dates referred to in heads (i) and (ii).
 
-(4) Subject to paragraph (5), where an application is received by the Scottish Ministers more than 26 weeks from the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Carer’s Allowance was not transferred to an entitlement to Carer Support [^key-312f2036d85f686026913690530af73b]..., entitlement to Carer Support [^key-312f2036d85f686026913690530af73b]... begins in accordance with regulation 18(2)(a), (b) or (c).
+(4) Subject to paragraph (5), where an application is received by the Scottish Ministers more than 26 weeks from the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Carer’s Allowance was not transferred to an entitlement to Carer Support [^c-312f2036d85f686026913690530af73b]..., entitlement to Carer Support [^c-312f2036d85f686026913690530af73b]... begins in accordance with regulation 18(2)(a), (b) or (c).
 
 (5) Where the Scottish Ministers are satisfied that there is a good reason why an application was made more than 26 weeks after the date described in paragraph (3), they may treat the application as having been made within that period.
 
-(6) Where entitlement begins in accordance with paragraph (3)(a)[^key-7ba6670429aad125e786549043003e0f], for the week in which entitlement begins, “**award week**” means—
+(6) Where entitlement begins in accordance with paragraph (3)(a)[^c-7ba6670429aad125e786549043003e0f], for the week in which entitlement begins, “**award week**” means—
 
 - (a) where the individual cares for a cared for person who is in receipt of Constant Attendance Allowance, a period of 4 days, starting on the Wednesday of that week and ending on the following Saturday, or
 - (b) in all other cases, a period of 6 days, starting on the Monday of that week and ending on the following Saturday.
 
 (7)  In this regulation and regulation 41B, references to transfer to Carer Support Payment are to transfer by virtue of regulation 44 and Part 2 of schedule 1 of these Regulations, as they applied before 6 November 2025.
 
-### 41B. Individuals with entitlement to Carer Support in respect of whom Carer’s Allowance was paid before 6 November 2025[^key-7b204cd23fc3ec7a6142820549f91530]
+### 41B. Individuals with entitlement to Carer Support in respect of whom Carer’s Allowance was paid before 6 November 2025[^c-7b204cd23fc3ec7a6142820549f91530]
 
 (1) This paragraph applies where an individual—
 
@@ -1284,10 +1284,10 @@ the value of the first payment of Carer Support to be given to the individual is
     - (aa) fell within the definition of a “relevant individual” in terms of regulation 44 and paragraph 3 of schedule 1 as they applied before 6 November 2025, or
     - (bb) would have fallen within the definition referred to in sub-head (aa) had the entitlement to Carer’s Allowance referenced in head (i) been established prior to 6 November 2025,
 - (b) has not had their entitlement transferred to Carer Support Payment,
-- (c) has continuing entitlement to Carer Support [^key-5bea7f22e172fddb3c4b38949e16f51a]..., and
+- (c) has continuing entitlement to Carer Support [^c-5bea7f22e172fddb3c4b38949e16f51a]..., and
 - (d) is not a person to whom regulation 41(1) applies.
 
-(2)[^key-d39f646111f045e15ab723f01dc5d0f8] The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support, without receiving an application, where—
+(2)[^c-d39f646111f045e15ab723f01dc5d0f8] The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support, without receiving an application, where—
 
 - (a) they become aware that paragraph (1) applies to that individual, and
 - (b) that individual was not entitled to Carer Support Payment on 14 March 2026.
@@ -1299,7 +1299,7 @@ the value of the first payment of Carer Support to be given to the individual is
 
 whichever is later.
 
-(3A)[^key-7720c88fa74aa0a1ff43051b71eb85e6] Where—
+(3A)[^c-7720c88fa74aa0a1ff43051b71eb85e6] Where—
 
 - (a) paragraph (3) applies, and
 - (b) the individual would have been entitled to any payment of Scottish Carer Supplement or Carer Additional Person Payment, had their entitlement to Carer Support started on a date between—
@@ -1315,20 +1315,20 @@ the value of the payment of Carer Support to be given to the individual is to be
 
 their entitlement will begin on the first day of the award week in which they will satisfy those requirements.
 
-(5) Where entitlement begins in accordance with paragraph (3)(a)[^key-e18fbcec8da60796f33579dd6c55cb68], for the week in which entitlement begins, “**award week**” means—
+(5) Where entitlement begins in accordance with paragraph (3)(a)[^c-e18fbcec8da60796f33579dd6c55cb68], for the week in which entitlement begins, “**award week**” means—
 
 - (a) where the individual cares for a cared for person who is in receipt of Constant Attendance Allowance, a period of 4 days, starting on the Wednesday of that week and ending on the following Saturday, or
 - (b) in all other cases, a period of 6 days, starting on the Monday of that week and ending on the following Saturday.
 
-### 42. Individuals in respect of whom Carer Support is paid at the time of moving to another part of the United Kingdom[^key-0c36a5a9b7f2984ac2b346f01bd867b2][^key-1e94943724c7dc7ff4b7978c2682994f]
+### 42. Individuals in respect of whom Carer Support is paid at the time of moving to another part of the United Kingdom[^c-0c36a5a9b7f2984ac2b346f01bd867b2][^c-1e94943724c7dc7ff4b7978c2682994f]
 
-(1) Subject to paragraph (1A), where[^key-f9c477ae074f239effbd93aaa10d9c91] the Scottish Ministers become aware that an individual who is entitled to Carer Support[^key-05d75b4ed4428ae723def81f15928b01] has moved or is to move to become resident in another part of the United Kingdom, the individual is to be treated as though the individual meets the condition under regulation 6(1)(a) (residence and presence conditions) of being ordinarily resident in Scotland for a period of 13 weeks beginning in accordance with paragraph (4).
+(1) Subject to paragraph (1A), where[^c-f9c477ae074f239effbd93aaa10d9c91] the Scottish Ministers become aware that an individual who is entitled to Carer Support[^c-05d75b4ed4428ae723def81f15928b01] has moved or is to move to become resident in another part of the United Kingdom, the individual is to be treated as though the individual meets the condition under regulation 6(1)(a) (residence and presence conditions) of being ordinarily resident in Scotland for a period of 13 weeks beginning in accordance with paragraph (4).
 
-(1A)[^key-52229bf196392ba9d62de5c7698c5b63] Where the cared for person dies within the period of 13 weeks referred to in paragraph (1), the individual is to be treated as though the individual meets the condition under regulation 6(1)(a) of being ordinarily resident in Scotland for a period of 12[^key-5b5090deec071585d3ae370be2cb6c0a] award weeks after the first day of the award week following the award week in which the cared for person died.
+(1A)[^c-52229bf196392ba9d62de5c7698c5b63] Where the cared for person dies within the period of 13 weeks referred to in paragraph (1), the individual is to be treated as though the individual meets the condition under regulation 6(1)(a) of being ordinarily resident in Scotland for a period of 12[^c-5b5090deec071585d3ae370be2cb6c0a] award weeks after the first day of the award week following the award week in which the cared for person died.
 
 (2) Where the Scottish Ministers become aware that an individual has moved or is to move to another part of the United Kingdom mentioned in paragraph (1), they are to make a determination without application at the end of the 13-week period mentioned in paragraph (1) that the individual’s entitlement to Carer Support is to terminate.
 
-(3)[^key-33c1af590a48be6b2bdf4972633a7c10]  Where before the end of the 13-week period, the Scottish Ministers become aware that—
+(3)[^c-33c1af590a48be6b2bdf4972633a7c10]  Where before the end of the 13-week period, the Scottish Ministers become aware that—
 
 - (a) the individual is no longer to move to become resident in another part of the United Kingdom, or
 - (b) the cared for person has died,
@@ -1344,9 +1344,9 @@ the duty in paragraph (2) does not apply.
 
 ## PART 9 — Periods in respect of a re-determination request
 
-### 43. Periods in respect of a re-determination request[^key-e3d92d5101860e48ffc53cc1fdbe3fc0]
+### 43. Periods in respect of a re-determination request[^c-e3d92d5101860e48ffc53cc1fdbe3fc0]
 
-(1) The period for requesting a re-determination of entitlement to Carer Support[^key-472bcf3deb2c088cf258b0fa031ff98f] under section 41 of the 2018 Act is 42 days beginning with the day that the individual is informed, in accordance with section 40 of the 2018 Act, of the right to make the request.
+(1) The period for requesting a re-determination of entitlement to Carer Support[^c-472bcf3deb2c088cf258b0fa031ff98f] under section 41 of the 2018 Act is 42 days beginning with the day that the individual is informed, in accordance with section 40 of the 2018 Act, of the right to make the request.
 
 (2) In relation to determining entitlement to Carer Support, the period allowed for re-determination (within the meaning of section 43 of the 2018 Act) is 56 days beginning with—
 
@@ -1356,29 +1356,29 @@ the duty in paragraph (2) does not apply.
 
 ## PART 10 — Transfer from Carer’s Allowance to Carer Support Payment
 
-### 44. Transfer from Carer’s Allowance to Carer Support Payment[^key-010e04cda0b279516056c887ac378514]
+### 44. Transfer from Carer’s Allowance to Carer Support Payment[^c-010e04cda0b279516056c887ac378514]
 
-Part 2 of schedule 1 makes provision about transferring from Carer’s Allowance to Carer Support Payment. *(affected by repeal, see note)*[^key-b29cb42acf711620e361c3bf50c9e4ec]
+Part 2 of schedule 1 makes provision about transferring from Carer’s Allowance to Carer Support Payment. *(affected by repeal, see note)*[^c-b29cb42acf711620e361c3bf50c9e4ec]
 
 ## PART 11 — Initial period for applications
 
-### 45. Initial period for applications[^key-aa4631a12678597984e5802098cc7a09]
+### 45. Initial period for applications[^c-aa4631a12678597984e5802098cc7a09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 12 — Transitory provision
 
-### 46. Transitory provision – initial period for applications[^key-5fa88ee4a4c14ee4121b687f895f8565]
+### 46. Transitory provision – initial period for applications[^c-5fa88ee4a4c14ee4121b687f895f8565]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Exclusion to transitory provision[^key-6bc82de329ee534ebc3832f85eb02bdf]
+### 47. Exclusion to transitory provision[^c-6bc82de329ee534ebc3832f85eb02bdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 13 — Consequential amendments
 
-### 48. Consequential amendments[^key-3fdc22be8ddb99ddaa8345c9340b26c0]
+### 48. Consequential amendments[^c-3fdc22be8ddb99ddaa8345c9340b26c0]
 
 The amendments specified in Part 3 of schedule 1 have effect.
 
@@ -1396,128 +1396,128 @@ Edinburgh
 
 Regulations 44, 45 and 48
 
-### PART 1 — Initial period for applications[^key-477d60575bf3dc140afa5b28be371f39]
+### PART 1 — Initial period for applications[^c-477d60575bf3dc140afa5b28be371f39]
 
-#### 1.. Initial period for applications[^key-477d60575bf3dc140afa5b28be371f39]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2.. Local authority areas for initial period for applications[^key-477d60575bf3dc140afa5b28be371f39]
+#### 1.. Initial period for applications[^c-477d60575bf3dc140afa5b28be371f39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1A — Relevant date[^key-39e5cde51d2f0f3f64691f77722c137c]
+#### 2.. Local authority areas for initial period for applications[^c-477d60575bf3dc140afa5b28be371f39]
 
-**2A.**[^key-39e5cde51d2f0f3f64691f77722c137c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2B.**[^key-39e5cde51d2f0f3f64691f77722c137c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 1A — Relevant date[^c-39e5cde51d2f0f3f64691f77722c137c]
 
-### PART 2 (affected by repeal, see note) — Transfer to Carer Support Payment (affected by repeal, see note)[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337]
+**2A.**[^c-39e5cde51d2f0f3f64691f77722c137c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Interpretation (affected by repeal, see note)[^key-d95264f27be208c5824fab2d8f1a7d5b][^key-87cc8d807c2e8218857a567ee340e337]
+**2B.**[^c-39e5cde51d2f0f3f64691f77722c137c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-In this Part of the schedule— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+### PART 2 (affected by repeal, see note) — Transfer to Carer Support Payment (affected by repeal, see note)[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337]
 
-- “**date of transfer *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**” means the date when a transferring individual’s entitlement to Carer Support Payment begins by virtue of a determination made under paragraph 5(1), *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- “**relevant individual *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**” means an individual— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (a) who has an award of Carer’s Allowance who appears to the Scottish Ministers to be likely to be eligible for Carer Support Payment, and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (b) who is— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-    - (i) ordinarily resident in Scotland, or *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-    - (ii) someone to whom regulation 6(3) (residence and presence conditions) or 11(2) (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- “**sufficient *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**” means a link to Scotland that is sufficiently close that regulation 6(3) or 11(2) would be incompatible with the applicable agreement mentioned in that regulation, if the relevant individual were not entitled to Carer Support Payment, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- “**transfer notice *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**” means the notice required by paragraph 4, and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- “**transferring individual *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**” means an individual on whom the Scottish Ministers have served a notice of intention to transfer in accordance with paragraph 4. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+#### 3. Interpretation (affected by repeal, see note)[^c-d95264f27be208c5824fab2d8f1a7d5b][^c-87cc8d807c2e8218857a567ee340e337]
 
-#### 4. Notice of intention to transfer to Carer Support Payment (affected by repeal, see note)[^key-f2aad81c02ad4fcf3b6f6f66f061e421][^key-87cc8d807c2e8218857a567ee340e337]
+In this Part of the schedule— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(1) The Scottish Ministers are to notify each relevant individual of their intention to transfer that individual’s entitlement to carer’s assistance from an entitlement to Carer’s Allowance to an entitlement to Carer Support Payment. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- “**date of transfer *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**” means the date when a transferring individual’s entitlement to Carer Support Payment begins by virtue of a determination made under paragraph 5(1), *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- “**relevant individual *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**” means an individual— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (a) who has an award of Carer’s Allowance who appears to the Scottish Ministers to be likely to be eligible for Carer Support Payment, and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (b) who is— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+    - (i) ordinarily resident in Scotland, or *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+    - (ii) someone to whom regulation 6(3) (residence and presence conditions) or 11(2) (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- “**sufficient *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**” means a link to Scotland that is sufficiently close that regulation 6(3) or 11(2) would be incompatible with the applicable agreement mentioned in that regulation, if the relevant individual were not entitled to Carer Support Payment, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- “**transfer notice *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**” means the notice required by paragraph 4, and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- “**transferring individual *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**” means an individual on whom the Scottish Ministers have served a notice of intention to transfer in accordance with paragraph 4. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(2) Notice under sub-paragraph (1) must— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+#### 4. Notice of intention to transfer to Carer Support Payment (affected by repeal, see note)[^c-f2aad81c02ad4fcf3b6f6f66f061e421][^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) be given in a way that leaves the relevant individual with a record of the information which they can show to, or otherwise share with, others, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) inform the relevant individual that— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (i) they have been identified as a relevant individual for the purpose of transfer to Carer Support Payment, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] the Scottish Ministers will make a determination without receiving an application to transfer the individual’s entitlement to Carer’s Allowance to an entitlement to Carer Support Payment within a period to be specified in the notice (the individual will be notified when the determination is made and informed about their award and start date of Carer Support Payment), and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (iii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] the individual’s award of Carer’s Allowance will cease immediately before the award of Carer Support Payment begins. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(1) The Scottish Ministers are to notify each relevant individual of their intention to transfer that individual’s entitlement to carer’s assistance from an entitlement to Carer’s Allowance to an entitlement to Carer Support Payment. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(3) Where a notice under sub-paragraph (1) is given— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(2) Notice under sub-paragraph (1) must— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) to a transferring individual who, before a determination is made under paragraph 5(1)— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (i) ceases to be ordinarily resident in Scotland, or *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] cares for a cared for person who dies, or *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) in error where the individual is neither— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (i) ordinarily resident in Scotland, nor *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] an individual who is habitually resident in an EEA state, Gibraltar or Switzerland and has a genuine and sufficient link to Scotland, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- (a) be given in a way that leaves the relevant individual with a record of the information which they can show to, or otherwise share with, others, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) inform the relevant individual that— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (i) they have been identified as a relevant individual for the purpose of transfer to Carer Support Payment, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] the Scottish Ministers will make a determination without receiving an application to transfer the individual’s entitlement to Carer’s Allowance to an entitlement to Carer Support Payment within a period to be specified in the notice (the individual will be notified when the determination is made and informed about their award and start date of Carer Support Payment), and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (iii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] the individual’s award of Carer’s Allowance will cease immediately before the award of Carer Support Payment begins. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-the duty on the Scottish Ministers in paragraph 5(1) does not apply. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(3) Where a notice under sub-paragraph (1) is given— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(4) Where sub-paragraph (3) applies in respect of an individual and a determination under paragraph 5(1) has not been made, the Scottish Ministers are to notify the individual that the duty on the Scottish Ministers in paragraph 5(1) does not apply. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- (a) to a transferring individual who, before a determination is made under paragraph 5(1)— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (i) ceases to be ordinarily resident in Scotland, or *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] cares for a cared for person who dies, or *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) in error where the individual is neither— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (i) ordinarily resident in Scotland, nor *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] an individual who is habitually resident in an EEA state, Gibraltar or Switzerland and has a genuine and sufficient link to Scotland, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-#### 5. Determination without application of entitlement to Carer Support Payment (affected by repeal, see note)[^key-50c5a458b01b66126340d50c8eb35076][^key-87cc8d807c2e8218857a567ee340e337]
+the duty on the Scottish Ministers in paragraph 5(1) does not apply. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(1) The Scottish Ministers are to make a determination without receiving an application in respect of a transferring individual of that individual’s entitlement to Carer Support Payment. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(4) Where sub-paragraph (3) applies in respect of an individual and a determination under paragraph 5(1) has not been made, the Scottish Ministers are to notify the individual that the duty on the Scottish Ministers in paragraph 5(1) does not apply. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(2) Entitlement to Carer Support Payment under a determination under sub-paragraph (1) begins on the date specified in the notice of determination given to the transferring individual in accordance with section 40 of the 2018 Act. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+#### 5. Determination without application of entitlement to Carer Support Payment (affected by repeal, see note)[^c-50c5a458b01b66126340d50c8eb35076][^c-87cc8d807c2e8218857a567ee340e337]
 
-(3) The determination under sub-paragraph (1) is to be made on the basis of— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(1) The Scottish Ministers are to make a determination without receiving an application in respect of a transferring individual of that individual’s entitlement to Carer Support Payment. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) such information as the Scottish Ministers have received from the Secretary of State in respect of the transferring individual’s entitlement to Carer’s Allowance, and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) any other information available to the Scottish Ministers that appears to be relevant. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(2) Entitlement to Carer Support Payment under a determination under sub-paragraph (1) begins on the date specified in the notice of determination given to the transferring individual in accordance with section 40 of the 2018 Act. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(4) A determination under sub-paragraph (1) must be made on the basis that the transferring individual is entitled to the amount of Carer Support Payment that is equivalent to the amount of Carer’s Allowance to which the individual was entitled immediately before the date of transfer. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(3) The determination under sub-paragraph (1) is to be made on the basis of— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(5) A determination under sub-paragraph (1)— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- (a) such information as the Scottish Ministers have received from the Secretary of State in respect of the transferring individual’s entitlement to Carer’s Allowance, and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) any other information available to the Scottish Ministers that appears to be relevant. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) may be made on the assumption that whatever can be discerned about the transferring individual’s circumstances from the information mentioned in sub-paragraph (3) remains accurate on the date on which the determination is made, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) notwithstanding the generality of head (a), is to be made on the assumption that the conditions relating to residence and presence set out in regulations 6 to 11 (residence and presence conditions etc.) are satisfied in the individual’s case, and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (c) must be made no later than the period specified in the notice under paragraph 4(1) (notice of intention to transfer to Carer Support Payment) unless the Scottish Ministers have— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (i) good reason to extend that period, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] agreed the period for extension with the Secretary of State, and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-  - (iii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] notified the transferring individual of the extension and reason for it. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(4) A determination under sub-paragraph (1) must be made on the basis that the transferring individual is entitled to the amount of Carer Support Payment that is equivalent to the amount of Carer’s Allowance to which the individual was entitled immediately before the date of transfer. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(6) Where the Scottish Ministers make a determination under paragraph (1) that a transferring individual is entitled to Carer Support Payment, for the week in which that determination takes place, “ *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**award week *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]**” means— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(5) A determination under sub-paragraph (1)— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) where the individual cares for a cared for person who is in receipt of Constant Attendance Allowance, a period of 4 days, starting on the Wednesday of that week and ending on the following Saturday, or *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) in all other cases, a period of 6 days, starting on the Monday of that week and ending on the following Saturday. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- (a) may be made on the assumption that whatever can be discerned about the transferring individual’s circumstances from the information mentioned in sub-paragraph (3) remains accurate on the date on which the determination is made, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) notwithstanding the generality of head (a), is to be made on the assumption that the conditions relating to residence and presence set out in regulations 6 to 11 (residence and presence conditions etc.) are satisfied in the individual’s case, and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (c) must be made no later than the period specified in the notice under paragraph 4(1) (notice of intention to transfer to Carer Support Payment) unless the Scottish Ministers have— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (i) good reason to extend that period, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] agreed the period for extension with the Secretary of State, and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+  - (iii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] notified the transferring individual of the extension and reason for it. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-#### 6. Date of cessation of Carer’s Allowance (affected by repeal, see note)[^key-84bb6fbc6520b48bd4fa8f79314c9117][^key-87cc8d807c2e8218857a567ee340e337]
+(6) Where the Scottish Ministers make a determination under paragraph (1) that a transferring individual is entitled to Carer Support Payment, for the week in which that determination takes place, “ *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**award week *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]**” means— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-Where a determination is made under paragraph 5(1) (determination without application of entitlement to Carer Support Payment) that the transferring individual is entitled to Carer Support Payment, the transferring individual’s entitlement to Carer’s Allowance will cease on the date their entitlement to Carer Support Payment begins. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- (a) where the individual cares for a cared for person who is in receipt of Constant Attendance Allowance, a period of 4 days, starting on the Wednesday of that week and ending on the following Saturday, or *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) in all other cases, a period of 6 days, starting on the Monday of that week and ending on the following Saturday. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-#### 7. Modification of these regulations: transferring individuals (affected by repeal, see note)[^key-71ddee4cb9024e4d1e194b29797cf495][^key-87cc8d807c2e8218857a567ee340e337]
+#### 6. Date of cessation of Carer’s Allowance (affected by repeal, see note)[^c-84bb6fbc6520b48bd4fa8f79314c9117][^c-87cc8d807c2e8218857a567ee340e337]
 
-These Regulations apply to a transferring individual on and after the date of transfer with the following modifications— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+Where a determination is made under paragraph 5(1) (determination without application of entitlement to Carer Support Payment) that the transferring individual is entitled to Carer Support Payment, the transferring individual’s entitlement to Carer’s Allowance will cease on the date their entitlement to Carer Support Payment begins. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-In regulation 22, for sub-paragraph (b), substitute— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+#### 7. Modification of these regulations: transferring individuals (affected by repeal, see note)[^c-71ddee4cb9024e4d1e194b29797cf495][^c-87cc8d807c2e8218857a567ee340e337]
 
-> - (b) inform the transferring individual that any subsequent payment will be made— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
->   - (i) 4 weekly in arrears, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
->   - (ii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] weekly in advance, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
->   - (iii (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] in respect of an individual who was paid Carer’s Allowance one week in advance and 3 weekly in arrears— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
->     - (aa (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] 4 weekly in arrears, or *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
->     - (bb (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] weekly in advance, provided that the individual has informed the Scottish Ministers that they wish to be paid weekly in advance before the date specified in the notice of intention to transfer given to the individual in accordance with paragraph 4(1) of schedule 1, *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
->   - (iv (affected by repeal, see note) (affected by repeal, see note))[^key-87cc8d807c2e8218857a567ee340e337][^key-87cc8d807c2e8218857a567ee340e337] where the Scottish Ministers consider that it would be unjust not to do so, at such intervals as may be specified in the notice of determination. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+These Regulations apply to a transferring individual on and after the date of transfer with the following modifications— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+
+In regulation 22, for sub-paragraph (b), substitute— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+
+> - (b) inform the transferring individual that any subsequent payment will be made— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+>   - (i) 4 weekly in arrears, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+>   - (ii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] weekly in advance, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+>   - (iii (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] in respect of an individual who was paid Carer’s Allowance one week in advance and 3 weekly in arrears— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+>     - (aa (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] 4 weekly in arrears, or *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+>     - (bb (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] weekly in advance, provided that the individual has informed the Scottish Ministers that they wish to be paid weekly in advance before the date specified in the notice of intention to transfer given to the individual in accordance with paragraph 4(1) of schedule 1, *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+>   - (iv (affected by repeal, see note) (affected by repeal, see note))[^c-87cc8d807c2e8218857a567ee340e337][^c-87cc8d807c2e8218857a567ee340e337] where the Scottish Ministers consider that it would be unjust not to do so, at such intervals as may be specified in the notice of determination. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337] *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
 .
 
-#### 8. Appointees (affected by repeal, see note)[^key-0164b4732c53ea2ef9256b98c8063b63][^key-87cc8d807c2e8218857a567ee340e337]
+#### 8. Appointees (affected by repeal, see note)[^c-0164b4732c53ea2ef9256b98c8063b63][^c-87cc8d807c2e8218857a567ee340e337]
 
-(1) A person appointed by the Secretary of State under regulation 33 (persons unable to act) of the Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337][^f00088] to receive Carer’s Allowance on behalf of a transferring individual is to be treated on and after the date of transfer as though appointed by the Scottish Ministers to act on behalf of that transferring individual under section 85B of the 2018 Act. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(1) A person appointed by the Secretary of State under regulation 33 (persons unable to act) of the Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337][^f00088] to receive Carer’s Allowance on behalf of a transferring individual is to be treated on and after the date of transfer as though appointed by the Scottish Ministers to act on behalf of that transferring individual under section 85B of the 2018 Act. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(2) As soon as reasonably practicable after the date of transfer, the Scottish Ministers must— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(2) As soon as reasonably practicable after the date of transfer, the Scottish Ministers must— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) consider whether the conditions for making an appointment in respect of the transferring individual are met (having regard to section 85B(3) of the 2018 Act), *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) consider whether to terminate the appointment that is treated as having been made by virtue of sub-paragraph (1) and terminate it if they consider it appropriate, and *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (c) if they have terminated an appointment in pursuance of head (b), appoint under section 85B of the 2018 Act another person to act on the transferring individual’s behalf if they consider it appropriate to do so. *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+- (a) consider whether the conditions for making an appointment in respect of the transferring individual are met (having regard to section 85B(3) of the 2018 Act), *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) consider whether to terminate the appointment that is treated as having been made by virtue of sub-paragraph (1) and terminate it if they consider it appropriate, and *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (c) if they have terminated an appointment in pursuance of head (b), appoint under section 85B of the 2018 Act another person to act on the transferring individual’s behalf if they consider it appropriate to do so. *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-(3) The duty in paragraph (2) does not apply to a person in respect of whom the Scottish Ministers have already— *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
+(3) The duty in paragraph (2) does not apply to a person in respect of whom the Scottish Ministers have already— *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
 
-- (a) appointed to act on behalf of that transferring individual under section 85B of the 2018 Act, or *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337]
-- (b) considered whether the conditions for making an appointment are met in accordance with paragraph 15 (appointees) of Part 3 of schedule 2 of the Disability Assistance for Working Age People (Scotland) Regulations 2022 *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337][^f00089] or paragraph 14 (appointees) of Part 3 of the schedule of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 *(affected by repeal, see note)*[^key-87cc8d807c2e8218857a567ee340e337][^f00090].
+- (a) appointed to act on behalf of that transferring individual under section 85B of the 2018 Act, or *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337]
+- (b) considered whether the conditions for making an appointment are met in accordance with paragraph 15 (appointees) of Part 3 of schedule 2 of the Disability Assistance for Working Age People (Scotland) Regulations 2022 *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337][^f00089] or paragraph 14 (appointees) of Part 3 of the schedule of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 *(affected by repeal, see note)*[^c-87cc8d807c2e8218857a567ee340e337][^f00090].
 
 ### PART 3 — Consequential amendments
 
-#### 9. Amendment of the 2018 Act[^key-e8091fe92eb000991e63fe27bba0986f]
+#### 9. Amendment of the 2018 Act[^c-e8091fe92eb000991e63fe27bba0986f]
 
 (1) Section 81 of the 2018 Act is amended in accordance with sub-paragraphs (2) to (5).
 
@@ -1553,7 +1553,7 @@ In regulation 22, for sub-paragraph (b), substitute— *(affected by repeal, see
 
 .
 
-#### 10. Amendment of the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020[^key-8a2d77b7d7c011282cad84074ee97922]
+#### 10. Amendment of the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020[^c-8a2d77b7d7c011282cad84074ee97922]
 
 (1) The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020[^f00092] are amended in accordance with sub-paragraph (2).
 
@@ -1565,7 +1565,7 @@ In regulation 22, for sub-paragraph (b), substitute— *(affected by repeal, see
 
 .
 
-#### 11. Amendment of the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^key-fd6fb32a14fd9591917f4ef6fd5f3791]
+#### 11. Amendment of the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^c-fd6fb32a14fd9591917f4ef6fd5f3791]
 
 (1) The Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^f00094] are amended in accordance with sub-paragraph (2).
 
@@ -1578,7 +1578,7 @@ In regulation 22, for sub-paragraph (b), substitute— *(affected by repeal, see
 
 Regulation 14
 
-### 1. Interpretation[^key-197d2537fc2685fdfaabfff0ba03c564]
+### 1. Interpretation[^c-197d2537fc2685fdfaabfff0ba03c564]
 
 In this schedule—
 
@@ -1609,13 +1609,13 @@ except accommodation provided by a close relative of theirs or of any other memb
   - (b) such employment which, in accordance with the provisions of the 1992 Act and of any regulations made under it, is to be disregarded in relation to liability for contributions, and
 - “**year of assessment**” means, with reference to any income tax, the year for which such tax was granted by any enactment granting income tax.
 
-### 2. Calculation of earnings[^key-34783a38acb09d264749ed8fae360a6e]
+### 2. Calculation of earnings[^c-34783a38acb09d264749ed8fae360a6e]
 
 (1) For the purposes of regulation 14 (earnings limit), the earnings of an individual are to be calculated by determining the weekly amount of their earnings in accordance with this schedule.
 
 (2) The amount of an individual’s earnings for any period are the whole of those earnings (including any earnings which they are treated as possessing under paragraph 3 (notional earnings)) except in so far as paragraphs 9 (calculation of net earnings of employed earners) and 12 (calculation of net profit of self-employed earners) provide that certain sums are to be disregarded or deducted.
 
-### 3. Notional earnings[^key-38fb3c0e26e028570a4fce78f9c1dd1c]
+### 3. Notional earnings[^c-38fb3c0e26e028570a4fce78f9c1dd1c]
 
 (1) Where an individual’s earnings are not ascertainable at the date on which the Scottish Ministers are determining the individual’s entitlement to Carer Support Payment or considering whether they are required to make a determination of the individual’s entitlement to Carer Support Payment without receiving an application, the individual is treated as possessing such earnings as is reasonable in the circumstances having regard to the number of hours worked and the earnings paid for comparable employment.
 
@@ -1626,18 +1626,18 @@ except accommodation provided by a close relative of theirs or of any other memb
 - (c) one half of any sum payable by the individual in respect of a pay period by way of a contribution towards an occupational or personal pension scheme,
 - (d) any care charges to which paragraph 15 (care charges to be deducted in the calculation of earnings) applies up to a maximum deduction, in respect of such care charges incurred by any individual, of 50% of their notional earnings.
 
-### 4. Rounding of fractions[^key-b30cc300fdb5c8379b70e294e029b9a1]
+### 4. Rounding of fractions[^c-b30cc300fdb5c8379b70e294e029b9a1]
 
 Where any calculation under this schedule results in a fraction of a penny that fraction is, if it would be to individual’s advantage, treated as a penny, otherwise it is disregarded.
 
-### 5. Calculation of earnings of employed earners[^key-67440962932d2a8c330461bdf7ad447b]
+### 5. Calculation of earnings of employed earners[^c-67440962932d2a8c330461bdf7ad447b]
 
 (1) Earnings derived from employment as an employed earner are calculated or estimated over a period determined in accordance with the following paragraphs and at a weekly amount determined in accordance with paragraph 7 (calculation of weekly amount of earnings).
 
 (2) Subject to sub-paragraphs (3) and (5) to (7), the period over which a payment is to be taken into account—
 
 - (a) in a case where it is payable in respect of a period, is a period equal to the total number of award weeks in the period commencing on the date on which the earnings are treated as paid under paragraph 6 (date on which earnings are treated as paid) and ending on the day before the date on which earnings of the same kind (excluding earnings of the kind mentioned in paragraph 8(1)(a) to (j)) and from the same source would, or would if the employment was continuing, next be treated as paid under that paragraph, or
-- (b) [^key-6611985c0960e684e6e7bfdc00957f82]in any other case, and where it would cause the individual’s earnings to exceed the relevant earnings limit if it were taken into account only in respect of the period in which it was received, is a period equal to such number of weeks as is equal to the number (less any fraction of a whole number) calculated in accordance with the formula—
+- (b) [^c-6611985c0960e684e6e7bfdc00957f82]in any other case, and where it would cause the individual’s earnings to exceed the relevant earnings limit if it were taken into account only in respect of the period in which it was received, is a period equal to such number of weeks as is equal to the number (less any fraction of a whole number) calculated in accordance with the formula—
 
   [formula: see source](https://www.legislation.gov.uk/ssi/2023/302)
 
@@ -1687,11 +1687,11 @@ whichever is the shorter, and that period begins on the date on which the paymen
 
 and for the purposes of this definition “**period of notice**” means the period of notice of termination of employment to which an individual is entitled by statute or by contract, whichever is the longer, or, if they are not entitled to such notice, the period of notice which is customary in the employment in question.
 
-### 6. Date on which earnings are treated as paid[^key-c321f49a05a4c64c3c074e6342f694ef]
+### 6. Date on which earnings are treated as paid[^c-c321f49a05a4c64c3c074e6342f694ef]
 
 Earnings to which paragraph 5 (calculation of earnings of employed earners) or 10(2) (calculation of earnings of self-employed earners) applies are treated as paid on the first day of the award week in which the payment is received.
 
-### 7. Calculation of weekly amount of earnings[^key-151b364fcf2c46d7671073660bcea76b]
+### 7. Calculation of weekly amount of earnings[^c-151b364fcf2c46d7671073660bcea76b]
 
 (1) For the purposes of paragraph 5 (calculation of earnings of employed earners), subject to sub-paragraphs (2) to (4), where the period in respect of which a payment is made—
 
@@ -1710,7 +1710,7 @@ Earnings to which paragraph 5 (calculation of earnings of employed earners) or 1
 - (b) if the individual has provided the Scottish Ministers with payslips, over the period to which the payslips relate, up to a maximum period of 26 weeks, or
 - (c) in any other case, over a period of 5 weeks or such other period as may, in the particular case, enable the individual’s average weekly earnings to be determined more accurately.
 
-### 8. Earnings of employed earners[^key-eeec3130961dedc821943a6b2f0f3743]
+### 8. Earnings of employed earners[^c-eeec3130961dedc821943a6b2f0f3743]
 
 (1) Subject to sub-paragraphs (2) and (3), “earnings”, in the case of employment as an employed earner means the remuneration or profit derived from the employment and includes—
 
@@ -1729,8 +1729,8 @@ Earnings to which paragraph 5 (calculation of earnings of employed earners) or 1
   - (ii) a payment of compensation is made in respect of employment which is part-time employment, the amount of the compensation,
 - (j) any remuneration paid by or on behalf of an employer to the individual in respect of a period during which the individual is—
   - (i) on maternity leave or paternity leave,
-  - (ii) on adoption leave, [^key-5d16c006a2d3f0e2f4c5ef89c2dc3b9e]...
-  - (iii) absent from work because they are ill , or[^key-f0f2a9c7ae5a5adde6192ba07c3c6739]
+  - (ii) on adoption leave, [^c-5d16c006a2d3f0e2f4c5ef89c2dc3b9e]...
+  - (iii) absent from work because they are ill , or[^c-f0f2a9c7ae5a5adde6192ba07c3c6739]
   - (iv) on neonatal care leave.
 
 (2) For the purposes of sub-paragraph (1)(i)(i), the “deductible remainder”—
@@ -1768,11 +1768,11 @@ Earnings to which paragraph 5 (calculation of earnings of employed earners) or 1
   - (c) any redundancy payment within the meaning of section 135 of the Employment Rights Act 1996,
   - (d) any refund of contributions to which that person was entitled under an occupational pension scheme,
 - “**maternity leave**” means a period during which a person is absent from work because they are pregnant or have given birth to a child, and at the end of which they have the right to return to work either under the terms of their contract or under Part 8 of the Employment Rights Act 1996,
-- “[^key-c19af906b2b5830d2f9f5f638ad3dd86]**neonatal care leave**” means a period of absence from work on leave under section 80EF (neonatal care leave) of the Employment Rights Act 1996,
+- “[^c-c19af906b2b5830d2f9f5f638ad3dd86]**neonatal care leave**” means a period of absence from work on leave under section 80EF (neonatal care leave) of the Employment Rights Act 1996,
 - “**part-time employment**” has the same meaning as in paragraph 5(7) (calculation of earnings of employed earners),
 - “**paternity leave**” means a period of absence from work on leave under section 80A[^f00103] (entitlement to paternity leave: birth) or 80B[^f00104] (entitlement to paternity leave: adoption) of the Employment Rights Act 1996.
 
-### 9. Calculation of net earnings of employed earners[^key-3ed01bd7d378d67f9d4403fafbb8fafe]
+### 9. Calculation of net earnings of employed earners[^c-3ed01bd7d378d67f9d4403fafbb8fafe]
 
 (1) For the purposes of paragraphs 2 (calculation of earnings) and 5 (calculation of earnings of employed earners) the earnings of an individual derived from employment as an employed earner to be taken into account are, subject to sub-paragraphs (2) and (3), their net earnings.
 
@@ -1788,7 +1788,7 @@ Earnings to which paragraph 5 (calculation of earnings of employed earners) or 1
   - (ii) primary Class 1 contributions under the 1992 Act, and
 - (b) one half of any sum paid by the individual in respect of a pay period by way of a contribution towards an occupational or personal pension scheme.
 
-### 10. Calculation of earnings of self-employed earners[^key-8810d932844ee0333af17d3d10bbc41e]
+### 10. Calculation of earnings of self-employed earners[^c-8810d932844ee0333af17d3d10bbc41e]
 
 (1) Except where paragraph (2) applies, where an individual’s earnings consist of earnings from employment as a self-employed earner the weekly amount of their earnings are determined by reference to their average weekly earnings from that employment—
 
@@ -1800,7 +1800,7 @@ Earnings to which paragraph 5 (calculation of earnings of employed earners) or 1
 - (a) consist of royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark, and
 - (b) the individual is the first owner of the copyright, design, patent or trade mark,
 
-those earnings are taken into account over a period equal to such number of weeks as is equal to the number (less any fraction of a whole number) calculated in accordance with the formula—[^key-1534d3022d546e9f812f0184245fe365]
+those earnings are taken into account over a period equal to such number of weeks as is equal to the number (less any fraction of a whole number) calculated in accordance with the formula—[^c-1534d3022d546e9f812f0184245fe365]
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2023/302)
 
@@ -1812,11 +1812,11 @@ where—
 
 (3) The period mentioned in sub-paragraph (2) begins on the date on which the payment is treated as paid under paragraph 6 (date on which earnings are treated as paid).
 
-### 11. Earnings of self-employed earners[^key-2a872140c71d83a50fab14567bc9c26d]
+### 11. Earnings of self-employed earners[^c-2a872140c71d83a50fab14567bc9c26d]
 
 “Earnings”, in the case of employment as a self-employed earner, means the net profits of the employment and includes any allowance paid under section 2 of the Employment and Training Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^f00105] to the individual for the purpose of assisting them in carrying on their business.
 
-### 12. Calculation of net profit of self-employed earners[^key-017631fabc129d0d4499879c3ae4afa2]
+### 12. Calculation of net profit of self-employed earners[^c-017631fabc129d0d4499879c3ae4afa2]
 
 (1) For the purposes of paragraphs 2 (calculation of earnings) and 10 (calculation of earnings of self-employed earners), the earnings of an individual to be taken into account are, in the case of a self-employed earner—
 
@@ -1877,13 +1877,13 @@ where—
 
 (10) Notwithstanding paragraph 10 (calculation of earnings for self-employed earners) and sub-paragraphs (1) to (5) of this paragraph, the Scottish Ministers may assess any item of an individual’s earnings or expenditure over a period other than that determined under paragraph 10 as may, in the particular case, enable the weekly amount of that item of earnings or expenditure to be determined more accurately.
 
-### 13. Deduction of tax and contributions for self-employed earners[^key-a2a9dc76caa6c4c64b3576fcd8a76aa8]
+### 13. Deduction of tax and contributions for self-employed earners[^c-a2a9dc76caa6c4c64b3576fcd8a76aa8]
 
 (1) The amount to be deducted in respect of income tax under paragraph 12(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit for self-employed earners) is calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less only the personal reliefs to which the individual is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007[^f00106] and as are appropriate to their circumstances; but, if the period determined under paragraph 10 (calculation of earnings of self-employed earners) is less than a year, the earnings to which the basic rate, or the Scottish basic rate, of tax is to be applied and the amount of the personal reliefs deductible under this sub-paragraph is calculated on a pro rata basis.
 
 (2) The amount to be deducted in respect of social security contributions under paragraph 12(1)(b)(i), (3)(b)(ii) or (9)(a)(ii) is the total of—
 
-- (a) the amount of Class 2 contributions payable under section 11(2) or, as the case may be, 11(8) of the 1992 Act at the rate applicable at the date on which a determination[^key-e46297cbff325dbdb9af253819fd4d5b] relating to the individual’s entitlement to Carer Support Payment is made by the Scottish Ministers under these Regulations or, as the case may be, on appeal by the First-tier Tribunal for Scotland, except where the individual’s chargeable income is equal to or less than the amount specified in section 11(4)(a) of that Act (lower profits threshold) for the tax year in which that date falls; but if the assessment period is less than a year, the amount specified for that year is reduced pro rata, and
+- (a) the amount of Class 2 contributions payable under section 11(2) or, as the case may be, 11(8) of the 1992 Act at the rate applicable at the date on which a determination[^c-e46297cbff325dbdb9af253819fd4d5b] relating to the individual’s entitlement to Carer Support Payment is made by the Scottish Ministers under these Regulations or, as the case may be, on appeal by the First-tier Tribunal for Scotland, except where the individual’s chargeable income is equal to or less than the amount specified in section 11(4)(a) of that Act (lower profits threshold) for the tax year in which that date falls; but if the assessment period is less than a year, the amount specified for that year is reduced pro rata, and
 - (b) the amount of Class 4 contributions (if any) which would be payable under section 15 of the 1992 Act (Class 4 contributions recoverable under the Income Tax Acts) at the percentage rate applicable at the date on which a determination relating to the individual’s entitlement to Carer Support Payment is made by the Scottish Ministers under these Regulations or, as the case may be, on appeal by the First-tier Tribunal for Scotland, on so much of the chargeable income as exceeds the lower limit but does not exceed the upper limit of profits and gains applicable for the tax year in which that date falls; but if the assessment period is less than a year, those limits are reduced pro rata.
 
 (3) In this paragraph, “**chargeable income**” means—
@@ -1891,7 +1891,7 @@ where—
 - (a) in the case of employment as a child minder, one-third of the earnings of that employment, or
 - (b) in all other cases, the earnings derived from the employment less any expenses deducted under paragraph 12(3)(a) or (4).
 
-### 14. Sums to be disregarded in the calculation of earnings and profits[^key-b12ab95293ba5e9a74ac0c7f011078b1]
+### 14. Sums to be disregarded in the calculation of earnings and profits[^c-b12ab95293ba5e9a74ac0c7f011078b1]
 
 For the purposes of paragraphs 9(2) (calculation of net earnings of employed earners) and 12(2) (calculation of net profit of self-employed earners), the sums to be disregarded in the calculation of earnings and profits are—
 
@@ -1902,12 +1902,12 @@ For the purposes of paragraphs 9(2) (calculation of net earnings of employed ear
 - (c) where the individual occupies a dwelling as their home and they provide in that dwelling board and lodging accommodation, an amount, in respect of each person for whom that accommodation is provided for the whole or any part of a week, equal to—
   - (i) where the aggregate of those payments made in respect of any one week does not exceed £20, 100% of those payments, or
   - (ii) where the aggregate of those payments exceeds £20, £20 and 50% of the excess over £20,
-- (d)[^key-4df9cc6428c7772c615d762917094a7b] except in the case of an individual who is absent from the United Kingdom and to whom regulation 11 (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies—
+- (d)[^c-4df9cc6428c7772c615d762917094a7b] except in the case of an individual who is absent from the United Kingdom and to whom regulation 11 (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies—
   - (i) any earnings derived from employment which are payable in a country outside the United Kingdom for such period during which there is a prohibition against transfer to the United Kingdom of those earnings,
   - (ii) where a payment of earnings is made in a currency other than sterling, any banking charge or commission payable in converting that payment into sterling,
 - (e) any earnings which are due to be paid before the start of the award of Carer Support Payment and which would otherwise fall to be taken into account in the same award week as a payment of the same kind and from the same source,
 - (f) any payment made by a local authority to the individual with whom a person is accommodated by virtue of arrangements made under section 22C (ways in which looked after children are to be accommodated and maintained) of the Children Act 1989[^f00108] (provision of accommodation and maintenance for a child whom they are looking after), section 81 (ways in which looked after children are to be accommodated and maintained) of the Social Services and Well-being (Wales) Act 2014[^f00109], or section 26 (manner of provision of accommodation to child looked after by local authority) of the Children (Scotland) Act 1995[^f00110] or by a voluntary organisation under section 59(1)(a) (provision of accommodation by voluntary organisations) of the Children Act 1989.
-- (g) any payment made by a health authority, an integrated care board, the NHS England[^key-112d04f31f710c3585e4bd8390f60001], a local authority or a voluntary organisation to the individual in respect of a person who is not normally a member of the individual’s household but is temporarily in their care,
+- (g) any payment made by a health authority, an integrated care board, the NHS England[^c-112d04f31f710c3585e4bd8390f60001], a local authority or a voluntary organisation to the individual in respect of a person who is not normally a member of the individual’s household but is temporarily in their care,
 - (h) any payment paid at intervals of at least one year and derived from employments as—
   - (i) a part-time fire fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004[^f00111] or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005[^f00112],
   - (ii) an auxiliary coastguard in respect of coast rescue activities,
@@ -1915,14 +1915,14 @@ For the purposes of paragraphs 9(2) (calculation of net earnings of employed ear
   - (iv) a member of any territorial reserve force prescribed in Part I of schedule 1 of the Employment and Support Allowance Regulations 2013[^f00113],
 - (i) any amount by way of refund of income tax deducted from profits or emoluments chargeable to income tax under schedule D or E of the Income and Corporation Taxes Act 1988[^f00114],
 - (j) in the case of employment as an employed earner, any advance of earnings or any loan made by the individual’s employer,
-- (k) any earnings, other than items to which sub-paragraph (l) applies, paid or due to be paid from the individual’s employment as an employed earner which ended before the day in respect of which the individual first satisfied the eligibility criteria for Carer Support Payment set out in regulation 3(2) (overview)[^key-10111da18a8b0c39c72d6adaba664b46] of these Regulations,
+- (k) any earnings, other than items to which sub-paragraph (l) applies, paid or due to be paid from the individual’s employment as an employed earner which ended before the day in respect of which the individual first satisfied the eligibility criteria for Carer Support Payment set out in regulation 3(2) (overview)[^c-10111da18a8b0c39c72d6adaba664b46] of these Regulations,
 - (l) this sub-paragraph applies to—
   - (i) any payment by way of occupational or personal pension, and
   - (ii) except in a case where the individual’s employment terminated by reason of retirement at a time when they had attained pensionable age (within the meaning given by the rules in paragraph 1 of schedule 4 of the Pensions Act 1995[^f00115])—
     - (aa) any payment or remuneration of the nature described in paragraph 8(1)(e) or (j), and
     - (bb) any award or sum of the nature described in paragraph 8(1)(g) or (h) (including any payment made following the settlement of a complaint to an employment tribunal or of court proceedings).
 
-### 15. Care charges to be deducted in the calculation of earnings[^key-0b2f90c398360f06b337b932439d82cf]
+### 15. Care charges to be deducted in the calculation of earnings[^c-0b2f90c398360f06b337b932439d82cf]
 
 (1) This paragraph applies where an individual is—
 
@@ -1969,15 +1969,15 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9) (“**the 2018 Act**”), relevantly amended by paragraphs 2 and 4 of schedule 7 of the Coronavirus (Scotland) Act [2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7) and section 12 of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“**the 2020 Act**”). Schedules 2 and 11 of the 2018 Act, respectively make provision about the exercise of powers under sections 28 and 51. Schedule 11 of the 2018 Act was inserted by section 12(4) of the 2020 Act. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and they are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-143c37532b1281b49d5145e63510ca1a]: Commencement: Reg. 1 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-143c37532b1281b49d5145e63510ca1a]: Commencement: Reg. 1 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-33296b36141a6acd0be3f006193b201e]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/3) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/2)
+[^c-33296b36141a6acd0be3f006193b201e]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/3) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/2)
 
-[^key-cf987fa13bfe61c4766cbc1a9dcf87d4]: Commencement: Reg. 2 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-cf987fa13bfe61c4766cbc1a9dcf87d4]: Commencement: Reg. 2 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-a8b9c927a2629a6654fa305e388ed1ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-a8b9c927a2629a6654fa305e388ed1ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00003]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54).
 
@@ -1985,21 +1985,21 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00005]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20), amended by [S.R. 1997 No. 69](https://www.legislation.gov.uk/nisr/1997/69), [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359), [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229), [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
 
-[^key-e165876fc8aa74ecc81242bfd1182e18]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-e165876fc8aa74ecc81242bfd1182e18]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-21d1862adb43a95e3169ef0bb27f3b46]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-21d1862adb43a95e3169ef0bb27f3b46]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00006]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5), amended by section 16 of the Welfare Reform Act [2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7).
 
 [^f00007]: Footnote: [S.I. 2015/2006](https://www.legislation.gov.uk/uksi/2015/2006), amended by [S.I. 2016/999](https://www.legislation.gov.uk/uksi/2016/999).
 
-[^key-ef0454f2edefb6315b8370a509436973]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-ef0454f2edefb6315b8370a509436973]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00008]: Footnote: Section 70 was relevantly amended by [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174) and [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54).
 
 [^f00009]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), amended by [S.I. 1994/370](https://www.legislation.gov.uk/uksi/1994/370), [S.I. 2002/321](https://www.legislation.gov.uk/uksi/2002/321), [S.I. 2011/356](https://www.legislation.gov.uk/uksi/2011/356), [S.I. 2016/228](https://www.legislation.gov.uk/uksi/2016/228), [S.I. 2016/236](https://www.legislation.gov.uk/uksi/2016/236), [S.I. 2021/1301](https://www.legislation.gov.uk/uksi/2021/1301) and [S.I. 2022/332](https://www.legislation.gov.uk/uksi/2022/332).
 
-[^key-2eaaeca2a80f2ba2d41ed8585d9abdc3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-2eaaeca2a80f2ba2d41ed8585d9abdc3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00010]: Footnote: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
@@ -2015,23 +2015,23 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00016]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46), amended by section 24(2) of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7).
 
-[^key-823dc91244a5ad7531fc9f09c603d970]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/2/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-823dc91244a5ad7531fc9f09c603d970]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/2/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
 [^f00017]: Footnote: [S.I. 2015/2006](https://www.legislation.gov.uk/uksi/2015/2006).
 
-[^key-b402964d4517accb0103883d8b4e636a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/2/a)
+[^c-b402964d4517accb0103883d8b4e636a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/2/a)
 
-[^key-116e579ca010b76be7c9bbd3df22a50a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/2/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-116e579ca010b76be7c9bbd3df22a50a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/2/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
 [^f00018]: Footnote: OJ L 28, 30.1.1997, p.1, relevantly amended by Council Regulation [(EC) No 118/97](https://www.legislation.gov.uk/european/regulation/1997/0118) of 2 December 1996 amending and updating Regulation [(EEC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community and Regulation [(EEC) No 574/72](https://www.legislation.gov.uk/european/regulation/1972/0574) laying down the procedure for implementing Regulation [(EEC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408).
 
 [^f00019]: Footnote: OJ L 166, 30.4.2004, p.1.
 
-[^key-22f0b53cf4ed8e0a0d590daf37765662]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/2)
+[^c-22f0b53cf4ed8e0a0d590daf37765662]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/2)
 
-[^key-fc4241a79135d029e3f9db720d951093]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/2/b)
+[^c-fc4241a79135d029e3f9db720d951093]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/2/b)
 
-[^key-f29831120f93e290f47b2c787407862a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/f) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-f29831120f93e290f47b2c787407862a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/302/regulation/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2/f) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00022]: Footnote: [1917 c. 51](https://www.legislation.gov.uk/ukpga/1917/51).
 
@@ -2047,25 +2047,25 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00028]: Footnote: [S.S.I. 2019/324](https://www.legislation.gov.uk/ssi/2019/324).
 
-[^key-7692b085ab91f81d72c8155f0dd71006]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2023/302/part/2) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/3) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-7692b085ab91f81d72c8155f0dd71006]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2023/302/part/2) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/3) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-2fa5cd8d5ddde0afb9fccb6406faf088]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/302/regulation/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/4) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-2fa5cd8d5ddde0afb9fccb6406faf088]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/302/regulation/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/4) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-8608904d487c1b3fff071cd1f93d1969]: Commencement: Reg. 4 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-8608904d487c1b3fff071cd1f93d1969]: Commencement: Reg. 4 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-1fc48db74335f968100178fcb465f90d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2023/302/regulation/4) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/a) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-1fc48db74335f968100178fcb465f90d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2023/302/regulation/4) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/a) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-cf32476aba7af39b1ef65cf90b197b32]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2023/302/regulation/4A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/6) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-cf32476aba7af39b1ef65cf90b197b32]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2023/302/regulation/4A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/6) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-0ddcd3c85356a624644a5b8e616c72a3]: Commencement: Reg. 5 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-0ddcd3c85356a624644a5b8e616c72a3]: Commencement: Reg. 5 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00029]: Footnote: [2016 asp 9](https://www.legislation.gov.uk/asp/2016/9).
 
-[^key-e3683aef3a18d2f40e9475754b104fca]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/5/6) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/3)
+[^c-e3683aef3a18d2f40e9475754b104fca]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/5/6) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/3)
 
-[^key-3eb799b7a067dbe52d36d86c0b8836d2]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/5/6) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(7)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/7) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-3eb799b7a067dbe52d36d86c0b8836d2]: Textual amendment: Words in [reg. 5(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/5/6) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(7)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/7) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-4d82885c91b58515d4ff0ec8292640d4]: Commencement: Reg. 6 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-4d82885c91b58515d4ff0ec8292640d4]: Commencement: Reg. 6 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00030]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), relevantly amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
 
@@ -2073,11 +2073,11 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00032]: Footnote: 2019 CP 49.
 
-[^key-5b1ec527652a49cce0c24264d19c7837]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2023/302/regulation/6) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/b) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-5b1ec527652a49cce0c24264d19c7837]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2023/302/regulation/6) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/b) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
 [^f00033]: Footnote: OJ C 202, 7.6.2016, p.146.
 
-[^key-a034e0db8337990cb667e9925404af5e]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/8/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-a034e0db8337990cb667e9925404af5e]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/8/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00034]: Footnote: [S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740). Regulation 2A was inserted by [S.I. 2013/389](https://www.legislation.gov.uk/uksi/2013/389). Regulation 2C was inserted by [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015) and amended by [S.S.I. 2021/320](https://www.legislation.gov.uk/ssi/2021/320), [S.S.I. 2022/108](https://www.legislation.gov.uk/ssi/2022/108), [S.S.I. 2022/336](https://www.legislation.gov.uk/ssi/2022/336) and [S.S.I. 2023/149](https://www.legislation.gov.uk/ssi/2023/149).
 
@@ -2089,23 +2089,23 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00038]: Footnote: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174), amended by [S.S.I. 2022/41](https://www.legislation.gov.uk/ssi/2022/41), [2021/416](https://www.legislation.gov.uk/ssi/2021/416), [S.S.I. 2021/320](https://www.legislation.gov.uk/ssi/2021/320), [S.S.I. 2022/108](https://www.legislation.gov.uk/ssi/2022/108), [S.S.I. 2022/336](https://www.legislation.gov.uk/ssi/2022/336) and [S.S.I. 2023/149](https://www.legislation.gov.uk/ssi/2023/149).
 
-[^key-2e8ad646b08db04aaddb1bc0dbb886e9]: Textual amendment: Word in [reg. 6(6)(b)(iii)(ee)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b/iii/ee) omitted (21.10.2024) by virtue of [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/3/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-2e8ad646b08db04aaddb1bc0dbb886e9]: Textual amendment: Word in [reg. 6(6)(b)(iii)(ee)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b/iii/ee) omitted (21.10.2024) by virtue of [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/3/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
 [^f00039]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54), amended by [S.S.I. 2022/108](https://www.legislation.gov.uk/ssi/2022/108), [S.S.I. 2022/336](https://www.legislation.gov.uk/ssi/2022/336) and [S.S.I. 2023/149](https://www.legislation.gov.uk/ssi/2023/149).
 
-[^key-4c247ea424788232b637f28db80376fb]: Textual amendment: Word in [reg. 6(6)(ff)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/ff) omitted (21.3.2025) by virtue of [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(a)(i)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/a/i)
+[^c-4c247ea424788232b637f28db80376fb]: Textual amendment: Word in [reg. 6(6)(ff)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/ff) omitted (21.3.2025) by virtue of [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(a)(i)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/a/i)
 
-[^key-741e269a92c36b50b960ca03fdb22cd2]: Textual amendment: [Reg. 6(6)(b)(iii)(gg)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b/iii/gg) and word inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/3/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-741e269a92c36b50b960ca03fdb22cd2]: Textual amendment: [Reg. 6(6)(b)(iii)(gg)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b/iii/gg) and word inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/3/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
-[^key-2bc59fdd79c4d5bf9965b61b6c46223d]: Textual amendment: Word in [reg. 6(6)(gg)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/gg) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/a/ii)
+[^c-2bc59fdd79c4d5bf9965b61b6c46223d]: Textual amendment: Word in [reg. 6(6)(gg)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/gg) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/a/ii)
 
-[^key-4301b7beb58ac1d0649d5df0475507a1]: Textual amendment: [Reg. 6(6)(b)(iii)(hh)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b/iii/hh) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/a/iii)
+[^c-4301b7beb58ac1d0649d5df0475507a1]: Textual amendment: [Reg. 6(6)(b)(iii)(hh)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/6/b/iii/hh) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/a/iii)
 
-[^key-3d14d0c11c0010530a72d5598fec82cb]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/7) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/8/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-3d14d0c11c0010530a72d5598fec82cb]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/7) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/8/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00040]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20), amended by [S.R. 1997 No. 69](https://www.legislation.gov.uk/nisr/1997/69), [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359), [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229), [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
 
-[^key-0872f881c2046ec8417d9c609504871d]: Textual amendment: [Reg. 6(7)(da)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/7/da) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(3)(c)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/3/c) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-0872f881c2046ec8417d9c609504871d]: Textual amendment: [Reg. 6(7)(da)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/7/da) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(3)(c)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/3/c) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
 [^f00041]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), amended by [S.I. 2022/60](https://www.legislation.gov.uk/uksi/2022/60) and [S.I. 2014/597](https://www.legislation.gov.uk/uksi/2014/597).
 
@@ -2113,33 +2113,33 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00043]: Footnote: [S.R. 2016 No. 217](https://www.legislation.gov.uk/nisr/2016/217).
 
-[^key-dd7e1b30cfc898290478a55562ba07bb]: Textual amendment: [Reg. 6(7)(k)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/7/k) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/b)
+[^c-dd7e1b30cfc898290478a55562ba07bb]: Textual amendment: [Reg. 6(7)(k)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/7/k) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(3)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/3/b)
 
 [^f00044]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77), amended by section 39 of the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).
 
-[^key-7a5daba79fe66cc9e322c9af3042b639]: Textual amendment: Word in [reg. 6(8)(f)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/f) omitted (19.11.2023 immediately after S.S.I. 2023/302 comes into force) by virtue of [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/ssi/2023/309/regulation/11/2/a)
+[^c-7a5daba79fe66cc9e322c9af3042b639]: Textual amendment: Word in [reg. 6(8)(f)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/f) omitted (19.11.2023 immediately after S.S.I. 2023/302 comes into force) by virtue of [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/3), [11(2)(a)](https://www.legislation.gov.uk/ssi/2023/309/regulation/11/2/a)
 
-[^key-c39ee59c0834fef285b75efc541bf558]: Textual amendment: [Reg. 6(8)(h)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/h) and word inserted (19.11.2023 immediately after S.S.I. 2023/302 comes into force) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/3), [11(2)(b)](https://www.legislation.gov.uk/ssi/2023/309/regulation/11/2/b)
+[^c-c39ee59c0834fef285b75efc541bf558]: Textual amendment: [Reg. 6(8)(h)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/h) and word inserted (19.11.2023 immediately after S.S.I. 2023/302 comes into force) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/3), [11(2)(b)](https://www.legislation.gov.uk/ssi/2023/309/regulation/11/2/b)
 
-[^key-00432b23fec37c53862cddbffd67cb6a]: Textual amendment: Word in [reg. 6(8)(g)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/g) omitted (11.9.2025) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/ssi/2025/250/regulation/7/2/a)
+[^c-00432b23fec37c53862cddbffd67cb6a]: Textual amendment: Word in [reg. 6(8)(g)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/g) omitted (11.9.2025) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/ssi/2025/250/regulation/7/2/a)
 
-[^key-be9ebe57f7a3a7725481ccd090cb988e]: Textual amendment: [Reg. 6(8)(i)(j)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/i/j) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/ssi/2025/250/regulation/7/2/b)
+[^c-be9ebe57f7a3a7725481ccd090cb988e]: Textual amendment: [Reg. 6(8)(i)(j)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/i/j) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/ssi/2025/250/regulation/7/2/b)
 
-[^key-2d141f02bc4c6a9078cf7cf085d28674]: Textual amendment: Word in [reg. 6(8)(i)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/i) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/2/a/i)
+[^c-2d141f02bc4c6a9078cf7cf085d28674]: Textual amendment: Word in [reg. 6(8)(i)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/i) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/2/a/i)
 
-[^key-7a2b93efc09e6e004eb7da85a7c98dac]: Textual amendment: [Reg. 6(8)(k)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/k)[(l)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/l) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/2/a/ii)
+[^c-7a2b93efc09e6e004eb7da85a7c98dac]: Textual amendment: [Reg. 6(8)(k)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/k)[(l)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/8/l) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/2/a/ii)
 
 [^f00045]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00046]: Footnote: Published at https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme.
 
-[^key-a2a5dd12834cb080968d3466ef465d2e]: Textual amendment: [Reg. 6(10)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/10) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/2/b)
+[^c-a2a5dd12834cb080968d3466ef465d2e]: Textual amendment: [Reg. 6(10)](https://www.legislation.gov.uk/ssi/2023/302/regulation/6/10) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/2/b)
 
-[^key-1b001c4853f43db3c6105e8752cf1936]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/302/regulation/7) substituted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(3)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/3)
+[^c-1b001c4853f43db3c6105e8752cf1936]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/302/regulation/7) substituted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(3)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/3)
 
-[^key-e0ab5cf7a05f8faad5a7fd4aa3102b0d]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2023/302/regulation/7A) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/4)
+[^c-e0ab5cf7a05f8faad5a7fd4aa3102b0d]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2023/302/regulation/7A) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [11(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/11/4)
 
-[^key-293545abbe74c60e3fc2880771f9a678]: Commencement: Reg. 8 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-293545abbe74c60e3fc2880771f9a678]: Commencement: Reg. 8 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00047]: Footnote: [S.S.I. 2009/210](https://www.legislation.gov.uk/ssi/2009/210).
 
@@ -2153,43 +2153,43 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00052]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
-[^key-7fbe735c3f703652fcd8e90ba1ed90da]: Commencement: Reg. 9 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-7fbe735c3f703652fcd8e90ba1ed90da]: Commencement: Reg. 9 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00053]: Footnote: Section 120 was relevantly amended by paragraph 30 of schedule 4 of the Petroleum Act [1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), paragraph 26 of schedule 3 and paragraph 8 of schedule 7 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), paragraph 70 of schedule 7 of the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), and section 12(2) to (4) of the National Insurance Contributions Act [2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7).
 
-[^key-5b0549b3b86022a2cadb796da1506bf4]: Commencement: Reg. 10 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-5b0549b3b86022a2cadb796da1506bf4]: Commencement: Reg. 10 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00054]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-5d512fe5dd5f9e5d7066e30c0a0d402e]: Textual amendment: Word in [reg. 10(1)(c)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/10/1/c/i/cc) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/3/a)
+[^c-5d512fe5dd5f9e5d7066e30c0a0d402e]: Textual amendment: Word in [reg. 10(1)(c)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/10/1/c/i/cc) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/3/a)
 
 [^f00055]: Footnote: [S.I. 1974/555](https://www.legislation.gov.uk/uksi/1974/555).
 
-[^key-e91bc67fb3ca9c8c5f0edf0a9d2b7ab3]: Textual amendment: [Reg. 10(1)(c)(i)(ee)](https://www.legislation.gov.uk/ssi/2023/302/regulation/10/1/c/i/ee) and word inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/3/b)
+[^c-e91bc67fb3ca9c8c5f0edf0a9d2b7ab3]: Textual amendment: [Reg. 10(1)(c)(i)(ee)](https://www.legislation.gov.uk/ssi/2023/302/regulation/10/1/c/i/ee) and word inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/3/b)
 
-[^key-788a85b9cf63ecbfd41f955559ac5d40]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2023/302/regulation/10) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/c) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-788a85b9cf63ecbfd41f955559ac5d40]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2023/302/regulation/10) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/c) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-2a465737b281796f8a5057b6cf9f3731]: Commencement: Reg. 11 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-2a465737b281796f8a5057b6cf9f3731]: Commencement: Reg. 11 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-1495f477218736b04a45621ad801c1bc]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/ssi/2023/302/regulation/11) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/d) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-1495f477218736b04a45621ad801c1bc]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/ssi/2023/302/regulation/11) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/d) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-0bc0666ec77325a6ff9205a4d1a89cd9]: Textual amendment: Word in [reg. 11(2)(a)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/11/2/a/i/cc) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/4/a)
+[^c-0bc0666ec77325a6ff9205a4d1a89cd9]: Textual amendment: Word in [reg. 11(2)(a)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/11/2/a/i/cc) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/4/a)
 
-[^key-ac620525c394dc1396b91ed8f74552ba]: Textual amendment: Word in [reg. 11(2)(a)(i)(dd)](https://www.legislation.gov.uk/ssi/2023/302/regulation/11/2/a/i/dd) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/4/b)
+[^c-ac620525c394dc1396b91ed8f74552ba]: Textual amendment: Word in [reg. 11(2)(a)(i)(dd)](https://www.legislation.gov.uk/ssi/2023/302/regulation/11/2/a/i/dd) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/4/b)
 
-[^key-ff166bfecf909e4781161080baf6aa3c]: Textual amendment: [Reg. 11(2)(a)(i)(ee)](https://www.legislation.gov.uk/ssi/2023/302/regulation/11/2/a/i/ee) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(4)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/4/c)
+[^c-ff166bfecf909e4781161080baf6aa3c]: Textual amendment: [Reg. 11(2)(a)(i)(ee)](https://www.legislation.gov.uk/ssi/2023/302/regulation/11/2/a/i/ee) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(4)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/4/c)
 
-[^key-651061168d405da24ed810b4885460e3]: Commencement: Reg. 12 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-651061168d405da24ed810b4885460e3]: Commencement: Reg. 12 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-fc2888ef2435e3de69283b2cd88cc1b4]: Commencement: Reg. 13(1)(4) in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-fc2888ef2435e3de69283b2cd88cc1b4]: Commencement: Reg. 13(1)(4) in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-c35a3f4e9e7451ebfd902d99586ebcc4]: Commencement: Reg. 13(2)(3) in force at 1.10.2024, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/3)
+[^c-c35a3f4e9e7451ebfd902d99586ebcc4]: Commencement: Reg. 13(2)(3) in force at 1.10.2024, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/3)
 
-[^key-8c9e82b0ea9b386dc616d438f760ec4d]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/ssi/2023/302/regulation/13) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/e) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-8c9e82b0ea9b386dc616d438f760ec4d]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/ssi/2023/302/regulation/13) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/e) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
 [^f00056]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25), amended by schedule 3 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-3d65f84caa1710715d1ac40d302260ca]: Commencement: [Reg. 13(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/13/2)[(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/13/3) in force at 23.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/3) (as amended by [S.S.I. 2024/173](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/2))
+[^c-3d65f84caa1710715d1ac40d302260ca]: Commencement: [Reg. 13(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/13/2)[(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/13/3) in force at 23.6.2024, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/3) (as amended by [S.S.I. 2024/173](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/2))
 
 [^f00057]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
@@ -2205,41 +2205,41 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00063]: Footnote: [S.S.I. 2009/210](https://www.legislation.gov.uk/ssi/2009/210).
 
-[^key-62d876023acbcc430da9beca79524590]: Commencement: Reg. 14 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-62d876023acbcc430da9beca79524590]: Commencement: Reg. 14 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-f1cd22bf872552ba18f9208e46396aa6]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/14/1) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(10)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/10) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-f1cd22bf872552ba18f9208e46396aa6]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/14/1) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(10)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/10) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-7411f1655edaeee22b6fcd3987528694]: Textual amendment: Sum in reg. 14(1) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/2) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
+[^c-7411f1655edaeee22b6fcd3987528694]: Textual amendment: Sum in reg. 14(1) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/2) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
 
-[^key-5c257e460d03da7d1c9f5fadc5246077]: Textual amendment: [Regs. 14A](https://www.legislation.gov.uk/ssi/2023/302/regulation/14A), [14B](https://www.legislation.gov.uk/ssi/2023/302/regulation/14B) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(11)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/11) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-5c257e460d03da7d1c9f5fadc5246077]: Textual amendment: [Regs. 14A](https://www.legislation.gov.uk/ssi/2023/302/regulation/14A), [14B](https://www.legislation.gov.uk/ssi/2023/302/regulation/14B) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(11)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/11) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-ff90a7079ded7131ea96e63f2e5d54ab]: Commencement: Reg. 15 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-ff90a7079ded7131ea96e63f2e5d54ab]: Commencement: Reg. 15 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-1bf1a56143c1da87aa33c7dbdb2dbf1f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2023/302/regulation/15) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/f) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-1bf1a56143c1da87aa33c7dbdb2dbf1f]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2023/302/regulation/15) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/f) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-cdc079708ac94a3de011a1cd18eb7460]: Commencement: Reg. 16 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-cdc079708ac94a3de011a1cd18eb7460]: Commencement: Reg. 16 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-2e48e8f2d30ed36c450026548fb97c76]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/302/regulation/16) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-2e48e8f2d30ed36c450026548fb97c76]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/302/regulation/16) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-16353857ca9b47eca98ba02d658da059]: Textual amendment: Word in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-16353857ca9b47eca98ba02d658da059]: Textual amendment: Word in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-f9626135ab7ac4bc85131899f27045f2]: Textual amendment: Sum in reg. 16(1) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(3)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/3/a) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
+[^c-f9626135ab7ac4bc85131899f27045f2]: Textual amendment: Sum in reg. 16(1) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(3)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/3/a) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
 
-[^key-dcf82efffd9429a3aa4e980cd2ec53fe]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/1A)[(1B)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/1B) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-dcf82efffd9429a3aa4e980cd2ec53fe]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/1A)[(1B)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/1B) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-387fffb5994ce87f8082e0fc585a3976]: Textual amendment: Sum in reg. 16(1A) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(3)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/3/b) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
+[^c-387fffb5994ce87f8082e0fc585a3976]: Textual amendment: Sum in reg. 16(1A) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(3)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/3/b) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
 
-[^key-0dc190264fbdfc825487e8dc7525d096]: Textual amendment: Sum in reg. 16(1B) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(3)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/3/c) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
+[^c-0dc190264fbdfc825487e8dc7525d096]: Textual amendment: Sum in reg. 16(1B) substituted (5.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/3), [12(3)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/3/c) (with [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/10))
 
-[^key-7d5c134c4615eb0699da78f26ef4ae9b]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/4) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(d)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/d/i) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [12](https://www.legislation.gov.uk/ssi/2025/340/regulation/12))
+[^c-7d5c134c4615eb0699da78f26ef4ae9b]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/4) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(d)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/d/i) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [12](https://www.legislation.gov.uk/ssi/2025/340/regulation/12))
 
-[^key-f2dd118c2828cfda66d3a3d0dabceeb7]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/4/b) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/d/ii) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [12](https://www.legislation.gov.uk/ssi/2025/340/regulation/12))
+[^c-f2dd118c2828cfda66d3a3d0dabceeb7]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/4/b) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/d/ii) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [12](https://www.legislation.gov.uk/ssi/2025/340/regulation/12))
 
-[^key-b1b3252517d909a42437c197c7141a8e]: Textual amendment: [Reg. 16(4A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/4A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-b1b3252517d909a42437c197c7141a8e]: Textual amendment: [Reg. 16(4A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/4A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-715dff37aba781ab5427c17d6200c579]: Textual amendment: Word in [reg. 16(5)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/5) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(f)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/f/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-715dff37aba781ab5427c17d6200c579]: Textual amendment: Word in [reg. 16(5)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/5) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(f)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/f/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-def03b6d19b69e564874c0a2e3ea1f8f]: Textual amendment: Words in [reg. 16(5)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/5/a) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(f)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/f/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-def03b6d19b69e564874c0a2e3ea1f8f]: Textual amendment: Words in [reg. 16(5)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/16/5/a) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(12)(f)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/12/f/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00064]: Footnote: [1914 c. 30](https://www.legislation.gov.uk/ukpga/1914/30).
 
@@ -2247,9 +2247,9 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00066]: Footnote: [1977 c. 5](https://www.legislation.gov.uk/ukpga/1977/5).
 
-[^key-9036a054cbf22e41f2a905ef41bd39ee]: Commencement: Reg. 17 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-9036a054cbf22e41f2a905ef41bd39ee]: Commencement: Reg. 17 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-2ed8e2c4c8a86d7a5b27a133171e8169]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/17/1/a) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(13)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/13) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-2ed8e2c4c8a86d7a5b27a133171e8169]: Textual amendment: Word in [reg. 17(1)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/17/1/a) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(13)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/13) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00067]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
@@ -2257,77 +2257,77 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00069]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-c44a5a42dad031c8eb76b9dd1a1a0f87]: Commencement: Reg. 18 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-c44a5a42dad031c8eb76b9dd1a1a0f87]: Commencement: Reg. 18 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-713becdb808b403476d3442b4ca98eb0]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/ssi/2023/302/regulation/18) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(g)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/g) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-713becdb808b403476d3442b4ca98eb0]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/ssi/2023/302/regulation/18) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(g)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/g) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-00c59314550c86443034210d1ba044a5]: Textual amendment: Words in [reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/b/ii) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(14)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/14/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-00c59314550c86443034210d1ba044a5]: Textual amendment: Words in [reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/b/ii) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(14)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/14/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-2860f4076c66e1cb7731aad594fe6d3a]: Textual amendment: Word in [reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/b/ii) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/a/i)
+[^c-2860f4076c66e1cb7731aad594fe6d3a]: Textual amendment: Word in [reg. 18(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/b/ii) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/a/i)
 
-[^key-fab8110abd28b3a13a810c5da098d5c8]: Textual amendment: [Reg. 18(2)(d)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/d)[(e)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/e) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/a/ii)
+[^c-fab8110abd28b3a13a810c5da098d5c8]: Textual amendment: [Reg. 18(2)(d)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/d)[(e)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/2/e) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/a/ii)
 
-[^key-0d66ec6eed3da479a1321ead7541ddf5]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/3) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/b)
+[^c-0d66ec6eed3da479a1321ead7541ddf5]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/3) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/b)
 
-[^key-ec1b7246a2e53a7b00f82970a710862d]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(14)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/14/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-ec1b7246a2e53a7b00f82970a710862d]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(14)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/14/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-e279c862e22077070b735135897c1b32]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/4) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/c)
+[^c-e279c862e22077070b735135897c1b32]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/ssi/2023/302/regulation/18/4) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(5)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/5/c)
 
-[^key-9f0024755a71157d475f0ff9a182caec]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/ssi/2023/302/regulation/18A) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-9f0024755a71157d475f0ff9a182caec]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/ssi/2023/302/regulation/18A) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-fd47baaa453469d44618445e352fd7da]: Textual amendment: [Reg. 18B](https://www.legislation.gov.uk/ssi/2023/302/regulation/18B) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-fd47baaa453469d44618445e352fd7da]: Textual amendment: [Reg. 18B](https://www.legislation.gov.uk/ssi/2023/302/regulation/18B) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-b9fbe25d5361f2ba353f69d15b1c6dc9]: Commencement: Reg. 19 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-b9fbe25d5361f2ba353f69d15b1c6dc9]: Commencement: Reg. 19 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-c3522c7e6a961c2b1993a806cb3371b5]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-c3522c7e6a961c2b1993a806cb3371b5]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-b104f77da4768714bd07ff0b9ef098d6]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/6)
+[^c-b104f77da4768714bd07ff0b9ef098d6]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/6)
 
-[^key-a3089c6bc13dede0d0fe0e3415471480]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/b/i/aa) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-a3089c6bc13dede0d0fe0e3415471480]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/b/i/aa) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-2bd7b04e6767ccedf56370531c350abc]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/b/i/bb) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-2bd7b04e6767ccedf56370531c350abc]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/b/i/bb) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-21dd595c5d121060e0ec21e79cf09320]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2/a) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/b/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-21dd595c5d121060e0ec21e79cf09320]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/19/2/a) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(15)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/15/b/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-db207eb619c4b5288a1ae47b001e5639]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/302/regulation/20) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/6))
+[^c-db207eb619c4b5288a1ae47b001e5639]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/302/regulation/20) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/6))
 
-[^key-54caaded9c057ed6dae5cefb921d4501]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/302/regulation/21) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/6))
+[^c-54caaded9c057ed6dae5cefb921d4501]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/302/regulation/21) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/6))
 
-[^key-837a975857052338975db3735a3a4535]: Commencement: Reg. 22 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-837a975857052338975db3735a3a4535]: Commencement: Reg. 22 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-3ce57232ddf311a25d9eeb431344dfa7]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2023/302/regulation/22) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(h)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/h) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-3ce57232ddf311a25d9eeb431344dfa7]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2023/302/regulation/22) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(h)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/h) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-0af819f128bd336bb97a4121ca5906c7]: Commencement: Reg. 23 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-0af819f128bd336bb97a4121ca5906c7]: Commencement: Reg. 23 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-6b624779c6c5b21a96944c89eb159846]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(16)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/b) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-6b624779c6c5b21a96944c89eb159846]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(16)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/b) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-0ae70ed254e227490b5615c06d364fdf]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2023/302/regulation/23) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/i) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-0ae70ed254e227490b5615c06d364fdf]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2023/302/regulation/23) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/i) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-f8e6b2b6431cb69f3c351f1abb907273]: Textual amendment: Word in [reg. 23(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/b) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(7)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/7/a/i)
+[^c-f8e6b2b6431cb69f3c351f1abb907273]: Textual amendment: Word in [reg. 23(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/b) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(7)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/7/a/i)
 
-[^key-7cd03a3a1e20feb6c5d3579236007e45]: Textual amendment: [Reg. 23(1)(d)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/d)[(e)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/e) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/7/a/ii)
+[^c-7cd03a3a1e20feb6c5d3579236007e45]: Textual amendment: [Reg. 23(1)(d)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/d)[(e)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/e) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/7/a/ii)
 
-[^key-97c9b9fd51edea23633b47aed16bb608]: Textual amendment: [Reg. 23(1)(f)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/f) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-97c9b9fd51edea23633b47aed16bb608]: Textual amendment: [Reg. 23(1)(f)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/1/f) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-dc3f18feabdd0905d3d6cce231e1179d]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2023/302/regulation/23) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-dc3f18feabdd0905d3d6cce231e1179d]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2023/302/regulation/23) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-425dea95f5cfa59dce451f11984dc1e7]: Textual amendment: Words in [reg. 23(4)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-425dea95f5cfa59dce451f11984dc1e7]: Textual amendment: Words in [reg. 23(4)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-7166dde56afb13403cb491f37a386f36]: Textual amendment: [Reg. 23(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/b/iii) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-7166dde56afb13403cb491f37a386f36]: Textual amendment: [Reg. 23(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/b/iii) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00071]: Footnote: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174). Regulation 26A was inserted by [S.S.I. 2022/41](https://www.legislation.gov.uk/ssi/2022/41).
 
-[^key-17937c3fb46b7a0ee0854915f60bc7db]: Textual amendment: Word in [reg. 23(4)(c)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/aa) omitted (21.10.2024) by virtue of [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(4)(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/4/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-17937c3fb46b7a0ee0854915f60bc7db]: Textual amendment: Word in [reg. 23(4)(c)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/aa) omitted (21.10.2024) by virtue of [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(4)(a)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/4/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
 [^f00072]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54).
 
-[^key-0090c52ed04a8ada28fa58490a15f9d5]: Textual amendment: Word in [reg. 23(4)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/bb) omitted (21.3.2025) by virtue of [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(4)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/4/a)
+[^c-0090c52ed04a8ada28fa58490a15f9d5]: Textual amendment: Word in [reg. 23(4)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/bb) omitted (21.3.2025) by virtue of [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(4)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/4/a)
 
-[^key-ebda68d99c8cbf1ad13380593a00f191]: Textual amendment: [Reg. 23(4)(c)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/cc) and word inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(4)(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/4/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-ebda68d99c8cbf1ad13380593a00f191]: Textual amendment: [Reg. 23(4)(c)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/cc) and word inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [13(4)(b)](https://www.legislation.gov.uk/ssi/2024/141/regulation/13/4/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
-[^key-ab2e4705a1d99593cc46a6ee6455e8b3]: Textual amendment: Word in [reg. 23(4)(c)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/cc) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(4)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/4/b)
+[^c-ab2e4705a1d99593cc46a6ee6455e8b3]: Textual amendment: Word in [reg. 23(4)(c)(i)(cc)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/cc) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(4)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/4/b)
 
-[^key-c28a8589f96c6472e0a2a3870080676b]: Textual amendment: [Reg. 23(4)(c)(i)(dd)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/dd) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(4)(c)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/4/c)
+[^c-c28a8589f96c6472e0a2a3870080676b]: Textual amendment: [Reg. 23(4)(c)(i)(dd)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/4/c/i/dd) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [20(4)(c)](https://www.legislation.gov.uk/ssi/2024/311/regulation/20/4/c)
 
 [^f00073]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991), amended by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206), [S.I. 1999/2570](https://www.legislation.gov.uk/uksi/1999/2570), [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [S.I. 2010/840](https://www.legislation.gov.uk/uksi/2010/840) and [S.I. 2012/824](https://www.legislation.gov.uk/uksi/2012/824).
 
@@ -2339,115 +2339,115 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00077]: Footnote: Amended by [S.I. 1999/2588](https://www.legislation.gov.uk/uksi/1999/2588).
 
-[^key-b650141eb5f823a62ba28bed208a3609]: Textual amendment: [Reg. 23(7A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/7A) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/7/b)
+[^c-b650141eb5f823a62ba28bed208a3609]: Textual amendment: [Reg. 23(7A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/7A) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(7)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/7/b)
 
-[^key-7cc472de66b095e3a8dd69b63aa68b12]: Modification: [Reg. 23(8)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/8) applied (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [13(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/13/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-7cc472de66b095e3a8dd69b63aa68b12]: Modification: [Reg. 23(8)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/8) applied (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [13(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/13/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-744cc897a655e519b51a91f72239a9cf]: Textual amendment: [Reg. 23(12)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/12) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/f) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-744cc897a655e519b51a91f72239a9cf]: Textual amendment: [Reg. 23(12)](https://www.legislation.gov.uk/ssi/2023/302/regulation/23/12) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(16)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/16/f) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-1c1c9f159d4da0fdd0894efb2b8817d1]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/ssi/2023/302/regulation/23A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(17)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/17) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-1c1c9f159d4da0fdd0894efb2b8817d1]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/ssi/2023/302/regulation/23A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(17)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/17) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-297c43757bb7e53fe7d02a15638d1b5c]: Commencement: Reg. 24 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-297c43757bb7e53fe7d02a15638d1b5c]: Commencement: Reg. 24 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-e6f1e8d6ecf7cabd482206d9ed510d90]: Textual amendment: Word in [reg. 24(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/24/1) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(18)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/18) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-e6f1e8d6ecf7cabd482206d9ed510d90]: Textual amendment: Word in [reg. 24(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/24/1) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(18)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/18) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-0ba1c9ea3f210a6af78a795d77d2fffd]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/ssi/2023/302/regulation/24A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(19)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/19) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-0ba1c9ea3f210a6af78a795d77d2fffd]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/ssi/2023/302/regulation/24A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(19)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/19) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-4976dc768d70ec0d663f7b57ae8c8da6]: Commencement: Reg. 25 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-4976dc768d70ec0d663f7b57ae8c8da6]: Commencement: Reg. 25 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-44969d33fd5f0b78b9f339a9ef5bc834]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2023/302/regulation/25) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(j)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/j) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-44969d33fd5f0b78b9f339a9ef5bc834]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2023/302/regulation/25) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(j)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/j) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-c63feb5be9bb3be53119bfbc18478a8c]: Commencement: Reg. 26 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-c63feb5be9bb3be53119bfbc18478a8c]: Commencement: Reg. 26 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-fae29913b0b594d316afe9a909dc7379]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/302/regulation/26) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(20)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/20) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-fae29913b0b594d316afe9a909dc7379]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/302/regulation/26) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(20)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/20) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-3cef691a4f1a48cdedeb449a836a1638]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/ssi/2023/302/regulation/26) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(k)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/k) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-3cef691a4f1a48cdedeb449a836a1638]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/ssi/2023/302/regulation/26) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(k)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/k) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-993c3e28886c2781241b7eb228b0e46c]: Commencement: Reg. 27 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-993c3e28886c2781241b7eb228b0e46c]: Commencement: Reg. 27 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-1c857796ad5531d799d12f0743e84659]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(21)(a)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/21/a/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-1c857796ad5531d799d12f0743e84659]: Textual amendment: Word in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(21)(a)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/21/a/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-875823f2611b5bf0c1870d5317fbf1cf]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(21)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/21/a/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-875823f2611b5bf0c1870d5317fbf1cf]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(21)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/21/a/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-ed8ef2d34b0b44b0d8d04560858e7c9a]: Textual amendment: [Reg. 27(1)(ab)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1/ab) inserted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(21)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/21/b) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-ed8ef2d34b0b44b0d8d04560858e7c9a]: Textual amendment: [Reg. 27(1)(ab)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1/ab) inserted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(21)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/21/b) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-cefaf5fb2fb092fac8be9e8fc41eaf2b]: Textual amendment: [Reg. 27(1)(ac)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1/ac) inserted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [12(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/4)
+[^c-cefaf5fb2fb092fac8be9e8fc41eaf2b]: Textual amendment: [Reg. 27(1)(ac)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1/ac) inserted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [12(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/12/4)
 
-[^key-3b97b03c1bac8f2464bbb89d1fdb1351]: Textual amendment: [Reg. 27(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1/b) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/5)
+[^c-3b97b03c1bac8f2464bbb89d1fdb1351]: Textual amendment: [Reg. 27(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/27/1/b) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/5)
 
-[^key-10ed6e8164b4909d3107258860862afc]: Commencement: Reg. 28 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-10ed6e8164b4909d3107258860862afc]: Commencement: Reg. 28 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-2e07385a36ed42011ab0ba2f1f000b18]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/ssi/2023/302/regulation/28) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(l)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/l) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-2e07385a36ed42011ab0ba2f1f000b18]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/ssi/2023/302/regulation/28) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(l)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/l) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-a2aac9ad8517a8c64dbbbcd16db218f0]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(22)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-a2aac9ad8517a8c64dbbbcd16db218f0]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(22)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-328cdd8a331391010d57dadb77b4f3f7]: Textual amendment: Words in [reg. 28(1)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/a) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(22)(b)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/b/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-328cdd8a331391010d57dadb77b4f3f7]: Textual amendment: Words in [reg. 28(1)(a)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/a) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(22)(b)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/b/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-dfa0d4cad3c5d60926b44a0d0cf770ac]: Textual amendment: Words in [reg. 28(1)(a)(i)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/a/i) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(22)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/b/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-dfa0d4cad3c5d60926b44a0d0cf770ac]: Textual amendment: Words in [reg. 28(1)(a)(i)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/a/i) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(22)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/b/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-f5a4dd16f9b8933e72feea9a4dcd9336]: Textual amendment: [Reg. 28(1)(ab)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/ab) inserted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(22)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/c) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-f5a4dd16f9b8933e72feea9a4dcd9336]: Textual amendment: [Reg. 28(1)(ab)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/ab) inserted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(22)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/22/c) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-2d770665f5a7dc50be1f67ffaffd05e1]: Textual amendment: [Reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/b) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/6)
+[^c-2d770665f5a7dc50be1f67ffaffd05e1]: Textual amendment: [Reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/28/1/b) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/6)
 
-[^key-4e2c9527e4e80563defab44214262094]: Commencement: Reg. 29 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-4e2c9527e4e80563defab44214262094]: Commencement: Reg. 29 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-a63754be419fee0c361955e68db44123]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/ssi/2023/302/regulation/29) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(m)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/m) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-a63754be419fee0c361955e68db44123]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/ssi/2023/302/regulation/29) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(m)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/m) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
 [^f00078]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9), amended by section 12(3) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“**the 2020 Act**”).
 
 [^f00079]: Footnote: Section 85B was inserted by section 2(4) of the 2020 Act.
 
-[^key-fc0887bcd3f3c198f5ce8a0d393694c2]: Commencement: Reg. 30 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-fc0887bcd3f3c198f5ce8a0d393694c2]: Commencement: Reg. 30 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-be5468eb30ea4e22e8609eb08d0085b8]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/ssi/2023/302/regulation/30) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(n)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/n) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-be5468eb30ea4e22e8609eb08d0085b8]: Textual amendment: Words in [reg. 30](https://www.legislation.gov.uk/ssi/2023/302/regulation/30) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(n)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/n) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-ff07b9e40a1029b7f85d27862d4b443b]: Commencement: Reg. 31 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-ff07b9e40a1029b7f85d27862d4b443b]: Commencement: Reg. 31 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-35970755cf58721a37faba8873539f2b]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/ssi/2023/302/regulation/31) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(o)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/o) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-35970755cf58721a37faba8873539f2b]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/ssi/2023/302/regulation/31) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(o)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/o) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-474b7a60d82c34daace308e50f41a9ef]: Commencement: Reg. 32 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-474b7a60d82c34daace308e50f41a9ef]: Commencement: Reg. 32 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-e42522448be8301ce7e75a7f0fde6110]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/ssi/2023/302/regulation/32) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(p)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/p) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-e42522448be8301ce7e75a7f0fde6110]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/ssi/2023/302/regulation/32) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(p)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/p) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-e7e0da730a3cc5e938d556c03b8e8107]: Commencement: Reg. 33 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-e7e0da730a3cc5e938d556c03b8e8107]: Commencement: Reg. 33 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00080]: Footnote: Section 54(1) was amended by section 12(3)(a) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“**the 2020 Act**”).
 
 [^f00081]: Footnote: Section 54(2) was amended by section 12(3)(c) of the 2020 Act.
 
-[^key-51c940264bf4360e7f40336a6ea2a913]: Commencement: Reg. 34 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-51c940264bf4360e7f40336a6ea2a913]: Commencement: Reg. 34 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-ba991b59798729948401a927a73802a2]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/ssi/2023/302/regulation/34) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(q)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/q) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-ba991b59798729948401a927a73802a2]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/ssi/2023/302/regulation/34) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(q)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/q) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-6b14793170a5010f03e0beb8c87889e6]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/ssi/2023/302/part/6) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(23)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/23) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-6b14793170a5010f03e0beb8c87889e6]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/ssi/2023/302/part/6) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(23)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/23) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-a028638bb26dcc4c1d707cc01834d99c]: Commencement: Reg. 35 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-a028638bb26dcc4c1d707cc01834d99c]: Commencement: Reg. 35 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-95cd5ec33ebfa3fed2d168f422fc8723]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/ssi/2023/302/regulation/35) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(r)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/r) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-95cd5ec33ebfa3fed2d168f422fc8723]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/ssi/2023/302/regulation/35) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(r)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/r) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-8166cca1ee90a38cec266fed215b1001]: Commencement: Reg. 36 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-8166cca1ee90a38cec266fed215b1001]: Commencement: Reg. 36 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-ede562bbd90534289a54c9f6f1fa780e]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/ssi/2023/302/regulation/36) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-ede562bbd90534289a54c9f6f1fa780e]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/ssi/2023/302/regulation/36) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-c465e71693734146fbb4bf66017f9d31]: Textual amendment: Words in [reg. 36(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/b/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-c465e71693734146fbb4bf66017f9d31]: Textual amendment: Words in [reg. 36(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/b/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-16b4ddd6c1480ec290fc95c340e4d822]: Textual amendment: Words in [reg. 36(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/b) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(b)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/b/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-16b4ddd6c1480ec290fc95c340e4d822]: Textual amendment: Words in [reg. 36(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/b) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(b)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/b/i) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-ef413b3b7caa04ce9d0626965768f4d5]: Textual amendment: [Reg. 36(da)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/da) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-ef413b3b7caa04ce9d0626965768f4d5]: Textual amendment: [Reg. 36(da)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/da) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-28bc4b842a57d3dfb9020f982dd5371b]: Textual amendment: [Reg. 36(e)(i)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/i) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(24)(d)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/i) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-28bc4b842a57d3dfb9020f982dd5371b]: Textual amendment: [Reg. 36(e)(i)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/i) substituted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(24)(d)(i)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/i) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-2ebe554107091b673b42ab09b5dc7597]: Textual amendment: [Reg. 36(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/i/aa) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-2ebe554107091b673b42ab09b5dc7597]: Textual amendment: [Reg. 36(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/i/aa) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-a9d0ba604a5329a64e6f1bbc5b57f555]: Textual amendment: [Reg. 36(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/i/bb) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-a9d0ba604a5329a64e6f1bbc5b57f555]: Textual amendment: [Reg. 36(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/i/bb) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/ii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-5b0a319d965f85831d26e4c67bfcc0c3]: Textual amendment: Words in [reg. 36(e)(ii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/ii) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(iii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/iii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-5b0a319d965f85831d26e4c67bfcc0c3]: Textual amendment: Words in [reg. 36(e)(ii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/ii) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(iii)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/iii) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-72c9430bfbad82192f7942b44540c066]: Textual amendment: [Reg. 36(e)(iii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/iii) and word inserted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(24)(d)(iv)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/iv) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-72c9430bfbad82192f7942b44540c066]: Textual amendment: [Reg. 36(e)(iii)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/iii) and word inserted (16.11.2025) by The Carer’s [Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(24)(d)(iv)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/iv) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-a6693570ce1b2baba091e24c286f4946]: Textual amendment: Word in [reg. 36(e)(iii)(aa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/iii/aa) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(v)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/v) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-a6693570ce1b2baba091e24c286f4946]: Textual amendment: Word in [reg. 36(e)(iii)(aa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/e/iii/aa) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(d)(v)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/d/v) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-c5206a9b2db81f47e151ad96d1a640b6]: Textual amendment: [Reg. 36(f)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/f)[(g)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/g) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/a) (with savings in [reg. 16(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/2))
+[^c-c5206a9b2db81f47e151ad96d1a640b6]: Textual amendment: [Reg. 36(f)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/f)[(g)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/g) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/a) (with savings in [reg. 16(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/2))
 
 [^f00082]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991), amended by [S.I. 1999/1623](https://www.legislation.gov.uk/uksi/1999/1623), [S.I. 1999/1662](https://www.legislation.gov.uk/uksi/1999/1662), [S.I. 1999/2750](https://www.legislation.gov.uk/uksi/1999/2750), [S.I. 1999/2677](https://www.legislation.gov.uk/uksi/1999/2677), [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897), [S.I. 2002/428](https://www.legislation.gov.uk/uksi/2002/428), [S.I. 2002/1379](https://www.legislation.gov.uk/uksi/2002/1379), [S.I. 2002/1703](https://www.legislation.gov.uk/uksi/2002/1703), [S.I. 2003/916](https://www.legislation.gov.uk/uksi/2003/916), [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050), [S.I. 2003/1886](https://www.legislation.gov.uk/uksi/2003/1886), [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337), [S.I. 2005/2677](https://www.legislation.gov.uk/uksi/2005/2677), [S.I. 2006/832](https://www.legislation.gov.uk/uksi/2006/832), [S.I. 2007/2470](https://www.legislation.gov.uk/uksi/2007/2470), [S.I. 2007/2582](https://www.legislation.gov.uk/uksi/2007/2582), [S.I. 2008/1554](https://www.legislation.gov.uk/uksi/2008/1554), [S.I. 2008/2667](https://www.legislation.gov.uk/uksi/2008/2667), [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683), [S.I. 2009/659](https://www.legislation.gov.uk/uksi/2009/659), [S.I. 2009/1490](https://www.legislation.gov.uk/uksi/2009/1490), [S.I. 2010/424](https://www.legislation.gov.uk/uksi/2010/424), [S.I. 2010/840](https://www.legislation.gov.uk/uksi/2010/840), [S.I. 2010/1160](https://www.legislation.gov.uk/uksi/2010/1160), [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [S.I. 2012/824](https://www.legislation.gov.uk/uksi/2012/824), [S.I. 2012/913](https://www.legislation.gov.uk/uksi/2012/913), [S.I. 2012/919](https://www.legislation.gov.uk/uksi/2012/919), [S.I. 2012/2568](https://www.legislation.gov.uk/uksi/2012/2568), [S.I. 2012/2575](https://www.legislation.gov.uk/uksi/2012/2575), [S.I. 2013/2380](https://www.legislation.gov.uk/uksi/2013/2380), [S.I. 2014/1097](https://www.legislation.gov.uk/uksi/2014/1097), [S.I. 2015/339](https://www.legislation.gov.uk/uksi/2015/339), [S.I. 2015/1985](https://www.legislation.gov.uk/uksi/2015/1985), [S.I. 2016/1145](https://www.legislation.gov.uk/uksi/2016/1145), [S.I. 2017/422](https://www.legislation.gov.uk/uksi/2017/422), [S.I. 2017/1015](https://www.legislation.gov.uk/uksi/2017/1015), [S.I. 2021/786](https://www.legislation.gov.uk/uksi/2021/786), [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177) and [S.I. 2022/1329](https://www.legislation.gov.uk/uksi/2022/1329).
 
@@ -2455,107 +2455,107 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00084]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), amended by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886) and [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-ea1ae5e1dba53b8aec43bef549cf2edb]: Textual amendment: [Reg. 36(fa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/fa) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-ea1ae5e1dba53b8aec43bef549cf2edb]: Textual amendment: [Reg. 36(fa)](https://www.legislation.gov.uk/ssi/2023/302/regulation/36/fa) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(24)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/24/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00085]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), amended by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886) and [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-387510dae3e00041c0ad1750241c1760]: Commencement: Reg. 37 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-387510dae3e00041c0ad1750241c1760]: Commencement: Reg. 37 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-70b6396b9dce25c6bfe15f54051e1580]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/ssi/2023/302/regulation/37) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(s)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/s) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-70b6396b9dce25c6bfe15f54051e1580]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/ssi/2023/302/regulation/37) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(s)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/s) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-46ae07c15b8c30a29886a391067bc072]: Commencement: Reg. 38 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-46ae07c15b8c30a29886a391067bc072]: Commencement: Reg. 38 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-5178997e0f7adb5dc52dd72ffd3c853c]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/ssi/2023/302/regulation/38) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(t)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/t) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-5178997e0f7adb5dc52dd72ffd3c853c]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/ssi/2023/302/regulation/38) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(t)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/t) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-0aec2e08785e182254a308b7a5315abd]: Commencement: Reg. 39 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-0aec2e08785e182254a308b7a5315abd]: Commencement: Reg. 39 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-872005fa89b76a91e447743170ed817c]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/ssi/2023/302/regulation/39) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(u)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/u) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-872005fa89b76a91e447743170ed817c]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/ssi/2023/302/regulation/39) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(u)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/u) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-afe87340b03b1930ad0bb8d302b34dd7]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/ssi/2023/302/regulation/40) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(25)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/25) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-afe87340b03b1930ad0bb8d302b34dd7]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/ssi/2023/302/regulation/40) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(25)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/25) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-24317ebc67b3eda8e9d269da768e5313]: Commencement: Reg. 41 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-24317ebc67b3eda8e9d269da768e5313]: Commencement: Reg. 41 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^M_F_44d1cc7c-7651-4f99-9025-952f4e81b4cb]: Textual amendment: Reg. 41 substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(8)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/8) (with savings in [reg. 16(3)(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/3/4))
 
-[^key-043c94b7d9287c91b926161b42ed253d]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/ssi/2023/302/regulation/41) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(v)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/v) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-043c94b7d9287c91b926161b42ed253d]: Textual amendment: Words in [reg. 41](https://www.legislation.gov.uk/ssi/2023/302/regulation/41) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(v)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/v) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-8a746b0ffbc5ae3a5d76567786a671c3]: Textual amendment: [Reg. 41(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(26)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/26/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/2))
+[^c-8a746b0ffbc5ae3a5d76567786a671c3]: Textual amendment: [Reg. 41(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(26)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/26/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/2))
 
-[^key-accbee2ad85dd704636bb77fb08742f0]: Textual amendment: [Reg. 41(3A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41/3A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(26)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/26/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/2))
+[^c-accbee2ad85dd704636bb77fb08742f0]: Textual amendment: [Reg. 41(3A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41/3A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(26)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/26/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/2))
 
-[^key-6bd2389c6be186544c4c16780df61219]: Textual amendment: Word in [reg. 41(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41/6) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(26)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/26/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/2))
+[^c-6bd2389c6be186544c4c16780df61219]: Textual amendment: Word in [reg. 41(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41/6) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(26)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/26/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/2))
 
-[^key-2c016cd2d4c7df5558fd682a60dbc85d]: Textual amendment: [Regs. 41A](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A), [41B](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(9)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/9)
+[^c-2c016cd2d4c7df5558fd682a60dbc85d]: Textual amendment: [Regs. 41A](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A), [41B](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [10(9)](https://www.legislation.gov.uk/ssi/2025/336/regulation/10/9)
 
-[^key-613d2484cd5d2c9b8afa00fd7ba7b469]: Textual amendment: Words in [reg. 41A(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/1/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-613d2484cd5d2c9b8afa00fd7ba7b469]: Textual amendment: Words in [reg. 41A(1)(b)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/1/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-68b058c4c124cbbaf20a61c157e59fec]: Textual amendment: Word in [reg. 41A(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/2) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-68b058c4c124cbbaf20a61c157e59fec]: Textual amendment: Word in [reg. 41A(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/2) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-0baf8f3c7b7f0b25e6775170b9161b70]: Textual amendment: [Reg. 41A(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-0baf8f3c7b7f0b25e6775170b9161b70]: Textual amendment: [Reg. 41A(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-3f92619db529cfc7fdd3507e13dd31b9]: Textual amendment: [Reg. 41A(3A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/3A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-3f92619db529cfc7fdd3507e13dd31b9]: Textual amendment: [Reg. 41A(3A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/3A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-312f2036d85f686026913690530af73b]: Textual amendment: Words in [reg. 41A(4)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/4) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-312f2036d85f686026913690530af73b]: Textual amendment: Words in [reg. 41A(4)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/4) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-7ba6670429aad125e786549043003e0f]: Textual amendment: Word in [reg. 41A(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/6) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/f) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-7ba6670429aad125e786549043003e0f]: Textual amendment: Word in [reg. 41A(6)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41A/6) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(27)(f)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/27/f) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-7b204cd23fc3ec7a6142820549f91530]: Textual amendment: [Reg. 41B](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B) title substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/a) (with [reg. 5(1)(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1/3))
+[^c-7b204cd23fc3ec7a6142820549f91530]: Textual amendment: [Reg. 41B](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B) title substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/a) (with [reg. 5(1)(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1/3))
 
-[^key-5bea7f22e172fddb3c4b38949e16f51a]: Textual amendment: Word in [reg. 41B(1)(c)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/1/c) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
+[^c-5bea7f22e172fddb3c4b38949e16f51a]: Textual amendment: Word in [reg. 41B(1)(c)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/1/c) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/b) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
 
-[^key-d39f646111f045e15ab723f01dc5d0f8]: Textual amendment: [Reg. 41B(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/2)[(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
+[^c-d39f646111f045e15ab723f01dc5d0f8]: Textual amendment: [Reg. 41B(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/2)[(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/3) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/c) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
 
-[^key-7720c88fa74aa0a1ff43051b71eb85e6]: Textual amendment: [Reg. 41B(3A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/3A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
+[^c-7720c88fa74aa0a1ff43051b71eb85e6]: Textual amendment: [Reg. 41B(3A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/3A) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
 
-[^key-e18fbcec8da60796f33579dd6c55cb68]: Textual amendment: Word in [reg. 41B(5)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/5) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
+[^c-e18fbcec8da60796f33579dd6c55cb68]: Textual amendment: Word in [reg. 41B(5)](https://www.legislation.gov.uk/ssi/2023/302/regulation/41B/5) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(28)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/28/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/3))
 
-[^key-0c36a5a9b7f2984ac2b346f01bd867b2]: Commencement: Reg. 42 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-0c36a5a9b7f2984ac2b346f01bd867b2]: Commencement: Reg. 42 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-1e94943724c7dc7ff4b7978c2682994f]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/ssi/2023/302/regulation/42) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(29)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/4))
+[^c-1e94943724c7dc7ff4b7978c2682994f]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/ssi/2023/302/regulation/42) heading substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(29)(a)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/a) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/4))
 
-[^key-f9c477ae074f239effbd93aaa10d9c91]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/1) substituted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(29)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/b) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-f9c477ae074f239effbd93aaa10d9c91]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/1) substituted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(29)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/b) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-05d75b4ed4428ae723def81f15928b01]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/ssi/2023/302/regulation/42) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(w)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/w) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-05d75b4ed4428ae723def81f15928b01]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/ssi/2023/302/regulation/42) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(w)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/w) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-52229bf196392ba9d62de5c7698c5b63]: Textual amendment: [Reg. 42(1A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/1A) inserted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(29)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/c) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-52229bf196392ba9d62de5c7698c5b63]: Textual amendment: [Reg. 42(1A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/1A) inserted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(29)(c)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/c) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-5b5090deec071585d3ae370be2cb6c0a]: Textual amendment: Word in [reg. 42(1A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/1A) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(29)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/4))
+[^c-5b5090deec071585d3ae370be2cb6c0a]: Textual amendment: Word in [reg. 42(1A)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/1A) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(29)(d)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/d) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1)[(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/4))
 
-[^key-33c1af590a48be6b2bdf4972633a7c10]: Textual amendment: [Reg. 42(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/3) substituted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(29)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/e) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-33c1af590a48be6b2bdf4972633a7c10]: Textual amendment: [Reg. 42(3)](https://www.legislation.gov.uk/ssi/2023/302/regulation/42/3) substituted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [3(29)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/29/e) (with savings in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-e3d92d5101860e48ffc53cc1fdbe3fc0]: Commencement: Reg. 43 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-e3d92d5101860e48ffc53cc1fdbe3fc0]: Commencement: Reg. 43 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-472bcf3deb2c088cf258b0fa031ff98f]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/ssi/2023/302/regulation/43) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(x)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/x) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
+[^c-472bcf3deb2c088cf258b0fa031ff98f]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/ssi/2023/302/regulation/43) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(5)(x)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/5/x) (with [regs. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1), [14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14))
 
-[^key-010e04cda0b279516056c887ac378514]: Commencement: Reg. 44 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-010e04cda0b279516056c887ac378514]: Commencement: Reg. 44 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-b29cb42acf711620e361c3bf50c9e4ec]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/ssi/2023/302/regulation/44) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/b) (with savings in [reg. 16(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/2))
+[^c-b29cb42acf711620e361c3bf50c9e4ec]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/ssi/2023/302/regulation/44) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/b) (with savings in [reg. 16(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/2))
 
-[^key-aa4631a12678597984e5802098cc7a09]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/ssi/2023/302/regulation/45) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/c)
+[^c-aa4631a12678597984e5802098cc7a09]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/ssi/2023/302/regulation/45) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/c)
 
-[^key-5fa88ee4a4c14ee4121b687f895f8565]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/ssi/2023/302/regulation/46) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(d)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/d)
+[^c-5fa88ee4a4c14ee4121b687f895f8565]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/ssi/2023/302/regulation/46) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(d)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/d)
 
-[^key-6bc82de329ee534ebc3832f85eb02bdf]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2023/302/regulation/47) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(e)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/e)
+[^c-6bc82de329ee534ebc3832f85eb02bdf]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2023/302/regulation/47) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(e)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/e)
 
-[^key-3fdc22be8ddb99ddaa8345c9340b26c0]: Commencement: Reg. 48 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-3fdc22be8ddb99ddaa8345c9340b26c0]: Commencement: Reg. 48 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-477d60575bf3dc140afa5b28be371f39]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/part/1) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(f)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/f)
+[^c-477d60575bf3dc140afa5b28be371f39]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/part/1) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(f)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/f)
 
-[^key-39e5cde51d2f0f3f64691f77722c137c]: Textual amendment: [Sch. 1 Pt. 1A](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/part/1A) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-39e5cde51d2f0f3f64691f77722c137c]: Textual amendment: [Sch. 1 Pt. 1A](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/part/1A) revoked (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [5(5)(e)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/5/e) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-87cc8d807c2e8218857a567ee340e337]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/part/2) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(g)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/g) (with savings in [reg. 16(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/2))
+[^c-87cc8d807c2e8218857a567ee340e337]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/part/2) revoked (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [16(1)(g)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/1/g) (with savings in [reg. 16(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/16/2))
 
-[^key-d95264f27be208c5824fab2d8f1a7d5b]: Commencement: Sch. 1 para. 3 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-d95264f27be208c5824fab2d8f1a7d5b]: Commencement: Sch. 1 para. 3 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-f2aad81c02ad4fcf3b6f6f66f061e421]: Commencement: Sch. 1 para. 4 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-f2aad81c02ad4fcf3b6f6f66f061e421]: Commencement: Sch. 1 para. 4 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-50c5a458b01b66126340d50c8eb35076]: Commencement: Sch. 1 para. 5 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-50c5a458b01b66126340d50c8eb35076]: Commencement: Sch. 1 para. 5 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-84bb6fbc6520b48bd4fa8f79314c9117]: Commencement: Sch. 1 para. 6 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-84bb6fbc6520b48bd4fa8f79314c9117]: Commencement: Sch. 1 para. 6 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-71ddee4cb9024e4d1e194b29797cf495]: Commencement: Sch. 1 para. 7 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-71ddee4cb9024e4d1e194b29797cf495]: Commencement: Sch. 1 para. 7 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-0164b4732c53ea2ef9256b98c8063b63]: Commencement: Sch. 1 para. 8 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-0164b4732c53ea2ef9256b98c8063b63]: Commencement: Sch. 1 para. 8 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00088]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968), amended by [S.I. 1991/2741](https://www.legislation.gov.uk/uksi/1991/2741), [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572), [S.I. 2002/2441](https://www.legislation.gov.uk/uksi/2002/2441), [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337), [S.I. 2007/2470](https://www.legislation.gov.uk/uksi/2007/2470), [S.I. 2013/458](https://www.legislation.gov.uk/uksi/2013/458) and [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804).
 
@@ -2563,21 +2563,21 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00090]: Footnote: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-e8091fe92eb000991e63fe27bba0986f]: Commencement: Sch. 1 para. 9 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-e8091fe92eb000991e63fe27bba0986f]: Commencement: Sch. 1 para. 9 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00091]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-8a2d77b7d7c011282cad84074ee97922]: Commencement: Sch. 1 para. 10 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-8a2d77b7d7c011282cad84074ee97922]: Commencement: Sch. 1 para. 10 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00092]: Footnote: [S.S.I. 2020/475](https://www.legislation.gov.uk/ssi/2020/475).
 
 [^f00093]: Footnote: Section 70 was relevantly amended by [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457).
 
-[^key-fd6fb32a14fd9591917f4ef6fd5f3791]: Commencement: Sch. 1 para. 11 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-fd6fb32a14fd9591917f4ef6fd5f3791]: Commencement: Sch. 1 para. 11 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00094]: Footnote: [S.S.I. 2019/324](https://www.legislation.gov.uk/ssi/2019/324), amended by [S.S.I. 2020/99](https://www.legislation.gov.uk/ssi/2020/99) and [S.S.I. 2020/475](https://www.legislation.gov.uk/ssi/2020/475).
 
-[^key-197d2537fc2685fdfaabfff0ba03c564]: Commencement: Sch. 2 para. 1 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-197d2537fc2685fdfaabfff0ba03c564]: Commencement: Sch. 2 para. 1 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00095]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3), relevantly amended by section 5 of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and schedule 2 of the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
@@ -2589,59 +2589,59 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00099]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-34783a38acb09d264749ed8fae360a6e]: Commencement: Sch. 2 para. 2 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-34783a38acb09d264749ed8fae360a6e]: Commencement: Sch. 2 para. 2 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-38fb3c0e26e028570a4fce78f9c1dd1c]: Commencement: Sch. 2 para. 3 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-38fb3c0e26e028570a4fce78f9c1dd1c]: Commencement: Sch. 2 para. 3 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-b30cc300fdb5c8379b70e294e029b9a1]: Commencement: Sch. 2 para. 4 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-b30cc300fdb5c8379b70e294e029b9a1]: Commencement: Sch. 2 para. 4 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-67440962932d2a8c330461bdf7ad447b]: Commencement: Sch. 2 para. 5 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-67440962932d2a8c330461bdf7ad447b]: Commencement: Sch. 2 para. 5 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-6611985c0960e684e6e7bfdc00957f82]: Textual amendment: [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/5/2/b) formula substituted (23.6.2024) by The Carer’s [Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/11)
+[^c-6611985c0960e684e6e7bfdc00957f82]: Textual amendment: [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/5/2/b) formula substituted (23.6.2024) by The Carer’s [Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/11)
 
 [^f00100]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Section 227 was amended by schedule 9 of the Employment Relations Act (c. 26), schedule 7 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), schedule 1 of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) and [S.I. 2023/318](https://www.legislation.gov.uk/uksi/2023/318).
 
-[^key-c321f49a05a4c64c3c074e6342f694ef]: Commencement: Sch. 2 para. 6 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-c321f49a05a4c64c3c074e6342f694ef]: Commencement: Sch. 2 para. 6 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-151b364fcf2c46d7671073660bcea76b]: Commencement: Sch. 2 para. 7 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-151b364fcf2c46d7671073660bcea76b]: Commencement: Sch. 2 para. 7 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-eeec3130961dedc821943a6b2f0f3743]: Commencement: Sch. 2 para. 8 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-eeec3130961dedc821943a6b2f0f3743]: Commencement: Sch. 2 para. 8 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-5d16c006a2d3f0e2f4c5ef89c2dc3b9e]: Textual amendment: Word in [sch. 2 para. 8(1)(j)(ii)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/8/1/j/ii) omitted (6.4.2025) by virtue of [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/3), [13(4)(a)(i)](https://www.legislation.gov.uk/ssi/2025/100/regulation/13/4/a/i) (with [sch. para. 11](https://www.legislation.gov.uk/ssi/2025/100/schedule/paragraph/11))
+[^c-5d16c006a2d3f0e2f4c5ef89c2dc3b9e]: Textual amendment: Word in [sch. 2 para. 8(1)(j)(ii)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/8/1/j/ii) omitted (6.4.2025) by virtue of [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/3), [13(4)(a)(i)](https://www.legislation.gov.uk/ssi/2025/100/regulation/13/4/a/i) (with [sch. para. 11](https://www.legislation.gov.uk/ssi/2025/100/schedule/paragraph/11))
 
-[^key-f0f2a9c7ae5a5adde6192ba07c3c6739]: Textual amendment: [Sch. 2 para. 8(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/8/1/j/iv) and word inserted (6.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/3), [13(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/100/regulation/13/4/a/ii) (with [sch. para. 11](https://www.legislation.gov.uk/ssi/2025/100/schedule/paragraph/11))
+[^c-f0f2a9c7ae5a5adde6192ba07c3c6739]: Textual amendment: [Sch. 2 para. 8(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/8/1/j/iv) and word inserted (6.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/3), [13(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/100/regulation/13/4/a/ii) (with [sch. para. 11](https://www.legislation.gov.uk/ssi/2025/100/schedule/paragraph/11))
 
 [^f00101]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was amended by section 25 of the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19), section 29 of the Employment Act [1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38) and section 47 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
 [^f00102]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 75A and 75B were inserted by section 3 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
-[^key-c19af906b2b5830d2f9f5f638ad3dd86]: Textual amendment: Words in [sch. 2 para. 8(5)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/8/5) inserted (6.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/3), [13(4)(b)](https://www.legislation.gov.uk/ssi/2025/100/regulation/13/4/b) (with [sch. para. 11](https://www.legislation.gov.uk/ssi/2025/100/schedule/paragraph/11))
+[^c-c19af906b2b5830d2f9f5f638ad3dd86]: Textual amendment: Words in [sch. 2 para. 8(5)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/8/5) inserted (6.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/3), [13(4)(b)](https://www.legislation.gov.uk/ssi/2025/100/regulation/13/4/b) (with [sch. para. 11](https://www.legislation.gov.uk/ssi/2025/100/schedule/paragraph/11))
 
 [^f00103]: Footnote: Inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
 [^f00104]: Footnote: Inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
-[^key-3ed01bd7d378d67f9d4403fafbb8fafe]: Commencement: Sch. 2 para. 9 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-3ed01bd7d378d67f9d4403fafbb8fafe]: Commencement: Sch. 2 para. 9 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-8810d932844ee0333af17d3d10bbc41e]: Commencement: Sch. 2 para. 10 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-8810d932844ee0333af17d3d10bbc41e]: Commencement: Sch. 2 para. 10 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-1534d3022d546e9f812f0184245fe365]: Textual amendment: [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/10/2) formula substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(12)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/12)
+[^c-1534d3022d546e9f812f0184245fe365]: Textual amendment: [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/10/2) formula substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(12)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/12)
 
-[^key-2a872140c71d83a50fab14567bc9c26d]: Commencement: Sch. 2 para. 11 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-2a872140c71d83a50fab14567bc9c26d]: Commencement: Sch. 2 para. 11 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00105]: Footnote: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35). Section 2 was amended by section 47 and schedule 10 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) and schedule 26 of the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-017631fabc129d0d4499879c3ae4afa2]: Commencement: Sch. 2 para. 12 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-017631fabc129d0d4499879c3ae4afa2]: Commencement: Sch. 2 para. 12 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-a2a9dc76caa6c4c64b3576fcd8a76aa8]: Commencement: Sch. 2 para. 13 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-a2a9dc76caa6c4c64b3576fcd8a76aa8]: Commencement: Sch. 2 para. 13 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
 [^f00106]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-e46297cbff325dbdb9af253819fd4d5b]: Textual amendment: Word in [sch. 2 para. 13(2)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/13/2) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/13)
+[^c-e46297cbff325dbdb9af253819fd4d5b]: Textual amendment: Word in [sch. 2 para. 13(2)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/13/2) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/13)
 
-[^key-b12ab95293ba5e9a74ac0c7f011078b1]: Commencement: Sch. 2 para. 14 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-b12ab95293ba5e9a74ac0c7f011078b1]: Commencement: Sch. 2 para. 14 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
 
-[^key-4df9cc6428c7772c615d762917094a7b]: Textual amendment: [Sch. 2 para. 14(d)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/14/d) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/14/a)
+[^c-4df9cc6428c7772c615d762917094a7b]: Textual amendment: [Sch. 2 para. 14(d)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/14/d) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/14/a)
 
 [^f00108]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C was inserted by section 8(1) of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23).
 
@@ -2649,7 +2649,7 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00110]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Section 26 was amended by schedule 3 of the Adoption and Children (Scotland) Act [2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4) and schedule 1 of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23).
 
-[^key-112d04f31f710c3585e4bd8390f60001]: Textual amendment: Words in [sch. 2 para. 14(g)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/14/g) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/14/b)
+[^c-112d04f31f710c3585e4bd8390f60001]: Textual amendment: Words in [sch. 2 para. 14(g)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/14/g) substituted (23.6.2024) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/173)](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/ssi/2024/173/regulation/2/14/b)
 
 [^f00111]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
@@ -2659,8 +2659,8 @@ Part 13 and Part 3 of schedule 1 make provision for consequential amendments.
 
 [^f00114]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-10111da18a8b0c39c72d6adaba664b46]: Textual amendment: Words in [sch. 2 para. 14(k)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/14/k) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(30)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/30) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-10111da18a8b0c39c72d6adaba664b46]: Textual amendment: Words in [sch. 2 para. 14(k)](https://www.legislation.gov.uk/ssi/2023/302/schedule/2/paragraph/14/k) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [3(30)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/30) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^f00115]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Paragraph 1 of schedule 4 was amended by schedule 2 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), schedule 3 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), schedule 3 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), section 1 of the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) and schedule 12 of the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-0b2f90c398360f06b337b932439d82cf]: Commencement: Sch. 2 para. 15 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)
+[^c-0b2f90c398360f06b337b932439d82cf]: Commencement: Sch. 2 para. 15 in force at 19.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2)

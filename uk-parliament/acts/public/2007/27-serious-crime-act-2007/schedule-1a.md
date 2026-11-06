@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1A — Relevant orders: notification requirements[^key-8060293743586daa2f1f1b050188e27c]
+## Schedule 1A — Relevant orders: notification requirements[^c-8060293743586daa2f1f1b050188e27c]
 
 *Extent: E+W+N.I.*
 
@@ -88,4 +88,4 @@ Section 15A
 
 ## Annotations
 
-[^key-8060293743586daa2f1f1b050188e27c]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/2007/27/schedule/1A) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/31/section/58/3), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-8060293743586daa2f1f1b050188e27c]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/2007/27/schedule/1A) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/31/section/58/3), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)

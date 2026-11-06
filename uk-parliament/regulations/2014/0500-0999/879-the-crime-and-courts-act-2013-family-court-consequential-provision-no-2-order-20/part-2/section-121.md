@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Amendment to the Child Support Information Regulations 2008[^key-acf1f70070b55ac1d7bf9dbacbe41a43]
+## 121. Amendment to the Child Support Information Regulations 2008[^c-acf1f70070b55ac1d7bf9dbacbe41a43]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In regulation 6(2)(a) of the Child Support Information Regulations 2008[^f00036]
 
 ## Annotations
 
-[^key-acf1f70070b55ac1d7bf9dbacbe41a43]: Commencement: Art. 121 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-acf1f70070b55ac1d7bf9dbacbe41a43]: Commencement: Art. 121 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00036]: Footnote: [S.I. 2008/2551](https://www.legislation.gov.uk/uksi/2008/2551). [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007) makes relevant amendments.

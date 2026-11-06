@@ -49,13 +49,13 @@ Coming into force
 
 We, the Fees Advisory Commission constituted in accordance with the provisions of section 4 of the Ecclesiastical Fees Measure 1986[^f00001], in exercise of the powers conferred by section 5 do hereby order as follows:
 
-## 1. Citation and commencement[^key-610cde49327ffd78f40e2b11c7af8202]
+## 1. Citation and commencement[^c-610cde49327ffd78f40e2b11c7af8202]
 
 (1) This Order may be cited as the Legal Officers (Annual Fees) Order 2008.
 
 (2) This Order shall come into operation on the first day of January 2009.
 
-## 2. Establishment of fees[^key-2e3b8897b72ebd39dac800fb37253307]
+## 2. Establishment of fees[^c-2e3b8897b72ebd39dac800fb37253307]
 
 The fees appearing in Schedule 1 to this Order are established. The Tables of that Schedule contain particulars of the annual fees which are to be received, after the commencement of this Order, by—
 
@@ -63,19 +63,19 @@ The fees appearing in Schedule 1 to this Order are established. The Tables of th
 
 (2) by the legal officers named in Part A of Table II of Schedule 1 in respect of the carrying out by them of the duties of their offices except the duties and professional services specified in Part B of Table II as not falling within the scope of the annual fee.
 
-## 3. Payment of fees[^key-4ab9e18bb07d730f92249a792213b237]
+## 3. Payment of fees[^c-4ab9e18bb07d730f92249a792213b237]
 
 The fees established and set out in the second column of Table I of Schedule 1 to this Order are to be paid by the diocesan board of finance. The fees established and set out in the third column of the said Table I and in Table II of that Schedule are the liability of the diocesan bishop or archbishop, subject to the provisions of section 8 of the Ecclesiastical Fees Measure 1986.
 
-## 4. Revocation of 2007 Order[^key-e17d2c89140d2dfd5745c75fc29bf971]
+## 4. Revocation of 2007 Order[^c-e17d2c89140d2dfd5745c75fc29bf971]
 
 The Legal Officers (Annual Fees) Order 2007[^f00002] is hereby revoked.
 
-## 5. Duties of the diocesan registrar[^key-70eab73c87f362cc2df9a570088932b9]
+## 5. Duties of the diocesan registrar[^c-70eab73c87f362cc2df9a570088932b9]
 
 The diocesan registrar shall perform the duties and provide the professional services specified in Schedule 2 to this Order in consideration of the annual fee set out in Table I of Schedule 1 to this Order for his or her diocese and shall not be entitled to receive any other remuneration for such duties or services save as provided by this Order.
 
-## 6. Supplementary annual fee[^key-275610893e57484160ea22acc29941cd]
+## 6. Supplementary annual fee[^c-275610893e57484160ea22acc29941cd]
 
 (1) Subject to the provisions of this paragraph nothing in this Order shall preclude a diocesan board of finance from agreeing to pay an additional fee to a diocesan registrar by way of annual fee or retainer (hereinafter called a “supplementary annual fee”) which is in addition to the annual fee payable under Table I of Schedule 1 to this Order.
 
@@ -85,11 +85,11 @@ The diocesan registrar shall perform the duties and provide the professional ser
 
 (4) The body responsible for paying a supplementary annual fee shall be the diocesan board of finance.
 
-## 7. Travel, subsistence and accommodation[^key-2ef963d99b2eab57fae3eb46d7ce28f7]
+## 7. Travel, subsistence and accommodation[^c-2ef963d99b2eab57fae3eb46d7ce28f7]
 
 A fee specified in Schedule 1 to this Order shall be increased by a sum for reasonable expenses of travel, subsistence and accommodation.
 
-## 8. Value Added Tax[^key-ec1e227ba5bec8af734b321111ecb4f7]
+## 8. Value Added Tax[^c-ec1e227ba5bec8af734b321111ecb4f7]
 
 Where Value Added Tax is chargeable in respect of the provision of any service for which a fee is prescribed in this Order (including any fee specified in paragraph 4 of Schedule 2 to this Order) there shall be payable in addition to that fee the amount of Value Added Tax.
 
@@ -117,7 +117,7 @@ Approved by the General Synod on
 
 ## SCHEDULE 1 — FEES ESTABLISHED BY THIS ORDER
 
-### TABLE I — ANNUAL FEES PAYABLE TO DIOCESAN REGISTRARS (SUBSTITUTED FOR TABLE I OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2007)[^key-d609dd7efeaec8b552633cbac6366a47]
+### TABLE I — ANNUAL FEES PAYABLE TO DIOCESAN REGISTRARS (SUBSTITUTED FOR TABLE I OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2007)[^c-d609dd7efeaec8b552633cbac6366a47]
 
 <table>
 <thead>
@@ -172,14 +172,14 @@ Approved by the General Synod on
 
 ### TABLE II — FEES PAYABLE TO PROVINCIAL REGISTRARS
 
-#### PART A — FEES PAYABLE TO THE PROVINCIAL REGISTRARS (SUBSTITUTED FOR TABLE II, PART A, OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2007)[^key-3f6828bc3d452a324406e8a54a0ee75c]
+#### PART A — FEES PAYABLE TO THE PROVINCIAL REGISTRARS (SUBSTITUTED FOR TABLE II, PART A, OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2007)[^c-3f6828bc3d452a324406e8a54a0ee75c]
 
 |  |  | *Fee*<br>*£* |
 | --- | --- | --- |
 | 1\. | Annual fee for Joint Registrars of the Province of Canterbury | 119,580 |
 | 2\. | Annual fee for Registrar of the Province of York | 58,930 |
 
-#### PART B — DUTIES AND PROFESSIONAL SERVICES NOT FALLING WITHIN THE SCOPE OF THE ANNUAL FEE[^key-f66762ab327aee6d5554fbc1500a0e49]
+#### PART B — DUTIES AND PROFESSIONAL SERVICES NOT FALLING WITHIN THE SCOPE OF THE ANNUAL FEE[^c-f66762ab327aee6d5554fbc1500a0e49]
 
 Duties and professional services in connection with the following matters shall not fall within the scope of the annual fee payable to Provincial Registrars:
 
@@ -189,7 +189,7 @@ Advice or other work in connection with disciplinary proceedings against a clerk
 
 ## SCHEDULE 2 — THE SCOPE OF THE ANNUAL FEE
 
-### 1. Professional services to be provided by the diocesan registrar[^key-5fdb2ed75fddeca13cc52a80941bf06b]
+### 1. Professional services to be provided by the diocesan registrar[^c-5fdb2ed75fddeca13cc52a80941bf06b]
 
 Subject to the restrictions contained in paragraphs 2 and 3 hereof, the professional services provided by the diocesan registrar in respect of the annual fee paid to him or her under this Order shall include—
 
@@ -252,7 +252,7 @@ Subject to the restrictions contained in paragraphs 2 and 3 hereof, the professi
 - (b) Searches in and making of extracts from the register, enquiries as to entries in the register and supplying certified copies of entries in the register, where the search, extract or enquiry is made or the certified copy is requested by or on behalf of a person or body referred to at the commencement of sub-paragraph (13) or by the designated officer (within the meaning of section 7(5) of the 1986 Measure)
 - (c) Receipt and issue of notices and notification of representations under section 3(3) and (4) of the 1986 Measure.
 
-### 2. Restrictions on the provisions of paragraph 1[^key-598953ced465bcb683cef0ea756fa07e]
+### 2. Restrictions on the provisions of paragraph 1[^c-598953ced465bcb683cef0ea756fa07e]
 
 The provisions of paragraph 1 hereof shall be restricted as follows—
 
@@ -264,11 +264,11 @@ The provisions of paragraph 1 hereof shall be restricted as follows—
 
 (2) The Registrar shall not be required to attend meetings of diocesan boards, councils and committees except upon an occasional basis to give legal advice on specific matters. (The Registrar may attend such meetings regularly to give general advice and assistance if requested to do so by the board, council or committee in question and in that case he or she shall be entitled to be separately remunerated for this work.)
 
-### 3. Advice or assistance given to the Diocesan Bishop, Suffragan Bishops or Archdeacons[^key-1127b46608bbe0b3664da268073a12f7]
+### 3. Advice or assistance given to the Diocesan Bishop, Suffragan Bishops or Archdeacons[^c-1127b46608bbe0b3664da268073a12f7]
 
 The provisions of paragraph 2(1) hereof shall not apply to advice and assistance given as legal secretary or diocesan registrar to the Diocesan Bishop, or as diocesan registrar to Suffragan Bishops or Archdeacons.
 
-### 4. Work not falling within the scope of the annual fee[^key-9de09c95fc34ec3c1f58f46bb6b3e6d2]
+### 4. Work not falling within the scope of the annual fee[^c-9de09c95fc34ec3c1f58f46bb6b3e6d2]
 
 For the avoidance of doubt work in connection with the following matters shall not fall within the scope of the annual fee but a fee calculated in accordance with the Solicitors’ (Non-Contentious Business) Remuneration Order 1994 shall be payable—
 
@@ -315,7 +315,7 @@ For the avoidance of doubt work in connection with the following matters shall n
 
 (15) Attendance at and work in connection with any visitation by the Diocesan Bishop of the Cathedral Church of the Diocese and in connection with any action taken or proposed to be taken by the Diocesan Bishop under the Care of Cathedrals (Supplementary Provisions) Measure 1994[^f00016].
 
-### 5. Disbursements[^key-5e2e9de41bea42aea8d73bbf64e86673]
+### 5. Disbursements[^c-5e2e9de41bea42aea8d73bbf64e86673]
 
 If any disbursements other than expenses specified in paragraph 7 of this Order are incurred in the course of providing any of the professional services in paragraph 1 above the diocesan registrar shall be entitled to charge for them separately.
 
@@ -335,35 +335,35 @@ The Order will have effect from 1st January 2009.
 
 [^f00001]: Footnote: [1986 No. 2](https://www.legislation.gov.uk/ukcm/1986/2); amended by the Care of Churches and Ecclesiastical Jurisdiction Measure 1991 ([1991 No. 1](https://www.legislation.gov.uk/ukcm/1991/1)), Schedule 6, the Church of England (Miscellaneous Provisions) Measure 1995 ([1995 No. 2](https://www.legislation.gov.uk/ukcm/1995/2)), section 14, the Care of Places of Worship Measure 1999 ([1999 No. 2](https://www.legislation.gov.uk/ukcm/1999/2)), Schedule 2 and the Church of England (Miscellaneous Provisions) Measure 2000 ([2000 No. 1](https://www.legislation.gov.uk/ukcm/2000/1)), section 16.
 
-[^key-610cde49327ffd78f40e2b11c7af8202]: Commencement: Art. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-610cde49327ffd78f40e2b11c7af8202]: Commencement: Art. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-2e3b8897b72ebd39dac800fb37253307]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-2e3b8897b72ebd39dac800fb37253307]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-4ab9e18bb07d730f92249a792213b237]: Commencement: Art. 3 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-4ab9e18bb07d730f92249a792213b237]: Commencement: Art. 3 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-e17d2c89140d2dfd5745c75fc29bf971]: Commencement: Art. 4 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-e17d2c89140d2dfd5745c75fc29bf971]: Commencement: Art. 4 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/2336](https://www.legislation.gov.uk/uksi/2007/2336).
 
-[^key-70eab73c87f362cc2df9a570088932b9]: Commencement: Art. 5 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-70eab73c87f362cc2df9a570088932b9]: Commencement: Art. 5 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-275610893e57484160ea22acc29941cd]: Commencement: Art. 6 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-275610893e57484160ea22acc29941cd]: Commencement: Art. 6 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-2ef963d99b2eab57fae3eb46d7ce28f7]: Commencement: Art. 7 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-2ef963d99b2eab57fae3eb46d7ce28f7]: Commencement: Art. 7 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-ec1e227ba5bec8af734b321111ecb4f7]: Commencement: Art. 8 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-ec1e227ba5bec8af734b321111ecb4f7]: Commencement: Art. 8 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-d609dd7efeaec8b552633cbac6366a47]: Commencement: Sch. 1 Pt. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-d609dd7efeaec8b552633cbac6366a47]: Commencement: Sch. 1 Pt. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-3f6828bc3d452a324406e8a54a0ee75c]: Commencement: Sch. 1 Pt. 2 Ch. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-3f6828bc3d452a324406e8a54a0ee75c]: Commencement: Sch. 1 Pt. 2 Ch. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-f66762ab327aee6d5554fbc1500a0e49]: Commencement: Sch. 1 Pt. 2 Ch. 2 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-f66762ab327aee6d5554fbc1500a0e49]: Commencement: Sch. 1 Pt. 2 Ch. 2 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
 [^f00003]: Footnote: [2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3).
 
 [^f00004]: Footnote: [S.I. 1994/2616](https://www.legislation.gov.uk/uksi/1994/2616).
 
-[^key-5fdb2ed75fddeca13cc52a80941bf06b]: Commencement: Sch. 2 para. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-5fdb2ed75fddeca13cc52a80941bf06b]: Commencement: Sch. 2 para. 1 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
 [^f00005]: Footnote: [1994 No. 3](https://www.legislation.gov.uk/ukcm/1994/3); amended by the Clergy Discipline Measure 2003.
 
@@ -383,11 +383,11 @@ The Order will have effect from 1st January 2009.
 
 [^f00013]: Footnote: [1986 No. 3](https://www.legislation.gov.uk/ukcm/1986/3).
 
-[^key-598953ced465bcb683cef0ea756fa07e]: Commencement: Sch. 2 para. 2 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-598953ced465bcb683cef0ea756fa07e]: Commencement: Sch. 2 para. 2 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-1127b46608bbe0b3664da268073a12f7]: Commencement: Sch. 2 para. 3 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-1127b46608bbe0b3664da268073a12f7]: Commencement: Sch. 2 para. 3 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
-[^key-9de09c95fc34ec3c1f58f46bb6b3e6d2]: Commencement: Sch. 2 para. 4 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-9de09c95fc34ec3c1f58f46bb6b3e6d2]: Commencement: Sch. 2 para. 4 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
 
 [^f00014]: Footnote: [S.I. 1964/1755](https://www.legislation.gov.uk/uksi/1964/1755).
 
@@ -395,4 +395,4 @@ The Order will have effect from 1st January 2009.
 
 [^f00016]: Footnote: [1994 No. 2](https://www.legislation.gov.uk/ukcm/1994/2).
 
-[^key-5e2e9de41bea42aea8d73bbf64e86673]: Commencement: Sch. 2 para. 5 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)
+[^c-5e2e9de41bea42aea8d73bbf64e86673]: Commencement: Sch. 2 para. 5 in force at 1.1.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1969/article/1)

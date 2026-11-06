@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Childhood information: power to modify other enactments[^key-889f863def63ebc1918acdfcb7077d81]
+## 39. Childhood information: power to modify other enactments[^c-889f863def63ebc1918acdfcb7077d81]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-889f863def63ebc1918acdfcb7077d81]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2020/13/section/39) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-889f863def63ebc1918acdfcb7077d81]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2020/13/section/39) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

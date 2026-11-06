@@ -31,8 +31,8 @@ The shares are ordinary shares that are fully paid-up and not redeemable.
 The shares are—
 
 - (a) shares of a class listed on a recognised stock exchange,
-- (b) shares in a company that is not under the control of another company, [^key-7086dea6dde50fbf17c06d3aedf72c45]...
-- (c) shares in a company that is under the control of a listed company , or[^key-54bf58a11df9b20548ea8e59435c61b9]
+- (b) shares in a company that is not under the control of another company, [^c-7086dea6dde50fbf17c06d3aedf72c45]...
+- (c) shares in a company that is under the control of a listed company , or[^c-54bf58a11df9b20548ea8e59435c61b9]
 - (d) shares within subsection (1A).
 
 *Condition 3*
@@ -46,7 +46,7 @@ The shares are shares in—
 - (e) a company within subsection (2), or
 - (f) a qualifying successor company (see section 1022).
 
-(1A)[^key-7a8ba77ce243e58693b26d20eefd87ed] Shares are within this subsection if—
+(1A)[^c-7a8ba77ce243e58693b26d20eefd87ed] Shares are within this subsection if—
 
 - (a) after the option is obtained, the company in which the shares are to be acquired (“**the relevant company**”) comes to be controlled by another company (“the takeover”),
 - (b) immediately before the takeover, the shares were within any of paragraphs (a) to (c) of Condition 2,
@@ -63,8 +63,8 @@ The shares are shares in—
 
 ## Annotations
 
-[^key-7086dea6dde50fbf17c06d3aedf72c45]: Textual amendment: Word in s. 1016(1) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 44(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/44/2)
+[^c-7086dea6dde50fbf17c06d3aedf72c45]: Textual amendment: Word in s. 1016(1) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 44(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/44/2)
 
-[^key-54bf58a11df9b20548ea8e59435c61b9]: Textual amendment: Words in s. 1016(1) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 44(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/44/2)
+[^c-54bf58a11df9b20548ea8e59435c61b9]: Textual amendment: Words in s. 1016(1) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 44(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/44/2)
 
-[^key-7a8ba77ce243e58693b26d20eefd87ed]: Textual amendment: S. 1016(1A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 44(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/44/3)
+[^c-7a8ba77ce243e58693b26d20eefd87ed]: Textual amendment: S. 1016(1A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 44(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/44/3)

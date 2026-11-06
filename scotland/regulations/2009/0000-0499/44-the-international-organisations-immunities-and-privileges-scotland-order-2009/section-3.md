@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Revocations[^key-c696899e271f4e050cfe728d475600d6]
+## 3. Revocations[^c-c696899e271f4e050cfe728d475600d6]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ The following Orders are revoked (so far as they apply in or as regards Scotland
 
 ## Annotations
 
-[^key-c696899e271f4e050cfe728d475600d6]: Commencement: Art. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-c696899e271f4e050cfe728d475600d6]: Commencement: Art. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00003]: Footnote: [S.I. 1980/187](https://www.legislation.gov.uk/uksi/1980/187).
 

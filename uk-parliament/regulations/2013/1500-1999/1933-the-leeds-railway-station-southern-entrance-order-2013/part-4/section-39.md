@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Traffic regulation[^key-205ca64afba5d6ad043fe30624024a65]
+## 39. Traffic regulation[^c-205ca64afba5d6ad043fe30624024a65]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ to the chief officer of police and to the traffic authority in whose area the st
 
 ## Annotations
 
-[^key-205ca64afba5d6ad043fe30624024a65]: Commencement: Art. 39 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-205ca64afba5d6ad043fe30624024a65]: Commencement: Art. 39 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
 [^f00024]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

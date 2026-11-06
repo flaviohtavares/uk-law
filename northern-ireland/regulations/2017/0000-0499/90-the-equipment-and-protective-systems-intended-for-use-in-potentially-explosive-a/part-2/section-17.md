@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A manufacturer may, by written mandate, appoint a person established in a relevant state[^key-65d7bff4230454be1ecf40ceb3e5a486] as their authorised representative to perform specified tasks on the manufacturer's behalf.
+(1) A manufacturer may, by written mandate, appoint a person established in a relevant state[^c-65d7bff4230454be1ecf40ceb3e5a486] as their authorised representative to perform specified tasks on the manufacturer's behalf.
 
 (2) A manufacturer who has appointed an authorised representative to perform, on the manufacturer's behalf, a task under these Regulations remains responsible for the proper performance of that task.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d7bff4230454be1ecf40ceb3e5a486]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2017/90/regulation/17/1) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2023/861/regulation/4/5)
+[^c-65d7bff4230454be1ecf40ceb3e5a486]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2017/90/regulation/17/1) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [4(5)](https://www.legislation.gov.uk/uksi/2023/861/regulation/4/5)

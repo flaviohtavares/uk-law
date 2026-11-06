@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Content of local nature recovery strategies[^key-9b9e4af0c80b0661c19991a1dbe4409b][^key-3ad45e12b149c5601e396dbddd2646c1]
+## 106. Content of local nature recovery strategies[^c-9b9e4af0c80b0661c19991a1dbe4409b][^c-3ad45e12b149c5601e396dbddd2646c1]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b9e4af0c80b0661c19991a1dbe4409b]: Commencement: S. 106 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-9b9e4af0c80b0661c19991a1dbe4409b]: Commencement: S. 106 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3ad45e12b149c5601e396dbddd2646c1]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2021/30/section/106) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/n)
+[^c-3ad45e12b149c5601e396dbddd2646c1]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2021/30/section/106) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/n)

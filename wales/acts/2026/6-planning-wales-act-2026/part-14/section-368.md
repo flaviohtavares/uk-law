@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 368. Power of the Welsh Ministers to hold local inquiry[^key-e9a288c3ab5a31a806d3cfd242c6dd5c]
+## 368. Power of the Welsh Ministers to hold local inquiry[^c-e9a288c3ab5a31a806d3cfd242c6dd5c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9a288c3ab5a31a806d3cfd242c6dd5c]: Commencement: S. 368 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e9a288c3ab5a31a806d3cfd242c6dd5c]: Commencement: S. 368 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

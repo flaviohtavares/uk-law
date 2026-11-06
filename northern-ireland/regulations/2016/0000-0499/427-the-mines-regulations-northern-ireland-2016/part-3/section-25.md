@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Burning and welding in coal mines[^key-cc9322f7076298c7f8a65b0e9c8b8f44]
+## 25. Burning and welding in coal mines[^c-cc9322f7076298c7f8a65b0e9c8b8f44]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The mine operator shall ensure that—
 
 ## Annotations
 
-[^key-cc9322f7076298c7f8a65b0e9c8b8f44]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/427/regulation/25) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-cc9322f7076298c7f8a65b0e9c8b8f44]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/427/regulation/25) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

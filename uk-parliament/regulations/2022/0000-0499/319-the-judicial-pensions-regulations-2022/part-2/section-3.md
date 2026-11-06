@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Establishment and scope[^key-93f5cae30b6589d2692dc05140892858]
+## 3. Establishment and scope[^c-93f5cae30b6589d2692dc05140892858]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A career average revalued earnings scheme is established as a defined benefits s
 
 ## Annotations
 
-[^key-93f5cae30b6589d2692dc05140892858]: Commencement: Reg. 3 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-93f5cae30b6589d2692dc05140892858]: Commencement: Reg. 3 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00032]: Footnote: ‘The judiciary’ is defined in paragraph 2(1) of Schedule 1 to the Act.

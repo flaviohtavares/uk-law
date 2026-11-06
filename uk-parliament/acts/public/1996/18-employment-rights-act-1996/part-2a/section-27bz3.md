@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27BZ3. Regulations[^key-76426413c0024c6be87e78d7a6d72034]
+## 27BZ3. Regulations[^c-76426413c0024c6be87e78d7a6d72034]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76426413c0024c6be87e78d7a6d72034]: Textual amendment: Pt. 2A Ch. 7 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/f)
+[^c-76426413c0024c6be87e78d7a6d72034]: Textual amendment: Pt. 2A Ch. 7 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/f)

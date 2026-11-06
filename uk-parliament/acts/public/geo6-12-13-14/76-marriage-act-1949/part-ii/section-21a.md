@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Issue of marriage document after publication of banns or the grant of a special or common licence[^key-45e58d4f9f14716dd1bb7cf7f17a6df9]
+## 21A. Issue of marriage document after publication of banns or the grant of a special or common licence[^c-45e58d4f9f14716dd1bb7cf7f17a6df9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45e58d4f9f14716dd1bb7cf7f17a6df9]: Textual amendment: S. 21A and cross-heading inserted (27.3.2021 for specified purposes, 19.4.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/c)[(7)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/7/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-45e58d4f9f14716dd1bb7cf7f17a6df9]: Textual amendment: S. 21A and cross-heading inserted (27.3.2021 for specified purposes, 19.4.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/c)[(7)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/7/a), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

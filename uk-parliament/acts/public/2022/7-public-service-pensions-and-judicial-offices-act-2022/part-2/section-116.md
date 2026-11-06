@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Transfer of other pensions and benefits[^key-c403c6df868e84e5941146ec8b8957ab]
+## 116. Transfer of other pensions and benefits[^c-c403c6df868e84e5941146ec8b8957ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c403c6df868e84e5941146ec8b8957ab]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/7/section/116) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-c403c6df868e84e5941146ec8b8957ab]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2022/7/section/116) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

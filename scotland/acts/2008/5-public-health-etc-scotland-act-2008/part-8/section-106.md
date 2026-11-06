@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Withdrawal of notices[^key-ad99b609ca7c00cc5f72e18c31878cb9]
+## 106. Withdrawal of notices[^c-ad99b609ca7c00cc5f72e18c31878cb9]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad99b609ca7c00cc5f72e18c31878cb9]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2008/5/section/106) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-ad99b609ca7c00cc5f72e18c31878cb9]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2008/5/section/106) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

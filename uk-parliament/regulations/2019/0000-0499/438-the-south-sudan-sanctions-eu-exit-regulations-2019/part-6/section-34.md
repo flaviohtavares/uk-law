@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Trade licences[^key-5b9b60ba1276ebba8fd4c38a7427f07d][^key-102e41f01f4232a7be3312b45914f4fd]
+## 34. Trade licences[^c-5b9b60ba1276ebba8fd4c38a7427f07d][^c-102e41f01f4232a7be3312b45914f4fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The prohibitions in Chapters 2 and 3 of Part 5 (Trade) do not apply to anything 
 
 ## Annotations
 
-[^key-5b9b60ba1276ebba8fd4c38a7427f07d]: Commencement: Reg. 34 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-5b9b60ba1276ebba8fd4c38a7427f07d]: Commencement: Reg. 34 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-102e41f01f4232a7be3312b45914f4fd]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-102e41f01f4232a7be3312b45914f4fd]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

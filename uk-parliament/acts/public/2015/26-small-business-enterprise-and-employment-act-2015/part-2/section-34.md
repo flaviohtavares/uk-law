@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Small and micro business regulations: further provision[^key-27f922f4d5c2b34eea1ca6688f0869af]
+## 34. Small and micro business regulations: further provision[^c-27f922f4d5c2b34eea1ca6688f0869af]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f922f4d5c2b34eea1ca6688f0869af]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2015/26/section/34) in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/d)
+[^c-27f922f4d5c2b34eea1ca6688f0869af]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2015/26/section/34) in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/d)

@@ -42,17 +42,17 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 5(1)(j), 13(1)(a) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-93324324dd97720df8500c933b7b74e7]
+## 1. Citation, commencement and interpretation[^c-93324324dd97720df8500c933b7b74e7]
 
 (1) These Regulations may be cited as the Social Security and Statutory Maternity Pay (Evidence of Pregnancy) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 1st April 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Medical Evidence) Regulations[^key-330ea998ddd5c9d4f1e3e626204360ab]
+## 2. Amendment of the Social Security (Medical Evidence) Regulations[^c-330ea998ddd5c9d4f1e3e626204360ab]
 
 In Schedule 2 to the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^f00005] in paragraph 4 of Part 1 omit “shall be completed in ink or other indelible substance and”.
 
-## 3. Amendment of the Statutory Maternity Pay (Medical Evidence) Regulations[^key-6754f1b59279cd0c374aacab7aec792a]
+## 3. Amendment of the Statutory Maternity Pay (Medical Evidence) Regulations[^c-6754f1b59279cd0c374aacab7aec792a]
 
 In the Schedule to the Statutory Maternity Pay (Medical Evidence) Regulations (Northern Ireland) 1987[^f00006] in paragraph 4 of Part 1 omit “shall be completed in ink or other indelible substance and”.
 
@@ -82,14 +82,14 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00003]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-93324324dd97720df8500c933b7b74e7]: Commencement: Reg. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/44/regulation/1/1)
+[^c-93324324dd97720df8500c933b7b74e7]: Commencement: Reg. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/44/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-330ea998ddd5c9d4f1e3e626204360ab]: Commencement: Reg. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/44/regulation/1/1)
+[^c-330ea998ddd5c9d4f1e3e626204360ab]: Commencement: Reg. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/44/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175); relevant amending Regulations are [S.R. 1987 No. 117](https://www.legislation.gov.uk/nisr/1987/117) and [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488)
 
-[^key-6754f1b59279cd0c374aacab7aec792a]: Commencement: Reg. 3 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/44/regulation/1/1)
+[^c-6754f1b59279cd0c374aacab7aec792a]: Commencement: Reg. 3 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/44/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 99](https://www.legislation.gov.uk/nisr/1987/99); relevant amending Regulation is [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488)

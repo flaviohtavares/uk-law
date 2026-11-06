@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Commission Implementing Regulation (EU) No 433/2012 laying down detailed rules for the application of Regulation (EU) No 1236/2010 of the European Parliament and of the Council laying down a scheme of control and enforcement applicable in the area covered by the Convention on future multilateral cooperation in the North-East Atlantic fisheries[^key-418516e51799e77a9a6e324c405172db]
+## 6. Commission Implementing Regulation (EU) No 433/2012 laying down detailed rules for the application of Regulation (EU) No 1236/2010 of the European Parliament and of the Council laying down a scheme of control and enforcement applicable in the area covered by the Convention on future multilateral cooperation in the North-East Atlantic fisheries[^c-418516e51799e77a9a6e324c405172db]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-418516e51799e77a9a6e324c405172db]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-418516e51799e77a9a6e324c405172db]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24327971]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

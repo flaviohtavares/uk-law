@@ -34,8 +34,8 @@ summary: ''
   - (i) in that assessment period,
   - (ii) in the previous assessment period, or
   - (iii) if the assessment period in question is the first or second assessment period in relation to an award, in that assessment period or in the month immediately preceding the commencement of the award, or
-- (b) the claimant is receiving statutory sick pay, statutory maternity pay, statutory paternity pay, statutory adoption pay , statutory parental bereavement pay[^key-4789df961da5963859dbf13fc42dd5bd] , statutory parental bereavement pay or a maternity allowance.
+- (b) the claimant is receiving statutory sick pay, statutory maternity pay, statutory paternity pay, statutory adoption pay , statutory parental bereavement pay[^c-4789df961da5963859dbf13fc42dd5bd] , statutory parental bereavement pay or a maternity allowance.
 
 ## Annotations
 
-[^key-4789df961da5963859dbf13fc42dd5bd]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/33/2/b) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [24(3)](https://www.legislation.gov.uk/nisr/2023/157/regulation/24/3), [34](https://editorial.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-4789df961da5963859dbf13fc42dd5bd]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/33/2/b) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [24(3)](https://www.legislation.gov.uk/nisr/2023/157/regulation/24/3), [34](https://editorial.legislation.gov.uk/nisr/2023/157/regulation/34)

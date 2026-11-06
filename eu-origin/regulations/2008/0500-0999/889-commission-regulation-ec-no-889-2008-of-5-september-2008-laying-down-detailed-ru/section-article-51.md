@@ -25,7 +25,7 @@ summary: ''
 - (a) the scientific name of the species and the variety denomination;
 - (b) the name and contact details of the supplier or his representative;
 - (c) the area where the supplier can deliver the seed or seed potatoes to the user in the usual time needed for the delivery;
-- (d)[^key-0164a5dd5a7f6b1fb21e903a2fde9c18] the country or region in which the variety is tested and approved for the purposes of the GB variety list as defined in the Seeds (National Lists of Varieties) Regulations 2001.
+- (d)[^c-0164a5dd5a7f6b1fb21e903a2fde9c18] the country or region in which the variety is tested and approved for the purposes of the GB variety list as defined in the Seeds (National Lists of Varieties) Regulations 2001.
 - (e) the date from which the seed or seed potatoes will be available;
 - (f) the name and/or code number of the control authority or control body in charge of the control of the operator as referred to in Article 27 of Regulation (EC) No 834/2007.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0164a5dd5a7f6b1fb21e903a2fde9c18]: Textual amendment: [Art. 51(1)(d)](https://www.legislation.gov.uk/eur/2008/889/article/51/1/d) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(29)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/29) (as amended by [S.I. 2020/1400](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0164a5dd5a7f6b1fb21e903a2fde9c18]: Textual amendment: [Art. 51(1)(d)](https://www.legislation.gov.uk/eur/2008/889/article/51/1/d) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(29)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/29) (as amended by [S.I. 2020/1400](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [3(3)(h)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/3/3/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

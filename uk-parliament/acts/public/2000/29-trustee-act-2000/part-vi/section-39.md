@@ -23,10 +23,10 @@ summary: ''
 (1) In this Act—
 
 - “**asset**” includes any right or interest;
-- “**charitable trust**” means a trust under which property is held for charitable purposes and “**charitable purposes**” has the meaning given by section 11 of the Charities Act 2011[^key-dc59cef53601515c7b7123bfb871dc18];
+- “**charitable trust**” means a trust under which property is held for charitable purposes and “**charitable purposes**” has the meaning given by section 11 of the Charities Act 2011[^c-dc59cef53601515c7b7123bfb871dc18];
 - “**custodian trustee**” has the same meaning as in the [^c1055538]Public Trustee Act 1906;
 - “**enactment**” includes any provision of a Measure of the Church Assembly or of the General Synod of the Church of England;
-- “**exempt charity**” has the same meaning as in the Charities Act 2011[^key-381b5366793c5c54269905c1b5752725] ;
+- “**exempt charity**” has the same meaning as in the Charities Act 2011[^c-381b5366793c5c54269905c1b5752725] ;
 - “**functions**” includes powers and duties;
 - “**legal mortgage**” has the same meaning as in the [^c1055540]Law of Property Act 1925;
 - “**personal representative**” has the same meaning as in the [^c1055541]Trustee Act 1925;
@@ -51,11 +51,11 @@ summary: ''
 
 ## Annotations
 
-[^key-dc59cef53601515c7b7123bfb871dc18]: Textual amendment: Words in s. 39(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 90(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/90/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-dc59cef53601515c7b7123bfb871dc18]: Textual amendment: Words in s. 39(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 90(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/90/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c1055538]: Marginal citation: [1906 c. 55](https://www.legislation.gov.uk/ukpga/1906/55).
 
-[^key-381b5366793c5c54269905c1b5752725]: Textual amendment: Words in s. 39(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 90(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/90/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-381b5366793c5c54269905c1b5752725]: Textual amendment: Words in s. 39(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 90(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/90/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c1055540]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Previous study[^key-b5c50d3c3ac625bd217e2dc877bd4696]
+## 7. Previous study[^c-b5c50d3c3ac625bd217e2dc877bd4696]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 (5) Paragraph (2) does not apply where—
 
 - (a) the present course leads to qualification as a social worker, medical doctor, dentist, veterinary surgeon or architect;
-- (b)[^key-1a26cfd72681abb0fb1b17238e855a77] the eligible student is to receive any payment under a healthcare bursary the amount of which is calculated by reference to the student’s income; or
+- (b)[^c-1a26cfd72681abb0fb1b17238e855a77] the eligible student is to receive any payment under a healthcare bursary the amount of which is calculated by reference to the student’s income; or
 - (c) the present course is a course for the initial training of teachers which is a full-time course.
 
 (6) Paragraph (1) does not apply to an eligible student attending a designated course which is an accelerated graduate entry course.
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5c50d3c3ac625bd217e2dc877bd4696]: Commencement: Reg. 7 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-b5c50d3c3ac625bd217e2dc877bd4696]: Commencement: Reg. 7 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-1a26cfd72681abb0fb1b17238e855a77]: Textual amendment: [Reg. 7(5)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/7/5/b) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2023/1349/regulation/27)
+[^c-1a26cfd72681abb0fb1b17238e855a77]: Textual amendment: [Reg. 7(5)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/7/5/b) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2023/1349/regulation/27)

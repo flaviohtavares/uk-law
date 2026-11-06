@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Establishment of the Commission for Tertiary Education and Research[^key-dd75bb487fae72443991066ffec42467][^key-86651a7c895fd5f204c0d04eae85c469]
+## 1. Establishment of the Commission for Tertiary Education and Research[^c-dd75bb487fae72443991066ffec42467][^c-86651a7c895fd5f204c0d04eae85c469]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd75bb487fae72443991066ffec42467]: Commencement: S. 1 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-dd75bb487fae72443991066ffec42467]: Commencement: S. 1 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-86651a7c895fd5f204c0d04eae85c469]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2022/1/section/1) in force at 15.12.2022 by [S.I. 2022/1318](https://www.legislation.gov.uk/wsi/2022/1318), [art. 2(a)](https://www.legislation.gov.uk/wsi/2022/1318/article/2/a)
+[^c-86651a7c895fd5f204c0d04eae85c469]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2022/1/section/1) in force at 15.12.2022 by [S.I. 2022/1318](https://www.legislation.gov.uk/wsi/2022/1318), [art. 2(a)](https://www.legislation.gov.uk/wsi/2022/1318/article/2/a)

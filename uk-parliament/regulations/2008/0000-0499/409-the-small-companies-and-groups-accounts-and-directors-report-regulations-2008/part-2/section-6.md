@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Accounts for delivery to registrar of companies (Companies Act individual accounts)[^key-b13074c207851bb5a0fa51f2ce6dd1a9]
+## 6. Accounts for delivery to registrar of companies (Companies Act individual accounts)[^c-b13074c207851bb5a0fa51f2ce6dd1a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b13074c207851bb5a0fa51f2ce6dd1a9]: Textual amendment: Reg. 6 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [14(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/14/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-b13074c207851bb5a0fa51f2ce6dd1a9]: Textual amendment: Reg. 6 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [14(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/14/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

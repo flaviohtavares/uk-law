@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51A. Treatment of childcare charges[^M_F_f741cce7-33af-4086-b97b-26d183b1003a][^key-5fa7591401893bf2e2c4a48ad26507cd]
+## 51A. Treatment of childcare charges[^M_F_f741cce7-33af-4086-b97b-26d183b1003a][^c-5fa7591401893bf2e2c4a48ad26507cd]
 
 *Extent: E+W+S*
 
@@ -28,16 +28,16 @@ summary: ''
 
 (2) In this regulation—
 
-“disabled child” means a child to whom paragraph (1A) of regulation 51 applies;[^key-c65510c361b2fd4cda91b15f545a4d82]
+“disabled child” means a child to whom paragraph (1A) of regulation 51 applies;[^c-c65510c361b2fd4cda91b15f545a4d82]
 
 “local authority” means, in relation to England, the council of a county or district, a metropolitan district, a London Borough, the Common Council of the City of London or the Council of the Isles of Scilly, in relation to Wales, the council of a county or county borough or, in relation to Scotland, a regional, islands or district council;
 
-“relevant childcare charges” means the charges paid by the claimant for care provided for any child of the claimant’s family in respect of the period beginning on that child’s date of birth and ending on the day preceding the first Tuesday in September following that child’s fifteenth birthday or, if the child is a disabled child, sixteenth birthday,[^key-75bdf9538a0f2e36c697c77612e1cb78] other than charges paid in respect of the child’s compulsory education or charges paid by a claimant to a partner or by a partner to a claimant in respect of any child for whom either or any of them is responsible in accordance with regulation 9 (circumstances in which a person is to be treated as responsible or not responsible for another), where the care is provided—
+“relevant childcare charges” means the charges paid by the claimant for care provided for any child of the claimant’s family in respect of the period beginning on that child’s date of birth and ending on the day preceding the first Tuesday in September following that child’s fifteenth birthday or, if the child is a disabled child, sixteenth birthday,[^c-75bdf9538a0f2e36c697c77612e1cb78] other than charges paid in respect of the child’s compulsory education or charges paid by a claimant to a partner or by a partner to a claimant in respect of any child for whom either or any of them is responsible in accordance with regulation 9 (circumstances in which a person is to be treated as responsible or not responsible for another), where the care is provided—
 
 - (a) by persons registered under section 71 of the Children Act 1989 (registration of child minders and persons providing day care for young children);
 - (b) for children in respect of the period beginning on their eighth birthday and ending on the day preceding the first Tuesday in September following their fifteenth birthday or, if the child is a disabled child, sixteenth birthday, out of school hours, by a school on school premises or by a local authority; or
 - (c) by a childcare scheme operating on Crown property where registration under section 71 of the Children Act 1989 is not required, or
-- (d) in schools or establishments which are exempted from registration under section 71 of the Children Act 1989 by virtue of section 71(16) of and paragraph 3 or 4 of Schedule 9 to that Act, or[^key-3d58b93bd1f48cdc36f5c8784816a781]
+- (d) in schools or establishments which are exempted from registration under section 71 of the Children Act 1989 by virtue of section 71(16) of and paragraph 3 or 4 of Schedule 9 to that Act, or[^c-3d58b93bd1f48cdc36f5c8784816a781]
 - (e) by a child care provider approved by an accredited organisation within the meaning given by regulation 4 of the Tax Credit (New Category of Child Care Provider) Regulations 1999.
 
 and shall be calculated on a weekly basis in accordance with paragraphs (3) to (6) or, in the case of a claimant to whom paragraph (6A) applies, with paragraphs (6B) and (6C).
@@ -80,7 +80,7 @@ Y is the average weekly charge paid for childcare in the most recent 2 complete 
 (6A) Where a claimant—
 
 - (a) has entered into an agreement for the provision of childcare; and
-- (b) will under that agreement incur relevant childcare charges in respect of childcare during the period of the disabled person’s tax credit[^key-1cd08ca1ee6e9da41d460012b92352b9] award,
+- (b) will under that agreement incur relevant childcare charges in respect of childcare during the period of the disabled person’s tax credit[^c-1cd08ca1ee6e9da41d460012b92352b9] award,
 
 the weekly charge for childcare shall be calculated in accordance with paragraphs (6B) and (6C), based upon a written estimate of the relevant future charges provided by the claimant and child minder or other childcare provider.
 
@@ -119,16 +119,16 @@ where—
 
 [^M_F_f741cce7-33af-4086-b97b-26d183b1003a]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/15A) renumbered as reg. 51A and "inserted after regulation 51" (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1999/2487/regulation/17)
 
-[^key-5fa7591401893bf2e2c4a48ad26507cd]: Textual amendment: Word in [reg. 51A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/2)
+[^c-5fa7591401893bf2e2c4a48ad26507cd]: Textual amendment: Word in [reg. 51A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/2)
 
-[^key-c65510c361b2fd4cda91b15f545a4d82]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(3)(a)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/3/a)
+[^c-c65510c361b2fd4cda91b15f545a4d82]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(3)(a)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/3/a)
 
-[^key-75bdf9538a0f2e36c697c77612e1cb78]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/3/b)
+[^c-75bdf9538a0f2e36c697c77612e1cb78]: Textual amendment: Words in [reg. 51A(2)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/19/3/b)
 
-[^key-3d58b93bd1f48cdc36f5c8784816a781]: Textual amendment: [Reg. 51A(2)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2/e) and word inserted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2000/795/regulation/5)
+[^c-3d58b93bd1f48cdc36f5c8784816a781]: Textual amendment: [Reg. 51A(2)(e)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2/e) and word inserted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 2000 (S.I. 2000/795)](https://www.legislation.gov.uk/uksi/2000/795), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/795/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2000/795/regulation/5)
 
 [^M_F_9107c145-f775-45ac-bc0d-888aca30886e]: Textual amendment: [reg. 51A(2ZA)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZA) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/9/2)
 
 [^M_F_17fcfc0f-2539-4e6d-9e9f-b3f429ee2f82]: Textual amendment: [reg. 51A(2A)(d)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A/2ZA) added (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2001/892/regulation/9/3)
 
-[^key-1cd08ca1ee6e9da41d460012b92352b9]: Textual amendment: Words in [reg. 51A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/2), [Sch. 2 para. 2(xv)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/2/paragraph/2/xv)
+[^c-1cd08ca1ee6e9da41d460012b92352b9]: Textual amendment: Words in [reg. 51A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/51A) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/2), [Sch. 2 para. 2(xv)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/2/paragraph/2/xv)

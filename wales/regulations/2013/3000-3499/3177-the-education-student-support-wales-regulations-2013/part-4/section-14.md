@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Students becoming eligible during the course of an academic year (affected by repeal, see note)[^key-a6a4f325272ff6846a647bd893aa3093][^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+## 14. Students becoming eligible during the course of an academic year (affected by repeal, see note)[^c-a6a4f325272ff6846a647bd893aa3093][^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
-Where any of the events listed in regulation 15 occurs in the course of an academic year— *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+Where any of the events listed in regulation 15 occurs in the course of an academic year— *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
-- (a) a student may qualify for grants and loans under this Part in respect of that academic year provided that the relevant event occurred within the first three months of the academic year; and *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
-- (b) such grants and loans are not available to the student in respect of any academic year beginning before the academic year in which the relevant event occurred. *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+- (a) a student may qualify for grants and loans under this Part in respect of that academic year provided that the relevant event occurred within the first three months of the academic year; and *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
+- (b) such grants and loans are not available to the student in respect of any academic year beginning before the academic year in which the relevant event occurred. *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
 ## Annotations
 
-[^key-a6a4f325272ff6846a647bd893aa3093]: Commencement: Reg. 14 in force at 10.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3177/regulation/1/2)
+[^c-a6a4f325272ff6846a647bd893aa3093]: Commencement: Reg. 14 in force at 10.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3177/regulation/1/2)
 
-[^key-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))
+[^c-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))

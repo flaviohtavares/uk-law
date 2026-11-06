@@ -61,7 +61,7 @@ In accordance with section 317(1) of that Act the Secretary of State for Work an
 - “**the Act**” means the Pensions Act 2004;
 - “**the 1993 Act**” means the Pensions Act 1993 [^c1543420];
 - “**the 2004 Act**” means the Finance Act 2004 [^c1543421];
-- [^key-fab59181dbd0666f827169c7adec4d71]...
+- [^c-fab59181dbd0666f827169c7adec4d71]...
 - “**base rate**” means the rate for the time being quoted by the reference banks as applicable to sterling deposits or, where there is for the time being more than one such base rate, the rate which, when the base rate quoted at each bank is ranked in a descending sequence of four, is the first in the sequence;
 - “**beneficiary**” means a person entitled to PPF compensation;
 - “**the Compensation Regulations**” means the Pension Protection Fund (Compensation) Regulations 2005 [^c1543423];
@@ -86,13 +86,13 @@ In accordance with section 317(1) of that Act the Secretary of State for Work an
   - (a) any periodic compensation payments made in relation to a person, payable under the pension compensation provisions specified in section 162(2) of the Act; or
   - (b) any periodic payments made in relation to a person, payable under section 166 of the Act;
 - “**PPF compensation**” means any payments made under the pension compensation provisions as specified in section 162 of the Act;
-- “[^key-a29d7c0973a4e72181a6c4ff1e8f15ea]PPF money purchase lump sum” means a payment of a lump sum which is made by the Board in respect of entitlement or accrued rights under the scheme rules to money purchase benefits;
+- “[^c-a29d7c0973a4e72181a6c4ff1e8f15ea]PPF money purchase lump sum” means a payment of a lump sum which is made by the Board in respect of entitlement or accrued rights under the scheme rules to money purchase benefits;
 - “**qualifying course**” means a full time educational or vocational course at a recognised educational establishment where in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds 12 hours per week in normal term time, and shall include any gaps between the ending of one course and the commencement of another, where the person is enrolled on and commences the latter course;
 - “**reference banks**” means the four largest persons for the time being (by reference to gross assets) [^c1543428] who—
   - (a) have permission under Part 4 of the FSMA (permission to carry on regulated activities) to accept deposits; and
   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits, and quote a base rate applicable to sterling deposits;
 - “**registered pension scheme**” has the meaning given in section 150(2) of the 2004 Act (meaning of pension scheme);
-- “relevant partner” means a person who is not married to, or in a civil partnership with, the member but who is living with the member as if that person and the member were a married couple *(Extent: S)*[^key-d0c233d77614c58d4eb716f111255038] or civil partners[^key-89db561a13b2b7f902df3c1c502b840e] *(Extent: S)*; *(Extent: S)*
+- “relevant partner” means a person who is not married to, or in a civil partnership with, the member but who is living with the member as if that person and the member were a married couple *(Extent: S)*[^c-d0c233d77614c58d4eb716f111255038] or civil partners[^c-89db561a13b2b7f902df3c1c502b840e] *(Extent: S)*; *(Extent: S)*
 - “**stakeholder pension scheme**” has the meaning given in section 1 of the Welfare Reform and Pensions Act 1999 (meaning of “stakeholder pension scheme”) [^c1543429];
 - “**trivial commutation lump sum**” has the meaning given in paragraph 7 of Schedule 29 to the 2004 Act (trivial commutation lump sum).
 
@@ -118,7 +118,7 @@ In accordance with section 317(1) of that Act the Secretary of State for Work an
 
 the Board may modify that term of that contract so that benefit under that contract shall be payable to the Board.
 
-### 3. Power to treat benefits as having become payable before the assessment date[^key-d7ba5c865e18075d5f658b2ec7654b4c]
+### 3. Power to treat benefits as having become payable before the assessment date[^c-d7ba5c865e18075d5f658b2ec7654b4c]
 
 (1) Where this regulation applies, the benefits referred to in paragraph (3) are treated, for the purposes of section 163(2) of the Act (adjustments to be made where the Board assumes responsibility for a scheme), as having become payable before the assessment date.
 
@@ -132,16 +132,16 @@ the Board may modify that term of that contract so that benefit under that contr
 - (a) a death benefit which is calculated and paid by the trustees or managers of the eligible scheme on or after the assessment date but before the date the trustees or managers receive the transfer notice in respect of that scheme; and
 - (b) a contribution refund within the meaning of section 101AB(4) of the 1993 Act (right to cash transfer sum and contribution refund).
 
-### 4. Power to treat benefits as having arisen before the assessment date[^key-f8392de0d5ec882afef704a733236072]
+### 4. Power to treat benefits as having arisen before the assessment date[^c-f8392de0d5ec882afef704a733236072]
 
 Where—
 
 - (a) a member of an eligible scheme died before the commencement of the assessment period in relation to the scheme; and
-- (b) during the period beginning with the assessment date and ending with the receipt by the trustees or managers of the transfer notice, a person became entitled under the scheme rules to a death benefit or a contribution refund (within the meaning of section 101AB(4) of the 1993 Act)[^key-c2a87b5940a0b5da11b0da6edfd6cfe4] in respect of that member,
+- (b) during the period beginning with the assessment date and ending with the receipt by the trustees or managers of the transfer notice, a person became entitled under the scheme rules to a death benefit or a contribution refund (within the meaning of section 101AB(4) of the 1993 Act)[^c-c2a87b5940a0b5da11b0da6edfd6cfe4] in respect of that member,
 
 that person's entitlement to that benefit shall, for the purposes of section 166(2) of the Act (duty to pay scheme benefits unpaid at assessment date), be treated as having arisen before the assessment date.
 
-### 4A. Power to pay certain transfer payments and contribution refunds[^key-6f4e7aa506520ac6a79b415c3d6e8bad]
+### 4A. Power to pay certain transfer payments and contribution refunds[^c-6f4e7aa506520ac6a79b415c3d6e8bad]
 
 (1) The Board must pay 90% of the rights described in paragraph (2) in the circumstances prescribed in paragraph (3).
 
@@ -182,12 +182,12 @@ shall be the base rate.
   - (i) notify the Board in writing that he believes that hardship would be so caused (“the hardship notification”) within one month of the date the Board notifies him that such an amount has been paid to him; and
   - (ii) provide any supporting evidence to the Board that hardship would be so caused within one month of the date of the hardship notification.
 
-(2) Where the Board receives a hardship notification in accordance with paragraph (1)(c)(i), it shall as soon as reasonably practicable determine[^key-5935061f13001fa4f8f1d7ee07e77249] whether recovery of the overpayment would cause hardship to—
+(2) Where the Board receives a hardship notification in accordance with paragraph (1)(c)(i), it shall as soon as reasonably practicable determine[^c-5935061f13001fa4f8f1d7ee07e77249] whether recovery of the overpayment would cause hardship to—
 
 - (a) the member or the member's family; or
 - (b) in the case of a person who was in receipt of scheme benefits in respect of a member, to that person with a right to scheme benefits, or that person's family.
 
-(2A)[^key-73b91b7381685aef8494bc56bfc7a9b7] The Board may request such additional information from the person who gave the hardship notification as it reasonably requires for the purpose of making a determination under paragraph (2).
+(2A)[^c-73b91b7381685aef8494bc56bfc7a9b7] The Board may request such additional information from the person who gave the hardship notification as it reasonably requires for the purpose of making a determination under paragraph (2).
 
 (2B) In making the determination, the Board shall have regard to any evidence provided under paragraph (1)(c)(ii) and any information provided in accordance with paragraph (2A).
 
@@ -197,18 +197,18 @@ shall be the base rate.
 
 ### 7. Manner of discharge of liabilities in respect of money purchase benefits
 
-(1) Subject to regulation 8, in respect of a case to which section 170(1) of the Act (discharge of liabilities in respect of money purchase benefits) applies, the Board must secure that liabilities in respect of money purchase benefits transferred to the Board under section 161 are discharged [^key-cfa40a02643bbdc5107314edaedb91f9]... by way of—
+(1) Subject to regulation 8, in respect of a case to which section 170(1) of the Act (discharge of liabilities in respect of money purchase benefits) applies, the Board must secure that liabilities in respect of money purchase benefits transferred to the Board under section 161 are discharged [^c-cfa40a02643bbdc5107314edaedb91f9]... by way of—
 
-- (a)[^key-bfaff5746ffd5f067225e188b5bca18e] a transfer payment to a personal pension scheme or an occupational pension scheme;
+- (a)[^c-bfaff5746ffd5f067225e188b5bca18e] a transfer payment to a personal pension scheme or an occupational pension scheme;
 - (b) the purchase of a pension annuity;
 - (c) the taking out of a policy of insurance or a number of such policies;
-- (d) assuring the benefits of a policy of insurance or a number of such policies; [^key-de373121c92bbf223b2f1f807e49f359]...
-- (e) in the circumstances described in regulation 9, a trivial commutation lump sum payment; or[^key-1305bf38e723a95c65ec81731521f6be]
-- (f)[^key-1521628a8d87ea92204a1f3aadc8c4de] in the circumstances described in regulation 9A, a PPF money purchase lump sum.
+- (d) assuring the benefits of a policy of insurance or a number of such policies; [^c-de373121c92bbf223b2f1f807e49f359]...
+- (e) in the circumstances described in regulation 9, a trivial commutation lump sum payment; or[^c-1305bf38e723a95c65ec81731521f6be]
+- (f)[^c-1521628a8d87ea92204a1f3aadc8c4de] in the circumstances described in regulation 9A, a PPF money purchase lump sum.
 
-(2)[^key-da50008665f6d5c62cd3fb5a51d5979d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-da50008665f6d5c62cd3fb5a51d5979d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-da50008665f6d5c62cd3fb5a51d5979d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-da50008665f6d5c62cd3fb5a51d5979d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Further provision for discharge of liabilities in respect of money purchase benefits
 
@@ -220,7 +220,7 @@ shall be the base rate.
 - (d) that the money purchase beneficiary may, before the expiry of a period of three months beginning on the date of the notice, inform the Board in writing of the manner in which he wishes those liabilities to be discharged (being a manner consistent with regulation 7); and
 - (e) that should the money purchase beneficiary not inform the Board in accordance with sub-paragraph (d) of the manner in which he wishes those liabilities to be discharged, the Board will discharge those liabilities as it sees fit, in accordance with these Regulations.
 
-(1A)[^key-6d3ce0e8f85089b675a78ff327399b87] Where, on the date that the Board assumed responsibility for the scheme, the money purchase beneficiary—
+(1A)[^c-6d3ce0e8f85089b675a78ff327399b87] Where, on the date that the Board assumed responsibility for the scheme, the money purchase beneficiary—
 
 - (a) had attained normal minimum pension age, or was within six months of attaining that age; or
 - (b) met the ill-health condition in paragraph 1 of Schedule 28 to the 2004 Act,
@@ -229,11 +229,11 @@ the notice given by the Board under paragraph (1) shall also include the informa
 
 (2) Where the money purchase beneficiary informs the Board in accordance with paragraph (1)(d) that he wishes the liabilities relating to his money purchase benefits to be discharged in a specified manner, the Board shall request in writing any further information it may require in order for it to discharge those liabilities in the manner so specified.
 
-(3) Subject to the requirements of regulation 9 in relation to trivial commutation and regulation 9A in relation to[^key-3ce1dc2e13f63e79d86f3ead784b6ef8] PPF money purchase lump sums, where the money purchase beneficiary has provided sufficient information for the Board to discharge the liabilities in relation to that beneficiary in respect of money purchase benefits, the Board shall, within a reasonable period, discharge those liabilities in the manner so requested.
+(3) Subject to the requirements of regulation 9 in relation to trivial commutation and regulation 9A in relation to[^c-3ce1dc2e13f63e79d86f3ead784b6ef8] PPF money purchase lump sums, where the money purchase beneficiary has provided sufficient information for the Board to discharge the liabilities in relation to that beneficiary in respect of money purchase benefits, the Board shall, within a reasonable period, discharge those liabilities in the manner so requested.
 
 (4) Where it is not possible to discharge money purchase liabilities in relation to a money purchase beneficiary in accordance with paragraph (3), the Board shall discharge those liabilities in accordance with regulation 7(1).
 
-(5)[^key-1d59b5f460af49387dc406df72cfbd52] Where the money purchase beneficiary dies before the Board discharges those liabilities in relation to that beneficiary, the Board shall discharge those liabilities—
+(5)[^c-1d59b5f460af49387dc406df72cfbd52] Where the money purchase beneficiary dies before the Board discharges those liabilities in relation to that beneficiary, the Board shall discharge those liabilities—
 
 - (a) where there is a widow, widower or surviving civil partner, under the rules of the scheme within the limits specified in regulation 7(1); or
 - (b) where there is no widow, widower or surviving civil partner, in accordance with paragraph 15 of Schedule 29 to the 2004 Act (uncrystallised funds lump sum death benefit).
@@ -242,13 +242,13 @@ the notice given by the Board under paragraph (1) shall also include the informa
 
 The Board may discharge its liabilities in respect of money purchase benefits by way of a trivial commutation lump sum payment where this lump sum is paid in accordance with the requirements of paragraph 7 of Schedule 29 to the 2004 Act (registered pension schemes: authorised lump sums - trivial commutation lump sum).
 
-### 9A. PPF money purchase lump sums[^key-67177f66bad22e90919f0eabd61c3273]
+### 9A. PPF money purchase lump sums[^c-67177f66bad22e90919f0eabd61c3273]
 
 (1) The Board may discharge its liabilities in respect of money purchase benefits transferred to it under section 161 of the Act by way of a PPF money purchase lump sum where the conditions in the following paragraphs are met.
 
-(2)[^key-6d615f42ef4ae679475540571186e1a1] The first condition is that the member has attained normal minimum pension age or meets the ill-health condition in paragraph 1 of Schedule 28 to the 2004 Act.
+(2)[^c-6d615f42ef4ae679475540571186e1a1] The first condition is that the member has attained normal minimum pension age or meets the ill-health condition in paragraph 1 of Schedule 28 to the 2004 Act.
 
-(3) The second condition is that the value of the member’s entitlements to money purchase benefits under the pension scheme does not exceed £10,000[^key-df9667948859fc8dfc46e9170e8eb13c].
+(3) The second condition is that the value of the member’s entitlements to money purchase benefits under the pension scheme does not exceed £10,000[^c-df9667948859fc8dfc46e9170e8eb13c].
 
 (4) The third condition is that the payment extinguishes the member’s entitlement to money purchase benefits under the pension scheme.
 
@@ -321,9 +321,9 @@ the Board shall make payments of PPF compensation on behalf of a beneficiary, to
   - (i) notify the Board in writing within one month of the date the Board informs him that such an overpayment has been made; and
   - (ii) provide any supporting evidence to the Board within one month of the notification specified in sub-paragraph (c)(i).
 
-(2) Where the Board receives a hardship notification in accordance with paragraph (1)(c)(i), it shall as soon as reasonably practicable determine[^key-21b9573b56f1cf53bd8613668c5ee1a5] whether recovery of that amount would cause hardship to the person to whom the overpayment has been made, or his family.
+(2) Where the Board receives a hardship notification in accordance with paragraph (1)(c)(i), it shall as soon as reasonably practicable determine[^c-21b9573b56f1cf53bd8613668c5ee1a5] whether recovery of that amount would cause hardship to the person to whom the overpayment has been made, or his family.
 
-(2A)[^key-96597f2f99496ee21923744d65bad9e9] The Board may request such additional information from the person who gave the hardship notification as it reasonably requires for the purpose of making a determination under paragraph (2).
+(2A)[^c-96597f2f99496ee21923744d65bad9e9] The Board may request such additional information from the person who gave the hardship notification as it reasonably requires for the purpose of making a determination under paragraph (2).
 
 (2B) In making the determination, the Board shall have regard to any evidence provided under paragraph (1)(c)(ii) and any information provided under paragraph (2A).
 
@@ -371,7 +371,7 @@ The Board may collect amounts payable by way of a pension protection levy in ins
 - (a) the trustees or managers who are liable to pay the levy in respect of an eligible scheme make an application to the Board to pay the amount in respect of the levy by instalments; and
 - (b) the Board considers that it is appropriate to do so, having taken into consideration any exceptional circumstances that may exist in relation to that scheme.
 
-### 19A. Interest for late payment of the pension protection levy[^key-e8780ca1ea50b63bc1dfe5d33935f750]
+### 19A. Interest for late payment of the pension protection levy[^c-e8780ca1ea50b63bc1dfe5d33935f750]
 
 (1) Subject to paragraph (2), interest is to be charged in the case of late payment of a pension protection levy.
 
@@ -421,14 +421,14 @@ The Board may collect amounts payable by way of a pension protection levy in ins
 
 ### 20. Schemes that are eligible schemes for part of a financial year
 
-(1)[^key-5ba4d5edcba4d81f7d3f4443415e67e5] Where a scheme—
+(1)[^c-5ba4d5edcba4d81f7d3f4443415e67e5] Where a scheme—
 
 - (a) is an eligible scheme on the first day of a financial year; and
 - (b) ceases to be an eligible scheme during that financial year,
 
 section 181(5) of the Act (amount of the levy payable in respect of a scheme which is an eligible scheme for only part of the period for which the levy is imposed) does not apply to that scheme and the full amount of the levy is payable.
 
-(2)[^key-3707f8b92d1d621789e339b591e0eca9] Where a scheme—
+(2)[^c-3707f8b92d1d621789e339b591e0eca9] Where a scheme—
 
 - (a) is not an eligible scheme on the first day of a financial year; and
 - (b) becomes an eligible scheme during that financial year by virtue of—
@@ -464,7 +464,7 @@ section 181(5) of the Act does not apply to the scheme and the full amount of th
 (5) In the Schedule (contents of accounts audited by the auditor of the scheme)—
 
 - (a) in paragraph 2(3)(a) [^c1543434], omit “to which section 111 of the 1993 Act (voluntary contributions) applies”; and
-- (b)[^key-c2e4859dc0d96dee8ff8201ee9a56510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c2e4859dc0d96dee8ff8201ee9a56510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22. Amendment of the Compensation Regulations
 
@@ -647,7 +647,7 @@ These Regulations have only a negligible impact on the cost of business, chariti
 
 [^c1543421]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-fab59181dbd0666f827169c7adec4d71]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(2)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/2)
+[^c-fab59181dbd0666f827169c7adec4d71]: Textual amendment: Words in reg. 1(2) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(2)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/2)
 
 [^c1543423]: Marginal citation: [S.I. 2005/670](https://www.legislation.gov.uk/uksi/2005/670) the relevant amending instrument is [S.I. 2005/2113](https://www.legislation.gov.uk/uksi/2005/2113).
 
@@ -659,67 +659,67 @@ These Regulations have only a negligible impact on the cost of business, chariti
 
 [^c1543427]: Marginal citation: Paragraph 22(4) is amended by paragraphs 1, 54(1), (4) and (5) of Schedule 10 to, the Finance Act 2005.
 
-[^key-a29d7c0973a4e72181a6c4ff1e8f15ea]: Textual amendment: Words in reg. 1(2) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/2)
+[^c-a29d7c0973a4e72181a6c4ff1e8f15ea]: Textual amendment: Words in reg. 1(2) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/2)
 
 [^c1543428]: Marginal citation: Listings of banks and their gross assets are produced and published in publications such as “The Banker”. This information is also available on that publication's website www.thebanker.com.
 
-[^key-d0c233d77614c58d4eb716f111255038]: Textual amendment: Words in reg. 1(2) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/42), and words in reg. 1(2) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 29](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/29)
+[^c-d0c233d77614c58d4eb716f111255038]: Textual amendment: Words in reg. 1(2) substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/42), and words in reg. 1(2) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 29](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/29)
 
-[^key-89db561a13b2b7f902df3c1c502b840e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/580/regulation/1/2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 86](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/86)
+[^c-89db561a13b2b7f902df3c1c502b840e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/580/regulation/1/2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 86](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/86)
 
 [^c1543429]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30). The definition of “stakeholder pension scheme” in section 1 was amended by section 285 of the Pensions Act 2004.
 
-[^key-d7ba5c865e18075d5f658b2ec7654b4c]: Textual amendment: Reg. 3 substituted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/2)
+[^c-d7ba5c865e18075d5f658b2ec7654b4c]: Textual amendment: Reg. 3 substituted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/2)
 
-[^key-f8392de0d5ec882afef704a733236072]: Textual amendment: Reg. 4 heading substituted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/3)
+[^c-f8392de0d5ec882afef704a733236072]: Textual amendment: Reg. 4 heading substituted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/3)
 
-[^key-c2a87b5940a0b5da11b0da6edfd6cfe4]: Textual amendment: Words in reg. 4(b) substituted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/4)
+[^c-c2a87b5940a0b5da11b0da6edfd6cfe4]: Textual amendment: Words in reg. 4(b) substituted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/4)
 
-[^key-6f4e7aa506520ac6a79b415c3d6e8bad]: Textual amendment: Reg. 4A inserted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/5)
+[^c-6f4e7aa506520ac6a79b415c3d6e8bad]: Textual amendment: Reg. 4A inserted (1.4.2009) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/451)](https://www.legislation.gov.uk/uksi/2009/451), [regs. 1](https://www.legislation.gov.uk/uksi/2009/451/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2009/451/regulation/5/5)
 
-[^key-5935061f13001fa4f8f1d7ee07e77249]: Textual amendment: Words in reg. 6(2) substituted (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/2/a)
+[^c-5935061f13001fa4f8f1d7ee07e77249]: Textual amendment: Words in reg. 6(2) substituted (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/2/a)
 
-[^key-73b91b7381685aef8494bc56bfc7a9b7]: Textual amendment: Reg. 6(2A)(2B) inserted (6.4.2007) by virtue of [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/2/b)
+[^c-73b91b7381685aef8494bc56bfc7a9b7]: Textual amendment: Reg. 6(2A)(2B) inserted (6.4.2007) by virtue of [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/2/b)
 
-[^key-cfa40a02643bbdc5107314edaedb91f9]: Textual amendment: Words in reg. 7(1) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/3/a/i)
+[^c-cfa40a02643bbdc5107314edaedb91f9]: Textual amendment: Words in reg. 7(1) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/3/a/i)
 
-[^key-bfaff5746ffd5f067225e188b5bca18e]: Textual amendment: Reg. 7(1)(a) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/3/a/ii)
+[^c-bfaff5746ffd5f067225e188b5bca18e]: Textual amendment: Reg. 7(1)(a) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/3/a/ii)
 
-[^key-de373121c92bbf223b2f1f807e49f359]: Textual amendment: Word in reg. 7(1)(d) omitted (30.4.2013) by virtue of [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/3/a)
+[^c-de373121c92bbf223b2f1f807e49f359]: Textual amendment: Word in reg. 7(1)(d) omitted (30.4.2013) by virtue of [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/3/a)
 
-[^key-1305bf38e723a95c65ec81731521f6be]: Textual amendment: Word in reg. 7(1)(e) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/3/b)
+[^c-1305bf38e723a95c65ec81731521f6be]: Textual amendment: Word in reg. 7(1)(e) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/3/b)
 
-[^key-1521628a8d87ea92204a1f3aadc8c4de]: Textual amendment: Reg. 7(1)(f) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/3/c)
+[^c-1521628a8d87ea92204a1f3aadc8c4de]: Textual amendment: Reg. 7(1)(f) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/3/c)
 
-[^key-da50008665f6d5c62cd3fb5a51d5979d]: Textual amendment: Reg. 7(2)(3) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(3)(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/3/b)
+[^c-da50008665f6d5c62cd3fb5a51d5979d]: Textual amendment: Reg. 7(2)(3) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(3)(b)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/3/b)
 
-[^key-6d3ce0e8f85089b675a78ff327399b87]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2006/580/regulation/8/1A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/294)](https://www.legislation.gov.uk/uksi/2016/294), [regs. 1](https://www.legislation.gov.uk/uksi/2016/294/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/294/regulation/6/2)
+[^c-6d3ce0e8f85089b675a78ff327399b87]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2006/580/regulation/8/1A) inserted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/294)](https://www.legislation.gov.uk/uksi/2016/294), [regs. 1](https://www.legislation.gov.uk/uksi/2016/294/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/294/regulation/6/2)
 
-[^key-3ce1dc2e13f63e79d86f3ead784b6ef8]: Textual amendment: Words in reg. 8(3) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/4)
+[^c-3ce1dc2e13f63e79d86f3ead784b6ef8]: Textual amendment: Words in reg. 8(3) inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/4)
 
-[^key-1d59b5f460af49387dc406df72cfbd52]: Textual amendment: Reg. 8(5) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(4)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/4)
+[^c-1d59b5f460af49387dc406df72cfbd52]: Textual amendment: Reg. 8(5) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [22(4)](https://www.legislation.gov.uk/uksi/2011/1246/article/22/4)
 
-[^key-67177f66bad22e90919f0eabd61c3273]: Textual amendment: Reg. 9A inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/5)
+[^c-67177f66bad22e90919f0eabd61c3273]: Textual amendment: Reg. 9A inserted (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/627/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/627/regulation/5/5)
 
-[^key-6d615f42ef4ae679475540571186e1a1]: Textual amendment: Reg. 9A(2) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/294)](https://www.legislation.gov.uk/uksi/2016/294), [regs. 1](https://www.legislation.gov.uk/uksi/2016/294/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/294/regulation/6/3)
+[^c-6d615f42ef4ae679475540571186e1a1]: Textual amendment: Reg. 9A(2) substituted (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/294)](https://www.legislation.gov.uk/uksi/2016/294), [regs. 1](https://www.legislation.gov.uk/uksi/2016/294/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/294/regulation/6/3)
 
-[^key-df9667948859fc8dfc46e9170e8eb13c]: Textual amendment: Word in [reg. 9A(3)](https://www.legislation.gov.uk/uksi/2006/580/regulation/9A/3) substituted (6.4.2017) by [The Pension Protection Fund (Modification) (Amendment) Regulations 2017 (S.I. 2017/324)](https://www.legislation.gov.uk/uksi/2017/324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/324/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/324/regulation/3)
+[^c-df9667948859fc8dfc46e9170e8eb13c]: Textual amendment: Word in [reg. 9A(3)](https://www.legislation.gov.uk/uksi/2006/580/regulation/9A/3) substituted (6.4.2017) by [The Pension Protection Fund (Modification) (Amendment) Regulations 2017 (S.I. 2017/324)](https://www.legislation.gov.uk/uksi/2017/324), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/324/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/324/regulation/3)
 
-[^key-21b9573b56f1cf53bd8613668c5ee1a5]: Textual amendment: Words in reg. 16(2) substituted (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/3/a)
+[^c-21b9573b56f1cf53bd8613668c5ee1a5]: Textual amendment: Words in reg. 16(2) substituted (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/3/a)
 
-[^key-96597f2f99496ee21923744d65bad9e9]: Textual amendment: Reg. 16(2A)(2B) inserted (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/3/b)
+[^c-96597f2f99496ee21923744d65bad9e9]: Textual amendment: Reg. 16(2A)(2B) inserted (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2007/782/regulation/5/3/b)
 
-[^key-e8780ca1ea50b63bc1dfe5d33935f750]: Textual amendment: Reg. 19A inserted (1.4.2010) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/560)](https://www.legislation.gov.uk/uksi/2010/560), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/560/regulation/1/2/a), [5](https://www.legislation.gov.uk/uksi/2010/560/regulation/5)
+[^c-e8780ca1ea50b63bc1dfe5d33935f750]: Textual amendment: Reg. 19A inserted (1.4.2010) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/560)](https://www.legislation.gov.uk/uksi/2010/560), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/560/regulation/1/2/a), [5](https://www.legislation.gov.uk/uksi/2010/560/regulation/5)
 
-[^key-5ba4d5edcba4d81f7d3f4443415e67e5]: Textual amendment: Reg. 20(1): reg. 20 renumbered as reg. 20(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/8/a)
+[^c-5ba4d5edcba4d81f7d3f4443415e67e5]: Textual amendment: Reg. 20(1): reg. 20 renumbered as reg. 20(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/8/a)
 
-[^key-3707f8b92d1d621789e339b591e0eca9]: Textual amendment: Reg. 20(2) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/8/b)
+[^c-3707f8b92d1d621789e339b591e0eca9]: Textual amendment: Reg. 20(2) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/8/b)
 
 [^c1543433]: Marginal citation: The words “but which is neither a tax approved scheme nor” were substituted by [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993).
 
 [^c1543434]: Marginal citation: Paragraph 2 was amended by [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993).
 
-[^key-c2e4859dc0d96dee8ff8201ee9a56510]: Textual amendment: Reg. 21(5)(b) revoked (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/782/regulation/7/b)
+[^c-c2e4859dc0d96dee8ff8201ee9a56510]: Textual amendment: Reg. 21(5)(b) revoked (6.4.2007) by [Pension Protection Fund (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/782)](https://www.legislation.gov.uk/uksi/2007/782), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/782/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/782/regulation/7/b)
 
 [^c1543436]: Marginal citation: Regulation 1(2) was amended by [S.I. 2005/2113](https://www.legislation.gov.uk/uksi/2005/2113).
 

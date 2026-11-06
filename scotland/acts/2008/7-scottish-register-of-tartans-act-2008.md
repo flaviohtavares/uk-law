@@ -325,7 +325,7 @@ For the purposes of this Act, a tartan is a design which is capable of being wov
 
 (5) The Keeper may waive a fee specified under subsection (1) in such circumstances as the Keeper may, with the approval of the Scottish Ministers, specify.
 
-### 15. Scottish Records Advisory Council[^key-6148310b65b16c1f37c7d8a1c8406413]
+### 15. Scottish Records Advisory Council[^c-6148310b65b16c1f37c7d8a1c8406413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -362,6 +362,6 @@ For the purposes of this Act, a tartan is a design which is capable of being wov
 
 ## Annotations
 
-[^key-6148310b65b16c1f37c7d8a1c8406413]: Textual amendment: [S. 15](https://www.legislation.gov.uk/asp/2008/7/section/15) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 4(7)](https://www.legislation.gov.uk/asp/2010/8/section/4/7), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-6148310b65b16c1f37c7d8a1c8406413]: Textual amendment: [S. 15](https://www.legislation.gov.uk/asp/2008/7/section/15) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 4(7)](https://www.legislation.gov.uk/asp/2010/8/section/4/7), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c2034514]: Subordinate legislation: [S. 18(2)](https://www.legislation.gov.uk/asp/2008/7/section/18/2) power fully exercised: 5.2.2009 appointed for specified provisions by {[S.S.I. 2009/5](https://www.legislation.gov.uk/ssi/2009/5)}, art. 2

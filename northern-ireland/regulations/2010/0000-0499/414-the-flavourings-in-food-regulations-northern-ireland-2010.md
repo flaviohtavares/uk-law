@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Flavourings in Food Regulations (Northern Ireland) 2010 (revoked)[^key-e303ad08937d43508b9a3da896728de0]
+The Flavourings in Food Regulations (Northern Ireland) 2010 (revoked)[^c-e303ad08937d43508b9a3da896728de0]
 
 Made
 
@@ -42,46 +42,46 @@ Coming into operation
 
 20th January 2011
 
-[^key-e303ad08937d43508b9a3da896728de0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e303ad08937d43508b9a3da896728de0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e303ad08937d43508b9a3da896728de0]
+## 1. Citation and commencement[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e303ad08937d43508b9a3da896728de0]
+## 2. Interpretation[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-e303ad08937d43508b9a3da896728de0]
+## 3. Offences and penalties[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement authorities[^key-e303ad08937d43508b9a3da896728de0]
+## 4. Enforcement authorities[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-e303ad08937d43508b9a3da896728de0]
+## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Condemnation of Food[^key-e303ad08937d43508b9a3da896728de0]
+## 6. Condemnation of Food[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Food Labelling Regulations (Northern Ireland) 1996[^key-e303ad08937d43508b9a3da896728de0]
+## 7. Amendments to the Food Labelling Regulations (Northern Ireland) 1996[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-e303ad08937d43508b9a3da896728de0]
+## 8. Revocations[^c-e303ad08937d43508b9a3da896728de0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e303ad08937d43508b9a3da896728de0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e303ad08937d43508b9a3da896728de0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e303ad08937d43508b9a3da896728de0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e303ad08937d43508b9a3da896728de0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e303ad08937d43508b9a3da896728de0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/414) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-e303ad08937d43508b9a3da896728de0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/414) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Producers[^key-914458f5302e5f822b2e55de8e30fd87]
+## 15. Producers[^c-914458f5302e5f822b2e55de8e30fd87]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
   - (i) regulation 22A of the Packaging Waste (Data Reporting) (England) Regulations 2023[^f00047], the Packaging Waste (Data Collection and Reporting) (Wales) Regulations 2023[^f00048] or the Packaging Waste (Data Reporting) (Scotland) Regulations 2023[^f00049]; or
   - (ii) regulation 23A of the Packaging Waste (Data Reporting) (No. 2) (Northern Ireland) Regulations 2023[^f00050].
 
-(7)[^key-51bc74272129f2d2d0f1a269ca593cba] Paragraphs (8) and (9) apply where a supply of packaging has been made by a person who, under regulations 16 to 21, is a producer in relation to that packaging (“the first producer”).
+(7)[^c-51bc74272129f2d2d0f1a269ca593cba] Paragraphs (8) and (9) apply where a supply of packaging has been made by a person who, under regulations 16 to 21, is a producer in relation to that packaging (“the first producer”).
 
 (8) Subject to paragraph (9), after the supply of packaging by the first producer, no other person except a seller becomes a producer in relation to that packaging as a result of that other person making a further supply of the packaging.
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-914458f5302e5f822b2e55de8e30fd87]: Commencement: Reg. 15 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-914458f5302e5f822b2e55de8e30fd87]: Commencement: Reg. 15 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00047]: Footnote: [S.I. 2023/219](https://www.legislation.gov.uk/uksi/2023/219); regulation 22A was inserted by [S.I. 2024/359](https://www.legislation.gov.uk/uksi/2024/359).
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^f00050]: Footnote: [S.R.2023 No. 25](https://www.legislation.gov.uk/nisr/2023/25); regulation 23A was inserted by [S.R. 2024 No. 80](https://www.legislation.gov.uk/nisr/2024/80).
 
-[^key-51bc74272129f2d2d0f1a269ca593cba]: Textual amendment: [Reg. 15(7)-(9)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/15/7) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-51bc74272129f2d2d0f1a269ca593cba]: Textual amendment: [Reg. 15(7)-(9)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/15/7) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

@@ -22,7 +22,7 @@ summary: ''
 
 (1) An application for a licence to provide digital additional services (in this Part referred to as a “**digital additional services licence**”) shall—
 
-- (a) be made in such manner as OFCOM[^key-bc6663a1196d215868f8a6cbd4891e9d] may determine, and
+- (a) be made in such manner as OFCOM[^c-bc6663a1196d215868f8a6cbd4891e9d] may determine, and
 - (b) be accompanied by such fee (if any) as they may determine.
 
 (2) At any time after receiving such an application and before determining it, OFCOM may require the applicant to furnish such additional information as they may consider necessary for the purpose of considering the application.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc6663a1196d215868f8a6cbd4891e9d]: Textual amendment: Words in s. 64 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 122](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/122) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bc6663a1196d215868f8a6cbd4891e9d]: Textual amendment: Words in s. 64 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 122](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/122) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

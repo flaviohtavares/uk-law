@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Intimate samples[^key-ab7c068fa234f37d6f625849b65bf18f]
+## 119. Intimate samples[^c-ab7c068fa234f37d6f625849b65bf18f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7c068fa234f37d6f625849b65bf18f]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2005/15/section/119) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(g)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/g)
+[^c-ab7c068fa234f37d6f625849b65bf18f]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2005/15/section/119) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(g)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/g)

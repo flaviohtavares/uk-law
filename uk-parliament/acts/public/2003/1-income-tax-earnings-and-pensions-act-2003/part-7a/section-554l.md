@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554L. Exclusions: earmarking for employee share schemes (3)[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554L. Exclusions: earmarking for employee share schemes (3)[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ summary: ''
 - (a) the relevant share option becomes exercisable (in whole or in part) by A before the end of the vesting date,
 - (b) A exercises the option (wholly or partly) before the end of the final exercise date and, as a result, receives the shares, and
 - (c) the receipt of the shares gives rise to employment income of A—
-  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^key-324c827df76b8dbef9a6d6c1d3f99280], or
+  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^c-324c827df76b8dbef9a6d6c1d3f99280], or
   - (ii) which is exempt income.
 
 (11) This subsection applies to any earmarked shares if—
@@ -114,6 +114,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-324c827df76b8dbef9a6d6c1d3f99280]: Textual amendment: Words in s. 554L(10)(c)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/18), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-324c827df76b8dbef9a6d6c1d3f99280]: Textual amendment: Words in s. 554L(10)(c)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/18), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

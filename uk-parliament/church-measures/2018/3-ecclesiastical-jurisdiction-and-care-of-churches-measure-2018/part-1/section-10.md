@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 10. Judges: appointment[^key-e1c30db8037fe89b9099788533e07233]
+## 10. Judges: appointment[^c-e1c30db8037fe89b9099788533e07233]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1c30db8037fe89b9099788533e07233]: Commencement: S. 10 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-e1c30db8037fe89b9099788533e07233]: Commencement: S. 10 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

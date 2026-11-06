@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Meaning of “deferred member”[^key-182c00902fc75dfd1e97e95914eee011]
+## 28. Meaning of “deferred member”[^c-182c00902fc75dfd1e97e95914eee011]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-182c00902fc75dfd1e97e95914eee011]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/1964/regulation/28) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/4)
+[^c-182c00902fc75dfd1e97e95914eee011]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/1964/regulation/28) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/4)

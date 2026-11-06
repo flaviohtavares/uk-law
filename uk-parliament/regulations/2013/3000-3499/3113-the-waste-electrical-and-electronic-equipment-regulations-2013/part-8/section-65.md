@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Charges[^key-5f26744143286c5a542a46a702b535bc]
+## 65. Charges[^c-5f26744143286c5a542a46a702b535bc]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f26744143286c5a542a46a702b535bc]: Commencement: Reg. 65 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-5f26744143286c5a542a46a702b535bc]: Commencement: Reg. 65 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

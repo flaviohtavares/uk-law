@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67G. Medicines and Healthcare products Regulatory Agency Central Alerting System[^key-dac2601e1f99c68ccfc5070933303166]
+## 67G. Medicines and Healthcare products Regulatory Agency Central Alerting System[^c-dac2601e1f99c68ccfc5070933303166]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A contractor must—
 
 ## Annotations
 
-[^key-dac2601e1f99c68ccfc5070933303166]: Textual amendment: Reg. 67G inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/1137/regulation/26)
+[^c-dac2601e1f99c68ccfc5070933303166]: Textual amendment: Reg. 67G inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/1137/regulation/26)

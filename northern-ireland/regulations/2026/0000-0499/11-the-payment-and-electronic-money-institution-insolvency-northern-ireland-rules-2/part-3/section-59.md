@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Requisite majorities at contributories’ meetings[^key-3b150920704030e07c1d473087626bd7]
+## 59. Requisite majorities at contributories’ meetings[^c-3b150920704030e07c1d473087626bd7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ At a meeting of contributories, voting rights are as at a general meeting of the
 
 ## Annotations
 
-[^key-3b150920704030e07c1d473087626bd7]: Commencement: [Rule 59](https://www.legislation.gov.uk/nisr/2026/11/rule/59) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3b150920704030e07c1d473087626bd7]: Commencement: [Rule 59](https://www.legislation.gov.uk/nisr/2026/11/rule/59) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

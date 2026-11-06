@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 2A — Evidence to support extension application[^key-eae22e9c0353c9fd27f090abf27c7cc0]
+## Schedule 2A — Evidence to support extension application[^c-eae22e9c0353c9fd27f090abf27c7cc0]
 
 *Extent: E+W+S*
 
@@ -104,4 +104,4 @@ For the purposes of paragraph 1(3)(b), the items of Category B evidence are—
 
 ## Annotations
 
-[^key-eae22e9c0353c9fd27f090abf27c7cc0]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2018/611/schedule/2A) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(vii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/vii), [38](https://www.legislation.gov.uk/uksi/2021/76/regulation/38)
+[^c-eae22e9c0353c9fd27f090abf27c7cc0]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2018/611/schedule/2A) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(vii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/vii), [38](https://www.legislation.gov.uk/uksi/2021/76/regulation/38)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Period of eligibility[^key-daccb0ed51d0d105da63706a063a8d9a]
+## 84. Period of eligibility[^c-daccb0ed51d0d105da63706a063a8d9a]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the Welsh Ministers may, at any time, renew, or extend the period of eligibility
 
 ## Annotations
 
-[^key-daccb0ed51d0d105da63706a063a8d9a]: Commencement: Reg. 84 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-daccb0ed51d0d105da63706a063a8d9a]: Commencement: Reg. 84 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

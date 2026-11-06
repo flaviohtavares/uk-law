@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-02fd0235776fbcfb7ce0d46fabd07520] A person is a deferred member of the Scheme in relation to an employment if—
+(1)[^c-02fd0235776fbcfb7ce0d46fabd07520] A person is a deferred member of the Scheme in relation to an employment if—
 
 - (a) the person has qualifying service for a period of at least two years;
 - (b) the person is no longer an active member in relation to that employment;
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02fd0235776fbcfb7ce0d46fabd07520]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/6/1) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Wandsworth and Richmond Fund Merger) Regulations 2016 (S.I. 2016/1241)](https://www.legislation.gov.uk/uksi/2016/1241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1241/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2016/1241/regulation/2)
+[^c-02fd0235776fbcfb7ce0d46fabd07520]: Modification: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/6/1) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (Wandsworth and Richmond Fund Merger) Regulations 2016 (S.I. 2016/1241)](https://www.legislation.gov.uk/uksi/2016/1241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1241/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2016/1241/regulation/2)

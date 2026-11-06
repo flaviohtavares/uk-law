@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.3. Recall or variation of restraint orders[^key-97a04dc6c88a7c2cb0c8419e2d05361d]
+## 3.9.3. Recall or variation of restraint orders[^c-97a04dc6c88a7c2cb0c8419e2d05361d]
 
 *Extent: S*
 
@@ -28,11 +28,11 @@ summary: ''
 
 (2) In respect of an application by note under paragraph (1)(c) by a person having an interest for an order for variation or recall under section 31(1)(b) of the Act–
 
-- (a)[^key-f6a148aa8d81725bb7a7c4bd780c2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f6a148aa8d81725bb7a7c4bd780c2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the period of notice for lodging answers to the note shall be 14 days or such other period as the sheriff thinks fit.
 
 ## Annotations
 
-[^key-97a04dc6c88a7c2cb0c8419e2d05361d]: Commencement: Rule 3.9.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-97a04dc6c88a7c2cb0c8419e2d05361d]: Commencement: Rule 3.9.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
-[^key-f6a148aa8d81725bb7a7c4bd780c2b39]: Textual amendment: Rule 3.9.3(2)(a) omitted (2.1.2006) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2005 (S.S.I. 2005/648)](https://www.legislation.gov.uk/ssi/2005/648), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/648/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2005/648/paragraph/3/2)
+[^c-f6a148aa8d81725bb7a7c4bd780c2b39]: Textual amendment: Rule 3.9.3(2)(a) omitted (2.1.2006) by virtue of [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2005 (S.S.I. 2005/648)](https://www.legislation.gov.uk/ssi/2005/648), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/648/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2005/648/paragraph/3/2)

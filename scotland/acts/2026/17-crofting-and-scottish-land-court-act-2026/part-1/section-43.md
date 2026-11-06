@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Reversion of resumed land[^key-a8fd1cbbd298821641403bf70c68b0cf]
+## 43. Reversion of resumed land[^c-a8fd1cbbd298821641403bf70c68b0cf]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8fd1cbbd298821641403bf70c68b0cf]: Commencement: S. 43 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-a8fd1cbbd298821641403bf70c68b0cf]: Commencement: S. 43 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. The Early Years Foundation Stage[^key-703d5bfe11c1346cca4afad0200efe43]
+## 39. The Early Years Foundation Stage[^c-703d5bfe11c1346cca4afad0200efe43]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-703d5bfe11c1346cca4afad0200efe43]: Commencement: S. 39 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)
+[^c-703d5bfe11c1346cca4afad0200efe43]: Commencement: S. 39 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)

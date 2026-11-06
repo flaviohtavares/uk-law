@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Licensing of air traffic controllers and student air traffic controllers[^key-280f9caa21cc114cf20dd46d493f0218]
+## 144. Licensing of air traffic controllers and student air traffic controllers[^c-280f9caa21cc114cf20dd46d493f0218]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ summary: ''
 
 (2) The Governor must not grant—
 
-- (a) a student air traffic controller’s licence to any person under the age of 20[^key-9402c0d4b1ebda48051a63f75c9f18a6] years; or
-- (b) an air traffic controller’s licence to any person under the age of 21[^key-94851f26e6a23dee175b8f42ebb29a9a] years.
+- (a) a student air traffic controller’s licence to any person under the age of 20[^c-9402c0d4b1ebda48051a63f75c9f18a6] years; or
+- (b) an air traffic controller’s licence to any person under the age of 21[^c-94851f26e6a23dee175b8f42ebb29a9a] years.
 
 (3) The Governor may include in an air traffic controller’s licence any rating and endorsement upon being satisfied that the applicant is qualified as specified in paragraph (1)(b) to act in the capacity to which such rating or endorsement relates and such rating or endorsement is deemed to form part of the licence.
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) Every holder of an air traffic controller’s licence or a student air traffic controller’s licence must, upon such occasions as the Governor may require, submit to such examinations and tests (including medical examinations) and provide such evidence as to the holder’s knowledge, experience, competence and skill and undergo such courses of training as the Governor may require.
 
-(7) The holder of an air traffic controller’s licence is not entitled to exercise the privileges of a rating contained in the licence at any place or for any sector or with any type of ATS surveillance system or service[^key-5053204ecc8bba995591b0591b77564e] unless the licence includes a valid certificate of competence for that rating which is appropriate to that place or sector and that equipment (if any).
+(7) The holder of an air traffic controller’s licence is not entitled to exercise the privileges of a rating contained in the licence at any place or for any sector or with any type of ATS surveillance system or service[^c-5053204ecc8bba995591b0591b77564e] unless the licence includes a valid certificate of competence for that rating which is appropriate to that place or sector and that equipment (if any).
 
 (8) A valid certificate of competence shall not be appropriate to the exercise of the privileges of a rating at any place or for any sector or with any type of surveillance equipment unless the certificate—
 
@@ -52,16 +52,16 @@ summary: ''
 
 (11) Upon a certificate of competence ceasing to be valid for a place or sector the holder of the licence must immediately inform the person who is approved under article 138 of this Order to provide an air traffic control service at that place or for that sector to that effect and must forward the licence to a person approved by the Governor for the purpose, who must endorse the licence accordingly and return it to the holder immediately.
 
-(12)[^key-831017d0c1e3ebf26c6344c66f850e2e] In paragraph (7) “**ATS surveillance system**” means variously Automatic Dependent Surveillance-Broadcast or Primary Surveillance Radar or Secondary Surveillance Radar or any comparable ground based system that enables the identification of aircraft; and “**ATS surveillance service**” means a service provided directly by means of an ATS surveillance system.
+(12)[^c-831017d0c1e3ebf26c6344c66f850e2e] In paragraph (7) “**ATS surveillance system**” means variously Automatic Dependent Surveillance-Broadcast or Primary Surveillance Radar or Secondary Surveillance Radar or any comparable ground based system that enables the identification of aircraft; and “**ATS surveillance service**” means a service provided directly by means of an ATS surveillance system.
 
 ## Annotations
 
-[^key-280f9caa21cc114cf20dd46d493f0218]: Commencement: [Art. 144](https://www.legislation.gov.uk/uksi/2013/2870/article/144) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-280f9caa21cc114cf20dd46d493f0218]: Commencement: [Art. 144](https://www.legislation.gov.uk/uksi/2013/2870/article/144) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-9402c0d4b1ebda48051a63f75c9f18a6]: Textual amendment: Word in [art. 144(2)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/2) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/16/2/a)
+[^c-9402c0d4b1ebda48051a63f75c9f18a6]: Textual amendment: Word in [art. 144(2)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/2) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2021/755/article/16/2/a)
 
-[^key-94851f26e6a23dee175b8f42ebb29a9a]: Textual amendment: Word in [art. 144(2)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/2) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/16/2/b)
+[^c-94851f26e6a23dee175b8f42ebb29a9a]: Textual amendment: Word in [art. 144(2)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/2) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2021/755/article/16/2/b)
 
-[^key-5053204ecc8bba995591b0591b77564e]: Textual amendment: Words in [art. 144(7)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/7) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/384/article/11/a)
+[^c-5053204ecc8bba995591b0591b77564e]: Textual amendment: Words in [art. 144(7)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/7) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/384/article/11/a)
 
-[^key-831017d0c1e3ebf26c6344c66f850e2e]: Textual amendment: [Art. 144(12)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/12) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/384/article/11/b)
+[^c-831017d0c1e3ebf26c6344c66f850e2e]: Textual amendment: [Art. 144(12)](https://www.legislation.gov.uk/uksi/2013/2870/article/144/12) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/384/article/11/b)

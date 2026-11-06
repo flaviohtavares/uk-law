@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Young people prohibited from bars[^key-bb12fbd26fe7cd9015f2ba4843460cfc][^key-138a97c71e631a25d9c189417955ca66]
+## 38. Young people prohibited from bars[^c-bb12fbd26fe7cd9015f2ba4843460cfc][^c-138a97c71e631a25d9c189417955ca66]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb12fbd26fe7cd9015f2ba4843460cfc]: Commencement: S. 38 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-bb12fbd26fe7cd9015f2ba4843460cfc]: Commencement: S. 38 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-138a97c71e631a25d9c189417955ca66]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2021/7/section/38) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-138a97c71e631a25d9c189417955ca66]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2021/7/section/38) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

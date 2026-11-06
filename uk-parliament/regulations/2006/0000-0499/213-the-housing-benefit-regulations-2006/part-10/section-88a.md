@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88A. Notice of changes of circumstances given electronically[^key-c8f0cb36d0b64d9410a6e62f89637935]
+## 88A. Notice of changes of circumstances given electronically[^c-c8f0cb36d0b64d9410a6e62f89637935]
 
 *Extent: E+W+S*
 
-(1)[^key-19daa051f3a7d80af81034333eda7572] A person may give notice of a change of circumstances required to be notified under regulation 88 by means of an electronic communication in accordance with Schedule 11.
+(1)[^c-19daa051f3a7d80af81034333eda7572] A person may give notice of a change of circumstances required to be notified under regulation 88 by means of an electronic communication in accordance with Schedule 11.
 
-(2)[^key-52177560d9707b3ae6f877eb538d4ef9] Where—
+(2)[^c-52177560d9707b3ae6f877eb538d4ef9] Where—
 
 - (a) the change of circumstances required to be notified is a death; and
 - (b) the authority administering the claimant's housing benefit agrees with the Secretary of State that notifications may be made in accordance with regulation 88ZA(1) (alternative means of notifying changes of circumstances),
@@ -35,8 +35,8 @@ a person may give notice of the change to the Secretary of State by means of an 
 
 ## Annotations
 
-[^key-c8f0cb36d0b64d9410a6e62f89637935]: Textual amendment: Reg. 88A and heading inserted (20.12.2006) by [The Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1)[art. 2(4)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/2/4)
+[^c-c8f0cb36d0b64d9410a6e62f89637935]: Textual amendment: Reg. 88A and heading inserted (20.12.2006) by [The Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1)[art. 2(4)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/2/4)
 
-[^key-19daa051f3a7d80af81034333eda7572]: Textual amendment: Reg. 88A(1): reg. 88A renumbered as reg. 88A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/6/2)
+[^c-19daa051f3a7d80af81034333eda7572]: Textual amendment: Reg. 88A(1): reg. 88A renumbered as reg. 88A(1) (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/2943/article/6/2)
 
-[^key-52177560d9707b3ae6f877eb538d4ef9]: Textual amendment: Regs. 88A(2)-(4) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/6/3)
+[^c-52177560d9707b3ae6f877eb538d4ef9]: Textual amendment: Regs. 88A(2)-(4) inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/6/3)

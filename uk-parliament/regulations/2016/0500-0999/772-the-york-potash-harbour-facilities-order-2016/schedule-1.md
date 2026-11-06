@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-4b606375f84de6b08ecfade1c6314d92]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-4b606375f84de6b08ecfade1c6314d92]
 
 *Extent: E+W*
 
 Articles 2(1), 3 and 4
 
-[^key-4b606375f84de6b08ecfade1c6314d92]
+[^c-4b606375f84de6b08ecfade1c6314d92]
 
 Within the Borough of Redcar and Cleveland, and the Borough of Stockton-on-Tees
 
 ### Nationally Significant Infrastructure Project
 
-[^key-4b606375f84de6b08ecfade1c6314d92]
+[^c-4b606375f84de6b08ecfade1c6314d92]
 
 ***Works No. 1*** - within the area described on the works plans as Works No. 1—
 
@@ -53,7 +53,7 @@ Within the Borough of Redcar and Cleveland, and the Borough of Stockton-on-Tees
 
 ### Associated Development
 
-[^key-4b606375f84de6b08ecfade1c6314d92]
+[^c-4b606375f84de6b08ecfade1c6314d92]
 
 ***Works No. 3*** - within the area described on the works plans as Works No. 3—
 
@@ -195,4 +195,4 @@ Works Nos. 1 to 12 to be carried out in accordance with the parameters set out i
 
 ## Annotations
 
-[^key-4b606375f84de6b08ecfade1c6314d92]: Commencement: Sch. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-4b606375f84de6b08ecfade1c6314d92]: Commencement: Sch. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

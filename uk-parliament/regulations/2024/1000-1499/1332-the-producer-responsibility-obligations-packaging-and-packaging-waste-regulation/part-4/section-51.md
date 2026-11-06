@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Application for registration of a compliance scheme[^key-f32b8d12582bf053be7f7fb2ea6c62da]
+## 51. Application for registration of a compliance scheme[^c-f32b8d12582bf053be7f7fb2ea6c62da]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f32b8d12582bf053be7f7fb2ea6c62da]: Commencement: Reg. 51 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-f32b8d12582bf053be7f7fb2ea6c62da]: Commencement: Reg. 51 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

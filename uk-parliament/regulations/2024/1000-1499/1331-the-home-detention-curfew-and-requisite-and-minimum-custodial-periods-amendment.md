@@ -42,7 +42,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 330(5) of that Act a draft of this instrument has been laid before, and approved by resolution of, each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-e1e377c89d8ca65be498d33a47f58c16]
+## 1. Citation, commencement and extent[^c-e1e377c89d8ca65be498d33a47f58c16]
 
 (1) This Order may be cited as the Home Detention Curfew and Requisite and Minimum Custodial Periods (Amendment) Order 2024.
 
@@ -50,11 +50,11 @@ In accordance with section 330(5) of that Act a draft of this instrument has bee
 
 (3) This Order extends to England and Wales only.
 
-## 2. Amendment to section 246 of the Criminal Justice Act 2003[^key-ce63be688eaad27d2e3ab921246fb3f1]
+## 2. Amendment to section 246 of the Criminal Justice Act 2003[^c-ce63be688eaad27d2e3ab921246fb3f1]
 
 In section 246(1)(a)[^f00002] of the Criminal Justice Act 2003, for “180” substitute “365”.
 
-## 3. Amendments to the Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024[^key-39459680d1dff2aca2b5e3fb2d2a7b7f]
+## 3. Amendments to the Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024[^c-39459680d1dff2aca2b5e3fb2d2a7b7f]
 
 (1) The Criminal Justice Act 2003 (Requisite and Minimum Custodial Periods) Order 2024[^f00003] is amended as follows.
 
@@ -99,7 +99,7 @@ In section 246(1)(a)[^f00002] of the Criminal Justice Act 2003, for “180” su
 
   .
 
-## 4. Application of Article 3[^key-0c49fbda4ee8f0a0b57853270da57be1]
+## 4. Application of Article 3[^c-0c49fbda4ee8f0a0b57853270da57be1]
 
 (1) The amendments made by article 3 apply in relation to a sentence imposed before, on or after 16th December 2024, subject as follows.
 
@@ -140,13 +140,13 @@ A full Impact Assessment has not been produced for articles 3 and 4 of this inst
 
 [^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44). Section 246(5)(a) was amended by paragraphs 12 and 23(1) and (5)(a) of Schedule 10 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) (“**LASPO**”). Section 267 was amended by paragraphs 5 and 15 of Schedule 14 to the LASPO and [S.I. 2020/157](https://www.legislation.gov.uk/uksi/2020/157).
 
-[^key-e1e377c89d8ca65be498d33a47f58c16]: Commencement: Art. 1 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
+[^c-e1e377c89d8ca65be498d33a47f58c16]: Commencement: Art. 1 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
 
-[^key-ce63be688eaad27d2e3ab921246fb3f1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/1331/article/2) in force at 3.6.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
+[^c-ce63be688eaad27d2e3ab921246fb3f1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/1331/article/2) in force at 3.6.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
 
 [^f00002]: Footnote: Section 246 was amended by paragraph 221 of Schedule 16 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), section 24 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), paragraph 7 of Schedule 1 to the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), paragraph 224 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), sections 110(9) and 112 of, and paragraph 23 of Schedule 10, paragraph 7 of Schedule 14 and paragraph 5 of Schedule 20, to the LASPO, section 132(5) of the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), section 68 of the Victims and Prisoners Act [2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21) and [2023/390](https://www.legislation.gov.uk/ukpga/2023/390).
 
-[^key-39459680d1dff2aca2b5e3fb2d2a7b7f]: Commencement: Art. 3 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
+[^c-39459680d1dff2aca2b5e3fb2d2a7b7f]: Commencement: Art. 3 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2024/844](https://www.legislation.gov.uk/uksi/2024/844).
 
@@ -160,7 +160,7 @@ A full Impact Assessment has not been produced for articles 3 and 4 of this inst
 
 [^f00008]: Footnote: [2019 c. 9](https://www.legislation.gov.uk/ukpga/2019/9). Section 8 was amended by paragraph 298 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
-[^key-0c49fbda4ee8f0a0b57853270da57be1]: Commencement: Art. 4 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
+[^c-0c49fbda4ee8f0a0b57853270da57be1]: Commencement: Art. 4 in force at 16.12.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1331/article/1/2)
 
 [^f00009]: Footnote: Section 248 was amended by section 116(2) of the LASPO.
 

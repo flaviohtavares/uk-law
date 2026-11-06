@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Interpretation – Part 8[^key-ae034138cd5fdfdfb0bf55e92a4e55ec]
+## 51. Interpretation – Part 8[^c-ae034138cd5fdfdfb0bf55e92a4e55ec]
 
 *Extent: E+W+S*
 
@@ -79,6 +79,6 @@ In this Part—
 
 ## Annotations
 
-[^key-ae034138cd5fdfdfb0bf55e92a4e55ec]: Commencement: Reg. 51 in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-ae034138cd5fdfdfb0bf55e92a4e55ec]: Commencement: Reg. 51 in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
 
 [^f00038]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39); section 95 was amended by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulation 31.

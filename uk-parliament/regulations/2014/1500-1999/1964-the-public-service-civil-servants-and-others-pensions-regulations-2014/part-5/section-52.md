@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Amount of full retirement pension[^key-5644b1a6bef5d0e5787c6667fdb0bc9e]
+## 52. Amount of full retirement pension[^c-5644b1a6bef5d0e5787c6667fdb0bc9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5644b1a6bef5d0e5787c6667fdb0bc9e]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/1964/regulation/52) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-5644b1a6bef5d0e5787c6667fdb0bc9e]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/1964/regulation/52) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

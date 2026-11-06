@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Late compliance with priority removal notice: damage to credibility[^key-84b07038fe3fbecf94e9576287687e72]
+## 22. Late compliance with priority removal notice: damage to credibility[^c-84b07038fe3fbecf94e9576287687e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b07038fe3fbecf94e9576287687e72]: Commencement: S. 22 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-84b07038fe3fbecf94e9576287687e72]: Commencement: S. 22 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

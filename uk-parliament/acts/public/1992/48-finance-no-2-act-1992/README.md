@@ -33,7 +33,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 \[16th July 1992\]
 
-[^c13516481]Most Gracious Sovereign, WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-699a4be37f1a746ad59165739c7194e2]
+[^c13516481]Most Gracious Sovereign, WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-699a4be37f1a746ad59165739c7194e2]
 
 ## Contents
 
@@ -210,7 +210,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 - [Section 74 — Oil exported direct from United Kingdom off-shore fields.](part-iii/section-74.md)
 
-#### ...[^key-0eed7cec660d3d84df23abb607531a85]
+#### ...[^c-0eed7cec660d3d84df23abb607531a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -257,6 +257,6 @@ SCHEDULES
 
 [^c13516481]: Commencement: Act partly in force at Royal Assent; for exceptions see ss. 1(8), 2(6), 3(2), 12(2), 14(3), 16(6), 62(4) and Sch. 9 para. 22.
 
-[^key-699a4be37f1a746ad59165739c7194e2]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-699a4be37f1a746ad59165739c7194e2]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-0eed7cec660d3d84df23abb607531a85]: Textual amendment: S. 75 cross-heading omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/186/a)
+[^c-0eed7cec660d3d84df23abb607531a85]: Textual amendment: S. 75 cross-heading omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 186(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/186/a)

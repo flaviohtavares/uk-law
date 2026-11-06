@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Apparatus and rights of statutory undertakers in streets[^key-6998f2a6ed23c83908ae053aa8ba8a03]
+## 30. Apparatus and rights of statutory undertakers in streets[^c-6998f2a6ed23c83908ae053aa8ba8a03]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-6998f2a6ed23c83908ae053aa8ba8a03]: Commencement: Art. 30 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-6998f2a6ed23c83908ae053aa8ba8a03]: Commencement: Art. 30 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

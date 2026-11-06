@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Travelling Expenses and Remission of Charges) Amendment (Wales) Regulations 1999 (revoked)[^key-bcc75f9de6fd5f5683446cc3ab9a876c]
+The National Health Service (Travelling Expenses and Remission of Charges) Amendment (Wales) Regulations 1999 (revoked)[^c-bcc75f9de6fd5f5683446cc3ab9a876c]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into Force
 
 5th October 1999
 
-[^key-bcc75f9de6fd5f5683446cc3ab9a876c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcc75f9de6fd5f5683446cc3ab9a876c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-bcc75f9de6fd5f5683446cc3ab9a876c]
+## 1. Citation, commencement, interpretation and extent[^c-bcc75f9de6fd5f5683446cc3ab9a876c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-bcc75f9de6fd5f5683446cc3ab9a876c]
+## 2. Amendment of the principal Regulations[^c-bcc75f9de6fd5f5683446cc3ab9a876c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provision[^key-bcc75f9de6fd5f5683446cc3ab9a876c]
+## 3. Transitional Provision[^c-bcc75f9de6fd5f5683446cc3ab9a876c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bcc75f9de6fd5f5683446cc3ab9a876c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcc75f9de6fd5f5683446cc3ab9a876c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bcc75f9de6fd5f5683446cc3ab9a876c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcc75f9de6fd5f5683446cc3ab9a876c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bcc75f9de6fd5f5683446cc3ab9a876c]: Textual amendment: Regulations revoked (1.4.2007) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (S.I. 2007/1104)](https://www.legislation.gov.uk/uksi/2007/1104), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1104/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1104/schedule/2)
+[^c-bcc75f9de6fd5f5683446cc3ab9a876c]: Textual amendment: Regulations revoked (1.4.2007) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (S.I. 2007/1104)](https://www.legislation.gov.uk/uksi/2007/1104), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1104/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1104/schedule/2)

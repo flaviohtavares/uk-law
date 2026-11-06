@@ -55,11 +55,11 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 In accordance with section 105B(9) of the 2009 Act the Secretary of State has laid before Parliament a report explaining the effect of this Order and why the Secretary of State considers it appropriate to make this Order.
 
-Accordingly, the Secretary of State makes the following Order:[^key-ae9c39bc7f5319fe72089a3ed2ce49b1]
+Accordingly, the Secretary of State makes the following Order:[^c-ae9c39bc7f5319fe72089a3ed2ce49b1]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-17c1cd367a0e2bc2fc590a527d4a1c22]
+### 1. Citation and commencement[^c-17c1cd367a0e2bc2fc590a527d4a1c22]
 
 (1) This Order may be cited as the West Midlands Combined Authority (Functions and Amendment) Order 2017.
 
@@ -67,65 +67,65 @@ Accordingly, the Secretary of State makes the following Order:[^key-ae9c39bc7f53
 
 (3) Article 24(3)(d)(ii) comes into force on the day after the day on which this Order is made.
 
-### 2. Interpretation[^key-ec21d0ab31a9c53e8cb1a789686aaae4]
+### 2. Interpretation[^c-ec21d0ab31a9c53e8cb1a789686aaae4]
 
 In this Order—
 
-- [^key-b92512bfb64a78d06c624eeb1e892787]...
+- [^c-b92512bfb64a78d06c624eeb1e892787]...
 - “the 1988 Act” means the Road Traffic Act 1988[^f00007];
 - “the 1989 Act” means the Local Government and Housing Act 1989[^f00008];
 - “the 1991 Act” means the New Roads and Street Works Act 1991[^f00009];
-- [^key-ee77b15e0430663ec03c7dddef524a3f]...
-- [^key-da683f4b2642cd5218c1c0caf8acff76]...
+- [^c-ee77b15e0430663ec03c7dddef524a3f]...
+- [^c-da683f4b2642cd5218c1c0caf8acff76]...
 - “the 2000 Act” means the Transport Act 2000[^f00012];
-- [^key-57194d983585fe5f04b3986c7dad1da3]...
+- [^c-57194d983585fe5f04b3986c7dad1da3]...
 - “the 2004 Act” means the Traffic Management Act 2004[^f00014];
-- [^key-b92e3c5741c4ebc83ca6eb9ebb57dc22]...
+- [^c-b92e3c5741c4ebc83ca6eb9ebb57dc22]...
 - “the 2009 Act” means the Local Democracy, Economic Development and Construction Act 2009;
-- [^key-f6da9562f2385436846c601ee7d93c55]...
+- [^c-f6da9562f2385436846c601ee7d93c55]...
 - “the 2016 Order” means the West Midlands Combined Authority Order 2016[^f00017];
 - “combined area” means the combined area of the Combined Authority;
 - “the Combined Authority” means the West Midlands Combined Authority, a body corporate established by the 2016 Order[^f00018];
-- [^key-07c26ff65d5db06481fadedb644077fa]...
+- [^c-07c26ff65d5db06481fadedb644077fa]...
 - “constituent council” means the councils for the local government areas of Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton;
-- [^key-da0a7e1f8a9c5e2189ab70dba534ad5f]...
-- [^key-ac6066c803e75b19118cb2eaae496b0c]...
-- “[^key-f05f5ba99d5bc0951258316e4907be37]**key route network roads**” means highways or proposed highways in the combined area designated as key route network roads pursuant to section 107ZA(1) (designation of key route network roads) of the Local Democracy, Economic Development and Construction Act 2009; and
+- [^c-da0a7e1f8a9c5e2189ab70dba534ad5f]...
+- [^c-ac6066c803e75b19118cb2eaae496b0c]...
+- “[^c-f05f5ba99d5bc0951258316e4907be37]**key route network roads**” means highways or proposed highways in the combined area designated as key route network roads pursuant to section 107ZA(1) (designation of key route network roads) of the Local Democracy, Economic Development and Construction Act 2009; and
 - “the Mayor” means the mayor for the combined area, except where the context otherwise requires[^f00020].
 
 ## PART 2 — Transport
 
-### 3. Power to pay grant[^key-f3c926528e9a281ecfa7c0b4d94095b3]
+### 3. Power to pay grant[^c-f3c926528e9a281ecfa7c0b4d94095b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Agreements between authorities and strategic highways companies[^key-4abc8ff372d464af483ebdc9836968e0]
+### 4. Agreements between authorities and strategic highways companies[^c-4abc8ff372d464af483ebdc9836968e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Promoting road safety[^key-93ce9909349c86951611e3994b56fedb]
+### 5. Promoting road safety[^c-93ce9909349c86951611e3994b56fedb]
 
 (1) The functions of the constituent councils specified in section 39(2) and (3) of the 1988 Act (duties of local authorities in relation to measures designed to promote road safety and studies into vehicular accidents arising, etc)[^f00025] are exercisable by the Combined Authority in relation to the combined area.
 
 (2) The functions are exercisable by the Combined Authority concurrently with the constituent councils.
 
-### 6. Bus lane contraventions[^key-503980a0d51d1411168e5938a7476101]
+### 6. Bus lane contraventions[^c-503980a0d51d1411168e5938a7476101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Road traffic reduction[^key-918718ad4b801e7d33fb8a5e983fc874]
+### 7. Road traffic reduction[^c-918718ad4b801e7d33fb8a5e983fc874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Permit schemes[^key-6ff39bb85c1df73898b30e97f83ae368]
+### 8. Permit schemes[^c-6ff39bb85c1df73898b30e97f83ae368]
 
-(1) The functions of the constituent councils as local highway authorities specified in the following provisions of the 2004 Act are exercisable by the Combined Authority in relation to key route network roads[^key-8381bdd6ed1c392f516f53ea637356c2]—
+(1) The functions of the constituent councils as local highway authorities specified in the following provisions of the 2004 Act are exercisable by the Combined Authority in relation to key route network roads[^c-8381bdd6ed1c392f516f53ea637356c2]—
 
 - (a) section 33 (preparation of permit schemes)[^f00030];
 - (b) section 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England)[^f00031]; and
 - (c) section 36 (variation and revocation of permit schemes)[^f00032].
 
-(2) The functions of the constituent councils as permit authorities specified in the 2007 Regulations are exercisable by the Combined Authority in relation to key route network roads[^key-471443a461298a7a5cb5d3528c47f8b4].
+(2) The functions of the constituent councils as permit authorities specified in the 2007 Regulations are exercisable by the Combined Authority in relation to key route network roads[^c-471443a461298a7a5cb5d3528c47f8b4].
 
 (3) The functions mentioned in paragraph (1) and (2) are exercisable by the Combined Authority concurrently with the constituent councils.
 
@@ -140,9 +140,9 @@ In this Order—
 - (a) “permit scheme” is to be construed in accordance with section 32 of the 2004 Act; and
 - (b) “the 2007 Regulations” means the Traffic Management Permit Scheme (England) Regulations 2007[^f00033];
 
-### 9. Apparatus affected by highway, bridge or transport works[^key-45bd50d180802542d04672d7e3b2e12f]
+### 9. Apparatus affected by highway, bridge or transport works[^c-45bd50d180802542d04672d7e3b2e12f]
 
-(1) The functions of the constituent councils as highway authorities specified in the following enactments are exercisable by the Combined Authority in relation to key route network roads[^key-798f4c271923f6a45b57298e42749093]—
+(1) The functions of the constituent councils as highway authorities specified in the following enactments are exercisable by the Combined Authority in relation to key route network roads[^c-798f4c271923f6a45b57298e42749093]—
 
 - (a) sections 83 (works for road purposes likely to affect apparatus in the street), 84 (measures necessary where apparatus affected by major works)[^f00034] and 85 (sharing of cost of necessary measures) of the 1991 Act; and
 - (b) the 2000 Regulations.
@@ -159,7 +159,7 @@ In this Order—
 - (b) “undertaker” has the same meaning as in sections 48(4) and (5) (streets, street works and undertakers) and 89(4) (public sewers, sewer authorities and related matters) of the 1991 Act[^f00036]; and
 - (c) “diversionary works” has the meaning given by regulation 2(1) of the 2000 Regulations.
 
-## PART 3 — Housing and regeneration[^key-75647dd638db85f2b944911d084bf878]
+## PART 3 — Housing and regeneration[^c-75647dd638db85f2b944911d084bf878]
 
 **No longer in force.**
 
@@ -171,7 +171,7 @@ In this Order—
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Mayoral Development Corporations[^key-3ec8c306b9f2a7d4634cdd52189b192d]
+## PART 4 — Mayoral Development Corporations[^c-3ec8c306b9f2a7d4634cdd52189b192d]
 
 **No longer in force.**
 
@@ -193,7 +193,7 @@ In this Order—
 
 ## PART 5 — Air quality; smoke-free premises, places and vehicles; culture and anti-social behaviour
 
-### 17. Air quality[^key-d2223002cfe1fd3ebbb599ab550ff9ac]
+### 17. Air quality[^c-d2223002cfe1fd3ebbb599ab550ff9ac]
 
 (1) The functions of the constituent councils specified in the following provisions in the Environment Act 1995[^f00051] are exercisable by the Combined Authority in relation to the combined area—
 
@@ -204,7 +204,7 @@ In this Order—
 
 (2) The functions are exercisable concurrently with the constituent councils.
 
-### 18. Smoke-free premises, places and vehicles[^key-a488a11cb37e3a26ce180fa513500179]
+### 18. Smoke-free premises, places and vehicles[^c-a488a11cb37e3a26ce180fa513500179]
 
 (1) The functions of the constituent councils specified in the following provisions are exercisable by the Combined Authority in relation to the combined area—
 
@@ -217,11 +217,11 @@ In this Order—
 
 (3) For the purposes of paragraph (1) the Combined Authority is to be treated as an enforcement authority[^f00058].
 
-### 19. Culture[^key-85103818f5ecc02e8ef9a831a0df9a22]
+### 19. Culture[^c-85103818f5ecc02e8ef9a831a0df9a22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Anti-social behaviour[^key-3c1174704b2b874deafe398e5a2c4508]
+### 20. Anti-social behaviour[^c-3c1174704b2b874deafe398e5a2c4508]
 
 (1) The functions of the constituent councils specified in the following provisions in the 2014 Act are exercisable by the Combined Authority in relation to the combined area—
 
@@ -243,15 +243,15 @@ In this Order—
 
 ## PART 6 — Funding
 
-### 21. Funding[^key-0f21a4c2e583e9c0ef23530dcf1b571f]
+### 21. Funding[^c-0f21a4c2e583e9c0ef23530dcf1b571f]
 
 (1) The constituent councils must meet any reasonably incurred costs of the Combined Authority, other than the costs mentioned in paragraph (4) to the extent that the Combined Authority has not decided to meet these costs from other resources available to the Combined Authority.
 
 (2) Any amount payable by each of the constituent councils to ensure that the costs of the Combined Authority referred to in paragraph (1) are met is to be determined by apportioning such costs between the constituent councils in such proportions as they may agree or, in default of such agreement, in proportion to the total resident population of the Combined Authority which resides in that council at the relevant date as estimated by the Statistics Board[^f00062].
 
-(3)[^key-b0df31e15557c2297a38f8c727bf8f82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b0df31e15557c2297a38f8c727bf8f82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to paragraph (5), the constituent councils must meet the costs of the expenditure reasonably incurred in, or in connection with, the exercise of any mayoral function[^key-3afa3bfc64fe4c3fbb80bacb2fd99606], to the extent that the Mayor has not decided to meet these costs from other resources available to the Combined Authority.
+(4) Subject to paragraph (5), the constituent councils must meet the costs of the expenditure reasonably incurred in, or in connection with, the exercise of any mayoral function[^c-3afa3bfc64fe4c3fbb80bacb2fd99606], to the extent that the Mayor has not decided to meet these costs from other resources available to the Combined Authority.
 
 (5) In relation to the expenditure mentioned in paragraph (4)—
 
@@ -264,29 +264,29 @@ In this Order—
 
 ## PART 7 — Functions of the Combined Authority exercisable only by the Mayor; political advisers
 
-### 22. General functions of the Combined Authority exercisable only by the Mayor[^key-825e2b26df2ea84fe69d4506c412c339]
+### 22. General functions of the Combined Authority exercisable only by the Mayor[^c-825e2b26df2ea84fe69d4506c412c339]
 
 (1) The following functions are general functions exercisable only by the Mayor[^f00066]—
 
 - (a) the functions of the Combined Authority in the following enactments—
-  - (i)[^key-b26ac37c14e7cd74f55fe61d7b0fba06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-b26ac37c14e7cd74f55fe61d7b0fba06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) sections 33 (preparation of permit schemes), 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England) and 36 (variation of permit schemes) of the 2004 Act;
   - (iii) sections 83 (works for road purposes likely to affect apparatus in the street), 84 (measures necessary where apparatus affected by major works) and 85 (sharing of cost of necessary measures) of the 1991 Act;
-  - (iv)[^key-96887483c5573d6e05724ae56615b7a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (v) section 39(2) and (3) of the 1988 Act (duties of local authorities to prepare and carry out a programme of measures designed to promote road safety, and carry out studies into accidents arising out of the use of vehicles on certain roads within their areas); and[^key-b9272b3f73717e80b39317d2b9c3750f]
-  - (vi)[^key-c4a1f1dff98f922cc21f903af9d95983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-96887483c5573d6e05724ae56615b7a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v) section 39(2) and (3) of the 1988 Act (duties of local authorities to prepare and carry out a programme of measures designed to promote road safety, and carry out studies into accidents arising out of the use of vehicles on certain roads within their areas); and[^c-b9272b3f73717e80b39317d2b9c3750f]
+  - (vi)[^c-c4a1f1dff98f922cc21f903af9d95983] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vii) the 2000 Regulations;
-- (b)[^key-a322856b9850c2e32e3381093de52a0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a322856b9850c2e32e3381093de52a0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-85ab31364d5c7a2d50faee8e183f7a83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-85ab31364d5c7a2d50faee8e183f7a83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Mayor may do anything that the Combined Authority may do under section 113A of the 2009 Act (general power of EPB or combined authority)[^f00067].
 
 (4) The Mayor must not make arrangements under section 107D(3)(b) of the 2009 Act (functions of mayors: general) in relation to the functions specified in paragraph (1), in relation to a political adviser appointed under article 23(1).
 
-(5)[^key-d08b26c512f0591ed17e7456c843989b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d08b26c512f0591ed17e7456c843989b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Political advisers[^key-676deb6dc0a8e0c7cdf4a2d1422ec69b]
+### 23. Political advisers[^c-676deb6dc0a8e0c7cdf4a2d1422ec69b]
 
 (1) The Mayor may appoint one person as the Mayor’s political adviser.
 
@@ -308,11 +308,11 @@ In this Order—
 
 ## PART 8 — Amendment of the West Midlands Combined Authority Order 2016; incidental provisions
 
-### 24. Amendments of the West Midlands Combined Authority Order 2016[^key-6b61d4947882962cc9863b53e975669f][^key-8d2d043926be17d8dd4bcac115f0cf21]
+### 24. Amendments of the West Midlands Combined Authority Order 2016[^c-6b61d4947882962cc9863b53e975669f][^c-8d2d043926be17d8dd4bcac115f0cf21]
 
-(1)[^key-6b61d4947882962cc9863b53e975669f] The 2016 Order is amended as follows—
+(1)[^c-6b61d4947882962cc9863b53e975669f] The 2016 Order is amended as follows—
 
-(2)[^key-6b61d4947882962cc9863b53e975669f] In article 2 (interpretation)—
+(2)[^c-6b61d4947882962cc9863b53e975669f] In article 2 (interpretation)—
 
 - (a) after the definition of “constituent councils” insert—
 
@@ -333,7 +333,7 @@ In this Order—
 
 (3) In Schedule 1 (constitution)—
 
-- (a)[^key-6b61d4947882962cc9863b53e975669f] in paragraph 1 (membership)—
+- (a)[^c-6b61d4947882962cc9863b53e975669f] in paragraph 1 (membership)—
   - (i) sub-paragraph (1) is omitted;
   - (ii) for sub-paragraph (4) there is substituted—
 
@@ -343,8 +343,8 @@ In this Order—
     > - (b) has been appointed as the deputy Mayor and is acting in place of the Mayor at a meeting.
 
     [^f00069];
-- (b)[^key-6b61d4947882962cc9863b53e975669f] omit paragraph 2 (chairman and vice-chairman); and
-- (c)[^key-6b61d4947882962cc9863b53e975669f] for paragraph 3 (proceedings) there is substituted—
+- (b)[^c-6b61d4947882962cc9863b53e975669f] omit paragraph 2 (chairman and vice-chairman); and
+- (c)[^c-6b61d4947882962cc9863b53e975669f] for paragraph 3 (proceedings) there is substituted—
 
   > **3. Proceedings**
   >
@@ -424,7 +424,7 @@ In this Order—
     > (2) No business is to be transacted at a meeting of the overview and scrutiny committee unless at least two-thirds of the total number of members of the overview and scrutiny committee are present.
 
     ;
-  - (ii)[^key-8d2d043926be17d8dd4bcac115f0cf21] after paragraph (4) there is inserted—
+  - (ii)[^c-8d2d043926be17d8dd4bcac115f0cf21] after paragraph (4) there is inserted—
 
     > **4A. Independent remuneration panel**
     >
@@ -450,7 +450,7 @@ In this Order—
 
   .
 
-### 25. Further incidental provisions[^key-d05c50b6c6617995743892d067ec8450]
+### 25. Further incidental provisions[^c-d05c50b6c6617995743892d067ec8450]
 
 In consequence of article 24(2)(e), for the purposes of section 104(1)(a) of the 2009 Act (constitution) section 85 of the Local Transport Act 2008 (provision that may be made in an order under section 84: membership of ITA) is to be applied without including the Mayor in any calculation of whether a majority of the members of the Combined Authority have been appointed by the constituent councils.
 
@@ -464,157 +464,157 @@ Department for Communities and Local Government
 
 30th March 2017
 
-## SCHEDULE 1 — Combined Authority roads[^key-a4b52703ad770101afd747b35075931d]
+## SCHEDULE 1 — Combined Authority roads[^c-a4b52703ad770101afd747b35075931d]
 
 **No longer in force.**
 
 Article 2
 
-### 1. ‘A’ roads (in numerical order)[^key-a4b52703ad770101afd747b35075931d]
+### 1. ‘A’ roads (in numerical order)[^c-a4b52703ad770101afd747b35075931d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24A.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24A.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33A.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33A.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41A.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41A.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. ‘B’ Roads (in numerical order)[^key-a4b52703ad770101afd747b35075931d]
+### 48. ‘B’ Roads (in numerical order)[^c-a4b52703ad770101afd747b35075931d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54A.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54A.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55A.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55A.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56A.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56A.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56B.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56B.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56C.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56C.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-a4b52703ad770101afd747b35075931d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Permit schemes: modification of the application of Part 3 of the 2004 Act
 
 Article 8
 
-**1.**[^key-79e407e1cd42a325fad796aefcfc309a] (1) Part 3 of the 2004 Act is modified as follows.
+**1.**[^c-79e407e1cd42a325fad796aefcfc309a] (1) Part 3 of the 2004 Act is modified as follows.
 
 (2) Section 33A (implementation of permit schemes of strategic highways companies and local highway authorities in England) has effect as if—
 
@@ -634,7 +634,7 @@ Article 8
 >
 > (3) An order made by the Combined Authority under subsection (1) may vary or revoke an order made by the Combined Authority under section 33A(2), or an order previously made by the Combined Authority under subsection (1).
 
-## SCHEDULE 3 — Modification of the application of Chapters 1 and 2 of Part 1 of the 2008 Act[^key-dedd19888b4cc62f03b2a85657f56fa7]
+## SCHEDULE 3 — Modification of the application of Chapters 1 and 2 of Part 1 of the 2008 Act[^c-dedd19888b4cc62f03b2a85657f56fa7]
 
 **No longer in force.**
 
@@ -642,7 +642,7 @@ Article 11
 
 **1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Modification of the application of the 2011 Act[^key-2bfb31091971fb2ffda3b1d2a6a6daa9]
+## SCHEDULE 4 — Modification of the application of the 2011 Act[^c-2bfb31091971fb2ffda3b1d2a6a6daa9]
 
 **No longer in force.**
 
@@ -686,13 +686,13 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00005]: Footnote: Sections 104(10) and 105(3A) were inserted by section 14 of the 2016 Act. Section 105B was inserted by section 7 of the 2016 Act. Section 107D was inserted by section 4 of the 2016 Act.
 
-[^key-ae9c39bc7f5319fe72089a3ed2ce49b1]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/510) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+[^c-ae9c39bc7f5319fe72089a3ed2ce49b1]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/510) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
 
-[^key-17c1cd367a0e2bc2fc590a527d4a1c22]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/510/article/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-17c1cd367a0e2bc2fc590a527d4a1c22]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/510/article/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-ec21d0ab31a9c53e8cb1a789686aaae4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-ec21d0ab31a9c53e8cb1a789686aaae4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-b92512bfb64a78d06c624eeb1e892787]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/a)
+[^c-b92512bfb64a78d06c624eeb1e892787]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/a)
 
 [^f00007]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -700,49 +700,49 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00009]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-ee77b15e0430663ec03c7dddef524a3f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/b)
+[^c-ee77b15e0430663ec03c7dddef524a3f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/b)
 
-[^key-da683f4b2642cd5218c1c0caf8acff76]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/c)
+[^c-da683f4b2642cd5218c1c0caf8acff76]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/c)
 
 [^f00012]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-57194d983585fe5f04b3986c7dad1da3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/d)
+[^c-57194d983585fe5f04b3986c7dad1da3]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/d)
 
 [^f00014]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-b92e3c5741c4ebc83ca6eb9ebb57dc22]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/e)
+[^c-b92e3c5741c4ebc83ca6eb9ebb57dc22]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/e)
 
-[^key-f6da9562f2385436846c601ee7d93c55]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(f)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/f)
+[^c-f6da9562f2385436846c601ee7d93c55]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(f)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/f)
 
 [^f00017]: Footnote: [S.I. 2016/653](https://www.legislation.gov.uk/uksi/2016/653).
 
 [^f00018]: Footnote: See article 3(2) of the 2016 Order.
 
-[^key-07c26ff65d5db06481fadedb644077fa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (5.8.2026) by virtue of [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/820/article/2/2/a)
+[^c-07c26ff65d5db06481fadedb644077fa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (5.8.2026) by virtue of [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/820/article/2/2/a)
 
-[^key-da0a7e1f8a9c5e2189ab70dba534ad5f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(g)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/g)
+[^c-da0a7e1f8a9c5e2189ab70dba534ad5f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(g)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/g)
 
-[^key-ac6066c803e75b19118cb2eaae496b0c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(h)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/h)
+[^c-ac6066c803e75b19118cb2eaae496b0c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(2)(h)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/2/h)
 
-[^key-f05f5ba99d5bc0951258316e4907be37]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) inserted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/820/article/2/2/b)
+[^c-f05f5ba99d5bc0951258316e4907be37]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/510/article/2) inserted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/820/article/2/2/b)
 
 [^f00020]: Footnote: Article 3 to [S.I 2016/933](https://www.legislation.gov.uk/uksi/2016/933) provides for there to be a mayor for the combined area of the Combined Authority.
 
-[^key-f3c926528e9a281ecfa7c0b4d94095b3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/510/article/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/a)
+[^c-f3c926528e9a281ecfa7c0b4d94095b3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/510/article/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/a)
 
-[^key-4abc8ff372d464af483ebdc9836968e0]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2017/510/article/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/b)
+[^c-4abc8ff372d464af483ebdc9836968e0]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2017/510/article/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/b)
 
-[^key-93ce9909349c86951611e3994b56fedb]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/510/article/5) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-93ce9909349c86951611e3994b56fedb]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/510/article/5) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00025]: Footnote: Section 39 was amended by section 168 of, and Schedule 8 to, the 1991 Act, and by section 279 of the 1999 Act.
 
-[^key-503980a0d51d1411168e5938a7476101]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2017/510/article/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/c)
+[^c-503980a0d51d1411168e5938a7476101]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2017/510/article/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/c)
 
-[^key-918718ad4b801e7d33fb8a5e983fc874]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2017/510/article/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/d)
+[^c-918718ad4b801e7d33fb8a5e983fc874]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2017/510/article/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(3)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/3/d)
 
-[^key-6ff39bb85c1df73898b30e97f83ae368]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/510/article/8) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-6ff39bb85c1df73898b30e97f83ae368]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/510/article/8) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-8381bdd6ed1c392f516f53ea637356c2]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2017/510/article/8/1) substituted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/820/article/2/3)
+[^c-8381bdd6ed1c392f516f53ea637356c2]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2017/510/article/8/1) substituted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/820/article/2/3)
 
 [^f00030]: Footnote: Section 33 was amended by section 51 of, and Schedule 10 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
@@ -750,13 +750,13 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00032]: Footnote: Section 36 was substituted by section 51 of, and Schedule 10 to, the Deregulation Act 2015.
 
-[^key-471443a461298a7a5cb5d3528c47f8b4]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/uksi/2017/510/article/8/2) substituted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/820/article/2/3)
+[^c-471443a461298a7a5cb5d3528c47f8b4]: Textual amendment: Words in [art. 8(2)](https://www.legislation.gov.uk/uksi/2017/510/article/8/2) substituted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/820/article/2/3)
 
 [^f00033]: Footnote: [S.I. 2007/3372](https://www.legislation.gov.uk/uksi/2007/3372), amended by [S.I. 2015/958](https://www.legislation.gov.uk/uksi/2015/958).
 
-[^key-45bd50d180802542d04672d7e3b2e12f]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/510/article/9) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-45bd50d180802542d04672d7e3b2e12f]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/510/article/9) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-798f4c271923f6a45b57298e42749093]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2017/510/article/9/1) substituted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/820/article/2/4)
+[^c-798f4c271923f6a45b57298e42749093]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2017/510/article/9/1) substituted (5.8.2026) by [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/820/article/2/4)
 
 [^f00034]: Footnote: Section 83 was amended by section 40 of, and Schedule 1 to the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
@@ -764,11 +764,11 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00036]: Footnote: Section 48 was amended by section 124 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26) and section 89 was amended by Schedule 1 to the Water Consolidation (Consequential Provisions) Act [1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60) and section 57 of the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-75647dd638db85f2b944911d084bf878]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2017/510/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/4)
+[^c-75647dd638db85f2b944911d084bf878]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2017/510/part/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/4)
 
-[^key-3ec8c306b9f2a7d4634cdd52189b192d]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/510/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/5)
+[^c-3ec8c306b9f2a7d4634cdd52189b192d]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/510/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/5)
 
-[^key-d2223002cfe1fd3ebbb599ab550ff9ac]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/510/article/17) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-d2223002cfe1fd3ebbb599ab550ff9ac]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/510/article/17) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00051]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -776,7 +776,7 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00053]: Footnote: Section 113 was amended in relation to England and Wales by paragraphs 14 and 18 of Schedule 2 and Schedule 3 to the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24) and paragraphs 361 and 384 of Part 1 of Schedule 2 to [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-a488a11cb37e3a26ce180fa513500179]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/510/article/18) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-a488a11cb37e3a26ce180fa513500179]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/510/article/18) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00054]: Footnote: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28). Section 10 was amended by section 95 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
 
@@ -788,60 +788,60 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00058]: Footnote: Section 10(1) (enforcement) of the 2006 Act permits regulations to be made designating persons who are to be enforcement authorities for the purposes of Chapter 1 of that Act. Regulation 3(1)(a) and (b) of the Smoke-free (Premises and Enforcement) Regulations ([S.I. 2006/3368](https://www.legislation.gov.uk/uksi/2006/3368)) provide that a unitary authority and a district council insofar as it is not a unitary authority is designated as an enforcement authority for the purposes of Chapter 1 of Part 1 of the 2006 Act.
 
-[^key-85103818f5ecc02e8ef9a831a0df9a22]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2017/510/article/19) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/6)
+[^c-85103818f5ecc02e8ef9a831a0df9a22]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2017/510/article/19) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(6)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/6)
 
-[^key-3c1174704b2b874deafe398e5a2c4508]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/510/article/20) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-3c1174704b2b874deafe398e5a2c4508]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/510/article/20) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00060]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37). Section 115 was amended by [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), section 74 of, and Schedule 7 to, the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43), section 97 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [S.I. 2469/2002](https://www.legislation.gov.uk/uksi/2469/2002), [S.I. 2003/602](https://www.legislation.gov.uk/uksi/2003/602), section 219 of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), section 22 of, and Schedule 9 to the Police and Justice Act 2006 (c. 48 ), section 29 of the Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912) , the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), section 55 of, and Schedule 5 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), and [S.I. 2010/886](https://www.legislation.gov.uk/uksi/2010/886).
 
 [^f00061]: Footnote: [2014 c. 12](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-0f21a4c2e583e9c0ef23530dcf1b571f]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/510/article/21) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-0f21a4c2e583e9c0ef23530dcf1b571f]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/510/article/21) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00062]: Footnote: Section 25 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18) provides that the Statistics Board is responsible for the functions in section 19 of the Registration Service Act [1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37) in relation to the annual abstract of number of births, deaths and marriages.
 
-[^key-b0df31e15557c2297a38f8c727bf8f82]: Textual amendment: [Art. 21(3)](https://www.legislation.gov.uk/uksi/2017/510/article/21/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(7)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/7/a)
+[^c-b0df31e15557c2297a38f8c727bf8f82]: Textual amendment: [Art. 21(3)](https://www.legislation.gov.uk/uksi/2017/510/article/21/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(7)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/7/a)
 
-[^key-3afa3bfc64fe4c3fbb80bacb2fd99606]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2017/510/article/21/4) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(7)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/7/b)
+[^c-3afa3bfc64fe4c3fbb80bacb2fd99606]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2017/510/article/21/4) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(7)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/7/b)
 
 [^f00065]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 40 was amended by section 83 of the 1999 Act, section 79 of, and paragraph 7 of Schedule 17 to, the Localism Act 2011 and section 5 of the 2016 Act.
 
-[^key-825e2b26df2ea84fe69d4506c412c339]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/510/article/22) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-825e2b26df2ea84fe69d4506c412c339]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/510/article/22) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00066]: Footnote: Section 107D(2) of the 2009 Act provides that in Part 6 of that Act references to “general functions”, in relation to a mayor for the area of a combined authority, are to any functions exercisable by the mayor other than police and crime commissioner functions.
 
-[^key-b26ac37c14e7cd74f55fe61d7b0fba06]: Textual amendment: [Art. 22(1)(a)(i)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/i) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/aa)
+[^c-b26ac37c14e7cd74f55fe61d7b0fba06]: Textual amendment: [Art. 22(1)(a)(i)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/i) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/aa)
 
-[^key-96887483c5573d6e05724ae56615b7a4]: Textual amendment: [Art. 22(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/iv) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/aa)
+[^c-96887483c5573d6e05724ae56615b7a4]: Textual amendment: [Art. 22(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/iv) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/aa)
 
-[^key-b9272b3f73717e80b39317d2b9c3750f]: Textual amendment: Word in [art. 22(1)(a)(v)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/v) inserted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/bb)
+[^c-b9272b3f73717e80b39317d2b9c3750f]: Textual amendment: Word in [art. 22(1)(a)(v)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/v) inserted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/bb)
 
-[^key-c4a1f1dff98f922cc21f903af9d95983]: Textual amendment: [Art. 22(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/vi) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/cc)
+[^c-c4a1f1dff98f922cc21f903af9d95983]: Textual amendment: [Art. 22(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/a/vi) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(i)(cc)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/i/cc)
 
-[^key-a322856b9850c2e32e3381093de52a0c]: Textual amendment: [Art. 22(1)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/b) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/ii)
+[^c-a322856b9850c2e32e3381093de52a0c]: Textual amendment: [Art. 22(1)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/22/1/b) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/a/ii)
 
-[^key-85ab31364d5c7a2d50faee8e183f7a83]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2017/510/article/22/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/b)
+[^c-85ab31364d5c7a2d50faee8e183f7a83]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2017/510/article/22/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/b)
 
 [^f00067]: Footnote: Section 113A was inserted by section 13 of the Localism Act 2011 and amended by paragraphs 17 and 25 of Schedule 5 to the 2016 Act.
 
-[^key-d08b26c512f0591ed17e7456c843989b]: Textual amendment: [Art. 22(5)](https://www.legislation.gov.uk/uksi/2017/510/article/22/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/b)
+[^c-d08b26c512f0591ed17e7456c843989b]: Textual amendment: [Art. 22(5)](https://www.legislation.gov.uk/uksi/2017/510/article/22/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(8)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/8/b)
 
-[^key-676deb6dc0a8e0c7cdf4a2d1422ec69b]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/510/article/23) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-676deb6dc0a8e0c7cdf4a2d1422ec69b]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/510/article/23) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
 [^f00068]: Footnote: Section 9 was amended by sections 61 and 204 of, and paragraph 2 of Schedule 2 to, the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237).
 
-[^key-6b61d4947882962cc9863b53e975669f]: Commencement: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2017/510/article/24/1)[(2)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/a)[(b)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/b)[(c)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/c)[(d)(i)(e)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/d/i/e) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-6b61d4947882962cc9863b53e975669f]: Commencement: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2017/510/article/24/1)[(2)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/a)[(b)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/b)[(c)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/c)[(d)(i)(e)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/d/i/e) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-8d2d043926be17d8dd4bcac115f0cf21]: Commencement: Art. 24(3)(d)(ii) in force at 31.3.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/510/article/1/3)
+[^c-8d2d043926be17d8dd4bcac115f0cf21]: Commencement: Art. 24(3)(d)(ii) in force at 31.3.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/510/article/1/3)
 
 [^f00069]: Footnote: Section 107C(1) of the 2009 Act provides that the mayor for the combined area of a combined authority must appoint one of the members of the authority to be the mayor’s deputy.
 
-[^key-d05c50b6c6617995743892d067ec8450]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/510/article/25) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-d05c50b6c6617995743892d067ec8450]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/510/article/25) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-a4b52703ad770101afd747b35075931d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/510/schedule/1) omitted (5.8.2026) by virtue of [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/820/article/2/5)
+[^c-a4b52703ad770101afd747b35075931d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/510/schedule/1) omitted (5.8.2026) by virtue of [The West Midlands Combined Authority (Key Route Network) (Amendment) Order 2026 (S.I. 2026/820)](https://www.legislation.gov.uk/uksi/2026/820), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/820/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/820/article/2/5)
 
-[^key-79e407e1cd42a325fad796aefcfc309a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/510/schedule/2/paragraph/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
+[^c-79e407e1cd42a325fad796aefcfc309a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/510/schedule/2/paragraph/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2)
 
-[^key-dedd19888b4cc62f03b2a85657f56fa7]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/510/schedule/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(9)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/9)
+[^c-dedd19888b4cc62f03b2a85657f56fa7]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2017/510/schedule/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(9)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/9)
 
-[^key-2bfb31091971fb2ffda3b1d2a6a6daa9]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2017/510/schedule/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(10)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/10)
+[^c-2bfb31091971fb2ffda3b1d2a6a6daa9]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2017/510/schedule/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [27(10)](https://www.legislation.gov.uk/uksi/2026/519/regulation/27/10)

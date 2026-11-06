@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Power to override easements and other rights[^key-16064e5f4251531e3b64e909a221704f]
+## 23. Power to override easements and other rights[^c-16064e5f4251531e3b64e909a221704f]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ caused by the carrying out or use of the authorised development and the operatio
 
 ## Annotations
 
-[^key-16064e5f4251531e3b64e909a221704f]: Commencement: Art. 23 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-16064e5f4251531e3b64e909a221704f]: Commencement: Art. 23 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

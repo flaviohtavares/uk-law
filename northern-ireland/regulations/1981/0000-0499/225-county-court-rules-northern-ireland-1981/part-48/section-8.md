@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-d62ff64d940049f018940c3327157119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d62ff64d940049f018940c3327157119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Notice of application in accordance with Article 5 of and paragraph 1(1)(*a*) of Schedule 2 to the Registration of Clubs Order shall be in Form 305.
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where it is intended to apply to the court which grants the registration of a club for the grant of a children’s certificate under Article 33 of the Registration of Clubs Order, such intention shall be stated in the notice of application referred to at paragraphs (2) and (3) above and the said notice of application shall be accompanied by a plan of the premises delineating the part thereof for which the certificate is sought.
 
-(5) A person intending to make an application for the grant of registration of a club shall, in addition to complying with paragraph 1(1)(*b*), (*c*) and (*d*) of Schedule 2 to the Registration of Clubs Order, serve a copy of the notice upon the clerk of petty sessions [^key-77eb5ffe15b315c05e55b4f66808e157]....
+(5) A person intending to make an application for the grant of registration of a club shall, in addition to complying with paragraph 1(1)(*b*), (*c*) and (*d*) of Schedule 2 to the Registration of Clubs Order, serve a copy of the notice upon the clerk of petty sessions [^c-77eb5ffe15b315c05e55b4f66808e157]....
 
 (6) A notice published in the newspapers as required by paragraph 1(1)(*b*) of Schedule 2 to the Registration of Clubs Order shall—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d62ff64d940049f018940c3327157119]: Textual amendment: Order 48 rule 8(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(c)(i)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-d62ff64d940049f018940c3327157119]: Textual amendment: Order 48 rule 8(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(c)(i)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
-[^key-77eb5ffe15b315c05e55b4f66808e157]: Textual amendment: Words in Order 48 rule 8(5) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/c/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-77eb5ffe15b315c05e55b4f66808e157]: Textual amendment: Words in Order 48 rule 8(5) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(17)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/17/c/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

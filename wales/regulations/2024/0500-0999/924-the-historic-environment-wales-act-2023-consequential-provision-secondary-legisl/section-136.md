@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. The Electricity and Gas (Energy Company Obligation) Order 2022[^key-b029fe34ac0ccae09152c33388f9080f]
+## 136. The Electricity and Gas (Energy Company Obligation) Order 2022[^c-b029fe34ac0ccae09152c33388f9080f]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ In article 79(3) of the Electricity and Gas (Energy Company Obligation) Order 20
 
 ## Annotations
 
-[^key-b029fe34ac0ccae09152c33388f9080f]: Commencement: [Reg. 136](https://www.legislation.gov.uk/wsi/2024/924/regulation/136) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-b029fe34ac0ccae09152c33388f9080f]: Commencement: [Reg. 136](https://www.legislation.gov.uk/wsi/2024/924/regulation/136) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00057]: Footnote: [S.I. 2022/875](https://www.legislation.gov.uk/uksi/2022/875).

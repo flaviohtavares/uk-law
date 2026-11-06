@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person who is aggrieved by a decision of the Safety Authority in Northern Ireland under regulations 5 to 11 may appeal to DFI[^key-c609b1cd2f687daec2b88940f7c6805b] .
+(1) A person who is aggrieved by a decision of the Safety Authority in Northern Ireland under regulations 5 to 11 may appeal to DFI[^c-c609b1cd2f687daec2b88940f7c6805b] .
 
 (2) The appellant must lodge the appeal by way of an application in such form or manner as DFI may decide.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c609b1cd2f687daec2b88940f7c6805b]: Textual amendment: Word in [reg. 38](https://www.legislation.gov.uk/uksi/2011/3066/regulation/38) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(44)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c609b1cd2f687daec2b88940f7c6805b]: Textual amendment: Word in [reg. 38](https://www.legislation.gov.uk/uksi/2011/3066/regulation/38) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(44)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Chapter “**House of Commons Members' Fund**” means the fund with that name specified in section 1 of the House of Commons Members' Fund Act 2016[^key-8492a177eff068f0006148a97ea294c6].
+In this Chapter “**House of Commons Members' Fund**” means the fund with that name specified in section 1 of the House of Commons Members' Fund Act 2016[^c-8492a177eff068f0006148a97ea294c6].
 
 ## Annotations
 
-[^key-8492a177eff068f0006148a97ea294c6]: Textual amendment: Words in s. 620 substituted (12.8.2016) by [House of Commons Members Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2016/18/section/8/1), [10](https://www.legislation.gov.uk/ukpga/2016/18/section/10)
+[^c-8492a177eff068f0006148a97ea294c6]: Textual amendment: Words in s. 620 substituted (12.8.2016) by [House of Commons Members Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2016/18/section/8/1), [10](https://www.legislation.gov.uk/ukpga/2016/18/section/10)

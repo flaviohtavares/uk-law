@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Delegated functions[^key-634fc9fc2ee7dcc5860bc4bb0812fe6e]
+## 24. Delegated functions[^c-634fc9fc2ee7dcc5860bc4bb0812fe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-634fc9fc2ee7dcc5860bc4bb0812fe6e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2007/18/section/24) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/c)
+[^c-634fc9fc2ee7dcc5860bc4bb0812fe6e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2007/18/section/24) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/c)

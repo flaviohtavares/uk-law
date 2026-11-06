@@ -27,7 +27,7 @@ summary: ''
 (3) Section 10(1), (2), (4) and (5) of the 1986 Act (effect of petition) apply in the case of a petition under section 28 above as if—
 
 - (a) the reference in subsection (1) to an administration order were to an air traffic administration order;
-- (b) the reference in subsection (1)(c) to proceedings included a reference to proceedings under or for the purposes of Schedule B1 to this Act[^key-100a85b8c22b712c5499ae442e1394e9];
+- (b) the reference in subsection (1)(c) to proceedings included a reference to proceedings under or for the purposes of Schedule B1 to this Act[^c-100a85b8c22b712c5499ae442e1394e9];
 - (c) in subsection (1)(c) after “its property” there were inserted “ , and no right of re-entry or forfeiture may be enforced against the company in respect of any land, ”;
 - (d) subsection (2)(b) and (c) were omitted.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c14879071]: Commencement: S. 30 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-100a85b8c22b712c5499ae442e1394e9]: Textual amendment: Words in s. 30(3)(b) substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/5); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-100a85b8c22b712c5499ae442e1394e9]: Textual amendment: Words in s. 30(3)(b) substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/5); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Removal of obstructions other than vessels[^key-b7065ae938e86cc0c6ab7593ba849811]
+## 39. Removal of obstructions other than vessels[^c-b7065ae938e86cc0c6ab7593ba849811]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ the Agency may recover the deficiency or the whole of the expenses, as the case 
 
 ## Annotations
 
-[^key-b7065ae938e86cc0c6ab7593ba849811]: Commencement: Art. 39 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-b7065ae938e86cc0c6ab7593ba849811]: Commencement: Art. 39 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

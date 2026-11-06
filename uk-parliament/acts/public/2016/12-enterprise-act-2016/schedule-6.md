@@ -24,7 +24,7 @@ Section 41
 
 ### Small Business, Enterprise and Employment Act 2015
 
-**1.**[^key-37e4fa405d14e4afa99b44ecf31665d2] In section 154 of the Small Business, Enterprise and Employment Act 2015 (regulations in connection with repayment of public sector exit payments)—
+**1.**[^c-37e4fa405d14e4afa99b44ecf31665d2] In section 154 of the Small Business, Enterprise and Employment Act 2015 (regulations in connection with repayment of public sector exit payments)—
 
 - (a) in subsection (4)(c), after “retirement” insert “ or in respect of the cost to a pension scheme of such a reduction not being made ”,
 - (b) after subsection (6), insert—
@@ -34,7 +34,7 @@ Section 41
   , and
 - (c) in the heading, after “with” insert “ repayment of ”.
 
-**2.**[^key-ed33dfcef28c324bb496c971057d9745] In section 156 of that Act (power to make regulations exercisable by the Treasury or Scottish Ministers)—
+**2.**[^c-ed33dfcef28c324bb496c971057d9745] In section 156 of that Act (power to make regulations exercisable by the Treasury or Scottish Ministers)—
 
 - (a) for subsection (4) substitute—
 
@@ -45,11 +45,11 @@ Section 41
   , and
 - (b) in the heading, after “regulations” insert “ under section 154(1) ”.
 
-**3.**[^key-ebe2b0e6168facc48a250d13c21c588b] In section 161 of that Act (supplementary provision about regulations), in subsection (1), after “section 1” insert “ , 153A ”.
+**3.**[^c-ebe2b0e6168facc48a250d13c21c588b] In section 161 of that Act (supplementary provision about regulations), in subsection (1), after “section 1” insert “ , 153A ”.
 
 ### Power to amend public sector schemes
 
-**4.**[^key-925562f852854573bc71964e1d735dc9] (1) Regulations may amend any relevant public sector scheme to ensure that if any exit payment restriction would have effect to prevent retirement benefits becoming immediately payable under the scheme without reduction—
+**4.**[^c-925562f852854573bc71964e1d735dc9] (1) Regulations may amend any relevant public sector scheme to ensure that if any exit payment restriction would have effect to prevent retirement benefits becoming immediately payable under the scheme without reduction—
 
 - (a) the retirement benefits may become immediately payable under the scheme subject to the appropriate early payment deduction, and
 - (b) the member may opt to buy out all or part of that deduction.
@@ -125,10 +125,10 @@ Section 41
 
 ## Annotations
 
-[^key-37e4fa405d14e4afa99b44ecf31665d2]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/1) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
+[^c-37e4fa405d14e4afa99b44ecf31665d2]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/1) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
 
-[^key-ed33dfcef28c324bb496c971057d9745]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/2) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
+[^c-ed33dfcef28c324bb496c971057d9745]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/2) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
 
-[^key-ebe2b0e6168facc48a250d13c21c588b]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/3) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
+[^c-ebe2b0e6168facc48a250d13c21c588b]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/3) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
 
-[^key-925562f852854573bc71964e1d735dc9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/4) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)
+[^c-925562f852854573bc71964e1d735dc9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2016/12/schedule/6/paragraph/4) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/c)

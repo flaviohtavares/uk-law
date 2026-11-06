@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Systems and processes requirement[^key-219d2adeb970690cdeba2c1a90093205]
+## 37. Systems and processes requirement[^c-219d2adeb970690cdeba2c1a90093205]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 sets out the matters that the Pensions Regulator must take into accou
 
 ## Annotations
 
-[^key-219d2adeb970690cdeba2c1a90093205]: Commencement: Reg. 37 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-219d2adeb970690cdeba2c1a90093205]: Commencement: Reg. 37 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

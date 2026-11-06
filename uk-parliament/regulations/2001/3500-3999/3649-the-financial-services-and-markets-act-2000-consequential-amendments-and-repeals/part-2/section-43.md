@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Meaning of “offer to the public”, “banking company”, “insurance company” and “authorised insurance company”[^key-cb12c30b4b0f54d1a5c2cf4c07aff144]
+## 43. Meaning of “offer to the public”, “banking company”, “insurance company” and “authorised insurance company”[^c-cb12c30b4b0f54d1a5c2cf4c07aff144]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,6 +102,6 @@ After Article 10[^f00047] of the 1986 Order, insert—
 
 ## Annotations
 
-[^key-cb12c30b4b0f54d1a5c2cf4c07aff144]: Commencement: Art. 43 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cb12c30b4b0f54d1a5c2cf4c07aff144]: Commencement: Art. 43 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00047]: Footnote: Article 10 was substituted by the Companies (Northern Ireland) Order 1990 ([S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)),, Article 25, Schedule 10, Part I.

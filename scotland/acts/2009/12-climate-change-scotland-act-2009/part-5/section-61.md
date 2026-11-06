@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Duty of Scottish Ministers to promote renewable heat[^key-84cdbd7bdd7432ccecac98e36833c687]
+## 61. Duty of Scottish Ministers to promote renewable heat[^c-84cdbd7bdd7432ccecac98e36833c687]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ review the plan prepared and published under this section.
 
 ## Annotations
 
-[^key-84cdbd7bdd7432ccecac98e36833c687]: Commencement: S. 61 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-84cdbd7bdd7432ccecac98e36833c687]: Commencement: S. 61 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

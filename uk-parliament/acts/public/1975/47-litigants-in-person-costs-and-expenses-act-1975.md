@@ -31,7 +31,7 @@ Litigants in Person (Costs and Expenses) Act 1975
 
 An Act to make further provision as to the costs or expenses recoverable by litigants in person in civil proceedings.
 
-\[1st August 1975\][^key-fe5555c46e4b5c928857ae1e97cf0fba]
+\[1st August 1975\][^c-fe5555c46e4b5c928857ae1e97cf0fba]
 
 ## 1. Costs or expenses recoverable.[^c7099691]
 
@@ -39,7 +39,7 @@ An Act to make further provision as to the costs or expenses recoverable by liti
 
 This subsection applies to civil proceedings—
 
-- (a) in England and Wales in the county court or in Northern Ireland[^key-ed28353c4a0ef7159dd8bcba22867f74] in a county court, in the family court,[^key-3f6a53ecc9c6eaf36d0432666e303e35] in the Senior Courts, in the Court of Judicature[^c20839581] or in the Supreme Court[^c20839531] on appeal from the High Court or the Court of Appeal,
+- (a) in England and Wales in the county court or in Northern Ireland[^c-ed28353c4a0ef7159dd8bcba22867f74] in a county court, in the family court,[^c-3f6a53ecc9c6eaf36d0432666e303e35] in the Senior Courts, in the Court of Judicature[^c20839581] or in the Supreme Court[^c20839531] on appeal from the High Court or the Court of Appeal,
 - (b) before [^c20839481]. . . the Lands Tribunal for Northern Ireland,
 - (ba)[^c20839311] before the First-tier Tribunal or the Upper Tribunal, or
 - (c) in or before any other court or tribunal specified in an order made under this subsection by the Lord Chancellor.
@@ -81,13 +81,13 @@ This subsection applies to civil proceedings—
 
 ## Annotations
 
-[^key-fe5555c46e4b5c928857ae1e97cf0fba]: Modification: Act modified (N.I.) (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 205(5)](https://www.legislation.gov.uk/nia/2011/25/section/205/5), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [254(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-fe5555c46e4b5c928857ae1e97cf0fba]: Modification: Act modified (N.I.) (1.4.2015) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 205(5)](https://www.legislation.gov.uk/nia/2011/25/section/205/5), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [254(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
 [^c7099691]: Modification: S. 1: functions tranferred (19.5.1999) by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/678/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1999/678/schedule)
 
-[^key-ed28353c4a0ef7159dd8bcba22867f74]: Textual amendment: Words in s. 1(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 103](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/103); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ed28353c4a0ef7159dd8bcba22867f74]: Textual amendment: Words in s. 1(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 103](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/103); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-3f6a53ecc9c6eaf36d0432666e303e35]: Textual amendment: Words in s. 1(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/35); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3f6a53ecc9c6eaf36d0432666e303e35]: Textual amendment: Words in s. 1(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/35); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20839581]: Textual amendment: Words in s. 1(a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 22(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/22/a), [S.I](https://www.legislation.gov.uk/ukpga/2005/4/section/I). 2009/1604, {art. 2(d)}
 

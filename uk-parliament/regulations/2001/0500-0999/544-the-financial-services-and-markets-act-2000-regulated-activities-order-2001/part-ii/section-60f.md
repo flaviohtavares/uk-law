@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60F. Exempt agreements: exemptions relating to number of repayments to be made[^key-715a373f306ef1d29d9e1397179a518c]
+## 60F. Exempt agreements: exemptions relating to number of repayments to be made[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) A credit agreement is an exempt agreement if—
 
-- (a) the agreement is a borrower-lender-supplier agreement for fixed-sum credit, other than a green deal plan *(Extent: E+W+S)*[^key-96d47a0abf9a03bd7ea9a3cd6e3bc88c],
-- (b) the number of payments to be made by the borrower is not more than twelve[^key-57f3085019353de87962501f3ae57807],
+- (a) the agreement is a borrower-lender-supplier agreement for fixed-sum credit, other than a green deal plan *(Extent: E+W+S)*[^c-96d47a0abf9a03bd7ea9a3cd6e3bc88c],
+- (b) the number of payments to be made by the borrower is not more than twelve[^c-57f3085019353de87962501f3ae57807],
 - (c) those payments are required to be made within a period of 12 months or less (beginning on the date of the agreement),
 - (d) the credit is—
   - (i) secured on land, or
-  - (ii) provided without interest or other [^key-29fb6d129cb87fe80e0bdf649c5a8365]... charges, and
-- (e)[^key-eef6a29ff11a3949c61bb2fbd33553af] neither paragraph (7) nor paragraph (7A) (taken with paragraph (7B)) applies to the agreement.
+  - (ii) provided without interest or other [^c-29fb6d129cb87fe80e0bdf649c5a8365]... charges, and
+- (e)[^c-eef6a29ff11a3949c61bb2fbd33553af] neither paragraph (7) nor paragraph (7A) (taken with paragraph (7B)) applies to the agreement.
 
 (3) A credit agreement is an exempt agreement if—
 
@@ -42,7 +42,7 @@ summary: ''
   - (ii) provided without interest or other significant charges, and
 - (e) paragraph (7) does not apply to the agreement.
 
-(4) Subject to article 60HA, a credit agreement[^key-95cebc7a020e8bb002195d9867935a19] is an exempt agreement if—
+(4) Subject to article 60HA, a credit agreement[^c-95cebc7a020e8bb002195d9867935a19] is an exempt agreement if—
 
 - (a) the agreement is a borrower-lender-supplier agreement financing the purchase of land,
 - (b) the number of payments to be made by the borrower is not more than four, and
@@ -54,7 +54,7 @@ summary: ''
 
 - (a) the agreement is a borrower-lender-supplier agreement for fixed-sum credit,
 - (b) the credit is to finance a premium under a contract of insurance relating to land or anything on land,
-- (c) the lender is the lender under a credit agreement secured by a legal or equitable[^key-2e804f5edcfa06e74774632b03a80c22] mortgage on that land,
+- (c) the lender is the lender under a credit agreement secured by a legal or equitable[^c-2e804f5edcfa06e74774632b03a80c22] mortgage on that land,
 - (d) the credit is to be repaid within the period (which must be 12 months or less) to which the premium relates,
 - (e) in the case of an agreement secured on land, there is no charge forming part of the total charge for credit under the agreement other than interest at a rate not exceeding the rate of interest from time to time payable under the agreement mentioned at sub-paragraph (c),
 - (f) in the case of an agreement which is not secured on land, the credit is provided without interest or other charges, and
@@ -63,7 +63,7 @@ summary: ''
 (6) A credit agreement is an exempt agreement if—
 
 - (a) the agreement is a borrower-lender-supplier agreement for fixed-sum credit,
-- (b) the lender is the lender under a credit agreement secured by a legal or equitable[^key-7f12ecf10c9b5b3ce9a9fed855879c62] mortgage on land,
+- (b) the lender is the lender under a credit agreement secured by a legal or equitable[^c-7f12ecf10c9b5b3ce9a9fed855879c62] mortgage on land,
 - (c) the agreement is to finance a premium under a contract of whole life insurance which provides, in the event of the death of the person on whose life the contract is effected before the credit referred to in sub-paragraph (b) has been repaid, for payment of a sum not exceeding the amount sufficient to meet the amount which, immediately after that credit has been advanced, would be payable to the lender in respect of that credit (including interest from time to time payable under that agreement),
 - (d) in the case of an agreement secured on land, there is no charge forming part of the total charge for credit under the agreement other than interest at a rate not exceeding the rate of interest from time to time payable under the agreement mentioned at sub-paragraph (b),
 - (e) in the case of an agreement which is not secured on land, the credit is provided without interest or other charges, and
@@ -75,7 +75,7 @@ summary: ''
 - (b) agreements which are conditional sale agreements or hire-purchase agreements;
 - (c) agreements secured by a pledge (other than a pledge of documents of title or of bearer bonds).
 
-(7A)[^key-d4091132a51bf861f0fbffb60ebf5d73] This paragraph applies to agreements entered into on or after the regulatory commencement date which are not secured on land—
+(7A)[^c-d4091132a51bf861f0fbffb60ebf5d73] This paragraph applies to agreements entered into on or after the regulatory commencement date which are not secured on land—
 
 - (a) where—
   - (i) the lender and the supplier are not the same person; and
@@ -100,29 +100,29 @@ summary: ''
 
 (7C) In paragraph (7A), “**regulatory commencement date**” has the meaning given in article 1(3) of the Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025.
 
-(8)[^key-eb5a8540175d7e917639470a56997dd4] In this article, “payment” means any payment which comprises or includes—
+(8)[^c-eb5a8540175d7e917639470a56997dd4] In this article, “payment” means any payment which comprises or includes—
 
 - (a) the repayment of capital, or
 - (b) the payment of interest or any other charge which forms part of the total charge for credit.
 
 ## Annotations
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
 
-[^key-96d47a0abf9a03bd7ea9a3cd6e3bc88c]: Textual amendment: Words in art. 60F(2)(a) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/1850/article/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-96d47a0abf9a03bd7ea9a3cd6e3bc88c]: Textual amendment: Words in art. 60F(2)(a) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/1850/article/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-57f3085019353de87962501f3ae57807]: Textual amendment: Word in art. 60F(2)(b) substituted (18.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) (No. 2) Order 2015 (S.I. 2015/352)](https://www.legislation.gov.uk/uksi/2015/352), [arts. 1](https://www.legislation.gov.uk/uksi/2015/352/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/352/article/2/a)
+[^c-57f3085019353de87962501f3ae57807]: Textual amendment: Word in art. 60F(2)(b) substituted (18.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) (No. 2) Order 2015 (S.I. 2015/352)](https://www.legislation.gov.uk/uksi/2015/352), [arts. 1](https://www.legislation.gov.uk/uksi/2015/352/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/352/article/2/a)
 
-[^key-29fb6d129cb87fe80e0bdf649c5a8365]: Textual amendment: Word in art. 60F(2) omitted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(27)(a)](https://www.legislation.gov.uk/uksi/2014/366/article/2/27/a)
+[^c-29fb6d129cb87fe80e0bdf649c5a8365]: Textual amendment: Word in art. 60F(2) omitted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(27)(a)](https://www.legislation.gov.uk/uksi/2014/366/article/2/27/a)
 
-[^key-eef6a29ff11a3949c61bb2fbd33553af]: Textual amendment: [Art. 60F(2)(e)](https://www.legislation.gov.uk/uksi/2001/544/article/60F/2/e) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/859/article/3/3/a)
+[^c-eef6a29ff11a3949c61bb2fbd33553af]: Textual amendment: [Art. 60F(2)(e)](https://www.legislation.gov.uk/uksi/2001/544/article/60F/2/e) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/859/article/3/3/a)
 
-[^key-95cebc7a020e8bb002195d9867935a19]: Textual amendment: Words in art. 60F(4) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(16)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/16) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-95cebc7a020e8bb002195d9867935a19]: Textual amendment: Words in art. 60F(4) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(16)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/16) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-2e804f5edcfa06e74774632b03a80c22]: Textual amendment: Words in art. 60F(5)(c) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(27)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/27/b)
+[^c-2e804f5edcfa06e74774632b03a80c22]: Textual amendment: Words in art. 60F(5)(c) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(27)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/27/b)
 
-[^key-7f12ecf10c9b5b3ce9a9fed855879c62]: Textual amendment: Words in art. 60F(6)(b) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(27)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/27/b)
+[^c-7f12ecf10c9b5b3ce9a9fed855879c62]: Textual amendment: Words in art. 60F(6)(b) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(27)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/27/b)
 
-[^key-d4091132a51bf861f0fbffb60ebf5d73]: Textual amendment: [Art. 60F(7A)-(7C)](https://www.legislation.gov.uk/uksi/2001/544/article/60F/7A) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/859/article/3/3/b)
+[^c-d4091132a51bf861f0fbffb60ebf5d73]: Textual amendment: [Art. 60F(7A)-(7C)](https://www.legislation.gov.uk/uksi/2001/544/article/60F/7A) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/859/article/3/3/b)
 
-[^key-eb5a8540175d7e917639470a56997dd4]: Textual amendment: Art. 60F(8) substituted (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2015/853/article/3/5)
+[^c-eb5a8540175d7e917639470a56997dd4]: Textual amendment: Art. 60F(8) substituted (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2015/853/article/3/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Meaning of regulator: installations[^key-e142d818723cb7ce8a600ef5ef87c93a]
+## 10. Meaning of regulator: installations[^c-e142d818723cb7ce8a600ef5ef87c93a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ Table A
 
 ## Annotations
 
-[^key-e142d818723cb7ce8a600ef5ef87c93a]: Commencement: Art. 10 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-e142d818723cb7ce8a600ef5ef87c93a]: Commencement: Art. 10 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
 [^c24438101]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 

@@ -31,34 +31,34 @@ Horticulture (Special Payments) Act 1974 (repealed)
 
 1974 c.5
 
-[^key-08f9985c2a802b9857eb07a4a83800e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f9985c2a802b9857eb07a4a83800e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Payments in accordance with scheme and provisions supplemental thereto.[^key-08f9985c2a802b9857eb07a4a83800e4][^key-08f9985c2a802b9857eb07a4a83800e4]
+## 1. Payments in accordance with scheme and provisions supplemental thereto.[^c-08f9985c2a802b9857eb07a4a83800e4][^c-08f9985c2a802b9857eb07a4a83800e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of approval and recovery of payment.[^key-08f9985c2a802b9857eb07a4a83800e4][^key-08f9985c2a802b9857eb07a4a83800e4]
+## 2. Revocation of approval and recovery of payment.[^c-08f9985c2a802b9857eb07a4a83800e4][^c-08f9985c2a802b9857eb07a4a83800e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. False statements to obtain payments.[^key-08f9985c2a802b9857eb07a4a83800e4][^key-08f9985c2a802b9857eb07a4a83800e4]
+## 3. False statements to obtain payments.[^c-08f9985c2a802b9857eb07a4a83800e4][^c-08f9985c2a802b9857eb07a4a83800e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of entry.[^key-08f9985c2a802b9857eb07a4a83800e4][^key-08f9985c2a802b9857eb07a4a83800e4]
+## 4. Powers of entry.[^c-08f9985c2a802b9857eb07a4a83800e4][^c-08f9985c2a802b9857eb07a4a83800e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Expenses and receipts.[^key-08f9985c2a802b9857eb07a4a83800e4][^key-08f9985c2a802b9857eb07a4a83800e4]
+## 5. Expenses and receipts.[^c-08f9985c2a802b9857eb07a4a83800e4][^c-08f9985c2a802b9857eb07a4a83800e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title, extent and interpretation.[^key-08f9985c2a802b9857eb07a4a83800e4][^key-08f9985c2a802b9857eb07a4a83800e4]
+## 6. Short title, extent and interpretation.[^c-08f9985c2a802b9857eb07a4a83800e4][^c-08f9985c2a802b9857eb07a4a83800e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08f9985c2a802b9857eb07a4a83800e4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1974/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-08f9985c2a802b9857eb07a4a83800e4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1974/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

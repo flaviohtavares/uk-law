@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c21238711][^key-c138d73a68f937e356be455a6a132bdb] The persons who are to be returned as constituency members for constituencies included in the region must be determined before the persons who are to be returned as the regional members for the region.
+(1)[^c21238711][^c-c138d73a68f937e356be455a6a132bdb] The persons who are to be returned as constituency members for constituencies included in the region must be determined before the persons who are to be returned as the regional members for the region.
 
 (2) For each registered political party which has submitted a regional list, the regional figure for the purposes of section 8 is—
 
@@ -38,4 +38,4 @@ divided by
 
 [^c21238711]: Modification: S. 7(1) applied (with modifications) (30.12.2010 with effect as mentioned in art. 1(2)(3) of the modifying S.I.) by [The Scottish Parliament (Elections etc.) Order 2010 (S.I. 2010/2999)](https://www.legislation.gov.uk/uksi/2010/2999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2010/2999/article/6/4), [Sch. 2 rule 76(3)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/76/3)
 
-[^key-c138d73a68f937e356be455a6a132bdb]: Modification: S. 7(1) applied (with modifications) by S.S.I. 2015/425, sch. 2 rule 74A(3) (as inserted (S.) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [15(6)](https://www.legislation.gov.uk/ssi/2020/426/article/15/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2)))
+[^c-c138d73a68f937e356be455a6a132bdb]: Modification: S. 7(1) applied (with modifications) by S.S.I. 2015/425, sch. 2 rule 74A(3) (as inserted (S.) (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [15(6)](https://www.legislation.gov.uk/ssi/2020/426/article/15/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2)))

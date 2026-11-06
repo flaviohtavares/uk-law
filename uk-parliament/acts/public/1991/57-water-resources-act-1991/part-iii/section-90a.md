@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90A. Applications for consent under section 89 or 90.[^key-546f981205a6de7e088627707cf4ce80]
+## 90A. Applications for consent under section 89 or 90.[^c-546f981205a6de7e088627707cf4ce80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-546f981205a6de7e088627707cf4ce80]: Textual amendment: S. 90A repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(g)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/g), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-546f981205a6de7e088627707cf4ce80]: Textual amendment: S. 90A repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(g)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/g), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))

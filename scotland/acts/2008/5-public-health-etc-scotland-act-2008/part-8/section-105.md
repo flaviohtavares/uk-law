@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Fixed penalties for offences under section 95, 98, 100 or 101[^key-e087bbad4f58af8e6c5f0179bef824e5]
+## 105. Fixed penalties for offences under section 95, 98, 100 or 101[^c-e087bbad4f58af8e6c5f0179bef824e5]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ is sufficient evidence of the facts stated.
 
 ## Annotations
 
-[^key-e087bbad4f58af8e6c5f0179bef824e5]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2008/5/section/105) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-e087bbad4f58af8e6c5f0179bef824e5]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2008/5/section/105) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

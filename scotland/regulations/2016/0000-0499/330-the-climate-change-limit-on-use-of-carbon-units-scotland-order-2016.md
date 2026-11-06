@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change
 
-The Climate Change (Limit on Use of Carbon Units) (Scotland) Order 2016 (revoked)[^key-c99cd39bcba9efc40888a4e59329f716]
+The Climate Change (Limit on Use of Carbon Units) (Scotland) Order 2016 (revoked)[^c-c99cd39bcba9efc40888a4e59329f716]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into force
 
 28th October 2016
 
-[^key-c99cd39bcba9efc40888a4e59329f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c99cd39bcba9efc40888a4e59329f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c99cd39bcba9efc40888a4e59329f716]
+## 1. Citation and commencement[^c-c99cd39bcba9efc40888a4e59329f716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c99cd39bcba9efc40888a4e59329f716]
+## 2. Interpretation[^c-c99cd39bcba9efc40888a4e59329f716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Limit on use of carbon units for the period 2018-2022[^key-c99cd39bcba9efc40888a4e59329f716]
+## 3. Limit on use of carbon units for the period 2018-2022[^c-c99cd39bcba9efc40888a4e59329f716]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c99cd39bcba9efc40888a4e59329f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c99cd39bcba9efc40888a4e59329f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c99cd39bcba9efc40888a4e59329f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c99cd39bcba9efc40888a4e59329f716]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c99cd39bcba9efc40888a4e59329f716]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/330) revoked (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 15(4)(c)](https://www.legislation.gov.uk/asp/2019/15/section/15/4/c), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-c99cd39bcba9efc40888a4e59329f716]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/330) revoked (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 15(4)(c)](https://www.legislation.gov.uk/asp/2019/15/section/15/4/c), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

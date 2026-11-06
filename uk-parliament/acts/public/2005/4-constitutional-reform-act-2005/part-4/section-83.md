@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Exercise of powers to reject or require reconsideration[^key-1d42334cedaf3026703fe2d30631cff0]
+## 83. Exercise of powers to reject or require reconsideration[^c-1d42334cedaf3026703fe2d30631cff0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d42334cedaf3026703fe2d30631cff0]: Textual amendment: [Ss. 80-84](https://www.legislation.gov.uk/ukpga/2005/4/section/80) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 53(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/53/2/c); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-1d42334cedaf3026703fe2d30631cff0]: Textual amendment: [Ss. 80-84](https://www.legislation.gov.uk/ukpga/2005/4/section/80) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 53(2)(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/53/2/c); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

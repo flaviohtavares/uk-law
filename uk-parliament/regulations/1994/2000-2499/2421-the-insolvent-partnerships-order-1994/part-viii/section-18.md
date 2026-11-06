@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Application of subordinate legislation[^key-7b142208be4c7e131cbcabdfcc9e794a][^key-da01638c194f9fc176ed7832cc357da5]
+## 18. Application of subordinate legislation[^c-7b142208be4c7e131cbcabdfcc9e794a][^c-da01638c194f9fc176ed7832cc357da5]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b142208be4c7e131cbcabdfcc9e794a]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/1994/2421/article/18) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-7b142208be4c7e131cbcabdfcc9e794a]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/1994/2421/article/18) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-da01638c194f9fc176ed7832cc357da5]: Modification: [Art. 18](https://www.legislation.gov.uk/uksi/1994/2421/article/18) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/9) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended ([4](https://www.legislation.gov.uk/uksi/2021/716/regulation/4).[1](https://www.legislation.gov.uk/uksi/2021/716/regulation/1).[2024](https://www.legislation.gov.uk/uksi/2021/716/regulation/2024)) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-da01638c194f9fc176ed7832cc357da5]: Modification: [Art. 18](https://www.legislation.gov.uk/uksi/1994/2421/article/18) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/9) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended ([4](https://www.legislation.gov.uk/uksi/2021/716/regulation/4).[1](https://www.legislation.gov.uk/uksi/2021/716/regulation/1).[2024](https://www.legislation.gov.uk/uksi/2021/716/regulation/2024)) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))

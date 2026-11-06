@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54.[^key-ba08aab784d9e31ae5c86d7da659c34c]
+## 54.[^c-ba08aab784d9e31ae5c86d7da659c34c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 25 (orders for securing compliance), in subsection (8)—
 
 ## Annotations
 
-[^key-ba08aab784d9e31ae5c86d7da659c34c]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ba08aab784d9e31ae5c86d7da659c34c]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

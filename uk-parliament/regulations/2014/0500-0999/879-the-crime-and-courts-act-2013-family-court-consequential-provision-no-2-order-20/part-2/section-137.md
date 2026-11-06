@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**137.**[^key-3c7819879ef0717b38307fd90fb4b7d0] Omit paragraph 1(3).
+**137.**[^c-3c7819879ef0717b38307fd90fb4b7d0] Omit paragraph 1(3).
 
 ## Annotations
 
-[^key-3c7819879ef0717b38307fd90fb4b7d0]: Commencement: Art. 137 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-3c7819879ef0717b38307fd90fb4b7d0]: Commencement: Art. 137 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

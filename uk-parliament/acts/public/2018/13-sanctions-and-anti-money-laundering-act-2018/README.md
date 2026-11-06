@@ -38,11 +38,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### PART 1 — Sanctions regulations[^key-c586c72b2628e63a17ba496d6d5a231d]
+### PART 1 — Sanctions regulations[^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Power to make sanctions regulations[^key-c586c72b2628e63a17ba496d6d5a231d]
+#### CHAPTER 1 — Power to make sanctions regulations[^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,7 +125,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 39 — Court reviews: further provision](part-1/section-39.md)
 - [Section 40 — Rules of court](part-1/section-40.md)
 
-#### CHAPTER 5 — Miscellaneous[^key-c586c72b2628e63a17ba496d6d5a231d]
+#### CHAPTER 5 — Miscellaneous[^c-c586c72b2628e63a17ba496d6d5a231d]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,7 +144,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 50 — Reports on progress towards register of beneficial owners of overseas entities](part-2/section-50.md)
 - [Section 51 — Public registers of beneficial ownership of companies registered in British Overseas Territories](part-2/section-51.md)
 
-### PART 3 — General[^key-ffdf5e1e6c266e56d8df6e78b73856f6]
+### PART 3 — General[^c-ffdf5e1e6c266e56d8df6e78b73856f6]
 
 #### Supplementary
 
@@ -177,6 +177,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-c586c72b2628e63a17ba496d6d5a231d]: Modification: Pt. 1: power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-ffdf5e1e6c266e56d8df6e78b73856f6]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2018/13/part/3): power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-ffdf5e1e6c266e56d8df6e78b73856f6]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2018/13/part/3): power to amend conferred (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 66(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/66/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

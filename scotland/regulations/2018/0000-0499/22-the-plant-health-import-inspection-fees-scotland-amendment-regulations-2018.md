@@ -52,7 +52,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014[^key-fbc76789cde24292abda261f7a075db2]
+## 2. Amendment of the Plant Health (Import Inspection Fees) (Scotland) Regulations 2014[^c-fbc76789cde24292abda261f7a075db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -111,6 +111,6 @@ TABLE
 
 [^c22963931]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the [Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. 1999/1820)](https://www.legislation.gov.uk/uksi/1999/1820) and the functions of the Minister transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain the consent of the Treasury was removed by section 55 of the Scotland Act 1998. Section 56(1) was amended by article 6(1)(e) of the [Treaty of Lisbon (Changes of Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-fbc76789cde24292abda261f7a075db2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2018/22/regulation/2) revoked (29.3.2019) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/28)](https://www.legislation.gov.uk/ssi/2019/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/28/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2019/28/regulation/3)
+[^c-fbc76789cde24292abda261f7a075db2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2018/22/regulation/2) revoked (29.3.2019) by [The Plant Health (Import Inspection Fees) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/28)](https://www.legislation.gov.uk/ssi/2019/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/28/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2019/28/regulation/3)
 
 [^c22963951]: Marginal citation: [S.S.I. 2017/6](https://www.legislation.gov.uk/ssi/2017/6).

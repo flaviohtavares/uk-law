@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Default scheme[^key-faf29f48678eb927ef03c066da0d7fc7]
+## 2. Default scheme[^c-faf29f48678eb927ef03c066da0d7fc7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The scheme set out in the Schedule to these Regulations is the scheme prescribed
 
 ## Annotations
 
-[^key-faf29f48678eb927ef03c066da0d7fc7]: Commencement: Reg. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3035/regulation/1/2)
+[^c-faf29f48678eb927ef03c066da0d7fc7]: Commencement: Reg. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3035/regulation/1/2)

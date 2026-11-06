@@ -22,166 +22,166 @@ summary: ''
 
 Section 47.
 
-### Part I (affected by repeal, see note) — The Agricultural Wages Act 1948 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c][^key-150a24ba21adab85f237d1794744769c]
+### Part I (affected by repeal, see note) — The Agricultural Wages Act 1948 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c][^c-150a24ba21adab85f237d1794744769c]
 
 **May not be in force at this date. Check the source.**
 
-**1.** The Agricultural Wages Act 1948 shall be amended in accordance with this Part of this Schedule. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+**1.** The Agricultural Wages Act 1948 shall be amended in accordance with this Part of this Schedule. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-#### Section 3 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Section 3 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
 **May not be in force at this date. Check the source.**
 
 **2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Enforcement (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Enforcement (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
 **No longer in force.**
 
-**3.**[^M_I_2e71359a-f367-4183-acec-73a5fdd4ed30] (1) After section 3 there shall be inserted— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+**3.**[^M_I_2e71359a-f367-4183-acec-73a5fdd4ed30] (1) After section 3 there shall be inserted— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-> **3A. Enforcement. (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]**
+> **3A. Enforcement. (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]**
 >
-> (1) The enforcement provisions of the National Minimum Wage Act 1998 shall have effect for the purposes of this Act as they have effect for the purposes of that Act, but with the modifications specified in subsections (3) and (4) of this section. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (1) The enforcement provisions of the National Minimum Wage Act 1998 shall have effect for the purposes of this Act as they have effect for the purposes of that Act, but with the modifications specified in subsections (3) and (4) of this section. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (2) In subsection (1) of this section “the enforcement provisions of the National Minimum Wage Act 1998” means the following provisions of that Act— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (2) In subsection (1) of this section “the enforcement provisions of the National Minimum Wage Act 1998” means the following provisions of that Act— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> - (a) sections 9 to 11 (records); *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) section 14 (powers of officers); *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (c) sections 17 and 19 to 22 (enforcement of right to national minimum wage); *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (d) sections 23 and 24 (right not to suffer detriment); *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (e) sections 17 and 19 to 22 (enforcement of right to national minimum wage); *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (f) sections 31 to 33 (offences); and *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (g) section 49 (restriction on contracting out). *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> - (a) sections 9 to 11 (records); *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) section 14 (powers of officers); *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (c) sections 17 and 19 to 22 (enforcement of right to national minimum wage); *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (d) sections 23 and 24 (right not to suffer detriment); *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (e) sections 17 and 19 to 22 (enforcement of right to national minimum wage); *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (f) sections 31 to 33 (offences); and *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (g) section 49 (restriction on contracting out). *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (3) In the application of any provision of the National Minimum Wage Act 1998 by subsection (1) of this section— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (3) In the application of any provision of the National Minimum Wage Act 1998 by subsection (1) of this section— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> - (a) any reference to that Act, other than a reference to a specific provision of it, includes a reference to this Act; *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) any reference to a worker (within the meaning of that Act) shall be taken as a reference to a worker employed in agriculture (within the meaning of this Act); *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (c) any reference to a person (however described) who qualifies for the national minimum wage shall be taken as a reference to a worker employed in agriculture; *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (d) subject to paragraph (c) of this subsection, any reference to the national minimum wage, other than a reference to the hourly amount of the national minimum wage, shall be taken as a reference to the minimum rate applicable under this Act; *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (e) subject to paragraph (c) of this subsection, any reference to qualifying for the national minimum wage shall be taken as a reference to being entitled to the minimum rate applicable under this Act; *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (f) any reference to a pay reference period shall be disregarded. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> - (a) any reference to that Act, other than a reference to a specific provision of it, includes a reference to this Act; *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) any reference to a worker (within the meaning of that Act) shall be taken as a reference to a worker employed in agriculture (within the meaning of this Act); *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (c) any reference to a person (however described) who qualifies for the national minimum wage shall be taken as a reference to a worker employed in agriculture; *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (d) subject to paragraph (c) of this subsection, any reference to the national minimum wage, other than a reference to the hourly amount of the national minimum wage, shall be taken as a reference to the minimum rate applicable under this Act; *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (e) subject to paragraph (c) of this subsection, any reference to qualifying for the national minimum wage shall be taken as a reference to being entitled to the minimum rate applicable under this Act; *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (f) any reference to a pay reference period shall be disregarded. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (4) In the application of section 33 of the National Minimum Wage Act 1998 (proceedings for offences) by subsection (1) of this section, any reference to the Secretary of State shall be taken to include a reference to the Minister of Agriculture, Fisheries and Food. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (4) In the application of section 33 of the National Minimum Wage Act 1998 (proceedings for offences) by subsection (1) of this section, any reference to the Secretary of State shall be taken to include a reference to the Minister of Agriculture, Fisheries and Food. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (5) In section 104A of the M3Employment Rights Act 1996 (unfair dismissal: national minimum wage) in subsection (1)(c)— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (5) In section 104A of the M3Employment Rights Act 1996 (unfair dismissal: national minimum wage) in subsection (1)(c)— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> - (a) any reference to a person qualifying for the national minimum wage includes a reference to a person being or becoming entitled to a minimum rate applicable under this Act; and *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) any reference to a person qualifying for a particular rate of national minimum wage includes a reference to a person being or becoming entitled to a particular minimum rate applicable under this Act. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> - (a) any reference to a person qualifying for the national minimum wage includes a reference to a person being or becoming entitled to a minimum rate applicable under this Act; and *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) any reference to a person qualifying for a particular rate of national minimum wage includes a reference to a person being or becoming entitled to a particular minimum rate applicable under this Act. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-#### Section 4 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Section 4 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
 **4.** (1)[^M_F_28526060-8f5b-487e-8bd9-a77c592ddca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In consequence of sub-paragraph (1) above, the sidenote to section 4 becomes “Enforcement of holidays orders”. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+(2) In consequence of sub-paragraph (1) above, the sidenote to section 4 becomes “Enforcement of holidays orders”. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-#### Section 5 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Section 5 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
 **May not be in force at this date. Check the source.**
 
-**5.** (1) Section 5 (permits to incapacitated persons) shall be amended as follows. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+**5.** (1) Section 5 (permits to incapacitated persons) shall be amended as follows. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-(2) In subsection (1)— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+(2) In subsection (1)— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-- (a) for “the last preceding section relating to payment of wages at not less than the minimum rate” there shall be substituted “ subsection (1) of section 31 of the National Minimum Wage Act 1998 as it applies for the purposes of this Act (offence of refusing or wilfully neglecting to pay worker at applicable rate) ”; and *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-- (b) for “any legal proceedings under the last preceding section for failing” there shall be substituted “ any legal proceedings under that subsection, as it so applies, for refusing or wilfully neglecting ”. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+- (a) for “the last preceding section relating to payment of wages at not less than the minimum rate” there shall be substituted “ subsection (1) of section 31 of the National Minimum Wage Act 1998 as it applies for the purposes of this Act (offence of refusing or wilfully neglecting to pay worker at applicable rate) ”; and *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+- (b) for “any legal proceedings under the last preceding section for failing” there shall be substituted “ any legal proceedings under that subsection, as it so applies, for refusing or wilfully neglecting ”. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-(3) After subsection (1) there shall be inserted— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+(3) After subsection (1) there shall be inserted— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-> (1A) Every permit under subsection (1) of this section (whenever granted) shall be deemed to contain a condition that the worker to whom it is granted must at any time be paid at a rate which— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (1A) Every permit under subsection (1) of this section (whenever granted) shall be deemed to contain a condition that the worker to whom it is granted must at any time be paid at a rate which— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> - (a) in the case of an hourly rate, is not less than the national minimum wage in force at that time; or *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) in the case of a rate other than an hourly rate, is such as to yield an amount of wages for each hour worked which is not less than the hourly amount of the national minimum wage in force at that time. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> - (a) in the case of an hourly rate, is not less than the national minimum wage in force at that time; or *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) in the case of a rate other than an hourly rate, is such as to yield an amount of wages for each hour worked which is not less than the hourly amount of the national minimum wage in force at that time. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (1B) The condition which a permit is deemed to contain by virtue of subsection (1A) of this section— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (1B) The condition which a permit is deemed to contain by virtue of subsection (1A) of this section— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> - (a) overrides any other condition which the permit contains as to payment of wages, to the extent that that other condition provides for payment of wages at any time at a lower rate; but *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) is without prejudice to any other condition which the permit contains as to payment of wages, to the extent that that other condition provides for payment of wages at any time at a higher rate *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> - (a) overrides any other condition which the permit contains as to payment of wages, to the extent that that other condition provides for payment of wages at any time at a lower rate; but *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) is without prejudice to any other condition which the permit contains as to payment of wages, to the extent that that other condition provides for payment of wages at any time at a higher rate *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-(4) In subsection (2)— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+(4) In subsection (2)— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-- (a) for “the preceding subsection” there shall be substituted “ subsection (1) of this section ”; and *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-- (b) for “any legal proceedings under the last preceding section for failing” there shall be substituted “ any legal proceedings under section 31(1) of the National Minimum Wage Act 1998, as it applies for the purposes of this Act, for refusing or wilfully neglecting ”. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+- (a) for “the preceding subsection” there shall be substituted “ subsection (1) of this section ”; and *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+- (b) for “any legal proceedings under the last preceding section for failing” there shall be substituted “ any legal proceedings under section 31(1) of the National Minimum Wage Act 1998, as it applies for the purposes of this Act, for refusing or wilfully neglecting ”. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-#### Section 11 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Section 11 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
 **6.**[^M_F_584222ee-8986-4adb-dca4-42c59e6863cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 12 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Section 12 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
-**7.** (1) Section 12 (officers) shall be amended as follows. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+**7.** (1) Section 12 (officers) shall be amended as follows. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
 (2)[^M_F_cc55f308-7cb0-4cdd-a774-98a5b6d04727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) At the end of the section there shall be added— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+(3) At the end of the section there shall be added— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-> (8) The powers conferred by subsections (3) and (4) of this section are not exercisable in any case where corresponding or similar powers conferred by any of the enforcement provisions of the National Minimum Wage Act 1998, as they have effect for the purposes of this Act, are exercisable by virtue of section 3A of this Act *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (8) The powers conferred by subsections (3) and (4) of this section are not exercisable in any case where corresponding or similar powers conferred by any of the enforcement provisions of the National Minimum Wage Act 1998, as they have effect for the purposes of this Act, are exercisable by virtue of section 3A of this Act *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (9) In subsection (8) of this section, “the enforcement provisions of the National Minimum Wage Act 1998” has the same meaning as in subsection (1) of section 3A of this Act *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (9) In subsection (8) of this section, “the enforcement provisions of the National Minimum Wage Act 1998” has the same meaning as in subsection (1) of section 3A of this Act *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-#### Information obtained by national minimum wage officers (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
-
-**May not be in force at this date. Check the source.**
-
-**8.** After section 15 there shall be inserted— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-
-> **15A. Information obtained by national minimum wage officers. (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]**
->
-> (1) This section applies to information which has been obtained by an officer acting for the purposes of the National Minimum Wage Act 1998 *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> (2) This section does not apply to any information to the extent that the information relates to— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> - (a) any failure to allow holidays directed to be allowed by an order under section 3 of this Act; or *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) any terms and conditions of employment fixed by such an order by virtue of subsection (1)(c) of that section. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> (3) Information to which this section applies may, with the authority of the Secretary of State, be supplied to the relevant Minister for use for any purpose relating to this Act. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> (4) Information supplied under subsection (3) of this section shall not be supplied by the recipient to any other person or body unless— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> - (a) it could be supplied to that person or body under that subsection; or *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) it is supplied for the purposes of any civil or criminal proceedings relating to this Act; *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> and shall not be supplied in those circumstances without the authority of the Secretary of State. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> (5) This section does not limit the circumstances in which information may be supplied or used apart from this section. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> (6) In this section “the relevant Minister” means— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
->
-> - (a) in relation to England, the Minister of Agriculture, Fisheries and Food; and *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) in relation to Wales, the Minister of the Crown with the function of appointing officers under section 12 of this Act in relation to Wales. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-
-#### Section 17 (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Information obtained by national minimum wage officers (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
 **May not be in force at this date. Check the source.**
 
-**9.** (1) Section 17 (interpretation) shall be amended as follows. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+**8.** After section 15 there shall be inserted— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-(2) In subsection (1) the following definition shall be inserted at the appropriate place— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-
-> - “the national minimum wage” means the single hourly rate for the time being in force by virtue of regulations under section 1(3) of the National Minimum Wage Act 1998, but this definition is subject to subsection (1A) of this section; *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-
-(3) After subsection (1) there shall be inserted— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-
-> (1A) If, in the case of persons of any description, regulations under subsection (2) of section 3 of the National Minimum Wage Act 1998— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> **15A. Information obtained by national minimum wage officers. (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]**
 >
-> - (a) prevent them being persons who (within the meaning of that Act) qualify for the national minimum wage, or *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) prescribe a rate (“the reduced rate”) for the national minimum wage other than the single hourly rate for the time being prescribed under section 1(3) of that Act, *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (1) This section applies to information which has been obtained by an officer acting for the purposes of the National Minimum Wage Act 1998 *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (b)prescribe a rate (“the reduced rate”) for the national minimum wage other than the single hourly rate for the time being prescribed under section 1(3) of that Act, this Act shall have effect in relation to persons of that description as if in a case falling within paragraph (a) above the national minimum wage were nil and in a case falling within paragraph (b) above the national minimum wage were the reduced rate. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (2) This section does not apply to any information to the extent that the information relates to— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> - (a) any failure to allow holidays directed to be allowed by an order under section 3 of this Act; or *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) any terms and conditions of employment fixed by such an order by virtue of subsection (1)(c) of that section. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> (3) Information to which this section applies may, with the authority of the Secretary of State, be supplied to the relevant Minister for use for any purpose relating to this Act. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> (4) Information supplied under subsection (3) of this section shall not be supplied by the recipient to any other person or body unless— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> - (a) it could be supplied to that person or body under that subsection; or *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) it is supplied for the purposes of any civil or criminal proceedings relating to this Act; *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> and shall not be supplied in those circumstances without the authority of the Secretary of State. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> (5) This section does not limit the circumstances in which information may be supplied or used apart from this section. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> (6) In this section “the relevant Minister” means— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> - (a) in relation to England, the Minister of Agriculture, Fisheries and Food; and *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) in relation to Wales, the Minister of the Crown with the function of appointing officers under section 12 of this Act in relation to Wales. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
-#### Relationship between the national minimum wage and agricultural wages legislation (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]
+#### Section 17 (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
 
-**10.** After section 17 there shall be inserted— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+**May not be in force at this date. Check the source.**
 
-> **17A. Relationship between this Act and the National Minimum Wage Act 1998. (affected by repeal, see note)[^key-150a24ba21adab85f237d1794744769c]**
+**9.** (1) Section 17 (interpretation) shall be amended as follows. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+
+(2) In subsection (1) the following definition shall be inserted at the appropriate place— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+
+> - “the national minimum wage” means the single hourly rate for the time being in force by virtue of regulations under section 1(3) of the National Minimum Wage Act 1998, but this definition is subject to subsection (1A) of this section; *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+
+(3) After subsection (1) there shall be inserted— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+
+> (1A) If, in the case of persons of any description, regulations under subsection (2) of section 3 of the National Minimum Wage Act 1998— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (1) Except so far as expressly provided by this Act, nothing in the National Minimum Wage Act 1998 or in regulations made under that Act affects the operation of this Act. *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> - (a) prevent them being persons who (within the meaning of that Act) qualify for the national minimum wage, or *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) prescribe a rate (“the reduced rate”) for the national minimum wage other than the single hourly rate for the time being prescribed under section 1(3) of that Act, *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 >
-> (2) This Act is subject to— *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (b)prescribe a rate (“the reduced rate”) for the national minimum wage other than the single hourly rate for the time being prescribed under section 1(3) of that Act, this Act shall have effect in relation to persons of that description as if in a case falling within paragraph (a) above the national minimum wage were nil and in a case falling within paragraph (b) above the national minimum wage were the reduced rate. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+
+#### Relationship between the national minimum wage and agricultural wages legislation (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]
+
+**10.** After section 17 there shall be inserted— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+
+> **17A. Relationship between this Act and the National Minimum Wage Act 1998. (affected by repeal, see note)[^c-150a24ba21adab85f237d1794744769c]**
 >
-> - (a) section 46 of the National Minimum Wage Act 1998; and *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
-> - (b) section 47 of that Act and any regulations made under that section *(affected by repeal, see note)*[^key-150a24ba21adab85f237d1794744769c]
+> (1) Except so far as expressly provided by this Act, nothing in the National Minimum Wage Act 1998 or in regulations made under that Act affects the operation of this Act. *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> (2) This Act is subject to— *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+>
+> - (a) section 46 of the National Minimum Wage Act 1998; and *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
+> - (b) section 47 of that Act and any regulations made under that section *(affected by repeal, see note)*[^c-150a24ba21adab85f237d1794744769c]
 
 ### Part II — The Agricultural Wages (Scotland) Act 1949
 
@@ -276,7 +276,7 @@ Section 47.
 
 #### Section 5
 
-**15.**[^key-46975927d3e609cd7ca0ec6e930680c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-46975927d3e609cd7ca0ec6e930680c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 11
 
@@ -428,7 +428,7 @@ Section 47.
 
 #### Article 6
 
-**25.**[^key-3cc8e683f3f6f28d244622bd0f8933a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-3cc8e683f3f6f28d244622bd0f8933a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement
 
@@ -488,7 +488,7 @@ Section 47.
 
 ## Annotations
 
-[^key-150a24ba21adab85f237d1794744769c]: Textual amendment: Sch. 2 Pt. I repealed (25.6.2013 for the purpose of the repeal of Sch. 2 para. 2, 1.10.2013 for E. in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4))
+[^c-150a24ba21adab85f237d1794744769c]: Textual amendment: Sch. 2 Pt. I repealed (25.6.2013 for the purpose of the repeal of Sch. 2 para. 2, 1.10.2013 for E. in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4))
 
 [^M_I_2e71359a-f367-4183-acec-73a5fdd4ed30]: Commencement: Sch. 2 para. 3 partly in force; para. 3 not in force at Royal Assent, see s. 56(2); para. 3 (except the specified reference) in force at 1.4.1999 by [S.I. 1999/685](https://www.legislation.gov.uk/uksi/1999/685), [art. 2](https://www.legislation.gov.uk/uksi/1999/685/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/685/schedule)
 
@@ -506,11 +506,11 @@ Section 47.
 
 [^c9532881]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-46975927d3e609cd7ca0ec6e930680c1]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/paragraph/15) repealed (S.) (1.10.2004) by [The Agricultural Wages (Permits to Infirm and Incapacitated Persons) (Repeals) (Scotland) Regulations 2004 (S.S.I. 2004/384)](https://www.legislation.gov.uk/ssi/2004/384), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/384/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2004/384/schedule)
+[^c-46975927d3e609cd7ca0ec6e930680c1]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/paragraph/15) repealed (S.) (1.10.2004) by [The Agricultural Wages (Permits to Infirm and Incapacitated Persons) (Repeals) (Scotland) Regulations 2004 (S.S.I. 2004/384)](https://www.legislation.gov.uk/ssi/2004/384), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/384/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2004/384/schedule)
 
 [^c9532891]: Marginal citation: [S.I. 1977/2151 (N.I.22)](https://www.legislation.gov.uk/nisi/1977/2151).
 
-[^key-3cc8e683f3f6f28d244622bd0f8933a6]: Textual amendment: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/paragraph/25) repealed (N.I.) (1.12.2006) by [The Agricultural Wages (Abolition of Permits to Infirm and Incapacitated Persons) Regulations (Northern Ireland) 2006 (S.R. 2006/429)](https://www.legislation.gov.uk/nisr/2006/429), [reg. 1](https://www.legislation.gov.uk/nisr/2006/429/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/429/schedule)
+[^c-3cc8e683f3f6f28d244622bd0f8933a6]: Textual amendment: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/paragraph/25) repealed (N.I.) (1.12.2006) by [The Agricultural Wages (Abolition of Permits to Infirm and Incapacitated Persons) Regulations (Northern Ireland) 2006 (S.R. 2006/429)](https://www.legislation.gov.uk/nisr/2006/429), [reg. 1](https://www.legislation.gov.uk/nisr/2006/429/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/429/schedule)
 
 [^c9532901]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/paragraph/26) partly in force; [para. 26](https://www.legislation.gov.uk/ukpga/1998/39/paragraph/26) not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/1998/39/section/56/2); [para. 26](https://www.legislation.gov.uk/ukpga/1998/39/paragraph/26) (except the reference mentioned in the Sch. of the commencing S.I.) in force at 1.4.1999 by [S.I. 1999/685](https://www.legislation.gov.uk/uksi/1999/685), [art. 2](https://www.legislation.gov.uk/uksi/1999/685/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/685/schedule)
 

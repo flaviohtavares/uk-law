@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**9.**[^key-af45af78a9b2ea53a60b4da0b38a6a99] (1) Where a governing body propose to federate with one or more other governing bodies and, where necessary, preliminary consent has been given, they must jointly with the other governing body or bodies publish proposals for federation.
+**9.**[^c-af45af78a9b2ea53a60b4da0b38a6a99] (1) Where a governing body propose to federate with one or more other governing bodies and, where necessary, preliminary consent has been given, they must jointly with the other governing body or bodies publish proposals for federation.
 
 (2) The proposals must contain the following—
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af45af78a9b2ea53a60b4da0b38a6a99]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1035/regulation/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-af45af78a9b2ea53a60b4da0b38a6a99]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1035/regulation/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

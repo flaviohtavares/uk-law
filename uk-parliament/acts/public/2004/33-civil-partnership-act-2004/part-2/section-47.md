@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Refusal of dissolution in 5 year separation cases on ground of grave hardship[^key-cb9dbfbd42b754efb7f18b52400fd6d5]
+## 47. Refusal of dissolution in 5 year separation cases on ground of grave hardship[^c-cb9dbfbd42b754efb7f18b52400fd6d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb9dbfbd42b754efb7f18b52400fd6d5]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/2004/33/section/47) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/40) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-cb9dbfbd42b754efb7f18b52400fd6d5]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/2004/33/section/47) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/40) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

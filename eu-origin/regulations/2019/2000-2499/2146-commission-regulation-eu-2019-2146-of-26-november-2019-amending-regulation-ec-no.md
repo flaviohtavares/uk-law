@@ -35,22 +35,22 @@ amending Regulation (EC) No 1099/2008 of the European Parliament and of the Coun
 
 (Text with EEA relevance) (revoked)
 
-[^key-473235c89535386d46774782045f2222]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-473235c89535386d46774782045f2222]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-473235c89535386d46774782045f2222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-473235c89535386d46774782045f2222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-473235c89535386d46774782045f2222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-473235c89535386d46774782045f2222] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-473235c89535386d46774782045f2222]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-473235c89535386d46774782045f2222]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-473235c89535386d46774782045f2222]
+## ANNEX[^c-473235c89535386d46774782045f2222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-473235c89535386d46774782045f2222]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 118](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/118)
+[^c-473235c89535386d46774782045f2222]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 118](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/118)

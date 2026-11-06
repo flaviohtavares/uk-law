@@ -51,7 +51,7 @@ In accordance with section 7(4) of the Building Safety Act 2022, the Secretary o
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-fa2b0d6af84cf77b05438ba3948822ad]
+### 1. Citation, commencement, extent and application[^c-fa2b0d6af84cf77b05438ba3948822ad]
 
 (1) These Regulations may be cited as the Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023.
 
@@ -59,7 +59,7 @@ In accordance with section 7(4) of the Building Safety Act 2022, the Secretary o
 
 (3) These Regulations extend to England and Wales and apply to England only.
 
-### 2. Interpretation[^key-1ba49ea7e0d16db01e01aa630ac79dee]
+### 2. Interpretation[^c-1ba49ea7e0d16db01e01aa630ac79dee]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 
 ## PART 2 — Higher-Risk Buildings
 
-### 3. Building assessment certificates[^key-d356a825592d5c329c02ee32f275d06a]
+### 3. Building assessment certificates[^c-d356a825592d5c329c02ee32f275d06a]
 
 (1) The information about the mandatory occurrence reporting system prescribed for the purposes of section 80(1)(b) of the 2022 Act is information, whether contained in the safety case report or not, which demonstrates compliance with section 87(5) of the 2022 Act.
 
@@ -111,7 +111,7 @@ In these Regulations—
 
 (9) The form of a notice prescribed for the purposes of section 82(1)(a) of the 2022 Act is that the notice is in writing and legible when displayed.
 
-### 4. Management of building safety risks: prescribed principles[^key-b66aab268a2349280662858df6dd12b4]
+### 4. Management of building safety risks: prescribed principles[^c-b66aab268a2349280662858df6dd12b4]
 
 (1) The principles prescribed for the purposes of section 84(3) of the 2022 Act are to—
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 (3) An individual who is in training is deemed to have the relevant competence for a function if that individual is adequately supervised by a person with the relevant competence when performing the function.
 
-### 5. Safety case reports[^key-eb02e91886af22b0918f293ffc7c49e3]
+### 5. Safety case reports[^c-eb02e91886af22b0918f293ffc7c49e3]
 
 (1) A PAP must include the following information in a safety case report[^f00008]—
 
@@ -160,7 +160,7 @@ In these Regulations—
 
 (5) The regulator must publish a direction under paragraph (4) on its website and make it available for inspection at its principal offices during normal office hours.
 
-### 6. Mandatory reporting requirements[^key-5cae7a0ccdd78a4dd98e15dd8e85479b]
+### 6. Mandatory reporting requirements[^c-5cae7a0ccdd78a4dd98e15dd8e85479b]
 
 (1) The circumstances prescribed for the purposes of section 87(1) of the 2022 Act are that a safety occurrence has taken place in the part of the building for which the AP is responsible.
 
@@ -201,7 +201,7 @@ In these Regulations—
 - “**safety occurrence**” means an incident or situation relating to the structural integrity of, or spread of fire in, a higher-risk building that meets the risk condition;
 - “the risk condition” is met in relation to a part of a building if the use of that part of the building without the incident or situation being remedied would be likely to present a risk of a significant number of deaths, or serious injury to a significant number of people.
 
-### 7. Keeping of information and documents[^key-d9849c7bc5b03db7c39010423fb86eec]
+### 7. Keeping of information and documents[^c-d9849c7bc5b03db7c39010423fb86eec]
 
 (1) The standards prescribed for the keeping of information under section 88(1) of the 2022 Act are that the information—
 
@@ -219,7 +219,7 @@ In these Regulations—
 - (c) are secure from unauthorised access; and
 - (d) are only changed in accordance with procedures which record the person who made the change and the date of that change.
 
-### 8. Provision of information to the regulator, residents etc[^key-91a2bd1e5299ab745dfbd9f2588daf71]
+### 8. Provision of information to the regulator, residents etc[^c-91a2bd1e5299ab745dfbd9f2588daf71]
 
 (1) For the purposes of section 89(2)(a) of the 2022 Act, an AP must give information and copies of documents prescribed under section 89(1) of that Act to the persons specified in section 89(1)(a) or (b) or (subject to paragraph (2)), prescribed by regulations made under paragraph (e) of that subsection, as soon as reasonably practicable after the information or document has been created or updated, or where there is a requirement for the recipient to request the information or document, as soon as reasonably practicable after the request is made.
 
@@ -270,7 +270,7 @@ In these Regulations—
 
 (10) The obligation in paragraph (9)(c) to display prescribed information is without prejudice to the obligation to give prescribed information specified in that sub-paragraph to residents of the building in accordance with section 29 of the 2022 Act.
 
-### 9. Provision of information etc on changes in AP[^key-22e729af0fd1607e3a667dc69bc01bc8]
+### 9. Provision of information etc on changes in AP[^c-22e729af0fd1607e3a667dc69bc01bc8]
 
 (1) For the purposes of section 90(3)(a) of the 2022 Act, information and copies of documents prescribed under section 90(2) of the 2022 Act must be given as soon as reasonably practicable after the relevant time[^f00012].
 
@@ -291,7 +291,7 @@ In these Regulations—
 
 (5) The regulator must publish a direction under paragraph (4) on its website and make it available for inspection at its principal offices during normal office hours.
 
-### 10. Residents’ engagement strategy[^key-dd015e4b75ce8d755f91ceb1545972f7]
+### 10. Residents’ engagement strategy[^c-dd015e4b75ce8d755f91ceb1545972f7]
 
 (1) For the purposes of section 91(1)(b) of the 2022 Act, the PAP must review the residents’ engagement strategy[^f00014]—
 
@@ -335,14 +335,14 @@ In these Regulations—
 - (b) involve the taking of reasonable steps to ensure that any relevant person likely to be affected by the matter to which the consultation relates is aware of the consultation;
 - (c) be for a reasonable period, and in the case of a consultation on the residents’ engagement strategy, for a period of no less than 3 weeks.
 
-### 11. Requests for further information[^key-cb5af0baeb6ad7324366f09a86bbb57b]
+### 11. Requests for further information[^c-cb5af0baeb6ad7324366f09a86bbb57b]
 
 For the purposes of section 92(3) of the 2022 Act the AP must provide information or copies of documents requested—
 
 - (a) in writing; and
 - (b) in a form which allows the recipients to understand the content and aims of the information or document given, including where reasonable to do so, explanations of technical language used, or with plain English summaries of complex or technical provisions.
 
-### 12. PAP complaints procedures[^key-6b810fd0dd4844d716ed852a0298aecc]
+### 12. PAP complaints procedures[^c-6b810fd0dd4844d716ed852a0298aecc]
 
 (1) The complaints system established by a PAP under section 93 of the 2022 Act (“**the system**”) must secure the matters specified in the following paragraphs.
 
@@ -404,7 +404,7 @@ For the purposes of section 92(3) of the 2022 Act the AP must provide informatio
 - (c) gives details of any action undertaken;
 - (d) gives details of any action planned, including a timeframe for that action to begin and be completed.
 
-### 13. Contravention notices[^key-b279d684f53fc22c6a56c0e38723410f]
+### 13. Contravention notices[^c-b279d684f53fc22c6a56c0e38723410f]
 
 (1) A contravention notice given under section 96(2) of the 2022 Act must contain—
 
@@ -421,7 +421,7 @@ For the purposes of section 92(3) of the 2022 Act the AP must provide informatio
 - (a) in writing; and
 - (b) in a form which allows the relevant person to understand the content and aims of the notice, including explanations of technical language used, or with plain English summaries of complex or technical provisions.
 
-### 14. Compliance notices[^key-08cd247298129b5cc4fb96dfc52294d0]
+### 14. Compliance notices[^c-08cd247298129b5cc4fb96dfc52294d0]
 
 (1) A compliance notice given under section 99 of the 2022 Act must be in writing and state—
 
@@ -449,7 +449,7 @@ For the purposes of section 92(3) of the 2022 Act the AP must provide informatio
 
 (6) Where the regulator withdraws a compliance notice, it must as soon as reasonably practicable give the recipient of the compliance notice a notice in writing to that effect.
 
-### 15. Appeals against decisions to refuse to remove buildings from the register[^key-a2316d30c49455735de08bb855381529]
+### 15. Appeals against decisions to refuse to remove buildings from the register[^c-a2316d30c49455735de08bb855381529]
 
 (1) A decision to refuse a request under regulation 7(1) of the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023 (request to regulator to remove building from register)[^f00025] is prescribed for the purposes of section 105(1) of the 2022 Act.
 
@@ -463,7 +463,7 @@ For the purposes of section 92(3) of the 2022 Act the AP must provide informatio
 
 ## PART 3 — Minor Amendments
 
-### 16. Amendment of Regulations[^key-d3d700ae5b1fcc509ab01062b61faf6f]
+### 16. Amendment of Regulations[^c-d3d700ae5b1fcc509ab01062b61faf6f]
 
 The Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023 are amended as follows—
 
@@ -548,33 +548,33 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00002]: Footnote: See sections 2 and 115 of the 2022 Act for the definition of “the regulator”.
 
-[^key-fa2b0d6af84cf77b05438ba3948822ad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/907/regulation/1) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-fa2b0d6af84cf77b05438ba3948822ad]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/907/regulation/1) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
-[^key-1ba49ea7e0d16db01e01aa630ac79dee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/907/regulation/2) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-1ba49ea7e0d16db01e01aa630ac79dee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/907/regulation/2) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00003]: Footnote: See section 72 of the 2022 Act for the definition of “accountable person”.
 
 [^f00004]: Footnote: See section 73 of the 2022 Act for the definition of “principal accountable person”.
 
-[^key-d356a825592d5c329c02ee32f275d06a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/907/regulation/3) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-d356a825592d5c329c02ee32f275d06a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/907/regulation/3) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2023/396](https://www.legislation.gov.uk/uksi/2023/396).
 
 [^f00006]: Footnote: See section 81(1)(a) of the 2022 Act for the definition of “building assessment certificate”.
 
-[^key-b66aab268a2349280662858df6dd12b4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/907/regulation/4) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-b66aab268a2349280662858df6dd12b4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/907/regulation/4) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00007]: Footnote: See section 62 of the 2022 Act for the definition of “building safety risk”.
 
-[^key-eb02e91886af22b0918f293ffc7c49e3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/907/regulation/5) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-eb02e91886af22b0918f293ffc7c49e3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/907/regulation/5) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00008]: Footnote: See section 85(1) of the 2022 Act for the definition of “safety case report”.
 
-[^key-5cae7a0ccdd78a4dd98e15dd8e85479b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/907/regulation/6) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-5cae7a0ccdd78a4dd98e15dd8e85479b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/907/regulation/6) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
-[^key-d9849c7bc5b03db7c39010423fb86eec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/907/regulation/7) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-d9849c7bc5b03db7c39010423fb86eec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/907/regulation/7) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
-[^key-91a2bd1e5299ab745dfbd9f2588daf71]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/907/regulation/8) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-91a2bd1e5299ab745dfbd9f2588daf71]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/907/regulation/8) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
 
@@ -582,13 +582,13 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00011]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541).
 
-[^key-22e729af0fd1607e3a667dc69bc01bc8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/907/regulation/9) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-22e729af0fd1607e3a667dc69bc01bc8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/907/regulation/9) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00012]: Footnote: See section 90(1) for the definition of “the relevant time”.
 
 [^f00013]: Footnote: See section 90(1) for the definition of “outgoing person”.
 
-[^key-dd015e4b75ce8d755f91ceb1545972f7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/907/regulation/10) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-dd015e4b75ce8d755f91ceb1545972f7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/907/regulation/10) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00014]: Footnote: See section 91(1)(a) of the 2022 Act for the definition of “residents’ engagement strategy”.
 
@@ -598,21 +598,21 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00017]: Footnote: See section 91(7) of the 2022 Act for the definition of “relevant persons”.
 
-[^key-cb5af0baeb6ad7324366f09a86bbb57b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/907/regulation/11) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-cb5af0baeb6ad7324366f09a86bbb57b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/907/regulation/11) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
-[^key-6b810fd0dd4844d716ed852a0298aecc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/907/regulation/12) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-6b810fd0dd4844d716ed852a0298aecc]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/907/regulation/12) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00018]: Footnote: See section 93(4) of the 2022 Act for a definition of “relevant complaint”.
 
 [^f00019]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-b279d684f53fc22c6a56c0e38723410f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/907/regulation/13) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-b279d684f53fc22c6a56c0e38723410f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/907/regulation/13) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00020]: Footnote: See section 96(10) of the 2022 Act for the definition of “relevant person”.
 
 [^f00021]: Footnote: See section 96(10) of the 2022 Act for the definition of “appropriate accountable person”.
 
-[^key-08cd247298129b5cc4fb96dfc52294d0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/907/regulation/14) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-08cd247298129b5cc4fb96dfc52294d0]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/907/regulation/14) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00022]: Footnote: See section 99(7) of the 2022 Act for the definition of “relevant requirement”.
 
@@ -620,8 +620,8 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00024]: Footnote: Section 115 of the 2022 Act defines “the tribunal” as “the First-tier Tribunal”.
 
-[^key-a2316d30c49455735de08bb855381529]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/907/regulation/15) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-a2316d30c49455735de08bb855381529]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/907/regulation/15) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2023/315](https://www.legislation.gov.uk/uksi/2023/315).
 
-[^key-d3d700ae5b1fcc509ab01062b61faf6f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/907/regulation/16) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)
+[^c-d3d700ae5b1fcc509ab01062b61faf6f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/907/regulation/16) in force at 16.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2)

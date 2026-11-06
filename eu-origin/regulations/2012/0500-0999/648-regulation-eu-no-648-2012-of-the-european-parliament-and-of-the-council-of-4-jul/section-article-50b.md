@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 50b. General rules for the calculation of K <sub> CCP </sub>[^key-df7f1951b0194147b6331cc1eae84c80]
+## Article 50b. General rules for the calculation of K <sub> CCP </sub>[^c-df7f1951b0194147b6331cc1eae84c80]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ For the purpose of calculating K<sub>CCP</sub> referred to in Article 50a(2), th
     All values in this formula shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged;
   - (iii)) for situations referred to in the third sentence of the second subparagraph of Article 301(1) of Chapter 3 of the Counterparty Credit Risk (CRR) Part of the PRA Rulebook, CCPs shall calculate the value of the transactions referred to in the first sentence of that subparagraph in accordance with the formula set out in point (a)(ii) of this Article, and shall determine EBRM<sub>i</sub> in accordance with Title V of Part Three of the Capital Requirements Regulation;
 - (b)) for institutions that fall under the scope of the Capital Requirements Regulation the netting sets are the same as those defined in point (4) of Article 272 of that Regulation;
-- (ba))[^key-1eb9785b973d9931de36f7a5c9d42771] for FCA investment firms that fall under the scope of Part 9C rules, the netting sets are the same as those set out in the definition of “netting set (in MIFIDPRU)” in the Glossary of the FCA Handbook;
+- (ba))[^c-1eb9785b973d9931de36f7a5c9d42771] for FCA investment firms that fall under the scope of Part 9C rules, the netting sets are the same as those set out in the definition of “netting set (in MIFIDPRU)” in the Glossary of the FCA Handbook;
 - (c)) a CCP that has exposures to one or more CCPs shall treat those exposures as if they were exposures to clearing members and include any margin or pre-funded contributions received from those CCPs in the calculation of K<sub>CCP </sub>;
 - (d)) a CCP that has in place a binding contractual arrangement with its clearing members that allows that CCP to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions shall consider that initial margin as pre-funded contributions for the purposes of the calculation in paragraph 1 and not as initial margin;
 - (e)) where collateral is held against an account containing more than one of the types of contracts and transactions referred to in Article 301(1) of Chapter 3 of the Counterparty Credit Risk (CRR) Part of the PRA Rulebook, CCPs shall allocate the initial margin provided by their clearing members or clients, as applicable, in proportion to the EADs of the respective types of contracts and transactions calculated in accordance with point (a) of this paragraph, without taking into account initial margin in the calculation;
@@ -52,6 +52,6 @@ For the purposes of point (a)(ii) of this Article, the CCP shall use the method 
 
 ## Annotations
 
-[^key-df7f1951b0194147b6331cc1eae84c80]: Textual amendment: [Art. 50b](https://www.legislation.gov.uk/eur/2012/648/article/50b) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/24/6)
+[^c-df7f1951b0194147b6331cc1eae84c80]: Textual amendment: [Art. 50b](https://www.legislation.gov.uk/eur/2012/648/article/50b) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/24/6)
 
-[^key-1eb9785b973d9931de36f7a5c9d42771]: Textual amendment: [Art. 50b(ba)](https://www.legislation.gov.uk/eur/2012/648/article/50b/ba) inserted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2022/838/regulation/19/4) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-1eb9785b973d9931de36f7a5c9d42771]: Textual amendment: [Art. 50b(ba)](https://www.legislation.gov.uk/eur/2012/648/article/50b/ba) inserted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2022/838/regulation/19/4) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))

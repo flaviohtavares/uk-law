@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Power to require production of licence, etc[^key-5fe3bbc46f15583542732c742a10e1eb]
+## 257. Power to require production of licence, etc[^c-5fe3bbc46f15583542732c742a10e1eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the officer may require the person to produce that licence or other authority.
 
 ## Annotations
 
-[^key-5fe3bbc46f15583542732c742a10e1eb]: Commencement: S. 257 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-5fe3bbc46f15583542732c742a10e1eb]: Commencement: S. 257 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

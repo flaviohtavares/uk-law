@@ -34,7 +34,7 @@ Regulations laid before the Assembly under section 77(4)(ab) of the Climate Chan
 
 Environmental Protection
 
-The Single Use Carrier Bags Charge (Amendment) Regulations (Northern Ireland) 2021 (revoked)[^key-b7371db2ff050e1eb2b816c30e16d9da]
+The Single Use Carrier Bags Charge (Amendment) Regulations (Northern Ireland) 2021 (revoked)[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 Made
 
@@ -44,35 +44,35 @@ Coming into operation
 
 1st April 2022
 
-[^key-b7371db2ff050e1eb2b816c30e16d9da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7371db2ff050e1eb2b816c30e16d9da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b7371db2ff050e1eb2b816c30e16d9da]
+## 1. Citation and commencement[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Single Use Carrier Bags Charge Regulations (Northern Ireland) 2013[^key-b7371db2ff050e1eb2b816c30e16d9da]
+## 2. Amendment to the Single Use Carrier Bags Charge Regulations (Northern Ireland) 2013[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (Interpretation)[^key-b7371db2ff050e1eb2b816c30e16d9da]
+## 3. Amendment of regulation 2 (Interpretation)[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 6 (Requirement to charge)[^key-b7371db2ff050e1eb2b816c30e16d9da]
+## 4. Amendment of regulation 6 (Requirement to charge)[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 9 (Record-keeping)[^key-b7371db2ff050e1eb2b816c30e16d9da]
+## 5. Amendment of regulation 9 (Record-keeping)[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 1 (Exemptions)[^key-b7371db2ff050e1eb2b816c30e16d9da]
+## 6. Amendment of Schedule 1 (Exemptions)[^c-b7371db2ff050e1eb2b816c30e16d9da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7371db2ff050e1eb2b816c30e16d9da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7371db2ff050e1eb2b816c30e16d9da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -82,4 +82,4 @@ Coming into operation
 
 ## Annotations
 
-[^key-b7371db2ff050e1eb2b816c30e16d9da]: Textual amendment: Regulations revoked (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [7](https://www.legislation.gov.uk/nisr/2022/33/regulation/7)
+[^c-b7371db2ff050e1eb2b816c30e16d9da]: Textual amendment: Regulations revoked (1.4.2022) by [The Single Use Carrier Bags Charge (Amendment and Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/33)](https://www.legislation.gov.uk/nisr/2022/33), [regs. 1](https://www.legislation.gov.uk/nisr/2022/33/regulation/1), [7](https://www.legislation.gov.uk/nisr/2022/33/regulation/7)

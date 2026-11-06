@@ -81,10 +81,10 @@ of this Act apply in relation to proceedings in which a commissioner examines a 
 - (a) where the proceedings before the commissioner are for the purposes of a trial in the High Court, a judge of the High Court; or
 - (b) in any other case, a sheriff.
 
-(14)[^key-4c7c63b5790f507baca880f43fa99c0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-4c7c63b5790f507baca880f43fa99c0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c19849721]: Textual amendment: S. 272(10)-(13) added (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 35(4)](https://www.legislation.gov.uk/asp/2007/6/section/35/4), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/250/article/3/a)
 
-[^key-4c7c63b5790f507baca880f43fa99c0e]: Textual amendment: [S. 272(14)](https://www.legislation.gov.uk/ukpga/1995/46/section/272/14) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [77(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/77/4) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c7c63b5790f507baca880f43fa99c0e]: Textual amendment: [S. 272(14)](https://www.legislation.gov.uk/ukpga/1995/46/section/272/14) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [77(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/77/4) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Time limit for determining application[^key-71edf03ff58b410072e62448470af4cd]
+## 33. Time limit for determining application[^c-71edf03ff58b410072e62448470af4cd]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71edf03ff58b410072e62448470af4cd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/14/section/33) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-71edf03ff58b410072e62448470af4cd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/14/section/33) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

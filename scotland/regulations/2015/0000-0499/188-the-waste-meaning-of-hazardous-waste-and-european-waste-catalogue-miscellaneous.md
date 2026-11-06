@@ -70,7 +70,7 @@ In regulation 1(4) of the Special Waste Regulations 1996 [^c22524551] (citation,
 
 .
 
-## 4. Amendment of the Landfill (Scotland) Regulations 2003[^key-5e80c994e1c1e6e64642faec49c266ea]
+## 4. Amendment of the Landfill (Scotland) Regulations 2003[^c-5e80c994e1c1e6e64642faec49c266ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -121,7 +121,7 @@ In article 2(1) of the Renewables Obligation (Scotland) Order 2009 [^c22524591] 
 
 .
 
-## 9. Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011[^key-a137d777d44a17db8c29d30ef3b3eb60]
+## 9. Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011[^c-a137d777d44a17db8c29d30ef3b3eb60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,11 +133,11 @@ In article 2(1) of the Marine Licensing (Exempted Activities) (Scottish Inshore 
 
 .
 
-## 11. Amendment of the Waste Management Licensing (Scotland) Regulations 2011[^key-e264c5d28c905146ea3bafde740e95a4]
+## 11. Amendment of the Waste Management Licensing (Scotland) Regulations 2011[^c-e264c5d28c905146ea3bafde740e95a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^key-2da6b0e6e4a539f4463b459e633ea539]
+## 12. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^c-2da6b0e6e4a539f4463b459e633ea539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,7 +173,7 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22524551]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-5e80c994e1c1e6e64642faec49c266ea]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/188/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-5e80c994e1c1e6e64642faec49c266ea]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/188/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c22524571]: Marginal citation: [S.S.I. 2005/157](https://www.legislation.gov.uk/ssi/2005/157), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
@@ -183,10 +183,10 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22524601]: Marginal citation: [S.S.I. 2010/60](https://www.legislation.gov.uk/ssi/2010/60), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-a137d777d44a17db8c29d30ef3b3eb60]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/188/regulation/9) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-a137d777d44a17db8c29d30ef3b3eb60]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/188/regulation/9) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c22524621]: Marginal citation: [S.S.I. 2011/204](https://www.legislation.gov.uk/ssi/2011/204), to which there are amendments not relevant to this instrument.
 
-[^key-e264c5d28c905146ea3bafde740e95a4]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/188/regulation/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-e264c5d28c905146ea3bafde740e95a4]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/188/regulation/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-2da6b0e6e4a539f4463b459e633ea539]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/188/regulation/12) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2da6b0e6e4a539f4463b459e633ea539]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/188/regulation/12) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

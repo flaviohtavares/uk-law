@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Deemed market value where transaction involves connected company[^key-609723e1dddf712f5b9ff687936162a1]
+## 22. Deemed market value where transaction involves connected company[^c-609723e1dddf712f5b9ff687936162a1]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-609723e1dddf712f5b9ff687936162a1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/11/section/22) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-609723e1dddf712f5b9ff687936162a1]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2013/11/section/22) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

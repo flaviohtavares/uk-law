@@ -49,13 +49,13 @@ The Attorney General:
 
 The Attorney General, in exercise of the powers conferred by section 8(3)(c) of that Act, makes the following order:
 
-## 1. Citation, commencement and interpretation[^key-b7bc3aae45be9908ea3d8accd2135236]
+## 1. Citation, commencement and interpretation[^c-b7bc3aae45be9908ea3d8accd2135236]
 
 (1) This Order may be cited as the Attorney General’s Human Rights Guidance (Domestic Abuse and Stalking) Order (Northern Ireland) 2018 and shall come into operation on 29th May 2018.
 
 (2) The Interpretation Act (Northern Ireland) 1954 shall apply to this Order as it applies to an Act of the Assembly[^f00004].
 
-## 2. Coming into operation of the guidance[^key-03085806c06892102715ddd1de3523c3]
+## 2. Coming into operation of the guidance[^c-03085806c06892102715ddd1de3523c3]
 
 The guidance on international human rights standards relevant to domestic abuse and stalking in respect of the Police Service of Northern Ireland, the Public Prosecution Service for Northern Ireland, the Probation Board for Northern Ireland and the Northern Ireland Courts and Tribunals Service shall come into operation on the day on which this Order comes into operation.
 
@@ -77,8 +77,8 @@ This Order brings into operation guidance by the Attorney General for Northern I
 
 [^f00003]: Footnote: Inserted by section 8(9) of the Justice (Northern Ireland) Act 2004 and paragraph 7A of Schedule 7 of the Justice (Northern Ireland) Act 2002.
 
-[^key-b7bc3aae45be9908ea3d8accd2135236]: Commencement: Art. 1 in operation at 29.5.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/108/article/1/1)
+[^c-b7bc3aae45be9908ea3d8accd2135236]: Commencement: Art. 1 in operation at 29.5.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/108/article/1/1)
 
 [^f00004]: Footnote: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-03085806c06892102715ddd1de3523c3]: Commencement: Art. 2 in operation at 29.5.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/108/article/1/1)
+[^c-03085806c06892102715ddd1de3523c3]: Commencement: Art. 2 in operation at 29.5.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/108/article/1/1)

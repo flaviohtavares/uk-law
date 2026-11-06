@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Right to request permission to keep a pet[^key-cd49074cf809052843b7496e64c7e7be][^key-c290adf91a9b4808c97cdbca14c342eb]
+## 11. Right to request permission to keep a pet[^c-cd49074cf809052843b7496e64c7e7be][^c-c290adf91a9b4808c97cdbca14c342eb]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd49074cf809052843b7496e64c7e7be]: Commencement: S. 11 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-cd49074cf809052843b7496e64c7e7be]: Commencement: S. 11 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-c290adf91a9b4808c97cdbca14c342eb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/26/section/11) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-c290adf91a9b4808c97cdbca14c342eb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/26/section/11) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

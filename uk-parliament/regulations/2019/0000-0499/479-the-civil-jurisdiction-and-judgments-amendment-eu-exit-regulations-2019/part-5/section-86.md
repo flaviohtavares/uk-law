@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Council Decision of 27 April 2006 ([2006/325/EC](https://www.legislation.gov.uk/eudn/2006/325))[^key-ca7983ed4ca9916c48375c556b0aa077]
+## 86. Council Decision of 27 April 2006 ([2006/325/EC](https://www.legislation.gov.uk/eudn/2006/325))[^c-ca7983ed4ca9916c48375c556b0aa077]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Decision of 27 April 2006 concerning the conclusion of the Agreement bet
 
 ## Annotations
 
-[^key-ca7983ed4ca9916c48375c556b0aa077]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-ca7983ed4ca9916c48375c556b0aa077]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

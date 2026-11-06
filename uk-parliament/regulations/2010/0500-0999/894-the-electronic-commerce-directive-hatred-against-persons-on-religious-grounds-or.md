@@ -48,11 +48,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972, as modified by section 143(2)(a) of the Coroners and Justice Act 2009[^f00003], a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-88987d04ee22692a69fe3f6b22a62498]
+## 1. Citation and commencement[^c-88987d04ee22692a69fe3f6b22a62498]
 
 These Regulations may be cited as the Electronic Commerce Directive (Hatred against Persons on Religious Grounds or the Grounds of Sexual Orientation) Regulations 2010 and shall come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-d37fd7aa200e50025121be24519f4f99]
+## 2. Interpretation[^c-d37fd7aa200e50025121be24519f4f99]
 
 (1) In these Regulations—
 
@@ -67,17 +67,17 @@ These Regulations may be cited as the Electronic Commerce Directive (Hatred agai
 - “religious hatred” has the meaning given by section 29A of the 1986 Act (meaning of “religious hatred”); and
 - “service provider” means a person providing an information society service.
 
-(2)[^key-1a0c750854eddc21f4b0e68893bf9bcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1a0c750854eddc21f4b0e68893bf9bcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Internal market: England and Wales service providers[^key-a37a75ca752c1222281702a598d36d04]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Internal market: non-UK service providers[^key-792335c1b8175e513a66e7792fca4a97]
+## 3. Internal market: England and Wales service providers[^c-a37a75ca752c1222281702a598d36d04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exception for mere conduits[^key-7ff38eb3c5121c80229089ad82ae0839]
+## 4. Internal market: non-UK service providers[^c-792335c1b8175e513a66e7792fca4a97]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Exception for mere conduits[^c-7ff38eb3c5121c80229089ad82ae0839]
 
 (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in—
 
@@ -98,7 +98,7 @@ if the transmission condition is satisfied.
 
 (5) Paragraph (4) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
 
-## 6. Exception for caching[^key-53924178ae0b6c0f146230006e87679e]
+## 6. Exception for caching[^c-53924178ae0b6c0f146230006e87679e]
 
 (1) This regulation applies to information which—
 
@@ -117,7 +117,7 @@ if the transmission condition is satisfied.
 - (b) access to such information has been disabled; or
 - (c) a court or administrative authority has ordered the removal from the network of, or the disablement of access to, such information.
 
-## 7. Exception for hosting[^key-8122b7b62b011c35c5768527510fa67e]
+## 7. Exception for hosting[^c-8122b7b62b011c35c5768527510fa67e]
 
 (1) A service provider is only capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
 
@@ -126,7 +126,7 @@ if the transmission condition is satisfied.
 
 (2) Paragraph (1) does not apply if the recipient of the service is acting under the authority or control of the service provider.
 
-## 8. Revocation[^key-1a61ff8536fce95f3387d58460ba9c94]
+## 8. Revocation[^c-1a61ff8536fce95f3387d58460ba9c94]
 
 (1) The Electronic Commerce Directive (Racial and Religious Hatred Act 2006) Regulations 2007[^f00009] are revoked, but that revocation shall not have effect in relation to a relevant offence committed wholly or partly before the coming into force of these Regulations.
 
@@ -164,9 +164,9 @@ A Transposition Note has been prepared for these Regulations. This is available 
 
 [^f00003]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-88987d04ee22692a69fe3f6b22a62498]: Commencement: Reg. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
+[^c-88987d04ee22692a69fe3f6b22a62498]: Commencement: Reg. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
 
-[^key-d37fd7aa200e50025121be24519f4f99]: Commencement: Reg. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
+[^c-d37fd7aa200e50025121be24519f4f99]: Commencement: Reg. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
 
 [^f00004]: Footnote: [1986 c. 64](https://www.legislation.gov.uk/ukpga/1986/64).
 
@@ -176,18 +176,18 @@ A Transposition Note has been prepared for these Regulations. This is available 
 
 [^f00007]: Footnote: O.J. No. L 204, 21.7.1998, p. 37, as amended by Directive [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) (O.J. No. L 217, 5.8.1998, p. 18); there are other amendments but none is relevant.
 
-[^key-1a0c750854eddc21f4b0e68893bf9bcb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2010/894/regulation/2/2) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/10/a)
+[^c-1a0c750854eddc21f4b0e68893bf9bcb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2010/894/regulation/2/2) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/10/a)
 
-[^key-a37a75ca752c1222281702a598d36d04]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/894/regulation/3) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/10/b)
+[^c-a37a75ca752c1222281702a598d36d04]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/894/regulation/3) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/10/b)
 
-[^key-792335c1b8175e513a66e7792fca4a97]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/894/regulation/4) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/10/c)
+[^c-792335c1b8175e513a66e7792fca4a97]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/894/regulation/4) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/10/c)
 
-[^key-7ff38eb3c5121c80229089ad82ae0839]: Commencement: Reg. 5 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
+[^c-7ff38eb3c5121c80229089ad82ae0839]: Commencement: Reg. 5 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
 
-[^key-53924178ae0b6c0f146230006e87679e]: Commencement: Reg. 6 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
+[^c-53924178ae0b6c0f146230006e87679e]: Commencement: Reg. 6 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
 
-[^key-8122b7b62b011c35c5768527510fa67e]: Commencement: Reg. 7 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
+[^c-8122b7b62b011c35c5768527510fa67e]: Commencement: Reg. 7 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
 
-[^key-1a61ff8536fce95f3387d58460ba9c94]: Commencement: Reg. 8 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
+[^c-1a61ff8536fce95f3387d58460ba9c94]: Commencement: Reg. 8 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/894/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2007/2497](https://www.legislation.gov.uk/uksi/2007/2497).

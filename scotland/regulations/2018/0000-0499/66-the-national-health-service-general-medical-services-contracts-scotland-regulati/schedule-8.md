@@ -14,11 +14,11 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 8 — PRACTICE INFORMATION[^key-4d1375f557830592a4ca883826eca3a9]
+## SCHEDULE 8 — PRACTICE INFORMATION[^c-4d1375f557830592a4ca883826eca3a9]
 
 schedule 6, paragraph 74
 
-[^key-f991781931bcec2ca5c41d807fe35e15]...
+[^c-f991781931bcec2ca5c41d807fe35e15]...
 
 **1.** The name of the contractor.
 
@@ -77,7 +77,7 @@ schedule 6, paragraph 74
 
 **19.** If the services in paragraph 18 are not provided by the contractor, the fact that the Health Board referred to in paragraph 27 is responsible for commissioning the services.
 
-**19A.**[^key-97019972160e76b25b1511d239ca5c51] The details of the arrangements for the delivery of vaccinations and immunisations (and childhood vaccinations and immunisations) to the contractor’s patients.
+**19A.**[^c-97019972160e76b25b1511d239ca5c51] The details of the arrangements for the delivery of vaccinations and immunisations (and childhood vaccinations and immunisations) to the contractor’s patients.
 
 **20.** The telephone number of NHS 24 and details of the NHS 24 website.
 
@@ -97,8 +97,8 @@ schedule 6, paragraph 74
 
 ## Annotations
 
-[^key-4d1375f557830592a4ca883826eca3a9]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ssi/2018/66/schedule/8) heading substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [13](https://www.legislation.gov.uk/ssi/2022/130/regulation/13)
+[^c-4d1375f557830592a4ca883826eca3a9]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ssi/2018/66/schedule/8) heading substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [13](https://www.legislation.gov.uk/ssi/2022/130/regulation/13)
 
-[^key-f991781931bcec2ca5c41d807fe35e15]: Textual amendment: Words in [sch. 8](https://www.legislation.gov.uk/ssi/2018/66/schedule/8) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [14](https://www.legislation.gov.uk/ssi/2022/130/regulation/14)
+[^c-f991781931bcec2ca5c41d807fe35e15]: Textual amendment: Words in [sch. 8](https://www.legislation.gov.uk/ssi/2018/66/schedule/8) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [14](https://www.legislation.gov.uk/ssi/2022/130/regulation/14)
 
-[^key-97019972160e76b25b1511d239ca5c51]: Textual amendment: [Sch. 8 para. 19A](https://www.legislation.gov.uk/ssi/2018/66/schedule/8/paragraph/19A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [10](https://www.legislation.gov.uk/ssi/2021/302/regulation/10)
+[^c-97019972160e76b25b1511d239ca5c51]: Textual amendment: [Sch. 8 para. 19A](https://www.legislation.gov.uk/ssi/2018/66/schedule/8/paragraph/19A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [10](https://www.legislation.gov.uk/ssi/2021/302/regulation/10)

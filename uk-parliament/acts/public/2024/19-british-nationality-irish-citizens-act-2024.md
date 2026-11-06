@@ -35,7 +35,7 @@ An Act to make provision for Irish citizens who have been resident in the United
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Acquisition of British citizenship: Irish citizens[^key-6648aab06dc3a7a94f2e242bc1c30b83][^key-22e9767ecbe683717c4b9fc9b4ce0e86]
+## 1. Acquisition of British citizenship: Irish citizens[^c-6648aab06dc3a7a94f2e242bc1c30b83][^c-22e9767ecbe683717c4b9fc9b4ce0e86]
 
 (1) The British Nationality Act 1981 is amended as set out in subsections (2) to (4).
 
@@ -77,7 +77,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-## 2. Extent, commencement and short title[^key-0f360e88037bcdedbefce38261a2da27][^key-b1d6b2c58d08b85a7ef55eaf18f1a4dc]
+## 2. Extent, commencement and short title[^c-0f360e88037bcdedbefce38261a2da27][^c-b1d6b2c58d08b85a7ef55eaf18f1a4dc]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -89,10 +89,10 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-6648aab06dc3a7a94f2e242bc1c30b83]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2024/19/section/2/3)
+[^c-6648aab06dc3a7a94f2e242bc1c30b83]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2024/19/section/2/3)
 
-[^key-22e9767ecbe683717c4b9fc9b4ce0e86]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/19/section/1) in force at 22.7.2025 by [S.I. 2025/787](https://www.legislation.gov.uk/uksi/2025/787), [reg. 2](https://www.legislation.gov.uk/uksi/2025/787/regulation/2)
+[^c-22e9767ecbe683717c4b9fc9b4ce0e86]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/19/section/1) in force at 22.7.2025 by [S.I. 2025/787](https://www.legislation.gov.uk/uksi/2025/787), [reg. 2](https://www.legislation.gov.uk/uksi/2025/787/regulation/2)
 
-[^key-0f360e88037bcdedbefce38261a2da27]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2024/19/section/2/3)
+[^c-0f360e88037bcdedbefce38261a2da27]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2024/19/section/2/3)
 
-[^key-b1d6b2c58d08b85a7ef55eaf18f1a4dc]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/19/section/2) in force at 22.7.2025 by [S.I. 2025/787](https://www.legislation.gov.uk/uksi/2025/787), [reg. 2](https://www.legislation.gov.uk/uksi/2025/787/regulation/2)
+[^c-b1d6b2c58d08b85a7ef55eaf18f1a4dc]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/19/section/2) in force at 22.7.2025 by [S.I. 2025/787](https://www.legislation.gov.uk/uksi/2025/787), [reg. 2](https://www.legislation.gov.uk/uksi/2025/787/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Trade disputes[^key-af48c7f38bc2da082b1f3c4ad6366d27][^key-b82e7724e7713355a4240aba31f760e2]
+## 92. Trade disputes[^c-af48c7f38bc2da082b1f3c4ad6366d27][^c-b82e7724e7713355a4240aba31f760e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af48c7f38bc2da082b1f3c4ad6366d27]: Commencement: S. 92 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-af48c7f38bc2da082b1f3c4ad6366d27]: Commencement: S. 92 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-b82e7724e7713355a4240aba31f760e2]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/54/section/92) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-b82e7724e7713355a4240aba31f760e2]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/54/section/92) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

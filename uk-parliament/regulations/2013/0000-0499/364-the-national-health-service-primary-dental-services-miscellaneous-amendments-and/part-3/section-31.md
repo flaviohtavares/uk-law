@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Amendment of regulation 13[^key-3a1139eb70e8caadf61f4d31b5aa80f4]
+## 31. Amendment of regulation 13[^c-3a1139eb70e8caadf61f4d31b5aa80f4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 13 (units of dental activity), at the beginning of paragraphs (1) 
 
 ## Annotations
 
-[^key-3a1139eb70e8caadf61f4d31b5aa80f4]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/364/regulation/31) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-3a1139eb70e8caadf61f4d31b5aa80f4]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2013/364/regulation/31) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

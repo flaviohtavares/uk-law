@@ -40,11 +40,11 @@ summary: ''
 - (b) where the buyer examines the goods before the contract is made, which that examination ought to reveal, or
 - (c) in the case of a contract for sale by sample, which would have been apparent on a reasonable examination of the sample.
 
-(2D)[^key-7d28189e32251bb0ff50c9bf45d5f4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-7d28189e32251bb0ff50c9bf45d5f4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2E)[^key-7d28189e32251bb0ff50c9bf45d5f4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2E)[^c-7d28189e32251bb0ff50c9bf45d5f4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2F)[^key-7d28189e32251bb0ff50c9bf45d5f4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2F)[^c-7d28189e32251bb0ff50c9bf45d5f4c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where the seller sells goods in the course of a business and the buyer, expressly or by implication, makes known—
 
@@ -63,7 +63,7 @@ any particular purpose for which the goods are being bought, there is an implied
 
 (8)[^c1108910] In subsection (7) above and paragraph 5 of Schedule 1 below references to the appointed day are to the day appointed for the purposes of those provisions by an order of the Secretary of State made by statutory instrument.
 
-(9)[^key-7895ea61007b46c38d22e0c329ad1976] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in sections 9, 10 and 18 of that Act).
+(9)[^c-7895ea61007b46c38d22e0c329ad1976] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in sections 9, 10 and 18 of that Act).
 
 ## Annotations
 
@@ -71,10 +71,10 @@ any particular purpose for which the goods are being bought, there is an implied
 
 [^c1108905]: Textual amendment: S. 14(2)-(2C) substituted for s. 14(2) (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/1/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-7d28189e32251bb0ff50c9bf45d5f4c5]: Textual amendment: S. 14(2D)-(2F) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/13/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-7d28189e32251bb0ff50c9bf45d5f4c5]: Textual amendment: S. 14(2D)-(2F) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/13/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1108909]: Textual amendment: S. 14(6) substituted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/7/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 5(5)(b)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/5/5/b) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
 [^c1108910]: Modification: Power of appointment conferred by s. 14(8) fully exercised: 19.5.1985 appointed by [S.I. 1983/1572](https://www.legislation.gov.uk/uksi/1983/1572), [art. 2](https://www.legislation.gov.uk/uksi/1983/1572/article/2)
 
-[^key-7895ea61007b46c38d22e0c329ad1976]: Textual amendment: S. 14(9) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/13/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-7895ea61007b46c38d22e0c329ad1976]: Textual amendment: S. 14(9) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/13/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

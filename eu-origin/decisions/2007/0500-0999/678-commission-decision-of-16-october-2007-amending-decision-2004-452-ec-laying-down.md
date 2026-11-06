@@ -39,18 +39,18 @@ amending Decision 2004/452/EC laying down a list of bodies whose researchers may
 
 (2007/678/EC) (revoked)
 
-[^key-1beb0e8519f211003a6da43fbcdf5741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1beb0e8519f211003a6da43fbcdf5741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1beb0e8519f211003a6da43fbcdf5741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1beb0e8519f211003a6da43fbcdf5741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1beb0e8519f211003a6da43fbcdf5741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1beb0e8519f211003a6da43fbcdf5741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1beb0e8519f211003a6da43fbcdf5741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1beb0e8519f211003a6da43fbcdf5741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1beb0e8519f211003a6da43fbcdf5741]
+## ANNEX[^c-1beb0e8519f211003a6da43fbcdf5741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1beb0e8519f211003a6da43fbcdf5741]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/103); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1beb0e8519f211003a6da43fbcdf5741]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 103](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/103); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

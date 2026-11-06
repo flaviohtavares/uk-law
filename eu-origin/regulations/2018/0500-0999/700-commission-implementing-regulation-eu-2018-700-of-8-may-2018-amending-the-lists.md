@@ -35,49 +35,49 @@ amending the lists of third country establishments from which imports of specifi
 
 (Text with EEA relevance) (revoked)
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd89648b771f84e8b5f5680975ae9c61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fd89648b771f84e8b5f5680975ae9c61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fd89648b771f84e8b5f5680975ae9c61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fd89648b771f84e8b5f5680975ae9c61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fd89648b771f84e8b5f5680975ae9c61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd89648b771f84e8b5f5680975ae9c61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-fd89648b771f84e8b5f5680975ae9c61]
+## ANNEX[^c-fd89648b771f84e8b5f5680975ae9c61]
 
-[^key-fd89648b771f84e8b5f5680975ae9c61](1)
+[^c-fd89648b771f84e8b5f5680975ae9c61](1)
 
 In the list of establishments authorised to import meat of domestic ungulates from Brazil (section I), the following entry is removed:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd89648b771f84e8b5f5680975ae9c61](2)
+[^c-fd89648b771f84e8b5f5680975ae9c61](2)
 
 In the list of establishments authorised to import meat from poultry and lagomorphs from Brazil (section II), the following entries are removed:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd89648b771f84e8b5f5680975ae9c61](3)
+[^c-fd89648b771f84e8b5f5680975ae9c61](3)
 
 In the list of establishments authorised to import minced meat, meat preparations and mechanically separated meat from Brazil (section V), the following entries are removed:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd89648b771f84e8b5f5680975ae9c61](4)
+[^c-fd89648b771f84e8b5f5680975ae9c61](4)
 
 In the list of establishments authorised to import meat products from Brazil (section VI), the following entries are removed:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]
+[^c-fd89648b771f84e8b5f5680975ae9c61]
 
 Activities legend:
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]
+[^c-fd89648b771f84e8b5f5680975ae9c61]
 
 CP
 
@@ -99,11 +99,11 @@ SH
 
 Slaughterhouse
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]
+[^c-fd89648b771f84e8b5f5680975ae9c61]
 
 Remarks legend:
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]
+[^c-fd89648b771f84e8b5f5680975ae9c61]
 
 2\.
 
@@ -123,4 +123,4 @@ Bovinae
 
 ## Annotations
 
-[^key-fd89648b771f84e8b5f5680975ae9c61]: Textual amendment: Regulation revoked (E.W.S.) (29.5.2024) by [The Official Controls (Establishment Lists) (Revocation) Regulations 2024 (S.I. 2024/608)](https://www.legislation.gov.uk/uksi/2024/608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/608/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/608/regulation/2)
+[^c-fd89648b771f84e8b5f5680975ae9c61]: Textual amendment: Regulation revoked (E.W.S.) (29.5.2024) by [The Official Controls (Establishment Lists) (Revocation) Regulations 2024 (S.I. 2024/608)](https://www.legislation.gov.uk/uksi/2024/608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/608/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/608/regulation/2)

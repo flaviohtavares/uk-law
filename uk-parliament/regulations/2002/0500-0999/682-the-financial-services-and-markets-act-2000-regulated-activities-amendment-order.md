@@ -279,7 +279,7 @@ the firm’s permission under paragraph 15 of that Schedule is to be treated, at
 - (a) if, immediately before commencement, the existing issuer was carrying on the activity of issuing electronic money from a branch established in another EEA State, the conditions in paragraph 19(2) to (5) of that Schedule are to be treated as satisfied with respect to that branch;
 - (b) if, immediately before commencement, the existing issuer was carrying on the activity of issuing electronic money by providing services in another EEA State, the conditions in paragraph 20(1) of that Schedule are to be treated as satisfied with respect to the provision of those services in that EEA State.
 
-(4) An existing issuer having his head office in an EEA State other than the United Kingdom who, after commencement, becomes authorised (within the meaning of Article 4(2)[^key-1230bdc580f7deff6f177a1c1cacfb2e] of the banking consolidation directive) by his home state regulator (and hence becomes an EEA firm)—
+(4) An existing issuer having his head office in an EEA State other than the United Kingdom who, after commencement, becomes authorised (within the meaning of Article 4(2)[^c-1230bdc580f7deff6f177a1c1cacfb2e] of the banking consolidation directive) by his home state regulator (and hence becomes an EEA firm)—
 
 - (a) is to be treated as having complied with the establishment conditions (within the meaning of paragraph 13 of Schedule 3 to the Act) where, immediately before commencement, he was carrying on the activity of issuing electronic money from a branch established in the United Kingdom;
 - (b) is to be treated as having complied with the service conditions (within the meaning of paragraph 14 of that Schedule) where, immediately before commencement, he was carrying on the activity of issuing electronic money by providing services in the United Kingdom.
@@ -301,7 +301,7 @@ the firm’s permission under paragraph 15 of that Schedule is to be treated, at
 (9) In this article—
 
 - (a) “commencement” means the beginning of 27th April 2002;
-- (b) “credit institution” means a credit institution as defined in Article 4(1)(a)[^key-b91f7e3ace832f1010047274b22f7e36] of the banking consolidation directive;
+- (b) “credit institution” means a credit institution as defined in Article 4(1)(a)[^c-b91f7e3ace832f1010047274b22f7e36] of the banking consolidation directive;
 - (c) an “existing issuer” means a body corporate or partnership (other than one falling within paragraph (1) or (2)) which, immediately before commencement—
   - (i) has its head office in the United Kingdom, and is carrying on by way of business in the United Kingdom the activity of issuing electronic money; or
   - (ii) has its head office in an EEA State other than the United Kingdom, and is carrying on such an activity by way of business in the United Kingdom without contravening the law of that other EEA State;
@@ -378,8 +378,8 @@ Part III of the Order makes further, miscellaneous amendments to the principal O
 
 [^c17034351]: Marginal citation: [Schedule 6](https://www.legislation.gov.uk/uksi/2002/682/schedule/6) was amended by [S.I. 2001/2507](https://www.legislation.gov.uk/uksi/2001/2507).
 
-[^key-1230bdc580f7deff6f177a1c1cacfb2e]: Textual amendment: Words in art. 9(4) substituted (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/uksi/2006/3221/schedule/6/paragraph/13/a)
+[^c-1230bdc580f7deff6f177a1c1cacfb2e]: Textual amendment: Words in art. 9(4) substituted (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/uksi/2006/3221/schedule/6/paragraph/13/a)
 
-[^key-b91f7e3ace832f1010047274b22f7e36]: Textual amendment: Words in art. 9(9) substituted (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/uksi/2006/3221/schedule/6/paragraph/13/b)
+[^c-b91f7e3ace832f1010047274b22f7e36]: Textual amendment: Words in art. 9(9) substituted (1.1.2007) by [The Capital Requirements Regulations 2006 (S.I. 2006/3221)](https://www.legislation.gov.uk/uksi/2006/3221), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3221/regulation/1/1), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/uksi/2006/3221/schedule/6/paragraph/13/b)
 
 [^c17034361]: Marginal citation: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755).

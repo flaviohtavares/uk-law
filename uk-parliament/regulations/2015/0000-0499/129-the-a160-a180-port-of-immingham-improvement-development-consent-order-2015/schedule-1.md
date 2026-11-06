@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-2b19211ff862d9bd83ff331a21fd37c7]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-2b19211ff862d9bd83ff331a21fd37c7]
 
 *Extent: E+W*
 
 Article 2(1)
 
-[^key-2b19211ff862d9bd83ff331a21fd37c7]
+[^c-2b19211ff862d9bd83ff331a21fd37c7]
 
 - **In the administrative areas of North East Lincolnshire and North Lincolnshire**
 
@@ -87,6 +87,6 @@ Article 2(1)
 
 ## Annotations
 
-[^key-2b19211ff862d9bd83ff331a21fd37c7]: Commencement: Sch. 1 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-2b19211ff862d9bd83ff331a21fd37c7]: Commencement: Sch. 1 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
 [^f00039]: Footnote: Section 22 was substituted by article 3 of [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883).

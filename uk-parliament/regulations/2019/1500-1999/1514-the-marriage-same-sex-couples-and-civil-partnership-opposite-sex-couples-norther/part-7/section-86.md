@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996[^key-9619e69087181da78134528bfc4bea71]
+## 86. Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996[^c-9619e69087181da78134528bfc4bea71]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In regulations 2(3) and 3(2) of the Social Security (Additional Pension) (Contri
 
 ## Annotations
 
-[^key-9619e69087181da78134528bfc4bea71]: Commencement: Reg. 86 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-9619e69087181da78134528bfc4bea71]: Commencement: Reg. 86 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00147]: Footnote: [S.R. (N.I.) 1996/188](https://www.legislation.gov.uk/nisr/1996/188).

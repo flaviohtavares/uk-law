@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 198. Further modifications of 2005 Act[^key-4783c363d79ef28e2e5ca047a306dcf5]
+## 198. Further modifications of 2005 Act[^c-4783c363d79ef28e2e5ca047a306dcf5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6 makes further modifications of the 2005 Act (including extending poli
 
 ## Annotations
 
-[^key-4783c363d79ef28e2e5ca047a306dcf5]: Commencement: [S. 198](https://www.legislation.gov.uk/asp/2010/13/section/198) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-4783c363d79ef28e2e5ca047a306dcf5]: Commencement: [S. 198](https://www.legislation.gov.uk/asp/2010/13/section/198) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

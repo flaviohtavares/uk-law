@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Spring Traps Approval Order (Northern Ireland) 2012 (revoked)[^key-35168bf244dc8fad4474bead49501fe9]
+The Spring Traps Approval Order (Northern Ireland) 2012 (revoked)[^c-35168bf244dc8fad4474bead49501fe9]
 
 Made
 
@@ -42,48 +42,48 @@ Coming into operation
 
 12th March 2012
 
-[^key-35168bf244dc8fad4474bead49501fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35168bf244dc8fad4474bead49501fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-35168bf244dc8fad4474bead49501fe9]
+## 1. Citation, commencement and interpretation[^c-35168bf244dc8fad4474bead49501fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of spring traps[^key-35168bf244dc8fad4474bead49501fe9]
+## 2. Approval of spring traps[^c-35168bf244dc8fad4474bead49501fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Traps for small ground vermin[^key-35168bf244dc8fad4474bead49501fe9]
+## 3. Traps for small ground vermin[^c-35168bf244dc8fad4474bead49501fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-35168bf244dc8fad4474bead49501fe9]
+## 4. Revocation[^c-35168bf244dc8fad4474bead49501fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35168bf244dc8fad4474bead49501fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35168bf244dc8fad4474bead49501fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-35168bf244dc8fad4474bead49501fe9]
+## SCHEDULE 1[^c-35168bf244dc8fad4474bead49501fe9]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-35168bf244dc8fad4474bead49501fe9]
+## SCHEDULE 2[^c-35168bf244dc8fad4474bead49501fe9]
 
 Regulation 3
 
-[^key-35168bf244dc8fad4474bead49501fe9]
+[^c-35168bf244dc8fad4474bead49501fe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-35168bf244dc8fad4474bead49501fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35168bf244dc8fad4474bead49501fe9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35168bf244dc8fad4474bead49501fe9]: Textual amendment: Order revoked (31.5.2019) by [The Spring Traps Approval Order (Northern Ireland) 2019 (S.R. 2019/69)](https://www.legislation.gov.uk/nisr/2019/69), [arts. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1), [4](https://www.legislation.gov.uk/nisr/2019/69/article/4)
+[^c-35168bf244dc8fad4474bead49501fe9]: Textual amendment: Order revoked (31.5.2019) by [The Spring Traps Approval Order (Northern Ireland) 2019 (S.R. 2019/69)](https://www.legislation.gov.uk/nisr/2019/69), [arts. 1](https://www.legislation.gov.uk/nisr/2019/69/article/1), [4](https://www.legislation.gov.uk/nisr/2019/69/article/4)

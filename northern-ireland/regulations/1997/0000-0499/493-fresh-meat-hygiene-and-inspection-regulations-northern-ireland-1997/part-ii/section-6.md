@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Animals not intended for sale for human consumption[^key-12884f63a9412df64826ba80a8f96dd7]
+## 6. Animals not intended for sale for human consumption[^c-12884f63a9412df64826ba80a8f96dd7]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12884f63a9412df64826ba80a8f96dd7]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-12884f63a9412df64826ba80a8f96dd7]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00014]: Footnote: [S.R. 1996 No. 558](https://www.legislation.gov.uk/nisr/1996/558)

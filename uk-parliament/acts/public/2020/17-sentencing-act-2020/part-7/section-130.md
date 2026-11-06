@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Fine imposed by Crown Court: power to allow time for payment or payment by instalments[^key-608f2edd850c317a1ef7dd2250d7cfa8]
+## 130. Fine imposed by Crown Court: power to allow time for payment or payment by instalments[^c-608f2edd850c317a1ef7dd2250d7cfa8]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ When the Crown Court imposes a fine on an offender, it may make an order—
 
 ## Annotations
 
-[^key-608f2edd850c317a1ef7dd2250d7cfa8]: Commencement: S. 130 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-608f2edd850c317a1ef7dd2250d7cfa8]: Commencement: S. 130 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

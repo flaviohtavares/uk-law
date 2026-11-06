@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the power conferred by sections 5(1)(c) and 36(2) of the Offender Management Act 2007[^f00001].
 
-## 1. Citation and commencement[^key-5a9d8f9e54e82fa450a36f74fa8fbdbf]
+## 1. Citation and commencement[^c-5a9d8f9e54e82fa450a36f74fa8fbdbf]
 
 This Order may be cited as the Offender Management Act 2007 (Dissolution of Probation Trusts) Order 2014 and comes into force on 31st October 2014.
 
-## 2. Dissolution of probation trusts[^key-ec56af22e79f69657efb879def46ee9f]
+## 2. Dissolution of probation trusts[^c-ec56af22e79f69657efb879def46ee9f]
 
 The following probation trusts[^f00002] are dissolved—
 
@@ -90,7 +90,7 @@ The following probation trusts[^f00002] are dissolved—
 - (hh) Wiltshire Probation Trust; and
 - (ii) York and North Yorkshire Probation Trust.
 
-## 3. Final accounts[^key-8d0bc03bcc3a8041a2e999a0d747b7dd]
+## 3. Final accounts[^c-8d0bc03bcc3a8041a2e999a0d747b7dd]
 
 (1) The Secretary of State must—
 
@@ -139,12 +139,12 @@ An impact assessment of the policy implemented by this Order has not been produc
 
 [^f00001]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21)
 
-[^key-5a9d8f9e54e82fa450a36f74fa8fbdbf]: Commencement: Art. 1 in force at 31.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2704/article/1)
+[^c-5a9d8f9e54e82fa450a36f74fa8fbdbf]: Commencement: Art. 1 in force at 31.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2704/article/1)
 
-[^key-ec56af22e79f69657efb879def46ee9f]: Commencement: Art. 2 in force at 31.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2704/article/1)
+[^c-ec56af22e79f69657efb879def46ee9f]: Commencement: Art. 2 in force at 31.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2704/article/1)
 
 [^f00002]: Footnote: In total 37 probation trusts were established in three phases (1 April 2008, 1 April 2009 and 1 April 2010). The relevant Orders giving effect to these probation trusts are: The Offender Management Act 2007 (Establishment of Probation Trusts) Order 2008 ([S.I. 2008/598](https://www.legislation.gov.uk/uksi/2008/598)), The Offender Management Act 2007 (Establishment of Probation Trusts) Order 2009 ([S.I. 2009/504](https://www.legislation.gov.uk/uksi/2009/504)) and The Offender Management Act 2007 (Establishment of Probation Trusts) Order 2010 ([S.I. 2010/195](https://www.legislation.gov.uk/uksi/2010/195)). Two of the trusts established by the 2008 Order were subsequently dissolved by the 2010 Order, leaving 35 probation trusts currently in existence across England and Wales.
 
-[^key-8d0bc03bcc3a8041a2e999a0d747b7dd]: Commencement: Art. 3 in force at 31.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2704/article/1)
+[^c-8d0bc03bcc3a8041a2e999a0d747b7dd]: Commencement: Art. 3 in force at 31.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2704/article/1)
 
 [^f00003]: Footnote: [2004 c.23](https://www.legislation.gov.uk/ukpga/2004/23).

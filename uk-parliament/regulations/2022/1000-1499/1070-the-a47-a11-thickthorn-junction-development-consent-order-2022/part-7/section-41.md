@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Removal of human remains[^key-6899cc0962936f32a8bad3b4bedd3b3b]
+## 41. Removal of human remains[^c-6899cc0962936f32a8bad3b4bedd3b3b]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ and that person must, as soon as reasonably practicable after such re-interment 
 - (c) within 56 days after any order is made by the county court under paragraph (6) any person, other than the undertaker, specified in the order fails to remove the remains; or
 - (d) it is determined that the remains to which any such notice relates cannot be identified,
 
-subject to paragraph (9) the undertaker must remove the remains and cause them to be re-interred in such burial ground or cemetery in which burials may legally take place as the undertaker thinks suitable for the purpose; and, so far as possible, remains from individual graves must be re-interred in individual containers which must be identifiable[^key-e1a130383ea10407ae194bbd6fd07a68] by a record prepared with reference to the original position of burial of the remains that they contain.
+subject to paragraph (9) the undertaker must remove the remains and cause them to be re-interred in such burial ground or cemetery in which burials may legally take place as the undertaker thinks suitable for the purpose; and, so far as possible, remains from individual graves must be re-interred in individual containers which must be identifiable[^c-e1a130383ea10407ae194bbd6fd07a68] by a record prepared with reference to the original position of burial of the remains that they contain.
 
 (9) If the undertaker is satisfied that any person giving notice under paragraph (4) is the personal representative or relative as that person claims to be and that the remains in question can be identified, but that person does not remove the remains, the undertaker must comply with any reasonable request that person may make in relation to the removal and re-interment or cremation of the remains.
 
@@ -70,9 +70,9 @@ subject to paragraph (9) the undertaker must remove the remains and cause them t
 
 ## Annotations
 
-[^key-6899cc0962936f32a8bad3b4bedd3b3b]: Commencement: Art. 41 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-6899cc0962936f32a8bad3b4bedd3b3b]: Commencement: Art. 41 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-e1a130383ea10407ae194bbd6fd07a68]: Textual amendment: Words in [art. 41(8)](https://www.legislation.gov.uk/uksi/2022/1070/article/41/8) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-e1a130383ea10407ae194bbd6fd07a68]: Textual amendment: Words in [art. 41(8)](https://www.legislation.gov.uk/uksi/2022/1070/article/41/8) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
 [^f00080]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1) and amended by section 96(1) of, and paragraph 1 of Schedule 3 to, the Ecclesiastical Jurisdiction and Care of Churches Measure [2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3).
 

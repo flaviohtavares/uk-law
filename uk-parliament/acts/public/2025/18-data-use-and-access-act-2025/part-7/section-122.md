@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Grant of smart meter communication licences[^key-e002bd37b4d64fb1d4558028bc3760ae]
+## 122. Grant of smart meter communication licences[^c-e002bd37b4d64fb1d4558028bc3760ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 16 makes provision in connection with the grant of smart meter communic
 
 ## Annotations
 
-[^key-e002bd37b4d64fb1d4558028bc3760ae]: Commencement: S. 122 in force at Royal Assent for specified purposes, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)(4)
+[^c-e002bd37b4d64fb1d4558028bc3760ae]: Commencement: S. 122 in force at Royal Assent for specified purposes, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)(4)

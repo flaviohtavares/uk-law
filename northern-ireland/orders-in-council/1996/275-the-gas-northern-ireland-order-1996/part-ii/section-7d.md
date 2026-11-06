@@ -26,7 +26,7 @@ summary: ''
 - “**closed distribution system**” means a system classified as such by the Authority under Article 7A(2);
 - “**conveyance exemption**” means an exemption from Article 6(1)(a) and “**conveyance exemption holder**” means a person who carries on an activity under the authority of the exemption;
 - “**customer**” means a person who purchases gas for the person's own consumption;
-- “**distribution system**” means a pipe-line[^key-d9e71f26691738b6fd367d1c2cf44452] system by means of which the person who operates or has control of the system conveys gas in circumstances such as that that person is carrying on an activity which amounts to the distribution of gas within the meaning given by Article 2(5) of the Directive;
+- “**distribution system**” means a pipe-line[^c-d9e71f26691738b6fd367d1c2cf44452] system by means of which the person who operates or has control of the system conveys gas in circumstances such as that that person is carrying on an activity which amounts to the distribution of gas within the meaning given by Article 2(5) of the Directive;
 - “**expression of interest**” in relation to the holder of a conveyance exemption means a notice served on that holder by a customer who—
   - (a) owns or occupies premises which are connected to any distribution system to which the exemption relates;
   - (b) takes a supply of gas through that system from the holder or a person related to the holder,
@@ -56,4 +56,4 @@ summary: ''
 
 [^c21794631]: Textual amendment: [Arts. 7A-7D](https://www.legislation.gov.uk/nisi/1996/275/article/7A) inserted (12.4.2013) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [reg. 16](https://www.legislation.gov.uk/nisr/2013/92/regulation/16)
 
-[^key-d9e71f26691738b6fd367d1c2cf44452]: Textual amendment: Word in [art. 7D(1)](https://www.legislation.gov.uk/nisi/1996/275/article/7D/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/5/b)
+[^c-d9e71f26691738b6fd367d1c2cf44452]: Textual amendment: Word in [art. 7D(1)](https://www.legislation.gov.uk/nisi/1996/275/article/7D/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/5/b)

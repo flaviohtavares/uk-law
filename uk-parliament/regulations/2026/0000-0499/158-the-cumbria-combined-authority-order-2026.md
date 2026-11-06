@@ -58,7 +58,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 ## Part 1 — General
 
-### 1. Citation, commencement and extent[^key-14155ff1d046a17444822beb9f38718a]
+### 1. Citation, commencement and extent[^c-14155ff1d046a17444822beb9f38718a]
 
 (1) This Order may be cited as the Cumbria Combined Authority Order 2026.
 
@@ -68,7 +68,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 (4) This Order extends to England and Wales.
 
-### 2. Interpretation[^key-0377fd10da80cef6a49870d0d7401102]
+### 2. Interpretation[^c-0377fd10da80cef6a49870d0d7401102]
 
 In this Order—
 
@@ -85,7 +85,7 @@ In this Order—
 
 ## Part 2 — Establishment of the Combined Authority
 
-### 3. Establishment[^key-98e34a678cb4f0227fc5b92c070a98d5]
+### 3. Establishment[^c-98e34a678cb4f0227fc5b92c070a98d5]
 
 (1) There is established as a body corporate a combined authority for the areas of the constituent councils.
 
@@ -93,20 +93,20 @@ In this Order—
 
 (3) The functions of the Combined Authority are those functions conferred or imposed upon it by or under this Order or any other enactment (whenever passed or made), or as may be delegated to it by or under this Order or any other enactment (whenever passed or made).
 
-### 4. Modification of financial reporting requirements[^key-d1f62e01ada33f2c6e6dbf3d1f6e1008]
+### 4. Modification of financial reporting requirements[^c-d1f62e01ada33f2c6e6dbf3d1f6e1008]
 
 The requirement in section 3(3) of the Local Audit and Accountability Act 2014 (general requirements for accounts) for a relevant authority to prepare a statement of accounts for each financial year[^f00008] is, in respect of the Combined Authority—
 
 - (a) disapplied in respect of the financial year beginning on 1st April 2025;
 - (b) modified in respect of the financial year beginning on 1st April 2026 to require the Authority to prepare a statement of accounts for that year in respect of the period beginning with the day after the day on which this Order is made, whether or not that day is earlier than 1st April 2026, and ending with 31st March 2027.
 
-### 5. Constitution[^key-f6087a28752429b0470a445a04afb853]
+### 5. Constitution[^c-f6087a28752429b0470a445a04afb853]
 
 The Schedule makes provision about the constitution of the Combined Authority.
 
 ## Part 3 — Election of mayor
 
-### 6. Mayor[^key-735c7c9a080eca0f55c0f5247967db94]
+### 6. Mayor[^c-735c7c9a080eca0f55c0f5247967db94]
 
 (1) There is to be a mayor for the Area.
 
@@ -130,7 +130,7 @@ The Schedule makes provision about the constitution of the Combined Authority.
 
 (8) Where paragraph (7) applies, the reference in paragraphs (4)(b) and (5)(b) to the third day is deemed to be the day before the day deemed to have effect in accordance with paragraph (7).
 
-### 7. Political adviser[^key-837a48865548dd80b15af721f62954ec]
+### 7. Political adviser[^c-837a48865548dd80b15af721f62954ec]
 
 (1) The mayor may appoint one person as their political adviser.
 
@@ -152,7 +152,7 @@ The Schedule makes provision about the constitution of the Combined Authority.
 
 ## Part 4 — Transport etc.
 
-### 8. Local transport functions under the Transport Act 2000[^key-e5e2f17be3868f45470e7f89021f5fe4]
+### 8. Local transport functions under the Transport Act 2000[^c-e5e2f17be3868f45470e7f89021f5fe4]
 
 (1) Subject to paragraph (2), the functions of the constituent councils as local transport authorities specified in sections 108 (local transport plans)[^f00012], 109 (further provisions about plans: England)[^f00013] and 112 (plans and strategies: supplementary)[^f00014] of the 2000 Act are exercisable by the Combined Authority in relation to the Area instead of by the constituent councils.
 
@@ -160,7 +160,7 @@ The Schedule makes provision about the constitution of the Combined Authority.
 
 (3) In this article, “**the transition period**” means the period beginning with the day after the day on which this Order was made and ending with 31st March 2027.
 
-### 9. Power to pay grant[^key-54c861d8c7131071b3689d1e650206d3]
+### 9. Power to pay grant[^c-54c861d8c7131071b3689d1e650206d3]
 
 (1) The functions of a Minister of the Crown specified in section 31 of the 2003 Act (power to pay grant) that are exercisable in relation to the Area are functions of the Combined Authority.
 
@@ -182,7 +182,7 @@ The Schedule makes provision about the constitution of the Combined Authority.
 
 (7) In this article, “**highway functions**” means functions exercisable by a constituent council (in whatever capacity) in relation to the highways for which it is the highway authority.
 
-### 10. Amendment of the Sub-national Transport Body (Transport for the North) Regulations 2018[^key-efb599b68ad217adbd5cb22580cf410e]
+### 10. Amendment of the Sub-national Transport Body (Transport for the North) Regulations 2018[^c-efb599b68ad217adbd5cb22580cf410e]
 
 (1) The Sub-national Transport Body (Transport for the North) Regulations 2018[^f00015] are amended in accordance with paragraph (2).
 
@@ -195,7 +195,7 @@ The Schedule makes provision about the constitution of the Combined Authority.
 
 **Not yet in force.**
 
-### 11. Functions exercisable only by the mayor[^key-e676718b67778a7c443097655e741c70]
+### 11. Functions exercisable only by the mayor[^c-e676718b67778a7c443097655e741c70]
 
 (1) The functions of the Combined Authority specified in paragraph (2) are general functions exercisable only by the mayor.
 
@@ -208,13 +208,13 @@ The Schedule makes provision about the constitution of the Combined Authority.
 
 (4) For the purposes of the exercise of the functions mentioned in paragraph (2), the mayor may do anything that the Combined Authority may do under section 113A of the 2009 Act (general power of EPB or combined authority)[^f00016].
 
-### 12. Joint committee[^key-ebcb3a946d04c5be0f17150bcbcc9435]
+### 12. Joint committee[^c-ebcb3a946d04c5be0f17150bcbcc9435]
 
 The mayor may enter into arrangements jointly with the Combined Authority, the constituent councils and other local authorities in accordance with section 101(5) of the Local Government Act 1972 (arrangement for discharge of functions by local authorities)[^f00017] for the discharge of the general functions of the Combined Authority which are exercisable only by the mayor pursuant to article 11.
 
 ## Part 6 — Funding
 
-### 13. Funding[^key-fe28e458434464ac87ef30824e5fad7b]
+### 13. Funding[^c-fe28e458434464ac87ef30824e5fad7b]
 
 (1) Subject to paragraph (3), the constituent councils must ensure that the costs of the Combined Authority which are reasonably attributable to the exercise of its functions are met.
 
@@ -233,7 +233,7 @@ The mayor may enter into arrangements jointly with the Combined Authority, the c
 
 ## Part 7 — Additional functions
 
-### 14. Data sharing[^key-98c69b0d99f40f3dd42bfb203d3b6ffd]
+### 14. Data sharing[^c-98c69b0d99f40f3dd42bfb203d3b6ffd]
 
 (1) The functions of the constituent councils described in section 17A of the Crime and Disorder Act 1998[^f00020] (sharing of information) are exercisable by the Combined Authority in relation to the Area.
 
@@ -241,7 +241,7 @@ The mayor may enter into arrangements jointly with the Combined Authority, the c
 
 (3) The functions referred to in paragraph (1) are exercisable concurrently with the constituent councils.
 
-### 15. Incidental provisions[^key-2d3909e4e2fb0c6ab978a89bb9e9818b]
+### 15. Incidental provisions[^c-2d3909e4e2fb0c6ab978a89bb9e9818b]
 
 (1) The following provisions of the Local Government Act 1972 have effect in relation to the Combined Authority as if it were a local authority—
 
@@ -292,7 +292,7 @@ Ministry of Housing, Communities and Local Government
 
 Article 5
 
-### 1. Membership[^key-4e444a1daeaad8b4bc9f6051942208f1]
+### 1. Membership[^c-4e444a1daeaad8b4bc9f6051942208f1]
 
 (1) Each constituent council must appoint two of its elected members to be members of the Combined Authority.
 
@@ -311,7 +311,7 @@ Article 5
 
 (7) The term “proper officer” in this paragraph, in relation to a body and any purpose or area, means an officer appointed by the body for that purpose or area.
 
-### 2. Chairs and vice-chair[^key-5773792e09e3802ecdb4abb2f2972be4]
+### 2. Chairs and vice-chair[^c-5773792e09e3802ecdb4abb2f2972be4]
 
 (1) Before the election for the return of the mayor, the Combined Authority must appoint a chair and a vice chair from amongst its members and these appointments are to be the first business transacted after the appointment of members of the Combined Authority, at the first meeting of the Combined Authority.
 
@@ -333,7 +333,7 @@ no meeting of the Combined Authority may take place.
 
 (6) The chair of the Combined Authority ceases to hold office, and the office of vice chair is abolished, at the end of the day before the first mayor’s term of office begins[^f00027].
 
-### 3. Non-constituent and associate members[^key-ee6789b24d802ba6ee607a3707c151aa]
+### 3. Non-constituent and associate members[^c-ee6789b24d802ba6ee607a3707c151aa]
 
 (1) The Combined Authority must have no more than four non-constituent members and associate members[^f00028].
 
@@ -341,7 +341,7 @@ no meeting of the Combined Authority may take place.
 
 (3) An associate member appointed under section 104B of the 2009 Act (associate members of a combined authority) must nominate another person to act as a member of the Combined Authority in their absence.
 
-### 4. Proceedings[^key-1bd39d621938841e48d93d8194a4e611]
+### 4. Proceedings[^c-1bd39d621938841e48d93d8194a4e611]
 
 (1) Subject to article 8(4) of the Combined Authorities (Finance) Order 2017[^f00030], any decision of the Combined Authority is to be decided by a simple majority of the members present and voting on that decision at a meeting of the Combined Authority and, after the beginning of the first mayor’s term of office, such majority is to include the mayor, or the deputy mayor acting in place of the mayor.
 
@@ -357,7 +357,7 @@ no meeting of the Combined Authority may take place.
 
 (7) The proceedings of the Combined Authority are not invalidated by any vacancy among its members or substitute members or by any defect in the appointment or qualifications of any member or substitute member.
 
-### 5. Records[^key-8eac8e8a67550200c8484d7013da5c3d]
+### 5. Records[^c-8eac8e8a67550200c8484d7013da5c3d]
 
 (1) The Combined Authority must make arrangements for the names of members present at any meeting to be recorded.
 
@@ -371,13 +371,13 @@ no meeting of the Combined Authority may take place.
 
 (6) For the purposes of sub-paragraph (3), the next suitable meeting is the next following meeting or, where standing orders made by the Combined Authority provide for another meeting of the Authority, committee or sub-committee to be regarded as suitable, either the next following meeting or that other meeting.
 
-### 6. Standing orders[^key-97f11f9e2d61a4154a9135f53c011b86]
+### 6. Standing orders[^c-97f11f9e2d61a4154a9135f53c011b86]
 
 The Combined Authority may make standing orders for the regulation of its proceedings and business, provided that the standing orders are consistent with this Schedule, and may vary or revoke any such orders.
 
-### 7. Remuneration and pensions[^key-a3bf32037167cd73fc309479c82ffeab][^key-22486d2ff1eebf66ac6772f3ff0d2bce]
+### 7. Remuneration and pensions[^c-a3bf32037167cd73fc309479c82ffeab][^c-22486d2ff1eebf66ac6772f3ff0d2bce]
 
-(1)[^key-ce61ef46e0f798d0538079e9dfe1c3a6] Subject to sub-paragraphs (2) to (3A), no remuneration or allowances are to be payable by the Combined Authority to its members, other than—
+(1)[^c-ce61ef46e0f798d0538079e9dfe1c3a6] Subject to sub-paragraphs (2) to (3A), no remuneration or allowances are to be payable by the Combined Authority to its members, other than—
 
 - (a) allowances for travel and subsistence paid in accordance with a scheme approved by the Combined Authority;
 - (b) allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
@@ -396,20 +396,20 @@ The Combined Authority may make standing orders for the regulation of its procee
   - (ii) considered a report published by the independent remuneration panel mentioned in sub-paragraph (i) which contains recommendations for such an allowance, and
 - (b) the allowance paid does not exceed the amount specified in the recommendation made by the independent remuneration panel.
 
-(3A)[^key-4dea41cc4f17a442b72b265833dc1716] Where the Combined Authority pays a relevant allowance to a person—
+(3A)[^c-4dea41cc4f17a442b72b265833dc1716] Where the Combined Authority pays a relevant allowance to a person—
 
 - (a) that person is entitled to a pension paid in accordance with a scheme established under section 1 of the Public Service Pensions Act 2013;
 - (b) the allowance is to be treated as an amount in respect of which such a pension is payable in accordance with that scheme; and
 - (c) the Combined Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
 
-(3B)[^key-21a9b4134b87458394cbad1f94f9996a] In sub-paragraph (3A), “relevant allowance” means—
+(3B)[^c-21a9b4134b87458394cbad1f94f9996a] In sub-paragraph (3A), “relevant allowance” means—
 
 - (a) an allowance payable under sub-paragraph (2) to any person referred to in that sub-paragraph, which is not an allowance for travel and subsistence;
 - (b) an allowance payable in accordance with a scheme made under section 113E of the 2009 Act.
 
 (4) Article 16(2)(a) of the 2017 Order applies in relation to the Combined Authority as if after “sub-committee of that authority” there were inserted “or a member of a constituent council or a member of a district council”.
 
-### 8. Constitution[^key-53003162f3a859b80398fbd50ff15320]
+### 8. Constitution[^c-53003162f3a859b80398fbd50ff15320]
 
 The Combined Authority may make provision about its constitution, provided that the provision made is consistent with this Schedule.
 
@@ -445,9 +445,9 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00004]: Footnote: Section 105B was inserted by section 7 of the Cities and Local Government Devolution Act 2016 (“**the 2016 Act**”). Section 110(1) to (3) was substituted by section 14(7) of the 2016 Act. Section 110(1)(a) to (ab) was substituted by section 65(5) of the Levelling-up and Regeneration Act 2023.
 
-[^key-14155ff1d046a17444822beb9f38718a]: Commencement: Art. 1 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-14155ff1d046a17444822beb9f38718a]: Commencement: Art. 1 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-0377fd10da80cef6a49870d0d7401102]: Commencement: Art. 2 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-0377fd10da80cef6a49870d0d7401102]: Commencement: Art. 2 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00005]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -455,25 +455,25 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00007]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-98e34a678cb4f0227fc5b92c070a98d5]: Commencement: Art. 3 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-98e34a678cb4f0227fc5b92c070a98d5]: Commencement: Art. 3 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-d1f62e01ada33f2c6e6dbf3d1f6e1008]: Commencement: Art. 4 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-d1f62e01ada33f2c6e6dbf3d1f6e1008]: Commencement: Art. 4 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00008]: Footnote: “Financial year” is defined in section 3(4) of the Local Audit and Accountability Act 2014.
 
-[^key-f6087a28752429b0470a445a04afb853]: Commencement: Art. 5 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-f6087a28752429b0470a445a04afb853]: Commencement: Art. 5 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-735c7c9a080eca0f55c0f5247967db94]: Commencement: Art. 6 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-735c7c9a080eca0f55c0f5247967db94]: Commencement: Art. 6 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00009]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 was amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by section 17 of, and paragraph 5 of Schedule 3 to, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
 [^f00010]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-837a48865548dd80b15af721f62954ec]: Commencement: Art. 7 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-837a48865548dd80b15af721f62954ec]: Commencement: Art. 7 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00011]: Footnote: Section 9 was amended by sections 61 and 204 of, and paragraph 2 of Schedule 2 to, the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28) and by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237). There are other amendments not relevant to this instrument.
 
-[^key-e5e2f17be3868f45470e7f89021f5fe4]: Commencement: Art. 8 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-e5e2f17be3868f45470e7f89021f5fe4]: Commencement: Art. 8 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00012]: Footnote: Section 108 was amended by sections 7 to 9 and 77 of, and paragraphs 41 and 42 of Schedule 4 and Part 1 of Schedule 7 to, the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), paragraph 96 of Schedule 6 to the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), and paragraphs 124 and 125 of Schedule 4 to, the Levelling-up and Regeneration Act 2023.
 
@@ -481,33 +481,33 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00014]: Footnote: Section 112 was amended by sections 10(3) to (5) and 11 of, and Part 1 of Schedule 7 to, the Local Transport Act 2008, and by paragraph 48 of Schedule 26 to, the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-54c861d8c7131071b3689d1e650206d3]: Commencement: Art. 9 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-54c861d8c7131071b3689d1e650206d3]: Commencement: Art. 9 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-efb599b68ad217adbd5cb22580cf410e]: Commencement: Art. 10 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-efb599b68ad217adbd5cb22580cf410e]: Commencement: Art. 10 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00015]: Footnote: [S.I. 2018/103](https://www.legislation.gov.uk/uksi/2018/103), amended by [S.I. 2018/1133](https://www.legislation.gov.uk/uksi/2018/1133); [2023/187](https://www.legislation.gov.uk/uksi/2023/187), [1432](https://www.legislation.gov.uk/uksi/2023/1432); [2024/402](https://www.legislation.gov.uk/uksi/2024/402); [2025/113](https://www.legislation.gov.uk/uksi/2025/113), [117](https://www.legislation.gov.uk/uksi/2025/117) and [118](https://www.legislation.gov.uk/uksi/2025/118).
 
-[^key-e676718b67778a7c443097655e741c70]: Commencement: Art. 11 in force at 10.5.2027, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/158/article/1/3)
+[^c-e676718b67778a7c443097655e741c70]: Commencement: Art. 11 in force at 10.5.2027, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/158/article/1/3)
 
 [^f00016]: Footnote: Section 113A was inserted by section 13(1) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and amended by paragraph 25 of Schedule 5 to the 2016 Act.
 
-[^key-ebcb3a946d04c5be0f17150bcbcc9435]: Commencement: Art. 12 in force at 10.5.2027, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/158/article/1/3)
+[^c-ebcb3a946d04c5be0f17150bcbcc9435]: Commencement: Art. 12 in force at 10.5.2027, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/158/article/1/3)
 
 [^f00017]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-fe28e458434464ac87ef30824e5fad7b]: Commencement: Art. 13 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-fe28e458434464ac87ef30824e5fad7b]: Commencement: Art. 13 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00018]: Footnote: The Statistics Board is established in section 1 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18).
 
 [^f00019]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 40 was amended by section 83 of the Greater London Authority Act 1999, section 79 of, and paragraph 7 of Schedule 17 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 5 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-98c69b0d99f40f3dd42bfb203d3b6ffd]: Commencement: Art. 14 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-98c69b0d99f40f3dd42bfb203d3b6ffd]: Commencement: Art. 14 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00020]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37). Section 17A was inserted by section 22 of, and paragraph 5 of Schedule 9 to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and amended by paragraph 45 of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12).
 
 [^f00021]: Footnote: Section 115 was amended by paragraphs 150 and 151 of Schedule 7 to the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43); section 97 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30); section 219 of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34); paragraph 7 of Schedule 9 to the Police and Justice Act 2006; section 29 of the Transport for London Act [2008 (c. 1)](https://www.legislation.gov.uk/ukpga/2008/1); paragraphs 231 and 238 of Schedule 16 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); paragraphs 83 and 90 of Schedule 5 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7); paragraph 80 of Schedule 1 and paragraph 106 of Schedule 2 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3); paragraph 1(1) of Schedule 1 and paragraph 57 of Schedule 4 to the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31); and [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2007/961](https://www.legislation.gov.uk/uksi/2007/961), [2008/912](https://www.legislation.gov.uk/uksi/2008/912), [2010/866](https://www.legislation.gov.uk/uksi/2010/866) and [2013/602](https://www.legislation.gov.uk/uksi/2013/602).
 
-[^key-2d3909e4e2fb0c6ab978a89bb9e9818b]: Commencement: Art. 15 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-2d3909e4e2fb0c6ab978a89bb9e9818b]: Commencement: Art. 15 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00022]: Footnote: Section 142(2) was amended by section 3(1)(c) of the Local Government Act [1986 (c. 10)](https://www.legislation.gov.uk/ukpga/1986/10).
 
@@ -519,36 +519,36 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00026]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-4e444a1daeaad8b4bc9f6051942208f1]: Commencement: Sch. para. 1 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-4e444a1daeaad8b4bc9f6051942208f1]: Commencement: Sch. para. 1 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-5773792e09e3802ecdb4abb2f2972be4]: Commencement: Sch. para. 2 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-5773792e09e3802ecdb4abb2f2972be4]: Commencement: Sch. para. 2 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00027]: Footnote: Section 107A(6) of the Local Democracy, Economic Development and Construction Act 2009 provides that the mayor for the area of a combined authority is by virtue of that office a member of, and chair of, the combined authority.
 
-[^key-ee6789b24d802ba6ee607a3707c151aa]: Commencement: Sch. para. 3 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-ee6789b24d802ba6ee607a3707c151aa]: Commencement: Sch. para. 3 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00028]: Footnote: For the meaning of “non-constituent member” and “associate member” see sections 104A and 104B of the 2009 Act. These were inserted by section 64 of the Levelling-up and Regeneration Act 2023.
 
 [^f00029]: Footnote: “Nominating body” is defined in section 120 of the Local Democracy, Economic Development and Construction Act 2009.
 
-[^key-1bd39d621938841e48d93d8194a4e611]: Commencement: Sch. para. 4 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-1bd39d621938841e48d93d8194a4e611]: Commencement: Sch. para. 4 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
 [^f00030]: Footnote: [S.I. 2017/611](https://www.legislation.gov.uk/uksi/2017/611), as amended by [S.I. 2024/652](https://www.legislation.gov.uk/uksi/2024/652).
 
-[^key-8eac8e8a67550200c8484d7013da5c3d]: Commencement: Sch. para. 5 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-8eac8e8a67550200c8484d7013da5c3d]: Commencement: Sch. para. 5 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-97f11f9e2d61a4154a9135f53c011b86]: Commencement: Sch. para. 6 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-97f11f9e2d61a4154a9135f53c011b86]: Commencement: Sch. para. 6 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-a3bf32037167cd73fc309479c82ffeab]: Commencement: Sch. para. 7 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-a3bf32037167cd73fc309479c82ffeab]: Commencement: Sch. para. 7 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
 
-[^key-22486d2ff1eebf66ac6772f3ff0d2bce]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7) heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/27/a)
+[^c-22486d2ff1eebf66ac6772f3ff0d2bce]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7) heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/27/a)
 
-[^key-ce61ef46e0f798d0538079e9dfe1c3a6]: Textual amendment: [Sch. para. 7(1)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/18/2/a)
+[^c-ce61ef46e0f798d0538079e9dfe1c3a6]: Textual amendment: [Sch. para. 7(1)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/18/2/a)
 
 [^f00031]: Footnote: [S.I. 2017/68](https://www.legislation.gov.uk/uksi/2017/68). Article 16 was inserted by [S.I. 2024/430](https://www.legislation.gov.uk/uksi/2024/430).
 
-[^key-4dea41cc4f17a442b72b265833dc1716]: Textual amendment: [Sch. para. 7(3A)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/3A)[(3B)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/3B) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [27(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/27/c)
+[^c-4dea41cc4f17a442b72b265833dc1716]: Textual amendment: [Sch. para. 7(3A)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/3A)[(3B)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/3B) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [27(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/27/c)
 
-[^key-21a9b4134b87458394cbad1f94f9996a]: Textual amendment: [Sch. para. 7(3B)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/3B) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/18/2/b)
+[^c-21a9b4134b87458394cbad1f94f9996a]: Textual amendment: [Sch. para. 7(3B)](https://www.legislation.gov.uk/uksi/2026/158/schedule/paragraph/7/3B) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/18/2/b)
 
-[^key-53003162f3a859b80398fbd50ff15320]: Commencement: Sch. para. 8 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)
+[^c-53003162f3a859b80398fbd50ff15320]: Commencement: Sch. para. 8 in force at 24.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2)

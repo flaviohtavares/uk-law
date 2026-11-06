@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 35 — Stamp duty: withdrawal of relief for company acquisitions: supplementary provisions[^key-9d532628acb1c17f9dcba1f2696f99dc]
+## SCHEDULE 35 — Stamp duty: withdrawal of relief for company acquisitions: supplementary provisions[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Section 113
 
-### 1. Introduction[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 1. Introduction[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Change of control due to exempt transfer[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 2. Change of control due to exempt transfer[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Change of control due to intra-group transfer[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 3. Change of control due to intra-group transfer[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Change of control due to exempt share acquisition[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 4. Change of control due to exempt share acquisition[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Change of control due to interest of loan creditor[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 5. Change of control due to interest of loan creditor[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Interest[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 6. Interest[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Duty of acquiring company to notify particulars[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 7. Duty of acquiring company to notify particulars[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Determination, collection and recovery of duty and interest[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 8. Determination, collection and recovery of duty and interest[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Recovery of section 76 relief from from another group company or controlling director[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 9. Recovery of section 76 relief from from another group company or controlling director[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Recovery of section 76 relief from another group company or controlling director: procedure and time limit[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 10. Recovery of section 76 relief from another group company or controlling director: procedure and time limit[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Power to require information[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 11. Power to require information[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Supplementary[^key-9d532628acb1c17f9dcba1f2696f99dc]
+### 12. Supplementary[^c-9d532628acb1c17f9dcba1f2696f99dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d532628acb1c17f9dcba1f2696f99dc]: Textual amendment: [Sch. 35](https://www.legislation.gov.uk/ukpga/2002/23/schedule/35) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-9d532628acb1c17f9dcba1f2696f99dc]: Textual amendment: [Sch. 35](https://www.legislation.gov.uk/ukpga/2002/23/schedule/35) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

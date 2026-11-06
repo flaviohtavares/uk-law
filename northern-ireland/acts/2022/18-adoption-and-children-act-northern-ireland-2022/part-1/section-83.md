@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Giving parental responsibility prior to adoption abroad[^key-86705372e6bf8585ea6a1cc83682b7d5]
+## 83. Giving parental responsibility prior to adoption abroad[^c-86705372e6bf8585ea6a1cc83682b7d5]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86705372e6bf8585ea6a1cc83682b7d5]: Commencement: S. 83 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-86705372e6bf8585ea6a1cc83682b7d5]: Commencement: S. 83 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

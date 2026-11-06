@@ -28,7 +28,7 @@ summary: ''
 
 (2) Where the landlord’s interest is held on trust the references in paragraph (g) of subsection (1) of section thirty of this Act to the landlord shall be construed as including references to the beneficiaries under the trust or any of them; but, except in the case of a trust arising under a will or on the intestacy of any person, the reference in subsection (2) of that section to the creation of the interest therein mentioned shall be construed as including the creation of the trust.
 
-(3)[^key-c69b61571995afe72a342396d34508a3] Where a tenancy is held on trust, section 43ZA(2) has effect as if—
+(3)[^c-c69b61571995afe72a342396d34508a3] Where a tenancy is held on trust, section 43ZA(2) has effect as if—
 
 - (a) paragraph (b) were omitted, and
 - (b) the condition in paragraph (c)(i) were a condition that the terms of the tenancy require at least one individual who is a trustee or a beneficiary under the trust to occupy the dwelling-house as a home (whether or not as that individual's only or principal home).
@@ -37,4 +37,4 @@ summary: ''
 
 [^c318906]: Textual amendment: Words inserted by [Law of Property Act 1969 (c. 59)](https://www.legislation.gov.uk/ukpga/1969/59), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1969/59/section/1/2)
 
-[^key-c69b61571995afe72a342396d34508a3]: Textual amendment: [S. 41(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/41/3) inserted (1.10.2015 for E., 1.10.2015 for W.) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/36/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/36/3)); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b); [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2015/1710/regulation/2/b)
+[^c-c69b61571995afe72a342396d34508a3]: Textual amendment: [S. 41(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/56/section/41/3) inserted (1.10.2015 for E., 1.10.2015 for W.) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/36/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/36/3)); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b); [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2015/1710/regulation/2/b)

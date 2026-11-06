@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19A. Information to be provided for entry in Part 1 of the register[^key-b51f75a8d42d2db05875c892e8addd99]
+## 19A. Information to be provided for entry in Part 1 of the register[^c-b51f75a8d42d2db05875c892e8addd99]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b51f75a8d42d2db05875c892e8addd99]: Textual amendment: Reg. 19A omitted (1.5.2019) by virtue of [The Childrens Homes etc. Inspection Fees, Childcare Fees, Adoption and Children Act Register (Amendment) Regulations 2019 (S.I. 2019/835)](https://www.legislation.gov.uk/uksi/2019/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/835/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2019/835/regulation/7/b)
+[^c-b51f75a8d42d2db05875c892e8addd99]: Textual amendment: Reg. 19A omitted (1.5.2019) by virtue of [The Childrens Homes etc. Inspection Fees, Childcare Fees, Adoption and Children Act Register (Amendment) Regulations 2019 (S.I. 2019/835)](https://www.legislation.gov.uk/uksi/2019/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/835/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2019/835/regulation/7/b)

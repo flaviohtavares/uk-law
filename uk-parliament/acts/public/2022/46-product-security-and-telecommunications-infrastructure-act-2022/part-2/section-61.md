@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Rent under tenancies conferring code rights: England and Wales[^key-6175646c73d00d034c71071ce1a70a70][^key-580f000daed856194e020a52a242802a]
+## 61. Rent under tenancies conferring code rights: England and Wales[^c-6175646c73d00d034c71071ce1a70a70][^c-580f000daed856194e020a52a242802a]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6175646c73d00d034c71071ce1a70a70]: Commencement: S. 61 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-6175646c73d00d034c71071ce1a70a70]: Commencement: S. 61 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-580f000daed856194e020a52a242802a]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/46/section/61) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))
+[^c-580f000daed856194e020a52a242802a]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/46/section/61) in force at 7.4.2026 by [S.I. 2025/1326](https://www.legislation.gov.uk/uksi/2025/1326), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1326/regulation/2/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2025/1326/regulation/3))

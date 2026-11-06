@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Power to establish single regulator of insolvency practitioners[^key-917da05a74927464177dcca054cf2053]
+## 144. Power to establish single regulator of insolvency practitioners[^c-917da05a74927464177dcca054cf2053]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-917da05a74927464177dcca054cf2053]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2015/26/section/144) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)
+[^c-917da05a74927464177dcca054cf2053]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2015/26/section/144) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/b)

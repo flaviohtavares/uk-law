@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Additional requirements for applications for a proxy signature for an indefinite period on grounds of blindness or other disability: Northern Ireland[^key-d5c0b50412d42f91385770076f11781e]
+## 65. Additional requirements for applications for a proxy signature for an indefinite period on grounds of blindness or other disability: Northern Ireland[^c-d5c0b50412d42f91385770076f11781e]
 
 *Extent: N.I.*
 
@@ -44,9 +44,9 @@ summary: ''
 - (a) the application is based on the applicant’s blindness and the applicant is registered as a blind person by a Health and Social Care Trust which is specified in the application; or
 - (b) the application states that the applicant is in receipt of—
   - (i) the higher rate of attendance allowance (payable under section 65 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00041]),
-  - (ii) the highest rate of the care component or the higher rate of the mobility component (or both) of the disability living allowance (payable under section 72 and section 73 of that Act), [^key-40c70a91acdd0dfe8936ccc15316f971]...
-  - (iii) armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011, [^key-113a379975d6c86cf1c928f1ccfa140f]...
-  - (iv)[^key-b4b7326879a720e88703fe4e54da5610] the higher rate of the mobility component of disability assistance for children and young people (payable in accordance with regulations made under section 31 of the 2018 Act), or[^key-868d505df5425c24ef715ca7b53b4099]
+  - (ii) the highest rate of the care component or the higher rate of the mobility component (or both) of the disability living allowance (payable under section 72 and section 73 of that Act), [^c-40c70a91acdd0dfe8936ccc15316f971]...
+  - (iii) armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011, [^c-113a379975d6c86cf1c928f1ccfa140f]...
+  - (iv)[^c-b4b7326879a720e88703fe4e54da5610] the higher rate of the mobility component of disability assistance for children and young people (payable in accordance with regulations made under section 31 of the 2018 Act), or[^c-868d505df5425c24ef715ca7b53b4099]
   - (v) the enhanced rate of the mobility component of disability assistance for working age people (payable in accordance with regulations made under section 31 of the 2018 Act),
 
   because of the disability specified in the application.
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d5c0b50412d42f91385770076f11781e]: Commencement: Reg. 65 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d5c0b50412d42f91385770076f11781e]: Commencement: Reg. 65 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00038]: Footnote: [2001 c. 3](https://www.legislation.gov.uk/ukpga/2001/3).
 
@@ -65,10 +65,10 @@ summary: ''
 
 [^f00041]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-40c70a91acdd0dfe8936ccc15316f971]: Textual amendment: Word in reg. 65(4)(b)(ii) omitted (22.11.2021) by virtue of [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/4/a)
+[^c-40c70a91acdd0dfe8936ccc15316f971]: Textual amendment: Word in reg. 65(4)(b)(ii) omitted (22.11.2021) by virtue of [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/4/a)
 
-[^key-113a379975d6c86cf1c928f1ccfa140f]: Textual amendment: Word in reg. 65(4)(b)(iii) omitted (21.3.2022) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/9/3/a)
+[^c-113a379975d6c86cf1c928f1ccfa140f]: Textual amendment: Word in reg. 65(4)(b)(iii) omitted (21.3.2022) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2022/332/article/9/3/a)
 
-[^key-b4b7326879a720e88703fe4e54da5610]: Textual amendment: Reg. 65(4)(b)(iv) inserted (22.11.2021) by [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/4/c)
+[^c-b4b7326879a720e88703fe4e54da5610]: Textual amendment: Reg. 65(4)(b)(iv) inserted (22.11.2021) by [The Social Security (Scotland) Act 2018 (Information-Sharing and Disability Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/1188)](https://www.legislation.gov.uk/uksi/2021/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1188/article/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2021/1188/article/9/4/c)
 
-[^key-868d505df5425c24ef715ca7b53b4099]: Textual amendment: Reg. 65(4)(b)(v) and word inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/9/3/b)
+[^c-868d505df5425c24ef715ca7b53b4099]: Textual amendment: Reg. 65(4)(b)(v) and word inserted (21.3.2022) by [The Social Security (Scotland) Act 2018 (Disability Assistance and Information-Sharing) (Consequential Provision and Modifications) Order 2022 (S.I. 2022/332)](https://www.legislation.gov.uk/uksi/2022/332), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/332/article/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2022/332/article/9/3/b)

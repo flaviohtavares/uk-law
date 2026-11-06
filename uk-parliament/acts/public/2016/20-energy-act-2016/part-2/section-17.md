@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Overview of Part 2[^key-dc8c1d64634b7ab0aef4d7a7e1e64006]
+## 17. Overview of Part 2[^c-dc8c1d64634b7ab0aef4d7a7e1e64006]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc8c1d64634b7ab0aef4d7a7e1e64006]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/20/section/17) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-dc8c1d64634b7ab0aef4d7a7e1e64006]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/20/section/17) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

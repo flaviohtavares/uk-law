@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Right of entry and offences[^key-d71590787b8fd53226756f2da4993867][^key-d5e85a075182ba4c752c587a59865f3a]
+## 64. Right of entry and offences[^c-d71590787b8fd53226756f2da4993867][^c-d5e85a075182ba4c752c587a59865f3a]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ as the Chief Inspector may reasonably require.
 
 ## Annotations
 
-[^key-d71590787b8fd53226756f2da4993867]: Commencement: S. 64 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-d71590787b8fd53226756f2da4993867]: Commencement: S. 64 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-d5e85a075182ba4c752c587a59865f3a]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2022/1/section/64) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(h)](https://www.legislation.gov.uk/wsi/2026/62/article/2/h)
+[^c-d5e85a075182ba4c752c587a59865f3a]: Commencement: [S. 64](https://www.legislation.gov.uk/asc/2022/1/section/64) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(h)](https://www.legislation.gov.uk/wsi/2026/62/article/2/h)

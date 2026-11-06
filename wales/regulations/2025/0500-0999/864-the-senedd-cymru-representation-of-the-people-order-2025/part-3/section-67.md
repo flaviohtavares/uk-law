@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Right to send election address post free[^key-b849fd2165345bc0af70978aa506ed2a]
+## 67. Right to send election address post free[^c-b849fd2165345bc0af70978aa506ed2a]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b849fd2165345bc0af70978aa506ed2a]: Commencement: Art. 67 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-b849fd2165345bc0af70978aa506ed2a]: Commencement: Art. 67 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00055]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26). Section 89 was amended by paragraph 23 of Schedule 12 to the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5).

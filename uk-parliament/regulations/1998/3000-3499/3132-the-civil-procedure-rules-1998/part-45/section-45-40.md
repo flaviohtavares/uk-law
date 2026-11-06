@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.40. Costs-only application after a claim is started under Part 8 in accordance with Practice Direction 49F[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.40. Costs-only application after a claim is started under Part 8 in accordance with Practice Direction 49F[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (2) Either party may make an application for the court to determine the costs.
 
-(3) Where an application is made under this rule the court shall determine[^key-fcddcc19d7c635e5bf9a27e92101f3d7] the costs in accordance with the relevant provisions in rule 45.31 in so far as that rule applies to proceedings started under the Stage 3 Procedure and the settlement is more than the defendant’s relevant Protocol offer or rule 45.36.
+(3) Where an application is made under this rule the court shall determine[^c-fcddcc19d7c635e5bf9a27e92101f3d7] the costs in accordance with the relevant provisions in rule 45.31 in so far as that rule applies to proceedings started under the Stage 3 Procedure and the settlement is more than the defendant’s relevant Protocol offer or rule 45.36.
 
 (4) Rule 44.5 (amount of costs where costs are payable pursuant to a contract) does not apply to an application under this rule.
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-fcddcc19d7c635e5bf9a27e92101f3d7]: Textual amendment: Word in rule 45.40(3) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/5)
+[^c-fcddcc19d7c635e5bf9a27e92101f3d7]: Textual amendment: Word in rule 45.40(3) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.2. Winding up by the court: the various forms of petition (NO CVL APPLICATION)[^key-af8ab7b8fd03f70124f7460463194bad][^key-4c681dec65c952ee047346328a1122fd]
+## 4.2. Winding up by the court: the various forms of petition (NO CVL APPLICATION)[^c-af8ab7b8fd03f70124f7460463194bad][^c-4c681dec65c952ee047346328a1122fd]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - paragraph (d)—company not commencing business after formation, or suspending business;
 - paragraph (e)—number of company's members reduced below 2;
 - paragraph (f)—company unable to pay its debts;
-- paragraph (fa)—end of moratorium without approval of voluntary arrangement;[^key-8fad89cb315b782f5408b7e692afd48f]
+- paragraph (fa)—end of moratorium without approval of voluntary arrangement;[^c-8fad89cb315b782f5408b7e692afd48f]
 - paragraph (g)—court's power under the “just and equitable” rule,
 
 or under any enactment enabling the presentation of a winding-up petition.
@@ -41,8 +41,8 @@ or under any enactment enabling the presentation of a winding-up petition.
 
 ## Annotations
 
-[^key-af8ab7b8fd03f70124f7460463194bad]: Commencement: Rule 4.2 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-af8ab7b8fd03f70124f7460463194bad]: Commencement: Rule 4.2 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-4c681dec65c952ee047346328a1122fd]: Textual amendment: Words in rule 4.2 inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 35](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/35)
+[^c-4c681dec65c952ee047346328a1122fd]: Textual amendment: Words in rule 4.2 inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 35](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/35)
 
-[^key-8fad89cb315b782f5408b7e692afd48f]: Textual amendment: Words in rule 4.2(1) inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/2/paragraph/22) (with [rule 4(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/4/2))
+[^c-8fad89cb315b782f5408b7e692afd48f]: Textual amendment: Words in rule 4.2(1) inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/2/paragraph/22) (with [rule 4(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/4/2))

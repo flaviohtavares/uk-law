@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Application of taper relief: special rules for assets acquired in the reconstruction of mutual businesses etc.[^key-0b8ff3112cae4e81fb0fee36ed8d2b41]
+## 71. Application of taper relief: special rules for assets acquired in the reconstruction of mutual businesses etc.[^c-0b8ff3112cae4e81fb0fee36ed8d2b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b8ff3112cae4e81fb0fee36ed8d2b41]: Commencement: Art. 71 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-0b8ff3112cae4e81fb0fee36ed8d2b41]: Commencement: Art. 71 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00089]: Footnote: Schedule A1 was inserted by Schedule 20 to the Finance Act 1998.

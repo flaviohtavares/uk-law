@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.73. Meaning of “prove”[^key-5c9ae5cf832ba922309e47da36562214]
+## 4.73. Meaning of “prove”[^c-5c9ae5cf832ba922309e47da36562214]
 
 *Extent: E+W*
 
@@ -34,12 +34,12 @@ summary: ''
 
 (7) In certain circumstances, specified below in this Chapter, the proof must be in the form of an affidavit.
 
-(8)[^key-b1ee14361eac0cc4888090fc3d0f82cb] Where a winding up is immediately preceded by an administration, a creditor proving in the administration shall be deemed to have proved in the winding up.
+(8)[^c-b1ee14361eac0cc4888090fc3d0f82cb] Where a winding up is immediately preceded by an administration, a creditor proving in the administration shall be deemed to have proved in the winding up.
 
 ## Annotations
 
-[^key-5c9ae5cf832ba922309e47da36562214]: Commencement: [Rule 4.73](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.73) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5c9ae5cf832ba922309e47da36562214]: Commencement: [Rule 4.73](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.73) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00055]: Marginal citation: \[FORM 4.25\]
 
-[^key-b1ee14361eac0cc4888090fc3d0f82cb]: Textual amendment: Rule 4.73(8) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/18)
+[^c-b1ee14361eac0cc4888090fc3d0f82cb]: Textual amendment: Rule 4.73(8) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/18)

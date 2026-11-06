@@ -37,13 +37,13 @@ summary: ''
 
 (5) In section 11(1) of that Act (rebate on heavy oil)—
 
-- (a)[^key-b6ee3d09381eb141d2baf5ec4f83cd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9df5c6bb5a9b034df7d4d056146a9117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b6ee3d09381eb141d2baf5ec4f83cd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9df5c6bb5a9b034df7d4d056146a9117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (c), for “other than fuel oil and” there shall be substituted “ which is neither fuel oil nor ”.
 
 (6) In section 13AA(6) of that Act (rate for rebated gas oil), for “section 6(1) above in the case of heavy oil” there shall be substituted “ section 6(1A) above in the case of heavy oil which is not ultra low sulphur diesel, ”.
 
-(7)[^key-57f2296860576aed3cb37b0123ef617f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-57f2296860576aed3cb37b0123ef617f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 27(1) of that Act (interpretation)—
 
@@ -52,7 +52,7 @@ summary: ''
   > - “**gas oil**” has the meaning given by section 1(5) above;
 
   and
-- (b)[^key-4d84b83bc549688f63a83166a56ac144] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4d84b83bc549688f63a83166a56ac144] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In Schedule 2A to that Act (mixing of heavy oil)—
 
@@ -79,12 +79,12 @@ summary: ''
 
 [^c14706551]: Textual amendment: S. 7(3)(9)(e) repealed (1.10.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 156](https://www.legislation.gov.uk/ukpga/2000/17/section/156), [Sch. 40 Pt. I(1)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/I/1) Note 1; [S.I. 2000/2674](https://www.legislation.gov.uk/uksi/2000/2674), [art. 2](https://www.legislation.gov.uk/uksi/2000/2674/article/2)
 
-[^key-b6ee3d09381eb141d2baf5ec4f83cd9d]: Textual amendment: S. 7(5)(a) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-b6ee3d09381eb141d2baf5ec4f83cd9d]: Textual amendment: S. 7(5)(a) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
 
-[^key-9df5c6bb5a9b034df7d4d056146a9117]: Textual amendment: S. 7(5)(b) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-9df5c6bb5a9b034df7d4d056146a9117]: Textual amendment: S. 7(5)(b) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
 
-[^key-57f2296860576aed3cb37b0123ef617f]: Textual amendment: S. 7(7) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(c)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/c/i), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-57f2296860576aed3cb37b0123ef617f]: Textual amendment: S. 7(7) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(c)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/c/i), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
-[^key-4d84b83bc549688f63a83166a56ac144]: Textual amendment: S. 7(8)(b) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-4d84b83bc549688f63a83166a56ac144]: Textual amendment: S. 7(8)(b) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
 
 [^c14706571]: Subordinate legislation: S. 7(10) power fully exercised (6.8.1997): 15.8.1997 appointed by [S.I. 1997/1960](https://www.legislation.gov.uk/uksi/1997/1960), [art. 2](https://www.legislation.gov.uk/uksi/1997/1960/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Administering a substance with intent to cause harm[^key-3a8df17a63ef8bc951b98c14de9e2e7c]
+## 71. Administering a substance with intent to cause harm[^c-3a8df17a63ef8bc951b98c14de9e2e7c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a8df17a63ef8bc951b98c14de9e2e7c]: Commencement: S. 71 in force at Royal Assent, see [s. 208(4)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/l)
+[^c-3a8df17a63ef8bc951b98c14de9e2e7c]: Commencement: S. 71 in force at Royal Assent, see [s. 208(4)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/l)

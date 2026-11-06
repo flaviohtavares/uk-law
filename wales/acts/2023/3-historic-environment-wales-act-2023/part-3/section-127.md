@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Right to appeal against enforcement notice[^key-fe3fab547e0d74ed4a2c63a061b5e281][^key-060f14d7383d452e56d41d7a6a8f2893]
+## 127. Right to appeal against enforcement notice[^c-fe3fab547e0d74ed4a2c63a061b5e281][^c-060f14d7383d452e56d41d7a6a8f2893]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe3fab547e0d74ed4a2c63a061b5e281]: Commencement: S. 127 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-fe3fab547e0d74ed4a2c63a061b5e281]: Commencement: S. 127 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-060f14d7383d452e56d41d7a6a8f2893]: Commencement: [S. 127](https://www.legislation.gov.uk/asc/2023/3/section/127) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-060f14d7383d452e56d41d7a6a8f2893]: Commencement: [S. 127](https://www.legislation.gov.uk/asc/2023/3/section/127) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

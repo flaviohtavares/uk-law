@@ -57,7 +57,7 @@ It shall be lawful for any of his Majesty’s subjects professing the Roman Cath
 
 ## 12. Offices witheld from Roman Catholics.
 
-Provided also, that nothing herein contained shall extend, or be construed to extend to enable any person or persons professing the Roman Catholic religion to hold or exercise the office of guardians and justices of the United Kingdom, or of regent of the United Kingdom, under whatever name, style, or title such office may be constituted; nor to enable any person, otherwise than as he is now by law enabled, to hold or enjoy the office of lord high chancellor, lord keeper or lord commissioner of the great seal of Great Britain . . . [^c555228][^key-2540a7e5762e546c46bf5e67f996942e]....
+Provided also, that nothing herein contained shall extend, or be construed to extend to enable any person or persons professing the Roman Catholic religion to hold or exercise the office of guardians and justices of the United Kingdom, or of regent of the United Kingdom, under whatever name, style, or title such office may be constituted; nor to enable any person, otherwise than as he is now by law enabled, to hold or enjoy the office of lord high chancellor, lord keeper or lord commissioner of the great seal of Great Britain . . . [^c555228][^c-2540a7e5762e546c46bf5e67f996942e]....
 
 ## 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555229]
 
@@ -133,7 +133,7 @@ All penalties imposed by this Act shall and may be recovered as a debt due to hi
 
 [^c555228]: Textual amendment: Words repealed by [Statute Law Revision Act 1950 (c. 6) and Statute Law Revision (Northern Ireland) Act 1976 (c. 12)](https://www.legislation.gov.uk/ukpga/1976/12), [Sch. Pt. IV](https://www.legislation.gov.uk/ukpga/1976/12/schedule/part/IV)
 
-[^key-2540a7e5762e546c46bf5e67f996942e]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/Geo4/10/7/section/12) omitted (3.4.2025) by virtue of [Church of Scotland (Lord High Commissioner) Act 2025 (c. 9)](https://www.legislation.gov.uk/ukpga/2025/9), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/2/2)
+[^c-2540a7e5762e546c46bf5e67f996942e]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/Geo4/10/7/section/12) omitted (3.4.2025) by virtue of [Church of Scotland (Lord High Commissioner) Act 2025 (c. 9)](https://www.legislation.gov.uk/ukpga/2025/9), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2025/9/section/2/2)
 
 [^c555229]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Geo4/10/7/section/13) repealed by [Statute Law Revision Act 1891 (c. 67)](https://www.legislation.gov.uk/ukpga/1891/67)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11I. Sale, possession etc. of wild hares, rabbits etc. killed or taken unlawfully[^key-7324319134c4464a30af465c254cc1d1]
+## 11I. Sale, possession etc. of wild hares, rabbits etc. killed or taken unlawfully[^c-7324319134c4464a30af465c254cc1d1]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7324319134c4464a30af465c254cc1d1]: Textual amendment: S. 11I inserted (S.) (29.6.2011 for specified purposes, 1.1.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 8(2)](https://www.legislation.gov.uk/asp/2011/6/section/8/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/f); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-7324319134c4464a30af465c254cc1d1]: Textual amendment: S. 11I inserted (S.) (29.6.2011 for specified purposes, 1.1.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 8(2)](https://www.legislation.gov.uk/asp/2011/6/section/8/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/f); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)

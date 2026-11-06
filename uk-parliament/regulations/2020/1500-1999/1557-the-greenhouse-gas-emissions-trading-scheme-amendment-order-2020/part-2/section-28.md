@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Article 71 amended (appeal body)[^key-4d0c8cae098c0356caae8074cc52939b]
+## 28. Article 71 amended (appeal body)[^c-4d0c8cae098c0356caae8074cc52939b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d0c8cae098c0356caae8074cc52939b]: Commencement: Art. 28 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-4d0c8cae098c0356caae8074cc52939b]: Commencement: Art. 28 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

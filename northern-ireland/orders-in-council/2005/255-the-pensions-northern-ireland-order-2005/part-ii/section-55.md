@@ -27,7 +27,7 @@ summary: ''
 - (a) the name of the scheme;
 - (b) the address of the scheme;
 - (c) the full names and addresses of each of the trustees or managers of the scheme;
-- (ca)[^key-cc23d8b63941b13fc9c607ca0e2b7711] in the case of an occupational pension scheme established under a trust, the full name and address of any chair of the trustees;
+- (ca)[^c-cc23d8b63941b13fc9c607ca0e2b7711] in the case of an occupational pension scheme established under a trust, the full name and address of any chair of the trustees;
 - (d) the status of the scheme with respect to the following matters—
   - (i) whether new members may be admitted to the scheme;
   - (ii) whether further benefits may accrue to, or in respect of, members under the scheme;
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc23d8b63941b13fc9c607ca0e2b7711]: Textual amendment: [Art. 55(2)(ca)](https://www.legislation.gov.uk/nisi/2005/255/article/55/2/ca) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/9); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-cc23d8b63941b13fc9c607ca0e2b7711]: Textual amendment: [Art. 55(2)(ca)](https://www.legislation.gov.uk/nisi/2005/255/article/55/2/ca) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/9); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)

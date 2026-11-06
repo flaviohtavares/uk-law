@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Terms of appointment[^key-14e1a835266949ec978838c1eea4fcb9][^key-23e6a7baeb0f4b6edf751ab9209271ca]
+## 37. Terms of appointment[^c-14e1a835266949ec978838c1eea4fcb9][^c-23e6a7baeb0f4b6edf751ab9209271ca]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14e1a835266949ec978838c1eea4fcb9]: Commencement: S. 37 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-14e1a835266949ec978838c1eea4fcb9]: Commencement: S. 37 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-23e6a7baeb0f4b6edf751ab9209271ca]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2024/21/section/37) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/c)
+[^c-23e6a7baeb0f4b6edf751ab9209271ca]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2024/21/section/37) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/c)

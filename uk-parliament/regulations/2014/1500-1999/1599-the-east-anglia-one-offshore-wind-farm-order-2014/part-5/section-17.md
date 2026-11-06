@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Compulsory acquisition of rights[^key-aac6b818509d407c18ef72dc3fb35996]
+## 17. Compulsory acquisition of rights[^c-aac6b818509d407c18ef72dc3fb35996]
 
 *Extent: E+W+S*
 
 (1) The undertakers may acquire compulsorily such rights or impose restrictive covenants over the Order land as may be required for any purpose for which that land may be acquired under article 15 (compulsory acquisition of land), by creating them as well as by acquiring rights already in existence.
 
-(2) Subject to the provisions of this article, article 18 (private rights) and article 26[^key-06f000a1120d4b79849f84e8bf71e808] (statutory undertakers), in the case of the Order land specified in column (1) of Schedule 6 (land in which only new rights etc. may be acquired) the undertakers’s powers of compulsory acquisition are limited to the acquisition of such new rights and the imposition of restrictive covenants for the purpose specified in relation to that land in column (2) of that Schedule.
+(2) Subject to the provisions of this article, article 18 (private rights) and article 26[^c-06f000a1120d4b79849f84e8bf71e808] (statutory undertakers), in the case of the Order land specified in column (1) of Schedule 6 (land in which only new rights etc. may be acquired) the undertakers’s powers of compulsory acquisition are limited to the acquisition of such new rights and the imposition of restrictive covenants for the purpose specified in relation to that land in column (2) of that Schedule.
 
 (3) Subject to section 8 of the 1965 Act, as substituted by paragraph 5 of Schedule 7 (modification of compensation and compulsory purchase enactments for creation of new rights), where the undertakers acquires an existing right over land or restrictive covenant under paragraph (1), the undertakers shall not be required to acquire a greater interest in that land.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aac6b818509d407c18ef72dc3fb35996]: Commencement: Art. 17 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-aac6b818509d407c18ef72dc3fb35996]: Commencement: Art. 17 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-06f000a1120d4b79849f84e8bf71e808]: Textual amendment: Words in [art. 17(2)](https://www.legislation.gov.uk/uksi/2014/1599/article/17/2) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-06f000a1120d4b79849f84e8bf71e808]: Textual amendment: Words in [art. 17(2)](https://www.legislation.gov.uk/uksi/2014/1599/article/17/2) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)

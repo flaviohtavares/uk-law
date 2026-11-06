@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Building societies: creation of floating charges[^key-57f03535d9822fe1939672a3e3890b0f]
+## 55. Building societies: creation of floating charges[^c-57f03535d9822fe1939672a3e3890b0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57f03535d9822fe1939672a3e3890b0f]: Textual amendment: S. 55 omitted (26.3.2015) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 9 para. 4(3)(e)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/4/3/e); [S.I. 2015/428](https://www.legislation.gov.uk/uksi/2015/428), [art. 2](https://www.legislation.gov.uk/uksi/2015/428/article/2)
+[^c-57f03535d9822fe1939672a3e3890b0f]: Textual amendment: S. 55 omitted (26.3.2015) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 9 para. 4(3)(e)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/4/3/e); [S.I. 2015/428](https://www.legislation.gov.uk/uksi/2015/428), [art. 2](https://www.legislation.gov.uk/uksi/2015/428/article/2)

@@ -34,14 +34,14 @@ summary: ''
 - (e) any payment as an inducement not to terminate employment before the payment is made;
 - (f) any amount treated as the money value to the employee of the provision of a motor vehicle or any amount paid in lieu of such provision;
 - (g) any payment in consideration of loss of future pensionable payments or benefits;
-- (h) any award of compensation (excluding any sum representing arrears of pay) for the purpose of achieving equal pay in relation of other employees; [^key-e7af09847ed81b1407f9949c11a1bcff]...
-- (i) any payment made by the employing authority to a member on reserve forces service leave; or[^key-a4d69f3570155ed46700842e6804ebb3]
-- (j)[^key-faed0b1409089a570bce0bc17499bca9] any non-consolidated non-pensionable payment paid to a member as part of an annual pay award.
+- (h) any award of compensation (excluding any sum representing arrears of pay) for the purpose of achieving equal pay in relation of other employees; [^c-e7af09847ed81b1407f9949c11a1bcff]...
+- (i) any payment made by the employing authority to a member on reserve forces service leave; or[^c-a4d69f3570155ed46700842e6804ebb3]
+- (j)[^c-faed0b1409089a570bce0bc17499bca9] any non-consolidated non-pensionable payment paid to a member as part of an annual pay award.
 
 ## Annotations
 
-[^key-e7af09847ed81b1407f9949c11a1bcff]: Textual amendment: Word in [reg. 22(2)(h)](https://www.legislation.gov.uk/nisr/2014/188/regulation/22/2/h) omitted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [64(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/64/a)
+[^c-e7af09847ed81b1407f9949c11a1bcff]: Textual amendment: Word in [reg. 22(2)(h)](https://www.legislation.gov.uk/nisr/2014/188/regulation/22/2/h) omitted (18.11.2019) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [64(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/64/a)
 
-[^key-a4d69f3570155ed46700842e6804ebb3]: Textual amendment: Words in [reg. 22(2)(i)](https://www.legislation.gov.uk/nisr/2014/188/regulation/22/2/i) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [64(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/64/b)
+[^c-a4d69f3570155ed46700842e6804ebb3]: Textual amendment: Words in [reg. 22(2)(i)](https://www.legislation.gov.uk/nisr/2014/188/regulation/22/2/i) substituted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [64(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/64/b)
 
-[^key-faed0b1409089a570bce0bc17499bca9]: Textual amendment: [Reg. 22(2)(j)](https://www.legislation.gov.uk/nisr/2014/188/regulation/22/2/j) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [64(c)](https://www.legislation.gov.uk/nisr/2019/206/regulation/64/c)
+[^c-faed0b1409089a570bce0bc17499bca9]: Textual amendment: [Reg. 22(2)(j)](https://www.legislation.gov.uk/nisr/2014/188/regulation/22/2/j) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [64(c)](https://www.legislation.gov.uk/nisr/2019/206/regulation/64/c)

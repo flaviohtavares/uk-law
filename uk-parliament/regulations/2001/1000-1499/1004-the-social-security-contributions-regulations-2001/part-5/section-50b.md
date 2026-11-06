@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Class 3 contributions: tax years 1993-94 to 2007-08[^key-63edb0f18e91c64e58aff4d548257d59]
+## 50B. Class 3 contributions: tax years 1993-94 to 2007-08[^c-63edb0f18e91c64e58aff4d548257d59]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63edb0f18e91c64e58aff4d548257d59]: Textual amendment: Reg. 50B omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [24(1)(c)](https://www.legislation.gov.uk/uksi/2015/478/regulation/24/1/c)
+[^c-63edb0f18e91c64e58aff4d548257d59]: Textual amendment: Reg. 50B omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [24(1)(c)](https://www.legislation.gov.uk/uksi/2015/478/regulation/24/1/c)

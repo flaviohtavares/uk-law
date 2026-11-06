@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379ZB. Deemed consent procedure[^key-6543f5e4afe21f5c7e044f2fd43cea58][^key-e0c2a2277f34cd895d7942903028b4be]
+## 379ZB. Deemed consent procedure[^c-6543f5e4afe21f5c7e044f2fd43cea58][^c-e0c2a2277f34cd895d7942903028b4be]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6543f5e4afe21f5c7e044f2fd43cea58]: Modification: Ss. 379ZA, 379ZB modified by The Insolvent Partnerships Order 1994 (S.I. 1994/2421), Sch. 7A (as inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
+[^c-6543f5e4afe21f5c7e044f2fd43cea58]: Modification: Ss. 379ZA, 379ZB modified by The Insolvent Partnerships Order 1994 (S.I. 1994/2421), Sch. 7A (as inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
 
-[^key-e0c2a2277f34cd895d7942903028b4be]: Textual amendment: Ss. 379ZA-379ZC and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/123/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
+[^c-e0c2a2277f34cd895d7942903028b4be]: Textual amendment: Ss. 379ZA-379ZC and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/123/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)

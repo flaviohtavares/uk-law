@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 102. Levy appeals[^key-ff0c6c28fe982a4854810dd3200e1990]
+## 102. Levy appeals[^c-ff0c6c28fe982a4854810dd3200e1990]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff0c6c28fe982a4854810dd3200e1990]: Commencement: [Rule 102](https://www.legislation.gov.uk/uksi/2024/1155/rule/102) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-ff0c6c28fe982a4854810dd3200e1990]: Commencement: [Rule 102](https://www.legislation.gov.uk/uksi/2024/1155/rule/102) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00044]: Footnote: [1982 c. 10](https://www.legislation.gov.uk/ukpga/1982/10); section 11 was amended by the Employment Act [1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38), Schedule 4, paragraph 10 and Schedule 7, Part 1, and the Further Education and Training Act [2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), sections 24 and 25(2) to (5), and Schedule 1, paragraph 3.

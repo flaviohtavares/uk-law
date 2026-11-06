@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Restriction on mooring of vessels, etc.[^key-d5946b86d2ce84975e6ef63c71ec05b0]
+## 20. Restriction on mooring of vessels, etc.[^c-d5946b86d2ce84975e6ef63c71ec05b0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5946b86d2ce84975e6ef63c71ec05b0]: Commencement: Art. 20 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-d5946b86d2ce84975e6ef63c71ec05b0]: Commencement: Art. 20 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

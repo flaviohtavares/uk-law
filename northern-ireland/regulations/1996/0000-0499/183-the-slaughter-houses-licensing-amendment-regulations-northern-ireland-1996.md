@@ -40,15 +40,15 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Sections 1(1), 5 and 11(1) of the Slaughter-houses Act (Northern Ireland) 1953[^f00001] hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-87a14279364a545217df4c42b2319b69]
+## 1. Citation and commencement[^c-87a14279364a545217df4c42b2319b69]
 
 These Regulations may be cited as the Slaughter-houses (Licensing) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd May 1996.
 
-## 2. Amendment of the licensing Regulations[^key-540bd83a6e08fc4bb45a19d78f88c955]
+## 2. Amendment of the licensing Regulations[^c-540bd83a6e08fc4bb45a19d78f88c955]
 
 The Slaughter-houses (Licensing) Regulations (Northern Ireland) 1955[^f00002] shall be amended as provided in regulations 3 and 4.
 
-## 3. Animals which may be slaughtered in licensed meat plants[^key-700fede3a77b315396d381833a1d2d36]
+## 3. Animals which may be slaughtered in licensed meat plants[^c-700fede3a77b315396d381833a1d2d36]
 
 For regulation 8 there shall be substituted the following regulation—
 
@@ -56,7 +56,7 @@ For regulation 8 there shall be substituted the following regulation—
 
 .
 
-## 4. Records and returns[^key-7327bdae7657e7f5ebc53045004e6ee3]
+## 4. Records and returns[^c-7327bdae7657e7f5ebc53045004e6ee3]
 
 (1) For the fourth Schedule there shall be substituted the Schedule set out in Part 1 of the Schedule to these Regulations.
 
@@ -74,7 +74,7 @@ Assistant Secretary
 
 Regulation 4
 
-### Part I[^key-ef9c0623a959a2210be00315957a86b7]
+### Part I[^c-ef9c0623a959a2210be00315957a86b7]
 
 > **Fourth Schedule — SLAUGHTER-HOUSES ACT (NORTHERN IRELAND) 1953SLAUGHTER-HOUSES (LICENSING) REGULATIONS (NORTHERN IRELAND) 1955**
 >
@@ -84,7 +84,7 @@ Regulation 4
 
 ## SCHEDULE
 
-### Part 2[^key-6c5f4948cb56cff78256d288342ad206]
+### Part 2[^c-6c5f4948cb56cff78256d288342ad206]
 
 > **Fifth Schedule — SLAUGHTER-HOUSES ACT (NORTHERN IRELAND) 1953SLAUGHTER-HOUSES (LICENSING) REGULATIONS (NORTHERN IRELAND) 1955**
 >
@@ -104,18 +104,18 @@ The Regulations also amend and update the records which the holder of a licence 
 
 [^f00001]: Footnote: [1953 c. 21 (N.I.)](https://www.legislation.gov.uk/apni/1953/21)
 
-[^key-87a14279364a545217df4c42b2319b69]: Commencement: Reg. 1 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
+[^c-87a14279364a545217df4c42b2319b69]: Commencement: Reg. 1 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
 
-[^key-540bd83a6e08fc4bb45a19d78f88c955]: Commencement: Reg. 2 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
+[^c-540bd83a6e08fc4bb45a19d78f88c955]: Commencement: Reg. 2 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
 
 [^f00002]: Footnote: S.R. & O. [1955/169](https://www.legislation.gov.uk/nisro/1955/169)
 
-[^key-700fede3a77b315396d381833a1d2d36]: Commencement: Reg. 3 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
+[^c-700fede3a77b315396d381833a1d2d36]: Commencement: Reg. 3 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L148, 28.6.68, p. 24, last amended by Council Regulation [(EC) No. 2417/95](https://www.legislation.gov.uk/european/regulation/1995/2417) (O.J. No. L248, 14.10.95, p. 39)
 
-[^key-7327bdae7657e7f5ebc53045004e6ee3]: Commencement: Reg. 4 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
+[^c-7327bdae7657e7f5ebc53045004e6ee3]: Commencement: Reg. 4 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
 
-[^key-ef9c0623a959a2210be00315957a86b7]: Commencement: Sch. Pt. I in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
+[^c-ef9c0623a959a2210be00315957a86b7]: Commencement: Sch. Pt. I in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
 
-[^key-6c5f4948cb56cff78256d288342ad206]: Commencement: Sch. n2 Pt. 2 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)
+[^c-6c5f4948cb56cff78256d288342ad206]: Commencement: Sch. n2 Pt. 2 in operation at 3.5.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/183/regulation/1)

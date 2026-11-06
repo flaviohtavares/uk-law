@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20ZB. Unsatisfactory professional conduct[^key-51f884965e3c193b7525d7db94f45e5f]
+## 20ZB. Unsatisfactory professional conduct[^c-51f884965e3c193b7525d7db94f45e5f]
 
 *Extent: S*
 
-(1) Where a conduct complaint suggesting unsatisfactory professional conduct by a practitioner is remitted to the Council under section 6(2)(a)[^key-234406ce5b3c513c165cbafd7b41d0b2] or 15(5)(a) of the 2007 Act, the Council must having—
+(1) Where a conduct complaint suggesting unsatisfactory professional conduct by a practitioner is remitted to the Council under section 6(2)(a)[^c-234406ce5b3c513c165cbafd7b41d0b2] or 15(5)(a) of the 2007 Act, the Council must having—
 
 - (a) investigated the complaint under section 47(1) of that Act and made a written report under section 47(2) of that Act;
 - (b) given the practitioner an opportunity to make representations,
@@ -83,6 +83,6 @@ to the complainer and the practitioner by sending to each of them a copy of the 
 
 ## Annotations
 
-[^key-51f884965e3c193b7525d7db94f45e5f]: Textual amendment: Ss. 20ZA-20ZC inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 54(2)](https://www.legislation.gov.uk/asp/2007/5/section/54/2), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/311/article/2/c)
+[^c-51f884965e3c193b7525d7db94f45e5f]: Textual amendment: Ss. 20ZA-20ZC inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 54(2)](https://www.legislation.gov.uk/asp/2007/5/section/54/2), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/311/article/2/c)
 
-[^key-234406ce5b3c513c165cbafd7b41d0b2]: Textual amendment: Word in [s. 20ZB(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/20ZB/1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-234406ce5b3c513c165cbafd7b41d0b2]: Textual amendment: Word in [s. 20ZB(1)](https://www.legislation.gov.uk/ukpga/1990/40/section/20ZB/1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

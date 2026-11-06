@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Service of notices[^key-9bf460562b0948dec9872b7907b37889]
+## 40. Service of notices[^c-9bf460562b0948dec9872b7907b37889]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bf460562b0948dec9872b7907b37889]: Commencement: Art. 40 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-9bf460562b0948dec9872b7907b37889]: Commencement: Art. 40 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

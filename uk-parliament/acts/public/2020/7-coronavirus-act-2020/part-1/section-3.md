@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Emergency arrangements concerning medical practitioners: Wales[^key-84b2167b73ca6ce4f959ee58b5b7f52b]
+## 3. Emergency arrangements concerning medical practitioners: Wales[^c-84b2167b73ca6ce4f959ee58b5b7f52b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b2167b73ca6ce4f959ee58b5b7f52b]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2020/7/section/3) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-84b2167b73ca6ce4f959ee58b5b7f52b]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2020/7/section/3) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

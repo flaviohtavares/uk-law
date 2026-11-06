@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Functions to be exercisable by the Secretary of State and the Treasury concurrently[^key-9ab99b4ef82f22a634cb2ddc1f97f329]
+## 4. Functions to be exercisable by the Secretary of State and the Treasury concurrently[^c-9ab99b4ef82f22a634cb2ddc1f97f329]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab99b4ef82f22a634cb2ddc1f97f329]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1997/2781/article/4) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-9ab99b4ef82f22a634cb2ddc1f97f329]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1997/2781/article/4) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
 
 [^f00016]: Footnote: Section 44 was amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), s. 77 and the Insurance Companies (Third Insurance Directives) Regulations 1994 (S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696)), reg. 24.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Failure to make officer available for questioning[^key-9b2719f23a9947c6205515abcf3017a4]
+## 102. Failure to make officer available for questioning[^c-9b2719f23a9947c6205515abcf3017a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2719f23a9947c6205515abcf3017a4]: Commencement: Art. 102 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-9b2719f23a9947c6205515abcf3017a4]: Commencement: Art. 102 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

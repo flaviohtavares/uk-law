@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power of authorities to provide services in exceptional circumstances[^key-c916ea686c7fb9089cf9188d3ba98792]
+## 40. Power of authorities to provide services in exceptional circumstances[^c-c916ea686c7fb9089cf9188d3ba98792]
 
 *Extent: E+W*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c916ea686c7fb9089cf9188d3ba98792]: Commencement: S. 40 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-c916ea686c7fb9089cf9188d3ba98792]: Commencement: S. 40 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Calculation of income and capital where state pension credit is not payable[^key-50ab9fc4a940938255f59df940aa8436]
+## 26. Calculation of income and capital where state pension credit is not payable[^c-50ab9fc4a940938255f59df940aa8436]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The income and capital of a person to whom neither regulation 24 nor 25 applies 
 
 ## Annotations
 
-[^key-50ab9fc4a940938255f59df940aa8436]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/406/regulation/26) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-50ab9fc4a940938255f59df940aa8436]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/406/regulation/26) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

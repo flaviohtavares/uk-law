@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Call-in direction following voluntary referral[^key-2847809566feab5a060181800fc4c24b][^key-fc8bdeb9dcc8fe2dd0edef7266762905]
+## 58. Call-in direction following voluntary referral[^c-2847809566feab5a060181800fc4c24b][^c-fc8bdeb9dcc8fe2dd0edef7266762905]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ but the reporting period under section 53(3) is to be read as a period of 10 wor
 
 ## Annotations
 
-[^key-2847809566feab5a060181800fc4c24b]: Commencement: S. 58 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-2847809566feab5a060181800fc4c24b]: Commencement: S. 58 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-fc8bdeb9dcc8fe2dd0edef7266762905]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/23/section/58) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-fc8bdeb9dcc8fe2dd0edef7266762905]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/23/section/58) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

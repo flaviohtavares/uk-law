@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Contracting out secure colleges[^key-187ba8af0d652ea11ea84262e77db00e]
+## 39. Contracting out secure colleges[^c-187ba8af0d652ea11ea84262e77db00e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In Schedule 10—
 
 ## Annotations
 
-[^key-187ba8af0d652ea11ea84262e77db00e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2015/2/section/39) in force at 20.3.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/b)
+[^c-187ba8af0d652ea11ea84262e77db00e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2015/2/section/39) in force at 20.3.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4 of the Service Committees Regulations)[^key-12bce5425126d4f8c4fb76f2625537d0]
+## 71. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4 of the Service Committees Regulations)[^c-12bce5425126d4f8c4fb76f2625537d0]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ paragraph (2) shall apply.
 
 ## Annotations
 
-[^key-12bce5425126d4f8c4fb76f2625537d0]: Commencement: Art. 71 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-12bce5425126d4f8c4fb76f2625537d0]: Commencement: Art. 71 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

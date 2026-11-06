@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Part 1[^key-973df0f419d084a5ea9faae08c716d5a]
+## 17. Part 1[^c-973df0f419d084a5ea9faae08c716d5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-973df0f419d084a5ea9faae08c716d5a]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-973df0f419d084a5ea9faae08c716d5a]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24374941]: Marginal citation: First approved by the European and Mediterranean Plant Protection Organization in September 2003 and available from its Secretariat at 21 Boulevard Richard Lenoir, 75011, Paris, France and at https://www.eppo.int/RESOURCES/eppo\_standards/pm7\_diagnostics.
 

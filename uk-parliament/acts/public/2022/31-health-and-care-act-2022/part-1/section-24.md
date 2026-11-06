@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Commissioning arrangements: conferral of discretions[^key-fedfb4ed26dcfd15bf97c6a0c9037c79][^key-a120bb73aa3ec00a1f3576997f634e5b]
+## 24. Commissioning arrangements: conferral of discretions[^c-fedfb4ed26dcfd15bf97c6a0c9037c79][^c-a120bb73aa3ec00a1f3576997f634e5b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In section 12ZA of the National Health Service Act 2006 (commissioning arrangeme
 
 ## Annotations
 
-[^key-fedfb4ed26dcfd15bf97c6a0c9037c79]: Commencement: S. 24 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-fedfb4ed26dcfd15bf97c6a0c9037c79]: Commencement: S. 24 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-a120bb73aa3ec00a1f3576997f634e5b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/31/section/24) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a120bb73aa3ec00a1f3576997f634e5b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/31/section/24) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

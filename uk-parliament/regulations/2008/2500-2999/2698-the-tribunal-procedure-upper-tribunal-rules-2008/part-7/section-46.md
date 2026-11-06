@@ -16,7 +16,7 @@ summary: ''
 
 ## 46. Review of a decision
 
-(1)[^key-5beec70498ee3b669b1767ece6cb1b79] The Upper Tribunal may only undertake a review of a decision pursuant to rule 45(1) (review on an application for permission to appeal).
+(1)[^c-5beec70498ee3b669b1767ece6cb1b79] The Upper Tribunal may only undertake a review of a decision pursuant to rule 45(1) (review on an application for permission to appeal).
 
 (2) The Upper Tribunal must notify the parties in writing of the outcome of any review and of any rights of review or appeal in relation to the outcome.
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5beec70498ee3b669b1767ece6cb1b79]: Textual amendment: [Rule 46(1)](https://www.legislation.gov.uk/uksi/2008/2698/rule/46/1) substituted (17.10.2011) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2011 (S.I. 2011/2343)](https://www.legislation.gov.uk/uksi/2011/2343), [rules 1](https://www.legislation.gov.uk/uksi/2011/2343/article/1), [12](https://www.legislation.gov.uk/uksi/2011/2343/rule/12)
+[^c-5beec70498ee3b669b1767ece6cb1b79]: Textual amendment: [Rule 46(1)](https://www.legislation.gov.uk/uksi/2008/2698/rule/46/1) substituted (17.10.2011) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2011 (S.I. 2011/2343)](https://www.legislation.gov.uk/uksi/2011/2343), [rules 1](https://www.legislation.gov.uk/uksi/2011/2343/article/1), [12](https://www.legislation.gov.uk/uksi/2011/2343/rule/12)

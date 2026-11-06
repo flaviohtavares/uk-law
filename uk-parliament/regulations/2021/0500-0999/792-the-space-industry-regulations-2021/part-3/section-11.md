@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Prescribed roles: range control licensees[^key-ed4cdda7a8b0f6e3e1eea0eb5d4d7085]
+## 11. Prescribed roles: range control licensees[^c-ed4cdda7a8b0f6e3e1eea0eb5d4d7085]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed4cdda7a8b0f6e3e1eea0eb5d4d7085]: Commencement: Reg. 11 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ed4cdda7a8b0f6e3e1eea0eb5d4d7085]: Commencement: Reg. 11 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

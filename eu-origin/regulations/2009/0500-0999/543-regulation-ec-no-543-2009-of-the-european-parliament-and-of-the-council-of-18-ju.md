@@ -37,63 +37,63 @@ concerning crop statistics and repealing Council Regulations (EEC) No 837/90 an
 
 (Text with EEA relevance) (revoked)
 
-[^key-7ecfd77e69383ff620e4354738157ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ecfd77e69383ff620e4354738157ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-7ecfd77e69383ff620e4354738157ceb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions and clarifications[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 1. Subject matter[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Coverage[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 2. Definitions and clarifications[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Frequency and reference period[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 3. Coverage[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Precision requirements[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 4. Frequency and reference period[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transmission to the Commission[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 5. Precision requirements[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Regional statistics[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 6. Transmission to the Commission[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Statistical quality and report[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 7. Regional statistics[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8a. Exercise of the delegation[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 8. Statistical quality and report[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Committee procedure[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 8a. Exercise of the delegation[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Derogation[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 9. Committee procedure[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Repeal[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 10. Derogation[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-7ecfd77e69383ff620e4354738157ceb]
+## Article 11. Repeal[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ecfd77e69383ff620e4354738157ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 12. Entry into force[^c-7ecfd77e69383ff620e4354738157ceb]
 
-## ANNEX[^key-7ecfd77e69383ff620e4354738157ceb]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7ecfd77e69383ff620e4354738157ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-7ecfd77e69383ff620e4354738157ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,4 +101,4 @@ concerning crop statistics and repealing Council Regulations (EEC) No 837/90 an
 
 ## Annotations
 
-[^key-7ecfd77e69383ff620e4354738157ceb]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 155](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/155); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ecfd77e69383ff620e4354738157ceb]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 155](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/155); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

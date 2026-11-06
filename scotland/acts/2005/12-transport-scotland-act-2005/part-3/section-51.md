@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Minor amendments of Transport (Scotland) Act 2001[^key-3c69f9357e071d184bad3699ef1a7ae5]
+## 51. Minor amendments of Transport (Scotland) Act 2001[^c-3c69f9357e071d184bad3699ef1a7ae5]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c69f9357e071d184bad3699ef1a7ae5]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2005/12/section/51) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-3c69f9357e071d184bad3699ef1a7ae5]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2005/12/section/51) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.E.2. Meaning of “surviving scheme partner”[^key-fafea0b22c4f18eb5e688ef703be1756]
+## 2.E.2. Meaning of “surviving scheme partner”[^c-fafea0b22c4f18eb5e688ef703be1756]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Part, a person (P) is a “surviving scheme partner” if the Secretary 
 
 ## Annotations
 
-[^key-fafea0b22c4f18eb5e688ef703be1756]: Textual amendment: [Reg. 2.E.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.2) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [51](https://www.legislation.gov.uk/uksi/2019/418/regulation/51) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-fafea0b22c4f18eb5e688ef703be1756]: Textual amendment: [Reg. 2.E.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.2) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [51](https://www.legislation.gov.uk/uksi/2019/418/regulation/51) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))

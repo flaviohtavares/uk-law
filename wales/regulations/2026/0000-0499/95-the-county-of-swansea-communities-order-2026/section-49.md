@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**49.**[^key-1a140605be0dd6fe1f6fa2bc7595843d] In the community of Gower South, the number of councillors to be elected for the—
+**49.**[^c-1a140605be0dd6fe1f6fa2bc7595843d] In the community of Gower South, the number of councillors to be elected for the—
 
 - (a) Horton ward is 1;
 - (b) Penrice ward is 2;
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a140605be0dd6fe1f6fa2bc7595843d]: Commencement: [Art. 49](https://www.legislation.gov.uk/wsi/2026/95/article/49) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-1a140605be0dd6fe1f6fa2bc7595843d]: Commencement: [Art. 49](https://www.legislation.gov.uk/wsi/2026/95/article/49) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

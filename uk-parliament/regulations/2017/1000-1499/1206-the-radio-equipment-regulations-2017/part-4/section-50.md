@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Restriction, suspension or withdrawal of approval[^M_E_d0abbb68-a601-4d31-e282-be6400ade0b9][^key-d6e40bc42648058f214378e3512799f9]
+## 50. Restriction, suspension or withdrawal of approval[^M_E_d0abbb68-a601-4d31-e282-be6400ade0b9][^c-d6e40bc42648058f214378e3512799f9]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ the Secretary of State must restrict, suspend or withdraw the body's status as a
 
 [^M_E_d0abbb68-a601-4d31-e282-be6400ade0b9]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-d6e40bc42648058f214378e3512799f9]: Textual amendment: Pt. 4 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/36) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6e40bc42648058f214378e3512799f9]: Textual amendment: Pt. 4 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/36) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_ee952e39-40cd-4103-e5d1-e97bc15063ca]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

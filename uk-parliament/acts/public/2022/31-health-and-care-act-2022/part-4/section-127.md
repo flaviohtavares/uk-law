@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Assistance of NHS bodies[^key-5c380ed9f171dbdea718c8eb476f0344][^key-9656d33101ea2f914d1a908fe3bd6a41]
+## 127. Assistance of NHS bodies[^c-5c380ed9f171dbdea718c8eb476f0344][^c-9656d33101ea2f914d1a908fe3bd6a41]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c380ed9f171dbdea718c8eb476f0344]: Commencement: S. 127 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-5c380ed9f171dbdea718c8eb476f0344]: Commencement: S. 127 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-9656d33101ea2f914d1a908fe3bd6a41]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/31/section/127) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-9656d33101ea2f914d1a908fe3bd6a41]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/31/section/127) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

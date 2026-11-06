@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 105 and 112(1) to (3) of the Nationality, Immigration and Asylum Act 2002[^f00001], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-078c77f49d0764242c1a4b2f697761f0]
+## 1. Citation and commencement[^c-078c77f49d0764242c1a4b2f697761f0]
 
 These Regulations may be cited as the Immigration (Notices) Regulations 2003 and shall come into force on the 1st April 2003.
 
-## 2. Interpretation[^key-6ec8dc19b09f25a181e07098096c3e10]
+## 2. Interpretation[^c-6ec8dc19b09f25a181e07098096c3e10]
 
 In these Regulations—
 
@@ -57,64 +57,64 @@ In these Regulations—
 - “the 1997 Act” means the Special Immigration Appeals Commission Act 1997[^f00003];
 - “the 1999 Act” means the Immigration and Asylum Act 1999[^f00004];
 - “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002;
-- “citizens' rights immigration decision” means a decision which can be appealed against under the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020.[^key-0014563ac3451014ddcafd2763077d78]
+- “citizens' rights immigration decision” means a decision which can be appealed against under the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020.[^c-0014563ac3451014ddcafd2763077d78]
 - “decision-maker” means—
   - (a) the Secretary of State;
   - (b) an immigration officer;
   - (c) an entry clearance officer;
-- [^key-5db39d15d35ffa68de7163f94a92acf9]...
+- [^c-5db39d15d35ffa68de7163f94a92acf9]...
 - “entry clearance officer” means a person responsible for the grant or refusal of entry clearance;
-- [^key-fbc859076e6fa821e7fd9893ff613c58]...
+- [^c-fbc859076e6fa821e7fd9893ff613c58]...
 - “minor” means a person who is under 18 years of age;
-- “notice of appeal” means a notice in the appropriate prescribed form in accordance with the Procedure Rules[^key-c3b1d8827931a8035b7cbc8feb50933d];
-- “Procedure Rules” means rules made under section 22 of, and Schedule 5 to, the Tribunals, Courts and Enforcement Act 2007[^key-21823de288947a9381ecaccb60a9a2a8];
+- “notice of appeal” means a notice in the appropriate prescribed form in accordance with the Procedure Rules[^c-c3b1d8827931a8035b7cbc8feb50933d];
+- “Procedure Rules” means rules made under section 22 of, and Schedule 5 to, the Tribunals, Courts and Enforcement Act 2007[^c-21823de288947a9381ecaccb60a9a2a8];
 - “representative” means a person who appears to the decision-maker—
   - (a) to be the representative of a person referred to in regulation 4(1) below; and
   - (b) not to be prohibited from acting as a representative by section 84 of the 1999 Act.
 
-## 3. Transitional provision[^key-3b91a24631a17fd91d7c5af2b583287b]
+## 3. Transitional provision[^c-3b91a24631a17fd91d7c5af2b583287b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of decisions[^key-d2fac0525f1ca6faa590c6f102b18d84]
+## 4. Notice of decisions[^c-d2fac0525f1ca6faa590c6f102b18d84]
 
-(1) Subject to regulation 6, the decision-maker must give written notice to a person of any decision taken in respect of him which is appealable under section 82(1) of the 2002 Act[^key-7dcf401e6ce9e15db8eb84cecc1c9b76] [^key-b202b6e21657b024c0e59cff1abafb99]... or any citizens' rights immigration decision[^key-bcc66fe09949d879f868fe092f997e93] taken in respect of him which is appealable.
+(1) Subject to regulation 6, the decision-maker must give written notice to a person of any decision taken in respect of him which is appealable under section 82(1) of the 2002 Act[^c-7dcf401e6ce9e15db8eb84cecc1c9b76] [^c-b202b6e21657b024c0e59cff1abafb99]... or any citizens' rights immigration decision[^c-bcc66fe09949d879f868fe092f997e93] taken in respect of him which is appealable.
 
-(2)[^key-bc8f9d8ebda970b8a4811995bbb49900] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bc8f9d8ebda970b8a4811995bbb49900] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-fbd4b085f95e34c2f1f6b57d329d884c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-fbd4b085f95e34c2f1f6b57d329d884c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If the notice is given to the representative of the person, it is to be taken to have been given to the person.
 
-## 5. Contents of notice[^key-e0a023a16e73bfab0e5649eb89ff57f4]
+## 5. Contents of notice[^c-e0a023a16e73bfab0e5649eb89ff57f4]
 
-(1)[^key-47024fb2e67b6e41dc03cc9a0d31bf25] A notice given under regulation 4(1)—
+(1)[^c-47024fb2e67b6e41dc03cc9a0d31bf25] A notice given under regulation 4(1)—
 
-- (a) is to include or be accompanied by a statement of the reasons for the decision to which it relates; [^key-1648d14476e24620a5ec927b5c3c04b5]...
-- (b)[^key-e781d2d55d9ab10061d9346871bad13a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is to include or be accompanied by a statement of the reasons for the decision to which it relates; [^c-1648d14476e24620a5ec927b5c3c04b5]...
+- (b)[^c-e781d2d55d9ab10061d9346871bad13a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4e3276b62d82fa0f2a6942f6a04e7506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4e3276b62d82fa0f2a6942f6a04e7506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-16251caa9be7f9f5fde6d82ff009e19c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-16251caa9be7f9f5fde6d82ff009e19c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) [^key-37f64140f48b836b9a3bcff0335091c9]... The notice given under regulation 4 shall also include, or be accompanied by, a statement which advises the person of—
+(3) [^c-37f64140f48b836b9a3bcff0335091c9]... The notice given under regulation 4 shall also include, or be accompanied by, a statement which advises the person of—
 
 - (a) his right of appeal and the statutory provision on which his right of appeal is based;
 - (b) whether or not such an appeal may be brought while in the United Kingdom;
 - (c) the grounds on which such an appeal may be brought; and
 - (d) the facilities available for advice and assistance in connection with such an appeal.
 
-(4)[^key-3e1b9ea527cd08c5728d640d659471de] The notice given under regulation 4 shall be accompanied by information about the process for providing a notice of appeal to the Tribunal and the time limit for providing that notice.
+(4)[^c-3e1b9ea527cd08c5728d640d659471de] The notice given under regulation 4 shall be accompanied by information about the process for providing a notice of appeal to the Tribunal and the time limit for providing that notice.
 
-(5)[^key-8a114ec45107d98f4991fcc176725cac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8a114ec45107d98f4991fcc176725cac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c7b1c794b5b53324c856007083ba4b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c7b1c794b5b53324c856007083ba4b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-553e102ad1d3532795144ecdea57a096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-553e102ad1d3532795144ecdea57a096] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-11bef36bacd2d8aa4d83b629658d8dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-11bef36bacd2d8aa4d83b629658d8dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Certain notices under the 1971 Act deemed to comply with the Regulations[^key-d41bc58dbf71612fcb8b70445b4293c9]
+## 6. Certain notices under the 1971 Act deemed to comply with the Regulations[^c-d41bc58dbf71612fcb8b70445b4293c9]
 
 (1) This regulation applies where the power to—
 
@@ -130,7 +130,7 @@ is exercised by notice in writing under section 4 of (administration of control)
 
 the notice is to be taken to have been given under regulation 4(1) for the purposes of these Regulations.
 
-## 7. Service of notice[^key-8f2d75a0b5a0c82d91a10d40be71fdd4]
+## 7. Service of notice[^c-8f2d75a0b5a0c82d91a10d40be71fdd4]
 
 (1) A notice required to be given under regulation 4 may be—
 
@@ -138,13 +138,13 @@ the notice is to be taken to have been given under regulation 4(1) for the purpo
 - (b) sent by fax;
 - (c) sent by postal service in which delivery or receipt is recorded to:-
   - (i) an address provided for correspondence by the person or his representative; or
-  - (ii) where no address for correspondence has been provided by the person, the last-known or usual place of abode or place of business of the person or his representative ;[^key-02f1476576e7cae0238f6a605711b5e4]
-- (d)[^key-05e817294a35e16cdfd19be1fc353482] sent electronically;
+  - (ii) where no address for correspondence has been provided by the person, the last-known or usual place of abode or place of business of the person or his representative ;[^c-02f1476576e7cae0238f6a605711b5e4]
+- (d)[^c-05e817294a35e16cdfd19be1fc353482] sent electronically;
 - (e) sent by document exchange to a document exchange number or address;
 - (f) sent by courier; or
 - (g) collected by the person who is the subject of the decision or their representative.
 
-(1A)[^key-4d03c5411f26043d309512fd9a240538] A notice which has been uploaded to the electronic portal is deemed to have been sent electronically for the purposes of paragraph (1)(d).
+(1A)[^c-4d03c5411f26043d309512fd9a240538] A notice which has been uploaded to the electronic portal is deemed to have been sent electronically for the purposes of paragraph (1)(d).
 
 (1B) Where the notice is uploaded to the electronic portal, the notice shall be deemed to have been received on the day on which the person who is the subject of the decision or a representative receives electronically a notification that the notice has been so uploaded.
 
@@ -158,21 +158,21 @@ the notice is to be taken to have been given under regulation 4(1) for the purpo
   - (ii) the address provided to the decision-maker is defective, false or no longer in use by the person; and
 - (c) no representative appears to be acting for the person,
 
-the notice shall be deemed to have been given when the decision-maker enters a record of the above circumstances and places the [^key-de1f6ab125847ac7f14cefeed5a2b3b6]... notice on the relevant file.
+the notice shall be deemed to have been given when the decision-maker enters a record of the above circumstances and places the [^c-de1f6ab125847ac7f14cefeed5a2b3b6]... notice on the relevant file.
 
-(3)[^key-d94c5898b928c325aa8fdab727ab0076] Where a notice has been given in accordance with paragraph (2) and then subsequently the person is located—
+(3)[^c-d94c5898b928c325aa8fdab727ab0076] Where a notice has been given in accordance with paragraph (2) and then subsequently the person is located—
 
 - (a) he shall be given a copy of the notice and details of when and how it was given as soon as practicable; and
 - (b) the time limit for appeal under the Procedure Rules shall be calculated from the date the notice is deemed to have been given in accordance with paragraph (2).
 
-(4)[^key-9700e2ed7a2fb4b2e9df668a63e37849] Where a notice is sent by post to a place outside the United Kingdom in accordance with paragraph (1)(c) it shall be deemed to have been received on the twenty-eighth day after it was posted, unless the contrary is proved.
+(4)[^c-9700e2ed7a2fb4b2e9df668a63e37849] Where a notice is sent by post to a place outside the United Kingdom in accordance with paragraph (1)(c) it shall be deemed to have been received on the twenty-eighth day after it was posted, unless the contrary is proved.
 
 (5) For the purposes of paragraph (4) the period is to be calculated—
 
-- (a) excluding the day on which the notice is posted; [^key-b5928a5d72f019cef1adbf473620cff7]...
-- (b)[^key-122fb498333c7ba8839385e59f8aa492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) excluding the day on which the notice is posted; [^c-b5928a5d72f019cef1adbf473620cff7]...
+- (b)[^c-122fb498333c7ba8839385e59f8aa492] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-61d733ebf73f49fd229836e897002a26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-61d733ebf73f49fd229836e897002a26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A notice given under regulation 4 may, in the case of a minor who does not have a representative, be given to the parent, guardian or another adult who for the time being takes responsibility for the child.
 
@@ -200,9 +200,9 @@ Regulation 7 deals with service of the notice given under regulation 4. It may b
 
 [^f00001]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-078c77f49d0764242c1a4b2f697761f0]: Commencement: Reg. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
+[^c-078c77f49d0764242c1a4b2f697761f0]: Commencement: Reg. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
 
-[^key-6ec8dc19b09f25a181e07098096c3e10]: Commencement: Reg. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
+[^c-6ec8dc19b09f25a181e07098096c3e10]: Commencement: Reg. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
 
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -210,72 +210,72 @@ Regulation 7 deals with service of the notice given under regulation 4. It may b
 
 [^f00004]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-0014563ac3451014ddcafd2763077d78]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/3/2)
+[^c-0014563ac3451014ddcafd2763077d78]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) inserted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/3/2)
 
-[^key-5db39d15d35ffa68de7163f94a92acf9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/2) (with [reg. 28(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/4))
+[^c-5db39d15d35ffa68de7163f94a92acf9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/2) (with [reg. 28(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/4))
 
-[^key-fbc859076e6fa821e7fd9893ff613c58]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/2/a)
+[^c-fbc859076e6fa821e7fd9893ff613c58]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/2/a)
 
-[^key-c3b1d8827931a8035b7cbc8feb50933d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/2/b)
+[^c-c3b1d8827931a8035b7cbc8feb50933d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/2/b)
 
-[^key-21823de288947a9381ecaccb60a9a2a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/2/c)
+[^c-21823de288947a9381ecaccb60a9a2a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/658/regulation/2) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/2/c)
 
-[^key-3b91a24631a17fd91d7c5af2b583287b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/658/regulation/3) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/3)
+[^c-3b91a24631a17fd91d7c5af2b583287b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/658/regulation/3) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/3)
 
-[^key-d2fac0525f1ca6faa590c6f102b18d84]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
+[^c-d2fac0525f1ca6faa590c6f102b18d84]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
 
-[^key-7dcf401e6ce9e15db8eb84cecc1c9b76]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/1) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-7dcf401e6ce9e15db8eb84cecc1c9b76]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/1) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-b202b6e21657b024c0e59cff1abafb99]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/3) (with [reg. 28(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/4))
+[^c-b202b6e21657b024c0e59cff1abafb99]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/1) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/3) (with [reg. 28(4)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/28/4))
 
-[^key-bcc66fe09949d879f868fe092f997e93]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/1) substituted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/3/3)
+[^c-bcc66fe09949d879f868fe092f997e93]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/1) substituted (31.1.2020) by [The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 (S.I. 2020/61)](https://www.legislation.gov.uk/uksi/2020/61), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/1/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/uksi/2020/61/schedule/4/paragraph/3/3)
 
-[^key-bc8f9d8ebda970b8a4811995bbb49900]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/2) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-bc8f9d8ebda970b8a4811995bbb49900]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/2) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-fbd4b085f95e34c2f1f6b57d329d884c]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/2A) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-fbd4b085f95e34c2f1f6b57d329d884c]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2003/658/regulation/4/2A) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-e0a023a16e73bfab0e5649eb89ff57f4]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
+[^c-e0a023a16e73bfab0e5649eb89ff57f4]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
 
-[^key-47024fb2e67b6e41dc03cc9a0d31bf25]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/1) substituted (31.8.2006) by [The Immigration (Notices) (Amendment) Regulations 2006 (S.I. 2006/2168)](https://www.legislation.gov.uk/uksi/2006/2168), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2168/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/2168/regulation/4)
+[^c-47024fb2e67b6e41dc03cc9a0d31bf25]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/1) substituted (31.8.2006) by [The Immigration (Notices) (Amendment) Regulations 2006 (S.I. 2006/2168)](https://www.legislation.gov.uk/uksi/2006/2168), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2168/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/2168/regulation/4)
 
-[^key-1648d14476e24620a5ec927b5c3c04b5]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/1/a) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-1648d14476e24620a5ec927b5c3c04b5]: Textual amendment: Word in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/1/a) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-e781d2d55d9ab10061d9346871bad13a]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/1/b) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-e781d2d55d9ab10061d9346871bad13a]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/1/b) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-4e3276b62d82fa0f2a6942f6a04e7506]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/2) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-4e3276b62d82fa0f2a6942f6a04e7506]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/2) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-16251caa9be7f9f5fde6d82ff009e19c]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/2A) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-16251caa9be7f9f5fde6d82ff009e19c]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/2A) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-37f64140f48b836b9a3bcff0335091c9]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/3) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-37f64140f48b836b9a3bcff0335091c9]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/3) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-3e1b9ea527cd08c5728d640d659471de]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/4) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-3e1b9ea527cd08c5728d640d659471de]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/4) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-8a114ec45107d98f4991fcc176725cac]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/5) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-8a114ec45107d98f4991fcc176725cac]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/5) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-c7b1c794b5b53324c856007083ba4b14]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/6) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-c7b1c794b5b53324c856007083ba4b14]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/6) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-553e102ad1d3532795144ecdea57a096]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/7) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-553e102ad1d3532795144ecdea57a096]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/7) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-11bef36bacd2d8aa4d83b629658d8dcb]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/8) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
+[^c-11bef36bacd2d8aa4d83b629658d8dcb]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2003/658/regulation/5/8) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/5/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/2768/regulation/3))
 
-[^key-d41bc58dbf71612fcb8b70445b4293c9]: Commencement: Reg. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
+[^c-d41bc58dbf71612fcb8b70445b4293c9]: Commencement: Reg. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
 
-[^key-8f2d75a0b5a0c82d91a10d40be71fdd4]: Commencement: Reg. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
+[^c-8f2d75a0b5a0c82d91a10d40be71fdd4]: Commencement: Reg. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/658/regulation/1)
 
-[^key-02f1476576e7cae0238f6a605711b5e4]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/1/c): semicolon substituted for full stop (1.4.2008) by [The Immigration (Notices) (Amendment) Regulations 2008 (S.I. 2008/684)](https://www.legislation.gov.uk/uksi/2008/684), [regs. 1](https://www.legislation.gov.uk/uksi/2008/684/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2008/684/regulation/2/3/a)
+[^c-02f1476576e7cae0238f6a605711b5e4]: Textual amendment: [Reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/1/c): semicolon substituted for full stop (1.4.2008) by [The Immigration (Notices) (Amendment) Regulations 2008 (S.I. 2008/684)](https://www.legislation.gov.uk/uksi/2008/684), [regs. 1](https://www.legislation.gov.uk/uksi/2008/684/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2008/684/regulation/2/3/a)
 
-[^key-05e817294a35e16cdfd19be1fc353482]: Textual amendment: [Reg. 7(1)(d)-(g)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/1/d) inserted (1.4.2008) by [The Immigration (Notices) (Amendment) Regulations 2008 (S.I. 2008/684)](https://www.legislation.gov.uk/uksi/2008/684), [regs. 1](https://www.legislation.gov.uk/uksi/2008/684/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2008/684/regulation/2/3/b)
+[^c-05e817294a35e16cdfd19be1fc353482]: Textual amendment: [Reg. 7(1)(d)-(g)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/1/d) inserted (1.4.2008) by [The Immigration (Notices) (Amendment) Regulations 2008 (S.I. 2008/684)](https://www.legislation.gov.uk/uksi/2008/684), [regs. 1](https://www.legislation.gov.uk/uksi/2008/684/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2008/684/regulation/2/3/b)
 
-[^key-4d03c5411f26043d309512fd9a240538]: Textual amendment: [Reg. 7(1A)-(1C)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/1A) inserted (9.10.2023) by [The Immigration (Notices) (Amendment) Regulations 2023 (S.I. 2023/1008)](https://www.legislation.gov.uk/uksi/2023/1008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1008/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1008/regulation/2)
+[^c-4d03c5411f26043d309512fd9a240538]: Textual amendment: [Reg. 7(1A)-(1C)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/1A) inserted (9.10.2023) by [The Immigration (Notices) (Amendment) Regulations 2023 (S.I. 2023/1008)](https://www.legislation.gov.uk/uksi/2023/1008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1008/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1008/regulation/2)
 
-[^key-de1f6ab125847ac7f14cefeed5a2b3b6]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/2) omitted (28.4.2013) by virtue of [The Immigration (Notices) (Amendment) Regulations 2013 (S.I. 2013/793)](https://www.legislation.gov.uk/uksi/2013/793), [art. 2](https://www.legislation.gov.uk/uksi/2013/793/article/2), [reg. 2](https://www.legislation.gov.uk/uksi/2013/793/regulation/2)
+[^c-de1f6ab125847ac7f14cefeed5a2b3b6]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/2) omitted (28.4.2013) by virtue of [The Immigration (Notices) (Amendment) Regulations 2013 (S.I. 2013/793)](https://www.legislation.gov.uk/uksi/2013/793), [art. 2](https://www.legislation.gov.uk/uksi/2013/793/article/2), [reg. 2](https://www.legislation.gov.uk/uksi/2013/793/regulation/2)
 
-[^key-d94c5898b928c325aa8fdab727ab0076]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/3) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/a)
+[^c-d94c5898b928c325aa8fdab727ab0076]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/3) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/a)
 
-[^key-9700e2ed7a2fb4b2e9df668a63e37849]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/4) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/b)
+[^c-9700e2ed7a2fb4b2e9df668a63e37849]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/4) substituted (6.11.2014) by [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/b)
 
-[^key-b5928a5d72f019cef1adbf473620cff7]: Textual amendment: Word in [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/5/a) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/c/i)
+[^c-b5928a5d72f019cef1adbf473620cff7]: Textual amendment: Word in [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/5/a) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/c/i)
 
-[^key-122fb498333c7ba8839385e59f8aa492]: Textual amendment: [Reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/5/b) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/c/ii)
+[^c-122fb498333c7ba8839385e59f8aa492]: Textual amendment: [Reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/5/b) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/c/ii)
 
-[^key-61d733ebf73f49fd229836e897002a26]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/6) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/d)
+[^c-61d733ebf73f49fd229836e897002a26]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2003/658/regulation/7/6) omitted (6.11.2014) by virtue of [The Immigration (Notices) (Amendment) Regulations 2014 (S.I. 2014/2768)](https://www.legislation.gov.uk/uksi/2014/2768), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2768/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2014/2768/regulation/2/6/d)

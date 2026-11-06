@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Death of registered person[^key-fc054e49abd181fd2b627a84883b9bb8]
+## 33. Death of registered person[^c-fc054e49abd181fd2b627a84883b9bb8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc054e49abd181fd2b627a84883b9bb8]: Commencement: Reg. 33 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-fc054e49abd181fd2b627a84883b9bb8]: Commencement: Reg. 33 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

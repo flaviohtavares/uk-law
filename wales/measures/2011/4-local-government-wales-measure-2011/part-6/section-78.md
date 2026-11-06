@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Prohibition of whipped votes & declaration of party whips[^key-73e81d4eff89f66889b685cb9e70b2ac]
+## 78. Prohibition of whipped votes & declaration of party whips[^c-73e81d4eff89f66889b685cb9e70b2ac]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e81d4eff89f66889b685cb9e70b2ac]: Commencement: [S. 78](https://www.legislation.gov.uk/mwa/2011/4/section/78) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/i)
+[^c-73e81d4eff89f66889b685cb9e70b2ac]: Commencement: [S. 78](https://www.legislation.gov.uk/mwa/2011/4/section/78) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/i)

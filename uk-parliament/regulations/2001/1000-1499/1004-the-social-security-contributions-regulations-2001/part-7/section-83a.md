@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83A. Requirement to give security or further security for amounts of Class 1A contributions[^key-a1f8c14a320a502ddc743eee05186d1d]
+## 83A. Requirement to give security or further security for amounts of Class 1A contributions[^c-a1f8c14a320a502ddc743eee05186d1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Paragraphs 29M to 29X of Schedule 4 (security for payment of Class 1 contributio
 
 ## Annotations
 
-[^key-a1f8c14a320a502ddc743eee05186d1d]: Textual amendment: Reg. 83A inserted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2012/821/regulation/17)
+[^c-a1f8c14a320a502ddc743eee05186d1d]: Textual amendment: Reg. 83A inserted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2012/821/regulation/17)

@@ -54,7 +54,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement, interpretation and extent[^key-b9a6f1bd5cac1c0067f25750a14c362e]
+### 1. Citation, commencement, interpretation and extent[^c-b9a6f1bd5cac1c0067f25750a14c362e]
 
 (1) These Regulations may be cited as the National Health Service (Cross-Border Healthcare and Miscellaneous Amendments etc.) (EU Exit) Regulations 2019 and come into force on exit day [^c23764261].
 
@@ -71,7 +71,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 2 — Amendments to primary legislation
 
-### 2. The Health and Social Security Act 1984[^key-cfc1a0bdd55ec7950d90f82bff3f0ae2]
+### 2. The Health and Social Security Act 1984[^c-cfc1a0bdd55ec7950d90f82bff3f0ae2]
 
 (1) The Health and Social Security Act 1984 [^c23764311] is amended as follows.
 
@@ -79,7 +79,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (3) In section 26(4) (extent) omit “section 10”.
 
-### 3. The National Health Service Act 2006[^key-7833692c39b056d77766d1f38ee93c3e]
+### 3. The National Health Service Act 2006[^c-7833692c39b056d77766d1f38ee93c3e]
 
 In the NHS Act 2006 omit the following provisions—
 
@@ -92,7 +92,7 @@ In the NHS Act 2006 omit the following provisions—
 - (g) section 183(a)(ii) (payment of travelling expenses) [^c23764381];
 - (h) the definition of “Regulation [(EC) No. 883/2004](https://www.legislation.gov.uk/eur/2004/883)” in section 275(1) (interpretation) [^c23764391] except in so far as it relates to section 183(a)(iii).
 
-### 4. The National Health Service (Wales) Act 2006[^key-1c9a2847278643e5ccd326d8480756d2]
+### 4. The National Health Service (Wales) Act 2006[^c-1c9a2847278643e5ccd326d8480756d2]
 
 (1) The NHS (Wales) Act is amended as follows.
 
@@ -114,31 +114,31 @@ In the NHS Act 2006 omit the following provisions—
 - (e) section 131(a)(ii) (payment of travelling expenses) [^c23764441];
 - (f) the definition of “Regulation [(EC) No. 883/2004](https://www.legislation.gov.uk/eur/2004/883)” in section 206(1) (interpretation) [^c23764451] except in so far as it relates to section 131(a)(iii).
 
-### 5. The Health and Social Care Act 2012[^key-28e14acd78df8e2c1a8815b757bbe02a]
+### 5. The Health and Social Care Act 2012[^c-28e14acd78df8e2c1a8815b757bbe02a]
 
 In the Health and Social Care Act 2012 [^c23764461] omit the following provisions—
 
 - (a) section 124(9) (local modifications of prices: agreements);
 - (b) section 125(9) (local modifications of prices: applications).
 
-### 6. The Cities and Local Government Devolution Act 2016[^key-2dcf89735889c3a1d346c99bc804dfc3]
+### 6. The Cities and Local Government Devolution Act 2016[^c-2dcf89735889c3a1d346c99bc804dfc3]
 
 In the Cities and Local Government Devolution Act 2016 [^c23764471] omit section 18(2)(b) (devolving health service functions).
 
 ## PART 3 — Amendments to secondary legislation
 
-### 7. The Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^key-a497a241e3a2e692502c7482383b7be7]
+### 7. The Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^c-a497a241e3a2e692502c7482383b7be7]
 
 The Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998 [^c23764481] is amended as follows—
 
 - (a) in article 1(2) (interpretation), omit the definitions of “Directive 2011/24/EU” and “National Contact Point”;
 - (b) omit article 3(2)(d) (nature and functions of the trust) but not the “and” after it.
 
-### 8. The National Assembly for Wales (Transfer of Functions) Order 1999[^key-96e28ee982ad11633f3b6222746ed991]
+### 8. The National Assembly for Wales (Transfer of Functions) Order 1999[^c-96e28ee982ad11633f3b6222746ed991]
 
 In Schedule 1 (enactments conferring functions transferred by article 2) to the National Assembly for Wales (Transfer of Functions) Order 1999 [^c23764491] omit the entry relating to the Health and Social Security Act 1984.
 
-### 9. The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004[^key-05fa470faaedaf64bfa05efa46c625c5][^key-a2c4f9014dba72ceeecd176a4b72e6aa]
+### 9. The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004[^c-05fa470faaedaf64bfa05efa46c625c5][^c-a2c4f9014dba72ceeecd176a4b72e6aa]
 
 (1) The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004 are amended as follows.
 
@@ -161,17 +161,17 @@ In Schedule 1 (enactments conferring functions transferred by article 2) to the 
 
   .
 
-### 10. The National Health Service (General Medical Services Contracts) (Prescription of Drugs Etc.) (Wales) Regulations 2004[^key-9b92b8066676d4155a89f37418c9a7fb]
+### 10. The National Health Service (General Medical Services Contracts) (Prescription of Drugs Etc.) (Wales) Regulations 2004[^c-9b92b8066676d4155a89f37418c9a7fb]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. The National Health Service (Cross-Border Healthcare) Regulations 2013[^key-0a867837354fba21c4b4fb2b41b37c83]
+### 11. The National Health Service (Cross-Border Healthcare) Regulations 2013[^c-0a867837354fba21c4b4fb2b41b37c83]
 
 The 2013 Regulations are revoked.
 
-### 12. The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^key-167e0afea5955a1584e1670ef8a8ce52]
+### 12. The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^c-167e0afea5955a1584e1670ef8a8ce52]
 
 (1) The NHS Functions Regulations [^c23764521] are amended as follows.
 
@@ -187,13 +187,13 @@ The 2013 Regulations are revoked.
 
 > - (a) information about the procedures the Board has in place for prior authorisation pursuant to Article 20 or Article 27(3);
 
-## PART 4 — Revocation of assimilated direct legislation[^key-d1858320b0049367f9b631b98ff7c5b4]
+## PART 4 — Revocation of assimilated direct legislation[^c-d1858320b0049367f9b631b98ff7c5b4]
 
-### 13. 2011/890/EU: Commission Implementing Decision[^key-1580fc96f9f4eae7daa9d22d6487d51c]
+### 13. 2011/890/EU: Commission Implementing Decision[^c-1580fc96f9f4eae7daa9d22d6487d51c]
 
 2011/890/EU: Commission Implementing Decision of 22 December 2011 providing the rules for the establishment, the management and the functioning of the network of national responsible authorities on eHealth is revoked.
 
-### 14. 2013/329/EU: Commission Implementing Decision[^key-57580f7964e4f558688987daa1aa057d]
+### 14. 2013/329/EU: Commission Implementing Decision[^c-57580f7964e4f558688987daa1aa057d]
 
 2013/329/EU: Commission Implementing Decision of 26 June 2013 providing the rules for the establishment, management and transparent functioning of the Network of national authorities or bodies responsible for health technology assessment is revoked.
 
@@ -201,7 +201,7 @@ The 2013 Regulations are revoked.
 
 *Extent: E+W*
 
-### 15. Cross-border cases arising before IP completion day[^key-355b212874595b21c09b0e48fb74b316][^key-b3a92c93de593f73bb04bc710ffe778c]
+### 15. Cross-border cases arising before IP completion day[^c-355b212874595b21c09b0e48fb74b316][^c-b3a92c93de593f73bb04bc710ffe778c]
 
 (1) The legislation referred to in Parts 2 and 3, except for regulations 2, 4(2), 8, 9 and 10 is to continue to apply on and after IP completion day without the amendments, repeals and revocations made by those Parts, and with the modifications made by Schedule 1 in a case where any of paragraphs (2) to (5) apply.
 
@@ -225,23 +225,23 @@ The 2013 Regulations are revoked.
 - “**cross-border healthcare service**” and “**visiting patient**” have the same meaning as in the 2013 Regulations;
 - “**service**” is to be construed in accordance with section 6A or section 6BA of the NHS Act 2006 or, as the case may be, of the NHS (Wales) Act.
 
-### 16. Cases arising during cross-border arrangements[^key-3f30ed2f349bf05cedf2ef4b3451f765]
+### 16. Cases arising during cross-border arrangements[^c-3f30ed2f349bf05cedf2ef4b3451f765]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Savings provision for cases arising during cross-border arrangements[^key-62b43c4d2525683bdc8422fe9bd9fb37]
+### 17. Savings provision for cases arising during cross-border arrangements[^c-62b43c4d2525683bdc8422fe9bd9fb37]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Rights etc deriving from the Treaties[^key-f0cbc990e92e17e35b90d0bfd9d0cfaf]
+## PART 6 — Rights etc deriving from the Treaties[^c-f0cbc990e92e17e35b90d0bfd9d0cfaf]
 
 **No longer in force.**
 
-### 18. EU-derived rights[^key-f0cbc990e92e17e35b90d0bfd9d0cfaf]
+### 18. EU-derived rights[^c-f0cbc990e92e17e35b90d0bfd9d0cfaf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -255,19 +255,19 @@ Department of Health and Social Care
 
 *Extent: E+W*
 
-## SCHEDULE 1 — Cross-border cases arising before IP completion day[^key-d0c48e4f55004d1b174f2320ba0660a5]
+## SCHEDULE 1 — Cross-border cases arising before IP completion day[^c-d0c48e4f55004d1b174f2320ba0660a5]
 
 Regulation 15
 
 ### PART 1 — Modifications to primary legislation
 
-#### 1. Modifications to the NHS Act 2006[^key-55741f5f308d0e89c6f7b2f0cd34f54a]
+#### 1. Modifications to the NHS Act 2006[^c-55741f5f308d0e89c6f7b2f0cd34f54a]
 
 The NHS Act 2006 is to be read as if—
 
 - (a) in the headings to sections 6A and 6BA (reimbursement of cost of services provided in an EEA state), for references to “another EEA state” there were substituted “ an EEA state ”;
 - (b) in those sections, for references to “an EEA state other than the United Kingdom” there were substituted “ an EEA state ”;
-- (ba)[^key-d929a098b379833faf514030443bf178] in section 6A(6), after the second reference to “apply” there were inserted “by virtue of Title III of Part 2 of the withdrawal agreement (co-ordination of social security systems), Title III of Part 2 of the EEA EFTA separation agreement or social security co-ordination provisions of the Swiss citizens’ rights agreement (co-ordination of social security systems)”;
+- (ba)[^c-d929a098b379833faf514030443bf178] in section 6A(6), after the second reference to “apply” there were inserted “by virtue of Title III of Part 2 of the withdrawal agreement (co-ordination of social security systems), Title III of Part 2 of the EEA EFTA separation agreement or social security co-ordination provisions of the Swiss citizens’ rights agreement (co-ordination of social security systems)”;
 - (bb) after section 6A(11), there were inserted—
 
   > (12) In subsection (6), expressions which are defined in the European Union (Withdrawal Agreement) Act 2020 have the same meaning as they have in that Act.
@@ -279,17 +279,17 @@ The NHS Act 2006 is to be read as if—
   > (16) In subsection (9), expressions which are defined in the European Union (Withdrawal Agreement) Act 2020 have the same meaning as they have in that Act.
 
   ;
-- (c) in section 6D (regulations relating to EU obligations) and the heading to that section, for references to “EU obligations” there were substituted “assimilated obligations[^key-83008e1f66904e1462f429e3ef49670d]”;
+- (c) in section 6D (regulations relating to EU obligations) and the heading to that section, for references to “EU obligations” there were substituted “assimilated obligations[^c-83008e1f66904e1462f429e3ef49670d]”;
 - (d) in section 6E(7)(b) (regulations as to exercise of functions by the Board or clinical commissioning groups), for the reference to “EU obligations” there were substituted “assimilated obligations”;
-- (e)[^key-9fa601a9c8954d8652241cff3f72bffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-9fa601a9c8954d8652241cff3f72bffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Modifications to the NHS (Wales) Act[^key-8eee65f5628bcfa8138a0da6334c05db]
+#### 2. Modifications to the NHS (Wales) Act[^c-8eee65f5628bcfa8138a0da6334c05db]
 
 The NHS (Wales) Act is to be read as if—
 
 - (a) in the headings to sections 6A and 6BA (reimbursement of cost of services provided in an EEA state), for references to “another EEA state” there were substituted “ an EEA state ”;
 - (b) in those sections, for references to “an EEA state other than the United Kingdom” there were substituted “ an EEA state ”;
-- (ba)[^key-5e7ea48a957abf70058265109746ffce] in section 6A(6), after the second reference to “apply” there were inserted “by virtue of Title III of Part 2 of the withdrawal agreement (co-ordination of social security systems), Title III of Part 2 of the EEA EFTA separation agreement or social security co-ordination provisions of the Swiss citizens’ rights agreement (co-ordination of social security systems)”;
+- (ba)[^c-5e7ea48a957abf70058265109746ffce] in section 6A(6), after the second reference to “apply” there were inserted “by virtue of Title III of Part 2 of the withdrawal agreement (co-ordination of social security systems), Title III of Part 2 of the EEA EFTA separation agreement or social security co-ordination provisions of the Swiss citizens’ rights agreement (co-ordination of social security systems)”;
 - (bb) after section 6A(11), there were inserted—
 
   > (12) In subsection (6), expressions which are defined in the European Union (Withdrawal Agreement) Act 2020 have the same meaning as they have in that Act.
@@ -301,16 +301,16 @@ The NHS (Wales) Act is to be read as if—
   > (16) In subsection (9), expressions which are defined in the European Union (Withdrawal Agreement) Act 2020 have the same meaning as they have in that Act.
 
   ;
-- (c)[^key-6d4beada76f3ff940c03acb4c05bcd8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6d4beada76f3ff940c03acb4c05bcd8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Modifications to the Health and Social Care Act 2012[^key-aee73f916d6237d8a3c5d2a1e00e3e28]
+#### 3. Modifications to the Health and Social Care Act 2012[^c-aee73f916d6237d8a3c5d2a1e00e3e28]
 
 The Health and Social Care Act 2012 is to be read as if—
 
-- (a) in section 124(9) (local modifications of prices: agreements), for “an EU obligation” there were substituted “an assimilated obligation[^key-b62564c3ea4362ab8fe05bac790b5bb2]”;
+- (a) in section 124(9) (local modifications of prices: agreements), for “an EU obligation” there were substituted “an assimilated obligation[^c-b62564c3ea4362ab8fe05bac790b5bb2]”;
 - (b) in section 125(9) (local modifications of prices: applications), for “an EU obligation” there were substituted “an assimilated obligation”.
 
-#### 4. Modification to the Cities and Local Government Devolution Act 2016[^key-d37176fc770505f869f370ba9ad4c959]
+#### 4. Modification to the Cities and Local Government Devolution Act 2016[^c-d37176fc770505f869f370ba9ad4c959]
 
 The Cities and Local Government Devolution Act 2016 is to be read as if for section 18(2)(b) (devolving health service functions) there were substituted—
 
@@ -320,12 +320,12 @@ The Cities and Local Government Devolution Act 2016 is to be read as if for sect
 
 ### PART 2 — Modifications to secondary legislation
 
-#### 5. Modifications to the 2013 Regulations[^key-813f6ccd4a94745098212bcff62350ec]
+#### 5. Modifications to the 2013 Regulations[^c-813f6ccd4a94745098212bcff62350ec]
 
 The 2013 Regulations are to be read as if—
 
 - (a) in regulation 1(3) (interpretation)—
-  - (i) in the definition of “resident patient”, for the reference to “the United Kingdom is” there were substituted “ immediately before IP completion day[^key-a252cd7adec723103883b067e45714e3] the United Kingdom was ”;
+  - (i) in the definition of “resident patient”, for the reference to “the United Kingdom is” there were substituted “ immediately before IP completion day[^c-a252cd7adec723103883b067e45714e3] the United Kingdom was ”;
   - (ii) in the definition of “visiting patient”, for the reference to “a member State other than the United Kingdom is” there were substituted “ immediately before IP completion day a member State other than the United Kingdom was ”;
 - (b) in regulation 2 (national contact point: designation), for references to “must” there were substituted “ may ”;
 - (c) in regulation 3 (NCP: information about treatment in England and Wales)—
@@ -347,18 +347,18 @@ The 2013 Regulations are to be read as if—
 - (h) regulation 6 (NCP: duty to consult) were omitted;
 - (i) in regulation 9(1) (information on rights and entitlements), after “must” there were inserted “ make reasonable efforts to ”;
 - (j) in regulation 12(1) (information on rights and entitlements), after “must” there were inserted “ make reasonable efforts to ”;
-- (ja)[^key-8d98ea186529f87fae78a3d65f0790ab] in regulation 13(2) (NHS charges), in paragraph (a) of the definition of “cross-border healthcare service”, after “visiting patient”, there were inserted “which insofar as it was provided before IP completion day was provided”;
+- (ja)[^c-8d98ea186529f87fae78a3d65f0790ab] in regulation 13(2) (NHS charges), in paragraph (a) of the definition of “cross-border healthcare service”, after “visiting patient”, there were inserted “which insofar as it was provided before IP completion day was provided”;
 - (k) in the heading to regulation 14 (exemption from NHS charges), for the reference to “another member State” there were substituted “ a member State ”;
 - (l) in regulation 14—
   - (i) in paragraph (2), for the reference to “P is” there were substituted “ immediately before IP completion day P was ”;
   - (ii) in paragraph (2)(a), for the reference to “is resident” there were substituted “ was resident ”;
   - (iii) in paragraph (2)(b), for the reference to “is the competent member State” there were substituted “ was the competent member State ”;
-  - (iv)[^key-845c562194a0c371b736e473e4f8d473] in paragraph (3)(b), for “it is not provided” there were substituted “insofar as the service was provided before IP completion day it was not provided”;
-  - (v)[^key-30fcc08a1c14f74d67fa957bab77d607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-ab165e18a57e77df927783e68bccc81d] regulation 16 (review) were omitted;
+  - (iv)[^c-845c562194a0c371b736e473e4f8d473] in paragraph (3)(b), for “it is not provided” there were substituted “insofar as the service was provided before IP completion day it was not provided”;
+  - (v)[^c-30fcc08a1c14f74d67fa957bab77d607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-ab165e18a57e77df927783e68bccc81d] regulation 16 (review) were omitted;
 - (n) the Schedule (elements that must be included in prescriptions) were omitted.
 
-#### 6. Modifications to the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^key-1987e8e1e6a125d2ccc45941ea59c054][^key-159e02b4ba08ba25f86ff1bb736109fe]
+#### 6. Modifications to the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^c-1987e8e1e6a125d2ccc45941ea59c054][^c-159e02b4ba08ba25f86ff1bb736109fe]
 
 The NHS Functions Regulations are to be read as if—
 
@@ -374,83 +374,83 @@ The NHS Functions Regulations are to be read as if—
   - (i) after sub-paragraph (a) there were inserted “or”;
   - (ii) sub-paragraph (c) and the “or” before it were omitted.
 
-## SCHEDULE 2 — Cases arising during cross-border arrangements[^key-72c8f656b208db336c804efd91f373e9]
+## SCHEDULE 2 — Cases arising during cross-border arrangements[^c-72c8f656b208db336c804efd91f373e9]
 
 Regulation 16
 
-### PART 1 — Modifications to primary legislation[^key-72c8f656b208db336c804efd91f373e9]
+### PART 1 — Modifications to primary legislation[^c-72c8f656b208db336c804efd91f373e9]
 
 **No longer in force.**
 
-#### 1. Modifications to the NHS Act 2006[^key-72c8f656b208db336c804efd91f373e9]
+#### 1. Modifications to the NHS Act 2006[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Modifications to the NHS (Wales) Act[^key-72c8f656b208db336c804efd91f373e9]
+#### 2. Modifications to the NHS (Wales) Act[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Modifications to the Health and Social Care Act 2012[^key-72c8f656b208db336c804efd91f373e9]
+#### 3. Modifications to the Health and Social Care Act 2012[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Modification to the Cities and Local Government Devolution Act 2016[^key-72c8f656b208db336c804efd91f373e9]
+#### 4. Modification to the Cities and Local Government Devolution Act 2016[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Modifications to secondary legislation[^key-72c8f656b208db336c804efd91f373e9]
+### PART 2 — Modifications to secondary legislation[^c-72c8f656b208db336c804efd91f373e9]
 
 **No longer in force.**
 
-#### 5. Modifications to the Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^key-72c8f656b208db336c804efd91f373e9]
+#### 5. Modifications to the Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Modifications to the 2013 Regulations[^key-72c8f656b208db336c804efd91f373e9]
+#### 6. Modifications to the 2013 Regulations[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Modifications to the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^key-72c8f656b208db336c804efd91f373e9]
+#### 7. Modifications to the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^c-72c8f656b208db336c804efd91f373e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Savings provision for cases arising during cross-border arrangements[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+## SCHEDULE 3 — Savings provision for cases arising during cross-border arrangements[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 Regulation 17
 
-### PART 1 — Modifications to primary legislation[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+### PART 1 — Modifications to primary legislation[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 **No longer in force.**
 
-#### 1. Modifications to the NHS Act 2006[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 1. Modifications to the NHS Act 2006[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Modifications to the NHS (Wales) Act[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 2. Modifications to the NHS (Wales) Act[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Modifications to the Health and Social Care Act 2012[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 3. Modifications to the Health and Social Care Act 2012[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Modification to the Cities and Local Government Devolution Act 2016[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 4. Modification to the Cities and Local Government Devolution Act 2016[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Modifications to secondary legislation[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+### PART 2 — Modifications to secondary legislation[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 **No longer in force.**
 
-#### 5. Modifications to the Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 5. Modifications to the Welsh Ambulance Services National Health Service Trust (Establishment) Order 1998[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Modifications to the 2013 Regulations[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 6. Modifications to the 2013 Regulations[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Modifications to the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^key-4054ebfb5141e6ebf81b81bd529dccd9]
+#### 7. Modifications to the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^c-4054ebfb5141e6ebf81b81bd529dccd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -466,7 +466,7 @@ An impact assessment has been prepared in relation to these Regulations and copi
 
 [^c23764251]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b9a6f1bd5cac1c0067f25750a14c362e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b9a6f1bd5cac1c0067f25750a14c362e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764261]: Marginal citation: Section 20(1) of the European Union (Withdrawal) Act 2018 defines “exit day”.
 
@@ -478,11 +478,11 @@ An impact assessment has been prepared in relation to these Regulations and copi
 
 [^c23764301]: Marginal citation: [S.I. 2013/261](https://www.legislation.gov.uk/uksi/2013/261); amended by [S.I. 2013/2269](https://www.legislation.gov.uk/uksi/2013/2269); there are other amending instruments but none is relevant.
 
-[^key-cfc1a0bdd55ec7950d90f82bff3f0ae2]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cfc1a0bdd55ec7950d90f82bff3f0ae2]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764311]: Marginal citation: [1984 c.48](https://www.legislation.gov.uk/ukpga/1984/48). Functions under section 10 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672); those functions are now exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-7833692c39b056d77766d1f38ee93c3e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7833692c39b056d77766d1f38ee93c3e]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764321]: Marginal citation: Section 6A was inserted by [S.I. 2010/915](https://www.legislation.gov.uk/uksi/2010/915) and amended by paragraph 3 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”) and [S.I. 2013/2269](https://www.legislation.gov.uk/uksi/2013/2269).
 
@@ -500,7 +500,7 @@ An impact assessment has been prepared in relation to these Regulations and copi
 
 [^c23764391]: Marginal citation: The definition was inserted by [S.I. 2010/915](https://www.legislation.gov.uk/uksi/2010/915).
 
-[^key-1c9a2847278643e5ccd326d8480756d2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1c9a2847278643e5ccd326d8480756d2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764401]: Marginal citation: Section 6A was inserted by [S.I. 2010/915](https://www.legislation.gov.uk/uksi/2010/915) and amended by [S.I. 2013/2269](https://www.legislation.gov.uk/uksi/2013/2269).
 
@@ -514,88 +514,88 @@ An impact assessment has been prepared in relation to these Regulations and copi
 
 [^c23764451]: Marginal citation: The definition was inserted by [S.I. 2010/915](https://www.legislation.gov.uk/uksi/2010/915).
 
-[^key-28e14acd78df8e2c1a8815b757bbe02a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-28e14acd78df8e2c1a8815b757bbe02a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764461]: Marginal citation: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-2dcf89735889c3a1d346c99bc804dfc3]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2dcf89735889c3a1d346c99bc804dfc3]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764471]: Marginal citation: [2016 c.1](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-a497a241e3a2e692502c7482383b7be7]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a497a241e3a2e692502c7482383b7be7]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764481]: Marginal citation: [S.I. 1998/678](https://www.legislation.gov.uk/uksi/1998/678); relevant amendments were made by [S.I. 2013/2729](https://www.legislation.gov.uk/uksi/2013/2729).
 
-[^key-96e28ee982ad11633f3b6222746ed991]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-96e28ee982ad11633f3b6222746ed991]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764491]: Marginal citation: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672); to which there are amendments not relevant to these Regulations.
 
-[^key-05fa470faaedaf64bfa05efa46c625c5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-05fa470faaedaf64bfa05efa46c625c5]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a2c4f9014dba72ceeecd176a4b72e6aa]: Textual amendment: Reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1348/regulation/8)
+[^c-a2c4f9014dba72ceeecd176a4b72e6aa]: Textual amendment: Reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1348/regulation/8)
 
-[^key-9b92b8066676d4155a89f37418c9a7fb]: Textual amendment: Reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1348/regulation/9)
+[^c-9b92b8066676d4155a89f37418c9a7fb]: Textual amendment: Reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1348/regulation/9)
 
-[^key-0a867837354fba21c4b4fb2b41b37c83]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0a867837354fba21c4b4fb2b41b37c83]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-167e0afea5955a1584e1670ef8a8ce52]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-167e0afea5955a1584e1670ef8a8ce52]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23764521]: Marginal citation: [S.I. 2013/261](https://www.legislation.gov.uk/uksi/2013/261); relevant amendments were made by [S.I. 2013/2269](https://www.legislation.gov.uk/uksi/2013/2269); there are other amending instruments but none are relevant.
 
-[^key-d1858320b0049367f9b631b98ff7c5b4]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2019/777/part/4) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/2)
+[^c-d1858320b0049367f9b631b98ff7c5b4]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2019/777/part/4) heading substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/2)
 
-[^key-1580fc96f9f4eae7daa9d22d6487d51c]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1580fc96f9f4eae7daa9d22d6487d51c]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-57580f7964e4f558688987daa1aa057d]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-57580f7964e4f558688987daa1aa057d]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-355b212874595b21c09b0e48fb74b316]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-355b212874595b21c09b0e48fb74b316]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b3a92c93de593f73bb04bc710ffe778c]: Textual amendment: Words in reg. 15 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)
+[^c-b3a92c93de593f73bb04bc710ffe778c]: Textual amendment: Words in reg. 15 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1348/regulation/10)
 
-[^key-3f30ed2f349bf05cedf2ef4b3451f765]: Textual amendment: Reg. 16 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
+[^c-3f30ed2f349bf05cedf2ef4b3451f765]: Textual amendment: Reg. 16 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
 
-[^key-62b43c4d2525683bdc8422fe9bd9fb37]: Textual amendment: Reg. 17 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
+[^c-62b43c4d2525683bdc8422fe9bd9fb37]: Textual amendment: Reg. 17 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
 
-[^key-f0cbc990e92e17e35b90d0bfd9d0cfaf]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2019/777/part/6) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/3)
+[^c-f0cbc990e92e17e35b90d0bfd9d0cfaf]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2019/777/part/6) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/3)
 
-[^key-d0c48e4f55004d1b174f2320ba0660a5]: Textual amendment: Words in Sch. 1 heading substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/a)
+[^c-d0c48e4f55004d1b174f2320ba0660a5]: Textual amendment: Words in Sch. 1 heading substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/a)
 
-[^key-55741f5f308d0e89c6f7b2f0cd34f54a]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-55741f5f308d0e89c6f7b2f0cd34f54a]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-d929a098b379833faf514030443bf178]: Textual amendment: Sch. 1 para. 1(ba)-(bd) inserted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/b)
+[^c-d929a098b379833faf514030443bf178]: Textual amendment: Sch. 1 para. 1(ba)-(bd) inserted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/b)
 
-[^key-83008e1f66904e1462f429e3ef49670d]: Textual amendment: Words in Sch. 1 para. 1(c)(d) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(4)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/4/a)
+[^c-83008e1f66904e1462f429e3ef49670d]: Textual amendment: Words in Sch. 1 para. 1(c)(d) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(4)(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/4/a)
 
-[^key-9fa601a9c8954d8652241cff3f72bffd]: Textual amendment: Sch. 1 para. 1(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/c)
+[^c-9fa601a9c8954d8652241cff3f72bffd]: Textual amendment: Sch. 1 para. 1(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/c)
 
-[^key-8eee65f5628bcfa8138a0da6334c05db]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-8eee65f5628bcfa8138a0da6334c05db]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-5e7ea48a957abf70058265109746ffce]: Textual amendment: Sch. 1 para. 2(ba)-(bd) inserted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/d)
+[^c-5e7ea48a957abf70058265109746ffce]: Textual amendment: Sch. 1 para. 2(ba)-(bd) inserted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/d)
 
-[^key-6d4beada76f3ff940c03acb4c05bcd8d]: Textual amendment: Sch. 1 para. 2(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/e)
+[^c-6d4beada76f3ff940c03acb4c05bcd8d]: Textual amendment: Sch. 1 para. 2(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/e)
 
-[^key-aee73f916d6237d8a3c5d2a1e00e3e28]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-aee73f916d6237d8a3c5d2a1e00e3e28]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b62564c3ea4362ab8fe05bac790b5bb2]: Textual amendment: Words in Sch. 1 para. 3(a)(b) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(4)(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/4/b)
+[^c-b62564c3ea4362ab8fe05bac790b5bb2]: Textual amendment: Words in Sch. 1 para. 3(a)(b) substituted (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 13(4)(b)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/13/4/b)
 
-[^key-d37176fc770505f869f370ba9ad4c959]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d37176fc770505f869f370ba9ad4c959]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-813f6ccd4a94745098212bcff62350ec]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-813f6ccd4a94745098212bcff62350ec]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a252cd7adec723103883b067e45714e3]: Textual amendment: Words in Sch. 1 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/a)
+[^c-a252cd7adec723103883b067e45714e3]: Textual amendment: Words in Sch. 1 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/a)
 
-[^key-8d98ea186529f87fae78a3d65f0790ab]: Textual amendment: Sch. 1 para. 5(ja) inserted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(f)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/f)
+[^c-8d98ea186529f87fae78a3d65f0790ab]: Textual amendment: Sch. 1 para. 5(ja) inserted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(f)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/f)
 
-[^key-845c562194a0c371b736e473e4f8d473]: Textual amendment: Sch. 1 para. 5(l)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(g)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/g)
+[^c-845c562194a0c371b736e473e4f8d473]: Textual amendment: Sch. 1 para. 5(l)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(g)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/g)
 
-[^key-30fcc08a1c14f74d67fa957bab77d607]: Textual amendment: Sch. 1 para. 5(l)(v) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(h)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/h)
+[^c-30fcc08a1c14f74d67fa957bab77d607]: Textual amendment: Sch. 1 para. 5(l)(v) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(h)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/h)
 
-[^key-ab165e18a57e77df927783e68bccc81d]: Textual amendment: Sch. 1 para. 5(m) substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(i)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/i)
+[^c-ab165e18a57e77df927783e68bccc81d]: Textual amendment: Sch. 1 para. 5(m) substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(i)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/i)
 
-[^key-1987e8e1e6a125d2ccc45941ea59c054]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1987e8e1e6a125d2ccc45941ea59c054]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-159e02b4ba08ba25f86ff1bb736109fe]: Textual amendment: Sch. 1 para. 6 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(j)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/j)
+[^c-159e02b4ba08ba25f86ff1bb736109fe]: Textual amendment: Sch. 1 para. 6 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [12(j)](https://www.legislation.gov.uk/uksi/2020/1348/regulation/12/j)
 
-[^key-72c8f656b208db336c804efd91f373e9]: Textual amendment: Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
+[^c-72c8f656b208db336c804efd91f373e9]: Textual amendment: Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
 
-[^key-4054ebfb5141e6ebf81b81bd529dccd9]: Textual amendment: Sch. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)
+[^c-4054ebfb5141e6ebf81b81bd529dccd9]: Textual amendment: Sch. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1348/regulation/11)

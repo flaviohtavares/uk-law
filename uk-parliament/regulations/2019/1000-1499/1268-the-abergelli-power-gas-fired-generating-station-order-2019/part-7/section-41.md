@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Procedure in relation to certain approvals[^key-defd011f0b7fd4123d7afcd608739e1e]
+## 41. Procedure in relation to certain approvals[^c-defd011f0b7fd4123d7afcd608739e1e]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-defd011f0b7fd4123d7afcd608739e1e]: Commencement: Art. 41 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-defd011f0b7fd4123d7afcd608739e1e]: Commencement: Art. 41 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

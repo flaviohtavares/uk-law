@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Transitional provision for existing site licences[^key-c79f3fc96a70ca39786a4238346777de]
+## 83. Transitional provision for existing site licences[^c-c79f3fc96a70ca39786a4238346777de]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c79f3fc96a70ca39786a4238346777de]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2014/14/section/83) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-c79f3fc96a70ca39786a4238346777de]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2014/14/section/83) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

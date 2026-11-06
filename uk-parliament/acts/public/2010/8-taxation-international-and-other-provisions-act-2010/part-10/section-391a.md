@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 391A. Amounts capitalised in carrying value of intangible fixed assets[^key-0c0684ad1dab72a0edd94eb0a1028c42]
+## 391A. Amounts capitalised in carrying value of intangible fixed assets[^c-0c0684ad1dab72a0edd94eb0a1028c42]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In determining for the purposes of this Part whether an amount is a tax-interest
 
 ## Annotations
 
-[^key-0c0684ad1dab72a0edd94eb0a1028c42]: Textual amendment: [S. 391A](https://www.legislation.gov.uk/ukpga/2010/8/section/391A) inserted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/2)
+[^c-0c0684ad1dab72a0edd94eb0a1028c42]: Textual amendment: [S. 391A](https://www.legislation.gov.uk/ukpga/2010/8/section/391A) inserted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/2)

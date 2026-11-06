@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73B. Sections 73 and 73A: supplementary[^M_C_e79467e0-bee3-4d4f-89c0-c1184806d586][^key-a2718a26c4c988971b6407c72d9ae1f0][^key-b155580a9fb75f6dcaf076cd7faa7e9e]
+## 73B. Sections 73 and 73A: supplementary[^M_C_e79467e0-bee3-4d4f-89c0-c1184806d586][^c-a2718a26c4c988971b6407c72d9ae1f0][^c-b155580a9fb75f6dcaf076cd7faa7e9e]
 
 *Extent: E+W+S*
 
-(1) Any action taken in contravention of section 73A(3) or (6A)[^key-36b78e3589c0b00794505b26e2a8c140] is void.
+(1) Any action taken in contravention of section 73A(3) or (6A)[^c-36b78e3589c0b00794505b26e2a8c140] is void.
 
 (2) If any provision made by or by virtue of the winding up provisions is not complied with in relation to a scheme to which section 73 applies, section 10 applies to any trustee or manager of the scheme who has failed to take all reasonable steps to secure compliance.
 
-(3) For the purposes of subsection (2), when determining whether section 73A(3) or (6A)[^key-45eb14754b12bb1b5e5db282b1a00eeb] has been complied with subsection (1) of this section is to be disregarded.
+(3) For the purposes of subsection (2), when determining whether section 73A(3) or (6A)[^c-45eb14754b12bb1b5e5db282b1a00eeb] has been complied with subsection (1) of this section is to be disregarded.
 
 (4) Regulations may—
 
@@ -47,7 +47,7 @@ summary: ''
 - (c) in relation to any liability in respect of rights of prescribed descriptions to which a member of the scheme had become entitled under the scheme rules before the commencement of the winding up period, or
 - (d) in relation to any liability the discharge of which is validated under section 136 of the Pensions Act 2004 (power to validate actions taken during an assessment period to discharge liabilities of a scheme).
 
-(7) But nothing in subsection (6) prevents the winding up provisions applying in relation to a liability under Chapter 1 of Part 4ZA[^key-caccd6b425387510fd598c69a1fde084] of the Pension Schemes Act 1993 (transfer values) which—
+(7) But nothing in subsection (6) prevents the winding up provisions applying in relation to a liability under Chapter 1 of Part 4ZA[^c-caccd6b425387510fd598c69a1fde084] of the Pension Schemes Act 1993 (transfer values) which—
 
 - (a) arose before the commencement of the winding up of the scheme, and
 - (b) was not discharged before the commencement of the winding up period.
@@ -71,12 +71,12 @@ his entitlement to payment of all or part of the benefit is, for the purposes of
 
 [^M_C_e79467e0-bee3-4d4f-89c0-c1184806d586]: Modification: [Ss. 73-74](https://www.legislation.gov.uk/ukpga/1995/26/section/73) applied (with modifications) by [The Occupational Pension Schemes (Winding Up) Regulations 1996 (S.I. 1996/3126)](https://www.legislation.gov.uk/uksi/1996/3126), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3126/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/1996/3126/regulation/12) (as amended (6.4.2005) by [S.I. 2005/706](https://www.legislation.gov.uk/uksi/2005/706), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [Sch. paras. 6](https://www.legislation.gov.uk/uksi/2005/706/schedule/paragraph/6), [7](https://www.legislation.gov.uk/uksi/2005/706/schedule/paragraph/7))
 
-[^key-a2718a26c4c988971b6407c72d9ae1f0]: Modification: [Ss. 73-73B](https://www.legislation.gov.uk/ukpga/1995/26/section/73) modified in part (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/10/2)
+[^c-a2718a26c4c988971b6407c72d9ae1f0]: Modification: [Ss. 73-73B](https://www.legislation.gov.uk/ukpga/1995/26/section/73) modified in part (6.4.2005) by [The Occupational Pension Schemes (Winding up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/10/2)
 
-[^key-b155580a9fb75f6dcaf076cd7faa7e9e]: Textual amendment: Ss. 73-73B substituted for s. 73 (10.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 270(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/270/1), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/b), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (with [art. 2(8)](https://www.legislation.gov.uk/uksi/2005/275/article/2/8)[(9)](https://www.legislation.gov.uk/uksi/2005/275/article/2/9))
+[^c-b155580a9fb75f6dcaf076cd7faa7e9e]: Textual amendment: Ss. 73-73B substituted for s. 73 (10.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 270(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/270/1), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/b), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (with [art. 2(8)](https://www.legislation.gov.uk/uksi/2005/275/article/2/8)[(9)](https://www.legislation.gov.uk/uksi/2005/275/article/2/9))
 
-[^key-36b78e3589c0b00794505b26e2a8c140]: Textual amendment: Words in [s. 73B(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/73B/1) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/58/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-36b78e3589c0b00794505b26e2a8c140]: Textual amendment: Words in [s. 73B(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/73B/1) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/58/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-45eb14754b12bb1b5e5db282b1a00eeb]: Textual amendment: Words in [s. 73B(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/73B/3) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/58/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-45eb14754b12bb1b5e5db282b1a00eeb]: Textual amendment: Words in [s. 73B(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/73B/3) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2015/8/section/58/2), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-caccd6b425387510fd598c69a1fde084]: Textual amendment: Words in [s. 73B(7)](https://www.legislation.gov.uk/ukpga/1995/26/section/73B/7) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/31) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-caccd6b425387510fd598c69a1fde084]: Textual amendment: Words in [s. 73B(7)](https://www.legislation.gov.uk/ukpga/1995/26/section/73B/7) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/31) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

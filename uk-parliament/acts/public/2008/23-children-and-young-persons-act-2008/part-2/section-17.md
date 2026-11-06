@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Children in long-term care: notification to appropriate officer etc[^key-e67bd04003fb9b39ab22e175d15ef1c8]
+## 17. Children in long-term care: notification to appropriate officer etc[^c-e67bd04003fb9b39ab22e175d15ef1c8]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e67bd04003fb9b39ab22e175d15ef1c8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2008/23/section/17) in force at 1.4.2011 by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2981/article/2/a)
+[^c-e67bd04003fb9b39ab22e175d15ef1c8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2008/23/section/17) in force at 1.4.2011 by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2981/article/2/a)

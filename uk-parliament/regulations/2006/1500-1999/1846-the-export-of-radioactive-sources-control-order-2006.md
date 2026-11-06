@@ -63,9 +63,9 @@ In this Order—
 - “**controlled radioactive source**” means a radionuclide of a description in column 1 of the Schedule to this Order with an activity level of that in the corresponding entry in column 2;
 - “**customs and excise Acts**” and “**prescribed sum**” have the same meanings as in section 1 of the Customs and Excise Management Act 1979 [^c15943761];
 - “**exportation**” means (except where the context otherwise requires) exportation from the United Kingdom to any destination outside the United Kingdom and the Isle of Man; “exporter” and other cognate expressions shall be construed accordingly;
-- “general” in relation to a licence, means not granted to a particular person but available for use generally;[^key-c99f29ba37943c043d8c2d8826ace255]
+- “general” in relation to a licence, means not granted to a particular person but available for use generally;[^c-c99f29ba37943c043d8c2d8826ace255]
 - “**in transit**” means imported into the United Kingdom for transit or transhipment; “**transit or transhipment**” means transit through the United Kingdom or transhipment with a view to re-exportation of the controlled radioactive sources in question.
-- “licence user” means a person who is registered under article 6 to use a general licence or who is entitled to use a general licence without registration owing to the terms of that general licence;[^key-b8e05c8888741631bc529cab7fe41154]
+- “licence user” means a person who is registered under article 6 to use a general licence or who is entitled to use a general licence without registration owing to the terms of that general licence;[^c-b8e05c8888741631bc529cab7fe41154]
 
 ## 3. Export of controlled radioactive sources
 
@@ -91,11 +91,11 @@ In this Order—
 
 (1) A licence granted by the Secretary of State under this Order, may be—
 
-- (a)[^key-e49e8ff072331728c45ad575650cc481] either general or granted to a particular person;
+- (a)[^c-e49e8ff072331728c45ad575650cc481] either general or granted to a particular person;
 - (b) limited so as to expire on a specified date unless renewed, and
 - (c) subject to, or without, conditions and any condition may require any act or omission before or after the doing of the act authorised under that licence.
 
-(2)[^key-5207fff196929d5c0240a5fdbea6daab] The Secretary of State may by notice—
+(2)[^c-5207fff196929d5c0240a5fdbea6daab] The Secretary of State may by notice—
 
 - (a) amend, suspend or revoke a licence granted under this Order;
 - (b) suspend or revoke a general licence granted under this Order as it applies to a particular licence user.
@@ -105,14 +105,14 @@ In this Order—
 - (a) in the case of a notice affecting all users of a general licence, it has been published in a manner appearing to the Secretary of State to be suitable for securing that the notice is seen by persons likely to be affected by it;
 - (b) in any other case, it has been served on the holder of the licence or on the licence user affected.
 
-(3) For the purposes of article 3(2) of this Order, the exportation of a controlled radioactive source [^key-5f2f7f5677ad4898642d121795067d45]... shall be regarded as being under the authority of a licence granted by the Secretary of State to, or for the benefit of, a particular person only if—
+(3) For the purposes of article 3(2) of this Order, the exportation of a controlled radioactive source [^c-5f2f7f5677ad4898642d121795067d45]... shall be regarded as being under the authority of a licence granted by the Secretary of State to, or for the benefit of, a particular person only if—
 
 - (a) he is the person on whose behalf the exportation declaration is made; and
-- (b) he is established in the United Kingdom[^key-092c2b11ae4fce6a784311d8d445feb1] and either—
+- (b) he is established in the United Kingdom[^c-092c2b11ae4fce6a784311d8d445feb1] and either—
   - (i) he is the owner of the controlled radioactive source or has a similar right of disposal over it; or
   - (ii) if no person who is the owner of the controlled radioactive source or has a similar right of disposal over it, is established in the United Kingdom,
     - (aa) he is a party to one or more contracts under which ownership of it or a similar right of disposal over it has passed to a person not established in the United Kingdom; and
-    - (bb) the controlled radioactive source is to be, is being or has been exported [^key-c9dcc2de58512511cd90c10253b0eadd]...pursuant to that contract or contracts.
+    - (bb) the controlled radioactive source is to be, is being or has been exported [^c-c9dcc2de58512511cd90c10253b0eadd]...pursuant to that contract or contracts.
 
 ## 6. Registration with Secretary of State
 
@@ -140,7 +140,7 @@ In this Order—
 
 (5) Where the registers or records required to be maintained under this article are kept in a form which is not legible the exporter shall at the request of the person authorised by the Secretary of State or the Commissioners, reproduce such registers or records in a legible form.
 
-## 8. Licence refusals etc. and appeals[^key-a0e7fcd6f26d7cd591726b91efdd8f65]
+## 8. Licence refusals etc. and appeals[^c-a0e7fcd6f26d7cd591726b91efdd8f65]
 
 (1) In the event that the Secretary of State decides not to grant a licence to any person who has applied for one, the applicant shall be provided with a written notification setting out the reason or reasons for the decision.
 
@@ -223,7 +223,7 @@ in connection with the operation of the control imposed by this Order.
 (2) Information to which this article applies may be used for the purposes of, or for any purposes connected with—
 
 - (a) any other order made under the Act;
-- (b) giving effect to any [^key-64e9343b61766b69facf9d9cc8f4d659]... international obligation of the United Kingdom;
+- (b) giving effect to any [^c-64e9343b61766b69facf9d9cc8f4d659]... international obligation of the United Kingdom;
 - (c) facilitating the exercise by an authority or international organisation outside the United Kingdom of functions which correspond to functions conferred by or in connection with any activity subject to control by this Order or any other order made under the Act;
 
 and may be disclosed to any person for use for these purposes.
@@ -279,20 +279,20 @@ Guidance issued pursuant to section 9 of the Export Control Act 2002 on the oper
 
 [^c15943761]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-c99f29ba37943c043d8c2d8826ace255]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2006/1846/article/2) inserted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/1/a)
+[^c-c99f29ba37943c043d8c2d8826ace255]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2006/1846/article/2) inserted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/1/a)
 
-[^key-b8e05c8888741631bc529cab7fe41154]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2006/1846/article/2) inserted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/1/b)
+[^c-b8e05c8888741631bc529cab7fe41154]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2006/1846/article/2) inserted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/1/b)
 
-[^key-e49e8ff072331728c45ad575650cc481]: Textual amendment: [Art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/1/a) substituted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/2/a)
+[^c-e49e8ff072331728c45ad575650cc481]: Textual amendment: [Art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/1/a) substituted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/2/a)
 
-[^key-5207fff196929d5c0240a5fdbea6daab]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/2)[(2A)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/2A) substituted for [art. 5(2)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/2) (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/2/b)
+[^c-5207fff196929d5c0240a5fdbea6daab]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/2)[(2A)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/2A) substituted for [art. 5(2)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/2) (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/2/b)
 
-[^key-5f2f7f5677ad4898642d121795067d45]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/3/a) omitted (31.12.2020) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f2f7f5677ad4898642d121795067d45]: Textual amendment: Words in [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/3/a) omitted (31.12.2020) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-092c2b11ae4fce6a784311d8d445feb1]: Textual amendment: Words in [art. 5(3)(b)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/3/b) substituted (31.12.2020) by [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-092c2b11ae4fce6a784311d8d445feb1]: Textual amendment: Words in [art. 5(3)(b)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/3/b) substituted (31.12.2020) by [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9dcc2de58512511cd90c10253b0eadd]: Textual amendment: Words in [art. 5(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/3/b/ii/bb) omitted (31.12.2020) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9dcc2de58512511cd90c10253b0eadd]: Textual amendment: Words in [art. 5(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2006/1846/article/5/3/b/ii/bb) omitted (31.12.2020) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0e7fcd6f26d7cd591726b91efdd8f65]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2006/1846/article/8) substituted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/3)
+[^c-a0e7fcd6f26d7cd591726b91efdd8f65]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2006/1846/article/8) substituted (6.4.2009) by [The Export of Radioactive Sources (Control) (Amendment) Order 2009 (S.I. 2009/585)](https://www.legislation.gov.uk/uksi/2009/585), [art. 1](https://www.legislation.gov.uk/uksi/2009/585/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/585/schedule/paragraph/3)
 
-[^key-64e9343b61766b69facf9d9cc8f4d659]: Textual amendment: Words in [art. 13(2)(b)](https://www.legislation.gov.uk/uksi/2006/1846/article/13/2/b) omitted (31.12.2020) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64e9343b61766b69facf9d9cc8f4d659]: Textual amendment: Words in [art. 13(2)(b)](https://www.legislation.gov.uk/uksi/2006/1846/article/13/2/b) omitted (31.12.2020) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/137)](https://www.legislation.gov.uk/uksi/2019/137), [regs. 1](https://www.legislation.gov.uk/uksi/2019/137/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/137/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

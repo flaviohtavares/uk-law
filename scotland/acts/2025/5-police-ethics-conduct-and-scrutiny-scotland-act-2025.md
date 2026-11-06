@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## References to Acts
 
-### 1. Meaning of “2006 Act” and “2012 Act”[^key-9ace34427d1c6fda94b191692800b329][^key-23b40d948008604af34d33b1681b3dd6]
+### 1. Meaning of “2006 Act” and “2012 Act”[^c-9ace34427d1c6fda94b191692800b329][^c-23b40d948008604af34d33b1681b3dd6]
 
 In this Act—
 
@@ -45,7 +45,7 @@ In this Act—
 
 ## Ethics of the police
 
-### 2. Code of ethics[^key-f03648baa63e53acaf9db7fd7a378b65][^key-5c068d582753e3a74a3bbec2f13a7cf5]
+### 2. Code of ethics[^c-f03648baa63e53acaf9db7fd7a378b65][^c-5c068d582753e3a74a3bbec2f13a7cf5]
 
 (1) The 2012 Act is amended as follows.
 
@@ -167,7 +167,7 @@ In this Act—
 
 .
 
-### 3. Duty of candour[^key-7fee84c228ae6aa0280e9597d7314470][^key-0419ec371345cd684e148117f322bc42]
+### 3. Duty of candour[^c-7fee84c228ae6aa0280e9597d7314470][^c-0419ec371345cd684e148117f322bc42]
 
 (1) The 2012 Act is amended in accordance with subsections (2) and (3).
 
@@ -206,7 +206,7 @@ In this Act—
 
 ## Police vetting
 
-### 4. Vetting code of practice[^key-7fc8be27034aae4154e15b5b96f3aee4][^key-1af9f47450abebd1bcf387e63385e3b1]
+### 4. Vetting code of practice[^c-7fc8be27034aae4154e15b5b96f3aee4][^c-1af9f47450abebd1bcf387e63385e3b1]
 
 (1) The 2012 Act is amended as follows.
 
@@ -302,7 +302,7 @@ In this Act—
 
 .
 
-### 5. Procedures for vetting[^key-9c86aa759644dd048416fdc91d5b0e14][^key-ffeef413722e972e50440d2d806164a6]
+### 5. Procedures for vetting[^c-9c86aa759644dd048416fdc91d5b0e14][^c-ffeef413722e972e50440d2d806164a6]
 
 (1) The 2012 Act is amended as follows.
 
@@ -345,7 +345,7 @@ In this Act—
 
 ## Police conduct
 
-### 6. Liability of the Scottish Police Authority for unlawful conduct of the chief constable[^key-f4f136791f37ede9ce3e82e71a6cf959][^key-dae324d5da9634260e9e97c8b6752328]
+### 6. Liability of the Scottish Police Authority for unlawful conduct of the chief constable[^c-f4f136791f37ede9ce3e82e71a6cf959][^c-dae324d5da9634260e9e97c8b6752328]
 
 In section 24 of the 2012 Act (liability for unlawful conduct)—
 
@@ -356,11 +356,11 @@ In section 24 of the 2012 Act (liability for unlawful conduct)—
   ,
 - (b) in subsection (4), for “(3)” substitute “(3A)”.
 
-### 7. Procedures for misconduct: functions of the Police Investigations and Review Commissioner[^key-879ce399926f345a7ffdd028a5ba4c32][^key-43fbcf673e60f0730366f4dc8ebc7104]
+### 7. Procedures for misconduct: functions of the Police Investigations and Review Commissioner[^c-879ce399926f345a7ffdd028a5ba4c32][^c-43fbcf673e60f0730366f4dc8ebc7104]
 
 In section 52 of the 2012 Act (disciplinary procedures: conduct and performance), in paragraph (d) of subsection (2) for “investigations of whether a constable has been engaged in misconduct” substitute “procedures for dealing with a constable whose standard of behaviour is unsatisfactory”.
 
-### 8. Procedures for misconduct: former constables[^key-dca0c4ad0ae25471e539293075f5d50c][^key-8e6f12d59450c058bcb8d746aee7d399]
+### 8. Procedures for misconduct: former constables[^c-dca0c4ad0ae25471e539293075f5d50c][^c-8e6f12d59450c058bcb8d746aee7d399]
 
 In section 52 of the 2012 Act (disciplinary procedures: conduct and performance)—
 
@@ -390,7 +390,7 @@ In section 52 of the 2012 Act (disciplinary procedures: conduct and performance)
 
   .
 
-### 9. Scottish police advisory list and Scottish police barred list[^key-8c62a6e8d4ef0608f98c8b664805aee2][^key-08f50cd7e6bc388df6eb7e8c8078a1bc]
+### 9. Scottish police advisory list and Scottish police barred list[^c-8c62a6e8d4ef0608f98c8b664805aee2][^c-08f50cd7e6bc388df6eb7e8c8078a1bc]
 
 (1) The 2012 Act is amended as follows.
 
@@ -466,7 +466,7 @@ In section 52 of the 2012 Act (disciplinary procedures: conduct and performance)
 
 .
 
-### 10. Procedures for misconduct: senior officers[^key-0a061985b480505c081e8b217c12c901]
+### 10. Procedures for misconduct: senior officers[^c-0a061985b480505c081e8b217c12c901]
 
 **Not yet in force.**
 
@@ -496,7 +496,7 @@ In section 52 of the 2012 Act (disciplinary procedures: conduct and performance)
 
 (4) In subsection (2) of section 58 (determinations by tribunal), for “dismissal or demotion in rank of” substitute “action against”.
 
-### 11. Review of policies, practices and guidance relating to misconduct[^key-d3425a657688c7a499facf406502bbbd]
+### 11. Review of policies, practices and guidance relating to misconduct[^c-d3425a657688c7a499facf406502bbbd]
 
 **Not yet in force.**
 
@@ -511,14 +511,14 @@ In section 52 of the 2012 Act (disciplinary procedures: conduct and performance)
 
 ## Functions of the Police Investigations and Review Commissioner
 
-### 12. Investigations into matters involving persons serving with the police[^key-a7525512e2493791db2fbf7313bab7f9][^key-2b5e4bd37a60b7dbaf62f6aaa1443c56]
+### 12. Investigations into matters involving persons serving with the police[^c-a7525512e2493791db2fbf7313bab7f9][^c-2b5e4bd37a60b7dbaf62f6aaa1443c56]
 
 In section 33A of the 2006 Act (general functions of the Police Investigations and Review Commissioner)—
 
 - (a) in paragraph (b)(i), for the words “serving with the police may have committed an offence” substitute “who is, or has been, a person serving with the police may have committed an offence (regardless of when those circumstances occurred)”,
 - (b) in paragraph (b)(ii), after “2016” insert “, whether or not the circumstances occurred in the course of the person’s duty, employment or appointment”.
 
-### 13. Complaints made by persons serving with the police[^key-8410d202665893a9bfc780428a2fc07f][^key-65b4616e12d42f66dd4d41b55facd8be]
+### 13. Complaints made by persons serving with the police[^c-8410d202665893a9bfc780428a2fc07f][^c-65b4616e12d42f66dd4d41b55facd8be]
 
 (1) In section 34 of the 2006 Act—
 
@@ -539,7 +539,7 @@ In section 33A of the 2006 Act (general functions of the Police Investigations a
 
 (2) The title of that section becomes “**Meaning of “relevant complaint”**”.
 
-### 14. Complaint handling reviews[^key-7c0e288df77a6c6dde2be517f37b3a3a]
+### 14. Complaint handling reviews[^c-7c0e288df77a6c6dde2be517f37b3a3a]
 
 **Not yet in force.**
 
@@ -575,7 +575,7 @@ In section 35 of the 2006 Act (examination of manner of handling of complaint)�
 
   .
 
-### 15. Call-in of relevant complaints[^key-4f324347314eabad26adff9ba08691c3]
+### 15. Call-in of relevant complaints[^c-4f324347314eabad26adff9ba08691c3]
 
 **Not yet in force.**
 
@@ -676,7 +676,7 @@ In section 35 of the 2006 Act (examination of manner of handling of complaint)�
 - (b) in sub-paragraph (ii), after “review” insert “, consideration”,
 - (c) in sub-paragraph (iii), after “review” insert “, consideration”.
 
-### 16. Review of arrangements for investigation of whistleblowing complaints[^key-d9fc329be3fe3d5db415cd166c914da5][^key-81e33fb3c4c0e7db182df87a91fc4f7d]
+### 16. Review of arrangements for investigation of whistleblowing complaints[^c-d9fc329be3fe3d5db415cd166c914da5][^c-81e33fb3c4c0e7db182df87a91fc4f7d]
 
 (1) In section 40A of the 2006 Act—
 
@@ -695,7 +695,7 @@ In section 35 of the 2006 Act (examination of manner of handling of complaint)�
 
 (2) The title of that section becomes “**Arrangements for handling relevant complaints and investigation of whistleblowing complaints**”.
 
-### 17. Investigations involving constables from outwith Scotland[^key-341a2b6898394ccb172e25113ca863e7]
+### 17. Investigations involving constables from outwith Scotland[^c-341a2b6898394ccb172e25113ca863e7]
 
 **Not yet in force.**
 
@@ -806,7 +806,7 @@ In section 35 of the 2006 Act (examination of manner of handling of complaint)�
 
 (6) In section 103 (subordinate legislation), in subsection (4)(a), after “41D(1)” insert “or 41H(1)”.
 
-### 18. Review of, and recommendations about, practices and policies of the police[^key-4c9f88f4b181d7d5c40e34dd445c1791]
+### 18. Review of, and recommendations about, practices and policies of the police[^c-4c9f88f4b181d7d5c40e34dd445c1791]
 
 **Not yet in force.**
 
@@ -972,7 +972,7 @@ In section 35 of the 2006 Act (examination of manner of handling of complaint)�
 
   .
 
-### 19. Provision of information to the Commissioner[^key-7b01821336ec30de46027f8d61e2cd01][^key-672ac2c652850236ae9818506f50f489]
+### 19. Provision of information to the Commissioner[^c-7b01821336ec30de46027f8d61e2cd01][^c-672ac2c652850236ae9818506f50f489]
 
 In section 44 of the 2006 Act (provision of information to the Commissioner), after subsection (5), insert—
 
@@ -982,7 +982,7 @@ In section 44 of the 2006 Act (provision of information to the Commissioner), af
 
 ## Governance of the Police Investigations and Review Commissioner
 
-### 20. Advisory board to the Commissioner[^key-764f2a9510ff856e71451eec7305fb9b][^key-b9958b7e0b5a109c82e75fe1ce51455a]
+### 20. Advisory board to the Commissioner[^c-764f2a9510ff856e71451eec7305fb9b][^c-b9958b7e0b5a109c82e75fe1ce51455a]
 
 After section 46A of the 2006 Act, insert—
 
@@ -1006,7 +1006,7 @@ After section 46A of the 2006 Act, insert—
 
 ## Final provisions
 
-### 21. Ancillary provision[^key-005d6ffaef1205cb154f42efdd9c121e]
+### 21. Ancillary provision[^c-005d6ffaef1205cb154f42efdd9c121e]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -1020,7 +1020,7 @@ After section 46A of the 2006 Act, insert—
 - (a) are subject to the affirmative procedure if they add to, replace, or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 22. Commencement[^key-ddff69f9a126096cf84d1243b2330405]
+### 22. Commencement[^c-ddff69f9a126096cf84d1243b2330405]
 
 (1) This section and sections 21 and 23 come into force on the day after Royal Assent.
 
@@ -1031,82 +1031,82 @@ After section 46A of the 2006 Act, insert—
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 23. Short title[^key-b90bf7d8f7d7e523c3bf8eaa0cca8841]
+### 23. Short title[^c-b90bf7d8f7d7e523c3bf8eaa0cca8841]
 
 The short title of this Act is the Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025.
 
 ## Annotations
 
-[^key-9ace34427d1c6fda94b191692800b329]: Commencement: S. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-9ace34427d1c6fda94b191692800b329]: Commencement: S. 1 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-23b40d948008604af34d33b1681b3dd6]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/5/section/1) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/a)
+[^c-23b40d948008604af34d33b1681b3dd6]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/5/section/1) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/a)
 
-[^key-f03648baa63e53acaf9db7fd7a378b65]: Commencement: S. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-f03648baa63e53acaf9db7fd7a378b65]: Commencement: S. 2 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-5c068d582753e3a74a3bbec2f13a7cf5]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/5/section/2) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)
+[^c-5c068d582753e3a74a3bbec2f13a7cf5]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/5/section/2) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)
 
-[^key-7fee84c228ae6aa0280e9597d7314470]: Commencement: S. 3 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-7fee84c228ae6aa0280e9597d7314470]: Commencement: S. 3 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-0419ec371345cd684e148117f322bc42]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/5/section/3) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/c)
+[^c-0419ec371345cd684e148117f322bc42]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/5/section/3) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/c)
 
-[^key-7fc8be27034aae4154e15b5b96f3aee4]: Commencement: S. 4 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-7fc8be27034aae4154e15b5b96f3aee4]: Commencement: S. 4 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-1af9f47450abebd1bcf387e63385e3b1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/5/section/4) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/d)
+[^c-1af9f47450abebd1bcf387e63385e3b1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/5/section/4) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/d)
 
-[^key-9c86aa759644dd048416fdc91d5b0e14]: Commencement: S. 5 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-9c86aa759644dd048416fdc91d5b0e14]: Commencement: S. 5 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-ffeef413722e972e50440d2d806164a6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/5/section/5) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/e)
+[^c-ffeef413722e972e50440d2d806164a6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/5/section/5) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/e)
 
-[^key-f4f136791f37ede9ce3e82e71a6cf959]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-f4f136791f37ede9ce3e82e71a6cf959]: Commencement: S. 6 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-dae324d5da9634260e9e97c8b6752328]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/5/section/6) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/f)
+[^c-dae324d5da9634260e9e97c8b6752328]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/5/section/6) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/f)
 
-[^key-879ce399926f345a7ffdd028a5ba4c32]: Commencement: S. 7 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-879ce399926f345a7ffdd028a5ba4c32]: Commencement: S. 7 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-43fbcf673e60f0730366f4dc8ebc7104]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/5/section/7) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/g)
+[^c-43fbcf673e60f0730366f4dc8ebc7104]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/5/section/7) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/g)
 
-[^key-dca0c4ad0ae25471e539293075f5d50c]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-dca0c4ad0ae25471e539293075f5d50c]: Commencement: S. 8 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-8e6f12d59450c058bcb8d746aee7d399]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/5/section/8) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
+[^c-8e6f12d59450c058bcb8d746aee7d399]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/5/section/8) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
 
-[^key-8c62a6e8d4ef0608f98c8b664805aee2]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-8c62a6e8d4ef0608f98c8b664805aee2]: Commencement: S. 9 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-08f50cd7e6bc388df6eb7e8c8078a1bc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/5/section/9) in force at 25.6.2025 for specified purposes by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)
+[^c-08f50cd7e6bc388df6eb7e8c8078a1bc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/5/section/9) in force at 25.6.2025 for specified purposes by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)
 
-[^key-0a061985b480505c081e8b217c12c901]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-0a061985b480505c081e8b217c12c901]: Commencement: S. 10 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-d3425a657688c7a499facf406502bbbd]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-d3425a657688c7a499facf406502bbbd]: Commencement: S. 11 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-a7525512e2493791db2fbf7313bab7f9]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-a7525512e2493791db2fbf7313bab7f9]: Commencement: S. 12 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-2b5e4bd37a60b7dbaf62f6aaa1443c56]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/5/section/12) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/j)
+[^c-2b5e4bd37a60b7dbaf62f6aaa1443c56]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/5/section/12) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/j)
 
-[^key-8410d202665893a9bfc780428a2fc07f]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-8410d202665893a9bfc780428a2fc07f]: Commencement: S. 13 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-65b4616e12d42f66dd4d41b55facd8be]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/5/section/13) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/k)
+[^c-65b4616e12d42f66dd4d41b55facd8be]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/5/section/13) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/k)
 
-[^key-7c0e288df77a6c6dde2be517f37b3a3a]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-7c0e288df77a6c6dde2be517f37b3a3a]: Commencement: S. 14 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-4f324347314eabad26adff9ba08691c3]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-4f324347314eabad26adff9ba08691c3]: Commencement: S. 15 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-d9fc329be3fe3d5db415cd166c914da5]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-d9fc329be3fe3d5db415cd166c914da5]: Commencement: S. 16 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-81e33fb3c4c0e7db182df87a91fc4f7d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/5/section/16) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/l)
+[^c-81e33fb3c4c0e7db182df87a91fc4f7d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/5/section/16) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/l)
 
-[^key-341a2b6898394ccb172e25113ca863e7]: Commencement: S. 17 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-341a2b6898394ccb172e25113ca863e7]: Commencement: S. 17 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-4c9f88f4b181d7d5c40e34dd445c1791]: Commencement: S. 18 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-4c9f88f4b181d7d5c40e34dd445c1791]: Commencement: S. 18 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-7b01821336ec30de46027f8d61e2cd01]: Commencement: S. 19 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-7b01821336ec30de46027f8d61e2cd01]: Commencement: S. 19 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-672ac2c652850236ae9818506f50f489]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/5/section/19) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/m)
+[^c-672ac2c652850236ae9818506f50f489]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/5/section/19) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(m)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/m)
 
-[^key-764f2a9510ff856e71451eec7305fb9b]: Commencement: S. 20 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
+[^c-764f2a9510ff856e71451eec7305fb9b]: Commencement: S. 20 not in force at Royal Assent, see [s. 22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2)
 
-[^key-b9958b7e0b5a109c82e75fe1ce51455a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/5/section/20) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/n)
+[^c-b9958b7e0b5a109c82e75fe1ce51455a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/5/section/20) in force at 25.6.2025 by [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/n)
 
-[^key-005d6ffaef1205cb154f42efdd9c121e]: Commencement: S. 21 in force at 5.3.2025, see [s. 22(1)](https://www.legislation.gov.uk/asp/2025/5/section/22/1)
+[^c-005d6ffaef1205cb154f42efdd9c121e]: Commencement: S. 21 in force at 5.3.2025, see [s. 22(1)](https://www.legislation.gov.uk/asp/2025/5/section/22/1)
 
-[^key-ddff69f9a126096cf84d1243b2330405]: Commencement: S. 22 in force at 5.3.2025, see [s. 22(1)](https://www.legislation.gov.uk/asp/2025/5/section/22/1)
+[^c-ddff69f9a126096cf84d1243b2330405]: Commencement: S. 22 in force at 5.3.2025, see [s. 22(1)](https://www.legislation.gov.uk/asp/2025/5/section/22/1)
 
-[^key-b90bf7d8f7d7e523c3bf8eaa0cca8841]: Commencement: S. 23 in force at 5.3.2025, see [s. 22(1)](https://www.legislation.gov.uk/asp/2025/5/section/22/1)
+[^c-b90bf7d8f7d7e523c3bf8eaa0cca8841]: Commencement: S. 23 in force at 5.3.2025, see [s. 22(1)](https://www.legislation.gov.uk/asp/2025/5/section/22/1)

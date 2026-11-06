@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — PROHIBITION ON DRIVING: IMMOBILISATION, REMOVAL AND DISPOSAL OF VEHICLES[^key-92a77e463d8bcc87e3371923ff151602]
+## SCHEDULE 1 — PROHIBITION ON DRIVING: IMMOBILISATION, REMOVAL AND DISPOSAL OF VEHICLES[^c-92a77e463d8bcc87e3371923ff151602]
 
 *Extent: N.I.*
 
@@ -210,7 +210,7 @@ he is guilty of an offence.
 
 ## Annotations
 
-[^key-92a77e463d8bcc87e3371923ff151602]: Commencement: Sch. 1 in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)
+[^c-92a77e463d8bcc87e3371923ff151602]: Commencement: Sch. 1 in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)
 
 [^M_I_7f0ffcb4-feb3-44b4-9d9b-ca389ff2cc5d]: Commencement: Sch. 1 para. 1 in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)
 

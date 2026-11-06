@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72.[^key-5047aded491a5b2ec044b021e71d871e]
+## 72.[^c-5047aded491a5b2ec044b021e71d871e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In point 6.3.2.7, in the second subparagraph, omit “or exempted from screening
 
 ## Annotations
 
-[^key-5047aded491a5b2ec044b021e71d871e]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-5047aded491a5b2ec044b021e71d871e]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

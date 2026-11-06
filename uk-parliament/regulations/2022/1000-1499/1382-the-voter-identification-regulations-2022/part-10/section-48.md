@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of Schedule 3 (local government act referendum rules)[^key-d3ecba87e81c1768bf9085c865de8bc9]
+## 48. Amendment of Schedule 3 (local government act referendum rules)[^c-d3ecba87e81c1768bf9085c865de8bc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -279,4 +279,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3ecba87e81c1768bf9085c865de8bc9]: Commencement: Reg. 48 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-d3ecba87e81c1768bf9085c865de8bc9]: Commencement: Reg. 48 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

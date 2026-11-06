@@ -24,7 +24,7 @@ summary: ''
 
 For the purposes of this section the following are competent authorities—
 
-- (a) in relation to a highway for which the Minister or a strategic highways company[^key-49714d313f91667d2c439caed544773a] is the highway authority and which is in a district or London borough, the highway authority[^key-b945703bd54a32e76cda62d0f9815edf] and also the council of the district or, as the case may be, borough;
+- (a) in relation to a highway for which the Minister or a strategic highways company[^c-49714d313f91667d2c439caed544773a] is the highway authority and which is in a district or London borough, the highway authority[^c-b945703bd54a32e76cda62d0f9815edf] and also the council of the district or, as the case may be, borough;
 - (b) in relation to a highway for which a local highway authority are the highway authority, that authority and also , if the highway is situated in a non-metropolitan district, the council of that district;[^c13426511]
 - (c) in relation to a road or footpath that is not a highway, the local authority in whose area the road or footpath is situated;
 
@@ -49,9 +49,9 @@ the authority may, by notice either to the owner of the hedge, tree or shrub or 
 
 [^c13426501]: Textual amendment: Words in s. 154(1) inserted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 65](https://www.legislation.gov.uk/ukpga/2000/37/section/65), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2)
 
-[^key-49714d313f91667d2c439caed544773a]: Textual amendment: Words in s. 154(1)(a) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 41(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/41/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-49714d313f91667d2c439caed544773a]: Textual amendment: Words in s. 154(1)(a) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 41(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/41/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-b945703bd54a32e76cda62d0f9815edf]: Textual amendment: Words in s. 154(1)(a) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 41(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/41/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-b945703bd54a32e76cda62d0f9815edf]: Textual amendment: Words in s. 154(1)(a) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 41(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/41/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13426511]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 8](https://www.legislation.gov.uk/ukpga/1985/51/section/8), [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/1985/51/schedule/4/paragraph/27)
 

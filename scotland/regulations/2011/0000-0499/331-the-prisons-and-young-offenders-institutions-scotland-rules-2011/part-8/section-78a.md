@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78A. Virtual visits[^key-d2e99ebef9c693880a4846032ae0bd69]
+## 78A. Virtual visits[^c-d2e99ebef9c693880a4846032ae0bd69]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e99ebef9c693880a4846032ae0bd69]: Textual amendment: [Rule 78A](https://www.legislation.gov.uk/ssi/2011/331/rule/78A) inserted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/7)
+[^c-d2e99ebef9c693880a4846032ae0bd69]: Textual amendment: [Rule 78A](https://www.legislation.gov.uk/ssi/2011/331/rule/78A) inserted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/7)

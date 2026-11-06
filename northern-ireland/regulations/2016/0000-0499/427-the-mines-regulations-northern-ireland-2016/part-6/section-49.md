@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Ways out from places of work[^key-8da0f08c28aeaf9d2158519e57bd7c04]
+## 49. Ways out from places of work[^c-8da0f08c28aeaf9d2158519e57bd7c04]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8da0f08c28aeaf9d2158519e57bd7c04]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2016/427/regulation/49) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-8da0f08c28aeaf9d2158519e57bd7c04]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2016/427/regulation/49) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

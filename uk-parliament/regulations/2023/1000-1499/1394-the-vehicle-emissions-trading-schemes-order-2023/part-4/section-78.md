@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Error notification[^key-4f5de238bfdd281773c10266b6a446c2]
+## 78. Error notification[^c-4f5de238bfdd281773c10266b6a446c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f5de238bfdd281773c10266b6a446c2]: Commencement: Art. 78 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-4f5de238bfdd281773c10266b6a446c2]: Commencement: Art. 78 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Further provision about married couple’s allowance.[^key-30a2e208d4e867ea0cc207e112983fa7]
+## 32. Further provision about married couple’s allowance.[^c-30a2e208d4e867ea0cc207e112983fa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a2e208d4e867ea0cc207e112983fa7]: Textual amendment: S. 32 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(j)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/j)
+[^c-30a2e208d4e867ea0cc207e112983fa7]: Textual amendment: S. 32 omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(j)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/j)

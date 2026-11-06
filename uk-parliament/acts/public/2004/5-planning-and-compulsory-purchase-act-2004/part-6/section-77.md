@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Regulations[^key-fba2cf1db5b1d9207ae2e5a31f57ae7d]
+## 77. Regulations[^c-fba2cf1db5b1d9207ae2e5a31f57ae7d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fba2cf1db5b1d9207ae2e5a31f57ae7d]: Commencement: S. 77 in force at 1.8.2004 by [S.I. 2004/1813](https://www.legislation.gov.uk/uksi/2004/1813), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/1813/article/2/e)
+[^c-fba2cf1db5b1d9207ae2e5a31f57ae7d]: Commencement: S. 77 in force at 1.8.2004 by [S.I. 2004/1813](https://www.legislation.gov.uk/uksi/2004/1813), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/1813/article/2/e)

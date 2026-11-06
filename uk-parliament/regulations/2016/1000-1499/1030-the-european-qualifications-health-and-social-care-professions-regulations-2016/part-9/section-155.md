@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. General saving provision: Switzerland[^key-bf5c63812224ae6533c5cb2735135f99]
+## 155. General saving provision: Switzerland[^c-bf5c63812224ae6533c5cb2735135f99]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf5c63812224ae6533c5cb2735135f99]: Commencement: Reg. 155 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-bf5c63812224ae6533c5cb2735135f99]: Commencement: Reg. 155 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

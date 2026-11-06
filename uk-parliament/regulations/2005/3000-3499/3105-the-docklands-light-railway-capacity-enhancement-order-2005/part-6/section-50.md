@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Application of certain railway enactments[^key-916676553654a6b5bb9b9429495564ae]
+## 50. Application of certain railway enactments[^c-916676553654a6b5bb9b9429495564ae]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-916676553654a6b5bb9b9429495564ae]: Commencement: Art. 50 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-916676553654a6b5bb9b9429495564ae]: Commencement: Art. 50 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

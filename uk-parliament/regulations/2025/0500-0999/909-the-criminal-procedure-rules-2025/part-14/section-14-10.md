@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.10. Consideration of bail in a murder case[^key-ae258bb02311f647e92adfd8f66eb878]
+## 14.10. Consideration of bail in a murder case[^c-ae258bb02311f647e92adfd8f66eb878]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae258bb02311f647e92adfd8f66eb878]: Commencement: [Rule 14.10](https://www.legislation.gov.uk/uksi/2025/909/rule/14.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ae258bb02311f647e92adfd8f66eb878]: Commencement: [Rule 14.10](https://www.legislation.gov.uk/uksi/2025/909/rule/14.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00368]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25).

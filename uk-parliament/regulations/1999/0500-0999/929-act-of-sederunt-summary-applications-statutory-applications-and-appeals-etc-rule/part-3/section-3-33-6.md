@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.33.6. Transfer to Employment Tribunal[^key-a93d0a7e6465f6c35c3823ff618ee255][^key-6adfdc8da9b2fb678b73f2e77381cbcc]
+## 3.33.6. Transfer to Employment Tribunal[^c-a93d0a7e6465f6c35c3823ff618ee255][^c-6adfdc8da9b2fb678b73f2e77381cbcc]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a93d0a7e6465f6c35c3823ff618ee255]: Textual amendment: Rules 3.33.5-3.33.7 substituted for rule 3.33.5 (1.10.2010) by [Act of Sederunt (Sheriff Court Rules) (Equality Act 2010) 2010 (S.S.I. 2010/340)](https://www.legislation.gov.uk/ssi/2010/340), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/3/3) (with [para. 6](https://www.legislation.gov.uk/ssi/2010/340/paragraph/6))
+[^c-a93d0a7e6465f6c35c3823ff618ee255]: Textual amendment: Rules 3.33.5-3.33.7 substituted for rule 3.33.5 (1.10.2010) by [Act of Sederunt (Sheriff Court Rules) (Equality Act 2010) 2010 (S.S.I. 2010/340)](https://www.legislation.gov.uk/ssi/2010/340), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2010/340/paragraph/3/3) (with [para. 6](https://www.legislation.gov.uk/ssi/2010/340/paragraph/6))
 
-[^key-6adfdc8da9b2fb678b73f2e77381cbcc]: Textual amendment: Ch. 3 Pt. 33 inserted (3.11.2006) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/3)
+[^c-6adfdc8da9b2fb678b73f2e77381cbcc]: Textual amendment: Ch. 3 Pt. 33 inserted (3.11.2006) by [Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Equality Act 2006 etc.) 2006 (S.S.I. 2006/509)](https://www.legislation.gov.uk/ssi/2006/509), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2006/509/paragraph/3/3)

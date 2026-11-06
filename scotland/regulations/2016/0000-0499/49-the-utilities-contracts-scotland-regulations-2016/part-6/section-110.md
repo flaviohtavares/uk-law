@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Revocations and consequential amendments[^key-f1367863d1793d6efc18857212928688]
+## 110. Revocations and consequential amendments[^c-f1367863d1793d6efc18857212928688]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1367863d1793d6efc18857212928688]: Commencement: [Reg. 110](https://www.legislation.gov.uk/ssi/2016/49/regulation/110) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-f1367863d1793d6efc18857212928688]: Commencement: [Reg. 110](https://www.legislation.gov.uk/ssi/2016/49/regulation/110) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

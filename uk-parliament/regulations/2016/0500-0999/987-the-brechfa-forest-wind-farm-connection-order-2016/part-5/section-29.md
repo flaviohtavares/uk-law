@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Statutory undertakers[^key-6dc36a8eb7ecb80effab3a38ded3fee1]
+## 29. Statutory undertakers[^c-6dc36a8eb7ecb80effab3a38ded3fee1]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Schedule 9 (protective provisions) shall have effect and subject to its provisio
 
 ## Annotations
 
-[^key-6dc36a8eb7ecb80effab3a38ded3fee1]: Commencement: Art. 29 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-6dc36a8eb7ecb80effab3a38ded3fee1]: Commencement: Art. 29 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

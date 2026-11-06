@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263. Legal proceedings, inquiries and investigations[^key-d395635f697c27964dfc6193cc14d87c]
+## 263. Legal proceedings, inquiries and investigations[^c-d395635f697c27964dfc6193cc14d87c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d395635f697c27964dfc6193cc14d87c]: Commencement: Reg. 263 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d395635f697c27964dfc6193cc14d87c]: Commencement: Reg. 263 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00072]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24).

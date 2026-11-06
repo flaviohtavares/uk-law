@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Statement of proposed administrator[^key-6ba1d6320cfaf9cd0ef7eb6782eda94b]
+## 38. Statement of proposed administrator[^c-6ba1d6320cfaf9cd0ef7eb6782eda94b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ An application must be accompanied by a statement by the proposed administratorâ
 
 ## Annotations
 
-[^key-6ba1d6320cfaf9cd0ef7eb6782eda94b]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2011/1301/rule/38) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-6ba1d6320cfaf9cd0ef7eb6782eda94b]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2011/1301/rule/38) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

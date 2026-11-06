@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-f758fdf19945f4788b17e1c4d369218a]
+## SCHEDULE 5 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-f758fdf19945f4788b17e1c4d369218a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Article 18
 
 ## Annotations
 
-[^key-f758fdf19945f4788b17e1c4d369218a]: Commencement: Sch. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-f758fdf19945f4788b17e1c4d369218a]: Commencement: Sch. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Pharmaceutical needs assessments[^key-8cb4ecac2a71bc35d1166b002ebcee66]
+## 3. Pharmaceutical needs assessments[^c-8cb4ecac2a71bc35d1166b002ebcee66]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb4ecac2a71bc35d1166b002ebcee66]: Commencement: Reg. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-8cb4ecac2a71bc35d1166b002ebcee66]: Commencement: Reg. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
 [^f00031]: Footnote: Section 82A was inserted by section 111 of the Public Health (Wales) Act [2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2).

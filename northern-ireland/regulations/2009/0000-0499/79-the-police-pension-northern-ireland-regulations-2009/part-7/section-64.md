@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Limitations on appeals[^key-984161eeb827fcd908a82669f617b02d]
+## 64. Limitations on appeals[^c-984161eeb827fcd908a82669f617b02d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984161eeb827fcd908a82669f617b02d]: Commencement: Reg. 64 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-984161eeb827fcd908a82669f617b02d]: Commencement: Reg. 64 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

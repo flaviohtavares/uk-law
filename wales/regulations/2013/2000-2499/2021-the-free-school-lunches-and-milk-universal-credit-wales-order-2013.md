@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Free School Lunches and Milk (Universal Credit) (Wales) Order 2013 (revoked)[^key-8d25bbcc7483ec87c43ea25be4c7f330]
+The Free School Lunches and Milk (Universal Credit) (Wales) Order 2013 (revoked)[^c-8d25bbcc7483ec87c43ea25be4c7f330]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 6 September 2013
 
-[^key-8d25bbcc7483ec87c43ea25be4c7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d25bbcc7483ec87c43ea25be4c7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-8d25bbcc7483ec87c43ea25be4c7f330]
+## 1. Title, commencement, application and interpretation[^c-8d25bbcc7483ec87c43ea25be4c7f330]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed circumstances: receipt of universal credit[^key-8d25bbcc7483ec87c43ea25be4c7f330]
+## 2. Prescribed circumstances: receipt of universal credit[^c-8d25bbcc7483ec87c43ea25be4c7f330]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d25bbcc7483ec87c43ea25be4c7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d25bbcc7483ec87c43ea25be4c7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d25bbcc7483ec87c43ea25be4c7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d25bbcc7483ec87c43ea25be4c7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d25bbcc7483ec87c43ea25be4c7f330]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2013/2021) revoked (1.4.2019) by [The Free School Lunches and Milk (Universal Credit) (Wales) Order 2019 (S.I. 2019/187)](https://www.legislation.gov.uk/wsi/2019/187), [art. 4](https://www.legislation.gov.uk/wsi/2019/187/article/4)
+[^c-8d25bbcc7483ec87c43ea25be4c7f330]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2013/2021) revoked (1.4.2019) by [The Free School Lunches and Milk (Universal Credit) (Wales) Order 2019 (S.I. 2019/187)](https://www.legislation.gov.uk/wsi/2019/187), [art. 4](https://www.legislation.gov.uk/wsi/2019/187/article/4)

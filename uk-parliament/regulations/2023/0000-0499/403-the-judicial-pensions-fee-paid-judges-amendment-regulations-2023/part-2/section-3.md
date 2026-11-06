@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of regulation 2[^key-edee5195c8bb877ce47e0706721fb7de]
+## 3. Amendment of regulation 2[^c-edee5195c8bb877ce47e0706721fb7de]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ In regulation 2(1)—
 
 ## Annotations
 
-[^key-edee5195c8bb877ce47e0706721fb7de]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-edee5195c8bb877ce47e0706721fb7de]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00005]: Footnote: Part 14A is inserted by regulation 65 of these Regulations.

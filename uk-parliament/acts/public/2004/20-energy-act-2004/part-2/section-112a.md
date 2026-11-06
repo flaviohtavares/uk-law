@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112A. Power of appropriate Minister to require information and documents[^key-1cf618298fa8e9fceb9833cbeecaae93][^key-658071aeea1d953cf8dc691d229dc384][^key-f446ceb88a2c8efd41e9e5af847191b4]
+## 112A. Power of appropriate Minister to require information and documents[^c-1cf618298fa8e9fceb9833cbeecaae93][^c-658071aeea1d953cf8dc691d229dc384][^c-f446ceb88a2c8efd41e9e5af847191b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf618298fa8e9fceb9833cbeecaae93]: Modification: S. 112A applied (with modifications) in part (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(h)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/h) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
+[^c-1cf618298fa8e9fceb9833cbeecaae93]: Modification: S. 112A applied (with modifications) in part (E.W.S.) (30.6.2015) by [The Swansea Bay Tidal Generating Station Order 2015 (S.I. 2015/1386)](https://www.legislation.gov.uk/uksi/2015/1386), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1), [42(4)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/4)[(5)(h)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/5/h) (with [arts. 51](https://www.legislation.gov.uk/uksi/2015/1386/article/51), [53](https://www.legislation.gov.uk/uksi/2015/1386/article/53))
 
-[^key-658071aeea1d953cf8dc691d229dc384]: Textual amendment: S. 112A inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 71](https://www.legislation.gov.uk/ukpga/2008/32/section/71), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-658071aeea1d953cf8dc691d229dc384]: Textual amendment: S. 112A inserted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 71](https://www.legislation.gov.uk/ukpga/2008/32/section/71), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

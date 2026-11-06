@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Delegation of powers[^key-f12b0de8115f86821a6b008d4afc0731]
+## 16. Delegation of powers[^c-f12b0de8115f86821a6b008d4afc0731]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ This section does not affect the Regulator's responsibility for performance of, 
 
 ## Annotations
 
-[^key-f12b0de8115f86821a6b008d4afc0731]: Commencement: S. 16 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-f12b0de8115f86821a6b008d4afc0731]: Commencement: S. 16 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

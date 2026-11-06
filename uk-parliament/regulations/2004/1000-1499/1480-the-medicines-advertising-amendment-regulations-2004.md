@@ -32,7 +32,7 @@ summary: ''
 
 MEDICINES
 
-The Medicines (Advertising) Amendment Regulations 2004 (revoked)[^key-752b03dada5931689b98651a64509611]
+The Medicines (Advertising) Amendment Regulations 2004 (revoked)[^c-752b03dada5931689b98651a64509611]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th June 2004
 
-[^key-752b03dada5931689b98651a64509611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-752b03dada5931689b98651a64509611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-752b03dada5931689b98651a64509611]
+## 1. Citation and commencement[^c-752b03dada5931689b98651a64509611]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Medicines (Advertising) Regulations 1994[^key-752b03dada5931689b98651a64509611]
+## 2. Amendment of the Medicines (Advertising) Regulations 1994[^c-752b03dada5931689b98651a64509611]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-752b03dada5931689b98651a64509611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-752b03dada5931689b98651a64509611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-752b03dada5931689b98651a64509611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-752b03dada5931689b98651a64509611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-752b03dada5931689b98651a64509611]: Textual amendment: Regulations revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-752b03dada5931689b98651a64509611]: Textual amendment: Regulations revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

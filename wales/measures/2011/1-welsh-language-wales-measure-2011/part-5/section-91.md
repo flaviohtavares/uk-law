@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Settlement agreements[^key-2f93ea8072841e1b6edac44640c07834]
+## 91. Settlement agreements[^c-2f93ea8072841e1b6edac44640c07834]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f93ea8072841e1b6edac44640c07834]: Commencement: [S. 91](https://www.legislation.gov.uk/mwa/2011/1/section/91) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-2f93ea8072841e1b6edac44640c07834]: Commencement: [S. 91](https://www.legislation.gov.uk/mwa/2011/1/section/91) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

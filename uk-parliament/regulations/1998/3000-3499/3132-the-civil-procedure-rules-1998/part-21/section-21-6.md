@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.6. How a person becomes a litigation friend by court order[^key-45ca8667c1772b0ff63d17f60708884a]
+## 21.6. How a person becomes a litigation friend by court order[^c-45ca8667c1772b0ff63d17f60708884a]
 
 *Extent: E+W*
 
 (1) The court may make an order appointing a litigation friend.
 
-(2) An application for an order appointing a litigation friend may be made under Part 23[^key-d587a3091770a294d40786084603064d] by—
+(2) An application for an order appointing a litigation friend may be made under Part 23[^c-d587a3091770a294d40786084603064d] by—
 
 - (a) a person who wishes to be the litigation friend; or
 - (b) a party.
@@ -38,20 +38,20 @@ summary: ''
 
 the claimant must apply to the court for an order appointing a litigation friend for the child or protected party.
 
-(4) An application for an order appointing a litigation friend must be supported by evidence of all the matters set out in rule 21.4(3)[^key-d164818c06d6aaa8a545a49eb0f69c28].
+(4) An application for an order appointing a litigation friend must be supported by evidence of all the matters set out in rule 21.4(3)[^c-d164818c06d6aaa8a545a49eb0f69c28].
 
-(5) The court may not appoint a litigation friend under this rule unless it is satisfied of those matters[^key-06e882fd1804f32372c022481fdc58a8].
+(5) The court may not appoint a litigation friend under this rule unless it is satisfied of those matters[^c-06e882fd1804f32372c022481fdc58a8].
 
-(6)[^key-0369d151fd4f4c09d0fc8bbfeb6dfb25] Where the proposed litigation friend is the Official Solicitor, the court’s order must make provision for payment of any charges, expenses or disbursements.
+(6)[^c-0369d151fd4f4c09d0fc8bbfeb6dfb25] Where the proposed litigation friend is the Official Solicitor, the court’s order must make provision for payment of any charges, expenses or disbursements.
 
 ## Annotations
 
-[^key-45ca8667c1772b0ff63d17f60708884a]: Textual amendment: Pt. 21 substituted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2204/schedule/2)
+[^c-45ca8667c1772b0ff63d17f60708884a]: Textual amendment: Pt. 21 substituted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2204/schedule/2)
 
-[^key-d587a3091770a294d40786084603064d]: Textual amendment: Words in [rule 21.6(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/2) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/a)
+[^c-d587a3091770a294d40786084603064d]: Textual amendment: Words in [rule 21.6(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/2) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/a)
 
-[^key-d164818c06d6aaa8a545a49eb0f69c28]: Textual amendment: Words in [rule 21.6(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/4) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(b)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/b)
+[^c-d164818c06d6aaa8a545a49eb0f69c28]: Textual amendment: Words in [rule 21.6(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/4) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(b)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/b)
 
-[^key-06e882fd1804f32372c022481fdc58a8]: Textual amendment: Words in [rule 21.6(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/5) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(c)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/c)
+[^c-06e882fd1804f32372c022481fdc58a8]: Textual amendment: Words in [rule 21.6(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/5) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(c)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/c)
 
-[^key-0369d151fd4f4c09d0fc8bbfeb6dfb25]: Textual amendment: [Rule 21.6(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/6) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(d)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/d)
+[^c-0369d151fd4f4c09d0fc8bbfeb6dfb25]: Textual amendment: [Rule 21.6(6)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.6/6) inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(7)(d)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/7/d)

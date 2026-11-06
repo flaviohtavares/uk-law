@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Dual-Use Items (Export Control) (Amendment) Regulations 2002 (revoked)[^key-9825546a49b2ab24f7608ca66c1d2979]
+The Dual-Use Items (Export Control) (Amendment) Regulations 2002 (revoked)[^c-9825546a49b2ab24f7608ca66c1d2979]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 5th February 2002
 
-[^key-9825546a49b2ab24f7608ca66c1d2979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9825546a49b2ab24f7608ca66c1d2979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-9825546a49b2ab24f7608ca66c1d2979]
+## 1.[^c-9825546a49b2ab24f7608ca66c1d2979]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-9825546a49b2ab24f7608ca66c1d2979]
+## 2.[^c-9825546a49b2ab24f7608ca66c1d2979]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-9825546a49b2ab24f7608ca66c1d2979]
+## 3.[^c-9825546a49b2ab24f7608ca66c1d2979]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-9825546a49b2ab24f7608ca66c1d2979]
+## 4.[^c-9825546a49b2ab24f7608ca66c1d2979]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9825546a49b2ab24f7608ca66c1d2979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9825546a49b2ab24f7608ca66c1d2979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9825546a49b2ab24f7608ca66c1d2979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9825546a49b2ab24f7608ca66c1d2979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9825546a49b2ab24f7608ca66c1d2979]: Textual amendment: Regulations revoked (1.5.2004) by [Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003 (S.I. 2003/2764)](https://www.legislation.gov.uk/uksi/2003/2764), [art. 1](https://www.legislation.gov.uk/uksi/2003/2764/article/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/2764/schedule/6) (with [art. 25](https://www.legislation.gov.uk/uksi/2003/2764/article/25))
+[^c-9825546a49b2ab24f7608ca66c1d2979]: Textual amendment: Regulations revoked (1.5.2004) by [Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) Order 2003 (S.I. 2003/2764)](https://www.legislation.gov.uk/uksi/2003/2764), [art. 1](https://www.legislation.gov.uk/uksi/2003/2764/article/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/2764/schedule/6) (with [art. 25](https://www.legislation.gov.uk/uksi/2003/2764/article/25))

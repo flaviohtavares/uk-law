@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Offences in relation to submission of claims for voting purposes[^key-e20822f31b8b24d825a92b449e0eabda]
+## 47. Offences in relation to submission of claims for voting purposes[^c-e20822f31b8b24d825a92b449e0eabda]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ which is false.
 
 ## Annotations
 
-[^key-e20822f31b8b24d825a92b449e0eabda]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2016/21/section/47) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e20822f31b8b24d825a92b449e0eabda]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2016/21/section/47) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

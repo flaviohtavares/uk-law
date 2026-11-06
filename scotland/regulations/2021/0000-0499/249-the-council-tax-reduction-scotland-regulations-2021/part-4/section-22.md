@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Who may apply[^key-58405427114f0be1281e4c88e303ec30]
+## 22. Who may apply[^c-58405427114f0be1281e4c88e303ec30]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In the case of a couple an application is to be made by whichever one of them th
 
 ## Annotations
 
-[^key-58405427114f0be1281e4c88e303ec30]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/249/regulation/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-58405427114f0be1281e4c88e303ec30]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/249/regulation/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

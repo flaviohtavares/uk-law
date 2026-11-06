@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Crown rights[^key-9dba64ec00a8213e6c4ca47a3722503c]
+## 37. Crown rights[^c-9dba64ec00a8213e6c4ca47a3722503c]
 
 *Extent: E+W*
 
-(1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular, nothing in this Order authorises the undertaker or any lessee or licensee to take, use, enter upon or in any manner interfere with[^key-cff82d81ae8533ce79d0193a026369da] any land or rights of any description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
+(1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular, nothing in this Order authorises the undertaker or any lessee or licensee to take, use, enter upon or in any manner interfere with[^c-cff82d81ae8533ce79d0193a026369da] any land or rights of any description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
 
 - (a) belonging to His Majesty in right of the Crown and forming part of The Crown Estate without the consent in writing of the Crown Estate Commissioners;
 - (b) belonging to His Majesty in right of the Crown and not forming part of The Crown Estate without the consent in writing of the government department having the management of that land; or
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9dba64ec00a8213e6c4ca47a3722503c]: Commencement: Art. 37 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-9dba64ec00a8213e6c4ca47a3722503c]: Commencement: Art. 37 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-cff82d81ae8533ce79d0193a026369da]: Textual amendment: Words in [art. 37(1)](https://www.legislation.gov.uk/uksi/2023/1033/article/37/1) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
+[^c-cff82d81ae8533ce79d0193a026369da]: Textual amendment: Words in [art. 37(1)](https://www.legislation.gov.uk/uksi/2023/1033/article/37/1) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)

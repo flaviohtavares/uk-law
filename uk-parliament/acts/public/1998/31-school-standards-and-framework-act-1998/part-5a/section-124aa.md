@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124AA. Staff at certain Academies with religious character[^key-9c5891bcf6d26a6dbf49467afa56b6d1][^key-4e471fc536af5bf5bf2250896ccb08fe]
+## 124AA. Staff at certain Academies with religious character[^c-9c5891bcf6d26a6dbf49467afa56b6d1][^c-4e471fc536af5bf5bf2250896ccb08fe]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ A teacher employed or engaged at the Academy in pursuance of this subsection is 
 
 ## Annotations
 
-[^key-9c5891bcf6d26a6dbf49467afa56b6d1]: Textual amendment: [S. 124AA](https://www.legislation.gov.uk/ukpga/1998/31/section/124AA) inserted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/62/3), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-9c5891bcf6d26a6dbf49467afa56b6d1]: Textual amendment: [S. 124AA](https://www.legislation.gov.uk/ukpga/1998/31/section/124AA) inserted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/62/3), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
 
-[^key-4e471fc536af5bf5bf2250896ccb08fe]: Textual amendment: Pt. 5A inserted (E.W.) (1.9.2003) by [The Independent Schools (Employment of Teachers in Schools with a Religious Character) Regulations 2003 (S.I. 2003/2037)](https://www.legislation.gov.uk/uksi/2003/2037), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2037/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/2037/regulation/3)
+[^c-4e471fc536af5bf5bf2250896ccb08fe]: Textual amendment: Pt. 5A inserted (E.W.) (1.9.2003) by [The Independent Schools (Employment of Teachers in Schools with a Religious Character) Regulations 2003 (S.I. 2003/2037)](https://www.legislation.gov.uk/uksi/2003/2037), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2037/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2003/2037/regulation/3)

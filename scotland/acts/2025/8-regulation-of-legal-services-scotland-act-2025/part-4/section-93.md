@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Time limit for prosecution of offences[^key-eecb1a1efe0b1cd4acbcbeb8d2b38b2b]
+## 93. Time limit for prosecution of offences[^c-eecb1a1efe0b1cd4acbcbeb8d2b38b2b]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eecb1a1efe0b1cd4acbcbeb8d2b38b2b]: Commencement: S. 93 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-eecb1a1efe0b1cd4acbcbeb8d2b38b2b]: Commencement: S. 93 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

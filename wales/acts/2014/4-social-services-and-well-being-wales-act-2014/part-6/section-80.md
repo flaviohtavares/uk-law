@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Maintenance of looked after children[^key-86b1c5b379b2564264125823ad1c587d]
+## 80. Maintenance of looked after children[^c-86b1c5b379b2564264125823ad1c587d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority must maintain a child it is looking after in other respects ap
 
 ## Annotations
 
-[^key-86b1c5b379b2564264125823ad1c587d]: Commencement: S. 80 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-86b1c5b379b2564264125823ad1c587d]: Commencement: S. 80 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

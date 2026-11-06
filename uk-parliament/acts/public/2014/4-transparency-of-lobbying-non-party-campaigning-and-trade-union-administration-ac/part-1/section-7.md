@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Publication of register[^key-457600796b1ec8daaf6290c31217d9f4]
+## 7. Publication of register[^c-457600796b1ec8daaf6290c31217d9f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-457600796b1ec8daaf6290c31217d9f4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/4/section/7) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-457600796b1ec8daaf6290c31217d9f4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/4/section/7) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

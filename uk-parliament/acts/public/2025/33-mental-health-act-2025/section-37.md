@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Transfers of prisoners and others to hospital: time limits[^key-08eb707f7df8b0d30af354c0a6e2a13b]
+## 37. Transfers of prisoners and others to hospital: time limits[^c-08eb707f7df8b0d30af354c0a6e2a13b]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,4 +155,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08eb707f7df8b0d30af354c0a6e2a13b]: Commencement: S. 37 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-08eb707f7df8b0d30af354c0a6e2a13b]: Commencement: S. 37 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

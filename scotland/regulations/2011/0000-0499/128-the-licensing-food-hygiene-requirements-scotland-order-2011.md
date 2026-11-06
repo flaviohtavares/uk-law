@@ -34,7 +34,7 @@ Licences And Licensing
 
 Licensing (liquor)
 
-The Licensing (Food Hygiene Requirements) (Scotland) Order 2011 (revoked)[^key-82023ad0b336cdc6d764fa1f6148f460]
+The Licensing (Food Hygiene Requirements) (Scotland) Order 2011 (revoked)[^c-82023ad0b336cdc6d764fa1f6148f460]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 28th March 2011
 
-[^key-82023ad0b336cdc6d764fa1f6148f460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82023ad0b336cdc6d764fa1f6148f460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement and interpretation[^key-82023ad0b336cdc6d764fa1f6148f460]
+## 1. Citation and commencement and interpretation[^c-82023ad0b336cdc6d764fa1f6148f460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Requirements under section 39(4) of the 1982 Act[^key-82023ad0b336cdc6d764fa1f6148f460]
+## 2. Requirements under section 39(4) of the 1982 Act[^c-82023ad0b336cdc6d764fa1f6148f460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirements under section 50(7) of the Licensing (Scotland) Act 2005[^key-82023ad0b336cdc6d764fa1f6148f460]
+## 3. Requirements under section 50(7) of the Licensing (Scotland) Act 2005[^c-82023ad0b336cdc6d764fa1f6148f460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82023ad0b336cdc6d764fa1f6148f460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82023ad0b336cdc6d764fa1f6148f460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82023ad0b336cdc6d764fa1f6148f460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82023ad0b336cdc6d764fa1f6148f460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82023ad0b336cdc6d764fa1f6148f460]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/128) revoked (28.3.2011) by [The Licensing (Food Hygiene Requirements) (Scotland) (No. 2) Order 2011 (S.S.I. 2011/177)](https://www.legislation.gov.uk/ssi/2011/177), [arts. 1](https://www.legislation.gov.uk/ssi/2011/177/article/1), [4](https://www.legislation.gov.uk/ssi/2011/177/article/4)
+[^c-82023ad0b336cdc6d764fa1f6148f460]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/128) revoked (28.3.2011) by [The Licensing (Food Hygiene Requirements) (Scotland) (No. 2) Order 2011 (S.S.I. 2011/177)](https://www.legislation.gov.uk/ssi/2011/177), [arts. 1](https://www.legislation.gov.uk/ssi/2011/177/article/1), [4](https://www.legislation.gov.uk/ssi/2011/177/article/4)

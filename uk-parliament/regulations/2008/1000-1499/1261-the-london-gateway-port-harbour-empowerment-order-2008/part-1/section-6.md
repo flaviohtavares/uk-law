@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Application of the New Roads and Street Works Act 1991[^key-d8a69d6ca30f2ef02d1a98c12237db36]
+## 6. Application of the New Roads and Street Works Act 1991[^c-d8a69d6ca30f2ef02d1a98c12237db36]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-d8a69d6ca30f2ef02d1a98c12237db36]: Commencement: Art. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d8a69d6ca30f2ef02d1a98c12237db36]: Commencement: Art. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

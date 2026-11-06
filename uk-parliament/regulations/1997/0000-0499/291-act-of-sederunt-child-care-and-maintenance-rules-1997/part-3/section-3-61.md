@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.61. Hearing[^key-a6dd4a2b9f1a904260fa56f2715d005c]
+## 3.61. Hearing[^c-a6dd4a2b9f1a904260fa56f2715d005c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6dd4a2b9f1a904260fa56f2715d005c]: Textual amendment: Rule 3.61 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [8(4)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/8/4/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-a6dd4a2b9f1a904260fa56f2715d005c]: Textual amendment: Rule 3.61 omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [8(4)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/8/4/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))

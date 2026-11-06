@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Cereal Seed (Wales) and Fodder Plant Seed (Wales) (Amendment) Regulations 2006 (revoked)[^key-7cde86bcd0acc82dc0536ea5e059848c]
+The Cereal Seed (Wales) and Fodder Plant Seed (Wales) (Amendment) Regulations 2006 (revoked)[^c-7cde86bcd0acc82dc0536ea5e059848c]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 20 December 2006
 
-[^key-7cde86bcd0acc82dc0536ea5e059848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cde86bcd0acc82dc0536ea5e059848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
 In accordance with section 16(1) of that Act it has consulted with representatives of such interests as appear to it to be concerned.
 
-## 1. Title, commencement and application[^key-7cde86bcd0acc82dc0536ea5e059848c]
+## 1. Title, commencement and application[^c-7cde86bcd0acc82dc0536ea5e059848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Cereal Seed (Wales) Regulations 2005[^key-7cde86bcd0acc82dc0536ea5e059848c]
+## 2. Amendment of the Cereal Seed (Wales) Regulations 2005[^c-7cde86bcd0acc82dc0536ea5e059848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fodder Plant Seed (Wales) Regulations 2005[^key-7cde86bcd0acc82dc0536ea5e059848c]
+## 3. Amendment of the Fodder Plant Seed (Wales) Regulations 2005[^c-7cde86bcd0acc82dc0536ea5e059848c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cde86bcd0acc82dc0536ea5e059848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cde86bcd0acc82dc0536ea5e059848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cde86bcd0acc82dc0536ea5e059848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cde86bcd0acc82dc0536ea5e059848c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7cde86bcd0acc82dc0536ea5e059848c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2006/3250) revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1/2), [34(g)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/g) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-7cde86bcd0acc82dc0536ea5e059848c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2006/3250) revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1/2), [34(g)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/g) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

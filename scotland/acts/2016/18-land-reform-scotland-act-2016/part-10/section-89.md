@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Modern limited duration tenancies: irritancy[^key-3542801d63bb9a7462392c795d76afe9][^key-e7c23cf219838582e6565c07ef9c1b26]
+## 89. Modern limited duration tenancies: irritancy[^c-3542801d63bb9a7462392c795d76afe9][^c-e7c23cf219838582e6565c07ef9c1b26]
 
 *Extent: S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3542801d63bb9a7462392c795d76afe9]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/18/section/89) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-3542801d63bb9a7462392c795d76afe9]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/18/section/89) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
 
-[^key-e7c23cf219838582e6565c07ef9c1b26]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/18/section/89) in force at 30.11.2017 in so far as not already in force by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-e7c23cf219838582e6565c07ef9c1b26]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/18/section/89) in force at 30.11.2017 in so far as not already in force by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321. Pre-consolidation amendments[^key-991fc39dd5ed38c0e7cdf27d4bf8aa27]
+## 321. Pre-consolidation amendments[^c-991fc39dd5ed38c0e7cdf27d4bf8aa27]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ has been presented to either House of Parliament.
 
 ## Annotations
 
-[^key-991fc39dd5ed38c0e7cdf27d4bf8aa27]: Commencement: [S. 321](https://www.legislation.gov.uk/ukpga/2004/35/section/321) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-991fc39dd5ed38c0e7cdf27d4bf8aa27]: Commencement: [S. 321](https://www.legislation.gov.uk/ukpga/2004/35/section/321) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

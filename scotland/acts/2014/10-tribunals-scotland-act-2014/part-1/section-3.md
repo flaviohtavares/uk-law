@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Upholding independence[^key-5ee9faa3a3d6affc79b2aaa3b5850dc6]
+## 3. Upholding independence[^c-5ee9faa3a3d6affc79b2aaa3b5850dc6]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee9faa3a3d6affc79b2aaa3b5850dc6]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/10/section/3) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-5ee9faa3a3d6affc79b2aaa3b5850dc6]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/10/section/3) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

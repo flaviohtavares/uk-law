@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Duty to confirm lawful purposes[^key-8f566c993d0a9a03730bba97e0b6ff9b][^key-7cd7976496185d14c158e6ba973196c5]
+## 60. Duty to confirm lawful purposes[^c-8f566c993d0a9a03730bba97e0b6ff9b][^c-7cd7976496185d14c158e6ba973196c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ After section 853B of the Companies Act 2006 insert—
 
 ## Annotations
 
-[^key-8f566c993d0a9a03730bba97e0b6ff9b]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-8f566c993d0a9a03730bba97e0b6ff9b]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-7cd7976496185d14c158e6ba973196c5]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/56/section/60) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z13)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z13) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/269/regulation/5))
+[^c-7cd7976496185d14c158e6ba973196c5]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/56/section/60) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z13)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z13) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/269/regulation/5))

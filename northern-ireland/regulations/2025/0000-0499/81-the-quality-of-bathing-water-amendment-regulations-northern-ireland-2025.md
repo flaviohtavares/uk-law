@@ -44,15 +44,15 @@ The Department of Agriculture, Environment and Rural Affairs makes the following
 
 The Department of Agriculture, Environment and Rural Affairs is a relevant national authority for the purposes of section 14(2) of the 2023 Act[^f00002].
 
-## 1. Citation and commencement[^key-7659aeb6191dab6e65497f976308d6f0]
+## 1. Citation and commencement[^c-7659aeb6191dab6e65497f976308d6f0]
 
 These Regulations may be cited as the Quality of Bathing Water (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 31<sup>st</sup> May 2025.
 
-## 2. Interpretation[^key-63d15c63e06f1d76e1ea78534514bd43]
+## 2. Interpretation[^c-63d15c63e06f1d76e1ea78534514bd43]
 
 The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendments to the Quality of Bathing Water Regulations (Northern Ireland) 2008, as amended 2018[^key-a701a933b7a31b9c299a08900e99777d]
+## 3. Amendments to the Quality of Bathing Water Regulations (Northern Ireland) 2008, as amended 2018[^c-a701a933b7a31b9c299a08900e99777d]
 
 For Schedule 1 substitute—
 
@@ -114,10 +114,10 @@ These Regulations replace Schedule 1 of the Quality of Bathing Water Regulations
 
 [^f00002]: Footnote: The term “relevant national authority” is defined in section 21(1) of the Retained EU Law (Revocation and Reform) Act 2023
 
-[^key-7659aeb6191dab6e65497f976308d6f0]: Commencement: Reg. 1 in operation at 31.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/81/regulation/1)
+[^c-7659aeb6191dab6e65497f976308d6f0]: Commencement: Reg. 1 in operation at 31.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/81/regulation/1)
 
-[^key-63d15c63e06f1d76e1ea78534514bd43]: Commencement: Reg. 2 in operation at 31.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/81/regulation/1)
+[^c-63d15c63e06f1d76e1ea78534514bd43]: Commencement: Reg. 2 in operation at 31.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/81/regulation/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a701a933b7a31b9c299a08900e99777d]: Commencement: Reg. 3 in operation at 31.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/81/regulation/1)
+[^c-a701a933b7a31b9c299a08900e99777d]: Commencement: Reg. 3 in operation at 31.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/81/regulation/1)

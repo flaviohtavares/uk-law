@@ -49,13 +49,13 @@ No person shall permit any poultry or other captive birds to be collected togeth
 
 ### 5. Release of game
 
-(1)[^key-d7c210276fdd7dadd4db949b155d995f] No person shall release game birds.
+(1)[^c-d7c210276fdd7dadd4db949b155d995f] No person shall release game birds.
 
-(2)[^key-0a2f111314c2d7611780d0b0e754c7ac] For the purpose of this paragraph, game birds include any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan or ducks bred for shooting.
+(2)[^c-0a2f111314c2d7611780d0b0e754c7ac] For the purpose of this paragraph, game birds include any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan or ducks bred for shooting.
 
 ### 6. Restrictions on the movement of poultry, other captive birds and eggs within the zone
 
-Subject to paragraph 8, no person shall move any poultry, other captive birds or eggs into or[^key-9ffbe600514a7afd500ca1ba5cab8aca] within the zone (other than through the zone by road or rail without stopping), unless licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.
+Subject to paragraph 8, no person shall move any poultry, other captive birds or eggs into or[^c-9ffbe600514a7afd500ca1ba5cab8aca] within the zone (other than through the zone by road or rail without stopping), unless licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.
 
 ### 7. Restrictions on the movement of poultry and eggs out of the zone
 
@@ -75,7 +75,7 @@ Subject to paragraph 8, no person shall move any poultry, other captive birds or
   - (ii) to designated premises for use for scientific, diagnostic or pharmaceutical purposes
 
   (if, in both cases, the eggs and their packaging are disinfected before dispatch);
-- (f)[^key-3ec6141c7b3421b55814f56f3fad7d6a] eggs to a designated egg packing centre in disposable packaging or packaging which has been cleansed and disinfected, in accordance with the instructions of a veterinary inspector or an inspector under the direction of a veterinary inspector.
+- (f)[^c-3ec6141c7b3421b55814f56f3fad7d6a] eggs to a designated egg packing centre in disposable packaging or packaging which has been cleansed and disinfected, in accordance with the instructions of a veterinary inspector or an inspector under the direction of a veterinary inspector.
 - (g) eggs to an egg processing plant inside or outside the zone;
 - (h) eggs for disposal.
 
@@ -93,10 +93,10 @@ A person who moves any poultry, other captive bird, meat, feed, manure, slurry, 
 
 ## Annotations
 
-[^key-d7c210276fdd7dadd4db949b155d995f]: Textual amendment: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7/paragraph/5) renumbered as Sch. 7 para. 5(1) (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/a/i)
+[^c-d7c210276fdd7dadd4db949b155d995f]: Textual amendment: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7/paragraph/5) renumbered as Sch. 7 para. 5(1) (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/a/i)
 
-[^key-0a2f111314c2d7611780d0b0e754c7ac]: Textual amendment: [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7/paragraph/5/2) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/a/ii)
+[^c-0a2f111314c2d7611780d0b0e754c7ac]: Textual amendment: [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7/paragraph/5/2) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/a/ii)
 
-[^key-9ffbe600514a7afd500ca1ba5cab8aca]: Textual amendment: Words in [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7/paragraph/6) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/b)
+[^c-9ffbe600514a7afd500ca1ba5cab8aca]: Textual amendment: Words in [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7/paragraph/6) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/b)
 
-[^key-3ec6141c7b3421b55814f56f3fad7d6a]: Textual amendment: [Sch. 7 para. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7) substituted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/c)
+[^c-3ec6141c7b3421b55814f56f3fad7d6a]: Textual amendment: [Sch. 7 para. 7(2)(f)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/7) substituted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/8/c)

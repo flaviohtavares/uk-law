@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Consultation in relation to certain enforcement action[^key-26d0b466f5eff60bdfcf0ebba801094b]
+## 45. Consultation in relation to certain enforcement action[^c-26d0b466f5eff60bdfcf0ebba801094b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26d0b466f5eff60bdfcf0ebba801094b]: Commencement: Reg. 45 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-26d0b466f5eff60bdfcf0ebba801094b]: Commencement: Reg. 45 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
 [^f00044]: Footnote: Section 421ZA was inserted by section 48(2) of the Financial Services Act 2012.

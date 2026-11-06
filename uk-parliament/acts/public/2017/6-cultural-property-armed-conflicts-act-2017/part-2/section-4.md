@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Ancillary offences[^key-3d2eb038cccca438dee557f09213411c]
+## 4. Ancillary offences[^c-3d2eb038cccca438dee557f09213411c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2eb038cccca438dee557f09213411c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/6/section/4) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-3d2eb038cccca438dee557f09213411c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/6/section/4) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

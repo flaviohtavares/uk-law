@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23.2. Applications for a reference[^key-2aff594938f4193ef1e134e6a7b5d103]
+## 23.2. Applications for a reference[^c-2aff594938f4193ef1e134e6a7b5d103]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aff594938f4193ef1e134e6a7b5d103]: Commencement: Para. 23.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-2aff594938f4193ef1e134e6a7b5d103]: Commencement: Para. 23.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

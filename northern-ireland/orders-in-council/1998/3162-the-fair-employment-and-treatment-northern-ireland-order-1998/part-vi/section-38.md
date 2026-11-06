@@ -27,7 +27,7 @@ summary: ''
 
 may be presented to the Tribunal.
 
-(1A)[^key-892592ddd3884044cb3e90d5d76bd655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-892592ddd3884044cb3e90d5d76bd655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Tribunal shall not consider a complaint relating to an act which is unlawful by virtue of Article 25 if the act is one in respect of which an appeal, or proceedings in the nature of an appeal, may be brought to a court under any statutory provision.
 
@@ -35,4 +35,4 @@ may be presented to the Tribunal.
 
 [^c17084411]: Textual amendment: SR 2003/520
 
-[^key-892592ddd3884044cb3e90d5d76bd655]: Textual amendment: [Art. 38(1A)](https://www.legislation.gov.uk/nisi/1998/3162/article/38/1A) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
+[^c-892592ddd3884044cb3e90d5d76bd655]: Textual amendment: [Art. 38(1A)](https://www.legislation.gov.uk/nisi/1998/3162/article/38/1A) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)

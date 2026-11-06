@@ -22,7 +22,7 @@ summary: ''
 
 Section 41
 
-### 1. Local growth plans[^key-20cfb3efd93be4e52ce877bde3b732db][^key-87e4dc84eeea85110d09dc1a3dcfb03a]
+### 1. Local growth plans[^c-20cfb3efd93be4e52ce877bde3b732db][^c-87e4dc84eeea85110d09dc1a3dcfb03a]
 
 (1) After section 107K of LDEDCA 2009 insert—
 
@@ -190,6 +190,6 @@ Section 41
 
 ## Annotations
 
-[^key-20cfb3efd93be4e52ce877bde3b732db]: Commencement: Sch. 22 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-20cfb3efd93be4e52ce877bde3b732db]: Commencement: Sch. 22 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-87e4dc84eeea85110d09dc1a3dcfb03a]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-87e4dc84eeea85110d09dc1a3dcfb03a]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

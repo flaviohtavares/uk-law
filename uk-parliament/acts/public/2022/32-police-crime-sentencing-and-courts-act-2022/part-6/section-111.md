@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Financial penalty conditions[^key-75c41416c89fb776423c3013636e6d7d]
+## 111. Financial penalty conditions[^c-75c41416c89fb776423c3013636e6d7d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c41416c89fb776423c3013636e6d7d]: Commencement: S. 111 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-75c41416c89fb776423c3013636e6d7d]: Commencement: S. 111 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

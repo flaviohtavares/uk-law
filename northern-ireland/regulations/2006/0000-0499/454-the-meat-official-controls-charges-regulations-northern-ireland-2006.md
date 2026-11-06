@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Meat (Official Controls Charges) Regulations (Northern Ireland) 2006 (revoked)[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+The Meat (Official Controls Charges) Regulations (Northern Ireland) 2006 (revoked)[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 Made
 
@@ -41,102 +41,102 @@ Coming into operation
 
 1st January 2007
 
-[^key-31abc1ad0d8b598780ad4dbce7a36f0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31abc1ad0d8b598780ad4dbce7a36f0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## 1. Citation and commencement[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## 2. Interpretation[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Charges[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## 3. Charges[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Withdrawal of official controls[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## 4. Withdrawal of official controls[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## 5. Information[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## 6. Revocation[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31abc1ad0d8b598780ad4dbce7a36f0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31abc1ad0d8b598780ad4dbce7a36f0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CALCULATION OF THE OFFICIAL CONTROLS CHARGE[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+## SCHEDULE 2 — CALCULATION OF THE OFFICIAL CONTROLS CHARGE[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 Regulation 2(1)
 
-### 1. The official controls charge[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 1. The official controls charge[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2.[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 2.[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The standard charge[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 3. The standard charge[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 4.[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 5.[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 6.[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 7.[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 8.[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Time costs[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 9. Time costs[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-31abc1ad0d8b598780ad4dbce7a36f0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Definitions[^key-31abc1ad0d8b598780ad4dbce7a36f0a]
+### 16. Definitions[^c-31abc1ad0d8b598780ad4dbce7a36f0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31abc1ad0d8b598780ad4dbce7a36f0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31abc1ad0d8b598780ad4dbce7a36f0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31abc1ad0d8b598780ad4dbce7a36f0a]: Textual amendment: Regulations revoked (25.3.2007) by [The Meat (Official Controls Charges) Regulations (Northern Ireland) 2007 (S.R. 2007/108)](https://www.legislation.gov.uk/nisr/2007/108), [regs. 1](https://www.legislation.gov.uk/nisr/2007/108/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/108/regulation/6)
+[^c-31abc1ad0d8b598780ad4dbce7a36f0a]: Textual amendment: Regulations revoked (25.3.2007) by [The Meat (Official Controls Charges) Regulations (Northern Ireland) 2007 (S.R. 2007/108)](https://www.legislation.gov.uk/nisr/2007/108), [regs. 1](https://www.legislation.gov.uk/nisr/2007/108/regulation/1), [6](https://www.legislation.gov.uk/nisr/2007/108/regulation/6)

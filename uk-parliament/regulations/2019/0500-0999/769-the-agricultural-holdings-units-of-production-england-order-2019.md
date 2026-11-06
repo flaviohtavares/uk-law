@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Units of Production) (England) Order 2019 (revoked)[^key-0394a6a6b2a88f7132edbbc365dc7c30]
+The Agricultural Holdings (Units of Production) (England) Order 2019 (revoked)[^c-0394a6a6b2a88f7132edbbc365dc7c30]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 23rd April 2019
 
-[^key-0394a6a6b2a88f7132edbbc365dc7c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0394a6a6b2a88f7132edbbc365dc7c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0394a6a6b2a88f7132edbbc365dc7c30]
+## 1. Citation, commencement and interpretation[^c-0394a6a6b2a88f7132edbbc365dc7c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of productive capacity of land[^key-0394a6a6b2a88f7132edbbc365dc7c30]
+## 2. Assessment of productive capacity of land[^c-0394a6a6b2a88f7132edbbc365dc7c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0394a6a6b2a88f7132edbbc365dc7c30]
+## 3. Revocation[^c-0394a6a6b2a88f7132edbbc365dc7c30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0394a6a6b2a88f7132edbbc365dc7c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0394a6a6b2a88f7132edbbc365dc7c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0394a6a6b2a88f7132edbbc365dc7c30]
+## SCHEDULE[^c-0394a6a6b2a88f7132edbbc365dc7c30]
 
 Article 2
 
@@ -74,8 +74,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-0394a6a6b2a88f7132edbbc365dc7c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0394a6a6b2a88f7132edbbc365dc7c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0394a6a6b2a88f7132edbbc365dc7c30]: Textual amendment: Order revoked (6.1.2020) by [The Agricultural Holdings (Units of Production) (England) (No. 2) Order 2019 (S.I. 2019/1453)](https://www.legislation.gov.uk/uksi/2019/1453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1453/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1453/article/3)
+[^c-0394a6a6b2a88f7132edbbc365dc7c30]: Textual amendment: Order revoked (6.1.2020) by [The Agricultural Holdings (Units of Production) (England) (No. 2) Order 2019 (S.I. 2019/1453)](https://www.legislation.gov.uk/uksi/2019/1453), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1453/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1453/article/3)

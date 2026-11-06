@@ -85,9 +85,9 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter
 
-(1)[^key-fae6981ca7dbdcd1c01c75e62f4752ea] This Regulation specifies the details for implementing the landing obligation, provided for in Article 15(1) of Regulation (EU) No 1380/2013, from 1 January 2015 and applies to waters within ICES division 2a and subarea 4 that are within United Kingdom waters[^key-d5c92e7c29056f0f3012c7c2d1902714], in the fisheries set out in the Annex to this Regulation.
+(1)[^c-fae6981ca7dbdcd1c01c75e62f4752ea] This Regulation specifies the details for implementing the landing obligation, provided for in Article 15(1) of Regulation (EU) No 1380/2013, from 1 January 2015 and applies to waters within ICES division 2a and subarea 4 that are within United Kingdom waters[^c-d5c92e7c29056f0f3012c7c2d1902714], in the fisheries set out in the Annex to this Regulation.
 
-(2)[^key-5a34b8f0c8f6da2eab1a071c85b3e399] In paragraph 1, “**United Kingdom waters**” has the meaning it has in Regulation (EU) No 1380/2013.
+(2)[^c-5a34b8f0c8f6da2eab1a071c85b3e399] In paragraph 1, “**United Kingdom waters**” has the meaning it has in Regulation (EU) No 1380/2013.
 
 ## Article 2. Survivability exemption
 
@@ -105,11 +105,11 @@ HAS ADOPTED THIS REGULATION:
 
 5. The surrounded school of fish shall be sampled before its release to estimate the species composition, the fish size composition and the quantity.
 
-## Article 3. De minimis exemption in the years 2015 and 2016[^key-f8ad440ef64b84f29141cd7c3f1926ce]
+## Article 3. De minimis exemption in the years 2015 and 2016[^c-f8ad440ef64b84f29141cd7c3f1926ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. De minimis exemption[^key-2a4eaff274a5fab3da22ef11e98f6939]
+## Article 3a. De minimis exemption[^c-2a4eaff274a5fab3da22ef11e98f6939]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,13 +117,13 @@ HAS ADOPTED THIS REGULATION:
 
 1. Quantities of fish released under the exemption provided for in Article 2 and the results of the sampling required under Article 2(5) shall be reported in the logbook.
 
-2. Quantities of fish discarded under the exemption provided for in Article 3a[^key-f0755c9231367fee8d2e0da8c20ab98d] shall be reported in the logbook.
+2. Quantities of fish discarded under the exemption provided for in Article 3a[^c-f0755c9231367fee8d2e0da8c20ab98d] shall be reported in the logbook.
 
-## Article 4a. Technical measures for sprat fisheries in an area along the Danish North Sea coast[^key-4420c8e60988bb00abbaf2032622c3e4]
+## Article 4a. Technical measures for sprat fisheries in an area along the Danish North Sea coast[^c-4420c8e60988bb00abbaf2032622c3e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Expiry[^key-832d196f1d179494870174c5169bc74b]
+## Article 5. Expiry[^c-832d196f1d179494870174c5169bc74b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,7 +131,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## ANNEX[^c000001]
 
-- 1.. [^key-2a8245e54daf17d2a329a9b474c206b3]...
+- 1.. [^c-2a8245e54daf17d2a329a9b474c206b3]...
 - 2.. Small pelagic fisheries in ICES IV (North Sea).
 
   <table>
@@ -150,8 +150,8 @@ This Regulation shall be binding in its entirety and directly applicable in all 
   </table>
 
   [^f00005]
-- 3.. Other vessels targeting small pelagic species referred to in (mackerel, herring, horse mackerel, blue whiting, boarfish, anchovy, argentine, sardine, sprat)[^key-827959197d75331578af2d67cd644288] that are not covered by point 2[^key-5b0d00d7080be385f9d4e28af4934f2a] of this Annex.
-- 4.. Industrial fisheries in United Kingdom[^key-20f5c6d4d12d003d9b577859beec1102] waters of ICES [^key-e0aa11db2e43e2b746af036d1a62d16c]... IV:
+- 3.. Other vessels targeting small pelagic species referred to in (mackerel, herring, horse mackerel, blue whiting, boarfish, anchovy, argentine, sardine, sprat)[^c-827959197d75331578af2d67cd644288] that are not covered by point 2[^c-5b0d00d7080be385f9d4e28af4934f2a] of this Annex.
+- 4.. Industrial fisheries in United Kingdom[^c-20f5c6d4d12d003d9b577859beec1102] waters of ICES [^c-e0aa11db2e43e2b746af036d1a62d16c]... IV:
 
   | Code | Fishing gear | Quota species targeted |
   | --- | --- | --- |
@@ -164,32 +164,32 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00002]: Footnote: [OJ L 125, 27.4.1998, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.125.01.0001.01.ENG).
 
-[^key-fae6981ca7dbdcd1c01c75e62f4752ea]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2014/1395/article/1) renumbered as Art. 1(1) (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-fae6981ca7dbdcd1c01c75e62f4752ea]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2014/1395/article/1) renumbered as Art. 1(1) (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-d5c92e7c29056f0f3012c7c2d1902714]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2014/1395/article/1/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-d5c92e7c29056f0f3012c7c2d1902714]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2014/1395/article/1/1) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-5a34b8f0c8f6da2eab1a071c85b3e399]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2014/1395/article/1/2) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/2/c) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-5a34b8f0c8f6da2eab1a071c85b3e399]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2014/1395/article/1/2) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/2/c) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f8ad440ef64b84f29141cd7c3f1926ce]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2014/1395/article/3) omitted (31.12.2021) by virtue of [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/2)
+[^c-f8ad440ef64b84f29141cd7c3f1926ce]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2014/1395/article/3) omitted (31.12.2021) by virtue of [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/2)
 
-[^key-2a4eaff274a5fab3da22ef11e98f6939]: Textual amendment: [Art. 3a](https://www.legislation.gov.uk/eur/2014/1395/article/3a) omitted (28.2.2025) by virtue of [The Sea Fisheries (Amendment) (England) Regulations 2025 (S.I. 2025/92)](https://www.legislation.gov.uk/uksi/2025/92), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/92/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/92/regulation/3/2)
+[^c-2a4eaff274a5fab3da22ef11e98f6939]: Textual amendment: [Art. 3a](https://www.legislation.gov.uk/eur/2014/1395/article/3a) omitted (28.2.2025) by virtue of [The Sea Fisheries (Amendment) (England) Regulations 2025 (S.I. 2025/92)](https://www.legislation.gov.uk/uksi/2025/92), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/92/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/92/regulation/3/2)
 
-[^key-f0755c9231367fee8d2e0da8c20ab98d]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2014/1395/article/4/2) substituted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/4)
+[^c-f0755c9231367fee8d2e0da8c20ab98d]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2014/1395/article/4/2) substituted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/4)
 
-[^key-4420c8e60988bb00abbaf2032622c3e4]: Textual amendment: [Art. 4a](https://www.legislation.gov.uk/eur/2014/1395/article/4a) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-4420c8e60988bb00abbaf2032622c3e4]: Textual amendment: [Art. 4a](https://www.legislation.gov.uk/eur/2014/1395/article/4a) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/f), [Sch. 11 para. 5(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/11/paragraph/5/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-832d196f1d179494870174c5169bc74b]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2014/1395/article/5) omitted (6.4.2024) by virtue of [The Sea Fisheries (Amendment) Regulations 2024 (S.I. 2024/231)](https://www.legislation.gov.uk/uksi/2024/231), [regs. 1](https://www.legislation.gov.uk/uksi/2024/231/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2024/231/regulation/5/1)
+[^c-832d196f1d179494870174c5169bc74b]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2014/1395/article/5) omitted (6.4.2024) by virtue of [The Sea Fisheries (Amendment) Regulations 2024 (S.I. 2024/231)](https://www.legislation.gov.uk/uksi/2024/231), [regs. 1](https://www.legislation.gov.uk/uksi/2024/231/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2024/231/regulation/5/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2018/189 of 23 November 2017 amending Delegated Regulation (EU) No 1395/2014 establishing a discard plan for certain small pelagic fisheries and fisheries for industrial purposes in the North Sea](https://www.legislation.gov.uk/eur/2018/189).
 
-[^key-2a8245e54daf17d2a329a9b474c206b3]: Textual amendment: Annex point 1 and table omitted (31.12.2021) by virtue of [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/6/a)
+[^c-2a8245e54daf17d2a329a9b474c206b3]: Textual amendment: Annex point 1 and table omitted (31.12.2021) by virtue of [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/6/a)
 
 [^f00005]: Footnote: Mesh size 50 – 90 mm[^c000001]
 
-[^key-827959197d75331578af2d67cd644288]: Textual amendment: Words in Annex para. 3 substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/848)](https://www.legislation.gov.uk/uksi/2019/848), [regs. 1](https://www.legislation.gov.uk/uksi/2019/848/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/848/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-827959197d75331578af2d67cd644288]: Textual amendment: Words in Annex para. 3 substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/848)](https://www.legislation.gov.uk/uksi/2019/848), [regs. 1](https://www.legislation.gov.uk/uksi/2019/848/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/848/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b0d00d7080be385f9d4e28af4934f2a]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2014/1395/annex) point 3 substituted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/6/b)
+[^c-5b0d00d7080be385f9d4e28af4934f2a]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2014/1395/annex) point 3 substituted (31.12.2021) by [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/6/b)
 
-[^key-20f5c6d4d12d003d9b577859beec1102]: Textual amendment: Words in Annex para. 4 substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/848)](https://www.legislation.gov.uk/uksi/2019/848), [regs. 1](https://www.legislation.gov.uk/uksi/2019/848/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/848/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20f5c6d4d12d003d9b577859beec1102]: Textual amendment: Words in Annex para. 4 substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/848)](https://www.legislation.gov.uk/uksi/2019/848), [regs. 1](https://www.legislation.gov.uk/uksi/2019/848/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/848/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0aa11db2e43e2b746af036d1a62d16c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2014/1395/annex) point 4 omitted (31.12.2021) by virtue of [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/6/c)
+[^c-e0aa11db2e43e2b746af036d1a62d16c]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2014/1395/annex) point 4 omitted (31.12.2021) by virtue of [The Sea Fisheries (Amendment etc.) (No. 2) Regulations 2021 (S.I. 2021/1429)](https://www.legislation.gov.uk/uksi/2021/1429), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/1/1), [4(6)(c)](https://www.legislation.gov.uk/uksi/2021/1429/regulation/4/6/c)

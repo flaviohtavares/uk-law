@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Research Authority Regulations 2011 (revoked)[^key-c89da92da6103b6b7ac7d70909e0afbe]
+The Health Research Authority Regulations 2011 (revoked)[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 Made
 
@@ -46,92 +46,92 @@ Coming into force
 
 1st December 2011
 
-[^key-c89da92da6103b6b7ac7d70909e0afbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c89da92da6103b6b7ac7d70909e0afbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 1. Citation, commencement and interpretation[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment and tenure of office of members[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2. Appointment and tenure of office of members[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Disqualification for appointment[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2A. Disqualification for appointment[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2B. Cessation of disqualification[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2B. Cessation of disqualification[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2C. Termination of term of appointment of non-officer members[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2C. Termination of term of appointment of non-officer members[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2D. Suspension of non-officer members[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2D. Suspension of non-officer members[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2E. Appointment of vice-chair[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2E. Appointment of vice-chair[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2F. Appointment of vice-chair when chair is suspended[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2F. Appointment of vice-chair when chair is suspended[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2G. Powers of vice-chair[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 2G. Powers of vice-chair[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment of committees and sub-committees[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 3. Appointment of committees and sub-committees[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Arrangements for the exercise of functions[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 4. Arrangements for the exercise of functions[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Meetings and proceedings[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 5. Meetings and proceedings[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Disability of members in proceedings on account of pecuniary interest[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 6. Disability of members in proceedings on account of pecuniary interest[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Reports by the Authority[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 7. Reports by the Authority[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Public meeting[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## 8. Public meeting[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c89da92da6103b6b7ac7d70909e0afbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c89da92da6103b6b7ac7d70909e0afbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — RULES AS TO MEETINGS AND PROCEEDINGS OF THE AUTHORITY[^key-c89da92da6103b6b7ac7d70909e0afbe]
+## SCHEDULE — RULES AS TO MEETINGS AND PROCEEDINGS OF THE AUTHORITY[^c-c89da92da6103b6b7ac7d70909e0afbe]
 
 Regulation 5(1)
 
-**1.**[^key-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c89da92da6103b6b7ac7d70909e0afbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c89da92da6103b6b7ac7d70909e0afbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c89da92da6103b6b7ac7d70909e0afbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c89da92da6103b6b7ac7d70909e0afbe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2341) revoked (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 109(3)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/109/3/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/a)
+[^c-c89da92da6103b6b7ac7d70909e0afbe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2341) revoked (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 109(3)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/109/3/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(a)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/a)

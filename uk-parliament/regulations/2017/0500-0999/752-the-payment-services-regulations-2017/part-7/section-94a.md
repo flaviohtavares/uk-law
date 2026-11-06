@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Liability of payment service provider for charges and interest as a consequence of delay under regulation 86(2B)[^key-b483f8484747b5939dc16e333effe700]
+## 94A. Liability of payment service provider for charges and interest as a consequence of delay under regulation 86(2B)[^c-b483f8484747b5939dc16e333effe700]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ as a consequence of a delay to the execution of a payment order in reliance on r
 
 ## Annotations
 
-[^key-b483f8484747b5939dc16e333effe700]: Textual amendment: Reg. 94A inserted (30.10.2024) by [The Payment Services (Amendment) Regulations 2024 (S.I. 2024/1013)](https://www.legislation.gov.uk/uksi/2024/1013), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1013/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/1013/regulation/2/5)
+[^c-b483f8484747b5939dc16e333effe700]: Textual amendment: Reg. 94A inserted (30.10.2024) by [The Payment Services (Amendment) Regulations 2024 (S.I. 2024/1013)](https://www.legislation.gov.uk/uksi/2024/1013), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1013/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/1013/regulation/2/5)

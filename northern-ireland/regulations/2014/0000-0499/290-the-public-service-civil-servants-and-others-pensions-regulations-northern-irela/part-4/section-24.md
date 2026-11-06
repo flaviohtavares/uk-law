@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Opting out before the end of one month[^key-9d7bd61ce4f7bd7298d47e957b4798a2]
+## 24. Opting out before the end of one month[^c-9d7bd61ce4f7bd7298d47e957b4798a2]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d7bd61ce4f7bd7298d47e957b4798a2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2014/290/regulation/24) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-9d7bd61ce4f7bd7298d47e957b4798a2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2014/290/regulation/24) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

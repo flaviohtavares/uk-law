@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128A. Pay and related conditions: Northern Ireland[^key-4f2c8c28acfb6c40bcbdc7616db14ef1]
+## 128A. Pay and related conditions: Northern Ireland[^c-4f2c8c28acfb6c40bcbdc7616db14ef1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f2c8c28acfb6c40bcbdc7616db14ef1]: Textual amendment: [S. 128A](https://www.legislation.gov.uk/ukpga/1994/33/section/128A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2010/976/schedule/7/paragraph/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-4f2c8c28acfb6c40bcbdc7616db14ef1]: Textual amendment: [S. 128A](https://www.legislation.gov.uk/ukpga/1994/33/section/128A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2010/976/schedule/7/paragraph/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — FINANCIAL ASSESSMENT[^key-6ad839f5ae7d11b3b7a344b19c372438]
+## SCHEDULE 5 — FINANCIAL ASSESSMENT[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Regulation 63
 
-### 1. Definitions[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 1. Definitions[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Independent eligible student[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 2. Independent eligible student[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Household income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 3. Household income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Calculation of eligible student’s residual income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 4. Calculation of eligible student’s residual income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Calculation of parent’s residual income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 5. Calculation of parent’s residual income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Calculation of eligible student’s partner’s residual income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 6. Calculation of eligible student’s partner’s residual income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Calculation of parent’s partner’s residual income[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 7. Calculation of parent’s partner’s residual income[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Calculation of contribution — old system eligible students[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 8. Calculation of contribution — old system eligible students[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Calculation of contribution — new system eligible students[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 9. Calculation of contribution — new system eligible students[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Split contributions[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 10. Split contributions[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))
+[^c-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))

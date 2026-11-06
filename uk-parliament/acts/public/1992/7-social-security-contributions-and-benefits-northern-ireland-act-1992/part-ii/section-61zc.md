@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61ZC. Entitlement to more than one pension: sections 61ZA and 61ZB[^key-123f9c0c22a08be1593f9b8412f3f301]
+## 61ZC. Entitlement to more than one pension: sections 61ZA and 61ZB[^c-123f9c0c22a08be1593f9b8412f3f301]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-123f9c0c22a08be1593f9b8412f3f301]: Textual amendment: [Ss. 61ZA-61ZC](https://www.legislation.gov.uk/ukpga/1992/7/section/61ZA) inserted (12.10.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 15 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/15/paragraph/6); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/329/article/2/3)
+[^c-123f9c0c22a08be1593f9b8412f3f301]: Textual amendment: [Ss. 61ZA-61ZC](https://www.legislation.gov.uk/ukpga/1992/7/section/61ZA) inserted (12.10.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 15 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/15/paragraph/6); [S.R. 2015/329](https://www.legislation.gov.uk/nisr/2015/329), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/329/article/2/3)

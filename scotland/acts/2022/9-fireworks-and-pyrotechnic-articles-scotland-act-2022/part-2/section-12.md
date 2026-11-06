@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Revocation of fireworks licence[^key-ea33962dc15f332dc7c4e4a57d20b503]
+## 12. Revocation of fireworks licence[^c-ea33962dc15f332dc7c4e4a57d20b503]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ pending the determination or withdrawal of the appeal.
 
 ## Annotations
 
-[^key-ea33962dc15f332dc7c4e4a57d20b503]: Commencement: S. 12 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-ea33962dc15f332dc7c4e4a57d20b503]: Commencement: S. 12 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

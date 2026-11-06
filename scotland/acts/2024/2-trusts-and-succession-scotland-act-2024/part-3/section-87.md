@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Repeals[^key-792e3a22f813159bb8fbcc40c1bf75ee][^key-7d9bfd0f96f9e046aeabeb389a2f2146]
+## 87. Repeals[^c-792e3a22f813159bb8fbcc40c1bf75ee][^c-7d9bfd0f96f9e046aeabeb389a2f2146]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The enactments mentioned in schedule 2 are repealed to the extent mentioned in t
 
 ## Annotations
 
-[^key-792e3a22f813159bb8fbcc40c1bf75ee]: Commencement: S. 87 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-792e3a22f813159bb8fbcc40c1bf75ee]: Commencement: S. 87 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-7d9bfd0f96f9e046aeabeb389a2f2146]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2024/2/section/87) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-7d9bfd0f96f9e046aeabeb389a2f2146]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2024/2/section/87) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

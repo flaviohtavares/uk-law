@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Supervision of former salary related contracted-out schemes[^key-65a53ce8a69d0dbe60b09df543649d45]
+## 48. Supervision of former salary related contracted-out schemes[^c-65a53ce8a69d0dbe60b09df543649d45]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Section 49 shall apply for the purpose of making provision for securing the cont
 
 ## Annotations
 
-[^key-65a53ce8a69d0dbe60b09df543649d45]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1993/49/section/48) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 35](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/35)
+[^c-65a53ce8a69d0dbe60b09df543649d45]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1993/49/section/48) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 35](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/35)

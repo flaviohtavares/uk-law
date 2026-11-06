@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Transitory provision: temporary exemption[^key-4dd37794eaf4e58d5c31d14350ed56ef]
+## 113. Transitory provision: temporary exemption[^c-4dd37794eaf4e58d5c31d14350ed56ef]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd37794eaf4e58d5c31d14350ed56ef]: Commencement: [Reg. 113](https://www.legislation.gov.uk/ssi/2016/49/regulation/113) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-4dd37794eaf4e58d5c31d14350ed56ef]: Commencement: [Reg. 113](https://www.legislation.gov.uk/ssi/2016/49/regulation/113) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

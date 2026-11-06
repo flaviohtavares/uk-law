@@ -31,7 +31,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Transitional Provision) (England) Regulations 2021 (revoked)[^key-93386d32e573497ba2b3866acd0ad36f]
+The Agricultural Holdings (Transitional Provision) (England) Regulations 2021 (revoked)[^c-93386d32e573497ba2b3866acd0ad36f]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into force
 
 17th March 2021
 
-[^key-93386d32e573497ba2b3866acd0ad36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93386d32e573497ba2b3866acd0ad36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-93386d32e573497ba2b3866acd0ad36f]
+## 1. Citation, commencement and application[^c-93386d32e573497ba2b3866acd0ad36f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provision[^key-93386d32e573497ba2b3866acd0ad36f]
+## 2. Transitional provision[^c-93386d32e573497ba2b3866acd0ad36f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93386d32e573497ba2b3866acd0ad36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93386d32e573497ba2b3866acd0ad36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93386d32e573497ba2b3866acd0ad36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93386d32e573497ba2b3866acd0ad36f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93386d32e573497ba2b3866acd0ad36f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/324) revoked (1.9.2024) by [The Agricultural Holdings (Requests for Landlord’s Consent or Variation of Terms and the Suitability Test) (England) Regulations 2021 (S.I. 2021/619)](https://www.legislation.gov.uk/uksi/2021/619), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2021/619/regulation/7)
+[^c-93386d32e573497ba2b3866acd0ad36f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/324) revoked (1.9.2024) by [The Agricultural Holdings (Requests for Landlord’s Consent or Variation of Terms and the Suitability Test) (England) Regulations 2021 (S.I. 2021/619)](https://www.legislation.gov.uk/uksi/2021/619), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/619/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2021/619/regulation/7)

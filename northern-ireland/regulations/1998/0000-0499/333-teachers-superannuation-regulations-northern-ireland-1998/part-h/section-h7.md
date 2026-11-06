@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H7. Revocations, savings and transitional provisions[^key-2e03d22eeccbfe1c892d1edd0cca7ae7]
+## H7. Revocations, savings and transitional provisions[^c-2e03d22eeccbfe1c892d1edd0cca7ae7]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e03d22eeccbfe1c892d1edd0cca7ae7]: Commencement: Reg. H7 in operation at 2.11.1998, see reg. A1
+[^c-2e03d22eeccbfe1c892d1edd0cca7ae7]: Commencement: Reg. H7 in operation at 2.11.1998, see reg. A1
 
 [^f00035]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

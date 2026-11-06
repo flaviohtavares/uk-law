@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Facilities for collection of tolls.[^key-629e0440d5b1332233fead68f481de40]
+## 16. Facilities for collection of tolls.[^c-629e0440d5b1332233fead68f481de40]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ The consent of the highway authority is required for the setting up of any such 
 
 ## Annotations
 
-[^key-629e0440d5b1332233fead68f481de40]: Modification: [Ss. 7-18](https://www.legislation.gov.uk/ukpga/1991/22/section/7) modified (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 80](https://www.legislation.gov.uk/asc/2024/3/section/80), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-629e0440d5b1332233fead68f481de40]: Modification: [Ss. 7-18](https://www.legislation.gov.uk/ukpga/1991/22/section/7) modified (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 80](https://www.legislation.gov.uk/asc/2024/3/section/80), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
 
 [^c14148481]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).

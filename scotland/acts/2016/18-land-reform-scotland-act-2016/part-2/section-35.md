@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Protection from actions for defamation[^key-b1e93d27e4bcd2ecbd430f08f190e832]
+## 35. Protection from actions for defamation[^c-b1e93d27e4bcd2ecbd430f08f190e832]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e93d27e4bcd2ecbd430f08f190e832]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/18/section/35) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-b1e93d27e4bcd2ecbd430f08f190e832]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/18/section/35) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

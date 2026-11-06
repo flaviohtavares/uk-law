@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Qualifying conditions for the maintenance grant[^key-790212e9edfb6edb81d921eb45667e97]
+## 58. Qualifying conditions for the maintenance grant[^c-790212e9edfb6edb81d921eb45667e97]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-790212e9edfb6edb81d921eb45667e97]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2007/195/regulation/58) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-790212e9edfb6edb81d921eb45667e97]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2007/195/regulation/58) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

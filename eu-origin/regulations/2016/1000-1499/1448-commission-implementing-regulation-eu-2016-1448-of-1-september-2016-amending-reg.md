@@ -33,22 +33,22 @@ of 1 September 2016
 
 amending Regulation (EC) No 874/2009 establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards proceedings before the Community Plant Variety Office (revoked)
 
-[^key-1cc6d4d9faa57b35d359d2e8a6461183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc6d4d9faa57b35d359d2e8a6461183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment of Regulation (EC) No 874/2009[^key-1cc6d4d9faa57b35d359d2e8a6461183]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-1cc6d4d9faa57b35d359d2e8a6461183]
+## Article 1. Amendment of Regulation (EC) No 874/2009[^c-1cc6d4d9faa57b35d359d2e8a6461183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1cc6d4d9faa57b35d359d2e8a6461183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-1cc6d4d9faa57b35d359d2e8a6461183]
 
-## ANNEX[^key-1cc6d4d9faa57b35d359d2e8a6461183]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1cc6d4d9faa57b35d359d2e8a6461183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-1cc6d4d9faa57b35d359d2e8a6461183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cc6d4d9faa57b35d359d2e8a6461183]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cc6d4d9faa57b35d359d2e8a6461183]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 891. Realisation and acquisition of fungible assets[^key-22e6aa7a981d82641de3d093c2846153]
+## 891. Realisation and acquisition of fungible assets[^c-22e6aa7a981d82641de3d093c2846153]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e6aa7a981d82641de3d093c2846153]: Textual amendment: S. 891 omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(9)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/9)
+[^c-22e6aa7a981d82641de3d093c2846153]: Textual amendment: S. 891 omitted (with effect in accordance with s. 31(14)(15) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(9)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/9)

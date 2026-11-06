@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN AND IN WHICH ONLY RIGHTS ETC MAY BE ACQUIRED[^key-c5d8cb26ebdff172d96e1437ea77034c]
+## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN AND IN WHICH ONLY RIGHTS ETC MAY BE ACQUIRED[^c-c5d8cb26ebdff172d96e1437ea77034c]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ Articles 22 and 28
 
 ## Annotations
 
-[^key-c5d8cb26ebdff172d96e1437ea77034c]: Commencement: Sch. 5 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-c5d8cb26ebdff172d96e1437ea77034c]: Commencement: Sch. 5 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Review of decision to impose a suspension under section 110 of the 2006 Act or a contingent removal under section 108 of the 2006 Act[^key-c61b8ed0eaf89afe60c2f4ad1e980ae5]
+## 43. Review of decision to impose a suspension under section 110 of the 2006 Act or a contingent removal under section 108 of the 2006 Act[^c-c61b8ed0eaf89afe60c2f4ad1e980ae5]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c61b8ed0eaf89afe60c2f4ad1e980ae5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2020/1073/regulation/43) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-c61b8ed0eaf89afe60c2f4ad1e980ae5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2020/1073/regulation/43) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
 
 [^f00034]: Footnote: Note there is no right of appeal to the Tribunal against a decision to suspend a practitioner or to review a decision on suspension. However, there is a right of appeal to the Tribunal against any decision of a Local Health Board on a review of a contingent removal under section 113 of the 2006 Act. See section 114 of the 2006 Act.

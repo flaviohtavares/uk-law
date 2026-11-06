@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Defence statements[^key-e4b21c45581ab556b150d0a41533c523]
+## 70A. Defence statements[^c-e4b21c45581ab556b150d0a41533c523]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b21c45581ab556b150d0a41533c523]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/1995/46/section/70A) inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 124(3)](https://www.legislation.gov.uk/asp/2010/13/section/124/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) (with [s. 124(1)](https://www.legislation.gov.uk/asp/2010/13/section/124/1)); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-e4b21c45581ab556b150d0a41533c523]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/1995/46/section/70A) inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 124(3)](https://www.legislation.gov.uk/asp/2010/13/section/124/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) (with [s. 124(1)](https://www.legislation.gov.uk/asp/2010/13/section/124/1)); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

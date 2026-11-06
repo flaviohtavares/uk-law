@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Application and interpretation[^key-9c14b6df34088e764dac7013d25795cf]
+## 132. Application and interpretation[^c-9c14b6df34088e764dac7013d25795cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) any aeroplane equipped with one or more turbojet engines;
 - (c) any aeroplane having a maximum approved passenger seating configuration of more than 9;
 - (d) any helicopter having a maximum certificated take-off weight exceeding 3175 kg;
-- (e) any helicopter having a maximum approved passenger seating configuration of more than 9[^key-6ed640d785313ff21bb65e4dde8471f3];
+- (e) any helicopter having a maximum approved passenger seating configuration of more than 9[^c-6ed640d785313ff21bb65e4dde8471f3];
 - (f) any aircraft operation involving the use of three or more aircraft that are operated by pilots employed by the operator for the purpose of flying the aircraft; or
 - (g) any other general aviation operation that the Governor may in the public interest specify.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c14b6df34088e764dac7013d25795cf]: Commencement: [Art. 132](https://www.legislation.gov.uk/uksi/2013/2870/article/132) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-9c14b6df34088e764dac7013d25795cf]: Commencement: [Art. 132](https://www.legislation.gov.uk/uksi/2013/2870/article/132) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-6ed640d785313ff21bb65e4dde8471f3]: Textual amendment: Word in [art. 132(2)(e)](https://www.legislation.gov.uk/uksi/2013/2870/article/132/2/e) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [14](https://www.legislation.gov.uk/uksi/2021/755/article/14)
+[^c-6ed640d785313ff21bb65e4dde8471f3]: Textual amendment: Word in [art. 132(2)(e)](https://www.legislation.gov.uk/uksi/2013/2870/article/132/2/e) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [14](https://www.legislation.gov.uk/uksi/2021/755/article/14)

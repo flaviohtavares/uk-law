@@ -41,7 +41,7 @@ summary: ''
 
 When considering an application for permission under section 216, the court may call on the liquidator, or any former liquidator, of the liquidating company for a report of the circumstances in which the company became insolvent and the extent (if any) of the applicant's apparent responsibility for its doing so.
 
-## 22.4. First excepted case[^key-aebf29fd1b763724ed027f56f5f9ab6a][^key-894adb9a5799b61d720477babec51c4b]
+## 22.4. First excepted case[^c-aebf29fd1b763724ed027f56f5f9ab6a][^c-894adb9a5799b61d720477babec51c4b]
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ When considering an application for permission under section 216, the court may 
 
 (5) Notice may not be given under this rule by a person who has already acted in breach of section 216.
 
-## 22.5. Statement as to the effect of the notice under rule 22.4(2)[^key-aebf29fd1b763724ed027f56f5f9ab6a]
+## 22.5. Statement as to the effect of the notice under rule 22.4(2)[^c-aebf29fd1b763724ed027f56f5f9ab6a]
 
 *Extent: E+W*
 
@@ -104,7 +104,7 @@ The purpose of giving this notice is to permit the director to act in these circ
 
 Notice may be given where the person giving the notice is already the director of a company which proposes to adopt a prohibited name.”
 
-## 22.6. Second excepted case[^key-cf65ea9f5c3549b7f968d7800adb1fb1]
+## 22.6. Second excepted case[^c-cf65ea9f5c3549b7f968d7800adb1fb1]
 
 *Extent: E+W*
 
@@ -123,10 +123,10 @@ The court's permission under section 216(3) is not required where the company th
 
 ## Annotations
 
-[^key-aebf29fd1b763724ed027f56f5f9ab6a]: Modification: [Rules 22.4](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.4), [22.5](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.5) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [149](https://www.legislation.gov.uk/uksi/2024/229/rule/149), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-aebf29fd1b763724ed027f56f5f9ab6a]: Modification: [Rules 22.4](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.4), [22.5](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.5) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [149](https://www.legislation.gov.uk/uksi/2024/229/rule/149), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-894adb9a5799b61d720477babec51c4b]: Modification: [Rule 22.4](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.4) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/4)
+[^c-894adb9a5799b61d720477babec51c4b]: Modification: [Rule 22.4](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.4) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/4)
 
-[^key-cf65ea9f5c3549b7f968d7800adb1fb1]: Modification: [Rule 22.6](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.6) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/4)
+[^c-cf65ea9f5c3549b7f968d7800adb1fb1]: Modification: [Rule 22.6](https://www.legislation.gov.uk/uksi/2016/1024/rule/22.6) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/4)
 
 [^c23177731]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46); [section 1169](https://www.legislation.gov.uk/uksi/2016/1024/section/1169) is amended by regulation 53 of [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Guidance[^key-bb47f6e4835afa5d4027cd86ff573cb3]
+## 55. Guidance[^c-bb47f6e4835afa5d4027cd86ff573cb3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb47f6e4835afa5d4027cd86ff573cb3]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/55/section/55) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-bb47f6e4835afa5d4027cd86ff573cb3]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/55/section/55) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

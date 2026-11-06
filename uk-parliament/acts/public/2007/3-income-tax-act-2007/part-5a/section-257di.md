@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257DI. The gross assets requirement[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257DI. The gross assets requirement[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
 [^M_F_ed993783-6e30-4809-f36c-f398fbedc1b6]: Textual amendment: Sum in s. 257DI(1) substituted (6.4.2023 in relation to shares issued on or after that date) by [Finance Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/15/3/a)[(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/15/7)
 

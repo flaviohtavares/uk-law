@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Appointment of liquidators etc.[^key-66d5fcbd7361937fe8f9acd5d05eaa1f]
+## 41. Appointment of liquidators etc.[^c-66d5fcbd7361937fe8f9acd5d05eaa1f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66d5fcbd7361937fe8f9acd5d05eaa1f]: Commencement: Reg. 41 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-66d5fcbd7361937fe8f9acd5d05eaa1f]: Commencement: Reg. 41 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

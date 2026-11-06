@@ -272,7 +272,7 @@ In Article 10 of the Wildlife Order (protection of certain wild animals) after p
 
 .
 
-### 11. Spring traps[^key-bd92b16383e7b2c91d872cd1a1df6270][^key-91979d8152234cb73a3ebba8755fd2ad]
+### 11. Spring traps[^c-bd92b16383e7b2c91d872cd1a1df6270][^c-91979d8152234cb73a3ebba8755fd2ad]
 
 (1) After Article 12 of the Wildlife Order insert—
 
@@ -1364,7 +1364,7 @@ Section 39.
 
 Section 39.
 
-### PART 1 — WILDLIFE[^key-4bd103262061cce85b465aa415bec405][^c22529021]
+### PART 1 — WILDLIFE[^c-4bd103262061cce85b465aa415bec405][^c22529021]
 
 | Short Title | Extent of repeal |
 | --- | --- |
@@ -1398,14 +1398,14 @@ Section 39.
 
 ## Annotations
 
-[^key-bd92b16383e7b2c91d872cd1a1df6270]: Commencement: S. 11 in operation at 30.1.2012 for specified purposes by [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/21/article/2/1)
+[^c-bd92b16383e7b2c91d872cd1a1df6270]: Commencement: S. 11 in operation at 30.1.2012 for specified purposes by [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/21/article/2/1)
 
-[^key-91979d8152234cb73a3ebba8755fd2ad]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/15/section/11) in operation at 12.3.2012 in so far as not already in operation by [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/a)
+[^c-91979d8152234cb73a3ebba8755fd2ad]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/15/section/11) in operation at 12.3.2012 in so far as not already in operation by [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/a)
 
 [^c22529051]: Subordinate legislation: [S. 40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1) power partly exercised: 13.6.2011 appointed by [S.R. 2011/215](https://www.legislation.gov.uk/nisr/2011/215), [art. 2](https://www.legislation.gov.uk/nisr/2011/215/article/2);
 
     17.8.2011 appointed by [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-4bd103262061cce85b465aa415bec405]: Commencement: Sch. 3 Pt. 1 in operation at 12.3.2012 in so far as not already in operation by [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/b)
+[^c-4bd103262061cce85b465aa415bec405]: Commencement: Sch. 3 Pt. 1 in operation at 12.3.2012 in so far as not already in operation by [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/b)
 
 [^c22529021]: Commencement: Sch. 3 Pt. 1 partly in operation; Sch. 3 Pt. 1 not in operation at Royal Assent, see s. 40(1); Sch. 3 Pt. 1 in operation for certain purposes at 17.8.2011 by [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)

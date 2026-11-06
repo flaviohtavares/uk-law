@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where the occasions specified in a code for the publication of any description of information recur not more ofter than once a year, the Secretary of State may make regulations requiring authorities to publish information of that description on the occasions specified in the code, if in his opinion it is necessary to make such regulations in order to ensure that authorities publish information of that description on those occasions.
 
-(4)[^key-40bd01c2b7e1b89da1174b67af2fa6d6][^key-0f45e0f512cb81b025d0d07af0707d38] Where the occasions specified in a code for the publication of any description of information recur more often than once a year, the Secretary of State may make regulations requiring authorities to publish information on the occasions specified in the code if—
+(4)[^c-40bd01c2b7e1b89da1174b67af2fa6d6][^c-0f45e0f512cb81b025d0d07af0707d38] Where the occasions specified in a code for the publication of any description of information recur more often than once a year, the Secretary of State may make regulations requiring authorities to publish information on the occasions specified in the code if—
 
 - (a) the information is of a description to which this subsection applies; and
 - (b) in his opinion it is necessary to make such regulations in order to ensure that authorities publish information of that description on the occasions specified in the code.
@@ -53,9 +53,9 @@ summary: ''
 
 ## Annotations
 
-[^key-40bd01c2b7e1b89da1174b67af2fa6d6]: Modification: S. 3(4) applied (E.) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Local Government (Transparency) (Descriptions of Information) (England) Order 2014 (S.I. 2014/2060)](https://www.legislation.gov.uk/uksi/2014/2060), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2060/article/1/1), [2](https://www.legislation.gov.uk/uksi/2014/2060/article/2)
+[^c-40bd01c2b7e1b89da1174b67af2fa6d6]: Modification: S. 3(4) applied (E.) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Local Government (Transparency) (Descriptions of Information) (England) Order 2014 (S.I. 2014/2060)](https://www.legislation.gov.uk/uksi/2014/2060), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2060/article/1/1), [2](https://www.legislation.gov.uk/uksi/2014/2060/article/2)
 
-[^key-0f45e0f512cb81b025d0d07af0707d38]: Modification: S. 3(4) applied (coming into force in accordance with art. 1 of the amending S.I.) by [The Local Government (Transparency) (Descriptions of Information) (England) Order 2015 (S.I. 2015/471)](https://www.legislation.gov.uk/uksi/2015/471), [arts. 1](https://www.legislation.gov.uk/uksi/2015/471/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/471/article/2/1)
+[^c-0f45e0f512cb81b025d0d07af0707d38]: Modification: S. 3(4) applied (coming into force in accordance with art. 1 of the amending S.I.) by [The Local Government (Transparency) (Descriptions of Information) (England) Order 2015 (S.I. 2015/471)](https://www.legislation.gov.uk/uksi/2015/471), [arts. 1](https://www.legislation.gov.uk/uksi/2015/471/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/471/article/2/1)
 
 [^c13865841]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 44(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/1)
 

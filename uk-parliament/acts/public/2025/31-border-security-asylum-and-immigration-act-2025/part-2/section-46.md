@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Conditions on limited leave to enter or remain and immigration bail[^key-6259e86a8581c7fb02636c4749ebc33b][^key-2e53ba950b49aa7129c6c3f9a32e3a00]
+## 46. Conditions on limited leave to enter or remain and immigration bail[^c-6259e86a8581c7fb02636c4749ebc33b][^c-2e53ba950b49aa7129c6c3f9a32e3a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6259e86a8581c7fb02636c4749ebc33b]: Commencement: S. 46 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-6259e86a8581c7fb02636c4749ebc33b]: Commencement: S. 46 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-2e53ba950b49aa7129c6c3f9a32e3a00]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2025/31/section/46) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/f)
+[^c-2e53ba950b49aa7129c6c3f9a32e3a00]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2025/31/section/46) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/f)

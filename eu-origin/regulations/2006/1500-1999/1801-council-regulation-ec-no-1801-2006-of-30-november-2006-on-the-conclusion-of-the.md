@@ -28,7 +28,7 @@ summary: ''
 
 **No longer in force.**
 
-[^key-0fc3fcea68be08050a18d73568356032]Council Regulation (EC) No 1801/2006
+[^c-0fc3fcea68be08050a18d73568356032]Council Regulation (EC) No 1801/2006
 
 of 30 November 2006
 
@@ -36,18 +36,18 @@ on the conclusion of the Fisheries Partnership Agreement between the European Co
 
 **No longer in force.**
 
-**Article 1.**[^key-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-0fc3fcea68be08050a18d73568356032] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fc3fcea68be08050a18d73568356032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fc3fcea68be08050a18d73568356032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fc3fcea68be08050a18d73568356032]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-0fc3fcea68be08050a18d73568356032]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Safety duties protecting children[^key-6592fb2cdfd84b453b2a24b5d99a5021][^key-2eae1a2075bbcfd3a7a45f76e32f8884]
+## 29. Safety duties protecting children[^c-6592fb2cdfd84b453b2a24b5d99a5021][^c-2eae1a2075bbcfd3a7a45f76e32f8884]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ Additional duty for Category 2A services
 
 ## Annotations
 
-[^key-6592fb2cdfd84b453b2a24b5d99a5021]: Commencement: S. 29 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6592fb2cdfd84b453b2a24b5d99a5021]: Commencement: S. 29 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2eae1a2075bbcfd3a7a45f76e32f8884]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/50/section/29) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-2eae1a2075bbcfd3a7a45f76e32f8884]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/50/section/29) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)

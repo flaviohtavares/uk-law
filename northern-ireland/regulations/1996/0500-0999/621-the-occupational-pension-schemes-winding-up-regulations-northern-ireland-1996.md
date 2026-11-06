@@ -44,7 +44,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Preliminary
 
-### 1. Citation, commencement and interpretation[^key-490a0837c80082a071299d48ed5ae282]
+### 1. Citation, commencement and interpretation[^c-490a0837c80082a071299d48ed5ae282]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
@@ -66,7 +66,7 @@ and other expressions have the same meaning as in Part II of the Order.
 
 (7) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-### 2. Commencement of winding up[^key-21ba3d85cea199c111b728bc0e540e6e]
+### 2. Commencement of winding up[^c-21ba3d85cea199c111b728bc0e540e6e]
 
 (1) For the purposes of these Regulations, the time when a scheme begins to be wound up shall be determined in accordance with paragraphs (2) to (5).
 
@@ -94,7 +94,7 @@ the scheme begins to be wound up at the time specified in the order or, if none 
 
 ## Preferential Liabilities on Winding Up
 
-### 3. Modification of Article 73[^key-66f93c1fc886faeb4dbaf524fed82ec3]
+### 3. Modification of Article 73[^c-66f93c1fc886faeb4dbaf524fed82ec3]
 
 (1) Article 73(3) applies—
 
@@ -145,7 +145,7 @@ and in this paragraph “the schedule period” has the same meaning as in regul
 
 (8) In the case of any scheme to which Article 73(3) applies with the modifications mentioned in paragraphs (5) and (6), regulations 7(3)(*b*)(iv) and 8(4) of the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00008] shall have effect with the insertion after “(*c*)(i)” of “, (*e*)” and with the substitution for “(*d*)” of “(*f*)”.
 
-### 4. Calculation of amounts of liabilities[^key-af5d5fd439595d104b51442b007d982a]
+### 4. Calculation of amounts of liabilities[^c-af5d5fd439595d104b51442b007d982a]
 
 (1) Subject to paragraphs (4) and (5), for the purposes of Article 73(2) the amounts of the liabilities mentioned in Article 73(3) shall be calculated and verified by the actuary of the scheme—
 
@@ -183,7 +183,7 @@ and in this paragraph “the schedule period” has the same meaning as in regul
 
 the date when that time occurs is the crystallisation date.
 
-### 5. Modification of schemes to fix time for settling priority of liabilities on winding up[^key-1324b901892ad7607ce2fab5e1236b5a]
+### 5. Modification of schemes to fix time for settling priority of liabilities on winding up[^c-1324b901892ad7607ce2fab5e1236b5a]
 
 (1) The trustees of a trust scheme may by resolution modify the scheme with a view to fixing or providing for the fixing of the time when the sub-paragraph of Article 73(3) into which the liability in respect of any person falls is to be determined for the purposes of Article 73(2) and (3) or of any priority rule of the scheme, in the event of a determination (whether in pursuance of Article 38 or otherwise) that the scheme is not for the time being to be wound up, despite rules otherwise requiring it to be so.
 
@@ -196,7 +196,7 @@ the date when that time occurs is the crystallisation date.
 
 ## Discharge of Liabilities by Insurance, Etc.
 
-### 6. Arrangements for discharge of liabilities under Article 74[^key-6d96b83fd859a812206a5d34e03e3d3b]
+### 6. Arrangements for discharge of liabilities under Article 74[^c-6d96b83fd859a812206a5d34e03e3d3b]
 
 (1) For the purposes of Article 74(2), the arrangements with which the trustees or managers of a scheme must comply in providing for the discharge of a liability under that Article are as follows.
 
@@ -221,7 +221,7 @@ the date when that time occurs is the crystallisation date.
 
 they may discharge the liability in pursuance of the election without complying with those paragraphs again.
 
-### 7. Requirements applicable to notices of discharge under regulation 6[^key-89a5781d1ec308a4f16e87c49c66a69a]
+### 7. Requirements applicable to notices of discharge under regulation 6[^c-89a5781d1ec308a4f16e87c49c66a69a]
 
 (1) A notice under regulation 6(2)(*a*) (“a discharge notice”) must specify—
 
@@ -273,7 +273,7 @@ they may discharge the liability in pursuance of the election without complying 
 - (a) the trustees or managers know no such address as is mentioned in paragraph (9) for him; or
 - (b) correspondence sent to the address at which he was last known by them to be living has been returned.
 
-### 8. Requirements to be satisfied by transferee schemes, annuities, etc.[^key-95ea184ca9364152594559b861d2a663]
+### 8. Requirements to be satisfied by transferee schemes, annuities, etc.[^c-95ea184ca9364152594559b861d2a663]
 
 (1) For the purpose of Article 74(3)(*a*) (discharge of liability to or in respect of a member by the acquisition of transfer credits under another occupational pension scheme), the requirements to be satisfied by the other scheme are the same as those which would apply by virtue of section 91(2)(*a*) of the Act (ways of taking right to cash equivalent) if—
 
@@ -298,13 +298,13 @@ they may discharge the liability in pursuance of the election without complying 
 
 and in this paragraph “State scheme rights” has the same meaning as in paragraph 5(3B) of Schedule 1 to the Act.
 
-### 9. Relationship of these Regulations and requirements under section 28A of the Act[^key-5f36371d780cb12c4d39d34b58eb27c3]
+### 9. Relationship of these Regulations and requirements under section 28A of the Act[^c-5f36371d780cb12c4d39d34b58eb27c3]
 
 In any case where the liability to or in respect of the member is a liability in respect of protected rights, nothing in regulations 6 to 8 affects any requirements imposed by or under section 28A of the Act[^f00011] (discharge of protected rights on winding up: insurance policies) or any rules of the scheme reflecting those requirements.
 
 ## Power to Defer Winding Up
 
-### 10. Disapplication of Article 38[^key-0a4e7b207510b410a1a2dd933ef5b3bc]
+### 10. Disapplication of Article 38[^c-0a4e7b207510b410a1a2dd933ef5b3bc]
 
 (1) Article 38 does not apply—
 
@@ -335,7 +335,7 @@ In any case where the liability to or in respect of the member is a liability in
 - “section 615(6) scheme” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Taxes Act 1988;
 - “small self-administered scheme” has the meaning given in regulation 2(1) of the Retirement Benefits Schemes (Restriction on Discretion to Approve) (Small Self-administered Schemes) Regulations 1991[^f00013].
 
-### 11. Records and information[^key-0ebf6ce7216bf3e9f91bc47fe06f252b]
+### 11. Records and information[^c-0ebf6ce7216bf3e9f91bc47fe06f252b]
 
 (1) The trustees of any trust scheme or any other persons with power in respect of any such scheme to make a determination—
 
@@ -361,7 +361,7 @@ before the expiry of the period of 28 days beginning on the date on which the no
 
 ## Modifications Affecting Certain Schemes
 
-### 12. Winding up of sectionalised schemes, etc.[^key-2b6b0550c48aea53c8176f14ea6dfafa]
+### 12. Winding up of sectionalised schemes, etc.[^c-2b6b0550c48aea53c8176f14ea6dfafa]
 
 (1) Where Article 56 applies to a salary related occupational pension scheme as if different parts of the scheme were separate schemes, Article 73 shall apply where such a part of the scheme is being wound up as it applies where the whole of a scheme is being wound up, but—
 
@@ -374,7 +374,7 @@ before the expiry of the period of 28 days beginning on the date on which the no
 
 (4) Where any provision of this regulation applies in relation to a scheme, then references to the scheme and its members in the provisions of other regulations shall be construed accordingly.
 
-### 13. Hybrid schemes[^key-0913ba14acd8555a72385ff5ce38473d]
+### 13. Hybrid schemes[^c-0913ba14acd8555a72385ff5ce38473d]
 
 (1) In relation to any scheme—
 
@@ -451,7 +451,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: [S.I.1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-490a0837c80082a071299d48ed5ae282]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-490a0837c80082a071299d48ed5ae282]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570)
 
@@ -459,9 +459,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-21ba3d85cea199c111b728bc0e540e6e]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-21ba3d85cea199c111b728bc0e540e6e]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
-[^key-66f93c1fc886faeb4dbaf524fed82ec3]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-66f93c1fc886faeb4dbaf524fed82ec3]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00006]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6); section 56 was repealed by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38) but continued in force by regulation 3 of, and Schedule 1 to, [S.R.1975 No. 48](https://www.legislation.gov.uk/nisr/1975/48)
 
@@ -469,34 +469,34 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00008]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619)
 
-[^key-af5d5fd439595d104b51442b007d982a]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-af5d5fd439595d104b51442b007d982a]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
-[^key-1324b901892ad7607ce2fab5e1236b5a]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-1324b901892ad7607ce2fab5e1236b5a]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
-[^key-6d96b83fd859a812206a5d34e03e3d3b]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-6d96b83fd859a812206a5d34e03e3d3b]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); regulation 12 was amended by regulation 35 of [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), regulation 2 of [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324), paragraph 26(16) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300), regulation 3(4) of [S.R. 1995 No. 441](https://www.legislation.gov.uk/nisr/1995/441) and regulation 2(7) of [S.R. 1996 No. 620](https://www.legislation.gov.uk/nisr/1996/620)
 
-[^key-89a5781d1ec308a4f16e87c49c66a69a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-89a5781d1ec308a4f16e87c49c66a69a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
-[^key-95ea184ca9364152594559b861d2a663]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-95ea184ca9364152594559b861d2a663]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00010]: Footnote: Paragraph 5(3B) was inserted by Article 138(2)(*b*) of the Pensions (Northern Ireland) Order 1995
 
-[^key-5f36371d780cb12c4d39d34b58eb27c3]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-5f36371d780cb12c4d39d34b58eb27c3]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00011]: Footnote: Section 28A was inserted by Article 143(1) of the Pensions (Northern Ireland) Order 1995
 
-[^key-0a4e7b207510b410a1a2dd933ef5b3bc]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-0a4e7b207510b410a1a2dd933ef5b3bc]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00012]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
 [^f00013]: Footnote: [S.I.1991/1614](https://www.legislation.gov.uk/uksi/1991/1614)
 
-[^key-0ebf6ce7216bf3e9f91bc47fe06f252b]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-0ebf6ce7216bf3e9f91bc47fe06f252b]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
-[^key-2b6b0550c48aea53c8176f14ea6dfafa]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-2b6b0550c48aea53c8176f14ea6dfafa]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
-[^key-0913ba14acd8555a72385ff5ce38473d]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
+[^c-0913ba14acd8555a72385ff5ce38473d]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/621/regulation/1/1)
 
 [^f00014]: Footnote: Copies of GN 27 may be obtained from the Faculty of Actuaries, 17 Thistle Street, Edinburgh EH2 1DF

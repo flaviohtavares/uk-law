@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Exercise of functions by the Department of Justice[^key-f1e17758429a06e8422d5be6f928be58]
+## 117A. Exercise of functions by the Department of Justice[^c-f1e17758429a06e8422d5be6f928be58]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e17758429a06e8422d5be6f928be58]: Textual amendment: [S. 117A](https://www.legislation.gov.uk/ukpga/1994/33/section/117A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2010/976/schedule/7/paragraph/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-f1e17758429a06e8422d5be6f928be58]: Textual amendment: [S. 117A](https://www.legislation.gov.uk/ukpga/1994/33/section/117A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2010/976/schedule/7/paragraph/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

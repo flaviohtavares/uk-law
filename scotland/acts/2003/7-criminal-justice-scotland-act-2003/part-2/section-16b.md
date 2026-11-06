@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16B. Person entitled to ask to be given information under section 16A[^key-b3a5d59bfd84bd0eebca3782bb73a4b0]
+## 16B. Person entitled to ask to be given information under section 16A[^c-b3a5d59bfd84bd0eebca3782bb73a4b0]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a5d59bfd84bd0eebca3782bb73a4b0]: Textual amendment: Ss. 16A-16C inserted (15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 55(2)](https://www.legislation.gov.uk/asp/2015/9/section/55/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/b)[(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2017/234/article/2/3) (with [arts. 5-8](https://www.legislation.gov.uk/ssi/2017/234/article/5))
+[^c-b3a5d59bfd84bd0eebca3782bb73a4b0]: Textual amendment: Ss. 16A-16C inserted (15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 55(2)](https://www.legislation.gov.uk/asp/2015/9/section/55/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/b)[(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2017/234/article/2/3) (with [arts. 5-8](https://www.legislation.gov.uk/ssi/2017/234/article/5))

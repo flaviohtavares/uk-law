@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Application and modification of legislative provisions[^key-e7a795c2fb4b1c3747028d90738b1380]
+## 6. Application and modification of legislative provisions[^c-e7a795c2fb4b1c3747028d90738b1380]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e7a795c2fb4b1c3747028d90738b1380]: Commencement: Art. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-e7a795c2fb4b1c3747028d90738b1380]: Commencement: Art. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00029]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 

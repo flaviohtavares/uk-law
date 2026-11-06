@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Maintenance of temporary jetty works[^key-7a0858bbd4f1047ecb4537025dd5f575]
+## 59. Maintenance of temporary jetty works[^c-7a0858bbd4f1047ecb4537025dd5f575]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may at any time maintain the temporary jetty works and from time 
 
 ## Annotations
 
-[^key-7a0858bbd4f1047ecb4537025dd5f575]: Commencement: Art. 59 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-7a0858bbd4f1047ecb4537025dd5f575]: Commencement: Art. 59 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

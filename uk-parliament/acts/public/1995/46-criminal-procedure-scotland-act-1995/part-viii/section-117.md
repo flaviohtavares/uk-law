@@ -42,9 +42,9 @@ the Clerk of Justiciary shall give timeous notice to the Secretary of State, in 
 
 (5) A notice under subsection (4) above shall be sufficient warrant to the Secretary of State for transmitting the appellant or applicant in custody from prison to the place where the diet mentioned in that subsection or any subsequent diet is to be held and for reconveying him to prison at the conclusion of such diet.
 
-(6)[^key-91f38a49edb296e3d17909c42e3ebe31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-91f38a49edb296e3d17909c42e3ebe31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) Where the Lord Advocate is the appellant, subsections (1) to (5)[^key-9585cb3bd28c2d0c7b8335558c0bef0a] above shall apply in respect of the convicted person, if in custody, as they apply to an appellant or applicant in custody.
+(7) Where the Lord Advocate is the appellant, subsections (1) to (5)[^c-9585cb3bd28c2d0c7b8335558c0bef0a] above shall apply in respect of the convicted person, if in custody, as they apply to an appellant or applicant in custody.
 
 (8) The Secretary of State shall, on notice under subsection (4) above from the Clerk of Justiciary, ensure that sufficient male and female prison officers attend each sitting of the court, having regard to the list of appeals for the sitting.
 
@@ -52,6 +52,6 @@ the Clerk of Justiciary shall give timeous notice to the Secretary of State, in 
 
 ## Annotations
 
-[^key-91f38a49edb296e3d17909c42e3ebe31]: Textual amendment: [S. 117(6)](https://www.legislation.gov.uk/ukpga/1995/46/section/117/6) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(2)(a)(i)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/a/i), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-91f38a49edb296e3d17909c42e3ebe31]: Textual amendment: [S. 117(6)](https://www.legislation.gov.uk/ukpga/1995/46/section/117/6) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(2)(a)(i)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/a/i), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
-[^key-9585cb3bd28c2d0c7b8335558c0bef0a]: Textual amendment: Word in [s. 117(7)](https://www.legislation.gov.uk/ukpga/1995/46/section/117/7) substituted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(2)(a)(ii)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/a/ii), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-9585cb3bd28c2d0c7b8335558c0bef0a]: Textual amendment: Word in [s. 117(7)](https://www.legislation.gov.uk/ukpga/1995/46/section/117/7) substituted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(2)(a)(ii)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/a/ii), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Application to Mayoral development corporations outside London[^key-232f02a82448eb3f2e9465cd4080e9eb]
+## 32B. Application to Mayoral development corporations outside London[^c-232f02a82448eb3f2e9465cd4080e9eb]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-232f02a82448eb3f2e9465cd4080e9eb]: Textual amendment: S. 32B inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/21) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-232f02a82448eb3f2e9465cd4080e9eb]: Textual amendment: S. 32B inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/21) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Issues arising in proceedings: contributions, etc[^key-10a1225b02188bd163fb1769d0b86047][^c24147021]
+## 117A. Issues arising in proceedings: contributions, etc[^c-10a1225b02188bd163fb1769d0b86047][^c24147021]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ the decision shall be referred to such an officer to be made in accordance (subj
 
 ## Annotations
 
-[^key-10a1225b02188bd163fb1769d0b86047]: Modification: S. 117A modified by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10A(3)](https://www.legislation.gov.uk/ukpga/2014/7/section/10A/3) (as inserted (with effect in relation to tax arrangements entered into at any time) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/17) (with [s. 157(30)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/30)))
+[^c-10a1225b02188bd163fb1769d0b86047]: Modification: S. 117A modified by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 10A(3)](https://www.legislation.gov.uk/ukpga/2014/7/section/10A/3) (as inserted (with effect in relation to tax arrangements entered into at any time) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/17) (with [s. 157(30)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/30)))
 
 [^c24147021]: Textual amendment: S. 117A inserted (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/1999/2/schedule/7/paragraph/13); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Once NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] has determined whether or not an area is a reserved location under regulation 41(2) or 42(1), it must—
+(1) Once NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] has determined whether or not an area is a reserved location under regulation 41(2) or 42(1), it must—
 
 - (a) give notice of the determination to the person in relation to whose pharmacy premises or proposed pharmacy premises the determination relates, and to the persons notified in accordance with regulation 41(4) or 42(2); and
 - (b) as part of that notice, inform them of—
@@ -44,4 +44,4 @@ that part of that area is not to be part of the reserved location.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

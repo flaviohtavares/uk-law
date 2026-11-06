@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Investigations lasting more than a year[^key-3b84d37a39555df0b181705cb986bec7]
+## 16. Investigations lasting more than a year[^c-3b84d37a39555df0b181705cb986bec7]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b84d37a39555df0b181705cb986bec7]: Commencement: S. 16 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-3b84d37a39555df0b181705cb986bec7]: Commencement: S. 16 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

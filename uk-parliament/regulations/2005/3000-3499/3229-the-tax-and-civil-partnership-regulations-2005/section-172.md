@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172.[^key-f294034510aac4f8dc81e5c83210e2bd]
+## 172.[^c-f294034510aac4f8dc81e5c83210e2bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 4 (approved CSOP schemes), in paragraph 12(3), in the definition of 
 
 ## Annotations
 
-[^key-f294034510aac4f8dc81e5c83210e2bd]: Commencement: Reg. 172 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-f294034510aac4f8dc81e5c83210e2bd]: Commencement: Reg. 172 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

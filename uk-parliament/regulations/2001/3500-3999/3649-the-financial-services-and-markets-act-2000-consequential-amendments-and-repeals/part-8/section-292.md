@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292. Saving of section 63 of the Financial Services Act 1986[^key-9207aa035df76864d71a47b08398a0f1]
+## 292. Saving of section 63 of the Financial Services Act 1986[^c-9207aa035df76864d71a47b08398a0f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ have effect for the purposes of section 3(2) of the Betting and Gaming Duties Ac
 
 ## Annotations
 
-[^key-9207aa035df76864d71a47b08398a0f1]: Commencement: Art. 292 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9207aa035df76864d71a47b08398a0f1]: Commencement: Art. 292 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00215]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60), repealed by article 3 of this Order.
 

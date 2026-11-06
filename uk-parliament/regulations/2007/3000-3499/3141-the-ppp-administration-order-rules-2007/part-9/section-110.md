@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Non-receipt of notice of meeting[^key-d25270c2e30c797927ab6c9aa83d4258]
+## 110. Non-receipt of notice of meeting[^c-d25270c2e30c797927ab6c9aa83d4258]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in accordance with the 1986 Act or these Rules a meeting of creditors is c
 
 ## Annotations
 
-[^key-d25270c2e30c797927ab6c9aa83d4258]: Commencement: [Rule 110](https://www.legislation.gov.uk/uksi/2007/3141/rule/110) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-d25270c2e30c797927ab6c9aa83d4258]: Commencement: [Rule 110](https://www.legislation.gov.uk/uksi/2007/3141/rule/110) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

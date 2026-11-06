@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. The Human Tissue Authority[^key-ab6afb87adad90bc41adacbc4b3ee471]
+## 13. The Human Tissue Authority[^c-ab6afb87adad90bc41adacbc4b3ee471]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab6afb87adad90bc41adacbc4b3ee471]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2004/30/section/13) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-ab6afb87adad90bc41adacbc4b3ee471]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2004/30/section/13) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))

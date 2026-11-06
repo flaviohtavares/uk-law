@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. General interest grounds for not making a declaration of ineffectiveness[^key-5dd6801a5707c707917b134a82fe2484]
+## 106. General interest grounds for not making a declaration of ineffectiveness[^c-5dd6801a5707c707917b134a82fe2484]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dd6801a5707c707917b134a82fe2484]: Commencement: [Reg. 106](https://www.legislation.gov.uk/ssi/2016/49/regulation/106) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-5dd6801a5707c707917b134a82fe2484]: Commencement: [Reg. 106](https://www.legislation.gov.uk/ssi/2016/49/regulation/106) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

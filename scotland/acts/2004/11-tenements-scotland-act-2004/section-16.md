@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Common property: disapplication of common law right of recovery[^key-2254b0bd999b36357b784d7b649d14ca]
+## 16. Common property: disapplication of common law right of recovery[^c-2254b0bd999b36357b784d7b649d14ca]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any rule of law which enables an owner of common property to recover the cost of
 
 ## Annotations
 
-[^key-2254b0bd999b36357b784d7b649d14ca]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2004/11/section/16) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-2254b0bd999b36357b784d7b649d14ca]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2004/11/section/16) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

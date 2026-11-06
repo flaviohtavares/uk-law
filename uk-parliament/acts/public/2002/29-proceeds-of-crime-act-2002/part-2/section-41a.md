@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Restraint orders: power to retain seized property etc.[^key-f8253b4bfc6b36ddadca0dad6e046468]
+## 41A. Restraint orders: power to retain seized property etc.[^c-f8253b4bfc6b36ddadca0dad6e046468]
 
 *Extent: E+W*
 
@@ -35,8 +35,8 @@ summary: ''
 - (a) an accredited financial investigator;
 - (b) a constable;
 - (c) an officer of Revenue and Customs;
-- (ca)[^key-7bd2826b6fed355583023ebf76f3444e] an immigration officer;
-- (d)[^key-5f498dd6ff7502e3f7ea14e626f78176] a National Crime Agency officer,
+- (ca)[^c-7bd2826b6fed355583023ebf76f3444e] an immigration officer;
+- (d)[^c-5f498dd6ff7502e3f7ea14e626f78176] a National Crime Agency officer,
 - (e) a member of staff of the relevant director (within the meaning of section 352(5A)).
 
 (4) “**Relevant seizure power**” means a power to seize property which is conferred by or by virtue of—
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f8253b4bfc6b36ddadca0dad6e046468]: Textual amendment: S. 41A inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/52/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-f8253b4bfc6b36ddadca0dad6e046468]: Textual amendment: S. 41A inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/52/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-7bd2826b6fed355583023ebf76f3444e]: Textual amendment: S. 41A(3)(ca) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Sch. 21 para. 15 (with Sch. 21 para. 40); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), art. 2(e)
+[^c-7bd2826b6fed355583023ebf76f3444e]: Textual amendment: S. 41A(3)(ca) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Sch. 21 para. 15 (with Sch. 21 para. 40); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), art. 2(e)
 
-[^key-5f498dd6ff7502e3f7ea14e626f78176]: Textual amendment: S. 41A(3)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), s. 61(2), Sch. 8 para. 112; [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), art. 3(v)
+[^c-5f498dd6ff7502e3f7ea14e626f78176]: Textual amendment: S. 41A(3)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), s. 61(2), Sch. 8 para. 112; [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), art. 3(v)

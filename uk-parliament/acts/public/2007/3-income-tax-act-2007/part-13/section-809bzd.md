@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809BZD. Deemed interest if borrower is not a partnership[^key-f0ee5d7d7e27bb9809ed025aa6107afb]
+## 809BZD. Deemed interest if borrower is not a partnership[^c-f0ee5d7d7e27bb9809ed025aa6107afb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0ee5d7d7e27bb9809ed025aa6107afb]: Textual amendment: Pt. 13 Ch. 5B inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f0ee5d7d7e27bb9809ed025aa6107afb]: Textual amendment: Pt. 13 Ch. 5B inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

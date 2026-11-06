@@ -301,9 +301,9 @@ Commission Implementing Regulation (EU) No. 1033/2014 fixing the representative 
 
 Commission Delegated Regulation (EU) No. 932/2014 of 29 August 2014 laying down temporary exceptional support measures for producers of certain fruit and vegetables [^c22619261]
 
-Commission Delegated Regulation ([^key-67852cbbcc8828f9b85a445c63c65a84]EU) 2016/1613 providing for exceptional adjustment aid to milk producers and farmers in other livestock sectors
+Commission Delegated Regulation ([^c-67852cbbcc8828f9b85a445c63c65a84]EU) 2016/1613 providing for exceptional adjustment aid to milk producers and farmers in other livestock sectors
 
-Commission Implementing Regulation ([^key-bcd42353e65e6910a11d36c2571f2fb2]EU) 2017/39 on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments
+Commission Implementing Regulation ([^c-bcd42353e65e6910a11d36c2571f2fb2]EU) 2017/39 on rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments
 
 Commission Delegated Regulation (EU) 2017/40 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to Union aid for the supply of fruit and vegetables, bananas and milk in educational establishments and amending Commission Delegated Regulation (EU) No 907/2014
 
@@ -521,6 +521,6 @@ The Regulations confer power to pay remuneration and allowances to any such pers
 
 [^c22619261]: Marginal citation: OJ No. L 259, 30.8.2014, p.2
 
-[^key-67852cbbcc8828f9b85a445c63c65a84]: Textual amendment: Words in Sch. inserted (22.5.2017) by [The Single Common Market Organisation (Emergency Aid) (England and Northern Ireland) Regulations 2017 (S.I. 2017/599)](https://www.legislation.gov.uk/uksi/2017/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/599/regulation/1/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/1/c)[(2)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/2)
+[^c-67852cbbcc8828f9b85a445c63c65a84]: Textual amendment: Words in Sch. inserted (22.5.2017) by [The Single Common Market Organisation (Emergency Aid) (England and Northern Ireland) Regulations 2017 (S.I. 2017/599)](https://www.legislation.gov.uk/uksi/2017/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/599/regulation/1/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/1/c)[(2)](https://www.legislation.gov.uk/uksi/2017/599/regulation/8/2)
 
-[^key-bcd42353e65e6910a11d36c2571f2fb2]: Textual amendment: Words in Sch. inserted (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2017/734/regulation/6/6)
+[^c-bcd42353e65e6910a11d36c2571f2fb2]: Textual amendment: Words in Sch. inserted (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2017/734/regulation/6/6)

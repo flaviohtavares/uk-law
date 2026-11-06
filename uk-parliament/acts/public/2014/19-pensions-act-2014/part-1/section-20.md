@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Overseas residents[^M_I_905a71a8-89c8-4d8d-ab3f-5f8cb14a95b4][^key-cd2eb269657c012ea3117557add14bee]
+## 20. Overseas residents[^M_I_905a71a8-89c8-4d8d-ab3f-5f8cb14a95b4][^c-cd2eb269657c012ea3117557add14bee]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_905a71a8-89c8-4d8d-ab3f-5f8cb14a95b4]: Commencement: S. 20 in force at 23.2.2016 for specified purposes by [S.I. 2016/203](https://www.legislation.gov.uk/uksi/2016/203), [art. 2(d)](https://www.legislation.gov.uk/uksi/2016/203/article/2/d)
 
-[^key-cd2eb269657c012ea3117557add14bee]: Commencement: S. 20 in force at 6.4.2016 in so far as not already in force, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-cd2eb269657c012ea3117557add14bee]: Commencement: S. 20 in force at 6.4.2016 in so far as not already in force, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

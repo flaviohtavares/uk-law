@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Belarus (Asset-Freezing) (Amendment) Regulations 2015 (revoked)[^key-07a0eb6728b4f7d04e97039d504779df]
+The Belarus (Asset-Freezing) (Amendment) Regulations 2015 (revoked)[^c-07a0eb6728b4f7d04e97039d504779df]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 4th November 2015
 
-[^key-07a0eb6728b4f7d04e97039d504779df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07a0eb6728b4f7d04e97039d504779df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-07a0eb6728b4f7d04e97039d504779df]
+## 1. Citation and commencement[^c-07a0eb6728b4f7d04e97039d504779df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Belarus (Asset-Freezing) Regulations 2013[^key-07a0eb6728b4f7d04e97039d504779df]
+## 2. Amendments to the Belarus (Asset-Freezing) Regulations 2013[^c-07a0eb6728b4f7d04e97039d504779df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-07a0eb6728b4f7d04e97039d504779df]
+## 3.[^c-07a0eb6728b4f7d04e97039d504779df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-07a0eb6728b4f7d04e97039d504779df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07a0eb6728b4f7d04e97039d504779df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-07a0eb6728b4f7d04e97039d504779df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07a0eb6728b4f7d04e97039d504779df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07a0eb6728b4f7d04e97039d504779df]: Textual amendment: Regulations revoked (6.5.2016) by [The Belarus (Asset-Freezing) (Amendment) Regulations 2016 (S.I. 2016/504)](https://www.legislation.gov.uk/uksi/2016/504), [reg. 4](https://www.legislation.gov.uk/uksi/2016/504/regulation/4)
+[^c-07a0eb6728b4f7d04e97039d504779df]: Textual amendment: Regulations revoked (6.5.2016) by [The Belarus (Asset-Freezing) (Amendment) Regulations 2016 (S.I. 2016/504)](https://www.legislation.gov.uk/uksi/2016/504), [reg. 4](https://www.legislation.gov.uk/uksi/2016/504/regulation/4)

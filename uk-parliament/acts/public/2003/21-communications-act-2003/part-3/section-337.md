@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 337. Promotion of equal opportunities and training[^key-b3a739024791c1923cefd5b52c73a90d]
+## 337. Promotion of equal opportunities and training[^c-b3a739024791c1923cefd5b52c73a90d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,13 +57,13 @@ summary: ''
 
 (9) In this section—
 
-- “**disabled**” has the same meaning as in the Equality Act 2010 or, in Northern Ireland, *(Extent: E+W+S)*[^key-2685c484aa4055fe476d4e7a1da890ad] the Disability Discrimination Act 1995 (c. 50);
+- “**disabled**” has the same meaning as in the Equality Act 2010 or, in Northern Ireland, *(Extent: E+W+S)*[^c-2685c484aa4055fe476d4e7a1da890ad] the Disability Discrimination Act 1995 (c. 50);
 - “**licensed service**”, in relation to an employee or likely employee of a person, means a service the provision of which—
   - (a) by that person, or
   - (b) by a body corporate which is a member of the same group of companies as that person,
 
   is authorised by a Broadcasting Act licence;
-- “**racial group**” has the same meaning as in the Race Relations Act 1976 (c. 74) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-9688b97d45163e90f9fdc36f5e77fbf4] Equality Act 2010 *(Extent: E+W+S)* or, in Northern Ireland, the Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6));
+- “**racial group**” has the same meaning as in the Race Relations Act 1976 (c. 74) *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-9688b97d45163e90f9fdc36f5e77fbf4] Equality Act 2010 *(Extent: E+W+S)* or, in Northern Ireland, the Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6));
 - “**the threshold number**” means—
   - (a) in relation to individuals, twenty; and
   - (b) in relation to days, thirty-one.
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a739024791c1923cefd5b52c73a90d]: Commencement: S. 337 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b3a739024791c1923cefd5b52c73a90d]: Commencement: S. 337 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2685c484aa4055fe476d4e7a1da890ad]: Textual amendment: Words in s. 337(9) inserted by 2010 c. 15, Sch. 26 Pt. 1 para. 55(a) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-2685c484aa4055fe476d4e7a1da890ad]: Textual amendment: Words in s. 337(9) inserted by 2010 c. 15, Sch. 26 Pt. 1 para. 55(a) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
 
-[^key-9688b97d45163e90f9fdc36f5e77fbf4]: Textual amendment: Words in s. 337(9) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 55(b) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-9688b97d45163e90f9fdc36f5e77fbf4]: Textual amendment: Words in s. 337(9) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 55(b) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)

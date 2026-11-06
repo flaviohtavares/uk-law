@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8E. Former salary related contracted-out schemes to comply with GMP requirements[^key-23e6478358181d45967f5ec2d4c3fb6d]
+## 8E. Former salary related contracted-out schemes to comply with GMP requirements[^c-23e6478358181d45967f5ec2d4c3fb6d]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ the scheme is to be treated by subsection (1) as including the requirements.
 
 ## Annotations
 
-[^key-23e6478358181d45967f5ec2d4c3fb6d]: Textual amendment: S. 8E inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 13(1)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/13/1) (with [Sch. 13 para. 13(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/13/2)[(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/13/3))
+[^c-23e6478358181d45967f5ec2d4c3fb6d]: Textual amendment: S. 8E inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 13(1)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/13/1) (with [Sch. 13 para. 13(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/13/2)[(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/13/3))

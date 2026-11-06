@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Authorisation criteria: unconnected multiple employer schemes[^key-d359c62b480128f73dabeb21c917a9a4]
+## 5. Authorisation criteria: unconnected multiple employer schemes[^c-d359c62b480128f73dabeb21c917a9a4]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ In section 60 (decision on application)—
 
 ## Annotations
 
-[^key-d359c62b480128f73dabeb21c917a9a4]: Commencement: Reg. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-d359c62b480128f73dabeb21c917a9a4]: Commencement: Reg. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Interpretation[^key-a80300a6427d332d7fb83c659a1f9de1]
+## 105. Interpretation[^c-a80300a6427d332d7fb83c659a1f9de1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-a80300a6427d332d7fb83c659a1f9de1]: Commencement: Reg. 105 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a80300a6427d332d7fb83c659a1f9de1]: Commencement: Reg. 105 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

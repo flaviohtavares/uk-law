@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Authority to survey and investigate the land[^key-1aed6b1307841026d5221e940bb16eb2]
+## 21. Authority to survey and investigate the land[^c-1aed6b1307841026d5221e940bb16eb2]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ that authority will be deemed to have granted consent.
 
 ## Annotations
 
-[^key-1aed6b1307841026d5221e940bb16eb2]: Commencement: Art. 21 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-1aed6b1307841026d5221e940bb16eb2]: Commencement: Art. 21 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

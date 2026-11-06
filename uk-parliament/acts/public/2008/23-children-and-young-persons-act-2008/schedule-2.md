@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — Transitory modifications of Schedule 2 to the 1989 Act[^key-7cbaf8de927d8e241fa08fe1c76b1a7d]
+## SCHEDULE 2 — Transitory modifications of Schedule 2 to the 1989 Act[^c-7cbaf8de927d8e241fa08fe1c76b1a7d]
 
 *Extent: E+W*
 
 Section 8(3)
 
-**1.**[^key-d8f630833d23eb949ec4ae27589f59c2] Paragraph 12 of Schedule 2 to the 1989 Act (regulations as to placing of children with local authority foster parents) has effect as if paragraphs (d) and (g) were omitted.
+**1.**[^c-d8f630833d23eb949ec4ae27589f59c2] Paragraph 12 of Schedule 2 to the 1989 Act (regulations as to placing of children with local authority foster parents) has effect as if paragraphs (d) and (g) were omitted.
 
-**2.**[^key-a4db447a5b62e77399892f9c63ba76ef] That Schedule has effect as if, after paragraph 12, there were inserted—
+**2.**[^c-a4db447a5b62e77399892f9c63ba76ef] That Schedule has effect as if, after paragraph 12, there were inserted—
 
 > **12A.** (1) Regulations under section 23(2)(a) may, in particular, also make provision—
 >
@@ -69,8 +69,8 @@ Section 8(3)
 
 ## Annotations
 
-[^key-7cbaf8de927d8e241fa08fe1c76b1a7d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2) in force at 31.3.2010 for W. by [S.I. 2010/749](https://www.legislation.gov.uk/wsi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/749/article/2/a)
+[^c-7cbaf8de927d8e241fa08fe1c76b1a7d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2) in force at 31.3.2010 for W. by [S.I. 2010/749](https://www.legislation.gov.uk/wsi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/749/article/2/a)
 
-[^key-d8f630833d23eb949ec4ae27589f59c2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2/paragraph/1) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b)
+[^c-d8f630833d23eb949ec4ae27589f59c2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2/paragraph/1) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b)
 
-[^key-a4db447a5b62e77399892f9c63ba76ef]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2/paragraph/2) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b)
+[^c-a4db447a5b62e77399892f9c63ba76ef]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/23/schedule/2/paragraph/2) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b)

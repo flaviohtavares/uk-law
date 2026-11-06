@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Further appeals in relation to inclusion in either list[^key-0a1a0e26601608bf9710addddd9d7fef]
+## 23. Further appeals in relation to inclusion in either list[^c-0a1a0e26601608bf9710addddd9d7fef]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ on any appeal is final.
 
 ## Annotations
 
-[^key-0a1a0e26601608bf9710addddd9d7fef]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2007/14/section/23) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-0a1a0e26601608bf9710addddd9d7fef]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2007/14/section/23) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

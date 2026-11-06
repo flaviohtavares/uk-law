@@ -30,7 +30,7 @@ summary: ''
 
 PESTICIDES
 
-Plant Protection Products (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]
+Plant Protection Products (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 30th March 2000
 
-[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]
+## 1. Citation, commencement and interpretation[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]
+## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 1995[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]
+## 3. Revocation[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-181e0ceadb3ae75c07a00c98a6ee3c8d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/24) revoked (23.8.2001) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/280)](https://www.legislation.gov.uk/nisr/2001/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/280/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2001/280/regulation/3)
+[^c-181e0ceadb3ae75c07a00c98a6ee3c8d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/24) revoked (23.8.2001) by [Plant Protection Products (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/280)](https://www.legislation.gov.uk/nisr/2001/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/280/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2001/280/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Errors in metering[^key-ec75adab21181052c280a8d5b4b56940]
+## 29. Errors in metering[^c-ec75adab21181052c280a8d5b4b56940]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ In section 54 (register of meter to be evidence) of the 1980 Act—
 
 ## Annotations
 
-[^key-ec75adab21181052c280a8d5b4b56940]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2013/5/section/29) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-ec75adab21181052c280a8d5b4b56940]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2013/5/section/29) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

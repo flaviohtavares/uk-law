@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment of regulation 45A (brokering in medicinal products)[^key-9233c6504b25d9908b9e387d761f9c3f]
+## 38. Amendment of regulation 45A (brokering in medicinal products)[^c-9233c6504b25d9908b9e387d761f9c3f]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 45A [^c23884621] is amended as follows.
 
-(2)[^key-092dab8c652b917bdba0e44dabf801b0] For paragraph (1) substitute—
+(2)[^c-092dab8c652b917bdba0e44dabf801b0] For paragraph (1) substitute—
 
 > (1) A person may not broker a medicinal product in Great Britain unless—
 >
@@ -47,7 +47,7 @@ summary: ''
 
 .
 
-(3)[^key-84d87014db075b70104e7bd1c7bfd8cb] In paragraph (2)—
+(3)[^c-84d87014db075b70104e7bd1c7bfd8cb] In paragraph (2)—
 
 - (a) after “paragraph (1)(b)” insert “or (1A)(b)”;
 - (b) in sub-paragraphs (a) and (c), after “competent authority of a member State” insert “or the licensing authority (as appropriate)”.
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9233c6504b25d9908b9e387d761f9c3f]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9233c6504b25d9908b9e387d761f9c3f]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884621]: Marginal citation: Regulation 45A was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-092dab8c652b917bdba0e44dabf801b0]: Textual amendment: Reg. 38(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 28(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/28/a)
+[^c-092dab8c652b917bdba0e44dabf801b0]: Textual amendment: Reg. 38(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 28(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/28/a)
 
-[^key-84d87014db075b70104e7bd1c7bfd8cb]: Textual amendment: Reg. 38(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/28/b)
+[^c-84d87014db075b70104e7bd1c7bfd8cb]: Textual amendment: Reg. 38(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/28/b)

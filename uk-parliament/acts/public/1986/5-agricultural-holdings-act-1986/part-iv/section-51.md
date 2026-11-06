@@ -28,7 +28,7 @@ summary: ''
 
 (2) Section 50(1) shall not apply if the retiring tenant has at any time given any other notice under section 49(1) above in respect of the holding or a related holding and an application to become the tenant of the holding or a related holding has been duly made by any person under section 53 below in respect of that notice.
 
-(3)[^key-0d927879fad0c42932974478417a6b8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0d927879fad0c42932974478417a6b8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If on the date of the giving of the retirement notice the tenancy is the subject of a valid notice to quit given before that date and including a statement that it is given for any such reason as is referred to in Case B, D or E (not being a notice to quit falling within section 38(3) above as applied by subsection (1) above), section 50(1) shall not apply unless one of the events mentioned in subsection (5) below occurs.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d927879fad0c42932974478417a6b8a]: Textual amendment: S. 51(3) omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/19)
+[^c-0d927879fad0c42932974478417a6b8a]: Textual amendment: S. 51(3) omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2020/21/schedule/3/paragraph/19)

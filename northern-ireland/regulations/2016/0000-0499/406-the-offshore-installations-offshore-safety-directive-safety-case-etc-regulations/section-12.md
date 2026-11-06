@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Other provisions as to well examination schemes[^key-2187012c39b638a3c11150b05390f64f]
+## 12. Other provisions as to well examination schemes[^c-2187012c39b638a3c11150b05390f64f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2187012c39b638a3c11150b05390f64f]: Commencement: Reg. 12 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-2187012c39b638a3c11150b05390f64f]: Commencement: Reg. 12 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

@@ -31,7 +31,7 @@ summary: ''
 
 SHERIFF COURT
 
-Act of Sederunt (Fees of Members of the Association of Commercial Attorneys in the Sheriff Court) 2009 (revoked)[^key-533b69db807149757ea614fc8ee4e361]
+Act of Sederunt (Fees of Members of the Association of Commercial Attorneys in the Sheriff Court) 2009 (revoked)[^c-533b69db807149757ea614fc8ee4e361]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 20th May 2009
 
-[^key-533b69db807149757ea614fc8ee4e361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-533b69db807149757ea614fc8ee4e361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement, etc[^key-533b69db807149757ea614fc8ee4e361]
+## 1. Citation and commencement, etc[^c-533b69db807149757ea614fc8ee4e361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees of members of the Association of Commercial Attorneys[^key-533b69db807149757ea614fc8ee4e361]
+## 2. Fees of members of the Association of Commercial Attorneys[^c-533b69db807149757ea614fc8ee4e361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-533b69db807149757ea614fc8ee4e361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-533b69db807149757ea614fc8ee4e361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-533b69db807149757ea614fc8ee4e361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-533b69db807149757ea614fc8ee4e361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-533b69db807149757ea614fc8ee4e361]: Textual amendment: Instrument revoked (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [6(d)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/6/d) (with [paras. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2), [7](https://www.legislation.gov.uk/ssi/2019/74/paragraph/7))
+[^c-533b69db807149757ea614fc8ee4e361]: Textual amendment: Instrument revoked (29.4.2019) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Ordinary Cause Rules Amendment) (Taxation of Judicial Expenses) 2019 (S.S.I. 2019/74)](https://www.legislation.gov.uk/ssi/2019/74), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/1/2), [6(d)](https://www.legislation.gov.uk/ssi/2019/74/paragraph/6/d) (with [paras. 2](https://www.legislation.gov.uk/ssi/2019/74/paragraph/2), [7](https://www.legislation.gov.uk/ssi/2019/74/paragraph/7))

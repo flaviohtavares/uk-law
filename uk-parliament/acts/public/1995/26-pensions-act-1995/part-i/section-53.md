@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Effect of increases above the statutory requirement.[^key-aca9c1450a8e28251492d94e3e9c8b22][^key-f191ea979d8c2be8dcdfd8160e0820e3]
+## 53. Effect of increases above the statutory requirement.[^c-aca9c1450a8e28251492d94e3e9c8b22][^c-f191ea979d8c2be8dcdfd8160e0820e3]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where by virtue of subsection (1) or (2) any pensions are not required to be increased in pursuance of section 109 of the Pension Schemes Act 1993 or section 51 of this Act, or not by the full amount that they otherwise would be, their amount shall be calculated for any purpose as if they had been increased in pursuance of the section in question or, as the case may be, by that full amount.
 
-(3A)[^key-ea3f7b23874b93c2e0133ee4aceb49d1] In subsections (1) and (2), the references to a person’s pension do not include any pension which is attributable (directly or indirectly) to a pension credit.
+(3A)[^c-ea3f7b23874b93c2e0133ee4aceb49d1] In subsections (1) and (2), the references to a person’s pension do not include any pension which is attributable (directly or indirectly) to a pension credit.
 
 (4) In section 110 of the [^c2136240]Pension Schemes Act 1993 (resources for annual increase of guaranteed minimum pension)—
 
@@ -35,12 +35,12 @@ summary: ''
 
 ## Annotations
 
-[^key-aca9c1450a8e28251492d94e3e9c8b22]: Commencement: S. 53 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-aca9c1450a8e28251492d94e3e9c8b22]: Commencement: S. 53 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-f191ea979d8c2be8dcdfd8160e0820e3]: Modification: [Ss. 51-54](https://www.legislation.gov.uk/ukpga/1995/26/section/51) modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
+[^c-f191ea979d8c2be8dcdfd8160e0820e3]: Modification: [Ss. 51-54](https://www.legislation.gov.uk/ukpga/1995/26/section/51) modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
 
 [^c2136239]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-ea3f7b23874b93c2e0133ee4aceb49d1]: Textual amendment: S. 53(3A) inserted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 52](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/52); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(d) Sch. Pt. 4
+[^c-ea3f7b23874b93c2e0133ee4aceb49d1]: Textual amendment: S. 53(3A) inserted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 52](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/52); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(d) Sch. Pt. 4
 
 [^c2136240]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

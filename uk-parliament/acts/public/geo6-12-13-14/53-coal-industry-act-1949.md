@@ -35,7 +35,7 @@ An Act to alter the composition of the National Coal Board, extend the area with
 
 ## Part I — Amendments of Coal Industry Nationalisation Act 1946
 
-### 1. Alteration of composition of National Coal Board.[^key-d8695989d17425dd24093e398626ad08]
+### 1. Alteration of composition of National Coal Board.[^c-d8695989d17425dd24093e398626ad08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -109,7 +109,7 @@ Expressions used in this Part of this Act to which meanings are assigned by the 
 
 [^c598712]: Modification: In this Act “the Board” means National Coal Board and “the principal Act” means [Coal Industry Nationalisation Act 1946 (c. 59)](https://www.legislation.gov.uk/ukpga/1946/59)
 
-[^key-d8695989d17425dd24093e398626ad08]: Textual amendment: [S. 1:](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/53/section/1) repealed insofar as not already repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-d8695989d17425dd24093e398626ad08]: Textual amendment: [S. 1:](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/53/section/1) repealed insofar as not already repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c598731]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/53/section/2) repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [s. 11(8)](https://www.legislation.gov.uk/ukpga/1977/39/section/11/8), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 

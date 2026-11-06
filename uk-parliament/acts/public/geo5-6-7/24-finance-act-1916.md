@@ -91,19 +91,19 @@ An Act to grant certain duties of Customs and Inland Revenue (including Excise),
 
 ### 62. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c580470]
 
-### 63. Exemption from taxation of municipal securities issued in America.[^key-3bf952e39a5b152eeeae98ea77b6db59]
+### 63. Exemption from taxation of municipal securities issued in America.[^c-3bf952e39a5b152eeeae98ea77b6db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 64. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c580473]
 
-### 65. Lost or destroyed Exchequer bonds.[^key-8272e056a02ff16f015f580935672948]
+### 65. Lost or destroyed Exchequer bonds.[^c-8272e056a02ff16f015f580935672948]
 
 Where the Registrar of Government Stock is satisfied that any Exchequer bond, or any other bond to bearer issued by or on behalf of the Treasury, or any coupon of any such bond has been lost or destroyed, he may, if he thinks fit, and on such conditions as he thinks fit, but subject to any general directions of the Treasury, issue a new bond or coupon on receiving indemnity to his satisfaction against the claims of all persons deriving title under the bond or coupon lost or destroyed.
 
 ### 66. Transfer of stock on authority of order of a court.
 
-Any order or decree of any court in the United Kingdom whereby the right to transfer or call for a transfer of any Government stock or to receive any dividends thereon is expressed to be vested in any person shall be sufficient authority to the Registrar of Government Stock[^key-091af14911aec0a6830a0c6e8dadbb57], to the National Debt Commissioners, to the Director of Savings[^c580484], and to any savings bank authority to allow the transfer of the stock or to pay the dividends in accordance with the order or decree.
+Any order or decree of any court in the United Kingdom whereby the right to transfer or call for a transfer of any Government stock or to receive any dividends thereon is expressed to be vested in any person shall be sufficient authority to the Registrar of Government Stock[^c-091af14911aec0a6830a0c6e8dadbb57], to the National Debt Commissioners, to the Director of Savings[^c580484], and to any savings bank authority to allow the transfer of the stock or to pay the dividends in accordance with the order or decree.
 
 An official certified copy interlocutor[^c580485] of any such appointment as is mentioned in section thirteen of the [^c580486]Judicial Factors (Scotland) Act 1889, shall, where any Government stock is specified in such official certified copy interlocutor or in a certificate under seal by the accountant of court produced along with such certified copy interlocutor as belonging to or forming part of the estate under the charge of the person named in the certified copy interlocutor, be deemed for the purposes of this section to be a decree whereby the right to transfer such Government stock is vested in the person so named.
 
@@ -111,7 +111,7 @@ An official certified copy interlocutor[^c580485] of any such appointment as is 
 
 ### 67. Indemnity on transfer of Government stock.
 
-Where any Government stock is transferred by virtue of section forty-eight of the [^c580497]Finance (No. 2) Act 1915, on the authority of any probate, confirmation, or letters of administration, or by virtue of this Act on the authority of any order or decree of any court, the Bank of England , the Registrar of Government Stock, any previous Registrar of Government Stock[^key-966be8f99f369012a6efc6ea074ca016][^c580498]. . ., the National Debt Commissioners, the Director of Savings[^c580499], the Operator of any relevant system[^c580500] or the savings bank authority, as the case may be, shall be indemnified and protected, notwithstanding any defect or circumstance whatsoever affecting the validity of such probate, confirmation, or letters of administration, or of such order or decree and in this section “Operator” and “relevant system” have the same meanings as they have in the Uncertificated Securities Regulations 2001[^c580501].
+Where any Government stock is transferred by virtue of section forty-eight of the [^c580497]Finance (No. 2) Act 1915, on the authority of any probate, confirmation, or letters of administration, or by virtue of this Act on the authority of any order or decree of any court, the Bank of England , the Registrar of Government Stock, any previous Registrar of Government Stock[^c-966be8f99f369012a6efc6ea074ca016][^c580498]. . ., the National Debt Commissioners, the Director of Savings[^c580499], the Operator of any relevant system[^c580500] or the savings bank authority, as the case may be, shall be indemnified and protected, notwithstanding any defect or circumstance whatsoever affecting the validity of such probate, confirmation, or letters of administration, or of such order or decree and in this section “Operator” and “relevant system” have the same meanings as they have in the Uncertificated Securities Regulations 2001[^c580501].
 
 ### 68. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c580502]
 
@@ -193,13 +193,13 @@ Where any Government stock is transferred by virtue of section forty-eight of th
 
 [^c580470]: Textual amendment: [Ss. 1–6](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/1), [17](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/17), [18](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/18), [23](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/23), [24](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/24), [59](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/59), [62](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/62), [68](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/68), [69(2)](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/69/2), [Schs. 1](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/schedule/1), [2](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/schedule/2) repealed by [Statute Law Revision Act 1927 (c. 42)](https://www.legislation.gov.uk/ukpga/1927/42)
 
-[^key-3bf952e39a5b152eeeae98ea77b6db59]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/63) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 113](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/113)
+[^c-3bf952e39a5b152eeeae98ea77b6db59]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/63) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 113](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/113)
 
 [^c580473]: Textual amendment: [Ss. 25–40](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/25), [42](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/42), [43](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/43), [64](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/64) repealed by [Income Tax Act 1918 (c. 40)](https://www.legislation.gov.uk/ukpga/1918/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/1918/40/schedule/7)
 
-[^key-8272e056a02ff16f015f580935672948]: Textual amendment: S. 65 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/9/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-8272e056a02ff16f015f580935672948]: Textual amendment: S. 65 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/9/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-091af14911aec0a6830a0c6e8dadbb57]: Textual amendment: Words in [s. 66](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/66) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/9/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-091af14911aec0a6830a0c6e8dadbb57]: Textual amendment: Words in [s. 66](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/66) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/9/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c580484]: Textual amendment: Words substituted by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [s. 108(1)(b)](https://www.legislation.gov.uk/ukpga/1969/48/section/108/1/b)
 
@@ -211,7 +211,7 @@ Where any Government stock is transferred by virtue of section forty-eight of th
 
 [^c580497]: Marginal citation: [1915 c. 89](https://www.legislation.gov.uk/ukpga/1915/89).
 
-[^key-966be8f99f369012a6efc6ea074ca016]: Textual amendment: Words in [s. 67](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/67) inserted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 9(4)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/9/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-966be8f99f369012a6efc6ea074ca016]: Textual amendment: Words in [s. 67](https://www.legislation.gov.uk/ukpga/Geo5/6-7/24/section/67) inserted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1)[Sch. para. 9(4)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/9/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c580498]: Textual amendment: Words in s. 67 repealed (28.10.2002) by [S.I. 2002/2521](https://www.legislation.gov.uk/uksi/2002/2521), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/2521/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2002/2521/article/10/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2002/2521/schedule/2/part/I)
 

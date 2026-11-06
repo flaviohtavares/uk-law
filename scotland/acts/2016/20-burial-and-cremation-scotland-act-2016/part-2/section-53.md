@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Failure to collect ashes[^key-0059240b89a7dbfe1fb89101adaf1aea]
+## 53. Failure to collect ashes[^c-0059240b89a7dbfe1fb89101adaf1aea]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0059240b89a7dbfe1fb89101adaf1aea]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2016/20/section/53) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 5](https://www.legislation.gov.uk/ssi/2018/380/regulation/5), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-0059240b89a7dbfe1fb89101adaf1aea]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2016/20/section/53) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 5](https://www.legislation.gov.uk/ssi/2018/380/regulation/5), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -263,7 +263,7 @@ Section 125.
 
 ### Access to Justice Act 1999 (c. 22)
 
-**19.**[^key-1faaa93fe76c622379ca71417d8c82a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-1faaa93fe76c622379ca71417d8c82a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
@@ -319,6 +319,6 @@ Section 125.
 
 [^c11209751]: Marginal citation: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
-[^key-1faaa93fe76c622379ca71417d8c82a6]: Textual amendment: Sch. 15 para. 19 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-1faaa93fe76c622379ca71417d8c82a6]: Textual amendment: Sch. 15 para. 19 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^c16786511]: Textual amendment: Sch. 15 para. 20 repealed (4.4.2005 subject to art. 2(2) and Sch. 2 of the commencing S.I.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332), [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7); S.I 2005/950, {art. 2}, Sch. 1 (with transitional provisions in Sch. 2 (as amended by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122)))

@@ -55,7 +55,7 @@ summary: ''
 
 (9) In this section “**bankrupt**” means an individual—
 
-- (a)[^key-c1f93e58fca79246f599af9608711a52] who has been made bankrupt (under Part 9 of the Insolvency Act 1986),
+- (a)[^c-c1f93e58fca79246f599af9608711a52] who has been made bankrupt (under Part 9 of the Insolvency Act 1986),
 - (aa) who has been adjudged bankrupt by a court in Northern Ireland,
 - (b) whose estate has been sequestrated by a court in Scotland, or
 - (c) who has made an agreement with creditors of his for a composition of debts, for a scheme of arrangement of affairs, for the grant of a trust deed or for some other kind of settlement or arrangement.
@@ -107,6 +107,6 @@ summary: ''
 
 [^c19243891]: Textual amendment: Words in s. 268(7) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 305(2)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/305/2/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
 
-[^key-c1f93e58fca79246f599af9608711a52]: Textual amendment: [S. 268(9)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/268/9/a)[(aa)](https://www.legislation.gov.uk/ukpga/2002/40/section/268/9/aa) substituted for [s. 268(9)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/268/9/a) (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/16)
+[^c-c1f93e58fca79246f599af9608711a52]: Textual amendment: [S. 268(9)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/268/9/a)[(aa)](https://www.legislation.gov.uk/ukpga/2002/40/section/268/9/aa) substituted for [s. 268(9)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/268/9/a) (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/16)
 
 [^c19243941]: Textual amendment: S. 268(16)(17) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 305(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/305/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)

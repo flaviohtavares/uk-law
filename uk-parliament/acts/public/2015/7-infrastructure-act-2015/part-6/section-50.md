@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Onshore hydraulic fracturing: safeguards[^key-cb6f03914e5c2ba2b00f70586ef5c8f9][^key-017249c9cb8f22eb7b6ffb4842344b79]
+## 50. Onshore hydraulic fracturing: safeguards[^c-cb6f03914e5c2ba2b00f70586ef5c8f9][^c-017249c9cb8f22eb7b6ffb4842344b79]
 
 *Extent: E+W*
 
@@ -129,6 +129,6 @@ After section 4 of the Petroleum Act 1998 insert—
 
 ## Annotations
 
-[^key-cb6f03914e5c2ba2b00f70586ef5c8f9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2015/7/section/50) in force at 30.7.2015 for specified purposes by [S.I. 2015/1576](https://www.legislation.gov.uk/uksi/2015/1576), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1576/regulation/2)
+[^c-cb6f03914e5c2ba2b00f70586ef5c8f9]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2015/7/section/50) in force at 30.7.2015 for specified purposes by [S.I. 2015/1576](https://www.legislation.gov.uk/uksi/2015/1576), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1576/regulation/2)
 
-[^key-017249c9cb8f22eb7b6ffb4842344b79]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2015/7/section/50) in force at 6.4.2016 in so far as not already in force by [S.I. 2016/455](https://www.legislation.gov.uk/uksi/2016/455), [reg. 2](https://www.legislation.gov.uk/uksi/2016/455/regulation/2)
+[^c-017249c9cb8f22eb7b6ffb4842344b79]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2015/7/section/50) in force at 6.4.2016 in so far as not already in force by [S.I. 2016/455](https://www.legislation.gov.uk/uksi/2016/455), [reg. 2](https://www.legislation.gov.uk/uksi/2016/455/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Custodial sentence: restrictions in certain cases where offender not legally represented[^key-5430d408ed6607e41896013a76f2a454]
+## 226. Custodial sentence: restrictions in certain cases where offender not legally represented[^c-5430d408ed6607e41896013a76f2a454]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 (2) The court may not—
 
 - (a) make a detention and training order,
-- (b) pass a sentence of detention under section 250 (or 254) , under section 252A[^key-3d0c79786b4b5c02378505c46a298e4b] or under section 259 (offenders under 18),
+- (b) pass a sentence of detention under section 250 (or 254) , under section 252A[^c-3d0c79786b4b5c02378505c46a298e4b] or under section 259 (offenders under 18),
 - (c) pass a sentence of detention in a young offender institution, or
 - (d) pass a sentence of custody for life (see sections 272 and 275),
 
@@ -80,6 +80,6 @@ Relevant representation is refused or withdrawn on financial grounds if it appea
 
 ## Annotations
 
-[^key-5430d408ed6607e41896013a76f2a454]: Commencement: S. 226 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5430d408ed6607e41896013a76f2a454]: Commencement: S. 226 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3d0c79786b4b5c02378505c46a298e4b]: Textual amendment: Words in s. 226(2)(b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(9)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/9)
+[^c-3d0c79786b4b5c02378505c46a298e4b]: Textual amendment: Words in s. 226(2)(b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(9)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/9)

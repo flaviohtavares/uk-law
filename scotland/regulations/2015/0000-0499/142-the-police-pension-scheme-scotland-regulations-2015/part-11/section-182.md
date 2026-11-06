@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Club transfer statement[^key-26b7291aa86b8e596ab86685c4484353]
+## 182. Club transfer statement[^c-26b7291aa86b8e596ab86685c4484353]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26b7291aa86b8e596ab86685c4484353]: Commencement: Reg. 182 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-26b7291aa86b8e596ab86685c4484353]: Commencement: Reg. 182 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

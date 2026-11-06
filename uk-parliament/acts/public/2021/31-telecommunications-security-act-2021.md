@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Duties of providers of public electronic communications networks and services
 
-### 1. Duty to take security measures[^key-0b758168d03271bb286b0414fdacac2a][^key-b9d960155d896e9ae1c723622a196f9e]
+### 1. Duty to take security measures[^c-0b758168d03271bb286b0414fdacac2a][^c-b9d960155d896e9ae1c723622a196f9e]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -120,7 +120,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 .
 
-### 2. Duty to take measures in response to security compromises[^key-81275ed1d4cb3d80c7c8b7ac1c43bfa1][^key-b4a381044d4d16e8144587c372f5f389]
+### 2. Duty to take measures in response to security compromises[^c-81275ed1d4cb3d80c7c8b7ac1c43bfa1][^c-b4a381044d4d16e8144587c372f5f389]
 
 After section 105B of the Communications Act 2003 insert—
 
@@ -146,7 +146,7 @@ After section 105B of the Communications Act 2003 insert—
 >
 > (6) Nothing in this section or regulations under it affects the duty imposed by section 105C.
 
-### 3. Codes of practice about security measures etc[^key-263036c797f14b9b75ebd1f28f61ccff][^key-288b822086d17b99d9fa138d2c7926df]
+### 3. Codes of practice about security measures etc[^c-263036c797f14b9b75ebd1f28f61ccff][^c-288b822086d17b99d9fa138d2c7926df]
 
 After section 105D of the Communications Act 2003 insert—
 
@@ -266,7 +266,7 @@ After section 105D of the Communications Act 2003 insert—
 
 ## Informing others of security compromises
 
-### 4. Informing others of security compromises[^key-32796151acffc06de87c54533b8628aa][^key-89c0a9b467222078a6b4e1626e97468c]
+### 4. Informing others of security compromises[^c-32796151acffc06de87c54533b8628aa][^c-89c0a9b467222078a6b4e1626e97468c]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -348,7 +348,7 @@ After section 105D of the Communications Act 2003 insert—
 
 ## Securing compliance with security duties
 
-### 5. General duty of OFCOM to ensure compliance with security duties[^key-2d3f7b7af859a4285c8eb7dc03f8920b][^key-ca5021911e4872528318dc12a8ef3f8d]
+### 5. General duty of OFCOM to ensure compliance with security duties[^c-2d3f7b7af859a4285c8eb7dc03f8920b][^c-ca5021911e4872528318dc12a8ef3f8d]
 
 After section 105L of the Communications Act 2003 insert—
 
@@ -356,7 +356,7 @@ After section 105L of the Communications Act 2003 insert—
 >
 > OFCOM must seek to ensure that providers of public electronic communications networks and public electronic communications services comply with the duties imposed on them by or under sections 105A to 105D, 105J and 105K.
 
-### 6. Powers of OFCOM to assess compliance with security duties[^key-fe3000c2f06de4f6f5d575969381864b][^key-fcf6aae2bc767fecc25cda2264bce519]
+### 6. Powers of OFCOM to assess compliance with security duties[^c-fe3000c2f06de4f6f5d575969381864b][^c-fcf6aae2bc767fecc25cda2264bce519]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -476,7 +476,7 @@ After section 105L of the Communications Act 2003 insert—
 
 > **7A.** A decision to include a statement under section 105P(1)(b) in an assessment notice under section 105O.
 
-### 7. Powers of OFCOM to enforce compliance with security duties[^key-d82a9d76b5180fab9c7c36bb2a70ead5][^key-7a759cf109a473a4167ebb35400fc176]
+### 7. Powers of OFCOM to enforce compliance with security duties[^c-d82a9d76b5180fab9c7c36bb2a70ead5][^c-7a759cf109a473a4167ebb35400fc176]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -582,7 +582,7 @@ After section 105L of the Communications Act 2003 insert—
 
 (3) In section 113 (suspension of application of the electronic communications code) in subsection (2)(b) for “section 105D” substitute “section 105S”.
 
-### 8. Civil liability for contravention of security duties[^key-db02a0a21e021539bed4528fe6bc436f][^key-19be6b5b1edafad5413cbcfc6a6f02fe]
+### 8. Civil liability for contravention of security duties[^c-db02a0a21e021539bed4528fe6bc436f][^c-19be6b5b1edafad5413cbcfc6a6f02fe]
 
 After section 105V of the Communications Act 2003 insert—
 
@@ -607,7 +607,7 @@ After section 105V of the Communications Act 2003 insert—
 >
 > (7) If OFCOM give their consent subject to conditions relating to the conduct of the proceedings, the proceedings are not to be carried on except in compliance with those conditions.
 
-### 9. Relationship between security duties and certain other duties etc[^key-f07b0aa4af22048c06d1129ccad3a76d][^key-08a962f666a43b471e179b9bda31a230]
+### 9. Relationship between security duties and certain other duties etc[^c-f07b0aa4af22048c06d1129ccad3a76d][^c-08a962f666a43b471e179b9bda31a230]
 
 After section 105W of the Communications Act 2003 insert—
 
@@ -627,7 +627,7 @@ After section 105W of the Communications Act 2003 insert—
 >   - (a) section 96C as applied by section 105S; or
 >   - (b) any of sections 105A to 105D, 105I to 105K, 105L(6), (7)(c) and (8), 105N(2)(a), 105O and 105V.
 
-### 10. Statement of policy on ensuring compliance with security duties[^key-98d3c72b3b310016f2d0ace0054b2a34][^key-87311e1f848ba18d71c2b7cb4a5bbcec]
+### 10. Statement of policy on ensuring compliance with security duties[^c-98d3c72b3b310016f2d0ace0054b2a34][^c-87311e1f848ba18d71c2b7cb4a5bbcec]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -649,7 +649,7 @@ After section 105W of the Communications Act 2003 insert—
 
 ## Reports on security etc
 
-### 11. Reporting on matters related to security[^key-880ed6c8ce2a853da3807e9399ae66b9][^key-286601bc11ffdef44adb482e6eb4d8af]
+### 11. Reporting on matters related to security[^c-880ed6c8ce2a853da3807e9399ae66b9][^c-286601bc11ffdef44adb482e6eb4d8af]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -721,7 +721,7 @@ After section 105W of the Communications Act 2003 insert—
 
 > **7C.** A decision relating to the making of a report under section 105Z.
 
-### 12. Powers to require and share information related to security[^key-f7bec472f2bf183a2938583c5f51774c][^key-ea65ed8794f2097bbf06d2e0f0b34f60]
+### 12. Powers to require and share information related to security[^c-f7bec472f2bf183a2938583c5f51774c][^c-ea65ed8794f2097bbf06d2e0f0b34f60]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -764,7 +764,7 @@ After section 105W of the Communications Act 2003 insert—
 
   > (7) OFCOM are not to impose a requirement on a person under section 135(3C) except by a notice served on the person that sets out the requirement and OFCOM’s reasons for imposing it.
 
-### 13. Appeals against security decisions of OFCOM[^key-3c95618b6f28b94263e187c504ea6e2c][^key-14f1d098d5242aded8d2d57df662c8e9]
+### 13. Appeals against security decisions of OFCOM[^c-3c95618b6f28b94263e187c504ea6e2c][^c-14f1d098d5242aded8d2d57df662c8e9]
 
 (1) Section 194A of the Communications Act 2003 (disposal of appeals against decisions of OFCOM etc) is amended as follows.
 
@@ -779,7 +779,7 @@ After section 105W of the Communications Act 2003 insert—
 > - “**relevant security decision**” means a decision under any of sections 105I, 105L to 105O and 105U to 105W;
 > - “retained case law” and “retained general principle of EU law” have the meanings given by section 6(7) of the European Union (Withdrawal) Act 2018.
 
-### 14. Reviews of sections 1 to 13[^key-8120ae62dee20fd8f006029d56f2370a]
+### 14. Reviews of sections 1 to 13[^c-8120ae62dee20fd8f006029d56f2370a]
 
 (1) The Secretary of State must carry out reviews of the impact and effectiveness of sections 1 to 13.
 
@@ -791,7 +791,7 @@ After section 105W of the Communications Act 2003 insert—
 
 ## Designated vendor directions
 
-### 15. Designated vendor directions[^key-18fcd9430e2ea1dce115b0957c813b12]
+### 15. Designated vendor directions[^c-18fcd9430e2ea1dce115b0957c813b12]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -980,7 +980,7 @@ After section 105W of the Communications Act 2003 insert—
 
 .
 
-### 16. Designation notices[^key-4c41d0862a98f7853eb6b369176160b1]
+### 16. Designation notices[^c-4c41d0862a98f7853eb6b369176160b1]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -1075,7 +1075,7 @@ After section 105W of the Communications Act 2003 insert—
 
 .
 
-### 17. Laying before Parliament[^key-1621f2fb8bb28e9791537cb22444018e]
+### 17. Laying before Parliament[^c-1621f2fb8bb28e9791537cb22444018e]
 
 After section 105Z10 of the Communications Act 2003 insert—
 
@@ -1097,7 +1097,7 @@ After section 105Z10 of the Communications Act 2003 insert—
 
 ## Monitoring and enforcement
 
-### 18. Monitoring of designated vendor directions[^key-93bbf4f50064359f5c1bc123a0fc6ef2]
+### 18. Monitoring of designated vendor directions[^c-93bbf4f50064359f5c1bc123a0fc6ef2]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -1184,7 +1184,7 @@ After section 105Z10 of the Communications Act 2003 insert—
 
 > **11A.** A decision to require information under section 135, so far as the information is required for the purpose of preparing a report under section 105Z12.
 
-### 19. Monitoring directions: inspection notices[^key-b59036e3661d6d945e98b5475da16aee]
+### 19. Monitoring directions: inspection notices[^c-b59036e3661d6d945e98b5475da16aee]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -1285,7 +1285,7 @@ After section 105Z10 of the Communications Act 2003 insert—
 
 > **7D.** A decision to impose a duty under section 105Z14.
 
-### 20. Power of Secretary of State to enforce compliance with designated vendor directions etc[^key-d54f5a2a4b9fbe4dbda2713350320c70]
+### 20. Power of Secretary of State to enforce compliance with designated vendor directions etc[^c-d54f5a2a4b9fbe4dbda2713350320c70]
 
 After section 105Z17 of the Communications Act 2003 insert—
 
@@ -1428,7 +1428,7 @@ After section 105Z17 of the Communications Act 2003 insert—
 > - (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003 (register of judgments and orders etc) as if it were a judgment entered in the county court;
 > - (b) in relation to Northern Ireland, to be treated for the purposes of Article 116 of the [Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (N.I. 6))](https://www.legislation.gov.uk/nisi/1981/226) (register of judgments) as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
 
-### 21. Urgent enforcement directions[^key-d3be080f91ff88e0ce4cefe215776042]
+### 21. Urgent enforcement directions[^c-d3be080f91ff88e0ce4cefe215776042]
 
 (1) The Communications Act 2003 is amended as follows.
 
@@ -1514,7 +1514,7 @@ After section 105Z17 of the Communications Act 2003 insert—
 
 ## Designated vendor directions: further provision
 
-### 22. Requirement not to disclose[^key-fcb821ebdb66a9abd1226934c53d2376]
+### 22. Requirement not to disclose[^c-fcb821ebdb66a9abd1226934c53d2376]
 
 After section 105Z24 of the Communications Act 2003 insert—
 
@@ -1619,7 +1619,7 @@ After section 105Z24 of the Communications Act 2003 insert—
 >   - (iii) in the words following paragraph (b), for “comply with that requirement or remedy” there were substituted “bring that contravention to an end or limit”;
 > - (b) in subsection (7)(b)(ii), for the words from “comply” to “remedy” there were substituted “bring the contravention to an end or to limit”.
 
-### 23. Power of Secretary of State to require information etc[^key-59fc59b412d3f90ea94c012b495ff61d]
+### 23. Power of Secretary of State to require information etc[^c-59fc59b412d3f90ea94c012b495ff61d]
 
 After section 105Z26 of the Communications Act 2003 insert—
 
@@ -1690,7 +1690,7 @@ After section 105Z26 of the Communications Act 2003 insert—
 
 ## Further amendments
 
-### 24. Further amendment concerning penalties[^key-54ff9fea58c6dd18108005f174272e71][^key-b4f68a92a6b74aadbc78e63b20f342af]
+### 24. Further amendment concerning penalties[^c-54ff9fea58c6dd18108005f174272e71][^c-b4f68a92a6b74aadbc78e63b20f342af]
 
 After section 139 of the Communications Act 2003 insert—
 
@@ -1719,13 +1719,13 @@ After section 139 of the Communications Act 2003 insert—
 >
 > (6) No regulations are to be made containing provision authorised by subsection (5) unless a draft of the regulations has been laid before Parliament and approved by a resolution of each House.
 
-### 25. Further consequential amendments[^key-dacacaabe9b65cd5272f7a4d9d465b23]
+### 25. Further consequential amendments[^c-dacacaabe9b65cd5272f7a4d9d465b23]
 
-(1)[^key-dacacaabe9b65cd5272f7a4d9d465b23] The Communications Act 2003 is amended as follows.
+(1)[^c-dacacaabe9b65cd5272f7a4d9d465b23] The Communications Act 2003 is amended as follows.
 
-(2)[^key-8ab7d3812b6eb7728846c44000d78d29] In section 38 (fixing of charges) in subsection (6) (list of functions by reference to which charges are to be fixed) omit paragraph (ec).
+(2)[^c-8ab7d3812b6eb7728846c44000d78d29] In section 38 (fixing of charges) in subsection (6) (list of functions by reference to which charges are to be fixed) omit paragraph (ec).
 
-(3)[^key-dacacaabe9b65cd5272f7a4d9d465b23] In section 402 (power of Secretary of State to make orders and regulations) in subsection (2) (orders and regulations subject to negative procedure)—
+(3)[^c-dacacaabe9b65cd5272f7a4d9d465b23] In section 402 (power of Secretary of State to make orders and regulations) in subsection (2) (orders and regulations subject to negative procedure)—
 
 - (a) omit the “or” before paragraph (c);
 - (b) after paragraph (c) insert
@@ -1738,15 +1738,15 @@ After section 139 of the Communications Act 2003 insert—
 
 ## Final
 
-### 26. Financial provision[^key-fce20e6a69a24bf8d76e714dcb171e42]
+### 26. Financial provision[^c-fce20e6a69a24bf8d76e714dcb171e42]
 
 There is to be paid out of money provided by Parliament any increase attributable to this Act in the sums payable under any other Act out of money so provided.
 
-### 27. Extent[^key-e0033c43f0e0da70e6bf3417c43824b6]
+### 27. Extent[^c-e0033c43f0e0da70e6bf3417c43824b6]
 
 This Act extends to England and Wales, Scotland and Northern Ireland.
 
-### 28. Commencement[^key-e69dc6999f3c7ac3e26991f7e6c605c2]
+### 28. Commencement[^c-e69dc6999f3c7ac3e26991f7e6c605c2]
 
 (1) The following provisions come into force on the day on which this Act is passed—
 
@@ -1771,96 +1771,96 @@ This Act extends to England and Wales, Scotland and Northern Ireland.
 
 (4) The Secretary of State may by regulations made by statutory instrument make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
 
-### 29. Short title[^key-6207794f79675e1dea73f05c2341e1bc]
+### 29. Short title[^c-6207794f79675e1dea73f05c2341e1bc]
 
 This Act may be cited as the Telecommunications (Security) Act 2021.
 
 ## Annotations
 
-[^key-0b758168d03271bb286b0414fdacac2a]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/a)
+[^c-0b758168d03271bb286b0414fdacac2a]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/a)
 
-[^key-b9d960155d896e9ae1c723622a196f9e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/31/section/1) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/a)
+[^c-b9d960155d896e9ae1c723622a196f9e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/31/section/1) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/a)
 
-[^key-81275ed1d4cb3d80c7c8b7ac1c43bfa1]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/a)
+[^c-81275ed1d4cb3d80c7c8b7ac1c43bfa1]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/a)
 
-[^key-b4a381044d4d16e8144587c372f5f389]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/31/section/2) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/a)
+[^c-b4a381044d4d16e8144587c372f5f389]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/31/section/2) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/a)
 
-[^key-263036c797f14b9b75ebd1f28f61ccff]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 28(1)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/b)
+[^c-263036c797f14b9b75ebd1f28f61ccff]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 28(1)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/b)
 
-[^key-288b822086d17b99d9fa138d2c7926df]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/31/section/3) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/a)
+[^c-288b822086d17b99d9fa138d2c7926df]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/31/section/3) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/a)
 
-[^key-32796151acffc06de87c54533b8628aa]: Commencement: S. 4 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-32796151acffc06de87c54533b8628aa]: Commencement: S. 4 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-89c0a9b467222078a6b4e1626e97468c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/31/section/4) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-89c0a9b467222078a6b4e1626e97468c]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/31/section/4) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-2d3f7b7af859a4285c8eb7dc03f8920b]: Commencement: S. 5 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-2d3f7b7af859a4285c8eb7dc03f8920b]: Commencement: S. 5 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-ca5021911e4872528318dc12a8ef3f8d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/31/section/5) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-ca5021911e4872528318dc12a8ef3f8d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/31/section/5) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-fe3000c2f06de4f6f5d575969381864b]: Commencement: S. 6 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-fe3000c2f06de4f6f5d575969381864b]: Commencement: S. 6 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-fcf6aae2bc767fecc25cda2264bce519]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/31/section/6) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-fcf6aae2bc767fecc25cda2264bce519]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/31/section/6) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-d82a9d76b5180fab9c7c36bb2a70ead5]: Commencement: S. 7 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-d82a9d76b5180fab9c7c36bb2a70ead5]: Commencement: S. 7 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-7a759cf109a473a4167ebb35400fc176]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/31/section/7) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-7a759cf109a473a4167ebb35400fc176]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/31/section/7) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-db02a0a21e021539bed4528fe6bc436f]: Commencement: S. 8 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-db02a0a21e021539bed4528fe6bc436f]: Commencement: S. 8 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-19be6b5b1edafad5413cbcfc6a6f02fe]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/31/section/8) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-19be6b5b1edafad5413cbcfc6a6f02fe]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/31/section/8) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-f07b0aa4af22048c06d1129ccad3a76d]: Commencement: S. 9 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-f07b0aa4af22048c06d1129ccad3a76d]: Commencement: S. 9 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-08a962f666a43b471e179b9bda31a230]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/31/section/9) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-08a962f666a43b471e179b9bda31a230]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/31/section/9) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-98d3c72b3b310016f2d0ace0054b2a34]: Commencement: S. 10 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-98d3c72b3b310016f2d0ace0054b2a34]: Commencement: S. 10 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-87311e1f848ba18d71c2b7cb4a5bbcec]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/31/section/10) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-87311e1f848ba18d71c2b7cb4a5bbcec]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/31/section/10) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-880ed6c8ce2a853da3807e9399ae66b9]: Commencement: S. 11 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-880ed6c8ce2a853da3807e9399ae66b9]: Commencement: S. 11 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-286601bc11ffdef44adb482e6eb4d8af]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/31/section/11) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-286601bc11ffdef44adb482e6eb4d8af]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/31/section/11) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-f7bec472f2bf183a2938583c5f51774c]: Commencement: S. 12 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-f7bec472f2bf183a2938583c5f51774c]: Commencement: S. 12 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-ea65ed8794f2097bbf06d2e0f0b34f60]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/31/section/12) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-ea65ed8794f2097bbf06d2e0f0b34f60]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/31/section/12) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-3c95618b6f28b94263e187c504ea6e2c]: Commencement: S. 13 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
+[^c-3c95618b6f28b94263e187c504ea6e2c]: Commencement: S. 13 not in force at Royal Assent, see [s. 28](https://www.legislation.gov.uk/ukpga/2021/31/section/28)
 
-[^key-14f1d098d5242aded8d2d57df662c8e9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/31/section/13) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-14f1d098d5242aded8d2d57df662c8e9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/31/section/13) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
 
-[^key-8120ae62dee20fd8f006029d56f2370a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/31/section/14) in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-8120ae62dee20fd8f006029d56f2370a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/31/section/14) in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-18fcd9430e2ea1dce115b0957c813b12]: Commencement: S. 15 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-18fcd9430e2ea1dce115b0957c813b12]: Commencement: S. 15 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-4c41d0862a98f7853eb6b369176160b1]: Commencement: S. 16 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-4c41d0862a98f7853eb6b369176160b1]: Commencement: S. 16 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-1621f2fb8bb28e9791537cb22444018e]: Commencement: S. 17 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-1621f2fb8bb28e9791537cb22444018e]: Commencement: S. 17 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-93bbf4f50064359f5c1bc123a0fc6ef2]: Commencement: S. 18 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-93bbf4f50064359f5c1bc123a0fc6ef2]: Commencement: S. 18 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-b59036e3661d6d945e98b5475da16aee]: Commencement: S. 19 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-b59036e3661d6d945e98b5475da16aee]: Commencement: S. 19 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-d54f5a2a4b9fbe4dbda2713350320c70]: Commencement: S. 20 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-d54f5a2a4b9fbe4dbda2713350320c70]: Commencement: S. 20 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-d3be080f91ff88e0ce4cefe215776042]: Commencement: S. 21 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-d3be080f91ff88e0ce4cefe215776042]: Commencement: S. 21 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-fcb821ebdb66a9abd1226934c53d2376]: Commencement: S. 22 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-fcb821ebdb66a9abd1226934c53d2376]: Commencement: S. 22 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-59fc59b412d3f90ea94c012b495ff61d]: Commencement: S. 23 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-59fc59b412d3f90ea94c012b495ff61d]: Commencement: S. 23 in force at Royal Assent, see [s. 28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-54ff9fea58c6dd18108005f174272e71]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 28(1)(d)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/d)
+[^c-54ff9fea58c6dd18108005f174272e71]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 28(1)(d)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/d)
 
-[^key-b4f68a92a6b74aadbc78e63b20f342af]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/31/section/24) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/c)
+[^c-b4f68a92a6b74aadbc78e63b20f342af]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/31/section/24) in force at 1.10.2022 in so far as not already in force by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/c)
 
-[^key-dacacaabe9b65cd5272f7a4d9d465b23]: Commencement: S. 25(1)(3) in force at Royal Assent, see [s. 28(1)(e)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/e)
+[^c-dacacaabe9b65cd5272f7a4d9d465b23]: Commencement: S. 25(1)(3) in force at Royal Assent, see [s. 28(1)(e)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/e)
 
-[^key-8ab7d3812b6eb7728846c44000d78d29]: Commencement: [S. 25(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/25/2) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/d)
+[^c-8ab7d3812b6eb7728846c44000d78d29]: Commencement: [S. 25(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/25/2) in force at 1.10.2022 by [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/d)
 
-[^key-fce20e6a69a24bf8d76e714dcb171e42]: Commencement: S. 26 in force at Royal Assent, see [s. 28(1)(f)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/f)
+[^c-fce20e6a69a24bf8d76e714dcb171e42]: Commencement: S. 26 in force at Royal Assent, see [s. 28(1)(f)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/f)
 
-[^key-e0033c43f0e0da70e6bf3417c43824b6]: Commencement: S. 27 in force at Royal Assent, see [s. 28(1)(g)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/g)
+[^c-e0033c43f0e0da70e6bf3417c43824b6]: Commencement: S. 27 in force at Royal Assent, see [s. 28(1)(g)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/g)
 
-[^key-e69dc6999f3c7ac3e26991f7e6c605c2]: Commencement: S. 28 in force at Royal Assent, see [s. 28(1)(h)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/h)
+[^c-e69dc6999f3c7ac3e26991f7e6c605c2]: Commencement: S. 28 in force at Royal Assent, see [s. 28(1)(h)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/h)
 
-[^key-6207794f79675e1dea73f05c2341e1bc]: Commencement: S. 29 in force at Royal Assent, see [s. 28(1)(i)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/i)
+[^c-6207794f79675e1dea73f05c2341e1bc]: Commencement: S. 29 in force at Royal Assent, see [s. 28(1)(i)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/i)

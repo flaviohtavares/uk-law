@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.192. Interest in property to be declared on request[^key-120978512dadbef38032fc439bddbea2]
+## 4.192. Interest in property to be declared on request[^c-120978512dadbef38032fc439bddbea2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-120978512dadbef38032fc439bddbea2]: Commencement: [Rule 4.192](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.192) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-120978512dadbef38032fc439bddbea2]: Commencement: [Rule 4.192](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.192) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00106]: Marginal citation: \[FORM 4.55\]

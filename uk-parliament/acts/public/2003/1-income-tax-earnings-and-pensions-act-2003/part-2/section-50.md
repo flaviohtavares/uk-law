@@ -22,7 +22,7 @@ summary: ''
 
 (1) If, in the case of an engagement to which this Chapter applies, in any tax year—
 
-- (za)[^key-8acfebc7046711e2c95d0c8f516e99c5] the client qualifies as small or does not have a UK connection,
+- (za)[^c-8acfebc7046711e2c95d0c8f516e99c5] the client qualifies as small or does not have a UK connection,
 - (a) the conditions specified in section 51, 52 or 53 are met in relation to the intermediary, and
 - (b) the worker, or an associate of the worker—
   - (i) receives from the intermediary, directly or indirectly, a payment or benefit that is not employment income, or
@@ -36,7 +36,7 @@ summary: ''
 
 (4) In this Chapter “**the relevant engagements**”, in relation to a deemed employment payment, means the engagements mentioned in subsection (2).
 
-(5)[^key-b99a1bda7d9aa2bf8ef2be327a804d60] The condition in paragraph (za) of subsection (1) is to be ignored if—
+(5)[^c-b99a1bda7d9aa2bf8ef2be327a804d60] The condition in paragraph (za) of subsection (1) is to be ignored if—
 
 - (a) the client concerned is an individual, and
 - (b) the services concerned are performed otherwise than for the purposes of the client's business.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8acfebc7046711e2c95d0c8f516e99c5]: Textual amendment: [S. 50(1)(za)](https://www.legislation.gov.uk/ukpga/2003/1/section/50/1/za) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/4/2), [24](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/24) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-8acfebc7046711e2c95d0c8f516e99c5]: Textual amendment: [S. 50(1)(za)](https://www.legislation.gov.uk/ukpga/2003/1/section/50/1/za) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/4/2), [24](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/24) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
 
-[^key-b99a1bda7d9aa2bf8ef2be327a804d60]: Textual amendment: [S. 50(5)](https://www.legislation.gov.uk/ukpga/2003/1/section/50/5)[(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/50/6) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/4/3), [24](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/24) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-b99a1bda7d9aa2bf8ef2be327a804d60]: Textual amendment: [S. 50(5)](https://www.legislation.gov.uk/ukpga/2003/1/section/50/5)[(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/50/6) inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/4/3), [24](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/24) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Investigation of record keeping (regulation 17 of the Service Committees Regulations)[^key-56af68618b275024c7aeeb2977cd7b7e]
+## 78. Investigation of record keeping (regulation 17 of the Service Committees Regulations)[^c-56af68618b275024c7aeeb2977cd7b7e]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ that amount shall be recoverable by the appropriate Local Health Board, insofar 
 
 ## Annotations
 
-[^key-56af68618b275024c7aeeb2977cd7b7e]: Commencement: Art. 78 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-56af68618b275024c7aeeb2977cd7b7e]: Commencement: Art. 78 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

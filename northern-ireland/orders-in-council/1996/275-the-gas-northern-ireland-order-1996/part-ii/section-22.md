@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Meter testing and stamping[^c19922331][^c21794371][^key-82dd64cb62002e6e4c219687499d514b]
+## 22. Meter testing and stamping[^c19922331][^c21794371][^c-82dd64cb62002e6e4c219687499d514b]
 
 *Extent: N.I.*
 
@@ -72,7 +72,7 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 [^c21794371]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1996/275/article/22) excluded (17.1.2013) by [Gas (Meter Testing and Stamping) Regulations (Northern Ireland) 2012 (S.R. 2012/454)](https://www.legislation.gov.uk/nisr/2012/454), [reg. 2](https://www.legislation.gov.uk/nisr/2012/454/regulation/2)
 
-[^key-82dd64cb62002e6e4c219687499d514b]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1996/275/article/22) applied (with modifications) (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/5) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-82dd64cb62002e6e4c219687499d514b]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/1996/275/article/22) applied (with modifications) (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/5) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
 [^c21259841]: Textual amendment: Words in [art. 22(2)](https://www.legislation.gov.uk/nisi/1996/275/article/22/2) omitted (21.3.2011) by virtue of [Energy Act (Northern Ireland) 2011 (c. 6)](https://www.legislation.gov.uk/nia/2011/6), [ss. 16(2)](https://www.legislation.gov.uk/nia/2011/6/section/16/2), [36(1)](https://www.legislation.gov.uk/nia/2011/6/section/36/1); [S.R. 2011/95](https://www.legislation.gov.uk/nisr/2011/95), [art. 2](https://www.legislation.gov.uk/nisr/2011/95/article/2)
 

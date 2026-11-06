@@ -35,7 +35,7 @@ An Act to amend the Licensing Act 2003 so that licensing hours orders can be mad
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Procedure for making licensing hours orders[^key-9091d9d5e801d9b12dc7d04a7e689e56]
+## 1. Procedure for making licensing hours orders[^c-9091d9d5e801d9b12dc7d04a7e689e56]
 
 In section 197 of the Licensing Act 2003 (regulations and orders)—
 
@@ -43,7 +43,7 @@ In section 197 of the Licensing Act 2003 (regulations and orders)—
 - (b) in subsection (4), omit “(d),”;
 - (c) omit subsection (5).
 
-## 2. Extent, commencement and short title[^key-1b44672437b311fa6f4c46b14cc487df]
+## 2. Extent, commencement and short title[^c-1b44672437b311fa6f4c46b14cc487df]
 
 (1) This Act extends to England and Wales only.
 
@@ -53,6 +53,6 @@ In section 197 of the Licensing Act 2003 (regulations and orders)—
 
 ## Annotations
 
-[^key-9091d9d5e801d9b12dc7d04a7e689e56]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/4/section/2/2)
+[^c-9091d9d5e801d9b12dc7d04a7e689e56]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/4/section/2/2)
 
-[^key-1b44672437b311fa6f4c46b14cc487df]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/4/section/2/2)
+[^c-1b44672437b311fa6f4c46b14cc487df]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2026/4/section/2/2)

@@ -63,7 +63,7 @@ Minister of State,
 
 Department for Work and Pensions
 
-## SCHEDULE — AGREEMENT RELATING TO STATE PENSION AND RETIREMENT PENSION BETWEEN THE SECRETARY OF STATE FOR WORK AND PENSIONS AND THE DEPARTMENT FOR COMMUNITIES IN NORTHERN IRELAND OF THE ONE PART, AND THE MINISTER FOR THE TREASURY OF THE ISLE OF MAN OF THE OTHER PART[^key-42901d1268c7ed8ec84400935fd5c657]
+## SCHEDULE — AGREEMENT RELATING TO STATE PENSION AND RETIREMENT PENSION BETWEEN THE SECRETARY OF STATE FOR WORK AND PENSIONS AND THE DEPARTMENT FOR COMMUNITIES IN NORTHERN IRELAND OF THE ONE PART, AND THE MINISTER FOR THE TREASURY OF THE ISLE OF MAN OF THE OTHER PART[^c-42901d1268c7ed8ec84400935fd5c657]
 
 Article 2
 
@@ -73,7 +73,7 @@ Article 2
 
 - “**the 1977 Agreement**” means the agreement contained in Schedule 1 to the Social Security (Isle of Man) Order (Northern Ireland) 1977 [^c22829101];
 - “**the Isle of Man Contributions and Benefits Act**” means the Social Security Contributions and Benefits Act 1992 (of Parliament) as it applies in the Isle of Man from time to time by virtue of the Social Security Contributions and Benefits Act 1992 (Application) Order 1994 (S.D. 505/94);
-- “the Isle of Man Pensions Act” means Part 1 of the Pensions Act 2014 as it applies in the Isle of Man from time to time by virtue of the Pensions Act 2014 (Application) Order 2018 (S.D. 2018/0076);[^key-b489bf3415faa9629ed2f0a0b242fe93]
+- “the Isle of Man Pensions Act” means Part 1 of the Pensions Act 2014 as it applies in the Isle of Man from time to time by virtue of the Pensions Act 2014 (Application) Order 2018 (S.D. 2018/0076);[^c-b489bf3415faa9629ed2f0a0b242fe93]
 - “**Party**” means the United Kingdom or the Isle of Man;
 - “**the Pensions Acts**” means in relation to the United Kingdom, Part 1 (state pension) of the Pensions Act 2014 [^c22829111] and Part 1 (state pension) of the Pensions Act (Northern Ireland) 2015;
 - “**territory**” means in relation to the United Kingdom, England, Scotland, Wales and Northern Ireland, and in relation to the Isle of Man, the Isle of Man.
@@ -84,27 +84,27 @@ Article 2
 
 ### 2. Application of Agreement
 
-This Agreement shall apply to a person for the purposes of claims for and determining entitlement to a state pension under the Pensions Acts or the Isle of Man Pensions Act[^key-7e2ab513ceba00c76c4686e6b8e6e5e0] .
+This Agreement shall apply to a person for the purposes of claims for and determining entitlement to a state pension under the Pensions Acts or the Isle of Man Pensions Act[^c-7e2ab513ceba00c76c4686e6b8e6e5e0] .
 
-**3.** The 1977 Agreement shall not apply and this Agreement shall apply to a person for the purposes of claims for and determining entitlement to a retirement pension under the Isle of Man Contributions and Benefits Act of a person who reaches pensionable age on or after 6th April 2016 but before 6th April 2019[^key-ade9f6b667305cc9013a7123adb48327] .
+**3.** The 1977 Agreement shall not apply and this Agreement shall apply to a person for the purposes of claims for and determining entitlement to a retirement pension under the Isle of Man Contributions and Benefits Act of a person who reaches pensionable age on or after 6th April 2016 but before 6th April 2019[^c-ade9f6b667305cc9013a7123adb48327] .
 
-**4.** The 1977 Agreement shall not apply and this Agreement shall apply to a person who reaches pensionable age before 6th April 2016 and whose spouse or civil partner reaches pensionable age on or after that date but before 6th April 2019[^key-509b02c7e30caa900f587d39a8b45449] , for the purposes of claims for and determining entitlement to—
+**4.** The 1977 Agreement shall not apply and this Agreement shall apply to a person who reaches pensionable age before 6th April 2016 and whose spouse or civil partner reaches pensionable age on or after that date but before 6th April 2019[^c-509b02c7e30caa900f587d39a8b45449] , for the purposes of claims for and determining entitlement to—
 
 - (a) a Category A retirement pension by virtue of section 48 (use of former spouse's contributions) of the Social Security Contributions and Benefits Act 1992 or section 48 [^c22829131] (use of former spouse's contributions) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - (b) a Category B retirement pension under Part 2 (contributory benefits) of the Social Security Contributions and Benefits Act 1992 or Part 2 (contributory benefits) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - (c) a Category A retirement pension by virtue of section 48 of the Isle of Man Contributions and Benefits Act;
 - (d) a Category B retirement pension under Part 2 of the Isle of Man Contributions and Benefits Act.
 
-**4A.**[^key-aed580abd8d85a2a220587808ec7e494] The 1977 Agreement shall not apply and this Agreement shall apply to a person who reaches pensionable age on or after 6th April 2019 for the purposes of claims for and determining entitlement to a Manx state pension under the Isle of Man Pensions Act.
+**4A.**[^c-aed580abd8d85a2a220587808ec7e494] The 1977 Agreement shall not apply and this Agreement shall apply to a person who reaches pensionable age on or after 6th April 2019 for the purposes of claims for and determining entitlement to a Manx state pension under the Isle of Man Pensions Act.
 
-### 5. Minimum number of qualifying years and rate of pension payable[^key-3f8e5c21152873dcb8722867026287c9]
+### 5. Minimum number of qualifying years and rate of pension payable[^c-3f8e5c21152873dcb8722867026287c9]
 
 Subject to Articles 7 and 8, in the case of a person to whom Article 2 applies—
 
 - (a) for the purpose of determining only whether a person has at least the minimum number of qualifying years for a state pension to be payable under section 2 or 4 of the Pensions Acts, any tax year for which a person's earnings factor is sufficient to satisfy paragraph 5A(2)(b) of Schedule 3 to the Isle of Man Contributions and Benefits Act [^c22829141] shall be taken into account in the United Kingdom; and
 - (b) the rate at which state pension is payable to a person under section 2 or 4 of the Pensions Acts is to be determined by reference only to the number of qualifying years under section 2 or 4 of those Acts.
 
-### 5A.[^key-2e536f4bde727c25a8bce88f47cda615]
+### 5A.[^c-2e536f4bde727c25a8bce88f47cda615]
 
 Subject to Articles 7 and 8, in the case of a person to whom Article 2 applies—
 
@@ -151,7 +151,7 @@ Subject to Articles 7 and 8, in the case of a person to whom Article 3 or 4 appl
 
 A person to whom this Agreement applies, who is entitled to a state pension under the Pensions Acts, shall be entitled to receive any increase in the rate of that pension, while that person is in the territory of the Isle of Man, as if that person were in the territory of the United Kingdom.
 
-### 10A.[^key-bcd60b7fbdb35d0cf3b7cba32c8706c3]
+### 10A.[^c-bcd60b7fbdb35d0cf3b7cba32c8706c3]
 
 A person to whom this Agreement applies, who is entitled to a Manx state pension under the Isle of Man Pensions Act, shall be entitled to receive any increase in the rate of that pension, while that person is in the territory of the United Kingdom, as if that person were in the territory of the Isle of Man.
 
@@ -166,9 +166,9 @@ shall be entitled to receive any increase in the rate of that pension, while tha
 
 ### 13. General Provisions
 
-The Secretary of State for Work and Pensions (with the consent of the Treasury) and, as the case may require, the Department for Communities[^key-3cbc681395bfe387d7d64a8e2e13796a] in Northern Ireland (with the consent of the Department of Finance and Personnel) and the Minister for the Treasury of the Isle of Man shall be responsible for making any necessary financial adjustments between the National Insurance Funds of the territories as they may agree to be necessary.
+The Secretary of State for Work and Pensions (with the consent of the Treasury) and, as the case may require, the Department for Communities[^c-3cbc681395bfe387d7d64a8e2e13796a] in Northern Ireland (with the consent of the Department of Finance and Personnel) and the Minister for the Treasury of the Isle of Man shall be responsible for making any necessary financial adjustments between the National Insurance Funds of the territories as they may agree to be necessary.
 
-**14.** The Secretary of State for Work and Pensions and, as the case may require, the Department for Communities[^key-3e3892b4ecbb19996960dc4c9399f8f1] in Northern Ireland and the Minister for the Treasury of the Isle of Man shall from time to time determine the administrative procedures appropriate for the purposes of giving effect to the provisions of this Agreement.
+**14.** The Secretary of State for Work and Pensions and, as the case may require, the Department for Communities[^c-3e3892b4ecbb19996960dc4c9399f8f1] in Northern Ireland and the Minister for the Treasury of the Isle of Man shall from time to time determine the administrative procedures appropriate for the purposes of giving effect to the provisions of this Agreement.
 
 ### 15. Double Benefit
 
@@ -200,31 +200,31 @@ https://www.dsdni.gov.uk/publications/pensions-bill-draft-regulatory-impact-asse
 
 [^c22829091]: Marginal citation: S.R. [1949 No. 83](https://www.legislation.gov.uk/ukcm/1949/83).
 
-[^key-42901d1268c7ed8ec84400935fd5c657]: Textual amendment: Word in Sch. heading substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/2)
+[^c-42901d1268c7ed8ec84400935fd5c657]: Textual amendment: Word in Sch. heading substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/2)
 
 [^c22829101]: Marginal citation: S.R. [1977 No. 378](https://www.legislation.gov.uk/ukcm/1977/378). This S.R. was amended by S.R.s 1989 Nos. 137 and 427 and modified by S.R. [1988 No. 120](https://www.legislation.gov.uk/ukcm/1988/120) and S.R. [1996 No. 327](https://www.legislation.gov.uk/ukcm/1996/327).
 
-[^key-b489bf3415faa9629ed2f0a0b242fe93]: Textual amendment: Words in Sch. art. 1(1) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/3)
+[^c-b489bf3415faa9629ed2f0a0b242fe93]: Textual amendment: Words in Sch. art. 1(1) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/3)
 
 [^c22829111]: Marginal citation: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
 
 [^c22829121]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-7e2ab513ceba00c76c4686e6b8e6e5e0]: Textual amendment: Words in Sch. art. 2 inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 4](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/4)
+[^c-7e2ab513ceba00c76c4686e6b8e6e5e0]: Textual amendment: Words in Sch. art. 2 inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 4](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/4)
 
-[^key-ade9f6b667305cc9013a7123adb48327]: Textual amendment: Words in Sch. art. 3 inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/5)
+[^c-ade9f6b667305cc9013a7123adb48327]: Textual amendment: Words in Sch. art. 3 inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/5)
 
-[^key-509b02c7e30caa900f587d39a8b45449]: Textual amendment: Words in Sch. art. 4 inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/6)
+[^c-509b02c7e30caa900f587d39a8b45449]: Textual amendment: Words in Sch. art. 4 inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/6)
 
 [^c22829131]: Marginal citation: Section 48 was amended by paragraph 78 of Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-aed580abd8d85a2a220587808ec7e494]: Textual amendment: Sch. art. 4A inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/7)
+[^c-aed580abd8d85a2a220587808ec7e494]: Textual amendment: Sch. art. 4A inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/7)
 
-[^key-3f8e5c21152873dcb8722867026287c9]: Textual amendment: Sch. art. 5 heading substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/8)
+[^c-3f8e5c21152873dcb8722867026287c9]: Textual amendment: Sch. art. 5 heading substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/8)
 
 [^c22829141]: Marginal citation: Paragraph 5A was inserted by section 1(3) of the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22) and amended by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).
 
-[^key-2e536f4bde727c25a8bce88f47cda615]: Textual amendment: Sch. art. 5A inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/9)
+[^c-2e536f4bde727c25a8bce88f47cda615]: Textual amendment: Sch. art. 5A inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/9)
 
 [^c22829151]: Marginal citation: Vol. XVII of the Revised Statutes of the Isle of Man, p.197.
 
@@ -234,8 +234,8 @@ https://www.dsdni.gov.uk/publications/pensions-bill-draft-regulatory-impact-asse
 
 [^c22829181]: Marginal citation: [1966 c.6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6).
 
-[^key-bcd60b7fbdb35d0cf3b7cba32c8706c3]: Textual amendment: [Sch. art. 10A](https://www.legislation.gov.uk/nisr/2016/189/schedule/article/10A) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/10)
+[^c-bcd60b7fbdb35d0cf3b7cba32c8706c3]: Textual amendment: [Sch. art. 10A](https://www.legislation.gov.uk/nisr/2016/189/schedule/article/10A) inserted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/10)
 
-[^key-3cbc681395bfe387d7d64a8e2e13796a]: Textual amendment: Word in [Sch. art. 13](https://www.legislation.gov.uk/nisr/2016/189/schedule/article/13) substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/11)
+[^c-3cbc681395bfe387d7d64a8e2e13796a]: Textual amendment: Word in [Sch. art. 13](https://www.legislation.gov.uk/nisr/2016/189/schedule/article/13) substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/11)
 
-[^key-3e3892b4ecbb19996960dc4c9399f8f1]: Textual amendment: Word in [Sch. art. 14](https://www.legislation.gov.uk/nisr/2016/189/schedule/article/14) substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/11)
+[^c-3e3892b4ecbb19996960dc4c9399f8f1]: Textual amendment: Word in [Sch. art. 14](https://www.legislation.gov.uk/nisr/2016/189/schedule/article/14) substituted (6.4.2019) by [The Social Security (Reciprocal Agreement) (Isle of Man) (Amendment) Order (Northern Ireland) 2018 (S.R. 2018/212)](https://www.legislation.gov.uk/nisr/2018/212), [art. 1](https://www.legislation.gov.uk/nisr/2018/212/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2018/212/schedule/paragraph/11)

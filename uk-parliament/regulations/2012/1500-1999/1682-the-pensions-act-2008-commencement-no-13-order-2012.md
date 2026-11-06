@@ -37,13 +37,13 @@ Made
 
 The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by sections 144(4) and 149(1) of the Pensions Act 2008[^f00001].
 
-## 1. Citation[^key-538c09d2cd608d5ea157719fff4a81a5]
+## 1. Citation[^c-538c09d2cd608d5ea157719fff4a81a5]
 
 (1) This Order may be cited as the Pensions Act 2008 (Commencement No. 13) Order 2012.
 
 (2) In this Order, “the Act” means the Pensions Act 2008.
 
-## 2. Commencement of provisions[^key-431364dce2f76c5d43f4e3979ddcbbbf]
+## 2. Commencement of provisions[^c-431364dce2f76c5d43f4e3979ddcbbbf]
 
 (1) The provisions of the Act specified in paragraph (2) come into force on 30th June 2012.
 
@@ -62,7 +62,7 @@ Department for Work and Pensions
 
 28th June 2012
 
-## SCHEDULE 1 — Provisions of the Act (in so far as they are not already in force) coming into force on 30th June 2012[^key-e3661b73ab8b1b63973e6f7a56132150]
+## SCHEDULE 1 — Provisions of the Act (in so far as they are not already in force) coming into force on 30th June 2012[^c-e3661b73ab8b1b63973e6f7a56132150]
 
 Article 2(2)(a)
 
@@ -102,7 +102,7 @@ Article 2(2)(a)
 | Section 96 | Persons working on vessels |
 | Section 97 | Persons in offshore employment |
 
-## SCHEDULE 2 — Provisions of the Act coming into force on 30th June 2012[^key-8401b6ee223770a41a039924181e09cb]
+## SCHEDULE 2 — Provisions of the Act coming into force on 30th June 2012[^c-8401b6ee223770a41a039924181e09cb]
 
 Article 2(2)(b)
 
@@ -227,11 +227,11 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-538c09d2cd608d5ea157719fff4a81a5]: Commencement: Art. 1 in force at made date
+[^c-538c09d2cd608d5ea157719fff4a81a5]: Commencement: Art. 1 in force at made date
 
-[^key-431364dce2f76c5d43f4e3979ddcbbbf]: Commencement: Art. 2 in force at made date
+[^c-431364dce2f76c5d43f4e3979ddcbbbf]: Commencement: Art. 2 in force at made date
 
-[^key-e3661b73ab8b1b63973e6f7a56132150]: Commencement: Sch. 1 in force at made date
+[^c-e3661b73ab8b1b63973e6f7a56132150]: Commencement: Sch. 1 in force at made date
 
 [^f00002]: Footnote: Section 2 was amended by section 4(1) of the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19).
 
@@ -259,7 +259,7 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00014]: Footnote: Section 54 was amended by section 4(6) of the Pensions Act 2011.
 
-[^key-8401b6ee223770a41a039924181e09cb]: Commencement: Sch. 2 in force at made date
+[^c-8401b6ee223770a41a039924181e09cb]: Commencement: Sch. 2 in force at made date
 
 [^f00015]: Footnote: Section 44 was amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 

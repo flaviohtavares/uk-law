@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — FORMS[^key-59f788e1a4e26cd1cb7734ce633a5cf7]
+## SCHEDULE 3 — FORMS[^c-59f788e1a4e26cd1cb7734ce633a5cf7]
 
 *Extent: S*
 
 Rule 1.4
 
-[^key-425b07bbeb30eafa4d63e4023c6161e3]Form 3.1
+[^c-425b07bbeb30eafa4d63e4023c6161e3]Form 3.1
 
 [image: see source](https://www.legislation.gov.uk/ssi/2017/103/images/ssi_20170103_en_001)[image: see source](https://www.legislation.gov.uk/ssi/2017/103/images/ssi_20170103_en_002)
 
@@ -90,7 +90,7 @@ Form S4.5
 
 [image: see source](https://www.legislation.gov.uk/ssi/2017/103/images/ssi_20170103_en_024)
 
-[^key-438dcfe5f7759db654c1c777b002f91e]Form S4.7
+[^c-438dcfe5f7759db654c1c777b002f91e]Form S4.7
 
 [image: see source](https://www.legislation.gov.uk/ssi/2017/103/images/ssi_20170103_en_025)
 
@@ -106,7 +106,7 @@ Form S5.5B
 
 [image: see source](https://www.legislation.gov.uk/ssi/2017/103/images/ssi_20170103_en_030)
 
-[^key-a409768383bbc19852f114e9384806d8]Form S5.5C
+[^c-a409768383bbc19852f114e9384806d8]Form S5.5C
 
 [image: see source](https://www.legislation.gov.uk/ssi/2017/103/images/ssi_20170103_en_031)
 
@@ -144,10 +144,10 @@ Form S6.2C
 
 ## Annotations
 
-[^key-59f788e1a4e26cd1cb7734ce633a5cf7]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-59f788e1a4e26cd1cb7734ce633a5cf7]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-425b07bbeb30eafa4d63e4023c6161e3]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) Form 3.1: in the second alternative paragraph 2, the words “and set out which condition in section 6(3) is met” are inserted after “section 4(1)(a)(i) or (ii)” (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(5)(a)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/5/a)
+[^c-425b07bbeb30eafa4d63e4023c6161e3]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) Form 3.1: in the second alternative paragraph 2, the words “and set out which condition in section 6(3) is met” are inserted after “section 4(1)(a)(i) or (ii)” (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(5)(a)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/5/a)
 
-[^key-438dcfe5f7759db654c1c777b002f91e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) Form S4.7: the words "“SIGNED (signature) (place and date)” are inserted at the end (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(5)(b)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/5/b)
+[^c-438dcfe5f7759db654c1c777b002f91e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) Form S4.7: the words "“SIGNED (signature) (place and date)” are inserted at the end (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(5)(b)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/5/b)
 
-[^key-a409768383bbc19852f114e9384806d8]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) Form S5.5C: the words “Form of receipt for recovered documents” are substituted for the heading (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(5)(c)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/5/c)
+[^c-a409768383bbc19852f114e9384806d8]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/3) Form S5.5C: the words “Form of receipt for recovered documents” are substituted for the heading (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(5)(c)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/5/c)

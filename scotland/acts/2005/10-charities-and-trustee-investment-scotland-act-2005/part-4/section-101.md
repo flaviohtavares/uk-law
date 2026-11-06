@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Offences by bodies corporate etc.[^key-a8db37f75f187cc8fb912eb05cde9942]
+## 101. Offences by bodies corporate etc.[^c-a8db37f75f187cc8fb912eb05cde9942]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the individual (as well as the body corporate, Scottish partnership or, as the c
 
 ## Annotations
 
-[^key-a8db37f75f187cc8fb912eb05cde9942]: Commencement: S. 101 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-a8db37f75f187cc8fb912eb05cde9942]: Commencement: S. 101 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

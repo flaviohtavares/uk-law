@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356A. Certain offences in relation to execution of search and seizure warrants[^key-b3eedfb12a4442eba70e4583459739ee]
+## 356A. Certain offences in relation to execution of search and seizure warrants[^c-b3eedfb12a4442eba70e4583459739ee]
 
 *Extent: E+W+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3eedfb12a4442eba70e4583459739ee]: Textual amendment: S. 356A inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. for specified purposes, 28.6.2021 for N.I. in so far as not already in force, 28.6.2021 for E.W. for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 22](https://www.legislation.gov.uk/ukpga/2017/22/section/22), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/g); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/j)[(2)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/a)
+[^c-b3eedfb12a4442eba70e4583459739ee]: Textual amendment: S. 356A inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. for specified purposes, 28.6.2021 for N.I. in so far as not already in force, 28.6.2021 for E.W. for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 22](https://www.legislation.gov.uk/ukpga/2017/22/section/22), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/g); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/j)[(2)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/a)

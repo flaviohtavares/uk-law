@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Modification to Part 1[^key-e252ef8a7207facd349a68e6381fa07c]
+## 103. Modification to Part 1[^c-e252ef8a7207facd349a68e6381fa07c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 2 (interpretation) has effect as if, in the definition of “applicat
 
 ## Annotations
 
-[^key-e252ef8a7207facd349a68e6381fa07c]: Commencement: Reg. 103 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-e252ef8a7207facd349a68e6381fa07c]: Commencement: Reg. 103 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

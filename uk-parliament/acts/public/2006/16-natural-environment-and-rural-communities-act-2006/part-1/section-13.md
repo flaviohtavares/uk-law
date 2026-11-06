@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Incidental powers[^key-09af57caeb7cf54888432a7708134b28]
+## 13. Incidental powers[^c-09af57caeb7cf54888432a7708134b28]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09af57caeb7cf54888432a7708134b28]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/16/section/13) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)
+[^c-09af57caeb7cf54888432a7708134b28]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/16/section/13) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)

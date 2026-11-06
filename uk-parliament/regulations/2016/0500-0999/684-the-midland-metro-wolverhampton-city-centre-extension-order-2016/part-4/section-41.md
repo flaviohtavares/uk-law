@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Power to charge fares[^key-6eb10a43dbad0fef186abcfcb4608922]
+## 41. Power to charge fares[^c-6eb10a43dbad0fef186abcfcb4608922]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Authority may demand, take and recover or waive such charges for carrying pa
 
 ## Annotations
 
-[^key-6eb10a43dbad0fef186abcfcb4608922]: Commencement: Art. 41 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-6eb10a43dbad0fef186abcfcb4608922]: Commencement: Art. 41 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — OLD PRESSURE RECEPTACLES[^key-e727cdaa973037c823281c6eec5746c8]
+## SCHEDULE 3 — OLD PRESSURE RECEPTACLES[^c-e727cdaa973037c823281c6eec5746c8]
 
 *Extent: E+W+S*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Regulation 16(3)
 
-### 1. Interpretation[^key-e727cdaa973037c823281c6eec5746c8]
+### 1. Interpretation[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Further matters relating to interpretation[^key-e727cdaa973037c823281c6eec5746c8]
+### 2. Further matters relating to interpretation[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Duties on those designing, manufacturing, importing, supplying, modifying or repairing old pressure receptacles[^key-e727cdaa973037c823281c6eec5746c8]
+### 3. Duties on those designing, manufacturing, importing, supplying, modifying or repairing old pressure receptacles[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Conformity to approved design standard or specification[^key-e727cdaa973037c823281c6eec5746c8]
+### 4. Conformity to approved design standard or specification[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Examination of old pressure receptacles[^key-e727cdaa973037c823281c6eec5746c8]
+### 5. Examination of old pressure receptacles[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Filling of old pressure receptacles[^key-e727cdaa973037c823281c6eec5746c8]
+### 6. Filling of old pressure receptacles[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Approved design specification[^key-e727cdaa973037c823281c6eec5746c8]
+### 7. Approved design specification[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Modification, repair and re-rating of old pressure receptacles[^key-e727cdaa973037c823281c6eec5746c8]
+### 8. Modification, repair and re-rating of old pressure receptacles[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Additional requirements for old pressure receptacles containing certain dangerous goods not classified as class 2 goods[^key-e727cdaa973037c823281c6eec5746c8]
+### 9. Additional requirements for old pressure receptacles containing certain dangerous goods not classified as class 2 goods[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Appointment of approved persons or inspection bodies by the GB competent authority[^key-e727cdaa973037c823281c6eec5746c8]
+### 10. Appointment of approved persons or inspection bodies by the GB competent authority[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)
+[^c-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)

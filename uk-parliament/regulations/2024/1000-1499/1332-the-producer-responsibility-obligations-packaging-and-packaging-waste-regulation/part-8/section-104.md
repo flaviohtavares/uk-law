@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Right of appeal: decisions of the appropriate agency and civil sanctions[^key-534919e16ec2ff138a9c29fe65aaab9d]
+## 104. Right of appeal: decisions of the appropriate agency and civil sanctions[^c-534919e16ec2ff138a9c29fe65aaab9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ may appeal to the appeal body against the imposition of that sanction or the iss
 
 ## Annotations
 
-[^key-534919e16ec2ff138a9c29fe65aaab9d]: Commencement: Reg. 104 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-534919e16ec2ff138a9c29fe65aaab9d]: Commencement: Reg. 104 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

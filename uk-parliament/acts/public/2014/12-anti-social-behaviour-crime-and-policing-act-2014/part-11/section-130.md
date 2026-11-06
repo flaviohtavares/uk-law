@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. The College and the IPCC[^key-bed301b76f9646e8ad2ccc81efa80aff]
+## 130. The College and the IPCC[^c-bed301b76f9646e8ad2ccc81efa80aff]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ In Part 2 of the Police Reform Act 2002 (complaints and misconduct), before sect
 
 ## Annotations
 
-[^key-bed301b76f9646e8ad2ccc81efa80aff]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2014/12/section/130) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-bed301b76f9646e8ad2ccc81efa80aff]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2014/12/section/130) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1F — MEASURING SYSTEMS FOR THE CONTINUOUS AND DYNAMIC MEASUREMENT OF QUANTITIES OF LIQUIDS OTHER THAN WATER (MI-005) (Annex VII to the Directive)[^key-db36bddddc24290f34eae627e73605b8]
+## SCHEDULE 1F — MEASURING SYSTEMS FOR THE CONTINUOUS AND DYNAMIC MEASUREMENT OF QUANTITIES OF LIQUIDS OTHER THAN WATER (MI-005) (Annex VII to the Directive)[^c-db36bddddc24290f34eae627e73605b8]
 
 *Extent: E+W+S*
 
@@ -263,4 +263,4 @@ The metered quantity shall be displayed in millilitres, cubic centimetres, litre
 
 ## Annotations
 
-[^key-db36bddddc24290f34eae627e73605b8]: Textual amendment: [Schs. 1A-1K](https://www.legislation.gov.uk/uksi/2016/1153/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 49](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/49) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db36bddddc24290f34eae627e73605b8]: Textual amendment: [Schs. 1A-1K](https://www.legislation.gov.uk/uksi/2016/1153/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 49](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/49) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

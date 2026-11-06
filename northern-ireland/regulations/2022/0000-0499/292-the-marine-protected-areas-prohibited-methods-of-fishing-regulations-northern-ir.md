@@ -42,11 +42,11 @@ Coming into operation-
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by sections 19(1) and 124(1), (2) and (2A) of the Fisheries Act (Northern Ireland) 1966[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-6326870630b42ce81688c1d2dca01380]
+## 1. Citation and commencement[^c-6326870630b42ce81688c1d2dca01380]
 
 These Regulations may be cited as the Marine Protected Areas (Prohibited Methods of Fishing) Regulations (Northern Ireland) 2022 and come into operation on 1st January 2023.
 
-## 2. Interpretation[^key-1937f3267482ad56462d491a9b8c277b]
+## 2. Interpretation[^c-1937f3267482ad56462d491a9b8c277b]
 
 In these Regulations—
 
@@ -75,7 +75,7 @@ In these Regulations—
 - “**The Maidens Special Areas of Conservation**” means the areas of the sea drawn by a series of straight lines joining each of the points lettered alphabetically in column 1 of each table in Schedule 8, the coordinates which are set out in columns 2 and 3 opposite each point, to the next point in sequence, with a line drawn joining the final point in the sequence to the point lettered A in the sequence; and
 - “**Waterfoot Marine Conservation Zone**” means the area of the sea drawn by a series of straight lines joining each of the points lettered alphabetically in column 1 in Schedule 9, the coordinates which are set out in columns 2 and 3 opposite each point, to the next point in sequence, with a line drawn joining the final point in the sequence to the point lettered A in the sequence.
 
-## 3. Prohibited methods of fishing[^key-a2c82e4d0f94dcd5f8715936c9701246]
+## 3. Prohibited methods of fishing[^c-a2c82e4d0f94dcd5f8715936c9701246]
 
 (1) Subject to regulation 4 fishing for sea-fish using demersal mobile gear is prohibited in—
 
@@ -85,7 +85,7 @@ In these Regulations—
 - (d) Rathlin Island Special Area of Conservation and Marine Conservation Zone;
 - (e) Red Bay Special Area of Conservation;
 - (f) Skerries and Causeway Special Area of Conservation;
-- (g) Strangford Lough Marine Conservation Zone [^key-baf57df36d801e57b9ecf624e16f8267]...;
+- (g) Strangford Lough Marine Conservation Zone [^c-baf57df36d801e57b9ecf624e16f8267]...;
 - (h) The Maidens Special Areas of Conservation; and
 - (i) Waterfoot Marine Conservation Zone.
 
@@ -98,15 +98,15 @@ In these Regulations—
 
 (3) Where a fishing vessel is transiting any of the areas where the prohibitions in regulation 3(1) apply the person in charge of the fishing vessel must ensure that all demersal mobile gear is secured and stowed so that the gear may not be readily used.
 
-## 4. Exceptions[^key-0d38c43e9433bdd110157437580dc5a4]
+## 4. Exceptions[^c-0d38c43e9433bdd110157437580dc5a4]
 
 (1) The prohibitions in regulation 3 do not apply to any person who is operating within any of those areas under the authority of and in accordance with the terms and conditions of a permit granted under section 14 of the Act.
 
 (2) The prohibition in regulation 3(1)(f) does not apply where a licence has been granted in respect of a fishing vessel under section 15 of the Fisheries Act 2020[^f00005] to fish using demersal mobile gear in the Skerries and Causeway exempted areas.
 
-(3) The prohibition in regulation 3(2)(a) does not apply to any person fishing with single pots at a depth of less than 10 metres[^key-f4cf99e66bde1304cd8117e063e6eec0] below Chart Datum as shown on the Admiralty Chart[^f00006].
+(3) The prohibition in regulation 3(2)(a) does not apply to any person fishing with single pots at a depth of less than 10 metres[^c-f4cf99e66bde1304cd8117e063e6eec0] below Chart Datum as shown on the Admiralty Chart[^f00006].
 
-## 5. Revocation[^key-f4c1a135033f66e074662e7330a80d05]
+## 5. Revocation[^c-f4c1a135033f66e074662e7330a80d05]
 
 The following regulations are revoked—
 
@@ -123,7 +123,7 @@ Department of Agriculture, Environment and Rural Affairs
 
 SCHEDULES
 
-## SCHEDULE 1 — Carlingford Lough Marine Conservation Zone[^key-7a02f01be74f3969596e3faab80409d7]
+## SCHEDULE 1 — Carlingford Lough Marine Conservation Zone[^c-7a02f01be74f3969596e3faab80409d7]
 
 Regulation 3
 
@@ -135,7 +135,7 @@ Regulation 3
 | D. | 54° 5.053’N | 6° 11.492’W |
 | E. | 54° 4.653’N | 6° 12.192’W |
 
-## SCHEDULE 2 — Murlough Bay Special Area of Conservation[^key-e7a8829067fbfb12f4c53b716b5b6794]
+## SCHEDULE 2 — Murlough Bay Special Area of Conservation[^c-e7a8829067fbfb12f4c53b716b5b6794]
 
 Regulation 3
 
@@ -144,7 +144,7 @@ Regulation 3
 | A. | 54° 13.472’N | 005° 39.547’W |
 | B. | 54° 07.240’N | 005° 52.969’W |
 
-## SCHEDULE 3 — Outer Belfast Lough Marine Conservation Zone[^key-d11c7e63603a10c475c05b8d657fa17f]
+## SCHEDULE 3 — Outer Belfast Lough Marine Conservation Zone[^c-d11c7e63603a10c475c05b8d657fa17f]
 
 Regulation 3
 
@@ -157,7 +157,7 @@ Regulation 3
 | E. | 54° 41.978’N | 5° 35.203’W |
 | F. | 54° 41.979’N | 5° 36.672’W |
 
-## SCHEDULE 4 — Rathlin Island Special Area of Conservation and Marine Conservation Zone[^key-8b64250eac5fa91b6523b24c2337abd7]
+## SCHEDULE 4 — Rathlin Island Special Area of Conservation and Marine Conservation Zone[^c-8b64250eac5fa91b6523b24c2337abd7]
 
 Regulation 3
 
@@ -173,7 +173,7 @@ Regulation 3
 | H | 55° 17.104’N | 006° 18.060’W |
 | I | 55° 20.764’N | 006° 17.906’W |
 
-## SCHEDULE 4A — Rathlin Island restricted area[^key-1b157387162da4f13261985c3f0532fe]
+## SCHEDULE 4A — Rathlin Island restricted area[^c-1b157387162da4f13261985c3f0532fe]
 
 Regulation 3
 
@@ -186,18 +186,18 @@ Regulation 3
 | E. | 55° 17.36214’N | 006° 15.6912’W |
 | F. | 55° 17.40138’N | 006° 15.6893’W |
 
-## SCHEDULE 5 — Red Bay Special Area of Conservation[^key-cd7bb4ef67d24ef2f4bd096b10f024f3]
+## SCHEDULE 5 — Red Bay Special Area of Conservation[^c-cd7bb4ef67d24ef2f4bd096b10f024f3]
 
 Regulation 3
 
 | Points | Latitude | Longitude |
 | --- | --- | --- |
-| A. | 55° 08.440’N | 006° 01.492’W[^key-94b295a7fd6dd7ff280660ac6b3628d8] |
-| B. | 55° 08.440’N | 006° 00.516’W[^key-3b6be45ad57d738a71ffddf3e5ce3854] |
-| C. | 55° 05.450’N[^key-4ac00dcc6f6b814323c3998bb4c8a79f] | 006° 00.516’W[^key-10375e67770185e0af53a7cccca662f9] |
-| D. | 55° 05.450’N | 006° 02.816’W[^key-162fe3fc85086ec402015164e7d554eb] |
+| A. | 55° 08.440’N | 006° 01.492’W[^c-94b295a7fd6dd7ff280660ac6b3628d8] |
+| B. | 55° 08.440’N | 006° 00.516’W[^c-3b6be45ad57d738a71ffddf3e5ce3854] |
+| C. | 55° 05.450’N[^c-4ac00dcc6f6b814323c3998bb4c8a79f] | 006° 00.516’W[^c-10375e67770185e0af53a7cccca662f9] |
+| D. | 55° 05.450’N | 006° 02.816’W[^c-162fe3fc85086ec402015164e7d554eb] |
 
-## SCHEDULE 6 — Skerries and Causeway Special Area of Conservation[^key-cc0663c3c498251fac69600913c8edc9]
+## SCHEDULE 6 — Skerries and Causeway Special Area of Conservation[^c-cc0663c3c498251fac69600913c8edc9]
 
 Regulation 3
 
@@ -205,12 +205,12 @@ Regulation 3
 | --- | --- | --- |
 | A. | 55° 11.300’N | 006° 43.269’W |
 | B. | 55° 11.300’N | 006° 44.200’W |
-| C. | 55° 13.540’N[^key-e40a83d6e31edfb091aed2fc5de8427c] | 006° 44.200’W |
+| C. | 55° 13.540’N[^c-e40a83d6e31edfb091aed2fc5de8427c] | 006° 44.200’W |
 | D. | 55° 17.000’N | 006° 36.930’W |
-| E. | 55° 17.000’N | 006° 26.920’W[^key-90871ac4be7264b6ef01dc71b8a08aec] |
+| E. | 55° 17.000’N | 006° 26.920’W[^c-90871ac4be7264b6ef01dc71b8a08aec] |
 | F. | 55° 14.360’N | 006° 26.920’W |
 
-## SCHEDULE 6A — Skerries and Causeway exempted areas[^key-2793fce30560a468c9bef7f76c3ab600]
+## SCHEDULE 6A — Skerries and Causeway exempted areas[^c-2793fce30560a468c9bef7f76c3ab600]
 
 Regulation 3
 
@@ -249,7 +249,7 @@ Area 2
 | N | 55° 16.771’N | 006° 36.430’W |
 | O | 55° 17.006’N | 006° 35.869’W |
 
-## SCHEDULE 6B — Skerries and Causeway restricted area[^key-701f90d2c04cc49dfb18dfad7d476869]
+## SCHEDULE 6B — Skerries and Causeway restricted area[^c-701f90d2c04cc49dfb18dfad7d476869]
 
 Regulation 3
 
@@ -260,7 +260,7 @@ Regulation 3
 | C. | 55° 13.363’N | 006° 38.235’W |
 | D. | 55° 13.369’N | 006° 37.477’W |
 
-## SCHEDULE 7 — Strangford Lough Marine Conservation Zone[^key-13d92bbc1a5c415f4064e3e377c4ba99]
+## SCHEDULE 7 — Strangford Lough Marine Conservation Zone[^c-13d92bbc1a5c415f4064e3e377c4ba99]
 
 Regulation 3
 
@@ -273,11 +273,11 @@ Regulation 3
 | E. | 54° 16.517’N | 005° 33.385’W |
 | F. | 54° 16.518’N | 005° 34.478’W |
 
-## SCHEDULE 8 — The Maidens Special Areas of Conservation[^key-e9de00158b65fa01e256fb2a3c7adda4]
+## SCHEDULE 8 — The Maidens Special Areas of Conservation[^c-e9de00158b65fa01e256fb2a3c7adda4]
 
 Regulation 3
 
-Area 1[^key-844ea7302e9673a487d7bc951067bb94]
+Area 1[^c-844ea7302e9673a487d7bc951067bb94]
 
 | Points | Latitude | Longitude |
 | --- | --- | --- |
@@ -300,15 +300,15 @@ Area 3
 | Points | Latitude | Longitude |
 | --- | --- | --- |
 | A. | 55° 00.330’N | 005° 47.060’W |
-| B. | 54° 58.080’N | 005° 45.010’W[^key-c358a29545e7ef28bf0979e50acf4973] |
-| C. | 54° 57.250’N | 005° 42.250’W[^key-d4b5fc0f11dbeaff658fc0e11e6696ee] |
+| B. | 54° 58.080’N | 005° 45.010’W[^c-c358a29545e7ef28bf0979e50acf4973] |
+| C. | 54° 57.250’N | 005° 42.250’W[^c-d4b5fc0f11dbeaff658fc0e11e6696ee] |
 | D. | 54° 54.100’N | 005° 42.040’W |
 | E | 54° 54.150’N | 005° 44.290’W |
 | F | 54° 51.990’N | 005° 44.150’W |
 | G | 54° 53.610’N | 005° 47.910’W |
 | H | 55° 00.120’N | 005° 48.360’W |
 
-## SCHEDULE 9 — Waterfoot Marine Conservation Zone[^key-9c97572f15bc7ee5dda5fcd23890b3df][^key-14c9223af32ec681c2de73ff282e396e]
+## SCHEDULE 9 — Waterfoot Marine Conservation Zone[^c-9c97572f15bc7ee5dda5fcd23890b3df][^c-14c9223af32ec681c2de73ff282e396e]
 
 Regulation 3
 
@@ -343,74 +343,74 @@ Contravention of these Regulations is an offence under section 124(3) of the Fis
 
 [^f00002]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/nia/1966/17); Section 124 was substituted by [S.I. 1981/227 (N.I.7)](https://www.legislation.gov.uk/nisi/1981/227), Article 6, and relevant amendments were made by [2001 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2001/4) section 1 and [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), Article 6(2). There is another amendment but it is not relevant.
 
-[^key-6326870630b42ce81688c1d2dca01380]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-6326870630b42ce81688c1d2dca01380]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-1937f3267482ad56462d491a9b8c277b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/292/regulation/2) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-1937f3267482ad56462d491a9b8c277b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/292/regulation/2) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
 [^f00003]: Footnote: Definitions of World Geodetic System 1984 Datum and co-ordinate reference system are available via EPSG Geodetic Parameter Registry as EPSG:6326 (http://epsg.io/6326-datum) and EPSG:4326 (http://epsg.io/4326) respectively.
 
-[^key-a2c82e4d0f94dcd5f8715936c9701246]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/292/regulation/3) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-a2c82e4d0f94dcd5f8715936c9701246]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/292/regulation/3) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-baf57df36d801e57b9ecf624e16f8267]: Textual amendment: Words in [reg. 3(1)(g)](https://www.legislation.gov.uk/nisr/2022/292/regulation/3/1/g) deleted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/2)
+[^c-baf57df36d801e57b9ecf624e16f8267]: Textual amendment: Words in [reg. 3(1)(g)](https://www.legislation.gov.uk/nisr/2022/292/regulation/3/1/g) deleted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/2)
 
 [^f00004]: Footnote: see Admiralty Chart 2198 published by the United Kingdom Hydrographic Office
 
-[^key-0d38c43e9433bdd110157437580dc5a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/292/regulation/4) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-0d38c43e9433bdd110157437580dc5a4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2022/292/regulation/4) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
 [^f00005]: Footnote: [2020 c.22](https://www.legislation.gov.uk/ukpga/2020/22)
 
-[^key-f4cf99e66bde1304cd8117e063e6eec0]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2022/292/regulation/4/3) inserted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/3)
+[^c-f4cf99e66bde1304cd8117e063e6eec0]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2022/292/regulation/4/3) inserted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/3)
 
 [^f00006]: Footnote: see Admiralty Chart 2494 published by the United Kingdom Hydrographic Office
 
-[^key-f4c1a135033f66e074662e7330a80d05]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/292/regulation/5) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-f4c1a135033f66e074662e7330a80d05]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/292/regulation/5) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1998 No. 414](https://www.legislation.gov.uk/nisr/1998/414) as amended by [S.R. 2000 No. 157](https://www.legislation.gov.uk/nisr/2000/157)
 
 [^f00008]: Footnote: [S.R.2016 No. 408](https://www.legislation.gov.uk/nisr/2016/408)
 
-[^key-7a02f01be74f3969596e3faab80409d7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2022/292/schedule/1) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-7a02f01be74f3969596e3faab80409d7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2022/292/schedule/1) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-e7a8829067fbfb12f4c53b716b5b6794]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2022/292/schedule/2) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-e7a8829067fbfb12f4c53b716b5b6794]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2022/292/schedule/2) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-d11c7e63603a10c475c05b8d657fa17f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2022/292/schedule/3) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-d11c7e63603a10c475c05b8d657fa17f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2022/292/schedule/3) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-8b64250eac5fa91b6523b24c2337abd7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2022/292/schedule/4) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-8b64250eac5fa91b6523b24c2337abd7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2022/292/schedule/4) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-1b157387162da4f13261985c3f0532fe]: Commencement: [Sch. 4A](https://www.legislation.gov.uk/nisr/2022/292/schedule/4A) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-1b157387162da4f13261985c3f0532fe]: Commencement: [Sch. 4A](https://www.legislation.gov.uk/nisr/2022/292/schedule/4A) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-cd7bb4ef67d24ef2f4bd096b10f024f3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-cd7bb4ef67d24ef2f4bd096b10f024f3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-94b295a7fd6dd7ff280660ac6b3628d8]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/a)
+[^c-94b295a7fd6dd7ff280660ac6b3628d8]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/a)
 
-[^key-3b6be45ad57d738a71ffddf3e5ce3854]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/b)
+[^c-3b6be45ad57d738a71ffddf3e5ce3854]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/b)
 
-[^key-4ac00dcc6f6b814323c3998bb4c8a79f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/c)
+[^c-4ac00dcc6f6b814323c3998bb4c8a79f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/c)
 
-[^key-10375e67770185e0af53a7cccca662f9]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/d)
+[^c-10375e67770185e0af53a7cccca662f9]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/d)
 
-[^key-162fe3fc85086ec402015164e7d554eb]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/e)
+[^c-162fe3fc85086ec402015164e7d554eb]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2022/292/schedule/5) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/4/e)
 
-[^key-cc0663c3c498251fac69600913c8edc9]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2022/292/schedule/6) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-cc0663c3c498251fac69600913c8edc9]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2022/292/schedule/6) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-e40a83d6e31edfb091aed2fc5de8427c]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisr/2022/292/schedule/6) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/5/a)
+[^c-e40a83d6e31edfb091aed2fc5de8427c]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisr/2022/292/schedule/6) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/5/a)
 
-[^key-90871ac4be7264b6ef01dc71b8a08aec]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisr/2022/292/schedule/6) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/5/b)
+[^c-90871ac4be7264b6ef01dc71b8a08aec]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisr/2022/292/schedule/6) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/5/b)
 
-[^key-2793fce30560a468c9bef7f76c3ab600]: Commencement: [Sch. 6A](https://www.legislation.gov.uk/nisr/2022/292/schedule/6A) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-2793fce30560a468c9bef7f76c3ab600]: Commencement: [Sch. 6A](https://www.legislation.gov.uk/nisr/2022/292/schedule/6A) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-701f90d2c04cc49dfb18dfad7d476869]: Commencement: [Sch. 6B](https://www.legislation.gov.uk/nisr/2022/292/schedule/6B) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-701f90d2c04cc49dfb18dfad7d476869]: Commencement: [Sch. 6B](https://www.legislation.gov.uk/nisr/2022/292/schedule/6B) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-13d92bbc1a5c415f4064e3e377c4ba99]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2022/292/schedule/7) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-13d92bbc1a5c415f4064e3e377c4ba99]: Commencement: [Sch. 7](https://www.legislation.gov.uk/nisr/2022/292/schedule/7) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-e9de00158b65fa01e256fb2a3c7adda4]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2022/292/schedule/8) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-e9de00158b65fa01e256fb2a3c7adda4]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2022/292/schedule/8) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-844ea7302e9673a487d7bc951067bb94]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/nisr/2022/292/schedule/8) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/6)
+[^c-844ea7302e9673a487d7bc951067bb94]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/nisr/2022/292/schedule/8) substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/6)
 
-[^key-c358a29545e7ef28bf0979e50acf4973]: Textual amendment: Words in [Sch. 8(B)](https://www.legislation.gov.uk/nisr/2022/292/schedule/8/B) substituted (15.10.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/135)](https://www.legislation.gov.uk/nisr/2023/135), [regs. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/135/regulation/2/2/a)
+[^c-c358a29545e7ef28bf0979e50acf4973]: Textual amendment: Words in [Sch. 8(B)](https://www.legislation.gov.uk/nisr/2022/292/schedule/8/B) substituted (15.10.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/135)](https://www.legislation.gov.uk/nisr/2023/135), [regs. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/135/regulation/2/2/a)
 
-[^key-d4b5fc0f11dbeaff658fc0e11e6696ee]: Textual amendment: Words in [Sch. 8(C)](https://www.legislation.gov.uk/nisr/2022/292/schedule/8/C) substituted (15.10.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/135)](https://www.legislation.gov.uk/nisr/2023/135), [regs. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/135/regulation/2/2/b)
+[^c-d4b5fc0f11dbeaff658fc0e11e6696ee]: Textual amendment: Words in [Sch. 8(C)](https://www.legislation.gov.uk/nisr/2022/292/schedule/8/C) substituted (15.10.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/135)](https://www.legislation.gov.uk/nisr/2023/135), [regs. 1](https://www.legislation.gov.uk/nisr/2023/135/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/135/regulation/2/2/b)
 
-[^key-9c97572f15bc7ee5dda5fcd23890b3df]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/2022/292/schedule/9) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
+[^c-9c97572f15bc7ee5dda5fcd23890b3df]: Commencement: [Sch. 9](https://www.legislation.gov.uk/nisr/2022/292/schedule/9) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/292/regulation/1)
 
-[^key-14c9223af32ec681c2de73ff282e396e]: Textual amendment: Word in [Sch. 9](https://www.legislation.gov.uk/nisr/2022/292/schedule/9) heading substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/7)
+[^c-14c9223af32ec681c2de73ff282e396e]: Textual amendment: Word in [Sch. 9](https://www.legislation.gov.uk/nisr/2022/292/schedule/9) heading substituted (1.1.2023) by [The Marine Protected Areas (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/303)](https://www.legislation.gov.uk/nisr/2022/303), [regs. 1](https://www.legislation.gov.uk/nisr/2022/303/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2022/303/regulation/2/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Members of legislatures disqualified for being a mayor of a strategic authority[^key-918fe2f8e11ba5249742f5af82410caf]
+## 17. Members of legislatures disqualified for being a mayor of a strategic authority[^c-918fe2f8e11ba5249742f5af82410caf]
 
 *Extent: E+W*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-918fe2f8e11ba5249742f5af82410caf]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2026/23/section/17) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-918fe2f8e11ba5249742f5af82410caf]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2026/23/section/17) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

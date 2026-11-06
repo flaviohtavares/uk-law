@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of the National Institute for Health and Care Excellence (Constitution and Functions) and NHS England (Information Functions) Regulations 2013[^key-f28bb21d440af6c303539a13ec741daf]
+## 59. Amendment of the National Institute for Health and Care Excellence (Constitution and Functions) and NHS England (Information Functions) Regulations 2013[^c-f28bb21d440af6c303539a13ec741daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f28bb21d440af6c303539a13ec741daf]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2023/1071/regulation/59) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-f28bb21d440af6c303539a13ec741daf]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2023/1071/regulation/59) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00048]: Footnote: [S.I. 2013/259](https://www.legislation.gov.uk/uksi/2013/259), to which there are amendments not relevant to these Regulations.

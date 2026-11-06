@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46B. Extension of time limit to allow conciliation[^key-2f4363b70c639007fcdb07f11f8cac8c]
+## 46B. Extension of time limit to allow conciliation[^c-2f4363b70c639007fcdb07f11f8cac8c]
 
 *Extent: N.I.*
 
 (1) This Article applies for the purposes of Article 46(1)(a).
 
-[^key-dab013604bab412c32c138fbb01bc1a3]...
+[^c-dab013604bab412c32c138fbb01bc1a3]...
 
 (2) In this Article—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f4363b70c639007fcdb07f11f8cac8c]: Textual amendment: [Art. 46B](https://www.legislation.gov.uk/nisi/1998/3162/article/46B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 6(2)](https://www.legislation.gov.uk/nia/2016/15/section/6/2), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/1/article/2/e)
+[^c-2f4363b70c639007fcdb07f11f8cac8c]: Textual amendment: [Art. 46B](https://www.legislation.gov.uk/nisi/1998/3162/article/46B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 6(2)](https://www.legislation.gov.uk/nia/2016/15/section/6/2), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/1/article/2/e)
 
-[^key-dab013604bab412c32c138fbb01bc1a3]: Textual amendment: Words in [art. 46B(1)](https://www.legislation.gov.uk/nisi/1998/3162/article/46B/1) omitted (31.12.2020) by virtue of S.I. 2019/469, Sch. 1 para. 14(4) (as inserted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/2/3))
+[^c-dab013604bab412c32c138fbb01bc1a3]: Textual amendment: Words in [art. 46B(1)](https://www.legislation.gov.uk/nisi/1998/3162/article/46B/1) omitted (31.12.2020) by virtue of S.I. 2019/469, Sch. 1 para. 14(4) (as inserted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/2/3))

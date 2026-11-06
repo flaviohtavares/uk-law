@@ -50,7 +50,7 @@ In accordance with section 7(5) of that Act, the Secretary of State has consulte
 
 The Secretary of State makes the following Regulations:
 
-## 1. Citation, application, commencement and interpretation[^key-d18972e94b18877281f4a7cadce3fbd3]
+## 1. Citation, application, commencement and interpretation[^c-d18972e94b18877281f4a7cadce3fbd3]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Amendment) Regulations 2008.
 
@@ -60,11 +60,11 @@ The Secretary of State makes the following Regulations:
 
 (4) In these Regulations “the Benefits Regulations” means the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations 2007[^f00003].
 
-## 2. Amendment of the Benefits Regulations[^key-a0000d9e656c92ea7f9fdff064f30689]
+## 2. Amendment of the Benefits Regulations[^c-a0000d9e656c92ea7f9fdff064f30689]
 
 The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
-**3.**[^key-b282348ff87ed4f47628d7dae1e1be14] In regulation 1 (citation, commencement, interpretation and application) —
+**3.**[^c-b282348ff87ed4f47628d7dae1e1be14] In regulation 1 (citation, commencement, interpretation and application) —
 
 - (a) after the definition of “the 1997 Regulations”, insert—
 
@@ -77,7 +77,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
   .
 
-**4.**[^key-572a8c6c95032049b52f61d907a09065] For regulation 2 (active members) substitute—
+**4.**[^c-572a8c6c95032049b52f61d907a09065] For regulation 2 (active members) substitute—
 
 > **2.** (1) The term “active member” in relation to the Scheme is to be construed in accordance with regulation 4(1) of, and Schedule 1 to, the Administration Regulations.
 >
@@ -87,7 +87,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-**5.**[^key-443656629b8402615ce559365a1890ce] In regulation 3 (contributions payable by active members) —
+**5.**[^c-443656629b8402615ce559365a1890ce] In regulation 3 (contributions payable by active members) —
 
 - (a) for paragraph (2), substitute—
 
@@ -118,13 +118,13 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 - (d) in paragraph (6), for the words “But a term-time worker” substitute “But a whole time term-time worker”.
 - (e) in paragraph (10), at the end add “at the rate applicable to the sum of his pensionable pay in each such employment”.
 
-**6.**[^key-8304c179737c4b339b4c007122d3b98c] In regulation 5 (benefits) at the end insert—
+**6.**[^c-8304c179737c4b339b4c007122d3b98c] In regulation 5 (benefits) at the end insert—
 
 > (3) Subject to paragraph (4), a member who has satisfied one of the conditions in paragraph (1) need not satisfy either of them again if he ceases to be an active member and subsequently becomes such a member again before drawing benefits under regulation 16, 17, 19, 20, 30 or 31.
 >
 > (4) Paragraph (3) does not apply to a member in respect of whom a transfer payment has been made under regulations 79 to 82 of the Administration Regulations.
 
-**7.**[^key-b375f1f4cee769d68c9a6b67f3a378cf] For regulation 6 (periods of membership), substitute—
+**7.**[^c-b375f1f4cee769d68c9a6b67f3a378cf] For regulation 6 (periods of membership), substitute—
 
 > **6.** These are the periods that count as periods of membership (and which may accordingly be aggregated under regulation 16, or as the case may be, 17 of the Administration Regulations)—
 >
@@ -134,9 +134,9 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-**8.**[^key-cde35bc9a91fa392d1345250cb35f486] In regulation 7(5) (calculation of length of periods of membership) for the word “benefit” substitute “annual pension”.
+**8.**[^c-cde35bc9a91fa392d1345250cb35f486] In regulation 7(5) (calculation of length of periods of membership) for the word “benefit” substitute “annual pension”.
 
-**9.**[^key-d55619300555025e2106445f46b807dd] (1) In regulation 8 (final pay: general) for paragraphs (1) and (2) substitute—
+**9.**[^c-d55619300555025e2106445f46b807dd] (1) In regulation 8 (final pay: general) for paragraphs (1) and (2) substitute—
 
 > (1) Subject to regulations 9 to 11, a member’s final pay for an employment is his pensionable pay for as much of the final pay period as he is entitled to count as active membership in relation to that employment.
 >
@@ -144,9 +144,9 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 (2) Omit regulation 8(2A)[^f00005].
 
-**10.**[^key-576cef1222f136e9198cd942cec46b59] Omit regulation 9(5) (final pay: reserve forces, maternity leave etc.).
+**10.**[^c-576cef1222f136e9198cd942cec46b59] Omit regulation 9(5) (final pay: reserve forces, maternity leave etc.).
 
-**11.**[^key-0be14db876036416bd21dbf0d1bf0515] For regulation 10 (final pay: reductions), substitute—
+**11.**[^c-0be14db876036416bd21dbf0d1bf0515] For regulation 10 (final pay: reductions), substitute—
 
 > **10.** (1) Subject to paragraph (2), where a member’s pensionable pay in a continuous period of employment is reduced because he chooses to be employed by the same employer at a lower grade or with less responsibility, he may choose to have his final pay calculated as mentioned in paragraph (3).
 >
@@ -161,7 +161,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
  .
 
-**12.**[^key-30b50d07d471dad63588d386f11824eb] In regulation 18 (flexible retirement)—
+**12.**[^c-30b50d07d471dad63588d386f11824eb] In regulation 18 (flexible retirement)—
 
 - (a) in paragraph (1), for “and the authority may pay those benefits”, substitute “and such benefits may, with his employer’s consent, be paid”.
 - (b) in paragraph (4), for “In”, substitute “Subject to paragraph (4A), in”.
@@ -178,7 +178,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
   .
 
-**13.**[^key-1398993779df5746e68251723513220f] For regulation 20 (early leavers: ill-health) substitute—
+**13.**[^c-1398993779df5746e68251723513220f] For regulation 20 (early leavers: ill-health) substitute—
 
 > **20.** (1) If an employing authority determine, in the case of a member who satisfies one of the qualifying conditions in regulation 5—
 >
@@ -253,7 +253,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-**14.**[^key-0b71241d9b68d2e210e69c8e81f4f064] In regulation 25 (meaning of “nominated cohabiting partner”)—
+**14.**[^c-0b71241d9b68d2e210e69c8e81f4f064] In regulation 25 (meaning of “nominated cohabiting partner”)—
 
 - (a) in paragraphs (5) and (6), for “the Secretary of State” substitute “the administering authority”;
 - (b) in paragraph (6)(b), for “in paragraph (2)” substitute “in paragraph (3)”; and
@@ -263,7 +263,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
   .
 
-**15.**[^key-208a01d5c5be3e5f1758acb0b48a22a9] For regulation 26 (meaning of “eligible child”), substitute—
+**15.**[^c-208a01d5c5be3e5f1758acb0b48a22a9] For regulation 26 (meaning of “eligible child”), substitute—
 
 > **26.** (1) Subject to paragraph (3), the child of a deceased member is an eligible child if he is wholly or mainly dependent on the member, and is less than 18 years of age, at the date of the member’s death.
 >
@@ -282,7 +282,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-**16.**[^key-5ee5e3eb2a1ccba58a3893d2bc0a785f] For regulation 29 (calculation on leaving early) substitute—
+**16.**[^c-5ee5e3eb2a1ccba58a3893d2bc0a785f] For regulation 29 (calculation on leaving early) substitute—
 
 > **29.** (1) This regulation applies in the case of a member who leaves his employment and is not entitled to immediate payment of retirement pension under any of regulations 16 to 20.
 >
@@ -294,7 +294,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 >
 > (5) Where a member chooses not to receive payment of his retirement pension, or any part of it, immediately on attaining normal retirement age, his entitlement is enhanced in accordance with guidance issued by the Government Actuary.
 
-**17.**[^key-01562576d07b44d89d6717f928c07bfd] (1) In regulation 30 (choice of early payment of pension)—
+**17.**[^c-01562576d07b44d89d6717f928c07bfd] (1) In regulation 30 (choice of early payment of pension)—
 
 - (a) in paragraph (2), omit “(but see paragraph (6))”;
 - (b) at the end of paragraph (3) insert “calculated in accordance with regulation 29”;
@@ -303,7 +303,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
   > (6) In the case of a person who is an active member on 31st March 2008, and who makes an election before 1st April 2010, paragraph (1) applies as if “the age of 50” were substituted for “the age of 55”.
 
-**18.**[^key-bd592aa6e63fe28bdf6cb987b001ee3f] For regulation 31 (early payment of pension: ill-health) substitute—
+**18.**[^c-bd592aa6e63fe28bdf6cb987b001ee3f] For regulation 31 (early payment of pension: ill-health) substitute—
 
 > **31.** (1) Subject to paragraph (2), if a member who has left his employment before he is entitled to the immediate payment of retirement benefits (apart from this regulation) becomes permanently incapable of discharging efficiently the duties of that employment because of ill-health or infirmity of mind or body he may ask to receive payment of his retirement benefits immediately, whatever his age.
 >
@@ -313,13 +313,13 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-**19.**[^key-358f84a4a79adec67d367c62f4fbbf50] In regulation 33 (survivor benefits: deferred members), in paragraph (2), for “salary” substitute “pay”.
+**19.**[^c-358f84a4a79adec67d367c62f4fbbf50] In regulation 33 (survivor benefits: deferred members), in paragraph (2), for “salary” substitute “pay”.
 
-**20.**[^key-a295e33095650c7f2c7e2790311f7602] In regulation 35 (death grants: pensioner members), in paragraph (3), for “his pension multiplied by 10” substitute “his pension in payment multiplied by 10”.
+**20.**[^c-a295e33095650c7f2c7e2790311f7602] In regulation 35 (death grants: pensioner members), in paragraph (3), for “his pension multiplied by 10” substitute “his pension in payment multiplied by 10”.
 
-**21.**[^key-75d5df0acb11926bc5b1461a380ac5f3] In regulation 36 (survivor benefits: pensioners) in paragraph (2), for “salary” substitute “pay”.
+**21.**[^c-75d5df0acb11926bc5b1461a380ac5f3] In regulation 36 (survivor benefits: pensioners) in paragraph (2), for “salary” substitute “pay”.
 
-**22.**[^key-18bdff740d9deddbb0e2a0f5ae7a48fc] For regulation 39 (commutation and small pensions), substitute—
+**22.**[^c-18bdff740d9deddbb0e2a0f5ae7a48fc] For regulation 39 (commutation and small pensions), substitute—
 
 > **39.** (1) A lump sum which is a trivial commutation lump sum within the meaning of section 166 of the Finance Act 2004[^f00013] or a trivial commutation lump sum death benefit within the meaning of section 168 of that Act may be paid in accordance with the rules relating to the payment of such benefits under the Finance Act 2004.
 >
@@ -329,7 +329,7 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-**23.**[^key-ad959cea0a057b40a50c1d02273de793] After regulation 40 (guidance on future costs), insert—
+**23.**[^c-ad959cea0a057b40a50c1d02273de793] After regulation 40 (guidance on future costs), insert—
 
 > **41. Pension debits**
 >
@@ -351,11 +351,11 @@ The Benefits Regulations are amended in accordance with regulations 3 to 23.
 
 .
 
-## 24. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^key-6d13cb1cf04ea47596ce0f4898521e8e]
+## 24. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^c-6d13cb1cf04ea47596ce0f4898521e8e]
 
 Regulation 56(1) of the Local Government Pension Scheme (Administration) Regulations 2008 is amended by substituting for the words “regulation 20(6) of the Benefits Regulations” the words “regulation 20(5) of the Benefits Regulations in respect of a determination under paragraph (2), (3) or (4) of that regulation”.
 
-## 25. Amendment of the Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^key-b342ad713af9a9632c94ea121ae5d22d]
+## 25. Amendment of the Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^c-b342ad713af9a9632c94ea121ae5d22d]
 
 (1) For regulation 9(3) of the Local Government Pension Scheme (Transitional Provisions) Regulations 2008[^f00011] substitute—
 
@@ -433,76 +433,76 @@ A regulatory impact assessment was produced for the Benefit Regulations and is a
 
 [^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-d18972e94b18877281f4a7cadce3fbd3]: Commencement: Reg. 1 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-d18972e94b18877281f4a7cadce3fbd3]: Commencement: Reg. 1 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00002]: Footnote: The Secretary of State’s functions under section 7 of the Superannuation Act 1972 in so far as they were exercisable in relation to Scotland were devolved to Scottish Ministers by section 63 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to Scottish Ministers etc) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
 [^f00003]: Footnote: [S.I. 2007/1166](https://www.legislation.gov.uk/uksi/2007/1166).
 
-[^key-a0000d9e656c92ea7f9fdff064f30689]: Commencement: Reg. 2 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-a0000d9e656c92ea7f9fdff064f30689]: Commencement: Reg. 2 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-b282348ff87ed4f47628d7dae1e1be14]: Commencement: Reg. 3 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-b282348ff87ed4f47628d7dae1e1be14]: Commencement: Reg. 3 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00004]: Footnote: [S.I. 2008/239](https://www.legislation.gov.uk/uksi/2008/239).
 
-[^key-572a8c6c95032049b52f61d907a09065]: Commencement: Reg. 4 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-572a8c6c95032049b52f61d907a09065]: Commencement: Reg. 4 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-443656629b8402615ce559365a1890ce]: Commencement: Reg. 5 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-443656629b8402615ce559365a1890ce]: Commencement: Reg. 5 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00012]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-8304c179737c4b339b4c007122d3b98c]: Commencement: Reg. 6 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-8304c179737c4b339b4c007122d3b98c]: Commencement: Reg. 6 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-b375f1f4cee769d68c9a6b67f3a378cf]: Commencement: Reg. 7 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-b375f1f4cee769d68c9a6b67f3a378cf]: Commencement: Reg. 7 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-cde35bc9a91fa392d1345250cb35f486]: Commencement: Reg. 8 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-cde35bc9a91fa392d1345250cb35f486]: Commencement: Reg. 8 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-d55619300555025e2106445f46b807dd]: Commencement: Reg. 9 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-d55619300555025e2106445f46b807dd]: Commencement: Reg. 9 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00005]: Footnote: Regulation 8(2A) was inserted by [S.I. 2007/1488](https://www.legislation.gov.uk/uksi/2007/1488).
 
-[^key-576cef1222f136e9198cd942cec46b59]: Commencement: Reg. 10 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-576cef1222f136e9198cd942cec46b59]: Commencement: Reg. 10 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-0be14db876036416bd21dbf0d1bf0515]: Commencement: Reg. 11 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-0be14db876036416bd21dbf0d1bf0515]: Commencement: Reg. 11 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00006]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
-[^key-30b50d07d471dad63588d386f11824eb]: Commencement: Reg. 12 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-30b50d07d471dad63588d386f11824eb]: Commencement: Reg. 12 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-1398993779df5746e68251723513220f]: Commencement: Reg. 13 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-1398993779df5746e68251723513220f]: Commencement: Reg. 13 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250).
 
-[^key-0b71241d9b68d2e210e69c8e81f4f064]: Commencement: Reg. 14 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-0b71241d9b68d2e210e69c8e81f4f064]: Commencement: Reg. 14 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-208a01d5c5be3e5f1758acb0b48a22a9]: Commencement: Reg. 15 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-208a01d5c5be3e5f1758acb0b48a22a9]: Commencement: Reg. 15 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00008]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-5ee5e3eb2a1ccba58a3893d2bc0a785f]: Commencement: Reg. 16 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-5ee5e3eb2a1ccba58a3893d2bc0a785f]: Commencement: Reg. 16 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-01562576d07b44d89d6717f928c07bfd]: Commencement: Reg. 17 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-01562576d07b44d89d6717f928c07bfd]: Commencement: Reg. 17 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-bd592aa6e63fe28bdf6cb987b001ee3f]: Commencement: Reg. 18 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-bd592aa6e63fe28bdf6cb987b001ee3f]: Commencement: Reg. 18 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-358f84a4a79adec67d367c62f4fbbf50]: Commencement: Reg. 19 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-358f84a4a79adec67d367c62f4fbbf50]: Commencement: Reg. 19 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-a295e33095650c7f2c7e2790311f7602]: Commencement: Reg. 20 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-a295e33095650c7f2c7e2790311f7602]: Commencement: Reg. 20 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-75d5df0acb11926bc5b1461a380ac5f3]: Commencement: Reg. 21 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-75d5df0acb11926bc5b1461a380ac5f3]: Commencement: Reg. 21 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-18bdff740d9deddbb0e2a0f5ae7a48fc]: Commencement: Reg. 22 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-18bdff740d9deddbb0e2a0f5ae7a48fc]: Commencement: Reg. 22 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00013]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-ad959cea0a057b40a50c1d02273de793]: Commencement: Reg. 23 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-ad959cea0a057b40a50c1d02273de793]: Commencement: Reg. 23 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00009]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
 [^f00010]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-6d13cb1cf04ea47596ce0f4898521e8e]: Commencement: Reg. 24 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-6d13cb1cf04ea47596ce0f4898521e8e]: Commencement: Reg. 24 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
-[^key-b342ad713af9a9632c94ea121ae5d22d]: Commencement: Reg. 25 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
+[^c-b342ad713af9a9632c94ea121ae5d22d]: Commencement: Reg. 25 in force at 7.5.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2008/1083/regulation/1/3)
 
 [^f00011]: Footnote: [S.I. 2008/238](https://www.legislation.gov.uk/uksi/2008/238).

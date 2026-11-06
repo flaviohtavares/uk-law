@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Tenancies and licences that are occupation contracts[^key-43ea3010eed7403bc2463cb4e05f1c06]
+## 7. Tenancies and licences that are occupation contracts[^c-43ea3010eed7403bc2463cb4e05f1c06]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43ea3010eed7403bc2463cb4e05f1c06]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2016/1/section/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-43ea3010eed7403bc2463cb4e05f1c06]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2016/1/section/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

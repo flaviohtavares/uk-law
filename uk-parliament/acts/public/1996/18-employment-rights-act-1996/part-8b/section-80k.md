@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80K. Rights during and after carer’s leave[^key-ab35888fb65b24b10f2579d389355b3d]
+## 80K. Rights during and after carer’s leave[^c-ab35888fb65b24b10f2579d389355b3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ absence attributable to leave under section 80J is to be ignored in any determin
 
 ## Annotations
 
-[^key-ab35888fb65b24b10f2579d389355b3d]: Textual amendment: Pt. 8B inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/2); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
+[^c-ab35888fb65b24b10f2579d389355b3d]: Textual amendment: Pt. 8B inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/2); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)

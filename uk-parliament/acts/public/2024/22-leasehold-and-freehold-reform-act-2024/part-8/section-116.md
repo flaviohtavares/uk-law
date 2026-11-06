@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Remediation contribution orders[^key-7735ff77e68dcf069271751457ce46d3][^key-b50182544609ff15a4f368ed23b44cc5]
+## 116. Remediation contribution orders[^c-7735ff77e68dcf069271751457ce46d3][^c-b50182544609ff15a4f368ed23b44cc5]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7735ff77e68dcf069271751457ce46d3]: Commencement: S. 116 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7735ff77e68dcf069271751457ce46d3]: Commencement: S. 116 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b50182544609ff15a4f368ed23b44cc5]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2024/22/section/116) in force at 31.10.2024 by [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/c)
+[^c-b50182544609ff15a4f368ed23b44cc5]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2024/22/section/116) in force at 31.10.2024 by [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/c)

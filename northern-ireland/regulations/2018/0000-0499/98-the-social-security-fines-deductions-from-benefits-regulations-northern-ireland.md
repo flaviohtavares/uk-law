@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities makes the following regulations in exercise of the powers conferred by sections 5(1)(m) and (q), 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002] and sections 15(1) and 60(2), (4) and (7) of the Justice Act (Northern Ireland) 2016[^f00003].
 
-## 1. Citation, commencement[^key-5ca8926dc0f754f353b785f25649bd92]
+## 1. Citation, commencement[^c-5ca8926dc0f754f353b785f25649bd92]
 
 (1) These Regulations may be cited as the Social Security (Fines) (Deductions from Benefits) Regulations (Northern Ireland) 2018 and shall come into operation on 1st June 2018.
 
-## 2. Interpretation[^key-4a165f0108891109091f73d5cf0c2f0d]
+## 2. Interpretation[^c-4a165f0108891109091f73d5cf0c2f0d]
 
 (1) In these Regulations—
 
@@ -90,7 +90,7 @@ but does not include any back to work bonus under Article 28 of the 1995 Order w
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00014] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Deduction from debtor’s income support, state pension credit, jobseeker’s allowance or employment and support allowance[^key-5f5423249ab38b86d6184759ab89b863]
+## 3. Deduction from debtor’s income support, state pension credit, jobseeker’s allowance or employment and support allowance[^c-5f5423249ab38b86d6184759ab89b863]
 
 (1) Subject to regulation 4, where—
 
@@ -114,7 +114,7 @@ the Department may deduct a sum from that allowance, up to the appropriate maxim
 
 (4) The Department shall notify the debtor and the court in writing of a decision to make a deduction under this regulation so far as is practicable within 14 days from the date on which it made the decision and at the same time shall notify the debtor of a right to appeal.
 
-## 4. Circumstances, time of making and termination of deductions[^key-5fceed78180f67e2b05e0f2ee986ed80]
+## 4. Circumstances, time of making and termination of deductions[^c-5fceed78180f67e2b05e0f2ee986ed80]
 
 (1) The Department may make deductions from under regulation 3(1) or (2) only if—
 
@@ -137,7 +137,7 @@ the Department may deduct a sum from that allowance, up to the appropriate maxim
 - (a) on receipt of a written request for such information from the debtor; or
 - (b) on the termination of deductions made under any such application.
 
-## 5. Amendment of the Claims and Payments Regulations[^key-e241ad2b11a1e9f831e43cfc87104bc7]
+## 5. Amendment of the Claims and Payments Regulations[^c-e241ad2b11a1e9f831e43cfc87104bc7]
 
 Schedule 8A of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 is amended as follows—
 
@@ -183,9 +183,9 @@ Provisions for appeal can be found in section 14(6) of the Criminal Justice Act 
 
 [^f00003]: Footnote: [2016 c. 21 (N.I.)](https://www.legislation.gov.uk/nia/2016/21)
 
-[^key-5ca8926dc0f754f353b785f25649bd92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2018/98/regulation/1) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
+[^c-5ca8926dc0f754f353b785f25649bd92]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2018/98/regulation/1) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
 
-[^key-4a165f0108891109091f73d5cf0c2f0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2018/98/regulation/2) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
+[^c-4a165f0108891109091f73d5cf0c2f0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2018/98/regulation/2) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1995 No. 2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
@@ -209,7 +209,7 @@ Provisions for appeal can be found in section 14(6) of the Criminal Justice Act 
 
 [^f00014]: Footnote: [1954 c. 33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5f5423249ab38b86d6184759ab89b863]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2018/98/regulation/3) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
+[^c-5f5423249ab38b86d6184759ab89b863]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2018/98/regulation/3) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
 
 [^f00015]: Footnote: Schedule 8A was inserted by regulation 2(3) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67) to which there are amendments not relevant to these Regulations
 
@@ -219,11 +219,11 @@ Provisions for appeal can be found in section 14(6) of the Criminal Justice Act 
 
 [^f00018]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219)
 
-[^key-5fceed78180f67e2b05e0f2ee986ed80]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2018/98/regulation/4) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
+[^c-5fceed78180f67e2b05e0f2ee986ed80]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2018/98/regulation/4) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
 
 [^f00019]: Footnote: *See* Schedule 7 to [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
-[^key-e241ad2b11a1e9f831e43cfc87104bc7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2018/98/regulation/5) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
+[^c-e241ad2b11a1e9f831e43cfc87104bc7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2018/98/regulation/5) in operation at 1.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/98/regulation/1/1)
 
 [^f00020]: Footnote: Paragraph 8(2) was amended by regulation 4(2)(a) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165), regulation 2(f)(i) of [S.R. 2007 No. 206](https://www.legislation.gov.uk/nisr/2007/206) and regulation 2(c)(i) [2007 No. 330](https://www.legislation.gov.uk/nisr/2007/330)
 

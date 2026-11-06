@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53A. Liability to pay initial pre-commencement contributions amount[^key-87c6ee77c44b123c087d28635e82cd0a]
+## 53A. Liability to pay initial pre-commencement contributions amount[^c-87c6ee77c44b123c087d28635e82cd0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c6ee77c44b123c087d28635e82cd0a]: Textual amendment: [Reg. 53A](https://www.legislation.gov.uk/uksi/2017/522/regulation/53A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2023/403/regulation/33)
+[^c-87c6ee77c44b123c087d28635e82cd0a]: Textual amendment: [Reg. 53A](https://www.legislation.gov.uk/uksi/2017/522/regulation/53A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2023/403/regulation/33)

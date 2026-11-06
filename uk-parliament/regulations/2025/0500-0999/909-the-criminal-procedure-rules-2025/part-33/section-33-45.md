@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.45. Application for restraint order or ancillary order[^key-f43ef59f6ba76e564e7dfbdeaa041937]
+## 33.45. Application for restraint order or ancillary order[^c-f43ef59f6ba76e564e7dfbdeaa041937]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f43ef59f6ba76e564e7dfbdeaa041937]: Commencement: [Rule 33.45](https://www.legislation.gov.uk/uksi/2025/909/rule/33.45) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f43ef59f6ba76e564e7dfbdeaa041937]: Commencement: [Rule 33.45](https://www.legislation.gov.uk/uksi/2025/909/rule/33.45) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00839]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 42 was amended by sections 74(2) and 92 of, and paragraphs 1 and 23 of Schedule 8, and Schedule 14 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 12 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 

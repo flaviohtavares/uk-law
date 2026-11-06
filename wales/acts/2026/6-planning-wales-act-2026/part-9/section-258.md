@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 258. Recovery of costs of planting trees[^key-8cc5dd279c27d43be16de91ee63355c4]
+## 258. Recovery of costs of planting trees[^c-8cc5dd279c27d43be16de91ee63355c4]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ are to be treated as incurred or paid for the use and at the request of any pers
 
 ## Annotations
 
-[^key-8cc5dd279c27d43be16de91ee63355c4]: Commencement: S. 258 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8cc5dd279c27d43be16de91ee63355c4]: Commencement: S. 258 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 276A. Advance statements to be put with medical records[^key-cc106fdfe2798e348dd2c0e9e40d91ab]
+## 276A. Advance statements to be put with medical records[^c-cc106fdfe2798e348dd2c0e9e40d91ab]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc106fdfe2798e348dd2c0e9e40d91ab]: Textual amendment: [Ss. 276A-276C](https://www.legislation.gov.uk/asp/2003/13/section/276A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 26(2)](https://www.legislation.gov.uk/asp/2015/9/section/26/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-cc106fdfe2798e348dd2c0e9e40d91ab]: Textual amendment: [Ss. 276A-276C](https://www.legislation.gov.uk/asp/2003/13/section/276A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 26(2)](https://www.legislation.gov.uk/asp/2015/9/section/26/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

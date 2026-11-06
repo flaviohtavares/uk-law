@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63B. Further provision about proposals made after a direction under section 63A(1)[^key-63280d7b9111ad815ea5808eb8e76682]
+## 63B. Further provision about proposals made after a direction under section 63A(1)[^c-63280d7b9111ad815ea5808eb8e76682]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63280d7b9111ad815ea5808eb8e76682]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/anaw/2013/1/part/3/chapter/3A) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(7)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/7) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-63280d7b9111ad815ea5808eb8e76682]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/anaw/2013/1/part/3/chapter/3A) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(7)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/7) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Further provisions: general[^key-20ca5f3e4a7040d0b7ae9ddbb020919e]
+## 49. Further provisions: general[^c-20ca5f3e4a7040d0b7ae9ddbb020919e]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ it may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-20ca5f3e4a7040d0b7ae9ddbb020919e]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2013/2605/article/49) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-20ca5f3e4a7040d0b7ae9ddbb020919e]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2013/2605/article/49) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

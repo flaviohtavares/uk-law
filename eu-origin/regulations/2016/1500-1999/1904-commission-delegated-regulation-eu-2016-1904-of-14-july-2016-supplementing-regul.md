@@ -35,24 +35,24 @@ supplementing Regulation (EU) No 1286/2014 of the European Parliament and of the
 
 (Text with EEA relevance) (revoked)
 
-[^key-5db16d512c9c409fab21b88fb0a91df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5db16d512c9c409fab21b88fb0a91df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Criteria and factors for the purposes of EIOPA temporary product intervention powers(Article 16(2) of Regulation (EU) No 1286/2014)[^key-5db16d512c9c409fab21b88fb0a91df6]
+## Article 1. Criteria and factors for the purposes of EIOPA temporary product intervention powers(Article 16(2) of Regulation (EU) No 1286/2014)[^c-5db16d512c9c409fab21b88fb0a91df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Criteria and factors to be taken into account by the FCA for the purposes of insurance-based investment product intervention powers(Article 17(2) of Regulation (EU) No 1286/2014)[^key-5db16d512c9c409fab21b88fb0a91df6]
+## Article 2. Criteria and factors to be taken into account by the FCA for the purposes of insurance-based investment product intervention powers(Article 17(2) of Regulation (EU) No 1286/2014)[^c-5db16d512c9c409fab21b88fb0a91df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-5db16d512c9c409fab21b88fb0a91df6]
+## Article 3. Entry into force[^c-5db16d512c9c409fab21b88fb0a91df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5db16d512c9c409fab21b88fb0a91df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5db16d512c9c409fab21b88fb0a91df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5db16d512c9c409fab21b88fb0a91df6]: Textual amendment: Regulation revoked (6.4.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(d)(i)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/d/i)
+[^c-5db16d512c9c409fab21b88fb0a91df6]: Textual amendment: Regulation revoked (6.4.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 7(d)(i)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/7/d/i)

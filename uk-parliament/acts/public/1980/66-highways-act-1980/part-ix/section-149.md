@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Removal of things so deposited on highways as to be a nuisance etc.[^c13426361][^key-9aa5884138c8a01992f4f03e87727483]
+## 149. Removal of things so deposited on highways as to be a nuisance etc.[^c13426361][^c-9aa5884138c8a01992f4f03e87727483]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the authority may remove the thing forthwith.
 
 [^c13426361]: Modification: [S. 149](https://www.legislation.gov.uk/ukpga/1980/66/section/149): functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-9aa5884138c8a01992f4f03e87727483]: Modification: [S. 149](https://www.legislation.gov.uk/ukpga/1980/66/section/149) applied (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/6), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
+[^c-9aa5884138c8a01992f4f03e87727483]: Modification: [S. 149](https://www.legislation.gov.uk/ukpga/1980/66/section/149) applied (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/6), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))

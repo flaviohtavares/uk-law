@@ -45,19 +45,19 @@ In accordance with Article 23(8) of that Order the Department has consulted with
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-dc6ee908255be94ebb84837c43506932]
+### 1. Citation and commencement[^c-dc6ee908255be94ebb84837c43506932]
 
 These Regulations may be cited as the Domiciliary Care Agencies Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
 
-### 2. Interpretation[^key-cce043cb45087177a6f7a4986b860bf5]
+### 2. Interpretation[^c-cce043cb45087177a6f7a4986b860bf5]
 
 (1) In these Regulations—
 
 - “the Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
 - “agency” means a domiciliary care agency;
 - “agency premises” means the premises from which the activities of an agency are carried on;
-- “[^key-778be765bdc094a53bcc17ea7b5b8d69]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
-- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-5a2b4bcd1ef7ab6b46bd1a6ed485e8de]
+- “[^c-778be765bdc094a53bcc17ea7b5b8d69]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^c-5a2b4bcd1ef7ab6b46bd1a6ed485e8de]
 - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;
 - “direct service provider” means a provider who supplies a domiciliary care worker who is employed by, and who acts for and under the control of, the provider;
 - “domiciliary care worker” means a person who—
@@ -69,7 +69,7 @@ These Regulations may be cited as the Domiciliary Care Agencies Regulations (Nor
 - “organisation” means a body corporate or any unincorporated association other than a partnership;
 - “personal care” has the same meaning as in Article10(3) of the Order;
 - “prescribed services” shall be construed in accordance with regulation 3;
-- “[^key-9b8409184c0fba7a078bc55162ad4d26]**the register**” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;
+- “[^c-9b8409184c0fba7a078bc55162ad4d26]**the register**” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;
 - “registered manager”, in relation to an agency, means a person who is registered under Part III of the Order as the manager of the agency;
 - “registered person”, in relation to an agency, means any person who is the registered provider or the registered manager of the agency;
 - “registered provider”, in relation to an agency, means a person who is registered under Part III of the Order as the person carrying on the agency;
@@ -97,14 +97,14 @@ These Regulations may be cited as the Domiciliary Care Agencies Regulations (Nor
 
 (3) In these Regulations, the terms “employed” and “employment” include employment under a contract of service or a contract for services, or otherwise than under a contract and whether or not for payment.
 
-### 3. Prescribed services[^key-e0420be612691a1517b3986e3c84b184]
+### 3. Prescribed services[^c-e0420be612691a1517b3986e3c84b184]
 
 For the purposes of the definition of “domiciliary care agency” in Article 2(2) of the Order, the prescribed services are:
 
 - (a) personal care; and
 - (b) assessment of the need for such care.
 
-### 4. Excepted undertakings[^key-14317521c7b0939fd02e281d17d86cd4]
+### 4. Excepted undertakings[^c-14317521c7b0939fd02e281d17d86cd4]
 
 For the purposes of the Order, an undertaking is excepted from the definition of “domiciliary care agency” in Article 2(2) of the Order if the undertaking is carried on by an individual who—
 
@@ -112,18 +112,18 @@ For the purposes of the Order, an undertaking is excepted from the definition of
 - (b) is not employed by an organisation to carry it on; and
 - (c) does not employ any other person for the purpose of the undertaking.
 
-### 5. Statement of purpose[^key-147f3d38e9d6ff436fbbe012eac489cc]
+### 5. Statement of purpose[^c-147f3d38e9d6ff436fbbe012eac489cc]
 
 (1) The registered person shall compile in relation to the agency a written statement (in these Regulations referred to as “the statement of purpose”) which shall consist of a statement as to the matters listed in Schedule 1.
 
-(2) The registered person shall supply a copy of the statement of purpose to the RQIA[^key-cf8fa49351d4fc45dfde5e028dd4ec6f] and shall make a copy of it available on request for inspection at the agency premises by every service user and the service user’s representative.
+(2) The registered person shall supply a copy of the statement of purpose to the RQIA[^c-cf8fa49351d4fc45dfde5e028dd4ec6f] and shall make a copy of it available on request for inspection at the agency premises by every service user and the service user’s representative.
 
 (3) Nothing in regulation 25 shall require or authorise the registered person to contravene, or not to comply with—
 
 - (a) any other provision of these Regulations; or
 - (b) the conditions for the time being in force in relation to the registration of the registered person under Part III of the Order.
 
-### 6. Service user’s guide[^key-b4fb952dc3d98e7826c226b3212f729d]
+### 6. Service user’s guide[^c-b4fb952dc3d98e7826c226b3212f729d]
 
 (1) The registered person shall produce a written service user’s guide which shall include—
 
@@ -136,7 +136,7 @@ For the purposes of the Order, an undertaking is excepted from the definition of
 
 (3) On request the registered person shall also provide, to the service user or the service user’s representative, access to a copy of the most recent inspection report and information on how to access earlier inspection reports.
 
-### 7. Review of statement of purpose and service user’s guide[^key-1c146611876280654ad47688b92daf4c]
+### 7. Review of statement of purpose and service user’s guide[^c-1c146611876280654ad47688b92daf4c]
 
 The registered person shall—
 
@@ -145,7 +145,7 @@ The registered person shall—
 
 ## PART II — REGISTERED PERSONS
 
-### 8. Fitness of registered provider[^key-7516680ae268552845bd890ddaf254ce]
+### 8. Fitness of registered provider[^c-7516680ae268552845bd890ddaf254ce]
 
 (1) A person shall not carry on an agency unless he is fit to do so.
 
@@ -168,11 +168,11 @@ The registered person shall—
 (4) A person shall not carry on an agency if—
 
 - (a) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged and the bankruptcy order has not been annulled or rescinded; or
-- (ab)[^key-183c7106fa4eb360c72ca20caf96f867] he is the subject of a bankruptcy restrictions order; or
-- (ac)[^key-c3eeab32055edb387af67ed7e6b3da34] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
+- (ab)[^c-183c7106fa4eb360c72ca20caf96f867] he is the subject of a bankruptcy restrictions order; or
+- (ac)[^c-c3eeab32055edb387af67ed7e6b3da34] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
 - (b) he has made a composition or arrangement with his creditors and has not been discharged in respect of it.
 
-### 9. Appointment of manager[^key-b53deef577510c760f17af85934a874d]
+### 9. Appointment of manager[^c-b53deef577510c760f17af85934a874d]
 
 (1) The registered provider shall appoint an individual to manage the agency where—
 
@@ -187,7 +187,7 @@ The registered person shall—
 - (a) the name of the person so appointed; and
 - (b) the date on which the appointment is to take effect.
 
-### 10. Fitness of registered manager[^key-853b4351673fa030a98cab153f1aa595]
+### 10. Fitness of registered manager[^c-853b4351673fa030a98cab153f1aa595]
 
 (1) A person shall not manage an agency unless he is fit to do so.
 
@@ -199,7 +199,7 @@ The registered person shall—
   - (ii) he is physically and mentally fit to do so; and
 - (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
 
-### 11. Registered person — general requirements and training[^key-5b72ac7ea14025aca1aafcdf1129bda9]
+### 11. Registered person — general requirements and training[^c-5b72ac7ea14025aca1aafcdf1129bda9]
 
 (1) The registered provider and the registered manager shall, having regard to the size of the agency, the statement of purpose and the number and needs of the service users, carry on or (as the case may be) manage the agency with sufficient care, competence and skill.
 
@@ -213,7 +213,7 @@ from time to time such training as is appropriate to ensure that he has the expe
 
 (3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the experience and skills necessary for managing the agency.
 
-### 12. Notification of offences[^key-5b9927b75ad0820356d7b503a2a627f2]
+### 12. Notification of offences[^c-5b9927b75ad0820356d7b503a2a627f2]
 
 Where the registered person or the responsible individual is convicted of any criminal offence, whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA of—
 
@@ -225,21 +225,21 @@ Where the registered person or the responsible individual is convicted of any cr
 
 ### CHAPTER I — QUALITY OF SERVICE PROVISION
 
-#### 13. Fitness of domiciliary care workers supplied by an agency[^key-a81097b0856a021fbce71afdce1d83d2][^key-670e22033fa7c2976a8f396504b81735]
+#### 13. Fitness of domiciliary care workers supplied by an agency[^c-a81097b0856a021fbce71afdce1d83d2][^c-670e22033fa7c2976a8f396504b81735]
 
-(1)[^key-29b7a76536904ea3e7182881df538a8d] The registered person shall ensure that no domiciliary care worker is supplied by the agency unless—
+(1)[^c-29b7a76536904ea3e7182881df538a8d] The registered person shall ensure that no domiciliary care worker is supplied by the agency unless—
 
 - (a) he is of integrity and good character;
 - (b) he has the experience and skills necessary for the work that he is to perform;
-- (c) he is physically and mentally fit for the purposes of the work which he is to perform; [^key-b512e3e587ad9606d73d403bd24ecaa0]...
-- (d) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 3;[^key-23ff33372fd325d836943eb56cc775c9]
+- (c) he is physically and mentally fit for the purposes of the work which he is to perform; [^c-b512e3e587ad9606d73d403bd24ecaa0]...
+- (d) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 3;[^c-23ff33372fd325d836943eb56cc775c9]
 
-  but this is subject to paragraphs (2) to (4).[^key-fb160f7cc576a1694a73048d02061722]
-- (e)[^key-bc12a495a43321fdee7e732ae9869c43] subject to sub-paragraphs (f) and (g), he is registered in the relevant part of the register;
+  but this is subject to paragraphs (2) to (4).[^c-fb160f7cc576a1694a73048d02061722]
+- (e)[^c-bc12a495a43321fdee7e732ae9869c43] subject to sub-paragraphs (f) and (g), he is registered in the relevant part of the register;
 - (f) sub-paragraph (e) does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, to be registered with any person or body other than the Northern Ireland Social Care Council and is so registered; and
 - (g) sub-paragraph (e) does not apply to persons allowed to work as volunteers.
 
-(2)[^key-e2d4569e4cd8a93f408d73e49bb94d12] Where the conditions set out in paragraph (3) are satisfied, the agency may supply a domiciliary care worker (“P”) to a service user even though the information and documents mentioned in paragraphs 2 and 4 to 12 of Schedule 3 other than details of registration with an appropriate regulatory body are not available.
+(2)[^c-e2d4569e4cd8a93f408d73e49bb94d12] Where the conditions set out in paragraph (3) are satisfied, the agency may supply a domiciliary care worker (“P”) to a service user even though the information and documents mentioned in paragraphs 2 and 4 to 12 of Schedule 3 other than details of registration with an appropriate regulatory body are not available.
 
 (3) The conditions are that the registered person must ensure that—
 
@@ -256,7 +256,7 @@ Where the registered person or the responsible individual is convicted of any cr
 - (c) inform the service user, or the service user’s representative, of the position in relation to the information and documents, including when they are available; and
 - (d) terminate the supply of P to the service user where the registered person considers that the information or documents, when available, are not satisfactory.
 
-#### 14. Conduct of agency[^key-eac2d4d389b5245a6120fc7cec7406bf]
+#### 14. Conduct of agency[^c-eac2d4d389b5245a6120fc7cec7406bf]
 
 Where the agency is acting otherwise than as an employment agency, the registered person shall make suitable arrangements to ensure that the agency is conducted, and the prescribed services arranged by the agency, are provided—
 
@@ -267,7 +267,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
 - (e) in a manner which respects the privacy, dignity and wishes of service users, and the confidentiality of information relating to them; and
 - (f) with due regard to the sex, religious persuasion, racial origin, and cultural and linguistic background and any disability of service users, and to the way in which they conduct their lives.
 
-#### 15. Arrangements for the provision of prescribed services[^key-39f078e758c13b1d52ec230484ce1129]
+#### 15. Arrangements for the provision of prescribed services[^c-39f078e758c13b1d52ec230484ce1129]
 
 (1) Paragraphs (2) to (12) apply only to the supply of domiciliary care workers to service users by an agency which is acting otherwise than as an employment agency.
 
@@ -318,7 +318,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
   - (i) has reported the matter to the police; or
   - (ii) is informed that the matter has been reported to the police.
 
-#### 16. Staffing[^key-5eea1bacb55855418de8171a700b7d94]
+#### 16. Staffing[^c-5eea1bacb55855418de8171a700b7d94]
 
 (1) Where an agency is acting otherwise than as an employment agency, the registered person shall, having regard to the size of the agency, the statement of purpose and the number and needs of the service users, ensure that—
 
@@ -353,7 +353,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
   - (iii) the staff member (or another suitably qualified and competent person if the staff member is unavailable) will always be available to be consulted while the new worker is on duty; and
   - (iv) subject to the consent of the service user, the staff member makes arrangements to observe, on at least one occasion, the new worker carrying out his duties.
 
-#### 17. Staff handbook[^key-35ad0e9e00e63b4fdc8ea1775b88764a]
+#### 17. Staff handbook[^c-35ad0e9e00e63b4fdc8ea1775b88764a]
 
 (1) Where an agency is acting otherwise than as an employment agency, the registered person shall prepare a staff handbook and provide a copy to every member of staff.
 
@@ -365,7 +365,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
 - (d) recruitment procedures; and
 - (e) training and development requirements and opportunities.
 
-#### 18. Provision of information to service users[^key-5027d3ea0d958092e1c2f1b75cfaf74b]
+#### 18. Provision of information to service users[^c-5027d3ea0d958092e1c2f1b75cfaf74b]
 
 (1) The registered person shall ensure that before a domiciliary care worker is supplied to a service user, the service user is informed of—
 
@@ -373,22 +373,22 @@ Where the agency is acting otherwise than as an employment agency, the registere
 - (b) the name of the member of staff of the agency who is responsible for the supply of that domiciliary care worker; and
 - (c) where the agency is acting otherwise than as an employment agency, details of how he may contact the registered person, or a person nominated to act on behalf of the registered person.
 
-(1A)[^key-be49e841184fdef43e219e0bf665ce3c] Where the agency supplies a domiciliary care worker to a service user in the circumstances mentioned in regulation 13(2), and the agency is acting as an employment agency, the registered person must—
+(1A)[^c-be49e841184fdef43e219e0bf665ce3c] Where the agency supplies a domiciliary care worker to a service user in the circumstances mentioned in regulation 13(2), and the agency is acting as an employment agency, the registered person must—
 
 - (a) inform the service user of the information and documents mentioned in paragraphs 2 and 4 to 12 of Schedule 3 that are not yet available;
 - (b) inform the service user when the information and documents are available.
 
-(2)[^key-003063ca864aaed78959edb118b0ad05] The registered person must ensure, where appropriate, that the information specified in paragraph (1) and, where applicable, paragraph (1A) is provided to the service user’s relatives or carers.
+(2)[^c-003063ca864aaed78959edb118b0ad05] The registered person must ensure, where appropriate, that the information specified in paragraph (1) and, where applicable, paragraph (1A) is provided to the service user’s relatives or carers.
 
-#### 19. Disclosure of Information[^key-cd45121bd6b6b24582ed66d120645141]
+#### 19. Disclosure of Information[^c-cd45121bd6b6b24582ed66d120645141]
 
 The registered person shall ensure that any personal information about a service user for whom a domiciliary care worker is supplied by the agency is not disclosed to any member of the agency’s staff, or other person, unless it is necessary to do so in order to provide an effective service to the service user.
 
-#### 20. Identification of workers[^key-1169ba56321883808cdde14c3b491b4f]
+#### 20. Identification of workers[^c-1169ba56321883808cdde14c3b491b4f]
 
 Where the agency is acting otherwise than as an employment agency, the registered person shall ensure that every domiciliary care worker supplied by the agency is instructed that, while attending on a service user for the purposes of the provision of prescribed services, he must present the service user with identification showing his name, the name of the agency and a recent photograph.
 
-#### 21. Records[^key-62310c6537181c9a727365836941a9f7]
+#### 21. Records[^c-62310c6537181c9a727365836941a9f7]
 
 (1) The registered person shall ensure that the records specified in Schedule 4 are maintained, and that they are—
 
@@ -398,7 +398,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
 
 (2) The registered person shall ensure that, in addition to the records referred to in paragraph (1), a copy of the service user plan and a detailed record of the prescribed services provided to the service user are kept at the service user’s home and that they are kept up to date, in good order and in a secure manner.
 
-#### 22. Complaints[^key-f55f4205d56b671ffa42a1f1d081bd1e]
+#### 22. Complaints[^c-f55f4205d56b671ffa42a1f1d081bd1e]
 
 (1) The registered person shall establish a procedure (“the complaints procedure”) for considering complaints made to the registered person by a service user or a service user’s representative.
 
@@ -421,7 +421,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
 
 (9) The registered person shall supply to the RQIA at its request a statement containing a summary of the complaints made during the preceding twelve months ending on the date of the request and the action taken in response.
 
-#### 23. Assessment of quality of services[^key-73ee5b5eb41c969653e835a7618d33fc]
+#### 23. Assessment of quality of services[^c-73ee5b5eb41c969653e835a7618d33fc]
 
 (1) The registered person shall establish and maintain a system for evaluating the quality of the services which the agency arranges to be provided.
 
@@ -439,7 +439,7 @@ Where the agency is acting otherwise than as an employment agency, the registere
 
 (5) The system referred to in paragraph (1) shall provide for consultation with service users and their representatives.
 
-#### 24. Improvement plan[^key-040bec7fe5e4881cc05300377d65aab2]
+#### 24. Improvement plan[^c-040bec7fe5e4881cc05300377d65aab2]
 
 (1) If requested to do so by the RQIA, the registered person shall produce a plan (the improvement plan) setting out the methods by which, and the timetable to which, the registered person intends to improve the services which the agency arranges to be provided.
 
@@ -449,13 +449,13 @@ Where the agency is acting otherwise than as an employment agency, the registere
 
 ### CHAPTER 2 — PREMISES
 
-#### 25. Fitness of premises[^key-3a28ed8a4046c2ee819b4e85dd5a23eb]
+#### 25. Fitness of premises[^c-3a28ed8a4046c2ee819b4e85dd5a23eb]
 
 Subject to regulation 5(3), the registered person shall not use the premises for the purpose of an agency unless the premises are suitable for the purpose of achieving the aims and objectives of the agency set out in the statement of purpose.
 
 ### CHAPTER 3 — FINANCIAL MATTERS
 
-#### 26. Financial position[^key-b446a04991399d4cded84aaea566bc09]
+#### 26. Financial position[^c-b446a04991399d4cded84aaea566bc09]
 
 (1) The registered provider shall carry on the agency in such manner as is likely to ensure that the agency will be financially viable for the purpose of achieving the aims and objectives of the agency set out in the statement of purpose.
 
@@ -466,7 +466,7 @@ Subject to regulation 5(3), the registered person shall not use the premises for
 
 ### CHAPTER 4 — NOTICES TO BE GIVEN TO THE RQIA
 
-#### 27. Notice of absence[^key-097a6644feaa12237884e85eb66ea1c3]
+#### 27. Notice of absence[^c-097a6644feaa12237884e85eb66ea1c3]
 
 (1) Where—
 
@@ -494,7 +494,7 @@ has been absent from the agency for a continuous period of 28 days or more, and 
 
 (5) The registered provider shall notify the RQIA of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
 
-#### 28. Notice of changes[^key-8883968da91d794b63eb9cf6035c36fe]
+#### 28. Notice of changes[^c-8883968da91d794b63eb9cf6035c36fe]
 
 The registered person shall give notice in writing to the RQIA as soon as it is practicable to do so if any of the following events takes place or are proposed to take place—
 
@@ -508,10 +508,10 @@ The registered person shall give notice in writing to the RQIA as soon as it is 
   - (iii) there is any change in the identity of the responsible individual;
 - (f) where the registered provider is an individual, a trustee in bankruptcy is appointed;
 - (g) where the registered provider is a company or partnership, a receiver, manager, liquidator or provisional liquidator is appointed; or
-- (fa)[^key-0841f3bdaf0cd5ebf061d80ac02fb021] where the registered provider is an individual, a debt relief order is made in respect of him;
+- (fa)[^c-0841f3bdaf0cd5ebf061d80ac02fb021] where the registered provider is an individual, a debt relief order is made in respect of him;
 - (h) the registered provider acquires additional premises for the purposes of the agency.
 
-#### 29. Appointment of liquidators etc.[^key-a58cfe784a4d37b2b2eafb45aa259e88]
+#### 29. Appointment of liquidators etc.[^c-a58cfe784a4d37b2b2eafb45aa259e88]
 
 (1) Any person to whom paragraph (2) applies must—
 
@@ -525,7 +525,7 @@ The registered person shall give notice in writing to the RQIA as soon as it is 
 - (b) the liquidator or provisional liquidator of a company which is the registered provider in respect of an agency; or
 - (c) the trustee in bankruptcy of a registered provider in respect of an agency.
 
-#### 30. Death of registered person[^key-8f374ffb07f460a86ce6c41e52f1ad75]
+#### 30. Death of registered person[^c-8f374ffb07f460a86ce6c41e52f1ad75]
 
 (1) If more than one person is registered in respect of an agency, and a registered person dies, the surviving registered person shall without delay notify the RQIA of the death in writing.
 
@@ -545,11 +545,11 @@ The registered person shall give notice in writing to the RQIA as soon as it is 
 
 ## PART IV — MISCELLANEOUS
 
-### 31. Compliance with regulations[^key-68d99512cb6269b46f191bf745581b44]
+### 31. Compliance with regulations[^c-68d99512cb6269b46f191bf745581b44]
 
 Where there is more than one registered person in respect of an agency, anything which is required under these Regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
 
-### 32. Offences[^key-16ca3eacda36e057aa5d286cb079f021]
+### 32. Offences[^c-16ca3eacda36e057aa5d286cb079f021]
 
 (1) A contravention of any of the provisions of regulations 5 to 7 and 12 to 28 shall be an offence.
 
@@ -581,76 +581,76 @@ Department of Health, Social Services and Public Safety
 
 Regulation 5(1)
 
-**1.**[^key-4b94b4bb5c921778de2749e37c415d42] A statement of the aims and objectives of the agency.
+**1.**[^c-4b94b4bb5c921778de2749e37c415d42] A statement of the aims and objectives of the agency.
 
-**2.**[^key-25b59b23df666b5b4988ec5aae507925] The nature and range of the services which the agency provides.
+**2.**[^c-25b59b23df666b5b4988ec5aae507925] The nature and range of the services which the agency provides.
 
-**3.**[^key-1fcbfc269fd4a837d0140bf413189e90] The name and address of the registered provider and of any registered manager.
+**3.**[^c-1fcbfc269fd4a837d0140bf413189e90] The name and address of the registered provider and of any registered manager.
 
-**4.**[^key-7c2d5e29319f7903596513dafba2f15d] The relevant qualifications and experience of the registered provider and any registered manager.
+**4.**[^c-7c2d5e29319f7903596513dafba2f15d] The relevant qualifications and experience of the registered provider and any registered manager.
 
-**5.**[^key-477264e6387616d601fce99c2895e135] The range of qualifications of the domiciliary care workers supplied by the agency and the types of settings in which they are supplied to work.
+**5.**[^c-477264e6387616d601fce99c2895e135] The range of qualifications of the domiciliary care workers supplied by the agency and the types of settings in which they are supplied to work.
 
-**6.**[^key-1e3a0603f1d746ddaab5d57201d1d58b] The complaints procedure established in accordance with regulation 22.
+**6.**[^c-1e3a0603f1d746ddaab5d57201d1d58b] The complaints procedure established in accordance with regulation 22.
 
-**7.**[^key-9cfe670757baa4151fd07a88423ad089] Status, constitution and organisational structure, which identify the lines of accountability and specify the roles and responsibilities for areas of activity.
+**7.**[^c-9cfe670757baa4151fd07a88423ad089] Status, constitution and organisational structure, which identify the lines of accountability and specify the roles and responsibilities for areas of activity.
 
-**8.**[^key-894a0888f610088e3eec722711094f77] A description of the agency’s underlying ethos and philosophy of care.
+**8.**[^c-894a0888f610088e3eec722711094f77] A description of the agency’s underlying ethos and philosophy of care.
 
 ## SCHEDULE 2 — INFORMATION AND DOCUMENTS REQUIRED IN RESPECT OF REGISTERED PROVIDERS AND MANAGERS OF AN AGENCY
 
 Regulations 8(3) and 10(2)
 
-**1.**[^key-75b6c098eeab5ffd1f85f29033674043] Proof of identity, including a recent photograph.
+**1.**[^c-75b6c098eeab5ffd1f85f29033674043] Proof of identity, including a recent photograph.
 
-**2.**[^key-9484b537f12ed5ae10b3be14a7cf5e2b] When Part V of the Police Act 1997[^f00002] is commenced in Northern Ireland, either—
+**2.**[^c-9484b537f12ed5ae10b3be14a7cf5e2b] When Part V of the Police Act 1997[^f00002] is commenced in Northern Ireland, either—
 
 - (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of that Act, an enhanced criminal record certificate issued under that section; or
 - (b) in any other case, a criminal record certificate issued under section 113A of that Act,
 
 and an application for either certificate shall be accompanied where applicable by an adult’s suitability statement under section 113D of that Act.
 
-**3.**[^key-2bd991b36ac08d59a638fa6c586c6811] Two written references relating to the person, including a reference from the person’s present or most recent employer, if any.
+**3.**[^c-2bd991b36ac08d59a638fa6c586c6811] Two written references relating to the person, including a reference from the person’s present or most recent employer, if any.
 
-**4.**[^key-77731b345801f7f54c301b8e0406f86e] Where the person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
+**4.**[^c-77731b345801f7f54c301b8e0406f86e] Where the person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
 
-**5.**[^key-869cc609d8e07735aac9fc6389a64c4b] Details and documentary evidence of any relevant qualifications or accredited training
+**5.**[^c-869cc609d8e07735aac9fc6389a64c4b] Details and documentary evidence of any relevant qualifications or accredited training
 
-**6.**[^key-d878dad9f4fe3f8ddf84e072a5227209] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**6.**[^c-d878dad9f4fe3f8ddf84e072a5227209] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**7.**[^key-9bad789a29413c10fe6bd6b3a0c716e9] Details of health record.
+**7.**[^c-9bad789a29413c10fe6bd6b3a0c716e9] Details of health record.
 
-**8.**[^key-644437a05109cc1f076eba6323e9c354] If applicable, details[^key-7a8f80d2b5427d445bcea662861d3ad1] of registration with, or membership of, any professional regulatory body.
+**8.**[^c-644437a05109cc1f076eba6323e9c354] If applicable, details[^c-7a8f80d2b5427d445bcea662861d3ad1] of registration with, or membership of, any professional regulatory body.
 
-**9.**[^key-b1d07c9788f1678c9aa582e3259a7e7e] Details of any professional indemnity insurance.
+**9.**[^c-b1d07c9788f1678c9aa582e3259a7e7e] Details of any professional indemnity insurance.
 
 ## SCHEDULE 3 — INFORMATION AND DOCUMENTS REQUIRED IN RESPECT OF DOMICILIARY CARE WORKERS
 
 Regulation 13
 
-**1.**[^key-5c34bf51e927a373236483cef6b73232] Name, address, date of birth and telephone number.
+**1.**[^c-5c34bf51e927a373236483cef6b73232] Name, address, date of birth and telephone number.
 
-**2.**[^key-7c9b9537c388994c898e6fff1fd5e462] Name, address and telephone number of next of kin
+**2.**[^c-7c9b9537c388994c898e6fff1fd5e462] Name, address and telephone number of next of kin
 
-**3.**[^key-a7f37c37da4e20a6dfe8af24b4bfef3b] Proof of identity, including a recent photograph.
+**3.**[^c-a7f37c37da4e20a6dfe8af24b4bfef3b] Proof of identity, including a recent photograph.
 
-**4.**[^key-240f1145e86a1f3fb9a29726543d7c81] Two written references, relating to the person, including a reference from the person’s present or most recent employer, if any.
+**4.**[^c-240f1145e86a1f3fb9a29726543d7c81] Two written references, relating to the person, including a reference from the person’s present or most recent employer, if any.
 
-**5.**[^key-9bab1423cb37d5cbbee2bbd895497292] Where the person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
+**5.**[^c-9bab1423cb37d5cbbee2bbd895497292] Where the person has previously worked in a position which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
 
-**6.**[^key-24dbbd37fdd0bdd622d937642e54b57e] Evidence of a satisfactory knowledge of the English language, where the person’s qualifications were obtained outside the United Kingdom.
+**6.**[^c-24dbbd37fdd0bdd622d937642e54b57e] Evidence of a satisfactory knowledge of the English language, where the person’s qualifications were obtained outside the United Kingdom.
 
-**7.**[^key-b42f8b5106d1105e6bd17c7fd968a331] Details and documentary evidence of any relevant qualifications or accredited training of the person and, if applicable, registration with an appropriate regulatory body.
+**7.**[^c-b42f8b5106d1105e6bd17c7fd968a331] Details and documentary evidence of any relevant qualifications or accredited training of the person and, if applicable, registration with an appropriate regulatory body.
 
-**8.**[^key-211adbcbefb443a84e80ce5c22924031] A full employment history, together with a satisfactory written explanation of any gaps in employment and details of any current employment other than for the purposes of the agency.
+**8.**[^c-211adbcbefb443a84e80ce5c22924031] A full employment history, together with a satisfactory written explanation of any gaps in employment and details of any current employment other than for the purposes of the agency.
 
-**9.**[^key-c4c704c0a0d41b6a78bbfab2b995298e] Details of physical and mental health record, including immunisation status.
+**9.**[^c-c4c704c0a0d41b6a78bbfab2b995298e] Details of physical and mental health record, including immunisation status.
 
-**10.**[^key-c8faa22e7e72f141e38a760e404657bf] A statement by the registered provider, or the registered manager, as the case may be, that the person is physically and mentally fit for the purposes of the work which he is to perform.
+**10.**[^c-c8faa22e7e72f141e38a760e404657bf] A statement by the registered provider, or the registered manager, as the case may be, that the person is physically and mentally fit for the purposes of the work which he is to perform.
 
-**11.**[^key-c916c93fffbbcece5befad60be5df054] Details of any professional indemnity insurance.
+**11.**[^c-c916c93fffbbcece5befad60be5df054] Details of any professional indemnity insurance.
 
-**12.**[^key-7f0b376a475f66769680c8ca7d2835c6] When Part V of the Police Act 1997 is commenced in Northern Ireland, either—
+**12.**[^c-7f0b376a475f66769680c8ca7d2835c6] When Part V of the Police Act 1997 is commenced in Northern Ireland, either—
 
 - (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of that Act, an enhanced criminal record certificate issued under that section; or
 - (b) in any other case, a criminal record certificate issued under section 113A of that Act, and an application for either certificate shall be accompanied where applicable by an adult’s suitability statement under section 113D of that Act.
@@ -659,33 +659,33 @@ Regulation 13
 
 Regulation 21(1)
 
-### 1. Records relating to domiciliary care workers and service users[^key-1af44d4b223ecd2ec8e856d9caaf1b90]
+### 1. Records relating to domiciliary care workers and service users[^c-1af44d4b223ecd2ec8e856d9caaf1b90]
 
 Copies of all agreements between the agency and domiciliary care workers supplied or to be supplied by the agency and evidence that a copy of any standard terms and conditions has been supplied by the agency to each domiciliary care worker, including recruitment and selection records in respect of all domiciliary care workers supplied by an agency.
 
-**2.**[^key-7e376d817890cdeaa59becb9155f0c77] Copies of any statement given to a service user setting out the qualifications and relevant experience of a domiciliary care worker supplied to that service user.
+**2.**[^c-7e376d817890cdeaa59becb9155f0c77] Copies of any statement given to a service user setting out the qualifications and relevant experience of a domiciliary care worker supplied to that service user.
 
-**3.**[^key-e686481cd3a77bea79509aa0a90097b0] An alphabetical index of service users, including the full name, address and telephone number of each of them and any serial numbers assigned to them.
+**3.**[^c-e686481cd3a77bea79509aa0a90097b0] An alphabetical index of service users, including the full name, address and telephone number of each of them and any serial numbers assigned to them.
 
-**4.**[^key-b8a692879a3f16e75ced86ff5b1e5139] An alphabetical index of domiciliary care workers supplied or available for supply by the agency, including any serial numbers assigned to them.
+**4.**[^c-b8a692879a3f16e75ced86ff5b1e5139] An alphabetical index of domiciliary care workers supplied or available for supply by the agency, including any serial numbers assigned to them.
 
-**5.**[^key-222133dd67033cf8a3804f15b2ec6c16] Details of each supply of a domiciliary care worker to a service user.
+**5.**[^c-222133dd67033cf8a3804f15b2ec6c16] Details of each supply of a domiciliary care worker to a service user.
 
-### 6. Records relating to training and development of staff[^key-94f70f83ca470c2c6de31a3df9e55081]
+### 6. Records relating to training and development of staff[^c-94f70f83ca470c2c6de31a3df9e55081]
 
 Where the agency is acting otherwise than as an employment agency, details of the training undertaken by all employees including, where applicable, induction training.
 
-**7.**[^key-4cb30add727a72bdd6afaccef8073a5d] Annual staff appraisals.
+**7.**[^c-4cb30add727a72bdd6afaccef8073a5d] Annual staff appraisals.
 
-### 8. Other records[^key-dca90bf427d9342a431c2bbc52cd4b1e]
+### 8. Other records[^c-dca90bf427d9342a431c2bbc52cd4b1e]
 
 All information provided to the RQIA for the purposes of registration in relation to the agency.
 
-**9.**[^key-d73e250f101bf0ba508a75d72db79617] Details of every allegation of abuse, neglect or other harm made against an employee of, or any domiciliary care worker who works for, the agency, (whether or not the subject of a complaint made under regulation 22), including details of the investigations made, the outcome and any action taken in consequence.
+**9.**[^c-d73e250f101bf0ba508a75d72db79617] Details of every allegation of abuse, neglect or other harm made against an employee of, or any domiciliary care worker who works for, the agency, (whether or not the subject of a complaint made under regulation 22), including details of the investigations made, the outcome and any action taken in consequence.
 
-**10.**[^key-a3426d82135b2a33f0329b464d1b0c12] Details of any physical restraint used on a service user by a person who works as a domiciliary care worker for the purposes of the agency.
+**10.**[^c-a3426d82135b2a33f0329b464d1b0c12] Details of any physical restraint used on a service user by a person who works as a domiciliary care worker for the purposes of the agency.
 
-**11.**[^key-12e891d75263099db684d13bcdacc5ce] The service user plan devised for each service user in accordance with regulation 15, and a detailed record of the prescribed services provided to that service user.
+**11.**[^c-12e891d75263099db684d13bcdacc5ce] The service user plan devised for each service user in accordance with regulation 15, and a detailed record of the prescribed services provided to that service user.
 
 (This note is not part of the Regulations)
 
@@ -705,182 +705,182 @@ Regulations 31 to 32 deal with miscellaneous matters. In particular, regulation 
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-dc6ee908255be94ebb84837c43506932]: Commencement: Reg. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-dc6ee908255be94ebb84837c43506932]: Commencement: Reg. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-cce043cb45087177a6f7a4986b860bf5]: Commencement: Reg. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-cce043cb45087177a6f7a4986b860bf5]: Commencement: Reg. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-778be765bdc094a53bcc17ea7b5b8d69]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/42/2)
+[^c-778be765bdc094a53bcc17ea7b5b8d69]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/42/2)
 
-[^key-5a2b4bcd1ef7ab6b46bd1a6ed485e8de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/2)
+[^c-5a2b4bcd1ef7ab6b46bd1a6ed485e8de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/2)
 
-[^key-9b8409184c0fba7a078bc55162ad4d26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2013/225/regulation/12/2)
+[^c-9b8409184c0fba7a078bc55162ad4d26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/2/1) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2013/225/regulation/12/2)
 
-[^key-e0420be612691a1517b3986e3c84b184]: Commencement: Reg. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-e0420be612691a1517b3986e3c84b184]: Commencement: Reg. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-14317521c7b0939fd02e281d17d86cd4]: Commencement: Reg. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-14317521c7b0939fd02e281d17d86cd4]: Commencement: Reg. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-147f3d38e9d6ff436fbbe012eac489cc]: Commencement: Reg. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-147f3d38e9d6ff436fbbe012eac489cc]: Commencement: Reg. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-cf8fa49351d4fc45dfde5e028dd4ec6f]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-cf8fa49351d4fc45dfde5e028dd4ec6f]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
-[^key-b4fb952dc3d98e7826c226b3212f729d]: Commencement: Reg. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-b4fb952dc3d98e7826c226b3212f729d]: Commencement: Reg. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-1c146611876280654ad47688b92daf4c]: Commencement: Reg. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-1c146611876280654ad47688b92daf4c]: Commencement: Reg. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-7516680ae268552845bd890ddaf254ce]: Commencement: Reg. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-7516680ae268552845bd890ddaf254ce]: Commencement: Reg. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-183c7106fa4eb360c72ca20caf96f867]: Textual amendment: [Reg. 8(4)(ab)](https://www.legislation.gov.uk/nisr/2007/235/regulation/8/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/42/3)
+[^c-183c7106fa4eb360c72ca20caf96f867]: Textual amendment: [Reg. 8(4)(ab)](https://www.legislation.gov.uk/nisr/2007/235/regulation/8/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/42/3)
 
-[^key-c3eeab32055edb387af67ed7e6b3da34]: Textual amendment: [Reg. 8(4)(ac)](https://www.legislation.gov.uk/nisr/2007/235/regulation/8/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/3)
+[^c-c3eeab32055edb387af67ed7e6b3da34]: Textual amendment: [Reg. 8(4)(ac)](https://www.legislation.gov.uk/nisr/2007/235/regulation/8/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/3)
 
-[^key-b53deef577510c760f17af85934a874d]: Commencement: Reg. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-b53deef577510c760f17af85934a874d]: Commencement: Reg. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-853b4351673fa030a98cab153f1aa595]: Commencement: Reg. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-853b4351673fa030a98cab153f1aa595]: Commencement: Reg. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-5b72ac7ea14025aca1aafcdf1129bda9]: Commencement: Reg. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-5b72ac7ea14025aca1aafcdf1129bda9]: Commencement: Reg. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-5b9927b75ad0820356d7b503a2a627f2]: Commencement: Reg. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-5b9927b75ad0820356d7b503a2a627f2]: Commencement: Reg. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-a81097b0856a021fbce71afdce1d83d2]: Commencement: Reg. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-a81097b0856a021fbce71afdce1d83d2]: Commencement: Reg. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-670e22033fa7c2976a8f396504b81735]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/235/regulation/13) substituted (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2009/145/regulation/7/1)
+[^c-670e22033fa7c2976a8f396504b81735]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/235/regulation/13) substituted (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [7(1)](https://www.legislation.gov.uk/nisr/2009/145/regulation/7/1)
 
-[^key-29b7a76536904ea3e7182881df538a8d]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/1): reg. 13 renumbered (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/a)
+[^c-29b7a76536904ea3e7182881df538a8d]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/1): reg. 13 renumbered (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/a)
 
-[^key-b512e3e587ad9606d73d403bd24ecaa0]: Textual amendment: Word in [reg. 13(c)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/c) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/a)
+[^c-b512e3e587ad9606d73d403bd24ecaa0]: Textual amendment: Word in [reg. 13(c)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/c) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/a)
 
-[^key-23ff33372fd325d836943eb56cc775c9]: Textual amendment: Semicolon in [Reg. 13(d)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/d) substituted for full stop (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/b)
+[^c-23ff33372fd325d836943eb56cc775c9]: Textual amendment: Semicolon in [Reg. 13(d)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/d) substituted for full stop (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/b)
 
-[^key-fb160f7cc576a1694a73048d02061722]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/1) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/a)
+[^c-fb160f7cc576a1694a73048d02061722]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/1) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/a)
 
-[^key-bc12a495a43321fdee7e732ae9869c43]: Textual amendment: [Regs. 13(e)-(g)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/e) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/c)
+[^c-bc12a495a43321fdee7e732ae9869c43]: Textual amendment: [Regs. 13(e)-(g)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/e) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [12(2)(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/12/2/c)
 
-[^key-e2d4569e4cd8a93f408d73e49bb94d12]: Textual amendment: [Reg. 13(2)-(4)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/2) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/b)
+[^c-e2d4569e4cd8a93f408d73e49bb94d12]: Textual amendment: [Reg. 13(2)-(4)](https://www.legislation.gov.uk/nisr/2007/235/regulation/13/2) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/2/b)
 
-[^key-eac2d4d389b5245a6120fc7cec7406bf]: Commencement: Reg. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-eac2d4d389b5245a6120fc7cec7406bf]: Commencement: Reg. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-39f078e758c13b1d52ec230484ce1129]: Commencement: Reg. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-39f078e758c13b1d52ec230484ce1129]: Commencement: Reg. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-5eea1bacb55855418de8171a700b7d94]: Commencement: Reg. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-5eea1bacb55855418de8171a700b7d94]: Commencement: Reg. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-35ad0e9e00e63b4fdc8ea1775b88764a]: Commencement: Reg. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-35ad0e9e00e63b4fdc8ea1775b88764a]: Commencement: Reg. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-5027d3ea0d958092e1c2f1b75cfaf74b]: Commencement: Reg. 18 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-5027d3ea0d958092e1c2f1b75cfaf74b]: Commencement: Reg. 18 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-be49e841184fdef43e219e0bf665ce3c]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/nisr/2007/235/regulation/18/1A) re-inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/3/a)
+[^c-be49e841184fdef43e219e0bf665ce3c]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/nisr/2007/235/regulation/18/1A) re-inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/3/a)
 
-[^key-003063ca864aaed78959edb118b0ad05]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2007/235/regulation/18/2) substituted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/3/b)
+[^c-003063ca864aaed78959edb118b0ad05]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2007/235/regulation/18/2) substituted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/3/b)
 
-[^key-cd45121bd6b6b24582ed66d120645141]: Commencement: Reg. 19 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-cd45121bd6b6b24582ed66d120645141]: Commencement: Reg. 19 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-1169ba56321883808cdde14c3b491b4f]: Commencement: Reg. 20 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-1169ba56321883808cdde14c3b491b4f]: Commencement: Reg. 20 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-62310c6537181c9a727365836941a9f7]: Commencement: Reg. 21 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-62310c6537181c9a727365836941a9f7]: Commencement: Reg. 21 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-f55f4205d56b671ffa42a1f1d081bd1e]: Commencement: Reg. 22 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-f55f4205d56b671ffa42a1f1d081bd1e]: Commencement: Reg. 22 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-73ee5b5eb41c969653e835a7618d33fc]: Commencement: Reg. 23 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-73ee5b5eb41c969653e835a7618d33fc]: Commencement: Reg. 23 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-040bec7fe5e4881cc05300377d65aab2]: Commencement: Reg. 24 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-040bec7fe5e4881cc05300377d65aab2]: Commencement: Reg. 24 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-3a28ed8a4046c2ee819b4e85dd5a23eb]: Commencement: Reg. 25 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-3a28ed8a4046c2ee819b4e85dd5a23eb]: Commencement: Reg. 25 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-b446a04991399d4cded84aaea566bc09]: Commencement: Reg. 26 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-b446a04991399d4cded84aaea566bc09]: Commencement: Reg. 26 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-097a6644feaa12237884e85eb66ea1c3]: Commencement: Reg. 27 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-097a6644feaa12237884e85eb66ea1c3]: Commencement: Reg. 27 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-8883968da91d794b63eb9cf6035c36fe]: Commencement: Reg. 28 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-8883968da91d794b63eb9cf6035c36fe]: Commencement: Reg. 28 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-0841f3bdaf0cd5ebf061d80ac02fb021]: Textual amendment: [Reg. 28(fa)](https://www.legislation.gov.uk/nisr/2007/235/regulation/28/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/4)
+[^c-0841f3bdaf0cd5ebf061d80ac02fb021]: Textual amendment: [Reg. 28(fa)](https://www.legislation.gov.uk/nisr/2007/235/regulation/28/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 49(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/49/4)
 
-[^key-a58cfe784a4d37b2b2eafb45aa259e88]: Commencement: Reg. 29 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-a58cfe784a4d37b2b2eafb45aa259e88]: Commencement: Reg. 29 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-8f374ffb07f460a86ce6c41e52f1ad75]: Commencement: Reg. 30 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-8f374ffb07f460a86ce6c41e52f1ad75]: Commencement: Reg. 30 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-68d99512cb6269b46f191bf745581b44]: Commencement: Reg. 31 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-68d99512cb6269b46f191bf745581b44]: Commencement: Reg. 31 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-16ca3eacda36e057aa5d286cb079f021]: Commencement: Reg. 32 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-16ca3eacda36e057aa5d286cb079f021]: Commencement: Reg. 32 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-4b94b4bb5c921778de2749e37c415d42]: Commencement: Sch. 1 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-4b94b4bb5c921778de2749e37c415d42]: Commencement: Sch. 1 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-25b59b23df666b5b4988ec5aae507925]: Commencement: Sch. 1 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-25b59b23df666b5b4988ec5aae507925]: Commencement: Sch. 1 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-1fcbfc269fd4a837d0140bf413189e90]: Commencement: Sch. 1 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-1fcbfc269fd4a837d0140bf413189e90]: Commencement: Sch. 1 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-7c2d5e29319f7903596513dafba2f15d]: Commencement: Sch. 1 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-7c2d5e29319f7903596513dafba2f15d]: Commencement: Sch. 1 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-477264e6387616d601fce99c2895e135]: Commencement: Sch. 1 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-477264e6387616d601fce99c2895e135]: Commencement: Sch. 1 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-1e3a0603f1d746ddaab5d57201d1d58b]: Commencement: Sch. 1 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-1e3a0603f1d746ddaab5d57201d1d58b]: Commencement: Sch. 1 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-9cfe670757baa4151fd07a88423ad089]: Commencement: Sch. 1 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-9cfe670757baa4151fd07a88423ad089]: Commencement: Sch. 1 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-894a0888f610088e3eec722711094f77]: Commencement: Sch. 1 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-894a0888f610088e3eec722711094f77]: Commencement: Sch. 1 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-75b6c098eeab5ffd1f85f29033674043]: Commencement: Sch. 2 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-75b6c098eeab5ffd1f85f29033674043]: Commencement: Sch. 2 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-9484b537f12ed5ae10b3be14a7cf5e2b]: Commencement: Sch. 2 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-9484b537f12ed5ae10b3be14a7cf5e2b]: Commencement: Sch. 2 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
 [^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
-[^key-2bd991b36ac08d59a638fa6c586c6811]: Commencement: Sch. 2 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-2bd991b36ac08d59a638fa6c586c6811]: Commencement: Sch. 2 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-77731b345801f7f54c301b8e0406f86e]: Commencement: Sch. 2 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-77731b345801f7f54c301b8e0406f86e]: Commencement: Sch. 2 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-869cc609d8e07735aac9fc6389a64c4b]: Commencement: Sch. 2 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-869cc609d8e07735aac9fc6389a64c4b]: Commencement: Sch. 2 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-d878dad9f4fe3f8ddf84e072a5227209]: Commencement: Sch. 2 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-d878dad9f4fe3f8ddf84e072a5227209]: Commencement: Sch. 2 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-9bad789a29413c10fe6bd6b3a0c716e9]: Commencement: Sch. 2 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-9bad789a29413c10fe6bd6b3a0c716e9]: Commencement: Sch. 2 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-644437a05109cc1f076eba6323e9c354]: Commencement: Sch. 2 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-644437a05109cc1f076eba6323e9c354]: Commencement: Sch. 2 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-7a8f80d2b5427d445bcea662861d3ad1]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/235/schedule/2/paragraph/8) substituted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(4)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/4)
+[^c-7a8f80d2b5427d445bcea662861d3ad1]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/235/schedule/2/paragraph/8) substituted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [7(4)](https://www.legislation.gov.uk/nisr/2020/60/regulation/7/4)
 
-[^key-b1d07c9788f1678c9aa582e3259a7e7e]: Commencement: Sch. 2 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-b1d07c9788f1678c9aa582e3259a7e7e]: Commencement: Sch. 2 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-5c34bf51e927a373236483cef6b73232]: Commencement: Sch. 3 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-5c34bf51e927a373236483cef6b73232]: Commencement: Sch. 3 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-7c9b9537c388994c898e6fff1fd5e462]: Commencement: Sch. 3 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-7c9b9537c388994c898e6fff1fd5e462]: Commencement: Sch. 3 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-a7f37c37da4e20a6dfe8af24b4bfef3b]: Commencement: Sch. 3 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-a7f37c37da4e20a6dfe8af24b4bfef3b]: Commencement: Sch. 3 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-240f1145e86a1f3fb9a29726543d7c81]: Commencement: Sch. 3 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-240f1145e86a1f3fb9a29726543d7c81]: Commencement: Sch. 3 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-9bab1423cb37d5cbbee2bbd895497292]: Commencement: Sch. 3 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-9bab1423cb37d5cbbee2bbd895497292]: Commencement: Sch. 3 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-24dbbd37fdd0bdd622d937642e54b57e]: Commencement: Sch. 3 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-24dbbd37fdd0bdd622d937642e54b57e]: Commencement: Sch. 3 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-b42f8b5106d1105e6bd17c7fd968a331]: Commencement: Sch. 3 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-b42f8b5106d1105e6bd17c7fd968a331]: Commencement: Sch. 3 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-211adbcbefb443a84e80ce5c22924031]: Commencement: Sch. 3 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-211adbcbefb443a84e80ce5c22924031]: Commencement: Sch. 3 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-c4c704c0a0d41b6a78bbfab2b995298e]: Commencement: Sch. 3 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-c4c704c0a0d41b6a78bbfab2b995298e]: Commencement: Sch. 3 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-c8faa22e7e72f141e38a760e404657bf]: Commencement: Sch. 3 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-c8faa22e7e72f141e38a760e404657bf]: Commencement: Sch. 3 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-c916c93fffbbcece5befad60be5df054]: Commencement: Sch. 3 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-c916c93fffbbcece5befad60be5df054]: Commencement: Sch. 3 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-7f0b376a475f66769680c8ca7d2835c6]: Commencement: Sch. 3 para. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-7f0b376a475f66769680c8ca7d2835c6]: Commencement: Sch. 3 para. 12 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-1af44d4b223ecd2ec8e856d9caaf1b90]: Commencement: Sch. 4 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-1af44d4b223ecd2ec8e856d9caaf1b90]: Commencement: Sch. 4 para. 1 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-7e376d817890cdeaa59becb9155f0c77]: Commencement: Sch. 4 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-7e376d817890cdeaa59becb9155f0c77]: Commencement: Sch. 4 para. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-e686481cd3a77bea79509aa0a90097b0]: Commencement: Sch. 4 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-e686481cd3a77bea79509aa0a90097b0]: Commencement: Sch. 4 para. 3 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-b8a692879a3f16e75ced86ff5b1e5139]: Commencement: Sch. 4 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-b8a692879a3f16e75ced86ff5b1e5139]: Commencement: Sch. 4 para. 4 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-222133dd67033cf8a3804f15b2ec6c16]: Commencement: Sch. 4 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-222133dd67033cf8a3804f15b2ec6c16]: Commencement: Sch. 4 para. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-94f70f83ca470c2c6de31a3df9e55081]: Commencement: Sch. 4 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-94f70f83ca470c2c6de31a3df9e55081]: Commencement: Sch. 4 para. 6 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-4cb30add727a72bdd6afaccef8073a5d]: Commencement: Sch. 4 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-4cb30add727a72bdd6afaccef8073a5d]: Commencement: Sch. 4 para. 7 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-dca90bf427d9342a431c2bbc52cd4b1e]: Commencement: Sch. 4 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-dca90bf427d9342a431c2bbc52cd4b1e]: Commencement: Sch. 4 para. 8 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-d73e250f101bf0ba508a75d72db79617]: Commencement: Sch. 4 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-d73e250f101bf0ba508a75d72db79617]: Commencement: Sch. 4 para. 9 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-a3426d82135b2a33f0329b464d1b0c12]: Commencement: Sch. 4 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-a3426d82135b2a33f0329b464d1b0c12]: Commencement: Sch. 4 para. 10 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
 
-[^key-12e891d75263099db684d13bcdacc5ce]: Commencement: Sch. 4 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)
+[^c-12e891d75263099db684d13bcdacc5ce]: Commencement: Sch. 4 para. 11 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/235/regulation/1)

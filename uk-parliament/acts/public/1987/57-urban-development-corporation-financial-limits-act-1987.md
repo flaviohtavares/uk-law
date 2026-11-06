@@ -31,18 +31,18 @@ Urban Development Corporation (Financial Limits) Act 1987 (repealed)
 
 1987 c. 57
 
-[^key-404bfeb67db824e235ba29eaf277df76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-404bfeb67db824e235ba29eaf277df76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Alteration of financial limits of urban development corporations.[^key-404bfeb67db824e235ba29eaf277df76][^key-404bfeb67db824e235ba29eaf277df76]
+## 1. Alteration of financial limits of urban development corporations.[^c-404bfeb67db824e235ba29eaf277df76][^c-404bfeb67db824e235ba29eaf277df76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, commencement and extent.[^key-404bfeb67db824e235ba29eaf277df76][^key-404bfeb67db824e235ba29eaf277df76]
+## 2. Short title, commencement and extent.[^c-404bfeb67db824e235ba29eaf277df76][^c-404bfeb67db824e235ba29eaf277df76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-404bfeb67db824e235ba29eaf277df76]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/57) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/9))
+[^c-404bfeb67db824e235ba29eaf277df76]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1987/57) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/9))

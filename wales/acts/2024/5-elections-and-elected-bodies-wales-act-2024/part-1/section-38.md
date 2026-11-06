@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Code of practice on controls relating to third parties[^key-803568cdfbe5fe73af33a2ef9d81f42d][^key-13590489690982eba07059766fbe9b00]
+## 38. Code of practice on controls relating to third parties[^c-803568cdfbe5fe73af33a2ef9d81f42d][^c-13590489690982eba07059766fbe9b00]
 
 *Extent: E+W*
 
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-803568cdfbe5fe73af33a2ef9d81f42d]: Commencement: S. 38 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-803568cdfbe5fe73af33a2ef9d81f42d]: Commencement: S. 38 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-13590489690982eba07059766fbe9b00]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2024/5/section/38) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/m)
+[^c-13590489690982eba07059766fbe9b00]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2024/5/section/38) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/m)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Appeals and compensation[^key-b3ffae3867ebf3af6b1f5e32f7fad956][^key-c9bce10aa9a4378701e3cf7424c0816e]
+## 41. Appeals and compensation[^c-b3ffae3867ebf3af6b1f5e32f7fad956][^c-c9bce10aa9a4378701e3cf7424c0816e]
 
 *Extent: E+W*
 
@@ -158,6 +158,6 @@ After section 26 of the [Forestry Act 1967 (c. 10)](https://www.legislation.gov.
 
 ## Annotations
 
-[^key-b3ffae3867ebf3af6b1f5e32f7fad956]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2023/4/section/41) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-b3ffae3867ebf3af6b1f5e32f7fad956]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2023/4/section/41) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-c9bce10aa9a4378701e3cf7424c0816e]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2023/4/section/41) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-c9bce10aa9a4378701e3cf7424c0816e]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2023/4/section/41) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

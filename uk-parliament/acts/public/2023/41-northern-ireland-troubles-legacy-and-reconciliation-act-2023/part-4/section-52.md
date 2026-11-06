@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Academic research[^key-3c943b60fb5058206f8bc0e91540f976][^key-9f66abec5575a1ef3f82a1bde3e3d3d5]
+## 52. Academic research[^c-3c943b60fb5058206f8bc0e91540f976][^c-9f66abec5575a1ef3f82a1bde3e3d3d5]
 
 *Extent: N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c943b60fb5058206f8bc0e91540f976]: Commencement: S. 52 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-3c943b60fb5058206f8bc0e91540f976]: Commencement: S. 52 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-9f66abec5575a1ef3f82a1bde3e3d3d5]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/41/section/52) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-9f66abec5575a1ef3f82a1bde3e3d3d5]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/41/section/52) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

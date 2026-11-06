@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240B. Underpayments involving offshore matters etc[^key-ae1ed7141b5babaf8eee5b9f80f90f5c]
+## 240B. Underpayments involving offshore matters etc[^c-ae1ed7141b5babaf8eee5b9f80f90f5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae1ed7141b5babaf8eee5b9f80f90f5c]: Textual amendment: [S. 240B](https://www.legislation.gov.uk/ukpga/1984/51/section/240B) inserted (with effect in accordance with s. 81(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/81/3)
+[^c-ae1ed7141b5babaf8eee5b9f80f90f5c]: Textual amendment: [S. 240B](https://www.legislation.gov.uk/ukpga/1984/51/section/240B) inserted (with effect in accordance with s. 81(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/81/3)

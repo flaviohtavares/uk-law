@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Acquisition of rights to use gas processing facilities for downstream purposes[^key-cca5f10ed1b22460a64b0a742e883187]
+## 92. Acquisition of rights to use gas processing facilities for downstream purposes[^c-cca5f10ed1b22460a64b0a742e883187]
 
 *Extent: E+W+S*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cca5f10ed1b22460a64b0a742e883187]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2011/16/section/92) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii)
+[^c-cca5f10ed1b22460a64b0a742e883187]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2011/16/section/92) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii)

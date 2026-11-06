@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43E. Seizure and retention of items found in search under section 43C or 43D[^key-f3416a7e38b0b79cf28d6c20c254f6d7]
+## 43E. Seizure and retention of items found in search under section 43C or 43D[^c-f3416a7e38b0b79cf28d6c20c254f6d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3416a7e38b0b79cf28d6c20c254f6d7]: Textual amendment: [S. 43E](https://www.legislation.gov.uk/ukpga/2000/11/section/43E) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 187](https://www.legislation.gov.uk/ukpga/2022/32/section/187), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-f3416a7e38b0b79cf28d6c20c254f6d7]: Textual amendment: [S. 43E](https://www.legislation.gov.uk/ukpga/2000/11/section/43E) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 187](https://www.legislation.gov.uk/ukpga/2022/32/section/187), [208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z10. Meaning of “relevant day”[^key-876278a10227d7e24a62920f4473f2c1]
+## 46Z10. Meaning of “relevant day”[^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In this Chapter, “**relevant day**” means the day on which this Chapter come
 
 ## Annotations
 
-[^key-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
+[^c-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)

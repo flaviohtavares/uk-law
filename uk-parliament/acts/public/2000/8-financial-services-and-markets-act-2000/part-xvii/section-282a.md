@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282A. Obligations on operator where recognition is revoked or suspended[^key-3d1437d47fe3260c6dee7ac4e8ffc47b]
+## 282A. Obligations on operator where recognition is revoked or suspended[^c-3d1437d47fe3260c6dee7ac4e8ffc47b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d1437d47fe3260c6dee7ac4e8ffc47b]: Textual amendment: [Ss. 282A-282C](https://www.legislation.gov.uk/ukpga/2000/8/section/282A) inserted (23.2.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/25/5), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5); [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/b)
+[^c-3d1437d47fe3260c6dee7ac4e8ffc47b]: Textual amendment: [Ss. 282A-282C](https://www.legislation.gov.uk/ukpga/2000/8/section/282A) inserted (23.2.2022) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 25(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/25/5), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5); [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/b)

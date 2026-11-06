@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Jurisdiction of the Harbour Authority[^key-fb5105f781e879902194fe370f82bd30]
+## 8. Jurisdiction of the Harbour Authority[^c-fb5105f781e879902194fe370f82bd30]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ then that person may give notice to the relevant person in paragraph (5)(b).
 
 ## Annotations
 
-[^key-fb5105f781e879902194fe370f82bd30]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/2935/article/8) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-fb5105f781e879902194fe370f82bd30]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/2935/article/8) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

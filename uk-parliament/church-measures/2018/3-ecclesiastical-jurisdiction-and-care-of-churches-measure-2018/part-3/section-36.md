@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 36. Advisory committees: continuation[^key-8310b0f2f1b418e1f70e3e4fd4ac5a7c]
+## 36. Advisory committees: continuation[^c-8310b0f2f1b418e1f70e3e4fd4ac5a7c]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8310b0f2f1b418e1f70e3e4fd4ac5a7c]: Commencement: [S. 36](https://www.legislation.gov.uk/ukcm/2018/3/section/36) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-8310b0f2f1b418e1f70e3e4fd4ac5a7c]: Commencement: [S. 36](https://www.legislation.gov.uk/ukcm/2018/3/section/36) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

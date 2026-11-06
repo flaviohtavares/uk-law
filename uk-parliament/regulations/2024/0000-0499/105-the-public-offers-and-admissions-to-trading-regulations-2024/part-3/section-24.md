@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Issuers established outside UK: presentation of historical financial information[^key-65fcfcbf3a25a398965a32902a1d9313]
+## 24. Issuers established outside UK: presentation of historical financial information[^c-65fcfcbf3a25a398965a32902a1d9313]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-65fcfcbf3a25a398965a32902a1d9313]: Commencement: Reg. 24 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-65fcfcbf3a25a398965a32902a1d9313]: Commencement: Reg. 24 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00030]: Footnote: OJ no. L243, 11.9.2002, p. 1.
 

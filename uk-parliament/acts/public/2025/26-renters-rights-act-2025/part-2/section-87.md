@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Disclosure by database operator etc[^key-3ad1a13beeeec975eeaef8cf74a41ac4]
+## 87. Disclosure by database operator etc[^c-3ad1a13beeeec975eeaef8cf74a41ac4]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad1a13beeeec975eeaef8cf74a41ac4]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-3ad1a13beeeec975eeaef8cf74a41ac4]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

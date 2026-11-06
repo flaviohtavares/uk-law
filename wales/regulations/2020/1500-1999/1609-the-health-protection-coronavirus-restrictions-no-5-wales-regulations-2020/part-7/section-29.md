@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Powers relating to travel restrictions[^key-1c193e411d07b7c274b874f2936c09ab]
+## 29. Powers relating to travel restrictions[^c-1c193e411d07b7c274b874f2936c09ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c193e411d07b7c274b874f2936c09ab]: Textual amendment: Reg. 29 omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/6)
+[^c-1c193e411d07b7c274b874f2936c09ab]: Textual amendment: Reg. 29 omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/6)

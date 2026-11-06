@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Meaning of “victim”[^key-17b88c035f3c4bb15e511d083ccbe29c][^key-ecb258d4698b861f6533a9e7de6353ca]
+## 1. Meaning of “victim”[^c-17b88c035f3c4bb15e511d083ccbe29c][^c-ecb258d4698b861f6533a9e7de6353ca]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17b88c035f3c4bb15e511d083ccbe29c]: Commencement: S. 1 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-17b88c035f3c4bb15e511d083ccbe29c]: Commencement: S. 1 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-ecb258d4698b861f6533a9e7de6353ca]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/21/section/1) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/a)
+[^c-ecb258d4698b861f6533a9e7de6353ca]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/21/section/1) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/a)

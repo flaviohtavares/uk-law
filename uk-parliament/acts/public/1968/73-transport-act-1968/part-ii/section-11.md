@@ -28,9 +28,9 @@ summary: ''
 
 (3A)[^c15311451] Without prejudice to any power of the Executive to establish specific reserves, the Executive may establish and maintain a general reserve, and the Authority may give to the Executive directions as to any matter relating to the establishment or management of any such general reserve and the carrying of sums to the credit thereof, or the application thereof; but no part of the moneys comprised in such a general reserve shall be applied otherwise than for purposes of the Executive or a subsidiary of theirs.
 
-(3B)[^key-08069fc06e5ec2860b755a333e56e664] Subsection (3A) applies to each of the authorities within subsection (3C)[^key-b71ba16de6aae9be09dc59557b2f6715] as if the words from “and the Authority” to “the application thereof” were omitted.
+(3B)[^c-08069fc06e5ec2860b755a333e56e664] Subsection (3A) applies to each of the authorities within subsection (3C)[^c-b71ba16de6aae9be09dc59557b2f6715] as if the words from “and the Authority” to “the application thereof” were omitted.
 
-(3C)[^key-501f45999fe2a4f1ab32e6e9216cae33] The authorities referred to in subsection (3B) are—
+(3C)[^c-501f45999fe2a4f1ab32e6e9216cae33] The authorities referred to in subsection (3B) are—
 
 - (a) the West Yorkshire Combined Authority;
 - (b) the West Midlands Combined Authority.
@@ -50,10 +50,10 @@ summary: ''
 
 [^c15311451]: Textual amendment: S. 11(3A) inserted (E.W.) by [Local Government Act 1972 (c. 70, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 202(2)](https://www.legislation.gov.uk/ukpga/1972/70/section/202/2), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/1972/70/schedule/24/paragraph/2) and (S.) by [Local Government (Scotland) Act 1973 (c. 65, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/1973/65/schedule/18/paragraph/3)
 
-[^key-08069fc06e5ec2860b755a333e56e664]: Textual amendment: S. 11(3B) inserted (1.4.2014) by [The West Yorkshire Combined Authority Order 2014 (S.I. 2014/864)](https://www.legislation.gov.uk/uksi/2014/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/864/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/864/schedule/2/paragraph/5)
+[^c-08069fc06e5ec2860b755a333e56e664]: Textual amendment: S. 11(3B) inserted (1.4.2014) by [The West Yorkshire Combined Authority Order 2014 (S.I. 2014/864)](https://www.legislation.gov.uk/uksi/2014/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/864/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/864/schedule/2/paragraph/5)
 
-[^key-b71ba16de6aae9be09dc59557b2f6715]: Textual amendment: Words in [s. 11(3B)](https://www.legislation.gov.uk/ukpga/1968/73/section/11/3B) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/5/2)
+[^c-b71ba16de6aae9be09dc59557b2f6715]: Textual amendment: Words in [s. 11(3B)](https://www.legislation.gov.uk/ukpga/1968/73/section/11/3B) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/5/2)
 
-[^key-501f45999fe2a4f1ab32e6e9216cae33]: Textual amendment: [S. 11(3C)](https://www.legislation.gov.uk/ukpga/1968/73/section/11/3C) inserted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/5/3)
+[^c-501f45999fe2a4f1ab32e6e9216cae33]: Textual amendment: [S. 11(3C)](https://www.legislation.gov.uk/ukpga/1968/73/section/11/3C) inserted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/5/3)
 
 [^c15311461]: Textual amendment: S. 11(4)(5) repealed (S.) by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29) and (E.W.) by [Local Government Act 1974 (c. 7)](https://www.legislation.gov.uk/ukpga/1974/7), [Sch. 8](https://www.legislation.gov.uk/ukpga/1974/7/schedule/8)

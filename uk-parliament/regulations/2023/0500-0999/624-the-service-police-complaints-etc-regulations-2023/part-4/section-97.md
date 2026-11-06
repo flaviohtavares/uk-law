@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Powers in relation to investigations[^key-5e660d7336993f3f266d46a68d5a41d7]
+## 97. Powers in relation to investigations[^c-5e660d7336993f3f266d46a68d5a41d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e660d7336993f3f266d46a68d5a41d7]: Commencement: Reg. 97 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-5e660d7336993f3f266d46a68d5a41d7]: Commencement: Reg. 97 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

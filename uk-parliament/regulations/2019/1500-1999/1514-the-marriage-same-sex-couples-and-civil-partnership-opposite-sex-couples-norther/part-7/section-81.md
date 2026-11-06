@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^key-50e9f3bbf0e989aa755f6ecb3a3b530c]
+## 81. Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^c-50e9f3bbf0e989aa755f6ecb3a3b530c]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2 of the Social Security (Claims and Payments) Regulations (Northe
 
 ## Annotations
 
-[^key-50e9f3bbf0e989aa755f6ecb3a3b530c]: Commencement: Reg. 81 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-50e9f3bbf0e989aa755f6ecb3a3b530c]: Commencement: Reg. 81 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00141]: Footnote: [S.R. (N.I.) 1987/465](https://www.legislation.gov.uk/nisr/1987/465). In regulation 2, the definition of “couple” was inserted by paragraph 15 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-db98a3d3908342d67134f1309290344e] This Chapter provides relief for a loss made by a company in a trade (see sections 37 to 47)
+(1)[^c-db98a3d3908342d67134f1309290344e] This Chapter provides relief for a loss made by a company in a trade (see sections 37 to 47)
 
 (2) This Chapter also provides for restrictions on relief for the following cases—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db98a3d3908342d67134f1309290344e]: Textual amendment: S. 36(1) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/8/1)
+[^c-db98a3d3908342d67134f1309290344e]: Textual amendment: S. 36(1) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 8(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/8/1)

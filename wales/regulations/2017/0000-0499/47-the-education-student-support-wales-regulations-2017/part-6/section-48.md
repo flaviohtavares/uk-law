@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Students falling into more than one category[^key-4437f2711f765837aec0287f492bd49b]
+## 48. Students falling into more than one category[^c-4437f2711f765837aec0287f492bd49b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Where an eligible student falls into more than one of the categories in regulati
 
 ## Annotations
 
-[^key-4437f2711f765837aec0287f492bd49b]: Commencement: Reg. 48 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-4437f2711f765837aec0287f492bd49b]: Commencement: Reg. 48 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

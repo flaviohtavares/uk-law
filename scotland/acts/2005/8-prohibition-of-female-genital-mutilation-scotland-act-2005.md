@@ -80,11 +80,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - (a) a person to commit an offence under section 1;
 - (b) another person to perform an action mentioned in section 1(2) in relation to the whole or any part of that other person's own labia majora, labia minora, prepuce of the clitoris, clitoris or vagina; or
-- (c) a person who is not a United Kingdom national or [^key-891d326185e58cb250f363fe495df7fa]... United Kingdom resident to do a relevant act of genital mutilation outside the United Kingdom,
+- (c) a person who is not a United Kingdom national or [^c-891d326185e58cb250f363fe495df7fa]... United Kingdom resident to do a relevant act of genital mutilation outside the United Kingdom,
 
 commits an offence.
 
-(2) An act is a relevant act of genital mutilation if it would, if done by a United Kingdom national or [^key-965e6c73acab0cc168311584dd01a7b1]... United Kingdom resident, constitute an offence under section 1.
+(2) An act is a relevant act of genital mutilation if it would, if done by a United Kingdom national or [^c-965e6c73acab0cc168311584dd01a7b1]... United Kingdom resident, constitute an offence under section 1.
 
 (3) No offence under subsection (1)(c) is committed if the relevant act of genital mutilation—
 
@@ -93,7 +93,7 @@ commits an offence.
 
 ## 4. Extension of sections 1 and 3 to extra-territorial acts
 
-(1) Sections 1 and 3 extend to any act done outside the United Kingdom by a United Kingdom national or [^key-6add012f160e86e5170ad41905cf853f]... United Kingdom resident.
+(1) Sections 1 and 3 extend to any act done outside the United Kingdom by a United Kingdom national or [^c-6add012f160e86e5170ad41905cf853f]... United Kingdom resident.
 
 (2) No offence under section 1 is committed by a person who—
 
@@ -112,7 +112,7 @@ A person guilty of an offence under this Act is liable—
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine (or both);
 - (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both).
 
-## 5A. Female genital mutilation protection orders[^key-dd10fed4969ef4fda0b6177baed6b02b]
+## 5A. Female genital mutilation protection orders[^c-dd10fed4969ef4fda0b6177baed6b02b]
 
 (1) In this Act, a “female genital mutilation protection order” is an order made for one or more of the purposes mentioned in subsection (2).
 
@@ -641,7 +641,7 @@ In this Act—
   - (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen;
   - (b) a person who under the British Nationality Act 1981 (c. 61) is a British subject; or
   - (c) a British protected person within the meaning of that Act;
-- “United Kingdom resident” is an individual who is habitually resident in the United Kingdom.[^key-ea4817e44c9f1e80c441623910287d05]
+- “United Kingdom resident” is an individual who is habitually resident in the United Kingdom.[^c-ea4817e44c9f1e80c441623910287d05]
 
 ## 7. Amendment and repeal
 
@@ -663,12 +663,12 @@ In this Act—
 
 ## Annotations
 
-[^key-891d326185e58cb250f363fe495df7fa]: Textual amendment: Word in [s. 3(1)(c)](https://www.legislation.gov.uk/asp/2005/8/section/3/1/c) omitted (3.5.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/a), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
+[^c-891d326185e58cb250f363fe495df7fa]: Textual amendment: Word in [s. 3(1)(c)](https://www.legislation.gov.uk/asp/2005/8/section/3/1/c) omitted (3.5.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/a), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
 
-[^key-965e6c73acab0cc168311584dd01a7b1]: Textual amendment: Word in [s. 3(2)](https://www.legislation.gov.uk/asp/2005/8/section/3/2) omitted (3.5.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/a), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
+[^c-965e6c73acab0cc168311584dd01a7b1]: Textual amendment: Word in [s. 3(2)](https://www.legislation.gov.uk/asp/2005/8/section/3/2) omitted (3.5.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/a), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
 
-[^key-6add012f160e86e5170ad41905cf853f]: Textual amendment: Word in [s. 4(1)](https://www.legislation.gov.uk/asp/2005/8/section/4/1) omitted (3.5.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/b), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
+[^c-6add012f160e86e5170ad41905cf853f]: Textual amendment: Word in [s. 4(1)](https://www.legislation.gov.uk/asp/2005/8/section/4/1) omitted (3.5.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/b), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
 
-[^key-dd10fed4969ef4fda0b6177baed6b02b]: Textual amendment: [Ss. 5A-5R](https://www.legislation.gov.uk/asp/2005/8/section/5A) inserted (25.4.2020 but only for the insertion of s. 5R(4)(b)(ii) for the purposes of making regulations and otherwise prosp.) by [Female Genital Mutilation (Protection and Guidance) (Scotland) Act 2020 (asp 9)](https://www.legislation.gov.uk/asp/2020/9), [ss. 1](https://www.legislation.gov.uk/asp/2020/9/section/1), [11(1)(a)](https://www.legislation.gov.uk/asp/2020/9/section/11/1/a)
+[^c-dd10fed4969ef4fda0b6177baed6b02b]: Textual amendment: [Ss. 5A-5R](https://www.legislation.gov.uk/asp/2005/8/section/5A) inserted (25.4.2020 but only for the insertion of s. 5R(4)(b)(ii) for the purposes of making regulations and otherwise prosp.) by [Female Genital Mutilation (Protection and Guidance) (Scotland) Act 2020 (asp 9)](https://www.legislation.gov.uk/asp/2020/9), [ss. 1](https://www.legislation.gov.uk/asp/2020/9/section/1), [11(1)(a)](https://www.legislation.gov.uk/asp/2020/9/section/11/1/a)
 
-[^key-ea4817e44c9f1e80c441623910287d05]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/asp/2005/8/section/6) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/c), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
+[^c-ea4817e44c9f1e80c441623910287d05]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/asp/2005/8/section/6) substituted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 70(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/70/2/c), [88(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/4) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))

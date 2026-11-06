@@ -25,7 +25,7 @@ summary: ''
 - (a) the obligation to house or isolate poultry and other captive birds;
 - (b) the prohibition on the movement of poultry and other captive birds onto or off the premises;
 - (c) the prohibition on the movement off the premises of anything liable to transmit avian influenza.
-- (d)[^key-20220d3584c8dc696e5c5df40a3e0d70] the restrictions on the movement of eggs.
+- (d)[^c-20220d3584c8dc696e5c5df40a3e0d70] the restrictions on the movement of eggs.
 
 (2) The Scottish Ministers must not grant such a derogation unless they have considered–
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20220d3584c8dc696e5c5df40a3e0d70]: Textual amendment: [Art. 11(1)(d)](https://www.legislation.gov.uk/ssi/2006/336/article/11/1/d) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/361/article/2/5)
+[^c-20220d3584c8dc696e5c5df40a3e0d70]: Textual amendment: [Art. 11(1)(d)](https://www.legislation.gov.uk/ssi/2006/336/article/11/1/d) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/361/article/2/5)

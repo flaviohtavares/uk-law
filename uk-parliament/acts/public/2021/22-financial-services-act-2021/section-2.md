@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Prudential regulation of certain investment firms by FCA rules[^key-9f3e48b547a6387451fafb118bae03ae]
+## 2. Prudential regulation of certain investment firms by FCA rules[^c-9f3e48b547a6387451fafb118bae03ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Schedule 2—
 
 ## Annotations
 
-[^key-9f3e48b547a6387451fafb118bae03ae]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/22/section/2) in force at 1.7.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/a)
+[^c-9f3e48b547a6387451fafb118bae03ae]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/22/section/2) in force at 1.7.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/a)

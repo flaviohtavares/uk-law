@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX IV — List of the coefficients linked to aggravating and mitigating factors for the application of Article 25j(3)[^key-727e565f1549e27fa1d2ffc8ce7fbb9d]
+## ANNEX IV — List of the coefficients linked to aggravating and mitigating factors for the application of Article 25j(3)[^c-727e565f1549e27fa1d2ffc8ce7fbb9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-727e565f1549e27fa1d2ffc8ce7fbb9d]: Textual amendment: [Annex 4](https://www.legislation.gov.uk/eur/2012/648/annex/4) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [32](https://www.legislation.gov.uk/uksi/2020/646/regulation/32) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))
+[^c-727e565f1549e27fa1d2ffc8ce7fbb9d]: Textual amendment: [Annex 4](https://www.legislation.gov.uk/eur/2012/648/annex/4) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/3), [32](https://www.legislation.gov.uk/uksi/2020/646/regulation/32) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 12](https://www.legislation.gov.uk/uksi/2020/646/regulation/12))

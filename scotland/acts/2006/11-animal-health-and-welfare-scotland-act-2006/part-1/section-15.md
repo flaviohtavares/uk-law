@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Electronic communication[^key-94f010cac776dc1ca0911891b3c50208]
+## 15. Electronic communication[^c-94f010cac776dc1ca0911891b3c50208]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ After section 83 of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-94f010cac776dc1ca0911891b3c50208]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/11/section/15) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-94f010cac776dc1ca0911891b3c50208]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/11/section/15) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

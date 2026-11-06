@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Permitted cash advances[^key-c6d984e22cdef648d458822a9a048090]
+## 39. Permitted cash advances[^c-c6d984e22cdef648d458822a9a048090]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A term of a green deal plan which provides for money to be advanced by the green
 
 ## Annotations
 
-[^key-c6d984e22cdef648d458822a9a048090]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2012/2079/regulation/39) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-c6d984e22cdef648d458822a9a048090]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2012/2079/regulation/39) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

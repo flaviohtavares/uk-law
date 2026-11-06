@@ -40,8 +40,8 @@ summary: ''
   - (iii) other impairment of, or interference with, the ecological systems of which any living organisms form part
 - (c) offence to the senses of human beings;
 - (d) damage to property; or
-- (e) impairment of, or interference with, amenities or other legitimate uses of the environment (expressions used in this paragraph having the same meaning as in Directive[^key-30a07ec5285b22d4275c19451aea39b1] [2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control).
+- (e) impairment of, or interference with, amenities or other legitimate uses of the environment (expressions used in this paragraph having the same meaning as in Directive[^c-30a07ec5285b22d4275c19451aea39b1] [2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control).
 
 ## Annotations
 
-[^key-30a07ec5285b22d4275c19451aea39b1]: Textual amendment: Words in art. 8(2)(e) substituted (17.1.2019) by [The Air Quality (Amendment, etc.) Regulations (Northern Ireland) 2018 (S.R. 2018/215)](https://www.legislation.gov.uk/nisr/2018/215), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/215/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/215/regulation/2/3)
+[^c-30a07ec5285b22d4275c19451aea39b1]: Textual amendment: Words in art. 8(2)(e) substituted (17.1.2019) by [The Air Quality (Amendment, etc.) Regulations (Northern Ireland) 2018 (S.R. 2018/215)](https://www.legislation.gov.uk/nisr/2018/215), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/215/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/215/regulation/2/3)

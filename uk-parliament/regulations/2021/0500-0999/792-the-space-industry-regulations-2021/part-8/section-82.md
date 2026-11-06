@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Steps required after review, or review and revision, of the risk assessment[^key-ee09e6d76fed8f4a91ac4e217adc02f9]
+## 82. Steps required after review, or review and revision, of the risk assessment[^c-ee09e6d76fed8f4a91ac4e217adc02f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee09e6d76fed8f4a91ac4e217adc02f9]: Commencement: Reg. 82 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ee09e6d76fed8f4a91ac4e217adc02f9]: Commencement: Reg. 82 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

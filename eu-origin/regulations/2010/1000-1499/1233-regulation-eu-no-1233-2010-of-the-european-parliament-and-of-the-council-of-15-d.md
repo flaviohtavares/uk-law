@@ -33,18 +33,18 @@ of 15 December 2010
 
 amending Regulation (EC) No 663/2009 establishing a programme to aid economic recovery by granting Community financial assistance to projects in the field of energy (revoked)
 
-[^key-4692e19ee99966c0ec181d51bfc843df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4692e19ee99966c0ec181d51bfc843df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EC) No 663/2009[^key-4692e19ee99966c0ec181d51bfc843df]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-4692e19ee99966c0ec181d51bfc843df]
+## Article 1. Amendments to Regulation (EC) No 663/2009[^c-4692e19ee99966c0ec181d51bfc843df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4692e19ee99966c0ec181d51bfc843df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-4692e19ee99966c0ec181d51bfc843df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4692e19ee99966c0ec181d51bfc843df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4692e19ee99966c0ec181d51bfc843df]: Textual amendment: Regulation revoked (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/530/schedule/3/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4692e19ee99966c0ec181d51bfc843df]: Textual amendment: Regulation revoked (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2019/530/schedule/3/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -22,9 +22,9 @@ summary: ''
 
 Managing assets belonging to another person, in circumstances involving the exercise of discretion, is a specified kind of activity if—
 
-- (a) the assets consist of or include any investment which is a security, structured deposit[^key-198a2f42d32e6304753b9224d02fd008] or a contractually based investment; or
+- (a) the assets consist of or include any investment which is a security, structured deposit[^c-198a2f42d32e6304753b9224d02fd008] or a contractually based investment; or
 - (b) the arrangements for their management are such that the assets may consist of or include such investments, and either the assets have at any time since 29th April 1988 done so, or the arrangements have at any time (whether before or after that date) been held out as arrangements under which the assets would do so.
 
 ## Annotations
 
-[^key-198a2f42d32e6304753b9224d02fd008]: Textual amendment: Words in art. 37(a) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2017/488/article/4/3)
+[^c-198a2f42d32e6304753b9224d02fd008]: Textual amendment: Words in art. 37(a) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2017/488/article/4/3)

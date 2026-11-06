@@ -28,8 +28,8 @@ summary: ''
 
 (4) When considering whether to require an occupier to comply with any of the measures in Schedule 2, a veterinary inspector must take the following criteria into account—
 
-- (a) the existence of any clinical signs of avian influenza in any poultry or other captive birds[^key-f3eea2586b3800d00cb8255eb07de4b0] on the contact premises;
-- (b) the susceptibility to avian influenza of the species of poultry or other captive birds[^key-b22c720bdd0f47bc68d62e67eaf47d8a] on the contact premises;
+- (a) the existence of any clinical signs of avian influenza in any poultry or other captive birds[^c-f3eea2586b3800d00cb8255eb07de4b0] on the contact premises;
+- (b) the susceptibility to avian influenza of the species of poultry or other captive birds[^c-b22c720bdd0f47bc68d62e67eaf47d8a] on the contact premises;
 - (c) any movements of poultry or other captive birds from infected premises to the contact premises after the earliest date a veterinary inspector considers avian influenza may have been introduced to the infected premises;
 - (d) the density of poultry in the area where the contact premises are located;
 - (e) the time passed since avian influenza was first confirmed and how far avian influenza has spread from infected premises;
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3eea2586b3800d00cb8255eb07de4b0]: Textual amendment: Words in [art. 27(4)(a)](https://www.legislation.gov.uk/uksi/2006/2702/article/27/4/a) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(19)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/19/a/i)
+[^c-f3eea2586b3800d00cb8255eb07de4b0]: Textual amendment: Words in [art. 27(4)(a)](https://www.legislation.gov.uk/uksi/2006/2702/article/27/4/a) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(19)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/19/a/i)
 
-[^key-b22c720bdd0f47bc68d62e67eaf47d8a]: Textual amendment: Words in [art. 27(4)(b)](https://www.legislation.gov.uk/uksi/2006/2702/article/27/4/b) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/19/a/ii)
+[^c-b22c720bdd0f47bc68d62e67eaf47d8a]: Textual amendment: Words in [art. 27(4)(b)](https://www.legislation.gov.uk/uksi/2006/2702/article/27/4/b) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/19/a/ii)

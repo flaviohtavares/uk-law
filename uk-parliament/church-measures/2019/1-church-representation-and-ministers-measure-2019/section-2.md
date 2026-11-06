@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. Admission to holy orders[^key-f61a666cf0aa6a5695a474897f4e4bd9]
+## 2. Admission to holy orders[^c-f61a666cf0aa6a5695a474897f4e4bd9]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The General Synod may make provision by Canon for the bishop of a diocese to adm
 
 ## Annotations
 
-[^key-f61a666cf0aa6a5695a474897f4e4bd9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2019/1/section/2) in force at 1.1.2020 by [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-f61a666cf0aa6a5695a474897f4e4bd9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2019/1/section/2) in force at 1.1.2020 by [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)

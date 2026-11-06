@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11A. Compliance with EU obligations[^key-2ee24d1894c02c4fca17eeb69dd8e33c]
+## 11A. Compliance with EU obligations[^c-2ee24d1894c02c4fca17eeb69dd8e33c]
 
 *Extent: N.I.*
 
@@ -123,4 +123,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ee24d1894c02c4fca17eeb69dd8e33c]: Textual amendment: [Art. 11A](https://www.legislation.gov.uk/nisi/1992/231/article/11A) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [8](https://www.legislation.gov.uk/nisr/2020/307/regulation/8)
+[^c-2ee24d1894c02c4fca17eeb69dd8e33c]: Textual amendment: [Art. 11A](https://www.legislation.gov.uk/nisi/1992/231/article/11A) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [8](https://www.legislation.gov.uk/nisr/2020/307/regulation/8)

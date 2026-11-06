@@ -25,12 +25,12 @@ summary: ''
 - (a) inspect the premises, and any plant, machinery or equipment;
 - (b) search the premises;
 - (c) take samples;
-- (ca)[^key-c592b70a587fc3851079a122224ed644] purchase prescription only veterinary medicines for the purpose of carrying out tests;
+- (ca)[^c-c592b70a587fc3851079a122224ed644] purchase prescription only veterinary medicines for the purpose of carrying out tests;
 - (cb) verify the destruction of a controlled drug listed in Schedule 2, 3 or 4 of the Misuse of Drugs Regulations 2001;
 - (d) seize any computers and associated equipment;
 - (e) seize any veterinary medicinal product or any additive to which Schedule 5 applies, if it is not authorised in the United Kingdom;
-- (f) seize any intermediate feedingstuff[^key-3715779f9c9464c1d1a9e9f5ad07bc58] or feedingstuff that contains a veterinary medicinal product or additive to which Schedule 5 applies that is not authorised in the United Kingdom;
-- (g) seize any veterinary medicinal product, any additive to which Schedule 5 applies, any intermediate feedingstuff[^key-f8d4c164c743ecd90b2a423c2729b141] or feedingstuff if—
+- (f) seize any intermediate feedingstuff[^c-3715779f9c9464c1d1a9e9f5ad07bc58] or feedingstuff that contains a veterinary medicinal product or additive to which Schedule 5 applies that is not authorised in the United Kingdom;
+- (g) seize any veterinary medicinal product, any additive to which Schedule 5 applies, any intermediate feedingstuff[^c-f8d4c164c743ecd90b2a423c2729b141] or feedingstuff if—
   - (i) it has not been lawfully manufactured, incorporated or supplied in accordance with these Regulations;
   - (ii) it has been stored in a way that affects its safety, quality or efficacy; or
   - (iii) it is sold or offered for sale by a person not permitted to supply it under these Regulations;
@@ -38,7 +38,7 @@ summary: ''
 - (i) have access to, and inspect and copy or seize any documents or records (in whatever form they are held) relating to these Regulations; and
 - (j) have access to, inspect and check the operation of any computer and any associated apparatus or material that is or has been in use in connection with the records; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford such assistance as may reasonably be required and, where a record is kept by means of a computer, may require the records to be produced in a form in which they may be taken away.
 
-(2)[^key-b3e73a54302170af36193edb6ee693dc] The inspector may seize and retain an item appearing to the inspector to be an item mentioned in paragraph (1)(d) to (g) if the inspector reasonably believes that an offence under these Regulations is being or has been committed in relation to, or by means of, that item
+(2)[^c-b3e73a54302170af36193edb6ee693dc] The inspector may seize and retain an item appearing to the inspector to be an item mentioned in paragraph (1)(d) to (g) if the inspector reasonably believes that an offence under these Regulations is being or has been committed in relation to, or by means of, that item
 
 (3) An officer of any local authority who has entered premises exercising any statutory power of entry for the purposes of enforcing any legislation relating to food hygiene, feed hygiene or animal health, may inspect any records made under these Regulations (in whatever form they are held) relating to food-producing animals, and may remove them to enable them to be copied.
 
@@ -74,12 +74,12 @@ summary: ''
 
 [^M_E_f73e0d3c-a32c-4d50-a77c-e9175982d157]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c592b70a587fc3851079a122224ed644]: Textual amendment: [Reg. 35(1)(ca)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/ca)[(cb)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/cb) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/a/i)
+[^c-c592b70a587fc3851079a122224ed644]: Textual amendment: [Reg. 35(1)(ca)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/ca)[(cb)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/cb) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(a)(i)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/a/i)
 
-[^key-3715779f9c9464c1d1a9e9f5ad07bc58]: Textual amendment: Words in [reg. 35(1)(f)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/f) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/a/ii)
+[^c-3715779f9c9464c1d1a9e9f5ad07bc58]: Textual amendment: Words in [reg. 35(1)(f)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/f) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/a/ii)
 
-[^key-f8d4c164c743ecd90b2a423c2729b141]: Textual amendment: Words in [reg. 35(1)(g)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/g) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/a/iii)
+[^c-f8d4c164c743ecd90b2a423c2729b141]: Textual amendment: Words in [reg. 35(1)(g)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/1/g) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(a)(iii)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/a/iii)
 
-[^key-b3e73a54302170af36193edb6ee693dc]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/2) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/b)
+[^c-b3e73a54302170af36193edb6ee693dc]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/35/2) substituted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2024/567/regulation/21/b)
 
 [^M_E_cc0189f4-69a2-40c5-a169-f15971f8fa96]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

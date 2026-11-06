@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Local planning authority to notify neighbourhood forum of applications[^key-33defe5a5cb6558a923e3e7f3c88e97a]
+## 142. Local planning authority to notify neighbourhood forum of applications[^c-33defe5a5cb6558a923e3e7f3c88e97a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ In Schedule 1 to the Town and Country Planning Act 1990 (local planning authorit
 
 ## Annotations
 
-[^key-33defe5a5cb6558a923e3e7f3c88e97a]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2016/22/section/142) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/b)
+[^c-33defe5a5cb6558a923e3e7f3c88e97a]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2016/22/section/142) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/b)

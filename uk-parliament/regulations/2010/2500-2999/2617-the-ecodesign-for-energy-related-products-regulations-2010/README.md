@@ -44,7 +44,7 @@ Coming into force
 
 20th November 2010
 
-The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environmental aspects of product design and makes these Regulations under the powers conferred by that section.[^key-2a43f7fdfe426f3f1ab54d9c8da3d3ac]
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environmental aspects of product design and makes these Regulations under the powers conferred by that section.[^c-2a43f7fdfe426f3f1ab54d9c8da3d3ac]
 
 ## Contents
 
@@ -56,7 +56,7 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 2A — Designated standards](part-1/section-2a.md)
 
-### PART 2 — Restrictions on energy-related products, conformity assessments, declarations of conformity and the CE (Extent: E+W+S) (affected by repeal, see note) UK (Extent: E+W+S) marking[^key-e0a08515035ac80bf887b6d271a626b0]
+### PART 2 — Restrictions on energy-related products, conformity assessments, declarations of conformity and the CE (Extent: E+W+S) (affected by repeal, see note) UK (Extent: E+W+S) marking[^c-e0a08515035ac80bf887b6d271a626b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,7 +100,7 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 - [Section 18 — Remediation orders](part-6/section-18.md)
 - [Section 19 — Recovery of expenses of enforcement](part-6/section-19.md)
 
-### PART 7 — Revocations (affected by repeal, see note) Revocations, review, transitional provision and obligations which are met by complying with obligations in the Directive[^key-545a6c35eaf7e6681462715897bec17a]
+### PART 7 — Revocations (affected by repeal, see note) Revocations, review, transitional provision and obligations which are met by complying with obligations in the Directive[^c-545a6c35eaf7e6681462715897bec17a]
 
 *Extent: E+W+S*
 
@@ -111,7 +111,7 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 - [Section 20D — Qualifying Northern Ireland Goods](part-7/section-20d.md)
 - [Section 21](part-7/section-21.md)
 
-### PART 8 — Implementing measures[^key-936ae8eda00877277291a5e54cac6d07]
+### PART 8 — Implementing measures[^c-936ae8eda00877277291a5e54cac6d07]
 
 *Extent: E+W+S*
 
@@ -171,10 +171,10 @@ Schedules 4 and 5 deal with warrants in relation to powers of entry exercised un
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-2a43f7fdfe426f3f1ab54d9c8da3d3ac]: Modification: Regulations modified with respect to hot water boilers and related appliances only (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/3)
+[^c-2a43f7fdfe426f3f1ab54d9c8da3d3ac]: Modification: Regulations modified with respect to hot water boilers and related appliances only (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/3)
 
-[^key-e0a08515035ac80bf887b6d271a626b0]: Textual amendment: Word in Pt. 2 heading substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0a08515035ac80bf887b6d271a626b0]: Textual amendment: Word in Pt. 2 heading substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-545a6c35eaf7e6681462715897bec17a]: Textual amendment: Pt. 7 heading substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-545a6c35eaf7e6681462715897bec17a]: Textual amendment: Pt. 7 heading substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-936ae8eda00877277291a5e54cac6d07]: Textual amendment: Pt. 8 (regs. 22-24) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/12) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(1)(2)(a)(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-936ae8eda00877277291a5e54cac6d07]: Textual amendment: Pt. 8 (regs. 22-24) inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/12) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(1)(2)(a)(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

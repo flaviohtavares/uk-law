@@ -48,11 +48,11 @@ summary: ''
 - (f) the officer has reasonable grounds for suspecting that the person may attempt to breach rule 102 or 103; or
 - (g) it is necessary to refuse the person access to the prison in the interests of the security and order of the prison or the safety of any person within the prison.
 
-(5) Where an officer refuses access to the prison to any person under paragraph (4)[^key-647631b00ef91bda784241b43d94e478], the officer must keep a written record of the particulars of that decision including the reasons for taking the decision.
+(5) Where an officer refuses access to the prison to any person under paragraph (4)[^c-647631b00ef91bda784241b43d94e478], the officer must keep a written record of the particulars of that decision including the reasons for taking the decision.
 
 (6) A person to whom rule 73 applies who seeks to enter the prison for the purposes of a visit as mentioned in that rule must, immediately on arrival, inform an officer of that fact.
 
-(7) The Governor must ensure that visitors are made aware of the effect of[^key-110acdfa0a1ab310ad3de0056c820a86]—
+(7) The Governor must ensure that visitors are made aware of the effect of[^c-110acdfa0a1ab310ad3de0056c820a86]—
 
 - (a) this rule and rules 106 and 107;
 - (b) section 41 of the Act; and
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-647631b00ef91bda784241b43d94e478]: Textual amendment: Words in rule 105(5) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(11)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/11)
+[^c-647631b00ef91bda784241b43d94e478]: Textual amendment: Words in rule 105(5) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(11)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/11)
 
-[^key-110acdfa0a1ab310ad3de0056c820a86]: Textual amendment: Words in rule 105(7) substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(13)](https://www.legislation.gov.uk/ssi/2012/26/article/2/13)
+[^c-110acdfa0a1ab310ad3de0056c820a86]: Textual amendment: Words in rule 105(7) substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(13)](https://www.legislation.gov.uk/ssi/2012/26/article/2/13)

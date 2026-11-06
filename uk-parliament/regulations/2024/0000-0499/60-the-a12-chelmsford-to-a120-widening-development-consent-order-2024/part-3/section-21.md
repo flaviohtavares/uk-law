@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Access to works[^key-944cd88956ab8e8939ec80c2b1d1c95b]
+## 21. Access to works[^c-944cd88956ab8e8939ec80c2b1d1c95b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 ## Annotations
 
-[^key-944cd88956ab8e8939ec80c2b1d1c95b]: Commencement: Art. 21 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-944cd88956ab8e8939ec80c2b1d1c95b]: Commencement: Art. 21 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

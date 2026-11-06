@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Special procedure for access to material relating to human remains[^key-91ad0e481375b3fe6572af7152bfe643]
+## 56. Special procedure for access to material relating to human remains[^c-91ad0e481375b3fe6572af7152bfe643]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9d293acf603c72e83b4959a7adfdef93] Schedule 6 makes provision for a constable to obtain access to excluded material or special procedure material that consists of, or relates to the location of, relevant human remains.
+(1)[^c-9d293acf603c72e83b4959a7adfdef93] Schedule 6 makes provision for a constable to obtain access to excluded material or special procedure material that consists of, or relates to the location of, relevant human remains.
 
-(2)[^key-65e0440695b8ee8b01f1820ec4e6917a] Section 4 of the Summary Jurisdiction (Process) Act 1881 (which includes provision for the execution of process of English and Welsh courts in Scotland) and section 29 of the Petty Sessions (Ireland) Act 1851 (which makes equivalent provision for execution in Northern Ireland) apply to any process issued by a judge under Schedule 6 to this Act as they apply to process issued by a magistrates’ court under the Magistrates’ Courts Act 1980.
+(2)[^c-65e0440695b8ee8b01f1820ec4e6917a] Section 4 of the Summary Jurisdiction (Process) Act 1881 (which includes provision for the execution of process of English and Welsh courts in Scotland) and section 29 of the Petty Sessions (Ireland) Act 1851 (which makes equivalent provision for execution in Northern Ireland) apply to any process issued by a judge under Schedule 6 to this Act as they apply to process issued by a magistrates’ court under the Magistrates’ Courts Act 1980.
 
 ## Annotations
 
-[^key-91ad0e481375b3fe6572af7152bfe643]: Commencement: S. 56 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-91ad0e481375b3fe6572af7152bfe643]: Commencement: S. 56 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9d293acf603c72e83b4959a7adfdef93]: Commencement: S. 56(1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/g)
+[^c-9d293acf603c72e83b4959a7adfdef93]: Commencement: S. 56(1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(g)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/g)
 
-[^key-65e0440695b8ee8b01f1820ec4e6917a]: Commencement: S. 56(2) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/h)
+[^c-65e0440695b8ee8b01f1820ec4e6917a]: Commencement: S. 56(2) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(h)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/h)

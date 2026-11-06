@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Environmentally Sensitive Areas (England) Designation Orders (Revocation of Specified Provisions) Regulations 1998 (revoked)[^key-908006eb019dccd37f15ac135515e036]
+The Environmentally Sensitive Areas (England) Designation Orders (Revocation of Specified Provisions) Regulations 1998 (revoked)[^c-908006eb019dccd37f15ac135515e036]
 
 Made
 
@@ -44,29 +44,29 @@ Coming into force
 
 21st June 1998
 
-[^key-908006eb019dccd37f15ac135515e036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-908006eb019dccd37f15ac135515e036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-908006eb019dccd37f15ac135515e036]
+## 1. Title and commencement[^c-908006eb019dccd37f15ac135515e036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-908006eb019dccd37f15ac135515e036]
+## 2. Interpretation[^c-908006eb019dccd37f15ac135515e036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and saving[^key-908006eb019dccd37f15ac135515e036]
+## 3. Revocation and saving[^c-908006eb019dccd37f15ac135515e036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-908006eb019dccd37f15ac135515e036] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-908006eb019dccd37f15ac135515e036] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-908006eb019dccd37f15ac135515e036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-908006eb019dccd37f15ac135515e036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — THE PRINCIPAL ORDERS[^key-908006eb019dccd37f15ac135515e036]
+## SCHEDULE — THE PRINCIPAL ORDERS[^c-908006eb019dccd37f15ac135515e036]
 
 Regulation 2(a)
 
@@ -74,8 +74,8 @@ Regulation 2(a)
 
 **May not be in force at this date. Check the source.**
 
-[^key-908006eb019dccd37f15ac135515e036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-908006eb019dccd37f15ac135515e036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-908006eb019dccd37f15ac135515e036]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1295) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-908006eb019dccd37f15ac135515e036]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1295) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

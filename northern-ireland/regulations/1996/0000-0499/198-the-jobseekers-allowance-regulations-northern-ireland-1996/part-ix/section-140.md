@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 140. Meaning of “person in hardship”[^key-b1b472f84d75ad5aa04f6c1948fcb8c2]
+## 140. Meaning of “person in hardship”[^c-b1b472f84d75ad5aa04f6c1948fcb8c2]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1b472f84d75ad5aa04f6c1948fcb8c2]: Commencement: Reg. 140 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-b1b472f84d75ad5aa04f6c1948fcb8c2]: Commencement: Reg. 140 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

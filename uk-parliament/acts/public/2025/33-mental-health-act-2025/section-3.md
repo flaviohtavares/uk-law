@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Application of the [Mental Health Act 1983](https://www.legislation.gov.uk/ukpga/1983/20/contents): autism and learning disability[^key-135affcb88c475954abebe241ee15276]
+## 3. Application of the [Mental Health Act 1983](https://www.legislation.gov.uk/ukpga/1983/20/contents): autism and learning disability[^c-135affcb88c475954abebe241ee15276]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-135affcb88c475954abebe241ee15276]: Commencement: S. 3 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-135affcb88c475954abebe241ee15276]: Commencement: S. 3 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

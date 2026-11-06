@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Generating stations and public rights of navigation[^key-5c590d60b93e0bcab4552777525a2a9d]
+## 40. Generating stations and public rights of navigation[^c-5c590d60b93e0bcab4552777525a2a9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c590d60b93e0bcab4552777525a2a9d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/4/section/40) in force at 1.4.2019 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)
+[^c-5c590d60b93e0bcab4552777525a2a9d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/4/section/40) in force at 1.4.2019 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)

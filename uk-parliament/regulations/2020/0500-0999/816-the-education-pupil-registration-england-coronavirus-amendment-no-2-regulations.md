@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (Pupil Registration) (England) (Coronavirus) (Amendment) (No. 2) Regulations 2020 (revoked)[^key-502cfd8a0874149a5569f8bc426c09b3]
+The Education (Pupil Registration) (England) (Coronavirus) (Amendment) (No. 2) Regulations 2020 (revoked)[^c-502cfd8a0874149a5569f8bc426c09b3]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 24th August 2020
 
-[^key-502cfd8a0874149a5569f8bc426c09b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-502cfd8a0874149a5569f8bc426c09b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-502cfd8a0874149a5569f8bc426c09b3]
+## 1. Citation and commencement[^c-502cfd8a0874149a5569f8bc426c09b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Education (Pupil Registration) (England) Regulations 2006[^key-502cfd8a0874149a5569f8bc426c09b3]
+## 2. Amendment to the Education (Pupil Registration) (England) Regulations 2006[^c-502cfd8a0874149a5569f8bc426c09b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Review[^key-502cfd8a0874149a5569f8bc426c09b3]
+## 3. Review[^c-502cfd8a0874149a5569f8bc426c09b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-502cfd8a0874149a5569f8bc426c09b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-502cfd8a0874149a5569f8bc426c09b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-502cfd8a0874149a5569f8bc426c09b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-502cfd8a0874149a5569f8bc426c09b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-502cfd8a0874149a5569f8bc426c09b3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/816) revoked (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/2)
+[^c-502cfd8a0874149a5569f8bc426c09b3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/816) revoked (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/2)

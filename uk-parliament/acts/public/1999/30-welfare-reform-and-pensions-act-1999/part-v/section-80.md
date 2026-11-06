@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Supply of information for child support purposes.[^key-01c759d72b60eebde52572745aca6d37]
+## 80. Supply of information for child support purposes.[^c-01c759d72b60eebde52572745aca6d37]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01c759d72b60eebde52572745aca6d37]: Textual amendment: S. 80 repealed (1.11.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/2675](https://www.legislation.gov.uk/uksi/2008/2675), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2008/2675/article/3/g/ii)
+[^c-01c759d72b60eebde52572745aca6d37]: Textual amendment: S. 80 repealed (1.11.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/2675](https://www.legislation.gov.uk/uksi/2008/2675), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2008/2675/article/3/g/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Service by post[^key-4bf9d4a291ef530a73b72b26588838f7]
+## 103. Service by post[^c-4bf9d4a291ef530a73b72b26588838f7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bf9d4a291ef530a73b72b26588838f7]: Commencement: [Rule 103](https://www.legislation.gov.uk/uksi/2007/3141/rule/103) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4bf9d4a291ef530a73b72b26588838f7]: Commencement: [Rule 103](https://www.legislation.gov.uk/uksi/2007/3141/rule/103) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38E. Section 38 contribution notice: meaning of “employer resources test”[^key-70a79d1c55306036437d739daff516a4]
+## 38E. Section 38 contribution notice: meaning of “employer resources test”[^c-70a79d1c55306036437d739daff516a4]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a79d1c55306036437d739daff516a4]: Textual amendment: [Ss. 38E](https://www.legislation.gov.uk/ukpga/2004/35/section/38E), [38F](https://www.legislation.gov.uk/ukpga/2004/35/section/38F) inserted (31.5.2021 for specified purposes, 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 103(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/4), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/a); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-70a79d1c55306036437d739daff516a4]: Textual amendment: [Ss. 38E](https://www.legislation.gov.uk/ukpga/2004/35/section/38E), [38F](https://www.legislation.gov.uk/ukpga/2004/35/section/38F) inserted (31.5.2021 for specified purposes, 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 103(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/4), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/a); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))

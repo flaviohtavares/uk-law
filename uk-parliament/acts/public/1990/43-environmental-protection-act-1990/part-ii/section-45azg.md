@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45AZG. Sections 45AZA and 45AZB: appeals against compliance notices[^key-ced4cac4bbbfe51e18de48b7cf58746f]
+## 45AZG. Sections 45AZA and 45AZB: appeals against compliance notices[^c-ced4cac4bbbfe51e18de48b7cf58746f]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ced4cac4bbbfe51e18de48b7cf58746f]: Textual amendment: Ss. 45A-45AZG substituted for s. 45A (17.5.2024) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/57/4), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/639/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/639/regulation/6), [7](https://www.legislation.gov.uk/uksi/2024/639/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2024/639/schedule))
+[^c-ced4cac4bbbfe51e18de48b7cf58746f]: Textual amendment: Ss. 45A-45AZG substituted for s. 45A (17.5.2024) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/57/4), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/639/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/639/regulation/6), [7](https://www.legislation.gov.uk/uksi/2024/639/regulation/7), [Sch.](https://www.legislation.gov.uk/uksi/2024/639/schedule))

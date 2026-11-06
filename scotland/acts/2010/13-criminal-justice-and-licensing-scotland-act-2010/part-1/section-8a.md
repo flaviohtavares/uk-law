@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8A. Sheriff Appeal Court's power to require preparation or review of sentencing guidelines[^key-2a95f9d6784802d7d75606dd047cadfd]
+## 8A. Sheriff Appeal Court's power to require preparation or review of sentencing guidelines[^c-2a95f9d6784802d7d75606dd047cadfd]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a95f9d6784802d7d75606dd047cadfd]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/asp/2010/13/section/8A) inserted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/3); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
+[^c-2a95f9d6784802d7d75606dd047cadfd]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/asp/2010/13/section/8A) inserted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/3); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)

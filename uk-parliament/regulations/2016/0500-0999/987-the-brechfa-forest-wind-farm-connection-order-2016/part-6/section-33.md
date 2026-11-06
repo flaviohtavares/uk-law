@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Certification of plans[^key-03ce664b1d16edee0fe2be5cc797cac0]
+## 33. Certification of plans[^c-03ce664b1d16edee0fe2be5cc797cac0]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03ce664b1d16edee0fe2be5cc797cac0]: Commencement: Art. 33 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-03ce664b1d16edee0fe2be5cc797cac0]: Commencement: Art. 33 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

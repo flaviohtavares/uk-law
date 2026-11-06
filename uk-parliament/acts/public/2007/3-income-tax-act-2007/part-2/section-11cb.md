@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11CB. Income charged at the Welsh property basic, higher and additional rates: individuals[^key-b0a587b44bfeffa483689fe482406ee4][^M_F_0bdb417b-a26d-4b81-b990-555b06da4236]
+## 11CB. Income charged at the Welsh property basic, higher and additional rates: individuals[^c-b0a587b44bfeffa483689fe482406ee4][^M_F_0bdb417b-a26d-4b81-b990-555b06da4236]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0a587b44bfeffa483689fe482406ee4]: Textual amendment: Ss. 11CB, 11CC inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/10)
+[^c-b0a587b44bfeffa483689fe482406ee4]: Textual amendment: Ss. 11CB, 11CC inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/10)
 
 [^M_F_0bdb417b-a26d-4b81-b990-555b06da4236]: Textual amendment: Ss. 11C, 11D inserted (30.11.2016 with effect in relation to tax year 2017-18 and subsequent tax years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 6(8)(b)(24)](https://www.legislation.gov.uk/ukpga/2016/24/section/6/8/b); [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [regs. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2), [3](https://www.legislation.gov.uk/uksi/2016/1161/regulation/3)

@@ -48,19 +48,19 @@ summary: ''
 > - (a) make different provision for different cases or different purposes, and
 > - (b) make incidental, consequential, supplementary or transitional provision or savings.
 
-(2)[^key-a352b0a6a4087b670550b3410c03036b] Section 98 of TMA 1970 (penalties: special returns etc) is amended as follows.
+(2)[^c-a352b0a6a4087b670550b3410c03036b] Section 98 of TMA 1970 (penalties: special returns etc) is amended as follows.
 
-(3)[^key-a352b0a6a4087b670550b3410c03036b] After subsection (4E) insert—
+(3)[^c-a352b0a6a4087b670550b3410c03036b] After subsection (4E) insert—
 
 > (4F) If a person fails to furnish any information or produce any document or record in accordance with regulations under section 716B of ITEPA 2003, subsection (1) has effect as if—
 >
 > - (a) for “£300” there were substituted “ £3,000 ”, and
 > - (b) for “£60” there were substituted “ £600 ”.
 
-(4)[^key-a352b0a6a4087b670550b3410c03036b] In the second column of the Table, at the appropriate place insert “ Regulations under section 716B of ITEPA 2003. ”.
+(4)[^c-a352b0a6a4087b670550b3410c03036b] In the second column of the Table, at the appropriate place insert “ Regulations under section 716B of ITEPA 2003. ”.
 
 (5) The amendments made subsections (2) to (4) have effect from such day as the Treasury may appoint by order made by statutory instrument.
 
 ## Annotations
 
-[^key-a352b0a6a4087b670550b3410c03036b]: Commencement: [S. 18(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/18/2) in force at 6.4.2015 for the purposes of the amendments made by those sub-sections by [S.I. 2015/931](https://www.legislation.gov.uk/uksi/2015/931), [art. 2](https://www.legislation.gov.uk/uksi/2015/931/article/2)
+[^c-a352b0a6a4087b670550b3410c03036b]: Commencement: [S. 18(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/18/2) in force at 6.4.2015 for the purposes of the amendments made by those sub-sections by [S.I. 2015/931](https://www.legislation.gov.uk/uksi/2015/931), [art. 2](https://www.legislation.gov.uk/uksi/2015/931/article/2)

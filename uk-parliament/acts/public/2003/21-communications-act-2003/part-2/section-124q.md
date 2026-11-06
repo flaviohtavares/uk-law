@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124Q. Functions of manager etc[^key-27c89e809a2e89545b3afacdb1f7d2f9]
+## 124Q. Functions of manager etc[^c-27c89e809a2e89545b3afacdb1f7d2f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27c89e809a2e89545b3afacdb1f7d2f9]: Textual amendment: Ss. 124P, 124Q inserted (6.4.2024) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/20/1), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(b)](https://www.legislation.gov.uk/uksi/2023/792/article/3/b)
+[^c-27c89e809a2e89545b3afacdb1f7d2f9]: Textual amendment: Ss. 124P, 124Q inserted (6.4.2024) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/20/1), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(b)](https://www.legislation.gov.uk/uksi/2023/792/article/3/b)
 
 [^M_F_80aae0ea-bbb0-4bff-eccd-2dafa6722756]: Textual amendment: Words in s. 124Q(7)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 52](https://www.legislation.gov.uk/ukpga/2013/22/section/52), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))

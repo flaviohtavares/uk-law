@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Disqualification of persons designated under sanctions legislation: GB[^key-e939fe94ef006c0f1c3d82d08d100fed][^key-b081c7d0318f3c0c1ff891dbf629ce2f]
+## 36. Disqualification of persons designated under sanctions legislation: GB[^c-e939fe94ef006c0f1c3d82d08d100fed][^c-b081c7d0318f3c0c1ff891dbf629ce2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,6 +100,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e939fe94ef006c0f1c3d82d08d100fed]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e939fe94ef006c0f1c3d82d08d100fed]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b081c7d0318f3c0c1ff891dbf629ce2f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/56/section/36) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z)
+[^c-b081c7d0318f3c0c1ff891dbf629ce2f]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/56/section/36) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z)

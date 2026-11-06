@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Variation or discharge of injunctions[^key-2489d58c4d01192c6309f7a17d8063ef]
+## 8. Variation or discharge of injunctions[^c-2489d58c4d01192c6309f7a17d8063ef]
 
 *Extent: E+W*
 
-(1) The court may vary or discharge an injunction under this Part[^key-87a91366e7a73c3770f2ea74a0c38e3a] on the application of—
+(1) The court may vary or discharge an injunction under this Part[^c-87a91366e7a73c3770f2ea74a0c38e3a] on the application of—
 
 - (a) the person who applied for the injunction, or
 - (b) the respondent.
 
-(2)[^key-f4be7fa23feacf923b46b0d9f9c65257] In subsection (1) “**the court**” means the court that granted the injunction.
+(2)[^c-f4be7fa23feacf923b46b0d9f9c65257] In subsection (1) “**the court**” means the court that granted the injunction.
 
 (3) The power to vary an injunction includes power—
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2489d58c4d01192c6309f7a17d8063ef]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-2489d58c4d01192c6309f7a17d8063ef]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
 
-[^key-87a91366e7a73c3770f2ea74a0c38e3a]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/8/1) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/10/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-87a91366e7a73c3770f2ea74a0c38e3a]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/8/1) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/10/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
-[^key-f4be7fa23feacf923b46b0d9f9c65257]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/8/2) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/10/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-f4be7fa23feacf923b46b0d9f9c65257]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/8/2) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/10/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)

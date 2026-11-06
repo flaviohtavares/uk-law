@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Gas conveyors: certification as to independence[^key-359fae914aa763e11d2b321bbc106ee3]
+## 12. Gas conveyors: certification as to independence[^c-359fae914aa763e11d2b321bbc106ee3]
 
 *Extent: N.I.*
 
@@ -349,4 +349,4 @@ After Article 8 of the Gas Order there shall be inserted the following Articlesâ
 
 ## Annotations
 
-[^key-359fae914aa763e11d2b321bbc106ee3]: Commencement: Reg. 12 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-359fae914aa763e11d2b321bbc106ee3]: Commencement: Reg. 12 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

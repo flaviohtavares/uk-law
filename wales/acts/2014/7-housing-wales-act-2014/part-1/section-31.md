@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Revocation of rent stopping orders[^key-d50de84da883bf671f667149164d2559]
+## 31. Revocation of rent stopping orders[^c-d50de84da883bf671f667149164d2559]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d50de84da883bf671f667149164d2559]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2014/7/section/31) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-d50de84da883bf671f667149164d2559]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2014/7/section/31) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

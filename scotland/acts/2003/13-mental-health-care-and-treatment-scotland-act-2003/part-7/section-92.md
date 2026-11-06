@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Application to Tribunal[^key-3b6de4bf209e6d2a7c347e200c7a9133][^key-7a93cfac4f361f02ed7002c23ad685c3]
+## 92. Application to Tribunal[^c-3b6de4bf209e6d2a7c347e200c7a9133][^c-7a93cfac4f361f02ed7002c23ad685c3]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ An application under this section to the Tribunal by a patient’s responsible m
 
 ## Annotations
 
-[^key-3b6de4bf209e6d2a7c347e200c7a9133]: Commencement: S. 92 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-3b6de4bf209e6d2a7c347e200c7a9133]: Commencement: S. 92 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-7a93cfac4f361f02ed7002c23ad685c3]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2003/13/section/92) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-7a93cfac4f361f02ed7002c23ad685c3]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2003/13/section/92) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-### 1. Prohibitions applying to landlords[^key-50e95645415ae5fb1ab7a057aed07f22]
+### 1. Prohibitions applying to landlords[^c-50e95645415ae5fb1ab7a057aed07f22]
 
 (1) A landlord must not require a relevant person to make a prohibited payment to the landlord in connection with a tenancy of housing in England.
 
@@ -87,7 +87,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) the Greater London Authority, or
 - (c) a person acting on behalf of an authority within paragraph (a) or the Greater London Authority.
 
-### 2. Prohibitions applying to letting agents[^key-f1b741941bbad1ff4b71899a5e1ae87d]
+### 2. Prohibitions applying to letting agents[^c-f1b741941bbad1ff4b71899a5e1ae87d]
 
 (1) A letting agent must not require a relevant person to make a prohibited payment to the letting agent in connection with a tenancy of housing in England.
 
@@ -125,7 +125,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 3. Prohibited and permitted payments[^c23615951]
 
-(1)[^key-10b6a55e717739a8be22844ec64da292] For the purposes of this Act a payment is a prohibited payment unless it is a permitted payment by virtue of Schedule 1.
+(1)[^c-10b6a55e717739a8be22844ec64da292] For the purposes of this Act a payment is a prohibited payment unless it is a permitted payment by virtue of Schedule 1.
 
 (2) The Secretary of State may by regulations made by statutory instrument amend Schedule 1 by adding, modifying or removing a reference to a permitted payment.
 
@@ -142,7 +142,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) A statutory instrument to which subsection (6) applies is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 4. Effect of a breach of section 1 or 2[^key-f8771dfbc01bfe158699947668f2bd01]
+### 4. Effect of a breach of section 1 or 2[^c-f8771dfbc01bfe158699947668f2bd01]
 
 (1) A term of a tenancy agreement which breaches section 1 is not binding on a relevant person.
 
@@ -152,11 +152,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) If a relevant person makes a loan to a person pursuant to a requirement which breaches section 1(5) or 2(4), the loan is repayable by the borrower to the relevant person on demand.
 
-### 5. Treatment of holding deposit[^key-91a4eb600f3eb642819b2c413272a852]
+### 5. Treatment of holding deposit[^c-91a4eb600f3eb642819b2c413272a852]
 
 Schedule 2 makes provision about the treatment of holding deposits.
 
-### 5A. Pre-tenancy payments of rent: prohibitions[^key-67731dda672ca00e8248e2ffb66a8aff]
+### 5A. Pre-tenancy payments of rent: prohibitions[^c-67731dda672ca00e8248e2ffb66a8aff]
 
 (1) A landlord must not—
 
@@ -204,18 +204,18 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 ## Enforcement
 
-### 6. Enforcement by local weights and measures authorities[^key-c92553ee57940fce1c8e929429b3992a]
+### 6. Enforcement by local weights and measures authorities[^c-c92553ee57940fce1c8e929429b3992a]
 
 (1) It is the duty of every local weights and measures authority in England to enforce in its area—
 
 - (a) section 1 (prohibitions applying to landlords),
-- (b) section 2 (prohibitions applying to letting agents), [^key-5f5687e66aae886b89d46facbc074c6c]...
-- (ba)[^key-8113b14c4023a7d7b2a10b8a5162549d] section 5A (pre-tenancy payments of rent: prohibitions), and
+- (b) section 2 (prohibitions applying to letting agents), [^c-5f5687e66aae886b89d46facbc074c6c]...
+- (ba)[^c-8113b14c4023a7d7b2a10b8a5162549d] section 5A (pre-tenancy payments of rent: prohibitions), and
 - (c) Schedule 2 (treatment of holding deposit).
 
 (2) The duty in subsection (1) is subject to sections 14(5) (enforcement by another enforcement authority) and 26 (enforcement by the lead enforcement authority).
 
-(3) Where a breach of section 1 , 2 or 5A[^key-0bfbbbd07d6a707b0fd3c0b4d888e5e7] or Schedule 2 relates to housing which is located in the area of more than one local weights and measures authority, the breach is taken to have occurred in each of those areas.
+(3) Where a breach of section 1 , 2 or 5A[^c-0bfbbbd07d6a707b0fd3c0b4d888e5e7] or Schedule 2 relates to housing which is located in the area of more than one local weights and measures authority, the breach is taken to have occurred in each of those areas.
 
 (4) A local weights and measures authority in England must have regard to any guidance issued by the Secretary of State or the lead enforcement authority (if not the Secretary of State) about the exercise of its functions under this Act.
 
@@ -223,9 +223,9 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (6) In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (duties and powers to which Schedule 5 applies), at the appropriate place insert “ section 6 of the Tenant Fees Act 2019 ”.
 
-### 7. Enforcement by district councils[^key-5e2580898cf3bb42324b43a0198c3788]
+### 7. Enforcement by district councils[^c-5e2580898cf3bb42324b43a0198c3788]
 
-(1) A district council which is not a local weights and measures authority may enforce sections 1 , 2 and 5A[^key-9222e939be265c1b1af838c1315d16fd] and Schedule 2.
+(1) A district council which is not a local weights and measures authority may enforce sections 1 , 2 and 5A[^c-9222e939be265c1b1af838c1315d16fd] and Schedule 2.
 
 (2) A district council must have regard to any guidance issued by the Secretary of State or the lead enforcement authority (if not the Secretary of State) about the exercise of its functions under this Act.
 
@@ -238,11 +238,11 @@ Schedule 2 makes provision about the treatment of holding deposits.
 - (a) a local weights and measures authority in England, or
 - (b) a district council which is not a local weights and measures authority.
 
-### 8. Financial penalties[^key-f0044ea18e7b36705a1ba7240908005f]
+### 8. Financial penalties[^c-f0044ea18e7b36705a1ba7240908005f]
 
 *Extent: E+W*
 
-(1) Where an enforcement authority is satisfied beyond reasonable doubt that a person has breached section 1 , 2 or 5A[^key-b76bca587eb23f569c443ffcd82cab83] or Schedule 2, the authority may impose a financial penalty on the person in respect of the breach.
+(1) Where an enforcement authority is satisfied beyond reasonable doubt that a person has breached section 1 , 2 or 5A[^c-b76bca587eb23f569c443ffcd82cab83] or Schedule 2, the authority may impose a financial penalty on the person in respect of the breach.
 
 (2) The financial penalty—
 
@@ -283,13 +283,13 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (4) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 10. Recovery by enforcement authority of amount paid[^key-8783e66a2a1c3154017c8e57135fa92e]
+### 10. Recovery by enforcement authority of amount paid[^c-8783e66a2a1c3154017c8e57135fa92e]
 
 *Extent: E+W*
 
 (1) Subsection (2) applies where an enforcement authority—
 
-- (a) imposes a financial penalty under section 8 on a landlord or letting agent for breaching section 1 , 2 or 5A[^key-c25a9851f033575590d022712416affe],
+- (a) imposes a financial penalty under section 8 on a landlord or letting agent for breaching section 1 , 2 or 5A[^c-c25a9851f033575590d022712416affe],
 - (b) is satisfied on the balance of probabilities that the breach resulted in a relevant person making a prohibited payment to a landlord, letting agent or third party, and
 - (c) is satisfied on the balance of probabilities that all or part of the prohibited payment has not been repaid to the relevant person.
 
@@ -298,9 +298,9 @@ Schedule 2 makes provision about the treatment of holding deposits.
 - (a) if none of the prohibited payment has been repaid to the relevant person, the amount of the prohibited payment;
 - (b) if part of the prohibited payment has been repaid to the relevant person, the remaining part of the prohibited payment.
 
-(2A)[^key-aa0f7e65de6208643de244dbc11d8e61] But that obligation to pay the amount, or remaining part, of the prohibited payment is subject to subsection (3), unless it is a case where the payment is prohibited by paragraph 1(1A) of Schedule 1 (pre-tenancy payment of rent).
+(2A)[^c-aa0f7e65de6208643de244dbc11d8e61] But that obligation to pay the amount, or remaining part, of the prohibited payment is subject to subsection (3), unless it is a case where the payment is prohibited by paragraph 1(1A) of Schedule 1 (pre-tenancy payment of rent).
 
-(3) Subsection (2) does not apply in relation to the prohibited payment[^key-36eaff3fc9b3c215d2e858bc3c100dcf] if or to the extent that, with the consent of the relevant person—
+(3) Subsection (2) does not apply in relation to the prohibited payment[^c-36eaff3fc9b3c215d2e858bc3c100dcf] if or to the extent that, with the consent of the relevant person—
 
 - (a) the prohibited payment, or the remaining part of it, has been applied towards a payment of rent under the tenancy, or
 - (b) the prohibited payment, or the remaining part of it, has been applied towards the tenancy deposit in respect of the tenancy.
@@ -335,7 +335,7 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (10) Subsection (2), (5) or (8) does not apply if the relevant person has made an application under section 15 (application to the First-tier Tribunal) for recovery of all or part of the amount or (as the case may be) the aggregate amount referred to in that subsection.
 
-### 11. Interest on payments under section 10[^key-d2da877a24be8a95b2b71f9afc727db7]
+### 11. Interest on payments under section 10[^c-d2da877a24be8a95b2b71f9afc727db7]
 
 *Extent: E+W*
 
@@ -356,7 +356,7 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (4) The total amount of interest imposed under subsection (1) must not exceed the amount required to be paid under section 10.
 
-### 12. Offences[^key-64ef1a362be46a797c3d238d5d2b0f7f]
+### 12. Offences[^c-64ef1a362be46a797c3d238d5d2b0f7f]
 
 *Extent: E+W*
 
@@ -382,7 +382,7 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 > (5) An offence under section 12 of the Tenant Fees Act 2019 is also a banning order offence for the purposes of this Part.
 
-### 13. Offences by bodies corporate[^key-1415bfd22a919e03005b2c06bae7bc7d]
+### 13. Offences by bodies corporate[^c-1415bfd22a919e03005b2c06bae7bc7d]
 
 *Extent: E+W*
 
@@ -390,7 +390,7 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were an officer of the body corporate.
 
-### 14. Duty to notify when taking enforcement action[^key-4de0ab4ec5f14db1e7033cfcb240c964]
+### 14. Duty to notify when taking enforcement action[^c-4de0ab4ec5f14db1e7033cfcb240c964]
 
 *Extent: E+W*
 
@@ -437,13 +437,13 @@ Schedule 2 makes provision about the treatment of holding deposits.
   - (i) imposing a financial penalty under section 8, or
   - (ii) bringing proceedings against a person for an offence under section 12.
 
-### 15. Recovery by relevant person of amount paid[^key-67217e2a64a63e624562c964e9165ba1]
+### 15. Recovery by relevant person of amount paid[^c-67217e2a64a63e624562c964e9165ba1]
 
 *Extent: E+W*
 
 (1) Subsection (3) applies where—
 
-- (a) a landlord or a letting agent breaches section 1 , 2 or 5A[^key-9baeea6dc0bdbae95ffbb4f56f4399e7], as a result of which the landlord or letting agent, or a third party, receives a prohibited payment from a relevant person, and
+- (a) a landlord or a letting agent breaches section 1 , 2 or 5A[^c-9baeea6dc0bdbae95ffbb4f56f4399e7], as a result of which the landlord or letting agent, or a third party, receives a prohibited payment from a relevant person, and
 - (b) all or part of the prohibited payment has not been repaid to the relevant person.
 
 (2) Subsection (3) also applies where—
@@ -478,7 +478,7 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (11) An order of the First-tier Tribunal under this section is enforceable by order of the county court as if the amount payable under the order were payable under an order of that court.
 
-### 16. Assistance to recover amount paid[^key-4f9ce75efb32be5e4ec2221b103a0f26]
+### 16. Assistance to recover amount paid[^c-4f9ce75efb32be5e4ec2221b103a0f26]
 
 *Extent: E+W*
 
@@ -489,41 +489,41 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 (2) An enforcement authority may, for example, help a relevant person by conducting proceedings or by giving advice to the relevant person.
 
-### 17. Restriction on terminating tenancy[^key-3c4a0a3839a7c9c6055d83fab306aed4]
+### 17. Restriction on terminating tenancy[^c-3c4a0a3839a7c9c6055d83fab306aed4]
 
 *Extent: E+W*
 
-(1)[^key-eed009483a7fc714b38763a3e056e019] This section applies if— *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+(1)[^c-eed009483a7fc714b38763a3e056e019] This section applies if— *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-- (a) a landlord breaches section 1(1) by requiring a relevant person to make a prohibited payment in connection with an assured shorthold tenancy, and *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
-- (b) the relevant person makes a prohibited payment to the landlord as a result of the requirement being made. *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+- (a) a landlord breaches section 1(1) by requiring a relevant person to make a prohibited payment in connection with an assured shorthold tenancy, and *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
+- (b) the relevant person makes a prohibited payment to the landlord as a result of the requirement being made. *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-(2) This section also applies if— *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+(2) This section also applies if— *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-- (a) a landlord breaches Schedule 2 in relation to a holding deposit paid by a relevant person, and *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
-- (b) the deposit relates to an assured shorthold tenancy. *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+- (a) a landlord breaches Schedule 2 in relation to a holding deposit paid by a relevant person, and *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
+- (b) the deposit relates to an assured shorthold tenancy. *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-(3) No section 21 notice may be given in relation to the tenancy so long as all or part of the prohibited payment or holding deposit has not been repaid to the relevant person. *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+(3) No section 21 notice may be given in relation to the tenancy so long as all or part of the prohibited payment or holding deposit has not been repaid to the relevant person. *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-(4) Subsection (3) does not apply where none of the prohibited payment or holding deposit has been repaid to the relevant person if, with the consent of the relevant person— *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+(4) Subsection (3) does not apply where none of the prohibited payment or holding deposit has been repaid to the relevant person if, with the consent of the relevant person— *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-- (a) the payment or deposit has been applied towards a payment of rent under the tenancy, *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
-- (b) the payment or deposit has been applied towards the tenancy deposit in respect of the tenancy, or *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
-- (c) some of the payment or deposit has been applied as mentioned in paragraph (a) and the rest has been applied as mentioned in paragraph (b). *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+- (a) the payment or deposit has been applied towards a payment of rent under the tenancy, *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
+- (b) the payment or deposit has been applied towards the tenancy deposit in respect of the tenancy, or *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
+- (c) some of the payment or deposit has been applied as mentioned in paragraph (a) and the rest has been applied as mentioned in paragraph (b). *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-(5) Subsection (3) does not apply where part of the prohibited payment or holding deposit has been repaid to the relevant person if, with the consent of the relevant person— *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+(5) Subsection (3) does not apply where part of the prohibited payment or holding deposit has been repaid to the relevant person if, with the consent of the relevant person— *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-- (a) the remaining part has been applied towards a payment of rent under the tenancy, *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
-- (b) the remaining part has been applied towards the tenancy deposit in respect of the tenancy, or *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
-- (c) some of the remaining part has been applied as mentioned in paragraph (a) and the rest has been applied as mentioned in paragraph (b). *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+- (a) the remaining part has been applied towards a payment of rent under the tenancy, *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
+- (b) the remaining part has been applied towards the tenancy deposit in respect of the tenancy, or *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
+- (c) some of the remaining part has been applied as mentioned in paragraph (a) and the rest has been applied as mentioned in paragraph (b). *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
-(6) In this section “ *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]**section 21 notice *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]**” means a notice under section 21(1)(b) or (4)(a) of the Housing Act 1988 (recovery of possession on expiry or termination of assured shorthold tenancy). *(affected by repeal, see note)*[^key-eed009483a7fc714b38763a3e056e019]
+(6) In this section “ *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]**section 21 notice *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]**” means a notice under section 21(1)(b) or (4)(a) of the Housing Act 1988 (recovery of possession on expiry or termination of assured shorthold tenancy). *(affected by repeal, see note)*[^c-eed009483a7fc714b38763a3e056e019]
 
 ## Amendments to the Consumer Rights Act 2015
 
 *Extent: E+W*
 
-### 18. Duty to publicise fees on third party websites[^key-2980e673766bc2fa18fef61ef6220b11]
+### 18. Duty to publicise fees on third party websites[^c-2980e673766bc2fa18fef61ef6220b11]
 
 (1) Section 83 of the Consumer Rights Act 2015 (duty of letting agents to publicise fees etc) is amended in accordance with subsections (2) to (6).
 
@@ -555,7 +555,7 @@ Schedule 2 makes provision about the treatment of holding deposits.
 
 > (2A) If a letting agent breaches the duty in section 83(3C) (duty to publish list of fees etc on third party website), that breach is taken to have occurred in each area of a local weights and measures authority in England in which a dwelling-house to which the fees relate is located.
 
-### 19. Information about membership of client money protection scheme[^key-c8079b4d0d52aed207e63aec1068492e]
+### 19. Information about membership of client money protection scheme[^c-c8079b4d0d52aed207e63aec1068492e]
 
 In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of whether agent is member of client money protection scheme)—
 
@@ -567,7 +567,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
   > - (a) indicates that the agent is a member of a client money protection scheme, and
   > - (b) gives the name of the scheme.
 
-### 20. Penalties for continuing breach of duty[^key-4ba6c00ce512993764e2e98a3bfdd2b5]
+### 20. Penalties for continuing breach of duty[^c-4ba6c00ce512993764e2e98a3bfdd2b5]
 
 (1) Section 87 of the Consumer Rights Act 2015 (enforcement of duty of letting agents to publicise fees etc) is amended as follows.
 
@@ -590,9 +590,9 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 ### 21. Enforcement of client money protection schemes for property agents
 
-(1)[^key-147f819d15a0ae290b9e61d3f7232ddb] The Housing and Planning Act 2016 is amended as follows.
+(1)[^c-147f819d15a0ae290b9e61d3f7232ddb] The Housing and Planning Act 2016 is amended as follows.
 
-(2)[^key-948b7ace728d374630ca8ffdf83258bb] In section 134 (client money protection schemes: approval or designation), after subsection (2) insert—
+(2)[^c-948b7ace728d374630ca8ffdf83258bb] In section 134 (client money protection schemes: approval or designation), after subsection (2) insert—
 
 > (3) Regulations under this section may confer a discretion on the Secretary of State in connection with—
 >
@@ -601,14 +601,14 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 > - (c) the amendment of such a scheme, or
 > - (d) the withdrawal of approval or revocation of designation of such a scheme.
 
-(3)[^key-147f819d15a0ae290b9e61d3f7232ddb] In section 135 (enforcement of client money protection scheme regulations)—
+(3)[^c-147f819d15a0ae290b9e61d3f7232ddb] In section 135 (enforcement of client money protection scheme regulations)—
 
 - (a) in subsection (4)(e), after “for the purposes of any of its functions” insert “ (whether or not the function is expressed to be a function of a local weights and measures authority) ”, and
 - (b) for subsection (5) substitute—
 
   > (5) In this section “**local authority in England**” means a local weights and measures authority in England.
 
-### 22. Client money protection schemes: approval and designation[^key-d45b63673288f1ed1f26d0fafc497f12]
+### 22. Client money protection schemes: approval and designation[^c-d45b63673288f1ed1f26d0fafc497f12]
 
 (1) The Client Money Protection Schemes for Property Agents (Approval and Designation of Schemes) Regulations 2018 (S.I. 2018/751) are amended as follows.
 
@@ -720,7 +720,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 (6) The amendments made by this section are without prejudice to any power to make an order or regulations amending or revoking the regulations mentioned in subsection (1).
 
-### 23. Client money protection schemes: requirement to belong to a scheme etc[^key-12910fb9d64349170816f8c9b85b9ab7]
+### 23. Client money protection schemes: requirement to belong to a scheme etc[^c-12910fb9d64349170816f8c9b85b9ab7]
 
 (1) The Client Money Protection Schemes for Property Agents (Requirement to Belong to a Scheme etc.) Regulations 2019 are amended as follows.
 
@@ -758,14 +758,14 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 ### 24. Lead enforcement authority[^c23615961]
 
-(1)[^key-52e34ddc796394ab61c726732f1f2d28] In this Act “**lead enforcement authority**” means—
+(1)[^c-52e34ddc796394ab61c726732f1f2d28] In this Act “**lead enforcement authority**” means—
 
 - (a) the Secretary of State, or
 - (b) a person whom the Secretary of State has arranged to be the lead enforcement authority in accordance with subsection (2).
 
-(2)[^key-52e34ddc796394ab61c726732f1f2d28] The Secretary of State may make arrangements for a local weights and measures authority in England to be the lead enforcement authority for the purposes of the relevant letting agency legislation instead of the Secretary of State.
+(2)[^c-52e34ddc796394ab61c726732f1f2d28] The Secretary of State may make arrangements for a local weights and measures authority in England to be the lead enforcement authority for the purposes of the relevant letting agency legislation instead of the Secretary of State.
 
-(3)[^key-52e34ddc796394ab61c726732f1f2d28] The arrangements—
+(3)[^c-52e34ddc796394ab61c726732f1f2d28] The arrangements—
 
 - (a) may include provision for payments by the Secretary of State;
 - (b) may include provision about bringing the arrangements to an end.
@@ -774,14 +774,14 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 (5) The regulations may relate to a specific change in the lead enforcement authority or to changes that might arise from time to time.
 
-(6)[^key-52e34ddc796394ab61c726732f1f2d28] In this Act “**the relevant letting agency legislation**” means—
+(6)[^c-52e34ddc796394ab61c726732f1f2d28] In this Act “**the relevant letting agency legislation**” means—
 
 - (a) this Act,
 - (b) Chapter 3 of Part 3 of the Consumer Rights Act 2015 as it applies in relation to dwelling-houses in England,
 - (c) an order under section 83(1) or 84(1) of the Enterprise and Regulatory Reform Act 2013, and
 - (d) regulations under section 133, 134 or 135 of the Housing and Planning Act 2016.
 
-### 25. General duties of the lead enforcement authority[^key-bd7dc6b799dc1844fc4a97834d313549]
+### 25. General duties of the lead enforcement authority[^c-bd7dc6b799dc1844fc4a97834d313549]
 
 (1) It is the duty of the lead enforcement authority to oversee the operation of the relevant letting agency legislation.
 
@@ -809,7 +809,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 - (c) in relation to an order under section 83(1) or 84(1) of the Enterprise and Regulatory Reform Act 2013, a person on whom functions in relation to enforcement of the order are conferred;
 - (d) in relation to regulations under section 133, 134 or 135 of the Housing and Planning Act 2016, a local authority in England (as defined in section 135 of that Act).
 
-### 26. Enforcement by the lead enforcement authority[^key-60ea41fd1fa9a0ae6bd03db2eddd5465][^key-01bc062a7545d6a98ce0196b89ea20f3]
+### 26. Enforcement by the lead enforcement authority[^c-60ea41fd1fa9a0ae6bd03db2eddd5465][^c-01bc062a7545d6a98ce0196b89ea20f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -837,7 +837,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 *Extent: E+W*
 
-### 27. Meaning of “letting agent” and related expressions[^key-e4333147c355178acac82916dec9ffa0]
+### 27. Meaning of “letting agent” and related expressions[^c-e4333147c355178acac82916dec9ffa0]
 
 (1) In this Act “**letting agent**” means a person who engages in letting agency work (whether or not that person engages in other work).
 
@@ -859,7 +859,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 (1) In this Act—
 
-- “[^key-37deaef78953a29bd58b3ffed78649b5]**assured shorthold tenancy *(affected by repeal, see note)*[^key-37deaef78953a29bd58b3ffed78649b5]**” has the same meaning as in Part 1 of the Housing Act 1988; *(affected by repeal, see note)*[^key-37deaef78953a29bd58b3ffed78649b5]
+- “[^c-37deaef78953a29bd58b3ffed78649b5]**assured shorthold tenancy *(affected by repeal, see note)*[^c-37deaef78953a29bd58b3ffed78649b5]**” has the same meaning as in Part 1 of the Housing Act 1988; *(affected by repeal, see note)*[^c-37deaef78953a29bd58b3ffed78649b5]
 - “**assured tenancy**” means an assured tenancy within the meaning of Chapter 1 of Part 1 of the [Housing Act 1988](https://www.legislation.gov.uk/ukpga/1988/50) (for transitional provision see Schedule 6 to the Renters’ Rights Act 2025);
 - “**communication service**” has the meaning given by paragraph 11(3) of Schedule 1;
 - “**enforcement authority**” has the meaning given by section 7(5);
@@ -881,20 +881,20 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
   - (a) includes a licence which is granted to a licensee by a licensor who resides in the housing unless it is an excluded licence;
   - (b) does not include a licence to occupy social housing;
   - (c) does not include a licence to occupy housing the purpose of which is to confer on the tenant the right to occupy housing for a holiday;
-- “[^key-518d43fcaf1d5cfbe9b027df590d6e77]**long lease *(affected by repeal, see note)*[^key-518d43fcaf1d5cfbe9b027df590d6e77]**” means a lease which— *(affected by repeal, see note)*[^key-518d43fcaf1d5cfbe9b027df590d6e77]
-  - (a) is a long lease for the purposes of Chapter 1 of Part 1 of the Leasehold Reform, Housing and Urban Development Act 1993, or *(affected by repeal, see note)*[^key-518d43fcaf1d5cfbe9b027df590d6e77]
-  - (b) in the case of a shared ownership lease (within the meaning given by section 7(7) of that Act), would be a lease within paragraph (a) if the tenant's total share (within the meaning given by that section) were 100%; *(affected by repeal, see note)*[^key-518d43fcaf1d5cfbe9b027df590d6e77]
+- “[^c-518d43fcaf1d5cfbe9b027df590d6e77]**long lease *(affected by repeal, see note)*[^c-518d43fcaf1d5cfbe9b027df590d6e77]**” means a lease which— *(affected by repeal, see note)*[^c-518d43fcaf1d5cfbe9b027df590d6e77]
+  - (a) is a long lease for the purposes of Chapter 1 of Part 1 of the Leasehold Reform, Housing and Urban Development Act 1993, or *(affected by repeal, see note)*[^c-518d43fcaf1d5cfbe9b027df590d6e77]
+  - (b) in the case of a shared ownership lease (within the meaning given by section 7(7) of that Act), would be a lease within paragraph (a) if the tenant's total share (within the meaning given by that section) were 100%; *(affected by repeal, see note)*[^c-518d43fcaf1d5cfbe9b027df590d6e77]
 - “**prohibited payment**” has the meaning given by section 3 and Schedule 1;
 - “**the relevant letting agency legislation**” has the meaning given by section 24(6);
 - “**relevant person**” has the meaning given by section 1(9) (and see subsection (2) of this section);
 - “**social housing**” has the same meaning as in Part 2 of the Housing and Regeneration Act 2008;
 - “**television licence**” has the meaning given by paragraph 10(2) of Schedule 1;
 - “**tenancy**” means—
-  - (a) an assured shorthold tenancy other than— *(affected by repeal, see note)*[^key-330d75eb814d7d5f5ac77e9b12fc0037]
-    - (i) an assured tenancy other than a tenancy of social housing, *(affected by repeal, see note)*[^key-330d75eb814d7d5f5ac77e9b12fc0037]
+  - (a) an assured shorthold tenancy other than— *(affected by repeal, see note)*[^c-330d75eb814d7d5f5ac77e9b12fc0037]
+    - (i) an assured tenancy other than a tenancy of social housing, *(affected by repeal, see note)*[^c-330d75eb814d7d5f5ac77e9b12fc0037]
 
-      a tenancy of social housing, or *(affected by repeal, see note)*[^key-330d75eb814d7d5f5ac77e9b12fc0037]
-    - (ii) a tenancy which is a long lease, *(affected by repeal, see note)*[^key-330d75eb814d7d5f5ac77e9b12fc0037]
+      a tenancy of social housing, or *(affected by repeal, see note)*[^c-330d75eb814d7d5f5ac77e9b12fc0037]
+    - (ii) a tenancy which is a long lease, *(affected by repeal, see note)*[^c-330d75eb814d7d5f5ac77e9b12fc0037]
   - (a) an assured tenancy other than a tenancy of social housing,
   - (b) a tenancy which meets the conditions set out in paragraph 8 (lettings to students) of Schedule 1 to the Housing Act 1988, or
   - (c) a licence to occupy housing;
@@ -908,7 +908,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
   - (e) a person who has ceased to be a licensee under a licence to occupy housing;
 - “**utility**” has the meaning given by paragraph 9(3) of Schedule 1.
 
-(2)[^key-2396766e1fe9380f4fc034b1ec8d2092] In the following provisions references to a relevant person include a person who has ceased to act on behalf of a tenant—
+(2)[^c-2396766e1fe9380f4fc034b1ec8d2092] In the following provisions references to a relevant person include a person who has ceased to act on behalf of a tenant—
 
 - (a) section 4(4) (repayment of loan);
 - (b) section 10 (recovery by enforcement authority of amount paid);
@@ -917,7 +917,7 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 ## Final provisions
 
-### 29. Consequential amendments[^key-cb8db54034bbd0ae0445a644a7822f00]
+### 29. Consequential amendments[^c-cb8db54034bbd0ae0445a644a7822f00]
 
 *Extent: E+W*
 
@@ -980,48 +980,48 @@ In section 83 of the Consumer Rights Act 2015, in subsection (6) (statement of w
 
 ### 30. Transitional provision[^c23615981]
 
-(1)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Subject as follows, section 1 (prohibitions applying to landlords) does not apply to—
+(1)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Subject as follows, section 1 (prohibitions applying to landlords) does not apply to—
 
 - (a) a requirement imposed before the coming into force of that section, or
 - (b) a requirement imposed by or pursuant to a tenancy agreement entered into before the coming into force of that section.
 
-(2)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Subject as follows, section 1 does not apply to a requirement imposed by or pursuant to an agreement relating to a periodic tenancy which arises—
+(2)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Subject as follows, section 1 does not apply to a requirement imposed by or pursuant to an agreement relating to a periodic tenancy which arises—
 
 - (a) under section 5(2) of the Housing Act 1988 after the coming into force of section 1, and
 - (b) on the coming to an end of a fixed term tenancy which was entered into before the coming into force of that section,
 
 (referred to in this section as a “**relevant statutory tenancy**”).
 
-(3)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Subsections (5) and (6) apply in relation to a provision of a tenancy agreement entered into before the coming into force of section 1 if, had the agreement been entered into after that time, that section would have applied in relation to the provision or a requirement imposed pursuant to it.
+(3)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Subsections (5) and (6) apply in relation to a provision of a tenancy agreement entered into before the coming into force of section 1 if, had the agreement been entered into after that time, that section would have applied in relation to the provision or a requirement imposed pursuant to it.
 
-(4)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Subsections (5) and (6) apply in relation to a provision of an agreement relating to a relevant statutory tenancy if, had the provision been included in a tenancy agreement entered into after the coming into force of section 1, that section would have applied in relation to that provision or a requirement imposed pursuant to it.
+(4)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Subsections (5) and (6) apply in relation to a provision of an agreement relating to a relevant statutory tenancy if, had the provision been included in a tenancy agreement entered into after the coming into force of section 1, that section would have applied in relation to that provision or a requirement imposed pursuant to it.
 
-(5)[^key-a3c211bbb39cedbcae9ddb7daeee276a] After the end of the period of one year beginning with the date on which section 1 comes into force, the provision ceases to be binding on the tenant or a relevant person in relation to the tenant (but the agreement continues, so far as practicable, to have effect in every other respect).
+(5)[^c-a3c211bbb39cedbcae9ddb7daeee276a] After the end of the period of one year beginning with the date on which section 1 comes into force, the provision ceases to be binding on the tenant or a relevant person in relation to the tenant (but the agreement continues, so far as practicable, to have effect in every other respect).
 
-(6)[^key-a3c211bbb39cedbcae9ddb7daeee276a] If, after the end of the period of one year beginning with the date on which section 1 comes into force—
+(6)[^c-a3c211bbb39cedbcae9ddb7daeee276a] If, after the end of the period of one year beginning with the date on which section 1 comes into force—
 
 - (a) the landlord or a letting agent accepts a payment from a relevant person pursuant to the provision, and
 - (b) the landlord or letting agent does not return the payment before the end of the period of 28 days beginning with the day on which it is accepted,
 
 the landlord or letting agent is to be treated for the purposes of this Act as having required the relevant person to make a prohibited payment of that amount at that time.
 
-(7)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Subject as follows, section 2 (prohibitions applying to letting agents) does not apply to—
+(7)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Subject as follows, section 2 (prohibitions applying to letting agents) does not apply to—
 
 - (a) a requirement imposed before the coming into force of that section, or
 - (b) a requirement imposed by or pursuant to an agreement between a letting agent and a relevant person entered into before the coming into force of that section.
 
-(8)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Subsections (9) and (10) apply in relation to a provision of an agreement between a letting agent and a relevant person entered into before the coming into force of section 2 if, had the agreement been entered into after that time, that section would have applied in relation to the provision or a requirement imposed pursuant to it.
+(8)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Subsections (9) and (10) apply in relation to a provision of an agreement between a letting agent and a relevant person entered into before the coming into force of section 2 if, had the agreement been entered into after that time, that section would have applied in relation to the provision or a requirement imposed pursuant to it.
 
-(9)[^key-a3c211bbb39cedbcae9ddb7daeee276a] After the end of the period of one year beginning with the date on which section 2 comes into force, the provision ceases to be binding on the relevant person (but the agreement continues, so far as practicable, to have effect in every other respect).
+(9)[^c-a3c211bbb39cedbcae9ddb7daeee276a] After the end of the period of one year beginning with the date on which section 2 comes into force, the provision ceases to be binding on the relevant person (but the agreement continues, so far as practicable, to have effect in every other respect).
 
-(10)[^key-a3c211bbb39cedbcae9ddb7daeee276a] If, after the end of the period of one year beginning with the date on which section 2 comes into force—
+(10)[^c-a3c211bbb39cedbcae9ddb7daeee276a] If, after the end of the period of one year beginning with the date on which section 2 comes into force—
 
 - (a) the letting agent accepts a payment from the relevant person pursuant to the provision, and
 - (b) the letting agent does not return the payment before the end of the period of 28 days beginning with the day on which it is accepted,
 
 the letting agent is to be treated for the purposes of this Act as having required the relevant person to make a prohibited payment of that amount at that time.
 
-(11)[^key-a3c211bbb39cedbcae9ddb7daeee276a] Schedule 2 (treatment of holding deposit) applies only in relation to a holding deposit paid after the coming into force of that Schedule.
+(11)[^c-a3c211bbb39cedbcae9ddb7daeee276a] Schedule 2 (treatment of holding deposit) applies only in relation to a holding deposit paid after the coming into force of that Schedule.
 
 (12) The Secretary of State may by regulations made by statutory instrument make such other transitional, transitory or saving provision as the Secretary of State considers appropriate in connection with the coming into force of any provision of this Act.
 
@@ -1032,7 +1032,7 @@ The following are to be paid out of money provided by Parliament—
 - (a) any expenditure incurred under or by virtue of this Act by the Secretary of State, and
 - (b) any increase attributable to this Act in the sums payable under any other Act out of money so provided.
 
-### 32. Crown application[^key-393239b4681476bf33f7e5bc9e4bb802]
+### 32. Crown application[^c-393239b4681476bf33f7e5bc9e4bb802]
 
 *Extent: E+W*
 
@@ -1045,7 +1045,7 @@ This is subject to subsection (2).
 (3) In this section—
 
 - (a) “**Crown tenancy**” means a tenancy of housing in England in which the interest of the landlord is a Crown interest;
-- (b) “**Crown interest**” means a Crown interest within the meaning of section 44(3) of the Housing Act 1988 which is capable of granting an assured shorthold tenancy *(affected by repeal, see note)*[^key-89d431fa51d6318b3c4d1555fe35bf2e] assured tenancy under that Act.
+- (b) “**Crown interest**” means a Crown interest within the meaning of section 44(3) of the Housing Act 1988 which is capable of granting an assured shorthold tenancy *(affected by repeal, see note)*[^c-89d431fa51d6318b3c4d1555fe35bf2e] assured tenancy under that Act.
 
 ### 33. Extent
 
@@ -1094,16 +1094,16 @@ Section 3
 
 ### Rent
 
-**1.**[^key-db35c94f6058d831e5eb3e6c02f656b4] (1) A payment of rent under a tenancy is a permitted payment.
+**1.**[^c-db35c94f6058d831e5eb3e6c02f656b4] (1) A payment of rent under a tenancy is a permitted payment.
 
-(1A)[^key-67a6086ea18bb5f8df5558b62edd596f] But a payment of rent is a prohibited payment if—
+(1A)[^c-67a6086ea18bb5f8df5558b62edd596f] But a payment of rent is a prohibited payment if—
 
 - (a) it is payable before the tenancy is entered into, and
 - (b) the tenancy is an assured tenancy.
 
 (1B) This paragraph is subject to paragraph 1A.
 
-(2)[^key-835924b0c4c93f66bd4adf53e90d4c94] But, subject as follows, if the amount of rent payable in respect of any relevant period (“P1”) is more than the amount of rent payable in respect of any later relevant period (“P2”), the additional amount payable in respect of P1 is a prohibited payment. *(affected by repeal, see note)*[^key-835924b0c4c93f66bd4adf53e90d4c94]
+(2)[^c-835924b0c4c93f66bd4adf53e90d4c94] But, subject as follows, if the amount of rent payable in respect of any relevant period (“P1”) is more than the amount of rent payable in respect of any later relevant period (“P2”), the additional amount payable in respect of P1 is a prohibited payment. *(affected by repeal, see note)*[^c-835924b0c4c93f66bd4adf53e90d4c94]
 
 ### Increased rent
 
@@ -1134,7 +1134,7 @@ Section 3
 
 ### Tenancy deposit
 
-**2.**[^key-43479262b64001a3a25e672daa88b17e] (1) A payment of a tenancy deposit is a permitted payment.
+**2.**[^c-43479262b64001a3a25e672daa88b17e] (1) A payment of a tenancy deposit is a permitted payment.
 
 (2) In this Act “**tenancy deposit**” means money intended to be held (by a landlord or otherwise) as security for—
 
@@ -1158,7 +1158,7 @@ the amount of the excess is a prohibited payment.
 
 ### Holding deposit
 
-**3.**[^key-fe14a5baaad509d0867f6551b6cc75d6] (1) Subject to sub-paragraphs (3) to (6), a payment of a holding deposit is a permitted payment.
+**3.**[^c-fe14a5baaad509d0867f6551b6cc75d6] (1) Subject to sub-paragraphs (3) to (6), a payment of a holding deposit is a permitted payment.
 
 (2) In this Act “**holding deposit**” means money which is paid by or on behalf of a tenant to a landlord or letting agent before the grant of a tenancy with the intention that it should be dealt with by the landlord or letting agent in accordance with Schedule 2 (treatment of holding deposit).
 
@@ -1176,7 +1176,7 @@ the amount of the excess is a prohibited payment.
 
 ### Payment in the event of a default
 
-**4.**[^key-2a5760c75bb6d1193e6c75959e5ada67] (1) Subject to sub-paragraphs (3) to (8), a payment in the event of a relevant default by the tenant is a permitted payment if the tenancy agreement requires the payment to be made.
+**4.**[^c-2a5760c75bb6d1193e6c75959e5ada67] (1) Subject to sub-paragraphs (3) to (8), a payment in the event of a relevant default by the tenant is a permitted payment if the tenancy agreement requires the payment to be made.
 
 (2) In this paragraph “**relevant default**” means—
 
@@ -1213,11 +1213,11 @@ the payment referred to in paragraph (b) is a prohibited payment.
 
 the payment referred to in paragraph (b) is a prohibited payment.
 
-**5.**[^key-3ee993682d7aca33999fd778981b4fa9] A payment of damages for breach of a tenancy agreement or an agreement between a letting agent and a relevant person is a permitted payment.
+**5.**[^c-3ee993682d7aca33999fd778981b4fa9] A payment of damages for breach of a tenancy agreement or an agreement between a letting agent and a relevant person is a permitted payment.
 
 ### Payment on variation, assignment or novation of a tenancy
 
-**6.**[^key-d54609047e1b1ffeb63c6fdf650d14c9] (1) A payment is a permitted payment if it is a payment—
+**6.**[^c-d54609047e1b1ffeb63c6fdf650d14c9] (1) A payment is a permitted payment if it is a payment—
 
 - (a) to a landlord in consideration of the variation, assignment or novation of a tenancy at the tenant's request, or
 - (b) to a letting agent in consideration of arranging the variation, assignment or novation of a tenancy at the tenant's request.
@@ -1231,7 +1231,7 @@ the amount of the excess is a prohibited payment.
 
 ### Payment on termination of a tenancy
 
-**7.**[^key-e6abb09bdafb31c58551bee1c4f86dd8] (1) A payment is a permitted payment if it is a payment to a landlord in consideration of the termination of a tenancy at the tenant's request—
+**7.**[^c-e6abb09bdafb31c58551bee1c4f86dd8] (1) A payment is a permitted payment if it is a payment to a landlord in consideration of the termination of a tenancy at the tenant's request—
 
 - (a) in the case of a fixed term tenancy, before the end of the term, or
 - (b) in the case of a periodic tenancy, without the tenant giving the period of notice required under the tenancy agreement or by virtue of any rule of law.
@@ -1249,13 +1249,13 @@ the amount of the excess is a prohibited payment.
 
 ### Payment in respect of council tax
 
-**8.**[^key-4189adab8937193f10de2fa6aa5e5ac1] (1) A payment to a billing authority in respect of council tax is a permitted payment.
+**8.**[^c-4189adab8937193f10de2fa6aa5e5ac1] (1) A payment to a billing authority in respect of council tax is a permitted payment.
 
 (2) In this paragraph “**billing authority**” has the same meaning as in Part 1 of the Local Government Finance Act 1992 (see section 1(2) of that Act).
 
 ### Payment in respect of utilities etc
 
-**9.**[^key-50433c60c1aee19f286a6a9cbb8eab0e] (1) A payment for or in connection with the provision of a utility is a permitted payment if the tenancy agreement requires the payment to be made.
+**9.**[^c-50433c60c1aee19f286a6a9cbb8eab0e] (1) A payment for or in connection with the provision of a utility is a permitted payment if the tenancy agreement requires the payment to be made.
 
 (2) A payment towards energy efficiency improvements under a green deal plan (within the meaning of section 1 of the Energy Act 2011) is a permitted payment if the tenancy agreement requires the payment to be made.
 
@@ -1266,13 +1266,13 @@ the amount of the excess is a prohibited payment.
 
 ### Payment in respect of a television licence
 
-**10.**[^key-81e2182dd47f8259721811afd51156c6] (1) A payment to the British Broadcasting Corporation in respect of a television licence is a permitted payment if the tenancy agreement requires the payment to be made.
+**10.**[^c-81e2182dd47f8259721811afd51156c6] (1) A payment to the British Broadcasting Corporation in respect of a television licence is a permitted payment if the tenancy agreement requires the payment to be made.
 
 (2) In this Act “**television licence**” means a licence for the purposes of section 363 of the Communications Act 2003.
 
 ### Payment in respect of communication services
 
-**11.**[^key-d343e140c3d37a9caae62a60efb49a08] (1) A payment for or in connection with the provision of a communication service is a permitted payment if the tenancy agreement requires the payment to be made.
+**11.**[^c-d343e140c3d37a9caae62a60efb49a08] (1) A payment for or in connection with the provision of a communication service is a permitted payment if the tenancy agreement requires the payment to be made.
 
 (2) But, in the case of a payment to a landlord, if the amount of the payment exceeds the reasonable costs incurred by the landlord for or in connection with the provision of the service, the amount of the excess is a prohibited payment.
 
@@ -1289,29 +1289,29 @@ Section 5
 
 ### Application
 
-**1.**[^key-39716abb1a5d8f2781e1a39d8f6a9c63] This Schedule applies where a holding deposit is paid to a landlord or letting agent in respect of a proposed tenancy of housing in England.
+**1.**[^c-39716abb1a5d8f2781e1a39d8f6a9c63] This Schedule applies where a holding deposit is paid to a landlord or letting agent in respect of a proposed tenancy of housing in England.
 
 ### Interpretation
 
-**2.**[^key-cefbd35d5de06f7916acedf199afb9b2] (1) In this Schedule “**the deadline for agreement**” means the fifteenth day of the period beginning with the day on which the landlord or letting agent receives the holding deposit.
+**2.**[^c-cefbd35d5de06f7916acedf199afb9b2] (1) In this Schedule “**the deadline for agreement**” means the fifteenth day of the period beginning with the day on which the landlord or letting agent receives the holding deposit.
 
 (2) But the landlord or the letting agent may agree with the tenant in writing that a different day is to be the deadline for agreement for the purposes of this Schedule.
 
 ### Requirement to repay holding deposit
 
-**3.**[^key-f7afc6529facaaa73380e6aa379a1cfc] Subject as follows, the person who received the holding deposit must repay it if—
+**3.**[^c-f7afc6529facaaa73380e6aa379a1cfc] Subject as follows, the person who received the holding deposit must repay it if—
 
 - (a) the landlord and the tenant enter into a tenancy agreement relating to the housing,
 - (b) the landlord decides before the deadline for agreement not to enter into a tenancy agreement relating to the housing, or
 - (c) the landlord and the tenant fail to enter into a tenancy agreement relating to the housing before the deadline for agreement.
 
-**4.**[^key-f77bc73aee6f1dea3f1553888222ba2e] If paragraph 3 applies, the deposit must be repaid within the period of 7 days beginning with—
+**4.**[^c-f77bc73aee6f1dea3f1553888222ba2e] If paragraph 3 applies, the deposit must be repaid within the period of 7 days beginning with—
 
 - (a) where paragraph 3(a) applies, the date of the tenancy agreement,
 - (b) where paragraph 3(b) applies, the date on which the landlord decides not to enter into the tenancy agreement, or
 - (c) where paragraph 3(c) applies, the deadline for agreement.
 
-**5.**[^key-b2b51bcdc21c522d3fa1b6e0c9a85976] (1) The person who received the holding deposit must repay it if—
+**5.**[^c-b2b51bcdc21c522d3fa1b6e0c9a85976] (1) The person who received the holding deposit must repay it if—
 
 - (a) that person believes that any of paragraphs 8 to 12 applies in relation to the deposit, but
 - (b) that person does not give the person who paid the deposit a notice in writing within the relevant period explaining why the person who received it intends not to repay it.
@@ -1323,39 +1323,39 @@ Section 5
 
 ### Exceptions
 
-**6.**[^key-226c13d727e5d680869c032bfca68017] Paragraph 3(a) does not apply if or to the extent that the amount of the deposit is applied, with the consent of the person by whom it was paid—
+**6.**[^c-226c13d727e5d680869c032bfca68017] Paragraph 3(a) does not apply if or to the extent that the amount of the deposit is applied, with the consent of the person by whom it was paid—
 
 - (a) towards the first payment of rent under the tenancy, or
 - (b) towards the payment of the tenancy deposit in respect of the tenancy.
 
-**7.**[^key-3ef4771e379a1996786ec3660598005f] If all or part of the amount of the deposit is applied in accordance with paragraph 6(b), the amount applied is treated for the purposes of section 213 of the Housing Act 2004 (requirements in connection with deposits) as having been received by the landlord on the date of the tenancy agreement.
+**7.**[^c-3ef4771e379a1996786ec3660598005f] If all or part of the amount of the deposit is applied in accordance with paragraph 6(b), the amount applied is treated for the purposes of section 213 of the Housing Act 2004 (requirements in connection with deposits) as having been received by the landlord on the date of the tenancy agreement.
 
-**8.**[^key-ae815787e429ea1ac2c0b4145bd152e6] Paragraph 3(b) or (c) does not apply if—
+**8.**[^c-ae815787e429ea1ac2c0b4145bd152e6] Paragraph 3(b) or (c) does not apply if—
 
 - (a) the landlord is prohibited by section 22 of the Immigration Act 2014 (persons disqualified by immigration status) from granting a tenancy of the housing to the tenant,
 - (b) the landlord did not know, and could not reasonably have been expected to know, the prohibition applied before the deposit was accepted, and
 - (c) if the landlord has instructed a letting agent in relation to the proposed tenancy, the letting agent did not know, and could not reasonably have been expected to know, the prohibition applied before the deposit was accepted.
 
-**9.**[^key-5055853822ccc19427b20ca1551d0924] Paragraph 3(b) or (c) does not apply if the tenant provides false or misleading information to the landlord or letting agent and—
+**9.**[^c-5055853822ccc19427b20ca1551d0924] Paragraph 3(b) or (c) does not apply if the tenant provides false or misleading information to the landlord or letting agent and—
 
 - (a) the landlord is reasonably entitled to take into account the difference between the information provided by the tenant and the correct information in deciding whether to grant a tenancy to the tenant, or
 - (b) the landlord is reasonably entitled to take the tenant's action in providing false or misleading information into account in deciding whether to grant such a tenancy.
 
-**10.**[^key-1581afafb74ae84898403f64e6aafbb2] Subject to paragraph 13, paragraph 3(c) does not apply if the tenant notifies the landlord or letting agent before the deadline for agreement that the tenant has decided not to enter into a tenancy agreement.
+**10.**[^c-1581afafb74ae84898403f64e6aafbb2] Subject to paragraph 13, paragraph 3(c) does not apply if the tenant notifies the landlord or letting agent before the deadline for agreement that the tenant has decided not to enter into a tenancy agreement.
 
-**11.**[^key-7b219b0adba9683aea1b0b51ed268054] Subject to paragraph 13, paragraph 3(c) does not apply where the deposit is paid to the landlord if—
+**11.**[^c-7b219b0adba9683aea1b0b51ed268054] Subject to paragraph 13, paragraph 3(c) does not apply where the deposit is paid to the landlord if—
 
 - (a) the landlord takes all reasonable steps to enter into a tenancy agreement before the deadline for agreement, and
 - (b) if the landlord has instructed a letting agent in relation to the proposed tenancy, the agent takes all reasonable steps to assist the landlord to enter into a tenancy agreement before that date, but
 - (c) the tenant fails to take all reasonable steps to enter into a tenancy agreement before that date.
 
-**12.**[^key-7c825b62e17cc76f5d7dfc55a1bf8c66] Subject to paragraph 13, paragraph 3(c) does not apply where the deposit is paid to the letting agent if—
+**12.**[^c-7c825b62e17cc76f5d7dfc55a1bf8c66] Subject to paragraph 13, paragraph 3(c) does not apply where the deposit is paid to the letting agent if—
 
 - (a) the agent takes all reasonable steps to assist the landlord to enter into a tenancy agreement before the deadline for agreement, and
 - (b) the landlord takes all reasonable steps to enter into a tenancy agreement before that date, but
 - (c) the tenant fails to take all reasonable steps to enter into a tenancy agreement before that date.
 
-**13.**[^key-3459929c630cc1b3eda09c87d65865b8] Paragraph 10, 11 or 12 does not apply (so that paragraph 3(c) does apply) if, before the deadline for agreement—
+**13.**[^c-3459929c630cc1b3eda09c87d65865b8] Paragraph 10, 11 or 12 does not apply (so that paragraph 3(c) does apply) if, before the deadline for agreement—
 
 - (a) the landlord or a letting agent instructed by the landlord in relation to the proposed tenancy breaches section 1 or 2 by imposing a requirement under that section on the tenant or a person who is a relevant person in relation to the tenant, or
 - (b) the landlord or a letting agent instructed by the landlord in relation to the proposed tenancy behaves towards the tenant, or a person who is a relevant person in relation to the tenant, in such a way that it would be unreasonable to expect the tenant to enter into a tenancy agreement with the landlord.
@@ -1366,7 +1366,7 @@ Section 8
 
 ### Interpretation
 
-**1.**[^key-26c642b02a941fb7ffe8262b6fcfa638] (1) In this Schedule references to a financial penalty include a reference to an amount which is required to be paid under section 10(2), (5) or (8) or 11(1).
+**1.**[^c-26c642b02a941fb7ffe8262b6fcfa638] (1) In this Schedule references to a financial penalty include a reference to an amount which is required to be paid under section 10(2), (5) or (8) or 11(1).
 
 (2) In this Schedule references to imposing a financial penalty include a reference to requiring the payment of such an amount.
 
@@ -1374,7 +1374,7 @@ Section 8
 
 ### Notice of intent
 
-**2.**[^key-0f755d1bfb42253a4a96e816a38b43aa] (1) This paragraph applies where an enforcement authority proposes to impose a financial penalty for a breach of section 1 (prohibitions applying to landlords) or 2 (prohibitions applying to letting agents) or Schedule 2 (treatment of holding deposit).
+**2.**[^c-0f755d1bfb42253a4a96e816a38b43aa] (1) This paragraph applies where an enforcement authority proposes to impose a financial penalty for a breach of section 1 (prohibitions applying to landlords) or 2 (prohibitions applying to letting agents) or Schedule 2 (treatment of holding deposit).
 
 (2) Before imposing the financial penalty, the enforcement authority must serve a notice on the landlord or letting agent of its proposal to do so (a “notice of intent”).
 
@@ -1394,11 +1394,11 @@ Section 8
 
 ### Right to make representations
 
-**3.**[^key-867ae6f2640913cc1607673c9c3edce6] A person who receives a notice of intent may, within the period of 28 days beginning with the day after the day on which the notice of intent was served, make written representations to the authority about the proposal to impose a financial penalty on that person.
+**3.**[^c-867ae6f2640913cc1607673c9c3edce6] A person who receives a notice of intent may, within the period of 28 days beginning with the day after the day on which the notice of intent was served, make written representations to the authority about the proposal to impose a financial penalty on that person.
 
 ### Final notice
 
-**4.**[^key-91ed4785edf1a2fd984d887ce7959111] (1) After the end of the period mentioned in paragraph 3 the enforcement authority must—
+**4.**[^c-91ed4785edf1a2fd984d887ce7959111] (1) After the end of the period mentioned in paragraph 3 the enforcement authority must—
 
 - (a) decide whether to impose a financial penalty on the person, and
 - (b) if it decides to do so, decide the amount of the penalty.
@@ -1426,7 +1426,7 @@ Section 8
 
 ### Withdrawal or amendment of notice
 
-**5.**[^key-c346e7068c92e8d8a8da966029d347d5] (1) The enforcement authority may at any time—
+**5.**[^c-c346e7068c92e8d8a8da966029d347d5] (1) The enforcement authority may at any time—
 
 - (a) withdraw a notice of intent or final notice,
 - (b) reduce an amount specified in a notice of intent or final notice, or
@@ -1436,7 +1436,7 @@ Section 8
 
 ### Appeals
 
-**6.**[^key-c753db335f01ba437ef1bde6e2179c7e] (1) A person on whom a final notice is served may appeal to the First-tier Tribunal against—
+**6.**[^c-c753db335f01ba437ef1bde6e2179c7e] (1) A person on whom a final notice is served may appeal to the First-tier Tribunal against—
 
 - (a) the decision to impose the penalty, or
 - (b) the amount of the penalty.
@@ -1458,7 +1458,7 @@ Section 8
 
 ### Recovery of financial penalty
 
-**7.**[^key-32330afaaebfb771bb70fcb1223098f2] (1) This paragraph applies if a person who is liable to pay a financial penalty under section 8 does not pay the whole or any part of that financial penalty in accordance with the final notice imposing that penalty.
+**7.**[^c-32330afaaebfb771bb70fcb1223098f2] (1) This paragraph applies if a person who is liable to pay a financial penalty under section 8 does not pay the whole or any part of that financial penalty in accordance with the final notice imposing that penalty.
 
 (2) The enforcement authority which imposed the financial penalty may recover the penalty or part on the order of the county court as if it were payable under an order of that court.
 
@@ -1475,23 +1475,23 @@ is evidence of that fact.
 
 ### Recovery of prohibited payment etc
 
-**8.**[^key-392c56416e7f99d5c08789a0daddff27] (1) This paragraph applies if a person who is liable to pay an amount under section 10(2), (5) or (8) or 11(1) does not pay the whole or any part of that amount in accordance with the final notice requiring payment of that amount.
+**8.**[^c-392c56416e7f99d5c08789a0daddff27] (1) This paragraph applies if a person who is liable to pay an amount under section 10(2), (5) or (8) or 11(1) does not pay the whole or any part of that amount in accordance with the final notice requiring payment of that amount.
 
 (2) The relevant person may recover that amount or part on the order of the county court as if it were payable under an order of that court.
 
 ### Assistance to recover prohibited payment etc
 
-**9.**[^key-10423c2421011e440ce43ee6a9157a44] (1) An enforcement authority may help a relevant person to make an application under paragraph 8(2).
+**9.**[^c-10423c2421011e440ce43ee6a9157a44] (1) An enforcement authority may help a relevant person to make an application under paragraph 8(2).
 
 (2) An enforcement authority may, for example, help the relevant person to apply by conducting proceedings or by giving advice to the relevant person.
 
 ### Proceeds of financial penalties
 
-**10.**[^key-1001416224d83549557e6ded69e4ba67] Where an enforcement authority imposes a financial penalty under this Act, it may apply the proceeds towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions under this Act or otherwise in relation to the private rented sector.
+**10.**[^c-1001416224d83549557e6ded69e4ba67] Where an enforcement authority imposes a financial penalty under this Act, it may apply the proceeds towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out any of its enforcement functions under this Act or otherwise in relation to the private rented sector.
 
-**11.**[^key-4cd0fc58ce36cd57de7426f8c09a9980] Any proceeds of a financial penalty imposed under this Act which are not applied in accordance with paragraph 10 must be paid to the Secretary of State.
+**11.**[^c-4cd0fc58ce36cd57de7426f8c09a9980] Any proceeds of a financial penalty imposed under this Act which are not applied in accordance with paragraph 10 must be paid to the Secretary of State.
 
-**12.**[^key-a6ef4f6d11f4e785abf12032a4687425] (1) In paragraph 10, “**enforcement functions in relation to the private rented sector**” means enforcement functions relating to—
+**12.**[^c-a6ef4f6d11f4e785abf12032a4687425] (1) In paragraph 10, “**enforcement functions in relation to the private rented sector**” means enforcement functions relating to—
 
 - (a) residential premises in England that are let, or intended to be let, under a tenancy,
 - (b) the common parts of such premises,
@@ -1503,187 +1503,187 @@ is evidence of that fact.
 
 (3) For the purposes of this paragraph, “**tenancy**” means—
 
-- (a) a tenancy, whether or not the tenancy is an assured shorthold tenancy *(affected by repeal, see note)*[^key-d881b9f4be68fcb00c34ff970ddaf19a] assured tenancy, or
+- (a) a tenancy, whether or not the tenancy is an assured shorthold tenancy *(affected by repeal, see note)*[^c-d881b9f4be68fcb00c34ff970ddaf19a] assured tenancy, or
 - (b) a licence to occupy.
 
 ## Annotations
 
-[^key-50e95645415ae5fb1ab7a057aed07f22]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/4/section/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/a)
+[^c-50e95645415ae5fb1ab7a057aed07f22]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/4/section/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/a)
 
-[^key-f1b741941bbad1ff4b71899a5e1ae87d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/4/section/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/b)
+[^c-f1b741941bbad1ff4b71899a5e1ae87d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/4/section/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/b)
 
 [^c23615951]: Commencement: [S. 3(2)-(7)](https://www.legislation.gov.uk/ukpga/2019/4/section/3/2) in force at Royal Assent, see [s. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/3/a)
 
-[^key-10b6a55e717739a8be22844ec64da292]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/3/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/c)
+[^c-10b6a55e717739a8be22844ec64da292]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/3/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/c)
 
-[^key-f8771dfbc01bfe158699947668f2bd01]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/4/section/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/d)
+[^c-f8771dfbc01bfe158699947668f2bd01]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/4/section/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/d)
 
-[^key-91a4eb600f3eb642819b2c413272a852]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/4/section/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/e)
+[^c-91a4eb600f3eb642819b2c413272a852]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/4/section/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/e)
 
-[^key-67731dda672ca00e8248e2ffb66a8aff]: Textual amendment: [Ss. 5A](https://www.legislation.gov.uk/ukpga/2019/4/section/5A), [5B](https://www.legislation.gov.uk/ukpga/2019/4/section/5B) and cross-heading inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-67731dda672ca00e8248e2ffb66a8aff]: Textual amendment: [Ss. 5A](https://www.legislation.gov.uk/ukpga/2019/4/section/5A), [5B](https://www.legislation.gov.uk/ukpga/2019/4/section/5B) and cross-heading inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-c92553ee57940fce1c8e929429b3992a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/4/section/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/f)
+[^c-c92553ee57940fce1c8e929429b3992a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/4/section/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/f)
 
-[^key-5f5687e66aae886b89d46facbc074c6c]: Textual amendment: Word in [s. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/6/1/b) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/a/i), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-5f5687e66aae886b89d46facbc074c6c]: Textual amendment: Word in [s. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/6/1/b) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/a/i), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-8113b14c4023a7d7b2a10b8a5162549d]: Textual amendment: [S. 6(1)(ba)](https://www.legislation.gov.uk/ukpga/2019/4/section/6/1/ba) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/a/i), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-8113b14c4023a7d7b2a10b8a5162549d]: Textual amendment: [S. 6(1)(ba)](https://www.legislation.gov.uk/ukpga/2019/4/section/6/1/ba) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/a/i), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-0bfbbbd07d6a707b0fd3c0b4d888e5e7]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/6/3) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/a/ii), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-0bfbbbd07d6a707b0fd3c0b4d888e5e7]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/6/3) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/a/ii), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-5e2580898cf3bb42324b43a0198c3788]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/4/section/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/g)
+[^c-5e2580898cf3bb42324b43a0198c3788]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/4/section/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/g)
 
-[^key-9222e939be265c1b1af838c1315d16fd]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/7/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-9222e939be265c1b1af838c1315d16fd]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/7/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-f0044ea18e7b36705a1ba7240908005f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/4/section/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/h)
+[^c-f0044ea18e7b36705a1ba7240908005f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2019/4/section/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/h)
 
-[^key-b76bca587eb23f569c443ffcd82cab83]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/8/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/c), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-b76bca587eb23f569c443ffcd82cab83]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/8/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/c), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-8783e66a2a1c3154017c8e57135fa92e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/4/section/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/i)
+[^c-8783e66a2a1c3154017c8e57135fa92e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/4/section/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/i)
 
-[^key-c25a9851f033575590d022712416affe]: Textual amendment: Words in [s. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/10/1/a) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(d)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/d/i), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-c25a9851f033575590d022712416affe]: Textual amendment: Words in [s. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/10/1/a) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(d)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/d/i), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-aa0f7e65de6208643de244dbc11d8e61]: Textual amendment: [S. 10(2A)](https://www.legislation.gov.uk/ukpga/2019/4/section/10/2A) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/d/ii), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-aa0f7e65de6208643de244dbc11d8e61]: Textual amendment: [S. 10(2A)](https://www.legislation.gov.uk/ukpga/2019/4/section/10/2A) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(d)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/d/ii), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-36eaff3fc9b3c215d2e858bc3c100dcf]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/10/3) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(d)(iii)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/d/iii), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-36eaff3fc9b3c215d2e858bc3c100dcf]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/10/3) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(d)(iii)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/d/iii), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-d2da877a24be8a95b2b71f9afc727db7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/4/section/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/j)
+[^c-d2da877a24be8a95b2b71f9afc727db7]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/4/section/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/j)
 
-[^key-64ef1a362be46a797c3d238d5d2b0f7f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/4/section/12) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/k)
+[^c-64ef1a362be46a797c3d238d5d2b0f7f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/4/section/12) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/k)
 
-[^key-1415bfd22a919e03005b2c06bae7bc7d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/4/section/13) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/l)
+[^c-1415bfd22a919e03005b2c06bae7bc7d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/4/section/13) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/l)
 
-[^key-4de0ab4ec5f14db1e7033cfcb240c964]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/4/section/14) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/m)
+[^c-4de0ab4ec5f14db1e7033cfcb240c964]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/4/section/14) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/m)
 
-[^key-67217e2a64a63e624562c964e9165ba1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2019/4/section/15) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/n)
+[^c-67217e2a64a63e624562c964e9165ba1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2019/4/section/15) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/n)
 
-[^key-9baeea6dc0bdbae95ffbb4f56f4399e7]: Textual amendment: Words in [s. 15(1)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/15/1/a) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(e)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/e), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-9baeea6dc0bdbae95ffbb4f56f4399e7]: Textual amendment: Words in [s. 15(1)(a)](https://www.legislation.gov.uk/ukpga/2019/4/section/15/1/a) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(5)(e)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/5/e), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-4f9ce75efb32be5e4ec2221b103a0f26]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/4/section/16) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/o)
+[^c-4f9ce75efb32be5e4ec2221b103a0f26]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/4/section/16) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/o)
 
-[^key-3c4a0a3839a7c9c6055d83fab306aed4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2019/4/section/17) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/p)
+[^c-3c4a0a3839a7c9c6055d83fab306aed4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2019/4/section/17) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/p)
 
-[^key-eed009483a7fc714b38763a3e056e019]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2019/4/section/17) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/2), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-eed009483a7fc714b38763a3e056e019]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2019/4/section/17) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/2), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-2980e673766bc2fa18fef61ef6220b11]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2019/4/section/18) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/q)
+[^c-2980e673766bc2fa18fef61ef6220b11]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2019/4/section/18) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/q)
 
-[^key-c8079b4d0d52aed207e63aec1068492e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2019/4/section/19) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/r)
+[^c-c8079b4d0d52aed207e63aec1068492e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2019/4/section/19) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/r)
 
-[^key-4ba6c00ce512993764e2e98a3bfdd2b5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2019/4/section/20) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/s)
+[^c-4ba6c00ce512993764e2e98a3bfdd2b5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2019/4/section/20) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/s)
 
-[^key-147f819d15a0ae290b9e61d3f7232ddb]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/1)[(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/3) in force at 1.4.2019 by [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/a)
+[^c-147f819d15a0ae290b9e61d3f7232ddb]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/1)[(3)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/3) in force at 1.4.2019 by [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/a)
 
-[^key-948b7ace728d374630ca8ffdf83258bb]: Commencement: [S. 21(2)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/t)
+[^c-948b7ace728d374630ca8ffdf83258bb]: Commencement: [S. 21(2)](https://www.legislation.gov.uk/ukpga/2019/4/section/21/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/t)
 
-[^key-d45b63673288f1ed1f26d0fafc497f12]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/4/section/22) in force at 14.2.2019 by [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
+[^c-d45b63673288f1ed1f26d0fafc497f12]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2019/4/section/22) in force at 14.2.2019 by [S.I. 2019/260](https://www.legislation.gov.uk/uksi/2019/260), [reg. 2](https://www.legislation.gov.uk/uksi/2019/260/regulation/2)
 
-[^key-12910fb9d64349170816f8c9b85b9ab7]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2019/4/section/23) in force at 1.4.2019 by [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
+[^c-12910fb9d64349170816f8c9b85b9ab7]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2019/4/section/23) in force at 1.4.2019 by [S.I. 2019/428](https://www.legislation.gov.uk/uksi/2019/428), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/428/regulation/2/b)
 
 [^c23615961]: Commencement: S. 24(4)(5) in force at Royal Assent, see s. 34(3)(c)
 
-[^key-52e34ddc796394ab61c726732f1f2d28]: Commencement: S. 24(1)-(3)(6) in force at 15.4.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/a)
+[^c-52e34ddc796394ab61c726732f1f2d28]: Commencement: S. 24(1)-(3)(6) in force at 15.4.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/a)
 
-[^key-bd7dc6b799dc1844fc4a97834d313549]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2019/4/section/25) in force at 15.4.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/b)
+[^c-bd7dc6b799dc1844fc4a97834d313549]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2019/4/section/25) in force at 15.4.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/b)
 
-[^key-60ea41fd1fa9a0ae6bd03db2eddd5465]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2019/4/section/26) in force at 15.4.2019 for specified purposes by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/c)
+[^c-60ea41fd1fa9a0ae6bd03db2eddd5465]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2019/4/section/26) in force at 15.4.2019 for specified purposes by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/c)
 
-[^key-01bc062a7545d6a98ce0196b89ea20f3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2019/4/section/26) in force at 1.6.2019 in so far as not already in force by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/u)
+[^c-01bc062a7545d6a98ce0196b89ea20f3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2019/4/section/26) in force at 1.6.2019 in so far as not already in force by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/u)
 
-[^key-e4333147c355178acac82916dec9ffa0]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2019/4/section/27) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/v)
+[^c-e4333147c355178acac82916dec9ffa0]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2019/4/section/27) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/v)
 
 [^c23615971]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) in force at Royal Assent, see [s. 34(3)(d)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/3/d)
 
-[^key-37deaef78953a29bd58b3ffed78649b5]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/3/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-37deaef78953a29bd58b3ffed78649b5]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/3/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-518d43fcaf1d5cfbe9b027df590d6e77]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/3/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-518d43fcaf1d5cfbe9b027df590d6e77]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/3/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-330d75eb814d7d5f5ac77e9b12fc0037]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/3/c), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-330d75eb814d7d5f5ac77e9b12fc0037]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/3/c), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-2396766e1fe9380f4fc034b1ec8d2092]: Commencement: [S. 28(2)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/w)
+[^c-2396766e1fe9380f4fc034b1ec8d2092]: Commencement: [S. 28(2)](https://www.legislation.gov.uk/ukpga/2019/4/section/28/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/w)
 
-[^key-cb8db54034bbd0ae0445a644a7822f00]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2019/4/section/29) in force at 15.4.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
+[^c-cb8db54034bbd0ae0445a644a7822f00]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2019/4/section/29) in force at 15.4.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/857/regulation/2/d)
 
 [^c23615981]: Commencement: [S. 30(12)](https://www.legislation.gov.uk/ukpga/2019/4/section/30/12) in force at Royal Assent, see [s. 34(3)(e)](https://www.legislation.gov.uk/ukpga/2019/4/section/34/3/e)
 
-[^key-a3c211bbb39cedbcae9ddb7daeee276a]: Commencement: [S. 30(1)-(11)](https://www.legislation.gov.uk/ukpga/2019/4/section/30/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(x)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/x)
+[^c-a3c211bbb39cedbcae9ddb7daeee276a]: Commencement: [S. 30(1)-(11)](https://www.legislation.gov.uk/ukpga/2019/4/section/30/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(x)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/x)
 
-[^key-393239b4681476bf33f7e5bc9e4bb802]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2019/4/section/32) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(y)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/y)
+[^c-393239b4681476bf33f7e5bc9e4bb802]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2019/4/section/32) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(y)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/y)
 
-[^key-89d431fa51d6318b3c4d1555fe35bf2e]: Textual amendment: Words in [s. 32(3)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/32/3/b) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-89d431fa51d6318b3c4d1555fe35bf2e]: Textual amendment: Words in [s. 32(3)(b)](https://www.legislation.gov.uk/ukpga/2019/4/section/32/3/b) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-db35c94f6058d831e5eb3e6c02f656b4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-db35c94f6058d831e5eb3e6c02f656b4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-67a6086ea18bb5f8df5558b62edd596f]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/1/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/1/1B) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/2), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-67a6086ea18bb5f8df5558b62edd596f]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/1/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/1/1B) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/2), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-835924b0c4c93f66bd4adf53e90d4c94]: Textual amendment: Sch. 1 para. 1A and cross-heading substituted for Sch. 1 para. 1(2) (and thereby sub-paras. (3)-(8) formerly in para. 1 become Sch. 1 para. 1A(3)-(8) (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/3), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-835924b0c4c93f66bd4adf53e90d4c94]: Textual amendment: Sch. 1 para. 1A and cross-heading substituted for Sch. 1 para. 1(2) (and thereby sub-paras. (3)-(8) formerly in para. 1 become Sch. 1 para. 1A(3)-(8) (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/9/3), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
-[^key-43479262b64001a3a25e672daa88b17e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-43479262b64001a3a25e672daa88b17e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-fe14a5baaad509d0867f6551b6cc75d6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/3) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-fe14a5baaad509d0867f6551b6cc75d6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/3) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-2a5760c75bb6d1193e6c75959e5ada67]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-2a5760c75bb6d1193e6c75959e5ada67]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-3ee993682d7aca33999fd778981b4fa9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-3ee993682d7aca33999fd778981b4fa9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-d54609047e1b1ffeb63c6fdf650d14c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-d54609047e1b1ffeb63c6fdf650d14c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-e6abb09bdafb31c58551bee1c4f86dd8]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-e6abb09bdafb31c58551bee1c4f86dd8]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-4189adab8937193f10de2fa6aa5e5ac1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-4189adab8937193f10de2fa6aa5e5ac1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-50433c60c1aee19f286a6a9cbb8eab0e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/9) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-50433c60c1aee19f286a6a9cbb8eab0e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/9) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-81e2182dd47f8259721811afd51156c6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-81e2182dd47f8259721811afd51156c6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-d343e140c3d37a9caae62a60efb49a08]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
+[^c-d343e140c3d37a9caae62a60efb49a08]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(z)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/z)
 
-[^key-39716abb1a5d8f2781e1a39d8f6a9c63]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-39716abb1a5d8f2781e1a39d8f6a9c63]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-cefbd35d5de06f7916acedf199afb9b2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-cefbd35d5de06f7916acedf199afb9b2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-f7afc6529facaaa73380e6aa379a1cfc]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/3) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-f7afc6529facaaa73380e6aa379a1cfc]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/3) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-f77bc73aee6f1dea3f1553888222ba2e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-f77bc73aee6f1dea3f1553888222ba2e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-b2b51bcdc21c522d3fa1b6e0c9a85976]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-b2b51bcdc21c522d3fa1b6e0c9a85976]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-226c13d727e5d680869c032bfca68017]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-226c13d727e5d680869c032bfca68017]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-3ef4771e379a1996786ec3660598005f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-3ef4771e379a1996786ec3660598005f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-ae815787e429ea1ac2c0b4145bd152e6]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-ae815787e429ea1ac2c0b4145bd152e6]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-5055853822ccc19427b20ca1551d0924]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/9) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-5055853822ccc19427b20ca1551d0924]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/9) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-1581afafb74ae84898403f64e6aafbb2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-1581afafb74ae84898403f64e6aafbb2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-7b219b0adba9683aea1b0b51ed268054]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-7b219b0adba9683aea1b0b51ed268054]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-7c825b62e17cc76f5d7dfc55a1bf8c66]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/12) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-7c825b62e17cc76f5d7dfc55a1bf8c66]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/12) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-3459929c630cc1b3eda09c87d65865b8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/13) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
+[^c-3459929c630cc1b3eda09c87d65865b8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/4/schedule/2/paragraph/13) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/aa)
 
-[^key-26c642b02a941fb7ffe8262b6fcfa638]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-26c642b02a941fb7ffe8262b6fcfa638]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/1) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-0f755d1bfb42253a4a96e816a38b43aa]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-0f755d1bfb42253a4a96e816a38b43aa]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/2) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-867ae6f2640913cc1607673c9c3edce6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/3) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-867ae6f2640913cc1607673c9c3edce6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/3) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-91ed4785edf1a2fd984d887ce7959111]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-91ed4785edf1a2fd984d887ce7959111]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/4) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-c346e7068c92e8d8a8da966029d347d5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-c346e7068c92e8d8a8da966029d347d5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/5) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-c753db335f01ba437ef1bde6e2179c7e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-c753db335f01ba437ef1bde6e2179c7e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/6) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-32330afaaebfb771bb70fcb1223098f2]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-32330afaaebfb771bb70fcb1223098f2]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/7) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-392c56416e7f99d5c08789a0daddff27]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-392c56416e7f99d5c08789a0daddff27]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/8) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-10423c2421011e440ce43ee6a9157a44]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/9) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-10423c2421011e440ce43ee6a9157a44]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/9) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-1001416224d83549557e6ded69e4ba67]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-1001416224d83549557e6ded69e4ba67]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/10) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-4cd0fc58ce36cd57de7426f8c09a9980]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-4cd0fc58ce36cd57de7426f8c09a9980]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/11) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-a6ef4f6d11f4e785abf12032a4687425]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/12) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
+[^c-a6ef4f6d11f4e785abf12032a4687425]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/12) in force at 1.6.2019 by [S.I. 2019/857](https://www.legislation.gov.uk/uksi/2019/857), [reg. 3(bb)](https://www.legislation.gov.uk/uksi/2019/857/regulation/3/bb)
 
-[^key-d881b9f4be68fcb00c34ff970ddaf19a]: Textual amendment: Words in [Sch. 3 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/12/3/a) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/5), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-d881b9f4be68fcb00c34ff970ddaf19a]: Textual amendment: Words in [Sch. 3 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2019/4/schedule/3/paragraph/12/3/a) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/27/5), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/12), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

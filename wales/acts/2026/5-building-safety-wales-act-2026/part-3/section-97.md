@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Appeal against compliance notice[^key-fb2ab6a68e2531858f747a533a83e7a7]
+## 97. Appeal against compliance notice[^c-fb2ab6a68e2531858f747a533a83e7a7]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb2ab6a68e2531858f747a533a83e7a7]: Commencement: S. 97 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-fb2ab6a68e2531858f747a533a83e7a7]: Commencement: S. 97 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

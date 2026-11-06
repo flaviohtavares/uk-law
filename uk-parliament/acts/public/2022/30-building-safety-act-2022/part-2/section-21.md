@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Report on certain safety-related matters[^key-c6998c123f8eb6beb15594ca52c07b56][^key-2b985683234347ac29adbd22b9bc97ac]
+## 21. Report on certain safety-related matters[^c-c6998c123f8eb6beb15594ca52c07b56][^c-2b985683234347ac29adbd22b9bc97ac]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ the cost-benefit analysis need not estimate them, but must include a statement o
 
 ## Annotations
 
-[^key-c6998c123f8eb6beb15594ca52c07b56]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-c6998c123f8eb6beb15594ca52c07b56]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-2b985683234347ac29adbd22b9bc97ac]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/30/section/21) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/d)
+[^c-2b985683234347ac29adbd22b9bc97ac]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/30/section/21) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/d)

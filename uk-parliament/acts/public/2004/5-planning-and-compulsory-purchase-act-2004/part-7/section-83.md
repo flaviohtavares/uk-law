@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Urgent works relating to Crown land[^key-59ecc0e7639bcc44e77db8c8c81655c5][^key-597eaa6b5f89bda56d10416899432427]
+## 83. Urgent works relating to Crown land[^c-59ecc0e7639bcc44e77db8c8c81655c5][^c-597eaa6b5f89bda56d10416899432427]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59ecc0e7639bcc44e77db8c8c81655c5]: Commencement: S. 83 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-59ecc0e7639bcc44e77db8c8c81655c5]: Commencement: S. 83 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-597eaa6b5f89bda56d10416899432427]: Commencement: S. 83 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-597eaa6b5f89bda56d10416899432427]: Commencement: S. 83 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

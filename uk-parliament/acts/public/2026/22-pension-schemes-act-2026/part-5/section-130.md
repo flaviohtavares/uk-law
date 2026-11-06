@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Regulations: general[^key-19525f62b3671d4ebf4e90b923edcb16]
+## 130. Regulations: general[^c-19525f62b3671d4ebf4e90b923edcb16]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19525f62b3671d4ebf4e90b923edcb16]: Commencement: S. 130 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)
+[^c-19525f62b3671d4ebf4e90b923edcb16]: Commencement: S. 130 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) (Amendment) (No. 2) Regulations 2020 (revoked)[^key-715b0256e07f7767552de65f52911af8]
+The Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) (Amendment) (No. 2) Regulations 2020 (revoked)[^c-715b0256e07f7767552de65f52911af8]
 
 Approved by both Houses of Parliament
 
@@ -48,24 +48,24 @@ Coming into force
 
 at 12.00 p.m. on 2nd September 2020
 
-[^key-715b0256e07f7767552de65f52911af8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-715b0256e07f7767552de65f52911af8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-715b0256e07f7767552de65f52911af8]
+## 1. Citation, commencement and interpretation[^c-715b0256e07f7767552de65f52911af8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Blackburn and Bradford Regulations[^key-715b0256e07f7767552de65f52911af8]
+## 2. Amendment of the Blackburn and Bradford Regulations[^c-715b0256e07f7767552de65f52911af8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-715b0256e07f7767552de65f52911af8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-715b0256e07f7767552de65f52911af8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-715b0256e07f7767552de65f52911af8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-715b0256e07f7767552de65f52911af8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-715b0256e07f7767552de65f52911af8]: Textual amendment: Regulations revoked (22.9.2020 at 12.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (Protected Areas and Linked Childcare Households) (Amendment) Regulations 2020 (S.I. 2020/1019)](https://www.legislation.gov.uk/uksi/2020/1019), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1019/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2020/1019/regulation/6/1/c)
+[^c-715b0256e07f7767552de65f52911af8]: Textual amendment: Regulations revoked (22.9.2020 at 12.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (Protected Areas and Linked Childcare Households) (Amendment) Regulations 2020 (S.I. 2020/1019)](https://www.legislation.gov.uk/uksi/2020/1019), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1019/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2020/1019/regulation/6/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Countries or territories in which consular marriage between civil partners may take place[^key-10595791c01501970471e5e3b0fc6bbd]
+## 17. Countries or territories in which consular marriage between civil partners may take place[^c-10595791c01501970471e5e3b0fc6bbd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A registration officer may facilitate a civil partnership being changed into a m
 
 ## Annotations
 
-[^key-10595791c01501970471e5e3b0fc6bbd]: Commencement: Art. 17 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-10595791c01501970471e5e3b0fc6bbd]: Commencement: Art. 17 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

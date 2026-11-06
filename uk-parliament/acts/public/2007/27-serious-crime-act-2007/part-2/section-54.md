@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Institution of proceedings etc. for an offence under this Part[^key-98956eeb9e694cc1088f27a5832540e5][^key-8fac712985455041598b9ce15117ddd2][^key-8fac712985455041598b9ce15117ddd2]
+## 54. Institution of proceedings etc. for an offence under this Part[^c-98956eeb9e694cc1088f27a5832540e5][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 
 *Extent: E+W+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) Any consent to proceedings required as a result of this section is in addition to any consent required by section 53.
 
-(5) No proceedings for an offence under this Part are to be instituted against a person providing information society services who is established in an EEA State [^key-f7e817361bd5e17d8d880850f29f108b]... unless the derogation condition is satisfied.
+(5) No proceedings for an offence under this Part are to be instituted against a person providing information society services who is established in an EEA State [^c-f7e817361bd5e17d8d880850f29f108b]... unless the derogation condition is satisfied.
 
 (6) The derogation condition is satisfied where the institution of proceedings—
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-98956eeb9e694cc1088f27a5832540e5]: Commencement: S. 54 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-98956eeb9e694cc1088f27a5832540e5]: Commencement: S. 54 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
+[^c-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
 
-[^key-f7e817361bd5e17d8d880850f29f108b]: Textual amendment: Words in [s. 54(5)](https://www.legislation.gov.uk/ukpga/2007/27/section/54/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7e817361bd5e17d8d880850f29f108b]: Textual amendment: Words in [s. 54(5)](https://www.legislation.gov.uk/ukpga/2007/27/section/54/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

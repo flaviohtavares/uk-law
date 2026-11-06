@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29H. Movement of ships[^key-b0567ee47c496d3437e7b4d3990e3ad9]
+## 29H. Movement of ships[^c-b0567ee47c496d3437e7b4d3990e3ad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0567ee47c496d3437e7b4d3990e3ad9]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2019/600/part/5B) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/748/regulation/28)
+[^c-b0567ee47c496d3437e7b4d3990e3ad9]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2019/600/part/5B) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2022/748/regulation/28)

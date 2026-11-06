@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Restrictions relating to restraint orders[^key-5654b753e0700506f649281b2dfc2f3e]
+## 103. Restrictions relating to restraint orders[^c-5654b753e0700506f649281b2dfc2f3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 (5) Before exercising any power conferred by paragraph (4), the court must give an opportunity to be heard to—
 
 - (a) the relevant Director, and
-- (b) any receiver appointed in respect of the property under article 101 or 113[^key-45ec0f5fa6dcd73ca2414186b6889819].
+- (b) any receiver appointed in respect of the property under article 101 or 113[^c-45ec0f5fa6dcd73ca2414186b6889819].
 
 ## Annotations
 
-[^key-5654b753e0700506f649281b2dfc2f3e]: Commencement: [Art. 103](https://www.legislation.gov.uk/uksi/2005/3181/article/103) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-5654b753e0700506f649281b2dfc2f3e]: Commencement: [Art. 103](https://www.legislation.gov.uk/uksi/2005/3181/article/103) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-45ec0f5fa6dcd73ca2414186b6889819]: Textual amendment: Words in [art. 103(5)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/103/5/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(22)](https://www.legislation.gov.uk/uksi/2008/302/article/2/22)
+[^c-45ec0f5fa6dcd73ca2414186b6889819]: Textual amendment: Words in [art. 103(5)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/103/5/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(22)](https://www.legislation.gov.uk/uksi/2008/302/article/2/22)

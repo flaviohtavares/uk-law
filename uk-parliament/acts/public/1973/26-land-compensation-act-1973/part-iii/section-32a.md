@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Home loss payments: exclusions[^key-6906f351f99a59e3412466d10caf98e9]
+## 32A. Home loss payments: exclusions[^c-6906f351f99a59e3412466d10caf98e9]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6906f351f99a59e3412466d10caf98e9]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/1973/26/section/32A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 111(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/3), [118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e) (with [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-6906f351f99a59e3412466d10caf98e9]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/1973/26/section/32A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 111(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/3), [118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e) (with [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/6)[(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/111/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

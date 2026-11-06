@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Inspections under section 53: best regulatory practice[^key-52e6bd769693d5fe3e533ab9846e6aca][^key-d54c9cc1fb040dba395fe9e88084efac]
+## 54. Inspections under section 53: best regulatory practice[^c-52e6bd769693d5fe3e533ab9846e6aca][^c-d54c9cc1fb040dba395fe9e88084efac]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52e6bd769693d5fe3e533ab9846e6aca]: Commencement: S. 54 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-52e6bd769693d5fe3e533ab9846e6aca]: Commencement: S. 54 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-d54c9cc1fb040dba395fe9e88084efac]: Commencement: S. 54 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-d54c9cc1fb040dba395fe9e88084efac]: Commencement: S. 54 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Interpretation[^key-2bf16ac4c5dc818e6b3225b5226fc16d]
+## 30. Interpretation[^c-2bf16ac4c5dc818e6b3225b5226fc16d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf16ac4c5dc818e6b3225b5226fc16d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/16/section/30) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-2bf16ac4c5dc818e6b3225b5226fc16d]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2006/16/section/30) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

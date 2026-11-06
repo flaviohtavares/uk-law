@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Head teachers[^c398393][^key-59d8a8535a42ee076c05ebf307431ee9]
+## 135. Head teachers[^c398393][^c-59d8a8535a42ee076c05ebf307431ee9]
 
 *Extent: E+W*
 
@@ -33,13 +33,13 @@ summary: ''
 
 (5) In this section “**school**” means—
 
-- (a) a school maintained by a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020], or
+- (a) a school maintained by a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020], or
 - (b) a special school not so maintained.
 
 ## Annotations
 
 [^c398393]: Commencement: S. 135 partly in force; s. 135 not in force at Royal Assent, see s. 216; s. 135 in force for W. at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I)
 
-[^key-59d8a8535a42ee076c05ebf307431ee9]: Commencement: S. 135 in force at 1.10.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 5](https://www.legislation.gov.uk/uksi/2003/1667/article/5)
+[^c-59d8a8535a42ee076c05ebf307431ee9]: Commencement: S. 135 in force at 1.10.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 5](https://www.legislation.gov.uk/uksi/2003/1667/article/5)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

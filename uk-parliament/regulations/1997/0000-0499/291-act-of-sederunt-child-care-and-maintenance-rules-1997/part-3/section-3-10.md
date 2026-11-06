@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.10. Provision where safeguarder intimates his intention not to become a party to the proceedings[^key-d05d92d0fc1a272944dc5e698df6b58b]
+## 3.10. Provision where safeguarder intimates his intention not to become a party to the proceedings[^c-d05d92d0fc1a272944dc5e698df6b58b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d05d92d0fc1a272944dc5e698df6b58b]: Textual amendment: Rule 3.10 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(13)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/13) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-d05d92d0fc1a272944dc5e698df6b58b]: Textual amendment: Rule 3.10 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(13)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/13) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Repeal of section 100A[^key-565257934a6aa662c19bc160cb58b7b3]
+## 32. Repeal of section 100A[^c-565257934a6aa662c19bc160cb58b7b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit section 100A (exercise of powers where UK is host member state) [^c23674851
 
 ## Annotations
 
-[^key-565257934a6aa662c19bc160cb58b7b3]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-565257934a6aa662c19bc160cb58b7b3]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23674851]: Marginal citation: Inserted by the Companies Act 2006 section 1271.

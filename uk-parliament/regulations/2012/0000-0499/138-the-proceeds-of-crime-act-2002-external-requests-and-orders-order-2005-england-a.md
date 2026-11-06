@@ -48,13 +48,13 @@ The Secretary of State, in exercise of the powers conferred by articles 5, 47(3)
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-791152f90384fc64b04c4f7bed1cf140]
+### 1. Citation, commencement and extent[^c-791152f90384fc64b04c4f7bed1cf140]
 
 (1) This Order may be cited as the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) Order 2012 and shall come into force on 29th February 2012.
 
 (2) This Order extends to England and Wales.
 
-### 2. Interpretation[^key-a2843126d9ea74b92192045ece119ae4]
+### 2. Interpretation[^c-a2843126d9ea74b92192045ece119ae4]
 
 In this Order—
 
@@ -69,33 +69,33 @@ In this Order—
 
 ### APPEAL TO THE COURT OF APPEAL
 
-#### 3. Initiating procedure[^key-43f6b5b56ebe2ea3d5b87d334071b100]
+#### 3. Initiating procedure[^c-43f6b5b56ebe2ea3d5b87d334071b100]
 
-(1) A person who wishes to obtain the leave of the Court of Appeal to appeal to the Court of Appeal under article 10, 23 , 24B[^key-f5e518568be133c3d429e1d139a29ef5] or 44 of the external requests order shall give notice of application for leave to appeal in such manner as may be directed by rules of court.
+(1) A person who wishes to obtain the leave of the Court of Appeal to appeal to the Court of Appeal under article 10, 23 , 24B[^c-f5e518568be133c3d429e1d139a29ef5] or 44 of the external requests order shall give notice of application for leave to appeal in such manner as may be directed by rules of court.
 
 (2) Notice of application for leave to appeal shall be given within 28 days from the date of the decision appealed against in the case of such an appeal.
 
 (3) The time for giving notice under this article may be extended, either before or after it expires, by the Court of Appeal.
 
-#### 4. Disposal of groundless appeal or application for leave to appeal[^key-0051340332277aa1c3caaeb1ed5cdb56]
+#### 4. Disposal of groundless appeal or application for leave to appeal[^c-0051340332277aa1c3caaeb1ed5cdb56]
 
-If it appears to the registrar that a notice of application for leave to appeal to the Court of Appeal under article 10, 23 , 24B[^key-1329d49aa248eeff7acf2b02b7008629] or 44 of the external requests order does not show any substantial ground of appeal, the registrar may refer the application for leave to the Court of Appeal for summary determination; and where the case is so referred the Court of Appeal may, if it considers that the application for leave is frivolous or vexatious and can be determined without adjourning it for a full hearing, dismiss the application for leave summarily, without calling on anyone to attend the hearing.
+If it appears to the registrar that a notice of application for leave to appeal to the Court of Appeal under article 10, 23 , 24B[^c-1329d49aa248eeff7acf2b02b7008629] or 44 of the external requests order does not show any substantial ground of appeal, the registrar may refer the application for leave to the Court of Appeal for summary determination; and where the case is so referred the Court of Appeal may, if it considers that the application for leave is frivolous or vexatious and can be determined without adjourning it for a full hearing, dismiss the application for leave summarily, without calling on anyone to attend the hearing.
 
-#### 5. Preparation of case for hearing[^key-7ad6a77c1b5450f2308cd3f0dfc24001]
+#### 5. Preparation of case for hearing[^c-7ad6a77c1b5450f2308cd3f0dfc24001]
 
 (1) The registrar shall—
 
-- (a) take all necessary steps for obtaining a hearing of any application for leave to appeal to the Court of Appeal under article 10, 23 , 24B[^key-0ade14629c2b7f2f3eef3236a0d4f922] or 44 of the external requests order of which notice is given to the registrar and which is not referred and dismissed summarily under article 4;
+- (a) take all necessary steps for obtaining a hearing of any application for leave to appeal to the Court of Appeal under article 10, 23 , 24B[^c-0ade14629c2b7f2f3eef3236a0d4f922] or 44 of the external requests order of which notice is given to the registrar and which is not referred and dismissed summarily under article 4;
 - (b) where an application for leave to appeal to the Court of Appeal under article 10, 23 , 24B or 44 of the external requests order is granted, take all necessary steps for obtaining a hearing of an appeal; and
 - (c) obtain and lay before the Court of Appeal in proper form all documents, exhibits and other things which appear necessary for the proper determination of the application for leave to appeal under article 10, 23 , 24B or 44 of the external requests order or the appeal under article 10, 23 , 24B or 44 of the external requests order.
 
-(2) A party to an appeal under article 10, 23 , 24B[^key-a657cd6698296a907e4d8f0945a615a2] or 44 of the external requests order may obtain from the registrar any documents or things, including copies or reproduction of documents, required for his appeal, in accordance with rules of court.
+(2) A party to an appeal under article 10, 23 , 24B[^c-a657cd6698296a907e4d8f0945a615a2] or 44 of the external requests order may obtain from the registrar any documents or things, including copies or reproduction of documents, required for his appeal, in accordance with rules of court.
 
 (3) The registrar may make charges in accordance with such rules of court and with scales and rates fixed from time to time by the Treasury.
 
-#### 6. Presence at hearing[^key-7d5a7ce98588dfd2983fe22811ecefa7]
+#### 6. Presence at hearing[^c-7d5a7ce98588dfd2983fe22811ecefa7]
 
-(1) A person shall be entitled to be present, if he so wishes, on the hearing of his appeal to the Court of Appeal under article 10, 23 , 24B[^key-ab35250ce3fdac3efc7e610d72c4a844] or 44 of the external requests order, although he may be in custody.
+(1) A person shall be entitled to be present, if he so wishes, on the hearing of his appeal to the Court of Appeal under article 10, 23 , 24B[^c-ab35250ce3fdac3efc7e610d72c4a844] or 44 of the external requests order, although he may be in custody.
 
 (2) But a person in custody shall not be entitled to be present—
 
@@ -105,9 +105,9 @@ If it appears to the registrar that a notice of application for leave to appeal 
 
 unless the Court of Appeal gives him leave to be present.
 
-(3) The Court of Appeal may give leave to any other person who wishes to be present on the hearing of an appeal under article 10, 23 , 24B[^key-6a25cca5d69f7424b70ead89b4efbfdc] or 44 of the external requests order.
+(3) The Court of Appeal may give leave to any other person who wishes to be present on the hearing of an appeal under article 10, 23 , 24B[^c-6a25cca5d69f7424b70ead89b4efbfdc] or 44 of the external requests order.
 
-(4) The power of the Court of Appeal to hear any appeal under article 10, 23 , 24B[^key-dff7207557f71d158e0335eba1a15d94] or 44 of the external requests order, or any proceedings preliminary or incidental thereto, may be exercised although any person is for any reason not present.
+(4) The power of the Court of Appeal to hear any appeal under article 10, 23 , 24B[^c-dff7207557f71d158e0335eba1a15d94] or 44 of the external requests order, or any proceedings preliminary or incidental thereto, may be exercised although any person is for any reason not present.
 
 (5) The Court of Appeal may give a live link direction in relation to a hearing at which:
 
@@ -126,9 +126,9 @@ at any time before the beginning of that hearing.
 - (a) must not give a live link direction unless the parties to the appeal have had the opportunity to make representations about the giving of such a direction; and
 - (b) may rescind a live link direction at any time before or during any hearing to which it applies (whether of its own motion or on the application of a party).
 
-#### 7. Evidence[^key-83864854dca3439d5824c704cf3e441b]
+#### 7. Evidence[^c-83864854dca3439d5824c704cf3e441b]
 
-(1) For the purposes of an appeal or application for leave to appeal under article 10, 23 , 24B[^key-f0afc84f07360321dc12ed756f25c119] or 44 of the external requests order, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice—
+(1) For the purposes of an appeal or application for leave to appeal under article 10, 23 , 24B[^c-f0afc84f07360321dc12ed756f25c119] or 44 of the external requests order, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice—
 
 - (a) order the production of any document, exhibit or other thing connected with the proceedings, the production of which appears to it necessary for the determination of the case;
 - (b) order any witness to attend for examination and be examined before the Court of Appeal (whether or not the witness was called in the proceedings from which the appeal lies); and
@@ -150,15 +150,15 @@ at any time before the beginning of that hearing.
 
 (4) Paragraph (1)(c) applies to any evidence of a witness (including the appellant) who is competent but not compellable.
 
-(5) For the purposes of an appeal or application for leave to appeal under article 10, 23 , 24B[^key-63628676c24ec9c06e7c066d6fabdc17] or 44 of the external requests order, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice, order the examination of any witness whose attendance might be required under paragraph (1)(b) to be conducted, in manner provided by rules of court, before any judge or officer of the Court or other person appointed by the Court for the purpose, and allow the admission of any depositions so taken as evidence before the Court.
+(5) For the purposes of an appeal or application for leave to appeal under article 10, 23 , 24B[^c-63628676c24ec9c06e7c066d6fabdc17] or 44 of the external requests order, the Court of Appeal may, if it thinks it necessary or expedient in the interests of justice, order the examination of any witness whose attendance might be required under paragraph (1)(b) to be conducted, in manner provided by rules of court, before any judge or officer of the Court or other person appointed by the Court for the purpose, and allow the admission of any depositions so taken as evidence before the Court.
 
 (6) In paragraph (2)(c) “respondent” includes a person who will be a respondent if leave to appeal is granted.
 
-#### 8. Powers of Court of Appeal which are exercisable by a single judge[^key-06933b50225a284e2e98c2d33977ac35]
+#### 8. Powers of Court of Appeal which are exercisable by a single judge[^c-06933b50225a284e2e98c2d33977ac35]
 
 (1) There may be exercised by a single judge in the same manner as by the Court of Appeal and subject to the same provisions the powers—
 
-- (a) to give leave to appeal to the Court of Appeal under article 10, 23 , 24B[^key-263fcceed0cd72f7bf3957e4fa87d3c5] or 44 of the external requests order;
+- (a) to give leave to appeal to the Court of Appeal under article 10, 23 , 24B[^c-263fcceed0cd72f7bf3957e4fa87d3c5] or 44 of the external requests order;
 - (b) to extend the time within which notice of application for leave to appeal may be given under article 3(3);
 - (c) to allow, under article 6, a person to be present at any proceedings which he would not otherwise be entitled to attend;
 - (d) to give a live link direction under article 6(5);
@@ -167,7 +167,7 @@ at any time before the beginning of that hearing.
 
 (2) If the single judge refuses an application on the part of any party to exercise in his favour any of the powers specified in paragraph (1), the party shall be entitled to have his application determined by the Court of Appeal.
 
-#### 9. Powers of Court of Appeal which are exercisable by the registrar[^key-aca646e541b3b972f5aed8be3a57b873]
+#### 9. Powers of Court of Appeal which are exercisable by the registrar[^c-aca646e541b3b972f5aed8be3a57b873]
 
 (1) The following powers of the Court of Appeal under this Order may be exercised by the registrar—
 
@@ -178,7 +178,7 @@ at any time before the beginning of that hearing.
 
 (2) If the registrar refuses an application on the part of any party to exercise in his favour any of the powers specified in paragraph (1), the party shall be entitled to have his application determined by a single judge.
 
-#### 10. Procedural directions: powers of a single judge and the registrar[^key-abfa5f18122b5fef95e5286d695bccbc]
+#### 10. Procedural directions: powers of a single judge and the registrar[^c-abfa5f18122b5fef95e5286d695bccbc]
 
 (1) The power of the Court of Appeal to determine an application for procedural directions under this Order may be exercised by-
 
@@ -196,7 +196,7 @@ at any time before the beginning of that hearing.
 - (a) when acting under paragraph (1);
 - (b) of his own motion.
 
-#### 11. Appeals against procedural directions[^key-a626048476dc69a4f46e2ea713d95512]
+#### 11. Appeals against procedural directions[^c-a626048476dc69a4f46e2ea713d95512]
 
 (1) If the registrar gives, or refuses to give, procedural directions, a single judge may, on an application to him-
 
@@ -211,14 +211,14 @@ at any time before the beginning of that hearing.
   - (ii) relate to an application for leave to appeal which is to be determined by the Court of Appeal, or
   - (iii) relate to an appeal.
 
-#### 12. Transcripts[^key-0560a6a660c3d29f3ffe25617e8695f3]
+#### 12. Transcripts[^c-0560a6a660c3d29f3ffe25617e8695f3]
 
 (1) Arrangements may be made in accordance with rules of court—
 
-- (a) for the making of a record (whether by means of shorthand notes, by mechanical means or otherwise) of any proceedings in respect of which an appeal lies to the Court of Appeal under article 10, 23 , 24B[^key-2c25544ff7fde334a8a825714fdbc538] or 44 of the external requests order; and
+- (a) for the making of a record (whether by means of shorthand notes, by mechanical means or otherwise) of any proceedings in respect of which an appeal lies to the Court of Appeal under article 10, 23 , 24B[^c-2c25544ff7fde334a8a825714fdbc538] or 44 of the external requests order; and
 - (b) for the making and verification of a transcript of any such record and for supplying the transcript (on payment of such a charge, if any, as may be fixed for the time being by the Treasury) to the registrar for the use of the Court of Appeal or any judge exercising the powers of a judge of the Court of Appeal, and to such other persons and in such circumstances as may be prescribed by the rules.
 
-#### 13. Appeals in cases of death[^key-4ecaa3b6843487cb5b13707ce8c9055a]
+#### 13. Appeals in cases of death[^c-4ecaa3b6843487cb5b13707ce8c9055a]
 
 (1) Where a person has died—
 
@@ -227,8 +227,8 @@ at any time before the beginning of that hearing.
 
 (2) In this article “relevant appeal” means—
 
-- (a) an appeal under article 10, 23 , 24B[^key-72e79d417e398d41a9ca9846da0fcb0d] or 44 of the external requests order; or
-- (b) an appeal under article 11, 24 , 24C[^key-7413c4027cbdaec00c6ee2dc3ede7ed9] or 45 of the external requests order.
+- (a) an appeal under article 10, 23 , 24B[^c-72e79d417e398d41a9ca9846da0fcb0d] or 44 of the external requests order; or
+- (b) an appeal under article 11, 24 , 24C[^c-7413c4027cbdaec00c6ee2dc3ede7ed9] or 45 of the external requests order.
 
 (3) Approval for the purposes of this article may only be given to—
 
@@ -246,23 +246,23 @@ at any time before the beginning of that hearing.
 
 ### APPEAL TO THE SUPREME COURT
 
-#### 14. Leave to appeal to the Supreme Court[^key-c7b96db49d94990c85260e9646737d63]
+#### 14. Leave to appeal to the Supreme Court[^c-c7b96db49d94990c85260e9646737d63]
 
-An appeal to the Supreme Court under article 11, 24 , 24C[^key-0e1a85c5bca60b82dddf11069c615a3e] or 45 of the external requests order lies only with the leave of the Court of Appeal or the Supreme Court; and leave shall not be granted unless it is certified by the Court of Appeal that a point of law of general public importance is involved in the decision and it appears to the Court of Appeal or the Supreme Court (as the case may be) that the point is one which ought to be considered by the Supreme Court.
+An appeal to the Supreme Court under article 11, 24 , 24C[^c-0e1a85c5bca60b82dddf11069c615a3e] or 45 of the external requests order lies only with the leave of the Court of Appeal or the Supreme Court; and leave shall not be granted unless it is certified by the Court of Appeal that a point of law of general public importance is involved in the decision and it appears to the Court of Appeal or the Supreme Court (as the case may be) that the point is one which ought to be considered by the Supreme Court.
 
-#### 15. Application for leave to appeal[^key-eac2ad5a52ebc9129da8253da9713626]
+#### 15. Application for leave to appeal[^c-eac2ad5a52ebc9129da8253da9713626]
 
-(1) An application to the Court of Appeal for leave to appeal to the Supreme Court under article 11, 24 , 24C[^key-57d47577593a28628762ba8403c624e1] or 45 of the external requests order shall be made within the period of 28 days beginning with the date on which the Court of Appeal gives reasons for the decision which is the subject of the appeal; and an application to the Supreme Court for leave shall be made within the period of 28 days beginning with the date on which the application for leave is refused by the Court of Appeal.
+(1) An application to the Court of Appeal for leave to appeal to the Supreme Court under article 11, 24 , 24C[^c-57d47577593a28628762ba8403c624e1] or 45 of the external requests order shall be made within the period of 28 days beginning with the date on which the Court of Appeal gives reasons for the decision which is the subject of the appeal; and an application to the Supreme Court for leave shall be made within the period of 28 days beginning with the date on which the application for leave is refused by the Court of Appeal.
 
 (2) The Supreme Court or the Court of Appeal may, upon application made at any time by the appellant, extend the time within which an application may be made to the Supreme Court or the Court of Appeal under paragraph (1).
 
 (3) An appeal to the Supreme Court shall be treated as pending until any application for leave to appeal is disposed of and, if leave to appeal is granted, until the appeal is disposed of; and for the purposes of this Order an application for leave to appeal shall be treated as disposed of at the expiration of the time within which it may be made, if it is not made within that time.
 
-#### 16. Presence at hearing[^key-328f9f6fcefc527b85ebbe213f935b16]
+#### 16. Presence at hearing[^c-328f9f6fcefc527b85ebbe213f935b16]
 
-A person shall not be entitled to be present on the hearing of an application for leave to appeal to the Supreme Court under article 11, 24 , 24C[^key-e7016bb1119c34ab0baad2119f89c5fe] or 45 of the external requests order or the hearing of the appeal to the Supreme Court under article 11, 24 , 24C or 45 of the external requests order or any proceedings preliminary or incidental thereto, except where an order of the Supreme Court authorises him to be present, or where the Supreme Court or the Court of Appeal, as the case may be, give him leave to be present.
+A person shall not be entitled to be present on the hearing of an application for leave to appeal to the Supreme Court under article 11, 24 , 24C[^c-e7016bb1119c34ab0baad2119f89c5fe] or 45 of the external requests order or the hearing of the appeal to the Supreme Court under article 11, 24 , 24C or 45 of the external requests order or any proceedings preliminary or incidental thereto, except where an order of the Supreme Court authorises him to be present, or where the Supreme Court or the Court of Appeal, as the case may be, give him leave to be present.
 
-#### 17. Powers of Court of Appeal under Part 3 which are exercisable by a single judge[^key-c3772aebf8809d7a0251f05e3f1e734d]
+#### 17. Powers of Court of Appeal under Part 3 which are exercisable by a single judge[^c-c3772aebf8809d7a0251f05e3f1e734d]
 
 There may be exercised by a single judge the powers of the Court of Appeal under this Part—
 
@@ -321,70 +321,70 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181). This was made under sections 444 and 459(2) of the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29). [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181) was amended by the [Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/ 302)](https://www.legislation.gov.uk/uksi/2008/302) and by article 8 of the Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 ([S.I. 2011/1242](https://www.legislation.gov.uk/uksi/2011/1242)). Section 444 was amended by section 108(2) and (3) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and by section 74(2)(f) of and paragraph 138 of Part 6 of Schedule 8 to the Serious Crime Act [2007 (c.27)](https://www.legislation.gov.uk/ukpga/2007/27) and by paragraph 70 of Schedule 14 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)).
 
-[^key-791152f90384fc64b04c4f7bed1cf140]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/138/article/1) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-791152f90384fc64b04c4f7bed1cf140]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/138/article/1) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-a2843126d9ea74b92192045ece119ae4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/138/article/2) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-a2843126d9ea74b92192045ece119ae4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/138/article/2) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-43f6b5b56ebe2ea3d5b87d334071b100]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/138/article/3) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-43f6b5b56ebe2ea3d5b87d334071b100]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/138/article/3) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-f5e518568be133c3d429e1d139a29ef5]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/138/article/3/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/a)
+[^c-f5e518568be133c3d429e1d139a29ef5]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2012/138/article/3/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/a)
 
-[^key-0051340332277aa1c3caaeb1ed5cdb56]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/138/article/4) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-0051340332277aa1c3caaeb1ed5cdb56]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/138/article/4) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-1329d49aa248eeff7acf2b02b7008629]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2012/138/article/4) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/b)
+[^c-1329d49aa248eeff7acf2b02b7008629]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2012/138/article/4) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/b)
 
-[^key-7ad6a77c1b5450f2308cd3f0dfc24001]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/138/article/5) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-7ad6a77c1b5450f2308cd3f0dfc24001]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/138/article/5) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-0ade14629c2b7f2f3eef3236a0d4f922]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2012/138/article/5/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/c)
+[^c-0ade14629c2b7f2f3eef3236a0d4f922]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2012/138/article/5/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/c)
 
-[^key-a657cd6698296a907e4d8f0945a615a2]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/uksi/2012/138/article/5/2) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/c)
+[^c-a657cd6698296a907e4d8f0945a615a2]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/uksi/2012/138/article/5/2) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/c)
 
-[^key-7d5a7ce98588dfd2983fe22811ecefa7]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/138/article/6) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-7d5a7ce98588dfd2983fe22811ecefa7]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/138/article/6) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-ab35250ce3fdac3efc7e610d72c4a844]: Textual amendment: Word in [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/138/article/6/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/d)
+[^c-ab35250ce3fdac3efc7e610d72c4a844]: Textual amendment: Word in [art. 6(1)](https://www.legislation.gov.uk/uksi/2012/138/article/6/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/d)
 
-[^key-6a25cca5d69f7424b70ead89b4efbfdc]: Textual amendment: Word in [art. 6(3)](https://www.legislation.gov.uk/uksi/2012/138/article/6/3) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/d)
+[^c-6a25cca5d69f7424b70ead89b4efbfdc]: Textual amendment: Word in [art. 6(3)](https://www.legislation.gov.uk/uksi/2012/138/article/6/3) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/d)
 
-[^key-dff7207557f71d158e0335eba1a15d94]: Textual amendment: Word in [art. 6(4)](https://www.legislation.gov.uk/uksi/2012/138/article/6/4) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/d)
+[^c-dff7207557f71d158e0335eba1a15d94]: Textual amendment: Word in [art. 6(4)](https://www.legislation.gov.uk/uksi/2012/138/article/6/4) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/d)
 
-[^key-83864854dca3439d5824c704cf3e441b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/138/article/7) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-83864854dca3439d5824c704cf3e441b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/138/article/7) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-f0afc84f07360321dc12ed756f25c119]: Textual amendment: Word in [art. 7(1)](https://www.legislation.gov.uk/uksi/2012/138/article/7/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/e)
+[^c-f0afc84f07360321dc12ed756f25c119]: Textual amendment: Word in [art. 7(1)](https://www.legislation.gov.uk/uksi/2012/138/article/7/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/e)
 
-[^key-63628676c24ec9c06e7c066d6fabdc17]: Textual amendment: Word in [art. 7(5)](https://www.legislation.gov.uk/uksi/2012/138/article/7/5) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/e)
+[^c-63628676c24ec9c06e7c066d6fabdc17]: Textual amendment: Word in [art. 7(5)](https://www.legislation.gov.uk/uksi/2012/138/article/7/5) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/e)
 
-[^key-06933b50225a284e2e98c2d33977ac35]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/138/article/8) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-06933b50225a284e2e98c2d33977ac35]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/138/article/8) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-263fcceed0cd72f7bf3957e4fa87d3c5]: Textual amendment: Word in [art. 8(1)(a)](https://www.legislation.gov.uk/uksi/2012/138/article/8/1/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/f)
+[^c-263fcceed0cd72f7bf3957e4fa87d3c5]: Textual amendment: Word in [art. 8(1)(a)](https://www.legislation.gov.uk/uksi/2012/138/article/8/1/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/f)
 
-[^key-aca646e541b3b972f5aed8be3a57b873]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/138/article/9) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-aca646e541b3b972f5aed8be3a57b873]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/138/article/9) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-abfa5f18122b5fef95e5286d695bccbc]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/138/article/10) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-abfa5f18122b5fef95e5286d695bccbc]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/138/article/10) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-a626048476dc69a4f46e2ea713d95512]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/138/article/11) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-a626048476dc69a4f46e2ea713d95512]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/138/article/11) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-0560a6a660c3d29f3ffe25617e8695f3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2012/138/article/12) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-0560a6a660c3d29f3ffe25617e8695f3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2012/138/article/12) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-2c25544ff7fde334a8a825714fdbc538]: Textual amendment: Word in [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2012/138/article/12/1/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/g)
+[^c-2c25544ff7fde334a8a825714fdbc538]: Textual amendment: Word in [art. 12(1)(a)](https://www.legislation.gov.uk/uksi/2012/138/article/12/1/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/g)
 
-[^key-4ecaa3b6843487cb5b13707ce8c9055a]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/138/article/13) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-4ecaa3b6843487cb5b13707ce8c9055a]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2012/138/article/13) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-72e79d417e398d41a9ca9846da0fcb0d]: Textual amendment: Word in [art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2012/138/article/13/2/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(h)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/h)
+[^c-72e79d417e398d41a9ca9846da0fcb0d]: Textual amendment: Word in [art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2012/138/article/13/2/a) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(h)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/h)
 
-[^key-7413c4027cbdaec00c6ee2dc3ede7ed9]: Textual amendment: Word in [art. 13(2)(b)](https://www.legislation.gov.uk/uksi/2012/138/article/13/2/b) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/i)
+[^c-7413c4027cbdaec00c6ee2dc3ede7ed9]: Textual amendment: Word in [art. 13(2)(b)](https://www.legislation.gov.uk/uksi/2012/138/article/13/2/b) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(2)(i)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/2/i)
 
 [^f00002]: Footnote: [1925 (c.23)](https://www.legislation.gov.uk/ukpga/1925/23), to which there are amendments not relevant to this Order.
 
-[^key-c7b96db49d94990c85260e9646737d63]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/138/article/14) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-c7b96db49d94990c85260e9646737d63]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/138/article/14) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-0e1a85c5bca60b82dddf11069c615a3e]: Textual amendment: Word in [art. 14](https://www.legislation.gov.uk/uksi/2012/138/article/14) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/3/a)
+[^c-0e1a85c5bca60b82dddf11069c615a3e]: Textual amendment: Word in [art. 14](https://www.legislation.gov.uk/uksi/2012/138/article/14) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/3/a)
 
-[^key-eac2ad5a52ebc9129da8253da9713626]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/138/article/15) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-eac2ad5a52ebc9129da8253da9713626]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2012/138/article/15) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-57d47577593a28628762ba8403c624e1]: Textual amendment: Word in [art. 15(1)](https://www.legislation.gov.uk/uksi/2012/138/article/15/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/3/b)
+[^c-57d47577593a28628762ba8403c624e1]: Textual amendment: Word in [art. 15(1)](https://www.legislation.gov.uk/uksi/2012/138/article/15/1) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/3/b)
 
-[^key-328f9f6fcefc527b85ebbe213f935b16]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2012/138/article/16) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-328f9f6fcefc527b85ebbe213f935b16]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2012/138/article/16) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
 
-[^key-e7016bb1119c34ab0baad2119f89c5fe]: Textual amendment: Word in [art. 16](https://www.legislation.gov.uk/uksi/2012/138/article/16) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/3/c)
+[^c-e7016bb1119c34ab0baad2119f89c5fe]: Textual amendment: Word in [art. 16](https://www.legislation.gov.uk/uksi/2012/138/article/16) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (England and Wales) (Appeals under Part 2) (Amendment) Order 2015 (S.I. 2015/1856)](https://www.legislation.gov.uk/uksi/2015/1856), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1856/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2015/1856/article/2/3/c)
 
-[^key-c3772aebf8809d7a0251f05e3f1e734d]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2012/138/article/17) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)
+[^c-c3772aebf8809d7a0251f05e3f1e734d]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2012/138/article/17) in force at 29.2.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/138/article/1/1)

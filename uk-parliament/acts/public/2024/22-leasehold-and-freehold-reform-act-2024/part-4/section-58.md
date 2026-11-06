@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Enforcement of duties relating to service charges[^key-4a18e389e69b3ce87ffe27f6d6264657]
+## 58. Enforcement of duties relating to service charges[^c-4a18e389e69b3ce87ffe27f6d6264657]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a18e389e69b3ce87ffe27f6d6264657]: Commencement: S. 58 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4a18e389e69b3ce87ffe27f6d6264657]: Commencement: S. 58 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

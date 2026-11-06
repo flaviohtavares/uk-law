@@ -34,7 +34,7 @@ summary: ''
 
 (3A)[^c15159301] An appointment under section 5(3) or (4) (including one made in an unrevoked will or codicil) is revoked if the person appointed is the spouse of the person who made the appointment and either—
 
-- (a) [^key-d70e74b055e9fa8c234d3d4c4cf20b0d]... a court of civil jurisdiction in England and Wales dissolves or annuls the marriage, or
+- (a) [^c-d70e74b055e9fa8c234d3d4c4cf20b0d]... a court of civil jurisdiction in England and Wales dissolves or annuls the marriage, or
 - (b) the marriage is dissolved or annulled and the divorce or annulment is entitled to recognition in England and Wales by virtue of Part II of the Family Law Act 1986,
 
 unless a contrary intention appears by the appointment.
@@ -64,6 +64,6 @@ unless a contrary intention appears by the appointment.
 
 [^c15159301]: Textual amendment: [S. 6(3A)](https://www.legislation.gov.uk/ukpga/1989/41/section/6/3A) inserted (8.11.1995 with effect as mentioned in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1995/41/section/4/2) of the amending Act) by [1995 c. 41](https://www.legislation.gov.uk/ukpga/1995/41), [ss. 4(1)(2)](https://www.legislation.gov.uk/ukpga/1995/41/section/4/1)
 
-[^key-d70e74b055e9fa8c234d3d4c4cf20b0d]: Textual amendment: Words in [s. 6(3A)(a)](https://www.legislation.gov.uk/ukpga/1989/41/section/6/3A/a) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/52); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-d70e74b055e9fa8c234d3d4c4cf20b0d]: Textual amendment: Words in [s. 6(3A)(a)](https://www.legislation.gov.uk/ukpga/1989/41/section/6/3A/a) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/52); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
 [^c18773161]: Textual amendment: [S. 6(3B)](https://www.legislation.gov.uk/ukpga/1989/41/section/6/3B) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 76](https://www.legislation.gov.uk/ukpga/2004/33/section/76); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)

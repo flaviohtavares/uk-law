@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Term of appointment[^key-bce67c5a35f51095c1a8b460cc04cc54]
+## 106. Term of appointment[^c-bce67c5a35f51095c1a8b460cc04cc54]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ A bank liquidator appointed by bank insolvency order remains in office until vac
 
 ## Annotations
 
-[^key-bce67c5a35f51095c1a8b460cc04cc54]: Commencement: S. 106 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-bce67c5a35f51095c1a8b460cc04cc54]: Commencement: S. 106 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

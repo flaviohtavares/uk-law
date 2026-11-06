@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund (Applications and Miscellaneous Provisions) Amendment Regulations 2009 (revoked)[^key-e2df5cfc9946f4051cbeaa959705de52]
+The Social Fund (Applications and Miscellaneous Provisions) Amendment Regulations 2009 (revoked)[^c-e2df5cfc9946f4051cbeaa959705de52]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 14th December 2009
 
-[^key-e2df5cfc9946f4051cbeaa959705de52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2df5cfc9946f4051cbeaa959705de52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e2df5cfc9946f4051cbeaa959705de52]
+## 1. Citation and commencement[^c-e2df5cfc9946f4051cbeaa959705de52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Fund (Applications and Miscellaneous Provisions) Regulations 2008[^key-e2df5cfc9946f4051cbeaa959705de52]
+## 2. Amendment of the Social Fund (Applications and Miscellaneous Provisions) Regulations 2008[^c-e2df5cfc9946f4051cbeaa959705de52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2df5cfc9946f4051cbeaa959705de52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2df5cfc9946f4051cbeaa959705de52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e2df5cfc9946f4051cbeaa959705de52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2df5cfc9946f4051cbeaa959705de52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2df5cfc9946f4051cbeaa959705de52]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3033) revoked (22.7.2015) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations 2015 (S.I. 2015/1411)](https://www.legislation.gov.uk/uksi/2015/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/8/b)
+[^c-e2df5cfc9946f4051cbeaa959705de52]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3033) revoked (22.7.2015) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations 2015 (S.I. 2015/1411)](https://www.legislation.gov.uk/uksi/2015/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/8/b)

@@ -42,15 +42,15 @@ summary: ''
 (6) A company is a qualifying company if—
 
 - (a) it is not itself a charity, and
-- (b)[^key-33ab9502b2974ad6846501ef5873b956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-33ab9502b2974ad6846501ef5873b956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) If one or more of the owners is not an individual—
 
 - (a) for the purpose of determining whether the owners' beneficial interests are disposed of as mentioned in subsection (3)(b) of this section, subsections (2) to (4) of section 433 apply as if references to an individual included a reference to a person who is not an individual, and
-- (b) the total amount of relief given, because of the disposal of the qualifying interest in land, under this Chapter and as a result of Chapter 3 of Part 6 of CTA 2010[^key-dae46533a6d7dab4c507eee9e1cf1c3a] is not to exceed the relievable amount.
+- (b) the total amount of relief given, because of the disposal of the qualifying interest in land, under this Chapter and as a result of Chapter 3 of Part 6 of CTA 2010[^c-dae46533a6d7dab4c507eee9e1cf1c3a] is not to exceed the relievable amount.
 
 ## Annotations
 
-[^key-33ab9502b2974ad6846501ef5873b956]: Textual amendment: S. 442(6)(b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-33ab9502b2974ad6846501ef5873b956]: Textual amendment: S. 442(6)(b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
 
-[^key-dae46533a6d7dab4c507eee9e1cf1c3a]: Textual amendment: Words in s. 442(7)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 528](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/528) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-dae46533a6d7dab4c507eee9e1cf1c3a]: Textual amendment: Words in s. 442(7)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 528](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/528) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

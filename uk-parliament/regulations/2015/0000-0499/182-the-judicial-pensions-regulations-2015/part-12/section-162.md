@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Determination of questions[^key-16f4343f4ea560d736bd1767f0e19bab]
+## 162. Determination of questions[^c-16f4343f4ea560d736bd1767f0e19bab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16f4343f4ea560d736bd1767f0e19bab]: Commencement: [Reg. 162](https://www.legislation.gov.uk/uksi/2015/182/regulation/162) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-16f4343f4ea560d736bd1767f0e19bab]: Commencement: [Reg. 162](https://www.legislation.gov.uk/uksi/2015/182/regulation/162) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00066]: Footnote: [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26); section 50 was substituted by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 273 and amended by the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) section 16.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Functions which may be the responsibility of an authority’s executive[^key-6f4cb8973ae82ab028bbcff456a98c0f]
+## 4. Functions which may be the responsibility of an authority’s executive[^c-6f4cb8973ae82ab028bbcff456a98c0f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f4cb8973ae82ab028bbcff456a98c0f]: Commencement: Reg. 4 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)
+[^c-6f4cb8973ae82ab028bbcff456a98c0f]: Commencement: Reg. 4 in force at 16.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2007/399/regulation/1/1)

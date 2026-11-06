@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Family Law
 
-The Child Support Fees (Revocation) Regulations (Northern Ireland) 2023 (revoked)[^key-91886354846646a195f65cc655446ef2]
+The Child Support Fees (Revocation) Regulations (Northern Ireland) 2023 (revoked)[^c-91886354846646a195f65cc655446ef2]
 
 Made
 
@@ -42,22 +42,22 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-91886354846646a195f65cc655446ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91886354846646a195f65cc655446ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-91886354846646a195f65cc655446ef2]
+## 1. Citation, commencement and interpretation[^c-91886354846646a195f65cc655446ef2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Child Support Fees Regulations[^key-91886354846646a195f65cc655446ef2]
+## 2. Amendment of the Child Support Fees Regulations[^c-91886354846646a195f65cc655446ef2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91886354846646a195f65cc655446ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91886354846646a195f65cc655446ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91886354846646a195f65cc655446ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91886354846646a195f65cc655446ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-91886354846646a195f65cc655446ef2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/112) revoked (18.1.2024) by [The Child Support Fees (Revocation) Regulations (Northern Ireland) 2024 (S.R. 2024/6)](https://www.legislation.gov.uk/nisr/2024/6), [regs. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1), [3](https://www.legislation.gov.uk/nisr/2024/6/regulation/3)
+[^c-91886354846646a195f65cc655446ef2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/112) revoked (18.1.2024) by [The Child Support Fees (Revocation) Regulations (Northern Ireland) 2024 (S.R. 2024/6)](https://www.legislation.gov.uk/nisr/2024/6), [regs. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1), [3](https://www.legislation.gov.uk/nisr/2024/6/regulation/3)

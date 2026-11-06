@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Fees) (Forestry) (Amendment) Regulations 2010 (revoked)[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]
+The Plant Health (Fees) (Forestry) (Amendment) Regulations 2010 (revoked)[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st September 2010
 
-[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]
+## 1. Title and commencement[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]
+## 2. Amendments[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]EXPLANATORY NOTE
+[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,6 +76,6 @@ An impact assessment has been prepared and placed in the Library of each House o
 
 ## Annotations
 
-[^key-0d8c9cc5ff96a1d4bdd615c56e267ddb]: Textual amendment: Regulations revoked (E.S.) (6.4.2015) by [The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 (S.I. 2015/350)](https://www.legislation.gov.uk/uksi/2015/350), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/350/regulation/1/b), [4(d)](https://www.legislation.gov.uk/uksi/2015/350/regulation/4/d)
+[^c-0d8c9cc5ff96a1d4bdd615c56e267ddb]: Textual amendment: Regulations revoked (E.S.) (6.4.2015) by [The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 (S.I. 2015/350)](https://www.legislation.gov.uk/uksi/2015/350), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/350/regulation/1/b), [4(d)](https://www.legislation.gov.uk/uksi/2015/350/regulation/4/d)
 
     Regulations revoked (W.) (28.3.2019) by [The Plant Health (Fees) (Forestry) (Wales) Regulations 2019 (S.I. 2019/497)](https://www.legislation.gov.uk/wsi/2019/497), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/497/regulation/1/3), [4(d)](https://www.legislation.gov.uk/wsi/2019/497/regulation/4/d)

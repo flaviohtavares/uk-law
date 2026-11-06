@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Benefits adjustments[^c24480821][^key-94fa6fcbf1c9540910ebb2e373897e8d]
+## 73. Benefits adjustments[^c24480821][^c-94fa6fcbf1c9540910ebb2e373897e8d]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c24480821]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2021/1/section/73) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-94fa6fcbf1c9540910ebb2e373897e8d]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2021/1/section/73) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-94fa6fcbf1c9540910ebb2e373897e8d]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2021/1/section/73) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

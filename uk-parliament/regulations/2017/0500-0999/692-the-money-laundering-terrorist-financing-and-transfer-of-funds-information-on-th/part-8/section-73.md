@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A statement made by a person in response to a requirement imposed under regulations 66(1)(c), 69(2)(e) , 70(7)(e) or 74B(6)[^key-3bed24aafc3f8607c3204268779db707] may not be used in evidence against the person in criminal proceedings.
+(1) A statement made by a person in response to a requirement imposed under regulations 66(1)(c), 69(2)(e) , 70(7)(e) or 74B(6)[^c-3bed24aafc3f8607c3204268779db707] may not be used in evidence against the person in criminal proceedings.
 
 (2) Paragraph (1) does not apply—
 
@@ -40,7 +40,7 @@ by them or on their behalf in the proceedings arising out of the prosecution.
 
 ## Annotations
 
-[^key-3bed24aafc3f8607c3204268779db707]: Textual amendment: Words in reg. 73(1) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/3)
+[^c-3bed24aafc3f8607c3204268779db707]: Textual amendment: Words in reg. 73(1) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/3)
 
 [^c23048581]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

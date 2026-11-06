@@ -46,19 +46,19 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 88(10) of the Civil Aviation Act 1982[^f00001]:
 
-## 1. Citation and commencement[^key-5277a444f0ae9c314535ebc36548a252]
+## 1. Citation and commencement[^c-5277a444f0ae9c314535ebc36548a252]
 
 This Order may be cited as the Aerodromes (Designation)(Detention and Sale of Aircraft)(England and Wales) Order 2009 and comes into force on 1st October 2009.
 
-## 2. Extent[^key-95fe114a78c144854950675a884f3680]
+## 2. Extent[^c-95fe114a78c144854950675a884f3680]
 
 This Order extends to England and Wales.
 
-## 3. Designation of airports[^key-57409b48e1ad83a73a9c712656d95240]
+## 3. Designation of airports[^c-57409b48e1ad83a73a9c712656d95240]
 
 The aerodromes specified in Schedule 1 are designated for the purposes of section 88 of the Civil Aviation Act 1982.
 
-**4.**[^key-11aeab9290e00ca5c60f1e2d9bd0682b] The Orders specified in Schedule 2 are revoked.
+**4.**[^c-11aeab9290e00ca5c60f1e2d9bd0682b] The Orders specified in Schedule 2 are revoked.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -70,11 +70,11 @@ Department for Transport
 
 31st August 2009
 
-## SCHEDULE 1[^key-fa286a111e4706e45a8bedc917d49493]
+## SCHEDULE 1[^c-fa286a111e4706e45a8bedc917d49493]
 
 Article 3
 
-[^key-fa286a111e4706e45a8bedc917d49493]
+[^c-fa286a111e4706e45a8bedc917d49493]
 
 - Bembridge
 - Biggin Hill
@@ -86,7 +86,7 @@ Article 3
 - Cambridge
 - Cardiff
 - Carlisle
-- Cotswold[^key-9584766e550c1aba3c9cbb709cf8dffb]
+- Cotswold[^c-9584766e550c1aba3c9cbb709cf8dffb]
 - Coventry
 - Cranfield
 - Doncaster/Sheffield
@@ -114,7 +114,7 @@ Article 3
 - Southend
 - Wolverhampton
 
-## SCHEDULE 2[^key-05346065570baaf6cd65aa6736e9fdd9]
+## SCHEDULE 2[^c-05346065570baaf6cd65aa6736e9fdd9]
 
 Article 4
 
@@ -143,16 +143,16 @@ An Impact Assessment has not been prepared for this instrument as there are no c
 
 [^f00001]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16); section 88(10) was amended by Part 1 of Schedule 6 to the Airports Act [1986 (c.31)](https://www.legislation.gov.uk/ukpga/1986/31), paragraph 6 of Part 3 of Schedule 8 to the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38) and paragraph 2 of Schedule 2 to the Civil Aviation Act [2006 (c.34)](https://www.legislation.gov.uk/ukpga/2006/34). The functions of the Secretary of State, in so far as they are exercisable in or as regards Scotland, were transferred to the Scottish Ministers by Schedule 1 to the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
-[^key-5277a444f0ae9c314535ebc36548a252]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
+[^c-5277a444f0ae9c314535ebc36548a252]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
 
-[^key-95fe114a78c144854950675a884f3680]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2350/article/2) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
+[^c-95fe114a78c144854950675a884f3680]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2350/article/2) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
 
-[^key-57409b48e1ad83a73a9c712656d95240]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2350/article/3) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
+[^c-57409b48e1ad83a73a9c712656d95240]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2350/article/3) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
 
-[^key-11aeab9290e00ca5c60f1e2d9bd0682b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2350/article/4) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
+[^c-11aeab9290e00ca5c60f1e2d9bd0682b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2350/article/4) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
 
-[^key-fa286a111e4706e45a8bedc917d49493]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2350/schedule/1) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
+[^c-fa286a111e4706e45a8bedc917d49493]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2350/schedule/1) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
 
-[^key-9584766e550c1aba3c9cbb709cf8dffb]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2350/schedule/1) inserted (13.4.2011) by [The Aerodromes (Designation) (Detention and Sale of Aircraft) (England and Wales) (Amendment) Order 2011 (S.I. 2011/832)](https://www.legislation.gov.uk/uksi/2011/832), [arts. 1](https://www.legislation.gov.uk/uksi/2011/832/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/832/article/3/2)
+[^c-9584766e550c1aba3c9cbb709cf8dffb]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2350/schedule/1) inserted (13.4.2011) by [The Aerodromes (Designation) (Detention and Sale of Aircraft) (England and Wales) (Amendment) Order 2011 (S.I. 2011/832)](https://www.legislation.gov.uk/uksi/2011/832), [arts. 1](https://www.legislation.gov.uk/uksi/2011/832/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/832/article/3/2)
 
-[^key-05346065570baaf6cd65aa6736e9fdd9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2350/schedule/2) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)
+[^c-05346065570baaf6cd65aa6736e9fdd9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2350/schedule/2) in force at 1.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2350/article/1)

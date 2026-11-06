@@ -77,7 +77,7 @@ These Regulations may be cited as the Landfill (Amendment) Regulations (Northern
 
 (3) Schedules 1 to 3 (amendments to Schedules 1 to 3 of the principal Regulations) have effect.
 
-## 4. Amendment of the Control of Major Accident Hazards Regulations (Northern Ireland) 2000[^key-bdc5f4c86c87914d1c1e237ffc674f91]
+## 4. Amendment of the Control of Major Accident Hazards Regulations (Northern Ireland) 2000[^c-bdc5f4c86c87914d1c1e237ffc674f91]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -225,4 +225,4 @@ An impact assessment has not been produced for this Rule as no impact on the pri
 
 [^c21816911]: Marginal citation: [S.R. 2003/496](https://www.legislation.gov.uk/nisr/2003/496) as relevantly amended by S.R. [2004 No. 297](https://www.legislation.gov.uk/ukcm/2004/297) and S.R. [2009 No. 159](https://www.legislation.gov.uk/ukcm/2009/159)
 
-[^key-bdc5f4c86c87914d1c1e237ffc674f91]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/161/regulation/4) revoked (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2015/325/schedule/7) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-bdc5f4c86c87914d1c1e237ffc674f91]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/161/regulation/4) revoked (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2015/325/schedule/7) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))

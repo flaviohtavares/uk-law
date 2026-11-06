@@ -44,9 +44,9 @@ Coming into force
 
 3rd July 2016
 
-[^key-1eb37eb9311a6394113887c1101044d2]The Treasury are designated [^c23187631] for the purposes of section 2(2) of the European Communities Act 1972 [^c23187641] in relation to financial services.
+[^c-1eb37eb9311a6394113887c1101044d2]The Treasury are designated [^c23187631] for the purposes of section 2(2) of the European Communities Act 1972 [^c23187641] in relation to financial services.
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^key-a19c25fcb8538e3d3fddf8db6d5f4013]
+The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^c-a19c25fcb8538e3d3fddf8db6d5f4013]
 
 ## PART 1 — General
 
@@ -60,19 +60,19 @@ In these Regulations—
 
 - “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c23187651];
 - “**the FCA**” means the Financial Conduct Authority;
-- “**the market abuse regulation**” means Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive [2003/6/EC](https://www.legislation.gov.uk/eudr/2003/6) of the European Parliament and of the Council and Commission Directives [2003/124/EC](https://www.legislation.gov.uk/eudr/2003/124), [2003/125/EC](https://www.legislation.gov.uk/eudr/2003/125) and [^c23187661][2004/72/EC](https://www.legislation.gov.uk/eudr/2004/72) , as it[^key-c7291fc12f0812d19c7d078dbaaffb3e] forms part of[^key-39ca47ff1d7938760413f5ee3df92353] assimilated[^key-01f55d9a1f9a8ede7498e4bacf4499a9] law; and
-- [^key-562eca76cf5035dcc80f56276486c4d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “[^key-3197e14e9d524686f682f8caa47503b3]**supplementary market abuse enactment**” means—
-  - ((a)) any EU regulation made under the market abuse regulation which is assimilated direct[^key-56ea72fbdf499734530a18a1b147469a] legislation;
+- “**the market abuse regulation**” means Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive [2003/6/EC](https://www.legislation.gov.uk/eudr/2003/6) of the European Parliament and of the Council and Commission Directives [2003/124/EC](https://www.legislation.gov.uk/eudr/2003/124), [2003/125/EC](https://www.legislation.gov.uk/eudr/2003/125) and [^c23187661][2004/72/EC](https://www.legislation.gov.uk/eudr/2004/72) , as it[^c-c7291fc12f0812d19c7d078dbaaffb3e] forms part of[^c-39ca47ff1d7938760413f5ee3df92353] assimilated[^c-01f55d9a1f9a8ede7498e4bacf4499a9] law; and
+- [^c-562eca76cf5035dcc80f56276486c4d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “[^c-3197e14e9d524686f682f8caa47503b3]**supplementary market abuse enactment**” means—
+  - ((a)) any EU regulation made under the market abuse regulation which is assimilated direct[^c-56ea72fbdf499734530a18a1b147469a] legislation;
   - ((b)) any instrument made under the market abuse regulation on or after IP completion day
 
-### 3. Designation of competent authority[^key-4786f149029d2fc28d1020c42107e15d]
+### 3. Designation of competent authority[^c-4786f149029d2fc28d1020c42107e15d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Delayed public disclosure of inside information
 
-(1) Where an issuer or an emission allowance market participant delays the disclosure of inside information under Article 17.4 (public disclosure of inside information) of the market abuse regulation it is required to provide a record of its written explanation of how the conditions set out in Article 17.4 were met to the FCA only upon the FCA's request[^key-f49f888b77e9fe8d7c09f8d6a90ee0e6].
+(1) Where an issuer or an emission allowance market participant delays the disclosure of inside information under Article 17.4 (public disclosure of inside information) of the market abuse regulation it is required to provide a record of its written explanation of how the conditions set out in Article 17.4 were met to the FCA only upon the FCA's request[^c-f49f888b77e9fe8d7c09f8d6a90ee0e6].
 
 (2) In this regulation—
 
@@ -85,7 +85,7 @@ The Schedule (reporting of actual or potential contraventions of the market abus
 
 ### 6. Applications under the market abuse regulation
 
-(1) Any application to the FCA under the market abuse regulation or a supplementary market abuse enactment[^key-6be21faa73199ae4b19615b9070c3789] must—
+(1) Any application to the FCA under the market abuse regulation or a supplementary market abuse enactment[^c-6be21faa73199ae4b19615b9070c3789] must—
 
 - (a) be made in such manner as the FCA may direct; and
 - (b) contain or be accompanied by, such other information as the FCA may reasonably require.
@@ -100,7 +100,7 @@ The Schedule (reporting of actual or potential contraventions of the market abus
 
 ### 7. Notifications under the market abuse regulation
 
-Any notification to the FCA under the market abuse regulation or a supplementary market abuse enactment[^key-3383332d87ff0f17c60cdc2723b7a0ff] must be made in such manner as the FCA may direct.
+Any notification to the FCA under the market abuse regulation or a supplementary market abuse enactment[^c-3383332d87ff0f17c60cdc2723b7a0ff] must be made in such manner as the FCA may direct.
 
 ## PART 2 — Amendments to the Financial Services and Markets Act 2000
 
@@ -1360,7 +1360,7 @@ In regulation 2(1) (interpretation) of the Money Laundering Regulations 2007 [^c
 
 ## PART 4 — Miscellaneous
 
-### 23. Review[^key-1eb37eb9311a6394113887c1101044d2]
+### 23. Review[^c-1eb37eb9311a6394113887c1101044d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1419,7 +1419,7 @@ In this Schedule—
 - (c) the type, content and timeframe of the response about the outcome of the report of the contravention that the reporting person can expect after the reporting;
 - (d) the confidentiality regime applicable to reports of contraventions, including a detailed description of the circumstances under which the confidential data of a reporting person may be disclosed in accordance with Articles 27 (professional secrecy), 28 (data protection) and 29 (disclosure of personal data to third countries) of the market abuse regulation.
 
-(2) The detailed description referred to in sub-paragraph (1)(d) must set out the exceptional cases in which confidentiality of data may not be ensured, including where the disclosure of data is a necessary and proportionate obligation required by [^key-f3263cc1386ee307bd882672dff08288]... the law of the United Kingdom—
+(2) The detailed description referred to in sub-paragraph (1)(d) must set out the exceptional cases in which confidentiality of data may not be ensured, including where the disclosure of data is a necessary and proportionate obligation required by [^c-f3263cc1386ee307bd882672dff08288]... the law of the United Kingdom—
 
 - (a) in the context of investigations or subsequent judicial proceedings; or
 - (b) to safeguard the freedoms of others, including the right of defence of the reported person; in each case subject to appropriate safeguards under such laws.
@@ -1480,7 +1480,7 @@ In this Schedule—
 
 (1) The FCA must review its procedures for receiving and following up reports of contraventions regularly, and in any event at least once every two years.
 
-(2) In reviewing its procedures the FCA must take account of its experience [^key-fba6088db355d002105329b29e7512fa]... and adapt its procedures accordingly and in line with market and technological developments.
+(2) In reviewing its procedures the FCA must take account of its experience [^c-fba6088db355d002105329b29e7512fa]... and adapt its procedures accordingly and in line with market and technological developments.
 
 *(This note is not part of the Regulations)*
 
@@ -1498,39 +1498,39 @@ A validation stage impact assessment of the effect that this instrument will hav
 
 ## Annotations
 
-[^key-1eb37eb9311a6394113887c1101044d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/680) revoked (14.12.2023 for the revocation of reg. 23) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xv)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xv)
+[^c-1eb37eb9311a6394113887c1101044d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/680) revoked (14.12.2023 for the revocation of reg. 23) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xv)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xv)
 
 [^c23187631]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
 [^c23187641]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2016/680/section/2/2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) made by section 1 of the [European Economic Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073, OJ No L1, 3.11.1994, p3) and the Protocol adjusting that Agreement signed at Brussels on 17th March 1993 (Cm 2183, OJ No L1, 3.1.1994, p572).
 
-[^key-a19c25fcb8538e3d3fddf8db6d5f4013]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/680): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a19c25fcb8538e3d3fddf8db6d5f4013]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/680): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c23187651]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^c23187661]: Marginal citation: OJ No L 173, 14.04.2014, p31.
 
-[^key-c7291fc12f0812d19c7d078dbaaffb3e]: Textual amendment: Words in reg. 2 inserted (19.2.2019) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/310/regulation/6)
+[^c-c7291fc12f0812d19c7d078dbaaffb3e]: Textual amendment: Words in reg. 2 inserted (19.2.2019) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/310/regulation/6)
 
-[^key-39ca47ff1d7938760413f5ee3df92353]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1), [(2)(j)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/j)
+[^c-39ca47ff1d7938760413f5ee3df92353]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1), [(2)(j)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/j)
 
-[^key-01f55d9a1f9a8ede7498e4bacf4499a9]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 21(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/21/a)
+[^c-01f55d9a1f9a8ede7498e4bacf4499a9]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 21(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/21/a)
 
-[^key-562eca76cf5035dcc80f56276486c4d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-562eca76cf5035dcc80f56276486c4d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3197e14e9d524686f682f8caa47503b3]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/2/b) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 17(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/17/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3197e14e9d524686f682f8caa47503b3]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/2/b) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 17(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/17/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56ea72fbdf499734530a18a1b147469a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 21(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/21/b)
+[^c-56ea72fbdf499734530a18a1b147469a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/680/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 21(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/21/b)
 
-[^key-4786f149029d2fc28d1020c42107e15d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/680/regulation/3) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4786f149029d2fc28d1020c42107e15d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/680/regulation/3) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f49f888b77e9fe8d7c09f8d6a90ee0e6]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/680/regulation/4/1) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f49f888b77e9fe8d7c09f8d6a90ee0e6]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/680/regulation/4/1) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6be21faa73199ae4b19615b9070c3789]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2016/680/regulation/6/1) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(5)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6be21faa73199ae4b19615b9070c3789]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2016/680/regulation/6/1) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(5)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23187671]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8); [Section 398](https://www.legislation.gov.uk/uksi/2016/680/section/398) was amended by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [S.I](https://www.legislation.gov.uk/uksi/2013/423/section/I). 2013/1773, [S.I. 2015/1882](https://www.legislation.gov.uk/uksi/2015/1882) and by paragraphs 36(2) and (3) of Schedule 9 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-3383332d87ff0f17c60cdc2723b7a0ff]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2016/680/regulation/7) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(5)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3383332d87ff0f17c60cdc2723b7a0ff]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2016/680/regulation/7) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(5)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23187681]: Marginal citation: [Section 73A](https://www.legislation.gov.uk/uksi/2016/680/section/73A) was inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and amended by section 16(4) of the Financial Services Act 2012.
 
@@ -1756,6 +1756,6 @@ A validation stage impact assessment of the effect that this instrument will hav
 
 [^c23188791]: Marginal citation: OJ No L 173, 14.04.2014, p31.
 
-[^key-f3263cc1386ee307bd882672dff08288]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2016/680/schedule/paragraph/4/2) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(7)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3263cc1386ee307bd882672dff08288]: Textual amendment: Words in [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2016/680/schedule/paragraph/4/2) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(7)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fba6088db355d002105329b29e7512fa]: Textual amendment: Words in [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2016/680/schedule/paragraph/8/2) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(7)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fba6088db355d002105329b29e7512fa]: Textual amendment: Words in [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2016/680/schedule/paragraph/8/2) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [7(7)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/7/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

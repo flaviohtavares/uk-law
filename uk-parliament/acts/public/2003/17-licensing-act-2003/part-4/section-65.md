@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 65. Registered societies, friendly societies etc.[^key-a2aa6cfff6fbb9b406bd881bc4ad291e]
+## 65. Registered societies, friendly societies etc.[^c-a2aa6cfff6fbb9b406bd881bc4ad291e]
 
 *Extent: E+W*
 
 (1) Subsection (2) applies in relation to any club which is—
 
-- (a)[^key-22444ba657c43c34dc8c7e06d7d9763f] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014,
+- (a)[^c-22444ba657c43c34dc8c7e06d7d9763f] a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014,
 - (b) a registered society, within the meaning of the Friendly Societies Act 1974 (c. 46) (see section 111(1) of that Act), or
 - (c) a registered friendly society, within the meaning of the Friendly Societies Act 1992 (c. 40) (see section 116 of that Act).
 
@@ -56,6 +56,6 @@ are references to it as read with subsection (1) of this section.
 
 ## Annotations
 
-[^key-a2aa6cfff6fbb9b406bd881bc4ad291e]: Textual amendment: Words in s. 65 heading substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 85(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/85/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a2aa6cfff6fbb9b406bd881bc4ad291e]: Textual amendment: Words in s. 65 heading substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 85(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/85/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-22444ba657c43c34dc8c7e06d7d9763f]: Textual amendment: S. 65(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 85(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/85/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-22444ba657c43c34dc8c7e06d7d9763f]: Textual amendment: S. 65(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 85(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/85/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

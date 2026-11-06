@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Water quality: powers of Welsh Ministers[^key-e7db5b8c8fe805a26b71da074dc9ac87]
+## 90. Water quality: powers of Welsh Ministers[^c-e7db5b8c8fe805a26b71da074dc9ac87]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7db5b8c8fe805a26b71da074dc9ac87]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/30/section/90) in force at 9.1.2022, see [s. 147(2)(m)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/m)
+[^c-e7db5b8c8fe805a26b71da074dc9ac87]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2021/30/section/90) in force at 9.1.2022, see [s. 147(2)(m)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/m)

@@ -34,7 +34,7 @@ Agriculture
 
 Food
 
-The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2023 (revoked)[^key-380d6ae1f4ac1d261204c9f0331f7070]
+The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2023 (revoked)[^c-380d6ae1f4ac1d261204c9f0331f7070]
 
 Made
 
@@ -48,22 +48,22 @@ Coming into force
 
 1st February 2024
 
-[^key-380d6ae1f4ac1d261204c9f0331f7070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-380d6ae1f4ac1d261204c9f0331f7070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-380d6ae1f4ac1d261204c9f0331f7070]
+## 1. Citation and commencement[^c-380d6ae1f4ac1d261204c9f0331f7070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Commission [Decision 2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries[^key-380d6ae1f4ac1d261204c9f0331f7070]
+## 2. Amendment of Commission [Decision 2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations into the Community from third countries[^c-380d6ae1f4ac1d261204c9f0331f7070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-380d6ae1f4ac1d261204c9f0331f7070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-380d6ae1f4ac1d261204c9f0331f7070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-380d6ae1f4ac1d261204c9f0331f7070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-380d6ae1f4ac1d261204c9f0331f7070]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-380d6ae1f4ac1d261204c9f0331f7070]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2023/367) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(g)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/g)
+[^c-380d6ae1f4ac1d261204c9f0331f7070]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2023/367) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(g)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/g)

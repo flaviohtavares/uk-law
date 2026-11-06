@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E7. General option to exchange part of pension for lump sum[^key-36920a5f32fd4c7e11084ee685466b5f][^key-10d417c7273ca0e420984bf8ab31803f]
+## E7. General option to exchange part of pension for lump sum[^c-36920a5f32fd4c7e11084ee685466b5f][^c-10d417c7273ca0e420984bf8ab31803f]
 
 *Extent: E+W+S*
 
@@ -34,12 +34,12 @@ summary: ''
 
 (7) If the member has a guaranteed minimum under section 14 of the 1993 Act in relation to the whole or part of a pension, paragraph (2) only applies to so much of the pension as exceeds that guaranteed minimum, multiplied by such factor as is indicated for a person of the member’s description in tables provided by the Scheme Actuary.
 
-(8) Subject to paragraphs (9) and (10), the option[^key-a6e11ae6e73849c7944d440cf0e4a571] under this regulation may only be exercised by giving notice in writing to the scheme administrator in the form required by the Secretary of State—
+(8) Subject to paragraphs (9) and (10), the option[^c-a6e11ae6e73849c7944d440cf0e4a571] under this regulation may only be exercised by giving notice in writing to the scheme administrator in the form required by the Secretary of State—
 
 - (a) at the time of claiming the pension; or
 - (b) before a later time specified in writing by the scheme administrator.
 
-(9)[^key-f1a7580612ec37f875e2b2e094d3231c] If the pension is an ill-health pension under regulation E2A, the option under this regulation may only be exercised by giving notice in writing to the scheme administrator in the form required by the Secretary of State—
+(9)[^c-f1a7580612ec37f875e2b2e094d3231c] If the pension is an ill-health pension under regulation E2A, the option under this regulation may only be exercised by giving notice in writing to the scheme administrator in the form required by the Secretary of State—
 
 - (a) where the member is awarded—
   - (i) a tier 1 pension under paragraph (3)(a) of that regulation, at the time of claiming that tier 1 pension,
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-36920a5f32fd4c7e11084ee685466b5f]: Modification: [Reg. E7](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(5)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/5)
+[^c-36920a5f32fd4c7e11084ee685466b5f]: Modification: [Reg. E7](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(5)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/5)
 
-[^key-10d417c7273ca0e420984bf8ab31803f]: Textual amendment: [Reg. E7](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2008/654/regulation/14)
+[^c-10d417c7273ca0e420984bf8ab31803f]: Textual amendment: [Reg. E7](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2008/654/regulation/14)
 
-[^key-a6e11ae6e73849c7944d440cf0e4a571]: Textual amendment: Words in [reg. E7(8)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7/8) substituted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/7/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-a6e11ae6e73849c7944d440cf0e4a571]: Textual amendment: Words in [reg. E7(8)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7/8) substituted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/7/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-f1a7580612ec37f875e2b2e094d3231c]: Textual amendment: [Reg. E7(9)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7/9)[(10)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7/10) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/7/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-f1a7580612ec37f875e2b2e094d3231c]: Textual amendment: [Reg. E7(9)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7/9)[(10)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E7/10) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/7/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

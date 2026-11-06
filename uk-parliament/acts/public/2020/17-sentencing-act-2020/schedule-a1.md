@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Offences where terrorist connection not required to be considered[^key-4d9a13da180c2b2f0a01704746af174c]
+## SCHEDULE A1 — Offences where terrorist connection not required to be considered[^c-4d9a13da180c2b2f0a01704746af174c]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,9 +64,9 @@ Section 69
 
 ### Counter-Terrorism Act 2008
 
-**4.** (1)[^key-8686f577f67a4fd5532b3a1a28c67b28] An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
+**4.** (1)[^c-8686f577f67a4fd5532b3a1a28c67b28] An offence under section 54 of the Counter-Terrorism Act 2008 (breach of police notification requirements etc).
 
-(2)[^key-d6c8f6e522f242a97ac127d03256a443] An offence under paragraph 15 of Schedule 5 to that Act (breach of foreign travel restriction order) of which a person is convicted on or after the day on which paragraph 6 of Schedule 27 to the Crime and Policing Act 2026 comes into force.
+(2)[^c-d6c8f6e522f242a97ac127d03256a443] An offence under paragraph 15 of Schedule 5 to that Act (breach of foreign travel restriction order) of which a person is convicted on or after the day on which paragraph 6 of Schedule 27 to the Crime and Policing Act 2026 comes into force.
 
 ### Terrorism Prevention and Investigation Measures 2011
 
@@ -82,8 +82,8 @@ Section 69
 
 ## Annotations
 
-[^key-4d9a13da180c2b2f0a01704746af174c]: Textual amendment: Sch. A1 inserted (29.6.2021 for specified purposes) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2021/11/schedule/1/part/1)
+[^c-4d9a13da180c2b2f0a01704746af174c]: Textual amendment: Sch. A1 inserted (29.6.2021 for specified purposes) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/3/a), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2021/11/schedule/1/part/1)
 
-[^key-8686f577f67a4fd5532b3a1a28c67b28]: Textual amendment: [Sch. A1 para. 4](https://www.legislation.gov.uk/ukpga/2020/17/schedule/A1/paragraph/4) renumbered as Sch. A1 para. 4(1) (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6/5/a)
+[^c-8686f577f67a4fd5532b3a1a28c67b28]: Textual amendment: [Sch. A1 para. 4](https://www.legislation.gov.uk/ukpga/2020/17/schedule/A1/paragraph/4) renumbered as Sch. A1 para. 4(1) (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6/5/a)
 
-[^key-d6c8f6e522f242a97ac127d03256a443]: Textual amendment: Sch. A1 para. 4(2) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6/5/b)
+[^c-d6c8f6e522f242a97ac127d03256a443]: Textual amendment: Sch. A1 para. 4(2) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6/5/b)

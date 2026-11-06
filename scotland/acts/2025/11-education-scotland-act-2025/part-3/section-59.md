@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Transfer of staff, property etc. to Qualifications Scotland[^key-b15e92af4e08e554e25c30a92b40e2ac][^key-7b1c7481dcd61dfdd2042fc515abd822][^key-074c193222956ca518f0c83dfc8ab2d1]
+## 59. Transfer of staff, property etc. to Qualifications Scotland[^c-b15e92af4e08e554e25c30a92b40e2ac][^c-7b1c7481dcd61dfdd2042fc515abd822][^c-074c193222956ca518f0c83dfc8ab2d1]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ Schedule 3 makes provision about the transfer of the staff and property of the S
 
 ## Annotations
 
-[^key-b15e92af4e08e554e25c30a92b40e2ac]: Commencement: S. 59 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-b15e92af4e08e554e25c30a92b40e2ac]: Commencement: S. 59 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-7b1c7481dcd61dfdd2042fc515abd822]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2025/11/section/59) in force at 1.12.2025 for specified purposes by [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)
+[^c-7b1c7481dcd61dfdd2042fc515abd822]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2025/11/section/59) in force at 1.12.2025 for specified purposes by [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)
 
-[^key-074c193222956ca518f0c83dfc8ab2d1]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2025/11/section/59) in force at 1.2.2026 in so far as not already in force by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-074c193222956ca518f0c83dfc8ab2d1]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2025/11/section/59) in force at 1.2.2026 in so far as not already in force by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

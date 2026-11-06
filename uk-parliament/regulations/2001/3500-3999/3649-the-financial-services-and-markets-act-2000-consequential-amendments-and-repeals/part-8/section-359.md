@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 359. Repeal of spent provision[^key-ebb7c136777aa99b0830e60c3124142b]
+## 359. Repeal of spent provision[^c-ebb7c136777aa99b0830e60c3124142b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Paragraph 21 of Schedule 3 to the Local Government and Rating Act 1997 (which is
 
 ## Annotations
 
-[^key-ebb7c136777aa99b0830e60c3124142b]: Commencement: Art. 359 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ebb7c136777aa99b0830e60c3124142b]: Commencement: Art. 359 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

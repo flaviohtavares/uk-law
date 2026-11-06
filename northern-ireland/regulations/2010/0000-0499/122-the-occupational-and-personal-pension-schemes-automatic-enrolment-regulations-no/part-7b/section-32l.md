@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32L. Alternative quality requirements for UK defined benefits schemes[^key-3e15512fd24477a9e437b673289caee0]
+## 32L. Alternative quality requirements for UK defined benefits schemes[^c-3e15512fd24477a9e437b673289caee0]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e15512fd24477a9e437b673289caee0]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/nisr/2010/122/part/7B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/310/regulation/10)
+[^c-3e15512fd24477a9e437b673289caee0]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/nisr/2010/122/part/7B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/310/regulation/10)

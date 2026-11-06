@@ -22,7 +22,7 @@ summary: ''
 
 (1) The following rules apply for determining the effective duration of a lease for the purposes of this Chapter.
 
-*Rule 1[^key-827769f74d815d51c3a6ad133fd8e08d]*: If-
+*Rule 1[^c-827769f74d815d51c3a6ad133fd8e08d]*: If-
 
 - (a) the terms of the lease or any other circumstances make it unlikely that the lease will continue beyond a date before the end of the term for which the lease was granted, and
 - (b) the premium was not substantially greater than it would have been had the term been one ending on that date,
@@ -38,7 +38,7 @@ the term of the lease may be treated as continuing until the end of the term of 
 
 (2) The rules are to be applied in accordance with section 304.
 
-(2A)[^key-6860f3bc0a063eb037ee81954ab16763] In Rule 1 “**premium**” includes—
+(2A)[^c-6860f3bc0a063eb037ee81954ab16763] In Rule 1 “**premium**” includes—
 
 - (a) an amount treated as a premium under section 278 (amount treated as lease premium where work required),
 - (b) a sum payable by the tenant under the terms subject to which the lease is granted instead of the whole or a part of the rent for a period,
@@ -51,6 +51,6 @@ the term of the lease may be treated as continuing until the end of the term of 
 
 [^c19125001]: Modification: S. 303 applied by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 360I(3)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/360I/3/a) (as inserted (7.4.2005 with effect in relation to expenditure incurred on or after 11.4.2007) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7). s. 92, {Sch. 6 para. 1}; [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-827769f74d815d51c3a6ad133fd8e08d]: Textual amendment: Words in s. 303 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 626(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/626/2) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/44))
+[^c-827769f74d815d51c3a6ad133fd8e08d]: Textual amendment: Words in s. 303 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 626(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/626/2) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/44))
 
-[^key-6860f3bc0a063eb037ee81954ab16763]: Textual amendment: S. 303(2A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 626(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/626/3) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/44))
+[^c-6860f3bc0a063eb037ee81954ab16763]: Textual amendment: S. 303(2A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 626(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/626/3) (with [Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/part/2), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/44))

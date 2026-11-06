@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Guidance on selection of tenderers and award of contracts[^key-b4b8c1bb9d2fa0e43bf8fa029aa2df56]
+## 29. Guidance on selection of tenderers and award of contracts[^c-b4b8c1bb9d2fa0e43bf8fa029aa2df56]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b8c1bb9d2fa0e43bf8fa029aa2df56]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/12/section/29) in force at 28.9.2015 by [S.S.I. 2015/331](https://www.legislation.gov.uk/ssi/2015/331), [art. 3](https://www.legislation.gov.uk/ssi/2015/331/article/3)
+[^c-b4b8c1bb9d2fa0e43bf8fa029aa2df56]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/12/section/29) in force at 28.9.2015 by [S.S.I. 2015/331](https://www.legislation.gov.uk/ssi/2015/331), [art. 3](https://www.legislation.gov.uk/ssi/2015/331/article/3)

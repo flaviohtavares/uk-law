@@ -26,8 +26,8 @@ summary: ''
 - (b) state what the consequence will be of a failure to take such action as is required by the notice within the time fixed,
 - (c) state the manner in which any reply to the notice must be given and the address to which it must be sent.
 
-(2) Except where otherwise provided by these rules, the time fixed by the notice will be the period ending at 12 noon on the fifteenth working[^key-fc2166dff24f6f6140b9607a4bab432d] day after the date of issue of the notice.
+(2) Except where otherwise provided by these rules, the time fixed by the notice will be the period ending at 12 noon on the fifteenth working[^c-fc2166dff24f6f6140b9607a4bab432d] day after the date of issue of the notice.
 
 ## Annotations
 
-[^key-fc2166dff24f6f6140b9607a4bab432d]: Textual amendment: Word in [rule 197(2)](https://www.legislation.gov.uk/uksi/2003/1417/rule/197/2) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-fc2166dff24f6f6140b9607a4bab432d]: Textual amendment: Word in [rule 197(2)](https://www.legislation.gov.uk/uksi/2003/1417/rule/197/2) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

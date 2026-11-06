@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Repeals of earlier amendments of Schedule 3 to the Northern Ireland Act 1998[^key-2708339dc177f1da4438b3e7ec2ce211]
+## 27. Repeals of earlier amendments of Schedule 3 to the Northern Ireland Act 1998[^c-2708339dc177f1da4438b3e7ec2ce211]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2708339dc177f1da4438b3e7ec2ce211]: Commencement: Art. 27 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-2708339dc177f1da4438b3e7ec2ce211]: Commencement: Art. 27 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00036]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32).
 

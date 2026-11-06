@@ -27,12 +27,12 @@ summary: ''
 
 is use for sport or recreation.
 
-(2)[^key-92f2829256a21daf1c85bf3f7000a684] A ship is not a qualifying ship at any time when it is an offshore installation.
+(2)[^c-92f2829256a21daf1c85bf3f7000a684] A ship is not a qualifying ship at any time when it is an offshore installation.
 
-(3)[^key-6c83cf13f88720b0bde005c3f9a57f0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6c83cf13f88720b0bde005c3f9a57f0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92f2829256a21daf1c85bf3f7000a684]: Textual amendment: S. 153(2) substituted (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/9/2)
+[^c-92f2829256a21daf1c85bf3f7000a684]: Textual amendment: S. 153(2) substituted (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/9/2)
 
-[^key-6c83cf13f88720b0bde005c3f9a57f0d]: Textual amendment: S. 153(3) repealed (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 9(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/9/3) , [42 Pt. 2(19)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/19)
+[^c-6c83cf13f88720b0bde005c3f9a57f0d]: Textual amendment: S. 153(3) repealed (with effect in accordance with Sch. 27 para. 11 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) , [Sch. 27 para. 9(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/9/3) , [42 Pt. 2(19)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/19)

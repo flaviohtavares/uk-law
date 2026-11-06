@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Contribution notices and financial support directions[^key-72c232f4ca49a5ffc9510fb31917ee0a]
+## 26. Contribution notices and financial support directions[^c-72c232f4ca49a5ffc9510fb31917ee0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72c232f4ca49a5ffc9510fb31917ee0a]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2011/19/section/26) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/f)
+[^c-72c232f4ca49a5ffc9510fb31917ee0a]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2011/19/section/26) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Additional requirements for biogas and composting plants[^key-6923fb1104eb1436024dc01d1cbb8d89]
+## SCHEDULE 1 — Additional requirements for biogas and composting plants[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 *Extent: E+W*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 15
 
-### PART 1[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### PART 1[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
-#### 1. Premises[^key-6923fb1104eb1436024dc01d1cbb8d89]
+#### 1. Premises[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Treatment systems and parameters for catering waste[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### PART II — Treatment systems and parameters for catering waste[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
-**1.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6923fb1104eb1436024dc01d1cbb8d89]: Textual amendment: Regulations revoked (12.5.2006) by [The Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53)
+[^c-6923fb1104eb1436024dc01d1cbb8d89]: Textual amendment: Regulations revoked (12.5.2006) by [The Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53)

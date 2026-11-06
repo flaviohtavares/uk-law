@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Meaning of the 1993 Act[^key-0b108eaaf8c9e5e7da578e08673941dc]
+## 61. Meaning of the 1993 Act[^c-0b108eaaf8c9e5e7da578e08673941dc]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act, “**the 1993 Act**” means the Prisoners and Criminal Proceedings
 
 ## Annotations
 
-[^key-0b108eaaf8c9e5e7da578e08673941dc]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2019/14/section/61) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-0b108eaaf8c9e5e7da578e08673941dc]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2019/14/section/61) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

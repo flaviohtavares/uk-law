@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259KE. Limit on reduction under section 259KC[^key-fc5a57157fd931849a644dd09aff64a2][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259KE. Limit on reduction under section 259KC[^c-fc5a57157fd931849a644dd09aff64a2][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc5a57157fd931849a644dd09aff64a2]: Textual amendment: [S. 259KE](https://www.legislation.gov.uk/ukpga/2010/8/section/259KE) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/23)
+[^c-fc5a57157fd931849a644dd09aff64a2]: Textual amendment: [S. 259KE](https://www.legislation.gov.uk/ukpga/2010/8/section/259KE) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/23)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

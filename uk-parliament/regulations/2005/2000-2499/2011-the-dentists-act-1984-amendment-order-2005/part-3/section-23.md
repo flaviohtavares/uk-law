@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Substitution of section 32[^key-97547c184507fd77bf06999a1226fa1c]
+## 23. Substitution of section 32[^c-97547c184507fd77bf06999a1226fa1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ For section 32 substitute—
 
 ## Annotations
 
-[^key-97547c184507fd77bf06999a1226fa1c]: Commencement: Art. 23 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3)
+[^c-97547c184507fd77bf06999a1226fa1c]: Commencement: Art. 23 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3)

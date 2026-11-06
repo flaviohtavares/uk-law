@@ -27,10 +27,10 @@ summary: ''
 
 (2) The responsible authority must secure the safe keeping of C's case record and take any necessary steps to ensure that information contained in it is treated as confidential subject only to—
 
-- (aa)[^key-fa7e34e2a071923466f367b52c0f3fe2] regulation 49A,
+- (aa)[^c-fa7e34e2a071923466f367b52c0f3fe2] regulation 49A,
 - (a) any provision of, or made under or by virtue of, a statute under which access to such a record or information may be obtained or given,
 - (b) any court order under which access to such a record or information may be obtained or given.
 
 ## Annotations
 
-[^key-fa7e34e2a071923466f367b52c0f3fe2]: Textual amendment: Reg. 50(2)(aa) inserted (5.3.2018) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/152/regulation/5)
+[^c-fa7e34e2a071923466f367b52c0f3fe2]: Textual amendment: Reg. 50(2)(aa) inserted (5.3.2018) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/152)](https://www.legislation.gov.uk/uksi/2018/152), [regs. 1](https://www.legislation.gov.uk/uksi/2018/152/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/152/regulation/5)

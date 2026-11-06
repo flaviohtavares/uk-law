@@ -50,7 +50,7 @@ Any explosion or fire caused by an electrical short circuit or overload (includi
 
 Any unintentional—
 
-- (a) fire, explosion or ignition at a site where the manufacture or storage of explosives requires a licence under regulations 6 or 7 of the Explosives Regulations 2014[^key-4722b42614301a18c65efb5e57158523]; or
+- (a) fire, explosion or ignition at a site where the manufacture or storage of explosives requires a licence under regulations 6 or 7 of the Explosives Regulations 2014[^c-4722b42614301a18c65efb5e57158523]; or
 - (b) explosion or ignition of explosives (unless caused by the unintentional discharge of a weapon, where, apart from that unintentional discharge, the weapon and explosives functioned as they were designed to),
 
 except where a fail-safe device or safe system of work prevented any person being endangered as a result of the fire, explosion or ignition.
@@ -175,7 +175,7 @@ The unintentional release or escape of any substance which could cause personal 
 
 Any outbreak of fire below ground.
 
-**29.** Any person being caused to leave any place pursuant to an escape and rescue plan within the meaning of regulation 54 of the Mines Regulations 2014[^key-049a88fc206e9bf71aae641baa05171f], as a result of smoke or other indication that a fire may have broken out below ground.
+**29.** Any person being caused to leave any place pursuant to an escape and rescue plan within the meaning of regulation 54 of the Mines Regulations 2014[^c-049a88fc206e9bf71aae641baa05171f], as a result of smoke or other indication that a fire may have broken out below ground.
 
 **30.** Any fire on the surface which endangers the operation of any winding or haulage apparatus installed at a shaft or unwalkable outlet or of any mechanically operated apparatus for producing ventilation below ground.
 
@@ -222,7 +222,7 @@ The malfunction of, or development of a defect in, breathing apparatus or a smok
 
 The use of any apparatus—
 
-- (a) provided at a mine in accordance with regulation 51 of the Mines Regulations 2014[^key-8d001c3daf067201c51999e555ae5c5e]; or
+- (a) provided at a mine in accordance with regulation 51 of the Mines Regulations 2014[^c-8d001c3daf067201c51999e555ae5c5e]; or
 - (b) used to leave a mine when apparatus and equipment normally so used is unavailable,
 
 other than for the purpose of training and practice.
@@ -235,7 +235,7 @@ The inrush of noxious or flammable gas from old workings.
 
 #### 43. Insecure tips
 
-Any event (including any movement of material or any fire) which indicates that a tip to which the Mines Regulations 2014 apply[^key-472e9ed692baf2d860ce4132698a2034] is or is likely to become insecure.
+Any event (including any movement of material or any fire) which indicates that a tip to which the Mines Regulations 2014 apply[^c-472e9ed692baf2d860ce4132698a2034] is or is likely to become insecure.
 
 #### 44. Locomotives
 
@@ -458,12 +458,12 @@ Any fall of a person into water from more than 2 metres.
 
 [^c21824601]: Marginal citation: [S.I. 2000/128](https://www.legislation.gov.uk/uksi/2000/128); regulation 2(1) was amended by [S.I. 2004/568](https://www.legislation.gov.uk/uksi/2004/568); there are other amending instruments but none is relevant.
 
-[^key-4722b42614301a18c65efb5e57158523]: Textual amendment: Words in Sch. 2 para. 5(a) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 31(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/31/b)
+[^c-4722b42614301a18c65efb5e57158523]: Textual amendment: Words in Sch. 2 para. 5(a) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 31(b)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/31/b)
 
-[^key-049a88fc206e9bf71aae641baa05171f]: Textual amendment: Words in [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2013/1471/schedule/2/paragraph/29) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(e)(i)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/e/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-049a88fc206e9bf71aae641baa05171f]: Textual amendment: Words in [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2013/1471/schedule/2/paragraph/29) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(e)(i)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/e/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-8d001c3daf067201c51999e555ae5c5e]: Textual amendment: Words in [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2013/1471/schedule/2/paragraph/40) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(e)(ii)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/e/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-8d001c3daf067201c51999e555ae5c5e]: Textual amendment: Words in [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2013/1471/schedule/2/paragraph/40) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(e)(ii)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/e/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-472e9ed692baf2d860ce4132698a2034]: Textual amendment: Words in [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2013/1471/schedule/2/paragraph/43) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(e)(iii)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/e/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-472e9ed692baf2d860ce4132698a2034]: Textual amendment: Words in [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2013/1471/schedule/2/paragraph/43) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(e)(iii)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/e/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c21824631]: Marginal citation: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348); regulations 2, 3, 11, 12, 19, 20, 21, 22, 25, 29, 32 and 34, and paragraph 4 of Schedule 2 were amended by [S.I. 2011/1885](https://www.legislation.gov.uk/uksi/2011/1885), which also inserted regulations 19A, 19B, 19C, 19D, 19E and 19F.

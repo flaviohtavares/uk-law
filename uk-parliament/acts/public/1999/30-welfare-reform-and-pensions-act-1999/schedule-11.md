@@ -42,7 +42,7 @@ Section 81.
 
 **5.** In section 116 (legal proceedings), in subsection (5A) for the words from the beginning to “that section” there is substituted “ In relation to proceedings for an offence under section 114 above ”.
 
-**6.**[^key-371d90c999d78219c202a6dae6bfd941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-371d90c999d78219c202a6dae6bfd941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 121E (supply of contributions etc. information held by Inland Revenue), in subsection (1) after “statutory maternity pay” there is inserted “ or functions under Part III of the Pensions Act ”.
 
@@ -81,7 +81,7 @@ Section 81.
 
 **16.** In section 115E (supply to Inland Revenue for purposes of contributions etc. of information held by Department or Secretary of State), at the end of subsection (2) there is inserted “ or functions under Part III of the Pensions Act ”.
 
-**17.**[^key-b862f0d96b2e99c09a242d67461d6be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-b862f0d96b2e99c09a242d67461d6be8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** (1) In section 145 (adjustments between the Northern Ireland National Insurance Fund and the Consolidated Fund of Northern Ireland)—
 
@@ -113,7 +113,7 @@ Section 81.
   , and
 - (b) for “such a revision or decision” there is substituted “ a revision under section 9 or decision under section 10 ”.
 
-**23.**[^key-7afa56d8a748a1bb20bf5ecc0dd6b8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-7afa56d8a748a1bb20bf5ecc0dd6b8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pension Schemes (Northern Ireland) Act 1993 (c.49)
 
@@ -156,7 +156,7 @@ Section 81.
 **31.** In section 4 (recovery of contributions where income tax recovery provisions not applicable)—
 
 - (a) in paragraph (a), after “1992” there is inserted “ or paragraph 6 of Schedule 1 to the [^c1314594]Social Security Contributions and Benefits (Northern Ireland) Act 1992 ”,
-- (b)[^key-eaba8f4d5632b31dfc3c8d2d920b5f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-eaba8f4d5632b31dfc3c8d2d920b5f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (c), for “that Act” there is substituted “ the Social Security Contributions and Benefits Act 1992 or paragraph 7A or 7B of Schedule 1 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 ”.
 
 **32.** In Schedule 1 (transfer of Contributions Agency functions and associated functions), the following provisions are omitted, namely—
@@ -218,9 +218,9 @@ Section 81.
 
 ## Annotations
 
-[^key-371d90c999d78219c202a6dae6bfd941]: Textual amendment: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/6) omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/11/b); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
+[^c-371d90c999d78219c202a6dae6bfd941]: Textual amendment: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/6) omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/11/b); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
 
-[^key-b862f0d96b2e99c09a242d67461d6be8]: Textual amendment: [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/17) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-b862f0d96b2e99c09a242d67461d6be8]: Textual amendment: [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/17) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
 
 [^c1314589]: Marginal citation: [1999 c. 10](https://www.legislation.gov.uk/ukpga/1999/10).
 
@@ -228,7 +228,7 @@ Section 81.
 
 [^c1314591]: Marginal citation: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2).
 
-[^key-7afa56d8a748a1bb20bf5ecc0dd6b8f0]: Textual amendment: [Sch. 11 para. 23](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/23) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/20)
+[^c-7afa56d8a748a1bb20bf5ecc0dd6b8f0]: Textual amendment: [Sch. 11 para. 23](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/23) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/20)
 
 [^c1314592]: Marginal citation: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
@@ -236,7 +236,7 @@ Section 81.
 
 [^c1314594]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-eaba8f4d5632b31dfc3c8d2d920b5f22]: Textual amendment: [Sch. 11 para. 31(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/31/b) repealed (1.9.2004) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [s. 13](https://www.legislation.gov.uk/ukpga/2004/3/section/13), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2/part/1); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 6(a)(iv)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/a/iv)
+[^c-eaba8f4d5632b31dfc3c8d2d920b5f22]: Textual amendment: [Sch. 11 para. 31(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/11/paragraph/31/b) repealed (1.9.2004) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [s. 13](https://www.legislation.gov.uk/ukpga/2004/3/section/13), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/3/schedule/2/part/1); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 6(a)(iv)](https://www.legislation.gov.uk/uksi/2004/1943/article/6/a/iv)
 
 [^c1314596]: Marginal citation: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 

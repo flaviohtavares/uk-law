@@ -59,7 +59,7 @@ The Protection of Water Against Agricultural Nitrate Pollution (Scotland) Regula
 
     > “code of good agricultural practice” means those parts of the Code of Good Practice for the Prevention of Environmental Pollution from Agricultural Activity published in 1997 by the Scottish Office which are aimed at reducing pollution by nitrates [^c16005551];
     >
-    > [^key-aa95f982bccf3f0e02f93edba46d5ffd]...
+    > [^c-aa95f982bccf3f0e02f93edba46d5ffd]...
 
     ;
   - (ii) after the definition of “fertiliser”, there shall be inserted the following definition:–
@@ -90,7 +90,7 @@ The Protection of Water Against Agricultural Nitrate Pollution (Scotland) Regula
 
   .
 
-## 3. Designation of Ythan Nitrate Vulnerable Zone[^key-6d8baf9d9e39a5b71885ca28d70e29ba]
+## 3. Designation of Ythan Nitrate Vulnerable Zone[^c-6d8baf9d9e39a5b71885ca28d70e29ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,8 +118,8 @@ Copies of the Code of Good Practice may be obtained free of charge from the Scot
 
 [^c16005551]: Marginal citation: Approved by Parliament by virtue of [S.I. 1997/1584](https://www.legislation.gov.uk/uksi/1997/1584).
 
-[^key-aa95f982bccf3f0e02f93edba46d5ffd]: Textual amendment: Words in reg. 2(a)(i) omitted (2.2.2015) by virtue of [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5)
+[^c-aa95f982bccf3f0e02f93edba46d5ffd]: Textual amendment: Words in reg. 2(a)(i) omitted (2.2.2015) by virtue of [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5)
 
 [^c16005561]: Marginal citation: [S.I. 1998/2927](https://www.legislation.gov.uk/uksi/1998/2927).
 
-[^key-6d8baf9d9e39a5b71885ca28d70e29ba]: Textual amendment: Reg. 3 revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5)
+[^c-6d8baf9d9e39a5b71885ca28d70e29ba]: Textual amendment: Reg. 3 revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5)

@@ -31,7 +31,7 @@ summary: ''
 
 Fire And Rescue Services, Wales
 
-The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2011 (revoked)[^key-451b4366bc7adbab213236c6f628cbb3]
+The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2011 (revoked)[^c-451b4366bc7adbab213236c6f628cbb3]
 
 Made
 
@@ -45,24 +45,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-451b4366bc7adbab213236c6f628cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-451b4366bc7adbab213236c6f628cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-451b4366bc7adbab213236c6f628cbb3]
+## 1. Citation and commencement[^c-451b4366bc7adbab213236c6f628cbb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of inspector[^key-451b4366bc7adbab213236c6f628cbb3]
+## 2. Appointment of inspector[^c-451b4366bc7adbab213236c6f628cbb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-451b4366bc7adbab213236c6f628cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-451b4366bc7adbab213236c6f628cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-451b4366bc7adbab213236c6f628cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-451b4366bc7adbab213236c6f628cbb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-451b4366bc7adbab213236c6f628cbb3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2721) revoked (12.12.2013) by [The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2013 (S.I. 2013/3155)](https://www.legislation.gov.uk/uksi/2013/3155), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3155/article/1), [3](https://www.legislation.gov.uk/uksi/2013/3155/article/3)
+[^c-451b4366bc7adbab213236c6f628cbb3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2721) revoked (12.12.2013) by [The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2013 (S.I. 2013/3155)](https://www.legislation.gov.uk/uksi/2013/3155), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3155/article/1), [3](https://www.legislation.gov.uk/uksi/2013/3155/article/3)

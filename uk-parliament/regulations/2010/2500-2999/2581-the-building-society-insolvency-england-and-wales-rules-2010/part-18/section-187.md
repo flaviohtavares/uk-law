@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Notice of application under section 176A(5)[^key-8ce5bcd27978e02e4b2066240ffa146a]
+## 187. Notice of application under section 176A(5)[^c-8ce5bcd27978e02e4b2066240ffa146a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.4A[^f00067] of the 1986 Rules. Leave out the words from “save tha
 
 ## Annotations
 
-[^key-8ce5bcd27978e02e4b2066240ffa146a]: Commencement: Rule 187 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-8ce5bcd27978e02e4b2066240ffa146a]: Commencement: Rule 187 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00067]: Footnote: Rule 7.4A was inserted by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).

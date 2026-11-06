@@ -41,333 +41,333 @@ of 19 May 1998
 
 concerning short-term statistics (revoked)
 
-[^key-a370a946382593caa5fe2c00faf345a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a370a946382593caa5fe2c00faf345a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. General aims[^key-a370a946382593caa5fe2c00faf345a4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Scope[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 1. General aims[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Annexes[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 2. Scope[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Collection of data[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 3. Annexes[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Periodicity[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 4. Collection of data[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Level of detail[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 5. Periodicity[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Processing[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 6. Level of detail[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transmission[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 7. Processing[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Treatment of confidential data[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 8. Transmission[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Quality[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 9. Treatment of confidential data[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Change of weightings and base year[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 10. Quality[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Methodological manual[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 11. Change of weightings and base year[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Transition period and derogations[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 12. Methodological manual[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Reports[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 13. Transition period and derogations[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Coordination in the Member States[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 14. Reports[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Pilot studies[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 15. Coordination in the Member States[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Implementing measures[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 16. Pilot studies[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Committee procedure[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 17. Implementing measures[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Repealing provisions[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 18. Committee procedure[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Entry into force[^key-a370a946382593caa5fe2c00faf345a4]
+## Article 19. Repealing provisions[^c-a370a946382593caa5fe2c00faf345a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 20. Entry into force[^c-a370a946382593caa5fe2c00faf345a4]
 
-## ANNEX A — INDUSTRY[^key-a370a946382593caa5fe2c00faf345a4]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4] (a)
+[^c-a370a946382593caa5fe2c00faf345a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX A — INDUSTRY[^c-a370a946382593caa5fe2c00faf345a4]
+
+[^c-a370a946382593caa5fe2c00faf345a4] (a)
 
 Scope
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](b)
+[^c-a370a946382593caa5fe2c00faf345a4](b)
 
 Observation unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](c)
+[^c-a370a946382593caa5fe2c00faf345a4](c)
 
 List of variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](d)
+[^c-a370a946382593caa5fe2c00faf345a4](d)
 
 Form
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](e)
+[^c-a370a946382593caa5fe2c00faf345a4](e)
 
 Reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](f)
+[^c-a370a946382593caa5fe2c00faf345a4](f)
 
 Level of detail
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](g)
+[^c-a370a946382593caa5fe2c00faf345a4](g)
 
 Deadlines for data transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](h)
+[^c-a370a946382593caa5fe2c00faf345a4](h)
 
 Pilot studies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](i)
+[^c-a370a946382593caa5fe2c00faf345a4](i)
 
 First reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](j)
+[^c-a370a946382593caa5fe2c00faf345a4](j)
 
 Transition period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX B — CONSTRUCTION[^key-a370a946382593caa5fe2c00faf345a4]
+## ANNEX B — CONSTRUCTION[^c-a370a946382593caa5fe2c00faf345a4]
 
-[^key-a370a946382593caa5fe2c00faf345a4] (a)
+[^c-a370a946382593caa5fe2c00faf345a4] (a)
 
 Scope
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](b)
+[^c-a370a946382593caa5fe2c00faf345a4](b)
 
 Observation unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](c)
+[^c-a370a946382593caa5fe2c00faf345a4](c)
 
 List of variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](d)
+[^c-a370a946382593caa5fe2c00faf345a4](d)
 
 Form
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](e)
+[^c-a370a946382593caa5fe2c00faf345a4](e)
 
 Reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](f)
+[^c-a370a946382593caa5fe2c00faf345a4](f)
 
 Level of detail
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](g)
+[^c-a370a946382593caa5fe2c00faf345a4](g)
 
 Deadlines for data transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](h)
+[^c-a370a946382593caa5fe2c00faf345a4](h)
 
 Pilot studies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](i)
+[^c-a370a946382593caa5fe2c00faf345a4](i)
 
 First reference year
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](j)
+[^c-a370a946382593caa5fe2c00faf345a4](j)
 
 Transition period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX C — RETAIL TRADE AND REPAIR[^key-a370a946382593caa5fe2c00faf345a4]
+## ANNEX C — RETAIL TRADE AND REPAIR[^c-a370a946382593caa5fe2c00faf345a4]
 
-[^key-a370a946382593caa5fe2c00faf345a4] (a)
+[^c-a370a946382593caa5fe2c00faf345a4] (a)
 
 Scope
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](b)
+[^c-a370a946382593caa5fe2c00faf345a4](b)
 
 Observation unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](c)
+[^c-a370a946382593caa5fe2c00faf345a4](c)
 
 List of variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](d)
+[^c-a370a946382593caa5fe2c00faf345a4](d)
 
 Form
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](e)
+[^c-a370a946382593caa5fe2c00faf345a4](e)
 
 Reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](f)
+[^c-a370a946382593caa5fe2c00faf345a4](f)
 
 Level of detail
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](g)
+[^c-a370a946382593caa5fe2c00faf345a4](g)
 
 Deadlines for data transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](h)
+[^c-a370a946382593caa5fe2c00faf345a4](h)
 
 Pilot studies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](i)
+[^c-a370a946382593caa5fe2c00faf345a4](i)
 
 First reference year
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](j)
+[^c-a370a946382593caa5fe2c00faf345a4](j)
 
 Transition period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX D — OTHER SERVICES[^key-a370a946382593caa5fe2c00faf345a4]
+## ANNEX D — OTHER SERVICES[^c-a370a946382593caa5fe2c00faf345a4]
 
-[^key-a370a946382593caa5fe2c00faf345a4] (a)
+[^c-a370a946382593caa5fe2c00faf345a4] (a)
 
 Scope
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](b)
+[^c-a370a946382593caa5fe2c00faf345a4](b)
 
 Observation unit
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](c)
+[^c-a370a946382593caa5fe2c00faf345a4](c)
 
 List of variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](d)
+[^c-a370a946382593caa5fe2c00faf345a4](d)
 
 Form
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](e)
+[^c-a370a946382593caa5fe2c00faf345a4](e)
 
 Reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](f)
+[^c-a370a946382593caa5fe2c00faf345a4](f)
 
 Level of detail
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](g)
+[^c-a370a946382593caa5fe2c00faf345a4](g)
 
 Deadlines for data transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](h)
+[^c-a370a946382593caa5fe2c00faf345a4](h)
 
 Pilot studies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4](i)
+[^c-a370a946382593caa5fe2c00faf345a4](i)
 
 First reference period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a370a946382593caa5fe2c00faf345a4] (j)
+[^c-a370a946382593caa5fe2c00faf345a4] (j)
 
 Transition period
 
@@ -375,4 +375,4 @@ Transition period
 
 ## Annotations
 
-[^key-a370a946382593caa5fe2c00faf345a4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a370a946382593caa5fe2c00faf345a4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

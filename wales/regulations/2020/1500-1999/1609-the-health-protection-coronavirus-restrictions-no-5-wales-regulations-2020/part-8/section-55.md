@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Self-incrimination[^key-1fe4c043f63dac1931e7937d49f9d30e]
+## 55. Self-incrimination[^c-1fe4c043f63dac1931e7937d49f9d30e]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fe4c043f63dac1931e7937d49f9d30e]: Commencement: Reg. 55 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-1fe4c043f63dac1931e7937d49f9d30e]: Commencement: Reg. 55 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
 [^c24382781]: Marginal citation: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6). Section 5 was amended by section 1(2) of the [Criminal Justice Act 1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58).

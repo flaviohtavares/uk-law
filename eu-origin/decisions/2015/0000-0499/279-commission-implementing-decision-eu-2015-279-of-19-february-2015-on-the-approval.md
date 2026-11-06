@@ -109,7 +109,7 @@ HAS ADOPTED THIS DECISION:
 
 3. The individual eco-innovation code to be entered into type-approval documentation to be used for the innovative technology approved through this Implementing Decision shall be ‘11’.
 
-**Article 2.**[^key-4d62c3258a14d8fcee2a103304eafd1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4d62c3258a14d8fcee2a103304eafd1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 19 February 2015.
 
@@ -133,4 +133,4 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: Commission Implementing Decision 2014/806/EU of 18 November 2014 on the approval of the battery charging Webasto solar roof as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation (EC) No 443/2009 of the European Parliament and of the Council ([OJ L 332, 19.11.2014, p. 34](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.332.01.0034.01.ENG)).
 
-[^key-4d62c3258a14d8fcee2a103304eafd1c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2015/279/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d62c3258a14d8fcee2a103304eafd1c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2015/279/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

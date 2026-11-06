@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Initial measures following notification[^key-941f20763e4057be4d4aa904f2c49c42]
+## 6. Initial measures following notification[^c-941f20763e4057be4d4aa904f2c49c42]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-941f20763e4057be4d4aa904f2c49c42]: Commencement: Reg. 6 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-941f20763e4057be4d4aa904f2c49c42]: Commencement: Reg. 6 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

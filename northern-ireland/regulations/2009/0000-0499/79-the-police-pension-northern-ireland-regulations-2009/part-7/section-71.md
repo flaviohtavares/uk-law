@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Refusal to be medically examined[^key-7ace294ec4aa063216dd504fbf15f06c]
+## 71. Refusal to be medically examined[^c-7ace294ec4aa063216dd504fbf15f06c]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If a question is referred to a medical authority under regulation 67, 68 or 69 a
 
 ## Annotations
 
-[^key-7ace294ec4aa063216dd504fbf15f06c]: Commencement: Reg. 71 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-7ace294ec4aa063216dd504fbf15f06c]: Commencement: Reg. 71 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

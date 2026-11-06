@@ -61,7 +61,7 @@ to be published in the London Gazette and in such other manner as he thinks best
 
 **4.** (1) After the appropriate Minister has made an order to which this Schedule applies, the order, together with a notice under sub-paragraph (2) below, shall be published in such manner as he thinks best adapted for informing the persons affected.
 
-(1A)[^key-756d1d33cbc0659eb456a7e621ee8bbc] But this paragraph does not apply to an order confirming a scheme under section 3 of this Act.
+(1A)[^c-756d1d33cbc0659eb456a7e621ee8bbc] But this paragraph does not apply to an order confirming a scheme under section 3 of this Act.
 
 (2) A notice under this sub-paragraph is a notice—
 
@@ -72,7 +72,7 @@ to be published in the London Gazette and in such other manner as he thinks best
 
 ### Orders subject to special parliamentary procedure
 
-**5.** (1) If, in the case of any order to which paragraph 4[^key-c5fbd65084225efd0159fe3e85fa8524] applies, either—
+**5.** (1) If, in the case of any order to which paragraph 4[^c-c5fbd65084225efd0159fe3e85fa8524] applies, either—
 
 - (a) no such memorial as is mentioned in paragraph 4(2) above has been presented within the period so mentioned; or
 - (b) every memorial so presented has been withdrawn,
@@ -83,7 +83,7 @@ the appropriate Minister shall confirm the order and it shall thereupon have eff
 
 (3) An order to which this Schedule applies shall, in any event, be subject to special parliamentary procedure if the appropriate Minister so directs.
 
-(3A)[^key-caa6850a93f986b88265aa1410aea843] But sub-paragraph (3) does not apply to an order confirming a scheme under section 3 of this Act.
+(3A)[^c-caa6850a93f986b88265aa1410aea843] But sub-paragraph (3) does not apply to an order confirming a scheme under section 3 of this Act.
 
 (4) The appropriate Minister may, at any time before it has been laid before Parliament, revoke, either wholly or partially, any order to which this Schedule applies which is subject to special parliamentary procedure.
 
@@ -110,7 +110,7 @@ he may, within six weeks of the relevant date, make an application for the purpo
 
 may quash the order either generally or in so far as it affects the applicant.
 
-(3) Except by leave of the Court of Appeal, no appeal shall lie to the Supreme Court[^key-839b450fc1069d8238c3980c9c7170b1] from a decision of the Court of Appeal in proceedings under this paragraph.
+(3) Except by leave of the Court of Appeal, no appeal shall lie to the Supreme Court[^c-839b450fc1069d8238c3980c9c7170b1] from a decision of the Court of Appeal in proceedings under this paragraph.
 
 (4) Subject to the preceding provisions of this paragraph, an unconfirmed order shall not at any time be questioned in any legal proceedings whatsoever.
 
@@ -133,12 +133,12 @@ may quash the order either generally or in so far as it affects the applicant.
 
 [^c1415689]: Textual amendment: Words inserted in Sch. 3,para. 2(2)(a) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11), [Pt. II](https://www.legislation.gov.uk/ukpga/1994/19/part/II), [para. 4(14)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/4/14) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art.3](https://www.legislation.gov.uk/uksi/1996/396/article/3)
 
-[^key-756d1d33cbc0659eb456a7e621ee8bbc]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/4/1A) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 85(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/85/2), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
+[^c-756d1d33cbc0659eb456a7e621ee8bbc]: Textual amendment: [Sch. 3 para. 4(1A)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/4/1A) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 85(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/85/2), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
 
-[^key-c5fbd65084225efd0159fe3e85fa8524]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/5/1) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 85(3)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/85/3/a), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
+[^c-c5fbd65084225efd0159fe3e85fa8524]: Textual amendment: Words in [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/5/1) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 85(3)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/85/3/a), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
 
-[^key-caa6850a93f986b88265aa1410aea843]: Textual amendment: [Sch. 3 para. 5(3A)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/5/3A) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 85(3)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/85/3/b), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
+[^c-caa6850a93f986b88265aa1410aea843]: Textual amendment: [Sch. 3 para. 5(3A)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/5/3A) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 85(3)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/85/3/b), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
 
-[^key-839b450fc1069d8238c3980c9c7170b1]: Textual amendment: Words in [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/7/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 56](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/56); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-839b450fc1069d8238c3980c9c7170b1]: Textual amendment: Words in [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/3/paragraph/7/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 56](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/56); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c1415690]: Marginal citation: [1945 c. 18 (9 & 10 Geo 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/18).

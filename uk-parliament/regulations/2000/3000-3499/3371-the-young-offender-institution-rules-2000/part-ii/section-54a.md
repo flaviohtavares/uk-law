@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Compulsory testing for alcohol[^key-2041287c247c72ef5eb78d186febfd58]
+## 54A. Compulsory testing for alcohol[^c-2041287c247c72ef5eb78d186febfd58]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2041287c247c72ef5eb78d186febfd58]: Textual amendment: [Rule 54A](https://www.legislation.gov.uk/uksi/2000/3371/rule/54A) inserted (18.4.2005) by [The Young Offender Institution (Amendment) Rules 2005 (S.I. 2005/897)](https://www.legislation.gov.uk/uksi/2005/897), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/897/rule/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/897/schedule/paragraph/3)
+[^c-2041287c247c72ef5eb78d186febfd58]: Textual amendment: [Rule 54A](https://www.legislation.gov.uk/uksi/2000/3371/rule/54A) inserted (18.4.2005) by [The Young Offender Institution (Amendment) Rules 2005 (S.I. 2005/897)](https://www.legislation.gov.uk/uksi/2005/897), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/897/rule/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/897/schedule/paragraph/3)

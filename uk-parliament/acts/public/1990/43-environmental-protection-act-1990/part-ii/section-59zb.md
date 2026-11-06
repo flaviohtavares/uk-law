@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59ZB. Powers to require removal of waste unlawfully kept or disposed of: England and Wales[^key-bc65007e51aa76b772e7f299e2ea5257]
+## 59ZB. Powers to require removal of waste unlawfully kept or disposed of: England and Wales[^c-bc65007e51aa76b772e7f299e2ea5257]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ the authority may remove the waste from the land, or take steps to eliminate or 
 
 except such of the cost as the occupier or that person shows was incurred unnecessarily.
 
-(10) An authority may not recover costs under subsection (9) if a compensation order (within the meaning given by section 133 of the Sentencing Code) has been made[^key-ebcb55fd990459b4b23b61468e2246a5] in favour of the authority in respect of any part of those costs.
+(10) An authority may not recover costs under subsection (9) if a compensation order (within the meaning given by section 133 of the Sentencing Code) has been made[^c-ebcb55fd990459b4b23b61468e2246a5] in favour of the authority in respect of any part of those costs.
 
 (11) Subsection (10) does not apply if the compensation order is set aside on appeal.
 
@@ -72,6 +72,6 @@ except such of the cost as the occupier or that person shows was incurred unnece
 
 ## Annotations
 
-[^key-bc65007e51aa76b772e7f299e2ea5257]: Textual amendment: Ss. 59ZB, 59ZC inserted (E.W.) (9.5.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/369/schedule/1/paragraph/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/4/2))
+[^c-bc65007e51aa76b772e7f299e2ea5257]: Textual amendment: Ss. 59ZB, 59ZC inserted (E.W.) (9.5.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/369/schedule/1/paragraph/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/4/2))
 
-[^key-ebcb55fd990459b4b23b61468e2246a5]: Textual amendment: Words in [s. 59ZB(10)](https://www.legislation.gov.uk/ukpga/1990/43/section/59ZB/10) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 119](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/119) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ebcb55fd990459b4b23b61468e2246a5]: Textual amendment: Words in [s. 59ZB(10)](https://www.legislation.gov.uk/ukpga/1990/43/section/59ZB/10) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 119](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/119) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

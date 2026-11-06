@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239A. Conduct notices: transferees[^key-67d67a3c23b2dd5e85be5eb57c9051ae]
+## 239A. Conduct notices: transferees[^c-67d67a3c23b2dd5e85be5eb57c9051ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67d67a3c23b2dd5e85be5eb57c9051ae]: Textual amendment: [S. 239A](https://www.legislation.gov.uk/ukpga/2014/26/section/239A) inserted (with effect in accordance with Sch. 30 para. 20(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 20(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/20/1)
+[^c-67d67a3c23b2dd5e85be5eb57c9051ae]: Textual amendment: [S. 239A](https://www.legislation.gov.uk/ukpga/2014/26/section/239A) inserted (with effect in accordance with Sch. 30 para. 20(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 20(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/20/1)

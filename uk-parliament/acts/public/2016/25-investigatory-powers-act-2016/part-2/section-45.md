@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Interception by providers of postal or telecommunications services[^key-b9c9a899663559d6bbd71b48e1d144bf]
+## 45. Interception by providers of postal or telecommunications services[^c-b9c9a899663559d6bbd71b48e1d144bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9c9a899663559d6bbd71b48e1d144bf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/25/section/45) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-b9c9a899663559d6bbd71b48e1d144bf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/25/section/45) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

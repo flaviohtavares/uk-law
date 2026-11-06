@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Compulsory works orders[^key-ad552a84c1dfc5de2b9adff70a56a2a0]
+## 41. Compulsory works orders[^c-ad552a84c1dfc5de2b9adff70a56a2a0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad552a84c1dfc5de2b9adff70a56a2a0]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2010/29/section/41) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-ad552a84c1dfc5de2b9adff70a56a2a0]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2010/29/section/41) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

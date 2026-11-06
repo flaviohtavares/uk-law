@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Protective provisions[^key-c1ceceecdd4f167d348cc38860748b2a]
+## 43. Protective provisions[^c-c1ceceecdd4f167d348cc38860748b2a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-c1ceceecdd4f167d348cc38860748b2a]: Commencement: Art. 43 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-c1ceceecdd4f167d348cc38860748b2a]: Commencement: Art. 43 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

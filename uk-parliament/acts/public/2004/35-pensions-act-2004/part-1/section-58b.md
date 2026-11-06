@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58B. Offence of conduct risking accrued scheme benefits[^key-2ad9ff8140e68e19b32593871481ce82]
+## 58B. Offence of conduct risking accrued scheme benefits[^c-2ad9ff8140e68e19b32593871481ce82]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad9ff8140e68e19b32593871481ce82]: Textual amendment: [Ss. 58A](https://www.legislation.gov.uk/ukpga/2004/35/section/58A), [58B](https://www.legislation.gov.uk/ukpga/2004/35/section/58B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 107(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/107/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))
+[^c-2ad9ff8140e68e19b32593871481ce82]: Textual amendment: [Ss. 58A](https://www.legislation.gov.uk/ukpga/2004/35/section/58A), [58B](https://www.legislation.gov.uk/ukpga/2004/35/section/58B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 107(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/107/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))

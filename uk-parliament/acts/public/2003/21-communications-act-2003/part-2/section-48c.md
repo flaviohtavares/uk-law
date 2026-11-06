@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48C. Delivery of copies of notifications etc. in respect of section 45 conditions[^key-c7ff96e10e035df592016589a6a01cbc]
+## 48C. Delivery of copies of notifications etc. in respect of section 45 conditions[^c-c7ff96e10e035df592016589a6a01cbc]
 
 *Extent: E+W+S+N.I.*
 
 (1) OFCOM must send to the Secretary of State a copy of every notification published under section 48(1) or 48A(3).
 
-(2)[^key-2ce9b751888f3b86455d949d64194ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2ce9b751888f3b86455d949d64194ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2ce9b751888f3b86455d949d64194ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2ce9b751888f3b86455d949d64194ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2ce9b751888f3b86455d949d64194ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2ce9b751888f3b86455d949d64194ae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7ff96e10e035df592016589a6a01cbc]: Textual amendment: Ss. 48A-48C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/23) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [6](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/6))
+[^c-c7ff96e10e035df592016589a6a01cbc]: Textual amendment: Ss. 48A-48C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/23) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [6](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/6))
 
-[^key-2ce9b751888f3b86455d949d64194ae5]: Textual amendment: S. 48C(2)-(4) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ce9b751888f3b86455d949d64194ae5]: Textual amendment: S. 48C(2)-(4) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 17(2), 19C(2) and 218 of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-20ac86e565e77713c85afd2feef66498]
+## 1. Citation and commencement[^c-20ac86e565e77713c85afd2feef66498]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2026 and shall come into operation on 1st August 2026.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations[^key-85a5127baaacf06edc847bb367e2d5ef]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations[^c-85a5127baaacf06edc847bb367e2d5ef]
 
 (1) In regulation 5 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00004] (competence to drive classes of vehicles), after paragraph (11) insert—
 
@@ -100,8 +100,8 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-20ac86e565e77713c85afd2feef66498]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/119/regulation/1) in operation at 1.8.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/119/regulation/1)
+[^c-20ac86e565e77713c85afd2feef66498]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/119/regulation/1) in operation at 1.8.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/119/regulation/1)
 
-[^key-85a5127baaacf06edc847bb367e2d5ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/119/regulation/2) in operation at 1.8.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/119/regulation/1)
+[^c-85a5127baaacf06edc847bb367e2d5ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/119/regulation/2) in operation at 1.8.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/119/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542) to which there are amendments not relevant to these Regulations

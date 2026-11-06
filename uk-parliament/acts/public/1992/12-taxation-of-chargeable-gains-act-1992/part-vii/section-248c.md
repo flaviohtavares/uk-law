@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248C. Excluded land[^key-486b2ef49ea7f18e34cbfef66ee55b81]
+## 248C. Excluded land[^c-486b2ef49ea7f18e34cbfef66ee55b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
+[^c-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)

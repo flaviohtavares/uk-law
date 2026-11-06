@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the 2003 Regulations[^key-55fd71a1d213d58f834b8610664d29a4]
+## 2. Amendment of the 2003 Regulations[^c-55fd71a1d213d58f834b8610664d29a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The 2003 Regulations are amended as provided for in regulations 3 to 52 and 58 t
 
 ## Annotations
 
-[^key-55fd71a1d213d58f834b8610664d29a4]: Commencement: Reg. 2 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-55fd71a1d213d58f834b8610664d29a4]: Commencement: Reg. 2 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

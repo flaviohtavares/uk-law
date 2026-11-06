@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Feedingstuffs (Zootechnical Products) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-738017f9da5390fa9302953a1833bb2f]
+Feedingstuffs (Zootechnical Products) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-738017f9da5390fa9302953a1833bb2f]
 
 Made
 
@@ -41,54 +41,54 @@ Coming into operation
 
 25th April 2002
 
-[^key-738017f9da5390fa9302953a1833bb2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-738017f9da5390fa9302953a1833bb2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-738017f9da5390fa9302953a1833bb2f]
+## 1. Citation and commencement[^c-738017f9da5390fa9302953a1833bb2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-738017f9da5390fa9302953a1833bb2f]
+## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-738017f9da5390fa9302953a1833bb2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment and substitution of regulations[^key-738017f9da5390fa9302953a1833bb2f]
+## 3. Amendment and substitution of regulations[^c-738017f9da5390fa9302953a1833bb2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-738017f9da5390fa9302953a1833bb2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-738017f9da5390fa9302953a1833bb2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Substitution for Schedule 3[^key-738017f9da5390fa9302953a1833bb2f]
+## 5. Substitution for Schedule 3[^c-738017f9da5390fa9302953a1833bb2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-738017f9da5390fa9302953a1833bb2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-738017f9da5390fa9302953a1833bb2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-738017f9da5390fa9302953a1833bb2f]
+## SCHEDULE[^c-738017f9da5390fa9302953a1833bb2f]
 
 Regulation 5
 
-> **“SCHEDULE 3 — Fees[^key-738017f9da5390fa9302953a1833bb2f]**
+> **“SCHEDULE 3 — Fees[^c-738017f9da5390fa9302953a1833bb2f]**
 >
 > Regulations 6(8)(*b*), 9(1), 15(1), 23(1) and 75
 >
-> **Part I — Fees payable in relation to dossiers[^key-738017f9da5390fa9302953a1833bb2f]**
+> **Part I — Fees payable in relation to dossiers[^c-738017f9da5390fa9302953a1833bb2f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Fees payable in relation to the approval and official checks of establishments[^key-738017f9da5390fa9302953a1833bb2f]**
+> **Part II — Fees payable in relation to the approval and official checks of establishments[^c-738017f9da5390fa9302953a1833bb2f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part III — Fees payable in relation to the approval and official checks of intermediaries[^key-738017f9da5390fa9302953a1833bb2f]**
+> **Part III — Fees payable in relation to the approval and official checks of intermediaries[^c-738017f9da5390fa9302953a1833bb2f]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-738017f9da5390fa9302953a1833bb2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-738017f9da5390fa9302953a1833bb2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-738017f9da5390fa9302953a1833bb2f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/162) revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-738017f9da5390fa9302953a1833bb2f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/162) revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

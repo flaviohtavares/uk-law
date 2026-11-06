@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Registration of ships: basic provisions.[^key-069b3276e655ef6384c4f0a090ed43b7]
+## 9. Registration of ships: basic provisions.[^c-069b3276e655ef6384c4f0a090ed43b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-069b3276e655ef6384c4f0a090ed43b7]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/1995/21/section/9) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-069b3276e655ef6384c4f0a090ed43b7]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/1995/21/section/9) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

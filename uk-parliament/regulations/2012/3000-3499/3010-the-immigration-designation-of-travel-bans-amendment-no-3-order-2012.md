@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Designation of Travel Bans) (Amendment No. 3) Order 2012 (revoked)[^key-64b96fa428d816f84ace425d4f6b5091]
+The Immigration (Designation of Travel Bans) (Amendment No. 3) Order 2012 (revoked)[^c-64b96fa428d816f84ace425d4f6b5091]
 
 Made
 
@@ -46,20 +46,20 @@ Coming into force
 
 7th December 2012
 
-[^key-64b96fa428d816f84ace425d4f6b5091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64b96fa428d816f84ace425d4f6b5091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-64b96fa428d816f84ace425d4f6b5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-64b96fa428d816f84ace425d4f6b5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-64b96fa428d816f84ace425d4f6b5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-64b96fa428d816f84ace425d4f6b5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64b96fa428d816f84ace425d4f6b5091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64b96fa428d816f84ace425d4f6b5091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-64b96fa428d816f84ace425d4f6b5091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64b96fa428d816f84ace425d4f6b5091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64b96fa428d816f84ace425d4f6b5091]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3010) revoked (21.7.2014) by [The Immigration (Designation of Travel Bans) (Amendment) Order 2014 (S.I. 2014/1849)](https://www.legislation.gov.uk/uksi/2014/1849), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1849/article/1), [3](https://www.legislation.gov.uk/uksi/2014/1849/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/1849/schedule/2)
+[^c-64b96fa428d816f84ace425d4f6b5091]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3010) revoked (21.7.2014) by [The Immigration (Designation of Travel Bans) (Amendment) Order 2014 (S.I. 2014/1849)](https://www.legislation.gov.uk/uksi/2014/1849), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1849/article/1), [3](https://www.legislation.gov.uk/uksi/2014/1849/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/1849/schedule/2)

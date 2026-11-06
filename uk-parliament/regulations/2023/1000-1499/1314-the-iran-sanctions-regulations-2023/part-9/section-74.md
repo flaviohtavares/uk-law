@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. General trade licences: records[^key-4f7d1c3135738446293fab9a466a983c]
+## 74. General trade licences: records[^c-4f7d1c3135738446293fab9a466a983c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7d1c3135738446293fab9a466a983c]: Commencement: Reg. 74 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-4f7d1c3135738446293fab9a466a983c]: Commencement: Reg. 74 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

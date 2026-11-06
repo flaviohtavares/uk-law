@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Animal welfare offences: penalties
 
-#### 1. Prevention of harm to animals: penalties for offences[^key-761c55b74342f26063a978881bfac225]
+#### 1. Prevention of harm to animals: penalties for offences[^c-761c55b74342f26063a978881bfac225]
 
 (1) The Animal Health and Welfare (Scotland) Act 2006 (in this Act, “the 2006 Act”) is amended as follows.
 
@@ -63,7 +63,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Section 44 is repealed.
 
-#### 2. Fixed penalty notices for certain animal welfare offences[^key-5f2de8ea4381f9abc0a3ddc3a884a250]
+#### 2. Fixed penalty notices for certain animal welfare offences[^c-5f2de8ea4381f9abc0a3ddc3a884a250]
 
 In the 2006 Act, after section 46 insert—
 
@@ -131,7 +131,7 @@ In the 2006 Act, after section 46 insert—
 
 ### Protecting police dogs etc. from unnecessary suffering
 
-#### 3. Harming a service animal[^key-4c9353e5ee87dc7a5364527f1cbdd3ad]
+#### 3. Harming a service animal[^c-4c9353e5ee87dc7a5364527f1cbdd3ad]
 
 In section 19 (unnecessary suffering) of the 2006 Act, after subsection (4) insert—
 
@@ -158,7 +158,7 @@ In section 19 (unnecessary suffering) of the 2006 Act, after subsection (4) inse
 
 ### Animal welfare offences: disqualification orders
 
-#### 4. Disqualification orders[^key-dbf63cf8488a7bab52a9a814cd01c073]
+#### 4. Disqualification orders[^c-dbf63cf8488a7bab52a9a814cd01c073]
 
 (1) The 2006 Act is amended as follows.
 
@@ -194,7 +194,7 @@ In section 19 (unnecessary suffering) of the 2006 Act, after subsection (4) inse
 
 .
 
-#### 5. Disqualification orders: further provision[^key-99ba4ab17b51eacbbba0c674be4d6b87]
+#### 5. Disqualification orders: further provision[^c-99ba4ab17b51eacbbba0c674be4d6b87]
 
 (1) The 2006 Act is amended as follows.
 
@@ -209,7 +209,7 @@ In section 19 (unnecessary suffering) of the 2006 Act, after subsection (4) inse
 
 ### Animal health offences: penalties
 
-#### 6. Fixed penalty notices for offences relating to animal health[^key-f88ffd26235935d37d573d5bc9f4a035]
+#### 6. Fixed penalty notices for offences relating to animal health[^c-f88ffd26235935d37d573d5bc9f4a035]
 
 In the Animal Health Act 1981, after section 76 insert—
 
@@ -289,7 +289,7 @@ In the Animal Health Act 1981, after section 76 insert—
 
 ### Wildlife offences: penalties
 
-#### 7. Wildlife and Countryside Act 1981: penalties for offences[^key-7b8016542291dce3b662850228164312]
+#### 7. Wildlife and Countryside Act 1981: penalties for offences[^c-7b8016542291dce3b662850228164312]
 
 (1) The Wildlife and Countryside Act 1981 is amended as follows.
 
@@ -386,7 +386,7 @@ In the Animal Health Act 1981, after section 76 insert—
   - (i) after “(1),” insert “ or (1B) ”,
   - (ii) for “that subsection” substitute “ the subsection in question ”.
 
-#### 8. Protection of Badgers Act 1992: penalties for offences[^key-ba054f9908e69c439fc9fe7e3ecbbbb8]
+#### 8. Protection of Badgers Act 1992: penalties for offences[^c-ba054f9908e69c439fc9fe7e3ecbbbb8]
 
 (1) The Protection of Badgers Act 1992 is amended as follows.
 
@@ -436,7 +436,7 @@ In the Animal Health Act 1981, after section 76 insert—
 
   .
 
-#### 9. Conservation (Natural Habitats, etc.) Regulations 1994: penalties for offences[^key-598d56bc44a2c1b8b731200ae6eda8db]
+#### 9. Conservation (Natural Habitats, etc.) Regulations 1994: penalties for offences[^c-598d56bc44a2c1b8b731200ae6eda8db]
 
 (1) The Conservation (Natural Habitats, etc.) Regulations 1994 (SI 1994/2716) are amended as follows.
 
@@ -460,7 +460,7 @@ In the Animal Health Act 1981, after section 76 insert—
 
 (4) In regulation 102 (proceedings for offences: venue, time limits), in paragraph (2), after first “offence” insert “ (other than for an offence under regulation 39 or 41) ”.
 
-#### 10. Deer (Scotland) Act 1996: penalties for offences[^key-8889b9aa6c0265cfcd3f2eb5ba010fca]
+#### 10. Deer (Scotland) Act 1996: penalties for offences[^c-8889b9aa6c0265cfcd3f2eb5ba010fca]
 
 In schedule 3 (penalties) of the Deer (Scotland) Act 1996—
 
@@ -481,7 +481,7 @@ In schedule 3 (penalties) of the Deer (Scotland) Act 1996—
   - (i) in column 3(a), for “a fine of the statutory maximum in respect of each deer killed, taken or injured or 6 months imprisonment or both” substitute “ a fine of £40,000 in respect of each deer killed, taken or injured or 12 months imprisonment or both ”,
   - (ii) in column 3(b), for “not exceeding 2” substitute “ of 5 ”.
 
-#### 11. Wild Mammals (Protection) Act 1996: penalties for offences[^key-485064b35d23c03ab3c787003d04d0c3]
+#### 11. Wild Mammals (Protection) Act 1996: penalties for offences[^c-485064b35d23c03ab3c787003d04d0c3]
 
 In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsection (1) substitute—
 
@@ -492,7 +492,7 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 
 .
 
-#### 12. Protection of Wild Mammals (Scotland) Act 2002: penalties for offences[^key-d2ce0d53ed7dbfc407d6769e03c2e2a9]
+#### 12. Protection of Wild Mammals (Scotland) Act 2002: penalties for offences[^c-d2ce0d53ed7dbfc407d6769e03c2e2a9]
 
 (1) The Protection of Wild Mammals (Scotland) Act 2002 is amended as follows.
 
@@ -522,7 +522,7 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 
 .
 
-#### 13. Fixed penalty notices for certain wildlife offences[^key-5bde74a66a2f3d79a7c0c2347d6f721d]
+#### 13. Fixed penalty notices for certain wildlife offences[^c-5bde74a66a2f3d79a7c0c2347d6f721d]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the issuing of fixed penalty notices in relation to certain offences relating to wildlife.
 
@@ -594,22 +594,22 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 
 #### 14. Killing, injuring or taking seals: offences, penalties etc.
 
-(1)[^key-24b19e82b5d9d82e9335ea3bfefba036] The Marine (Scotland) Act 2010 is amended as follows.
+(1)[^c-24b19e82b5d9d82e9335ea3bfefba036] The Marine (Scotland) Act 2010 is amended as follows.
 
-(2)[^key-8bc4d6aa3a5cae873043997422cd6e02] In section 110 (seal licences)—
+(2)[^c-8bc4d6aa3a5cae873043997422cd6e02] In section 110 (seal licences)—
 
 - (a) in subsection (1), paragraphs (f) and (g) are repealed,
 - (b) subsections (2) and (3) are repealed.
 
-(3)[^key-8bc4d6aa3a5cae873043997422cd6e02] Section 121 (power to enter land to protect fisheries or fish farms from seals) is repealed.
+(3)[^c-8bc4d6aa3a5cae873043997422cd6e02] Section 121 (power to enter land to protect fisheries or fish farms from seals) is repealed.
 
-(4)[^key-8bc4d6aa3a5cae873043997422cd6e02] In section 122(1) (duty to notify occupier), the words “or 121(2)(a)” are repealed.
+(4)[^c-8bc4d6aa3a5cae873043997422cd6e02] In section 122(1) (duty to notify occupier), the words “or 121(2)(a)” are repealed.
 
-(5)[^key-8bc4d6aa3a5cae873043997422cd6e02] In section 123 (duty to produce authority), the words “or 121” are repealed.
+(5)[^c-8bc4d6aa3a5cae873043997422cd6e02] In section 123 (duty to produce authority), the words “or 121” are repealed.
 
-(6)[^key-8bc4d6aa3a5cae873043997422cd6e02] In section 124 (obstructing an authorised person), the words “or 121” are repealed.
+(6)[^c-8bc4d6aa3a5cae873043997422cd6e02] In section 124 (obstructing an authorised person), the words “or 121” are repealed.
 
-(7)[^key-24b19e82b5d9d82e9335ea3bfefba036] In section 128 (penalties)—
+(7)[^c-24b19e82b5d9d82e9335ea3bfefba036] In section 128 (penalties)—
 
 - (a) before subsection (1) insert—
 
@@ -623,7 +623,7 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 
 ### Acoustic deterrent devices: requirement to report
 
-#### 15. Acoustic deterrent devices: requirement to report[^key-237e5b3be80f6dee9a042875e181f856]
+#### 15. Acoustic deterrent devices: requirement to report[^c-237e5b3be80f6dee9a042875e181f856]
 
 (1) The Scottish Ministers must, as soon as practicable and no later than 1 March 2021, lay a report before the Scottish Parliament on the use of acoustic deterrent devices on land constituting a fish farm.
 
@@ -637,7 +637,7 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 
 ### Review of requirements for additional animal welfare, animal health and wildlife offences
 
-#### 16. Review of requirements for additional animal welfare, animal health and wildlife offences[^key-27d7dd0a0dc27b6ff30728eb3c993170]
+#### 16. Review of requirements for additional animal welfare, animal health and wildlife offences[^c-27d7dd0a0dc27b6ff30728eb3c993170]
 
 (1) The Scottish Ministers must conduct a review of whether the provisions of this Act are sufficient to ensure appropriate standards of animal welfare, animal health and protection of wildlife.
 
@@ -689,13 +689,13 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 - (f) the Wild Mammals (Protection) Act 1996,
 - (g) the Protection of Wild Mammals (Scotland) Act 2002,
 - (h) the 2006 Act,
-- (i)[^key-06828f349de2104802779ec8a877ffbe] the Hunting with Dogs (Scotland) Act 2023.
+- (i)[^c-06828f349de2104802779ec8a877ffbe] the Hunting with Dogs (Scotland) Act 2023.
 
 (5) In preparing the report, the Scottish Ministers may consult such persons as they consider appropriate.
 
 ### Protection of certain wild animals
 
-#### 18. Protection of certain wild animals[^key-aacc821a82b219372e10fc027fbd6e51]
+#### 18. Protection of certain wild animals[^c-aacc821a82b219372e10fc027fbd6e51]
 
 (1) The Wildlife and Countryside Act 1981 is amended as follows.
 
@@ -725,7 +725,7 @@ In section 5 (penalties) of the Wild Mammals (Protection) Act 1996, for subsecti
 
 ## CHAPTER 2 — Animal welfare: powers in relation to animals taken into possession
 
-### 19. Taking possession of animals: additional powers[^key-bf91061354e5e7a3bcac54e4034f58d6]
+### 19. Taking possession of animals: additional powers[^c-bf91061354e5e7a3bcac54e4034f58d6]
 
 In the 2006 Act, after section 32 insert—
 
@@ -1131,7 +1131,7 @@ In the 2006 Act, after section 32 insert—
 
 .
 
-### 20. Taking possession of animals: amendment of existing powers[^key-fe697b45904fbde46b0c43c8476e8600]
+### 20. Taking possession of animals: amendment of existing powers[^c-fe697b45904fbde46b0c43c8476e8600]
 
 In section 32 (taking possession of animals) of the 2006 Act—
 
@@ -1144,7 +1144,7 @@ In section 32 (taking possession of animals) of the 2006 Act—
 
   .
 
-### 21. Disposal orders where animals taken: restriction of application[^key-c0d853aea72ad9548af3bc3103a29110]
+### 21. Disposal orders where animals taken: restriction of application[^c-c0d853aea72ad9548af3bc3103a29110]
 
 In section 34 (disposal orders where animals taken) of the 2006 Act—
 
@@ -1183,46 +1183,46 @@ The short title of this Act is the Animals and Wildlife (Penalties, Protections 
 
 ## Annotations
 
-[^key-761c55b74342f26063a978881bfac225]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/14/section/1) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-761c55b74342f26063a978881bfac225]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/14/section/1) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-5f2de8ea4381f9abc0a3ddc3a884a250]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/14/section/2) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-5f2de8ea4381f9abc0a3ddc3a884a250]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/14/section/2) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
 
-[^key-4c9353e5ee87dc7a5364527f1cbdd3ad]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/14/section/3) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-4c9353e5ee87dc7a5364527f1cbdd3ad]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/14/section/3) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-dbf63cf8488a7bab52a9a814cd01c073]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/14/section/4) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
+[^c-dbf63cf8488a7bab52a9a814cd01c073]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/14/section/4) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
 
-[^key-99ba4ab17b51eacbbba0c674be4d6b87]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/14/section/5) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/b)
+[^c-99ba4ab17b51eacbbba0c674be4d6b87]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/14/section/5) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/b)
 
-[^key-f88ffd26235935d37d573d5bc9f4a035]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/14/section/6) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-f88ffd26235935d37d573d5bc9f4a035]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/14/section/6) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
 
-[^key-7b8016542291dce3b662850228164312]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/14/section/7) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-7b8016542291dce3b662850228164312]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/14/section/7) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-ba054f9908e69c439fc9fe7e3ecbbbb8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/14/section/8) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-ba054f9908e69c439fc9fe7e3ecbbbb8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/14/section/8) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-598d56bc44a2c1b8b731200ae6eda8db]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/14/section/9) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-598d56bc44a2c1b8b731200ae6eda8db]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/14/section/9) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-8889b9aa6c0265cfcd3f2eb5ba010fca]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/14/section/10) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-8889b9aa6c0265cfcd3f2eb5ba010fca]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/14/section/10) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-485064b35d23c03ab3c787003d04d0c3]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/14/section/11) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-485064b35d23c03ab3c787003d04d0c3]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/14/section/11) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-d2ce0d53ed7dbfc407d6769e03c2e2a9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/14/section/12) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-d2ce0d53ed7dbfc407d6769e03c2e2a9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/14/section/12) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-5bde74a66a2f3d79a7c0c2347d6f721d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/14/section/13) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-5bde74a66a2f3d79a7c0c2347d6f721d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/14/section/13) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
 
-[^key-24b19e82b5d9d82e9335ea3bfefba036]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2020/14/section/14/1)[(7)](https://www.legislation.gov.uk/asp/2020/14/section/14/7) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-24b19e82b5d9d82e9335ea3bfefba036]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2020/14/section/14/1)[(7)](https://www.legislation.gov.uk/asp/2020/14/section/14/7) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-8bc4d6aa3a5cae873043997422cd6e02]: Commencement: [S. 14(2)-(6)](https://www.legislation.gov.uk/asp/2020/14/section/14/2) in force at 1.2.2021 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/2)
+[^c-8bc4d6aa3a5cae873043997422cd6e02]: Commencement: [S. 14(2)-(6)](https://www.legislation.gov.uk/asp/2020/14/section/14/2) in force at 1.2.2021 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/2)
 
-[^key-237e5b3be80f6dee9a042875e181f856]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/14/section/15) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-237e5b3be80f6dee9a042875e181f856]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/14/section/15) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
 
-[^key-27d7dd0a0dc27b6ff30728eb3c993170]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/14/section/16) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-27d7dd0a0dc27b6ff30728eb3c993170]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/14/section/16) in force at 30.11.2020 by [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
 
-[^key-06828f349de2104802779ec8a877ffbe]: Textual amendment: [S. 17(4)(i)](https://www.legislation.gov.uk/asp/2020/14/section/17/4/i) inserted (3.10.2023) by [Hunting with Dogs (Scotland) Act 2023 (asp 1)](https://www.legislation.gov.uk/asp/2023/1), [ss. 28(2)](https://www.legislation.gov.uk/asp/2023/1/section/28/2), [31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2) (with [ss. 29](https://www.legislation.gov.uk/asp/2023/1/section/29), [30](https://www.legislation.gov.uk/asp/2023/1/section/30)); [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+[^c-06828f349de2104802779ec8a877ffbe]: Textual amendment: [S. 17(4)(i)](https://www.legislation.gov.uk/asp/2020/14/section/17/4/i) inserted (3.10.2023) by [Hunting with Dogs (Scotland) Act 2023 (asp 1)](https://www.legislation.gov.uk/asp/2023/1), [ss. 28(2)](https://www.legislation.gov.uk/asp/2023/1/section/28/2), [31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2) (with [ss. 29](https://www.legislation.gov.uk/asp/2023/1/section/29), [30](https://www.legislation.gov.uk/asp/2023/1/section/30)); [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
 
-[^key-aacc821a82b219372e10fc027fbd6e51]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/14/section/18) in force at 1.3.2021 by [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)
+[^c-aacc821a82b219372e10fc027fbd6e51]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/14/section/18) in force at 1.3.2021 by [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)
 
-[^key-bf91061354e5e7a3bcac54e4034f58d6]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/14/section/19) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/c)
+[^c-bf91061354e5e7a3bcac54e4034f58d6]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/14/section/19) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/c)
 
-[^key-fe697b45904fbde46b0c43c8476e8600]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/14/section/20) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/d)
+[^c-fe697b45904fbde46b0c43c8476e8600]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/14/section/20) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/d)
 
-[^key-c0d853aea72ad9548af3bc3103a29110]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/14/section/21) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))
+[^c-c0d853aea72ad9548af3bc3103a29110]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/14/section/21) in force at 30.9.2021 by [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))

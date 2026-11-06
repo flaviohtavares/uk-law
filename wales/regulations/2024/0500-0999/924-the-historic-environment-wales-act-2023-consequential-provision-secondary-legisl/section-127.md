@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**127.**[^key-b77214045fd7e4bca827a7c46d7aebad] In regulation 2—
+**127.**[^c-b77214045fd7e4bca827a7c46d7aebad] In regulation 2—
 
 - (a) for the definition of “the 1990 Act” substitute ““**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;”;
 - (b) in the definition of “appointed person”, for “paragraph 1 of Schedule 1B to the 1990 Act” substitute “section 81(3) of the 2023 Act”;
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b77214045fd7e4bca827a7c46d7aebad]: Commencement: [Reg. 127](https://www.legislation.gov.uk/wsi/2024/924/regulation/127) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-b77214045fd7e4bca827a7c46d7aebad]: Commencement: [Reg. 127](https://www.legislation.gov.uk/wsi/2024/924/regulation/127) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

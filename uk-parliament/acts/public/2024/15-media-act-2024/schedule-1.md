@@ -24,7 +24,7 @@ Section 17
 
 ### Part 1 — Quotas: the BBC
 
-**1.**[^key-b5c2f182331a1c3542f4b558ce3e33c8][^key-3cd1265ec4c43ee9aff231d281285d7f] (1) Paragraph 1 of Schedule 12 to the Communications Act 2003 (the BBC: quotas for independent productions) is amended as follows.
+**1.**[^c-b5c2f182331a1c3542f4b558ce3e33c8][^c-3cd1265ec4c43ee9aff231d281285d7f] (1) Paragraph 1 of Schedule 12 to the Communications Act 2003 (the BBC: quotas for independent productions) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -58,7 +58,7 @@ Section 17
 
 ### Part 2 — Quotas: S4C
 
-**2.**[^key-fc81b083f025fef892165398dbd25ca8][^key-8704dbc2b0d369a286acbb7a8d73172a] (1) Paragraph 7 of Schedule 12 to the Communications Act 2003 (S4C: quotas for independent productions) is amended as follows.
+**2.**[^c-fc81b083f025fef892165398dbd25ca8][^c-8704dbc2b0d369a286acbb7a8d73172a] (1) Paragraph 7 of Schedule 12 to the Communications Act 2003 (S4C: quotas for independent productions) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -90,7 +90,7 @@ Section 17
 
 > (14) See also sections 278B and 278C (which make further provision for the interpretation of this paragraph etc).
 
-**3.**[^key-5e72829d4774e8f4a9f8a2dafec3199a][^key-3b6cad29a8f2e8a15742037eed3399f2][^key-0c78ed481e6255543226b8524a0f05d7] (1) Paragraph 8 of Schedule 12 to that Act (programme quotas for original productions) is amended as follows.
+**3.**[^c-5e72829d4774e8f4a9f8a2dafec3199a][^c-3b6cad29a8f2e8a15742037eed3399f2][^c-0c78ed481e6255543226b8524a0f05d7] (1) Paragraph 8 of Schedule 12 to that Act (programme quotas for original productions) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -133,7 +133,7 @@ Section 17
 
 > (13) See also sections 278B and 278C (which make further provision for the interpretation of this paragraph etc).
 
-**4.**[^key-c51d8030d15c9ab536ccbc9fe3eb04c2][^key-b56a92829f4c87047739c845f11799df][^key-53e6a7254dbd5c6496f0799b0e2bd611] In paragraph 10 of Schedule 12 to that Act (code relating to programme commissioning)—
+**4.**[^c-c51d8030d15c9ab536ccbc9fe3eb04c2][^c-b56a92829f4c87047739c845f11799df][^c-53e6a7254dbd5c6496f0799b0e2bd611] In paragraph 10 of Schedule 12 to that Act (code relating to programme commissioning)—
 
 - (a) in sub-paragraph (1), after “to be applied” insert
 
@@ -160,22 +160,22 @@ Section 17
 
 ## Annotations
 
-[^key-b5c2f182331a1c3542f4b558ce3e33c8]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-b5c2f182331a1c3542f4b558ce3e33c8]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-3cd1265ec4c43ee9aff231d281285d7f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/1) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
+[^c-3cd1265ec4c43ee9aff231d281285d7f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/1) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
 
-[^key-fc81b083f025fef892165398dbd25ca8]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-fc81b083f025fef892165398dbd25ca8]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-8704dbc2b0d369a286acbb7a8d73172a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/2) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
+[^c-8704dbc2b0d369a286acbb7a8d73172a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/2) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
 
-[^key-5e72829d4774e8f4a9f8a2dafec3199a]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-5e72829d4774e8f4a9f8a2dafec3199a]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-3b6cad29a8f2e8a15742037eed3399f2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/3) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-3b6cad29a8f2e8a15742037eed3399f2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/3) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-0c78ed481e6255543226b8524a0f05d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/3) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
+[^c-0c78ed481e6255543226b8524a0f05d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/3) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
 
-[^key-c51d8030d15c9ab536ccbc9fe3eb04c2]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-c51d8030d15c9ab536ccbc9fe3eb04c2]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-b56a92829f4c87047739c845f11799df]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/4) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-b56a92829f4c87047739c845f11799df]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/4) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
 
-[^key-53e6a7254dbd5c6496f0799b0e2bd611]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/4) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)
+[^c-53e6a7254dbd5c6496f0799b0e2bd611]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/4) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/s)

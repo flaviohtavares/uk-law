@@ -30,7 +30,7 @@ other than a relevant excluded contract.
 
 (2) In subsection (1)—
 
-- “**capital redemption policy**” means a contract made in the course of capital redemption business (as defined in section 56(3) of FA 2012[^key-180b242e40b54414983e21072e977a2a]),
+- “**capital redemption policy**” means a contract made in the course of capital redemption business (as defined in section 56(3) of FA 2012[^c-180b242e40b54414983e21072e977a2a]),
 - “**purchased life annuity**” means an annuity—
   - (a) granted for consideration in money or money's worth in the ordinary course of a business of granting annuities on human life, and
   - (b) payable for a term ending at a time ascertainable only by reference to the end of a human life (whether or not the annuity may in some circumstances end before or after the life), and
@@ -48,4 +48,4 @@ other than a relevant excluded contract.
 
 ## Annotations
 
-[^key-180b242e40b54414983e21072e977a2a]: Textual amendment: Words in s. 561(2) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 165](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/165)
+[^c-180b242e40b54414983e21072e977a2a]: Textual amendment: Words in s. 561(2) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 165](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/165)

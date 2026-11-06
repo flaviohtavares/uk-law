@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.5A. Confidentiality[^key-2f23fbdfb8f66d80baade536f7c33a33]
+## 3.5A. Confidentiality[^c-2f23fbdfb8f66d80baade536f7c33a33]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f23fbdfb8f66d80baade536f7c33a33]: Textual amendment: Rule 3.5A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(8)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/8) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-2f23fbdfb8f66d80baade536f7c33a33]: Textual amendment: Rule 3.5A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(8)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/8) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — APPLICATION OF FINANCIAL SERVICES AND MARKETS ACT 2000 TO TRANSFERRED FUNCTIONS[^key-8888c2f632e760099049c37a634f2e42]
+## SCHEDULE 2 — APPLICATION OF FINANCIAL SERVICES AND MARKETS ACT 2000 TO TRANSFERRED FUNCTIONS[^c-8888c2f632e760099049c37a634f2e42]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Article 4(3)
 
-### Interpretation[^key-8888c2f632e760099049c37a634f2e42]
+### Interpretation[^c-8888c2f632e760099049c37a634f2e42]
 
-**1.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### General[^key-8888c2f632e760099049c37a634f2e42]
+### General[^c-8888c2f632e760099049c37a634f2e42]
 
-**2.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rules relating to fees[^key-8888c2f632e760099049c37a634f2e42]
+### Rules relating to fees[^c-8888c2f632e760099049c37a634f2e42]
 
-**9.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Guidance[^key-8888c2f632e760099049c37a634f2e42]
+### Guidance[^c-8888c2f632e760099049c37a634f2e42]
 
-**12.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8888c2f632e760099049c37a634f2e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))
+[^c-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))

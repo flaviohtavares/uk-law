@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — IMPORT CONDITIONS[^key-c6c40e6728df302277b9552e5be48675]
+## SCHEDULE 2 — IMPORT CONDITIONS[^c-c6c40e6728df302277b9552e5be48675]
 
 *Extent: E+W*
 
@@ -24,864 +24,864 @@ summary: ''
 
 Regulation 2(1)
 
-### PART I — PROVISIONS COMMON TO SEVERAL CATEGORIES OF PRODUCT[^key-c6c40e6728df302277b9552e5be48675]
+### PART I — PROVISIONS COMMON TO SEVERAL CATEGORIES OF PRODUCT[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — Maximum residue limits and contaminants[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — Maximum residue limits and contaminants[^c-c6c40e6728df302277b9552e5be48675]
 
-**1.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Transmissible spongiform encephalopathies[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Transmissible spongiform encephalopathies[^c-c6c40e6728df302277b9552e5be48675]
 
-**5.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Protective measures — multiple products[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Protective measures — multiple products[^c-c6c40e6728df302277b9552e5be48675]
 
-##### 7. Brazil[^key-c6c40e6728df302277b9552e5be48675]
+##### 7. Brazil[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Thailand[^key-c6c40e6728df302277b9552e5be48675]
+##### 8. Thailand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 9. Ukraine[^key-c6c40e6728df302277b9552e5be48675]
+##### 9. Ukraine[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — FRESH MEAT OF BOVINE, OVINE AND CAPRINE ANIMALS AND SWINE[^key-c6c40e6728df302277b9552e5be48675]
+### PART II — FRESH MEAT OF BOVINE, OVINE AND CAPRINE ANIMALS AND SWINE[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General Provisions[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General Provisions[^c-c6c40e6728df302277b9552e5be48675]
 
-**10.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Third countries from which fresh meat may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Third countries from which fresh meat may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third country establishments from which fresh meat may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third country establishments from which fresh meat may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
-**13.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 14. Argentina[^key-c6c40e6728df302277b9552e5be48675]
+##### 14. Argentina[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 15. Australia[^key-c6c40e6728df302277b9552e5be48675]
+##### 15. Australia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 16. Botswana[^key-c6c40e6728df302277b9552e5be48675]
+##### 16. Botswana[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 17. Brazil[^key-c6c40e6728df302277b9552e5be48675]
+##### 17. Brazil[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 18. Bulgaria[^key-c6c40e6728df302277b9552e5be48675]
+##### 18. Bulgaria[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 19. Canada[^key-c6c40e6728df302277b9552e5be48675]
+##### 19. Canada[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Chile[^key-c6c40e6728df302277b9552e5be48675]
+##### 20. Chile[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 21. Croatia[^key-c6c40e6728df302277b9552e5be48675]
+##### 21. Croatia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 22. Czech Republic[^key-c6c40e6728df302277b9552e5be48675]
+##### 22. Czech Republic[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 23. Greenland[^key-c6c40e6728df302277b9552e5be48675]
+##### 23. Greenland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 24. Hungary[^key-c6c40e6728df302277b9552e5be48675]
+##### 24. Hungary[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 25. Iceland[^key-c6c40e6728df302277b9552e5be48675]
+##### 25. Iceland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 26. Former Yugoslav Republic of Macedonia[^key-c6c40e6728df302277b9552e5be48675]
+##### 26. Former Yugoslav Republic of Macedonia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 27. Lithuania[^key-c6c40e6728df302277b9552e5be48675]
+##### 27. Lithuania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 28. Madagascar[^key-c6c40e6728df302277b9552e5be48675]
+##### 28. Madagascar[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 29. Malta[^key-c6c40e6728df302277b9552e5be48675]
+##### 29. Malta[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 30. Mexico[^key-c6c40e6728df302277b9552e5be48675]
+##### 30. Mexico[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 31. Morocco[^key-c6c40e6728df302277b9552e5be48675]
+##### 31. Morocco[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 32. Namibia[^key-c6c40e6728df302277b9552e5be48675]
+##### 32. Namibia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 33. New Zealand[^key-c6c40e6728df302277b9552e5be48675]
+##### 33. New Zealand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 34. Paraguay[^key-c6c40e6728df302277b9552e5be48675]
+##### 34. Paraguay[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35. Poland[^key-c6c40e6728df302277b9552e5be48675]
+##### 35. Poland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 36. Romania[^key-c6c40e6728df302277b9552e5be48675]
+##### 36. Romania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 37. Slovak Republic[^key-c6c40e6728df302277b9552e5be48675]
+##### 37. Slovak Republic[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 38. Slovenia[^key-c6c40e6728df302277b9552e5be48675]
+##### 38. Slovenia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 39. South Africa[^key-c6c40e6728df302277b9552e5be48675]
+##### 39. South Africa[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 40. Swaziland[^key-c6c40e6728df302277b9552e5be48675]
+##### 40. Swaziland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 41. Switzerland[^key-c6c40e6728df302277b9552e5be48675]
+##### 41. Switzerland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 42. United States of America[^key-c6c40e6728df302277b9552e5be48675]
+##### 42. United States of America[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 43. Uruguay[^key-c6c40e6728df302277b9552e5be48675]
+##### 43. Uruguay[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 44. Federal Republic of Yugoslavia[^key-c6c40e6728df302277b9552e5be48675]
+##### 44. Federal Republic of Yugoslavia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 45. Zimbabwe[^key-c6c40e6728df302277b9552e5be48675]
+##### 45. Zimbabwe[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### D. — Health certification requirements[^key-c6c40e6728df302277b9552e5be48675]
+#### D. — Health certification requirements[^c-c6c40e6728df302277b9552e5be48675]
 
-##### 46. Argentina, Brazil, Chile, Columbia, Paraguay and Uruguay[^key-c6c40e6728df302277b9552e5be48675]
+##### 46. Argentina, Brazil, Chile, Columbia, Paraguay and Uruguay[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 47. Australia[^key-c6c40e6728df302277b9552e5be48675]
+##### 47. Australia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 48. Belize[^key-c6c40e6728df302277b9552e5be48675]
+##### 48. Belize[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 49. Botswana, Madagascar, Morocco, Namibia, South Africa, Swaziland and Zimbabwe[^key-c6c40e6728df302277b9552e5be48675]
+##### 49. Botswana, Madagascar, Morocco, Namibia, South Africa, Swaziland and Zimbabwe[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 50. Albania, Bosnia-Herzegovina, Belarus, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Former Yugoslav Republic of Macedonia, Poland, Romania, Russia, Slovak Republic, Slovenia and Federal Republic of Yugoslavia[^key-c6c40e6728df302277b9552e5be48675]
+##### 50. Albania, Bosnia-Herzegovina, Belarus, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Former Yugoslav Republic of Macedonia, Poland, Romania, Russia, Slovak Republic, Slovenia and Federal Republic of Yugoslavia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 51. Canada[^key-c6c40e6728df302277b9552e5be48675]
+##### 51. Canada[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 52. Costa Rica[^key-c6c40e6728df302277b9552e5be48675]
+##### 52. Costa Rica[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 53. Cuba[^key-c6c40e6728df302277b9552e5be48675]
+##### 53. Cuba[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 54. Cyprus[^key-c6c40e6728df302277b9552e5be48675]
+##### 54. Cyprus[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 55. The Falkland Islands[^key-c6c40e6728df302277b9552e5be48675]
+##### 55. The Falkland Islands[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 56. Greenland[^key-c6c40e6728df302277b9552e5be48675]
+##### 56. Greenland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 57. Guatemala[^key-c6c40e6728df302277b9552e5be48675]
+##### 57. Guatemala[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 58. Honduras[^key-c6c40e6728df302277b9552e5be48675]
+##### 58. Honduras[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 59. Iceland[^key-c6c40e6728df302277b9552e5be48675]
+##### 59. Iceland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 60. Malta[^key-c6c40e6728df302277b9552e5be48675]
+##### 60. Malta[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 61. Mexico[^key-c6c40e6728df302277b9552e5be48675]
+##### 61. Mexico[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 62. New Caledonia[^key-c6c40e6728df302277b9552e5be48675]
+##### 62. New Caledonia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 63. New Zealand[^key-c6c40e6728df302277b9552e5be48675]
+##### 63. New Zealand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 64. Panama[^key-c6c40e6728df302277b9552e5be48675]
+##### 64. Panama[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 65. Switzerland[^key-c6c40e6728df302277b9552e5be48675]
+##### 65. Switzerland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 66. Turkey[^key-c6c40e6728df302277b9552e5be48675]
+##### 66. Turkey[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 67. United States of America[^key-c6c40e6728df302277b9552e5be48675]
+##### 67. United States of America[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### E. — Third countries/Regions from which fresh imports of meat are prohibited[^key-c6c40e6728df302277b9552e5be48675]
+#### E. — Third countries/Regions from which fresh imports of meat are prohibited[^c-c6c40e6728df302277b9552e5be48675]
 
-##### 68. Albania[^key-c6c40e6728df302277b9552e5be48675]
+##### 68. Albania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 69. Nicaragua[^key-c6c40e6728df302277b9552e5be48675]
+##### 69. Nicaragua[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — MEAT PRODUCTS[^key-c6c40e6728df302277b9552e5be48675]
+### PART III — MEAT PRODUCTS[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General Provisions[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General Provisions[^c-c6c40e6728df302277b9552e5be48675]
 
-**70.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**71.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**72.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Third countries from which meat products may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Third countries from which meat products may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
-**73.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**74.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**74.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third country establishments from which meat products may be imported:[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third country establishments from which meat products may be imported:[^c-c6c40e6728df302277b9552e5be48675]
 
-**75.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 76. Argentina[^key-c6c40e6728df302277b9552e5be48675]
+##### 76. Argentina[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 77. Botswana[^key-c6c40e6728df302277b9552e5be48675]
+##### 77. Botswana[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 78. Brazil[^key-c6c40e6728df302277b9552e5be48675]
+##### 78. Brazil[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 79. Czech Republic[^key-c6c40e6728df302277b9552e5be48675]
+##### 79. Czech Republic[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 80. Namibia[^key-c6c40e6728df302277b9552e5be48675]
+##### 80. Namibia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 81. Uruguay[^key-c6c40e6728df302277b9552e5be48675]
+##### 81. Uruguay[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 82. Zimbabwe[^key-c6c40e6728df302277b9552e5be48675]
+##### 82. Zimbabwe[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 83. Miscellaneous third countries[^key-c6c40e6728df302277b9552e5be48675]
+##### 83. Miscellaneous third countries[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 84. Miscellaneous third countries[^key-c6c40e6728df302277b9552e5be48675]
+##### 84. Miscellaneous third countries[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### D. — Health Certification Requirements[^key-c6c40e6728df302277b9552e5be48675]
+#### D. — Health Certification Requirements[^c-c6c40e6728df302277b9552e5be48675]
 
-**85.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**86.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — MILK, HEAT-TREATED MILK AND MILK BASED PRODUCTS[^key-c6c40e6728df302277b9552e5be48675]
+### PART IV — MILK, HEAT-TREATED MILK AND MILK BASED PRODUCTS[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General[^c-c6c40e6728df302277b9552e5be48675]
 
-**87.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**87.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**88.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**89.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**89.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Third countries from which milk, etc. may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Third countries from which milk, etc. may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third country establishments from which milk, etc. may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third country establishments from which milk, etc. may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
-**90.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**91.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — FRESH POULTRY-MEAT[^key-c6c40e6728df302277b9552e5be48675]
+### PART V — FRESH POULTRY-MEAT[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General[^c-c6c40e6728df302277b9552e5be48675]
 
-**92.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**93.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Third Countries from which fresh poultry meat may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Third Countries from which fresh poultry meat may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third Country establishments from which fresh poultry meat may be imported.[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third Country establishments from which fresh poultry meat may be imported.[^c-c6c40e6728df302277b9552e5be48675]
 
-**94.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**94.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**95.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**95.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### D. — Health Certification Requirements[^key-c6c40e6728df302277b9552e5be48675]
+#### D. — Health Certification Requirements[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VI — WILD GAME MEAT[^key-c6c40e6728df302277b9552e5be48675]
+### PART VI — WILD GAME MEAT[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General[^c-c6c40e6728df302277b9552e5be48675]
 
-**96.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**96.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**97.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Third Country establishments from which game meat may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Third Country establishments from which game meat may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
-**98.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**99.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**99.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VII — MINCED MEAT AND MEAT PREPARATIONS[^key-c6c40e6728df302277b9552e5be48675]
+### PART VII — MINCED MEAT AND MEAT PREPARATIONS[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Health Certification requirements[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Health Certification requirements[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third Country Establishments from which minced meat and meat preparations may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third Country Establishments from which minced meat and meat preparations may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
-**100.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**100.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**101.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VIII — MISCELLANEOUS PRODUCTS[^key-c6c40e6728df302277b9552e5be48675]
+### PART VIII — MISCELLANEOUS PRODUCTS[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General[^c-c6c40e6728df302277b9552e5be48675]
 
-**102.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**102.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**103.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**103.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**104.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**104.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Third countries from which products covered by Council Directive [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Third countries from which products covered by Council Directive [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third country establishments from which products covered by Council Directive [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third country establishments from which products covered by Council Directive [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
-**105.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**105.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**106.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**107.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**107.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**108.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**108.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### D. — Health Certification Requirements[^key-c6c40e6728df302277b9552e5be48675]
+#### D. — Health Certification Requirements[^c-c6c40e6728df302277b9552e5be48675]
 
-**109.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**109.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**110.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**111.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**111.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**112.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**112.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**113.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**113.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**114.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**114.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**115.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**115.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**116.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**116.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**117.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**117.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**118.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**118.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**119.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**119.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**120.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**120.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**121.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**121.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**122.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**122.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**123.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**123.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**124.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**124.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IX — FISHERY PRODUCTS[^key-c6c40e6728df302277b9552e5be48675]
+### PART IX — FISHERY PRODUCTS[^c-c6c40e6728df302277b9552e5be48675]
 
-#### A. — General Provisions[^key-c6c40e6728df302277b9552e5be48675]
+#### A. — General Provisions[^c-c6c40e6728df302277b9552e5be48675]
 
-**125.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**125.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**126.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**126.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**127.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**127.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**128.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**128.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**129.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**129.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**130.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**130.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**131.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**131.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**132.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**132.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**133.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**133.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**134.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**134.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**135.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**135.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B. — Health certification[^key-c6c40e6728df302277b9552e5be48675]
+#### B. — Health certification[^c-c6c40e6728df302277b9552e5be48675]
 
-**136.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**136.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**137.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**137.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**138.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**138.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**139.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**139.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**140.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**140.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**141.**[^key-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**141.**[^c-c6c40e6728df302277b9552e5be48675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C. — Third Country Equivalence[^key-c6c40e6728df302277b9552e5be48675]
+#### C. — Third Country Equivalence[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### D. — Third countries from which fishery products may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### D. — Third countries from which fishery products may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### E. — Third country establishments from which fishery products may be imported[^key-c6c40e6728df302277b9552e5be48675]
+#### E. — Third country establishments from which fishery products may be imported[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### F. — Special import conditions for fishery products[^key-c6c40e6728df302277b9552e5be48675]
+#### F. — Special import conditions for fishery products[^c-c6c40e6728df302277b9552e5be48675]
 
-##### 142. Albania[^key-c6c40e6728df302277b9552e5be48675]
+##### 142. Albania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 143. Argentina[^key-c6c40e6728df302277b9552e5be48675]
+##### 143. Argentina[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 144. Australia[^key-c6c40e6728df302277b9552e5be48675]
+##### 144. Australia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 145. Bangladesh[^key-c6c40e6728df302277b9552e5be48675]
+##### 145. Bangladesh[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 146. Brazil[^key-c6c40e6728df302277b9552e5be48675]
+##### 146. Brazil[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 147. Canada[^key-c6c40e6728df302277b9552e5be48675]
+##### 147. Canada[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 148. Chile[^key-c6c40e6728df302277b9552e5be48675]
+##### 148. Chile[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 149. China[^key-c6c40e6728df302277b9552e5be48675]
+##### 149. China[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 150. Colombia[^key-c6c40e6728df302277b9552e5be48675]
+##### 150. Colombia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 151. Croatia[^key-c6c40e6728df302277b9552e5be48675]
+##### 151. Croatia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 152. Cuba[^key-c6c40e6728df302277b9552e5be48675]
+##### 152. Cuba[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 153. Czech Republic[^key-c6c40e6728df302277b9552e5be48675]
+##### 153. Czech Republic[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 154. Equador[^key-c6c40e6728df302277b9552e5be48675]
+##### 154. Equador[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 155. Estonia[^key-c6c40e6728df302277b9552e5be48675]
+##### 155. Estonia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 156. Falkland Islands[^key-c6c40e6728df302277b9552e5be48675]
+##### 156. Falkland Islands[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 157. Gabon[^key-c6c40e6728df302277b9552e5be48675]
+##### 157. Gabon[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 158. Gambia[^key-c6c40e6728df302277b9552e5be48675]
+##### 158. Gambia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 159. Ghana[^key-c6c40e6728df302277b9552e5be48675]
+##### 159. Ghana[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 160. Guatemala[^key-c6c40e6728df302277b9552e5be48675]
+##### 160. Guatemala[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 161. Guinea[^key-c6c40e6728df302277b9552e5be48675]
+##### 161. Guinea[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 162. India[^key-c6c40e6728df302277b9552e5be48675]
+##### 162. India[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 163. Indonesia[^key-c6c40e6728df302277b9552e5be48675]
+##### 163. Indonesia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 164. Iran[^key-c6c40e6728df302277b9552e5be48675]
+##### 164. Iran[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 165. Ivory Coast[^key-c6c40e6728df302277b9552e5be48675]
+##### 165. Ivory Coast[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 166. Jamaica[^key-c6c40e6728df302277b9552e5be48675]
+##### 166. Jamaica[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 167. Japan[^key-c6c40e6728df302277b9552e5be48675]
+##### 167. Japan[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 168. Korea[^key-c6c40e6728df302277b9552e5be48675]
+##### 168. Korea[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 169. Latvia[^key-c6c40e6728df302277b9552e5be48675]
+##### 169. Latvia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 170. Lithuania[^key-c6c40e6728df302277b9552e5be48675]
+##### 170. Lithuania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 171. Madagascar[^key-c6c40e6728df302277b9552e5be48675]
+##### 171. Madagascar[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 172. Malaysia[^key-c6c40e6728df302277b9552e5be48675]
+##### 172. Malaysia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 173. Maldives[^key-c6c40e6728df302277b9552e5be48675]
+##### 173. Maldives[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 174. Mauritania[^key-c6c40e6728df302277b9552e5be48675]
+##### 174. Mauritania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 175. Mauritius[^key-c6c40e6728df302277b9552e5be48675]
+##### 175. Mauritius[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 176. Mexico[^key-c6c40e6728df302277b9552e5be48675]
+##### 176. Mexico[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 177. Morocco[^key-c6c40e6728df302277b9552e5be48675]
+##### 177. Morocco[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 178. Namibia[^key-c6c40e6728df302277b9552e5be48675]
+##### 178. Namibia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 179. New Zealand[^key-c6c40e6728df302277b9552e5be48675]
+##### 179. New Zealand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 180. Nicaragua[^key-c6c40e6728df302277b9552e5be48675]
+##### 180. Nicaragua[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 181. Nigeria[^key-c6c40e6728df302277b9552e5be48675]
+##### 181. Nigeria[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 182. Oman[^key-c6c40e6728df302277b9552e5be48675]
+##### 182. Oman[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 183. Pakistan[^key-c6c40e6728df302277b9552e5be48675]
+##### 183. Pakistan[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 184. Panama[^key-c6c40e6728df302277b9552e5be48675]
+##### 184. Panama[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 185. Peru[^key-c6c40e6728df302277b9552e5be48675]
+##### 185. Peru[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 186. Philippines[^key-c6c40e6728df302277b9552e5be48675]
+##### 186. Philippines[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 187. Poland[^key-c6c40e6728df302277b9552e5be48675]
+##### 187. Poland[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 188. Russia[^key-c6c40e6728df302277b9552e5be48675]
+##### 188. Russia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 189. Senegal[^key-c6c40e6728df302277b9552e5be48675]
+##### 189. Senegal[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 190. Seychelles[^key-c6c40e6728df302277b9552e5be48675]
+##### 190. Seychelles[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 191. Singapore[^key-c6c40e6728df302277b9552e5be48675]
+##### 191. Singapore[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 192. Slovenia[^key-c6c40e6728df302277b9552e5be48675]
+##### 192. Slovenia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 193. South Africa[^key-c6c40e6728df302277b9552e5be48675]
+##### 193. South Africa[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 194. Taiwan[^key-c6c40e6728df302277b9552e5be48675]
+##### 194. Taiwan[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 195. Tanzania[^key-c6c40e6728df302277b9552e5be48675]
+##### 195. Tanzania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 196. Thailand[^key-c6c40e6728df302277b9552e5be48675]
+##### 196. Thailand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 197. Tunisia[^key-c6c40e6728df302277b9552e5be48675]
+##### 197. Tunisia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 198. Turkey[^key-c6c40e6728df302277b9552e5be48675]
+##### 198. Turkey[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 199. Uganda[^key-c6c40e6728df302277b9552e5be48675]
+##### 199. Uganda[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 200. Uruguay[^key-c6c40e6728df302277b9552e5be48675]
+##### 200. Uruguay[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 201. Venezuela[^key-c6c40e6728df302277b9552e5be48675]
+##### 201. Venezuela[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 202. Vietnam[^key-c6c40e6728df302277b9552e5be48675]
+##### 202. Vietnam[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 203. Yemen[^key-c6c40e6728df302277b9552e5be48675]
+##### 203. Yemen[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### G. — Special import conditions for bivalve molluscs[^key-c6c40e6728df302277b9552e5be48675]
+#### G. — Special import conditions for bivalve molluscs[^c-c6c40e6728df302277b9552e5be48675]
 
-##### 204. Australia[^key-c6c40e6728df302277b9552e5be48675]
+##### 204. Australia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 205. Chile[^key-c6c40e6728df302277b9552e5be48675]
+##### 205. Chile[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 206. Japan[^key-c6c40e6728df302277b9552e5be48675]
+##### 206. Japan[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 207. Jamaica[^key-c6c40e6728df302277b9552e5be48675]
+##### 207. Jamaica[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 208. Korea[^key-c6c40e6728df302277b9552e5be48675]
+##### 208. Korea[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 209. Morocco[^key-c6c40e6728df302277b9552e5be48675]
+##### 209. Morocco[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 210. Peru[^key-c6c40e6728df302277b9552e5be48675]
+##### 210. Peru[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 211. Thailand[^key-c6c40e6728df302277b9552e5be48675]
+##### 211. Thailand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 212. Tunisia[^key-c6c40e6728df302277b9552e5be48675]
+##### 212. Tunisia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 213. Turkey[^key-c6c40e6728df302277b9552e5be48675]
+##### 213. Turkey[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 214. Uruguay[^key-c6c40e6728df302277b9552e5be48675]
+##### 214. Uruguay[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 215. Vietnam[^key-c6c40e6728df302277b9552e5be48675]
+##### 215. Vietnam[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### H. — Protective measures — fishery products[^key-c6c40e6728df302277b9552e5be48675]
+#### H. — Protective measures — fishery products[^c-c6c40e6728df302277b9552e5be48675]
 
-##### 216. Albania[^key-c6c40e6728df302277b9552e5be48675]
+##### 216. Albania[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 217. China and Vietnam[^key-c6c40e6728df302277b9552e5be48675]
+##### 217. China and Vietnam[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 218. Indonesia[^key-c6c40e6728df302277b9552e5be48675]
+##### 218. Indonesia[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 219. Myanmar[^key-c6c40e6728df302277b9552e5be48675]
+##### 219. Myanmar[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 220. Pakistan[^key-c6c40e6728df302277b9552e5be48675]
+##### 220. Pakistan[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 221. Thailand[^key-c6c40e6728df302277b9552e5be48675]
+##### 221. Thailand[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 222. Vietnam[^key-c6c40e6728df302277b9552e5be48675]
+##### 222. Vietnam[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### I. — Protective measures — bivalve molluscs[^key-c6c40e6728df302277b9552e5be48675]
+#### I. — Protective measures — bivalve molluscs[^c-c6c40e6728df302277b9552e5be48675]
 
-##### Peru[^key-c6c40e6728df302277b9552e5be48675]
+##### Peru[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6c40e6728df302277b9552e5be48675]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1387) revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (revoked) 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/wsi/2004/1430), [reg. 1](https://www.legislation.gov.uk/wsi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2004/1430/schedule/6)
+[^c-c6c40e6728df302277b9552e5be48675]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1387) revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (revoked) 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/wsi/2004/1430), [reg. 1](https://www.legislation.gov.uk/wsi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2004/1430/schedule/6)

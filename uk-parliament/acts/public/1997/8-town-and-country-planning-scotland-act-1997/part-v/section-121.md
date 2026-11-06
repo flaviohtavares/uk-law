@@ -37,7 +37,7 @@ summary: ''
 
 (7) In relation to land falling within paragraph 15 of that Schedule by virtue of paragraph 15(2), “**the appropriate enactment**” means the enactment which would provide for the compulsory acquisition of the land or of the rights over the land if the relevant compulsory purchase order were confirmed or made.
 
-(7A)[^key-09fb6ed4b0d04ad5eac2b7a213d8a309] In relation to land falling within paragraph 17 of that Schedule by virtue of paragraph 17(2)(a) or (b), “**the appropriate enactment**” means the order granting development consent.
+(7A)[^c-09fb6ed4b0d04ad5eac2b7a213d8a309] In relation to land falling within paragraph 17 of that Schedule by virtue of paragraph 17(2)(a) or (b), “**the appropriate enactment**” means the order granting development consent.
 
 (7B) In relation to land falling within paragraph 17 of that Schedule by virtue of paragraph 17(2)(c), “**the appropriate enactment**” means an order in the terms of the order applied for.
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c950135]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-09fb6ed4b0d04ad5eac2b7a213d8a309]: Textual amendment: S. 121(7A)-(7C) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/8), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-09fb6ed4b0d04ad5eac2b7a213d8a309]: Textual amendment: S. 121(7A)-(7C) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/8), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
 
 [^c950136]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 

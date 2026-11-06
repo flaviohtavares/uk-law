@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Further reference to medical authority[^key-a62407b22e1e1d034ad25c18a3465762]
+## 31. Further reference to medical authority[^c-a62407b22e1e1d034ad25c18a3465762]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a62407b22e1e1d034ad25c18a3465762]: Commencement: Reg. 31 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-a62407b22e1e1d034ad25c18a3465762]: Commencement: Reg. 31 in operation at 25.7.2006 with effect in accordance with reg. 1

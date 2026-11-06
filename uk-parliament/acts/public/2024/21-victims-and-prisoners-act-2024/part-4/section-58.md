@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Public protection decisions: life prisoners[^key-b626dfc93e644a490ba1c4834e6c3449]
+## 58. Public protection decisions: life prisoners[^c-b626dfc93e644a490ba1c4834e6c3449]
 
 *Extent: E+W*
 
-(1)[^key-95d8b99c0fb6426e2f8149ff2da442d2] Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences) is amended as follows.
+(1)[^c-95d8b99c0fb6426e2f8149ff2da442d2] Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences) is amended as follows.
 
-(2)[^key-95d8b99c0fb6426e2f8149ff2da442d2] After section 28 insert—
+(2)[^c-95d8b99c0fb6426e2f8149ff2da442d2] After section 28 insert—
 
 > **28ZA. Public protection decisions**
 >
@@ -65,7 +65,7 @@ summary: ''
 >
 > (12) Subsection (2) has effect in relation to a decision made by the Parole Board under section 32(5A) (recall of life prisoners while on licence) as if for the words “be confined” there were substituted “remain in prison”.
 
-(3)[^key-95d8b99c0fb6426e2f8149ff2da442d2] In section 28A (murder or manslaughter: prisoner’s non-disclosure of information)—
+(3)[^c-95d8b99c0fb6426e2f8149ff2da442d2] In section 28A (murder or manslaughter: prisoner’s non-disclosure of information)—
 
 - (a) in subsection (1), in the words before paragraph (a), after “life prisoner” insert “under section 28(6)(b), for the purposes of section 28(5),”;
 - (b) in subsection (5), for the definition of “public protection decision” substitute—
@@ -74,7 +74,7 @@ summary: ''
 
   .
 
-(4)[^key-95d8b99c0fb6426e2f8149ff2da442d2] In section 28B (indecent images: prisoner’s non-disclosure of information)—
+(4)[^c-95d8b99c0fb6426e2f8149ff2da442d2] In section 28B (indecent images: prisoner’s non-disclosure of information)—
 
 - (a) in subsection (1), in the words before paragraph (a), after “life prisoner” insert “under section 28(6)(b), for the purposes of section 28(5),”;
 - (b) in subsection (7), for the definition of “public protection decision” substitute—
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b626dfc93e644a490ba1c4834e6c3449]: Commencement: S. 58 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-b626dfc93e644a490ba1c4834e6c3449]: Commencement: S. 58 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-95d8b99c0fb6426e2f8149ff2da442d2]: Commencement: [S. 58(1)-(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/1) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)
+[^c-95d8b99c0fb6426e2f8149ff2da442d2]: Commencement: [S. 58(1)-(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/1) in force at 3.2.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)

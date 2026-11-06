@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001], in exercise of the powers conferred on it by Articles 2(2), 7(1) and 27(4) of the Rates (Northern Ireland) Order 1977[^f00002] and of every other power enabling it in that behalf, and having taken into consideration estimates of the amounts required to be raised by means of district rates as required by Article 7(4) of that Order, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation[^key-4cbda8c0b2b94c78c5730674e461c14f]
+## 1. Citation, commencement and interpretation[^c-4cbda8c0b2b94c78c5730674e461c14f]
 
 (1) This Order may be cited as the Rates (Regional Rates) Order (Northern Ireland) 1998 and shall come into operation on 1st April 1998.
 
@@ -51,11 +51,11 @@ The Department of Finance and Personnel[^f00001], in exercise of the powers conf
 - “specified hereditament” means a hereditament of a type specified under Article 3 of the New Valuation List (Time and Class of Hereditaments) Order (Northern Ireland) 1995[^f00003];
 - “unspecified hereditament” means a hereditament which is not a specified hereditament.
 
-## 2. Regional rate[^key-959bad06054be775e161e57be549ead0]
+## 2. Regional rate[^c-959bad06054be775e161e57be549ead0]
 
 The regional rates for the year ending 31st March 1999 shall be 26·68 pence in the pound in respect of specified hereditaments and 169·19 pence in the pound in respect of unspecified hereditaments.
 
-## 3. Reduction of regional rate on dwellings[^key-b751ddc220fa8ec10303fd4652847065]
+## 3. Reduction of regional rate on dwellings[^c-b751ddc220fa8ec10303fd4652847065]
 
 The amount by which the normal regional rate fixed for the year ending 31st March 1999 under Article 2 is to be reduced in respect of unspecified hereditaments for the purposes of paragraphs (2) and (3) of Article 27 of the Rates (Northern Ireland) Order 1977 shall be 70 pence.
 
@@ -79,10 +79,10 @@ The Order also fixes 70 pence as the amount by which the normal regional rate is
 
 [^f00002]: Footnote: S.I. [1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)
 
-[^key-4cbda8c0b2b94c78c5730674e461c14f]: Commencement: Art. 1 in operation at 1.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/60/article/1/1)
+[^c-4cbda8c0b2b94c78c5730674e461c14f]: Commencement: Art. 1 in operation at 1.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/60/article/1/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 58](https://www.legislation.gov.uk/nisr/1995/58)
 
-[^key-959bad06054be775e161e57be549ead0]: Commencement: Art. 2 in operation at 1.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/60/article/1/1)
+[^c-959bad06054be775e161e57be549ead0]: Commencement: Art. 2 in operation at 1.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/60/article/1/1)
 
-[^key-b751ddc220fa8ec10303fd4652847065]: Commencement: Art. 3 in operation at 1.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/60/article/1/1)
+[^c-b751ddc220fa8ec10303fd4652847065]: Commencement: Art. 3 in operation at 1.4.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/60/article/1/1)

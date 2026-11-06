@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Applications: universal credit claimants[^key-4badd7f1384197e30e4bc63ff0b04959]
+## 24. Applications: universal credit claimants[^c-4badd7f1384197e30e4bc63ff0b04959]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4badd7f1384197e30e4bc63ff0b04959]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/249/regulation/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-4badd7f1384197e30e4bc63ff0b04959]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/249/regulation/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00142]: Footnote: Section 131 was amended by section 4 of the Wales Act [2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29) and section 20 of the Welfare Reform and Work Act [2016 (c.7)](https://www.legislation.gov.uk/ukpga/2016/7).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147A. Treatment of tax credits[^key-afcfb2b1585e864df50d7c569435bf56]
+## 147A. Treatment of tax credits[^c-afcfb2b1585e864df50d7c569435bf56]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afcfb2b1585e864df50d7c569435bf56]: Textual amendment: [S. 147A](https://www.legislation.gov.uk/ukpga/2023/30/section/147A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/1)
+[^c-afcfb2b1585e864df50d7c569435bf56]: Textual amendment: [S. 147A](https://www.legislation.gov.uk/ukpga/2023/30/section/147A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/1)

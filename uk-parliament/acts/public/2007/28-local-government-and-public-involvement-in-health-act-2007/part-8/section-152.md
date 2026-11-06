@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Inspections of best value authorities[^key-65d5bd79b4f82a469b33d34ca95002f4]
+## 152. Inspections of best value authorities[^c-65d5bd79b4f82a469b33d34ca95002f4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d5bd79b4f82a469b33d34ca95002f4]: Commencement: S. 152 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/172/article/4/d)
+[^c-65d5bd79b4f82a469b33d34ca95002f4]: Commencement: S. 152 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/172/article/4/d)

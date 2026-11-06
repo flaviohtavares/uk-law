@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92.[^key-f4ade2cbe2b3ae5f41a8e35b741a62f8]
+## 92.[^c-f4ade2cbe2b3ae5f41a8e35b741a62f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 659D (interpretation of provisions about pension sharing) —
 
 ## Annotations
 
-[^key-f4ade2cbe2b3ae5f41a8e35b741a62f8]: Commencement: Reg. 92 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-f4ade2cbe2b3ae5f41a8e35b741a62f8]: Commencement: Reg. 92 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

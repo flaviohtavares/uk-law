@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**245.**[^key-187ea0ef688494d5198a2179de17896f] In section 32 (supply of goods and services by local authorities), for subsection (4) substitute—
+**245.**[^c-187ea0ef688494d5198a2179de17896f] In section 32 (supply of goods and services by local authorities), for subsection (4) substitute—
 
 > (4) “services” means—
 >
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-187ea0ef688494d5198a2179de17896f]: Commencement: Reg. 245 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-187ea0ef688494d5198a2179de17896f]: Commencement: Reg. 245 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

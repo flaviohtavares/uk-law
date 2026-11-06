@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Valuation of benefits for unretired FPJAYS members[^key-af45cce6a500f321b6f27941ce066163]
+## 112. Valuation of benefits for unretired FPJAYS members[^c-af45cce6a500f321b6f27941ce066163]
 
 *Extent: E+W+S+N.I.*
 
-(1) If an unretired[^key-e44b284cdff65feb0698ac789376345e] FPJAYS member (“M”) retires or otherwise leaves the principal scheme on or after reaching the assumed retirement age the administrators must—
+(1) If an unretired[^c-e44b284cdff65feb0698ac789376345e] FPJAYS member (“M”) retires or otherwise leaves the principal scheme on or after reaching the assumed retirement age the administrators must—
 
 - (a) calculate the amount of added years that M has purchased, by dividing the total contributions made by M under regulation 111(3) by the cost of an added year as determined under regulation 111(1); and
 - (b) notify M of that amount.
@@ -59,6 +59,6 @@ paragraph (4) does not apply unless the administrators are satisfied that the de
 
 ## Annotations
 
-[^key-af45cce6a500f321b6f27941ce066163]: Textual amendment: Word in [reg. 112](https://www.legislation.gov.uk/uksi/2017/522/regulation/112) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2023/403/regulation/54)
+[^c-af45cce6a500f321b6f27941ce066163]: Textual amendment: Word in [reg. 112](https://www.legislation.gov.uk/uksi/2017/522/regulation/112) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2023/403/regulation/54)
 
-[^key-e44b284cdff65feb0698ac789376345e]: Textual amendment: Word in [reg. 112(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/112/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2023/403/regulation/54)
+[^c-e44b284cdff65feb0698ac789376345e]: Textual amendment: Word in [reg. 112(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/112/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2023/403/regulation/54)

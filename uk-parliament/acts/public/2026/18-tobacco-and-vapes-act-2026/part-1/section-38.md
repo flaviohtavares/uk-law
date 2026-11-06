@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Fixed penalties in England: use of proceeds[^key-d510218184b531f17bf7dcac8b2c7445]
+## 38. Fixed penalties in England: use of proceeds[^c-d510218184b531f17bf7dcac8b2c7445]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d510218184b531f17bf7dcac8b2c7445]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2026/18/section/38) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-d510218184b531f17bf7dcac8b2c7445]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2026/18/section/38) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

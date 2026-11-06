@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Annual accounts—single accounts society[^key-510d358bd6f361631aa244ab47c3f73d]
+## 4. Annual accounts—single accounts society[^c-510d358bd6f361631aa244ab47c3f73d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In respect of the annual accounts of a single accounts society:
 
 ## Annotations
 
-[^key-510d358bd6f361631aa244ab47c3f73d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1994/1983/regulation/4) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-510d358bd6f361631aa244ab47c3f73d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1994/1983/regulation/4) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

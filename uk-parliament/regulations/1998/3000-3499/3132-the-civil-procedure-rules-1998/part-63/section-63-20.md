@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63.20. Statements of case[^key-d620dee29153284a228643301d80b023][^key-e9b41ec15b82ceef8274db1f25b38097]
+## 63.20. Statements of case[^c-d620dee29153284a228643301d80b023][^c-e9b41ec15b82ceef8274db1f25b38097]
 
 *Extent: E+W*
 
 (1) Part 16 applies with the modification that a statement of case must set out concisely all the facts and arguments upon which the party serving it relies.
 
-(2) The particulars of claim must state whether the claimant has complied with paragraph 6[^key-4096bc8828dad7ab8105f0aed5fd6732] of the Practice Direction (Pre-Action Conduct).
+(2) The particulars of claim must state whether the claimant has complied with paragraph 6[^c-4096bc8828dad7ab8105f0aed5fd6732] of the Practice Direction (Pre-Action Conduct).
 
 ## Annotations
 
-[^key-d620dee29153284a228643301d80b023]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) Section 5 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1953/schedule/2)
+[^c-d620dee29153284a228643301d80b023]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) Section 5 inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1953/schedule/2)
 
-[^key-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
+[^c-e9b41ec15b82ceef8274db1f25b38097]: Textual amendment: [Pt. 63](https://www.legislation.gov.uk/uksi/1998/3132/part/63) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2092/schedule/1)
 
-[^key-4096bc8828dad7ab8105f0aed5fd6732]: Textual amendment: Word in [rule 63.20(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.20/2) substituted (6.4.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2](https://www.legislation.gov.uk/uksi/2017/95/rule/2), [11(1)](https://www.legislation.gov.uk/uksi/2017/95/rule/11/1)
+[^c-4096bc8828dad7ab8105f0aed5fd6732]: Textual amendment: Word in [rule 63.20(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/63.20/2) substituted (6.4.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2](https://www.legislation.gov.uk/uksi/2017/95/rule/2), [11(1)](https://www.legislation.gov.uk/uksi/2017/95/rule/11/1)

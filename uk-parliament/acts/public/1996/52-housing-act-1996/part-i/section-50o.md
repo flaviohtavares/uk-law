@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50O (Extent: W). Grounds for award (Extent: W)[^key-39816a421eadf3232720efa6b5b834b0]
+## 50O (Extent: W). Grounds for award (Extent: W)[^c-39816a421eadf3232720efa6b5b834b0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39816a421eadf3232720efa6b5b834b0]: Textual amendment: S. 50O and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(m)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/m), [3(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/g)
+[^c-39816a421eadf3232720efa6b5b834b0]: Textual amendment: S. 50O and cross-heading inserted (18.10.2011 for specified purposes, 2.12.2011 in so far as not already in force) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(m)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/m), [3(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/g)

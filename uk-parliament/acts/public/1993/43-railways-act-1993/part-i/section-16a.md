@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Office of Rail and Road[^key-66d5a73a89fb96e37295d62b231f714c] may, on an application—
+(1) The Office of Rail and Road[^c-66d5a73a89fb96e37295d62b231f714c] may, on an application—
 
 - (a) made by the appropriate facilities authority[^c18823571], or
 - (b) made by any other person with the consent of the appropriate facilities authority,
@@ -45,7 +45,7 @@ give to a person who has an estate or interest in, or right over, an existing ra
 
 [^c14099351]: Textual amendment: S. 16A inserted (15.10.2005) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 223](https://www.legislation.gov.uk/ukpga/2000/38/section/223), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1); [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
-[^key-66d5a73a89fb96e37295d62b231f714c]: Textual amendment: Words in s. 16A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(p)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/p)
+[^c-66d5a73a89fb96e37295d62b231f714c]: Textual amendment: Words in s. 16A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(p)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/p)
 
 [^c18823571]: Textual amendment: Words in s. 16A substituted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/11/1): [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 

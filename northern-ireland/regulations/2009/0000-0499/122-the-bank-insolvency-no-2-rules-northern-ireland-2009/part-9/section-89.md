@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Advertisement of resignation[^key-d7acd98dc24ddb7ec337c55b6374ff11]
+## 89. Advertisement of resignation[^c-d7acd98dc24ddb7ec337c55b6374ff11]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.119 of the 1991 Rules.
 
 ## Annotations
 
-[^key-d7acd98dc24ddb7ec337c55b6374ff11]: Commencement: Rule 89 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d7acd98dc24ddb7ec337c55b6374ff11]: Commencement: Rule 89 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

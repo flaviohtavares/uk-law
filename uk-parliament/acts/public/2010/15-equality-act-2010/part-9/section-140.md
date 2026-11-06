@@ -35,11 +35,11 @@ summary: ''
 
 (6) “**Court**” means—
 
-- (a) in relation to proceedings in England and Wales, the county court[^key-9eb80e795dc2b422ec3ee01c02cfed45];
+- (a) in relation to proceedings in England and Wales, the county court[^c-9eb80e795dc2b422ec3ee01c02cfed45];
 - (b) in relation to proceedings in Scotland, the sheriff.
 
 ## Annotations
 
 [^c21892941]: Commencement: S. 140 wholly in force; s. 140 not in force at Royal Assent see s. 216; s. 140 in force at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(9)(j)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/9/j) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), and subject to transitional provision in [art. 7](https://www.legislation.gov.uk/uksi/2010/2317/article/7))
 
-[^key-9eb80e795dc2b422ec3ee01c02cfed45]: Textual amendment: Words in s. 140(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-9eb80e795dc2b422ec3ee01c02cfed45]: Textual amendment: Words in s. 140(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

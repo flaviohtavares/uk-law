@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Definition of “inability to pay”, etc.; the statutory demand.[^c15577291][^key-9b9066b833627987b18dbe5efdd3e2f3]
+## 268. Definition of “inability to pay”, etc.; the statutory demand.[^c15577291][^c-9b9066b833627987b18dbe5efdd3e2f3]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c15577291]: Modification: S. 268 applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 8(3)(9)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/3/9), [Sch. 4 Pt. II para. 7(b)](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II/paragraph/7/b)
 
-[^key-9b9066b833627987b18dbe5efdd3e2f3]: Modification: [S. 268](https://www.legislation.gov.uk/ukpga/1986/45/section/268) excluded in part (24.3.2022 to be regarded as having come into force on 10.11.2021) by [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/12/schedule/3/paragraph/2) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))
+[^c-9b9066b833627987b18dbe5efdd3e2f3]: Modification: [S. 268](https://www.legislation.gov.uk/ukpga/1986/45/section/268) excluded in part (24.3.2022 to be regarded as having come into force on 10.11.2021) by [Commercial Rent (Coronavirus) Act 2022 (c. 12)](https://www.legislation.gov.uk/ukpga/2022/12), [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/12/schedule/3/paragraph/2) (with [s. 30](https://www.legislation.gov.uk/ukpga/2022/12/section/30))

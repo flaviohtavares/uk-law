@@ -33,7 +33,7 @@ supplementing Regulation (EU) No 600/2014 of the European Parliament and of the 
 
 (Text with EEA relevance)
 
-[^key-0c0fa4fbf470c31788a045f461328748][^key-c13d704175a6b05d215670ac12b80db3]
+[^c-0c0fa4fbf470c31788a045f461328748][^c-c13d704175a6b05d215670ac12b80db3]
 
 THE EUROPEAN COMMISSION,
 
@@ -258,15 +258,15 @@ Relevant competent authorities shall notify ESMA and the CCP college of every de
 
 Where a trading venue does not wish to be bound by Article 36 of Regulation (EU) No 600/2014, it shall submit a notification to its competent authority and ESMA in written form, using Forms 3.1 and 3.2 set out in the Annex to this Regulation.
 
-### Article 18. Notification procedure from the trading venue to its competent authority regarding an extension of the transitional period[^key-ebcf4c93d12f2a87932cb4beca276973]
+### Article 18. Notification procedure from the trading venue to its competent authority regarding an extension of the transitional period[^c-ebcf4c93d12f2a87932cb4beca276973]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Further specifications for the calculation of notional amount[^key-abe43482bf8f39603727c51aa5c3aa3a]
+### Article 19. Further specifications for the calculation of notional amount[^c-abe43482bf8f39603727c51aa5c3aa3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Approval and verification method by ESMA[^key-3a89127766438a9ac51fc43d22eec31d]
+### Article 20. Approval and verification method by ESMA[^c-3a89127766438a9ac51fc43d22eec31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -326,17 +326,17 @@ Jean-Claude Juncker
 
 *Form 4.1*
 
-**[^key-a7e98f0c6b95a2f461b8f1da6fe9161a]...**
+**[^c-a7e98f0c6b95a2f461b8f1da6fe9161a]...**
 
 *Form 4.2*
 
-**[^key-5fd197b086881830945c51ef79a4289b]...**
+**[^c-5fd197b086881830945c51ef79a4289b]...**
 
 ## Annotations
 
-[^key-0c0fa4fbf470c31788a045f461328748]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see [The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. para. 175](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/175) (with saving on lP completion day by [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-0c0fa4fbf470c31788a045f461328748]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see [The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. para. 175](https://www.legislation.gov.uk/uksi/2018/1115/schedule/paragraph/175) (with saving on lP completion day by [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-c13d704175a6b05d215670ac12b80db3]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-c13d704175a6b05d215670ac12b80db3]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 173, 12.6.2014, p. 84](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.173.01.0084.01.ENG).
 
@@ -350,12 +350,12 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on requirements for central counterparties ([OJ L 52, 23.2.2013, p. 41](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.052.01.0041.01.ENG)).
 
-[^key-ebcf4c93d12f2a87932cb4beca276973]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/eur/2017/581/article/18) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/2)
+[^c-ebcf4c93d12f2a87932cb4beca276973]: Textual amendment: [Art. 18](https://www.legislation.gov.uk/eur/2017/581/article/18) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/2)
 
-[^key-abe43482bf8f39603727c51aa5c3aa3a]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eur/2017/581/article/19) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/2)
+[^c-abe43482bf8f39603727c51aa5c3aa3a]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eur/2017/581/article/19) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/2)
 
-[^key-3a89127766438a9ac51fc43d22eec31d]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2017/581/article/20) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/2)
+[^c-3a89127766438a9ac51fc43d22eec31d]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2017/581/article/20) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/2)
 
-[^key-a7e98f0c6b95a2f461b8f1da6fe9161a]: Textual amendment: Annex Form 4.1 omitted (18.10.2021) by virtue of The Markets in [Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/3)
+[^c-a7e98f0c6b95a2f461b8f1da6fe9161a]: Textual amendment: Annex Form 4.1 omitted (18.10.2021) by virtue of The Markets in [Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/3)
 
-[^key-5fd197b086881830945c51ef79a4289b]: Textual amendment: Annex Form 4.2 omitted (18.10.2021) by virtue of The Markets in [Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/3)
+[^c-5fd197b086881830945c51ef79a4289b]: Textual amendment: Annex Form 4.2 omitted (18.10.2021) by virtue of The Markets in [Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/4/3)

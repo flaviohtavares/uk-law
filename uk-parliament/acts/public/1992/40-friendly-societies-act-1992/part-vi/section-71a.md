@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Business review[^key-96630196f42110f5cbe19c567cd515e9]
+## 71A. Business review[^c-96630196f42110f5cbe19c567cd515e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ consistent with the size and complexity of the business.
 
 ## Annotations
 
-[^key-96630196f42110f5cbe19c567cd515e9]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/1992/40/section/71A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/2211/article/1/2), [4](https://www.legislation.gov.uk/uksi/2005/2211/article/4)
+[^c-96630196f42110f5cbe19c567cd515e9]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/1992/40/section/71A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2005/2211/article/1/2), [4](https://www.legislation.gov.uk/uksi/2005/2211/article/4)

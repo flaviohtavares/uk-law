@@ -34,7 +34,7 @@ summary: ''
 
 (3) The reference in subsection (2)(a) is to registration—
 
-- (a) under the Co-operative and Community Benefit Societies Act 2014[^key-0f349c43ec2c9073920432d504782ec0] (if the power is exercisable by the Secretary of State or the Welsh Ministers), or
+- (a) under the Co-operative and Community Benefit Societies Act 2014[^c-0f349c43ec2c9073920432d504782ec0] (if the power is exercisable by the Secretary of State or the Welsh Ministers), or
 - (b) under the Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24 (N.I.)) (if the power is exercisable by the Department for Social Development).
 
 (4) An approval given for the purposes of this Chapter—
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f349c43ec2c9073920432d504782ec0]: Textual amendment: Words in [s. 653(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/653/3/a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 161](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/161) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-0f349c43ec2c9073920432d504782ec0]: Textual amendment: Words in [s. 653(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/653/3/a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 161](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/161) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

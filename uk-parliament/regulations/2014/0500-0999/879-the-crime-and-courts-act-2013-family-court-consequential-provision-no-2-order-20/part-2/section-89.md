@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**89.**[^key-bde24b5b916eea1fece3c371dae63f15] In rule 3(1), omit “and paragraphs 1 to 7 of Schedule 2”.
+**89.**[^c-bde24b5b916eea1fece3c371dae63f15] In rule 3(1), omit “and paragraphs 1 to 7 of Schedule 2”.
 
 ## Annotations
 
-[^key-bde24b5b916eea1fece3c371dae63f15]: Commencement: Art. 89 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-bde24b5b916eea1fece3c371dae63f15]: Commencement: Art. 89 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

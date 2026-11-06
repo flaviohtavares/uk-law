@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Category 1 buildings: duty of principal accountable person to operate complaints system[^key-e9446938bccaa2b8607aaaaa9872559b]
+## 51. Category 1 buildings: duty of principal accountable person to operate complaints system[^c-e9446938bccaa2b8607aaaaa9872559b]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9446938bccaa2b8607aaaaa9872559b]: Commencement: S. 51 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e9446938bccaa2b8607aaaaa9872559b]: Commencement: S. 51 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

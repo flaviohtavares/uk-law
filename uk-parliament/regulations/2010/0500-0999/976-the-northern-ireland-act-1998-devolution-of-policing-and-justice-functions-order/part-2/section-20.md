@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20.[^key-6ef6d64bfd8088a9146ecda81f381c6d]
+## 20.[^c-6ef6d64bfd8088a9146ecda81f381c6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Subject to article 19(13), articles 18 and 19 operate so as to transfer property
 
 ## Annotations
 
-[^key-6ef6d64bfd8088a9146ecda81f381c6d]: Commencement: Art. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6ef6d64bfd8088a9146ecda81f381c6d]: Commencement: Art. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

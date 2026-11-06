@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Occasional licences: conditions[^key-66b8c3b6d7b16a210a3fa501af5bc636][^key-108f7df0d266882eeacd05704cf18166]
+## 22. Occasional licences: conditions[^c-66b8c3b6d7b16a210a3fa501af5bc636][^c-108f7df0d266882eeacd05704cf18166]
 
 *Extent: N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66b8c3b6d7b16a210a3fa501af5bc636]: Commencement: S. 22 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-66b8c3b6d7b16a210a3fa501af5bc636]: Commencement: S. 22 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-108f7df0d266882eeacd05704cf18166]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/7/section/22) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-108f7df0d266882eeacd05704cf18166]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/7/section/22) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

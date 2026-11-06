@@ -22,7 +22,7 @@ summary: ''
 
 Article 65
 
-### PART 1 — LOCAL ENACTMENTS[^key-5de5ed8bb9c412a7645c39a70ab8db20]
+### PART 1 — LOCAL ENACTMENTS[^c-5de5ed8bb9c412a7645c39a70ab8db20]
 
 | Year | Chapter | Title | Section |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Article 65
 | 1881 | c. cxii | Boston Dock Act | 5 (power to make dock and railway, &c.)<br>6 (power to make subsidiary works) |
 | 1925 | c. lxxi | Land Drainage (Black Sluice) Provisional Order Confirmation Act | 9 (penalties for obstructing or injuring drains or banks) |
 
-### PART 2 — BYELAWS[^key-c0301a35f57e571c176acce86887db9d]
+### PART 2 — BYELAWS[^c-c0301a35f57e571c176acce86887db9d]
 
 | *(1)*<br>*Title* | *(2)*<br>*Byelaw to be disapplied* |
 | --- | --- |
@@ -42,6 +42,6 @@ Article 65
 
 ## Annotations
 
-[^key-5de5ed8bb9c412a7645c39a70ab8db20]: Commencement: Sch. 9 Pt. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5de5ed8bb9c412a7645c39a70ab8db20]: Commencement: Sch. 9 Pt. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-c0301a35f57e571c176acce86887db9d]: Commencement: Sch. 9 Pt. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-c0301a35f57e571c176acce86887db9d]: Commencement: Sch. 9 Pt. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

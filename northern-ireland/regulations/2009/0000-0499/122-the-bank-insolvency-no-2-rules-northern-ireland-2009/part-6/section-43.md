@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. The chair at meetings[^key-c6b1ba582fe5829f8b03311e86941414]
+## 43. The chair at meetings[^c-c6b1ba582fe5829f8b03311e86941414]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6b1ba582fe5829f8b03311e86941414]: Commencement: Rule 43 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c6b1ba582fe5829f8b03311e86941414]: Commencement: Rule 43 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -54,15 +54,15 @@ In accordance with section 146(5)(a) of the 2005 Act [^c22962461], a draft of th
 
 (2) In this Order—
 
-- “sales to trade” means the selling of alcohol to a person for the purposes of the person’s trade;[^key-780a3fb349fc2028a10c987bfea3c45a]
+- “sales to trade” means the selling of alcohol to a person for the purposes of the person’s trade;[^c-780a3fb349fc2028a10c987bfea3c45a]
 - “**schedule 3**” means schedule 3 (premises licences: mandatory conditions) of the Licensing (Scotland) Act 2005; and
 - “**schedule 4**” means schedule 4 (occasional licences: mandatory conditions) of the Licensing (Scotland) Act 2005.
 
 ## 2. Minimum price per unit
 
-For the purposes of paragraph 6A(3) of schedule 3 and paragraph 5A(3) of schedule 4, the minimum price per unit is 65 pence[^key-188c697e586a8bc57ffffe3539a85f21].
+For the purposes of paragraph 6A(3) of schedule 3 and paragraph 5A(3) of schedule 4, the minimum price per unit is 65 pence[^c-188c697e586a8bc57ffffe3539a85f21].
 
-## 2A. Sales to trade[^key-6f1414eba75ef9d334587aa50aa84053]
+## 2A. Sales to trade[^c-6f1414eba75ef9d334587aa50aa84053]
 
 The minimum price per unit specified in article 2 does not apply for the purpose of sales to trade.
 
@@ -100,10 +100,10 @@ The Order was notified in draft to the European Commission in accordance with Di
 
 [^c22962461]: Marginal citation: Section 146(5)(a) has been modified by paragraph 5 of schedule 3 of the 2010 Act and was amended by section 1(4) of the 2012 Act.
 
-[^key-780a3fb349fc2028a10c987bfea3c45a]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/135/article/1/2) inserted (3.4.2020) by [The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2020 (S.S.I. 2020/81)](https://www.legislation.gov.uk/ssi/2020/81), [arts. 1](https://www.legislation.gov.uk/ssi/2020/81/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/81/article/2/2)
+[^c-780a3fb349fc2028a10c987bfea3c45a]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/135/article/1/2) inserted (3.4.2020) by [The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2020 (S.S.I. 2020/81)](https://www.legislation.gov.uk/ssi/2020/81), [arts. 1](https://www.legislation.gov.uk/ssi/2020/81/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/81/article/2/2)
 
-[^key-188c697e586a8bc57ffffe3539a85f21]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2018/135/article/2) substituted (30.9.2024) by [The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2024 (S.S.I. 2024/128)](https://www.legislation.gov.uk/ssi/2024/128), [arts. 1](https://www.legislation.gov.uk/ssi/2024/128/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/128/article/2/2)
+[^c-188c697e586a8bc57ffffe3539a85f21]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2018/135/article/2) substituted (30.9.2024) by [The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2024 (S.S.I. 2024/128)](https://www.legislation.gov.uk/ssi/2024/128), [arts. 1](https://www.legislation.gov.uk/ssi/2024/128/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/128/article/2/2)
 
-[^key-6f1414eba75ef9d334587aa50aa84053]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/ssi/2018/135/article/2A) inserted (3.4.2020) by [The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2020 (S.S.I. 2020/81)](https://www.legislation.gov.uk/ssi/2020/81), [arts. 1](https://www.legislation.gov.uk/ssi/2020/81/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/81/article/2/3)
+[^c-6f1414eba75ef9d334587aa50aa84053]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/ssi/2018/135/article/2A) inserted (3.4.2020) by [The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2020 (S.S.I. 2020/81)](https://www.legislation.gov.uk/ssi/2020/81), [arts. 1](https://www.legislation.gov.uk/ssi/2020/81/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/81/article/2/3)
 
 [^c22962471]: Marginal citation: [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312) (“**the 2014 Regulations**”) as amended by [S.S.I. 2015/208](https://www.legislation.gov.uk/ssi/2015/208), [S.S.I. 2015/410](https://www.legislation.gov.uk/ssi/2015/410) and [S.S.I. 2016/191](https://www.legislation.gov.uk/ssi/2016/191). The 2014 Regulations enforce provisions of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p.18). Article 9(1)(k) of Regulation 1169/2011 sets out mandatory provisions about labelling in relation to alcoholic strength of beverages containing more than 1.2% by volume of alcohol. Failure to comply with Article 9 and other related labelling provisions is an offence in terms of regulation 10 of the 2014 Regulations.

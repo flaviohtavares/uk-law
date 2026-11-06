@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 64(1), 68(4), 70(4), 71(6), 122(1)(*a*) and (*d*), 131(1), 132(3), 133(2)(*i*) and 171(3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], section 5(1)(*a*) and (*b*) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Articles 14(1) and (2) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and sections 115(3), (4) and (8) and 123(5) and (6) of the Immigration and Asylum Act 1999[^f00004], and now vested in it[^f00005], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00006] in so far as regulations 2(1), (4)(*a*) and (6), 6 and 11(1), (2)(*b*), (4) to (7), (9) and (10) are concerned, by this statutory rule, which contains only regulations made by virtue of, or consequential upon, the Immigration and Asylum Act 1999 and which is made before the end of the period of six months beginning with the coming into force of that Act[^f00007], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-44ec377aaae9a5b16015906eff18737d]
+## 1. Citation, commencement and interpretation[^c-44ec377aaae9a5b16015906eff18737d]
 
 (1) These Regulations may be cited as the Social Security (Immigration and Asylum) Consequential Amendments Regulations (Northern Ireland) 2000 and shall come into operation on 3rd April 2000.
 
@@ -57,7 +57,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “the Persons from Abroad Regulations” means the Social Security (Persons from Abroad) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996[^f00012];
 - “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00013].
 
-## 2. Persons not excluded from specified benefits under section 115 of the Act[^key-10b51cf16392bd7355d257b9b1181a41]
+## 2. Persons not excluded from specified benefits under section 115 of the Act[^c-10b51cf16392bd7355d257b9b1181a41]
 
 (1) For the purposes of entitlement to income-based jobseeker’s allowance, income support, a social fund payment or housing benefit under the Contributions and Benefits Act, as the case may be, a person falling within a category or description of persons specified in Part I of the Schedule is a person to whom section 115 of the Act does not apply.
 
@@ -74,7 +74,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (6) For the purposes of entitlement to housing benefit or a social fund payment under the Contributions and Benefits Act, as the case may be, a person to whom regulation 11(4) applies, is a person to whom section 115 of the Act does not apply.
 
-## 3. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-c131db2fd33b17176e71678cc4b3c5e9]
+## 3. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-c131db2fd33b17176e71678cc4b3c5e9]
 
 In regulation 9 of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00014] (conditions relating to residence and presence in Northern Ireland)—
 
@@ -85,7 +85,7 @@ In regulation 9 of the Social Security (Invalid Care Allowance) Regulations (Nor
   ; and
 - (b) paragraph (1A)[^f00016] shall be omitted.
 
-## 4. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^key-1717dab2ae834adee7527dca98d79975]
+## 4. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^c-1717dab2ae834adee7527dca98d79975]
 
 In regulation 3 of the Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984[^f00017] (conditions relating to residence and presence)—
 
@@ -96,7 +96,7 @@ In regulation 3 of the Social Security (Severe Disablement Allowance) Regulation
   ; and
 - (b) paragraph (1A)[^f00019] shall be omitted.
 
-## 5. Amendment of the Income Support Regulations[^key-3549cad6f7b2f0659fe650fa5a6a9376]
+## 5. Amendment of the Income Support Regulations[^c-3549cad6f7b2f0659fe650fa5a6a9376]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (11).
 
@@ -203,7 +203,7 @@ In regulation 3 of the Social Security (Severe Disablement Allowance) Regulation
 
   .
 
-## 6. Amendment of the Housing Benefit Regulations[^key-62e16005486c4d220a5c129cb192ef11]
+## 6. Amendment of the Housing Benefit Regulations[^c-62e16005486c4d220a5c129cb192ef11]
 
 (1) The Housing Benefit Regulations shall be amended in accordance with paragraphs (2) to (6).
 
@@ -248,11 +248,11 @@ In regulation 3 of the Social Security (Severe Disablement Allowance) Regulation
 
 (6) In Schedule 4 (treatment of income in kind) in paragraph 23 after “income in kind” there shall be added “except where regulation 33(4)(*b*)[^f00044] (provision of support under section 95 or 98 of the Immigration and Asylum Act in the calculation of income other than earnings) applies”.
 
-## 7. Amendment of the Claims and Payments Regulations[^key-d08cd62ece276ae39b5ddbdca2bc9aeb]
+## 7. Amendment of the Claims and Payments Regulations[^c-d08cd62ece276ae39b5ddbdca2bc9aeb]
 
 In regulation 6(4D)[^f00045] of the Claims and Payments Regulations (date of claim) for sub-paragraphs (*a*) and (*b*) there shall be substituted “on the date on which his claim for asylum was recorded by the Secretary of State as having been made.”.
 
-## 8. Amendment of the Social Security (Attendance Allowance) Regulations[^key-718977e959f772afac7b87bd30e8e9ba]
+## 8. Amendment of the Social Security (Attendance Allowance) Regulations[^c-718977e959f772afac7b87bd30e8e9ba]
 
 In regulation 2 of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00046] (conditions as to residence and presence in Northern Ireland)—
 
@@ -263,7 +263,7 @@ In regulation 2 of the Social Security (Attendance Allowance) Regulations (North
   ; and
 - (b) paragraph (1A)[^f00048] shall be omitted.
 
-## 9. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-691004881c6cc99288a751842913772b]
+## 9. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-691004881c6cc99288a751842913772b]
 
 In regulation 2 of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00049] (conditions as to residence and presence in Northern Ireland)—
 
@@ -274,7 +274,7 @@ In regulation 2 of the Social Security (Disability Living Allowance) Regulations
   ; and
 - (b) paragraph (1A)[^f00051] shall be omitted.
 
-## 10. Amendment of the Jobseeker’s Allowance Regulations[^key-9f8054a00902768b278e0922e9a276a8]
+## 10. Amendment of the Jobseeker’s Allowance Regulations[^c-9f8054a00902768b278e0922e9a276a8]
 
 (1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (8).
 
@@ -347,7 +347,7 @@ In regulation 2 of the Social Security (Disability Living Allowance) Regulations
 
   .
 
-## 11. Transitional arrangements and savings[^key-60ca1fd500f3f0098d2c70c7f6bc8212]
+## 11. Transitional arrangements and savings[^c-60ca1fd500f3f0098d2c70c7f6bc8212]
 
 (1) Paragraph (2) shall apply where, in relation to a claim for income support, a social fund payment or housing benefit, as the case may be, a person has submitted a claim for asylum on or before 2nd April 2000 and is notified that he has been recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951[^f00057] as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967[^f00058].
 
@@ -385,7 +385,7 @@ as if regulations 3, 4, 8, 9 and 12(2) or (3) of these Regulations, as the case 
 
 (10) Notwithstanding the amendments in regulations 5 and 6 of these regulations, regulation 11(1) and (2) of the Persons from Abroad Regulations shall continue to have effect as they had effect before those amendments came into operation.
 
-## 12. Revocations[^key-af19d141c8b937bd06d7b84204312b2f]
+## 12. Revocations[^c-af19d141c8b937bd06d7b84204312b2f]
 
 (1) The provisions specified in paragraphs (2) and (3) are revoked.
 
@@ -417,7 +417,7 @@ Regulation 2
 
 ### Part I — Persons not excluded under section 115 of the Immigration and Asylum Act from entitlement to income-based jobseeker’s allowance, income support, a social fund payment or housing benefit
 
-**1.**[^key-ec2d666fce1758f85924709d49d03b1f] A person who—
+**1.**[^c-ec2d666fce1758f85924709d49d03b1f] A person who—
 
 - (a) has limited leave (as defined in section 33(1) of the Immigration Act 1971[^f00061] to enter or remain in the United Kingdom which was given in accordance with the immigration rules (as defined in that section) relating to—
   - (i) there being or there needing to be, no recourse to public funds, or
@@ -426,24 +426,24 @@ Regulation 2
   during that period of limited leave; and
 - (b) having, during any one period of limited leave (including any such period as extended), supported himself without recourse to public funds, other than any such recourse by reason of the previous application of this sub-paragraph, is temporarily without funds during that period of leave because remittances to him from abroad have been disrupted, provided there is a reasonable expectation that his supply of funds will be resumed.
 
-**2.**[^key-4ccf775d74d634073d9f5799063807ce] A person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971, to be responsible for his maintenance and accommodation and who has not been resident in the United Kingdom for a period of at least five years beginning on the date of entry or the date on which the undertaking was given in respect of him, whichever date is the later and the person or persons who gave the undertaking to provide for his maintenance and accommodation has, or as the case may be, have died.
+**2.**[^c-4ccf775d74d634073d9f5799063807ce] A person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971, to be responsible for his maintenance and accommodation and who has not been resident in the United Kingdom for a period of at least five years beginning on the date of entry or the date on which the undertaking was given in respect of him, whichever date is the later and the person or persons who gave the undertaking to provide for his maintenance and accommodation has, or as the case may be, have died.
 
-**3.**[^key-ffe2bd29d2025d80c4678f1be53c31c1] A person who—
+**3.**[^c-ffe2bd29d2025d80c4678f1be53c31c1] A person who—
 
 - (a) has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971, to be responsible for his maintenance and accommodation; and
 - (b) has been resident in the United Kingdom for a period of at least five years beginning on the date of entry or the date on which the undertaking was given in respect of him, whichever date is the later.
 
-**4.**[^key-43f54db43e5a3f97720950ffbdae9b15] A person who is a national of a state which has ratified the European Convention on Social and Medical Assistance (done in Paris on 11th December 1953[^f00062]) or a state which has ratified the Council of Europe Social Charter (signed in Turin on 18th October 1961[^f00063]) and who is lawfully present in the United Kingdom.
+**4.**[^c-43f54db43e5a3f97720950ffbdae9b15] A person who is a national of a state which has ratified the European Convention on Social and Medical Assistance (done in Paris on 11th December 1953[^f00062]) or a state which has ratified the Council of Europe Social Charter (signed in Turin on 18th October 1961[^f00063]) and who is lawfully present in the United Kingdom.
 
 ### Part II — Persons not excluded under section 115 of the Immigration and Asylum Act from entitlement to attendance allowance, severe disablement allowance, invalid care allowance, disability living allowance, a social fund payment or child benefit
 
-**1.**[^key-11fcaa1339d6bd0b7b78ff63374973ce] A member of a family of a national of a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00064].
+**1.**[^c-11fcaa1339d6bd0b7b78ff63374973ce] A member of a family of a national of a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00064].
 
-**2.**[^key-e4a46e0f2d78009cc8da5e2236ef6e89] A person who is lawfully working in Northern Ireland and is a national of a State with which the Community has concluded an agreement under Article 310[^f00065] of the Treaty of Amsterdam amending the Treaty on European Union, the Treaties establishing the European Communities and certain related Acts[^f00066] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families.
+**2.**[^c-e4a46e0f2d78009cc8da5e2236ef6e89] A person who is lawfully working in Northern Ireland and is a national of a State with which the Community has concluded an agreement under Article 310[^f00065] of the Treaty of Amsterdam amending the Treaty on European Union, the Treaties establishing the European Communities and certain related Acts[^f00066] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families.
 
-**3.**[^key-e460c441ca2f8ab33be3b7cd4981d5b2] A person who is a member of a family of, and living with, a person specified in paragraph 2.
+**3.**[^c-e460c441ca2f8ab33be3b7cd4981d5b2] A person who is a member of a family of, and living with, a person specified in paragraph 2.
 
-**4.**[^key-cf346de5e7409438a1dcfd95d839331a] A person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971, to be responsible for his maintenance and accommodation.
+**4.**[^c-cf346de5e7409438a1dcfd95d839331a] A person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971, to be responsible for his maintenance and accommodation.
 
 (This note is not part of the Regulations.)
 
@@ -477,7 +477,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00007]: Footnote: *See* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-44ec377aaae9a5b16015906eff18737d]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-44ec377aaae9a5b16015906eff18737d]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -491,9 +491,9 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00013]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending regulations are [S.R. 1996 Nos. 356](https://www.legislation.gov.uk/nisr/1996/356) and [358](https://www.legislation.gov.uk/nisr/1996/358) and [S.R. 1999 No. 428](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-10b51cf16392bd7355d257b9b1181a41]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-10b51cf16392bd7355d257b9b1181a41]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
-[^key-c131db2fd33b17176e71678cc4b3c5e9]: Commencement: Reg. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-c131db2fd33b17176e71678cc4b3c5e9]: Commencement: Reg. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); relevant amending regulations are [S.R. 1996 Nos. 11](https://www.legislation.gov.uk/nisr/1996/11) and [521](https://www.legislation.gov.uk/nisr/1996/521) and [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
@@ -501,7 +501,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00016]: Footnote: Paragraph (1A) was inserted by regulation 2(*b*) of [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and amended by regulation 11(1) and (2)(*f*) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-1717dab2ae834adee7527dca98d79975]: Commencement: Reg. 4 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-1717dab2ae834adee7527dca98d79975]: Commencement: Reg. 4 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317); relevant amending regulations are [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
@@ -509,7 +509,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00019]: Footnote: Paragraph (1A) was inserted by regulation 3(*b*) of [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and amended by regulation 11(1) and (2)(*g*) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-3549cad6f7b2f0659fe650fa5a6a9376]: Commencement: Reg. 5 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-3549cad6f7b2f0659fe650fa5a6a9376]: Commencement: Reg. 5 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00020]: Footnote: The definition of “the Contributions and Benefits Act” was inserted by regulation 4(2)(*a*) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
 
@@ -537,7 +537,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00032]: Footnote: Regulation 40(4) is amended by regulation 5(6) of these Regulations
 
-[^key-62e16005486c4d220a5c129cb192ef11]: Commencement: Reg. 6 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-62e16005486c4d220a5c129cb192ef11]: Commencement: Reg. 6 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00033]: Footnote: The definition of “the Children Order” was inserted by regulation 2(1) and (2)(*b*) of [S.R. 1997 No. 331](https://www.legislation.gov.uk/nisr/1997/331)
 
@@ -563,11 +563,11 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00044]: Footnote: Regulation 33(4) is amended by regulation 6(4) of these Regulations
 
-[^key-d08cd62ece276ae39b5ddbdca2bc9aeb]: Commencement: Reg. 7 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-d08cd62ece276ae39b5ddbdca2bc9aeb]: Commencement: Reg. 7 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00045]: Footnote: Paragraph (4D) was inserted by regulation 3(4)(*a*) of [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449)
 
-[^key-718977e959f772afac7b87bd30e8e9ba]: Commencement: Reg. 8 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-718977e959f772afac7b87bd30e8e9ba]: Commencement: Reg. 8 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00046]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); relevant amending regulations are [S.R. 1996 No.11](https://www.legislation.gov.uk/nisr/1996/11) and [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
@@ -575,7 +575,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00048]: Footnote: Paragraph (1A) was inserted by regulation 8(*b*) of [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and amended by regulation 11(1) and (2)(*d*) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-691004881c6cc99288a751842913772b]: Commencement: Reg. 9 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-691004881c6cc99288a751842913772b]: Commencement: Reg. 9 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00049]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending regulations are [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
@@ -583,7 +583,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00051]: Footnote: Paragraph (1A) was inserted by regulation 9(*b*) of [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11) and amended by regulation 11(1) and (2)(*e*) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81)
 
-[^key-9f8054a00902768b278e0922e9a276a8]: Commencement: Reg. 10 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-9f8054a00902768b278e0922e9a276a8]: Commencement: Reg. 10 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00052]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33)
 
@@ -595,7 +595,7 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00056]: Footnote: Regulation 103(6)(*b*) is inserted by regulation 10(4) of these Regulations
 
-[^key-60ca1fd500f3f0098d2c70c7f6bc8212]: Commencement: Reg. 11 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-60ca1fd500f3f0098d2c70c7f6bc8212]: Commencement: Reg. 11 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00057]: Footnote: Cmnd. 9171
 
@@ -605,32 +605,32 @@ These Regulations are made by virtue of, or consequential upon, provisions in th
 
 [^f00060]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); paragraph (4) of Article 11 was repealed by Schedule 9 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-af19d141c8b937bd06d7b84204312b2f]: Commencement: Reg. 12 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-af19d141c8b937bd06d7b84204312b2f]: Commencement: Reg. 12 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
-[^key-ec2d666fce1758f85924709d49d03b1f]: Commencement: Sch. Pt. I para. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-ec2d666fce1758f85924709d49d03b1f]: Commencement: Sch. Pt. I para. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00061]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 
-[^key-4ccf775d74d634073d9f5799063807ce]: Commencement: Sch. Pt. I para. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-4ccf775d74d634073d9f5799063807ce]: Commencement: Sch. Pt. I para. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
-[^key-ffe2bd29d2025d80c4678f1be53c31c1]: Commencement: Sch. Pt. I para. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-ffe2bd29d2025d80c4678f1be53c31c1]: Commencement: Sch. Pt. I para. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
-[^key-43f54db43e5a3f97720950ffbdae9b15]: Commencement: Sch. Pt. I para. 4 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-43f54db43e5a3f97720950ffbdae9b15]: Commencement: Sch. Pt. I para. 4 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00062]: Footnote: Cmnd. 9512
 
 [^f00063]: Footnote: Cmnd. 2643
 
-[^key-11fcaa1339d6bd0b7b78ff63374973ce]: Commencement: Sch. Pt. II para. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-11fcaa1339d6bd0b7b78ff63374973ce]: Commencement: Sch. Pt. II para. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00064]: Footnote: O.J. No. L1, 3.1.1994, p. 3
 
-[^key-e4a46e0f2d78009cc8da5e2236ef6e89]: Commencement: Sch. Pt. II para. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-e4a46e0f2d78009cc8da5e2236ef6e89]: Commencement: Sch. Pt. II para. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
 [^f00065]: Footnote: Article 310 EC (ex Article 238)
 
 [^f00066]: Footnote: O.J. No. 340, 10.11.97, p. l
 
-[^key-e460c441ca2f8ab33be3b7cd4981d5b2]: Commencement: Sch. Pt. II para. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-e460c441ca2f8ab33be3b7cd4981d5b2]: Commencement: Sch. Pt. II para. 3 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
 
-[^key-cf346de5e7409438a1dcfd95d839331a]: Commencement: Sch. Pt. II para. 4 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)
+[^c-cf346de5e7409438a1dcfd95d839331a]: Commencement: Sch. Pt. II para. 4 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/71/regulation/1/1)

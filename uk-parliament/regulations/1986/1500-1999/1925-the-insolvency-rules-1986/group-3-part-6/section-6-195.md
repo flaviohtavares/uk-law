@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.195. Making and service of the order[^key-65e27b0f839857ca53af1b4ad3dad956]
+## 6.195. Making and service of the order[^c-65e27b0f839857ca53af1b4ad3dad956]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ A copy of the statement shall be sent forthwith by the official to the applicant
 
 ## Annotations
 
-[^key-65e27b0f839857ca53af1b4ad3dad956]: Commencement: [Rule 6.195](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.195) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-65e27b0f839857ca53af1b4ad3dad956]: Commencement: [Rule 6.195](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.195) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00192]: Marginal citation: \[FORM 6.69\]

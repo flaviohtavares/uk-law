@@ -33,7 +33,7 @@ AGRICULTURE
 
 PESTICIDES
 
-The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2000 (revoked)[^key-05184e06ddc0fe566c46b88a22cd16f7]
+The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2000 (revoked)[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 Made
 
@@ -43,281 +43,281 @@ Coming into force
 
 1st February 2000
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05184e06ddc0fe566c46b88a22cd16f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 1. Citation, commencement and extent[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 2. Interpretation[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Maximum residue levels[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 3. Maximum residue levels[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 4.[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Seizure or disposal of crops, food or feeding stuffs[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 5. Seizure or disposal of crops, food or feeding stuffs[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Sampling and analysis[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 6. Sampling and analysis[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## 7. Revocations[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05184e06ddc0fe566c46b88a22cd16f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## SCHEDULE 1[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## SCHEDULE 2[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 Regulation 3
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## SCHEDULE 3[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 Regulation 6
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]
+[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — REVOCATIONS[^key-05184e06ddc0fe566c46b88a22cd16f7]
+## SCHEDULE 4 — REVOCATIONS[^c-05184e06ddc0fe566c46b88a22cd16f7]
 
 Regulation 7
 
@@ -325,10 +325,10 @@ Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05184e06ddc0fe566c46b88a22cd16f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05184e06ddc0fe566c46b88a22cd16f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2000/22) revoked (22.12.2005) by [The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2005/599/schedule/4)
+[^c-05184e06ddc0fe566c46b88a22cd16f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2000/22) revoked (22.12.2005) by [The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (Scotland) Regulations 2005 (S.S.I. 2005/599)](https://www.legislation.gov.uk/ssi/2005/599), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/599/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2005/599/schedule/4)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.S.I. made prior to its final revocation. A revised version of how the S.S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

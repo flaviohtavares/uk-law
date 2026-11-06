@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24ZD. Requirements of assurer's membership audit certificate[^key-e55b8071dcfee3d7ab54be9524657e0f]
+## 24ZD. Requirements of assurer's membership audit certificate[^c-e55b8071dcfee3d7ab54be9524657e0f]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ the certificate must state the assurer's reasons for making that statement.
 
 ## Annotations
 
-[^key-e55b8071dcfee3d7ab54be9524657e0f]: Textual amendment: Ss. 24ZB-24ZG inserted (30.1.2014 for specified purposes, 6.4.2015 in so far as not already in force and with application in accordance with art. 3 of the commencing S.I.) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/41/2), [45(3)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/b) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/717/article/3/2))
+[^c-e55b8071dcfee3d7ab54be9524657e0f]: Textual amendment: Ss. 24ZB-24ZG inserted (30.1.2014 for specified purposes, 6.4.2015 in so far as not already in force and with application in accordance with art. 3 of the commencing S.I.) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/41/2), [45(3)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/b) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/717/article/3/2))

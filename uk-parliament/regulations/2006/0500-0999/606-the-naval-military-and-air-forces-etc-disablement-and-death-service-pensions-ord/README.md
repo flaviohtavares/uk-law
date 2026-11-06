@@ -82,7 +82,7 @@ ACCORDINGLY, Her Majesty, in exercise of sections 12(1) and 24(3) of that Act, a
 - [Section 20 — Mobility Supplement](part-ii/section-20.md)
 - [Section 21 — Medical expenses](part-ii/section-21.md)
 
-### PART 2A — ENTITLEMENT OF RECIPIENTS OF DIFFUSE MESOTHELIOMA LUMP SUMS[^key-533a392f85c94a8bdd2d5a0e074a99a5]
+### PART 2A — ENTITLEMENT OF RECIPIENTS OF DIFFUSE MESOTHELIOMA LUMP SUMS[^c-533a392f85c94a8bdd2d5a0e074a99a5]
 
 - [Section 21A — Entitlement of recipients of diffuse mesothelioma lump sums to other awards](part-2a/section-21a.md)
 
@@ -188,4 +188,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1543918]: Marginal citation: [1977 c. 5](https://www.legislation.gov.uk/ukpga/1977/5).
 
-[^key-533a392f85c94a8bdd2d5a0e074a99a5]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2006/606/part/2A) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/374/article/4)
+[^c-533a392f85c94a8bdd2d5a0e074a99a5]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2006/606/part/2A) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/374/article/4)

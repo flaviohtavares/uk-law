@@ -61,14 +61,14 @@ but regulations under this section shall not otherwise provide for the making of
 (10) For the purposes of this section a dwelling occupied by a housing benefit claimant is in the public or social rented sector if the payments which the claimant is liable to make in respect of the dwelling (and on account of which he is entitled to housing benefit) are to be made to—
 
 - (a) a local authority,
-- (b) a body eligible for registration as a social landlord under Part I of the *(affected by repeal, see note)*[^key-d9087256a3ffd964f4f47c9687fb1501] [^c1314383] Housing Act 1996 (whether so registered or not), *(affected by repeal, see note)*[^key-d9087256a3ffd964f4f47c9687fb1501]
+- (b) a body eligible for registration as a social landlord under Part I of the *(affected by repeal, see note)*[^c-d9087256a3ffd964f4f47c9687fb1501] [^c1314383] Housing Act 1996 (whether so registered or not), *(affected by repeal, see note)*[^c-d9087256a3ffd964f4f47c9687fb1501]
 
   an unregistered housing association within the meaning of the Housing Associations Act 1985,
 - (ba) a private registered provider of social housing,
 - (bb) a registered social landlord within the meaning of Part 1 of the Housing Act 1996, or
 - (c) in Scotland, a registered housing association within the meaning of the [^c1314384]Housing Associations Act 1985.
 
-(10A)[^key-fd261213fa90062644e28c191f46abcc] But if the payments are to be made to a profit-making private registered provider of social housing the dwelling is in the public or social rented sector for the purposes of this section only if the dwelling is social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008.
+(10A)[^c-fd261213fa90062644e28c191f46abcc] But if the payments are to be made to a profit-making private registered provider of social housing the dwelling is in the public or social rented sector for the purposes of this section only if the dwelling is social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008.
 
 (11) In this section—
 
@@ -79,10 +79,10 @@ but regulations under this section shall not otherwise provide for the making of
 
 ## Annotations
 
-[^key-d9087256a3ffd964f4f47c9687fb1501]: Textual amendment: S. 79(10)(b)(ba)(bb) substituted for s. 79(10)(b) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 117(2)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/117/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-d9087256a3ffd964f4f47c9687fb1501]: Textual amendment: S. 79(10)(b)(ba)(bb) substituted for s. 79(10)(b) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 117(2)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/117/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c1314383]: Marginal citation: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
 
 [^c1314384]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-fd261213fa90062644e28c191f46abcc]: Textual amendment: S. 79(10A) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 117(3)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/117/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-fd261213fa90062644e28c191f46abcc]: Textual amendment: S. 79(10A) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 117(3)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/117/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))

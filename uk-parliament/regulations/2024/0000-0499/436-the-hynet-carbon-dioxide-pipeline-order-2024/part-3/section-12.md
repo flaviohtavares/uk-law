@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Application of the 1991 Act[^key-e24aca2419f17b80eef5229409d49152]
+## 12. Application of the 1991 Act[^c-e24aca2419f17b80eef5229409d49152]
 
 *Extent: E+W+S*
 
@@ -51,6 +51,6 @@ whether or not the carrying out of the works or the stopping up, alteration or d
 
 ## Annotations
 
-[^key-e24aca2419f17b80eef5229409d49152]: Commencement: Art. 12 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-e24aca2419f17b80eef5229409d49152]: Commencement: Art. 12 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00025]: Footnote: Sections 55, 57, 60, 68 and 69 were amended by the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).

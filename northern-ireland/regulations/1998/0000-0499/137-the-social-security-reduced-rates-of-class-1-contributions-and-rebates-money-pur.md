@@ -42,20 +42,20 @@ Whereas the Secretary of State for Social Security has made an Order[^f00001] un
 
 Now, therefore, the Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 38B of the Pension Schemes (Northern Ireland) Act 1993[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-522cd25d5c52abf299388b67f8c88e2d]
+## 1. Citation, commencement and interpretation[^c-522cd25d5c52abf299388b67f8c88e2d]
 
 (1) This Order may be cited as the Social Security (Reduced Rates of Class 1 Contributions, and Rebates) (Money Purchase Contracted-out Schemes) Order (Northern Ireland) 1998 and shall come into operation on 6th April 1999.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to this Order as it applies to a Measure of the Assembly.
 
-## 2. Reduced rates of Class 1 contributions, and rebates[^key-9e1545ef6b2eda723ea4efd996a094d3]
+## 2. Reduced rates of Class 1 contributions, and rebates[^c-9e1545ef6b2eda723ea4efd996a094d3]
 
 For the purposes of section 38A of the Pension Schemes (Northern Ireland) Act 1993[^f00005] (reduced rates of Class 1 contributions, and rebates)—
 
 - (a) the appropriate flat-rate percentage in respect of earners for the tax years 1999-2000 to 2001-2002 in the case of a primary Class 1 contribution is 1·6 per cent. and in the case of a secondary Class 1 contribution is 0·6 per cent., and
 - (b) the appropriate age-related percentages in respect of earners for the tax years 1999-2000 to 2001-2002 are the percentages specified in the table set out in the Schedule by reference to the earners' ages on the last day of the preceding tax year.
 
-## 3. Amendment of previous Order[^key-12d16a126ae9e6742982fb14453acb7a]
+## 3. Amendment of previous Order[^c-12d16a126ae9e6742982fb14453acb7a]
 
 In the Social Security (Reduced Rates of Class 1 Contributions and Rebates) (Money Purchase Contracted-out Schemes) Order (Northern Ireland) 1996[^f00006]—
 
@@ -70,7 +70,7 @@ Assistant Secretary
 
 2nd April 1998.
 
-## SCHEDULE[^key-b6f3bed3bed6b7190f1d1409e1084f00]
+## SCHEDULE[^c-b6f3bed3bed6b7190f1d1409e1084f00]
 
 Article 2(*b*)
 
@@ -148,16 +148,16 @@ This Order, which corresponds to an Order (S.I. [1998/945](https://www.legislati
 
 [^f00003]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 38B was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-522cd25d5c52abf299388b67f8c88e2d]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/137/article/1) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
+[^c-522cd25d5c52abf299388b67f8c88e2d]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/137/article/1) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9e1545ef6b2eda723ea4efd996a094d3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1998/137/article/2) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
+[^c-9e1545ef6b2eda723ea4efd996a094d3]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1998/137/article/2) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
 
 [^f00005]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-12d16a126ae9e6742982fb14453acb7a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1998/137/article/3) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
+[^c-12d16a126ae9e6742982fb14453acb7a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1998/137/article/3) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 150](https://www.legislation.gov.uk/nisr/1996/150)
 
-[^key-b6f3bed3bed6b7190f1d1409e1084f00]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1998/137/schedule) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)
+[^c-b6f3bed3bed6b7190f1d1409e1084f00]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1998/137/schedule) in operation at 6.4.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/137/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Reconveyances of mortgages by endorsed receipts.[^c2384931][^key-503eebd91b131fa9ad3de6f73276b714]
+## 115. Reconveyances of mortgages by endorsed receipts.[^c2384931][^c-503eebd91b131fa9ad3de6f73276b714]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ and in either case, as a discharge of the mortgaged property from all principal 
 
 [^c2384931]: Modification: [S. 115](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/115) extended by [Industrial and Provident Societies Act 1965 (c. 12)](https://www.legislation.gov.uk/ukpga/1965/12), [s. 33](https://www.legislation.gov.uk/ukpga/1965/12/section/33); [s. 115](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/115) extended by [Friendly Societies Act 1974 (c. 46, SIF 55:1)](https://www.legislation.gov.uk/ukpga/1974/46), [s. 57](https://www.legislation.gov.uk/ukpga/1974/46/section/57)
 
-[^key-503eebd91b131fa9ad3de6f73276b714]: Modification: [S. 115](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/115) extended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/71/2), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-503eebd91b131fa9ad3de6f73276b714]: Modification: [S. 115](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/115) extended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/71/2), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c2384951]: Modification: [S. 115(1)(3)(6)(8)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/115/1/3/6/8) extended by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/1986/53/section/13/7), [54(3)(a)(5)](https://www.legislation.gov.uk/ukpga/1986/53/section/54/3/a/5), [119(5)](https://www.legislation.gov.uk/ukpga/1986/53/section/119/5), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/4/paragraph/2/2); and (1.12.1997) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 2A para. 1(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/2A/paragraph/1/2) (as inserted (1.12.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/32/schedule/2); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt.I](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I))
 

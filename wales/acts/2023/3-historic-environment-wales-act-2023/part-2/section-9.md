@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Review of decision to add monument to the schedule etc.[^key-7c67563edec3ca17d40d938fc53da8cf][^key-e5207d3d555bcb199e2aad5d44d266ad]
+## 9. Review of decision to add monument to the schedule etc.[^c-7c67563edec3ca17d40d938fc53da8cf][^c-e5207d3d555bcb199e2aad5d44d266ad]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ the notice under section 4(2) must state that any owner or occupier of the monum
 
 ## Annotations
 
-[^key-7c67563edec3ca17d40d938fc53da8cf]: Commencement: S. 9 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7c67563edec3ca17d40d938fc53da8cf]: Commencement: S. 9 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e5207d3d555bcb199e2aad5d44d266ad]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2023/3/section/9) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-e5207d3d555bcb199e2aad5d44d266ad]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2023/3/section/9) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

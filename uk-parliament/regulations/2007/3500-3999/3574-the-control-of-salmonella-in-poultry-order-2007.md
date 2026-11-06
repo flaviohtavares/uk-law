@@ -56,7 +56,7 @@ In this Order—
 
 - “breeding flock” means a flock kept for the production of eggs intended for incubation;
 - “chick” means a bird less than 72 hours old that has not been fed;
-- “Commission Regulation ([^key-58e419f2a36cc6228a9c347cd350447d]EU) No 200/2010” means Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*;
+- “Commission Regulation ([^c-58e419f2a36cc6228a9c347cd350447d]EU) No 200/2010” means Commission Regulation (EU) No 200/2010 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*;
 - “Commission Regulation (EU) No 517/2011” means Commission Regulation (EU) No 517/2011 implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) as regards a Union target for the reduction of the prevalence of certain *Salmonella* serotypes in laying hens of *Gallus gallus* and amending Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and Commission Regulation (EU) No 200/2010;
 - “flock” means poultry of the same health status kept on the same holding or in the same enclosure and constituting a single epidemiological unit and, in the case of housed poultry, includes all birds sharing the same airspace;
 - “layer breeder” means poultry kept for the production of eggs intended for the incubation and hatching of chicks—
@@ -73,8 +73,8 @@ In this Order—
 
 The Secretary of State is the competent authority for the purposes of—
 
-- (za)[^key-f3fe89c2af9b8d5dc1dd52ea8ae0d23a] Regulation (EC) No 2160/2003 of the European Parliament and of the Council on the control of salmonella and other food-borne zoonotic agents;
-- (a)[^key-7adff5c2bb568a43b9c59ee37a0b30ca] Commission Regulation (EU) No 200/2010;
+- (za)[^c-f3fe89c2af9b8d5dc1dd52ea8ae0d23a] Regulation (EC) No 2160/2003 of the European Parliament and of the Council on the control of salmonella and other food-borne zoonotic agents;
+- (a)[^c-7adff5c2bb568a43b9c59ee37a0b30ca] Commission Regulation (EU) No 200/2010;
 - (b) Commission Regulation (EU) No 517/2011; and
 - (c) Commission Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in poultry[^f00004].
 
@@ -167,7 +167,7 @@ If any person fails to take any action required by this Order, an inspector may 
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that the Secretary of State will enforce this Order instead of the local authority.
 
-(3)[^key-8f1280ea37213df727cd449ea6bde97b] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-8f1280ea37213df727cd449ea6bde97b] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 ### 14. Revocation
 
@@ -254,7 +254,7 @@ The occupier must take samples from each laying flock on the holding—
 
 ### 8. Method of sampling during the laying period
 
-Samples taken during the laying period must be taken in accordance with point 2.2.2.1 of the Annex to Commission Regulation ([^key-652158770241d35b781f8badd5282f2b]EU) No 200/2010 (in the case of breeding flocks) or point 2.2 of the Annex to Commission Regulation ([^key-19a0be5d53db48eb78676a9b06cc80bf]EU) No 517/2011 (in the case of laying flocks).
+Samples taken during the laying period must be taken in accordance with point 2.2.2.1 of the Annex to Commission Regulation ([^c-652158770241d35b781f8badd5282f2b]EU) No 200/2010 (in the case of breeding flocks) or point 2.2 of the Annex to Commission Regulation ([^c-19a0be5d53db48eb78676a9b06cc80bf]EU) No 517/2011 (in the case of laying flocks).
 
 ### 9. Submission of samples to an approved laboratory
 
@@ -308,13 +308,13 @@ When birds or eggs (other than eggs for human consumption) are moved on to or of
 
 (3) In the case of breeding flocks that person must—
 
-- (a) prepare boot swab samples in accordance with point 3.1.3 of the Annex to Commission Regulation ([^key-87dbd52002dac0a449d5cfb94979ea59]EU) No 200/2010 ;
-- (b) prepare any other samples of faeces in accordance with point 3.1.4[^key-028a69d129410681afaa6a38bfafe01f] of that Annex; and
+- (a) prepare boot swab samples in accordance with point 3.1.3 of the Annex to Commission Regulation ([^c-87dbd52002dac0a449d5cfb94979ea59]EU) No 200/2010 ;
+- (b) prepare any other samples of faeces in accordance with point 3.1.4[^c-028a69d129410681afaa6a38bfafe01f] of that Annex; and
 - (c) test the samples for salmonella in accordance with the method in point 3.2 of that Annex.
 
 (4) For laying flocks that person must—
 
-- (a) prepare boot swab samples in accordance with point 3.1.1 of the Annex to [Commission Regulation (EU) No 517/2011](https://www.legislation.gov.uk/european/regulation/2006/1168) [^key-3c93d9a52566c1f06867af4f3796f893];
+- (a) prepare boot swab samples in accordance with point 3.1.1 of the Annex to [Commission Regulation (EU) No 517/2011](https://www.legislation.gov.uk/european/regulation/2006/1168) [^c-3c93d9a52566c1f06867af4f3796f893];
 - (b) prepare any other samples of faeces or dust in accordance with 3.1.2 of that Annex; and
 - (c) test the samples for salmonella in accordance with the method in point 3.2 of that Annex.
 
@@ -342,24 +342,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the 1981 Act on “the Ministers” (as defined in section 86 of that Act) were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-58e419f2a36cc6228a9c347cd350447d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2007/3574/article/2) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/2)
+[^c-58e419f2a36cc6228a9c347cd350447d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2007/3574/article/2) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/2)
 
-[^key-f3fe89c2af9b8d5dc1dd52ea8ae0d23a]: Textual amendment: [Art. 3(za)](https://www.legislation.gov.uk/uksi/2007/3574/article/3/za) inserted (22.3.2019) by [The Control of Salmonella in Poultry (Amendment) Order 2019 (S.I. 2019/971)](https://www.legislation.gov.uk/uksi/2019/971), [arts. 1](https://www.legislation.gov.uk/uksi/2019/971/article/1), [2](https://www.legislation.gov.uk/uksi/2019/971/article/2)
+[^c-f3fe89c2af9b8d5dc1dd52ea8ae0d23a]: Textual amendment: [Art. 3(za)](https://www.legislation.gov.uk/uksi/2007/3574/article/3/za) inserted (22.3.2019) by [The Control of Salmonella in Poultry (Amendment) Order 2019 (S.I. 2019/971)](https://www.legislation.gov.uk/uksi/2019/971), [arts. 1](https://www.legislation.gov.uk/uksi/2019/971/article/1), [2](https://www.legislation.gov.uk/uksi/2019/971/article/2)
 
-[^key-7adff5c2bb568a43b9c59ee37a0b30ca]: Textual amendment: Art. 3(a)(b) substituted for art. 3(a)(b) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/3)
+[^c-7adff5c2bb568a43b9c59ee37a0b30ca]: Textual amendment: Art. 3(a)(b) substituted for art. 3(a)(b) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/3)
 
 [^f00004]: Footnote: OJ No L 212, 2.8.2006, p.3.
 
-[^key-8f1280ea37213df727cd449ea6bde97b]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2007/3574/article/13/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/4)
+[^c-8f1280ea37213df727cd449ea6bde97b]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2007/3574/article/13/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(4)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/4)
 
 [^f00005]: Footnote: [S.I. 2007/405](https://www.legislation.gov.uk/uksi/2007/405).
 
-[^key-652158770241d35b781f8badd5282f2b]: Textual amendment: Words in Sch. para. 8 substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/a/i)
+[^c-652158770241d35b781f8badd5282f2b]: Textual amendment: Words in Sch. para. 8 substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/a/i)
 
-[^key-19a0be5d53db48eb78676a9b06cc80bf]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/8) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/a/ii)
+[^c-19a0be5d53db48eb78676a9b06cc80bf]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/8) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/a/ii)
 
-[^key-87dbd52002dac0a449d5cfb94979ea59]: Textual amendment: Words in [Sch. para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/12/3/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(b)(i)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/b/i)
+[^c-87dbd52002dac0a449d5cfb94979ea59]: Textual amendment: Words in [Sch. para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/12/3/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(b)(i)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/b/i)
 
-[^key-028a69d129410681afaa6a38bfafe01f]: Textual amendment: Word in [Sch. para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/12/3/b) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/b/ii)
+[^c-028a69d129410681afaa6a38bfafe01f]: Textual amendment: Word in [Sch. para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/12/3/b) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/b/ii)
 
-[^key-3c93d9a52566c1f06867af4f3796f893]: Textual amendment: Words in [Sch. para. 12(4)(a)](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/12/4/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/b/iii)
+[^c-3c93d9a52566c1f06867af4f3796f893]: Textual amendment: Words in [Sch. para. 12(4)(a)](https://www.legislation.gov.uk/uksi/2007/3574/schedule/paragraph/12/4/a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [22(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/2897/article/22/5/b/iii)

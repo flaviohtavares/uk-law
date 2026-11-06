@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Ultimate disposal of vehicles abandoned and removeable under this Act.[^c19154541][^c13561931][^c18773051][^c18773511][^key-39201a7e717d4a5c868bfe0c03f6a375]
+## 101. Ultimate disposal of vehicles abandoned and removeable under this Act.[^c19154541][^c13561931][^c18773051][^c18773511][^c-39201a7e717d4a5c868bfe0c03f6a375]
 
 *Extent: E+W*
 
@@ -63,12 +63,12 @@ summary: ''
   - (a) the chief officer of the police force in whose area is the place which the vehicle has been removed or could at any time be removed, [^c13562001]. . .
   - (b) the local authority (other than Transport for London)[^c13562011] in whose area that place is or to whom the vehicle has been delivered by the chief officer of a police force; [^c19976471]...[^c13562021]
   - (c) Transport for London, where the vehicle has been removed by a parking attendant on its behalf; or[^c19976501]
-  - (d) the Secretary of State or a strategic highways company[^key-15580c39700401ea8408e5ba968b6ac5], where the vehicle has been removed by, or by virtue of arrangements made by, a traffic officer;
+  - (d) the Secretary of State or a strategic highways company[^c-15580c39700401ea8408e5ba968b6ac5], where the vehicle has been removed by, or by virtue of arrangements made by, a traffic officer;
 - “**licence**”, in relation to a vehicle, means a licence issued for the vehicle under the Vehicles Excise and Registration Act 1994[^c13562031]; (including a nil licence within the meaning of that Act)[^c18862821]
 - “**owner**”, in relation to a vehicle which is the subject of a hiring agreement or hire-purchase agreement, includes the person entitled to possession of the vehicle under the agreement; and
 - “**local authority**” and “[^c19976541]**traffic officer**” have the meanings assigned to them by section 100(5) and “**vehicle**” has the meaning assigned to it by section 99(5) of this Act.
 
-## 101. Ultimate disposal of vehicles abandoned and removeable under this Act.[^c19154551][^c13561931][^c18773051][^c18773511][^key-f9887976021b5f65eeb69c5b63390711][^key-39201a7e717d4a5c868bfe0c03f6a375]
+## 101. Ultimate disposal of vehicles abandoned and removeable under this Act.[^c19154551][^c13561931][^c18773051][^c18773511][^c-f9887976021b5f65eeb69c5b63390711][^c-39201a7e717d4a5c868bfe0c03f6a375]
 
 *Extent: S*
 
@@ -139,7 +139,7 @@ the authority shall permit him to remove the vehicle from their custody within s
 
 [^c18773511]: Modification: Ss. 100-102: power to amend or apply (with modifications) conferred (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2004/18/section/9/2), [99](https://www.legislation.gov.uk/ukpga/2004/18/section/99) (with [s. 38](https://www.legislation.gov.uk/ukpga/2004/18/section/38)); [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a); [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
 
-[^key-39201a7e717d4a5c868bfe0c03f6a375]: Modification: [Ss. 101-103](https://www.legislation.gov.uk/ukpga/1984/27/section/101) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(b)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/b) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
+[^c-39201a7e717d4a5c868bfe0c03f6a375]: Modification: [Ss. 101-103](https://www.legislation.gov.uk/ukpga/1984/27/section/101) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(b)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/b) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
 
 [^c19154611]: Textual amendment: Words in s. 101(1) substituted (E.W.) (26.10.2006 for W. and 31.3.2008 for E.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 91](https://www.legislation.gov.uk/ukpga/2004/18/section/91), [99](https://www.legislation.gov.uk/ukpga/2004/18/section/99), [Sch. 11 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2004/18/schedule/11/paragraph/3/1/a); [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c); [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [art. 3(1)(2)(g)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1/2/g) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [4-8](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), [arts. 3(c)](https://www.legislation.gov.uk/uksi/2008/757/article/3/c), [5](https://www.legislation.gov.uk/uksi/2008/757/article/5))
 
@@ -161,7 +161,7 @@ the authority shall permit him to remove the vehicle from their custody within s
 
 [^c19976501]: Textual amendment: Para. (d) and preceding word in definition of "competent authority" in s. 101(8) inserted (E.) (1.10.2008) by [The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulations 2008 (S.I. 2008/2367)](https://www.legislation.gov.uk/uksi/2008/2367), [reg. 13(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/13/3/a/ii)
 
-[^key-15580c39700401ea8408e5ba968b6ac5]: Textual amendment: Words in definition of "competent authority" in s. 101(8) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/93); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-15580c39700401ea8408e5ba968b6ac5]: Textual amendment: Words in definition of "competent authority" in s. 101(8) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/93); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13562031]: Textual amendment: Word in definition of "licence" in s. 101(8) substituted (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 63](https://www.legislation.gov.uk/ukpga/1994/22/section/63), [66](https://www.legislation.gov.uk/ukpga/1994/22/section/66), [Sch. 3 para. 18(1)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/18/1) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))
 
@@ -171,7 +171,7 @@ the authority shall permit him to remove the vehicle from their custody within s
 
 [^c19154551]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England only and Wales only
 
-[^key-f9887976021b5f65eeb69c5b63390711]: Modification: S. 101 modified (3.5.2017) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Angus Council) Designation Order 2017 (S.S.I. 2017/79)](https://www.legislation.gov.uk/ssi/2017/79), [arts. 1](https://www.legislation.gov.uk/ssi/2017/79/article/1), [5](https://www.legislation.gov.uk/ssi/2017/79/article/5), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2017/79/schedule/3/paragraph/4)
+[^c-f9887976021b5f65eeb69c5b63390711]: Modification: S. 101 modified (3.5.2017) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Angus Council) Designation Order 2017 (S.S.I. 2017/79)](https://www.legislation.gov.uk/ssi/2017/79), [arts. 1](https://www.legislation.gov.uk/ssi/2017/79/article/1), [5](https://www.legislation.gov.uk/ssi/2017/79/article/5), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2017/79/schedule/3/paragraph/4)
 
 [^c13561941]: Textual amendment: Words in s. 101(1) substituted (5.7.1993) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1991/40/section/67/2) (with [s. 79(1)](https://www.legislation.gov.uk/ukpga/1991/40/section/79/1)); [S.I. 1993/1461](https://www.legislation.gov.uk/uksi/1993/1461), [art. 4](https://www.legislation.gov.uk/uksi/1993/1461/article/4).
 

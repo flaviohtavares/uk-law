@@ -35,16 +35,16 @@ amending Regulation (EC) No 1569/2007 establishing a mechanism for the determina
 
 (Text with EEA relevance) (revoked)
 
-[^key-65ac808f928bdcc07a39c8271cf254d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ac808f928bdcc07a39c8271cf254d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-65ac808f928bdcc07a39c8271cf254d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-65ac808f928bdcc07a39c8271cf254d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-65ac808f928bdcc07a39c8271cf254d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-65ac808f928bdcc07a39c8271cf254d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65ac808f928bdcc07a39c8271cf254d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ac808f928bdcc07a39c8271cf254d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65ac808f928bdcc07a39c8271cf254d6]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3), [5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d)[(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e)
+[^c-65ac808f928bdcc07a39c8271cf254d6]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3), [5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d)[(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e)

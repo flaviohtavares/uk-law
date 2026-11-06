@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Pharmaceutical Services) (Amendment) (Wales) Regulations 2010 (revoked)[^key-f9e719c98ff26a28d72708f97febaa6a]
+The National Health Service (Pharmaceutical Services) (Amendment) (Wales) Regulations 2010 (revoked)[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 Made
 
@@ -45,86 +45,86 @@ Coming into force
 
 1 April 2010
 
-[^key-f9e719c98ff26a28d72708f97febaa6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e719c98ff26a28d72708f97febaa6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 1. Title, commencement, application and interpretation[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 2. Amendment of the principal Regulations[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to Schedule 2 to the principal Regulations[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 3. Amendments to Schedule 2 to the principal Regulations[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of paragraph 1[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 4. Amendment of paragraph 1[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of paragraph 6[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 5. Amendment of paragraph 6[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of paragraph 9[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 6. Amendment of paragraph 9[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of paragraph 10[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 7. Amendment of paragraph 10[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Insertion of new paragraph 10A[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 8. Insertion of new paragraph 10A[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of paragraph 18[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 9. Amendment of paragraph 18[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of paragraph 21[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 10. Amendment of paragraph 21[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of paragraph 25[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 11. Amendment of paragraph 25[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Insertion of paragraph 24A[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 12. Insertion of paragraph 24A[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of paragraph 27[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 13. Amendment of paragraph 27[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of paragraph 42(1)[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 14. Amendment of paragraph 42(1)[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Insertion of the Schedule into the principal Regulations[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 15. Insertion of the Schedule into the principal Regulations[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Transitional arrangement[^key-f9e719c98ff26a28d72708f97febaa6a]
+## 16. Transitional arrangement[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9e719c98ff26a28d72708f97febaa6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e719c98ff26a28d72708f97febaa6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE INSERTED IMMEDIATELY AFTER SCHEDULE 2 TO THE NATIONAL HEALTH SERVICE (PHARMACEUTICAL SERVICES) REGULATIONS 1992[^key-f9e719c98ff26a28d72708f97febaa6a]
+## SCHEDULE — SCHEDULE INSERTED IMMEDIATELY AFTER SCHEDULE 2 TO THE NATIONAL HEALTH SERVICE (PHARMACEUTICAL SERVICES) REGULATIONS 1992[^c-f9e719c98ff26a28d72708f97febaa6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9e719c98ff26a28d72708f97febaa6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e719c98ff26a28d72708f97febaa6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9e719c98ff26a28d72708f97febaa6a]: Textual amendment: Regulations revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/uksi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/898/regulation/1/2), [Sch. 8 para. 22](https://www.legislation.gov.uk/uksi/2013/898/schedule/8/paragraph/22)
+[^c-f9e719c98ff26a28d72708f97febaa6a]: Textual amendment: Regulations revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/uksi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/898/regulation/1/2), [Sch. 8 para. 22](https://www.legislation.gov.uk/uksi/2013/898/schedule/8/paragraph/22)

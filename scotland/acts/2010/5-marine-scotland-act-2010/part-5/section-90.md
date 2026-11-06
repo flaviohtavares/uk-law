@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Representations and hearings in relation to proposed marine conservation orders etc.[^key-e8c937d37dfcff7e40d00b188a89ddd2]
+## 90. Representations and hearings in relation to proposed marine conservation orders etc.[^c-e8c937d37dfcff7e40d00b188a89ddd2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ give any person the opportunity of making oral or written representations to the
 
 ## Annotations
 
-[^key-e8c937d37dfcff7e40d00b188a89ddd2]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2010/5/section/90) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-e8c937d37dfcff7e40d00b188a89ddd2]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2010/5/section/90) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

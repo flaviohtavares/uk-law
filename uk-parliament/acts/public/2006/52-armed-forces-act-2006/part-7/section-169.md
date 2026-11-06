@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Powers where person unfit to stand trial or not guilty by reason of insanity[^key-b1337e5d647f6b8d710b5b998b705d5b][^key-ebf5c479d9f09a8837fe77e53ce5af93]
+## 169. Powers where person unfit to stand trial or not guilty by reason of insanity[^c-b1337e5d647f6b8d710b5b998b705d5b][^c-ebf5c479d9f09a8837fe77e53ce5af93]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ the court must make a hospital order with a restriction order (whether or not it
 
 ## Annotations
 
-[^key-b1337e5d647f6b8d710b5b998b705d5b]: Commencement: S. 169 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b1337e5d647f6b8d710b5b998b705d5b]: Commencement: S. 169 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ebf5c479d9f09a8837fe77e53ce5af93]: Commencement: S. 169 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ebf5c479d9f09a8837fe77e53ce5af93]: Commencement: S. 169 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

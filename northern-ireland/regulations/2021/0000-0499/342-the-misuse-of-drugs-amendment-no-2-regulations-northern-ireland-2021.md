@@ -32,7 +32,7 @@ summary: ''
 
 Dangerous Drugs
 
-The Misuse of Drugs (Amendment No. 2) Regulations (Northern Ireland) 2021 (revoked)[^key-a5badc06e42e444fb250904b1f13024e]
+The Misuse of Drugs (Amendment No. 2) Regulations (Northern Ireland) 2021 (revoked)[^c-a5badc06e42e444fb250904b1f13024e]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 15th June 2022
 
-[^key-a5badc06e42e444fb250904b1f13024e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5badc06e42e444fb250904b1f13024e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-a5badc06e42e444fb250904b1f13024e]
+## 1. Citation, commencement and interpretation[^c-a5badc06e42e444fb250904b1f13024e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Misuse of Drugs Regulations (Northern Ireland) 2002[^key-a5badc06e42e444fb250904b1f13024e]
+## 2. Amendment of the Misuse of Drugs Regulations (Northern Ireland) 2002[^c-a5badc06e42e444fb250904b1f13024e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5badc06e42e444fb250904b1f13024e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5badc06e42e444fb250904b1f13024e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
 ## Annotations
 
-[^key-a5badc06e42e444fb250904b1f13024e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/342) revoked (14.6.2022) by [The Misuse of Drugs (Amendment) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/176)](https://www.legislation.gov.uk/nisr/2022/176), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/176/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/176/regulation/2)
+[^c-a5badc06e42e444fb250904b1f13024e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/342) revoked (14.6.2022) by [The Misuse of Drugs (Amendment) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/176)](https://www.legislation.gov.uk/nisr/2022/176), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/176/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/176/regulation/2)

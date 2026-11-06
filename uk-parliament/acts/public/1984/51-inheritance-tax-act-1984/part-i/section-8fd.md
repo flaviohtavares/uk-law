@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8FD. Downsizing addition: effect: section 8F case[^key-b458615bf36bbe78f9a9b07671ddd5d6]
+## 8FD. Downsizing addition: effect: section 8F case[^c-b458615bf36bbe78f9a9b07671ddd5d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ an amount, equal to the difference between the downsizing addition and the perso
 
 ## Annotations
 
-[^key-b458615bf36bbe78f9a9b07671ddd5d6]: Textual amendment: Ss. 8FA-8FE inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/5)
+[^c-b458615bf36bbe78f9a9b07671ddd5d6]: Textual amendment: Ss. 8FA-8FE inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/5)

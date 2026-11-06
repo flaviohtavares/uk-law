@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Failure by responsible individual to comply with requirements in regulations[^key-732ad0565456a76d54460719858aa4e0]
+## 46. Failure by responsible individual to comply with requirements in regulations[^c-732ad0565456a76d54460719858aa4e0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may by regulations provide that it is an offence for a respo
 
 ## Annotations
 
-[^key-732ad0565456a76d54460719858aa4e0]: Commencement: S. 46 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-732ad0565456a76d54460719858aa4e0]: Commencement: S. 46 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)

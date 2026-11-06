@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — Streets for which a substitute is to be provided[^key-746af3624ace638a962acb9cc92c3f55]
+### PART 1 — Streets for which a substitute is to be provided[^c-746af3624ace638a962acb9cc92c3f55]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New street to be substituted* | *(5)*<br>*Relevant site* |
 | --- | --- | --- | --- | --- |
@@ -32,7 +32,7 @@ Article 15
 |  | Footpath BW5/8 | Between points X6/1 and X6/2 | A new footpath to be provided between points NF6/1, NF6/2, NF6/3 and NF6/4 (Work No. 6H) | Cannington bypass |
 |  | A38 Dunball Roundabout | Between points S9/1 and S9/2 | Between points N9/1 and N9/2 (Work No. 9B) | Junction 23 |
 
-### PART 2 — Streets for which no substitute is to be provided[^key-0faa2b0bb1ec9fd26db2562267a9c6bb]
+### PART 2 — Streets for which no substitute is to be provided[^c-0faa2b0bb1ec9fd26db2562267a9c6bb]
 
 <table>
 <thead>
@@ -48,6 +48,6 @@ Article 15
 
 ## Annotations
 
-[^key-746af3624ace638a962acb9cc92c3f55]: Commencement: Sch. 6 Pt. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-746af3624ace638a962acb9cc92c3f55]: Commencement: Sch. 6 Pt. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-0faa2b0bb1ec9fd26db2562267a9c6bb]: Commencement: Sch. 6 Pt. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-0faa2b0bb1ec9fd26db2562267a9c6bb]: Commencement: Sch. 6 Pt. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZK. Power to limit profits of relevant providers[^key-78376f5a2ba228082a9418fbe5290fb1]
+## 30ZK. Power to limit profits of relevant providers[^c-78376f5a2ba228082a9418fbe5290fb1]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78376f5a2ba228082a9418fbe5290fb1]: Textual amendment: Ss. 30ZK, 30ZL inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/17/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-78376f5a2ba228082a9418fbe5290fb1]: Textual amendment: Ss. 30ZK, 30ZL inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/17/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

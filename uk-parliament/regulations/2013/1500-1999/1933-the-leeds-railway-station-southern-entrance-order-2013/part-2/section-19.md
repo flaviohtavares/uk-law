@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Removal of vessels[^key-bbc86442b84c26e29c1de5fcff9620be]
+## 19. Removal of vessels[^c-bbc86442b84c26e29c1de5fcff9620be]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ then the promoter, may not raise, remove, store or otherwise dispose of a vessel
 
 ## Annotations
 
-[^key-bbc86442b84c26e29c1de5fcff9620be]: Commencement: Art. 19 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-bbc86442b84c26e29c1de5fcff9620be]: Commencement: Art. 19 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

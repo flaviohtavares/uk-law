@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Potatoes Originating in Egypt (Amendment No.2) Regulations (Northern Ireland) 2006 (revoked)[^key-434426d88195d62bf7c0098f5cf4ff22]
+The Potatoes Originating in Egypt (Amendment No.2) Regulations (Northern Ireland) 2006 (revoked)[^c-434426d88195d62bf7c0098f5cf4ff22]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st January 2007
 
-[^key-434426d88195d62bf7c0098f5cf4ff22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-434426d88195d62bf7c0098f5cf4ff22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-434426d88195d62bf7c0098f5cf4ff22]
+## 1. Citation, commencement and interpretation[^c-434426d88195d62bf7c0098f5cf4ff22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt Regulations (Northern Ireland) 2004[^key-434426d88195d62bf7c0098f5cf4ff22]
+## 2. Amendment of the Potatoes Originating in Egypt Regulations (Northern Ireland) 2004[^c-434426d88195d62bf7c0098f5cf4ff22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-434426d88195d62bf7c0098f5cf4ff22]
+## 3. Revocation[^c-434426d88195d62bf7c0098f5cf4ff22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-434426d88195d62bf7c0098f5cf4ff22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-434426d88195d62bf7c0098f5cf4ff22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-434426d88195d62bf7c0098f5cf4ff22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-434426d88195d62bf7c0098f5cf4ff22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-434426d88195d62bf7c0098f5cf4ff22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/512) revoked (25.4.2008) by [The Potatoes Originating in Egypt (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/125)](https://www.legislation.gov.uk/nisr/2008/125), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/125/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/125/regulation/3)
+[^c-434426d88195d62bf7c0098f5cf4ff22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/512) revoked (25.4.2008) by [The Potatoes Originating in Egypt (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/125)](https://www.legislation.gov.uk/nisr/2008/125), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/125/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/125/regulation/3)

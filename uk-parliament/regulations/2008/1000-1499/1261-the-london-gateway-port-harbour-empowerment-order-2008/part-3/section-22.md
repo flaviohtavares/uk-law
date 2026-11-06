@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Temporary stopping up of streets[^key-18e698728db37cb0d26947cd8294e75b]
+## 22. Temporary stopping up of streets[^c-18e698728db37cb0d26947cd8294e75b]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e698728db37cb0d26947cd8294e75b]: Commencement: Art. 22 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-18e698728db37cb0d26947cd8294e75b]: Commencement: Art. 22 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) An application for the renewal of a certificate of registration must be made to the licensing authority.
 
-(2) The applicant , where it is applying for renewal of—[^key-58979c26fa8a74ed679bfdcde69f1375]
+(2) The applicant , where it is applying for renewal of—[^c-58979c26fa8a74ed679bfdcde69f1375]
 
 - (a) a COR(NI) and originally granted—
   - (i) in accordance with Chapter 4 of Title III of the 2001 Directive, must be established in the European Union;
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58979c26fa8a74ed679bfdcde69f1375]: Textual amendment: Reg. 108(2)(a)-(c) substituted for words in reg. 108(2) (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 101](https://www.legislation.gov.uk/uksi/2019/775/regulation/101) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/78)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58979c26fa8a74ed679bfdcde69f1375]: Textual amendment: Reg. 108(2)(a)-(c) substituted for words in reg. 108(2) (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 101](https://www.legislation.gov.uk/uksi/2019/775/regulation/101) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/78)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Resettlement grants for MEPs[^key-6ecd5888813ed4aede5741868239ae38]
+## 39. Resettlement grants for MEPs[^c-6ecd5888813ed4aede5741868239ae38]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ecd5888813ed4aede5741868239ae38]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2010/25/section/39) in force at 24.5.2011 by [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/c)
+[^c-6ecd5888813ed4aede5741868239ae38]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2010/25/section/39) in force at 24.5.2011 by [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/c)

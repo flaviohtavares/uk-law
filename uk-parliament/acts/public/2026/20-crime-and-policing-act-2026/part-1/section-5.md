@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Closure of premises by registered social housing provider[^key-6841042d34b18c710681a73a673274ab][^key-34770492648fc841b7891359259ee31e]
+## 5. Closure of premises by registered social housing provider[^c-6841042d34b18c710681a73a673274ab][^c-34770492648fc841b7891359259ee31e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 2 amends [Chapter 3](https://www.legislation.gov.uk/ukpga/2014/12/part/
 
 ## Annotations
 
-[^key-6841042d34b18c710681a73a673274ab]: Commencement: S. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6841042d34b18c710681a73a673274ab]: Commencement: S. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-34770492648fc841b7891359259ee31e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/20/section/5) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/e)
+[^c-34770492648fc841b7891359259ee31e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/20/section/5) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/e)

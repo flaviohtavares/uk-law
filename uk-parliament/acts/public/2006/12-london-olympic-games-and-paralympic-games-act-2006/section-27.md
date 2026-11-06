@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Offence[^key-d5774adb19752c79bee5d4312007a3ce][^key-c5746695b00c158c5a09a8fc1523b943]
+## 27. Offence[^c-d5774adb19752c79bee5d4312007a3ce][^c-c5746695b00c158c5a09a8fc1523b943]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5774adb19752c79bee5d4312007a3ce]: Commencement: S. 27 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
+[^c-d5774adb19752c79bee5d4312007a3ce]: Commencement: S. 27 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
 
-[^key-c5746695b00c158c5a09a8fc1523b943]: Commencement: S. 27 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
+[^c-c5746695b00c158c5a09a8fc1523b943]: Commencement: S. 27 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Notices[^key-f6ebc3868a1379997530736d39dc9218][^key-fc357ef9fea0b2eccad5c28335cbffd0]
+## 63. Notices[^c-f6ebc3868a1379997530736d39dc9218][^c-fc357ef9fea0b2eccad5c28335cbffd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 - (a) by sending it by post to the proper officer of the body at its principal office, or
 - (b) by addressing it to the proper officer of the body and leaving it at that office.
 
-(3A)[^key-4b41dfa4b677f35b0692c9d3b9b30826] The notice may be given to the person by electronic means.
+(3A)[^c-4b41dfa4b677f35b0692c9d3b9b30826] The notice may be given to the person by electronic means.
 
-(4) The notice may be given to the person by other means [^key-cd5a53e1ad8c50668c8906dab883d490]... with the person's consent.
+(4) The notice may be given to the person by other means [^c-cd5a53e1ad8c50668c8906dab883d490]... with the person's consent.
 
 (5) In this regulation, the reference in paragraph (3) to a “principal office”—
 
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ebc3868a1379997530736d39dc9218]: Commencement: Reg. 63 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-f6ebc3868a1379997530736d39dc9218]: Commencement: Reg. 63 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-fc357ef9fea0b2eccad5c28335cbffd0]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc357ef9fea0b2eccad5c28335cbffd0]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b41dfa4b677f35b0692c9d3b9b30826]: Textual amendment: [Reg. 63(3A)](https://www.legislation.gov.uk/uksi/2019/600/regulation/63/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/11/5/a)
+[^c-4b41dfa4b677f35b0692c9d3b9b30826]: Textual amendment: [Reg. 63(3A)](https://www.legislation.gov.uk/uksi/2019/600/regulation/63/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/11/5/a)
 
-[^key-cd5a53e1ad8c50668c8906dab883d490]: Textual amendment: Words in [reg. 63(4)](https://www.legislation.gov.uk/uksi/2019/600/regulation/63/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/11/5/b)
+[^c-cd5a53e1ad8c50668c8906dab883d490]: Textual amendment: Words in [reg. 63(4)](https://www.legislation.gov.uk/uksi/2019/600/regulation/63/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/11/5/b)

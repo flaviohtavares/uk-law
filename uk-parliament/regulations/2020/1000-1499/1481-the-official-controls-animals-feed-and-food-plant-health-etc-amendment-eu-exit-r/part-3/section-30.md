@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendments to Commission Implementing Regulation (EU) 2019/1013 on prior notification of consignments of certain categories of animals and goods entering the Union[^key-c4d9ef0fd27d75a74d1a4cf6ad781db5]
+## 30. Amendments to Commission Implementing Regulation (EU) 2019/1013 on prior notification of consignments of certain categories of animals and goods entering the Union[^c-c4d9ef0fd27d75a74d1a4cf6ad781db5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d9ef0fd27d75a74d1a4cf6ad781db5]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-c4d9ef0fd27d75a74d1a4cf6ad781db5]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368831]: Marginal citation: The definitions of ‘first arrival’ and ‘third country’ in Article 3 of Regulation (EU) 2017/625 are inserted by regulation 3 of the [Official Controls (Animals, Feed and Food, Plant Health etc) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481).
 

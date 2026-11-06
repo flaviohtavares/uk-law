@@ -465,7 +465,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Management of sites
 
-### 8. Requirement for manager of site to be fit and proper person[^key-02545c6a242ab36e3896199ff39b52d9]
+### 8. Requirement for manager of site to be fit and proper person[^c-02545c6a242ab36e3896199ff39b52d9]
 
 After section 12 of the Caravan Sites and Control of Development Act 1960 insert—
 
@@ -478,7 +478,7 @@ After section 12 of the Caravan Sites and Control of Development Act 1960 insert
 > - (a) are satisfied that the occupier is a fit and proper person to manage the site or that a person appointed to do so by the occupier is a fit and proper person to do so; or
 > - (b) have, with the occupier's consent, appointed a person to manage the site.
 >
-> (2) The regulations may provide that, where an occupier of land who holds a site licence in respect of the land contravenes a requirement imposed by virtue of subsection (1), the local authority in whose area the land is situated may apply to the tribunal[^key-8b205ba6d2316161dcb4291af077c1a1] for an order revoking the site licence in question.
+> (2) The regulations may provide that, where an occupier of land who holds a site licence in respect of the land contravenes a requirement imposed by virtue of subsection (1), the local authority in whose area the land is situated may apply to the tribunal[^c-8b205ba6d2316161dcb4291af077c1a1] for an order revoking the site licence in question.
 >
 > (3) The regulations may create a summary offence relating to a contravention of a requirement imposed by virtue of subsection (1).
 >
@@ -526,7 +526,7 @@ After section 12 of the Caravan Sites and Control of Development Act 1960 insert
 >
 > (7) The regulations may—
 >
-> - (a) confer a right of appeal to the tribunal[^key-f9f67204f1945c81a445803f7727b729] against a final decision on a registration application;
+> - (a) confer a right of appeal to the tribunal[^c-f9f67204f1945c81a445803f7727b729] against a final decision on a registration application;
 > - (b) provide that no compensation may be claimed for loss suffered in consequence of the decision pending the outcome of the appeal.
 >
 > (8) The regulations may provide that a register established by virtue of the regulations must—
@@ -558,7 +558,7 @@ After section 12 of the Caravan Sites and Control of Development Act 1960 insert
 >
 > (5) The regulations may—
 >
-> - (a) confer a right of appeal to the tribunal[^key-22bfcf3ba0450d7a4df27205358c66c1] against the exercise of a power conferred by virtue of subsection (1);
+> - (a) confer a right of appeal to the tribunal[^c-22bfcf3ba0450d7a4df27205358c66c1] against the exercise of a power conferred by virtue of subsection (1);
 > - (b) provide that no compensation may be claimed for loss suffered in consequence of the exercise of the power pending the outcome of the appeal.
 >
 > (6) The regulations may create a summary offence relating to a failure to comply with a condition imposed by virtue of this section.
@@ -960,7 +960,7 @@ After section 12 of the Caravan Sites and Control of Development Act 1960 insert
 
 (5) In subsection (1B), for “subsection (1A)” substitute “ subsections (1A) and (1AA) ”.
 
-### 13. Increase in penalties for certain offences under the 1960 Act[^key-300b1051795781a9190bcc8c77dc2b84]
+### 13. Increase in penalties for certain offences under the 1960 Act[^c-300b1051795781a9190bcc8c77dc2b84]
 
 (1) In section 1(2) of the Caravan Sites and Control of Development Act 1960 (prohibition of use of land as caravan site without site licence), after “summary conviction” insert
 
@@ -982,7 +982,7 @@ After section 12 of the Caravan Sites and Control of Development Act 1960 insert
 
 .
 
-### 14. Offences by bodies corporate under the 1960 Act[^key-2c0e04ab737f059ddeac080e71c9cc37]
+### 14. Offences by bodies corporate under the 1960 Act[^c-2c0e04ab737f059ddeac080e71c9cc37]
 
 After section 26 of the Caravan Sites and Control of Development Act 1960 insert—
 
@@ -1021,14 +1021,14 @@ After section 26 of the Caravan Sites and Control of Development Act 1960 insert
 
 ## Annotations
 
-[^key-02545c6a242ab36e3896199ff39b52d9]: Commencement: S. 8 in force at 15.6.2020 by [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)
+[^c-02545c6a242ab36e3896199ff39b52d9]: Commencement: S. 8 in force at 15.6.2020 by [S.I. 2020/565](https://www.legislation.gov.uk/uksi/2020/565), [art. 2](https://www.legislation.gov.uk/uksi/2020/565/article/2)
 
-[^key-8b205ba6d2316161dcb4291af077c1a1]: Textual amendment: Words in s. 8 substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/17/a)
+[^c-8b205ba6d2316161dcb4291af077c1a1]: Textual amendment: Words in s. 8 substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/17/a)
 
-[^key-f9f67204f1945c81a445803f7727b729]: Textual amendment: Words in s. 8 substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/17/b)
+[^c-f9f67204f1945c81a445803f7727b729]: Textual amendment: Words in s. 8 substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/17/b)
 
-[^key-22bfcf3ba0450d7a4df27205358c66c1]: Textual amendment: Words in s. 8 substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 17(c)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/17/c)
+[^c-22bfcf3ba0450d7a4df27205358c66c1]: Textual amendment: Words in s. 8 substituted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 17(c)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/17/c)
 
-[^key-300b1051795781a9190bcc8c77dc2b84]: Commencement: S. 13 in force at 1.4.2014 for E. by [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))
+[^c-300b1051795781a9190bcc8c77dc2b84]: Commencement: S. 13 in force at 1.4.2014 for E. by [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))
 
-[^key-2c0e04ab737f059ddeac080e71c9cc37]: Commencement: S. 14 in force at 1.4.2014 for E. by [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))
+[^c-2c0e04ab737f059ddeac080e71c9cc37]: Commencement: S. 14 in force at 1.4.2014 for E. by [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))

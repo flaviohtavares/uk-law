@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — Matters to be included in decision notice[^key-088e8f09e8f37621184b51fa964a1401]
+## SCHEDULE 10 — Matters to be included in decision notice[^c-088e8f09e8f37621184b51fa964a1401]
 
 *Extent: N.I.*
 
@@ -24,30 +24,30 @@ Regulation 86
 
 ### PART I — General
 
-**1.**[^key-75d4f12658fd8d1e6e09af482a47c214] The statement of matters to be included in any decision notice issued by a relevant authority to a person, and referred to in regulation 86 and in regulation 10 of the Decisions and Appeals Regulations are those matters set out in the following provisions of this Schedule.
+**1.**[^c-75d4f12658fd8d1e6e09af482a47c214] The statement of matters to be included in any decision notice issued by a relevant authority to a person, and referred to in regulation 86 and in regulation 10 of the Decisions and Appeals Regulations are those matters set out in the following provisions of this Schedule.
 
-**2.**[^key-b065b9d0ed2e14d4afd74479124536e4] Every decision notice shall include a statement as to the right of any person affected by that decision to request a written statement under regulation 86(2) and the manner and time in which to do so.
+**2.**[^c-b065b9d0ed2e14d4afd74479124536e4] Every decision notice shall include a statement as to the right of any person affected by that decision to request a written statement under regulation 86(2) and the manner and time in which to do so.
 
-**3.**[^key-8f359c392b455ff7b71a2fd2a5539ff8] Every decision notice shall include a statement as to the right of any person affected by that decision to make an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations and, where appropriate, to appeal against that decision and the manner and time in which to do so.
+**3.**[^c-8f359c392b455ff7b71a2fd2a5539ff8] Every decision notice shall include a statement as to the right of any person affected by that decision to make an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations and, where appropriate, to appeal against that decision and the manner and time in which to do so.
 
-**4.**[^key-04add3b7c481213032eeb88b2b8b4b09] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall include a statement as to whether the original decision in respect of which the person made his representations has been confirmed or revised and where the relevant authority has not revised the decision the reasons why not.
+**4.**[^c-04add3b7c481213032eeb88b2b8b4b09] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall include a statement as to whether the original decision in respect of which the person made his representations has been confirmed or revised and where the relevant authority has not revised the decision the reasons why not.
 
-**5.**[^key-ffb80ceda2d77ecebdc1a43f32f2e1fe] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall, if the original decision has been revised, include a statement as to the right of any person affected by that decision to apply for a revision in accordance with regulation 4(1)(a) of those Regulations and the manner and time in which to do so.
+**5.**[^c-ffb80ceda2d77ecebdc1a43f32f2e1fe] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall, if the original decision has been revised, include a statement as to the right of any person affected by that decision to apply for a revision in accordance with regulation 4(1)(a) of those Regulations and the manner and time in which to do so.
 
-**6.**[^key-c6f8fb2c4d2ac4880587678a76672421] An authority may include in the decision notice any other matters not prescribed by this Schedule which it sees fit, whether expressly or by reference to some other document available without charge to the person.
+**6.**[^c-c6f8fb2c4d2ac4880587678a76672421] An authority may include in the decision notice any other matters not prescribed by this Schedule which it sees fit, whether expressly or by reference to some other document available without charge to the person.
 
-**7.**[^key-b4864e90bdb9cedcb3b7bf2bed2ef20d] Parts II, III and VI shall apply only to the decision notice given on a claim.
+**7.**[^c-b4864e90bdb9cedcb3b7bf2bed2ef20d] Parts II, III and VI shall apply only to the decision notice given on a claim.
 
-**8.**[^key-c2c3f635db93336c05642c183db906b1] Where a decision notice is given following a revision of an earlier decision—
+**8.**[^c-c2c3f635db93336c05642c183db906b1] Where a decision notice is given following a revision of an earlier decision—
 
 - (a) made of the authority’s own motion which results in a revision of that earlier decision; or
 - (b) made following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations, whether or not resulting in a revision of that earlier decision,
 
 that notice shall, subject to paragraph 6, contain a statement only as to all the matters revised.
 
-### PART II — Awards where income support , an income-based jobseeker’s allowance, an income-related employment and support allowance , an extended payment or an extended payment (qualifying contributory benefits) is payable[^key-19bf1d2a1ba7d3a60fa41cf68cd55425][^key-71ab859fb96fd7d66936860eed4e39ab]
+### PART II — Awards where income support , an income-based jobseeker’s allowance, an income-related employment and support allowance , an extended payment or an extended payment (qualifying contributory benefits) is payable[^c-19bf1d2a1ba7d3a60fa41cf68cd55425][^c-71ab859fb96fd7d66936860eed4e39ab]
 
-**9.**[^key-e84457426e1438b948966d6e31b1e3d9] Where a person on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^M_F_301d8105-2bbf-4a89-a7be-34ca278fce3c] is awarded housing benefit or a claimant is entitled to an extended payment in accordance with regulation 70 or an extended payment (qualifying contributory benefits) in accordance with regulation 71[^key-68e93393c45b2e70a4fafd9eceb2c9d0], the decision notice shall include a statement as to—
+**9.**[^c-e84457426e1438b948966d6e31b1e3d9] Where a person on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^M_F_301d8105-2bbf-4a89-a7be-34ca278fce3c] is awarded housing benefit or a claimant is entitled to an extended payment in accordance with regulation 70 or an extended payment (qualifying contributory benefits) in accordance with regulation 71[^c-68e93393c45b2e70a4fafd9eceb2c9d0], the decision notice shall include a statement as to—
 
 - (a) his weekly eligible rates, if any;
 - (b) his weekly eligible rent, if any;
@@ -60,7 +60,7 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 
 ### PART III — Awards where no income support , an income-based jobseeker’s allowance or an income-related employment and support allowance is payable[^M_F_09787190-5f25-4bd9-8716-a09dfd1ddc97]
 
-**10.**[^key-3af2f76e4adc172cf0cc8faa0bca973d] Where a person is not on income support , an income-based jobseeker’s allowance or on an income-related employment and support allowance[^key-34e878eea7ac328ef4cab0276f934d58] but is awarded housing benefit, the decision notice shall include a statement as to—
+**10.**[^c-3af2f76e4adc172cf0cc8faa0bca973d] Where a person is not on income support , an income-based jobseeker’s allowance or on an income-related employment and support allowance[^c-34e878eea7ac328ef4cab0276f934d58] but is awarded housing benefit, the decision notice shall include a statement as to—
 
 - (a) the matters set out in paragraph 9;
 - (b) his applicable amount and how it is calculated;
@@ -69,7 +69,7 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 
 ### PART IV — Awards where direct payments made to landlords
 
-**11.**[^key-2db27d40fcb97582f904dda4bc5a5881] Where a decision has been made under regulation 92 or 93, the decision notice shall include a statement—
+**11.**[^c-2db27d40fcb97582f904dda4bc5a5881] Where a decision has been made under regulation 92 or 93, the decision notice shall include a statement—
 
 - (a) as to the amount of housing benefit which is to be paid direct to the landlord and the date from which it is to be paid; and
 - (b) informing the landlord of the duty imposed upon him to notify the Executive of—
@@ -79,28 +79,28 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 
 and the notice shall be sent both to the claimant and to the landlord.
 
-**12.**[^key-efa1cadef50145ba13728168a38b3c1a] In this Schedule, “**landlord**” has the same meaning as in regulation 92.
+**12.**[^c-efa1cadef50145ba13728168a38b3c1a] In this Schedule, “**landlord**” has the same meaning as in regulation 92.
 
 ### PART V — Notice where income of non-dependant is treated as claimant’s
 
-**13.**[^key-5e95e0e8b5963b7cd4308b55fb24c0e0] Where an authority makes a decision under regulation 23 the decision notice shall contain a statement as to—
+**13.**[^c-5e95e0e8b5963b7cd4308b55fb24c0e0] Where an authority makes a decision under regulation 23 the decision notice shall contain a statement as to—
 
 - (a) the fact that a decision has been made by reference to the income and capital of the claimant’s non-dependant; and
 - (b) the relevant authority’s reasons for making that decision.
 
 ### PART VI — Notice where no award is made
 
-**14.**[^key-bbbceb05f923081fb905a3dc4d80ecff] Where a person is not awarded housing benefit—
+**14.**[^c-bbbceb05f923081fb905a3dc4d80ecff] Where a person is not awarded housing benefit—
 
 - (a) either on grounds of income or because the amount of any housing benefit is less than the minimum housing benefit prescribed by regulation 73, the decision notice shall include a statement as to—
   - (i) the matters set out in paragraph 9(a) to (d), and in a case where the amount of entitlement is less than the minimum amount of housing benefit prescribed, paragraph 9(e) also;
-  - (ii) the matters set out in paragraph 10(b) to (d) where the person is not on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^key-8a1c0797dd0b40306e3d3b8276841f96], and
+  - (ii) the matters set out in paragraph 10(b) to (d) where the person is not on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^c-8a1c0797dd0b40306e3d3b8276841f96], and
   - (iii) where the amount of entitlement is less than the minimum amount of housing benefit prescribed, that fact and that such entitlement is not payable;
 - (b) for any reason other than one mentioned in sub-paragraph (a), the decision notice shall include a statement as to the reason why no award has been made.
 
 ### PART VII — Notice where recoverable overpayment
 
-**15.**[^key-fe8fef2a4e445f77de879e31db041083] (1) Where the appropriate authority makes a decision that there is a recoverable overpayment within the meaning of regulation 97, the decision notice shall include a statement as to—
+**15.**[^c-fe8fef2a4e445f77de879e31db041083] (1) Where the appropriate authority makes a decision that there is a recoverable overpayment within the meaning of regulation 97, the decision notice shall include a statement as to—
 
 - (a) the fact that there is a recoverable overpayment;
 - (b) the reason why there is a recoverable overpayment;
@@ -122,7 +122,7 @@ the decision notice sent to that landlord shall identify both—
 
 ### PART VIII — Notice following a decision on a work-focused interview
 
-**16.**[^key-af89c9f31660e7b3b0c8c69e96616843] (1) This Part applies in a case where a decision has been made in accordance with regulation 10 of the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003[^f00229] that a person has failed to take part in a work-focused interview.
+**16.**[^c-af89c9f31660e7b3b0c8c69e96616843] (1) This Part applies in a case where a decision has been made in accordance with regulation 10 of the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003[^f00229] that a person has failed to take part in a work-focused interview.
 
 (2) In a case where one of the consequences specified in sub-paragraphs (3) and (4) apply, the decision notice shall include a statement as to the person’s right of appeal against the decision that he failed to take part in a work-focused interview.
 
@@ -144,52 +144,52 @@ the decision notice sent to that landlord shall identify both—
 
 ## Annotations
 
-[^key-088e8f09e8f37621184b51fa964a1401]: Modification: [Sch. 10](https://www.legislation.gov.uk/nisr/2006/405/schedule/10) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [30(2)](https://www.legislation.gov.uk/nisr/2007/204/regulation/30/2)
+[^c-088e8f09e8f37621184b51fa964a1401]: Modification: [Sch. 10](https://www.legislation.gov.uk/nisr/2006/405/schedule/10) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [30(2)](https://www.legislation.gov.uk/nisr/2007/204/regulation/30/2)
 
-[^key-75d4f12658fd8d1e6e09af482a47c214]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/1) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-75d4f12658fd8d1e6e09af482a47c214]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/1) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-b065b9d0ed2e14d4afd74479124536e4]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/2) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-b065b9d0ed2e14d4afd74479124536e4]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/2) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-8f359c392b455ff7b71a2fd2a5539ff8]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/3) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-8f359c392b455ff7b71a2fd2a5539ff8]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/3) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-04add3b7c481213032eeb88b2b8b4b09]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/4) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-04add3b7c481213032eeb88b2b8b4b09]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/4) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-ffb80ceda2d77ecebdc1a43f32f2e1fe]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/5) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-ffb80ceda2d77ecebdc1a43f32f2e1fe]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/5) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-c6f8fb2c4d2ac4880587678a76672421]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/6) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-c6f8fb2c4d2ac4880587678a76672421]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/6) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-b4864e90bdb9cedcb3b7bf2bed2ef20d]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/7) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-b4864e90bdb9cedcb3b7bf2bed2ef20d]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/7) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-c2c3f635db93336c05642c183db906b1]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/8) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-c2c3f635db93336c05642c183db906b1]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/8) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-19bf1d2a1ba7d3a60fa41cf68cd55425]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/part/II) heading substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(a)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/a)
+[^c-19bf1d2a1ba7d3a60fa41cf68cd55425]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/part/II) heading substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(a)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/a)
 
-[^key-71ab859fb96fd7d66936860eed4e39ab]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/part/II) heading inserted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/7/a)
+[^c-71ab859fb96fd7d66936860eed4e39ab]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/part/II) heading inserted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/7/a)
 
-[^key-e84457426e1438b948966d6e31b1e3d9]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/9) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-e84457426e1438b948966d6e31b1e3d9]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/9) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^M_F_301d8105-2bbf-4a89-a7be-34ca278fce3c]: Textual amendment: Words in Sch. 10 para. 9 substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/b)
 
-[^key-68e93393c45b2e70a4fafd9eceb2c9d0]: Textual amendment: Words in [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/9) inserted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/7/b)
+[^c-68e93393c45b2e70a4fafd9eceb2c9d0]: Textual amendment: Words in [Sch. 10 para. 9](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/9) inserted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/7/b)
 
 [^M_F_09787190-5f25-4bd9-8716-a09dfd1ddc97]: Textual amendment: Words in Sch. 10 Pt. 3 heading substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/b)
 
-[^key-3af2f76e4adc172cf0cc8faa0bca973d]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/10) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-3af2f76e4adc172cf0cc8faa0bca973d]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/10) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-34e878eea7ac328ef4cab0276f934d58]: Textual amendment: Words in [Sch. 10 para. 10](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/10) substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(c)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/c)
+[^c-34e878eea7ac328ef4cab0276f934d58]: Textual amendment: Words in [Sch. 10 para. 10](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/10) substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(c)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/c)
 
-[^key-2db27d40fcb97582f904dda4bc5a5881]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/11) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-2db27d40fcb97582f904dda4bc5a5881]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/11) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-efa1cadef50145ba13728168a38b3c1a]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/12) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-efa1cadef50145ba13728168a38b3c1a]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/12) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-5e95e0e8b5963b7cd4308b55fb24c0e0]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/13) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-5e95e0e8b5963b7cd4308b55fb24c0e0]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/13) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-bbbceb05f923081fb905a3dc4d80ecff]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/14) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-bbbceb05f923081fb905a3dc4d80ecff]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/14) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-8a1c0797dd0b40306e3d3b8276841f96]: Textual amendment: Words in [Sch. 10 para. 14(a)(ii)](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/14/a/ii) substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/b)
+[^c-8a1c0797dd0b40306e3d3b8276841f96]: Textual amendment: Words in [Sch. 10 para. 14(a)(ii)](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/14/a/ii) substituted (27.10.2008) by [The Housing Benefit (Employment and Support Allowance Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/378)](https://www.legislation.gov.uk/nisr/2008/378), [regs. 1](https://www.legislation.gov.uk/nisr/2008/378/regulation/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2008/378/regulation/3/21/b)
 
-[^key-fe8fef2a4e445f77de879e31db041083]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/15) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-fe8fef2a4e445f77de879e31db041083]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/15) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-af89c9f31660e7b3b0c8c69e96616843]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/16) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-af89c9f31660e7b3b0c8c69e96616843]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/nisr/2006/405/schedule/10/paragraph/16) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00229]: Footnote: [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274)

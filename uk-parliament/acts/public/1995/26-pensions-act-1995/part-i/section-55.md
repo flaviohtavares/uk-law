@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Section 51: end of annual increase in GMP.[^key-d4f3ee40d86e905ed0c22a4423c0fcbf]
+## 55. Section 51: end of annual increase in GMP.[^c-d4f3ee40d86e905ed0c22a4423c0fcbf]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ In section 109 of the [^c2136241]Pension Schemes Act 1993 (annual increase of gu
 
 ## Annotations
 
-[^key-d4f3ee40d86e905ed0c22a4423c0fcbf]: Commencement: S. 55 in force at 4.2.1997 by [S.I. 1997/216](https://www.legislation.gov.uk/uksi/1997/216), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/216/article/2/2)
+[^c-d4f3ee40d86e905ed0c22a4423c0fcbf]: Commencement: S. 55 in force at 4.2.1997 by [S.I. 1997/216](https://www.legislation.gov.uk/uksi/1997/216), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/216/article/2/2)
 
 [^c2136241]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

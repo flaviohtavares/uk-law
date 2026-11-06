@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Obtaining and disposing of property[^key-9cb25977e25542c2c997d1ffcc229e87]
+## 211. Obtaining and disposing of property[^c-9cb25977e25542c2c997d1ffcc229e87]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ References to a person disposing of his property include a reference—
 
 ## Annotations
 
-[^key-9cb25977e25542c2c997d1ffcc229e87]: Commencement: [Art. 211](https://www.legislation.gov.uk/uksi/2005/3181/article/211) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-9cb25977e25542c2c997d1ffcc229e87]: Commencement: [Art. 211](https://www.legislation.gov.uk/uksi/2005/3181/article/211) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

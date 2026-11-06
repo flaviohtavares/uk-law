@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.9. Failure to find caution or give security[^key-e84e57aaa82429b63b92d3d124d2df48]
+## 19.9. Failure to find caution or give security[^c-e84e57aaa82429b63b92d3d124d2df48]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e84e57aaa82429b63b92d3d124d2df48]: Commencement: Para. 19.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-e84e57aaa82429b63b92d3d124d2df48]: Commencement: Para. 19.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

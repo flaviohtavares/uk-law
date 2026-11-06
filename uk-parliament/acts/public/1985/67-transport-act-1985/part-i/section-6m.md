@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6M. Power to make regulations for appeals against service standards decisions[^key-88b00ca7142f98266054ba1272b28288]
+## 6M. Power to make regulations for appeals against service standards decisions[^c-88b00ca7142f98266054ba1272b28288]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Regulations may make provision for or about appeals relating to any—
 
 ## Annotations
 
-[^key-88b00ca7142f98266054ba1272b28288]: Textual amendment: [Ss. 6K-6N](https://www.legislation.gov.uk/ukpga/1985/67/section/6K) inserted (S.) (4.12.2023 for specified purposes) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 37(3)](https://www.legislation.gov.uk/asp/2019/17/section/37/3), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-88b00ca7142f98266054ba1272b28288]: Textual amendment: [Ss. 6K-6N](https://www.legislation.gov.uk/ukpga/1985/67/section/6K) inserted (S.) (4.12.2023 for specified purposes) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 37(3)](https://www.legislation.gov.uk/asp/2019/17/section/37/3), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

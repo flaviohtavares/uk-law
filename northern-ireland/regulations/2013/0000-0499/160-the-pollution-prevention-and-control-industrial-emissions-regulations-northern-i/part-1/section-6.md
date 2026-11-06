@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Applications[^key-69033af84e89957126bdd3abac53504f]
+## 6. Applications[^c-69033af84e89957126bdd3abac53504f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69033af84e89957126bdd3abac53504f]: Commencement: Reg. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-69033af84e89957126bdd3abac53504f]: Commencement: Reg. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

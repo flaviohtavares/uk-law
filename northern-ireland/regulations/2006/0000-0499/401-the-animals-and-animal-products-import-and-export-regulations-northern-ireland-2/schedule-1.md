@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — AMENDMENTS TO COUNCIL DIRECTIVES [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425) AND [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496)[^key-fbaf0ef7444009df336e61727d842905]
+## SCHEDULE 1 — AMENDMENTS TO COUNCIL DIRECTIVES [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425) AND [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496)[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 2(5)
 
-**1.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)
+[^c-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)

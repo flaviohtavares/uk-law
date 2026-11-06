@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Entitlement to partial retirement pension or full retirement pension[^key-2d660f97b8422506502921df2945b407]
+## 51. Entitlement to partial retirement pension or full retirement pension[^c-2d660f97b8422506502921df2945b407]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An active member of this scheme (P) who exercises the partial retirement option 
 
 ## Annotations
 
-[^key-2d660f97b8422506502921df2945b407]: Commencement: Reg. 51 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-2d660f97b8422506502921df2945b407]: Commencement: Reg. 51 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

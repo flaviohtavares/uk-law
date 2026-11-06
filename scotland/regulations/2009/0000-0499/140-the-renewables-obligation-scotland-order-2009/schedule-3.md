@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 3 — AMOUNT OF RELEVANT SHORTFALL FOR THE RELEVANT OBLIGATION PERIOD[^key-32e042b06d739063bdebbbb8083ad5d9]
+## SCHEDULE 3 — AMOUNT OF RELEVANT SHORTFALL FOR THE RELEVANT OBLIGATION PERIOD[^c-32e042b06d739063bdebbbb8083ad5d9]
 
 **No longer in force.**
 
@@ -24,4 +24,4 @@ Article 48(3)
 
 ## Annotations
 
-[^key-32e042b06d739063bdebbbb8083ad5d9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2009/140/schedule/3) omitted (31.3.2023) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2023 (S.S.I. 2023/103)](https://www.legislation.gov.uk/ssi/2023/103), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/103/article/1/1), [5](https://www.legislation.gov.uk/ssi/2023/103/article/5)
+[^c-32e042b06d739063bdebbbb8083ad5d9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2009/140/schedule/3) omitted (31.3.2023) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2023 (S.S.I. 2023/103)](https://www.legislation.gov.uk/ssi/2023/103), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/103/article/1/1), [5](https://www.legislation.gov.uk/ssi/2023/103/article/5)

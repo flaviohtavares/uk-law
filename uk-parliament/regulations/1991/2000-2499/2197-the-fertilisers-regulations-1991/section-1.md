@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Title, commencement and interpretation[^key-1369892e66dedc9fb2cd65278d436d65]
+## 1. Title, commencement and interpretation[^c-1369892e66dedc9fb2cd65278d436d65]
 
 *Extent: E+W+S*
 
 (1) These Regulations may be cited as the Fertilisers Regulations 1991 and shall come into force on 1st November 1991.
 
-(2)[^key-f9ae2b0f65b7e6d7cddca129221fafb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f9ae2b0f65b7e6d7cddca129221fafb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f9ae2b0f65b7e6d7cddca129221fafb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f9ae2b0f65b7e6d7cddca129221fafb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In these Regulations, unless the context otherwise requires—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1369892e66dedc9fb2cd65278d436d65]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-1369892e66dedc9fb2cd65278d436d65]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
 
-[^key-f9ae2b0f65b7e6d7cddca129221fafb1]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/3) revoked (16.9.1998) by [The Fertilisers (Amendment) Regulations 1998 (S.I. 1998/2024)](https://www.legislation.gov.uk/uksi/1998/2024), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1998/2024/regulation/1/1/a), [3](https://www.legislation.gov.uk/uksi/1998/2024/regulation/3)
+[^c-f9ae2b0f65b7e6d7cddca129221fafb1]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/3) revoked (16.9.1998) by [The Fertilisers (Amendment) Regulations 1998 (S.I. 1998/2024)](https://www.legislation.gov.uk/uksi/1998/2024), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1998/2024/regulation/1/1/a), [3](https://www.legislation.gov.uk/uksi/1998/2024/regulation/3)

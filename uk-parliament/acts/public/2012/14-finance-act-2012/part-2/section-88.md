@@ -45,7 +45,7 @@ have effect as if the activities carried on by the company in the course of its 
 
 (5) If for an accounting period the BLAGAB debits mentioned in subsection (3)(a) exceed the BLAGAB credits mentioned there, the excess is dealt with in accordance with sections 388 to 391 of CTA 2009.
 
-(6) If for an accounting period the BLAGAB debits mentioned in subsection (3)(b) exceed the BLAGAB credits mentioned there, the excess is treated for the purposes of section 76 as a deemed BLAGAB management expense for that period.[^key-cb501a277e327b8e8c9161ed40a32d36]
+(6) If for an accounting period the BLAGAB debits mentioned in subsection (3)(b) exceed the BLAGAB credits mentioned there, the excess is treated for the purposes of section 76 as a deemed BLAGAB management expense for that period.[^c-cb501a277e327b8e8c9161ed40a32d36]
 
 (7) In this section—
 
@@ -57,4 +57,4 @@ have effect as if the activities carried on by the company in the course of its 
 
 ## Annotations
 
-[^key-cb501a277e327b8e8c9161ed40a32d36]: Textual amendment: Words in s. 88(6) substituted (with effect in accordance with s. 67(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/67/3)
+[^c-cb501a277e327b8e8c9161ed40a32d36]: Textual amendment: Words in s. 88(6) substituted (with effect in accordance with s. 67(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/67/3)

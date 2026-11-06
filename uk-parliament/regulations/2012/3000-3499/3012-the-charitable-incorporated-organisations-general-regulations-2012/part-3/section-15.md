@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Provision for entrenchment[^key-c29d46d903163a4011689aad852e83ab]
+## 15. Provision for entrenchment[^c-c29d46d903163a4011689aad852e83ab]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c29d46d903163a4011689aad852e83ab]: Commencement: Reg. 15 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-c29d46d903163a4011689aad852e83ab]: Commencement: Reg. 15 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

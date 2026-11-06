@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Consequential amendments[^key-8f56c04d684936c18f8cf153a8723f72]
+## 49. Consequential amendments[^c-8f56c04d684936c18f8cf153a8723f72]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8f56c04d684936c18f8cf153a8723f72]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2021/77/regulation/49) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-8f56c04d684936c18f8cf153a8723f72]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2021/77/regulation/49) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
 [^f00016]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 

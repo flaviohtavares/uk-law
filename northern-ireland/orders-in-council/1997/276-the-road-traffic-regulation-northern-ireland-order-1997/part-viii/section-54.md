@@ -41,7 +41,7 @@ summary: ''
 
 - (a) the owner of the vehicle at the time when it was put in the place from which it was removed as mentioned in paragraph (1) or (2), unless he shows that he was not concerned in, and did not know of, its being put there;
 - (b) the person by whom it was put in that place; or
-- (c) any person convicted of an offence under Article 29(1) of the Pollution Control and Local Government (Northern Ireland) Order 1978 or who has paid a fixed penalty notice under Article 29A(1) of that Order[^key-41e3cfddb346379cf912f538019143c7] in consequence of the putting of the vehicle in that place.
+- (c) any person convicted of an offence under Article 29(1) of the Pollution Control and Local Government (Northern Ireland) Order 1978 or who has paid a fixed penalty notice under Article 29A(1) of that Order[^c-41e3cfddb346379cf912f538019143c7] in consequence of the putting of the vehicle in that place.
 
 (5) Any sum recoverable by virtue of this Article shall be a civil debt recoverable summarily.
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^m00020]: Marginal citation: 1978 NI 19.
 
-[^key-41e3cfddb346379cf912f538019143c7]: Textual amendment: Words in [art. 54(4)(c)](https://www.legislation.gov.uk/nisi/1997/276/article/54/4/c) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-41e3cfddb346379cf912f538019143c7]: Textual amendment: Words in [art. 54(4)(c)](https://www.legislation.gov.uk/nisi/1997/276/article/54/4/c) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

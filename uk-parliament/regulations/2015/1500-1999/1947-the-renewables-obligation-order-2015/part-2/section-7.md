@@ -22,13 +22,13 @@ summary: ''
 
 (1) The renewables obligation is imposed on each electricity supplier supplying electricity in England and Wales (a “designated electricity supplier”).
 
-(2) The renewables obligation is that, subject to articles 67 and 68, each designated electricity supplier must, by the specified day, produce to the Authority, in respect of each megawatt hour of relevant electricity that it supplies[^key-d302a83f445750c38c80cf330b23f148] during an obligation period, the number of UK ROCs determined in accordance with articles 13 to[^key-53075bceb13c0559199bd642e5bf2eff] 13C[^key-29144984d4bff3319b992c3da73bd798].
+(2) The renewables obligation is that, subject to articles 67 and 68, each designated electricity supplier must, by the specified day, produce to the Authority, in respect of each megawatt hour of relevant electricity that it supplies[^c-d302a83f445750c38c80cf330b23f148] during an obligation period, the number of UK ROCs determined in accordance with articles 13 to[^c-53075bceb13c0559199bd642e5bf2eff] 13C[^c-29144984d4bff3319b992c3da73bd798].
 
 (3) To enable the number referred to in paragraph (2) to be determined, the Secretary of State must first determine, for the obligation period in question, calculations A and B and the total number of UK ROCs required to be produced by designated electricity suppliers in accordance with articles 8 to 12.
 
 (4) Where the number of UK ROCs that a designated electricity supplier is required to produce by virtue of paragraph (2) is not a whole number, it is to be rounded to the nearest whole number (one-half being rounded upwards).
 
-(5)[^key-d8daf779a0551e6b3e022125552fcf5e] In this Part, “relevant electricity” means—
+(5)[^c-d8daf779a0551e6b3e022125552fcf5e] In this Part, “relevant electricity” means—
 
 - (a) in respect of—
   - (i) any obligation period beginning on or after 1st April 2019; or
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d302a83f445750c38c80cf330b23f148]: Textual amendment: Words in art. 7(2) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1289/article/3/2/a)
+[^c-d302a83f445750c38c80cf330b23f148]: Textual amendment: Words in art. 7(2) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2017/1289/article/3/2/a)
 
-[^key-53075bceb13c0559199bd642e5bf2eff]: Textual amendment: Words in art. 7(2) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1289/article/3/2/b)
+[^c-53075bceb13c0559199bd642e5bf2eff]: Textual amendment: Words in art. 7(2) substituted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2017/1289/article/3/2/b)
 
-[^key-29144984d4bff3319b992c3da73bd798]: Textual amendment: Word in [art. 7(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/7/2) substituted (21.3.2024) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024 (S.I. 2024/403)](https://www.legislation.gov.uk/uksi/2024/403), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/403/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/403/article/2/2)
+[^c-29144984d4bff3319b992c3da73bd798]: Textual amendment: Word in [art. 7(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/7/2) substituted (21.3.2024) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2024 (S.I. 2024/403)](https://www.legislation.gov.uk/uksi/2024/403), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/403/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/403/article/2/2)
 
-[^key-d8daf779a0551e6b3e022125552fcf5e]: Textual amendment: Art. 7(5) inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/1289/article/3/3)
+[^c-d8daf779a0551e6b3e022125552fcf5e]: Textual amendment: Art. 7(5) inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/1289/article/3/3)

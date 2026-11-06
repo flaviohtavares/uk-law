@@ -41,24 +41,24 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Article 74(1) of, and paragraph 9 of Schedule 2 to, the Social Security (Northern Ireland) Order 1998[^f00001], and now vested in it[^f00002], and paragraphs 6(4)(b) and 20(1)(b) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-dccd8ec105bfa28ea64f9a7b4d231c1a]
+## 1. Citation, commencement and interpretation[^c-dccd8ec105bfa28ea64f9a7b4d231c1a]
 
 (1) These Regulations may be cited as the State Pension Credit (Decisions and Appeals – Amendments) Regulations (Northern Ireland) 2003 and shall come into operation on 19th June 2003.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-74b39084fea721899d26bf2768473c50]
+## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-74b39084fea721899d26bf2768473c50]
 
 In paragraph 5 of Schedule 1 to the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00007] (decisions against which no appeal lies: claims and payments) –
 
-- (a)[^key-b6d59622dcf03c268b91f7e0534f81bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b6d59622dcf03c268b91f7e0534f81bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after sub-paragraph (k), there shall be inserted the following sub-paragraph –
 
   > - (kk) regulation 26B[^f00009] (as to the time and manner of payment of state pension credit);
 
   .
 
-## 3. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-45b55995e2630e6ea7322c22f8902251]
+## 3. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-45b55995e2630e6ea7322c22f8902251]
 
 In the Schedule to the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00010] (decisions against which no appeal lies), after paragraph 4 there shall be added the following paragraph –
 
@@ -107,19 +107,19 @@ These Regulations do not impose a charge on business.
 
 [^f00005]: Footnote: *See* section150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-dccd8ec105bfa28ea64f9a7b4d231c1a]: Commencement: Reg. 1 in operation at 19.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/312/regulation/1/1)
+[^c-dccd8ec105bfa28ea64f9a7b4d231c1a]: Commencement: Reg. 1 in operation at 19.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/312/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-74b39084fea721899d26bf2768473c50]: Commencement: Reg. 2 in operation at 19.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/312/regulation/1/1)
+[^c-74b39084fea721899d26bf2768473c50]: Commencement: Reg. 2 in operation at 19.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/312/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); paragraph 5 of Schedule 1 was substituted by regulation 2(20) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
 
-[^key-b6d59622dcf03c268b91f7e0534f81bd]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2003/312/regulation/2/a) revoked (21.12.2004) by [The Social Security, Child Support and Tax Credits (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/516)](https://www.legislation.gov.uk/nisr/2004/516), [regs. 1](https://www.legislation.gov.uk/nisr/2004/516/regulation/1), [6](https://www.legislation.gov.uk/nisr/2004/516/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2004/516/schedule)
+[^c-b6d59622dcf03c268b91f7e0534f81bd]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2003/312/regulation/2/a) revoked (21.12.2004) by [The Social Security, Child Support and Tax Credits (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/516)](https://www.legislation.gov.uk/nisr/2004/516), [regs. 1](https://www.legislation.gov.uk/nisr/2004/516/regulation/1), [6](https://www.legislation.gov.uk/nisr/2004/516/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2004/516/schedule)
 
 [^f00009]: Footnote: Regulation 26B was inserted by regulation 9 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-45b55995e2630e6ea7322c22f8902251]: Commencement: Reg. 3 in operation at 19.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/312/regulation/1/1)
+[^c-45b55995e2630e6ea7322c22f8902251]: Commencement: Reg. 3 in operation at 19.6.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/312/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213)
 

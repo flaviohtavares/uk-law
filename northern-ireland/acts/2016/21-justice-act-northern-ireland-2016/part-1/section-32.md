@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Limitations on remission[^key-f01733b134f2bde3b0f6a5afe038d3f2]
+## 32. Limitations on remission[^c-f01733b134f2bde3b0f6a5afe038d3f2]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f01733b134f2bde3b0f6a5afe038d3f2]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2016/21/section/32) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-f01733b134f2bde3b0f6a5afe038d3f2]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2016/21/section/32) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

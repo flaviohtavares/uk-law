@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Dissolution of the Corporation.[^key-eab52a72c76110e195bcd7913ef5b6b7]
+## 57. Dissolution of the Corporation.[^c-eab52a72c76110e195bcd7913ef5b6b7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eab52a72c76110e195bcd7913ef5b6b7]: Textual amendment: S. 57 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 7
+[^c-eab52a72c76110e195bcd7913ef5b6b7]: Textual amendment: S. 57 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 7

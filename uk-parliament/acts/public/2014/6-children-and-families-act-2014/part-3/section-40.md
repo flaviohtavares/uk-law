@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Finalising EHC plans: no request for particular school or other institution[^key-5325c3fdca5f77c3569e143fb095ca0e]
+## 40. Finalising EHC plans: no request for particular school or other institution[^c-5325c3fdca5f77c3569e143fb095ca0e]
 
 *Extent: E+W*
 
@@ -36,11 +36,11 @@ summary: ''
 
 (5) The local authority must send a copy of the finalised EHC plan to—
 
-- (a)[^key-7194bbf568ba9d651bf61cdb57f20e92] the child's parent or the young person, and
+- (a)[^c-7194bbf568ba9d651bf61cdb57f20e92] the child's parent or the young person, and
 - (b) the governing body, proprietor or principal of any school or other institution named in the plan.
 
 ## Annotations
 
-[^key-5325c3fdca5f77c3569e143fb095ca0e]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/6/section/40) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-5325c3fdca5f77c3569e143fb095ca0e]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/6/section/40) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
 
-[^key-7194bbf568ba9d651bf61cdb57f20e92]: Modification: [S. 40(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/40/5/a) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)
+[^c-7194bbf568ba9d651bf61cdb57f20e92]: Modification: [S. 40(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/40/5/a) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)

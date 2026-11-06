@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Implementation strategy[^c24459161][^key-bddf2e7719ef5fb83de96ba1f794b273]
+## 39. Implementation strategy[^c24459161][^c-bddf2e7719ef5fb83de96ba1f794b273]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ Subsections (3) to (5) of section 32 apply for the purposes of paragraph (b) abo
 
 [^c24459161]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/1/section/39) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-bddf2e7719ef5fb83de96ba1f794b273]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/1/section/39) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-bddf2e7719ef5fb83de96ba1f794b273]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/1/section/39) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

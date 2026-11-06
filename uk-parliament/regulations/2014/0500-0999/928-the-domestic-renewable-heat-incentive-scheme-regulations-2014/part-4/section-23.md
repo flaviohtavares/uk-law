@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Authorisation applications[^key-cf0c7dcdd965e88cdd70eb612f373f35]
+## 23. Authorisation applications[^c-cf0c7dcdd965e88cdd70eb612f373f35]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf0c7dcdd965e88cdd70eb612f373f35]: Commencement: Reg. 23 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-cf0c7dcdd965e88cdd70eb612f373f35]: Commencement: Reg. 23 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

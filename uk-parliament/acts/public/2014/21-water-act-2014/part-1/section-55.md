@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Modification of appointment and licence conditions[^key-48d961ed2572628523cad5e27b8bcd7f]
+## 55. Modification of appointment and licence conditions[^c-48d961ed2572628523cad5e27b8bcd7f]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ may not be exercised after the end of the period of two years beginning with the
 
 ## Annotations
 
-[^key-48d961ed2572628523cad5e27b8bcd7f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/21/section/55) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/c)
+[^c-48d961ed2572628523cad5e27b8bcd7f]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/21/section/55) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/3320/article/2/2/c)

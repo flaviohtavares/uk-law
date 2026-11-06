@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Reviews of sentencing: duty to notify victims[^key-2d8b6659eebe2d2155c3c9b1881e8e28]
+## 14. Reviews of sentencing: duty to notify victims[^c-2d8b6659eebe2d2155c3c9b1881e8e28]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d8b6659eebe2d2155c3c9b1881e8e28]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2026/19/section/14) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-2d8b6659eebe2d2155c3c9b1881e8e28]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2026/19/section/14) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)

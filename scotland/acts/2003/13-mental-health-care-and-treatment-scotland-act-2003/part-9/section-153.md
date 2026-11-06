@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Determination extending compulsion order: notification[^key-141e01620d0c39f93f9f59ab15a4de56][^key-a2ab2e7b42ad9533e574fda88215d8b1]
+## 153. Determination extending compulsion order: notification[^c-141e01620d0c39f93f9f59ab15a4de56][^c-a2ab2e7b42ad9533e574fda88215d8b1]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-141e01620d0c39f93f9f59ab15a4de56]: Commencement: S. 153 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-141e01620d0c39f93f9f59ab15a4de56]: Commencement: S. 153 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-a2ab2e7b42ad9533e574fda88215d8b1]: Commencement: S. 153 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-a2ab2e7b42ad9533e574fda88215d8b1]: Commencement: S. 153 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

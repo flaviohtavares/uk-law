@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Repeal of Article 18(2) of the Quarries (Northern Ireland) Order 1983[^key-668350ee97f1c43dae37b6e4236e4d11]
+## 14. Repeal of Article 18(2) of the Quarries (Northern Ireland) Order 1983[^c-668350ee97f1c43dae37b6e4236e4d11]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ Article 18(2) of the Quarries (Northern Ireland) Order 1983[^f00020] is hereby r
 
 ## Annotations
 
-[^key-668350ee97f1c43dae37b6e4236e4d11]: Commencement: Reg. 14 in operation at 1.12.1997, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/2)
+[^c-668350ee97f1c43dae37b6e4236e4d11]: Commencement: Reg. 14 in operation at 1.12.1997, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 1983/150 (N.I. 4)](https://www.legislation.gov.uk/nisi/1983/150)

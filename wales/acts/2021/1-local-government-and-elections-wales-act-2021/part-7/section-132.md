@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Restructuring regulations which provide for part of a principal area to become part of another existing principal area[^key-0c74354b24f9b4fe7f56740bab84c901]
+## 132. Restructuring regulations which provide for part of a principal area to become part of another existing principal area[^c-0c74354b24f9b4fe7f56740bab84c901]
 
 *Extent: E+W*
 
@@ -36,12 +36,12 @@ summary: ''
 - (e) the executive arrangements of a restructuring council;
 - (f) the form of executive operated by a restructuring council;
 - (g) the area, term of office and election of an elected mayor of a restructuring council;
-- (h) the arrangements for the remuneration of members of a restructuring council, including provision conferring functions on the Democracy and Boundary Commission Cymru[^key-9ef099af7f08af3d8d0c2b9ca33686f8];
+- (h) the arrangements for the remuneration of members of a restructuring council, including provision conferring functions on the Democracy and Boundary Commission Cymru[^c-9ef099af7f08af3d8d0c2b9ca33686f8];
 - (i) a change to the name of a restructuring council;
 - (j) whether the principal area of a restructuring council is a county or county borough.
 
 ## Annotations
 
-[^key-0c74354b24f9b4fe7f56740bab84c901]: Commencement: S. 132 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-0c74354b24f9b4fe7f56740bab84c901]: Commencement: S. 132 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
 
-[^key-9ef099af7f08af3d8d0c2b9ca33686f8]: Textual amendment: Words in [s. 132(2)(h)](https://www.legislation.gov.uk/asc/2021/1/section/132/2/h) substituted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-9ef099af7f08af3d8d0c2b9ca33686f8]: Textual amendment: Words in [s. 132(2)(h)](https://www.legislation.gov.uk/asc/2021/1/section/132/2/h) substituted (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)

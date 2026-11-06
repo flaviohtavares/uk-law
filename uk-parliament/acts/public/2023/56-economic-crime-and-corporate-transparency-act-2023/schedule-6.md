@@ -22,9 +22,9 @@ summary: ''
 
 Section 163
 
-**1.**[^key-b161a02ef0161d5f1c27d0cf045eca14] The Economic Crime (Transparency and Enforcement) Act 2022 is amended as follows.
+**1.**[^c-b161a02ef0161d5f1c27d0cf045eca14] The Economic Crime (Transparency and Enforcement) Act 2022 is amended as follows.
 
-**2.**[^key-33d9144c971e3899e2953fdce324f89e] (1) Section 7 (updating duty) is amended as follows.
+**2.**[^c-33d9144c971e3899e2953fdce324f89e] (1) Section 7 (updating duty) is amended as follows.
 
 (2) In subsection (1)(a) and (b), for “statement and information mentioned” substitute “statements and information mentioned”.
 
@@ -68,7 +68,7 @@ Section 163
 >
 > (7A) Any other information required by subsection (1)(a) must relate to the state of affairs as at the end of the update period.
 
-**3.**[^key-8bed681f0256384e99e81b220eb39214] (1) Section 9 (application for removal) is amended as follows.
+**3.**[^c-8bed681f0256384e99e81b220eb39214] (1) Section 9 (application for removal) is amended as follows.
 
 (2) In subsection (1)(b) and (c), for “statement and information mentioned” substitute “statements and information mentioned”.
 
@@ -114,7 +114,7 @@ Section 163
 >
 > (8A) Any other information required by subsection (1)(b) must relate to the state of affairs as at the time of the application for removal.
 
-**4.**[^key-a5619bf1242dba620b0a345c79a3d7a9] For section 12 substitute—
+**4.**[^c-a5619bf1242dba620b0a345c79a3d7a9] For section 12 substitute—
 
 > **12. Duty to take steps to obtain information**
 >
@@ -138,11 +138,11 @@ Section 163
 >
 > (7) A person given a notice under subsection (4) or (5) is not required by that notice to disclose any information in respect of which a claim to legal professional privilege or, in Scotland, confidentiality of communications, could be maintained in legal proceedings.
 
-**5.**[^key-f4596e7ffe7e867eccea43a2df05c778] In section 13, at the end insert—
+**5.**[^c-f4596e7ffe7e867eccea43a2df05c778] In section 13, at the end insert—
 
 > (6) A reference in this section to a person who is a registrable beneficial owner in relation to an overseas entity includes, in connection with the obtaining of information required by section 7(1)(b), 9(1)(c) or 42(1)(c)(i), a reference to a person who has ceased to be a registrable beneficial owner.
 
-**6.**[^key-a13149155cbd73ee055252690f5b2312] After section 17 insert—
+**6.**[^c-a13149155cbd73ee055252690f5b2312] After section 17 insert—
 
 > **17A. Exceptions to duty to provide change of beneficiary information**
 >
@@ -157,26 +157,26 @@ Section 163
 >
 > (4) Regulations under subsection (1) are subject to the negative resolution procedure.
 
-**7.**[^key-86130bf94297237e79c4043900cd84f8] In section 43 (transitional information), after subsection (1) insert—
+**7.**[^c-86130bf94297237e79c4043900cd84f8] In section 43 (transitional information), after subsection (1) insert—
 
 > (1A) In subsection (1) the reference to section 12 is to that section as it had effect before the amendments made by Schedule 6 to the Economic Crime and Corporate Transparency Act 2023 (duty to deliver information about changes in beneficiaries).
 
-**8.**[^key-6c89d109dca292de395c9e0875f5e46c] In section 44 (interpretation), omit subsection (2).
+**8.**[^c-6c89d109dca292de395c9e0875f5e46c] In section 44 (interpretation), omit subsection (2).
 
 ## Annotations
 
-[^key-b161a02ef0161d5f1c27d0cf045eca14]: Commencement: Sch. 6 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b161a02ef0161d5f1c27d0cf045eca14]: Commencement: Sch. 6 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-33d9144c971e3899e2953fdce324f89e]: Commencement: Sch. 6 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-33d9144c971e3899e2953fdce324f89e]: Commencement: Sch. 6 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-8bed681f0256384e99e81b220eb39214]: Commencement: Sch. 6 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-8bed681f0256384e99e81b220eb39214]: Commencement: Sch. 6 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a5619bf1242dba620b0a345c79a3d7a9]: Commencement: Sch. 6 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a5619bf1242dba620b0a345c79a3d7a9]: Commencement: Sch. 6 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-f4596e7ffe7e867eccea43a2df05c778]: Commencement: Sch. 6 para. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-f4596e7ffe7e867eccea43a2df05c778]: Commencement: Sch. 6 para. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a13149155cbd73ee055252690f5b2312]: Commencement: Sch. 6 para. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a13149155cbd73ee055252690f5b2312]: Commencement: Sch. 6 para. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-86130bf94297237e79c4043900cd84f8]: Commencement: Sch. 6 para. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-86130bf94297237e79c4043900cd84f8]: Commencement: Sch. 6 para. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-6c89d109dca292de395c9e0875f5e46c]: Commencement: Sch. 6 para. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6c89d109dca292de395c9e0875f5e46c]: Commencement: Sch. 6 para. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

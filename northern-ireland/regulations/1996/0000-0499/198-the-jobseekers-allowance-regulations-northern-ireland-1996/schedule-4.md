@@ -74,7 +74,7 @@ Regulation 85
 | - (ii) the claimant is a patient but has not been a patient for more than 2 weeks and the other member of the couple or marriage is not a patient or has been a patient for not more than 6 weeks; | - (ii) one or more children or young persons are also patients and have been so for more than 12 weeks, in respect of those children and young persons and the member of the couple or polygamous marriage remaining in the accommodation the amount specified in column (2) of sub-paragraph (b)(i) save that the child or young person who has been a patient for more than 12 weeks shall be disregarded as a member of the family in assessing the amount applicable under regulation 86 and in respect of each such child or young person there shall be added the amount of £12·25; |
 | - (c) a child or young person who has been a patient for a period of more than 12 weeks. | - (c) the amount applicable under regulation 85 as if that child or young person was not a member of the family plus an amount of £12·25 in respect of that child or young person. |
 
-### 18. Rounding of fractions[^key-27deb1bb5ad9f20f407a2c01fefa8e0c]
+### 18. Rounding of fractions[^c-27deb1bb5ad9f20f407a2c01fefa8e0c]
 
 Where any calculation under this Schedule or as a result of a jobseeker’s allowance being awarded for a period less than one complete benefit week results in a fraction of a penny that fraction shall be treated as a penny.
 
@@ -84,4 +84,4 @@ Where any calculation under this Schedule or as a result of a jobseeker’s allo
 
 [^f00156]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087))
 
-[^key-27deb1bb5ad9f20f407a2c01fefa8e0c]: Commencement: Sch. 4 para. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-27deb1bb5ad9f20f407a2c01fefa8e0c]: Commencement: Sch. 4 para. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

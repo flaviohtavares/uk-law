@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Unoccupied Hereditaments) (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^key-61819235ee4e2367fa3103a81d9de529]
+The Rates (Unoccupied Hereditaments) (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^c-61819235ee4e2367fa3103a81d9de529]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 1st April 2013
 
-[^key-61819235ee4e2367fa3103a81d9de529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61819235ee4e2367fa3103a81d9de529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-61819235ee4e2367fa3103a81d9de529]
+## 1. Citation and commencement[^c-61819235ee4e2367fa3103a81d9de529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rates (Unoccupied Hereditaments) Regulations (Northern Ireland) 2011[^key-61819235ee4e2367fa3103a81d9de529]
+## 2. Amendment of the Rates (Unoccupied Hereditaments) Regulations (Northern Ireland) 2011[^c-61819235ee4e2367fa3103a81d9de529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61819235ee4e2367fa3103a81d9de529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61819235ee4e2367fa3103a81d9de529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61819235ee4e2367fa3103a81d9de529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61819235ee4e2367fa3103a81d9de529]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61819235ee4e2367fa3103a81d9de529]: Textual amendment: Regulations revoked (1.4.2014) by [The Rates (Unoccupied Hereditaments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/69)](https://www.legislation.gov.uk/nisr/2014/69), [regs. 1](https://www.legislation.gov.uk/nisr/2014/69/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/69/regulation/3)
+[^c-61819235ee4e2367fa3103a81d9de529]: Textual amendment: Regulations revoked (1.4.2014) by [The Rates (Unoccupied Hereditaments) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/69)](https://www.legislation.gov.uk/nisr/2014/69), [regs. 1](https://www.legislation.gov.uk/nisr/2014/69/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/69/regulation/3)

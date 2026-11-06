@@ -16,34 +16,34 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — MODIFICATIONS FOR RELEVANT CITIZENS OF THE ACCESSION STATES IN 2004[^key-7249282533702cb9d7ab516f38219825]
+## SCHEDULE 5 — MODIFICATIONS FOR RELEVANT CITIZENS OF THE ACCESSION STATES IN 2004[^c-7249282533702cb9d7ab516f38219825]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7249282533702cb9d7ab516f38219825]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/293) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7249282533702cb9d7ab516f38219825]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/293) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

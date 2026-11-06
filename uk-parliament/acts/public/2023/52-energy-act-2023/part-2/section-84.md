@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Enforcement[^key-8233e913ad355514920ff199d087d6e4]
+## 84. Enforcement[^c-8233e913ad355514920ff199d087d6e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8233e913ad355514920ff199d087d6e4]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2023/52/section/84) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-8233e913ad355514920ff199d087d6e4]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2023/52/section/84) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to sections [^key-1f6dfe7b56f711a86053539258b0ac01]... 12(1), 13ZA and 13AA(1)[^key-67b9a9a6fa239817d0e02ac08c1c1aa5], where heavy oil charged with the excise duty on hydrocarbon oil is delivered for home use, there shall be allowed on the oil at the time of delivery a rebate of duty at a rate—
+(1) Subject to sections [^c-1f6dfe7b56f711a86053539258b0ac01]... 12(1), 13ZA and 13AA(1)[^c-67b9a9a6fa239817d0e02ac08c1c1aa5], where heavy oil charged with the excise duty on hydrocarbon oil is delivered for home use, there shall be allowed on the oil at the time of delivery a rebate of duty at a rate—
 
-- (a)[^c11244451] in the case of fuel oil, of £0.1070[^key-9be66fd1a889af49bfae2e01963f7c25] a litre less than the rate at which the duty is for the time being chargeable;
-- (b)[^c11244471] in the case of gas oil [^key-bd16f1628959ff11df343becb20fa665]... , of £0.1114[^key-6e098a3f154c3c22de0b55e0c16df07c] a litre less than the rate at which the duty is for the time being chargeable;
-- (ba)[^key-1615ab163b72554890dd52288b2fa163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c11244451] in the case of fuel oil, of £0.1070[^c-9be66fd1a889af49bfae2e01963f7c25] a litre less than the rate at which the duty is for the time being chargeable;
+- (b)[^c11244471] in the case of gas oil [^c-bd16f1628959ff11df343becb20fa665]... , of £0.1114[^c-6e098a3f154c3c22de0b55e0c16df07c] a litre less than the rate at which the duty is for the time being chargeable;
+- (ba)[^c-1615ab163b72554890dd52288b2fa163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the case of heavy oil which is neither fuel oil nor[^c11244541] gas oil, equal to the rate at which the duty is for the time being chargeable.
 
 (2)[^c11244551] In this section—
@@ -47,21 +47,21 @@ summary: ''
 
 ## Annotations
 
-[^key-1f6dfe7b56f711a86053539258b0ac01]: Textual amendment: Word in s. 11(1) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 121(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/121/2)
+[^c-1f6dfe7b56f711a86053539258b0ac01]: Textual amendment: Word in s. 11(1) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 121(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/121/2)
 
-[^key-67b9a9a6fa239817d0e02ac08c1c1aa5]: Textual amendment: Words in s. 11(1) substituted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 25](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/25), [37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/37)
+[^c-67b9a9a6fa239817d0e02ac08c1c1aa5]: Textual amendment: Words in s. 11(1) substituted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 25](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/25), [37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/37)
 
 [^c11244451]: Textual amendment: S. 11(1)(*a*)(*b*)(*c*) substituted for paragraphs (*a*) and (*b*) by [Finance Act 1986 (c.41, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1986/41), [s. 2(3)(4)](https://www.legislation.gov.uk/ukpga/1986/41/section/2/3/4)
 
-[^key-9be66fd1a889af49bfae2e01963f7c25]: Textual amendment: Word in s. 11(1)(a) substituted (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/4/a)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)
+[^c-9be66fd1a889af49bfae2e01963f7c25]: Textual amendment: Word in s. 11(1)(a) substituted (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/4/a)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)
 
 [^c11244471]: Modification: S. 11(1)(b)(ba)(c) restricted (subject to reg. 6 of the amending S.I.) (1.8.2002) by [S.I. 2002/1773](https://www.legislation.gov.uk/uksi/2002/1773), [regs. 4](https://www.legislation.gov.uk/uksi/2002/1773/regulation/4), [6](https://www.legislation.gov.uk/uksi/2002/1773/regulation/6)
 
-[^key-bd16f1628959ff11df343becb20fa665]: Textual amendment: Words in s. 11(1)(b) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/5/a)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-bd16f1628959ff11df343becb20fa665]: Textual amendment: Words in s. 11(1)(b) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/5/a)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
 
-[^key-6e098a3f154c3c22de0b55e0c16df07c]: Textual amendment: Word in s. 11(1)(b) substituted (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/4/b)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)
+[^c-6e098a3f154c3c22de0b55e0c16df07c]: Textual amendment: Word in s. 11(1)(b) substituted (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/4/b)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)
 
-[^key-1615ab163b72554890dd52288b2fa163]: Textual amendment: S. 11(1)(ba) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/5/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-1615ab163b72554890dd52288b2fa163]: Textual amendment: S. 11(1)(ba) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/5/b)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
 
 [^c11244541]: Textual amendment: Words in s. 11(1)(c) substituted (15.8.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 7(5)(c)](https://www.legislation.gov.uk/ukpga/1997/16/section/7/5/c); [S.I. 1997/1960](https://www.legislation.gov.uk/uksi/1997/1960), [art. 2](https://www.legislation.gov.uk/uksi/1997/1960/article/2)
 

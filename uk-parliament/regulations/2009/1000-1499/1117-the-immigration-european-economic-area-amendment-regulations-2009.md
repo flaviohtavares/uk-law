@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) Regulations 2009 (revoked)[^key-5866b110eb9b822b8e83c870a664add3]
+The Immigration (European Economic Area) (Amendment) Regulations 2009 (revoked)[^c-5866b110eb9b822b8e83c870a664add3]
 
 Made
 
@@ -46,94 +46,94 @@ Coming into force
 
 1st June 2009
 
-[^key-5866b110eb9b822b8e83c870a664add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5866b110eb9b822b8e83c870a664add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5866b110eb9b822b8e83c870a664add3]
+## 1. Citation and commencement[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Immigration (European Economic Area) Regulations 2006[^key-5866b110eb9b822b8e83c870a664add3]
+## 2. Amendment of the Immigration (European Economic Area) Regulations 2006[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments[^key-5866b110eb9b822b8e83c870a664add3]
+## 3. Consequential amendments[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5866b110eb9b822b8e83c870a664add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5866b110eb9b822b8e83c870a664add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Amendments to the Immigration (European Economic Area) Regulations 2006[^key-5866b110eb9b822b8e83c870a664add3]
+## SCHEDULE 1 — Amendments to the Immigration (European Economic Area) Regulations 2006[^c-5866b110eb9b822b8e83c870a664add3]
 
 Regulation 2
 
-### 1. Regulation 2 (general interpretation)[^key-5866b110eb9b822b8e83c870a664add3]
+### 1. Regulation 2 (general interpretation)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Regulation 3 (continuity of residence)[^key-5866b110eb9b822b8e83c870a664add3]
+### 2. Regulation 3 (continuity of residence)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Regulation 12 (issue of EEA family permit)[^key-5866b110eb9b822b8e83c870a664add3]
+### 3. Regulation 12 (issue of EEA family permit)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Regulation 17 (issue of residence card)[^key-5866b110eb9b822b8e83c870a664add3]
+### 4. Regulation 17 (issue of residence card)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Regulation 18 (issue of document certifying permanent residence and a permanent residence card)[^key-5866b110eb9b822b8e83c870a664add3]
+### 5. Regulation 18 (issue of document certifying permanent residence and a permanent residence card)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Regulation 19 (exclusion and removal from the United Kingdom)[^key-5866b110eb9b822b8e83c870a664add3]
+### 6. Regulation 19 (exclusion and removal from the United Kingdom)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Regulation 20 (refusal to issue or renew and revocation of residence documentation)[^key-5866b110eb9b822b8e83c870a664add3]
+### 7. Regulation 20 (refusal to issue or renew and revocation of residence documentation)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Regulation 22 (person claiming right of admission)[^key-5866b110eb9b822b8e83c870a664add3]
+### 8. Regulation 22 (person claiming right of admission)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Regulation 23 (person refused admission)[^key-5866b110eb9b822b8e83c870a664add3]
+### 9. Regulation 23 (person refused admission)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Regulation 24 (person subject to removal)[^key-5866b110eb9b822b8e83c870a664add3]
+### 10. Regulation 24 (person subject to removal)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. New regulation 24A (revocation of deportation and exclusion orders)[^key-5866b110eb9b822b8e83c870a664add3]
+### 11. New regulation 24A (revocation of deportation and exclusion orders)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Regulation 27 (out of country appeals)[^key-5866b110eb9b822b8e83c870a664add3]
+### 12. Regulation 27 (out of country appeals)[^c-5866b110eb9b822b8e83c870a664add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS[^key-5866b110eb9b822b8e83c870a664add3]
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS[^c-5866b110eb9b822b8e83c870a664add3]
 
 Regulation 3
 
-### Act of Parliament — The Child Trust Funds Act 2004[^key-5866b110eb9b822b8e83c870a664add3]
+### Act of Parliament — The Child Trust Funds Act 2004[^c-5866b110eb9b822b8e83c870a664add3]
 
-**1.**[^key-5866b110eb9b822b8e83c870a664add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5866b110eb9b822b8e83c870a664add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Statutory Instrument — Immigration (Notices) Regulations 2003[^key-5866b110eb9b822b8e83c870a664add3]
+### Statutory Instrument — Immigration (Notices) Regulations 2003[^c-5866b110eb9b822b8e83c870a664add3]
 
-**2.**[^key-5866b110eb9b822b8e83c870a664add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5866b110eb9b822b8e83c870a664add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5866b110eb9b822b8e83c870a664add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5866b110eb9b822b8e83c870a664add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5866b110eb9b822b8e83c870a664add3]: Textual amendment: Regulations revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
+[^c-5866b110eb9b822b8e83c870a664add3]: Textual amendment: Regulations revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)

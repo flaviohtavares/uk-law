@@ -22,7 +22,7 @@ summary: ''
 
 Article 185
 
-### PART A — Provisions Referred to in Article 185(5)[^key-e00b245f1c41c6c3eba62f2216aca1e3]
+### PART A — Provisions Referred to in Article 185(5)[^c-e00b245f1c41c6c3eba62f2216aca1e3]
 
 | *Article of order* | *Subject matter* |
 | --- | --- |
@@ -52,7 +52,7 @@ Article 185
 | 69 | Flying displays |
 | 70-72 | Flight by balloons, gliders, kites, parascending parachutes and airships |
 | 73 | Flight by small aircraft |
-| Flight 73A[^key-ea005d1655608abeed4295127c10b0ad] | Flight by large unmanned aircraft |
+| Flight 73A[^c-ea005d1655608abeed4295127c10b0ad] | Flight by large unmanned aircraft |
 | 75 | Aerodrome operating minima – non-commercial air transport aircraft |
 | 76 | Requirement for pilot to remain at controls |
 | 78 | Pre-flight action by pilot-in-command of aircraft |
@@ -102,7 +102,7 @@ Article 185
 | 182 | Obstruction of persons performing duties under the Order |
 | 184 | Prohibition of stowaways |
 
-### PART B — Provisions Referred to in Article 185(6)[^key-3a05121ca018c4b0ab96a3f8e1bb85e6]
+### PART B — Provisions Referred to in Article 185(6)[^c-3a05121ca018c4b0ab96a3f8e1bb85e6]
 
 | *Article of order* | *Subject matter* |
 | --- | --- |
@@ -121,10 +121,10 @@ Article 185
 | 135 | Restriction of flights for valuable consideration by aircraft registered elsewhere than in the Territory |
 | 137 | Restriction of flights for aerial photography, aerial survey and aerial work by aircraft registered elsewhere than in the Territory |
 | 138 | Provision of an air traffic control service without an approval |
-| 148 | Prohibition of use of psychoactive substances[^key-acd5ca225e72ffe9803ad57881d985e2] |
+| 148 | Prohibition of use of psychoactive substances[^c-acd5ca225e72ffe9803ad57881d985e2] |
 | 149 | Controller’s obligation not to act in a dangerous state of fatigue |
 | 162(4) | Use of aviation fuel which is unfit for use in aircraft |
-| 165B[^key-bdd8a5b643cbdd5fc624fe8fcbcd6393] | Psychoactive substances |
+| 165B[^c-bdd8a5b643cbdd5fc624fe8fcbcd6393] | Psychoactive substances |
 | 173 | Use of false or unauthorised documents and records |
 | 174(9) | Making false reports |
 | 176 | Endangering safety of aircraft |
@@ -135,12 +135,12 @@ Article 185
 
 ## Annotations
 
-[^key-e00b245f1c41c6c3eba62f2216aca1e3]: Commencement: [Sch. 5 Pt. A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/A) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e00b245f1c41c6c3eba62f2216aca1e3]: Commencement: [Sch. 5 Pt. A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/A) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-ea005d1655608abeed4295127c10b0ad]: Textual amendment: Words in [Sch. 5 Pt. A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/A) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [15](https://www.legislation.gov.uk/uksi/2024/384/article/15)
+[^c-ea005d1655608abeed4295127c10b0ad]: Textual amendment: Words in [Sch. 5 Pt. A](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/A) inserted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [15](https://www.legislation.gov.uk/uksi/2024/384/article/15)
 
-[^key-3a05121ca018c4b0ab96a3f8e1bb85e6]: Commencement: [Sch. 5 Pt. B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/B) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-3a05121ca018c4b0ab96a3f8e1bb85e6]: Commencement: [Sch. 5 Pt. B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/B) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-acd5ca225e72ffe9803ad57881d985e2]: Textual amendment: Words in [Sch. 5 Pt. B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/B) Table substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2021/755/article/24/a)
+[^c-acd5ca225e72ffe9803ad57881d985e2]: Textual amendment: Words in [Sch. 5 Pt. B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/B) Table substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2021/755/article/24/a)
 
-[^key-bdd8a5b643cbdd5fc624fe8fcbcd6393]: Textual amendment: Words in [Sch. 5 Pt. B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/B) Table inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2021/755/article/24/b)
+[^c-bdd8a5b643cbdd5fc624fe8fcbcd6393]: Textual amendment: Words in [Sch. 5 Pt. B](https://www.legislation.gov.uk/uksi/2013/2870/schedule/5/part/B) Table inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2021/755/article/24/b)

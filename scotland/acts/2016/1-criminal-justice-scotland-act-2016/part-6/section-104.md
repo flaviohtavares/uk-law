@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Elaboration of regulation-making powers under this Chapter[^key-e60408b251a8676649105209cfb265a7]
+## 104. Elaboration of regulation-making powers under this Chapter[^c-e60408b251a8676649105209cfb265a7]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e60408b251a8676649105209cfb265a7]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2016/1/section/104) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-e60408b251a8676649105209cfb265a7]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2016/1/section/104) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

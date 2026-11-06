@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Using someone to mind a weapon[^key-ddc44943a43ef38aac77aab2ffb86c11]
+## 28. Using someone to mind a weapon[^c-ddc44943a43ef38aac77aab2ffb86c11]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc44943a43ef38aac77aab2ffb86c11]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/38/section/28) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/858/article/2/c)
+[^c-ddc44943a43ef38aac77aab2ffb86c11]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/38/section/28) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/858/article/2/c)

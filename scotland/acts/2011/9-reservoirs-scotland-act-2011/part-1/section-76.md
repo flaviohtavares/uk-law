@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Stop notices: enforcement[^key-563867d1f9ffedafc839ced5b76cf6b7]
+## 76. Stop notices: enforcement[^c-563867d1f9ffedafc839ced5b76cf6b7]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-563867d1f9ffedafc839ced5b76cf6b7]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2011/9/section/76) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-563867d1f9ffedafc839ced5b76cf6b7]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2011/9/section/76) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

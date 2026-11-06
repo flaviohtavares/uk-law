@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Establishment of active member’s account[^key-ce55127595fde82986745b714d06d429]
+## 29. Establishment of active member’s account[^c-ce55127595fde82986745b714d06d429]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce55127595fde82986745b714d06d429]: Commencement: Reg. 29 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-ce55127595fde82986745b714d06d429]: Commencement: Reg. 29 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

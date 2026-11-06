@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Repeal of exclusions relating to the European Coal and Steel Community[^key-9610642211fe663426a33530b3679c04][^key-80627bf60ce3914ea5693b5b7ba615e8]
+## 120. Repeal of exclusions relating to the European Coal and Steel Community[^c-9610642211fe663426a33530b3679c04][^c-80627bf60ce3914ea5693b5b7ba615e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9610642211fe663426a33530b3679c04]: Commencement: S. 120 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9610642211fe663426a33530b3679c04]: Commencement: S. 120 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-80627bf60ce3914ea5693b5b7ba615e8]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2024/13/section/120) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-80627bf60ce3914ea5693b5b7ba615e8]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2024/13/section/120) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

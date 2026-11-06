@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.110. Discounts[^key-ea1291d120c4cdb458531bf9af197bea]
+## 6.110. Discounts[^c-ea1291d120c4cdb458531bf9af197bea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall in every case be deducted from the claim all trade and other discoun
 
 ## Annotations
 
-[^key-ea1291d120c4cdb458531bf9af197bea]: Commencement: [Rule 6.110](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.110) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ea1291d120c4cdb458531bf9af197bea]: Commencement: [Rule 6.110](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.110) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

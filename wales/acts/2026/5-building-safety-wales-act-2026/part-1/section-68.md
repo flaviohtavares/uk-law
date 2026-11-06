@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Co-operation and co-ordination: duties of accountable persons[^key-4421364c0d8f73b25d21f0dd2fcf7430]
+## 68. Co-operation and co-ordination: duties of accountable persons[^c-4421364c0d8f73b25d21f0dd2fcf7430]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4421364c0d8f73b25d21f0dd2fcf7430]: Commencement: S. 68 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-4421364c0d8f73b25d21f0dd2fcf7430]: Commencement: S. 68 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

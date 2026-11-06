@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 66(1), 74(1), 74A and 84 of the Agriculture Act 1970[^f00001], section 2(2) of the European Communities Act 1972[^f00002] (in so far as these Regulations cannot be made under the powers of the Agriculture Act 1970 specified above) and of all other powers enabling them in that behalf, after consultation as required by section 84(1) of the Agriculture Act 1970 with such persons or organisations appearing to represent the interests concerned and as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], hereby make the following Regulations.
 
-## 1. Citation, commencement and extent[^key-2cd8ac8570a6e48c6a494b679e092e2f]
+## 1. Citation, commencement and extent[^c-2cd8ac8570a6e48c6a494b679e092e2f]
 
 (1) These Regulations may be cited as the Feeding Stuffs (Scotland) and the Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2006 and come into force on 26th December 2006.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendments to the Feeding Stuffs (Scotland) Regulations 2005[^key-66ae030c8ddaecfe510c06ce2b39c00c]
+## 2. Amendments to the Feeding Stuffs (Scotland) Regulations 2005[^c-66ae030c8ddaecfe510c06ce2b39c00c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Feed (Hygiene and Enforcement) (Scotland) Regulations 2005[^key-979948aec5ed794ef3a91924342e3ca3]
+## 3. Amendments to the Feed (Hygiene and Enforcement) (Scotland) Regulations 2005[^c-979948aec5ed794ef3a91924342e3ca3]
 
 (1) The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005[^f00005] are amended in accordance with paragraphs (2) and (3).
 
@@ -92,23 +92,23 @@ Edinburgh
 
 29th November 2006
 
-## SCHEDULE 1[^key-5502fc31b98618f72fd27ef688854c33]
+## SCHEDULE 1[^c-5502fc31b98618f72fd27ef688854c33]
 
 Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-5502fc31b98618f72fd27ef688854c33]
+## SCHEDULE 2[^c-5502fc31b98618f72fd27ef688854c33]
 
 **No longer in force.**
 
 Regulation 2(3) and (4)
 
-### PART I[^key-5502fc31b98618f72fd27ef688854c33]
+### PART I[^c-5502fc31b98618f72fd27ef688854c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-5502fc31b98618f72fd27ef688854c33]
+### PART II[^c-5502fc31b98618f72fd27ef688854c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,11 +145,11 @@ A full regulatory impact assessment, which includes a compliance cost assessment
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1, as last amended by Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) of the European Parliament and of the Council (O.J. No. L 100, 8.4.06, p.3.).
 
-[^key-2cd8ac8570a6e48c6a494b679e092e2f]: Commencement: Reg. 1 in force at 26.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/578/regulation/1/1)
+[^c-2cd8ac8570a6e48c6a494b679e092e2f]: Commencement: Reg. 1 in force at 26.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/578/regulation/1/1)
 
-[^key-66ae030c8ddaecfe510c06ce2b39c00c]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/578/regulation/2) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/4)
+[^c-66ae030c8ddaecfe510c06ce2b39c00c]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/578/regulation/2) revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/4)
 
-[^key-979948aec5ed794ef3a91924342e3ca3]: Commencement: Reg. 3 in force at 26.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/578/regulation/1/1)
+[^c-979948aec5ed794ef3a91924342e3ca3]: Commencement: Reg. 3 in force at 26.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/578/regulation/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2005/608](https://www.legislation.gov.uk/ssi/2005/608), as amended by [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616).
 
@@ -167,4 +167,4 @@ A full regulatory impact assessment, which includes a compliance cost assessment
 
 [^f00012]: Footnote: O.J. No. L 32, 4.2.06, p.44. This amending Directive introduced action thresholds and the requirement to investigate.
 
-[^key-5502fc31b98618f72fd27ef688854c33]: Textual amendment: Schs. 1, 2 revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/4)
+[^c-5502fc31b98618f72fd27ef688854c33]: Textual amendment: Schs. 1, 2 revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/4)

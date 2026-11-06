@@ -32,7 +32,7 @@ summary: ''
 
 Local Government, England
 
-The Stockton-on-Tees (Electoral Changes) Order 2022 (revoked)[^key-205345978631d1c0c8014c85a3e279aa]
+The Stockton-on-Tees (Electoral Changes) Order 2022 (revoked)[^c-205345978631d1c0c8014c85a3e279aa]
 
 Made
 
@@ -40,44 +40,44 @@ Made
 
 Coming into force in accordance with article 1(2) and (3)
 
-[^key-205345978631d1c0c8014c85a3e279aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-205345978631d1c0c8014c85a3e279aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-205345978631d1c0c8014c85a3e279aa]
+## 1. Citation, commencement, extent and application[^c-205345978631d1c0c8014c85a3e279aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-205345978631d1c0c8014c85a3e279aa]
+## 2. Interpretation[^c-205345978631d1c0c8014c85a3e279aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Wards of the borough of Stockton-on-Tees and number of councillors[^key-205345978631d1c0c8014c85a3e279aa]
+## 3. Wards of the borough of Stockton-on-Tees and number of councillors[^c-205345978631d1c0c8014c85a3e279aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Parish wards of the parishes of Billingham, Egglescliffe, Grindon & Thorpe Thewles, Ingleby Barwick, Kirklevington and Thornaby, and number of councillors[^key-205345978631d1c0c8014c85a3e279aa]
+## 4. Parish wards of the parishes of Billingham, Egglescliffe, Grindon & Thorpe Thewles, Ingleby Barwick, Kirklevington and Thornaby, and number of councillors[^c-205345978631d1c0c8014c85a3e279aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-205345978631d1c0c8014c85a3e279aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-205345978631d1c0c8014c85a3e279aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Wards of the borough of Stockton-on-Tees and numbers of councillors[^key-205345978631d1c0c8014c85a3e279aa]
+## SCHEDULE 1 — Wards of the borough of Stockton-on-Tees and numbers of councillors[^c-205345978631d1c0c8014c85a3e279aa]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Names of parish wards and numbers of councillors[^key-205345978631d1c0c8014c85a3e279aa]
+## SCHEDULE 2 — Names of parish wards and numbers of councillors[^c-205345978631d1c0c8014c85a3e279aa]
 
 Article 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-205345978631d1c0c8014c85a3e279aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-205345978631d1c0c8014c85a3e279aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-205345978631d1c0c8014c85a3e279aa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/966) revoked (8.12.2023) by [The Stockton-on-Tees (Electoral Changes) Order 2023 (S.I. 2023/1342)](https://www.legislation.gov.uk/uksi/2023/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1342/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1342/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/1342/article/2/2))
+[^c-205345978631d1c0c8014c85a3e279aa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/966) revoked (8.12.2023) by [The Stockton-on-Tees (Electoral Changes) Order 2023 (S.I. 2023/1342)](https://www.legislation.gov.uk/uksi/2023/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1342/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/1342/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/1342/article/2/2))

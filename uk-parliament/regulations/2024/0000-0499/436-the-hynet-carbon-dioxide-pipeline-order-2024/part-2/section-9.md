@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Defence to proceedings in respect of statutory nuisance[^key-21119ce4f39e3e700f5c793a2e764f12]
+## 9. Defence to proceedings in respect of statutory nuisance[^c-21119ce4f39e3e700f5c793a2e764f12]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-21119ce4f39e3e700f5c793a2e764f12]: Commencement: Art. 9 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-21119ce4f39e3e700f5c793a2e764f12]: Commencement: Art. 9 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00023]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are other amendments to the 1974 Act which are not relevant to this Order.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-2847f90f88125921b5226641e3f6cf07]
+## 2. Interpretation[^c-2847f90f88125921b5226641e3f6cf07]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
 - “**environmental statement**” means the document certified as the environmental statement by the Secretary of State for the purposes of this Order under article 36;
 - “**frond devices**” means flow energy dissipation devices, which reduce current velocity and turbulence and encourage settlement of sediment;
 - “**gravity base foundation**” means a structure principally of steel, concrete, or steel and concrete with a base which tapers as it rises which rests on the seabed due to its own weight with or without added ballast or additional skirts and associated equipment including scour protection, J-tubes, corrosion protection systems and access platform(s) and equipment;
-- “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act [^c24412671];[^key-6142235d10cfbd5f57f1e6fb75edf827]
+- “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act [^c24412671];[^c-6142235d10cfbd5f57f1e6fb75edf827]
 - “**horizontal directional drilling**” refers to a boring technique involving drilling in an arc between two points;
 - “**horizontal directional drilling compound**” means a construction site associated with the connection works where horizontal directional drilling or other trenchless construction technique is proposed including hard standing, lay down and storage areas for construction materials and equipment, areas for spoil, areas for vehicular parking, bunded storage areas, areas comprising water and bentonite tanks, pumps and pipes, areas for welfare facilities including offices and canteen and washroom facilities, wheel washing facilities, workshop facilities and temporary fencing or other means of enclosure and areas for other facilities required for construction purposes;
 - “**HVAC**” means high voltage alternating current;
@@ -65,7 +65,7 @@ summary: ''
 - “**LAT**” means lowest astronomical tide;
 - “**lead local flood authority**” has the meaning in section 6(7) (other definitions) of the Flood and Water Management Act 2010 [^c24412681];
 - “**link box**” means the underground metal box placed within a plastic or concrete pit where the metal sheaths between adjacent export cable sections are connected and earthed installed within a ground level manhole or inspection chamber to allow access to the link box for regular maintenance or fault-finding purposes;
-- “**location plan**” means the plan or plans certified as the location plan or plans by the Secretary of State for the purposes of this Order under article 36;[^key-c4205809a4bdc45ec93ea5d636e0694a]
+- “**location plan**” means the plan or plans certified as the location plan or plans by the Secretary of State for the purposes of this Order under article 36;[^c-c4205809a4bdc45ec93ea5d636e0694a]
 - “**maintain**” includes inspect, upkeep, repair, adjust, and alter and further includes remove, reconstruct and replace, to the extent assessed in the environmental statement; and “maintenance” must be construed accordingly;
 - “**Markham's Triangle exclusion zone plan**” means the document certified as the Markham's Triangle exclusion zone plan by the Secretary of State for the purposes of this Order under article 36;
 - “mean high water springs” or “**MHWS**” means the highest level which spring tides reach on average over a period of time;
@@ -78,7 +78,7 @@ summary: ''
 - “**offshore HVAC booster station**” means a structure above LAT and attached to the seabed by means of a foundation, with one or more decks and a helicopter platform, containing—
   - (a) [^M_F_34f22989-722c-4885-b141-d2a4a676e7fd] electrical equipment required to provide reactive power compensation; and
   - (b) [^M_F_34f22989-722c-4885-b141-d2a4a676e7fd] housing accommodation, storage, workshop, auxiliary equipment, and facilities for operating, maintaining and controlling the substation;
-- “the offshore Order limits and grid coordinates plan” means the plan or plans certified by the Secretary of State as the offshore Order limits and grid coordinates plan for the purposes of the Order under article 36;[^key-5d96be22e0bf87d879957422415e8d44]
+- “the offshore Order limits and grid coordinates plan” means the plan or plans certified by the Secretary of State as the offshore Order limits and grid coordinates plan for the purposes of the Order under article 36;[^c-5d96be22e0bf87d879957422415e8d44]
 - “**offshore subsea HVAC booster station**” means a sealed steel or concrete structure located under the surface of the sea, attached to the seabed by means of a foundation, containing electrical equipment required to provide reactive power compensation;
 - “**offshore substation**” means a structure above LAT and attached to the seabed by means of a foundation, with one or more decks and a helicopter platform, containing—
   - (a) electrical equipment required to switch, transform, convert electricity generated at the wind turbine generators to a higher voltage and provide reactive power compensation; and
@@ -95,8 +95,8 @@ summary: ''
 - “the onshore Order limits plan” means the plans certified by the Secretary of State as the onshore Order limits plan for the purposes of the Order under article 36;[^M_F_8a0e46e9-289d-4fe8-ebaf-bf39b9d4a8a9]
 - “**onshore site preparation works**” means operations consisting of site clearance, pre-planting of landscaping works, archaeological investigations, environmental surveys, investigations for the purpose of assessing ground conditions, remedial work in respect of any contamination or other adverse ground conditions, diversion and laying of services, erection of any temporary means of enclosure, creation of site accesses and the temporary display of site notices or advertisements;
 - “**the Order land**” means the land shown on the land plans which is within the limits of land to be acquired or used and described in the book of reference;
-- [^key-18b13237b9724c4e6bb9a912c987f606]...
-- [^key-18b13237b9724c4e6bb9a912c987f606]...
+- [^c-18b13237b9724c4e6bb9a912c987f606]...
+- [^c-18b13237b9724c4e6bb9a912c987f606]...
 - “**the Order limits**” means the limits shown on the offshore Order limits and grid coordinates plan and the onshore Order limits plan within which the authorised project may be carried out, whose grid coordinates seaward of MHWS are set out in paragraph 2 of Part 1 of Schedule 1 to this Order;
 - “**outline code of construction practice**” means the document certified as the outline code of construction practice by the Secretary of State for the purposes of this Order under article 36;
 - “**outline construction traffic management plan**” means the document certified as the outline construction traffic management plan by the Secretary of State for the purposes of this Order under article 36;
@@ -136,7 +136,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2847f90f88125921b5226641e3f6cf07]: Commencement: Art. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-2847f90f88125921b5226641e3f6cf07]: Commencement: Art. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24412581]: Marginal citation: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -158,21 +158,21 @@ summary: ''
 
 [^c24412671]: Marginal citation: “Highway” is defined in section 328(1) of the 1980 Act. For “highway authority” see [section 1](https://www.legislation.gov.uk/uksi/2020/1656/section/1) to that Act. Relevant amendments are as follows: section 1 was amended by sections 8 and 102 and Schedules 4, paragraph 1 and Schedule 17 of the [Local Government Act 1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), by section 21 of the 1991 Act and by section 1(6) and Schedule 1, paragraphs 1 to 4 of the [Infrastructure Act 2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-6142235d10cfbd5f57f1e6fb75edf827]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) semi-colon inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-6142235d10cfbd5f57f1e6fb75edf827]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) semi-colon inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
 [^c24412681]: Marginal citation: [2010 c.29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-c4205809a4bdc45ec93ea5d636e0694a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-c4205809a4bdc45ec93ea5d636e0694a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
 [^M_F_34f22989-722c-4885-b141-d2a4a676e7fd]: Textual amendment: Words in art. 2(1) renumbered (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-5d96be22e0bf87d879957422415e8d44]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-5d96be22e0bf87d879957422415e8d44]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
 [^M_F_fe2c82c7-d12d-4258-ed46-5115f873b83c]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
 [^M_F_8a0e46e9-289d-4fe8-ebaf-bf39b9d4a8a9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) inserted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-18b13237b9724c4e6bb9a912c987f606]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) omitted (21.5.2021) by virtue of [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-18b13237b9724c4e6bb9a912c987f606]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1656/article/2/1) omitted (21.5.2021) by virtue of [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
 [^c24412691]: Marginal citation: [Section 48](https://www.legislation.gov.uk/uksi/2020/1656/section/48) was amended by section 124 (1) and (2) of the [Local Transport Act 2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26).
 

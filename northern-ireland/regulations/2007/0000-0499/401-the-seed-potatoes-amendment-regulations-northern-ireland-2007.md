@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-The Seed Potatoes (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]
+The Seed Potatoes (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]
 
 Made
 
@@ -41,62 +41,62 @@ Coming into operation
 
 1st November 2007
 
-[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]
+## 1. Citation, commencement and interpretation[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed Potatoes Regulations (Northern Ireland) 2001[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]
+## 2. Amendment of the Seed Potatoes Regulations (Northern Ireland) 2001[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd8460aeb6e87dc9ba27d2a21a73b2cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/401) revoked (1.11.2010) by [The Seed Potatoes Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/350)](https://www.legislation.gov.uk/nisr/2010/350), [reg. 1](https://www.legislation.gov.uk/nisr/2010/350/regulation/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/nisr/2010/350/schedule/11/part/1)
+[^c-dd8460aeb6e87dc9ba27d2a21a73b2cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/401) revoked (1.11.2010) by [The Seed Potatoes Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/350)](https://www.legislation.gov.uk/nisr/2010/350), [reg. 1](https://www.legislation.gov.uk/nisr/2010/350/regulation/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/nisr/2010/350/schedule/11/part/1)

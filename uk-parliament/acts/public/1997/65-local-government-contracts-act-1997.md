@@ -33,7 +33,7 @@ An Act to make provision about the powers of local authorities (including probat
 
 \[27th November 1997\] [^c8777691]
 
-[^c8777701]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a9924928536c81d0196b90b326fc3369][^key-f93b535f1f5b8a3180e2fd52eb699be2][^key-a5d65927368dd3332ce6978ef56b2268]
+[^c8777701]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a9924928536c81d0196b90b326fc3369][^c-f93b535f1f5b8a3180e2fd52eb699be2][^c-a5d65927368dd3332ce6978ef56b2268]
 
 ## Contracts for provision of assets or services
 
@@ -50,7 +50,7 @@ the statutory provision also confers power on the local authority to enter into 
 
 (3) The following are local authorities for the purposes of this Act—
 
-- (a) any authority with respect to the finances of which Part IV of the *(affected by repeal, see note)*[^key-e53a9ecd0799c4460bd670a786334178] [^c877771]Local Government and Housing Act 1989 *(affected by repeal, see note)*[^key-e53a9ecd0799c4460bd670a786334178] Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance) has effect at the time in question,
+- (a) any authority with respect to the finances of which Part IV of the *(affected by repeal, see note)*[^c-e53a9ecd0799c4460bd670a786334178] [^c877771]Local Government and Housing Act 1989 *(affected by repeal, see note)*[^c-e53a9ecd0799c4460bd670a786334178] Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance) has effect at the time in question,
 - (b) any probation committee,
 - (c) the Receiver for the Metropolitan Police District, and
 - (d) any local authority or joint board as defined in section 235(1) of the [^c8777721]Local Government (Scotland) Act 1973.
@@ -78,7 +78,7 @@ the statutory provision also confers power on the local authority to enter into 
 
 (6) Subsection (1) is subject to section 5 (special provisions about judicial reviews and audit reviews).
 
-(7) The application of subsection (1) in relation to a contract entered into by a local authority does not affect any claim for damages made by a person who is not (and has never been) a party to the contract in respect of a breach by the local authority of any duty to do, or not to do, something before entering into the contract (including, in particular, any such duty imposed by a statutory provision for giving effect to any EU[^key-7d7ab3629616c4f1889d87accb56427b] obligation relating to public procurement or by section 17(1) of the [^c8777781]Local Government Act 1988).
+(7) The application of subsection (1) in relation to a contract entered into by a local authority does not affect any claim for damages made by a person who is not (and has never been) a party to the contract in respect of a breach by the local authority of any duty to do, or not to do, something before entering into the contract (including, in particular, any such duty imposed by a statutory provision for giving effect to any EU[^c-7d7ab3629616c4f1889d87accb56427b] obligation relating to public procurement or by section 17(1) of the [^c8777781]Local Government Act 1988).
 
 ### 3. The certification requirements.[^c8777791]
 
@@ -183,16 +183,16 @@ shall affect the enforceability of any relevant discharge terms relating to the 
 
 (1) In this Act “**an audit review**” means—
 
-- (a) an application or appeal under section 28 of the Local Audit and Accountability Act 2014[^key-060e08543e35c892d463a312d15a3ea7] or section 32 of the Public Audit (Wales) Act 2004[^key-48b8cfe84174a4132f740a460833624f] (application by auditor, or appeal by person objecting to accounts, for declaration as to unlawful item of account),
-- (b)[^key-5d4fac28c33be882beea73395ba91a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5d4fac28c33be882beea73395ba91a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an application or appeal under section 28 of the Local Audit and Accountability Act 2014[^c-060e08543e35c892d463a312d15a3ea7] or section 32 of the Public Audit (Wales) Act 2004[^c-48b8cfe84174a4132f740a460833624f] (application by auditor, or appeal by person objecting to accounts, for declaration as to unlawful item of account),
+- (b)[^c-5d4fac28c33be882beea73395ba91a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5d4fac28c33be882beea73395ba91a89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) consideration by the Controller of Audit of whether to make a special report to the Accounts Commission for Scotland under section 102(3) of the [^c8777931]Local Government (Scotland) Act 1973 (reports to Commission by Controller of Audit),
 - (e) consideration by the Accounts Commission for Scotland of whether to send a special report to the Secretary of State under section 103(3) of that Act (action by Commission on reports by Controller of Audit), or
 - (f) consideration by the Court of Session of a case stated under section 103(2)(c) of that Act (Commission may state case on a question of law for opinion of Court of Session),
 
-or any appeal (or further appeal) against a decision made on an application referred to in paragraph (a) or on an appeal referred to in that paragraph[^key-29c9f32df2baca88fa215db541e7dcba] .
+or any appeal (or further appeal) against a decision made on an application referred to in paragraph (a) or on an appeal referred to in that paragraph[^c-29c9f32df2baca88fa215db541e7dcba] .
 
-(2)[^key-a17c914b72a5f7e67abf7c9550f2578b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a17c914b72a5f7e67abf7c9550f2578b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Contracting out of functions in connection with certified contracts.[^c8777961]
 
@@ -213,7 +213,7 @@ or any appeal (or further appeal) against a decision made on an application refe
 
 *Extent: E+W*
 
-### 10. Power to treat expenditure as not being capital expenditure.[^key-f2d51870f0d01f263474b7553d60256e]
+### 10. Power to treat expenditure as not being capital expenditure.[^c-f2d51870f0d01f263474b7553d60256e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,7 +235,7 @@ or any appeal (or further appeal) against a decision made on an application refe
 
 (3) Sections 1 to 9 apply to any contract which a local authority enters into after 12th June 1997; but in relation to a contract entered into before the day on which section 2 comes into force “**the certification period**” means the period of six weeks beginning with that day.
 
-(4)[^key-77d3705a3e68f6f8d3c720e3e1334dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-77d3705a3e68f6f8d3c720e3e1334dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This Act does not extend to Northern Ireland.
 
@@ -249,13 +249,13 @@ or any appeal (or further appeal) against a decision made on an application refe
 
 [^c8777701]: Extent: Act extends to Great Britain but see [s. 12(4)(5)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/4/5) for exception.
 
-[^key-a9924928536c81d0196b90b326fc3369]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/65) applied (S.) (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 1 para. 16(1)(b)](https://www.legislation.gov.uk/asp/2005/12/schedule/1/paragraph/16/1/b); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-a9924928536c81d0196b90b326fc3369]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/65) applied (S.) (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 1 para. 16(1)(b)](https://www.legislation.gov.uk/asp/2005/12/schedule/1/paragraph/16/1/b); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
-[^key-f93b535f1f5b8a3180e2fd52eb699be2]: Modification: Act: power to apply (with modifications) conferred by Government of Wales Act 2006 (c. 32), s. 59(5) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-f93b535f1f5b8a3180e2fd52eb699be2]: Modification: Act: power to apply (with modifications) conferred by Government of Wales Act 2006 (c. 32), s. 59(5) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-a5d65927368dd3332ce6978ef56b2268]: Modification: Act: power to apply (with modifications) inserted by Government of Wales Act 2006 (c. 32), s. 27, Sch. 2 para. 4(7) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-a5d65927368dd3332ce6978ef56b2268]: Modification: Act: power to apply (with modifications) inserted by Government of Wales Act 2006 (c. 32), s. 27, Sch. 2 para. 4(7) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-e53a9ecd0799c4460bd670a786334178]: Textual amendment: Words in s. 1(3)(a) substituted (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/64); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.)
+[^c-e53a9ecd0799c4460bd670a786334178]: Textual amendment: Words in s. 1(3)(a) substituted (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/64); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.)
 
 [^c877771]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -263,7 +263,7 @@ or any appeal (or further appeal) against a decision made on an application refe
 
 [^c8777771]: Commencement: S. 2 wholly in force; s. 2 not in force at Royal Assent see s. 12(2); s. 2 in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); s. 2 in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
 
-[^key-7d7ab3629616c4f1889d87accb56427b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-7d7ab3629616c4f1889d87accb56427b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c8777781]: Marginal citation: [1988 c. 9](https://www.legislation.gov.uk/ukpga/1988/9).
 
@@ -281,26 +281,26 @@ or any appeal (or further appeal) against a decision made on an application refe
 
 [^c8777881]: Extent: This version of this provision extends to England and Wales; a separate version has been created for Scotland only
 
-[^key-060e08543e35c892d463a312d15a3ea7]: Textual amendment: Words in [s. 8(1)(a)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/a) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-060e08543e35c892d463a312d15a3ea7]: Textual amendment: Words in [s. 8(1)(a)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/a) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-48b8cfe84174a4132f740a460833624f]: Textual amendment: Words in s. 8(1)(a) inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 20(a)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/20/a); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
+[^c-48b8cfe84174a4132f740a460833624f]: Textual amendment: Words in s. 8(1)(a) inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 20(a)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/20/a); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
 
-[^key-5d4fac28c33be882beea73395ba91a89]: Textual amendment: [S. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/b)[(c)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/c) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-5d4fac28c33be882beea73395ba91a89]: Textual amendment: [S. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/b)[(c)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1/c) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
 [^c8777931]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-29c9f32df2baca88fa215db541e7dcba]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-29c9f32df2baca88fa215db541e7dcba]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/1) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(2)(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/2/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
-[^key-a17c914b72a5f7e67abf7c9550f2578b]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/2) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-a17c914b72a5f7e67abf7c9550f2578b]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/8/2) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 35(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/35/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
 [^c8777961]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) wholly in force; [s. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) not in force at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/2); [s. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) in force at 30.12.1997 insofar as it applies to England and Wales by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2843/article/2/2); [s. 9](https://www.legislation.gov.uk/ukpga/1997/65/section/9) in force at 1.1.1998 insofar as it applies to Scotland by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2878/article/2/2)
 
 [^c8777971]: Marginal citation: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
 
-[^key-f2d51870f0d01f263474b7553d60256e]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1997/65/section/10) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-f2d51870f0d01f263474b7553d60256e]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1997/65/section/10) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c8777991]: Subordinate legislation: S. 12(2) power partly exercised (28.11.1997): different dates appointed for specified provisions by [S.I. 1997/2843](https://www.legislation.gov.uk/uksi/1997/2843)
 
     S. 12(2) power partly exercised (1.12.1997): different dates appointed for specified provisions by [S.I. 1997/2878](https://www.legislation.gov.uk/uksi/1997/2878), [art. 2](https://www.legislation.gov.uk/uksi/1997/2878/article/2)
 
-[^key-77d3705a3e68f6f8d3c720e3e1334dbc]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/4) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-77d3705a3e68f6f8d3c720e3e1334dbc]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/ukpga/1997/65/section/12/4) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)

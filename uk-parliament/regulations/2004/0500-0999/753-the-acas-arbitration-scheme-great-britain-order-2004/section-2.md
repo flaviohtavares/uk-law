@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Commencement of the Scheme[^key-48c9fcf04fd7dfce7b8de70971c63b1b]
+## 2. Commencement of the Scheme[^c-48c9fcf04fd7dfce7b8de70971c63b1b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Scheme shall come into effect on 6th April 2004.
 
 ## Annotations
 
-[^key-48c9fcf04fd7dfce7b8de70971c63b1b]: Commencement: Art. 2 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-48c9fcf04fd7dfce7b8de70971c63b1b]: Commencement: Art. 2 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)

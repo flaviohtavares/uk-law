@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Creation of a charge over an interest in land[^key-2c1ca63115c42e0074bd54bf144afeda]
+## 71. Creation of a charge over an interest in land[^c-2c1ca63115c42e0074bd54bf144afeda]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the local authority may create a charge in its favour over the person's interest
 
 ## Annotations
 
-[^key-2c1ca63115c42e0074bd54bf144afeda]: Commencement: S. 71 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-2c1ca63115c42e0074bd54bf144afeda]: Commencement: S. 71 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

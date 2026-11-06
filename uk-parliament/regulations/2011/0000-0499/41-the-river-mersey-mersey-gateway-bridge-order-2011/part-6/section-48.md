@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Power to lop trees overhanging the authorised works[^key-db669714682ffb5bb326563e4b1bed50]
+## 48. Power to lop trees overhanging the authorised works[^c-db669714682ffb5bb326563e4b1bed50]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db669714682ffb5bb326563e4b1bed50]: Commencement: Art. 48 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-db669714682ffb5bb326563e4b1bed50]: Commencement: Art. 48 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Urgent safety restrictions[^key-1d4fd3c8fe855804676f44b0586f50b6]
+## 149. Urgent safety restrictions[^c-1d4fd3c8fe855804676f44b0586f50b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d4fd3c8fe855804676f44b0586f50b6]: Textual amendment: Reg. 149 substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 131](https://www.legislation.gov.uk/uksi/2019/775/regulation/131) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 98](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/98))
+[^c-1d4fd3c8fe855804676f44b0586f50b6]: Textual amendment: Reg. 149 substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 131](https://www.legislation.gov.uk/uksi/2019/775/regulation/131) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 98](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/98))

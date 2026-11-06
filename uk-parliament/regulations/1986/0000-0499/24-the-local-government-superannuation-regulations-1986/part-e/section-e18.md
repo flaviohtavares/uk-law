@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E18. Adjustment of superannuation rights on death of certain re-employed pensioners[^key-ed1f1469fb78e692eef3b67096d65770]
+## E18. Adjustment of superannuation rights on death of certain re-employed pensioners[^c-ed1f1469fb78e692eef3b67096d65770]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ any benefits payable in respect of him (except any widow's short-term pension or
 
 ## Annotations
 
-[^key-ed1f1469fb78e692eef3b67096d65770]: Commencement: [Reg. E18](https://www.legislation.gov.uk/uksi/1986/24/regulation/E18) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ed1f1469fb78e692eef3b67096d65770]: Commencement: [Reg. E18](https://www.legislation.gov.uk/uksi/1986/24/regulation/E18) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

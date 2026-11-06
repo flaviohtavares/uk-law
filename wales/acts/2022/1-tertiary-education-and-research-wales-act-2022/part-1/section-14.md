@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Strategic plan for the Commission[^key-3b2a8c5d97448c2717f053718ca09f59][^key-54c68335a8294ca09eb39c5cd93f3bbc]
+## 14. Strategic plan for the Commission[^c-3b2a8c5d97448c2717f053718ca09f59][^c-54c68335a8294ca09eb39c5cd93f3bbc]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2a8c5d97448c2717f053718ca09f59]: Commencement: S. 14 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-3b2a8c5d97448c2717f053718ca09f59]: Commencement: S. 14 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-54c68335a8294ca09eb39c5cd93f3bbc]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2022/1/section/14) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/919/article/2/b)
+[^c-54c68335a8294ca09eb39c5cd93f3bbc]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2022/1/section/14) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/919/article/2/b)

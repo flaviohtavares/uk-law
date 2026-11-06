@@ -42,7 +42,7 @@ Coming into operation on
 
 The Department for the Economy[^f00001] in exercise of the powers conferred by Articles 3 and 8(4) of the Education (Student Support) (Northern Ireland) Order 1998[^f00002] and Articles 4(8) and 14(4) of the Higher Education (Northern Ireland) Order 2005[^f00003] makes the following Regulations.
 
-## 1. Citation, commencement and application[^key-4d8fc4aed1f6560dd286d926d43b649d]
+## 1. Citation, commencement and application[^c-4d8fc4aed1f6560dd286d926d43b649d]
 
 (1) These Regulations may be cited as the Education (Student Support) (Amendment No.2) Regulations (Northern Ireland) 2026 and come into operation on 24th July 2026.
 
@@ -55,18 +55,18 @@ The Department for the Economy[^f00001] in exercise of the powers conferred by A
 - (c) on or after 1st July and before 1st August; or
 - (d) on or after 1st August and on or before 31st December.
 
-## 2. Interpretation[^key-d1d0e3a8a28e7606a3ecc0445d76d001]
+## 2. Interpretation[^c-d1d0e3a8a28e7606a3ecc0445d76d001]
 
 In these Regulations —
 
 - (a) “**the 2007 Regulations**” means The Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007[^f00004]**;**
 - (b) “**the 2009 Regulations**” means the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^f00005].
 
-## 3. Amendments to the 2007 Regulations[^key-f4e73b36432702b8bfbe4fe6aefb3830]
+## 3. Amendments to the 2007 Regulations[^c-f4e73b36432702b8bfbe4fe6aefb3830]
 
 Regulations 4 and 5 amend the 2007 Regulations.
 
-## 4. Amendment of regulation 5 to allow overstayers satisfying the immigration rules to retain eligible student status[^key-1aa39e631b4e12ce7ba3466c8ea7db70]
+## 4. Amendment of regulation 5 to allow overstayers satisfying the immigration rules to retain eligible student status[^c-1aa39e631b4e12ce7ba3466c8ea7db70]
 
 In regulation 5(1D)(b) (prescribed description of a qualifying person), substitute—
 
@@ -76,7 +76,7 @@ In regulation 5(1D)(b) (prescribed description of a qualifying person), substitu
 
 .
 
-## 5. Amendment of the Schedule (qualifying persons) to update references to the Ukraine Schemes[^key-489a5980c7fe72d33086657ac3f869e8]
+## 5. Amendment of the Schedule (qualifying persons) to update references to the Ukraine Schemes[^c-489a5980c7fe72d33086657ac3f869e8]
 
 In paragraph 1(1) of the Schedule (qualifying persons)—
 
@@ -84,11 +84,11 @@ In paragraph 1(1) of the Schedule (qualifying persons)—
 - (b) in the definition of “person granted leave under the Ukraine Family Scheme”, in paragraph (a)(i), after “immigration rules”, insert “, as it had effect on the day such leave was granted”;
 - (c) in the definition of “person granted leave under the Ukraine Permission Extension Scheme”, in paragraph (a), for “the Ukraine Permission Extension Scheme” substitute “paragraph UKR 36.1 of Appendix Ukraine Scheme of the immigration rules”.
 
-## 6. Amendment to the 2009 Regulations[^key-397146ab1f45c60c87b84ed954d86102]
+## 6. Amendment to the 2009 Regulations[^c-397146ab1f45c60c87b84ed954d86102]
 
 Regulations 7 to 13 amend the 2009 Regulations.
 
-## 7. Amendment to regulation 2(1) (interpretation) to update references of the Ukraine Schemes[^key-f505a58df8e74737b48ee2d4be9c9f54]
+## 7. Amendment to regulation 2(1) (interpretation) to update references of the Ukraine Schemes[^c-f505a58df8e74737b48ee2d4be9c9f54]
 
 In regulation 2(1) (interpretation)—
 
@@ -96,7 +96,7 @@ In regulation 2(1) (interpretation)—
 - (b) in the definition of “person granted leave under the Ukraine Family Scheme”, in paragraph (a)(i), after “immigration rules”, insert “, as it had effect on the day such leave was granted”;
 - (c) in the definition of “person granted leave under the Ukraine Permission Extension Scheme”, in paragraph (a), for “the Ukraine Permission Extension Scheme” substitute “paragraph UKR 36.1 of Appendix Ukraine Scheme of the immigration rules”.
 
-## 8. Amendment of regulation 5 (eligible students) to allow overstayers satisfying the immigration rules to retain eligible student status[^key-2089e68e352ec749fcb975ac71471448]
+## 8. Amendment of regulation 5 (eligible students) to allow overstayers satisfying the immigration rules to retain eligible student status[^c-2089e68e352ec749fcb975ac71471448]
 
 In regulation 5 (eligible students)—
 
@@ -137,7 +137,7 @@ In regulation 5 (eligible students)—
 
   .
 
-## 9. Amendment of regulation 66 (current system students with full entitlement)[^key-6bbce1383de0decf0e9b2800f52f8c30]
+## 9. Amendment of regulation 66 (current system students with full entitlement)[^c-6bbce1383de0decf0e9b2800f52f8c30]
 
 In regulation 66(4) (current system students with full entitlement), substitute—
 
@@ -155,7 +155,7 @@ In regulation 66(4) (current system students with full entitlement), substitute�
 
 .
 
-## 10. Amendment of regulation 105 (eligible distance learning students) to allow overstayers satisfying the immigration rules to retain eligible student status[^key-5388cf4244297fb52ae6e6118e9c5851]
+## 10. Amendment of regulation 105 (eligible distance learning students) to allow overstayers satisfying the immigration rules to retain eligible student status[^c-5388cf4244297fb52ae6e6118e9c5851]
 
 In regulation 105 (eligible distance learning students)—
 
@@ -196,7 +196,7 @@ In regulation 105 (eligible distance learning students)—
 
   .
 
-## 11. Amendment of regulation 122 (eligible part-time students) to allow overstayers satisfying the immigration rules to retain eligible student status[^key-2390a44a1857f0b58a841857ba0f6373]
+## 11. Amendment of regulation 122 (eligible part-time students) to allow overstayers satisfying the immigration rules to retain eligible student status[^c-2390a44a1857f0b58a841857ba0f6373]
 
 In regulation 122 (eligible part-time students)—
 
@@ -237,7 +237,7 @@ In regulation 122 (eligible part-time students)—
 
   .
 
-## 12. Amendment of regulation 139 (eligible postgraduate students) to allow overstayers satisfying the immigration rules to retain eligible student status[^key-798bb74db698e0da6bf8bf463d833525]
+## 12. Amendment of regulation 139 (eligible postgraduate students) to allow overstayers satisfying the immigration rules to retain eligible student status[^c-798bb74db698e0da6bf8bf463d833525]
 
 In regulation 139 (eligible postgraduate students)—
 
@@ -278,7 +278,7 @@ In regulation 139 (eligible postgraduate students)—
 
   .
 
-## 13. Amendment of regulation 149 (eligible Master’s, etc. students) to allow overstayers satisfying the immigration rules to retain eligible student status[^key-376ea2ed75bc52becaddefcfcdb39ccf]
+## 13. Amendment of regulation 149 (eligible Master’s, etc. students) to allow overstayers satisfying the immigration rules to retain eligible student status[^c-376ea2ed75bc52becaddefcfcdb39ccf]
 
 In regulation 149 (eligible Master’s, etc. students)—
 
@@ -351,32 +351,32 @@ Regulation 9 amends the 2009 Regulations to update payment rate calculations for
 
 [^f00003]: Footnote: [S.I. 2005/1116](https://www.legislation.gov.uk/uksi/2005/1116) see Article 2(2) for definitions of “the Department”, “prescribed” and “regulations”.
 
-[^key-4d8fc4aed1f6560dd286d926d43b649d]: Commencement: Reg. 1 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-4d8fc4aed1f6560dd286d926d43b649d]: Commencement: Reg. 1 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-d1d0e3a8a28e7606a3ecc0445d76d001]: Commencement: Reg. 2 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-d1d0e3a8a28e7606a3ecc0445d76d001]: Commencement: Reg. 2 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2007 No. 328](https://www.legislation.gov.uk/nisr/2007/328) was amended by Order 2011/1043. S.R.s , 2011 Nos. [70](https://www.legislation.gov.uk/nisr/2011/70) and [376](https://www.legislation.gov.uk/nisr/2011/376), , , , 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and [and](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263).
 
 [^f00005]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373), amended by S.R.s , 2012 Nos. [62](https://www.legislation.gov.uk/nisr/2012/62) and [398](https://www.legislation.gov.uk/nisr/2012/398), 2013 Nos. [128](https://www.legislation.gov.uk/nisr/2013/128) and [223](https://www.legislation.gov.uk/nisr/2013/223), 2014 Nos. [97](https://www.legislation.gov.uk/nisr/2014/97) and [309](https://www.legislation.gov.uk/nisr/2014/309), , 2017 Nos. [7](https://www.legislation.gov.uk/nisr/2017/7) and [43](https://www.legislation.gov.uk/nisr/2017/43), , 2019 Nos.[35](https://www.legislation.gov.uk/nisr/2019/35) and [102](https://www.legislation.gov.uk/nisr/2019/102), , 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260), 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75), [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263), 2024 Nos. [19](https://www.legislation.gov.uk/nisr/2024/19) and [157](https://www.legislation.gov.uk/nisr/2024/157), and 2026 Nos. [56](https://www.legislation.gov.uk/nisr/2026/56) and [87](https://www.legislation.gov.uk/nisr/2026/87).
 
-[^key-f4e73b36432702b8bfbe4fe6aefb3830]: Commencement: Reg. 3 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-f4e73b36432702b8bfbe4fe6aefb3830]: Commencement: Reg. 3 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-1aa39e631b4e12ce7ba3466c8ea7db70]: Commencement: Reg. 4 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-1aa39e631b4e12ce7ba3466c8ea7db70]: Commencement: Reg. 4 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-489a5980c7fe72d33086657ac3f869e8]: Commencement: Reg. 5 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-489a5980c7fe72d33086657ac3f869e8]: Commencement: Reg. 5 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-397146ab1f45c60c87b84ed954d86102]: Commencement: Reg. 6 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-397146ab1f45c60c87b84ed954d86102]: Commencement: Reg. 6 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-f505a58df8e74737b48ee2d4be9c9f54]: Commencement: Reg. 7 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-f505a58df8e74737b48ee2d4be9c9f54]: Commencement: Reg. 7 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-2089e68e352ec749fcb975ac71471448]: Commencement: Reg. 8 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-2089e68e352ec749fcb975ac71471448]: Commencement: Reg. 8 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-6bbce1383de0decf0e9b2800f52f8c30]: Commencement: Reg. 9 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-6bbce1383de0decf0e9b2800f52f8c30]: Commencement: Reg. 9 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-5388cf4244297fb52ae6e6118e9c5851]: Commencement: Reg. 10 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-5388cf4244297fb52ae6e6118e9c5851]: Commencement: Reg. 10 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-2390a44a1857f0b58a841857ba0f6373]: Commencement: Reg. 11 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-2390a44a1857f0b58a841857ba0f6373]: Commencement: Reg. 11 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-798bb74db698e0da6bf8bf463d833525]: Commencement: Reg. 12 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-798bb74db698e0da6bf8bf463d833525]: Commencement: Reg. 12 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
 
-[^key-376ea2ed75bc52becaddefcfcdb39ccf]: Commencement: Reg. 13 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)
+[^c-376ea2ed75bc52becaddefcfcdb39ccf]: Commencement: Reg. 13 in operation at 24.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/136/regulation/1/1)

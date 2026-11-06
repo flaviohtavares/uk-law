@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14F. Meaning of “accepted employer”[^key-24b4a48e0293be1c22d775da0e3d92bd]
+## 14F. Meaning of “accepted employer”[^c-24b4a48e0293be1c22d775da0e3d92bd]
 
 *Extent: E+W+S*
 
@@ -24,12 +24,12 @@ An accepted employer in respect of transferred services is an employer other tha
 
 - (a) is a party to a contract for services with a contracting scheme employer under which at least one employee, on and after the fair deal transfer date, is an accepted member;
 - (b) is a party to a Participation Agreement; and
-- (c) is not the subject of a[^key-cacf586ead70af1917572ebe4bffc84c] written notice of cessation as an accepted employer under regulation 14H(1) [^key-dbb872616568a04f4c96dd0a39d34b71]....
+- (c) is not the subject of a[^c-cacf586ead70af1917572ebe4bffc84c] written notice of cessation as an accepted employer under regulation 14H(1) [^c-dbb872616568a04f4c96dd0a39d34b71]....
 
 ## Annotations
 
-[^key-24b4a48e0293be1c22d775da0e3d92bd]: Textual amendment: [Regs. 14A-14H](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A) inserted (1.4.2014) by [The Teachers’ Pensions (Amendment) Regulations 2014 (S.I. 2014/424)](https://www.legislation.gov.uk/uksi/2014/424), [regs. 1](https://www.legislation.gov.uk/uksi/2014/424/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/424/regulation/5)
+[^c-24b4a48e0293be1c22d775da0e3d92bd]: Textual amendment: [Regs. 14A-14H](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A) inserted (1.4.2014) by [The Teachers’ Pensions (Amendment) Regulations 2014 (S.I. 2014/424)](https://www.legislation.gov.uk/uksi/2014/424), [regs. 1](https://www.legislation.gov.uk/uksi/2014/424/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/424/regulation/5)
 
-[^key-cacf586ead70af1917572ebe4bffc84c]: Textual amendment: Words in [reg. 14F(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/14F/c) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/6/a)
+[^c-cacf586ead70af1917572ebe4bffc84c]: Textual amendment: Words in [reg. 14F(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/14F/c) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/6/a)
 
-[^key-dbb872616568a04f4c96dd0a39d34b71]: Textual amendment: Words in [reg. 14F(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/14F/c) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/6/b)
+[^c-dbb872616568a04f4c96dd0a39d34b71]: Textual amendment: Words in [reg. 14F(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/14F/c) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/2651/regulation/6/b)

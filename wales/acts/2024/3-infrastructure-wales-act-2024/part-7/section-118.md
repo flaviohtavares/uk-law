@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Restrictions on power to issue temporary stop notice[^key-a79a1aca3293e3583a8e5d6b4fc3aa91][^key-0936c2fc807e3e11258ab1affb320798]
+## 118. Restrictions on power to issue temporary stop notice[^c-a79a1aca3293e3583a8e5d6b4fc3aa91][^c-0936c2fc807e3e11258ab1affb320798]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a79a1aca3293e3583a8e5d6b4fc3aa91]: Commencement: S. 118 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-a79a1aca3293e3583a8e5d6b4fc3aa91]: Commencement: S. 118 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-0936c2fc807e3e11258ab1affb320798]: Commencement: [S. 118](https://www.legislation.gov.uk/asc/2024/3/section/118) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-0936c2fc807e3e11258ab1affb320798]: Commencement: [S. 118](https://www.legislation.gov.uk/asc/2024/3/section/118) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

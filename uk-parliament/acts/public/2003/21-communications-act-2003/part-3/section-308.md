@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Assistance for the visually impaired with the public teletext service[^key-1395859ee67dea88da65337b5bc24758]
+## 308. Assistance for the visually impaired with the public teletext service[^c-1395859ee67dea88da65337b5bc24758]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1395859ee67dea88da65337b5bc24758]: Textual amendment: [S. 308](https://www.legislation.gov.uk/ukpga/2003/21/section/308) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/53); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-1395859ee67dea88da65337b5bc24758]: Textual amendment: [S. 308](https://www.legislation.gov.uk/ukpga/2003/21/section/308) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 53](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/53); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

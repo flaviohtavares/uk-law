@@ -62,9 +62,9 @@ These Regulations come into force on the day after the day they are made.
 
 (3) Schedule 2 makes provision about the early years assistance that is to be given in connection with having, or expecting to have, a new baby in the family (referred to in these Regulations as “**pregnancy and baby grant**”).
 
-(4)[^key-c9b57d9dd3b0868be728a022cd48dffa] Schedule 3 makes provision about the early years assistance that is to be given in connection with a child aged between 2 and 3½ years (referred to in these Regulations as “early learning grant”).
+(4)[^c-c9b57d9dd3b0868be728a022cd48dffa] Schedule 3 makes provision about the early years assistance that is to be given in connection with a child aged between 2 and 3½ years (referred to in these Regulations as “early learning grant”).
 
-(5)[^key-76985a39b258e3b4ff3c282f09972c9b] Schedule 4 makes provision about the early years assistance that is to be given in connection with a child reaching the age at which children in Scotland usually start primary school (referred to in these Regulations as “school-age grant”).
+(5)[^c-76985a39b258e3b4ff3c282f09972c9b] Schedule 4 makes provision about the early years assistance that is to be given in connection with a child reaching the age at which children in Scotland usually start primary school (referred to in these Regulations as “school-age grant”).
 
 ## PART 2 — Interpretation
 
@@ -79,7 +79,7 @@ These Regulations come into force on the day after the day they are made.
   - (i) the day chosen by the Scottish Ministers in accordance with paragraph (3); or
   - (ii) the day the applicant nominates (or is deemed to have nominated) under regulation 5.
 
-(2)[^key-b49e5b228f25802af7f3065975153901] In a case where, by virtue of a paragraph of Part 2 of schedule 1, a determination is to be, or has been, made without an application, references in these Regulations to the day the application is made are to be read in accordance with that paragraph.
+(2)[^c-b49e5b228f25802af7f3065975153901] In a case where, by virtue of a paragraph of Part 2 of schedule 1, a determination is to be, or has been, made without an application, references in these Regulations to the day the application is made are to be read in accordance with that paragraph.
 
 (3) If, before making a determination on the basis of an application, the Scottish Ministers consider that the applicant—
 
@@ -130,17 +130,17 @@ the applicant may nominate any of those days under this regulation.
 
 - “**application window**” means—
   - (a) in relation to an application for a pregnancy and baby grant, the period that—
-    - (i) begins—[^key-37eb41d8f8388f94dcdd5e21596ff1dc]
+    - (i) begins—[^c-37eb41d8f8388f94dcdd5e21596ff1dc]
       - ((aa)) on the first day of the 24th week of the pregnancy that resulted, or is to result, in the birth of the child in question, or
       - ((bb)) in a case where the child is born before the 24th week of pregnancy is reached, on the day the child is born, and
     - (ii) ends with the deadline set by paragraph 2 of schedule 2;
-  - (b) in relation to an application for an early learning grant, the period described in paragraph 1(b) of schedule 3,[^key-b74c2dca30ad6a206f315c28eb51d480]
-  - (c) in relation to an application for a school-age grant, the period described in paragraph 2 of schedule 4,[^key-ef577d47226db278f41f4e0ce157b3ba]
+  - (b) in relation to an application for an early learning grant, the period described in paragraph 1(b) of schedule 3,[^c-b74c2dca30ad6a206f315c28eb51d480]
+  - (c) in relation to an application for a school-age grant, the period described in paragraph 2 of schedule 4,[^c-ef577d47226db278f41f4e0ce157b3ba]
 - “**backdated award**” means an award of assistance for a day, or a period that begins on a day, that falls before the day the decision to make the award was taken;
 - “**the relevant eligibility condition**” means—
   - (a) in relation to an application for a pregnancy and baby grant, the eligibility condition in paragraph 1(e) of schedule 2;
-  - (b) in relation to an application for an early learning grant, the eligibility condition in paragraph 1(f) of schedule 3,[^key-e8e90ab21f6bd97b97c0fa05479667f4]
-  - (c) in relation to an application for a school-age grant, the eligibility condition in paragraph 1(f) of schedule 4,[^key-16a20edbf4269d11ba18bd2165d4cd52]
+  - (b) in relation to an application for an early learning grant, the eligibility condition in paragraph 1(f) of schedule 3,[^c-e8e90ab21f6bd97b97c0fa05479667f4]
+  - (c) in relation to an application for a school-age grant, the eligibility condition in paragraph 1(f) of schedule 4,[^c-16a20edbf4269d11ba18bd2165d4cd52]
 - “**working day**” means a day other than—
   - (a) a Saturday;
   - (b) a Sunday; or
@@ -175,7 +175,7 @@ An individual is to be regarded as the partner of another individual on a day on
   - (i) normally lives with the child;
   - (ii) is under 20 years of age; and
   - (iii) is a dependant of another individual;
-- (c) the child is, on the day in question, treated in law as the child of the individual by virtue of an order under section 54 or section 54A[^key-6175128cce64ff0f85beaabfa79d73c5] of the Human Fertilisation and Embryology Act 2008 [^c23474421];
+- (c) the child is, on the day in question, treated in law as the child of the individual by virtue of an order under section 54 or section 54A[^c-6175128cce64ff0f85beaabfa79d73c5] of the Human Fertilisation and Embryology Act 2008 [^c23474421];
 - (d) the child is, on the day in question, treated in law as the child of the individual by reason of an adoption either—
   - (i) effected under the law of Scotland; or
   - (ii) effected under the law of another country or jurisdiction and recognised by the law of Scotland;
@@ -190,7 +190,7 @@ An individual is to be regarded as the partner of another individual on a day on
 - (c) an adoption agency within the meaning of section 2(1) of the Adoption and Children Act 2002 [^c23474451];
 - (d) an adoption agency within the meaning of article 3 of the Adoption (Northern Ireland) Order 1987 [^c23474461].
 
-(3)[^key-8ab421714ff2d9d66eb32672668e99b0] For the purpose of paragraph (1)(g), an individual is a kinship carer for a child on a day if—
+(3)[^c-8ab421714ff2d9d66eb32672668e99b0] For the purpose of paragraph (1)(g), an individual is a kinship carer for a child on a day if—
 
 - (a) the individual is—
   - (i) a person who is related to the child,
@@ -215,7 +215,7 @@ An individual is to be regarded as the partner of another individual on a day on
 
 #### 10. Meaning of “dependant”
 
-(1)[^key-7fd104290ce02d6312f90d70160cffc7] An individual (“person A”) is to be regarded as a dependant of another individual (“person B”) on a day only if—
+(1)[^c-7fd104290ce02d6312f90d70160cffc7] An individual (“person A”) is to be regarded as a dependant of another individual (“person B”) on a day only if—
 
 - (a) paragraph (1A) applies, or
 - (b) on that day person B is a kinship carer for person A.
@@ -223,15 +223,15 @@ An individual is to be regarded as the partner of another individual on a day on
 (1A) This paragraph applies if—
 
 - (a) person B has been awarded—
-  - (i) [^key-a56ee6e9c9833b32e90dc24ab5cce463]... child benefit or state pension credit for the day in question (or for a period that includes that day), or
+  - (i) [^c-a56ee6e9c9833b32e90dc24ab5cce463]... child benefit or state pension credit for the day in question (or for a period that includes that day), or
   - (ii) universal credit for—
     - (aa) the assessment period that includes the day in question, or
     - (bb) the assessment period that ended immediately before the assessment period mentioned in head (aa) started, and
 - (b) person A is recognised to be a child or young person for whom person B has responsibility in terms of that award of assistance.
 
-(2) It is immaterial for the purpose of this regulation that the award of assistance to person B referred to in paragraph (1A)[^key-b4671c0876f74b65c7f74f137c13529f] does not include any amount in respect of person A due to a rule that restricts the number of dependants in respect of whom person B can be given that type of assistance.
+(2) It is immaterial for the purpose of this regulation that the award of assistance to person B referred to in paragraph (1A)[^c-b4671c0876f74b65c7f74f137c13529f] does not include any amount in respect of person A due to a rule that restricts the number of dependants in respect of whom person B can be given that type of assistance.
 
-(3)[^key-8f848ceba60b359657bb6b57f7fa0860] In this regulation, “kinship carer” has the meaning given in regulation 9(3).
+(3)[^c-8f848ceba60b359657bb6b57f7fa0860] In this regulation, “kinship carer” has the meaning given in regulation 9(3).
 
 ### Expressions about social security assistance
 
@@ -239,13 +239,13 @@ An individual is to be regarded as the partner of another individual on a day on
 
 References in these Regulations to a kind of assistance specified in this regulation are to the following:—
 
-- (a)[^key-ed8ee663a122574cf419d5456f6665ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ed8ee663a122574cf419d5456f6665ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) housing benefit;
 - (c) income-based jobseeker's allowance;
 - (d) income-related employment and support allowance;
 - (e) income support;
 - (f) state pension credit;
-- (g)[^key-9cdd2fa6fc5cdacae7d36b5a798abbd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-9cdd2fa6fc5cdacae7d36b5a798abbd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 12. Meaning of references to assistance being awarded
 
@@ -289,8 +289,8 @@ The period for requesting a re-determination of entitlement to early years assis
 
 (1) In relation to determining entitlement to early years assistance, the period allowed for re-determination (within the meaning of section 43 of the Social Security (Scotland) Act 2018) is 16 working days beginning with—
 
-- (a)[^key-42b977f7df3ce2b14d875462a20f6bd4] the day that the request for a re-determination is received by the Scottish Ministers, [^key-44d1bed185c0fa033b2a638849c2f7c7]...
-- (b) in a case where the request for a re-determination is received by the Scottish Ministers outwith the period prescribed in paragraph 1, the day on which it is decided by the Scottish Ministers or (as the case may be) the First-tier Tribunal for Scotland that the individual in question has a good reason for not requesting a re-determination sooner , or[^key-d14e8f8ef5383cf47149ccd2223f8ffe]
+- (a)[^c-42b977f7df3ce2b14d875462a20f6bd4] the day that the request for a re-determination is received by the Scottish Ministers, [^c-44d1bed185c0fa033b2a638849c2f7c7]...
+- (b) in a case where the request for a re-determination is received by the Scottish Ministers outwith the period prescribed in paragraph 1, the day on which it is decided by the Scottish Ministers or (as the case may be) the First-tier Tribunal for Scotland that the individual in question has a good reason for not requesting a re-determination sooner , or[^c-d14e8f8ef5383cf47149ccd2223f8ffe]
 - (c) in a case where the Scottish Ministers have informed the individual of their decision that the request for a re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-Tier Tribunal for Scotland that the individual in question has made the request in such form as the Scottish Ministers require.
 
 (2) For the purpose of this paragraph, a “working day” is a day other than—
@@ -318,14 +318,14 @@ The period for requesting a re-determination of entitlement to early years assis
 
 (5) A determination is not to be made on the basis of the assumption set out in sub-paragraph (4) if, and to the extent that, the Scottish Ministers have information suggesting the assumption is unsound.
 
-(5A)[^key-acf704c35e2be4b1d4112ed3cb6ed227] Where a determination is to be, or has been, made without an application by virtue of this paragraph, references in these Regulations to the day the application is made are to be read as references to the day the determination is made.
+(5A)[^c-acf704c35e2be4b1d4112ed3cb6ed227] Where a determination is to be, or has been, made without an application by virtue of this paragraph, references in these Regulations to the day the application is made are to be read as references to the day the determination is made.
 
 (6) In this paragraph, “**the available information**” means—
 
 - (a) the information provided in the application referred to in sub-paragraph (2)(a); and
 - (b) any other information obtained by the Scottish Ministers in connection with that application.
 
-#### 4. Determination following official error[^key-7f932d9aaa263049a794a4cabb5285ec]
+#### 4. Determination following official error[^c-7f932d9aaa263049a794a4cabb5285ec]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to a best start grant in connection with a child (without receiving an application) where—
 
@@ -366,7 +366,7 @@ The period for requesting a re-determination of entitlement to early years assis
 
 (4) In this paragraph, “best start grant” means one of the forms of early years assistance mentioned in regulation 3 and “backdated award” has the same meaning as in regulation 5.
 
-#### 5A. Determination following award of Scottish child payment[^key-58e847911d822e3ea9b02ee4c4e6da53]
+#### 5A. Determination following award of Scottish child payment[^c-58e847911d822e3ea9b02ee4c4e6da53]
 
 (1) The Scottish Ministers are to make a determination of an individual’s entitlement to an early learning grant or a school-age grant in connection with a child (without receiving an application) where the circumstances described in sub-paragraph (2) are met.
 
@@ -392,7 +392,7 @@ The period for requesting a re-determination of entitlement to early years assis
   - (ii) any other information obtained by the Scottish Ministers in connection with that application, and
   - (iii) any other information available to them that is relevant to their consideration of whether the individual is entitled to an early learning grant or a school-age grant.
 
-### PART 3 — Competing Claims[^key-aa618f359068a5a278e1f59932bbb3a7]
+### PART 3 — Competing Claims[^c-aa618f359068a5a278e1f59932bbb3a7]
 
 #### 6. Multiple applications in respect of the same child
 
@@ -402,7 +402,7 @@ The period for requesting a re-determination of entitlement to early years assis
 
 (3) The rules are that—
 
-- (a) where only one individual has been awarded [^key-155ad781a7d780f66346bb505bfc6e36]... state pension credit or universal credit for the day, or assessment period that includes the day, in question (and the child is recognised to be a child for whom the individual has responsibility in terms of that award of assistance), unless the Scottish Ministers decide otherwise in pursuance of the rule in sub-paragraph (5), that individual is entitled to early years assistance,
+- (a) where only one individual has been awarded [^c-155ad781a7d780f66346bb505bfc6e36]... state pension credit or universal credit for the day, or assessment period that includes the day, in question (and the child is recognised to be a child for whom the individual has responsibility in terms of that award of assistance), unless the Scottish Ministers decide otherwise in pursuance of the rule in sub-paragraph (5), that individual is entitled to early years assistance,
 - (b) where none of the individuals have been awarded assistance as described in sub-paragraph (3)(a), and only one individual has been awarded child benefit for the day in question (and the child is recognised to be a child for whom the individual has responsibility in terms of that award of assistance), that individual is entitled to early years assistance,
 - (c) where the individuals are kinship carers for the child, and none of them have been awarded any kind of assistance as described in sub-paragraph (3)(a) or (3)(b), the individual whose determination is to be made first is entitled to early years assistance,
 - (d) where one individual has been awarded child benefit for the day in question, and another individual is a kinship carer for the child, the individual who is the kinship carer for the child is entitled to early years assistance.
@@ -427,7 +427,7 @@ Regulation 3(3)
 An individual is eligible for a pregnancy and baby grant in respect of a child if—
 
 - (a) the individual's application for the grant is made before the deadline set by paragraph 2 (see regulation 4 in relation to when an application is to be treated as made);
-- (aa)[^key-6b1fa6debc871850bdeb8d180ea6b70a] the individual has not received, and is not due to receive, a sure start maternity grant in respect of the child,
+- (aa)[^c-6b1fa6debc871850bdeb8d180ea6b70a] the individual has not received, and is not due to receive, a sure start maternity grant in respect of the child,
 - (b) no-one else has received, or is due to receive, a pregnancy and baby grant or sure start maternity grant in respect of the child (but see paragraph 3);
 - (c) on the day the application is made the individual satisfies the residence requirement set by paragraph 4;
 - (d) at least one of these statements is true on the day the application is made—
@@ -436,7 +436,7 @@ An individual is eligible for a pregnancy and baby grant in respect of a child i
     - (bb) gave birth to the child before or during the 24th week of the pregnancy;
   - (ii) the individual is the partner of the person described by head (i);
   - (iii) the person described by head (i) is a dependant of the individual or the individual's partner (or both of them);
-  - (iv) either the individual or the individual's partner is (or both of them are) responsible for the child on the day the application is made; and[^key-68307de5e7652316dea267f511506769]
+  - (iv) either the individual or the individual's partner is (or both of them are) responsible for the child on the day the application is made; and[^c-68307de5e7652316dea267f511506769]
 - (e) at least one of these statements is true—
   - (i) the individual or the individual's partner has (or both of them have) been awarded, for the day the application is made (or for a period which includes that day), assistance of a kind specified in regulation 11;
   - (ii) the individual or the individual's partner has (or both of them have) been awarded universal credit for—
@@ -445,8 +445,8 @@ An individual is eligible for a pregnancy and baby grant in respect of a child i
   - (iii) on the day the application is made the individual is under 18 years of age;
   - (iv) on the day the application is made the individual is—
     - (aa) 18 or 19 years of age; and
-    - (bb) a dependant of another individual; [^key-f346ed538ff913563625ba0474b642f5]...
-- (f)[^key-cfe024e83b749e0eb2abaea7f4b50980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) a dependant of another individual; [^c-f346ed538ff913563625ba0474b642f5]...
+- (f)[^c-cfe024e83b749e0eb2abaea7f4b50980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 2. Deadline for applying
 
@@ -476,18 +476,18 @@ An individual is eligible for a pregnancy and baby grant in respect of a child i
 - (a) a pregnancy and baby grant; or
 - (b) a sure start maternity grant.
 
-(3) Another individual (“**the applicant**”) is[^key-e6831f697b50555e268951b206470537] responsible for the child .[^key-d43a7d0939791848ad5aa639e5d990f8]
+(3) Another individual (“**the applicant**”) is[^c-e6831f697b50555e268951b206470537] responsible for the child .[^c-d43a7d0939791848ad5aa639e5d990f8]
 
-- (a)[^key-2d304ca016d209740de7a8a8b7baf038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-2d304ca016d209740de7a8a8b7baf038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2d304ca016d209740de7a8a8b7baf038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2d304ca016d209740de7a8a8b7baf038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Since the first grant recipient applied for a pregnancy and baby grant or a sure start maternity grant in respect of the child[^key-c851c92d90dfb3496e0b544107114b0c] [^key-e7073692c801644ab1879d49012319d6]... the applicant has not been—
+(4) Since the first grant recipient applied for a pregnancy and baby grant or a sure start maternity grant in respect of the child[^c-c851c92d90dfb3496e0b544107114b0c] [^c-e7073692c801644ab1879d49012319d6]... the applicant has not been—
 
 - (a) the partner of the first grant recipient;
 - (b) a dependant of the first grant recipient; or
 - (c) an individual, or the partner of an individual, for whom the first grant recipient is a dependant.
 
-(4A)[^key-7adfbfc030d0ddaddad58890302081eb] On the day the applicant’s application for a pregnancy and baby grant in respect of the child is made, the child does not normally live with the first grant recipient.
+(4A)[^c-7adfbfc030d0ddaddad58890302081eb] On the day the applicant’s application for a pregnancy and baby grant in respect of the child is made, the child does not normally live with the first grant recipient.
 
 (5) On the day the applicant's application for a pregnancy and baby grant in respect of the child is made, no-one other than the first grant recipient has been, or is due to be, given a pregnancy and baby grant or a sure start maternity grant in respect of that child.
 
@@ -500,34 +500,34 @@ An individual is eligible for a pregnancy and baby grant in respect of a child i
 
 (2) The condition referred to in sub-paragraph (1)(b) is met on any day that the individual is—
 
-- (a) habitually resident in the United Kingdom, the Channel Islands[^key-7a75fd7eab965ce9ff4a95398100cafb] or the Isle of Man[^key-281a54e510ab6bcba84d2fead216f489];
-- (aa)[^key-f4965c439a6091d18012b5c4081f40eb][^key-061a06da26eebba7000f29e81b44b931] a person who, or has a partner who, is habitually resident in the European Economic Area or Switzerland and has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
+- (a) habitually resident in the United Kingdom, the Channel Islands[^c-7a75fd7eab965ce9ff4a95398100cafb] or the Isle of Man[^c-281a54e510ab6bcba84d2fead216f489];
+- (aa)[^c-f4965c439a6091d18012b5c4081f40eb][^c-061a06da26eebba7000f29e81b44b931] a person who, or has a partner who, is habitually resident in the European Economic Area or Switzerland and has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
   - (i) is a qualified person within the meaning of regulation 6(1)(a) (jobseeker), (b) (worker), (c) (self-employed person), (d) (self-sufficient person) or (e) (student) of the Immigration (European Economic Area) Regulations 2016 (the EEA Regulations);
   - (ii) retains the status referred to in sub-head (i) pursuant to regulation 6(2) or (4) of the EEA Regulations;
   - (iii) is a family member of a person referred to in sub-head (i) or (ii) within the meaning of regulation 7(1) of the EEA Regulations;
   - (iv) has a right to reside permanently in the United Kingdom by virtue of regulation 15(1) of the EEA Regulations; or
   - (v) has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act;
-- (aaa)[^key-bdffaecfec5c4459ddbe4aca42430e48] a person who has made a valid application for indefinite or limited leave to enter, or remain in, the United Kingdom under the EU Settlement Scheme and that application is pending a final decision,
+- (aaa)[^c-bdffaecfec5c4459ddbe4aca42430e48] a person who has made a valid application for indefinite or limited leave to enter, or remain in, the United Kingdom under the EU Settlement Scheme and that application is pending a final decision,
 - (aab) a person who is a family member within the meaning of Article 9 of the EU withdrawal agreement,
-- (ab)[^key-781e9c9af2b086b3b7b83f4276314dfb] a person who—
-  - (i) has[^key-e10f959006acb0e8d1842168445d0b1e] leave to enter or remain in the United Kingdom granted under the immigration rules made under section 3(2) of the Immigration Act 1971, by virtue of—
+- (ab)[^c-781e9c9af2b086b3b7b83f4276314dfb] a person who—
+  - (i) has[^c-e10f959006acb0e8d1842168445d0b1e] leave to enter or remain in the United Kingdom granted under the immigration rules made under section 3(2) of the Immigration Act 1971, by virtue of—
     - (ia) the Afghan Relocations and Assistance Policy, or
     - (ib) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme),
   - (ii) has been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-head (i), or
   - (iii) has leave granted under the Afghan Citizens Resettlement Scheme;
-- (ac)[^key-8ea3614821f73ccc8f4071781d109ffe] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
-  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^key-08693bcb23d7838d9be27872af9296e3]...
-  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act , or[^key-955b23a4700e944f3b06843f26f8446a]
-  - (iii)[^key-2b779ab5d570162cd33f944ffeb10b07] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (ad)[^key-6d9b259fa2ee7b6ce9cedff208261a81] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
+- (ac)[^c-8ea3614821f73ccc8f4071781d109ffe] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
+  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^c-08693bcb23d7838d9be27872af9296e3]...
+  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act , or[^c-955b23a4700e944f3b06843f26f8446a]
+  - (iii)[^c-2b779ab5d570162cd33f944ffeb10b07] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+- (ad)[^c-6d9b259fa2ee7b6ce9cedff208261a81] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
   - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act
-- (ae)[^key-1800b6406f8a50753e328f0bd6b014dd] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack and—
+- (ae)[^c-1800b6406f8a50753e328f0bd6b014dd] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack and—
   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
   - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (af)[^key-df47a0e473f0bde49c4559811d9f7938] a person who—
+- (af)[^c-df47a0e473f0bde49c4559811d9f7938] a person who—
   - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
   - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date,
   - (iii) arrived in the United Kingdom on or before 13 December 2025, and
@@ -535,7 +535,7 @@ An individual is eligible for a pregnancy and baby grant in respect of a child i
     - (aa) has been granted leave to enter or remain in the United Kingdom under or outside the immigration rules made under section 3(2) of the Immigration Act 1971,
     - (bb) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
     - (cc) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (ag)[^key-aa417f2519644cdd59907bab9011f050] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
+- (ag)[^c-aa417f2519644cdd59907bab9011f050] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
   - (i) was residing in a country or territory outside of the United Kingdom,
   - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
   - (iii) arrived in the United Kingdom in the first 26 weeks beginning on the date on which—
@@ -543,13 +543,13 @@ An individual is eligible for a pregnancy and baby grant in respect of a child i
     - (bb) the evacuation is started,
 - (ah) a person who, as part of a safe and legal humanitarian immigration route, has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of those rules,
 - (b) a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28th July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31st January 1967;
-- (c) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971 [^c23474551], [^key-80867c18b72fbf76639da9a790f39b99]...
+- (c) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971 [^c23474551], [^c-80867c18b72fbf76639da9a790f39b99]...
 - (d) a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971; or
 - (e) a person who—
   - (i) is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 [^c23474571]; and
   - (ii) is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.
 
-(3)[^key-9f0a7dbe1b0d39abfe3af4ff49959093] In this paragraph, “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
+(3)[^c-9f0a7dbe1b0d39abfe3af4ff49959093] In this paragraph, “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
 
 ### PART 2 — Assistance to be given
 
@@ -564,8 +564,8 @@ The value of a pregnancy and baby grant is—
 
 (1) The basic amount is―
 
-- (a) £796.65[^key-1bd6fc06e80e4e5145c194e60f533c57] if sub-paragraph (2) applies in relation to the child in respect of whom the grant is to be given; or
-- (b) £398.35[^key-2481c6e2129921b63b59ebb6180a7b53] if it does not.
+- (a) £796.65[^c-1bd6fc06e80e4e5145c194e60f533c57] if sub-paragraph (2) applies in relation to the child in respect of whom the grant is to be given; or
+- (b) £398.35[^c-2481c6e2129921b63b59ebb6180a7b53] if it does not.
 
 (2) This sub-paragraph applies in relation to the child (subject to sub-paragraph (3)) if, on the day the application for the grant is made—
 
@@ -575,15 +575,15 @@ The value of a pregnancy and baby grant is—
   - (ii) a sibling of the child born as a result of the same pregnancy that resulted in the child's birth;
   - (iii) a parent of the child;
   - (iv) a sibling of a parent of the child;
-  - (v)[^key-3ea9e396458564e1572eb79efb868fe8] a child for whom neither the individual nor their partner is responsible,
-  - (vi)[^key-0f40d1fcdbd0983101fdcf73468fd174] a child in any one of the circumstances described in sub-paragraph (4), (5) or (6)
+  - (v)[^c-3ea9e396458564e1572eb79efb868fe8] a child for whom neither the individual nor their partner is responsible,
+  - (vi)[^c-0f40d1fcdbd0983101fdcf73468fd174] a child in any one of the circumstances described in sub-paragraph (4), (5) or (6)
 
 (3) Where more than one child is born, or is to be born, as a result of the same pregnancy—
 
 - (a) sub-paragraph (2) applies in relation to only one of the children; and
 - (b) it is for the Scottish Ministers to decide which.
 
-(4)[^key-a278629537170b778a2d3902c68b0932] The circumstance referred to in sub-paragraph (2)(b)(vi) is that—
+(4)[^c-a278629537170b778a2d3902c68b0932] The circumstance referred to in sub-paragraph (2)(b)(vi) is that—
 
 - (a) the child mentioned in sub-paragraph (2)(b)(vi) was, at the time of that child’s birth, not a child of the—
   - (i) individual to whom the grant is to be given, or
@@ -604,8 +604,8 @@ The value of a pregnancy and baby grant is—
   - (iv) a person with leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the 1971 Act, or with a right of abode in the United Kingdom within the meaning of section 2 of that Act or who does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of the Act, where the person—
     - (aa) was residing in Ukraine immediately before 1 January 2022, and
     - (bb) left Ukraine in connection with the Russian invasion which took place on 24 February 2022,
-  - (v) a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967, [^key-d9d58d6d9556183ce9b72b26cabbe8d1]...
-  - (vi) a person who has humanitarian protection granted under the rules made under section 3(2) of the 1971 Act, or[^key-8f44d0c91067267bc3c4fabf20d8bca7]
+  - (v) a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967, [^c-d9d58d6d9556183ce9b72b26cabbe8d1]...
+  - (vi) a person who has humanitarian protection granted under the rules made under section 3(2) of the 1971 Act, or[^c-8f44d0c91067267bc3c4fabf20d8bca7]
   - (vii) a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
     - (aa) was residing in a country or territory outside of the United Kingdom,
     - (bb) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
@@ -614,11 +614,11 @@ The value of a pregnancy and baby grant is—
       - (B) the evacuation is started, or
   - (viii) a person who, as part of a safe and legal humanitarian immigration route, has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of those rules.
 
-(7) In sub-paragraph (6)[^key-1b1cf1bd1e7dec4e776393914aaa5f79] “**the Afghan Citizens Resettlement Scheme**” has the same meaning as in paragraph 4.
+(7) In sub-paragraph (6)[^c-1b1cf1bd1e7dec4e776393914aaa5f79] “**the Afghan Citizens Resettlement Scheme**” has the same meaning as in paragraph 4.
 
 #### 7. Multiple pregnancy supplement
 
-(1) Subject to sub-paragraphs (2) and (3) a supplement of £398.35[^key-07bb0429ea9a4b00e6ffa0a80e98cec6] is to be added to the basic amount in respect of a child born, or to be born, as a result of a multiple pregnancy.
+(1) Subject to sub-paragraphs (2) and (3) a supplement of £398.35[^c-07bb0429ea9a4b00e6ffa0a80e98cec6] is to be added to the basic amount in respect of a child born, or to be born, as a result of a multiple pregnancy.
 
 (2) The supplement is to be added to the grant in respect of only one of the children born, or to be born, as a result of the pregnancy, and it is for the Scottish Ministers to decide which child's grant to supplement.
 
@@ -660,7 +660,7 @@ In this schedule, “**sure start maternity grant**” means a payment under—
 - (a) regulation 5(1) of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005 [^c23474591]; or
 - (b) regulation 5(1) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 [^c23474601].
 
-#### 11. Meaning of “domestic abuse”[^key-ebc75bd4ebedb34f61a1c17dc6f69858]
+#### 11. Meaning of “domestic abuse”[^c-ebc75bd4ebedb34f61a1c17dc6f69858]
 
 (1) Subject to sub-paragraph (3), in this schedule, “**domestic abuse**” means abusive behaviour within the meaning of sections 2 and 3 of the Domestic Abuse (Protection) (Scotland) Act 2021 (“**the 2021 Act**”).
 
@@ -715,7 +715,7 @@ as well as behaviour in a personal or direct manner.
 - (a) spouses or civil partners of each other, or
 - (b) in an intimate personal relationship with each other.
 
-## SCHEDULE 3 — Early learning grant[^key-16c59ba7548832478db5f599d60482c2]
+## SCHEDULE 3 — Early learning grant[^c-16c59ba7548832478db5f599d60482c2]
 
 Regulation 3(4)
 
@@ -731,7 +731,7 @@ An individual is eligible for an early learning grant in respect of a child if�
   - (ii) ends at the end of the day that falls 6 months after the child’s 3rd birthday,
 - (c) no-one else has received, or is due to receive, an early learning grant in respect of the child (but see paragraph 2),
 - (d) on the day the application is made the individual satisfies the residence requirement set by paragraph 3,
-- (e) either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made, and[^key-e75f834c06baf2bea6f2bd291d30f6cf]
+- (e) either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made, and[^c-e75f834c06baf2bea6f2bd291d30f6cf]
 - (f) at least one of these statements is true—
   - (i) the individual or the individual’s partner has (or both of them have) been awarded, for the day the application is made (or for a period which includes that day), assistance of a kind specified in regulation 11,
   - (ii) the individual or the individual’s partner has (or both of them have) been awarded universal credit for—
@@ -740,8 +740,8 @@ An individual is eligible for an early learning grant in respect of a child if�
   - (iii) on the day the application is made the individual is under 18 years of age,
   - (iv) on the day the application is made the individual is—
     - (aa) 18 or 19 years of age, and
-    - (bb) a dependant of another individual, [^key-d47981570520cc8f6d12d1846dc6d1e7]...
-- (g)[^key-153b6c6e1bfc6ab73cca3c8821c9f27d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) a dependant of another individual, [^c-d47981570520cc8f6d12d1846dc6d1e7]...
+- (g)[^c-153b6c6e1bfc6ab73cca3c8821c9f27d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 2. Exception to paragraph 1(c)
 
@@ -749,10 +749,10 @@ An individual is eligible for an early learning grant in respect of a child if�
 
 (2) An individual (“the first grant recipient”) has been, or is due to be, given an early learning grant in respect of the child.
 
-(3) Another individual (“the applicant”) is[^key-c65f4ddf1b32d4e1ea8660f8fe00aaaa] responsible for the child .[^key-dee11e35d5aff5d4884d0db86124d92e]
+(3) Another individual (“the applicant”) is[^c-c65f4ddf1b32d4e1ea8660f8fe00aaaa] responsible for the child .[^c-dee11e35d5aff5d4884d0db86124d92e]
 
-- (a)[^key-f49f118a65cc2b1f2f960c695d6cd967] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-f49f118a65cc2b1f2f960c695d6cd967] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f49f118a65cc2b1f2f960c695d6cd967] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f49f118a65cc2b1f2f960c695d6cd967] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The applicant has not been the partner of the first grant recipient at any time since the first grant recipient applied for an early learning grant in respect of the child.
 
@@ -771,34 +771,34 @@ An individual is eligible for an early learning grant in respect of a child if�
 
 (2) The condition referred to in sub-paragraph (1)(b) is met on any day that the individual is—
 
-- (a) habitually resident in the United Kingdom, the Channel Islands or the Isle of Man[^key-3406a95f67f2350dcab310c2bcf55efa],
-- (aa)[^key-b1dd0d322bcc711433f38d414215d6a7][^key-6afaeeb738d0ff01f910599e48c6b9ba] a person who, or has a partner who, is habitually resident in the European Economic Area or Switzerland and has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
+- (a) habitually resident in the United Kingdom, the Channel Islands or the Isle of Man[^c-3406a95f67f2350dcab310c2bcf55efa],
+- (aa)[^c-b1dd0d322bcc711433f38d414215d6a7][^c-6afaeeb738d0ff01f910599e48c6b9ba] a person who, or has a partner who, is habitually resident in the European Economic Area or Switzerland and has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
   - (i) is a qualified person within the meaning of regulation 6(1)(a) (jobseeker), (b) (worker), (c) (self-employed person), (d) (self-sufficient person) or (e) (student) of the Immigration (European Economic Area) Regulations 2016 (the EEA Regulations);
   - (ii) retains the status referred to in sub-head (i) pursuant to regulation 6(2) or (4) of the EEA Regulations;
   - (iii) is a family member of a person referred to in sub-head (i) or (ii) within the meaning of regulation 7(1) of the EEA Regulations;
   - (iv) has a right to reside permanently in the United Kingdom by virtue of regulation 15(1) of the EEA Regulations; or
   - (v) has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act,
-- (aaa)[^key-8474b43877489a9c6a07a7ff7248ec44] a person who has made a valid application for indefinite or limited leave to enter, or remain in, the United Kingdom under the EU Settlement Scheme and that application is pending a final decision,
+- (aaa)[^c-8474b43877489a9c6a07a7ff7248ec44] a person who has made a valid application for indefinite or limited leave to enter, or remain in, the United Kingdom under the EU Settlement Scheme and that application is pending a final decision,
 - (aab) a person who is a family member within the meaning of Article 9 of the EU withdrawal agreement,
-- (ab)[^key-96e5ada79e9ee9f9b963038cb4b10814] a person who—
+- (ab)[^c-96e5ada79e9ee9f9b963038cb4b10814] a person who—
   - (i) has leave to enter or remain in the United Kingdom granted under the immigration rules made under section 3(2) of the Immigration Act 1971, by virtue of—
     - (ia) the Afghan Relocations and Assistance Policy, or
     - (ib) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme),
   - (ii) has been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-head (i), or
   - (iii) has leave granted under the Afghan Citizens Resettlement Scheme,
-- (ac)[^key-6d7a475c054a27c8d296768fc163849e] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
-  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^key-b3632b47b81efe0310f3c26ffdc399e8]...
-  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act , or[^key-1f1e6bc778511d113d465843ea0c5072]
-  - (iii)[^key-66960fd4332fac1b2e0c9603ab1fe592] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (ad)[^key-e831cebbe45796d7adc4f086720c6d81] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
+- (ac)[^c-6d7a475c054a27c8d296768fc163849e] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
+  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^c-b3632b47b81efe0310f3c26ffdc399e8]...
+  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act , or[^c-1f1e6bc778511d113d465843ea0c5072]
+  - (iii)[^c-66960fd4332fac1b2e0c9603ab1fe592] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+- (ad)[^c-e831cebbe45796d7adc4f086720c6d81] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
   - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act
-- (ae)[^key-3403459d5fa7ca263de707e3211edc82] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated the region following the attack and—
+- (ae)[^c-3403459d5fa7ca263de707e3211edc82] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated the region following the attack and—
   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
   - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (af)[^key-188575c05518b69894b2826795c1ee37] a person who—
+- (af)[^c-188575c05518b69894b2826795c1ee37] a person who—
   - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
   - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date,
   - (iii) arrived in the United Kingdom on or before 13 December 2025, and
@@ -806,7 +806,7 @@ An individual is eligible for an early learning grant in respect of a child if�
     - (aa) has been granted leave to enter or remain in the United Kingdom under or outside the immigration rules made under section 3(2) of the Immigration Act 1971,
     - (bb) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
     - (cc) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (ag)[^key-e4feccd1b6c274ef8ec4f45980139945] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
+- (ag)[^c-e4feccd1b6c274ef8ec4f45980139945] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
   - (i) was residing in a country or territory outside of the United Kingdom,
   - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
   - (iii) arrived in the United Kingdom in the first 26 weeks beginning on the date on which—
@@ -814,19 +814,19 @@ An individual is eligible for an early learning grant in respect of a child if�
     - (bb) the evacuation is started,
 - (ah) a person who, as part of a safe and legal humanitarian immigration route, has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of those rules,
 - (b) a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967,
-- (c) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971, [^key-4ee3d7fa1e3c0bba1711caf41995e211]...
+- (c) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971, [^c-4ee3d7fa1e3c0bba1711caf41995e211]...
 - (d) a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971,
 - (e) a person who—
   - (i) is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999, and
   - (ii) is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.
 
-(3)[^key-fbc518e72456ec1e48757254f436bd43] In this paragraph “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
+(3)[^c-fbc518e72456ec1e48757254f436bd43] In this paragraph “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
 
 ### PART 2 — Assistance to be given
 
 #### 4. Value of grant
 
-The value of an early learning grant is £331.95[^key-61724a7ad4c14c65ebd8ae86e20746ee].
+The value of an early learning grant is £331.95[^c-61724a7ad4c14c65ebd8ae86e20746ee].
 
 #### 5. Form in which grant is given
 
@@ -839,7 +839,7 @@ The value of an early learning grant is £331.95[^key-61724a7ad4c14c65ebd8ae86e2
 
 the grant is to be given in that form, unless the individual withdraws agreement before the grant is given.
 
-## SCHEDULE 4 — School-age grant[^key-6c26c2d1430ed34897442197c8cf7da9]
+## SCHEDULE 4 — School-age grant[^c-6c26c2d1430ed34897442197c8cf7da9]
 
 Regulation 3(5)
 
@@ -853,7 +853,7 @@ An individual is eligible for a school-age grant in respect of a child if—
 - (b) the individual’s application for the grant is made within the period described in paragraph 2,
 - (c) no-one else has received, or is due to receive, a school-age grant in respect of the child (but see paragraph 3),
 - (d) on the day the application is made the individual satisfies the residence requirement set by paragraph 4,
-- (e) either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made, and[^key-0debb637eee90eb0baa6441b9fe8fca6]
+- (e) either the individual or the individual’s partner is (or both of them are) responsible for the child on the day the application is made, and[^c-0debb637eee90eb0baa6441b9fe8fca6]
 - (f) at least one of these statements is true—
   - (i) the individual or the individual’s partner has (or both of them have) been awarded, for the day the application is made (or for a period which includes that day), assistance of a kind specified in regulation 11,
   - (ii) the individual or the individual’s partner has (or both of them have) been awarded universal credit for—
@@ -862,8 +862,8 @@ An individual is eligible for a school-age grant in respect of a child if—
   - (iii) on the day the application is made the individual is under 18 years of age,
   - (iv) on the day the application is made the individual is—
     - (aa) 18 or 19 years of age, and
-    - (bb) a dependant of another individual, [^key-6a2c9d41cb44773070ab8aedee6978a9]...
-- (g)[^key-44407099a1b644f600209579d84aa7d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) a dependant of another individual, [^c-6a2c9d41cb44773070ab8aedee6978a9]...
+- (g)[^c-44407099a1b644f600209579d84aa7d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 2. Period within which application must be made
 
@@ -883,10 +883,10 @@ An individual is eligible for a school-age grant in respect of a child if—
 
 (2) An individual (“the first grant recipient”) has been, or is due to be, given a school-age grant in respect of the child.
 
-(3) Another individual (“the applicant”) is[^key-e8bc6b6ac252ff7d236f02d3dbb0fa2c] responsible for the child .[^key-bf4d20c52d14afc8d68ae9f37547763d]
+(3) Another individual (“the applicant”) is[^c-e8bc6b6ac252ff7d236f02d3dbb0fa2c] responsible for the child .[^c-bf4d20c52d14afc8d68ae9f37547763d]
 
-- (a)[^key-c7ba826fd7841d27851fe37fc76bc316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c7ba826fd7841d27851fe37fc76bc316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c7ba826fd7841d27851fe37fc76bc316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c7ba826fd7841d27851fe37fc76bc316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The applicant has not been the partner of the first grant recipient at any time since the first grant recipient applied for a school-age grant in respect of the child.
 
@@ -905,8 +905,8 @@ An individual is eligible for a school-age grant in respect of a child if—
 
 (2) The condition referred to in sub-paragraph (1)(b) is met on any day that the individual is—
 
-- (a) habitually resident in the United Kingdom, the Channel Islands or the Isle of Man[^key-460b636cf7b197d6a94b3467bbe13de5],
-- (aa)[^key-ba7f691072b05cd981ae712376f95f54][^key-a207e93e4e9fa46bd5c97ff384049694] a person who, or has a partner who, is habitually resident in the European Economic Area or Switzerland and has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
+- (a) habitually resident in the United Kingdom, the Channel Islands or the Isle of Man[^c-460b636cf7b197d6a94b3467bbe13de5],
+- (aa)[^c-ba7f691072b05cd981ae712376f95f54][^c-a207e93e4e9fa46bd5c97ff384049694] a person who, or has a partner who, is habitually resident in the European Economic Area or Switzerland and has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
   - (i) is a qualified person within the meaning of regulation 6(1)(a) (jobseeker), (b) (worker), (c) (self-employed person), (d) (self-sufficient person) or (e) (student) of the Immigration (European Economic Area) Regulations 2016 (the EEA Regulations);
   - (ii) retains the status referred to in sub-head (i) pursuant to regulation 6(2) or (4) of the EEA Regulations;
   - (iii) is a family member of a person referred to in sub-head (i) or (ii) within the meaning of regulation 7(1) of the EEA Regulations;
@@ -914,25 +914,25 @@ An individual is eligible for a school-age grant in respect of a child if—
   - (v) has been granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act,
 - (aaa)[^M_F_36f14b8d-99d1-449e-bdc2-b88188ae87a3] a person who has made a valid application for indefinite or limited leave to enter, or remain in, the United Kingdom under the EU Settlement Scheme and that application is pending a final decision,
 - (aab) a person who is a family member within the meaning of Article 9 of the EU withdrawal agreement,
-- (ab)[^key-bc5d006256c7b6c1c3f76e665295c975] a person who—
+- (ab)[^c-bc5d006256c7b6c1c3f76e665295c975] a person who—
   - (i) has leave to enter or remain in the United Kingdom granted under the immigration rules made under section 3(2) of the Immigration Act 1971, by virtue of—
     - (ia) the Afghan Relocations and Assistance Policy, or
     - (ib) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme),
   - (ii) has been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-head (i), or
   - (iii) has leave granted under the Afghan Citizens Resettlement Scheme,
-- (ac)[^key-0b5f240f544384c48568e2ad864cca67] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
-  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^key-f365ef3b5815e9e0846cb344992569a6]...
-  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or[^key-2bebe5fe17ab5ba411f83914d3f2cfb1]
-  - (iii)[^key-72814e234c0aff9f8c048d72647942e2] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (ad)[^key-0b752d811150f4b9d4ea2dea684a949a] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
+- (ac)[^c-0b5f240f544384c48568e2ad864cca67] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
+  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^c-f365ef3b5815e9e0846cb344992569a6]...
+  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or[^c-2bebe5fe17ab5ba411f83914d3f2cfb1]
+  - (iii)[^c-72814e234c0aff9f8c048d72647942e2] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+- (ad)[^c-0b752d811150f4b9d4ea2dea684a949a] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
   - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act
-- (ae)[^key-566e22f44683624a62771aa131244f26] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack and—
+- (ae)[^c-566e22f44683624a62771aa131244f26] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack and—
   - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
   - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
   - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (af)[^key-31b5e946852537a135a061a2cb19c6d9] a person who—
+- (af)[^c-31b5e946852537a135a061a2cb19c6d9] a person who—
   - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
   - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date,
   - (iii) arrived in the United Kingdom on or before 13 December 2025, and
@@ -940,7 +940,7 @@ An individual is eligible for a school-age grant in respect of a child if—
     - (aa) has been granted leave to enter or remain in the United Kingdom under or outside the immigration rules made under section 3(2) of the Immigration Act 1971,
     - (bb) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
     - (cc) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
-- (ag)[^key-f50582aff56df63693db0e0a880b0b7e] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
+- (ag)[^c-f50582aff56df63693db0e0a880b0b7e] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
   - (i) was residing in a country or territory outside of United Kingdom,
   - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
   - (iii) arrived in the United Kingdom in the first 26 weeks beginning on the date on which—
@@ -948,19 +948,19 @@ An individual is eligible for a school-age grant in respect of a child if—
     - (bb) the evacuation is started,
 - (ah) a person who, as part of a safe and legal humanitarian immigration route, has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of those rules,
 - (b) a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967,
-- (c) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971, [^key-41871a7bf24fc7fdb3f8978536cbf54a]...
+- (c) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971, [^c-41871a7bf24fc7fdb3f8978536cbf54a]...
 - (d) a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971,
 - (e) a person who—
   - (i) is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999, and
   - (ii) is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.
 
-(3)[^key-3612adc642b44aec536b86239989d59e] In this paragraph “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
+(3)[^c-3612adc642b44aec536b86239989d59e] In this paragraph “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021.
 
 ### PART 2 — Assistance to be given
 
 #### 5. Value of grant
 
-The value of a school-age grant is £331.95[^key-25a792f893fd85e0da5f189c577d8538].
+The value of a school-age grant is £331.95[^c-25a792f893fd85e0da5f189c577d8538].
 
 #### 6. Form in which grant is given
 
@@ -987,21 +987,21 @@ Schedule 2 sets out who is eligible to be given early years assistance in the fo
 
 [^c23474371]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). The regulation-making powers conferred by the Act include the power to make different provision for different purposes by virtue of section 96(1). The powers to make these Regulations are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-c9b57d9dd3b0868be728a022cd48dffa]: Textual amendment: Reg. 3(4) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [4](https://www.legislation.gov.uk/ssi/2019/157/regulation/4)
+[^c-c9b57d9dd3b0868be728a022cd48dffa]: Textual amendment: Reg. 3(4) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [4](https://www.legislation.gov.uk/ssi/2019/157/regulation/4)
 
-[^key-76985a39b258e3b4ff3c282f09972c9b]: Textual amendment: Reg. 3(5) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [7](https://www.legislation.gov.uk/ssi/2019/157/regulation/7)
+[^c-76985a39b258e3b4ff3c282f09972c9b]: Textual amendment: Reg. 3(5) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [7](https://www.legislation.gov.uk/ssi/2019/157/regulation/7)
 
-[^key-b49e5b228f25802af7f3065975153901]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/ssi/2018/370/regulation/4/2) substituted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [4](https://www.legislation.gov.uk/ssi/2019/110/regulation/4)
+[^c-b49e5b228f25802af7f3065975153901]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/ssi/2018/370/regulation/4/2) substituted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [4](https://www.legislation.gov.uk/ssi/2019/110/regulation/4)
 
-[^key-37eb41d8f8388f94dcdd5e21596ff1dc]: Textual amendment: Words in reg. 5(5) substituted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [5](https://www.legislation.gov.uk/ssi/2019/110/regulation/5)
+[^c-37eb41d8f8388f94dcdd5e21596ff1dc]: Textual amendment: Words in reg. 5(5) substituted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [5](https://www.legislation.gov.uk/ssi/2019/110/regulation/5)
 
-[^key-b74c2dca30ad6a206f315c28eb51d480]: Textual amendment: Words in reg. 5(5) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [5(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/5/2)
+[^c-b74c2dca30ad6a206f315c28eb51d480]: Textual amendment: Words in reg. 5(5) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [5(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/5/2)
 
-[^key-ef577d47226db278f41f4e0ce157b3ba]: Textual amendment: Words in reg. 5(5) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [8(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/8/2)
+[^c-ef577d47226db278f41f4e0ce157b3ba]: Textual amendment: Words in reg. 5(5) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [8(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/8/2)
 
-[^key-e8e90ab21f6bd97b97c0fa05479667f4]: Textual amendment: Words in reg. 5(5) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [5(3)](https://www.legislation.gov.uk/ssi/2019/157/regulation/5/3)
+[^c-e8e90ab21f6bd97b97c0fa05479667f4]: Textual amendment: Words in reg. 5(5) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [5(3)](https://www.legislation.gov.uk/ssi/2019/157/regulation/5/3)
 
-[^key-16a20edbf4269d11ba18bd2165d4cd52]: Textual amendment: Words in reg. 5(5) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/157/regulation/8/3)
+[^c-16a20edbf4269d11ba18bd2165d4cd52]: Textual amendment: Words in reg. 5(5) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [regs. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/157/regulation/8/3)
 
 [^c23474381]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [section 1](https://www.legislation.gov.uk/asp/2007/2/section/1).
 
@@ -1011,7 +1011,7 @@ Schedule 2 sets out who is eligible to be given early years assistance in the fo
 
 [^c23474411]: Marginal citation: [Section 39](https://www.legislation.gov.uk/ssi/2018/370/section/39) is amended by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229)
 
-[^key-6175128cce64ff0f85beaabfa79d73c5]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/ssi/2018/370/regulation/9/1/c) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/2/a)
+[^c-6175128cce64ff0f85beaabfa79d73c5]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/ssi/2018/370/regulation/9/1/c) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/2/a)
 
 [^c23474421]: Marginal citation: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22). Section 54 is amended by the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [schedule 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11), [paragraph 206](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/206) and the [Justice Act (Northern Ireland) 2015 (c.9)](https://www.legislation.gov.uk/nia/2015/9), [schedule 9](https://www.legislation.gov.uk/nia/2015/9/schedule/9), [Part 1](https://www.legislation.gov.uk/nia/2015/9/part/1), [paragraph 1](https://www.legislation.gov.uk/nia/2015/9/paragraph/1).
 
@@ -1023,7 +1023,7 @@ Schedule 2 sets out who is eligible to be given early years assistance in the fo
 
 [^c23474461]: Marginal citation: [S.I. 1987/2203](https://www.legislation.gov.uk/uksi/1987/2203). Article 3 is amended by the [Adoption (Intercountry Aspects) Act (Northern Ireland) 2001 (c.11)](https://www.legislation.gov.uk/nia/2001/11), [section 7](https://www.legislation.gov.uk/nia/2001/11/section/7), the [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c.1)](https://www.legislation.gov.uk/nia/2009/1), [schedule 6](https://www.legislation.gov.uk/nia/2009/1/schedule/6), [paragraph 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/paragraph/1/1/d), [S.I](https://www.legislation.gov.uk/nia/2009/1/section/I). 1994/429 and [S.I. 2003/431](https://www.legislation.gov.uk/uksi/2003/431).
 
-[^key-8ab421714ff2d9d66eb32672668e99b0]: Textual amendment: [Reg. 9(3)-(5)](https://www.legislation.gov.uk/ssi/2018/370/regulation/9/3) substituted for [reg. 9(3)](https://www.legislation.gov.uk/ssi/2018/370/regulation/9/3) (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/2/b)
+[^c-8ab421714ff2d9d66eb32672668e99b0]: Textual amendment: [Reg. 9(3)-(5)](https://www.legislation.gov.uk/ssi/2018/370/regulation/9/3) substituted for [reg. 9(3)](https://www.legislation.gov.uk/ssi/2018/370/regulation/9/3) (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/2/b)
 
 [^c23474471]: Marginal citation: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
 
@@ -1033,115 +1033,115 @@ Schedule 2 sets out who is eligible to be given early years assistance in the fo
 
 [^c23474501]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755). Article 25 is amended by the [Children (Leaving Care) Act (Northern Ireland) 2002 (c.11)](https://www.legislation.gov.uk/nia/2002/11), [section 2(1)](https://www.legislation.gov.uk/nia/2002/11/section/2/1).
 
-[^key-7fd104290ce02d6312f90d70160cffc7]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1)[(1A)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1A) substituted for [reg. 10(1)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1) (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [6(2)](https://www.legislation.gov.uk/ssi/2019/110/regulation/6/2)
+[^c-7fd104290ce02d6312f90d70160cffc7]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1)[(1A)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1A) substituted for [reg. 10(1)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1) (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [6(2)](https://www.legislation.gov.uk/ssi/2019/110/regulation/6/2)
 
-[^key-a56ee6e9c9833b32e90dc24ab5cce463]: Textual amendment: Words in [reg. 10(1A)(a)(i)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1A/a/i) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/2) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
+[^c-a56ee6e9c9833b32e90dc24ab5cce463]: Textual amendment: Words in [reg. 10(1A)(a)(i)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/1A/a/i) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/2) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
 
-[^key-b4671c0876f74b65c7f74f137c13529f]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/2) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [6(3)](https://www.legislation.gov.uk/ssi/2019/110/regulation/6/3)
+[^c-b4671c0876f74b65c7f74f137c13529f]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/2) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [6(3)](https://www.legislation.gov.uk/ssi/2019/110/regulation/6/3)
 
-[^key-8f848ceba60b359657bb6b57f7fa0860]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/3) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [6(4)](https://www.legislation.gov.uk/ssi/2019/110/regulation/6/4)
+[^c-8f848ceba60b359657bb6b57f7fa0860]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/ssi/2018/370/regulation/10/3) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [6(4)](https://www.legislation.gov.uk/ssi/2019/110/regulation/6/4)
 
-[^key-ed8ee663a122574cf419d5456f6665ba]: Textual amendment: [Reg. 11(a)](https://www.legislation.gov.uk/ssi/2018/370/regulation/11/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
+[^c-ed8ee663a122574cf419d5456f6665ba]: Textual amendment: [Reg. 11(a)](https://www.legislation.gov.uk/ssi/2018/370/regulation/11/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
 
-[^key-9cdd2fa6fc5cdacae7d36b5a798abbd0]: Textual amendment: [Reg. 11(g)](https://www.legislation.gov.uk/ssi/2018/370/regulation/11/g) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
+[^c-9cdd2fa6fc5cdacae7d36b5a798abbd0]: Textual amendment: [Reg. 11(g)](https://www.legislation.gov.uk/ssi/2018/370/regulation/11/g) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
 
 [^c23474511]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
 [^c23474521]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-42b977f7df3ce2b14d875462a20f6bd4]: Textual amendment: Sch. 1 para. 2(1)(a)(b) substituted for words (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [7](https://www.legislation.gov.uk/ssi/2019/110/regulation/7)
+[^c-42b977f7df3ce2b14d875462a20f6bd4]: Textual amendment: Sch. 1 para. 2(1)(a)(b) substituted for words (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [7](https://www.legislation.gov.uk/ssi/2019/110/regulation/7)
 
-[^key-44d1bed185c0fa033b2a638849c2f7c7]: Textual amendment: Word in [sch. 1 para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/2/1/a) omitted (9.2.2022) by virtue of [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2021/469/regulation/2/2/a/i)
+[^c-44d1bed185c0fa033b2a638849c2f7c7]: Textual amendment: Word in [sch. 1 para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/2/1/a) omitted (9.2.2022) by virtue of [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2021/469/regulation/2/2/a/i)
 
-[^key-d14e8f8ef5383cf47149ccd2223f8ffe]: Textual amendment: [Sch. 1 para. 2(1)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/2/1/c) and word inserted (9.2.2022) by [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/469/regulation/2/2/a/ii)
+[^c-d14e8f8ef5383cf47149ccd2223f8ffe]: Textual amendment: [Sch. 1 para. 2(1)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/2/1/c) and word inserted (9.2.2022) by [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/469/regulation/2/2/a/ii)
 
 [^c23474531]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [section 1](https://www.legislation.gov.uk/asp/2007/2/section/1).
 
-[^key-acf704c35e2be4b1d4112ed3cb6ed227]: Textual amendment: [Sch. 1 para. 3(5A)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/3/5A) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [8(2)](https://www.legislation.gov.uk/ssi/2019/110/regulation/8/2)
+[^c-acf704c35e2be4b1d4112ed3cb6ed227]: Textual amendment: [Sch. 1 para. 3(5A)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/3/5A) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [8(2)](https://www.legislation.gov.uk/ssi/2019/110/regulation/8/2)
 
-[^key-7f932d9aaa263049a794a4cabb5285ec]: Textual amendment: [Sch. 1 paras. 4](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/4), [5](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/5) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [8(3)](https://www.legislation.gov.uk/ssi/2019/110/regulation/8/3)
+[^c-7f932d9aaa263049a794a4cabb5285ec]: Textual amendment: [Sch. 1 paras. 4](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/4), [5](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/5) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [8(3)](https://www.legislation.gov.uk/ssi/2019/110/regulation/8/3)
 
-[^key-58e847911d822e3ea9b02ee4c4e6da53]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/5A) inserted (28.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/3)
+[^c-58e847911d822e3ea9b02ee4c4e6da53]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/5A) inserted (28.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/3)
 
-[^key-aa618f359068a5a278e1f59932bbb3a7]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/part/3) inserted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2021/494/regulation/2)
+[^c-aa618f359068a5a278e1f59932bbb3a7]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/part/3) inserted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2021/494/regulation/2)
 
-[^key-155ad781a7d780f66346bb505bfc6e36]: Textual amendment: Words in [sch. 1 para. 6(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/6/3/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
+[^c-155ad781a7d780f66346bb505bfc6e36]: Textual amendment: Words in [sch. 1 para. 6(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/1/paragraph/6/3/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2025/195/regulation/2/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2025/195/regulation/10))
 
-[^key-6b1fa6debc871850bdeb8d180ea6b70a]: Textual amendment: [Sch. 2 para. 1(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/aa) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(2)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/2)
+[^c-6b1fa6debc871850bdeb8d180ea6b70a]: Textual amendment: [Sch. 2 para. 1(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/aa) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(2)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/2)
 
-[^key-68307de5e7652316dea267f511506769]: Textual amendment: Word in [sch. 2 para. 1(d)(iv)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/d/iv) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/a/i)
+[^c-68307de5e7652316dea267f511506769]: Textual amendment: Word in [sch. 2 para. 1(d)(iv)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/d/iv) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/a/i)
 
-[^key-f346ed538ff913563625ba0474b642f5]: Textual amendment: Word in [sch. 2 para. 1(e)(iv)(bb)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/e/iv/bb) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/a/ii)
+[^c-f346ed538ff913563625ba0474b642f5]: Textual amendment: Word in [sch. 2 para. 1(e)(iv)(bb)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/e/iv/bb) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/a/ii)
 
-[^key-cfe024e83b749e0eb2abaea7f4b50980]: Textual amendment: [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/f) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/a/iii)
+[^c-cfe024e83b749e0eb2abaea7f4b50980]: Textual amendment: [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/1/f) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/a/iii)
 
-[^key-e6831f697b50555e268951b206470537]: Textual amendment: Word in [sch. 2 para. 3(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/2/a)
+[^c-e6831f697b50555e268951b206470537]: Textual amendment: Word in [sch. 2 para. 3(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/2/a)
 
-[^key-d43a7d0939791848ad5aa639e5d990f8]: Textual amendment: Full stop in sch. 2 para. 3(3) substituted for word (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/2/b)
+[^c-d43a7d0939791848ad5aa639e5d990f8]: Textual amendment: Full stop in sch. 2 para. 3(3) substituted for word (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/2/b)
 
-[^key-2d304ca016d209740de7a8a8b7baf038]: Textual amendment: [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/3/a)[(b)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/3/b) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/2/c)
+[^c-2d304ca016d209740de7a8a8b7baf038]: Textual amendment: [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/3/a)[(b)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/3/b) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/2/c)
 
-[^key-c851c92d90dfb3496e0b544107114b0c]: Textual amendment: Words in sch. 2 para. 3(4) substituted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(3)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/3)
+[^c-c851c92d90dfb3496e0b544107114b0c]: Textual amendment: Words in sch. 2 para. 3(4) substituted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(3)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/3)
 
-[^key-e7073692c801644ab1879d49012319d6]: Textual amendment: Words in [sch. 2 para. 3(4)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/4) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/3)
+[^c-e7073692c801644ab1879d49012319d6]: Textual amendment: Words in [sch. 2 para. 3(4)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/3/4) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2021/494/regulation/3/3)
 
-[^key-7adfbfc030d0ddaddad58890302081eb]: Textual amendment: Sch. 2 para. 3(4A) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(4)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/4)
+[^c-7adfbfc030d0ddaddad58890302081eb]: Textual amendment: Sch. 2 para. 3(4A) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(4)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/4)
 
-[^key-7a75fd7eab965ce9ff4a95398100cafb]: Textual amendment: Words in [sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/a) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(5)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/5)
+[^c-7a75fd7eab965ce9ff4a95398100cafb]: Textual amendment: Words in [sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/a) inserted (21.3.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 1) Regulations 2019 (S.S.I. 2019/110)](https://www.legislation.gov.uk/ssi/2019/110), [regs. 2](https://www.legislation.gov.uk/ssi/2019/110/regulation/2), [9(5)](https://www.legislation.gov.uk/ssi/2019/110/regulation/9/5)
 
-[^key-281a54e510ab6bcba84d2fead216f489]: Textual amendment: Words in [sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/a) substituted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/2/a)
+[^c-281a54e510ab6bcba84d2fead216f489]: Textual amendment: Words in [sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/a) substituted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/2/a)
 
-[^key-f4965c439a6091d18012b5c4081f40eb]: Textual amendment: [Sch. 2 para. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aa) inserted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/2/b)
+[^c-f4965c439a6091d18012b5c4081f40eb]: Textual amendment: [Sch. 2 para. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aa) inserted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/2/b)
 
-[^key-061a06da26eebba7000f29e81b44b931]: Textual amendment: [Sch. 2 para. 4(2)(aa)(head)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aa/head) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/2/a)
+[^c-061a06da26eebba7000f29e81b44b931]: Textual amendment: [Sch. 2 para. 4(2)(aa)(head)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aa/head) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/2/a)
 
-[^key-bdffaecfec5c4459ddbe4aca42430e48]: Textual amendment: [Sch. 2 para. 4(2)(aaa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aaa)[(aab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aab) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/2/b)
+[^c-bdffaecfec5c4459ddbe4aca42430e48]: Textual amendment: [Sch. 2 para. 4(2)(aaa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aaa)[(aab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/aab) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/2/b)
 
-[^key-781e9c9af2b086b3b7b83f4276314dfb]: Textual amendment: Sch. 2 para. 4(2)(ab) inserted (15.9.2021) by virtue of [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/2/a)
+[^c-781e9c9af2b086b3b7b83f4276314dfb]: Textual amendment: Sch. 2 para. 4(2)(ab) inserted (15.9.2021) by virtue of [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/2/a)
 
-[^key-e10f959006acb0e8d1842168445d0b1e]: Textual amendment: Word in [sch. 2 para. 4(2)(ab)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ab/i) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/i)
+[^c-e10f959006acb0e8d1842168445d0b1e]: Textual amendment: Word in [sch. 2 para. 4(2)(ab)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ab/i) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/i)
 
-[^key-8ea3614821f73ccc8f4071781d109ffe]: Textual amendment: [Sch. 2 para. 4(2)(ac)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/2/a)
+[^c-8ea3614821f73ccc8f4071781d109ffe]: Textual amendment: [Sch. 2 para. 4(2)(ac)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/2/a)
 
-[^key-08693bcb23d7838d9be27872af9296e3]: Textual amendment: Word in [sch. 2 para. 4(2)(ac)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/ii)
+[^c-08693bcb23d7838d9be27872af9296e3]: Textual amendment: Word in [sch. 2 para. 4(2)(ac)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/ii)
 
-[^key-955b23a4700e944f3b06843f26f8446a]: Textual amendment: Word in [sch. 2 para. 4(2)(ac)(ii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac/ii) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/iii)
+[^c-955b23a4700e944f3b06843f26f8446a]: Textual amendment: Word in [sch. 2 para. 4(2)(ac)(ii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac/ii) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/iii)
 
-[^key-2b779ab5d570162cd33f944ffeb10b07]: Textual amendment: [Sch. 2 para. 4(2)(ac)(iii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(iv)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/iv)
+[^c-2b779ab5d570162cd33f944ffeb10b07]: Textual amendment: [Sch. 2 para. 4(2)(ac)(iii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ac/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(b)(iv)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/b/iv)
 
-[^key-6d9b259fa2ee7b6ce9cedff208261a81]: Textual amendment: [Sch. 2 para. 4(2)(ad)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ad) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/149/regulation/4/2)
+[^c-6d9b259fa2ee7b6ce9cedff208261a81]: Textual amendment: [Sch. 2 para. 4(2)(ad)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ad) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/149/regulation/4/2)
 
-[^key-1800b6406f8a50753e328f0bd6b014dd]: Textual amendment: [Sch. 2 para. 4(2)(ae)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ae) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/4/2)
+[^c-1800b6406f8a50753e328f0bd6b014dd]: Textual amendment: [Sch. 2 para. 4(2)(ae)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ae) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/4/2)
 
-[^key-df47a0e473f0bde49c4559811d9f7938]: Textual amendment: [Sch. 2 para. 4(2)(af)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/af) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/2/2)
+[^c-df47a0e473f0bde49c4559811d9f7938]: Textual amendment: [Sch. 2 para. 4(2)(af)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/af) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/2/2)
 
-[^key-aa417f2519644cdd59907bab9011f050]: Textual amendment: [Sch. 2 para. 4(2)(ag)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ag)[(ah)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ah) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/2)
+[^c-aa417f2519644cdd59907bab9011f050]: Textual amendment: [Sch. 2 para. 4(2)(ag)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ag)[(ah)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/ah) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/2)
 
 [^c23474551]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-80867c18b72fbf76639da9a790f39b99]: Textual amendment: Words in [sch. 2 para. 4(2)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/c) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/2/b)
+[^c-80867c18b72fbf76639da9a790f39b99]: Textual amendment: Words in [sch. 2 para. 4(2)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/2/c) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/2/b)
 
 [^c23474571]: Marginal citation: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-9f0a7dbe1b0d39abfe3af4ff49959093]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/3) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/2/b)
+[^c-9f0a7dbe1b0d39abfe3af4ff49959093]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/4/3) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/2/b)
 
-[^key-1bd6fc06e80e4e5145c194e60f533c57]: Textual amendment: Sum in [sch. 2 para. 6(1)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/2/a/i) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
+[^c-1bd6fc06e80e4e5145c194e60f533c57]: Textual amendment: Sum in [sch. 2 para. 6(1)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/2/a/i) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
 
-[^key-2481c6e2129921b63b59ebb6180a7b53]: Textual amendment: Sum in [sch. 2 para. 6(1)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/2/a/ii) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
+[^c-2481c6e2129921b63b59ebb6180a7b53]: Textual amendment: Sum in [sch. 2 para. 6(1)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/2/a/ii) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
 
-[^key-3ea9e396458564e1572eb79efb868fe8]: Textual amendment: [Sch. 2 para. 6(2)(b)(v)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/2/b/v) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(c)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/c/i)
+[^c-3ea9e396458564e1572eb79efb868fe8]: Textual amendment: [Sch. 2 para. 6(2)(b)(v)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/2/b/v) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(c)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/c/i)
 
-[^key-0f40d1fcdbd0983101fdcf73468fd174]: Textual amendment: [Sch. 2 para. 6(2)(b)(vi)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/2/b/vi) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/c/ii)
+[^c-0f40d1fcdbd0983101fdcf73468fd174]: Textual amendment: [Sch. 2 para. 6(2)(b)(vi)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/2/b/vi) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/c/ii)
 
-[^key-a278629537170b778a2d3902c68b0932]: Textual amendment: [Sch. 2 para. 6(4)-(7)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/4) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/c/iii)
+[^c-a278629537170b778a2d3902c68b0932]: Textual amendment: [Sch. 2 para. 6(4)-(7)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/4) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(c)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/c/iii)
 
-[^key-d9d58d6d9556183ce9b72b26cabbe8d1]: Textual amendment: Word in [sch. 2 para. 6(6)(b)(v)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/6/b/v) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/3/a)
+[^c-d9d58d6d9556183ce9b72b26cabbe8d1]: Textual amendment: Word in [sch. 2 para. 6(6)(b)(v)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/6/b/v) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/3/a)
 
-[^key-8f44d0c91067267bc3c4fabf20d8bca7]: Textual amendment: [Sch. 2 para. 6(b)(vii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/0b/vii)[(viii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/0b/viii) and word inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/3/b)
+[^c-8f44d0c91067267bc3c4fabf20d8bca7]: Textual amendment: [Sch. 2 para. 6(b)(vii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/0b/vii)[(viii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/0b/viii) and word inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/3/b)
 
-[^key-1b1cf1bd1e7dec4e776393914aaa5f79]: Textual amendment: Words in [sch. 2 para. 6(7)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/7) substituted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/3/c)
+[^c-1b1cf1bd1e7dec4e776393914aaa5f79]: Textual amendment: Words in [sch. 2 para. 6(7)](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/6/7) substituted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/3/c)
 
-[^key-07bb0429ea9a4b00e6ffa0a80e98cec6]: Textual amendment: Sum in sch. 2 para. 7(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/2/b) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
+[^c-07bb0429ea9a4b00e6ffa0a80e98cec6]: Textual amendment: Sum in sch. 2 para. 7(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/2/b) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
 
 [^c23474581]: Marginal citation: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49). The definition of “still-born child” is amended by the Still-[Birth (Definition) Act 1992 (c.29)](https://www.legislation.gov.uk/ukpga/1992/29), [section 1(2)](https://www.legislation.gov.uk/ukpga/1992/29/section/1/2).
 
@@ -1149,96 +1149,96 @@ Schedule 2 sets out who is eligible to be given early years assistance in the fo
 
 [^c23474601]: Marginal citation: [S.R. 2005/506](https://www.legislation.gov.uk/nisr/2005/506); there are amendments but none relevant for the purposes of these Regulations.
 
-[^key-ebc75bd4ebedb34f61a1c17dc6f69858]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/11) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/d)
+[^c-ebc75bd4ebedb34f61a1c17dc6f69858]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2018/370/schedule/2/paragraph/11) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/4/d)
 
-[^key-16c59ba7548832478db5f599d60482c2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2018/370/schedule/3) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2019/157/schedule/1)
+[^c-16c59ba7548832478db5f599d60482c2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2018/370/schedule/3) inserted (29.4.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2019/157/schedule/1)
 
-[^key-e75f834c06baf2bea6f2bd291d30f6cf]: Textual amendment: Word in [sch. 3 para. 1(e)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/1/e) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/a/i)
+[^c-e75f834c06baf2bea6f2bd291d30f6cf]: Textual amendment: Word in [sch. 3 para. 1(e)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/1/e) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/a/i)
 
-[^key-d47981570520cc8f6d12d1846dc6d1e7]: Textual amendment: Word in [sch. 3 para. 1(f)(iv)(bb)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/1/f/iv/bb) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/a/ii)
+[^c-d47981570520cc8f6d12d1846dc6d1e7]: Textual amendment: Word in [sch. 3 para. 1(f)(iv)(bb)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/1/f/iv/bb) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/a/ii)
 
-[^key-153b6c6e1bfc6ab73cca3c8821c9f27d]: Textual amendment: [Sch. 3 para. 1(g)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/1/g) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/a/iii)
+[^c-153b6c6e1bfc6ab73cca3c8821c9f27d]: Textual amendment: [Sch. 3 para. 1(g)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/1/g) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/a/iii)
 
-[^key-c65f4ddf1b32d4e1ea8660f8fe00aaaa]: Textual amendment: Word in [sch. 3 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/2/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2021/494/regulation/4/2/a)
+[^c-c65f4ddf1b32d4e1ea8660f8fe00aaaa]: Textual amendment: Word in [sch. 3 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/2/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2021/494/regulation/4/2/a)
 
-[^key-dee11e35d5aff5d4884d0db86124d92e]: Textual amendment: Full stop in sch. 3 para. 2(3) substituted for word (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2021/494/regulation/4/2/b)
+[^c-dee11e35d5aff5d4884d0db86124d92e]: Textual amendment: Full stop in sch. 3 para. 2(3) substituted for word (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2021/494/regulation/4/2/b)
 
-[^key-f49f118a65cc2b1f2f960c695d6cd967]: Textual amendment: [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/2/3/a)[(b)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/2/3/b) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2021/494/regulation/4/2/c)
+[^c-f49f118a65cc2b1f2f960c695d6cd967]: Textual amendment: [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/2/3/a)[(b)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/2/3/b) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2021/494/regulation/4/2/c)
 
-[^key-3406a95f67f2350dcab310c2bcf55efa]: Textual amendment: Words in [sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/a) substituted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/3/a)
+[^c-3406a95f67f2350dcab310c2bcf55efa]: Textual amendment: Words in [sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/a) substituted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/3/a)
 
-[^key-b1dd0d322bcc711433f38d414215d6a7]: Textual amendment: [Sch. 3 para. 3(2)(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aa) inserted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/3/b)
+[^c-b1dd0d322bcc711433f38d414215d6a7]: Textual amendment: [Sch. 3 para. 3(2)(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aa) inserted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/3/b)
 
-[^key-6afaeeb738d0ff01f910599e48c6b9ba]: Textual amendment: [Sch. 3 para. 3(2)(aa)(head)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aa) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/3/a)
+[^c-6afaeeb738d0ff01f910599e48c6b9ba]: Textual amendment: [Sch. 3 para. 3(2)(aa)(head)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aa) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/3/a)
 
-[^key-8474b43877489a9c6a07a7ff7248ec44]: Textual amendment: [Sch. 3 para. 3(2)(aaa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aaa)[(aab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aab) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/3/b)
+[^c-8474b43877489a9c6a07a7ff7248ec44]: Textual amendment: [Sch. 3 para. 3(2)(aaa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aaa)[(aab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/aab) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/3/b)
 
-[^key-96e5ada79e9ee9f9b963038cb4b10814]: Textual amendment: [Sch. 3 para. 3(2)(ab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ab) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/3/a)
+[^c-96e5ada79e9ee9f9b963038cb4b10814]: Textual amendment: [Sch. 3 para. 3(2)(ab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ab) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/3/a)
 
-[^key-6d7a475c054a27c8d296768fc163849e]: Textual amendment: [Sch. 3 para. 3(2)(ac)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/3/a)
+[^c-6d7a475c054a27c8d296768fc163849e]: Textual amendment: [Sch. 3 para. 3(2)(ac)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/3/a)
 
-[^key-b3632b47b81efe0310f3c26ffdc399e8]: Textual amendment: Word in [sch. 3 para. 3(2)(ac)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/b/i)
+[^c-b3632b47b81efe0310f3c26ffdc399e8]: Textual amendment: Word in [sch. 3 para. 3(2)(ac)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/b/i)
 
-[^key-1f1e6bc778511d113d465843ea0c5072]: Textual amendment: Word in [sch. 3 para. 3(2)(ac)(ii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac/ii) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/b/ii)
+[^c-1f1e6bc778511d113d465843ea0c5072]: Textual amendment: Word in [sch. 3 para. 3(2)(ac)(ii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac/ii) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/b/ii)
 
-[^key-66960fd4332fac1b2e0c9603ab1fe592]: Textual amendment: [Sch. 3 para. 3(2)(ac)(iii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/b/iii)
+[^c-66960fd4332fac1b2e0c9603ab1fe592]: Textual amendment: [Sch. 3 para. 3(2)(ac)(iii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ac/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/5/b/iii)
 
-[^key-e831cebbe45796d7adc4f086720c6d81]: Textual amendment: [Sch. 3 para. 3(2)(ad)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ad) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2023/149/regulation/4/3)
+[^c-e831cebbe45796d7adc4f086720c6d81]: Textual amendment: [Sch. 3 para. 3(2)(ad)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ad) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2023/149/regulation/4/3)
 
-[^key-3403459d5fa7ca263de707e3211edc82]: Textual amendment: [Sch. 3 para. 3(2)(ae)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ae) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2023/309/regulation/4/3)
+[^c-3403459d5fa7ca263de707e3211edc82]: Textual amendment: [Sch. 3 para. 3(2)(ae)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ae) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2023/309/regulation/4/3)
 
-[^key-188575c05518b69894b2826795c1ee37]: Textual amendment: [Sch. 3 para. 3(2)(af)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/af) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/250/regulation/2/3)
+[^c-188575c05518b69894b2826795c1ee37]: Textual amendment: [Sch. 3 para. 3(2)(af)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/af) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/250/regulation/2/3)
 
-[^key-e4feccd1b6c274ef8ec4f45980139945]: Textual amendment: [Sch. 3 para. 3(2)(ag)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ag)[(ah)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ah) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/4)
+[^c-e4feccd1b6c274ef8ec4f45980139945]: Textual amendment: [Sch. 3 para. 3(2)(ag)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ag)[(ah)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/ah) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/4)
 
-[^key-4ee3d7fa1e3c0bba1711caf41995e211]: Textual amendment: Words in [sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/c) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/3/b)
+[^c-4ee3d7fa1e3c0bba1711caf41995e211]: Textual amendment: Words in [sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/2/c) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/3/b)
 
-[^key-fbc518e72456ec1e48757254f436bd43]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/3) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/3/b)
+[^c-fbc518e72456ec1e48757254f436bd43]: Textual amendment: [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/3/paragraph/3/3) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/3/b)
 
-[^key-61724a7ad4c14c65ebd8ae86e20746ee]: Textual amendment: Sum in sch. 3 para. 4 substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/3) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
+[^c-61724a7ad4c14c65ebd8ae86e20746ee]: Textual amendment: Sum in sch. 3 para. 4 substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/3) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
 
-[^key-6c26c2d1430ed34897442197c8cf7da9]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2018/370/schedule/4) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [sch. 2](https://www.legislation.gov.uk/ssi/2019/157/schedule/2)
+[^c-6c26c2d1430ed34897442197c8cf7da9]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2018/370/schedule/4) inserted (3.6.2019) by [The Early Years Assistance (Best Start Grants) (Scotland) Amendment (No. 2) Regulations 2019 (S.S.I. 2019/157)](https://www.legislation.gov.uk/ssi/2019/157), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2019/157/regulation/2/1), [sch. 2](https://www.legislation.gov.uk/ssi/2019/157/schedule/2)
 
-[^key-0debb637eee90eb0baa6441b9fe8fca6]: Textual amendment: Word in [sch. 4 para. 1(e)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/1/e) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/a/i)
+[^c-0debb637eee90eb0baa6441b9fe8fca6]: Textual amendment: Word in [sch. 4 para. 1(e)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/1/e) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/a/i)
 
-[^key-6a2c9d41cb44773070ab8aedee6978a9]: Textual amendment: Word in [sch. 4 para. 1(f)(iv)(bb)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/1/f/iv/bb) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/a/ii)
+[^c-6a2c9d41cb44773070ab8aedee6978a9]: Textual amendment: Word in [sch. 4 para. 1(f)(iv)(bb)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/1/f/iv/bb) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/a/ii)
 
-[^key-44407099a1b644f600209579d84aa7d4]: Textual amendment: [Sch. 4 para. 1(g)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/1/g) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/a/iii)
+[^c-44407099a1b644f600209579d84aa7d4]: Textual amendment: [Sch. 4 para. 1(g)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/1/g) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/a/iii)
 
-[^key-e8bc6b6ac252ff7d236f02d3dbb0fa2c]: Textual amendment: Word in [sch. 4 para. 3(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/3/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2021/494/regulation/5/2/a)
+[^c-e8bc6b6ac252ff7d236f02d3dbb0fa2c]: Textual amendment: Word in [sch. 4 para. 3(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/3/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2021/494/regulation/5/2/a)
 
-[^key-bf4d20c52d14afc8d68ae9f37547763d]: Textual amendment: Full stop in sch. 4 para. 3(3) substituted for word (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2021/494/regulation/5/2/b)
+[^c-bf4d20c52d14afc8d68ae9f37547763d]: Textual amendment: Full stop in sch. 4 para. 3(3) substituted for word (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2021/494/regulation/5/2/b)
 
-[^key-c7ba826fd7841d27851fe37fc76bc316]: Textual amendment: [Sch. 4 para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/3/3/a)[(b)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/3/3/b) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2021/494/regulation/5/2/c)
+[^c-c7ba826fd7841d27851fe37fc76bc316]: Textual amendment: [Sch. 4 para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/3/3/a)[(b)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/3/3/b) omitted (23.12.2021) by virtue of [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2021/494/regulation/5/2/c)
 
-[^key-460b636cf7b197d6a94b3467bbe13de5]: Textual amendment: Words in [sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/a) substituted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/4/a)
+[^c-460b636cf7b197d6a94b3467bbe13de5]: Textual amendment: Words in [sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/a) substituted (31.12.2020) by [The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 (S.S.I. 2020/399)](https://www.legislation.gov.uk/ssi/2020/399), [regs. 1](https://www.legislation.gov.uk/ssi/2020/399/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/399/regulation/3/4/a)
 
-[^key-ba7f691072b05cd981ae712376f95f54]: Textual amendment: [Sch. 4 para. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/aa) inserted (31.12.2020) by The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 ([S.S.I. 2020/399](https://www.legislation.gov.uk/ssi/2020/399)), regs. 1, 3(4)(b)
+[^c-ba7f691072b05cd981ae712376f95f54]: Textual amendment: [Sch. 4 para. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/aa) inserted (31.12.2020) by The Social Security Co-ordination (EU Exit) (Scotland) (Amendments etc.) Regulations 2020 ([S.S.I. 2020/399](https://www.legislation.gov.uk/ssi/2020/399)), regs. 1, 3(4)(b)
 
-[^key-a207e93e4e9fa46bd5c97ff384049694]: Textual amendment: [Sch. 4 para. 4(2)(aa)(head)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/aa) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/4/a)
+[^c-a207e93e4e9fa46bd5c97ff384049694]: Textual amendment: [Sch. 4 para. 4(2)(aa)(head)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/aa) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/4/a)
 
 [^M_F_36f14b8d-99d1-449e-bdc2-b88188ae87a3]: Textual amendment: [Sch. 4 para. 4(2)(aaa)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/aaa) (aab) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/4/4/b)
 
-[^key-bc5d006256c7b6c1c3f76e665295c975]: Textual amendment: [Sch. 4 para. 4(2)(ab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ab) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/4/a)
+[^c-bc5d006256c7b6c1c3f76e665295c975]: Textual amendment: [Sch. 4 para. 4(2)(ab)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ab) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/4/a)
 
-[^key-0b5f240f544384c48568e2ad864cca67]: Textual amendment: [Sch. 4 para. 4(2)(ac)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/4/a)
+[^c-0b5f240f544384c48568e2ad864cca67]: Textual amendment: [Sch. 4 para. 4(2)(ac)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/4/a)
 
-[^key-f365ef3b5815e9e0846cb344992569a6]: Textual amendment: Word in [sch. 4 para. 4(2)(ac)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/b/i)
+[^c-f365ef3b5815e9e0846cb344992569a6]: Textual amendment: Word in [sch. 4 para. 4(2)(ac)(i)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/b/i)
 
-[^key-2bebe5fe17ab5ba411f83914d3f2cfb1]: Textual amendment: Word in [sch. 4 para. 4(2)(ac)(ii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac/ii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/b/ii)
+[^c-2bebe5fe17ab5ba411f83914d3f2cfb1]: Textual amendment: Word in [sch. 4 para. 4(2)(ac)(ii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac/ii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/b/ii)
 
-[^key-72814e234c0aff9f8c048d72647942e2]: Textual amendment: [Sch. 4 para. 4(2)(ac)(iii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/b/iii)
+[^c-72814e234c0aff9f8c048d72647942e2]: Textual amendment: [Sch. 4 para. 4(2)(ac)(iii)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ac/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [2(6)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/2/6/b/iii)
 
-[^key-0b752d811150f4b9d4ea2dea684a949a]: Textual amendment: [Sch. 4 para. 4(2)(ad)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ad) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2023/149/regulation/4/4)
+[^c-0b752d811150f4b9d4ea2dea684a949a]: Textual amendment: [Sch. 4 para. 4(2)(ad)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ad) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2023/149/regulation/4/4)
 
-[^key-566e22f44683624a62771aa131244f26]: Textual amendment: [Sch. 4 para. 4(2)(ae)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ae) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2023/309/regulation/4/4)
+[^c-566e22f44683624a62771aa131244f26]: Textual amendment: [Sch. 4 para. 4(2)(ae)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ae) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2023/309/regulation/4/4)
 
-[^key-31b5e946852537a135a061a2cb19c6d9]: Textual amendment: [Sch. 4 para. 4(2)(af)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/af) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2025/250/regulation/2/4)
+[^c-31b5e946852537a135a061a2cb19c6d9]: Textual amendment: [Sch. 4 para. 4(2)(af)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/af) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2025/250/regulation/2/4)
 
-[^key-f50582aff56df63693db0e0a880b0b7e]: Textual amendment: [Sch. 4 para. 4(2)(ag)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ag)[(ah)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ah) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/5)
+[^c-f50582aff56df63693db0e0a880b0b7e]: Textual amendment: [Sch. 4 para. 4(2)(ag)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ag)[(ah)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/ah) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2026/139/regulation/6/5)
 
-[^key-41871a7bf24fc7fdb3f8978536cbf54a]: Textual amendment: Words in [sch. 4 para. 4(2)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/c) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/4/b)
+[^c-41871a7bf24fc7fdb3f8978536cbf54a]: Textual amendment: Words in [sch. 4 para. 4(2)(c)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/2/c) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2022/108/regulation/4/4/b)
 
-[^key-3612adc642b44aec536b86239989d59e]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/3) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/4/b)
+[^c-3612adc642b44aec536b86239989d59e]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/370/schedule/4/paragraph/4/3) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2021/320/regulation/3/4/b)
 
-[^key-25a792f893fd85e0da5f189c577d8538]: Textual amendment: Sum in sch. 4 para. 5 substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/4) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))
+[^c-25a792f893fd85e0da5f189c577d8538]: Textual amendment: Sum in sch. 4 para. 5 substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/3/4) (with [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/1))

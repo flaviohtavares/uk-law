@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Amendment of regulation E2[^key-956c341542b9e0aca75f3c440aba57a0]
+## 10. Amendment of regulation E2[^c-956c341542b9e0aca75f3c440aba57a0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-956c341542b9e0aca75f3c440aba57a0]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-956c341542b9e0aca75f3c440aba57a0]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

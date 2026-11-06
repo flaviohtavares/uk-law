@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Unlicensed and foreign drivers[^key-da12fe1206171b54335fabf9eccc2e71]
+## 9. Unlicensed and foreign drivers[^c-da12fe1206171b54335fabf9eccc2e71]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In section 44 (endorsement of licences)—
 
-- (a)[^key-b6ae1b78926e3823bc9a0e2b287347f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b6ae1b78926e3823bc9a0e2b287347f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the heading substitute “ Orders for endorsement ”.
 
 (3) After that section insert—
@@ -37,7 +37,7 @@ summary: ''
 >
 > (3) A notice sent by the court to the Secretary of State in pursuance of this section must be sent in such manner and to such address and contain such particulars as the Secretary of State may require.
 
-(4)[^key-5dc9a6e2428e20842cc153e336fe05f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5dc9a6e2428e20842cc153e336fe05f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After section 57 insert—
 
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-da12fe1206171b54335fabf9eccc2e71]: Commencement: S. 9 in force at 1.4.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
+[^c-da12fe1206171b54335fabf9eccc2e71]: Commencement: S. 9 in force at 1.4.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
 
-[^key-b6ae1b78926e3823bc9a0e2b287347f7]: Textual amendment: [S. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/9/2/a) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-b6ae1b78926e3823bc9a0e2b287347f7]: Textual amendment: [S. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/9/2/a) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
-[^key-5dc9a6e2428e20842cc153e336fe05f3]: Textual amendment: [S. 9(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/9/4) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-5dc9a6e2428e20842cc153e336fe05f3]: Textual amendment: [S. 9(4)](https://www.legislation.gov.uk/ukpga/2006/49/section/9/4) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))

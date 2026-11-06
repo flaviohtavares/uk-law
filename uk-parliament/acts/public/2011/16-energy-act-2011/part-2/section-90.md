@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Interpretation[^key-3692fbc3fd17315df857059768699775]
+## 90. Interpretation[^c-3692fbc3fd17315df857059768699775]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
   - (a) carries out gas processing operations in relation to piped gas;
   - (b) is operated otherwise than by a gas transporter; and
   - (c) is not an LNG import or export facility (within the meaning of section 12 of the Gas Act 1995);
-- “[^key-1b585da658a70a337d72597858ac8e22]**the OGA**” means the Oil and Gas Authority;
+- “[^c-1b585da658a70a337d72597858ac8e22]**the OGA**” means the Oil and Gas Authority;
 - “**oil processing facility**” means any facility which carries out oil processing operations;
 - “**payments**” means payments in money or money's worth;
 - “**petroleum**” has the same meaning as in Part 1 of the Petroleum Act 1998, and includes petroleum that has undergone any processing;
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3692fbc3fd17315df857059768699775]: Commencement: S. 90 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-3692fbc3fd17315df857059768699775]: Commencement: S. 90 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-1b585da658a70a337d72597858ac8e22]: Textual amendment: Words in s. 90(1) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/72); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-1b585da658a70a337d72597858ac8e22]: Textual amendment: Words in s. 90(1) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 72](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/72); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

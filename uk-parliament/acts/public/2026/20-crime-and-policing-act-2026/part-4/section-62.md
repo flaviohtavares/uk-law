@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Interpretation and supplementary provision[^key-9af99880930ee102b857d551e302e3c7]
+## 62. Interpretation and supplementary provision[^c-9af99880930ee102b857d551e302e3c7]
 
 *Extent: E+W*
 
-(1)[^key-a22bbe29358a43fafd15fab5fca557af] In sections 50 to 60—
+(1)[^c-a22bbe29358a43fafd15fab5fca557af] In sections 50 to 60—
 
 - “**CCE prevention order**”, except in paragraphs (b) and (c) of section 59(2), means an order under section 51 (and accordingly includes an interim order made by virtue of section 54);
 - “**defendant**” has the same meaning as in section 50;
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9af99880930ee102b857d551e302e3c7]: Commencement: S. 62 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9af99880930ee102b857d551e302e3c7]: Commencement: S. 62 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a22bbe29358a43fafd15fab5fca557af]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/62/1) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/d)
+[^c-a22bbe29358a43fafd15fab5fca557af]: Commencement: [S. 62(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/62/1) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/d)

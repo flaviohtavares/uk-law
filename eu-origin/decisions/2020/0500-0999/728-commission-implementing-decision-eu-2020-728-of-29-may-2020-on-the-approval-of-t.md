@@ -135,7 +135,7 @@ The baseline technology shall be an alternator with a mass of maximum 7 kg and a
 
 ## Article 3. Application for certification of CO<sub>2</sub> savings
 
-1. A manufacturer may apply to the Secretary of State[^key-bf258b21ffdb78c86b4eff186eca4a51] for certification of the CO<sub>2</sub> savings from the use of the technology approved in accordance with Article 1 (‘the innovative technology’) in one or several 12 volt motor-generators by reference to this Decision.
+1. A manufacturer may apply to the Secretary of State[^c-bf258b21ffdb78c86b4eff186eca4a51] for certification of the CO<sub>2</sub> savings from the use of the technology approved in accordance with Article 1 (‘the innovative technology’) in one or several 12 volt motor-generators by reference to this Decision.
 
 2. The manufacturer shall ensure that the application for the certification is accompanied by a verification report from an independent and certified body confirming that the conditions set out in Article 1 have been met.
 
@@ -143,20 +143,20 @@ The baseline technology shall be an alternator with a mass of maximum 7 kg and a
 
 ## Article 4. Certification of CO<sub>2</sub> savings
 
-1. The Secretary of State[^key-17de225ae7f3986caf770ec060401fb6] shall ensure that CO<sub>2</sub> savings achieved from the use of the innovative technology have been determined using the methodology set out in the Annex.
+1. The Secretary of State[^c-17de225ae7f3986caf770ec060401fb6] shall ensure that CO<sub>2</sub> savings achieved from the use of the innovative technology have been determined using the methodology set out in the Annex.
 
-2. Where a manufacturer applies for the certification of the CO<sub>2</sub> savings from the use of the innovative technology in more than one 12 volt motor-generator in relation to one vehicle version, the Secretary of State[^key-e3f4c618b8d383f53767b5fb09890f21] shall determine which of the 12 volt motor-generators tested delivers the lowest CO<sub>2</sub> savings. That value shall be used for the purpose of paragraph 4.
+2. Where a manufacturer applies for the certification of the CO<sub>2</sub> savings from the use of the innovative technology in more than one 12 volt motor-generator in relation to one vehicle version, the Secretary of State[^c-e3f4c618b8d383f53767b5fb09890f21] shall determine which of the 12 volt motor-generators tested delivers the lowest CO<sub>2</sub> savings. That value shall be used for the purpose of paragraph 4.
 
-3. Where the innovative technology is fitted in a bi-fuel or flex-fuel vehicle, the Secretary of State[^key-c5624c4a4b897641771aa3410c90e290] shall record the CO<sub>2</sub> savings as follows:
+3. Where the innovative technology is fitted in a bi-fuel or flex-fuel vehicle, the Secretary of State[^c-c5624c4a4b897641771aa3410c90e290] shall record the CO<sub>2</sub> savings as follows:
 
 - (a) for bi-fuel vehicles using petrol and gaseous fuels, the CO<sub>2</sub> savings value with regard to LPG or CNG fuels;
 - (b) for flex-fuel vehicles using petrol and E85, the CO<sub>2</sub> savings value with regard to petrol.
 
-4. The Secretary of State[^key-9508d2b6c1a89c9b0a3388649637bdb5] shall record the certified CO<sub>2</sub> savings determined in accordance with paragraph 1 and 2, and the eco-innovation code referred to in Article 5(1) in the relevant type-approval documentation.
+4. The Secretary of State[^c-9508d2b6c1a89c9b0a3388649637bdb5] shall record the certified CO<sub>2</sub> savings determined in accordance with paragraph 1 and 2, and the eco-innovation code referred to in Article 5(1) in the relevant type-approval documentation.
 
-5. The Secretary of State[^key-f3036c5b754fa9234646c389d6cad96a] shall record all the elements considered for the certification in a test report and keep that together with the verification report referred to in Article 3(2) [^key-55837d09ae82c441eb78ad0be78ec516]....
+5. The Secretary of State[^c-f3036c5b754fa9234646c389d6cad96a] shall record all the elements considered for the certification in a test report and keep that together with the verification report referred to in Article 3(2) [^c-55837d09ae82c441eb78ad0be78ec516]....
 
-6. The Secretary of State[^key-ecaa41362b4f27c3ac2773f872e42b6b] shall only certify CO<sub>2</sub> savings, if the Secretary of State[^key-a805fabd587e8914e92f2c1891f69fc6] finds that the innovative technology complies with the conditions set out in Article 1, and if the CO<sub>2</sub> savings achieved are 1 g CO<sub>2</sub>/km or higher, as specified in Article 9(1)(a) of Implementing Regulation (EU) No 725/2011 in the case of passenger cars, or as specified in Article 9(1)(a) of Implementing Regulation (EU) No 427/2014 in the case of light commercial vehicles.
+6. The Secretary of State[^c-ecaa41362b4f27c3ac2773f872e42b6b] shall only certify CO<sub>2</sub> savings, if the Secretary of State[^c-a805fabd587e8914e92f2c1891f69fc6] finds that the innovative technology complies with the conditions set out in Article 1, and if the CO<sub>2</sub> savings achieved are 1 g CO<sub>2</sub>/km or higher, as specified in Article 9(1)(a) of Implementing Regulation (EU) No 725/2011 in the case of passenger cars, or as specified in Article 9(1)(a) of Implementing Regulation (EU) No 427/2014 in the case of light commercial vehicles.
 
 ## Article 5. Eco-innovation code
 
@@ -164,7 +164,7 @@ The baseline technology shall be an alternator with a mass of maximum 7 kg and a
 
 2. The certified CO<sub>2</sub> savings recorded by reference to that eco-innovation code may only be taken into account for the calculation of the average specific emissions of manufacturers for the calendar year 2020.
 
-## Article 6. Entry into force[^key-90fd66341979e7ea143e5b96b3dde1e2]
+## Article 6. Entry into force[^c-90fd66341979e7ea143e5b96b3dde1e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -239,7 +239,7 @@ DETERMINATION OF THE EFFICIENCY
 
 The motor-generator efficiency shall be determined in accordance with ISO 8854:2012, with the exception of the elements specified in this point.
 
-Evidence shall be provided to the Secretary of State[^key-135b6441a1c86ac9442cd81dd0a80bcf] that the speed ranges of the 12 volt motor-generator are consistent with those set out in Table 1. The measurements shall be conducted at different operating points, as set out in Table 1. The current intensity of the motor-generator shall be defined as half of the rated current for all operating points. For each speed the voltage and the output current of the motor-generator shall be kept constant at 14,3 volt.
+Evidence shall be provided to the Secretary of State[^c-135b6441a1c86ac9442cd81dd0a80bcf] that the speed ranges of the 12 volt motor-generator are consistent with those set out in Table 1. The measurements shall be conducted at different operating points, as set out in Table 1. The current intensity of the motor-generator shall be defined as half of the rated current for all operating points. For each speed the voltage and the output current of the motor-generator shall be kept constant at 14,3 volt.
 
 *Table 1*
 
@@ -406,13 +406,13 @@ CO<sub>2</sub> correction coefficient due to the positive mass difference (Δm) 
 | LPG | [image: see source](https://www.legislation.gov.uk/eudn/2020/728/images/eudn_20200728_2020-05-29_en_037) |
 | CNG | [image: see source](https://www.legislation.gov.uk/eudn/2020/728/images/eudn_20200728_2020-05-29_en_038) |
 
-In this Table, Δm is the extra mass due to the installation of the efficient 12 volt motor-generator. The extra mass is the positive difference between the mass of the efficient 12 volt motor-generator and the mass of the baseline alternator. The mass of the baseline alternator is 7 kg. The extra mass is to be verified and confirmed in the verification report to be submitted to the Secretary of State[^key-160c41a9c92e6566a668b7bf3be8b203] together with the application for certification.
+In this Table, Δm is the extra mass due to the installation of the efficient 12 volt motor-generator. The extra mass is the positive difference between the mass of the efficient 12 volt motor-generator and the mass of the baseline alternator. The mass of the baseline alternator is 7 kg. The extra mass is to be verified and confirmed in the verification report to be submitted to the Secretary of State[^c-160c41a9c92e6566a668b7bf3be8b203] together with the application for certification.
 
 7\.
 
 THE 12 VOLT MOTOR-GENERATOR WITH AN EFFICIENT GENERATOR FUNCTION TO BE FITTED IN PASSENGER CARS AND LIGHT COMMERCIAL VEHICLES
 
-The Secretary of State[^key-e55fdae5a2926f73baed5ebeb780b158] is to certify the CO<sub>2</sub> savings based on the measurements of the 12 volt motor-generator and the baseline alternator using the testing methodology set out in this Annex. Where the CO<sub>2</sub> emission savings are below the threshold specified in Article 9(1)(a) of Implementing Regulations (EU) No 725/2011 or (EU) No 427/2014, the second subparagraph of Article 11(2) of those Regulations shall apply.
+The Secretary of State[^c-e55fdae5a2926f73baed5ebeb780b158] is to certify the CO<sub>2</sub> savings based on the measurements of the 12 volt motor-generator and the baseline alternator using the testing methodology set out in this Annex. Where the CO<sub>2</sub> emission savings are below the threshold specified in Article 9(1)(a) of Implementing Regulations (EU) No 725/2011 or (EU) No 427/2014, the second subparagraph of Article 11(2) of those Regulations shall apply.
 
 ## Annotations
 
@@ -436,28 +436,28 @@ The Secretary of State[^key-e55fdae5a2926f73baed5ebeb780b158] is to certify the 
 
 [^f00010]: Footnote: Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008 ([OJ L 175, 7.7.2017, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.175.01.0001.01.ENG)).
 
-[^key-bf258b21ffdb78c86b4eff186eca4a51]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eudn/2020/728/article/3/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/2)
+[^c-bf258b21ffdb78c86b4eff186eca4a51]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eudn/2020/728/article/3/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/2)
 
-[^key-17de225ae7f3986caf770ec060401fb6]: Textual amendment: Words in Art. 4(1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/a)
+[^c-17de225ae7f3986caf770ec060401fb6]: Textual amendment: Words in Art. 4(1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/a)
 
-[^key-e3f4c618b8d383f53767b5fb09890f21]: Textual amendment: Words in Art. 4(2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/a)
+[^c-e3f4c618b8d383f53767b5fb09890f21]: Textual amendment: Words in Art. 4(2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/a)
 
-[^key-c5624c4a4b897641771aa3410c90e290]: Textual amendment: Words in Art. 4(3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/b)
+[^c-c5624c4a4b897641771aa3410c90e290]: Textual amendment: Words in Art. 4(3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/b)
 
-[^key-9508d2b6c1a89c9b0a3388649637bdb5]: Textual amendment: Words in Art. 4(4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/c)
+[^c-9508d2b6c1a89c9b0a3388649637bdb5]: Textual amendment: Words in Art. 4(4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/c)
 
-[^key-f3036c5b754fa9234646c389d6cad96a]: Textual amendment: Words in Art. 4(5) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/d/i)
+[^c-f3036c5b754fa9234646c389d6cad96a]: Textual amendment: Words in Art. 4(5) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/d/i)
 
-[^key-55837d09ae82c441eb78ad0be78ec516]: Textual amendment: Words in Art. 4(5) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/d/ii)
+[^c-55837d09ae82c441eb78ad0be78ec516]: Textual amendment: Words in Art. 4(5) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/d/ii)
 
-[^key-ecaa41362b4f27c3ac2773f872e42b6b]: Textual amendment: Words in Art. 4(6) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/e/i)
+[^c-ecaa41362b4f27c3ac2773f872e42b6b]: Textual amendment: Words in Art. 4(6) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/e/i)
 
-[^key-a805fabd587e8914e92f2c1891f69fc6]: Textual amendment: Words in Art. 4(6) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/e/ii)
+[^c-a805fabd587e8914e92f2c1891f69fc6]: Textual amendment: Words in Art. 4(6) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/3/e/ii)
 
-[^key-90fd66341979e7ea143e5b96b3dde1e2]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2020/728/article/6) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/4)
+[^c-90fd66341979e7ea143e5b96b3dde1e2]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2020/728/article/6) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/4)
 
-[^key-135b6441a1c86ac9442cd81dd0a80bcf]: Textual amendment: Words in Annex point 3 substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/5/a)
+[^c-135b6441a1c86ac9442cd81dd0a80bcf]: Textual amendment: Words in Annex point 3 substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/5/a)
 
-[^key-160c41a9c92e6566a668b7bf3be8b203]: Textual amendment: Words in Annex point 6 substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/5/b)
+[^c-160c41a9c92e6566a668b7bf3be8b203]: Textual amendment: Words in Annex point 6 substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/5/b)
 
-[^key-e55fdae5a2926f73baed5ebeb780b158]: Textual amendment: Words in Annex point 7 substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(5)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/5/c)
+[^c-e55fdae5a2926f73baed5ebeb780b158]: Textual amendment: Words in Annex point 7 substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [8(5)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/8/5/c)

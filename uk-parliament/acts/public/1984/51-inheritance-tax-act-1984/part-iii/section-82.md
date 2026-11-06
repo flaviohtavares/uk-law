@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Excluded property : property to which section 81 applies (old cases)[^key-e5f8aeb464b20457e0153d8d1a60d01d][^key-1deedd57a933d268ae60112cd08bad7b]
+## 82. Excluded property : property to which section 81 applies (old cases)[^c-e5f8aeb464b20457e0153d8d1a60d01d][^c-1deedd57a933d268ae60112cd08bad7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5f8aeb464b20457e0153d8d1a60d01d]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/1984/51/section/82) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/17), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-e5f8aeb464b20457e0153d8d1a60d01d]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/1984/51/section/82) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/17), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-1deedd57a933d268ae60112cd08bad7b]: Textual amendment: Words in s. 82 heading inserted (with effect in accordance with s. 74(5) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 74(3)(f)](https://www.legislation.gov.uk/ukpga/2020/14/section/74/3/f)
+[^c-1deedd57a933d268ae60112cd08bad7b]: Textual amendment: Words in s. 82 heading inserted (with effect in accordance with s. 74(5) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 74(3)(f)](https://www.legislation.gov.uk/ukpga/2020/14/section/74/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 249. Assignment of right to dividend[^key-78cf4f389130064fb3c782cba22838e6]
+## 249. Assignment of right to dividend[^c-78cf4f389130064fb3c782cba22838e6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.11 of the 1986 Rules.
 
 ## Annotations
 
-[^key-78cf4f389130064fb3c782cba22838e6]: Commencement: Rule 249 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-78cf4f389130064fb3c782cba22838e6]: Commencement: Rule 249 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

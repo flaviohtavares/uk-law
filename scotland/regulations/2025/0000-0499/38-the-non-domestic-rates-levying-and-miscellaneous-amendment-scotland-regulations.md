@@ -48,37 +48,37 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-b5a431fc7272d319b2791797ade57e3d]
+### 1. Citation and commencement[^c-b5a431fc7272d319b2791797ade57e3d]
 
 These Regulations may be cited as the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 and come into force on 1 April 2025.
 
 ## PART 2 — Levying Regulations
 
-### 2. Interpretation of Part 2[^key-9352001be4f4130ac6b3f77b39c844c3]
+### 2. Interpretation of Part 2[^c-9352001be4f4130ac6b3f77b39c844c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amount payable as rates – lands and heritages with rateable value of less than £20,000 (single entries)[^key-9352001be4f4130ac6b3f77b39c844c3]
+### 3. Amount payable as rates – lands and heritages with rateable value of less than £20,000 (single entries)[^c-9352001be4f4130ac6b3f77b39c844c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amount payable as rates – lands and heritages with rateable value of £35,000 or less (multiple entries)[^key-9352001be4f4130ac6b3f77b39c844c3]
+### 4. Amount payable as rates – lands and heritages with rateable value of £35,000 or less (multiple entries)[^c-9352001be4f4130ac6b3f77b39c844c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amount payable as rates – lands and heritages with rateable value exceeding £51,000 but not exceeding £100,000[^key-9352001be4f4130ac6b3f77b39c844c3]
+### 5. Amount payable as rates – lands and heritages with rateable value exceeding £51,000 but not exceeding £100,000[^c-9352001be4f4130ac6b3f77b39c844c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amount payable as rates – lands and heritages with rateable value exceeding £100,000[^key-9352001be4f4130ac6b3f77b39c844c3]
+### 6. Amount payable as rates – lands and heritages with rateable value exceeding £100,000[^c-9352001be4f4130ac6b3f77b39c844c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amount payable as rates – newly re-occupied lands and heritages with rateable value of £100,000 or less[^key-9352001be4f4130ac6b3f77b39c844c3]
+### 7. Amount payable as rates – newly re-occupied lands and heritages with rateable value of £100,000 or less[^c-9352001be4f4130ac6b3f77b39c844c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Exemptions and discretionary reductions and remissions[^key-1aa5b4f2c6dd22759bcd85ab2f1a2177]
+### 8. Exemptions and discretionary reductions and remissions[^c-1aa5b4f2c6dd22759bcd85ab2f1a2177]
 
 Nothing in this Part of these Regulations—
 
@@ -86,7 +86,7 @@ Nothing in this Part of these Regulations—
 - (b) prejudices the power of a rating authority to grant a reduction or remission of rates under section 3A or 4(5) of the 1962 Act[^f00026] or paragraph 4 of schedule 2 of the 1997 Act[^f00027], or
 - (c) prejudices the power of a local authority to give notice to a ratepayer under section 20 of the Non-Domestic Rates (Scotland) Act 2020[^f00028].
 
-### 9. Revocation and saving[^key-b871654dcd99f03cb0094ca37938e7c1]
+### 9. Revocation and saving[^c-b871654dcd99f03cb0094ca37938e7c1]
 
 (1) Subject to paragraph (2), regulations 2 to 7 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024[^f00029] are revoked.
 
@@ -94,7 +94,7 @@ Nothing in this Part of these Regulations—
 
 ## PART 3 — Miscellaneous Non-Domestic Rating Revocations
 
-### 10. Revocation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020[^key-87d0351292a6535c5ea8c39ae6428f54]
+### 10. Revocation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020[^c-87d0351292a6535c5ea8c39ae6428f54]
 
 (1) Subject to paragraph (2) the following are revoked—
 
@@ -104,23 +104,23 @@ Nothing in this Part of these Regulations—
 
 (2) Nothing in paragraph (1) affects the continuing operation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020 as regards any request for relief under regulation 3, 4 or 4A of those Regulations on or before 1 April 2025.
 
-### 11. Revocation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021[^key-c3f587d10d41389c66b23a2d6b75bf4f]
+### 11. Revocation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021[^c-c3f587d10d41389c66b23a2d6b75bf4f]
 
 (1) Subject to paragraph (2), the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021[^f00033] are revoked.
 
 (2) Nothing in paragraph (1) affects the continuing operation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2021 as regards any application made under regulation 3 of those Regulations on or before 1 April 2025.
 
-### 12. Revocation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022[^key-4a5a6038a26165abbe49ea4e8b18b63a]
+### 12. Revocation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022[^c-4a5a6038a26165abbe49ea4e8b18b63a]
 
 (1) Subject to paragraph (2) the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022[^f00034] are revoked.
 
 (2) Nothing in paragraph (1) affects the continuing operation of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2022 as regards any application made under regulation 3 of those Regulations on or before 1 April 2025.
 
-### 13. Revocation of regulation 11A of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022[^key-33f5122b0ced691955889b9f33a28e02]
+### 13. Revocation of regulation 11A of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022[^c-33f5122b0ced691955889b9f33a28e02]
 
 Regulation 11A (part 3A – effect of revaluation on relief granted under regulation 10) of the 2022 Regulations[^f00035] is revoked.
 
-### 14. Amendment of the Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023[^key-24a150aa56b9ec188c50e51588277d60]
+### 14. Amendment of the Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023[^c-24a150aa56b9ec188c50e51588277d60]
 
 (1) The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023[^f00036] are amended in accordance with paragraph (2).
 
@@ -168,11 +168,11 @@ Part 3 contains miscellaneous revocations and amendments in respect of non-domes
 
 [^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was relevantly amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12) and section 15 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-b5a431fc7272d319b2791797ade57e3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-b5a431fc7272d319b2791797ade57e3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
-[^key-9352001be4f4130ac6b3f77b39c844c3]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2025/38/regulation/2) revoked (1.4.2026) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [11(1)](https://www.legislation.gov.uk/ssi/2026/68/regulation/11/1) (with [regs. 10](https://www.legislation.gov.uk/ssi/2026/68/regulation/10), [11(2)](https://www.legislation.gov.uk/ssi/2026/68/regulation/11/2))
+[^c-9352001be4f4130ac6b3f77b39c844c3]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2025/38/regulation/2) revoked (1.4.2026) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/68)](https://www.legislation.gov.uk/ssi/2026/68), [regs. 1](https://www.legislation.gov.uk/ssi/2026/68/regulation/1), [11(1)](https://www.legislation.gov.uk/ssi/2026/68/regulation/11/1) (with [regs. 10](https://www.legislation.gov.uk/ssi/2026/68/regulation/10), [11(2)](https://www.legislation.gov.uk/ssi/2026/68/regulation/11/2))
 
-[^key-1aa5b4f2c6dd22759bcd85ab2f1a2177]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/38/regulation/8) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-1aa5b4f2c6dd22759bcd85ab2f1a2177]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/38/regulation/8) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00026]: Footnote: Section 3A was inserted by section 140(1) of the Community Empowerment (Scotland) Act [2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6). Section 4(5) was relevantly amended by paragraph 57 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 2(a) of schedule 3 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29) and section 98(3) of the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -180,11 +180,11 @@ Part 3 contains miscellaneous revocations and amendments in respect of non-domes
 
 [^f00028]: Footnote: [2020 asp 4](https://www.legislation.gov.uk/asp/2020/4).
 
-[^key-b871654dcd99f03cb0094ca37938e7c1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/38/regulation/9) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-b871654dcd99f03cb0094ca37938e7c1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/38/regulation/9) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00029]: Footnote: [S.S.I. 2024/4](https://www.legislation.gov.uk/ssi/2024/4).
 
-[^key-87d0351292a6535c5ea8c39ae6428f54]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/38/regulation/10) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-87d0351292a6535c5ea8c39ae6428f54]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/38/regulation/10) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00030]: Footnote: [S.S.I. 2020/101](https://www.legislation.gov.uk/ssi/2020/101) which was amended by section 16(1) and paragraph 8(2) of schedule 4 of the Coronavirus (Scotland) (No. 2) Act [2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [S.S.I. 2020/230](https://www.legislation.gov.uk/ssi/2020/230) and [S.S.I. 2020/391](https://www.legislation.gov.uk/ssi/2020/391).
 
@@ -192,18 +192,18 @@ Part 3 contains miscellaneous revocations and amendments in respect of non-domes
 
 [^f00032]: Footnote: [S.S.I. 2020/391](https://www.legislation.gov.uk/ssi/2020/391).
 
-[^key-c3f587d10d41389c66b23a2d6b75bf4f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2025/38/regulation/11) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-c3f587d10d41389c66b23a2d6b75bf4f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2025/38/regulation/11) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00033]: Footnote: [S.S.I. 2021/151](https://www.legislation.gov.uk/ssi/2021/151).
 
-[^key-4a5a6038a26165abbe49ea4e8b18b63a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2025/38/regulation/12) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-4a5a6038a26165abbe49ea4e8b18b63a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2025/38/regulation/12) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00034]: Footnote: [S.S.I. 2022/47](https://www.legislation.gov.uk/ssi/2022/47).
 
-[^key-33f5122b0ced691955889b9f33a28e02]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/38/regulation/13) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-33f5122b0ced691955889b9f33a28e02]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/38/regulation/13) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00035]: Footnote: Regulation 11A was inserted by [S.S.I. 2023/30](https://www.legislation.gov.uk/ssi/2023/30).
 
-[^key-24a150aa56b9ec188c50e51588277d60]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/38/regulation/14) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
+[^c-24a150aa56b9ec188c50e51588277d60]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/38/regulation/14) in force at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1)
 
 [^f00036]: Footnote: [S.S.I. 2023/8](https://www.legislation.gov.uk/ssi/2023/8) which was amended by [S.S.I. 2024/5](https://www.legislation.gov.uk/ssi/2024/5) and [S.S.I. 2025/40](https://www.legislation.gov.uk/ssi/2025/40).

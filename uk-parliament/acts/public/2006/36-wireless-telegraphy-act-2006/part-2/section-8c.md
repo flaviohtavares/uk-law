@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8C. Consultation before grant of exclusive licence[^key-d1f75766f0459d5b607c43baec632a5e]
+## 8C. Consultation before grant of exclusive licence[^c-d1f75766f0459d5b607c43baec632a5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 - (a) OFCOM's reasons for proposing to grant an exclusive licence, and
 - (b) the period within which representations may be made to OFCOM.
 
-(4) The period specified under subsection (3)(b) may not be less than 30 days[^key-289348264bef3ed3e567d843e9089d00] beginning with the day on which the notice is published.
+(4) The period specified under subsection (3)(b) may not be less than 30 days[^c-289348264bef3ed3e567d843e9089d00] beginning with the day on which the notice is published.
 
 ## Annotations
 
-[^key-d1f75766f0459d5b607c43baec632a5e]: Textual amendment: Ss. 8A-8C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/5) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-d1f75766f0459d5b607c43baec632a5e]: Textual amendment: Ss. 8A-8C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/5) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-289348264bef3ed3e567d843e9089d00]: Textual amendment: Words in [s. 8C(4)](https://www.legislation.gov.uk/ukpga/2006/36/section/8C/4) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/82)
+[^c-289348264bef3ed3e567d843e9089d00]: Textual amendment: Words in [s. 8C(4)](https://www.legislation.gov.uk/ukpga/2006/36/section/8C/4) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/82)

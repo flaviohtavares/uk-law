@@ -51,7 +51,7 @@ The Road Traffic (Amendment) (Northern Ireland) Order 1991
 
 *Article 3—Amendments*
 
-### 4. Abolition of special licences for driving heavy goods vehicles and public service vehicles[^key-6998c54f0eb892c8070de73bb6decaab]
+### 4. Abolition of special licences for driving heavy goods vehicles and public service vehicles[^c-6998c54f0eb892c8070de73bb6decaab]
 
 (1) On the appointed day Articles 70 to 79 of the principal Order (which require special driving licences to be held for driving heavy goods vehicles and public service vehicles) shall cease to have effect but the repeal of those provisions does not imply that it is lawful for a person to drive a heavy goods vehicle or a public service vehicle of any class on or after that day on the authority of an existing licence under Part II of the principal Order (ordinary licences) and, for the purposes of Article 3 of that Order (offence of driving without Part II licence), his licence shall not be taken to authorise him to drive vehicles of those classes.
 
@@ -78,7 +78,7 @@ There shall be inserted as Articles 70 to 79 of the principal Order the special 
 - (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and
 - (b) re-enact and assimilate certain of the provisions of Articles 70 to 79 of the principal Order (as originally enacted) to take account of the abolition by Article 4 of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part II of the principal Order.
 
-### 6. Licensing of taxi drivers[^key-2050131231b39f1acec239a6b807c0f7]
+### 6. Licensing of taxi drivers[^c-2050131231b39f1acec239a6b807c0f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -163,7 +163,7 @@ SCHEDULES
 
 *Schedule 1—Amendments*
 
-## SCHEDULE 2 — EXISTING HEAVY GOODS VEHICLES AND PUBLIC SERVICE VEHICLES DRIVERS' LICENCES[^key-69ffb2761fedf20e0eeedb0a8c1a5fd2]
+## SCHEDULE 2 — EXISTING HEAVY GOODS VEHICLES AND PUBLIC SERVICE VEHICLES DRIVERS' LICENCES[^c-69ffb2761fedf20e0eeedb0a8c1a5fd2]
 
 Article 4.
 
@@ -261,7 +261,7 @@ and where the licence is suspended under paragraph (b) it shall during the time 
 - (a) suspension or revocation of his licence under paragraph 4, or
 - (b) ordering of disqualification under paragraph 5,
 
-may, after giving to the Department notice of his intention to do so, appeal to a court of summary jurisdiction [^key-5cbfa798b5c67d324ddd07051ca5300a]....
+may, after giving to the Department notice of his intention to do so, appeal to a court of summary jurisdiction [^c-5cbfa798b5c67d324ddd07051ca5300a]....
 
 (2) On an appeal under sub-paragraph (1)(a) the Department shall be respondent.
 
@@ -313,15 +313,15 @@ may, after giving to the Department notice of his intention to do so, appeal to 
 
 [^m00002]: Marginal citation: 1981 NI 1
 
-[^key-6998c54f0eb892c8070de73bb6decaab]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1991/197/article/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6998c54f0eb892c8070de73bb6decaab]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1991/197/article/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-2050131231b39f1acec239a6b807c0f7]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1991/197/article/6) repealed (31.10.2014) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 3](https://www.legislation.gov.uk/nia/2008/4/schedule/3); [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/238/schedule)
+[^c-2050131231b39f1acec239a6b807c0f7]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1991/197/article/6) repealed (31.10.2014) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 3](https://www.legislation.gov.uk/nia/2008/4/schedule/3); [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/238/schedule)
 
 [^c5474861]: Textual amendment: SR 1996/426
 
-[^key-69ffb2761fedf20e0eeedb0a8c1a5fd2]: Modification: [Sch. 2](https://www.legislation.gov.uk/nisi/1991/197/schedule/2): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-69ffb2761fedf20e0eeedb0a8c1a5fd2]: Modification: [Sch. 2](https://www.legislation.gov.uk/nisi/1991/197/schedule/2): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-5cbfa798b5c67d324ddd07051ca5300a]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisi/1991/197/schedule/2/paragraph/6/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 100](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/100), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-5cbfa798b5c67d324ddd07051ca5300a]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisi/1991/197/schedule/2/paragraph/6/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 100](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/100), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00003]: Marginal citation: 1954 c. 33 (N.I.)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 326. Grounds of objection to a blight notice[^key-19f6b3b067a2857c9e7c8d9befe91820]
+## 326. Grounds of objection to a blight notice[^c-19f6b3b067a2857c9e7c8d9befe91820]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19f6b3b067a2857c9e7c8d9befe91820]: Commencement: S. 326 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-19f6b3b067a2857c9e7c8d9befe91820]: Commencement: S. 326 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

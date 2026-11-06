@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Licence to dredge[^key-b4cb5e3defb9e3bcc493eebef93920eb]
+## 24. Licence to dredge[^c-b4cb5e3defb9e3bcc493eebef93920eb]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4cb5e3defb9e3bcc493eebef93920eb]: Commencement: Art. 24 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-b4cb5e3defb9e3bcc493eebef93920eb]: Commencement: Art. 24 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

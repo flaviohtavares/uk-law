@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Waste prevention and management plans[^key-c93b6f32661e3c1b6e1db6e95c16b10a]
+## 78. Waste prevention and management plans[^c-c93b6f32661e3c1b6e1db6e95c16b10a]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c93b6f32661e3c1b6e1db6e95c16b10a]: Commencement: S. 78 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-c93b6f32661e3c1b6e1db6e95c16b10a]: Commencement: S. 78 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

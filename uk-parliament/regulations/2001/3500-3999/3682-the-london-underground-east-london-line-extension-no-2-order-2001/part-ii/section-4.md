@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to construct works[^key-87fea0310d75a1d7ec0369278224b2f0]
+## 4. Power to construct works[^c-87fea0310d75a1d7ec0369278224b2f0]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87fea0310d75a1d7ec0369278224b2f0]: Commencement: Art. 4 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-87fea0310d75a1d7ec0369278224b2f0]: Commencement: Art. 4 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

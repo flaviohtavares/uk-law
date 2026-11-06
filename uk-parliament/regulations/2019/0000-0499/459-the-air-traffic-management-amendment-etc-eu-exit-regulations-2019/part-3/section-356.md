@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356. Article 4 of Commission Implementing Regulation (EU) 2017/373[^key-34432135e35356dcda8dd470ce8fa0d7]
+## 356. Article 4 of Commission Implementing Regulation (EU) 2017/373[^c-34432135e35356dcda8dd470ce8fa0d7]
 
 *Extent: E+W+S+N.I.*
 
 (1) Article 4 (competent authority for certification) is amended as follows.
 
-(2)[^key-245e5197b727bb8ea76d81a7ae511565] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-245e5197b727bb8ea76d81a7ae511565] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit the unnumbered paragraph after paragraph 1.
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34432135e35356dcda8dd470ce8fa0d7]: Commencement: Reg. 356 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-34432135e35356dcda8dd470ce8fa0d7]: Commencement: Reg. 356 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-245e5197b727bb8ea76d81a7ae511565]: Textual amendment: Reg. 356(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(6)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/6)
+[^c-245e5197b727bb8ea76d81a7ae511565]: Textual amendment: Reg. 356(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(6)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/6)

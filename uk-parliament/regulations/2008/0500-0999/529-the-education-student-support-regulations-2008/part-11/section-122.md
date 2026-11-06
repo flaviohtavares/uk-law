@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Disabled distance learning students’ allowance[^key-fb70af1e345ca56f38ee9ff038e0e49f]
+## 122. Disabled distance learning students’ allowance[^c-fb70af1e345ca56f38ee9ff038e0e49f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb70af1e345ca56f38ee9ff038e0e49f]: Commencement: Reg. 122 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-fb70af1e345ca56f38ee9ff038e0e49f]: Commencement: Reg. 122 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

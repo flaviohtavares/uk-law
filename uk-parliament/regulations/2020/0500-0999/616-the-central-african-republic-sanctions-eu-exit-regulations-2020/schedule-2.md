@@ -24,23 +24,23 @@ Regulation 33
 
 ### PART 1
 
-#### 1. Interpretation[^key-4882a43dff7371f5b59c2bd1259eb149]
+#### 1. Interpretation[^c-4882a43dff7371f5b59c2bd1259eb149]
 
-(1)[^key-b0af1c6f64b9b0c1d7e8bbd8b34c0be6] In this Schedule—
+(1)[^c-b0af1c6f64b9b0c1d7e8bbd8b34c0be6] In this Schedule—
 
 - “**consular post**” has the same meaning as in the Vienna Convention on Consular Relations done at Vienna on 24 April 1963 [^c24163371], and any reference to the functions of a consular post is to be read in accordance with that Convention;
 - “**designated person**” has the same meaning as it has in Part 3 (Finance);
 - “diplomatic mission”, and any reference to the functions of a diplomatic mission, are to be read in accordance with the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961 [^c24163381];
-- “[^key-5de312fdf0ea6d460f9d82c4c622eda9] **frozen account**” has the meaning given in regulation 31(7);
+- “[^c-5de312fdf0ea6d460f9d82c4c622eda9] **frozen account**” has the meaning given in regulation 31(7);
 - “**frozen funds or economic resources**” means funds or economic resources frozen by virtue of regulation 12, and any reference to a person's frozen funds or economic resources is to funds or economic resources frozen as a consequence of the designation of that person for the purpose of that regulation.
 
-(2)[^key-e30e7d737d8584969e186679586daabc] For the purposes of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**P**”).
+(2)[^c-e30e7d737d8584969e186679586daabc] For the purposes of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**P**”).
 
 (3) When determining for the purposes of paragraph 6A, 6B or 7 when C became a designated person, C is to be treated as having become a designated person at the same time as P.
 
 ### PART 2 — Purposes
 
-#### 2. Basic needs[^key-de07799a56b1d5b5e3e9f38893b222ef]
+#### 2. Basic needs[^c-de07799a56b1d5b5e3e9f38893b222ef]
 
 (1) To enable the basic needs of a designated person, or (in the case of an individual) any dependent family member of such a person, to be met.
 
@@ -73,14 +73,14 @@ Regulation 33
   - (d) any child or other descendant of the designated person;
   - (e) any person who is a brother or sister of the designated person, or a child or other descendant of such a person.
 
-#### 3. Legal services[^key-477dd58c6856cab63163c63a20a7edbf]
+#### 3. Legal services[^c-477dd58c6856cab63163c63a20a7edbf]
 
 To enable the payment of—
 
 - (a) reasonable professional fees for the provision of legal services, or
 - (b) reasonable expenses associated with the provision of legal services.
 
-#### 4. Maintenance of frozen funds and economic resources[^key-9e0ea2a36c44c24fd608dac0ff6e788d]
+#### 4. Maintenance of frozen funds and economic resources[^c-9e0ea2a36c44c24fd608dac0ff6e788d]
 
 To enable the payment of—
 
@@ -89,17 +89,17 @@ To enable the payment of—
 
 arising from the routine holding or maintenance of frozen funds or economic resources.
 
-#### 5. Extraordinary expenses[^key-57fe614b6475777a79c1b00565403965]
+#### 5. Extraordinary expenses[^c-57fe614b6475777a79c1b00565403965]
 
 To enable an extraordinary expense of a designated person to be met.
 
-#### 6. Pre-existing judicial decisions etc.[^key-40ee896a0db25da94f80006152404fc8]
+#### 6. Pre-existing judicial decisions etc.[^c-40ee896a0db25da94f80006152404fc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2A — Purposes relating only to UN designated persons[^key-ebb074c381cb7f4a6fc2e37bf6baf3d1]
+### PART 2A — Purposes relating only to UN designated persons[^c-ebb074c381cb7f4a6fc2e37bf6baf3d1]
 
-#### 6A. Prior obligations[^key-5d9707a6184aa984faf6a37ea399570e]
+#### 6A. Prior obligations[^c-5d9707a6184aa984faf6a37ea399570e]
 
 (1) To enable, by the use of a designated person’s funds or economic resources, the satisfaction of an obligation of that designated person arising under a contract, provided that—
 
@@ -119,7 +119,7 @@ To enable an extraordinary expense of a designated person to be met.
   - (ii) U is owned or controlled directly or indirectly by, or
   - (iii) is owned or controlled directly or indirectly by the same designated person that owns or controls directly or indirectly U.
 
-#### 6B. Pre-existing judicial decisions etc.[^key-2e7faeb1a60a64858d31c63b2ee6d8c2]
+#### 6B. Pre-existing judicial decisions etc.[^c-2e7faeb1a60a64858d31c63b2ee6d8c2]
 
 To enable, by the use of a designated person's frozen funds or economic resources, the implementation or satisfaction (in whole or in part) of a judicial, administrative or arbitral decision or lien, provided that—
 
@@ -129,28 +129,28 @@ To enable, by the use of a designated person's frozen funds or economic resource
   - (ii) is enforceable in the United Kingdom, and
 - (c) the use of the frozen funds or economic resources does not directly or indirectly benefit any other designated person.
 
-### PART 3 — Purposes relating only to non-UN designated persons[^key-7ea6315a0d952ce20868736e1b38eade]
+### PART 3 — Purposes relating only to non-UN designated persons[^c-7ea6315a0d952ce20868736e1b38eade]
 
-#### 7. Prior obligations[^key-1653087624f48824d47253a42f84d260]
+#### 7. Prior obligations[^c-1653087624f48824d47253a42f84d260]
 
 To enable the satisfaction of an obligation of a designated person (whether arising under a contract, other agreement or otherwise), provided that—
 
 - (a) the obligation arose before the date on which the person became a designated person, and
 - (b) no payments are made to another designated person, whether directly or indirectly.
 
-#### 8. Humanitarian assistance activities etc.[^key-3e6fdb856115703d05a08a6c84f4e676]
+#### 8. Humanitarian assistance activities etc.[^c-3e6fdb856115703d05a08a6c84f4e676]
 
 To enable anything to be done in connection with the performance of any humanitarian assistance activity.
 
-#### 9. Diplomatic missions[^key-3d69fe0933127d85bdc3b7508601a8b5]
+#### 9. Diplomatic missions[^c-3d69fe0933127d85bdc3b7508601a8b5]
 
 To enable anything to be done in order that the functions of a diplomatic mission or consular post in the Central African Republic or of an international organisation enjoying immunities in accordance with international law may be carried out.
 
-#### 10. Extraordinary situation[^key-85481c4fd812942e7aedbaf942965544]
+#### 10. Extraordinary situation[^c-85481c4fd812942e7aedbaf942965544]
 
 To enable anything to be done to deal with an extraordinary situation.
 
-#### 11. Insolvency[^key-5e9a47f9d85eac92dbad97a4ec8f22c2]
+#### 11. Insolvency[^c-5e9a47f9d85eac92dbad97a4ec8f22c2]
 
 (1) To enable anything to be done in connection with—
 
@@ -196,42 +196,42 @@ To enable the implementation or satisfaction (in whole or in part) of a judicial
 
 ## Annotations
 
-[^key-4882a43dff7371f5b59c2bd1259eb149]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-4882a43dff7371f5b59c2bd1259eb149]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-b0af1c6f64b9b0c1d7e8bbd8b34c0be6]: Textual amendment: Sch. 2 para. 1 renumbered as Sch. 2 para. 1(1) (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/a/i)
+[^c-b0af1c6f64b9b0c1d7e8bbd8b34c0be6]: Textual amendment: Sch. 2 para. 1 renumbered as Sch. 2 para. 1(1) (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/a/i)
 
 [^c24163371]: Marginal citation: United Nations Treaty Series, vol. 596, p. 261.
 
 [^c24163381]: Marginal citation: United Nations Treaty Series, vol. 500, p. 95.
 
-[^key-5de312fdf0ea6d460f9d82c4c622eda9]: Textual amendment: Words in Sch. 2 para. 1(1) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/a/ii)
+[^c-5de312fdf0ea6d460f9d82c4c622eda9]: Textual amendment: Words in Sch. 2 para. 1(1) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/a/ii)
 
-[^key-e30e7d737d8584969e186679586daabc]: Textual amendment: Sch. 2 para. 1(2)(3) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/a/iii)
+[^c-e30e7d737d8584969e186679586daabc]: Textual amendment: Sch. 2 para. 1(2)(3) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/a/iii)
 
-[^key-de07799a56b1d5b5e3e9f38893b222ef]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-de07799a56b1d5b5e3e9f38893b222ef]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-477dd58c6856cab63163c63a20a7edbf]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-477dd58c6856cab63163c63a20a7edbf]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-9e0ea2a36c44c24fd608dac0ff6e788d]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-9e0ea2a36c44c24fd608dac0ff6e788d]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-57fe614b6475777a79c1b00565403965]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-57fe614b6475777a79c1b00565403965]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-40ee896a0db25da94f80006152404fc8]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/6) omitted (5.12.2024) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/b)
+[^c-40ee896a0db25da94f80006152404fc8]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/6) omitted (5.12.2024) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/b)
 
-[^key-ebb074c381cb7f4a6fc2e37bf6baf3d1]: Textual amendment: Sch. 2 Pt. 2A inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2020/950/regulation/10/4/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-ebb074c381cb7f4a6fc2e37bf6baf3d1]: Textual amendment: Sch. 2 Pt. 2A inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2020/950/regulation/10/4/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-5d9707a6184aa984faf6a37ea399570e]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/6A) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [21(6)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/21/6/a)
+[^c-5d9707a6184aa984faf6a37ea399570e]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/6A) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [21(6)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/21/6/a)
 
-[^key-2e7faeb1a60a64858d31c63b2ee6d8c2]: Textual amendment: [Sch. 2 para. 6B](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/6B) and cross-heading inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/c)
+[^c-2e7faeb1a60a64858d31c63b2ee6d8c2]: Textual amendment: [Sch. 2 para. 6B](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/6B) and cross-heading inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/c)
 
-[^key-7ea6315a0d952ce20868736e1b38eade]: Textual amendment: Sch. 2 Pt. 3 heading omitted and re-inserted above para. 7 (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [10(4)(b)(c)](https://www.legislation.gov.uk/uksi/2020/950/regulation/10/4/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-7ea6315a0d952ce20868736e1b38eade]: Textual amendment: Sch. 2 Pt. 3 heading omitted and re-inserted above para. 7 (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No.3) Regulations 2020 (S.I. 2020/950)](https://www.legislation.gov.uk/uksi/2020/950), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/950/regulation/1/2), [10(4)(b)(c)](https://www.legislation.gov.uk/uksi/2020/950/regulation/10/4/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-1653087624f48824d47253a42f84d260]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/7) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [21(6)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/21/6/b)
+[^c-1653087624f48824d47253a42f84d260]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/7) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [21(6)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/21/6/b)
 
-[^key-3e6fdb856115703d05a08a6c84f4e676]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-3e6fdb856115703d05a08a6c84f4e676]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-3d69fe0933127d85bdc3b7508601a8b5]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-3d69fe0933127d85bdc3b7508601a8b5]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-85481c4fd812942e7aedbaf942965544]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-85481c4fd812942e7aedbaf942965544]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-5e9a47f9d85eac92dbad97a4ec8f22c2]: Textual amendment: [Sch. 2 paras. 11](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/12) and cross-headings inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(d)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/d)
+[^c-5e9a47f9d85eac92dbad97a4ec8f22c2]: Textual amendment: [Sch. 2 paras. 11](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2020/616/schedule/2/paragraph/12) and cross-headings inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(13)(d)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/13/d)

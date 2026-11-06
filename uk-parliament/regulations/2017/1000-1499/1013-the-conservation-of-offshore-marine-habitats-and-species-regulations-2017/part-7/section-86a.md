@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Transitional provisions: EU exit[^key-edf660f534d2f202b8b8c4657cc1a3bb]
+## 86A. Transitional provisions: EU exit[^c-edf660f534d2f202b8b8c4657cc1a3bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edf660f534d2f202b8b8c4657cc1a3bb]: Textual amendment: [Reg. 86A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/86A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [70](https://www.legislation.gov.uk/uksi/2019/579/regulation/70); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edf660f534d2f202b8b8c4657cc1a3bb]: Textual amendment: [Reg. 86A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/86A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [70](https://www.legislation.gov.uk/uksi/2019/579/regulation/70); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

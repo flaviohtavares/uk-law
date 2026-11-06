@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-0674fd55c92529e217455c06a53e1d2c] The Secretary of State shall by order make provision for the dissolution of the Housing Corporation.
+(1)[^c-0674fd55c92529e217455c06a53e1d2c] The Secretary of State shall by order make provision for the dissolution of the Housing Corporation.
 
-(2)[^key-0674fd55c92529e217455c06a53e1d2c] The Secretary of State may by order make consequential amendment of enactments referring to the Housing Corporation.
+(2)[^c-0674fd55c92529e217455c06a53e1d2c] The Secretary of State may by order make consequential amendment of enactments referring to the Housing Corporation.
 
-(3)[^key-742d1068b146fd3f875b0600673d47ad] Omit section 33A of the Housing Associations Act 1985 (c. 69) (provision of services between the Corporations).
+(3)[^c-742d1068b146fd3f875b0600673d47ad] Omit section 33A of the Housing Associations Act 1985 (c. 69) (provision of services between the Corporations).
 
 ## Annotations
 
-[^key-0674fd55c92529e217455c06a53e1d2c]: Commencement: S. 64(1)(2) in force at 16.2.2009 by [S.I. 2009/363](https://www.legislation.gov.uk/uksi/2009/363), [art. 2](https://www.legislation.gov.uk/uksi/2009/363/article/2)
+[^c-0674fd55c92529e217455c06a53e1d2c]: Commencement: S. 64(1)(2) in force at 16.2.2009 by [S.I. 2009/363](https://www.legislation.gov.uk/uksi/2009/363), [art. 2](https://www.legislation.gov.uk/uksi/2009/363/article/2)
 
-[^key-742d1068b146fd3f875b0600673d47ad]: Commencement: S. 64(3) in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-742d1068b146fd3f875b0600673d47ad]: Commencement: S. 64(3) in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

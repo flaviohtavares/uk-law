@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Breach of official duty[^key-040606c68d027b24f1aade741ac13345]
+## 28. Breach of official duty[^c-040606c68d027b24f1aade741ac13345]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040606c68d027b24f1aade741ac13345]: Commencement: Art. 28 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-040606c68d027b24f1aade741ac13345]: Commencement: Art. 28 in force at 16.12.2015 in accordance with art. 1(1)

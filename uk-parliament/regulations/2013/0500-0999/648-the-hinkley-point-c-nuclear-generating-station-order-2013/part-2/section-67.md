@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Permanent lights on tidal works[^key-f8b2b56f820777a4fde080ab3958608f]
+## 67. Permanent lights on tidal works[^c-f8b2b56f820777a4fde080ab3958608f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ After the completion of a tidal work the undertaker shall at the outer extremity
 
 ## Annotations
 
-[^key-f8b2b56f820777a4fde080ab3958608f]: Commencement: Art. 67 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-f8b2b56f820777a4fde080ab3958608f]: Commencement: Art. 67 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Transfer to BBC of functions connected with television licences.[^key-07c8c6b9afad18833485e75e526f90c4]
+## 180. Transfer to BBC of functions connected with television licences.[^c-07c8c6b9afad18833485e75e526f90c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07c8c6b9afad18833485e75e526f90c4]: Textual amendment: [S. 180](https://www.legislation.gov.uk/ukpga/1990/42/section/180) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)
+[^c-07c8c6b9afad18833485e75e526f90c4]: Textual amendment: [S. 180](https://www.legislation.gov.uk/ukpga/1990/42/section/180) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)

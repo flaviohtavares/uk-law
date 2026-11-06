@@ -29,39 +29,39 @@ Car Tax (Abolition) Act 1992 (repealed)
 
 1992 c. 58
 
-[^key-04835b8cda612233dc247b62c9caac39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04835b8cda612233dc247b62c9caac39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Abolition: the basic rule.[^key-04835b8cda612233dc247b62c9caac39][^key-04835b8cda612233dc247b62c9caac39]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Consequential amendments.[^key-04835b8cda612233dc247b62c9caac39][^key-04835b8cda612233dc247b62c9caac39]
+## 1. Abolition: the basic rule.[^c-04835b8cda612233dc247b62c9caac39][^c-04835b8cda612233dc247b62c9caac39]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Special cases.[^key-04835b8cda612233dc247b62c9caac39][^key-04835b8cda612233dc247b62c9caac39]
+## 2. Consequential amendments.[^c-04835b8cda612233dc247b62c9caac39][^c-04835b8cda612233dc247b62c9caac39]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cancellation of prospective amendments.[^key-04835b8cda612233dc247b62c9caac39][^key-04835b8cda612233dc247b62c9caac39]
+## 3. Special cases.[^c-04835b8cda612233dc247b62c9caac39][^c-04835b8cda612233dc247b62c9caac39]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Commencement.[^key-04835b8cda612233dc247b62c9caac39][^key-04835b8cda612233dc247b62c9caac39]
+## 4. Cancellation of prospective amendments.[^c-04835b8cda612233dc247b62c9caac39][^c-04835b8cda612233dc247b62c9caac39]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Citation.[^key-04835b8cda612233dc247b62c9caac39][^key-04835b8cda612233dc247b62c9caac39]
+## 5. Commencement.[^c-04835b8cda612233dc247b62c9caac39][^c-04835b8cda612233dc247b62c9caac39]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Citation.[^c-04835b8cda612233dc247b62c9caac39][^c-04835b8cda612233dc247b62c9caac39]
 
 **No longer in force.**
 
@@ -69,4 +69,4 @@ Car Tax (Abolition) Act 1992 (repealed)
 
 ## Annotations
 
-[^key-04835b8cda612233dc247b62c9caac39]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/58) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-04835b8cda612233dc247b62c9caac39]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/58) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Regulations[^key-73134edd3ced2edcfb33f5f21582af61]
+## 13. Regulations[^c-73134edd3ced2edcfb33f5f21582af61]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73134edd3ced2edcfb33f5f21582af61]: Commencement: S. 13 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(xiii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/xiii)
+[^c-73134edd3ced2edcfb33f5f21582af61]: Commencement: S. 13 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(xiii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/xiii)

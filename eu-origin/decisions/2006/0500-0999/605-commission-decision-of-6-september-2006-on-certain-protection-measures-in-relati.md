@@ -39,38 +39,38 @@ on certain protection measures in relation to intra-Community trade in poultry i
 
 (2006/605/EC) (revoked)
 
-[^key-6d3591a88b9944752bfb5ce007092539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d3591a88b9944752bfb5ce007092539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-6d3591a88b9944752bfb5ce007092539]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-6d3591a88b9944752bfb5ce007092539]
+## Article 1. Subject matter and scope[^c-6d3591a88b9944752bfb5ce007092539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Guidelines for good biosecurity practices[^key-6d3591a88b9944752bfb5ce007092539]
+## Article 2. Definitions[^c-6d3591a88b9944752bfb5ce007092539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conditions for dispatch of poultry for restocking supplies of wild game[^key-6d3591a88b9944752bfb5ce007092539]
+## Article 3. Guidelines for good biosecurity practices[^c-6d3591a88b9944752bfb5ce007092539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Certification[^key-6d3591a88b9944752bfb5ce007092539]
+## Article 4. Conditions for dispatch of poultry for restocking supplies of wild game[^c-6d3591a88b9944752bfb5ce007092539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Compliance measures[^key-6d3591a88b9944752bfb5ce007092539]
+## Article 5. Certification[^c-6d3591a88b9944752bfb5ce007092539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressee[^key-6d3591a88b9944752bfb5ce007092539]
+## Article 6. Compliance measures[^c-6d3591a88b9944752bfb5ce007092539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d3591a88b9944752bfb5ce007092539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Addressee[^c-6d3591a88b9944752bfb5ce007092539]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6d3591a88b9944752bfb5ce007092539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d3591a88b9944752bfb5ce007092539]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/5)
+[^c-6d3591a88b9944752bfb5ce007092539]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/5)

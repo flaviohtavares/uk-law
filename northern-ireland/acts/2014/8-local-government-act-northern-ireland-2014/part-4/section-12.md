@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Appointment of committee to advise on discharge of functions[^key-d8367cb41d567431bba26f4075a1006c]
+## 12. Appointment of committee to advise on discharge of functions[^c-d8367cb41d567431bba26f4075a1006c]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ on any matter relating to the discharge of their functions.
 
 ## Annotations
 
-[^key-d8367cb41d567431bba26f4075a1006c]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/8/section/12) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-d8367cb41d567431bba26f4075a1006c]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/8/section/12) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

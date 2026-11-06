@@ -44,11 +44,11 @@ then those relevant houses shall be deemed to be a single relevant house.
   - (ii) a registered social landlord; or
   - (iii) Scottish Homes;
 - (b) it is used for the provision of—
-  - (i) a care home service (as defined in paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-b45205d9b335691206e4f7c7dc2c3bb2] (asp 8));
-  - (ii) a school care accommodation service (as defined in paragraph 3 of that schedule[^key-4adf544aba7a036fc8e06c98b77bd079]);
-  - (iii)[^key-5a60b845808aa8429795fe822941dab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv) a secure accommodation service (as defined in paragraph 6 of that schedule[^key-709da1f61212df0974a5036835baec36]);
-  - (v)[^key-b00ae4a02692562bf6a7db016f132b35] an independent hospital (as defined in subsection (2) of section 10F of the [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)));
+  - (i) a care home service (as defined in paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-b45205d9b335691206e4f7c7dc2c3bb2] (asp 8));
+  - (ii) a school care accommodation service (as defined in paragraph 3 of that schedule[^c-4adf544aba7a036fc8e06c98b77bd079]);
+  - (iii)[^c-5a60b845808aa8429795fe822941dab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) a secure accommodation service (as defined in paragraph 6 of that schedule[^c-709da1f61212df0974a5036835baec36]);
+  - (v)[^c-b00ae4a02692562bf6a7db016f132b35] an independent hospital (as defined in subsection (2) of section 10F of the [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)));
   - (vi) a private psychiatric hospital (as defined in that section);
   - (vii) an independent clinic (as defined in that section); or
   - (viii) an independent medical agency (as defined in that section);
@@ -64,12 +64,12 @@ to a person residing in, visiting or otherwise engaging in lawful activity at, o
 
 ## Annotations
 
-[^key-b45205d9b335691206e4f7c7dc2c3bb2]: Textual amendment: Words in s. 81(3)(b)(i) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(2)(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/2/a)
+[^c-b45205d9b335691206e4f7c7dc2c3bb2]: Textual amendment: Words in s. 81(3)(b)(i) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(2)(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/2/a)
 
-[^key-4adf544aba7a036fc8e06c98b77bd079]: Textual amendment: Words in s. 81(3)(b)(ii) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/2/b)
+[^c-4adf544aba7a036fc8e06c98b77bd079]: Textual amendment: Words in s. 81(3)(b)(ii) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/2/b)
 
-[^key-5a60b845808aa8429795fe822941dab7]: Textual amendment: S. 81(3)(b)(iii) and word repealed (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/a/i)
+[^c-5a60b845808aa8429795fe822941dab7]: Textual amendment: S. 81(3)(b)(iii) and word repealed (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/a/i)
 
-[^key-709da1f61212df0974a5036835baec36]: Textual amendment: Words in s. 81(3)(b)(iv) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(2)(c)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/2/c)
+[^c-709da1f61212df0974a5036835baec36]: Textual amendment: Words in s. 81(3)(b)(iv) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(2)(c)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/2/c)
 
-[^key-b00ae4a02692562bf6a7db016f132b35]: Textual amendment: S. 81(3)(b)(v)-(viii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(a)(iii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/a/iii)
+[^c-b00ae4a02692562bf6a7db016f132b35]: Textual amendment: S. 81(3)(b)(v)-(viii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(a)(iii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/a/iii)

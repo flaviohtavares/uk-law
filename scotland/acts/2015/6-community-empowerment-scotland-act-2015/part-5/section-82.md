@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] This section applies where an asset transfer request is made by a community transfer body to a relevant authority.
+(1)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] This section applies where an asset transfer request is made by a community transfer body to a relevant authority.
 
-(2)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must decide whether to agree to or refuse the request.
+(2)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must decide whether to agree to or refuse the request.
 
-(3)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] In reaching its decision, the authority must take into consideration the following matters—
+(3)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] In reaching its decision, the authority must take into consideration the following matters—
 
 - (a) the reasons for the request,
 - (b) any other information provided in support of the request (whether such other information is contained in the request or otherwise provided),
@@ -42,34 +42,34 @@ summary: ''
 - (i) any obligations imposed on the authority, by or under any enactment or otherwise, that may prevent, restrict or otherwise affect its ability to agree to the request, and
 - (j) such other matters (whether or not included in or arising out of the request) as the authority considers relevant.
 
-(4)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must exercise the function under subsection (2) in a manner which encourages equal opportunities and in particular the observance of the equal opportunity requirements.
+(4)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must exercise the function under subsection (2) in a manner which encourages equal opportunities and in particular the observance of the equal opportunity requirements.
 
-(5)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must agree to the request unless there are reasonable grounds for refusing it.
+(5)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must agree to the request unless there are reasonable grounds for refusing it.
 
-(6)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] In subsection (3)(f), an “**alternative proposal**” includes—
+(6)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] In subsection (3)(f), an “**alternative proposal**” includes—
 
 - (a) another asset transfer request,
 - (b) a proposal made by the authority or any other person.
 
-(7)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must, within the period mentioned in subsection (8), give notice (in this Part, a “decision notice”) to the community transfer body of—
+(7)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] The authority must, within the period mentioned in subsection (8), give notice (in this Part, a “decision notice”) to the community transfer body of—
 
 - (a) its decision to agree to or refuse the request, and
 - (b) the reasons for its decision.
 
 (8) The period is—
 
-- (a)[^key-fa52412baab3185eae55a68a73510a42][^key-b2523146a170dfe2d5c6dc4fb71efe51] a period prescribed in regulations made by the Scottish Ministers, or
-- (b)[^key-a09d9dc9be5ed672b224256ecd2b7fe3] such longer period as may be agreed between the authority and the community transfer body.
+- (a)[^c-fa52412baab3185eae55a68a73510a42][^c-b2523146a170dfe2d5c6dc4fb71efe51] a period prescribed in regulations made by the Scottish Ministers, or
+- (b)[^c-a09d9dc9be5ed672b224256ecd2b7fe3] such longer period as may be agreed between the authority and the community transfer body.
 
-(9)[^key-fa52412baab3185eae55a68a73510a42][^key-b2523146a170dfe2d5c6dc4fb71efe51] The Scottish Ministers may by regulations make provision about—
+(9)[^c-fa52412baab3185eae55a68a73510a42][^c-b2523146a170dfe2d5c6dc4fb71efe51] The Scottish Ministers may by regulations make provision about—
 
 - (a) the information (in addition to that required under this Part) that a decision notice is to contain, and
 - (b) the manner in which a decision notice is to be given.
 
 ## Annotations
 
-[^key-a09d9dc9be5ed672b224256ecd2b7fe3]: Commencement: S. 82(1)-(7)(8)(b) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-a09d9dc9be5ed672b224256ecd2b7fe3]: Commencement: S. 82(1)-(7)(8)(b) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
 
-[^key-fa52412baab3185eae55a68a73510a42]: Commencement: S. 82(8)(a)(9) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-fa52412baab3185eae55a68a73510a42]: Commencement: S. 82(8)(a)(9) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-b2523146a170dfe2d5c6dc4fb71efe51]: Commencement: S. 82(8)(a)(9) in force at 23.1.2017 in so far as not already in force by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-b2523146a170dfe2d5c6dc4fb71efe51]: Commencement: S. 82(8)(a)(9) in force at 23.1.2017 in so far as not already in force by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

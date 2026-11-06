@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292. Suspended sentence order: exercise of power to impose requirements[^key-5ad80b3e219ef67cba3de873eb95a509][^key-c05f83c27a72882022daf2f61adb0ea4]
+## 292. Suspended sentence order: exercise of power to impose requirements[^c-5ad80b3e219ef67cba3de873eb95a509][^c-c05f83c27a72882022daf2f61adb0ea4]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ and satisfies any additional restrictions that the Secretary of State may specif
 
 ## Annotations
 
-[^key-5ad80b3e219ef67cba3de873eb95a509]: Commencement: S. 292 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5ad80b3e219ef67cba3de873eb95a509]: Commencement: S. 292 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c05f83c27a72882022daf2f61adb0ea4]: Modification: S. 292 modified by 2006 c. 52, s. 200(1)(c)(ii) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-c05f83c27a72882022daf2f61adb0ea4]: Modification: S. 292 modified by 2006 c. 52, s. 200(1)(c)(ii) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

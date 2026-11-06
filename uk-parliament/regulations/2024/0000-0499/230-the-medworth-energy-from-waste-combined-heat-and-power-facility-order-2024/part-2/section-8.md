@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Consent to transfer benefit of the Order[^key-65a2ad485374eed63fd5e450461c95f8]
+## 8. Consent to transfer benefit of the Order[^c-65a2ad485374eed63fd5e450461c95f8]
 
 *Extent: E+W+S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65a2ad485374eed63fd5e450461c95f8]: Commencement: Art. 8 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-65a2ad485374eed63fd5e450461c95f8]: Commencement: Art. 8 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
 [^f00021]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), sections 89(3), 136(1), 136(2), 145(5), 145(6), and 145(7), and paragraph 5 of Schedule 19 and paragraph 1 of Schedule 23(1) to the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), articles 6(2)(a), 6(2)(b), 6(3), 6(4) of the Electricity and Gas (Smart Meters Licensable Activity) Order 2012/2400, regulation 19 of the Electricity and Gas (Internal Markets) Regulations 2011/2704, and by paragraph 2 of Schedule 8 to the Climate Change Act [2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27).

@@ -20,22 +20,22 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Accounts shall be in one of the following status: open [^key-c2cf410108b4f51b9bfb32ae38c8828e]... or closed.
+1. Accounts shall be in one of the following status: open [^c-c2cf410108b4f51b9bfb32ae38c8828e]... or closed.
 
-2.[^key-208581b0fe0b6c6a3113e1dc507cbb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-208581b0fe0b6c6a3113e1dc507cbb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3. No processes may be initiated from closed accounts. A closed account may not be re-opened, and may not acquire units.
 
-4.[^key-15e62ed7e3dee7a446280663ee2fbf3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-15e62ed7e3dee7a446280663ee2fbf3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-15e62ed7e3dee7a446280663ee2fbf3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-15e62ed7e3dee7a446280663ee2fbf3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-15e62ed7e3dee7a446280663ee2fbf3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-15e62ed7e3dee7a446280663ee2fbf3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2cf410108b4f51b9bfb32ae38c8828e]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2013/389/article/10/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/6/a)
+[^c-c2cf410108b4f51b9bfb32ae38c8828e]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2013/389/article/10/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/6/a)
 
-[^key-208581b0fe0b6c6a3113e1dc507cbb5c]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2013/389/article/10/2) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/6/b)
+[^c-208581b0fe0b6c6a3113e1dc507cbb5c]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2013/389/article/10/2) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/6/b)
 
-[^key-15e62ed7e3dee7a446280663ee2fbf3a]: Textual amendment: [Art. 10(4)-(6)](https://www.legislation.gov.uk/eur/2013/389/article/10/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/6/b)
+[^c-15e62ed7e3dee7a446280663ee2fbf3a]: Textual amendment: [Art. 10(4)-(6)](https://www.legislation.gov.uk/eur/2013/389/article/10/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/6/b)

@@ -39,15 +39,15 @@ summary: ''
 
 (4) In this section—
 
-- (a)[^key-83a36eaab6a3e728969d7e8fac0c3274] “pre-trading expenditure” means capital expenditure incurred before the day on which a person begins to carry on a trade that is a mineral extraction trade, but only if there is no prior time when the person carried on that trade and the trade was not a mineral extraction trade,
+- (a)[^c-83a36eaab6a3e728969d7e8fac0c3274] “pre-trading expenditure” means capital expenditure incurred before the day on which a person begins to carry on a trade that is a mineral extraction trade, but only if there is no prior time when the person carried on that trade and the trade was not a mineral extraction trade,
 - (b) “**the first day of trading**”, in relation to a person’s pre-trading expenditure, means the day on which that person begins to carry on the mineral extraction trade.
 
-(4A)[^key-eb8a608ccf56f1237ae433d16315b3ae] Section 577(2) (references to commencement etc of a trade) does not apply to subsection (4)(a).
+(4A)[^c-eb8a608ccf56f1237ae433d16315b3ae] Section 577(2) (references to commencement etc of a trade) does not apply to subsection (4)(a).
 
 (5) This section does not apply if the plant or machinery on which the pre-trading expenditure was incurred is sold, demolished, destroyed or abandoned before the first day of trading (but see section 402 (mineral extraction allowances: pre-trading expenditure on plant or machinery)).
 
 ## Annotations
 
-[^key-83a36eaab6a3e728969d7e8fac0c3274]: Textual amendment: S. 161(4)(a) substituted (with effect in accordance with s. 67(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/5)
+[^c-83a36eaab6a3e728969d7e8fac0c3274]: Textual amendment: S. 161(4)(a) substituted (with effect in accordance with s. 67(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/5)
 
-[^key-eb8a608ccf56f1237ae433d16315b3ae]: Textual amendment: S. 161(4A) inserted (with effect in accordance with s. 67(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/6)
+[^c-eb8a608ccf56f1237ae433d16315b3ae]: Textual amendment: S. 161(4A) inserted (with effect in accordance with s. 67(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(6)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/6)

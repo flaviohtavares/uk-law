@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Removal of restrictions on provision of passenger rail services[^c22547851][^key-1f9912dc5a8c8fa94bd772a80449db2a]
+## 49. Removal of restrictions on provision of passenger rail services[^c22547851][^c-1f9912dc5a8c8fa94bd772a80449db2a]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c22547851]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/20/section/49) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-1f9912dc5a8c8fa94bd772a80449db2a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/20/section/49) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-1f9912dc5a8c8fa94bd772a80449db2a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/20/section/49) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)

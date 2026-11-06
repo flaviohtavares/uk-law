@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Witness statement[^key-8a5982d2526754240d50d203eb8bab64]
+## 4. Witness statement[^c-8a5982d2526754240d50d203eb8bab64]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where it is proposed to apply to the court for a postal administration order to 
 
 ## Annotations
 
-[^key-8a5982d2526754240d50d203eb8bab64]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2013/3208/rule/4) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8a5982d2526754240d50d203eb8bab64]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2013/3208/rule/4) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

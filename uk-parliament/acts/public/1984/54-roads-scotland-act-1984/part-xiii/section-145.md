@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Revocation and variation of certain schemes and orders.[^key-fef3eeb3000431940f45f45a7f13fbe1]
+## 145. Revocation and variation of certain schemes and orders.[^c-fef3eeb3000431940f45f45a7f13fbe1]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ is revoked at any time before the special road, main road, bridge or tunnel is o
 
 ## Annotations
 
-[^key-fef3eeb3000431940f45f45a7f13fbe1]: Modification: S. 145 modified (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 11(4)](https://www.legislation.gov.uk/asp/2011/2/section/11/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-fef3eeb3000431940f45f45a7f13fbe1]: Modification: S. 145 modified (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 11(4)](https://www.legislation.gov.uk/asp/2011/2/section/11/4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)

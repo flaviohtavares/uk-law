@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Duty of street authority to co-ordinate works[^key-fc8df7f515d7cf0e7f073ee9e21f6b24][^key-f10e23c361220458b99285adf74531c3]
+## 42. Duty of street authority to co-ordinate works[^c-fc8df7f515d7cf0e7f073ee9e21f6b24][^c-f10e23c361220458b99285adf74531c3]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8df7f515d7cf0e7f073ee9e21f6b24]: Commencement: S. 42 in force at 29.6.2007 for specified purposes for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule)
+[^c-fc8df7f515d7cf0e7f073ee9e21f6b24]: Commencement: S. 42 in force at 29.6.2007 for specified purposes for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule)
 
-[^key-f10e23c361220458b99285adf74531c3]: Commencement: S. 42 in force at 26.11.2007 for specified purposes for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-f10e23c361220458b99285adf74531c3]: Commencement: S. 42 in force at 26.11.2007 for specified purposes for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)

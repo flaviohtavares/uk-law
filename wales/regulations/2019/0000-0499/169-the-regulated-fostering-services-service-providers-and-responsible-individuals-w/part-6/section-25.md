@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Policy and procedures on bullying[^key-4b4eaafd4b8b6f2d498b5242144467e0]
+## 25. Policy and procedures on bullying[^c-4b4eaafd4b8b6f2d498b5242144467e0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must have in place a policy on the prevention of bullying a
 
 ## Annotations
 
-[^key-4b4eaafd4b8b6f2d498b5242144467e0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/169/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-4b4eaafd4b8b6f2d498b5242144467e0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/169/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

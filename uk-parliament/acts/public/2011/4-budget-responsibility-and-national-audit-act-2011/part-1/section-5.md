@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. How main duty is to be performed[^key-f7a4873dbbdb15e387e995083a11a1ec]
+## 5. How main duty is to be performed[^c-f7a4873dbbdb15e387e995083a11a1ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7a4873dbbdb15e387e995083a11a1ec]: Commencement: S. 5 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-f7a4873dbbdb15e387e995083a11a1ec]: Commencement: S. 5 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)

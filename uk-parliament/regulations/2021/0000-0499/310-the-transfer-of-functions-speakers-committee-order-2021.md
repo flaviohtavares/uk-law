@@ -32,7 +32,7 @@ summary: ''
 
 Ministers Of The Crown
 
-The Transfer of Functions (Speaker’s Committee) Order 2021 (revoked)[^key-3851ba0b62d6438d95cdc9975d8ea1e9]
+The Transfer of Functions (Speaker’s Committee) Order 2021 (revoked)[^c-3851ba0b62d6438d95cdc9975d8ea1e9]
 
 Made
 
@@ -52,22 +52,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-3851ba0b62d6438d95cdc9975d8ea1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3851ba0b62d6438d95cdc9975d8ea1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3851ba0b62d6438d95cdc9975d8ea1e9]
+## 1. Citation, commencement and interpretation[^c-3851ba0b62d6438d95cdc9975d8ea1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Functions of Minister for the Cabinet Office to be exercisable concurrently with Minister of the Crown in the Cabinet Office[^key-3851ba0b62d6438d95cdc9975d8ea1e9]
+## 2. Functions of Minister for the Cabinet Office to be exercisable concurrently with Minister of the Crown in the Cabinet Office[^c-3851ba0b62d6438d95cdc9975d8ea1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3851ba0b62d6438d95cdc9975d8ea1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3851ba0b62d6438d95cdc9975d8ea1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3851ba0b62d6438d95cdc9975d8ea1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3851ba0b62d6438d95cdc9975d8ea1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3851ba0b62d6438d95cdc9975d8ea1e9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/310) revoked (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/18/3/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
+[^c-3851ba0b62d6438d95cdc9975d8ea1e9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/310) revoked (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/18/3/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)

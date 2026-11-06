@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Power to operate and use transport systems[^key-478cec36fc5830017666b995c235dbfb]
+## 36. Power to operate and use transport systems[^c-478cec36fc5830017666b995c235dbfb]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478cec36fc5830017666b995c235dbfb]: Commencement: Art. 36 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-478cec36fc5830017666b995c235dbfb]: Commencement: Art. 36 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

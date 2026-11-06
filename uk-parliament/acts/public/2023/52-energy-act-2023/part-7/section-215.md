@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Smart meters: extension of time for exercise of powers[^key-eb59bff198fe984d97638e4fa5fa3627]
+## 215. Smart meters: extension of time for exercise of powers[^c-eb59bff198fe984d97638e4fa5fa3627]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ in calculating that 40-day period no account is to be taken of the period beginn
 
 ## Annotations
 
-[^key-eb59bff198fe984d97638e4fa5fa3627]: Commencement: S. 215 in force at Royal Assent, see [s. 334(2)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/k)
+[^c-eb59bff198fe984d97638e4fa5fa3627]: Commencement: S. 215 in force at Royal Assent, see [s. 334(2)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/k)

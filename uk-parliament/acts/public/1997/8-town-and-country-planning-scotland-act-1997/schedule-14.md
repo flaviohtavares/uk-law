@@ -24,27 +24,27 @@ Section 100.
 
 ### Land allocated for public authority functions in development plans etc.
 
-**1.**[^key-b346cf9cff51325246b4501a7a129abf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b346cf9cff51325246b4501a7a129abf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** (1) This paragraph applies to land which—
 
-- (a) is allocated for the purposes of any such functions as are mentioned in sub-paragraph (1A)[^key-569375f43d9858ca219447371e2aadee] by a local development[^key-ed769d14161e957ec1e28c4ed58858c2] plan in force, or
+- (a) is allocated for the purposes of any such functions as are mentioned in sub-paragraph (1A)[^c-569375f43d9858ca219447371e2aadee] by a local development[^c-ed769d14161e957ec1e28c4ed58858c2] plan in force, or
 - (b) is land defined in such a plan as the site of proposed development for the purposes of any such functions.
 
-(1A)[^key-788f0c890171e50ad0339032cadd75ca] The functions are—
+(1A)[^c-788f0c890171e50ad0339032cadd75ca] The functions are—
 
 - (a) the functions of a government department, local authority or statutory undertaker,
 - (b) the provision by an electronic communications operator of an electronic communications code network, or
 - (c) the provision by a former PTO of a public electronic communications network or a public electronic communications service.
 
-(2)[^key-613a1358ad20d3548e32b329e0da9a55] In sub-paragraph (1), the reference to a local development plan in force includes a reference to a proposed local development plan which has been submitted to the Scottish Ministers under section 18(3)(b) or 19A(5)(b)(ii).
+(2)[^c-613a1358ad20d3548e32b329e0da9a55] In sub-paragraph (1), the reference to a local development plan in force includes a reference to a proposed local development plan which has been submitted to the Scottish Ministers under section 18(3)(b) or 19A(5)(b)(ii).
 
 (3) Sub-paragraph (2) ceases to apply—
 
 - (a) when the proposed local development plan (whether or not modified) is constituted under section 20(1) as the local development plan, or
 - (b) when as regards the proposed local development plan the planning authority arrive at the consideration mentioned in section 19A(6).
 
-(4) In sub-paragraph (2) references to anything done under any provision include references to anything done under that provision as it applies by virtue of section 23B[^key-2d58675c8ef97292a2e9451b92e05827].
+(4) In sub-paragraph (2) references to anything done under any provision include references to anything done under that provision as it applies by virtue of section 23B[^c-2d58675c8ef97292a2e9451b92e05827].
 
 **3.** This paragraph applies to land indicated in a plan (other than a development plan) approved by a resolution passed by a planning authority for the purpose of the exercise of their powers under Part III as land which may be required for the purposes of any functions of a government department, local authority or statutory undertakers.
 
@@ -102,7 +102,7 @@ the [^c950533]Roads (Scotland) Act 1984, being land in relation to which a power
 
 ### Compulsory purchase
 
-**14.**[^key-64dac4c08d716d55323240fc0f25d316][^key-9c66157836dda16052087a9487a4fbc5] This paragraph applies to land authorised by a special enactment to be compulsorily acquired, or land falling within the limits of deviation within which powers of compulsory acquisition conferred by a special enactment are exercisable.
+**14.**[^c-64dac4c08d716d55323240fc0f25d316][^c-9c66157836dda16052087a9487a4fbc5] This paragraph applies to land authorised by a special enactment to be compulsorily acquired, or land falling within the limits of deviation within which powers of compulsory acquisition conferred by a special enactment are exercisable.
 
 **15.** (1) This paragraph applies to land in respect of which—
 
@@ -121,13 +121,13 @@ and the appropriate authority have power to serve, but have not served, notice t
 - (a) the relevant compulsory purchase order comes into force (whether in its original form or with modifications), or
 - (b) the Minister concerned decides not to confirm or make the order.
 
-**16.**[^key-73466cc7c32a2b8b4d36fb67f6d72793][^key-13d1699dec7db7b01a76d36d8bb0c96a] This paragraph applies to land—
+**16.**[^c-73466cc7c32a2b8b4d36fb67f6d72793][^c-13d1699dec7db7b01a76d36d8bb0c96a] This paragraph applies to land—
 
 - (a) the compulsory acquisition of which is authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007,
 - (b) which falls within the limits of deviation within which powers of compulsory acquisition conferred by such an order are exercisable, or
 - (c) which is the subject of a proposal, contained in an application made in accordance with rules under section 4 of that Act or in a draft order prepared under section 6(3) of that Act, that it should be such land.
 
-**17.**[^key-be1e51cd1f21b155d92cbc0124105edd] (1) This paragraph applies to land which relates to the construction (other than by a gas transporter) of an oil or gas cross-country pipe-line—
+**17.**[^c-be1e51cd1f21b155d92cbc0124105edd] (1) This paragraph applies to land which relates to the construction (other than by a gas transporter) of an oil or gas cross-country pipe-line—
 
 - (a) one end of which is in England or Wales, and
 - (b) the other end of which is in Scotland,
@@ -156,17 +156,17 @@ Land ceases to be within this paragraph when the national policy statement—
 
 ## Annotations
 
-[^key-b346cf9cff51325246b4501a7a129abf]: Textual amendment: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1997/8/schedule/14/paragraph/1) repealed (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 1(14)(a)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1/14/a); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
+[^c-b346cf9cff51325246b4501a7a129abf]: Textual amendment: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1997/8/schedule/14/paragraph/1) repealed (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 1(14)(a)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1/14/a); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
 
-[^key-569375f43d9858ca219447371e2aadee]: Textual amendment: Words in [Sch. 14 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/14/paragraph/2/1/a) substituted (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 1(14)(b)(i)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1/14/b/i); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
+[^c-569375f43d9858ca219447371e2aadee]: Textual amendment: Words in [Sch. 14 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/14/paragraph/2/1/a) substituted (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 1(14)(b)(i)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1/14/b/i); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
 
-[^key-ed769d14161e957ec1e28c4ed58858c2]: Textual amendment: Word in Sch. 14 para. 2(1)(a) inserted (6.4.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(19)(b)(i)](https://www.legislation.gov.uk/asp/2006/17/section/54/19/b/i), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/101](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/101/article/3)); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-ed769d14161e957ec1e28c4ed58858c2]: Textual amendment: Word in Sch. 14 para. 2(1)(a) inserted (6.4.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(19)(b)(i)](https://www.legislation.gov.uk/asp/2006/17/section/54/19/b/i), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/101](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/101/article/3)); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
 
-[^key-788f0c890171e50ad0339032cadd75ca]: Textual amendment: [Sch. 14 para. 2(1A)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/14/paragraph/2/1A) inserted (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 1(14)(b)(ii)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1/14/b/ii); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
+[^c-788f0c890171e50ad0339032cadd75ca]: Textual amendment: [Sch. 14 para. 2(1A)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/14/paragraph/2/1A) inserted (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 1(14)(b)(ii)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1/14/b/ii); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
 
-[^key-613a1358ad20d3548e32b329e0da9a55]: Textual amendment: Sch. 14 para. 2(2)(3) substituted (6.4.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(19)(b)(ii)](https://www.legislation.gov.uk/asp/2006/17/section/54/19/b/ii), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/101](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/101/article/3)); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-613a1358ad20d3548e32b329e0da9a55]: Textual amendment: Sch. 14 para. 2(2)(3) substituted (6.4.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(19)(b)(ii)](https://www.legislation.gov.uk/asp/2006/17/section/54/19/b/ii), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/101](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/101/article/3)); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
 
-[^key-2d58675c8ef97292a2e9451b92e05827]: Textual amendment: Word in Sch. 14 para. 2(4) substituted (6.4.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(19)(b)(iii)](https://www.legislation.gov.uk/asp/2006/17/section/54/19/b/iii), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/101](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/101/article/3)); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-2d58675c8ef97292a2e9451b92e05827]: Textual amendment: Word in Sch. 14 para. 2(4) substituted (6.4.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(19)(b)(iii)](https://www.legislation.gov.uk/asp/2006/17/section/54/19/b/iii), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/101](https://www.legislation.gov.uk/ssi/2009/101), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/101/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/101/article/3)); [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
 
 [^c950529]: Marginal citation: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
@@ -178,14 +178,14 @@ Land ceases to be within this paragraph when the national policy statement—
 
 [^c950533]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-64dac4c08d716d55323240fc0f25d316]: Modification: Sch. 14 para. 14 modified (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 74(1)](https://www.legislation.gov.uk/asp/2006/6/section/74/1) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-64dac4c08d716d55323240fc0f25d316]: Modification: Sch. 14 para. 14 modified (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 74(1)](https://www.legislation.gov.uk/asp/2006/6/section/74/1) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-9c66157836dda16052087a9487a4fbc5]: Modification: Sch. 14 para. 14 modified (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 75(1)](https://www.legislation.gov.uk/asp/2006/7/section/75/1) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-9c66157836dda16052087a9487a4fbc5]: Modification: Sch. 14 para. 14 modified (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 75(1)](https://www.legislation.gov.uk/asp/2006/7/section/75/1) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
 [^c950534]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-73466cc7c32a2b8b4d36fb67f6d72793]: Modification: Sch. 14 para. 16 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-73466cc7c32a2b8b4d36fb67f6d72793]: Modification: Sch. 14 para. 16 applied (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/7/section/52/3), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-13d1699dec7db7b01a76d36d8bb0c96a]: Textual amendment: Sch. 14 para. 16 added (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 15(2)](https://www.legislation.gov.uk/asp/2007/8/section/15/2), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-13d1699dec7db7b01a76d36d8bb0c96a]: Textual amendment: Sch. 14 para. 16 added (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 15(2)](https://www.legislation.gov.uk/asp/2007/8/section/15/2), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-be1e51cd1f21b155d92cbc0124105edd]: Textual amendment: Sch. 14 paras. 17, 18 and cross-heading inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/2), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-be1e51cd1f21b155d92cbc0124105edd]: Textual amendment: Sch. 14 paras. 17, 18 and cross-heading inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/2), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)

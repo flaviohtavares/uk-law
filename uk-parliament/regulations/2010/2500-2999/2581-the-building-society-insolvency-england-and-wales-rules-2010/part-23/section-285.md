@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 285. The Schedule[^key-1e846478be4095f8c9e9c403401652e6]
+## 285. The Schedule[^c-1e846478be4095f8c9e9c403401652e6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Schedule, which applies relevant schedules to the 1986 Rules to these Rules 
 
 ## Annotations
 
-[^key-1e846478be4095f8c9e9c403401652e6]: Commencement: Rule 285 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-1e846478be4095f8c9e9c403401652e6]: Commencement: Rule 285 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

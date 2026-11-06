@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Use of surveillance[^key-ef64f14a57bb115833ecedd9792a05c1]
+## 19. Use of surveillance[^c-ef64f14a57bb115833ecedd9792a05c1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Subject to any requirement for electronic monitoring imposed by a court, the reg
 
 ## Annotations
 
-[^key-ef64f14a57bb115833ecedd9792a05c1]: Commencement: Reg. 19 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-ef64f14a57bb115833ecedd9792a05c1]: Commencement: Reg. 19 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

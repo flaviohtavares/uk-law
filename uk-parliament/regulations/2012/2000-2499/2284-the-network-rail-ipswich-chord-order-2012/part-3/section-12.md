@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Traffic signs[^key-fe6375b1bae113b9c5ceca4a80d92265]
+## 12. Traffic signs[^c-fe6375b1bae113b9c5ceca4a80d92265]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe6375b1bae113b9c5ceca4a80d92265]: Commencement: Art. 12 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-fe6375b1bae113b9c5ceca4a80d92265]: Commencement: Art. 12 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00015]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

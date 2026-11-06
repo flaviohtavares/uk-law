@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Controlling how nitrogen fertiliser is spread[^key-bd34cb6c3094fd1081e887d79fdb99b7]
+## 15. Controlling how nitrogen fertiliser is spread[^c-bd34cb6c3094fd1081e887d79fdb99b7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd34cb6c3094fd1081e887d79fdb99b7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2021/77/regulation/15) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-bd34cb6c3094fd1081e887d79fdb99b7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2021/77/regulation/15) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

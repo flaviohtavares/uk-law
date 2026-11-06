@@ -65,7 +65,7 @@ The following provisions are specified for the purpose of section 215(5)(b) of t
 - (b) the Damages (Scotland) Act 1976 [^c12530301]; and
 - (c) section 86 (Eligibility) and section 88 (Notice of proposed civil partnership) of and Schedule 10 (Forbidden Degrees of Relationship: Scotland) to the Act.
 
-## 3. Transitional provision relating to overseas relationships[^key-b72541ffbcf1714e24975d56b44682e9]
+## 3. Transitional provision relating to overseas relationships[^c-b72541ffbcf1714e24975d56b44682e9]
 
 Section 212 of the Act shall apply for the purpose of determining whether a relationship entered into before 5th December 2005 is an overseas relationship as though for the words in subsection (1)(b) from “and” to the end of the subsection there were substituted–
 
@@ -98,4 +98,4 @@ Article 3 of this Order modifies section 212 of the Act which determines when an
 
 [^c12530301]: Marginal citation: [1976 c. 13](https://www.legislation.gov.uk/ukpga/1976/13). Relevantly amended by the Administration of Justice Act 1982, section 14(4) and 73(5) and the Law Reform (Parent and Child) (Scotland) Act 1986, sections 9, 10(1) and Schedule 1, paragraph 15.
 
-[^key-b72541ffbcf1714e24975d56b44682e9]: Modification: [Art. 3](https://www.legislation.gov.uk/ssi/2005/573/article/3) restricted (1.2.2021) by [The Civil Partnership (Scotland) Act 2020 (Commencement No. 3, Saving and Transitional Provision) Regulations 2021 (S.S.I. 2021/23)](https://www.legislation.gov.uk/ssi/2021/23), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/23/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2021/23/regulation/4)
+[^c-b72541ffbcf1714e24975d56b44682e9]: Modification: [Art. 3](https://www.legislation.gov.uk/ssi/2005/573/article/3) restricted (1.2.2021) by [The Civil Partnership (Scotland) Act 2020 (Commencement No. 3, Saving and Transitional Provision) Regulations 2021 (S.S.I. 2021/23)](https://www.legislation.gov.uk/ssi/2021/23), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/23/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2021/23/regulation/4)

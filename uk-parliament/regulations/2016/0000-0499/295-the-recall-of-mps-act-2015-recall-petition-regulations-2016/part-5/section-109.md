@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Retrieval of cancelled postal signing sheets[^key-a43e716003d7b6d9b22c18c78f329816]
+## 109. Retrieval of cancelled postal signing sheets[^c-a43e716003d7b6d9b22c18c78f329816]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the officer must proceed as follows.
 
 ## Annotations
 
-[^key-a43e716003d7b6d9b22c18c78f329816]: Commencement: Reg. 109 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a43e716003d7b6d9b22c18c78f329816]: Commencement: Reg. 109 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

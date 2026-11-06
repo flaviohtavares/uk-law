@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E18. Deferment, etc, of benefits[^key-3bb16632359624385f93fc1c604a511a]
+## E18. Deferment, etc, of benefits[^c-3bb16632359624385f93fc1c604a511a]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ a determination under paragraph (2) shall not deprive him of his guaranteed mini
 
 ## Annotations
 
-[^key-3bb16632359624385f93fc1c604a511a]: Commencement: Reg. E18 in operation at 2.11.1998, see reg. A1
+[^c-3bb16632359624385f93fc1c604a511a]: Commencement: Reg. E18 in operation at 2.11.1998, see reg. A1
 
 [^f00021]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28); [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75); [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121) and [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6)

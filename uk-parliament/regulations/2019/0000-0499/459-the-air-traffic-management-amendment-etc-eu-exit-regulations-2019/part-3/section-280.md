@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280. Article 6 of Commission Implementing Regulation (EU) No 1207/2011[^key-b5669adc4d3d34ef4b1c30dbdfdeb101]
+## 280. Article 6 of Commission Implementing Regulation (EU) No 1207/2011[^c-b5669adc4d3d34ef4b1c30dbdfdeb101]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5669adc4d3d34ef4b1c30dbdfdeb101]: Commencement: Reg. 280 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b5669adc4d3d34ef4b1c30dbdfdeb101]: Commencement: Reg. 280 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

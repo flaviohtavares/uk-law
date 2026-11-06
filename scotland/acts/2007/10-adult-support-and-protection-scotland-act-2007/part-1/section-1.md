@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. General principle on intervention in an adult's affairs[^key-f51a6169b1ca811d54d65d70b61aa622]
+## 1. General principle on intervention in an adult's affairs[^c-f51a6169b1ca811d54d65d70b61aa622]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ This section applies for the purposes of section 2 only.
 
 ## Annotations
 
-[^key-f51a6169b1ca811d54d65d70b61aa622]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/10/section/1) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-f51a6169b1ca811d54d65d70b61aa622]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/10/section/1) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

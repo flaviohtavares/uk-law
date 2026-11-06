@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Application of Chapter where patient subject to hospital direction or transfer for treatment direction[^key-01236b5d3125161492a87bd79edd9875]
+## 71. Application of Chapter where patient subject to hospital direction or transfer for treatment direction[^c-01236b5d3125161492a87bd79edd9875]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ this Chapter shall have effect in accordance with schedule 3 to this Act.
 
 ## Annotations
 
-[^key-01236b5d3125161492a87bd79edd9875]: Commencement: S. 71 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-01236b5d3125161492a87bd79edd9875]: Commencement: S. 71 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

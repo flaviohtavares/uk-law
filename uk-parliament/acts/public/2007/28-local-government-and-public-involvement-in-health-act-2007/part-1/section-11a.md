@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Implementation orders: conversion of combined county authorities[^key-a636f9b20156ff65050b53d94df229b2]
+## 11A. Implementation orders: conversion of combined county authorities[^c-a636f9b20156ff65050b53d94df229b2]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ but it does not include an Act other than this Act.
 
 ## Annotations
 
-[^key-a636f9b20156ff65050b53d94df229b2]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2007/28/section/11A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 28 para. 1(8)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/28/paragraph/1/8)
+[^c-a636f9b20156ff65050b53d94df229b2]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2007/28/section/11A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 28 para. 1(8)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/28/paragraph/1/8)

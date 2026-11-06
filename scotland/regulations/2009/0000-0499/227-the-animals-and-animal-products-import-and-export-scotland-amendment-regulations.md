@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (Scotland) Amendment Regulations 2009 (revoked)[^key-e1ecc371fc82208e68a0d009611dee5c]
+The Animals and Animal Products (Import and Export) (Scotland) Amendment Regulations 2009 (revoked)[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 Made
 
@@ -48,42 +48,42 @@ Coming into force
 
 26th June 2009
 
-[^key-e1ecc371fc82208e68a0d009611dee5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1ecc371fc82208e68a0d009611dee5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e1ecc371fc82208e68a0d009611dee5c]
+## 1. Citation, commencement and interpretation[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the 2007 Regulations[^key-e1ecc371fc82208e68a0d009611dee5c]
+## 2. Amendment to the 2007 Regulations[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1ecc371fc82208e68a0d009611dee5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1ecc371fc82208e68a0d009611dee5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Replacement of Part I of Schedule 3 to the Animals and Animal Products (Import and Export) (Scotland) Regulations 2007[^key-e1ecc371fc82208e68a0d009611dee5c]
+## SCHEDULE 1 — Replacement of Part I of Schedule 3 to the Animals and Animal Products (Import and Export) (Scotland) Regulations 2007[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 Regulation 2(7)
 
-[^key-e1ecc371fc82208e68a0d009611dee5c]
+[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Replacement of Schedule 7 to the Animals and Animal Products (Import and Export) (Scotland) Regulations 2007[^key-e1ecc371fc82208e68a0d009611dee5c]
+## SCHEDULE 2 — Replacement of Schedule 7 to the Animals and Animal Products (Import and Export) (Scotland) Regulations 2007[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 Regulation 2(8)
 
-[^key-e1ecc371fc82208e68a0d009611dee5c]
+[^c-e1ecc371fc82208e68a0d009611dee5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e1ecc371fc82208e68a0d009611dee5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1ecc371fc82208e68a0d009611dee5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1ecc371fc82208e68a0d009611dee5c]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/1/b), [38(e)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-e1ecc371fc82208e68a0d009611dee5c]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/1/b), [38(e)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

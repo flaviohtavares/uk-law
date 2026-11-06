@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Indexation requirements for cash balance benefits[^key-c8bf770969ec3c8dd3f9437e9d29f18e]
+## 21. Indexation requirements for cash balance benefits[^c-c8bf770969ec3c8dd3f9437e9d29f18e]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8bf770969ec3c8dd3f9437e9d29f18e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/19/section/21) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/c)
+[^c-c8bf770969ec3c8dd3f9437e9d29f18e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/19/section/21) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Fixed penalty notices[^key-257b5dd22797c7e20592ca0e765624eb]
+## 47. Fixed penalty notices[^c-257b5dd22797c7e20592ca0e765624eb]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-257b5dd22797c7e20592ca0e765624eb]: Commencement: Art. 47 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-257b5dd22797c7e20592ca0e765624eb]: Commencement: Art. 47 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

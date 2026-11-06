@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223B. Additional relief: part of private residence let out[^key-21d27178a729a60f15d3d6fd550da005]
+## 223B. Additional relief: part of private residence let out[^c-21d27178a729a60f15d3d6fd550da005]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the part of the gain that is within subsection (3) is a chargeable gain only to 
 
 ## Annotations
 
-[^key-21d27178a729a60f15d3d6fd550da005]: Textual amendment: [S. 223B](https://www.legislation.gov.uk/ukpga/1992/12/section/223B) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/5)
+[^c-21d27178a729a60f15d3d6fd550da005]: Textual amendment: [S. 223B](https://www.legislation.gov.uk/ukpga/1992/12/section/223B) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/5)

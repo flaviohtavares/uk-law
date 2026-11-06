@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where the High Court or a county court[^key-075a1be0217be400990c11dae8b8ec92] makes a qualifying periodical maintenance order, it may at the same time exercise either of its powers under paragraph (4) in relation to the order, whether of its own motion or on an application made under this paragraph by an interested party.
+(1) Where the High Court or a county court[^c-075a1be0217be400990c11dae8b8ec92] makes a qualifying periodical maintenance order, it may at the same time exercise either of its powers under paragraph (4) in relation to the order, whether of its own motion or on an application made under this paragraph by an interested party.
 
 (2) For the purposes of this Article, a periodical maintenance order is an order—
 
@@ -31,7 +31,7 @@ and such an order is a “qualifying periodical maintenance order” if, at the 
 
 (3) Where—
 
-- (a) the High Court or a county court[^key-9331c8e70b186b939686a338f4faf216] has made a qualifying periodical maintenance order; or
+- (a) the High Court or a county court[^c-9331c8e70b186b939686a338f4faf216] has made a qualifying periodical maintenance order; or
 - (b) a qualifying periodical maintenance order is registered in the High Court,
 
 that court may at any later time—
@@ -58,7 +58,7 @@ exercise either of its powers under paragraph (4) in relation to the order.
 
 the court in exercising its power under that sub-paragraph may order that the debtor open such an account.
 
-(7) Where in the exercise of its powers under paragraph (1) or (3), the High Court or a county court[^key-0516e616d82081ab7e790b66e843bd51] has made in relation to a qualifying periodical maintenance order such an order as is mentioned in paragraph (4)(a) (a “means of payment order”), it may at any time later—
+(7) Where in the exercise of its powers under paragraph (1) or (3), the High Court or a county court[^c-0516e616d82081ab7e790b66e843bd51] has made in relation to a qualifying periodical maintenance order such an order as is mentioned in paragraph (4)(a) (a “means of payment order”), it may at any time later—
 
 - (a) on an application made under this paragraph by an interested party, or
 - (b) of its own motion, in the course of any proceedings concerning the qualifying periodical maintenance order,
@@ -69,7 +69,7 @@ revoke, suspend, revive or vary the means of payment order.
 
 (9) Nothing in this Article shall be taken to prejudice—
 
-- (a) any power under Articles 97 to 105 which would, apart from this Article, be exercisable by the High Court or a county court[^key-df5c5b428c4c78c879a0a3a2b68cc9e8] ; or
+- (a) any power under Articles 97 to 105 which would, apart from this Article, be exercisable by the High Court or a county court[^c-df5c5b428c4c78c879a0a3a2b68cc9e8] ; or
 - (b) any right of any person to make any application under those Articles;
 
 and paragraph (7) is without prejudice to any other power of the High Court or a county court to revoke, suspend, revive or vary an order.
@@ -91,10 +91,10 @@ and paragraph (7) is without prejudice to any other power of the High Court or a
 
 [^c16847411]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-075a1be0217be400990c11dae8b8ec92]: Textual amendment: Words in art. 96A(1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-075a1be0217be400990c11dae8b8ec92]: Textual amendment: Words in art. 96A(1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-9331c8e70b186b939686a338f4faf216]: Textual amendment: Words in art. 96A(3)(a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-9331c8e70b186b939686a338f4faf216]: Textual amendment: Words in art. 96A(3)(a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-0516e616d82081ab7e790b66e843bd51]: Textual amendment: Words in art. 96A(7) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-0516e616d82081ab7e790b66e843bd51]: Textual amendment: Words in art. 96A(7) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-df5c5b428c4c78c879a0a3a2b68cc9e8]: Textual amendment: Words in art. 96A(9) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-df5c5b428c4c78c879a0a3a2b68cc9e8]: Textual amendment: Words in art. 96A(9) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

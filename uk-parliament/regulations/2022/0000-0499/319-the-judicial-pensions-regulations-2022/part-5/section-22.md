@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Determination of “the age addition”[^key-325e79eda120fe110389ca46fb809252]
+## 22. Determination of “the age addition”[^c-325e79eda120fe110389ca46fb809252]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-325e79eda120fe110389ca46fb809252]: Commencement: Reg. 22 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-325e79eda120fe110389ca46fb809252]: Commencement: Reg. 22 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

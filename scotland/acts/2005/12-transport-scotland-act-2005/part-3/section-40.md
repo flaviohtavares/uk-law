@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. National travel concession schemes[^key-fa57a984707887997894bc8d7ca47586]
+## 40. National travel concession schemes[^c-fa57a984707887997894bc8d7ca47586]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa57a984707887997894bc8d7ca47586]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2005/12/section/40) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-fa57a984707887997894bc8d7ca47586]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2005/12/section/40) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

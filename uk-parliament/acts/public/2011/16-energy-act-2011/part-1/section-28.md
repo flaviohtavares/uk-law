@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Exemption from requirement to give notice of sums in arrears[^key-44a63cf2e64d94a1095f8f59540297f3]
+## 28. Exemption from requirement to give notice of sums in arrears[^c-44a63cf2e64d94a1095f8f59540297f3]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ In section 86B of the Consumer Credit Act 1974 (requirement to give notice of su
 
 ## Annotations
 
-[^key-44a63cf2e64d94a1095f8f59540297f3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2011/16/section/28) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)
+[^c-44a63cf2e64d94a1095f8f59540297f3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2011/16/section/28) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)

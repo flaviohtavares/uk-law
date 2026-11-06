@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Illegal canvassing by police officers[^key-145a47e141c552b3149365f03e257372]
+## 128. Illegal canvassing by police officers[^c-145a47e141c552b3149365f03e257372]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-145a47e141c552b3149365f03e257372]: Commencement: Reg. 128 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-145a47e141c552b3149365f03e257372]: Commencement: Reg. 128 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

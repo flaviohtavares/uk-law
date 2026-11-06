@@ -32,7 +32,7 @@ summary: ''
 
 Energy
 
-The Renewable Heat Incentive Scheme (Amendment) Regulations (Northern Ireland) 2017 (revoked)[^key-2d6c3ef534903ab3df5acae2dd51f978]
+The Renewable Heat Incentive Scheme (Amendment) Regulations (Northern Ireland) 2017 (revoked)[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 Made
 
@@ -40,43 +40,43 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-2d6c3ef534903ab3df5acae2dd51f978]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d6c3ef534903ab3df5acae2dd51f978]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and cessation[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## 1. Citation, commencement and cessation[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## 2. Interpretation[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## 3. Application[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## 4. Amendment of the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## 5.[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## 6.[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d6c3ef534903ab3df5acae2dd51f978]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d6c3ef534903ab3df5acae2dd51f978]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2d6c3ef534903ab3df5acae2dd51f978]
+## SCHEDULE[^c-2d6c3ef534903ab3df5acae2dd51f978]
 
 Regulation 6
 
-> **SCHEDULE 3A[^key-2d6c3ef534903ab3df5acae2dd51f978]**
+> **SCHEDULE 3A[^c-2d6c3ef534903ab3df5acae2dd51f978]**
 >
 > Regulation 36
 >
@@ -84,8 +84,8 @@ Regulation 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d6c3ef534903ab3df5acae2dd51f978]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d6c3ef534903ab3df5acae2dd51f978]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d6c3ef534903ab3df5acae2dd51f978]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2017/32) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Renewable Heat Incentive Scheme (Closure) Regulations (Northern Ireland) 2026 (S.R. 2026/155)](https://www.legislation.gov.uk/nisr/2026/155), [reg. 46(e)](https://www.legislation.gov.uk/nisr/2026/155/regulation/46/e)
+[^c-2d6c3ef534903ab3df5acae2dd51f978]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2017/32) revoked (coming into force in accordance with reg. 1(2) of the amending Rule) by [The Renewable Heat Incentive Scheme (Closure) Regulations (Northern Ireland) 2026 (S.R. 2026/155)](https://www.legislation.gov.uk/nisr/2026/155), [reg. 46(e)](https://www.legislation.gov.uk/nisr/2026/155/regulation/46/e)

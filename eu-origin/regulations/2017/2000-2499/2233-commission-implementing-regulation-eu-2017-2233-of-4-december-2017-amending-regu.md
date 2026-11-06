@@ -35,18 +35,18 @@ amending Regulation (EC) No 900/2009 as regards the characterisation of selenome
 
 (Text with EEA relevance) (revoked)
 
-[^key-bd5d2032458dfbb0ee8aed50e246483b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd5d2032458dfbb0ee8aed50e246483b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Regulation (EC) No 900/2009[^key-bd5d2032458dfbb0ee8aed50e246483b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-bd5d2032458dfbb0ee8aed50e246483b]
+## Article 1. Amendment to Regulation (EC) No 900/2009[^c-bd5d2032458dfbb0ee8aed50e246483b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd5d2032458dfbb0ee8aed50e246483b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-bd5d2032458dfbb0ee8aed50e246483b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bd5d2032458dfbb0ee8aed50e246483b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd5d2032458dfbb0ee8aed50e246483b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 36](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/36)
+[^c-bd5d2032458dfbb0ee8aed50e246483b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 36](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/36)

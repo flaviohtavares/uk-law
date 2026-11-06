@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54A. Surplus earnings[^key-6249ab03f122e0ac6f77343c8287fb59]
+## 54A. Surplus earnings[^c-6249ab03f122e0ac6f77343c8287fb59]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ summary: ''
 (6) In this regulation—
 
 - “total earned income” is the earned income of the claimant or, if the claimant is a member of a couple, the couple’s combined earned income, but does not include any amount a claimant would be treated as having by virtue of regulation 62 (the minimum income floor);
-- “the nil UC threshold” is the amount of total earned income above which there would be no entitlement to universal credit, expressed by the following formula—[^key-7024b2128488f7123fe9f12f4432ebdf]
+- “the nil UC threshold” is the amount of total earned income above which there would be no entitlement to universal credit, expressed by the following formula—[^c-7024b2128488f7123fe9f12f4432ebdf]
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/376)
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6249ab03f122e0ac6f77343c8287fb59]: Textual amendment: Reg. 54A inserted (11.4.2018) by [The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 (S.I. 2015/345)](https://www.legislation.gov.uk/uksi/2015/345), [regs. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/345/regulation/2/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/345/regulation/5)) (as amended by [S.I. 2017/197](https://www.legislation.gov.uk/uksi/2017/197), reg. 2 and [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65), reg. 7)
+[^c-6249ab03f122e0ac6f77343c8287fb59]: Textual amendment: Reg. 54A inserted (11.4.2018) by [The Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 (S.I. 2015/345)](https://www.legislation.gov.uk/uksi/2015/345), [regs. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/345/regulation/2/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/345/regulation/5)) (as amended by [S.I. 2017/197](https://www.legislation.gov.uk/uksi/2017/197), reg. 2 and [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65), reg. 7)
 
-[^key-7024b2128488f7123fe9f12f4432ebdf]: Textual amendment: Formula in reg. 54A(6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations 2021 (S.I. 2021/1283)](https://www.legislation.gov.uk/uksi/2021/1283), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1283/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1283/regulation/2/2)
+[^c-7024b2128488f7123fe9f12f4432ebdf]: Textual amendment: Formula in reg. 54A(6) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations 2021 (S.I. 2021/1283)](https://www.legislation.gov.uk/uksi/2021/1283), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1283/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1283/regulation/2/2)

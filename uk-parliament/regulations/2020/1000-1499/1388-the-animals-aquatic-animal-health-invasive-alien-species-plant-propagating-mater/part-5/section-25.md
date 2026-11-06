@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018[^key-41290d4a4162d048c3127f9cca7245eb]
+## 25. The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018[^c-41290d4a4162d048c3127f9cca7245eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -191,6 +191,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41290d4a4162d048c3127f9cca7245eb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-41290d4a4162d048c3127f9cca7245eb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00058]: Footnote: [S.I. 2018/1410](https://www.legislation.gov.uk/uksi/2018/1410).

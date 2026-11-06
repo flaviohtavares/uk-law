@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Financing costs and income of group companies[^key-e901fe771980338becae0cd8f82055fc]
+## 11. Financing costs and income of group companies[^c-e901fe771980338becae0cd8f82055fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e901fe771980338becae0cd8f82055fc]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2010/33/section/11) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/a)
+[^c-e901fe771980338becae0cd8f82055fc]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2010/33/section/11) repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/a)

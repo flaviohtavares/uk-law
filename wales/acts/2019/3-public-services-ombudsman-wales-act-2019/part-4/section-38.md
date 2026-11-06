@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Model complaints-handling procedures: specification of listed authorities[^key-22c5cb38c2f1aae13a40d0541286241c]
+## 38. Model complaints-handling procedures: specification of listed authorities[^c-22c5cb38c2f1aae13a40d0541286241c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22c5cb38c2f1aae13a40d0541286241c]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2019/3/section/38) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-22c5cb38c2f1aae13a40d0541286241c]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2019/3/section/38) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

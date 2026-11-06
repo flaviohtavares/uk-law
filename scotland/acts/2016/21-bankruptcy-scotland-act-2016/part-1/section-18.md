@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Powers in relation to concurrent proceedings[^key-e81df98170f4d525de67a6e5878f2a05]
+## 18. Powers in relation to concurrent proceedings[^c-e81df98170f4d525de67a6e5878f2a05]
 
 *Extent: S*
 
-(1) Where, in the course of instant proceedings (see section 17(1)) which are by petition, any of the circumstances mentioned in paragraphs (a) to (g)[^key-39763d36fa9158649af2af44d1905339] (gc) of section 17(2) exists, the sheriff to whom the petition in the instant proceedings was presented may, on the sheriff's own motion or at the instance of the debtor, of a creditor or of any other person having an interest—
+(1) Where, in the course of instant proceedings (see section 17(1)) which are by petition, any of the circumstances mentioned in paragraphs (a) to (g)[^c-39763d36fa9158649af2af44d1905339] (gc) of section 17(2) exists, the sheriff to whom the petition in the instant proceedings was presented may, on the sheriff's own motion or at the instance of the debtor, of a creditor or of any other person having an interest—
 
 - (a) allow the petition to proceed,
 - (b) sist it, or
 - (c) dismiss it.
 
-(2) Without prejudice to subsection (1), where, in the course of such instant proceedings, any of the circumstances mentioned in paragraph (a), (b), (e), (f) or (g) *(affected by repeal, see note)*[^key-2281cf7e4eb542dc033d19246d954f45] , (g), (ga), (gb) or (gc) of section 17(2) exists, the Court of Session may, on the Court's own motion or at the instance of the debtor, of a creditor or of any other person having an interest—
+(2) Without prejudice to subsection (1), where, in the course of such instant proceedings, any of the circumstances mentioned in paragraph (a), (b), (e), (f) or (g) *(affected by repeal, see note)*[^c-2281cf7e4eb542dc033d19246d954f45] , (g), (ga), (gb) or (gc) of section 17(2) exists, the Court of Session may, on the Court's own motion or at the instance of the debtor, of a creditor or of any other person having an interest—
 
 - (a) direct the sheriff before whom the petition in the instant proceedings is pending or the sheriff before whom the other petition is pending, to sist or dismiss the petition in the instant proceedings or, as the case may be, the other petition, or
 - (b) order the petitions to be heard together.
@@ -51,7 +51,7 @@ summary: ''
 
 (7) Without delay after granting recall of an award of sequestration under subsection (4), AiB must send a certified copy of the decision to the Keeper of the Register of Inhibitions for recording in that register.
 
-(8) Where, in the course of instant proceedings which are by debtor application, any of the circumstances mentioned in paragraphs (a) to (g)[^key-77e0dc05567d59f28c075838e616c0e0] (gc) of section 17(2) exists, AiB may dismiss the debtor application in the instant proceedings.
+(8) Where, in the course of instant proceedings which are by debtor application, any of the circumstances mentioned in paragraphs (a) to (g)[^c-77e0dc05567d59f28c075838e616c0e0] (gc) of section 17(2) exists, AiB may dismiss the debtor application in the instant proceedings.
 
 (9) Subsection (10) applies where, in respect of the same estate—
 
@@ -73,10 +73,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e81df98170f4d525de67a6e5878f2a05]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/21/section/18) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e81df98170f4d525de67a6e5878f2a05]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/21/section/18) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-39763d36fa9158649af2af44d1905339]: Textual amendment: Word in [s. 18(1)](https://www.legislation.gov.uk/asp/2016/21/section/18/1) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 135(3)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/135/3/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-39763d36fa9158649af2af44d1905339]: Textual amendment: Word in [s. 18(1)](https://www.legislation.gov.uk/asp/2016/21/section/18/1) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 135(3)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/135/3/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-2281cf7e4eb542dc033d19246d954f45]: Textual amendment: Words in [s. 18(2)](https://www.legislation.gov.uk/asp/2016/21/section/18/2) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 135(3)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/135/3/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-2281cf7e4eb542dc033d19246d954f45]: Textual amendment: Words in [s. 18(2)](https://www.legislation.gov.uk/asp/2016/21/section/18/2) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 135(3)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/135/3/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-77e0dc05567d59f28c075838e616c0e0]: Textual amendment: Word in [s. 18(8)](https://www.legislation.gov.uk/asp/2016/21/section/18/8) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 135(3)(c)](https://www.legislation.gov.uk/ukpga/2023/56/section/135/3/c), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-77e0dc05567d59f28c075838e616c0e0]: Textual amendment: Word in [s. 18(8)](https://www.legislation.gov.uk/asp/2016/21/section/18/8) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 135(3)(c)](https://www.legislation.gov.uk/ukpga/2023/56/section/135/3/c), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

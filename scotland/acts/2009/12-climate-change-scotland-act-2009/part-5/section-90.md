@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Penalties[^key-e22dd594fe4a5c96b67ec2bfd60c081e]
+## 90. Penalties[^c-e22dd594fe4a5c96b67ec2bfd60c081e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e22dd594fe4a5c96b67ec2bfd60c081e]: Commencement: S. 90 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-e22dd594fe4a5c96b67ec2bfd60c081e]: Commencement: S. 90 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

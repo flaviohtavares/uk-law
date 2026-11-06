@@ -83,7 +83,7 @@ for “qualifying subsidiaries” substitute “ qualifying 90% subsidiaries ”
   - (i) for “a subsidiary” substitute “ a qualifying 90% subsidiary of the issuing company ”,
   - (ii) for “or subsidiary” substitute “ or a qualifying 90% subsidiary of the issuing company ”,
 - (c) in sub-paragraph (6), for “the company”, in the first place, substitute “ a company ”,
-- (d)[^key-5d88d31730dbf3f37fb77035f2c343e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-5d88d31730dbf3f37fb77035f2c343e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In paragraph 24 (ceasing to meet trading requirements by reason of administration, receivership etc)—
 
@@ -153,4 +153,4 @@ for “qualifying subsidiaries” substitute “ qualifying 90% subsidiaries ”
 
 ## Annotations
 
-[^key-5d88d31730dbf3f37fb77035f2c343e0]: Textual amendment: Sch. 20 para. 7(d) repealed (19.7.2007 with effect in accordance with Sch. 16 to the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(16)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/16)
+[^c-5d88d31730dbf3f37fb77035f2c343e0]: Textual amendment: Sch. 20 para. 7(d) repealed (19.7.2007 with effect in accordance with Sch. 16 to the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(16)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/16)

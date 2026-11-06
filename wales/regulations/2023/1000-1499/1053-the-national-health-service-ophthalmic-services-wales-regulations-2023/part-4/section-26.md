@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Notifications to Local Health Boards[^key-0bb792dafd4cb021e644ca26ee100000]
+## 26. Notifications to Local Health Boards[^c-0bb792dafd4cb021e644ca26ee100000]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bb792dafd4cb021e644ca26ee100000]: Commencement: Reg. 26 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-0bb792dafd4cb021e644ca26ee100000]: Commencement: Reg. 26 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

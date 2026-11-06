@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70A. Time when postal ballot papers are to be issued[^key-68c0c497826eb71a233923e49a8eadb2]
+## 70A. Time when postal ballot papers are to be issued[^c-68c0c497826eb71a233923e49a8eadb2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Postal ballot papers (and declarations of identity) must not be issued by the co
 
 ## Annotations
 
-[^key-68c0c497826eb71a233923e49a8eadb2]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/70A) treated as inserted for specified purposes (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 82](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/82)
+[^c-68c0c497826eb71a233923e49a8eadb2]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/70A) treated as inserted for specified purposes (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 82](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/82)

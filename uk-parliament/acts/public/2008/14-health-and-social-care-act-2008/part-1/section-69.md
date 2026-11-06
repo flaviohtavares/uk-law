@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Co-operation between the Commission and Welsh Ministers[^key-18b5ec1509a389e5b37d7c37ee1d30b6]
+## 69. Co-operation between the Commission and Welsh Ministers[^c-18b5ec1509a389e5b37d7c37ee1d30b6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18b5ec1509a389e5b37d7c37ee1d30b6]: Commencement: S. 69 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/22)
+[^c-18b5ec1509a389e5b37d7c37ee1d30b6]: Commencement: S. 69 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/22)

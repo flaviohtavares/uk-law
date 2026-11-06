@@ -33,35 +33,35 @@ An Act to make further provision for and in connection with the preservation of 
 
 \[18th July 1996\]
 
-[^c862661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ceb6937dc284ed03c2e82dc70469dd32]
+[^c862661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ceb6937dc284ed03c2e82dc70469dd32]
 
 ## 1. Bodies to which Act applies.
 
-(1)[^key-be18c6f8c86aa818de3ab67491404f9c] The following shall be regarded as bodies to which this Act applies, namely—
+(1)[^c-be18c6f8c86aa818de3ab67491404f9c] The following shall be regarded as bodies to which this Act applies, namely—
 
-- (a)[^key-670aeac1e12adab6c21498637219d357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-670aeac1e12adab6c21498637219d357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-670aeac1e12adab6c21498637219d357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-670aeac1e12adab6c21498637219d357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any company which was formerly a wholly owned subsidiary of the Board;
 - (d) any publicly owned railway company;
 - (e) any company which was formerly a publicly owned railway company;
-- (f)[^c862662] the Secretary of State[^key-f23173911ac2f20fb9b0ad6d4da145d6];
-- (g) any company which is wholly owned by the Secretary of State[^key-1202752d02fc05051775df82917bd81a];
+- (f)[^c862662] the Secretary of State[^c-f23173911ac2f20fb9b0ad6d4da145d6];
+- (g) any company which is wholly owned by the Secretary of State[^c-1202752d02fc05051775df82917bd81a];
 - (h) any franchisee; and
 - (i) any franchise operator.
 
-(2)[^key-8fda9e26aabcf0145d92775183665ac6] The Secretary of State may, by order made by statutory instrument, modify subsection (1) by adding a body or a description of body to the list of bodies to which this Act applies.
+(2)[^c-8fda9e26aabcf0145d92775183665ac6] The Secretary of State may, by order made by statutory instrument, modify subsection (1) by adding a body or a description of body to the list of bodies to which this Act applies.
 
 (3) Before making an order under subsection (2), the Secretary of State must consult the bodies that appear to him to be the ones that will become bodies to which this Act applies on the coming into force of the order.
 
 (4) A statutory instrument containing an order under subsection (2) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 2. Establishment of committee.[^key-232771dce077143bcc2f99b859e8dac3]
+## 2. Establishment of committee.[^c-232771dce077143bcc2f99b859e8dac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Designation of records and artefacts.
 
-(1) It shall be a function of the Board of Trustees[^key-b958c0489ba1cb54d57a9098958f05f0]—
+(1) It shall be a function of the Board of Trustees[^c-b958c0489ba1cb54d57a9098958f05f0]—
 
 - (a) to designate those records or artefacts, or those classes or descriptions of record or artefact, which in the opinion of the Board of Trustees are of sufficient interest to warrant preservation; and
 - (b) to notify every body to which this Act applies of the records or artefacts, or the classes or descriptions of record or artefact, so designated.
@@ -74,7 +74,7 @@ An Act to make further provision for and in connection with the preservation of 
 
 ## 4. Notice of proposed disposal of record or artefact.
 
-(1) Where a body to which this Act applies proposes to dispose of a designated record or artefact to any person to any extent, it shall give notice to the Board of Trustees[^key-dbd57ca16b985b02d0ba17b5753414ce] containing details of the proposed disposal.
+(1) Where a body to which this Act applies proposes to dispose of a designated record or artefact to any person to any extent, it shall give notice to the Board of Trustees[^c-dbd57ca16b985b02d0ba17b5753414ce] containing details of the proposed disposal.
 
 (2) If the Board of Trustees is content both with the person to whom the record or artefact is proposed to be disposed of and with the terms of the proposed disposal (including any terms relating to payment), it shall consent to the disposal.
 
@@ -90,7 +90,7 @@ An Act to make further provision for and in connection with the preservation of 
 (6) Nothing in this section shall apply to, and nothing in section 5 below shall preclude, any disposal of a designated record or artefact by a body to which this Act applies if—
 
 - (a) at the time of the disposal, the body has not been notified of the designation;
-- (b) the disposal is made in accordance with a transfer scheme under the Transport Act 2000[^c862674] or the Railways Act 2005[^key-515e4cd86516a6e448a14b8aea73c811]; or
+- (b) the disposal is made in accordance with a transfer scheme under the Transport Act 2000[^c862674] or the Railways Act 2005[^c-515e4cd86516a6e448a14b8aea73c811]; or
 - (c) the disposal is not so made but is a disposal to another body to which this Act applies;
 
 but where such a body makes such a disposal as is mentioned in paragraph (c) above, it shall, within the period of two months beginning with the day of the disposal, give notice to the Board of Trustees of the disposal.
@@ -99,7 +99,7 @@ but where such a body makes such a disposal as is mentioned in paragraph (c) abo
 
 (1) A body to which this Act applies may dispose of a designated record or artefact if, and only if—
 
-- (a) the Board of Trustees[^key-92400d86dde1b77487b199f6307b8a79] has consented to the disposal under section 4(2) above; or
+- (a) the Board of Trustees[^c-92400d86dde1b77487b199f6307b8a79] has consented to the disposal under section 4(2) above; or
 - (b) the disposal is made in pursuance of an offer made by the body in accordance with directions given under section 4(3) or (4) above; or
 - (c) the body has given notice of the disposal under section 4(1) above and has made one or more offers in accordance with directions given under section 4(3) or (4) above, but the offer has not been accepted, or (as the case may be) none of the offers has been accepted, within the requisite period; or
 - (d) the body has given notice of the disposal under section 4(1) above, but the Board of Trustees has neither consented under section 4(2) above, nor given directions under section 4(3) or (4) above, within the requisite period;
@@ -114,7 +114,7 @@ and in this subsection “**the requisite period**”, in relation to an offer o
 
 ## 6. Guidance and information.
 
-(1) In exercising its functions under this Act the Board of Trustees[^key-9b774107ad0e9900d64020fe63f4f02a] shall have regard to such guidance as may from time to time be given by the Secretary of State; and any such guidance may make different provision for different cases or descriptions of case.
+(1) In exercising its functions under this Act the Board of Trustees[^c-9b774107ad0e9900d64020fe63f4f02a] shall have regard to such guidance as may from time to time be given by the Secretary of State; and any such guidance may make different provision for different cases or descriptions of case.
 
 (2) The Board of Trustees may require a body to which this Act applies to furnish the Board of Trustees with such information as the Board of Trustees reasonably considers necessary to enable it to exercise any of its functions under this Act.
 
@@ -122,9 +122,9 @@ and in this subsection “**the requisite period**”, in relation to an offer o
 
 (1) In this Act—
 
-- “Board of Trustees” means the Board of Trustees of the Science Museum established under section 9 of the National Heritage Act 1983[^key-78fc3437d2415fbeb767ded79b978a93];
+- “Board of Trustees” means the Board of Trustees of the Science Museum established under section 9 of the National Heritage Act 1983[^c-78fc3437d2415fbeb767ded79b978a93];
 
-- “**designated**”, in relation to a record or artefact, means designated, or of a class or description designated, by the Board of Trustees[^key-169464e471119af4ec90380afe557a8f] under section 3 above, and “**designation**” shall be construed accordingly;
+- “**designated**”, in relation to a record or artefact, means designated, or of a class or description designated, by the Board of Trustees[^c-169464e471119af4ec90380afe557a8f] under section 3 above, and “**designation**” shall be construed accordingly;
 - “**disposal**”, in relation to a designated record or artefact, includes—
   - (a) a lease or loan of the record or artefact for a period which exceeds twelve months, or for any period to a person to whom the record or artefact has been leased or loaned at any time in the preceding twelve months;
   - (b) the creation of any security over the record or artefact,
@@ -147,42 +147,42 @@ and in this subsection “**the requisite period**”, in relation to an offer o
 
 [^c862661]: Commencement: Act not in force at Royal assent; Act wholly in force at 18.9.1996 see [s. 8(3)](https://www.legislation.gov.uk/ukpga/1996/42/section/8/3)
 
-[^key-ceb6937dc284ed03c2e82dc70469dd32]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/42) function transferred (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/64/article/2/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-ceb6937dc284ed03c2e82dc70469dd32]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/42) function transferred (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2013/64/article/2/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
-[^key-be18c6f8c86aa818de3ab67491404f9c]: Textual amendment: S. 1 renumbered as s. 1(1) (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/2); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-be18c6f8c86aa818de3ab67491404f9c]: Textual amendment: S. 1 renumbered as s. 1(1) (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/2); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
-[^key-670aeac1e12adab6c21498637219d357]: Textual amendment: S. 1(1)(a)(b) repealed (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-670aeac1e12adab6c21498637219d357]: Textual amendment: S. 1(1)(a)(b) repealed (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
 [^c862662]: Textual amendment: S. 1(f) substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 215](https://www.legislation.gov.uk/ukpga/2000/38/section/215), [Sch. 16 para. 55(1)(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/16/paragraph/55/1/2); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to transitional provisions and savings in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II) (as amended ([22](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/22).[1](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/1).[2001](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/2001)) by [S.I. 2001/115](https://www.legislation.gov.uk/uksi/2001/115), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/115/article/2/1))
 
-[^key-f23173911ac2f20fb9b0ad6d4da145d6]: Textual amendment: Words in s. 1(1)(f) substituted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/2/a); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-f23173911ac2f20fb9b0ad6d4da145d6]: Textual amendment: Words in s. 1(1)(f) substituted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/2/a); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
-[^key-1202752d02fc05051775df82917bd81a]: Textual amendment: Words in s. 1(1)(g) substituted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/2/b); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-1202752d02fc05051775df82917bd81a]: Textual amendment: Words in s. 1(1)(g) substituted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/2/b); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
-[^key-8fda9e26aabcf0145d92775183665ac6]: Textual amendment: S. 1(2)(3)(4) inserted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/3); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-8fda9e26aabcf0145d92775183665ac6]: Textual amendment: S. 1(2)(3)(4) inserted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/3); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
-[^key-232771dce077143bcc2f99b859e8dac3]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1996/42/section/2) repealed (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-232771dce077143bcc2f99b859e8dac3]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1996/42/section/2) repealed (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
-[^key-b958c0489ba1cb54d57a9098958f05f0]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1996/42/section/3/1) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-b958c0489ba1cb54d57a9098958f05f0]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1996/42/section/3/1) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
 [^c862672]: Marginal citation: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
-[^key-dbd57ca16b985b02d0ba17b5753414ce]: Textual amendment: Words in s. 4 substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-dbd57ca16b985b02d0ba17b5753414ce]: Textual amendment: Words in s. 4 substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
 [^c862674]: Textual amendment: Words in s. 4(6)(b) substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 53](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/53); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to transitional provisions and savings in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-515e4cd86516a6e448a14b8aea73c811]: Textual amendment: Words in s. 4(6)(b) inserted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(5)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/5); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-515e4cd86516a6e448a14b8aea73c811]: Textual amendment: Words in s. 4(6)(b) inserted (21.11.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 13(5)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/13/5); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
-[^key-92400d86dde1b77487b199f6307b8a79]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1996/42/section/5/1) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-92400d86dde1b77487b199f6307b8a79]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1996/42/section/5/1) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
 [^c862675]: Marginal citation: [1958 c.51](https://www.legislation.gov.uk/ukpga/1958/51).
 
 [^c862676]: Marginal citation: [1937 c.43](https://www.legislation.gov.uk/ukpga/1937/43).
 
-[^key-9b774107ad0e9900d64020fe63f4f02a]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1996/42/section/6) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-9b774107ad0e9900d64020fe63f4f02a]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1996/42/section/6) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
-[^key-78fc3437d2415fbeb767ded79b978a93]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1996/42/section/7) inserted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(f)(i)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/f/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-78fc3437d2415fbeb767ded79b978a93]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1996/42/section/7) inserted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(f)(i)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/f/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
-[^key-169464e471119af4ec90380afe557a8f]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1996/42/section/7) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/f/ii) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-169464e471119af4ec90380afe557a8f]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/1996/42/section/7) substituted (1.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [2(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2013/64/article/2/3/f/ii) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
 [^c862677]: Marginal citation: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43).

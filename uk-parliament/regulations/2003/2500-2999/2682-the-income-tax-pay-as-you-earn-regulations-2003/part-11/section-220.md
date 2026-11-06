@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Transitional provisions, savings and revocations[^key-8aa253dd51e0fcced31d199f06af0e98]
+## 220. Transitional provisions, savings and revocations[^c-8aa253dd51e0fcced31d199f06af0e98]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa253dd51e0fcced31d199f06af0e98]: Commencement: [Reg. 220](https://www.legislation.gov.uk/uksi/2003/2682/regulation/220) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-8aa253dd51e0fcced31d199f06af0e98]: Commencement: [Reg. 220](https://www.legislation.gov.uk/uksi/2003/2682/regulation/220) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

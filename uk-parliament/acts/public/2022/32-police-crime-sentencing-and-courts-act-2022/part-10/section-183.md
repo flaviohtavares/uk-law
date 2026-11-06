@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Variation etc of order by court in another part of the United Kingdom[^key-30300ca58b4428d2e3d3d091202299b3][^key-ef451c9d71a2526e5677f421ce1eb918]
+## 183. Variation etc of order by court in another part of the United Kingdom[^c-30300ca58b4428d2e3d3d091202299b3][^c-ef451c9d71a2526e5677f421ce1eb918]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30300ca58b4428d2e3d3d091202299b3]: Commencement: S. 183 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-30300ca58b4428d2e3d3d091202299b3]: Commencement: S. 183 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ef451c9d71a2526e5677f421ce1eb918]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2022/32/section/183) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/f)
+[^c-ef451c9d71a2526e5677f421ce1eb918]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2022/32/section/183) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/f)

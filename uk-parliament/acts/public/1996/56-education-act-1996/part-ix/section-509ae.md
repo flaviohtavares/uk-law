@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 509AE.  Complaints about transport arrangements etc for persons of sixth form age in England[^key-a2dfd255105af4fcb77dfe2f1a2a14b9]
+## 509AE.  Complaints about transport arrangements etc for persons of sixth form age in England[^c-a2dfd255105af4fcb77dfe2f1a2a14b9]
 
 *Extent: E+W*
 
-(1) A local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] may revise a statement prepared under section 509AA to change the arrangements specified under subsection (2) or (3) of that section if, as a result of a sixth form transport complaint, they have come to consider the change necessary for the purpose of the arrangements specified under the subsection in question.
+(1) A local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] may revise a statement prepared under section 509AA to change the arrangements specified under subsection (2) or (3) of that section if, as a result of a sixth form transport complaint, they have come to consider the change necessary for the purpose of the arrangements specified under the subsection in question.
 
 (2) A local authority must revise a statement prepared under section 509AA to change the arrangements specified under subsection (2) or (3) of that section if, as a result of a sixth form transport complaint, the Secretary of State has directed them to do so.
 
@@ -44,6 +44,6 @@ and “**sixth form age**” is to be construed in accordance with section 509AC
 
 ## Annotations
 
-[^key-a2dfd255105af4fcb77dfe2f1a2a14b9]: Textual amendment: S. 509AE inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/56/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3317/article/3))
+[^c-a2dfd255105af4fcb77dfe2f1a2a14b9]: Textual amendment: S. 509AE inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/56/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/3317/article/3))
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

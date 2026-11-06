@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Maintenance of highway works[^key-0d7e6f67adbc1340cbe572ecc1a2192a]
+## 15. Maintenance of highway works[^c-0d7e6f67adbc1340cbe572ecc1a2192a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to article 16 (classification of roads), the streets authorised to be co
 
 ## Annotations
 
-[^key-0d7e6f67adbc1340cbe572ecc1a2192a]: Commencement: Art. 15 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-0d7e6f67adbc1340cbe572ecc1a2192a]: Commencement: Art. 15 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

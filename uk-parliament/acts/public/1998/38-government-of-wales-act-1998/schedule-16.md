@@ -24,7 +24,7 @@ Section 140.
 
 ### The Friendly and Industrial and Provident Societies Act 1968 (c.55)
 
-**1.**[^key-ad78f9c64ac5f21308e098edfa94c7e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ad78f9c64ac5f21308e098edfa94c7e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Protection from Eviction Act 1977 (c.43)
 
@@ -80,7 +80,7 @@ Section 140.
 
   .
 
-**12.**[^key-ae39342fdf3b884e7a3bf326de675b97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ae39342fdf3b884e7a3bf326de675b97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** In section 171(2) (power to extend right to buy etc.), for “Corporation” substitute “ Housing Corporation or Scottish Homes ”.
 
@@ -347,9 +347,9 @@ Section 140.
 
 .
 
-**56.**[^key-d6d117b4850e54b2800338ce13023d0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-d6d117b4850e54b2800338ce13023d0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-3e7e748c43887cea37d9cc4c86b115c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-3e7e748c43887cea37d9cc4c86b115c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **58.** [^c20167081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -384,7 +384,7 @@ Section 140.
 - (a) in paragraph (b), omit “the establishment by this Part of this Act of Housing for Wales and”, and
 - (b) in paragraph (c), for “other” substitute “ the ”.
 
-**68.**[^key-c993e4ab9ae23b4824bf37f8abf42882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-c993e4ab9ae23b4824bf37f8abf42882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **69.** [^c20952511]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -440,7 +440,7 @@ Section 140.
 
 (4) Omit subsection (2).
 
-**84.**[^key-26e6385ada9f9911e4f616e4eca2387a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-26e6385ada9f9911e4f616e4eca2387a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **85.** (1) Section 18 (social housing grants) is amended as follows.
 
@@ -499,15 +499,15 @@ Section 140.
 
 **95.** [^c20952581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**96.** (1)[^key-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**96.** (1)[^c-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) [^c20952621]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e67e95dc0d2d3824936df6d71bd4167b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph 27(1)—
 
@@ -516,7 +516,7 @@ Section 140.
 
 (7) [^c20952621]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-bbb099c2b67f24125e301b35f1372adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-bbb099c2b67f24125e301b35f1372adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **97.** (1) Schedule 2 (social rented sector: housing complaints) is amended as follows.
 
@@ -524,13 +524,13 @@ Section 140.
 
 (3) [^c20248871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-18071fe80ad0212ca45d0fe7aaa573a7]
+### ...[^c-18071fe80ad0212ca45d0fe7aaa573a7]
 
-**98.**[^key-18071fe80ad0212ca45d0fe7aaa573a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-18071fe80ad0212ca45d0fe7aaa573a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**99.**[^key-18071fe80ad0212ca45d0fe7aaa573a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**99.**[^c-18071fe80ad0212ca45d0fe7aaa573a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**100.**[^key-18071fe80ad0212ca45d0fe7aaa573a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**100.**[^c-18071fe80ad0212ca45d0fe7aaa573a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **101.**[^c20233701] In section 42 (functions of Audit Commission in relation to accounts of registered social landlords), for “Corporation” (in each place) substitute *(affected by repeal, see note)*[^c20233701] “ Relevant Authority ” *(affected by repeal, see note)*[^c20233701].
 
@@ -540,7 +540,7 @@ Section 140.
 
 [^c12405671]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16) in force at 1.11.1998 by [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 
-[^key-ad78f9c64ac5f21308e098edfa94c7e5]: Textual amendment: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/a)
+[^c-ad78f9c64ac5f21308e098edfa94c7e5]: Textual amendment: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/a)
 
 [^c12405681]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
@@ -550,7 +550,7 @@ Section 140.
 
 [^c12405701]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-ae39342fdf3b884e7a3bf326de675b97]: Textual amendment: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/12) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/b)
+[^c-ae39342fdf3b884e7a3bf326de675b97]: Textual amendment: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/12) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/b)
 
 [^c12405711]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
@@ -626,9 +626,9 @@ Section 140.
 
 [^c12405811]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-d6d117b4850e54b2800338ce13023d0a]: Textual amendment: [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/56) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/c)
+[^c-d6d117b4850e54b2800338ce13023d0a]: Textual amendment: [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/56) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/c)
 
-[^key-3e7e748c43887cea37d9cc4c86b115c3]: Textual amendment: [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/57) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/c)
+[^c-3e7e748c43887cea37d9cc4c86b115c3]: Textual amendment: [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/57) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/c)
 
 [^c20167081]: Textual amendment: [Sch. 16 para. 58](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/58) repealed (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 326](https://www.legislation.gov.uk/ukpga/2004/12/section/326), [Sch. 42 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/7)
 
@@ -644,13 +644,13 @@ Section 140.
 
 [^c12405841]: Marginal citation: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
 
-[^key-c993e4ab9ae23b4824bf37f8abf42882]: Textual amendment: [Sch. 16 para. 68](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/68) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/d)
+[^c-c993e4ab9ae23b4824bf37f8abf42882]: Textual amendment: [Sch. 16 para. 68](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/68) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/d)
 
 [^c20952511]: Textual amendment: [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/69) repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 7](https://www.legislation.gov.uk/uksi/2010/866/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6 Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/article/6/schedule/3))
 
 [^c20248711]: Textual amendment: [Sch. 16 para. 83(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/83/3) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 321(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/321/1), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with transitional savings in [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-26e6385ada9f9911e4f616e4eca2387a]: Textual amendment: [Sch. 16 para. 84](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/84) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/e)
+[^c-26e6385ada9f9911e4f616e4eca2387a]: Textual amendment: [Sch. 16 para. 84](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/84) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/e)
 
 [^c20952521]: Textual amendment: [Sch. 16 para. 85(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/85/3) repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 7](https://www.legislation.gov.uk/uksi/2010/866/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6 Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/article/6/schedule/3))
 
@@ -664,15 +664,15 @@ Section 140.
 
 [^c20952581]: Textual amendment: [Sch. 16 para. 95](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/95) repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 7](https://www.legislation.gov.uk/uksi/2010/866/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6 Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/article/6/schedule/3))
 
-[^key-e67e95dc0d2d3824936df6d71bd4167b]: Textual amendment: [Sch. 16 para. 96(1)-(5)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/96/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/e)
+[^c-e67e95dc0d2d3824936df6d71bd4167b]: Textual amendment: [Sch. 16 para. 96(1)-(5)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/96/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/e)
 
 [^c20952621]: Textual amendment: [Sch. 16 para. 96(4)(6)(b)(7)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/96/4/6/b/7) repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 7](https://www.legislation.gov.uk/uksi/2010/866/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6 Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/article/6/schedule/3))
 
-[^key-bbb099c2b67f24125e301b35f1372adb]: Textual amendment: [Sch. 16 para. 96(8)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/96/8) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/e)
+[^c-bbb099c2b67f24125e301b35f1372adb]: Textual amendment: [Sch. 16 para. 96(8)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/96/8) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/e)
 
 [^c20248871]: Textual amendment: [Sch. 16 para. 97(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/97/3) repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 321(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/321/1), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with transitional savings in [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-18071fe80ad0212ca45d0fe7aaa573a7]: Textual amendment: [Sch. 16 para. 98-100](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/98) and cross-heading omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(f)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/f)
+[^c-18071fe80ad0212ca45d0fe7aaa573a7]: Textual amendment: [Sch. 16 para. 98-100](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/98) and cross-heading omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(6)(f)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/6/f)
 
 [^c20233701]: Textual amendment: [Sch. 16 para. 101](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/101) repealed (E.W.) (31.1.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 241](https://www.legislation.gov.uk/ukpga/2007/28/section/241), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 18 Pt. 11](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/11); [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/u/i) (as amended by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 3](https://www.legislation.gov.uk/uksi/2008/337/article/3))
 

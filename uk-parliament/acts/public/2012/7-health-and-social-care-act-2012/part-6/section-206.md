@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Pharmaceutical needs assessments[^key-8e700ff9d61fb533e90695d4497b03cc]
+## 206. Pharmaceutical needs assessments[^c-8e700ff9d61fb533e90695d4497b03cc]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e700ff9d61fb533e90695d4497b03cc]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2012/7/section/206) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8e700ff9d61fb533e90695d4497b03cc]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2012/7/section/206) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

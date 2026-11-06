@@ -151,9 +151,9 @@ A larger local government body must ensure that its statement of accounts is pre
 
 (1) A larger local government body must ensure that the statement of accounts required by regulation 7 is prepared in accordance with these Regulations.
 
-(2) Subject to paragraph (7),[^key-27d8a0df1874e58e30533544821ae134] Before the approval referred to in paragraph (3) is given, the chief financial officer of a larger local government body must, no later than 30th June following the end of the financial year, sign and date the statement of accounts, and certify that it presents a true and fair view of the financial position of the local government body at the end of the year to which it relates and of that local government body's income and expenditure for the year, for submission to the Department and the local government auditor. Where the chief financial officer is unable to sign and certify the statement of accounts owing to absence or illness, a person nominated by the chief financial officer should sign and certify the statement of accounts.
+(2) Subject to paragraph (7),[^c-27d8a0df1874e58e30533544821ae134] Before the approval referred to in paragraph (3) is given, the chief financial officer of a larger local government body must, no later than 30th June following the end of the financial year, sign and date the statement of accounts, and certify that it presents a true and fair view of the financial position of the local government body at the end of the year to which it relates and of that local government body's income and expenditure for the year, for submission to the Department and the local government auditor. Where the chief financial officer is unable to sign and certify the statement of accounts owing to absence or illness, a person nominated by the chief financial officer should sign and certify the statement of accounts.
 
-(3) Subject to paragraphs (4) and (8)[^key-f6a754520b5472f838255719b1a6ed6e], a larger local government body must, no later than 30th September following the end of the financial year to which the statement relates—
+(3) Subject to paragraphs (4) and (8)[^c-f6a754520b5472f838255719b1a6ed6e], a larger local government body must, no later than 30th September following the end of the financial year to which the statement relates—
 
 - (a) consider either by way of a committee of that body or by the members of the body meeting as a whole the statement of accounts;
 - (b) following that consideration, approve the statement of accounts for submission to the local government auditor by a resolution of that committee or meeting;
@@ -166,7 +166,7 @@ A larger local government body must ensure that its statement of accounts is pre
 
 (6) A larger local government body must keep copies of the documents mentioned in paragraph (3)(d) for purchase by any person on payment of a reasonable sum.
 
-(7)[^key-acbbd2a34670d9d40f8da9d19a28b220] Paragraph (2) applies in relation to the signing, dating and certifying of the statement of accounts relating to the financial year beginning in 2019 as if for “30th June” there were substituted “31st August”.
+(7)[^c-acbbd2a34670d9d40f8da9d19a28b220] Paragraph (2) applies in relation to the signing, dating and certifying of the statement of accounts relating to the financial year beginning in 2019 as if for “30th June” there were substituted “31st August”.
 
 (8) Paragraph (3) applies in relation to the publication of documents relating to the financial year beginning in 2019 as if for “no later than 30th September” there were substituted “no later than 31st December”.
 
@@ -180,12 +180,12 @@ A smaller local government body must prepare a statement of accounts each year i
 
 (1) A smaller local government body must ensure that the statement of accounts required by regulation 9 is prepared in accordance with these Regulations.
 
-(2) Subject to paragraph (7),[^key-5862b1ad2619b74503de2137a5c19b67] Before the approval referred to in paragraph (3) is given and the statement of accounts is submitted to the Department and the local government auditor, the chief financial officer of a smaller local government body must, no later than 30th June following the end of the financial year—
+(2) Subject to paragraph (7),[^c-5862b1ad2619b74503de2137a5c19b67] Before the approval referred to in paragraph (3) is given and the statement of accounts is submitted to the Department and the local government auditor, the chief financial officer of a smaller local government body must, no later than 30th June following the end of the financial year—
 
 - (a) in a case where the body has prepared a statement of accounts, sign and date the statement of accounts, and certify that it presents a true and fair view of the financial position of the local government body at the end of the year to which it relates and of that local government body's income and expenditure for the year. Where the chief financial officer is unable to sign and certify the statement of accounts owing to absence or illness, a person nominated by the chief financial officer should sign and certify the statement of accounts; or
 - (b) in a case where the body has prepared a statement of accounts in the form of a record of receipts and payments, sign and date that record, and certify that it properly presents the body's receipts and payments for the year to which the record relates.
 
-(3) Subject to paragraphs (4) and (8)[^key-b816d0cfcc484f9c26886afa1bec615e], a smaller local government body must, no later than 30th September following the end of the financial year to which the statement relates—
+(3) Subject to paragraphs (4) and (8)[^c-b816d0cfcc484f9c26886afa1bec615e], a smaller local government body must, no later than 30th September following the end of the financial year to which the statement relates—
 
 - (a) consider either by way of a committee of that body or by the members of the body meeting as a whole the statement of accounts;
 - (b) following that consideration, approve the statement of accounts for submission to the local government auditor by a resolution of that committee or meeting;
@@ -198,7 +198,7 @@ A smaller local government body must prepare a statement of accounts each year i
 
 (6) A smaller local government body must keep copies of the documents mentioned in paragraph (3)(d) for purchase by any person on payment of a reasonable sum.
 
-(7)[^key-f2571fbf3ef563407b6b026c0b1a710a] Paragraph (2) applies in relation to the signing, dating and certifying of the statement of accounts relating to the financial year beginning in 2019 as if for “30th June” there were substituted “31st August”.
+(7)[^c-f2571fbf3ef563407b6b026c0b1a710a] Paragraph (2) applies in relation to the signing, dating and certifying of the statement of accounts relating to the financial year beginning in 2019 as if for “30th June” there were substituted “31st August”.
 
 (8) Paragraph (3) applies in relation to the publication of documents relating to the financial year beginning in 2019 as if for “no later than 30th September” there were substituted “no later than 31st December”.
 
@@ -311,14 +311,14 @@ Regulation 18 requires that, prior to the publication of the notice referred to 
 
 [^c22389011]: Marginal citation: S.R. [2006 No. 522](https://www.legislation.gov.uk/ukcm/2006/522)
 
-[^key-27d8a0df1874e58e30533544821ae134]: Textual amendment: Words in reg. 8(2) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2020/120/regulation/3/a)
+[^c-27d8a0df1874e58e30533544821ae134]: Textual amendment: Words in reg. 8(2) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2020/120/regulation/3/a)
 
-[^key-f6a754520b5472f838255719b1a6ed6e]: Textual amendment: Words in reg. 8(3) substituted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2020/120/regulation/3/b)
+[^c-f6a754520b5472f838255719b1a6ed6e]: Textual amendment: Words in reg. 8(3) substituted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2020/120/regulation/3/b)
 
-[^key-acbbd2a34670d9d40f8da9d19a28b220]: Textual amendment: Reg. 8(7)(8) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2020/120/regulation/3/c)
+[^c-acbbd2a34670d9d40f8da9d19a28b220]: Textual amendment: Reg. 8(7)(8) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2020/120/regulation/3/c)
 
-[^key-5862b1ad2619b74503de2137a5c19b67]: Textual amendment: Words in reg. 10(2) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2020/120/regulation/4/a)
+[^c-5862b1ad2619b74503de2137a5c19b67]: Textual amendment: Words in reg. 10(2) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2020/120/regulation/4/a)
 
-[^key-b816d0cfcc484f9c26886afa1bec615e]: Textual amendment: Words in reg. 10(3) substituted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2020/120/regulation/4/b)
+[^c-b816d0cfcc484f9c26886afa1bec615e]: Textual amendment: Words in reg. 10(3) substituted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2020/120/regulation/4/b)
 
-[^key-f2571fbf3ef563407b6b026c0b1a710a]: Textual amendment: Reg. 10(7)(8) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2020/120/regulation/4/c)
+[^c-f2571fbf3ef563407b6b026c0b1a710a]: Textual amendment: Reg. 10(7)(8) inserted (30.6.2020) by [The Local Government (Accounts and Audit) (Coronavirus) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/120)](https://www.legislation.gov.uk/nisr/2020/120), [regs. 1](https://www.legislation.gov.uk/nisr/2020/120/regulation/1), [4(c)](https://www.legislation.gov.uk/nisr/2020/120/regulation/4/c)

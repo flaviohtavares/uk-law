@@ -36,7 +36,7 @@ Bankruptcy
 
 Debt
 
-The Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014 (revoked)[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+The Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014 (revoked)[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 Made
 
@@ -46,73 +46,73 @@ Coming into force
 
 1st April 2015
 
-[^key-d8169c742eb1f1a0c659bcf7cacb72d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8169c742eb1f1a0c659bcf7cacb72d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## 1. Citation and commencement[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## 2. Interpretation[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Money advisers[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## Money advisers[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
-### 3. Approved categories of money advisers[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Persons who may not be approved money advisers[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+### 3. Approved categories of money advisers[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Other matters on which a debtor must obtain advice[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+### 4. Persons who may not be approved money advisers[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Money advice on debtor applications: procedure on evidence and information[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+### 5. Other matters on which a debtor must obtain advice[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Bankruptcy (Certificate for Sequestration) (Scotland) Regulations 2010[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+### 6. Money advice on debtor applications: procedure on evidence and information[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Deduction from debtor’s earnings and other income[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
-
-### 8. Deduction from debtor’s earnings and other income[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+### 7. Amendment of the Bankruptcy (Certificate for Sequestration) (Scotland) Regulations 2010[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Minor and consequential amendments[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## Deduction from debtor’s earnings and other income[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
-### 9. Amendment of the 1985 Act: family home not to reinvest (gratuitous alienation)[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Revocations and debtor applications before 1st April 2015[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
-
-### 10. Revocation[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+### 8. Deduction from debtor’s earnings and other income[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Debtor applications before 1st April 2015 (low income, low asset debtors)[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## Minor and consequential amendments[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
+
+### 9. Amendment of the 1985 Act: family home not to reinvest (gratuitous alienation)[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8169c742eb1f1a0c659bcf7cacb72d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Revocations and debtor applications before 1st April 2015[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
+
+### 10. Revocation[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Debtor applications before 1st April 2015 (low income, low asset debtors)[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d8169c742eb1f1a0c659bcf7cacb72d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Form - Certificate for Sequestration[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## SCHEDULE 1 — Form - Certificate for Sequestration[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 Regulation 7(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Forms – Deduction from Income[^key-d8169c742eb1f1a0c659bcf7cacb72d0]
+## SCHEDULE 2 — Forms – Deduction from Income[^c-d8169c742eb1f1a0c659bcf7cacb72d0]
 
 Regulation 8(2)(a) and (b)(7) and (8)
 
@@ -120,8 +120,8 @@ Regulation 8(2)(a) and (b)(7) and (8)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d8169c742eb1f1a0c659bcf7cacb72d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8169c742eb1f1a0c659bcf7cacb72d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8169c742eb1f1a0c659bcf7cacb72d0]: Textual amendment: Regulations revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+[^c-d8169c742eb1f1a0c659bcf7cacb72d0]: Textual amendment: Regulations revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)

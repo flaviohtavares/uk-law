@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Offences: post-mortem examinations[^key-a6083ca5dc4e955934fe569bb524ecfa]
+## 37. Offences: post-mortem examinations[^c-a6083ca5dc4e955934fe569bb524ecfa]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6083ca5dc4e955934fe569bb524ecfa]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/4/section/37) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-a6083ca5dc4e955934fe569bb524ecfa]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/4/section/37) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

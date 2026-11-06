@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Standard of proof in fitness to practise proceedings[^key-40a28b17f26613f176ccc5f110dcd0de]
+## 112. Standard of proof in fitness to practise proceedings[^c-40a28b17f26613f176ccc5f110dcd0de]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ After section 60 of the 1999 Act insert—
 
 ## Annotations
 
-[^key-40a28b17f26613f176ccc5f110dcd0de]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2008/14/section/112) in force at 3.11.2008 for specified purposes by [S.I. 2008/2717](https://www.legislation.gov.uk/uksi/2008/2717), [art. 2](https://www.legislation.gov.uk/uksi/2008/2717/article/2)
+[^c-40a28b17f26613f176ccc5f110dcd0de]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2008/14/section/112) in force at 3.11.2008 for specified purposes by [S.I. 2008/2717](https://www.legislation.gov.uk/uksi/2008/2717), [art. 2](https://www.legislation.gov.uk/uksi/2008/2717/article/2)

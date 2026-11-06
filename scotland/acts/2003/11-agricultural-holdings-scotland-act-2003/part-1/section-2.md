@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Conversion from 1991 Act tenancy to limited duration tenancy[^key-8722f17176718314a798965a1afcd5fb]
+## 2. Conversion from 1991 Act tenancy to limited duration tenancy[^c-8722f17176718314a798965a1afcd5fb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8722f17176718314a798965a1afcd5fb]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2003/11/section/2) repealed (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 90(2)](https://www.legislation.gov.uk/asp/2016/18/section/90/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3))
+[^c-8722f17176718314a798965a1afcd5fb]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2003/11/section/2) repealed (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 90(2)](https://www.legislation.gov.uk/asp/2016/18/section/90/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3))

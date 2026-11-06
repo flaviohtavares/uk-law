@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Consent to transfer benefit of Order[^key-872795a1d5963b5261f15f9dcf7d019f]
+## 8. Consent to transfer benefit of Order[^c-872795a1d5963b5261f15f9dcf7d019f]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ within the meaning of section 1159 of the Companies Act 2006[^f00045].
 
 ## Annotations
 
-[^key-872795a1d5963b5261f15f9dcf7d019f]: Commencement: Art. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-872795a1d5963b5261f15f9dcf7d019f]: Commencement: Art. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00045]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 452. Cases outside charge under section 449[^key-3250657501bec4226add811a14804a66][^M_C_da52f7f5-2c21-4845-9272-f631a16336d0][^M_C_9282e6ea-0821-4788-dca2-09184fa521bd][^M_C_78a7b24f-14f2-409d-f2b4-88359bd4795d][^M_C_785e66e2-4df6-4f6b-b242-541f54cebaa7]
+## 452. Cases outside charge under section 449[^c-3250657501bec4226add811a14804a66][^M_C_da52f7f5-2c21-4845-9272-f631a16336d0][^M_C_9282e6ea-0821-4788-dca2-09184fa521bd][^M_C_78a7b24f-14f2-409d-f2b4-88359bd4795d][^M_C_785e66e2-4df6-4f6b-b242-541f54cebaa7]
 
 *Extent: E+W+S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 452. Market value on acquisition[^key-911694f7a116b4ae42e643374e945ec1]
+## 452. Market value on acquisition[^c-911694f7a116b4ae42e643374e945ec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3250657501bec4226add811a14804a66]: Textual amendment: Pt. 7 Ch. 4 (ss. 447-450) substituted for Pt. 7 Ch. 4 (ss. 447-470) (16.4.2003 with effect in accordance with Sch. 22 para. 9(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 9(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/9/1)
+[^c-3250657501bec4226add811a14804a66]: Textual amendment: Pt. 7 Ch. 4 (ss. 447-450) substituted for Pt. 7 Ch. 4 (ss. 447-470) (16.4.2003 with effect in accordance with Sch. 22 para. 9(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 9(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/9/1)
 
 [^M_C_da52f7f5-2c21-4845-9272-f631a16336d0]: Modification: S. 452(1) applied (with effect in accordance with s. 21(1) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2005/7/section/21/2)
 
@@ -48,6 +48,6 @@ summary: ''
 
 [^M_C_785e66e2-4df6-4f6b-b242-541f54cebaa7]: Modification: S. 452(2)(c)(d) applied (with effect in accordance with s. 21(1) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2005/7/section/21/2)
 
-[^key-911694f7a116b4ae42e643374e945ec1]: Textual amendment: Pt. 7 Ch. 4A inserted (with effect in accordance with s. 20(5)-(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2005/7/section/20/1)
+[^c-911694f7a116b4ae42e643374e945ec1]: Textual amendment: Pt. 7 Ch. 4A inserted (with effect in accordance with s. 20(5)-(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2005/7/section/20/1)
 
 [^M_F_350aab28-5a47-4786-919f-105e69f4707a]: Textual amendment: S. 452(2)(e) and word inserted (with effect in accordance with [Sch. 2 paras. 52-59](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/52) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 24(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/24/b)

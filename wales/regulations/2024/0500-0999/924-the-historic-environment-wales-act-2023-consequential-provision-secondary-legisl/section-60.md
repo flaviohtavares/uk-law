@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**60.**[^key-f1d69b4d5f4206a6aba6cbcd8283d9c1] In article 27(15)(b), for “section 1” to the end substitute “section 76 of the Historic Environment (Wales) Act 2023 (duty to maintain and publish list of buildings).”
+**60.**[^c-f1d69b4d5f4206a6aba6cbcd8283d9c1] In article 27(15)(b), for “section 1” to the end substitute “section 76 of the Historic Environment (Wales) Act 2023 (duty to maintain and publish list of buildings).”
 
 ## Annotations
 
-[^key-f1d69b4d5f4206a6aba6cbcd8283d9c1]: Commencement: [Reg. 60](https://www.legislation.gov.uk/wsi/2024/924/regulation/60) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-f1d69b4d5f4206a6aba6cbcd8283d9c1]: Commencement: [Reg. 60](https://www.legislation.gov.uk/wsi/2024/924/regulation/60) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

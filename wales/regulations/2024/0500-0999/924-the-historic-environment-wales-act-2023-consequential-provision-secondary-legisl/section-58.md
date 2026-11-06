@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^key-f4880397cf83581599ee26c94076892f]
+## 58. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^c-f4880397cf83581599ee26c94076892f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Development Management Procedure) (Wales) Order 2
 
 ## Annotations
 
-[^key-f4880397cf83581599ee26c94076892f]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2024/924/regulation/58) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-f4880397cf83581599ee26c94076892f]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2024/924/regulation/58) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00036]: Footnote: [S.I. 2012/801 (W. 110)](https://www.legislation.gov.uk/wsi/2012/801); relevant amendments are in [S.I. 2015/1330](https://www.legislation.gov.uk/uksi/2015/1330), [S.I. 2016/56](https://www.legislation.gov.uk/uksi/2016/56) and [S.I. 2016/59](https://www.legislation.gov.uk/uksi/2016/59).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Arrangement for improving the heating or lighting of a building[^key-4786ae9d35554fadb6b2c136757e512d]
+## 43. Arrangement for improving the heating or lighting of a building[^c-4786ae9d35554fadb6b2c136757e512d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4786ae9d35554fadb6b2c136757e512d]: Commencement: Reg. 43 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-4786ae9d35554fadb6b2c136757e512d]: Commencement: Reg. 43 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

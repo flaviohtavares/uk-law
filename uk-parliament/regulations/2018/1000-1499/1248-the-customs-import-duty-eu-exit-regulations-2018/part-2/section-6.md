@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. No requirement to present on import: temporary unloading[^key-47281242f2d6db7f3db15d086c3dd73d][^key-302606d159bff3b39c5b1dbf0584ce62][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 6. No requirement to present on import: temporary unloading[^c-47281242f2d6db7f3db15d086c3dd73d][^c-302606d159bff3b39c5b1dbf0584ce62][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
 There is no requirement to present the goods to Customs on import where—
 
-- (a) goods are unloaded from a vessel , train[^key-54e41c95fb71feafb2f02da933905a4f] or aircraft solely to enable other goods on that vessel , train or aircraft to be unloaded or other goods to be loaded;
+- (a) goods are unloaded from a vessel , train[^c-54e41c95fb71feafb2f02da933905a4f] or aircraft solely to enable other goods on that vessel , train or aircraft to be unloaded or other goods to be loaded;
 - (b) the goods are reloaded onto the vessel , train or aircraft as soon as practicable after the other goods have been unloaded or loaded; and
 - (c) the vessel , train or aircraft proceeds on its journey with the goods on board.
 
 ## Annotations
 
-[^key-47281242f2d6db7f3db15d086c3dd73d]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-47281242f2d6db7f3db15d086c3dd73d]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-54e41c95fb71feafb2f02da933905a4f]: Textual amendment: Word in reg. 6 inserted (31.12.2020) by [The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/967)](https://www.legislation.gov.uk/uksi/2020/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/967/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-54e41c95fb71feafb2f02da933905a4f]: Textual amendment: Word in reg. 6 inserted (31.12.2020) by [The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/967)](https://www.legislation.gov.uk/uksi/2020/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/967/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

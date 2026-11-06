@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Debt payable at future time[^key-0b34419fd7c4b175f51e25c59396abe1]
+## 77. Debt payable at future time[^c-0b34419fd7c4b175f51e25c59396abe1]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b34419fd7c4b175f51e25c59396abe1]: Commencement: Rule 77 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-0b34419fd7c4b175f51e25c59396abe1]: Commencement: Rule 77 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00030]: Footnote: Rule 4.94 was amended by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

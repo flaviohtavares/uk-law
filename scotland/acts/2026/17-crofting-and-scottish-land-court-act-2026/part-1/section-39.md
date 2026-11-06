@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Exchange of croft or parts of crofts[^key-f1c6b85486b367ad91f804ccfb04db8e]
+## 39. Exchange of croft or parts of crofts[^c-f1c6b85486b367ad91f804ccfb04db8e]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c6b85486b367ad91f804ccfb04db8e]: Commencement: S. 39 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-f1c6b85486b367ad91f804ccfb04db8e]: Commencement: S. 39 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

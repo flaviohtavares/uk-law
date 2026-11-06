@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 4. Placing a veterinary medicinal product on the market[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+## 4. Placing a veterinary medicinal product on the market[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f3eb49940157ce4e55ebf70ddde0ca8]: Textual amendment: Regulations revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), regs. 1, [46(1)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/1)
+[^c-9f3eb49940157ce4e55ebf70ddde0ca8]: Textual amendment: Regulations revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), regs. 1, [46(1)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/1)

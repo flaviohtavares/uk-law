@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power to disapply or modify rules[^key-b8f5b880f9f200178eabac97c5e72d84][^key-738f51130bec0a6c9c42f48fa518c433]
+## 34. Power to disapply or modify rules[^c-b8f5b880f9f200178eabac97c5e72d84][^c-738f51130bec0a6c9c42f48fa518c433]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f5b880f9f200178eabac97c5e72d84]: Commencement: S. 34 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b8f5b880f9f200178eabac97c5e72d84]: Commencement: S. 34 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-738f51130bec0a6c9c42f48fa518c433]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/29/section/34) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/x)
+[^c-738f51130bec0a6c9c42f48fa518c433]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/29/section/34) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/x)

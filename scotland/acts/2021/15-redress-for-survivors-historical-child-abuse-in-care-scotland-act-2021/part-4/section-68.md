@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Review of determination made under section 66(3)[^key-134d9c564c382c33fa3448f9993bd456]
+## 68. Review of determination made under section 66(3)[^c-134d9c564c382c33fa3448f9993bd456]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-134d9c564c382c33fa3448f9993bd456]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2021/15/section/68) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-134d9c564c382c33fa3448f9993bd456]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2021/15/section/68) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

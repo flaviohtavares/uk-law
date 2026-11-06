@@ -259,40 +259,40 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (1) The Council Tax Benefit Regulations are amended as follows [^c1351156] .
 
-(2)[^key-6e053eb2177eee27b475a5933753e898] In regulation 26(2)(c) (notional income), after “personal pension scheme” insert *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898] “ , occupational pension scheme ” *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898] .
+(2)[^c-6e053eb2177eee27b475a5933753e898] In regulation 26(2)(c) (notional income), after “personal pension scheme” insert *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898] “ , occupational pension scheme ” *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898] .
 
-(3) In regulation 34(2)(d) (notional capital) *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898] [^c1351157] , after “personal pension scheme” insert *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898] “ , occupational pension scheme ” *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898] .
+(3) In regulation 34(2)(d) (notional capital) *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898] [^c1351157] , after “personal pension scheme” insert *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898] “ , occupational pension scheme ” *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898] .
 
-(4) For regulation 37(1) (calculation of tariff income from capital) *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898] [^c1351158] substitute— *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898]
+(4) For regulation 37(1) (calculation of tariff income from capital) *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898] [^c1351158] substitute— *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898]
 
-> (1) Where the claimant's capital calculated in accordance with this Part exceeds £6,000, it shall be treated as equivalent to a weekly income of £1 for each complete £250 in excess of £6,000 but not exceeding £16,000. *(affected by repeal, see note)*[^key-6e053eb2177eee27b475a5933753e898]
+> (1) Where the claimant's capital calculated in accordance with this Part exceeds £6,000, it shall be treated as equivalent to a weekly income of £1 for each complete £250 in excess of £6,000 but not exceeding £16,000. *(affected by repeal, see note)*[^c-6e053eb2177eee27b475a5933753e898]
 
 .
 
-(5) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+(5) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
-- (a) the existing provisions of paragraph 22 shall become sub-paragraph (1) of that paragraph; *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
-- (b) after that sub-paragraph insert— *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+- (a) the existing provisions of paragraph 22 shall become sub-paragraph (1) of that paragraph; *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
+- (b) after that sub-paragraph insert— *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
-  > (2) The reference in sub-paragraph (1) to “ *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500] **income in kind *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]** ” does not include a payment to a third party made in respect of the claimant which is used by the third party to provide benefits in kind to the claimant. *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+  > (2) The reference in sub-paragraph (1) to “ *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500] **income in kind *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]** ” does not include a payment to a third party made in respect of the claimant which is used by the third party to provide benefits in kind to the claimant. *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
   ;
-- (c) in paragraph 24(1)(a) *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500] [^c1351159] , for “in accordance with regulations made pursuant to section 57A of the Adoption Act 1976 (permitted allowances) or paragraph 3 of Schedule 4 to the Adoption and Children Act 2002 or” substitute *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500] “ pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002 *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500] [^c1351160] or in accordance ” *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500] ;
-- (d) for paragraph 24(1A) substitute— *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+- (c) in paragraph 24(1)(a) *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500] [^c1351159] , for “in accordance with regulations made pursuant to section 57A of the Adoption Act 1976 (permitted allowances) or paragraph 3 of Schedule 4 to the Adoption and Children Act 2002 or” substitute *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500] “ pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002 *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500] [^c1351160] or in accordance ” *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500] ;
+- (d) for paragraph 24(1A) substitute— *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
-  > (1A) Any payment, other than a payment to which sub-paragraph (1)(a) applies, made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+  > (1A) Any payment, other than a payment to which sub-paragraph (1)(a) applies, made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
   .
 
-(6) In Schedule 5 (capital to be disregarded), for paragraph 70 substitute— *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+(6) In Schedule 5 (capital to be disregarded), for paragraph 70 substitute— *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
 > **70.**
 >
-> Any payment made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^key-19973ac89c9ffe3dd8a143621f9e5500]
+> Any payment made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^c-19973ac89c9ffe3dd8a143621f9e5500]
 
 .
 
-## 4A. Amendment of the Council Tax Benefit Regulations 2006[^key-0ce605f18ee08a4c612c516e6a065c27]
+## 4A. Amendment of the Council Tax Benefit Regulations 2006[^c-0ce605f18ee08a4c612c516e6a065c27]
 
 (1) The Council Tax Benefit Regulations 2006 are amended as follows.
 
@@ -308,42 +308,42 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (1) The Housing Benefit Regulations are amended as follows [^c1351161].
 
-(2) In regulation 35(2)(c) (notional income), after “personal pension scheme” insert *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f] “ , occupational pension scheme ” *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f].
+(2) In regulation 35(2)(c) (notional income), after “personal pension scheme” insert *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f] “ , occupational pension scheme ” *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f].
 
-(3) In regulation 43(2)(d) (notional capital) *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f] [^c1351162], after “personal pension scheme” insert *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f] “ , occupational pension scheme ” *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f].
+(3) In regulation 43(2)(d) (notional capital) *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f] [^c1351162], after “personal pension scheme” insert *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f] “ , occupational pension scheme ” *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f].
 
-(4) In regulation 45 *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f] [^c1351163] (calculation of tariff income from capital)— *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f]
+(4) In regulation 45 *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f] [^c1351163] (calculation of tariff income from capital)— *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f]
 
-- (a) in paragraph (1)— *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f]
-  - (i) omit “(1ZA) or”, and *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f]
-  - (ii (affected by repeal, see note))[^key-523d2886deebe2f90b23630de2953a3f] for “£3,000” (in both places) substitute *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f] “ £6,000 ”;
-- (b) omit paragraph (1ZA); *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f]
-- (c) in paragraphs (2) and (3) omit “, (1ZA)”. *(affected by repeal, see note)*[^key-523d2886deebe2f90b23630de2953a3f]
+- (a) in paragraph (1)— *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f]
+  - (i) omit “(1ZA) or”, and *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f]
+  - (ii (affected by repeal, see note))[^c-523d2886deebe2f90b23630de2953a3f] for “£3,000” (in both places) substitute *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f] “ £6,000 ”;
+- (b) omit paragraph (1ZA); *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f]
+- (c) in paragraphs (2) and (3) omit “, (1ZA)”. *(affected by repeal, see note)*[^c-523d2886deebe2f90b23630de2953a3f]
 
-(5) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+(5) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
-- (a) the existing provisions of paragraph 21 *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351164] shall become sub-paragraph (1) of that paragraph; *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
-- (b) after that sub-paragraph insert— *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+- (a) the existing provisions of paragraph 21 *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351164] shall become sub-paragraph (1) of that paragraph; *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
+- (b) after that sub-paragraph insert— *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
-  > (2) The reference in sub-paragraph (1) to “ *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]**income in kind *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]**” does not include a payment to a third party made in respect of the claimant which is used by the third party to provide benefits in kind to the claimant. *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+  > (2) The reference in sub-paragraph (1) to “ *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]**income in kind *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]**” does not include a payment to a third party made in respect of the claimant which is used by the third party to provide benefits in kind to the claimant. *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
   ;
-- (c) in paragraph 23(1)(a) *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351165], for “in accordance with regulations made pursuant to section 57A of the Adoption Act 1976 (permitted allowances) or paragraph 3 of Schedule 4 to the Adoption and Children Act 2002 or” substitute *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a] “ pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002 or in accordance ” *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a];
-- (d) for paragraph 23(1A) *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351166] substitute— *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+- (c) in paragraph 23(1)(a) *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351165], for “in accordance with regulations made pursuant to section 57A of the Adoption Act 1976 (permitted allowances) or paragraph 3 of Schedule 4 to the Adoption and Children Act 2002 or” substitute *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a] “ pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002 or in accordance ” *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a];
+- (d) for paragraph 23(1A) *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351166] substitute— *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
-  > (1A) Any payment, other than a payment to which sub-paragraph (1)(a) applies, made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+  > (1A) Any payment, other than a payment to which sub-paragraph (1)(a) applies, made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
   .
 
-(6) In Schedule 5 (capital to be disregarded), for paragraph 70 *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351167] substitute— *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+(6) In Schedule 5 (capital to be disregarded), for paragraph 70 *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a] [^c1351167] substitute— *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
 > **70.**
 >
-> Any payment made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^key-2cac0edaaa0120d9dfa92227cd041c5a]
+> Any payment made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002. *(affected by repeal, see note)*[^c-2cac0edaaa0120d9dfa92227cd041c5a]
 
 .
 
-## 5A. Amendment of the Housing Benefit Regulations 2006[^key-534eeec7dafaf82c51b42c81433d0eac]
+## 5A. Amendment of the Housing Benefit Regulations 2006[^c-534eeec7dafaf82c51b42c81433d0eac]
 
 (1) The Housing Benefit Regulations 2006 are amended as follows.
 
@@ -480,29 +480,29 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1351156]: Marginal citation: Regulations 13 to 37 of the Council Tax Benefit Regulations are modified in relation to any person who has attained the qualifying age for state pension credit: *see* [S.I. 2003/325](https://www.legislation.gov.uk/uksi/2003/325), [regs. 12(1)](https://www.legislation.gov.uk/uksi/2003/325/regulation/12/1) and 17. However the amendments made by these Regulations are to regs. 26, 34 and 37 of the Council Tax Benefit Regulations as not so modified.
 
-[^key-6e053eb2177eee27b475a5933753e898]: Textual amendment: Reg. 4(2)-(4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217) , [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) , [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) , [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) , [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) , [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4) )
+[^c-6e053eb2177eee27b475a5933753e898]: Textual amendment: Reg. 4(2)-(4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217) , [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) , [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) , [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) , [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) , [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4) )
 
 [^c1351157]: Marginal citation: Paragraph 2(d) was inserted by [S.I. 1995/2303](https://www.legislation.gov.uk/uksi/1995/2303) , [reg. 2(6)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/2/6) .
 
 [^c1351158]: Marginal citation: Regulation 37(1) was amended by [S.I. 2000/2545](https://www.legislation.gov.uk/uksi/2000/2545) , [reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/2545/regulation/2/3) .
 
-[^key-19973ac89c9ffe3dd8a143621f9e5500]: Textual amendment: Reg. 4(5) (6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217) , [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) , [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) , [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) , [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4) )
+[^c-19973ac89c9ffe3dd8a143621f9e5500]: Textual amendment: Reg. 4(5) (6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217) , [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) , [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) , [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) , [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4) )
 
 [^c1351159]: Marginal citation: Paragraph 24(1)(a) was amended, and paragraph (1A) inserted, by [S.I. 2003/2279](https://www.legislation.gov.uk/uksi/2003/2279) , [reg. 5(4)(a)](https://www.legislation.gov.uk/uksi/2003/2279/regulation/5/4/a) .
 
 [^c1351160]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38) .
 
-[^key-0ce605f18ee08a4c612c516e6a065c27]: Textual amendment: Reg. 4A inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-0ce605f18ee08a4c612c516e6a065c27]: Textual amendment: Reg. 4A inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1351161]: Marginal citation: Regulations 21 to 45 of the Housing Benefit Regulations are modified in relation to any person who has attained the qualifying age for state pension credit: *see* [S.I. 2003/325](https://www.legislation.gov.uk/uksi/2003/325), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2003/325/regulation/2/1) and 8. However the amendments made by these Regulations are to regs. 35, 43 and 45 of the Housing Benefit Regulations as not so modified.
 
-[^key-523d2886deebe2f90b23630de2953a3f]: Textual amendment: [Reg. 5(2)-(4)](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-523d2886deebe2f90b23630de2953a3f]: Textual amendment: [Reg. 5(2)-(4)](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1351162]: Marginal citation: Paragraph (2)(d) was inserted by [S.I. 1995/2303](https://www.legislation.gov.uk/uksi/1995/2303), [reg. 5(7)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/5/7).
 
 [^c1351163]: Marginal citation: Regulation 45 was amended by [S.I. 1990/671](https://www.legislation.gov.uk/uksi/1990/671), [reg. 4(2)](https://www.legislation.gov.uk/uksi/1990/671/regulation/4/2), [S.I](https://www.legislation.gov.uk/uksi/1990/671/section/I). 1996/462, reg. 12(2)(b) and [S.I. 2000/2545](https://www.legislation.gov.uk/uksi/2000/2545), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2000/2545/regulation/2/4).
 
-[^key-2cac0edaaa0120d9dfa92227cd041c5a]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5/5)[(6)](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-2cac0edaaa0120d9dfa92227cd041c5a]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5/5)[(6)](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1351164]: Marginal citation: Paragraph 21 was amended by [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636), [reg. 6(6)](https://www.legislation.gov.uk/uksi/2000/636/regulation/6/6).
 
@@ -512,6 +512,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1351167]: Marginal citation: Paragraph 70 was added by [S.I. 2003/2279](https://www.legislation.gov.uk/uksi/2003/2279), [reg. 4(6)(e)](https://www.legislation.gov.uk/uksi/2003/2279/regulation/4/6/e).
 
-[^key-534eeec7dafaf82c51b42c81433d0eac]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5A) inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 28(5)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-534eeec7dafaf82c51b42c81433d0eac]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2005/2465/regulation/5A) inserted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 28(5)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/28/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1351168]: Marginal citation: Regulation 17B was inserted by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [reg. 23(i)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/23/i), and paragraph (2)(za) was inserted by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/3/2/a).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10A. Disapplication of physical presence requirements[^key-4758153f24a278f81621472c825f30c6]
+## 10A. Disapplication of physical presence requirements[^c-4758153f24a278f81621472c825f30c6]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4758153f24a278f81621472c825f30c6]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1995/7/section/10A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 39(3)](https://www.legislation.gov.uk/asp/2022/8/section/39/3), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-4758153f24a278f81621472c825f30c6]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1995/7/section/10A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 39(3)](https://www.legislation.gov.uk/asp/2022/8/section/39/3), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

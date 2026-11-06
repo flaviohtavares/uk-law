@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Guidance[^key-29e11ee7d69c6b75e71660a3a352f114]
+## 83. Guidance[^c-29e11ee7d69c6b75e71660a3a352f114]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e11ee7d69c6b75e71660a3a352f114]: Commencement: S. 83 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-29e11ee7d69c6b75e71660a3a352f114]: Commencement: S. 83 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

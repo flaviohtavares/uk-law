@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62A. Persons providing general ophthalmic services[^key-39d996eef4fee5b0fc5f10d954bcaadb]
+## 62A. Persons providing general ophthalmic services[^c-39d996eef4fee5b0fc5f10d954bcaadb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39d996eef4fee5b0fc5f10d954bcaadb]: Textual amendment: [Art. 62A](https://www.legislation.gov.uk/nisi/1972/1265/article/62A) repealed (13.6.2016) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [ss. 10(2)](https://www.legislation.gov.uk/nia/2016/26/section/10/2), [20(2)](https://www.legislation.gov.uk/nia/2016/26/section/20/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/1)
+[^c-39d996eef4fee5b0fc5f10d954bcaadb]: Textual amendment: [Art. 62A](https://www.legislation.gov.uk/nisi/1972/1265/article/62A) repealed (13.6.2016) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [ss. 10(2)](https://www.legislation.gov.uk/nia/2016/26/section/10/2), [20(2)](https://www.legislation.gov.uk/nia/2016/26/section/20/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/1)

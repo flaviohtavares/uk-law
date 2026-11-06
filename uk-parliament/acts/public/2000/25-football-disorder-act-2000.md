@@ -52,7 +52,7 @@ is to have effect.
 
 (3) The enactments specified in Schedule 3 are repealed to the extent specified.
 
-## 2. Disclosure of information by NCIS.[^key-dbc9f9f58ee1458212757dcc8065989f]
+## 2. Disclosure of information by NCIS.[^c-dbc9f9f58ee1458212757dcc8065989f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,7 +89,7 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 (1)[^c262724] Section 1 shall come into force on such day as the Secretary of State may by order appoint.
 
-(2)[^key-995447c020b878ae4414976134484280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-995447c020b878ae4414976134484280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) [^c446931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -470,7 +470,7 @@ and sub-paragraphs (vi) and (vii) are omitted.
 
 ### Police and Criminal Evidence Act 1984 (c. 60.)
 
-**2.**[^key-cac8cb042505e0e849949d925436ac4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cac8cb042505e0e849949d925436ac4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Order Act 1986 (c. 64.)
 
@@ -515,9 +515,9 @@ as if those proceedings had been included in the definition of “criminal proce
 
 **11.** For each mention in Part II of “designated football match” or “designated football matches” there is substituted “ regulated football match ” or (as the case may be) “ regulated football matches ”.
 
-**12.**[^key-4e137336b9bfcc0aebea3c3a233e9eaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4e137336b9bfcc0aebea3c3a233e9eaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ae51a365050e1baa2e60b4e116ff072e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ae51a365050e1baa2e60b4e116ff072e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In section 18 (information)—
 
@@ -581,7 +581,7 @@ as if those proceedings had been included in the definition of “criminal proce
 
 ### Criminal Justice and Public Order Act 1994 (c. 33.)
 
-**20.**[^key-48751528331e6d6e69755b03ccbb6c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-48751528331e6d6e69755b03ccbb6c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Repeals
 
@@ -612,13 +612,13 @@ Section 1.
 
 [^c262721]: Marginal citation: [1989 c. 37](https://www.legislation.gov.uk/ukpga/1989/37).
 
-[^key-dbc9f9f58ee1458212757dcc8065989f]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2000/25/section/2) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 157](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/157), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [Sch. para. 13(ii)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/ii) (with [art. 4(2)-(8)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
+[^c-dbc9f9f58ee1458212757dcc8065989f]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2000/25/section/2) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 157](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/157), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [Sch. para. 13(ii)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/ii) (with [art. 4(2)-(8)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
 [^c446935]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/2000/25/section/3/4) repealed (28.8.2002) by [Football (Disorder) (Amendment) Act 2002 (c. 12)](https://www.legislation.gov.uk/ukpga/2002/12), [s. 1(4)](https://www.legislation.gov.uk/ukpga/2002/12/section/1/4); [S.I. 2002/2200](https://www.legislation.gov.uk/uksi/2002/2200), [art. 2](https://www.legislation.gov.uk/uksi/2002/2200/article/2)
 
 [^c262724]: Subordinate legislation: S. 5(1): power exercised (3.8.2000): 28.8.2000 appointed by [S.I. 2000/2125](https://www.legislation.gov.uk/uksi/2000/2125), [art. 2](https://www.legislation.gov.uk/uksi/2000/2125/article/2)
 
-[^key-995447c020b878ae4414976134484280]: Textual amendment: S. 5(2) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/52/1), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Schs. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k/n/xii)
+[^c-995447c020b878ae4414976134484280]: Textual amendment: S. 5(2) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/52/1), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Schs. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k/n/xii)
 
 [^c446931]: Textual amendment: S. 5(3)-(5) repealed (28.8.2002) by [Football (Disorder) (Amendment) Act 2002 (c. 12)](https://www.legislation.gov.uk/ukpga/2002/12), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/12/section/1/3); [S.I. 2002/2200](https://www.legislation.gov.uk/uksi/2002/2200), [art. 2](https://www.legislation.gov.uk/uksi/2002/2200/article/2)
 
@@ -654,7 +654,7 @@ Section 1.
 
 [^c262741]: Marginal citation: [1989 c. 37](https://www.legislation.gov.uk/ukpga/1989/37).
 
-[^key-cac8cb042505e0e849949d925436ac4c]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/2) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-cac8cb042505e0e849949d925436ac4c]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/2) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c262742]: Marginal citation: [1989 c. 37](https://www.legislation.gov.uk/ukpga/1989/37).
 
@@ -662,9 +662,9 @@ Section 1.
 
 [^c262744]: Marginal citation: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
 
-[^key-4e137336b9bfcc0aebea3c3a233e9eaf]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/12) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/xii)
+[^c-4e137336b9bfcc0aebea3c3a233e9eaf]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/12) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/xii)
 
-[^key-ae51a365050e1baa2e60b4e116ff072e]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/13) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/xii)
+[^c-ae51a365050e1baa2e60b4e116ff072e]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/13) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/xii)
 
 [^c262745]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -674,4 +674,4 @@ Section 1.
 
 [^c262748]: Marginal citation: [1986 c. 64](https://www.legislation.gov.uk/ukpga/1986/64).
 
-[^key-48751528331e6d6e69755b03ccbb6c14]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/20) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/xii)
+[^c-48751528331e6d6e69755b03ccbb6c14]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2000/25/schedule/2/paragraph/20) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(xii)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/xii)

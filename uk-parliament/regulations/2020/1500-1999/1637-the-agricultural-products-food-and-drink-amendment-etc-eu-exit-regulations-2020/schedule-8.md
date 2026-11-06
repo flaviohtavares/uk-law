@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 26
 
-### PART 1 — New Articles 1a and 1b[^key-10a8768c300132b1aa035d218fa297d0]
+### PART 1 — New Articles 1a and 1b[^c-10a8768c300132b1aa035d218fa297d0]
 
 > **Article 1a — Definitions**
 >
@@ -47,7 +47,7 @@ Regulation 26
 > - (n) ‘the original applicant’, in a case where an appeal has been made in respect of a decision made by the Secretary of State in relation to a traditional term following the submission of an application under Article 21 of Implementing Regulation (EU) 2019/34 or Article 34 of this Regulation, or a request made under Article 35 of this Regulation, means the person who submitted the application or request;
 > - (o) ‘the original (protection) applicant’, in relation to a traditional term protected under Article 113 of Regulation (EU) No 1308/2013 following the approval of an application submitted to the Secretary of State under Article 21 of Implementing Regulation (EU) 2019/34, means the person who submitted that application;
 > - (p) ‘the relevant period’ means the period beginning on IP completion day and expiring at the end of the day that falls nine months after the day on which IP completion day falls;
-> - (q)[^key-54bbdd70d829e3ac83209cc01911176a] ‘third country means—
+> - (q)[^c-54bbdd70d829e3ac83209cc01911176a] ‘third country means—
 >   - (i) for the purposes of the definition of ‘EUIA’ in point (k), Article 32c and Annex A1 (other than the reference in paragraph (ii)), any country other than:
 >     - (aa) any part of the British Islands, or
 >     - (bb) a member State;
@@ -77,7 +77,7 @@ Regulation 26
 > - (h) ‘a type 5A traditional term’ means a traditional term of the type described in column 2 of row 5 of the Types Table to which paragraph 1 or 2 in column 3 of row 3 of that table applies;
 > - (i) ‘a type 5B traditional term’ means a traditional term of the type described in column 2 of row 5 of the Types Table to which the provisions in column 4 of row 3 of that table apply.
 
-### PART 2 — Article 18: new paragraphs 1 to 1n[^key-b3d0caad9ebb8577b8db11f6989ac8c7]
+### PART 2 — Article 18: new paragraphs 1 to 1n[^c-b3d0caad9ebb8577b8db11f6989ac8c7]
 
 > **1.** Paragraphs 1a to 1n apply to an application for a UK temporary amendment to a product specification for a protected designation of origin or protected geographical indication (‘a UK temporary amendment application’).
 >
@@ -122,7 +122,7 @@ Regulation 26
 >
 > **1n.** Where a UK temporary amendment application is approved and the period during which the temporary amendment is to apply is extended, the Secretary of State must, on each occasion the period is extended, publish, in such manner as appears appropriate to the Secretary of State from time to time, a notice informing the applicant, the original (protection) applicant (if different) and the public that the period has been extended and the reasons for that decision and specifying the extended period during which the temporary amendment is to apply.
 
-### PART 3 — New Articles 32a and 32b[^key-bd0ac61891a1b30f7a09a73355e06244]
+### PART 3 — New Articles 32a and 32b[^c-bd0ac61891a1b30f7a09a73355e06244]
 
 > **Article 32a — Transitional provision: relationship with trade marks**
 >
@@ -133,8 +133,8 @@ Regulation 26
 > - (a) if the trade mark is registered, the use of the trade mark will not respect the definition in Article 112 of Regulation (EU) No 1308/2013 and conditions of use in Article 113 of that Regulation in relation to a category B traditional term, and
 > - (b) after the application for the trade mark is accepted but before the trade mark is registered:
 >   - (i) in the case of a type 2B traditional term:
->     - (aa) the international agreement referred to in paragraph (c) of column 2 of row 2 of the Types Table enters into force or the bridging arrangements referred to in that column are made[^key-2cf9aefb4967c96703b4e1d5fce68b17], and
->     - (bb) the entry into force of the international agreement or the making of the bridging arrangements[^key-df27b10ec7487dd28391674c0c10f55b] is brought to the attention of the registrar before the trade mark is registered;
+>     - (aa) the international agreement referred to in paragraph (c) of column 2 of row 2 of the Types Table enters into force or the bridging arrangements referred to in that column are made[^c-2cf9aefb4967c96703b4e1d5fce68b17], and
+>     - (bb) the entry into force of the international agreement or the making of the bridging arrangements[^c-df27b10ec7487dd28391674c0c10f55b] is brought to the attention of the registrar before the trade mark is registered;
 >   - (ii) in the case of any other category B traditional term:
 >     - (aa) the Secretary of State publishes an Article 115(2) approval notice relating to the traditional term, and
 >     - (bb) the Article 115(2) approval notice is brought to the attention of the registrar before the trade mark is registered.
@@ -173,7 +173,7 @@ Regulation 26
 >
 > **12.** In this Article:
 >
-> - (a)[^key-466225570f5d7544df9bf18f57e7168d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a)[^c-466225570f5d7544df9bf18f57e7168d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (b) ‘a category A traditional term’ means a type 1, 2A, 3A, 4A or 5A traditional term;
 > - (c) ‘a category B traditional term’ means a type 2B, 3B, 4B or 5B traditional term;
 > - (d) ‘column 5 date’, in relation to a traditional term that is a category A or B traditional term, means the date specified, or provided for, in column 5 of the Types Table in the row relating to the relevant type of traditional term;
@@ -229,7 +229,7 @@ Regulation 26
 > - (a) an application to invalidate a trade mark referred to in Article 32a(3);
 > - (b) an appeal to an appointed person from a decision of the registrar in relation to an application referred to in paragraph (a).
 
-### PART 4 — Chapter 3: new Section 6[^key-03ae88a578bd5530b768e892877eb7a7]
+### PART 4 — Chapter 3: new Section 6[^c-03ae88a578bd5530b768e892877eb7a7]
 
 > **SECTION 6 — Appeals**
 >
@@ -280,7 +280,7 @@ Regulation 26
 >
 > **5.** If the Secretary of State makes a different decision, the appeal to the FTT ceases unless the FTT directs otherwise.
 
-### PART 5 — New Article 61[^key-a204fdd498069e6341b35a970df9f06c]
+### PART 5 — New Article 61[^c-a204fdd498069e6341b35a970df9f06c]
 
 > **Article 61 — Transitional measures**
 >
@@ -315,7 +315,7 @@ Regulation 26
 > - (b) ‘placed on the market’ means the first making available on the market of a grapevine product;
 > - (c) ‘the relevant day’ means the day that falls 21 months after the day on which IP completion day falls.
 
-### PART 6 — New Annexes A1 and A2[^key-3b508a7681d4cd0ef5a2a5aa17bf9e6b]
+### PART 6 — New Annexes A1 and A2[^c-3b508a7681d4cd0ef5a2a5aa17bf9e6b]
 
 > **ANNEX A1 — Types of traditional term to which Article 32a applies**
 >
@@ -370,7 +370,7 @@ Regulation 26
 > | *Column 1**Row No.* | *Column 2**Description of the traditional term* | *Column 3**Type A provisions* | *Column 4**Type B provisions* | *Column 5**The column 5 date* |
 > | --- | --- | --- | --- | --- |
 > | 1\. | Established protected traditional terms. | Not applicable. | Not applicable. | 1\. In relation to a traditional term listed in Annex 3 to Commission Regulation [(EC) No 753/2002](https://www.legislation.gov.uk/eur/2002/753) laying down certain rules for applying Council Regulation [(EC) No 1493/1999](https://www.legislation.gov.uk/eur/1999/1493) as regards the description, designation, presentation and protection of certain wine sector products [^c24414921] when that Regulation was published in the Official Journal of the European Union, 4th May 2002.<br>2\. In relation to a traditional term added to Annex 3 to Regulation [(EC) No 753/2002](https://www.legislation.gov.uk/eur/2002/753) after 4th May 2002, the date on which the addition of the traditional term to that Annex first applies.<br>3\. In any other case, the date on which the application that resulted in the first registration of the traditional term was submitted to the European Commission under the relevant pre-IP completion day legislation. |
-> | 2\. | A traditional term that:<br>(a) is used in relation to a grapevine product produced in a third country,<br>(b) was protected in the European Union immediately before IP completion day pursuant to an EUIA to which the European Union and the third country were contracting parties, and<br>(c) must be protected in Great Britain pursuant to—[^key-b97e40fb77ba43430f98bfe586642def]<br>(i) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(ii) bridging arrangements between the United Kingdom and the third country made,<br>during the relevant period. | 1\. A traditional term that is in Great Britain's Traditional Terms Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered in that register pursuant to Article 32c(1) or[^key-17e41ca5d37b0a9b1f55ef1195996cb2] 39.<br>2\. A traditional term that is not in Great Britain’s Traditional Terms Register before the day on which the paragraph 1 trade mark application is accepted or refused but must be protected in Great Britain pursuant to—[^key-bdb01d186f4f3c54c26121d3ceffbd86]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>before the day on which the paragraph 1 trade mark application is accepted or refused. | A traditional term that is not in Great Britain’s Traditional Terms Register when the relevant trade mark application is accepted but must be protected in Great Britain pursuant to—[^key-67ce9a604dd50a8c9888225120fd3fa6]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>on or after the day on which the relevant trade mark application is accepted. | The relevant EUIA-based date that applies to the traditional term in relation to the EUIA referred to in point (b) of column 2. |
+> | 2\. | A traditional term that:<br>(a) is used in relation to a grapevine product produced in a third country,<br>(b) was protected in the European Union immediately before IP completion day pursuant to an EUIA to which the European Union and the third country were contracting parties, and<br>(c) must be protected in Great Britain pursuant to—[^c-b97e40fb77ba43430f98bfe586642def]<br>(i) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(ii) bridging arrangements between the United Kingdom and the third country made,<br>during the relevant period. | 1\. A traditional term that is in Great Britain's Traditional Terms Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered in that register pursuant to Article 32c(1) or[^c-17e41ca5d37b0a9b1f55ef1195996cb2] 39.<br>2\. A traditional term that is not in Great Britain’s Traditional Terms Register before the day on which the paragraph 1 trade mark application is accepted or refused but must be protected in Great Britain pursuant to—[^c-bdb01d186f4f3c54c26121d3ceffbd86]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>before the day on which the paragraph 1 trade mark application is accepted or refused. | A traditional term that is not in Great Britain’s Traditional Terms Register when the relevant trade mark application is accepted but must be protected in Great Britain pursuant to—[^c-67ce9a604dd50a8c9888225120fd3fa6]<br>(a) an international agreement to which the United Kingdom and the third country are contracting parties that enters into force, or<br>(b) bridging arrangements between the United Kingdom and the third country made,<br>on or after the day on which the relevant trade mark application is accepted. | The relevant EUIA-based date that applies to the traditional term in relation to the EUIA referred to in point (b) of column 2. |
 > | 3\. | A traditional term that:<br>(a) is used in relation to a grapevine product produced in a third country, and<br>(b) was protected in the European Union immediately before IP completion day pursuant to an EUIA to which the European Union and the third country were contracting parties. | 1\. A traditional term that is in Great Britain's Traditional Terms Register before the day on which the paragraph 1 trade mark application is accepted or refused and is entered in that register following the approval of an application to register the traditional term submitted to the Secretary of State under Article 21 of Implementing Regulation (EU) 2019/34 during the relevant period.<br>2\. A traditional term:<br>(a) that is not in Great Britain's Traditional Terms Register before the day on which the paragraph 1 trade mark application is accepted or refused,<br>(b) for which an application to register the traditional term is submitted to the Secretary of State under Article 21 of Implementing Regulation (EU) 2019/34 during the relevant period, and<br>(c) for which an Article 115(2) approval notice relating to the application is published before the day on which the paragraph 1 trade mark application is accepted or refused. | A traditional term:<br>(a) that is not in Great Britain's Traditional Terms Register when the relevant trade mark application is accepted, and<br>(b) for which an application to register the traditional term is submitted to the Secretary of State under Article 21 of Implementing Regulation (EU) 2019/34 during the relevant period and that application:<br>(i) is not submitted before the relevant trade mark application is accepted, or<br>(ii) is submitted before the relevant trade mark application is accepted but for which a notice published by the Secretary of State under the second subparagraph of Article 115(2) of Regulation (EU) No 1308/2013 relating to the application to register the traditional term is not published before the relevant trade mark application is accepted. | The relevant EUIA-based date that applies to the traditional term in relation to the EUIA referred to in point (b) of column 2. |
 > | 4\. | A traditional term:<br>(a) that is used in relation to a grapevine product produced in a third country,<br>(b) for which an assessment relating to the protection of the traditional term was being carried out, or a request for protection, or an application for assessment for protection, was submitted, before IP completion day in respect of the traditional term under an EUIA, and<br>(c) for which no decision was made pursuant to the EUIA before IP completion day as to whether the traditional term should be protected in the European Union. | See the entry in row 3 of this column. | See the entry in row 3 of this column. | The relevant EUIA-based date that applies to the traditional term in relation to the EUIA referred to in point (b) of column 2. |
 > | 5\. | A traditional term:<br>(a) that is used in relation to a grapevine product produced in a third country, and<br>(b) for which an application to register the traditional term was submitted to the European Commission under Article 29 of Regulation 607/2009, or Article 21 of EU Regulation 2019/34, before IP completion day that was neither refused nor resulted in traditional term being added to the European Commission's Traditional Terms Register before IP completion day. | See the entry in row 3 of this column. | See the entry in row 3 of this column. | The date on which the application referred to in point (b) of column 2 was submitted to the European Commission under the relevant pre-IP completion day legislation. |
@@ -386,7 +386,7 @@ Regulation 26
 > | Decision of the Secretary of State to approve a request submitted under Article 35 to cancel the protection of a traditional term. | The persons are:<br>(a) a third country authority which, or the applicant (within the meaning of Article 29(1) of Implementing Regulation (EU) 2019/34) who, submits observations to the Secretary of State in relation to the cancellation request having been invited to do so by the Secretary of State under the first subparagraph of Article 29(1) of Implementing Regulation (EU) 2019/34;<br>(b) a person who submits an objection in relation to the request in accordance with the objection in Section 2 of Chapter III (as it applies in relation to a request to cancel the protection of a traditional term by virtue of the second paragraph of Article 35);<br>(c) a person marketing a product that is, or may be, affected by the cancellation of the protection of the traditional term. | Power to:<br>(a) quash the decision and direct the Secretary of State to restore the entry for the traditional term in Great Britain's Traditional Terms Register, or<br>(b) remit the matter to the Secretary of State for reconsideration and fresh decision. |
 > | Decision of the Secretary of State to reject a request submitted under Article 35 to cancel the protection of a traditional term. | The persons are:<br>(a) the person who submitted the request;<br>(b) a third country authority which, or the applicant (within the meaning of Article 29(1) of Implementing Regulation (EU) 2019/34) who, submits observations to the Secretary of State in relation to the cancellation request having been invited to do so by the Secretary of State under the first subparagraph of Article 29(1) of Implementing Regulation (EU) 2019/34;<br>(c) a person marketing a product that is, or may be, affected by the continued protection of the traditional term. | Power to:<br>(a) quash the decision and direct the Secretary of State to remove the entry for the traditional term from Great Britain's Traditional Terms Register, or<br>(b) remit the matter to the Secretary of State for reconsideration and fresh decision. |
 
-### PART 7 — Annex 1: new Part A[^key-5773eb74059b7181a985456376f7293e]
+### PART 7 — Annex 1: new Part A[^c-5773eb74059b7181a985456376f7293e]
 
 > **PART A — Terms referred to in Article 41(1)**
 >
@@ -416,7 +416,7 @@ Regulation 26
 >
 > ‘milk casein’ or ‘milk protein’
 
-### PART 8 — New Annexes 2 and 3[^key-8f34872d398c900502fd28abe38d083f]
+### PART 8 — New Annexes 2 and 3[^c-8f34872d398c900502fd28abe38d083f]
 
 > **ANNEX 2 — Words referred to in point (b) of the second subparagraph of Article 46(3)**
 >
@@ -446,36 +446,36 @@ Regulation 26
 
 ## Annotations
 
-[^key-10a8768c300132b1aa035d218fa297d0]: Commencement: Sch. 8 Pt. 1 in force at 31.12.2020, see reg. 1(7)
+[^c-10a8768c300132b1aa035d218fa297d0]: Commencement: Sch. 8 Pt. 1 in force at 31.12.2020, see reg. 1(7)
 
-[^key-54bbdd70d829e3ac83209cc01911176a]: Textual amendment: Words in [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/1) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/a)
+[^c-54bbdd70d829e3ac83209cc01911176a]: Textual amendment: Words in [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/1) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(a)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/a)
 
-[^key-b3d0caad9ebb8577b8db11f6989ac8c7]: Commencement: Sch. 8 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-b3d0caad9ebb8577b8db11f6989ac8c7]: Commencement: Sch. 8 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-bd0ac61891a1b30f7a09a73355e06244]: Commencement: Sch. 8 Pt. 3 in force at 31.12.2020, see reg. 1(7)
+[^c-bd0ac61891a1b30f7a09a73355e06244]: Commencement: Sch. 8 Pt. 3 in force at 31.12.2020, see reg. 1(7)
 
-[^key-2cf9aefb4967c96703b4e1d5fce68b17]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/3) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/b/i/aa)
+[^c-2cf9aefb4967c96703b4e1d5fce68b17]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/3) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/b/i/aa)
 
-[^key-df27b10ec7487dd28391674c0c10f55b]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/3) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/b/i/bb)
+[^c-df27b10ec7487dd28391674c0c10f55b]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/3) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/b/i/bb)
 
-[^key-466225570f5d7544df9bf18f57e7168d]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/b/ii)
+[^c-466225570f5d7544df9bf18f57e7168d]: Textual amendment: Words in [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/b/ii)
 
-[^key-03ae88a578bd5530b768e892877eb7a7]: Commencement: Sch. 8 Pt. 4 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-03ae88a578bd5530b768e892877eb7a7]: Commencement: Sch. 8 Pt. 4 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-a204fdd498069e6341b35a970df9f06c]: Commencement: Sch. 8 Pt. 5 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-a204fdd498069e6341b35a970df9f06c]: Commencement: Sch. 8 Pt. 5 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-3b508a7681d4cd0ef5a2a5aa17bf9e6b]: Commencement: Sch. 8 Pt. 6 in force at 31.12.2020, see reg. 1(7)
+[^c-3b508a7681d4cd0ef5a2a5aa17bf9e6b]: Commencement: Sch. 8 Pt. 6 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414921]: Marginal citation: OJ No. L 118, 4.5.2002, p. 1, repealed by Commission Regulation (EC) No 607/2009 (OJ No. L 193, 24.7.2009, p. 60). Last amended before its repeal by Commission Regulation (EC) No 1471/2007 (OJ No. L 329, 14.12.2007, p. 9).
 
-[^key-b97e40fb77ba43430f98bfe586642def]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/i)
+[^c-b97e40fb77ba43430f98bfe586642def]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/i)
 
-[^key-17e41ca5d37b0a9b1f55ef1195996cb2]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/ii/aa)
+[^c-17e41ca5d37b0a9b1f55ef1195996cb2]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/ii/aa)
 
-[^key-bdb01d186f4f3c54c26121d3ceffbd86]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/ii/bb)
+[^c-bdb01d186f4f3c54c26121d3ceffbd86]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/ii/bb)
 
-[^key-67ce9a604dd50a8c9888225120fd3fa6]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/iii)
+[^c-67ce9a604dd50a8c9888225120fd3fa6]: Textual amendment: Words in [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2020/1637/schedule/8/part/6) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(10)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/10/c/iii)
 
-[^key-5773eb74059b7181a985456376f7293e]: Commencement: Sch. 8 Pt. 7 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-5773eb74059b7181a985456376f7293e]: Commencement: Sch. 8 Pt. 7 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-8f34872d398c900502fd28abe38d083f]: Commencement: Sch. 8 Pt. 8 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-8f34872d398c900502fd28abe38d083f]: Commencement: Sch. 8 Pt. 8 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)

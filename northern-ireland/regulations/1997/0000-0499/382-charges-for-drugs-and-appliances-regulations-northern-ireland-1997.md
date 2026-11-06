@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 98 and 106 of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel[^f00002], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8f09a52f8e4d17af0643f882eb1509e8]
+## 1. Citation and commencement[^c-8f09a52f8e4d17af0643f882eb1509e8]
 
 These Regulations may be cited as the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997 and shall come into operation on 6th October 1997.
 
-## 2. Interpretation[^key-ec445b1858757538ee18d56a941fc0d7]
+## 2. Interpretation[^c-ec445b1858757538ee18d56a941fc0d7]
 
 (1) In these Regulations—
 
@@ -97,7 +97,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 - (a) of quantities of the same drug in more than one container shall be treated as the supply of only one quantity of a drug;
 - (b) of more than one appliance of the same type, except in the case of elastic hosiery and tights, or of 2 or more component parts of the same appliance shall be treated as the supply of only one appliance.
 
-## 3. Supply of drugs and appliances by chemists[^key-47fc89c3e44b73b80283453c0f5945a4]
+## 3. Supply of drugs and appliances by chemists[^c-47fc89c3e44b73b80283453c0f5945a4]
 
 (1) A chemist who provides pharmaceutical services to a patient shall, subject to paragraph (2), make and recover from that patient—
 
@@ -114,7 +114,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 
 (6) Any sum which would otherwise by payable by the Agency to a chemist in respect of the provision by him of pharmaceutical services shall be reduced by the amount of any charges which are required to be made and recovered by the preceding provisions of this regulation.
 
-## 4. Supply of drugs and appliances by doctors[^key-1af1d91b0403bdadf1624ac1eb0a78f4]
+## 4. Supply of drugs and appliances by doctors[^c-1af1d91b0403bdadf1624ac1eb0a78f4]
 
 (1) A doctor who provides pharmaceutical services to a patient shall, subject to paragraph (2), make and recover from that patient—
 
@@ -136,7 +136,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 - (a) is needed for immediate treatment and no order for the drug or appliance is made on a prescription form; or
 - (b) is administered or applied to the patient by the doctor personally.
 
-## 5. Supply of drugs and appliances by a Board or an HSS trust[^key-91fac6f1d9e08e4f978c8efd25b19007]
+## 5. Supply of drugs and appliances by a Board or an HSS trust[^c-91fac6f1d9e08e4f978c8efd25b19007]
 
 (1) A Board or an HSS trust which supplies to a patient, for the purposes of his treatment, drugs (otherwise than for administration at a hospital) or appliances shall, subject to paragraph (2), make and recover from the patient—
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 
 (4) A Board or an HSS trust which makes and recovers a charge under this regulation shall, if so required by the patient, give him a receipt for the amount received on a form which shall contain forms of declaration in support of an application for repayment and information as to whom an application for repayment shall be made.
 
-## 6. Supply, replacement and repair of appliances to out-patients by Boards and HSS trusts[^key-11efae82e56fc9738d7b3f43038de2f5]
+## 6. Supply, replacement and repair of appliances to out-patients by Boards and HSS trusts[^c-11efae82e56fc9738d7b3f43038de2f5]
 
 (1) Where an appliance supplied under arrangements made by a Board or an HSS trust is, at the request of the person supplied, of a more expensive type than the standard type, or where an appliance which has been so supplied is repaired under those arrangements, the Board or HSS trust may charge and recover from the person so supplied, or for whom such repair is undertaken, a sum representing the difference between the cost of supplying or repairing such appliance and the cost of supplying or repairing an appliance of the type which would normally be supplied.
 
@@ -170,7 +170,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 
 (5) The Board or the HSS trust may recover from the person supplied, or (if the act or omission necessitating repairs or replacement occurred when he was under sixteen years of age) the person having charge of him when it occurred, the whole or any part of the cost of replacement or repair of an appliance determined in the manner aforesaid to have been necessitated by an act or omission on the part of the person supplied or (if it occurred when he was under sixteen years of age) of his or of the person having charge of him when it occurred.
 
-## 7. Exemptions[^key-49191713ac1bf18d428ce07523024a77]
+## 7. Exemptions[^c-49191713ac1bf18d428ce07523024a77]
 
 (1) No charge shall be payable under regulation 3 or regulation 4 by—
 
@@ -205,7 +205,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 
 (5) Where a claim to exemption has been made but is not substantiated and in consequence of that claim a chemist, a doctor, a Board or an HSS trust has not recovered a charge in respect of the supply of any drugs or appliances, the Agency or the Board or the HSS trust shall recover such charge from the person concerned.
 
-## 8. Certificates of exemption — application and issue[^key-f9982523bc735d2360cb2c5f77309353]
+## 8. Certificates of exemption — application and issue[^c-f9982523bc735d2360cb2c5f77309353]
 
 (1) A person who wishes to claim exemption under the provisions of regulation 7(1)(*d*), (*e*) or (*f*) shall apply for a certificate conferring exemption (in these Regulations referred to as an “exemption certificate”) to the Agency, in the case of an exemption under sub-paragraph (*d*) or (*e*) of the said regulation, on a form supplied for that purpose by the Agency and in the case of an exemption under sub-paragraph (*f*) of that regulation to the War Pensions Agency on a form supplied for that purpose by the Secretary of State.
 
@@ -218,7 +218,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 
 (4) The Secretary of State, on being satisfied that an applicant is entitled to exemption under regulation 7(1)(*f*), shall issue to the applicant an exemption certificate which shall be valid for such period as he may determine.
 
-## 9. Pre-payment certificates[^key-f35f97ba4d78b8648275aadfc66855d3]
+## 9. Pre-payment certificates[^c-f35f97ba4d78b8648275aadfc66855d3]
 
 (1) Subject to the following provisions of this regulation, the Agency or a chemist on payment by any person of the relevant sum prescribed by paragraph (5) may grant that person a certificate (in these Regulations referred to as a “pre-payment certificate”).
 
@@ -249,7 +249,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 - (b) in a case falling within paragraph (6)(*d*)(i), not more than three months after the date of death; or
 - (c) in a case falling within paragraph (6)(*d*)(ii), not more than three months after the date on which the pre-payment certificate expired.
 
-## 10. Repayment of charges[^key-4111bba95278b111a70945c5f77a03d4]
+## 10. Repayment of charges[^c-4111bba95278b111a70945c5f77a03d4]
 
 (1) Where a charge has been paid under these Regulations by or on behalf of a person who was at the time of payment exempt from the requirement to pay that charge, an application for repayment of that charge may be made in accordance with paragraph (2) by or on behalf of that person.
 
@@ -267,7 +267,7 @@ These Regulations may be cited as the Charges for Drugs and Appliances Regulatio
 
 (4) The Department shall make arrangements for the repayment of any charge paid under these Regulations by a person who is entitled to exemption.
 
-## 11. Revocations[^key-eaa223dd3f29e4f363b20b05f6f2fc2d]
+## 11. Revocations[^c-eaa223dd3f29e4f363b20b05f6f2fc2d]
 
 The Regulations mentioned in columns (1) and (2) of Schedule 2 are hereby revoked.
 
@@ -289,7 +289,7 @@ Assistant Secretary
 
 15th August 1997.
 
-## SCHEDULE 1 — Charges for Fabric Supports and Wigs[^key-636ac1b18eda857ce12b231ea5d62fd7]
+## SCHEDULE 1 — Charges for Fabric Supports and Wigs[^c-636ac1b18eda857ce12b231ea5d62fd7]
 
 Regulation 5
 
@@ -307,7 +307,7 @@ Regulation 5
 </tbody>
 </table>
 
-## SCHEDULE 2 — Regulations revoked[^key-309a4822b8ad3769bf69f16638ddb2c0]
+## SCHEDULE 2 — Regulations revoked[^c-309a4822b8ad3769bf69f16638ddb2c0]
 
 Regulation 11
 
@@ -376,9 +376,9 @@ The Regulations include a new provision which requires patients, who obtain drug
 
 [^f00002]: Footnote: Formerly the Department of Finance; *see* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
 
-[^key-8f09a52f8e4d17af0643f882eb1509e8]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-8f09a52f8e4d17af0643f882eb1509e8]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-ec445b1858757538ee18d56a941fc0d7]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-ec445b1858757538ee18d56a941fc0d7]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
 [^f00003]: Footnote: Article 63(1) and (4) was substituted by Article 14 of the Health and Personal Social Services (Northern Ireland) Order 1978 ([S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)); Article 63(1) was amended by Article 31(1)(*a*) of the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
@@ -398,26 +398,26 @@ The Regulations include a new provision which requires patients, who obtain drug
 
 [^f00011]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-47fc89c3e44b73b80283453c0f5945a4]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-47fc89c3e44b73b80283453c0f5945a4]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-1af1d91b0403bdadf1624ac1eb0a78f4]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-1af1d91b0403bdadf1624ac1eb0a78f4]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-91fac6f1d9e08e4f978c8efd25b19007]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-91fac6f1d9e08e4f978c8efd25b19007]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-11efae82e56fc9738d7b3f43038de2f5]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-11efae82e56fc9738d7b3f43038de2f5]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-49191713ac1bf18d428ce07523024a77]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-49191713ac1bf18d428ce07523024a77]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1976/1041 (N.I. 14)](https://www.legislation.gov.uk/nisi/1976/1041)
 
-[^key-f9982523bc735d2360cb2c5f77309353]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-f9982523bc735d2360cb2c5f77309353]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-f35f97ba4d78b8648275aadfc66855d3]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-f35f97ba4d78b8648275aadfc66855d3]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-4111bba95278b111a70945c5f77a03d4]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-4111bba95278b111a70945c5f77a03d4]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-eaa223dd3f29e4f363b20b05f6f2fc2d]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-eaa223dd3f29e4f363b20b05f6f2fc2d]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-636ac1b18eda857ce12b231ea5d62fd7]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-636ac1b18eda857ce12b231ea5d62fd7]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
 
-[^key-309a4822b8ad3769bf69f16638ddb2c0]: Commencement: Sch. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)
+[^c-309a4822b8ad3769bf69f16638ddb2c0]: Commencement: Sch. 2 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/382/regulation/1)

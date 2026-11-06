@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Representations procedure[^key-a33a0850799f8e795150a4b0bbf25aaf]
+## 40. Representations procedure[^c-a33a0850799f8e795150a4b0bbf25aaf]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In regulation 10 of the Representations Procedure (Children) Regulations (Northe
 
 ## Annotations
 
-[^key-a33a0850799f8e795150a4b0bbf25aaf]: Commencement: Reg. 40 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-a33a0850799f8e795150a4b0bbf25aaf]: Commencement: Reg. 40 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00058]: Footnote: [S.R. 1996/451](https://www.legislation.gov.uk/nisr/1996/451).

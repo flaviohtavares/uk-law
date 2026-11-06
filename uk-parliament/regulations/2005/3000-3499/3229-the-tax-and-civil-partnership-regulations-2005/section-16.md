@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16.[^key-9062b4132ba0d9d720509d97bc0c0809]
+## 16.[^c-9062b4132ba0d9d720509d97bc0c0809]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 71 (accumulation and maintenance trusts), in subsection (2)(b)(ii), a
 
 ## Annotations
 
-[^key-9062b4132ba0d9d720509d97bc0c0809]: Commencement: Reg. 16 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-9062b4132ba0d9d720509d97bc0c0809]: Commencement: Reg. 16 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

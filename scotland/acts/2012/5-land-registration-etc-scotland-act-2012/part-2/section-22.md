@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. General application conditions[^key-3dd930fbe89e9bc700fc1d1fb05417ce]
+## 22. General application conditions[^c-3dd930fbe89e9bc700fc1d1fb05417ce]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dd930fbe89e9bc700fc1d1fb05417ce]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2012/5/section/22) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3dd930fbe89e9bc700fc1d1fb05417ce]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2012/5/section/22) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

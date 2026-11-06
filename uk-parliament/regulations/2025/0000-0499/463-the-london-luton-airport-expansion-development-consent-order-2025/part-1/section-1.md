@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-db12fe83e8756e1b200c738481c31dc1]
+## 1. Citation and commencement[^c-db12fe83e8756e1b200c738481c31dc1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the London Luton Airport Expansion Development Consen
 
 ## Annotations
 
-[^key-db12fe83e8756e1b200c738481c31dc1]: Commencement: Art. 1 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-db12fe83e8756e1b200c738481c31dc1]: Commencement: Art. 1 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

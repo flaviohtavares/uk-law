@@ -36,7 +36,7 @@ summary: ''
 - (a) sells or attempts to sell alcohol in contravention of an order under this section, or
 - (b) allows the sale of alcohol in contravention of such an order.
 
-(6) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine[^key-95ab0037445b0a2f1fb3fac7a24efbc4], or to both.
+(6) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine[^c-95ab0037445b0a2f1fb3fac7a24efbc4], or to both.
 
 (7) In this section—
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c21004701]: Textual amendment: Words in s. 157(1) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886)](https://www.legislation.gov.uk/uksi/2005/886), [art. 2](https://www.legislation.gov.uk/uksi/2005/886/article/2), [Sch. para. 93(a)](https://www.legislation.gov.uk/uksi/2005/886/schedule/paragraph/93/a)
 
-[^key-95ab0037445b0a2f1fb3fac7a24efbc4]: Textual amendment: Words in s. 157(6) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-95ab0037445b0a2f1fb3fac7a24efbc4]: Textual amendment: Words in s. 157(6) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(6)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/6) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

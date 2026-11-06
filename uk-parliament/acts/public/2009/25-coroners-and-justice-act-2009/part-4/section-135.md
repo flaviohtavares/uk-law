@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Abolition of existing sentencing bodies[^key-0af6446866e765bd6bda399e76f3f692]
+## 135. Abolition of existing sentencing bodies[^c-0af6446866e765bd6bda399e76f3f692]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The following are abolished—
 
 ## Annotations
 
-[^key-0af6446866e765bd6bda399e76f3f692]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2009/25/section/135) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-0af6446866e765bd6bda399e76f3f692]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2009/25/section/135) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

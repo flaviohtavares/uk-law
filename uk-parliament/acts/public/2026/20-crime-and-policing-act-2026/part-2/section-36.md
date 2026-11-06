@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Remote sale and letting of crossbows[^key-f186eb275a5f93dd54383932a0926db5]
+## 36. Remote sale and letting of crossbows[^c-f186eb275a5f93dd54383932a0926db5]
 
 *Extent: E+W+S*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f186eb275a5f93dd54383932a0926db5]: Commencement: S. 36 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(b)
+[^c-f186eb275a5f93dd54383932a0926db5]: Commencement: S. 36 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(b)

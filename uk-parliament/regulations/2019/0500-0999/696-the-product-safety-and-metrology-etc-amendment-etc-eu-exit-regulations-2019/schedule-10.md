@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 13
 
-### 1. Introduction[^key-534a818f9f45691c8722f77f0665bdb3]
+### 1. Introduction[^c-534a818f9f45691c8722f77f0665bdb3]
 
 (1) The Offshore Installations (Safety Case) Regulations 2005 are amended as follows.
 
@@ -34,4 +34,4 @@ Regulation 13
 
 ## Annotations
 
-[^key-534a818f9f45691c8722f77f0665bdb3]: Commencement: Sch. 10 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-534a818f9f45691c8722f77f0665bdb3]: Commencement: Sch. 10 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

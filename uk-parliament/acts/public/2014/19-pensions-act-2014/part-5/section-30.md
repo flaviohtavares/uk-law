@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Bereavement support payment[^key-3cb0a8ffa03e3616ea1f93c4bdbf0cbf][^key-43e900e31608673cbf60c9adb38749c4][^key-d15a94bfc2d2e158246b12e1058da388]
+## 30. Bereavement support payment[^c-3cb0a8ffa03e3616ea1f93c4bdbf0cbf][^c-43e900e31608673cbf60c9adb38749c4][^c-d15a94bfc2d2e158246b12e1058da388]
 
 *Extent: E+W+S*
 
@@ -74,11 +74,11 @@ summary: ''
 
 ## Annotations
 
-[^key-3cb0a8ffa03e3616ea1f93c4bdbf0cbf]: Commencement: S. 30 in force at 8.3.2017 for specified purposes by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/a)
+[^c-3cb0a8ffa03e3616ea1f93c4bdbf0cbf]: Commencement: S. 30 in force at 8.3.2017 for specified purposes by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/a)
 
-[^key-43e900e31608673cbf60c9adb38749c4]: Commencement: S. 30 in force at 6.4.2017 in so far as not already in force by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+[^c-43e900e31608673cbf60c9adb38749c4]: Commencement: S. 30 in force at 6.4.2017 in so far as not already in force by [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
 
-[^key-d15a94bfc2d2e158246b12e1058da388]: Modification: Pt. 5 modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [arts. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [2](https://www.legislation.gov.uk/uksi/2017/159/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2017/159/schedule/1)
+[^c-d15a94bfc2d2e158246b12e1058da388]: Modification: Pt. 5 modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [arts. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [2](https://www.legislation.gov.uk/uksi/2017/159/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2017/159/schedule/1)
 
 [^M_F_6012593e-8661-4957-b074-4523ae657413]: Textual amendment: Words in s. 30(1)(a) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/4/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 

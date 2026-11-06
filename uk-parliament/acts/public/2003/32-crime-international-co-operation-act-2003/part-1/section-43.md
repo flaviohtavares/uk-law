@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Information about a person’s bank account[^key-d4e1131f49b1d5ae14953c116830c561]
+## 43. Information about a person’s bank account[^c-d4e1131f49b1d5ae14953c116830c561]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the judicial authority may request assistance under this section.
 
 ## Annotations
 
-[^key-d4e1131f49b1d5ae14953c116830c561]: Commencement: S. 43 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)
+[^c-d4e1131f49b1d5ae14953c116830c561]: Commencement: S. 43 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)

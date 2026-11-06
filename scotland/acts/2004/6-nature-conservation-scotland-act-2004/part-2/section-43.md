@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Powers of investigation etc.: police[^key-6010b68f83d4e5d2908e52abf3f94164][^key-21d6fdf9a13a50cd286e1e7ebb6a07d7]
+## 43. Powers of investigation etc.: police[^c-6010b68f83d4e5d2908e52abf3f94164][^c-21d6fdf9a13a50cd286e1e7ebb6a07d7]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6010b68f83d4e5d2908e52abf3f94164]: Commencement: S. 43 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-6010b68f83d4e5d2908e52abf3f94164]: Commencement: S. 43 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-21d6fdf9a13a50cd286e1e7ebb6a07d7]: Modification: S. 43 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-21d6fdf9a13a50cd286e1e7ebb6a07d7]: Modification: S. 43 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

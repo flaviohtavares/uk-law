@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-b86f1e5bc7386bbbcdc358b9765794b9] Subject to paragraphs (2) to (5),[^M_F_99902cbc-3cd3-4c89-c60c-fe03138c1d67] inmates may be classified, in accordance with any directions of the Secretary of State, taking into account their ages, characters and circumstances.
+(1)[^c-b86f1e5bc7386bbbcdc358b9765794b9] Subject to paragraphs (2) to (5),[^M_F_99902cbc-3cd3-4c89-c60c-fe03138c1d67] inmates may be classified, in accordance with any directions of the Secretary of State, taking into account their ages, characters and circumstances.
 
-(2)[^key-30bff372e448c7fe4b7e8658620285f6] Except where paragraph (5) applies, an inmate who has the relevant deportation status must not be classified as suitable for open conditions.
+(2)[^c-30bff372e448c7fe4b7e8658620285f6] Except where paragraph (5) applies, an inmate who has the relevant deportation status must not be classified as suitable for open conditions.
 
 (3) If, immediately before the relevant time—
 
@@ -53,8 +53,8 @@ the inmate’s classification must be reconsidered in accordance with this rule 
 
 ## Annotations
 
-[^key-b86f1e5bc7386bbbcdc358b9765794b9]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/uksi/2000/3371/rule/4) renumbered as rule 4(1) (13.8.2014 at 5 p.m.) by virtue of [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/3/a)
+[^c-b86f1e5bc7386bbbcdc358b9765794b9]: Textual amendment: [Rule 4](https://www.legislation.gov.uk/uksi/2000/3371/rule/4) renumbered as rule 4(1) (13.8.2014 at 5 p.m.) by virtue of [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/3/a)
 
 [^M_F_99902cbc-3cd3-4c89-c60c-fe03138c1d67]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/4/1) inserted (13.8.2014 at 5 p.m.) by virtue of [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/3/a)
 
-[^key-30bff372e448c7fe4b7e8658620285f6]: Textual amendment: [Rule 4(2)-(8)](https://www.legislation.gov.uk/uksi/2000/3371/rule/4/2) inserted (13.8.2014 at 5 p.m.) by [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/3/b)
+[^c-30bff372e448c7fe4b7e8658620285f6]: Textual amendment: [Rule 4(2)-(8)](https://www.legislation.gov.uk/uksi/2000/3371/rule/4/2) inserted (13.8.2014 at 5 p.m.) by [The Prison and Young Offender Institution (Amendment) Rules 2014 (S.I. 2014/2169)](https://www.legislation.gov.uk/uksi/2014/2169), [rules 1](https://www.legislation.gov.uk/uksi/2014/2169/rule/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2014/2169/rule/3/3/b)

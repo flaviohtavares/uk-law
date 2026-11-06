@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duty on goods removed to Northern Ireland[^c24415701][^key-9952c668fefe4afd11b3f5383d3044aa]
+## 1. Duty on goods removed to Northern Ireland[^c24415701][^c-9952c668fefe4afd11b3f5383d3044aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ After section 40 of TCTA 2018 insert—
 
 [^c24415701]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/26/section/1) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-9952c668fefe4afd11b3f5383d3044aa]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/26/section/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-9952c668fefe4afd11b3f5383d3044aa]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/26/section/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

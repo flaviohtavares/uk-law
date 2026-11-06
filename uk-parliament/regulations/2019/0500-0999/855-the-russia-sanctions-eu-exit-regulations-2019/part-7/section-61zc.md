@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61ZC. Ships: exceptions from prohibition on operating specified ships[^key-030d8f147b360f219c7b04fdb52986e2]
+## 61ZC. Ships: exceptions from prohibition on operating specified ships[^c-030d8f147b360f219c7b04fdb52986e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030d8f147b360f219c7b04fdb52986e2]: Textual amendment: [Regs. 61ZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/61ZB), [61ZC](https://www.legislation.gov.uk/uksi/2019/855/regulation/61ZC) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/543/regulation/19)
+[^c-030d8f147b360f219c7b04fdb52986e2]: Textual amendment: [Regs. 61ZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/61ZB), [61ZC](https://www.legislation.gov.uk/uksi/2019/855/regulation/61ZC) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/543/regulation/19)

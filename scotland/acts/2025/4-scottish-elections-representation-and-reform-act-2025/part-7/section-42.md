@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Evaluation of registration of electors pilot provision by Electoral Commission[^key-56cb5a6948782697c7aa5e55eb64e872][^key-8d2318222e49f4366aef017a732c3739]
+## 42. Evaluation of registration of electors pilot provision by Electoral Commission[^c-56cb5a6948782697c7aa5e55eb64e872][^c-8d2318222e49f4366aef017a732c3739]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56cb5a6948782697c7aa5e55eb64e872]: Commencement: S. 42 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-56cb5a6948782697c7aa5e55eb64e872]: Commencement: S. 42 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-8d2318222e49f4366aef017a732c3739]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2025/4/section/42) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-8d2318222e49f4366aef017a732c3739]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2025/4/section/42) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

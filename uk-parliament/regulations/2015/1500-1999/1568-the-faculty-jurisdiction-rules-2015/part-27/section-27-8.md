@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.8. Appeal court’s powers[^key-ab6284ee01d1addb8291148d33445410]
+## 27.8. Appeal court’s powers[^c-ab6284ee01d1addb8291148d33445410]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab6284ee01d1addb8291148d33445410]: Commencement: [Rule 27.8](https://www.legislation.gov.uk/uksi/2015/1568/article/27.8) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-ab6284ee01d1addb8291148d33445410]: Commencement: [Rule 27.8](https://www.legislation.gov.uk/uksi/2015/1568/article/27.8) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

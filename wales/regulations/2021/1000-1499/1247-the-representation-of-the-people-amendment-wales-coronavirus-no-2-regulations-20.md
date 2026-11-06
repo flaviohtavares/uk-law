@@ -33,7 +33,7 @@ Local Government, Wales
 
 Representation Of The People, Wales
 
-The Representation of the People (Amendment) (Wales) (Coronavirus) (No. 2) Regulations 2021 (revoked)[^key-71a45380673f68e7bd69a029413ee505]
+The Representation of the People (Amendment) (Wales) (Coronavirus) (No. 2) Regulations 2021 (revoked)[^c-71a45380673f68e7bd69a029413ee505]
 
 Made
 
@@ -43,23 +43,23 @@ Coming into force
 
 10 November 2021
 
-[^key-71a45380673f68e7bd69a029413ee505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71a45380673f68e7bd69a029413ee505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-71a45380673f68e7bd69a029413ee505]
+## 1. Title and commencement[^c-71a45380673f68e7bd69a029413ee505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-71a45380673f68e7bd69a029413ee505]
+## 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-71a45380673f68e7bd69a029413ee505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-71a45380673f68e7bd69a029413ee505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71a45380673f68e7bd69a029413ee505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-71a45380673f68e7bd69a029413ee505]EXPLANATORY NOTE
+[^c-71a45380673f68e7bd69a029413ee505]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -71,4 +71,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-71a45380673f68e7bd69a029413ee505]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/1247) revoked (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [10(4)(c)](https://www.legislation.gov.uk/wsi/2022/263/regulation/10/4/c)
+[^c-71a45380673f68e7bd69a029413ee505]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/1247) revoked (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [10(4)(c)](https://www.legislation.gov.uk/wsi/2022/263/regulation/10/4/c)

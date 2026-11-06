@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to paragraphs (4) and (12), in respect of any period during which any special school is not covered by a scheme, it shall be the duty of the Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] to make available a sum of money which the Board of Governors of the school is to be entitled to spend at its discretion during that period (but subject to paragraph (2)) on such heads of expenditure as the Authority may specify or as the Department may direct.
+(1) Subject to paragraphs (4) and (12), in respect of any period during which any special school is not covered by a scheme, it shall be the duty of the Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] to make available a sum of money which the Board of Governors of the school is to be entitled to spend at its discretion during that period (but subject to paragraph (2)) on such heads of expenditure as the Authority may specify or as the Department may direct.
 
 (2) A Board of Governors to which any sum is made available under this Article—
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) Where a new special school is established and is not covered by a scheme, paragraph (1) shall not apply in relation to the school until such date as the Department may direct.
 
-(5) Before specifying any heads of expenditure under paragraph (1), the Authority shall consult the Board of Governors of every special school appearing to it to be concerned and the Council for Catholic Maintained Schools and before giving any directions under paragraph (1), the Department shall consult the Authority[^key-07db31ded575a860e65a509f9fb65aa9], the Council for Catholic Maintained Schools and any other person with whom consultation appears to it to be desirable.
+(5) Before specifying any heads of expenditure under paragraph (1), the Authority shall consult the Board of Governors of every special school appearing to it to be concerned and the Council for Catholic Maintained Schools and before giving any directions under paragraph (1), the Department shall consult the Authority[^c-07db31ded575a860e65a509f9fb65aa9], the Council for Catholic Maintained Schools and any other person with whom consultation appears to it to be desirable.
 
 (6) Where it appears to the Authority that a Board of Governors to which any sum is made available under this Article—
 
@@ -60,14 +60,14 @@ at the same time as the notice is given to the Board of Governors.
 - (b) the Department; and
 - (c) where the school is a Catholic maintained school, the Council for Catholic Maintained School.
 
-(12) During any period when a Board of Governors' right mentioned in paragraph (6) is suspended under this Article, the duty of the Authority[^key-47f6d5633b19c831418e59e89135d0b7] under paragraph (1) shall not apply in relation to that Board of Governors.
+(12) During any period when a Board of Governors' right mentioned in paragraph (6) is suspended under this Article, the duty of the Authority[^c-47f6d5633b19c831418e59e89135d0b7] under paragraph (1) shall not apply in relation to that Board of Governors.
 
 (13) Articles 56 and 57 shall apply in relation to a suspension under this Article as they apply in relation to a suspension under Article 55.
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-07db31ded575a860e65a509f9fb65aa9]: Textual amendment: Words in art. 60(5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-07db31ded575a860e65a509f9fb65aa9]: Textual amendment: Words in art. 60(5) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-47f6d5633b19c831418e59e89135d0b7]: Textual amendment: Words in art. 60(12) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-47f6d5633b19c831418e59e89135d0b7]: Textual amendment: Words in art. 60(12) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(4)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

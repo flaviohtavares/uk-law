@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Power to photograph certain persons at a police station[^key-cb1ea634177401351621c67dd44ca9c3]
+## 52. Power to photograph certain persons at a police station[^c-cb1ea634177401351621c67dd44ca9c3]
 
 *Extent: E+W*
 
@@ -156,4 +156,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb1ea634177401351621c67dd44ca9c3]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/32/section/52) in force at 28.6.2022, see [s. 208(5)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/e)
+[^c-cb1ea634177401351621c67dd44ca9c3]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/32/section/52) in force at 28.6.2022, see [s. 208(5)(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/e)

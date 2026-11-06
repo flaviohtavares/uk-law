@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Person not convicted: human rights and proportionality[^key-86c99a62cf97c352b13deb8de8c9af29]
+## 21A. Person not convicted: human rights and proportionality[^c-86c99a62cf97c352b13deb8de8c9af29]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86c99a62cf97c352b13deb8de8c9af29]: Textual amendment: S. 21A inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 157(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/4), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 3](https://www.legislation.gov.uk/ukpga/2014/12/section/3), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [157(5)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/5)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/d)
+[^c-86c99a62cf97c352b13deb8de8c9af29]: Textual amendment: S. 21A inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 157(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/4), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 3](https://www.legislation.gov.uk/ukpga/2014/12/section/3), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [157(5)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/5)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/d)

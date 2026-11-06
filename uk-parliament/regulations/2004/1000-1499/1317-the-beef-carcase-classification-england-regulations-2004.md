@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Beef Carcase (Classification) (England) Regulations 2004 (revoked)[^key-5e6651387bf4214a882ee132713c267c]
+The Beef Carcase (Classification) (England) Regulations 2004 (revoked)[^c-5e6651387bf4214a882ee132713c267c]
 
 Made
 
@@ -45,101 +45,101 @@ Coming into force
 
 7th June 2004
 
-[^key-5e6651387bf4214a882ee132713c267c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e6651387bf4214a882ee132713c267c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-5e6651387bf4214a882ee132713c267c]
+## 1. Title, commencement and application[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5e6651387bf4214a882ee132713c267c]
+## 2. Interpretation[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption[^key-5e6651387bf4214a882ee132713c267c]
+## 3. Exemption[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Registration[^key-5e6651387bf4214a882ee132713c267c]
+## 4. Registration[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling instead of marking[^key-5e6651387bf4214a882ee132713c267c]
+## 5. Labelling instead of marking[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Licensed classifiers[^key-5e6651387bf4214a882ee132713c267c]
+## 6. Licensed classifiers[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Licence for automated grading[^key-5e6651387bf4214a882ee132713c267c]
+## 7. Licence for automated grading[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Keeping, retention and production of records[^key-5e6651387bf4214a882ee132713c267c]
+## 8. Keeping, retention and production of records[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Classifications by the MLC[^key-5e6651387bf4214a882ee132713c267c]
+## 9. Classifications by the MLC[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers of authorised officers[^key-5e6651387bf4214a882ee132713c267c]
+## 10. Powers of authorised officers[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Assistance to authorised officers[^key-5e6651387bf4214a882ee132713c267c]
+## 11. Assistance to authorised officers[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Notices[^key-5e6651387bf4214a882ee132713c267c]
+## 12. Notices[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences and penalties[^key-5e6651387bf4214a882ee132713c267c]
+## 13. Offences and penalties[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Defence of due diligence[^key-5e6651387bf4214a882ee132713c267c]
+## 14. Defence of due diligence[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of the Agriculture Act 1967[^key-5e6651387bf4214a882ee132713c267c]
+## 15. Amendment of the Agriculture Act 1967[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Revocation[^key-5e6651387bf4214a882ee132713c267c]
+## 16. Revocation[^c-5e6651387bf4214a882ee132713c267c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e6651387bf4214a882ee132713c267c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e6651387bf4214a882ee132713c267c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Community provisions[^key-5e6651387bf4214a882ee132713c267c]
+## SCHEDULE 1 — Community provisions[^c-5e6651387bf4214a882ee132713c267c]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Particulars of a regulated slaughterhouse to be notified to the Secretary of State[^key-5e6651387bf4214a882ee132713c267c]
+## SCHEDULE 2 — Particulars of a regulated slaughterhouse to be notified to the Secretary of State[^c-5e6651387bf4214a882ee132713c267c]
 
 Regulation 4(1)
 
-**1.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-5e6651387bf4214a882ee132713c267c]
+## SCHEDULE 3[^c-5e6651387bf4214a882ee132713c267c]
 
 Regulation 6
 
@@ -147,7 +147,7 @@ Form of classification licence
 
 [image: see source](https://www.legislation.gov.uk/uksi/2004/1317/images/uksi_20041317_en_001)
 
-## SCHEDULE 4[^key-5e6651387bf4214a882ee132713c267c]
+## SCHEDULE 4[^c-5e6651387bf4214a882ee132713c267c]
 
 Regulation 7
 
@@ -155,44 +155,44 @@ Form of licence for automated grading
 
 [image: see source](https://www.legislation.gov.uk/uksi/2004/1317/images/uksi_20041317_en_002)
 
-## SCHEDULE 5[^key-5e6651387bf4214a882ee132713c267c]
+## SCHEDULE 5[^c-5e6651387bf4214a882ee132713c267c]
 
 Regulation 8
 
-### PART 1 — Records to be kept by occupier for each classified regulated carcase[^key-5e6651387bf4214a882ee132713c267c]
+### PART 1 — Records to be kept by occupier for each classified regulated carcase[^c-5e6651387bf4214a882ee132713c267c]
 
-**1.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Records to be kept by occupier for each exempt carcase[^key-5e6651387bf4214a882ee132713c267c]
+### PART 2 — Records to be kept by occupier for each exempt carcase[^c-5e6651387bf4214a882ee132713c267c]
 
-**1.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Records to be kept by exempt occupier[^key-5e6651387bf4214a882ee132713c267c]
+### PART 3 — Records to be kept by exempt occupier[^c-5e6651387bf4214a882ee132713c267c]
 
-**1.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5e6651387bf4214a882ee132713c267c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5e6651387bf4214a882ee132713c267c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e6651387bf4214a882ee132713c267c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e6651387bf4214a882ee132713c267c]: Textual amendment: Regulations revoked (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/c)
+[^c-5e6651387bf4214a882ee132713c267c]: Textual amendment: Regulations revoked (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/c)

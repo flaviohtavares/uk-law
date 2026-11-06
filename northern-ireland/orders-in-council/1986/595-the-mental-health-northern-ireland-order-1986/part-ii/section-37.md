@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Discharge and variation of orders under Article 36[^key-3d88c15fc7a322ecabbcffd968434725][^key-986cfcc6c06e036561b74f8edef9a3a8]
+## 37. Discharge and variation of orders under Article 36[^c-3d88c15fc7a322ecabbcffd968434725][^c-986cfcc6c06e036561b74f8edef9a3a8]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d88c15fc7a322ecabbcffd968434725]: Modification: Art. 37 applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs.](https://www.legislation.gov.uk/nisr/2012/403/regulation), [1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1) 3(3)(gg) 4
+[^c-3d88c15fc7a322ecabbcffd968434725]: Modification: Art. 37 applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs.](https://www.legislation.gov.uk/nisr/2012/403/regulation), [1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1) 3(3)(gg) 4
 
-[^key-986cfcc6c06e036561b74f8edef9a3a8]: Modification: Art. 37 applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(x)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/x), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-986cfcc6c06e036561b74f8edef9a3a8]: Modification: Art. 37 applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(x)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/x), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)

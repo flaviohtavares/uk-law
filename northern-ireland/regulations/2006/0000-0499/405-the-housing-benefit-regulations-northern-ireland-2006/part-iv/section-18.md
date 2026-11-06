@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-0913812340ea2dd4c58d26c91c25743c]
+## 18. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-0913812340ea2dd4c58d26c91c25743c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0913812340ea2dd4c58d26c91c25743c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/405/regulation/18) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-0913812340ea2dd4c58d26c91c25743c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/405/regulation/18) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

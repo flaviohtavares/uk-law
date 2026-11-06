@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Exemption from audit: dormant LLPs[^key-0d6132bd65c028acb0cb3aea6c13e646]
+## 23. Exemption from audit: dormant LLPs[^c-0d6132bd65c028acb0cb3aea6c13e646]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d6132bd65c028acb0cb3aea6c13e646]: Commencement: Reg. 23 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-0d6132bd65c028acb0cb3aea6c13e646]: Commencement: Reg. 23 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Compulsory acquisition of land[^key-22f1fc6b56f7e007b6001b1532353b47]
+## 17. Compulsory acquisition of land[^c-22f1fc6b56f7e007b6001b1532353b47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Part, the undertaker may acquire compulsorily 
 
 ## Annotations
 
-[^key-22f1fc6b56f7e007b6001b1532353b47]: Commencement: Art. 17 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-22f1fc6b56f7e007b6001b1532353b47]: Commencement: Art. 17 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

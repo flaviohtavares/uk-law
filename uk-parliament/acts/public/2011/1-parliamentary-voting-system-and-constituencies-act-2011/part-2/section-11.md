@@ -165,7 +165,7 @@ summary: ''
 >
 > (7) A reference in rule 6 to an area is to the area as it existed on the coming into force of Part 2 of the Parliamentary Voting System and Constituencies Act 2011.
 
-(2)[^key-93f3e4e8ed531469daa9a6d4ac0d6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-93f3e4e8ed531469daa9a6d4ac0d6e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Part 4 of Schedule 1 to the House of Commons Disqualification Act 1975 (offices disqualifying for particular constituencies)—
 
@@ -178,4 +178,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f3e4e8ed531469daa9a6d4ac0d6e0b]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/11/2) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 9(c)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/9/c) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-93f3e4e8ed531469daa9a6d4ac0d6e0b]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/11/2) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 9(c)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/9/c) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))

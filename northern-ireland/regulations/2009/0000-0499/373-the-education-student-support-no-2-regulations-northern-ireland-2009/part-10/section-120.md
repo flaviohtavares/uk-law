@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Payment of grants for books, travel and other expenditure and disabled distance learning students’ allowance[^key-67cb32281c5d00e5f54643fee2cce62e]
+## 120. Payment of grants for books, travel and other expenditure and disabled distance learning students’ allowance[^c-67cb32281c5d00e5f54643fee2cce62e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67cb32281c5d00e5f54643fee2cce62e]: Commencement: Reg. 120 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-67cb32281c5d00e5f54643fee2cce62e]: Commencement: Reg. 120 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. His Majesty’s Chief Inspector of Constabulary[^key-6b2ab12b5845d2d21159116213bac82f]
+## 24. His Majesty’s Chief Inspector of Constabulary[^c-6b2ab12b5845d2d21159116213bac82f]
 
 *Extent: E+W*
 
-(1)[^key-f0f463290a179523531859c3689e8674] Schedule 4A to the Police Act 1996 (further provision about inspectors of constabulary) is amended as follows.
+(1)[^c-f0f463290a179523531859c3689e8674] Schedule 4A to the Police Act 1996 (further provision about inspectors of constabulary) is amended as follows.
 
-(2)[^key-f0f463290a179523531859c3689e8674] In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
+(2)[^c-f0f463290a179523531859c3689e8674] In paragraph 2 (inspection programmes and frameworks), in sub-paragraph (2), omit the “and” at the end of paragraph (i) and insert—
 
 > - (ia) the Commissioner for Victims and Witnesses, and
 
 .
 
-(3)[^key-0c45155119e73fb5faa355bbffb3631a] In paragraph 5 (joint action), after sub-paragraph (6) insert—
+(3)[^c-0c45155119e73fb5faa355bbffb3631a] In paragraph 5 (joint action), after sub-paragraph (6) insert—
 
 > (7) The Secretary of State, the Lord Chancellor and the Attorney General may by a joint direction require a joint inspection programme to include provision for the inspection, at specified times, of specified matters relating to the experiences and treatment of victims.
 >
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6b2ab12b5845d2d21159116213bac82f]: Commencement: S. 24 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-6b2ab12b5845d2d21159116213bac82f]: Commencement: S. 24 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-f0f463290a179523531859c3689e8674]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/24/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/24/2) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/f)
+[^c-f0f463290a179523531859c3689e8674]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/24/1)[(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/24/2) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/f)
 
-[^key-0c45155119e73fb5faa355bbffb3631a]: Commencement: [S. 24(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/24/3) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/b)
+[^c-0c45155119e73fb5faa355bbffb3631a]: Commencement: [S. 24(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/24/3) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/b)

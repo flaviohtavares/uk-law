@@ -54,13 +54,13 @@ The Secretary of State has obtained the consent of the Treasury in accordance wi
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-55c8c51c628cf3ea649d8c59cd5ae150]
+### 1. Citation and commencement[^c-55c8c51c628cf3ea649d8c59cd5ae150]
 
 These Regulations may be cited as the Oil and Gas Authority (Levy and Fees) and Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2020 and come into force on 1st April 2020.
 
 ## PART 2 — The Oil and Gas Authority Levy
 
-### 2. Interpretation[^key-34a8066509084c8c3a1bcd3dd0f27235]
+### 2. Interpretation[^c-34a8066509084c8c3a1bcd3dd0f27235]
 
 In this Part—
 
@@ -83,7 +83,7 @@ In this Part—
 - “**relevant time**” means 12.01a.m. on 1st April 2020; and
 - “**total amount of levy**” means the total amount of levy payable by licensees in accordance with regulations 3 and 4, being £29,648,000.
 
-### 3. Liability to pay production levy[^key-a24b5ee3719fb128bd3a0b47e27b7b43]
+### 3. Liability to pay production levy[^c-a24b5ee3719fb128bd3a0b47e27b7b43]
 
 (1) A licensee is liable to pay the production levy in respect of each offshore production licence which is held by the licensee at the relevant time and in respect of which the criterion at paragraph (2) is satisfied.
 
@@ -94,7 +94,7 @@ In this Part—
 
 (3) Where the licensee is more than one person, the liability under paragraph (1) is joint and several.
 
-### 4. Liability to pay non-production levy[^key-65e26fa4cc9e86816eebf0c5aa5004c6]
+### 4. Liability to pay non-production levy[^c-65e26fa4cc9e86816eebf0c5aa5004c6]
 
 (1) Subject to any discount to be applied in accordance with paragraphs (2) and (3), a licensee is liable to pay the non-production levy in respect of each of the following kinds of licence held by the licensee at the relevant time—
 
@@ -131,7 +131,7 @@ is liable to pay the non-production levy discounted by 90 per cent in respect of
   - (a) a “promote period” is specified, and
   - (b) a clause is included concerning the effect of the expiry of the promote period in relation to the continuation of that licence beyond that period.
 
-### 5. Calculation of production levy and non-production levy[^key-a89b105def0b5b57b5456f9999b3c2a0]
+### 5. Calculation of production levy and non-production levy[^c-a89b105def0b5b57b5456f9999b3c2a0]
 
 (1) The OGA must calculate the production levy in accordance with the formula—
 
@@ -149,7 +149,7 @@ is liable to pay the non-production levy discounted by 90 per cent in respect of
 - “N80” is the total number of licences in respect of which a licensee is liable to pay the non-production levy discounted by 80 per cent under regulation 4(2); and
 - “P” is the total number of offshore production licences in respect of which a licensee is liable to pay the production levy under regulation 3(1).
 
-### 6. Payment of the levy[^key-9e6e1e93e92a041ae282a62695c21374]
+### 6. Payment of the levy[^c-9e6e1e93e92a041ae282a62695c21374]
 
 Where a licensee is liable to pay a levy to the OGA in accordance with these Regulations, the OGA must notify the licensee in writing by 31st May 2020 as to—
 
@@ -158,7 +158,7 @@ Where a licensee is liable to pay a levy to the OGA in accordance with these Reg
 - (c) the date by which that amount is to be paid, being a date not less than 30 days after the date of the notification; and
 - (d) details of how the payment can be made.
 
-### 7. Interest payable on late payment of the levy[^key-b598b6c90c1111fdf6f982159ec8e4d9]
+### 7. Interest payable on late payment of the levy[^c-b598b6c90c1111fdf6f982159ec8e4d9]
 
 (1) Where any amount of levy is not paid in accordance with a payment notice, the licensee is liable to pay to the OGA interest calculated in accordance with paragraph (2) on the amount of the levy which remains unpaid.
 
@@ -171,11 +171,11 @@ Where a licensee is liable to pay a levy to the OGA in accordance with these Reg
 - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
 - (b) where an order under section 19 of the Bank of England Act 1998 [^c23984711] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
 
-### 8. Recovery of the levy[^key-044720b6005947110532b835cd9a569e]
+### 8. Recovery of the levy[^c-044720b6005947110532b835cd9a569e]
 
 Where any amount of levy is not paid in accordance with a payment notice, that unpaid amount, together with any interest due in accordance with regulation 7, is recoverable as a civil debt due to the OGA.
 
-### 9. Repayment or credit of the levy under these Regulations[^key-563cd6656037a093636ea0a5d291e818]
+### 9. Repayment or credit of the levy under these Regulations[^c-563cd6656037a093636ea0a5d291e818]
 
 (1) This regulation applies where the total amount of levy exceeds the leviable costs.
 
@@ -197,7 +197,7 @@ Where any amount of levy is not paid in accordance with a payment notice, that u
 
 ## PART 3 — The Oil and Gas Authority Fees
 
-### 10. Amendments to the Oil and Gas Authority (Fees) Regulations 2016[^key-5d70f5fa0dd426683ba38e941ff43f02]
+### 10. Amendments to the Oil and Gas Authority (Fees) Regulations 2016[^c-5d70f5fa0dd426683ba38e941ff43f02]
 
 (1) The Oil and Gas Authority (Fees) Regulations 2016 [^c23984721] are amended as follows.
 
@@ -253,25 +253,25 @@ Where any amount of levy is not paid in accordance with a payment notice, that u
 
 ## PART 4 — Pollution Prevention and Control – Fees
 
-### 11. Amendments to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-7e8a833e8b2e07b59d2a7bb77cbb077e]
+### 11. Amendments to the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^c-7e8a833e8b2e07b59d2a7bb77cbb077e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendments to the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-26504c4289db304f8dd69cfb6050e86d]
+### 12. Amendments to the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^c-26504c4289db304f8dd69cfb6050e86d]
 
 In the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 [^c23984741], in regulation 20A(2)—
 
 - (a) for “£183” substitute “ £190 ”;
 - (b) for “£98” substitute “ £101 ”.
 
-### 13. Amendments to the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015[^key-8f2fd0000776a038831ab33b0449d960]
+### 13. Amendments to the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015[^c-8f2fd0000776a038831ab33b0449d960]
 
 In the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015 [^c23984751], in regulation 13A(2)—
 
 - (a) for “£183” substitute “ £190 ”;
 - (b) for “£98” substitute “ £101 ”.
 
-### 14. Amendments to the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^key-7da62140161d6ef1e228f96c3a6f0fa0]
+### 14. Amendments to the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^c-7da62140161d6ef1e228f96c3a6f0fa0]
 
 In the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015 [^c23984761], in regulation 7(1)—
 
@@ -336,9 +336,9 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^c23984621]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56 is amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-55c8c51c628cf3ea649d8c59cd5ae150]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-55c8c51c628cf3ea649d8c59cd5ae150]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
-[^key-34a8066509084c8c3a1bcd3dd0f27235]: Commencement: Reg. 2 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-34a8066509084c8c3a1bcd3dd0f27235]: Commencement: Reg. 2 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984631]: Marginal citation: “OGA” is defined in section 1(4) of the Energy Act 2016 as the Oil and Gas Authority.
 
@@ -352,40 +352,40 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^c23984681]: Marginal citation: “Excluded licence” is defined by section 13(10) of the Energy Act 2016.
 
-[^key-a24b5ee3719fb128bd3a0b47e27b7b43]: Commencement: Reg. 3 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-a24b5ee3719fb128bd3a0b47e27b7b43]: Commencement: Reg. 3 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
-[^key-65e26fa4cc9e86816eebf0c5aa5004c6]: Commencement: Reg. 4 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-65e26fa4cc9e86816eebf0c5aa5004c6]: Commencement: Reg. 4 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984691]: Marginal citation: OJL 124, 20.5.2003, p36.
 
 [^c23984701]: Marginal citation: [S.I. 2008/225](https://www.legislation.gov.uk/uksi/2008/225). This instrument is amended by [S.I. 2009/3283](https://www.legislation.gov.uk/uksi/2009/3283), [S.I](https://www.legislation.gov.uk/uksi/2009/3283/section/I). 2016/912, [S.I. 2017/426](https://www.legislation.gov.uk/uksi/2017/426) and [S.I. 2017/855](https://www.legislation.gov.uk/uksi/2017/855).
 
-[^key-a89b105def0b5b57b5456f9999b3c2a0]: Commencement: Reg. 5 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-a89b105def0b5b57b5456f9999b3c2a0]: Commencement: Reg. 5 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
-[^key-9e6e1e93e92a041ae282a62695c21374]: Commencement: Reg. 6 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-9e6e1e93e92a041ae282a62695c21374]: Commencement: Reg. 6 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
-[^key-b598b6c90c1111fdf6f982159ec8e4d9]: Commencement: Reg. 7 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-b598b6c90c1111fdf6f982159ec8e4d9]: Commencement: Reg. 7 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984711]: Marginal citation: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-044720b6005947110532b835cd9a569e]: Commencement: Reg. 8 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-044720b6005947110532b835cd9a569e]: Commencement: Reg. 8 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
-[^key-563cd6656037a093636ea0a5d291e818]: Commencement: Reg. 9 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-563cd6656037a093636ea0a5d291e818]: Commencement: Reg. 9 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
-[^key-5d70f5fa0dd426683ba38e941ff43f02]: Commencement: Reg. 10 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-5d70f5fa0dd426683ba38e941ff43f02]: Commencement: Reg. 10 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984721]: Marginal citation: [S.I. 2016/904](https://www.legislation.gov.uk/uksi/2016/904) This instrument is amended by [S.I. 2017/426](https://www.legislation.gov.uk/uksi/2017/426). [S.I. 2018/56](https://www.legislation.gov.uk/uksi/2018/56) and [S.I. 2018/980](https://www.legislation.gov.uk/uksi/2018/980).
 
-[^key-7e8a833e8b2e07b59d2a7bb77cbb077e]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/208/regulation/11) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/f) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-7e8a833e8b2e07b59d2a7bb77cbb077e]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/208/regulation/11) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(f)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/f) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
-[^key-26504c4289db304f8dd69cfb6050e86d]: Commencement: Reg. 12 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-26504c4289db304f8dd69cfb6050e86d]: Commencement: Reg. 12 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984741]: Marginal citation: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754). Regulation 20A is inserted by [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431) and amended by [S.I. 2016/529](https://www.legislation.gov.uk/uksi/2016/529), [S.I](https://www.legislation.gov.uk/uksi/2016/529/section/I). 2016/1042 and [S.I. 2019/439](https://www.legislation.gov.uk/uksi/2019/439).
 
-[^key-8f2fd0000776a038831ab33b0449d960]: Commencement: Reg. 13 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-8f2fd0000776a038831ab33b0449d960]: Commencement: Reg. 13 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984751]: Marginal citation: [S.I. 2015/385](https://www.legislation.gov.uk/uksi/2015/385). Regulation 13A is inserted by [S.I. 2017/404](https://www.legislation.gov.uk/uksi/2017/404) and amended by [S.I. 2019/439](https://www.legislation.gov.uk/uksi/2019/439).
 
-[^key-7da62140161d6ef1e228f96c3a6f0fa0]: Commencement: Reg. 14 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
+[^c-7da62140161d6ef1e228f96c3a6f0fa0]: Commencement: Reg. 14 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/208/regulation/1)
 
 [^c23984761]: Marginal citation: [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431). This instrument is amended by [S.I. 2016/529](https://www.legislation.gov.uk/uksi/2016/529), [S.I](https://www.legislation.gov.uk/uksi/2016/529/section/I). 2016/1042, [S.I. 2017/404](https://www.legislation.gov.uk/uksi/2017/404), [S.I](https://www.legislation.gov.uk/uksi/2017/404/section/I). 2018/311 and [S.I. 2019/439](https://www.legislation.gov.uk/uksi/2019/439).

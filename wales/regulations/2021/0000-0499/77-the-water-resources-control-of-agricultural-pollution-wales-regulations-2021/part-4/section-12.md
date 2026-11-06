@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. When to spread fertiliser[^key-48a51814951720fbdeeac9dad7748b05]
+## 12. When to spread fertiliser[^c-48a51814951720fbdeeac9dad7748b05]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48a51814951720fbdeeac9dad7748b05]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/77/regulation/12) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-48a51814951720fbdeeac9dad7748b05]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/77/regulation/12) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

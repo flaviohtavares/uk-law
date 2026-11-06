@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Alignment of definition of “tobacco product”[^key-2dd9833f2ec1ec8f840f6a20f14c17fd]
+## 67. Alignment of definition of “tobacco product”[^c-2dd9833f2ec1ec8f840f6a20f14c17fd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In the Tobacco and Primary Medical Services (Scotland) Act [2010 (asp 3)](https:
 
 ## Annotations
 
-[^key-2dd9833f2ec1ec8f840f6a20f14c17fd]: Commencement: S. 67 in force at Royal Assent, see [s. 175(6)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/6)
+[^c-2dd9833f2ec1ec8f840f6a20f14c17fd]: Commencement: S. 67 in force at Royal Assent, see [s. 175(6)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/6)

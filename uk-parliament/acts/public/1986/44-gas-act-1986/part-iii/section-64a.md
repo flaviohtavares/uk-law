@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Extraterritorial operation of Act[^key-5472d3ec41c56c8c90405efc8ef89dd1]
+## 64A. Extraterritorial operation of Act[^c-5472d3ec41c56c8c90405efc8ef89dd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5472d3ec41c56c8c90405efc8ef89dd1]: Textual amendment: S. 64A inserted (14.8.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 153](https://www.legislation.gov.uk/ukpga/2004/20/section/153), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
+[^c-5472d3ec41c56c8c90405efc8ef89dd1]: Textual amendment: S. 64A inserted (14.8.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 153](https://www.legislation.gov.uk/ukpga/2004/20/section/153), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)

@@ -26,7 +26,7 @@ Section 36
 
 **1.** ICTA is amended as follows.
 
-**2.**[^key-18d81854a905350abad21c28598c0332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-18d81854a905350abad21c28598c0332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Omit sections 539 to 551A (corporation tax in respect of gains arising in connection with life policies etc).
 
@@ -157,4 +157,4 @@ Section 36
 
 ## Annotations
 
-[^key-18d81854a905350abad21c28598c0332]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(q)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/q/i)
+[^c-18d81854a905350abad21c28598c0332]: Textual amendment: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(q)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/q/i)

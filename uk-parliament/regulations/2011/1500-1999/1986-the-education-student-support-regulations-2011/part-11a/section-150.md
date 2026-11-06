@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Information[^key-9753772f84013983d28350ff3d1e0e57]
+## 150. Information[^c-9753772f84013983d28350ff3d1e0e57]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 deals with the provision of information.
 
 ## Annotations
 
-[^key-9753772f84013983d28350ff3d1e0e57]: Textual amendment: Pt. 11A heading and ss. 140A, 140B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2018/472/regulation/16)
+[^c-9753772f84013983d28350ff3d1e0e57]: Textual amendment: Pt. 11A heading and ss. 140A, 140B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2018/472/regulation/16)

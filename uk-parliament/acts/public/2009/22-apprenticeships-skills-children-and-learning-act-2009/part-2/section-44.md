@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Power to require provision of education by further education institution[^key-57d8ca9b38c7d7dde048b34b027abe76]
+## 44. Power to require provision of education by further education institution[^c-57d8ca9b38c7d7dde048b34b027abe76]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 >
 > (1) This section applies to an institution in England within the further education sector which provides education suitable to the requirements of persons over compulsory school age but under the age of 19.
 >
-> (2) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] may by notice given to the governing body of such an institution—
+> (2) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] may by notice given to the governing body of such an institution—
 >
 > - (a) require them to provide specified individuals with such education falling within subsection (1) as is appropriate to the individuals' abilities and aptitudes;
 > - (b) withdraw such a requirement.
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57d8ca9b38c7d7dde048b34b027abe76]: Commencement: S. 44 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-57d8ca9b38c7d7dde048b34b027abe76]: Commencement: S. 44 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

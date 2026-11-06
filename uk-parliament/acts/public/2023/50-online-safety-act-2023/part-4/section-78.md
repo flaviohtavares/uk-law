@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. OFCOM’s guidance about transparency reports[^key-41a150591f054b9b910f04415b0fdac0][^key-2c3abb897873c6a28aaed936f21e8d8f]
+## 78. OFCOM’s guidance about transparency reports[^c-41a150591f054b9b910f04415b0fdac0][^c-2c3abb897873c6a28aaed936f21e8d8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (d) persons whom OFCOM consider to have expertise in equality issues and human rights, in particular—
   - (i) the right to freedom of expression set out in Article 10 of the Convention, and
   - (ii) the right to respect for a person’s private and family life, home and correspondence set out in Article 8 of the Convention,
-- (e) the Information Commission[^key-b47486116bc456ca3f41d74370bb7e06],
+- (e) the Information Commission[^c-b47486116bc456ca3f41d74370bb7e06],
 - (f) persons who appear to OFCOM to represent the interests of those with protected characteristics (within the meaning of Part 2 of the Equality Act 2010), and
 - (g) persons whom OFCOM consider to have expertise in the enforcement of the criminal law and the protection of national security that is relevant to online safety matters,
 
@@ -50,8 +50,8 @@ and OFCOM must also consult such other persons as OFCOM consider appropriate.
 
 ## Annotations
 
-[^key-41a150591f054b9b910f04415b0fdac0]: Commencement: S. 78 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-41a150591f054b9b910f04415b0fdac0]: Commencement: S. 78 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2c3abb897873c6a28aaed936f21e8d8f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/50/section/78) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/x)
+[^c-2c3abb897873c6a28aaed936f21e8d8f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/50/section/78) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/x)
 
-[^key-b47486116bc456ca3f41d74370bb7e06]: Textual amendment: Words in [s. 78(2)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/78/2/e) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-b47486116bc456ca3f41d74370bb7e06]: Textual amendment: Words in [s. 78(2)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/78/2/e) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

@@ -31,7 +31,7 @@ In this Chapter—
 - PSV operators’ licence means a licence granted under the provisions of Part II of the [^c12803271]Public Passenger Vehicles Act 1981,
 - stopping place means, in relation to any service or part of a service, a point at which passengers are (or, in the case of a proposed service, are proposed to be) taken up or set down in the course of that service or part,
 - traffic area means a traffic area constituted for the purposes of the [^c12803281]Public Passenger Vehicles Act 1981,
-- [^key-bf1656ee9d3b80409ddf06a36f85145e]...
+- [^c-bf1656ee9d3b80409ddf06a36f85145e]...
 
 ## Annotations
 
@@ -39,4 +39,4 @@ In this Chapter—
 
 [^c12803281]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-bf1656ee9d3b80409ddf06a36f85145e]: Textual amendment: Words in s. 195 omitted (E.W.) (3.7.2013) by virtue of [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-bf1656ee9d3b80409ddf06a36f85145e]: Textual amendment: Words in s. 195 omitted (E.W.) (3.7.2013) by virtue of [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

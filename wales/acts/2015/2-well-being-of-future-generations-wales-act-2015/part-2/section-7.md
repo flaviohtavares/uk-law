@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Statements about well-being objectives[^key-744abe578101310232719bed085cccff]
+## 7. Statements about well-being objectives[^c-744abe578101310232719bed085cccff]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-744abe578101310232719bed085cccff]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2015/2/section/7) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-744abe578101310232719bed085cccff]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2015/2/section/7) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

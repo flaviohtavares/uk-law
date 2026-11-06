@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Omission of regulation 57[^key-85fec858450d8b48beaea8ac95c3e525]
+## 39. Omission of regulation 57[^c-85fec858450d8b48beaea8ac95c3e525]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit regulation 57.
 
 ## Annotations
 
-[^key-85fec858450d8b48beaea8ac95c3e525]: Commencement: Reg. 39 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-85fec858450d8b48beaea8ac95c3e525]: Commencement: Reg. 39 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

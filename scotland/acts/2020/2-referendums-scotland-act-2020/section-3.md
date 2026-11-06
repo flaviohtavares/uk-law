@@ -22,7 +22,7 @@ summary: ''
 
 (1) The date of a referendum must not be the same as the date on which any other election or poll is scheduled to be held throughout Scotland.
 
-(2) If the date of a referendum is the same as the date of a UK parliamentary general[^key-b1b5b54a49771fc2ac1c7f7a44505888] election, the Presiding Officer may appoint a later date on which the poll at that referendum is to be held.
+(2) If the date of a referendum is the same as the date of a UK parliamentary general[^c-b1b5b54a49771fc2ac1c7f7a44505888] election, the Presiding Officer may appoint a later date on which the poll at that referendum is to be held.
 
 (3) The date appointed under subsection (2) may not be more than 6 weeks later.
 
@@ -35,10 +35,10 @@ summary: ''
 (7) In this section—
 
 - “**date of a referendum**” means the date on which the poll at a referendum is to be held in pursuance of provision made by or under an Act of the Scottish Parliament,
-- [^key-0fe748f9ee61311e2b48db8b0e7be1c4]...
+- [^c-0fe748f9ee61311e2b48db8b0e7be1c4]...
 
 ## Annotations
 
-[^key-b1b5b54a49771fc2ac1c7f7a44505888]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/asp/2020/2/section/3/2) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 33(a)](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/33/a)
+[^c-b1b5b54a49771fc2ac1c7f7a44505888]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/asp/2020/2/section/3/2) inserted (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 33(a)](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/33/a)
 
-[^key-0fe748f9ee61311e2b48db8b0e7be1c4]: Textual amendment: Words in [s. 3(7)](https://www.legislation.gov.uk/asp/2020/2/section/3/7) omitted (24.3.2022) by virtue of [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 33(b)](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/33/b)
+[^c-0fe748f9ee61311e2b48db8b0e7be1c4]: Textual amendment: Words in [s. 3(7)](https://www.legislation.gov.uk/asp/2020/2/section/3/7) omitted (24.3.2022) by virtue of [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 33(b)](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/33/b)

@@ -35,18 +35,18 @@ amending Regulation (EU) No 806/2014 as regards the loss-absorbing and recapital
 
 (Text with EEA relevance) (revoked)
 
-[^key-e2617195c2ce634fdbaa62ee6b095689]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2617195c2ce634fdbaa62ee6b095689]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EU) No 806/2014[^key-e2617195c2ce634fdbaa62ee6b095689]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-e2617195c2ce634fdbaa62ee6b095689]
+## Article 1. Amendments to Regulation (EU) No 806/2014[^c-e2617195c2ce634fdbaa62ee6b095689]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2617195c2ce634fdbaa62ee6b095689]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-e2617195c2ce634fdbaa62ee6b095689]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e2617195c2ce634fdbaa62ee6b095689]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2617195c2ce634fdbaa62ee6b095689]: Textual amendment: Regulation revoked (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [76](https://www.legislation.gov.uk/uksi/2020/1385/regulation/76)
+[^c-e2617195c2ce634fdbaa62ee6b095689]: Textual amendment: Regulation revoked (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [76](https://www.legislation.gov.uk/uksi/2020/1385/regulation/76)

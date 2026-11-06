@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4A. National Parks with National Park authorities.[^key-efe947e4aaedba44404fd637bcd4a574][^c14015941]
+## 4A. National Parks with National Park authorities.[^c-efe947e4aaedba44404fd637bcd4a574][^c14015941]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ shall be treated, in relation to those other areas, as conferred on each of thos
 
 ## Annotations
 
-[^key-efe947e4aaedba44404fd637bcd4a574]: Modification: S. 4A applied (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [arts. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [3](https://www.legislation.gov.uk/uksi/2015/770/article/3)
+[^c-efe947e4aaedba44404fd637bcd4a574]: Modification: S. 4A applied (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [arts. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [3](https://www.legislation.gov.uk/uksi/2015/770/article/3)
 
 [^c14015941]: Textual amendment: S. 4A inserted (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 67(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/67/1), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 

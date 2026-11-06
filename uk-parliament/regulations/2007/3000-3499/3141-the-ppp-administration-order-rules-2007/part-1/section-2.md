@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Construction and interpretation[^key-29d2ca32762b62f8a58aad6846a1b8d8]
+## 2. Construction and interpretation[^c-29d2ca32762b62f8a58aad6846a1b8d8]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-29d2ca32762b62f8a58aad6846a1b8d8]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2007/3141/rule/2) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-29d2ca32762b62f8a58aad6846a1b8d8]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2007/3141/rule/2) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00004]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 428. Prescribed investments[^key-20b90fe7e087fb7f1c41d4b8ab9af4b0]
+## 428. Prescribed investments[^c-20b90fe7e087fb7f1c41d4b8ab9af4b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20b90fe7e087fb7f1c41d4b8ab9af4b0]: Commencement: Art. 428 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-20b90fe7e087fb7f1c41d4b8ab9af4b0]: Commencement: Art. 428 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00299]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

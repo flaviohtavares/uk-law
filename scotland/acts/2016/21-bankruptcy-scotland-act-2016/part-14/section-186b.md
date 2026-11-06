@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 186B. Modification of this Part where Accountant in Bankruptcy becomes trustee in a protected trust deed[^key-e44edfbc6e8d05bcd2fb4f0279140343]
+## 186B. Modification of this Part where Accountant in Bankruptcy becomes trustee in a protected trust deed[^c-e44edfbc6e8d05bcd2fb4f0279140343]
 
 *Extent: S*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e44edfbc6e8d05bcd2fb4f0279140343]: Textual amendment: [Ss. 186A](https://www.legislation.gov.uk/asp/2016/21/section/186A), [186B](https://www.legislation.gov.uk/asp/2016/21/section/186B) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2024/198/regulation/6)
+[^c-e44edfbc6e8d05bcd2fb4f0279140343]: Textual amendment: [Ss. 186A](https://www.legislation.gov.uk/asp/2016/21/section/186A), [186B](https://www.legislation.gov.uk/asp/2016/21/section/186B) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2024/198/regulation/6)

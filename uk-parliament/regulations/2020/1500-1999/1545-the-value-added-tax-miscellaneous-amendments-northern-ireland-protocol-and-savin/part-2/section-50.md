@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50.[^key-84e1349ecbc1c9f119d48945fa481b84]
+## 50.[^c-84e1349ecbc1c9f119d48945fa481b84]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 40(1) [^c24395191] (VAT to be accounted for on returns and payment
 
 ## Annotations
 
-[^key-84e1349ecbc1c9f119d48945fa481b84]: Commencement: Reg. 50 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-84e1349ecbc1c9f119d48945fa481b84]: Commencement: Reg. 50 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395191]: Marginal citation: Regulation 40 was substituted by [S.I. 1996/1250](https://www.legislation.gov.uk/uksi/1996/1250). It is amended by [S.I. 2000/258](https://www.legislation.gov.uk/uksi/2000/258), 2004/1675, 2007/1418, 2009/2978, 2018/261 and 2019/60. The last-named instrument is not yet in force and the amendment that it makes is partly omitted by this instrument.

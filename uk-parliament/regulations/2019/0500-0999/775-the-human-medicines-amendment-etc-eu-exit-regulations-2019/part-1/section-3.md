@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016[^key-02123492d1bc767e02cd19d3cf801b1b]
+## 3. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2016[^c-02123492d1bc767e02cd19d3cf801b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 1 amends the Medicines (Products for Human Use) (Fees) Regulations 2016
 
 ## Annotations
 
-[^key-02123492d1bc767e02cd19d3cf801b1b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-02123492d1bc767e02cd19d3cf801b1b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884281]: Marginal citation: [S.I. 2016/190](https://www.legislation.gov.uk/uksi/2016/190).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Notice of application under section 176A(5) of the 1986 Act[^key-9a62210caf05b75ff80e5f8f42ac952e]
+## 99. Notice of application under section 176A(5) of the 1986 Act[^c-9a62210caf05b75ff80e5f8f42ac952e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under section 176A(5) of the 1986 Act may be made without the app
 
 ## Annotations
 
-[^key-9a62210caf05b75ff80e5f8f42ac952e]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2013/3208/rule/99) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9a62210caf05b75ff80e5f8f42ac952e]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2013/3208/rule/99) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

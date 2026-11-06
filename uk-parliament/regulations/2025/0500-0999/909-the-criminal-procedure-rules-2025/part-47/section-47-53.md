@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.53. Application for approval for authorisation ...[^key-10fa54e3d8575bd93a80c9bd2abfffbe][^key-240d6ac59ee1de60065d25f1e78ab668]
+## 47.53. Application for approval for authorisation ...[^c-10fa54e3d8575bd93a80c9bd2abfffbe][^c-240d6ac59ee1de60065d25f1e78ab668]
 
 *Extent: E+W*
 
-(1)[^key-a870179b2a975580a92949a7a7e00721] This rule applies where an applicant wants a magistrates’ court to make an order approving, under sections 32A and 32B of the Regulation of Investigatory Powers Act 2000, an authorisation for—
+(1)[^c-a870179b2a975580a92949a7a7e00721] This rule applies where an applicant wants a magistrates’ court to make an order approving, under sections 32A and 32B of the Regulation of Investigatory Powers Act 2000, an authorisation for—
 
 - (a) the carrying out of directed surveillance, under section 28 of the 2000 Act; or
 - (b) the conduct or use of a covert human intelligence source, under section 29 of the Act.
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) apply in writing and serve the application on the court officer;
 - (b) attach the authorisation or notice which the applicant wants the court to approve;
-- (c)[^key-0be0cbb46724ef8af3cd003842c150ad] attach such other material (if any) on which the applicant relies to satisfy the court—
+- (c)[^c-0be0cbb46724ef8af3cd003842c150ad] attach such other material (if any) on which the applicant relies to satisfy the court—
   - (i) as required by section 32A(3) and (4) of the 2000 Act, in relation to directed surveillance, or
   - (ii) as required by section 32A(5) and (6), and, if relevant, section 43(6A), of the Act, in relation to a covert human intelligence source; and
 - (d) propose the terms of the order.
@@ -39,9 +39,9 @@ summary: ''
 - (a) *exercise its powers in the parties’ absence; and*
 - (b) *consider an application made orally.*
 
-[^key-a25580bad96727416a2f9dcedc72c09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25580bad96727416a2f9dcedc72c09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a25580bad96727416a2f9dcedc72c09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25580bad96727416a2f9dcedc72c09f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Under section 32A(3) and (4) of the Regulation of Investigatory Powers Act 2000, on an application for an order approving an authorisation concerning directed surveillance (as defined in section 26 of the Act*[^f01261]*), the court must be satisfied that—*
 
@@ -68,22 +68,22 @@ summary: ''
 
 *The Regulation of Investigatory Powers (Directed Surveillance and Covert Human Intelligence Sources) Order 2010*[^f01262] *specifies the persons who are entitled to grant an authorisation concerning such surveillance or such a source, and for what purpose each may do so.*
 
-*Under section 32B(2)[^key-35cfd5bf190477182d0e2f27c82a56ba] of the 2000 Act, the applicant is not required to give notice of an application to any person to whom the authorisation or notice relates, or to such a person’s legal representatives.\]*
+*Under section 32B(2)[^c-35cfd5bf190477182d0e2f27c82a56ba] of the 2000 Act, the applicant is not required to give notice of an application to any person to whom the authorisation or notice relates, or to such a person’s legal representatives.\]*
 
 ## Annotations
 
-[^key-10fa54e3d8575bd93a80c9bd2abfffbe]: Commencement: Rule 47.53 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-10fa54e3d8575bd93a80c9bd2abfffbe]: Commencement: Rule 47.53 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-240d6ac59ee1de60065d25f1e78ab668]: Textual amendment: Words in rule 47.53 heading omitted (6.4.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/i)
+[^c-240d6ac59ee1de60065d25f1e78ab668]: Textual amendment: Words in rule 47.53 heading omitted (6.4.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/i)
 
-[^key-a870179b2a975580a92949a7a7e00721]: Textual amendment: Rule 47.53(1) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/ii)
+[^c-a870179b2a975580a92949a7a7e00721]: Textual amendment: Rule 47.53(1) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/ii)
 
-[^key-0be0cbb46724ef8af3cd003842c150ad]: Textual amendment: Rule 47.53(2)(c) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(iii)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/iii)
+[^c-0be0cbb46724ef8af3cd003842c150ad]: Textual amendment: Rule 47.53(2)(c) substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(iii)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/iii)
 
-[^key-a25580bad96727416a2f9dcedc72c09f]: Textual amendment: Words in rule 47.53 Note omitted (6.4.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(iv)(aa)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/iv/aa)
+[^c-a25580bad96727416a2f9dcedc72c09f]: Textual amendment: Words in rule 47.53 Note omitted (6.4.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(iv)(aa)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/iv/aa)
 
 [^f01261]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23); section 26 was amended by section 406 of, and paragraph 161 of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f01262]: Footnote: [S.I. 2010/521](https://www.legislation.gov.uk/uksi/2010/521).
 
-[^key-35cfd5bf190477182d0e2f27c82a56ba]: Textual amendment: Words in rule 47.53 Note substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(iv)(bb)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/iv/bb)
+[^c-35cfd5bf190477182d0e2f27c82a56ba]: Textual amendment: Words in rule 47.53 Note substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [10(c)(iv)(bb)](https://www.legislation.gov.uk/uksi/2026/47/rule/10/c/iv/bb)

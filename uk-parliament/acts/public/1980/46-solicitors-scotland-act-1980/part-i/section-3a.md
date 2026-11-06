@@ -38,14 +38,14 @@ summary: ''
 (5) Any arrangement made under this section shall not arrange for any of the following functions of the Council to be discharged by an individual—
 
 - (a) [^c20660171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^c20660031] that under section 47(2) of the 2007 Act of determining what action to propose, or take, as respects a conduct complaint remitted to them under section 6(2)(a)[^key-12dac7f452731d28555a3e4393b3d376] or 15(5)(a) of that Act;
+- (aa)[^c20660031] that under section 47(2) of the 2007 Act of determining what action to propose, or take, as respects a conduct complaint remitted to them under section 6(2)(a)[^c-12dac7f452731d28555a3e4393b3d376] or 15(5)(a) of that Act;
 - (ab) that under—
   - (i) section 42ZA(1) or (2) of this Act or section 20ZB(1) or (2) of the 1990 Act of determining whether or not to uphold a conduct complaint so remitted which suggests unsatisfactory professional conduct;
   - (ii) section 42ZA(3)(b) of this Act or section 20ZB(3)(b) of the 1990 Act of determining what steps to take when upholding such a conduct complaint;
 - (ac) that under section 51(1) of this Act of determining whether or not to make a complaint to the Tribunal as respects a conduct complaint so remitted which suggests professional misconduct;
 - (ad) [^c20660171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) that[^c22549741] under section 20(1) or (2) of the 1990 Act [^c22549751]. . . of determining—
-  - (i)[^key-8ead945cd980c045f4247f78eb54acbe] whether paragraph (a) or (d) of the said section 20(1) applies to the practitioner;
+  - (i)[^c-8ead945cd980c045f4247f78eb54acbe] whether paragraph (a) or (d) of the said section 20(1) applies to the practitioner;
   - (ii) what action to take in the matter.
 
 (6) An arrangement made under this section may identify an individual by name or by reference to an office or post which the individual holds.
@@ -65,7 +65,7 @@ summary: ''
 - (a) any function of the Council to make rules or regulations under this Act or any other enactment; and
 - (b) any function of the Council under paragraph 2 of Schedule 1 to prepare a scheme (scheme for the constitution of the Council etc. ).
 
-(11) This section is—[^key-e2b321bfb2e2a1ddebc44bd2f22b8ce3]
+(11) This section is—[^c-e2b321bfb2e2a1ddebc44bd2f22b8ce3]
 
 - (a) subject to sections 3B to 3G, and
 - (b) without prejudice to any other power which the Council may have to arrange for the discharge of their functions.
@@ -83,12 +83,12 @@ summary: ''
 
 [^c20660031]: Textual amendment: Words in [s. 3A(5)](https://www.legislation.gov.uk/ukpga/1980/46/section/3A/5) substituted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 81](https://www.legislation.gov.uk/asp/2007/5/section/81), [82](https://www.legislation.gov.uk/asp/2007/5/section/82), [Sch. 5 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/1/2/a/ii) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2](https://www.legislation.gov.uk/ssi/2008/311/article/2)
 
-[^key-12dac7f452731d28555a3e4393b3d376]: Textual amendment: Word in [s. 3A(5)(aa)](https://www.legislation.gov.uk/ukpga/1980/46/section/3A/5/aa) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-12dac7f452731d28555a3e4393b3d376]: Textual amendment: Word in [s. 3A(5)(aa)](https://www.legislation.gov.uk/ukpga/1980/46/section/3A/5/aa) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
 
 [^c22549741]: Textual amendment: Word in s. 3A(5)(b) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 81](https://www.legislation.gov.uk/asp/2007/5/section/81), [82](https://www.legislation.gov.uk/asp/2007/5/section/82), [Sch. 5 para. 1(2)(b)(i)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/1/2/b/i) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2](https://www.legislation.gov.uk/ssi/2008/311/article/2)
 
 [^c22549751]: Textual amendment: Words in s. 3A(5)(b) repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 81](https://www.legislation.gov.uk/asp/2007/5/section/81), [82](https://www.legislation.gov.uk/asp/2007/5/section/82), [Sch. 5 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/1/2/b/ii) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2](https://www.legislation.gov.uk/ssi/2008/311/article/2)
 
-[^key-8ead945cd980c045f4247f78eb54acbe]: Textual amendment: S. 3A(5)(b)(i) substituted (23.3.2011) by [The Legal Profession and Legal Aid (Scotland) Act 2007 (Modification and Consequential Provisions) Order 2011 (S.S.I. 2011/235)](https://www.legislation.gov.uk/ssi/2011/235), [arts. 2(1)](https://www.legislation.gov.uk/ssi/2011/235/article/2/1), [3(2)](https://www.legislation.gov.uk/ssi/2011/235/article/3/2)
+[^c-8ead945cd980c045f4247f78eb54acbe]: Textual amendment: S. 3A(5)(b)(i) substituted (23.3.2011) by [The Legal Profession and Legal Aid (Scotland) Act 2007 (Modification and Consequential Provisions) Order 2011 (S.S.I. 2011/235)](https://www.legislation.gov.uk/ssi/2011/235), [arts. 2(1)](https://www.legislation.gov.uk/ssi/2011/235/article/2/1), [3(2)](https://www.legislation.gov.uk/ssi/2011/235/article/3/2)
 
-[^key-e2b321bfb2e2a1ddebc44bd2f22b8ce3]: Textual amendment: Words in s. 3A(11) substituted (1.4.2011 for specified purposes, 1.6.2011 in so far as not already in force) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 133(1)](https://www.legislation.gov.uk/asp/2010/16/section/133/1), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [5(d)](https://www.legislation.gov.uk/ssi/2011/180/article/5/d),[Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-e2b321bfb2e2a1ddebc44bd2f22b8ce3]: Textual amendment: Words in s. 3A(11) substituted (1.4.2011 for specified purposes, 1.6.2011 in so far as not already in force) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 133(1)](https://www.legislation.gov.uk/asp/2010/16/section/133/1), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [5(d)](https://www.legislation.gov.uk/ssi/2011/180/article/5/d),[Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

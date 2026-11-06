@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Amendment of Council Regulation [(EC) 111/2005](https://www.legislation.gov.uk/eur/2005/111)[^key-a6e7ef8ae4f0bacc10929c8b29df3f43]
+## 14. Amendment of Council Regulation [(EC) 111/2005](https://www.legislation.gov.uk/eur/2005/111)[^c-a6e7ef8ae4f0bacc10929c8b29df3f43]
 
 *Extent: E+W+S+N.I.*
 
@@ -207,7 +207,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a6e7ef8ae4f0bacc10929c8b29df3f43]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a6e7ef8ae4f0bacc10929c8b29df3f43]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691101]: Marginal citation: [S.I.2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 

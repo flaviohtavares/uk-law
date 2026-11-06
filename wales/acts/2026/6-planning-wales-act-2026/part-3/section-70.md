@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Power to refuse to consider similar applications[^key-dd00825eb8c8578c62fa54f9c3bf7307]
+## 70. Power to refuse to consider similar applications[^c-dd00825eb8c8578c62fa54f9c3bf7307]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd00825eb8c8578c62fa54f9c3bf7307]: Commencement: S. 70 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-dd00825eb8c8578c62fa54f9c3bf7307]: Commencement: S. 70 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

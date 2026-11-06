@@ -32,7 +32,7 @@ summary: ''
 
 Landfill Tax
 
-The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2025 (revoked)[^key-a2606d78c703a7edc6901465582b68bd]
+The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2025 (revoked)[^c-a2606d78c703a7edc6901465582b68bd]
 
 Approved by the Scottish Parliament
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st April 2025
 
-[^key-a2606d78c703a7edc6901465582b68bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2606d78c703a7edc6901465582b68bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-a2606d78c703a7edc6901465582b68bd]
+## 1. Citation, commencement and application[^c-a2606d78c703a7edc6901465582b68bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rates of Scottish landfill tax[^key-a2606d78c703a7edc6901465582b68bd]
+## 2. Rates of Scottish landfill tax[^c-a2606d78c703a7edc6901465582b68bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a2606d78c703a7edc6901465582b68bd]
+## 3. Revocation[^c-a2606d78c703a7edc6901465582b68bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2606d78c703a7edc6901465582b68bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2606d78c703a7edc6901465582b68bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a2606d78c703a7edc6901465582b68bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2606d78c703a7edc6901465582b68bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2606d78c703a7edc6901465582b68bd]: Textual amendment: Order revoked (in relation to taxable disposals made, or treated as made, on or after 1.4.2026) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2026 (S.S.I. 2026/97)](https://www.legislation.gov.uk/ssi/2026/97), [arts. 1](https://www.legislation.gov.uk/ssi/2026/97/article/1), [3](https://www.legislation.gov.uk/ssi/2026/97/article/3)
+[^c-a2606d78c703a7edc6901465582b68bd]: Textual amendment: Order revoked (in relation to taxable disposals made, or treated as made, on or after 1.4.2026) by [The Scottish Landfill Tax (Standard Rate and Lower Rate) Order 2026 (S.S.I. 2026/97)](https://www.legislation.gov.uk/ssi/2026/97), [arts. 1](https://www.legislation.gov.uk/ssi/2026/97/article/1), [3](https://www.legislation.gov.uk/ssi/2026/97/article/3)

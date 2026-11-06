@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Provisions supplementary to ss. 2 and 3.[^c13544411][^c16323951][^key-725ea49afe373d9ff82c67da483b7e4f]
+## 4. Provisions supplementary to ss. 2 and 3.[^c13544411][^c16323951][^c-725ea49afe373d9ff82c67da483b7e4f]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
     S. 4 functions made exercisable concurrently (S) (7.11.2006) by The Transfer of Functions to the South West of Scotland Transport Partnership Order 2006 (S.S.I 2006/538), art. 4, {Sch. 2}
 
-[^key-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
+[^c-725ea49afe373d9ff82c67da483b7e4f]: Modification: Pt. 1 applied (E.W.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/ukpga/1991/22/article/1/2), [17(3)](https://www.legislation.gov.uk/ukpga/1991/22/article/17/3)
 
 [^c13544421]: Textual amendment: Words in s. 4(3) repealed (13.9.1996) by [S.I. 1996/1553](https://www.legislation.gov.uk/uksi/1996/1553), [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/1553/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1996/1553/schedule)

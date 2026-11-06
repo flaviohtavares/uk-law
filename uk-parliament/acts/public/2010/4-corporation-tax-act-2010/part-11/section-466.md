@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Part makes provision about some gifts and payments made to charitable companies, including provision applying the charge to corporation tax on income and conferring exemptions (see sections 471 to 474A[^key-711c31e8f82433c1d9c620a3a5952035]).
+(1) This Part makes provision about some gifts and payments made to charitable companies, including provision applying the charge to corporation tax on income and conferring exemptions (see sections 471 to 474A[^c-711c31e8f82433c1d9c620a3a5952035]).
 
 (2) This Part also provides for some of the income of charitable companies and others to be exempt from corporation tax (see sections 475 to 477 and Chapter 3).
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711c31e8f82433c1d9c620a3a5952035]: Textual amendment: Word in [s. 466(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/466/1) substituted (with effect in accordance with s. 54(10) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/7)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)
+[^c-711c31e8f82433c1d9c620a3a5952035]: Textual amendment: Word in [s. 466(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/466/1) substituted (with effect in accordance with s. 54(10) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/7)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)

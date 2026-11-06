@@ -124,7 +124,7 @@ Section 278
   - (i) [^c19248851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) [^c19248851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the words “or under the Competition Act 1980” shall cease to have effect;
-- (b)[^key-ce2af64a78b0800fcb6427d8398db78e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ce2af64a78b0800fcb6427d8398db78e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Consumer Credit Act 1974 (c. 39)
 
@@ -321,7 +321,7 @@ and in the heading before that section, for “DIRECTOR GENERAL OF FAIR TRADING�
 
 (40) In Schedule 1 (prosecution and punishment of offences), in the entry relating to section 7, for “Director” there is substituted “ OFT ”.
 
-### 7. Restrictive Practices Court Act 1976 (c. 33)[^key-e2782efd209b1920cc1fe06b6b77918f]
+### 7. Restrictive Practices Court Act 1976 (c. 33)[^c-e2782efd209b1920cc1fe06b6b77918f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -397,11 +397,11 @@ and in the cross-heading before that section, for “*Director General of Fair T
 (8) In section 9 (information for the Director)—
 
 - (a) for “Director” (in each place) there is substituted “ OFT ”;
-- (b)[^key-aa09e433d640e064f394fd8a018121f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aa09e433d640e064f394fd8a018121f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In—
 
-- (a)[^key-584affddea6db4f1a414a794a338a638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-584affddea6db4f1a414a794a338a638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 13 (clients’ money held on trust or as agent), and
 - (c) section 15 (interest on clients’ money),
 
@@ -938,7 +938,7 @@ for “Director” (in each place) there is substituted “ OFT ”.
   ;
 - (b) subsections (12) and (13) shall cease to have effect.
 
-(7)[^key-3d826aeda48531626dc86a6ba7c7bb10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3d826aeda48531626dc86a6ba7c7bb10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 34 (general functions), in subsection (4)—
 
@@ -1028,11 +1028,11 @@ for “Director” (in each place) there is substituted “ OFT ”.
 
 (14) In section 62 (exclusion of certain agreements from Restrictive Trade Practices Act 1976), for “the Director General of Fair Trading” (in both places) there is substituted “ the Office of Fair Trading ”.
 
-### 16. Consumer Protection Act 1987 (c. 43)[^key-856bdc8169709eb5cff3af2fdeb1199f]
+### 16. Consumer Protection Act 1987 (c. 43)[^c-856bdc8169709eb5cff3af2fdeb1199f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987/2049 (N.I. 20))[^key-dd8e89177568317ce7155344bb8610a6]
+### 17. Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987/2049 (N.I. 20))[^c-dd8e89177568317ce7155344bb8610a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1232,7 +1232,7 @@ for “Director” (in each place) there is substituted “ OFT ”.
 - (c) in subsection (3A), for “the Director General of Fair Trading” there is substituted “ the Office of Fair Trading ”;
 - (d) in subsection (6), for “the Director General of Fair Trading” there is substituted “ the Office of Fair Trading ”.
 
-(8)[^key-19be809ada8f2cc0e28afdbab8dfe212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-19be809ada8f2cc0e28afdbab8dfe212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In section 47 (general functions), in subsection (3)—
 
@@ -1384,15 +1384,15 @@ for “Director” (in each place) there is substituted “ OFT ”.
 
 (1) The Courts and Legal Services Act 1990 is amended as follows.
 
-(2)[^key-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 105 (tying-in arrangements: supplemental provisions), in subsection (10), for “Director” there is substituted “ OFT ”.
 
@@ -1410,7 +1410,7 @@ for “Director” (in each place) there is substituted “ OFT ”.
 
   .
 
-(10)[^key-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-b494a19875a097a48aad3e0b1c5b7666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Broadcasting Act 1990 (c. 42)[^c18981461]
 
@@ -2056,13 +2056,13 @@ for “Director” (in each place) there is substituted “ OFT ”.
 
 (2) In Article 35 (supplementary provisions relating to references to the Commission), paragraphs (3) and (3A) shall cease to have effect.
 
-(3)[^key-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4a0e50f9fd405c0013332de917fc3523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 34. Broadcasting Act 1996 (c. 55)
 
@@ -2478,13 +2478,13 @@ and in the cross-heading before that section, for “*Director*” there is subs
 
 (1) The Financial Services and Markets Act 2000 is amended as follows.
 
-(2)[^key-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6aa0a5144ecac733c3215c50c2221243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 194 (general grounds on which power of intervention is exercisable), in subsection (3), for “the Director General of Fair Trading” there is substituted “ the Office of Fair Trading ”.
 
@@ -2502,17 +2502,17 @@ and in the cross-heading before that section, for “*Director General of Fair T
 
 (9) In section 295 (notification), for “Director” there is substituted “ OFT ”.
 
-(10)[^key-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-3866d99fcce9021be8e0ce5576a1fd26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) In section 399 (misleading the Director General of Fair Trading)—
 
@@ -2593,7 +2593,7 @@ and in the cross-heading before that section, for “*Director General of Fair T
 
 .
 
-### 42. Postal Services Act 2000 (c. 26)[^key-ebee710f22ee76fd85084ba83bc28d29]
+### 42. Postal Services Act 2000 (c. 26)[^c-ebee710f22ee76fd85084ba83bc28d29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2780,9 +2780,9 @@ and in the cross-heading before that section, for “*Director General of Fair T
 (12) In Schedule 10 (competition test for exercise of bus functions)—
 
 - (a) for “Director” (in each place) there is substituted “ OFT ”;
-- (b)[^key-25485446ec4e5cab779c68221ecb8b7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-25485446ec4e5cab779c68221ecb8b7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-972b421165be3354b0d81b803747cc82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-25485446ec4e5cab779c68221ecb8b7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-25485446ec4e5cab779c68221ecb8b7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-972b421165be3354b0d81b803747cc82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph 5, for “he” there is substituted “ it ”;
 - (f) in paragraph 6(1), for “him” (in each place) and “he” there is substituted “ it ” and “ the OFT ” respectively;
 - (g) in paragraph 9, for “he” there is substituted “ the OFT ”;
@@ -2804,17 +2804,17 @@ and in the cross-heading before that section, for “*Director General of Fair T
 
 [^c19248851]: Textual amendment: Sch. 25 para. 5(4)(a)(i)(ii) repealed (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [art. 2](https://www.legislation.gov.uk/uksi/2003/3180/article/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/7/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/3180/article/3))
 
-[^key-ce2af64a78b0800fcb6427d8398db78e]: Textual amendment: [Sch. 25 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/5/4/b) repealed (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/b)
+[^c-ce2af64a78b0800fcb6427d8398db78e]: Textual amendment: [Sch. 25 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/5/4/b) repealed (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2013/589/article/5/1/b)
 
 [^c19252971]: Textual amendment: [Sch. 25 para. 6(18)(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/6/18/b) repealed (6.4.2008) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), [ss. 70](https://www.legislation.gov.uk/ukpga/2006/14/section/70), [71](https://www.legislation.gov.uk/ukpga/2006/14/section/71), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) (with [Sch. 3 para. 27(3)](https://www.legislation.gov.uk/ukpga/2006/14/schedule/3/paragraph/27/3)); [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
 
-[^key-e2782efd209b1920cc1fe06b6b77918f]: Textual amendment: Sch. 25 para. 7 repealed (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
+[^c-e2782efd209b1920cc1fe06b6b77918f]: Textual amendment: Sch. 25 para. 7 repealed (10.3.2013) by [The Competition Act 1998 (Consequential Provisions) Order 2013 (S.I. 2013/294)](https://www.legislation.gov.uk/uksi/2013/294), [arts. 1](https://www.legislation.gov.uk/uksi/2013/294/article/1), [2](https://www.legislation.gov.uk/uksi/2013/294/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/294/schedule)
 
 [^c18979851]: Commencement: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/8) partly in force; [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/8) not in force at Royal Assent see [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [Sch. 25 para. 8(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/8/1) in force for certain purposes and Sch. 25 para. 8(2)(4) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule), [Sch. 25 para. 8(1)(3)](https://www.legislation.gov.uk/uksi/2003/1397/schedule/25/paragraph/8/1/3) in force for certain further purposes at 29.12.2004 by [S.I. 2004/3233](https://www.legislation.gov.uk/uksi/2004/3233), [art. 2](https://www.legislation.gov.uk/uksi/2004/3233/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3233/schedule)
 
-[^key-aa09e433d640e064f394fd8a018121f7]: Textual amendment: [Sch. 25 para. 9(8)(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/9/8/b) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-aa09e433d640e064f394fd8a018121f7]: Textual amendment: [Sch. 25 para. 9(8)(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/9/8/b) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-584affddea6db4f1a414a794a338a638]: Textual amendment: [Sch. 25 para. 9(9)(a)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/9/9/a) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-584affddea6db4f1a414a794a338a638]: Textual amendment: [Sch. 25 para. 9(9)(a)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/9/9/a) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c18980761]: Commencement: [Sch. 25 para. 13](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/13) wholly in force at 20.6.2003; [Sch. 25 para. 13](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/13) not in force at Royal Assent see [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [Sch. 25 para. 13(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/13/1) in force for certain purposes and Sch. 25 para. 13(2)(6)(8)(b)-(d)(9)(a)(b)(c)(i) at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 13(1)(3)-(5)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/13/1/3)(7)(8)(a)(9)(c)(ii)(10) in force for remaining purposes at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
@@ -2826,23 +2826,23 @@ and in the cross-heading before that section, for “*Director General of Fair T
 
 [^c18980911]: Commencement: Sch. 25 para. 15 wholly in force at 20.6.2003; Sch. 25 para. 15 not in force at Royal Assent see s. 279; Sch. 25 para. 15(1) in force for certain purposes and Sch. 25 para. 15(2)(4)(7)-(10) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 15(1)(3)-(6)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/15/1/3)(11)-(13) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-3d826aeda48531626dc86a6ba7c7bb10]: Textual amendment: [Sch. 25 para. 15(7)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/15/7) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-3d826aeda48531626dc86a6ba7c7bb10]: Textual amendment: [Sch. 25 para. 15(7)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/15/7) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-856bdc8169709eb5cff3af2fdeb1199f]: Textual amendment: [Sch. 25 para. 16](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/16) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-856bdc8169709eb5cff3af2fdeb1199f]: Textual amendment: [Sch. 25 para. 16](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/16) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-dd8e89177568317ce7155344bb8610a6]: Textual amendment: [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/17) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-dd8e89177568317ce7155344bb8610a6]: Textual amendment: [Sch. 25 para. 17](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/17) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^c18980961]: Commencement: [Sch. 25 para. 18](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/18) partly in force; [Sch. 25 para. 18](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/18) not in force at Royal Assent see [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [Sch. 25 para. 18(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/18/1) in force for certain purposes at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule), [Sch. 25 para. 18(1)-(5)](https://www.legislation.gov.uk/uksi/2003/1397/schedule/25/paragraph/18/1) in force for certain purposes at 29.12.2004 by [S.I. 2004/3233](https://www.legislation.gov.uk/uksi/2004/3233), [art. 2](https://www.legislation.gov.uk/uksi/2004/3233/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3233/schedule)
 
 [^c18981001]: Commencement: Sch. 25 para. 20 wholly in force at 20.6.2003; Sch. 25 para. 20 not in force at Royal Assent see s. 279; Sch. 25 para. 20(1) in force for certain purposes and Sch. 25 para. 20(2)(7)-(9)(10)(a) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 20(1)(3)-(6)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/20/1/3)(10)(b)(11)-(13) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-19be809ada8f2cc0e28afdbab8dfe212]: Textual amendment: [Sch. 25 para. 20(8)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/20/8) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-19be809ada8f2cc0e28afdbab8dfe212]: Textual amendment: [Sch. 25 para. 20(8)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/20/8) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c18981081]: Commencement: [Sch. 25 para. 21](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/21) wholly in force at 20.6.2003; [Sch. 25 para. 21](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/21) not in force at Royal Assent see [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [Sch. 25 para. 21(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/21/1) in force for certain purposes and Sch. 25 para. 21(2)(3)(4)(a)-(f) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 21(1)(4)(g)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/21/1/4/g) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
 [^c19252451]: Textual amendment: [Sch. 25 para. 22](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/22) repealed (1.1.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [ss. 64](https://www.legislation.gov.uk/ukpga/2004/27/section/64), [65](https://www.legislation.gov.uk/ukpga/2004/27/section/65), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-b494a19875a097a48aad3e0b1c5b7666]: Textual amendment: Sch. 25 para. 23(2)-(6)(10) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii)
+[^c-b494a19875a097a48aad3e0b1c5b7666]: Textual amendment: Sch. 25 para. 23(2)-(6)(10) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii)
 
 [^c18981461]: Commencement: [Sch. 25 para. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/24) wholly in force at 20.6.2003; [Sch. 25 para. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/24) not in force at Royal Assent see [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [Sch. 25 para. 24(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/24/1) in force for certain purposes and Sch. 25 para. 24(2)-(8)(9)(a)-(d)(i)(f)(i)(g)(h)(i)(i)(ii)(k)(l) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 24(1)(9)(d)(ii)(e)(f)(ii)(iii)(i)(iii)(j)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/24/1/9/d/ii/e/f/ii/iii/i/iii/j) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
@@ -2870,7 +2870,7 @@ and in the cross-heading before that section, for “*Director General of Fair T
 
 [^c18981671]: Commencement: Sch. 25 para. 33 wholly in force at 20.6.2003; Sch. 25 para. 33 not in force at Royal Assent see s. 279; Sch. 25 para. 33(1) in force for certain purposes and Sch. 25 para. 33(5)(6) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 33(1)(2)-(4)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/33/1/2) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-4a0e50f9fd405c0013332de917fc3523]: Textual amendment: [Sch. 25 para. 33(3)-(6)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/33/3) repealed (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/3)
+[^c-4a0e50f9fd405c0013332de917fc3523]: Textual amendment: [Sch. 25 para. 33(3)-(6)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/33/3) repealed (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/9/paragraph/17) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/3)
 
 [^c19249081]: Textual amendment: [Sch. 25 para. 34](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/34) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 406(7)](https://www.legislation.gov.uk/ukpga/2003/21/section/406/7), [411(2)(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2/3), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with transitional provisions in [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18) and with [Sch. 19](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19) Note [1](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (subject to [arts. 3(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/3), [11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
@@ -2880,18 +2880,18 @@ and in the cross-heading before that section, for “*Director General of Fair T
 
 [^c18982011]: Commencement: Sch. 25 para. 40 wholly in force at 20.6.2003; Sch. 25 para. 40 not in force at Royal Assent see s. 279; Sch. 25 para. 40(1) in force for certain purposes and Sch. 25 para. 40(2)-(20)(a)(21) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 40(1)(20)(b)(c)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/40/1/20/b/c) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-6aa0a5144ecac733c3215c50c2221243]: Textual amendment: [Sch. 25 para. 40(2)-(5)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-6aa0a5144ecac733c3215c50c2221243]: Textual amendment: [Sch. 25 para. 40(2)-(5)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-3866d99fcce9021be8e0ce5576a1fd26]: Textual amendment: [Sch. 25 para. 40(10)-(15)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/10) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3866d99fcce9021be8e0ce5576a1fd26]: Textual amendment: [Sch. 25 para. 40(10)-(15)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/10) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-ebee710f22ee76fd85084ba83bc28d29]: Textual amendment: Sch. 25 para. 42 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 167](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/167); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-ebee710f22ee76fd85084ba83bc28d29]: Textual amendment: Sch. 25 para. 42 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 167](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/167); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c18982071]: Commencement: [Sch. 25 para. 43](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/43) wholly in force at 20.6.2003; [Sch. 25 para. 43](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/43) not in force at Royal Assent see [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [Sch. 25 para. 43(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/43/1) in force for certain purposes and Sch. 25 para. 43(2)-(3)(c)(i) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 43(1)(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/43/1/3/c/ii) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
 [^c18982091]: Commencement: Sch. 25 para. 44 wholly in force at 20.6.2003; Sch. 25 para. 44 not in force at Royal Assent see s. 279; Sch. 25 para. 44(1) in force for certain purposes and Sch. 25 para. 44(6)-(12) in force at 1.4.2003 by [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule), [Sch. 25 para. 44(1)(2)-(5)](https://www.legislation.gov.uk/uksi/2003/766/schedule/25/paragraph/44/1/2) in force at 20.6.2003 by [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
-[^key-25485446ec4e5cab779c68221ecb8b7c]: Textual amendment: Sch. 25 para. 44(12)(b)(c) repealed (E.W.) (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); S.I. 2009/3294, art. 2(d)
+[^c-25485446ec4e5cab779c68221ecb8b7c]: Textual amendment: Sch. 25 para. 44(12)(b)(c) repealed (E.W.) (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); S.I. 2009/3294, art. 2(d)
 
-[^key-972b421165be3354b0d81b803747cc82]: Textual amendment: Sch. 25 paras. 44(12)(d) repealed (E.W.) (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); S.I. 2009/3294, art. 2(d)
+[^c-972b421165be3354b0d81b803747cc82]: Textual amendment: Sch. 25 paras. 44(12)(d) repealed (E.W.) (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); S.I. 2009/3294, art. 2(d)
 
 [^M_F_f81ede48-e263-46eb-ca9e-3bc67b36ec4d]: Textual amendment: Sch. 25 paras. 44(12)(i) repealed (E.W.) (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/2); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); S.I. 2009/3294, art. 2(d)

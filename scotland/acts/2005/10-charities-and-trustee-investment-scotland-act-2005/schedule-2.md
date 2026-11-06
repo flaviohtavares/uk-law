@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Scottish Charity Appeals Panel[^key-c33ab53a1748a94a5d34ee04a5cadd8a]
+## SCHEDULE 2 — Scottish Charity Appeals Panel[^c-c33ab53a1748a94a5d34ee04a5cadd8a]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 (introduced by section 75)
 
-### 1. Panel members[^key-c33ab53a1748a94a5d34ee04a5cadd8a]
+### 1. Panel members[^c-c33ab53a1748a94a5d34ee04a5cadd8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Tenure and removal from office[^key-c33ab53a1748a94a5d34ee04a5cadd8a]
+### 2. Tenure and removal from office[^c-c33ab53a1748a94a5d34ee04a5cadd8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Staff, property and services[^key-c33ab53a1748a94a5d34ee04a5cadd8a]
+### 3. Staff, property and services[^c-c33ab53a1748a94a5d34ee04a5cadd8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Rules of procedure[^key-c33ab53a1748a94a5d34ee04a5cadd8a]
+### 4. Rules of procedure[^c-c33ab53a1748a94a5d34ee04a5cadd8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c33ab53a1748a94a5d34ee04a5cadd8a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2005/10/schedule/2) repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/2/3)
+[^c-c33ab53a1748a94a5d34ee04a5cadd8a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2005/10/schedule/2) repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/2/3)

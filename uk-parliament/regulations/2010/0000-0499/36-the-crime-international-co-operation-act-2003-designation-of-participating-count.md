@@ -44,15 +44,15 @@ A draft of this Order has been approved by each House of Parliament in accordanc
 
 The Secretary of State, in exercise of the powers conferred by section 51(2)(b) of the Crime (International Co-operation) Act 2003 (‘the 2003 Act’), makes the following Order:
 
-**1.**[^key-9ca3b8a9474e409f4a9637362e88ad4a] This Order may be cited as the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (England, Wales and Northern Ireland) Order 2010 and shall come into force on the first day of the month following the expiry of three months from the date on which the United Kingdom deposits an instrument of ratification in respect of the Second Additional Protocol to the European Convention on Mutual Legal Assistance in Criminal Matters[^f00002] with the Secretary General of the Council of Europe[^f00003].
+**1.**[^c-9ca3b8a9474e409f4a9637362e88ad4a] This Order may be cited as the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (England, Wales and Northern Ireland) Order 2010 and shall come into force on the first day of the month following the expiry of three months from the date on which the United Kingdom deposits an instrument of ratification in respect of the Second Additional Protocol to the European Convention on Mutual Legal Assistance in Criminal Matters[^f00002] with the Secretary General of the Council of Europe[^f00003].
 
-**2.**[^key-46ab9d3f740975fb801e1f90577ec3aa] This Order extends to England and Wales and Northern Ireland.
+**2.**[^c-46ab9d3f740975fb801e1f90577ec3aa] This Order extends to England and Wales and Northern Ireland.
 
-**3.**[^key-24166d99ec5359ada20e9183fc4a030c] Albania, Bosnia and Herzegovina, [^key-7dc709f7547f0dc796efab305f5141c0]... the Former Yugoslav Republic of Macedonia, Israel, Montenegro and Serbia[^key-09bfa8c3328df09253d58aa089d9b625] are designated as participating countries under section 51(2)(b) of the 2003 Act for the purposes of sections 31, 47 and 48 of, and paragraph 15 of Schedule 2 to, the 2003 Act.
+**3.**[^c-24166d99ec5359ada20e9183fc4a030c] Albania, Bosnia and Herzegovina, [^c-7dc709f7547f0dc796efab305f5141c0]... the Former Yugoslav Republic of Macedonia, Israel, Montenegro and Serbia[^c-09bfa8c3328df09253d58aa089d9b625] are designated as participating countries under section 51(2)(b) of the 2003 Act for the purposes of sections 31, 47 and 48 of, and paragraph 15 of Schedule 2 to, the 2003 Act.
 
-**4.**[^key-c27d29c690d002b2d2243635031106ac] Albania, Bosnia and Herzegovina, [^key-326ae65a72fd7c8c2f65aa248a2bec48]... the Former Yugoslav Republic of Macedonia, Israel, Montenegro and Serbia are also designated as participating countries under section 51(2)(b) of the 2003 Act for the purposes of sections 4 and 4B[^f00004] of that Act.
+**4.**[^c-c27d29c690d002b2d2243635031106ac] Albania, Bosnia and Herzegovina, [^c-326ae65a72fd7c8c2f65aa248a2bec48]... the Former Yugoslav Republic of Macedonia, Israel, Montenegro and Serbia are also designated as participating countries under section 51(2)(b) of the 2003 Act for the purposes of sections 4 and 4B[^f00004] of that Act.
 
-**5.**[^key-22853fdafd8d75f4da7efc692e9d71ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-22853fdafd8d75f4da7efc692e9d71ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 West of Spithead
 
@@ -78,24 +78,24 @@ The designation of Albania, Bosnia and Herzegovina, Croatia, the Former Yugoslav
 
 [^f00001]: Footnote: [2003 c.32](https://www.legislation.gov.uk/ukpga/2003/32).
 
-[^key-9ca3b8a9474e409f4a9637362e88ad4a]: Commencement: Art. 1 comes into force in accordance with art. 1
+[^c-9ca3b8a9474e409f4a9637362e88ad4a]: Commencement: Art. 1 comes into force in accordance with art. 1
 
 [^f00002]: Footnote: Cmnd 5603 of 2002.
 
 [^f00003]: Footnote: The Council of Europe provides notification as to the ratification of Council of Europe instruments on the following page of its website: http://conventions.coe.int/Treaty/Commun/ChercheSig.asp?NT=182&CM=8&DF=1/28/2009&CL=ENG.
 
-[^key-46ab9d3f740975fb801e1f90577ec3aa]: Commencement: Art. 2 comes into force in accordance with art. 1
+[^c-46ab9d3f740975fb801e1f90577ec3aa]: Commencement: Art. 2 comes into force in accordance with art. 1
 
-[^key-24166d99ec5359ada20e9183fc4a030c]: Commencement: Art. 3 comes into force in accordance with art. 1
+[^c-24166d99ec5359ada20e9183fc4a030c]: Commencement: Art. 3 comes into force in accordance with art. 1
 
-[^key-7dc709f7547f0dc796efab305f5141c0]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2010/36/article/3) omitted (31.7.2017) by virtue of [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/2017/730/schedule/3/paragraph/14/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-7dc709f7547f0dc796efab305f5141c0]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2010/36/article/3) omitted (31.7.2017) by virtue of [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/2017/730/schedule/3/paragraph/14/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
-[^key-09bfa8c3328df09253d58aa089d9b625]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/36/article/3) substituted (8.11.2022) by [The Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (England, Wales and Northern Ireland) Order 2022 (S.I. 2022/1146)](https://www.legislation.gov.uk/uksi/2022/1146), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1146/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1146/article/3/2)
+[^c-09bfa8c3328df09253d58aa089d9b625]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/36/article/3) substituted (8.11.2022) by [The Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (England, Wales and Northern Ireland) Order 2022 (S.I. 2022/1146)](https://www.legislation.gov.uk/uksi/2022/1146), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1146/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1146/article/3/2)
 
-[^key-c27d29c690d002b2d2243635031106ac]: Commencement: Art. 4 comes into force in accordance with art. 1
+[^c-c27d29c690d002b2d2243635031106ac]: Commencement: Art. 4 comes into force in accordance with art. 1
 
-[^key-326ae65a72fd7c8c2f65aa248a2bec48]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2010/36/article/4) omitted (31.7.2017) by virtue of [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/2017/730/schedule/3/paragraph/14/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-326ae65a72fd7c8c2f65aa248a2bec48]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2010/36/article/4) omitted (31.7.2017) by virtue of [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 3 para. 14(a)](https://www.legislation.gov.uk/uksi/2017/730/schedule/3/paragraph/14/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
 [^f00004]: Footnote: Section 4B was inserted by section 331 of, and paragraph 16 of Schedule 36 to, the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-22853fdafd8d75f4da7efc692e9d71ee]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2010/36/article/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [93](https://www.legislation.gov.uk/uksi/2019/742/regulation/93) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22853fdafd8d75f4da7efc692e9d71ee]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2010/36/article/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [93](https://www.legislation.gov.uk/uksi/2019/742/regulation/93) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

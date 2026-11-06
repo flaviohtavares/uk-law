@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54. Power to amend this Measure[^key-f187dd93530abbba0ba79024d650c498]
+## 54. Power to amend this Measure[^c-f187dd93530abbba0ba79024d650c498]
 
 *Extent: E*
 
@@ -46,7 +46,7 @@ summary: ''
 (5) In Part 4 (general financial matters), the excepted provisions are—
 
 - (a) in section 37 (General Purposes Fund), subsection (4);
-- (b)[^key-67729ecc94b7d61e16ab9090c4697f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-67729ecc94b7d61e16ab9090c4697f4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in section 39 (schemes for church workers), subsection (6);
 - (d) section 42 (transfer of homes of residence to General Purposes Fund);
 - (e) section 43 (power of Board to make loans for residences);
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f187dd93530abbba0ba79024d650c498]: Commencement: S. 54 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-f187dd93530abbba0ba79024d650c498]: Commencement: S. 54 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-67729ecc94b7d61e16ab9090c4697f4f]: Textual amendment: [S. 54(5)(b)](https://www.legislation.gov.uk/ukcm/2018/9/section/54/5/b) omitted (14.5.2021) by virtue of [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/554/article/4/2/b)
+[^c-67729ecc94b7d61e16ab9090c4697f4f]: Textual amendment: [S. 54(5)(b)](https://www.legislation.gov.uk/ukcm/2018/9/section/54/5/b) omitted (14.5.2021) by virtue of [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/554/article/4/2/b)

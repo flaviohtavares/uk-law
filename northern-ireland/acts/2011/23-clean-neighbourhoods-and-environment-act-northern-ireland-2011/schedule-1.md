@@ -22,11 +22,11 @@ summary: ''
 
 Section 62.
 
-**1.**[^key-612b8a0059129acdc88e726b9e4cc80b] The Noise Act 1996 (c. 37) is amended as follows.
+**1.**[^c-612b8a0059129acdc88e726b9e4cc80b] The Noise Act 1996 (c. 37) is amended as follows.
 
-**2.**[^key-7ea68b23f60a6f036da3025e138a9798] In the heading to section 2, omit the words “from a dwelling”.
+**2.**[^c-7ea68b23f60a6f036da3025e138a9798] In the heading to section 2, omit the words “from a dwelling”.
 
-**3.**[^key-85727c8ae9071c03af00f8b301476a2c] (1) Section 2 (investigations of complaints of noise) is amended as follows.
+**3.**[^c-85727c8ae9071c03af00f8b301476a2c] (1) Section 2 (investigations of complaints of noise) is amended as follows.
 
 (2) In subsection (2), after the words “emitted from” insert “ (a) ” and at the end insert
 
@@ -60,7 +60,7 @@ Section 62.
 - (a) after the words “the offending dwelling is” insert “ , or the offending premises are, ”;
 - (b) after the words “if the offending dwelling” insert “ or the offending premises ”.
 
-**4.**[^key-81676501ed0d60559742303ef3011e5a] (1) Section 3 (warning notices) is amended as follows.
+**4.**[^c-81676501ed0d60559742303ef3011e5a] (1) Section 3 (warning notices) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -97,9 +97,9 @@ Section 62.
 
 .
 
-**5.**[^key-ef12d1d72006e338eb7d2cb7e42563c1] In the heading to section 4, after the words “where noise” insert “ from a dwelling ”.
+**5.**[^c-ef12d1d72006e338eb7d2cb7e42563c1] In the heading to section 4, after the words “where noise” insert “ from a dwelling ”.
 
-**6.**[^key-1830507eaaca67686ebbaf33a3ad0552] After section 4 (offence where noise exceeds permitted level after notice) insert—
+**6.**[^c-1830507eaaca67686ebbaf33a3ad0552] After section 4 (offence where noise exceeds permitted level after notice) insert—
 
 > **4A. Offence where noise from other premises exceeds permitted level after service of notice**
 >
@@ -115,11 +115,11 @@ Section 62.
 
 .
 
-**7.**[^key-e7361ba47e68fba720e21a9f8847a18e] In section 5 (permitted level of noise), in subsection (1) after the words “from any dwelling” insert “ or other premises ”.
+**7.**[^c-e7361ba47e68fba720e21a9f8847a18e] In section 5 (permitted level of noise), in subsection (1) after the words “from any dwelling” insert “ or other premises ”.
 
-**8.**[^key-4a1edaecfc73c571321440accc589ce7] In section 6 (approval of measuring devices), in subsection (3) after the words “section 4” insert “ or 4A ”.
+**8.**[^c-4a1edaecfc73c571321440accc589ce7] In section 6 (approval of measuring devices), in subsection (3) after the words “section 4” insert “ or 4A ”.
 
-**9.**[^key-83b6532eef8bfc8b2526ae87784e1742] (1) Section 7 (evidence) is amended as follows.
+**9.**[^c-83b6532eef8bfc8b2526ae87784e1742] (1) Section 7 (evidence) is amended as follows.
 
 (2) In subsection (1), after the words “section 4” insert “ or 4A ”.
 
@@ -134,13 +134,13 @@ Section 62.
 
 (4) In subsection (4), for the words “or (3)(a)” substitute “ , (3)(a) or (3A)(a) ”.
 
-**10.**[^key-badce195f5ff0495b88969d11856b3aa] (1) Section 8 (fixed penalty notices) is amended as follows.
+**10.**[^c-badce195f5ff0495b88969d11856b3aa] (1) Section 8 (fixed penalty notices) is amended as follows.
 
 (2) In subsection (1), after the words “section 4” insert “ or 4A ”.
 
 (3) In subsection (2)(b), after the words “the offending dwelling” insert “ or the offending premises (as the case may be) ”.
 
-**11.**[^key-83a2627e886fde70529f1e8516ff756d] (1) Section 9 (section 8: supplementary) is amended as follows.
+**11.**[^c-83a2627e886fde70529f1e8516ff756d] (1) Section 9 (section 8: supplementary) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -153,7 +153,7 @@ Section 62.
 
 (3) In subsection (5), after the words “section 4” insert “ or 4A ”.
 
-**12.**[^key-6a55270db4123e2229523da298a4d133] (1) Section 10 (powers of entry and seizure etc.) is amended as follows.
+**12.**[^c-6a55270db4123e2229523da298a4d133] (1) Section 10 (powers of entry and seizure etc.) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -174,32 +174,32 @@ Section 62.
 - (a) after the words “enters any” insert “ dwelling or other ”;
 - (b) for the words from “the premises are unoccupied” to the end substitute “ the dwelling is, or the other premises are, unoccupied, must leave it or them as effectively secured against trespassers as he found it or them. ”.
 
-**13.**[^key-b823be0f7b5fac701aec5a74989d9abb] In the Schedule (powers in relation to seized equipment), in paragraph 1(a)(i), after the words “section 4” insert “ or 4A ”.
+**13.**[^c-b823be0f7b5fac701aec5a74989d9abb] In the Schedule (powers in relation to seized equipment), in paragraph 1(a)(i), after the words “section 4” insert “ or 4A ”.
 
 ## Annotations
 
-[^key-612b8a0059129acdc88e726b9e4cc80b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/1) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-612b8a0059129acdc88e726b9e4cc80b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/1) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-7ea68b23f60a6f036da3025e138a9798]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/2) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7ea68b23f60a6f036da3025e138a9798]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/2) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-85727c8ae9071c03af00f8b301476a2c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/3) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-85727c8ae9071c03af00f8b301476a2c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/3) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-81676501ed0d60559742303ef3011e5a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/4) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-81676501ed0d60559742303ef3011e5a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/4) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-ef12d1d72006e338eb7d2cb7e42563c1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/5) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ef12d1d72006e338eb7d2cb7e42563c1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/5) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-1830507eaaca67686ebbaf33a3ad0552]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-1830507eaaca67686ebbaf33a3ad0552]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/6) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-e7361ba47e68fba720e21a9f8847a18e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/7) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e7361ba47e68fba720e21a9f8847a18e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/7) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-4a1edaecfc73c571321440accc589ce7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/8) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-4a1edaecfc73c571321440accc589ce7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/8) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-83b6532eef8bfc8b2526ae87784e1742]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/9) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-83b6532eef8bfc8b2526ae87784e1742]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/9) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-badce195f5ff0495b88969d11856b3aa]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-badce195f5ff0495b88969d11856b3aa]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/10) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-83a2627e886fde70529f1e8516ff756d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/11) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-83a2627e886fde70529f1e8516ff756d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/11) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-6a55270db4123e2229523da298a4d133]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/12) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-6a55270db4123e2229523da298a4d133]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/12) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-b823be0f7b5fac701aec5a74989d9abb]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/13) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-b823be0f7b5fac701aec5a74989d9abb]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2011/23/schedule/1/paragraph/13) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

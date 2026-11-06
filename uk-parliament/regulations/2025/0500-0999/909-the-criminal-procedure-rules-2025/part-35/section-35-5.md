@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.5. Court’s power to vary requirements under this Part[^key-a4b82035447a8d95d2aee54eff52f6c9]
+## 35.5. Court’s power to vary requirements under this Part[^c-a4b82035447a8d95d2aee54eff52f6c9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4b82035447a8d95d2aee54eff52f6c9]: Commencement: [Rule 35.5](https://www.legislation.gov.uk/uksi/2025/909/rule/35.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a4b82035447a8d95d2aee54eff52f6c9]: Commencement: [Rule 35.5](https://www.legislation.gov.uk/uksi/2025/909/rule/35.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

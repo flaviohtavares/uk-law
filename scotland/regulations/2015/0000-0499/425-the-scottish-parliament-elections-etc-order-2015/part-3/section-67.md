@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Officials not to act for candidates[^key-944a98ee26671496377baf1ce12162ce]
+## 67. Officials not to act for candidates[^c-944a98ee26671496377baf1ce12162ce]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ unless that person is a candidate.
 
 ## Annotations
 
-[^key-944a98ee26671496377baf1ce12162ce]: Commencement: Art. 67 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-944a98ee26671496377baf1ce12162ce]: Commencement: Art. 67 in force at 16.12.2015 in accordance with art. 1(1)

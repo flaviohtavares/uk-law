@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Representation of child and of his interests in certain proceedings[^c22524801][^key-7e9d2b9db853af7bc21422930bee7775]
+## 60. Representation of child and of his interests in certain proceedings[^c22524801][^c-7e9d2b9db853af7bc21422930bee7775]
 
 *Extent: N.I.*
 
-(1) For the purpose of any specified proceedings, the court shall appoint a children’s court guardian[^key-bc6e36ee28d9e2cd1e5fc14b43901117] for the child concerned unless satisfied that it is not necessary to do so in order to safeguard his interests.
+(1) For the purpose of any specified proceedings, the court shall appoint a children’s court guardian[^c-bc6e36ee28d9e2cd1e5fc14b43901117] for the child concerned unless satisfied that it is not necessary to do so in order to safeguard his interests.
 
 (2) The children’s court guardian shall—
 
@@ -59,7 +59,7 @@ the court may appoint a solicitor to represent him.
   - (v) the making of, or refusal to make, an order under Part VI; or
 - (i) which are specified, for the purposes of this Article, by rules of court.
 
-(7) The Department may by regulations provide for the establishment of panels of persons from whom children’s court guardians[^key-a5c1d1ecf454cee664fd9e1ce32a934d] appointed under this Article must be selected.
+(7) The Department may by regulations provide for the establishment of panels of persons from whom children’s court guardians[^c-a5c1d1ecf454cee664fd9e1ce32a934d] appointed under this Article must be selected.
 
 (8) Paragraph (7) shall not be taken to prejudice the power of the Lord Chief Justice[^c19912521] to confer or impose duties on the Official Solicitor under section 75(2) of the Judicature (Northern Ireland) Act 1978[^c17269981].
 
@@ -90,11 +90,11 @@ in so far as the statement or evidence is, in the opinion of the court, relevant
 
 [^c22524801]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) modified (1.11.2012) by [Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6/3)
 
-[^key-7e9d2b9db853af7bc21422930bee7775]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) modified (1.11.2012) by [The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6/3)
+[^c-7e9d2b9db853af7bc21422930bee7775]: Modification: [Art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) modified (1.11.2012) by [The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 (S.I. 2010/1898)](https://www.legislation.gov.uk/uksi/2010/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2010/1898/regulation/6/3)
 
-[^key-bc6e36ee28d9e2cd1e5fc14b43901117]: Textual amendment: Words in [art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(2)(a)](https://www.legislation.gov.uk/nia/2022/18/section/137/2/a), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
+[^c-bc6e36ee28d9e2cd1e5fc14b43901117]: Textual amendment: Words in [art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(2)(a)](https://www.legislation.gov.uk/nia/2022/18/section/137/2/a), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
 
-[^key-a5c1d1ecf454cee664fd9e1ce32a934d]: Textual amendment: Words in [art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(2)(b)](https://www.legislation.gov.uk/nia/2022/18/section/137/2/b), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
+[^c-a5c1d1ecf454cee664fd9e1ce32a934d]: Textual amendment: Words in [art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(2)(b)](https://www.legislation.gov.uk/nia/2022/18/section/137/2/b), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
 
 [^c19912521]: Textual amendment: Words in [art. 60(8)](https://www.legislation.gov.uk/nisi/1995/755/article/60/8) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 95](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/95); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 

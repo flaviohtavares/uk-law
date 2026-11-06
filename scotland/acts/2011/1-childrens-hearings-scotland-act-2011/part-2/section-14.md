@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. The Principal Reporter[^key-2e42169b3b873c2753b6ff3c11758524]
+## 14. The Principal Reporter[^c-2e42169b3b873c2753b6ff3c11758524]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ There continues to be an officer known as the Principal Reporter.
 
 ## Annotations
 
-[^key-2e42169b3b873c2753b6ff3c11758524]: Commencement: S. 14 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2e42169b3b873c2753b6ff3c11758524]: Commencement: S. 14 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

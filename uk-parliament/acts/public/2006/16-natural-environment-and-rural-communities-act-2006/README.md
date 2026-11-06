@@ -76,7 +76,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 15 — Guidance](part-1/section-15.md)
 - [Section 16 — Directions](part-1/section-16.md)
 
-#### Chapter 2 (affected by repeal, see note) — Commission for Rural Communities[^key-9d3ecc9523cacaafb2ebb6555303d3eb]
+#### Chapter 2 (affected by repeal, see note) — Commission for Rural Communities[^c-9d3ecc9523cacaafb2ebb6555303d3eb]
 
 ##### The Commission and its general purpose
 
@@ -304,4 +304,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-9d3ecc9523cacaafb2ebb6555303d3eb]: Textual amendment: Pt. 1 Ch. 2 repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-9d3ecc9523cacaafb2ebb6555303d3eb]: Textual amendment: Pt. 1 Ch. 2 repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)

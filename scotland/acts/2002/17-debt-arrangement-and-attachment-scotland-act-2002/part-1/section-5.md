@@ -29,13 +29,13 @@ summary: ''
 
 (3) Such an application may seek the variation of any condition which is attached to the approval of the programme or, as the case may be, a previous variation of the programme.
 
-(4)[^key-b54faad2dfabd6a6afb13935739e9a6e] An application for the variation of a debt payment programme shall—
+(4)[^c-b54faad2dfabd6a6afb13935739e9a6e] An application for the variation of a debt payment programme shall—
 
-- (a) contain such information, and be in such form, as may be prescribed; [^key-775eac33ae8a86eda9c4f4bb1f604b01]...
-- (b)[^key-775eac33ae8a86eda9c4f4bb1f604b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) contain such information, and be in such form, as may be prescribed; [^c-775eac33ae8a86eda9c4f4bb1f604b01]...
+- (b)[^c-775eac33ae8a86eda9c4f4bb1f604b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b54faad2dfabd6a6afb13935739e9a6e]: Commencement: S. 5(4) in force at 24.9.2004 for specified purposes by [S.S.I. 2004/416](https://www.legislation.gov.uk/ssi/2004/416), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/416/article/2/1/a)
+[^c-b54faad2dfabd6a6afb13935739e9a6e]: Commencement: S. 5(4) in force at 24.9.2004 for specified purposes by [S.S.I. 2004/416](https://www.legislation.gov.uk/ssi/2004/416), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/416/article/2/1/a)
 
-[^key-775eac33ae8a86eda9c4f4bb1f604b01]: Textual amendment: S. 5(4)(b) and word repealed (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(4)](https://www.legislation.gov.uk/asp/2007/3/section/212/4), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)
+[^c-775eac33ae8a86eda9c4f4bb1f604b01]: Textual amendment: S. 5(4)(b) and word repealed (8.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(4)](https://www.legislation.gov.uk/asp/2007/3/section/212/4), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/82/article/3/b)

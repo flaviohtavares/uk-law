@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Limits on power to promote well-being[^c1952789][^key-cbe95e222a082d7ed8af70fa55604436]
+## 100. Limits on power to promote well-being[^c1952789][^c-cbe95e222a082d7ed8af70fa55604436]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ as the Secretary of State considers appropriate.
 
 [^c1952789]: Commencement: S. 100 partly in force; s. 100 in force at Royal Assent for certain purposes see s. 134
 
-[^key-cbe95e222a082d7ed8af70fa55604436]: Commencement: S. 100 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-cbe95e222a082d7ed8af70fa55604436]: Commencement: S. 100 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

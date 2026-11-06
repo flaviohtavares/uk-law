@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Badges for vehicles used for disabled people: change of terminology[^key-3cb9b87c85b0cd9e9f03c4cbb8842a57]
+## 49. Badges for vehicles used for disabled people: change of terminology[^c-3cb9b87c85b0cd9e9f03c4cbb8842a57]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 21(4) of the Chronically Sick and Disabled Persons Act 1970 (c. 44) (
 
 ## Annotations
 
-[^key-3cb9b87c85b0cd9e9f03c4cbb8842a57]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2005/12/section/49) in force at 1.4.2007 by [S.S.I. 2007/161](https://www.legislation.gov.uk/ssi/2007/161), [art. 2](https://www.legislation.gov.uk/ssi/2007/161/article/2)
+[^c-3cb9b87c85b0cd9e9f03c4cbb8842a57]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2005/12/section/49) in force at 1.4.2007 by [S.S.I. 2007/161](https://www.legislation.gov.uk/ssi/2007/161), [art. 2](https://www.legislation.gov.uk/ssi/2007/161/article/2)

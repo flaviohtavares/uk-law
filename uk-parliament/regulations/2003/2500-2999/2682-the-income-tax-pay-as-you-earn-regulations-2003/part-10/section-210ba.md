@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210BA. Penalty: form P45 (Part 1 or Part 3), P46 or P46(Pen); tax years ending 5th April 2014 and subsequent years[^key-8fcac689fcd4591e7254690be2b88858][^key-142cf3b5a2a60c9616f10046cd34cb11]
+## 210BA. Penalty: form P45 (Part 1 or Part 3), P46 or P46(Pen); tax years ending 5th April 2014 and subsequent years[^c-8fcac689fcd4591e7254690be2b88858][^c-142cf3b5a2a60c9616f10046cd34cb11]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ Penalties: tax year ending 5th April 2014 and subsequent years
 
 ## Annotations
 
-[^key-8fcac689fcd4591e7254690be2b88858]: Textual amendment: [Reg. 210BA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/210BA) inserted (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [11(7)](https://www.legislation.gov.uk/uksi/2010/668/regulation/11/7)
+[^c-8fcac689fcd4591e7254690be2b88858]: Textual amendment: [Reg. 210BA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/210BA) inserted (6.4.2011 in relation to the tax year 2011-12 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2010 (S.I. 2010/668)](https://www.legislation.gov.uk/uksi/2010/668), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2010/668/regulation/1/4), [11(7)](https://www.legislation.gov.uk/uksi/2010/668/regulation/11/7)
 
-[^key-142cf3b5a2a60c9616f10046cd34cb11]: Textual amendment: Regs. 210-210C substituted for reg. 210 (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2007/2969/regulation/20)
+[^c-142cf3b5a2a60c9616f10046cd34cb11]: Textual amendment: Regs. 210-210C substituted for reg. 210 (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2007/2969/regulation/20)

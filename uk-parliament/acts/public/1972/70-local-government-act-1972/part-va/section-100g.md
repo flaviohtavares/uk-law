@@ -43,7 +43,7 @@ which are for the time being conferred by this Part, Part XI below and such othe
 
 *Extent: W*
 
-(5)[^key-3603f7c491357e21c12b7fbf920c131a] But [^key-922c33b880de1166c8a50648668b9f6c]... the information open to inspection under subsection (4) must not include a member’s address included in the register maintained under subsection (1).
+(5)[^c-3603f7c491357e21c12b7fbf920c131a] But [^c-922c33b880de1166c8a50648668b9f6c]... the information open to inspection under subsection (4) must not include a member’s address included in the register maintained under subsection (1).
 
 ## Annotations
 
@@ -53,6 +53,6 @@ which are for the time being conferred by this Part, Part XI below and such othe
 
 [^c19641271]: Textual amendment: Words in s. 100G(1)(a) substituted (30.12.2007) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 74](https://www.legislation.gov.uk/ukpga/2007/28/section/74), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/7/2)
 
-[^key-3603f7c491357e21c12b7fbf920c131a]: Textual amendment: S. 100G(5) inserted (5.5.2022) by [The Local Authorities (Amendments Relating to Publication of Information) (Wales) Regulations 2022 (S.I. 2022/412)](https://www.legislation.gov.uk/uksi/2022/412), [regs. 1](https://www.legislation.gov.uk/uksi/2022/412/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/412/regulation/2)
+[^c-3603f7c491357e21c12b7fbf920c131a]: Textual amendment: S. 100G(5) inserted (5.5.2022) by [The Local Authorities (Amendments Relating to Publication of Information) (Wales) Regulations 2022 (S.I. 2022/412)](https://www.legislation.gov.uk/uksi/2022/412), [regs. 1](https://www.legislation.gov.uk/uksi/2022/412/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/412/regulation/2)
 
-[^key-922c33b880de1166c8a50648668b9f6c]: Textual amendment: Words in [s. 100G(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/100G/5) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/65/1), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-922c33b880de1166c8a50648668b9f6c]: Textual amendment: Words in [s. 100G(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/100G/5) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/65/1), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING, WALES
 
-The Assured Tenancies (Amendment of Rental Threshold) (Wales) Order 2011 (revoked)[^key-8445423b77c802017502bffb87af4ece]
+The Assured Tenancies (Amendment of Rental Threshold) (Wales) Order 2011 (revoked)[^c-8445423b77c802017502bffb87af4ece]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 December 2011
 
-[^key-8445423b77c802017502bffb87af4ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8445423b77c802017502bffb87af4ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-8445423b77c802017502bffb87af4ece]
+## 1. Title, commencement and application[^c-8445423b77c802017502bffb87af4ece]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase in rental threshold[^key-8445423b77c802017502bffb87af4ece]
+## 2. Increase in rental threshold[^c-8445423b77c802017502bffb87af4ece]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8445423b77c802017502bffb87af4ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8445423b77c802017502bffb87af4ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8445423b77c802017502bffb87af4ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8445423b77c802017502bffb87af4ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8445423b77c802017502bffb87af4ece]: Textual amendment: Order revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/907/schedule/2)
+[^c-8445423b77c802017502bffb87af4ece]: Textual amendment: Order revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/907/schedule/2)

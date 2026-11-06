@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Registration and allocation of overseas entity ID[^key-a48b1a9a81a37fe6d4b1931d84ee142f][^key-800e6c60e3e9f00a9bd5e605d0ca2ac4][^key-cb5d76dcef6c9826f822ac7113f4d0b2]
+## 5. Registration and allocation of overseas entity ID[^c-a48b1a9a81a37fe6d4b1931d84ee142f][^c-800e6c60e3e9f00a9bd5e605d0ca2ac4][^c-cb5d76dcef6c9826f822ac7113f4d0b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a48b1a9a81a37fe6d4b1931d84ee142f]: Commencement: S. 5 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-a48b1a9a81a37fe6d4b1931d84ee142f]: Commencement: S. 5 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-800e6c60e3e9f00a9bd5e605d0ca2ac4]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/10/section/5) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/b)
+[^c-800e6c60e3e9f00a9bd5e605d0ca2ac4]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/10/section/5) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/b)
 
-[^key-cb5d76dcef6c9826f822ac7113f4d0b2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/10/section/5) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-cb5d76dcef6c9826f822ac7113f4d0b2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/10/section/5) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

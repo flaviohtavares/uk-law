@@ -47,7 +47,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-deb12b11b455740e6abfc6135572344c]
+### 1. Citation, commencement and revocation[^c-deb12b11b455740e6abfc6135572344c]
 
 (1) These Regulations may be cited as the Weighing Equipment (Beltweighers) Regulations 2001 and shall come into force on 28th September 2001.
 
@@ -60,7 +60,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 to any beltweigher to which those Regulations applied which was first passed as fit for use for trade before the date when these Regulations come into force.
 
-### 2. Interpretation[^key-890fd44e2dbca22310777c24d9a97975]
+### 2. Interpretation[^c-890fd44e2dbca22310777c24d9a97975]
 
 (1) In these Regulations—
 
@@ -84,13 +84,13 @@ on its descriptive plate or elsewhere on the instrument; and “Class” shall b
 
 (4) Unless the context otherwise requires, a reference to a numbered regulation or Schedule is a reference to the regulation or Schedule so numbered in these Regulations and a reference to a paragraph in a regulation is a reference to a paragraph in that regulation.
 
-### 3. Recommendations of the International Organisation of Legal Metrology[^key-9259af444f9458e2671dfae1dffcfb81]
+### 3. Recommendations of the International Organisation of Legal Metrology[^c-9259af444f9458e2671dfae1dffcfb81]
 
 (1) In these Regulations “R 50–1” means the International Recommendation entitled ‘Continuous totalizing automatic weighing instruments (beltweighers) Part 1: Metrological and technical requirements – Tests'[^f00004].
 
 (2) In these Regulations, any expression which is not defined in these Regulations and is used both herein and in R 50–1 has the same meaning as in R 50–1.
 
-### 4. Application[^key-cb9b50585342eaba627a1676299ced67]
+### 4. Application[^c-cb9b50585342eaba627a1676299ced67]
 
 (1) For the purposes of section 11(1) of the Act (use for trade of weighing or measuring equipment of prescribed classes),
 
@@ -105,7 +105,7 @@ on its descriptive plate or elsewhere on the instrument; and “Class” shall b
 
 .
 
-### 5. Purposes of use for trade[^key-b489691e86cf983459348e8895cc582c]
+### 5. Purposes of use for trade[^c-b489691e86cf983459348e8895cc582c]
 
 No person shall use a beltweigher for trade—
 
@@ -116,7 +116,7 @@ No person shall use a beltweigher for trade—
 
 ## PART II — MATERIALS AND PRINCIPLES OF CONSTRUCTION AND MARKING OF BELTWEIGHERS
 
-### 6. Beltweighers to be made in accordance with approved pattern[^key-22b5fdfb18a767f36eb186f7a3c340cc]
+### 6. Beltweighers to be made in accordance with approved pattern[^c-22b5fdfb18a767f36eb186f7a3c340cc]
 
 (1) Every beltweigher shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
@@ -124,7 +124,7 @@ No person shall use a beltweigher for trade—
 
 (3) Notwithstanding the result of any test contained in the test report relating to the beltweigher in question, nothing in paragraph (2) shall permit the Class marked on a beltweigher to be a Class of higher accuracy than the Class specified in the relevant certificate of approval.
 
-### 7. Descriptive markings[^key-2d74961a45b340f99c55c3e9853c828f]
+### 7. Descriptive markings[^c-2d74961a45b340f99c55c3e9853c828f]
 
 (1) Every beltweigher shall be legibly and durably marked with the descriptive markings required by clauses 3.11.1 to 3.11.3, and, where appropriate, 3.11.4, of R 50–1 and in the manner specified in clause 3.11.5 thereof.
 
@@ -132,7 +132,7 @@ No person shall use a beltweigher for trade—
 
 (3) In a case where the relevant certificate of approval contains different provisions relating to the use of a beltweigher for different purposes, the particulars relating to minimum totalised load shall be those relating to one such purpose only.
 
-### 8. Marking of units of measurement[^key-8876685537f9de9fd7172ccb848a8ae9]
+### 8. Marking of units of measurement[^c-8876685537f9de9fd7172ccb848a8ae9]
 
 (1) Subject to section 92 of the Act, where units of measurement expressed in terms of mass are marked on beltweighers first passed as fit for use for trade after these Regulations come into force, they shall be marked in metric units in full or by means of one of the following abbreviations or symbols only—
 
@@ -143,7 +143,7 @@ No person shall use a beltweigher for trade—
 - (a) of minimum flowrate, maximum capacity or minimum totalised load;
 - (b) on any totalisation indicating device;
 
-may also indicate quantity by means of a supplementary indication [^key-789b200b608edc2bd5502ff158a1d562]....
+may also indicate quantity by means of a supplementary indication [^c-789b200b608edc2bd5502ff158a1d562]....
 
 (3) The abbreviations of, and symbols for, units of measurement used in this regulation refer to the relevant units as follows—
 
@@ -155,7 +155,7 @@ may also indicate quantity by means of a supplementary indication [^key-789b200b
 
 ## PART III — MANNER OF ERECTION AND USE FOR TRADE
 
-### 9. Erection and use for trade[^key-c10dabcc7c294e12c12bb1ef24d8dd35]
+### 9. Erection and use for trade[^c-c10dabcc7c294e12c12bb1ef24d8dd35]
 
 (1) Every beltweigher shall be erected—
 
@@ -175,21 +175,21 @@ may also indicate quantity by means of a supplementary indication [^key-789b200b
 
 be capable of determining the weight of material used in material testing and giving weight determinations such that in respect of each material test load the weight determination shall in total be accurate to within one-fifth of the limits of error prescribed for material testing whether such a load is determined in one or more weighing operations.
 
-### 10. Manner of use – spillage and loading[^key-0620ccf729a54bf400bf40a30a5854f6]
+### 10. Manner of use – spillage and loading[^c-0620ccf729a54bf400bf40a30a5854f6]
 
 No person shall use a beltweigher for trade in such a manner as to cause—
 
 - (a) spillage of material from the belt; or
 - (b) loading of the weighing unit above its maximum capacity as defined in clause T.4.4 of R 50–1.
 
-### 11. Manner of use – belt speed[^key-2a6344386e6a5e89c2d673a34123ef22]
+### 11. Manner of use – belt speed[^c-2a6344386e6a5e89c2d673a34123ef22]
 
 No person shall use for trade a beltweigher which is designed to operate—
 
 - (a) at only one belt speed, in such a manner that the speed of the belt varies by more than 5% of its nominal speed, that is to say, the speed at which the belt is designed to convey material; or
 - (b) at more than one belt speed, having a speed setting control, in such a manner that the speed of the belt varies by more than 5% of the speed at which it is set to operate, whether by the operator or automatically.
 
-### 12. Position of operator[^key-48d43edfc1264df0c1580a1f58420093]
+### 12. Position of operator[^c-48d43edfc1264df0c1580a1f58420093]
 
 Every beltweigher shall be erected in such a manner that the operator can readily take up a single position from which he can—
 
@@ -199,7 +199,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 
 ## PART IV — TESTING
 
-### 13. Testing[^key-22b2029f00312209c25fc90b9fc52846]
+### 13. Testing[^c-22b2029f00312209c25fc90b9fc52846]
 
 (1) The inspector shall test a beltweigher in accordance with the procedures relating to metrological requirements set out in clauses 5.2.1.1, 5.2.1.2 of, and clause A.11 of Annex A to, R 50–1, and, where appropriate, that relating to the switch-on procedure for electronic beltweighers set out in clause 4.4 of R 50–1.
 
@@ -214,18 +214,18 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 
 (5) For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any beltweigher, a person submitting a beltweigher to an inspector or who an inspector has reasonable cause to believe has possession of a beltweigher for use for trade shall, if requested, provide to the inspector such material, handling equipment and assistance as the inspector may reasonably require; and any material or equipment so provided shall be returned to the person in question.
 
-### 14. Beltweighers imported from an EEA State[^key-58414d57260fa85ce8546e46d351acb1][^key-a5b80d783ae113bcad2f2dd187277150]
+### 14. Beltweighers imported from an EEA State[^c-58414d57260fa85ce8546e46d351acb1][^c-a5b80d783ae113bcad2f2dd187277150]
 
-(1) In relation to a beltweigher imported into Great Britain from an EEA State[^key-e0ae0cc99699f1d3cc41f712171c31e4], subject to paragraph (4), an inspector shall not carry out any test in accordance with regulation 13 if, together with the beltweigher being imported, he is presented with the requisite documentation.
+(1) In relation to a beltweigher imported into Great Britain from an EEA State[^c-e0ae0cc99699f1d3cc41f712171c31e4], subject to paragraph (4), an inspector shall not carry out any test in accordance with regulation 13 if, together with the beltweigher being imported, he is presented with the requisite documentation.
 
 (2) In this regulation and in regulation 15(2)—
 
 - (a) “requisite documentation” means—
   - (i) the test report of an approved body that the beltweigher which is the subject of that report has been tested on the same basis as that set out in this Part of these Regulations or on an equivalent basis and stating which tests have been applied to it; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-d00aeadae003b1b82f28bffcdb462020]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-d00aeadae003b1b82f28bffcdb462020]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
-(3)[^key-de0a31bc4fc499a54a8f8ac2c944bcc5] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of beltweighers or is a laboratory which has been accredited for the purposes of testing beltweighers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+(3)[^c-de0a31bc4fc499a54a8f8ac2c944bcc5] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of beltweighers or is a laboratory which has been accredited for the purposes of testing beltweighers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with regulation 13 where he is not satisfied—
 
@@ -237,7 +237,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 
 ## PART V — SUPPLEMENTARY PROVISIONS
 
-### 15. Passing as fit for use for trade[^key-60c732bd9a931b2c182bd3750e5b1f58]
+### 15. Passing as fit for use for trade[^c-60c732bd9a931b2c182bd3750e5b1f58]
 
 (1) Save in a case where paragraph (2) has effect, no beltweigher shall be passed as fit for use for trade unless—
 
@@ -246,12 +246,12 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 - (c) on testing, it satisfies the requirements in relation to initial verification of clauses 5.2.1.1 and 5.2.1.2 of, and clause A.11 of Annex A to, R 50–1; and
 - (d) in the case of an electronic beltweigher, switch-on tests carried out in conformity with clause 4.4 of R 50–1 show that all relevant signs of the indicating devices are operating satisfactorily.
 
-(2) In the case of a beltweigher imported from an EEA State[^key-9795598823f0e1008f70fac02997b8d6], no beltweigher shall be passed as fit for use for trade unless—
+(2) In the case of a beltweigher imported from an EEA State[^c-9795598823f0e1008f70fac02997b8d6], no beltweigher shall be passed as fit for use for trade unless—
 
 - (a) where the requisite documentation is presented in accordance with regulation 14, the test report recites and the test data confirm to the satisfaction of the inspector that on testing in the relevant State it fell within the relevant maximum permissible error; and
 - (b) it complies with all the relevant requirements of these Regulations.
 
-### 16. Stamping and marking[^key-0af08671e6b19e9b793c61a9f77bc36e]
+### 16. Stamping and marking[^c-0af08671e6b19e9b793c61a9f77bc36e]
 
 (1) Every beltweigher shall be provided with either—
 
@@ -264,13 +264,13 @@ and the plug or stud shall be placed and mounted in conformity with clause 3.12.
 
 (3) No beltweigher shall be stamped in accordance with paragraph (2) if it bears any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
 
-### 17. Manner of obliteration of stamps[^key-9c7ca860f858a5c15154893e7ac3bf71]
+### 17. Manner of obliteration of stamps[^c-9c7ca860f858a5c15154893e7ac3bf71]
 
 Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2001/1208/images/uksi_20011208_en_001)
 
-### 18. Obliteration of stamps[^key-4e63cf26398408f51f1b0a5300bfeec1]
+### 18. Obliteration of stamps[^c-4e63cf26398408f51f1b0a5300bfeec1]
 
 (1) Subject to paragraph (2), an inspector shall obliterate the stamp on any beltweigher which—
 
@@ -280,18 +280,18 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (2) Except as provided by regulation 19, where any beltweigher does not fully comply with the requirements of these Regulations but the nature or degree of the non-compliance is not in the inspector’s opinion such as to require the immediate obliteration of the stamp, the inspector shall give to the proprietor or any person in possession of the beltweigher a notice calling on him to have the beltweigher corrected within a stated period not exceeding 28 days; and he shall obliterate the stamp if the correction has not been made within the stated period.
 
-### 19. Mandatory obliteration of stamps on beltweighers which are unfit for use for trade[^key-6048195e4478b402c3a29ec875f62b8f]
+### 19. Mandatory obliteration of stamps on beltweighers which are unfit for use for trade[^c-6048195e4478b402c3a29ec875f62b8f]
 
 An inspector shall obliterate the stamp on any beltweigher which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 15.
 
-### 20. Power to obliterate stamps on beltweighers which are unfit for use for trade for particular purpose[^key-09103d9c2e56c276e12e761282db0551]
+### 20. Power to obliterate stamps on beltweighers which are unfit for use for trade for particular purpose[^c-09103d9c2e56c276e12e761282db0551]
 
 An inspector may obliterate the stamp on any beltweigher if—
 
 - (a) it has, since it was last stamped, been the subject of any adjustment, alteration, addition, repair or replacement which could, in the opinion of the inspector, have affected its function or accuracy; or
 - (b) it is in use for trade for a particular purpose and in the opinion of the inspector, it is unsuitable for use for that purpose.
 
-### 21. Obliteration of one stamp deemed obliteration of all[^key-fa3b472c30c7b8988cd221e6215682a7]
+### 21. Obliteration of one stamp deemed obliteration of all[^c-fa3b472c30c7b8988cd221e6215682a7]
 
 For the purpose of these Regulations, the obliteration of any one stamp on any beltweigher shall be deemed to be the obliteration of all other stamps on that beltweigher.
 
@@ -301,7 +301,7 @@ Parliamentary Under-Secretary of State for Consumers and Corporate Affairs,
 
 Department of Trade and Industry
 
-## SCHEDULE — TABLE OF MAXIMUM PERMISSIBLE ERRORS[^key-c0830946bf044b6d794f7fa38aaf0fc3]
+## SCHEDULE — TABLE OF MAXIMUM PERMISSIBLE ERRORS[^c-c0830946bf044b6d794f7fa38aaf0fc3]
 
 Regulation 2(1)
 
@@ -350,19 +350,19 @@ Copies of British Standards (see regulation 14(3)) can be obtained from any of t
 
 [^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72); a relevant amending instrument is S.I. [1999/503](https://www.legislation.gov.uk/uksi/1999/503); section 94(1) contains a definition of “prescribed”.
 
-[^key-deb12b11b455740e6abfc6135572344c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-deb12b11b455740e6abfc6135572344c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1983/914](https://www.legislation.gov.uk/uksi/1983/914) as amended by S.I. [1994/1851](https://www.legislation.gov.uk/uksi/1994/1851).
 
-[^key-890fd44e2dbca22310777c24d9a97975]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1208/regulation/2) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-890fd44e2dbca22310777c24d9a97975]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1208/regulation/2) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
 [^f00003]: Footnote: See S.I. [1968/1615](https://www.legislation.gov.uk/uksi/1968/1615), amended by S.I. [1999/504](https://www.legislation.gov.uk/uksi/1999/504).
 
-[^key-9259af444f9458e2671dfae1dffcfb81]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1208/regulation/3) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-9259af444f9458e2671dfae1dffcfb81]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1208/regulation/3) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
 [^f00004]: Footnote: Edition 1997 (E) published by the International Organisation of Legal Metrology.
 
-[^key-cb9b50585342eaba627a1676299ced67]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1208/regulation/4) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-cb9b50585342eaba627a1676299ced67]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1208/regulation/4) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [1983/914](https://www.legislation.gov.uk/uksi/1983/914) as amended by S.I. [1994/1851](https://www.legislation.gov.uk/uksi/1994/1851).
 
@@ -374,17 +374,17 @@ Copies of British Standards (see regulation 14(3)) can be obtained from any of t
 
 [^f00009]: Footnote: S.I. [2001/1208](https://www.legislation.gov.uk/uksi/2001/1208).
 
-[^key-b489691e86cf983459348e8895cc582c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1208/regulation/5) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-b489691e86cf983459348e8895cc582c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1208/regulation/5) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-22b5fdfb18a767f36eb186f7a3c340cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/1208/regulation/6) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-22b5fdfb18a767f36eb186f7a3c340cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/1208/regulation/6) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-2d74961a45b340f99c55c3e9853c828f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1208/regulation/7) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-2d74961a45b340f99c55c3e9853c828f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1208/regulation/7) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-8876685537f9de9fd7172ccb848a8ae9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/1208/regulation/8) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-8876685537f9de9fd7172ccb848a8ae9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/1208/regulation/8) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-789b200b608edc2bd5502ff158a1d562]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/8/2) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(j)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/j)
+[^c-789b200b608edc2bd5502ff158a1d562]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/8/2) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(j)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/j)
 
-[^key-c10dabcc7c294e12c12bb1ef24d8dd35]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/1208/regulation/9) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-c10dabcc7c294e12c12bb1ef24d8dd35]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/1208/regulation/9) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
 [^f00010]: Footnote: S.I. [1988/186](https://www.legislation.gov.uk/uksi/1988/186).
 
@@ -396,38 +396,38 @@ Copies of British Standards (see regulation 14(3)) can be obtained from any of t
 
 [^f00014]: Footnote: S.I. [2000/388](https://www.legislation.gov.uk/uksi/2000/388).
 
-[^key-0620ccf729a54bf400bf40a30a5854f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/1208/regulation/10) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-0620ccf729a54bf400bf40a30a5854f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/1208/regulation/10) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-2a6344386e6a5e89c2d673a34123ef22]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/1208/regulation/11) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-2a6344386e6a5e89c2d673a34123ef22]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/1208/regulation/11) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-48d43edfc1264df0c1580a1f58420093]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/1208/regulation/12) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-48d43edfc1264df0c1580a1f58420093]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/1208/regulation/12) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-22b2029f00312209c25fc90b9fc52846]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2001/1208/regulation/13) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-22b2029f00312209c25fc90b9fc52846]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2001/1208/regulation/13) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-58414d57260fa85ce8546e46d351acb1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-58414d57260fa85ce8546e46d351acb1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-a5b80d783ae113bcad2f2dd187277150]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5b80d783ae113bcad2f2dd187277150]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0ae0cc99699f1d3cc41f712171c31e4]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0ae0cc99699f1d3cc41f712171c31e4]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d00aeadae003b1b82f28bffcdb462020]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d00aeadae003b1b82f28bffcdb462020]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de0a31bc4fc499a54a8f8ac2c944bcc5]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/10)
+[^c-de0a31bc4fc499a54a8f8ac2c944bcc5]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/14/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/10)
 
-[^key-60c732bd9a931b2c182bd3750e5b1f58]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2001/1208/regulation/15) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-60c732bd9a931b2c182bd3750e5b1f58]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2001/1208/regulation/15) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-9795598823f0e1008f70fac02997b8d6]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/15/2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9795598823f0e1008f70fac02997b8d6]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/15/2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0af08671e6b19e9b793c61a9f77bc36e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2001/1208/regulation/16) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-0af08671e6b19e9b793c61a9f77bc36e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2001/1208/regulation/16) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-9c7ca860f858a5c15154893e7ac3bf71]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2001/1208/regulation/17) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-9c7ca860f858a5c15154893e7ac3bf71]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2001/1208/regulation/17) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-4e63cf26398408f51f1b0a5300bfeec1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2001/1208/regulation/18) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-4e63cf26398408f51f1b0a5300bfeec1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2001/1208/regulation/18) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-6048195e4478b402c3a29ec875f62b8f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2001/1208/regulation/19) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-6048195e4478b402c3a29ec875f62b8f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2001/1208/regulation/19) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-09103d9c2e56c276e12e761282db0551]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2001/1208/regulation/20) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-09103d9c2e56c276e12e761282db0551]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2001/1208/regulation/20) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-fa3b472c30c7b8988cd221e6215682a7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2001/1208/regulation/21) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-fa3b472c30c7b8988cd221e6215682a7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2001/1208/regulation/21) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
 
-[^key-c0830946bf044b6d794f7fa38aaf0fc3]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2001/1208/schedule) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)
+[^c-c0830946bf044b6d794f7fa38aaf0fc3]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2001/1208/schedule) in force at 28.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1208/regulation/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, eNGLAND AND wALES
 
-The Pet Cemeteries (England and Wales) Regulations 2007 (revoked)[^key-f3376f083a8d3b5c336677b1246cf3b2]
+The Pet Cemeteries (England and Wales) Regulations 2007 (revoked)[^c-f3376f083a8d3b5c336677b1246cf3b2]
 
 Made
 
@@ -50,36 +50,36 @@ Coming into force
 
 1st October 2007
 
-[^key-f3376f083a8d3b5c336677b1246cf3b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3376f083a8d3b5c336677b1246cf3b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f3376f083a8d3b5c336677b1246cf3b2]
+## 1. Citation, commencement and extent[^c-f3376f083a8d3b5c336677b1246cf3b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Waste Management Licensing Regulations 1994[^key-f3376f083a8d3b5c336677b1246cf3b2]
+## 2. Amendment of the Waste Management Licensing Regulations 1994[^c-f3376f083a8d3b5c336677b1246cf3b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Pollution Prevention and Control (England and Wales) Regulations 2000[^key-f3376f083a8d3b5c336677b1246cf3b2]
+## 3. Amendment of the Pollution Prevention and Control (England and Wales) Regulations 2000[^c-f3376f083a8d3b5c336677b1246cf3b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Landfill (England and Wales) Regulations 2002[^key-f3376f083a8d3b5c336677b1246cf3b2]
+## 4. Amendment of the Landfill (England and Wales) Regulations 2002[^c-f3376f083a8d3b5c336677b1246cf3b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provisions[^key-f3376f083a8d3b5c336677b1246cf3b2]
+## 5. Transitional provisions[^c-f3376f083a8d3b5c336677b1246cf3b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3376f083a8d3b5c336677b1246cf3b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3376f083a8d3b5c336677b1246cf3b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f3376f083a8d3b5c336677b1246cf3b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3376f083a8d3b5c336677b1246cf3b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3376f083a8d3b5c336677b1246cf3b2]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-f3376f083a8d3b5c336677b1246cf3b2]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))

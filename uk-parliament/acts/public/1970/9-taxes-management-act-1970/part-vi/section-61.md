@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Distraint by collectors.[^c845512][^key-5b34379114fc1f6dd61116fe1f31ce45][^key-d357e2d8c7ee90a6cf4dfb575bc2b5c1][^key-d7642010658e07b929d91df40f8dad49][^key-a35f374cc488b3e877defff2d425c0ac][^key-a35f374cc488b3e877defff2d425c0ac]
+## 61. Distraint by collectors.[^c845512][^c-5b34379114fc1f6dd61116fe1f31ce45][^c-d357e2d8c7ee90a6cf4dfb575bc2b5c1][^c-d7642010658e07b929d91df40f8dad49][^c-a35f374cc488b3e877defff2d425c0ac][^c-a35f374cc488b3e877defff2d425c0ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,19 +41,19 @@ Every such constable shall, when so required, aid and assist the collector in th
 
 and any such regulations shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the House of Commons.
 
-(7)[^key-705deae82edae5ac17be17d9da196529] This section extends only to Northern Ireland.
+(7)[^c-705deae82edae5ac17be17d9da196529] This section extends only to Northern Ireland.
 
 ## Annotations
 
 [^c845512]: Modification: S. 61 applied (with modifications) by the [Oil Taxation Act 1975 (c. 22)](https://www.legislation.gov.uk/ukpga/1975/22), [s. 1](https://www.legislation.gov.uk/ukpga/1975/22/section/1), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/2/paragraph/1/1)
 
-[^key-5b34379114fc1f6dd61116fe1f31ce45]: Modification: S. 61 applied (with modifications) (31.7.1997) by [Finance (No. 2) Act 1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58), [Sch. 2 para. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/2/paragraph/15/1)
+[^c-5b34379114fc1f6dd61116fe1f31ce45]: Modification: S. 61 applied (with modifications) (31.7.1997) by [Finance (No. 2) Act 1997 (c. 58)](https://www.legislation.gov.uk/ukpga/1997/58), [Sch. 2 para. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/2/paragraph/15/1)
 
-[^key-d357e2d8c7ee90a6cf4dfb575bc2b5c1]: Modification: S. 61 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999 (S.I. 1999/2537)](https://www.legislation.gov.uk/uksi/1999/2537), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/3/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1999/2537/schedule/part/I)
+[^c-d357e2d8c7ee90a6cf4dfb575bc2b5c1]: Modification: S. 61 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999 (S.I. 1999/2537)](https://www.legislation.gov.uk/uksi/1999/2537), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/1999/2537/regulation/3/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1999/2537/schedule/part/I)
 
-[^key-d7642010658e07b929d91df40f8dad49]: Modification: S. 61 applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/110/1/b) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
+[^c-d7642010658e07b929d91df40f8dad49]: Modification: S. 61 applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 110(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/110/1/b) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
 
-[^key-a35f374cc488b3e877defff2d425c0ac]: Modification: Pt. 6 applied (with modifications) by [The Income Tax (Pay As You Earn) Regulations 2003 (S.I. 2003/2682)](https://www.legislation.gov.uk/uksi/2003/2682), [reg. 97ZL](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97ZL) (as inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5))
+[^c-a35f374cc488b3e877defff2d425c0ac]: Modification: Pt. 6 applied (with modifications) by [The Income Tax (Pay As You Earn) Regulations 2003 (S.I. 2003/2682)](https://www.legislation.gov.uk/uksi/2003/2682), [reg. 97ZL](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97ZL) (as inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5))
 
 [^c2353389]: Textual amendment: Words in s. 61(1) substituted (1.2.1994) by [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 152(2)(7)](https://www.legislation.gov.uk/ukpga/1989/26/section/152/2/7); [S.I. 1994/87](https://www.legislation.gov.uk/uksi/1994/87), [art. 2](https://www.legislation.gov.uk/uksi/1994/87/article/2)
 
@@ -71,4 +71,4 @@ and any such regulations shall be made by statutory instrument which shall be su
 
 [^c2353403]: Textual amendment: S. 61(6) added (1.2.1994) by [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 152(6)(7)](https://www.legislation.gov.uk/ukpga/1989/26/section/152/6/7); [S.I. 1994/87](https://www.legislation.gov.uk/uksi/1994/87), [art. 2](https://www.legislation.gov.uk/uksi/1994/87/article/2)
 
-[^key-705deae82edae5ac17be17d9da196529]: Textual amendment: S. 61(7) inserted (6.4.2014) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 1(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/1/4); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
+[^c-705deae82edae5ac17be17d9da196529]: Textual amendment: S. 61(7) inserted (6.4.2014) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 1(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/1/4); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)

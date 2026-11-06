@@ -32,26 +32,26 @@ Mental Health (Public Safety and Appeals) (Scotland) Act 1999 (repealed)
 
 1999 asp 1
 
-[^key-3eaf9ae2ffc04b8b232859039eb72344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eaf9ae2ffc04b8b232859039eb72344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Continued detention of mentally disordered patients on grounds of public safety[^key-3eaf9ae2ffc04b8b232859039eb72344][^key-3eaf9ae2ffc04b8b232859039eb72344]
+## 1. Continued detention of mentally disordered patients on grounds of public safety[^c-3eaf9ae2ffc04b8b232859039eb72344][^c-3eaf9ae2ffc04b8b232859039eb72344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appeal from decisions et ceteralaetc. of sheriff under sections 64, 65 and 66 of 1984 Act[^key-3eaf9ae2ffc04b8b232859039eb72344][^key-3eaf9ae2ffc04b8b232859039eb72344]
+## 2. Appeal from decisions et ceteralaetc. of sheriff under sections 64, 65 and 66 of 1984 Act[^c-3eaf9ae2ffc04b8b232859039eb72344][^c-3eaf9ae2ffc04b8b232859039eb72344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of “mental disorder”[^key-3eaf9ae2ffc04b8b232859039eb72344][^key-3eaf9ae2ffc04b8b232859039eb72344]
+## 3. Meaning of “mental disorder”[^c-3eaf9ae2ffc04b8b232859039eb72344][^c-3eaf9ae2ffc04b8b232859039eb72344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title[^key-3eaf9ae2ffc04b8b232859039eb72344][^key-3eaf9ae2ffc04b8b232859039eb72344]
+## 4. Short title[^c-3eaf9ae2ffc04b8b232859039eb72344][^c-3eaf9ae2ffc04b8b232859039eb72344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3eaf9ae2ffc04b8b232859039eb72344]: Textual amendment: Act repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-3eaf9ae2ffc04b8b232859039eb72344]: Textual amendment: Act repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

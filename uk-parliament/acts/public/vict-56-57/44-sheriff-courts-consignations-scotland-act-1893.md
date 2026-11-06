@@ -41,7 +41,7 @@ This Act may be cited as the Sheriff Courts Consignations (Scotland) Act 1893 an
 
 In this Act the expression “consignation” shall extend and apply to any sum of money received by any sheriff clerk for deposit or consignation in any cause or proceeding in the ordinary sheriff court, . . . [^c575965]whether by order of court or otherwise, and shall include any sum of money lodged by way of caution or security in corroboration of any bond, civil or criminal.
 
-## 2A. Application of this Act to the Sheriff Appeal Court[^key-78b7c8aa75c8cd9091bdf991f1eb4ff8]
+## 2A. Application of this Act to the Sheriff Appeal Court[^c-78b7c8aa75c8cd9091bdf991f1eb4ff8]
 
 (1) This Act applies to the Sheriff Appeal Court as it applies to each sheriff court, subject to the following modifications.
 
@@ -89,7 +89,7 @@ Every person having any legal claim to the moneys to be paid over in terms of th
 
 [^c575965]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/I) Gp. 4
 
-[^key-78b7c8aa75c8cd9091bdf991f1eb4ff8]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/Vict/56-57/44/section/2A) inserted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/1)
+[^c-78b7c8aa75c8cd9091bdf991f1eb4ff8]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/Vict/56-57/44/section/2A) inserted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/1)
 
 [^c575966]: Textual amendment: Words substituted by virtue of [Sheriff Courts (Scotland) Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1971/58/schedule/1/paragraph/1)
 

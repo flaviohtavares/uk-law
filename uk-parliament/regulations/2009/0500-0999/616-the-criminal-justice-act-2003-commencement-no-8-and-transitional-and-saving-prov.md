@@ -31,32 +31,32 @@ summary: ''
 
 Criminal Law
 
-The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) (Amendment) Order 2009 (revoked)[^key-3864b0f5d35e84a98a1871994bc89584]
+The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) (Amendment) Order 2009 (revoked)[^c-3864b0f5d35e84a98a1871994bc89584]
 
 Made
 
 9th March 2009
 
-[^key-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3864b0f5d35e84a98a1871994bc89584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3864b0f5d35e84a98a1871994bc89584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3864b0f5d35e84a98a1871994bc89584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3864b0f5d35e84a98a1871994bc89584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3864b0f5d35e84a98a1871994bc89584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3864b0f5d35e84a98a1871994bc89584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**May not be in force at this date. Check the source.**
-
-[^key-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^c-3864b0f5d35e84a98a1871994bc89584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3864b0f5d35e84a98a1871994bc89584]: Textual amendment: Order revoked (30.11.2009) by [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3111/article/3)
+[^c-3864b0f5d35e84a98a1871994bc89584]: Textual amendment: Order revoked (30.11.2009) by [The Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) (Amendment No. 2) Order 2009 (S.I. 2009/3111)](https://www.legislation.gov.uk/uksi/2009/3111), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3111/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3111/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Trade: end-use control[^key-5f7a3a1c1b93d3c91eceafe23a0f7fe5]
+## 41A. Trade: end-use control[^c-5f7a3a1c1b93d3c91eceafe23a0f7fe5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f7a3a1c1b93d3c91eceafe23a0f7fe5]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2020/642/regulation/41A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/23/2)
+[^c-5f7a3a1c1b93d3c91eceafe23a0f7fe5]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2020/642/regulation/41A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/23/2)

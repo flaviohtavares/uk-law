@@ -45,11 +45,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and by section 36(1), (2)(h) and (3)(d) of the Legal Aid (Scotland) Act 1986[^f00002] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-0f3518719194f98d11aa5303bb344e46]
+## 1. Citation and commencement[^c-0f3518719194f98d11aa5303bb344e46]
 
 These Regulations may be cited as the Legal Aid (Scotland) Act 1986 Amendment Regulations 2004 and shall come into force on 4th December 2004.
 
-## 2. Modification of the Legal Aid (Scotland) Act 1986[^key-61e27740f08a0f14b90b6ae01013f019]
+## 2. Modification of the Legal Aid (Scotland) Act 1986[^c-61e27740f08a0f14b90b6ae01013f019]
 
 After paragraph (ab) of section 4(3) insert–
 
@@ -78,8 +78,8 @@ These Regulations modify the Legal Aid (Scotland) Act 1986 to provide the follow
 
 [^f00002]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47); section 36 was amended for purposes not relevant to these regulations. The functions of the Secretary of State were transferred to Scottish Ministers by section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0f3518719194f98d11aa5303bb344e46]: Commencement: Reg. 1 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/493/regulation/1)
+[^c-0f3518719194f98d11aa5303bb344e46]: Commencement: Reg. 1 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/493/regulation/1)
 
-[^key-61e27740f08a0f14b90b6ae01013f019]: Commencement: Reg. 2 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/493/regulation/1)
+[^c-61e27740f08a0f14b90b6ae01013f019]: Commencement: Reg. 2 in force at 4.12.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/493/regulation/1)
 
 [^M_F_a294cfe7-0cf3-4fc8-a9ac-c0c6c1ffeb79]: Textual amendment: Reg. 3 omitted (31.12.2020) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [10](https://www.legislation.gov.uk/ssi/2020/441/regulation/10)

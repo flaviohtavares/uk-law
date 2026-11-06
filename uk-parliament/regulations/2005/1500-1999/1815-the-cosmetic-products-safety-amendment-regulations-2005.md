@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Cosmetic Products (Safety) (Amendment) Regulations 2005 (revoked)[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+The Cosmetic Products (Safety) (Amendment) Regulations 2005 (revoked)[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 Made
 
@@ -46,58 +46,58 @@ Coming into operation
 
 28th July 2005
 
-[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+## 1. Citation, commencement and interpretation[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Addition of a new ultra violet filter to Schedule 7 to the Principal Regulations[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+## 2. Addition of a new ultra violet filter to Schedule 7 to the Principal Regulations[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Further amendments to the Principal Regulations[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+## 3. Further amendments to the Principal Regulations[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+## SCHEDULE[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 Regulations 2 and 3
 
-### PART 1[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+### PART 1[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+### PART 2[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+### PART 3[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+### PART 4[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+### PART 5[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]
+### PART 6[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e1fa2d4d86bf8c0fb04c589e2f4b493]: Textual amendment: Regulations revoked (18.6.2008) by [The Cosmetic Products (Safety) Regulations 2008 (S.I. 2008/1284)](https://www.legislation.gov.uk/uksi/2008/1284), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1284/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1284/schedule/1)
+[^c-4e1fa2d4d86bf8c0fb04c589e2f4b493]: Textual amendment: Regulations revoked (18.6.2008) by [The Cosmetic Products (Safety) Regulations 2008 (S.I. 2008/1284)](https://www.legislation.gov.uk/uksi/2008/1284), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1284/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1284/schedule/1)

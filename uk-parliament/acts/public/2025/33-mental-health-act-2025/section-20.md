@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Capacity to consent to treatment[^key-5943341044e3d591c357f5c542350b41]
+## 20. Capacity to consent to treatment[^c-5943341044e3d591c357f5c542350b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5943341044e3d591c357f5c542350b41]: Commencement: S. 20 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-5943341044e3d591c357f5c542350b41]: Commencement: S. 20 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

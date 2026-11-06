@@ -36,94 +36,94 @@ laying down implementing technical standards with regard to the standardised pre
 
 (Text with EEA relevance) (revoked)
 
-[^key-8d1277b1466b17e0b2fbd5f00314ac9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d1277b1466b17e0b2fbd5f00314ac9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Template for the statement of fees and its common symbol[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 1. Template for the statement of fees and its common symbol[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Common symbol and logo of the payment service provider[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 2. Common symbol and logo of the payment service provider[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Name and contact details of the account provider[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 3. Name and contact details of the account provider[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Name and contact details of the payment account holder[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 4. Name and contact details of the payment account holder[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Account name and identification[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 5. Account name and identification[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Calendar period[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 6. Calendar period[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Date[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 7. Date[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Introductory statement[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 8. Introductory statement[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Summary of fees and interest[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 9. Summary of fees and interest[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Detailed statement of fees paid on the account[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 10. Detailed statement of fees paid on the account[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Presentation of types of fees[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 11. Presentation of types of fees[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Presentation of packages of services charged as part of fees under the sub-heading ‘General account services’[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 12. Presentation of packages of services charged as part of fees under the sub-heading ‘General account services’[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Presentation of packages of services linked to a payment account charged separately from fees under the sub-heading ‘General account services’[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 13. Presentation of packages of services linked to a payment account charged separately from fees under the sub-heading ‘General account services’[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Detail of interest paid on the account[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 14. Detail of interest paid on the account[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Detail of interest earned on the account[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 15. Detail of interest earned on the account[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Additional information[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 16. Additional information[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Brand names[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 17. Brand names[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Use of electronic means[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 18. Use of electronic means[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Entry into force[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## Article 19. Entry into force[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d1277b1466b17e0b2fbd5f00314ac9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d1277b1466b17e0b2fbd5f00314ac9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Statement of fees template[^key-8d1277b1466b17e0b2fbd5f00314ac9b]
+## ANNEX — Statement of fees template[^c-8d1277b1466b17e0b2fbd5f00314ac9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d1277b1466b17e0b2fbd5f00314ac9b]: Textual amendment: Regulation revoked (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/d/ii)
+[^c-8d1277b1466b17e0b2fbd5f00314ac9b]: Textual amendment: Regulation revoked (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/d/ii)

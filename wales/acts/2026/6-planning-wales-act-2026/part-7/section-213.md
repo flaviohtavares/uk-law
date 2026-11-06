@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 213. Service of purchase notice following making of discontinuance order[^key-7d1b121a741ba88d70bc13f029648524]
+## 213. Service of purchase notice following making of discontinuance order[^c-7d1b121a741ba88d70bc13f029648524]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d1b121a741ba88d70bc13f029648524]: Commencement: S. 213 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7d1b121a741ba88d70bc13f029648524]: Commencement: S. 213 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

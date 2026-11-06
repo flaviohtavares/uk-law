@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Prohibited Methods of Capturing or Killing Wild Animals[^key-b7b6611e4bd95e4c618ecd9fe5563e07]
+## SCHEDULE 4A — Prohibited Methods of Capturing or Killing Wild Animals[^c-b7b6611e4bd95e4c618ecd9fe5563e07]
 
 *Extent: E.W.*
 
@@ -51,4 +51,4 @@ Regulation 45
 
 ## Annotations
 
-[^key-b7b6611e4bd95e4c618ecd9fe5563e07]: Textual amendment: Sch. 4A inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [reg. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/579/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7b6611e4bd95e4c618ecd9fe5563e07]: Textual amendment: Sch. 4A inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [reg. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/579/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

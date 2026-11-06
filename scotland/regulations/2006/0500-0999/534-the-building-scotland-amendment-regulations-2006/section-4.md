@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Transitional provisions[^key-831d7a0fe32e071c0513e9e47cec991a]
+## 4. Transitional provisions[^c-831d7a0fe32e071c0513e9e47cec991a]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ These Regulations were notified in draft to the European Commission and other Me
 
 ## Annotations
 
-[^key-831d7a0fe32e071c0513e9e47cec991a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
+[^c-831d7a0fe32e071c0513e9e47cec991a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)

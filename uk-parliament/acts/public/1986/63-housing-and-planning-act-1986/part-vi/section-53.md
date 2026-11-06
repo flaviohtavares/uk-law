@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-8ac121c741f0b15d21f1644fe0cf2e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8ac121c741f0b15d21f1644fe0cf2e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The enactments mentioned in Part IV of Schedule 12 to this Act are repealed to the extent specified.
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c11872701]: Commencement: S. 53(1)(2) partly in force; s. 53(1)(2) not in force at Royal Assent see s. 57(1)-(3); s. 53(1)(2) in force for specified purposes at 1.6.1996 by [S.I. 1996/1276](https://www.legislation.gov.uk/uksi/1996/1276), [art. 2](https://www.legislation.gov.uk/uksi/1996/1276/article/2)
 
-[^key-8ac121c741f0b15d21f1644fe0cf2e7e]: Textual amendment: S. 53(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-8ac121c741f0b15d21f1644fe0cf2e7e]: Textual amendment: S. 53(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

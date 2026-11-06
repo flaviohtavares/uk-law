@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. The use of sampling in respect of Part 2 of these Regulations[^key-6bdc7fbb8d15f462c609e1a843df7007]
+## 56. The use of sampling in respect of Part 2 of these Regulations[^c-6bdc7fbb8d15f462c609e1a843df7007]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bdc7fbb8d15f462c609e1a843df7007]: Commencement: Reg. 56 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-6bdc7fbb8d15f462c609e1a843df7007]: Commencement: Reg. 56 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

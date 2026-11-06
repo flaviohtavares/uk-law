@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.8. Issue of arrest warrant[^key-d19a7cd21c7852d85fc0f8a365597494]
+## 50.8. Issue of arrest warrant[^c-d19a7cd21c7852d85fc0f8a365597494]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d19a7cd21c7852d85fc0f8a365597494]: Commencement: [Rule 50.8](https://www.legislation.gov.uk/uksi/2025/909/rule/50.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d19a7cd21c7852d85fc0f8a365597494]: Commencement: [Rule 50.8](https://www.legislation.gov.uk/uksi/2025/909/rule/50.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01337]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 70 was amended by paragraphs 1 and 17 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48). Section 71 was amended by paragraph 202 of Schedule 16 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52). Section 137 was amended by sections 164 and 181 of, and paragraph 117 of Schedule 11 to, the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). Section 138 was amended by sections 164 and 181 of, and paragraph 118 of Schedule 11 to, the 2014 Act.

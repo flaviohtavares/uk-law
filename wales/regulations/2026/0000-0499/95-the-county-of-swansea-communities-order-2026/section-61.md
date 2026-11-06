@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**61.**[^key-86cea1b1c44ff6c1239cc5ad1e4819fe] In the community of Pennard, the number of councillors to be elected for the—
+**61.**[^c-86cea1b1c44ff6c1239cc5ad1e4819fe] In the community of Pennard, the number of councillors to be elected for the—
 
 - (a) Kittle ward is 2;
 - (b) Southgate ward is 5;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86cea1b1c44ff6c1239cc5ad1e4819fe]: Commencement: [Art. 61](https://www.legislation.gov.uk/wsi/2026/95/article/61) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-86cea1b1c44ff6c1239cc5ad1e4819fe]: Commencement: [Art. 61](https://www.legislation.gov.uk/wsi/2026/95/article/61) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

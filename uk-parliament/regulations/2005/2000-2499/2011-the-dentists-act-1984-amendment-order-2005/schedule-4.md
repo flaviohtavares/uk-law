@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Insertion of Schedule 4B[^key-bf19f8751028f00d09f4ad4139b4b50f]
+## SCHEDULE 4 — Insertion of Schedule 4B[^c-bf19f8751028f00d09f4ad4139b4b50f]
 
 *Extent: E+W+S+N.I.*
 
 Article 32(2)
 
-[^key-bf19f8751028f00d09f4ad4139b4b50f]
+[^c-bf19f8751028f00d09f4ad4139b4b50f]
 
 After Schedule 4A insert—
 
@@ -122,4 +122,4 @@ After Schedule 4A insert—
 
 ## Annotations
 
-[^key-bf19f8751028f00d09f4ad4139b4b50f]: Commencement: Sch. 4 in force at made date for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)
+[^c-bf19f8751028f00d09f4ad4139b4b50f]: Commencement: Sch. 4 in force at made date for specified purposes, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/4)

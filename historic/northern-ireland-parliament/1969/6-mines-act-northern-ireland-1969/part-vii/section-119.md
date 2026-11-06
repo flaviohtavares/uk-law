@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Notification of change of ownership or name of mine.[^key-3f3c0f7708075a2d848ec2082e971138]
+## 119. Notification of change of ownership or name of mine.[^c-3f3c0f7708075a2d848ec2082e971138]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3c0f7708075a2d848ec2082e971138]: Textual amendment: [S. 119](https://www.legislation.gov.uk/apni/1969/6/section/119) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-3f3c0f7708075a2d848ec2082e971138]: Textual amendment: [S. 119](https://www.legislation.gov.uk/apni/1969/6/section/119) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

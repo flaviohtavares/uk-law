@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Provision of information as to defendant's interest in property[^key-69c028c32e15800fff0110d7682a1a19]
+## 18A. Provision of information as to defendant's interest in property[^c-69c028c32e15800fff0110d7682a1a19]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the court may treat the acceptance as conclusive of the matters to which it rela
 
 ## Annotations
 
-[^key-69c028c32e15800fff0110d7682a1a19]: Textual amendment: S. 18A inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/2/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)
+[^c-69c028c32e15800fff0110d7682a1a19]: Textual amendment: S. 18A inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/2/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)

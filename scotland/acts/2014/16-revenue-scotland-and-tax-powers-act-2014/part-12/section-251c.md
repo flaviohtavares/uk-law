@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 251C. Set-off by Revenue Scotland[^key-732c6e2dff4896659486646c0cfb1108]
+## 251C. Set-off by Revenue Scotland[^c-732c6e2dff4896659486646c0cfb1108]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-732c6e2dff4896659486646c0cfb1108]: Textual amendment: [Ss. 251C](https://www.legislation.gov.uk/asp/2014/16/section/251C), [251D](https://www.legislation.gov.uk/asp/2014/16/section/251D) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 58(2)](https://www.legislation.gov.uk/asp/2024/14/section/58/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/e)
+[^c-732c6e2dff4896659486646c0cfb1108]: Textual amendment: [Ss. 251C](https://www.legislation.gov.uk/asp/2014/16/section/251C), [251D](https://www.legislation.gov.uk/asp/2014/16/section/251D) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 58(2)](https://www.legislation.gov.uk/asp/2024/14/section/58/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Quasi-judicial decisions[^key-89a07ea3438f99f163fcd69d99bbb9fe]
+## 23. Quasi-judicial decisions[^c-89a07ea3438f99f163fcd69d99bbb9fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 20 of the Northern Ireland Act 1998[^f00034] (Executive Committee) af
 
 ## Annotations
 
-[^key-89a07ea3438f99f163fcd69d99bbb9fe]: Commencement: Art. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-89a07ea3438f99f163fcd69d99bbb9fe]: Commencement: Art. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00034]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47). Section 20 was amended by section 5 of the Northern Ireland (St Andrews Agreement) Act [2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53).

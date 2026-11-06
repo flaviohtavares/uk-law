@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Power of residential property tribunal to make contravention order[^key-8c528c5f2c929d73d4160c7b3c601d3e]
+## 61. Power of residential property tribunal to make contravention order[^c-8c528c5f2c929d73d4160c7b3c601d3e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c528c5f2c929d73d4160c7b3c601d3e]: Commencement: S. 61 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-8c528c5f2c929d73d4160c7b3c601d3e]: Commencement: S. 61 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Except as otherwise provided by this Part, any question arising under this Section of[^key-2e0aa180cc6a3e662186e5c39f853016] the Scheme is to be determined by the Secretary of State.
+(1) Except as otherwise provided by this Part, any question arising under this Section of[^c-2e0aa180cc6a3e662186e5c39f853016] the Scheme is to be determined by the Secretary of State.
 
 (2) Any such disagreement as is referred to in section 50 of the 1995 Act (resolution of disputes) must be resolved by the Secretary of State in accordance with any arrangements applicable under that section.
 
 ## Annotations
 
-[^key-2e0aa180cc6a3e662186e5c39f853016]: Textual amendment: Words in [reg. 2.J.10(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.10/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-2e0aa180cc6a3e662186e5c39f853016]: Textual amendment: Words in [reg. 2.J.10(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.10/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

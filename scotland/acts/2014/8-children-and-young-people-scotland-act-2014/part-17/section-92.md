@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Power of Scottish Ministers to modify circumstances in which children's legal aid to be made available[^key-3d981938811feb6a619b7864274a291c]
+## 92. Power of Scottish Ministers to modify circumstances in which children's legal aid to be made available[^c-3d981938811feb6a619b7864274a291c]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d981938811feb6a619b7864274a291c]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/8/section/92) in force at 28.11.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/2/a)
+[^c-3d981938811feb6a619b7864274a291c]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/8/section/92) in force at 28.11.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/2/a)

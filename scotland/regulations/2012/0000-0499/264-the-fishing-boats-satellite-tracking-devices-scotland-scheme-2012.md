@@ -48,17 +48,17 @@ Coming into force
 
 29th October 2012
 
-The Scottish Ministers make the following Scheme in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] and all other powers enabling them to do so.[^key-a6d5992fb74823de6a864b66541e99f4]
+The Scottish Ministers make the following Scheme in exercise of the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] and all other powers enabling them to do so.[^c-a6d5992fb74823de6a864b66541e99f4]
 
 **Not yet in force.**
 
-## 1. Citation, commencement and extent[^key-d5aa3f70c76e2539994d1cb33dc8d8a3]
+## 1. Citation, commencement and extent[^c-d5aa3f70c76e2539994d1cb33dc8d8a3]
 
 (1) This Scheme may be cited as the Fishing Boats (Satellite-tracking Devices) (Scotland) Scheme 2012 and comes into force on 29th October 2012.
 
 (2) This Scheme extends to Scotland and the Scottish zone.
 
-## 2. Interpretation[^key-cdd38e8c35d6e0ad7091a58a0e5dac74]
+## 2. Interpretation[^c-cdd38e8c35d6e0ad7091a58a0e5dac74]
 
 (1) In this Scheme—
 
@@ -74,7 +74,7 @@ The Scottish Ministers make the following Scheme in exercise of the powers confe
 
 (2) Any reference in this Scheme to a numbered paragraph is to be construed as a reference to the paragraph so numbered in this Scheme.
 
-## 3. Satellite-tracking device grants[^key-2c768f3fff8143240db924cdeeda0b55]
+## 3. Satellite-tracking device grants[^c-2c768f3fff8143240db924cdeeda0b55]
 
 (1) Any person who owns a registered fishing boat which—
 
@@ -98,7 +98,7 @@ is eligible to make an application to the Scottish Ministers in respect of that 
 - “port of registration” means the port at which the fishing boat is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00005]; and
 - “Scottish based fishing boat” means a fishing boat, the port of administration and port of registration of which are, at the date of the application relating to the fishing boat, a port in Scotland.
 
-## 4. Applications[^key-b39796d511c16b29e33df596341dc7ce]
+## 4. Applications[^c-b39796d511c16b29e33df596341dc7ce]
 
 (1) The Scottish Ministers may from time to time invite applications and where they do so the following provisions of this paragraph apply.
 
@@ -128,7 +128,7 @@ as the Scottish Ministers may specify in the notice or from time to time require
 
 (6) An applicant must furnish all such further information relating to the application as the Scottish Ministers may specify in the notice or from time to time require.
 
-## 5. Consideration and approval of applications[^key-ef0f799b195044f562140313b3e3f14d]
+## 5. Consideration and approval of applications[^c-ef0f799b195044f562140313b3e3f14d]
 
 (1) As soon as reasonably practicable after the appropriate closing date, the Scottish Ministers must—
 
@@ -138,7 +138,7 @@ as the Scottish Ministers may specify in the notice or from time to time require
 
 (2) Without prejudice to the generality of sub-paragraph (1)(b), a condition may be determined which requires the applicant to provide such undertakings as the Scottish Ministers may consider appropriate to an application.
 
-## 6. Eligibility for and payment of grant[^key-967022b36fa679d51f11d622920827dc]
+## 6. Eligibility for and payment of grant[^c-967022b36fa679d51f11d622920827dc]
 
 (1) Subject to sub-paragraph (2) and paragraph 11, applicants whose applications have been approved either under paragraph 5 or following a successful review under paragraph 9(7)(b) are eligible for payment of grant in accordance with paragraph 7.
 
@@ -147,17 +147,17 @@ as the Scottish Ministers may specify in the notice or from time to time require
 - (a) the satellite-tracking device installed on board the fishing boat by the authorised provider complies with the requirements of the Control Regulation; and
 - (b) any relevant conditions for payment determined under paragraph 5(1)(b) have been complied with.
 
-## 7. Method of payment[^key-72d4fe422f2a6aa793afa23b149239ab]
+## 7. Method of payment[^c-72d4fe422f2a6aa793afa23b149239ab]
 
 (1) Payment of grant may be made by the Scottish Ministers at such time, or by such instalments at such intervals or times, as they may determine.
 
 (2) The Scottish Ministers may make payment of grant directly to the authorised provider on behalf of the applicant.
 
-## 8. Assistance to authorised officers[^key-7a456250daaa5e61e4004e4bf61f4fe9]
+## 8. Assistance to authorised officers[^c-7a456250daaa5e61e4004e4bf61f4fe9]
 
 Any applicant or any employee or agent of any applicant must give to an authorised officer such assistance as the officer may reasonably request in order to exercise the powers conferred on the officer by paragraph 10.
 
-## 9. Review of decision[^key-4b9f48d6571a40f87d5bb195306d7510]
+## 9. Review of decision[^c-4b9f48d6571a40f87d5bb195306d7510]
 
 (1) Where the Scottish Ministers reject an application under paragraph 5(1)(a) an application for review may be made no later than 3 months from the date of notification of that decision by the Scottish Ministers under paragraph 5(1)(c).
 
@@ -193,7 +193,7 @@ Any applicant or any employee or agent of any applicant must give to an authoris
 
 (8) The Scottish Ministers must notify the applicant and, where different, the applicant for review in writing of their decision under sub‑paragraph (7) as soon as reasonably practicable.
 
-## 10. Powers of authorised officers[^key-5569c57ef8080c80ed64ebff09a29841]
+## 10. Powers of authorised officers[^c-5569c57ef8080c80ed64ebff09a29841]
 
 (1) An authorised officer at all reasonable hours and on producing, if required to do so, some duly authenticated document showing the authority of the officer, may exercise the powers specified in this paragraph for the purpose of ascertaining whether and to what extent—
 
@@ -234,7 +234,7 @@ Any applicant or any employee or agent of any applicant must give to an authoris
 - “relevant document” means any document relating to the fishing boat in respect of which an application has been made; and
 - “relevant premises” includes the boat in respect of which an application has been made and any premises in which a relevant document is retained or in which an authorised officer has reasonable grounds to believe such a document may be retained.
 
-## 11. Reduction, withholding and recovery of grant[^key-1ff185b005e9f391282de4d2b396e93a]
+## 11. Reduction, withholding and recovery of grant[^c-1ff185b005e9f391282de4d2b396e93a]
 
 (1) If at any time after the Scottish Ministers have approved an application in respect of any Scottish based fishing boat it appears to them—
 
@@ -256,7 +256,7 @@ they may revoke the approval of such application or withhold the grant or any pa
 - (b) afford the applicant the opportunity of making written representations within such time as the Scottish Ministers consider reasonable; and
 - (c) consider any such representations.
 
-## 12. Interest[^key-140f5f2d04c6660709c7bbc4ee2d83d8]
+## 12. Interest[^c-140f5f2d04c6660709c7bbc4ee2d83d8]
 
 (1) Where the Scottish Ministers recover on demand payment of grant in whole or in part in accordance with paragraph 11, they may, in addition, recover interest on that amount at a rate of 1% above LIBOR calculated on a daily basis for the period from the date of payment until the date of recovery.
 
@@ -300,36 +300,36 @@ Section 17 of the Fisheries Act 1981 creates offences in respect of the producti
 
 [^f00001]: Footnote: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29). See section 18(1) of the Fisheries Act 1981 for a definition of “the Ministers” relevant for the purposes of this Scheme. Sections 15(2) and 18(1) were amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 ( [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68(1), (2) and (3) and have effect in relation to Scotland as modified by section 18A inserted by that Order, Schedule 2, paragraph 68(4).
 
-[^key-a6d5992fb74823de6a864b66541e99f4]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(2)(f)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/2/f), [(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a6d5992fb74823de6a864b66541e99f4]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(2)(f)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/2/f), [(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-d5aa3f70c76e2539994d1cb33dc8d8a3]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-d5aa3f70c76e2539994d1cb33dc8d8a3]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-cdd38e8c35d6e0ad7091a58a0e5dac74]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/264/paragraph/2) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-cdd38e8c35d6e0ad7091a58a0e5dac74]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/264/paragraph/2) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
 [^f00002]: Footnote: OJ L 343, 22.12.2009, p.1.
 
 [^f00003]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). The sea within the British Fishery Limits (that is the limits set by or under section 1 of the Fishery Limits Act [1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86)) which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 ( [S.I.  1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
 
-[^key-2c768f3fff8143240db924cdeeda0b55]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/264/paragraph/3) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-2c768f3fff8143240db924cdeeda0b55]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/264/paragraph/3) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
 [^f00004]: Footnote: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84). Section 4 was amended by the Aquaculture and Fisheries (Scotland) Act [2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), schedule 1, paragraph 3(a) and by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), sections 4(6) and 197.
 
 [^f00005]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-b39796d511c16b29e33df596341dc7ce]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/264/paragraph/4) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-b39796d511c16b29e33df596341dc7ce]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/264/paragraph/4) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-ef0f799b195044f562140313b3e3f14d]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/264/paragraph/5) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-ef0f799b195044f562140313b3e3f14d]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/264/paragraph/5) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-967022b36fa679d51f11d622920827dc]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/264/paragraph/6) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-967022b36fa679d51f11d622920827dc]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/264/paragraph/6) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-72d4fe422f2a6aa793afa23b149239ab]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/264/paragraph/7) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-72d4fe422f2a6aa793afa23b149239ab]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/264/paragraph/7) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-7a456250daaa5e61e4004e4bf61f4fe9]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2012/264/paragraph/8) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-7a456250daaa5e61e4004e4bf61f4fe9]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2012/264/paragraph/8) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-4b9f48d6571a40f87d5bb195306d7510]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2012/264/paragraph/9) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-4b9f48d6571a40f87d5bb195306d7510]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2012/264/paragraph/9) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-5569c57ef8080c80ed64ebff09a29841]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2012/264/paragraph/10) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-5569c57ef8080c80ed64ebff09a29841]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2012/264/paragraph/10) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-1ff185b005e9f391282de4d2b396e93a]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2012/264/paragraph/11) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-1ff185b005e9f391282de4d2b396e93a]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2012/264/paragraph/11) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
 
-[^key-140f5f2d04c6660709c7bbc4ee2d83d8]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2012/264/paragraph/12) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)
+[^c-140f5f2d04c6660709c7bbc4ee2d83d8]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2012/264/paragraph/12) in force at 29.10.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/264/paragraph/1/1)

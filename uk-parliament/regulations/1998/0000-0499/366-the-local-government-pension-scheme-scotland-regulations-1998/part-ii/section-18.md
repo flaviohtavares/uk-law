@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. General qualification for benefits[^key-46fa398021337c03920d17911397f0ab]
+## 18. General qualification for benefits[^c-46fa398021337c03920d17911397f0ab]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46fa398021337c03920d17911397f0ab]: Commencement: Reg. 18 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-46fa398021337c03920d17911397f0ab]: Commencement: Reg. 18 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

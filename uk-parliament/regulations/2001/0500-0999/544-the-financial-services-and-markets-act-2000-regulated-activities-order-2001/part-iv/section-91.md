@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Consequential amendments of subordinate legislation under the Consumer Credit Act 1974[^key-1fc6c631b7e477d80de9e80615c1f02a]
+## 91. Consequential amendments of subordinate legislation under the Consumer Credit Act 1974[^c-1fc6c631b7e477d80de9e80615c1f02a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fc6c631b7e477d80de9e80615c1f02a]: Textual amendment: Art. 91 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [9(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/9/3)
+[^c-1fc6c631b7e477d80de9e80615c1f02a]: Textual amendment: Art. 91 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [9(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/9/3)

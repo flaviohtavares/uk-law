@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Ill-health applications[^key-084f5635e477035e2b7cedf580ca4935]
+## 105. Ill-health applications[^c-084f5635e477035e2b7cedf580ca4935]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-084f5635e477035e2b7cedf580ca4935]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2014/292/regulation/105) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-084f5635e477035e2b7cedf580ca4935]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2014/292/regulation/105) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

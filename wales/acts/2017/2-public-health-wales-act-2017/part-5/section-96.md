@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. What is an intimate piercing?[^key-c69e8c2527fbcb0978ac007ac8df622e]
+## 96. What is an intimate piercing?[^c-c69e8c2527fbcb0978ac007ac8df622e]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c69e8c2527fbcb0978ac007ac8df622e]: Commencement: [S. 96](https://www.legislation.gov.uk/anaw/2017/2/section/96) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-c69e8c2527fbcb0978ac007ac8df622e]: Commencement: [S. 96](https://www.legislation.gov.uk/anaw/2017/2/section/96) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

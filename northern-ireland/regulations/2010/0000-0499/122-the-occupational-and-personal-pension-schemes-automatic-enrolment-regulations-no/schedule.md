@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Information for workers[^key-49adbc29b1eb47bdb40372126559b4a5]
+## SCHEDULE 1 — Information for workers[^c-49adbc29b1eb47bdb40372126559b4a5]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ If you have another job your other employer might also put you into pension savi
 
 ## Annotations
 
-[^key-49adbc29b1eb47bdb40372126559b4a5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2010/122/schedule/1) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(11)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/11), [Sch.](https://www.legislation.gov.uk/nisr/2013/243/schedule)
+[^c-49adbc29b1eb47bdb40372126559b4a5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2010/122/schedule/1) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(11)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/11), [Sch.](https://www.legislation.gov.uk/nisr/2013/243/schedule)

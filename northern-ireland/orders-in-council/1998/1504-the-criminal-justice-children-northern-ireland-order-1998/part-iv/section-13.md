@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Remand in custody[^key-bd749c918c23a226d9fe92e629abcef6]
+## 13. Remand in custody[^c-bd749c918c23a226d9fe92e629abcef6]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ the court shall make an order committing him to a juvenile justice centre (and n
 
 ## Annotations
 
-[^key-bd749c918c23a226d9fe92e629abcef6]: Modification: [Art. 13](https://www.legislation.gov.uk/nisi/1998/1504/article/13) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [110(11)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/11) (with [reg. 110(12)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/12))
+[^c-bd749c918c23a226d9fe92e629abcef6]: Modification: [Art. 13](https://www.legislation.gov.uk/nisi/1998/1504/article/13) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [110(11)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/11) (with [reg. 110(12)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/12))
 
 [^c17146361]: Textual amendment: [2005 NI 15](https://www.legislation.gov.uk/2005/ni15)
 

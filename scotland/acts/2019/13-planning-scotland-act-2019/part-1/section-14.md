@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Local place plans[^key-d6299998660c514192c4591bae7c00eb]
+## 14. Local place plans[^c-d6299998660c514192c4591bae7c00eb]
 
 *Extent: S*
 
-(1)[^key-dc3d692bff52d559855ade5bd1581588][^key-07f2db4ab78cea149e19a65282af3744][^key-ac98a9c2e5d98bb8d024d29d98b6760c] The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+(1)[^c-dc3d692bff52d559855ade5bd1581588][^c-07f2db4ab78cea149e19a65282af3744][^c-ac98a9c2e5d98bb8d024d29d98b6760c] The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
-(2)[^key-aebdbd1307bea7bb83568eba202ab6f9] After section 15 insert—
+(2)[^c-aebdbd1307bea7bb83568eba202ab6f9] After section 15 insert—
 
 > **15A. Preparation of local development plan: invitation to prepare local place plans**
 >
@@ -35,7 +35,7 @@ summary: ''
 
 .
 
-(3)[^key-2d847791bc267f807dc5716c0344826d] After section 15A insert—
+(3)[^c-2d847791bc267f807dc5716c0344826d] After section 15A insert—
 
 > **15B. Review of local place plans**
 >
@@ -65,7 +65,7 @@ summary: ''
 
 .
 
-(4)[^key-e743b0c41915026d7068684a6bded43c] In section 16 (preparation and monitoring of local development plans), in subsection (2)(a), after sub-paragraph (ii), insert—
+(4)[^c-e743b0c41915026d7068684a6bded43c] In section 16 (preparation and monitoring of local development plans), in subsection (2)(a), after sub-paragraph (ii), insert—
 
 > - (iii) any registered local place plan (see schedule 19) that is for the part of their district to which the local development plan relates,
 
@@ -79,7 +79,7 @@ summary: ''
 
 .
 
-(7)[^key-2d847791bc267f807dc5716c0344826d] After schedule 18 insert—
+(7)[^c-2d847791bc267f807dc5716c0344826d] After schedule 18 insert—
 
 > **SCHEDULE 19 — Local place plans**
 >
@@ -150,16 +150,16 @@ summary: ''
 
 ## Annotations
 
-[^key-d6299998660c514192c4591bae7c00eb]: Commencement: S. 14 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-d6299998660c514192c4591bae7c00eb]: Commencement: S. 14 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
 
-[^key-dc3d692bff52d559855ade5bd1581588]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2019/13/section/14/1) in force at 22.1.2022 for specified purposes by [S.S.I. 2021/480](https://www.legislation.gov.uk/ssi/2021/480), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/2)
+[^c-dc3d692bff52d559855ade5bd1581588]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2019/13/section/14/1) in force at 22.1.2022 for specified purposes by [S.S.I. 2021/480](https://www.legislation.gov.uk/ssi/2021/480), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/2)
 
-[^key-07f2db4ab78cea149e19a65282af3744]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2019/13/section/14/1) in force at 19.5.2023 for specified purposes by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/d)[(3)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-07f2db4ab78cea149e19a65282af3744]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2019/13/section/14/1) in force at 19.5.2023 for specified purposes by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/d)[(3)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
 
-[^key-ac98a9c2e5d98bb8d024d29d98b6760c]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2019/13/section/14/1) in force at 20.5.2023 for specified purposes by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 3](https://www.legislation.gov.uk/ssi/2023/100/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-ac98a9c2e5d98bb8d024d29d98b6760c]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2019/13/section/14/1) in force at 20.5.2023 for specified purposes by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 3](https://www.legislation.gov.uk/ssi/2023/100/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
 
-[^key-aebdbd1307bea7bb83568eba202ab6f9]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/asp/2019/13/section/14/2) in force at 19.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/d) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-aebdbd1307bea7bb83568eba202ab6f9]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/asp/2019/13/section/14/2) in force at 19.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/d) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
 
-[^key-2d847791bc267f807dc5716c0344826d]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2019/13/section/14/3)[(7)](https://www.legislation.gov.uk/asp/2019/13/section/14/7) in force at 22.1.2022 in so far as not already in force by [S.S.I. 2021/480](https://www.legislation.gov.uk/ssi/2021/480), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/1)
+[^c-2d847791bc267f807dc5716c0344826d]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2019/13/section/14/3)[(7)](https://www.legislation.gov.uk/asp/2019/13/section/14/7) in force at 22.1.2022 in so far as not already in force by [S.S.I. 2021/480](https://www.legislation.gov.uk/ssi/2021/480), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/480/regulation/2/1)
 
-[^key-e743b0c41915026d7068684a6bded43c]: Commencement: [S. 14(4)](https://www.legislation.gov.uk/asp/2019/13/section/14/4) in force at 20.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2023/100/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-e743b0c41915026d7068684a6bded43c]: Commencement: [S. 14(4)](https://www.legislation.gov.uk/asp/2019/13/section/14/4) in force at 20.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2023/100/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))

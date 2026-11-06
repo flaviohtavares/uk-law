@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Power to stop, board, search etc.[^key-1bb2664232e888416a61f1107d048a34]
+## 74. Power to stop, board, search etc.[^c-1bb2664232e888416a61f1107d048a34]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bb2664232e888416a61f1107d048a34]: Commencement: Reg. 74 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-1bb2664232e888416a61f1107d048a34]: Commencement: Reg. 74 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

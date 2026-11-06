@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. FCA's exemption from liability in damages[^key-17cafcf62e4395d6a748c67e97abce93]
+## 121. FCA's exemption from liability in damages[^c-17cafcf62e4395d6a748c67e97abce93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The functions of the FCA under these Regulations are to be treated for the purpo
 
 ## Annotations
 
-[^key-17cafcf62e4395d6a748c67e97abce93]: Modification: Reg. 121 modified by S.I. 2018/1201, reg. 38(2) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3))
+[^c-17cafcf62e4395d6a748c67e97abce93]: Modification: Reg. 121 modified by S.I. 2018/1201, reg. 38(2) (as inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3))
 
 [^c23031141]: Marginal citation: Paragraph 25 was amended by section 109 of the Financial Services (Banking Reform) Act 2013.

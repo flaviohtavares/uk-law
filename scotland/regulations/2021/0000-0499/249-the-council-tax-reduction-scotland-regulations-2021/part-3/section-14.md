@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Conditions of entitlement to council tax reduction – dwellings in bands E to H[^key-35f1678d3448d8eef1d540a20619f037]
+## 14. Conditions of entitlement to council tax reduction – dwellings in bands E to H[^c-35f1678d3448d8eef1d540a20619f037]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35f1678d3448d8eef1d540a20619f037]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/249/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-35f1678d3448d8eef1d540a20619f037]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/249/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

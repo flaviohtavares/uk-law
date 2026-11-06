@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188.[^key-d28bd908a699fec739684159b821e4e0]
+## 188.[^c-d28bd908a699fec739684159b821e4e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d28bd908a699fec739684159b821e4e0]: Commencement: Reg. 188 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-d28bd908a699fec739684159b821e4e0]: Commencement: Reg. 188 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

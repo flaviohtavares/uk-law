@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4badf4b2f24e6c327ae0a2f325b3fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4badf4b2f24e6c327ae0a2f325b3fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4badf4b2f24e6c327ae0a2f325b3fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4badf4b2f24e6c327ae0a2f325b3fa04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following section shall be inserted after section 182 of the [^c13518561]Finance Act 1989 (disclosure of information)—
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4badf4b2f24e6c327ae0a2f325b3fa04]: Textual amendment: [S. 51(1)](https://www.legislation.gov.uk/ukpga/1992/48/section/51/1)[(2)](https://www.legislation.gov.uk/ukpga/1992/48/section/51/2) repealed (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4badf4b2f24e6c327ae0a2f325b3fa04]: Textual amendment: [S. 51(1)](https://www.legislation.gov.uk/ukpga/1992/48/section/51/1)[(2)](https://www.legislation.gov.uk/ukpga/1992/48/section/51/2) repealed (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c13518561]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).

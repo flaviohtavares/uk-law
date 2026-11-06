@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Democratic consent process[^key-b0bc0c1b1002070fbe2c2a5975371a7c]
+## 56A. Democratic consent process[^c-b0bc0c1b1002070fbe2c2a5975371a7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6A (EU Withdrawal: democratic consent process) has effect.
 
 ## Annotations
 
-[^key-b0bc0c1b1002070fbe2c2a5975371a7c]: Textual amendment: Pt. 5A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/2)
+[^c-b0bc0c1b1002070fbe2c2a5975371a7c]: Textual amendment: Pt. 5A inserted (10.12.2020) by [The Protocol on Ireland/Northern Ireland (Democratic Consent Process) (EU Exit) Regulations 2020 (S.I. 2020/1500)](https://www.legislation.gov.uk/uksi/2020/1500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1500/regulation/2/2)

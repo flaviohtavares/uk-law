@@ -59,7 +59,7 @@ The Secretary of State, in whom the powers conferred by sections 6(4), 16(1), 17
 
 (2) These Regulations apply in England only.
 
-(3) These Regulations apply to poultrymeat described in point 1 of Part V of Annex[^key-4066ddc2bfeb01ff3ef6ed47c61ebc15] VII to Regulation (EU) 2013, excluding poultrymeat described in point I(2) of Part B of Annex[^key-14385f96f2d35e3f4ab5606300ff1f15] XIV to the Single CMO Regulation.
+(3) These Regulations apply to poultrymeat described in point 1 of Part V of Annex[^c-4066ddc2bfeb01ff3ef6ed47c61ebc15] VII to Regulation (EU) 2013, excluding poultrymeat described in point I(2) of Part B of Annex[^c-14385f96f2d35e3f4ab5606300ff1f15] XIV to the Single CMO Regulation.
 
 (4) These Regulations do not apply to the direct supply of small quantities of poultrymeat by a producer with an annual production of under 10,000 birds where the meat—
 
@@ -77,15 +77,15 @@ The Secretary of State, in whom the powers conferred by sections 6(4), 16(1), 17
 - “**Commission Regulation**” means Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat, as amended from time to time;
 - “**contravene**” includes fail to comply, and “**contravention**” is to be construed accordingly;
 - “**enforcement authority**” means an authority exercising a function conferred on it by regulation 9;
-- “**European poultrymeat provision**” means a provision of the Single CMO Regulation or Regulation ([^key-0bd3b224bc302532bd4bd6d1b8f5ff44]EU) 2013 or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
+- “**European poultrymeat provision**” means a provision of the Single CMO Regulation or Regulation ([^c-0bd3b224bc302532bd4bd6d1b8f5ff44]EU) 2013 or the Commission Regulation specified in column 1 of Part 1 or 2 of Schedule 1, as read with any provision mentioned in the corresponding entry in column 2 of Part 1 or 2 of that Schedule;
 - “officer”—
   - (a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body; and
   - (b) in relation to an unincorporated body, means any member of its governing body or a chief executive, manager or other similar officer of the body;
-- “**poultrymeat[^key-3c2c3d685b1b302b96e1bcf95a87402e]**” has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
+- “**poultrymeat[^c-3c2c3d685b1b302b96e1bcf95a87402e]**” has the meaning given by point II(1) of Part V of Annex VII to Regulation (EU) 2013;
 - “**premises**” means any place, including those requiring inspection under Article 12(5)(a) to (d) of the Commission Regulation, and any vehicle, trailer, stall or moveable structure;
-- “Regulation ([^key-acae77424ca1c703257248e1ea09b7e7]EU) 2013” means “Regulation ([^key-cdb8ade88dc6b3ed5ea6064ce8c0e728]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time; [^key-a2dc337519f174d0cf413dedd11a6da5]...
+- “Regulation ([^c-acae77424ca1c703257248e1ea09b7e7]EU) 2013” means “Regulation ([^c-cdb8ade88dc6b3ed5ea6064ce8c0e728]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time; [^c-a2dc337519f174d0cf413dedd11a6da5]...
 - “**Single CMO Regulation**” means Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provision for certain agricultural products (Single CMO Regulation).
-- “[^key-a367601ddb7f56983285e072f6b3f21f]**third country**” means any country or territory other than—
+- “[^c-a367601ddb7f56983285e072f6b3f21f]**third country**” means any country or territory other than—
   - (a) the United Kingdom,
   - (b) the Bailiwick of Guernsey,
   - (c) the Bailiwick of Jersey, or
@@ -93,7 +93,7 @@ The Secretary of State, in whom the powers conferred by sections 6(4), 16(1), 17
 
 (2) In these Regulations, any reference to Part B of Annex XIV to the Single CMO Regulation is a reference to Part B of Annex XIV to the Single CMO Regulation as amended from time to time.
 
-(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation ([^key-8fcdde64dfa278a957c83692cf65f06f]EU) 2013 or the Commission Regulation have the same meaning in these Regulations as in the European Regulation in which they are used.
+(3) Other expressions used in these Regulations and in the Single CMO Regulation or Regulation ([^c-8fcdde64dfa278a957c83692cf65f06f]EU) 2013 or the Commission Regulation have the same meaning in these Regulations as in the European Regulation in which they are used.
 
 ## 3. Offences
 
@@ -183,7 +183,7 @@ On an appeal against a decision by the Secretary of State mentioned in regulatio
 
 (4) The record keeping requirements in Article 12(2) and (4) of the Commission Regulation must be enforced by the Secretary of State.
 
-(4A)[^key-29a3fe6885ff5eaebceadc6546b58f8b] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(4A)[^c-29a3fe6885ff5eaebceadc6546b58f8b] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 (5) In this regulation—
 
@@ -204,20 +204,20 @@ Each enforcement authority must give such assistance and information to any othe
 
 ## 11. Powers of entry
 
-(1) An authorised officer may, on giving reasonable notice, enter premises (except premises used wholly or mainly as a private dwellinghouse)[^key-2eb287383b884d74312b9a8db9ae20b4] at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
+(1) An authorised officer may, on giving reasonable notice, enter premises (except premises used wholly or mainly as a private dwellinghouse)[^c-2eb287383b884d74312b9a8db9ae20b4] at any reasonable hour for the purpose of ensuring that the provisions of these Regulations are being complied with.
 
-(1A)[^key-b5d55e3085ffd84791b1e712ac3bb5e3] The requirement to give notice does not apply—
+(1A)[^c-b5d55e3085ffd84791b1e712ac3bb5e3] The requirement to give notice does not apply—
 
 - (a) where reasonable efforts to agree an appointment have failed;
 - (b) where an authorised officer reasonably believes that giving notice would defeat the object of the entry;
 - (c) where an officer has a reasonable suspicion of a breach of these Regulations; or
 - (d) in an emergency.
 
-(2)[^key-e97336768ad523eeec8f2dc1610fe457] The authorised officer may be accompanied by such other person as the authorised officer considers necessary.
+(2)[^c-e97336768ad523eeec8f2dc1610fe457] The authorised officer may be accompanied by such other person as the authorised officer considers necessary.
 
 (3) An authorised officer must not exercise the powers under paragraph (1) or (2) except on the production, if so required, of a duly authenticated document showing the officer's authority.
 
-(4)[^key-20fd8bd25d66b5d66a7a29a082200854] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-20fd8bd25d66b5d66a7a29a082200854] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If a justice of the peace, on sworn information in writing, is satisfied of the matters mentioned in paragraph (6), the justice may sign a warrant permitting an authorised officer to enter any premises, if need be by reasonable force.
 
@@ -238,7 +238,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (12) A warrant granted under paragraph (5)—
 
-- (a) is valid for three months[^key-f4106caae6508dae49af1527aa470a09], beginning with the day on which it is granted; and
+- (a) is valid for three months[^c-f4106caae6508dae49af1527aa470a09], beginning with the day on which it is granted; and
 - (b) must be produced for inspection to the person (if there is one) who appears to the officer to be the occupier, or the person in charge of the premises.
 
 (13) An authorised officer who enters any premises that are unoccupied or where the occupier is temporarily absent must leave the premises as effectively secured against unauthorised entry as when the officer found them.
@@ -284,7 +284,7 @@ Each enforcement authority must give such assistance and information to any othe
 
 (9) O may give such directions as O thinks appropriate in relation to a batch of poultrymeat to which paragraph (10) applies—
 
-- (a) to prevent it being marketed in the British Islands[^key-5eea88ae80d2b877d0be42070c57de3c] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
+- (a) to prevent it being marketed in the British Islands[^c-5eea88ae80d2b877d0be42070c57de3c] until the packaging has been marked, under supervision, in the manner mentioned in the first sub-paragraph of Article 16(6) of the Commission Regulation; or
 - (b) to ensure that it is exported to a third country.
 
 (10) This paragraph applies to—
@@ -296,9 +296,9 @@ Each enforcement authority must give such assistance and information to any othe
 
 (11) O must not exercise any power under this regulation, or give a direction under this regulation, except on the production, if so required, of a duly authenticated document showing O's authority.
 
-(12)[^key-8afbf62fe5b2139b5e36fe6200197b2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-8afbf62fe5b2139b5e36fe6200197b2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13) In this regulation “**live poultry**” has the meaning given to it in Part XX of Annex I to the Regulation ([^key-cf4066664390225931a4361e56ee1881]EU) 2013.
+(13) In this regulation “**live poultry**” has the meaning given to it in Part XX of Annex I to the Regulation ([^c-cf4066664390225931a4361e56ee1881]EU) 2013.
 
 ## 13. Procedure on seizure
 
@@ -552,13 +552,13 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 2(1)
 
-### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^key-66b1eab95bb59a0c5fe4ebbd1545ecd4]
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION or Regulation (EU) 2013[^c-66b1eab95bb59a0c5fe4ebbd1545ecd4]
 
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
-| *Relevant provision of the Single CMO Regulation or Regulation ([^key-d87bd4833ba6f66819c847954e1894e5]EU) 2013* | *Provisions to be read with the provisions of the Single CMO Regulation or Regulation ([^key-825ff8f11cc944c616a0760ddfb2c205]EU) 2013 mentioned in column 1* | *Subject matter* |
-| Article 116 of the Single CMO Regulation[^key-047f029f98c64ad5dd01b90ffeb03cf0], insofar as it relates to the marketing of poultrymeat<br>Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^key-522cfe3391a99b881fcfb975aebc34c5] | Part B(I)(2) and (3) and (III)(1) of Annex 14 to the Single CMO Regulation and the Commission Regulation[^key-51d18f5273d3a84b5331fd9356d368be]<br>Article 7 of the Commission Regulation | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and(3) and ([^key-906e5e079bfad92d41224820bab2092d]III(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 and the Commission Regulation.<br>Quality grading. |
-| point[^key-2905b1318a4541b240d6a99dc14edb36] III of Part V of Annex VII to Regulation (EU) 2013 | Regulation 4 of these Regulations and Point II(2) of Part V of Annex[^key-d323ba7c143584ce523ac24778ab7de8] VII to Regulation (EU) 2013 in relation to fresh poultrymeat<br>Point II(3) of Part V of Annex VII to Regulation (EU) 2013 in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Regulation (EU) 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
+| *Relevant provision of the Single CMO Regulation or Regulation ([^c-d87bd4833ba6f66819c847954e1894e5]EU) 2013* | *Provisions to be read with the provisions of the Single CMO Regulation or Regulation ([^c-825ff8f11cc944c616a0760ddfb2c205]EU) 2013 mentioned in column 1* | *Subject matter* |
+| Article 116 of the Single CMO Regulation[^c-047f029f98c64ad5dd01b90ffeb03cf0], insofar as it relates to the marketing of poultrymeat<br>Point III(1) of Part B of Annex XIV to the Single CMO Regulation[^c-522cfe3391a99b881fcfb975aebc34c5] | Part B(I)(2) and (3) and (III)(1) of Annex 14 to the Single CMO Regulation and the Commission Regulation[^c-51d18f5273d3a84b5331fd9356d368be]<br>Article 7 of the Commission Regulation | Prohibition on the marketing of poultrymeat except in accordance with the marketing standards laid down in Part B(I)(2) and(3) and ([^c-906e5e079bfad92d41224820bab2092d]III(I) of Annex XIV to the Single CMO Regulation and Part V of Annex VII to Regulation (EU) 2013 and the Commission Regulation.<br>Quality grading. |
+| point[^c-2905b1318a4541b240d6a99dc14edb36] III of Part V of Annex VII to Regulation (EU) 2013 | Regulation 4 of these Regulations and Point II(2) of Part V of Annex[^c-d323ba7c143584ce523ac24778ab7de8] VII to Regulation (EU) 2013 in relation to fresh poultrymeat<br>Point II(3) of Part V of Annex VII to Regulation (EU) 2013 in relation to frozen poultrymeat<br>Point II(4) of Part V of Annex VII to Regulation (EU) 2013 in relation to quick-frozen poultrymeat<br>Point II(6) of Part V of Annex VII to Regulation (EU) 2013 in relation to fresh poultrymeat preparation | Marketing of poultrymeat and poultrymeat preparations in a fresh, frozen or quick-frozen condition. |
 
 ### PART 2 — PROVISIONS OF THE COMMISSION REGULATION
 
@@ -593,7 +593,7 @@ Regulation 2(1)
 </tbody>
 </table>
 
-[^key-b2d0d251b4cf0588207f830cb3d4965e][^key-6443df51aaca179898e8a51561145996]
+[^c-b2d0d251b4cf0588207f830cb3d4965e][^c-6443df51aaca179898e8a51561145996]
 
 ## SCHEDULE 2 — PROVISIONS OF THE COMMISSION REGULATION, CONTRAVENTION OF WHICH IS AN OFFENCE
 
@@ -680,23 +680,23 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^c2071849]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2011/452/paragraph/1A) of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-4066ddc2bfeb01ff3ef6ed47c61ebc15]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/452/regulation/1/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/2/a)
+[^c-4066ddc2bfeb01ff3ef6ed47c61ebc15]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/452/regulation/1/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/2/a)
 
-[^key-14385f96f2d35e3f4ab5606300ff1f15]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/452/regulation/1/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/2/b)
+[^c-14385f96f2d35e3f4ab5606300ff1f15]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/452/regulation/1/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/2/b)
 
-[^key-0bd3b224bc302532bd4bd6d1b8f5ff44]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/a/i)
+[^c-0bd3b224bc302532bd4bd6d1b8f5ff44]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/a/i)
 
-[^key-3c2c3d685b1b302b96e1bcf95a87402e]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/a/ii)
+[^c-3c2c3d685b1b302b96e1bcf95a87402e]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/a/ii)
 
-[^key-acae77424ca1c703257248e1ea09b7e7]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/a/iii)
+[^c-acae77424ca1c703257248e1ea09b7e7]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/a/iii)
 
-[^key-cdb8ade88dc6b3ed5ea6064ce8c0e728]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/23/a)
+[^c-cdb8ade88dc6b3ed5ea6064ce8c0e728]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/23/a)
 
-[^key-a2dc337519f174d0cf413dedd11a6da5]: Textual amendment: Word in reg. 2(1) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/23/b)
+[^c-a2dc337519f174d0cf413dedd11a6da5]: Textual amendment: Word in reg. 2(1) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/23/b)
 
-[^key-a367601ddb7f56983285e072f6b3f21f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/452/regulation/2/1) inserted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a367601ddb7f56983285e072f6b3f21f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/452/regulation/2/1) inserted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8fcdde64dfa278a957c83692cf65f06f]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/b)
+[^c-8fcdde64dfa278a957c83692cf65f06f]: Textual amendment: Words in reg. 2(3) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/3/b)
 
 [^c2071850]: Marginal citation: This derogates from the provisions of point II(2) of Part B of Annex XIV to the Single CMO Regulation.
 
@@ -704,25 +704,25 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^c2071852]: Marginal citation: OJ No L 31, 1.2.2002 p 1, last amended by Regulation (EC) No 596/2009 (OJ No L188, 18.7.2009, p14).
 
-[^key-29a3fe6885ff5eaebceadc6546b58f8b]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2011/452/regulation/9/4A) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/2)
+[^c-29a3fe6885ff5eaebceadc6546b58f8b]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2011/452/regulation/9/4A) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(2)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/2)
 
 [^c2071853]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-2eb287383b884d74312b9a8db9ae20b4]: Textual amendment: Words in reg. 11(1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/a)
+[^c-2eb287383b884d74312b9a8db9ae20b4]: Textual amendment: Words in reg. 11(1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/a)
 
-[^key-b5d55e3085ffd84791b1e712ac3bb5e3]: Textual amendment: Reg. 11(1A) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/b)
+[^c-b5d55e3085ffd84791b1e712ac3bb5e3]: Textual amendment: Reg. 11(1A) inserted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/b)
 
-[^key-e97336768ad523eeec8f2dc1610fe457]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2011/452/regulation/11/2) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/3) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [14(18)(g)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/14/18/g)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e97336768ad523eeec8f2dc1610fe457]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2011/452/regulation/11/2) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/3) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [14(18)(g)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/14/18/g)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20fd8bd25d66b5d66a7a29a082200854]: Textual amendment: Reg. 11(4) omitted (24.12.2012) by virtue of [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(c)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/c)
+[^c-20fd8bd25d66b5d66a7a29a082200854]: Textual amendment: Reg. 11(4) omitted (24.12.2012) by virtue of [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(c)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/c)
 
-[^key-f4106caae6508dae49af1527aa470a09]: Textual amendment: Words in reg. 11(12)(a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(d)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/d)
+[^c-f4106caae6508dae49af1527aa470a09]: Textual amendment: Words in reg. 11(12)(a) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [39(3)(d)](https://www.legislation.gov.uk/uksi/2012/2897/article/39/3/d)
 
-[^key-5eea88ae80d2b877d0be42070c57de3c]: Textual amendment: Words in [reg. 12(9)(a)](https://www.legislation.gov.uk/uksi/2011/452/regulation/12/9/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(4)(a)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eea88ae80d2b877d0be42070c57de3c]: Textual amendment: Words in [reg. 12(9)(a)](https://www.legislation.gov.uk/uksi/2011/452/regulation/12/9/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(4)(a)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8afbf62fe5b2139b5e36fe6200197b2b]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/uksi/2011/452/regulation/12/12) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(4)(b)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8afbf62fe5b2139b5e36fe6200197b2b]: Textual amendment: [Reg. 12(12)](https://www.legislation.gov.uk/uksi/2011/452/regulation/12/12) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [17(4)(b)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/17/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf4066664390225931a4361e56ee1881]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2011/452/regulation/12) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/4)
+[^c-cf4066664390225931a4361e56ee1881]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2011/452/regulation/12) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/4)
 
 [^c2071854]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -738,24 +738,24 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^c2071860]: Marginal citation: [S.I. 1990/2486](https://www.legislation.gov.uk/uksi/1990/2486).
 
-[^key-66b1eab95bb59a0c5fe4ebbd1545ecd4]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/a)
+[^c-66b1eab95bb59a0c5fe4ebbd1545ecd4]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/a)
 
-[^key-d87bd4833ba6f66819c847954e1894e5]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/b)
+[^c-d87bd4833ba6f66819c847954e1894e5]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/b)
 
-[^key-825ff8f11cc944c616a0760ddfb2c205]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/c)
+[^c-825ff8f11cc944c616a0760ddfb2c205]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/c)
 
-[^key-047f029f98c64ad5dd01b90ffeb03cf0]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (23.11.2019) by [The Eggs and Poultrymeat (England) (Amendment) Regulations 2019 (S.I. 2019/1442)](https://www.legislation.gov.uk/uksi/2019/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1442/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/1442/regulation/3/a)
+[^c-047f029f98c64ad5dd01b90ffeb03cf0]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (23.11.2019) by [The Eggs and Poultrymeat (England) (Amendment) Regulations 2019 (S.I. 2019/1442)](https://www.legislation.gov.uk/uksi/2019/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1442/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/1442/regulation/3/a)
 
-[^key-522cfe3391a99b881fcfb975aebc34c5]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(g)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/g)
+[^c-522cfe3391a99b881fcfb975aebc34c5]: Textual amendment: Words in Sch. 1 Pt. 1 table inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(g)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/g)
 
-[^key-51d18f5273d3a84b5331fd9356d368be]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (23.11.2019) by [The Eggs and Poultrymeat (England) (Amendment) Regulations 2019 (S.I. 2019/1442)](https://www.legislation.gov.uk/uksi/2019/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1442/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1442/regulation/3/b)
+[^c-51d18f5273d3a84b5331fd9356d368be]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (23.11.2019) by [The Eggs and Poultrymeat (England) (Amendment) Regulations 2019 (S.I. 2019/1442)](https://www.legislation.gov.uk/uksi/2019/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1442/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1442/regulation/3/b)
 
-[^key-906e5e079bfad92d41224820bab2092d]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(f)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/f)
+[^c-906e5e079bfad92d41224820bab2092d]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(f)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/f)
 
-[^key-2905b1318a4541b240d6a99dc14edb36]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(h)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/h)
+[^c-2905b1318a4541b240d6a99dc14edb36]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(h)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/h)
 
-[^key-d323ba7c143584ce523ac24778ab7de8]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/i)
+[^c-d323ba7c143584ce523ac24778ab7de8]: Textual amendment: Words in Sch. 1 Pt. 1 table substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(5)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/5/i)
 
-[^key-b2d0d251b4cf0588207f830cb3d4965e]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2011/452/schedule/1/part/2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(6)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/6/a)
+[^c-b2d0d251b4cf0588207f830cb3d4965e]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2011/452/schedule/1/part/2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(6)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/6/a)
 
-[^key-6443df51aaca179898e8a51561145996]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2011/452/schedule/1/part/2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(6)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/6/b)
+[^c-6443df51aaca179898e8a51561145996]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2011/452/schedule/1/part/2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [10(6)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/10/6/b)

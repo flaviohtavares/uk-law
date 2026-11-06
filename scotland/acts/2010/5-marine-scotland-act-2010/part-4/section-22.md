@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Pre-application consultation: preliminary[^key-bf6b446a968ed0cf5ce834551c23f711]
+## 22. Pre-application consultation: preliminary[^c-bf6b446a968ed0cf5ce834551c23f711]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ may determine that section 23 does not apply to the application.
 
 ## Annotations
 
-[^key-bf6b446a968ed0cf5ce834551c23f711]: Commencement: S. 22 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-bf6b446a968ed0cf5ce834551c23f711]: Commencement: S. 22 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Transfer of securities[^key-09d17d2e5b78f4a2c9a3b261d07a8d9b]
+## 90. Transfer of securities[^c-09d17d2e5b78f4a2c9a3b261d07a8d9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 207(1) of the Companies Act 1989 (transfer of securities), in paragra
 
 ## Annotations
 
-[^key-09d17d2e5b78f4a2c9a3b261d07a8d9b]: Commencement: Art. 90 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-09d17d2e5b78f4a2c9a3b261d07a8d9b]: Commencement: Art. 90 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

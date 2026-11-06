@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 5(1)(a) to (c) and (g), and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-54dc1346f474cd8a161cb1c010eccc49]
+## 1. Citation, commencement and interpretation[^c-54dc1346f474cd8a161cb1c010eccc49]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation –
 
@@ -51,11 +51,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-9497e72e829fca4f5b867e36bfa93373][^key-d09587ab9183676402290267e86baff2]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-9497e72e829fca4f5b867e36bfa93373][^c-d09587ab9183676402290267e86baff2]
 
-(1)[^key-9497e72e829fca4f5b867e36bfa93373] The Claims and Payments Regulations shall be amended in accordance with paragraphs (2) to (5).
+(1)[^c-9497e72e829fca4f5b867e36bfa93373] The Claims and Payments Regulations shall be amended in accordance with paragraphs (2) to (5).
 
-(2)[^key-9497e72e829fca4f5b867e36bfa93373] Before regulation 16 there shall be inserted the following regulation –
+(2)[^c-9497e72e829fca4f5b867e36bfa93373] Before regulation 16 there shall be inserted the following regulation –
 
 > **15B. Advance claim for pension following deferment**
 >
@@ -68,14 +68,14 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-(3)[^key-d09587ab9183676402290267e86baff2] In regulation 19(3)[^f00006] (time for claiming benefit) sub-paragraphs (c) and (f) shall be omitted.
+(3)[^c-d09587ab9183676402290267e86baff2] In regulation 19(3)[^f00006] (time for claiming benefit) sub-paragraphs (c) and (f) shall be omitted.
 
-(4)[^key-d09587ab9183676402290267e86baff2] In regulation 30 (payments on death) –
+(4)[^c-d09587ab9183676402290267e86baff2] In regulation 30 (payments on death) –
 
 - (a) at the beginning of paragraph (5)[^f00007] there shall be inserted “Subject to paragraphs (5A) to (5F),”; and
-- (b)[^key-c99a5045212b60f8e8737841857eeb1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c99a5045212b60f8e8737841857eeb1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d09587ab9183676402290267e86baff2] In Schedule 4 (prescribed times for claiming benefit) after paragraph 12[^f00012], there shall be added the following paragraphs –
+(5)[^c-d09587ab9183676402290267e86baff2] In Schedule 4 (prescribed times for claiming benefit) after paragraph 12[^f00012], there shall be added the following paragraphs –
 
 > |  |  |
 > | --- | --- |
@@ -84,7 +84,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-## 3. Transitional provisions[^key-1423035153b168cff348cc58d29f22d0]
+## 3. Transitional provisions[^c-1423035153b168cff348cc58d29f22d0]
 
 (1) A claim for a retirement pension of any category or graduated retirement benefit made during the period from 6th April 2005 to 5th April 2006 in respect of any day in that period shall be treated as made on that day if on that day, apart from satisfying the condition of making a claim, the claimant satisfies the other conditions of entitlement for that pension or benefit or both.
 
@@ -122,15 +122,15 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-54dc1346f474cd8a161cb1c010eccc49]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/a)
+[^c-54dc1346f474cd8a161cb1c010eccc49]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/a)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), [S.R. 2002 Nos. 323](https://www.legislation.gov.uk/nisr/2002/323) and [327](https://www.legislation.gov.uk/nisr/2002/327), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9497e72e829fca4f5b867e36bfa93373]: Commencement: Reg. 2(1)(2) in operation at 6.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/a)
+[^c-9497e72e829fca4f5b867e36bfa93373]: Commencement: Reg. 2(1)(2) in operation at 6.4.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/a)
 
-[^key-d09587ab9183676402290267e86baff2]: Commencement: [Reg. 2(3)-(5)](https://www.legislation.gov.uk/nisr/2005/122/regulation/2/3) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/c)
+[^c-d09587ab9183676402290267e86baff2]: Commencement: [Reg. 2(3)-(5)](https://www.legislation.gov.uk/nisr/2005/122/regulation/2/3) in operation at 6.4.2006, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/c)
 
 [^f00005]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 55 is substituted by Article 273(1) of the Pensions (Northern Ireland) Order 2005 (S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
@@ -138,10 +138,10 @@ These Regulations do not impose a charge on business.
 
 [^f00007]: Footnote: Paragraph (5) was amended by regulation 3(6) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 7(5)(a) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), regulation 15 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), regulation 2(15) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and regulation 10 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-c99a5045212b60f8e8737841857eeb1f]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2005/122/regulation/2/4/b) revoked (6.4.2006) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2005/541/regulation/5)
+[^c-c99a5045212b60f8e8737841857eeb1f]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2005/122/regulation/2/4/b) revoked (6.4.2006) by [The Social Security (Retirement Pensions and Graduated Retirement Benefit) (Widowers and Civil Partnership) Regulations (Northern Ireland) 2005 (S.R. 2005/541)](https://www.legislation.gov.uk/nisr/2005/541), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2005/541/regulation/1/a), [5](https://www.legislation.gov.uk/nisr/2005/541/regulation/5)
 
 [^f00012]: Footnote: Paragraph 12 was added by regulation 2(3) of [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304)
 
 [^f00013]: Footnote: Graduated retirement benefit is payable under section 35 of the National Insurance Act (Northern Ireland) 1966
 
-[^key-1423035153b168cff348cc58d29f22d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/122/regulation/3) in operation at 6.7.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/b)
+[^c-1423035153b168cff348cc58d29f22d0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/122/regulation/3) in operation at 6.7.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/122/regulation/1/1/b)

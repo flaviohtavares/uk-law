@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. The non-discrimination principle: direct discrimination[^key-d4e07e69fcf2b2d2cbf401ab7cb17561]
+## 7. The non-discrimination principle: direct discrimination[^c-d4e07e69fcf2b2d2cbf401ab7cb17561]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e07e69fcf2b2d2cbf401ab7cb17561]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2020/27/section/7) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-d4e07e69fcf2b2d2cbf401ab7cb17561]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2020/27/section/7) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

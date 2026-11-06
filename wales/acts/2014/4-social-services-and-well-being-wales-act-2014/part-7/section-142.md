@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Interpretation of Part 7[^key-3c3d5aa311e5a8f043236c44edd1519f]
+## 142. Interpretation of Part 7[^c-3c3d5aa311e5a8f043236c44edd1519f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-3c3d5aa311e5a8f043236c44edd1519f]: Commencement: S. 142 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-3c3d5aa311e5a8f043236c44edd1519f]: Commencement: S. 142 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

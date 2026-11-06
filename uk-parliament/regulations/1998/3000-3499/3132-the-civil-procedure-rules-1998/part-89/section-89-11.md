@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89.11. Contents and service of order[^key-e1ad94f86f9129c74f4791752491e406]
+## 89.11. Contents and service of order[^c-e1ad94f86f9129c74f4791752491e406]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ service may be effected on the corporation at that address, if the District Judg
 
 ## Annotations
 
-[^key-e1ad94f86f9129c74f4791752491e406]: Textual amendment: [Pt. 89](https://www.legislation.gov.uk/uksi/1998/3132/part/89) inserted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [20](https://www.legislation.gov.uk/uksi/2016/234/rule/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/234/schedule/2) (with [rule 25](https://www.legislation.gov.uk/uksi/2016/234/rule/25))
+[^c-e1ad94f86f9129c74f4791752491e406]: Textual amendment: [Pt. 89](https://www.legislation.gov.uk/uksi/1998/3132/part/89) inserted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [20](https://www.legislation.gov.uk/uksi/2016/234/rule/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/234/schedule/2) (with [rule 25](https://www.legislation.gov.uk/uksi/2016/234/rule/25))

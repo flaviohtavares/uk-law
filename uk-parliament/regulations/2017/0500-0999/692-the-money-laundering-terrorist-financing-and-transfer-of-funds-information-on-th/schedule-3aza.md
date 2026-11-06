@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3AZA — Material Discrepancies[^key-0e19ee5aba2cd628f030140bf716c85c]
+## SCHEDULE 3AZA — Material Discrepancies[^c-0e19ee5aba2cd628f030140bf716c85c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ A material discrepancy in this Schedule may arise, as the case may be, in relati
 
 ## Annotations
 
-[^key-0e19ee5aba2cd628f030140bf716c85c]: Textual amendment: [Sch. 3AZA](https://www.legislation.gov.uk/uksi/2017/692/schedule/3AZA) inserted (1.4.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/4), [9(j)](https://www.legislation.gov.uk/uksi/2022/860/regulation/9/j)
+[^c-0e19ee5aba2cd628f030140bf716c85c]: Textual amendment: [Sch. 3AZA](https://www.legislation.gov.uk/uksi/2017/692/schedule/3AZA) inserted (1.4.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/4), [9(j)](https://www.legislation.gov.uk/uksi/2022/860/regulation/9/j)

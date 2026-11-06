@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Duties in relation to housing strategies[^key-0616fa579bf5952707b63de1602afa5a]
+## 107. Duties in relation to housing strategies[^c-0616fa579bf5952707b63de1602afa5a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0616fa579bf5952707b63de1602afa5a]: Commencement: [S. 107](https://www.legislation.gov.uk/anaw/2014/7/section/107) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/380/article/2/e)
+[^c-0616fa579bf5952707b63de1602afa5a]: Commencement: [S. 107](https://www.legislation.gov.uk/anaw/2014/7/section/107) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/380/article/2/e)

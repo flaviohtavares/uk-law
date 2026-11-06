@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Applications for removal[^key-69b1dccbc84424ed638db680e176c664][^key-e85de74cfaf7bbf689166425084fe231]
+## 164. Applications for removal[^c-69b1dccbc84424ed638db680e176c664][^c-e85de74cfaf7bbf689166425084fe231]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69b1dccbc84424ed638db680e176c664]: Commencement: S. 164 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-69b1dccbc84424ed638db680e176c664]: Commencement: S. 164 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e85de74cfaf7bbf689166425084fe231]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2023/56/section/164) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z51)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z51)
+[^c-e85de74cfaf7bbf689166425084fe231]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2023/56/section/164) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z51)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z51)

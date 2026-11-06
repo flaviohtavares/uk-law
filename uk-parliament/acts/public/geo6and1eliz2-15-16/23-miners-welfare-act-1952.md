@@ -229,7 +229,7 @@ In section thirty-seven of the [^c602086]Coal Industry Nationalisation Act 1946 
 
 (2) Any question which is required by this Act to be determined by arbitration shall be determined by a single arbiter appointed, in default of agreement, by the Court of Session or the sheriff on the application of either party to the question, and the arbiter may, and if so directed by the Court of Session shall, state a case for the decision of that Court on any question of law arising in the arbitration.
 
-(3) A decision of the Court of Session in pursuance of the last foregoing subsection shall be final unless that Court gives leave to appeal to the Supreme Court[^key-75d2c80a989ec8ed4aac84330aafcf0f] against the decision.
+(3) A decision of the Court of Session in pursuance of the last foregoing subsection shall be final unless that Court gives leave to appeal to the Supreme Court[^c-75d2c80a989ec8ed4aac84330aafcf0f] against the decision.
 
 (4)[^c602093] Regulations under subsection (3) of section ten of this Act may include provisions for the completion of the title of the transferees to heritable property in Scotland vesting in them by virtue of this Act by the execution and recording in the General Register of Sasines of conveyances or instruments relating to such property.
 
@@ -299,7 +299,7 @@ Sections 3, 16.
 
 [^c602092]: Marginal citation: [1926 c. 28](https://www.legislation.gov.uk/ukpga/1926/28).
 
-[^key-75d2c80a989ec8ed4aac84330aafcf0f]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/23/section/17/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-75d2c80a989ec8ed4aac84330aafcf0f]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/23/section/17/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c602093]: Modification: S. 17(4) amended (S.) by [Land Registration (Scotland) Act 1979 (c. 33, SIF 31:3)](https://www.legislation.gov.uk/ukpga/1979/33), [s. 29(2)(3)](https://www.legislation.gov.uk/ukpga/1979/33/section/29/2/3)
 

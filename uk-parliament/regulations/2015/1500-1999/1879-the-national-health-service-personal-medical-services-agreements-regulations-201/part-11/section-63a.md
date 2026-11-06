@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63A. Use of fax machines[^key-0538ea81fdf13241c359fa2815c783e3]
+## 63A. Use of fax machines[^c-0538ea81fdf13241c359fa2815c783e3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0538ea81fdf13241c359fa2815c783e3]: Textual amendment: Reg. 63A inserted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/3)
+[^c-0538ea81fdf13241c359fa2815c783e3]: Textual amendment: Reg. 63A inserted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/3)

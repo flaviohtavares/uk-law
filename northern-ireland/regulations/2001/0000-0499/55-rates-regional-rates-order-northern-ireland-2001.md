@@ -33,7 +33,7 @@ Order made by the Department of Finance and Personnel, laid before the Assembly 
 
 RATES
 
-Rates (Regional Rates) Order (Northern Ireland) 2001 (revoked)[^key-08ccfcebfeb541601cb4711ef8eaed00]
+Rates (Regional Rates) Order (Northern Ireland) 2001 (revoked)[^c-08ccfcebfeb541601cb4711ef8eaed00]
 
 Made
 
@@ -47,34 +47,34 @@ Coming into operation
 
 14th May 2001
 
-[^key-08ccfcebfeb541601cb4711ef8eaed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ccfcebfeb541601cb4711ef8eaed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-08ccfcebfeb541601cb4711ef8eaed00][^key-5fc1312c9667fed17a3c30374a54d0cd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Regional rate[^key-08ccfcebfeb541601cb4711ef8eaed00][^key-2abf10bf071ad9637c0cdbaa22652e82]
+## 1. Citation, commencement and interpretation[^c-08ccfcebfeb541601cb4711ef8eaed00][^c-5fc1312c9667fed17a3c30374a54d0cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Reduction of regional rate on dwellings[^key-08ccfcebfeb541601cb4711ef8eaed00][^key-6dfd4383e6416ab9ce4ab819f313b7a7]
+## 2. Regional rate[^c-08ccfcebfeb541601cb4711ef8eaed00][^c-2abf10bf071ad9637c0cdbaa22652e82]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Reduction of regional rate on dwellings[^c-08ccfcebfeb541601cb4711ef8eaed00][^c-6dfd4383e6416ab9ce4ab819f313b7a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08ccfcebfeb541601cb4711ef8eaed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ccfcebfeb541601cb4711ef8eaed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08ccfcebfeb541601cb4711ef8eaed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08ccfcebfeb541601cb4711ef8eaed00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08ccfcebfeb541601cb4711ef8eaed00]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/55) revoked (1.4.2001) by [Rates (Regional Rates) (No. 2) Order (Northern Ireland) 2001 (S.R. 2001/84)](https://www.legislation.gov.uk/nisr/2001/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2001/84/article/1/1), [4](https://www.legislation.gov.uk/nisr/2001/84/article/4)
+[^c-08ccfcebfeb541601cb4711ef8eaed00]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/55) revoked (1.4.2001) by [Rates (Regional Rates) (No. 2) Order (Northern Ireland) 2001 (S.R. 2001/84)](https://www.legislation.gov.uk/nisr/2001/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2001/84/article/1/1), [4](https://www.legislation.gov.uk/nisr/2001/84/article/4)
 
-[^key-5fc1312c9667fed17a3c30374a54d0cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2001/55/article/1) in operation at 14.5.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/55/article/1/1)
+[^c-5fc1312c9667fed17a3c30374a54d0cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2001/55/article/1) in operation at 14.5.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/55/article/1/1)
 
-[^key-2abf10bf071ad9637c0cdbaa22652e82]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2001/55/article/2) in operation at 14.5.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/55/article/1/1)
+[^c-2abf10bf071ad9637c0cdbaa22652e82]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2001/55/article/2) in operation at 14.5.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/55/article/1/1)
 
-[^key-6dfd4383e6416ab9ce4ab819f313b7a7]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2001/55/article/3) in operation at 14.5.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/55/article/1/1)
+[^c-6dfd4383e6416ab9ce4ab819f313b7a7]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2001/55/article/3) in operation at 14.5.2001, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2001/55/article/1/1)

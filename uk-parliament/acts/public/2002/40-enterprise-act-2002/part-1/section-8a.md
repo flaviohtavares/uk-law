@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Exclusion of public consumer advice scheme[^key-054b1c8d3c8bd5599e1318ee151a50d3]
+## 8A. Exclusion of public consumer advice scheme[^c-054b1c8d3c8bd5599e1318ee151a50d3]
 
 *Extent: E+W+S+N.I.*
 
-The CMA[^key-9046c92e47e31bc817a7229588097779] may not under this Part support a public consumer advice scheme, where that support of a scheme consists of providing, or securing the provision of, an arrangement for giving advice without charge to individual consumers on matters personal to them.
+The CMA[^c-9046c92e47e31bc817a7229588097779] may not under this Part support a public consumer advice scheme, where that support of a scheme consists of providing, or securing the provision of, an arrangement for giving advice without charge to individual consumers on matters personal to them.
 
 ## Annotations
 
-[^key-054b1c8d3c8bd5599e1318ee151a50d3]: Textual amendment: S. 8A inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [3](https://www.legislation.gov.uk/uksi/2013/783/article/3)
+[^c-054b1c8d3c8bd5599e1318ee151a50d3]: Textual amendment: S. 8A inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [3](https://www.legislation.gov.uk/uksi/2013/783/article/3)
 
-[^key-9046c92e47e31bc817a7229588097779]: Textual amendment: Word in s. 8A substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-9046c92e47e31bc817a7229588097779]: Textual amendment: Word in s. 8A substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

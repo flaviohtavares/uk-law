@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Applications for approval of out of hours arrangements under general medical services and default contracts[^key-a131be75879d4d731bf2510e9086ae34]
+## 61. Applications for approval of out of hours arrangements under general medical services and default contracts[^c-a131be75879d4d731bf2510e9086ae34]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a131be75879d4d731bf2510e9086ae34]: Commencement: Art. 61 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-a131be75879d4d731bf2510e9086ae34]: Commencement: Art. 61 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

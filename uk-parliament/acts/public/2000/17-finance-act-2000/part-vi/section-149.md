@@ -53,7 +53,7 @@ summary: ''
 - (b) in subsection (3), after “notice is given" insert “ or the order is made ”; and
 - (c) after “notice", in the second place where it occurs in that subsection, insert “ or order ”.
 
-(4)[^key-ca6fe812d288a0f0c2d54dbd7e7471b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ca6fe812d288a0f0c2d54dbd7e7471b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c14055341]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-ca6fe812d288a0f0c2d54dbd7e7471b4]: Textual amendment: [S. 149(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/149/4) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-ca6fe812d288a0f0c2d54dbd7e7471b4]: Textual amendment: [S. 149(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/149/4) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)

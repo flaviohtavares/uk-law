@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Duties and the first codes of practice[^key-a286f3600b2c4778a59be699b7791f2a][^key-485f6258fe325d640d42b755807be06e]
+## 51. Duties and the first codes of practice[^c-a286f3600b2c4778a59be699b7791f2a][^c-485f6258fe325d640d42b755807be06e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a286f3600b2c4778a59be699b7791f2a]: Commencement: S. 51 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a286f3600b2c4778a59be699b7791f2a]: Commencement: S. 51 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-485f6258fe325d640d42b755807be06e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/50/section/51) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/n)
+[^c-485f6258fe325d640d42b755807be06e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/50/section/51) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/n)

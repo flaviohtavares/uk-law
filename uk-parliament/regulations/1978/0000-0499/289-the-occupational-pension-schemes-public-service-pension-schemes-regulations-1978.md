@@ -52,7 +52,7 @@ The Secretary of State for Social Services and the Minister for the Civil Servic
 
 ## 2. Schemes to be treated as public service pension schemes
 
-The occupational pension schemes the names of which are set out in the Schedule to these regulations shall be treated for the purposes of Part II of the Social Security Act 1973 and of Parts III,[^key-c36af97fefe0fbb662254fa86ead0174] IV and IVA of the Social Security Pensions Act 1975 as public service pension schemes.
+The occupational pension schemes the names of which are set out in the Schedule to these regulations shall be treated for the purposes of Part II of the Social Security Act 1973 and of Parts III,[^c-c36af97fefe0fbb662254fa86ead0174] IV and IVA of the Social Security Pensions Act 1975 as public service pension schemes.
 
 Signed by authority of the Secretary of State for Social Services.
 
@@ -78,7 +78,7 @@ Minister of State Civil Service Department
 - National Institute of Agricultural Botany Superannuation Scheme 1975
 - East European Trade Council Pension Scheme
 - Committee for Middle East Trade Pension Scheme
-- [^key-fed830195eaae773bf125a401eb75bf0]...
+- [^c-fed830195eaae773bf125a401eb75bf0]...
 - British Overseas Trade Group for Israel Pension Scheme
 - The Church Commissioners' Superannuation Scheme
 - City of London Judges Occupational Pension Scheme
@@ -86,13 +86,13 @@ Minister of State Civil Service Department
 - Sir John Soane's Museum Superannuation Scheme
 - Royal Navy and Royal Marines Sports Control Board Superannuation Scheme 1977
 - Community Industry Superannuation Scheme 1977
-- Simplification of International Trade Procedures Board Pension Scheme;[^key-d04409ef89906c8afa8b130149982e52]
+- Simplification of International Trade Procedures Board Pension Scheme;[^c-d04409ef89906c8afa8b130149982e52]
 - The pension arrangement between the Department of Prices and Consumer Protection and the Chairman of the National Consumer Council, Michael James Shanks;
 - The pension arrangement between the Department of Prices and Consumer Protection and the Vice-Chairman of the National Consumer Council, Joan Edith Macintosh;
-- British Council Superannuation Scheme;[^key-9e06bb40ae8a30537391348890369c04]
+- British Council Superannuation Scheme;[^c-9e06bb40ae8a30537391348890369c04]
 - Schools Council Superannuation Scheme
-- House of Commons Refreshment Department Pension Scheme[^key-8f1d8e4d6d0610e2c1c4e9b68af4cc9b]
-- Latin American Trade Advisory Group Pension Scheme;[^key-60860d1b1f69dd9c768f85852e82806a]
+- House of Commons Refreshment Department Pension Scheme[^c-8f1d8e4d6d0610e2c1c4e9b68af4cc9b]
+- Latin American Trade Advisory Group Pension Scheme;[^c-60860d1b1f69dd9c768f85852e82806a]
 - China-Britain Trade Group Pension Scheme;
 - Great Britain-China Centre Staff Pension Scheme
 
@@ -104,14 +104,14 @@ The report of the Occupational Pensions Board on the draft of these regulations,
 
 ## Annotations
 
-[^key-c36af97fefe0fbb662254fa86ead0174]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1978/289/regulation/2) substituted (1.9.1993) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1993 (S.I. 1993/1888)](https://www.legislation.gov.uk/uksi/1993/1888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1888/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1993/1888/regulation/2)
+[^c-c36af97fefe0fbb662254fa86ead0174]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1978/289/regulation/2) substituted (1.9.1993) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1993 (S.I. 1993/1888)](https://www.legislation.gov.uk/uksi/1993/1888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1888/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1993/1888/regulation/2)
 
-[^key-fed830195eaae773bf125a401eb75bf0]: Textual amendment: Words in Sch. omitted (1.9.1993) by virtue of [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1993 (S.I. 1993/1888)](https://www.legislation.gov.uk/uksi/1993/1888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1888/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1993/1888/regulation/3)
+[^c-fed830195eaae773bf125a401eb75bf0]: Textual amendment: Words in Sch. omitted (1.9.1993) by virtue of [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1993 (S.I. 1993/1888)](https://www.legislation.gov.uk/uksi/1993/1888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1888/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1993/1888/regulation/3)
 
-[^key-d04409ef89906c8afa8b130149982e52]: Textual amendment: Words in Sch. added (11.10.1978) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1978 (S.I. 1978/1355)](https://www.legislation.gov.uk/uksi/1978/1355), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/1355/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1978/1355/regulation/2)
+[^c-d04409ef89906c8afa8b130149982e52]: Textual amendment: Words in Sch. added (11.10.1978) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1978 (S.I. 1978/1355)](https://www.legislation.gov.uk/uksi/1978/1355), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1978/1355/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1978/1355/regulation/2)
 
-[^key-9e06bb40ae8a30537391348890369c04]: Textual amendment: Words in Sch. added (1.1.1980) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1979 (S.I. 1979/1645)](https://www.legislation.gov.uk/uksi/1979/1645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1979/1645/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1979/1645/regulation/2)
+[^c-9e06bb40ae8a30537391348890369c04]: Textual amendment: Words in Sch. added (1.1.1980) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1979 (S.I. 1979/1645)](https://www.legislation.gov.uk/uksi/1979/1645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1979/1645/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1979/1645/regulation/2)
 
-[^key-8f1d8e4d6d0610e2c1c4e9b68af4cc9b]: Textual amendment: Words in Sch. added (1.4.1980) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1980 (S.I. 1980/288)](https://www.legislation.gov.uk/uksi/1980/288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1980/288/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1980/288/regulation/2)
+[^c-8f1d8e4d6d0610e2c1c4e9b68af4cc9b]: Textual amendment: Words in Sch. added (1.4.1980) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1980 (S.I. 1980/288)](https://www.legislation.gov.uk/uksi/1980/288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1980/288/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1980/288/regulation/2)
 
-[^key-60860d1b1f69dd9c768f85852e82806a]: Textual amendment: Words in Sch. added (1.9.1993) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1993 (S.I. 1993/1888)](https://www.legislation.gov.uk/uksi/1993/1888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1888/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1993/1888/regulation/3)
+[^c-60860d1b1f69dd9c768f85852e82806a]: Textual amendment: Words in Sch. added (1.9.1993) by [The Occupational Pension Schemes (Public Service Pension Schemes) (Amendment) Regulations 1993 (S.I. 1993/1888)](https://www.legislation.gov.uk/uksi/1993/1888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/1888/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1993/1888/regulation/3)

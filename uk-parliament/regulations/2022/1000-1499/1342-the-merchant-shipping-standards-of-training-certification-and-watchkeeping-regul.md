@@ -44,36 +44,36 @@ Coming into force
 
 The Secretary of State is satisfied, for the purposes of section 47(2) of the Merchant Shipping Act 1995[^f00001], that it is necessary or expedient, in the interests of safety to make Regulations in so far as they require ships to carry qualified seamen.
 
-The Secretary of State, after consulting the persons referred to in sections 86(4) and 306(4) of the Merchant Shipping Act 1995, and in exercise of the powers conferred by sections 47(1), (3), (4), (4A) and (4B), 85(1), (3), (5) to (7), 86(1)(a), (b), (c) and (d), 302(1), 306A and 307 of that Act, and article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00002], and with the consent of the Treasury, makes the following Regulations.[^key-aeb9d6df7227ef3a0c66810e9ec828be]
+The Secretary of State, after consulting the persons referred to in sections 86(4) and 306(4) of the Merchant Shipping Act 1995, and in exercise of the powers conferred by sections 47(1), (3), (4), (4A) and (4B), 85(1), (3), (5) to (7), 86(1)(a), (b), (c) and (d), 302(1), 306A and 307 of that Act, and article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00002], and with the consent of the Treasury, makes the following Regulations.[^c-aeb9d6df7227ef3a0c66810e9ec828be]
 
-In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdrawal) Act 2018[^f00003], a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.[^key-aeb9d6df7227ef3a0c66810e9ec828be]
+In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdrawal) Act 2018[^f00003], a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.[^c-aeb9d6df7227ef3a0c66810e9ec828be]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-e0f4a2b193e2840a90960053644635e7]
+### 1. Citation, commencement and extent[^c-e0f4a2b193e2840a90960053644635e7]
 
 (1) These Regulations may be cited as the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 and come into force on the 22nd day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendments and revocations[^key-f7147e60209986fa05fd11cea11c3011]
+### 2. Amendments and revocations[^c-f7147e60209986fa05fd11cea11c3011]
 
 (1) The amendments listed in Part 1 of Schedule 1 have effect.
 
 (2) The regulations listed in the first column of the Table in Part 2 of Schedule 1 are revoked to the extent specified in the third column of that Table.
 
-### 3. Interpretation[^key-2d117080534153de5322e5d5a88ffde1]
+### 3. Interpretation[^c-2d117080534153de5322e5d5a88ffde1]
 
 In these Regulations—
 
 - “**the Act**” means the Merchant Shipping Act 1995;
-- “[^key-32f80ad575a4c62779f5db612a9ec0e5]**Antarctic Area**” has the meaning given to it in regulation 1 of Chapter XIV;
+- “[^c-32f80ad575a4c62779f5db612a9ec0e5]**Antarctic Area**” has the meaning given to it in regulation 1 of Chapter XIV;
 - “**appropriate certificate**” means a certificate issued and endorsed in accordance with the provisions of Part 2 and entitling the lawful holder to act in the capacity and perform the functions involved—
   - (a) at the level of responsibility specified;
   - (b) on a ship of the type, tonnage or power and means of propulsion indicated; and
   - (c) while engaged on the particular type of voyage concerned;
 - “**approved training provider**” means a person approved by the Secretary of State under regulation 48 (approval of training providers);
-- “[^key-8aad3203a9ec942d5b1da6676bcd5007]**Arctic waters**” has the meaning given to it in regulation 1 of Chapter XIV;
+- “[^c-8aad3203a9ec942d5b1da6676bcd5007]**Arctic waters**” has the meaning given to it in regulation 1 of Chapter XIV;
 - “**cargo ship**” means any ship which is not a passenger ship;
 - “**certificate of competency**” means, except in regulation 36 (recognition of a certificate issued by an EEA State), 37 (recognition of a certificate issued by a third party State) or 38 (recognition of a party to the STCW Convention), an appropriate certificate issued by the Secretary of State for the purposes of regulation 7 (qualification as an officer) or 9 (radiocommunication and radio personnel on a GMDSS ship), other than a certificate of equivalent competency, and in regulations 36, 37 and 38 “**certificate of competency**” means a certificate issued and endorsed for masters, officers and GMDSS radio operators in accordance with the provisions of chapters II, III, IV or VII in the Annex to the STCW Convention;
 - “**certificate of equivalent competency**” means an endorsement in the form of a separate document entitled “certificate of equivalent competency” issued by the Secretary of State in accordance with regulation 36, 37 or 38 to a master, officer or radio operator who holds a certificate of competency issued by or under the authority of another party to the STCW Convention, and for this purpose “**certificate of competency**” has the meaning given to it for the purposes of regulations 36, 37 and 38;
@@ -82,7 +82,7 @@ In these Regulations—
   - (a) oil tanker cargo operations;
   - (b) chemical tanker cargo operations; or
   - (c) liquefied gas tanker cargo operations;
-- “[^key-2854d27ed18e4a79fc5efdd45411cdd9]**Chapter XIV**” means Chapter XIV in the Annex to SOLAS (safety measures for ships operating in polar waters) and includes the amendments adopted by IMO Resolution MSC.532(107);
+- “[^c-2854d27ed18e4a79fc5efdd45411cdd9]**Chapter XIV**” means Chapter XIV in the Annex to SOLAS (safety measures for ships operating in polar waters) and includes the amendments adopted by IMO Resolution MSC.532(107);
 - “**chemical tanker**” means a ship constructed or adapted and used for the carriage in bulk of any liquid product listed in chapter 17 of the IBC Code;
 - “**chief engineer officer**” means the senior engineer officer responsible for the mechanical propulsion and the operation and maintenance of the mechanical and electrical installations of the ship;
 - “**chief mate**” means the officer next in rank to the master and upon whom the command of the ship will fall in the event of the incapacity of the master;
@@ -102,10 +102,10 @@ In these Regulations—
 - “**high speed craft**” has the same meaning as in regulation 1.3 of Chapter X in the Annex to SOLAS[^f00007];
 - “**High Speed Craft Code**” means the International Code of Safety for High Speed Craft 2000[^f00008];
 - “**IBC Code**” means the International Bulk Chemical Code as defined in regulation 8.1 of Chapter VII in the Annex to SOLAS[^f00009];
-- “[^key-c910624e616c615dfef2e652792e2515]**ice free waters**” means waters in which no ice is present;
+- “[^c-c910624e616c615dfef2e652792e2515]**ice free waters**” means waters in which no ice is present;
 - “**IGC Code**” means the International Gas Carrier Code as defined in regulation 11.1 of Chapter VII in the Annex to SOLAS[^f00010];
 - “**IGF Code**” has the same meaning as in regulation 2.28 of Chapter II-1 in the Annex to SOLAS[^f00011];
-- “[^key-552803fb236f782633e5a327ed383449]**IMO**” means the International Maritime Organization, which is a special agency of the United Nations responsible for shipping safety and security and the prevention of pollution;
+- “[^c-552803fb236f782633e5a327ed383449]**IMO**” means the International Maritime Organization, which is a special agency of the United Nations responsible for shipping safety and security and the prevention of pollution;
 - “**international voyage**” means a voyage between—
   - (a) a port in the United Kingdom and a port outside the United Kingdom; or
   - (b) a port in an STCW Convention country, other than the United Kingdom, and a port in any other country or territory, whether an STCW Convention country or not, which is outside the United Kingdom,
@@ -117,7 +117,7 @@ In these Regulations—
 - “**Merchant Shipping Notice**” means a notice described as such and issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport) and includes a reference to any document amending or replacing that notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
 - “**oil**” means petroleum in any form including crude oil, fuel oil, sludge, oil refuse and refined products, other than oil-like substances which are subject to the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^f00013];
 - “**oil tanker**” means a ship constructed or adapted primarily to carry oil in bulk in its cargo spaces and includes a combination carrier when it is carrying a cargo or part cargo of oil in bulk, and “**combination carrier**” means a ship designed to carry oil or alternatively solid bulk cargo;
-- “[^key-1dad5bf4722c6bbaf55e59f5ffdf700d]**open waters**” means a large area of freely navigable water in which sea ice is present in concentrations of less than 10 per cent and no ice of land origin is present;
+- “[^c-1dad5bf4722c6bbaf55e59f5ffdf700d]**open waters**” means a large area of freely navigable water in which sea ice is present in concentrations of less than 10 per cent and no ice of land origin is present;
 - “**other waters**” means waters other than ice free waters and open waters;
 - “**passenger**” means a person other than—
   - (a) the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; or
@@ -132,7 +132,7 @@ In these Regulations—
   - (b) any vessel wholly owned by or on behalf of a members’ club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
 
   where, in the case of any vessel referred to in paragraph (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual’s spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant;
-- “[^key-a0f75df08f599543a4234abcd67cb251]**polar waters**” means Arctic waters and the Antarctic Area;
+- “[^c-a0f75df08f599543a4234abcd67cb251]**polar waters**” means Arctic waters and the Antarctic Area;
 - “**prescribed fee**” means the fee prescribed by the Secretary of State under section 302 of the Act (fees)[^f00014];
 - “**propulsion power**” means the total maximum continuous rated output power in kilowatts of all of a ship’s main propulsion machinery which appears on the ship’s certificate of registry or other official document;
 - “**Radio Regulations**” means the Radio Regulations[^f00015] annexed to, or regarded as being annexed to, the Constitution and Convention of the International Telecommunication Union, 1992[^f00016];
@@ -145,7 +145,7 @@ In these Regulations—
   - (a) is employed or engaged or works in any capacity on board a ship or hovercraft and whose normal place of work is on that ship or hovercraft; or
   - (b) is a person to which sub-paragraph (a) does not apply but is responsible for the operation or navigation of a pleasure vessel, or is otherwise responsible for the safety of that vessel, and is on board the vessel;
 - “**seagoing**” means going to sea beyond the limits of category A, B, C or D waters, as categorised in Merchant Shipping Notice 1837 (M) Amendment 2[^f00017];
-- “[^key-7f5e51d6609d3e1e1861d0e069d161ee]**sea ice**” means any form of ice found at sea which has originated from the freezing of sea water;
+- “[^c-7f5e51d6609d3e1e1861d0e069d161ee]**sea ice**” means any form of ice found at sea which has originated from the freezing of sea water;
 - “**seagoing service**” means service on board a ship relevant to the issue or revalidation of a certificate of proficiency;
 - “**second engineer officer**” means the engineer officer next in rank to the chief engineer officer and upon whom the responsibility for the mechanical propulsion and the operation and maintenance of the mechanical and electrical installations of the ship will fall in the event of the incapacity of the chief engineer officer;
 - “**similar stage of construction**” means a stage at which—
@@ -160,7 +160,7 @@ In these Regulations—
 - “**third party State**” means a State, other than the United Kingdom, which is a party to the STCW Convention but is not an EEA State;
 - “**valid**” means in force and “**validity**” is to be construed accordingly.
 
-### 4. Ambulatory reference[^key-e8f80b9b07c35c68bd14ef68b16ce8bb]
+### 4. Ambulatory reference[^c-e8f80b9b07c35c68bd14ef68b16ce8bb]
 
 (1) In these Regulations, any reference to the STCW Convention, the STCW Code, an STCW Regulation, SOLAS, the Radio Regulations or an instrument specified in paragraph (2) is to be construed—
 
@@ -189,7 +189,7 @@ In these Regulations—
 
 ## PART 2 — Training and certification: ships
 
-### 5. Application[^key-56d689d8ab87cf2dad653c198a8a76cc]
+### 5. Application[^c-56d689d8ab87cf2dad653c198a8a76cc]
 
 (1) Subject to paragraph (2), this Part applies to a seafarer on board a seagoing ship that is registered in the United Kingdom.
 
@@ -203,11 +203,11 @@ In these Regulations—
   - (ii) under 24 metres in length; or
 - (e) wooden ships of primitive build.
 
-### 6. Requirement for seafarers to be qualified[^key-b099a1d1734deb42b4cc215cf7376ab7]
+### 6. Requirement for seafarers to be qualified[^c-b099a1d1734deb42b4cc215cf7376ab7]
 
 A seafarer must meet the standards of competence specified by this Part in order to be qualified for the purposes of section 47 of the Act (manning).
 
-### 7. Qualification as an officer[^key-6b026d8c78ec1c9caac905009b2c2ec5]
+### 7. Qualification as an officer[^c-6b026d8c78ec1c9caac905009b2c2ec5]
 
 (1) A seafarer must hold, in respect of the category and capacity in which that seafarer is on board listed in column 1 of the Table in Schedule 2 (categories of certificates of competency and criteria for issue)—
 
@@ -235,7 +235,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 (6) Where a certificate of competency is required under this regulation, the Secretary of State may issue an alternative certificate if that certificate is in accordance with STCW Regulation VII (alternative certification).
 
-### 8. Engine-room watch duties[^key-b8eb3e326756c69149ecf2feb25d18c2]
+### 8. Engine-room watch duties[^c-b8eb3e326756c69149ecf2feb25d18c2]
 
 (1) This regulation applies to a seafarer performing watchkeeping duties in a manned or periodically unmanned engine room on a ship whose main propulsion machinery has a propulsion power of not less than 350 kilowatts, but less than 750 kilowatts.
 
@@ -246,7 +246,7 @@ A seafarer must meet the standards of competence specified by this Part in order
   - (i) a marine engine operator’s licence or a senior marine engineer operator’s licence issued by the Secretary of State in compliance with the criteria specified in section 10 of Merchant Shipping Notice 1857 (M+F) Amendment 1; or
   - (ii) a marine engine operator’s licence issued by the Secretary of State in compliance with the criteria specified in section 3.3 of Merchant Shipping Notice 1859 (M+F) Amendment 1 or section 3 of Merchant Shipping Notice 1904 (M+F)[^f00021].
 
-### 9. Radiocommunication and radio personnel on a GMDSS ship[^key-2631928fb44e2486001d667585369534]
+### 9. Radiocommunication and radio personnel on a GMDSS ship[^c-2631928fb44e2486001d667585369534]
 
 (1) A seafarer in charge of, or performing radio duties on, a ship required to participate in the GMDSS must hold a certificate of competency related to the GMDSS.
 
@@ -255,7 +255,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 - (a) is at least 18 years of age; and
 - (b) has completed the education and training and meets the standards of competence specified in section A-IV/2 of the STCW Code (mandatory minimum requirements for certification of GMDSS radio operators).
 
-### 10. Seafarers on an oil or chemical tanker – basic training[^key-2aab8b697d5f5d9ce313deebc976c239]
+### 10. Seafarers on an oil or chemical tanker – basic training[^c-2aab8b697d5f5d9ce313deebc976c239]
 
 (1) A seafarer assigned specific duties and responsibilities related to cargo or cargo equipment on an oil or chemical tanker must hold a certificate of proficiency in basic training for oil and chemical tanker cargo operations.
 
@@ -266,7 +266,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 (3) For the purpose of paragraph (1), the requirement for a certificate of proficiency with respect to a master or an officer is satisfied if the Secretary of State endorses the master or officer’s certificate of competency pursuant to regulation 34 (endorsements on a certificate of competency).
 
-### 11. Seafarers on an oil tanker – advanced training[^key-6c34f11930790033e0b9093c8362abe1]
+### 11. Seafarers on an oil tanker – advanced training[^c-6c34f11930790033e0b9093c8362abe1]
 
 (1) This regulation applies to the following seafarers on board an oil tanker—
 
@@ -285,7 +285,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 (4) For the purpose of paragraph (2), the requirement for a certificate of proficiency with respect to a master or officer is satisfied if the Secretary of State endorses the master or officer’s certificate of competency pursuant to regulation 34 (endorsements on a certificate of competency).
 
-### 12. Seafarers on a chemical tanker – advanced training[^key-0187dc20209ca8a6df75485af4df5f7b]
+### 12. Seafarers on a chemical tanker – advanced training[^c-0187dc20209ca8a6df75485af4df5f7b]
 
 (1) This regulation applies to the following seafarers on board a chemical tanker—
 
@@ -304,7 +304,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 (4) For the purpose of paragraph (2), the requirement for a certificate of proficiency with respect to a master or officer is satisfied if the Secretary of State endorses the master or officer’s certificate of competency pursuant to regulation 34 (endorsements on a certificate of competency).
 
-### 13. Seafarers on a liquefied gas tanker – basic training[^key-2754e449f8046fc2de254a04146576e8]
+### 13. Seafarers on a liquefied gas tanker – basic training[^c-2754e449f8046fc2de254a04146576e8]
 
 (1) An officer or rating assigned specific duties and responsibilities related to cargo or cargo equipment on a liquefied gas tanker must hold a certificate of proficiency in basic training for liquefied gas tanker cargo operations.
 
@@ -315,7 +315,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 (3) For the purpose of paragraph (1), the requirement for a certificate of proficiency with respect to a master or officer is satisfied if the Secretary of State endorses the master or officer’s certificate of competency pursuant to regulation 34 (endorsements on a certificate of competency).
 
-### 14. Seafarers on a liquefied gas tanker – advanced training[^key-26e5b2e3076f81686612bd351b4eafda]
+### 14. Seafarers on a liquefied gas tanker – advanced training[^c-26e5b2e3076f81686612bd351b4eafda]
 
 (1) This regulation applies to the following seafarers on board a liquefied gas tanker—
 
@@ -334,7 +334,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 (4) For the purpose of paragraph (2), the requirement for a certificate of proficiency with respect to a master or officer is satisfied if the Secretary of State endorses the master or officer’s certificate of competency pursuant to regulation 34 (endorsements on a certificate of competency).
 
-### 15. Seafarers on a ship subject to the IGF Code – basic training[^key-4c59891303eac68e965a4f0157b9b785]
+### 15. Seafarers on a ship subject to the IGF Code – basic training[^c-4c59891303eac68e965a4f0157b9b785]
 
 (1) This regulation applies to seafarers responsible for designated safety duties associated with the care and use of, or response to emergency relating to, fuel on board ships.
 
@@ -349,7 +349,7 @@ A seafarer must meet the standards of competence specified by this Part in order
 
 is to be considered as having met the requirements specified in paragraph (3) for basic training for service on ships subject to the IGF Code.
 
-### 16. Seafarers on a ship subject to the IGF Code – advanced training[^key-ea5b4502716cecde72bd91d34065f788]
+### 16. Seafarers on a ship subject to the IGF Code – advanced training[^c-ea5b4502716cecde72bd91d34065f788]
 
 (1) This regulation applies to the following seafarers on board a ship subject to the IGF Code—
 
@@ -368,7 +368,7 @@ is to be considered as having met the requirements specified in paragraph (3) fo
 
 is to be considered as having met the requirements specified in paragraph (3) for advanced training for service on ships subject to the IGF Code.
 
-### 16A. Seafarers on a ship operating or intending to operate in polar waters – basic training[^key-a24569fb7d6394bd11ef9ac4b1bd8f23]
+### 16A. Seafarers on a ship operating or intending to operate in polar waters – basic training[^c-a24569fb7d6394bd11ef9ac4b1bd8f23]
 
 (1) This regulation applies to the seafarers specified in paragraph (2) on board—
 
@@ -424,7 +424,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (4) For the purposes of paragraph (2)(d), “**bergy waters**” means an area of freely navigable water in which ice of land origin is present in concentrations of less than 10 per cent and where, if sea ice is present, the total concentration of all ice does not exceed 10 per cent.
 
-### 17. Ratings forming part of a navigational watch[^key-f793f31228edbbd5d74e57c7e9548adc]
+### 17. Ratings forming part of a navigational watch[^c-f793f31228edbbd5d74e57c7e9548adc]
 
 (1) A rating forming part of a navigational watch on a ship of 500 GT or more must hold a certificate of proficiency to perform such duties.
 
@@ -435,7 +435,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 - (a) a rating under training; or
 - (b) a rating whose duties are of an unskilled nature.
 
-### 18. Ratings forming part of an engine-room watch[^key-54a0e3bbdc8fc79f9bdbdc9c659757ec]
+### 18. Ratings forming part of an engine-room watch[^c-54a0e3bbdc8fc79f9bdbdc9c659757ec]
 
 (1) A rating forming part of an engine-room watch or designated to perform duties in a periodically unmanned engine-room on a ship powered by main propulsion machinery of 750 kilowatts propulsion power or more must hold a certificate of proficiency to perform such duties.
 
@@ -446,37 +446,37 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 - (a) a rating under training; or
 - (b) a rating whose duties are of an unskilled nature.
 
-### 19. Ratings as able seafarer deck[^key-2c771feb2b1dbc78a441746a105701d6]
+### 19. Ratings as able seafarer deck[^c-2c771feb2b1dbc78a441746a105701d6]
 
 (1) An able seafarer deck on board a ship of 500 GT or more must hold a certificate of proficiency.
 
 (2) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) only to a person who meets the criteria specified in STCW Regulation II/5, paragraph 2 or paragraph 6 (mandatory minimum requirements for certification of ratings as able seafarer deck).
 
-### 20. Ratings as able seafarer engine[^key-63cb128a3178a2d327d91108d02d23e9]
+### 20. Ratings as able seafarer engine[^c-63cb128a3178a2d327d91108d02d23e9]
 
 (1) An able seafarer engine on board a ship powered by main propulsion machinery of 750 kilowatts propulsion power or more must hold a certificate of proficiency.
 
 (2) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) only to a person who meets the criteria specified in STCW Regulation III/5, paragraph 2 or 4 (mandatory minimum requirements for certification of ratings as able seafarer engine).
 
-### 21. Electro-technical ratings[^key-ac9e455f6911e43c3dfacf26928d1474]
+### 21. Electro-technical ratings[^c-ac9e455f6911e43c3dfacf26928d1474]
 
 (1) An electro-technical rating on board a ship powered by main propulsion machinery of 750 kilowatts propulsion power or more must hold a certificate of proficiency.
 
 (2) The Secretary of State or an approved training provider may only issue a certificate of proficiency required by paragraph (1) to a person who meets the criteria specified in STCW Regulation III/7, paragraph 2 or 4 (mandatory minimum requirements for certification of electro-technical ratings).
 
-### 22. Seafarers designated to launch or take charge of a survival craft or rescue boat (other than a fast rescue boat)[^key-8df1273a3d681da04a0b709c708814f1]
+### 22. Seafarers designated to launch or take charge of a survival craft or rescue boat (other than a fast rescue boat)[^c-8df1273a3d681da04a0b709c708814f1]
 
 (1) A seafarer designated to launch or take charge of a survival craft or a rescue boat, other than a fast rescue boat, must hold a certificate of proficiency in such craft.
 
 (2) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) only to a person who meets the criteria specified in STCW Regulation VI/2, paragraph 1 (mandatory minimum requirements for the issue of certificates of proficiency in survival craft and rescue boats).
 
-### 23. Seafarers designated to launch or take charge of a fast rescue boat[^key-ebb40b49138f12a6605784f9eafe6c6c]
+### 23. Seafarers designated to launch or take charge of a fast rescue boat[^c-ebb40b49138f12a6605784f9eafe6c6c]
 
 (1) A seafarer designated to launch or take charge of a fast rescue boat must hold a certificate of proficiency in such craft.
 
 (2) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) only to a person who meets the criteria specified in STCW Regulation VI/2, paragraph 2 (mandatory minimum requirements for the issue of certificates of proficiency in fast rescue boats).
 
-### 24. Ship security officers[^key-0dd06f9ba0b5805874eeee6163e6b0fe]
+### 24. Ship security officers[^c-0dd06f9ba0b5805874eeee6163e6b0fe]
 
 (1) A ship security officer must hold a certificate of proficiency for the performance of the duties or functions of such a role.
 
@@ -484,7 +484,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (3) In this regulation, “**ship security officer**” means the person on board a ship, accountable to the master, designated by the company as responsible for the security of the ship including implementation and maintenance of the ship security plan and liaison with the company security officer and port facility security officers.
 
-### 25. Seafarers on a passenger ship engaged on international voyages (other than a high speed craft)[^key-08ac878ce7263805e2c0d4068728b53d]
+### 25. Seafarers on a passenger ship engaged on international voyages (other than a high speed craft)[^c-08ac878ce7263805e2c0d4068728b53d]
 
 (1) This regulation applies to seafarers on board a passenger ship engaged on international voyages, other than a high speed craft.
 
@@ -518,7 +518,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (8) In paragraph (5)(e), “**ro-ro passenger ship**” means a passenger ship having ro-ro cargo spaces or special category spaces as defined in regulation 3 of Chapter II-2 in the Annex to SOLAS.
 
-### 26. Seafarers on a high speed craft[^key-db4513cc905a292ff6debdf3d80f00d4]
+### 26. Seafarers on a high speed craft[^c-db4513cc905a292ff6debdf3d80f00d4]
 
 (1) This regulation applies to a seafarer on board a high speed craft constructed on or after 1st January 1996.
 
@@ -528,7 +528,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (4) In the case of masters and officers, where documentary evidence is to be issued, the Secretary of State, or an approved training provider, must issue a certificate in the form specified by the Secretary of State in Merchant Shipping Notice 1740 (M)[^f00022] and the certificate must be endorsed in a manner so specified by the Secretary of State.
 
-### 27. Safety familiarisation, basic training and instruction for all seafarers[^key-8b22a1768fb20701a1e652508c286bf7]
+### 27. Safety familiarisation, basic training and instruction for all seafarers[^c-8b22a1768fb20701a1e652508c286bf7]
 
 (1) Before being assigned to shipboard duties, a seafarer must—
 
@@ -538,7 +538,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (2) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) only to a seafarer who meets each of the requirements specified in sub-paragraphs (a) and (b) of that paragraph.
 
-### 28. Seafarers designated as a fire-fighting controller[^key-9e99f46bb1a64525e17b22d4e639af3b]
+### 28. Seafarers designated as a fire-fighting controller[^c-9e99f46bb1a64525e17b22d4e639af3b]
 
 (1) A seafarer designated to control fire-fighting operations must—
 
@@ -548,7 +548,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (2) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) only to a seafarer who meets each of the requirements specified in sub-paragraphs (a) and (b) of that paragraph.
 
-### 29. Seafarers designated as a provider of medical first aid or to take charge of medical care[^key-7623f8064bdfe7063fdcd6eb317ec8ea]
+### 29. Seafarers designated as a provider of medical first aid or to take charge of medical care[^c-7623f8064bdfe7063fdcd6eb317ec8ea]
 
 (1) A seafarer designated to provide medical first aid on board a ship must—
 
@@ -562,7 +562,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 (3) The Secretary of State or an approved training provider may issue a certificate of proficiency required by paragraph (1) or (2) only to a seafarer who meets the standard of competence specified in paragraph (1)(a) or (2)(a) respectively.
 
-### 30. Security-related familiarisation training for seafarers on an ISPS ship[^key-3155c5002774d2f2578de07b3d4604b6]
+### 30. Security-related familiarisation training for seafarers on an ISPS ship[^c-3155c5002774d2f2578de07b3d4604b6]
 
 (1) This regulation applies to a seafarer on a seagoing ship which is required to comply with the provisions of the ISPS Code.
 
@@ -583,7 +583,7 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 
 ### Application and issuing of certificates
 
-#### 31. Application for a certificate[^key-69081c616e57bc2849a2173a926ef65a]
+#### 31. Application for a certificate[^c-69081c616e57bc2849a2173a926ef65a]
 
 (1) An application for the issue of a certificate or a licence required by this Part, or an endorsement of a certificate of competency under regulation 34, must be—
 
@@ -597,11 +597,11 @@ operating, or intending to operate, in polar waters in the ice conditions specif
 - (b) accompanied by the prescribed fee; and
 - (c) in the case of an application for a certified copy of a certificate of proficiency that was issued by an approved training provider, accompanied by evidence of the issue of that certificate by the approved training provider.
 
-#### 32. Form of a certificate[^key-c540f7af9f247edaf75972a938fe948a]
+#### 32. Form of a certificate[^c-c540f7af9f247edaf75972a938fe948a]
 
 A certificate of competency or a certificate of proficiency issued under this Part must be in the form specified in section A-I/2, paragraph 1, of the STCW Code (certificates and endorsements).
 
-#### 33. Approval of seagoing service[^key-ddbff190c00c3709ae9ac71b3224a8f1]
+#### 33. Approval of seagoing service[^c-ddbff190c00c3709ae9ac71b3224a8f1]
 
 (1) Where these Regulations require a person to meet a requirement of the STCW Convention and that requirement includes a requirement for seagoing service, the Secretary of State must approve that seagoing service in accordance with section A-I/2, paragraph 5, of the STCW Code (approval of seagoing service).
 
@@ -619,7 +619,7 @@ A certificate of competency or a certificate of proficiency issued under this Pa
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-#### 34. Endorsements on a certificate of competency[^key-f4592fa7d762b6819a8f899899266ca9]
+#### 34. Endorsements on a certificate of competency[^c-f4592fa7d762b6819a8f899899266ca9]
 
 (1) The Secretary of State must endorse—
 
@@ -628,7 +628,7 @@ A certificate of competency or a certificate of proficiency issued under this Pa
 
 (2) An endorsement required by paragraph (1) must be in the form prescribed by STCW Regulation I/2 (certificates and endorsements).
 
-#### 35. Exemptions[^key-f5e73add57d3b738d708efe103cd35ee]
+#### 35. Exemptions[^c-f5e73add57d3b738d708efe103cd35ee]
 
 (1) Except where paragraph (5), (6) or (7) applies, the Secretary of State may exempt a seafarer from the requirements of this Part provided that the Secretary of State is satisfied that—
 
@@ -693,7 +693,7 @@ from the requirements of regulation 27 (safety familiarisation, basic training a
 
 ### Recognition of certificates
 
-#### 36. Recognition of a certificate issued by an EEA State[^key-274a9fd2e02e7b03a9b1745727ff1dc4]
+#### 36. Recognition of a certificate issued by an EEA State[^c-274a9fd2e02e7b03a9b1745727ff1dc4]
 
 (1) The Secretary of State may recognise—
 
@@ -716,7 +716,7 @@ from the requirements of regulation 27 (safety familiarisation, basic training a
   - (b) ensuring that all functions within the designated area of responsibility are properly performed; and
 - “**functions within the designated area of responsibility**” means the seven functions listed in paragraph 2 of the Introduction to the STCW Code.
 
-#### 37. Recognition of a certificate issued by a third party State[^key-d9ae1e236c335beb3377c5913ff41de4]
+#### 37. Recognition of a certificate issued by a third party State[^c-d9ae1e236c335beb3377c5913ff41de4]
 
 (1) The Secretary of State may recognise a certificate described in paragraph (2) issued by or under the authority of a third party State recognised immediately before IP completion day in accordance with paragraph (3).
 
@@ -740,7 +740,7 @@ from the requirements of regulation 27 (safety familiarisation, basic training a
 
 for the issue of a certificate of equivalent competency.
 
-#### 38. Recognition of a party to the STCW Convention[^key-0129af0b06a56b7a890e6b759bd3ab89]
+#### 38. Recognition of a party to the STCW Convention[^c-0129af0b06a56b7a890e6b759bd3ab89]
 
 (1) This regulation applies where the Secretary of State proposes to make a decision to recognise a party to the STCW Convention to which regulation 36 (recognition of a certificate issued by an EEA State) or 37 (recognition of a certificate issued by a third party State) does not apply in order to facilitate the recognition of the certificates described in paragraph (5) issued by or under the authority of that party.
 
@@ -773,13 +773,13 @@ for the issue of a certificate of equivalent competency.
 
 for the issue of a certificate of equivalent competency.
 
-#### 39. Additional requirements for a certificate of equivalent competency[^key-713b4cbb5966bef59e2c9e82eba19e8a]
+#### 39. Additional requirements for a certificate of equivalent competency[^c-713b4cbb5966bef59e2c9e82eba19e8a]
 
 (1) The Secretary of State must not issue a certificate of equivalent competency to an applicant under regulation 36 (recognition of a certificate issued by an EEA State), 37 (recognition of a certificate issued by a third party State) or 38 (recognition of a party to the STCW Convention) unless that applicant can demonstrate adequate knowledge of the English language as required by sections A-II/1, A-II/4, A-III/1 and A-IV/2 of the STCW Code (adequate knowledge of the English language).
 
 (2) A certificate of equivalent competency issued under regulation 36, 37 or 38 must be in the form specified in section A-I/2, paragraph 3, of the STCW Code (form of certificate).
 
-#### 40. Withdrawal of recognition[^key-7f0681d23f5adec847921c200541d489]
+#### 40. Withdrawal of recognition[^c-7f0681d23f5adec847921c200541d489]
 
 (1) The Secretary of State may, in the circumstances described in paragraph (2) and subject to paragraph (3), withdraw recognition of a party to the STCW Convention which issued a certificate described in regulation 36 (recognition of a certificate issued by an EEA State), 37 (recognition of a certificate issued by a third party State) or 38 (recognition of a party to the STCW Convention).
 
@@ -794,7 +794,7 @@ for the issue of a certificate of equivalent competency.
 
 ### Validity of Certificates
 
-#### 41. Validity of a certificate or endorsement[^key-81b4aa2cf57ade538b0e694cd2de0009]
+#### 41. Validity of a certificate or endorsement[^c-81b4aa2cf57ade538b0e694cd2de0009]
 
 (1) Subject to regulations 42 (revalidation of certain certificates and endorsements) and 43 (refresher training for certain seafarers), a certificate issued under this Part, except for a certificate issued under regulation 26 (seafarers on a high speed craft), remains valid for seagoing service provided the holder complies with the standards and conditions—
 
@@ -817,7 +817,7 @@ for the issue of a certificate of equivalent competency.
 
 (5) For the purposes of this regulation, “**the Medical Certification Regulations**” means the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^f00023].
 
-#### 42. Revalidation of certain certificates and endorsements[^key-4293b426ac9149ca1a8c660ec50def34]
+#### 42. Revalidation of certain certificates and endorsements[^c-4293b426ac9149ca1a8c660ec50def34]
 
 (1) This regulation applies to—
 
@@ -841,7 +841,7 @@ for the issue of a certificate of equivalent competency.
 - (b) accompanied by the prescribed fee; and
 - (c) accompanied by evidence of identity, age, relevant service, standards of competence and certificates or qualifications held.
 
-#### 43. Refresher training for certain seafarers[^key-878ff4e002c7d8f82cdb478507413829]
+#### 43. Refresher training for certain seafarers[^c-878ff4e002c7d8f82cdb478507413829]
 
 (1) Paragraph (2) applies to a seafarer who holds a certificate of proficiency in the following—
 
@@ -861,14 +861,14 @@ for the issue of a certificate of equivalent competency.
 
 ### Suspension and cancellation of certificates and appeals
 
-#### 44. Suspension and cancellation of a certificate[^key-5fcd8947d9294585cc4cce1174cbe000]
+#### 44. Suspension and cancellation of a certificate[^c-5fcd8947d9294585cc4cce1174cbe000]
 
 The Secretary of State may suspend or cancel a certificate issued under this Part where—
 
 - (a) the holder is convicted of an offence under section 47(5) of the Act (false statement etc.); or
 - (b) a certificate has been issued or endorsed and the conditions for its issue or endorsement have not been complied with.
 
-#### 45. Appeal against refusal, suspension or cancellation of a certificate[^key-a8820c0db93db2264d2374541d230b58]
+#### 45. Appeal against refusal, suspension or cancellation of a certificate[^c-a8820c0db93db2264d2374541d230b58]
 
 (1) If the Secretary of State intends to—
 
@@ -905,7 +905,7 @@ the Secretary of State is deemed to have refused the application and, before the
 
 (7) For the purposes of paragraph (1), “**certificate**” includes an endorsement under regulation 34 (endorsements on a certificate of competency).
 
-#### 46. Loss of a certificate[^key-4ced099c1a764bdc73f50925ae5741ae]
+#### 46. Loss of a certificate[^c-4ced099c1a764bdc73f50925ae5741ae]
 
 (1) Where a person who holds a certificate has lost or been deprived of it, the Secretary of State may, following receipt of an application in accordance with paragraph (2), issue a certified copy of the certificate to the holder.
 
@@ -915,7 +915,7 @@ the Secretary of State is deemed to have refused the application and, before the
 - (b) accompanied by the prescribed fee; and
 - (c) where the request relates to a certificate of proficiency issued by an approved training provider, accompanied by evidence of the issue of that certificate by the approved training provider.
 
-#### 47. Register of certificates and endorsements[^key-43d2f30e916b3d6f8b19f30568e1f165]
+#### 47. Register of certificates and endorsements[^c-43d2f30e916b3d6f8b19f30568e1f165]
 
 (1) The Registrar must keep a register of certificates and endorsements issued under this Part (“**the register**”) recording the items of information listed in section A-I/2, paragraph 9, of the STCW Code (database of certificate registration).
 
@@ -938,7 +938,7 @@ the Registrar must provide from the register the information listed in paragraph
 
 ### Training providers
 
-#### 48. Approval of training providers[^key-efd98c28b5e0e0067998aba666d8a6c7]
+#### 48. Approval of training providers[^c-efd98c28b5e0e0067998aba666d8a6c7]
 
 (1) A person providing training or assessment of seafarers for certification under this Part must be approved by the Secretary of State as a provider of training or assessment of seafarers.
 
@@ -957,7 +957,7 @@ the Registrar must provide from the register the information listed in paragraph
 - (e) Annex B to Merchant Shipping Notice 1860 (M) Amendment 1[^f00027];
 - (f) paragraphs 11 and 12 in Merchant Shipping Notice 1862 (M) Amendment 1[^f00028];
 - (g) Annex F to Merchant Shipping Notice 1865 (M) Amendment 1[^f00029];
-- (h) Annex D to Merchant Shipping Notice 1866 (M) Amendment 2[^key-189f92280b543a41f8b5283421eed6b4];
+- (h) Annex D to Merchant Shipping Notice 1866 (M) Amendment 2[^c-189f92280b543a41f8b5283421eed6b4];
 - (i) Annex D to Merchant Shipping Notice 1904 (M+F).
 
 (4) An approval may be given under paragraph (2) for a maximum period of five years from the date specified in the approval letter.
@@ -1003,7 +1003,7 @@ the Secretary of State must give notice in writing to that person.
 
 (14) In this regulation, “approval letter” and “approval certificate” mean the documents so described in the provisions of the Merchant Shipping Notices described in paragraph (3).
 
-#### 49. Issue of certificates of proficiency and documentary evidence by an approved training provider[^key-e1157ff8b3bbd23272bd1db0a2ad90cf]
+#### 49. Issue of certificates of proficiency and documentary evidence by an approved training provider[^c-e1157ff8b3bbd23272bd1db0a2ad90cf]
 
 (1) Except in respect of the training and assessment of masters and officers undertaken to meet the requirements of regulations 10 to 14 (training requirements for seafarers on oil, chemical or liquefied gas tankers), an approved training provider must issue a certificate of proficiency to every person who successfully completes the training or assessment undertaken to meet the requirements for such certificate in the form specified in Section A-I/2 of the STCW Code (certificates and endorsements).
 
@@ -1015,7 +1015,7 @@ the Secretary of State must give notice in writing to that person.
 
 an approved training provider must issue documentary evidence to every person successfully completing such training or assessment.
 
-#### 50. Appeal against refusal, alteration, suspension or cancellation of an approval[^key-77350e16f1fcce82c228ae34c2795480]
+#### 50. Appeal against refusal, alteration, suspension or cancellation of an approval[^c-77350e16f1fcce82c228ae34c2795480]
 
 (1) A person—
 
@@ -1028,7 +1028,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 ## PART 3 — Training and certification: hovercraft
 
-### 51. Hovercraft personnel[^key-39c576706134ad8a08bb7990dfc1dab8]
+### 51. Hovercraft personnel[^c-39c576706134ad8a08bb7990dfc1dab8]
 
 (1) This Part applies to every seagoing hovercraft registered in the United Kingdom which was constructed on or after 1st January 1996.
 
@@ -1040,13 +1040,13 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 (5) In the case of a master or an officer, the documentary evidence must be a certificate in the form specified by the Secretary of State in Merchant Shipping Notice 1740 (M) and the certificate must be endorsed in a manner so specified.
 
-### 52. Certificates and approved training providers[^key-2693ab1a5ec21d69a877e8a8a2d69e0b]
+### 52. Certificates and approved training providers[^c-2693ab1a5ec21d69a877e8a8a2d69e0b]
 
 (1) Regulations 31 to 34 (application and issuing of certificates and endorsements), 41 (validity of a certificate or endorsement), 42 (revalidation of certain certificates and endorsements), 44 (suspension and cancellation of a certificate), 45 (appeal against refusal, suspension or cancellation of a certificate) and 46 (loss of a certificate) apply to certificates issued under regulation 51 (hovercraft personnel) as they apply to certificates issued under Part 2.
 
 (2) Regulations 48 to 50 (training providers) apply to a person providing the training referred to in regulation 51(3) (type rating training) as they apply to a person providing training or assessment of seafarers for certification under Part 2.
 
-### 53. Exemptions[^key-f688dcc06a0ac2ab3789e5dd58a7a8e0]
+### 53. Exemptions[^c-f688dcc06a0ac2ab3789e5dd58a7a8e0]
 
 (1) The Secretary of State may grant to the owner of a hovercraft an exemption from any of the requirements of regulation 51 (hovercraft personnel) for classes of case or individual cases if satisfied that compliance with such requirement is either impracticable or unreasonable.
 
@@ -1072,7 +1072,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 ### General
 
-#### 54. Application[^key-1377559ce8dab2c9f918b7571150db7b]
+#### 54. Application[^c-1377559ce8dab2c9f918b7571150db7b]
 
 (1) Subject to paragraph (2), this Part applies to—
 
@@ -1085,7 +1085,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 - (b) ships owned or operated by a State and engaged only on governmental non-commercial service;
 - (c) fishing vessels;
 - (d) pleasure vessels; or
-- (e)[^key-4848b7b90b4be21104d52cc4915899c1] vessels—
+- (e)[^c-4848b7b90b4be21104d52cc4915899c1] vessels—
   - (i) which are small vessels as defined in regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025; and
   - (ii) to which those Regulations apply.
 
@@ -1093,7 +1093,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 ### Safe manning
 
-#### 55. Safe manning document[^key-95c6286767e5b19b72d1f287f83a7e24]
+#### 55. Safe manning document[^c-95c6286767e5b19b72d1f287f83a7e24]
 
 (1) This regulation applies to—
 
@@ -1126,7 +1126,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 ### Watchkeeping arrangements
 
-#### 56. Watchkeeping arrangements generally and at sea[^key-86748412d4e290eee5c485d692bd8c3f]
+#### 56. Watchkeeping arrangements generally and at sea[^c-86748412d4e290eee5c485d692bd8c3f]
 
 (1) The master of a ship must ensure that the watchkeeping arrangements for the ship are at all times adequate for maintaining safe navigational, engineering and radio watches—
 
@@ -1145,7 +1145,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 - (a) section A-VIII/2, Part 4-2, of the STCW Code (principles to be observed in keeping an engineering watch); and
 - (b) any requirements specified in Merchant Shipping Notice 1868 (M) Amendment 1.
 
-#### 57. Watchkeeping arrangements in port[^key-131653be0014cb26df7262c00d94141e]
+#### 57. Watchkeeping arrangements in port[^c-131653be0014cb26df7262c00d94141e]
 
 (1) The master of a ship which is safely moored, or safely at anchor under normal circumstances in port, must arrange for an appropriate and effective watch to be maintained for the purposes of safety.
 
@@ -1154,7 +1154,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 - (a) section A-VIII/2, Part 5, of the STCW Code (watchkeeping in port); and
 - (b) any requirements specified in Merchant Shipping Notice 1868 (M) Amendment 1.
 
-#### 58. Watchkeeping arrangements in port for ships carrying hazardous cargo[^key-21adae7a31a64d3d18bc61a6387e027e]
+#### 58. Watchkeeping arrangements in port for ships carrying hazardous cargo[^c-21adae7a31a64d3d18bc61a6387e027e]
 
 (1) The master of a ship which is carrying hazardous cargo and which is in port, even when safely moored or safely at anchor, must, in addition to any watchkeeping arrangements required under regulation 57 (watchkeeping arrangements in port), in the case of—
 
@@ -1165,7 +1165,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 (3) In this regulation, “**hazardous cargo**” means cargo which is or may be explosive, flammable, toxic, health-threatening or polluting to the marine environment.
 
-#### 59. Exemptions[^key-bdd3cc0e9772b9738b1987dfee903f79]
+#### 59. Exemptions[^c-bdd3cc0e9772b9738b1987dfee903f79]
 
 (1) The Secretary of State may exempt a ship or class of ships from any of the requirements of this Part if satisfied that compliance with such provision is either impracticable or unreasonable.
 
@@ -1189,7 +1189,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 ## PART 5 — General
 
-### 60. Application[^key-a4938c54b67bcfc114a920a85a81c885]
+### 60. Application[^c-a4938c54b67bcfc114a920a85a81c885]
 
 (1) Subject to paragraphs (2), (3) and (4), this Part applies to—
 
@@ -1212,13 +1212,13 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 (5) In this Part, “**ship**” includes hovercraft.
 
-### 61. Responsibilities of companies, masters and others[^key-715173ac02757dc1827063d6330327b7]
+### 61. Responsibilities of companies, masters and others[^c-715173ac02757dc1827063d6330327b7]
 
 (1) A company must ensure that—
 
 - (a) a seafarer assigned to any of its ships, other than a hovercraft, holds an appropriate certificate in respect of any function that person performs on that ship;
-- (b) a seafarer on any of its ships has had training specified in Part 2 (training and certification: ships) or Part 3 (training and certification: hovercraft) in respect of any function that person performs on that ship; [^key-c816ae7885a81a7ea64a9a118cf20486]...
-- (ba)[^key-8a5bafc2bc327c98caf9cc4e24e12f29] the conditions specified in regulation 16C(1) (seafarers on a ship operating or intending to operate in polar waters – replacement with other persons) are complied with when a person replaces a seafarer under that regulation; and
+- (b) a seafarer on any of its ships has had training specified in Part 2 (training and certification: ships) or Part 3 (training and certification: hovercraft) in respect of any function that person performs on that ship; [^c-c816ae7885a81a7ea64a9a118cf20486]...
+- (ba)[^c-8a5bafc2bc327c98caf9cc4e24e12f29] the conditions specified in regulation 16C(1) (seafarers on a ship operating or intending to operate in polar waters – replacement with other persons) are complied with when a person replaces a seafarer under that regulation; and
 - (c) documentation and data relevant to a seafarer employed on its ships are maintained and readily available for inspection and include, without being limited to, documentation and data on their experience, training, medical fitness and competency in assigned duties.
 
 (2) Nothing in paragraph (1) prohibits the allocation of tasks for training under supervision or in case of force majeure.
@@ -1234,7 +1234,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 (5) A master and a member of a crew designated with an obligation under paragraph (4)(b) must carry out that obligation.
 
-### 62. Carriage of documents[^key-a596f4fabbfc19d43bb75c8473bf39d4]
+### 62. Carriage of documents[^c-a596f4fabbfc19d43bb75c8473bf39d4]
 
 A company and a master must ensure that there are carried at all times on board a ship all original certificates and other documents issued pursuant to—
 
@@ -1243,7 +1243,7 @@ A company and a master must ensure that there are carried at all times on board 
 
 indicating the qualification of any member of the crew to perform functions which they are required to perform on board a ship in the course of their designated duties.
 
-### 63. Equivalents[^key-aac8f57c4dd51c861216d9c895a3e2d4]
+### 63. Equivalents[^c-aac8f57c4dd51c861216d9c895a3e2d4]
 
 (1) The Secretary of State may approve alternative training arrangements to those required by these Regulations, including those involving seagoing service and shipboard organisation especially adapted to technical developments and to special types of ships and trades, if the Secretary of State is satisfied that the conditions in paragraph (2) are met.
 
@@ -1263,7 +1263,7 @@ indicating the qualification of any member of the crew to perform functions whic
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 64. Inspection of ships that are not registered in the United Kingdom[^key-9d7d2213dfb4781389396f3cd9aad46c]
+### 64. Inspection of ships that are not registered in the United Kingdom[^c-9d7d2213dfb4781389396f3cd9aad46c]
 
 (1) An authorised person may inspect any ship that is not a ship registered in the United Kingdom for the purposes of—
 
@@ -1299,7 +1299,7 @@ that such a deficiency has been found.
   - (b) on a ship of the type, tonnage or power and means of propulsion on which the seafarer is engaged; and
   - (c) while engaged on the particular voyage concerned.
 
-### 65. Power to detain[^key-5c4111e3dfc026105856c58668d3c822]
+### 65. Power to detain[^c-5c4111e3dfc026105856c58668d3c822]
 
 (1) Any ship which does not comply with the requirements of these Regulations may be detained in the United Kingdom.
 
@@ -1332,7 +1332,7 @@ that such a deficiency has been found.
 
 (8) If it is not possible to inform the ship’s flag administration in accordance with paragraph (7), the Secretary of State must inform the Consul of the State of the flag administration, or in the absence of a Consul, the nearest diplomatic representative of the State of the flag administration.
 
-### 66. Offences and penalties[^key-768d17f46dcb3992ff0374f28f96a901]
+### 66. Offences and penalties[^c-768d17f46dcb3992ff0374f28f96a901]
 
 (1) A person who contravenes regulation 48(13)(a), (b), (c) or (d) (providing training without approval or holding out as an approved training provider etc.), is guilty of an offence, punishable—
 
@@ -1376,7 +1376,7 @@ that such a deficiency has been found.
 
 (8) In any proceedings for an offence under these Regulations consisting of a failure to comply with a duty or requirement to do something so far as is reasonably practicable, it is for the person charged to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
 
-### 67. Transitional and saving provisions[^key-956515a6da796f27b3aa71ed7dd669ff]
+### 67. Transitional and saving provisions[^c-956515a6da796f27b3aa71ed7dd669ff]
 
 (1) Any certificate referred to in paragraph (2) issued to a seafarer or any endorsement of a certificate of competency under the 2015 Regulations before the coming into force of these Regulations is to be treated as if issued or endorsed under these Regulations and is valid for such period as is specified in the certificate.
 
@@ -1398,7 +1398,7 @@ that such a deficiency has been found.
 
 (7) For the purposes of this regulation, “**the 2015 Regulations**” means the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^f00037].
 
-### 68. Review[^key-4ab527675a43e8a213087c5543345d20]
+### 68. Review[^c-4ab527675a43e8a213087c5543345d20]
 
 (1) The Secretary of State must from time to time—
 
@@ -1446,11 +1446,11 @@ Regulation 2
 
 ### PART 1 — Amendments
 
-#### 1. Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^key-63c904b25d902266f8bf957344fd9808]
+#### 1. Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^c-63c904b25d902266f8bf957344fd9808]
 
 The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^f00039] are amended as follows.
 
-**2.**[^key-405dfae87bad5d48d45995b448acd7ed] In the Schedule, in the table—
+**2.**[^c-405dfae87bad5d48d45995b448acd7ed] In the Schedule, in the table—
 
 - (a) omit the entry for the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015;
 - (b) at the end–
@@ -1458,11 +1458,11 @@ The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^f00039
   - (ii) in the second column, insert “2022/1342”; and
   - (iii) in the third column, insert “None”.
 
-#### 3. Merchant Shipping (Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-32347ef18d06c129359526768ffa1161]
+#### 3. Merchant Shipping (Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^c-32347ef18d06c129359526768ffa1161]
 
 The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^f00040] are amended as follows.
 
-**4.**[^key-a7e5fe4745cc108fed865cce78d2e2da] In Schedule 1 (large vessels), in the table—
+**4.**[^c-a7e5fe4745cc108fed865cce78d2e2da] In Schedule 1 (large vessels), in the table—
 
 - (a) omit the entry for the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015;
 - (b) at the end–
@@ -1470,7 +1470,7 @@ The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulati
   - (ii) in the second column, insert “2022/1342”; and
   - (iii) in the third column, insert “None”.
 
-**5.**[^key-de93351ea8e2f2e51eb24da6e236a588] In Schedule 2 (small vessels), in the table—
+**5.**[^c-de93351ea8e2f2e51eb24da6e236a588] In Schedule 2 (small vessels), in the table—
 
 - (a) omit the entry for the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015;
 - (b) at the end–
@@ -1478,11 +1478,11 @@ The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulati
   - (ii) in the second column, insert “2022/1342”; and
   - (iii) in the third column, insert “None”.
 
-#### 6. Social Security (Contributions) Regulations 2001[^key-f827587f0058222e1a916f622111415a]
+#### 6. Social Security (Contributions) Regulations 2001[^c-f827587f0058222e1a916f622111415a]
 
 The Social Security (Contributions) Regulations 2001[^f00041] are amended as follows.
 
-**7.**[^key-8052e0dae032495cdc4b4e5a085d0889] In regulation 114 (application to employment in connection with continental shelf etc.)—
+**7.**[^c-8052e0dae032495cdc4b4e5a085d0889] In regulation 114 (application to employment in connection with continental shelf etc.)—
 
 - (a) in paragraph (5)(c), for “regulation 46(1)(c) of the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015” substitute “regulation 55(2)(c) of the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022”;
 - (b) in Table 1, in Column (B)—
@@ -1491,17 +1491,17 @@ The Social Security (Contributions) Regulations 2001[^f00041] are amended as fol
   - (iii) for “regulation 15”, substitute “regulation 18”;
 - (c) in paragraph (6), for “the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015” substitute “the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022”.
 
-#### 8. Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^key-276f2ff0a37fc22786227382a1aa6a85]
+#### 8. Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^c-276f2ff0a37fc22786227382a1aa6a85]
 
 The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^f00042] are amended as follows.
 
-**9.**[^key-081f590f4a07167a08d120809d289002] In the Schedule, in the table, for “The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015”, in both places, substitute “The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022”.
+**9.**[^c-081f590f4a07167a08d120809d289002] In the Schedule, in the table, for “The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015”, in both places, substitute “The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022”.
 
-#### 10. Merchant Shipping (Fees) Regulations 2018[^key-5d088b237cfdbd2d73db66e134ad08c9]
+#### 10. Merchant Shipping (Fees) Regulations 2018[^c-5d088b237cfdbd2d73db66e134ad08c9]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00043] are amended as follows.
 
-**11.**[^key-fb03de90bffb06801d3dd011b6d54efb] In Schedule 1 (fees under the Merchant Shipping Act 1995)—
+**11.**[^c-fb03de90bffb06801d3dd011b6d54efb] In Schedule 1 (fees under the Merchant Shipping Act 1995)—
 
 - (a) in Part 1 (surveys, inspections and applications for exemption)—
   - (i) in paragraph 2(1), at the end of paragraph (g), insert—
@@ -1561,21 +1561,21 @@ The Merchant Shipping (Fees) Regulations 2018[^f00043] are amended as follows.
     - (aa) for “safe manning certificate”, in each place it occurs, substitute “safe manning document”;
     - (bb) in item 2, for “certificate” substitute “safe manning document”.
 
-#### 12. The Merchant Shipping (Polar Code) (Safety) Regulations 2021[^key-a3543177db1718de57e34dfe90bb803e]
+#### 12. The Merchant Shipping (Polar Code) (Safety) Regulations 2021[^c-a3543177db1718de57e34dfe90bb803e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a3543177db1718de57e34dfe90bb803e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Revocations[^key-2719deb2c0378e3d081a37147d946fe9]
+### PART 2 — Revocations[^c-2719deb2c0378e3d081a37147d946fe9]
 
 | Regulations revoked | References | Extent of revocation |
 | --- | --- | --- |
@@ -1583,7 +1583,7 @@ The Merchant Shipping (Fees) Regulations 2018[^f00043] are amended as follows.
 | The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 | [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68) | Paragraph 5 in Part 1 of the Schedule |
 | The Merchant Shipping (Standards of Training, Certification and Watchkeeping) (Amendment) (EU Exit) Regulations 2019 | [S.I. 2019/630](https://www.legislation.gov.uk/uksi/2019/630) | The whole Regulations |
 
-## SCHEDULE 2 — Categories of certificates of competency and criteria for issue[^key-85ae7cd2287b7147c788d52c116cb8db]
+## SCHEDULE 2 — Categories of certificates of competency and criteria for issue[^c-85ae7cd2287b7147c788d52c116cb8db]
 
 Regulation 7
 
@@ -1607,7 +1607,7 @@ Regulation 7
 </tbody>
 </table>
 
-[^key-85ae7cd2287b7147c788d52c116cb8db]For the purposes of this Schedule, “**near-coastal voyage**” means a voyage during which the ship is not more than 150 nautical miles from a safe haven in the United Kingdom, or not more than 30 nautical miles from a safe haven in the Republic of Ireland.
+[^c-85ae7cd2287b7147c788d52c116cb8db]For the purposes of this Schedule, “**near-coastal voyage**” means a voyage during which the ship is not more than 150 nautical miles from a safe haven in the United Kingdom, or not more than 30 nautical miles from a safe haven in the Republic of Ireland.
 
 EXPLANATORY NOTE
 
@@ -1665,21 +1665,21 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00002]: Footnote: [S.I. 1996/282](https://www.legislation.gov.uk/uksi/1996/282). Article 2 was amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), Schedule 4, Part 1, paragraph 3 and [S.I. 2022/844](https://www.legislation.gov.uk/uksi/2022/844). There is another amendment which is not relevant. Article 2 is applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-aeb9d6df7227ef3a0c66810e9ec828be]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/1342) excluded in part (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-aeb9d6df7227ef3a0c66810e9ec828be]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/1342) excluded in part (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
 [^f00003]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 13 of Schedule 8 was amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 54(8) and the European Union (Future Relationship) Act [2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29) Schedule 6, paragraph 8. There are other amendments but none is relevant.
 
-[^key-e0f4a2b193e2840a90960053644635e7]: Commencement: Reg. 1 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-e0f4a2b193e2840a90960053644635e7]: Commencement: Reg. 1 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-f7147e60209986fa05fd11cea11c3011]: Commencement: Reg. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-f7147e60209986fa05fd11cea11c3011]: Commencement: Reg. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-2d117080534153de5322e5d5a88ffde1]: Commencement: Reg. 3 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2d117080534153de5322e5d5a88ffde1]: Commencement: Reg. 3 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-32f80ad575a4c62779f5db612a9ec0e5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-32f80ad575a4c62779f5db612a9ec0e5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-8aad3203a9ec942d5b1da6676bcd5007]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-8aad3203a9ec942d5b1da6676bcd5007]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-2854d27ed18e4a79fc5efdd45411cdd9]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(c)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-2854d27ed18e4a79fc5efdd45411cdd9]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(c)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
 [^f00004]: Footnote: OJ L 323, 3.12.2008, p. 33, amended by [Directive 2012/35/EU](https://www.legislation.gov.uk/european/directive/2012/0035) of 21 November 2012 (OJ L 343, 14.12.2012, p. 78) and Directive (EU) 2019/1159 of 20 June 2019 (OJ L 188, 12.7.2019, p. 94).
 
@@ -1693,21 +1693,21 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00009]: Footnote: The IBC Code was adopted by IMO Resolution MSC.4(48) on 17th June 1983 and in accordance with IMO Resolution 6(48) came into force on 1st July 1986. The Code was replaced in full by IMO Resolutions MSC.176(79) and MEPC.119(52), adopted on 10th December 2004 and 15th October 2004 respectively, and which came into force on 1st January 2007. The current version of the Code has been amended by IMO Resolutions MEPC.166(56), MSC.219(82), MEPC.225(64), MSC.340(91), MEPC.250(66), MSC.369(93), MEPC.302(72) and MSC.440(99). The Code and amendments to it are available from the IMO of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database ( https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch).
 
-[^key-c910624e616c615dfef2e652792e2515]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(d)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-c910624e616c615dfef2e652792e2515]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(d)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
 [^f00010]: Footnote: The IGC Code was adopted by IMO Resolution MSC.5(48) on 17th June 1983 and in accordance with IMO Resolution 6(48) came into force on 1st July 1986. The Code was replaced in full by IMO Resolution MSC.370(93) which was adopted on 22nd May 2014 and came into force on 1st July 2016. The current version of the Code has been amended by IMO Resolutions MSC.93/22/Add.1/Corr.3 and MSC.93/22/Add.1/Corr.5. The Code and amendments to it are available from the IMO of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch).
 
 [^f00011]: Footnote: The International Code of Safety for Ships Using Gases or Other Low-Flashpoint Fuels (IGF Code) was adopted by IMO Resolution MSC.391(95) on 11th June 2015 and made mandatory by MSC.392(95). It came into force on 1 January 2017. The Code was corrected by MSC 95/22/Add.1/Corr.1 and amended by IMO Resolution MSC.422(98). The Code and amendments to it are available from the IMO of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch).
 
-[^key-552803fb236f782633e5a327ed383449]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(e)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-552803fb236f782633e5a327ed383449]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(e)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
 [^f00012]: Footnote: The ISPS Code was adopted by resolution 2 of the Conference of Contracting Governments to the International Convention for the Safety of Life at Sea, 1974 on 12th December 2002 and amended by IMO Resolution 196(80). The Code and amendments to it can be obtained from the IMO of 4 Albert Embankment, London SE1 7SR, or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch).
 
 [^f00013]: Footnote: [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68), amended by [S.I. 2020/496](https://www.legislation.gov.uk/uksi/2020/496) and [S.I. 2021/818](https://www.legislation.gov.uk/uksi/2021/818). There are other amending instruments but none is relevant.
 
-[^key-1dad5bf4722c6bbaf55e59f5ffdf700d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(f)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-1dad5bf4722c6bbaf55e59f5ffdf700d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(f)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-a0f75df08f599543a4234abcd67cb251]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(g)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-a0f75df08f599543a4234abcd67cb251]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(g)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
 [^f00014]: Footnote: The prescribed fee relevant to each individual requirement is found in the Merchant Shipping (Fees) Regulations 2018 ([S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104)).
 
@@ -1717,7 +1717,7 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00017]: Footnote: Merchant Shipping Notice 1837 (M) Amendment 2 is available at https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
 
-[^key-7f5e51d6609d3e1e1861d0e069d161ee]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(h)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-7f5e51d6609d3e1e1861d0e069d161ee]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1342/regulation/3) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 16(h)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/16/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
 [^f00018]: Footnote: Cmnd 7874. SOLAS may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=79786). The Convention was modified by its Protocol of 1978 (Cmnd 8277) (https://treaties.fcdo.gov.uk/awweb/pdfopener?md=1&did=68013), which was replaced and abrogated by the Protocol of 1988 (Cm 5044) (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=69573) with respect to the parties to the 1988 Protocol. The amendments to SOLAS are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers for the Command Papers are HL/PO/JO/10/11/2031/2878 (Cmnd 7874), HL/PO/JO/10/11/1959/2032 (Cmnd 8277) and HL/PO/JO/10/11/3156/2280 (Cm 5044).
 
@@ -1725,105 +1725,105 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00020]: Footnote: Cmnd 7543. The Annex to the STCW Convention was replaced in full in 2010 following the Manila Conference. The Convention has since been amended by IMO Resolutions MSC.373(93), MSC.396(95) and MSC.416(97). The STCW Convention and the amendments to it are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW.
 
-[^key-e8f80b9b07c35c68bd14ef68b16ce8bb]: Commencement: Reg. 4 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-e8f80b9b07c35c68bd14ef68b16ce8bb]: Commencement: Reg. 4 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-56d689d8ab87cf2dad653c198a8a76cc]: Commencement: Reg. 5 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-56d689d8ab87cf2dad653c198a8a76cc]: Commencement: Reg. 5 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-b099a1d1734deb42b4cc215cf7376ab7]: Commencement: Reg. 6 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-b099a1d1734deb42b4cc215cf7376ab7]: Commencement: Reg. 6 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-6b026d8c78ec1c9caac905009b2c2ec5]: Commencement: Reg. 7 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-6b026d8c78ec1c9caac905009b2c2ec5]: Commencement: Reg. 7 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-b8eb3e326756c69149ecf2feb25d18c2]: Commencement: Reg. 8 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-b8eb3e326756c69149ecf2feb25d18c2]: Commencement: Reg. 8 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00021]: Footnote: Merchant Shipping Notice 1857 (M+F) Amendment 1, Merchant Shipping Notice 1859 (M+F) Amendment 1 and Merchant Shipping Notice 1904 (M+F) can be found at https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
 
-[^key-2631928fb44e2486001d667585369534]: Commencement: Reg. 9 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2631928fb44e2486001d667585369534]: Commencement: Reg. 9 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-2aab8b697d5f5d9ce313deebc976c239]: Commencement: Reg. 10 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2aab8b697d5f5d9ce313deebc976c239]: Commencement: Reg. 10 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-6c34f11930790033e0b9093c8362abe1]: Commencement: Reg. 11 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-6c34f11930790033e0b9093c8362abe1]: Commencement: Reg. 11 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-0187dc20209ca8a6df75485af4df5f7b]: Commencement: Reg. 12 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-0187dc20209ca8a6df75485af4df5f7b]: Commencement: Reg. 12 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-2754e449f8046fc2de254a04146576e8]: Commencement: Reg. 13 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2754e449f8046fc2de254a04146576e8]: Commencement: Reg. 13 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-26e5b2e3076f81686612bd351b4eafda]: Commencement: Reg. 14 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-26e5b2e3076f81686612bd351b4eafda]: Commencement: Reg. 14 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-4c59891303eac68e965a4f0157b9b785]: Commencement: Reg. 15 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-4c59891303eac68e965a4f0157b9b785]: Commencement: Reg. 15 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-ea5b4502716cecde72bd91d34065f788]: Commencement: Reg. 16 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-ea5b4502716cecde72bd91d34065f788]: Commencement: Reg. 16 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-a24569fb7d6394bd11ef9ac4b1bd8f23]: Textual amendment: [Regs. 16A-16C](https://www.legislation.gov.uk/uksi/2022/1342/regulation/16A) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-a24569fb7d6394bd11ef9ac4b1bd8f23]: Textual amendment: [Regs. 16A-16C](https://www.legislation.gov.uk/uksi/2022/1342/regulation/16A) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-f793f31228edbbd5d74e57c7e9548adc]: Commencement: Reg. 17 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-f793f31228edbbd5d74e57c7e9548adc]: Commencement: Reg. 17 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-54a0e3bbdc8fc79f9bdbdc9c659757ec]: Commencement: Reg. 18 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-54a0e3bbdc8fc79f9bdbdc9c659757ec]: Commencement: Reg. 18 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-2c771feb2b1dbc78a441746a105701d6]: Commencement: Reg. 19 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2c771feb2b1dbc78a441746a105701d6]: Commencement: Reg. 19 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-63cb128a3178a2d327d91108d02d23e9]: Commencement: Reg. 20 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-63cb128a3178a2d327d91108d02d23e9]: Commencement: Reg. 20 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-ac9e455f6911e43c3dfacf26928d1474]: Commencement: Reg. 21 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-ac9e455f6911e43c3dfacf26928d1474]: Commencement: Reg. 21 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-8df1273a3d681da04a0b709c708814f1]: Commencement: Reg. 22 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-8df1273a3d681da04a0b709c708814f1]: Commencement: Reg. 22 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-ebb40b49138f12a6605784f9eafe6c6c]: Commencement: Reg. 23 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-ebb40b49138f12a6605784f9eafe6c6c]: Commencement: Reg. 23 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-0dd06f9ba0b5805874eeee6163e6b0fe]: Commencement: Reg. 24 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-0dd06f9ba0b5805874eeee6163e6b0fe]: Commencement: Reg. 24 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-08ac878ce7263805e2c0d4068728b53d]: Commencement: Reg. 25 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-08ac878ce7263805e2c0d4068728b53d]: Commencement: Reg. 25 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-db4513cc905a292ff6debdf3d80f00d4]: Commencement: Reg. 26 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-db4513cc905a292ff6debdf3d80f00d4]: Commencement: Reg. 26 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00022]: Footnote: Merchant Shipping Notice 1740 (M) can be found at https://www.gov.uk/government/publications/msn-1740-training-and-certification-of-officers-and-crew-on-high-speed-craft and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
 
-[^key-8b22a1768fb20701a1e652508c286bf7]: Commencement: Reg. 27 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-8b22a1768fb20701a1e652508c286bf7]: Commencement: Reg. 27 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-9e99f46bb1a64525e17b22d4e639af3b]: Commencement: Reg. 28 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-9e99f46bb1a64525e17b22d4e639af3b]: Commencement: Reg. 28 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-7623f8064bdfe7063fdcd6eb317ec8ea]: Commencement: Reg. 29 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-7623f8064bdfe7063fdcd6eb317ec8ea]: Commencement: Reg. 29 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-3155c5002774d2f2578de07b3d4604b6]: Commencement: Reg. 30 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-3155c5002774d2f2578de07b3d4604b6]: Commencement: Reg. 30 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-69081c616e57bc2849a2173a926ef65a]: Commencement: Reg. 31 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-69081c616e57bc2849a2173a926ef65a]: Commencement: Reg. 31 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-c540f7af9f247edaf75972a938fe948a]: Commencement: Reg. 32 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-c540f7af9f247edaf75972a938fe948a]: Commencement: Reg. 32 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-ddbff190c00c3709ae9ac71b3224a8f1]: Commencement: Reg. 33 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-ddbff190c00c3709ae9ac71b3224a8f1]: Commencement: Reg. 33 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-f4592fa7d762b6819a8f899899266ca9]: Commencement: Reg. 34 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-f4592fa7d762b6819a8f899899266ca9]: Commencement: Reg. 34 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-f5e73add57d3b738d708efe103cd35ee]: Commencement: Reg. 35 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-f5e73add57d3b738d708efe103cd35ee]: Commencement: Reg. 35 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-274a9fd2e02e7b03a9b1745727ff1dc4]: Commencement: Reg. 36 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-274a9fd2e02e7b03a9b1745727ff1dc4]: Commencement: Reg. 36 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-d9ae1e236c335beb3377c5913ff41de4]: Commencement: Reg. 37 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-d9ae1e236c335beb3377c5913ff41de4]: Commencement: Reg. 37 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-0129af0b06a56b7a890e6b759bd3ab89]: Commencement: Reg. 38 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-0129af0b06a56b7a890e6b759bd3ab89]: Commencement: Reg. 38 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-713b4cbb5966bef59e2c9e82eba19e8a]: Commencement: Reg. 39 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-713b4cbb5966bef59e2c9e82eba19e8a]: Commencement: Reg. 39 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-7f0681d23f5adec847921c200541d489]: Commencement: Reg. 40 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-7f0681d23f5adec847921c200541d489]: Commencement: Reg. 40 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-81b4aa2cf57ade538b0e694cd2de0009]: Commencement: Reg. 41 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-81b4aa2cf57ade538b0e694cd2de0009]: Commencement: Reg. 41 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737), amended by [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614) and [S.I. 2018/242](https://www.legislation.gov.uk/uksi/2018/242).
 
-[^key-4293b426ac9149ca1a8c660ec50def34]: Commencement: Reg. 42 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-4293b426ac9149ca1a8c660ec50def34]: Commencement: Reg. 42 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00024]: Footnote: Merchant Shipping Notice 1861 (M) Amendment 1 can be found at https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
 
-[^key-878ff4e002c7d8f82cdb478507413829]: Commencement: Reg. 43 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-878ff4e002c7d8f82cdb478507413829]: Commencement: Reg. 43 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-5fcd8947d9294585cc4cce1174cbe000]: Commencement: Reg. 44 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-5fcd8947d9294585cc4cce1174cbe000]: Commencement: Reg. 44 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-a8820c0db93db2264d2374541d230b58]: Commencement: Reg. 45 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-a8820c0db93db2264d2374541d230b58]: Commencement: Reg. 45 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-4ced099c1a764bdc73f50925ae5741ae]: Commencement: Reg. 46 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-4ced099c1a764bdc73f50925ae5741ae]: Commencement: Reg. 46 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-43d2f30e916b3d6f8b19f30568e1f165]: Commencement: Reg. 47 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-43d2f30e916b3d6f8b19f30568e1f165]: Commencement: Reg. 47 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-efd98c28b5e0e0067998aba666d8a6c7]: Commencement: Reg. 48 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-efd98c28b5e0e0067998aba666d8a6c7]: Commencement: Reg. 48 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00025]: Footnote: Merchant Shipping Notice 1856 (M) Amendment 1 can be found at https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
 
@@ -1835,51 +1835,51 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00029]: Footnote: Merchant Shipping Notice 1865 (M+F) Amendment 1 can be found at https://www.gov.uk/government/collections/merchant-shipping-notices-msns. See the footnote to Merchant Shipping Notice 1856 (M) Amendment 1 for information on how to obtain a hard copy of this Merchant Shipping Notice.
 
-[^key-189f92280b543a41f8b5283421eed6b4]: Textual amendment: Words in [reg. 48(3)(h)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/48/3/h) substituted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-189f92280b543a41f8b5283421eed6b4]: Textual amendment: Words in [reg. 48(3)(h)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/48/3/h) substituted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-e1157ff8b3bbd23272bd1db0a2ad90cf]: Commencement: Reg. 49 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-e1157ff8b3bbd23272bd1db0a2ad90cf]: Commencement: Reg. 49 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-77350e16f1fcce82c228ae34c2795480]: Commencement: Reg. 50 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-77350e16f1fcce82c228ae34c2795480]: Commencement: Reg. 50 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-39c576706134ad8a08bb7990dfc1dab8]: Commencement: Reg. 51 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-39c576706134ad8a08bb7990dfc1dab8]: Commencement: Reg. 51 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-2693ab1a5ec21d69a877e8a8a2d69e0b]: Commencement: Reg. 52 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2693ab1a5ec21d69a877e8a8a2d69e0b]: Commencement: Reg. 52 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-f688dcc06a0ac2ab3789e5dd58a7a8e0]: Commencement: Reg. 53 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-f688dcc06a0ac2ab3789e5dd58a7a8e0]: Commencement: Reg. 53 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-1377559ce8dab2c9f918b7571150db7b]: Commencement: Reg. 54 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-1377559ce8dab2c9f918b7571150db7b]: Commencement: Reg. 54 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-4848b7b90b4be21104d52cc4915899c1]: Textual amendment: [Reg. 54(2)(e)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/54/2/e) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/21) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-4848b7b90b4be21104d52cc4915899c1]: Textual amendment: [Reg. 54(2)(e)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/54/2/e) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/21) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-95c6286767e5b19b72d1f287f83a7e24]: Commencement: Reg. 55 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-95c6286767e5b19b72d1f287f83a7e24]: Commencement: Reg. 55 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00032]: Footnote: IMO Resolution A.1047(27) was adopted on 30th November 2011 and is available from the IMO of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch).
 
-[^key-86748412d4e290eee5c485d692bd8c3f]: Commencement: Reg. 56 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-86748412d4e290eee5c485d692bd8c3f]: Commencement: Reg. 56 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00033]: Footnote: Merchant Shipping Notice 1868 (M) Amendment 1 can be found at https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk) and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency.
 
-[^key-131653be0014cb26df7262c00d94141e]: Commencement: Reg. 57 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-131653be0014cb26df7262c00d94141e]: Commencement: Reg. 57 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-21adae7a31a64d3d18bc61a6387e027e]: Commencement: Reg. 58 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-21adae7a31a64d3d18bc61a6387e027e]: Commencement: Reg. 58 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-bdd3cc0e9772b9738b1987dfee903f79]: Commencement: Reg. 59 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-bdd3cc0e9772b9738b1987dfee903f79]: Commencement: Reg. 59 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-a4938c54b67bcfc114a920a85a81c885]: Commencement: Reg. 60 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-a4938c54b67bcfc114a920a85a81c885]: Commencement: Reg. 60 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-715173ac02757dc1827063d6330327b7]: Commencement: Reg. 61 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-715173ac02757dc1827063d6330327b7]: Commencement: Reg. 61 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-c816ae7885a81a7ea64a9a118cf20486]: Textual amendment: Word in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/61/1) omitted (1.1.2026) by virtue of [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-c816ae7885a81a7ea64a9a118cf20486]: Textual amendment: Word in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/61/1) omitted (1.1.2026) by virtue of [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/19/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-8a5bafc2bc327c98caf9cc4e24e12f29]: Textual amendment: [Reg. 61(1)(ba)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/61/1/ba) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/19/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-8a5bafc2bc327c98caf9cc4e24e12f29]: Textual amendment: [Reg. 61(1)(ba)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/61/1/ba) inserted (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/uksi/2025/1234/schedule/paragraph/19/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-a596f4fabbfc19d43bb75c8473bf39d4]: Commencement: Reg. 62 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-a596f4fabbfc19d43bb75c8473bf39d4]: Commencement: Reg. 62 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-aac8f57c4dd51c861216d9c895a3e2d4]: Commencement: Reg. 63 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-aac8f57c4dd51c861216d9c895a3e2d4]: Commencement: Reg. 63 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-9d7d2213dfb4781389396f3cd9aad46c]: Commencement: Reg. 64 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-9d7d2213dfb4781389396f3cd9aad46c]: Commencement: Reg. 64 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-5c4111e3dfc026105856c58668d3c822]: Commencement: Reg. 65 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-5c4111e3dfc026105856c58668d3c822]: Commencement: Reg. 65 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00034]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -1887,52 +1887,52 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00036]: Footnote: Section 95 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 2.
 
-[^key-768d17f46dcb3992ff0374f28f96a901]: Commencement: Reg. 66 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-768d17f46dcb3992ff0374f28f96a901]: Commencement: Reg. 66 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-956515a6da796f27b3aa71ed7dd669ff]: Commencement: Reg. 67 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-956515a6da796f27b3aa71ed7dd669ff]: Commencement: Reg. 67 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 2015/782](https://www.legislation.gov.uk/uksi/2015/782), amended by [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68) and [S.I. 2019/630](https://www.legislation.gov.uk/uksi/2019/630) and revoked by these Regulations.
 
-[^key-4ab527675a43e8a213087c5543345d20]: Commencement: Reg. 68 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-4ab527675a43e8a213087c5543345d20]: Commencement: Reg. 68 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00038]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16). There is another Act which amends section 28 but it is not relevant.
 
-[^key-63c904b25d902266f8bf957344fd9808]: Commencement: Sch. 1 para. 1 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-63c904b25d902266f8bf957344fd9808]: Commencement: Sch. 1 para. 1 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 1998/1609](https://www.legislation.gov.uk/uksi/1998/1609), amended by [S.I. 2016/354](https://www.legislation.gov.uk/uksi/2016/354) and [S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673). There are other amending instruments but none is relevant.
 
-[^key-405dfae87bad5d48d45995b448acd7ed]: Commencement: Sch. 1 para. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-405dfae87bad5d48d45995b448acd7ed]: Commencement: Sch. 1 para. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-32347ef18d06c129359526768ffa1161]: Commencement: Sch. 1 para. 3 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-32347ef18d06c129359526768ffa1161]: Commencement: Sch. 1 para. 3 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 1998/2771](https://www.legislation.gov.uk/uksi/1998/2771), amended by [S.I. 2016/353](https://www.legislation.gov.uk/uksi/2016/353), [S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673) and [S.I. 2021/1316](https://www.legislation.gov.uk/uksi/2021/1316). There are other amending instruments but none is relevant.
 
-[^key-a7e5fe4745cc108fed865cce78d2e2da]: Commencement: Sch. 1 para. 4 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-a7e5fe4745cc108fed865cce78d2e2da]: Commencement: Sch. 1 para. 4 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-de93351ea8e2f2e51eb24da6e236a588]: Commencement: Sch. 1 para. 5 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-de93351ea8e2f2e51eb24da6e236a588]: Commencement: Sch. 1 para. 5 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-f827587f0058222e1a916f622111415a]: Commencement: Sch. 1 para. 6 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-f827587f0058222e1a916f622111415a]: Commencement: Sch. 1 para. 6 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00041]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), amended by [S.I. 2014/572](https://www.legislation.gov.uk/uksi/2014/572) and [S.I. 2016/1067](https://www.legislation.gov.uk/uksi/2016/1067). There are other amending instruments but none is relevant.
 
-[^key-8052e0dae032495cdc4b4e5a085d0889]: Commencement: Sch. 1 para. 7 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-8052e0dae032495cdc4b4e5a085d0889]: Commencement: Sch. 1 para. 7 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-276f2ff0a37fc22786227382a1aa6a85]: Commencement: Sch. 1 para. 8 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-276f2ff0a37fc22786227382a1aa6a85]: Commencement: Sch. 1 para. 8 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00042]: Footnote: [S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785), amended by [S.I. 2018/667](https://www.legislation.gov.uk/uksi/2018/667). There are other amending instruments but none is relevant.
 
-[^key-081f590f4a07167a08d120809d289002]: Commencement: Sch. 1 para. 9 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-081f590f4a07167a08d120809d289002]: Commencement: Sch. 1 para. 9 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-5d088b237cfdbd2d73db66e134ad08c9]: Commencement: Sch. 1 para. 10 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-5d088b237cfdbd2d73db66e134ad08c9]: Commencement: Sch. 1 para. 10 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00043]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), amended by [S.I. 2021/1401](https://www.legislation.gov.uk/uksi/2021/1401). There are other amending instruments but none is relevant.
 
-[^key-fb03de90bffb06801d3dd011b6d54efb]: Commencement: Sch. 1 para. 11 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-fb03de90bffb06801d3dd011b6d54efb]: Commencement: Sch. 1 para. 11 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
 [^f00044]: Footnote: [S.I. 2021/1401](https://www.legislation.gov.uk/uksi/2021/1401).
 
-[^key-a3543177db1718de57e34dfe90bb803e]: Textual amendment: [Sch. 1 paras. 12-17](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/paragraph/12) revoked (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/1234/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
+[^c-a3543177db1718de57e34dfe90bb803e]: Textual amendment: [Sch. 1 paras. 12-17](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/paragraph/12) revoked (1.1.2026) by [The Merchant Shipping (Polar Code) (Safety) Regulations 2025 (S.I. 2025/1234)](https://www.legislation.gov.uk/uksi/2025/1234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1234/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/1234/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1234/regulation/4))
 
-[^key-2719deb2c0378e3d081a37147d946fe9]: Commencement: Sch. 1 Pt. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-2719deb2c0378e3d081a37147d946fe9]: Commencement: Sch. 1 Pt. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
 
-[^key-85ae7cd2287b7147c788d52c116cb8db]: Commencement: Sch. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)
+[^c-85ae7cd2287b7147c788d52c116cb8db]: Commencement: Sch. 2 in force at 10.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1)

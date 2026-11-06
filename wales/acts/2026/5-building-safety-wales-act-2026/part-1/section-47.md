@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Duty to give information and documents to accountable persons[^key-6733670721860d4f797ba8b8badf2cf0]
+## 47. Duty to give information and documents to accountable persons[^c-6733670721860d4f797ba8b8badf2cf0]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6733670721860d4f797ba8b8badf2cf0]: Commencement: S. 47 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-6733670721860d4f797ba8b8badf2cf0]: Commencement: S. 47 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

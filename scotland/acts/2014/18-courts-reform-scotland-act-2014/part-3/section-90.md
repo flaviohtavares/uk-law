@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Interim orders[^key-d9dd80855e2ad0b917bb455e554edfe8]
+## 90. Interim orders[^c-d9dd80855e2ad0b917bb455e554edfe8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 47 of the Court of Session Act 1988 (interim interdict and other inte
 
 ## Annotations
 
-[^key-d9dd80855e2ad0b917bb455e554edfe8]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2014/18/section/90) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-d9dd80855e2ad0b917bb455e554edfe8]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2014/18/section/90) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

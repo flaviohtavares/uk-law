@@ -31,7 +31,7 @@ Law of Property Act 1925
 
 [^c18905701][^c18905681][^M_C_cc01c25c-8724-4a07-b57b-721f2a7391b3][^c18905551][^c18905711][^c18905721][^c18905731][^c18905741][^c20590671]An Act to consolidate the enactments relating to conveyancing and the law of property in England and Wales.
 
-\[9th April 1925\][^key-2f1798d4976e50bd7ec240a743efefed]
+\[9th April 1925\][^c-2f1798d4976e50bd7ec240a743efefed]
 
 ## Contents
 
@@ -399,7 +399,7 @@ SCHEDULES
 
 [^c20590671]: Modification: Act applied (1.3.2009 with application as mentioned in reg. 1(2) of the amending S.I.) by [The Environmental Damage (Prevention and Remediation) Regulations 2009 (S.I. 2009/153)](https://www.legislation.gov.uk/uksi/2009/153), [reg. 27(8)](https://www.legislation.gov.uk/uksi/2009/153/regulation/27/8)
 
-[^key-2f1798d4976e50bd7ec240a743efefed]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20) applied (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 146(5)](https://www.legislation.gov.uk/asc/2023/3/section/146/5), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-2f1798d4976e50bd7ec240a743efefed]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20) applied (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 146(5)](https://www.legislation.gov.uk/asc/2023/3/section/146/5), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
 
 [^c2381711]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/23) (and the heading immediately preceding it) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art.2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 

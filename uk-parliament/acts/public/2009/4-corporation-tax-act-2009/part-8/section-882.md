@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 882. Application of this Part to assets created or acquired on or after 1 April 2002[^key-d8f34ccc0b5397f834c10e77fb2c6979][^key-073959a1194fbd91e332f79b19042a9d][^key-34f093b02859cbf4b753d89c895e6d1d][^key-dde469b7f53e9d64d0f471175e81fb4c][^key-becf2d724135669d4f51019ac160df99][^key-10b59e9dfa0d73e56542c100f72e3df2][^key-073959a1194fbd91e332f79b19042a9d][^key-34f093b02859cbf4b753d89c895e6d1d][^key-becf2d724135669d4f51019ac160df99]
+## 882. Application of this Part to assets created or acquired on or after 1 April 2002[^c-d8f34ccc0b5397f834c10e77fb2c6979][^c-073959a1194fbd91e332f79b19042a9d][^c-34f093b02859cbf4b753d89c895e6d1d][^c-dde469b7f53e9d64d0f471175e81fb4c][^c-becf2d724135669d4f51019ac160df99][^c-10b59e9dfa0d73e56542c100f72e3df2][^c-073959a1194fbd91e332f79b19042a9d][^c-34f093b02859cbf4b753d89c895e6d1d][^c-becf2d724135669d4f51019ac160df99]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-345bca4fea1b7d84a8a7be0e5897137c] The general rule is that this Part applies to an intangible fixed asset of a company (“**the company**”) only if one or more of the conditions in subsections (1A) to (1D) is met.
+(1)[^c-345bca4fea1b7d84a8a7be0e5897137c] The general rule is that this Part applies to an intangible fixed asset of a company (“**the company**”) only if one or more of the conditions in subsections (1A) to (1D) is met.
 
 (1A) The condition in this subsection is that the asset is created by the company on or after 1 April 2002.
 
@@ -51,7 +51,7 @@ summary: ''
 
 (5) Case C is where the asset was created on or after 1 April 2002 by the person from whom it is acquired or any other person.
 
-(5A)[^key-9240e0a6e865c7cb4a19a7161c0f24b5] References in this section to one person being (or not being) a related party in relation to another person are to be read as including references to the participation condition being met (or, as the case may be, not met) as between those persons.
+(5A)[^c-9240e0a6e865c7cb4a19a7161c0f24b5] References in this section to one person being (or not being) a related party in relation to another person are to be read as including references to the participation condition being met (or, as the case may be, not met) as between those persons.
 
 (5B) References in subsection (5A) to a person include a firm in a case where, for section 1259 purposes, references in this section to a company are read as references to the firm.
 
@@ -73,18 +73,18 @@ summary: ''
 
 ## Annotations
 
-[^key-d8f34ccc0b5397f834c10e77fb2c6979]: Modification: S. 882 modified (1.1.2010) by [Northern Rock plc (Tax Consequences) Regulations 2009 (S.I. 2009/3227)](https://www.legislation.gov.uk/uksi/2009/3227), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3227/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/3227/regulation/6/3)
+[^c-d8f34ccc0b5397f834c10e77fb2c6979]: Modification: S. 882 modified (1.1.2010) by [Northern Rock plc (Tax Consequences) Regulations 2009 (S.I. 2009/3227)](https://www.legislation.gov.uk/uksi/2009/3227), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3227/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/3227/regulation/6/3)
 
-[^key-073959a1194fbd91e332f79b19042a9d]: Modification: Pt. 8 modified (1.1.2010) by [Northern Rock plc (Tax Consequences) Regulations 2009 (S.I. 2009/3227)](https://www.legislation.gov.uk/uksi/2009/3227), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3227/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2009/3227/regulation/6/1)
+[^c-073959a1194fbd91e332f79b19042a9d]: Modification: Pt. 8 modified (1.1.2010) by [Northern Rock plc (Tax Consequences) Regulations 2009 (S.I. 2009/3227)](https://www.legislation.gov.uk/uksi/2009/3227), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3227/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2009/3227/regulation/6/1)
 
-[^key-34f093b02859cbf4b753d89c895e6d1d]: Modification: Pt. 8 modified (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/2/paragraph/6/1); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-34f093b02859cbf4b753d89c895e6d1d]: Modification: Pt. 8 modified (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/2/paragraph/6/1); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-dde469b7f53e9d64d0f471175e81fb4c]: Modification: S. 882 modified (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/2/paragraph/6/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-dde469b7f53e9d64d0f471175e81fb4c]: Modification: S. 882 modified (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/2/paragraph/6/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-becf2d724135669d4f51019ac160df99]: Modification: Pt. 8 modified (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4/paragraph/3/1); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-becf2d724135669d4f51019ac160df99]: Modification: Pt. 8 modified (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4/paragraph/3/1); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-10b59e9dfa0d73e56542c100f72e3df2]: Modification: S. 882 modified (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4/paragraph/3/3); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-10b59e9dfa0d73e56542c100f72e3df2]: Modification: S. 882 modified (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/4/paragraph/3/3); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-345bca4fea1b7d84a8a7be0e5897137c]: Textual amendment: S. 882(1)-(1E) substituted for s. 882(1) (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/6)
+[^c-345bca4fea1b7d84a8a7be0e5897137c]: Textual amendment: S. 882(1)-(1E) substituted for s. 882(1) (with effect in accordance with s. 31(14)(15) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 31(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/31/6)
 
-[^key-9240e0a6e865c7cb4a19a7161c0f24b5]: Textual amendment: S. 882(5A)-(5D) inserted (with effect in accordance with s. 52(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 52(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/52/2)
+[^c-9240e0a6e865c7cb4a19a7161c0f24b5]: Textual amendment: S. 882(5A)-(5D) inserted (with effect in accordance with s. 52(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 52(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/52/2)

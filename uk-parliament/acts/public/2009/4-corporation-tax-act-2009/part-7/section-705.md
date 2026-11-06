@@ -27,7 +27,7 @@ summary: ''
 
 (2) If the result of such a comparison is that neither an exchange gain nor an exchange loss arises, for the purposes of this Part an exchange gain of nil is taken to arise in the case of that comparison.
 
-(3) The Treasury may make provision by regulations as to the way in which exchange gains or losses are to be calculated for the purposes of this section [^key-0163bc6db6bd4fc37fe04eb87070df1d]... .
+(3) The Treasury may make provision by regulations as to the way in which exchange gains or losses are to be calculated for the purposes of this section [^c-0163bc6db6bd4fc37fe04eb87070df1d]... .
 
 (4) The regulations may be made so as to apply to periods of account beginning before the regulations are made, but not earlier than the beginning of the calendar year in which they are made.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0163bc6db6bd4fc37fe04eb87070df1d]: Textual amendment: Words in s. 705(3) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/96)
+[^c-0163bc6db6bd4fc37fe04eb87070df1d]: Textual amendment: Words in s. 705(3) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 96](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/96)

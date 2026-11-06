@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Certificates of pensionable service[^key-a7fea37d4c62cbb6c4a6103bdaee384e]
+## 73. Certificates of pensionable service[^c-a7fea37d4c62cbb6c4a6103bdaee384e]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7fea37d4c62cbb6c4a6103bdaee384e]: Commencement: Reg. 73 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-a7fea37d4c62cbb6c4a6103bdaee384e]: Commencement: Reg. 73 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Declaration to be made by commissioners before acting.[^c5651131][^key-55d9807669a915c365a2bdcd03d53c7c]
+## 12. Declaration to be made by commissioners before acting.[^c5651131][^c-55d9807669a915c365a2bdcd03d53c7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ No person shall be capable of acting as a commissioner, except in administering 
 
     [S. 12](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/12) incorporated (E.W.S) (4.3.2002) by [S.I. 2002/306](https://www.legislation.gov.uk/uksi/2002/306), [art. 2](https://www.legislation.gov.uk/uksi/2002/306/article/2)
 
-[^key-55d9807669a915c365a2bdcd03d53c7c]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/12) incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-55d9807669a915c365a2bdcd03d53c7c]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/12) incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

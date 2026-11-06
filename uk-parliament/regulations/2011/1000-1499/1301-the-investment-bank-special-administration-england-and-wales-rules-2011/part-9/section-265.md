@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 265. Costs paid otherwise than out of the investment bank’s estate[^key-edc2676d952e482d7f1f06397c0f1e98]
+## 265. Costs paid otherwise than out of the investment bank’s estate[^c-edc2676d952e482d7f1f06397c0f1e98]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the amount of costs is decided by detailed assessment under an order of th
 
 ## Annotations
 
-[^key-edc2676d952e482d7f1f06397c0f1e98]: Commencement: [Rule 265](https://www.legislation.gov.uk/uksi/2011/1301/rule/265) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-edc2676d952e482d7f1f06397c0f1e98]: Commencement: [Rule 265](https://www.legislation.gov.uk/uksi/2011/1301/rule/265) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

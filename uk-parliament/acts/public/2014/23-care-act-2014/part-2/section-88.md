@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Unitary board[^key-cf95e382400c81c9aad5ad93375fd836]
+## 88. Unitary board[^c-cf95e382400c81c9aad5ad93375fd836]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf95e382400c81c9aad5ad93375fd836]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2014/23/section/88) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/c)
+[^c-cf95e382400c81c9aad5ad93375fd836]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2014/23/section/88) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/c)

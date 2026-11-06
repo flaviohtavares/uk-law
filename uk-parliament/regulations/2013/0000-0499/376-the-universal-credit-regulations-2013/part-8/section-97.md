@@ -31,7 +31,7 @@ summary: ''
 
 (4) Where a claimant has previously carried out work of a particular nature, or at a particular level of remuneration, a work search requirement and a work availability requirement must be limited to work of a similar nature, or level of remuneration, for such period as the Secretary of State considers appropriate, but only if the Secretary of State is satisfied that the claimant will have reasonable prospects of obtaining paid work in spite of such limitation.
 
-(5) The limitation in paragraph (4) is to apply for no more than 4 weeks[^key-5559fc2f8c090a47add3b00b663cdedc] beginning with—
+(5) The limitation in paragraph (4) is to apply for no more than 4 weeks[^c-5559fc2f8c090a47add3b00b663cdedc] beginning with—
 
 - (a) the date of claim; or
 - (b) if later, the date on which the claimant ceases paid work after falling within section 19 of the Act by virtue of regulation 90 (claimants subject to no work-related requirements - the earnings thresholds).
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5559fc2f8c090a47add3b00b663cdedc]: Textual amendment: Words in [reg. 97(5)](https://www.legislation.gov.uk/uksi/2013/376/regulation/97/5) substituted (8.2.2022) by [The Universal Credit and Jobseeker’s Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations 2022 (S.I. 2022/108)](https://www.legislation.gov.uk/uksi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/108/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/108/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/108/regulation/4))
+[^c-5559fc2f8c090a47add3b00b663cdedc]: Textual amendment: Words in [reg. 97(5)](https://www.legislation.gov.uk/uksi/2013/376/regulation/97/5) substituted (8.2.2022) by [The Universal Credit and Jobseeker’s Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations 2022 (S.I. 2022/108)](https://www.legislation.gov.uk/uksi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/108/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/108/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/108/regulation/4))

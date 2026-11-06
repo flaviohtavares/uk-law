@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Meaning of “accounting period”: quarterly returns[^key-a7b740e31a13a77e3736e312b83e50ac]
+## 39. Meaning of “accounting period”: quarterly returns[^c-a7b740e31a13a77e3736e312b83e50ac]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b740e31a13a77e3736e312b83e50ac]: Commencement: S. 39 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-a7b740e31a13a77e3736e312b83e50ac]: Commencement: S. 39 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

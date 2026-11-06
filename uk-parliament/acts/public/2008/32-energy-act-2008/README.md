@@ -106,11 +106,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 29 — Requirement for public register](part-1/section-29.md)
 
-##### Information about change in control of licence holder[^key-50c308fdbb2ec48a45775bc8ad021f38]
+##### Information about change in control of licence holder[^c-50c308fdbb2ec48a45775bc8ad021f38]
 
 - [Section 29A — OGA’s power to require information about change in control of licence holder](part-1/section-29a.md)
 
-##### Abandonment of offshore infrastructure[^key-6bac67d65cb48ec2645acd9119603d0f]
+##### Abandonment of offshore infrastructure[^c-6bac67d65cb48ec2645acd9119603d0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,28 +261,28 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 81 — Directions under section 80: supplemental](part-4/section-81.md)
 - [Section 82 — Meaning of “associate”](part-4/section-82.md)
 
-### Part 4A — Works detrimental to navigation[^key-c6edb742658f858855d9a38ca3936ae8]
+### Part 4A — Works detrimental to navigation[^c-c6edb742658f858855d9a38ca3936ae8]
 
 *Extent: E+W+S+N.I.*
 
-#### Consent required for carrying out of certain operations[^key-c6edb742658f858855d9a38ca3936ae8]
+#### Consent required for carrying out of certain operations[^c-c6edb742658f858855d9a38ca3936ae8]
 
 - [Section 82A — Restriction of works detrimental to navigation](part-4a/section-82a.md)
 - [Section 82B — Applications for consent under section 82A](part-4a/section-82b.md)
 - [Section 82C — Determination of applications for consent under section 82A](part-4a/section-82c.md)
 - [Section 82D — Authorised exploration or exploitation operations: consent conditions](part-4a/section-82d.md)
 
-#### Directions by the Secretary of State[^key-c6edb742658f858855d9a38ca3936ae8]
+#### Directions by the Secretary of State[^c-c6edb742658f858855d9a38ca3936ae8]
 
 - [Section 82E — Secretary of State's power of direction](part-4a/section-82e.md)
 
-#### Emergency safety requirements[^key-c6edb742658f858855d9a38ca3936ae8]
+#### Emergency safety requirements[^c-c6edb742658f858855d9a38ca3936ae8]
 
 - [Section 82F — Damage to, or changes in, the works: emergency safety notices](part-4a/section-82f.md)
 - [Section 82G — Emergency safety notices: supplementary provisions](part-4a/section-82g.md)
 - [Section 82H — Failure to comply with condition: immediate action notice](part-4a/section-82h.md)
 
-#### Enforcement[^key-c6edb742658f858855d9a38ca3936ae8]
+#### Enforcement[^c-c6edb742658f858855d9a38ca3936ae8]
 
 - [Section 82I — Carrying out operation without consent etc](part-4a/section-82i.md)
 - [Section 82J — Offences relating to consents](part-4a/section-82j.md)
@@ -292,7 +292,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 82N — Inspectors](part-4a/section-82n.md)
 - [Section 82O — Criminal proceedings](part-4a/section-82o.md)
 
-#### Supplementary provisions[^key-c6edb742658f858855d9a38ca3936ae8]
+#### Supplementary provisions[^c-c6edb742658f858855d9a38ca3936ae8]
 
 *Extent: E+W+S+N.I.*
 
@@ -318,14 +318,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 87 — Energy reports](part-5/section-87.md)
 
-#### Smart meters : modification of licence conditions etc by Secretary of State[^key-48473c1224af7a7dec5df70a86d2e8bf]
+#### Smart meters : modification of licence conditions etc by Secretary of State[^c-48473c1224af7a7dec5df70a86d2e8bf]
 
 - [Section 88 — Power to amend licence conditions etc: smart meters](part-5/section-88.md)
 - [Section 89 — Power to amend licence conditions etc: procedure](part-5/section-89.md)
 - [Section 90 — Smart meters: supplemental](part-5/section-90.md)
 - [Section 91 — Licensing of activities relating to smart meters](part-5/section-91.md)
 
-#### Grant of smart meter communication licences[^key-32dbce6b1239a828f41b8468692938df]
+#### Grant of smart meter communication licences[^c-32dbce6b1239a828f41b8468692938df]
 
 *Extent: E+W+S*
 
@@ -403,12 +403,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-50c308fdbb2ec48a45775bc8ad021f38]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/2008/32/section/29A) and cross-heading inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 106](https://www.legislation.gov.uk/ukpga/2023/52/section/106), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/iv)
+[^c-50c308fdbb2ec48a45775bc8ad021f38]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/2008/32/section/29A) and cross-heading inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 106](https://www.legislation.gov.uk/ukpga/2023/52/section/106), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/iv)
 
-[^key-6bac67d65cb48ec2645acd9119603d0f]: Textual amendment: Word in Pt. 1 Ch. 3 cross-heading substituted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/107/3), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
+[^c-6bac67d65cb48ec2645acd9119603d0f]: Textual amendment: Word in Pt. 1 Ch. 3 cross-heading substituted (18.12.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/107/3), [121(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/3)
 
-[^key-c6edb742658f858855d9a38ca3936ae8]: Textual amendment: Pt. 4A inserted (12.11.2009 for specified purposes, 6.4.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
+[^c-c6edb742658f858855d9a38ca3936ae8]: Textual amendment: Pt. 4A inserted (12.11.2009 for specified purposes, 6.4.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
 
-[^key-48473c1224af7a7dec5df70a86d2e8bf]: Textual amendment: Words in [s. 88](https://www.legislation.gov.uk/ukpga/2008/32/section/88) cross-heading inserted (E.W.S.) (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/16/paragraph/2)
+[^c-48473c1224af7a7dec5df70a86d2e8bf]: Textual amendment: Words in [s. 88](https://www.legislation.gov.uk/ukpga/2008/32/section/88) cross-heading inserted (E.W.S.) (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/16/paragraph/2)
 
-[^key-32dbce6b1239a828f41b8468692938df]: Textual amendment: [Ss. 91A-91D](https://www.legislation.gov.uk/ukpga/2008/32/section/91A) and cross-heading inserted (E.W.S.) (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/16/paragraph/3)
+[^c-32dbce6b1239a828f41b8468692938df]: Textual amendment: [Ss. 91A-91D](https://www.legislation.gov.uk/ukpga/2008/32/section/91A) and cross-heading inserted (E.W.S.) (19.6.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2025/18/schedule/16/paragraph/3)

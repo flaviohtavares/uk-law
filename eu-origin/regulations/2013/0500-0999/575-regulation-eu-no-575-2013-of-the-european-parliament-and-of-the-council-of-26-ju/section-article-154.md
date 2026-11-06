@@ -67,7 +67,7 @@ Exposures shall qualify as qualifying revolving retail exposures if they meet th
 
 By way of derogation from point (b), the requirement to be unsecured does not apply in respect of collateralised credit facilities linked to a wage account. In this case amounts recovered from the collateral shall not be taken into account in the LGD estimate.
 
-Competent authorities shall review the relative volatility of loss rates across the qualifying revolving retail sub-portfolios, as well the aggregate qualifying revolving retail portfolio [^key-96e36cadce3397e59ef7ac5fd2150774]... .
+Competent authorities shall review the relative volatility of loss rates across the qualifying revolving retail sub-portfolios, as well the aggregate qualifying revolving retail portfolio [^c-96e36cadce3397e59ef7ac5fd2150774]... .
 
 5. To be eligible for the retail treatment, purchased receivables shall comply with the requirements set out in Article 184 and the following conditions:
 
@@ -84,6 +84,6 @@ Competent authorities shall review the relative volatility of loss rates across 
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-96e36cadce3397e59ef7ac5fd2150774]: Textual amendment: Words in [Art. 154(4)](https://www.legislation.gov.uk/eur/2013/575/article/154/4) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [130](https://www.legislation.gov.uk/uksi/2018/1401/regulation/130) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96e36cadce3397e59ef7ac5fd2150774]: Textual amendment: Words in [Art. 154(4)](https://www.legislation.gov.uk/eur/2013/575/article/154/4) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [130](https://www.legislation.gov.uk/uksi/2018/1401/regulation/130) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Substituted by [Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms](https://www.legislation.gov.uk/eur/2017/2401).

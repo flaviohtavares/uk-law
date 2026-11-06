@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Business development managers[^key-689430795ac0fcfbb97c07aa0baab743]
+## 41. Business development managers[^c-689430795ac0fcfbb97c07aa0baab743]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-689430795ac0fcfbb97c07aa0baab743]: Commencement: Reg. 41 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-689430795ac0fcfbb97c07aa0baab743]: Commencement: Reg. 41 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

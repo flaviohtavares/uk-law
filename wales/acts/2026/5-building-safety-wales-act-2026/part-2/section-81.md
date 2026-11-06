@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Assessment of fire safety risks: duties of landlord[^key-bdafdcd7fb646afbf1a2bb4623563be3]
+## 81. Assessment of fire safety risks: duties of landlord[^c-bdafdcd7fb646afbf1a2bb4623563be3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdafdcd7fb646afbf1a2bb4623563be3]: Commencement: S. 81 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-bdafdcd7fb646afbf1a2bb4623563be3]: Commencement: S. 81 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

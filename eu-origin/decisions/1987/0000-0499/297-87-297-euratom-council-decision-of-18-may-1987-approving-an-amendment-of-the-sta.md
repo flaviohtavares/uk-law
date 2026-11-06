@@ -31,10 +31,10 @@ summary: ''
 
 of 18 May 1987 approving an amendment of the Statutes (articles of association) of the Joint Undertaking 'Société d'énergie nucléaire franco-belge des Ardennes' (SENA) (revoked)
 
-[^key-ee808fceda25d97c504007817c539a1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee808fceda25d97c504007817c539a1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ee808fceda25d97c504007817c539a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ee808fceda25d97c504007817c539a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee808fceda25d97c504007817c539a1e]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-ee808fceda25d97c504007817c539a1e]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

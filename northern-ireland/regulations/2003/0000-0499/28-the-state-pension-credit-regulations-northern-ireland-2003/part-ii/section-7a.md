@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7A. Limitation of savings credit for certain mixed-age couples[^key-b5b22995368f0ce5b7e617854118d3fe]
+## 7A. Limitation of savings credit for certain mixed-age couples[^c-b5b22995368f0ce5b7e617854118d3fe]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A person who is a member of a mixed-age couple, is not entitled to a savings cre
 
 ## Annotations
 
-[^key-b5b22995368f0ce5b7e617854118d3fe]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2003/28/regulation/7A) inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/331)](https://www.legislation.gov.uk/nisr/2015/331), [regs. 1](https://www.legislation.gov.uk/nisr/2015/331/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/331/regulation/2/2)
+[^c-b5b22995368f0ce5b7e617854118d3fe]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2003/28/regulation/7A) inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/331)](https://www.legislation.gov.uk/nisr/2015/331), [regs. 1](https://www.legislation.gov.uk/nisr/2015/331/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/331/regulation/2/2)

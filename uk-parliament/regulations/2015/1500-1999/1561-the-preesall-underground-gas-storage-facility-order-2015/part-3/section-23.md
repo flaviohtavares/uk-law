@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Temporary use of land for carrying out the authorised development[^key-a79f64f86dc8f02e286c42d8c7926ed8]
+## 23. Temporary use of land for carrying out the authorised development[^c-a79f64f86dc8f02e286c42d8c7926ed8]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a79f64f86dc8f02e286c42d8c7926ed8]: Commencement: Art. 23 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-a79f64f86dc8f02e286c42d8c7926ed8]: Commencement: Art. 23 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
 
 [^f00024]: Footnote: Section 13 is amended by section 139 of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

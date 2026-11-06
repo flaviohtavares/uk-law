@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Operational directives[^key-c9fb22a67a2348a045dd1dee7fac9a08]
+## 13. Operational directives[^c-c9fb22a67a2348a045dd1dee7fac9a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9fb22a67a2348a045dd1dee7fac9a08]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2015/870/article/13) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [3](https://www.legislation.gov.uk/uksi/2020/1280/article/3)
+[^c-c9fb22a67a2348a045dd1dee7fac9a08]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2015/870/article/13) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [3](https://www.legislation.gov.uk/uksi/2020/1280/article/3)

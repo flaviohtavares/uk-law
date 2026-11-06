@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Placement orders: prohibition on removal[^key-6136ad238fe669b67605d996ee569bdf]
+## 31. Placement orders: prohibition on removal[^c-6136ad238fe669b67605d996ee569bdf]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ a person (other than the adoption authority) may not remove the child from the p
 
 ## Annotations
 
-[^key-6136ad238fe669b67605d996ee569bdf]: Commencement: S. 31 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6136ad238fe669b67605d996ee569bdf]: Commencement: S. 31 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

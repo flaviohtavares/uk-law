@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 431. Prescribed investments[^key-72dbf28973b3b4b3648cc8d70e93d74a]
+## 431. Prescribed investments[^c-72dbf28973b3b4b3648cc8d70e93d74a]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72dbf28973b3b4b3648cc8d70e93d74a]: Commencement: Art. 431 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-72dbf28973b3b4b3648cc8d70e93d74a]: Commencement: Art. 431 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -22,16 +22,16 @@ summary: ''
 
 Section 1.
 
-### Areas that are oil fields[^key-a2f3e865e5bb595fd168ca64d9111992]
+### Areas that are oil fields[^c-a2f3e865e5bb595fd168ca64d9111992]
 
 **1.** (1) For the purposes of this Part of this Act an oil field is any area which the appropriate authority may determine to be an oil field, being an area of which every part is, or is part of, a licensed area.
 
 (2) For the purposes of this Schedule the appropriate authority, in relation to any area—
 
-- (a) is the OGA[^key-0d52175b8a39c42e62b3c19e4c72648d] if the area is such that licences can be granted by the OGA[^key-aae953c45b849ee4b5ae2cb3b0be0842] for all of it under Part I of the Petroleum Act 1998[^c10744771];
-- (aa)[^key-f4f4ec749c241ff5dede57db6ef41ac7] is the Scottish Ministers if the area is such that licences can be granted by the Scottish Ministers for all of it under Part 1 of the Petroleum Act 1998;
-- (ab) is the OGA[^key-6a1ca633591e923cb7edfa1405b889f5] and the Scottish Ministers acting jointly if the area is such that licences can be granted for part of it by the OGA and for part of it by the Scottish Ministers;
-- (ac)[^key-5c5eee1d2ea9427911bae375fe2aafaf] is the Welsh Ministers if the area is such that licences can be granted by the Welsh Ministers for all of it under Part 1 of the Petroleum Act 1998;
+- (a) is the OGA[^c-0d52175b8a39c42e62b3c19e4c72648d] if the area is such that licences can be granted by the OGA[^c-aae953c45b849ee4b5ae2cb3b0be0842] for all of it under Part I of the Petroleum Act 1998[^c10744771];
+- (aa)[^c-f4f4ec749c241ff5dede57db6ef41ac7] is the Scottish Ministers if the area is such that licences can be granted by the Scottish Ministers for all of it under Part 1 of the Petroleum Act 1998;
+- (ab) is the OGA[^c-6a1ca633591e923cb7edfa1405b889f5] and the Scottish Ministers acting jointly if the area is such that licences can be granted for part of it by the OGA and for part of it by the Scottish Ministers;
+- (ac)[^c-5c5eee1d2ea9427911bae375fe2aafaf] is the Welsh Ministers if the area is such that licences can be granted by the Welsh Ministers for all of it under Part 1 of the Petroleum Act 1998;
 - (ad) is the OGA and the Welsh Ministers acting jointly if the area is such that licences can be granted for part of it by the OGA and for part of it by the Welsh Ministers;
 - (b) is the Department of Commerce for Northern Ireland if the area is such that licences can be granted for all of it under the [^c10744781]Petroleum (Production) Act (Northern Ireland) 1964; and
 - (c) is the OGA and that Department acting jointly if the area is such that licences can be granted for part of it under one and for part of it under the other of those Acts;
@@ -51,7 +51,7 @@ and the determination may be made either as proposed or with such modifications 
 
 **5.** A determination under this Schedule may from time to time be varied by a new determination thereunder made by the appropriate authority, and paragraphs 2 to 4 above shall apply to any such new determination.
 
-### Areas treated as continuing to be oil fields[^key-c30b3ea54955079afd0c39925c491da9]
+### Areas treated as continuing to be oil fields[^c-c30b3ea54955079afd0c39925c491da9]
 
 **6.** (1) This paragraph applies if an area has ceased to be—
 
@@ -81,24 +81,24 @@ that it actually was.
 
 **7.** (1) A relevant area is decommissioned for the purposes of paragraph 6 if all qualifying assets of the relevant area are decommissioned.
 
-(2)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] If, and to the extent that, a UK offshore decommissioning regime applies to qualifying assets of the relevant area, those assets are decommissioned if—
+(2)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] If, and to the extent that, a UK offshore decommissioning regime applies to qualifying assets of the relevant area, those assets are decommissioned if—
 
 - (a) the Secretary of State has approved one or more abandonment programmes under the regime in relation to those assets, and
 - (b) those programmes have been carried out to the satisfaction of the Secretary of State.
 
-(3)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] If, and to the extent that, a UK offshore decommissioning regime does not apply to qualifying assets of the relevant area, those assets are decommissioned if the Board are satisfied that they have been decommissioned.
+(3)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] If, and to the extent that, a UK offshore decommissioning regime does not apply to qualifying assets of the relevant area, those assets are decommissioned if the Board are satisfied that they have been decommissioned.
 
-(4)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] For the purposes of sub-paragraph (3) the Board must have regard to any obligations to decommission the qualifying assets which arise under the law applicable to those qualifying assets[^key-5d8dafa334b989a145767ab1cfb9d755] (whether the law of any part of the United Kingdom or of any other state or territory), including any obligations imposed by an authority having functions under that law in respect of such decommissioning.
+(4)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] For the purposes of sub-paragraph (3) the Board must have regard to any obligations to decommission the qualifying assets which arise under the law applicable to those qualifying assets[^c-5d8dafa334b989a145767ab1cfb9d755] (whether the law of any part of the United Kingdom or of any other state or territory), including any obligations imposed by an authority having functions under that law in respect of such decommissioning.
 
-(5)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] If sub-paragraph (3) applies (to any extent) to any qualifying assets, the Board must give the responsible person notice of any decision the Board make under that sub-paragraph.
+(5)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] If sub-paragraph (3) applies (to any extent) to any qualifying assets, the Board must give the responsible person notice of any decision the Board make under that sub-paragraph.
 
-(6)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] The responsible person may appeal against such a decision by notice in writing given to the Board within three months of the responsible person receiving the notice under sub-paragraph (5).
+(6)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] The responsible person may appeal against such a decision by notice in writing given to the Board within three months of the responsible person receiving the notice under sub-paragraph (5).
 
-(7)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] An appeal under sub-paragraph (6) may, before it is notified to the tribunal, be abandoned by notice in writing given to the Board by the responsible person.
+(7)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] An appeal under sub-paragraph (6) may, before it is notified to the tribunal, be abandoned by notice in writing given to the Board by the responsible person.
 
-(8)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] The provisions of paragraphs 14A to 14I of Schedule 2 apply to appeals under sub-paragraph (6) subject to any necessary modifications.
+(8)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] The provisions of paragraphs 14A to 14I of Schedule 2 apply to appeals under sub-paragraph (6) subject to any necessary modifications.
 
-(9)[^key-3cf458df2f16ef4b532cd8e95df4a4d4] In this paragraph—
+(9)[^c-3cf458df2f16ef4b532cd8e95df4a4d4] In this paragraph—
 
 - “**qualifying assets**” means assets that are qualifying assets within the meaning of OTA 1983;
 - “**relevant area**” means an area that is treated as being an oil field, or part of an oil field, under paragraph 6;
@@ -110,24 +110,24 @@ that it actually was.
 
 [^c10744741]: Modification: [See Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 135](https://www.legislation.gov.uk/ukpga/1982/39/section/135)
 
-[^key-a2f3e865e5bb595fd168ca64d9111992]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/1) cross-heading inserted (with effect in accordance with Sch. 42 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 42 para. 7(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/42/paragraph/7/2)
+[^c-a2f3e865e5bb595fd168ca64d9111992]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/1) cross-heading inserted (with effect in accordance with Sch. 42 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 42 para. 7(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/42/paragraph/7/2)
 
-[^key-0d52175b8a39c42e62b3c19e4c72648d]: Textual amendment: Word in Sch. 1 para. 1(2) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/7)
+[^c-0d52175b8a39c42e62b3c19e4c72648d]: Textual amendment: Word in Sch. 1 para. 1(2) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2016/898/regulation/4/7)
 
-[^key-aae953c45b849ee4b5ae2cb3b0be0842]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (9.2.2018) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 48(20)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/48/20/a), [72(4)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/c); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
+[^c-aae953c45b849ee4b5ae2cb3b0be0842]: Textual amendment: Words in Sch. 1 para. 1(2)(a) inserted (9.2.2018) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 48(20)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/48/20/a), [72(4)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/c); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
 
 [^c10744771]: Textual amendment: Words in Sch. 1 para. 1(2)(a) substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 7(5)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/7/5) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 
-[^key-f4f4ec749c241ff5dede57db6ef41ac7]: Textual amendment: Sch. 1 para. 1(2)(aa)(ab) inserted (9.2.2018) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 48(20)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/48/20/b), [72(4)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/c); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
+[^c-f4f4ec749c241ff5dede57db6ef41ac7]: Textual amendment: Sch. 1 para. 1(2)(aa)(ab) inserted (9.2.2018) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 48(20)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/48/20/b), [72(4)(c)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/c); [S.I. 2018/163](https://www.legislation.gov.uk/uksi/2018/163), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/163/regulation/2/b)
 
-[^key-6a1ca633591e923cb7edfa1405b889f5]: Annotation text not found in the source document.
+[^c-6a1ca633591e923cb7edfa1405b889f5]: Annotation text not found in the source document.
 
-[^key-5c5eee1d2ea9427911bae375fe2aafaf]: Textual amendment: [Sch. 1 para. 1(2)(ac)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/1/2/ac)[(ad)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/1/2/ad) inserted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/20) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-5c5eee1d2ea9427911bae375fe2aafaf]: Textual amendment: [Sch. 1 para. 1(2)(ac)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/1/2/ac)[(ad)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/1/2/ad) inserted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/20) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
 
 [^c10744781]: Marginal citation: [1964 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1964/28)
 
-[^key-c30b3ea54955079afd0c39925c491da9]: Textual amendment: Sch. 1 paras. 6, 7 and cross-heading inserted (with effect in accordance with Sch. 42 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 42 para. 7(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/42/paragraph/7/3)
+[^c-c30b3ea54955079afd0c39925c491da9]: Textual amendment: Sch. 1 paras. 6, 7 and cross-heading inserted (with effect in accordance with Sch. 42 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 42 para. 7(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/42/paragraph/7/3)
 
-[^key-3cf458df2f16ef4b532cd8e95df4a4d4]: Modification: Sch. 1 para. 7(2)-(9) applied by 2010 c. 4, s. 350(3) (as substituted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/63/2))
+[^c-3cf458df2f16ef4b532cd8e95df4a4d4]: Modification: Sch. 1 para. 7(2)-(9) applied by 2010 c. 4, s. 350(3) (as substituted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/63/2))
 
-[^key-5d8dafa334b989a145767ab1cfb9d755]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/7/4) substituted (with effect in accordance with s. 61(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/61/1)
+[^c-5d8dafa334b989a145767ab1cfb9d755]: Textual amendment: Words in [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/1/paragraph/7/4) substituted (with effect in accordance with s. 61(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/61/1)

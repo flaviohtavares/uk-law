@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Authority to survey and investigate the land[^key-03092b301b3e2cbb4716f31d7d8ff646]
+## 20. Authority to survey and investigate the land[^c-03092b301b3e2cbb4716f31d7d8ff646]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-03092b301b3e2cbb4716f31d7d8ff646]: Commencement: Art. 20 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-03092b301b3e2cbb4716f31d7d8ff646]: Commencement: Art. 20 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

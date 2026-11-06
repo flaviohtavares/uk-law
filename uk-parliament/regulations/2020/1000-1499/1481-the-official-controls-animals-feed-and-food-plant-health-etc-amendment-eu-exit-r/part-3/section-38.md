@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendments to Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of Member States' control systems due to coronavirus disease (COVID-19)[^key-e83396ec406c0598a78b8ee4ee5fff53]
+## 38. Amendments to Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of Member States' control systems due to coronavirus disease (COVID-19)[^c-e83396ec406c0598a78b8ee4ee5fff53]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e83396ec406c0598a78b8ee4ee5fff53]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-e83396ec406c0598a78b8ee4ee5fff53]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

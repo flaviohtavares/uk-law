@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Amendment of powers under section 108 of Environment Act 1995[^key-0a20d4eee6cf2c3f947f878b03d8af01]
+## 46. Amendment of powers under section 108 of Environment Act 1995[^c-0a20d4eee6cf2c3f947f878b03d8af01]
 
 *Extent: S*
 
@@ -165,4 +165,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a20d4eee6cf2c3f947f878b03d8af01]: Commencement: S. 46 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-0a20d4eee6cf2c3f947f878b03d8af01]: Commencement: S. 46 in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

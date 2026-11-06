@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 3. Revocation[^key-d597ddbd0edf425eaad52c7529908539]
+## 3. Revocation[^c-d597ddbd0edf425eaad52c7529908539]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Magistrates' Courts (Remands in Custody) Order 1989[^f00002] is hereby revok
 
 ## Annotations
 
-[^key-d597ddbd0edf425eaad52c7529908539]: Commencement: Art. 3 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1)
+[^c-d597ddbd0edf425eaad52c7529908539]: Commencement: Art. 3 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1)
 
 [^f00002]: Footnote: S.I. [1989/970](https://www.legislation.gov.uk/uksi/1989/970).

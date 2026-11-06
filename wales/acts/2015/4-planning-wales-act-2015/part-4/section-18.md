@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Requirement to provide pre-application services[^c22542741][^key-e90847821d63402c303eddbb0d1987cf]
+## 18. Requirement to provide pre-application services[^c22542741][^c-e90847821d63402c303eddbb0d1987cf]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ In TCPA 1990, after section 61Z (as inserted by section 17) insert—
 
 [^c22542741]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/4/section/18) partly in force; [s. 18](https://www.legislation.gov.uk/anaw/2015/4/section/18) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-e90847821d63402c303eddbb0d1987cf]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/4/section/18) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a)
+[^c-e90847821d63402c303eddbb0d1987cf]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/4/section/18) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a)

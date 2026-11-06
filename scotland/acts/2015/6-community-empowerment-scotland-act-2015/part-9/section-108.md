@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Meaning of “allotment site”[^key-856fc747af25c7403ea911fa58f2c04b]
+## 108. Meaning of “allotment site”[^c-856fc747af25c7403ea911fa58f2c04b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part, “allotment site”—
 
 ## Annotations
 
-[^key-856fc747af25c7403ea911fa58f2c04b]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2015/6/section/108) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-856fc747af25c7403ea911fa58f2c04b]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2015/6/section/108) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

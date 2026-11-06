@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Measurements and calculations[^key-15e728e6e6e6920f76cf17e7771a36b8]
+## 8. Measurements and calculations[^c-15e728e6e6e6920f76cf17e7771a36b8]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15e728e6e6e6920f76cf17e7771a36b8]: Commencement: Reg. 8 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-15e728e6e6e6920f76cf17e7771a36b8]: Commencement: Reg. 8 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
 
 [^f00012]: Footnote: See Article 2(18) of the Framework Regulation, as amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539/contents), for the meaning of “designated standard”.

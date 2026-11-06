@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Other exemptions[^key-2889cf5caada78513e3eb57b96eea5cc]
+## 112. Other exemptions[^c-2889cf5caada78513e3eb57b96eea5cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11 provides for further exemptions.
 
 ## Annotations
 
-[^key-2889cf5caada78513e3eb57b96eea5cc]: Commencement: S. 112 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-2889cf5caada78513e3eb57b96eea5cc]: Commencement: S. 112 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

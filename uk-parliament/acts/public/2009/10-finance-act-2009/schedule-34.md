@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 34 — Real Estate Investment Trusts[^key-b0e0102838bd361fde296054d51389c5]
+## SCHEDULE 34 — Real Estate Investment Trusts[^c-b0e0102838bd361fde296054d51389c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Section 66
 
-### Introduction[^key-b0e0102838bd361fde296054d51389c5]
+### Introduction[^c-b0e0102838bd361fde296054d51389c5]
 
-**1.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Property rental business[^key-b0e0102838bd361fde296054d51389c5]
+### Property rental business[^c-b0e0102838bd361fde296054d51389c5]
 
-**2.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Conditions for company[^key-b0e0102838bd361fde296054d51389c5]
+### Conditions for company[^c-b0e0102838bd361fde296054d51389c5]
 
-**3.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Conditions for balance of business[^key-b0e0102838bd361fde296054d51389c5]
+### Conditions for balance of business[^c-b0e0102838bd361fde296054d51389c5]
 
-**4.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Entry notice: conditions for company[^key-b0e0102838bd361fde296054d51389c5]
+### Entry notice: conditions for company[^c-b0e0102838bd361fde296054d51389c5]
 
-**5.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Profit: financing-cost ratio[^key-b0e0102838bd361fde296054d51389c5]
+### Profit: financing-cost ratio[^c-b0e0102838bd361fde296054d51389c5]
 
-**6.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Funds awaiting re-investment[^key-b0e0102838bd361fde296054d51389c5]
+### Funds awaiting re-investment[^c-b0e0102838bd361fde296054d51389c5]
 
-**7.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Connected persons[^key-b0e0102838bd361fde296054d51389c5]
+### Connected persons[^c-b0e0102838bd361fde296054d51389c5]
 
-**8.**[^key-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b0e0102838bd361fde296054d51389c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0e0102838bd361fde296054d51389c5]: Textual amendment: Sch. 34 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b0e0102838bd361fde296054d51389c5]: Textual amendment: Sch. 34 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Where, in Great Britain[^key-e116a15ecc92933013c94404793cfb2f], the marking of live animals requires the attachment of a tag, band, ring or other device, or the marking of a part of the animal's anatomy, or the implantation of microchip transponders, this shall be undertaken with due regard to humane care, well-being and natural behaviour of the specimen concerned.
+Where, in Great Britain[^c-e116a15ecc92933013c94404793cfb2f], the marking of live animals requires the attachment of a tag, band, ring or other device, or the marking of a part of the animal's anatomy, or the implantation of microchip transponders, this shall be undertaken with due regard to humane care, well-being and natural behaviour of the specimen concerned.
 
 ## Annotations
 
-[^key-e116a15ecc92933013c94404793cfb2f]: Textual amendment: Words in [Art. 67](https://www.legislation.gov.uk/eur/2006/865/article/67) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(65)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/65)
+[^c-e116a15ecc92933013c94404793cfb2f]: Textual amendment: Words in [Art. 67](https://www.legislation.gov.uk/eur/2006/865/article/67) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(65)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/65)

@@ -35,32 +35,32 @@ amending Council Regulation (EC) No 1165/98 concerning short-term statistics and
 
 (Text with EEA relevance) (revoked)
 
-[^key-e907d895efc3debeaf0d2b469fd08934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e907d895efc3debeaf0d2b469fd08934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e907d895efc3debeaf0d2b469fd08934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e907d895efc3debeaf0d2b469fd08934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e907d895efc3debeaf0d2b469fd08934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-e907d895efc3debeaf0d2b469fd08934]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-e907d895efc3debeaf0d2b469fd08934]
+## ANNEX I[^c-e907d895efc3debeaf0d2b469fd08934]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-e907d895efc3debeaf0d2b469fd08934]
+## ANNEX II[^c-e907d895efc3debeaf0d2b469fd08934]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-e907d895efc3debeaf0d2b469fd08934]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e907d895efc3debeaf0d2b469fd08934]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 203](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/203); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e907d895efc3debeaf0d2b469fd08934]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 203](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/203); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

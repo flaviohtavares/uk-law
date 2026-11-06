@@ -26,9 +26,9 @@ Regulations 6 and 7
 
 ### A. — General provisions
 
-**1.**[^key-0938fce20d0eccdd7dff817fbeb89ed7] When the results of the migration tests specified in this Schedule and, where appropriate, Schedule 4 are analytically determined the specific gravity of any simulants used shall be assumed to be 1, so that milligrams of any substance released per litre of simulant will correspond numerically to milligrams of that substance released per kilogram of that simulant.
+**1.**[^c-0938fce20d0eccdd7dff817fbeb89ed7] When the results of the migration tests specified in this Schedule and, where appropriate, Schedule 4 are analytically determined the specific gravity of any simulants used shall be assumed to be 1, so that milligrams of any substance released per litre of simulant will correspond numerically to milligrams of that substance released per kilogram of that simulant.
 
-**2.**[^key-cc12f44616d4a1002ebfa56ad93519fa] Where any migration test specified in this Schedule and, where appropriate, Schedule 4 is carried out on any sample taken from any plastic material or article and the quantities of food or simulant placed in contact with the sample differ from those employed in the actual conditions under which the plastic material or article is used or is to be used, the results obtained should be corrected by applying the following formula:
+**2.**[^c-cc12f44616d4a1002ebfa56ad93519fa] Where any migration test specified in this Schedule and, where appropriate, Schedule 4 is carried out on any sample taken from any plastic material or article and the quantities of food or simulant placed in contact with the sample differ from those employed in the actual conditions under which the plastic material or article is used or is to be used, the results obtained should be corrected by applying the following formula:
 
 [formula: see source](https://www.legislation.gov.uk/nisr/1998/264)
 
@@ -40,7 +40,7 @@ where:
 - *a2* is the surface area in square decimetres of the plastic material or article in actual conditions of use;
 - *q* is the quantity in grams of food in contact with the plastic material or article in actual conditions of use.
 
-**3.**[^key-1c2fdeb0bcf9f4a64707fbe438423a12] (1) Subject to sub-paragraph (2) any testing of migration from any plastic material or article shall be carried out on that plastic material or article.
+**3.**[^c-1c2fdeb0bcf9f4a64707fbe438423a12] (1) Subject to sub-paragraph (2) any testing of migration from any plastic material or article shall be carried out on that plastic material or article.
 
 (2) In any case where determination in accordance with sub-paragraph (1) is impracticable, such testing shall be carried out, using either specimens taken from that plastic material or article or, where appropriate, specimens representative of that plastic material or article.
 
@@ -48,7 +48,7 @@ where:
 
 (4) Any migration testing of caps, gaskets, stoppers or similar devices for sealing shall be carried out on these articles by applying them to the containers for which they are intended in a manner which corresponds to the conditions of closing in normal or foreseeable use.
 
-**4.**[^key-a9cbaf02f4e100a0382516da48e787a4] (1) Any sample of a plastic material or article shall be placed in contact with the appropriate simulant or the food for a period and at a temperature which are chosen by reference to the contact conditions in actual use in accordance with the provisions of this Schedule and, where appropriate, Schedule 4.
+**4.**[^c-a9cbaf02f4e100a0382516da48e787a4] (1) Any sample of a plastic material or article shall be placed in contact with the appropriate simulant or the food for a period and at a temperature which are chosen by reference to the contact conditions in actual use in accordance with the provisions of this Schedule and, where appropriate, Schedule 4.
 
 (2) At the end of the period referred to in sub-paragraph (1), analytical determination of the total quantity of substances (overall migration), each specific quantity of a substance (specific migration) or, as the case may be, both that total and that specific quantity released by the sample shall be carried out on the simulant or food, as the case may be.
 
@@ -56,11 +56,11 @@ where:
 
 (4) Verification that migration into food simulants complies with a migration limit specified in regulation 7 or Schedule 1 shall be carried out in accordance with the provisions of this Schedule and using conventional migration tests, the basic rules for which are set out in Schedule 4.
 
-**5.**[^key-5670b1784c9408e3834de854a4c1f74e] Where a plastic material or article is intended to come into repeated contact with food, any migration test shall (subject to paragraph 7) be carried out three times on a single sample in accordance with the conditions laid down in this Schedule and, where appropriate, Schedule 4 using separate samples of the simulant or, as the case may be, food on each occasion, and the level of the migration found in the third test shall be treated as the level relevant to that test.
+**5.**[^c-5670b1784c9408e3834de854a4c1f74e] Where a plastic material or article is intended to come into repeated contact with food, any migration test shall (subject to paragraph 7) be carried out three times on a single sample in accordance with the conditions laid down in this Schedule and, where appropriate, Schedule 4 using separate samples of the simulant or, as the case may be, food on each occasion, and the level of the migration found in the third test shall be treated as the level relevant to that test.
 
 ### B. — Special provisions relating to overall migration
 
-**6.**[^key-ee2267845a2933f58f10c3e999349ac6] (1) Subject to sub-paragraph (2), any method of analytical determination may be used to prove excess of an overall migration limit in relation to a plastic material or article.
+**6.**[^c-ee2267845a2933f58f10c3e999349ac6] (1) Subject to sub-paragraph (2), any method of analytical determination may be used to prove excess of an overall migration limit in relation to a plastic material or article.
 
 (2) In any proceedings for an offence under these Regulations where it is alleged that a plastic material or article does not comply with regulation 7 it shall be a defence for the person charged to prove that—
 
@@ -73,7 +73,7 @@ where:
 
   there would have been no such excess so determined
 
-**7.**[^key-a68f16d90c2d4e30878198364a2bbb6f] (1) Where a plastic material or article is intended to come into repeated contact with food and it is technically impossible to carry out the test described in paragraph 5, the test shall be so modified as to enable the level of migration occurring during the third such test to be determined and, subject to sub-paragraph (2), such a determination may be used to prove excess of an overall migration limit in relation to a plastic material or article.
+**7.**[^c-a68f16d90c2d4e30878198364a2bbb6f] (1) Where a plastic material or article is intended to come into repeated contact with food and it is technically impossible to carry out the test described in paragraph 5, the test shall be so modified as to enable the level of migration occurring during the third such test to be determined and, subject to sub-paragraph (2), such a determination may be used to prove excess of an overall migration limit in relation to a plastic material or article.
 
 (2) In any proceedings for an offence under these Regulations where it is alleged, following determination under sub-paragraph (1), that a plastic material or article does not comply with regulation 7 it shall be a defence for the person charged to prove that, if—
 
@@ -84,7 +84,7 @@ where:
 
 the plastic material or article would not have been deemed to exceed that limit.
 
-**8.**[^key-7d99a179883eee3e2c2b05942f40b2e0] (1) Any plastic material or article which exceeds its overall migration limit by an amount not exceeding the analytical tolerance specified in sub-paragraph (2) shall be deemed for the purposes of these Regulations not to exceed its overall migration limit.
+**8.**[^c-7d99a179883eee3e2c2b05942f40b2e0] (1) Any plastic material or article which exceeds its overall migration limit by an amount not exceeding the analytical tolerance specified in sub-paragraph (2) shall be deemed for the purposes of these Regulations not to exceed its overall migration limit.
 
 (2) The following analytical tolerances shall be applied for limits of overall migration—
 
@@ -93,18 +93,18 @@ the plastic material or article would not have been deemed to exceed that limit.
 
 ## Annotations
 
-[^key-0938fce20d0eccdd7dff817fbeb89ed7]: Commencement: Sch. 3 para. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-0938fce20d0eccdd7dff817fbeb89ed7]: Commencement: Sch. 3 para. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-cc12f44616d4a1002ebfa56ad93519fa]: Commencement: Sch. 3 para. 2 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-cc12f44616d4a1002ebfa56ad93519fa]: Commencement: Sch. 3 para. 2 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-1c2fdeb0bcf9f4a64707fbe438423a12]: Commencement: Sch. 3 para. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-1c2fdeb0bcf9f4a64707fbe438423a12]: Commencement: Sch. 3 para. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-a9cbaf02f4e100a0382516da48e787a4]: Commencement: Sch. 3 para. 4 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-a9cbaf02f4e100a0382516da48e787a4]: Commencement: Sch. 3 para. 4 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-5670b1784c9408e3834de854a4c1f74e]: Commencement: Sch. 3 para. 5 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-5670b1784c9408e3834de854a4c1f74e]: Commencement: Sch. 3 para. 5 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-ee2267845a2933f58f10c3e999349ac6]: Commencement: Sch. 3 para. 6 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-ee2267845a2933f58f10c3e999349ac6]: Commencement: Sch. 3 para. 6 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-a68f16d90c2d4e30878198364a2bbb6f]: Commencement: Sch. 3 para. 7 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-a68f16d90c2d4e30878198364a2bbb6f]: Commencement: Sch. 3 para. 7 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-7d99a179883eee3e2c2b05942f40b2e0]: Commencement: Sch. 3 para. 8 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-7d99a179883eee3e2c2b05942f40b2e0]: Commencement: Sch. 3 para. 8 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

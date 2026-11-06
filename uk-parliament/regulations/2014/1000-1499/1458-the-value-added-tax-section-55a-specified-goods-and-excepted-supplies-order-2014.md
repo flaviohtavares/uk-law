@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury, in exercise of the power conferred on them by section 55A(9), (10), (11) and (14) of the Value Added Tax Act 1994[^f00001], make the following Order.
 
-## 1. Citation, commencement and effect[^key-0cbfa008624af045384ffceb30cca437]
+## 1. Citation, commencement and effect[^c-0cbfa008624af045384ffceb30cca437]
 
 (1) This Order may be cited as the Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014.
 
 (2) This Order comes into force on 1st July 2014 and has effect in relation to supplies made on or after that date.
 
-## 2. Interpretation[^key-d1276ff2d0b6ac2c71b960ae6f719a3f]
+## 2. Interpretation[^c-d1276ff2d0b6ac2c71b960ae6f719a3f]
 
 In this Order—
 
@@ -68,21 +68,21 @@ In this Order—
 - “third party intermediary” means a person who purchases specified goods from a utility in order to make an onward supply of those goods to an end user for consumption, in circumstances where the goods are delivered directly to the end user by the utility;
 - “utility” has the meaning given by paragraph 150(1) of Part 14 of Schedule 6 to the Finance Act 2000.
 
-## 3. Application of section 55A of the Act[^key-1eb29a5c3fb411187e9dad96c07ccd63]
+## 3. Application of section 55A of the Act[^c-1eb29a5c3fb411187e9dad96c07ccd63]
 
-(1) Section 55A of the Act (customers to account for tax on supplies of goods or services of a kind used in missing trader [^key-308bac0a1c9996f2d565f7c151587d02]... fraud) applies to goods of a description specified in article 4.
+(1) Section 55A of the Act (customers to account for tax on supplies of goods or services of a kind used in missing trader [^c-308bac0a1c9996f2d565f7c151587d02]... fraud) applies to goods of a description specified in article 4.
 
 (2) The supplies specified in article 5 are excepted supplies for the purposes of section 55A of the Act.
 
-## 4. Specified goods[^key-09195aeae1963ee8d33d2a72be8b733b]
+## 4. Specified goods[^c-09195aeae1963ee8d33d2a72be8b733b]
 
 The goods referred to in article 3(1) are—
 
-- (a)[^key-1ded1184356ec21e696b275b63b99354] gas supplied through a natural gas system situated in Great Britain or any network connected to a natural gas system in Great Britain;
+- (a)[^c-1ded1184356ec21e696b275b63b99354] gas supplied through a natural gas system situated in Great Britain or any network connected to a natural gas system in Great Britain;
 - (aa) gas supplied through a natural gas system situated within Northern Ireland or the territory of a member State or any network connected to such a system; and
 - (b) electricity.
 
-## 5. Excepted supplies[^key-3e5b13a580af51ee545b0ea524eac979]
+## 5. Excepted supplies[^c-3e5b13a580af51ee545b0ea524eac979]
 
 The supplies referred to in article 3(2) are—
 
@@ -140,9 +140,9 @@ A Tax Information and Impact Note covering this instrument was published at Budg
 
 [^f00001]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23). Section 55A was inserted by section 19(1) of the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25) and was amended by section 50(1) of the Finance Act [2010 (c.13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 203 of, and paragraphs 2 and 6 of Schedule 28 to, the Finance Act [2012 (c.14)](https://www.legislation.gov.uk/ukpga/2012/14).
 
-[^key-0cbfa008624af045384ffceb30cca437]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+[^c-0cbfa008624af045384ffceb30cca437]: Commencement: Art. 1 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
 
-[^key-d1276ff2d0b6ac2c71b960ae6f719a3f]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+[^c-d1276ff2d0b6ac2c71b960ae6f719a3f]: Commencement: Art. 2 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782). There are amendments to article 2 but none is relevant.
 
@@ -156,15 +156,15 @@ A Tax Information and Impact Note covering this instrument was published at Budg
 
 [^f00007]: Footnote: [S.I. 1992/231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231). Article 10(1) was amended by [S.I. 2003/419 (N.I.6)](https://www.legislation.gov.uk/nisi/2003/419), [S.R. 2007/321](https://www.legislation.gov.uk/nisr/2007/321), [S.I. 2007/913 (N.I.7)](https://www.legislation.gov.uk/nisi/2007/913), [S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155). There are other amending instruments but none is relevant.
 
-[^key-1eb29a5c3fb411187e9dad96c07ccd63]: Commencement: Art. 3 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+[^c-1eb29a5c3fb411187e9dad96c07ccd63]: Commencement: Art. 3 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
 
-[^key-308bac0a1c9996f2d565f7c151587d02]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1458/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [86(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/86/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-308bac0a1c9996f2d565f7c151587d02]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1458/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [86(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/86/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-09195aeae1963ee8d33d2a72be8b733b]: Commencement: Art. 4 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+[^c-09195aeae1963ee8d33d2a72be8b733b]: Commencement: Art. 4 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
 
-[^key-1ded1184356ec21e696b275b63b99354]: Textual amendment: [Art. 4(a)(aa)](https://www.legislation.gov.uk/uksi/2014/1458/article/4/a/aa) substituted for [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1458/article/4/a) (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [103](https://www.legislation.gov.uk/uksi/2020/1545/regulation/103) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1ded1184356ec21e696b275b63b99354]: Textual amendment: [Art. 4(a)(aa)](https://www.legislation.gov.uk/uksi/2014/1458/article/4/a/aa) substituted for [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1458/article/4/a) (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [103](https://www.legislation.gov.uk/uksi/2020/1545/regulation/103) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-3e5b13a580af51ee545b0ea524eac979]: Commencement: Art. 5 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
+[^c-3e5b13a580af51ee545b0ea524eac979]: Commencement: Art. 5 in force at 1.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1458/article/1/2)
 
 [^f00008]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). The provisions of Schedule 6 were substituted by section 51 of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 

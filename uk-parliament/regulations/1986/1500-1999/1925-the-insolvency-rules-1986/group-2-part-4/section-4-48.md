@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.48. Winding up stayed[^key-743d70f438523b7cf06e15ad0bbccf15]
+## 4.48. Winding up stayed[^c-743d70f438523b7cf06e15ad0bbccf15]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-743d70f438523b7cf06e15ad0bbccf15]: Commencement: [Rule 4.48](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.48) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-743d70f438523b7cf06e15ad0bbccf15]: Commencement: [Rule 4.48](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.48) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

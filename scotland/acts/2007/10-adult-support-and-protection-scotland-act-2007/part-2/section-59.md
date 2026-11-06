@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-c75d311bb2a2873462de5565b141af80] In section 53 (intervention orders) of the 2000 Act—
+(1)[^c-c75d311bb2a2873462de5565b141af80] In section 53 (intervention orders) of the 2000 Act—
 
 - (a) in subsection (4), for “Section 57(3) and (4)” substitute “ Subsections (3), (3A), (3B) and (4) of section 57 ”,
 - (b) in subsection (7)—
@@ -35,9 +35,9 @@ summary: ''
     ,
   - (iii) in paragraph (b), after “Commission” insert “ of the terms of the interlocutor ”.
 
-(2)[^key-043b6f0767a1491c7fe72ae67d10efb7] In section 55 (notice of change of address), for the words from “notify”, where first occurring, to “Guardian”, where second occurring, substitute “ , not later than 7 days after any change of the person's or the adult's address, notify the Public Guardian of the change who ”.
+(2)[^c-043b6f0767a1491c7fe72ae67d10efb7] In section 55 (notice of change of address), for the words from “notify”, where first occurring, to “Guardian”, where second occurring, substitute “ , not later than 7 days after any change of the person's or the adult's address, notify the Public Guardian of the change who ”.
 
-(3)[^key-043b6f0767a1491c7fe72ae67d10efb7] After section 56 insert—
+(3)[^c-043b6f0767a1491c7fe72ae67d10efb7] After section 56 insert—
 
 > **56A. Death of person authorised to intervene**
 >
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c75d311bb2a2873462de5565b141af80]: Commencement: [S. 59(1)](https://www.legislation.gov.uk/asp/2007/10/section/59/1) in force at 1.4.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-c75d311bb2a2873462de5565b141af80]: Commencement: [S. 59(1)](https://www.legislation.gov.uk/asp/2007/10/section/59/1) in force at 1.4.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
 
-[^key-043b6f0767a1491c7fe72ae67d10efb7]: Commencement: [S. 59(2)](https://www.legislation.gov.uk/asp/2007/10/section/59/2)[(3)](https://www.legislation.gov.uk/asp/2007/10/section/59/3) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-043b6f0767a1491c7fe72ae67d10efb7]: Commencement: [S. 59(2)](https://www.legislation.gov.uk/asp/2007/10/section/59/2)[(3)](https://www.legislation.gov.uk/asp/2007/10/section/59/3) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)

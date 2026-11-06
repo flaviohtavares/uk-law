@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Legal Officers (Annual Fees) Order 2019 (revoked)[^key-fd466360736c5808483f2e4a620c6fcd]
+The Legal Officers (Annual Fees) Order 2019 (revoked)[^c-fd466360736c5808483f2e4a620c6fcd]
 
 Made
 
@@ -45,98 +45,98 @@ Coming into force
 
 1st January 2020
 
-[^key-fd466360736c5808483f2e4a620c6fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd466360736c5808483f2e4a620c6fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fd466360736c5808483f2e4a620c6fcd]
+## 1. Citation, commencement and interpretation[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Annual fees[^key-fd466360736c5808483f2e4a620c6fcd]
+## 2. Annual fees[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of fees[^key-fd466360736c5808483f2e4a620c6fcd]
+## 3. Payment of fees[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of 2018 Order[^key-fd466360736c5808483f2e4a620c6fcd]
+## 4. Revocation of 2018 Order[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of the diocesan registrar[^key-fd466360736c5808483f2e4a620c6fcd]
+## 5. Duties of the diocesan registrar[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary annual fee[^key-fd466360736c5808483f2e4a620c6fcd]
+## 6. Supplementary annual fee[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Travel, subsistence and accommodation[^key-fd466360736c5808483f2e4a620c6fcd]
+## 7. Travel, subsistence and accommodation[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Value Added Tax[^key-fd466360736c5808483f2e4a620c6fcd]
+## 8. Value Added Tax[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd466360736c5808483f2e4a620c6fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd466360736c5808483f2e4a620c6fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees payable under this Order[^key-fd466360736c5808483f2e4a620c6fcd]
+## SCHEDULE 1 — Fees payable under this Order[^c-fd466360736c5808483f2e4a620c6fcd]
 
 Article 2
 
-### TABLE 1 — Fees payable to diocesan registrars in respect of 2019[^key-fd466360736c5808483f2e4a620c6fcd]
+### TABLE 1 — Fees payable to diocesan registrars in respect of 2019[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### TABLE 2 — Fees payable to provincial registrars in respect of 2019[^key-fd466360736c5808483f2e4a620c6fcd]
+### TABLE 2 — Fees payable to provincial registrars in respect of 2019[^c-fd466360736c5808483f2e4a620c6fcd]
 
-#### PART A — Fees payable[^key-fd466360736c5808483f2e4a620c6fcd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### PART B — Duties and professional services not falling within the scope of the annual fee[^key-fd466360736c5808483f2e4a620c6fcd]
-
-[^key-fd466360736c5808483f2e4a620c6fcd]
+#### PART A — Fees payable[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd466360736c5808483f2e4a620c6fcd]
+#### PART B — Duties and professional services not falling within the scope of the annual fee[^c-fd466360736c5808483f2e4a620c6fcd]
+
+[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The scope of the annual fee[^key-fd466360736c5808483f2e4a620c6fcd]
+[^c-fd466360736c5808483f2e4a620c6fcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — The scope of the annual fee[^c-fd466360736c5808483f2e4a620c6fcd]
 
 Article 2
 
-### 1. Professional services to be provided by the diocesan registrar[^key-fd466360736c5808483f2e4a620c6fcd]
+### 1. Professional services to be provided by the diocesan registrar[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restrictions on the provisions of paragraph 1[^key-fd466360736c5808483f2e4a620c6fcd]
+### 2. Restrictions on the provisions of paragraph 1[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^key-fd466360736c5808483f2e4a620c6fcd]
+### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Work not falling within the scope of the annual fee[^key-fd466360736c5808483f2e4a620c6fcd]
+### 4. Work not falling within the scope of the annual fee[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Disbursements[^key-fd466360736c5808483f2e4a620c6fcd]
+### 5. Disbursements[^c-fd466360736c5808483f2e4a620c6fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fd466360736c5808483f2e4a620c6fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd466360736c5808483f2e4a620c6fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd466360736c5808483f2e4a620c6fcd]: Textual amendment: Order revoked (1.1.2021) by [The Legal Officers (Annual Fees) Order 2020 (S.I. 2020/1603)](https://www.legislation.gov.uk/uksi/2020/1603), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1603/article/1), [4](https://www.legislation.gov.uk/uksi/2020/1603/article/4)
+[^c-fd466360736c5808483f2e4a620c6fcd]: Textual amendment: Order revoked (1.1.2021) by [The Legal Officers (Annual Fees) Order 2020 (S.I. 2020/1603)](https://www.legislation.gov.uk/uksi/2020/1603), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1603/article/1), [4](https://www.legislation.gov.uk/uksi/2020/1603/article/4)

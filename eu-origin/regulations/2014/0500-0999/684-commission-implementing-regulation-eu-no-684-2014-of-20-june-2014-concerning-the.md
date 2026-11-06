@@ -35,20 +35,20 @@ concerning the authorisation of canthaxanthin as a feed additive for breeder hen
 
 (Text with EEA relevance) (revoked)
 
-[^key-62ae7bfab9afa4715540e56a463038b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62ae7bfab9afa4715540e56a463038b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-62ae7bfab9afa4715540e56a463038b5]
+## Article 1. Authorisation[^c-62ae7bfab9afa4715540e56a463038b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-62ae7bfab9afa4715540e56a463038b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-62ae7bfab9afa4715540e56a463038b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-62ae7bfab9afa4715540e56a463038b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62ae7bfab9afa4715540e56a463038b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-62ae7bfab9afa4715540e56a463038b5]
+## ANNEX[^c-62ae7bfab9afa4715540e56a463038b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62ae7bfab9afa4715540e56a463038b5]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 145](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/145) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-62ae7bfab9afa4715540e56a463038b5]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 145](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/145) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

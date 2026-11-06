@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. References relating to looked after children to whom section 87(2) applies[^key-437516c7cef4d010d2331019bf83c52c]
+## 95A. References relating to looked after children to whom section 87(2) applies[^c-437516c7cef4d010d2331019bf83c52c]
 
 *Extent: E+W*
 
 (1) This section applies where—
 
-- (a)[^key-23bd87854b36592527577ee5c99b5d0b] the admission authority for a community or voluntary controlled school in England is a local authority,
+- (a)[^c-23bd87854b36592527577ee5c99b5d0b] the admission authority for a community or voluntary controlled school in England is a local authority,
 - (b) a decision is made by or on behalf of the authority to admit to the school a child who, at the time when the decision is made, is looked after by a local authority in England and to whom (at that time) section 87(2) applies.
 
-(2) The admission authority[^key-7d81d11512537bb8725df632de2e60c1] must give notice of the decision to the governing body of the school.
+(2) The admission authority[^c-7d81d11512537bb8725df632de2e60c1] must give notice of the decision to the governing body of the school.
 
 (3) The governing body of the school may, within the period of seven days beginning with the day on which they are notified of the decision, refer the matter to the adjudicator.
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-437516c7cef4d010d2331019bf83c52c]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/1998/31/section/95A) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/48/2), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/a)
+[^c-437516c7cef4d010d2331019bf83c52c]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/1998/31/section/95A) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/48/2), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/a)
 
-[^key-23bd87854b36592527577ee5c99b5d0b]: Textual amendment: [S. 95A(1)(a)](https://www.legislation.gov.uk/ukpga/1998/31/section/95A/1/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(12)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/12/a)
+[^c-23bd87854b36592527577ee5c99b5d0b]: Textual amendment: [S. 95A(1)(a)](https://www.legislation.gov.uk/ukpga/1998/31/section/95A/1/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(12)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/12/a)
 
-[^key-7d81d11512537bb8725df632de2e60c1]: Textual amendment: Words in [s. 95A(2)](https://www.legislation.gov.uk/ukpga/1998/31/section/95A/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(12)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/12/b)
+[^c-7d81d11512537bb8725df632de2e60c1]: Textual amendment: Words in [s. 95A(2)](https://www.legislation.gov.uk/ukpga/1998/31/section/95A/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(12)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/12/b)

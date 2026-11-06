@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## SCHEDULE A1 — Procedure in Quality Contracts Scheme cases[^key-bc93f07e09ce795fa0e926dbed06b547]
+## SCHEDULE A1 — Procedure in Quality Contracts Scheme cases[^c-bc93f07e09ce795fa0e926dbed06b547]
 
 Rule 23
 
@@ -95,4 +95,4 @@ Any person who wishes to be added as a party to the proceedings, and has given n
 
 ## Annotations
 
-[^key-bc93f07e09ce795fa0e926dbed06b547]: Textual amendment: Sch. A1 inserted (21.8.2015) by [The Tribunal Procedure (Amendment) Rules 2015 (S.I. 2015/1510)](https://www.legislation.gov.uk/uksi/2015/1510), [rules 1](https://www.legislation.gov.uk/uksi/2015/1510/rule/1), [7](https://www.legislation.gov.uk/uksi/2015/1510/rule/7)
+[^c-bc93f07e09ce795fa0e926dbed06b547]: Textual amendment: Sch. A1 inserted (21.8.2015) by [The Tribunal Procedure (Amendment) Rules 2015 (S.I. 2015/1510)](https://www.legislation.gov.uk/uksi/2015/1510), [rules 1](https://www.legislation.gov.uk/uksi/2015/1510/rule/1), [7](https://www.legislation.gov.uk/uksi/2015/1510/rule/7)

@@ -141,7 +141,7 @@ HAS ADOPTED THIS REGULATION:
 
 2. The written declaration shall permit an easy identification of the varnished or coated materials and articles to which it applies. It shall be renewed to reflect any changes in migration levels from the varnish or coating that has been applied to materials and articles.
 
-3. Business operators shall, upon request of a [^key-271ca422b3202155fa832875efbcdcdb]... competent authority, make available appropriate supporting documentation to demonstrate compliance with the written declaration referred to in paragraph 1. Such supporting documentation shall be provided without delay and in any event not later than 10 days following receipt of the request. The documentation shall contain the conditions and results of the testing, calculations, including modelling, other analysis and evidence on the safety or reasoning demonstrating compliance.
+3. Business operators shall, upon request of a [^c-271ca422b3202155fa832875efbcdcdb]... competent authority, make available appropriate supporting documentation to demonstrate compliance with the written declaration referred to in paragraph 1. Such supporting documentation shall be provided without delay and in any event not later than 10 days following receipt of the request. The documentation shall contain the conditions and results of the testing, calculations, including modelling, other analysis and evidence on the safety or reasoning demonstrating compliance.
 
 **Article 5.** Annex I to Regulation (EU) No 10/2011 is amended in accordance with Annex II to this Regulation.
 
@@ -151,7 +151,7 @@ HAS ADOPTED THIS REGULATION:
 
 It shall apply from 6 September 2018.
 
-[^key-ee8a5e5c2903cba4768a79aa236abcad]...
+[^c-ee8a5e5c2903cba4768a79aa236abcad]...
 
 Done at Brussels, 12 February 2018.
 
@@ -218,9 +218,9 @@ In Table 1 of Annex I to Regulation (EU) No 10/2011, the entry concerning substa
 
 [^f00011]: Footnote: Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 ([OJ L 181, 29.6.2013, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.181.01.0035.01.ENG)).
 
-[^key-271ca422b3202155fa832875efbcdcdb]: Textual amendment: Word in [Art. 4(3)](https://www.legislation.gov.uk/eur/2018/213/article/4/3) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/704/regulation/79); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-271ca422b3202155fa832875efbcdcdb]: Textual amendment: Word in [Art. 4(3)](https://www.legislation.gov.uk/eur/2018/213/article/4/3) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/704/regulation/79); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee8a5e5c2903cba4768a79aa236abcad]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/213/signature) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [80](https://www.legislation.gov.uk/uksi/2019/704/regulation/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee8a5e5c2903cba4768a79aa236abcad]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/213/signature) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [80](https://www.legislation.gov.uk/uksi/2019/704/regulation/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: Infant as defined in Article 2(2)(a) of Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 ([OJ L 181, 29.6.2013, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.181.01.0035.01.ENG)).
 

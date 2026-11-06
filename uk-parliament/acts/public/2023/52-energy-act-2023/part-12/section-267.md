@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. General objective[^key-b5a33ea9c47f83c03fab57f91596108c][^key-14aab415f8660b6d8b6b9de0971723c3]
+## 267. General objective[^c-b5a33ea9c47f83c03fab57f91596108c][^c-14aab415f8660b6d8b6b9de0971723c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The functions of the Secretary of State under this Part must be exercised with a
 
 ## Annotations
 
-[^key-b5a33ea9c47f83c03fab57f91596108c]: Commencement: S. 267 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-b5a33ea9c47f83c03fab57f91596108c]: Commencement: S. 267 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-14aab415f8660b6d8b6b9de0971723c3]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2023/52/section/267) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/i)
+[^c-14aab415f8660b6d8b6b9de0971723c3]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2023/52/section/267) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/i)

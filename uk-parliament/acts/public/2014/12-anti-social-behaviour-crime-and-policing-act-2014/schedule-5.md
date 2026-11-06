@@ -24,11 +24,11 @@ Section 113
 
 ### Introduction
 
-**1.**[^key-d06b453e83ae77f9af9390467f51c601] Part 2 of the Sexual Offences Act 2003 (notification and orders) is amended as set out in paragraphs 2 to 6.
+**1.**[^c-d06b453e83ae77f9af9390467f51c601] Part 2 of the Sexual Offences Act 2003 (notification and orders) is amended as set out in paragraphs 2 to 6.
 
 ### Sexual harm prevention orders
 
-**2.**[^key-1d8d95ac11cd65178fe6f429fe2c7cef] After section 103 there is inserted—
+**2.**[^c-1d8d95ac11cd65178fe6f429fe2c7cef] After section 103 there is inserted—
 
 > **Sexual harm prevention orders (England and Wales)**
 >
@@ -343,13 +343,13 @@ Section 113
 
 ### Sexual offences prevention orders and foreign travel orders
 
-**3.**[^key-d0ccd3d73ebbfc93b02c3aa6fe0c8853] (1) Sections 104 to 122 (sexual offences prevention orders and foreign travel orders) are repealed.
+**3.**[^c-d0ccd3d73ebbfc93b02c3aa6fe0c8853] (1) Sections 104 to 122 (sexual offences prevention orders and foreign travel orders) are repealed.
 
 (2) This paragraph extends only to England and Wales.
 
 ### Sexual risk orders
 
-**4.**[^key-030b5941bece4c37afb19d3a7cafff83] Before section 123 there is inserted—
+**4.**[^c-030b5941bece4c37afb19d3a7cafff83] Before section 123 there is inserted—
 
 > **Sexual risk orders (England and Wales)**
 >
@@ -610,13 +610,13 @@ Section 113
 
 ### Risk of sexual harm orders
 
-**5.**[^key-40b17099610230403787a990302db728] (1) Sections 123 to 129 (risk of sexual harm orders) are repealed.
+**5.**[^c-40b17099610230403787a990302db728] (1) Sections 123 to 129 (risk of sexual harm orders) are repealed.
 
 (2) This paragraph extends only to England and Wales.
 
 ### Application etc of orders
 
-**6.**[^key-f81ed5d89b432fc6c25e5d30be081084] After section 136 there is inserted—
+**6.**[^c-f81ed5d89b432fc6c25e5d30be081084] After section 136 there is inserted—
 
 > **136ZA. Application of orders throughout the United Kingdom**
 >
@@ -757,7 +757,7 @@ Section 113
 
 ### Service courts
 
-**7.**[^key-66068d308e324cf08a7e09a00ca9a8db] (1) Section 137 of the Sexual Offences Act 2003 (service courts) is amended as follows.
+**7.**[^c-66068d308e324cf08a7e09a00ca9a8db] (1) Section 137 of the Sexual Offences Act 2003 (service courts) is amended as follows.
 
 (2) In subsection (2), for “104(1)” there is substituted “ 103A(1) ”.
 
@@ -798,16 +798,16 @@ Section 113
 
 ## Annotations
 
-[^key-d06b453e83ae77f9af9390467f51c601]: Commencement: Sch. 5 para. 1 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-d06b453e83ae77f9af9390467f51c601]: Commencement: Sch. 5 para. 1 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
 
-[^key-1d8d95ac11cd65178fe6f429fe2c7cef]: Commencement: Sch. 5 para. 2 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-1d8d95ac11cd65178fe6f429fe2c7cef]: Commencement: Sch. 5 para. 2 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
 
-[^key-d0ccd3d73ebbfc93b02c3aa6fe0c8853]: Commencement: Sch. 5 para. 3 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-d0ccd3d73ebbfc93b02c3aa6fe0c8853]: Commencement: Sch. 5 para. 3 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
 
-[^key-030b5941bece4c37afb19d3a7cafff83]: Commencement: Sch. 5 para. 4 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-030b5941bece4c37afb19d3a7cafff83]: Commencement: Sch. 5 para. 4 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
 
-[^key-40b17099610230403787a990302db728]: Commencement: Sch. 5 para. 5 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-40b17099610230403787a990302db728]: Commencement: Sch. 5 para. 5 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
 
-[^key-f81ed5d89b432fc6c25e5d30be081084]: Commencement: Sch. 5 para. 6 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-f81ed5d89b432fc6c25e5d30be081084]: Commencement: Sch. 5 para. 6 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
 
-[^key-66068d308e324cf08a7e09a00ca9a8db]: Commencement: Sch. 5 para. 7 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)
+[^c-66068d308e324cf08a7e09a00ca9a8db]: Commencement: Sch. 5 para. 7 in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/373/article/2/e)

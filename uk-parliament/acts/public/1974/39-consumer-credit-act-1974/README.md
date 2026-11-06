@@ -31,11 +31,11 @@ Consumer Credit Act 1974
 
 An Act to establish for the protection of consumers a new system, administered by the Director General of Fair Trading, of licensing and other control of traders concerned with the provision of credit, or the supply of goods on hire or hire-purchase, and their transactions, in place of the present enactments regulating moneylenders, pawnbrokers and hire-purchase traders and their transactions; and for related matters.
 
-\[31st July 1974\][^c2428391][^c2428401][^c2428411][^c2428421][^c19902621][^c20965201][^key-82c27bd28892599182b77fc39af2037e][^key-ccd473e41debba7da78f3c0835dc520e]
+\[31st July 1974\][^c2428391][^c2428401][^c2428411][^c2428421][^c19902621][^c20965201][^c-82c27bd28892599182b77fc39af2037e][^c-ccd473e41debba7da78f3c0835dc520e]
 
 ## Contents
 
-### Part I — OFFICE OF FAIR TRADING[^key-6e5eb0f18b238a58eaf26067b8c5602b]
+### Part I — OFFICE OF FAIR TRADING[^c-6e5eb0f18b238a58eaf26067b8c5602b]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,11 +69,11 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 19 — Linked transactions.](part-ii/section-19.md)
 - [Section 20 — Total charge for credit](part-ii/section-20.md)
 
-### Part III — Licensing of Credit and Hire Businesses[^key-236ec9154b97e5f40233a1781a709e72]
+### Part III — Licensing of Credit and Hire Businesses[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
-#### Licensing principles[^key-236ec9154b97e5f40233a1781a709e72]
+#### Licensing principles[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,7 +88,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 25A — Guidance on fitness test](part-iii/section-25a.md)
 - [Section 26 — Conduct of business](part-iii/section-26.md)
 
-#### Issue of licences[^key-236ec9154b97e5f40233a1781a709e72]
+#### Issue of licences[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,7 +98,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 27A — Consumer credit EEA firms](part-iii/section-27a.md)
 - [Section 28 — Exclusion from group licence.](part-iii/section-28.md)
 
-#### Charges for indefinite licences[^key-236ec9154b97e5f40233a1781a709e72]
+#### Charges for indefinite licences[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,7 +108,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 28B — Extension of period to pay charge under s. 28A](part-iii/section-28b.md)
 - [Section 28C — Failure to pay charge under s. 28A](part-iii/section-28c.md)
 
-#### Renewal, variation, suspension and revocation of licences[^key-236ec9154b97e5f40233a1781a709e72]
+#### Renewal, variation, suspension and revocation of licences[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,7 +122,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 32B — Duration of suspension](part-iii/section-32b.md)
 - [Section 33 — Application to end suspension.](part-iii/section-33.md)
 
-#### Further powers of OFT to regulate conduct of licensees etc.[^key-236ec9154b97e5f40233a1781a709e72]
+#### Further powers of OFT to regulate conduct of licensees etc.[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -134,7 +134,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 33D — Procedure in relation to requirements](part-iii/section-33d.md)
 - [Section 33E — Guidance on requirements](part-iii/section-33e.md)
 
-#### Miscellaneous[^key-236ec9154b97e5f40233a1781a709e72]
+#### Miscellaneous[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -159,7 +159,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 39C — Statement of policy in relation to civil penalties](part-iii/section-39c.md)
 - [Section 40 — Enforcement of agreements made by unlicensed trader.](part-iii/section-40.md)
 
-#### Appeals[^key-236ec9154b97e5f40233a1781a709e72]
+#### Appeals[^c-236ec9154b97e5f40233a1781a709e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -176,7 +176,7 @@ An Act to establish for the protection of consumers a new system, administered b
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-d0e55bfa803047ee40b51b89cec21416]
+#### ...[^c-d0e55bfa803047ee40b51b89cec21416]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,7 +197,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 51A — Restrictions on provision of credit card cheques](part-iv/section-51a.md)
 - [Section ... — Section 51A: exemption for business](part-iv/section-51b.md)
 
-#### ...[^key-19cc1c97f51b1130708a6cac05b784e0]
+#### ...[^c-19cc1c97f51b1130708a6cac05b784e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -451,7 +451,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 145 — Types of ancillary credit business.](part-x/section-145.md)
 - [Section 146 — Exceptions from section 145.](part-x/section-146.md)
 
-#### ...[^key-4f03fcec483f33616d3435a41ca36fef]
+#### ...[^c-4f03fcec483f33616d3435a41ca36fef]
 
 *Extent: E+W+S+N.I.*
 
@@ -468,7 +468,7 @@ An Act to establish for the protection of consumers a new system, administered b
 - [Section 154 — Prohibition of canvassing certain ancillary credit services off trade premises.](part-x/section-154.md)
 - [Section 155 — Right to recover brokerage fees.](part-x/section-155.md)
 
-#### ...[^key-3aabbcbc82c6209d5f4c5a25dbc6547d]
+#### ...[^c-3aabbcbc82c6209d5f4c5a25dbc6547d]
 
 *Extent: E+W+S+N.I.*
 
@@ -574,17 +574,17 @@ SCHEDULES
 
 [^c20965201]: Modification: Act excluded (1.2.2011) by [S.I. 1989/869](https://www.legislation.gov.uk/uksi/1989/869), [art. 5A](https://www.legislation.gov.uk/uksi/1989/869/article/5A) (as inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 67A](https://www.legislation.gov.uk/uksi/2010/1010/regulation/67A), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101)) (as inserted by [The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [reg. 21](https://www.legislation.gov.uk/uksi/2010/1969/regulation/21)))
 
-[^key-82c27bd28892599182b77fc39af2037e]: Modification: Act: power to amend conferred (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/30/1), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/vi)
+[^c-82c27bd28892599182b77fc39af2037e]: Modification: Act: power to amend conferred (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/30/1), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/vi)
 
-[^key-ccd473e41debba7da78f3c0835dc520e]: Modification: Act applied (with modifications) (21.9.2015) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 31(2)](https://www.legislation.gov.uk/uksi/2015/910/article/31/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-ccd473e41debba7da78f3c0835dc520e]: Modification: Act applied (with modifications) (21.9.2015) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 31(2)](https://www.legislation.gov.uk/uksi/2015/910/article/31/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-6e5eb0f18b238a58eaf26067b8c5602b]: Textual amendment: Pt. I omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/2)
+[^c-6e5eb0f18b238a58eaf26067b8c5602b]: Textual amendment: Pt. I omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/2)
 
-[^key-236ec9154b97e5f40233a1781a709e72]: Textual amendment: Pt. III omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(10)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/10) (with [arts. 37(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/37/5), [39(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/4), [41(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/41/5), [44(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/44/5), [46(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/46/3/b), [48(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/48/3), [54(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/54/2))
+[^c-236ec9154b97e5f40233a1781a709e72]: Textual amendment: Pt. III omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(10)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/10) (with [arts. 37(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/37/5), [39(4)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/4), [41(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/41/5), [44(5)](https://www.legislation.gov.uk/uksi/2013/1881/article/44/5), [46(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/46/3/b), [48(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/48/3), [54(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/54/2))
 
-[^key-d0e55bfa803047ee40b51b89cec21416]: Textual amendment: Cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
+[^c-d0e55bfa803047ee40b51b89cec21416]: Textual amendment: Cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
 
-[^key-19cc1c97f51b1130708a6cac05b784e0]: Textual amendment: Cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(18)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/18)
+[^c-19cc1c97f51b1130708a6cac05b784e0]: Textual amendment: Cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(18)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/18)
 
 [^c20970051]: Textual amendment: S. 66A and preceding cross-heading inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010, {regs. 13}, 99(1) (with regs. 100, 101) (as amended by The Consumer Credit (Amendment) Regulations 2010 (S.I. 2010/1969)](https://www.legislation.gov.uk/uksi/2010/1969), [reg. 8](https://www.legislation.gov.uk/uksi/2010/1969/regulation/8) (with [reg. 46](https://www.legislation.gov.uk/uksi/2010/1969/regulation/46)))
 
@@ -598,6 +598,6 @@ SCHEDULES
 
 [^c18853421]: Textual amendment: S. 140A and preceding cross-heading inserted (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {19}, 71(2) (with Sch. 3 para. 16); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
 
-[^key-4f03fcec483f33616d3435a41ca36fef]: Textual amendment: Ss. 146-152 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(42)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/42) (with arts. 48A, 48B (as inserted by [S.I. 2014/208](https://www.legislation.gov.uk/uksi/2014/208), arts. 1(3)(4), 7(3))
+[^c-4f03fcec483f33616d3435a41ca36fef]: Textual amendment: Ss. 146-152 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(42)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/42) (with arts. 48A, 48B (as inserted by [S.I. 2014/208](https://www.legislation.gov.uk/uksi/2014/208), arts. 1(3)(4), 7(3))
 
-[^key-3aabbcbc82c6209d5f4c5a25dbc6547d]: Textual amendment: S. 156 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(44)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/44)
+[^c-3aabbcbc82c6209d5f4c5a25dbc6547d]: Textual amendment: S. 156 and cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(44)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/44)

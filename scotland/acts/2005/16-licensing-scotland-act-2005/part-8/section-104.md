@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Sale of liqueur confectionery to a child[^key-a72eba83ce9e4f7f9d752898d490d377]
+## 104. Sale of liqueur confectionery to a child[^c-a72eba83ce9e4f7f9d752898d490d377]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a72eba83ce9e4f7f9d752898d490d377]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2005/16/section/104) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-a72eba83ce9e4f7f9d752898d490d377]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2005/16/section/104) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

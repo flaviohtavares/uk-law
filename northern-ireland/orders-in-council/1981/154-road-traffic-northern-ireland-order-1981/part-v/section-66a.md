@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A motor vehicle carrying passengers for payment in circumstances in which the conditions set out in paragraph (2) are fulfilled shall not by regarded as a public service vehicle or taxi (within the meaning of the Taxis Act (Northern Ireland) 2008)[^key-9744081a07f162d315eac8e022d63d0e] .
+(1) A motor vehicle carrying passengers for payment in circumstances in which the conditions set out in paragraph (2) are fulfilled shall not by regarded as a public service vehicle or taxi (within the meaning of the Taxis Act (Northern Ireland) 2008)[^c-9744081a07f162d315eac8e022d63d0e] .
 
 (2) The conditions referred to in paragraph (1) are—
 
@@ -36,4 +36,4 @@ and for the purposes of sub-paragraph (b) the running costs of a vehicle for a j
 
 [^c21082191]: Textual amendment: [1981 NI 24](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-9744081a07f162d315eac8e022d63d0e]: Textual amendment: Words in [art. 66A(1)](https://www.legislation.gov.uk/nisi/1981/154/article/66A/1) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/2); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-9744081a07f162d315eac8e022d63d0e]: Textual amendment: Words in [art. 66A(1)](https://www.legislation.gov.uk/nisi/1981/154/article/66A/1) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/2); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Information, advice and assistance[^key-9b2f4d074e50f8835a0f92ff275bc387]
+## 3. Information, advice and assistance[^c-9b2f4d074e50f8835a0f92ff275bc387]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2f4d074e50f8835a0f92ff275bc387]: Commencement: S. 3 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-9b2f4d074e50f8835a0f92ff275bc387]: Commencement: S. 3 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

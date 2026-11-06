@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Priority of expenses of postal administration[^key-951cf13f0bf77270278b3b9fa2070608]
+## 37. Priority of expenses of postal administration[^c-951cf13f0bf77270278b3b9fa2070608]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-951cf13f0bf77270278b3b9fa2070608]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2013/3208/rule/37) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-951cf13f0bf77270278b3b9fa2070608]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2013/3208/rule/37) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

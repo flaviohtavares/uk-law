@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-### 1. Divorce: removal of requirement to establish facts etc[^M_I_193b656c-5526-4f43-b6de-3dcebf8bb73e][^key-052bc42f3f79397e48d9c7b1a0ec779e]
+### 1. Divorce: removal of requirement to establish facts etc[^M_I_193b656c-5526-4f43-b6de-3dcebf8bb73e][^c-052bc42f3f79397e48d9c7b1a0ec779e]
 
 For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown of marriage) substitute—
 
@@ -77,7 +77,7 @@ For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown of marria
 >
 > (10) Without prejudice to the generality of section 75 of the Courts Act 2003, Family Procedure Rules may make provision as to the procedure for an application under subsection (1) by both parties to a marriage to become an application by one party to the marriage only (including provision for a statement made under subsection (2) in connection with the application to be treated as made by one party to the marriage only).
 
-### 2. Judicial separation: removal of factual grounds[^key-c3ddf4bb386b8d5026853b9fc5622fa8]
+### 2. Judicial separation: removal of factual grounds[^c-c3ddf4bb386b8d5026853b9fc5622fa8]
 
 (1) Section 17 of the Matrimonial Causes Act 1973 (judicial separation) is amended as follows.
 
@@ -103,7 +103,7 @@ For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown of marria
 
 *Extent: E+W*
 
-### 3. Dissolution: removal of requirement to establish facts[^M_I_9b2475f5-cc5e-438e-d4a0-1963827dc4d4][^key-62385bd00a0cf4b2c01d0c1af470a898]
+### 3. Dissolution: removal of requirement to establish facts[^M_I_9b2475f5-cc5e-438e-d4a0-1963827dc4d4][^c-62385bd00a0cf4b2c01d0c1af470a898]
 
 (1) Section 44 of the Civil Partnership Act 2004 (dissolution of civil partnership which has broken down irretrievably) is amended as follows.
 
@@ -128,7 +128,7 @@ For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown of marria
 
 > (6) Without prejudice to the generality of section 75 of the Courts Act 2003, Family Procedure Rules may make provision as to the procedure for an application under subsection (1) by both civil partners to become an application by one civil partner only (including provision for a statement made under subsection (1A) in connection with the application to be treated as made by one civil partner only).
 
-### 4. Dissolution orders: time limits[^key-6dd05b2e8161a8311cf38a51b7c944ae]
+### 4. Dissolution orders: time limits[^c-6dd05b2e8161a8311cf38a51b7c944ae]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
@@ -177,7 +177,7 @@ For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown of marria
 - (c) in subsection (1), in the words before paragraph (a), for “section 37(2)(b)” substitute “ subsection (A1)(b) ”;
 - (d) in subsection (2), for “section 37(2)(b) substitute “ subsection (A1)(b) ”.
 
-### 5. Separation: removal of factual grounds[^key-e626228748db4d401128fac28d0110e0]
+### 5. Separation: removal of factual grounds[^c-e626228748db4d401128fac28d0110e0]
 
 (1) Section 56 of the Civil Partnership Act 2004 (separation orders) is amended as follows.
 
@@ -202,7 +202,7 @@ For section 1 of the Matrimonial Causes Act 1973 (divorce on breakdown of marria
 
 ### 6. Minor and consequential amendments
 
-(1)[^key-26a56bb9e70fd080ac596127e31e335b] The Schedule to this Act contains minor and consequential amendments.
+(1)[^c-26a56bb9e70fd080ac596127e31e335b] The Schedule to this Act contains minor and consequential amendments.
 
 (2)[^M_I_1c3bd2d8-b21a-4cca-8e7d-77460dd51689] The Lord Chancellor may by regulations made by statutory instrument make provision that is consequential on any provision made by this Act.
 
@@ -267,37 +267,37 @@ Section 6
 
 ### PART 1 — Amendments to the Matrimonial Causes Act 1973
 
-**1.**[^key-3628076fd3e79ffddc02bd4bc391b041] The Matrimonial Causes Act 1973 is amended as follows.
+**1.**[^c-3628076fd3e79ffddc02bd4bc391b041] The Matrimonial Causes Act 1973 is amended as follows.
 
-**2.**[^key-e8f63c50c55a308a7a22038385ecfa9d] Omit section 2 (supplemental provisions as to facts raising presumption of breakdown).
+**2.**[^c-e8f63c50c55a308a7a22038385ecfa9d] Omit section 2 (supplemental provisions as to facts raising presumption of breakdown).
 
-**3.**[^key-453455a307414fc82f606c4b17975b43] In section 3 (bar on petitions for divorce within one year of marriage)—
+**3.**[^c-453455a307414fc82f606c4b17975b43] In section 3 (bar on petitions for divorce within one year of marriage)—
 
 - (a) in the heading, for “petitions for divorce” substitute “ applying for a divorce order ”;
 - (b) in subsection (1), for “No petition for divorce shall be presented to the court” substitute “ An application for a divorce order may not be made ”;
 - (c) omit subsection (2).
 
-**4.**[^key-5fe16181036bc8b544bcc87b4acc3ea9] Omit section 4 (divorce not precluded by previous judicial separation).
+**4.**[^c-5fe16181036bc8b544bcc87b4acc3ea9] Omit section 4 (divorce not precluded by previous judicial separation).
 
-**5.**[^key-e48f9c859a442fed9d3dc5f677f747ae] Omit section 5 (refusal of decree in five year separation cases on grounds of grave hardship to respondent).
+**5.**[^c-e48f9c859a442fed9d3dc5f677f747ae] Omit section 5 (refusal of decree in five year separation cases on grounds of grave hardship to respondent).
 
-**6.**[^key-2fabb4efa144c74e6985ccbaa24b3873] In section 6 (attempts at reconciliation of parties to marriage)—
+**6.**[^c-2fabb4efa144c74e6985ccbaa24b3873] In section 6 (attempts at reconciliation of parties to marriage)—
 
 - (a) in subsection (1), for the words from “a petitioner” to “him” substitute “ an applicant for a divorce order to certify whether the representative has discussed with the applicant the possibility of reconciliation and given the applicant ”;
 - (b) in subsection (2), for “divorce” substitute “ a divorce order ”.
 
-**7.**[^key-631b152991e50023f326ccdc9442dfec] In section 7 (consideration by the court of certain agreements or arrangements)—
+**7.**[^c-631b152991e50023f326ccdc9442dfec] In section 7 (consideration by the court of certain agreements or arrangements)—
 
 - (a) for “either before or after the presentation of a petition for divorce,” substitute “ when proceedings for a divorce order are contemplated or have begun, ”;
 - (b) for the words from “proceedings” to “have begun,” substitute “ proceedings, ”.
 
-**8.**[^key-de47a467930a4ec017a9282098ffd8e6] In section 8 (intervention of Queen's Proctor)—
+**8.**[^c-de47a467930a4ec017a9282098ffd8e6] In section 8 (intervention of Queen's Proctor)—
 
 - (a) in subsection (1), in the words before paragraph (a), for “a petition for divorce” substitute “ an application for a divorce order ”;
 - (b) in subsection (1)(b), for “decree nisi is made absolute” substitute “ divorce order is made final ”;
 - (c) in subsection (2), for “decree nisi in any proceedings for divorce,” substitute “ conditional order in any proceedings for a divorce order, ”.
 
-**9.**[^key-6b2efa684be239d86963d0ebd1a5e925] In section 9 (proceedings after decree nisi: general powers of court)—
+**9.**[^c-6b2efa684be239d86963d0ebd1a5e925] In section 9 (proceedings after decree nisi: general powers of court)—
 
 - (a) in the heading, for “after decree nisi” substitute “ before divorce order has been made final ”;
 - (b) in subsection (1), in the words before paragraph (a)—
@@ -309,7 +309,7 @@ Section 6
   - (i) for the words from the beginning to the second “granted,” substitute “ Where a divorce order has been made on an application by one party to a marriage and that party has not applied for the order to be made final, ”;
   - (ii) for “the party against whom it was granted” substitute “ the other party to the marriage ”.
 
-**10.**[^key-2a3a7d386bcc7d2e4495a3e0397b9992] In section 10 (proceedings after decree nisi: special protection for respondent in separation cases)—
+**10.**[^c-2a3a7d386bcc7d2e4495a3e0397b9992] In section 10 (proceedings after decree nisi: special protection for respondent in separation cases)—
 
 - (a) for the heading substitute “ Proceedings before divorce order made final: special protection for respondent ”;
 - (b) omit subsection (1);
@@ -338,7 +338,7 @@ Section 6
   - (ii) in paragraph (a), for “decree should be made absolute” substitute “ order should be made final ”;
   - (iii) in paragraph (b), for “petitioner that he will make such financial provision” substitute “ applicant that they will make such financial provision ”.
 
-**11.**[^key-0a7d7a6e25ef4fbf0eb3f47d0c8f1fdf] In section 10A (proceedings after decree nisi: religious marriage)—
+**11.**[^c-0a7d7a6e25ef4fbf0eb3f47d0c8f1fdf] In section 10A (proceedings after decree nisi: religious marriage)—
 
 - (a) in the heading, for “after decree nisi” substitute “ before divorce order has been made final ”;
 - (b) in subsection (1)—
@@ -349,7 +349,7 @@ Section 6
   - (ii) for “absolute” substitute “ final ”;
 - (d) in subsection (5), for “decree of divorce” substitute “ divorce order ”.
 
-**12.**[^key-34fa935f67a6ebbc1e62b0ab34531d16] After section 12A insert—
+**12.**[^c-34fa935f67a6ebbc1e62b0ab34531d16] After section 12A insert—
 
 > **12B. The period before nullity of marriage orders may be made final**
 >
@@ -366,7 +366,7 @@ Section 6
 >
 > (5) A statutory instrument containing an order under subsection (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**13.**[^key-c7e0f6393d385bcd4672497561b46434] (1) Section 13 (bars to relief where marriage is voidable) is amended as follows.
+**13.**[^c-c7e0f6393d385bcd4672497561b46434] (1) Section 13 (bars to relief where marriage is voidable) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -388,13 +388,13 @@ Section 6
 - (a) in the words before paragraph (a), for “grant of a decree of nullity” substitute “ making of a nullity of marriage order ”;
 - (b) in paragraph (a), for “petitioner” substitute “ applicant ”.
 
-**14.**[^key-55056fcb1f7e25fd1da89b3934a40aa6] For section 15 (application of sections 1(5), 8 and 9 to nullity proceedings) substitute—
+**14.**[^c-55056fcb1f7e25fd1da89b3934a40aa6] For section 15 (application of sections 1(5), 8 and 9 to nullity proceedings) substitute—
 
 > **15. Application of sections 8 and 9 to proceedings for a nullity of marriage order**
 >
 > Section 8 (intervention of Queen's Proctor) and section 9 (proceedings before divorce order has been made final: general powers of court) apply in relation to proceedings for a nullity of marriage order as if for any reference in those sections to a divorce order there were substituted a reference to a nullity of marriage order.
 
-**15.**[^key-2636f9f76dfbaf5f8735bf95deed0d9f] (1) Section 16 (effect of decree of nullity in case of voidable marriage) is amended as follows.
+**15.**[^c-2636f9f76dfbaf5f8735bf95deed0d9f] (1) Section 16 (effect of decree of nullity in case of voidable marriage) is amended as follows.
 
 (2) In the heading, for “decree of nullity” substitute “ annulment ”.
 
@@ -415,26 +415,26 @@ Section 6
 
 .
 
-**16.**[^key-a92b60ea641508c2ef9b8e2a38645220] In section 18 (effects of judicial separation)—
+**16.**[^c-a92b60ea641508c2ef9b8e2a38645220] In section 18 (effects of judicial separation)—
 
 - (a) omit subsection (1);
 - (b) in subsection (2), after “decree of judicial separation” insert “ or judicial separation order ”.
 
-**17.**[^key-265c3aa9e2139519f61bdc0c30780a3c] Omit section 20 (relief for respondent in divorce proceedings) and the heading before it.
+**17.**[^c-265c3aa9e2139519f61bdc0c30780a3c] Omit section 20 (relief for respondent in divorce proceedings) and the heading before it.
 
-**18.**[^key-a2eef2b2b3a82622043bbeb7753984b8] In section 21 (financial provision and property adjustment orders)—
+**18.**[^c-a2eef2b2b3a82622043bbeb7753984b8] In section 21 (financial provision and property adjustment orders)—
 
 - (a) in subsection (2), for “grant of a decree of divorce, nullity of marriage or judicial separation,” substitute “ making of a divorce, nullity of marriage or judicial separation order, ”;
 - (b) at the end insert—
 
   > (3) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**19.**[^key-65ca26727df80d279f358b68cd70661b] In section 22 (maintenance pending suit), in subsection (1)—
+**19.**[^c-65ca26727df80d279f358b68cd70661b] In section 22 (maintenance pending suit), in subsection (1)—
 
 - (a) for “a petition for divorce, nullity of marriage or judicial separation,” substitute “ an application for a divorce, nullity of marriage or judicial separation order, ”;
 - (b) for “presentation of the petition” substitute “ making of the application ”.
 
-**20.**[^key-f4275fdb3d2ad93a6067bcdded532856] (1) Section 23 (financial provision orders in connection with divorce proceedings etc) is amended as follows.
+**20.**[^c-f4275fdb3d2ad93a6067bcdded532856] (1) Section 23 (financial provision orders in connection with divorce proceedings etc) is amended as follows.
 
 (2) In subsection (1), for the words from the beginning to “absolute),” substitute “ On making a divorce, nullity of marriage or judicial separation order or at any time after making such an order (whether, in the case of a divorce or nullity of marriage order, before or after the order is made final), ”.
 
@@ -446,7 +446,7 @@ Section 6
 
 > (7) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**21.**[^key-7fe4712a22c6adef3956826f3d45af40] (1) Section 24 (property adjustment orders in connection with divorce proceedings etc) is amended as follows.
+**21.**[^c-7fe4712a22c6adef3956826f3d45af40] (1) Section 24 (property adjustment orders in connection with divorce proceedings etc) is amended as follows.
 
 (2) In subsection (1), for the words from the beginning to “absolute),” substitute “ On making a divorce, nullity of marriage or judicial separation order or at any time after making such an order (whether, in the case of a divorce or nullity of marriage order, before or after the order is made final), ”.
 
@@ -456,7 +456,7 @@ Section 6
 
 > (4) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**22.**[^key-a57df75c7842dac2d736bdeaa688610d] (1) Section 24A (orders for sale of property) is amended as follows.
+**22.**[^c-a57df75c7842dac2d736bdeaa688610d] (1) Section 24A (orders for sale of property) is amended as follows.
 
 (2) In subsection (3), for the words from “grant” to the end substitute “ making of a divorce or nullity of marriage order, the order under subsection (1) is not to take effect unless the divorce or nullity of marriage order has been made final. ”
 
@@ -464,7 +464,7 @@ Section 6
 
 > (7) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**23.**[^key-76de0966b10d0947d7f04a53efaaaf72] (1) Section 24B (pension sharing orders in connection with divorce proceedings etc) is amended as follows.
+**23.**[^c-76de0966b10d0947d7f04a53efaaaf72] (1) Section 24B (pension sharing orders in connection with divorce proceedings etc) is amended as follows.
 
 (2) In subsection (1), for the words from the beginning to “absolute),” substitute “ On making a divorce or nullity of marriage order or at any time after making such an order (whether before or after the order is made final), ”.
 
@@ -474,7 +474,7 @@ Section 6
 
 > (6) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**24.**[^key-ecb595593c61d8ea56d54da7fa88f44f] (1) Section 24E (pension compensation sharing orders in connection with divorce proceedings) is amended as follows.
+**24.**[^c-ecb595593c61d8ea56d54da7fa88f44f] (1) Section 24E (pension compensation sharing orders in connection with divorce proceedings) is amended as follows.
 
 (2) In subsection (1), for the words from the beginning to “absolute),” substitute “ On making a divorce or nullity of marriage order or at any time after making such an order (whether before or after the order is made final), ”.
 
@@ -484,7 +484,7 @@ Section 6
 
 > (11) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**25.**[^key-88a89ec213c2dbc2a82673191459e6fa] (1) Section 25A (exercise of court's powers in favour of party to marriage on decree of divorce or nullity of marriage) is amended as follows.
+**25.**[^c-88a89ec213c2dbc2a82673191459e6fa] (1) Section 25A (exercise of court's powers in favour of party to marriage on decree of divorce or nullity of marriage) is amended as follows.
 
 (2) In the heading, for “decree of divorce or nullity of marriage” substitute “ divorce or nullity of marriage order ”.
 
@@ -499,7 +499,7 @@ Section 6
 
 > (4) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**26.**[^key-f1eb10d4763934f99822546a930a2f8a] In section 26 (commencement of proceedings for ancillary relief etc)—
+**26.**[^c-f1eb10d4763934f99822546a930a2f8a] In section 26 (commencement of proceedings for ancillary relief etc)—
 
 - (a) in subsection (1)—
   - (i) for the words from “a petition” to “presented,” substitute “ an application for a divorce, nullity of marriage or judicial separation order has been made, ”;
@@ -507,7 +507,7 @@ Section 6
 - (b) in subsection (2)(a), for “petition or answer” substitute “ application or response ”;
 - (c) in subsection (2)(b) for “presentation of the petition or filing of the answer” substitute “ presentation of the application or filing of the response ”.
 
-**27.**[^key-c7db110edab5a93caee95830dbeea3e4] (1) Section 28 (duration of continuing financial provision orders in favour of party to marriage, and effect of remarriage or formation of civil partnership) is amended as follows.
+**27.**[^c-c7db110edab5a93caee95830dbeea3e4] (1) Section 28 (duration of continuing financial provision orders in favour of party to marriage, and effect of remarriage or formation of civil partnership) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -536,9 +536,9 @@ Section 6
 
 > (4) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**28.**[^key-28ca6d4d8e5b94d8833e4dd3ac37fd16] In section 30 (direction for settlement of instrument for securing payments or effecting property adjustment), in paragraph (b), for “grant of the decree in question” substitute “ making of the divorce, nullity of marriage or judicial separation order ”.
+**28.**[^c-28ca6d4d8e5b94d8833e4dd3ac37fd16] In section 30 (direction for settlement of instrument for securing payments or effecting property adjustment), in paragraph (b), for “grant of the decree in question” substitute “ making of the divorce, nullity of marriage or judicial separation order ”.
 
-**29.**[^key-9713b40ebd1ea528f99695fc8aa6d9e7] (1) Section 31 (variation, discharge etc of certain orders for financial relief) is amended as follows.
+**29.**[^c-9713b40ebd1ea528f99695fc8aa6d9e7] (1) Section 31 (variation, discharge etc of certain orders for financial relief) is amended as follows.
 
 (2) In subsection (2)(e), for “grant of a decree of judicial separation;” substitute “ making of a judicial separation order; ”.
 
@@ -556,12 +556,12 @@ Section 6
 
 > (16) See also section 52A (interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders).
 
-**30.**[^key-bb6fccd9b4c838f97c05c39890966bbb] In section 47 (matrimonial relief and declarations of validity in respect of polygamous marriages)—
+**30.**[^c-bb6fccd9b4c838f97c05c39890966bbb] In section 47 (matrimonial relief and declarations of validity in respect of polygamous marriages)—
 
 - (a) in subsection (2)(a), for “decree” substitute “ order ”;
 - (b) in paragraph (d) omit “decree or”.
 
-**31.**[^key-63cc1c5c61e4099a43e3fbd8c470218c] (1) Section 49 (parties to proceedings under this Act) is amended as follows.
+**31.**[^c-63cc1c5c61e4099a43e3fbd8c470218c] (1) Section 49 (parties to proceedings under this Act) is amended as follows.
 
 (2) Omit subsections (1) to (3).
 
@@ -572,7 +572,7 @@ Section 6
 
 (4) In subsection (5), for the words from the beginning to “suit or” substitute “ In every case ”.
 
-**32.**[^key-1898126f7636cda1a727e3ab42ee7dc1] After section 52 insert—
+**32.**[^c-1898126f7636cda1a727e3ab42ee7dc1] After section 52 insert—
 
 > **52A. Interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders**
 >
@@ -584,7 +584,7 @@ Section 6
 > - (d) a reference to making includes granting;
 > - (e) a reference to an order being made final includes a decree being made absolute.
 
-**33.**[^key-07a4a323d3ea579fcd120d80127fcc91] In Schedule 1 (transitional provisions and savings)—
+**33.**[^c-07a4a323d3ea579fcd120d80127fcc91] In Schedule 1 (transitional provisions and savings)—
 
 - (a) omit paragraph 8;
 - (b) in paragraph 11(3A), for “grant a decree of nullity” substitute “ make a nullity of marriage order ”;
@@ -592,24 +592,24 @@ Section 6
 
 ### PART 2 — Amendments to the Civil Partnership Act 2004
 
-**34.**[^key-e4b274799165da333fd4b0e8ecef3799] The Civil Partnership Act 2004 is amended as follows.
+**34.**[^c-e4b274799165da333fd4b0e8ecef3799] The Civil Partnership Act 2004 is amended as follows.
 
-**35.**[^key-623044ec3bacb8f3bbbe046bba1ec9dc] In section 40 (proceedings before order has been made final), in subsection (4)—
+**35.**[^c-623044ec3bacb8f3bbbe046bba1ec9dc] In section 40 (proceedings before order has been made final), in subsection (4)—
 
 - (a) in paragraph (a), for “section 37(2)” substitute “ sections 37A(1) and 38(A1) ”;
 - (b) in paragraph (b) omit “in separation cases”.
 
-**36.**[^key-a89fa74445ce3dba6177e652a497e973] In section 41 (time bar on applications for dissolution orders), omit subsection (2).
+**36.**[^c-a89fa74445ce3dba6177e652a497e973] In section 41 (time bar on applications for dissolution orders), omit subsection (2).
 
-**37.**[^key-ab032e31fe9585a09311b6c8d14f25cf] In section 42 (attempts at reconciliation of civil partners), in subsection (2), in the words before paragraph (a), for “the applicant to certify whether he” substitute “ an applicant to certify whether the representative ”.
+**37.**[^c-ab032e31fe9585a09311b6c8d14f25cf] In section 42 (attempts at reconciliation of civil partners), in subsection (2), in the words before paragraph (a), for “the applicant to certify whether he” substitute “ an applicant to certify whether the representative ”.
 
-**38.**[^key-87ada473cdc3e0cb8a47875320662780] Omit section 45 (supplemental provisions as to facts raising presumption of breakdown).
+**38.**[^c-87ada473cdc3e0cb8a47875320662780] Omit section 45 (supplemental provisions as to facts raising presumption of breakdown).
 
-**39.**[^key-ab311cf54983f4f5b77545e753089179] Omit section 46 (dissolution order not precluded by previous separation order etc).
+**39.**[^c-ab311cf54983f4f5b77545e753089179] Omit section 46 (dissolution order not precluded by previous separation order etc).
 
-**40.**[^key-cfb6b070020deef21bc844de254f48ee] Omit section 47 (refusal of dissolution in 5 year separation cases on ground of grave hardship).
+**40.**[^c-cfb6b070020deef21bc844de254f48ee] Omit section 47 (refusal of dissolution in 5 year separation cases on ground of grave hardship).
 
-**41.**[^key-88e774df5a616fba3bdc9d91636c544d] In section 48 (proceedings before order made final: protection for respondent in separation cases)—
+**41.**[^c-88e774df5a616fba3bdc9d91636c544d] In section 48 (proceedings before order made final: protection for respondent in separation cases)—
 
 - (a) in the heading omit “in separation cases”;
 - (b) omit subsection (1);
@@ -622,13 +622,13 @@ Section 6
   >   - (ii) the conditional order is in favour of both civil partners but one of them has since withdrawn from the application, and
   > - (b) the respondent has applied to the court for consideration under subsection (3) of their financial position after the dissolution of the civil partnership.
 
-**42.**[^key-f2d2b8ecc7b32243d8db3de9a5715e09] Omit section 62 (relief for respondent in dissolution proceedings).
+**42.**[^c-f2d2b8ecc7b32243d8db3de9a5715e09] Omit section 62 (relief for respondent in dissolution proceedings).
 
 ### PART 3 — Amendments to other Acts
 
-**43.**[^key-f50917318acff3d918f776c1df380b18] In section 18A of the Wills Act 1837 (effect of dissolution or annulment of marriage on wills), in subsection (1), in the words before paragraph (a) omit “a decree of”.
+**43.**[^c-f50917318acff3d918f776c1df380b18] In section 18A of the Wills Act 1837 (effect of dissolution or annulment of marriage on wills), in subsection (1), in the words before paragraph (a) omit “a decree of”.
 
-**44.**[^key-e7d0ed0d03a6e0f2dd34dd4eaca01c35] (1) The Inheritance (Provision for Family and Dependants) Act 1975 is amended as follows.
+**44.**[^c-e7d0ed0d03a6e0f2dd34dd4eaca01c35] (1) The Inheritance (Provision for Family and Dependants) Act 1975 is amended as follows.
 
 (2) In section 1 (application for financial provision from deceased's estate), in subsection (2)(a)—
 
@@ -678,35 +678,35 @@ Section 6
   > - (d) a reference to making includes granting;
   > - (e) a reference to an order being made final includes a decree being made absolute.
 
-**45.**[^key-6517804c673183fa39414d108a90b33f] In the Legitimacy Act 1976, in section 10 (interpretation), in subsection (1), in the definition of “void marriage”, after “jurisdiction” insert “ to make a nullity of marriage order or ”.
+**45.**[^c-6517804c673183fa39414d108a90b33f] In the Legitimacy Act 1976, in section 10 (interpretation), in subsection (1), in the definition of “void marriage”, after “jurisdiction” insert “ to make a nullity of marriage order or ”.
 
-**46.**[^key-ccfd99b1ccb1cf411596e8197d453b5b] In section 18 of the Senior Courts Act 1981 (restrictions on appeals to Court of Appeal), after paragraph (d) insert—
+**46.**[^c-ccfd99b1ccb1cf411596e8197d453b5b] In section 18 of the Senior Courts Act 1981 (restrictions on appeals to Court of Appeal), after paragraph (d) insert—
 
 > - (da) from a divorce order or nullity of marriage order that has been made final, by a party who, having had time and opportunity to appeal from the conditional order on which that final order was founded, has not appealed from the conditional order;
 
 .
 
-**47.**[^key-23783a758b8a489dd1cffa2d3e7f1187] In the Civil Jurisdiction and Judgments Act 1982, in section 18 (enforcement of UK judgments in other parts of UK), in subsection (6)(a), at the beginning insert “ a judicial separation order or ”.
+**47.**[^c-23783a758b8a489dd1cffa2d3e7f1187] In the Civil Jurisdiction and Judgments Act 1982, in section 18 (enforcement of UK judgments in other parts of UK), in subsection (6)(a), at the beginning insert “ a judicial separation order or ”.
 
-**48.**[^key-53edfb9683fd32eb5731bbcd665b5bf9] (1) The Matrimonial and Family Proceedings Act 1984 is amended as follows.
+**48.**[^c-53edfb9683fd32eb5731bbcd665b5bf9] (1) The Matrimonial and Family Proceedings Act 1984 is amended as follows.
 
 (2) In section 17 (orders for financial provision and property adjustment), in subsection (1)(a), for the words from “decree of divorce” to “granted” substitute “ divorce order, nullity of marriage order or judicial separation order in respect of the marriage had been made ”.
 
 (3) In section 22 (powers of court in relation to certain tenancies of dwelling-houses), in subsection (2), for the words from “decree of divorce” to “granted” substitute “ divorce order, nullity of marriage order or judicial separation order had been made ”.
 
-**49.**[^key-86692ff419c9a82fcef7510f8f103197] In the Finance Act 1985, in section 83 (transfers in connection with divorce, dissolution of civil partnership etc), in subsection (1)—
+**49.**[^c-86692ff419c9a82fcef7510f8f103197] In the Finance Act 1985, in section 83 (transfers in connection with divorce, dissolution of civil partnership etc), in subsection (1)—
 
 - (a) in paragraph (a), for the words from “a decree” to “separation,” substitute “ an order or decree for their divorce, the annulment of the marriage or their judicial separation, ”;
 - (b) in paragraph (b), for “a decree,” substitute “ an order or decree for divorce, annulment or judicial separation as is mentioned in paragraph (a), ”.
 
-**50.**[^key-d226ce2cf755a5f772a649866fddfc61] In the Agricultural Holdings Act 1986, in Schedule 6 (eligibility to apply for new tenancy under Part 4 of the Act), in paragraph 1(3), for the words from “subject of” to the end substitute
+**50.**[^c-d226ce2cf755a5f772a649866fddfc61] In the Agricultural Holdings Act 1986, in Schedule 6 (eligibility to apply for new tenancy under Part 4 of the Act), in paragraph 1(3), for the words from “subject of” to the end substitute
 
 > subject of—
 >
 > - (a) a judicial separation order or decree of judicial separation, or
 > - (b) a conditional divorce or nullity of marriage order or a decree nisi of divorce or of nullity of marriage.
 
-**51.**[^key-35ea1ca42b72ddce9b3dc35671bc7a1a] (1) The Family Law Act 1986 is amended as follows.
+**51.**[^c-35ea1ca42b72ddce9b3dc35671bc7a1a] (1) The Family Law Act 1986 is amended as follows.
 
 (2) In section 2A (jurisdiction in or in connection with matrimonial proceedings or civil partnership proceedings), in subsection (2)(a), after “grant of a decree of judicial separation” insert “ or the making of a judicial separation order ”.
 
@@ -723,15 +723,15 @@ Section 6
 
 (6) In section 58 (general provisions as to the making and effect of declarations), in subsection (6) for “grant a decree of nullity of marriage” substitute “ make a nullity of marriage order ”.
 
-**52.**[^key-1431bea3f1af3c860868e86df0449bcf] In the Children Act 1989, in section 6 (guardians: revocation and disclaimer), in subsection (3A)(a) omit “a decree of”.
+**52.**[^c-1431bea3f1af3c860868e86df0449bcf] In the Children Act 1989, in section 6 (guardians: revocation and disclaimer), in subsection (3A)(a) omit “a decree of”.
 
-**53.**[^key-a7fe5f7f92eccb9f0b4069cb67263695] In section 225B of the Taxation of Chargeable Gains Act 1992 (disposals in connection with divorce etc), in subsection (2)(b)(i)—
+**53.**[^c-a7fe5f7f92eccb9f0b4069cb67263695] In section 225B of the Taxation of Chargeable Gains Act 1992 (disposals in connection with divorce etc), in subsection (2)(b)(i)—
 
 - (a) for “an order or” substitute “ a divorce or nullity of marriage order, ”;
 - (b) after “marriage,” insert “ an order or decree ”;
 - (c) after “partnership, or” insert “ an order or decree ”.
 
-**54.**[^key-1133a6360ff5c325822cc4ca58f8997d] (1) Schedule 7 to the Family Law Act 1996 (transfer of certain tenancies on divorce etc or on separation of cohabitants) is amended as follows.
+**54.**[^c-1133a6360ff5c325822cc4ca58f8997d] (1) Schedule 7 to the Family Law Act 1996 (transfer of certain tenancies on divorce etc or on separation of cohabitants) is amended as follows.
 
 (2) In paragraph 2(2), for paragraph (a) substitute—
 
@@ -758,12 +758,12 @@ Section 6
 > - (d) a reference to making includes granting;
 > - (e) a reference to an order being made final includes a decree being made absolute.
 
-**55.**[^key-1ef63ff487a46bbfe41a91a5536ffd60] In the Finance Act 2003, in Schedule 3 (stamp duty land tax: transactions exempt from charge), in paragraph 3—
+**55.**[^c-1ef63ff487a46bbfe41a91a5536ffd60] In the Finance Act 2003, in Schedule 3 (stamp duty land tax: transactions exempt from charge), in paragraph 3—
 
 - (a) in paragraph (a), for the words from “a decree” to “separation;” substitute “ an order or decree for their divorce, the annulment of the marriage or their judicial separation; ”;
 - (b) in paragraph (b), for “a decree;” substitute “ an order or decree for divorce, annulment or judicial separation as is mentioned in paragraph (a); ”.
 
-**56.**[^key-dfb03afb4de5c0d82deaefc201c9fd2c] In section 5 of the Gender Recognition Act 2004 (issue of full certificates where applicant has been married), in subsection (1)—
+**56.**[^c-dfb03afb4de5c0d82deaefc201c9fd2c] In section 5 of the Gender Recognition Act 2004 (issue of full certificates where applicant has been married), in subsection (1)—
 
 - (a) in paragraph (a), for “absolute a decree of nullity granted” substitute “ final a nullity of marriage order made ”;
 - (b) omit “or” at the end of that paragraph;
@@ -773,7 +773,7 @@ Section 6
 
   .
 
-**57.**[^key-4d07b5ffa696d5248038483f595de5c3] (1) Section 55D of the Income Tax Act 2007 (procedure for elections under section 55C) is amended as follows.
+**57.**[^c-4d07b5ffa696d5248038483f595de5c3] (1) Section 55D of the Income Tax Act 2007 (procedure for elections under section 55C) is amended as follows.
 
 (2) In subsection (8)—
 
@@ -795,12 +795,12 @@ Section 6
 > - a decree absolute of nullity of marriage;
 > - a decree of judicial separation.
 
-**58.**[^key-25e82ee8e739b066d12677fc63ffe2f6] In Schedule 1 to the Land and Buildings Transaction Tax (Scotland) Act 2013 (asp 11) (exempt transactions), in paragraph 4—
+**58.**[^c-25e82ee8e739b066d12677fc63ffe2f6] In Schedule 1 to the Land and Buildings Transaction Tax (Scotland) Act 2013 (asp 11) (exempt transactions), in paragraph 4—
 
 - (a) in paragraph (a), for “a decree of divorce, nullity of marriage or” substitute “ an order or decree for the dissolution or annulment of the marriage or their ”;
 - (b) in paragraph (b), for “such a” substitute “ such an order or ”.
 
-**59.**[^key-8b4d065ae5bd5ef89c8380958788c5aa] (1) In Schedule 3 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1) (transactions exempt from charge), paragraph 3 is amended as follows.
+**59.**[^c-8b4d065ae5bd5ef89c8380958788c5aa] (1) In Schedule 3 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1) (transactions exempt from charge), paragraph 3 is amended as follows.
 
 (2) In paragraph (a)—
 
@@ -812,7 +812,7 @@ Section 6
 - (a) in the English language text, for “such a” substitute “ such an order or ”;
 - (b) in the Welsh language text, before “archddyfarniad o'r fath” insert “ gorchymyn neu ”.
 
-**60.**[^key-7e25b21ef46d76c7a542df3c802464bb] In the Wills and Administration Proceedings (Northern Ireland) Order 1994 (S.I. 1994/1899 (N.I. 13)), in Article 13 (effect of dissolution or annulment of marriage), in paragraph (5)(a)—
+**60.**[^c-7e25b21ef46d76c7a542df3c802464bb] In the Wills and Administration Proceedings (Northern Ireland) Order 1994 (S.I. 1994/1899 (N.I. 13)), in Article 13 (effect of dissolution or annulment of marriage), in paragraph (5)(a)—
 
 - (a) after “divorce” insert “ or divorce order, ”;
 - (b) for “granted” substitute “ or nullity of marriage order, granted or made ”.
@@ -821,138 +821,138 @@ Section 6
 
 [^M_I_193b656c-5526-4f43-b6de-3dcebf8bb73e]: Commencement: S. 1 in force at 25.6.2020 for specified purposes; see s. 8(3)(a)
 
-[^key-052bc42f3f79397e48d9c7b1a0ec779e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/11/section/1) in force at 6.4.2022 in so far as not already in force by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-052bc42f3f79397e48d9c7b1a0ec779e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/11/section/1) in force at 6.4.2022 in so far as not already in force by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-c3ddf4bb386b8d5026853b9fc5622fa8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/11/section/2) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-c3ddf4bb386b8d5026853b9fc5622fa8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/11/section/2) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
 [^M_I_9b2475f5-cc5e-438e-d4a0-1963827dc4d4]: Commencement: S. 3 in force at 25.6.2020 for specified purposes; see s. 8(3)(b)
 
-[^key-62385bd00a0cf4b2c01d0c1af470a898]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/11/section/3) in force at 6.4.2022 in so far as not already in force by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-62385bd00a0cf4b2c01d0c1af470a898]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/11/section/3) in force at 6.4.2022 in so far as not already in force by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-6dd05b2e8161a8311cf38a51b7c944ae]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/11/section/4) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-6dd05b2e8161a8311cf38a51b7c944ae]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/11/section/4) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-e626228748db4d401128fac28d0110e0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/11/section/5) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e626228748db4d401128fac28d0110e0]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/11/section/5) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-26a56bb9e70fd080ac596127e31e335b]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/6/1) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-26a56bb9e70fd080ac596127e31e335b]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/6/1) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
 [^M_I_1c3bd2d8-b21a-4cca-8e7d-77460dd51689]: Commencement: S. 6(2)-(7) in force at 25.6.2020; see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/2)
 
-[^key-3628076fd3e79ffddc02bd4bc391b041]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/1) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-3628076fd3e79ffddc02bd4bc391b041]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/1) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-e8f63c50c55a308a7a22038385ecfa9d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/2) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e8f63c50c55a308a7a22038385ecfa9d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/2) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-453455a307414fc82f606c4b17975b43]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/3) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-453455a307414fc82f606c4b17975b43]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/3) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-5fe16181036bc8b544bcc87b4acc3ea9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/4) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-5fe16181036bc8b544bcc87b4acc3ea9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/4) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-e48f9c859a442fed9d3dc5f677f747ae]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/5) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e48f9c859a442fed9d3dc5f677f747ae]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/5) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-2fabb4efa144c74e6985ccbaa24b3873]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/6) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-2fabb4efa144c74e6985ccbaa24b3873]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/6) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-631b152991e50023f326ccdc9442dfec]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/7) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-631b152991e50023f326ccdc9442dfec]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/7) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-de47a467930a4ec017a9282098ffd8e6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/8) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-de47a467930a4ec017a9282098ffd8e6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/8) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-6b2efa684be239d86963d0ebd1a5e925]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/9) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-6b2efa684be239d86963d0ebd1a5e925]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/9) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-2a3a7d386bcc7d2e4495a3e0397b9992]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/10) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-2a3a7d386bcc7d2e4495a3e0397b9992]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/10) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-0a7d7a6e25ef4fbf0eb3f47d0c8f1fdf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/11) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-0a7d7a6e25ef4fbf0eb3f47d0c8f1fdf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/11) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-34fa935f67a6ebbc1e62b0ab34531d16]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/12) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-34fa935f67a6ebbc1e62b0ab34531d16]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/12) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-c7e0f6393d385bcd4672497561b46434]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/13) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-c7e0f6393d385bcd4672497561b46434]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/13) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-55056fcb1f7e25fd1da89b3934a40aa6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/14) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-55056fcb1f7e25fd1da89b3934a40aa6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/14) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-2636f9f76dfbaf5f8735bf95deed0d9f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/15) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-2636f9f76dfbaf5f8735bf95deed0d9f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/15) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-a92b60ea641508c2ef9b8e2a38645220]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/16) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-a92b60ea641508c2ef9b8e2a38645220]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/16) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-265c3aa9e2139519f61bdc0c30780a3c]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/17) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-265c3aa9e2139519f61bdc0c30780a3c]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/17) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-a2eef2b2b3a82622043bbeb7753984b8]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/18) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-a2eef2b2b3a82622043bbeb7753984b8]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/18) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-65ca26727df80d279f358b68cd70661b]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/19) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-65ca26727df80d279f358b68cd70661b]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/19) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-f4275fdb3d2ad93a6067bcdded532856]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/20) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-f4275fdb3d2ad93a6067bcdded532856]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/20) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-7fe4712a22c6adef3956826f3d45af40]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/21) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-7fe4712a22c6adef3956826f3d45af40]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/21) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-a57df75c7842dac2d736bdeaa688610d]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/22) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-a57df75c7842dac2d736bdeaa688610d]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/22) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-76de0966b10d0947d7f04a53efaaaf72]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/23) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-76de0966b10d0947d7f04a53efaaaf72]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/23) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-ecb595593c61d8ea56d54da7fa88f44f]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/24) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-ecb595593c61d8ea56d54da7fa88f44f]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/24) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-88a89ec213c2dbc2a82673191459e6fa]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/25) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-88a89ec213c2dbc2a82673191459e6fa]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/25) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-f1eb10d4763934f99822546a930a2f8a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/26) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-f1eb10d4763934f99822546a930a2f8a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/26) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-c7db110edab5a93caee95830dbeea3e4]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/27) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-c7db110edab5a93caee95830dbeea3e4]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/27) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-28ca6d4d8e5b94d8833e4dd3ac37fd16]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/28) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-28ca6d4d8e5b94d8833e4dd3ac37fd16]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/28) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-9713b40ebd1ea528f99695fc8aa6d9e7]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/29) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-9713b40ebd1ea528f99695fc8aa6d9e7]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/29) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-bb6fccd9b4c838f97c05c39890966bbb]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/30) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-bb6fccd9b4c838f97c05c39890966bbb]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/30) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-63cc1c5c61e4099a43e3fbd8c470218c]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/31) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-63cc1c5c61e4099a43e3fbd8c470218c]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/31) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-1898126f7636cda1a727e3ab42ee7dc1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/32) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1898126f7636cda1a727e3ab42ee7dc1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/32) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-07a4a323d3ea579fcd120d80127fcc91]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-07a4a323d3ea579fcd120d80127fcc91]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-e4b274799165da333fd4b0e8ecef3799]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/34) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e4b274799165da333fd4b0e8ecef3799]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/34) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-623044ec3bacb8f3bbbe046bba1ec9dc]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/35) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-623044ec3bacb8f3bbbe046bba1ec9dc]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/35) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-a89fa74445ce3dba6177e652a497e973]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/36) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-a89fa74445ce3dba6177e652a497e973]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/36) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-ab032e31fe9585a09311b6c8d14f25cf]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/37) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-ab032e31fe9585a09311b6c8d14f25cf]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/37) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-87ada473cdc3e0cb8a47875320662780]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/38) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-87ada473cdc3e0cb8a47875320662780]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/38) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-ab311cf54983f4f5b77545e753089179]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/39) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-ab311cf54983f4f5b77545e753089179]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/39) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-cfb6b070020deef21bc844de254f48ee]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/40) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-cfb6b070020deef21bc844de254f48ee]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/40) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-88e774df5a616fba3bdc9d91636c544d]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-88e774df5a616fba3bdc9d91636c544d]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-f2d2b8ecc7b32243d8db3de9a5715e09]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/42) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-f2d2b8ecc7b32243d8db3de9a5715e09]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/42) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-f50917318acff3d918f776c1df380b18]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/43) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-f50917318acff3d918f776c1df380b18]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/43) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-e7d0ed0d03a6e0f2dd34dd4eaca01c35]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/44) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e7d0ed0d03a6e0f2dd34dd4eaca01c35]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/44) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-6517804c673183fa39414d108a90b33f]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/45) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-6517804c673183fa39414d108a90b33f]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/45) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-ccfd99b1ccb1cf411596e8197d453b5b]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/46) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-ccfd99b1ccb1cf411596e8197d453b5b]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/46) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-23783a758b8a489dd1cffa2d3e7f1187]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/47) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-23783a758b8a489dd1cffa2d3e7f1187]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/47) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-53edfb9683fd32eb5731bbcd665b5bf9]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/48) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-53edfb9683fd32eb5731bbcd665b5bf9]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/48) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-86692ff419c9a82fcef7510f8f103197]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/49) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-86692ff419c9a82fcef7510f8f103197]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/49) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-d226ce2cf755a5f772a649866fddfc61]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/50) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-d226ce2cf755a5f772a649866fddfc61]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/50) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-35ea1ca42b72ddce9b3dc35671bc7a1a]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/51) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-35ea1ca42b72ddce9b3dc35671bc7a1a]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/51) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-1431bea3f1af3c860868e86df0449bcf]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/52) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1431bea3f1af3c860868e86df0449bcf]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/52) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-a7fe5f7f92eccb9f0b4069cb67263695]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/53) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-a7fe5f7f92eccb9f0b4069cb67263695]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/53) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-1133a6360ff5c325822cc4ca58f8997d]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/54) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1133a6360ff5c325822cc4ca58f8997d]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/54) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-1ef63ff487a46bbfe41a91a5536ffd60]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/55) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1ef63ff487a46bbfe41a91a5536ffd60]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/55) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-dfb03afb4de5c0d82deaefc201c9fd2c]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/56) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-dfb03afb4de5c0d82deaefc201c9fd2c]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/56) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-4d07b5ffa696d5248038483f595de5c3]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/57) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-4d07b5ffa696d5248038483f595de5c3]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/57) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-25e82ee8e739b066d12677fc63ffe2f6]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/58) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-25e82ee8e739b066d12677fc63ffe2f6]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/58) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-8b4d065ae5bd5ef89c8380958788c5aa]: Commencement: [Sch. para. 59](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/59) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-8b4d065ae5bd5ef89c8380958788c5aa]: Commencement: [Sch. para. 59](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/59) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-7e25b21ef46d76c7a542df3c802464bb]: Commencement: [Sch. para. 60](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/60) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-7e25b21ef46d76c7a542df3c802464bb]: Commencement: [Sch. para. 60](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/60) in force at 6.4.2022 by [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

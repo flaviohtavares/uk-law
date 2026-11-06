@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Licence under Electricity Act 1989 for performance of code management function[^key-0c5e856653c3a7fd1cd0ecb1c12899a4][^key-8721507c744cba9f55c1548d94ffe33a]
+## 186. Licence under Electricity Act 1989 for performance of code management function[^c-0c5e856653c3a7fd1cd0ecb1c12899a4][^c-8721507c744cba9f55c1548d94ffe33a]
 
 *Extent: E+W+S*
 
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5e856653c3a7fd1cd0ecb1c12899a4]: Commencement: S. 186 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-0c5e856653c3a7fd1cd0ecb1c12899a4]: Commencement: S. 186 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-8721507c744cba9f55c1548d94ffe33a]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2023/52/section/186) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/iii)
+[^c-8721507c744cba9f55c1548d94ffe33a]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2023/52/section/186) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/iii)

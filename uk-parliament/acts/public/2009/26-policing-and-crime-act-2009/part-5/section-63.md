@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Power to search vehicles[^key-b743916a002c0f80b81f0c2968df9b0a]
+## 63. Power to search vehicles[^c-b743916a002c0f80b81f0c2968df9b0a]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-dd923dd7004663e9829d58e659d099b7] Section 289 of the Proceeds of Crime Act 2002 (c. 29) (searches) is amended as set out in subsections (2) to (4).
+(1)[^c-dd923dd7004663e9829d58e659d099b7] Section 289 of the Proceeds of Crime Act 2002 (c. 29) (searches) is amended as set out in subsections (2) to (4).
 
-(2)[^key-dd923dd7004663e9829d58e659d099b7] After subsection (1) insert—
+(2)[^c-dd923dd7004663e9829d58e659d099b7] After subsection (1) insert—
 
 > (1A) The powers specified in subsection (1D) are exercisable if—
 >
@@ -49,14 +49,14 @@ summary: ''
 > - (a) it is recoverable property or is intended by any person for use in unlawful conduct, and
 > - (b) the amount of it is not less than the minimum amount.
 
-(3)[^key-dd923dd7004663e9829d58e659d099b7] In subsection (4) for the words from “exercising” to the end substitute
+(3)[^c-dd923dd7004663e9829d58e659d099b7] In subsection (4) for the words from “exercising” to the end substitute
 
 > may—
 >
 > - (a) in exercising powers by virtue of subsection (1D), detain the vehicle for so long as is necessary for their exercise,
 > - (b) in exercising powers by virtue of subsection (3)(b), detain the suspect for so long as is necessary for their exercise.
 
-(4)[^key-3224dd7cdfa37fcd7f854974aeda86a9] In subsection (5)(c) for the words from “premises” to the end substitute
+(4)[^c-3224dd7cdfa37fcd7f854974aeda86a9] In subsection (5)(c) for the words from “premises” to the end substitute
 
 > the following—
 >
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b743916a002c0f80b81f0c2968df9b0a]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2009/26/section/63) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(d)](https://www.legislation.gov.uk/uksi/2016/147/article/3/d)
+[^c-b743916a002c0f80b81f0c2968df9b0a]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2009/26/section/63) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(d)](https://www.legislation.gov.uk/uksi/2016/147/article/3/d)
 
-[^key-dd923dd7004663e9829d58e659d099b7]: Commencement: [S. 63(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/63/1) in force at 1.6.2015 for E.W.S. by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/b)
+[^c-dd923dd7004663e9829d58e659d099b7]: Commencement: [S. 63(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/63/1) in force at 1.6.2015 for E.W.S. by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/b)
 
-[^key-3224dd7cdfa37fcd7f854974aeda86a9]: Commencement: [S. 63(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/63/4) in force at 1.6.2015 for specified purposes for E.W.S. by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/b)
+[^c-3224dd7cdfa37fcd7f854974aeda86a9]: Commencement: [S. 63(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/63/4) in force at 1.6.2015 for specified purposes for E.W.S. by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/b)

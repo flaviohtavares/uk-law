@@ -45,15 +45,15 @@ In accordance with paragraph 2(2) of that schedule, they have consulted with suc
 
 In accordance with paragraph 2(3) of that schedule [^c23632261], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-b7b413d690a8ac6062cdc228e9f28044]
+## 1. Citation and commencement[^c-b7b413d690a8ac6062cdc228e9f28044]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2019 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2019-2020[^key-c08db6fd83e47f163f191d221d55a3bd]
+## 2. Revenue support grant for 2019-2020[^c-c08db6fd83e47f163f191d221d55a3bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2019-2020[^key-b5342ae8aa61a98647e497ada26c7b45]
+## 3. Distribution of non-domestic rate income for 2019-2020[^c-b5342ae8aa61a98647e497ada26c7b45]
 
 (1) The distributable amount of non‑domestic rate income arrived at under paragraph 9 of schedule 12 of the Local Government Finance Act 1992 in respect of the financial year 2019-2020 is £2,853,000,000.
 
@@ -61,13 +61,13 @@ This Order may be cited as the Local Government Finance (Scotland) Order 2019 an
 
 (3) The amount of non‑domestic rate income distributed to each local authority specified in column 1 of schedule 1 in respect of the financial year 2019-2020 is that part of the distributable amount for that year determined in relation to that local authority set out in column 3 of that schedule opposite the name of that local authority.
 
-## 4. Revenue support grant for 2018-2019[^key-a6831610cdc504e7107a2e1606ca4eb4]
+## 4. Revenue support grant for 2018-2019[^c-a6831610cdc504e7107a2e1606ca4eb4]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2018-2019 are specified in column 1 of schedule 2.
 
 (2) The amount of the revenue support grant payable to each local authority specified in column 1 of schedule 2 in respect of the financial year 2018-2019 is the amount redetermined in relation to that local authority set out in column 2 of that schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-0354762ba208fa612bdf1beb0985ea0a]
+## 5. Revocations[^c-0354762ba208fa612bdf1beb0985ea0a]
 
 Article 2 and column 2 of schedule 1 of the Local Government Finance (Scotland) Order 2018 [^c23632271] (which previously determined the amount of revenue support grant payable to each local authority in respect of the financial year 2018-2019) are revoked.
 
@@ -79,7 +79,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2019-2020[^key-6f6cabb3fa1b5d18616b758217c4e402]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2019-2020[^c-6f6cabb3fa1b5d18616b758217c4e402]
 
 Articles 2 and 3
 
@@ -124,9 +124,9 @@ Articles 2 and 3
 </tbody>
 </table>
 
-[^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3]
+[^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3][^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3]
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2018-2019[^key-dc2de2ab87a3f67c4180832ad4ef7388]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2018-2019[^c-dc2de2ab87a3f67c4180832ad4ef7388]
 
 Article 4
 
@@ -186,20 +186,20 @@ This Order—
 
 [^c23632261]: Marginal citation: [Paragraph 2(3)](https://www.legislation.gov.uk/ssi/2019/90/paragraph/2/3) has been modified by paragraph 6 of schedule 3 of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-b7b413d690a8ac6062cdc228e9f28044]: Commencement: Art. 1 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
+[^c-b7b413d690a8ac6062cdc228e9f28044]: Commencement: Art. 1 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
 
-[^key-c08db6fd83e47f163f191d221d55a3bd]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2019/90/article/2) revoked (27.3.2020) by [The Local Government Finance (Scotland) Order 2020 (S.S.I. 2020/102)](https://www.legislation.gov.uk/ssi/2020/102), [arts. 1](https://www.legislation.gov.uk/ssi/2020/102/article/1), [5](https://www.legislation.gov.uk/ssi/2020/102/article/5)
+[^c-c08db6fd83e47f163f191d221d55a3bd]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2019/90/article/2) revoked (27.3.2020) by [The Local Government Finance (Scotland) Order 2020 (S.S.I. 2020/102)](https://www.legislation.gov.uk/ssi/2020/102), [arts. 1](https://www.legislation.gov.uk/ssi/2020/102/article/1), [5](https://www.legislation.gov.uk/ssi/2020/102/article/5)
 
-[^key-b5342ae8aa61a98647e497ada26c7b45]: Commencement: Art. 3 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
+[^c-b5342ae8aa61a98647e497ada26c7b45]: Commencement: Art. 3 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
 
-[^key-a6831610cdc504e7107a2e1606ca4eb4]: Commencement: Art. 4 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
+[^c-a6831610cdc504e7107a2e1606ca4eb4]: Commencement: Art. 4 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
 
-[^key-0354762ba208fa612bdf1beb0985ea0a]: Commencement: Art. 5 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
+[^c-0354762ba208fa612bdf1beb0985ea0a]: Commencement: Art. 5 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
 
 [^c23632271]: Marginal citation: [S.S.I. 2018/91](https://www.legislation.gov.uk/ssi/2018/91).
 
-[^key-6f6cabb3fa1b5d18616b758217c4e402]: Commencement: Sch. 1 in force at 13.3.2019, see art. 1
+[^c-6f6cabb3fa1b5d18616b758217c4e402]: Commencement: Sch. 1 in force at 13.3.2019, see art. 1
 
-[^key-3d1d5f02c85d9a30d7cfe6dd9748f3c3]: Textual amendment: Words in sch. 1 revoked (27.3.2020) by [The Local Government Finance (Scotland) Order 2020 (S.S.I. 2020/102)](https://www.legislation.gov.uk/ssi/2020/102), [arts. 1](https://www.legislation.gov.uk/ssi/2020/102/article/1), [5](https://www.legislation.gov.uk/ssi/2020/102/article/5)
+[^c-3d1d5f02c85d9a30d7cfe6dd9748f3c3]: Textual amendment: Words in sch. 1 revoked (27.3.2020) by [The Local Government Finance (Scotland) Order 2020 (S.S.I. 2020/102)](https://www.legislation.gov.uk/ssi/2020/102), [arts. 1](https://www.legislation.gov.uk/ssi/2020/102/article/1), [5](https://www.legislation.gov.uk/ssi/2020/102/article/5)
 
-[^key-dc2de2ab87a3f67c4180832ad4ef7388]: Commencement: Sch. 2 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)
+[^c-dc2de2ab87a3f67c4180832ad4ef7388]: Commencement: Sch. 2 in force at 13.3.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1)

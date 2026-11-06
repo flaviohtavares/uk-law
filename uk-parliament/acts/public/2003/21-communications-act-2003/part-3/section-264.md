@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. OFCOM reports on the fulfilment of the public service remit[^key-ba0e8248550056edb48f15a0652828ef]
+## 264. OFCOM reports on the fulfilment of the public service remit[^c-ba0e8248550056edb48f15a0652828ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ to satisfy, for that period, the review and reporting obligations of subsection 
 
 (2) The period selected by OFCOM for the purposes of subsection (1)(b) must be a period of not more than five years beginning with the end of the previous period for which OFCOM have satisfied those review and reporting obligations.
 
-(3)[^key-7fb079ce9d658df874cd9a7dad3b4d1b] The review and reporting obligations for a period are—
+(3)[^c-7fb079ce9d658df874cd9a7dad3b4d1b] The review and reporting obligations for a period are—
 
 - (a) an obligation to carry out a review of the extent to which the public service remit for television in the United Kingdom has, during that period, been fulfilled by the public service broadcasters (taking them all together over the period as a whole); and
 - (b) an obligation, with a view to maintaining and strengthening the quality of the audiovisual content made available in order to fulfil the public service remit for television in the United Kingdom, to prepare a report on the matters found in the review.
@@ -91,7 +91,7 @@ may be received or accessed in intelligible form and free of charge.
 
 (9) In performing their duties under this section, OFCOM must have regard, in particular, to—
 
-- (a) every statement of programme [^key-49a4bb438f2ac6d0221a3a84567daa2b]... policy which has been made by virtue of this Chapter by a public service broadcaster, or which is treated as such a statement;
+- (a) every statement of programme [^c-49a4bb438f2ac6d0221a3a84567daa2b]... policy which has been made by virtue of this Chapter by a public service broadcaster, or which is treated as such a statement;
 - (b) every equivalent statement of policy made by the BBC in pursuance of the BBC Charter and Agreement; and
 - (c) such matters arising at times before the coming into force of this section as OFCOM consider material.
 
@@ -100,11 +100,11 @@ may be received or accessed in intelligible form and free of charge.
 - (a) as soon as practicable after its preparation is complete; and
 - (b) in such manner as they consider appropriate.
 
-(10A)[^key-33315506117aa21f70e65b81cfb724b7] Before making regulations under this section the Secretary of State must consult OFCOM.
+(10A)[^c-33315506117aa21f70e65b81cfb724b7] Before making regulations under this section the Secretary of State must consult OFCOM.
 
 (10B) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(11)[^key-d56ab36f9b2647f717ec4959f376cfa0] The following are relevant audiovisual services for the purposes of this section—
+(11)[^c-d56ab36f9b2647f717ec4959f376cfa0] The following are relevant audiovisual services for the purposes of this section—
 
 - (a) a television broadcasting service;
 - (b) a television licensable content service;
@@ -128,11 +128,11 @@ may be received or accessed in intelligible form and free of charge.
 (12) The following are public service broadcasters for the purposes of this section—
 
 - (a) the BBC;
-- (b) S4C;[^key-008f0ed01e29aa683c5514aea51d0360] and[^key-a952c5008f94196b9e01426b28ff7d14]
-- (c) the providers of the licensed public service channels; [^key-999196b0c193af55745b218cabf4c69b]...
-- (d)[^key-999196b0c193af55745b218cabf4c69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) S4C;[^c-008f0ed01e29aa683c5514aea51d0360] and[^c-a952c5008f94196b9e01426b28ff7d14]
+- (c) the providers of the licensed public service channels; [^c-999196b0c193af55745b218cabf4c69b]...
+- (d)[^c-999196b0c193af55745b218cabf4c69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-10f4df54b4d8d03dccd56fdec324b45e] For the purposes of this section, audiovisual content is made available by a public service broadcaster if—
+(13)[^c-10f4df54b4d8d03dccd56fdec324b45e] For the purposes of this section, audiovisual content is made available by a public service broadcaster if—
 
 - (a) it is provided by means of a relevant audiovisual service provided by the broadcaster, or
 - (b) it is provided by means of a relevant audiovisual service provided by another person, under arrangements made between the broadcaster and that other person.
@@ -161,20 +161,20 @@ may be received or accessed in intelligible form and free of charge.
 
 ## Annotations
 
-[^key-ba0e8248550056edb48f15a0652828ef]: Commencement: S. 264 in force at 25.7.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/1900/article/4))
+[^c-ba0e8248550056edb48f15a0652828ef]: Commencement: S. 264 in force at 25.7.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/1900/article/4))
 
-[^key-7fb079ce9d658df874cd9a7dad3b4d1b]: Textual amendment: [S. 264(3)-(8F)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/3) substituted for s. 264(3)-(8) (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/2), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
+[^c-7fb079ce9d658df874cd9a7dad3b4d1b]: Textual amendment: [S. 264(3)-(8F)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/3) substituted for s. 264(3)-(8) (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/2), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
 
-[^key-49a4bb438f2ac6d0221a3a84567daa2b]: Textual amendment: Words in [s. 264(9)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/9/a) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 37(a)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-49a4bb438f2ac6d0221a3a84567daa2b]: Textual amendment: Words in [s. 264(9)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/9/a) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 37(a)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-33315506117aa21f70e65b81cfb724b7]: Textual amendment: [S. 264(10A)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/10A)[(10B)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/10B) inserted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/3), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
+[^c-33315506117aa21f70e65b81cfb724b7]: Textual amendment: [S. 264(10A)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/10A)[(10B)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/10B) inserted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/3), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
 
-[^key-d56ab36f9b2647f717ec4959f376cfa0]: Textual amendment: [S. 264(11)-(11B)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/11) substituted for [s. 264(11)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/11) (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/4), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
+[^c-d56ab36f9b2647f717ec4959f376cfa0]: Textual amendment: [S. 264(11)-(11B)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/11) substituted for [s. 264(11)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/11) (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/4), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
 
-[^key-008f0ed01e29aa683c5514aea51d0360]: Textual amendment: [S. 264(12)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/12/b) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/35); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-008f0ed01e29aa683c5514aea51d0360]: Textual amendment: [S. 264(12)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/12/b) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/35); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-a952c5008f94196b9e01426b28ff7d14]: Textual amendment: Word in [s. 264(12)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/12/b) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 37(b)(i)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37/b/i); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-a952c5008f94196b9e01426b28ff7d14]: Textual amendment: Word in [s. 264(12)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/12/b) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 37(b)(i)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37/b/i); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-999196b0c193af55745b218cabf4c69b]: Textual amendment: [S. 264(12)(d)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/12/d) and word omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 37(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37/b/ii); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-999196b0c193af55745b218cabf4c69b]: Textual amendment: [S. 264(12)(d)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/12/d) and word omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 37(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37/b/ii); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-10f4df54b4d8d03dccd56fdec324b45e]: Textual amendment: [S. 264(13)-(16)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/13) substituted for [s. 264(13)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/13) (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/5), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)
+[^c-10f4df54b4d8d03dccd56fdec324b45e]: Textual amendment: [S. 264(13)-(16)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/13) substituted for [s. 264(13)](https://www.legislation.gov.uk/ukpga/2003/21/section/264/13) (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/1/5), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/a)

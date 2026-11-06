@@ -39,9 +39,9 @@ Coming into operation
 
 31st January 2001
 
-The Department for Social Development, in exercise of the powers conferred by sections 5(1)(*q*) and 165(1), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Article 40(2) of the Child Support (Northern Ireland) Order 1991[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-51b6f700577143c7d31a8d549999ddfd]
+The Department for Social Development, in exercise of the powers conferred by sections 5(1)(*q*) and 165(1), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Article 40(2) of the Child Support (Northern Ireland) Order 1991[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-51b6f700577143c7d31a8d549999ddfd]
 
-## 1. Citation, commencement and interpretation[^key-76491ceea163e2bbba1c7228144e5991]
+## 1. Citation, commencement and interpretation[^c-76491ceea163e2bbba1c7228144e5991]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 31st January 2001.
 
@@ -49,7 +49,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Claims and Payments Regulations[^key-c58225b85db63cd240f1642b9a965eb2]
+## 2. Amendment of the Claims and Payments Regulations[^c-c58225b85db63cd240f1642b9a965eb2]
 
 (1) The Claims and Payments Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -57,7 +57,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) After Schedule 8B[^f00007] there shall be inserted Schedule 8C as set out in the Schedule to these Regulations.
 
-## 3. Transitional provisions[^key-6e5a930d686f56a360330d6595fce7f1]
+## 3. Transitional provisions[^c-6e5a930d686f56a360330d6595fce7f1]
 
 No deduction shall be made under paragraph 7A or 7B of Schedule 8A[^f00008] to the Claims and Payments Regulations in respect of maintenance to which Schedule 8C applies.
 
@@ -69,11 +69,11 @@ Senior Officer of the
 
 Department for Social Development
 
-## SCHEDULE[^key-b36b18b89b118c8cc72301a247cbc880]
+## SCHEDULE[^c-b36b18b89b118c8cc72301a247cbc880]
 
 Regulation 2(3)
 
-[^key-b36b18b89b118c8cc72301a247cbc880]
+[^c-b36b18b89b118c8cc72301a247cbc880]
 
 > **SCHEDULE 8C — Deductions from benefit in respect of child support maintenance and payment to persons with care**
 >
@@ -153,25 +153,25 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-51b6f700577143c7d31a8d549999ddfd]: Modification: Regulations modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-51b6f700577143c7d31a8d549999ddfd]: Modification: Regulations modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-76491ceea163e2bbba1c7228144e5991]: Commencement: Reg. 1 in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
+[^c-76491ceea163e2bbba1c7228144e5991]: Commencement: Reg. 1 in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending rules are [S.R. 1988 Nos. 67](https://www.legislation.gov.uk/nisr/1988/67) and [141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271), [S.R.1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146), [S.R. 1996 No. 65](https://www.legislation.gov.uk/nisr/1996/65) and [S.R. 1999 Nos. 246 (C.20)](https://www.legislation.gov.uk/nisr/1999/246) and [472 (C.36)](https://www.legislation.gov.uk/nisr/1999/472)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c58225b85db63cd240f1642b9a965eb2]: Commencement: Reg. 2 in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
+[^c-c58225b85db63cd240f1642b9a965eb2]: Commencement: Reg. 2 in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
 
 [^f00006]: Footnote: Regulation 34A(1) was inserted by regulation 2(2) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67) and amended by regulation 7(*a*) of [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141) and regulation 3 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271)
 
 [^f00007]: Footnote: Schedule 8B was inserted by regulation 5 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271)
 
-[^key-6e5a930d686f56a360330d6595fce7f1]: Commencement: Reg. 3 in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
+[^c-6e5a930d686f56a360330d6595fce7f1]: Commencement: Reg. 3 in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
 
 [^f00008]: Footnote: Schedule 8A was inserted by regulation 2(3) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), paragraph 7A was inserted by regulation 2(3) of [S.R. 1993 No. 146](https://www.legislation.gov.uk/nisr/1993/146) and amended by regulation 4 of [S.R. 1996 No. 65](https://www.legislation.gov.uk/nisr/1996/65), Article 5 of [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246) and Article 9(2) and (13)(*b*) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and paragraph 7B was inserted by regulation 2(8)(*b*) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432) and amended by Article 9(2) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
-[^key-b36b18b89b118c8cc72301a247cbc880]: Commencement: Sch. in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
+[^c-b36b18b89b118c8cc72301a247cbc880]: Commencement: Sch. in operation at 31.1.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/22/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph 4 was substituted by section 1(3) of, and Schedule 1 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 

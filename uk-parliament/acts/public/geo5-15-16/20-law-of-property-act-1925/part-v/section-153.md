@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. Enlargement of residue of long terms into fee simple estates.[^c4335151][^key-d207b99cd009aa394601f960c50de4e5][^key-3a34aaf4a99e3e5b4614a8a48c9fc31c]
+## 153. Enlargement of residue of long terms into fee simple estates.[^c4335151][^c-d207b99cd009aa394601f960c50de4e5][^c-3a34aaf4a99e3e5b4614a8a48c9fc31c]
 
 *Extent: E+W*
 
@@ -65,9 +65,9 @@ the estate in fee simple acquired as aforesaid shall, without prejudice to any c
 
 [^c4335151]: Modification: [S. 153](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/153) excluded (26.7.2002) by [Education Act 1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), [Sch. 35A para. 10(1)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/35A/paragraph/10/1) (as inserted (26.7.2002) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 65](https://www.legislation.gov.uk/ukpga/2002/32/section/65), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/7/paragraph/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 2](https://www.legislation.gov.uk/uksi/2002/2002/article/2))
 
-[^key-d207b99cd009aa394601f960c50de4e5]: Modification: [S. 153](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/153) excluded (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/1/paragraph/10/1); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-d207b99cd009aa394601f960c50de4e5]: Modification: [S. 153](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/153) excluded (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/ukpga/2010/32/schedule/1/paragraph/10/1); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
 
-[^key-3a34aaf4a99e3e5b4614a8a48c9fc31c]: Modification: [S. 153](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/153) excluded by 2010 c. 32, Sch. 1 para. 20(1) (as substituted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/1); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5)))
+[^c-3a34aaf4a99e3e5b4614a8a48c9fc31c]: Modification: [S. 153](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/153) excluded by 2010 c. 32, Sch. 1 para. 20(1) (as substituted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/1); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5)))
 
 [^c18369111]: Textual amendment: [S. 153(4)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/153/4) proviso repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 

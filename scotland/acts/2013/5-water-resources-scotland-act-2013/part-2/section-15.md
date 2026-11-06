@@ -26,7 +26,7 @@ summary: ''
 - (b) if the holder—
   - (i) breaches any conditions attached under section 12(1)(b), or
   - (ii) fails to comply with section 13(1), or
-- (c)[^key-00fcd5cb36831f43fc5683cde7c76380] in such other circumstances as they may by regulations prescribe.
+- (c)[^c-00fcd5cb36831f43fc5683cde7c76380] in such other circumstances as they may by regulations prescribe.
 
 (2) Before imposing a suspension or revocation under subsection (1)(b) or (c), the Scottish Ministers must—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00fcd5cb36831f43fc5683cde7c76380]: Commencement: [S. 15(1)(c)](https://www.legislation.gov.uk/asp/2013/5/section/15/1/c) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-00fcd5cb36831f43fc5683cde7c76380]: Commencement: [S. 15(1)(c)](https://www.legislation.gov.uk/asp/2013/5/section/15/1/c) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

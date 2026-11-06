@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Duty to have regard to best regulatory practice[^key-4801f6112544f158c290d72cd03147c0][^key-e3fbf9874d0e06ac672993772902d700]
+## 178. Duty to have regard to best regulatory practice[^c-4801f6112544f158c290d72cd03147c0][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ In each of section 4AA of the Gas Act 1986 (c. 44) and section 3A of the 1989 Ac
 
 ## Annotations
 
-[^key-4801f6112544f158c290d72cd03147c0]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2004/20/section/178) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4801f6112544f158c290d72cd03147c0]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2004/20/section/178) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

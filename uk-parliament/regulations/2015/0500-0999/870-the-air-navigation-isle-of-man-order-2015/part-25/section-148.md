@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Power to prevent third-country aircraft taking off[^key-2da7843694e4b33c6239280871f4594b]
+## 148. Power to prevent third-country aircraft taking off[^c-2da7843694e4b33c6239280871f4594b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ the authorised person must give to the person appearing to be in command of the 
 
 ## Annotations
 
-[^key-2da7843694e4b33c6239280871f4594b]: Commencement: [Art. 148](https://www.legislation.gov.uk/uksi/2015/870/article/148) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-2da7843694e4b33c6239280871f4594b]: Commencement: [Art. 148](https://www.legislation.gov.uk/uksi/2015/870/article/148) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

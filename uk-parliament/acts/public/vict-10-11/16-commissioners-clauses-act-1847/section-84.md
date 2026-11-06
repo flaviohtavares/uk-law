@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Monies borrowed on security of rates to be paid off in a limited period.[^key-c932cb2e4a669a8a1e5790c03ad24649]
+## 84. Monies borrowed on security of rates to be paid off in a limited period.[^c-c932cb2e4a669a8a1e5790c03ad24649]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In order to discharge the principal money borrowed as aforesaid on security of a
 
 ## Annotations
 
-[^key-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-c932cb2e4a669a8a1e5790c03ad24649]: Modification: Ss. 36-92 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
 
 [^c5651711]: Textual amendment: Words in [s. 84](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/84) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. IX](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/IX) Group1

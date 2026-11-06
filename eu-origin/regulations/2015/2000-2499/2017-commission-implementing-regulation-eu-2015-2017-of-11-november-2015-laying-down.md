@@ -35,24 +35,24 @@ laying down implementing technical standards with regard to the adjusted factors
 
 (Text with EEA relevance) (revoked)
 
-[^key-f86b77ed1375c7c766f48500a81a0ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f86b77ed1375c7c766f48500a81a0ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Adjusted factors for currency risk where the local or foreign currency is the euro[^key-f86b77ed1375c7c766f48500a81a0ea2]
+## Article 1. Adjusted factors for currency risk where the local or foreign currency is the euro[^c-f86b77ed1375c7c766f48500a81a0ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Adjusted factors for currency risk where the local and the foreign currency are pegged to the euro[^key-f86b77ed1375c7c766f48500a81a0ea2]
+## Article 2. Adjusted factors for currency risk where the local and the foreign currency are pegged to the euro[^c-f86b77ed1375c7c766f48500a81a0ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-f86b77ed1375c7c766f48500a81a0ea2]
+## Article 3. Entry into force[^c-f86b77ed1375c7c766f48500a81a0ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f86b77ed1375c7c766f48500a81a0ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f86b77ed1375c7c766f48500a81a0ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f86b77ed1375c7c766f48500a81a0ea2]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-f86b77ed1375c7c766f48500a81a0ea2]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

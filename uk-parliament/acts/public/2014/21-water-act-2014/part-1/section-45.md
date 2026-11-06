@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Transfer of undertaking[^key-d11d553e1d9376d65d8094d2e29bce44]
+## 45. Transfer of undertaking[^c-d11d553e1d9376d65d8094d2e29bce44]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d11d553e1d9376d65d8094d2e29bce44]: Commencement: S. 45 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/iv) (with art. 5)
+[^c-d11d553e1d9376d65d8094d2e29bce44]: Commencement: S. 45 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/iv) (with art. 5)

@@ -31,7 +31,7 @@ summary: ''
 
 REPRESENTATION OF THE PEOPLE
 
-The European Parliamentary Elections Regulations 2004 (revoked)[^key-7249282533702cb9d7ab516f38219825]
+The European Parliamentary Elections Regulations 2004 (revoked)[^c-7249282533702cb9d7ab516f38219825]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 23rd March 2004
 
-[^key-7249282533702cb9d7ab516f38219825]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-7249282533702cb9d7ab516f38219825]
+### PART 1 — GENERAL[^c-7249282533702cb9d7ab516f38219825]
 
 *Extent: E+W+S*
 
@@ -83,14 +83,14 @@ Coming into force
 - [Section 29 — Requirement of secrecy](part-1/section-29.md)
 - [Section 30 — Prohibition on publication of exit polls](part-1/section-30.md)
 
-### PART 2 — THE ELECTION CAMPAIGN[^key-7249282533702cb9d7ab516f38219825]
+### PART 2 — THE ELECTION CAMPAIGN[^c-7249282533702cb9d7ab516f38219825]
 
 **No longer in force.**
 
 - [Section 31 — Interpretation of Part 2](part-2/section-31.md)
 - [Section 32 — Computation of time for purposes of Part 2](part-2/section-32.md)
 
-#### Election agents of registered parties[^key-7249282533702cb9d7ab516f38219825]
+#### Election agents of registered parties[^c-7249282533702cb9d7ab516f38219825]
 
 **No longer in force.**
 
@@ -100,7 +100,7 @@ Coming into force
 - [Section 36 — Office of agents of registered parties](part-2/section-36.md)
 - [Section 37 — Effect of default in appointment of agents of registered parties](part-2/section-37.md)
 
-#### Election agents of individual candidates[^key-7249282533702cb9d7ab516f38219825]
+#### Election agents of individual candidates[^c-7249282533702cb9d7ab516f38219825]
 
 **No longer in force.**
 
@@ -109,7 +109,7 @@ Coming into force
 - [Section 40 — Office of election agent and sub-agent for individual candidate](part-2/section-40.md)
 - [Section 41 — Effect of default in election agent’s appointment](part-2/section-41.md)
 
-#### Election expenses[^key-7249282533702cb9d7ab516f38219825]
+#### Election expenses[^c-7249282533702cb9d7ab516f38219825]
 
 **No longer in force.**
 
@@ -134,7 +134,7 @@ Coming into force
 - [Section 60 — Meaning of “election expenses”](part-2/section-60.md)
 - [Section 62 — Property, goods, services etc provided free of charge or at a discount](part-2/section-62.md)
 
-#### General[^key-7249282533702cb9d7ab516f38219825]
+#### General[^c-7249282533702cb9d7ab516f38219825]
 
 **No longer in force.**
 
@@ -158,7 +158,7 @@ Coming into force
 - [Section 80 — Rights of creditors](part-2/section-80.md)
 - [Section 81 — Savings as to European Parliamentary elections](part-2/section-81.md)
 
-### PART 3 — VACANCIES[^key-7249282533702cb9d7ab516f38219825]
+### PART 3 — VACANCIES[^c-7249282533702cb9d7ab516f38219825]
 
 *Extent: E+W+S*
 
@@ -177,7 +177,7 @@ Coming into force
 - [Section 85 — When a by-election is not needed](part-3/section-85.md)
 - [Section 85A — Relevant citizens of the Union](part-3/section-85a.md)
 
-### PART 4 — LEGAL PROCEEDINGS[^key-7249282533702cb9d7ab516f38219825]
+### PART 4 — LEGAL PROCEEDINGS[^c-7249282533702cb9d7ab516f38219825]
 
 *Extent: E+W+S*
 
@@ -221,7 +221,7 @@ Coming into force
 - [Section 121 — Costs](part-4/section-121.md)
 - [Section 122 — Services of notices](part-4/section-122.md)
 
-### PART 5 — MISCELLANEOUS[^key-7249282533702cb9d7ab516f38219825]
+### PART 5 — MISCELLANEOUS[^c-7249282533702cb9d7ab516f38219825]
 
 *Extent: E+W+S*
 
@@ -249,14 +249,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-7249282533702cb9d7ab516f38219825]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-7249282533702cb9d7ab516f38219825]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7249282533702cb9d7ab516f38219825]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7249282533702cb9d7ab516f38219825]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/293) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7249282533702cb9d7ab516f38219825]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/293) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

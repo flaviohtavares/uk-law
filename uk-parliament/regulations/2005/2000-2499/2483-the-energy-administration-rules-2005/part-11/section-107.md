@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Orders enforcing compliance with the Rules[^key-70c88e89a9459cccaacdb37147d56180]
+## 107. Orders enforcing compliance with the Rules[^c-70c88e89a9459cccaacdb37147d56180]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70c88e89a9459cccaacdb37147d56180]: Commencement: Rule 107 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-70c88e89a9459cccaacdb37147d56180]: Commencement: Rule 107 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00018]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 235 amended by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 17, paragraph 24.

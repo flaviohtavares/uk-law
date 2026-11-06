@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Review of earnings trigger and qualifying earnings band[^c2114362][^key-43539e4ca9336f863b3ab06378b04f6c]
+## 8. Review of earnings trigger and qualifying earnings band[^c2114362][^c-43539e4ca9336f863b3ab06378b04f6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c2114362]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-43539e4ca9336f863b3ab06378b04f6c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/19/section/8) in force at 3.1.2012 in so far as not already in force by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/a)
+[^c-43539e4ca9336f863b3ab06378b04f6c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/19/section/8) in force at 3.1.2012 in so far as not already in force by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/a)

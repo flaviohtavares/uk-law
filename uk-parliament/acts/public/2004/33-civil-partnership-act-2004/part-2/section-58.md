@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any person may apply to the High Court or the family court[^key-74678bc0f65a3a4feee0b5d868edf1eb] for one or more of the following declarations in relation to a civil partnership specified in the application—
+(1) Any person may apply to the High Court or the family court[^c-74678bc0f65a3a4feee0b5d868edf1eb] for one or more of the following declarations in relation to a civil partnership specified in the application—
 
 - (a) a declaration that the civil partnership was at its inception a valid civil partnership;
 - (b) a declaration that the civil partnership subsisted on a date specified in the application;
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74678bc0f65a3a4feee0b5d868edf1eb]: Textual amendment: Words in s. 58 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 164](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/164); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-74678bc0f65a3a4feee0b5d868edf1eb]: Textual amendment: Words in s. 58 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 164](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/164); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

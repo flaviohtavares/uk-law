@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Counter-notice[^key-44c9e716ca768220d975ffe21126906b]
+## 224. Counter-notice[^c-44c9e716ca768220d975ffe21126906b]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ and provision made under this subsection shall have effect.
 
 ## Annotations
 
-[^key-44c9e716ca768220d975ffe21126906b]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2005/19/section/224) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-44c9e716ca768220d975ffe21126906b]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2005/19/section/224) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Commission Regulation (EU) No 206/2010 laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements[^key-8be656d68757a5be4503534ce15621d3]
+## 56. Commission Regulation (EU) No 206/2010 laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements[^c-8be656d68757a5be4503534ce15621d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -300,4 +300,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8be656d68757a5be4503534ce15621d3]: Commencement: Reg. 56 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-8be656d68757a5be4503534ce15621d3]: Commencement: Reg. 56 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

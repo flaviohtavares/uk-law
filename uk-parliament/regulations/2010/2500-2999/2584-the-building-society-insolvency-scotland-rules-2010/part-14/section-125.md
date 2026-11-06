@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Information about time spent on a case[^key-8aa721b9c6ec15f34fe6f55c97611dc4]
+## 125. Information about time spent on a case[^c-8aa721b9c6ec15f34fe6f55c97611dc4]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.36 of the 1986 Rules[^f00060].
 
 ## Annotations
 
-[^key-8aa721b9c6ec15f34fe6f55c97611dc4]: Commencement: Rule 125 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-8aa721b9c6ec15f34fe6f55c97611dc4]: Commencement: Rule 125 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00060]: Footnote: Rule 7.36 was inserted by rule 5 of [S.S.I. 2008/393](https://www.legislation.gov.uk/ssi/2008/393).

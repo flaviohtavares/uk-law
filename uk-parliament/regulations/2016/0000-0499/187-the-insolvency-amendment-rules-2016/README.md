@@ -32,7 +32,7 @@ This Statutory Instrument has been printed in substitution of the SI of the same
 
 Insolvency, England And Wales
 
-The Insolvency (Amendment) Rules 2016 (revoked)[^key-bd501c9d146419a67e9c6b1502191b9c]
+The Insolvency (Amendment) Rules 2016 (revoked)[^c-bd501c9d146419a67e9c6b1502191b9c]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 6th April 2016
 
-[^key-bd501c9d146419a67e9c6b1502191b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd501c9d146419a67e9c6b1502191b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -71,12 +71,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-bd501c9d146419a67e9c6b1502191b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd501c9d146419a67e9c6b1502191b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-bd501c9d146419a67e9c6b1502191b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd501c9d146419a67e9c6b1502191b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd501c9d146419a67e9c6b1502191b9c]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/187) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(2)(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-bd501c9d146419a67e9c6b1502191b9c]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/187) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(2)(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

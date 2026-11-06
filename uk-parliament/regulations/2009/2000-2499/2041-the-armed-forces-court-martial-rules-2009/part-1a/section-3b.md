@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3B. The duty of the participants in a case[^key-c2caccb7da5dcfc31a1b6246876f1e87]
+## 3B. The duty of the participants in a case[^c-c2caccb7da5dcfc31a1b6246876f1e87]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2caccb7da5dcfc31a1b6246876f1e87]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/2041/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1263/rule/4)
+[^c-c2caccb7da5dcfc31a1b6246876f1e87]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/2041/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1263/rule/4)

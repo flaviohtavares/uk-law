@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10C. Power to make provision supplemental to section 10A[^key-fbdbc2d3a0731b1b5763a12d14ff5a23]
+## 10C. Power to make provision supplemental to section 10A[^c-fbdbc2d3a0731b1b5763a12d14ff5a23]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 ## Annotations
 
-[^key-fbdbc2d3a0731b1b5763a12d14ff5a23]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/ukpga/1968/73/section/10A) inserted (E.W.) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/12/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-fbdbc2d3a0731b1b5763a12d14ff5a23]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/ukpga/1968/73/section/10A) inserted (E.W.) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/12/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)

@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Animal By-Products (Scotland) Amendment Regulations 2009 (revoked)[^key-15579a2a4541e45d6898f17546664a0a]
+The Animal By-Products (Scotland) Amendment Regulations 2009 (revoked)[^c-15579a2a4541e45d6898f17546664a0a]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 13th February 2009
 
-[^key-15579a2a4541e45d6898f17546664a0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15579a2a4541e45d6898f17546664a0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-15579a2a4541e45d6898f17546664a0a]
+## 1. Citation and commencement[^c-15579a2a4541e45d6898f17546664a0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Animal By-Products (Scotland) Regulations 2003[^key-15579a2a4541e45d6898f17546664a0a]
+## 2. Amendment of the Animal By-Products (Scotland) Regulations 2003[^c-15579a2a4541e45d6898f17546664a0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-15579a2a4541e45d6898f17546664a0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15579a2a4541e45d6898f17546664a0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-15579a2a4541e45d6898f17546664a0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-15579a2a4541e45d6898f17546664a0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-15579a2a4541e45d6898f17546664a0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/7) revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3)
+[^c-15579a2a4541e45d6898f17546664a0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/7) revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3)

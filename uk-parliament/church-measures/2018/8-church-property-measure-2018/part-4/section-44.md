@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 44. Chancel repair liability of PCCs[^key-edda5664ad84936f598380403f27f676]
+## 44. Chancel repair liability of PCCs[^c-edda5664ad84936f598380403f27f676]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Each PCC continues to have the liability which it had immediately before the com
 
 ## Annotations
 
-[^key-edda5664ad84936f598380403f27f676]: Commencement: [S. 44](https://www.legislation.gov.uk/ukcm/2018/8/section/44) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-edda5664ad84936f598380403f27f676]: Commencement: [S. 44](https://www.legislation.gov.uk/ukcm/2018/8/section/44) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 588. Meaning of “employee” , “former civil partner and “ex-spouse”[^key-1ebad039c58ff5e430d779694bf11d9f]
+## 588. Meaning of “employee” , “former civil partner and “ex-spouse”[^c-1ebad039c58ff5e430d779694bf11d9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ebad039c58ff5e430d779694bf11d9f]: Textual amendment: Words in s. 588 heading inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [157(3)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/157/3)
+[^c-1ebad039c58ff5e430d779694bf11d9f]: Textual amendment: Words in s. 588 heading inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [157(3)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/157/3)

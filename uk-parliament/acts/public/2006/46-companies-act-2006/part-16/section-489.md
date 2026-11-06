@@ -39,10 +39,10 @@ summary: ''
 (5) An auditor or auditors of a public company may only be appointed—
 
 - (a) in accordance with this section, or
-- (b) in accordance with section 490 or 490A[^key-72bce9da1c844d7c84d28a8f48702720] (default power of Secretary of State).
+- (b) in accordance with section 490 or 490A[^c-72bce9da1c844d7c84d28a8f48702720] (default power of Secretary of State).
 
 ## Annotations
 
 [^c20617731]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-72bce9da1c844d7c84d28a8f48702720]: Textual amendment: Words in s. 489(5)(b) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/17) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-72bce9da1c844d7c84d28a8f48702720]: Textual amendment: Words in s. 489(5)(b) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/17) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

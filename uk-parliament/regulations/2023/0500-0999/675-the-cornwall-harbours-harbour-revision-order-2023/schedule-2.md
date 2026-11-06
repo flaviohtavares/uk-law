@@ -22,13 +22,13 @@ summary: ''
 
 Article 12
 
-### 1. Meetings of the Board[^key-5fdda40ddf93d526d8449c19195c93cb]
+### 1. Meetings of the Board[^c-5fdda40ddf93d526d8449c19195c93cb]
 
 (1) The first meeting of the Board on or after the date on which it is first established under article 6 (establishment of a Board) must be convened by the Council as soon as reasonably practicable on or after that date and the Council must send notice of that meeting to each of the members of the Board.
 
 (2) The Board must meet a minimum of four times in each year.
 
-### 2. Chair and vice-chair of Board[^key-12eaacdf7957ce4b9d9b9ce1447cfa21]
+### 2. Chair and vice-chair of Board[^c-12eaacdf7957ce4b9d9b9ce1447cfa21]
 
 (1) The chair to be appointed by the Board must be a member of the Council appointed under article 7(1)(a).
 
@@ -52,13 +52,13 @@ Article 12
 
 (11) If at a meeting of the Board neither the chair nor the vice-chair is present the members of the Board present must choose one of their number to be chair of the meeting.
 
-### 3. Vacation of office by a member of the Board[^key-216c93eade0de83d9a8cebd6414697fc]
+### 3. Vacation of office by a member of the Board[^c-216c93eade0de83d9a8cebd6414697fc]
 
 (1) A member of the Board may resign that office at any time by giving notice in writing to the chair or if that member of the Board is the chair, the vice-chair.
 
 (2) Any vacancy created by a member of the Board resigning must be treated as a casual vacancy.
 
-### 4. Reappointment of chair[^key-d7452434dd9e8296ad1445afedbad5ec]
+### 4. Reappointment of chair[^c-d7452434dd9e8296ad1445afedbad5ec]
 
 (1) A chair of the Board who has served as the chair for three consecutive terms immediately beforehand is not eligible for reappointment as the chair.
 
@@ -67,7 +67,7 @@ Article 12
 - (a) a term served by the member of the Board as the chair under paragraph 2(2);
 - (b) the remainder of a term during which the chair was appointed to fill a casual vacancy in the office of the chair under paragraph 3.
 
-### 5. Proceedings of meeting of the Board[^key-daffcc120f02d3b1ff25607a8440b51f]
+### 5. Proceedings of meeting of the Board[^c-daffcc120f02d3b1ff25607a8440b51f]
 
 (1) Every decision at a meeting of the Board must be decided by a majority vote of the Board members present and voting.
 
@@ -105,7 +105,7 @@ must declare that interest.
 - (b) arises in respect of the provision of harbour services or facilities affecting the trading community in general;
 - (c) the members of the Board present at the meeting by resolution declare to be too remote.
 
-### 6. Validity of acts of the Board[^key-94795fc49be54085444f7406d91462ca]
+### 6. Validity of acts of the Board[^c-94795fc49be54085444f7406d91462ca]
 
 (1) The Board may act notwithstanding a vacancy among the membership of the Board.
 
@@ -116,38 +116,38 @@ must declare that interest.
   - (i) a member of the Board,
   - (ii) chair or vice-chair of the Board.
 
-### 7. Remuneration of members of the Board[^key-ddd2a19251cdb29833bf90bfd47b475d]
+### 7. Remuneration of members of the Board[^c-ddd2a19251cdb29833bf90bfd47b475d]
 
 The Council may pay to the chair, vice-chair and other Board members such special attendance allowance and other expenses as the Council may from time to time determine.
 
-### 8. Role of the Board[^key-9654f1e385d997a45c0901ab5245587a]
+### 8. Role of the Board[^c-9654f1e385d997a45c0901ab5245587a]
 
 The Board shall be responsible for those matters set out in the Cornwall Harbours Board Memorandum of Understanding in force from time to time.
 
-**9.**[^key-14b1d7c6432df679ac21b31430104da1] No substantial amendment to the responsibilities of the Board under the Cornwall Harbours Board Memorandum of Understanding shall be made without first consulting with the Secretary of State.
+**9.**[^c-14b1d7c6432df679ac21b31430104da1] No substantial amendment to the responsibilities of the Board under the Cornwall Harbours Board Memorandum of Understanding shall be made without first consulting with the Secretary of State.
 
-### 10. General[^key-9a442fec180e151f37785fb6502ab799]
+### 10. General[^c-9a442fec180e151f37785fb6502ab799]
 
 Subject to the provisions of this Schedule and the constitution of the Council, the procedure of the meetings of the Board is to be regulated in such manner as the Board may determine.
 
 ## Annotations
 
-[^key-5fdda40ddf93d526d8449c19195c93cb]: Commencement: Sch. 2 para. 1 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-5fdda40ddf93d526d8449c19195c93cb]: Commencement: Sch. 2 para. 1 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-12eaacdf7957ce4b9d9b9ce1447cfa21]: Commencement: Sch. 2 para. 2 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-12eaacdf7957ce4b9d9b9ce1447cfa21]: Commencement: Sch. 2 para. 2 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-216c93eade0de83d9a8cebd6414697fc]: Commencement: Sch. 2 para. 3 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-216c93eade0de83d9a8cebd6414697fc]: Commencement: Sch. 2 para. 3 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-d7452434dd9e8296ad1445afedbad5ec]: Commencement: Sch. 2 para. 4 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-d7452434dd9e8296ad1445afedbad5ec]: Commencement: Sch. 2 para. 4 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-daffcc120f02d3b1ff25607a8440b51f]: Commencement: Sch. 2 para. 5 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-daffcc120f02d3b1ff25607a8440b51f]: Commencement: Sch. 2 para. 5 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-94795fc49be54085444f7406d91462ca]: Commencement: Sch. 2 para. 6 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-94795fc49be54085444f7406d91462ca]: Commencement: Sch. 2 para. 6 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-ddd2a19251cdb29833bf90bfd47b475d]: Commencement: Sch. 2 para. 7 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-ddd2a19251cdb29833bf90bfd47b475d]: Commencement: Sch. 2 para. 7 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-9654f1e385d997a45c0901ab5245587a]: Commencement: Sch. 2 para. 8 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-9654f1e385d997a45c0901ab5245587a]: Commencement: Sch. 2 para. 8 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-14b1d7c6432df679ac21b31430104da1]: Commencement: Sch. 2 para. 9 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-14b1d7c6432df679ac21b31430104da1]: Commencement: Sch. 2 para. 9 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
-[^key-9a442fec180e151f37785fb6502ab799]: Commencement: Sch. 2 para. 10 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-9a442fec180e151f37785fb6502ab799]: Commencement: Sch. 2 para. 10 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

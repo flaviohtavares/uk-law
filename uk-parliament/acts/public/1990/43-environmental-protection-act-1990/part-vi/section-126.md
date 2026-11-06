@@ -45,10 +45,10 @@ summary: ''
 - “**the Agency**” means the Food Standards Agency; and
 - “**the Minister**” means the Minister of Agriculture, Fisheries and Food.
 
-(9)[^key-bbdb50d9f6874d0716baecf6387c80f0] In the application of this section to Scotland, the reference in subsection (8) to the Food Standards Agency is to be read as a reference to Food Standards Scotland.
+(9)[^c-bbdb50d9f6874d0716baecf6387c80f0] In the application of this section to Scotland, the reference in subsection (8) to the Food Standards Agency is to be read as a reference to Food Standards Scotland.
 
 ## Annotations
 
 [^c13747341]: Textual amendment: S. 126 substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 18](https://www.legislation.gov.uk/ukpga/1999/28/section/18), [Sch. 3 Pt. III para. 18](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/III/paragraph/18) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-bbdb50d9f6874d0716baecf6387c80f0]: Textual amendment: [S. 126(9)](https://www.legislation.gov.uk/ukpga/1990/43/section/126/9) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 4(4)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4/4) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-bbdb50d9f6874d0716baecf6387c80f0]: Textual amendment: [S. 126(9)](https://www.legislation.gov.uk/ukpga/1990/43/section/126/9) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 4(4)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/4/4) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

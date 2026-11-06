@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Designation of Institutions of Higher Education (The Scottish Agricultural College) (Scotland) Order 2008 (revoked)[^key-ab27baf85814653c1ff9d89dc8f0ac8f]
+The Designation of Institutions of Higher Education (The Scottish Agricultural College) (Scotland) Order 2008 (revoked)[^c-ab27baf85814653c1ff9d89dc8f0ac8f]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st June 2008
 
-[^key-ab27baf85814653c1ff9d89dc8f0ac8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab27baf85814653c1ff9d89dc8f0ac8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-ab27baf85814653c1ff9d89dc8f0ac8f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Designation of The Scottish Agricultural College[^key-ab27baf85814653c1ff9d89dc8f0ac8f]
+## 1. Citation and commencement[^c-ab27baf85814653c1ff9d89dc8f0ac8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of Regulations[^key-ab27baf85814653c1ff9d89dc8f0ac8f]
+## 2. Designation of The Scottish Agricultural College[^c-ab27baf85814653c1ff9d89dc8f0ac8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab27baf85814653c1ff9d89dc8f0ac8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 3. Revocation of Regulations[^c-ab27baf85814653c1ff9d89dc8f0ac8f]
 
-[^key-ab27baf85814653c1ff9d89dc8f0ac8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ab27baf85814653c1ff9d89dc8f0ac8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ab27baf85814653c1ff9d89dc8f0ac8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab27baf85814653c1ff9d89dc8f0ac8f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/163) revoked (31.5.2008) by [The Designation of Institutions of Higher Education (The Scottish Agricultural College) (Scotland) (No. 2) Order 2008 (S.S.I. 2008/177)](https://www.legislation.gov.uk/ssi/2008/177), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2008/177/article/1/2), [3](https://www.legislation.gov.uk/ssi/2008/177/article/3)
+[^c-ab27baf85814653c1ff9d89dc8f0ac8f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/163) revoked (31.5.2008) by [The Designation of Institutions of Higher Education (The Scottish Agricultural College) (Scotland) (No. 2) Order 2008 (S.S.I. 2008/177)](https://www.legislation.gov.uk/ssi/2008/177), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2008/177/article/1/2), [3](https://www.legislation.gov.uk/ssi/2008/177/article/3)

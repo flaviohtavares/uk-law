@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47C. Collective proceedings: damages and costs[^key-424f4e2840d6d1f43d52fcef72ce850c][^key-b0968a66deec580ade35eafa71c51dbd][^key-bf1a8eef7a6eb8e02985f33da985f18d]
+## 47C. Collective proceedings: damages and costs[^c-424f4e2840d6d1f43d52fcef72ce850c][^c-b0968a66deec580ade35eafa71c51dbd][^c-bf1a8eef7a6eb8e02985f33da985f18d]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f945f8d7b279d2af20e1047c7a61591e] The Tribunal may not award exemplary damages in collective proceedings.
+(1)[^c-f945f8d7b279d2af20e1047c7a61591e] The Tribunal may not award exemplary damages in collective proceedings.
 
 (2) The Tribunal may make an award of damages in collective proceedings without undertaking an assessment of the amount of damages recoverable in respect of the claim of each represented person.
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-424f4e2840d6d1f43d52fcef72ce850c]: Modification: Ss. 46-49 applied in part (31.10.2023) by [The Transport (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2023 (S.I. 2023/80)](https://www.legislation.gov.uk/uksi/2023/80), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/80/article/1/3), [22](https://www.legislation.gov.uk/uksi/2023/80/article/22)
+[^c-424f4e2840d6d1f43d52fcef72ce850c]: Modification: Ss. 46-49 applied in part (31.10.2023) by [The Transport (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2023 (S.I. 2023/80)](https://www.legislation.gov.uk/uksi/2023/80), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/80/article/1/3), [22](https://www.legislation.gov.uk/uksi/2023/80/article/22)
 
-[^key-b0968a66deec580ade35eafa71c51dbd]: Textual amendment: S. 47C inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/6); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-b0968a66deec580ade35eafa71c51dbd]: Textual amendment: S. 47C inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/6); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-f945f8d7b279d2af20e1047c7a61591e]: Textual amendment: S. 47C(1) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/126/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [s. 126(3)-(5)](https://www.legislation.gov.uk/ukpga/2024/13/section/126/3)); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-f945f8d7b279d2af20e1047c7a61591e]: Textual amendment: S. 47C(1) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/126/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [s. 126(3)-(5)](https://www.legislation.gov.uk/ukpga/2024/13/section/126/3)); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

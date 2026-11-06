@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Qualifying schemes[^key-cfaa1660ae92ad49d8c2955a7c358c20]
+## 27. Qualifying schemes[^c-cfaa1660ae92ad49d8c2955a7c358c20]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfaa1660ae92ad49d8c2955a7c358c20]: Commencement: Reg. 27 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-cfaa1660ae92ad49d8c2955a7c358c20]: Commencement: Reg. 27 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00028]: Footnote: The term “qualifying benefits” is explained in section 53 of the Pension Schemes Act 2021

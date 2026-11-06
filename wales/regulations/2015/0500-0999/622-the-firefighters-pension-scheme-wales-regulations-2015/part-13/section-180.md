@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Limitation on assignment of benefits[^key-80e0b1c834243d40cdecf413e69c9354]
+## 180. Limitation on assignment of benefits[^c-80e0b1c834243d40cdecf413e69c9354]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An assignment of an award under these Regulations is void to the extent that it 
 
 ## Annotations
 
-[^key-80e0b1c834243d40cdecf413e69c9354]: Commencement: Reg. 180 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-80e0b1c834243d40cdecf413e69c9354]: Commencement: Reg. 180 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

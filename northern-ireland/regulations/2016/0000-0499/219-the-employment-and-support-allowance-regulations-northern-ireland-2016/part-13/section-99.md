@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Relevant week[^key-615afe6823dcb104b686539e4e40098e]
+## 99. Relevant week[^c-615afe6823dcb104b686539e4e40098e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-615afe6823dcb104b686539e4e40098e]: Commencement: [Reg. 99](https://www.legislation.gov.uk/nisr/2016/219/regulation/99) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-615afe6823dcb104b686539e4e40098e]: Commencement: [Reg. 99](https://www.legislation.gov.uk/nisr/2016/219/regulation/99) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

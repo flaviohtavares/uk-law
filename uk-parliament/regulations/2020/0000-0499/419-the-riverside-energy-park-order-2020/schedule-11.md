@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-9a48e47e1c518f06e0fcd52931c427bd]
+## SCHEDULE 11 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-9a48e47e1c518f06e0fcd52931c427bd]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ Article 40
 
 ## Annotations
 
-[^key-9a48e47e1c518f06e0fcd52931c427bd]: Commencement: Sch. 11 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-9a48e47e1c518f06e0fcd52931c427bd]: Commencement: Sch. 11 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

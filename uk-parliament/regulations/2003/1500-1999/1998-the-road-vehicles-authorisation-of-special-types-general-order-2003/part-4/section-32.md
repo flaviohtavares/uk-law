@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Local excavation vehicles: recognised category[^key-cb0fd42e82a68d10cb74488e1b11bfa8]
+## 32. Local excavation vehicles: recognised category[^c-cb0fd42e82a68d10cb74488e1b11bfa8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb0fd42e82a68d10cb74488e1b11bfa8]: Commencement: Art. 32 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-cb0fd42e82a68d10cb74488e1b11bfa8]: Commencement: Art. 32 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

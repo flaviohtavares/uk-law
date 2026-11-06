@@ -54,7 +54,7 @@ Provided that—
 
 (3) An authority exercising powers under this section, . . . [^c592967], is hereafter in this Act referred to as a “civic restaurant authority”.
 
-(4) A civic restaurant authority shall, in carrying on any activities under this section, be subject to all enactments and rules of law relating thereto, including, in England and Wales, the Licensing Act 2003 and any other enactment relating to the sale of intoxicating liquor[^key-35be3fe0cd23cfabb1ba4ce3858c533c], in like manner as other persons carrying on the like activities.
+(4) A civic restaurant authority shall, in carrying on any activities under this section, be subject to all enactments and rules of law relating thereto, including, in England and Wales, the Licensing Act 2003 and any other enactment relating to the sale of intoxicating liquor[^c-35be3fe0cd23cfabb1ba4ce3858c533c], in like manner as other persons carrying on the like activities.
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c592968]
 
@@ -107,7 +107,7 @@ Provided that—
 
 [^c592967]: Textual amendment: Words repealed (E.W.) by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30) and (S.) by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-35be3fe0cd23cfabb1ba4ce3858c533c]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/22/section/1/4) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/18) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-35be3fe0cd23cfabb1ba4ce3858c533c]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/22/section/1/4) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/18) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
 [^c592968]: Textual amendment: [Ss. 1(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/22/section/1/2), [2](https://www.legislation.gov.uk/ukpga/Geo6/10-11/22/section/2) repealed (E.W.) by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30) and (S.) by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 

@@ -48,18 +48,18 @@ Coming into force
 
 The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the following Rules in exercise of the powers conferred by section 144 of the Magistrates’ Courts Act 1980[^f00001]:
 
-## 1. Citation and commencement[^key-c0f1fdcc8d435901d4fc5a27d9dc4ccd]
+## 1. Citation and commencement[^c-c0f1fdcc8d435901d4fc5a27d9dc4ccd]
 
 These Rules may be cited as the Magistrates’ Courts (Freezing and Forfeiture of Money in Bank and Building Society Accounts) Rules 2017, and come into force on 31st January 2018.
 
-## 2. Interpretation[^key-05500368e0b63bd90cd6404dba693429]
+## 2. Interpretation[^c-05500368e0b63bd90cd6404dba693429]
 
 In these Rules—
 
 - (a) “the Act” means the Proceeds of Crime Act 2002[^f00002];
 - (b) “document” includes any notification required to be given under these Rules;
 - (c) “electronic communication” has the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00003];
-- (ca)[^key-9a0e3ed1ee165cb5157814218c3a663e] “**freezing order**” means an order made under—
+- (ca)[^c-9a0e3ed1ee165cb5157814218c3a663e] “**freezing order**” means an order made under—
   - (i) section 303Z3(2) of the Act (account freezing orders);
   - (ii) section 303Z37(2) of the Act (crypto wallet freezing orders);
 - (cb) “**order for further detention**” means an order made under—
@@ -67,11 +67,11 @@ In these Rules—
   - (ii) section 303l(1) of the Act (further detention of seized property);
   - (iii) section 303Z28(1) or (4) of the Act (further detention of cryptoasset related items);
   - (iv) section 303Z32(1) or (4) of the Act (further detention of cryptoassets).
-- (d) words and expressions used otherwise have the same meaning as in Chapter 3B[^key-5246f2a31cf52034a6f02372cc440211] of Part 5 of the Act.
+- (d) words and expressions used otherwise have the same meaning as in Chapter 3B[^c-5246f2a31cf52034a6f02372cc440211] of Part 5 of the Act.
 
-## 3. Application for account freezing order[^key-fa9fb18d0b2b8f92abf672c9dd1ad699]
+## 3. Application for account freezing order[^c-fa9fb18d0b2b8f92abf672c9dd1ad699]
 
-(1) An application under section 303Z1(2) of the Act for an order under section[^key-c8a87b39e800f732ccd4cfc2cb037eea] 303Z3(2) of the Act for an account freezing order must be made in writing and may be sent to the court before which the applicant wishes to make the application.
+(1) An application under section 303Z1(2) of the Act for an order under section[^c-c8a87b39e800f732ccd4cfc2cb037eea] 303Z3(2) of the Act for an account freezing order must be made in writing and may be sent to the court before which the applicant wishes to make the application.
 
 (2) But where the reasonable grounds for suspicion which led to an application under section 303Z1(2) of the Act are connected to—
 
@@ -80,7 +80,7 @@ In these Rules—
 
 then the application must specify the connection to any such previous order and the application may be sent to any court which made a previous order listed in sub-paragraph (a) or (b).
 
-(3) Except where the application is made without notice,[^key-37de8d6a58b0f43be08d054434503d4f] a copy of the written application and notification of the hearing of the application must be given by the applicant to any person by or for whom the account which is the subject of the application is operated.
+(3) Except where the application is made without notice,[^c-37de8d6a58b0f43be08d054434503d4f] a copy of the written application and notification of the hearing of the application must be given by the applicant to any person by or for whom the account which is the subject of the application is operated.
 
 (4) But the applicant is not required to send copies of the written application and notification of the hearing to any person by or for whom the account is operated who cannot be identified.
 
@@ -93,9 +93,9 @@ then the application must specify the connection to any such previous order and 
 - (a) notice of the order; and
 - (b) a copy of the order,
 
-to any person by or for whom the account which is the subject of the application is operated and to any other person known to be affected by the order, including the relevant financial institution[^key-62c3b0e1ae7cef064c437a29306ec843].
+to any person by or for whom the account which is the subject of the application is operated and to any other person known to be affected by the order, including the relevant financial institution[^c-62c3b0e1ae7cef064c437a29306ec843].
 
-## 4. Application for the variation or setting aside of an account freezing order[^key-4ab0c150d7b00679247e5e3a8b847e24]
+## 4. Application for the variation or setting aside of an account freezing order[^c-4ab0c150d7b00679247e5e3a8b847e24]
 
 (1) An application under section 303Z4(1) of the Act to vary or set aside an account freezing order under section 303Z3 of the Act must be made in writing to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
 
@@ -116,7 +116,7 @@ to any person by or for whom the account which is the subject of the application
 
 to any person other than one referred to in paragraph (4) who is known to be affected by the order.
 
-## 4A. Application for the release of frozen money[^key-d8d5af1d5974332b30fbbc7f92a13d6e]
+## 4A. Application for the release of frozen money[^c-d8d5af1d5974332b30fbbc7f92a13d6e]
 
 (1) An application under section 303Z17A(1) of the Act for the release of money in respect of which an account freezing order has effect must be made in writing and sent to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
 
@@ -143,11 +143,11 @@ to any person other than one referred to in paragraph (4) who is known to be aff
 
 (6) An order under section 303Z17A(4) or (5) must provide for the release of the money within seven days of the making of the order or such longer period as with the agreement of the applicant may be specified in the order, except that money may not be released whilst section 303Z17A(8) applies.
 
-## 5. Application for forfeiture of frozen money[^key-9d801ba9ec1e60634d3d8d6fc10b7037]
+## 5. Application for forfeiture of frozen money[^c-9d801ba9ec1e60634d3d8d6fc10b7037]
 
 (1) An application under section 303Z14(2) of the Act for the forfeiture of money held in a frozen account must be made in writing and may be sent to the court to which the application for the account freezing order under section 303Z3 of the Act has been sent.
 
-(2) But where the reasonable grounds for suspicion which led to the application under section 303Z14(2) of the Act are connected to the reasonable grounds for suspicion which led to the seizure of other property to which a previous order for further detention[^key-da4de1779eeb3188f9282334301a10ed] relates—
+(2) But where the reasonable grounds for suspicion which led to the application under section 303Z14(2) of the Act are connected to the reasonable grounds for suspicion which led to the seizure of other property to which a previous order for further detention[^c-da4de1779eeb3188f9282334301a10ed] relates—
 
 - (a) the application under section 303Z14(2) of the Act must specify the connection to any such previous order; and
 - (b) the application under section 303Z14(2) of the Act may be sent to any court which made such a previous order.
@@ -162,7 +162,7 @@ to any person other than one referred to in paragraph (4) who is known to be aff
 
 (7) A copy of an order for the forfeiture of frozen funds under section 303Z14 of the Act shall be given by the court to every person to whom notice of the account freezing order made under section 303Z3(2) of the Act in respect of the frozen account and to any other person identified by the court as being affected by the application.
 
-## 6. Application to set aside forfeiture[^key-30a559a1b8e402b0a4d6684ef55c8989]
+## 6. Application to set aside forfeiture[^c-30a559a1b8e402b0a4d6684ef55c8989]
 
 (1) An application under section 303Z12(1) of the Act for the setting aside of forfeiture of cash forfeited in pursuance of a forfeiture notice must be made in writing and may be made to the court before which the applicant wishes to make the application.
 
@@ -185,9 +185,9 @@ to any person other than one referred to in paragraph (4) who is known to be aff
 
 (5) An order under section 303Z12(6)(a) of the Act must provide for the release of the money within seven days of the date of the making of the order, or such longer period as, with the agreement of the applicant, may be specified.
 
-## 7. Director of Public Prosecutions appearing in proceedings[^key-99810fe43f1c14c0763b8b322255f27a]
+## 7. Director of Public Prosecutions appearing in proceedings[^c-99810fe43f1c14c0763b8b322255f27a]
 
-Where the Director of Public Prosecutions has agreed under section 303Z19 of the Act to appear in proceedings under Chapter 3B[^key-8fabc4f983ac30abf466ae5bfd479525] of Part 5 of the Act for—
+Where the Director of Public Prosecutions has agreed under section 303Z19 of the Act to appear in proceedings under Chapter 3B[^c-8fabc4f983ac30abf466ae5bfd479525] of Part 5 of the Act for—
 
 - (a) a constable;
 - (b) an accredited financial investigator;
@@ -197,11 +197,11 @@ Where the Director of Public Prosecutions has agreed under section 303Z19 of the
 
 the Director must notify the court which is dealing with the proceedings if the Director wants documents given under these Rules to be given also to the Director.
 
-## 8. Application for compensation[^key-3423fba4555c7c90d11195a4f10537f2]
+## 8. Application for compensation[^c-3423fba4555c7c90d11195a4f10537f2]
 
 (1) An application under section 303Z18 of the Act for compensation must be made in writing and sent to the court before which the applicant wishes to make the application, and must specify the grounds on which it is made.
 
-(2) But if the applicant has been given notice of an order under section 303Z3 of the Act in respect of the funds in the relevant financial institution[^key-5a205a1428e435451669ebc6279b7df4] account which are the subject of the application, then the application shall be sent to the court which sent the applicant that notice.
+(2) But if the applicant has been given notice of an order under section 303Z3 of the Act in respect of the funds in the relevant financial institution[^c-5a205a1428e435451669ebc6279b7df4] account which are the subject of the application, then the application shall be sent to the court which sent the applicant that notice.
 
 (3) The court must send a copy of the application to—
 
@@ -215,7 +215,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (4) The court must fix a date for the hearing of the application, which, unless directed otherwise, shall not be earlier than seven days from the date on which it is fixed, and must notify the date to the applicant and every person to whom a copy of the application is required to be sent under paragraph (3).
 
-## 9. Giving of documents[^key-57ff8dd20b723cd21fac23638a13a735]
+## 9. Giving of documents[^c-57ff8dd20b723cd21fac23638a13a735]
 
 (1) Any document required to be given to any person under these Rules may be given—
 
@@ -225,7 +225,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (2) If any document is given to a person in accordance with paragraph (1), it is deemed to have been received by that person unless the contrary is shown.
 
-## 10. Giving documents by post[^key-96b519bc1fbe98c7c97a0698dbfd0309]
+## 10. Giving documents by post[^c-96b519bc1fbe98c7c97a0698dbfd0309]
 
 (1) In order to give a document by post to a person (other than to the court), it must be sent by properly addressing, pre-paying and posting to an address which has been given by that person for the purpose of receipt of documents under these Rules.
 
@@ -252,7 +252,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (3) Unless the contrary is shown, the document is to be deemed as having been given to the person on the second day after it was posted, provided that day is a business day; or if not, the next business day after that day.
 
-## 11. Giving documents by means of electronic communication[^key-010a2f0b43265a70cf6612109993cf91]
+## 11. Giving documents by means of electronic communication[^c-010a2f0b43265a70cf6612109993cf91]
 
 (1) In order to give a document by fax, email or other means of electronic communication, the intended recipient of the document must previously have indicated in writing to the person giving the document—
 
@@ -267,7 +267,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 
 (5) Where a document is given by electronic means, the person giving the document need not in addition send or deliver a hard copy.
 
-## 12. Giving of documents by an alternative method or at an alternative place[^key-ad7f457c1ec67ed715e0cc658804df90]
+## 12. Giving of documents by an alternative method or at an alternative place[^c-ad7f457c1ec67ed715e0cc658804df90]
 
 (1) Where it appears to the court that there is a good reason to authorise the giving of a document by a method or at a place not otherwise permitted by these Rules, the court may make an order permitting the giving of a document by an alternative method or at an alternative place.
 
@@ -284,7 +284,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 - (b) the place at which the document may be given, if it is not a place permitted by these Rules; and
 - (c) the date on which the document is deemed to be given.
 
-## 13. Giving a document to a child or a protected person[^key-655c0f2f8d19a23b858fd5f117a7121c]
+## 13. Giving a document to a child or a protected person[^c-655c0f2f8d19a23b858fd5f117a7121c]
 
 (1) Where the intended recipient of a document is known to be a child who is not also a protected person, the document must be given to the child and—
 
@@ -320,7 +320,7 @@ the Director must notify the court which is dealing with the proceedings if the 
   - (ii) in relation to Northern Ireland, a person who is 16 years or over who lacks capacity to understand the nature of forfeiture proceedings because of an impairment of, or a disturbance in the functioning of, the mind or brain;
   - (iii) in relation to Scotland, a person who is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000[^f00007], of understanding the nature of forfeiture proceedings.
 
-## 14. Giving of documents to persons outside the United Kingdom[^key-ca06a293440d637395e831559daf2ea4]
+## 14. Giving of documents to persons outside the United Kingdom[^c-ca06a293440d637395e831559daf2ea4]
 
 (1) If a document is to be given to a person who resides outside the United Kingdom, the document must be given in accordance with the terms of any relevant declaration.
 
@@ -329,7 +329,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 - (a) a declaration made in accordance with Article 31(2) of the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime and on the Financing of Terrorism agreed at Warsaw on 16th May 2005[^f00008] that judicial documents may not be sent directly to persons abroad by postal channels; or
 - (b) a declaration made in accordance with Article 21(2) of the Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime agreed at Strasbourg on 8th November 1990[^f00009] that judicial documents may not be sent directly to persons abroad by postal channels.
 
-## 15. Transfer of proceedings[^key-5471a9c2028551567173e7fc362a8813]
+## 15. Transfer of proceedings[^c-5471a9c2028551567173e7fc362a8813]
 
 (1) Any person who is a party to, or affected by, proceedings under Chapter 3B of part 5 of the Act may, at any time, make an application to the court dealing with the matter for the proceedings to be transferred to a different magistrates’ court.
 
@@ -348,7 +348,7 @@ the Director must notify the court which is dealing with the proceedings if the 
 - (c) any further proceedings under Chapter 3B of Part 5 of the Act in respect of the property to which the proceedings relate shall be dealt with in the court to which proceedings are transferred;
 - (d) any requirement under these Rules to make or send an application to the court shall be read as a requirement to make or send an application to the court to which proceedings are transferred.
 
-## 16. Procedure at hearings[^key-1c4e5d6b60af99bf1b9183089240ac78]
+## 16. Procedure at hearings[^c-1c4e5d6b60af99bf1b9183089240ac78]
 
 (1) At the hearing of an application under Chapter 3B of Part 5 of the Act, any person to whom notice of the application has been given may attend and be heard on the question of whether the application should be granted, but the fact that any such person does not attend shall not prevent the court from hearing the application.
 
@@ -392,72 +392,72 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 144 has been amended by section 109(1) and paragraphs 245(1), (2), (5) of Schedule 8 and Schedule 10 to the Courts Act 2003; section 15(1) and paragraphs 99, 102(1), (2), (3)(a), (3)(b), (4) and (6) of Schedule 4 to the Constitutional Reform Act 2005; section 208(1) and paragraphs 42, 43(b) of Schedule 21 to the Legal Services Act 2007; Article 3(2) and paragraphs 1(1), (2) – (6) of Schedule 2 to [SI 2012/2398](https://www.legislation.gov.uk/uksi/2012/2398) and section 17(6) and paragraphs 39, 52 and 99 of Schedule 10 to the Crime and Courts Act 2013.
 
-[^key-c0f1fdcc8d435901d4fc5a27d9dc4ccd]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-c0f1fdcc8d435901d4fc5a27d9dc4ccd]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-05500368e0b63bd90cd6404dba693429]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2017/1297/article/2) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-05500368e0b63bd90cd6404dba693429]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2017/1297/article/2) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
 [^f00002]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29). Chapters 3A and 3B of Part 5 of the Proceeds of Crime Act were inserted by sections 15 and 16 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) is amended by section 406 of, and paragraph 158 of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-9a0e3ed1ee165cb5157814218c3a663e]: Textual amendment: [Rule 2(ca)](https://www.legislation.gov.uk/uksi/2017/1297/article/2/ca)[(cb)](https://www.legislation.gov.uk/uksi/2017/1297/article/2/cb) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/2)
+[^c-9a0e3ed1ee165cb5157814218c3a663e]: Textual amendment: [Rule 2(ca)](https://www.legislation.gov.uk/uksi/2017/1297/article/2/ca)[(cb)](https://www.legislation.gov.uk/uksi/2017/1297/article/2/cb) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(2)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/2)
 
-[^key-5246f2a31cf52034a6f02372cc440211]: Textual amendment: Words in [rule 2(d)](https://www.legislation.gov.uk/uksi/2017/1297/rule/2/d) substituted (12.11.2019) by [The Magistrates’ Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5A, and Miscellaneous Amendments) Rules 2019 (S.I. 2019/1368)](https://www.legislation.gov.uk/uksi/2019/1368), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1368/rule/1/1), [17(5)(a)](https://www.legislation.gov.uk/uksi/2019/1368/rule/17/5/a)
+[^c-5246f2a31cf52034a6f02372cc440211]: Textual amendment: Words in [rule 2(d)](https://www.legislation.gov.uk/uksi/2017/1297/rule/2/d) substituted (12.11.2019) by [The Magistrates’ Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5A, and Miscellaneous Amendments) Rules 2019 (S.I. 2019/1368)](https://www.legislation.gov.uk/uksi/2019/1368), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1368/rule/1/1), [17(5)(a)](https://www.legislation.gov.uk/uksi/2019/1368/rule/17/5/a)
 
-[^key-fa9fb18d0b2b8f92abf672c9dd1ad699]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2017/1297/article/3) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-fa9fb18d0b2b8f92abf672c9dd1ad699]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2017/1297/article/3) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-c8a87b39e800f732ccd4cfc2cb037eea]: Textual amendment: Word in [rule 3(1)](https://www.legislation.gov.uk/uksi/2017/1297/article/3/1) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(3)(a)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/3/a)
+[^c-c8a87b39e800f732ccd4cfc2cb037eea]: Textual amendment: Word in [rule 3(1)](https://www.legislation.gov.uk/uksi/2017/1297/article/3/1) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(3)(a)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/3/a)
 
-[^key-37de8d6a58b0f43be08d054434503d4f]: Textual amendment: Words in [rule 3(3)](https://www.legislation.gov.uk/uksi/2017/1297/article/3/3) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(3)(b)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/3/b)
+[^c-37de8d6a58b0f43be08d054434503d4f]: Textual amendment: Words in [rule 3(3)](https://www.legislation.gov.uk/uksi/2017/1297/article/3/3) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(3)(b)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/3/b)
 
-[^key-62c3b0e1ae7cef064c437a29306ec843]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/2017/1297/rule/3/7) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/626/rule/4/a)
+[^c-62c3b0e1ae7cef064c437a29306ec843]: Textual amendment: Words in [rule 3(7)](https://www.legislation.gov.uk/uksi/2017/1297/rule/3/7) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/626/rule/4/a)
 
-[^key-4ab0c150d7b00679247e5e3a8b847e24]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2017/1297/article/4) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-4ab0c150d7b00679247e5e3a8b847e24]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2017/1297/article/4) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-d8d5af1d5974332b30fbbc7f92a13d6e]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/uksi/2017/1297/rule/4A) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(4)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/4)
+[^c-d8d5af1d5974332b30fbbc7f92a13d6e]: Textual amendment: [Rule 4A](https://www.legislation.gov.uk/uksi/2017/1297/rule/4A) inserted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(4)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/4)
 
-[^key-9d801ba9ec1e60634d3d8d6fc10b7037]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2017/1297/article/5) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-9d801ba9ec1e60634d3d8d6fc10b7037]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2017/1297/article/5) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-da4de1779eeb3188f9282334301a10ed]: Textual amendment: Words in [rule 5(2)](https://www.legislation.gov.uk/uksi/2017/1297/article/5/2) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(5)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/5)
+[^c-da4de1779eeb3188f9282334301a10ed]: Textual amendment: Words in [rule 5(2)](https://www.legislation.gov.uk/uksi/2017/1297/article/5/2) substituted (7.11.2024) by [The Magistrates’ Courts (Detention, Freezing and Forfeiture of Cryptoassets, and Miscellaneous Amendments) Rules 2024 (S.I. 2024/1043)](https://www.legislation.gov.uk/uksi/2024/1043), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/1043/rule/1/1), [26(5)](https://www.legislation.gov.uk/uksi/2024/1043/rule/26/5)
 
-[^key-30a559a1b8e402b0a4d6684ef55c8989]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2017/1297/article/6) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-30a559a1b8e402b0a4d6684ef55c8989]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2017/1297/article/6) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
 [^f00004]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
 [^f00005]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-99810fe43f1c14c0763b8b322255f27a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2017/1297/article/7) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-99810fe43f1c14c0763b8b322255f27a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2017/1297/article/7) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-8fabc4f983ac30abf466ae5bfd479525]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2017/1297/rule/7) substituted (12.11.2019) by [The Magistrates’ Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5A, and Miscellaneous Amendments) Rules 2019 (S.I. 2019/1368)](https://www.legislation.gov.uk/uksi/2019/1368), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1368/rule/1/1), [17(5)(b)](https://www.legislation.gov.uk/uksi/2019/1368/rule/17/5/b)
+[^c-8fabc4f983ac30abf466ae5bfd479525]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2017/1297/rule/7) substituted (12.11.2019) by [The Magistrates’ Courts (Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, Part 5A, and Miscellaneous Amendments) Rules 2019 (S.I. 2019/1368)](https://www.legislation.gov.uk/uksi/2019/1368), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1368/rule/1/1), [17(5)(b)](https://www.legislation.gov.uk/uksi/2019/1368/rule/17/5/b)
 
-[^key-3423fba4555c7c90d11195a4f10537f2]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2017/1297/article/8) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-3423fba4555c7c90d11195a4f10537f2]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2017/1297/article/8) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-5a205a1428e435451669ebc6279b7df4]: Textual amendment: Words in [rule 8(2)](https://www.legislation.gov.uk/uksi/2017/1297/rule/8/2) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/626/rule/4/b)
+[^c-5a205a1428e435451669ebc6279b7df4]: Textual amendment: Words in [rule 8(2)](https://www.legislation.gov.uk/uksi/2017/1297/rule/8/2) substituted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/626/rule/4/b)
 
-[^key-57ff8dd20b723cd21fac23638a13a735]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2017/1297/article/9) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-57ff8dd20b723cd21fac23638a13a735]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2017/1297/article/9) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-96b519bc1fbe98c7c97a0698dbfd0309]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2017/1297/article/10) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-96b519bc1fbe98c7c97a0698dbfd0309]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2017/1297/article/10) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
 [^f01000]: Footnote: (1)
 
     [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12). “Limited Liability Partnership” is defined in section 1(2).
 
-[^key-010a2f0b43265a70cf6612109993cf91]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2017/1297/article/11) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-010a2f0b43265a70cf6612109993cf91]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2017/1297/article/11) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-ad7f457c1ec67ed715e0cc658804df90]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2017/1297/article/12) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-ad7f457c1ec67ed715e0cc658804df90]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2017/1297/article/12) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-655c0f2f8d19a23b858fd5f117a7121c]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2017/1297/article/13) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-655c0f2f8d19a23b858fd5f117a7121c]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2017/1297/article/13) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
 [^f00006]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
 [^f00007]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-ca06a293440d637395e831559daf2ea4]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2017/1297/article/14) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-ca06a293440d637395e831559daf2ea4]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2017/1297/article/14) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
 [^f00008]: Footnote: Council of Europe Treaty Series 198.
 
 [^f00009]: Footnote: European Treaty Series 141.
 
-[^key-5471a9c2028551567173e7fc362a8813]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2017/1297/article/15) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-5471a9c2028551567173e7fc362a8813]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2017/1297/article/15) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
 
-[^key-1c4e5d6b60af99bf1b9183089240ac78]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2017/1297/article/16) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)
+[^c-1c4e5d6b60af99bf1b9183089240ac78]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2017/1297/article/16) in force at 31.1.2018, see [rule 1](https://www.legislation.gov.uk/uksi/2017/1297/article/1)

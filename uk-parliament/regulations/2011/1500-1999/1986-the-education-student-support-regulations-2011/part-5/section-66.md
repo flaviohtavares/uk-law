@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Qualifying conditions for the higher education grant[^key-608b1206694981daa497f6095dd111a2]
+## 66. Qualifying conditions for the higher education grant[^c-608b1206694981daa497f6095dd111a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-608b1206694981daa497f6095dd111a2]: Textual amendment: [Pt. 5 Ch. 8](https://www.legislation.gov.uk/uksi/2011/1986/part/5/chapter/8) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/6/d)
+[^c-608b1206694981daa497f6095dd111a2]: Textual amendment: [Pt. 5 Ch. 8](https://www.legislation.gov.uk/uksi/2011/1986/part/5/chapter/8) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/6/d)

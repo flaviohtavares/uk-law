@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.13. Application for reconsideration[^key-5712ec42c3422e7224fd1e6cce65c25b]
+## 33.13. Application for reconsideration[^c-5712ec42c3422e7224fd1e6cce65c25b]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5712ec42c3422e7224fd1e6cce65c25b]: Commencement: [Rule 33.13](https://www.legislation.gov.uk/uksi/2025/909/rule/33.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5712ec42c3422e7224fd1e6cce65c25b]: Commencement: [Rule 33.13](https://www.legislation.gov.uk/uksi/2025/909/rule/33.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00802]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); sections 19, 20 and 21 were amended by section 74(2) of, and paragraph 1 and paragraphs 8, 9 and 10 respectively, of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27). Sections 19 and 20 were further amended by paragraphs 16 and 17 of Schedule 5 to the Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30).
 

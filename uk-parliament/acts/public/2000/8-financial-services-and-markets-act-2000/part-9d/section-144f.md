@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144F. Power to consequentially amend enactments[^key-08dac0a1fad16694396d5df20f5d9287]
+## 144F. Power to consequentially amend enactments[^c-08dac0a1fad16694396d5df20f5d9287]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08dac0a1fad16694396d5df20f5d9287]: Textual amendment: [S. 144F](https://www.legislation.gov.uk/ukpga/2000/8/section/144F) omitted (29.8.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/65/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(qq)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/qq)
+[^c-08dac0a1fad16694396d5df20f5d9287]: Textual amendment: [S. 144F](https://www.legislation.gov.uk/ukpga/2000/8/section/144F) omitted (29.8.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 65(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/65/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(qq)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/qq)

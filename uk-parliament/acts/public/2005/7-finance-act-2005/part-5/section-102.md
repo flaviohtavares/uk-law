@@ -52,7 +52,7 @@ and in relation to any person in connection with either of those Funds or that B
 (7) The provision made by the regulations may be framed as provision applying with appropriate modifications—
 
 - (a) for times before 6th April 2006, provisions having effect in relation to exempt approved schemes (within the meaning of Chapter 1 of Part 14 of ICTA: see section 592(1) of that Act), and
-- (b) for times on or after that date, provisions having effect in relation to registered pension schemes (within the meaning of section 150(2) of the Finance Act 2004[^key-b45e1687a896dd4896c8809b0684e352]).
+- (b) for times on or after that date, provisions having effect in relation to registered pension schemes (within the meaning of section 150(2) of the Finance Act 2004[^c-b45e1687a896dd4896c8809b0684e352]).
 
 (8) The regulations may include—
 
@@ -69,4 +69,4 @@ and in relation to any person in connection with either of those Funds or that B
 
 ## Annotations
 
-[^key-b45e1687a896dd4896c8809b0684e352]: Textual amendment: Words in s. 102(7)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 477](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/477) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b45e1687a896dd4896c8809b0684e352]: Textual amendment: Words in s. 102(7)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 477](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/477) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

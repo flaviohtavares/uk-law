@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26B. Review of decisions by the Council[^key-b7c194f510110413dc17c01ac26e3f9b][^key-66502f12c73077ee8d20134de9c65df3]
+## 26B. Review of decisions by the Council[^c-b7c194f510110413dc17c01ac26e3f9b][^c-66502f12c73077ee8d20134de9c65df3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7c194f510110413dc17c01ac26e3f9b]: Textual amendment: [Art. 26B](https://www.legislation.gov.uk/uksi/2002/253/article/26B) substituted (31.3.2017 for specified purposes, 28.7.2017 in so far as not already in force) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/321/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-b7c194f510110413dc17c01ac26e3f9b]: Textual amendment: [Art. 26B](https://www.legislation.gov.uk/uksi/2002/253/article/26B) substituted (31.3.2017 for specified purposes, 28.7.2017 in so far as not already in force) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/321/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-66502f12c73077ee8d20134de9c65df3]: Textual amendment: [Arts. 26A-26C](https://www.legislation.gov.uk/uksi/2002/253/article/26A) inserted (11.12.2014) by [The Nursing and Midwifery (Amendment) Order 2014 (S.I. 2014/3272)](https://www.legislation.gov.uk/uksi/2014/3272), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3272/article/1), [6](https://www.legislation.gov.uk/uksi/2014/3272/article/6)
+[^c-66502f12c73077ee8d20134de9c65df3]: Textual amendment: [Arts. 26A-26C](https://www.legislation.gov.uk/uksi/2002/253/article/26A) inserted (11.12.2014) by [The Nursing and Midwifery (Amendment) Order 2014 (S.I. 2014/3272)](https://www.legislation.gov.uk/uksi/2014/3272), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3272/article/1), [6](https://www.legislation.gov.uk/uksi/2014/3272/article/6)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Effect of orders under section 69.[^key-1cb577ab4cf6e0f731d3a80e9bd4d1ae]
+## 71. Effect of orders under section 69.[^c-1cb577ab4cf6e0f731d3a80e9bd4d1ae]
 
 *Extent: E+W+S*
 
-(1) An order under paragraph (b)[^key-ee4d29ff37fe0509d486e14f149173b3] of subsection (1) of section 69 may enable those exercising any power conferred by the order to exercise it retrospectively (whether or not the power could otherwise be so exercised) and an order under paragraph (a)[^key-5289254b5956fe1efbc82294a39befa3] of that subsection may modify a scheme retrospectively.
+(1) An order under paragraph (b)[^c-ee4d29ff37fe0509d486e14f149173b3] of subsection (1) of section 69 may enable those exercising any power conferred by the order to exercise it retrospectively (whether or not the power could otherwise be so exercised) and an order under paragraph (a)[^c-5289254b5956fe1efbc82294a39befa3] of that subsection may modify a scheme retrospectively.
 
 (2) Any modification of a scheme made in pursuance of an order of the Authority under section 69 is as effective in law as if it had been made under powers conferred by or under the scheme.
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1cb577ab4cf6e0f731d3a80e9bd4d1ae]: Commencement: S. 71 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-1cb577ab4cf6e0f731d3a80e9bd4d1ae]: Commencement: S. 71 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-ee4d29ff37fe0509d486e14f149173b3]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/71/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 63(a)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/63/a)
+[^c-ee4d29ff37fe0509d486e14f149173b3]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/71/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 63(a)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/63/a)
 
-[^key-5289254b5956fe1efbc82294a39befa3]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/71/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 63(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/63/b)
+[^c-5289254b5956fe1efbc82294a39befa3]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/71/1) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 63(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/63/b)

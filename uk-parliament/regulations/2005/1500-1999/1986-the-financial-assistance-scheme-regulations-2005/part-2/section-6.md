@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Financial and other arrangements to enable or assist the Board of the Pension Protection Fund to carry out its functions in relation to the financial assistance scheme[^key-b949e2ad050ffff3e943dd455e127795]
+## 6. Financial and other arrangements to enable or assist the Board of the Pension Protection Fund to carry out its functions in relation to the financial assistance scheme[^c-b949e2ad050ffff3e943dd455e127795]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b949e2ad050ffff3e943dd455e127795]: Textual amendment: Reg. 6 6A substituted for reg. 6 (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/1851/regulation/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-b949e2ad050ffff3e943dd455e127795]: Textual amendment: Reg. 6 6A substituted for reg. 6 (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/1851/regulation/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))

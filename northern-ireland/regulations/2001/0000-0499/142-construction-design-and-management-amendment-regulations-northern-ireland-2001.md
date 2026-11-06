@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Construction (Design and Management) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-cf9787b4e0ace977933c581b1f17802f]
+Construction (Design and Management) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-cf9787b4e0ace977933c581b1f17802f]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 3rd May 2001
 
-[^key-cf9787b4e0ace977933c581b1f17802f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf9787b4e0ace977933c581b1f17802f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cf9787b4e0ace977933c581b1f17802f]
+## 1. Citation and commencement[^c-cf9787b4e0ace977933c581b1f17802f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Construction (Design and Management) Regulations (Northern Ireland) 1995[^key-cf9787b4e0ace977933c581b1f17802f]
+## 2. Amendment of the Construction (Design and Management) Regulations (Northern Ireland) 1995[^c-cf9787b4e0ace977933c581b1f17802f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf9787b4e0ace977933c581b1f17802f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf9787b4e0ace977933c581b1f17802f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf9787b4e0ace977933c581b1f17802f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf9787b4e0ace977933c581b1f17802f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf9787b4e0ace977933c581b1f17802f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/142) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))
+[^c-cf9787b4e0ace977933c581b1f17802f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/142) revoked (9.7.2007) by [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 1](https://www.legislation.gov.uk/nisr/2007/291/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/291/schedule/5) (with [regs. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3), [46](https://www.legislation.gov.uk/nisr/2007/291/regulation/46))

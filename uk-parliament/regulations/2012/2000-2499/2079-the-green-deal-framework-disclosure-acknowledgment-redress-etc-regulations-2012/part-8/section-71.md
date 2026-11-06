@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Withdrawal of authorisation from a green deal provider who is no longer a fit person to be authorised[^key-1fe0c88afcb359ef6b150d9e6f1307bb]
+## 71. Withdrawal of authorisation from a green deal provider who is no longer a fit person to be authorised[^c-1fe0c88afcb359ef6b150d9e6f1307bb]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ the Secretary of State may impose withdrawal on the provider.
 
 ## Annotations
 
-[^key-1fe0c88afcb359ef6b150d9e6f1307bb]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2012/2079/regulation/71) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-1fe0c88afcb359ef6b150d9e6f1307bb]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2012/2079/regulation/71) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

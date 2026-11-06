@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Description of pension[^key-f623ffbdfbce54243e30a0e47344c746]
+## 31. Description of pension[^c-f623ffbdfbce54243e30a0e47344c746]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purpose of this Part, “description of pension” (“*disgrifiad o ben
 
 ## Annotations
 
-[^key-f623ffbdfbce54243e30a0e47344c746]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-f623ffbdfbce54243e30a0e47344c746]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

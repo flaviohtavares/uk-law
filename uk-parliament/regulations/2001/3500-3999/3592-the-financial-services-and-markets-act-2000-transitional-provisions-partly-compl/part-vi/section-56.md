@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Interpretation[^key-09df862b4ace493d4392997240e79b78]
+## 56. Interpretation[^c-09df862b4ace493d4392997240e79b78]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ and a person who was, immediately before commencement, subject to incomplete dis
 
 ## Annotations
 
-[^key-09df862b4ace493d4392997240e79b78]: Commencement: Art. 56 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-09df862b4ace493d4392997240e79b78]: Commencement: Art. 56 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00031]: Footnote: S.I. [2001/3083](https://www.legislation.gov.uk/uksi/2001/3083).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Suspension of registration[^M_I_ca268be1-facd-4f58-e7b5-1676c062d769][^key-e07315fe546f8e028dddcd6342b873c0][^key-124ed532d6093a3ffd14e8b7d9092ea5]
+## 232. Suspension of registration[^M_I_ca268be1-facd-4f58-e7b5-1676c062d769][^c-e07315fe546f8e028dddcd6342b873c0][^c-124ed532d6093a3ffd14e8b7d9092ea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ In this subsection “**relevant HMRC standard**” means a standard published b
 
 [^M_I_ca268be1-facd-4f58-e7b5-1676c062d769]: Commencement: S. 232 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-e07315fe546f8e028dddcd6342b873c0]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-e07315fe546f8e028dddcd6342b873c0]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-124ed532d6093a3ffd14e8b7d9092ea5]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-124ed532d6093a3ffd14e8b7d9092ea5]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/11/section/232) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

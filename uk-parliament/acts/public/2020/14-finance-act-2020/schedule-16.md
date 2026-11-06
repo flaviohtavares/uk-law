@@ -81,14 +81,14 @@ the amount brought into account under paragraph 1(2) by virtue of sub-paragraph 
 
 ### Amounts referable to businesses in certain cases
 
-**3.**[^key-7f1e7fb8e46f67918df138d5375b17ec] (1) An amount of a coronavirus support payment made under an employment-related scheme—
+**3.**[^c-7f1e7fb8e46f67918df138d5375b17ec] (1) An amount of a coronavirus support payment made under an employment-related scheme—
 
 - (a) is referable to the business of the person entitled to the payment as an employer (even if the person is not for other purposes the employer of the employees to whom the payment relates), and
 - (b) is not referable to any other business (and no deduction for any expenses in respect of the same employment costs which are the subject of the payment is allowed in calculating the profits of any other business or in calculating the liability of any other person to tax charged under section 242 or 349 of ITTOIA 2005 or section 188 or 280 of CTA 2009 (post-cessation receipts)).
 
 (2) A coronavirus support payment made under the self-employment income support scheme is referable to the business of the individual to whom the payment relates.
 
-(3) Where an amount of a coronavirus support payment made under the self-employment income support scheme is brought into account under paragraph 1(2), the whole of the amount is to be treated as a receipt of a revenue nature of the tax year in which the payment was received[^key-f32606c415056dfd153fa0c6a72f880b] (irrespective of its treatment for accounting purposes).
+(3) Where an amount of a coronavirus support payment made under the self-employment income support scheme is brought into account under paragraph 1(2), the whole of the amount is to be treated as a receipt of a revenue nature of the tax year in which the payment was received[^c-f32606c415056dfd153fa0c6a72f880b] (irrespective of its treatment for accounting purposes).
 
 (4) But sub-paragraph (3) does not apply to an amount of a coronavirus support payment made under the self-employment income support scheme in respect of a partner of a firm where the amount is distributed amongst the partners (rather than being retained by the partner).
 
@@ -169,16 +169,16 @@ the amount brought into account under paragraph 1(2) by virtue of sub-paragraph 
 
 **8.** (1) A recipient of an amount of a coronavirus support payment is liable to income tax under this paragraph if the recipient is not entitled to the amount in accordance with the scheme under which the payment was made.
 
-(2)[^key-38c769553b07b6b268d21901c052158b] But sub-paragraph (1) does not apply to an amount of a coronavirus support payment made under a coronavirus business support grant scheme or the coronavirus statutory sick pay rebate scheme.
+(2)[^c-38c769553b07b6b268d21901c052158b] But sub-paragraph (1) does not apply to an amount of a coronavirus support payment made under a coronavirus business support grant scheme or the coronavirus statutory sick pay rebate scheme.
 
-(3) For the purposes of this Schedule, references to a person not being entitled to an amount include, in the case of an amount of a coronavirus support payment made under the coronavirus job retention scheme or the self-employment income support scheme[^key-144f5939728620dc46b9ab60f7b97c97], a case where the person ceases to be entitled to retain the amount after it was received—
+(3) For the purposes of this Schedule, references to a person not being entitled to an amount include, in the case of an amount of a coronavirus support payment made under the coronavirus job retention scheme or the self-employment income support scheme[^c-144f5939728620dc46b9ab60f7b97c97], a case where the person ceases to be entitled to retain the amount after it was received—
 
 - (a) because of a change in circumstances, or
-- (b) in the case of a payment made under the coronavirus job retention scheme,[^key-ea12cbbcb89472c6748cc341e2b18d40] because the person has not, within a reasonable period, used the amount to pay the costs which it was intended to reimburse.
+- (b) in the case of a payment made under the coronavirus job retention scheme,[^c-ea12cbbcb89472c6748cc341e2b18d40] because the person has not, within a reasonable period, used the amount to pay the costs which it was intended to reimburse.
 
 (4) Income tax becomes chargeable under this paragraph—
 
-- (a) in a case where the person was entitled to an amount of a coronavirus support payment paid under the coronavirus job retention scheme or the self-employment income support scheme[^key-f65683587f55e0a994e70823e4cfcf3f] but subsequently ceases to be entitled to retain it, at the time the person ceases to be entitled to retain the amount, or
+- (a) in a case where the person was entitled to an amount of a coronavirus support payment paid under the coronavirus job retention scheme or the self-employment income support scheme[^c-f65683587f55e0a994e70823e4cfcf3f] but subsequently ceases to be entitled to retain it, at the time the person ceases to be entitled to retain the amount, or
 - (b) in any other case, at the time the coronavirus support payment is received.
 
 (5) The amount of income tax chargeable under this paragraph is the amount equal to so much of the coronavirus support payment—
@@ -262,7 +262,7 @@ the amount brought into account under paragraph 1(2) by virtue of sub-paragraph 
 - (a) the 90th day after the day on which this Act is passed, or
 - (b) the 90th day after the day on which the income tax became chargeable.
 
-(4) Subsection (3)(c) has effect as if at the end[^key-8c6a1d6c74443c6a2a359d59eb21873a] there were inserted “ or to income tax under paragraph 8 of Schedule 16 to the Finance Act 2020 ”.
+(4) Subsection (3)(c) has effect as if at the end[^c-8c6a1d6c74443c6a2a359d59eb21873a] there were inserted “ or to income tax under paragraph 8 of Schedule 16 to the Finance Act 2020 ”.
 
 (5) In relation to income tax chargeable under paragraph 8 in relation to an amount of a coronavirus support payment received by a firm, the duty in subsection (1) (as it has effect by virtue of sub-paragraphs (2) and (3)) is taken to have been complied with by each of the partners if one of the partners has complied with it.
 
@@ -353,16 +353,16 @@ For provision under which the amount so specified may be varied, see—
 
 ## Annotations
 
-[^key-7f1e7fb8e46f67918df138d5375b17ec]: Modification: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/3) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Taxation of Coronavirus Support Payments Regulations 2021 (S.I. 2021/92)](https://www.legislation.gov.uk/uksi/2021/92), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/92/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2021/92/regulation/3/1)
+[^c-7f1e7fb8e46f67918df138d5375b17ec]: Modification: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/3) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Taxation of Coronavirus Support Payments Regulations 2021 (S.I. 2021/92)](https://www.legislation.gov.uk/uksi/2021/92), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/92/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2021/92/regulation/3/1)
 
-[^key-f32606c415056dfd153fa0c6a72f880b]: Textual amendment: Words in [Sch. 16 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/3/3) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/2)
+[^c-f32606c415056dfd153fa0c6a72f880b]: Textual amendment: Words in [Sch. 16 para. 3(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/3/3) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/2)
 
-[^key-38c769553b07b6b268d21901c052158b]: Modification: [Sch. 16 para. 8(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Taxation of Coronavirus Support Payments Regulations 2021 (S.I. 2021/92)](https://www.legislation.gov.uk/uksi/2021/92), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/92/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/92/regulation/3/2)
+[^c-38c769553b07b6b268d21901c052158b]: Modification: [Sch. 16 para. 8(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Taxation of Coronavirus Support Payments Regulations 2021 (S.I. 2021/92)](https://www.legislation.gov.uk/uksi/2021/92), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/92/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/92/regulation/3/2)
 
-[^key-144f5939728620dc46b9ab60f7b97c97]: Textual amendment: Words in [Sch. 16 para. 8(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/3) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/3/a/i)
+[^c-144f5939728620dc46b9ab60f7b97c97]: Textual amendment: Words in [Sch. 16 para. 8(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/3) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/3/a/i)
 
-[^key-ea12cbbcb89472c6748cc341e2b18d40]: Textual amendment: Words in [Sch. 16 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/3/b) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/3/a/ii)
+[^c-ea12cbbcb89472c6748cc341e2b18d40]: Textual amendment: Words in [Sch. 16 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/3/b) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/3/a/ii)
 
-[^key-f65683587f55e0a994e70823e4cfcf3f]: Textual amendment: Words in [Sch. 16 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/4/a) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/3/b)
+[^c-f65683587f55e0a994e70823e4cfcf3f]: Textual amendment: Words in [Sch. 16 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/8/4/a) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/3/b)
 
-[^key-8c6a1d6c74443c6a2a359d59eb21873a]: Textual amendment: Words in [Sch. 16 para. 12(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/12/4) substituted (with effect in accordance with s. 98(5) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 98(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/98/4)
+[^c-8c6a1d6c74443c6a2a359d59eb21873a]: Textual amendment: Words in [Sch. 16 para. 12(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/12/4) substituted (with effect in accordance with s. 98(5) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 98(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/98/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 596. Interpretation of regulation 8[^key-1dee1bd4c2d2a46899d6ae6fca8888a5]
+## 596. Interpretation of regulation 8[^c-1dee1bd4c2d2a46899d6ae6fca8888a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dee1bd4c2d2a46899d6ae6fca8888a5]: Commencement: Art. 596 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1dee1bd4c2d2a46899d6ae6fca8888a5]: Commencement: Art. 596 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00368]: Footnote: The definition of “contract of insurance” was substituted by [S.I. 2001/934](https://www.legislation.gov.uk/uksi/2001/934), regulation 5.

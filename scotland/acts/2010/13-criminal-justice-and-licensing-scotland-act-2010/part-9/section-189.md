@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Occasional licences[^key-be7365588c152578812d5d8bb3ba8d81]
+## 189. Occasional licences[^c-be7365588c152578812d5d8bb3ba8d81]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7365588c152578812d5d8bb3ba8d81]: Commencement: [S. 189](https://www.legislation.gov.uk/asp/2010/13/section/189) in force at 1.10.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-be7365588c152578812d5d8bb3ba8d81]: Commencement: [S. 189](https://www.legislation.gov.uk/asp/2010/13/section/189) in force at 1.10.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

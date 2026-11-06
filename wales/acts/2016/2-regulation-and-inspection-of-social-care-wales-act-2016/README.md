@@ -42,7 +42,7 @@ Regulation and Inspection of Social Care (Wales) Act 2016
 
 ## Contents
 
-### PART 1 — REGULATION OF SOCIAL CARE SERVICES[^key-5113d2bd2ea0420f002fc889365947d8][^key-520dcc606f0ee4e43bfa315a6aab66d5][^key-dd7f525ca3f43b97e25ca404ab24067f][^key-c0196bdefba2acf739bcc461cced6c52][^key-c652e9de400ecc1e48a180c915421123]
+### PART 1 — REGULATION OF SOCIAL CARE SERVICES[^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52][^c-c652e9de400ecc1e48a180c915421123]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ Regulation and Inspection of Social Care (Wales) Act 2016
 - [Section 3 — Other key terms](part-1/section-3.md)
 - [Section 4 — General objectives](part-1/section-4.md)
 
-#### CHAPTER 2 — REGISTRATION ETC. OF SERVICE PROVIDERS[^key-c652e9de400ecc1e48a180c915421123]
+#### CHAPTER 2 — REGISTRATION ETC. OF SERVICE PROVIDERS[^c-c652e9de400ecc1e48a180c915421123]
 
 ##### Requirement to register
 
@@ -115,7 +115,7 @@ Regulation and Inspection of Social Care (Wales) Act 2016
 - [Section 30 — Regulations about service providers who are liquidated etc.](part-1/section-30.md)
 - [Section 31 — Regulations about service providers who have died](part-1/section-31.md)
 
-#### CHAPTER 3 — INFORMATION , INSPECTIONS AND INVESTIGATIONS[^key-92599b429b362d66ac379f46238b86eb]
+#### CHAPTER 3 — INFORMATION , INSPECTIONS AND INVESTIGATIONS[^c-92599b429b362d66ac379f46238b86eb]
 
 - [Section 32 — Power to require information](part-1/section-32.md)
 - [Section 33 — Inspections , investigations and inspectors](part-1/section-33.md)
@@ -134,7 +134,7 @@ Regulation and Inspection of Social Care (Wales) Act 2016
 - [Section 41 — Engagement with the public](part-1/section-41.md)
 - [Section 42 — Annual report on regulatory functions](part-1/section-42.md)
 
-#### CHAPTER 5 — OFFENCES AND PENALTIES[^key-5113d2bd2ea0420f002fc889365947d8][^key-520dcc606f0ee4e43bfa315a6aab66d5][^key-dd7f525ca3f43b97e25ca404ab24067f][^key-c0196bdefba2acf739bcc461cced6c52]
+#### CHAPTER 5 — OFFENCES AND PENALTIES[^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 
 - [Section 43 — Failure to comply with a condition](part-1/section-43.md)
 - [Section 44 — False descriptions](part-1/section-44.md)
@@ -150,7 +150,7 @@ Regulation and Inspection of Social Care (Wales) Act 2016
 - [Section 54 — Offences by unincorporated bodies](part-1/section-54.md)
 - [Section 55 — Proceedings for offences](part-1/section-55.md)
 
-#### CHAPTER 6 — LOCAL AUTHORITY SOCIAL SERVICES[^key-5113d2bd2ea0420f002fc889365947d8][^key-520dcc606f0ee4e43bfa315a6aab66d5][^key-dd7f525ca3f43b97e25ca404ab24067f][^key-c0196bdefba2acf739bcc461cced6c52]
+#### CHAPTER 6 — LOCAL AUTHORITY SOCIAL SERVICES[^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 
 *Extent: E+W*
 
@@ -496,14 +496,14 @@ Regulation and Inspection of Social Care (Wales) Act 2016
 
 [^M_C_00dda8d1-7422-4416-8093-225dc3972500]: Modification: Act modified by [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41), [Sch. 7 para. 5A](https://www.legislation.gov.uk/ukpga/1989/41/schedule/7/paragraph/5A) (as inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/uksi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2018/195/regulation/2/1), [13(b)](https://www.legislation.gov.uk/uksi/2018/195/regulation/13/b))
 
-[^key-5113d2bd2ea0420f002fc889365947d8]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [58(3)](https://www.legislation.gov.uk/wsi/2019/165/regulation/58/3)
+[^c-5113d2bd2ea0420f002fc889365947d8]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [58(3)](https://www.legislation.gov.uk/wsi/2019/165/regulation/58/3)
 
-[^key-520dcc606f0ee4e43bfa315a6aab66d5]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71)
+[^c-520dcc606f0ee4e43bfa315a6aab66d5]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71)
 
-[^key-dd7f525ca3f43b97e25ca404ab24067f]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/762)](https://www.legislation.gov.uk/wsi/2019/762), [regs.](https://www.legislation.gov.uk/wsi/2019/762/regulation), [57(3)](https://www.legislation.gov.uk/wsi/2019/762/regulation/57/3)
+[^c-dd7f525ca3f43b97e25ca404ab24067f]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/762)](https://www.legislation.gov.uk/wsi/2019/762), [regs.](https://www.legislation.gov.uk/wsi/2019/762/regulation), [57(3)](https://www.legislation.gov.uk/wsi/2019/762/regulation/57/3)
 
-[^key-c0196bdefba2acf739bcc461cced6c52]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [67(3)](https://www.legislation.gov.uk/wsi/2019/163/regulation/67/3)
+[^c-c0196bdefba2acf739bcc461cced6c52]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [67(3)](https://www.legislation.gov.uk/wsi/2019/163/regulation/67/3)
 
-[^key-c652e9de400ecc1e48a180c915421123]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2016/2/part/1) applied (with modifications) (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [79(3)](https://www.legislation.gov.uk/wsi/2024/388/regulation/79/3)
+[^c-c652e9de400ecc1e48a180c915421123]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2016/2/part/1) applied (with modifications) (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [79(3)](https://www.legislation.gov.uk/wsi/2024/388/regulation/79/3)
 
-[^key-92599b429b362d66ac379f46238b86eb]: Textual amendment: Words in [Pt. 1 Ch. 3](https://www.legislation.gov.uk/anaw/2016/2/part/1/chapter/3) heading substituted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/5); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)
+[^c-92599b429b362d66ac379f46238b86eb]: Textual amendment: Words in [Pt. 1 Ch. 3](https://www.legislation.gov.uk/anaw/2016/2/part/1/chapter/3) heading substituted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/5); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)

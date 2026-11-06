@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33L. Joint-working: guidance and directions[^key-c3cae999371201e2622eb059b0affdac]
+## 33L. Joint-working: guidance and directions[^c-c3cae999371201e2622eb059b0affdac]
 
 *Extent: E+W*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) Guidance given under subsection (1) may relate to the contents of co- operation arrangements.
 
-(2A)[^key-e871abaa0e806ea14d38f1c295638147] The Welsh Ministers must consult the Commission before giving guidance under subsection (1).
+(2A)[^c-e871abaa0e806ea14d38f1c295638147] The Welsh Ministers must consult the Commission before giving guidance under subsection (1).
 
-(3) A local authority and a governing body of a maintained school[^key-1d54b93105f4757e1501248b2203d1fa] must comply with any direction given by the Welsh Ministers as to the entering into of co-operation arrangements.
+(3) A local authority and a governing body of a maintained school[^c-1d54b93105f4757e1501248b2203d1fa] must comply with any direction given by the Welsh Ministers as to the entering into of co-operation arrangements.
 
 (4) A direction under subsection (3)—
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c3cae999371201e2622eb059b0affdac]: Textual amendment: S. 33L inserted (19.1.2011) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 33](https://www.legislation.gov.uk/mwa/2009/1/section/33) , [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2) (as amended by S.I. 2010/1148, art. 3); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97) , [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2011/97/article/2/1/h)
+[^c-c3cae999371201e2622eb059b0affdac]: Textual amendment: S. 33L inserted (19.1.2011) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 33](https://www.legislation.gov.uk/mwa/2009/1/section/33) , [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2) (as amended by S.I. 2010/1148, art. 3); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97) , [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2011/97/article/2/1/h)
 
-[^key-e871abaa0e806ea14d38f1c295638147]: Textual amendment: S. 33L(2A) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 14(12)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/14/12) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xv)
+[^c-e871abaa0e806ea14d38f1c295638147]: Textual amendment: S. 33L(2A) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 14(12)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/14/12) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xv)
 
-[^key-1d54b93105f4757e1501248b2203d1fa]: Textual amendment: Words in s. 33L(3) substituted (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 6(2)](https://www.legislation.gov.uk/anaw/2014/1/section/6/2), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(f)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/f)
+[^c-1d54b93105f4757e1501248b2203d1fa]: Textual amendment: Words in s. 33L(3) substituted (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 6(2)](https://www.legislation.gov.uk/anaw/2014/1/section/6/2), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(f)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/f)

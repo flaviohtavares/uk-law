@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135.[^key-2b32ac25f3f1da0f70eae693eb5a23b9]
+## 135.[^c-2b32ac25f3f1da0f70eae693eb5a23b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 16 (community investment tax relief), in paragraph 50(2), for “hus
 
 ## Annotations
 
-[^key-2b32ac25f3f1da0f70eae693eb5a23b9]: Commencement: Reg. 135 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-2b32ac25f3f1da0f70eae693eb5a23b9]: Commencement: Reg. 135 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84A. Notice of change of circumstances given electronically[^key-fe05b136233a23b0125f42818540dcc9]
+## 84A. Notice of change of circumstances given electronically[^c-fe05b136233a23b0125f42818540dcc9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person may give notice of a change of circumstances required to be notified un
 
 ## Annotations
 
-[^key-fe05b136233a23b0125f42818540dcc9]: Textual amendment: [Reg. 84A](https://www.legislation.gov.uk/nisr/2006/405/regulation/84A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/463/article/2/4)
+[^c-fe05b136233a23b0125f42818540dcc9]: Textual amendment: [Reg. 84A](https://www.legislation.gov.uk/nisr/2006/405/regulation/84A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/463/article/2/4)

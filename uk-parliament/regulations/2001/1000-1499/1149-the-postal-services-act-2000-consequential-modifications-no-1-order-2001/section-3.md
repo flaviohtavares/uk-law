@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Other modifications of enactments[^key-efa375af16c1dbb81790ea3772ad684a]
+## 3. Other modifications of enactments[^c-efa375af16c1dbb81790ea3772ad684a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efa375af16c1dbb81790ea3772ad684a]: Commencement: Art. 3 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
+[^c-efa375af16c1dbb81790ea3772ad684a]: Commencement: Art. 3 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)

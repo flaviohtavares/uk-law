@@ -32,30 +32,30 @@ summary: ''
 
 Public Health
 
-The Tobacco and Primary Medical Services (Scotland) Act 2010 (Commencement No. 1, Consequential and Saving Provisions) Amendment Order 2011 (revoked)[^key-b448891d276c37ae2cfe52dc750edc70]
+The Tobacco and Primary Medical Services (Scotland) Act 2010 (Commencement No. 1, Consequential and Saving Provisions) Amendment Order 2011 (revoked)[^c-b448891d276c37ae2cfe52dc750edc70]
 
 Made
 
 21st February 2011
 
-[^key-b448891d276c37ae2cfe52dc750edc70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b448891d276c37ae2cfe52dc750edc70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-b448891d276c37ae2cfe52dc750edc70]
+## 1. Citation[^c-b448891d276c37ae2cfe52dc750edc70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Tobacco and Primary Medical Services (Scotland) Act 2010 (Commencement No. 1, Consequential and Saving Provisions) Order 2010[^key-b448891d276c37ae2cfe52dc750edc70]
+## 2. Amendment of the Tobacco and Primary Medical Services (Scotland) Act 2010 (Commencement No. 1, Consequential and Saving Provisions) Order 2010[^c-b448891d276c37ae2cfe52dc750edc70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b448891d276c37ae2cfe52dc750edc70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b448891d276c37ae2cfe52dc750edc70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b448891d276c37ae2cfe52dc750edc70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b448891d276c37ae2cfe52dc750edc70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b448891d276c37ae2cfe52dc750edc70]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/131) revoked (29.4.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2013/106/article/1/2/a), [4(b)](https://www.legislation.gov.uk/ssi/2013/106/article/4/b)
+[^c-b448891d276c37ae2cfe52dc750edc70]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/131) revoked (29.4.2013) by [The Tobacco and Primary Medical Services (Scotland) Act 2010 (Incidental Provision and Commencement No. 4) Order 2013 (S.S.I. 2013/106)](https://www.legislation.gov.uk/ssi/2013/106), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2013/106/article/1/2/a), [4(b)](https://www.legislation.gov.uk/ssi/2013/106/article/4/b)

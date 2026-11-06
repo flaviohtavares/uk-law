@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Self-rescuers[^key-58ff325cf3e332f9d160400eced17c2e]
+## 57. Self-rescuers[^c-58ff325cf3e332f9d160400eced17c2e]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58ff325cf3e332f9d160400eced17c2e]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2016/427/regulation/57) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-58ff325cf3e332f9d160400eced17c2e]: Commencement: [Reg. 57](https://www.legislation.gov.uk/nisr/2016/427/regulation/57) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

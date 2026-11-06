@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment to the Energy Information Regulations 2011[^key-398be1a42a297109da57a53a576f8ce3]
+## 2. Amendment to the Energy Information Regulations 2011[^c-398be1a42a297109da57a53a576f8ce3]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ Paragraph 1 of Schedule 1 to the Energy Information Regulations 2011 [^c23633701
 
 ## Annotations
 
-[^key-398be1a42a297109da57a53a576f8ce3]: Commencement: Reg. 2 in force at 29.3.2019, see reg. 1(2)
+[^c-398be1a42a297109da57a53a576f8ce3]: Commencement: Reg. 2 in force at 29.3.2019, see reg. 1(2)
 
 [^c23633701]: Marginal citation: [S.I. 2011/1524](https://www.legislation.gov.uk/uksi/2011/1524), amended by [S.I. 2012/2897](https://www.legislation.gov.uk/uksi/2012/2897), [S.I](https://www.legislation.gov.uk/uksi/2012/2897/section/I). 2012/3005, [S.I. 2013/1232](https://www.legislation.gov.uk/uksi/2013/1232), [S.I](https://www.legislation.gov.uk/uksi/2013/1232/section/I). 2014/1290, [S.I. 2015/469](https://www.legislation.gov.uk/uksi/2015/469), [S.I](https://www.legislation.gov.uk/uksi/2015/469/section/I). 2016/838 and [S.I. 2018/255](https://www.legislation.gov.uk/uksi/2018/255).

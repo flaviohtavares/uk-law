@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335. Consultation on tribunal rules[^key-cb65164f59fdf553bdffc2cdd1f83472]
+## 335. Consultation on tribunal rules[^c-cb65164f59fdf553bdffc2cdd1f83472]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb65164f59fdf553bdffc2cdd1f83472]: Commencement: Art. 335 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cb65164f59fdf553bdffc2cdd1f83472]: Commencement: Art. 335 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00247]: Footnote: Section 8(3)(b) was amended by [S.I. 1993/3258](https://www.legislation.gov.uk/uksi/1993/3258), article 2(c); and [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), article 2(1) and Schedule.

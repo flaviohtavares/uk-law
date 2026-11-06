@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — New arrangements for executives: transitional provision[^key-d9cfaac993271ba8207318ace4a061ea]
+## SCHEDULE 4 — New arrangements for executives: transitional provision[^c-d9cfaac993271ba8207318ace4a061ea]
 
 *Extent: E+W*
 
@@ -26,21 +26,21 @@ Section 245
 
 #### Application of Part
 
-**1.**[^key-19826f2dd5e616b1c68fc1913b14abcf] This Part applies to a local authority in England if, at the relevant time, the authority is operating an old-style leader and cabinet executive.
+**1.**[^c-19826f2dd5e616b1c68fc1913b14abcf] This Part applies to a local authority in England if, at the relevant time, the authority is operating an old-style leader and cabinet executive.
 
 #### Continued operation of existing executive
 
-**2.**[^key-918029d8cdc78c42846f1fc86e4c51b3] (1) The coming into force of section 62(5) does not prevent the local authority from continuing to operate the old-style leader and cabinet executive until the end of the transitional period.
+**2.**[^c-918029d8cdc78c42846f1fc86e4c51b3] (1) The coming into force of section 62(5) does not prevent the local authority from continuing to operate the old-style leader and cabinet executive until the end of the transitional period.
 
 (2) For as long as the local authority continues to operate the old-style leader and cabinet executive, any enactment amended or repealed by this Part of this Act continues to apply in relation to the local authority, and to the executive and its operation, as if the amendment or repeal had not been made.
 
 #### Change in form of executive
 
-**3.**[^key-af305f95d1a5aa98457b8ebd5d59050a] (1) The local authority must make a change in governance arrangements of the kind set out in section 33A of the LGA 2000 (new form of executive).
+**3.**[^c-af305f95d1a5aa98457b8ebd5d59050a] (1) The local authority must make a change in governance arrangements of the kind set out in section 33A of the LGA 2000 (new form of executive).
 
 (2) Sections 33E, 33F, 33G, 33I(2) and 33J of the LGA 2000 apply to a change in governance arrangements required by this paragraph as they apply to a change made under section 33A.
 
-(3)[^key-3bfeda78205b4b6283a4266f96285615] In the application of section 33G by virtue of this paragraph, “**relevant elections**” has the meaning given in paragraph 5.
+(3)[^c-3bfeda78205b4b6283a4266f96285615] In the application of section 33G by virtue of this paragraph, “**relevant elections**” has the meaning given in paragraph 5.
 
 (4) Any resolution to make the change in governance arrangements must be passed—
 
@@ -58,7 +58,7 @@ Section 245
 
 #### Failure to change form of executive: automatic change
 
-**4.**[^key-76de8aa8defbe429f30865bd8c70efd2] (1) This paragraph applies if the local authority does not make a change in governance arrangements in accordance with paragraph 3.
+**4.**[^c-76de8aa8defbe429f30865bd8c70efd2] (1) This paragraph applies if the local authority does not make a change in governance arrangements in accordance with paragraph 3.
 
 (2) Before the end of the transitional period, the local authority must draw up and adopt executive arrangements which provide for a leader and cabinet executive (England).
 
@@ -77,7 +77,7 @@ Section 245
 
 #### Interpretation
 
-**5.**[^key-1550d254caf9aa36ddd5cb315a90b060] (1)[^key-e04749b370025c280131aab387bb7ca6] In this Part—
+**5.**[^c-1550d254caf9aa36ddd5cb315a90b060] (1)[^c-e04749b370025c280131aab387bb7ca6] In this Part—
 
 - “**LGA 2000**” means the Local Government Act 2000 (c. 22);
 - “**old-style leader and cabinet executive**” means a leader and cabinet executive of the form specified in section 11(3) of the LGA 2000;
@@ -93,21 +93,21 @@ Section 245
 
 #### Application of Part
 
-**6.**[^key-cb96b5673d40877ae641a2a78dd0c69a] This Part applies to a local authority in England if, at the relevant time, the authority is operating a mayor and council manager executive.
+**6.**[^c-cb96b5673d40877ae641a2a78dd0c69a] This Part applies to a local authority in England if, at the relevant time, the authority is operating a mayor and council manager executive.
 
 #### Continued operation of existing executive
 
-**7.**[^key-14fa32f82aa436281527a79694b8fe20] (1) The coming into force of section 62(6) does not prevent the local authority from continuing to operate the mayor and council manager executive.
+**7.**[^c-14fa32f82aa436281527a79694b8fe20] (1) The coming into force of section 62(6) does not prevent the local authority from continuing to operate the mayor and council manager executive.
 
 (2) For as long as the local authority continues to operate the mayor and council manager executive, any enactment amended or repealed by this Part of this Act continues to apply in relation to the local authority, and to the executive and its operation, as if the amendment or repeal had not been made.
 
 #### Change in form of executive
 
-**8.**[^key-39dc86deab970053a5c3ab247404bdc2] (1) The local authority must make a change in governance arrangements of the kind set out in section 33A of the LGA 2000 (new form of executive).
+**8.**[^c-39dc86deab970053a5c3ab247404bdc2] (1) The local authority must make a change in governance arrangements of the kind set out in section 33A of the LGA 2000 (new form of executive).
 
 (2) Sections 33E, 33F, 33I(2) and 33J of the LGA 2000 apply to a change in governance arrangements required by this paragraph as they apply to a change made under section 33A.
 
-**9.**[^key-22c1bd7f95db2faa9dd0d52fb2744ff7] (1) This paragraph applies if the proposals drawn up in accordance with section 33E provide for a change to a mayor and cabinet executive.
+**9.**[^c-22c1bd7f95db2faa9dd0d52fb2744ff7] (1) This paragraph applies if the proposals drawn up in accordance with section 33E provide for a change to a mayor and cabinet executive.
 
 (2) The proposals must specify the day on which the authority is to cease operating the mayor and council manager executive and start operating the mayor and cabinet executive.
 
@@ -141,7 +141,7 @@ by virtue of the local authority ceasing to operate the mayor and council manage
 - (a) apply to the first election of the mayor of the mayor and cabinet executive as if it were the election of the mayor of the mayor and council manager executive, and
 - (b) subject to any order under Part 3, apply in the same way to subsequent elections of the mayor of the mayor and cabinet executive.
 
-**10.**[^key-af1f50af74fe47400f00b5a78880b1df] (1) This paragraph applies if the proposals drawn up in accordance with section 33E provide for a change to a leader and cabinet executive (England).
+**10.**[^c-af1f50af74fe47400f00b5a78880b1df] (1) This paragraph applies if the proposals drawn up in accordance with section 33E provide for a change to a leader and cabinet executive (England).
 
 (2) Section 33K(2), (3), (5) and (6) of the LGA 2000 apply to the change as they would if the change were, by virtue of section 33M of the LGA 2000, subject to approval in a referendum.
 
@@ -169,7 +169,7 @@ by virtue of the local authority ceasing to operate the mayor and council manage
 
 #### Failure to change form of executive: automatic change
 
-**11.**[^key-11e9ac2686e44a08724b121b454252bd] (1) This paragraph applies if the local authority does not make a change in its executive arrangements in accordance with paragraph 8.
+**11.**[^c-11e9ac2686e44a08724b121b454252bd] (1) This paragraph applies if the local authority does not make a change in its executive arrangements in accordance with paragraph 8.
 
 (2) Before the end of the transitional period, the local authority must draw up and adopt executive arrangements which provide for a mayor and cabinet executive.
 
@@ -188,7 +188,7 @@ by virtue of the local authority ceasing to operate the mayor and council manage
 
 #### Interpretation
 
-**12.**[^key-0035ba9e39c371a80069b8b622093fcf] (1) In this Part—
+**12.**[^c-0035ba9e39c371a80069b8b622093fcf] (1) In this Part—
 
 - “**LGA 2000**” means the Local Government Act 2000 (c. 22);
 - “**relevant election day**” means the day in 2009 on which an ordinary election of a mayor would take place if the local authority continued to operate a mayor and council manager executive;
@@ -202,7 +202,7 @@ by virtue of the local authority ceasing to operate the mayor and council manage
 
 ### Part 3 — Other transitional provision
 
-**13.**[^key-206eef0462fe83f054b1f7e05946fc02] (1) The Secretary of State may by order make transitional, saving or transitory provision for the purposes of—
+**13.**[^c-206eef0462fe83f054b1f7e05946fc02] (1) The Secretary of State may by order make transitional, saving or transitory provision for the purposes of—
 
 - (a) supplementing or giving full effect to Part 3 of this Act; or
 - (b) making provision consequential on the passing of Part 3 of this Act.
@@ -226,34 +226,34 @@ by virtue of the local authority ceasing to operate the mayor and council manage
 
 ## Annotations
 
-[^key-d9cfaac993271ba8207318ace4a061ea]: Modification: Sch. 4 modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [9](https://www.legislation.gov.uk/uksi/2008/2113/regulation/9)
+[^c-d9cfaac993271ba8207318ace4a061ea]: Modification: Sch. 4 modified (29.8.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) Regulations 2008 (S.I. 2008/2113)](https://www.legislation.gov.uk/uksi/2008/2113), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2113/regulation/1), [9](https://www.legislation.gov.uk/uksi/2008/2113/regulation/9)
 
-[^key-19826f2dd5e616b1c68fc1913b14abcf]: Commencement: Sch. 4 para. 1 in force at 30.12.2007, see s. 245(2)
+[^c-19826f2dd5e616b1c68fc1913b14abcf]: Commencement: Sch. 4 para. 1 in force at 30.12.2007, see s. 245(2)
 
-[^key-918029d8cdc78c42846f1fc86e4c51b3]: Commencement: Sch. 4 para. 2 in force at 30.12.2007, see s. 245(2)
+[^c-918029d8cdc78c42846f1fc86e4c51b3]: Commencement: Sch. 4 para. 2 in force at 30.12.2007, see s. 245(2)
 
-[^key-af305f95d1a5aa98457b8ebd5d59050a]: Commencement: Sch. 4 para. 3 in force at 30.12.2007, see s. 245(2)
+[^c-af305f95d1a5aa98457b8ebd5d59050a]: Commencement: Sch. 4 para. 3 in force at 30.12.2007, see s. 245(2)
 
-[^key-3bfeda78205b4b6283a4266f96285615]: Modification: Sch. 4 para. 3(3) excluded (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [29(2)(b)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/29/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-3bfeda78205b4b6283a4266f96285615]: Modification: Sch. 4 para. 3(3) excluded (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [29(2)(b)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/29/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
-[^key-76de8aa8defbe429f30865bd8c70efd2]: Commencement: Sch. 4 para. 4 in force at 30.12.2007, see s. 245(2)
+[^c-76de8aa8defbe429f30865bd8c70efd2]: Commencement: Sch. 4 para. 4 in force at 30.12.2007, see s. 245(2)
 
-[^key-1550d254caf9aa36ddd5cb315a90b060]: Commencement: Sch. 4 para. 5 in force at 30.12.2007, see s. 245(2)
+[^c-1550d254caf9aa36ddd5cb315a90b060]: Commencement: Sch. 4 para. 5 in force at 30.12.2007, see s. 245(2)
 
-[^key-e04749b370025c280131aab387bb7ca6]: Modification: Sch. 4 para. 5(1) excluded in part (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [29(2)(c)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/29/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-e04749b370025c280131aab387bb7ca6]: Modification: Sch. 4 para. 5(1) excluded in part (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [29(2)(c)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/29/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
-[^key-cb96b5673d40877ae641a2a78dd0c69a]: Commencement: Sch. 4 para. 6 in force at 30.12.2007, see s. 245(2)
+[^c-cb96b5673d40877ae641a2a78dd0c69a]: Commencement: Sch. 4 para. 6 in force at 30.12.2007, see s. 245(2)
 
-[^key-14fa32f82aa436281527a79694b8fe20]: Commencement: Sch. 4 para. 7 in force at 30.12.2007, see s. 245(2)
+[^c-14fa32f82aa436281527a79694b8fe20]: Commencement: Sch. 4 para. 7 in force at 30.12.2007, see s. 245(2)
 
-[^key-39dc86deab970053a5c3ab247404bdc2]: Commencement: Sch. 4 para. 8 in force at 30.12.2007, see s. 245(2)
+[^c-39dc86deab970053a5c3ab247404bdc2]: Commencement: Sch. 4 para. 8 in force at 30.12.2007, see s. 245(2)
 
-[^key-22c1bd7f95db2faa9dd0d52fb2744ff7]: Commencement: Sch. 4 para. 9 in force at 30.12.2007, see s. 245(2)
+[^c-22c1bd7f95db2faa9dd0d52fb2744ff7]: Commencement: Sch. 4 para. 9 in force at 30.12.2007, see s. 245(2)
 
-[^key-af1f50af74fe47400f00b5a78880b1df]: Commencement: Sch. 4 para. 10 in force at 30.12.2007, see s. 245(2)
+[^c-af1f50af74fe47400f00b5a78880b1df]: Commencement: Sch. 4 para. 10 in force at 30.12.2007, see s. 245(2)
 
-[^key-11e9ac2686e44a08724b121b454252bd]: Commencement: Sch. 4 para. 11 in force at 30.12.2007, see s. 245(2)
+[^c-11e9ac2686e44a08724b121b454252bd]: Commencement: Sch. 4 para. 11 in force at 30.12.2007, see s. 245(2)
 
-[^key-0035ba9e39c371a80069b8b622093fcf]: Commencement: Sch. 4 para. 12 in force at 30.12.2007, see s. 245(2)
+[^c-0035ba9e39c371a80069b8b622093fcf]: Commencement: Sch. 4 para. 12 in force at 30.12.2007, see s. 245(2)
 
-[^key-206eef0462fe83f054b1f7e05946fc02]: Commencement: Sch. 4 para. 13 in force at 30.12.2007, see s. 245(2)
+[^c-206eef0462fe83f054b1f7e05946fc02]: Commencement: Sch. 4 para. 13 in force at 30.12.2007, see s. 245(2)

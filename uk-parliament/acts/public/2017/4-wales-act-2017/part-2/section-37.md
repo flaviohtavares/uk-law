@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Consequential amendments to consent requirements in Harbours Act 1964[^key-f5498a87fb99acdffc7a4fd6cd310dfa]
+## 37. Consequential amendments to consent requirements in Harbours Act 1964[^c-f5498a87fb99acdffc7a4fd6cd310dfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5498a87fb99acdffc7a4fd6cd310dfa]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/4/section/37) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-f5498a87fb99acdffc7a4fd6cd310dfa]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/4/section/37) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

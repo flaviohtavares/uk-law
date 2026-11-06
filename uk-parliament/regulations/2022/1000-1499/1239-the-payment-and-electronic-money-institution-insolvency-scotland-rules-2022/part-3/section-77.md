@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Procedure at meetings[^key-72c9d98fb6e3c8d9ebbcd5f97b5cb57e]
+## 77. Procedure at meetings[^c-72c9d98fb6e3c8d9ebbcd5f97b5cb57e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72c9d98fb6e3c8d9ebbcd5f97b5cb57e]: Commencement: Rule 77 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-72c9d98fb6e3c8d9ebbcd5f97b5cb57e]: Commencement: Rule 77 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

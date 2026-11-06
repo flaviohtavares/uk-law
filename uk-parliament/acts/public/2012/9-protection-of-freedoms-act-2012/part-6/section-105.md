@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Appointment and tenure of Information Commissioner[^key-90ce82580c698cc39b9ccb37a6c93f6d]
+## 105. Appointment and tenure of Information Commissioner[^c-90ce82580c698cc39b9ccb37a6c93f6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ce82580c698cc39b9ccb37a6c93f6d]: Commencement: S. 105 in force at 16.3.2015 by [S.I. 2015/587](https://www.legislation.gov.uk/uksi/2015/587), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/587/article/2/a)
+[^c-90ce82580c698cc39b9ccb37a6c93f6d]: Commencement: S. 105 in force at 16.3.2015 by [S.I. 2015/587](https://www.legislation.gov.uk/uksi/2015/587), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/587/article/2/a)

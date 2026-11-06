@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Duty to report on completion of default proceedings[^key-3a2b4c77c1921ff0d759c5e4b15db1b0]
+## 93. Duty to report on completion of default proceedings[^c-3a2b4c77c1921ff0d759c5e4b15db1b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3a2b4c77c1921ff0d759c5e4b15db1b0]: Commencement: Art. 93 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3a2b4c77c1921ff0d759c5e4b15db1b0]: Commencement: Art. 93 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00090]: Footnote: Amended by [SR (NI) 1991/443](https://www.legislation.gov.uk/nisr/1991/443).
 

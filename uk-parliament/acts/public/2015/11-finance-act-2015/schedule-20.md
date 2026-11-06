@@ -64,17 +64,17 @@ Section 120
 > - (b) the territory in question is a category 1 territory, and
 > - (c) the tax at stake is income tax, capital gains tax or inheritance tax.
 
-(3)[^key-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (2)—
+(3)[^c-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (2)—
 
 - (a) in paragraph (a), after “matter” insert “ or an offshore transfer ”, and
 - (b) in paragraph (c), for “or capital gains tax” substitute “ , capital gains tax or inheritance tax ”.
 
-(4)[^key-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (3)—
+(4)[^c-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (3)—
 
 - (a) in paragraph (a), after “matter” insert “ or an offshore transfer ”, and
 - (b) in paragraph (c), for “or capital gains tax” substitute “ , capital gains tax or inheritance tax ”.
 
-(5)[^key-b7805fbcbd765412655e4c61f827010d] After sub-paragraph (4) insert—
+(5)[^c-b7805fbcbd765412655e4c61f827010d] After sub-paragraph (4) insert—
 
 > (4A) Where the tax at stake is inheritance tax, assets are treated for the purposes of sub-paragraph (4) as situated or held in a territory outside the UK if they are so situated or held immediately after the transfer of value by reason of which inheritance tax becomes chargeable.
 >
@@ -85,13 +85,13 @@ Section 120
 > - (c) the tax at stake is income tax, capital gains tax or inheritance tax, and
 > - (d) the applicable condition in paragraph 4AA is satisfied.
 
-(6)[^key-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (5), for the words following “revenue” substitute “ and does not involve either an offshore matter or an offshore transfer ”.
+(6)[^c-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (5), for the words following “revenue” substitute “ and does not involve either an offshore matter or an offshore transfer ”.
 
-(7)[^key-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (6)(a), after “matters” insert “ or transfers ”.
+(7)[^c-b7805fbcbd765412655e4c61f827010d] In sub-paragraph (6)(a), after “matters” insert “ or transfers ”.
 
 (8) In sub-paragraph (7), for “ “Category 1” substitute “ “Category 0 territory”, “category 1”.
 
-**4.**[^key-96624aadf2822301808e6bac74b463b8] After paragraph 4A insert—
+**4.**[^c-96624aadf2822301808e6bac74b463b8] After paragraph 4A insert—
 
 > **4AA.** (1) This paragraph makes provision in relation to offshore transfers.
 >
@@ -171,7 +171,7 @@ Section 120
 
 > (7) An instrument containing (whether alone or with other provisions) the first order to be made under sub-paragraph (A1) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the House of Commons.
 
-**8.**[^key-967728934ad4d4a6ba161fa0036542df] (1) Paragraph 21B (location of assets etc) is amended as follows.
+**8.**[^c-967728934ad4d4a6ba161fa0036542df] (1) Paragraph 21B (location of assets etc) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -225,11 +225,11 @@ Section 120
 > - (b) the territory in question is a category 1 territory, and
 > - (c) the tax at stake is income tax or capital gains tax.
 
-(3)[^key-970ff840e965508f9758083bb428c97d] In sub-paragraph (2)(a), after “matter” insert “ or an offshore transfer ”.
+(3)[^c-970ff840e965508f9758083bb428c97d] In sub-paragraph (2)(a), after “matter” insert “ or an offshore transfer ”.
 
-(4)[^key-970ff840e965508f9758083bb428c97d] In sub-paragraph (3)(a), after “matter” insert “ or an offshore transfer ”.
+(4)[^c-970ff840e965508f9758083bb428c97d] In sub-paragraph (3)(a), after “matter” insert “ or an offshore transfer ”.
 
-(5)[^key-970ff840e965508f9758083bb428c97d] After sub-paragraph (4) insert—
+(5)[^c-970ff840e965508f9758083bb428c97d] After sub-paragraph (4) insert—
 
 > (4A) A failure “involves an offshore transfer” if—
 >
@@ -238,15 +238,15 @@ Section 120
 > - (c) the tax at stake is income tax or capital gains tax, and
 > - (d) the applicable condition in paragraph 6AA is satisfied.
 
-(6)[^key-970ff840e965508f9758083bb428c97d] In sub-paragraph (5), for the words following “revenue” substitute “ and does not involve either an offshore matter or an offshore transfer ”.
+(6)[^c-970ff840e965508f9758083bb428c97d] In sub-paragraph (5), for the words following “revenue” substitute “ and does not involve either an offshore matter or an offshore transfer ”.
 
-(7)[^key-970ff840e965508f9758083bb428c97d] In sub-paragraph (6)(a), after “matters” insert “ or transfers ”.
+(7)[^c-970ff840e965508f9758083bb428c97d] In sub-paragraph (6)(a), after “matters” insert “ or transfers ”.
 
-(8)[^key-970ff840e965508f9758083bb428c97d] Omit sub-paragraph (8).
+(8)[^c-970ff840e965508f9758083bb428c97d] Omit sub-paragraph (8).
 
-(9)[^key-970ff840e965508f9758083bb428c97d] In sub-paragraph (9), after “paragraph” insert “ and paragraph 6AA ”.
+(9)[^c-970ff840e965508f9758083bb428c97d] In sub-paragraph (9), after “paragraph” insert “ and paragraph 6AA ”.
 
-**12.**[^key-a5f77013141e99c8bddf9ced329120d7] After paragraph 6A insert—
+**12.**[^c-a5f77013141e99c8bddf9ced329120d7] After paragraph 6A insert—
 
 > **6AA.** (1) This paragraph makes provision in relation to offshore transfers.
 >
@@ -339,17 +339,17 @@ Section 120
 > - (b) the territory in question is a category 1 territory, and
 > - (c) it is information which would enable or assist HMRC to assess P's liability to income tax, capital gains tax or inheritance tax.
 
-(3)[^key-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (2)—
+(3)[^c-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (2)—
 
 - (a) in paragraph (a), after “matter” insert “ or an offshore transfer ”, and
 - (b) in paragraph (c), for “or capital gains tax” substitute “ , capital gains tax or inheritance tax ”.
 
-(4)[^key-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (3)—
+(4)[^c-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (3)—
 
 - (a) in paragraph (a), after “matter” insert “ or an offshore transfer ”, and
 - (b) in paragraph (c), for “or capital gains tax” substitute “ , capital gains tax or inheritance tax ”.
 
-(5)[^key-bde87d5748f6f1232472270adec0c58b] After sub-paragraph (4) insert—
+(5)[^c-bde87d5748f6f1232472270adec0c58b] After sub-paragraph (4) insert—
 
 > (4A) If the liability to tax which would have been shown in the return is a liability to inheritance tax, assets are treated for the purposes of sub-paragraph (4) as situated or held in a territory outside the UK if they are so situated or held immediately after the transfer of value by reason of which inheritance tax becomes chargeable.
 >
@@ -360,15 +360,15 @@ Section 120
 > - (c) by failing to make the return, P deliberately withholds the information (whether or not the withholding of the information is also concealed), and
 > - (d) the applicable condition in paragraph 6AA is satisfied.
 
-(6)[^key-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (5), for the words following “if” substitute “ it does not involve an offshore matter or an offshore transfer ”.
+(6)[^c-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (5), for the words following “if” substitute “ it does not involve an offshore matter or an offshore transfer ”.
 
-(7)[^key-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (6)(a), after “matters” insert “ or transfers ”.
+(7)[^c-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (6)(a), after “matters” insert “ or transfers ”.
 
-(8)[^key-bde87d5748f6f1232472270adec0c58b] Omit sub-paragraph (8).
+(8)[^c-bde87d5748f6f1232472270adec0c58b] Omit sub-paragraph (8).
 
-(9)[^key-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (9), after “paragraph” insert “ and paragraph 6AA ”.
+(9)[^c-bde87d5748f6f1232472270adec0c58b] In sub-paragraph (9), after “paragraph” insert “ and paragraph 6AA ”.
 
-**17.**[^key-007d320ea416afcb5e40df50236ef76e] After paragraph 6A insert—
+**17.**[^c-007d320ea416afcb5e40df50236ef76e] After paragraph 6A insert—
 
 > **6AA.** (1) This paragraph makes provision in relation to offshore transfers.
 >
@@ -419,7 +419,7 @@ Section 120
 
 .
 
-### General anti-abuse rule: aggregate penalties[^key-a0539c47ed8b37eff487af1d948ceafd]
+### General anti-abuse rule: aggregate penalties[^c-a0539c47ed8b37eff487af1d948ceafd]
 
 **20.** (1) In Schedule 43C to FA 2013 (general anti-abuse rule: supplementary provision about penalty), sub-paragraph (6) of paragraph 8 is amended as follows.
 
@@ -436,7 +436,7 @@ Section 120
 
 (4) In sub-paragraph (d) for “none of paragraphs (a), (b) and (c) applies” substitute “none of paragraphs (a) to (c) applies.
 
-### Follower notices: aggregate penalties[^key-6d48e4a83151463527dd9c41bafbbcc2]
+### Follower notices: aggregate penalties[^c-6d48e4a83151463527dd9c41bafbbcc2]
 
 **21.** (1) Section 212(5) of FA 2014 (follower notices: aggregate penalties) is amended as follows.
 
@@ -455,20 +455,20 @@ Section 120
 
 ## Annotations
 
-[^key-b7805fbcbd765412655e4c61f827010d]: Commencement: Sch. 20 para. 3(3)-(7) in force at 1.4.2016 and the amendments therein have effect in accordance with art. 3(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/456/article/3/1)
+[^c-b7805fbcbd765412655e4c61f827010d]: Commencement: Sch. 20 para. 3(3)-(7) in force at 1.4.2016 and the amendments therein have effect in accordance with art. 3(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/456/article/3/1)
 
-[^key-96624aadf2822301808e6bac74b463b8]: Commencement: Sch. 20 para. 4 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 3(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/456/article/3/1)
+[^c-96624aadf2822301808e6bac74b463b8]: Commencement: Sch. 20 para. 4 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 3(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/456/article/3/1)
 
-[^key-967728934ad4d4a6ba161fa0036542df]: Commencement: Sch. 20 para. 8 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 3(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/456/article/3/1)
+[^c-967728934ad4d4a6ba161fa0036542df]: Commencement: Sch. 20 para. 8 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 3(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/456/article/3/1)
 
-[^key-970ff840e965508f9758083bb428c97d]: Commencement: Sch. 20 para. 11(3)-(9) in force at 1.4.2016 and the amendments therein have effect in accordance with art. 4(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 4(1)](https://www.legislation.gov.uk/uksi/2016/456/article/4/1)
+[^c-970ff840e965508f9758083bb428c97d]: Commencement: Sch. 20 para. 11(3)-(9) in force at 1.4.2016 and the amendments therein have effect in accordance with art. 4(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 4(1)](https://www.legislation.gov.uk/uksi/2016/456/article/4/1)
 
-[^key-a5f77013141e99c8bddf9ced329120d7]: Commencement: Sch. 20 para. 12 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 4(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 4(1)](https://www.legislation.gov.uk/uksi/2016/456/article/4/1)
+[^c-a5f77013141e99c8bddf9ced329120d7]: Commencement: Sch. 20 para. 12 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 4(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 4(1)](https://www.legislation.gov.uk/uksi/2016/456/article/4/1)
 
-[^key-bde87d5748f6f1232472270adec0c58b]: Commencement: Sch. 20 para. 16(3)-(9) in force at 1.4.2016 and the amendments therein have effect in accordance with art. 5(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 5(1)](https://www.legislation.gov.uk/uksi/2016/456/article/5/1)
+[^c-bde87d5748f6f1232472270adec0c58b]: Commencement: Sch. 20 para. 16(3)-(9) in force at 1.4.2016 and the amendments therein have effect in accordance with art. 5(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 5(1)](https://www.legislation.gov.uk/uksi/2016/456/article/5/1)
 
-[^key-007d320ea416afcb5e40df50236ef76e]: Commencement: Sch. 20 para. 17 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 5(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 5(1)](https://www.legislation.gov.uk/uksi/2016/456/article/5/1)
+[^c-007d320ea416afcb5e40df50236ef76e]: Commencement: Sch. 20 para. 17 in force at 1.4.2016 and the amendments therein have effect in accordance with art. 5(2) of the commencing S.I. by [S.I. 2016/456](https://www.legislation.gov.uk/uksi/2016/456), [art. 5(1)](https://www.legislation.gov.uk/uksi/2016/456/article/5/1)
 
-[^key-a0539c47ed8b37eff487af1d948ceafd]: Textual amendment: Sch. 20 para. 20 and cross-heading inserted (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/14)
+[^c-a0539c47ed8b37eff487af1d948ceafd]: Textual amendment: Sch. 20 para. 20 and cross-heading inserted (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/14)
 
-[^key-6d48e4a83151463527dd9c41bafbbcc2]: Textual amendment: [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2015/11/schedule/20/paragraph/21) and cross-heading inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/14)
+[^c-6d48e4a83151463527dd9c41bafbbcc2]: Textual amendment: [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2015/11/schedule/20/paragraph/21) and cross-heading inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/14)

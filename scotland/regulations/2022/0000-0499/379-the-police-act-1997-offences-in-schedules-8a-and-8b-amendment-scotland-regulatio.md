@@ -42,28 +42,28 @@ Coming into force
 
 19th December 2022
 
-[^key-acbaa9fbcd6fda5709bfdf72953362b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acbaa9fbcd6fda5709bfdf72953362b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-acbaa9fbcd6fda5709bfdf72953362b4]
+## 1. Citation and commencement[^c-acbaa9fbcd6fda5709bfdf72953362b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of schedule 8A of the Police Act 1997[^key-acbaa9fbcd6fda5709bfdf72953362b4]
+## 2. Modification of schedule 8A of the Police Act 1997[^c-acbaa9fbcd6fda5709bfdf72953362b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of schedule 8B of the Police Act 1997[^key-acbaa9fbcd6fda5709bfdf72953362b4]
+## 3. Modification of schedule 8B of the Police Act 1997[^c-acbaa9fbcd6fda5709bfdf72953362b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-acbaa9fbcd6fda5709bfdf72953362b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acbaa9fbcd6fda5709bfdf72953362b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-acbaa9fbcd6fda5709bfdf72953362b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acbaa9fbcd6fda5709bfdf72953362b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-acbaa9fbcd6fda5709bfdf72953362b4]: Textual amendment: Regulations revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/24); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-acbaa9fbcd6fda5709bfdf72953362b4]: Textual amendment: Regulations revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/24); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

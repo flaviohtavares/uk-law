@@ -23,7 +23,7 @@ summary: ''
 (1)[^c20916651] If— *(affected by repeal, see note)*[^c20916651]
 
 - (a) a United Kingdom national does an act in a country outside the United Kingdom, and *(affected by repeal, see note)*[^c20916651]
-- (b) the act, if done in England and Wales *(affected by repeal, see note)*[^c20916651] [^c20930341]..., would constitute a sexual offence to which this *(affected by repeal, see note)*[^c20916651] subsection[^key-86d3d4601f051a3aebf773f180c525e2] *(affected by repeal, see note)*[^c20916651] applies, *(affected by repeal, see note)*[^c20916651]
+- (b) the act, if done in England and Wales *(affected by repeal, see note)*[^c20916651] [^c20930341]..., would constitute a sexual offence to which this *(affected by repeal, see note)*[^c20916651] subsection[^c-86d3d4601f051a3aebf773f180c525e2] *(affected by repeal, see note)*[^c20916651] applies, *(affected by repeal, see note)*[^c20916651]
 
 the United Kingdom national is guilty in *(affected by repeal, see note)*[^c20916651] England and Wales[^c20974461] *(affected by repeal, see note)*[^c20916651] of that sexual offence. *(affected by repeal, see note)*[^c20916651]
 
@@ -31,7 +31,7 @@ the United Kingdom national is guilty in *(affected by repeal, see note)*[^c2091
 
 - (a) a United Kingdom resident does an act in a country outside the United Kingdom, *(affected by repeal, see note)*[^c20916651]
 - (b) the act constitutes an offence under the law in force in that country, and *(affected by repeal, see note)*[^c20916651]
-- (c) the act, if done in England and Wales *(affected by repeal, see note)*[^c20916651] [^c20930381]..., would constitute a sexual offence to which this *(affected by repeal, see note)*[^c20916651] subsection[^key-600720e2f23b745f4aa813bb9cb8b1a2] *(affected by repeal, see note)*[^c20916651] applies, *(affected by repeal, see note)*[^c20916651]
+- (c) the act, if done in England and Wales *(affected by repeal, see note)*[^c20916651] [^c20930381]..., would constitute a sexual offence to which this *(affected by repeal, see note)*[^c20916651] subsection[^c-600720e2f23b745f4aa813bb9cb8b1a2] *(affected by repeal, see note)*[^c20916651] applies, *(affected by repeal, see note)*[^c20916651]
 
 the United Kingdom resident is guilty in *(affected by repeal, see note)*[^c20916651] England and Wales[^c20930401] *(affected by repeal, see note)*[^c20916651] of that sexual offence. *(affected by repeal, see note)*[^c20916651]
 
@@ -39,7 +39,7 @@ the United Kingdom resident is guilty in *(affected by repeal, see note)*[^c2091
 
 - (a) a person does an act in a country outside the United Kingdom at a time when the person was not a United Kingdom national or a United Kingdom resident, *(affected by repeal, see note)*[^c20916651]
 - (b) the act constituted an offence under the law in force in that country, *(affected by repeal, see note)*[^c20916651]
-- (c) the act, if done in England and Wales *(affected by repeal, see note)*[^c20916651] [^c20930421]..., would have constituted a sexual offence to which this *(affected by repeal, see note)*[^c20916651] subsection[^key-a3a620a0825b1cada30472f84cbdaec8] *(affected by repeal, see note)*[^c20916651] applies, and *(affected by repeal, see note)*[^c20916651]
+- (c) the act, if done in England and Wales *(affected by repeal, see note)*[^c20916651] [^c20930421]..., would have constituted a sexual offence to which this *(affected by repeal, see note)*[^c20916651] subsection[^c-a3a620a0825b1cada30472f84cbdaec8] *(affected by repeal, see note)*[^c20916651] applies, and *(affected by repeal, see note)*[^c20916651]
 - (d) the person meets the residence or nationality condition at the relevant time, *(affected by repeal, see note)*[^c20916651]
 
 proceedings may be brought against the person in *(affected by repeal, see note)*[^c20916651] England and Wales[^c20930441] *(affected by repeal, see note)*[^c20916651] for that sexual offence as if the person had done the act there. *(affected by repeal, see note)*[^c20916651]
@@ -67,7 +67,7 @@ proceedings may be brought against the person in *(affected by repeal, see note)
   - (c) a British protected person within the meaning of that Act; *(affected by repeal, see note)*[^c20916651]
 - “**United Kingdom resident *(affected by repeal, see note)*[^c20916651]**” means an individual who is resident in the United Kingdom. *(affected by repeal, see note)*[^c20916651]
 
-(10) Schedule 2 lists the sexual offences to which *(affected by repeal, see note)*[^c20916651] subsections (1) to (3) apply[^key-ba606242faa62c554ddb4a2ed0710e73] *(affected by repeal, see note)*[^c20916651].
+(10) Schedule 2 lists the sexual offences to which *(affected by repeal, see note)*[^c20916651] subsections (1) to (3) apply[^c-ba606242faa62c554ddb4a2ed0710e73] *(affected by repeal, see note)*[^c20916651].
 
 ## Annotations
 
@@ -77,20 +77,20 @@ proceedings may be brought against the person in *(affected by repeal, see note)
 
 [^c20930341]: Textual amendment: Words in s. 72(1) omitted (2.2.2009) by virtue of [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [10(2)(a)](https://www.legislation.gov.uk/uksi/2008/1779/article/10/2/a); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-86d3d4601f051a3aebf773f180c525e2]: Textual amendment: Word in s. 72(1)(b) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/a)
+[^c-86d3d4601f051a3aebf773f180c525e2]: Textual amendment: Word in s. 72(1)(b) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/a)
 
 [^c20974461]: Textual amendment: Words in s. 72(1) substituted (2.2.2009) by [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [10(2)(b)](https://www.legislation.gov.uk/uksi/2008/1779/article/10/2/b); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
 [^c20930381]: Textual amendment: Words in s. 72(2) omitted (2.2.2009) by virtue of [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [10(3)(a)](https://www.legislation.gov.uk/uksi/2008/1779/article/10/3/a); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-600720e2f23b745f4aa813bb9cb8b1a2]: Textual amendment: Word in s. 72(2)(c) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/a)
+[^c-600720e2f23b745f4aa813bb9cb8b1a2]: Textual amendment: Word in s. 72(2)(c) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/a)
 
 [^c20930401]: Textual amendment: Words in s. 72(2) substituted (2.2.2009) by [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [10(3)(b)](https://www.legislation.gov.uk/uksi/2008/1779/article/10/3/b); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
 [^c20930421]: Textual amendment: Words in s. 72(3) omitted (2.2.2009) by virtue of [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [10(4)(a)](https://www.legislation.gov.uk/uksi/2008/1779/article/10/4/a); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-a3a620a0825b1cada30472f84cbdaec8]: Textual amendment: Word in s. 72(3)(c) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/b)
+[^c-a3a620a0825b1cada30472f84cbdaec8]: Textual amendment: Word in s. 72(3)(c) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/b)
 
 [^c20930441]: Textual amendment: Words in s. 72(3) substituted (2.2.2009) by [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [10(4)(b)](https://www.legislation.gov.uk/uksi/2008/1779/article/10/4/b); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-ba606242faa62c554ddb4a2ed0710e73]: Textual amendment: Words in s. 72(10) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/c)
+[^c-ba606242faa62c554ddb4a2ed0710e73]: Textual amendment: Words in s. 72(10) substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/2/2/c)

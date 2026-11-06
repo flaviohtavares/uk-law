@@ -295,7 +295,7 @@ The Department for Employment and Learning[^f00001] makes the following Regulati
 - [Section 105 — Overpayments of college fee loan](part-10/section-105.md)
 - [Section 106 — Overpayments of support payable under Part 5 or 6](part-10/section-106.md)
 
-#### CHAPTER 4A[^key-b9c216b41b8ad5c76687a6f106cffdce]
+#### CHAPTER 4A[^c-b9c216b41b8ad5c76687a6f106cffdce]
 
 - [Section 106A](part-10/section-106a.md)
 
@@ -305,7 +305,7 @@ The Department for Employment and Learning[^f00001] makes the following Regulati
 
 - [Section 107 — Interpretation](part-10/section-107.md)
 
-### PART 10A — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^key-b68c562ac9b0692a1dd949a9d88cea5e]
+### PART 10A — SUPPORT FOR FULL-TIME DISTANCE LEARNING COURSES[^c-b68c562ac9b0692a1dd949a9d88cea5e]
 
 - [Section 107A — Eligible distance learning students](part-10a/section-107a.md)
 - [Section 107B — Students becoming eligible during the course of the academic year](part-10a/section-107b.md)
@@ -422,6 +422,6 @@ A regulatory impact assessment has not been produced for this regulation as it h
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) *see* Article 5(b) and Schedule 3 Part II
 
-[^key-b9c216b41b8ad5c76687a6f106cffdce]: Textual amendment: Pt. 10 Ch. 4A inserted (17.7.2008) by [The Education (Student Support) Regulations (Northern Ireland) 2008 (S.R. 2008/250)](https://www.legislation.gov.uk/nisr/2008/250), [reg. 1](https://www.legislation.gov.uk/nisr/2008/250/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/250/schedule/1/paragraph/5)
+[^c-b9c216b41b8ad5c76687a6f106cffdce]: Textual amendment: Pt. 10 Ch. 4A inserted (17.7.2008) by [The Education (Student Support) Regulations (Northern Ireland) 2008 (S.R. 2008/250)](https://www.legislation.gov.uk/nisr/2008/250), [reg. 1](https://www.legislation.gov.uk/nisr/2008/250/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/250/schedule/1/paragraph/5)
 
-[^key-b68c562ac9b0692a1dd949a9d88cea5e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/nisr/2007/195/part/10A/regulation/107A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [17](https://www.legislation.gov.uk/nisr/2007/363/regulation/17)
+[^c-b68c562ac9b0692a1dd949a9d88cea5e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/nisr/2007/195/part/10A/regulation/107A) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [17](https://www.legislation.gov.uk/nisr/2007/363/regulation/17)

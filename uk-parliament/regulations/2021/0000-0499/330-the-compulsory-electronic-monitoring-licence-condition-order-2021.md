@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 62A(1), (2) and (3) and 76(3) of the Criminal Justice and Court Services Act 2000[^f00001], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-fbb7a71fb21e5d46497f4e5f3da60b86]
+## 1. Citation, commencement and interpretation[^c-fbb7a71fb21e5d46497f4e5f3da60b86]
 
 (1) This Order may be cited as the Compulsory Electronic Monitoring Licence Condition Order 2021 and comes into force on 12th April 2021.
 
@@ -57,25 +57,25 @@ The Secretary of State, in exercise of the powers conferred by sections 62A(1), 
 - “specified area” means a police area[^f00003] specified in Schedule 1;
 - “specified period” means the period described in Article 4.
 
-## 2. Qualifying offender[^key-8771f0166c6d34ac706967b45c23b369]
+## 2. Qualifying offender[^c-8771f0166c6d34ac706967b45c23b369]
 
 This Order applies to a person who—
 
 - (a) is a fixed-term prisoner, within the meaning of section 237(1) of the 2003 Act (meaning of fixed-term prisoner)[^f00004], released on licence on or after the commencement of this Order;
 - (b) is serving a sentence of imprisonment—
-  - (i) for a determinate term of 90 days[^key-71fb6d385910f35e6a00d4020e6fd8bc] or more subject to release on licence under section 244 of the 2003 Act (duty to release prisoners)[^f00005];
+  - (i) for a determinate term of 90 days[^c-71fb6d385910f35e6a00d4020e6fd8bc] or more subject to release on licence under section 244 of the 2003 Act (duty to release prisoners)[^f00005];
   - (ii) in respect of an offence specified in Schedule 2; and
-  - (iii) in the case of a person serving two or more sentences of imprisonment, that sentence is the longest or equal longest[^key-68c71c2d3ceb06945f6a648b4064cdd3] term;
+  - (iii) in the case of a person serving two or more sentences of imprisonment, that sentence is the longest or equal longest[^c-68c71c2d3ceb06945f6a648b4064cdd3] term;
 - (c) from any release, will be on licence for a period of 30 days or more;
-- (d) is required to reside on licence [^key-6fb03d080050426a5d86762056236036]... within a specified area;
+- (d) is required to reside on licence [^c-6fb03d080050426a5d86762056236036]... within a specified area;
 - (e) has not previously had an electronic monitoring condition included in any licence in respect of the same sentence in accordance with this Order for the specified period; and
 - (f) to the satisfaction of the Secretary of State, is not otherwise unsuitable for electronic monitoring.
 
-## 3. Compulsory electronic monitoring condition[^key-da217cd41c8f96d07cfd844161a3f0b3]
+## 3. Compulsory electronic monitoring condition[^c-da217cd41c8f96d07cfd844161a3f0b3]
 
 An electronic monitoring condition must be included in the licence of a qualifying offender for the specified period.
 
-## 4. Specified period[^key-b9a0eb5dba2a787d055702de19910570]
+## 4. Specified period[^c-b9a0eb5dba2a787d055702de19910570]
 
 The specified period—
 
@@ -85,7 +85,7 @@ The specified period—
   - (iii) sections 255B, 255C or 256A of the 2003 Act (further release after recall)[^f00007]; and
 - (b) continues to the earlier of—
   - (i) any of the conditions described in Article 2 not being met;
-  - (ii)[^key-ea528623e2db3828d4b4dbf776564491] the date on which supervision of the licence is suspended; or
+  - (ii)[^c-ea528623e2db3828d4b4dbf776564491] the date on which supervision of the licence is suspended; or
   - (iii) 12 months from the date of first release referred to in paragraph (a), excluding any period where the qualifying offender is no longer released on licence.
 
 Kit Malthouse
@@ -98,19 +98,19 @@ Ministry of Justice
 
 Article 1(2)
 
-**1.**[^key-92f07465befb2fcf7a3f870bdfb94015] Avon and Somerset
+**1.**[^c-92f07465befb2fcf7a3f870bdfb94015] Avon and Somerset
 
-**2.**[^key-00cddcf21e0f59cc6fa7a4494bbb0dac] Cheshire
+**2.**[^c-00cddcf21e0f59cc6fa7a4494bbb0dac] Cheshire
 
-**3.**[^key-93497eb4e05b1f7d290a9a1dc20a8aa1] Gloucestershire
+**3.**[^c-93497eb4e05b1f7d290a9a1dc20a8aa1] Gloucestershire
 
-**4.**[^key-0068df039885915784043af0dd0acfad] Gwent
+**4.**[^c-0068df039885915784043af0dd0acfad] Gwent
 
-**5.**[^key-f8accd604f3177a90308e8b330d792b1] Humberside
+**5.**[^c-f8accd604f3177a90308e8b330d792b1] Humberside
 
-**6.**[^key-c1f75d4ff7f3a3402aca913971439627] West Midlands
+**6.**[^c-c1f75d4ff7f3a3402aca913971439627] West Midlands
 
-**7.**[^key-b803f3562f118d7e5c57c701233afb07] Bedfordshire
+**7.**[^c-b803f3562f118d7e5c57c701233afb07] Bedfordshire
 
 **8.** City of London police area
 
@@ -122,7 +122,7 @@ Article 1(2)
 
 **12.** Essex
 
-**13.**[^key-0c07d3c8ce4e6abe6b149947c34286b5] Hampshire and Isle of Wight
+**13.**[^c-0c07d3c8ce4e6abe6b149947c34286b5] Hampshire and Isle of Wight
 
 **14.** Hertfordshire
 
@@ -140,18 +140,18 @@ Article 1(2)
 
 Article 2(b)(ii)
 
-**1.**[^key-c3c7274badbc934c7c288dfc5559ceae] An offence under section 1 of the Theft Act 1968[^f00008] of—
+**1.**[^c-c3c7274badbc934c7c288dfc5559ceae] An offence under section 1 of the Theft Act 1968[^f00008] of—
 
 - (a) theft from the person of another;
 - (b) theft from a motor vehicle;
 - (c) theft from a vehicle other than a motor vehicle;
 - (d) theft of a motor vehicle other than aggravated vehicle taking under section 12A[^f00009] of that Act.
 
-**2.**[^key-92ebf848d30ea0e5b1a3d4bf1b435f5f] An offence under section 8 of that Act (robbery or assault with intent to rob).
+**2.**[^c-92ebf848d30ea0e5b1a3d4bf1b435f5f] An offence under section 8 of that Act (robbery or assault with intent to rob).
 
-**3.**[^key-abd4ed00dc7594d9695a046a4ff6100e] An offence under section 9[^f00010] of that Act (burglary).
+**3.**[^c-abd4ed00dc7594d9695a046a4ff6100e] An offence under section 9[^f00010] of that Act (burglary).
 
-**4.**[^key-129b43242222b2bb3f75f8e45107772c] An offence under section 10 of that Act (aggravated burglary).
+**4.**[^c-129b43242222b2bb3f75f8e45107772c] An offence under section 10 of that Act (aggravated burglary).
 
 EXPLANATORY NOTE
 
@@ -171,60 +171,60 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: 2000 c. 43. Section 62A was inserted by section 7(3) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 
-[^key-fbb7a71fb21e5d46497f4e5f3da60b86]: Commencement: Art. 1 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-fbb7a71fb21e5d46497f4e5f3da60b86]: Commencement: Art. 1 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
 [^f00002]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
 [^f00003]: Footnote: The term “police area” has the meaning ascribed to it in section 101(1) of the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16) by virtue of Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30). The police areas are listed in Schedule 1 to the Police Act 1996.
 
-[^key-8771f0166c6d34ac706967b45c23b369]: Commencement: Art. 2 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-8771f0166c6d34ac706967b45c23b369]: Commencement: Art. 2 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
 [^f00004]: Footnote: Section 237(1) has been amended by paragraph 219 of Schedule 16 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), section 117(2) of, and paragraph 2 of Schedule 20, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 2(3) of the Offender Rehabilitation Act [2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), paragraph 15(2) of Schedule 1 to the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) and paragraph 218(1) and (2) of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 
-[^key-71fb6d385910f35e6a00d4020e6fd8bc]: Textual amendment: Words in [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2021/330/article/2/b/i) substituted (26.10.2022) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2022 (S.I. 2022/1019)](https://www.legislation.gov.uk/uksi/2022/1019), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1019/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1019/article/2/2)
+[^c-71fb6d385910f35e6a00d4020e6fd8bc]: Textual amendment: Words in [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2021/330/article/2/b/i) substituted (26.10.2022) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2022 (S.I. 2022/1019)](https://www.legislation.gov.uk/uksi/2022/1019), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1019/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1019/article/2/2)
 
 [^f00005]: Footnote: Section 244 has been amended by sections 114(2) and 125(2) of, and paragraph 21 of Schedule 10, paragraph 6 of Schedule 14 and paragraph 2 of Schedule 17 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 9(2) of, and paragraph 18 of Schedule 3 to, the Offender Rehabilitation Act [2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), paragraph 5 of Schedule 1 to the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) and section 2(3) of the Terrorist Offenders (Restriction of Early Release) Act [2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3); and modified by [S.I. 2020/158](https://www.legislation.gov.uk/uksi/2020/158).
 
-[^key-68c71c2d3ceb06945f6a648b4064cdd3]: Textual amendment: Words in [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2021/330/article/2/b/iii) inserted (29.9.2021) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2021 (S.I. 2021/999)](https://www.legislation.gov.uk/uksi/2021/999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/999/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/999/article/2/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/999/article/1/3))
+[^c-68c71c2d3ceb06945f6a648b4064cdd3]: Textual amendment: Words in [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2021/330/article/2/b/iii) inserted (29.9.2021) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2021 (S.I. 2021/999)](https://www.legislation.gov.uk/uksi/2021/999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/999/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/999/article/2/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/999/article/1/3))
 
-[^key-6fb03d080050426a5d86762056236036]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/330/article/2/d) omitted (29.9.2021) by virtue of [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2021 (S.I. 2021/999)](https://www.legislation.gov.uk/uksi/2021/999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/999/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/999/article/2/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/999/article/1/3))
+[^c-6fb03d080050426a5d86762056236036]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/330/article/2/d) omitted (29.9.2021) by virtue of [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2021 (S.I. 2021/999)](https://www.legislation.gov.uk/uksi/2021/999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/999/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/999/article/2/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/999/article/1/3))
 
-[^key-da217cd41c8f96d07cfd844161a3f0b3]: Commencement: Art. 3 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-da217cd41c8f96d07cfd844161a3f0b3]: Commencement: Art. 3 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-b9a0eb5dba2a787d055702de19910570]: Commencement: Art. 4 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-b9a0eb5dba2a787d055702de19910570]: Commencement: Art. 4 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
 [^f00006]: Footnote: Section 246 has been amended by paragraph 221 of Schedule 16 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), section 24 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), sections 110(9) and 112 of, and paragraph 23 of Schedule 10, paragraph 7 of Schedule 14, and paragraph 5 of Schedule 20 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 15(4) of, and paragraph 7 of Schedule 1 to, the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), section 2(5) of the Terrorist Offenders (Restriction of Early Release) Act [2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3) and paragraph 224 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 
 [^f00007]: Footnote: Sections 255B and 255C were substituted by section 114(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10). Section 255B has been subsequently amended by section 9(5) of the Offender Rehabilitation Act [2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11). Section 256A was inserted by section 30(6) of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and amended by section 116(4) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
-[^key-ea528623e2db3828d4b4dbf776564491]: Textual amendment: [Art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2021/330/article/4/b/ii) substituted (2.9.2026) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2026 (S.I. 2026/761)](https://www.legislation.gov.uk/uksi/2026/761), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/761/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/761/article/2)
+[^c-ea528623e2db3828d4b4dbf776564491]: Textual amendment: [Art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2021/330/article/4/b/ii) substituted (2.9.2026) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2026 (S.I. 2026/761)](https://www.legislation.gov.uk/uksi/2026/761), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/761/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/761/article/2)
 
-[^key-92f07465befb2fcf7a3f870bdfb94015]: Commencement: Sch. 1 para. 1 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-92f07465befb2fcf7a3f870bdfb94015]: Commencement: Sch. 1 para. 1 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-00cddcf21e0f59cc6fa7a4494bbb0dac]: Commencement: Sch. 1 para. 2 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-00cddcf21e0f59cc6fa7a4494bbb0dac]: Commencement: Sch. 1 para. 2 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-93497eb4e05b1f7d290a9a1dc20a8aa1]: Commencement: Sch. 1 para. 3 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-93497eb4e05b1f7d290a9a1dc20a8aa1]: Commencement: Sch. 1 para. 3 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-0068df039885915784043af0dd0acfad]: Commencement: Sch. 1 para. 4 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-0068df039885915784043af0dd0acfad]: Commencement: Sch. 1 para. 4 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-f8accd604f3177a90308e8b330d792b1]: Commencement: Sch. 1 para. 5 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-f8accd604f3177a90308e8b330d792b1]: Commencement: Sch. 1 para. 5 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-c1f75d4ff7f3a3402aca913971439627]: Commencement: Sch. 1 para. 6 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-c1f75d4ff7f3a3402aca913971439627]: Commencement: Sch. 1 para. 6 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-b803f3562f118d7e5c57c701233afb07]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/330/schedule/1) inserted (29.9.2021) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2021 (S.I. 2021/999)](https://www.legislation.gov.uk/uksi/2021/999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/999/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/999/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/999/article/1/3))
+[^c-b803f3562f118d7e5c57c701233afb07]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/330/schedule/1) inserted (29.9.2021) by [The Compulsory Electronic Monitoring Licence Condition (Amendment) Order 2021 (S.I. 2021/999)](https://www.legislation.gov.uk/uksi/2021/999), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/999/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/999/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/999/article/1/3))
 
-[^key-0c07d3c8ce4e6abe6b149947c34286b5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/330/schedule/1) substituted (7.11.2022) by [The Hampshire and Isle of Wight Police Area (Consequential Amendments) Regulations 2022 (S.I. 2022/1053)](https://www.legislation.gov.uk/uksi/2022/1053), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1053/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1053/regulation/2/2)
+[^c-0c07d3c8ce4e6abe6b149947c34286b5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/330/schedule/1) substituted (7.11.2022) by [The Hampshire and Isle of Wight Police Area (Consequential Amendments) Regulations 2022 (S.I. 2022/1053)](https://www.legislation.gov.uk/uksi/2022/1053), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1053/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1053/regulation/2/2)
 
-[^key-c3c7274badbc934c7c288dfc5559ceae]: Commencement: Sch. 2 para. 1 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-c3c7274badbc934c7c288dfc5559ceae]: Commencement: Sch. 2 para. 1 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
 [^f00008]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60).
 
 [^f00009]: Footnote: Section 12A was inserted by section 1(1) of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11) and amended by section 285(1) of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-92ebf848d30ea0e5b1a3d4bf1b435f5f]: Commencement: Sch. 2 para. 2 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-92ebf848d30ea0e5b1a3d4bf1b435f5f]: Commencement: Sch. 2 para. 2 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
-[^key-abd4ed00dc7594d9695a046a4ff6100e]: Commencement: Sch. 2 para. 3 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-abd4ed00dc7594d9695a046a4ff6100e]: Commencement: Sch. 2 para. 3 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
 
 [^f00010]: Footnote: Section 9 has been amended by section 26(2) of the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53) and paragraph 17 of Schedule 6, and Schedule 7 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-129b43242222b2bb3f75f8e45107772c]: Commencement: Sch. 2 para. 4 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)
+[^c-129b43242222b2bb3f75f8e45107772c]: Commencement: Sch. 2 para. 4 in force at 12.4.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/330/article/1/1)

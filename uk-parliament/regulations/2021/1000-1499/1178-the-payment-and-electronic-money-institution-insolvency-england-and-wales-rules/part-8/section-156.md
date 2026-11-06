@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Communication of disclaimer to persons interested[^key-691d8689eb339978e0700f62339e194a]
+## 156. Communication of disclaimer to persons interested[^c-691d8689eb339978e0700f62339e194a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-691d8689eb339978e0700f62339e194a]: Commencement: Rule 156 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-691d8689eb339978e0700f62339e194a]: Commencement: Rule 156 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Conversion of charitable company or registered society[^key-6877a1b676fa5df5090600344ee64fd0]
+## 112. Conversion of charitable company or registered society[^c-6877a1b676fa5df5090600344ee64fd0]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (1) The following may apply to the Commission to be converted into a CIO, and for the CIO's registration as a charity, in accordance with this section—
 
 - (a) a charitable company,
-- (b) a charity which is a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 (“[^key-595f16f54641d4102cdd16cbb31d18bb]**the 1969 Act**”) (c. 24).
+- (b) a charity which is a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 (“[^c-595f16f54641d4102cdd16cbb31d18bb]**the 1969 Act**”) (c. 24).
 
 (2) But such an application may not be made by a company or registered society having a share capital if any of the shares are not fully paid up.
 
@@ -51,7 +51,7 @@ summary: ''
 
 (7) In the case of a company, Chapter 3 of Part 3 of the Companies Act 2006 (c. 46) does not apply to such a resolution.
 
-(8) In the case of a registered society, “**special resolution**” has the meaning given in section 61(3) of the 1969 Act[^key-959d12b8a5d9d2180b97d81a7db4c1df] .
+(8) In the case of a registered society, “**special resolution**” has the meaning given in section 61(3) of the 1969 Act[^c-959d12b8a5d9d2180b97d81a7db4c1df] .
 
 (9) In the case of a company limited by guarantee which makes an application for conversion (whether or not it also has a share capital), the proposed constitution of the CIO shall (unless subsection (11) applies) provide for the CIO's members to be liable to contribute to its assets if it is wound up, and for the amount up to which they are so liable.
 
@@ -62,16 +62,16 @@ summary: ''
 (12) In subsection (4), and in sections 113 and 114, “**the appropriate registrar**” means—
 
 - (a) in the case of an application for conversion by a charitable company, the registrar of companies,
-- (b) in the case of an application for conversion by a registered society, the registrar for the purposes of the 1969 Act[^key-7e99414cc7b00f61373c53e14000449b] (c. 24).
+- (b) in the case of an application for conversion by a registered society, the registrar for the purposes of the 1969 Act[^c-7e99414cc7b00f61373c53e14000449b] (c. 24).
 
 (13) In this section, “**charitable company**” means a company which is a charity.
 
 ## Annotations
 
-[^key-6877a1b676fa5df5090600344ee64fd0]: Textual amendment: Words in s. 112 heading substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(5)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/5); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-6877a1b676fa5df5090600344ee64fd0]: Textual amendment: Words in s. 112 heading substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(5)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/5); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-595f16f54641d4102cdd16cbb31d18bb]: Textual amendment: Words in s. 112(1)(b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-595f16f54641d4102cdd16cbb31d18bb]: Textual amendment: Words in s. 112(1)(b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-959d12b8a5d9d2180b97d81a7db4c1df]: Textual amendment: Words in s. 112(8) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-959d12b8a5d9d2180b97d81a7db4c1df]: Textual amendment: Words in s. 112(8) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-7e99414cc7b00f61373c53e14000449b]: Textual amendment: Words in s. 112(12)(b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(4)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/4); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-7e99414cc7b00f61373c53e14000449b]: Textual amendment: Words in s. 112(12)(b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 34(4)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34/4); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)

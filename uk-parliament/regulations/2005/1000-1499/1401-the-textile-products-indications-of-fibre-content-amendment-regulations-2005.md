@@ -48,9 +48,9 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to consumer protection, in exercise of the powers conferred upon him by that section, hereby makes the following Regulations:
 
-**1.**[^key-16d4819187ea3a3da4ccedce114e797c] These Regulations may be cited as the Textile Products (Indications of Fibre Content) (Amendment) Regulations 2005 and shall come into force on 1st October 2005.
+**1.**[^c-16d4819187ea3a3da4ccedce114e797c] These Regulations may be cited as the Textile Products (Indications of Fibre Content) (Amendment) Regulations 2005 and shall come into force on 1st October 2005.
 
-**2.**[^key-1d3c4aa848f0e82e25286ed830442180] (1) The Textile Products (Indications of Fibre Content) Regulations 1986[^f00003] are amended as follows–
+**2.**[^c-1d3c4aa848f0e82e25286ed830442180] (1) The Textile Products (Indications of Fibre Content) Regulations 1986[^f00003] are amended as follows–
 
 - (a) in Part I of Schedule 2, by inserting the following entry after 28C–
 
@@ -91,8 +91,8 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-16d4819187ea3a3da4ccedce114e797c]: Commencement: Reg. 1 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1401/regulation/1)
+[^c-16d4819187ea3a3da4ccedce114e797c]: Commencement: Reg. 1 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1401/regulation/1)
 
-[^key-1d3c4aa848f0e82e25286ed830442180]: Commencement: Reg. 2 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1401/regulation/1)
+[^c-1d3c4aa848f0e82e25286ed830442180]: Commencement: Reg. 2 in force at 1.10.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/1401/regulation/1)
 
 [^f00003]: Footnote: S.I. [1986/26](https://www.legislation.gov.uk/uksi/1986/26), as amended by S.I. [1988/1350](https://www.legislation.gov.uk/uksi/1988/1350), S.I. [1994/450](https://www.legislation.gov.uk/uksi/1994/450) and S.I. [1998/1169](https://www.legislation.gov.uk/uksi/1998/1169). Entries 28A to 28C in Part I of Schedule 2 and Schedule 3 were inserted by regs. 2(a)(v) and 2(b) respectively of S.I. [1998/1169](https://www.legislation.gov.uk/uksi/1998/1169).

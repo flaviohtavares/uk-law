@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Scheme administrator[^key-1d09ee5f009cda8409b980dc4f384f53]
+## 65. Scheme administrator[^c-1d09ee5f009cda8409b980dc4f384f53]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d09ee5f009cda8409b980dc4f384f53]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/21/section/65) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/b)
+[^c-1d09ee5f009cda8409b980dc4f384f53]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/21/section/65) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/b)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3e396636cc3c4d8be39b20a910156433] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 826(4) of that Act (interest on repayment of tax by virtue of section 419), for paragraph (a) there shall be substituted the following paragraph—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e396636cc3c4d8be39b20a910156433]: Textual amendment: [S. 173(1)-(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/173/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3e396636cc3c4d8be39b20a910156433]: Textual amendment: [S. 173(1)-(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/173/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

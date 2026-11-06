@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Excluded contract-holder's remedies[^key-b6b5a2cf95263052d711389c36d2c8f7]
+## 67. Excluded contract-holder's remedies[^c-b6b5a2cf95263052d711389c36d2c8f7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b5a2cf95263052d711389c36d2c8f7]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/1/section/67) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-b6b5a2cf95263052d711389c36d2c8f7]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/1/section/67) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

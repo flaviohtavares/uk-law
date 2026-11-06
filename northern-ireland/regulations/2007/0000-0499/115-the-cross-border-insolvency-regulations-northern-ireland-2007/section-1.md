@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-e3b6805e112a1cb8c07c697a99531450]
+## 1. Citation and commencement[^c-e3b6805e112a1cb8c07c697a99531450]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Cross-Border Insolvency Regulations (North
 
 ## Annotations
 
-[^key-e3b6805e112a1cb8c07c697a99531450]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-e3b6805e112a1cb8c07c697a99531450]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)

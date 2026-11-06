@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Hardship payments[^key-e5ecda31ee16b243aaa3de6547da1878]
+## 28. Hardship payments[^c-e5ecda31ee16b243aaa3de6547da1878]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5ecda31ee16b243aaa3de6547da1878]: Commencement: S. 28 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/15)
+[^c-e5ecda31ee16b243aaa3de6547da1878]: Commencement: S. 28 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/15)

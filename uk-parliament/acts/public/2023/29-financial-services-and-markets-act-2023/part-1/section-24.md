@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Implementation of mutual recognition agreements[^key-299767189ee5d4f2eb260aefeb016414]
+## 24. Implementation of mutual recognition agreements[^c-299767189ee5d4f2eb260aefeb016414]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 (11) In this section—
 
 - “**foreign country**” means a country or territory outside the United Kingdom;
-- “**legislation**” means primary legislation, subordinate legislation and assimilated direct[^key-735b5995d6fc101a0d4632e84d7d8b7c] legislation;
+- “**legislation**” means primary legislation, subordinate legislation and assimilated direct[^c-735b5995d6fc101a0d4632e84d7d8b7c] legislation;
 - “**relevant regulator**” means—
   - (a) the FCA,
   - (b) the PRA, or
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-299767189ee5d4f2eb260aefeb016414]: Commencement: S. 24 in force at Royal Assent, see [s. 86(1)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/d)
+[^c-299767189ee5d4f2eb260aefeb016414]: Commencement: S. 24 in force at Royal Assent, see [s. 86(1)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/d)
 
-[^key-735b5995d6fc101a0d4632e84d7d8b7c]: Textual amendment: Words in [s. 24(11)](https://www.legislation.gov.uk/ukpga/2023/29/section/24/11) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(8)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/8)
+[^c-735b5995d6fc101a0d4632e84d7d8b7c]: Textual amendment: Words in [s. 24(11)](https://www.legislation.gov.uk/ukpga/2023/29/section/24/11) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(8)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/8)

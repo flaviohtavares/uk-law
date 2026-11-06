@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**79.**[^key-855d7611b6f289b6d3708c635dee5666] In section 23D[^f00091] (personal advisers)—
+**79.**[^c-855d7611b6f289b6d3708c635dee5666] In section 23D[^f00091] (personal advisers)—
 
 - (a) in subsection (1) for “appropriate national authority” substitute “Secretary of State”;
 - (b) in subsection (2) for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-855d7611b6f289b6d3708c635dee5666]: Commencement: Reg. 79 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-855d7611b6f289b6d3708c635dee5666]: Commencement: Reg. 79 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00091]: Footnote: Section 23D was inserted by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 3, and has been amended by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 23(1) and Schedule 3, paragraphs 1 and 10.

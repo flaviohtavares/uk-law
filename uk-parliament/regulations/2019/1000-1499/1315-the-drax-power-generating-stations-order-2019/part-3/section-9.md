@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Street works[^key-e86d457030766a2edc02bd0be3d8269d]
+## 9. Street works[^c-e86d457030766a2edc02bd0be3d8269d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e86d457030766a2edc02bd0be3d8269d]: Commencement: Art. 9 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-e86d457030766a2edc02bd0be3d8269d]: Commencement: Art. 9 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

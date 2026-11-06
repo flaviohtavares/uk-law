@@ -28,7 +28,7 @@ Sections 188 and 189
 
 **2.**[^c2087313] Omit sections 14, 18 and 19.
 
-**3.**[^c2087314] In section 21(3) and section 21A(5)[^key-6ffb7ab2f101405e091c2f8be9db51ff], for “must” substitute “ may ”.
+**3.**[^c2087314] In section 21(3) and section 21A(5)[^c-6ffb7ab2f101405e091c2f8be9db51ff], for “must” substitute “ may ”.
 
 **4.**[^c2087315] In section 31(2), for paragraphs (a) and (b) substitute “ would (apart from section 187(1)) be released from detention pursuant to the UK sentence (whether or not on licence) ”.
 
@@ -186,7 +186,7 @@ Sections 188 and 189
 
 [^c2087314]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-6ffb7ab2f101405e091c2f8be9db51ff]: Textual amendment: Words in Sch. 1 para. 3 inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 124](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/124) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(t)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/t)
+[^c-6ffb7ab2f101405e091c2f8be9db51ff]: Textual amendment: Words in Sch. 1 para. 3 inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 124](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/124) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(t)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/t)
 
 [^c2087315]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 

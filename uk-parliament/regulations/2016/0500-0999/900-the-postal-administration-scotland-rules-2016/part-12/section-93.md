@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Postal administrator’s caution[^key-b1d436937dfaad5faef3f865e2e957db]
+## 93. Postal administrator’s caution[^c-b1d436937dfaad5faef3f865e2e957db]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d436937dfaad5faef3f865e2e957db]: Commencement: Rule 93 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-b1d436937dfaad5faef3f865e2e957db]: Commencement: Rule 93 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

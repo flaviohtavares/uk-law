@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Transfer directions for persons detained in youth detention accommodation[^key-838e3cac9b57a873364a91875b44cf17]
+## 38. Transfer directions for persons detained in youth detention accommodation[^c-838e3cac9b57a873364a91875b44cf17]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-838e3cac9b57a873364a91875b44cf17]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/33/section/38) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
+[^c-838e3cac9b57a873364a91875b44cf17]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/33/section/38) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)

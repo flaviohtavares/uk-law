@@ -42,7 +42,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 18E(6) and (7) of the Criminal Procedure (Scotland) Act 1995[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-4aea63ae67b11901289775fb60794a6c]
+## 1. Citation, commencement and interpretation[^c-4aea63ae67b11901289775fb60794a6c]
 
 (1) This Order may be cited as the Retention of Samples etc. (Children’s Hearings) (Scotland) Order 2011 and comes into force on 15th April 2011.
 
@@ -55,7 +55,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (e) “relevant offence” has the meaning given by section 18E(6) of the 1995 Act; and
 - (f) “relevant sexual offence” and “relevant violent offence” have the meanings given by section 18E(11) of the 1995 Act[^f00005].
 
-## 2. Relevant sexual offence[^key-4bc2d6de68d3e79c11b6573f78c5d7f4]
+## 2. Relevant sexual offence[^c-4bc2d6de68d3e79c11b6573f78c5d7f4]
 
 For the purposes of section 18E of the 1995 Act, the following relevant sexual offences are relevant offences:—
 
@@ -95,7 +95,7 @@ For the purposes of section 18E of the 1995 Act, the following relevant sexual o
   - (xxv) section 26 of the 2009 Act (voyeurism towards a young child); and
 - (j) any attempt, conspiracy or incitement to commit an offence listed in sub-paragraphs (a) to (i).
 
-## 3.[^key-b4d2f06f279931b4328cf122cb1f7f23]
+## 3.[^c-b4d2f06f279931b4328cf122cb1f7f23]
 
 (1) For the purposes of section 18E of the 1995 Act, the following relevant violent offences are relevant offences:—
 
@@ -110,14 +110,14 @@ For the purposes of section 18E of the 1995 Act, the following relevant sexual o
   - (ii) sections 16 (possession of a firearm with intent to endanger life or cause serious injury), 17 (use of firearm to resist arrest) or 18 (having a firearm for purpose of committing an offence listed in Schedule 2) of the Firearms Act 1968[^f00011]; and
 - (h) any attempt, conspiracy or incitement to commit any offence listed in sub-paragraphs (a) to (g).
 
-(2) For the purpose of paragraph (1)(e) “serious assault” means an assault listed in a section 67 ground[^key-8f3e1f19f6e243aa71ab72226aef8046] as an—
+(2) For the purpose of paragraph (1)(e) “serious assault” means an assault listed in a section 67 ground[^c-8f3e1f19f6e243aa71ab72226aef8046] as an—
 
 - (i) assault to severe injury;
 - (ii) assault to severe injury and permanent disfigurement;
 - (iii) assault to severe injury and permanent impairment; or
 - (iv) assault to severe injury, permanent disfigurement and permanent impairment.
 
-(3)[^key-e5c8481eee0bc1409f0abecb6c4e54ac] For the purpose of paragraph (2) “**section 67 ground**” has the meaning given by section 67(1) of the Children’s Hearings (Scotland) Act 2011.
+(3)[^c-e5c8481eee0bc1409f0abecb6c4e54ac] For the purpose of paragraph (2) “**section 67 ground**” has the meaning given by section 67(1) of the Children’s Hearings (Scotland) Act 2011.
 
 KENNY MACASKILL
 
@@ -145,7 +145,7 @@ Article 3 prescribes the list of relevant violent offences that are relevant off
 
 [^f00001]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46); section 18E was inserted by section 80 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
 
-[^key-4aea63ae67b11901289775fb60794a6c]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/197/article/1) in force at 15.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/197/article/1/1)
+[^c-4aea63ae67b11901289775fb60794a6c]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/197/article/1) in force at 15.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/197/article/1/1)
 
 [^f00002]: Footnote: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45).
 
@@ -155,7 +155,7 @@ Article 3 prescribes the list of relevant violent offences that are relevant off
 
 [^f00005]: Footnote: The definitions of “relevant sexual offence” and “relevant violent offence” refer to the definitions of those terms in section 19A(6) of the 1995 Act. The definition of “relevant sexual offence” was amended by paragraph 2(4) of schedule 5 to the 2009 Act and section 81(a) of the 2010 Act. The definition of “relevant violent offence” was amended by section 81(b) of the 2010 Act.
 
-[^key-4bc2d6de68d3e79c11b6573f78c5d7f4]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/197/article/2) in force at 15.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/197/article/1/1)
+[^c-4bc2d6de68d3e79c11b6573f78c5d7f4]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/197/article/2) in force at 15.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/197/article/1/1)
 
 [^f00006]: Footnote: Section 52 of the Civic Government (Scotland) Act [1982 (c.45)](https://www.legislation.gov.uk/ukpga/1982/45) (“the 1982 Act”) was amended by the Criminal Justice Act 1988, section 170(1), Schedule 15 paragraph 89, the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33) (“the 1994 Act”), section 84, the Criminal Procedure (Consequential Provisions) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), section 5 and Schedule 4, paragraph 44, the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) (“the 2003 Act”), section 19(1), the Protection of Children and Prevention of Sexual Offences (Scotland) Act [2005 (asp 9)](https://www.legislation.gov.uk/asp/2005/9), section 16(2) and the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”), section 41(1) and schedule 7, paragraph 13.
 
@@ -165,12 +165,12 @@ Article 3 prescribes the list of relevant violent offences that are relevant off
 
 [^f00009]: Footnote: Section 8(1) and (2) were repealed by the [2003 Act (asp 7)](https://www.legislation.gov.uk/asp/2003/7), section 19(2).
 
-[^key-b4d2f06f279931b4328cf122cb1f7f23]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/197/article/3) in force at 15.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/197/article/1/1)
+[^c-b4d2f06f279931b4328cf122cb1f7f23]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/197/article/3) in force at 15.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/197/article/1/1)
 
 [^f00010]: Footnote: [1883 c.3](https://www.legislation.gov.uk/ukpga/1883/3); section 2 and 3 were substituted by the Criminal Jurisdiction Act [1975 (c.59)](https://www.legislation.gov.uk/ukpga/1975/59), section 7(1), (3) and 13(3); section 3 was amended by the Terrorism Act [2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11), section 17(5). The Terrorism Act [2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11), section 17(6) provides that this amendment does not extend to Scotland unless it relates to acts of terrorism or the possession or control of explosive substances for the purposes of terrorism.
 
 [^f00011]: Footnote: [1968 c.27](https://www.legislation.gov.uk/ukpga/1968/27); section 17 was amended by the Theft Act [1968 (c.60)](https://www.legislation.gov.uk/ukpga/1968/60), Schedule 3, Part III.
 
-[^key-8f3e1f19f6e243aa71ab72226aef8046]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/197/article/3/2) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 14(2)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/14/2); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-8f3e1f19f6e243aa71ab72226aef8046]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/197/article/3/2) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 14(2)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/14/2); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-e5c8481eee0bc1409f0abecb6c4e54ac]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2011/197/article/3/3) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 14(3)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/14/3); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-e5c8481eee0bc1409f0abecb6c4e54ac]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2011/197/article/3/3) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 14(3)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/14/3); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

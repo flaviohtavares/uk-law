@@ -22,7 +22,7 @@ summary: ''
 
 (1) ITTOIA 2005 is modified as follows.
 
-(1A)[^key-7aaa51399ae45ffd7c265cfbf01c951f] In the application of the provisions specified in paragraph (1B) in relation to a Property AIF and a Tax Elected Fund—
+(1A)[^c-7aaa51399ae45ffd7c265cfbf01c951f] In the application of the provisions specified in paragraph (1B) in relation to a Property AIF and a Tax Elected Fund—
 
 - (a) for “the total” substitute “an”, and
 - (b) the amount available for distribution as PAIF distribution (interest) or TEF distribution (non-dividend), as the case may be, shall be treated as the amount available for distribution as yearly interest.
@@ -37,7 +37,7 @@ summary: ''
 (3) The provisions specified are—
 
 - (a) section 374(1) (date when open-ended investment company interest distributions made),
-- (b) section 377(1)[^key-5be2946117787a844905af4a8a234876] (date when authorised unit trust interest distributions made),
+- (b) section 377(1)[^c-5be2946117787a844905af4a8a234876] (date when authorised unit trust interest distributions made),
 - (c) section 387(1) (date when open-ended investment company dividend distributions made), and
 - (d) section 390(1) (date when authorised unit trust dividend distributions made).
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7aaa51399ae45ffd7c265cfbf01c951f]: Textual amendment: Reg. 96(1A)(1B) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2009/2036/regulation/31/2)
+[^c-7aaa51399ae45ffd7c265cfbf01c951f]: Textual amendment: Reg. 96(1A)(1B) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2009/2036/regulation/31/2)
 
-[^key-5be2946117787a844905af4a8a234876]: Textual amendment: Word in reg. 96(3)(b) substituted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [31(3)](https://www.legislation.gov.uk/uksi/2009/2036/regulation/31/3)
+[^c-5be2946117787a844905af4a8a234876]: Textual amendment: Word in reg. 96(3)(b) substituted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [31(3)](https://www.legislation.gov.uk/uksi/2009/2036/regulation/31/3)
 
 [^M_F_e4f469c9-cea1-46d4-a4a1-18ef7a77a0ff]: Textual amendment: Words in reg. 96(5) revoked (with effect in accordance with [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — Statutory provisions requiring the notification of events which are not required to be notified or reported under these Regulations[^key-c6bde6010c57f7e32a0505fe7618ebd9]
+## SCHEDULE 7 — Statutory provisions requiring the notification of events which are not required to be notified or reported under these Regulations[^c-c6bde6010c57f7e32a0505fe7618ebd9]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ Regulation 10(4)
 
 ## Annotations
 
-[^key-c6bde6010c57f7e32a0505fe7618ebd9]: Commencement: Sch. 7 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-c6bde6010c57f7e32a0505fe7618ebd9]: Commencement: Sch. 7 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

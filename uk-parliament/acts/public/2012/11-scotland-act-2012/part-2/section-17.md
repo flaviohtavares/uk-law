@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Exercise of functions relating to Seirbheis nam Meadhanan Gàidhlig[^key-6c00bb590c2bf7f13df7d6df7bd5ee6c]
+## 17. Exercise of functions relating to Seirbheis nam Meadhanan Gàidhlig[^c-6c00bb590c2bf7f13df7d6df7bd5ee6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,11 +28,11 @@ summary: ''
 
 (3) Omit subsection (8) of that section.
 
-(4)[^key-877bb11c811a8c4d4bddd88239150a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-877bb11c811a8c4d4bddd88239150a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-877bb11c811a8c4d4bddd88239150a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-877bb11c811a8c4d4bddd88239150a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-877bb11c811a8c4d4bddd88239150a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-877bb11c811a8c4d4bddd88239150a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In Schedule 19 (Gaelic Media Service: supplementary provisions), paragraph 12 (annual reports) is amended as follows.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c00bb590c2bf7f13df7d6df7bd5ee6c]: Commencement: S. 17 in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/c)
+[^c-6c00bb590c2bf7f13df7d6df7bd5ee6c]: Commencement: S. 17 in force at 31.10.2012 by [S.I. 2012/2516](https://www.legislation.gov.uk/uksi/2012/2516), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2516/article/2/c)
 
-[^key-877bb11c811a8c4d4bddd88239150a17]: Textual amendment: [S. 17(4)-(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/17/4) repealed (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/54/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-877bb11c811a8c4d4bddd88239150a17]: Textual amendment: [S. 17(4)-(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/17/4) repealed (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 54(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/54/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Communicating outside[^key-8a8b94e5c84f51bffb853e587ed24b03]
+## 28. Communicating outside[^c-8a8b94e5c84f51bffb853e587ed24b03]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the Scottish Ministers,
 - (c) the Scottish Legal Aid Board,
 - (d) the Scottish Legal Complaints Commission, or
-- (e) the CMA[^key-4c73b0dbf6ba7f8418ae5ed1bdd21e28], or any other public body which has functions concerning the application of competition law.
+- (e) the CMA[^c-4c73b0dbf6ba7f8418ae5ed1bdd21e28], or any other public body which has functions concerning the application of competition law.
 
 (2) Where an approved regulator has representative functions, its internal governance arrangements must not, in relation to any person who—
 
@@ -42,6 +42,6 @@ prevent the person from notifying the Scottish Ministers accordingly.
 
 ## Annotations
 
-[^key-8a8b94e5c84f51bffb853e587ed24b03]: Commencement: S. 28 in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-8a8b94e5c84f51bffb853e587ed24b03]: Commencement: S. 28 in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-4c73b0dbf6ba7f8418ae5ed1bdd21e28]: Textual amendment: Word in s. 28(1)(e) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 195](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/195); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4c73b0dbf6ba7f8418ae5ed1bdd21e28]: Textual amendment: Word in s. 28(1)(e) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 195](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/195); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

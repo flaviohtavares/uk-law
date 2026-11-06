@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.117-CVL. Procedure on removal[^key-48f56f642ec878c992acd13d72becc7f]
+## 4.117-CVL. Procedure on removal[^c-48f56f642ec878c992acd13d72becc7f]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where the creditors have resolved that the liquidator be removed, the chairman o
 
 ## Annotations
 
-[^key-48f56f642ec878c992acd13d72becc7f]: Commencement: [Rule 4.117CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.117CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-48f56f642ec878c992acd13d72becc7f]: Commencement: [Rule 4.117CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.117CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00071]: Marginal citation: \[FORM 4.38\]

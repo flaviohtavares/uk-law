@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Legal assistance[^key-2fa990467bb91c3d4abb40c12db69ae1]
+## 148. Legal assistance[^c-2fa990467bb91c3d4abb40c12db69ae1]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 - (a) specify the kinds of assistance that may be provided;
 - (b) specify the classes of person by whom assistance may be provided;
-- (c)[^key-e48bdecf8a3041c6574ab13bf09296d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-e48bdecf8a3041c6574ab13bf09296d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e48bdecf8a3041c6574ab13bf09296d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e48bdecf8a3041c6574ab13bf09296d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) enable the Tribunal to determine eligibility for assistance by reference to criteria specified in the regulations;
 - (f) make provision for an appeal against refusal of assistance;
 - (g) enable assistance to be granted subject to conditions or restrictions imposed by the Tribunal (which may, in particular, include conditions requiring—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fa990467bb91c3d4abb40c12db69ae1]: Commencement: S. 148 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-2fa990467bb91c3d4abb40c12db69ae1]: Commencement: S. 148 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-e48bdecf8a3041c6574ab13bf09296d5]: Textual amendment: [S. 148(2)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/148/2/c)[(d)](https://www.legislation.gov.uk/ukpga/2005/19/section/148/2/d) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 101](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/101) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-e48bdecf8a3041c6574ab13bf09296d5]: Textual amendment: [S. 148(2)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/148/2/c)[(d)](https://www.legislation.gov.uk/ukpga/2005/19/section/148/2/d) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 101](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/101) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

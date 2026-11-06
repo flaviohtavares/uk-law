@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Corporate representation[^key-200d3ff2b8f08d12f93634c934472ea6]
+## 93. Corporate representation[^c-200d3ff2b8f08d12f93634c934472ea6]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-200d3ff2b8f08d12f93634c934472ea6]: Commencement: Rule 93 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-200d3ff2b8f08d12f93634c934472ea6]: Commencement: Rule 93 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00016]: Footnote: [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7).

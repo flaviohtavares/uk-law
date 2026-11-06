@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Planning permission for marine fish farms[^key-3e101637951f0db36ec078f7a244eefe]
+## 23. Planning permission for marine fish farms[^c-3e101637951f0db36ec078f7a244eefe]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e101637951f0db36ec078f7a244eefe]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/7/section/23) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-3e101637951f0db36ec078f7a244eefe]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2013/7/section/23) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

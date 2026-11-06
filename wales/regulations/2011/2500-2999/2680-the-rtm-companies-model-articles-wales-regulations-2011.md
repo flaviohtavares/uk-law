@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 74(2), (4) and (6) and 178(1) of the Commonhold and Leasehold Reform Act 2002[^f00001]:
 
-## 1. Title, commencement and application[^key-3351e8a6282fa014ddd061e9569a85b6]
+## 1. Title, commencement and application[^c-3351e8a6282fa014ddd061e9569a85b6]
 
 (1) The title of these Regulations is the RTM Companies (Model Articles) (Wales) Regulations 2011.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) These Regulations apply to RTM companies[^f00002] which exercise the right to manage premises[^f00003] in Wales.
 
-## 2. Form and content of articles of association of RTM companies[^key-294926f9c77918af5bf73e99a2cb8667]
+## 2. Form and content of articles of association of RTM companies[^c-294926f9c77918af5bf73e99a2cb8667]
 
 (1) Subject to paragraph (3) the articles of association of an RTM company take the form, and include the provisions, set out in Schedule 1 to these Regulations.
 
@@ -61,7 +61,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) Where an RTM company wishes to have its articles of association in Welsh, its articles of association take the form and include the provisions set out in Schedule 2 to these Regulations.
 
-## 3. Revocation of instrument[^key-1befc70d6c44021beb85a45d2f4c231b]
+## 3. Revocation of instrument[^c-1befc70d6c44021beb85a45d2f4c231b]
 
 The RTM Companies (Memorandum and Articles of Association) (Wales) Regulations 2004[^f00004] are revoked.
 
@@ -85,7 +85,7 @@ Regulation 2
 
 ### PART 1 — INTERPRETATION, NAMES AND OBJECTS OF RTM COMPANY AND LIMITATION OF LIABILITY
 
-#### 1. Defined terms[^key-bfc51403c6f8575e13ba67d757b7a5b3]
+#### 1. Defined terms[^c-bfc51403c6f8575e13ba67d757b7a5b3]
 
 In the articles, unless the context requires otherwise—
 
@@ -101,13 +101,13 @@ In the articles, unless the context requires otherwise—
 - “immediate landlord” in relation to a unit in the Premises, means the person who—
   - (a) if the unit is subject to a lease, is the landlord under the lease; or
   - (b) if the unit is subject to two or more leases, is the landlord under whichever of the leases is inferior to the others;
-- “[^key-eed860e73d6ddcf420ac1d4b9531bf1b]**lease**” means a long lease within the meaning of sections 76 and 77 of the 2002 Act;
+- “[^c-eed860e73d6ddcf420ac1d4b9531bf1b]**lease**” means a long lease within the meaning of sections 76 and 77 of the 2002 Act;
 - “member” has the meaning given in section 112 of the 2006 Act;
 - “ordinary resolution” has the meaning given in section 282 of the 2006 Act;
 - “participate”, in relation to a directors' meeting, has the meaning given in article 15;
 - “the Premises” means \[name and address\];
 - “proxy notice” has the meaning given in article 36;
-- “qualifying tenant” has the meaning given in sections 75[^key-809764752d4913d53af14ea082bcfa2b] and 112 of the 2002 Act;
+- “qualifying tenant” has the meaning given in sections 75[^c-809764752d4913d53af14ea082bcfa2b] and 112 of the 2002 Act;
 - “residential unit” means a flat or any other separate set of premises which is constructed or adapted for use for the purposes of a dwelling;
 - “RTM company” (Right to Manage company) has the meaning given in section 73 of the 2002 Act;
 - “special resolution” has the meaning given in section 283 of the 2006 Act;
@@ -118,13 +118,13 @@ In the articles, unless the context requires otherwise—
 
 #### NAME AND OBJECTS OF RTM COMPANY
 
-**2.**[^key-42d0908dc50f91d15780ac09c89cdf05] The name of the company is \[*name*\] RTM Company Limited.
+**2.**[^c-42d0908dc50f91d15780ac09c89cdf05] The name of the company is \[*name*\] RTM Company Limited.
 
-**3.**[^key-d9e76c53596cf73b51c017caca5f81ae] The registered office of the company will be situated in \[Wales\] /\[England and Wales\].
+**3.**[^c-d9e76c53596cf73b51c017caca5f81ae] The registered office of the company will be situated in \[Wales\] /\[England and Wales\].
 
-**4.**[^key-969ceb6f128a354303624c9a94235b32] The objects for which the company is established are to acquire and exercise in accordance with the 2002 Act the right to manage the Premises.
+**4.**[^c-969ceb6f128a354303624c9a94235b32] The objects for which the company is established are to acquire and exercise in accordance with the 2002 Act the right to manage the Premises.
 
-**5.**[^key-419abe63f4ce3daa6fa11635b3b6ec84] These objects are not to be restrictively construed but the widest interpretation is to be given to them. In furtherance of the objects, but not otherwise, the company has power to do all such things as may be authorised or required to be done by an RTM company by and under the 2002 Act, and in particular (but without derogation from the generality of the foregoing)—
+**5.**[^c-419abe63f4ce3daa6fa11635b3b6ec84] These objects are not to be restrictively construed but the widest interpretation is to be given to them. In furtherance of the objects, but not otherwise, the company has power to do all such things as may be authorised or required to be done by an RTM company by and under the 2002 Act, and in particular (but without derogation from the generality of the foregoing)—
 
 - (a) to prepare, make, pursue or withdraw a claim to acquire the right to manage the Premises;
 - (b) to exercise management functions under leases of the whole or any part of the Premises in accordance with sections 96 and 97 of the 2002 Act;
@@ -156,11 +156,11 @@ In the articles, unless the context requires otherwise—
 - (bb) to do or procure or arrange for the doing of all or any of the things or matters mentioned above in any part of the world and either as principals, agents, contractors or otherwise, and by or through agents, brokers, sub-contractors or otherwise and either alone or in conjunction with others; and
 - (cc) to do all such other lawful things as may be incidental or conducive to the pursuit or attainment of the company’s objects.
 
-**6.**[^key-0dbc7ac1ef7bb8756154709de9a4f232] The income of the company, from wherever derived, must be applied solely in promoting the company’s objects, and, save on a winding up of the company, a distribution must not be made to its members in cash or otherwise.
+**6.**[^c-0dbc7ac1ef7bb8756154709de9a4f232] The income of the company, from wherever derived, must be applied solely in promoting the company’s objects, and, save on a winding up of the company, a distribution must not be made to its members in cash or otherwise.
 
 ### LIMITATION OF LIABILITY
 
-#### 7. Liability of members[^key-f16c22a789a41ddd038a5916c8bf086b]
+#### 7. Liability of members[^c-f16c22a789a41ddd038a5916c8bf086b]
 
 The liability of members is limited to £1 each, being the amount that they undertake to contribute to the assets of the company in the event of its being wound up while they are a member or within one year after they cease to be a member, for—
 
@@ -172,17 +172,17 @@ The liability of members is limited to £1 each, being the amount that they unde
 
 #### DIRECTORS' POWERS AND RESPONSIBILITIES
 
-##### 8. Directors' general authority[^key-c714979ff435e5e239a05a77d1f18b8e]
+##### 8. Directors' general authority[^c-c714979ff435e5e239a05a77d1f18b8e]
 
 Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
 
-##### 9. Members' reserve power[^key-2d355ade9acc880ba4333b94cf1b2fad]
+##### 9. Members' reserve power[^c-2d355ade9acc880ba4333b94cf1b2fad]
 
 (1) The members may, by special resolution, direct the directors to take, or refrain from taking, specified action.
 
 (2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
 
-##### 10. Directors may delegate[^key-7cf85fbf1135096a0c378fa2a5f8f2d3]
+##### 10. Directors may delegate[^c-7cf85fbf1135096a0c378fa2a5f8f2d3]
 
 (1) Subject to the articles, the directors may delegate any of the powers which are conferred on them under the articles—
 
@@ -198,13 +198,13 @@ as they think fit.
 
 (3) The directors may revoke any delegation in whole or part, or alter its terms and conditions.
 
-##### 11. Committees[^key-4fe5dcbf259ce2370c63ecd851236644]
+##### 11. Committees[^c-4fe5dcbf259ce2370c63ecd851236644]
 
 Committees to which the directors delegate any of their powers must follow procedures which are based, so far as they are applicable, on those provisions of the articles which govern the taking of decisions by directors.
 
 #### DECISION-MAKING BY DIRECTORS
 
-##### 12. Directors to take decisions collectively[^key-155042a00ffb17a23fe3f1635789064d]
+##### 12. Directors to take decisions collectively[^c-155042a00ffb17a23fe3f1635789064d]
 
 (1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 13.
 
@@ -215,7 +215,7 @@ Committees to which the directors delegate any of their powers must follow proce
 
 the general rule does not apply, and the director may take decisions without regard to any of the provisions of the articles relating to directors' decision-making.
 
-##### 13. Unanimous decisions[^key-1a05b9d8b8f812f4f29a561dfbe0e51d]
+##### 13. Unanimous decisions[^c-1a05b9d8b8f812f4f29a561dfbe0e51d]
 
 (1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
 
@@ -225,7 +225,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) A decision may not be taken in accordance with this article if the eligible directors would not have formed a quorum at such a meeting.
 
-##### 14. Calling a directors' meeting[^key-fb8e5fc62d87c2732dae4fbb71fc1328]
+##### 14. Calling a directors' meeting[^c-fb8e5fc62d87c2732dae4fbb71fc1328]
 
 (1) Any director may call a directors' meeting by giving notice of the meeting to the directors or by authorising the company secretary (if any) to give such notice.
 
@@ -239,7 +239,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) Notice of a directors' meeting need not be given to directors who waive their entitlement to notice of that meeting, by giving notice to that effect to the company not more than 7 days after the date on which the meeting is held. Where such notice is given after the meeting has been held, that does not affect the validity of the meeting, or of any business conducted at it.
 
-##### 15. Participation in directors' meetings[^key-ec1593bee1637d79b478cfed9b5070cc]
+##### 15. Participation in directors' meetings[^c-ec1593bee1637d79b478cfed9b5070cc]
 
 (1) Subject to the articles, directors participate in a directors' meeting, or part of a directors' meeting, when—
 
@@ -250,7 +250,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (3) If all the directors participating in a meeting are not in the same place, they may decide that the meeting is to be treated as taking place wherever any of them is.
 
-##### 16. Quorum for directors' meetings[^key-d9d8c59be0c30b2bba206ed7bcaf0f20]
+##### 16. Quorum for directors' meetings[^c-d9d8c59be0c30b2bba206ed7bcaf0f20]
 
 (1) At a directors' meeting, unless a quorum is participating, no proposal is to be voted on, except a proposal to call another meeting.
 
@@ -261,7 +261,7 @@ the general rule does not apply, and the director may take decisions without reg
 - (a) to appoint further directors, or
 - (b) to call a general meeting so as to enable the members to appoint further directors.
 
-##### 17. Chairing of directors' meetings[^key-4b1d37253f86814aa74c442c02e3cfb7]
+##### 17. Chairing of directors' meetings[^c-4b1d37253f86814aa74c442c02e3cfb7]
 
 (1) The directors may appoint a director to act as chair for their meetings.
 
@@ -271,13 +271,13 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) If the chair is not participating in a directors' meeting within ten minutes of the time at which it was to start, the participating directors must appoint one of themselves to act as chair.
 
-##### 18. Casting vote[^key-8e84ff2a2b3e3ed0ab50c585db9e8e77]
+##### 18. Casting vote[^c-8e84ff2a2b3e3ed0ab50c585db9e8e77]
 
 (1) If the numbers of votes for and against a proposal are equal, the chair or other director chairing the meeting has a casting vote.
 
 (2) But this does not apply if, in accordance with the articles, the chair or other director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
-##### 19. Conflicts of interest[^key-42cb21d91cf7a5c342af3c5e1e8bccc8]
+##### 19. Conflicts of interest[^c-42cb21d91cf7a5c342af3c5e1e8bccc8]
 
 (1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
@@ -301,17 +301,17 @@ the general rule does not apply, and the director may take decisions without reg
 
 (7) If any question as to the right to participate in the meeting (or part of the meeting) were to arise in respect of the chair, the question is to be decided by a decision of the directors at that meeting, for which purpose the chair is not to be counted as participating in the meeting (or that part of the meeting) for voting or quorum purposes.
 
-##### 20. Records of decisions to be kept[^key-d52618e47fe636d38a662afd47ddb9c9]
+##### 20. Records of decisions to be kept[^c-d52618e47fe636d38a662afd47ddb9c9]
 
 The directors must ensure that the company keeps a record, in writing, for at least 10 years from the date of the decision recorded, of every unanimous or majority decision taken by the directors.
 
-##### 21. Directors' discretion to make further rules[^key-f4fa8841e5ce24b1ba37aa10a020f5cf]
+##### 21. Directors' discretion to make further rules[^c-f4fa8841e5ce24b1ba37aa10a020f5cf]
 
 Subject to the articles, the directors may make any rule which they think fit about how they take decisions, and about how such rules are to be recorded or communicated to directors.
 
 #### APPOINTMENT OF DIRECTORS
 
-##### 22. Methods of appointing directors[^key-449a25886b729e3f7769c8b111cea4a9]
+##### 22. Methods of appointing directors[^c-449a25886b729e3f7769c8b111cea4a9]
 
 (1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
 
@@ -322,7 +322,7 @@ Subject to the articles, the directors may make any rule which they think fit ab
 
 (3) For the purposes of paragraph (2), where 2 or more members die in circumstances rendering it uncertain who was the last to die, a younger member is deemed to have survived an older member.
 
-##### 23. Termination of director’s appointment[^key-a148d1cd18304ea3d8667ec0387d7498]
+##### 23. Termination of director’s appointment[^c-a148d1cd18304ea3d8667ec0387d7498]
 
 A person ceases to be a director as soon as—
 
@@ -330,14 +330,14 @@ A person ceases to be a director as soon as—
 - (b) a bankruptcy order is made against that person;
 - (c) a composition is made with that person’s creditors generally in satisfaction of that person’s debts;
 - (d) a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months;
-- (e)[^key-cb4aab6000150fe2ebebe0add311aba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-cb4aab6000150fe2ebebe0add311aba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) notification is received by the company from the director that the director is resigning from office, and such resignation has taken effect in accordance with its terms.
 
-##### 24. Directors' remuneration[^key-b1113e359ef859fb7a4f1eb5c440d1cc]
+##### 24. Directors' remuneration[^c-b1113e359ef859fb7a4f1eb5c440d1cc]
 
 Except with the consent of the company in general meeting, the directors are not entitled to any remuneration. Any resolution giving such consent must specify the amount of remuneration to be paid to the directors, and unless the resolution provides otherwise, the remuneration is deemed to accrue from day to day.
 
-##### 25. Directors' expenses[^key-b23ed45d948d5056104d78b0d18842a0]
+##### 25. Directors' expenses[^c-b23ed45d948d5056104d78b0d18842a0]
 
 The company may pay any reasonable expenses which the directors properly incur in connection with their attendance at—
 
@@ -349,7 +349,7 @@ or otherwise in connection with the exercise of their powers and the discharge o
 
 ### PART 3 — BECOMING AND CEASING TO BE A MEMBER
 
-#### 26. Application for membership[^key-f69e0a103056c346cbcc5a1b42c87bac]
+#### 26. Application for membership[^c-f69e0a103056c346cbcc5a1b42c87bac]
 
 (1) Subject to paragraph (2), every person who wishes to become a member of the company must deliver to the company a completed application for membership in the following form (or in a form as near to the following form as circumstances allow or in any other form which is usual or which the directors may approve):
 
@@ -362,11 +362,11 @@ or otherwise in connection with the exercise of their powers and the discharge o
 
 (3) A person who, together with another or others, is to be regarded as jointly being the qualifying tenant of a flat, or as jointly constituting the landlord under a lease of the whole or any part of the Premises, is, once admitted to be regarded as jointly being a member of the company in respect of that flat or lease (as the case may be).
 
-(4) Applications for membership by persons who are to be regarded as jointly being the qualifying tenant of a flat, or who jointly constitute the landlord under a lease of the whole or any part of the Premises, must state the names and addresses of all others who are jointly interested with them, and the order in which they wish to appear on the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^key-8026c4f58a79dc3e35e55386c5016a01] in respect of such flat or lease (as the case may be).
+(4) Applications for membership by persons who are to be regarded as jointly being the qualifying tenant of a flat, or who jointly constitute the landlord under a lease of the whole or any part of the Premises, must state the names and addresses of all others who are jointly interested with them, and the order in which they wish to appear on the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^c-8026c4f58a79dc3e35e55386c5016a01] in respect of such flat or lease (as the case may be).
 
 (5) The directors, upon being satisfied as to a person’s application and entitlement to membership, must register such person as a member of the company.
 
-#### 27. Ceasing to be a member[^key-b5e41dd2dfef246b4a0888b08d4e1052]
+#### 27. Ceasing to be a member[^c-b5e41dd2dfef246b4a0888b08d4e1052]
 
 (1) Membership of the company is not transferable.
 
@@ -391,7 +391,7 @@ those persons, unless they are otherwise entitled to be members of the company b
 
 #### ORGANISATION OF GENERAL MEETINGS
 
-##### 28. Attendance and speaking at general meetings[^key-d67d56d1987f9a8e7e7f37156ee7635d]
+##### 28. Attendance and speaking at general meetings[^c-d67d56d1987f9a8e7e7f37156ee7635d]
 
 (1) A person is able to exercise the right to speak at a general meeting when that person is in a position to communicate to all those attending the meeting, during the meeting, any information or opinions which that person has on the business of the meeting.
 
@@ -406,13 +406,13 @@ those persons, unless they are otherwise entitled to be members of the company b
 
 (5) Two or more persons who are not in the same place as each other attend a general meeting if their circumstances are such that if they have (or were to have) rights to speak and vote at that meeting, they are (or would be) able to exercise them.
 
-##### 29. Quorum for general meetings[^key-e5ba94580f0db8180d87b29bbf524a0c]
+##### 29. Quorum for general meetings[^c-e5ba94580f0db8180d87b29bbf524a0c]
 
 (1) No business other than the appointment of the chair of the meeting is to be transacted at a general meeting if the persons attending it do not constitute a quorum as set out at paragraph (2).
 
 (2) The quorum for the meeting is 20 per cent of the members of the company entitled to vote upon the business to be transacted, or two members of the company so entitled (whichever is the greater) present in person or by proxy.
 
-##### 30. Chairing general meetings[^key-ee39dd15eaa00827e5f8b0ecc8cca4f6]
+##### 30. Chairing general meetings[^c-ee39dd15eaa00827e5f8b0ecc8cca4f6]
 
 (1) If the directors have appointed a chair, the chair is to preside over general meetings if present and willing to do so.
 
@@ -425,13 +425,13 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 
 (3) The person acting as chair of a meeting in accordance with this article is referred to as “the chair of the meeting”.
 
-##### 31. Attendance and speaking by directors and non-members[^key-6ef8b8630ee740c79f2f592d321caaaf]
+##### 31. Attendance and speaking by directors and non-members[^c-6ef8b8630ee740c79f2f592d321caaaf]
 
 (1) Directors may attend and speak at general meetings, whether or not they are members.
 
 (2) The chair of the meeting may permit other persons who are not members of the company to attend and speak at a general meeting.
 
-##### 32. Adjournment[^key-50ed5863e68d6ee6013067d77f0d802f]
+##### 32. Adjournment[^c-50ed5863e68d6ee6013067d77f0d802f]
 
 (1) If the persons attending a general meeting within half an hour of the time at which the meeting was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chair of the meeting must adjourn it.
 
@@ -456,7 +456,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 
 #### VOTING AT GENERAL MEETINGS
 
-##### 33. Voting: general[^key-0651f25dda1a17ed503774304cf4f0ad]
+##### 33. Voting: general[^c-0651f25dda1a17ed503774304cf4f0ad]
 
 (1) A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is duly demanded in accordance with the articles.
 
@@ -469,21 +469,21 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 - (c) the member who is the qualifying tenant of a residential unit is entitled to cast the votes allocated to that unit, or if there is no qualifying tenant of that unit, the member who is the immediate landlord is so entitled. The immediate landlord will not be entitled to the vote of a residential unit held by a qualifying tenant who is not a member of the RTM company;
 - (d) the immediate landlord of a non-residential part included in the Premises is entitled to cast the votes allocated that part, or where there is no lease of a non-residential part, the freeholder is so entitled. Where there is more than one such person, the total number of votes allocated to the non-residential part are to be divided between them in proportion to the internal floor area of their respective parts. Any resulting entitlement to a fraction of a vote is to be ignored;
 - (e) if a residential unit is not subject to any lease, there is no entitlement to cast any votes in respect of it;
-- (f)[^key-646c596ddf1a04a488d77bbc998f3650] any person who is not otherwise entitled to any votes is entitled to one vote if that person is—
+- (f)[^c-646c596ddf1a04a488d77bbc998f3650] any person who is not otherwise entitled to any votes is entitled to one vote if that person is—
   - (i) the freeholder of the Premises,
   - (ii) a landlord under a lease or leases of the whole or any part of the Premises, and
   - (iii) a member of the company;
-- (g)[^key-3c0bcf5794529da6b8875309ee0b0292] the votes exercisable by landlords under leases of the whole or any part of the Premises must be capped at one third of the votes exercisable by qualifying tenants.
+- (g)[^c-3c0bcf5794529da6b8875309ee0b0292] the votes exercisable by landlords under leases of the whole or any part of the Premises must be capped at one third of the votes exercisable by qualifying tenants.
 
-(4) In the case of any persons who are to be regarded as jointly being members of the company, any such person may exercise the voting rights to which such members are jointly entitled, but where more than one such person tenders a vote, whether in person or by proxy, the vote of the senior is to be accepted to the exclusion of the votes of the others, and seniority is to be determined by the order in which the names of such persons appear in the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^key-35a02da513c30a8517a14951b7f1a4ad] in respect of the flat or lease (as the case may be) in which they are interested.
+(4) In the case of any persons who are to be regarded as jointly being members of the company, any such person may exercise the voting rights to which such members are jointly entitled, but where more than one such person tenders a vote, whether in person or by proxy, the vote of the senior is to be accepted to the exclusion of the votes of the others, and seniority is to be determined by the order in which the names of such persons appear in the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^c-35a02da513c30a8517a14951b7f1a4ad] in respect of the flat or lease (as the case may be) in which they are interested.
 
-##### 34. Errors and disputes[^key-e9ea4d8e4d2a599243a162cbf2f22ebf]
+##### 34. Errors and disputes[^c-e9ea4d8e4d2a599243a162cbf2f22ebf]
 
 (1) No objection may be raised to the qualification of any person voting at a general meeting except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting is valid.
 
 (2) Any such objection must be referred to the chair of the meeting whose decision is final.
 
-##### 35. Poll votes[^key-1a03519b4fba6f196916fca2a05c9242]
+##### 35. Poll votes[^c-1a03519b4fba6f196916fca2a05c9242]
 
 (1) A poll on a resolution may be demanded—
 
@@ -504,7 +504,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 
 (4) Polls must be taken immediately and in such manner as the chair of the meeting directs.
 
-##### 36. Content of proxy notices[^key-f56e2a919170b7447538ba7f30e6b805]
+##### 36. Content of proxy notices[^c-f56e2a919170b7447538ba7f30e6b805]
 
 (1) Proxies may only validly be appointed by a notice in writing (a “proxy notice”) which—
 
@@ -522,7 +522,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 - (a) allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary or procedural resolutions put to the meeting, and
 - (b) appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
 
-##### 37. Delivery of proxy notices[^key-517edbef54e278c7e9b7ff49969033d5]
+##### 37. Delivery of proxy notices[^c-517edbef54e278c7e9b7ff49969033d5]
 
 (1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjustment of it even though a valid proxy notice has been delivered to the company by or on behalf of that person.
 
@@ -532,7 +532,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 
 (4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointor’s behalf.
 
-##### 38. Amendments to resolutions[^key-c4958ae59a79e896753828fb64ff19a4]
+##### 38. Amendments to resolutions[^c-c4958ae59a79e896753828fb64ff19a4]
 
 (1) An ordinary resolution to be proposed at a general meeting may be amended by ordinary resolution if—
 
@@ -548,7 +548,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 
 ### PART 5 — ADMINISTRATIVE ARRANGEMENTS
 
-#### 39. Means of communication to be used[^key-4ab0ddae11181f9ee99d73d828e2d1c8]
+#### 39. Means of communication to be used[^c-4ab0ddae11181f9ee99d73d828e2d1c8]
 
 (1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Acts provides for documents or information which are authorised or required by any provision of those Acts to be sent or supplied by or to the company.
 
@@ -556,7 +556,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 
 (3) A director may agree with the company that notices or documents sent to that director in a particular way are to be deemed to have been received within a specified time of their being sent, and for the specified time to be less than 48 hours.
 
-#### 40. Company seals[^key-64cac786f1c0c5ca462ddfe1a28732e7]
+#### 40. Company seals[^c-64cac786f1c0c5ca462ddfe1a28732e7]
 
 (1) Any common seal may only be used by the authority of the directors.
 
@@ -570,7 +570,7 @@ must appoint a director or member to act as chair of the meeting, and the appoin
 - (b) the company secretary (if any); or
 - (c) any person authorised by the directors for the purpose of signing documents to which the common seal is applied.
 
-#### 41. Inspection and copying of accounts and other records[^key-73fc0eab3fed22b501e74ae08d00f28f]
+#### 41. Inspection and copying of accounts and other records[^c-73fc0eab3fed22b501e74ae08d00f28f]
 
 In addition to, and without derogation from, any right conferred by statute, any member has the right, on reasonable notice, at such time and place as is convenient to the company, to inspect, and to be provided with a copy of, any book, minute, document or accounting record of the company, upon payment of any reasonable charge for copying. Such rights are subject to—
 
@@ -578,13 +578,13 @@ In addition to, and without derogation from, any right conferred by statute, any
 - (b) in the case of any book, minute, document or accounting record which the directors reasonably consider contains confidential material, the disclosure of which would be contrary to the interests of the company, to the exclusion or excision of such confidential material (the fact of such exclusion or excision being disclosed to the member); and
 - (c) any other reasonable conditions that the directors may impose.
 
-#### 42. Provision for employees on cessation of business[^key-fed114fbb1b8468d8a12ec88ea04ddb5]
+#### 42. Provision for employees on cessation of business[^c-fed114fbb1b8468d8a12ec88ea04ddb5]
 
 The directors may decide to make provision for the benefit of persons employed or formerly employed by the company or any of its subsidiaries (other than a director or former director or shadow director) in connection with the cessation or transfer to any person of the whole or part of the undertaking of the company or that subsidiary.
 
 ### PART 6 — DIRECTORS' INDEMNITY AND INSURANCE
 
-#### 43. Indemnity[^key-1333bdc42f16e77506b7f7eb3f45a7c6]
+#### 43. Indemnity[^c-1333bdc42f16e77506b7f7eb3f45a7c6]
 
 (1) Subject to paragraph (2), a relevant director of the company or an associated company may be indemnified out of the company’s assets against—
 
@@ -599,7 +599,7 @@ The directors may decide to make provision for the benefit of persons employed o
 - (a) companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate, and
 - (b) a “relevant director” means any director or former director of the company or an associated company.
 
-#### 44. Insurance[^key-44ed41dd2c59125cf112d06d0c8d97e1]
+#### 44. Insurance[^c-44ed41dd2c59125cf112d06d0c8d97e1]
 
 (1) The directors may decide to purchase and maintain insurance, at the expense of the company, for the benefit of any relevant director in respect of any relevant loss.
 
@@ -623,7 +623,7 @@ Regulation 2
 
 ### RHAN 1 — DEHONGLI, ENWAU AC AMCANION CWMNI RTM A CHYFYNGU ATEBOLRWYDD
 
-#### 1. Diffinio termau[^key-3cedaff07e17e3c1c3886be42363fe60]
+#### 1. Diffinio termau[^c-3cedaff07e17e3c1c3886be42363fe60]
 
 Yn yr erthyglau, onid yw'r cyd-destun yn mynnu fel arall—
 
@@ -656,13 +656,13 @@ Yn yr erthyglau, onid yw'r cyd-destun yn mynnu fel arall—
 
 #### ENW AC AMCANION Y CWMNI RTM
 
-**2.**[^key-aeaffeb093d3281ca8e887adbec4df19] Enw'r cwmni yw \[*enw*\] Cwmni RTM Cyfyngedig.
+**2.**[^c-aeaffeb093d3281ca8e887adbec4df19] Enw'r cwmni yw \[*enw*\] Cwmni RTM Cyfyngedig.
 
-**3.**[^key-00c58729ca454fd7464f6aa26d9c27b4] Lleolir swyddfa gofrestredig y cwmni yng \[*Nghymru*\] /\[*Nghymru a Lloegr*\].
+**3.**[^c-00c58729ca454fd7464f6aa26d9c27b4] Lleolir swyddfa gofrestredig y cwmni yng \[*Nghymru*\] /\[*Nghymru a Lloegr*\].
 
-**4.**[^key-ff4b85132d8aee30092eb835deaa7c7e] Yr amcanion y sefydlir y cwmni ar eu cyfer yw caffael ac arfer, yn unol â Deddf 2002, yr hawl i reoli'r Fangre.
+**4.**[^c-ff4b85132d8aee30092eb835deaa7c7e] Yr amcanion y sefydlir y cwmni ar eu cyfer yw caffael ac arfer, yn unol â Deddf 2002, yr hawl i reoli'r Fangre.
 
-**5.**[^key-ba964f2291ce267532856d9f227d32ab] Rhaid peidio â dehongli'r amcanion hyn mewn ffordd gyfyng ond yn hytrach, rhaid rhoi'r dehongliad ehangaf iddynt. Er mwyn hyrwyddo'r amcanion, ond nid fel arall, bydd gan y cwmni y pŵer i wneud popeth a awdurdodir neu sy'n ofynnol i gwmni RTM ei wneud, drwy ac o dan Ddeddf 2002, ac yn benodol (ond heb randdirymu grym cyffredinol yr uchod)—
+**5.**[^c-ba964f2291ce267532856d9f227d32ab] Rhaid peidio â dehongli'r amcanion hyn mewn ffordd gyfyng ond yn hytrach, rhaid rhoi'r dehongliad ehangaf iddynt. Er mwyn hyrwyddo'r amcanion, ond nid fel arall, bydd gan y cwmni y pŵer i wneud popeth a awdurdodir neu sy'n ofynnol i gwmni RTM ei wneud, drwy ac o dan Ddeddf 2002, ac yn benodol (ond heb randdirymu grym cyffredinol yr uchod)—
 
 - (a) paratoi, gwneud a bwrw ymlaen â hawliad i gaffael yr hawl i reoli'r Fangre, neu ei dynnu'n ôl;
 - (b) arfer swyddogaethau rheoli o dan lesoedd o'r cyfan neu unrhyw ran o'r Fangre yn unol ag adrannau 96 a 97 o Ddeddf 2002;
@@ -694,11 +694,11 @@ Yn yr erthyglau, onid yw'r cyd-destun yn mynnu fel arall—
 - (w) gwneud neu gaffael neu drefnu ar gyfer gwneud y cyfan neu unrhyw rai o'r pethau neu faterion a grybwyllir uchod mewn unrhyw ran o'r byd, a hynny naill ai fel penaduriaid, asiantwyr, contractwyr neu fel arall, a chan neu drwy asiantwyr, broceriaid, is-gontractwyr neu fel arall, a naill ai ar ei ben ei hunan neu ar y cyd ag eraill; ac
 - (y) gwneud yr holl bethau cyfreithlon eraill hynny sy'n gysylltiedig ag ymgyrraedd at neu gyflawni amcanion y cwmni, neu'n ffafriol iddo.
 
-**6.**[^key-a7a13107080867543b042df77038f82a] Rhaid defnyddio incwm y cwmni, o ba le bynnag y deillia, at yr unig ddiben o hyrwyddo amcanion y cwmni, ac ni cheir gwneud dosraniad i'w aelodau, mewn arian nac fel arall, ac eithrio wrth ddirwyn y cwmni i ben.
+**6.**[^c-a7a13107080867543b042df77038f82a] Rhaid defnyddio incwm y cwmni, o ba le bynnag y deillia, at yr unig ddiben o hyrwyddo amcanion y cwmni, ac ni cheir gwneud dosraniad i'w aelodau, mewn arian nac fel arall, ac eithrio wrth ddirwyn y cwmni i ben.
 
 #### CYFYNGU ATEBOLRWYDD
 
-##### 7. Atebolrwydd yr aelodau[^key-66d77d1053e7aaa36b731580d76e5e9a]
+##### 7. Atebolrwydd yr aelodau[^c-66d77d1053e7aaa36b731580d76e5e9a]
 
 Mae atebolrwydd yr aelodau yn gyfyngedig i £1 yr un, sef y swm y maent yn ymgymryd i'w gyfrannu i asedau'r cwmni os digwydd iddo gael ei ddirwyn i ben tra bônt yn aelod, neu o fewn un flwyddyn wedi iddynt beidio â bod yn aelod, ar gyfer—
 
@@ -710,17 +710,17 @@ Mae atebolrwydd yr aelodau yn gyfyngedig i £1 yr un, sef y swm y maent yn ymgym
 
 #### PWERAU A CHYFRIFOLDEBAU CYFARWYDDWYR
 
-##### 8. Awdurdod cyffredinol cyfarwyddwyr[^key-03c72e3d7d87241b577bd8cc6c23c42a]
+##### 8. Awdurdod cyffredinol cyfarwyddwyr[^c-03c72e3d7d87241b577bd8cc6c23c42a]
 
 Yn ddarostyngedig i'r erthyglau, mae'r cyfarwyddwyr yn gyfrifol am reoli busnes y cwmni, ac at y diben hwnnw cânt arfer holl bwerau'r cwmni.
 
-##### 9. Pŵer wrth gefn yr aelodau[^key-ea85b747395a7349b8a0e3db99dc8aea]
+##### 9. Pŵer wrth gefn yr aelodau[^c-ea85b747395a7349b8a0e3db99dc8aea]
 
 (1) Caiff yr aelodau, drwy benderfyniad arbennig, gyfarwyddo'r cyfarwyddwyr i gymryd cam penodol, neu ymatal rhag cymryd cam penodol.
 
 (2) Ni chaiff unrhyw benderfyniad arbennig o'r fath annilysu unrhyw beth a wnaed gan y cyfarwyddwyr cyn pasio'r penderfyniad.
 
-##### 10. Caiff cyfarwyddwyr ddirprwyo[^key-4f18ad3075902a989a2c8c3014a66261]
+##### 10. Caiff cyfarwyddwyr ddirprwyo[^c-4f18ad3075902a989a2c8c3014a66261]
 
 (1) Yn ddarostyngedig i'r erthyglau, caiff y cyfarwyddwyr ddirprwyo unrhyw rai o'r pwerau a roddir iddynt o dan yr erthyglau—
 
@@ -736,13 +736,13 @@ ag y tybiant yn briodol.
 
 (3) Caiff y cyfarwyddwyr ddirymu unrhyw ddirprwyo yn gyfan gwbl neu'n rhannol, neu newid amodau a thelerau'r dirprwyo.
 
-##### 11. Pwyllgorau[^key-dc5e5cb9c39a52395091eb8f8a23e5ee]
+##### 11. Pwyllgorau[^c-dc5e5cb9c39a52395091eb8f8a23e5ee]
 
 Rhaid i bwyllgorau y mae'r cyfarwyddwyr yn dirprwyo unrhyw rai o'u pwerau iddynt, ddilyn gweithdrefnau sy'n seiliedig, i'r graddau y maent yn gymwys, ar y darpariaethau hynny o'r erthyglau sy'n llywodraethu gwneud penderfyniadau gan gyfarwyddwyr.
 
 #### GWNEUD PENDERFYNIADAU GAN GYFARWYDDWYR
 
-##### 12. Cyfarwyddwyr i wneud penderfyniadau ar y cyd[^key-1dbcdc34857af93547095cf5c2b6da12]
+##### 12. Cyfarwyddwyr i wneud penderfyniadau ar y cyd[^c-1dbcdc34857af93547095cf5c2b6da12]
 
 (1) Y rheol gyffredinol ynglŷn â gwneud penderfyniadau gan gyfarwyddwyr yw fod rhaid i unrhyw benderfyniad gan y cyfarwyddwyr fod naill ai'n benderfyniad mwyafrif mewn cyfarfod neu'n benderfyniad a wneir yn unol ag erthygl 13.
 
@@ -753,7 +753,7 @@ Rhaid i bwyllgorau y mae'r cyfarwyddwyr yn dirprwyo unrhyw rai o'u pwerau iddynt
 
 nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniadau heb ystyried unrhyw ddarpariaethau o'r erthyglau mewn perthynas â gwneud penderfyniadau gan gyfarwyddwyr.
 
-##### 13. Penderfyniadau unfrydol[^key-bdc7fa604dc3cf563c5eeea32294f671]
+##### 13. Penderfyniadau unfrydol[^c-bdc7fa604dc3cf563c5eeea32294f671]
 
 (1) Gwneir penderfyniad gan y cyfarwyddwyr yn unol â'r erthygl hon pan fo pob un o'r cyfarwyddwyr cymwys yn dynodi, y naill wrth y llall gan ddefnyddio unrhyw ddull, eu bod yn rhannu safbwynt cyffredin ar y mater.
 
@@ -763,7 +763,7 @@ nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniada
 
 (4) Ni chaniateir gwneud penderfyniad yn unol â'r erthygl hon os na fyddai'r cyfarwyddwyr cymwys wedi ffurfio cworwm mewn cyfarfod o'r fath.
 
-##### 14. Galw cyfarfod cyfarwyddwyr[^key-05bbee685d8bf98a18d61996a43ccb43]
+##### 14. Galw cyfarfod cyfarwyddwyr[^c-05bbee685d8bf98a18d61996a43ccb43]
 
 (1) Caiff unrhyw gyfarwyddwr alw cyfarfod o'r cyfarwyddwyr drwy roi hysbysiad o'r cyfarfod i'r cyfarwyddwyr neu drwy awdurdodi ysgrifennydd y cwmni (os oes ysgrifennydd) i roi hysbysiad o'r fath.
 
@@ -777,7 +777,7 @@ nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniada
 
 (4) Nid oes raid rhoi hysbysiad o gyfarfod o'r cyfarwyddwyr i gyfarwyddwyr sy'n ildio'u hawl i gael eu hysbysu o'r cyfarfod hwnnw, drwy roi hysbysiad i'r perwyl hwnnw i'r cwmni, ddim mwy na 7 diwrnod ar ôl y dyddiad y cynhelir y cyfarfod. Pan roddir hysbysiad o'r fath ar ôl cynnal y cyfarfod, nid yw hynny'n effeithio ar ddilysrwydd y cyfarfod nac unrhyw fusnes a gyflawnir ynddo.
 
-##### 15. Cymryd rhan mewn cyfarfodydd cyfarwyddwyr[^key-88bb7dd35ec1752e6513254d0bb38dcc]
+##### 15. Cymryd rhan mewn cyfarfodydd cyfarwyddwyr[^c-88bb7dd35ec1752e6513254d0bb38dcc]
 
 (1) Yn ddarostyngedig i'r erthyglau, mae cyfarwyddwyr yn cymryd rhan mewn cyfarfod cyfarwyddwyr, neu ran o gyfarfod cyfarwyddwyr—
 
@@ -788,7 +788,7 @@ nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniada
 
 (3) Os nad yw'r cyfarwyddwyr sy'n cymryd rhan mewn cyfarfod i gyd yn yr un lle, cânt benderfynu bod y cyfarfod i'w drin fel pe bai'n cael ei gynnal yn y lle y mae unrhyw un ohonynt ynddo.
 
-##### 16. Cworwm ar gyfer cyfarfodydd cyfarwyddwyr[^key-2529f52ed174328bcece558a3aed1805]
+##### 16. Cworwm ar gyfer cyfarfodydd cyfarwyddwyr[^c-2529f52ed174328bcece558a3aed1805]
 
 (1) Mewn cyfarfod cyfarwyddwyr, oni fydd cworwm yn cymryd rhan, rhaid peidio â phleidleisio ar unrhyw gynnig ac eithrio cynnig i alw cyfarfod arall.
 
@@ -799,7 +799,7 @@ nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniada
 - (a) i benodi cyfarwyddwyr ychwanegol, neu
 - (b) i alw cyfarfod cyffredinol er mwyn galluogi'r aelodau i benodi cyfarwyddwyr ychwanegol.
 
-##### 17. Cadeirio cyfarfodydd cyfarwyddwyr[^key-5c38a1cee3ef78505479e62b7d3382d3]
+##### 17. Cadeirio cyfarfodydd cyfarwyddwyr[^c-5c38a1cee3ef78505479e62b7d3382d3]
 
 (1) Caiff y cyfarwyddwyr benodi cyfarwyddwr i weithredu fel cadeirydd yn eu cyfarfodydd.
 
@@ -809,13 +809,13 @@ nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniada
 
 (4) Os na fydd y cadeirydd yn cymryd rhan mewn cyfarfod cyfarwyddwyr o fewn deng munud o'r amser a bennwyd i gychwyn y cyfarfod, rhaid i'r cyfarwyddwyr sy'n cymryd rhan benodi un o'u plith i weithredu fel cadeirydd.
 
-##### 18. Pleidlais fwrw[^key-4921097182028eaf1e4c0cbafc9210a6]
+##### 18. Pleidlais fwrw[^c-4921097182028eaf1e4c0cbafc9210a6]
 
 (1) Os yw nifer y pleidleisiau o blaid ac yn erbyn cynnig, mae gan y cadeirydd neu'r cyfarwyddwr arall sy'n cadeirio'r cyfarfod bleidlais fwrw.
 
 (2) Ond nid yw hyn yn gymwys os yn unol â'r erthyglau, ni cheir cyfrif y cadeirydd neu'r cyfarwyddwr arall hwnnw fel un sy'n cymryd rhan yn y broses o wneud penderfyniadau, at ddibenion cworwm neu bleidleisio.
 
-##### 19. Gwrthdrawiadau buddiannau[^key-1c8a1fbd4fc5787c83376ab8a46d3ed8]
+##### 19. Gwrthdrawiadau buddiannau[^c-1c8a1fbd4fc5787c83376ab8a46d3ed8]
 
 (1) Os yw penderfyniad arfaethedig gan y cyfarwyddwyr yn ymwneud â thrafodiad neu drefniant gwirioneddol neu arfaethedig gyda'r cwmni, a buddiant gan gyfarwyddwr yn y trafodiad neu'r trefniant hwnnw, rhaid peidio â chyfrif y cyfarwyddwr hwnnw fel un sy'n cymryd rhan yn y broses o wneud penderfyniadau, at ddibenion cworwm neu bleidleisio.
 
@@ -839,17 +839,17 @@ nid yw'r rheol gyffredinol yn gymwys, a chaiff y cyfarwyddwr wneud penderfyniada
 
 (7) Os oes unrhyw gwestiwn ynghylch hawl i gymryd rhan yn y cyfarfod (neu ran o'r cyfarfod) yn codi mewn perthynas â'r cadeirydd, rhaid penderfynu'r cwestiwn drwy benderfyniad o'r cyfarwyddwyr yn y cyfarfod hwnnw, ac at y diben hwnnw, ni cheir cyfrif y cadeirydd fel un sy'n cymryd rhan yn y cyfarfod (neu'r rhan honno o'r cyfarfod) at ddibenion pleidleisio neu gworwm.
 
-##### 20. Rhaid cadw cofnodion o benderfyniadau[^key-220c29bea95a2562423dbe857d4248c0]
+##### 20. Rhaid cadw cofnodion o benderfyniadau[^c-220c29bea95a2562423dbe857d4248c0]
 
 Rhaid i'r cyfarwyddwyr sicrhau bod y cwmni yn cadw cofnod, mewn ysgrifen, am 10 mlynedd o leiaf ar ôl dyddiad y penderfyniad a gofnodir, o bob penderfyniad unfrydol neu benderfyniad mwyafrif a wneir gan y cyfarwyddwyr.
 
-##### 21. Disgresiwn y cyfarwyddwyr i wneud rheolau pellach[^key-0789d5c6b37d13c6bc7cd564ba8a043c]
+##### 21. Disgresiwn y cyfarwyddwyr i wneud rheolau pellach[^c-0789d5c6b37d13c6bc7cd564ba8a043c]
 
 Yn ddarostyngedig i'r erthyglau, caiff y cyfarwyddwyr wneud unrhyw reol a ystyriant yn briodol ynglŷn â'r modd y gwnânt benderfyniadau, a sut y cofnodir rheolau o'r fath neu y'u cyfathrebir i gyfarwyddwyr.
 
 #### PENODI CYFARWYDDWYR
 
-##### 22. Dulliau o benodi cyfarwyddwyr[^key-6470112ccb8ff7db481ecdf75de61716]
+##### 22. Dulliau o benodi cyfarwyddwyr[^c-6470112ccb8ff7db481ecdf75de61716]
 
 (1) Ceir penodi yn gyfarwyddwr unrhyw berson sy'n fodlon i weithredu fel cyfarwyddwr, ac y caniateir iddo wneud hynny gan y gyfraith, naill ai—
 
@@ -860,7 +860,7 @@ Yn ddarostyngedig i'r erthyglau, caiff y cyfarwyddwyr wneud unrhyw reol a ystyri
 
 (3) At ddibenion paragraff (2), os bu 2 neu ragor o aelodau farw mewn amgylchiadau sy'n creu ansicrwydd pa un a fu farw ddiwethaf, rhaid tybio bod yr aelod ieuengaf wedi goroesi aelod hŷn.
 
-##### 23. Terfynu penodiad cyfarwyddwr[^key-48fd55f657a0db8855f6953a31feb303]
+##### 23. Terfynu penodiad cyfarwyddwr[^c-48fd55f657a0db8855f6953a31feb303]
 
 Mae person yn peidio â bod yn gyfarwyddwr cyn gynted ag—
 
@@ -868,14 +868,14 @@ Mae person yn peidio â bod yn gyfarwyddwr cyn gynted ag—
 - (b) y gwneir gorchymyn methdalu yn erbyn y person hwnnw;
 - (c) y gwneir compównd gyda chredydwyr y person hwnnw yn gyffredinol, er mwyn bodloni dyledion y person hwnnw;
 - (ch) y cyflwynir i'r cwmni farn ysgrifenedig gan ymarferydd meddygol cofrestredig sy'n trin y person hwnnw, yn datgan bod y person hwnnw wedi mynd yn analluog, yn gorfforol neu'n feddyliol, i weithredu fel cyfarwyddwr, ac y gallai'r person hwnnw barhau felly am fwy na thri mis;
-- (d)[^key-08d0f66e3125f65b28ad1a8b66310264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-08d0f66e3125f65b28ad1a8b66310264] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (dd) y caiff y cwmni hysbysiad gan y cyfarwyddwr ei fod yn ymddiswyddo, a'r cyfryw ymddiswyddiad wedi cael effaith yn unol â thelerau'r hysbysiad.
 
-##### 24. Cydnabyddiaeth cyfarwyddwyr[^key-a296ff3fd9d3c300b4a6c16dbc8f5986]
+##### 24. Cydnabyddiaeth cyfarwyddwyr[^c-a296ff3fd9d3c300b4a6c16dbc8f5986]
 
 Ac eithrio gyda chydsyniad y cwmni mewn cyfarfod cyffredinol, nid oes hawl gan y cyfarwyddwyr i gael unrhyw gydnabyddiaeth. Rhaid i unrhyw benderfyniad sy'n rhoi cydsyniad o'r fath bennu swm y gydnabyddiaeth sydd i'w thalu i'r cyfarwyddwyr, ac oni fydd y penderfyniad yn darparu'n wahanol, ystyrir bod y gydnabyddiaeth yn cronni o ddiwrnod i ddiwrnod.
 
-##### 25. Treuliau cyfarwyddwyr[^key-6a91c50a8088e0b47ceeb93402266c04]
+##### 25. Treuliau cyfarwyddwyr[^c-6a91c50a8088e0b47ceeb93402266c04]
 
 Caiff y cwmni dalu unrhyw dreuliau rhesymol a dynnir yn briodol gan y cyfarwyddwyr mewn cysylltiad â'u presenoldeb mewn—
 
@@ -887,7 +887,7 @@ neu rywfodd arall mewn cysylltiad ag arfer eu pwerau a chyflawni eu cyfrifoldeba
 
 ### RHAN 3 — DOD YN AELOD A PHEIDIO Å BOD YN AELOD
 
-#### 26. Cais am aelodaeth[^key-ed9f583b53c73bbeb75ef66ff91642fe]
+#### 26. Cais am aelodaeth[^c-ed9f583b53c73bbeb75ef66ff91642fe]
 
 (1) Yn ddarostyngedig i baragraff (2), rhaid i bob person sy'n dymuno dod yn aelod o'r cwmni draddodi i'r cwmni gais cyflawn am aelodaeth yn y ffurf ganlynol (neu mewn ffurf sydd mor agos at y ffurf ganlynol ag y mae amgylchiadau'n caniatáu, neu mewn unrhyw ffurf arall sy'n arferol neu a gymeradwyir gan y cyfarwyddwyr):
 
@@ -904,7 +904,7 @@ neu rywfodd arall mewn cysylltiad ag arfer eu pwerau a chyflawni eu cyfrifoldeba
 
 (5) Rhaid i'r cyfarwyddwyr, unwaith y byddant wedi eu bodloni ynglŷn â chais y person a'i hawl i fod yn aelod, gofrestru'r cyfryw berson yn aelod o'r cwmni.
 
-#### 27. Peidio â bod yn aelod[^key-46248bee3dd2173b90e48c492d5cdc67]
+#### 27. Peidio â bod yn aelod[^c-46248bee3dd2173b90e48c492d5cdc67]
 
 (1) Nid yw aelodaeth o'r cwmni yn drosglwyddadwy.
 
@@ -929,7 +929,7 @@ mae'r personau hynny, onid oes ganddynt hawl fel arall i fod yn aelodau o'r cwmn
 
 #### TREFNIADAETH CYFARFODYDD CYFFREDINOL
 
-##### 28. Presenoldeb a siarad mewn cyfarfodydd cyffredinol[^key-0d8239e7359b5cb0e22265e877f2274c]
+##### 28. Presenoldeb a siarad mewn cyfarfodydd cyffredinol[^c-0d8239e7359b5cb0e22265e877f2274c]
 
 (1) Mae gan berson y gallu i arfer yr hawl i siarad mewn cyfarfod cyffredinol pan fo'r person hwnnw mewn sefyllfa i gyfathrebu i bawb sy'n bresennol yn y cyfarfod, yn ystod y cyfarfod, unrhyw wybodaeth neu farnau sydd gan y person hwnnw ynglŷn â busnes y cyfarfod.
 
@@ -944,13 +944,13 @@ mae'r personau hynny, onid oes ganddynt hawl fel arall i fod yn aelodau o'r cwmn
 
 (5) Mae dau neu ragor o bersonau nad ydynt yn yr un lle â'i gilydd yn bresennol mewn cyfarfod cyffredinol os yw eu hamgylchiadau yn rhai sy'n caniatáu, os oes ganddynt (neu pe byddai ganddynt) hawliau i siarad a phleidleisio yn y cyfarfod hwnnw, y gallant (neu y gallent) arfer yr hawliau hynny.
 
-##### 29. Cworwm ar gyfer cyfarfodydd cyffredinol[^key-036acf2523a3da16d82d09d291ab985d]
+##### 29. Cworwm ar gyfer cyfarfodydd cyffredinol[^c-036acf2523a3da16d82d09d291ab985d]
 
 (1) Rhaid peidio â thrafod unrhyw fusnes mewn cyfarfod cyffredinol ac eithrio penodi cadeirydd y cyfarfod os nad yw'r personau sy'n bresennol yn y cyfarfod yn cyfansoddi cworwm fel a bennir ym mharagraff (2).
 
 (2) Y cworwm ar gyfer y cyfarfod yw 20 y cant o aelodau'r cwmni sydd â hawl i bleidleisio ar y busnes sydd i'w drafod, neu ddau aelod o'r cwmni sydd â hawl o'r fath (pa un bynnag yw'r nifer mwyaf), yn bresennol naill ai'n bersonol neu drwy ddirprwy.
 
-##### 30. Cadeirio cyfarfodydd cyffredinol[^key-9b696dd51f6e55465d536d7d00b4a52d]
+##### 30. Cadeirio cyfarfodydd cyffredinol[^c-9b696dd51f6e55465d536d7d00b4a52d]
 
 (1) Os yw'r cyfarwyddwyr wedi penodi cadeirydd, rhaid i'r cadeirydd lywyddu'r cyfarfodydd cyffredinol os yw'n bresennol ac yn fodlon gwneud hynny.
 
@@ -963,13 +963,13 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 (3) Cyfeirir at y person sy'n gweithredu fel cadeirydd y cyfarfod yn unol â'r erthygl hon fel “cadeirydd y cyfarfod”.
 
-##### 31. Cyfarwyddwyr a rhai nad ydynt yn aelodau yn bresennol ac yn siarad[^key-4c3acfcb2a18de831d41c021d9b37010]
+##### 31. Cyfarwyddwyr a rhai nad ydynt yn aelodau yn bresennol ac yn siarad[^c-4c3acfcb2a18de831d41c021d9b37010]
 
 (1) Caiff cyfarwyddwyr fod yn bresennol a siarad mewn cyfarfodydd cyffredinol, pa un a ydynt yn aelodau ai peidio.
 
 (2) Caiff cadeirydd y cyfarfod ganiatáu i bersonau eraill, nad ydynt yn aelodau o'r cwmni, fod yn bresennol a siarad mewn cyfarfod cyffredinol.
 
-##### 32. Gohirio[^key-0de7a3b1781f97ddb24fcb74b9ba9d46]
+##### 32. Gohirio[^c-0de7a3b1781f97ddb24fcb74b9ba9d46]
 
 (1) Os nad yw'r personau sy'n bresennol mewn cyfarfod cyffredinol yn cyfansoddi cworwm o fewn hanner awr ar ôl yr amser a bennwyd ar gyfer cychwyn y cyfarfod, neu os yw cworwm yn peidio â bod yn bresennol yn ystod cyfarfod, rhaid i gadeirydd y cyfarfod ohirio'r cyfarfod.
 
@@ -994,7 +994,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 #### PLEIDLEISIO MEWN CYFARFODYDD CYFFREDINOL
 
-##### 33. Pleidleisio: cyffredinol[^key-fa396dca354c29889ce63e2346dd9539]
+##### 33. Pleidleisio: cyffredinol[^c-fa396dca354c29889ce63e2346dd9539]
 
 (1) Rhaid i benderfyniad y pleidleisir arno mewn cyfarfod cyffredinol gael ei benderfynu drwy ddangos dwylo oni ofynnir yn briodol am gynnal pôl yn unol â'r erthyglau.
 
@@ -1015,13 +1015,13 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 (4)[^M_X_92d69fc1-afca-4819-b7d1-8524979c93df] Yn achos personau yr ystyrir eu bod yn gyd-aelodau o'r cwmni, caiff unrhyw berson o'r fath arfer yr hawliau pleidleisio sydd gan yr aelodau hynny ar y cyd, ond os oes mwy nag un person o'r fath yn cyflwyno pleidlais, naill ai'n bersonol neu drwy ddirprwy, caiff pleidlais y blaenaf ohonynt ei derbyn tra gwaherddir pleidleisiau'r lleill, a phenderfynir y flaenoriaeth yn ôl y drefn y mae enwau'r personau hynny yn ymddangos yn y gofrestr aelodau mewn perthynas â'r fflat neu'r les (yn ôl fel y digwydd) y mae ganddynt fuddiant ynddo neu ynddi.
 
-##### 34. Gwallau ac anghydfodau[^key-306c593d50c960e9de4c2d3947ae9f56]
+##### 34. Gwallau ac anghydfodau[^c-306c593d50c960e9de4c2d3947ae9f56]
 
 (1) Ni cheir codi gwrthwynebiad i gymhwyster unrhyw berson sy'n pleidleisio mewn cyfarfod cyffredinol ac eithrio yn y cyfarfod neu'r cyfarfod gohiriedig y cyflwynir y bleidlais a wrthwynebir ynddo, ac y mae pob pleidlais nas gwrthodir yn y cyfarfod yn ddilys.
 
 (2) Rhaid cyfeirio unrhyw wrthwynebiad o'r fath i gadeirydd y cyfarfod, ac y mae penderfyniad cadeirydd y cyfarfod yn derfynol.
 
-##### 35. Pleidleisiau pôl[^key-e5198bb11de0595fa4de702f87d2acef]
+##### 35. Pleidleisiau pôl[^c-e5198bb11de0595fa4de702f87d2acef]
 
 (1) Ceir galw am gynnal pôl ar benderfyniad—
 
@@ -1042,7 +1042,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 (4) Rhaid cynnal polau ar unwaith ac ym mha bynnag fodd a gyfarwyddir gan gadeirydd y cyfarfod.
 
-##### 36. Cynnwys hysbysiadau dirprwy[^key-1ec6d42d850a3b6e329be63e2820ca69]
+##### 36. Cynnwys hysbysiadau dirprwy[^c-1ec6d42d850a3b6e329be63e2820ca69]
 
 (1) Ni fydd penodiad dirprwy yn ddilys ac eithrio drwy hysbysiad ysgrifenedig (“hysbysiad dirprwy”) sydd—
 
@@ -1060,7 +1060,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 - (a) yn caniatáu disgresiwn i'r person a benodir yn ddirprwy odano ynglŷn â sut i bleidleisio ar unrhyw benderfyniadau ategol neu weithdrefnol a osodir gerbron y cyfarfod, a
 - (b) yn penodi'r person hwnnw yn ddirprwy mewn perthynas ag unrhyw ohiriad o'r cyfarfod cyffredinol y mae'r hysbysiad dirprwy yn ymwneud ag ef, yn ogystal â'r cyfarfod ei hunan.
 
-##### 37. Traddodi hysbysiadau dirprwy[^key-6e34d32e0e0527af17e96dbe866ba6ca]
+##### 37. Traddodi hysbysiadau dirprwy[^c-6e34d32e0e0527af17e96dbe866ba6ca]
 
 (1) Mae person sydd â hawl i fod yn bresennol, siarad neu bleidleisio (naill ai drwy ddangos dwylo neu mewn pôl) mewn cyfarfod cyffredinol yn parhau â'r hawl honno mewn perthynas â'r cyfarfod hwnnw neu unrhyw addasiad ohono, hyd yn oed pan fo hysbysiad dirprwy dilys wedi ei draddodi i'r cwmni gan neu ar ran y person hwnnw.
 
@@ -1070,7 +1070,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 (4) Os nad yw hysbysiad dirprwy wedi ei gyflawni gan y person ei hunan sy'n penodi'r dirprwy, rhaid ei draddodi ynghyd â thystiolaeth ysgrifenedig bod gan y person a'i cyflawnodd awdurdod i'w gyflawni ar ran y penodwr.
 
-##### 38. Gwelliannau i benderfyniadau[^key-f7f2d897169a2cab4a6336367f1c13b5]
+##### 38. Gwelliannau i benderfyniadau[^c-f7f2d897169a2cab4a6336367f1c13b5]
 
 (1) Ceir cynnig gwelliant i benderfyniad cyffredin sydd i'w gynnig mewn cyfarfod cyffredinol, drwy benderfyniad cyffredin—
 
@@ -1086,7 +1086,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 ### RHAN 5 — TREFNIADAU GWEINYDDOL
 
-#### 39. Y dulliau cyfathrebu sydd i'w defnyddio[^key-365f53407096e1af30295d48b0c708d6]
+#### 39. Y dulliau cyfathrebu sydd i'w defnyddio[^c-365f53407096e1af30295d48b0c708d6]
 
 (1) Yn ddarostyngedig i'r erthyglau, ceir anfon neu gyflenwi unrhyw beth a anfonir neu a gyflenwir gan y cwmni neu i'r cwmni o dan yr erthyglau, mewn unrhyw ffordd a ddarperir yn y Deddfau Cwmnïau ar gyfer dogfennau neu wybodaeth yr awdurdodir, neu y gwneir yn ofynnol, gan unrhyw ddarpariaeth o'r Deddfau hynny eu hanfon neu eu cyflenwi gan y cwmni neu i'r cwmni.
 
@@ -1094,7 +1094,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 
 (3) Caiff cyfarwyddwr gytuno gyda'r cwmni y ceir ystyried y bydd y cyfarwyddwr hwnnw wedi cael hysbysiadau neu ddogfennau a anfonir ato mewn ffordd benodol o fewn amser penodedig ar ôl eu hanfon, ac y bydd yr amser penodedig yn llai na 48 awr.
 
-#### 40. Seliau cwmnïau[^key-41523c637920d65c1ada357cd8af70ab]
+#### 40. Seliau cwmnïau[^c-41523c637920d65c1ada357cd8af70ab]
 
 (1) O dan awdurdod y cyfarwyddwyr yn unig y ceir defnyddio unrhyw sêl gyffredin.
 
@@ -1108,7 +1108,7 @@ benodi cyfarwyddwr neu aelod i weithredu fel cadeirydd y cyfarfod, a rhaid i ben
 - (b) ysgrifennydd y cwmni (os oes un); neu
 - (c) unrhyw berson a awdurdodwyd gan y cyfarwyddwyr at y diben o lofnodi dogfennau y gosodwyd y sêl gyffredin arnynt.
 
-#### 41. Archwilio a chopïo cyfrifon a chofnodion eraill[^key-36963c9567613b8d4541bdf8af981d7b]
+#### 41. Archwilio a chopïo cyfrifon a chofnodion eraill[^c-36963c9567613b8d4541bdf8af981d7b]
 
 Yn ychwanegol at unrhyw hawl a roddir drwy statud, a heb randdirymu unrhyw hawl o'r fath, mae gan unrhyw aelod yr hawl, ar ôl rhoi hysbysiad rhesymol, ar adeg ac mewn man sy'n gyfleus i'r cwmni, i archwilio unrhyw lyfr, cofnod, dogfen neu gofnod cyfrifyddu o eiddo'r cwmni, ac i gael copi o'r cyfryw ar ôl talu unrhyw ffi resymol am gopïo. Mae hawliau o'r fath yn ddarostyngedig i—
 
@@ -1116,13 +1116,13 @@ Yn ychwanegol at unrhyw hawl a roddir drwy statud, a heb randdirymu unrhyw hawl 
 - (b) yn achos unrhyw lyfr, cofnod, dogfen neu gofnod cyfrifyddu sydd, ym marn resymol y cyfarwyddwyr, yn cynnwys deunydd cyfrinachol y byddai ei ddatgelu yn groes i fuddiannau'r cwmni, hepgor neu dorri allan unrhyw ddeunydd cyfrinachol o'r fath (gan ddatgelu i'r aelod y ffaith bod hepgor neu dorri allan wedi digwydd); ac
 - (c) unrhyw amodau rhesymol eraill a osodir gan y cyfarwyddwyr.
 
-#### 42. Darpariaeth ar gyfer cyflogeion wrth derfynu'r busnes[^key-d0e4d304d97dabd45380e2e6413a0837]
+#### 42. Darpariaeth ar gyfer cyflogeion wrth derfynu'r busnes[^c-d0e4d304d97dabd45380e2e6413a0837]
 
 Caiff y cyfarwyddwyr benderfynu gwneud darpariaeth er budd personau a gyflogir neu a gyflogwyd yn flaenorol gan y cwmni neu gan unrhyw un o'i is-gwmnïau (ac eithrio cyfarwyddwr neu gyn-gyfarwyddwr neu gyfarwyddwr cysgodol) mewn cysylltiad â therfynu, neu drosglwyddo i unrhyw berson, y cyfan neu ran o ymgymeriad y cwmni neu'r is-gwmni hwnnw.
 
 ### RHAN 6 — INDEMNIAD AC YSWIRIANT CYFARWYDDWYR
 
-#### 43. Indemniad[^key-ebc26acfa0f6f3aeb29bb549afc7e7f0]
+#### 43. Indemniad[^c-ebc26acfa0f6f3aeb29bb549afc7e7f0]
 
 (1) Yn ddarostyngedig i baragraff (2), ceir indemnio cyfarwyddwr perthnasol y cwmni neu gwmni cysylltiol, allan o asedau'r cwmni, rhag—
 
@@ -1137,7 +1137,7 @@ Caiff y cyfarwyddwyr benderfynu gwneud darpariaeth er budd personau a gyflogir n
 - (a) mae cwmnïau yn gysylltiol os yw un yn is-gwmni i'r llall, neu'r ddau yn is-gwmnïau i'r un corff corfforaethol, a
 - (b) ystyr “cyfarwyddwr perthnasol” yw unrhyw gyfarwyddwr neu gyn-gyfarwyddwr y cwmni neu gwmni cysylltiol.
 
-#### 44. Yswiriant[^key-e9fd6ba8d4ce5d828b614e09e43dd2fb]
+#### 44. Yswiriant[^c-e9fd6ba8d4ce5d828b614e09e43dd2fb]
 
 (1) Caiff y cyfarwyddwyr benderfynu prynu a chynnal yswiriant, ar gost y cwmni, er budd unrhyw gyfarwyddwr perthnasol mewn perthynas ag unrhyw golled berthnasol.
 
@@ -1159,123 +1159,123 @@ These Regulations revoke the RTM Companies (Memorandum and Articles of Associati
 
 [^f00001]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15). The “appropriate national authority” in respect of Wales, is the Welsh Ministers, and in respect of England, is the Secretary of State. By virtue of paragraph 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) the functions formerly exercised by the National Assembly for Wales as the “appropriate national authority” under section 179(1) of the Commonhold and Leasehold Reform Act 2002 are now vested in the Welsh Ministers.
 
-[^key-3351e8a6282fa014ddd061e9569a85b6]: Commencement: Reg. 1 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-3351e8a6282fa014ddd061e9569a85b6]: Commencement: Reg. 1 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
 [^f00002]: Footnote: For the definition of “RTM company” *see* sections 71(1) and 73 of the 2002 Act.
 
 [^f00003]: Footnote: For the premises relevant to RTM companies, *see* section 72 of, and Schedule 6 to, the 2002 Act.
 
-[^key-294926f9c77918af5bf73e99a2cb8667]: Commencement: Reg. 2 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-294926f9c77918af5bf73e99a2cb8667]: Commencement: Reg. 2 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1befc70d6c44021beb85a45d2f4c231b]: Commencement: Reg. 3 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1befc70d6c44021beb85a45d2f4c231b]: Commencement: Reg. 3 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2004/675 (W.64)](https://www.legislation.gov.uk/wsi/2004/675).
 
-[^key-bfc51403c6f8575e13ba67d757b7a5b3]: Commencement: Sch. 1 art. 1 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-bfc51403c6f8575e13ba67d757b7a5b3]: Commencement: Sch. 1 art. 1 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
 [^f00005]: Footnote: [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-eed860e73d6ddcf420ac1d4b9531bf1b]: Textual amendment: Words in [Sch. 1 art. 1](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/1) inserted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/a/i)
+[^c-eed860e73d6ddcf420ac1d4b9531bf1b]: Textual amendment: Words in [Sch. 1 art. 1](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/1) inserted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/a/i)
 
-[^key-809764752d4913d53af14ea082bcfa2b]: Textual amendment: Word in [Sch. 1 art. 1](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/1) substituted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/a/ii)
+[^c-809764752d4913d53af14ea082bcfa2b]: Textual amendment: Word in [Sch. 1 art. 1](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/1) substituted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/a/ii)
 
-[^key-42d0908dc50f91d15780ac09c89cdf05]: Commencement: Sch. 1 art. 2 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-42d0908dc50f91d15780ac09c89cdf05]: Commencement: Sch. 1 art. 2 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-d9e76c53596cf73b51c017caca5f81ae]: Commencement: Sch. 1 art. 3 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-d9e76c53596cf73b51c017caca5f81ae]: Commencement: Sch. 1 art. 3 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-969ceb6f128a354303624c9a94235b32]: Commencement: Sch. 1 art. 4 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-969ceb6f128a354303624c9a94235b32]: Commencement: Sch. 1 art. 4 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-419abe63f4ce3daa6fa11635b3b6ec84]: Commencement: Sch. 1 art. 5 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-419abe63f4ce3daa6fa11635b3b6ec84]: Commencement: Sch. 1 art. 5 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-0dbc7ac1ef7bb8756154709de9a4f232]: Commencement: Sch. 1 art. 6 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-0dbc7ac1ef7bb8756154709de9a4f232]: Commencement: Sch. 1 art. 6 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-f16c22a789a41ddd038a5916c8bf086b]: Commencement: Sch. 1 art. 7 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-f16c22a789a41ddd038a5916c8bf086b]: Commencement: Sch. 1 art. 7 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-c714979ff435e5e239a05a77d1f18b8e]: Commencement: Sch. 1 art. 8 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-c714979ff435e5e239a05a77d1f18b8e]: Commencement: Sch. 1 art. 8 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-2d355ade9acc880ba4333b94cf1b2fad]: Commencement: Sch. 1 art. 9 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-2d355ade9acc880ba4333b94cf1b2fad]: Commencement: Sch. 1 art. 9 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-7cf85fbf1135096a0c378fa2a5f8f2d3]: Commencement: Sch. 1 art. 10 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-7cf85fbf1135096a0c378fa2a5f8f2d3]: Commencement: Sch. 1 art. 10 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-4fe5dcbf259ce2370c63ecd851236644]: Commencement: Sch. 1 art. 11 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-4fe5dcbf259ce2370c63ecd851236644]: Commencement: Sch. 1 art. 11 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-155042a00ffb17a23fe3f1635789064d]: Commencement: Sch. 1 art. 12 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-155042a00ffb17a23fe3f1635789064d]: Commencement: Sch. 1 art. 12 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1a05b9d8b8f812f4f29a561dfbe0e51d]: Commencement: Sch. 1 art. 13 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1a05b9d8b8f812f4f29a561dfbe0e51d]: Commencement: Sch. 1 art. 13 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-fb8e5fc62d87c2732dae4fbb71fc1328]: Commencement: Sch. 1 art. 14 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-fb8e5fc62d87c2732dae4fbb71fc1328]: Commencement: Sch. 1 art. 14 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ec1593bee1637d79b478cfed9b5070cc]: Commencement: Sch. 1 art. 15 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ec1593bee1637d79b478cfed9b5070cc]: Commencement: Sch. 1 art. 15 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-d9d8c59be0c30b2bba206ed7bcaf0f20]: Commencement: Sch. 1 art. 16 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-d9d8c59be0c30b2bba206ed7bcaf0f20]: Commencement: Sch. 1 art. 16 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-4b1d37253f86814aa74c442c02e3cfb7]: Commencement: Sch. 1 art. 17 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-4b1d37253f86814aa74c442c02e3cfb7]: Commencement: Sch. 1 art. 17 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-8e84ff2a2b3e3ed0ab50c585db9e8e77]: Commencement: Sch. 1 art. 18 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-8e84ff2a2b3e3ed0ab50c585db9e8e77]: Commencement: Sch. 1 art. 18 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-42cb21d91cf7a5c342af3c5e1e8bccc8]: Commencement: Sch. 1 art. 19 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-42cb21d91cf7a5c342af3c5e1e8bccc8]: Commencement: Sch. 1 art. 19 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-d52618e47fe636d38a662afd47ddb9c9]: Commencement: Sch. 1 art. 20 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-d52618e47fe636d38a662afd47ddb9c9]: Commencement: Sch. 1 art. 20 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-f4fa8841e5ce24b1ba37aa10a020f5cf]: Commencement: Sch. 1 art. 21 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-f4fa8841e5ce24b1ba37aa10a020f5cf]: Commencement: Sch. 1 art. 21 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-449a25886b729e3f7769c8b111cea4a9]: Commencement: Sch. 1 art. 22 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-449a25886b729e3f7769c8b111cea4a9]: Commencement: Sch. 1 art. 22 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-a148d1cd18304ea3d8667ec0387d7498]: Commencement: Sch. 1 art. 23 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-a148d1cd18304ea3d8667ec0387d7498]: Commencement: Sch. 1 art. 23 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-cb4aab6000150fe2ebebe0add311aba1]: Textual amendment: Sch. 1 art. 23(e) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/3/a), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
+[^c-cb4aab6000150fe2ebebe0add311aba1]: Textual amendment: Sch. 1 art. 23(e) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/3/a), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
 
-[^key-b1113e359ef859fb7a4f1eb5c440d1cc]: Commencement: Sch. 1 art. 24 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-b1113e359ef859fb7a4f1eb5c440d1cc]: Commencement: Sch. 1 art. 24 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-b23ed45d948d5056104d78b0d18842a0]: Commencement: Sch. 1 art. 25 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-b23ed45d948d5056104d78b0d18842a0]: Commencement: Sch. 1 art. 25 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-f69e0a103056c346cbcc5a1b42c87bac]: Commencement: Sch. 1 art. 26 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-f69e0a103056c346cbcc5a1b42c87bac]: Commencement: Sch. 1 art. 26 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-8026c4f58a79dc3e35e55386c5016a01]: Textual amendment: Words in Sch. 1 art. 26(4) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/9/a)
+[^c-8026c4f58a79dc3e35e55386c5016a01]: Textual amendment: Words in Sch. 1 art. 26(4) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/9/a)
 
-[^key-b5e41dd2dfef246b4a0888b08d4e1052]: Commencement: Sch. 1 art. 27 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-b5e41dd2dfef246b4a0888b08d4e1052]: Commencement: Sch. 1 art. 27 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-d67d56d1987f9a8e7e7f37156ee7635d]: Commencement: Sch. 1 art. 28 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-d67d56d1987f9a8e7e7f37156ee7635d]: Commencement: Sch. 1 art. 28 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-e5ba94580f0db8180d87b29bbf524a0c]: Commencement: Sch. 1 art. 29 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-e5ba94580f0db8180d87b29bbf524a0c]: Commencement: Sch. 1 art. 29 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ee39dd15eaa00827e5f8b0ecc8cca4f6]: Commencement: Sch. 1 art. 30 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ee39dd15eaa00827e5f8b0ecc8cca4f6]: Commencement: Sch. 1 art. 30 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-6ef8b8630ee740c79f2f592d321caaaf]: Commencement: Sch. 1 art. 31 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-6ef8b8630ee740c79f2f592d321caaaf]: Commencement: Sch. 1 art. 31 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-50ed5863e68d6ee6013067d77f0d802f]: Commencement: Sch. 1 art. 32 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-50ed5863e68d6ee6013067d77f0d802f]: Commencement: Sch. 1 art. 32 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-0651f25dda1a17ed503774304cf4f0ad]: Commencement: Sch. 1 art. 33 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-0651f25dda1a17ed503774304cf4f0ad]: Commencement: Sch. 1 art. 33 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-646c596ddf1a04a488d77bbc998f3650]: Textual amendment: [Sch. 1 art. 33(3)(f)](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/33/3/f) substituted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/b/i)
+[^c-646c596ddf1a04a488d77bbc998f3650]: Textual amendment: [Sch. 1 art. 33(3)(f)](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/33/3/f) substituted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/b/i)
 
-[^key-3c0bcf5794529da6b8875309ee0b0292]: Textual amendment: [Sch. 1 art. 33(3)(g)](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/33/3/g) inserted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/b/ii)
+[^c-3c0bcf5794529da6b8875309ee0b0292]: Textual amendment: [Sch. 1 art. 33(3)(g)](https://www.legislation.gov.uk/wsi/2011/2680/schedule/1/article/33/3/g) inserted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/wsi/2025/126), [regs. 1](https://www.legislation.gov.uk/wsi/2025/126/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/126/regulation/2/2/b/ii)
 
-[^key-35a02da513c30a8517a14951b7f1a4ad]: Textual amendment: Words in Sch. 1 art. 33(4) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/9/b)
+[^c-35a02da513c30a8517a14951b7f1a4ad]: Textual amendment: Words in Sch. 1 art. 33(4) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/9/b)
 
-[^key-e9ea4d8e4d2a599243a162cbf2f22ebf]: Commencement: Sch. 1 art. 34 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-e9ea4d8e4d2a599243a162cbf2f22ebf]: Commencement: Sch. 1 art. 34 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1a03519b4fba6f196916fca2a05c9242]: Commencement: Sch. 1 art. 35 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1a03519b4fba6f196916fca2a05c9242]: Commencement: Sch. 1 art. 35 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-f56e2a919170b7447538ba7f30e6b805]: Commencement: Sch. 1 art. 36 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-f56e2a919170b7447538ba7f30e6b805]: Commencement: Sch. 1 art. 36 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-517edbef54e278c7e9b7ff49969033d5]: Commencement: Sch. 1 art. 37 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-517edbef54e278c7e9b7ff49969033d5]: Commencement: Sch. 1 art. 37 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-c4958ae59a79e896753828fb64ff19a4]: Commencement: Sch. 1 art. 38 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-c4958ae59a79e896753828fb64ff19a4]: Commencement: Sch. 1 art. 38 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-4ab0ddae11181f9ee99d73d828e2d1c8]: Commencement: Sch. 1 art. 39 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-4ab0ddae11181f9ee99d73d828e2d1c8]: Commencement: Sch. 1 art. 39 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-64cac786f1c0c5ca462ddfe1a28732e7]: Commencement: Sch. 1 art. 40 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-64cac786f1c0c5ca462ddfe1a28732e7]: Commencement: Sch. 1 art. 40 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-73fc0eab3fed22b501e74ae08d00f28f]: Commencement: Sch. 1 art. 41 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-73fc0eab3fed22b501e74ae08d00f28f]: Commencement: Sch. 1 art. 41 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-fed114fbb1b8468d8a12ec88ea04ddb5]: Commencement: Sch. 1 art. 42 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-fed114fbb1b8468d8a12ec88ea04ddb5]: Commencement: Sch. 1 art. 42 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1333bdc42f16e77506b7f7eb3f45a7c6]: Commencement: Sch. 1 art. 43 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1333bdc42f16e77506b7f7eb3f45a7c6]: Commencement: Sch. 1 art. 43 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-44ed41dd2c59125cf112d06d0c8d97e1]: Commencement: Sch. 1 art. 44 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-44ed41dd2c59125cf112d06d0c8d97e1]: Commencement: Sch. 1 art. 44 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-3cedaff07e17e3c1c3886be42363fe60]: Commencement: Sch. 2 art. 1 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-3cedaff07e17e3c1c3886be42363fe60]: Commencement: Sch. 2 art. 1 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
 [^f00006]: Footnote: [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -1283,73 +1283,73 @@ These Regulations revoke the RTM Companies (Memorandum and Articles of Associati
 
 [^M_F_c85c5a27-201d-4de9-e737-51f9fe1e3f1f]: Textual amendment: Word in Sch. 2 art. 1 substituted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/uksi/2025/126), [regs. 1](https://www.legislation.gov.uk/uksi/2025/126/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/126/regulation/2/3/a/i)
 
-[^key-aeaffeb093d3281ca8e887adbec4df19]: Commencement: Sch. 2 art. 2 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-aeaffeb093d3281ca8e887adbec4df19]: Commencement: Sch. 2 art. 2 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-00c58729ca454fd7464f6aa26d9c27b4]: Commencement: Sch. 2 art. 3 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-00c58729ca454fd7464f6aa26d9c27b4]: Commencement: Sch. 2 art. 3 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ff4b85132d8aee30092eb835deaa7c7e]: Commencement: Sch. 2 art. 4 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ff4b85132d8aee30092eb835deaa7c7e]: Commencement: Sch. 2 art. 4 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ba964f2291ce267532856d9f227d32ab]: Commencement: Sch. 2 art. 5 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ba964f2291ce267532856d9f227d32ab]: Commencement: Sch. 2 art. 5 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-a7a13107080867543b042df77038f82a]: Commencement: Sch. 2 art. 6 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-a7a13107080867543b042df77038f82a]: Commencement: Sch. 2 art. 6 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-66d77d1053e7aaa36b731580d76e5e9a]: Commencement: Sch. 2 art. 7 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-66d77d1053e7aaa36b731580d76e5e9a]: Commencement: Sch. 2 art. 7 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-03c72e3d7d87241b577bd8cc6c23c42a]: Commencement: Sch. 2 art. 8 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-03c72e3d7d87241b577bd8cc6c23c42a]: Commencement: Sch. 2 art. 8 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ea85b747395a7349b8a0e3db99dc8aea]: Commencement: Sch. 2 art. 9 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ea85b747395a7349b8a0e3db99dc8aea]: Commencement: Sch. 2 art. 9 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-4f18ad3075902a989a2c8c3014a66261]: Commencement: Sch. 2 art. 10 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-4f18ad3075902a989a2c8c3014a66261]: Commencement: Sch. 2 art. 10 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-dc5e5cb9c39a52395091eb8f8a23e5ee]: Commencement: Sch. 2 art. 11 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-dc5e5cb9c39a52395091eb8f8a23e5ee]: Commencement: Sch. 2 art. 11 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1dbcdc34857af93547095cf5c2b6da12]: Commencement: Sch. 2 art. 12 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1dbcdc34857af93547095cf5c2b6da12]: Commencement: Sch. 2 art. 12 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-bdc7fa604dc3cf563c5eeea32294f671]: Commencement: Sch. 2 art. 13 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-bdc7fa604dc3cf563c5eeea32294f671]: Commencement: Sch. 2 art. 13 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-05bbee685d8bf98a18d61996a43ccb43]: Commencement: Sch. 2 art. 14 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-05bbee685d8bf98a18d61996a43ccb43]: Commencement: Sch. 2 art. 14 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-88bb7dd35ec1752e6513254d0bb38dcc]: Commencement: Sch. 2 art. 15 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-88bb7dd35ec1752e6513254d0bb38dcc]: Commencement: Sch. 2 art. 15 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-2529f52ed174328bcece558a3aed1805]: Commencement: Sch. 2 art. 16 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-2529f52ed174328bcece558a3aed1805]: Commencement: Sch. 2 art. 16 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-5c38a1cee3ef78505479e62b7d3382d3]: Commencement: Sch. 2 art. 17 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-5c38a1cee3ef78505479e62b7d3382d3]: Commencement: Sch. 2 art. 17 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-4921097182028eaf1e4c0cbafc9210a6]: Commencement: Sch. 2 art. 18 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-4921097182028eaf1e4c0cbafc9210a6]: Commencement: Sch. 2 art. 18 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1c8a1fbd4fc5787c83376ab8a46d3ed8]: Commencement: Sch. 2 art. 19 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1c8a1fbd4fc5787c83376ab8a46d3ed8]: Commencement: Sch. 2 art. 19 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-220c29bea95a2562423dbe857d4248c0]: Commencement: Sch. 2 art. 20 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-220c29bea95a2562423dbe857d4248c0]: Commencement: Sch. 2 art. 20 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-0789d5c6b37d13c6bc7cd564ba8a043c]: Commencement: Sch. 2 art. 21 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-0789d5c6b37d13c6bc7cd564ba8a043c]: Commencement: Sch. 2 art. 21 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-6470112ccb8ff7db481ecdf75de61716]: Commencement: Sch. 2 art. 22 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-6470112ccb8ff7db481ecdf75de61716]: Commencement: Sch. 2 art. 22 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-48fd55f657a0db8855f6953a31feb303]: Commencement: Sch. 2 art. 23 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-48fd55f657a0db8855f6953a31feb303]: Commencement: Sch. 2 art. 23 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-08d0f66e3125f65b28ad1a8b66310264]: Textual amendment: Sch. 2 art. 23(d) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/3/b), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
+[^c-08d0f66e3125f65b28ad1a8b66310264]: Textual amendment: Sch. 2 art. 23(d) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/3/b), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
 
-[^key-a296ff3fd9d3c300b4a6c16dbc8f5986]: Commencement: Sch. 2 art. 24 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-a296ff3fd9d3c300b4a6c16dbc8f5986]: Commencement: Sch. 2 art. 24 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-6a91c50a8088e0b47ceeb93402266c04]: Commencement: Sch. 2 art. 25 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-6a91c50a8088e0b47ceeb93402266c04]: Commencement: Sch. 2 art. 25 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ed9f583b53c73bbeb75ef66ff91642fe]: Commencement: Sch. 2 art. 26 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ed9f583b53c73bbeb75ef66ff91642fe]: Commencement: Sch. 2 art. 26 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
 [^M_X_42e5a59b-ee2a-4686-a620-d47675676b23]: Editorial: Sch. 2 art. 26(4): although no corresponding change has been made to the Welsh text of this provision, an amendment has been made to the English text in Sch. 1 art. 26(4) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/9/a)
 
-[^key-46248bee3dd2173b90e48c492d5cdc67]: Commencement: Sch. 2 art. 27 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-46248bee3dd2173b90e48c492d5cdc67]: Commencement: Sch. 2 art. 27 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-0d8239e7359b5cb0e22265e877f2274c]: Commencement: Sch. 2 art. 28 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-0d8239e7359b5cb0e22265e877f2274c]: Commencement: Sch. 2 art. 28 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-036acf2523a3da16d82d09d291ab985d]: Commencement: Sch. 2 art. 29 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-036acf2523a3da16d82d09d291ab985d]: Commencement: Sch. 2 art. 29 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-9b696dd51f6e55465d536d7d00b4a52d]: Commencement: Sch. 2 art. 30 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-9b696dd51f6e55465d536d7d00b4a52d]: Commencement: Sch. 2 art. 30 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-4c3acfcb2a18de831d41c021d9b37010]: Commencement: Sch. 2 art. 31 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-4c3acfcb2a18de831d41c021d9b37010]: Commencement: Sch. 2 art. 31 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-0de7a3b1781f97ddb24fcb74b9ba9d46]: Commencement: Sch. 2 art. 32 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-0de7a3b1781f97ddb24fcb74b9ba9d46]: Commencement: Sch. 2 art. 32 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-fa396dca354c29889ce63e2346dd9539]: Commencement: Sch. 2 art. 33 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-fa396dca354c29889ce63e2346dd9539]: Commencement: Sch. 2 art. 33 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
 [^M_F_86b9aa31-783d-4bca-fb7c-b81608ea7418]: Textual amendment: Sch. 2 art. 33(3)(dd) substituted (3.3.2025) by [The RTM Companies (Model Articles) (Wales) (Amendment) Regulations 2025 (S.I. 2025/126)](https://www.legislation.gov.uk/uksi/2025/126), [regs. 1](https://www.legislation.gov.uk/uksi/2025/126/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/126/regulation/2/3/b/i)
 
@@ -1357,24 +1357,24 @@ These Regulations revoke the RTM Companies (Memorandum and Articles of Associati
 
 [^M_X_92d69fc1-afca-4819-b7d1-8524979c93df]: Editorial: Sch. 2 art. 33(4): although no corresponding change has been made to the Welsh text of this provision, an amendment has been made to the English text in Sch. 1 art. 33(4) (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/9/b)
 
-[^key-306c593d50c960e9de4c2d3947ae9f56]: Commencement: Sch. 2 art. 34 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-306c593d50c960e9de4c2d3947ae9f56]: Commencement: Sch. 2 art. 34 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-e5198bb11de0595fa4de702f87d2acef]: Commencement: Sch. 2 art. 35 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-e5198bb11de0595fa4de702f87d2acef]: Commencement: Sch. 2 art. 35 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-1ec6d42d850a3b6e329be63e2820ca69]: Commencement: Sch. 2 art. 36 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-1ec6d42d850a3b6e329be63e2820ca69]: Commencement: Sch. 2 art. 36 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-6e34d32e0e0527af17e96dbe866ba6ca]: Commencement: Sch. 2 art. 37 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-6e34d32e0e0527af17e96dbe866ba6ca]: Commencement: Sch. 2 art. 37 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-f7f2d897169a2cab4a6336367f1c13b5]: Commencement: Sch. 2 art. 38 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-f7f2d897169a2cab4a6336367f1c13b5]: Commencement: Sch. 2 art. 38 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-365f53407096e1af30295d48b0c708d6]: Commencement: Sch. 2 art. 39 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-365f53407096e1af30295d48b0c708d6]: Commencement: Sch. 2 art. 39 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-41523c637920d65c1ada357cd8af70ab]: Commencement: Sch. 2 art. 40 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-41523c637920d65c1ada357cd8af70ab]: Commencement: Sch. 2 art. 40 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-36963c9567613b8d4541bdf8af981d7b]: Commencement: Sch. 2 art. 41 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-36963c9567613b8d4541bdf8af981d7b]: Commencement: Sch. 2 art. 41 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-d0e4d304d97dabd45380e2e6413a0837]: Commencement: Sch. 2 art. 42 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-d0e4d304d97dabd45380e2e6413a0837]: Commencement: Sch. 2 art. 42 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-ebc26acfa0f6f3aeb29bb549afc7e7f0]: Commencement: Sch. 2 art. 43 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-ebc26acfa0f6f3aeb29bb549afc7e7f0]: Commencement: Sch. 2 art. 43 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
 
-[^key-e9fd6ba8d4ce5d828b614e09e43dd2fb]: Commencement: Sch. 2 art. 44 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)
+[^c-e9fd6ba8d4ce5d828b614e09e43dd2fb]: Commencement: Sch. 2 art. 44 in force at 30.11.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/2680/regulation/1/2)

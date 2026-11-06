@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Determination by tribunal of questions as to compensation.[^key-b82bf34a2358bd47337f4670873684e3]
+## 48. Determination by tribunal of questions as to compensation.[^c-b82bf34a2358bd47337f4670873684e3]
 
 *Extent: E+W+S*
 
-Any question with regard to a person’s entitlement to compensation under the foregoing provisions of this Act or the amount of compensation to which a person is entitled under those provisions shall, in default of agreement, be determined by , in the application of this Act to England and Wales, the Upper Tribunal or, in the application of this Act to Scotland, the Lands Tribunal for Scotland[^key-3e3e5bd10e2f777499444de78faebf7e] .
+Any question with regard to a person’s entitlement to compensation under the foregoing provisions of this Act or the amount of compensation to which a person is entitled under those provisions shall, in default of agreement, be determined by , in the application of this Act to England and Wales, the Upper Tribunal or, in the application of this Act to Scotland, the Lands Tribunal for Scotland[^c-3e3e5bd10e2f777499444de78faebf7e] .
 
 ## Annotations
 
-[^key-b82bf34a2358bd47337f4670873684e3]: Textual amendment: Word in s. 48 heading substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 48(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/48/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-b82bf34a2358bd47337f4670873684e3]: Textual amendment: Word in s. 48 heading substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 48(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/48/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-3e3e5bd10e2f777499444de78faebf7e]: Textual amendment: Words in s. 48 substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 48(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/48/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-3e3e5bd10e2f777499444de78faebf7e]: Textual amendment: Words in s. 48 substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 48(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/48/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

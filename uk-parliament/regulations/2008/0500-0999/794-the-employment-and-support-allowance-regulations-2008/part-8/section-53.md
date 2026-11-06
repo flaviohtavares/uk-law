@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Failure to take part in a work-focused health-related assessment[^key-1f2dd6265fcbf731600fa917098e2c0c]
+## 53. Failure to take part in a work-focused health-related assessment[^c-1f2dd6265fcbf731600fa917098e2c0c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f2dd6265fcbf731600fa917098e2c0c]: Textual amendment: Reg. 53 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/f)
+[^c-1f2dd6265fcbf731600fa917098e2c0c]: Textual amendment: Reg. 53 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/f)

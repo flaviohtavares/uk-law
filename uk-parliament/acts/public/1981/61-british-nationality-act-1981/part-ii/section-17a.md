@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Registration: remedying inability of mothers to transmit citizenship[^key-fc66b78464c35c96e7d544764dfbcaea]
+## 17A. Registration: remedying inability of mothers to transmit citizenship[^c-fc66b78464c35c96e7d544764dfbcaea]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc66b78464c35c96e7d544764dfbcaea]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/1981/61/section/17A) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/1/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/1)
+[^c-fc66b78464c35c96e7d544764dfbcaea]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/1981/61/section/17A) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/1/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/1)

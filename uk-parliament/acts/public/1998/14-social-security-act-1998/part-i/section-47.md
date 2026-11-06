@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 47. Vaccine damage payments: correction of errors etc[^key-1372df93fad691afd0b700a0bd5547bf][^key-33a9f0823c49976365ca1ee8dcb3191c]
+## 47. Vaccine damage payments: correction of errors etc[^c-1372df93fad691afd0b700a0bd5547bf][^c-33a9f0823c49976365ca1ee8dcb3191c]
 
 After section 7 of the Vaccine Damage Payments Act there shall be inserted the following section—
 
@@ -31,6 +31,6 @@ After section 7 of the Vaccine Damage Payments Act there shall be inserted the f
 
 ## Annotations
 
-[^key-1372df93fad691afd0b700a0bd5547bf]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/1998/14/section/47) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
+[^c-1372df93fad691afd0b700a0bd5547bf]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/1998/14/section/47) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
-[^key-33a9f0823c49976365ca1ee8dcb3191c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/1998/14/section/47) in force at 18.10.1999 for specified purposes by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/2860/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/2860/article/4), [Schs. 16-18](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16))
+[^c-33a9f0823c49976365ca1ee8dcb3191c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/1998/14/section/47) in force at 18.10.1999 for specified purposes by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/2860/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/2860/article/4), [Schs. 16-18](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16))

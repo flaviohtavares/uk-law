@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Access to works[^key-cb0d52a26dc815d25da79d53cf8da6d0]
+## 12. Access to works[^c-cb0d52a26dc815d25da79d53cf8da6d0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purposes of the authorised development, form and lay
 
 ## Annotations
 
-[^key-cb0d52a26dc815d25da79d53cf8da6d0]: Commencement: Art. 12 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-cb0d52a26dc815d25da79d53cf8da6d0]: Commencement: Art. 12 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

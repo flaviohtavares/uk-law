@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65A. Validity of parallel import licence[^key-ebc718a455f57f4d01bdfeccfac4235a]
+## 65A. Validity of parallel import licence[^c-ebc718a455f57f4d01bdfeccfac4235a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ an application to vary the licence to update any details in relation to sub-para
 
 ## Annotations
 
-[^key-ebc718a455f57f4d01bdfeccfac4235a]: Textual amendment: Reg. 65A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/1878/regulation/9) and reg. 65A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2014/324/regulation/9)
+[^c-ebc718a455f57f4d01bdfeccfac4235a]: Textual amendment: Reg. 65A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/1878/regulation/9) and reg. 65A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2014/324/regulation/9)

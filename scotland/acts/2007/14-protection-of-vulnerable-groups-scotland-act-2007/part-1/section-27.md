@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Appeals against refusal to remove individual from list[^key-3da34d9d2ee32aa4b8c1aff9705fb33f]
+## 27. Appeals against refusal to remove individual from list[^c-3da34d9d2ee32aa4b8c1aff9705fb33f]
 
 *Extent: S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) The sheriff must determine an appeal under subsection (1) in relation to removal from the children's list—
 
-- (a) where the sheriff is satisfied that the applicant is no longer unsuitable to carry out regulated roles[^key-5658722f0419a8860ca6a8181e0e2fdb] with children, by directing Ministers to remove the individual from the list, or
+- (a) where the sheriff is satisfied that the applicant is no longer unsuitable to carry out regulated roles[^c-5658722f0419a8860ca6a8181e0e2fdb] with children, by directing Ministers to remove the individual from the list, or
 - (b) where the sheriff is not so satisfied, by refusing the application.
 
 (3) The sheriff must determine an appeal under subsection (1) in relation to removal from the adults' list—
 
-- (a) where the sheriff is satisfied that the applicant is no longer unsuitable to carry out regulated roles with[^key-f392d5848dda38a7041b3583f88e3003] adults, by directing Ministers to remove the individual from the list, or
+- (a) where the sheriff is satisfied that the applicant is no longer unsuitable to carry out regulated roles with[^c-f392d5848dda38a7041b3583f88e3003] adults, by directing Ministers to remove the individual from the list, or
 - (b) where the sheriff is not so satisfied, by refusing the application.
 
 (4) The sheriff's determination may be appealed to the sheriff principal by—
@@ -55,8 +55,8 @@ on any appeal is final.
 
 ## Annotations
 
-[^key-3da34d9d2ee32aa4b8c1aff9705fb33f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2007/14/section/27) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-3da34d9d2ee32aa4b8c1aff9705fb33f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2007/14/section/27) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-5658722f0419a8860ca6a8181e0e2fdb]: Textual amendment: Words in [s. 27(2)(a)](https://www.legislation.gov.uk/asp/2007/14/section/27/2/a) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(19)(a)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/19/a) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-5658722f0419a8860ca6a8181e0e2fdb]: Textual amendment: Words in [s. 27(2)(a)](https://www.legislation.gov.uk/asp/2007/14/section/27/2/a) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(19)(a)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/19/a) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-f392d5848dda38a7041b3583f88e3003]: Textual amendment: Words in [s. 27(3)(a)](https://www.legislation.gov.uk/asp/2007/14/section/27/3/a) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(19)(b)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/19/b) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-f392d5848dda38a7041b3583f88e3003]: Textual amendment: Words in [s. 27(3)(a)](https://www.legislation.gov.uk/asp/2007/14/section/27/3/a) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(19)(b)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/19/b) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

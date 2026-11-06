@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Withholding and Withdrawal of Support[^key-fe979fb32941cbcf5e11d64fa52bef80][^key-6989905248050e92d5e8e8228a611ba7]
+## SCHEDULE 3 — Withholding and Withdrawal of Support[^c-fe979fb32941cbcf5e11d64fa52bef80][^c-6989905248050e92d5e8e8228a611ba7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,21 +26,21 @@ Section 54
 
 **1.** (1) A person to whom this paragraph applies shall not be eligible for support or assistance under—
 
-- (a)[^key-6ac3ae258b0d231f90ba892697ea172a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-949ff22c9b98518be7c377186db3457e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6ac3ae258b0d231f90ba892697ea172a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-949ff22c9b98518be7c377186db3457e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 12 or 13A of the Social Work (Scotland) Act 1968 (c. 49) (social welfare services),
 - (d) Article 7 or 15 of the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I. 14)) (prevention of illness, social welfare, &c.),
-- (e)[^key-a5679a2c59db41dff76d6850c42f64f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-a5679a2c59db41dff76d6850c42f64f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) section 29(1)(b) of the Housing (Scotland) Act 1987 (c. 26) (interim duty to accommodate in case of apparent priority need where review of a local authority decision has been requested),
-- (g) section 17, 23C, 23CZB,[^key-f46813bad1f6ccea0ec9796081615ba3] 23CA,[^key-4dbb51bfd4b6b56c67dd19011fcdf63b] 24A or 24B of the Children Act 1989 (c. 41) (welfare and other powers which can be exercised in relation to adults),
+- (g) section 17, 23C, 23CZB,[^c-f46813bad1f6ccea0ec9796081615ba3] 23CA,[^c-4dbb51bfd4b6b56c67dd19011fcdf63b] 24A or 24B of the Children Act 1989 (c. 41) (welfare and other powers which can be exercised in relation to adults),
 - (h) Article 18, 35 or 36 of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)) (welfare and other powers which can be exercised in relation to adults),
 - (i) sections 22, 29 and 30 of the Children (Scotland) Act 1995 (c. 36) (provisions analogous to those mentioned in paragraph (g)),
 - (j) section 188(3) or 204(4) of the Housing Act 1996 (c. 52) (accommodation pending review or appeal),
-- (k)[^key-de5585aee3ee0726e251ccb4b7922a06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ka)[^key-9477c3da2df4ef33f7fbc7477257cd09] section 1 of the Localism Act 2011 (local authority’s general power of competence),
-- (l) a provision of the Immigration and Asylum Act 1999 (c. 33), [^key-54f0fdf096cd54e68d4466764f49ec14]...
-- (m) a provision of this Act ,[^key-cdc2ea5a98a986c3440f45eca0953bff] [^key-59230d1f4f6bf56d2bb59cddfe6e1c08]...
-- (n) Part 1 of the Care Act 2014 (care and support provided by local authority) or[^key-b743b210de89839d31c0ed7d298dcd37]
+- (k)[^c-de5585aee3ee0726e251ccb4b7922a06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ka)[^c-9477c3da2df4ef33f7fbc7477257cd09] section 1 of the Localism Act 2011 (local authority’s general power of competence),
+- (l) a provision of the Immigration and Asylum Act 1999 (c. 33), [^c-54f0fdf096cd54e68d4466764f49ec14]...
+- (m) a provision of this Act ,[^c-cdc2ea5a98a986c3440f45eca0953bff] [^c-59230d1f4f6bf56d2bb59cddfe6e1c08]...
+- (n) Part 1 of the Care Act 2014 (care and support provided by local authority) or[^c-b743b210de89839d31c0ed7d298dcd37]
 - (o) Part 4 (duty of local authority to meet needs) or sections 105 to 116 (leaving care, accommodation and fostering) of the Social Services and Well-being (Wales) Act 2014.
 
 (2) A power or duty under a provision referred to in sub-paragraph (1) may not be exercised or performed in respect of a person to whom this paragraph applies (whether or not the person has previously been in receipt of support or assistance under the provision).
@@ -72,8 +72,8 @@ Section 54
 
 **3.** Paragraph 1 does not prevent the exercise of a power or the performance of a duty if, and to the extent that, its exercise or performance is necessary for the purpose of avoiding a breach of—
 
-- (a) a person’s Convention rights, [^key-916c901f1060db33527f90e3c6199d0f]...
-- (b)[^key-916c901f1060db33527f90e3c6199d0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person’s Convention rights, [^c-916c901f1060db33527f90e3c6199d0f]...
+- (b)[^c-916c901f1060db33527f90e3c6199d0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### First class of ineligible person: refugee status abroad
 
@@ -84,12 +84,12 @@ Section 54
 
 (2) For the purposes of this paragraph a person has refugee status abroad if—
 
-- (a) he does not have the nationality of an EEA State and is not a British citizen[^key-fb5560b1bfc62d6bf3f2acdedf087005], and
-- (b) the government of an EEA State [^key-9a8d0f2de680972c258bc073b7757fb3]... has determined that he is entitled to protection as a refugee under the Refugee Convention.
+- (a) he does not have the nationality of an EEA State and is not a British citizen[^c-fb5560b1bfc62d6bf3f2acdedf087005], and
+- (b) the government of an EEA State [^c-9a8d0f2de680972c258bc073b7757fb3]... has determined that he is entitled to protection as a refugee under the Refugee Convention.
 
 ### Second class of ineligible person: citizen of other EEA State
 
-**5.**[^key-d7956dce6b1b1f9d26f1fbc3f64e751f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d7956dce6b1b1f9d26f1fbc3f64e751f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Third class of ineligible person: failed asylum-seeker
 
@@ -104,7 +104,7 @@ Section 54
 
 **7.** Paragraph 1 applies to a person if—
 
-- (a) he is in the United Kingdom in breach of the immigration laws within the meaning of section 50A of the British Nationality Act 1981[^key-889fd304338695d8982514746f1f77fb] , and
+- (a) he is in the United Kingdom in breach of the immigration laws within the meaning of section 50A of the British Nationality Act 1981[^c-889fd304338695d8982514746f1f77fb] , and
 - (b) he is not an asylum-seeker.
 
 ### Fifth class of ineligible person: failed asylum-seeker with family[^c19219091]
@@ -128,7 +128,7 @@ Section 54
 
 ### Travel assistance
 
-**8.**[^c3925271] The Secretary of State may make regulations providing for arrangements to be made enabling a person to whom paragraph 1 applies by virtue of paragraph 4 [^key-95999df489443263684126cd692736fe]... to leave the United Kingdom.
+**8.**[^c3925271] The Secretary of State may make regulations providing for arrangements to be made enabling a person to whom paragraph 1 applies by virtue of paragraph 4 [^c-95999df489443263684126cd692736fe]... to leave the United Kingdom.
 
 ### Temporary accommodation
 
@@ -256,43 +256,43 @@ the claim ceases to be treated as determined from the time of the decision to co
 
 ## Annotations
 
-[^key-fe979fb32941cbcf5e11d64fa52bef80]: Modification: Sch. 3 applied (with modifications) (25.2.2008) by [The Independent Police Complaints Commission (Immigration and Asylum Enforcement Functions) Regulations 2008 (S.I. 2008/212)](https://www.legislation.gov.uk/uksi/2008/212), [regs. 1](https://www.legislation.gov.uk/uksi/2008/212/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2008/212/regulation/5/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/212/schedule/2)
+[^c-fe979fb32941cbcf5e11d64fa52bef80]: Modification: Sch. 3 applied (with modifications) (25.2.2008) by [The Independent Police Complaints Commission (Immigration and Asylum Enforcement Functions) Regulations 2008 (S.I. 2008/212)](https://www.legislation.gov.uk/uksi/2008/212), [regs. 1](https://www.legislation.gov.uk/uksi/2008/212/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2008/212/regulation/5/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/212/schedule/2)
 
-[^key-6989905248050e92d5e8e8228a611ba7]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(k)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/k)
+[^c-6989905248050e92d5e8e8228a611ba7]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(k)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/k)
 
-[^key-6ac3ae258b0d231f90ba892697ea172a]: Textual amendment: Sch. 3 para. 1(1)(a) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/2)
+[^c-6ac3ae258b0d231f90ba892697ea172a]: Textual amendment: Sch. 3 para. 1(1)(a) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/2)
 
-[^key-949ff22c9b98518be7c377186db3457e]: Textual amendment: Sch. 3 para. 1(1)(b) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/2)
+[^c-949ff22c9b98518be7c377186db3457e]: Textual amendment: Sch. 3 para. 1(1)(b) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/2)
 
-[^key-a5679a2c59db41dff76d6850c42f64f1]: Textual amendment: Sch. 3 para. 1(1)(e) omitted (E.W) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/2)
+[^c-a5679a2c59db41dff76d6850c42f64f1]: Textual amendment: Sch. 3 para. 1(1)(e) omitted (E.W) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/2)
 
-[^key-f46813bad1f6ccea0ec9796081615ba3]: Textual amendment: Word in Sch. 3 para. 1(1)(g) inserted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/16/schedule/2/paragraph/5); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
+[^c-f46813bad1f6ccea0ec9796081615ba3]: Textual amendment: Word in Sch. 3 para. 1(1)(g) inserted (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/16/schedule/2/paragraph/5); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/aa)
 
-[^key-4dbb51bfd4b6b56c67dd19011fcdf63b]: Textual amendment: Word in Sch. 3 para. 1(1)(g) inserted (1.4.2011 for E., 19.6.2012 in so far as not already in force) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 22(6)](https://www.legislation.gov.uk/ukpga/2008/23/section/22/6), [44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(g)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/g); S.I. 2012/1553, art. 2(a)
+[^c-4dbb51bfd4b6b56c67dd19011fcdf63b]: Textual amendment: Word in Sch. 3 para. 1(1)(g) inserted (1.4.2011 for E., 19.6.2012 in so far as not already in force) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 22(6)](https://www.legislation.gov.uk/ukpga/2008/23/section/22/6), [44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(g)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/g); S.I. 2012/1553, art. 2(a)
 
-[^key-de5585aee3ee0726e251ccb4b7922a06]: Textual amendment: [Sch. 3 para. 1(1)(k)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/1/1/k) omitted (E.W.) (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/11/3); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(r)](https://www.legislation.gov.uk/wsi/2021/231/article/6/r)
+[^c-de5585aee3ee0726e251ccb4b7922a06]: Textual amendment: [Sch. 3 para. 1(1)(k)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/1/1/k) omitted (E.W.) (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/11/3); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(r)](https://www.legislation.gov.uk/wsi/2021/231/article/6/r)
 
-[^key-9477c3da2df4ef33f7fbc7477257cd09]: Textual amendment: Sch. 3 para. 1(1)(ka) inserted (28.3.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/4)
+[^c-9477c3da2df4ef33f7fbc7477257cd09]: Textual amendment: Sch. 3 para. 1(1)(ka) inserted (28.3.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/4)
 
-[^key-54f0fdf096cd54e68d4466764f49ec14]: Textual amendment: Word in Sch. 3 para. 1(1)(l) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 67(3)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/67/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)) (see S.I. 2015/993, art. 2(a))
+[^c-54f0fdf096cd54e68d4466764f49ec14]: Textual amendment: Word in Sch. 3 para. 1(1)(l) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 67(3)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/67/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)) (see S.I. 2015/993, art. 2(a))
 
-[^key-cdc2ea5a98a986c3440f45eca0953bff]: Textual amendment: Sch. 3 para. 1(1)(n) and word inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 67(4)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/67/4) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)) (see S.I. 2015/993, art. 2(a))
+[^c-cdc2ea5a98a986c3440f45eca0953bff]: Textual amendment: Sch. 3 para. 1(1)(n) and word inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 67(4)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/67/4) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3)) (see S.I. 2015/993, art. 2(a))
 
-[^key-59230d1f4f6bf56d2bb59cddfe6e1c08]: Textual amendment: Word in Sch. 3 para. 1(1)(m) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(3)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/3)
+[^c-59230d1f4f6bf56d2bb59cddfe6e1c08]: Textual amendment: Word in Sch. 3 para. 1(1)(m) omitted (E.W.) (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(3)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/3)
 
-[^key-b743b210de89839d31c0ed7d298dcd37]: Textual amendment: Sch. 3 para. 1(1)(o) and word inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(4)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/4)
+[^c-b743b210de89839d31c0ed7d298dcd37]: Textual amendment: Sch. 3 para. 1(1)(o) and word inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [199(4)](https://www.legislation.gov.uk/wsi/2016/413/regulation/199/4)
 
 [^c3925261]: Commencement: Sch. 3 para. 2 wholly in force at 8.1.2003; Sch. 3 para. 2 not in force at Royal Assent see s. 162(2); Sch. 3 para. 2 in force at 8.12.2002 for certain purposes and at 8.1.2003 so far as not already in force by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-916c901f1060db33527f90e3c6199d0f]: Textual amendment: Sch. 3 para. 3(b) and preceding word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/4/a)
+[^c-916c901f1060db33527f90e3c6199d0f]: Textual amendment: Sch. 3 para. 3(b) and preceding word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/4/a)
 
-[^key-fb5560b1bfc62d6bf3f2acdedf087005]: Textual amendment: Words in [Sch. 3 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/4/2/a) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb5560b1bfc62d6bf3f2acdedf087005]: Textual amendment: Words in [Sch. 3 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/4/2/a) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a8d0f2de680972c258bc073b7757fb3]: Textual amendment: Words in [Sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a8d0f2de680972c258bc073b7757fb3]: Textual amendment: Words in [Sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [12(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/12/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d7956dce6b1b1f9d26f1fbc3f64e751f]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/5) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/4/b)
+[^c-d7956dce6b1b1f9d26f1fbc3f64e751f]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/5) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/4/b)
 
-[^key-889fd304338695d8982514746f1f77fb]: Textual amendment: Words in Sch. 3 para. 7(a) substituted (13.1.2010) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/48/6), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/g)
+[^c-889fd304338695d8982514746f1f77fb]: Textual amendment: Words in Sch. 3 para. 7(a) substituted (13.1.2010) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/48/6), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/g)
 
 [^c19219091]: Textual amendment: Sch. 3 para. 7A and preceding cross-heading inserted (1.12.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/9/1), [48(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/1); [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2004/2999/article/4))
 
@@ -300,7 +300,7 @@ the claim ceases to be treated as determined from the time of the decision to co
 
 [^c3925271]: Commencement: Sch. 3 para. 8 wholly in force at 8.1.2003; Sch. 3 para. 8 not in force at Royal Assent see s. 162(2); Sch. 3 para. 8 in force at 8.12.2002 for certain purposes and at 8.1.2003 so far as not already in force by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-95999df489443263684126cd692736fe]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/8) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(4)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/4/c)
+[^c-95999df489443263684126cd692736fe]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2002/41/schedule/3/paragraph/8) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [13(4)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/13/4/c)
 
 [^c3925281]: Commencement: Sch. 3 para. 9 wholly in force at 8.1.2003; Sch. 3 para. 9 not in force at Royal Assent see s. 162(2); Sch. 3 para. 9 in force at 8.12.2002 for certain purposes and at 8.1.2003 so far as not already in force by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 

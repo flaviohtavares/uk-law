@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Reorganisation: supplementary[^key-25fee8ba18506bb3f18a1f3cf75f3015]
+## 42. Reorganisation: supplementary[^c-25fee8ba18506bb3f18a1f3cf75f3015]
 
 *Extent: S*
 
@@ -29,8 +29,8 @@ summary: ''
   - (ii) can no longer be given effect to (whether or not in accordance with the directions or spirit of its constitution),
   - (iii) have ceased to be charitable purposes, or
   - (iv) have ceased in any other way to provide a suitable and effective method of using its property, having regard to the spirit of its constitution,
-- (b) that the purposes of the charity provide a use for only part of its property, [^key-03965eafb882c03620a2524cce0e1eeb]...
-- (c) that a provision of the charity's constitution (other than a provision setting out the charity's purposes) can no longer be given effect to or is otherwise no longer desirable, and[^key-b5330faab11406fb05900da4be4b530c]
+- (b) that the purposes of the charity provide a use for only part of its property, [^c-03965eafb882c03620a2524cce0e1eeb]...
+- (c) that a provision of the charity's constitution (other than a provision setting out the charity's purposes) can no longer be given effect to or is otherwise no longer desirable, and[^c-b5330faab11406fb05900da4be4b530c]
 - (d) that it is desirable to introduce a provision (other than a provision setting out a new purpose) to a charity's constitution.
 
 (3) A “reorganisation scheme” is a scheme for—
@@ -43,7 +43,7 @@ summary: ''
 
 (5) Sections 39 and 40 do not apply to any charity constituted under a Royal charter or warrant or under any enactment.
 
-(6)[^key-6434d090fce1df48b83cc7115941feb8] But, despite subsection (5), sections 39 and 40 apply—
+(6)[^c-6434d090fce1df48b83cc7115941feb8] But, despite subsection (5), sections 39 and 40 apply—
 
 - (a) to any endowment held by such a charity,
 - (b) where the property of a charity constituted under an enactment consists only of an endowment or endowments, to the charity.
@@ -72,10 +72,10 @@ summary: ''
 
 ## Annotations
 
-[^key-25fee8ba18506bb3f18a1f3cf75f3015]: Commencement: S. 42 in force at 31.5.2007 by [S.S.I. 2007/117](https://www.legislation.gov.uk/ssi/2007/117), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/117/article/2/2)
+[^c-25fee8ba18506bb3f18a1f3cf75f3015]: Commencement: S. 42 in force at 31.5.2007 by [S.S.I. 2007/117](https://www.legislation.gov.uk/ssi/2007/117), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/117/article/2/2)
 
-[^key-03965eafb882c03620a2524cce0e1eeb]: Textual amendment: Word in s. 42(2) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 124(3)(a)](https://www.legislation.gov.uk/asp/2010/8/section/124/3/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-03965eafb882c03620a2524cce0e1eeb]: Textual amendment: Word in s. 42(2) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 124(3)(a)](https://www.legislation.gov.uk/asp/2010/8/section/124/3/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-b5330faab11406fb05900da4be4b530c]: Textual amendment: S. 42(2)(d) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 124(3)(b)](https://www.legislation.gov.uk/asp/2010/8/section/124/3/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-b5330faab11406fb05900da4be4b530c]: Textual amendment: S. 42(2)(d) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 124(3)(b)](https://www.legislation.gov.uk/asp/2010/8/section/124/3/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-6434d090fce1df48b83cc7115941feb8]: Textual amendment: [S. 42(6)-(10)](https://www.legislation.gov.uk/asp/2005/10/section/42/6) substituted for [s. 42(6)](https://www.legislation.gov.uk/asp/2005/10/section/42/6)(7) (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 14(2)](https://www.legislation.gov.uk/asp/2023/5/section/14/2), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-6434d090fce1df48b83cc7115941feb8]: Textual amendment: [S. 42(6)-(10)](https://www.legislation.gov.uk/asp/2005/10/section/42/6) substituted for [s. 42(6)](https://www.legislation.gov.uk/asp/2005/10/section/42/6)(7) (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 14(2)](https://www.legislation.gov.uk/asp/2023/5/section/14/2), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

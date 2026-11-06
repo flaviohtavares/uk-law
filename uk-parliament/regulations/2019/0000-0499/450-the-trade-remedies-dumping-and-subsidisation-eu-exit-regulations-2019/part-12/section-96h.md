@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96H. Acceptance or rejection by the Secretary of State of the TRA’s recommendation to grant an exemption to a UK trade remedies measure[^key-ad66f9e7a5729ec4019d9f8bdf1b1365][^key-dc68a8dc60108bd892ea7da55f232855]
+## 96H. Acceptance or rejection by the Secretary of State of the TRA’s recommendation to grant an exemption to a UK trade remedies measure[^c-ad66f9e7a5729ec4019d9f8bdf1b1365][^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,12 +32,12 @@ summary: ''
 
 (4) Where the Secretary of State rejects the TRA’s recommendation, the Secretary of State may, by public notice—
 
-- (a)[^key-c56fa02ba13c063ea2b62c4ec5583ad2] apply the rate previously applied under the UK trade remedies measure to goods imported by the review applicant the from day on which the application of the UK trade remedies measure to the review applicant’s goods was suspended; and[^key-b7515fb82011a89a7cb715a8327bab10]
-- (b)[^key-ff7be6c57f413498423cd18c7b4f3e23] provide that the review applicant is liable to pay the amount that they would have been liable to pay if the review had not taken place
+- (a)[^c-c56fa02ba13c063ea2b62c4ec5583ad2] apply the rate previously applied under the UK trade remedies measure to goods imported by the review applicant the from day on which the application of the UK trade remedies measure to the review applicant’s goods was suspended; and[^c-b7515fb82011a89a7cb715a8327bab10]
+- (b)[^c-ff7be6c57f413498423cd18c7b4f3e23] provide that the review applicant is liable to pay the amount that they would have been liable to pay if the review had not taken place
 
 (5) Where the Secretary of State accepts the TRA’s recommendation, the Secretary of State must publish a notice containing the information set out in paragraph 3A of Schedule 3.
 
-(6)[^key-51114ec0bce9423cd8a38fa59433c073] This paragraph applies when—
+(6)[^c-51114ec0bce9423cd8a38fa59433c073] This paragraph applies when—
 
 - (a) the application of a UK trade remedies measure was not suspended in accordance with regulation 96F(3); and
 - (b) the review applicant submitted their application under 96E(2)(a) after the entry into force of the Trade Remedies (Dumping and Subsidisation) (No. 2) Regulations 2023.
@@ -65,14 +65,14 @@ summary: ''
 
 ## Annotations
 
-[^key-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
+[^c-ad66f9e7a5729ec4019d9f8bdf1b1365]: Textual amendment: Chapter 3A inserted (3.5.2022) by virtue of [The Trade Remedies (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/414)](https://www.legislation.gov.uk/uksi/2022/414), [regs. 1](https://www.legislation.gov.uk/uksi/2022/414/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/414/regulation/3/4)
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-c56fa02ba13c063ea2b62c4ec5583ad2]: Textual amendment: Words in [reg. 96H(4)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/4/a) in reg. 96H(4) renumbered as reg. 96H(4)(a) (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/a/i)
+[^c-c56fa02ba13c063ea2b62c4ec5583ad2]: Textual amendment: Words in [reg. 96H(4)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/4/a) in reg. 96H(4) renumbered as reg. 96H(4)(a) (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/a/i)
 
-[^key-b7515fb82011a89a7cb715a8327bab10]: Textual amendment: Words in [reg. 96H(4)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/4/a) substituted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/a/ii)
+[^c-b7515fb82011a89a7cb715a8327bab10]: Textual amendment: Words in [reg. 96H(4)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/4/a) substituted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/a/ii)
 
-[^key-ff7be6c57f413498423cd18c7b4f3e23]: Textual amendment: [Reg. 96H(4)(b)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/4/b) inserted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/a/iii)
+[^c-ff7be6c57f413498423cd18c7b4f3e23]: Textual amendment: [Reg. 96H(4)(b)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/4/b) inserted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/a/iii)
 
-[^key-51114ec0bce9423cd8a38fa59433c073]: Textual amendment: [Reg. 96H(6)-(8)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/6) inserted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/b)
+[^c-51114ec0bce9423cd8a38fa59433c073]: Textual amendment: [Reg. 96H(6)-(8)](https://www.legislation.gov.uk/uksi/2019/450/regulation/96H/6) inserted (25.9.2023) by [The Trade Remedies (Dumping and Subsidisation) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/955)](https://www.legislation.gov.uk/uksi/2023/955), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/955/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2023/955/regulation/5/b)

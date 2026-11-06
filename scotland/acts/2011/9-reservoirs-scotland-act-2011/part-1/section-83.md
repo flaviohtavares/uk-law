@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Further enforcement measures: procedure[^key-a32bbf1b035ec096514a610c7f5cada5]
+## 83. Further enforcement measures: procedure[^c-a32bbf1b035ec096514a610c7f5cada5]
 
 *Extent: S*
 
@@ -53,7 +53,7 @@ summary: ''
 (6) To comply with this subsection the final notice must include information as to—
 
 - (a) the grounds for imposing the further enforcement measure,
-- (b)[^key-e502a6c1ae15403c892f142ac82d271b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e502a6c1ae15403c892f142ac82d271b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) rights of appeal,
 - (d) the consequences of non-compliance.
 
@@ -61,7 +61,7 @@ summary: ''
 
 - (a) that the decision was based on an error of fact,
 - (b) that the decision was wrong in law,
-- (c)[^key-b212e49c259c7f2f0159091aa8bae6e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b212e49c259c7f2f0159091aa8bae6e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in the case of a restraint notice or a restoration notice, that the nature of the requirement is unreasonable,
 - (e) that the decision was unreasonable for any other reason.
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a32bbf1b035ec096514a610c7f5cada5]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2011/9/section/83) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-a32bbf1b035ec096514a610c7f5cada5]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2011/9/section/83) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
 
-[^key-e502a6c1ae15403c892f142ac82d271b]: Textual amendment: [S. 83(6)(b)](https://www.legislation.gov.uk/asp/2011/9/section/83/6/b) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e502a6c1ae15403c892f142ac82d271b]: Textual amendment: [S. 83(6)(b)](https://www.legislation.gov.uk/asp/2011/9/section/83/6/b) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-b212e49c259c7f2f0159091aa8bae6e6]: Textual amendment: [S. 83(7)(c)](https://www.legislation.gov.uk/asp/2011/9/section/83/7/c) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b212e49c259c7f2f0159091aa8bae6e6]: Textual amendment: [S. 83(7)(c)](https://www.legislation.gov.uk/asp/2011/9/section/83/7/c) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

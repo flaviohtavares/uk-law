@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Appeals relating to decisions under Requirements[^key-54295750c0a5fb742f199c7f78e7e40c]
+## 43. Appeals relating to decisions under Requirements[^c-54295750c0a5fb742f199c7f78e7e40c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ article 41 (arbitration) does not apply but the undertaker may by notice appeal 
 
 ## Annotations
 
-[^key-54295750c0a5fb742f199c7f78e7e40c]: Commencement: Art. 43 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-54295750c0a5fb742f199c7f78e7e40c]: Commencement: Art. 43 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

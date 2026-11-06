@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Repeal of spent or obsolete enactments[^key-110207fe9b8e6cd43e433ac90c8d6195]
+## 234. Repeal of spent or obsolete enactments[^c-110207fe9b8e6cd43e433ac90c8d6195]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ The following enactments are repealed—
 
 ## Annotations
 
-[^key-110207fe9b8e6cd43e433ac90c8d6195]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2009/23/section/234) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)
+[^c-110207fe9b8e6cd43e433ac90c8d6195]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2009/23/section/234) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)

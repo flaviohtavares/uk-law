@@ -72,7 +72,7 @@ and other expressions shall, as appropriate, have the same meanings as in the So
 
 (1) Subject to the provisions of paragraphs (2) and (3) of this regulation, where on or after the date on which she attained pensionable age a woman was a married woman by virtue of a polygamous marriage and either—
 
-- (a) throughout a day, falling on or after the date on which both she and her spouse have attained pensionable age and in respect of which neither of them has an entitlement to a Category A or Category B retirement pension which is deferred[^key-0943bcf2c9aec912e4f503dc80f7b70e], that marriage was in fact monogamous, or
+- (a) throughout a day, falling on or after the date on which both she and her spouse have attained pensionable age and in respect of which neither of them has an entitlement to a Category A or Category B retirement pension which is deferred[^c-0943bcf2c9aec912e4f503dc80f7b70e], that marriage was in fact monogamous, or
 - (b) throughout the day on which her spouse died that marriage was in fact monogamous,
 
 that marriage, whether or not it has at all times been or continues to be in fact monogamous, shall, for the purposes of determining her right to and the rate of a retirement pension of any category under the Social Security Act be treated as having the same consequences as a monogamous marriage from and including the date on which she attained pensionable age or, if the marriage was contracted after that date, from and including the date of the marriage.
@@ -115,4 +115,4 @@ Regulation 1 relates to the citation, commencement and interpretation of these R
 
 ## Annotations
 
-[^key-0943bcf2c9aec912e4f503dc80f7b70e]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1975/561/regulation/3/1/a) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [9](https://www.legislation.gov.uk/uksi/1989/1642/regulation/9)
+[^c-0943bcf2c9aec912e4f503dc80f7b70e]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1975/561/regulation/3/1/a) substituted (1.10.1989) by [The Social Security (Abolition of Earnings Rule) (Consequential) Regulations 1989 (S.I. 1989/1642)](https://www.legislation.gov.uk/uksi/1989/1642), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1642/regulation/1), [9](https://www.legislation.gov.uk/uksi/1989/1642/regulation/9)

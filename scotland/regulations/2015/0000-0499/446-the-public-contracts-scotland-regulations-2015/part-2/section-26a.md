@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26A. Conditions relating to the GPA[^key-66e2d26a8cee202fdc0709095546b219]
+## 26A. Conditions relating to the GPA[^c-66e2d26a8cee202fdc0709095546b219]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a contracting authority is covered by Annexes 1 or 2 to the United Kingdom
 
 ## Annotations
 
-[^key-66e2d26a8cee202fdc0709095546b219]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/ssi/2015/446/regulation/26A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/573/regulation/5/4)
+[^c-66e2d26a8cee202fdc0709095546b219]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/ssi/2015/446/regulation/26A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/573/regulation/5/4)

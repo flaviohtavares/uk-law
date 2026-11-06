@@ -24,11 +24,11 @@ summary: ''
 
 There shall be paid out of money provided by Parliament—
 
-- (a)[^key-d96e7351e1065a89ea0e2a9d55c9d446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d96e7351e1065a89ea0e2a9d55c9d446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any administrative expenses of a Minister of the Crown which are attributable to this Act,
 - (c) any other expenditure of a Minister of the Crown or government department which is attributable to this Act,
 - (d) any increase attributable to this Act in the sums which under any other enactment are payable out of money so provided.
 
 ## Annotations
 
-[^key-d96e7351e1065a89ea0e2a9d55c9d446]: Textual amendment: [S. 101(a)](https://www.legislation.gov.uk/ukpga/2000/37/section/101/a) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 169](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/169), [12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-d96e7351e1065a89ea0e2a9d55c9d446]: Textual amendment: [S. 101(a)](https://www.legislation.gov.uk/ukpga/2000/37/section/101/a) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 169](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/169), [12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

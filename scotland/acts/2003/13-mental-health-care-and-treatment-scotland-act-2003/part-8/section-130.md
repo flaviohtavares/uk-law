@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Mentally disordered persons subject to criminal proceedings: assessment and treatment[^key-d4fa6bf2b619aa64c7e8eae6320b3d34]
+## 130. Mentally disordered persons subject to criminal proceedings: assessment and treatment[^c-d4fa6bf2b619aa64c7e8eae6320b3d34]
 
 *Extent: S*
 
@@ -551,7 +551,7 @@ After section 52 of the 1995 Act there shall be inserted—
 >
 > **52T. Prevention of delay in trials: assessment orders and treatment orders**
 >
-> (1) Subsections (4) to (9) of section 65 of this Act shall apply in the case of a person committed for an offence until liberated in due course of law[^key-0b808d91702e644045f8a6c409a54a14] who is detained in hospital by virtue of an assessment order or a treatment order as those subsections apply in the case of an accused who is—
+> (1) Subsections (4) to (9) of section 65 of this Act shall apply in the case of a person committed for an offence until liberated in due course of law[^c-0b808d91702e644045f8a6c409a54a14] who is detained in hospital by virtue of an assessment order or a treatment order as those subsections apply in the case of an accused who is—
 >
 > - (a) committed for an offence until liberated in due course of law; and
 > - (b) detained by virtue of that committal.
@@ -567,8 +567,8 @@ After section 52 of the 1995 Act there shall be inserted—
 >
 > (4) Those periods are—
 >
-> - (a) the total periods of 80 days ,[^key-d3ea195db056348d1ceb9c7f40367d87] 110 days and 140 days[^key-bf8c22b7d1a11cdc773caa31270cc876] referred to [^key-407b7ada56f3cefd3fab75674f1526d5]... in [^key-407b7ada56f3cefd3fab75674f1526d5]... subsection (4) of section 65 of this Act as applied by subsection (1) above;
-> - (b) those total periods as extended under subsection (5) [^key-407b7ada56f3cefd3fab75674f1526d5]... or, on appeal, under subsection (8) of that section as so applied;
+> - (a) the total periods of 80 days ,[^c-d3ea195db056348d1ceb9c7f40367d87] 110 days and 140 days[^c-bf8c22b7d1a11cdc773caa31270cc876] referred to [^c-407b7ada56f3cefd3fab75674f1526d5]... in [^c-407b7ada56f3cefd3fab75674f1526d5]... subsection (4) of section 65 of this Act as applied by subsection (1) above;
+> - (b) those total periods as extended under subsection (5) [^c-407b7ada56f3cefd3fab75674f1526d5]... or, on appeal, under subsection (8) of that section as so applied;
 > - (c) the total of 40 days referred to in section 147 of this Act (prevention of delay in trials in summary proceedings) as applied by subsection (2) above; and
 > - (d) that period as extended under subsection (2) of that section or, on appeal, under subsection (3) of that section as so applied.
 >
@@ -581,9 +581,9 @@ After section 52 of the 1995 Act there shall be inserted—
 > - (a) a patient is subject to a relevant order; and
 > - (b) an assessment order or a treatment order is made in respect of the patient.
 >
-> (2) The relevant order shall[^key-407b7ada56f3cefd3fab75674f1526d5]... cease to authorise the measures specified in it for the period during which the patient is subject to the assessment order or, as the case may be, treatment order.
+> (2) The relevant order shall[^c-407b7ada56f3cefd3fab75674f1526d5]... cease to authorise the measures specified in it for the period during which the patient is subject to the assessment order or, as the case may be, treatment order.
 >
-> (3)[^key-407b7ada56f3cefd3fab75674f1526d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-407b7ada56f3cefd3fab75674f1526d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (4) In this section, a “**relevant order**” means—
 >
@@ -594,12 +594,12 @@ After section 52 of the 1995 Act there shall be inserted—
 
 ## Annotations
 
-[^key-d4fa6bf2b619aa64c7e8eae6320b3d34]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2003/13/section/130) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-d4fa6bf2b619aa64c7e8eae6320b3d34]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2003/13/section/130) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-0b808d91702e644045f8a6c409a54a14]: Textual amendment: Words in s. 130 substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(13)(a)(i)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/i)
+[^c-0b808d91702e644045f8a6c409a54a14]: Textual amendment: Words in s. 130 substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(13)(a)(i)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/i)
 
-[^key-d3ea195db056348d1ceb9c7f40367d87]: Textual amendment: Word in s. 130 substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/ii)[(iia)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/iia)
+[^c-d3ea195db056348d1ceb9c7f40367d87]: Textual amendment: Word in s. 130 substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/ii)[(iia)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/iia)
 
-[^key-bf8c22b7d1a11cdc773caa31270cc876]: Textual amendment: Words in s. 130 inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/ii)[(iib)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/iib)
+[^c-bf8c22b7d1a11cdc773caa31270cc876]: Textual amendment: Words in s. 130 inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(13)(a)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/ii)[(iib)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/iib)
 
-[^key-407b7ada56f3cefd3fab75674f1526d5]: Textual amendment: Words in s. 130 repealed (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
+[^c-407b7ada56f3cefd3fab75674f1526d5]: Textual amendment: Words in s. 130 repealed (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)

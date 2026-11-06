@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Information and advice[^key-38b7399b2740d636aa2a912dff8a2375][^key-de4a02a99bf5c739181769fba7832427]
+## 83. Information and advice[^c-38b7399b2740d636aa2a912dff8a2375][^c-de4a02a99bf5c739181769fba7832427]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ does not apply to a disclosure required by virtue of this section.
 
 ## Annotations
 
-[^key-38b7399b2740d636aa2a912dff8a2375]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/52/section/83) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(v)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/v)
+[^c-38b7399b2740d636aa2a912dff8a2375]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/52/section/83) in force at Royal Assent for specified purposes, see [s. 334(2)(a)(v)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/a/v)
 
-[^key-de4a02a99bf5c739181769fba7832427]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/52/section/83) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-de4a02a99bf5c739181769fba7832427]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/52/section/83) in force at 26.12.2023 in so far as not already in force, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

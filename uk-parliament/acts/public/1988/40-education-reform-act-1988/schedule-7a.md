@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7A — Higher education corporations in Wales established on or after the appointed day: instruments of government made by Privy Council[^c12685191][^key-dcc37ad9e2c37afa33ec637e093462b6]
+## SCHEDULE 7A — Higher education corporations in Wales established on or after the appointed day: instruments of government made by Privy Council[^c12685191][^c-dcc37ad9e2c37afa33ec637e093462b6]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ is not eligible for appointment as a member of the corporation otherwise than as
 
 (6) It shall be for the appointing authority to determine any question as to whether any person is qualified in accordance with the preceding provisions of this paragraph for appointment as a member of the corporation of any description or category.
 
-(7)[^key-8c363700ef580c96e75640d74cde5a61] In this paragraph “local authority” includes a non-metropolitan district council for an area for which there is a county council.
+(7)[^c-8c363700ef580c96e75640d74cde5a61] In this paragraph “local authority” includes a non-metropolitan district council for an area for which there is a county council.
 
 ### Numbers
 
@@ -122,13 +122,13 @@ is not eligible for appointment as a member of the corporation otherwise than as
 
 [^c12685191]: Textual amendment: Sch. 7A inserted (6. 5. 1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 71(4)](https://www.legislation.gov.uk/ukpga/1992/13/section/71/4), [Sch.6](https://www.legislation.gov.uk/ukpga/1992/13/schedule/6); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1).
 
-[^key-dcc37ad9e2c37afa33ec637e093462b6]: Textual amendment: Sch. 7A heading substituted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/22); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)
+[^c-dcc37ad9e2c37afa33ec637e093462b6]: Textual amendment: Sch. 7A heading substituted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/22); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)
 
 [^c12685201]: Textual amendment: Sch. 7A inserted (6. 5. 1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 71(4)](https://www.legislation.gov.uk/ukpga/1992/13/section/71/4), [Sch.6](https://www.legislation.gov.uk/ukpga/1992/13/schedule/6); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1).
 
 [^c12685211]: Textual amendment: Sch. 7A inserted (6. 5. 1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 71(4)](https://www.legislation.gov.uk/ukpga/1992/13/section/71/4), [Sch.6](https://www.legislation.gov.uk/ukpga/1992/13/schedule/6); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1).
 
-[^key-8c363700ef580c96e75640d74cde5a61]: Textual amendment: Sch. 7A para. 3(7) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/8)
+[^c-8c363700ef580c96e75640d74cde5a61]: Textual amendment: Sch. 7A para. 3(7) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(8)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/8)
 
 [^c12685231]: Textual amendment: Sch. 7A inserted (6. 5. 1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 71(4)](https://www.legislation.gov.uk/ukpga/1992/13/section/71/4), [Sch.6](https://www.legislation.gov.uk/ukpga/1992/13/schedule/6); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1).
 

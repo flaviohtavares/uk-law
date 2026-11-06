@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 148. Reporting failures to provide information or produce documents[^key-7cda783fe38508b2ee29ce03c4a1e9fd]
+## 148. Reporting failures to provide information or produce documents[^c-7cda783fe38508b2ee29ce03c4a1e9fd]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ the ombudsman may make a report to that effect to the Board.
 
 ## Annotations
 
-[^key-7cda783fe38508b2ee29ce03c4a1e9fd]: Commencement: S. 148 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-7cda783fe38508b2ee29ce03c4a1e9fd]: Commencement: S. 148 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

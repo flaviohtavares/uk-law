@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Commencement[^key-7da103d36348548c9310dec773b83d0a]
+## 2. Commencement[^c-7da103d36348548c9310dec773b83d0a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules come into force on 30th June 2011.
 
 ## Annotations
 
-[^key-7da103d36348548c9310dec773b83d0a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7da103d36348548c9310dec773b83d0a]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

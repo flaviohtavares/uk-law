@@ -46,18 +46,18 @@ In accordance with section 82(4) of the Energy Act 2016 a draft of this instrume
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-4cd38b94365a48419a8a87bf1f508056]
+### 1. Citation and commencement[^c-4cd38b94365a48419a8a87bf1f508056]
 
 These Regulations may be cited as the Oil and Gas Authority (Offshore Petroleum) (Disclosure of Protected Material after Specified Period) Regulations 2018 and come into force on the twenty-first day after the day on which they are made.
 
-### 2. General application[^key-7b5e4bcd0f5c629d100f4893a630569a]
+### 2. General application[^c-7b5e4bcd0f5c629d100f4893a630569a]
 
 Subject to regulation 3, these Regulations apply to the following protected material[^f00002] obtained by the OGA[^f00003] under Chapter 3 of Part 2 of the Energy Act 2016—
 
 - (a) material falling within regulations 5 to 7 (information relating to geological surveys) where the end of the calendar year in which the information is acquired or created by or on behalf of an offshore licensee[^f00004] occurs after the commencement of these Regulations; and
 - (b) material falling within regulations 8 to 21 (other information relating to offshore petroleum activities) where the event which under these Regulations determines the time at, or after which, the material may be published or made available to the public occurs after the commencement of these Regulations.
 
-### 3. Application in relation to the determination of an offshore licence[^key-66867d298c7dce88413275e65b32de01]
+### 3. Application in relation to the determination of an offshore licence[^c-66867d298c7dce88413275e65b32de01]
 
 (1) Paragraph (2) applies where—
 
@@ -66,7 +66,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) These Regulations are to be applied to the protected material relating to the part of the area to which the determination relates only unless that is the only area in respect of which the licence continued to have effect.
 
-### 4. Interpretation[^key-98c619f6a36a781c91f080f0258aab39]
+### 4. Interpretation[^c-98c619f6a36a781c91f080f0258aab39]
 
 (1) In these Regulations—
 
@@ -102,7 +102,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 ## PART 2 — Disclosure of protected material
 
-### 5. Summary information relating to geological surveys carried out by or on behalf of an offshore licensee[^key-fa7e302df1f63508b39d63391e11006d]
+### 5. Summary information relating to geological surveys carried out by or on behalf of an offshore licensee[^c-fa7e302df1f63508b39d63391e11006d]
 
 (1) This regulation applies to the following information relating to a geological survey which is carried out by or on behalf of an offshore licensee—
 
@@ -122,7 +122,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) Where this regulation applies, the OGA (or a subsequent holder[^f00011]) may publish the information after the date on which the geological survey finishes.
 
-### 6. Information relating to geological surveys carried out by or on behalf of the holder of a production licence[^key-ed913ee2915a112f8f9a36f8414fb895]
+### 6. Information relating to geological surveys carried out by or on behalf of the holder of a production licence[^c-ed913ee2915a112f8f9a36f8414fb895]
 
 (1) Subject to paragraph (2), this regulation applies to information relating to a geological survey which is carried out by or on behalf of the holder of a production licence.
 
@@ -133,7 +133,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 - (a) the period of five years beginning with the date on which processing relating to the survey referred to in paragraph (1) is complete; or
 - (b) the date of the determination of the production licence in respect of the area to which the geological survey relates.
 
-### 7. Information relating to geological surveys carried out other than by or on behalf of the holder of a production licence[^key-e904f3cb8e05817e441a5b67a02abbf3]
+### 7. Information relating to geological surveys carried out other than by or on behalf of the holder of a production licence[^c-e904f3cb8e05817e441a5b67a02abbf3]
 
 (1) Subject to paragraph (2), this regulation applies to information relating to a geological survey which is carried out—
 
@@ -161,7 +161,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
   - (b) information which relates to the methodology for processing and which is not original information;
   - (c) any seismic velocity values used in processing.
 
-### 8. Summary well information[^key-69fd21001aa4f20765426468d3804ecc]
+### 8. Summary well information[^c-69fd21001aa4f20765426468d3804ecc]
 
 (1) This regulation applies to the following information which is acquired or created by or on behalf of an offshore licensee and relates to a well—
 
@@ -186,7 +186,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the date on which the information is obtained by the OGA.
 
-### 9. Other well information[^key-18f088e0ce411c5186790735f9d3e875]
+### 9. Other well information[^c-18f088e0ce411c5186790735f9d3e875]
 
 (1) Subject to paragraph (2), this regulation applies to information which is acquired or created by or on behalf of an offshore licensee and relates to—
 
@@ -207,19 +207,19 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (3) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the earlier of—
 
-- (a) the period of two years beginning with the reporting deadline[^key-4fa08198b1828c2e6f4543e347e61241]; or
+- (a) the period of two years beginning with the reporting deadline[^c-4fa08198b1828c2e6f4543e347e61241]; or
 - (b) the date of the determination of the relevant licence.
 
 (4) In this regulation, “completion work” has the meaning given in model clause 21(4) of the Schedule to the Petroleum Licensing (Production) (Seaward Areas) Regulations 2008[^f00012].
 
-(5)[^key-8194c21e84ba9923cb697e13c4936f02] For the purposes of this regulation “**the reporting deadline**”, in relation to particular information is—
+(5)[^c-8194c21e84ba9923cb697e13c4936f02] For the purposes of this regulation “**the reporting deadline**”, in relation to particular information is—
 
 - (a) the time specified in the relevant OGA notice, in accordance with section 34(2)(b) of the Energy Act 2016 (“**the 2016 Act**”), as the time at which that information is to be provided to the OGA, or
 - (b) the end of the period specified in the relevant OGA notice, in accordance with section 34(2)(b) of the 2016 Act, as the period within which that information is to be provided to the OGA.
 
 (6) For the purposes of paragraph (5), “**the relevant OGA notice**” means the notice given by the OGA, under section 34 of the 2016 Act, requiring the offshore licensee to provide the particular information to the OGA.
 
-### 10. Consolidated production information[^key-787f2a59f4725126ab9cb8d25f552bd7]
+### 10. Consolidated production information[^c-787f2a59f4725126ab9cb8d25f552bd7]
 
 (1) This regulation applies to production information which is consolidated on the basis of—
 
@@ -231,7 +231,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 - (a) the period of two calendar months beginning with the last day of the month to which the information relates, or
 - (b) the date of the determination of the relevant licence.
 
-### 11. Other production information[^key-7ac29683c6d5f5f6f176651796360524]
+### 11. Other production information[^c-7ac29683c6d5f5f6f176651796360524]
 
 (1) This regulation applies to production information to which regulation 10 does not apply.
 
@@ -240,7 +240,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 - (a) the date production permanently ceases from the petroleum field to which the information relates, or
 - (b) the date of the determination of the relevant licence.
 
-### 12. Information relating to computerised models[^key-9f5a9c9be575e570202d75fca290dca6]
+### 12. Information relating to computerised models[^c-9f5a9c9be575e570202d75fca290dca6]
 
 (1) This regulation applies to the following information which is acquired or created by or on behalf of an offshore licensee—
 
@@ -249,7 +249,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the date of the determination of the relevant licence.
 
-### 13. Summary information relating to production under an offshore licence[^key-da3b296542f6e8d6aa263a448115e4d5]
+### 13. Summary information relating to production under an offshore licence[^c-da3b296542f6e8d6aa263a448115e4d5]
 
 (1) This regulation applies to the following information which is acquired or created by or on behalf of an offshore licensee and relates to a field in which petroleum is discovered—
 
@@ -259,7 +259,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the date on which the information is obtained by the OGA.
 
-### 14. Geotechnical information in a development plan[^key-a01f951b7a86ae1ae6bf5d7add4ec235]
+### 14. Geotechnical information in a development plan[^c-a01f951b7a86ae1ae6bf5d7add4ec235]
 
 (1) Subject to paragraph (2), this regulation applies to information which is contained in a development plan and which relates to—
 
@@ -273,7 +273,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 - (a) the period of five years beginning with the date on which petroleum is first produced from the petroleum field, or
 - (b) the date of the determination of the relevant licence.
 
-### 15. Other information relating to an offshore licence[^key-29d6943b7983fb671dc6f90f2f978a71]
+### 15. Other information relating to an offshore licence[^c-29d6943b7983fb671dc6f90f2f978a71]
 
 (1) Subject to paragraph (2), this regulation applies to information which is acquired or created by or on behalf of an offshore licensee and relates to—
 
@@ -288,7 +288,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (3) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the date of the determination of the relevant licence.
 
-### 16. Samples[^key-0cb0f3e827ea92c4046c247e4c269308]
+### 16. Samples[^c-0cb0f3e827ea92c4046c247e4c269308]
 
 (1) The OGA (or a subsequent holder) may make available to the public a petroleum-related sample after the earlier of—
 
@@ -297,7 +297,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) In this regulation, “petroleum-related sample” has the meaning given in section 27(1) of the Energy Act 2016[^f00013].
 
-### 17. General information relating to pipelines[^key-d68270f63961fa86118d897e94138350]
+### 17. General information relating to pipelines[^c-d68270f63961fa86118d897e94138350]
 
 (1) This regulation applies to the following information relating to a pipeline in respect of which the OGA has granted a pipeline works authorisation—
 
@@ -313,7 +313,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the date on which the OGA grants the pipeline works authorisation.
 
-### 18. Information relating to cessation of use and removal of pipelines[^key-f1baf20574f25d35defb3bcd203dcb43]
+### 18. Information relating to cessation of use and removal of pipelines[^c-f1baf20574f25d35defb3bcd203dcb43]
 
 (1) Where the OGA grants a relevant pipeline works authorisation, the OGA (or a subsequent holder) may, after the date on which the authorisation is granted, publish the date on which the pipeline ceases to be used or is expected to cease being used.
 
@@ -324,7 +324,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 - “relevant pipeline works authorisation” means a pipeline works authorisation which authorises the cessation of the use of a pipeline;
 - “removed” means removed in accordance with an abandonment programme under Part 4 of the Petroleum Act 1998[^f00014].
 
-### 19. Pipeline deposit information[^key-50cfb867a222b0891bc580a518cc7c98]
+### 19. Pipeline deposit information[^c-50cfb867a222b0891bc580a518cc7c98]
 
 (1) Where the OGA grants consent to a pipeline deposit proposal, this regulation applies to the following information relating to a deposit in respect of which that consent was granted—
 
@@ -342,7 +342,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
   - (a) during the construction of the pipeline, or
   - (b) for the maintenance of the pipeline.
 
-### 20. Summary information relating to relevant offshore installations and relevant upstream petroleum infrastructure[^key-14fb150154fcd747a0087682f0aba09f]
+### 20. Summary information relating to relevant offshore installations and relevant upstream petroleum infrastructure[^c-14fb150154fcd747a0087682f0aba09f]
 
 (1) This regulation applies to the following information relating to a relevant offshore installation or relevant upstream petroleum infrastructure—
 
@@ -357,7 +357,7 @@ Subject to regulation 3, these Regulations apply to the following protected mate
 
 (2) Where this regulation applies, the OGA (or a subsequent holder) may publish the information after the date on which the information is obtained by the OGA.
 
-### 21. Other information relating to relevant offshore installations and relevant upstream petroleum infrastructure[^key-2dbc973880778d7d7fbd5a7db8c5025b]
+### 21. Other information relating to relevant offshore installations and relevant upstream petroleum infrastructure[^c-2dbc973880778d7d7fbd5a7db8c5025b]
 
 (1) Subject to paragraph (2), this regulation applies to information relating to a relevant offshore installation or relevant upstream petroleum infrastructure which relates to—
 
@@ -402,9 +402,9 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00001]: Footnote: [2016 c. 20](https://www.legislation.gov.uk/ukpga/2016/20).
 
-[^key-4cd38b94365a48419a8a87bf1f508056]: Commencement: Reg. 1 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-4cd38b94365a48419a8a87bf1f508056]: Commencement: Reg. 1 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-7b5e4bcd0f5c629d100f4893a630569a]: Commencement: Reg. 2 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-7b5e4bcd0f5c629d100f4893a630569a]: Commencement: Reg. 2 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00002]: Footnote: “Protected material” is defined in section 62(1) of the Energy Act 2016.
 
@@ -412,11 +412,11 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00004]: Footnote: “Offshore licensee” is defined in section 18(1) of the Energy Act 2016.
 
-[^key-66867d298c7dce88413275e65b32de01]: Commencement: Reg. 3 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-66867d298c7dce88413275e65b32de01]: Commencement: Reg. 3 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00005]: Footnote: “Offshore licence” is defined in section 18(1) of the Energy Act 2016.
 
-[^key-98c619f6a36a781c91f080f0258aab39]: Commencement: Reg. 4 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-98c619f6a36a781c91f080f0258aab39]: Commencement: Reg. 4 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2008/225](https://www.legislation.gov.uk/uksi/2008/225). Model clause 17 is amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
@@ -428,51 +428,51 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00010]: Footnote: Section 9H was inserted by section 41 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7) and substituted by section 74(2) of the Energy Act 2016.
 
-[^key-fa7e302df1f63508b39d63391e11006d]: Commencement: Reg. 5 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-fa7e302df1f63508b39d63391e11006d]: Commencement: Reg. 5 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00011]: Footnote: “Subsequent holder” is defined in section 62(2) of the Energy Act 2016.
 
-[^key-ed913ee2915a112f8f9a36f8414fb895]: Commencement: Reg. 6 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-ed913ee2915a112f8f9a36f8414fb895]: Commencement: Reg. 6 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-e904f3cb8e05817e441a5b67a02abbf3]: Commencement: Reg. 7 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-e904f3cb8e05817e441a5b67a02abbf3]: Commencement: Reg. 7 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-69fd21001aa4f20765426468d3804ecc]: Commencement: Reg. 8 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-69fd21001aa4f20765426468d3804ecc]: Commencement: Reg. 8 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-18f088e0ce411c5186790735f9d3e875]: Commencement: Reg. 9 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-18f088e0ce411c5186790735f9d3e875]: Commencement: Reg. 9 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-4fa08198b1828c2e6f4543e347e61241]: Textual amendment: Words in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/898/regulation/9/3/a) substituted (9.1.2026) by [The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025 (S.I. 2025/1379)](https://www.legislation.gov.uk/uksi/2025/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/17/2)
+[^c-4fa08198b1828c2e6f4543e347e61241]: Textual amendment: Words in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/898/regulation/9/3/a) substituted (9.1.2026) by [The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025 (S.I. 2025/1379)](https://www.legislation.gov.uk/uksi/2025/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/17/2)
 
 [^f00012]: Footnote: Model clause 21 is amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
-[^key-8194c21e84ba9923cb697e13c4936f02]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/898/regulation/9/5)[(6)](https://www.legislation.gov.uk/uksi/2018/898/regulation/9/6) inserted (9.1.2026) by [The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025 (S.I. 2025/1379)](https://www.legislation.gov.uk/uksi/2025/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/17/3)
+[^c-8194c21e84ba9923cb697e13c4936f02]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/898/regulation/9/5)[(6)](https://www.legislation.gov.uk/uksi/2018/898/regulation/9/6) inserted (9.1.2026) by [The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025 (S.I. 2025/1379)](https://www.legislation.gov.uk/uksi/2025/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2025/1379/regulation/17/3)
 
-[^key-787f2a59f4725126ab9cb8d25f552bd7]: Commencement: Reg. 10 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-787f2a59f4725126ab9cb8d25f552bd7]: Commencement: Reg. 10 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-7ac29683c6d5f5f6f176651796360524]: Commencement: Reg. 11 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-7ac29683c6d5f5f6f176651796360524]: Commencement: Reg. 11 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-9f5a9c9be575e570202d75fca290dca6]: Commencement: Reg. 12 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-9f5a9c9be575e570202d75fca290dca6]: Commencement: Reg. 12 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-da3b296542f6e8d6aa263a448115e4d5]: Commencement: Reg. 13 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-da3b296542f6e8d6aa263a448115e4d5]: Commencement: Reg. 13 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-a01f951b7a86ae1ae6bf5d7add4ec235]: Commencement: Reg. 14 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-a01f951b7a86ae1ae6bf5d7add4ec235]: Commencement: Reg. 14 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-29d6943b7983fb671dc6f90f2f978a71]: Commencement: Reg. 15 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-29d6943b7983fb671dc6f90f2f978a71]: Commencement: Reg. 15 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-0cb0f3e827ea92c4046c247e4c269308]: Commencement: Reg. 16 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-0cb0f3e827ea92c4046c247e4c269308]: Commencement: Reg. 16 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00013]: Footnote: [2016 c. 20](https://www.legislation.gov.uk/ukpga/2016/20).
 
-[^key-d68270f63961fa86118d897e94138350]: Commencement: Reg. 17 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-d68270f63961fa86118d897e94138350]: Commencement: Reg. 17 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-f1baf20574f25d35defb3bcd203dcb43]: Commencement: Reg. 18 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-f1baf20574f25d35defb3bcd203dcb43]: Commencement: Reg. 18 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00014]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), to which there are amendments not relevant to these Regulations.
 
-[^key-50cfb867a222b0891bc580a518cc7c98]: Commencement: Reg. 19 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-50cfb867a222b0891bc580a518cc7c98]: Commencement: Reg. 19 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-14fb150154fcd747a0087682f0aba09f]: Commencement: Reg. 20 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-14fb150154fcd747a0087682f0aba09f]: Commencement: Reg. 20 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
-[^key-2dbc973880778d7d7fbd5a7db8c5025b]: Commencement: Reg. 21 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
+[^c-2dbc973880778d7d7fbd5a7db8c5025b]: Commencement: Reg. 21 in force at 13.8.2018 in accordance with [reg. 1](https://www.legislation.gov.uk/uksi/2018/898/regulation/1)
 
 [^f00015]: Footnote: Section 44 was amended by paragraph 11 of Schedule 1 to the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).
 

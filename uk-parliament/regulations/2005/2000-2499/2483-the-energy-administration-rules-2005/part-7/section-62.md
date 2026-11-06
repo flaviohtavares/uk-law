@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Realisation of security by creditor[^key-67b3849ca9219435386b39aad9e30da7]
+## 62. Realisation of security by creditor[^c-67b3849ca9219435386b39aad9e30da7]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If a creditor who has valued his security subsequently realises it (whether or n
 
 ## Annotations
 
-[^key-67b3849ca9219435386b39aad9e30da7]: Commencement: Rule 62 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-67b3849ca9219435386b39aad9e30da7]: Commencement: Rule 62 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

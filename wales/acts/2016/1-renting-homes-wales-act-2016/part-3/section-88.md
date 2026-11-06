@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Right of set off[^key-eeb70c9b9415c0046220b21da90c09a9]
+## 88. Right of set off[^c-eeb70c9b9415c0046220b21da90c09a9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeb70c9b9415c0046220b21da90c09a9]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2016/1/section/88) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-eeb70c9b9415c0046220b21da90c09a9]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2016/1/section/88) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

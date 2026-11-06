@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Posted Workers (Agency Workers) Regulations 2020 (revoked)[^key-f0b815ea5011e852524577ea02c5b231]
+The Posted Workers (Agency Workers) Regulations 2020 (revoked)[^c-f0b815ea5011e852524577ea02c5b231]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 30th July 2020
 
-[^key-f0b815ea5011e852524577ea02c5b231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b815ea5011e852524577ea02c5b231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f0b815ea5011e852524577ea02c5b231]
+## 1. Citation, commencement and extent[^c-f0b815ea5011e852524577ea02c5b231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f0b815ea5011e852524577ea02c5b231]
+## 2. Interpretation[^c-f0b815ea5011e852524577ea02c5b231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modifications to the Agency Workers Regulations 2010[^key-f0b815ea5011e852524577ea02c5b231]
+## 3. Modifications to the Agency Workers Regulations 2010[^c-f0b815ea5011e852524577ea02c5b231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential modifications[^key-f0b815ea5011e852524577ea02c5b231]
+## 4. Consequential modifications[^c-f0b815ea5011e852524577ea02c5b231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Expiry of regulations 3 and 4 and saving provision[^key-f0b815ea5011e852524577ea02c5b231]
+## 5. Expiry of regulations 3 and 4 and saving provision[^c-f0b815ea5011e852524577ea02c5b231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0b815ea5011e852524577ea02c5b231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b815ea5011e852524577ea02c5b231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0b815ea5011e852524577ea02c5b231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0b815ea5011e852524577ea02c5b231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0b815ea5011e852524577ea02c5b231]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/384) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-f0b815ea5011e852524577ea02c5b231]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/384) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

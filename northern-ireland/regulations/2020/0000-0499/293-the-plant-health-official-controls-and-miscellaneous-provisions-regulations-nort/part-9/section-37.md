@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Appeal[^key-0db31e1ac3c39b1bc049bab77955ee3e]
+## 37. Appeal[^c-0db31e1ac3c39b1bc049bab77955ee3e]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0db31e1ac3c39b1bc049bab77955ee3e]: Commencement: Reg. 37 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-0db31e1ac3c39b1bc049bab77955ee3e]: Commencement: Reg. 37 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00034]: Footnote: [1981 No. 1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).

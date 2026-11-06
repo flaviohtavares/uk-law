@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Consequential amendment[^key-d9813e3da3b8496b86dbadc0a4e6d8dd]
+## 96. Consequential amendment[^c-d9813e3da3b8496b86dbadc0a4e6d8dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the definition of “election petition” in rule 69.1 of the Rules of the Co
 
 ## Annotations
 
-[^key-d9813e3da3b8496b86dbadc0a4e6d8dd]: Commencement: Art. 96 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d9813e3da3b8496b86dbadc0a4e6d8dd]: Commencement: Art. 96 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00058]: Footnote: The Rules of the Court of Session 1994 are set out in Schedule 2 to [S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443). The definition of “election petition” was amended by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787), [2002/2779](https://www.legislation.gov.uk/uksi/2002/2779) and [2007/937](https://www.legislation.gov.uk/uksi/2007/937). The definition of “Scottish parliamentary election” was added by [S.I. 1999/787](https://www.legislation.gov.uk/uksi/1999/787).

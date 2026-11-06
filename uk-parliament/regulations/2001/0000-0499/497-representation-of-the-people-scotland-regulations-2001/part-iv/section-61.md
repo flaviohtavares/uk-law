@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Records and lists kept under Schedule 4[^key-a2e0ec67811f060aa99b99fa2bb43eb3][^key-b46ae6572a532c0531c0c80487178bd8]
+## 61. Records and lists kept under Schedule 4[^c-a2e0ec67811f060aa99b99fa2bb43eb3][^c-b46ae6572a532c0531c0c80487178bd8]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) A person who obtains any information under this regulation may use it only for–
 
-- (a)[^key-65573f03bb73ddc6b3b78c013d65d454] Article 84A[^key-f6a31fb8c1eeaf876bbed2fd876d1d75] GDPR purposes; or
+- (a)[^c-65573f03bb73ddc6b3b78c013d65d454] Article 84A[^c-f6a31fb8c1eeaf876bbed2fd876d1d75] GDPR purposes; or
 - (b) electoral purposes,
 
 and such use shall be subject to any restrictions specified in regulation 61A or, where the request for information was made by reference to entitlement under regulations 102, 104, 105 or 107, subject to any restrictions which would apply to the use of the full register under whichever of those regulations entitled that person to obtain that information.
@@ -48,9 +48,9 @@ and such use shall be subject to any restrictions specified in regulation 61A or
 - (b) at a parliamentary election, if he is not the returning officer for any constituency or part of a constituency in the area for which he is the registration officer, send to that officer a copy of those lists;
 - (c) supply a final copy of the postal voters lists or the list of proxies in response to every request under paragraph (1) that has been duly made.
 
-(6A)[^key-cf0dad0b5b434d2830252d6822fa641b] At a parliamentary election, the registration officer must, on a request made at any time, supply the returning officer for any constituency or part of a constituency for which he is the registration officer with so much of the lists kept under paragraphs 5 and 7(8) of Schedule 4 as relate to that constituency or part of a constituency.
+(6A)[^c-cf0dad0b5b434d2830252d6822fa641b] At a parliamentary election, the registration officer must, on a request made at any time, supply the returning officer for any constituency or part of a constituency for which he is the registration officer with so much of the lists kept under paragraphs 5 and 7(8) of Schedule 4 as relate to that constituency or part of a constituency.
 
-(7) The registration officer shall supply a final copy of the proxy voters list kept under paragraph 5(3) of Schedule 4, updated to include any additions to that list made in consequence of any applications granted in accordance with regulation 56(3A) or (3D)[^key-8b23ccdf8a2772ff52b9fca1f5985bc6], as soon as practicable after 5 p.m. on the day of the poll, to every person who received that list in accordance with paragraph (6)(c).
+(7) The registration officer shall supply a final copy of the proxy voters list kept under paragraph 5(3) of Schedule 4, updated to include any additions to that list made in consequence of any applications granted in accordance with regulation 56(3A) or (3D)[^c-8b23ccdf8a2772ff52b9fca1f5985bc6], as soon as practicable after 5 p.m. on the day of the poll, to every person who received that list in accordance with paragraph (6)(c).
 
 (8) Any person who has obtained or is entitled to obtain a copy of information covered by paragraph (1) may–
 
@@ -99,14 +99,14 @@ otherwise than by means of hand written notes.
 
 ## Annotations
 
-[^key-a2e0ec67811f060aa99b99fa2bb43eb3]: Modification: [Reg. 61](https://www.legislation.gov.uk/uksi/2001/497/regulation/61) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/16)
+[^c-a2e0ec67811f060aa99b99fa2bb43eb3]: Modification: [Reg. 61](https://www.legislation.gov.uk/uksi/2001/497/regulation/61) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/16)
 
-[^key-b46ae6572a532c0531c0c80487178bd8]: Textual amendment: [Reg. 61](https://www.legislation.gov.uk/uksi/2001/497/regulation/61) substituted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2007/925/regulation/43)
+[^c-b46ae6572a532c0531c0c80487178bd8]: Textual amendment: [Reg. 61](https://www.legislation.gov.uk/uksi/2001/497/regulation/61) substituted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2007/925/regulation/43)
 
-[^key-65573f03bb73ddc6b3b78c013d65d454]: Textual amendment: Reg. 61(3)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 270](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/270) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-65573f03bb73ddc6b3b78c013d65d454]: Textual amendment: Reg. 61(3)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 270](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/270) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-f6a31fb8c1eeaf876bbed2fd876d1d75]: Textual amendment: Words in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/61/3/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [6(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/6/3); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-f6a31fb8c1eeaf876bbed2fd876d1d75]: Textual amendment: Words in [reg. 61(3)(a)](https://www.legislation.gov.uk/uksi/2001/497/regulation/61/3/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [6(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/6/3); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
-[^key-cf0dad0b5b434d2830252d6822fa641b]: Textual amendment: [Reg. 61(6A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/61/6A) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [27](https://www.legislation.gov.uk/uksi/2013/3206/regulation/27)
+[^c-cf0dad0b5b434d2830252d6822fa641b]: Textual amendment: [Reg. 61(6A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/61/6A) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [27](https://www.legislation.gov.uk/uksi/2013/3206/regulation/27)
 
-[^key-8b23ccdf8a2772ff52b9fca1f5985bc6]: Textual amendment: Words in reg. 61(7) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(12)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/12)
+[^c-8b23ccdf8a2772ff52b9fca1f5985bc6]: Textual amendment: Words in reg. 61(7) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [10(12)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/10/12)

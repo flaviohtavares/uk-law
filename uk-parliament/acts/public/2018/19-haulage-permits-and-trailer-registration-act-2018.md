@@ -136,7 +136,7 @@ for example, a prohibition relating to Ireland may be limited so that it does no
 - (a) provide that anything for which a fee is payable is conditional on payment of the fee;
 - (b) make provision about repayment of fees charged under the regulations, for example where an application for the grant, variation or renewal of a permit is unsuccessful.
 
-#### 6. Production of permits and inspection of vehicles[^key-d838b6d4dd9b99ba23ce2a9c45377082]
+#### 6. Production of permits and inspection of vehicles[^c-d838b6d4dd9b99ba23ce2a9c45377082]
 
 (1) An examiner may exercise the powers under this section in relation to a goods vehicle if it appears to the examiner—
 
@@ -162,7 +162,7 @@ for example, a prohibition relating to Ireland may be limited so that it does no
 - (a) in relation to a case within subsection (1)(a), means the journey on which the vehicle is being used;
 - (b) in relation to a case within subsection (1)(b), means the other journey.
 
-#### 7. Prohibition notices[^key-938990e0d84e60066a9466e12ee33ca3]
+#### 7. Prohibition notices[^c-938990e0d84e60066a9466e12ee33ca3]
 
 (1) An examiner may prohibit a goods vehicle in the United Kingdom from being taken to a country if it appears to the examiner that—
 
@@ -194,7 +194,7 @@ for example, a prohibition relating to Ireland may be limited so that it does no
 
 (8) An examiner who gives a notice under this section to a driver of a vehicle must, as soon as practicable after the notice is given, take steps to bring the contents of the notice to the attention of the operator of the vehicle (unless the driver is the operator).
 
-#### 8. Offences: breach of regulations etc[^key-621426f858154d57c8105112977b1e67]
+#### 8. Offences: breach of regulations etc[^c-621426f858154d57c8105112977b1e67]
 
 (1) The operator of a goods vehicle commits an offence if, without reasonable excuse, the operator uses the vehicle (whether in the United Kingdom or elsewhere) in breach of regulations under section 1(1).
 
@@ -708,8 +708,8 @@ Section 24
 
 ## Annotations
 
-[^key-d838b6d4dd9b99ba23ce2a9c45377082]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/19/section/6) in force at 1.1.2019 by [S.I. 2018/1343](https://www.legislation.gov.uk/uksi/2018/1343), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1343/regulation/2/a)
+[^c-d838b6d4dd9b99ba23ce2a9c45377082]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/19/section/6) in force at 1.1.2019 by [S.I. 2018/1343](https://www.legislation.gov.uk/uksi/2018/1343), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1343/regulation/2/a)
 
-[^key-938990e0d84e60066a9466e12ee33ca3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/19/section/7) in force at 1.1.2019 by [S.I. 2018/1343](https://www.legislation.gov.uk/uksi/2018/1343), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1343/regulation/2/b)
+[^c-938990e0d84e60066a9466e12ee33ca3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/19/section/7) in force at 1.1.2019 by [S.I. 2018/1343](https://www.legislation.gov.uk/uksi/2018/1343), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1343/regulation/2/b)
 
-[^key-621426f858154d57c8105112977b1e67]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/19/section/8) in force at 1.1.2019 by [S.I. 2018/1343](https://www.legislation.gov.uk/uksi/2018/1343), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1343/regulation/2/c)
+[^c-621426f858154d57c8105112977b1e67]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/19/section/8) in force at 1.1.2019 by [S.I. 2018/1343](https://www.legislation.gov.uk/uksi/2018/1343), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1343/regulation/2/c)

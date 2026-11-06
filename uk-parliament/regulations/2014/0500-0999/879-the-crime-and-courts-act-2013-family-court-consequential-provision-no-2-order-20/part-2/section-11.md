@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**11.**[^key-660708273a3c4a0879ff4f40065c269d] In rule 18—
+**11.**[^c-660708273a3c4a0879ff4f40065c269d] In rule 18—
 
 - (a) in paragraph (1), omit “and the person entitled to receive payments under the related maintenance order”; and
 - (b) omit paragraph (3).
 
 ## Annotations
 
-[^key-660708273a3c4a0879ff4f40065c269d]: Commencement: Art. 11 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-660708273a3c4a0879ff4f40065c269d]: Commencement: Art. 11 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

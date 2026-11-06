@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Amendment of the Criminal Justice (Evidence) (Northern Ireland) Order 2004[^key-02d9f92c1fb098c277f06e9a757b981e]
+## 81. Amendment of the Criminal Justice (Evidence) (Northern Ireland) Order 2004[^c-02d9f92c1fb098c277f06e9a757b981e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In article 21 of the Criminal Justice (Evidence) (Northern Ireland) Order 2004 (
 
 ## Annotations
 
-[^key-02d9f92c1fb098c277f06e9a757b981e]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-02d9f92c1fb098c277f06e9a757b981e]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691831]: Marginal citation: [S.I. 2004/1501 (N.I. 10)](https://www.legislation.gov.uk/nisi/2004/1501) was amended by [S.I. 2017/730](https://www.legislation.gov.uk/uksi/2017/730).

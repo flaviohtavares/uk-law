@@ -25,7 +25,7 @@ summary: ''
 - (a) is in pensionable employment under this Section of the scheme as a mental health officer, or
 - (b) has accrued rights to benefits under this Section of the scheme arising out of a previous period in which the member was engaged in such employment and at no time since the last occasion on which the member was so engaged has the member had a break in pensionable employment for any one period of 5 years or more.
 
-(2)[^key-a22c19902cbaf5529382ae6686b649e7] Subject to paragraph (3), this regulation shall cease to apply if the member has a break in pensionable employment for any period of 5 years or more ending after the coming into force of the 1995 Regulations.
+(2)[^c-a22c19902cbaf5529382ae6686b649e7] Subject to paragraph (3), this regulation shall cease to apply if the member has a break in pensionable employment for any period of 5 years or more ending after the coming into force of the 1995 Regulations.
 
 (3) Paragraph (2) shall be without prejudice to the operation of paragraph (5)(a) in relation to any period prior to this regulation ceasing to apply.
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) Subject to paragraphs (6) to (8), where this regulation applies—
 
-- (a)[^key-b177c6e1167bcdcedc2390d00c6263fc] each complete year of the member's pensionable service as a mental health officer in excess of 20 years will count as 2 years' pensionable service; and
+- (a)[^c-b177c6e1167bcdcedc2390d00c6263fc] each complete year of the member's pensionable service as a mental health officer in excess of 20 years will count as 2 years' pensionable service; and
 - (b) where there is 20 years or more of such pensionable service the member shall be entitled to a pension under regulation E1 (normal retirement pension) on leaving NHS employment at any time after reaching age 55 but only if the member was in pensionable employment as a mental health officer immediately before leaving.
 
 (6) For the purposes of calculating the 20 year period referred to in paragraph (5) the pensionable service as a mental health officer will be based on either—
@@ -48,7 +48,7 @@ and pensionable service does not include additional service bought under regulat
 (8) Paragraph (5) does not apply—
 
 - (a) for the purpose of calculating, under regulations E2 (early retirement pension (ill health)) or E3 (ill health pension on early retirement) and H3(4)(b), H4(2)(b) and H5(4)(b) (child allowances), the pensionable service the member could have completed if the member stayed in NHS employment until a particular age;
-- (b) for the purpose of calculating a minimum widow's, widower's, surviving civil partner's or surviving scheme partner’s pension[^key-4c2399807748994b38e62ca4c3f0a1a0] based on the member's pensionable service on or after 6th April 1978 under regulation G6(2) (member marries after leaving pensionable employment) or from 6th April 1988 under regulation G7(3) (widower's pension) or under regulation G11(4) (dependent surviving civil partner's pension);
+- (b) for the purpose of calculating a minimum widow's, widower's, surviving civil partner's or surviving scheme partner’s pension[^c-4c2399807748994b38e62ca4c3f0a1a0] based on the member's pensionable service on or after 6th April 1978 under regulation G6(2) (member marries after leaving pensionable employment) or from 6th April 1988 under regulation G7(3) (widower's pension) or under regulation G11(4) (dependent surviving civil partner's pension);
 - (c) for the purpose of calculating a member's benefits where it would be more favourable to the member or other person entitled to the benefits not to apply that paragraph and to calculate the member's final year's pensionable pay when the member leaves pensionable employment, completes 45 years' pensionable service (calculated without regard to paragraph (5)(a)), reaches age 65 or dies, whichever occurs first.
 
 (9) Where, by virtue of paragraph (8)(c), paragraph (5) does not apply to a member's benefits because it is more favourable to the member or other person entitled to the benefits not to apply that paragraph, the amount of any contributions that should have been paid under regulation D1 (contributions by members) but which were not deducted from the member's earnings will be deducted from the lump sum payable on the member's retirement or death.
@@ -90,8 +90,8 @@ where—
 
 ## Annotations
 
-[^key-a22c19902cbaf5529382ae6686b649e7]: Modification: Reg. R3(2) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [30(2)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/30/2/a)
+[^c-a22c19902cbaf5529382ae6686b649e7]: Modification: Reg. R3(2) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [30(2)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/30/2/a)
 
-[^key-b177c6e1167bcdcedc2390d00c6263fc]: Modification: Reg. R3(5)(a) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [30(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/30/2/b)
+[^c-b177c6e1167bcdcedc2390d00c6263fc]: Modification: Reg. R3(5)(a) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [30(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/30/2/b)
 
-[^key-4c2399807748994b38e62ca4c3f0a1a0]: Textual amendment: Words in [reg. R3(8)(b)](https://www.legislation.gov.uk/ssi/2011/117/regulation/R3/8/b) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2021/102/regulation/23)
+[^c-4c2399807748994b38e62ca4c3f0a1a0]: Textual amendment: Words in [reg. R3(8)(b)](https://www.legislation.gov.uk/ssi/2011/117/regulation/R3/8/b) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2021/102/regulation/23)

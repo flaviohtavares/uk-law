@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356LA. “Relevant asset”[^key-1b6059f3a3d3c0f2097b69e4f6b59574]
+## 356LA. “Relevant asset”[^c-1b6059f3a3d3c0f2097b69e4f6b59574]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6059f3a3d3c0f2097b69e4f6b59574]: Textual amendment: Pt. 8ZA inserted (retrospective to 1.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 16 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/6)
+[^c-1b6059f3a3d3c0f2097b69e4f6b59574]: Textual amendment: Pt. 8ZA inserted (retrospective to 1.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 16 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/6)

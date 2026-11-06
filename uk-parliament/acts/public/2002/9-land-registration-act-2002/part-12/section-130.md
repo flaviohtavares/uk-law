@@ -23,8 +23,8 @@ summary: ''
 This Act applies to land covered by internal waters of the United Kingdom which are—
 
 - (a) within England or Wales, or
-- (b) adjacent to England or Wales and specified for the purposes of this section by order made by the Secretary of State[^key-477465af3a2893632fd786b76d2c9b4d].
+- (b) adjacent to England or Wales and specified for the purposes of this section by order made by the Secretary of State[^c-477465af3a2893632fd786b76d2c9b4d].
 
 ## Annotations
 
-[^key-477465af3a2893632fd786b76d2c9b4d]: Textual amendment: Words in [s. 130(b)](https://www.legislation.gov.uk/ukpga/2002/9/section/130/b) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-477465af3a2893632fd786b76d2c9b4d]: Textual amendment: Words in [s. 130(b)](https://www.legislation.gov.uk/ukpga/2002/9/section/130/b) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendment of Schedule 4[^key-c1b924c248fc949d77fdef422510fabd]
+## 71. Amendment of Schedule 4[^c-c1b924c248fc949d77fdef422510fabd]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b924c248fc949d77fdef422510fabd]: Commencement: Reg. 71 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c1b924c248fc949d77fdef422510fabd]: Commencement: Reg. 71 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00052]: Footnote: Schedule 4 was amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2003/3148](https://www.legislation.gov.uk/uksi/2003/3148), [2004/1947](https://www.legislation.gov.uk/uksi/2004/1947), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1485](https://www.legislation.gov.uk/uksi/2008/1485), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2014/1887](https://www.legislation.gov.uk/uksi/2014/1887), [2015/806](https://www.legislation.gov.uk/uksi/2015/806) and by [S.R. (N.I.) 2009 No. 144](https://www.legislation.gov.uk/nisr/2009/144).

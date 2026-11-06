@@ -24,9 +24,9 @@ Section 203
 
 ### Part 1 — Amendments of Electricity Act 1989
 
-**1.**[^key-fef91ec7f553131cd7d7c352584b1f10] The Electricity Act 1989 is amended as follows.
+**1.**[^c-fef91ec7f553131cd7d7c352584b1f10] The Electricity Act 1989 is amended as follows.
 
-**2.**[^key-4e320bf5ec82463eb1dc5a60d1dabed0] After section 6B insert—
+**2.**[^c-4e320bf5ec82463eb1dc5a60d1dabed0] After section 6B insert—
 
 > **6BA. Meaning of “relevant electricity project”, “relevant licence” and “relevant contract”**
 >
@@ -72,7 +72,7 @@ Section 203
 >
 > (9) Subsection (6) does not authorise the making of a payment to the Authority (where it is designated under subsection (1)).
 
-**3.**[^key-3e73755fe6a5ae28e426272460fe1354] For sections 6C and 6D substitute—
+**3.**[^c-3e73755fe6a5ae28e426272460fe1354] For sections 6C and 6D substitute—
 
 > **6C. Competitive tenders**
 >
@@ -287,12 +287,12 @@ Section 203
 >
 > (7) Section 6C(8) applies for the purposes of subsections (3)(b) and (c) and (6)(b) and (c) as it applies for the purposes of section 6C(2)(b) and (c).
 
-**4.**[^key-1755568fef82d742399eb642c1fe4740] In section 6E (property schemes)—
+**4.**[^c-1755568fef82d742399eb642c1fe4740] In section 6E (property schemes)—
 
 - (a) for “offshore transmission licences” substitute “relevant licences and awards of relevant contracts”;
 - (b) in the heading, for “offshore transmission licences” substitute “relevant licences and contracts”.
 
-**5.**[^key-ee794cbecdc9f778a120c23d4d75a087] (1) Section 6F (offshore transmission during commissioning period) is amended as follows.
+**5.**[^c-ee794cbecdc9f778a120c23d4d75a087] (1) Section 6F (offshore transmission during commissioning period) is amended as follows.
 
 (2) In subsection (2), for “an offshore” substitute “a”.
 
@@ -332,7 +332,7 @@ Section 203
 
 (6) In the heading omit “Offshore”.
 
-**6.**[^key-b59bdd368bea5d4e2d00b82c9564d319] (1) Section 6G (meaning of “**commissioning period**”) is amended as follows.
+**6.**[^c-b59bdd368bea5d4e2d00b82c9564d319] (1) Section 6G (meaning of “**commissioning period**”) is amended as follows.
 
 (2) In subsection (1), for “an offshore” substitute “a”.
 
@@ -345,7 +345,7 @@ Section 203
 > - “**co-ordination licence**” means a transmission licence which authorises a person to co-ordinate and direct the flow of electricity onto and over a transmission system by means of which the transmission of electricity takes place and the whole or part of which is at a place in Great Britain, in the territorial sea adjacent to Great Britain or in a Renewable Energy Zone;
 > - “**relevant co-ordination licence holder**” means the holder of a co-ordination licence to whom a person has applied (in accordance with any provision made by that licence) for an offer of connection to and use of a transmission system for the purposes of which the tender exercise is held.
 
-**7.**[^key-8936f5b9eaa8ea973efb5a2091f2ff77] (1) Section 6H (modification of codes or agreements) is amended as follows.
+**7.**[^c-8936f5b9eaa8ea973efb5a2091f2ff77] (1) Section 6H (modification of codes or agreements) is amended as follows.
 
 (2) In subsection (1), for “a transmission licence or a distribution licence” substitute “a relevant licence”.
 
@@ -374,11 +374,11 @@ Section 203
 
 (8) In the heading, after “Sections” insert “6C,”.
 
-**8.**[^key-6619ad488a2701e69b3c1405f31ec1b0] In section 11A (modification of conditions of licences), after subsection (9) insert—
+**8.**[^c-6619ad488a2701e69b3c1405f31ec1b0] In section 11A (modification of conditions of licences), after subsection (9) insert—
 
 > (9A) This section does not apply to the modification of a licence in exercise of the power under section 6CC(5)(a) (modification of licence to give effect to determination on a tender exercise).
 
-**9.**[^key-4fe13baafb1cb076ace160b4d9494edb] In section 64(1) (interpretation etc of Part 1), at the appropriate places insert—
+**9.**[^c-4fe13baafb1cb076ace160b4d9494edb] In section 64(1) (interpretation etc of Part 1), at the appropriate places insert—
 
 > - “**contract counterparty**” has the meaning given by section 6BA;
 
@@ -410,9 +410,9 @@ Section 203
 
 .
 
-**10.**[^key-12229ebfa0f401e9e0ca793bf6865785] Schedule 2A (property schemes) is amended in accordance with paragraphs 11 to 24.
+**10.**[^c-12229ebfa0f401e9e0ca793bf6865785] Schedule 2A (property schemes) is amended in accordance with paragraphs 11 to 24.
 
-**11.**[^key-d89fd602de2a41c26c49d786db9b2066] For paragraph 1 substitute—
+**11.**[^c-d89fd602de2a41c26c49d786db9b2066] For paragraph 1 substitute—
 
 > **1. Scheme-making power**
 >
@@ -425,23 +425,23 @@ Section 203
 >
 > any property, rights or liabilities necessary or expedient for construction, commissioning or operational purposes.
 
-**12.**[^key-57b808e95a545b21b3193a603c7a519b] In paragraph 2, at the end insert—
+**12.**[^c-57b808e95a545b21b3193a603c7a519b] In paragraph 2, at the end insert—
 
 > (5) A property scheme may not contain provision for the transfer of, or creation of rights in relation to, property, rights or liabilities that the Authority considers it appropriate for the successful bidder to acquire by other means.
 
-**13.**[^key-a9f01f6b52bd306038400451948d3d7e] Omit paragraph 5.
+**13.**[^c-a9f01f6b52bd306038400451948d3d7e] Omit paragraph 5.
 
-**14.**[^key-f9979e3f79c06ad2c1501b4cf57c5af4] In paragraph 12, for “operational purposes” substitute “construction, commissioning or operational purposes” in each of the following places—
+**14.**[^c-f9979e3f79c06ad2c1501b4cf57c5af4] In paragraph 12, for “operational purposes” substitute “construction, commissioning or operational purposes” in each of the following places—
 
 - (a) sub-paragraphs (1) to (3);
 - (b) sub-paragraph (10);
 - (c) sub-paragraph (11) (in both places).
 
-**15.**[^key-513bbcce5094f34bd407fe220583642f] For paragraph 13 substitute—
+**15.**[^c-513bbcce5094f34bd407fe220583642f] For paragraph 13 substitute—
 
 > **13.** On an application for a property scheme, no scheme may be made until either a relevant licence has been granted or a relevant contract has been awarded to the successful bidder.
 
-**16.**[^key-5acae1e3b1ab077e568834767c1f1661] In paragraph 14—
+**16.**[^c-5acae1e3b1ab077e568834767c1f1661] In paragraph 14—
 
 - (a) in sub-paragraph (4), for “operational purposes” substitute “construction, commissioning or operational purposes”;
 - (b) in sub-paragraph (6), after paragraph (a) insert—
@@ -451,15 +451,15 @@ Section 203
 
   .
 
-**17.**[^key-fa8d1b9c9f68de51e37cfdce70ff1272] In paragraph 15(2), for “operational purposes” substitute “construction, commissioning or operational purposes”.
+**17.**[^c-fa8d1b9c9f68de51e37cfdce70ff1272] In paragraph 15(2), for “operational purposes” substitute “construction, commissioning or operational purposes”.
 
-**18.**[^key-eb4a687c5641c021d836e1071b7771ad] Omit paragraph 16(1)(d).
+**18.**[^c-eb4a687c5641c021d836e1071b7771ad] Omit paragraph 16(1)(d).
 
-**19.**[^key-34dbe303e92605bbd267633d1b7bd16f] In paragraph 25(2), for “operational purposes” substitute “construction, commissioning or operational purposes”.
+**19.**[^c-34dbe303e92605bbd267633d1b7bd16f] In paragraph 25(2), for “operational purposes” substitute “construction, commissioning or operational purposes”.
 
-**20.**[^key-3564dc47d612ca024bd05481ea3439f0] In paragraph 30, for “operational purposes” substitute “construction, commissioning or operational purposes”.
+**20.**[^c-3564dc47d612ca024bd05481ea3439f0] In paragraph 30, for “operational purposes” substitute “construction, commissioning or operational purposes”.
 
-**21.**[^key-282fa6f6e9ce5c711192cf9da5bb4b5f] (1) Paragraph 35 is amended as follows.
+**21.**[^c-282fa6f6e9ce5c711192cf9da5bb4b5f] (1) Paragraph 35 is amended as follows.
 
 (2) In sub-paragraph (2), for “the offshore transmission licence” substitute “a relevant licence”.
 
@@ -475,7 +475,7 @@ Section 203
 
 (6) In sub-paragraph (5), after “(2)” insert “or (2A)”.
 
-**22.**[^key-f456ff6684bf013b81e45ba574c54c15] In paragraph 36—
+**22.**[^c-f456ff6684bf013b81e45ba574c54c15] In paragraph 36—
 
 - (a) omit sub-paragraph (1);
 - (b) for sub-paragraph (2) substitute—
@@ -486,7 +486,7 @@ Section 203
 
   .
 
-**23.**[^key-8b4c9a1dd081370aeb9473dc9fce23df] After paragraph 36 insert—
+**23.**[^c-8b4c9a1dd081370aeb9473dc9fce23df] After paragraph 36 insert—
 
 > **36A. Transmission owner and distribution network owner of last resort**
 >
@@ -524,7 +524,7 @@ Section 203
 > - (a) the licence holder is the holder of a distribution licence granted as a result of a tender exercise in which the licence holder was the successful bidder, and
 > - (b) a notice has been published under paragraph 36 identifying the licence holder as the successful bidder in relation to the tender exercise.
 
-**24.**[^key-4c824dd7f0a26d83b954737a27b1fea7] In paragraph 38(1)—
+**24.**[^c-4c824dd7f0a26d83b954737a27b1fea7] In paragraph 38(1)—
 
 - (a) at the appropriate place insert—
 
@@ -547,7 +547,7 @@ Section 203
 
   .
 
-**25.**[^key-b2a14739632f6493507aa063dfddb35f] (1) In Schedule 4 (powers of licence holders), paragraph 6 is amended as follows.
+**25.**[^c-b2a14739632f6493507aa063dfddb35f] (1) In Schedule 4 (powers of licence holders), paragraph 6 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -560,7 +560,7 @@ Section 203
 
 ### Part 2 — Other amendments
 
-#### 26. Utilities Act 2000[^key-859acafb212250e836dc8201ff32899a]
+#### 26. Utilities Act 2000[^c-859acafb212250e836dc8201ff32899a]
 
 (1) Section 105 of the Utilities Act 2000 (general restrictions on disclosure of information) is amended as follows.
 
@@ -572,54 +572,54 @@ Section 203
 
 ## Annotations
 
-[^key-fef91ec7f553131cd7d7c352584b1f10]: Commencement: Sch. 15 para. 1 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-fef91ec7f553131cd7d7c352584b1f10]: Commencement: Sch. 15 para. 1 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-4e320bf5ec82463eb1dc5a60d1dabed0]: Commencement: Sch. 15 para. 2 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-4e320bf5ec82463eb1dc5a60d1dabed0]: Commencement: Sch. 15 para. 2 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-3e73755fe6a5ae28e426272460fe1354]: Commencement: Sch. 15 para. 3 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-3e73755fe6a5ae28e426272460fe1354]: Commencement: Sch. 15 para. 3 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-1755568fef82d742399eb642c1fe4740]: Commencement: Sch. 15 para. 4 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-1755568fef82d742399eb642c1fe4740]: Commencement: Sch. 15 para. 4 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-ee794cbecdc9f778a120c23d4d75a087]: Commencement: Sch. 15 para. 5 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-ee794cbecdc9f778a120c23d4d75a087]: Commencement: Sch. 15 para. 5 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-b59bdd368bea5d4e2d00b82c9564d319]: Commencement: Sch. 15 para. 6 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-b59bdd368bea5d4e2d00b82c9564d319]: Commencement: Sch. 15 para. 6 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-8936f5b9eaa8ea973efb5a2091f2ff77]: Commencement: Sch. 15 para. 7 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-8936f5b9eaa8ea973efb5a2091f2ff77]: Commencement: Sch. 15 para. 7 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-6619ad488a2701e69b3c1405f31ec1b0]: Commencement: Sch. 15 para. 8 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-6619ad488a2701e69b3c1405f31ec1b0]: Commencement: Sch. 15 para. 8 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-4fe13baafb1cb076ace160b4d9494edb]: Commencement: Sch. 15 para. 9 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-4fe13baafb1cb076ace160b4d9494edb]: Commencement: Sch. 15 para. 9 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-12229ebfa0f401e9e0ca793bf6865785]: Commencement: Sch. 15 para. 10 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-12229ebfa0f401e9e0ca793bf6865785]: Commencement: Sch. 15 para. 10 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-d89fd602de2a41c26c49d786db9b2066]: Commencement: Sch. 15 para. 11 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-d89fd602de2a41c26c49d786db9b2066]: Commencement: Sch. 15 para. 11 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-57b808e95a545b21b3193a603c7a519b]: Commencement: Sch. 15 para. 12 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-57b808e95a545b21b3193a603c7a519b]: Commencement: Sch. 15 para. 12 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-a9f01f6b52bd306038400451948d3d7e]: Commencement: Sch. 15 para. 13 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-a9f01f6b52bd306038400451948d3d7e]: Commencement: Sch. 15 para. 13 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-f9979e3f79c06ad2c1501b4cf57c5af4]: Commencement: Sch. 15 para. 14 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-f9979e3f79c06ad2c1501b4cf57c5af4]: Commencement: Sch. 15 para. 14 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-513bbcce5094f34bd407fe220583642f]: Commencement: Sch. 15 para. 15 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-513bbcce5094f34bd407fe220583642f]: Commencement: Sch. 15 para. 15 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-5acae1e3b1ab077e568834767c1f1661]: Commencement: Sch. 15 para. 16 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-5acae1e3b1ab077e568834767c1f1661]: Commencement: Sch. 15 para. 16 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-fa8d1b9c9f68de51e37cfdce70ff1272]: Commencement: Sch. 15 para. 17 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-fa8d1b9c9f68de51e37cfdce70ff1272]: Commencement: Sch. 15 para. 17 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-eb4a687c5641c021d836e1071b7771ad]: Commencement: Sch. 15 para. 18 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-eb4a687c5641c021d836e1071b7771ad]: Commencement: Sch. 15 para. 18 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-34dbe303e92605bbd267633d1b7bd16f]: Commencement: Sch. 15 para. 19 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-34dbe303e92605bbd267633d1b7bd16f]: Commencement: Sch. 15 para. 19 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-3564dc47d612ca024bd05481ea3439f0]: Commencement: Sch. 15 para. 20 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-3564dc47d612ca024bd05481ea3439f0]: Commencement: Sch. 15 para. 20 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-282fa6f6e9ce5c711192cf9da5bb4b5f]: Commencement: Sch. 15 para. 21 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-282fa6f6e9ce5c711192cf9da5bb4b5f]: Commencement: Sch. 15 para. 21 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-f456ff6684bf013b81e45ba574c54c15]: Commencement: Sch. 15 para. 22 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-f456ff6684bf013b81e45ba574c54c15]: Commencement: Sch. 15 para. 22 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-8b4c9a1dd081370aeb9473dc9fce23df]: Commencement: Sch. 15 para. 23 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-8b4c9a1dd081370aeb9473dc9fce23df]: Commencement: Sch. 15 para. 23 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-4c824dd7f0a26d83b954737a27b1fea7]: Commencement: Sch. 15 para. 24 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-4c824dd7f0a26d83b954737a27b1fea7]: Commencement: Sch. 15 para. 24 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-b2a14739632f6493507aa063dfddb35f]: Commencement: Sch. 15 para. 25 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-b2a14739632f6493507aa063dfddb35f]: Commencement: Sch. 15 para. 25 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
 
-[^key-859acafb212250e836dc8201ff32899a]: Commencement: Sch. 15 para. 26 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-859acafb212250e836dc8201ff32899a]: Commencement: Sch. 15 para. 26 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)

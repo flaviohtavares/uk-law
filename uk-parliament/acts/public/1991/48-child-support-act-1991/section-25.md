@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Appeal from Child Support Commissioner on question of law.[^key-b17a8062a778ec9ea63caed045e76121]
+## 25. Appeal from Child Support Commissioner on question of law.[^c-b17a8062a778ec9ea63caed045e76121]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b17a8062a778ec9ea63caed045e76121]: Textual amendment: S. 25 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 86](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/86)
+[^c-b17a8062a778ec9ea63caed045e76121]: Textual amendment: S. 25 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 86](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/86)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Cancellation of carving and marking note[^key-5078f71a9e86919d640c7613375efeb4]
+## 35. Cancellation of carving and marking note[^c-5078f71a9e86919d640c7613375efeb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a carving and marking note issued under regulation 31 is not duly completed a
 
 ## Annotations
 
-[^key-5078f71a9e86919d640c7613375efeb4]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1993/3138/regulation/35) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-5078f71a9e86919d640c7613375efeb4]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1993/3138/regulation/35) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

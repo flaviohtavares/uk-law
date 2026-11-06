@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Tolerable standard: damp[^key-8d31b23c9518c35ffa2044a2e94839c1][^key-fd293f77bbafa05fee47a2fd0e89b065]
+## 47. Tolerable standard: damp[^c-8d31b23c9518c35ffa2044a2e94839c1][^c-fd293f77bbafa05fee47a2fd0e89b065]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d31b23c9518c35ffa2044a2e94839c1]: Commencement: S. 47 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-8d31b23c9518c35ffa2044a2e94839c1]: Commencement: S. 47 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-fd293f77bbafa05fee47a2fd0e89b065]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/13/section/47) in force at 6.12.2025 by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/b)
+[^c-fd293f77bbafa05fee47a2fd0e89b065]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/13/section/47) in force at 6.12.2025 by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/b)

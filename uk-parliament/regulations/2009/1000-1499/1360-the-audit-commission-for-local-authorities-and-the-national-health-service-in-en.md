@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 47B and paragraph 5(3) and (6) of Schedule 2A to the Audit Commission Act 1998[^f00001], makes the following Order:
 
-## 1. Citation, commencement, application and interpretation[^key-901da24d5d1ce12de4d4f6c7dfd78943]
+## 1. Citation, commencement, application and interpretation[^c-901da24d5d1ce12de4d4f6c7dfd78943]
 
 (1) This Order may be cited as the Audit Commission for Local Authorities and the National Health Service in England (Specified Organisations) (England) Order 2009 and shall come into force on 2nd July 2009.
 
@@ -54,7 +54,7 @@ The Secretary of State, in exercise of the powers conferred by section 47B and p
 
 (3) In this Order “the 1998 Act” means the Audit Commission Act 1998.
 
-## 2. Specified organisations[^key-0d8b06d5f49fa3020118e77cdf0e089c]
+## 2. Specified organisations[^c-0d8b06d5f49fa3020118e77cdf0e089c]
 
 The following bodies are specified as organisations for the purposes of paragraph 5 of Schedule 2A (interaction with other authorities) to the 1998 Act—
 
@@ -74,9 +74,9 @@ The following bodies are specified as organisations for the purposes of paragrap
 - (n) an authority established for an area in England by an order under section 207 of the Local Government and Public Involvement in Health Act 2007[^f00004] (joint waste authorities);
 - (o) an Integrated Transport Authority;
 - (p) Transport for London;
-- (q)[^key-55daf794bb8cb450f987313a8b540bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (q)[^c-55daf794bb8cb450f987313a8b540bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Excluded inspections, etc[^key-2b615a7324ae6be8f066a6ad75a34a3b]
+## 3. Excluded inspections, etc[^c-2b615a7324ae6be8f066a6ad75a34a3b]
 
 The following cases are those in which a notice may not be given under paragraph 5 of Schedule 2A to the 1998 Act (inspections by other inspectors of organisations within the Commission’s remit)—
 
@@ -121,9 +121,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1998.c.18](https://www.legislation.gov.uk/ukpga/1998/18); section 47B and Schedule 2A were inserted into the Audit Commission Act 1998 by section 149 of, and Schedule 11 to, the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). The definition of “inspection authority” in paragraph 1(1) and (2) of Schedule 2A is amended by article 3 of, and paragraph 26(1) and (2)(d) of Schedule 1 to, [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912), the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), sections 95 and 166 and the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), sections 277 and 321.
 
-[^key-901da24d5d1ce12de4d4f6c7dfd78943]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1360/article/1) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
+[^c-901da24d5d1ce12de4d4f6c7dfd78943]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1360/article/1) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
 
-[^key-0d8b06d5f49fa3020118e77cdf0e089c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1360/article/2) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
+[^c-0d8b06d5f49fa3020118e77cdf0e089c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1360/article/2) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
 
 [^f00002]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
@@ -131,9 +131,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00004]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-55daf794bb8cb450f987313a8b540bb8]: Textual amendment: [Art. 2(q)](https://www.legislation.gov.uk/uksi/2009/1360/article/2/q) revoked (31.3.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/666/schedule/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
+[^c-55daf794bb8cb450f987313a8b540bb8]: Textual amendment: [Art. 2(q)](https://www.legislation.gov.uk/uksi/2009/1360/article/2/q) revoked (31.3.2012) by [The Localism Act 2011 (Housing and Regeneration Functions in Greater London) (Consequential, Transitory, Transitional and Saving Provisions) Order 2012 (S.I. 2012/666)](https://www.legislation.gov.uk/uksi/2012/666), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/666/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/666/schedule/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/666/article/3), [4](https://www.legislation.gov.uk/uksi/2012/666/article/4))
 
-[^key-2b615a7324ae6be8f066a6ad75a34a3b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1360/article/3) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
+[^c-2b615a7324ae6be8f066a6ad75a34a3b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1360/article/3) in force at 2.7.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1360/article/1/1)
 
 [^f00005]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20); section 120 was substituted by the Health and Social Care Act 2008, section 52(5) and Schedule 3, paragraphs 1 and 8.
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Defacement removal notices[^key-7863373c285765330043d3d85cd7d2d6]
+## 31. Defacement removal notices[^c-7863373c285765330043d3d85cd7d2d6]
 
 *Extent: N.I.*
 
 (1) This section applies where a district council is satisfied—
 
-- (a) that a relevant surface in the district of the council has been defaced by graffiti or any poster or placard the display of which contravenes regulations under section 130 of the Planning Act (Northern Ireland) 2011[^key-93f57c7b56f976fae55ef709e37807d1], and
+- (a) that a relevant surface in the district of the council has been defaced by graffiti or any poster or placard the display of which contravenes regulations under section 130 of the Planning Act (Northern Ireland) 2011[^c-93f57c7b56f976fae55ef709e37807d1], and
 - (b) that the defacement is detrimental to the amenity of that district or is offensive.
 
 (2) The council may serve a notice (a “defacement removal notice”) upon any person who is responsible for the surface imposing the requirement mentioned in subsection (3).
@@ -72,6 +72,6 @@ and that notice shall be treated as having been served upon a person responsible
 
 ## Annotations
 
-[^key-7863373c285765330043d3d85cd7d2d6]: Commencement: S. 31 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7863373c285765330043d3d85cd7d2d6]: Commencement: S. 31 in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-93f57c7b56f976fae55ef709e37807d1]: Textual amendment: Words in s. 31(1) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 110](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/110) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2))
+[^c-93f57c7b56f976fae55ef709e37807d1]: Textual amendment: Words in s. 31(1) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 110](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/110) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2))

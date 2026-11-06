@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Crown application[^key-57587468f3dcd46ff7d09f4aae8ed2ed]
+## 55. Crown application[^c-57587468f3dcd46ff7d09f4aae8ed2ed]
 
 *Extent: S*
 
@@ -41,17 +41,17 @@ summary: ''
 (10) In this section “**the appropriate authority**”, in relation to any land—
 
 - (a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners,
-- (b) in the case of any other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration or, as the case may be, government department having the management of the land or the relevant person[^key-8674a6b7b9d14aa553108f2efeeac894] ,
+- (b) in the case of any other land belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration or, as the case may be, government department having the management of the land or the relevant person[^c-8674a6b7b9d14aa553108f2efeeac894] ,
 - (c) in the case of land belonging to an office-holder in the Scottish Administration or to a government department or held in trust for Her Majesty for the purposes of the Scottish Administration or a government department, means that office-holder or government department.
 
-(10A)[^key-c3ba560b3b8f0a16e42a43f20181ca7a] In subsection (10), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(10A)[^c-c3ba560b3b8f0a16e42a43f20181ca7a] In subsection (10), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (11) It is for the Scottish Ministers to determine any question which arises as to who is the appropriate authority in relation to any land, and their decision is final.
 
 ## Annotations
 
-[^key-57587468f3dcd46ff7d09f4aae8ed2ed]: Commencement: S. 55 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-57587468f3dcd46ff7d09f4aae8ed2ed]: Commencement: S. 55 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-8674a6b7b9d14aa553108f2efeeac894]: Textual amendment: Words in [s. 55(10)(b)](https://www.legislation.gov.uk/asp/2004/6/section/55/10/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 34(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/34/a)
+[^c-8674a6b7b9d14aa553108f2efeeac894]: Textual amendment: Words in [s. 55(10)(b)](https://www.legislation.gov.uk/asp/2004/6/section/55/10/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 34(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/34/a)
 
-[^key-c3ba560b3b8f0a16e42a43f20181ca7a]: Textual amendment: [S. 55(10A)](https://www.legislation.gov.uk/asp/2004/6/section/55/10A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 34(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/34/b)
+[^c-c3ba560b3b8f0a16e42a43f20181ca7a]: Textual amendment: [S. 55(10A)](https://www.legislation.gov.uk/asp/2004/6/section/55/10A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 34(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/34/b)

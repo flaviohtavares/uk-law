@@ -26,17 +26,17 @@ summary: ''
 
 (3) For the kinds of connections where the rule applies, see—
 
-- (a)[^key-a4d185274128323c9500ccd77fbc83c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) section 375 (loans to close companies by participators etc), and[^key-d70be4f648535996b5ffe831dac55386]
-- (c)[^key-70c5098c07efb8555203ff56ee355cde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a4d185274128323c9500ccd77fbc83c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 375 (loans to close companies by participators etc), and[^c-d70be4f648535996b5ffe831dac55386]
+- (c)[^c-70c5098c07efb8555203ff56ee355cde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 378 (loans by trustees of occupational pension schemes).
 
 (4) For the meaning of “standing in the position of a creditor” in this Chapter, see section 379(1) (persons indirectly standing in the position of creditor).
 
 ## Annotations
 
-[^key-a4d185274128323c9500ccd77fbc83c1]: Textual amendment: S. 372(3)(a) omitted (with effect in accordance with s. 25(6)-(14) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(3)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/3/a)
+[^c-a4d185274128323c9500ccd77fbc83c1]: Textual amendment: S. 372(3)(a) omitted (with effect in accordance with s. 25(6)-(14) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(3)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/3/a)
 
-[^key-d70be4f648535996b5ffe831dac55386]: Textual amendment: Word in s. 372(3)(b) inserted (with effect in accordance with s. 25(6)-(14) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/3/b)
+[^c-d70be4f648535996b5ffe831dac55386]: Textual amendment: Word in s. 372(3)(b) inserted (with effect in accordance with s. 25(6)-(14) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/3/b)
 
-[^key-70c5098c07efb8555203ff56ee355cde]: Textual amendment: S. 372(3)(c) omitted (with effect in accordance with s. 25(6)-(14) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(3)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/3/c)
+[^c-70c5098c07efb8555203ff56ee355cde]: Textual amendment: S. 372(3)(c) omitted (with effect in accordance with s. 25(6)-(14) of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 25(3)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/25/3/c)

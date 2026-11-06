@@ -31,7 +31,7 @@ a person who holds, otherwise than under a contract of employment, the office of
 (2) In this section “ **the relevant officer** ” means—
 
 - (a) in relation to a member of a police force or a special constable appointed for a police area, the chief officer of police;
-- (b)[^c20082841] in relation to a member of a police force seconded to the National Crime Agency to serve as a National Crime Agency officer[^key-3cc9044837b405e58929cc4f70948f63], that Agency; and
+- (b)[^c20082841] in relation to a member of a police force seconded to the National Crime Agency to serve as a National Crime Agency officer[^c-3cc9044837b405e58929cc4f70948f63], that Agency; and
 - (d) in relation to any other person holding the office of constable or an appointment as police cadet, the person who has the direction and control of the body of constables or cadets in question.
 
 ## Annotations
@@ -42,4 +42,4 @@ a person who holds, otherwise than under a contract of employment, the office of
 
 [^c20082841]: Textual amendment: S. 43KA(2)(b) substituted for s. 43KA(2)(b)(c) (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 85](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/85); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/378/schedule) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-3cc9044837b405e58929cc4f70948f63]: Textual amendment: Words in s. 43KA(2)(b) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/50); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-3cc9044837b405e58929cc4f70948f63]: Textual amendment: Words in s. 43KA(2)(b) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/50); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

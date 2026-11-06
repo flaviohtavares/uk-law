@@ -52,7 +52,7 @@ In accordance with section 10(1) of the Superannuation Act 1972 and section 3(5)
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-bba0e218786add7293c70f2a210f098c]
+### 1. Citation, commencement and extent[^c-bba0e218786add7293c70f2a210f098c]
 
 These Regulations—
 
@@ -60,7 +60,7 @@ These Regulations—
 - (b) come into force on 1st April 2015; and
 - (c) extend to Scotland.
 
-### 2. Interpretation[^key-a372b40cf07a0401bcfe5a1cfb1a3719]
+### 2. Interpretation[^c-a372b40cf07a0401bcfe5a1cfb1a3719]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “2013 Act” means the Public Service Pensions Act 2013;
 - “2013 Regulations” means the National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013[^f00004];
 - “2015 Regulations” means the National Health Service Pension Scheme (Scotland) Regulations 2015[^f00005];
-- “[^key-0d1474bd7020c8436cf942b80c051961]**lump sum and death benefit allowance**” in relation to a person, has the meaning given in section 637R of the Income Tax (Earnings and Pensions) Act 2003;
+- “[^c-0d1474bd7020c8436cf942b80c051961]**lump sum and death benefit allowance**” in relation to a person, has the meaning given in section 637R of the Income Tax (Earnings and Pensions) Act 2003;
 - “new scheme” means the scheme set out in the 2015 Regulations;
 - “NHS employment”, in relation to the old scheme and the new scheme, has the meaning given in the respective Regulations;
 - “**non-pensionable 1995 Section member**” means a member of—
@@ -84,11 +84,11 @@ In these Regulations—
 - “**non-pensionable old scheme member**” means—
   - (a) a non-pensionable 1995 Section member; or
   - (b) a non-pensionable 2008 Section member;
-- “officer transition member” means a person other than a non-pensionable old scheme member[^key-cc8d11286035345f4eb18927499e9704] who is both a member of—
+- “officer transition member” means a person other than a non-pensionable old scheme member[^c-cc8d11286035345f4eb18927499e9704] who is both a member of—
   - (a) the old scheme by virtue of having pensionable service in that scheme to which paragraph 1(2)(i) and (ii) or paragraph 2(2)(i) and (ii) of Schedule 7 (final salary link) to the 2013 Act applies; and
   - (b) the new scheme by virtue of having pensionable service in that scheme that would have been treated as officer service for the purposes of the old scheme had it been service in the old scheme;
 - “old scheme” means the National Health Service Pension Scheme for Scotland as set out in the 2011 Regulations and the 2013 Regulations;
-- “practitioner transition member” means a person other than a non-pensionable old scheme member[^key-8703417a2f835726939e3355e7c1a9ff]—
+- “practitioner transition member” means a person other than a non-pensionable old scheme member[^c-8703417a2f835726939e3355e7c1a9ff]—
   - (a) who is both a member of—
     - (i) the old scheme by virtue of having pensionable service to which Schedule 1 to the 2011 Regulations or Part 3 of the 2013 Regulations applies;
     - (ii) the new scheme by virtue of having pensionable service in that scheme that would have been treated as practitioner service for the purposes of the old scheme had it been service in the old scheme; and
@@ -101,13 +101,13 @@ In these Regulations—
 
 ### CHAPTER 1 — Eligibility
 
-#### 3. Eligibility of pensioners[^key-d2a19c6ca95a161788ebbfbd240ffbbf]
+#### 3. Eligibility of pensioners[^c-d2a19c6ca95a161788ebbfbd240ffbbf]
 
 Schedule 1 (eligibility of pensioners) has effect.
 
 ### CHAPTER 2 — Notices and elections
 
-#### 4. Carry-forward of old scheme opt-out[^key-462a36d1813df292f916d9d937c68a31]
+#### 4. Carry-forward of old scheme opt-out[^c-462a36d1813df292f916d9d937c68a31]
 
 Where, on the date a person becomes eligible to join the new scheme, that person has—
 
@@ -118,7 +118,7 @@ Where, on the date a person becomes eligible to join the new scheme, that person
 
 that person is to be treated as having also opted out under paragraph 1 of Schedule 4 to the 2015 Regulations or given notice for the purposes of the 2010 Regulations in relation to the new scheme.
 
-#### 5. Nominations, notices and declarations[^key-0855136ec5b32bd1a6a66348ef950908]
+#### 5. Nominations, notices and declarations[^c-0855136ec5b32bd1a6a66348ef950908]
 
 (1) Paragraph (2) applies where—
 
@@ -140,7 +140,7 @@ that person is to be treated as having also opted out under paragraph 1 of Sched
   </tbody>
   </table>
 
-  [^key-f1a2a8dd2e3284ef9dd7db609c070218][^key-d84b29cac5513d76be02894c150dbb80][^key-f336257a54e1d3993cd0280f85da1da0]
+  [^c-f1a2a8dd2e3284ef9dd7db609c070218][^c-d84b29cac5513d76be02894c150dbb80][^c-f336257a54e1d3993cd0280f85da1da0]
 
 (2) Where this paragraph applies, for the purposes of the 2015 Scheme the nomination, notice or declaration mentioned is to be treated as if it had been accepted by the scheme manager as the corresponding notice or declaration in column 2 of the table in paragraph (1).
 
@@ -156,11 +156,11 @@ that person is to be treated as having also opted out under paragraph 1 of Sched
 
 ### CHAPTER 3 — Membership status and breaks in service
 
-#### 6. Active member status preservation[^key-5f92b69ff7ac1a0025189d0f21bad79c]
+#### 6. Active member status preservation[^c-5f92b69ff7ac1a0025189d0f21bad79c]
 
 Unless otherwise provided in these Regulations, a person who is an active member of the new scheme is to be treated, for the purposes of the old scheme, as though he or she continues to be an active member of the old scheme notwithstanding the operation of section 18(1) of the 2013 Act.
 
-#### 7. Qualifying service[^key-0f8f45596b9df2e33ddf888904d264ba]
+#### 7. Qualifying service[^c-0f8f45596b9df2e33ddf888904d264ba]
 
 (1) In determining whether a transition member who is in pensionable service under the new scheme qualifies for retirement benefits (other than ill-health pension) under the old scheme, the member’s pensionable service under the old scheme terminates when the member’s pensionable service under the new scheme terminates.
 
@@ -186,14 +186,14 @@ in relation to service in that Section.
 - (a) regulation C3 of the 2011 Regulations; or
 - (b) regulation 2.A.5 or 3.A.5 of the 2013 Regulations.
 
-#### 8. Members on authorised unpaid leave[^key-d2beda9455bf7911ef1c9ce4f991bb4a]
+#### 8. Members on authorised unpaid leave[^c-d2beda9455bf7911ef1c9ce4f991bb4a]
 
 Where, on the date a person becomes eligible to join the new scheme, that person is on a leave of absence during which the person is paying contributions pursuant to regulation P3 of the 2011 Regulations or regulation 2.A.5(3) or 3.A.4(3) of the 2013 Regulations—
 
 - (a) regulation 21 of the 2015 Regulations applies to that person; and
 - (b) for the purposes of determining whether and for how long that person may continue to pay contributions under the 2015 Regulations, the contributions paid and the period of absence under the old scheme must be taken into account.
 
-#### 9. Casual staff and locums not working on eligibility date[^key-770d8ea0fb9180a41b9a562830597877]
+#### 9. Casual staff and locums not working on eligibility date[^c-770d8ea0fb9180a41b9a562830597877]
 
 Paragraph (2) applies where, on the date a person becomes eligible to join the new scheme, that person—
 
@@ -204,7 +204,7 @@ Paragraph (2) applies where, on the date a person becomes eligible to join the n
 
 (2) Regulation 22(5) and (6) of the 2015 Regulations applies as though the member’s relevant break had commenced whilst the member was an active member of the new scheme.
 
-#### 10. Disqualifying breaks in service[^key-4cb343a68ac9b522abebad7b9d180e77]
+#### 10. Disqualifying breaks in service[^c-4cb343a68ac9b522abebad7b9d180e77]
 
 (1) Paragraph (3) applies to a member with pensionable service in the old scheme who—
 
@@ -248,11 +248,11 @@ Paragraph (2) applies where, on the date a person becomes eligible to join the n
 
   within six months of joining the new scheme.
 
-#### 10A. Effect of recommencing service after break[^key-3b45bbd96109ce9ac16719bc6d66f712]
+#### 10A. Effect of recommencing service after break[^c-3b45bbd96109ce9ac16719bc6d66f712]
 
 (1) Paragraph (2) applies where—
 
-- (a) on the date a person other than a non-pensionable old scheme member[^key-1933f9411ac5544f9e194b4a27ce6958] becomes eligible to join the new scheme that person is absent from work because of illness or injury and that person’s earnings have ceased either—
+- (a) on the date a person other than a non-pensionable old scheme member[^c-1933f9411ac5544f9e194b4a27ce6958] becomes eligible to join the new scheme that person is absent from work because of illness or injury and that person’s earnings have ceased either—
   - (i) in the circumstances described in regulation P1 of the 2011 Regulations; or
   - (ii) in the circumstances described in regulation 2.A.10(7) or 3.A.8(4) of the 2013 Regulations; and
 - (b) on the date the person’s employment is terminated or the person dies (“the relevant date”)—
@@ -271,35 +271,35 @@ Paragraph (2) applies where, on the date a person becomes eligible to join the n
 
 ### CHAPTER 4 — Contributions and final pay
 
-#### 11. Contribution rate setting : Groups A to C[^key-eba896b9d433ddd17c930bfbd1f088d0]
+#### 11. Contribution rate setting : Groups A to C[^c-eba896b9d433ddd17c930bfbd1f088d0]
 
-(1) This regulation applies to a transition member who belongs to Group A, B, or C in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^key-019114b9117544f82fb6515a186245ea] was—
+(1) This regulation applies to a transition member who belongs to Group A, B, or C in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^c-019114b9117544f82fb6515a186245ea] was—
 
 - (a) a member in pensionable employment in the 1995 Section; or
 - (b) an active member of the 2008 Section.
 
-(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^key-e3b77a4785cc9986a43c6949bb5c7654]—
+(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^c-e3b77a4785cc9986a43c6949bb5c7654]—
 
 - (a) paragraph 2 of Schedule 9 to the 2015 Regulations applies as though the member was in pensionable service with the same employing authority on both—
   - (i) the last day of the previous scheme year, and
   - (ii) the first day of the current scheme year;
-- (b) in determining which of the cases the member falls into pursuant to sub-paragraph (2) of that paragraph, the member is to be assessed as if during the scheme year 1st April 2021 to 31st March 2022[^key-e310ced699ee86866accefd8c08d8a11]—
+- (b) in determining which of the cases the member falls into pursuant to sub-paragraph (2) of that paragraph, the member is to be assessed as if during the scheme year 1st April 2021 to 31st March 2022[^c-e310ced699ee86866accefd8c08d8a11]—
   - (i) that member’s pensionable employment (within the meaning of the 1995 Section) or active service (within the meaning of the 2008 Section) was actually pensionable employment under the 2015 Regulations; and
   - (ii) the percentage rate of contributions paid by the member during that year in the relevant Section was actually the percentage rate of contributions paid during the previous scheme year under the 2015 Regulations.
 
-#### 12. Contribution rate setting : Group D[^key-4ba9d69682e257db8caea8e71560bac9]
+#### 12. Contribution rate setting : Group D[^c-4ba9d69682e257db8caea8e71560bac9]
 
-(1) This regulation applies to a transition member who belongs to Group D in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^key-259de2efaad8b86ea44dc4651e185740] was—
+(1) This regulation applies to a transition member who belongs to Group D in regulation 27(1) of the 2015 Regulations and who on 31st March 2022[^c-259de2efaad8b86ea44dc4651e185740] was—
 
 - (a) a member in pensionable employment in the 1995 Section; or
 - (b) an active member of the 2008 Section.
 
-(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^key-d8ee1372691bb06c6240708493235f32], in regulation 37(4)(b) of the 2015 Regulations the member’s most recent certified or final pensionable earnings are to be the member’s certified earnings or final pensionable earnings derived from the member’s—
+(2) Where this regulation applies, for the purposes of setting a contribution rate for the scheme year commencing on 1st April 2022[^c-d8ee1372691bb06c6240708493235f32], in regulation 37(4)(b) of the 2015 Regulations the member’s most recent certified or final pensionable earnings are to be the member’s certified earnings or final pensionable earnings derived from the member’s—
 
 - (a) pensionable employment in the 1995 Section, in accordance with paragraph 31 of Schedule 1 to the 2011 Regulations; or
 - (b) active service in the 2008 Section, in accordance with regulation 3.J.14 of the 2013 Regulations.
 
-#### 13. Taper protection for contribution tiering[^key-e5560da32fc08af213541cfea30bc4ce]
+#### 13. Taper protection for contribution tiering[^c-e5560da32fc08af213541cfea30bc4ce]
 
 (1) This regulation applies to —
 
@@ -320,21 +320,21 @@ Paragraph (2) applies where, on the date a person becomes eligible to join the n
   - (i) a contracting Health Board (or someone appointed to act on it behalf) adjusts the member’s contribution rates pursuant to regulation 37(6) or 38(3) of the 2015 Regulations; or
   - (ii) paragraph (2)(a) or (b) of regulation 37 of the 2015 Regulations is subsequently satisfied in respect of the member (in which case the member must pay the rate determined in accordance with paragraph (3) of that regulation).
 
-#### 14. Determination of pensionable pay, final pensionable pay and reckonable pay[^key-1f4cbf613cf59af83a1d5bac57fe8b0e]
+#### 14. Determination of pensionable pay, final pensionable pay and reckonable pay[^c-1f4cbf613cf59af83a1d5bac57fe8b0e]
 
-(1) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^key-c7eef6de8c6cd552d4ce09ad30da6d53], the member’s pensionable pay and final year’s pensionable pay are to be determined by reference to the 2011 Regulations (see in particular Part C of those Regulations).
+(1) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^c-c7eef6de8c6cd552d4ce09ad30da6d53], the member’s pensionable pay and final year’s pensionable pay are to be determined by reference to the 2011 Regulations (see in particular Part C of those Regulations).
 
-(2) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 2008 officer transition member or a non-pensionable 2008 Section member[^key-6ddb787f987dec7bf90f458f0acc0107], the member’s pensionable pay and reckonable pay are to be determined by reference to the 2013 Regulations (see in particular Chapter 2.A of Part 2 of those Regulations).
+(2) For any purpose of the old scheme including the calculation of benefits payable under that scheme to or in respect of a 2008 officer transition member or a non-pensionable 2008 Section member[^c-6ddb787f987dec7bf90f458f0acc0107], the member’s pensionable pay and reckonable pay are to be determined by reference to the 2013 Regulations (see in particular Chapter 2.A of Part 2 of those Regulations).
 
-#### 15. No refund of contributions in cases of inordinate pay[^key-67cdeb4fb783b9c484d19b1a395e9ce0]
+#### 15. No refund of contributions in cases of inordinate pay[^c-67cdeb4fb783b9c484d19b1a395e9ce0]
 
-Where the Scottish Ministers determine the amount of a member’s final years’ pensionable pay in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^key-c34a3daad22749d7e7f9dc8a9592ad08] pursuant to paragraph (17) of regulation C1 of the 2011 Regulations, no refund of contributions is payable under paragraphs (19)(b) and (c) of that regulation.
+Where the Scottish Ministers determine the amount of a member’s final years’ pensionable pay in respect of a 1995 officer transition member or a non-pensionable 1995 Section member[^c-c34a3daad22749d7e7f9dc8a9592ad08] pursuant to paragraph (17) of regulation C1 of the 2011 Regulations, no refund of contributions is payable under paragraphs (19)(b) and (c) of that regulation.
 
-#### 16. Cessation of final salary link on payment of benefits[^key-f941bfc066dbac8e432145745c9c75f6]
+#### 16. Cessation of final salary link on payment of benefits[^c-f941bfc066dbac8e432145745c9c75f6]
 
-Where an officer transition member’s benefits or a non-pensionable old scheme member’s benefits[^key-525106ff162074edfe6334c1dbe5e75b] under the old scheme calculated by reference to Schedule 7 to the 2013 Act have been put into payment, those benefits cannot be recalculated by reference to that Schedule where there is a subsequent period of pensionable public service within the meaning of paragraph 3 of that Schedule.
+Where an officer transition member’s benefits or a non-pensionable old scheme member’s benefits[^c-525106ff162074edfe6334c1dbe5e75b] under the old scheme calculated by reference to Schedule 7 to the 2013 Act have been put into payment, those benefits cannot be recalculated by reference to that Schedule where there is a subsequent period of pensionable public service within the meaning of paragraph 3 of that Schedule.
 
-#### 17. Final salary link : mental health officers[^key-1b27cafadb9d56a76239c162d0fa3873]
+#### 17. Final salary link : mental health officers[^c-1b27cafadb9d56a76239c162d0fa3873]
 
 (1) This regulation applies to a 1995 officer transition member—
 
@@ -346,26 +346,26 @@ Where an officer transition member’s benefits or a non-pensionable old scheme 
 
 (2) Where this regulation applies, the final year’s pay to be used in the calculation of the member’s benefits under regulation R3(11) or (12) of the 2011 Regulations will be that derived from the member’s notional mental health officer service.
 
-#### 17A. Final salary link: non-pensionable old scheme members[^key-86a4747638cb31bf654ebcc4036a3f9b]
+#### 17A. Final salary link: non-pensionable old scheme members[^c-86a4747638cb31bf654ebcc4036a3f9b]
 
 (1) This regulation applies if benefits under the old scheme payable to or in respect of a non-pensionable old scheme member are to be calculated by reference to that member’s final salary as determined in accordance with Schedule 7 to the 2013 Act (“the member’s final salary link”).
 
 (2) Where this regulation applies, the benefits under the old scheme payable to or in respect of the member may be calculated without reference to the member’s final salary link if it would be more beneficial to the member or other beneficiary to do so.
 
-#### 18. Uprating of old scheme practitioner earnings[^key-fa5cda31ea4c481c80597c511673bec8]
+#### 18. Uprating of old scheme practitioner earnings[^c-fa5cda31ea4c481c80597c511673bec8]
 
-(1)[^key-8b49285f96ffcf1a89afae58ce9afc59] Subject to paragraphs (2) and (3), in relation to[^key-2d2ffddbf5659bc486053639b3deee01] a practitioner transition member, as regards the period in which the member is a member of the new scheme[^key-4774d48fa298bdec76472c126ad98957]—
+(1)[^c-8b49285f96ffcf1a89afae58ce9afc59] Subject to paragraphs (2) and (3), in relation to[^c-2d2ffddbf5659bc486053639b3deee01] a practitioner transition member, as regards the period in which the member is a member of the new scheme[^c-4774d48fa298bdec76472c126ad98957]—
 
 - (a) paragraph 15(2)(b) of Schedule 1 to the 2011 Regulations; and
 - (b) regulation 3.D.1(4) of the 2013 Regulations,
 
 apply as though the words “the annual increase due under the provisions of the Pensions (Increase) Act 1971 and section 59 of the Social Security Pensions Act 1975, plus” were omitted.
 
-(2)[^key-beb01f45e73e108c160dc74b9c0638ba] Paragraph (3) applies if a practitioner transition member is purchasing additional service pursuant to regulation 22 (existing additional service and unreduced lump sum contracts) of these Regulations.
+(2)[^c-beb01f45e73e108c160dc74b9c0638ba] Paragraph (3) applies if a practitioner transition member is purchasing additional service pursuant to regulation 22 (existing additional service and unreduced lump sum contracts) of these Regulations.
 
 (3) Paragraph (1) does not apply for the purposes of calculating that member’s uprated pensionable earnings in relation to that purchase for the purposes of sub-paragraph (5) of paragraph 26 (right to buy additional benefits) of schedule 1 of the 2011 Regulations.
 
-#### 19. Flexibility earnings credit : calculation[^key-1ecdf322499b99a0cbc29dfa6e9c4419]
+#### 19. Flexibility earnings credit : calculation[^c-1ecdf322499b99a0cbc29dfa6e9c4419]
 
 (1) This regulation and regulations 20 and 21 apply to a transition member who—
 
@@ -388,7 +388,7 @@ where—
 
   and the amounts of pension for the purposes of this calculation are amounts before any actuarial reduction is applied by reason of payment before normal pension age for the relevant Section.
 
-#### 20. Flexibility earnings credit : uprating[^key-2a351503a31c50317a8a851501e7270b]
+#### 20. Flexibility earnings credit : uprating[^c-2a351503a31c50317a8a851501e7270b]
 
 (1) The amount of a flexibility earnings credit calculated under regulation 19(2) is to be increased at the rate specified in paragraph (2) for each year or part year from the day after the last day of pensionable service in the old scheme until the earlier of—
 
@@ -400,7 +400,7 @@ in order to generate an uprated flexibility earnings credit.
 
 (2) The annual rate of increase of a flexibility earnings credit is the rate set for that year by the Scottish Ministers after having taken the advice of the scheme actuary for the purpose.
 
-#### 21. Flexibility earnings credit : adjustment of pension payable[^key-f2d4558811ea1cca56a6e658e87077ec]
+#### 21. Flexibility earnings credit : adjustment of pension payable[^c-f2d4558811ea1cca56a6e658e87077ec]
 
 (1) Where pension benefits are payable under the old scheme, the amount payable is adjusted as follows.
 
@@ -415,7 +415,7 @@ and the provisions of paragraphs 11 and 19 of Schedule 1 to the 2011 Regulations
 
 ### CHAPTER 5 — Additional contributions
 
-#### 22. Existing additional service and unreduced lump sum contracts[^key-1d08eeb4eeeeeb0266749c1b93870d19]
+#### 22. Existing additional service and unreduced lump sum contracts[^c-1d08eeb4eeeeeb0266749c1b93870d19]
 
 (1) This regulation applies to a member of the new scheme who—
 
@@ -433,7 +433,7 @@ and the provisions of paragraphs 11 and 19 of Schedule 1 to the 2011 Regulations
 
 and the member’s pensionable earnings in the new scheme are to be treated as the member’s pensionable pay in the 1995 Section for the purpose of determining the amount of any additional contributions due.
 
-#### 23. Existing additional pension contracts[^key-3928f1cca652343b2a3d7f42e043482f][^key-49c133ca001a7d9ae7f13ffeea78f57d]
+#### 23. Existing additional pension contracts[^c-3928f1cca652343b2a3d7f42e043482f][^c-49c133ca001a7d9ae7f13ffeea78f57d]
 
 (1) This regulation applies to a member of the new scheme who—
 
@@ -464,7 +464,7 @@ and the member’s pensionable earnings in the new scheme are to be treated as t
 
   of the 2013 Regulations.
 
-#### 24. Additional contributions : ill-health[^key-73ae27e32c29e29621e86ee5a5785d0f]
+#### 24. Additional contributions : ill-health[^c-73ae27e32c29e29621e86ee5a5785d0f]
 
 Where regulation 22 or 23 applies, references to—
 
@@ -474,16 +474,16 @@ Where regulation 22 or 23 applies, references to—
 
 are to be read as references to an ill-health pension under regulation 89 of the 2015 Regulations in accordance with regulations 28 and 29 of these Regulations.
 
-#### 25. Decoupling of benefits derived from additional contributions[^key-800c4e3144986a6aec8e0ff44a060985]
+#### 25. Decoupling of benefits derived from additional contributions[^c-800c4e3144986a6aec8e0ff44a060985]
 
 (1) This regulation applies to a transition member who has accrued entitlements in the 1995 Section from the payment of additional contributions under Part Q of the 2011 Regulations.
 
 (2) Where this regulation applies, the member may elect that the part of a pension payable under regulation E1 of the 2011 Regulations derived solely from the payment of additional contributions under Part Q of those Regulations should be payable from—
 
-- (a) the member’s chosen date (as defined in regulation Q5, except as provided for in paragraph (10) below , or, if later, the date on which the member joins the new scheme[^key-ce9c591ec6eb0a7b643143b57625a010]), in the case of purchase of additional service or an unreduced retirement lump sum;
-- (b) the member’s chosen birthday (as defined in regulation Q8, except as provided for in paragraph (10) below , or, if later, the date on which the member joins the new scheme[^key-b9b2b9d7cf8f12632d8aa7444f1eda2a]), in the case of purchase of additional pension,
+- (a) the member’s chosen date (as defined in regulation Q5, except as provided for in paragraph (10) below , or, if later, the date on which the member joins the new scheme[^c-ce9c591ec6eb0a7b643143b57625a010]), in the case of purchase of additional service or an unreduced retirement lump sum;
+- (b) the member’s chosen birthday (as defined in regulation Q8, except as provided for in paragraph (10) below , or, if later, the date on which the member joins the new scheme[^c-b9b2b9d7cf8f12632d8aa7444f1eda2a]), in the case of purchase of additional pension,
 
-notwithstanding the fact that the member continues in pensionable service under the new scheme (and for the purposes of any calculation, the member is to be taken to have retired from pensionable service on the member’s chosen date or [^key-2bed47ec0756d272b98b858a6b6915ab]... chosen birthday (as applicable) or, if later, the date on which the member joins the new scheme[^key-f50c39061c2c57d5e96fa57b866cc14d]).
+notwithstanding the fact that the member continues in pensionable service under the new scheme (and for the purposes of any calculation, the member is to be taken to have retired from pensionable service on the member’s chosen date or [^c-2bed47ec0756d272b98b858a6b6915ab]... chosen birthday (as applicable) or, if later, the date on which the member joins the new scheme[^c-f50c39061c2c57d5e96fa57b866cc14d]).
 
 (3) Paragraph (4) applies where the member has—
 
@@ -502,7 +502,7 @@ notwithstanding the fact that the member continues in pensionable service under 
 
 (5) Regulations E13 and E17 of the 2011 Regulations (where relevant) apply in relation to a payment made pursuant to this regulation.
 
-(6) An election for the purposes of paragraph (2) must be given in writing to the scheme manager, containing such information as the scheme manager requires—[^key-df5774821363de9cacd867257d108960]
+(6) An election for the purposes of paragraph (2) must be given in writing to the scheme manager, containing such information as the scheme manager requires—[^c-df5774821363de9cacd867257d108960]
 
 - (a) no later than one month before the member’s chosen date or chosen birthday (as applicable); or
 - (b) if—
@@ -523,12 +523,12 @@ notwithstanding the fact that the member continues in pensionable service under 
 - (b) the 2011 Regulations apply to the member’s remaining entitlements under those Regulations as though no additional contributions had been made under Part Q; and
 - (c) no further pension in respect of the additional contributions actually paid under Part Q of the 2011 Regulations is payable under those Regulations.
 
-(9) The scheme manager must notify the member in writing of the right to make an election under this regulation—[^key-83e1a87e9ada59db731588d10911952f]
+(9) The scheme manager must notify the member in writing of the right to make an election under this regulation—[^c-83e1a87e9ada59db731588d10911952f]
 
 - (a) at least six months before the member’s chosen date or chosen birthday (as applicable); or
 - (b) if the member joins the new scheme at a time specified in paragraph (6)(b)(i) or (ii), no later than three months after the date on which the member joins the new scheme.
 
-(9A)[^key-3be94e2081608c66f6825f9e97e23de7] A notice for the purpose of paragraph (9) must specify—
+(9A)[^c-3be94e2081608c66f6825f9e97e23de7] A notice for the purpose of paragraph (9) must specify—
 
 - (a) the date on which any pension payable pursuant to this regulation would come into payment were an election to be made;
 - (b) the amount of any pension payable under this regulation (before any option to commute part of the pension into a lump sum); and
@@ -541,7 +541,7 @@ notwithstanding the fact that the member continues in pensionable service under 
 
 ### CHAPTER 6 — Bulk Transfers
 
-#### 26. Acceptance of bulk transfers[^key-8b1e19501a7d8b1b1e432701af06967f]
+#### 26. Acceptance of bulk transfers[^c-8b1e19501a7d8b1b1e432701af06967f]
 
 (1) If, in circumstances where regulation 147 of the 2015 Regulations applies, the special terms agreed for the acceptance of transfer payments require such part of a transfer value payment as relates to a member’s final salary benefits to be paid into the 1995 Section or the 2008 Section, that part of the transfer value must be paid into that Section.
 
@@ -552,20 +552,20 @@ notwithstanding the fact that the member continues in pensionable service under 
 
 ### CHAPTER 7 — Retirement benefits
 
-#### 27. Ill health benefits : continuity of existing applications[^key-29266b1e7f554ecd8a7ae7e7ee3c21ec]
+#### 27. Ill health benefits : continuity of existing applications[^c-29266b1e7f554ecd8a7ae7e7ee3c21ec]
 
-(1) This regulation , except paragraph (1A) and paragraph (2) to the extent that it relates to paragraph (1A),[^key-0cf24b77bcb1fca082c7aade50c4485d] applies during the application period[^key-f59424e2b30129454aa9f2b443646cb7] to a member—
+(1) This regulation , except paragraph (1A) and paragraph (2) to the extent that it relates to paragraph (1A),[^c-0cf24b77bcb1fca082c7aade50c4485d] applies during the application period[^c-f59424e2b30129454aa9f2b443646cb7] to a member—
 
-- (a) who, the transition date[^key-3458efcd9de14d47e640ce4ce5069e4a]—
-  - (i) is prevented from contributing to or accruing further pensionable[^key-dae3c39d2163cd95f1f627c9c569e16e] service in the 1995 Section or being an active member of the 2008 Section[^key-b57b566c9956e493da46ab621a841075]; and
-    - (aa)[^key-653af20ad41e65dc7e81a9bbb5e01fb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-    - (bb)[^key-32901e7f7e0beb83f3850892cd821fe0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) becomes eligible to join the new scheme [^key-b98c0bb95cd34137ebe451c4b745fb2c]...;
+- (a) who, the transition date[^c-3458efcd9de14d47e640ce4ce5069e4a]—
+  - (i) is prevented from contributing to or accruing further pensionable[^c-dae3c39d2163cd95f1f627c9c569e16e] service in the 1995 Section or being an active member of the 2008 Section[^c-b57b566c9956e493da46ab621a841075]; and
+    - (aa)[^c-653af20ad41e65dc7e81a9bbb5e01fb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb)[^c-32901e7f7e0beb83f3850892cd821fe0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) becomes eligible to join the new scheme [^c-b98c0bb95cd34137ebe451c4b745fb2c]...;
 - (b) who submitted an application in such form as the Scottish Ministers accepted (together with supporting medical evidence if not included in the form) for the purposes of regulation E3 of the 1995 Section or regulation 2.D.8 or 3.D.7 of the 2008 Section before the transition date;
 - (c) whose application and supporting medical evidence was received by the Scottish Ministers before the transition date; and
 - (d) whose ill-health pension has not become payable under the 1995 Section or the 2008 Section before the transition date.
 
-(1A)[^key-e71bd21b69b861b3206d44f526f7d08e] This regulation, except paragraph (1) and paragraph (2) to the extent that it relates to paragraph (1), applies during the application period to a member—
+(1A)[^c-e71bd21b69b861b3206d44f526f7d08e] This regulation, except paragraph (1) and paragraph (2) to the extent that it relates to paragraph (1), applies during the application period to a member—
 
 - (a) who has remediable service in the legacy scheme up to and including 31 March 2022—
   - (i) that is pensionable service under that scheme by virtue of section 2(1) of PSPJOA 2022; and
@@ -577,28 +577,28 @@ notwithstanding the fact that the member continues in pensionable service under 
 - (d) whose claim and supporting medical evidence (“the member’s application for ill-health pension”) was received by the Scottish Ministers before the transition date; and
 - (e) whose ill-health pension had not become payable under the new scheme before the transition date.
 
-(2) For the purposes of[^key-40a3f96a1bea7b5254b8c16b0d5e384c] paragraphs (1) and (1A)[^key-306b00908ee06168ce3db664448dfc18], “**the application period**” in relation to a member is the period which ends with the day on which—
+(2) For the purposes of[^c-40a3f96a1bea7b5254b8c16b0d5e384c] paragraphs (1) and (1A)[^c-306b00908ee06168ce3db664448dfc18], “**the application period**” in relation to a member is the period which ends with the day on which—
 
 - (a) the member withdraws the application for ill-health pension; or
-- (b) the Scottish Ministers determine that there is no entitlement to an[^key-727dbe4839192da1224892a4ba396ec2] ill-health pension in respect of that application[^key-f6069c5fc4042bdc8a379cdcb3e52252] and that determination has become final and binding.
+- (b) the Scottish Ministers determine that there is no entitlement to an[^c-727dbe4839192da1224892a4ba396ec2] ill-health pension in respect of that application[^c-f6069c5fc4042bdc8a379cdcb3e52252] and that determination has become final and binding.
 
-(3) For the purposes of paragraph (2)(b), a determination becomes final and binding when—[^key-7257d8eae3243a7f75d948f25d7a9f3f]
+(3) For the purposes of paragraph (2)(b), a determination becomes final and binding when—[^c-7257d8eae3243a7f75d948f25d7a9f3f]
 
 - (a) the determination may not be the subject of further challenge by the member—
   - (i) pursuant to dispute resolution arrangements made and implemented under section 50 of the Pensions Act 1995[^f00008];
   - (ii) by way of a complaint to the Pensions Ombudsman pursuant to Part X of the Pension Schemes Act 1993[^f00009]; or
-  - (iii) by proceedings before a court or tribunal;[^key-efc83bfcf884be81e155eefd6d2e94b9] or
-- (b) [^key-2c1f44906ae198b37ea2aa4ab3eb194c]... the member has indicated in writing that—
+  - (iii) by proceedings before a court or tribunal;[^c-efc83bfcf884be81e155eefd6d2e94b9] or
+- (b) [^c-2c1f44906ae198b37ea2aa4ab3eb194c]... the member has indicated in writing that—
   - (i) the application for ill-health pension is withdrawn; or
   - (ii) the determination is accepted by the member as being final and binding and any right to further challenge is waived.
 
-(4)[^key-47a5a3833efbe1b9cbf037dd2d8c0631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-47a5a3833efbe1b9cbf037dd2d8c0631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-47a5a3833efbe1b9cbf037dd2d8c0631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-47a5a3833efbe1b9cbf037dd2d8c0631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-47a5a3833efbe1b9cbf037dd2d8c0631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-47a5a3833efbe1b9cbf037dd2d8c0631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-68f77291887125057f3c68ab135e3230] Where this regulation applies—
+(7)[^c-68f77291887125057f3c68ab135e3230] Where this regulation applies—
 
 - (a) the member’s application for ill-health pension is considered in accordance with paragraph (8) or (9) (whichever is relevant); and
 - (b) the member’s benefits, if any, are paid in accordance with paragraph (10) and the further provisions referred to in that paragraph.
@@ -690,11 +690,11 @@ notwithstanding the fact that the member continues in pensionable service under 
 - “**the 2013 ill-health conditions**” has the meaning given in paragraph (10)(b);
 - “**the 2015 regulation 89 ill-health conditions**” has the meaning given in paragraph (10)(a);
 - “**the deceased member**” has the meaning given in paragraph (17);
-- [^M_F_c913630e-c04a-4b38-caa0-26bd8f5b1107][^M_F_40192bcb-ef73-422b-a0de-defc85ca41dd]“**the member’s application for ill-health pension**” has the meaning given in paragraph (1)(c) or (1A)(d) (whichever is relevant)[^key-419e5a328d8697c465086dd989a4cea4];
-- “[^key-931b90da906032d37c941a88ad10d786]**the transition date**” means 1 April 2022;
+- [^M_F_c913630e-c04a-4b38-caa0-26bd8f5b1107][^M_F_40192bcb-ef73-422b-a0de-defc85ca41dd]“**the member’s application for ill-health pension**” has the meaning given in paragraph (1)(c) or (1A)(d) (whichever is relevant)[^c-419e5a328d8697c465086dd989a4cea4];
+- “[^c-931b90da906032d37c941a88ad10d786]**the transition date**” means 1 April 2022;
 - “**the pension comparison calculation**” has the meaning given in paragraph (10)(c)(ii).
 
-#### 28. Ill health benefits : members below old scheme normal pension age[^key-5f45e1de6c717e683a5f9d01257c1e2c]
+#### 28. Ill health benefits : members below old scheme normal pension age[^c-5f45e1de6c717e683a5f9d01257c1e2c]
 
 (1) This regulation applies in relation to a transition member who—
 
@@ -730,11 +730,11 @@ by virtue of becoming a deferred member pursuant to this regulation).
 
 (6) The amount of pension payable under this regulation which represents the amount that would have been payable under the old scheme is subject to the same conditions, and ceases to be payable in the same circumstances, as the pension to which the member would have been entitled under the old scheme in accordance with whichever of the 2011 Regulations or the 2013 Regulations are applicable.
 
-(6A)[^key-a3fdddebf5ad75b1ac43db4b97366923] Paragraphs (6B) and (6C) apply if a member receiving an ill-health pension under this regulation dies before reaching the old scheme normal pension age.
+(6A)[^c-a3fdddebf5ad75b1ac43db4b97366923] Paragraphs (6B) and (6C) apply if a member receiving an ill-health pension under this regulation dies before reaching the old scheme normal pension age.
 
-(6B) If a surviving adult dependant of the member is entitled to a pension in accordance with regulation 115 (amount of pension: survivor of pensioner member) of the 2015 Regulations the annual rate of the adult survivor pension payable under paragraph (4)(a) of that regulation is [^key-7c628c8ab816dbc3e92483f77ae1f285]...—
+(6B) If a surviving adult dependant of the member is entitled to a pension in accordance with regulation 115 (amount of pension: survivor of pensioner member) of the 2015 Regulations the annual rate of the adult survivor pension payable under paragraph (4)(a) of that regulation is [^c-7c628c8ab816dbc3e92483f77ae1f285]...—
 
-- (a)[^key-e519e2632d387b84c34ea1432bb4617f] if the member was in pensionable employment in the 1995 Section before becoming an active member of the new scheme, the sum of—
+- (a)[^c-e519e2632d387b84c34ea1432bb4617f] if the member was in pensionable employment in the 1995 Section before becoming an active member of the new scheme, the sum of—
   - (i) 33.75% of the pension to which the member was entitled at the date of death (disregarding any additional pension) under the new scheme;
   - (ii) 16.25% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
   - (iii) 16.25% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation; or
@@ -743,9 +743,9 @@ by virtue of becoming a deferred member pursuant to this regulation).
   - (ii) 3.75% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
   - (iii) 3.75% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation.
 
-(6C) If a child’s pension becomes payable in respect of an eligible child of the member in accordance with regulation 123 (amount of child pension: deceased pensioner member) of the 2015 Regulations the basic death pension for the purposes of paragraph (3)(a) of that regulation is [^key-17e0ea5efef7675c515f588b9a232702]...—
+(6C) If a child’s pension becomes payable in respect of an eligible child of the member in accordance with regulation 123 (amount of child pension: deceased pensioner member) of the 2015 Regulations the basic death pension for the purposes of paragraph (3)(a) of that regulation is [^c-17e0ea5efef7675c515f588b9a232702]...—
 
-- (a)[^key-bd5145a4ad5db0338c359a92d5eae49b] if the member was in pensionable employment in the 1995 Section before becoming an active member of the new scheme, the sum of—
+- (a)[^c-bd5145a4ad5db0338c359a92d5eae49b] if the member was in pensionable employment in the 1995 Section before becoming an active member of the new scheme, the sum of—
   - (i) 67.5% of the deceased member’s annual pension (disregarding any additional pension) under the new scheme;
   - (ii) 32.5% of the amount (if any) by which that pension has been increased in accordance with regulation 27(16); and
   - (iii) 32.5% of the old scheme pension to which the member was entitled at the date of death in accordance with paragraph (3)(a)(ii) of this regulation; or
@@ -767,7 +767,7 @@ by virtue of becoming a deferred member pursuant to this regulation).
   - (i) as regards the 1995 Section, normal benefit age under the 2011 Regulations; or
   - (ii) as regards the 2008 Section, the age specified in regulation 2.D.1 or 3.D.1 (normal retirement pensions) of the 2013 Regulations.
 
-#### 29. Ill health benefits : members above old scheme normal pension age[^key-fdeb43e0e9927d007349f4657dd4f828]
+#### 29. Ill health benefits : members above old scheme normal pension age[^c-fdeb43e0e9927d007349f4657dd4f828]
 
 (1) This regulation applies in relation to a transition member who is receiving payment of an ill-health pension in accordance with regulation 28.
 
@@ -787,7 +787,7 @@ by virtue of becoming a deferred member pursuant to this regulation).
 - (a) that pension was eligible to be so increased; and
 - (b) the beginning date for that pension was the date that ill-health pension became payable under the new scheme.
 
-#### 30. Age retirement of mental health officers, nurses, physiotherapists, midwives and health visitors[^key-75da0688cf8ec62251e29c8bc2ae12c2]
+#### 30. Age retirement of mental health officers, nurses, physiotherapists, midwives and health visitors[^c-75da0688cf8ec62251e29c8bc2ae12c2]
 
 (1) In regulation R2 of the 2011 Regulations, references to “pensionable employment” in paragraphs (1)(b) and (2) includes employment that qualified the 1995 officer transition member for benefits under the 2015 Regulations.
 
@@ -796,24 +796,24 @@ by virtue of becoming a deferred member pursuant to this regulation).
 - (a) the reference to “pensionable employment” in paragraph (2) includes employment that qualified the member for benefits under the 2015 Regulations; and
 - (b) references to “pensionable service” in paragraph (5)(a) include service that qualified the member for benefits under the 2015 Regulations.
 
-#### 31. Partial retirement[^key-feec4dbd166a42c11d372b5a2f7cea13]
+#### 31. Partial retirement[^c-feec4dbd166a42c11d372b5a2f7cea13]
 
-(1)  Where a transition member or non-pensionable old scheme member elects to claim a specified percentage of that member’s pension pursuant to regulation 83 of the 2015 Regulations, that election is to be treated as also being an option for the purposes of partial retirement pension pursuant to whichever of the following regulations applies to the member—[^key-e361bb923d1e8a80d125201cf0bad340]
+(1)  Where a transition member or non-pensionable old scheme member elects to claim a specified percentage of that member’s pension pursuant to regulation 83 of the 2015 Regulations, that election is to be treated as also being an option for the purposes of partial retirement pension pursuant to whichever of the following regulations applies to the member—[^c-e361bb923d1e8a80d125201cf0bad340]
 
 - (a) regulation E11A of the 2011 Regulations (with or without the modifications made in paragraph 16A of Schedule 2), or
 - (b) regulations 2.D.5 or 3.D.5 of the 2013 Regulations.
 
-(2)[^key-d41e93e8460acd7767bd179e62da0eaf] A transition member or non-pensionable old scheme member does not become entitled to a specified percentage of a pension under regulation 83 of the 2015 Regulations until the member has become entitled to and claimed all the benefits in—
+(2)[^c-d41e93e8460acd7767bd179e62da0eaf] A transition member or non-pensionable old scheme member does not become entitled to a specified percentage of a pension under regulation 83 of the 2015 Regulations until the member has become entitled to and claimed all the benefits in—
 
 - (a) the 1995 Section, or
 - (b) the 2008 Section.
 
-(3)[^key-9fb558a5a28ad2917bde72d7cb7b16b5] For the purposes of regulation E11A(7) of, and paragraph 16A to Schedule 2 to, the 2011 Regulations, regulation 2.D.5(6) and 3.D.5(5) of the 2013 Regulations and regulation 83(5) of the 2015 Regulations (as the case may be)—
+(3)[^c-9fb558a5a28ad2917bde72d7cb7b16b5] For the purposes of regulation E11A(7) of, and paragraph 16A to Schedule 2 to, the 2011 Regulations, regulation 2.D.5(6) and 3.D.5(5) of the 2013 Regulations and regulation 83(5) of the 2015 Regulations (as the case may be)—
 
 - (a) the pension, other than the pension claimed in respect of additional benefits (in the case of regulation E11A of the 2011 Regulations) or additional pension (in the case of regulation 2.D.5 and 3.D.5 of the 2013 Regulations), to which the member becomes entitled as a result of the option or election (before converting pension to lump sum) is not to be less than the amount of pension payable by reference to 20% of the aggregate of the member’s pensionable service under the 2011 Regulations, or the 2013 Regulations (as the case may be), and the 2015 Regulations at the end of the option day, and
 - (b) taken together with any increase to which the member has become entitled as a result of the option or election, the aggregate of the member’s pension under the 2011 Regulations, or the 2013 Regulations (as the case may be), and the 2015 Regulations is not less than 0.05% of the member’s lump sum and death benefit allowance on the option day.
 
-#### 32. Redundancy retirement[^key-8ec22ff8540038749936aa08590397c0]
+#### 32. Redundancy retirement[^c-8ec22ff8540038749936aa08590397c0]
 
 (1) This regulation applies where an officer transition member other than one to whom regulation 33 applies—
 
@@ -835,7 +835,7 @@ by virtue of becoming a deferred member pursuant to this regulation).
   - (i) service to which Schedule 1 to the 2011 Regulations applies; or
   - (ii) service to which Part 3 of the 2013 Regulations applies.
 
-#### 33. Premature retirement : special classes[^key-bf4901be3eb0f83372e25ca19b7af0ae]
+#### 33. Premature retirement : special classes[^c-bf4901be3eb0f83372e25ca19b7af0ae]
 
 (1) This regulation applies where a 1995 officer transition member to whom regulation R2 or R3 of the 2011 Regulations applies in respect of service in that Section—
 
@@ -849,26 +849,26 @@ by virtue of becoming a deferred member pursuant to this regulation).
 - (a) the member is to be treated as having claimed payment of a pension under regulation E1 of those Regulations; and
 - (b) in the case of a member to who regulation R2(4)(b) of the 2011 Regulations applies, the member is also entitled to a pension under regulation E11 of the 2011 Regulations if that member makes a claim for it.
 
-#### 34. Interests of efficiency of the service[^key-726cf3923961e3df9a80ba810e48cbab]
+#### 34. Interests of efficiency of the service[^c-726cf3923961e3df9a80ba810e48cbab]
 
 Where an officer transition member other than one entitled to a pension pursuant to regulation R2 or R3 of the 2011 Regulations in respect of service in that Section becomes entitled to payment of a premature retirement pension pursuant to regulation 80 of the 2015 Regulations and claims that pension—
 
 - (a) the member at the same time becomes eligible to a pension under whichever of regulation E7 of the 2011 Regulations or regulation 2.D.11 of the 2013 Regulations applies to the member in relation to the termination of that member’s employment in the interests of efficiency of the service in which the member is employed; and
 - (b) the member’s employing authority must make a contribution to the Scottish Ministers in respect of the cost of that pension in accordance with regulation D2 of the 2011 Regulations or 2.C.6 of the 2013 Regulations.
 
-#### 35. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (other than pensioners who have taken a partial retirement pension)[^key-b41853bc599d353d7162f0190bf6be4b][^key-3f1f02815c1c4a0f4dbf59d8a4d29573]
+#### 35. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (other than pensioners who have taken a partial retirement pension)[^c-b41853bc599d353d7162f0190bf6be4b][^c-3f1f02815c1c4a0f4dbf59d8a4d29573]
 
-(1) This regulation applies to persons falling in Groups 1 to 4 , 6 and 7[^key-ed2b4b4ce94954d5fe3788d56d3727e2] in the table at paragraph 1 of Schedule 1 and Groups 1 to 4 , 6 and 7[^key-baabc82674cf212c93b8ce6418ff7bd1] in the table at paragraph 2 of that Schedule other than persons who have taken a partial retirement pension[^key-1bf1b519385bae75b464bb0a6e6ae7b3].
+(1) This regulation applies to persons falling in Groups 1 to 4 , 6 and 7[^c-ed2b4b4ce94954d5fe3788d56d3727e2] in the table at paragraph 1 of Schedule 1 and Groups 1 to 4 , 6 and 7[^c-baabc82674cf212c93b8ce6418ff7bd1] in the table at paragraph 2 of that Schedule other than persons who have taken a partial retirement pension[^c-1bf1b519385bae75b464bb0a6e6ae7b3].
 
 (2) Where this regulation applies, a lump sum equal to five times the rate of the relevant pension is to be paid in place of the lump sum payable to active members under regulation 111(a) and paragraph 2 of Schedule 12 to the 2015 Regulations.
 
-(3)[^key-1ed8fbeaec7376dec5a486f831f4c272] In this regulation “**partial retirement pension**” means a pension under—
+(3)[^c-1ed8fbeaec7376dec5a486f831f4c272] In this regulation “**partial retirement pension**” means a pension under—
 
 - (a) regulation E11A of the 2011 Regulations,
 - (b) regulation 2.D.5 or 3.D.5 of the 2013 Regulations, or
 - (c) regulation 83 of the 2015 Regulations.
 
-#### 35A. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (pensioners who have taken a partial retirement pension)[^key-85af037f3800c3d8559b06b638385d65]
+#### 35A. Variations to lump sums for 1995 and 2008 pensioners joining new scheme (pensioners who have taken a partial retirement pension)[^c-85af037f3800c3d8559b06b638385d65]
 
 (1) This regulation applies to persons falling in Groups 1 to 4, 6, 7, 9 and 10 in the table at paragraph 1 of Schedule 1 and Groups 1 to 4, 6 and 7 in the table at paragraph 2 of Schedule 1 who have taken a partial retirement pension.
 
@@ -912,7 +912,7 @@ Where an officer transition member other than one entitled to a pension pursuant
   - (b) paragraph (4) of regulation 2.D.5 of the 2013 Regulations in the case of a member who has taken a partial retirement pension under that regulation, and
   - (c) paragraph (3) of regulation 3.D.5 of the 2013 Regulations in the case of a member who has taken a partial retirement pension under that regulation.
 
-#### 36. Abatement[^key-1b81e3be971faf3ca190af0cf12bfeda]
+#### 36. Abatement[^c-1b81e3be971faf3ca190af0cf12bfeda]
 
 (1) This regulation applies to an officer transition member who is—
 
@@ -943,7 +943,7 @@ the enhancement amount for the purposes of regulation 2.H.4(2) of the 2013 Regul
 
 (7) Where the pensioner’s relevant income exceeds previous pay or earnings, the amount of any reduction that is to apply to the pensions payable under each of the 2013 Regulations and 2015 Regulations is equal to the same proportion of the excess as the amount of pension for the scheme year before the reduction bears to the sum of those pensions for that year before the reduction.
 
-#### 36A. Entitlement to additional retirement benefits[^key-222720f4f6d8d6549d2d4ec4a9f5b536]
+#### 36A. Entitlement to additional retirement benefits[^c-222720f4f6d8d6549d2d4ec4a9f5b536]
 
 (1) This regulation applies to or in respect of a member of the old scheme (M) who—
 
@@ -952,17 +952,17 @@ the enhancement amount for the purposes of regulation 2.H.4(2) of the 2013 Regul
 
 (2) Where, on the coming into force of regulations 12 and 18 of the National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (amendment of regulations 2.B.1 and 3.B.1 of the 2013 Regulations (eligibility: general)) the aggregate of the benefits that have been paid or would have become payable (but for the application of regulation 12 or 18) under the 2008 Section to any person (“**the beneficiary**”) in respect of, or associated with M’s pensionable service for the period beginning with 1 April 2015 and ending with 31 March 2022 exceeds the aggregate of the benefits to which the beneficiary is entitled or becomes entitled under the new scheme in respect of, or associated with M’s pensionable service for that period, the scheme manager of the new scheme must pay an amount equal to the difference to the beneficiary or if the beneficiary is deceased, that beneficiary’s personal representatives.
 
-#### 37. Abatement : special classes[^key-5cd7494a73d5cda5047ad848129719b3]
+#### 37. Abatement : special classes[^c-5cd7494a73d5cda5047ad848129719b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 8 — Death benefits
 
-#### 38. Death in service[^key-899cee5424e7af83d19b9dd1eb739ce5]
+#### 38. Death in service[^c-899cee5424e7af83d19b9dd1eb739ce5]
 
-(1) As regards a transition member[^key-75cc941becb95e32f295cf54ffbcfc69], or a person who derives a benefit from the old scheme or new scheme in respect of a transition member, the entitlement listed in column 1 of Table 1[^key-cd1cf597ec4c1b5c3b04f482eb6343c8] is disapplied and the corresponding entitlement in column 2 applies instead.
+(1) As regards a transition member[^c-75cc941becb95e32f295cf54ffbcfc69], or a person who derives a benefit from the old scheme or new scheme in respect of a transition member, the entitlement listed in column 1 of Table 1[^c-cd1cf597ec4c1b5c3b04f482eb6343c8] is disapplied and the corresponding entitlement in column 2 applies instead.
 
-Table 1 Transition member entitlements[^key-ded3560f622d71809372ab71858a3806]
+Table 1 Transition member entitlements[^c-ded3560f622d71809372ab71858a3806]
 
 <table>
 <thead>
@@ -988,9 +988,9 @@ Table 1 Transition member entitlements[^key-ded3560f622d71809372ab71858a3806]
 </tbody>
 </table>
 
-[^key-3d77742a0ae960490d0bcfe3fd7452f2][^key-f26c3955d68295eeb4f9d46b702c451e]
+[^c-3d77742a0ae960490d0bcfe3fd7452f2][^c-f26c3955d68295eeb4f9d46b702c451e]
 
-(1A)[^key-839e65ee9bccbe41df66f2a120981ed3] As regards a non-pensionable old scheme member, or a person who derives a benefit from the old scheme or new scheme in respect of a non-pensionable old scheme member, the entitlement listed in column 1 of Table 2 is disapplied and the corresponding entitlement in column 2 applies instead.
+(1A)[^c-839e65ee9bccbe41df66f2a120981ed3] As regards a non-pensionable old scheme member, or a person who derives a benefit from the old scheme or new scheme in respect of a non-pensionable old scheme member, the entitlement listed in column 1 of Table 2 is disapplied and the corresponding entitlement in column 2 applies instead.
 
 Table 2 Non-pensionable old scheme member entitlements
 
@@ -1025,7 +1025,7 @@ Table 2 Non-pensionable old scheme member entitlements
 </tbody>
 </table>
 
-(2) Save where expressly provided in Table 1 or Table 2[^key-181b902e8e52da8bb6a1f98c4ba9b7e1], no entitlement in respect of the matters listed in column 1 of either table[^key-a98673bca101be7cce648e5c315c182d] is payable from both the 2015 Regulations and—
+(2) Save where expressly provided in Table 1 or Table 2[^c-181b902e8e52da8bb6a1f98c4ba9b7e1], no entitlement in respect of the matters listed in column 1 of either table[^c-a98673bca101be7cce648e5c315c182d] is payable from both the 2015 Regulations and—
 
 - (a) the 1995 Section; or
 - (b) the 2008 Section,
@@ -1034,7 +1034,7 @@ and no entitlement in respect of the matters listed in column 1 of Table 1 or Ta
 
 ### CHAPTER 9 — Option to convert service
 
-#### 39. Option for 1995 Section members to convert to 2008 Section membership[^key-3aaace64c793f0a29ca15cc95f5d48a1]
+#### 39. Option for 1995 Section members to convert to 2008 Section membership[^c-3aaace64c793f0a29ca15cc95f5d48a1]
 
 (1) This regulation applies to a person who on 31st March 2015 was in pensionable service for the purposes of the 2011 Regulations, but who on 1st April 2015 is not a person to whom the following provisions apply—
 
@@ -1052,7 +1052,7 @@ and no entitlement in respect of the matters listed in column 1 of Table 1 or Ta
 
 ## PART 3 — Amendments to the old scheme
 
-### 40. Amendments to the old scheme[^key-fb41c904dc56238be8b2ff9bcb7b3a42]
+### 40. Amendments to the old scheme[^c-fb41c904dc56238be8b2ff9bcb7b3a42]
 
 Schedule 2 (amendments to the old scheme) has effect.
 
@@ -1080,7 +1080,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 3
 
-### 1. Eligibility of 1995 Section pensioners to join new scheme[^key-08bc9cbd011fc6e458edf41867f19ade]
+### 1. Eligibility of 1995 Section pensioners to join new scheme[^c-08bc9cbd011fc6e458edf41867f19ade]
 
 A person of the description in column 2 of the table is eligible to be a member of the new scheme in the circumstances or on the date specified in column 3 of the table.
 
@@ -1106,9 +1106,9 @@ Table
 </tbody>
 </table>
 
-[^key-d4d1b5fd89c972496e56872e6868a24f][^key-9fb18eb0bda49d5723ebf3a6426f5c84]
+[^c-d4d1b5fd89c972496e56872e6868a24f][^c-9fb18eb0bda49d5723ebf3a6426f5c84]
 
-### 2. Eligibility of 2008 Section pensioners to join new scheme[^key-e03e8f0d8bad238cc7490566375b1a87]
+### 2. Eligibility of 2008 Section pensioners to join new scheme[^c-e03e8f0d8bad238cc7490566375b1a87]
 
 (1) Subject to paragraph (2), a 2008 Section pensioner member is eligible to be a member of the new scheme if that member would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations.
 
@@ -1121,9 +1121,9 @@ Table
 | 1 | a 2008 Section pensioner member—<br>- (a) who is also an active member of the 2008 Section on or after 1st April 2015; or<br>- (b) other than an Upper Tier ill-health pensioner who returns to NHS employment on or after that date. | eligible to be an active member of the new scheme on return from a break in service where regulation 2.B.3(1B) or 3.B.3(1B) of the 2013 Regulations applies. |
 | 2 | a 2008 Section pensioner member—<br>- (a) who is also an active member of the 2008 Section on or after 1st April 2015; or<br>- (b) other than an Upper Tier ill-health pensioner who returns to NHS employment on or after that date,<br>and to whom regulation 2.B.3(1D) or 3.B.3(1D) of the 2013 Regulations applies. | eligible to be an active member of the new scheme on the earliest of—<br>- (a) returning from a break in service where regulation 2.B.3(1B) or 3.B.3(1B) of the 2013 Regulations applies;<br>- (b) reaching the member’s eligibility cessation date determined in accordance with regulation 2.B.3(1F) or 3.B.3(1F) of the 2013 Regulations;<br>- (c) returning from a break in service after reaching the member’s eligibility cessation date determined in accordance with regulation 2.B.3(1F) or 3.B.3(1F) of the 2013 Regulations. |
 | 3 | a 2008 Section pensioner member—<br>- (a) who is also an active member of the 2008 Section on 31st March 2015; or<br>- (b) other than an upper tier ill-health pensioner who returns to NHS employment on or after that date,<br>and ceased to be eligible to be an active member of the 2008 Section in any employment on or after 1st April 2015. | eligible to be an active member of the new scheme on the first day on or after 1st April 2015 that the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
-| 4 | an Upper Tier ill-health pensioner—<br>- (a) who returns to NHS employment and the first anniversary of that return is on or after 1st April 2015;<br>- (b) to whom regulation 2.G.4(5)(b)[^key-311196f4e9a72d0528b4bd3a86506454] or 3.G.4(5)(b) of the 2013 Regulations applies; and<br>- (c) if on the first anniversary of the return to NHS employment that person is not eligible to re-join the 2008 Section pursuant to regulations 2.B.1 and 2.B.2 or 3.B.1 and 3.B.2 of the 2013 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to NHS employment that the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 4 | an Upper Tier ill-health pensioner—<br>- (a) who returns to NHS employment and the first anniversary of that return is on or after 1st April 2015;<br>- (b) to whom regulation 2.G.4(5)(b)[^c-311196f4e9a72d0528b4bd3a86506454] or 3.G.4(5)(b) of the 2013 Regulations applies; and<br>- (c) if on the first anniversary of the return to NHS employment that person is not eligible to re-join the 2008 Section pursuant to regulations 2.B.1 and 2.B.2 or 3.B.1 and 3.B.2 of the 2013 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to NHS employment that the member is in an employment that would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 | 5 | a 2008 Section member—<br>- (a) who is not eligible to be an active member of that Section in NHS employment on or after 1st April 2015; and<br>- (b) who becomes a pensioner member of that Section on or after that date. | eligible to be an active member of the new scheme on or after 1st April 2015 if that member would, apart from the operation of regulation 19(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
-| 6[^key-92852070f25e7425abe02ad8b762fec3] | a 2008 Section pensioner other than an upper tier ill-health pensioner who—<br>- (a) is also an active member of the 2008 Section on 31st March 2022; or<br>- (b) would have been eligible to be an active member of the 2008 Section if the member had been in NHS employment on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
+| 6[^c-92852070f25e7425abe02ad8b762fec3] | a 2008 Section pensioner other than an upper tier ill-health pensioner who—<br>- (a) is also an active member of the 2008 Section on 31st March 2022; or<br>- (b) would have been eligible to be an active member of the 2008 Section if the member had been in NHS employment on that day. | eligible to be an active member of the new scheme on the first day on or after 1st April 2022 on which the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 | 7 | An upper tier ill-health pensioner—<br>- (a) who returns to NHS employment and the first anniversary of that return is on or after 1st April 2022;<br>- (b) to whom regulation 2.G.4(5)(b) or 3.G.4(5)(b) of the 2013 Regulations applies; and<br>- (c) on the first anniversary of the return to NHS employment that person is not eligible to re-join the 2008 Section pursuant to regulation 2.B.2(A1) or 3.B.2(A1) of the 2013 Regulations. | eligible to be an active member of the new scheme on the first day on or after the first anniversary of return to NHS employment on which the member is in an employment that would, apart from the operation of regulation 19(1)(d) of the 2015 Regulations, otherwise be eligible for membership under those Regulations. |
 
 (3) Paragraphs (1) and (2) apply notwithstanding a person also—
@@ -1137,11 +1137,11 @@ Regulation 40
 
 ### PART 1 — Amendment of the 2011 Regulations
 
-#### 1. General[^key-12ea1c201eab07ccfee2737ae9589493]
+#### 1. General[^c-12ea1c201eab07ccfee2737ae9589493]
 
 The 2011 Regulations are amended in accordance with the remaining paragraphs of this Part.
 
-#### 2. Amendment of regulation B2[^key-1651273d4b12cf948a68813b6a15b3f6]
+#### 2. Amendment of regulation B2[^c-1651273d4b12cf948a68813b6a15b3f6]
 
 In regulation B2 (restrictions on membership)—
 
@@ -1152,7 +1152,7 @@ In regulation B2 (restrictions on membership)—
 
   .
 
-#### 3. Amendment of regulation B3[^key-2d32a9e26768bd8bb110ebc45ef0b3bb]
+#### 3. Amendment of regulation B3[^c-2d32a9e26768bd8bb110ebc45ef0b3bb]
 
 After paragraph (3) of regulation B3 (restriction on further participation in this Section of the scheme), add—
 
@@ -1237,7 +1237,7 @@ After paragraph (3) of regulation B3 (restriction on further participation in th
 
 .
 
-#### 4. Amendment of regulation E12[^key-eb6ac0cf8672b5c5c10f6d21187eb1cb]
+#### 4. Amendment of regulation E12[^c-eb6ac0cf8672b5c5c10f6d21187eb1cb]
 
 In paragraph (16) of regulation E12 (preserved pension), for the definition of “NHS employment” substitute—
 
@@ -1247,7 +1247,7 @@ In paragraph (16) of regulation E12 (preserved pension), for the definition of �
 
 .
 
-#### 5. Amendment of regulation R7[^key-bd96a284da7a0cc5a2a68cf0f7e23012]
+#### 5. Amendment of regulation R7[^c-bd96a284da7a0cc5a2a68cf0f7e23012]
 
 After paragraph (5) of regulation R7 (former members of health service schemes), add—
 
@@ -1267,7 +1267,7 @@ After paragraph (5) of regulation R7 (former members of health service schemes),
 
 .
 
-#### 6. New regulation U5[^key-e97cb96b345ca61b414ef49e09f69502]
+#### 6. New regulation U5[^c-e97cb96b345ca61b414ef49e09f69502]
 
 At the end of Part U (administrative matters), insert—
 
@@ -1286,7 +1286,7 @@ At the end of Part U (administrative matters), insert—
 
 .
 
-#### 7. Amendment of Schedule 1[^key-9f66098137e75a0995b03957ef1d197d]
+#### 7. Amendment of Schedule 1[^c-9f66098137e75a0995b03957ef1d197d]
 
 For paragraph 24 of Schedule 1 (medical and dental practitioners), substitute—
 
@@ -1305,11 +1305,11 @@ For paragraph 24 of Schedule 1 (medical and dental practitioners), substitute—
 
 ### PART 2 — Amendment of the 2013 Regulations
 
-#### 8. General[^key-e2435d47141209fce11ac68c3abe0733]
+#### 8. General[^c-e2435d47141209fce11ac68c3abe0733]
 
 The 2013 Regulations are amended in accordance with the remaining paragraphs of this Part.
 
-#### 9. Amendment of regulation 2.B.1[^key-22156408076813ff321a304b82232268]
+#### 9. Amendment of regulation 2.B.1[^c-22156408076813ff321a304b82232268]
 
 (1) In regulation 2.B.1 (eligibility: general)—
 
@@ -1334,7 +1334,7 @@ The 2013 Regulations are amended in accordance with the remaining paragraphs of 
 
   .
 
-#### 10. Amendment of regulation 2.B.3[^key-350594eede8823422667fad806b99671]
+#### 10. Amendment of regulation 2.B.3[^c-350594eede8823422667fad806b99671]
 
 After paragraph (1) of regulation 2.B.3 (restrictions on eligibility: general), insert—
 
@@ -1412,7 +1412,7 @@ After paragraph (1) of regulation 2.B.3 (restrictions on eligibility: general), 
 
 .
 
-#### 11. Amendment of regulation 2.D.13[^key-66576a79864409e7414ad96b9adab19f]
+#### 11. Amendment of regulation 2.D.13[^c-66576a79864409e7414ad96b9adab19f]
 
 In regulation 2.D.13 of the 2013 Regulations (exceptions to requirement that NHS employment must have ceased—
 
@@ -1431,7 +1431,7 @@ In regulation 2.D.13 of the 2013 Regulations (exceptions to requirement that NHS
 
   .
 
-#### 12. Amendment of regulation 2.F.9[^key-16c580d278faffd3a3f6945703a13e42]
+#### 12. Amendment of regulation 2.F.9[^c-16c580d278faffd3a3f6945703a13e42]
 
 For sub-paragraph (c) of paragraph (1) of regulation 2.F.9 (procedure for applications under regulation 2.F.8), substitute—
 
@@ -1441,7 +1441,7 @@ For sub-paragraph (c) of paragraph (1) of regulation 2.F.9 (procedure for applic
 
 .
 
-#### 13. Substitution of regulation 2.F.13[^key-3944a03dc0632ab7d62ac7568d37cdab]
+#### 13. Substitution of regulation 2.F.13[^c-3944a03dc0632ab7d62ac7568d37cdab]
 
 For regulation 2.F.13 (public sector transfer arrangements), substitute—
 
@@ -1465,7 +1465,7 @@ For regulation 2.F.13 (public sector transfer arrangements), substitute—
 
 .
 
-#### 14. New regulation 2.J.15[^key-6e06df4170ab09d181d8677ea638ce01]
+#### 14. New regulation 2.J.15[^c-6e06df4170ab09d181d8677ea638ce01]
 
 After regulation 2.J.14 (employing authority and certain member record keeping and contribution estimates), insert—
 
@@ -1484,7 +1484,7 @@ After regulation 2.J.14 (employing authority and certain member record keeping a
 
 .
 
-#### 15. Amendment of regulation 3.B.1[^key-6d20fb126647fed79e2262db792d59f2]
+#### 15. Amendment of regulation 3.B.1[^c-6d20fb126647fed79e2262db792d59f2]
 
 In regulation 3.B.1 (eligibility: general)—
 
@@ -1509,7 +1509,7 @@ In regulation 3.B.1 (eligibility: general)—
 
   .
 
-#### 16. Amendment of regulation 3.B.3[^key-7010d7a893e581db6642d9ca34d89fdc]
+#### 16. Amendment of regulation 3.B.3[^c-7010d7a893e581db6642d9ca34d89fdc]
 
 After paragraph (1) of regulation 3.B.3 (restrictions on eligibility: general), insert—
 
@@ -1587,7 +1587,7 @@ After paragraph (1) of regulation 3.B.3 (restrictions on eligibility: general), 
 
 .
 
-#### 17. New regulation 3.D.18[^key-a53e864415cfccb676c9cdcfdf7d4d8a]
+#### 17. New regulation 3.D.18[^c-a53e864415cfccb676c9cdcfdf7d4d8a]
 
 After regulation 3.D.17 , insert—
 
@@ -1602,7 +1602,7 @@ After regulation 3.D.17 , insert—
 
 .
 
-#### 18. Amendment of regulation 3.F.9[^key-b0891e482b459c1ce3b781d089006763]
+#### 18. Amendment of regulation 3.F.9[^c-b0891e482b459c1ce3b781d089006763]
 
 For sub-paragraph (c) of paragraph (1) of regulation 3.F.9 (procedure for applications under regulation 3.F.8), substitute—
 
@@ -1612,7 +1612,7 @@ For sub-paragraph (c) of paragraph (1) of regulation 3.F.9 (procedure for applic
 
 .
 
-#### 19. Substitution of regulation 3.F.13[^key-a4982abbbf99d4b78682404c274d6be6]
+#### 19. Substitution of regulation 3.F.13[^c-a4982abbbf99d4b78682404c274d6be6]
 
 For regulation 3.F.13 (public sector transfer arrangements), substitute—
 
@@ -1636,7 +1636,7 @@ For regulation 3.F.13 (public sector transfer arrangements), substitute—
 
 .
 
-#### 20. New regulation 3.J.15[^key-f2706a2c7d1414ead28fef3753b054cf]
+#### 20. New regulation 3.J.15[^c-f2706a2c7d1414ead28fef3753b054cf]
 
 After regulation 3.J.14 (employing authority and certain member record keeping and contribution estimates), insert—
 
@@ -1708,9 +1708,9 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-bba0e218786add7293c70f2a210f098c]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-bba0e218786add7293c70f2a210f098c]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-a372b40cf07a0401bcfe5a1cfb1a3719]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-a372b40cf07a0401bcfe5a1cfb1a3719]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
 [^f00003]: Footnote: [S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117).
 
@@ -1718,292 +1718,292 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00005]: Footnote: [S.S.I. 2015/94](https://www.legislation.gov.uk/ssi/2015/94).
 
-[^key-0d1474bd7020c8436cf942b80c051961]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/95/regulation/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [59(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/59/2)
+[^c-0d1474bd7020c8436cf942b80c051961]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/95/regulation/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [59(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/59/2)
 
-[^key-cc8d11286035345f4eb18927499e9704]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/95/regulation/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [59(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/59/3)
+[^c-cc8d11286035345f4eb18927499e9704]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/95/regulation/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [59(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/59/3)
 
-[^key-8703417a2f835726939e3355e7c1a9ff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/95/regulation/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [59(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/59/4)
+[^c-8703417a2f835726939e3355e7c1a9ff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/95/regulation/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [59(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/59/4)
 
 [^f00006]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56). Section 8A was inserted by paragraph 4 of Schedule 8 to the 2013 Act.
 
-[^key-d2a19c6ca95a161788ebbfbd240ffbbf]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-d2a19c6ca95a161788ebbfbd240ffbbf]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-462a36d1813df292f916d9d937c68a31]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-462a36d1813df292f916d9d937c68a31]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
 [^f00007]: Footnote: [S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772). Regulation 9 has been amended by [S.I. 2013/2556](https://www.legislation.gov.uk/uksi/2013/2556).
 
-[^key-0855136ec5b32bd1a6a66348ef950908]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-0855136ec5b32bd1a6a66348ef950908]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-f1a2a8dd2e3284ef9dd7db609c070218]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/5/1) table omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [63(a)(i)](https://www.legislation.gov.uk/ssi/2021/102/regulation/63/a/i)
+[^c-f1a2a8dd2e3284ef9dd7db609c070218]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/5/1) table omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [63(a)(i)](https://www.legislation.gov.uk/ssi/2021/102/regulation/63/a/i)
 
-[^key-d84b29cac5513d76be02894c150dbb80]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/5/1) table omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [63(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/63/b)
+[^c-d84b29cac5513d76be02894c150dbb80]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/5/1) table omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [63(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/63/b)
 
-[^key-f336257a54e1d3993cd0280f85da1da0]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/5/1) table omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [63(a)(ii)](https://www.legislation.gov.uk/ssi/2021/102/regulation/63/a/ii)
+[^c-f336257a54e1d3993cd0280f85da1da0]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/5/1) table omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [63(a)(ii)](https://www.legislation.gov.uk/ssi/2021/102/regulation/63/a/ii)
 
-[^key-5f92b69ff7ac1a0025189d0f21bad79c]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-5f92b69ff7ac1a0025189d0f21bad79c]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-0f8f45596b9df2e33ddf888904d264ba]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-0f8f45596b9df2e33ddf888904d264ba]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-d2beda9455bf7911ef1c9ce4f991bb4a]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-d2beda9455bf7911ef1c9ce4f991bb4a]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-770d8ea0fb9180a41b9a562830597877]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-770d8ea0fb9180a41b9a562830597877]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-4cb343a68ac9b522abebad7b9d180e77]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-4cb343a68ac9b522abebad7b9d180e77]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-3b45bbd96109ce9ac16719bc6d66f712]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2015/95/regulation/10A) inserted (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [29](https://www.legislation.gov.uk/ssi/2017/28/regulation/29)
+[^c-3b45bbd96109ce9ac16719bc6d66f712]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2015/95/regulation/10A) inserted (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [29](https://www.legislation.gov.uk/ssi/2017/28/regulation/29)
 
-[^key-1933f9411ac5544f9e194b4a27ce6958]: Textual amendment: Words in [reg. 10A(1)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/10A/1/a) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [60](https://www.legislation.gov.uk/ssi/2024/272/regulation/60)
+[^c-1933f9411ac5544f9e194b4a27ce6958]: Textual amendment: Words in [reg. 10A(1)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/10A/1/a) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [60](https://www.legislation.gov.uk/ssi/2024/272/regulation/60)
 
-[^key-eba896b9d433ddd17c930bfbd1f088d0]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-eba896b9d433ddd17c930bfbd1f088d0]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-019114b9117544f82fb6515a186245ea]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/11/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/2/a)
+[^c-019114b9117544f82fb6515a186245ea]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/11/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/2/a)
 
-[^key-e3b77a4785cc9986a43c6949bb5c7654]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/11/2) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/2/b/i)
+[^c-e3b77a4785cc9986a43c6949bb5c7654]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/11/2) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(2)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/2/b/i)
 
-[^key-e310ced699ee86866accefd8c08d8a11]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/11/2/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/2/b/ii)
+[^c-e310ced699ee86866accefd8c08d8a11]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/11/2/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/2/b/ii)
 
-[^key-4ba9d69682e257db8caea8e71560bac9]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-4ba9d69682e257db8caea8e71560bac9]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-259de2efaad8b86ea44dc4651e185740]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/12/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/3/a)
+[^c-259de2efaad8b86ea44dc4651e185740]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/12/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/3/a)
 
-[^key-d8ee1372691bb06c6240708493235f32]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/12/2) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/3/b)
+[^c-d8ee1372691bb06c6240708493235f32]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/12/2) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/3/b)
 
-[^key-e5560da32fc08af213541cfea30bc4ce]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-e5560da32fc08af213541cfea30bc4ce]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-1f4cbf613cf59af83a1d5bac57fe8b0e]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-1f4cbf613cf59af83a1d5bac57fe8b0e]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-c7eef6de8c6cd552d4ce09ad30da6d53]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/14/1) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [61(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/61/2)
+[^c-c7eef6de8c6cd552d4ce09ad30da6d53]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/14/1) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [61(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/61/2)
 
-[^key-6ddb787f987dec7bf90f458f0acc0107]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/14/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [61(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/61/3)
+[^c-6ddb787f987dec7bf90f458f0acc0107]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/14/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [61(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/61/3)
 
-[^key-67cdeb4fb783b9c484d19b1a395e9ce0]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-67cdeb4fb783b9c484d19b1a395e9ce0]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-c34a3daad22749d7e7f9dc8a9592ad08]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2015/95/regulation/15) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [62](https://www.legislation.gov.uk/ssi/2024/272/regulation/62)
+[^c-c34a3daad22749d7e7f9dc8a9592ad08]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2015/95/regulation/15) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [62](https://www.legislation.gov.uk/ssi/2024/272/regulation/62)
 
-[^key-f941bfc066dbac8e432145745c9c75f6]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-f941bfc066dbac8e432145745c9c75f6]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-525106ff162074edfe6334c1dbe5e75b]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2015/95/regulation/16) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [63](https://www.legislation.gov.uk/ssi/2024/272/regulation/63)
+[^c-525106ff162074edfe6334c1dbe5e75b]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2015/95/regulation/16) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [63](https://www.legislation.gov.uk/ssi/2024/272/regulation/63)
 
-[^key-1b27cafadb9d56a76239c162d0fa3873]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-1b27cafadb9d56a76239c162d0fa3873]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-86a4747638cb31bf654ebcc4036a3f9b]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2015/95/regulation/17A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [64](https://www.legislation.gov.uk/ssi/2024/272/regulation/64)
+[^c-86a4747638cb31bf654ebcc4036a3f9b]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2015/95/regulation/17A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [64](https://www.legislation.gov.uk/ssi/2024/272/regulation/64)
 
-[^key-fa5cda31ea4c481c80597c511673bec8]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-fa5cda31ea4c481c80597c511673bec8]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-8b49285f96ffcf1a89afae58ce9afc59]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/95/regulation/18) renumbered as reg. 18(1) (31.1.2018) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [16(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/16/2)
+[^c-8b49285f96ffcf1a89afae58ce9afc59]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/95/regulation/18) renumbered as reg. 18(1) (31.1.2018) by virtue of [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [16(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/16/2)
 
-[^key-2d2ffddbf5659bc486053639b3deee01]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/1) substituted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [16(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/16/3)
+[^c-2d2ffddbf5659bc486053639b3deee01]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/1) substituted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [16(3)](https://www.legislation.gov.uk/ssi/2017/433/regulation/16/3)
 
-[^key-4774d48fa298bdec76472c126ad98957]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/4)
+[^c-4774d48fa298bdec76472c126ad98957]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/4)
 
-[^key-beb01f45e73e108c160dc74b9c0638ba]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/2)[(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/3) inserted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [16(4)](https://www.legislation.gov.uk/ssi/2017/433/regulation/16/4)
+[^c-beb01f45e73e108c160dc74b9c0638ba]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/2)[(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/18/3) inserted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [16(4)](https://www.legislation.gov.uk/ssi/2017/433/regulation/16/4)
 
-[^key-1ecdf322499b99a0cbc29dfa6e9c4419]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-1ecdf322499b99a0cbc29dfa6e9c4419]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-2a351503a31c50317a8a851501e7270b]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-2a351503a31c50317a8a851501e7270b]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-f2d4558811ea1cca56a6e658e87077ec]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-f2d4558811ea1cca56a6e658e87077ec]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-1d08eeb4eeeeeb0266749c1b93870d19]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-1d08eeb4eeeeeb0266749c1b93870d19]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-3928f1cca652343b2a3d7f42e043482f]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-3928f1cca652343b2a3d7f42e043482f]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-49c133ca001a7d9ae7f13ffeea78f57d]: Modification: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23) applied (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/16/2)
+[^c-49c133ca001a7d9ae7f13ffeea78f57d]: Modification: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23) applied (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/16/2)
 
-[^key-73ae27e32c29e29621e86ee5a5785d0f]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-73ae27e32c29e29621e86ee5a5785d0f]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-800c4e3144986a6aec8e0ff44a060985]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-800c4e3144986a6aec8e0ff44a060985]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-ce9c591ec6eb0a7b643143b57625a010]: Textual amendment: Words in [reg. 25(2)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2/a) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/i)
+[^c-ce9c591ec6eb0a7b643143b57625a010]: Textual amendment: Words in [reg. 25(2)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2/a) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/i)
 
-[^key-b9b2b9d7cf8f12632d8aa7444f1eda2a]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2/b) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/ii)
+[^c-b9b2b9d7cf8f12632d8aa7444f1eda2a]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2/b) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/ii)
 
-[^key-2bed47ec0756d272b98b858a6b6915ab]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(iii)(aa)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/iii/aa)
+[^c-2bed47ec0756d272b98b858a6b6915ab]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(iii)(aa)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/iii/aa)
 
-[^key-f50c39061c2c57d5e96fa57b866cc14d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(iii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/iii/bb)
+[^c-f50c39061c2c57d5e96fa57b866cc14d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(a)(iii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/a/iii/bb)
 
-[^key-df5774821363de9cacd867257d108960]: Textual amendment: [Reg. 25(6)(a)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/6) and word substituted for words (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/b)
+[^c-df5774821363de9cacd867257d108960]: Textual amendment: [Reg. 25(6)(a)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/6) and word substituted for words (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/b)
 
-[^key-83e1a87e9ada59db731588d10911952f]: Textual amendment: [Reg. 25(9)(a)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/9) and word substituted for reg. 25(9)(a)-(c) and words (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/c)
+[^c-83e1a87e9ada59db731588d10911952f]: Textual amendment: [Reg. 25(9)(a)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/9) and word substituted for reg. 25(9)(a)-(c) and words (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/c)
 
-[^key-3be94e2081608c66f6825f9e97e23de7]: Textual amendment: [Reg. 25(9A)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/9A) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/d)
+[^c-3be94e2081608c66f6825f9e97e23de7]: Textual amendment: [Reg. 25(9A)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/9A) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(5)(d)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/5/d)
 
-[^key-8b1e19501a7d8b1b1e432701af06967f]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-8b1e19501a7d8b1b1e432701af06967f]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-29266b1e7f554ecd8a7ae7e7ee3c21ec]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-29266b1e7f554ecd8a7ae7e7ee3c21ec]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-0cf24b77bcb1fca082c7aade50c4485d]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(2)(a)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/2/a)
+[^c-0cf24b77bcb1fca082c7aade50c4485d]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(2)(a)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/2/a)
 
-[^key-f59424e2b30129454aa9f2b443646cb7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/i)
+[^c-f59424e2b30129454aa9f2b443646cb7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/i)
 
-[^key-3458efcd9de14d47e640ce4ce5069e4a]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a) substituted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/2/b)
+[^c-3458efcd9de14d47e640ce4ce5069e4a]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a) substituted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/2/b)
 
-[^key-dae3c39d2163cd95f1f627c9c569e16e]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
+[^c-dae3c39d2163cd95f1f627c9c569e16e]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
 
-[^key-b57b566c9956e493da46ab621a841075]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
+[^c-b57b566c9956e493da46ab621a841075]: Textual amendment: Word in [reg. 27(1)(a)(i)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
 
-[^key-653af20ad41e65dc7e81a9bbb5e01fb3]: Textual amendment: [Reg. 27(1)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i/aa) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
+[^c-653af20ad41e65dc7e81a9bbb5e01fb3]: Textual amendment: [Reg. 27(1)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i/aa) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
 
-[^key-32901e7f7e0beb83f3850892cd821fe0]: Textual amendment: [Reg. 27(1)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i/bb) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
+[^c-32901e7f7e0beb83f3850892cd821fe0]: Textual amendment: [Reg. 27(1)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/i/bb) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/bb)
 
-[^key-b98c0bb95cd34137ebe451c4b745fb2c]: Textual amendment: Words in [reg. 27(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/ii) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(cc)(dd)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/cc)
+[^c-b98c0bb95cd34137ebe451c4b745fb2c]: Textual amendment: Words in [reg. 27(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1/a/ii) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(a)(ii)(cc)(dd)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/a/ii/cc)
 
-[^key-e71bd21b69b861b3206d44f526f7d08e]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1A) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(3)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/3)
+[^c-e71bd21b69b861b3206d44f526f7d08e]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/1A) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(3)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/3)
 
-[^key-40a3f96a1bea7b5254b8c16b0d5e384c]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/b/i)
+[^c-40a3f96a1bea7b5254b8c16b0d5e384c]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/b/i)
 
-[^key-306b00908ee06168ce3db664448dfc18]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2) substituted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/4)
+[^c-306b00908ee06168ce3db664448dfc18]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2) substituted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/4)
 
-[^key-727dbe4839192da1224892a4ba396ec2]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2/b) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/b/ii/aa)
+[^c-727dbe4839192da1224892a4ba396ec2]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2/b) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(b)(ii)(aa)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/b/ii/aa)
 
-[^key-f6069c5fc4042bdc8a379cdcb3e52252]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/b/ii/bb)
+[^c-f6069c5fc4042bdc8a379cdcb3e52252]: Textual amendment: Words in [reg. 27(2)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/2/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(b)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/b/ii/bb)
 
-[^key-7257d8eae3243a7f75d948f25d7a9f3f]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/3) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(c)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/c/i)
+[^c-7257d8eae3243a7f75d948f25d7a9f3f]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/3) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(c)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/c/i)
 
 [^f00008]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00009]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-efc83bfcf884be81e155eefd6d2e94b9]: Textual amendment: [Reg. 27(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/3/a/iii) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/c/ii)
+[^c-efc83bfcf884be81e155eefd6d2e94b9]: Textual amendment: [Reg. 27(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/3/a/iii) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/c/ii)
 
-[^key-2c1f44906ae198b37ea2aa4ab3eb194c]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/3/b) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(c)(iii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/c/iii)
+[^c-2c1f44906ae198b37ea2aa4ab3eb194c]: Textual amendment: Word in [reg. 27(3)(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/3/b) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(c)(iii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/c/iii)
 
-[^key-47a5a3833efbe1b9cbf037dd2d8c0631]: Textual amendment: [Reg. 27(4)-(6)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/4) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(d)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/d)
+[^c-47a5a3833efbe1b9cbf037dd2d8c0631]: Textual amendment: [Reg. 27(4)-(6)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/4) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(d)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/d)
 
-[^key-68f77291887125057f3c68ab135e3230]: Textual amendment: [Reg. 27(7)-(21)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/7) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(e)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/e)
+[^c-68f77291887125057f3c68ab135e3230]: Textual amendment: [Reg. 27(7)-(21)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/7) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(6)(e)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/6/e)
 
 [^M_F_c913630e-c04a-4b38-caa0-26bd8f5b1107]: Textual amendment: By [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [sch. para. 3(5)(a)(i)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/5/a/i), it is provided that (1.10.2023) in the definition of “the member’s application for ill-health pension”, the word “given” is substituted for “give”
 
 [^M_F_40192bcb-ef73-422b-a0de-defc85ca41dd]: Textual amendment: By [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [sch. para. 3(5)(b)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/5/b), it is provided that (1.10.2023) at the end of the definition of “the member’s application for ill-health pension”, a semicolon is substituted for the full stop
 
-[^key-419e5a328d8697c465086dd989a4cea4]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/21) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/5/a/ii)
+[^c-419e5a328d8697c465086dd989a4cea4]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/21) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/5/a/ii)
 
-[^key-931b90da906032d37c941a88ad10d786]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/21) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(5)(c)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/5/c)
+[^c-931b90da906032d37c941a88ad10d786]: Textual amendment: Words in [reg. 27(21)](https://www.legislation.gov.uk/ssi/2015/95/regulation/27/21) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 3(5)(c)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/3/5/c)
 
-[^key-5f45e1de6c717e683a5f9d01257c1e2c]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-5f45e1de6c717e683a5f9d01257c1e2c]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-a3fdddebf5ad75b1ac43db4b97366923]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6A) inserted (with effect from 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [reg. 1](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2017/433/regulation/17)
+[^c-a3fdddebf5ad75b1ac43db4b97366923]: Textual amendment: [Reg. 28(6A)-(6C)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6A) inserted (with effect from 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [reg. 1](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2017/433/regulation/17)
 
-[^key-7c628c8ab816dbc3e92483f77ae1f285]: Textual amendment: Words in [reg. 28(6B)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6B) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(a)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/a/i)
+[^c-7c628c8ab816dbc3e92483f77ae1f285]: Textual amendment: Words in [reg. 28(6B)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6B) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(a)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/a/i)
 
-[^key-e519e2632d387b84c34ea1432bb4617f]: Textual amendment: [Reg. 28(6B)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6B/a)[(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6B/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/a/ii)
+[^c-e519e2632d387b84c34ea1432bb4617f]: Textual amendment: [Reg. 28(6B)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6B/a)[(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6B/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/a/ii)
 
-[^key-17e0ea5efef7675c515f588b9a232702]: Textual amendment: Words in [reg. 28(6C)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6C) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/b/i)
+[^c-17e0ea5efef7675c515f588b9a232702]: Textual amendment: Words in [reg. 28(6C)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6C) omitted (1.4.2022) by virtue of [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/b/i)
 
-[^key-bd5145a4ad5db0338c359a92d5eae49b]: Textual amendment: [Reg. 28(6C)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6C/a)[(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6C/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/b/ii)
+[^c-bd5145a4ad5db0338c359a92d5eae49b]: Textual amendment: [Reg. 28(6C)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6C/a)[(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/28/6C/b) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(7)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/7/b/ii)
 
-[^key-fdeb43e0e9927d007349f4657dd4f828]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-fdeb43e0e9927d007349f4657dd4f828]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
 [^f00010]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-75da0688cf8ec62251e29c8bc2ae12c2]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-75da0688cf8ec62251e29c8bc2ae12c2]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-feec4dbd166a42c11d372b5a2f7cea13]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-feec4dbd166a42c11d372b5a2f7cea13]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-e361bb923d1e8a80d125201cf0bad340]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/31/1) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [65(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/65/2)
+[^c-e361bb923d1e8a80d125201cf0bad340]: Textual amendment: [Reg. 31(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/31/1) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [65(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/65/2)
 
-[^key-d41e93e8460acd7767bd179e62da0eaf]: Textual amendment: [Reg. 31(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/31/2) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [65(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/65/3)
+[^c-d41e93e8460acd7767bd179e62da0eaf]: Textual amendment: [Reg. 31(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/31/2) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [65(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/65/3)
 
-[^key-9fb558a5a28ad2917bde72d7cb7b16b5]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/31/3) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [65(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/65/4)
+[^c-9fb558a5a28ad2917bde72d7cb7b16b5]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/31/3) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [65(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/65/4)
 
-[^key-8ec22ff8540038749936aa08590397c0]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-8ec22ff8540038749936aa08590397c0]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-bf4901be3eb0f83372e25ca19b7af0ae]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-bf4901be3eb0f83372e25ca19b7af0ae]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-726cf3923961e3df9a80ba810e48cbab]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-726cf3923961e3df9a80ba810e48cbab]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-b41853bc599d353d7162f0190bf6be4b]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-b41853bc599d353d7162f0190bf6be4b]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-3f1f02815c1c4a0f4dbf59d8a4d29573]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/ssi/2015/95/regulation/35) heading inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [66(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/66/2)
+[^c-3f1f02815c1c4a0f4dbf59d8a4d29573]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/ssi/2015/95/regulation/35) heading inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [66(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/66/2)
 
-[^key-ed2b4b4ce94954d5fe3788d56d3727e2]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/8/a)
+[^c-ed2b4b4ce94954d5fe3788d56d3727e2]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/1) substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/8/a)
 
-[^key-baabc82674cf212c93b8ce6418ff7bd1]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/1) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/8/b)
+[^c-baabc82674cf212c93b8ce6418ff7bd1]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/1) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/8/b)
 
-[^key-1bf1b519385bae75b464bb0a6e6ae7b3]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/1) inserted (with effect from 1.10.2023) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [66(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/66/3)
+[^c-1bf1b519385bae75b464bb0a6e6ae7b3]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/1) inserted (with effect from 1.10.2023) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [66(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/66/3)
 
-[^key-1ed8fbeaec7376dec5a486f831f4c272]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/3) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [66(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/66/4)
+[^c-1ed8fbeaec7376dec5a486f831f4c272]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/ssi/2015/95/regulation/35/3) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [66(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/66/4)
 
-[^key-85af037f3800c3d8559b06b638385d65]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/ssi/2015/95/regulation/35A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [67](https://www.legislation.gov.uk/ssi/2024/272/regulation/67)
+[^c-85af037f3800c3d8559b06b638385d65]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/ssi/2015/95/regulation/35A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [67](https://www.legislation.gov.uk/ssi/2024/272/regulation/67)
 
-[^key-1b81e3be971faf3ca190af0cf12bfeda]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-1b81e3be971faf3ca190af0cf12bfeda]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-222720f4f6d8d6549d2d4ec4a9f5b536]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/ssi/2015/95/regulation/36A) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/2), [36](https://www.legislation.gov.uk/ssi/2025/259/regulation/36)
+[^c-222720f4f6d8d6549d2d4ec4a9f5b536]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/ssi/2015/95/regulation/36A) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/2), [36](https://www.legislation.gov.uk/ssi/2025/259/regulation/36)
 
-[^key-5cd7494a73d5cda5047ad848129719b3]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/ssi/2015/95/regulation/37) omitted (with effect from 1.4.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [68](https://www.legislation.gov.uk/ssi/2024/272/regulation/68)
+[^c-5cd7494a73d5cda5047ad848129719b3]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/ssi/2015/95/regulation/37) omitted (with effect from 1.4.2024) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [68](https://www.legislation.gov.uk/ssi/2024/272/regulation/68)
 
-[^key-899cee5424e7af83d19b9dd1eb739ce5]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-899cee5424e7af83d19b9dd1eb739ce5]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-75cc941becb95e32f295cf54ffbcfc69]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) substituted (with effect from 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [31(a)](https://www.legislation.gov.uk/ssi/2017/28/regulation/31/a)
+[^c-75cc941becb95e32f295cf54ffbcfc69]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) substituted (with effect from 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)(3)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [31(a)](https://www.legislation.gov.uk/ssi/2017/28/regulation/31/a)
 
-[^key-cd1cf597ec4c1b5c3b04f482eb6343c8]: Textual amendment: [Reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) table heading substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(2)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/2/a)
+[^c-cd1cf597ec4c1b5c3b04f482eb6343c8]: Textual amendment: [Reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) table heading substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(2)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/2/a)
 
-[^key-ded3560f622d71809372ab71858a3806]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(2)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/2/b)
+[^c-ded3560f622d71809372ab71858a3806]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(2)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/2/b)
 
-[^key-3d77742a0ae960490d0bcfe3fd7452f2]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/ssi/2015/95/regulation/38) table substituted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2017/433/regulation/18)
+[^c-3d77742a0ae960490d0bcfe3fd7452f2]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/ssi/2015/95/regulation/38) table substituted (31.1.2018) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2017/433/regulation/18)
 
-[^key-f26c3955d68295eeb4f9d46b702c451e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) table substituted (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [31(b)](https://www.legislation.gov.uk/ssi/2017/28/regulation/31/b)
+[^c-f26c3955d68295eeb4f9d46b702c451e]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1) table substituted (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [31(b)](https://www.legislation.gov.uk/ssi/2017/28/regulation/31/b)
 
-[^key-839e65ee9bccbe41df66f2a120981ed3]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/3)
+[^c-839e65ee9bccbe41df66f2a120981ed3]: Textual amendment: [Reg. 38(1A)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/1A) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/3)
 
-[^key-181b902e8e52da8bb6a1f98c4ba9b7e1]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/2) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(4)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/4/a)
+[^c-181b902e8e52da8bb6a1f98c4ba9b7e1]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/2) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(4)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/4/a)
 
-[^key-a98673bca101be7cce648e5c315c182d]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(4)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/4/b)
+[^c-a98673bca101be7cce648e5c315c182d]: Textual amendment: Words in [reg. 38(2)](https://www.legislation.gov.uk/ssi/2015/95/regulation/38/2) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [69(4)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/69/4/b)
 
-[^key-3aaace64c793f0a29ca15cc95f5d48a1]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-3aaace64c793f0a29ca15cc95f5d48a1]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-fb41c904dc56238be8b2ff9bcb7b3a42]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-fb41c904dc56238be8b2ff9bcb7b3a42]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-08bc9cbd011fc6e458edf41867f19ade]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-08bc9cbd011fc6e458edf41867f19ade]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-d4d1b5fd89c972496e56872e6868a24f]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/1) table inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/9/a)
+[^c-d4d1b5fd89c972496e56872e6868a24f]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/1) table inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/9/a)
 
-[^key-9fb18eb0bda49d5723ebf3a6426f5c84]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/1) table inserted (with effect from 1.4.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(7)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/7), [37](https://www.legislation.gov.uk/ssi/2025/259/regulation/37)
+[^c-9fb18eb0bda49d5723ebf3a6426f5c84]: Textual amendment: Words in [sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/1) table inserted (with effect from 1.4.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(7)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/7), [37](https://www.legislation.gov.uk/ssi/2025/259/regulation/37)
 
-[^key-e03e8f0d8bad238cc7490566375b1a87]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-e03e8f0d8bad238cc7490566375b1a87]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-311196f4e9a72d0528b4bd3a86506454]: Textual amendment: Words in [sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/2) table substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(9)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/9/b/i)
+[^c-311196f4e9a72d0528b4bd3a86506454]: Textual amendment: Words in [sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/2) table substituted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(9)(b)(i)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/9/b/i)
 
-[^key-92852070f25e7425abe02ad8b762fec3]: Textual amendment: Words in [sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/2) table inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/9/b/ii)
+[^c-92852070f25e7425abe02ad8b762fec3]: Textual amendment: Words in [sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/95/schedule/1/paragraph/2) table inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [5(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/100/regulation/5/9/b/ii)
 
-[^key-12ea1c201eab07ccfee2737ae9589493]: Commencement: Sch. 2 para. 1 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-12ea1c201eab07ccfee2737ae9589493]: Commencement: Sch. 2 para. 1 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-1651273d4b12cf948a68813b6a15b3f6]: Commencement: Sch. 2 para. 2 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-1651273d4b12cf948a68813b6a15b3f6]: Commencement: Sch. 2 para. 2 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-2d32a9e26768bd8bb110ebc45ef0b3bb]: Commencement: Sch. 2 para. 3 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-2d32a9e26768bd8bb110ebc45ef0b3bb]: Commencement: Sch. 2 para. 3 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-eb6ac0cf8672b5c5c10f6d21187eb1cb]: Commencement: Sch. 2 para. 4 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-eb6ac0cf8672b5c5c10f6d21187eb1cb]: Commencement: Sch. 2 para. 4 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-bd96a284da7a0cc5a2a68cf0f7e23012]: Commencement: Sch. 2 para. 5 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-bd96a284da7a0cc5a2a68cf0f7e23012]: Commencement: Sch. 2 para. 5 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-e97cb96b345ca61b414ef49e09f69502]: Commencement: Sch. 2 para. 6 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-e97cb96b345ca61b414ef49e09f69502]: Commencement: Sch. 2 para. 6 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
 [^f00011]: Footnote: [S.I. 2013/2734](https://www.legislation.gov.uk/uksi/2013/2734).
 
-[^key-9f66098137e75a0995b03957ef1d197d]: Commencement: Sch. 2 para. 7 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-9f66098137e75a0995b03957ef1d197d]: Commencement: Sch. 2 para. 7 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-e2435d47141209fce11ac68c3abe0733]: Commencement: Sch. 2 para. 8 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-e2435d47141209fce11ac68c3abe0733]: Commencement: Sch. 2 para. 8 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-22156408076813ff321a304b82232268]: Commencement: Sch. 2 para. 9 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-22156408076813ff321a304b82232268]: Commencement: Sch. 2 para. 9 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-350594eede8823422667fad806b99671]: Commencement: Sch. 2 para. 10 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-350594eede8823422667fad806b99671]: Commencement: Sch. 2 para. 10 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-66576a79864409e7414ad96b9adab19f]: Commencement: Sch. 2 para. 11 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-66576a79864409e7414ad96b9adab19f]: Commencement: Sch. 2 para. 11 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-16c580d278faffd3a3f6945703a13e42]: Commencement: Sch. 2 para. 12 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-16c580d278faffd3a3f6945703a13e42]: Commencement: Sch. 2 para. 12 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-3944a03dc0632ab7d62ac7568d37cdab]: Commencement: Sch. 2 para. 13 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-3944a03dc0632ab7d62ac7568d37cdab]: Commencement: Sch. 2 para. 13 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-6e06df4170ab09d181d8677ea638ce01]: Commencement: Sch. 2 para. 14 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-6e06df4170ab09d181d8677ea638ce01]: Commencement: Sch. 2 para. 14 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-6d20fb126647fed79e2262db792d59f2]: Commencement: Sch. 2 para. 15 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-6d20fb126647fed79e2262db792d59f2]: Commencement: Sch. 2 para. 15 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-7010d7a893e581db6642d9ca34d89fdc]: Commencement: Sch. 2 para. 16 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-7010d7a893e581db6642d9ca34d89fdc]: Commencement: Sch. 2 para. 16 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-a53e864415cfccb676c9cdcfdf7d4d8a]: Commencement: Sch. 2 para. 17 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-a53e864415cfccb676c9cdcfdf7d4d8a]: Commencement: Sch. 2 para. 17 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-b0891e482b459c1ce3b781d089006763]: Commencement: Sch. 2 para. 18 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-b0891e482b459c1ce3b781d089006763]: Commencement: Sch. 2 para. 18 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-a4982abbbf99d4b78682404c274d6be6]: Commencement: Sch. 2 para. 19 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-a4982abbbf99d4b78682404c274d6be6]: Commencement: Sch. 2 para. 19 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
 
-[^key-f2706a2c7d1414ead28fef3753b054cf]: Commencement: Sch. 2 para. 20 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)
+[^c-f2706a2c7d1414ead28fef3753b054cf]: Commencement: Sch. 2 para. 20 in force at 1.4.2015, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b)

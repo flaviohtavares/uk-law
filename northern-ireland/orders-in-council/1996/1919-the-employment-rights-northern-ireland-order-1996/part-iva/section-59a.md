@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59A. Zero hours workers[^key-76f7c92732ab6c0fa7e1b90b0d58ea88]
+## 59A. Zero hours workers[^c-76f7c92732ab6c0fa7e1b90b0d58ea88]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76f7c92732ab6c0fa7e1b90b0d58ea88]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/nisi/1996/1919/part/4A) inserted (20.9.2021) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 18](https://www.legislation.gov.uk/nia/2016/15/section/18), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/253/article/2/c)
+[^c-76f7c92732ab6c0fa7e1b90b0d58ea88]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/nisi/1996/1919/part/4A) inserted (20.9.2021) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 18](https://www.legislation.gov.uk/nia/2016/15/section/18), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/253/article/2/c)

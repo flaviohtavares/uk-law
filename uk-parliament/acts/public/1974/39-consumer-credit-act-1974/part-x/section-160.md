@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Alternative procedure for business consumers.[^key-b59607837a6371f61b3d349c12eb0f70]
+## 160. Alternative procedure for business consumers.[^c-b59607837a6371f61b3d349c12eb0f70]
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA[^key-f6b1a71013d07a5fa2d55902bb812aac] , on an application made by a credit reference agency, may direct that this section shall apply to the agency if it[^c4983971] is satisfied—
+(1) The FCA[^c-f6b1a71013d07a5fa2d55902bb812aac] , on an application made by a credit reference agency, may direct that this section shall apply to the agency if it[^c4983971] is satisfied—
 
 - (a) that compliance with section 158 in the case of consumers who carry on a business would adversely affect the service provided to its customers by the agency, and
 - (b) that, having regard to the methods employed by the agency and to any other relevant factors, it is probable that consumers carrying on a business would not be prejudiced by the making of the direction.
@@ -33,7 +33,7 @@ summary: ''
 
 - (a) gives notice to the FCA that the consumer[^c2433101] is dissatisfied with the information, and
 - (b) satisfies the FCA that the consumer has taken such steps in relation to the agency as may be reasonable with a view to removing the cause of the consumer’s dissatisfaction, and
-- (c) pays the FCA the prescribed fee[^key-ffb907e939c9e7d0d5c5c64b79092a9b],
+- (c) pays the FCA the prescribed fee[^c-ffb907e939c9e7d0d5c5c64b79092a9b],
 
 the FCA may direct the agency to give the FCA a copy of the file, and the FCA may disclose to the consumer such of the information on the file as the FCA thinks fit.
 
@@ -45,9 +45,9 @@ the FCA may direct the agency to give the FCA a copy of the file, and the FCA ma
 
 ## Annotations
 
-[^key-b59607837a6371f61b3d349c12eb0f70]: Modification: Ss. 157-160 applied (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/2)
+[^c-b59607837a6371f61b3d349c12eb0f70]: Modification: Ss. 157-160 applied (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/2)
 
-[^key-f6b1a71013d07a5fa2d55902bb812aac]: Textual amendment: Word in s. 160 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(12)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/12)
+[^c-f6b1a71013d07a5fa2d55902bb812aac]: Textual amendment: Word in s. 160 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(12)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/12)
 
 [^c4983971]: Textual amendment: Word in s. 160(1) substituted (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25 para. 6(31)(b)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/6/31/b); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3))
 
@@ -55,6 +55,6 @@ the FCA may direct the agency to give the FCA a copy of the file, and the FCA ma
 
 [^c2433101]: Textual amendment: Words in s. 160(4)(a)(b) substituted (1.3.2000) by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [s. 62(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/1998/29/section/62/5/a/ii); [S.I. 2000/183](https://www.legislation.gov.uk/uksi/2000/183), [art. 2](https://www.legislation.gov.uk/uksi/2000/183/article/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/183/article/2/2))
 
-[^key-ffb907e939c9e7d0d5c5c64b79092a9b]: Textual amendment: Words in s. 160(4)(c) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(46)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/46)
+[^c-ffb907e939c9e7d0d5c5c64b79092a9b]: Textual amendment: Words in s. 160(4)(c) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(46)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/46)
 
 [^c2433131]: Textual amendment: S. 160(7) inserted (1.3.2000) by [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29), [s. 62(5)(b)](https://www.legislation.gov.uk/ukpga/1998/29/section/62/5/b); [S.I. 2000/183](https://www.legislation.gov.uk/uksi/2000/183), [art. 2](https://www.legislation.gov.uk/uksi/2000/183/article/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/183/article/2/2))

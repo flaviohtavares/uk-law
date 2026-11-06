@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Bankruptcy: meaning of “qualified creditor” and “qualified creditors”[^key-5fcce46429defab31536240c4e81f42c]
+## 20. Bankruptcy: meaning of “qualified creditor” and “qualified creditors”[^c-5fcce46429defab31536240c4e81f42c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fcce46429defab31536240c4e81f42c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2022/8/section/20) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-5fcce46429defab31536240c4e81f42c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2022/8/section/20) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

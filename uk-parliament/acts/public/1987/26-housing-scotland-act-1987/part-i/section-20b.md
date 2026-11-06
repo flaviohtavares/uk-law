@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20B. Determination of minimum period for application to remain in force[^key-74656a50dc73f334e6078c7c60e21db0]
+## 20B. Determination of minimum period for application to remain in force[^c-74656a50dc73f334e6078c7c60e21db0]
 
 *Extent: S*
 
@@ -54,7 +54,7 @@ summary: ''
   - (iii) this Act,
   - (iv) the Housing (Scotland) Act 1988 (c.43),
   - (v) the Housing (Scotland) Act 2001 (asp 10),
-- (ca)[^key-c037620637f52f64bf2ff0eaa4911f0d] an eviction order within the meaning of the Private Housing (Tenancies) (Scotland) Act 2016 has been issued against the person,
+- (ca)[^c-c037620637f52f64bf2ff0eaa4911f0d] an eviction order within the meaning of the Private Housing (Tenancies) (Scotland) Act 2016 has been issued against the person,
 - (d) the person's tenancy has been terminated by the landlord under section 18(2) of the Housing (Scotland) Act 2001 (repossession where abandoned tenancy),
 - (e) the person's interest in a tenancy has been terminated by the landlord under section 20(3) of the Housing (Scotland) Act 2001 (abandonment by joint tenant),
 - (f) in relation to a house where the person was a tenant, a court has ordered recovery of possession on the ground set out in paragraph 3 or 4 of schedule 2 to the Housing (Scotland) Act 2001,
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74656a50dc73f334e6078c7c60e21db0]: Textual amendment: S. 20B inserted (20.11.2014 for specified purposes, 1.5.2019 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 6(2)](https://www.legislation.gov.uk/asp/2014/14/section/6/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-74656a50dc73f334e6078c7c60e21db0]: Textual amendment: S. 20B inserted (20.11.2014 for specified purposes, 1.5.2019 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 6(2)](https://www.legislation.gov.uk/asp/2014/14/section/6/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
 
-[^key-c037620637f52f64bf2ff0eaa4911f0d]: Textual amendment: S. 20B(6)(ca) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 4(2)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/4/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-c037620637f52f64bf2ff0eaa4911f0d]: Textual amendment: S. 20B(6)(ca) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 4(2)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/4/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

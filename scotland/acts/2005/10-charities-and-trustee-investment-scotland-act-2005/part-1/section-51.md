@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. General duty of members of SCIO[^key-f47c0ab0385abaefb6cd6acdcfdf3df6]
+## 51. General duty of members of SCIO[^c-f47c0ab0385abaefb6cd6acdcfdf3df6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subsections (1)(a), (3) and (4) of section 66 apply to the members of a SCIO who
 
 ## Annotations
 
-[^key-f47c0ab0385abaefb6cd6acdcfdf3df6]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2005/10/section/51) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(b)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/b)
+[^c-f47c0ab0385abaefb6cd6acdcfdf3df6]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2005/10/section/51) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(b)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/b)

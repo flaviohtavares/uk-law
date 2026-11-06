@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 183. Remuneration payable to trustee under protected trust deed[^key-74aeac2d9d8ba7200a6f83925aca743f]
+## 183. Remuneration payable to trustee under protected trust deed[^c-74aeac2d9d8ba7200a6f83925aca743f]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74aeac2d9d8ba7200a6f83925aca743f]: Commencement: [S. 183](https://www.legislation.gov.uk/asp/2016/21/section/183) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-74aeac2d9d8ba7200a6f83925aca743f]: Commencement: [S. 183](https://www.legislation.gov.uk/asp/2016/21/section/183) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

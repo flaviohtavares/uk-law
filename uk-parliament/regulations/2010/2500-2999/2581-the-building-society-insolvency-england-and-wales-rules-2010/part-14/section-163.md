@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Control by building society liquidation committee[^key-0bf9a70a6c9486a206951b0a227e2276]
+## 163. Control by building society liquidation committee[^c-0bf9a70a6c9486a206951b0a227e2276]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.203 of the 1986 Rules.
 
 ## Annotations
 
-[^key-0bf9a70a6c9486a206951b0a227e2276]: Commencement: Rule 163 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0bf9a70a6c9486a206951b0a227e2276]: Commencement: Rule 163 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

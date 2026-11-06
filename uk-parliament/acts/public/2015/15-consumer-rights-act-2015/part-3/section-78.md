@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Amendment of weights and measures legislation regarding unwrapped bread[^key-03565f38e6e5172551a4da49203562de]
+## 78. Amendment of weights and measures legislation regarding unwrapped bread[^c-03565f38e6e5172551a4da49203562de]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03565f38e6e5172551a4da49203562de]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2015/15/section/78) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e)
+[^c-03565f38e6e5172551a4da49203562de]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2015/15/section/78) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/e)

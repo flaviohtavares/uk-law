@@ -38,18 +38,18 @@ of 10 April 2014
 
 setting the net balance available for EAGF expenditure (revoked)
 
-[^key-be3364effd8185dfc64ea02613a2801b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be3364effd8185dfc64ea02613a2801b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-be3364effd8185dfc64ea02613a2801b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-be3364effd8185dfc64ea02613a2801b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-be3364effd8185dfc64ea02613a2801b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-be3364effd8185dfc64ea02613a2801b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be3364effd8185dfc64ea02613a2801b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be3364effd8185dfc64ea02613a2801b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-be3364effd8185dfc64ea02613a2801b]
+## ANNEX[^c-be3364effd8185dfc64ea02613a2801b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be3364effd8185dfc64ea02613a2801b]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765)](https://www.legislation.gov.uk/uksi/2019/765), [regs. 1](https://www.legislation.gov.uk/uksi/2019/765/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/765/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be3364effd8185dfc64ea02613a2801b]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765)](https://www.legislation.gov.uk/uksi/2019/765), [regs. 1](https://www.legislation.gov.uk/uksi/2019/765/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/765/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

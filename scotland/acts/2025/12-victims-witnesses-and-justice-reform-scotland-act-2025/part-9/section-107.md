@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Circumstances in which non-harassment order must be considered by court[^key-33b2de64ee8e2ee07070771a7b62ed51][^key-3417ef0179062471e816e443d6a2ac41]
+## 107. Circumstances in which non-harassment order must be considered by court[^c-33b2de64ee8e2ee07070771a7b62ed51][^c-3417ef0179062471e816e443d6a2ac41]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33b2de64ee8e2ee07070771a7b62ed51]: Commencement: S. 107 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-33b2de64ee8e2ee07070771a7b62ed51]: Commencement: S. 107 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-3417ef0179062471e816e443d6a2ac41]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2025/12/section/107) in force at 1.9.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/120/regulation/3))
+[^c-3417ef0179062471e816e443d6a2ac41]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2025/12/section/107) in force at 1.9.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/120/regulation/3))

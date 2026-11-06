@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. PAYE threshold[^key-4d1f85d8321c31fbdca4d4f1b0750c34]
+## 9. PAYE threshold[^c-4d1f85d8321c31fbdca4d4f1b0750c34]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d1f85d8321c31fbdca4d4f1b0750c34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/2682/regulation/9) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-4d1f85d8321c31fbdca4d4f1b0750c34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/2682/regulation/9) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

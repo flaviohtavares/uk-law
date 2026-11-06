@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment of offence concerning fitting of unsuitable parts[^key-e2da20aa88904af11cd36eb774d14e02][^key-c705c30bec4b4a4f226e60e9ce295a00]
+## 56. Amendment of offence concerning fitting of unsuitable parts[^c-e2da20aa88904af11cd36eb774d14e02][^c-c705c30bec4b4a4f226e60e9ce295a00]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ In section 76 of the Road Traffic Act 1988 (fitting and supply of defective or u
 
 ## Annotations
 
-[^key-e2da20aa88904af11cd36eb774d14e02]: Commencement: S. 56 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e2da20aa88904af11cd36eb774d14e02]: Commencement: S. 56 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-c705c30bec4b4a4f226e60e9ce295a00]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2024/10/section/56) in force at 1.1.2026 by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/1/b)
+[^c-c705c30bec4b4a4f226e60e9ce295a00]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2024/10/section/56) in force at 1.1.2026 by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/1/b)

@@ -31,9 +31,9 @@ to at least one person who is not of the same household as A; and “**antisocia
 
 - “**conduct**” includes speech; and a course of conduct must involve conduct on at least two occasions;
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39); and “**area**”, in relation to a local authority, means the local government area (within the meaning of that Act) for which the council is constituted;
-- “**registered social landlord**” means a body registered in the register maintained under section 20(1) of the Housing (Scotland) Act 2010 (asp 17)[^key-6b7077dabca9ea41d7cec07586ba16a5] ; and
+- “**registered social landlord**” means a body registered in the register maintained under section 20(1) of the Housing (Scotland) Act 2010 (asp 17)[^c-6b7077dabca9ea41d7cec07586ba16a5] ; and
 - “**senior police officer**” has the meaning given by section 19(1).
 
 ## Annotations
 
-[^key-6b7077dabca9ea41d7cec07586ba16a5]: Textual amendment: Words in s. 143(2) substituted (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/11); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-6b7077dabca9ea41d7cec07586ba16a5]: Textual amendment: Words in s. 143(2) substituted (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/11); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

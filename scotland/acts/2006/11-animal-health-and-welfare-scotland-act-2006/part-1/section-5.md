@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Tests and samples[^key-abc91be899b8a5491394f776fccae63b]
+## 5. Tests and samples[^c-abc91be899b8a5491394f776fccae63b]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ After section 6D (inserted by section 4 of this Act) of the 1981 Act there is in
 
 ## Annotations
 
-[^key-abc91be899b8a5491394f776fccae63b]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2006/11/section/5) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-abc91be899b8a5491394f776fccae63b]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2006/11/section/5) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

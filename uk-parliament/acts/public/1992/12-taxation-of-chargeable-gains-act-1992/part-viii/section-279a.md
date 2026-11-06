@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279A. Deferred unascertainable consideration: election for treatment of loss[^key-5a9451e6f1f141be526fc4af929e24ff]
+## 279A. Deferred unascertainable consideration: election for treatment of loss[^c-5a9451e6f1f141be526fc4af929e24ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ or would have so accrued but for paragraph 2(2)(a) of Schedule 5B or 5C (postpon
 (7) For the purposes of subsection (5)(c) above, a year is one for which, immediately before an election, there remains a relevant amount on which capital gains tax is chargeable if, immediately before the making of that election, there remains an amount in respect of which the taxpayer is chargeable to capital gains tax for the year—
 
 - (a) after taking account of any previous elections made by the taxpayer under this section,
-- (b)[^key-5326888ec043397ae6dce0744ab69f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5326888ec043397ae6dce0744ab69f73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) on the assumption that no part of the relevant loss (or of any other loss in respect of which an election under this section may be, but has not been, made) falls to be deducted in consequence of an election under this section from the chargeable gains accruing to the taxpayer in that year.
 
 (8) In this section “**year**” means year of assessment.
@@ -73,6 +73,6 @@ or would have so accrued but for paragraph 2(2)(a) of Schedule 5B or 5C (postpon
 
 ## Annotations
 
-[^key-5a9451e6f1f141be526fc4af929e24ff]: Textual amendment: Ss. 279A-279D inserted (with effect in accordance with s. 162(3) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/162/1)
+[^c-5a9451e6f1f141be526fc4af929e24ff]: Textual amendment: Ss. 279A-279D inserted (with effect in accordance with s. 162(3) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/162/1)
 
-[^key-5326888ec043397ae6dce0744ab69f73]: Textual amendment: [S. 279A(7)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/279A/7/b) omitted (with effect in accordance with Sch. 12 para. 70(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 65](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/65), [70(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/3)
+[^c-5326888ec043397ae6dce0744ab69f73]: Textual amendment: [S. 279A(7)(b)](https://www.legislation.gov.uk/ukpga/1992/12/section/279A/7/b) omitted (with effect in accordance with Sch. 12 para. 70(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 65](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/65), [70(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Division of unsold assets[^key-ec7582f93416304f3cc5c0f22a46447d]
+## 39. Division of unsold assets[^c-ec7582f93416304f3cc5c0f22a46447d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The energy administrator may, with the permission of the creditors, divide in it
 
 ## Annotations
 
-[^key-ec7582f93416304f3cc5c0f22a46447d]: Commencement: Rule 39 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-ec7582f93416304f3cc5c0f22a46447d]: Commencement: Rule 39 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

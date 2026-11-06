@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Exception for broadcasting[^key-0897eff1edf7a39af706eef8025831fc]
+## 67. Exception for broadcasting[^c-0897eff1edf7a39af706eef8025831fc]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ a person to comply with a standard if, and to the extent that, the standard rela
 
 ## Annotations
 
-[^key-0897eff1edf7a39af706eef8025831fc]: Commencement: [S. 67](https://www.legislation.gov.uk/mwa/2011/1/section/67) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(iii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/iii)
+[^c-0897eff1edf7a39af706eef8025831fc]: Commencement: [S. 67](https://www.legislation.gov.uk/mwa/2011/1/section/67) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(iii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/iii)

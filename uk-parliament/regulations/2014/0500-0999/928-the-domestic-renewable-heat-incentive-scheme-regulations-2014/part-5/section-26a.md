@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26A. Investors and RHI payments[^key-923acd76a8eb8dcf11935c997af7b1ed]
+## 26A. Investors and RHI payments[^c-923acd76a8eb8dcf11935c997af7b1ed]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In relation to an accredited domestic plant with a tariff start date on or after
 
 ## Annotations
 
-[^key-923acd76a8eb8dcf11935c997af7b1ed]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2014/928/regulation/26A) inserted (27.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2018/635/regulation/5)
+[^c-923acd76a8eb8dcf11935c997af7b1ed]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2014/928/regulation/26A) inserted (27.6.2018) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/635)](https://www.legislation.gov.uk/uksi/2018/635), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/635/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2018/635/regulation/5)

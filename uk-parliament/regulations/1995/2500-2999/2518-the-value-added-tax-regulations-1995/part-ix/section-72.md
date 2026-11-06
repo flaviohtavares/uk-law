@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Ceasing to use a scheme[^key-2bdbfb0424442a5f1c876e8bbd0cc63e]
+## 72. Ceasing to use a scheme[^c-2bdbfb0424442a5f1c876e8bbd0cc63e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bdbfb0424442a5f1c876e8bbd0cc63e]: Commencement: Reg. 72 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-2bdbfb0424442a5f1c876e8bbd0cc63e]: Commencement: Reg. 72 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

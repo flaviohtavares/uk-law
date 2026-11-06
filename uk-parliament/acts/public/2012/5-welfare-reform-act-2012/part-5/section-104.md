@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Electronic communications[^key-d58855826bf53a10a2e512ed7943084d]
+## 104. Electronic communications[^c-d58855826bf53a10a2e512ed7943084d]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d58855826bf53a10a2e512ed7943084d]: Commencement: S. 104 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38)
+[^c-d58855826bf53a10a2e512ed7943084d]: Commencement: S. 104 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/38)

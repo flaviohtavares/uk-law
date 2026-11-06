@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Extinction or suspension of private rights of way[^key-d29f58a6cbc0d718ea1727c0c008cb90]
+## 41. Extinction or suspension of private rights of way[^c-d29f58a6cbc0d718ea1727c0c008cb90]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-d29f58a6cbc0d718ea1727c0c008cb90]: Commencement: Art. 41 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-d29f58a6cbc0d718ea1727c0c008cb90]: Commencement: Art. 41 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -30,15 +30,15 @@ Regulation 21(1)
 
 - (a) the name and address of the applicant;
 - (b) the name and address of the person (if any) making the application on the applicant's behalf;
-- (c) except where the operations will relate to an MM medicinal product or a POC medicinal product,[^key-deb821a300f9c1312ba80935a11285e0] the address of each of the premises where any operations to which the licence relates are to be carried out;
-- (ca)[^key-a82d36ed4a663088ea317739c5b4ce95] where the application relates to an MM medicinal product, the address of the MM control site;
+- (c) except where the operations will relate to an MM medicinal product or a POC medicinal product,[^c-deb821a300f9c1312ba80935a11285e0] the address of each of the premises where any operations to which the licence relates are to be carried out;
+- (ca)[^c-a82d36ed4a663088ea317739c5b4ce95] where the application relates to an MM medicinal product, the address of the MM control site;
 - (cb) where the application relates to a POC medicinal product, the address of the POC control site;
-- (d) the address of any premises not mentioned by virtue of paragraph (c) , (ca) or (cb)[^key-a2938b26c8e95a9b8be75f181d6db570] where—
+- (d) the address of any premises not mentioned by virtue of paragraph (c) , (ca) or (cb)[^c-a2938b26c8e95a9b8be75f181d6db570] where—
   - (i) the applicant proposes to keep any living animals, from which a substance used in the production of the medicinal product to which the application relates is to be derived, or
   - (ii) materials of animal origin, from which a substance is to be derived as mentioned in sub-paragraph (i), are to be kept;
 - (e) the address of each of the premises where medicinal products are to be stored, or from which medicinal products are to be distributed;
 - (f) the name, address, qualifications and experience of the person (“S”) whose duty it will be to supervise the manufacturing or assembling operations, and the name and job title of the person to whom S reports;
-- (g)[^key-e1915fc8cedfde6d452d48a88e306d4d] the name, address, qualifications and experience of the person with responsibility for quality control in relation to the medicinal products to be manufactured or assembled under the licence (and, if that responsibility is to be carried out by the holder of—
+- (g)[^c-e1915fc8cedfde6d452d48a88e306d4d] the name, address, qualifications and experience of the person with responsibility for quality control in relation to the medicinal products to be manufactured or assembled under the licence (and, if that responsibility is to be carried out by the holder of—
   - (i) in the case of a product for sale or supply in Great Britain, the UK marketing authorisation, certificate of registration or traditional herbal registration relating to the products, or
   - (ii) in the case of a product for sale or supply in Northern Ireland, the marketing authorisation, Article 126a authorisation, certificate of registration or traditional herbal registration relating to the products,
 
@@ -53,7 +53,7 @@ Regulation 21(1)
 - (b) details of the manufacturing or assembling operations to which the licence is to relate, including a statement of whether they include—
   - (i) the manufacture of medicinal products, or
   - (ii) the assembly of medicinal products;
-- (ba)[^key-c402eb95b2c9f6a24b585c6c494533b9] a statement of whether any of the medicinal products to be manufactured or assembled are MM medicinal products or POC medicinal products;
+- (ba)[^c-c402eb95b2c9f6a24b585c6c494533b9] a statement of whether any of the medicinal products to be manufactured or assembled are MM medicinal products or POC medicinal products;
 - (c) a statement of whether the medicinal products are to be manufactured or assembled for the purpose of—
   - (i) being administered to human beings in that form, or
   - (ii) as an ingredient in the preparation of another medicinal product;
@@ -75,7 +75,7 @@ Regulation 21(1)
   - (i) any manufacturing operations, other than those to which the licence is to relate, carried on by the proposed licence holder on or near the premises mentioned in sub-paragraph (2)(c), and
   - (ii) the substances or articles to which those operations relate.
 
-### Manufacturer’s licences (MM)[^key-08d7d29a017197702e25396ceecd8c83]
+### Manufacturer’s licences (MM)[^c-08d7d29a017197702e25396ceecd8c83]
 
 **1A.** (1) This paragraph applies to an application for a manufacturer’s licence relating to MM medicinal products.
 
@@ -116,7 +116,7 @@ Regulation 21(1)
 
 ### Manufacturers' licence relating to import
 
-**2.** (1)[^key-d82f2a0914b3549a39d88bc3f2c28b53] This paragraph applies to an application for a manufacturer's licence relating to the import from—
+**2.** (1)[^c-d82f2a0914b3549a39d88bc3f2c28b53] This paragraph applies to an application for a manufacturer's licence relating to the import from—
 
 - (a) in the case of an import into Great Britain, a country other than Northern Ireland or a country other than an approved country for import, or
 - (b) in the case of an import into Northern Ireland, a country other than an EEA State,
@@ -157,27 +157,27 @@ of medicinal products.
 - (a) the name and address of the applicant;
 - (b) the name and address of the person (if any) making the application on the applicant's behalf;
 - (c) the address of each of the premises where medicinal products are to be stored, or from which they are to be distributed; and
-- (d) the name, address and qualifications of the responsible person or the responsible person (import)[^key-d2591fe9a31e6ff58b299406fee29f83].
+- (d) the name, address and qualifications of the responsible person or the responsible person (import)[^c-d2591fe9a31e6ff58b299406fee29f83].
 
 (3) The application must also contain—
 
 - (a) details of the distribution by way of wholesale dealing to which the licence is to relate;
 - (b) a statement of whether the medicinal products to which the distribution relates are the subject of—
-  - (i)[^key-8ba08283f1ba002556bff7d01118da62] in the case of a product for sale or supply in Great Britain, a UK marketing authorisation,
+  - (i)[^c-8ba08283f1ba002556bff7d01118da62] in the case of a product for sale or supply in Great Britain, a UK marketing authorisation,
   - (ia) in the case of a product for sale or supply in Northern Ireland, a marketing authorisation,
   - (ii) a certificate of registration,
   - (iii) a traditional herbal registration, or
-  - (iv) in the case of a product for sale or supply in Northern Ireland,[^key-d03ab81841551ff2387093a901818d84] an Article 126a authorisation;
-  - (v)[^key-29ba8fdbbd7a1c34b31e42d369afaad5] an authorisation granted by an authority in a country other than the United Kingdom to sell or supply the medicinal product in that other country;
+  - (iv) in the case of a product for sale or supply in Northern Ireland,[^c-d03ab81841551ff2387093a901818d84] an Article 126a authorisation;
+  - (v)[^c-29ba8fdbbd7a1c34b31e42d369afaad5] an authorisation granted by an authority in a country other than the United Kingdom to sell or supply the medicinal product in that other country;
 - (c) a statement of whether the medicinal products to which the distribution relates are—
   - (i) prescription only medicines,
   - (ii) pharmacy medicines, or
   - (iii) medicines subject to general sale;
 - (d) a statement of whether the medicinal products to which the distribution relates are—
-  - (i) special medicinal products, [^key-a8d02ab1487b9c18318c4e897175fb8a]...
-  - (ia)[^key-b81e763118fa3a9a475c376db16d014d] EAMS medicinal products,
-  - (ii) sold or supplied pursuant to regulation 174 (supply in response to spread of pathogenic agents etc), or[^key-4f80f6b743e8f1ea10e442b411030801]
-  - (iii)[^key-42576d19890031df6cb422aae774e96d] to be distributed by means of export from Great Britain to an approved country for import;
+  - (i) special medicinal products, [^c-a8d02ab1487b9c18318c4e897175fb8a]...
+  - (ia)[^c-b81e763118fa3a9a475c376db16d014d] EAMS medicinal products,
+  - (ii) sold or supplied pursuant to regulation 174 (supply in response to spread of pathogenic agents etc), or[^c-4f80f6b743e8f1ea10e442b411030801]
+  - (iii)[^c-42576d19890031df6cb422aae774e96d] to be distributed by means of export from Great Britain to an approved country for import;
 - (e) a statement of whether the medicinal products dealt in under the licence are to be used—
   - (i) for administration to human beings, or
   - (ii) as ingredients in the preparation of medicinal products for administration to human beings;
@@ -187,7 +187,7 @@ of medicinal products.
 - (i) details of an emergency plan which satisfies the requirements of regulation 43(7)(b), and
 - (j) a description of the arrangements for keeping records relating to products received or dispatched.
 
-(4)[^key-aedbfd687ec8694e4df9fb5f66179cca] In sub-paragraph (2)(d)—
+(4)[^c-aedbfd687ec8694e4df9fb5f66179cca] In sub-paragraph (2)(d)—
 
 - “**the responsible person**” means the person who has the functions described in regulation 45(2);
 - “**the responsible person (import)**” means the person who has the functions described in regulation 45AA(4).
@@ -209,34 +209,34 @@ of medicinal products.
 
 ## Annotations
 
-[^key-deb821a300f9c1312ba80935a11285e0]: Textual amendment: Words in [Sch. 3 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/c) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(2)(a)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/2/a)
+[^c-deb821a300f9c1312ba80935a11285e0]: Textual amendment: Words in [Sch. 3 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/c) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(2)(a)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/2/a)
 
-[^key-a82d36ed4a663088ea317739c5b4ce95]: Textual amendment: [Sch. 3 para. 1(2)(ca)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/ca)[(cb)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/cb) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(2)(b)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/2/b)
+[^c-a82d36ed4a663088ea317739c5b4ce95]: Textual amendment: [Sch. 3 para. 1(2)(ca)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/ca)[(cb)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/cb) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(2)(b)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/2/b)
 
-[^key-a2938b26c8e95a9b8be75f181d6db570]: Textual amendment: Words in [Sch. 3 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/d) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(2)(c)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/2/c)
+[^c-a2938b26c8e95a9b8be75f181d6db570]: Textual amendment: Words in [Sch. 3 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/2/d) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(2)(c)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/2/c)
 
-[^key-e1915fc8cedfde6d452d48a88e306d4d]: Textual amendment: Sch. 3 para. 1(2)(g) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/a))
+[^c-e1915fc8cedfde6d452d48a88e306d4d]: Textual amendment: Sch. 3 para. 1(2)(g) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/a))
 
-[^key-c402eb95b2c9f6a24b585c6c494533b9]: Textual amendment: [Sch. 3 para. 1(3)(ba)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/3/ba) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/3)
+[^c-c402eb95b2c9f6a24b585c6c494533b9]: Textual amendment: [Sch. 3 para. 1(3)(ba)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1/3/ba) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/3)
 
-[^key-08d7d29a017197702e25396ceecd8c83]: Textual amendment: [Sch. 3 paras. 1A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1A), [1B](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/4)
+[^c-08d7d29a017197702e25396ceecd8c83]: Textual amendment: [Sch. 3 paras. 1A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1A), [1B](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/1B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2025/87/regulation/34/4)
 
-[^key-d82f2a0914b3549a39d88bc3f2c28b53]: Textual amendment: Sch. 3 para. 2(1) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/3) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/b))
+[^c-d82f2a0914b3549a39d88bc3f2c28b53]: Textual amendment: Sch. 3 para. 2(1) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/3) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/b))
 
-[^key-d2591fe9a31e6ff58b299406fee29f83]: Textual amendment: Words in [Sch. 3 para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/2/d) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2591fe9a31e6ff58b299406fee29f83]: Textual amendment: Words in [Sch. 3 para. 3(2)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/2/d) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ba08283f1ba002556bff7d01118da62]: Textual amendment: Sch. 3 para. 3(3)(b)(i)(ia) substituted for Sch. 3 para. 3(3)(b)(i) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/b/i) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/c/i))
+[^c-8ba08283f1ba002556bff7d01118da62]: Textual amendment: Sch. 3 para. 3(3)(b)(i)(ia) substituted for Sch. 3 para. 3(3)(b)(i) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/b/i) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/c/i))
 
-[^key-d03ab81841551ff2387093a901818d84]: Textual amendment: Words in Sch. 3 para. 3(3)(b)(iv) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/b/ii) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/c/ii))
+[^c-d03ab81841551ff2387093a901818d84]: Textual amendment: Words in Sch. 3 para. 3(3)(b)(iv) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/b/ii) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 12(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/12/c/ii))
 
-[^key-29ba8fdbbd7a1c34b31e42d369afaad5]: Textual amendment: [Sch. 3 para. 3(3)(b)(v)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/b/v) inserted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29ba8fdbbd7a1c34b31e42d369afaad5]: Textual amendment: [Sch. 3 para. 3(3)(b)(v)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/b/v) inserted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8d02ab1487b9c18318c4e897175fb8a]: Textual amendment: Word in [Sch. 3 para. 3(3)(d)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/d/i) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8d02ab1487b9c18318c4e897175fb8a]: Textual amendment: Word in [Sch. 3 para. 3(3)(d)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/d/i) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b81e763118fa3a9a475c376db16d014d]: Textual amendment: [Sch. 3 para. 3(3)(d)(ia)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/d/ia) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/352/regulation/13) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-b81e763118fa3a9a475c376db16d014d]: Textual amendment: [Sch. 3 para. 3(3)(d)(ia)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/d/ia) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2022/352/regulation/13) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
 
-[^key-4f80f6b743e8f1ea10e442b411030801]: Textual amendment: Words in [Sch. 3 para. 3(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/d/ii) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f80f6b743e8f1ea10e442b411030801]: Textual amendment: Words in [Sch. 3 para. 3(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/3/d/ii) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42576d19890031df6cb422aae774e96d]: Textual amendment: Sch. 3 para. 3(3)(d)(iii) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/c/iii) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1 Sch. 2 para. 12(d)](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1/schedule/2/paragraph/12/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42576d19890031df6cb422aae774e96d]: Textual amendment: Sch. 3 para. 3(3)(d)(iii) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/c/iii) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1 Sch. 2 para. 12(d)](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1/schedule/2/paragraph/12/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aedbfd687ec8694e4df9fb5f66179cca]: Textual amendment: [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/4) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(d)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aedbfd687ec8694e4df9fb5f66179cca]: Textual amendment: [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/3/paragraph/3/4) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [18(4)(d)](https://www.legislation.gov.uk/uksi/2019/775/regulation/18/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

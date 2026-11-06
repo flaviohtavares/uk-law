@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.22. Payment of money held or detained in satisfaction of confiscation order[^key-571b20d3590fbb886f880d6339771648]
+## 33.22. Payment of money held or detained in satisfaction of confiscation order[^c-571b20d3590fbb886f880d6339771648]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-571b20d3590fbb886f880d6339771648]: Commencement: [Rule 33.22](https://www.legislation.gov.uk/uksi/2025/909/rule/33.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-571b20d3590fbb886f880d6339771648]: Commencement: [Rule 33.22](https://www.legislation.gov.uk/uksi/2025/909/rule/33.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00812]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 67 was amended by section 109 of, and paragraph 409 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 74 of, and paragraph 33 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 14 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9) and section 26 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 

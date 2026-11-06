@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Preparation of rating
 
-### 1. Food hygiene rating[^key-0166d56775d5edb9138071d84a2ded9d]
+### 1. Food hygiene rating[^c-0166d56775d5edb9138071d84a2ded9d]
 
 Where a district council has carried out an inspection of a food business establishment in its district, it must rate the food hygiene standards of the establishment on the basis of that inspection.
 
@@ -51,17 +51,17 @@ Where a district council has carried out an inspection of a food business establ
 - (a) is required to be registered with a district council under Article 6 of Regulation [(EC) 852/2004](https://www.legislation.gov.uk/eur/2004/852) or to be approved by a district council under Article 4 of Regulation [(EC) 853/2004](https://www.legislation.gov.uk/eur/2004/853), and
 - (b) supplies food direct to consumers.
 
-(5) A reference to carrying out an inspection of a food business establishment is a reference to carrying out an activity in relation to the establishment as part of official controls under Regulation (EU) 2017/625[^key-9da932fce4d1b783987332c1e4b72e6f] .
+(5) A reference to carrying out an inspection of a food business establishment is a reference to carrying out an activity in relation to the establishment as part of official controls under Regulation (EU) 2017/625[^c-9da932fce4d1b783987332c1e4b72e6f] .
 
 (6) The Department may by regulations specify categories of establishment in relation to which the duty under subsection (1) does not apply.
 
 (7) The Department may by order amend the definition of “food business establishment”.
 
-### 2. Notification and publication[^key-24bceb1ecb6f6054bfe562a0f64f4a4c]
+### 2. Notification and publication[^c-24bceb1ecb6f6054bfe562a0f64f4a4c]
 
 (1) Within 14 days of carrying out an inspection of a food business establishment, a district council must, if it has prepared a food hygiene rating for the establishment on the basis of that inspection, notify the rating to the operator of the establishment.
 
-(2) “**Operator**”, in relation to a food business establishment, has the same meaning as “food business operator” has in Regulation[^key-ab7c134041027b0f61a9b705227c5f76] [(EC) 178/2002](https://www.legislation.gov.uk/eur/2002/178) .
+(2) “**Operator**”, in relation to a food business establishment, has the same meaning as “food business operator” has in Regulation[^c-ab7c134041027b0f61a9b705227c5f76] [(EC) 178/2002](https://www.legislation.gov.uk/eur/2002/178) .
 
 (3) The notification must be in writing and must (in so far as the district council has not already provided the operator with the following) be accompanied by—
 
@@ -94,7 +94,7 @@ Where a district council has carried out an inspection of a food business establ
 
 ## Appeal, re-rating etc.
 
-### 3. Appeal[^key-51297eb831aa65c1da449da0f10f8c1d]
+### 3. Appeal[^c-51297eb831aa65c1da449da0f10f8c1d]
 
 (1) The operator of a food business establishment may appeal against the establishment's food hygiene rating.
 
@@ -133,7 +133,7 @@ Where a district council has carried out an inspection of a food business establ
 
 (12) The Department may by order amend this section so as to provide for an appeal under this section to be determined by a person other than the district council which produced the rating in question.
 
-### 4. Request for re-rating[^key-37db6933ff52bdcf0830437616eaf96f]
+### 4. Request for re-rating[^c-37db6933ff52bdcf0830437616eaf96f]
 
 (1) This section applies where a district council receives a request from the operator of a food business establishment in its district for the council to review the establishment's food hygiene rating.
 
@@ -181,7 +181,7 @@ Where a district council has carried out an inspection of a food business establ
 
 (12) The Department may by order amend this section so as to limit, in the case of each food hygiene rating for an establishment, the number of occasions on which the right to request a review of the rating may be exercised.
 
-### 5. Right of reply[^key-c10626fe93896af19722c816f5a177f3]
+### 5. Right of reply[^c-c10626fe93896af19722c816f5a177f3]
 
 (1) A district council must give the operator of a food business establishment in its district the opportunity to make written representations on the establishment's food hygiene rating (regardless of whether or when the operator appeals against or otherwise challenges the rating).
 
@@ -201,7 +201,7 @@ Where a district council has carried out an inspection of a food business establ
 
 ## Validity of rating and related duties
 
-### 6. Validity of rating[^key-3718d30dc794b0736c78d3f62db23c20]
+### 6. Validity of rating[^c-3718d30dc794b0736c78d3f62db23c20]
 
 (1) A food business establishment's food hygiene rating—
 
@@ -219,7 +219,7 @@ Where a district council has carried out an inspection of a food business establ
 - (a) becomes valid as soon as it is received by the operator of the establishment, and
 - (b) remains valid for as long as the rating to which it relates is valid.
 
-### 7. Duty to display rating[^key-b7204111282e42047132b3ca7e04713a]
+### 7. Duty to display rating[^c-b7204111282e42047132b3ca7e04713a]
 
 (1) The operator of a food business establishment must ensure that a valid sticker showing the establishment's food hygiene rating is displayed in the location and manner specified by the Department in regulations for so long as the rating is valid.
 
@@ -229,7 +229,7 @@ Where a district council has carried out an inspection of a food business establ
 
 (4) The regulations may, for example, require a food hygiene rating to be provided online by means of a link to the rating in the form in which it is published by the Food Standards Agency under section 2(5).
 
-### 8. Duty to provide information about rating[^key-b4e95e4fdea87389c7b7d6b5ff5a66e9]
+### 8. Duty to provide information about rating[^c-b4e95e4fdea87389c7b7d6b5ff5a66e9]
 
 (1) The operator of a food business establishment or a relevant employee at the establishment must, on being requested to do so, orally inform the person making the request of the establishment's food hygiene rating.
 
@@ -240,7 +240,7 @@ Where a district council has carried out an inspection of a food business establ
 
 ## Enforcement
 
-### 9. Enforcement and powers of entry[^key-6233d47f8d150bfae37bbc605cc413c0]
+### 9. Enforcement and powers of entry[^c-6233d47f8d150bfae37bbc605cc413c0]
 
 (1) Each district council must enforce the provisions of this Act in its district.
 
@@ -253,7 +253,7 @@ Where a district council has carried out an inspection of a food business establ
 
 (4) An “authorised officer” of a district council is an officer authorised by the council in writing, either in general or specific terms, to act in matters arising under this Act.
 
-### 10. Offences[^key-c3effa1efc7a9b22e1fecdf0a03dfe06]
+### 10. Offences[^c-c3effa1efc7a9b22e1fecdf0a03dfe06]
 
 (1) The operator of a food business establishment commits an offence if, without reasonable excuse, the operator fails to comply with the duty under section 7(1) or a duty in regulations under section 7(3).
 
@@ -289,7 +289,7 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 (10) “**Partner**” includes a person purporting to act as such.
 
-### 11. Fixed penalty[^key-923ffa18dfd4a3e5fa785e0565f3e1c6]
+### 11. Fixed penalty[^c-923ffa18dfd4a3e5fa785e0565f3e1c6]
 
 (1) Where an authorised officer of a district council has reason to believe that an offence has been committed under section 10(1) or (2) in the case of a food business establishment in its district, the officer may give the operator of the establishment a fixed penalty notice.
 
@@ -299,7 +299,7 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Miscellaneous functions
 
-### 12. Provision of information for new businesses[^key-1a0334fc50dd9cf43fad0a3b3143e421]
+### 12. Provision of information for new businesses[^c-1a0334fc50dd9cf43fad0a3b3143e421]
 
 (1) This section applies if an establishment which is or would be a food business establishment—
 
@@ -308,7 +308,7 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 (2) The district council must, within 14 days of making the registration or receiving the application, provide the person who is or would be the operator of the establishment with such information as the Department may specify in regulations (in so far as the district council has not already done so).
 
-### 13. Mobile establishments[^key-04931a0bdf51639365cb765150c11e59]
+### 13. Mobile establishments[^c-04931a0bdf51639365cb765150c11e59]
 
 (1) The Department may by regulations make provision for enabling the transfer of the inspection and rating functions of a district council, in so far as they are exercisable in relation to mobile food business establishments registered with the council under Article 6 of Regulation [(EC) 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852), to another district council.
 
@@ -321,7 +321,7 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 (4) The regulations may confer a discretion on a district council (in particular, in making provision in reliance on section 17(5) of the Interpretation Act (Northern Ireland) 1954 (power to make different provision for different cases etc.)).
 
-### 14. Review of operation of Act[^key-cb0e15ddf723c523c3fef55cd866fbf4]
+### 14. Review of operation of Act[^c-cb0e15ddf723c523c3fef55cd866fbf4]
 
 (1) Each district council—
 
@@ -355,14 +355,14 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 (9) The Food Standards Agency must promote the scheme provided for by this Act.
 
-### 15. Guidance[^key-32dd49f64568d6f9d1a537e974c332ca]
+### 15. Guidance[^c-32dd49f64568d6f9d1a537e974c332ca]
 
 In exercising a function under this Act, a district council must have regard to—
 
 - (a) guidance issued by the Department, and
 - (b) guidance issued by the Food Standards Agency.
 
-### 16. Adjustment of time periods[^key-dd8a0028b3066c1d3326d962d7233240]
+### 16. Adjustment of time periods[^c-dd8a0028b3066c1d3326d962d7233240]
 
 (1) The Department may by order amend a provision of this Act which specifies a period within which something may or must be done by substituting a different period for the period for the time being specified.
 
@@ -380,14 +380,14 @@ In exercising a function under this Act, a district council must have regard to�
 - “**the Department**” means the Department of Health, Social Services and Public Safety,
 - “**end of the appeal period**”, in relation to a food hygiene rating, has the meaning given in section 2(6);
 - “**establishment**” means an establishment within the meaning of Regulations [(EC) 852/2004](https://www.legislation.gov.uk/eur/2004/852) and 853/2004,
-- “**food**” has the same meaning as in Regulation[^key-04787a62d04bc2131de4ddaad38707b6] [(EC) 178/2002](https://www.legislation.gov.uk/eur/2002/178) ,
+- “**food**” has the same meaning as in Regulation[^c-04787a62d04bc2131de4ddaad38707b6] [(EC) 178/2002](https://www.legislation.gov.uk/eur/2002/178) ,
 - “**food business establishment**” has the meaning given in section 1,
 - “**food hygiene rating**” has the meaning given in that section (but see also sections 3(10) and 4(10)),
 - “**operator**”, in relation to a food business establishment, has the meaning given in section 2,
-- “Regulation[^key-9b1fe66600deccde43ae8654f6d6c9aa] [(EC) 178/2002](https://www.legislation.gov.uk/eur/2002/178)” means Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (as amended from time to time),
+- “Regulation[^c-9b1fe66600deccde43ae8654f6d6c9aa] [(EC) 178/2002](https://www.legislation.gov.uk/eur/2002/178)” means Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (as amended from time to time),
 - “**Regulation [(EC) 852/2004](https://www.legislation.gov.uk/eur/2004/852)**” means Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/eur/2004/852) of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (as amended from time to time),
 - “**Regulation [(EC) 853/2004](https://www.legislation.gov.uk/eur/2004/853)**” means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin (as amended from time to time), and
-- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-e1a952c49a972ad707a07ed7bd866d0b] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eudn/1992/0438) (as amended from time to time).
+- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^c-e1a952c49a972ad707a07ed7bd866d0b] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eudn/1992/0438) (as amended from time to time).
 
 (2) A reference in this Act to inspecting, or carrying out an inspection of, a food business establishment is (except in sections 3(9) and 4(2) and (3) where the context requires otherwise) to be read in accordance with section 1.
 
@@ -452,12 +452,12 @@ Section 11.
 
 ### Contents of fixed penalty notice
 
-**1.**[^key-c90732ec6454bcdb72057b1b7710aa41] A fixed penalty notice must—
+**1.**[^c-c90732ec6454bcdb72057b1b7710aa41] A fixed penalty notice must—
 
 - (a) state the alleged offence, and
 - (b) give such particulars of the circumstances alleged to constitute it as are necessary for giving reasonable information about it.
 
-**2.**[^key-f1be0faa5c972c0ccf33ca0bcc191451] (1) A fixed penalty notice must also state—
+**2.**[^c-f1be0faa5c972c0ccf33ca0bcc191451] (1) A fixed penalty notice must also state—
 
 - (a) the amount of the penalty and the period for its payment,
 - (b) the consequences of not paying the penalty before the end of the period mentioned in paragraph (a),
@@ -467,48 +467,48 @@ Section 11.
 
 (2) The person mentioned in sub-paragraph (1)(c) and (e) must be the district council for which the authorised officer was acting when giving the notice.
 
-**3.**[^key-568162b468ecd7fe87dd48765c7d5e2b] A fixed penalty notice must also—
+**3.**[^c-568162b468ecd7fe87dd48765c7d5e2b] A fixed penalty notice must also—
 
 - (a) inform the person to whom it is given of the person's right to be tried for the alleged offence, and
 - (b) explain how that right may be exercised.
 
 ### Amount of penalty and period for payment
 
-**4.**[^key-1fd3125f61cde248131c9be75d5666b3] The fixed penalty is such amount as the Department may specify by order.
+**4.**[^c-1fd3125f61cde248131c9be75d5666b3] The fixed penalty is such amount as the Department may specify by order.
 
-**5.**[^key-7c6316b59e4e9b20d16b752cd485c610] (1) The period for payment of the fixed penalty is 28 days beginning with the day on which the notice is given.
+**5.**[^c-7c6316b59e4e9b20d16b752cd485c610] (1) The period for payment of the fixed penalty is 28 days beginning with the day on which the notice is given.
 
 (2) But where the notice so provides, the amount payable is reduced by 25% if payment is made within the first 14 days of that period.
 
 ### Effect of notice and payment
 
-**6.**[^key-13f03fb4d40c06a105a3d9f282a891c5] (1) Proceedings for the offence in respect of which a fixed penalty notice was given may not be brought before the end of the period for payment of the fixed penalty.
+**6.**[^c-13f03fb4d40c06a105a3d9f282a891c5] (1) Proceedings for the offence in respect of which a fixed penalty notice was given may not be brought before the end of the period for payment of the fixed penalty.
 
 (2) Sub-paragraph (1) does not apply if the person to whom the notice was given has asked in accordance with paragraphs 11 and 12 to be tried for the alleged offence.
 
-**7.**[^key-3abe71fc2bb57fc8be9c87d67a3fd892] If the fixed penalty is paid in accordance with the fixed penalty notice before the end of the period for payment of the fixed penalty, no proceedings for the offence may be brought and paragraph 11 does not apply.
+**7.**[^c-3abe71fc2bb57fc8be9c87d67a3fd892] If the fixed penalty is paid in accordance with the fixed penalty notice before the end of the period for payment of the fixed penalty, no proceedings for the offence may be brought and paragraph 11 does not apply.
 
-**8.**[^key-007544f89083ffe20ddaa0adadd25782] If proceedings have been brought following a request under paragraph 11, but the penalty is then paid as mentioned in paragraph 7, the proceedings may not be continued.
+**8.**[^c-007544f89083ffe20ddaa0adadd25782] If proceedings have been brought following a request under paragraph 11, but the penalty is then paid as mentioned in paragraph 7, the proceedings may not be continued.
 
-**9.**[^key-83cb2053fc0f0e25258fef31f14cf4e9] In proceedings for the offence in respect of which a fixed penalty notice was given, a certificate is evidence of the facts which it states if it—
+**9.**[^c-83cb2053fc0f0e25258fef31f14cf4e9] In proceedings for the offence in respect of which a fixed penalty notice was given, a certificate is evidence of the facts which it states if it—
 
 - (a) purports to be signed by or on behalf of the person responsible for the financial affairs of the district council for which the authorised officer who gave a fixed penalty notice was acting, and
 - (b) states that payment of the fixed penalty in response to the notice was or was not received by the expiry of the period within which that fixed penalty may be paid.
 
-**10.**[^key-29b7f837d61e4e9006d38498a53b709a] Any sum received by a district council under this Schedule accrues to it; but the district council may use the sums received only for the purposes of its functions under this Act.
+**10.**[^c-29b7f837d61e4e9006d38498a53b709a] Any sum received by a district council under this Schedule accrues to it; but the district council may use the sums received only for the purposes of its functions under this Act.
 
 ### Trial
 
-**11.**[^key-c21585b732a900bc0ee1dfd57736d50e] If the person to whom a fixed penalty notice is given asks to be tried for the alleged offence, proceedings may be brought against that person.
+**11.**[^c-c21585b732a900bc0ee1dfd57736d50e] If the person to whom a fixed penalty notice is given asks to be tried for the alleged offence, proceedings may be brought against that person.
 
-**12.**[^key-3faeb212cbb5a76bad55b217e6150609] Any request to be tried must be made—
+**12.**[^c-3faeb212cbb5a76bad55b217e6150609] Any request to be tried must be made—
 
 - (a) by notice given to the district council in question before the end of the period for payment of the penalty, and
 - (b) in the manner specified in the fixed penalty notice.
 
 ### Withdrawal of fixed penalty notices
 
-**13.**[^key-80a795153a5a8597a11bc03d5b762fb0] (1) The district council must, having received any representations made by or on behalf of the recipient of a fixed penalty notice, decide whether to withdraw the notice.
+**13.**[^c-80a795153a5a8597a11bc03d5b762fb0] (1) The district council must, having received any representations made by or on behalf of the recipient of a fixed penalty notice, decide whether to withdraw the notice.
 
 (2) Where a fixed penalty notice is withdrawn under sub-paragraph (1)—
 
@@ -518,7 +518,7 @@ Section 11.
 
 ### Regulations
 
-**14.**[^key-f44049c21ef824141fd60c2d621571ce] The Department may by regulations—
+**14.**[^c-f44049c21ef824141fd60c2d621571ce] The Department may by regulations—
 
 - (a) provide that fixed penalty notices may not be given in specified circumstances;
 - (b) provide for the form of a fixed penalty notice;
@@ -528,72 +528,72 @@ Section 11.
 
 ## Annotations
 
-[^key-0166d56775d5edb9138071d84a2ded9d]: Commencement: S. 1 in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-0166d56775d5edb9138071d84a2ded9d]: Commencement: S. 1 in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-9da932fce4d1b783987332c1e4b72e6f]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/nia/2016/3/section/1/5) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/2)
+[^c-9da932fce4d1b783987332c1e4b72e6f]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/nia/2016/3/section/1/5) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/2)
 
-[^key-24bceb1ecb6f6054bfe562a0f64f4a4c]: Commencement: S. 2 in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-24bceb1ecb6f6054bfe562a0f64f4a4c]: Commencement: S. 2 in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-ab7c134041027b0f61a9b705227c5f76]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/nia/2016/3/section/2/2) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/3)
+[^c-ab7c134041027b0f61a9b705227c5f76]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/nia/2016/3/section/2/2) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/3)
 
-[^key-51297eb831aa65c1da449da0f10f8c1d]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/3/section/3) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-51297eb831aa65c1da449da0f10f8c1d]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/3/section/3) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-37db6933ff52bdcf0830437616eaf96f]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/3/section/4) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-37db6933ff52bdcf0830437616eaf96f]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/3/section/4) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-c10626fe93896af19722c816f5a177f3]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/3/section/5) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-c10626fe93896af19722c816f5a177f3]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/3/section/5) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-3718d30dc794b0736c78d3f62db23c20]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/3/section/6) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-3718d30dc794b0736c78d3f62db23c20]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/3/section/6) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-b7204111282e42047132b3ca7e04713a]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/3/section/7) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-b7204111282e42047132b3ca7e04713a]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/3/section/7) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-b4e95e4fdea87389c7b7d6b5ff5a66e9]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/3/section/8) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-b4e95e4fdea87389c7b7d6b5ff5a66e9]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/3/section/8) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-6233d47f8d150bfae37bbc605cc413c0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/3/section/9) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-6233d47f8d150bfae37bbc605cc413c0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/3/section/9) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-c3effa1efc7a9b22e1fecdf0a03dfe06]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/3/section/10) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-c3effa1efc7a9b22e1fecdf0a03dfe06]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2016/3/section/10) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-923ffa18dfd4a3e5fa785e0565f3e1c6]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/3/section/11) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-923ffa18dfd4a3e5fa785e0565f3e1c6]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/3/section/11) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-1a0334fc50dd9cf43fad0a3b3143e421]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/3/section/12) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-1a0334fc50dd9cf43fad0a3b3143e421]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2016/3/section/12) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-04931a0bdf51639365cb765150c11e59]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/3/section/13) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-04931a0bdf51639365cb765150c11e59]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/3/section/13) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-cb0e15ddf723c523c3fef55cd866fbf4]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/3/section/14) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-cb0e15ddf723c523c3fef55cd866fbf4]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/3/section/14) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-32dd49f64568d6f9d1a537e974c332ca]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/3/section/15) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-32dd49f64568d6f9d1a537e974c332ca]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/3/section/15) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-dd8a0028b3066c1d3326d962d7233240]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/3/section/16) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-dd8a0028b3066c1d3326d962d7233240]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/3/section/16) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-04787a62d04bc2131de4ddaad38707b6]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/nia/2016/3/section/17/1) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/4/a)
+[^c-04787a62d04bc2131de4ddaad38707b6]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/nia/2016/3/section/17/1) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/4/a)
 
-[^key-9b1fe66600deccde43ae8654f6d6c9aa]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/nia/2016/3/section/17/1) inserted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/4/b)
+[^c-9b1fe66600deccde43ae8654f6d6c9aa]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/nia/2016/3/section/17/1) inserted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/4/b)
 
-[^key-e1a952c49a972ad707a07ed7bd866d0b]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/nia/2016/3/section/17/1) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/4/c)
+[^c-e1a952c49a972ad707a07ed7bd866d0b]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/nia/2016/3/section/17/1) substituted (23.12.2020) by [The Food Hygiene Rating Act (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/267)](https://www.legislation.gov.uk/nisr/2020/267), [regs. 1](https://www.legislation.gov.uk/nisr/2020/267/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2020/267/regulation/2/4/c)
 
-[^key-c90732ec6454bcdb72057b1b7710aa41]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/1) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-c90732ec6454bcdb72057b1b7710aa41]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/1) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-f1be0faa5c972c0ccf33ca0bcc191451]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/2) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-f1be0faa5c972c0ccf33ca0bcc191451]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/2) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-568162b468ecd7fe87dd48765c7d5e2b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/3) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-568162b468ecd7fe87dd48765c7d5e2b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/3) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-1fd3125f61cde248131c9be75d5666b3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/4) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-1fd3125f61cde248131c9be75d5666b3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/4) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-7c6316b59e4e9b20d16b752cd485c610]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/5) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-7c6316b59e4e9b20d16b752cd485c610]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/5) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-13f03fb4d40c06a105a3d9f282a891c5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/6) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-13f03fb4d40c06a105a3d9f282a891c5]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/6) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-3abe71fc2bb57fc8be9c87d67a3fd892]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/7) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-3abe71fc2bb57fc8be9c87d67a3fd892]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/7) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-007544f89083ffe20ddaa0adadd25782]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/8) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-007544f89083ffe20ddaa0adadd25782]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/8) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-83cb2053fc0f0e25258fef31f14cf4e9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/9) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-83cb2053fc0f0e25258fef31f14cf4e9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/9) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-29b7f837d61e4e9006d38498a53b709a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/10) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-29b7f837d61e4e9006d38498a53b709a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/10) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-c21585b732a900bc0ee1dfd57736d50e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/11) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-c21585b732a900bc0ee1dfd57736d50e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/11) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-3faeb212cbb5a76bad55b217e6150609]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/12) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-3faeb212cbb5a76bad55b217e6150609]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/12) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-80a795153a5a8597a11bc03d5b762fb0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/13) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-80a795153a5a8597a11bc03d5b762fb0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/13) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
 
-[^key-f44049c21ef824141fd60c2d621571ce]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/14) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)
+[^c-f44049c21ef824141fd60c2d621571ce]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nia/2016/3/schedule/paragraph/14) in operation at 7.10.2016 by [S.R. 2016/328](https://www.legislation.gov.uk/nisr/2016/328), [art. 2](https://www.legislation.gov.uk/nisr/2016/328/article/2)

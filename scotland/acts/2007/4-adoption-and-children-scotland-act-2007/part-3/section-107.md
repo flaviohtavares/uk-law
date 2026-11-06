@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Making of adoption order no longer to be bar to making of contact order[^key-4337d972c3c5647637708cb922949adb]
+## 107. Making of adoption order no longer to be bar to making of contact order[^c-4337d972c3c5647637708cb922949adb]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 11 of the 1995 Act (court orders relating to parental responsibilitie
 
 ## Annotations
 
-[^key-4337d972c3c5647637708cb922949adb]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2007/4/section/107) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-4337d972c3c5647637708cb922949adb]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2007/4/section/107) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

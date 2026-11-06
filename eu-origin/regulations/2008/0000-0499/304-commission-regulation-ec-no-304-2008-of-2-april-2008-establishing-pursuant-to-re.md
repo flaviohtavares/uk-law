@@ -116,7 +116,7 @@ For the purposes of this Regulation the following definitions shall apply:
 
 2. Paragraph 1 shall not apply for a maximum period of one year to personnel undertaking one of the activities referred to in Article 2(1), enrolled in a training course for the purpose of obtaining a certificate covering the relevant activity, provided that they carry out the activity under the supervision of a person holding a certificate covering the relevant activity.
 
-3.[^key-df8c2aa9a6057611586e5dceaba92b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-df8c2aa9a6057611586e5dceaba92b27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 5. Personnel certificates
 
@@ -132,7 +132,7 @@ For the purposes of this Regulation the following definitions shall apply:
 
 4. Where an existing examination based certification system meets the requirements of Articles 10 and 11 and partially covers the minimum skills as set out in the Annex, certification bodies may issue a certificate provided that the applicant passes a supplementary examination of the skills and knowledge not covered by the existing certification organised by an evaluation body referred to in Article 11.
 
-## Article 6. Interim certificates for personnel[^key-ffdf57a2c89c752ad7e058cb076fb0bb]
+## Article 6. Interim certificates for personnel[^c-ffdf57a2c89c752ad7e058cb076fb0bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -140,7 +140,7 @@ For the purposes of this Regulation the following definitions shall apply:
 
 1. Companies referred to in Article 2(2) shall hold a certificate as referred to in Article 8 or Article 9.
 
-2.[^key-ae141c79f0cd68cbad2a62d0a3a96384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-ae141c79f0cd68cbad2a62d0a3a96384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 8. Company certificates
 
@@ -155,13 +155,13 @@ For the purposes of this Regulation the following definitions shall apply:
 - (b) the activities which the holder of the certificate is entitled to perform;
 - (c) issuing date and issuer’s signature.
 
-## Article 9. Interim certificates for companies[^key-3ca1be54ce57339a362188c9dca2b785]
+## Article 9. Interim certificates for companies[^c-3ca1be54ce57339a362188c9dca2b785]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 10. Certification body
 
-1. A certification body shall be [^key-33d791f045eb4906279e4c45f42607a2]... allowed to issue certificates to personnel or companies involved in one or more of the activities referred to in Article 2.
+1. A certification body shall be [^c-33d791f045eb4906279e4c45f42607a2]... allowed to issue certificates to personnel or companies involved in one or more of the activities referred to in Article 2.
 
 The certification body shall be independent and impartial in carrying out its activities.
 
@@ -171,7 +171,7 @@ The certification body shall be independent and impartial in carrying out its ac
 
 ## Article 11. Evaluation body
 
-1. An evaluation body [^key-06cc9e23e5f94effe0bcdc7a4a67f9e1]... shall organise examinations for the personnel referred to in Article 2(1). A certification body as referred to in Article 10 may also qualify as an evaluation body.
+1. An evaluation body [^c-06cc9e23e5f94effe0bcdc7a4a67f9e1]... shall organise examinations for the personnel referred to in Article 2(1). A certification body as referred to in Article 10 may also qualify as an evaluation body.
 
 The evaluation body shall be independent and impartial in carrying out its activities.
 
@@ -181,21 +181,21 @@ The evaluation body shall be independent and impartial in carrying out its activ
 
 4. The evaluation body shall ensure that examiners assigned to a test have due knowledge of the relevant examination methods and examination documents as well as an appropriate competence in the field to be examined. It shall also ensure that the necessary equipment, tools and materials are available for the practical tests.
 
-## Article 12. Notification[^key-2308b1cd97c5639d362bf6d58b7765ec]
+## Article 12. Notification[^c-2308b1cd97c5639d362bf6d58b7765ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Conditions for ... recognition[^key-494b38a811f1b4965bba760042d4f60b]
+## Article 13. Conditions for ... recognition[^c-494b38a811f1b4965bba760042d4f60b]
 
-1. Recognition[^key-67a77817f383472cbce28df436cd64a6] of certificates issued in European Union[^key-94c0f0a7e4c26e69d7653269aed3db90] Member States shall only apply to certificates issued in accordance with Article 5 for personnel and Article 8 for companies.
+1. Recognition[^c-67a77817f383472cbce28df436cd64a6] of certificates issued in European Union[^c-94c0f0a7e4c26e69d7653269aed3db90] Member States shall only apply to certificates issued in accordance with Article 5 for personnel and Article 8 for companies.
 
-2. Holders of certificates may be required[^key-14176f6fcb8f421717dd40184e1e2522] to provide a translation of the certificate in English[^key-6189d1a52613ca1544965ae8333675e7].
+2. Holders of certificates may be required[^c-14176f6fcb8f421717dd40184e1e2522] to provide a translation of the certificate in English[^c-6189d1a52613ca1544965ae8333675e7].
 
 ## Article 14. Entry into force
 
 This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-[^key-c7458543f8d705835f582df13c83636c]...
+[^c-c7458543f8d705835f582df13c83636c]...
 
 Done at Brussels, 2 April 2008.
 
@@ -242,30 +242,30 @@ Minimum requirements as to the skills and knowledge to be covered by the evaluat
 
 [^f00003]: Footnote: [OJ L 244, 29.9.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.244.01.0001.01.ENG). Regulation as last amended by Commission Decision 2007/540/EC ([OJ L 198, 31.7.2007, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.198.01.0035.01.ENG)).
 
-[^key-df8c2aa9a6057611586e5dceaba92b27]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/eur/2008/304/article/4/3) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df8c2aa9a6057611586e5dceaba92b27]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/eur/2008/304/article/4/3) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ffdf57a2c89c752ad7e058cb076fb0bb]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2008/304/article/6) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffdf57a2c89c752ad7e058cb076fb0bb]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2008/304/article/6) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae141c79f0cd68cbad2a62d0a3a96384]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/eur/2008/304/article/7/2) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae141c79f0cd68cbad2a62d0a3a96384]: Textual amendment: [Art. 7(2)](https://www.legislation.gov.uk/eur/2008/304/article/7/2) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ca1be54ce57339a362188c9dca2b785]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2008/304/article/9) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ca1be54ce57339a362188c9dca2b785]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2008/304/article/9) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(2)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33d791f045eb4906279e4c45f42607a2]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2008/304/article/10/1) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33d791f045eb4906279e4c45f42607a2]: Textual amendment: Words in [Art. 10(1)](https://www.legislation.gov.uk/eur/2008/304/article/10/1) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(3)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06cc9e23e5f94effe0bcdc7a4a67f9e1]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2008/304/article/11/1) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06cc9e23e5f94effe0bcdc7a4a67f9e1]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2008/304/article/11/1) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(4)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2308b1cd97c5639d362bf6d58b7765ec]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2008/304/article/12) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(5)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2308b1cd97c5639d362bf6d58b7765ec]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2008/304/article/12) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(5)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-494b38a811f1b4965bba760042d4f60b]: Textual amendment: Word in [Art. 13](https://www.legislation.gov.uk/eur/2008/304/article/13) heading omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(a)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-494b38a811f1b4965bba760042d4f60b]: Textual amendment: Word in [Art. 13](https://www.legislation.gov.uk/eur/2008/304/article/13) heading omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(a)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-67a77817f383472cbce28df436cd64a6]: Textual amendment: Word in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/304/article/13/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67a77817f383472cbce28df436cd64a6]: Textual amendment: Word in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/304/article/13/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94c0f0a7e4c26e69d7653269aed3db90]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/304/article/13/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94c0f0a7e4c26e69d7653269aed3db90]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/304/article/13/1) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14176f6fcb8f421717dd40184e1e2522]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2008/304/article/13/2) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14176f6fcb8f421717dd40184e1e2522]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2008/304/article/13/2) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6189d1a52613ca1544965ae8333675e7]: Textual amendment: Word in [Art. 13(2)](https://www.legislation.gov.uk/eur/2008/304/article/13/2) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6189d1a52613ca1544965ae8333675e7]: Textual amendment: Word in [Art. 13(2)](https://www.legislation.gov.uk/eur/2008/304/article/13/2) substituted (31.12.2020) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7458543f8d705835f582df13c83636c]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(7)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7458543f8d705835f582df13c83636c]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [63(7)](https://www.legislation.gov.uk/uksi/2019/583/regulation/63/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [OJ L 333, 19.12.2007, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.333.01.0004.01.ENG).

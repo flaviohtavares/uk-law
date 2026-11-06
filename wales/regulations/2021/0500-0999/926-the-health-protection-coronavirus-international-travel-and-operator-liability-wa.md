@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel and Operator Liability) (Wales) (Miscellaneous Amendments) (No. 4) Regulations 2021 (revoked)[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+The Health Protection (Coronavirus, International Travel and Operator Liability) (Wales) (Miscellaneous Amendments) (No. 4) Regulations 2021 (revoked)[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 Made
 
@@ -43,47 +43,47 @@ at 5.00 p.m. on 6 August 2021
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-7afd17f8c76e5efe6c15327af2c5bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7afd17f8c76e5efe6c15327af2c5bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 1. Title and coming into force[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 2. Amendments to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2A[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 3. Amendment to regulation 2A[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to Schedule 3[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 4. Amendments to Schedule 3[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to Schedule 3A[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 5. Amendments to Schedule 3A[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to Schedule 1E[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 6. Amendment to Schedule 1E[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to Schedule 1C[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 7. Amendments to Schedule 1C[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to the Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Wales) (Amendment) Regulations 2021[^key-7afd17f8c76e5efe6c15327af2c5bcab]
+## 8. Amendment to the Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Wales) (Amendment) Regulations 2021[^c-7afd17f8c76e5efe6c15327af2c5bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7afd17f8c76e5efe6c15327af2c5bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7afd17f8c76e5efe6c15327af2c5bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-7afd17f8c76e5efe6c15327af2c5bcab]EXPLANATORY NOTE
+[^c-7afd17f8c76e5efe6c15327af2c5bcab]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -109,4 +109,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-7afd17f8c76e5efe6c15327af2c5bcab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/926) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 47](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/47)
+[^c-7afd17f8c76e5efe6c15327af2c5bcab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/926) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 47](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/47)

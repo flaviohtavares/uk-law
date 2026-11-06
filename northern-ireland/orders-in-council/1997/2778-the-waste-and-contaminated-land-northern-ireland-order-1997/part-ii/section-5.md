@@ -24,7 +24,7 @@ summary: ''
 
 - (a) to prevent any contravention by any other person of Article 4;
 - (aa)[^c17077171] to prevent any contravention by any other person of regulation 9 of the Pollution Prevention and Control Regulations (Northern Ireland) 2003 or of a condition of a permit granted under regulation 10 of those Regulations;
-- (ab)[^key-f80a168ef67ad4911276e21d7f9a0f44] to prevent any contravention by any other person of paragraph (2B), (2E) or (2F);
+- (ab)[^c-f80a168ef67ad4911276e21d7f9a0f44] to prevent any contravention by any other person of paragraph (2B), (2E) or (2F);
 - (b) to prevent the escape of the waste from his control or that of any other person; and
 - (c) on the transfer of the waste, to secure—
   - (i) that the transfer is only to an authorised person or to a person for authorised transport purposes; [^c22546721]. . .
@@ -35,7 +35,7 @@ summary: ''
 
 (2A)[^c19481021] It shall be the duty of the occupier of any domestic property to take all such measures available to him as are reasonable in the circumstances to secure that any transfer by him of household waste produced on the property is only to an authorised person or to a person for authorised transport purposes.
 
-(2B)[^key-6505b44dc350bfc5205db955889d95bd] It shall, from 1st April 2016, be the duty of any person who controls or manages a food business that produces controlled waste to take all such measures available as are reasonable in the circumstances to secure the separate collection of food waste produced by that food business.
+(2B)[^c-6505b44dc350bfc5205db955889d95bd] It shall, from 1st April 2016, be the duty of any person who controls or manages a food business that produces controlled waste to take all such measures available as are reasonable in the circumstances to secure the separate collection of food waste produced by that food business.
 
 (2C) The duty in paragraph (2B) does not apply to—
 
@@ -80,14 +80,14 @@ summary: ''
 - (a) a transfer of waste in stages shall be treated as taking place when the first stage of the transfer takes place, and
 - (b) a series of transfers between the same parties of waste of the same description shall be treated as a single transfer taking place when the first of the transfers in the series takes place.
 
-(7) Regulations may make provision imposing requirements on any person who is subject to a duty imposed by paragraphs (1), (2B), (2E) or (2F)[^key-4c053664af77f4c8270b06a4ac34649b] as respects the making and retention of documents and the furnishing of documents or copies of documents.
+(7) Regulations may make provision imposing requirements on any person who is subject to a duty imposed by paragraphs (1), (2B), (2E) or (2F)[^c-4c053664af77f4c8270b06a4ac34649b] as respects the making and retention of documents and the furnishing of documents or copies of documents.
 
-(8) Any person who fails without reasonable excuse[^key-50bf72538966b1f00e8418664479fd69] to comply with paragraphs (1), (2A), (2B), (2E) or (2F)[^key-7193d376978cd741e094bf3623064ba5] or with any requirement imposed under paragraph (7) shall be guilty of an offence and shall be liable—
+(8) Any person who fails without reasonable excuse[^c-50bf72538966b1f00e8418664479fd69] to comply with paragraphs (1), (2A), (2B), (2E) or (2F)[^c-7193d376978cd741e094bf3623064ba5] or with any requirement imposed under paragraph (7) shall be guilty of an offence and shall be liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; and
 - (b) on conviction on indictment, to a fine.
 
-(9) The Department shall, after consultation with such persons or bodies as appear to the Department representative of the interests concerned, prepare and issue a code of practice for the purpose of providing to persons practical guidance on how to discharge a duty imposed on them by paragraphs (1), (2B), (2E) or (2F)[^key-237bb1320e86f21fe7eebdf88acbfa3b] .
+(9) The Department shall, after consultation with such persons or bodies as appear to the Department representative of the interests concerned, prepare and issue a code of practice for the purpose of providing to persons practical guidance on how to discharge a duty imposed on them by paragraphs (1), (2B), (2E) or (2F)[^c-237bb1320e86f21fe7eebdf88acbfa3b] .
 
 (10) The Department may issue modifications of, or withdraw, a code of practice issued under paragraph (9); but where a code is withdrawn, the Department shall prepare and issue a new code under that paragraph in substitution for it.
 
@@ -97,7 +97,7 @@ summary: ''
 
 (13) A code of practice issued under paragraph (9) shall be admissible in evidence and if any provision of such a code appears to the court to be relevant to any question arising in the proceedings it shall be taken into account in determining that question.
 
-(14)[^key-89879067b8ebb4829e9a2e60af3ad5cb] In this Article—
+(14)[^c-89879067b8ebb4829e9a2e60af3ad5cb] In this Article—
 
 - “business” includes the undertaking of a canteen, club, school, hospital or institution, whether carried on for profit or not, and any undertaking or activity carried on by a district council;
 - “catering waste” means all waste food, including used cooking oil, originating in restaurants, catering facilities and kitchens, including central kitchens and household kitchens;
@@ -114,7 +114,7 @@ summary: ''
 
 [^c17077171]: Textual amendment: SR 2003/46
 
-[^key-f80a168ef67ad4911276e21d7f9a0f44]: Textual amendment: [Art. 5(1)(ab)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/1/ab) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/a)
+[^c-f80a168ef67ad4911276e21d7f9a0f44]: Textual amendment: [Art. 5(1)(ab)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/1/ab) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/a)
 
 [^c22546721]: Textual amendment: Word in art. 5(1)(c)(i) deleted (8.4.2011) by [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2011/127/regulation/4/1/b) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
@@ -124,7 +124,7 @@ summary: ''
 
 [^c19481021]: Textual amendment: Art. 5(2A) inserted (31.7.2006) by [S.R. 2006/280](https://www.legislation.gov.uk/nisr/2006/280), [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/280/regulation/2/4)
 
-[^key-6505b44dc350bfc5205db955889d95bd]: Textual amendment: [Art. 5(2B)-(2F)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/2B) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/b)
+[^c-6505b44dc350bfc5205db955889d95bd]: Textual amendment: [Art. 5(2B)-(2F)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/2B) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/b)
 
 [^c19481061]: Textual amendment: Words in art. 5(3) inserted (31.7.2006) by [S.R. 2006/280](https://www.legislation.gov.uk/nisr/2006/280), [reg. 2(5)](https://www.legislation.gov.uk/nisr/2006/280/regulation/2/5)
 
@@ -136,14 +136,14 @@ summary: ''
 
 [^c19481491]: Textual amendment: Words in art. 5(4)(5) inserted (31.7.2006) by [S.R. 2006/280](https://www.legislation.gov.uk/nisr/2006/280), [reg. 2(6)](https://www.legislation.gov.uk/nisr/2006/280/regulation/2/6)
 
-[^key-4c053664af77f4c8270b06a4ac34649b]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/7) substituted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/c)
+[^c-4c053664af77f4c8270b06a4ac34649b]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/7) substituted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/c)
 
-[^key-50bf72538966b1f00e8418664479fd69]: Textual amendment: Words in [art. 5(8)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/8) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(d)(i)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/d/i)
+[^c-50bf72538966b1f00e8418664479fd69]: Textual amendment: Words in [art. 5(8)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/8) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(d)(i)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/d/i)
 
-[^key-7193d376978cd741e094bf3623064ba5]: Textual amendment: Words in [art. 5(8)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/8) substituted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/d/ii)
+[^c-7193d376978cd741e094bf3623064ba5]: Textual amendment: Words in [art. 5(8)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/8) substituted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/d/ii)
 
-[^key-237bb1320e86f21fe7eebdf88acbfa3b]: Textual amendment: Words in [art. 5(9)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/9) substituted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/e)
+[^c-237bb1320e86f21fe7eebdf88acbfa3b]: Textual amendment: Words in [art. 5(9)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/9) substituted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/e)
 
-[^key-89879067b8ebb4829e9a2e60af3ad5cb]: Textual amendment: [Art. 5(14)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/14) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/f)
+[^c-89879067b8ebb4829e9a2e60af3ad5cb]: Textual amendment: [Art. 5(14)](https://www.legislation.gov.uk/nisi/1997/2778/article/5/14) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/3/f)
 
 [^c22546781]: Textual amendment: Art. 5(14) omitted (8.4.2011) by virtue of [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/4/2) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))

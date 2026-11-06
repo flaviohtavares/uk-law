@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Review of Act[^key-6e2542a2fb4769930f52d1209605e898]
+## 122. Review of Act[^c-6e2542a2fb4769930f52d1209605e898]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2542a2fb4769930f52d1209605e898]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/2001/24/section/122) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-6e2542a2fb4769930f52d1209605e898]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/2001/24/section/122) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

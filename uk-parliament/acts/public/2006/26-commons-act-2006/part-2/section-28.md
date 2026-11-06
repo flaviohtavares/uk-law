@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Status[^key-f7d057986784383c5b271ff2c22047ca]
+## 28. Status[^c-f7d057986784383c5b271ff2c22047ca]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d057986784383c5b271ff2c22047ca]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/26/section/28) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-f7d057986784383c5b271ff2c22047ca]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/26/section/28) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

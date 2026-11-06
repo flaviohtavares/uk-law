@@ -30,7 +30,7 @@ In carrying out the chemical safety assessment and producing the Chemical Safety
 
 When nanoforms of the substance are covered by his own use or his identified uses down the supply chain, an appropriate metric for the assessment and presentation of the results in steps 1- 6 of the chemical safety assessment under 0.6.1 and 0.6.2 shall be considered, with the justification included in the chemical safety report and summarised in the safety data sheet. A multiple metric presentation is preferable, ensuring availability of mass metric information.
 
-Where available and appropriate, an assessment carried out under other legislation, (e.g. risk assessments completed under Regulation (EEC) No 793/93) shall be taken into account in the chemical safety assessment and be reflected in the Chemical Safety Report. Deviations from such assessments shall be justified. Assessments carried out under other[^key-e1ce2c63873f751f98316e7e93e71ff8] international and national programmes may also be taken into account.
+Where available and appropriate, an assessment carried out under other legislation, (e.g. risk assessments completed under Regulation (EEC) No 793/93) shall be taken into account in the chemical safety assessment and be reflected in the Chemical Safety Report. Deviations from such assessments shall be justified. Assessments carried out under other[^c-e1ce2c63873f751f98316e7e93e71ff8] international and national programmes may also be taken into account.
 
 The process which the downstream user goes through in carrying out the chemical safety assessment and in producing his Chemical Safety Report, involves three steps:
 
@@ -66,6 +66,6 @@ Part A of the Chemical Safety Report shall include a declaration that the risk m
 
 [^c000011]: Textual amendment: Substituted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).
 
-[^key-e1ce2c63873f751f98316e7e93e71ff8]: Textual amendment: Word in Annex 12 substituted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/904/regulation/6)
+[^c-e1ce2c63873f751f98316e7e93e71ff8]: Textual amendment: Word in Annex 12 substituted (30.9.2021) by virtue of [The REACH etc. (Amendment) Regulations 2021 (S.I. 2021/904)](https://www.legislation.gov.uk/uksi/2021/904), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/904/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2021/904/regulation/6)
 
 [^c000013]: Textual amendment: Inserted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).

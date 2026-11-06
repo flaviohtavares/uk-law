@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Border control posts: authorisation of inspection centres and commercial storage facilities[^key-dc6455cdf6bfc7a16952a1a91f3d8297]
+## 12. Border control posts: authorisation of inspection centres and commercial storage facilities[^c-dc6455cdf6bfc7a16952a1a91f3d8297]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc6455cdf6bfc7a16952a1a91f3d8297]: Commencement: Reg. 12 in force at 27.3.2020, see reg. 1
+[^c-dc6455cdf6bfc7a16952a1a91f3d8297]: Commencement: Reg. 12 in force at 27.3.2020, see reg. 1
 
 [^c23987411]: Marginal citation: OJ No. L 165, 21.6.2019, p. 10.

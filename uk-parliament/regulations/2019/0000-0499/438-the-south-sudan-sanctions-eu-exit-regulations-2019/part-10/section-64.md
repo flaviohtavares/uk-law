@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Notices[^key-a4c352501e73d6fa1d863d89245c5d7c][^key-b37559bbf3ccf89a4846976d0b50d751]
+## 64. Notices[^c-a4c352501e73d6fa1d863d89245c5d7c][^c-b37559bbf3ccf89a4846976d0b50d751]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 - (a) by sending it by post to the proper officer of the body at its principal office, or
 - (b) by addressing it to the proper officer of the body and leaving it at that office.
 
-(3A)[^key-4fc42fafd4f9cb5394cf93d843cf8167] The notice may be given to the person by electronic means.
+(3A)[^c-4fc42fafd4f9cb5394cf93d843cf8167] The notice may be given to the person by electronic means.
 
-(4) The notice may be given to the person by other means [^key-cc4f6cc0957e9fd35bee3bc275282f22]... with the person's consent.
+(4) The notice may be given to the person by other means [^c-cc4f6cc0957e9fd35bee3bc275282f22]... with the person's consent.
 
 (5) In this regulation, the reference in paragraph (3) to a “principal office”—
 
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a4c352501e73d6fa1d863d89245c5d7c]: Commencement: Reg. 64 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-a4c352501e73d6fa1d863d89245c5d7c]: Commencement: Reg. 64 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-b37559bbf3ccf89a4846976d0b50d751]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/438/regulation/64) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b37559bbf3ccf89a4846976d0b50d751]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/438/regulation/64) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4fc42fafd4f9cb5394cf93d843cf8167]: Textual amendment: [Reg. 64(3A)](https://www.legislation.gov.uk/uksi/2019/438/regulation/64/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/5/5/a)
+[^c-4fc42fafd4f9cb5394cf93d843cf8167]: Textual amendment: [Reg. 64(3A)](https://www.legislation.gov.uk/uksi/2019/438/regulation/64/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/5/5/a)
 
-[^key-cc4f6cc0957e9fd35bee3bc275282f22]: Textual amendment: Words in [reg. 64(4)](https://www.legislation.gov.uk/uksi/2019/438/regulation/64/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/5/5/b)
+[^c-cc4f6cc0957e9fd35bee3bc275282f22]: Textual amendment: Words in [reg. 64(4)](https://www.legislation.gov.uk/uksi/2019/438/regulation/64/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/5/5/b)

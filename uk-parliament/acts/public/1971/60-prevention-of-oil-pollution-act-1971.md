@@ -35,7 +35,7 @@ An Act to consolidate the Oil in Navigable Waters Acts 1955 to 1971 and section 
 
 ## General provisions for preventing oil pollution
 
-### 1. Discharge of certain oils into sea outside territorial waters.[^key-fde67f9775c156e8bcca18e6abe8b18e]
+### 1. Discharge of certain oils into sea outside territorial waters.[^c-fde67f9775c156e8bcca18e6abe8b18e]
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8492761]
 
@@ -48,7 +48,7 @@ and shall also apply to any other description of oil which may be specified by r
 
 (3), (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8492761]
 
-### 2. Discharge of oil into United Kingdom waters.[^key-156cc129c646ccd4e77f26c0bd5cffee]
+### 2. Discharge of oil into United Kingdom waters.[^c-156cc129c646ccd4e77f26c0bd5cffee]
 
 (1) If any oil or mixture containing oil is discharged as mentioned in the following paragraphs into waters to which this section applies, then, subject to the provisions of this Act, the following shall be guilty of an offence, that is to say—
 
@@ -68,9 +68,9 @@ and shall also apply to any other description of oil which may be specified by r
 
 (3) In this Act “**place on land**” includes anything resting on the bed or shore of the sea, or of any other waters to which this section applies, and also includes anything afloat (other than a vessel) if it is anchored or attached to the bed or shore of the sea or of any such waters; and “**occupier**”, in relation to any such thing as is mentioned in the preceding provisions of this subsection, if it has no occupier, means the owner thereof, and, in relation to a railway wagon or road vehicle, means the person in charge of the wagon or vehicle and not the occupier of the land on which the wagon or vehicle stands.
 
-(4)[^c8492901][^c8492911] A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-37891c499024388a88ad92bcb5d54fc1]on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*.
+(4)[^c8492901][^c8492911] A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-37891c499024388a88ad92bcb5d54fc1]on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*.
 
-### 3. Discharge of certain oils from pipe-lines or as the result of exploration etc. in designated areas.[^key-4a50b5d6446eee5fbc693c8dc9485950]
+### 3. Discharge of certain oils from pipe-lines or as the result of exploration etc. in designated areas.[^c-4a50b5d6446eee5fbc693c8dc9485950]
 
 (1) If any oil to which section 1 of this Act applies, or any mixture containing such oil, is discharged into any part of the sea—
 
@@ -81,7 +81,7 @@ then, subject to the following provisions of this Act, the owner of the pipe-lin
 
 (2) In this section “**designated area**” means an area for the time being designated by an Order made under section 1 of the [^c8492921]Continental Shelf Act 1964.
 
-(3) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-0e2d1c60682571a96f1459f8a435109e]on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*.
+(3) A person guilty of an offence under this section shall be liable on summary conviction to a fine not exceeding £50,000 or on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-0e2d1c60682571a96f1459f8a435109e]on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)*.
 
 ### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8492931]
 
@@ -94,7 +94,7 @@ then, subject to the following provisions of this Act, the owner of the pipe-lin
 - (a) that the oil or mixture escaped in consequence of damage to the vessel, and that as soon as practicable after the damage occurred all reasonable steps were taken for preventing, or (if it could not be prevented) for stopping or reducing, the escape of the oil or mixture, or
 - (b) that the oil or mixture escaped by reason of leakage, that neither the leakage nor any delay in discovering it was due to any want of reasonable care, and that as soon as practicable after the escape was discovered all reasonable steps were taken for stopping or reducing it.
 
-### 6. Defences of other persons charged with offences under s. 2 or s. 3.[^key-7de429d3519d5deb3229fb87750882df]
+### 6. Defences of other persons charged with offences under s. 2 or s. 3.[^c-7de429d3519d5deb3229fb87750882df]
 
 (1) Where a person is charged, in respect of the escape of any oil or mixture containing oil, with an offence under section 2 or 3 of this Act—
 
@@ -149,11 +149,11 @@ and apart from this subsection the authority exercising the power, or a person e
 
 (3) If a person fails to make a report as required by this section he shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale[^c8493191].
 
-### 11A. Certain provisions not to apply where a discharge or escape is authorised under Part I of the Environmental Protection Act 1990.[^key-efe338687eb70309d78e77cf751f78af][^c11227671]
+### 11A. Certain provisions not to apply where a discharge or escape is authorised under Part I of the Environmental Protection Act 1990.[^c-efe338687eb70309d78e77cf751f78af][^c11227671]
 
 *Extent: E+W+S*
 
-(1) The provisions of sections 2(1) and 3(1)[^c11227701] of this Act shall not apply to any discharge which is made under, and the provisions of section 11(1) of this Act shall not apply to any escape which is authorised by, [^key-c72b504a74dfe40c6bcada0b46d07abc]... a permit granted under regulations under section 2 of the Pollution Prevention and Control Act 1999[^c11227721] or section 18 of the Regulatory Reform (Scotland) Act 2014 *(Extent: S)*[^key-9c6e2d6b33350da570acb9ff4b205a7c] .
+(1) The provisions of sections 2(1) and 3(1)[^c11227701] of this Act shall not apply to any discharge which is made under, and the provisions of section 11(1) of this Act shall not apply to any escape which is authorised by, [^c-c72b504a74dfe40c6bcada0b46d07abc]... a permit granted under regulations under section 2 of the Pollution Prevention and Control Act 1999[^c11227721] or section 18 of the Regulatory Reform (Scotland) Act 2014 *(Extent: S)*[^c-9c6e2d6b33350da570acb9ff4b205a7c] .
 
 (2) This section does not extend to Northern Ireland.
 
@@ -240,13 +240,13 @@ and any such inspector may be so appointed to report either in a particular case
 
 (4A)[^c8494151][^c8494141] Any document required or authorised, by virtue of any statutory provision, to be served on a foreign company for the purposes of the institution of, or otherwise in connection with, proceedings for an offence under section 2(2A) of this Act alleged to have been committed by the company as the owner of a vessel shall be treated as duly served on that company if the document is served on the master of the vessel; and any person authorised to serve any document for the purposes of the institution of, or otherwise in connection with, proceedings for an offence under this Act (whether or not in pursuance of the foregoing provisions of this subsection) shall, for that purpose, have the right to go on board the vessel in question.
 
-(4B) In subsection (4A) of this section a “ **foreign company** ” means a company or body which is not one to which section 1139 of the Companies Act 2006 applies so as to authorise service of the document in question.[^key-033c0db438c84c613a1819a0c4789bdd]
+(4B) In subsection (4A) of this section a “ **foreign company** ” means a company or body which is not one to which section 1139 of the Companies Act 2006 applies so as to authorise service of the document in question.[^c-033c0db438c84c613a1819a0c4789bdd]
 
 (5)[^c8494161] Proceedings for any offence under this Act may (without prejudice to any jurisdiction exercisable apart from this subsection) be taken against a person at any place at which he is for the time being.
 
-(5A)[^key-09120ad2a8f9d40fe190f6f9a31f21cb] If an inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009, or any inshore fisheries and conservation officer appointed by the authority under section 165 of that Act, is authorised in that behalf under subsection (1) of this section, the authority may institute proceedings for any offence under this Act committed within the district.
+(5A)[^c-09120ad2a8f9d40fe190f6f9a31f21cb] If an inshore fisheries and conservation authority for a district established under section 149 of the Marine and Coastal Access Act 2009, or any inshore fisheries and conservation officer appointed by the authority under section 165 of that Act, is authorised in that behalf under subsection (1) of this section, the authority may institute proceedings for any offence under this Act committed within the district.
 
-(6)[^key-3fb88fd012fb603d080ce38a4039715f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3fb88fd012fb603d080ce38a4039715f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The preceding provisions of this section do not apply in relation to an offence under section 3 of this Act, but proceedings for such an offence may—
 
@@ -277,7 +277,7 @@ In this subsection, “**director**” in relation to a body corporate establish
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Power of Secretary of State to grant exemptions.[^key-346125826537e536412f7824f5018168][^c8494471]
+### 23. Power of Secretary of State to grant exemptions.[^c-346125826537e536412f7824f5018168][^c8494471]
 
 The Secretary of State may exempt any discharge of, or of a mixture containing, oil from any of the provisions of this Act or of any regulations made thereunder, either absolutely or subject to such conditions as he thinks fit.
 
@@ -414,11 +414,11 @@ Subject to section 18 of the[^c8494941] [^c8494951]Interpretation Act 1978 (offe
 
 [^c8492751]: Modification: Power to amend Act conferred by [Merchant Shipping Act 1979 (c. 39, SIF 111)](https://www.legislation.gov.uk/ukpga/1979/39), [s. 41](https://www.legislation.gov.uk/ukpga/1979/39/section/41)
 
-[^key-fde67f9775c156e8bcca18e6abe8b18e]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1971/60/section/1) excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
+[^c-fde67f9775c156e8bcca18e6abe8b18e]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1971/60/section/1) excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
 
 [^c8492761]: Textual amendment: [S. 1(1)(3)(4)](https://www.legislation.gov.uk/ukpga/1971/60/section/1/1/3/4) repealed by [S.I. 1983/1106](https://www.legislation.gov.uk/uksi/1983/1106), [art. 2](https://www.legislation.gov.uk/uksi/1983/1106/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1983/1106/schedule)
 
-[^key-156cc129c646ccd4e77f26c0bd5cffee]: Modification: S. 2 excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
+[^c-156cc129c646ccd4e77f26c0bd5cffee]: Modification: S. 2 excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
 
 [^c8492841]: Textual amendment: S. 2(1)(*a*)(*b*) repealed by [S.I. 1983/1106](https://www.legislation.gov.uk/uksi/1983/1106), [art. 2](https://www.legislation.gov.uk/uksi/1983/1106/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1983/1106/schedule)
 
@@ -432,13 +432,13 @@ Subject to section 18 of the[^c8494941] [^c8494951]Interpretation Act 1978 (offe
 
 [^c8492911]: Modification: S. 2(4) extended (with modifications) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1989/1350/schedule/2)
 
-[^key-37891c499024388a88ad92bcb5d54fc1]: Textual amendment: Words in s. 2(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/6/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-37891c499024388a88ad92bcb5d54fc1]: Textual amendment: Words in s. 2(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/6/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-4a50b5d6446eee5fbc693c8dc9485950]: Modification: S. 3 excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
+[^c-4a50b5d6446eee5fbc693c8dc9485950]: Modification: S. 3 excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
 
 [^c8492921]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-0e2d1c60682571a96f1459f8a435109e]: Textual amendment: Words in s. 3(3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/6/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-0e2d1c60682571a96f1459f8a435109e]: Textual amendment: Words in s. 3(3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/6/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c8492931]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1971/60/section/4) repealed by [S.I. 1983/1106](https://www.legislation.gov.uk/uksi/1983/1106), [art. 2](https://www.legislation.gov.uk/uksi/1983/1106/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1983/1106/schedule)
 
@@ -446,7 +446,7 @@ Subject to section 18 of the[^c8494941] [^c8494951]Interpretation Act 1978 (offe
 
 [^c8492951]: Modification: [Ss. 5](https://www.legislation.gov.uk/ukpga/1971/60/section/5), [7](https://www.legislation.gov.uk/ukpga/1971/60/section/7) extended with modifications by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1989/1350/schedule/2)
 
-[^key-7de429d3519d5deb3229fb87750882df]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1971/60/section/6) excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
+[^c-7de429d3519d5deb3229fb87750882df]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1971/60/section/6) excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
 
 [^c8492971]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/ukpga/1971/60/section/6/1/a) repealed for certain purposes (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) Note (with s. 312(1), Sch. 14 para. 1)
 
@@ -476,17 +476,17 @@ Subject to section 18 of the[^c8494941] [^c8494951]Interpretation Act 1978 (offe
 
 [^c8493191]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46); (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [art. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5)
 
-[^key-efe338687eb70309d78e77cf751f78af]: Modification: [S. 11A](https://www.legislation.gov.uk/ukpga/1971/60/section/11A) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(a)(ii)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/a/ii/f))
+[^c-efe338687eb70309d78e77cf751f78af]: Modification: [S. 11A](https://www.legislation.gov.uk/ukpga/1971/60/section/11A) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(a)(ii)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/a/ii/f))
 
 [^c11227671]: Textual amendment: S. 11A inserted (12.10.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 15(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/15/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/2649](https://www.legislation.gov.uk/uksi/1995/2649), [art. 2](https://www.legislation.gov.uk/uksi/1995/2649/article/2)
 
 [^c11227701]: Textual amendment: Words in s. 11A(1) substituted (21.3.2000 (E.W) and 29.9.2000 (S.)) by [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/1/a); [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2); [S.S.I. 2000/322](https://www.legislation.gov.uk/ssi/2000/322), [art. 2](https://www.legislation.gov.uk/ssi/2000/322/article/2)
 
-[^key-c72b504a74dfe40c6bcada0b46d07abc]: Textual amendment: Words in s. 11A(1) repealed (1.4.2015 for S.) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/a)
+[^c-c72b504a74dfe40c6bcada0b46d07abc]: Textual amendment: Words in s. 11A(1) repealed (1.4.2015 for S.) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/a)
 
 [^c11227721]: Textual amendment: Words in s. 11A(1) inserted (21.3.2000 (E.W.) and 29.9.2000 (S.)) by [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24), [s. 6(1)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/1/b); [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2); [S.S.I. 2000/322](https://www.legislation.gov.uk/ssi/2000/322), [art. 2](https://www.legislation.gov.uk/ssi/2000/322/article/2)
 
-[^key-9c6e2d6b33350da570acb9ff4b205a7c]: Textual amendment: Words in s. 11A(1) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-9c6e2d6b33350da570acb9ff4b205a7c]: Textual amendment: Words in s. 11A(1) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c8493461]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1971/60/section/12) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 
@@ -546,13 +546,13 @@ Subject to section 18 of the[^c8494941] [^c8494951]Interpretation Act 1978 (offe
 
 [^c8494141]: Textual amendment: S. 19 (4A)(4B) inserted by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/148/1), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/1990/43/schedule/14/paragraph/2)
 
-[^key-033c0db438c84c613a1819a0c4789bdd]: Textual amendment: Words in s. 19(4B) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/22) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-033c0db438c84c613a1819a0c4789bdd]: Textual amendment: Words in s. 19(4B) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/22) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c8494161]: Modification: S. 19(5) excluded (1.5.1994) by [1993 c. 22](https://www.legislation.gov.uk/ukpga/1993/22), [s. 8(3)](https://www.legislation.gov.uk/ukpga/1993/22/section/8/3), [Sch. 4 para. 60](https://www.legislation.gov.uk/ukpga/1993/22/schedule/4/paragraph/60); [S.I. 1993/3137](https://www.legislation.gov.uk/uksi/1993/3137), [art. 3(2)](https://www.legislation.gov.uk/uksi/1993/3137/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/3137/schedule/2)
 
-[^key-09120ad2a8f9d40fe190f6f9a31f21cb]: Textual amendment: S. 19(5A) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/8); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
+[^c-09120ad2a8f9d40fe190f6f9a31f21cb]: Textual amendment: S. 19(5A) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/8); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
 
-[^key-3fb88fd012fb603d080ce38a4039715f]: Textual amendment: S. 19(6) repealed (1.4.2010 for W. and 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); S.I. 2011/556, art. 2(1)(2)(o)(3)
+[^c-3fb88fd012fb603d080ce38a4039715f]: Textual amendment: S. 19(6) repealed (1.4.2010 for W. and 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); S.I. 2011/556, art. 2(1)(2)(o)(3)
 
 [^c8494221]: Textual amendment: [S. 19A](https://www.legislation.gov.uk/ukpga/1971/60/section/19A) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 
@@ -570,7 +570,7 @@ Subject to section 18 of the[^c8494941] [^c8494951]Interpretation Act 1978 (offe
 
 [^c8494371]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/1971/60/section/22) repealed (1.5.1994) by [1993 c. 22](https://www.legislation.gov.uk/ukpga/1993/22), [s. 8(4)](https://www.legislation.gov.uk/ukpga/1993/22/section/8/4), [Sch. 5 Pt.II](https://www.legislation.gov.uk/ukpga/1993/22/schedule/5/part/II); [S.I. 1993/3137](https://www.legislation.gov.uk/uksi/1993/3137), [art. 3(2)](https://www.legislation.gov.uk/uksi/1993/3137/article/3/2), [Sch.2](https://www.legislation.gov.uk/uksi/1993/3137/schedule/2)
 
-[^key-346125826537e536412f7824f5018168]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1971/60/section/23) excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
+[^c-346125826537e536412f7824f5018168]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1971/60/section/23) excluded (20.8.2005) by [Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055)](https://www.legislation.gov.uk/uksi/2005/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2055/regulation/1), [18(1)](https://www.legislation.gov.uk/uksi/2005/2055/regulation/18/1)
 
 [^c8494471]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/1971/60/section/23) substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4), [para. 4](https://www.legislation.gov.uk/ukpga/1998/17/paragraph/4): [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Directions by Secretary of State.[^key-52d2e2aca1d17fa94b72daaeffdf2532]
+## 21. Directions by Secretary of State.[^c-52d2e2aca1d17fa94b72daaeffdf2532]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52d2e2aca1d17fa94b72daaeffdf2532]: Textual amendment: S. 21 repealed (24.4.2006) by [Further and Higher Education (Scotland) Act 1992 Modification Order 2006 (S.S.I. 2006/216)](https://www.legislation.gov.uk/ssi/2006/216), [arts. 1](https://www.legislation.gov.uk/ssi/2006/216/article/1), [2](https://www.legislation.gov.uk/ssi/2006/216/article/2)
+[^c-52d2e2aca1d17fa94b72daaeffdf2532]: Textual amendment: S. 21 repealed (24.4.2006) by [Further and Higher Education (Scotland) Act 1992 Modification Order 2006 (S.S.I. 2006/216)](https://www.legislation.gov.uk/ssi/2006/216), [arts. 1](https://www.legislation.gov.uk/ssi/2006/216/article/1), [2](https://www.legislation.gov.uk/ssi/2006/216/article/2)

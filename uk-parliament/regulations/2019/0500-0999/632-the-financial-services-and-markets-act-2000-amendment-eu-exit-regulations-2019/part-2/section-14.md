@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Introduction[^key-5d7df663695e35f16ccc8458e9eac644]
+## 14. Introduction[^c-5d7df663695e35f16ccc8458e9eac644]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Part 4A of the Act [^c23657421] (permission to carry on regulated activities) is
 
 ## Annotations
 
-[^key-5d7df663695e35f16ccc8458e9eac644]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-5d7df663695e35f16ccc8458e9eac644]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657421]: Marginal citation: Part 4A was inserted by section 11(2) of the Financial Services Act 2012.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Notification of scheme member in liquidation etc. and obligations in relation to that scheme member[^key-fc7e3046a5ef374620379ed1c8e01530]
+## 27A. Notification of scheme member in liquidation etc. and obligations in relation to that scheme member[^c-fc7e3046a5ef374620379ed1c8e01530]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc7e3046a5ef374620379ed1c8e01530]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/27A) inserted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/14)
+[^c-fc7e3046a5ef374620379ed1c8e01530]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/27A) inserted (25.12.2015) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2015 (S.I. 2015/1968)](https://www.legislation.gov.uk/uksi/2015/1968), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1968/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2015/1968/regulation/2/14)

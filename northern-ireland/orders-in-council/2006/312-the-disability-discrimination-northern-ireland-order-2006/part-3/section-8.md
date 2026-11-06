@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Rail vehicles: application of accessibility regulations[^key-9980ace01ee315f14efdf50553d5305e]
+## 8. Rail vehicles: application of accessibility regulations[^c-9980ace01ee315f14efdf50553d5305e]
 
 *Extent: N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9980ace01ee315f14efdf50553d5305e]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisi/2006/312/article/8) in operation at 2.9.2013 by [S.R. 2013/216](https://www.legislation.gov.uk/nisr/2013/216), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/216/article/2/a)
+[^c-9980ace01ee315f14efdf50553d5305e]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisi/2006/312/article/8) in operation at 2.9.2013 by [S.R. 2013/216](https://www.legislation.gov.uk/nisr/2013/216), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/216/article/2/a)

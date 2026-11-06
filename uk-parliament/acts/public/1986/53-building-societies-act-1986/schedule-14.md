@@ -39,16 +39,16 @@ in respect of any rights or obligations arising from the rules of the society or
 
 (4) The court shall not hear and determine any dispute arising out of section 61(8)(a) or paragraph 20A(10)(a) or 31(4)(a)[^c15525131] of Schedule 2 to this Act.
 
-(5) The court shall not hear and determine any dispute which is required to be referred to arbitration under paragraph 4 below or which is referred to the FCA[^key-15aa560fd748ef1cf6cc21eac23652a6] under paragraph 6 or to an adjudicator under paragraph 7 below except as provided in paragraph 2 below.
+(5) The court shall not hear and determine any dispute which is required to be referred to arbitration under paragraph 4 below or which is referred to the FCA[^c-15aa560fd748ef1cf6cc21eac23652a6] under paragraph 6 or to an adjudicator under paragraph 7 below except as provided in paragraph 2 below.
 
 **2.** The court may hear and determine a dispute falling within paragraph 1(5) above in any case where, on the application of any person concerned, it appears to the court—
 
 - (a) that application has been made by either party to the dispute to the other party for the purpose of having the dispute settled by arbitration, and
 - (b) that either arbitrators have not been appointed within 40 days of that application or the arbitrators have refused, or have neglected for a period of 21 days, to proceed with the reference or make an award.
 
-#### Right of FCA and PRA to be heard[^key-a3e4e364d621f4ba3aca54095a75d04f]
+#### Right of FCA and PRA to be heard[^c-a3e4e364d621f4ba3aca54095a75d04f]
 
-**3.** (1) Any person who institutes proceedings in the court in relation to a dispute to which paragraph 1 above applies shall give notice of the fact and of the matter in dispute to the FCA[^key-b098e723faa6b8b9e1331eae7f677a03] and, if the society is a PRA-authorised person, the PRA .
+**3.** (1) Any person who institutes proceedings in the court in relation to a dispute to which paragraph 1 above applies shall give notice of the fact and of the matter in dispute to the FCA[^c-b098e723faa6b8b9e1331eae7f677a03] and, if the society is a PRA-authorised person, the PRA .
 
 (2) The court shall not proceed to hear a dispute to which paragraph 1 applies until the court is satisfied that the notice required by sub-paragraph (1) above has been given.
 
@@ -92,11 +92,11 @@ shall, unless the refusal is on one of the grounds specified in sub-paragraph (2
 
 #### Access to register of members
 
-**6.** (1) Any dispute as to the rights of a member of a building society under paragraph 15 of Schedule 2 to this Act shall be referred to the FCA[^key-f21898e348b99dd473adcdf7b9880065] .
+**6.** (1) Any dispute as to the rights of a member of a building society under paragraph 15 of Schedule 2 to this Act shall be referred to the FCA[^c-f21898e348b99dd473adcdf7b9880065] .
 
 (2) The reference of a dispute to the FCA under this paragraph shall be treated as a reference to arbitration; and its award shall have the same effect as that of an arbitrator acting in a reference under paragraph 4(1) above.
 
-(3)[^key-3087b3cd11979af8c8442ed81066c3ea] The FCA must consult the PRA before making any such award.
+(3)[^c-3087b3cd11979af8c8442ed81066c3ea] The FCA must consult the PRA before making any such award.
 
 #### Disputes cognizable under a scheme
 
@@ -112,11 +112,11 @@ shall, unless the refusal is on one of the grounds specified in sub-paragraph (2
 
 [^c15525131]: Textual amendment: Words in Sch. 14 para. 1(4) substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 64(1)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/64/1); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxvii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxvii)
 
-[^key-15aa560fd748ef1cf6cc21eac23652a6]: Textual amendment: Word in [Sch. 14 para. 1(5)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/14/paragraph/1/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-15aa560fd748ef1cf6cc21eac23652a6]: Textual amendment: Word in [Sch. 14 para. 1(5)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/14/paragraph/1/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-a3e4e364d621f4ba3aca54095a75d04f]: Textual amendment: Words in Sch. 14 para. 3 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-a3e4e364d621f4ba3aca54095a75d04f]: Textual amendment: Words in Sch. 14 para. 3 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-b098e723faa6b8b9e1331eae7f677a03]: Textual amendment: Words in Sch. 14 para. 3 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-b098e723faa6b8b9e1331eae7f677a03]: Textual amendment: Words in Sch. 14 para. 3 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15525181]: Textual amendment: Words in Sch. 14 para. 4(1) inserted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 64(2)(a)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/64/2/a); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(z)(xxxvii)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/z/xxxvii)
 
@@ -130,8 +130,8 @@ shall, unless the refusal is on one of the grounds specified in sub-paragraph (2
 
 [^c15525261]: Textual amendment: Words in Sch. 14 Pt. II para. 5(6) substituted (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/47) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/1996/3146/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2))
 
-[^key-f21898e348b99dd473adcdf7b9880065]: Textual amendment: Word in [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1986/53/schedule/14/paragraph/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(5)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/5/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-f21898e348b99dd473adcdf7b9880065]: Textual amendment: Word in [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1986/53/schedule/14/paragraph/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(5)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/5/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-3087b3cd11979af8c8442ed81066c3ea]: Textual amendment: [Sch. 14 para. 6(3)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/14/paragraph/6/3) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(5)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/5/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-3087b3cd11979af8c8442ed81066c3ea]: Textual amendment: [Sch. 14 para. 6(3)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/14/paragraph/6/3) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 56(5)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/56/5/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15525341]: Textual amendment: Sch. 14 para. 7 repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) arts. 2(b), 13(2), Sch. 4 (with art. 13(3), Sch. 5); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538) art. 2

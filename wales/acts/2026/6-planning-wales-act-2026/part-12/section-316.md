@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 316. Powers of statutory undertakers or network operators to enter land to remove or re-site apparatus[^key-4fb0853e43c5b68673e64b1321b0d20c]
+## 316. Powers of statutory undertakers or network operators to enter land to remove or re-site apparatus[^c-4fb0853e43c5b68673e64b1321b0d20c]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fb0853e43c5b68673e64b1321b0d20c]: Commencement: S. 316 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4fb0853e43c5b68673e64b1321b0d20c]: Commencement: S. 316 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

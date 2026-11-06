@@ -39,7 +39,7 @@ summary: ''
 - (a) a retirement pension (other than phased retirement pension) has not become payable to the member;
 - (b) P is an individual;
 - (c) neither the member nor P is married or in a civil partnership;
-- (ca)[^key-0563abd5ab453ddf73b2b9f168e75f25] no person has satisfied the conditions in regulation 135 in relation to the member for a continuous period of 2 years or more;
+- (ca)[^c-0563abd5ab453ddf73b2b9f168e75f25] no person has satisfied the conditions in regulation 135 in relation to the member for a continuous period of 2 years or more;
 - (d) P is not living with another person as if they were a married couple or civil partners;
 - (e) P is not an eligible child of the member;
 - (f) if P is the member's parent, brother or sister—
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0563abd5ab453ddf73b2b9f168e75f25]: Textual amendment: [Reg. 136(4)(ca)](https://www.legislation.gov.uk/uksi/2014/512/regulation/136/4/ca) inserted (with effect from 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2019/1134/regulation/25)
+[^c-0563abd5ab453ddf73b2b9f168e75f25]: Textual amendment: [Reg. 136(4)(ca)](https://www.legislation.gov.uk/uksi/2014/512/regulation/136/4/ca) inserted (with effect from 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2019/1134/regulation/25)

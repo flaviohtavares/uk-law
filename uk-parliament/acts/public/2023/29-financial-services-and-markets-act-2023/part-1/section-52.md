@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Chair of the Payment Systems Regulator as member of FCA Board[^key-2f1d41903d31e836b9b64bf68837a401]
+## 52. Chair of the Payment Systems Regulator as member of FCA Board[^c-2f1d41903d31e836b9b64bf68837a401]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f1d41903d31e836b9b64bf68837a401]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/29/section/52) in force at 29.8.2023, see [s. 86(2)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/b)
+[^c-2f1d41903d31e836b9b64bf68837a401]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/29/section/52) in force at 29.8.2023, see [s. 86(2)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/b)

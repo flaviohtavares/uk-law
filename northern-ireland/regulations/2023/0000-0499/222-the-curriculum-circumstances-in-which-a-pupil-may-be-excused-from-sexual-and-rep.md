@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Education[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 10A(5) and 43(5) of the Education (Northern Ireland) Order 2006[^f00002] and after consultation with those considered appropriate, in accordance with Article 10A(6) of that Order.
 
-## 1. Citation and commencement[^key-8dbdc32efc1d30a8de2d1ceaa07b1473]
+## 1. Citation and commencement[^c-8dbdc32efc1d30a8de2d1ceaa07b1473]
 
 These Regulations may be cited as the Curriculum (Circumstances in which a Pupil may be Excused from Sexual and Reproductive Health and Rights Education) Regulations (Northern Ireland) 2023 and shall come into operation on 1st January 2024.
 
-## 2. Interpretation[^key-b31af4bcb7a3a6dee684f5540dec5102]
+## 2. Interpretation[^c-b31af4bcb7a3a6dee684f5540dec5102]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
   - (a) prevention of early pregnancy; and
   - (b) access to abortion.
 
-## 3. Circumstances in which a pupil may be excused from Article 5(1A) education or a specified element of that education[^key-2735e2267c5b384034376f57a29cb24b]
+## 3. Circumstances in which a pupil may be excused from Article 5(1A) education or a specified element of that education[^c-2735e2267c5b384034376f57a29cb24b]
 
 (1) The circumstances in which a pupil may be excused from Article 5(1A) education at the request of a parent are—
 
@@ -111,9 +111,9 @@ In accordance with Article 10A(5) of the Education (Northern Ireland) Order 2006
 
 [^f00002]: Footnote: [S.I. 2006/1915 (N.I. 11)](https://www.legislation.gov.uk/nisi/2006/1915); Article 10A was inserted by regulation 2(3) of the Relationships and Sexuality Education (Northern Ireland) (Amendment) Regulations 2023 ([S.I. 2023/602](https://www.legislation.gov.uk/uksi/2023/602)).
 
-[^key-8dbdc32efc1d30a8de2d1ceaa07b1473]: Commencement: Reg. 1 in operation at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/222/regulation/1)
+[^c-8dbdc32efc1d30a8de2d1ceaa07b1473]: Commencement: Reg. 1 in operation at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/222/regulation/1)
 
-[^key-b31af4bcb7a3a6dee684f5540dec5102]: Commencement: Reg. 2 in operation at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/222/regulation/1)
+[^c-b31af4bcb7a3a6dee684f5540dec5102]: Commencement: Reg. 2 in operation at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/222/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594).
 
@@ -121,6 +121,6 @@ In accordance with Article 10A(5) of the Education (Northern Ireland) Order 2006
 
 [^f00005]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594); the definition of “parent” was substituted by Schedule 9 to the Children (Northern Ireland) Order 1995 [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-2735e2267c5b384034376f57a29cb24b]: Commencement: Reg. 3 in operation at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/222/regulation/1)
+[^c-2735e2267c5b384034376f57a29cb24b]: Commencement: Reg. 3 in operation at 1.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/222/regulation/1)
 
 [^f00006]: Footnote: *See* Article 48 of the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3))](https://www.legislation.gov.uk/nisi/1986/594)

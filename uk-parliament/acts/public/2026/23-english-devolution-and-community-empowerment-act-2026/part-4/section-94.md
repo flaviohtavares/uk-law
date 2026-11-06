@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Audit committees[^key-c3e05ada5aaa758e928ca3d1802c3c52][^key-d929d6702f1addf50bcc2e2b44f4ab23]
+## 94. Audit committees[^c-c3e05ada5aaa758e928ca3d1802c3c52][^c-d929d6702f1addf50bcc2e2b44f4ab23]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ In the Local Audit and Accountability Act 2014, before section 34 insert—
 
 ## Annotations
 
-[^key-c3e05ada5aaa758e928ca3d1802c3c52]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-c3e05ada5aaa758e928ca3d1802c3c52]: Commencement: S. 94 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-d929d6702f1addf50bcc2e2b44f4ab23]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2026/23/section/94) in force at 15.7.2026 for specified purposes by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/c)
+[^c-d929d6702f1addf50bcc2e2b44f4ab23]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2026/23/section/94) in force at 15.7.2026 for specified purposes by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/c)

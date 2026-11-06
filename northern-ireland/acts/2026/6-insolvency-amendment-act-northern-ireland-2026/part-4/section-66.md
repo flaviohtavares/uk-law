@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Decisions of creditors’ meeting[^key-9664050469629e475a079712815aba6f]
+## 66. Decisions of creditors’ meeting[^c-9664050469629e475a079712815aba6f]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9664050469629e475a079712815aba6f]: Commencement: S. 66 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9664050469629e475a079712815aba6f]: Commencement: S. 66 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

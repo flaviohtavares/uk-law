@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42B. Calculation of basic amount of tax by authorities in England[^key-054a731a5eba53afb925d8dc59371760]
+## 42B. Calculation of basic amount of tax by authorities in England[^c-054a731a5eba53afb925d8dc59371760]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ T is the aggregate of the amounts which are calculated by the billing authoritie
 
 ## Annotations
 
-[^key-054a731a5eba53afb925d8dc59371760]: Textual amendment: Ss. 42A, 42B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 75](https://www.legislation.gov.uk/ukpga/2011/20/section/75), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-054a731a5eba53afb925d8dc59371760]: Textual amendment: Ss. 42A, 42B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 75](https://www.legislation.gov.uk/ukpga/2011/20/section/75), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

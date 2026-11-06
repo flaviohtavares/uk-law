@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Conditions: introductory[^key-377fca6466b8adccb8dab1dac877c9de]
+## 3. Conditions: introductory[^c-377fca6466b8adccb8dab1dac877c9de]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ A Local Health Board may only enter into a contract if the conditions can be met
 
 ## Annotations
 
-[^key-377fca6466b8adccb8dab1dac877c9de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/37/regulation/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-377fca6466b8adccb8dab1dac877c9de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/37/regulation/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).

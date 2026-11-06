@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**65.**[^key-d83f9920faf4bf735ec626222b0a810f] Omit section 17B[^f00075] (vouchers for persons with parental responsibility for disabled children).
+**65.**[^c-d83f9920faf4bf735ec626222b0a810f] Omit section 17B[^f00075] (vouchers for persons with parental responsibility for disabled children).
 
 ## Annotations
 
-[^key-d83f9920faf4bf735ec626222b0a810f]: Commencement: Reg. 65 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d83f9920faf4bf735ec626222b0a810f]: Commencement: Reg. 65 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00075]: Footnote: Section 17B was inserted by the Carers and Disabled Children Act [2000 (c.16)](https://www.legislation.gov.uk/ukpga/2000/16), section 7(1); it was prospectively amended by the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 4, and by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), paragraphs 43 and 47(1) of the Schedule.

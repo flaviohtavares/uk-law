@@ -36,32 +36,32 @@ of 26 November 2001
 
 laying down detailed rules for the export of products supplied as food aid (revoked)
 
-[^key-a7e623278a53b1ffea1d35b21dd39d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7e623278a53b1ffea1d35b21dd39d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-a7e623278a53b1ffea1d35b21dd39d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7e623278a53b1ffea1d35b21dd39d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7e623278a53b1ffea1d35b21dd39d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-a7e623278a53b1ffea1d35b21dd39d47]
+## ANNEX[^c-a7e623278a53b1ffea1d35b21dd39d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a7e623278a53b1ffea1d35b21dd39d47]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-a7e623278a53b1ffea1d35b21dd39d47]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

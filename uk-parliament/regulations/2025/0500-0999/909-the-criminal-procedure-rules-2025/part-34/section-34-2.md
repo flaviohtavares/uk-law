@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.2. Service of appeal and respondent’s notices[^key-3088fdc3cfce7d2f8fbad741b1e89b2a]
+## 34.2. Service of appeal and respondent’s notices[^c-3088fdc3cfce7d2f8fbad741b1e89b2a]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3088fdc3cfce7d2f8fbad741b1e89b2a]: Commencement: [Rule 34.2](https://www.legislation.gov.uk/uksi/2025/909/rule/34.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3088fdc3cfce7d2f8fbad741b1e89b2a]: Commencement: [Rule 34.2](https://www.legislation.gov.uk/uksi/2025/909/rule/34.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00879]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendment of regulation 7 (pre-application requests to the Secretary of State for an opinion as to content of environmental statement)[^key-c97c3c282f4a3b02e56e435da99d3dec]
+## 31. Amendment of regulation 7 (pre-application requests to the Secretary of State for an opinion as to content of environmental statement)[^c-c97c3c282f4a3b02e56e435da99d3dec]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In regulation 7—
 
 ## Annotations
 
-[^key-c97c3c282f4a3b02e56e435da99d3dec]: Commencement: Reg. 31 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-c97c3c282f4a3b02e56e435da99d3dec]: Commencement: Reg. 31 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

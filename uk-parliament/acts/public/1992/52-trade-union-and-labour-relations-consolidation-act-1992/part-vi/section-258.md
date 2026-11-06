@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Certification Officer shall, as soon as practicable after the end of each financial year[^c14521961], make a report of his activities during that year to ACAS and to the Secretary of State.
 
-(1A)[^key-dd1a914a71844d16c33cc6852132463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-dd1a914a71844d16c33cc6852132463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 The Secretary of State shall lay a copy of the report before each House of Parliament and arrange for it to be published.
 
@@ -32,4 +32,4 @@ The Secretary of State shall lay a copy of the report before each House of Parli
 
 [^c14521961]: Textual amendment: Words in s. 258(1) substituted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 29](https://www.legislation.gov.uk/ukpga/1999/26/section/29), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6), [paras. 1](https://www.legislation.gov.uk/ukpga/1999/26/paragraph/1), [24](https://www.legislation.gov.uk/ukpga/1999/26/paragraph/24); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/5))
 
-[^key-dd1a914a71844d16c33cc6852132463a]: Textual amendment: S. 258(1A) omitted (1.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 85(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/85/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 2](https://www.legislation.gov.uk/uksi/2026/323/regulation/2)
+[^c-dd1a914a71844d16c33cc6852132463a]: Textual amendment: S. 258(1A) omitted (1.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 85(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/85/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 2](https://www.legislation.gov.uk/uksi/2026/323/regulation/2)

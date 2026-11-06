@@ -47,7 +47,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001] and section 5 of the Court of Session Act 1988[^f00002], and under and by virtue of all other powers enabling them in that behalf, having consulted and taken into consideration the views of the Sheriff Court Rules Council in accordance with section 32 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation, commencement and application[^key-7f125443e40e57e9c764a07a4e97bb20]
+## 1. Citation, commencement and application[^c-7f125443e40e57e9c764a07a4e97bb20]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Contempt of Court in Civil Proceedings) 2011 and comes into force on 28 November 2011.
 
@@ -57,21 +57,21 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 - (a) proceedings in the Court of Session;
 - (b) civil proceedings in the sheriff court;
-- (c)[^key-55fad3f2560416ff1879314e5656f938] civil proceedings in the Sheriff Appeal Court.
+- (c)[^c-55fad3f2560416ff1879314e5656f938] civil proceedings in the Sheriff Appeal Court.
 
-(4)[^key-eaedfc2788c82aa1be48e204eeb679c0] In this Act of Sederunt, “civil proceedings” has the meaning given by section 136(1) of the Courts Reform (Scotland) Act 2014.
+(4)[^c-eaedfc2788c82aa1be48e204eeb679c0] In this Act of Sederunt, “civil proceedings” has the meaning given by section 136(1) of the Courts Reform (Scotland) Act 2014.
 
-## 2. Question of contempt of court[^key-1192032e2ce3e9b9dde2426340eda7c2]
+## 2. Question of contempt of court[^c-1192032e2ce3e9b9dde2426340eda7c2]
 
 (1) This Act of Sederunt prescribes the procedure and practice to be followed where a question arises as to whether a person (“the relevant person”) may have committed a contempt of court to which paragraph (2) applies (“the alleged contempt”) in, or in connection with, proceedings.
 
 (2) This paragraph applies to an alleged contempt directed at a member of the court personally or any other contempt that it would be inappropriate for that court to deal with.
 
-## 3. Jury trial[^key-ba7a659983da26a850eea083a9376b06]
+## 3. Jury trial[^c-ba7a659983da26a850eea083a9376b06]
 
 Where the alleged contempt occurs in proceedings in which issues have been allowed for jury trial, any step taken in relation to dealing with the alleged contempt is to be taken outwith the presence of the jury or any persons cited for jury service.
 
-## 4. Procedure for fixing a hearing[^key-7e9608f1910716b789ce08e6ec577a39]
+## 4. Procedure for fixing a hearing[^c-7e9608f1910716b789ce08e6ec577a39]
 
 (1) The court (“the first court”) is to fix a diet for a hearing of the matter (“the contempt hearing”) by a differently constituted court (“the other court”).
 
@@ -86,17 +86,17 @@ Where the alleged contempt occurs in proceedings in which issues have been allow
 
 (4) Where the court remands the relevant person in custody it is to advise the relevant person that legal aid may be available.
 
-## 5. Statement of facts[^key-ec7fbe7ed32006cc39fe6e5b800b3914]
+## 5. Statement of facts[^c-ec7fbe7ed32006cc39fe6e5b800b3914]
 
 (1) The first court is to prepare a statement of the relevant facts (“the statement of facts”).
 
 (2) The clerk of the first court is to intimate a copy of the statement of facts to the relevant person, the Lord Advocate and the other court no later than 24 hours before the contempt hearing.
 
-## 6. Intimation of intention to prosecute[^key-7cb949a48cd6f32f78dac818fd99c969]
+## 6. Intimation of intention to prosecute[^c-7cb949a48cd6f32f78dac818fd99c969]
 
 Where the Lord Advocate intimates an intention to bring criminal proceedings in relation to the alleged contempt, proceedings under this Act of Sederunt cease and the person is no longer subject to any remand in the proceedings.
 
-## 7. The contempt hearing[^key-797f75cd0283c0f4f565edc38ab72178]
+## 7. The contempt hearing[^c-797f75cd0283c0f4f565edc38ab72178]
 
 (1) At the contempt hearing, the other court is to ascertain from the relevant person whether he or she admits or denies the facts contained in the statement of facts.
 
@@ -122,7 +122,7 @@ Where the Lord Advocate intimates an intention to bring criminal proceedings in 
 - (a) give the relevant person the opportunity to apologise; and
 - (b) after hearing the relevant person, determine the disposal.
 
-## 8. Continuation of hearing[^key-82707e16f501d2b406adcfd42299e3fb]
+## 8. Continuation of hearing[^c-82707e16f501d2b406adcfd42299e3fb]
 
 (1) Where a relevant witness is not present at the contempt hearing, the other court may continue the hearing for the purpose of hearing that person’s evidence (or, where it is more appropriate, all of the evidence).
 
@@ -143,13 +143,13 @@ Where the Lord Advocate intimates an intention to bring criminal proceedings in 
 - (a) ordain the relevant person to appear at that continued hearing; or
 - (b) exercise its power to remand that person in custody until that hearing.
 
-## 9. Remand appeal[^key-e4d20624917e790b891f08db7e4ec326]
+## 9. Remand appeal[^c-e4d20624917e790b891f08db7e4ec326]
 
 (1) The relevant person may appeal to the Inner House against a decision of a lower court to remand him in custody under rule 4 or rule 8 by lodging a written notice of appeal with the Court of Session.
 
 (2) The appeal is to be treated procedurally, so far as possible, as though it were a bail appeal in criminal proceedings.
 
-## 10. Recording of proceedings[^key-c9b79e62ce2511c80bb1febd6fa71957]
+## 10. Recording of proceedings[^c-c9b79e62ce2511c80bb1febd6fa71957]
 
 (1) The rule applying to the recording of evidence in an ordinary action in the court concerned applies to the contempt hearing.
 
@@ -157,12 +157,12 @@ Where the Lord Advocate intimates an intention to bring criminal proceedings in 
 
 (3) The cost of any transcript directed by the other court to be made is subject to such order as to the cost of the transcript as the court thinks fit.
 
-(4)[^key-23fe25e7cc9bb5476c8c252f19142ee2] Where the court concerned is the Sheriff Appeal Court—
+(4)[^c-23fe25e7cc9bb5476c8c252f19142ee2] Where the court concerned is the Sheriff Appeal Court—
 
 - (a) rule 23.5 (recording of evidence) of the Act of Sederunt (Sheriff Appeal Court Rules) 2015 applies to the contempt hearing;
 - (b) rule 23.6 (transcripts of evidence) of the Act of Sederunt (Sheriff Appeal Court Rules) 2015 applies to the contempt hearing, subject to paragraph (3).
 
-## 11. Minute of proceedings[^key-66f957248d7f2c0b50745932b4250857]
+## 11. Minute of proceedings[^c-66f957248d7f2c0b50745932b4250857]
 
 The clerk of court shall keep a minute of proceedings.
 
@@ -200,30 +200,30 @@ Rule 9 makes provision for the relevant person to appeal to the Inner House aga
 
 [^f00002]: Footnote: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36); section 5 was amended by the Civil Evidence (Scotland) Act [1988 (c.32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(3), the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40), Schedule 9, the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 45, the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(1) and the [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), section 46(3).
 
-[^key-7f125443e40e57e9c764a07a4e97bb20]: Commencement: Rule 1 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-7f125443e40e57e9c764a07a4e97bb20]: Commencement: Rule 1 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-55fad3f2560416ff1879314e5656f938]: Textual amendment: [Rule 1(3)(c)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/3/c) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [17(2)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/17/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-55fad3f2560416ff1879314e5656f938]: Textual amendment: [Rule 1(3)(c)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/3/c) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [17(2)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/17/2/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-eaedfc2788c82aa1be48e204eeb679c0]: Textual amendment: [Rule 1(4)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/4) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [17(2)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/17/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-eaedfc2788c82aa1be48e204eeb679c0]: Textual amendment: [Rule 1(4)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/4) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [17(2)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/17/2/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-1192032e2ce3e9b9dde2426340eda7c2]: Commencement: Rule 2 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-1192032e2ce3e9b9dde2426340eda7c2]: Commencement: Rule 2 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-ba7a659983da26a850eea083a9376b06]: Commencement: Rule 3 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-ba7a659983da26a850eea083a9376b06]: Commencement: Rule 3 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-7e9608f1910716b789ce08e6ec577a39]: Commencement: Rule 4 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-7e9608f1910716b789ce08e6ec577a39]: Commencement: Rule 4 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-ec7fbe7ed32006cc39fe6e5b800b3914]: Commencement: Rule 5 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-ec7fbe7ed32006cc39fe6e5b800b3914]: Commencement: Rule 5 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-7cb949a48cd6f32f78dac818fd99c969]: Commencement: Rule 6 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-7cb949a48cd6f32f78dac818fd99c969]: Commencement: Rule 6 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-797f75cd0283c0f4f565edc38ab72178]: Commencement: Rule 7 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-797f75cd0283c0f4f565edc38ab72178]: Commencement: Rule 7 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-82707e16f501d2b406adcfd42299e3fb]: Commencement: Rule 8 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-82707e16f501d2b406adcfd42299e3fb]: Commencement: Rule 8 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-e4d20624917e790b891f08db7e4ec326]: Commencement: Rule 9 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-e4d20624917e790b891f08db7e4ec326]: Commencement: Rule 9 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-c9b79e62ce2511c80bb1febd6fa71957]: Commencement: Rule 10 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-c9b79e62ce2511c80bb1febd6fa71957]: Commencement: Rule 10 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
 
-[^key-23fe25e7cc9bb5476c8c252f19142ee2]: Textual amendment: [Rule 10(4)](https://www.legislation.gov.uk/ssi/2011/388/rule/10/4) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [17(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/17/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-23fe25e7cc9bb5476c8c252f19142ee2]: Textual amendment: [Rule 10(4)](https://www.legislation.gov.uk/ssi/2011/388/rule/10/4) inserted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [17(3)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/17/3) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-66f957248d7f2c0b50745932b4250857]: Commencement: Rule 11 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)
+[^c-66f957248d7f2c0b50745932b4250857]: Commencement: Rule 11 in force at 28.11.2011, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2011/388/rule/1/1)

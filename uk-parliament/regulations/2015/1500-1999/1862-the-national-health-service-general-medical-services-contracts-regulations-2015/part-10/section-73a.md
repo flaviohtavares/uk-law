@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73A. Requirement to maintain profile page on NHS website[^key-7a791927f195a063374f921fb192acd2]
+## 73A. Requirement to maintain profile page on NHS website[^c-7a791927f195a063374f921fb192acd2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a791927f195a063374f921fb192acd2]: Textual amendment: Regs. 73, 73A substituted for reg. 73 (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/226/schedule/1/paragraph/6)
+[^c-7a791927f195a063374f921fb192acd2]: Textual amendment: Regs. 73, 73A substituted for reg. 73 (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2020/226/schedule/1/paragraph/6)

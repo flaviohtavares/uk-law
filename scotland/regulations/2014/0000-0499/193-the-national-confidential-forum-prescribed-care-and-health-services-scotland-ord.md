@@ -32,7 +32,7 @@ summary: ''
 
 Mental Health
 
-The National Confidential Forum (Prescribed Care and Health Services) (Scotland) Order 2014 (revoked)[^key-68d447af0024cdfa7ad0650c59166aee]
+The National Confidential Forum (Prescribed Care and Health Services) (Scotland) Order 2014 (revoked)[^c-68d447af0024cdfa7ad0650c59166aee]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into force
 
 1st July 2014
 
-[^key-68d447af0024cdfa7ad0650c59166aee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68d447af0024cdfa7ad0650c59166aee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-68d447af0024cdfa7ad0650c59166aee]
+## 1. Citation, commencement and interpretation[^c-68d447af0024cdfa7ad0650c59166aee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed health services[^key-68d447af0024cdfa7ad0650c59166aee]
+## 2. Prescribed health services[^c-68d447af0024cdfa7ad0650c59166aee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed care services[^key-68d447af0024cdfa7ad0650c59166aee]
+## 3. Prescribed care services[^c-68d447af0024cdfa7ad0650c59166aee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Services provided at private dwellings[^key-68d447af0024cdfa7ad0650c59166aee]
+## 4. Services provided at private dwellings[^c-68d447af0024cdfa7ad0650c59166aee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68d447af0024cdfa7ad0650c59166aee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68d447af0024cdfa7ad0650c59166aee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Order)*
 
@@ -76,4 +76,4 @@ The services prescribed in the Order do not include services provided in private
 
 ## Annotations
 
-[^key-68d447af0024cdfa7ad0650c59166aee]: Textual amendment: Order revoked (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/6); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-68d447af0024cdfa7ad0650c59166aee]: Textual amendment: Order revoked (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/6); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

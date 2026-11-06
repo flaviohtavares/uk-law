@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.8. Service by sheriff officer[^key-ce4018d11ca846ef5ed6423b11634779]
+## 3.8.8. Service by sheriff officer[^c-ce4018d11ca846ef5ed6423b11634779]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce4018d11ca846ef5ed6423b11634779]: Commencement: Rule 3.8.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-ce4018d11ca846ef5ed6423b11634779]: Commencement: Rule 3.8.8 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

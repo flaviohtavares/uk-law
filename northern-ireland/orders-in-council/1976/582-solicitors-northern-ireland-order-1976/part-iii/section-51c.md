@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51C. Power of Tribunal to make recommendation for application of Schedule 1 to solicitor[^key-3fd9ba3bf01238f77cb6c9c004fa67a0][^c17114251]
+## 51C. Power of Tribunal to make recommendation for application of Schedule 1 to solicitor[^c-3fd9ba3bf01238f77cb6c9c004fa67a0][^c17114251]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fd9ba3bf01238f77cb6c9c004fa67a0]: Modification: [Art. 51C](https://www.legislation.gov.uk/nisi/1976/582/article/51C) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ee)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ee)
+[^c-3fd9ba3bf01238f77cb6c9c004fa67a0]: Modification: [Art. 51C](https://www.legislation.gov.uk/nisi/1976/582/article/51C) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ee)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ee)
 
 [^c17114251]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/nisi/1989)

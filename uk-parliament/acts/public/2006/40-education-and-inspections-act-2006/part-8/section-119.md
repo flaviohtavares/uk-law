@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Performance of Chief Inspector's functions[^key-1398540a94ba94cf2c1b1219df92de08]
+## 119. Performance of Chief Inspector's functions[^c-1398540a94ba94cf2c1b1219df92de08]
 
 *Extent: E+W*
 
@@ -36,13 +36,13 @@ summary: ''
 (3) In performing his functions the Chief Inspector must have regard to—
 
 - (a) the matters mentioned in section 117(2);
-- (aa)[^key-508998b327a7b958282db8cefa0278a6] any matters raised by the Children's Commissioner with the Chief Inspector; and
+- (aa)[^c-508998b327a7b958282db8cefa0278a6] any matters raised by the Children's Commissioner with the Chief Inspector; and
 - (b) such aspects of government policy as the Secretary of State may direct.
 
 (4) In this section “**relevant persons**” has the same meaning as in section 117.
 
 ## Annotations
 
-[^key-1398540a94ba94cf2c1b1219df92de08]: Commencement: S. 119 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-1398540a94ba94cf2c1b1219df92de08]: Commencement: S. 119 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-508998b327a7b958282db8cefa0278a6]: Textual amendment: S. 119(3)(aa) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 116(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/116/2/b), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-508998b327a7b958282db8cefa0278a6]: Textual amendment: S. 119(3)(aa) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 116(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/116/2/b), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

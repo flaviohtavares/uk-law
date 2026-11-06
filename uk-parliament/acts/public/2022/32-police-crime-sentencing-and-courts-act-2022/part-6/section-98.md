@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Diversionary and community cautions[^key-eba9c141f065e7b9630ecaa5c2a8626e]
+## 98. Diversionary and community cautions[^c-eba9c141f065e7b9630ecaa5c2a8626e]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eba9c141f065e7b9630ecaa5c2a8626e]: Commencement: S. 98 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-eba9c141f065e7b9630ecaa5c2a8626e]: Commencement: S. 98 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

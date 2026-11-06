@@ -46,7 +46,7 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred by that section and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Title, commencement and interpretation[^key-837f23af5f917f00d424c78c01d64c7d]
+## 1. Title, commencement and interpretation[^c-837f23af5f917f00d424c78c01d64c7d]
 
 (1) These Regulations may be cited as the Nitrate Sensitive Areas (Amendment) (No. 2) Regulations1998 and shall come into force on 30th September 1998.
 
@@ -55,7 +55,7 @@ The Minister of Agriculture, Fisheries and Food, being a Minister designated[^f0
 - (a) “the principal Regulations” means the Nitrate Sensitive Areas Regulations 1994[^f00003];
 - (b) “current scheme”, with respect to an applicant, means the scheme in which a person referred to in regulation 2(1)(b) below participates at the date of the new application made by him.
 
-## 2. Closure of schemes with respect to future applications[^key-4567fc977a5ceabfa3ffdaa7bdc8584d]
+## 2. Closure of schemes with respect to future applications[^c-4567fc977a5ceabfa3ffdaa7bdc8584d]
 
 (1) The principal Regulations shall have effect only in so far as they apply in relation to any application made under them, and any participation in and entitlement under a scheme pursuant to such an application, being an application which–
 
@@ -66,31 +66,31 @@ The Minister of Agriculture, Fisheries and Food, being a Minister designated[^f0
 
 (2) In so far as, by virtue of paragraph (1) above, the principal Regulations continue to have effect, they shall apply with the modification specified in regulation 4 below and subject to the amendments made in regulations 5 to 14 below.
 
-**3.**[^key-c8d1544aafaa264c3b9a7575cc135309] An application of the kind mentioned in regulation 2(1)(b) above is an application to participate in a new scheme, and for entitlement to aid thereunder, in substitution to the applicant’s participation in, and entitlement to aid under, his current scheme.
+**3.**[^c-c8d1544aafaa264c3b9a7575cc135309] An application of the kind mentioned in regulation 2(1)(b) above is an application to participate in a new scheme, and for entitlement to aid thereunder, in substitution to the applicant’s participation in, and entitlement to aid under, his current scheme.
 
-## 4. Modification of the principal Regulations[^key-e1e1db545a716d3718d7ff41c5fd2634]
+## 4. Modification of the principal Regulations[^c-e1e1db545a716d3718d7ff41c5fd2634]
 
 (1) The Minister shall not accept an application of a kind specified in regulation 3 above unless he is satisfied that the conditions set out in Article 13 of Commission Regulation (EC) (No. 746/96[^f00004] will be fulfilled as a result of such acceptance.
 
 (2) Where the Minister has accepted an application of a kind specified in regulation 3 above made by a person specified in regulation 2(1)(b) above, the applicant’s participation in his current scheme, and his obligations and entitlement to aid thereunder, shall end.
 
-## 5. Amendment of the principal Regulations[^key-9d45cb93e8ab77b41423afcafc2eeac4]
+## 5. Amendment of the principal Regulations[^c-9d45cb93e8ab77b41423afcafc2eeac4]
 
 The principal Regulations shall be amended in accordance with the following provisions of these Regulations.
 
-**6.**[^key-0917ee5fce54d255a16c4bc869fbd1a9] In regulation 5 (land which is eligible for aid), in paragraph (1), for the words “regulation 3(1)(b)” there shall be substituted the words “regulation 3(b)”.
+**6.**[^c-0917ee5fce54d255a16c4bc869fbd1a9] In regulation 5 (land which is eligible for aid), in paragraph (1), for the words “regulation 3(1)(b)” there shall be substituted the words “regulation 3(b)”.
 
-**7.**[^key-51feb2b46e59cb317cd60b57db8e85c9] In regulation 7 (undertakings by farmer), in paragraph (1), for the words “regulation 3(1)(d)” there shall be substituted the words “regulation 3(d)”.
+**7.**[^c-51feb2b46e59cb317cd60b57db8e85c9] In regulation 7 (undertakings by farmer), in paragraph (1), for the words “regulation 3(1)(d)” there shall be substituted the words “regulation 3(d)”.
 
-**8.**[^key-7917abbe155b13f5263f0ad2b888eb07] In regulation 8 (restrictions on acceptance of applications for aid), in paragraph (4)(a), for the words “regulation 3(1)(d)” there shall be substituted the words “regulation 3(d)”.
+**8.**[^c-7917abbe155b13f5263f0ad2b888eb07] In regulation 8 (restrictions on acceptance of applications for aid), in paragraph (4)(a), for the words “regulation 3(1)(d)” there shall be substituted the words “regulation 3(d)”.
 
-**9.**[^key-b95979e6fc45f3755374d316ad7004ee] In regulation 11 (payments of aid), for the words “sub-paragraph (b) of regulation 7” there shall be substituted the words “regulation 7(1)(b)”.
+**9.**[^c-b95979e6fc45f3755374d316ad7004ee] In regulation 11 (payments of aid), for the words “sub-paragraph (b) of regulation 7” there shall be substituted the words “regulation 7(1)(b)”.
 
-**10.**[^key-77469a89a032926f47f0c6eb90862735] In Schedule 2 (requirements under all schemes), for the words “regulation 7(a)” there shall be substituted the words “regulation 7(1)(a)”.
+**10.**[^c-77469a89a032926f47f0c6eb90862735] In Schedule 2 (requirements under all schemes), for the words “regulation 7(a)” there shall be substituted the words “regulation 7(1)(a)”.
 
-**11.**[^key-d5380155ae98c209a37450f3a7f0cc13] In Schedule 3 (requirements under the basic scheme), for the words “regulation 7(b)(i)” there shall be substituted the words “regulation 7(1)(b)(i)”.
+**11.**[^c-d5380155ae98c209a37450f3a7f0cc13] In Schedule 3 (requirements under the basic scheme), for the words “regulation 7(b)(i)” there shall be substituted the words “regulation 7(1)(b)(i)”.
 
-**12.**[^key-6163d100a1154ff0863c258839c7cefd] In Schedule 4 (requirements under the premium arable scheme)–
+**12.**[^c-6163d100a1154ff0863c258839c7cefd] In Schedule 4 (requirements under the premium arable scheme)–
 
 - (a) for the words “regulation 7(b)(ii)” there shall be substituted the words “regulation 7(1)(b)(ii)”;
 - (b) for paragraph (2) there shall be substituted the following two paragraphs–
@@ -104,9 +104,9 @@ The principal Regulations shall be amended in accordance with the following prov
 
   .
 
-**13.**[^key-b7453ef85614354e8398ba16ee075ef9] In Schedule 5 (requirements under the premium grass scheme), for the words “regulation 7(b)(iii)” there shall be substituted the words “regulation 7(1)(b)(iii)”.
+**13.**[^c-b7453ef85614354e8398ba16ee075ef9] In Schedule 5 (requirements under the premium grass scheme), for the words “regulation 7(b)(iii)” there shall be substituted the words “regulation 7(1)(b)(iii)”.
 
-**14.**[^key-b4f1bbe3712cd613e593759b860b531e] In Schedule 6 (rates of payment), in paragraph 6B (set-aside option), for the amount “£376” there shall be substituted the amount “£356”.
+**14.**[^c-b4f1bbe3712cd613e593759b860b531e] In Schedule 6 (rates of payment), in paragraph 6B (set-aside option), for the amount “£376” there shall be substituted the amount “£356”.
 
 Elliot Morley
 
@@ -132,34 +132,34 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-837f23af5f917f00d424c78c01d64c7d]: Commencement: Reg. 1 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-837f23af5f917f00d424c78c01d64c7d]: Commencement: Reg. 1 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1994/1729](https://www.legislation.gov.uk/uksi/1994/1729), amended by S.I. [1995/1708](https://www.legislation.gov.uk/uksi/1995/1708), [2095](https://www.legislation.gov.uk/uksi/1995/2095), [1996/3105](https://www.legislation.gov.uk/uksi/1996/3105), [1997/990](https://www.legislation.gov.uk/uksi/1997/990), [1998/79](https://www.legislation.gov.uk/uksi/1998/79).
 
-[^key-4567fc977a5ceabfa3ffdaa7bdc8584d]: Commencement: Reg. 2 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-4567fc977a5ceabfa3ffdaa7bdc8584d]: Commencement: Reg. 2 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-c8d1544aafaa264c3b9a7575cc135309]: Commencement: Reg. 3 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-c8d1544aafaa264c3b9a7575cc135309]: Commencement: Reg. 3 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-e1e1db545a716d3718d7ff41c5fd2634]: Commencement: Reg. 4 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-e1e1db545a716d3718d7ff41c5fd2634]: Commencement: Reg. 4 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
 [^f00004]: Footnote: OJ No. L102, 25.4.96, p. 19, as amended by Commission Regulation [(EC) No. 435/97](https://www.legislation.gov.uk/european/regulation/1997/0435) (OJ No. L67, 7.3.97, p. 2).
 
-[^key-9d45cb93e8ab77b41423afcafc2eeac4]: Commencement: Reg. 5 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-9d45cb93e8ab77b41423afcafc2eeac4]: Commencement: Reg. 5 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-0917ee5fce54d255a16c4bc869fbd1a9]: Commencement: Reg. 6 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-0917ee5fce54d255a16c4bc869fbd1a9]: Commencement: Reg. 6 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-51feb2b46e59cb317cd60b57db8e85c9]: Commencement: Reg. 7 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-51feb2b46e59cb317cd60b57db8e85c9]: Commencement: Reg. 7 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-7917abbe155b13f5263f0ad2b888eb07]: Commencement: Reg. 8 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-7917abbe155b13f5263f0ad2b888eb07]: Commencement: Reg. 8 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-b95979e6fc45f3755374d316ad7004ee]: Commencement: Reg. 9 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-b95979e6fc45f3755374d316ad7004ee]: Commencement: Reg. 9 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-77469a89a032926f47f0c6eb90862735]: Commencement: Reg. 10 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-77469a89a032926f47f0c6eb90862735]: Commencement: Reg. 10 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-d5380155ae98c209a37450f3a7f0cc13]: Commencement: Reg. 11 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-d5380155ae98c209a37450f3a7f0cc13]: Commencement: Reg. 11 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-6163d100a1154ff0863c258839c7cefd]: Commencement: Reg. 12 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-6163d100a1154ff0863c258839c7cefd]: Commencement: Reg. 12 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-b7453ef85614354e8398ba16ee075ef9]: Commencement: Reg. 13 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-b7453ef85614354e8398ba16ee075ef9]: Commencement: Reg. 13 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
 
-[^key-b4f1bbe3712cd613e593759b860b531e]: Commencement: Reg. 14 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)
+[^c-b4f1bbe3712cd613e593759b860b531e]: Commencement: Reg. 14 in force at 30.9.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2138/regulation/1/1)

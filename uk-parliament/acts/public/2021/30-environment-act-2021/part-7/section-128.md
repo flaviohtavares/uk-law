@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Discharge of obligation of responsible body by agreement[^key-ba90f82c4ca2a650747244bd6a642d33][^key-5f0e8c807a46d9f5da9582561f712dac]
+## 128. Discharge of obligation of responsible body by agreement[^c-ba90f82c4ca2a650747244bd6a642d33][^c-5f0e8c807a46d9f5da9582561f712dac]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba90f82c4ca2a650747244bd6a642d33]: Commencement: S. 128 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ba90f82c4ca2a650747244bd6a642d33]: Commencement: S. 128 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-5f0e8c807a46d9f5da9582561f712dac]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2021/30/section/128) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-5f0e8c807a46d9f5da9582561f712dac]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2021/30/section/128) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

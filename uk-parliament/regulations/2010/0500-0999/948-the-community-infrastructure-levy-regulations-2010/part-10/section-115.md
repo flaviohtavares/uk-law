@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Apportionment of liability: appeal[^key-49be9cabe617faae5bde34e301f99531]
+## 115. Apportionment of liability: appeal[^c-49be9cabe617faae5bde34e301f99531]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49be9cabe617faae5bde34e301f99531]: Commencement: Reg. 115 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-49be9cabe617faae5bde34e301f99531]: Commencement: Reg. 115 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

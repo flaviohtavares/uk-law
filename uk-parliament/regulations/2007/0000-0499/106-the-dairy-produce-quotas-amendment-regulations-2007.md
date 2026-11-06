@@ -30,7 +30,7 @@ summary: ''
 
 Food
 
-[^key-933fbae2c5c4f99d02af1f602c9bfd43]The Dairy Produce Quotas (Amendment) Regulations 2007 (revoked)
+[^c-933fbae2c5c4f99d02af1f602c9bfd43]The Dairy Produce Quotas (Amendment) Regulations 2007 (revoked)
 
 Made
 
@@ -62,6 +62,6 @@ Coming into force
 
 ## Annotations
 
-[^key-933fbae2c5c4f99d02af1f602c9bfd43]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-933fbae2c5c4f99d02af1f602c9bfd43]: Textual amendment: Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
 
     Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1/2), [3(g)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/g)

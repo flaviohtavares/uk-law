@@ -37,19 +37,19 @@ Made
 
 The Department of the Environment makes the following Order in exercise of the powers conferred by section 59 of the Taxis Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation and interpretation[^key-d0c77585188ee59114dbc3ceca5050dc]
+## 1. Citation and interpretation[^c-d0c77585188ee59114dbc3ceca5050dc]
 
 (1) This Order may be cited as the Taxis (2008 Act) (Commencement No.4) Order (Northern Ireland) 2014.
 
 (2) In this Order “the Act” means the Taxis Act (Northern Ireland) 2008.
 
-## 2. Appointed days[^key-71022c5ab1562029744d84fce8a9a3ca]
+## 2. Appointed days[^c-71022c5ab1562029744d84fce8a9a3ca]
 
 (1) The day appointed for the coming into operation of the provisions of the Act specified in Part 1 of the Schedule, for the purpose only of making regulations, is 9<sup>th</sup> December 2014.
 
-(2)[^key-ad6c658d69c3d12709efab0e087f9fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ad6c658d69c3d12709efab0e087f9fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ad6c658d69c3d12709efab0e087f9fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ad6c658d69c3d12709efab0e087f9fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of the Environment on 5th December 2014
 
@@ -63,7 +63,7 @@ Department of the Environment
 
 Article 2
 
-### PART 1 — Provisions coming into operation on 9<sup>th</sup> December 2014 for the purpose only of making regulations[^key-8d955fd301a016d83b0562ec3a69a1c6]
+### PART 1 — Provisions coming into operation on 9<sup>th</sup> December 2014 for the purpose only of making regulations[^c-8d955fd301a016d83b0562ec3a69a1c6]
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
@@ -72,31 +72,31 @@ Article 2
 | Section 19 | Taxis not to carry more than the prescribed number of persons |
 | Section 20 | Regulations concerning taxis or use of taxis |
 
-### PART 2 — ...<sup></sup>[^key-c9a3469d0cf84af81302959846a4beb0][^key-3216ef444b944183a759f818abbaa483]
+### PART 2 — ...<sup></sup>[^c-c9a3469d0cf84af81302959846a4beb0][^c-3216ef444b944183a759f818abbaa483]
 
-| [^key-3216ef444b944183a759f818abbaa483]... |  |
+| [^c-3216ef444b944183a759f818abbaa483]... |  |
 | --- | --- |
-| [^key-3216ef444b944183a759f818abbaa483]. . . | [^key-3216ef444b944183a759f818abbaa483]. . . |
+| [^c-3216ef444b944183a759f818abbaa483]. . . | [^c-3216ef444b944183a759f818abbaa483]. . . |
 
-### PART 3 — ...<sup></sup>[^key-e871c06954491ae7320a5e00b51721c7][^key-b62b66419a366173418b8bf1fbcacd87]
+### PART 3 — ...<sup></sup>[^c-e871c06954491ae7320a5e00b51721c7][^c-b62b66419a366173418b8bf1fbcacd87]
 
-| [^key-b62b66419a366173418b8bf1fbcacd87]... |  |
+| [^c-b62b66419a366173418b8bf1fbcacd87]... |  |
 | --- | --- |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
-| [^key-b62b66419a366173418b8bf1fbcacd87]. . . | [^key-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
+| [^c-b62b66419a366173418b8bf1fbcacd87]. . . | [^c-b62b66419a366173418b8bf1fbcacd87]. . . |
 
 EXPLANATORY NOTE
 
@@ -156,21 +156,21 @@ The following provisions of the Taxis Act (Northern Ireland) 2008 have been brou
 
 [^f00001]: Footnote: [2008 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2008/4)
 
-[^key-d0c77585188ee59114dbc3ceca5050dc]: Commencement: Art. 1 in operation at made date
+[^c-d0c77585188ee59114dbc3ceca5050dc]: Commencement: Art. 1 in operation at made date
 
-[^key-71022c5ab1562029744d84fce8a9a3ca]: Commencement: Art. 2 in operation at made date
+[^c-71022c5ab1562029744d84fce8a9a3ca]: Commencement: Art. 2 in operation at made date
 
-[^key-ad6c658d69c3d12709efab0e087f9fd8]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/nisr/2014/300/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2014/300/article/2/3) omitted (22.5.2015) by virtue of [The Taxis (2008 Act) (Commencement No. 4) (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/257)](https://www.legislation.gov.uk/nisr/2015/257), [art. 2(2)](https://www.legislation.gov.uk/nisr/2015/257/article/2/2)
+[^c-ad6c658d69c3d12709efab0e087f9fd8]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/nisr/2014/300/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2014/300/article/2/3) omitted (22.5.2015) by virtue of [The Taxis (2008 Act) (Commencement No. 4) (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/257)](https://www.legislation.gov.uk/nisr/2015/257), [art. 2(2)](https://www.legislation.gov.uk/nisr/2015/257/article/2/2)
 
-[^key-8d955fd301a016d83b0562ec3a69a1c6]: Commencement: Sch. Pt. 1 in operation at made date
+[^c-8d955fd301a016d83b0562ec3a69a1c6]: Commencement: Sch. Pt. 1 in operation at made date
 
-[^key-c9a3469d0cf84af81302959846a4beb0]: Commencement: Sch. Pt. 2 in operation at made date
+[^c-c9a3469d0cf84af81302959846a4beb0]: Commencement: Sch. Pt. 2 in operation at made date
 
-[^key-3216ef444b944183a759f818abbaa483]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/2) omitted (22.5.2015) by virtue of [The Taxis (2008 Act) (Commencement No. 4) (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/257)](https://www.legislation.gov.uk/nisr/2015/257), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/257/article/2/3)
+[^c-3216ef444b944183a759f818abbaa483]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/2) omitted (22.5.2015) by virtue of [The Taxis (2008 Act) (Commencement No. 4) (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/257)](https://www.legislation.gov.uk/nisr/2015/257), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/257/article/2/3)
 
-[^key-e871c06954491ae7320a5e00b51721c7]: Commencement: Sch. Pt. 3 in operation at made date
+[^c-e871c06954491ae7320a5e00b51721c7]: Commencement: Sch. Pt. 3 in operation at made date
 
-[^key-b62b66419a366173418b8bf1fbcacd87]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/3) omitted (22.5.2015) by virtue of [The Taxis (2008 Act) (Commencement No. 4) (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/257)](https://www.legislation.gov.uk/nisr/2015/257), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/257/article/2/3)
+[^c-b62b66419a366173418b8bf1fbcacd87]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2014/300/schedule/part/3) omitted (22.5.2015) by virtue of [The Taxis (2008 Act) (Commencement No. 4) (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/257)](https://www.legislation.gov.uk/nisr/2015/257), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/257/article/2/3)
 
 [^f00003]: Footnote: [S.I.1981/154 (N.I.)](https://www.legislation.gov.uk/nia/1981/154)
 

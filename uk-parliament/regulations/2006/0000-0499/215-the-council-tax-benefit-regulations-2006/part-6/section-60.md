@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 60. Extended payments[^key-02529138fa7c12c0b74bd20d7f70253c]
+## 60. Extended payments[^c-02529138fa7c12c0b74bd20d7f70253c]
 
 (1) A claimant who is entitled to council tax benefit (by virtue of the general conditions of entitlement) shall be entitled to an extended payment where—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02529138fa7c12c0b74bd20d7f70253c]: Textual amendment: Regs. 60-60D substituted for reg. 60 (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/7/2)
+[^c-02529138fa7c12c0b74bd20d7f70253c]: Textual amendment: Regs. 60-60D substituted for reg. 60 (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/7/2)

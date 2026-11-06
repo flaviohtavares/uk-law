@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 247. Application of this Part to joint buyers[^key-b7bf8bfea025618b3b5b683f89bbf249]
+## 247. Application of this Part to joint buyers[^c-b7bf8bfea025618b3b5b683f89bbf249]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7bf8bfea025618b3b5b683f89bbf249]: Commencement: [S. 247](https://www.legislation.gov.uk/asp/2014/16/section/247) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-b7bf8bfea025618b3b5b683f89bbf249]: Commencement: [S. 247](https://www.legislation.gov.uk/asp/2014/16/section/247) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

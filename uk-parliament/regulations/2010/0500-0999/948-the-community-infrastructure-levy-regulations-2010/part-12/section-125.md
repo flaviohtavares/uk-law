@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Enforcement in relation to the Crown and Parliament[^key-25db2281afeedd7719ceefc57c511488]
+## 125. Enforcement in relation to the Crown and Parliament[^c-25db2281afeedd7719ceefc57c511488]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25db2281afeedd7719ceefc57c511488]: Commencement: Reg. 125 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-25db2281afeedd7719ceefc57c511488]: Commencement: Reg. 125 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00060]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

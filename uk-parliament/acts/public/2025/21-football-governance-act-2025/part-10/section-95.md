@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Offences by officers of clubs and bodies corporate[^key-37880b2c9e08595ce6b9df46a340a431][^key-c057efc60abaff6c114a56c0a938b316]
+## 95. Offences by officers of clubs and bodies corporate[^c-37880b2c9e08595ce6b9df46a340a431][^c-c057efc60abaff6c114a56c0a938b316]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ the officer (as well as the club or the body corporate) is guilty of the offence
 
 ## Annotations
 
-[^key-37880b2c9e08595ce6b9df46a340a431]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/21/section/95) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-37880b2c9e08595ce6b9df46a340a431]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/21/section/95) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-c057efc60abaff6c114a56c0a938b316]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/21/section/95) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/iv)
+[^c-c057efc60abaff6c114a56c0a938b316]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/21/section/95) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/iv)

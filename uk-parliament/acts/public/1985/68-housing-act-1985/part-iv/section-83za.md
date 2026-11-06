@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83ZA. Notice requirements in relation to proceedings for possession on absolute ground for anti-social behaviour[^key-3b2ae9fb8e71add9a98960f1f66051de]
+## 83ZA. Notice requirements in relation to proceedings for possession on absolute ground for anti-social behaviour[^c-3b2ae9fb8e71add9a98960f1f66051de]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2ae9fb8e71add9a98960f1f66051de]: Textual amendment: S. 83ZA inserted (20.10.2014 for E., 21.10.2014 for W.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 95](https://www.legislation.gov.uk/ukpga/2014/12/section/95), [185(1)(2)(c)(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/185) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/b); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(b)(a)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/b/a)
+[^c-3b2ae9fb8e71add9a98960f1f66051de]: Textual amendment: S. 83ZA inserted (20.10.2014 for E., 21.10.2014 for W.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 95](https://www.legislation.gov.uk/ukpga/2014/12/section/95), [185(1)(2)(c)(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/185) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/b); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 2(b)(a)](https://www.legislation.gov.uk/uksi/2014/2590/article/2/b/a)

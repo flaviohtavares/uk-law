@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Specified diseases[^key-b27371e190a0dbbb5298c1e4525caf05]
+## 9. Specified diseases[^c-b27371e190a0dbbb5298c1e4525caf05]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b27371e190a0dbbb5298c1e4525caf05]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2006/11/section/9) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-b27371e190a0dbbb5298c1e4525caf05]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2006/11/section/9) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

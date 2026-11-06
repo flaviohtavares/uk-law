@@ -24,7 +24,7 @@ Article 2
 
 ### PART 1 — Authorised Development
 
-**1.**[^key-b7769db3a415bd9366e182e7f9410c5d] A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act which is located in the North Sea approximately 47km from the Norfolk coast, comprising—
+**1.**[^c-b7769db3a415bd9366e182e7f9410c5d] A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act which is located in the North Sea approximately 47km from the Norfolk coast, comprising—
 
 #### Offshore
 
@@ -389,7 +389,7 @@ and in connection with Work No. 11 and Work No. 11A and to the extent that they 
 
 ### PART 2 — Ancillary Works
 
-**1.**[^key-741426c4ef5ca5ecf80e4cf4c622a2b7] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
+**1.**[^c-741426c4ef5ca5ecf80e4cf4c622a2b7] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
 
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/ or maintenance of the authorised development;
 - (b) marking buoys, beacons, fenders and other navigational warning or ship impact protection works; and
@@ -397,11 +397,11 @@ and in connection with Work No. 11 and Work No. 11A and to the extent that they 
 
 ### PART 3 — Requirements
 
-#### 1. Time limits[^key-c7db94d94a18198ebb12c645705cb0fc]
+#### 1. Time limits[^c-c7db94d94a18198ebb12c645705cb0fc]
 
 The authorised project must commence no later than the expiration of five years beginning with the date this Order comes into force.
 
-#### 2. Detailed offshore design parameters[^key-b38475055c9a5046cec9d7cb5d0768b9]
+#### 2. Detailed offshore design parameters[^c-b38475055c9a5046cec9d7cb5d0768b9]
 
 (1) Subject to paragraph (2), any wind turbine generator forming part of the authorised project must not—
 
@@ -418,7 +418,7 @@ The authorised project must commence no later than the expiration of five years 
 
 (2) References to the location of a wind turbine generator in paragraph (2) above are references to the centre point of that turbine.
 
-**3.**[^key-56e5b299c28ebc020713769232f5775d] (1) The total number of wind turbine generators forming part of the authorised project must not exceed 158 and must be configured such that at any time—
+**3.**[^c-56e5b299c28ebc020713769232f5775d] (1) The total number of wind turbine generators forming part of the authorised project must not exceed 158 and must be configured such that at any time—
 
 - (a) no more than two-thirds of the total number of wind turbine generators (rounded to the nearest whole number) must be located in Norfolk Vanguard West; and
 - (b) no more than one-half of the total number of wind turbine generators (rounded to the nearest whole number) must be located in Norfolk Vanguard East.
@@ -431,7 +431,7 @@ The authorised project must commence no later than the expiration of five years 
 
 (5) The total number of LIDAR measurement buoys must not exceed two and the total number of wave measurement buoys must not exceed two.
 
-**4.**[^key-f31d26b8a5060847ef989bb76a52bacd] (1) The dimensions of any offshore electrical platforms forming part of the authorised project (excluding towers, helipads, masts and cranes) must not exceed 100 metres in height when measured from HAT, 120 metres in length and 80 metres in width.
+**4.**[^c-f31d26b8a5060847ef989bb76a52bacd] (1) The dimensions of any offshore electrical platforms forming part of the authorised project (excluding towers, helipads, masts and cranes) must not exceed 100 metres in height when measured from HAT, 120 metres in length and 80 metres in width.
 
 (2) The dimensions of any accommodation platform forming part of the authorised project (excluding helipads) must not exceed 100 metres in height when measured from HAT, 90 metres in length and 60 metres in width.
 
@@ -439,7 +439,7 @@ The authorised project must commence no later than the expiration of five years 
 
 (4) Each meteorological mast must not have more than one supporting foundation.
 
-**5.**[^key-44aeaa14f50af5ee04053a7c76b92c79] The total length of the cables and the volume and area of their cable protection must not exceed the following—
+**5.**[^c-44aeaa14f50af5ee04053a7c76b92c79] The total length of the cables and the volume and area of their cable protection must not exceed the following—
 
 | Work | Length | Cable protection (m<sup>2</sup> and m<sup>3</sup>) |
 | --- | --- | --- |
@@ -447,7 +447,7 @@ The authorised project must commence no later than the expiration of five years 
 | Work No. 3 (interconnector link) | 150 kilometres | 76,000m<sup>2</sup> 38,000m<sup>3</sup> |
 | Work No. 4A and 4B (export cable) | 400 kilometres | 102,086m<sup>2</sup> 59,836m<sup>3</sup> |
 
-**6.**[^key-c447fa1a58d82e45aa7f78715eff161f] (1) In relation to a wind turbine generator, each foundation using piles must not have—
+**6.**[^c-c447fa1a58d82e45aa7f78715eff161f] (1) In relation to a wind turbine generator, each foundation using piles must not have—
 
 - (a) more than four driven piles;
 - (b) in the case of single pile structures, a pile diameter which is more than 15 metres; or
@@ -455,7 +455,7 @@ The authorised project must commence no later than the expiration of five years 
 
 (2) In relation to a wind turbine generator, each foundation must not have a seabed footprint area (excluding scour protection) of greater than 1,963 m<sup>2</sup>.
 
-**7.**[^key-1f99c3cc81ba5905c5ed9c093084e651] (1) In relation to a meteorological mast, each foundation using piles must not have—
+**7.**[^c-1f99c3cc81ba5905c5ed9c093084e651] (1) In relation to a meteorological mast, each foundation using piles must not have—
 
 - (a) more than four driven piles;
 - (b) in the case of single pile structures, a pile diameter which is more than 10 metres;
@@ -463,29 +463,29 @@ The authorised project must commence no later than the expiration of five years 
 
 (2) In relation to a meteorological mast, each foundation must not have a seabed footprint area (excluding scour protection) of greater than 314 m<sup>2</sup>.
 
-**8.**[^key-8d89698bff03fed7eec451e1771c546d] (1) In relation to an offshore electrical platform, each foundation using piles must not have—
+**8.**[^c-8d89698bff03fed7eec451e1771c546d] (1) In relation to an offshore electrical platform, each foundation using piles must not have—
 
 - (a) more than 18 driven piles;
 - (b) in the case of two or more pile structures, have a pile diameter which is more than five metres.
 
 (2) In relation to the offshore electrical platform(s), the foundations must not have a combined seabed footprint area (excluding scour protection) of greater than 15,000 m<sup>2</sup>.
 
-**9.**[^key-6f2ba814e0cc51d3158b3a7c0f21fdb4] (1) In relation to any accommodation platform, each foundation using piles must not have—
+**9.**[^c-6f2ba814e0cc51d3158b3a7c0f21fdb4] (1) In relation to any accommodation platform, each foundation using piles must not have—
 
 - (a) more than six driven piles;
 - (b) in the case of two or more pile structures, have a pile diameter which is more than three metres.
 
 (2) In relation to an accommodation platform, each foundation must not have a seabed footprint area (excluding scour protection) of greater than 7,500 m<sup>2</sup>.
 
-**10.**[^key-89d23283bde262a5d1e0df2067482678] (1) In relation to any LIDAR measurement buoys, each foundation using piles must not have a pile diameter of greater than 10 metres.
+**10.**[^c-89d23283bde262a5d1e0df2067482678] (1) In relation to any LIDAR measurement buoys, each foundation using piles must not have a pile diameter of greater than 10 metres.
 
 (2) In relation to any LIDAR measurement buoys, each foundation must not have a seabed footprint area (excluding scour protection) of greater than 79 m<sup>2</sup>per buoy and 157m² in total.
 
 (3) In relation to any wave measurement buoys, each foundation must not have a seabed footprint area (excluding scour protection) of greater than 150m<sup>2</sup> per buoy and 300 m<sup>2 </sup>in total.
 
-**11.**[^key-4d7b4b6959f08e5b74c6da6c92f44c57] The total amount of scour protection for the wind turbine generators, accommodation platform, meteorological masts, offshore electrical platforms and LIDAR measurement buoys forming part of the authorised project must not exceed 5,196,703m<sup>2 </sup>and 25,983,515m<sup>3</sup>.
+**11.**[^c-4d7b4b6959f08e5b74c6da6c92f44c57] The total amount of scour protection for the wind turbine generators, accommodation platform, meteorological masts, offshore electrical platforms and LIDAR measurement buoys forming part of the authorised project must not exceed 5,196,703m<sup>2 </sup>and 25,983,515m<sup>3</sup>.
 
-#### 12. Aviation safety[^key-f489177e949414e98fae5720a7044cf2]
+#### 12. Aviation safety[^c-f489177e949414e98fae5720a7044cf2]
 
 (1) The undertaker must exhibit such lights, with such shape, colour and character and at such times as are required in writing by Air Navigation Order 2016[^f00046] and/or determined necessary for aviation safety in consultation with the Defence Infrastructure Organisation Safeguarding and as directed by the CAA. Lighting installed specifically to meet Ministry of Defence aviation safety requirements must remain operational for the life of the authorised development unless otherwise agreed in writing with the Ministry of Defence.
 
@@ -499,7 +499,7 @@ The authorised project must commence no later than the expiration of five years 
 
 and the Defence Infrastructure Organisation Safeguarding must be notified of any changes to the information supplied under this paragraph and of the completion of the construction of the offshore works.
 
-#### 13. Ministry of Defence surveillance operations[^key-b3ef73b2f976eeac9baae28fdf353208]
+#### 13. Ministry of Defence surveillance operations[^c-b3ef73b2f976eeac9baae28fdf353208]
 
 (1) No wind turbine generator forming part of the authorised development is permitted to rotate its rotor blades on its horizontal axis until the Secretary of State having consulted with the Ministry of Defence confirms satisfaction in writing that appropriate mitigation will be implemented and maintained for the life of the authorised development and that arrangements have been put in place with the Ministry of Defence to ensure that the approved mitigation is implemented.
 
@@ -511,11 +511,11 @@ and the Defence Infrastructure Organisation Safeguarding must be notified of any
 
 (3) The undertaker must thereafter comply with all other obligations contained within the approved mitigation for the life of the authorised development.
 
-#### 14. Offshore decommissioning[^key-1d2032cb348b843c46e68a479d62d89d]
+#### 14. Offshore decommissioning[^c-1d2032cb348b843c46e68a479d62d89d]
 
 No offshore works may commence until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) (Requirement to prepare decommissioning programmes) of the 2004 Act has been submitted to the Secretary of State for approval.
 
-#### 15. Stages of authorised development onshore[^key-5b5dbbf3eddbceb49916eef668aaa9bb]
+#### 15. Stages of authorised development onshore[^c-5b5dbbf3eddbceb49916eef668aaa9bb]
 
 (1) The onshore transmission works may not be commenced until notification has been submitted to the relevant planning authority detailing whether the onshore works will be constructed:
 
@@ -526,7 +526,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (3) The written scheme must be implemented as notified under paragraph 2.
 
-#### 16. Detailed design parameters onshore[^key-0db420858a3076a6e58479c79822a067]
+#### 16. Detailed design parameters onshore[^c-0db420858a3076a6e58479c79822a067]
 
 (1) The total number of buildings housing the principal electrical equipment for the onshore project substation comprised in Work No. 8A must not exceed two.
 
@@ -585,7 +585,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (18) The number of underground cable ducts to be installed at the landfall must not exceed two.
 
-#### 17. Landfall method statement[^key-46a1ff66933bf3bddf2380ae18ebd37d]
+#### 17. Landfall method statement[^c-46a1ff66933bf3bddf2380ae18ebd37d]
 
 (1) No part of Works No. 4A, 4B or 4C may commence until a method statement for the construction of Works No. 4A, 4B and 4C has been submitted to and approved in writing by North Norfolk District Council in consultation with Natural England.
 
@@ -595,7 +595,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (4) The method statement and any proposals for remedial measures must be implemented as approved.
 
-#### 18. Provision of landscaping[^key-e148ef99db49e69dc7f5fbe86389b757]
+#### 18. Provision of landscaping[^c-e148ef99db49e69dc7f5fbe86389b757]
 
 (1) No stage of the onshore transmission works may commence until for that stage a written landscaping management scheme and associated work programme (which accords with the outline landscape and ecological management strategy) has been submitted to and approved by the relevant planning authority in consultation with Natural England.
 
@@ -612,13 +612,13 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (3) The landscaping management scheme must be implemented as approved.
 
-#### 19. Implementation and maintenance of landscaping[^key-7f5e3ae31f8de853245c7a66c3d7619e]
+#### 19. Implementation and maintenance of landscaping[^c-7f5e3ae31f8de853245c7a66c3d7619e]
 
 (1) All landscaping works must be carried out in accordance with the landscaping management schemes approved under requirement 18 (provision of landscaping), and in accordance with the relevant recommendations of appropriate British Standards.
 
 (2) Any tree or shrub planted as part of an approved landscaping management scheme that, within a period of five years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased must be replaced in the first available planting season with a specimen of the same species and size as that originally planted unless a different species is otherwise agreed in writing with the relevant planning authority.
 
-#### 20. Code of construction practice[^key-617b34069794648152ac45f522d2d402]
+#### 20. Code of construction practice[^c-617b34069794648152ac45f522d2d402]
 
 (1) No stage of the onshore transmission works may commence until for that stage a code of construction practice has been submitted to and approved by the relevant planning authority, in consultation with Norfolk County Council, the Environment Agency, and Natural England.
 
@@ -643,7 +643,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (4) Pre-commencement screening, fencing and site security works must only take place in accordance with a specific plan for such pre-commencement works which must accord with the relevant details for screening, fencing and site security set out in the outline code of construction practice, and which has been submitted to and approved by the relevant local authority.
 
-#### 21. Traffic[^key-d095a85af0c7973dafc6d7de13925688]
+#### 21. Traffic[^c-d095a85af0c7973dafc6d7de13925688]
 
 (1) No stage of the onshore transmission works may commence until for that stage the following plans, as appropriate for the relevant stage, have for that stage been submitted to and approved by the relevant planning authority in consultation with the highway authority—
 
@@ -659,13 +659,13 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (5) In circumstances where the Norfolk Boreas Development Consent Order is made and, in respect of Link 34, the Norfolk Boreas Outline Traffic Management Plan materially differs from the outline traffic management plan, the traffic management plan must include, in respect of Link 34, traffic mitigation which is consistent with the Norfolk Boreas Outline Traffic Management Plan but only to the extent that such mitigation is capable of being accommodated within the Order limits and does not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-#### 22. Highway accesses[^key-ea258c64ee1fa8b5c6a8b6ee89a7ab82]
+#### 22. Highway accesses[^c-ea258c64ee1fa8b5c6a8b6ee89a7ab82]
 
 (1) The access management plan submitted for approval under Requirement 21(1)(c) must include details of the siting, design, layout and any access management measures for any new, permanent or temporary means of access (including, where relevant, details of reinstatement measures) to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic.
 
 (2) The highway accesses for each stage of the onshore transmission works must be constructed or altered and the works described in paragraph (1) above in relation to access management measures must be carried out, as the case may be, in accordance with the approved details before they are brought into use for the purposes of the authorised project.
 
-#### 23. Archaeological written scheme of investigation[^key-4e01848dde01375bc57292f5c149f7e6]
+#### 23. Archaeological written scheme of investigation[^c-4e01848dde01375bc57292f5c149f7e6]
 
 (1) No stage of the onshore transmission works may commence until for that stage an archaeological written scheme of investigation (which accords with the outline written scheme of investigation (onshore)) has, after consultation with Norfolk County Council and Historic England, been submitted to and approved by the relevant planning authority.
 
@@ -683,7 +683,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (4) Pre-commencement surveys, site preparation works and archaeological investigations must only take place in accordance with a specific written scheme of investigation which is in accordance with the details set out in the outline written scheme of investigation (onshore), and which has been submitted to and approved by the relevant local authority.
 
-#### 24. Ecological management plan[^key-5ea7713567b42822c1c2f8b8adebaba0]
+#### 24. Ecological management plan[^c-5ea7713567b42822c1c2f8b8adebaba0]
 
 (1) No stage of the onshore transmission works may commence until for that stage a written ecological management plan (which accords with the outline landscape and ecological management strategy as appropriate for the relevant stage) has been submitted to and approved by the relevant planning authority in consultation with Natural England. The ecological management plan must be informed by post consent ecological surveying of previously un-surveyed areas for the relevant stage.
 
@@ -693,7 +693,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (4) Construction works within 5km of the Broadland Special Protection Area and Ramsar site must be carried out in accordance with the mitigation relating to onshore ornithology contained in paragraphs 227 to 230 of the outline landscape and ecological management strategy, which must be incorporated into the ecological management plan.
 
-#### 25. Watercourse crossings[^key-2eeb11e07f9ca17e12a235a067939245]
+#### 25. Watercourse crossings[^c-2eeb11e07f9ca17e12a235a067939245]
 
 (1) No stage of the onshore transmission works involving the crossing, diversion and subsequent reinstatement of any designated main river or ordinary watercourse may commence until a scheme and programme for any such crossing, diversion and reinstatement in that stage has been submitted to and, approved by the relevant planning authority in consultation with Norfolk County Council, the Environment Agency, relevant drainage authorities and Natural England.
 
@@ -701,7 +701,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (3) Unless otherwise permitted under paragraph (1), throughout the period of construction of the onshore transmission works, all ditches, watercourses, field drainage systems and culverts must be maintained such that the flow of water is not impaired or the drainage onto and from adjoining land rendered less effective.
 
-#### 26. Construction hours[^key-0df84aecbbe9ff10219c4078c2bf3634]
+#### 26. Construction hours[^c-0df84aecbbe9ff10219c4078c2bf3634]
 
 (1) Construction work for the onshore transmission works must only take place between 0700 hours and 1900 hours Monday to Friday, and 0700 hours to 1300 hours on Saturdays, with no activity on Sundays or bank holidays, except as specified in paragraphs (2) to (4).
 
@@ -726,7 +726,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (5) No crushing or screening works must take place at any time on any of the mobilisation areas, without the prior written consent of the relevant planning authority.
 
-#### 27. Control of noise during operational phase and during maintenance[^key-9cdee725402edd2e16c8ef0462b1435e]
+#### 27. Control of noise during operational phase and during maintenance[^c-9cdee725402edd2e16c8ef0462b1435e]
 
 (1) The noise rating level for the use of Work No. 8A and during maintenance must not exceed 35dB L<sub>Aeq, (5 minutes) </sub>at any time at a free field location immediately adjacent to any noise sensitive location.
 
@@ -736,7 +736,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (4) The monitoring scheme must be implemented as approved.
 
-#### 28. European protected species onshore[^key-c8e79cdf7bdf791271e40de6a3b66d03]
+#### 28. European protected species onshore[^c-c8e79cdf7bdf791271e40de6a3b66d03]
 
 (1) No stage of the onshore transmission works may commence until final pre-construction survey work has been carried out to establish whether a European protected species is present on any of the land affected, or likely to be affected, by that stage of the onshore transmission works or in any of the trees to be lopped or felled as part of that stage of the onshore transmission works.
 
@@ -744,7 +744,7 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (3) “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^f00047].
 
-#### 29. Onshore decommissioning[^key-7b75b7f27c9fa22671cb2ded67354c83]
+#### 29. Onshore decommissioning[^c-7b75b7f27c9fa22671cb2ded67354c83]
 
 (1) Within six months of the permanent cessation of commercial operation of the onshore transmission works an onshore decommissioning plan must be submitted to the relevant planning authority for approval.
 
@@ -752,11 +752,11 @@ No offshore works may commence until a written decommissioning programme in comp
 
 (3) The undertaker must notify the relevant planning authority in writing of the permanent cessation of commercial operation of the onshore transmission works within 28 days of such permanent cessation.
 
-#### 30. Requirement for written approval[^key-2e721ccfec621d1188319fe620b1a3be]
+#### 30. Requirement for written approval[^c-2e721ccfec621d1188319fe620b1a3be]
 
 Where under any of the above requirements the approval or agreement of the Secretary of State, the relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
-#### 31. Amendments to approved details[^key-50ba4fddb2007ae400c8c8d5a6027886]
+#### 31. Amendments to approved details[^c-50ba4fddb2007ae400c8c8d5a6027886]
 
 (1) With respect to any requirement which requires the authorised project to be carried out in accordance with the details approved by the relevant planning authority or another person, the approved details must be carried out as approved unless an amendment or variation is previously agreed in writing by the relevant planning authority or that other person in accordance with paragraph (2).
 
@@ -764,7 +764,7 @@ Where under any of the above requirements the approval or agreement of the Secre
 
 (3) The approved details must be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority or that other person.
 
-#### 32. Operational drainage plan[^key-383510414e3152ad91a48af91374c5bc]
+#### 32. Operational drainage plan[^c-383510414e3152ad91a48af91374c5bc]
 
 (1) Each of Work No. 8A and Work No. 8B and Work No. 10A, Work No. 10B, and Work No. 10C must not commence until a written plan for drainage during operation of the relevant work, has been submitted to and approved by the relevant planning authority, following consultation with Norfolk County Council and the Environment Agency.
 
@@ -772,7 +772,7 @@ Where under any of the above requirements the approval or agreement of the Secre
 
 (3) The operational drainage plan must be implemented as approved.
 
-#### 33. Skills and employment strategy[^key-e7a5aed1895a6f0e097cf23b4dbf4d6b]
+#### 33. Skills and employment strategy[^c-e7a5aed1895a6f0e097cf23b4dbf4d6b]
 
 (1) No stage of the onshore transmission works may commence until a skills and employment strategy (which accords with the outline skills and employment strategy) has been submitted to and approved in writing by Norfolk County Council.
 
@@ -780,7 +780,7 @@ Where under any of the above requirements the approval or agreement of the Secre
 
 (3) The skills and employment strategy must be implemented as approved.
 
-#### 34. Cromer Primary Surveillance Radar[^key-a16b8a2017e2abdd9fc6024d7b9aa6f1]
+#### 34. Cromer Primary Surveillance Radar[^c-a16b8a2017e2abdd9fc6024d7b9aa6f1]
 
 (1) No erection of any wind turbine generator forming part of the authorised development may commence until the Secretary of State having consulted with NATS has confirmed satisfaction in writing that appropriate mitigation will be implemented and maintained for the lifetime of the authorised development and that arrangements have been put in place with NATS to ensure that the approved mitigation is implemented and in operation prior to erection of the wind turbine generators.
 
@@ -795,78 +795,78 @@ Where under any of the above requirements the approval or agreement of the Secre
 
 ## Annotations
 
-[^key-b7769db3a415bd9366e182e7f9410c5d]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/706/schedule/1/part/1/paragraph/1) in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-b7769db3a415bd9366e182e7f9410c5d]: Commencement: [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/706/schedule/1/part/1/paragraph/1) in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-741426c4ef5ca5ecf80e4cf4c622a2b7]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-741426c4ef5ca5ecf80e4cf4c622a2b7]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-c7db94d94a18198ebb12c645705cb0fc]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-c7db94d94a18198ebb12c645705cb0fc]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-b38475055c9a5046cec9d7cb5d0768b9]: Commencement: Sch. 1 para. 2 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-b38475055c9a5046cec9d7cb5d0768b9]: Commencement: Sch. 1 para. 2 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-56e5b299c28ebc020713769232f5775d]: Commencement: Sch. 1 para. 3 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-56e5b299c28ebc020713769232f5775d]: Commencement: Sch. 1 para. 3 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-f31d26b8a5060847ef989bb76a52bacd]: Commencement: Sch. 1 para. 4 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-f31d26b8a5060847ef989bb76a52bacd]: Commencement: Sch. 1 para. 4 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-44aeaa14f50af5ee04053a7c76b92c79]: Commencement: Sch. 1 para. 5 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-44aeaa14f50af5ee04053a7c76b92c79]: Commencement: Sch. 1 para. 5 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-c447fa1a58d82e45aa7f78715eff161f]: Commencement: Sch. 1 para. 6 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-c447fa1a58d82e45aa7f78715eff161f]: Commencement: Sch. 1 para. 6 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-1f99c3cc81ba5905c5ed9c093084e651]: Commencement: Sch. 1 para. 7 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-1f99c3cc81ba5905c5ed9c093084e651]: Commencement: Sch. 1 para. 7 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-8d89698bff03fed7eec451e1771c546d]: Commencement: Sch. 1 para. 8 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-8d89698bff03fed7eec451e1771c546d]: Commencement: Sch. 1 para. 8 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-6f2ba814e0cc51d3158b3a7c0f21fdb4]: Commencement: Sch. 1 para. 9 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-6f2ba814e0cc51d3158b3a7c0f21fdb4]: Commencement: Sch. 1 para. 9 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-89d23283bde262a5d1e0df2067482678]: Commencement: Sch. 1 para. 10 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-89d23283bde262a5d1e0df2067482678]: Commencement: Sch. 1 para. 10 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-4d7b4b6959f08e5b74c6da6c92f44c57]: Commencement: Sch. 1 para. 11 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-4d7b4b6959f08e5b74c6da6c92f44c57]: Commencement: Sch. 1 para. 11 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-f489177e949414e98fae5720a7044cf2]: Commencement: Sch. 1 para. 12 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-f489177e949414e98fae5720a7044cf2]: Commencement: Sch. 1 para. 12 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
 [^f00046]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765).
 
-[^key-b3ef73b2f976eeac9baae28fdf353208]: Commencement: Sch. 1 para. 13 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-b3ef73b2f976eeac9baae28fdf353208]: Commencement: Sch. 1 para. 13 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-1d2032cb348b843c46e68a479d62d89d]: Commencement: Sch. 1 para. 14 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-1d2032cb348b843c46e68a479d62d89d]: Commencement: Sch. 1 para. 14 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-5b5dbbf3eddbceb49916eef668aaa9bb]: Commencement: Sch. 1 para. 15 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-5b5dbbf3eddbceb49916eef668aaa9bb]: Commencement: Sch. 1 para. 15 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-0db420858a3076a6e58479c79822a067]: Commencement: Sch. 1 para. 16 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-0db420858a3076a6e58479c79822a067]: Commencement: Sch. 1 para. 16 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-46a1ff66933bf3bddf2380ae18ebd37d]: Commencement: Sch. 1 para. 17 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-46a1ff66933bf3bddf2380ae18ebd37d]: Commencement: Sch. 1 para. 17 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-e148ef99db49e69dc7f5fbe86389b757]: Commencement: Sch. 1 para. 18 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-e148ef99db49e69dc7f5fbe86389b757]: Commencement: Sch. 1 para. 18 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-7f5e3ae31f8de853245c7a66c3d7619e]: Commencement: Sch. 1 para. 19 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-7f5e3ae31f8de853245c7a66c3d7619e]: Commencement: Sch. 1 para. 19 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-617b34069794648152ac45f522d2d402]: Commencement: Sch. 1 para. 20 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-617b34069794648152ac45f522d2d402]: Commencement: Sch. 1 para. 20 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-d095a85af0c7973dafc6d7de13925688]: Commencement: Sch. 1 para. 21 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-d095a85af0c7973dafc6d7de13925688]: Commencement: Sch. 1 para. 21 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-ea258c64ee1fa8b5c6a8b6ee89a7ab82]: Commencement: Sch. 1 para. 22 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-ea258c64ee1fa8b5c6a8b6ee89a7ab82]: Commencement: Sch. 1 para. 22 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-4e01848dde01375bc57292f5c149f7e6]: Commencement: Sch. 1 para. 23 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-4e01848dde01375bc57292f5c149f7e6]: Commencement: Sch. 1 para. 23 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-5ea7713567b42822c1c2f8b8adebaba0]: Commencement: Sch. 1 para. 24 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-5ea7713567b42822c1c2f8b8adebaba0]: Commencement: Sch. 1 para. 24 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-2eeb11e07f9ca17e12a235a067939245]: Commencement: Sch. 1 para. 25 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-2eeb11e07f9ca17e12a235a067939245]: Commencement: Sch. 1 para. 25 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-0df84aecbbe9ff10219c4078c2bf3634]: Commencement: Sch. 1 para. 26 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-0df84aecbbe9ff10219c4078c2bf3634]: Commencement: Sch. 1 para. 26 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-9cdee725402edd2e16c8ef0462b1435e]: Commencement: Sch. 1 para. 27 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-9cdee725402edd2e16c8ef0462b1435e]: Commencement: Sch. 1 para. 27 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-c8e79cdf7bdf791271e40de6a3b66d03]: Commencement: Sch. 1 para. 28 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-c8e79cdf7bdf791271e40de6a3b66d03]: Commencement: Sch. 1 para. 28 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
 [^f00047]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
-[^key-7b75b7f27c9fa22671cb2ded67354c83]: Commencement: Sch. 1 para. 29 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-7b75b7f27c9fa22671cb2ded67354c83]: Commencement: Sch. 1 para. 29 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-2e721ccfec621d1188319fe620b1a3be]: Commencement: Sch. 1 para. 30 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-2e721ccfec621d1188319fe620b1a3be]: Commencement: Sch. 1 para. 30 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-50ba4fddb2007ae400c8c8d5a6027886]: Commencement: Sch. 1 para. 31 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-50ba4fddb2007ae400c8c8d5a6027886]: Commencement: Sch. 1 para. 31 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-383510414e3152ad91a48af91374c5bc]: Commencement: Sch. 1 para. 32 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-383510414e3152ad91a48af91374c5bc]: Commencement: Sch. 1 para. 32 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-e7a5aed1895a6f0e097cf23b4dbf4d6b]: Commencement: Sch. 1 para. 33 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-e7a5aed1895a6f0e097cf23b4dbf4d6b]: Commencement: Sch. 1 para. 33 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-a16b8a2017e2abdd9fc6024d7b9aa6f1]: Commencement: Sch. 1 para. 34 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-a16b8a2017e2abdd9fc6024d7b9aa6f1]: Commencement: Sch. 1 para. 34 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Hearing of application[^key-e2a09b4072a2a8a6420a08dbabc86af7]
+## 99. Hearing of application[^c-e2a09b4072a2a8a6420a08dbabc86af7]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the jurisdiction of the court to hear and determine the application may be exerc
 
 ## Annotations
 
-[^key-e2a09b4072a2a8a6420a08dbabc86af7]: Commencement: Rule 99 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-e2a09b4072a2a8a6420a08dbabc86af7]: Commencement: Rule 99 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

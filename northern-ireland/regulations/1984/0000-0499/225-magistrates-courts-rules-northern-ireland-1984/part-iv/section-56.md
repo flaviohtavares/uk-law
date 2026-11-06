@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Processes shall be issued for hearing at such sittings of the court of summary jurisdiction as may from time to time be directed by the district judge (magistrates’ courts) [^key-a5ac9a2f9ac3c6c739bffa147e0f1040]....
+Processes shall be issued for hearing at such sittings of the court of summary jurisdiction as may from time to time be directed by the district judge (magistrates’ courts) [^c-a5ac9a2f9ac3c6c739bffa147e0f1040]....
 
 ## Annotations
 
-[^key-a5ac9a2f9ac3c6c739bffa147e0f1040]: Textual amendment: Words in [rule 56](https://www.legislation.gov.uk/nisr/1984/225/rule/56) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(13)](https://www.legislation.gov.uk/nisr/2016/304/article/3/13); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a5ac9a2f9ac3c6c739bffa147e0f1040]: Textual amendment: Words in [rule 56](https://www.legislation.gov.uk/nisr/1984/225/rule/56) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(13)](https://www.legislation.gov.uk/nisr/2016/304/article/3/13); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

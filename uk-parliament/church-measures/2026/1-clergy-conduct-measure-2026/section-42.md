@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 42. Deposition from Holy Orders: bishop or archbishop[^key-00265713a4a0bdb4e79f10abb332ec6f]
+## 42. Deposition from Holy Orders: bishop or archbishop[^c-00265713a4a0bdb4e79f10abb332ec6f]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00265713a4a0bdb4e79f10abb332ec6f]: Commencement: S. 42 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-00265713a4a0bdb4e79f10abb332ec6f]: Commencement: S. 42 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

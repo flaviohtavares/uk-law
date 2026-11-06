@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. General power to call meetings[^key-69ae0bf7da5aa21ef4c2c900fb364641]
+## 43. General power to call meetings[^c-69ae0bf7da5aa21ef4c2c900fb364641]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-69ae0bf7da5aa21ef4c2c900fb364641]: Commencement: Rule 43 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-69ae0bf7da5aa21ef4c2c900fb364641]: Commencement: Rule 43 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00019]: Footnote: Paragraph (6) was amended by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).
 

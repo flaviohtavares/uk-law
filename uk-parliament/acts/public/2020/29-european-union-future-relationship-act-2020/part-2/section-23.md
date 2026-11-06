@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Licences for access to the international road haulage market[^key-62e8fc98254c0a3f1d9b012f9fb3b0bd]
+## 23. Licences for access to the international road haulage market[^c-62e8fc98254c0a3f1d9b012f9fb3b0bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Regulation [(EC) No. 1072/2009](https://www.legislation.gov.uk/european/regul
 
 ## Annotations
 
-[^key-62e8fc98254c0a3f1d9b012f9fb3b0bd]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2020/29/section/23) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/u)
+[^c-62e8fc98254c0a3f1d9b012f9fb3b0bd]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2020/29/section/23) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/u)

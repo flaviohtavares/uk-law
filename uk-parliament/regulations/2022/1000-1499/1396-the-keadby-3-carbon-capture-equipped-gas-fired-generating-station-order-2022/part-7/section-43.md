@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Procedure in relation to certain approvals etc.[^key-47cb08a9281f2198f304b771eee68750]
+## 43. Procedure in relation to certain approvals etc.[^c-47cb08a9281f2198f304b771eee68750]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47cb08a9281f2198f304b771eee68750]: Commencement: Art. 43 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-47cb08a9281f2198f304b771eee68750]: Commencement: Art. 43 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

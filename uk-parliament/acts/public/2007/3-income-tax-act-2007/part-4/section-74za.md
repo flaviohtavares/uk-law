@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74ZA. No relief for tax-generated losses[^key-a07e022b0e799263a2ad0f8c5fb81043][^key-a9a118002f8cd7ed2d04b3973ec866f9][^key-31d4b34e2390218cef3e9f526b325ce8]
+## 74ZA. No relief for tax-generated losses[^c-a07e022b0e799263a2ad0f8c5fb81043][^c-a9a118002f8cd7ed2d04b3973ec866f9][^c-31d4b34e2390218cef3e9f526b325ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a07e022b0e799263a2ad0f8c5fb81043]: Modification: Ss. 74ZA-74D applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/b)
+[^c-a07e022b0e799263a2ad0f8c5fb81043]: Modification: Ss. 74ZA-74D applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/b)
 
-[^key-a9a118002f8cd7ed2d04b3973ec866f9]: Textual amendment: S. 74ZA inserted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/5)
+[^c-a9a118002f8cd7ed2d04b3973ec866f9]: Textual amendment: S. 74ZA inserted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/5)
 
-[^key-31d4b34e2390218cef3e9f526b325ce8]: Textual amendment: Ss. 74A-74D and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 21 paras. 6, 7 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/21/paragraph/2)
+[^c-31d4b34e2390218cef3e9f526b325ce8]: Textual amendment: Ss. 74A-74D and cross-heading inserted (21.7.2008 with effect in accordance with Sch. 21 paras. 6, 7 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/21/paragraph/2)

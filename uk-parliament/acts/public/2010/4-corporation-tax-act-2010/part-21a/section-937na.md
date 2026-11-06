@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 937NA. Priority[^key-ddda068085a85527655040a4834af690]
+## 937NA. Priority[^c-ddda068085a85527655040a4834af690]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Part, the provisions of Part 10 of TIOPA 2010 (corporat
 
 ## Annotations
 
-[^key-ddda068085a85527655040a4834af690]: Textual amendment: [S. 937NA](https://www.legislation.gov.uk/ukpga/2010/4/section/937NA) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/7)
+[^c-ddda068085a85527655040a4834af690]: Textual amendment: [S. 937NA](https://www.legislation.gov.uk/ukpga/2010/4/section/937NA) inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/7)

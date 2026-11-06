@@ -95,7 +95,7 @@ The Board of Trade may from time to time by order direct that notice of any clas
 
 Every company who fail to comply with the provisions of this section shall be liable for each offence to a penalty not exceeding *(affected by repeal, see note)*[^c5719971] *(affected by repeal, see note)*[^c5719301] level 2 on the standard scale[^c5719961] *(affected by repeal, see note)*[^c5719971] *(affected by repeal, see note)*[^c5719301].
 
-### 7. Inquiry into accidents and formal investigation in serious cases. (affected by repeal, see note)[^key-db3f89f6714661a773bc70679cfe8675][^c5719301]
+### 7. Inquiry into accidents and formal investigation in serious cases. (affected by repeal, see note)[^c-db3f89f6714661a773bc70679cfe8675][^c5719301]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -238,7 +238,7 @@ SCHEDULES *(affected by repeal, see note)*[^c5719301]
 
 [^c5719961]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-db3f89f6714661a773bc70679cfe8675]: Textual amendment: S. 7 repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-db3f89f6714661a773bc70679cfe8675]: Textual amendment: S. 7 repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c5720241]: Textual amendment: Words in s. 8 substituted (1.4.1996) by [S.I. 1995/3163](https://www.legislation.gov.uk/uksi/1995/3163), [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/1995/3163/regulation/14/2/d)
 

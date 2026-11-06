@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Interpretation[^key-b9237cf6f1214343bd1947ab16cd77c0][^key-38ded9851716e8b0e1cc13c1ef42d2c0]
+## 17. Interpretation[^c-b9237cf6f1214343bd1947ab16cd77c0][^c-38ded9851716e8b0e1cc13c1ef42d2c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,17 +31,17 @@ summary: ''
 
 - (a) FSMA 2000;
 - (b) the Companies Act 2006;
-- (ba)[^key-741437abb3f0cc4361e1da0c26c5eaa8] the Stock Transfer (Gilt-edged Securities) (CGO Service) Regulations 1985 ([S.I. 1985/1144](https://www.legislation.gov.uk/uksi/1985/1144));
+- (ba)[^c-741437abb3f0cc4361e1da0c26c5eaa8] the Stock Transfer (Gilt-edged Securities) (CGO Service) Regulations 1985 ([S.I. 1985/1144](https://www.legislation.gov.uk/uksi/1985/1144));
 - (c) the Financial Markets Insolvency (Settlement Finality) Regulations 1999 ([S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979));
 - (d) the Uncertificated Securities Regulations 2001 ([S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755));
 - (e) the Financial Collateral Arrangements (No. 2) Regulations 2003 ([S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226));
-- (ea)[^key-a7ddc4cafb938ebba1ddeb6ce5a355b9] the Government Stock Regulations 2004 ([S.I. 2004/1611](https://www.legislation.gov.uk/uksi/2004/1611));
+- (ea)[^c-a7ddc4cafb938ebba1ddeb6ce5a355b9] the Government Stock Regulations 2004 ([S.I. 2004/1611](https://www.legislation.gov.uk/uksi/2004/1611));
 - (eb) the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 ([S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692));
 - (f) [Regulation (EU) No 596/2014](https://www.legislation.gov.uk/european/regulation/2014/0596) of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation);
 - (g) [Regulation (EU) No 600/2014](https://www.legislation.gov.uk/european/regulation/2014/0600) of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments;
 - (h) [Regulation (EU) No 909/2014](https://www.legislation.gov.uk/european/regulation/2014/0909) of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories;
 - (i) [Commission Delegated Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565) of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive;
-- (j)[^key-75b876f833a7611c05165f3cdb2c18f7] [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129) of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing [Directive 2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071).
+- (j)[^c-75b876f833a7611c05165f3cdb2c18f7] [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129) of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing [Directive 2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071).
 
 (4) The following terms are defined as follows—
 
@@ -65,12 +65,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b9237cf6f1214343bd1947ab16cd77c0]: Commencement: S. 17 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b9237cf6f1214343bd1947ab16cd77c0]: Commencement: S. 17 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-38ded9851716e8b0e1cc13c1ef42d2c0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/29/section/17) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/l)
+[^c-38ded9851716e8b0e1cc13c1ef42d2c0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/29/section/17) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/l)
 
-[^key-741437abb3f0cc4361e1da0c26c5eaa8]: Textual amendment: [S. 17(3)(ba)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/ba) inserted (17.12.2024) by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/a)
+[^c-741437abb3f0cc4361e1da0c26c5eaa8]: Textual amendment: [S. 17(3)(ba)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/ba) inserted (17.12.2024) by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/a)
 
-[^key-a7ddc4cafb938ebba1ddeb6ce5a355b9]: Textual amendment: [S. 17(3)(ea)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/ea)[(eb)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/eb) inserted (17.12.2024) by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/b)
+[^c-a7ddc4cafb938ebba1ddeb6ce5a355b9]: Textual amendment: [S. 17(3)(ea)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/ea)[(eb)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/eb) inserted (17.12.2024) by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/b)
 
-[^key-75b876f833a7611c05165f3cdb2c18f7]: Textual amendment: [S. 17(3)(j)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/j) inserted (17.12.2024) by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/c)
+[^c-75b876f833a7611c05165f3cdb2c18f7]: Textual amendment: [S. 17(3)(j)](https://www.legislation.gov.uk/ukpga/2023/29/section/17/3/j) inserted (17.12.2024) by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/c)

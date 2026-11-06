@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Disclosure of information[^key-59ab07cbeeedaeb0c45f1443ae408151][^key-4818d26de5e2aa9e34e13f794a8c59ca]
+## 80. Disclosure of information[^c-59ab07cbeeedaeb0c45f1443ae408151][^c-4818d26de5e2aa9e34e13f794a8c59ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59ab07cbeeedaeb0c45f1443ae408151]: Commencement: S. 80 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-59ab07cbeeedaeb0c45f1443ae408151]: Commencement: S. 80 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-4818d26de5e2aa9e34e13f794a8c59ca]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/23/section/80) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-4818d26de5e2aa9e34e13f794a8c59ca]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2022/23/section/80) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

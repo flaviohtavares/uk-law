@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Joint health and wellbeing strategies[^key-eeb545814ca20a2056647c60f4b8e99d]
+## 193. Joint health and wellbeing strategies[^c-eeb545814ca20a2056647c60f4b8e99d]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ After section 116 of the Local Government and Public Involvement in Health Act 2
 
 ## Annotations
 
-[^key-eeb545814ca20a2056647c60f4b8e99d]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2012/7/section/193) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-eeb545814ca20a2056647c60f4b8e99d]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2012/7/section/193) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

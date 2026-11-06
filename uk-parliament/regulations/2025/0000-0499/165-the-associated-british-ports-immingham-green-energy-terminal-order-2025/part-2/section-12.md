@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Permanent stopping up of public rights of way[^key-a1c3f3898250a6409737aface2406050]
+## 12. Permanent stopping up of public rights of way[^c-a1c3f3898250a6409737aface2406050]
 
 *Extent: E+W+S*
 
-(1) From the date upon which the authorised project begins for the purposes of section 155 (when development begins) of the 2008 Act, the section of each public right of way specified in columns (1) and (2) of Schedule 7 (public rights of way to be permanently stopped up) and shown on the stopping up and restriction of use of streets and public rights of way plan is extinguished to the extent specified in column (3) of that Schedule, and[^key-6f59a91804a37ac7cd733de1147804a8] the undertaker must erect a site notice at each end of the rights of way to be extinguished no less than 28 days prior to the extinguishment of that right of way.
+(1) From the date upon which the authorised project begins for the purposes of section 155 (when development begins) of the 2008 Act, the section of each public right of way specified in columns (1) and (2) of Schedule 7 (public rights of way to be permanently stopped up) and shown on the stopping up and restriction of use of streets and public rights of way plan is extinguished to the extent specified in column (3) of that Schedule, and[^c-6f59a91804a37ac7cd733de1147804a8] the undertaker must erect a site notice at each end of the rights of way to be extinguished no less than 28 days prior to the extinguishment of that right of way.
 
 (2) The notice to be erected under paragraph (1) must include—
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1c3f3898250a6409737aface2406050]: Commencement: Art. 12 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-a1c3f3898250a6409737aface2406050]: Commencement: Art. 12 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-6f59a91804a37ac7cd733de1147804a8]: Textual amendment: Word in [art. 12(1)](https://www.legislation.gov.uk/uksi/2025/165/article/12/1) inserted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-6f59a91804a37ac7cd733de1147804a8]: Textual amendment: Word in [art. 12(1)](https://www.legislation.gov.uk/uksi/2025/165/article/12/1) inserted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

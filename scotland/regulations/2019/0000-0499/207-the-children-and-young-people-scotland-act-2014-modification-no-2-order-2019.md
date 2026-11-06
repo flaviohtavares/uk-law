@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Children and Young People (Scotland) Act 2014 (Modification) (No. 2) Order 2019 (revoked)[^key-49682d580082167d1ef4756da40a4fea]
+The Children and Young People (Scotland) Act 2014 (Modification) (No. 2) Order 2019 (revoked)[^c-49682d580082167d1ef4756da40a4fea]
 
 Made
 
@@ -42,15 +42,15 @@ Coming into force
 
 1st August 2020
 
-[^key-49682d580082167d1ef4756da40a4fea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49682d580082167d1ef4756da40a4fea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-49682d580082167d1ef4756da40a4fea]
+## 1. Citation and commencement[^c-49682d580082167d1ef4756da40a4fea]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Children and Young People (Scotland) Act 2014[^key-49682d580082167d1ef4756da40a4fea]
+## 2. Modification of the Children and Young People (Scotland) Act 2014[^c-49682d580082167d1ef4756da40a4fea]
 
 **Not yet in force.**
 
@@ -58,12 +58,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-49682d580082167d1ef4756da40a4fea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49682d580082167d1ef4756da40a4fea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49682d580082167d1ef4756da40a4fea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49682d580082167d1ef4756da40a4fea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49682d580082167d1ef4756da40a4fea]: Textual amendment: Order revoked (30.4.2020) by [The Children and Young People (Scotland) Act 2014 (Modification) (No. 2) Revocation Order 2020 (S.S.I. 2020/136)](https://www.legislation.gov.uk/ssi/2020/136), [arts. 1](https://www.legislation.gov.uk/ssi/2020/136/article/1), [2](https://www.legislation.gov.uk/ssi/2020/136/article/2)
+[^c-49682d580082167d1ef4756da40a4fea]: Textual amendment: Order revoked (30.4.2020) by [The Children and Young People (Scotland) Act 2014 (Modification) (No. 2) Revocation Order 2020 (S.S.I. 2020/136)](https://www.legislation.gov.uk/ssi/2020/136), [arts. 1](https://www.legislation.gov.uk/ssi/2020/136/article/1), [2](https://www.legislation.gov.uk/ssi/2020/136/article/2)

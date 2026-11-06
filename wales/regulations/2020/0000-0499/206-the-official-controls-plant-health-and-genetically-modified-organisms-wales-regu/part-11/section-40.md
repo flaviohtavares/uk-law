@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Defence: reasonable excuse[^key-b2085780c6e8f154bd68e7ffd16b76d2]
+## 40. Defence: reasonable excuse[^c-b2085780c6e8f154bd68e7ffd16b76d2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ It is a defence for a person charged with an offence under regulation 38 or 39 t
 
 ## Annotations
 
-[^key-b2085780c6e8f154bd68e7ffd16b76d2]: Commencement: Reg. 40 in force at 27.3.2020, see reg. 1
+[^c-b2085780c6e8f154bd68e7ffd16b76d2]: Commencement: Reg. 40 in force at 27.3.2020, see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Repeal of unnecessary provisions[^key-ecdb3dd4d36f4559032bd466f048e8de]
+## 310. Repeal of unnecessary provisions[^c-ecdb3dd4d36f4559032bd466f048e8de]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecdb3dd4d36f4559032bd466f048e8de]: Commencement: Art. 310 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ecdb3dd4d36f4559032bd466f048e8de]: Commencement: Art. 310 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70V. Tax avoidance involving international leasing[^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70V. Tax avoidance involving international leasing[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) In any such case, the relevant lease is deemed to be a long funding lease in the case of the resident who is the lessor under it.
 
-(4) The reference in this section to a person obtaining a tax advantage (see section 577(4)) also includes a reference to a person obtaining a tax advantage within the meaning of section 1139 of CTA 2010[^key-d217316920d29be01f435013da9a2f46].
+(4) The reference in this section to a person obtaining a tax advantage (see section 577(4)) also includes a reference to a person obtaining a tax advantage within the meaning of section 1139 of CTA 2010[^c-d217316920d29be01f435013da9a2f46].
 
 (5) In this section—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
-[^key-d217316920d29be01f435013da9a2f46]: Textual amendment: Words in s. 70V(4) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 331](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/331) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d217316920d29be01f435013da9a2f46]: Textual amendment: Words in s. 70V(4) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 331](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/331) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

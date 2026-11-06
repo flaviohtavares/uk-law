@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Amendments to the principal Rules[^key-02c9abedad58ae89db926e89eda52e11]
+## 3. Amendments to the principal Rules[^c-02c9abedad58ae89db926e89eda52e11]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ The principal Rules are amended as follows—
 
 ## Annotations
 
-[^key-02c9abedad58ae89db926e89eda52e11]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2025/171/rule/3) in operation at 26.11.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1)
+[^c-02c9abedad58ae89db926e89eda52e11]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/2025/171/rule/3) in operation at 26.11.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1)

@@ -47,11 +47,11 @@ The Treasury, in exercise of the powers conferred on them by sections 424(3), 41
 
 ## PART I — General
 
-### 1. Citation and commencement[^key-192ac7bd7da9707bb7c70a85391e48e1]
+### 1. Citation and commencement[^c-192ac7bd7da9707bb7c70a85391e48e1]
 
 These Regulations may be cited as the Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2001 and come into force on the day on which section 19 of the Act comes into force.
 
-### 2. Interpretation[^key-439e62b2067615a69a9ce889be84049b]
+### 2. Interpretation[^c-439e62b2067615a69a9ce889be84049b]
 
 (1) In these Regulations—
 
@@ -87,25 +87,25 @@ These Regulations may be cited as the Financial Services and Markets Act 2000 (L
 
 (4) Where an EEA State (including the United Kingdom) includes several territorial units, each of which has its own laws concerning contractual obligations, each unit is to be considered as a separate state for the purposes of identifying the applicable law under these Regulations.
 
-### 3. Scope of these Regulations[^key-b0cefabbe26bad32b645318a59d50b22]
+### 3. Scope of these Regulations[^c-b0cefabbe26bad32b645318a59d50b22]
 
 (1) These Regulations do not apply to contracts of reinsurance.
 
-(1A)[^key-42c1f590ee3b88c4329da170a0ff3639] These Regulations do not apply to contracts of insurance entered into on or after 17th December 2009.
+(1A)[^c-42c1f590ee3b88c4329da170a0ff3639] These Regulations do not apply to contracts of insurance entered into on or after 17th December 2009.
 
-(2) These Regulations apply to contracts of insurance which are entered into by friendly societies before 17th December 2009[^key-928d15f62020a7d451245a52a21dee7d] as follows—
+(2) These Regulations apply to contracts of insurance which are entered into by friendly societies before 17th December 2009[^c-928d15f62020a7d451245a52a21dee7d] as follows—
 
 - (a) Part II applies to a contract of insurance entered into by a friendly society to which section 37(3) of the Friendly Societies Act 1992[^f00005] applies;
 - (b) Part III applies to a contract of insurance entered into by a friendly society to which section 37(2) of that Act applies; and
 - (c) Part II applies to any other contract of insurance entered into by a friendly society which covers a risk situated in an EEA State with the following modifications—
   - (i) paragraph (1) of regulation 4 does not apply;
-  - (ii) regulation 4 applies only where the policyholder is an individual; [^key-14e35f8aea22f8d27a8779dcab7e269f]...
-  - (iii)[^key-1043946e38657a1ee5c934275f6762a2] regulation 7(1) applies as if for the words “the 1990 Act is to be treated as applying”, there were substituted “a court in any part of the United Kingdom must apply the general rules of private international law of that part of the United Kingdom concerning contractual obligations”; and
+  - (ii) regulation 4 applies only where the policyholder is an individual; [^c-14e35f8aea22f8d27a8779dcab7e269f]...
+  - (iii)[^c-1043946e38657a1ee5c934275f6762a2] regulation 7(1) applies as if for the words “the 1990 Act is to be treated as applying”, there were substituted “a court in any part of the United Kingdom must apply the general rules of private international law of that part of the United Kingdom concerning contractual obligations”; and
   - (iv) regulation 7(2) and (3) apply as if for the words “the 1990 Act is to be treated as applying” in each case, there were substituted the words “the general rules of private international law of that part of the United Kingdom concerning contractual obligations apply”.
 
 ## PART II — Contracts of General Insurance
 
-### 4. Applicable law[^key-818fed000808186482727ea3400cc8ea]
+### 4. Applicable law[^c-818fed000808186482727ea3400cc8ea]
 
 (1) This Part applies to a contract of general insurance which covers risks situated in an EEA State.
 
@@ -128,19 +128,19 @@ These Regulations may be cited as the Financial Services and Markets Act 2000 (L
 
 (9) For the purposes of paragraph (8), the contract is rebuttably presumed to be most closely connected with the EEA State in which the risk is situated.
 
-### 5. Mandatory rules[^key-a7ce67ca50236df6e8fd04767a269122]
+### 5. Mandatory rules[^c-a7ce67ca50236df6e8fd04767a269122]
 
 (1) Nothing in regulation 4 restricts the application of the mandatory rules of any part of the United Kingdom, irrespective of the applicable law of the contract.
 
 (2) If the parties to the contract choose the applicable law under regulation 4 and if all the other elements relevant to the situation at the time when the parties make their choice are connected with one EEA State only, the application of the mandatory rules of that EEA State is not prejudiced.
 
-### 6. Choice of law[^key-07368f073ba6bed2078fbf34625d3caa]
+### 6. Choice of law[^c-07368f073ba6bed2078fbf34625d3caa]
 
 (1) Any choice made by the parties under regulation 4 must be expressed or demonstrated with reasonable certainty by the terms of the contract or the circumstances of the case.
 
-(2) Where the parties to the contract may choose the applicable law under regulation 4, and where the risk to which the contract relates is covered by Community co-insurance (within the meaning of the Solvency 2 Directive[^key-e077a4a36ebc15211c2ace5b86b4b983])), co-insurers other than the leading insurer (within the meaning of that Directive) are not to be treated as parties to the contract.
+(2) Where the parties to the contract may choose the applicable law under regulation 4, and where the risk to which the contract relates is covered by Community co-insurance (within the meaning of the Solvency 2 Directive[^c-e077a4a36ebc15211c2ace5b86b4b983])), co-insurers other than the leading insurer (within the meaning of that Directive) are not to be treated as parties to the contract.
 
-### 7. The 1990 Act[^key-51a4f0bb2034506b43786fd17c118cc2]
+### 7. The 1990 Act[^c-51a4f0bb2034506b43786fd17c118cc2]
 
 (1) Subject to the preceding provisions of this Part, the 1990 Act is to be treated as applying to the contract for the purposes of determining the applicable law.
 
@@ -150,7 +150,7 @@ These Regulations may be cited as the Financial Services and Markets Act 2000 (L
 
 ## PART III — Contracts of Long-Term Insurance
 
-### 8. Applicable law[^key-ac70e6c6962dc96f4ca4cf5ee5ec8b79]
+### 8. Applicable law[^c-ac70e6c6962dc96f4ca4cf5ee5ec8b79]
 
 (1) This Part applies to a contract of long-term insurance if—
 
@@ -161,11 +161,11 @@ These Regulations may be cited as the Financial Services and Markets Act 2000 (L
 
 (3) If the policyholder is an individual and resides in one EEA State but is a national or citizen of another, the parties to the contract may choose the law of the EEA State of which he is a national or citizen as the applicable law.
 
-### 9. Mandatory rules[^key-ea33cf64ee6b7a6d4c941717be998329]
+### 9. Mandatory rules[^c-ea33cf64ee6b7a6d4c941717be998329]
 
 Nothing in regulation 8 affects the application of the mandatory rules of any part of the United Kingdom, irrespective of the applicable law of the contract.
 
-### 10. The 1990 Act[^key-42ab1229d7ee7140baf03ef4ff02beb4]
+### 10. The 1990 Act[^c-42ab1229d7ee7140baf03ef4ff02beb4]
 
 (1) Subject to the preceding provisions of this Part, the 1990 Act is to be treated as applying to the contract for the purposes of determining the applicable law.
 
@@ -201,38 +201,38 @@ Where these Regulations apply and regulation 4 or 8 does not specify the applica
 
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-192ac7bd7da9707bb7c70a85391e48e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-192ac7bd7da9707bb7c70a85391e48e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-439e62b2067615a69a9ce889be84049b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2635/regulation/2) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-439e62b2067615a69a9ce889be84049b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2635/regulation/2) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
 [^f00003]: Footnote: [1990 c. 36](https://www.legislation.gov.uk/ukpga/1990/36).
 
 [^f00004]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-b0cefabbe26bad32b645318a59d50b22]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-b0cefabbe26bad32b645318a59d50b22]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-42c1f590ee3b88c4329da170a0ff3639]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/1A) inserted (17.12.2009) by [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009 (S.I. 2009/3075)](https://www.legislation.gov.uk/uksi/2009/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/2/1)
+[^c-42c1f590ee3b88c4329da170a0ff3639]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/1A) inserted (17.12.2009) by [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009 (S.I. 2009/3075)](https://www.legislation.gov.uk/uksi/2009/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/2/1)
 
-[^key-928d15f62020a7d451245a52a21dee7d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2) inserted (17.12.2009) by [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009 (S.I. 2009/3075)](https://www.legislation.gov.uk/uksi/2009/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/2/2)
+[^c-928d15f62020a7d451245a52a21dee7d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2) inserted (17.12.2009) by [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009 (S.I. 2009/3075)](https://www.legislation.gov.uk/uksi/2009/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/3075/regulation/2/2)
 
 [^f00005]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-14e35f8aea22f8d27a8779dcab7e269f]: Textual amendment: Word in [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2/c/ii) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) (Amendment) Regulations 2001 (S.I. 2001/3542)](https://www.legislation.gov.uk/uksi/2001/3542), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3542/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/3542/regulation/2)
+[^c-14e35f8aea22f8d27a8779dcab7e269f]: Textual amendment: Word in [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2/c/ii) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) (Amendment) Regulations 2001 (S.I. 2001/3542)](https://www.legislation.gov.uk/uksi/2001/3542), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3542/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/3542/regulation/2)
 
-[^key-1043946e38657a1ee5c934275f6762a2]: Textual amendment: [Reg. 3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2/c/iii)[(iv)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2/c/iv) substituted for reg. 3(2)(c)(iii) (1.12.2001) by [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) (Amendment) Regulations 2001 (S.I. 2001/3542)](https://www.legislation.gov.uk/uksi/2001/3542), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3542/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/3542/regulation/2)
+[^c-1043946e38657a1ee5c934275f6762a2]: Textual amendment: [Reg. 3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2/c/iii)[(iv)](https://www.legislation.gov.uk/uksi/2001/2635/regulation/3/2/c/iv) substituted for reg. 3(2)(c)(iii) (1.12.2001) by [The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) (Amendment) Regulations 2001 (S.I. 2001/3542)](https://www.legislation.gov.uk/uksi/2001/3542), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3542/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/3542/regulation/2)
 
-[^key-818fed000808186482727ea3400cc8ea]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/2635/regulation/4) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-818fed000808186482727ea3400cc8ea]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/2635/regulation/4) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-a7ce67ca50236df6e8fd04767a269122]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/2635/regulation/5) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-a7ce67ca50236df6e8fd04767a269122]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/2635/regulation/5) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-07368f073ba6bed2078fbf34625d3caa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/2635/regulation/6) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-07368f073ba6bed2078fbf34625d3caa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/2635/regulation/6) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-e077a4a36ebc15211c2ace5b86b4b983]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2001/2635/regulation/6) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/14)
+[^c-e077a4a36ebc15211c2ace5b86b4b983]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2001/2635/regulation/6) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (revoked) 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/14)
 
-[^key-51a4f0bb2034506b43786fd17c118cc2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/2635/regulation/7) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-51a4f0bb2034506b43786fd17c118cc2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/2635/regulation/7) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-ac70e6c6962dc96f4ca4cf5ee5ec8b79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/2635/regulation/8) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-ac70e6c6962dc96f4ca4cf5ee5ec8b79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/2635/regulation/8) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-ea33cf64ee6b7a6d4c941717be998329]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/2635/regulation/9) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-ea33cf64ee6b7a6d4c941717be998329]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/2635/regulation/9) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
 
-[^key-42ab1229d7ee7140baf03ef4ff02beb4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2635/regulation/10) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)
+[^c-42ab1229d7ee7140baf03ef4ff02beb4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2635/regulation/10) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2635/regulation/1)

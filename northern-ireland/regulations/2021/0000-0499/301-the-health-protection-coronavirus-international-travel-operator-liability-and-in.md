@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 9) Regulations (Northern Ireland) 2021 (revoked)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 9) Regulations (Northern Ireland) 2021 (revoked)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 Made
 
@@ -42,67 +42,67 @@ Coming into operation
 
 at 4.00 a.m. on 22nd November 2021
 
-[^key-346b9b801e2aa38df4e8e673ef23ccb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-346b9b801e2aa38df4e8e673ef23ccb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 1. Citation, commencement and interpretation[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 2. Amendment of the principal Regulations[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (Interpretation)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 3. Amendment of regulation 2 (Interpretation)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3 (Interpretation: red list and non-red list countries and arrivals)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 4. Amendment of regulation 3 (Interpretation: red list and non-red list countries and arrivals)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 6 (Requirement to possess notification of negative test result)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 5. Amendment of regulation 6 (Requirement to possess notification of negative test result)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 10 (Requirement to self-isolate)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 6. Amendment of regulation 10 (Requirement to self-isolate)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 11 (Limitations to, and exceptions from, requirement to self-isolate)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 7. Amendment of regulation 11 (Limitations to, and exceptions from, requirement to self-isolate)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 19 (Enforcement of requirement to isolate)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 8. Amendment of regulation 19 (Enforcement of requirement to isolate)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to Schedule 2B (Criteria to be an eligible arrival)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 9. Amendment to Schedule 2B (Criteria to be an eligible arrival)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments to Schedule 4 (Persons who are exempt)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 10. Amendments to Schedule 4 (Persons who are exempt)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Operator Liability Regulations[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 11. Amendment of the Operator Liability Regulations[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of regulation 2 (Interpretation)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 12. Amendment of regulation 2 (Interpretation)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of regulation 4A (Requirement to check vaccination status)[^key-346b9b801e2aa38df4e8e673ef23ccb8]
+## 13. Amendment of regulation 4A (Requirement to check vaccination status)[^c-346b9b801e2aa38df4e8e673ef23ccb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-346b9b801e2aa38df4e8e673ef23ccb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-346b9b801e2aa38df4e8e673ef23ccb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-346b9b801e2aa38df4e8e673ef23ccb8]EXPLANATORY NOTE
+[^c-346b9b801e2aa38df4e8e673ef23ccb8]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -130,4 +130,4 @@ Regulation 13 amends regulation 4A of the Operator Liability Regulations to make
 
 ## Annotations
 
-[^key-346b9b801e2aa38df4e8e673ef23ccb8]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/301) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-346b9b801e2aa38df4e8e673ef23ccb8]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/301) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

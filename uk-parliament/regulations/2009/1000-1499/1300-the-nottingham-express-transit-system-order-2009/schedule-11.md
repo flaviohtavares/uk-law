@@ -24,7 +24,7 @@ Articles 11, 41 and 67
 
 ### Apparatus of statutory undertakers, etc., on land acquired
 
-**1.**[^key-6e28d4f9c4d58d3dbb481a284c368087] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired under this Order, or which is held by the promoter and is appropriated or used (or about to be used) by it for the purposes of the Order or any connected purpose, and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-6e28d4f9c4d58d3dbb481a284c368087] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired under this Order, or which is held by the promoter and is appropriated or used (or about to be used) by it for the purposes of the Order or any connected purpose, and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -46,7 +46,7 @@ shall be entitled to recover from the promoter compensation in respect of expend
 
 ### Apparatus of statutory undertakers, etc., in stopped up streets
 
-**2.**[^key-74fb6f7752333ac4e69b3b42bae0047d] (1) Where a street is stopped up under article 11 (stopping up of streets and extinguishment of rights) any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-74fb6f7752333ac4e69b3b42bae0047d] (1) Where a street is stopped up under article 11 (stopping up of streets and extinguishment of rights) any statutory utility whose apparatus is under, in, upon, over, along or across the street shall have the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) The promoter shall give not less than 28 days' notice in writing of its intention to stop up any street under article 11 to any statutory utility whose apparatus is under, in, upon, over, along or across that street.
 
@@ -87,8 +87,8 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-6e28d4f9c4d58d3dbb481a284c368087]: Commencement: Sch. 11 para. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-6e28d4f9c4d58d3dbb481a284c368087]: Commencement: Sch. 11 para. 1 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00054]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-74fb6f7752333ac4e69b3b42bae0047d]: Commencement: Sch. 11 para. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-74fb6f7752333ac4e69b3b42bae0047d]: Commencement: Sch. 11 para. 2 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

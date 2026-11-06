@@ -51,8 +51,8 @@ which has already been implemented (whether by virtue of this Act or otherwise).
 (7) In this section “**relevant agreement**” means—
 
 - (a) any future relationship agreement which is not the Trade and Cooperation Agreement, the Nuclear Cooperation Agreement or the Security of Classified Information Agreement, or
-- (b) any agreement which falls within Article 361(4)[^key-a6cceb91e7267f53ebafada85fceffd2] of the Trade and Cooperation Agreement (competition co-operation agreement) (including any agreement which so falls as modified or supplemented from time to time in accordance with any provision of it or of any future relationship agreement).
+- (b) any agreement which falls within Article 361(4)[^c-a6cceb91e7267f53ebafada85fceffd2] of the Trade and Cooperation Agreement (competition co-operation agreement) (including any agreement which so falls as modified or supplemented from time to time in accordance with any provision of it or of any future relationship agreement).
 
 ## Annotations
 
-[^key-a6cceb91e7267f53ebafada85fceffd2]: Textual amendment: Words in [s. 31(7)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/31/7/b) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-a6cceb91e7267f53ebafada85fceffd2]: Textual amendment: Words in [s. 31(7)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/31/7/b) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))

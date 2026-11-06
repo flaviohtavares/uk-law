@@ -49,7 +49,7 @@ The Treasury, in exercise of the powers conferred by—
 - (a) section 2(2) of the European Communities Act 1972; and
 - (b) sections 349(1)(b), 349(2), 349(3) and 428(3) of, and paragraphs 13(1)(b)(iii), 14(1)(b), 17(a), 17(b), 17(c), 18 and 22 of Schedule 3 to, the Financial Services and Markets Act 2000 [^M_F_b65beffb-e038-4bfa-a992-182376fcd943];
 
-make the following Regulations:[^key-dbd08a8d696b70d5033f2ea241784db3]
+make the following Regulations:[^c-dbd08a8d696b70d5033f2ea241784db3]
 
 ## Contents
 
@@ -68,7 +68,7 @@ make the following Regulations:[^key-dbd08a8d696b70d5033f2ea241784db3]
 - [Section 4 — Main provisions of the capital requirements regulation and Directive 2013/36/EU UK law](part-3/section-4.md)
 - [Section 5 — Capital buffers and Article 458 of the capital requirements regulation](part-3/section-5.md)
 
-### PART 4 — PRA and FCA: cooperation and co-ordination[^key-d610db583b6a055950e26c305db6b239]
+### PART 4 — PRA and FCA: cooperation and co-ordination[^c-d610db583b6a055950e26c305db6b239]
 
 **No longer in force.**
 
@@ -85,7 +85,7 @@ make the following Regulations:[^key-dbd08a8d696b70d5033f2ea241784db3]
 - [Section 16 — Significant branches: UK is the home EEA State or EEA consolidating supervisor](part-4/section-16.md)
 - [Section 17 — Duties to notify EBA and EIOPA](part-4/section-17.md)
 
-### PART 5 — Publication of information by PRA and FCA[^key-eb4bee4394e1af2f651e60cfa5e1ba14]
+### PART 5 — Publication of information by PRA and FCA[^c-eb4bee4394e1af2f651e60cfa5e1ba14]
 
 **No longer in force.**
 
@@ -109,7 +109,7 @@ make the following Regulations:[^key-dbd08a8d696b70d5033f2ea241784db3]
 - [Section 32 — Joint decision on liquidity: PRA or FCA is not the EEA consolidating supervisor](part-6/section-32.md)
 - [Section 33 — Colleges of supervisors](part-6/section-33.md)
 
-### PART 7 — Exercise of supervision by the PRA ...[^key-dff006fa6e8d10cb59d76d296c3265fc]
+### PART 7 — Exercise of supervision by the PRA ...[^c-dff006fa6e8d10cb59d76d296c3265fc]
 
 - [Section 34 — Supervisory powers: own funds](part-7/section-34.md)
 - [Section 34A — Supervisory review and evaluation process](part-7/section-34a.md)
@@ -199,10 +199,10 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^M_F_b65beffb-e038-4bfa-a992-182376fcd943]: Textual amendment: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 349(2) was amended by section 41 of, and paragraphs 19(1) and (2) of Schedule 12 to, the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21); paragraphs 14(1)(b), 17(c), 18 and 22 of Schedule 3 were amended by section 12 of, and paragraphs 1, 3, 7, 8 and 14 of Schedule 4 to, the Financial Services Act 2012; paragraph 14(1)(b) was also amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
 
-[^key-dbd08a8d696b70d5033f2ea241784db3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/3115): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-dbd08a8d696b70d5033f2ea241784db3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/3115): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-d610db583b6a055950e26c305db6b239]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/3115/part/4) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2018/1401/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d610db583b6a055950e26c305db6b239]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/3115/part/4) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2018/1401/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb4bee4394e1af2f651e60cfa5e1ba14]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2013/3115/part/5) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2018/1401/regulation/16) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb4bee4394e1af2f651e60cfa5e1ba14]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2013/3115/part/5) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2018/1401/regulation/16) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dff006fa6e8d10cb59d76d296c3265fc]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2013/3115/part/7) heading omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/6)
+[^c-dff006fa6e8d10cb59d76d296c3265fc]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2013/3115/part/7) heading omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/6)

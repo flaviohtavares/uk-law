@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Parliamentary control of statutory instruments[^key-0a495b5a630fd9a741b406bb8cb5aa58]
+## 49. Parliamentary control of statutory instruments[^c-0a495b5a630fd9a741b406bb8cb5aa58]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a495b5a630fd9a741b406bb8cb5aa58]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2012/21/section/49) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-0a495b5a630fd9a741b406bb8cb5aa58]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2012/21/section/49) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

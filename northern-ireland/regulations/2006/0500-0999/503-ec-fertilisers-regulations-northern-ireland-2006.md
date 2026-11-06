@@ -39,19 +39,19 @@ Coming into operation
 
 1st February 2007
 
-The Department of Agriculture and Rural Development, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to the common agricultural policy of the European Union[^key-c9f3b8dcffda475dd6a0432fb260d952], in exercise of the powers conferred upon it by the said section 2(2), makes the following Regulations:
+The Department of Agriculture and Rural Development, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to the common agricultural policy of the European Union[^c-c9f3b8dcffda475dd6a0432fb260d952], in exercise of the powers conferred upon it by the said section 2(2), makes the following Regulations:
 
 ## PART 1 — General
 
-### 1. Title and commencement[^key-512447eeca900032a3a7583107d24ca3]
+### 1. Title and commencement[^c-512447eeca900032a3a7583107d24ca3]
 
 These Regulations may be cited as the EC Fertilisers Regulations (Northern Ireland) 2006 and shall come into operation on 1st February 2007.
 
-### 2. Interpretation[^key-665653f15f8de160e3149f8b198fefe5]
+### 2. Interpretation[^c-665653f15f8de160e3149f8b198fefe5]
 
 (1) In these Regulations—
 
-- “the Community Regulation” means Regulation [(EC) 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and the Council relating to fertilisers as amended from time to time[^key-b108d3224cfb5b10a0e18187ab22519c] [^f00003];
+- “the Community Regulation” means Regulation [(EC) 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and the Council relating to fertilisers as amended from time to time[^c-b108d3224cfb5b10a0e18187ab22519c] [^f00003];
 - “the Department” means the Department of Agriculture and Rural Development;
 - “**fertiliser**” means material, the main function of which is to provide nutrients for plants;
 - “**premises**” includes any place, any vehicle or trailer, any container, any stall or moveable structure, and any ship or aircraft.
@@ -65,7 +65,7 @@ These Regulations may be cited as the EC Fertilisers Regulations (Northern Irela
 
 ## PART 2 — Composition, labelling and records
 
-### 3. Types of fertiliser for which designation “EC fertiliser” can be used[^key-eebec46c05531a18a27281fcbfc973e7]
+### 3. Types of fertiliser for which designation “EC fertiliser” can be used[^c-eebec46c05531a18a27281fcbfc973e7]
 
 (1) A manufacturer shall not place on the market a fertiliser designated as an “EC fertiliser” unless—
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the EC Fertilisers Regulations (Northern Irela
 
 (2) Any person who contravenes paragraph (1) shall be guilty of an offence.
 
-### 4. Tolerances[^key-de624edd95e249289fdeb99d4b668d34]
+### 4. Tolerances[^c-de624edd95e249289fdeb99d4b668d34]
 
 Any manufacturer who—
 
@@ -83,7 +83,7 @@ Any manufacturer who—
 
 shall be guilty of an offence.
 
-### 5. General provisions relating to identification, marking, labelling and packaging of EC fertilisers[^key-e5bb9d9440fa0d719277540ab025e40f]
+### 5. General provisions relating to identification, marking, labelling and packaging of EC fertilisers[^c-e5bb9d9440fa0d719277540ab025e40f]
 
 (1) Any manufacturer who places on the market a fertiliser designated as an EC fertiliser shall be guilty of an offence unless the identification markings relating to it—
 
@@ -106,7 +106,7 @@ shall be guilty of an offence.
 - (b) a copy of the documents containing them meets the requirements of Article 10(3); and
 - (c) the language in which the identification markings appear complies with Article 11.
 
-### 6. Additional provisions relating to the marking and identification of inorganic primary nutrient fertilisers[^key-c2981d3067a0bccb168e838ec485e5f2]
+### 6. Additional provisions relating to the marking and identification of inorganic primary nutrient fertilisers[^c-c2981d3067a0bccb168e838ec485e5f2]
 
 Any manufacturer who places on the market a fertiliser—
 
@@ -118,7 +118,7 @@ Any manufacturer who places on the market a fertiliser—
 
 shall be guilty of an offence.
 
-### 7. Additional provisions relating to the marking and identification of inorganic secondary nutrient fertilisers[^key-3795f7386a4c46dbaaac70b5e4953228]
+### 7. Additional provisions relating to the marking and identification of inorganic secondary nutrient fertilisers[^c-3795f7386a4c46dbaaac70b5e4953228]
 
 Any manufacturer who places on the market a fertiliser—
 
@@ -129,7 +129,7 @@ Any manufacturer who places on the market a fertiliser—
 
 shall be guilty of an offence.
 
-### 8. Additional provisions relating to the identification and packaging of inorganic micro-nutrient fertilisers[^key-5293c643269aed5d2ff55b788864193d]
+### 8. Additional provisions relating to the identification and packaging of inorganic micro-nutrient fertilisers[^c-5293c643269aed5d2ff55b788864193d]
 
 Any manufacturer who places on the market a fertiliser that is—
 
@@ -140,11 +140,11 @@ Any manufacturer who places on the market a fertiliser that is—
 
 shall be guilty of an offence.
 
-### 9. Records[^key-6ef9ad4806a8e70d1777e4185ef4f92a]
+### 9. Records[^c-6ef9ad4806a8e70d1777e4185ef4f92a]
 
 Any manufacturer who fails to comply with the requirements of Article 8 shall be guilty of an offence.
 
-### 10. Compliance notices[^key-5ef279287949d23f3fff4c96b4d3a24e]
+### 10. Compliance notices[^c-5ef279287949d23f3fff4c96b4d3a24e]
 
 (1) This regulation applies where the Department is of the opinion, that a person is a manufacturer placing on the market fertiliser that does not comply with the Community Regulation, but that person has not committed an offence under regulations 3 to 9.
 
@@ -156,17 +156,17 @@ Any manufacturer who fails to comply with the requirements of Article 8 shall be
 
 ## PART 3 — Enforcement
 
-### 11. Enforcement authorities[^key-539d15a6ca8da657ef183a403268ec47]
+### 11. Enforcement authorities[^c-539d15a6ca8da657ef183a403268ec47]
 
 (1) These Regulations and the Community Regulation shall be enforced by the Department.
 
 (2) The Department shall appoint inspectors for the purposes of these Regulations.
 
-### 12. Powers of entry[^key-fb6ccd33033a7f3e23f3aa10635b80f4]
+### 12. Powers of entry[^c-fb6ccd33033a7f3e23f3aa10635b80f4]
 
 (1) An inspector shall, on producing, if so required, some duly authenticated document showing his authority, have a right at all reasonable hours to enter any premises for the purpose of ensuring that the provisions of these Regulations are being complied with.
 
-(2)[^key-e020ba3d1756b33269ea91487b9b10ff] An inspector may be accompanied by such other persons the inspector considers necessary.
+(2)[^c-e020ba3d1756b33269ea91487b9b10ff] An inspector may be accompanied by such other persons the inspector considers necessary.
 
 (3) Admission to any premises used only as a private dwelling house shall not be demanded as of right unless 24 hours notice of the intended entry has been given to the occupier, or the entry is in accordance with a warrant granted under this regulation.
 
@@ -183,7 +183,7 @@ the justice may by warrant signed by him authorise the inspector to enter the pr
 
 (6) If an inspector enters any unoccupied premises he shall leave them as effectively secured against unauthorised entry as he found them.
 
-### 13. Powers of inspectors[^key-e0f5d5846972e3c0b106e014309ee11a]
+### 13. Powers of inspectors[^c-e0f5d5846972e3c0b106e014309ee11a]
 
 (1) An inspector entering premises under regulation 12 may—
 
@@ -201,7 +201,7 @@ the justice may by warrant signed by him authorise the inspector to enter the pr
 - (a) may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford him such assistance as he may reasonably require; and
 - (b) where a record is kept by means of a computer, may require the records to be produced in a form in which they can be taken away.
 
-### 14. Obstruction[^key-1c6630dab10c1361f20ea4bafc091053]
+### 14. Obstruction[^c-1c6630dab10c1361f20ea4bafc091053]
 
 (1) Any person who—
 
@@ -215,11 +215,11 @@ shall be guilty of an offence.
 
 ## PART 4 — Competent laboratories, treatment of samples and further controls
 
-### 15. Competent laboratories[^key-a97942e04af3ee66e572f2d2dbfcb7fc]
+### 15. Competent laboratories[^c-a97942e04af3ee66e572f2d2dbfcb7fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Treatment of samples[^key-b8d35ccb618d6a430579fad4e9f825b7]
+### 16. Treatment of samples[^c-b8d35ccb618d6a430579fad4e9f825b7]
 
 In any proceedings for an offence under these Regulations to which the content of a fertiliser is relevant—
 
@@ -227,10 +227,10 @@ In any proceedings for an offence under these Regulations to which the content o
   - (i) the sample has been taken in accordance with Annex IV, and
   - (ii) it has been subjected to analysis in accordance with Annex IV in a laboratory listed in accordance with Article 30(2) or (5);
 - (b) a certificate given by a person that he is an inspector and took the sample in accordance with Annex IV shall, unless the contrary is proved, be taken as evidence of his being one and having done so;
-- (c) a certificate given on behalf of a laboratory that it is authorised under Article 30[^key-5650bd6d5972eea13a671f8e71ee7b68] and that it analysed the sample in question in accordance with Annex IV shall, unless the contrary is proved, be evidence of it being so authorised and having done so; and
+- (c) a certificate given on behalf of a laboratory that it is authorised under Article 30[^c-5650bd6d5972eea13a671f8e71ee7b68] and that it analysed the sample in question in accordance with Annex IV shall, unless the contrary is proved, be evidence of it being so authorised and having done so; and
 - (d) the combination of those certificates shall, unless the contrary is proved, be taken as evidence that the sample is representative of the fertiliser.
 
-### 17. Remedial action and seizure[^key-eebd92515ffda2c0be3be65b39166d84]
+### 17. Remedial action and seizure[^c-eebd92515ffda2c0be3be65b39166d84]
 
 (1) Where an inspector has reasonable grounds to believe that a fertiliser designated as an EC fertiliser is one in relation to which an offence under these Regulations has been committed he may—
 
@@ -253,7 +253,7 @@ In any proceedings for an offence under these Regulations to which the content o
 
 (5) Any person who fails to comply with a notice given under paragraph (1)(a) shall be guilty of an offence.
 
-### 18. Safeguard measures[^key-5d32b20d9a08737495ec1bc1f1c56051]
+### 18. Safeguard measures[^c-5d32b20d9a08737495ec1bc1f1c56051]
 
 (1) Where a risk identified in Article 15 applies in relation to a fertiliser covered by that Article, the Department may direct any person whom it considers to be in charge of the fertiliser to take such action for mitigation or elimination of the risk as is specified in the direction.
 
@@ -275,7 +275,7 @@ the direction shall be given to them by publicising it by those other means.
 
 ## PART 5 — Penalties
 
-### 19. Penalties[^key-2b593131358723e1d7752133f9547c8d]
+### 19. Penalties[^c-2b593131358723e1d7752133f9547c8d]
 
 A person guilty of an offence under these Regulations shall be liable—
 
@@ -284,11 +284,11 @@ A person guilty of an offence under these Regulations shall be liable—
 
 ## PART 6 — Disapplication of legislation
 
-### 20. Disapplication of offence provisions[^key-b8d5d700bc8b39c9b7010035177a28a9]
+### 20. Disapplication of offence provisions[^c-b8d5d700bc8b39c9b7010035177a28a9]
 
 Where an act or omission is an offence under these Regulations it shall not be an offence under Part IV of the Agriculture Act 1970[^f00005] or the Fertilisers Regulations (Northern Ireland) 1992[^f00006].
 
-### 21. Disapplication of sampling and analysis provisions[^key-c7f2fd1f5cffb884fda615dfaa07698d]
+### 21. Disapplication of sampling and analysis provisions[^c-c7f2fd1f5cffb884fda615dfaa07698d]
 
 The Fertilisers (Sampling and Analysis) Regulations (Northern Ireland) 1996[^f00007] shall not apply to any sampling or analysis of fertilisers carried out pursuant to these Regulations.
 
@@ -334,62 +334,62 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-c9f3b8dcffda475dd6a0432fb260d952]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-c9f3b8dcffda475dd6a0432fb260d952]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-512447eeca900032a3a7583107d24ca3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-512447eeca900032a3a7583107d24ca3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-665653f15f8de160e3149f8b198fefe5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/503/regulation/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-665653f15f8de160e3149f8b198fefe5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/503/regulation/2) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-b108d3224cfb5b10a0e18187ab22519c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/503/regulation/2) added (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2018/188/regulation/8/2)
+[^c-b108d3224cfb5b10a0e18187ab22519c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/503/regulation/2) added (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2018/188/regulation/8/2)
 
 [^f00003]: Footnote: O.J. No. L304, 21.11.2003, p. 1
 
 [^f00004]: Footnote: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-eebec46c05531a18a27281fcbfc973e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/503/regulation/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-eebec46c05531a18a27281fcbfc973e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/503/regulation/3) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-de624edd95e249289fdeb99d4b668d34]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/503/regulation/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-de624edd95e249289fdeb99d4b668d34]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/503/regulation/4) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-e5bb9d9440fa0d719277540ab025e40f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/503/regulation/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-e5bb9d9440fa0d719277540ab025e40f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/503/regulation/5) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-c2981d3067a0bccb168e838ec485e5f2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/503/regulation/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-c2981d3067a0bccb168e838ec485e5f2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/503/regulation/6) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-3795f7386a4c46dbaaac70b5e4953228]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/503/regulation/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-3795f7386a4c46dbaaac70b5e4953228]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/503/regulation/7) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-5293c643269aed5d2ff55b788864193d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/503/regulation/8) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-5293c643269aed5d2ff55b788864193d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/503/regulation/8) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-6ef9ad4806a8e70d1777e4185ef4f92a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/503/regulation/9) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-6ef9ad4806a8e70d1777e4185ef4f92a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/503/regulation/9) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-5ef279287949d23f3fff4c96b4d3a24e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/503/regulation/10) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-5ef279287949d23f3fff4c96b4d3a24e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/503/regulation/10) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-539d15a6ca8da657ef183a403268ec47]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/503/regulation/11) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-539d15a6ca8da657ef183a403268ec47]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/503/regulation/11) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-fb6ccd33033a7f3e23f3aa10635b80f4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/503/regulation/12) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-fb6ccd33033a7f3e23f3aa10635b80f4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/503/regulation/12) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-e020ba3d1756b33269ea91487b9b10ff]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/nisr/2006/503/regulation/12/2) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/319/regulation/5)
+[^c-e020ba3d1756b33269ea91487b9b10ff]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/nisr/2006/503/regulation/12/2) substituted (31.12.2020) by [The Seed Marketing and Fertilisers (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/319)](https://www.legislation.gov.uk/nisr/2020/319), [regs. 1](https://www.legislation.gov.uk/nisr/2020/319/regulation/1), [5](https://www.legislation.gov.uk/nisr/2020/319/regulation/5)
 
-[^key-e0f5d5846972e3c0b106e014309ee11a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/503/regulation/13) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-e0f5d5846972e3c0b106e014309ee11a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/503/regulation/13) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-1c6630dab10c1361f20ea4bafc091053]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/503/regulation/14) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-1c6630dab10c1361f20ea4bafc091053]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/503/regulation/14) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-a97942e04af3ee66e572f2d2dbfcb7fc]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/503/regulation/15) omitted (7.1.2019) by virtue of [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2018/188/regulation/8/3)
+[^c-a97942e04af3ee66e572f2d2dbfcb7fc]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/503/regulation/15) omitted (7.1.2019) by virtue of [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [8(3)](https://www.legislation.gov.uk/nisr/2018/188/regulation/8/3)
 
-[^key-b8d35ccb618d6a430579fad4e9f825b7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/503/regulation/16) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-b8d35ccb618d6a430579fad4e9f825b7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/503/regulation/16) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-5650bd6d5972eea13a671f8e71ee7b68]: Textual amendment: Word in [reg. 16(c)](https://www.legislation.gov.uk/nisr/2006/503/regulation/16/c) substituted (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2018/188/regulation/8/4)
+[^c-5650bd6d5972eea13a671f8e71ee7b68]: Textual amendment: Word in [reg. 16(c)](https://www.legislation.gov.uk/nisr/2006/503/regulation/16/c) substituted (7.1.2019) by [The Pesticides, Genetically Modified Organisms and Fertilisers (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/188)](https://www.legislation.gov.uk/nisr/2018/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/188/regulation/1/1), [8(4)](https://www.legislation.gov.uk/nisr/2018/188/regulation/8/4)
 
-[^key-eebd92515ffda2c0be3be65b39166d84]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/503/regulation/17) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-eebd92515ffda2c0be3be65b39166d84]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/503/regulation/17) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-5d32b20d9a08737495ec1bc1f1c56051]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/503/regulation/18) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-5d32b20d9a08737495ec1bc1f1c56051]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/503/regulation/18) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-2b593131358723e1d7752133f9547c8d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/503/regulation/19) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-2b593131358723e1d7752133f9547c8d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/503/regulation/19) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
-[^key-b8d5d700bc8b39c9b7010035177a28a9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/503/regulation/20) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-b8d5d700bc8b39c9b7010035177a28a9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/503/regulation/20) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
 [^f00005]: Footnote: [1970 c.40](https://www.legislation.gov.uk/ukpga/1970/40)
 
 [^f00006]: Footnote: [S.R. 1992 No. 187](https://www.legislation.gov.uk/nisr/1992/187) as amended by [S.R. 1995 No. 49](https://www.legislation.gov.uk/nisr/1995/49), [S.R. 1997 No. 378](https://www.legislation.gov.uk/nisr/1997/378) and [S.R. 1998 No. 353](https://www.legislation.gov.uk/nisr/1998/353)
 
-[^key-c7f2fd1f5cffb884fda615dfaa07698d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/503/regulation/21) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
+[^c-c7f2fd1f5cffb884fda615dfaa07698d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/503/regulation/21) in operation at 1.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/503/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1996 No. 513](https://www.legislation.gov.uk/nisr/1996/513)

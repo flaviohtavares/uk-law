@@ -23,7 +23,7 @@ summary: ''
 (1) The Department may by regulations require the payment to the Commission of such fees as may be prescribed by the regulations in respect of—
 
 - (a) the discharge by the Commission of such functions under the statutory provisions relating to charities as may be so prescribed;
-- (b) the inspection of the register of charities or of other material kept by the Commission under those statutory provisions, or the provision[^key-c8fbdbb994ead0931a0d4d2ebd6eeedd] of copies of or extracts from documents so kept.
+- (b) the inspection of the register of charities or of other material kept by the Commission under those statutory provisions, or the provision[^c-c8fbdbb994ead0931a0d4d2ebd6eeedd] of copies of or extracts from documents so kept.
 
 (2) Regulations under this section may—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8fbdbb994ead0931a0d4d2ebd6eeedd]: Textual amendment: Word in [s. 172(1)(b)](https://www.legislation.gov.uk/nia/2008/12/section/172/1/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(4)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/4/a)
+[^c-c8fbdbb994ead0931a0d4d2ebd6eeedd]: Textual amendment: Word in [s. 172(1)(b)](https://www.legislation.gov.uk/nia/2008/12/section/172/1/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(4)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/4/a)

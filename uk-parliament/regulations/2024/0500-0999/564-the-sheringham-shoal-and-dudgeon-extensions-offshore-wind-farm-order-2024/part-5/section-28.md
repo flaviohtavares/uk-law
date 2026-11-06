@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Recovery of costs of new connections[^key-dc65b873607f953d4ae50b1e5bd0386c]
+## 28. Recovery of costs of new connections[^c-dc65b873607f953d4ae50b1e5bd0386c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-dc65b873607f953d4ae50b1e5bd0386c]: Commencement: Art. 28 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-dc65b873607f953d4ae50b1e5bd0386c]: Commencement: Art. 28 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

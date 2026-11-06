@@ -35,20 +35,20 @@ amending Regulation (EC) No 802/2004 implementing Council Regulation (EC) No 13
 
 (Text with EEA relevance) (revoked)
 
-[^key-f7a7b91a74300d3451f1e68f9fd81cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7a7b91a74300d3451f1e68f9fd81cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f7a7b91a74300d3451f1e68f9fd81cef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f7a7b91a74300d3451f1e68f9fd81cef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-f7a7b91a74300d3451f1e68f9fd81cef]
+## Article 2. Entry into force[^c-f7a7b91a74300d3451f1e68f9fd81cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7a7b91a74300d3451f1e68f9fd81cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7a7b91a74300d3451f1e68f9fd81cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f7a7b91a74300d3451f1e68f9fd81cef]
+## ANNEX[^c-f7a7b91a74300d3451f1e68f9fd81cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7a7b91a74300d3451f1e68f9fd81cef]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7a7b91a74300d3451f1e68f9fd81cef]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

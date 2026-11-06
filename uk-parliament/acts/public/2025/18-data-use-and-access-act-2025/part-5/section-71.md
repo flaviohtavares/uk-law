@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. The purpose limitation[^key-0444dc61138bbcf220832d4c6ad823a0][^key-8d7e019155e938d1fe860f39e3dcafa0]
+## 71. The purpose limitation[^c-0444dc61138bbcf220832d4c6ad823a0][^c-8d7e019155e938d1fe860f39e3dcafa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0444dc61138bbcf220832d4c6ad823a0]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-0444dc61138bbcf220832d4c6ad823a0]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-8d7e019155e938d1fe860f39e3dcafa0]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/18/section/71) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/d)
+[^c-8d7e019155e938d1fe860f39e3dcafa0]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2025/18/section/71) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/d)

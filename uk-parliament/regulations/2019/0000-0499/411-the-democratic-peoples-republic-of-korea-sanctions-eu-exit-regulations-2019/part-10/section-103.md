@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Finance: production of documents[^key-1e77fb8d29c0d7466ae2f34bcf8ade34][^key-9e91acbba3486669c8bf25b0bf8200dc]
+## 103. Finance: production of documents[^c-1e77fb8d29c0d7466ae2f34bcf8ade34][^c-9e91acbba3486669c8bf25b0bf8200dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e77fb8d29c0d7466ae2f34bcf8ade34]: Commencement: Reg. 103 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-1e77fb8d29c0d7466ae2f34bcf8ade34]: Commencement: Reg. 103 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-9e91acbba3486669c8bf25b0bf8200dc]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2019/411/regulation/103) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e91acbba3486669c8bf25b0bf8200dc]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2019/411/regulation/103) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

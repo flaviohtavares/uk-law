@@ -54,49 +54,49 @@ In accordance with paragraph 2 of that Schedule, the applicant caused a draft of
 
 With regard to paragraph 3 of that Schedule, no objections were received and no representations were made in writing to the Scottish Ministers in respect of the draft of this Order.
 
-## 1. Citation and commencement[^key-3d6340d4fa2d64eea82aaffb612e8cf4]
+## 1. Citation and commencement[^c-3d6340d4fa2d64eea82aaffb612e8cf4]
 
 This Order may be cited as the Little Loch Broom Scallops Several Fishery Order 2015 and comes into force on 9th March 2015.
 
-## 2. Interpretation[^key-29c6ef79ff2dc5e0a14032e5e8c670de]
+## 2. Interpretation[^c-29c6ef79ff2dc5e0a14032e5e8c670de]
 
 (1) In this Order—
 
-- “the applicant” means Scot-Hatch Limited, a company limited by shares and incorporated under the Companies Act 2006, whose registered company number is SC461741, and having its registered office at The Boom, Mellon Charles, Aultbea, Achnasheen, IV22 2JL[^key-5b042c8075c038b626082e23535c38b3];
+- “the applicant” means Scot-Hatch Limited, a company limited by shares and incorporated under the Companies Act 2006, whose registered company number is SC461741, and having its registered office at The Boom, Mellon Charles, Aultbea, Achnasheen, IV22 2JL[^c-5b042c8075c038b626082e23535c38b3];
 - “creel” means a basket, small cage, pot, receptacle or container with one or more openings or entrances which may be baited and is placed on the seabed for the purpose of catching shellfish;
 - “the fishery” means that part of the bed of the sea in Little Loch Broom, near Ullapool, described in the Schedule to this Order; and
 - “the grantee” means the applicant or such other person as is for the time being entitled to the right of several fishery conferred by this Order.
 
 (2) A reference in this Order to anything produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00004], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Right of several fishery[^key-45b3d92c81b6490c8caa360f4c92d785]
+## 3. Right of several fishery[^c-45b3d92c81b6490c8caa360f4c92d785]
 
-Subject to the following provisions of this Order, the right of several fishery for scallops with respect to the whole area of the fishery is conferred on the applicant until 9 March 2035[^key-2173f53b340f05a7d137bfdd7496bc42].
+Subject to the following provisions of this Order, the right of several fishery for scallops with respect to the whole area of the fishery is conferred on the applicant until 9 March 2035[^c-2173f53b340f05a7d137bfdd7496bc42].
 
-## 4. Restriction on harvesting and deposits[^key-02ea77a18beed5506ce44f901fe6be02]
+## 4. Restriction on harvesting and deposits[^c-02ea77a18beed5506ce44f901fe6be02]
 
 The right of several fishery granted by article 3 is subject to the following restrictions—
 
 - (a) that the harvesting of scallops must be carried out manually by divers;
 - (b) that the grantee must not without the written consent of the Scottish Ministers deposit within the boundaries of the fishery any juvenile scallops taken from outwith the fishery and must comply with any condition subject to which the Scottish Ministers give such consent.
 
-## 5. Permitted fishing implements[^key-b76b78e70fad89dd1f7b81540c588d05]
+## 5. Permitted fishing implements[^c-b76b78e70fad89dd1f7b81540c588d05]
 
 For the purposes of section 7(4)(a)(iii) of the Sea Fisheries (Shellfish) Act 1967 (protection of fisheries: offences), a creel is specified as an implement of fishing the use of which is permitted within the fishery.
 
-## 6. Assignation[^key-8f4115f527036966bef96d91c41b7158]
+## 6. Assignation[^c-8f4115f527036966bef96d91c41b7158]
 
 The grantee must not without the prior written consent of the Scottish Ministers assign or in any other way transfer the right of several fishery to any other person.
 
-## 7. Marking of limits of fishery[^key-2eaac8856ad17bf46030f922fb02abf1]
+## 7. Marking of limits of fishery[^c-2eaac8856ad17bf46030f922fb02abf1]
 
 The grantee must cause to be clearly marked the limits of the fishery on the bed and on the surface of the sea and must maintain the marks in position and in good repair.
 
-## 8. Rights of the Crown[^key-a50c297bfc1fe09b972bd209eb57a953]
+## 8. Rights of the Crown[^c-a50c297bfc1fe09b972bd209eb57a953]
 
-(1)[^key-c7ce0b855ffd2865b853ade1c99e0dae] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-39f961b2fd4d330a11cfb99db4669342].
+(1)[^c-c7ce0b855ffd2865b853ade1c99e0dae] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^c-39f961b2fd4d330a11cfb99db4669342].
 
-(2)[^key-8ea3e2a609a7e0fe79831b22cebdc929] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(2)[^c-8ea3e2a609a7e0fe79831b22cebdc929] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 RICHARD LOCHHEAD
 
@@ -112,7 +112,7 @@ Edinburgh
 
 Article 2(1)
 
-### 1. Interpretation[^key-9e5a6d196dbadad4fefedc07534ad011]
+### 1. Interpretation[^c-9e5a6d196dbadad4fefedc07534ad011]
 
 In this Schedule—
 
@@ -124,7 +124,7 @@ In this Schedule—
 - co-ordinate “E” is 57°51.819′ North latitude and 005°18.680′ West longitude; and
 - co-ordinate “F” is 57°51.773′ North latitude and 005°18.771′ West longitude.
 
-### 2. Description of the fishery[^key-f41d04651adf56c32d6f96fbf662df66]
+### 2. Description of the fishery[^c-f41d04651adf56c32d6f96fbf662df66]
 
 That part of the bed of the sea at Little Loch Broom, near Ullapool, extending to 75 hectares or thereby which is bounded by the lines (the topographical descriptions of which are provided in the third column of the following table) which join in the order given the co-ordinates listed in the second column.
 
@@ -167,36 +167,36 @@ A Business and Regulatory Impact Assessment has been prepared in relation to thi
 
 [^f00003]: Footnote: [1961 c.55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-3d6340d4fa2d64eea82aaffb612e8cf4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-3d6340d4fa2d64eea82aaffb612e8cf4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-29c6ef79ff2dc5e0a14032e5e8c670de]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/28/article/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-29c6ef79ff2dc5e0a14032e5e8c670de]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/28/article/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-5b042c8075c038b626082e23535c38b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/28/article/2/1) substituted (9.3.2025) by [The Little Loch Broom Scallops Several Fishery (Variation) Order 2025 (S.S.I. 2025/7)](https://www.legislation.gov.uk/ssi/2025/7), [arts. 1](https://www.legislation.gov.uk/ssi/2025/7/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/7/article/2/2)
+[^c-5b042c8075c038b626082e23535c38b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/28/article/2/1) substituted (9.3.2025) by [The Little Loch Broom Scallops Several Fishery (Variation) Order 2025 (S.S.I. 2025/7)](https://www.legislation.gov.uk/ssi/2025/7), [arts. 1](https://www.legislation.gov.uk/ssi/2025/7/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/7/article/2/2)
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-45b3d92c81b6490c8caa360f4c92d785]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/28/article/3) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-45b3d92c81b6490c8caa360f4c92d785]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/28/article/3) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-2173f53b340f05a7d137bfdd7496bc42]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2015/28/article/3) substituted (9.3.2025) by [The Little Loch Broom Scallops Several Fishery (Variation) Order 2025 (S.S.I. 2025/7)](https://www.legislation.gov.uk/ssi/2025/7), [arts. 1](https://www.legislation.gov.uk/ssi/2025/7/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/7/article/2/3)
+[^c-2173f53b340f05a7d137bfdd7496bc42]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2015/28/article/3) substituted (9.3.2025) by [The Little Loch Broom Scallops Several Fishery (Variation) Order 2025 (S.S.I. 2025/7)](https://www.legislation.gov.uk/ssi/2025/7), [arts. 1](https://www.legislation.gov.uk/ssi/2025/7/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/7/article/2/3)
 
-[^key-02ea77a18beed5506ce44f901fe6be02]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/28/article/4) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-02ea77a18beed5506ce44f901fe6be02]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/28/article/4) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-b76b78e70fad89dd1f7b81540c588d05]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/28/article/5) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-b76b78e70fad89dd1f7b81540c588d05]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/28/article/5) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-8f4115f527036966bef96d91c41b7158]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/28/article/6) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-8f4115f527036966bef96d91c41b7158]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/28/article/6) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-2eaac8856ad17bf46030f922fb02abf1]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/28/article/7) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-2eaac8856ad17bf46030f922fb02abf1]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/28/article/7) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-a50c297bfc1fe09b972bd209eb57a953]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/28/article/8) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-a50c297bfc1fe09b972bd209eb57a953]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/28/article/8) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
-[^key-c7ce0b855ffd2865b853ade1c99e0dae]: Textual amendment: Art. 8 renumbered as art. 8(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 137(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/137/a)
+[^c-c7ce0b855ffd2865b853ade1c99e0dae]: Textual amendment: Art. 8 renumbered as art. 8(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 137(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/137/a)
 
-[^key-39f961b2fd4d330a11cfb99db4669342]: Textual amendment: Words in art. 8(1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 137(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/137/b)
+[^c-39f961b2fd4d330a11cfb99db4669342]: Textual amendment: Words in art. 8(1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 137(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/137/b)
 
-[^key-8ea3e2a609a7e0fe79831b22cebdc929]: Textual amendment: Art. 8(2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 137(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/137/c)
+[^c-8ea3e2a609a7e0fe79831b22cebdc929]: Textual amendment: Art. 8(2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 137(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/137/c)
 
-[^key-9e5a6d196dbadad4fefedc07534ad011]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/28/schedule/paragraph/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-9e5a6d196dbadad4fefedc07534ad011]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/28/schedule/paragraph/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
 
 [^f00005]: Footnote: Definitions of the World Geodetic System 1984 datum and co-ordinate reference system are available via EPSG Geodetic Parameter Registry at EPSG:6326 (http://epsg.io/6326-datum) and EPSG:4326 (http://epsg.io/4326).
 
-[^key-f41d04651adf56c32d6f96fbf662df66]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/28/schedule/paragraph/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)
+[^c-f41d04651adf56c32d6f96fbf662df66]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/28/schedule/paragraph/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/28/article/1)

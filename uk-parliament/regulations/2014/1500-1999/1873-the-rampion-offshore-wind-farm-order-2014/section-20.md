@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Discharge of water[^key-957b0c994c7b37ac550015c1ca4f04e7]
+## 20. Discharge of water[^c-957b0c994c7b37ac550015c1ca4f04e7]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The undertaker shall take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise the entry into controlled waters of any matter whose entry or discharge into controlled waters is prohibited by regulation 12 of the Environmental Permitting (England and Wales) Regulations 2016[^key-caaad206c8ca48acc93839a6271e26fd].
+(7) This article does not authorise the entry into controlled waters of any matter whose entry or discharge into controlled waters is prohibited by regulation 12 of the Environmental Permitting (England and Wales) Regulations 2016[^c-caaad206c8ca48acc93839a6271e26fd].
 
 (8) In this article—
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-957b0c994c7b37ac550015c1ca4f04e7]: Commencement: Art. 20 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-957b0c994c7b37ac550015c1ca4f04e7]: Commencement: Art. 20 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
 [^f00019]: Footnote: ()[1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 6 was amended by sections 36(2) and 101(1) of, and by Schedule 8 to, the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37); section 102 was amended by sections 96(1) and 101(2) of, and Part 3 of Schedule 9 to, that Act; section 104 was amended by section 96(4) of the Water Act 2003 and by section 42(3) of the Flood and Water Management Act [2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29); section 106 was amended by sections 36(2) and 99 of the Water Act 2003, sections 35, 43(2) and 56(7) of, and Schedule 2 to, the Competition and Service (Utilities) Act [1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43), and section 32 of, and paragraph 16(2) of Schedule 3 to, the Flood and Water Management Act 2010. There are other amendments to this Act which are not relevant to this Order.
 
-[^key-caaad206c8ca48acc93839a6271e26fd]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2014/1873/article/20/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 64](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/64) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-caaad206c8ca48acc93839a6271e26fd]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2014/1873/article/20/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 64](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/64) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

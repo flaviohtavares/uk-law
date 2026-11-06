@@ -22,13 +22,13 @@ summary: ''
 
 (1) The use of any chapel to which this Part of this Act applies for the publication therein of banns of marriages to which this Part of this Act applies, and for the solemnization therein, whether according to the rites of the Church of England or otherwise, of such marriages, may be authorised under and subject to the provisions of this Part of this Act.
 
-(1A)[^key-658d40f090fe650b43356bcc906eb6c5] Nothing in this Part of this Act which applies to the marriage of same sex couples applies to marriage according to the rites of the Church of England.
+(1A)[^c-658d40f090fe650b43356bcc906eb6c5] Nothing in this Part of this Act which applies to the marriage of same sex couples applies to marriage according to the rites of the Church of England.
 
 (2)[^c6285851] This Part of this Act shall apply only to chapels which are certified by the Admiralty to be naval chapels and to chapels which are certified by a Secretary of State to be military or air force chapels, and shall apply only to marriages between parties of whom one at least is a qualified person, that is to say a person who, at the relevant date—
 
 - (a) is serving in any of the regular armed forces of the Crown; or[^c6285861]
 - (b) has served in any force included[^c6285871] in the last foregoing paragraph otherwise than with a commission granted or under an engagement entered into only for the purpose of a war or other national emergency; or
-- (c) is, as a member of a reserve of officers, a reserve force, the Army Reserve[^key-c0e80d0dc6a14e32f13c93201292bace] or the Auxiliary Air Force, called out on actual or permanent service or embodied; or
+- (c) is, as a member of a reserve of officers, a reserve force, the Army Reserve[^c-c0e80d0dc6a14e32f13c93201292bace] or the Auxiliary Air Force, called out on actual or permanent service or embodied; or
 - (d)[^c6285881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) is a daughter , son, step-daughter or step-son[^c6285891] of a person qualified under any of the foregoing paragraphs of this subsection.
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-658d40f090fe650b43356bcc906eb6c5]: Textual amendment: S. 68(1A) inserted (21.1.2014 for specified purposes, 3.6.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2013/30/section/6/2), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2014/93/article/2/a), [5(a)](https://www.legislation.gov.uk/uksi/2014/93/article/5/a)
+[^c-658d40f090fe650b43356bcc906eb6c5]: Textual amendment: S. 68(1A) inserted (21.1.2014 for specified purposes, 3.6.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2013/30/section/6/2), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2014/93/article/2/a), [5(a)](https://www.legislation.gov.uk/uksi/2014/93/article/5/a)
 
 [^c6285851]: Modification: S. 68(2) extended by [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536)
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c6285871]: Textual amendment: Word substituted by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 20](https://www.legislation.gov.uk/ukpga/1981/55/section/20), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1981/55/schedule/3/paragraph/8)
 
-[^key-c0e80d0dc6a14e32f13c93201292bace]: Textual amendment: Words in s. 68 substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-c0e80d0dc6a14e32f13c93201292bace]: Textual amendment: Words in s. 68 substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
 [^c6285881]: Textual amendment: S. 68(2)(*d*) repealed (with saving) by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1981/55/section/28/2), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1981/55/schedule/5/part/I)
 

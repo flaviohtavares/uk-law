@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Approval of independent schools: transitional provision[^key-f6120cdd65430819fafadbe494354544]
+## 148. Approval of independent schools: transitional provision[^c-f6120cdd65430819fafadbe494354544]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6120cdd65430819fafadbe494354544]: Textual amendment: S. 148 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/15/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxix)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxix)
+[^c-f6120cdd65430819fafadbe494354544]: Textual amendment: S. 148 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/15/4); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxix)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxix)

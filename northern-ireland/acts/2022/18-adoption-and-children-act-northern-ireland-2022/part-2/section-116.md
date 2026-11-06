@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Definition of family proceedings[^key-6a9e3d172481dd74c14eda9f8e2424e5][^key-3c806c125dbbbb1afc8f9ecba488fa3b]
+## 116. Definition of family proceedings[^c-6a9e3d172481dd74c14eda9f8e2424e5][^c-3c806c125dbbbb1afc8f9ecba488fa3b]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In Article 8 of the Children Order (residence, contact and other orders with res
 
 ## Annotations
 
-[^key-6a9e3d172481dd74c14eda9f8e2424e5]: Commencement: S. 116 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6a9e3d172481dd74c14eda9f8e2424e5]: Commencement: S. 116 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-3c806c125dbbbb1afc8f9ecba488fa3b]: Commencement: [S. 116](https://www.legislation.gov.uk/nia/2022/18/section/116) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/a)
+[^c-3c806c125dbbbb1afc8f9ecba488fa3b]: Commencement: [S. 116](https://www.legislation.gov.uk/nia/2022/18/section/116) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/a)

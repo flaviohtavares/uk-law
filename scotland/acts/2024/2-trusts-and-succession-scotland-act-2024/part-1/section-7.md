@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Removal of trustee by court[^key-b429c56e0f015fbf704148dce9e21181][^key-23ced3095b9fe099a3021ad042f4e404]
+## 7. Removal of trustee by court[^c-b429c56e0f015fbf704148dce9e21181][^c-23ced3095b9fe099a3021ad042f4e404]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ the court may, on the application of one or more of the other trustees, of a ben
 
 ## Annotations
 
-[^key-b429c56e0f015fbf704148dce9e21181]: Commencement: S. 7 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-b429c56e0f015fbf704148dce9e21181]: Commencement: S. 7 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-23ced3095b9fe099a3021ad042f4e404]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/2/section/7) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-23ced3095b9fe099a3021ad042f4e404]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/2/section/7) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

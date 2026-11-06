@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Closing the new crossing[^key-ab0a929c095a327edc46bdee3dee2954]
+## 37. Closing the new crossing[^c-ab0a929c095a327edc46bdee3dee2954]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0a929c095a327edc46bdee3dee2954]: Commencement: Art. 37 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-ab0a929c095a327edc46bdee3dee2954]: Commencement: Art. 37 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

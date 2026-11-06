@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. False claim of status as creditor, etc[^key-77b7bc0380455080b9fff076434911d6]
+## 153. False claim of status as creditor, etc[^c-77b7bc0380455080b9fff076434911d6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77b7bc0380455080b9fff076434911d6]: Commencement: [Rule 153](https://www.legislation.gov.uk/uksi/2013/3208/rule/153) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-77b7bc0380455080b9fff076434911d6]: Commencement: [Rule 153](https://www.legislation.gov.uk/uksi/2013/3208/rule/153) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

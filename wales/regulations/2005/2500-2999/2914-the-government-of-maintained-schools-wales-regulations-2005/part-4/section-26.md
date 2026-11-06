@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Resignation[^key-3c1d1e836c2e4bf8d7a9a4f5da336fd7]
+## 26. Resignation[^c-3c1d1e836c2e4bf8d7a9a4f5da336fd7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c1d1e836c2e4bf8d7a9a4f5da336fd7]: Commencement: Reg. 26 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-3c1d1e836c2e4bf8d7a9a4f5da336fd7]: Commencement: Reg. 26 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

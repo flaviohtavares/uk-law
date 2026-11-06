@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Repeal of section 27 of the 1981 Act.[^key-fed51f32922aac606eb4cb379e6a7904]
+## 64. Repeal of section 27 of the 1981 Act.[^c-fed51f32922aac606eb4cb379e6a7904]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fed51f32922aac606eb4cb379e6a7904]: Textual amendment: [S. 64](https://www.legislation.gov.uk/ukpga/1994/40/section/64) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-fed51f32922aac606eb4cb379e6a7904]: Textual amendment: [S. 64](https://www.legislation.gov.uk/ukpga/1994/40/section/64) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

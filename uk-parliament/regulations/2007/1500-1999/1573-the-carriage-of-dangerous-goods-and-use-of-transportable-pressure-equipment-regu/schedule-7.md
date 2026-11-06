@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — PLACARDS, MARKS AND PLATE MARKINGS FOR CARRIAGE WITHIN GREAT BRITAIN[^key-e727cdaa973037c823281c6eec5746c8]
+## SCHEDULE 7 — PLACARDS, MARKS AND PLATE MARKINGS FOR CARRIAGE WITHIN GREAT BRITAIN[^c-e727cdaa973037c823281c6eec5746c8]
 
 *Extent: E+W+S*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Regulation 91(3)
 
-### PART 1 — CARRIAGE OF GOODS BY ROAD[^key-e727cdaa973037c823281c6eec5746c8]
+### PART 1 — CARRIAGE OF GOODS BY ROAD[^c-e727cdaa973037c823281c6eec5746c8]
 
-#### 1. Hazard Identification Numbers to be replaced by Emergency Action Codes (road)[^key-e727cdaa973037c823281c6eec5746c8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Display of the orange coloured-plate if one type of dangerous good is being carried (road)[^key-e727cdaa973037c823281c6eec5746c8]
+#### 1. Hazard Identification Numbers to be replaced by Emergency Action Codes (road)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Display of the orange-coloured plate if more that one type of dangerous good is being carried (road)[^key-e727cdaa973037c823281c6eec5746c8]
+#### 2. Display of the orange coloured-plate if one type of dangerous good is being carried (road)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Telephone number to be used to obtain specialist advice to be displayed (road)[^key-e727cdaa973037c823281c6eec5746c8]
+#### 3. Display of the orange-coloured plate if more that one type of dangerous good is being carried (road)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Use of hazard warning panels (road)[^key-e727cdaa973037c823281c6eec5746c8]
+#### 4. Telephone number to be used to obtain specialist advice to be displayed (road)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — CARRIAGE OF GOODS BY RAIL[^key-e727cdaa973037c823281c6eec5746c8]
-
-#### 6. Hazard Identification Numbers to be replaced by Emergency Action Codes (rail)[^key-e727cdaa973037c823281c6eec5746c8]
+#### 5. Use of hazard warning panels (road)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Telephone number to be used to obtain specialist advice to be displayed (rail)[^key-e727cdaa973037c823281c6eec5746c8]
+### PART 2 — CARRIAGE OF GOODS BY RAIL[^c-e727cdaa973037c823281c6eec5746c8]
+
+#### 6. Hazard Identification Numbers to be replaced by Emergency Action Codes (rail)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Use of hazard warning panels (rail)[^key-e727cdaa973037c823281c6eec5746c8]
+#### 7. Telephone number to be used to obtain specialist advice to be displayed (rail)[^c-e727cdaa973037c823281c6eec5746c8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Use of hazard warning panels (rail)[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)
+[^c-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)

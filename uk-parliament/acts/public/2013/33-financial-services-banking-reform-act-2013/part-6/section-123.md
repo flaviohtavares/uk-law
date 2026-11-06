@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Restriction on making of ordinary administration orders[^key-c2c8718004080b5f7f820f57d9bfb2b9]
+## 123. Restriction on making of ordinary administration orders[^c-c2c8718004080b5f7f820f57d9bfb2b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2c8718004080b5f7f820f57d9bfb2b9]: Commencement: S. 123 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-c2c8718004080b5f7f820f57d9bfb2b9]: Commencement: S. 123 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

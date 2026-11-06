@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 (revoked)[^key-e8c123adb589bb290e11b3d8d6c63d24]
+The Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 (revoked)[^c-e8c123adb589bb290e11b3d8d6c63d24]
 
 Made
 
@@ -42,23 +42,23 @@ Coming into force
 
 14th September 2015
 
-[^key-e8c123adb589bb290e11b3d8d6c63d24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8c123adb589bb290e11b3d8d6c63d24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e8c123adb589bb290e11b3d8d6c63d24]
+## 1. Citation, commencement and interpretation[^c-e8c123adb589bb290e11b3d8d6c63d24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of Part 1[^key-e8c123adb589bb290e11b3d8d6c63d24]
+## 2. Modification of Part 1[^c-e8c123adb589bb290e11b3d8d6c63d24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e8c123adb589bb290e11b3d8d6c63d24]
+## 3. Revocation[^c-e8c123adb589bb290e11b3d8d6c63d24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8c123adb589bb290e11b3d8d6c63d24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8c123adb589bb290e11b3d8d6c63d24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-e8c123adb589bb290e11b3d8d6c63d24]: Textual amendment: Regulations revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [5](https://www.legislation.gov.uk/ssi/2019/26/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8c123adb589bb290e11b3d8d6c63d24]: Textual amendment: Regulations revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [5](https://www.legislation.gov.uk/ssi/2019/26/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

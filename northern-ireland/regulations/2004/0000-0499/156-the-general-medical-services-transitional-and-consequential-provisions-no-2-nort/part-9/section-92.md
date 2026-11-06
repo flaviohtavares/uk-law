@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Transitory modification of the Vocational Training for General Medical Practice (European Requirements) Regulations 1994[^key-02b335ed0ebd86d6fb79b0d6df458608]
+## 92. Transitory modification of the Vocational Training for General Medical Practice (European Requirements) Regulations 1994[^c-02b335ed0ebd86d6fb79b0d6df458608]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02b335ed0ebd86d6fb79b0d6df458608]: Commencement: Art. 92 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-02b335ed0ebd86d6fb79b0d6df458608]: Commencement: Art. 92 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00048]: Footnote: Regulation 5 was previously amended by [S.I.1997/2817](https://www.legislation.gov.uk/uksi/1997/2817)

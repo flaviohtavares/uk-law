@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) Regulations 2019 (revoked)[^key-55bbca68b247460e71c55090a8dbd832]
+The Immigration (European Economic Area) (Amendment) Regulations 2019 (revoked)[^c-55bbca68b247460e71c55090a8dbd832]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force on
 
 15th August 2019
 
-[^key-55bbca68b247460e71c55090a8dbd832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55bbca68b247460e71c55090a8dbd832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-55bbca68b247460e71c55090a8dbd832]
+## 1. Citation and commencement[^c-55bbca68b247460e71c55090a8dbd832]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Immigration (European Economic Area) Regulations 2016[^key-55bbca68b247460e71c55090a8dbd832]
+## 2. Amendments to the Immigration (European Economic Area) Regulations 2016[^c-55bbca68b247460e71c55090a8dbd832]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55bbca68b247460e71c55090a8dbd832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55bbca68b247460e71c55090a8dbd832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55bbca68b247460e71c55090a8dbd832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55bbca68b247460e71c55090a8dbd832]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55bbca68b247460e71c55090a8dbd832]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1155) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-55bbca68b247460e71c55090a8dbd832]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1155) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

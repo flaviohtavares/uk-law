@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Matters to be taken into account in determining good cause in relation to regulation 22 or 23[^key-07d91d07d402b4f3b66c404dc1047430]
+## 24. Matters to be taken into account in determining good cause in relation to regulation 22 or 23[^c-07d91d07d402b4f3b66c404dc1047430]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The matters to be taken into account in determining whether a claimant has good 
 
 ## Annotations
 
-[^key-07d91d07d402b4f3b66c404dc1047430]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2008/280/regulation/24) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-07d91d07d402b4f3b66c404dc1047430]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2008/280/regulation/24) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

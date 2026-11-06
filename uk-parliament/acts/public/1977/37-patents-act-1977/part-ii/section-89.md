@@ -36,7 +36,7 @@ be treated for the purposes of Parts I and III of this Act as an application for
 
 or in such other circumstances as may be prescribed.
 
-(4)[^key-080d79033beb6a9068e2472e1a1b3c05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-080d79033beb6a9068e2472e1a1b3c05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If an international application for a patent which designates the United Kingdom is refused a filing date under the Treaty and the comptroller determines that the refusal was caused by an error or omission in an institution having functions under the Treaty, he may direct that the application shall be treated as an application under this Act, having such date of filing as he may direct.
 
@@ -44,4 +44,4 @@ or in such other circumstances as may be prescribed.
 
 [^c8021191]: Textual amendment: Ss. 89-89B substituted for s. 89 by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 295](https://www.legislation.gov.uk/ukpga/1988/48/section/295), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/1988/48/schedule/5/paragraph/25)
 
-[^key-080d79033beb6a9068e2472e1a1b3c05]: Textual amendment: S. 89(4) repealed (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/g/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-080d79033beb6a9068e2472e1a1b3c05]: Textual amendment: S. 89(4) repealed (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/g/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))

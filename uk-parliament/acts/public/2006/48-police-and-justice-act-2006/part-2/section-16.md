@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Power to apply accreditation provisions[^key-2a95d8776519e4cfb3f951a50964811a]
+## 16. Power to apply accreditation provisions[^c-2a95d8776519e4cfb3f951a50964811a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After section 41A of the Police Reform Act 2002 (c. 30) (inserted by section 15 
 
 ## Annotations
 
-[^key-2a95d8776519e4cfb3f951a50964811a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/48/section/16) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(l)](https://www.legislation.gov.uk/uksi/2007/709/article/3/l) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-2a95d8776519e4cfb3f951a50964811a]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/48/section/16) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(l)](https://www.legislation.gov.uk/uksi/2007/709/article/3/l) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

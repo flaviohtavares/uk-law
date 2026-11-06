@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. High hedges[^key-abc77761c213b032762c3166a6f04511][^key-15a5161784e3085c0a052d93271617e6]
+## 66. High hedges[^c-abc77761c213b032762c3166a6f04511][^c-15a5161784e3085c0a052d93271617e6]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abc77761c213b032762c3166a6f04511]: Commencement: S. 66 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-abc77761c213b032762c3166a6f04511]: Commencement: S. 66 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-15a5161784e3085c0a052d93271617e6]: Commencement: S. 66 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-15a5161784e3085c0a052d93271617e6]: Commencement: S. 66 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

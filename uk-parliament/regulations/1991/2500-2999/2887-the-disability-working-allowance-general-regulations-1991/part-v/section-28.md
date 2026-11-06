@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Capital treated as income[^key-d342f012458a0089de96cbaa8a09ae1d]
+## 28. Capital treated as income[^c-d342f012458a0089de96cbaa8a09ae1d]
 
 *Extent: E+W+S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Any payment received under an annuity shall be treated as income.
 
-(3)[^key-3e483b5bf5bfc0c08cf954a2b7631ac4] Any Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 shall be treated as income.
+(3)[^c-3e483b5bf5bfc0c08cf954a2b7631ac4] Any Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 shall be treated as income.
 
 ## Annotations
 
-[^key-d342f012458a0089de96cbaa8a09ae1d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1991/2887/regulation/28) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-d342f012458a0089de96cbaa8a09ae1d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1991/2887/regulation/28) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-3e483b5bf5bfc0c08cf954a2b7631ac4]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/28/3) added (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/6), [3(3)(b)](https://www.legislation.gov.uk/uksi/1997/65/regulation/3/3/b)
+[^c-3e483b5bf5bfc0c08cf954a2b7631ac4]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/28/3) added (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/1997/65/regulation/1/6), [3(3)(b)](https://www.legislation.gov.uk/uksi/1997/65/regulation/3/3/b)

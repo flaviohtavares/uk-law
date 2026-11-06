@@ -38,7 +38,7 @@ implementing Article 20 (2) of Council Directive 89/106/EEC on construction prod
 
 (95/467/EC)
 
-[^key-5280d6b469cc7b67c4fb233c38f66933]
+[^c-5280d6b469cc7b67c4fb233c38f66933]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -240,7 +240,7 @@ The specification for the system should be such that it can be implemented even 
 
 ## Annotations
 
-[^key-5280d6b469cc7b67c4fb233c38f66933]: Modification: Decision modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/2) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(c)-(e)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/c)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5280d6b469cc7b67c4fb233c38f66933]: Modification: Decision modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/2) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(c)-(e)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/c)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ No L 40, 11.2.1989, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.040.01.0012.01.ENG).
 

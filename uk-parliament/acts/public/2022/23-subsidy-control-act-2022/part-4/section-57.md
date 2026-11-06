@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. CMA reporting period for voluntary referral[^key-4c95d0eb155335d5160181d218fc815f][^key-a4c6292a392b00db99fa47752e597c39]
+## 57. CMA reporting period for voluntary referral[^c-4c95d0eb155335d5160181d218fc815f][^c-a4c6292a392b00db99fa47752e597c39]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c95d0eb155335d5160181d218fc815f]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-4c95d0eb155335d5160181d218fc815f]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-a4c6292a392b00db99fa47752e597c39]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/23/section/57) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-a4c6292a392b00db99fa47752e597c39]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/23/section/57) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

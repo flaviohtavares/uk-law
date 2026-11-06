@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Time for payment[^key-01fd33901204e07f8dadf1cac956a7c2]
+## 5. Time for payment[^c-01fd33901204e07f8dadf1cac956a7c2]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01fd33901204e07f8dadf1cac956a7c2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/9/section/5) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/b)
+[^c-01fd33901204e07f8dadf1cac956a7c2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/9/section/5) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/b)

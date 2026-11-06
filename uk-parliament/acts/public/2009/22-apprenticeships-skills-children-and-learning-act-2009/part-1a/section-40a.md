@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Sharing of information by HMRC and the Secretary of State[^key-ee96820e708471d9139ec0a57cf4b3c6]
+## 40A. Sharing of information by HMRC and the Secretary of State[^c-ee96820e708471d9139ec0a57cf4b3c6]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee96820e708471d9139ec0a57cf4b3c6]: Textual amendment: Pt. 1A inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/26/1), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/695/article/2/a)
+[^c-ee96820e708471d9139ec0a57cf4b3c6]: Textual amendment: Pt. 1A inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/26/1), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/695/article/2/a)

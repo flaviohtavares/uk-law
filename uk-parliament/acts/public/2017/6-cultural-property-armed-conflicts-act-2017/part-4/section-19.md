@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Property liable to forfeiture[^key-3c13a364b9e9bc082f049031de7de3c4]
+## 19. Property liable to forfeiture[^c-3c13a364b9e9bc082f049031de7de3c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Unlawfully exported cultural property is liable to forfeiture if it is imported 
 
 ## Annotations
 
-[^key-3c13a364b9e9bc082f049031de7de3c4]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/6/section/19) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-3c13a364b9e9bc082f049031de7de3c4]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/6/section/19) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

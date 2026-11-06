@@ -46,12 +46,12 @@ the individual may elect to be treated as if the gift had been made in the previ
 - (a) on or before the date on which the individual delivers a return for year P under section 8 of TMA 1970 (personal return), and
 - (b) not later than the normal self-assessment filing date for year P.
 
-(7) An election does not affect the position of the recipient of the gift (see section 520 (gifts to charitable trusts: income tax treated as paid) and and sections 471 and 475 of CTA 2010 (charitable companies and eligible bodies: income tax treated as paid[^key-195a9131d9f176f96537f8de938f9cc3] etc)).
+(7) An election does not affect the position of the recipient of the gift (see section 520 (gifts to charitable trusts: income tax treated as paid) and and sections 471 and 475 of CTA 2010 (charitable companies and eligible bodies: income tax treated as paid[^c-195a9131d9f176f96537f8de938f9cc3] etc)).
 
-(8)[^key-d8778338f4d83bfe26a99b618f5a2b51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-d8778338f4d83bfe26a99b618f5a2b51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-195a9131d9f176f96537f8de938f9cc3]: Textual amendment: Words in s. 426(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 525](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/525) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-195a9131d9f176f96537f8de938f9cc3]: Textual amendment: Words in s. 426(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 525](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/525) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d8778338f4d83bfe26a99b618f5a2b51]: Textual amendment: S. 426(8) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/a)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)
+[^c-d8778338f4d83bfe26a99b618f5a2b51]: Textual amendment: S. 426(8) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/a)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)

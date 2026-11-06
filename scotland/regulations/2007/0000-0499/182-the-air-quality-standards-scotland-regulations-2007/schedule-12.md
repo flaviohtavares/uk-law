@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 12 — Collation of information and criteria for aggregating data and calculating statistical parameters[^key-4691bce6a5fe599879f30fcbb36db03c]
+## SCHEDULE 12 — Collation of information and criteria for aggregating data and calculating statistical parameters[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 *Extent: S*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulations 26(2)(a) & 29
 
-### PART 1 — Information to be submitted to the Commission[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 1 — Information to be submitted to the Commission[^c-4691bce6a5fe599879f30fcbb36db03c]
 
-**1.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Criteria for aggregating data and calculating statistical parameters[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 2 — Criteria for aggregating data and calculating statistical parameters[^c-4691bce6a5fe599879f30fcbb36db03c]
 
-**4.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)
+[^c-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

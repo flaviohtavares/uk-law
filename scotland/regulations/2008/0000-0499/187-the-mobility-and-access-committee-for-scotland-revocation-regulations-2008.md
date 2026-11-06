@@ -32,7 +32,7 @@ summary: ''
 
 TRANSPORT
 
-The Mobility and Access Committee for Scotland Revocation Regulations 2008 (revoked)[^key-de3d5ffaa012a108a5b1cd0e5fd75797]
+The Mobility and Access Committee for Scotland Revocation Regulations 2008 (revoked)[^c-de3d5ffaa012a108a5b1cd0e5fd75797]
 
 Made
 
@@ -46,20 +46,20 @@ Coming into force
 
 1st July 2008
 
-[^key-de3d5ffaa012a108a5b1cd0e5fd75797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de3d5ffaa012a108a5b1cd0e5fd75797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-de3d5ffaa012a108a5b1cd0e5fd75797]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Revocations[^key-de3d5ffaa012a108a5b1cd0e5fd75797]
+## 1. Citation and commencement[^c-de3d5ffaa012a108a5b1cd0e5fd75797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de3d5ffaa012a108a5b1cd0e5fd75797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 2. Revocations[^c-de3d5ffaa012a108a5b1cd0e5fd75797]
 
-[^key-de3d5ffaa012a108a5b1cd0e5fd75797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-de3d5ffaa012a108a5b1cd0e5fd75797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-de3d5ffaa012a108a5b1cd0e5fd75797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de3d5ffaa012a108a5b1cd0e5fd75797]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/187) revoked (14.6.2008) by [The Mobility and Access Committee for Scotland Revocation Regulations 2008 Revocation Regulations 2008 (S.S.I. 2008/247)](https://www.legislation.gov.uk/ssi/2008/247), [regs. 1](https://www.legislation.gov.uk/ssi/2008/247/regulation/1), [2](https://www.legislation.gov.uk/ssi/2008/247/regulation/2)
+[^c-de3d5ffaa012a108a5b1cd0e5fd75797]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/187) revoked (14.6.2008) by [The Mobility and Access Committee for Scotland Revocation Regulations 2008 Revocation Regulations 2008 (S.S.I. 2008/247)](https://www.legislation.gov.uk/ssi/2008/247), [regs. 1](https://www.legislation.gov.uk/ssi/2008/247/regulation/1), [2](https://www.legislation.gov.uk/ssi/2008/247/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 573A. Notice under section 572: condition D in section 528 not met[^key-5a8ea6da788cb396d6882efb7f609094]
+## 573A. Notice under section 572: condition D in section 528 not met[^c-5a8ea6da788cb396d6882efb7f609094]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ In paragraph (a) the reference to a business includes a part of a business.
 
 ## Annotations
 
-[^key-5a8ea6da788cb396d6882efb7f609094]: Textual amendment: S. 573A inserted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/11)
+[^c-5a8ea6da788cb396d6882efb7f609094]: Textual amendment: S. 573A inserted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/11)

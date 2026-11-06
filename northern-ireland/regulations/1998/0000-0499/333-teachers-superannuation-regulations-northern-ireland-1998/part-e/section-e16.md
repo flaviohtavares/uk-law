@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E16. Short service annuity[^key-aadf7544b59c817ad1fdb301ca7064f5]
+## E16. Short service annuity[^c-aadf7544b59c817ad1fdb301ca7064f5]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ is entitled to be paid, from his 60th birthday, an annuity for life.
 
 ## Annotations
 
-[^key-aadf7544b59c817ad1fdb301ca7064f5]: Commencement: Reg. E16 in operation at 2.11.1998, see reg. A1
+[^c-aadf7544b59c817ad1fdb301ca7064f5]: Commencement: Reg. E16 in operation at 2.11.1998, see reg. A1

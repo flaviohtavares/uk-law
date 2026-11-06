@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Warning notices[^key-3d0069475e7ea990a554c3aae76bac8e]
+## 51. Warning notices[^c-3d0069475e7ea990a554c3aae76bac8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ but do not include excluded individuals.
 
 ## Annotations
 
-[^key-3d0069475e7ea990a554c3aae76bac8e]: Commencement: Reg. 51 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-3d0069475e7ea990a554c3aae76bac8e]: Commencement: Reg. 51 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

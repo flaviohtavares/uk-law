@@ -115,7 +115,7 @@ Rule 10.35
 
 - (a) make and model;
 - (b) registration number;
-- (c) what the motor vehicle is or was[^key-8eec5a8f2ceada9fcf3bb50a7ca7c6e8] used for by the debtor
+- (c) what the motor vehicle is or was[^c-8eec5a8f2ceada9fcf3bb50a7ca7c6e8] used for by the debtor
 - (d) save where the motor vehicle has been disposed of, the location of the motor vehicle; and
 - (e) where the motor vehicle has been disposed of, the date of disposal and any proceeds from that disposal.
 
@@ -202,4 +202,4 @@ Rule 10.35
 
 ## Annotations
 
-[^key-8eec5a8f2ceada9fcf3bb50a7ca7c6e8]: Textual amendment: Words in [Sch. 8 para. 16(c)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/8/paragraph/16/c) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [52](https://www.legislation.gov.uk/uksi/2017/366/rule/52)
+[^c-8eec5a8f2ceada9fcf3bb50a7ca7c6e8]: Textual amendment: Words in [Sch. 8 para. 16(c)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/8/paragraph/16/c) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [52](https://www.legislation.gov.uk/uksi/2017/366/rule/52)

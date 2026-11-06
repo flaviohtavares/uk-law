@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Details about general nature of partnership business[^key-ccce9e709ef9f1a772ad058be877e175]
+## 112. Details about general nature of partnership business[^c-ccce9e709ef9f1a772ad058be877e175]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In section 8A of the Limited Partnerships Act 1907 (application for registration
 
 ## Annotations
 
-[^key-ccce9e709ef9f1a772ad058be877e175]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ccce9e709ef9f1a772ad058be877e175]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

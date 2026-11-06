@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273A. Television link evidence from other parts of the United Kingdom[^key-7f3d0412e3bf706fbaef301ecd56cd40]
+## 273A. Television link evidence from other parts of the United Kingdom[^c-7f3d0412e3bf706fbaef301ecd56cd40]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f3d0412e3bf706fbaef301ecd56cd40]: Textual amendment: S. 273A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 91(3)](https://www.legislation.gov.uk/asp/2010/13/section/91/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-7f3d0412e3bf706fbaef301ecd56cd40]: Textual amendment: S. 273A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 91(3)](https://www.legislation.gov.uk/asp/2010/13/section/91/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

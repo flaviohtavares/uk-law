@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Powers in relation to internet domain registries[^key-e886033d12fe08af33005028c7e88f9f][^key-21efadbf3474a17ece5e59a1b91c4c08]
+## 19. Powers in relation to internet domain registries[^c-e886033d12fe08af33005028c7e88f9f][^c-21efadbf3474a17ece5e59a1b91c4c08]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ After section 124N of the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-e886033d12fe08af33005028c7e88f9f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19) in force at 17.7.2023 for specified purposes by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 2](https://www.legislation.gov.uk/uksi/2023/792/article/2)
+[^c-e886033d12fe08af33005028c7e88f9f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19) in force at 17.7.2023 for specified purposes by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 2](https://www.legislation.gov.uk/uksi/2023/792/article/2)
 
-[^key-21efadbf3474a17ece5e59a1b91c4c08]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19) in force at 6.4.2024 in so far as not already in force by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(a)](https://www.legislation.gov.uk/uksi/2023/792/article/3/a)
+[^c-21efadbf3474a17ece5e59a1b91c4c08]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19) in force at 6.4.2024 in so far as not already in force by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(a)](https://www.legislation.gov.uk/uksi/2023/792/article/3/a)

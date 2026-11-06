@@ -90,9 +90,9 @@ The undertaker shall consult representatives of local fishing and recreational b
 
 (2) The undertaker shall put in place insurance for the costs of decommissioning and removing the regulated works in the form of a third party bond approved by the Scottish Ministers or such other third party financial instrument as is acceptable to them, and shall retain in place such bond or other instrument (or such replacement or modification as the Scottish Ministers may approve) for the operational lifetime of the regulated works.
 
-(3) In considering the acceptability of a bond or other instrument under this section the Scottish Ministers may have regard to any arrangements which have been agreed between the undertaker and the Crown Estate Commissioners or (as the case may be) the relevant person.[^key-75a2828f1b78c155a3e325177a3ea44a]
+(3) In considering the acceptability of a bond or other instrument under this section the Scottish Ministers may have regard to any arrangements which have been agreed between the undertaker and the Crown Estate Commissioners or (as the case may be) the relevant person.[^c-75a2828f1b78c155a3e325177a3ea44a]
 
-(4)[^key-31be12bcedb896f53d6e5e276bba3c91] In subsection (3), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(4)[^c-31be12bcedb896f53d6e5e276bba3c91] In subsection (3), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 ## 8. Transfer of powers
 
@@ -206,6 +206,6 @@ This Act may be cited as the Robin Rigg Offshore Wind Farm (Navigation and Fishi
 
 ## Annotations
 
-[^key-75a2828f1b78c155a3e325177a3ea44a]: Textual amendment: Words in s. 7(3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 33(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/33/b)
+[^c-75a2828f1b78c155a3e325177a3ea44a]: Textual amendment: Words in s. 7(3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 33(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/33/b)
 
-[^key-31be12bcedb896f53d6e5e276bba3c91]: Textual amendment: S. 7(4) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 33(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/33/a)
+[^c-31be12bcedb896f53d6e5e276bba3c91]: Textual amendment: S. 7(4) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 33(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/33/a)

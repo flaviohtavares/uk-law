@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Aggregate Scheme costs: revised certificates[^key-b08b8778bbe67826ab65a5efaaf85ea5]
+## 65. Aggregate Scheme costs: revised certificates[^c-b08b8778bbe67826ab65a5efaaf85ea5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b08b8778bbe67826ab65a5efaaf85ea5]: Textual amendment: [Reg. 65](https://www.legislation.gov.uk/uksi/2013/2356/regulation/65) omitted (1.4.2015) by virtue of [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/57)](https://www.legislation.gov.uk/uksi/2015/57), [regs. 1(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/b/ii), [6](https://www.legislation.gov.uk/uksi/2015/57/regulation/6)
+[^c-b08b8778bbe67826ab65a5efaaf85ea5]: Textual amendment: [Reg. 65](https://www.legislation.gov.uk/uksi/2013/2356/regulation/65) omitted (1.4.2015) by virtue of [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/57)](https://www.legislation.gov.uk/uksi/2015/57), [regs. 1(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/b/ii), [6](https://www.legislation.gov.uk/uksi/2015/57/regulation/6)

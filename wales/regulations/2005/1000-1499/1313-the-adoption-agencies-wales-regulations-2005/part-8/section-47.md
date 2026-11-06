@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Contact[^key-34233ed1f57d901be036b153e1e787c0]
+## 47. Contact[^c-34233ed1f57d901be036b153e1e787c0]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34233ed1f57d901be036b153e1e787c0]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2005/1313/regulation/47) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-34233ed1f57d901be036b153e1e787c0]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2005/1313/regulation/47) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

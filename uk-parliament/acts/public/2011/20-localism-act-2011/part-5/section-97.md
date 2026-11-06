@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Publicising receipt of notice under section 95(2)[^key-dc9856f226026a373bff318d7aef3afb]
+## 97. Publicising receipt of notice under section 95(2)[^c-dc9856f226026a373bff318d7aef3afb]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc9856f226026a373bff318d7aef3afb]: Commencement: S. 97 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-dc9856f226026a373bff318d7aef3afb]: Commencement: S. 97 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

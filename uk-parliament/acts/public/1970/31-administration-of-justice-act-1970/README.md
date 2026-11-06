@@ -31,7 +31,7 @@ Administration of Justice Act 1970
 
 An Act to make further provision about the courts (including assizes), their business, jurisdiction and procedure; to enable a High Court judge to accept appointment as arbitrator or umpire under an arbitration agreement; to amend the law respecting the enforcement of debt and other liabilities; to amend section 106 of the Rent Act 1968; and for miscellaneous purposes connected with the administration of justice.
 
-\[29th May 1970\][^c9991681][^c9991691][^key-9b5c2b13c00854b87de1aecead2f55a3]
+\[29th May 1970\][^c9991681][^c9991691][^c-9b5c2b13c00854b87de1aecead2f55a3]
 
 ## Contents
 
@@ -140,4 +140,4 @@ SCHEDULES
 
 [^c9991691]: Modification: By [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/1), [Sch. 12 para.23](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/23); [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2208/schedule/1) it is provided (14.10.1991) that in relation to any time before the commencement of s. 70 of that 1991 Act (which came into force on 1.10.1992 by [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)) references in any enactment amended by that 1991 Act, to youth courts shall be construed as references to juvenile courts.
 
-[^key-9b5c2b13c00854b87de1aecead2f55a3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1970/31) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b5c2b13c00854b87de1aecead2f55a3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1970/31) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

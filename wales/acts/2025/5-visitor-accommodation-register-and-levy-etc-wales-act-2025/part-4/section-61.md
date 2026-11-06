@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Guidance issued by the Welsh Ministers[^key-bd460ef7250a8d28fbc79fcac14b5339]
+## 61. Guidance issued by the Welsh Ministers[^c-bd460ef7250a8d28fbc79fcac14b5339]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd460ef7250a8d28fbc79fcac14b5339]: Commencement: S. 61 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-bd460ef7250a8d28fbc79fcac14b5339]: Commencement: S. 61 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

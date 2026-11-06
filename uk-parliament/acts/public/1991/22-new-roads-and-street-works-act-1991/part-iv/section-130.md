@@ -36,8 +36,8 @@ This obligation is extended in certain cases and restricted in others by the pro
 - (a) so far as an undertaker complies with such a code of practice he shall be taken to comply with his duties under this section; and
 - (b) a failure in any respect to comply with any such code is evidence of failure in that respect to comply with those duties.
 
-(5) An undertaker who fails to comply with his duties under this section commits an offence and is liable on summary conviction to a fine not exceeding level 5[^key-a0a238202df41b132b9820fb705b86e1] on the standard scale.
+(5) An undertaker who fails to comply with his duties under this section commits an offence and is liable on summary conviction to a fine not exceeding level 5[^c-a0a238202df41b132b9820fb705b86e1] on the standard scale.
 
 ## Annotations
 
-[^key-a0a238202df41b132b9820fb705b86e1]: Textual amendment: Words in [s. 130(5)](https://www.legislation.gov.uk/ukpga/1991/22/section/130/5) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-a0a238202df41b132b9820fb705b86e1]: Textual amendment: Words in [s. 130(5)](https://www.legislation.gov.uk/ukpga/1991/22/section/130/5) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

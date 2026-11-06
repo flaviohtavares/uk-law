@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20A. Application of the ECE conspicuity requirements[^key-4070e06d06ea532464022fbdbc126ce0]
+## 20A. Application of the ECE conspicuity requirements[^c-4070e06d06ea532464022fbdbc126ce0]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ shall be fitted with conspicuity markings which comply with the mandatory ECE co
 
 ## Annotations
 
-[^key-4070e06d06ea532464022fbdbc126ce0]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20A) inserted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3220/regulation/8)
+[^c-4070e06d06ea532464022fbdbc126ce0]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/20A) inserted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [8](https://www.legislation.gov.uk/uksi/2009/3220/regulation/8)

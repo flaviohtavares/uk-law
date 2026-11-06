@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Right of inspection[^key-821dcc29982d666420745107086e6d51]
+## 109. Right of inspection[^c-821dcc29982d666420745107086e6d51]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-821dcc29982d666420745107086e6d51]: Commencement: Rule 109 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-821dcc29982d666420745107086e6d51]: Commencement: Rule 109 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00050]: Footnote: Rule 7.18 was amended by paragraph 44 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

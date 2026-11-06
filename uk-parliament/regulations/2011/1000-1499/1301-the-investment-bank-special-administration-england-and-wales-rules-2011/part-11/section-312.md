@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 312. Application of Chapter 4[^key-c88626f1ab720e558c9ebe167cbbb9cb]
+## 312. Application of Chapter 4[^c-c88626f1ab720e558c9ebe167cbbb9cb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies where under the Regulations or the Rules information is to 
 
 ## Annotations
 
-[^key-c88626f1ab720e558c9ebe167cbbb9cb]: Commencement: [Rule 312](https://www.legislation.gov.uk/uksi/2011/1301/rule/312) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-c88626f1ab720e558c9ebe167cbbb9cb]: Commencement: [Rule 312](https://www.legislation.gov.uk/uksi/2011/1301/rule/312) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

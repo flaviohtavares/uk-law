@@ -22,11 +22,11 @@ summary: ''
 
 A person is qualified to succeed the tenant under an introductory tenancy if he occupies the dwelling-house as his only or principal home at the time of the tenant’s death and either—
 
-- (a) he is the tenant’s spouse or civil partner[^key-09dcd369d7ada033d0d71e0a6d931840] , or
+- (a) he is the tenant’s spouse or civil partner[^c-09dcd369d7ada033d0d71e0a6d931840] , or
 - (b) he is another member of the tenant’s family and has resided with the tenant throughout the period of twelve months ending with the tenant’s death;
 
 unless, in either case, the tenant was himself a successor, as defined in section 132.
 
 ## Annotations
 
-[^key-09dcd369d7ada033d0d71e0a6d931840]: Textual amendment: Words in s. 131(a) inserted (5.12.2005) by [Civil Partnership (Family Proceedings and Housing Consequential Amendments) Order 2005 (S.I. 2005/3336)](https://www.legislation.gov.uk/uksi/2005/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3336/article/1), [20](https://www.legislation.gov.uk/uksi/2005/3336/article/20)
+[^c-09dcd369d7ada033d0d71e0a6d931840]: Textual amendment: Words in s. 131(a) inserted (5.12.2005) by [Civil Partnership (Family Proceedings and Housing Consequential Amendments) Order 2005 (S.I. 2005/3336)](https://www.legislation.gov.uk/uksi/2005/3336), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3336/article/1), [20](https://www.legislation.gov.uk/uksi/2005/3336/article/20)

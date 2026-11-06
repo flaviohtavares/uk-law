@@ -71,8 +71,8 @@ The title of these Regulations is the Bovine Semen (Wales) Regulations 2008; the
 - “**Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)**” (“***Cyfarwyddeb [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)***”) means Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) on animal health problems affecting intra-Community trade in bovine animals and swine [^c19239991], as amended from time to time;
 - “**domestic collection centre**” (“***canolfan gasglu ddomestig***”) has the meaning given in regulation 4(b)(ii);
 - “**domestic storage centre**” (“***canolfan storio ddomestig***”) has the meaning given in regulation 4(c)(ii);
-- “licensed” ([^key-935f6f1f1252cfdb880dab7ae22da641]*“trwyddedig”)* means licensed by the Welsh Ministers;
-- “**licensed[^key-6bbed646a5f6758ba39aa3590a9c351d] collection centre**” (“***canolfan gasglu CE***”) has the meaning given in regulation 4(b)(i);
+- “licensed” ([^c-935f6f1f1252cfdb880dab7ae22da641]*“trwyddedig”)* means licensed by the Welsh Ministers;
+- “**licensed[^c-6bbed646a5f6758ba39aa3590a9c351d] collection centre**” (“***canolfan gasglu CE***”) has the meaning given in regulation 4(b)(i);
 - “**licensed quarantine centre**” (“***canolfan gwarantîn CE***”) has the meaning given in regulation 4(a);
 - “**licensed storage centre**” (“***canolfan storio CE***”) has the meaning given in regulation 4(c)(i);
 - “**fresh semen**” (“***semen ffres***”) means semen which has not been frozen;
@@ -86,11 +86,11 @@ The title of these Regulations is the Bovine Semen (Wales) Regulations 2008; the
 - “**straw**” (“***corsen***”) means a receptacle used to contain a single dose of semen;
 - “**teaser animal**” (“***anifail ymlid***”) means a bovine animal which is used as an aid in the collection of semen;
 - “**unlicensed premises**” (“***mangre sydd heb ei thrwyddedu***”) are premises that do not have a licence under regulation 4;
-- “unlicensed processing premises” (“[^key-29d2e27aed4a3d2d9ffc7f0e72d4d068]*mangre brosesu sydd heb ei thrwyddedu*”) means unlicensed premises—
+- “unlicensed processing premises” (“[^c-29d2e27aed4a3d2d9ffc7f0e72d4d068]*mangre brosesu sydd heb ei thrwyddedu*”) means unlicensed premises—
   - (a) for the processing of semen—
     - (i) collected at unlicensed premises or at a domestic collection centre, and
-    - (ii) not intended for trade with a member State[^key-e3922d4e9481d3c3cf16014bff3eca9b], and
-  - (b) supervised by the centre veterinarian of a licensed[^key-afdc5f28d4b4825ebbf71c766101008e] collection centre;
+    - (ii) not intended for trade with a member State[^c-e3922d4e9481d3c3cf16014bff3eca9b], and
+  - (b) supervised by the centre veterinarian of a licensed[^c-afdc5f28d4b4825ebbf71c766101008e] collection centre;
 - “**veterinary surgeon**” (“***milfeddyg***”) means a veterinary surgeon or veterinary practitioner registered under the Veterinary Surgeons Act 1966 [^c19240001].
 
 (2) Expressions that are not defined in these Regulations and are used in the Directive have the same meaning in these Regulations as they have for the purposes of the Directive.
@@ -113,11 +113,11 @@ The title of these Regulations is the Bovine Semen (Wales) Regulations 2008; the
 - (b) diagnosing infection or disease in a bovine animal; or
 - (c) education or research,
 
-provided the semen collected is not used for artificial insemination and is not the subject of trade with a member State[^key-0462eb0e17487644d1a373dde2ee9635].
+provided the semen collected is not used for artificial insemination and is not the subject of trade with a member State[^c-0462eb0e17487644d1a373dde2ee9635].
 
 (3) These Regulations do not apply to research authorised under the Animals (Scientific Procedures) Act 1986 [^c19240021].
 
-(4)[^key-5824a763fe55f71d47722398e62e72cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5824a763fe55f71d47722398e62e72cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Licensing of bovine semen centres and approval of bovine animals
 
@@ -127,11 +127,11 @@ The Welsh Ministers may license premises as follows—
 
 - (a) if they comply with Part 1 of Schedule 1, as premises for the quarantine of bovine animals (a "licensed quarantine centre”);
 - (b) if they comply with Part 2 of Schedule 1, either as—
-  - (i) premises for the collection, processing and quarantine of semen intended for trade with a member State[^key-e782449b6617120df4a0e48c8dbef9d5] (a "licensed collection centre”); or
-  - (ii) premises for the collection, processing and quarantine of semen not intended for trade with a member State[^key-eb07ae9206de86a49cd369d1fab7073d] (a “domestic collection centre”); or
+  - (i) premises for the collection, processing and quarantine of semen intended for trade with a member State[^c-e782449b6617120df4a0e48c8dbef9d5] (a "licensed collection centre”); or
+  - (ii) premises for the collection, processing and quarantine of semen not intended for trade with a member State[^c-eb07ae9206de86a49cd369d1fab7073d] (a “domestic collection centre”); or
 - (c) if they comply with Part 3 of Schedule 1, either as—
-  - (i) premises for the storage of semen intended for trade with a member State[^key-a1be9300b35511e57af7e746597b3074] (a "licensed storage centre”); or
-  - (ii) premises for the storage of semen not intended for trade with a member State[^key-d74add329b8453d1d910d917b72f548e] (a “domestic storage centre”).
+  - (i) premises for the storage of semen intended for trade with a member State[^c-a1be9300b35511e57af7e746597b3074] (a "licensed storage centre”); or
+  - (ii) premises for the storage of semen not intended for trade with a member State[^c-d74add329b8453d1d910d917b72f548e] (a “domestic storage centre”).
 
 ### 5. Application for a licence to operate a bovine semen centre
 
@@ -192,7 +192,7 @@ Any application for approval of a bovine animal for the purpose of collecting it
 
 ### 10. Approval of bovine animals for use at unlicensed premises
 
-(1) The Welsh Ministers may approve the use of a bovine animal for the collection of its semen [^key-466c381684ebf26336976322ce5e244c]... at unlicensed premises for a maximum period of 3 months.
+(1) The Welsh Ministers may approve the use of a bovine animal for the collection of its semen [^c-466c381684ebf26336976322ce5e244c]... at unlicensed premises for a maximum period of 3 months.
 
 (2) The Welsh Ministers may renew an approval under paragraph (1) for subsequent periods of up to 3 months if—
 
@@ -206,7 +206,7 @@ Any application for approval of a bovine animal for the purpose of collecting it
 - (a) collected from a bovine animal; or
 - (b) processed following such collection,
 
-until negative results to the tests on the bovine animal [^key-d393d30deb8b11be0232df21e9805ced]... are confirmed.
+until negative results to the tests on the bovine animal [^c-d393d30deb8b11be0232df21e9805ced]... are confirmed.
 
 ## PART 3 — The operation of a bovine semen centre and collection at unlicensed premises
 
@@ -286,7 +286,7 @@ until negative results to the tests on the bovine animal [^key-d393d30deb8b11be0
 - (d) of a domestic collection centre are set out in Schedule 5; and
 - (e) of a domestic storage centre are set out in Schedule 6.
 
-(1A)[^key-e42e443ab20de73bd2e67755fcf96876] The duties of the centre veterinarian of a licensed collection centre which are specified in paragraph (1B) must also be performed by that veterinarian when supervising unlicensed processing premises.
+(1A)[^c-e42e443ab20de73bd2e67755fcf96876] The duties of the centre veterinarian of a licensed collection centre which are specified in paragraph (1B) must also be performed by that veterinarian when supervising unlicensed processing premises.
 
 (1B) The duties are those set out in the following provisions of Part 3 of Schedule 3—
 
@@ -301,7 +301,7 @@ until negative results to the tests on the bovine animal [^key-d393d30deb8b11be0
 
 - (a) a centre veterinarian;
 - (b) an inspector who is qualified as a veterinary surgeon; or
-- (c) a person who fulfils the conditions set out in articles 5(2) and 5(3) of the Veterinary Surgery (Exemptions) Order 2015[^key-e231ab0a29ab6af45b02d70cc8d4f127] and for whom the relevant qualified person described in those articles is a centre veterinarian or an inspector who is qualified as a veterinary surgeon.
+- (c) a person who fulfils the conditions set out in articles 5(2) and 5(3) of the Veterinary Surgery (Exemptions) Order 2015[^c-e231ab0a29ab6af45b02d70cc8d4f127] and for whom the relevant qualified person described in those articles is a centre veterinarian or an inspector who is qualified as a veterinary surgeon.
 
 (2) Only a veterinary surgeon approved by the Welsh Ministers for that purpose may test for bovine tuberculosis.
 
@@ -338,7 +338,7 @@ in accordance with these Regulations.
 - (b) be situated in the centre of an area of 10 kilometres radius in which there has been no case of foot-and-mouth disease for at least the preceding 30 days; and
 - (c) have been, for 30 days prior to collection of the semen, free from the bovine diseases listed in Annex E(I) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-### 21. Use of teaser animals[^key-3302da0a620d30b33f34b46b5211cc4d]
+### 21. Use of teaser animals[^c-3302da0a620d30b33f34b46b5211cc4d]
 
 (1) No person may use a teaser animal to assist in the collection of semen unless it is approved for that purpose by the Welsh Ministers.
 
@@ -388,7 +388,7 @@ in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/europea
 
 No person may process semen except—
 
-- (a)[^key-f39adf7786694ebe0708a5e5552fc029] at a licensed collection centre;
+- (a)[^c-f39adf7786694ebe0708a5e5552fc029] at a licensed collection centre;
 - (b) at a domestic collection centre; or
 - (c) at unlicensed processing premises.
 
@@ -414,7 +414,7 @@ No person storing or moving semen may allow it to come into contact with materia
 
 (1) This regulation does not apply to the steps necessary to move semen to a licensed storage centre or a domestic storage centre.
 
-(2) No person may supply frozen semen or use it in artificial insemination unless it has been previously[^key-110e278c86256bbef9ab3c0571bb3741] stored—
+(2) No person may supply frozen semen or use it in artificial insemination unless it has been previously[^c-110e278c86256bbef9ab3c0571bb3741] stored—
 
 - (a) at a licensed storage centre;
 - (b) at a domestic storage centre; or
@@ -426,20 +426,20 @@ No person may supply or use semen for artificial insemination if he or she knows
 
 - (a) the requirements of these Regulations,
 - (b) the legal requirements in another part of the United Kingdom; or
-- (c) in the case of semen originating outside of the United Kingdom[^key-1d5fa08ba1aa4f04513608ca47fc8358], the requirements of the Directive,
+- (c) in the case of semen originating outside of the United Kingdom[^c-1d5fa08ba1aa4f04513608ca47fc8358], the requirements of the Directive,
 
 unless authorised by the Welsh Ministers.
 
-### 30. Trade in semen to a member State[^key-ca7a07f734089ebf74b70a72ddc2e2a8]
+### 30. Trade in semen to a member State[^c-ca7a07f734089ebf74b70a72ddc2e2a8]
 
-(1) No person may supply semen to a member State[^key-95ae08f4c31d25ba24f5a3e6bf7d1d39] unless—
+(1) No person may supply semen to a member State[^c-95ae08f4c31d25ba24f5a3e6bf7d1d39] unless—
 
 - (a) it was—
   - (i) collected, processed and quarantined at a licensed collection centre; and
   - (ii) stored at a licensed storage centre; or
-- (b) in the case of semen supplied from outside the United Kingdom[^key-c7eb6154d74e898739eb346a23696ecf], it has been stored at a licensed storage centre.
+- (b) in the case of semen supplied from outside the United Kingdom[^c-c7eb6154d74e898739eb346a23696ecf], it has been stored at a licensed storage centre.
 
-(2) Any person who supplies semen to a member State must ensure that it is accompanied by the animal health certificate as published by the Welsh Ministers from time to time.[^key-eb48b411ae880ab9ca715e02b28dfe88]
+(2) Any person who supplies semen to a member State must ensure that it is accompanied by the animal health certificate as published by the Welsh Ministers from time to time.[^c-eb48b411ae880ab9ca715e02b28dfe88]
 
 ### 31. Duties to keep records of the supply of semen
 
@@ -547,7 +547,7 @@ within 21 days of notification of the decision to him or her.
 
 ### 38. Notice concerning illegal consignments
 
-(1) If an inspector knows or suspects that semen has been imported from a[^key-d880205d08fa8c77dd1f42777f5bf618] member State in contravention of the Directive, he or she may serve a notice in accordance with paragraph (2) on the person appearing to him or her to be in charge of the semen.
+(1) If an inspector knows or suspects that semen has been imported from a[^c-d880205d08fa8c77dd1f42777f5bf618] member State in contravention of the Directive, he or she may serve a notice in accordance with paragraph (2) on the person appearing to him or her to be in charge of the semen.
 
 (2) The notice may require that person—
 
@@ -565,11 +565,11 @@ No person may provide any information or make any statement for the purpose of o
 
 The Welsh Ministers must examine all bovine semen centres at least twice a year.
 
-### 41. Payment of fees[^key-9e20277c9b33efe167e51f908c6a1422]
+### 41. Payment of fees[^c-9e20277c9b33efe167e51f908c6a1422]
 
 The fees payable to the Welsh Ministers are as provided by regulation 6(3) of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018.
 
-### 42. Refund of fees[^key-321e32ebfc9889ca6eb394710213441e]
+### 42. Refund of fees[^c-321e32ebfc9889ca6eb394710213441e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -749,11 +749,11 @@ Regulation 16
 
 (6) Where any person has been supplied with ejaculate, other than from the centre, and that person subsequently supplies that ejaculate to any other person, sub-paragraph (4)(b) will apply equally to that other person.
 
-**2.** (1) If any of the tests required under paragraph 1 is positive, the centre veterinarian must ensure that the bovine animal is isolated and that semen collected from it since the last negative test is (subject to paragraph 3) not placed on the market[^key-706d688a59b0924c4f852fd27b7e4a73].
+**2.** (1) If any of the tests required under paragraph 1 is positive, the centre veterinarian must ensure that the bovine animal is isolated and that semen collected from it since the last negative test is (subject to paragraph 3) not placed on the market[^c-706d688a59b0924c4f852fd27b7e4a73].
 
-(2) The centre veterinarian must ensure that semen collected from all other bovine animals at the centre since the date when the positive test was carried out must be held in separate storage and may not be placed on the market[^key-624bb2d9ae8157bd73c8ed16d316c046] until the health status of the centre has been restored to the level required by the Directive and these Regulations.
+(2) The centre veterinarian must ensure that semen collected from all other bovine animals at the centre since the date when the positive test was carried out must be held in separate storage and may not be placed on the market[^c-624bb2d9ae8157bd73c8ed16d316c046] until the health status of the centre has been restored to the level required by the Directive and these Regulations.
 
-**3.** Notwithstanding paragraph 2(1), in the case of a bovine animal which has tested positive for BVD/MD under a serological antibody test, the centre veterinarian may allow semen from an ejaculate which has tested negative for the BVD/MD to be the subject of trade with a member State[^key-bb43ea742ae8a7cc43ee2ca7abae24fa].
+**3.** Notwithstanding paragraph 2(1), in the case of a bovine animal which has tested positive for BVD/MD under a serological antibody test, the centre veterinarian may allow semen from an ejaculate which has tested negative for the BVD/MD to be the subject of trade with a member State[^c-bb43ea742ae8a7cc43ee2ca7abae24fa].
 
 ### PART 3 — Measures applicable to processing facilities at a licensed collection centre
 
@@ -764,9 +764,9 @@ Regulation 16
   - (ii) semen collected at a collection centre approved under the Directive in another part of the United Kingdom; or
   - (iii) semen which is from bovine animals which have been subjected to the tests specified in Schedule 2, paragraph 2(1);
 - (b) any semen referred to at sub-paragraph (a)(iii) is—
-  - (i) processed using separate equipment (which must be cleaned and sterilised after use) or at a different time from the processing of semen intended for other[^key-269cbba2c53150b7e605076b487cd991] trade; and
+  - (i) processed using separate equipment (which must be cleaned and sterilised after use) or at a different time from the processing of semen intended for other[^c-269cbba2c53150b7e605076b487cd991] trade; and
   - (ii) identified by a marking different from that required under sub-paragraph (f);
-- (c) semen collected, processed and quarantined at licensed collection centres and intended for other[^key-891aab8d63175c5a48c9118cd3a6efc6] trade does not come into contact with and is not stored in the same room as any other semen processed at the centre;
+- (c) semen collected, processed and quarantined at licensed collection centres and intended for other[^c-891aab8d63175c5a48c9118cd3a6efc6] trade does not come into contact with and is not stored in the same room as any other semen processed at the centre;
 - (d) products of animal origin used in the processing of semen, including additives and diluents, are obtained from sources which present no animal health risk or are so treated prior to use that such risk is removed;
 - (e) the cryogenic agent used has not been previously used for other products of animal origin;
 - (f) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established—
@@ -881,11 +881,11 @@ Regulation 16
 
 - (a) semen processed at the centre is semen collected—
   - (i) at a licensed collection centre;
-  - (ii) at a collection centre approved under the Directive in another part of the United Kingdom or in a[^key-83259fc3241801dc8adfb72afc49d873] member State;
+  - (ii) at a collection centre approved under the Directive in another part of the United Kingdom or in a[^c-83259fc3241801dc8adfb72afc49d873] member State;
   - (iii) at a domestic collection centre;
   - (iv) at unlicensed premises in accordance with these Regulations; or
   - (v) lawfully in another part of the United Kingdom;
-- (b) semen is not stored with semen of a different health status and semen must be identifiable by a distinct marking that is different to marking used at licensed collection and storage centres[^key-ccda49560070089730d5a3c6d54e8aa6];
+- (b) semen is not stored with semen of a different health status and semen must be identifiable by a distinct marking that is different to marking used at licensed collection and storage centres[^c-ccda49560070089730d5a3c6d54e8aa6];
 - (c) products of animal origin used in the processing of semen, including additives or diluents, are obtained from sources which present no animal health risk or are so treated prior to use that such risk is removed;
 - (d) the cryogenic agent used has not been previously used for other products of animal origin;
 - (e) each individual dose of semen is sealed, numbered and clearly marked so that the following information can be readily established—
@@ -962,9 +962,9 @@ Regulation 16
 
 - (a) the accommodation in which the bovine animals from which semen is to be collected are kept, and the collection facilities (if different), are constructed so that they can be readily cleaned and disinfected;
 - (b) the Welsh Ministers are notified immediately if the result of any test carried out on a bovine animal on the premises, for any disease that must be tested for under these Regulations, indicates a change in the health status of the bovine animal;
-- (c) semen collected is moved to a licensed collection centre , to a domestic collection centre or to unlicensed processing premises for processing[^key-6f7c8851b99c45aa7317b8cdf367c833], accompanied by documents certifying—
+- (c) semen collected is moved to a licensed collection centre , to a domestic collection centre or to unlicensed processing premises for processing[^c-6f7c8851b99c45aa7317b8cdf367c833], accompanied by documents certifying—
   - (i) the bovine animal satisfies the requirements of regulations 19(c), 19(d) and 19(e) on the day of collection.
-  - (ii)[^key-80b3c4c0133c5a5609ad4d8472a16ed2] where the semen is moved to a licensed collection centre, the bovine animal has been subjected to the tests specified in paragraph 1(1) of Part 2 of Schedule 3 with negative results;
+  - (ii)[^c-80b3c4c0133c5a5609ad4d8472a16ed2] where the semen is moved to a licensed collection centre, the bovine animal has been subjected to the tests specified in paragraph 1(1) of Part 2 of Schedule 3 with negative results;
   - (iia) where the semen is moved to a domestic collection centre or to unlicensed processing premises, the bovine animal has been subjected to the tests specified in paragraph 2 of Part 2 of Schedule 8 with negative results;
   - (iii) that the unlicensed premises satisfy the requirements in regulation 20(2); and
   - (iv) the premises from which the bovine animal came satisfy the requirements in regulation 22(6).
@@ -974,7 +974,7 @@ Regulation 16
 - (a) did not belong to a herd officially free of enzootic bovine leukosis in accordance with Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432); or
 - (b) was produced by a dam which did not, after removal of the bovine animal from it, test negative to a test carried out in accordance with Annex D (Chapter II) to Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432).
 
-(2) The operator of unlicensed premises must pass a copy of any record made under sub-paragraph (1) to the centre veterinarian supervising the centre or premises[^key-be6ce40955dec40beb50fd46547c4a68] to which the bovine animal's semen moves for processing, not later than the date of such move.
+(2) The operator of unlicensed premises must pass a copy of any record made under sub-paragraph (1) to the centre veterinarian supervising the centre or premises[^c-be6ce40955dec40beb50fd46547c4a68] to which the bovine animal's semen moves for processing, not later than the date of such move.
 
 ## SCHEDULE 8 — Movement of bovine animals for semen collection
 
@@ -986,12 +986,12 @@ The bovine animals have—
 
 - (a) completed 28 days' quarantine in—
   - (i) a licensed quarantine centre; or
-  - (ii) a quarantine centre approved in accordance with paragraph 1(a) of Chapter 1 of Annex B to the Directive by the competent authority of a[^key-0bb380a7e11d53fe855128b1abb9e55d] member State or part of the United Kingdom,
+  - (ii) a quarantine centre approved in accordance with paragraph 1(a) of Chapter 1 of Annex B to the Directive by the competent authority of a[^c-0bb380a7e11d53fe855128b1abb9e55d] member State or part of the United Kingdom,
 
   where only other cloven-hoofed animals having at least the same health status were present; or
 - (b) undergone the tests referred to in Part 2 of Schedule 3 during the previous 12 months and have been kept in—
   - (i) another licensed collection centre, or
-  - (ii) a semen collection centre authorised under the Directive in accordance with paragraph 5 of Chapter 1 of Annex B to the Directive, in the case of movement of a bovine animal kept in a semen collection centre authorised under the Directive in a[^key-e7c3df31fa17ae00b0efec3becd8a14b] member State or part of the United Kingdom.
+  - (ii) a semen collection centre authorised under the Directive in accordance with paragraph 5 of Chapter 1 of Annex B to the Directive, in the case of movement of a bovine animal kept in a semen collection centre authorised under the Directive in a[^c-e7c3df31fa17ae00b0efec3becd8a14b] member State or part of the United Kingdom.
 
 ### PART 2 — Bovine animals that may move to a domestic collection centre or to unlicensed premises
 
@@ -1100,65 +1100,65 @@ A regulatory impact assessment has not been prepared for this instrument.
 
 [^c19239991]: Marginal citation: OJ No. P 121, 29.7.1964, p. 1977. As of the date of these Regulations, this Directive was last amended by Commission Regulation (EC) No. 599/2004 (OJ No. L 94, 31.3.2004, p. 44.)
 
-[^key-935f6f1f1252cfdb880dab7ae22da641]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/2/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-935f6f1f1252cfdb880dab7ae22da641]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/2/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6bbed646a5f6758ba39aa3590a9c351d]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/wsi/2008/1040) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [reg. 2(2)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bbed646a5f6758ba39aa3590a9c351d]: Textual amendment: Word in [Regulations](https://www.legislation.gov.uk/wsi/2008/1040) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [reg. 2(2)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29d2e27aed4a3d2d9ffc7f0e72d4d068]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/2/1) inserted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2013/398/regulation/3)
+[^c-29d2e27aed4a3d2d9ffc7f0e72d4d068]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/2/1) inserted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2013/398/regulation/3)
 
-[^key-e3922d4e9481d3c3cf16014bff3eca9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3922d4e9481d3c3cf16014bff3eca9b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-afdc5f28d4b4825ebbf71c766101008e]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2008/1040) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afdc5f28d4b4825ebbf71c766101008e]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2008/1040) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19240001]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36).
 
 [^c19240011]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Section 17(4) was repealed by the Animal Health and Welfare Act 1984, section 16(2) and Schedule 2.
 
-[^key-0462eb0e17487644d1a373dde2ee9635]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/3/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0462eb0e17487644d1a373dde2ee9635]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/3/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19240021]: Marginal citation: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14).
 
-[^key-5824a763fe55f71d47722398e62e72cb]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/3/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5824a763fe55f71d47722398e62e72cb]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/3/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e782449b6617120df4a0e48c8dbef9d5]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/b/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e782449b6617120df4a0e48c8dbef9d5]: Textual amendment: Words in [reg. 4(b)(i)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/b/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb07ae9206de86a49cd369d1fab7073d]: Textual amendment: Words in [reg. 4(b)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb07ae9206de86a49cd369d1fab7073d]: Textual amendment: Words in [reg. 4(b)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1be9300b35511e57af7e746597b3074]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/c/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1be9300b35511e57af7e746597b3074]: Textual amendment: Words in [reg. 4(c)(i)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/c/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d74add329b8453d1d910d917b72f548e]: Textual amendment: Words in [reg. 4(c)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/c/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d74add329b8453d1d910d917b72f548e]: Textual amendment: Words in [reg. 4(c)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/4/c/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-466c381684ebf26336976322ce5e244c]: Textual amendment: Words in reg. 10(1) omitted (18.3.2013) by virtue of [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [4(1)](https://www.legislation.gov.uk/wsi/2013/398/regulation/4/1)
+[^c-466c381684ebf26336976322ce5e244c]: Textual amendment: Words in reg. 10(1) omitted (18.3.2013) by virtue of [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [4(1)](https://www.legislation.gov.uk/wsi/2013/398/regulation/4/1)
 
-[^key-d393d30deb8b11be0232df21e9805ced]: Textual amendment: Words in reg. 10(4) omitted (18.3.2013) by virtue of [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/4/2)
+[^c-d393d30deb8b11be0232df21e9805ced]: Textual amendment: Words in reg. 10(4) omitted (18.3.2013) by virtue of [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/4/2)
 
-[^key-e42e443ab20de73bd2e67755fcf96876]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/16/1A)[(1B)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/16/1B) inserted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2013/398/regulation/5)
+[^c-e42e443ab20de73bd2e67755fcf96876]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/16/1A)[(1B)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/16/1B) inserted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2013/398/regulation/5)
 
-[^key-e231ab0a29ab6af45b02d70cc8d4f127]: Textual amendment: Words in [reg. 17(1)(c)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/17/1/c) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2019/463/regulation/3)
+[^c-e231ab0a29ab6af45b02d70cc8d4f127]: Textual amendment: Words in [reg. 17(1)(c)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/17/1/c) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2019/463/regulation/3)
 
-[^key-3302da0a620d30b33f34b46b5211cc4d]: Textual amendment: Reg. 21 substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2013/398/regulation/6)
+[^c-3302da0a620d30b33f34b46b5211cc4d]: Textual amendment: Reg. 21 substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2013/398/regulation/6)
 
 [^c19240041]: Marginal citation: [S.I. 2003/1968](https://www.legislation.gov.uk/uksi/2003/1968), (W.213).
 
-[^key-f39adf7786694ebe0708a5e5552fc029]: Textual amendment: Reg. 24(a)-(c) substituted for reg. 24(a)(b) (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2013/398/regulation/7)
+[^c-f39adf7786694ebe0708a5e5552fc029]: Textual amendment: Reg. 24(a)-(c) substituted for reg. 24(a)(b) (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2013/398/regulation/7)
 
-[^key-110e278c86256bbef9ab3c0571bb3741]: Textual amendment: Word in [reg. 28(2)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/28/2) inserted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2013/398/regulation/8)
+[^c-110e278c86256bbef9ab3c0571bb3741]: Textual amendment: Word in [reg. 28(2)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/28/2) inserted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2013/398/regulation/8)
 
-[^key-1d5fa08ba1aa4f04513608ca47fc8358]: Textual amendment: Words in [reg. 29(c)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/29/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d5fa08ba1aa4f04513608ca47fc8358]: Textual amendment: Words in [reg. 29(c)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/29/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca7a07f734089ebf74b70a72ddc2e2a8]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca7a07f734089ebf74b70a72ddc2e2a8]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-95ae08f4c31d25ba24f5a3e6bf7d1d39]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(b)(i)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95ae08f4c31d25ba24f5a3e6bf7d1d39]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(b)(i)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7eb6154d74e898739eb346a23696ecf]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7eb6154d74e898739eb346a23696ecf]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb48b411ae880ab9ca715e02b28dfe88]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb48b411ae880ab9ca715e02b28dfe88]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/30/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d880205d08fa8c77dd1f42777f5bf618]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/38/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d880205d08fa8c77dd1f42777f5bf618]: Textual amendment: Word in [reg. 38(1)](https://www.legislation.gov.uk/wsi/2008/1040/regulation/38/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e20277c9b33efe167e51f908c6a1422]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/wsi/2008/1040/regulation/41) substituted (30.6.2018) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2018 (S.I. 2018/650)](https://www.legislation.gov.uk/wsi/2018/650), [regs. 1](https://www.legislation.gov.uk/wsi/2018/650/regulation/1), [6(2)](https://www.legislation.gov.uk/wsi/2018/650/regulation/6/2)
+[^c-9e20277c9b33efe167e51f908c6a1422]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/wsi/2008/1040/regulation/41) substituted (30.6.2018) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2018 (S.I. 2018/650)](https://www.legislation.gov.uk/wsi/2018/650), [regs. 1](https://www.legislation.gov.uk/wsi/2018/650/regulation/1), [6(2)](https://www.legislation.gov.uk/wsi/2018/650/regulation/6/2)
 
-[^key-321e32ebfc9889ca6eb394710213441e]: Textual amendment: Reg. 42 omitted (24.6.2013) by virtue of [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/7/3)
+[^c-321e32ebfc9889ca6eb394710213441e]: Textual amendment: Reg. 42 omitted (24.6.2013) by virtue of [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/wsi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2013/1241/regulation/7/3)
 
 [^c19240051]: Marginal citation: [S.I. 1985/1861](https://www.legislation.gov.uk/uksi/1985/1861), amended by [S.I. 1987/904](https://www.legislation.gov.uk/uksi/1987/904), 1992/671, 1995/2549, 1996/3124, 2001/380, 2002/824, and 2004/3231.
 
@@ -1168,15 +1168,15 @@ A regulatory impact assessment has not been prepared for this instrument.
 
 [^M_F_69f4502e-75bf-4c2b-9e16-c2423a26a7da]: Textual amendment: Word in Sch. 3 Pt. 1 para. 2 substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/uksi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/398/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2013/398/regulation/9)
 
-[^key-706d688a59b0924c4f852fd27b7e4a73]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/2/paragraph/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-706d688a59b0924c4f852fd27b7e4a73]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2(1)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/2/paragraph/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-624bb2d9ae8157bd73c8ed16d316c046]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2(2)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/2/paragraph/2/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-624bb2d9ae8157bd73c8ed16d316c046]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2(2)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/2/paragraph/2/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb43ea742ae8a7cc43ee2ca7abae24fa]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 3](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/2/paragraph/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb43ea742ae8a7cc43ee2ca7abae24fa]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 3](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/2/paragraph/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-269cbba2c53150b7e605076b487cd991]: Textual amendment: Word in [Sch. 3 Pt. 3 para. 1(b)(i)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/3/paragraph/1/b/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-269cbba2c53150b7e605076b487cd991]: Textual amendment: Word in [Sch. 3 Pt. 3 para. 1(b)(i)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/3/paragraph/1/b/i) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-891aab8d63175c5a48c9118cd3a6efc6]: Textual amendment: Word in [Sch. 3 Pt. 3 para. 1(c)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/3/paragraph/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-891aab8d63175c5a48c9118cd3a6efc6]: Textual amendment: Word in [Sch. 3 Pt. 3 para. 1(c)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/3/part/3/paragraph/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19240081]: Marginal citation: O.J. No L 302, 19.10.1989, p.1.
 
@@ -1184,19 +1184,19 @@ A regulatory impact assessment has not been prepared for this instrument.
 
 [^M_F_9f0fad62-9c17-457b-9e9f-c69e362460b9]: Textual amendment: Word in Sch. 5 Pt. 1 para. 2 substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/uksi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/398/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2013/398/regulation/10)
 
-[^key-83259fc3241801dc8adfb72afc49d873]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/5/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83259fc3241801dc8adfb72afc49d873]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 1(a)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/5/part/3/paragraph/1/a/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ccda49560070089730d5a3c6d54e8aa6]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 1(b)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/5/part/3/paragraph/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccda49560070089730d5a3c6d54e8aa6]: Textual amendment: Words in [Sch. 5 Pt. 3 para. 1(b)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/5/part/3/paragraph/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f7c8851b99c45aa7317b8cdf367c833]: Textual amendment: Words in Sch. 7 para. 1(c) substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2013/398/regulation/11/a)
+[^c-6f7c8851b99c45aa7317b8cdf367c833]: Textual amendment: Words in Sch. 7 para. 1(c) substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2013/398/regulation/11/a)
 
-[^key-80b3c4c0133c5a5609ad4d8472a16ed2]: Textual amendment: Sch. 7 para. 1(c)(ii)(iia) substituted for Sch. 7 para. 1(c)(ii) (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2013/398/regulation/11/b)
+[^c-80b3c4c0133c5a5609ad4d8472a16ed2]: Textual amendment: Sch. 7 para. 1(c)(ii)(iia) substituted for Sch. 7 para. 1(c)(ii) (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2013/398/regulation/11/b)
 
-[^key-be6ce40955dec40beb50fd46547c4a68]: Textual amendment: Words in [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/7/paragraph/2/2) substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2013/398/regulation/11/c)
+[^c-be6ce40955dec40beb50fd46547c4a68]: Textual amendment: Words in [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/7/paragraph/2/2) substituted (18.3.2013) by [The Bovine Semen (Wales) (Amendment) Regulations 2013 (S.I. 2013/398)](https://www.legislation.gov.uk/wsi/2013/398), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/398/regulation/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2013/398/regulation/11/c)
 
-[^key-0bb380a7e11d53fe855128b1abb9e55d]: Textual amendment: Word in [Sch. 8 Pt. 1(a)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/8/part/1/a/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(11)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bb380a7e11d53fe855128b1abb9e55d]: Textual amendment: Word in [Sch. 8 Pt. 1(a)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/8/part/1/a/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(11)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7c3df31fa17ae00b0efec3becd8a14b]: Textual amendment: Word in [Sch. 8 Pt. 1(b)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/8/part/1/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(11)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7c3df31fa17ae00b0efec3becd8a14b]: Textual amendment: Word in [Sch. 8 Pt. 1(b)(ii)](https://www.legislation.gov.uk/wsi/2008/1040/schedule/8/part/1/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/597)](https://www.legislation.gov.uk/wsi/2019/597), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/597/regulation/1/2), [2(11)](https://www.legislation.gov.uk/wsi/2019/597/regulation/2/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19240101]: Marginal citation: [S.I. 2007/376](https://www.legislation.gov.uk/uksi/2007/376) (W.36), amended by [S.I. 2007/1710](https://www.legislation.gov.uk/uksi/2007/1710) (W.148).
 

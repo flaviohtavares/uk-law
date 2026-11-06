@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Introduction[^key-69f26c10e40ec1af926b8a77529958dd]
+## 1. Introduction[^c-69f26c10e40ec1af926b8a77529958dd]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69f26c10e40ec1af926b8a77529958dd]: Textual amendment: [Ss. 1-7](https://www.legislation.gov.uk/ukpga/2015/8/section/1) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/a), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)
+[^c-69f26c10e40ec1af926b8a77529958dd]: Textual amendment: [Ss. 1-7](https://www.legislation.gov.uk/ukpga/2015/8/section/1) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/a), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)

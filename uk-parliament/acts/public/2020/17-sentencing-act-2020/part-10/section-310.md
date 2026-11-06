@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Certificates of conviction[^key-3cd36c4ca697cb8cdc753332945adaa4]
+## 310. Certificates of conviction[^c-3cd36c4ca697cb8cdc753332945adaa4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ that certificate is evidence, for the purposes of section 267, 273, 280 or 283 (
 
 ## Annotations
 
-[^key-3cd36c4ca697cb8cdc753332945adaa4]: Commencement: S. 310 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3cd36c4ca697cb8cdc753332945adaa4]: Commencement: S. 310 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

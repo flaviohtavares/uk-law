@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Standards relating to the suspension or revocation of a regulated licence[^key-e6efd96b3305285940cfe62361c1b790]
+## 72. Standards relating to the suspension or revocation of a regulated licence[^c-e6efd96b3305285940cfe62361c1b790]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6efd96b3305285940cfe62361c1b790]: Commencement: S. 72 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-e6efd96b3305285940cfe62361c1b790]: Commencement: S. 72 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

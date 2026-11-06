@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Finance: reporting obligations for required payments[^key-c06cee2fc72423ac3bc5a6fc2b1d4775]
+## 39A. Finance: reporting obligations for required payments[^c-c06cee2fc72423ac3bc5a6fc2b1d4775]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c06cee2fc72423ac3bc5a6fc2b1d4775]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2020/616/regulation/39A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(9)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/9)
+[^c-c06cee2fc72423ac3bc5a6fc2b1d4775]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2020/616/regulation/39A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [21(9)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/21/9)

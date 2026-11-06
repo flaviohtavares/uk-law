@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3B — REQUIREMENTS REFERRED TO IN REGULATION 17(6)[^key-b8bd5cd1953c12f49065b990cd468d62]
+## SCHEDULE 3B — REQUIREMENTS REFERRED TO IN REGULATION 17(6)[^c-b8bd5cd1953c12f49065b990cd468d62]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ The requirements are that—
 
 ## Annotations
 
-[^key-b8bd5cd1953c12f49065b990cd468d62]: Textual amendment: Schs. 3A-3D inserted (13.4.2010) by [The Food Hygiene (Wales) (Amendment) Regulations 2010 (S.I. 2010/893)](https://www.legislation.gov.uk/uksi/2010/893), [reg. 1](https://www.legislation.gov.uk/uksi/2010/893/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/893/schedule/2)
+[^c-b8bd5cd1953c12f49065b990cd468d62]: Textual amendment: Schs. 3A-3D inserted (13.4.2010) by [The Food Hygiene (Wales) (Amendment) Regulations 2010 (S.I. 2010/893)](https://www.legislation.gov.uk/uksi/2010/893), [reg. 1](https://www.legislation.gov.uk/uksi/2010/893/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/893/schedule/2)

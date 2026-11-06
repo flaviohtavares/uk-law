@@ -35,18 +35,18 @@ amending Implementing Decision 2012/270/EU as regards emergency measures to prev
 
 *(notified under document C(2016) 5038)* (revoked)
 
-[^key-53894a8437f7855805a2eade578d7805]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53894a8437f7855805a2eade578d7805]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Implementing Decision 2012/270/EU[^key-53894a8437f7855805a2eade578d7805]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Addressees[^key-53894a8437f7855805a2eade578d7805]
+## Article 1. Amendments to Implementing Decision 2012/270/EU[^c-53894a8437f7855805a2eade578d7805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53894a8437f7855805a2eade578d7805]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Addressees[^c-53894a8437f7855805a2eade578d7805]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-53894a8437f7855805a2eade578d7805]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53894a8437f7855805a2eade578d7805]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/24) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-53894a8437f7855805a2eade578d7805]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/24) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112BA. Entitlement to paternity leave: prospective adopters with whom looked after children are placed[^key-dfcaad3536cec20d28c4579fab3fd450][^c20289071][^c22340171]
+## 112BA. Entitlement to paternity leave: prospective adopters with whom looked after children are placed[^c-dfcaad3536cec20d28c4579fab3fd450][^c20289071][^c22340171]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcaad3536cec20d28c4579fab3fd450]: Textual amendment: Art. 112BA inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 8(5)](https://www.legislation.gov.uk/nia/2015/1/section/8/5), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
+[^c-dfcaad3536cec20d28c4579fab3fd450]: Textual amendment: Art. 112BA inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 8(5)](https://www.legislation.gov.uk/nia/2015/1/section/8/5), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
 
 [^c20289071]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 

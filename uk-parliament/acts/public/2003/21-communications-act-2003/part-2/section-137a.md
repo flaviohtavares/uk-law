@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137A. Information required from communications providers[^key-6b33f25754dae3740110e6d195b46f38]
+## 137A. Information required from communications providers[^c-6b33f25754dae3740110e6d195b46f38]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b33f25754dae3740110e6d195b46f38]: Textual amendment: Ss. 137A, 137B inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/86/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-6b33f25754dae3740110e6d195b46f38]: Textual amendment: Ss. 137A, 137B inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/86/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

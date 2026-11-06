@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Destruction in the interests of the animal[^key-b3616adde26aaa2c757cae5ea2e7a054][^key-e4ed1583967ae655e483a3e3f1423fe3][^key-352877e2888b5c1466b3af1982ca9894]
+## 37. Destruction in the interests of the animal[^c-b3616adde26aaa2c757cae5ea2e7a054][^c-e4ed1583967ae655e483a3e3f1423fe3][^c-352877e2888b5c1466b3af1982ca9894]
 
 *Extent: E+W*
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b3616adde26aaa2c757cae5ea2e7a054]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/45/section/37) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-b3616adde26aaa2c757cae5ea2e7a054]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/45/section/37) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-e4ed1583967ae655e483a3e3f1423fe3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/45/section/37) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-e4ed1583967ae655e483a3e3f1423fe3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/45/section/37) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
 
-[^key-352877e2888b5c1466b3af1982ca9894]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/2006/45/section/37) applied (with modifications) (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/19/c)
+[^c-352877e2888b5c1466b3af1982ca9894]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/2006/45/section/37) applied (with modifications) (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [19(c)](https://www.legislation.gov.uk/uksi/2024/296/regulation/19/c)

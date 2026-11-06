@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Director disqualification licences[^key-d2ada48e8b17c39d25ef86163d99805f]
+## 40A. Director disqualification licences[^c-d2ada48e8b17c39d25ef86163d99805f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-d2ada48e8b17c39d25ef86163d99805f]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2019/461/regulation/40A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/5)
+[^c-d2ada48e8b17c39d25ef86163d99805f]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2019/461/regulation/40A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Prohibition of retail sales of tobacco products etc in England without a licence[^key-91eacdc0307169d6a7194c987094e5e9]
+## 16. Prohibition of retail sales of tobacco products etc in England without a licence[^c-91eacdc0307169d6a7194c987094e5e9]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91eacdc0307169d6a7194c987094e5e9]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 175(2)(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/4)
+[^c-91eacdc0307169d6a7194c987094e5e9]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 175(2)(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendment of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834)[^key-2909dd235d72d9605a349f972a43b513]
+## 66. Amendment of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834)[^c-2909dd235d72d9605a349f972a43b513]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/83
 
 ## Annotations
 
-[^key-2909dd235d72d9605a349f972a43b513]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-2909dd235d72d9605a349f972a43b513]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)

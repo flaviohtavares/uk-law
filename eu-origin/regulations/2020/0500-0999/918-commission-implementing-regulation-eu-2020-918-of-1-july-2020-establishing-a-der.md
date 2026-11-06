@@ -33,62 +33,62 @@ of 1 July 2020
 
 establishing a derogation from Implementing Regulation (EU) 2019/2072 as regards the requirements for the introduction into the Union of ash wood originating or processed in Canada (revoked)
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Special requirements for a temporary derogation[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+## Article 1. Special requirements for a temporary derogation[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Phytosanitary certificate[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+## Article 2. Phytosanitary certificate[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Date of expiry[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+## Article 3. Date of expiry[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force and date of application[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+## Article 4. Entry into force and date of application[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+## ANNEX[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
-### PART A[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+### PART A[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]1.
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]1.
 
 **Processing requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]2.
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]2.
 
 **Requirements for facilities**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]3.
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]3.
 
 **Labelling**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]4.
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]4.
 
 **Pre-export inspections**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Specified wood with their respective CN codes[^key-0fa7fc5ac0bd22bac5261e9d708e251a]
+### PART B — Specified wood with their respective CN codes[^c-0fa7fc5ac0bd22bac5261e9d708e251a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fa7fc5ac0bd22bac5261e9d708e251a]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-0fa7fc5ac0bd22bac5261e9d708e251a]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

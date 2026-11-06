@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Payment of grants for fees[^key-6f14d7f472a755ec571b01f6c5076aff]
+## 108. Payment of grants for fees[^c-6f14d7f472a755ec571b01f6c5076aff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f14d7f472a755ec571b01f6c5076aff]: Textual amendment: [Pt. 9 Ch. 2](https://www.legislation.gov.uk/uksi/2011/1986/part/9/chapter/2) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/9/a)
+[^c-6f14d7f472a755ec571b01f6c5076aff]: Textual amendment: [Pt. 9 Ch. 2](https://www.legislation.gov.uk/uksi/2011/1986/part/9/chapter/2) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/9/a)

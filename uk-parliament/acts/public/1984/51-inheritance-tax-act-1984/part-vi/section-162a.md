@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162A. Liabilities attributable to financing excluded property[^key-30b85966252d1154959f3d81c5499bb6]
+## 162A. Liabilities attributable to financing excluded property[^c-30b85966252d1154959f3d81c5499bb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ it may be taken into account, but only so far as the remaining liability is not 
 
 ## Annotations
 
-[^key-30b85966252d1154959f3d81c5499bb6]: Textual amendment: Ss. 162A-162C inserted (with effect in accordance with Sch. 36 para. 5 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 36 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/36/paragraph/3)
+[^c-30b85966252d1154959f3d81c5499bb6]: Textual amendment: Ss. 162A-162C inserted (with effect in accordance with Sch. 36 para. 5 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 36 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/36/paragraph/3)

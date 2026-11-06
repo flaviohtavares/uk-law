@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Interpretation[^key-ce818148faa270ff6f0ced42ccbe5d2b]
+## 186. Interpretation[^c-ce818148faa270ff6f0ced42ccbe5d2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce818148faa270ff6f0ced42ccbe5d2b]: Textual amendment: [Art. 186](https://www.legislation.gov.uk/uksi/2001/3629/article/186) revoked (1.2.2007) by [The Stamp Duty Reserve Tax (UK Depositary Interest in Foreign Securities) (Amendment) Regulations 2007 (S.I. 2007/12)](https://www.legislation.gov.uk/uksi/2007/12), [regs. 1](https://www.legislation.gov.uk/uksi/2007/12/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/12/regulation/3)
+[^c-ce818148faa270ff6f0ced42ccbe5d2b]: Textual amendment: [Art. 186](https://www.legislation.gov.uk/uksi/2001/3629/article/186) revoked (1.2.2007) by [The Stamp Duty Reserve Tax (UK Depositary Interest in Foreign Securities) (Amendment) Regulations 2007 (S.I. 2007/12)](https://www.legislation.gov.uk/uksi/2007/12), [regs. 1](https://www.legislation.gov.uk/uksi/2007/12/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/12/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-93c551d5dc7196ac774d289144f8a3d2]
+## 2. Interpretation[^c-93c551d5dc7196ac774d289144f8a3d2]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**adjacent land**” means that land which is necessary to carry out the development of the Works or ensure the safe construction of any section or part of the Works;
 - “**apparatus**” has the same meaning as in Part 3 of the 1991 Act;
 - “**authorised development**” means the development and associated development described in Schedule 1 (authorised development) which is development within the meaning of section 32 (meaning of “development”) of the 2008 Act;
-- “**the book of reference**” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order and set out in Part 6 (land plans, crown land plan and book of reference) of Schedule 9 (documents to be certified)[^key-255c7bab536d66716f7c9a1063f0403f];
+- “**the book of reference**” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order and set out in Part 6 (land plans, crown land plan and book of reference) of Schedule 9 (documents to be certified)[^c-255c7bab536d66716f7c9a1063f0403f];
 - “**bridleway**” has the same meaning as in the 1980 Act;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**carriageway**” has the same meaning as in the 1980 Act;
@@ -89,7 +89,7 @@ summary: ''
 
 ## Annotations
 
-[^key-93c551d5dc7196ac774d289144f8a3d2]: Commencement: Art. 2 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-93c551d5dc7196ac774d289144f8a3d2]: Commencement: Art. 2 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442081]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -107,7 +107,7 @@ summary: ''
 
 [^c24442151]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-255c7bab536d66716f7c9a1063f0403f]: Textual amendment: Art. 2(1): bracket inserted (21.5.2021) by The A303 Sparkford to [Ilchester Dualling Development Consent (Correction) Order 2021 (S.I. 2021/607)](https://www.legislation.gov.uk/uksi/2021/607), [arts. 1](https://www.legislation.gov.uk/uksi/2021/607/article/1), [2](https://www.legislation.gov.uk/uksi/2021/607/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/607/schedule)
+[^c-255c7bab536d66716f7c9a1063f0403f]: Textual amendment: Art. 2(1): bracket inserted (21.5.2021) by The A303 Sparkford to [Ilchester Dualling Development Consent (Correction) Order 2021 (S.I. 2021/607)](https://www.legislation.gov.uk/uksi/2021/607), [arts. 1](https://www.legislation.gov.uk/uksi/2021/607/article/1), [2](https://www.legislation.gov.uk/uksi/2021/607/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/607/schedule)
 
 [^c24442161]: Marginal citation: [Section 56(4)](https://www.legislation.gov.uk/uksi/2021/125/section/56/4) was amended by paragraph 10(2) of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 

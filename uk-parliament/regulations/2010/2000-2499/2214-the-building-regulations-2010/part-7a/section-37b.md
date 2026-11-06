@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37B. Requirements of automatic fire suppression systems[^key-b5cdf5244def03c8ee39fa2941719fe6]
+## 37B. Requirements of automatic fire suppression systems[^c-b5cdf5244def03c8ee39fa2941719fe6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of regulation 37A(3), the requirements of an automatic fire sup
 
 ## Annotations
 
-[^key-b5cdf5244def03c8ee39fa2941719fe6]: Textual amendment: Pt. 7A inserted (W., but not in relation to excepted energy buildings) (30.4.2014 for specified purposes, 1.1.2016 in so far as not already in force) by [The Building Regulations &c. (Amendment No. 3) and Domestic Fire Safety (Wales) Regulations 2013 (S.I. 2013/2730)](https://www.legislation.gov.uk/wsi/2013/2730), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/4/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2013/2730/regulation/6))
+[^c-b5cdf5244def03c8ee39fa2941719fe6]: Textual amendment: Pt. 7A inserted (W., but not in relation to excepted energy buildings) (30.4.2014 for specified purposes, 1.1.2016 in so far as not already in force) by [The Building Regulations &c. (Amendment No. 3) and Domestic Fire Safety (Wales) Regulations 2013 (S.I. 2013/2730)](https://www.legislation.gov.uk/wsi/2013/2730), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/4/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2013/2730/regulation/6))

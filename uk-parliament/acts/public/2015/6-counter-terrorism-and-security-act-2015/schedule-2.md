@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Urgent temporary exclusion orders: reference to the court etc[^key-b9196d1ce3721bb4819bdaed518e88d8]
+## SCHEDULE 2 — Urgent temporary exclusion orders: reference to the court etc[^c-b9196d1ce3721bb4819bdaed518e88d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ Section 3
 
 ## Annotations
 
-[^key-b9196d1ce3721bb4819bdaed518e88d8]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/6/schedule/2) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/982/article/2/d), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/982/schedule/4)
+[^c-b9196d1ce3721bb4819bdaed518e88d8]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/6/schedule/2) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(d)](https://www.legislation.gov.uk/uksi/2017/982/article/2/d), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/982/schedule/4)

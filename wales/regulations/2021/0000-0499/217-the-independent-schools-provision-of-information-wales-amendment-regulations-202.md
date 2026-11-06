@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Independent Schools (Provision of Information) (Wales) (Amendment) Regulations 2021 (revoked)[^key-dd065479f82d84509f3d3d14896f0d00]
+The Independent Schools (Provision of Information) (Wales) (Amendment) Regulations 2021 (revoked)[^c-dd065479f82d84509f3d3d14896f0d00]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 1 September 2021
 
-[^key-dd065479f82d84509f3d3d14896f0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd065479f82d84509f3d3d14896f0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-dd065479f82d84509f3d3d14896f0d00]
+## 1. Title, commencement and application[^c-dd065479f82d84509f3d3d14896f0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Independent Schools (Provision of Information) (Wales) Regulations 2003[^key-dd065479f82d84509f3d3d14896f0d00]
+## 2. Amendment to the Independent Schools (Provision of Information) (Wales) Regulations 2003[^c-dd065479f82d84509f3d3d14896f0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2 (interpretation)[^key-dd065479f82d84509f3d3d14896f0d00]
+## 3. Amendments to regulation 2 (interpretation)[^c-dd065479f82d84509f3d3d14896f0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Schedule[^key-dd065479f82d84509f3d3d14896f0d00]
+## 4. Amendments to the Schedule[^c-dd065479f82d84509f3d3d14896f0d00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd065479f82d84509f3d3d14896f0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd065479f82d84509f3d3d14896f0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd065479f82d84509f3d3d14896f0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd065479f82d84509f3d3d14896f0d00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd065479f82d84509f3d3d14896f0d00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/217) revoked (14.2.2024) by [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [10](https://www.legislation.gov.uk/wsi/2024/26/regulation/10)
+[^c-dd065479f82d84509f3d3d14896f0d00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/217) revoked (14.2.2024) by [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [10](https://www.legislation.gov.uk/wsi/2024/26/regulation/10)

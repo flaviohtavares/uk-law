@@ -31,7 +31,7 @@ summary: ''
 
 BETTING, GAMING AND LOTTERIES
 
-Bookmaking (Forms of Licences) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-969f5bf7db719ed7c5e62da586eab21c]
+Bookmaking (Forms of Licences) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-969f5bf7db719ed7c5e62da586eab21c]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 7th August 2004
 
-[^key-969f5bf7db719ed7c5e62da586eab21c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-969f5bf7db719ed7c5e62da586eab21c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-969f5bf7db719ed7c5e62da586eab21c]
+## 1. Citation and commencement[^c-969f5bf7db719ed7c5e62da586eab21c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Bookmaking (Forms of Licences) Regulations (Northern Ireland) 1987[^key-969f5bf7db719ed7c5e62da586eab21c]
+## 2. Amendment of the Bookmaking (Forms of Licences) Regulations (Northern Ireland) 1987[^c-969f5bf7db719ed7c5e62da586eab21c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-969f5bf7db719ed7c5e62da586eab21c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-969f5bf7db719ed7c5e62da586eab21c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-969f5bf7db719ed7c5e62da586eab21c]
+## SCHEDULE[^c-969f5bf7db719ed7c5e62da586eab21c]
 
 Regulation 2
 
-> **PART VI — gaming machines restricted from a licensed office[^key-969f5bf7db719ed7c5e62da586eab21c]**
+> **PART VI — gaming machines restricted from a licensed office[^c-969f5bf7db719ed7c5e62da586eab21c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-969f5bf7db719ed7c5e62da586eab21c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-969f5bf7db719ed7c5e62da586eab21c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-969f5bf7db719ed7c5e62da586eab21c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/257) revoked (6.1.2005) by [Bookmaking (Forms of Licences) Regulations (Northern Ireland) 2004 (S.R. 2004/424)](https://www.legislation.gov.uk/nisr/2004/424), [regs. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2004/424/regulation/3/b)
+[^c-969f5bf7db719ed7c5e62da586eab21c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/257) revoked (6.1.2005) by [Bookmaking (Forms of Licences) Regulations (Northern Ireland) 2004 (S.R. 2004/424)](https://www.legislation.gov.uk/nisr/2004/424), [regs. 1](https://www.legislation.gov.uk/nisr/2004/424/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2004/424/regulation/3/b)

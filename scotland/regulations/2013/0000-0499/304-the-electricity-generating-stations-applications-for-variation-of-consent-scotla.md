@@ -58,8 +58,8 @@ In these Regulations—
 
 - “**the Act**” means the Electricity Act 1989;
 - “**applicant**” means, in relation to a variation application, the person who made the application;
-- “**the EIA Regulations**” means the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017[^key-68d46f21f06613e7fccb4d2ebdb45f24];
-- [^key-e06cbd62ed9decd3be8efc25c62e5ec5]...
+- “**the EIA Regulations**” means the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017[^c-68d46f21f06613e7fccb4d2ebdb45f24];
+- [^c-e06cbd62ed9decd3be8efc25c62e5ec5]...
 - “**generating station**” includes a proposed generating station;
 - “**offshore generating station**” means a generating station that is, or is to be, located within—
   - (a) a Renewable Energy Zone; or
@@ -111,7 +111,7 @@ In these Regulations—
   - (i) a summary of the variation application;
   - (ii) a copy of the application;
   - (iii) a link to the relevant section 36 consent, any section 57 direction given on granting it and any statement (in the form of a decision letter or otherwise) given by the appropriate authority under regulation 10(3) of the EIA Regulations when granting the relevant section 36 consent; and
-  - (iv) any EIA report or[^key-796fc82bbd2113af96a10b0058cc0355] environmental statement prepared in relation to the proposed development;
+  - (iv) any EIA report or[^c-796fc82bbd2113af96a10b0058cc0355] environmental statement prepared in relation to the proposed development;
 - (b) serve a copy of the variation application on the planning authority (if any);
 - (c) publish notice of the variation application—
   - (i) in two successive weeks in one or more local newspapers; and
@@ -135,7 +135,7 @@ In these Regulations—
   - (i) the applicant;
   - (ii) the relevant section 36 consent;
   - (iii) the generating station to which it relates; and
-  - (iv) subject to regulation 4A,[^key-ea00e90933731d8645e860b27862c684] a place which is reasonably accessible to those likely to be affected by the proposed variation where copies of the variation application and any EIA report or[^key-4870590047399792eb067569ff0bfd3c] environmental statement prepared in connection with the variation application may be inspected.
+  - (iv) subject to regulation 4A,[^c-ea00e90933731d8645e860b27862c684] a place which is reasonably accessible to those likely to be affected by the proposed variation where copies of the variation application and any EIA report or[^c-4870590047399792eb067569ff0bfd3c] environmental statement prepared in connection with the variation application may be inspected.
 
 (5) The date to be stated in the notice in accordance with paragraph (4)(b)(iii) must—
 
@@ -147,18 +147,18 @@ In these Regulations—
 - (a) by the planning authority, within a period of two months after the date on which the last notice is published in accordance with paragraph (2)(c); and
 - (b) by any other person, on or before the date stated in the notice in accordance with paragraph (4)(b)(iii).
 
-(7)[^key-b1fa9c0fd77fcb5eb3602fce4b274f6f] In this regulation—
+(7)[^c-b1fa9c0fd77fcb5eb3602fce4b274f6f] In this regulation—
 
 - “**EIA report**” has the same meaning as in the EIA Regulations (a); and
 - “**environmental statement**” has the same meaning as in the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2000 as those Regulations had effect immediately prior to 16 May 2017.
 
-## 4A. Temporary relaxation of requirement to make documents available for inspection[^key-20ea0439308d6358162ebdecbdeb2c5e]
+## 4A. Temporary relaxation of requirement to make documents available for inspection[^c-20ea0439308d6358162ebdecbdeb2c5e]
 
 (1) Regulation 4 applies during the emergency period as if paragraph (4)(c)(iv) were omitted.
 
 (2) In this regulation, “emergency period” means the period beginning on 24 April 2020 and ending on the date on which Part 1 of the Coronavirus (Scotland) Act 2020 expires in accordance with section 12 of that Act.
 
-## 5. Application of the EIA Regulations with modifications[^key-8890f2c4937c82774c33b1a03e2f6dbb]
+## 5. Application of the EIA Regulations with modifications[^c-8890f2c4937c82774c33b1a03e2f6dbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,7 +179,7 @@ In these Regulations—
 
 (1) An applicant may withdraw a variation application at any time by notice in writing to the Scottish Ministers.
 
-(2) If a variation application is withdrawn after it has been published in accordance with regulation 4 the Scottish Ministers must notify the relevant planning authority (if any) and the consultation[^key-88828e027778f764b0e9ca7a1880b3fc] bodies (within the meaning of regulation 2(1) of the EIA Regulations) that it has been withdrawn.
+(2) If a variation application is withdrawn after it has been published in accordance with regulation 4 the Scottish Ministers must notify the relevant planning authority (if any) and the consultation[^c-88828e027778f764b0e9ca7a1880b3fc] bodies (within the meaning of regulation 2(1) of the EIA Regulations) that it has been withdrawn.
 
 ## 8. Allowing further time
 
@@ -211,22 +211,22 @@ Regulation 7 makes provision about the withdrawal of variation applications. Reg
 
 [^c21930451]: Marginal citation: “Scotland” is defined in section 36C(6) of the Electricity Act 1989 and includes for these purposes so much of the internal waters and territorial sea of the United Kingdom as are adjacent to Scotland and the part of the Renewable Energy Zone where the Scottish Ministers have functions. This latter area is designated by [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153).
 
-[^key-68d46f21f06613e7fccb4d2ebdb45f24]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(2)(a)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/2/a) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/2), [27](https://www.legislation.gov.uk/ssi/2017/101/regulation/27), [28](https://www.legislation.gov.uk/ssi/2017/101/regulation/28), [40](https://www.legislation.gov.uk/ssi/2017/101/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/101/regulation/41))
+[^c-68d46f21f06613e7fccb4d2ebdb45f24]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(2)(a)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/2/a) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/2), [27](https://www.legislation.gov.uk/ssi/2017/101/regulation/27), [28](https://www.legislation.gov.uk/ssi/2017/101/regulation/28), [40](https://www.legislation.gov.uk/ssi/2017/101/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/101/regulation/41))
 
-[^key-e06cbd62ed9decd3be8efc25c62e5ec5]: Textual amendment: Words in reg. 2 omitted (16.5.2017) by virtue of [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(2)(b)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/2/b)
+[^c-e06cbd62ed9decd3be8efc25c62e5ec5]: Textual amendment: Words in reg. 2 omitted (16.5.2017) by virtue of [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(2)(b)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/2/b)
 
 [^c21930471]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 57(2) and (2ZA) were substituted by section 21(5) of the [Growth and Infrastructure Act 2013 (c.27)](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-796fc82bbd2113af96a10b0058cc0355]: Textual amendment: Words in reg. 4(2)(a)(iv) inserted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(3)(a)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/3/a)
+[^c-796fc82bbd2113af96a10b0058cc0355]: Textual amendment: Words in reg. 4(2)(a)(iv) inserted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(3)(a)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/3/a)
 
-[^key-ea00e90933731d8645e860b27862c684]: Textual amendment: Words in [reg. 4(4)(c)(iv)](https://www.legislation.gov.uk/ssi/2013/304/regulation/4/4/c/iv) inserted (24.4.2020) by [The Electricity Works (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/123)](https://www.legislation.gov.uk/ssi/2020/123), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/123/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/123/regulation/3/2)
+[^c-ea00e90933731d8645e860b27862c684]: Textual amendment: Words in [reg. 4(4)(c)(iv)](https://www.legislation.gov.uk/ssi/2013/304/regulation/4/4/c/iv) inserted (24.4.2020) by [The Electricity Works (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/123)](https://www.legislation.gov.uk/ssi/2020/123), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/123/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/123/regulation/3/2)
 
-[^key-4870590047399792eb067569ff0bfd3c]: Textual amendment: Words in reg. 4(4)(c)(iv) inserted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(3)(b)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/3/b)
+[^c-4870590047399792eb067569ff0bfd3c]: Textual amendment: Words in reg. 4(4)(c)(iv) inserted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(3)(b)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/3/b)
 
-[^key-b1fa9c0fd77fcb5eb3602fce4b274f6f]: Textual amendment: Reg. 4(7) inserted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(3)(c)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/3/c)
+[^c-b1fa9c0fd77fcb5eb3602fce4b274f6f]: Textual amendment: Reg. 4(7) inserted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(3)(c)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/3/c)
 
-[^key-20ea0439308d6358162ebdecbdeb2c5e]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2013/304/regulation/4A) inserted (24.4.2020) by [The Electricity Works (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/123)](https://www.legislation.gov.uk/ssi/2020/123), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/123/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2020/123/regulation/3/3)
+[^c-20ea0439308d6358162ebdecbdeb2c5e]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2013/304/regulation/4A) inserted (24.4.2020) by [The Electricity Works (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/123)](https://www.legislation.gov.uk/ssi/2020/123), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/123/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2020/123/regulation/3/3)
 
-[^key-8890f2c4937c82774c33b1a03e2f6dbb]: Textual amendment: Reg. 5 omitted (16.5.2017) by virtue of [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(4)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/4)
+[^c-8890f2c4937c82774c33b1a03e2f6dbb]: Textual amendment: Reg. 5 omitted (16.5.2017) by virtue of [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(4)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/4)
 
-[^key-88828e027778f764b0e9ca7a1880b3fc]: Textual amendment: Word in reg. 7(2) substituted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(5)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/5)
+[^c-88828e027778f764b0e9ca7a1880b3fc]: Textual amendment: Word in reg. 7(2) substituted (16.5.2017) by [The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/101)](https://www.legislation.gov.uk/ssi/2017/101), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/101/regulation/1/1), [42(5)](https://www.legislation.gov.uk/ssi/2017/101/regulation/42/5)

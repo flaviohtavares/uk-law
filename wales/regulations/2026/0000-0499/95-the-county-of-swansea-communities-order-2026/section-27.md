@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Creation of the new community ward of Cheriton[^key-3aad598fc7e35e35ddaa3b4a56414502]
+## 27. Creation of the new community ward of Cheriton[^c-3aad598fc7e35e35ddaa3b4a56414502]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower North which is to be k
 
 ## Annotations
 
-[^key-3aad598fc7e35e35ddaa3b4a56414502]: Commencement: [Art. 27](https://www.legislation.gov.uk/wsi/2026/95/article/27) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-3aad598fc7e35e35ddaa3b4a56414502]: Commencement: [Art. 27](https://www.legislation.gov.uk/wsi/2026/95/article/27) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

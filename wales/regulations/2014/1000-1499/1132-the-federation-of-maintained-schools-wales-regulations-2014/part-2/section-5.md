@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Procedure for federation – governing body proposed[^key-13cbbf372b81ec563c65670a00bde8f7]
+## 5. Procedure for federation – governing body proposed[^c-13cbbf372b81ec563c65670a00bde8f7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13cbbf372b81ec563c65670a00bde8f7]: Commencement: Reg. 5 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-13cbbf372b81ec563c65670a00bde8f7]: Commencement: Reg. 5 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

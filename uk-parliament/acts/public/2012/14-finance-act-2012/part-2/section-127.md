@@ -26,11 +26,11 @@ summary: ''
 
 (3) The reliefs in question are—
 
-- (za)[^key-c04bec403be65c300f2f8eee9ae2d5fb] relief under section 124B (relief of excess carried-forward BLAGAB trade losses against total profits),
+- (za)[^c-c04bec403be65c300f2f8eee9ae2d5fb] relief under section 124B (relief of excess carried-forward BLAGAB trade losses against total profits),
 - (a) relief under section 37 of CTA 2010 (including as applied by section 123),
 - (b) relief under Chapter 2 or 4 of Part 4 of CTA 2010 (loss relief),
 - (c) relief under Part 5 of CTA 2010 (group relief) (including as applied by section 125),
-- (ca)[^key-3f6b91f807ca1a9e3f1ec1e2c8627edc] relief under Chapter 3 of Part 5A of CTA 2010 (group relief for carried-forward losses),
+- (ca)[^c-3f6b91f807ca1a9e3f1ec1e2c8627edc] relief under Chapter 3 of Part 5A of CTA 2010 (group relief for carried-forward losses),
 - (d) relief in respect of any qualifying charitable donation,
 - (e) relief in respect of any amount representing a non-trading deficit on the company's loan relationships calculated otherwise than by reference to debits and credits referable, in accordance with Chapter 4, to its basic life assurance and general annuity business.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c04bec403be65c300f2f8eee9ae2d5fb]: Textual amendment: S. 127(3)(za) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 189(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/189/a)
+[^c-c04bec403be65c300f2f8eee9ae2d5fb]: Textual amendment: S. 127(3)(za) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 189(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/189/a)
 
-[^key-3f6b91f807ca1a9e3f1ec1e2c8627edc]: Textual amendment: S. 127(3)(ca) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 189(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/189/b)
+[^c-3f6b91f807ca1a9e3f1ec1e2c8627edc]: Textual amendment: S. 127(3)(ca) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 189(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/189/b)

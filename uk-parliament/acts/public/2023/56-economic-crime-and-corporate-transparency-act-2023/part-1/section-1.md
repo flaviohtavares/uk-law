@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The registrar’s objectives[^key-5b650d415819ae8a246f148cd06829cf][^key-8d8609624444ac224a4a4c1566ddd8c8]
+## 1. The registrar’s objectives[^c-5b650d415819ae8a246f148cd06829cf][^c-8d8609624444ac224a4a4c1566ddd8c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b650d415819ae8a246f148cd06829cf]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5b650d415819ae8a246f148cd06829cf]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-8d8609624444ac224a4a4c1566ddd8c8]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/56/section/1) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-8d8609624444ac224a4a4c1566ddd8c8]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/56/section/1) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

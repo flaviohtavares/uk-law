@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, application and commencement[^key-3db733c4ae7054240e38f640bb1e5281]
+## 1. Title, application and commencement[^c-3db733c4ae7054240e38f640bb1e5281]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The title of these Regulations is the Welfare of Farmed Animals (Wales) Regulati
 
 ## Annotations
 
-[^key-3db733c4ae7054240e38f640bb1e5281]: Commencement: Reg. 1 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-3db733c4ae7054240e38f640bb1e5281]: Commencement: Reg. 1 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)

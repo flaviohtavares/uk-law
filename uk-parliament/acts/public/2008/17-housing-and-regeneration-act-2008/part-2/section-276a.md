@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276A. Exercise of powers: land with a Crown or Duchy interest[^key-3aaf28b0d0b82294dc74da5ec4c750be]
+## 276A. Exercise of powers: land with a Crown or Duchy interest[^c-3aaf28b0d0b82294dc74da5ec4c750be]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3aaf28b0d0b82294dc74da5ec4c750be]: Textual amendment: [S. 276A](https://www.legislation.gov.uk/ukpga/2008/17/section/276A) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 35](https://www.legislation.gov.uk/ukpga/2023/36/section/35), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/p)
+[^c-3aaf28b0d0b82294dc74da5ec4c750be]: Textual amendment: [S. 276A](https://www.legislation.gov.uk/ukpga/2008/17/section/276A) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 35](https://www.legislation.gov.uk/ukpga/2023/36/section/35), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/p)

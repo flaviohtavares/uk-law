@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Temporary use of land by NGN[^key-8e983d4ff03fef63f5361f834cf218b1]
+## 38. Temporary use of land by NGN[^c-8e983d4ff03fef63f5361f834cf218b1]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e983d4ff03fef63f5361f834cf218b1]: Commencement: Art. 38 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-8e983d4ff03fef63f5361f834cf218b1]: Commencement: Art. 38 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

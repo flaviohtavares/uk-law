@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Jurisdiction of a tribunal or the court[^key-23f951f0573163e78f6ad02acb32c2ed]
+## 54. Jurisdiction of a tribunal or the court[^c-23f951f0573163e78f6ad02acb32c2ed]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ subject to subsections (4) to (6).
 
 ## Annotations
 
-[^key-23f951f0573163e78f6ad02acb32c2ed]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2013/6/section/54) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-23f951f0573163e78f6ad02acb32c2ed]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2013/6/section/54) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

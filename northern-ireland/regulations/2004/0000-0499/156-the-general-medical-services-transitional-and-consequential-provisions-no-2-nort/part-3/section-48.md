@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Complaints[^key-d3c61b8c7f09d458cf4bc34dfa1e7edc]
+## 48. Complaints[^c-d3c61b8c7f09d458cf4bc34dfa1e7edc]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ shall be read as if they included a reference to services provided by or receive
 
 ## Annotations
 
-[^key-d3c61b8c7f09d458cf4bc34dfa1e7edc]: Commencement: Art. 48 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-d3c61b8c7f09d458cf4bc34dfa1e7edc]: Commencement: Art. 48 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Designation of non-disposal area[^key-c825aa2a7b23fefde84920a48b0d9b4b]
+## 55. Designation of non-disposal area[^c-c825aa2a7b23fefde84920a48b0d9b4b]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c825aa2a7b23fefde84920a48b0d9b4b]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2017/3/section/55) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(p)](https://www.legislation.gov.uk/wsi/2018/35/article/2/p)
+[^c-c825aa2a7b23fefde84920a48b0d9b4b]: Commencement: [S. 55](https://www.legislation.gov.uk/anaw/2017/3/section/55) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(p)](https://www.legislation.gov.uk/wsi/2018/35/article/2/p)

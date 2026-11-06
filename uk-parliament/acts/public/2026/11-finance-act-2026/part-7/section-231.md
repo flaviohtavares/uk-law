@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Monitoring of registration conditions[^M_I_6cd56af9-15d5-4354-d0be-6f096ef0e125][^key-6e804b474575e4e9cbd7ed3023bce493][^key-1e6bebb217fd35e8a251e115d20d7d94]
+## 231. Monitoring of registration conditions[^M_I_6cd56af9-15d5-4354-d0be-6f096ef0e125][^c-6e804b474575e4e9cbd7ed3023bce493][^c-1e6bebb217fd35e8a251e115d20d7d94]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ An officer of Revenue and Customs may by notice require a registered tax adviser
 
 [^M_I_6cd56af9-15d5-4354-d0be-6f096ef0e125]: Commencement: S. 231 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-6e804b474575e4e9cbd7ed3023bce493]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2026/11/section/231) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-6e804b474575e4e9cbd7ed3023bce493]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2026/11/section/231) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-1e6bebb217fd35e8a251e115d20d7d94]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2026/11/section/231) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-1e6bebb217fd35e8a251e115d20d7d94]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2026/11/section/231) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

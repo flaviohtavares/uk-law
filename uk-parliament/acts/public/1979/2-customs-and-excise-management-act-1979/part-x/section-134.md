@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-7a6ce55dc49977020f77fe79dd39031a] This section applies only for the purposes of excise duty.
+(A1)[^c-7a6ce55dc49977020f77fe79dd39031a] This section applies only for the purposes of excise duty.
 
 (1) Where it is proved to the satisfaction of the Commissioners that any goods after being duly shipped for exportation have been destroyed by accident on board the exporting ship or aircraft, any amount payable in respect of the goods by way of drawback, allowance or repayment of duty shall be payable in the same manner as if the goods had been exported to their destination.
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c14779551]: Modification: S. 134 amended by [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167), [art. 4](https://www.legislation.gov.uk/uksi/1990/2167/article/4), [Sch. para. 20](https://www.legislation.gov.uk/uksi/1990/2167/schedule/paragraph/20)
 
-[^key-7a6ce55dc49977020f77fe79dd39031a]: Textual amendment: [S. 134(A1)](https://www.legislation.gov.uk/ukpga/1979/2/section/134/A1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/101) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7a6ce55dc49977020f77fe79dd39031a]: Textual amendment: [S. 134(A1)](https://www.legislation.gov.uk/ukpga/1979/2/section/134/A1) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/101) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

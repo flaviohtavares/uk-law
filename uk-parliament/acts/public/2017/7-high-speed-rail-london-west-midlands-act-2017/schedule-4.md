@@ -128,7 +128,7 @@ and are reasonably capable of being so modified.
 (11) In sub-paragraph (7)(a), “**"local authority”**” means—
 
 - (a) the council of a county, district, parish or London borough,
-- (b)[^key-278201b44a11b0e98522f49d30b218f2] the London Fire Commissioner,
+- (b)[^c-278201b44a11b0e98522f49d30b218f2] the London Fire Commissioner,
 - (c) a joint authority established by Part 4 of the Local Government Act 1985,
 - (d) a housing action trust established under Part 3 of the Housing Act 1988, and
 - (e) the parish meeting of a rural parish not having a separate parish council.
@@ -1710,4 +1710,4 @@ the nominated undertaker may, by agreement with the persons having the charge, m
 
 ## Annotations
 
-[^key-278201b44a11b0e98522f49d30b218f2]: Textual amendment: [Sch. 4 para. 3(11)(b)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/4/paragraph/3/11/b) substituted (1.4.2018) by [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/226/regulation/12/2)
+[^c-278201b44a11b0e98522f49d30b218f2]: Textual amendment: [Sch. 4 para. 3(11)(b)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/4/paragraph/3/11/b) substituted (1.4.2018) by [The Policing and Crime Act 2017 (Consequential Amendments) Regulations 2018 (S.I. 2018/226)](https://www.legislation.gov.uk/uksi/2018/226), [regs. 1](https://www.legislation.gov.uk/uksi/2018/226/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/226/regulation/12/2)

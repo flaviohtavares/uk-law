@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Termination of tenancy on tenant's death[^key-c95c4fc6102d5961bd292d04bf947224]
+## 65. Termination of tenancy on tenant's death[^c-c95c4fc6102d5961bd292d04bf947224]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A tenancy which is a private residential tenancy comes to an end if—
 
 ## Annotations
 
-[^key-c95c4fc6102d5961bd292d04bf947224]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2016/19/section/65) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-c95c4fc6102d5961bd292d04bf947224]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2016/19/section/65) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

@@ -64,13 +64,13 @@ Section 170.
 
 (2) Sub-paragraph (1) does not prevent an existing work qualifying for copyright protection after commencement—
 
-- (a) under section 155 (qualification by virtue of first publication), [^key-3f1c962fafabff0d617050ed0e6ef1db]...
-- (b) by virtue of an Order under section 159 (application of Part I to countries to which it does not extend) , or[^key-9452e688c9aa86a67005a77844fd1545]
-- (c)[^key-7f79aac4d816bae4eaea93c8e880742e] where the work is an artistic work in which copyright subsists as a result of the disapplication of paragraph 6(1) by paragraph 6(1A)
+- (a) under section 155 (qualification by virtue of first publication), [^c-3f1c962fafabff0d617050ed0e6ef1db]...
+- (b) by virtue of an Order under section 159 (application of Part I to countries to which it does not extend) , or[^c-9452e688c9aa86a67005a77844fd1545]
+- (c)[^c-7f79aac4d816bae4eaea93c8e880742e] where the work is an artistic work in which copyright subsists as a result of the disapplication of paragraph 6(1) by paragraph 6(1A)
 
 **6.** (1) Copyright shall not subsist by virtue of this Act in an artistic work made before 1st June 1957 which at the time when the work was made constituted a design capable of registration under the [^c13762101]Registered Designs Act 1949 or under the enactments repealed by that Act, and was used, or intended to be used, as a model or pattern to be multiplied by an industrial process.
 
-(1A)[^key-445880806431272ae3db554d80380f9a] Sub-paragraph (1) does not apply to an artistic work which was on 1st July 1995 protected under the law of an[^key-a402c3120722d8f6a7d03a6bb49fb6d3] EEA state relating to copyright or related rights.
+(1A)[^c-445880806431272ae3db554d80380f9a] Sub-paragraph (1) does not apply to an artistic work which was on 1st July 1995 protected under the law of an[^c-a402c3120722d8f6a7d03a6bb49fb6d3] EEA state relating to copyright or related rights.
 
 (2) For this purpose a design shall be deemed to be used as a model or pattern to be multiplied by any industrial process—
 
@@ -237,7 +237,7 @@ and where the right conferred by the 1911 Act consisted only of the sole right t
 
 (9) Nothing in this paragraph affects the operation of any rule of law preventing or restricting the enforcement of copyright in relation to a design.
 
-**20.**[^key-892068542ce631bafc84710fd305abbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-892068542ce631bafc84710fd305abbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Abolition of statutory recording licence
 
@@ -482,17 +482,17 @@ whichever is the later.
 
 [^c13762091]: Marginal citation: [1956 c. 74](https://www.legislation.gov.uk/ukpga/1956/74).
 
-[^key-3f1c962fafabff0d617050ed0e6ef1db]: Textual amendment: Word in [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/5/2/a) omitted (6.4.2017) by virtue of [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/2/a)
+[^c-3f1c962fafabff0d617050ed0e6ef1db]: Textual amendment: Word in [Sch. 1 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/5/2/a) omitted (6.4.2017) by virtue of [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/2/a)
 
-[^key-9452e688c9aa86a67005a77844fd1545]: Textual amendment: Word in [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/5/2/b) substituted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/2/b)
+[^c-9452e688c9aa86a67005a77844fd1545]: Textual amendment: Word in [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/5/2/b) substituted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/2/b)
 
-[^key-7f79aac4d816bae4eaea93c8e880742e]: Textual amendment: [Sch. 1 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/5/2/c) inserted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/2/c)
+[^c-7f79aac4d816bae4eaea93c8e880742e]: Textual amendment: [Sch. 1 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/5/2/c) inserted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/2/c)
 
 [^c13762101]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88).
 
-[^key-445880806431272ae3db554d80380f9a]: Textual amendment: Sch. 1 para. 6(1A) inserted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/3)
+[^c-445880806431272ae3db554d80380f9a]: Textual amendment: Sch. 1 para. 6(1A) inserted (6.4.2017) by [The Copyright (Amendment) Regulations 2016 (S.I. 2016/1210)](https://www.legislation.gov.uk/uksi/2016/1210), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1210/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1210/regulation/2/3)
 
-[^key-a402c3120722d8f6a7d03a6bb49fb6d3]: Textual amendment: Word in [Sch. 1 para. 6(1A)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/6/1A) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/605/regulation/24) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-a402c3120722d8f6a7d03a6bb49fb6d3]: Textual amendment: Word in [Sch. 1 para. 6(1A)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/1/paragraph/6/1A) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/605/regulation/24) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
 [^c19410121]: Textual amendment: Sch. 1 para. 9 substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), reg, 2(1), {Sch. 1 para. 16(a)} (with regs. 31-40)
 
@@ -518,4 +518,4 @@ whichever is the later.
 
 [^c13762171]: Modification: Sch. 1 para. 19(3) excluded by [S.I. 1989/1100](https://www.legislation.gov.uk/uksi/1989/1100), [art. 10(3)](https://www.legislation.gov.uk/uksi/1989/1100/article/10/3)
 
-[^key-892068542ce631bafc84710fd305abbd]: Textual amendment: Sch. 1 para. 20 omitted (28.7.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 74(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/74/3/b), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/593](https://www.legislation.gov.uk/uksi/2016/593), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2016/593/article/2/1), [3](https://www.legislation.gov.uk/uksi/2016/593/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/593/article/4), [5](https://www.legislation.gov.uk/uksi/2016/593/article/5))
+[^c-892068542ce631bafc84710fd305abbd]: Textual amendment: Sch. 1 para. 20 omitted (28.7.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 74(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/74/3/b), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/593](https://www.legislation.gov.uk/uksi/2016/593), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2016/593/article/2/1), [3](https://www.legislation.gov.uk/uksi/2016/593/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/593/article/4), [5](https://www.legislation.gov.uk/uksi/2016/593/article/5))

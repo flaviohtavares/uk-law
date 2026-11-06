@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Manifestly unfounded or excessive requests to the Commissioner[^key-311caecdd54debadc051ba0f64975243][^key-557626b3842e35e89891d1f4e9ae2ef4]
+## 94. Manifestly unfounded or excessive requests to the Commissioner[^c-311caecdd54debadc051ba0f64975243][^c-557626b3842e35e89891d1f4e9ae2ef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-311caecdd54debadc051ba0f64975243]: Commencement: S. 94 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-311caecdd54debadc051ba0f64975243]: Commencement: S. 94 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-557626b3842e35e89891d1f4e9ae2ef4]: Commencement: S. 94 in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/p)
+[^c-557626b3842e35e89891d1f4e9ae2ef4]: Commencement: S. 94 in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/p)

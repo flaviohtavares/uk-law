@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Application of sums by enforcement receivers[^key-71e1886a338cde2c009677353fc35997]
+## 119. Application of sums by enforcement receivers[^c-71e1886a338cde2c009677353fc35997]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71e1886a338cde2c009677353fc35997]: Commencement: [Art. 119](https://www.legislation.gov.uk/uksi/2005/3181/article/119) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-71e1886a338cde2c009677353fc35997]: Commencement: [Art. 119](https://www.legislation.gov.uk/uksi/2005/3181/article/119) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

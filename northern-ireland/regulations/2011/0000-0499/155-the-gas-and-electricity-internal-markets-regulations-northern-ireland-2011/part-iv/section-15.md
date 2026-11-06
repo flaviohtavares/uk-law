@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Amendments to the Gas Order[^key-24a53f83dbf4eb784df29a7fdc004b2c]
+## 15. Amendments to the Gas Order[^c-24a53f83dbf4eb784df29a7fdc004b2c]
 
 *Extent: N.I.*
 
@@ -95,4 +95,4 @@ For Article 10A (Compliance with Community obligations) of the Gas Order there s
 
 ## Annotations
 
-[^key-24a53f83dbf4eb784df29a7fdc004b2c]: Commencement: Reg. 15 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-24a53f83dbf4eb784df29a7fdc004b2c]: Commencement: Reg. 15 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

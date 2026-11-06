@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1D. Oversight and intervention by Secretary of State[^key-d689777b59ea230db37999d939f7cf9b]
+## 1D. Oversight and intervention by Secretary of State[^c-d689777b59ea230db37999d939f7cf9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d689777b59ea230db37999d939f7cf9b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/ukpga/2014/2/part/1A) inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/89/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/b)
+[^c-d689777b59ea230db37999d939f7cf9b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/ukpga/2014/2/part/1A) inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/89/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/b)

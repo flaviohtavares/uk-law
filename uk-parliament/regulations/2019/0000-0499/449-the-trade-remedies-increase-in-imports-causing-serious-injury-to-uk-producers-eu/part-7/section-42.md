@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Reinstatement of a definitive safeguarding remedy[^key-531c7a985981d928ba3ba9f08a52b0ec]
+## 42. Reinstatement of a definitive safeguarding remedy[^c-531c7a985981d928ba3ba9f08a52b0ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531c7a985981d928ba3ba9f08a52b0ec]: Commencement: Reg. 42 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-531c7a985981d928ba3ba9f08a52b0ec]: Commencement: Reg. 42 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

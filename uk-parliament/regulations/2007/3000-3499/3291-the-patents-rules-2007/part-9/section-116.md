@@ -28,7 +28,7 @@ summary: ''
 (2) The period prescribed for the purposes of paragraph 5(a) of Schedule 4A to the Act is—
 
 - (a) three months ending with the start date; or
-- (b) where the certificate is granted after the beginning of that period, three months beginning immediately after[^key-bf454f754cb1649d27d1d6020f86795d] the date the supplementary protection certificate is granted.
+- (b) where the certificate is granted after the beginning of that period, three months beginning immediately after[^c-bf454f754cb1649d27d1d6020f86795d] the date the supplementary protection certificate is granted.
 
 (3) The comptroller must send a notice to the applicant for the certificate—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf454f754cb1649d27d1d6020f86795d]: Textual amendment: Words in [rule 116(2)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/116/2/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-bf454f754cb1649d27d1d6020f86795d]: Textual amendment: Words in [rule 116(2)(b)](https://www.legislation.gov.uk/uksi/2007/3291/rule/116/2/b) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

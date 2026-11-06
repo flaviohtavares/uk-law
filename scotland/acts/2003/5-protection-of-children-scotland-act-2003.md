@@ -32,79 +32,79 @@ Protection of Children (Scotland) Act 2003
 
 An Act of the Scottish Parliament to require the Scottish Ministers to keep a list of individuals whom they consider to be unsuitable to work with children; to prohibit individuals included in the list, and individuals who are similarly regarded in other jurisdictions, from doing certain work relating to children; to make further provision in relation to that list; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 12th February 2003 and received Royal Assent on 19th March 2003[^key-70c1c65a85ddf05444ba5216af80618c][^key-fff9a445d25326008133bee0d1b7c585]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 12th February 2003 and received Royal Assent on 19th March 2003[^c-70c1c65a85ddf05444ba5216af80618c][^c-fff9a445d25326008133bee0d1b7c585]
 
 ## Duty to keep list
 
-### 1. Duty of Scottish Ministers to keep list[^key-d4919123f847ac2beb730190d90027dc]
+### 1. Duty of Scottish Ministers to keep list[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Referrals
 
-### 2. Reference following disciplinary action etc.[^key-d4919123f847ac2beb730190d90027dc]
+### 2. Reference following disciplinary action etc.[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Reference by employment agency etc.[^key-d4919123f847ac2beb730190d90027dc]
+### 3. Reference by employment agency etc.[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Reference by certain other persons[^key-d4919123f847ac2beb730190d90027dc]
+### 4. Reference by certain other persons[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Inclusion in list
 
-### 5. Inclusion in list following referral under section 2(1) or 4(1)[^key-d4919123f847ac2beb730190d90027dc]
+### 5. Inclusion in list following referral under section 2(1) or 4(1)[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Individuals named in the findings of certain inquiries[^key-d4919123f847ac2beb730190d90027dc]
+### 6. Individuals named in the findings of certain inquiries[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Provisional inclusion in list[^key-d4919123f847ac2beb730190d90027dc]
+### Provisional inclusion in list[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Determination under section 5 or 6: power to regulate procedure[^key-d4919123f847ac2beb730190d90027dc]
+### 8. Determination under section 5 or 6: power to regulate procedure[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Protection from actions of defamation[^key-d4919123f847ac2beb730190d90027dc]
+### 9. Protection from actions of defamation[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Individuals convicted of an offence against a child[^key-d4919123f847ac2beb730190d90027dc]
+### 10. Individuals convicted of an offence against a child[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Effect of inclusion in list
 
-### 11. Offences relating to work in a child care position[^key-d4919123f847ac2beb730190d90027dc]
+### 11. Offences relating to work in a child care position[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Searches of lists: amendment of Police Act 1997[^key-6705c86bd7711394c2be17fcbf65b221]
+### 12. Searches of lists: amendment of Police Act 1997[^c-6705c86bd7711394c2be17fcbf65b221]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of Teaching Council (Scotland) Act 1965[^key-3d227b84c184b500529bc727f40fedd3]
+### 13. Amendment of Teaching Council (Scotland) Act 1965[^c-3d227b84c184b500529bc727f40fedd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Removal from list and appeals
 
-### 14. Applications for removal from list[^key-d4919123f847ac2beb730190d90027dc]
+### 14. Applications for removal from list[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Appeals: inclusion in list under section 5 or 6 etc.[^key-d4919123f847ac2beb730190d90027dc]
+### 15. Appeals: inclusion in list under section 5 or 6 etc.[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Appeals: inclusion in list following conviction of offence against a child[^key-cd2059783d52068ee28103393816f3a9]
+### 16. Appeals: inclusion in list following conviction of offence against a child[^c-cd2059783d52068ee28103393816f3a9]
 
 (1) The Criminal Procedure (Scotland) Act 1995 (c. 46) is amended as follows.
 
@@ -218,27 +218,27 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Interpretation and general
 
-### 17. Meaning of “disqualified from working with children”[^key-d4919123f847ac2beb730190d90027dc]
+### 17. Meaning of “disqualified from working with children”[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Interpretation[^key-d4919123f847ac2beb730190d90027dc]
+### 18. Interpretation[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Notices[^key-d4919123f847ac2beb730190d90027dc]
+### 19. Notices[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Offences by bodies corporate etc.[^key-d4919123f847ac2beb730190d90027dc]
+### 20. Offences by bodies corporate etc.[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Orders and regulations[^key-d4919123f847ac2beb730190d90027dc]
+### 21. Orders and regulations[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Short title and commencement[^key-d4919123f847ac2beb730190d90027dc]
+### 22. Short title and commencement[^c-d4919123f847ac2beb730190d90027dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -246,54 +246,54 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (introduced by section 10(9))
 
-**1.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Child care positions
 
 (introduced by section 18(1))
 
-**1.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2A.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2B.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2B.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d4919123f847ac2beb730190d90027dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70c1c65a85ddf05444ba5216af80618c]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/5) modified (temp.) (20.1.2009) by [Protection of Vulnerable Groups (Scotland) Act 2007 (Transitory Provisions in Consequence of the Safeguarding Vulnerable Groups Act 2006) Order 2009 (S.S.I. 2009/4)](https://www.legislation.gov.uk/ssi/2009/4), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/4/article/1/2), [4](https://www.legislation.gov.uk/ssi/2009/4/article/4) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/4/article/3))
+[^c-70c1c65a85ddf05444ba5216af80618c]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/5) modified (temp.) (20.1.2009) by [Protection of Vulnerable Groups (Scotland) Act 2007 (Transitory Provisions in Consequence of the Safeguarding Vulnerable Groups Act 2006) Order 2009 (S.S.I. 2009/4)](https://www.legislation.gov.uk/ssi/2009/4), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/4/article/1/2), [4](https://www.legislation.gov.uk/ssi/2009/4/article/4) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/4/article/3))
 
-[^key-fff9a445d25326008133bee0d1b7c585]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/5) savings for effects of 2007 asp 14 Sch. 4 para. 42 (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Savings and Transitional Provisions) Order 2010 (S.S.I. 2010/180)](https://www.legislation.gov.uk/ssi/2010/180), [arts. 1](https://www.legislation.gov.uk/ssi/2010/180/article/1), [arts. 3-12](https://www.legislation.gov.uk/ssi/2010/180/article/3)
+[^c-fff9a445d25326008133bee0d1b7c585]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/5) savings for effects of 2007 asp 14 Sch. 4 para. 42 (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Savings and Transitional Provisions) Order 2010 (S.S.I. 2010/180)](https://www.legislation.gov.uk/ssi/2010/180), [arts. 1](https://www.legislation.gov.uk/ssi/2010/180/article/1), [arts. 3-12](https://www.legislation.gov.uk/ssi/2010/180/article/3)
 
-[^key-d4919123f847ac2beb730190d90027dc]: Textual amendment: Act (with the exception of ss. 13, 16) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [Sch. 4 para. 42](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/42) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with savings for effects of 2007 asp 14, Sch. 4 para. 42 by S.S.I. 2010/180, arts. 1, 3-12)
+[^c-d4919123f847ac2beb730190d90027dc]: Textual amendment: Act (with the exception of ss. 13, 16) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [Sch. 4 para. 42](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/42) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with savings for effects of 2007 asp 14, Sch. 4 para. 42 by S.S.I. 2010/180, arts. 1, 3-12)
 
-[^key-6705c86bd7711394c2be17fcbf65b221]: Textual amendment: S. 12 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(d)(ii)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/d/ii)
+[^c-6705c86bd7711394c2be17fcbf65b221]: Textual amendment: S. 12 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(d)(ii)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/d/ii)
 
-[^key-3d227b84c184b500529bc727f40fedd3]: Textual amendment: S. 13 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-3d227b84c184b500529bc727f40fedd3]: Textual amendment: S. 13 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
-[^key-cd2059783d52068ee28103393816f3a9]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2003/5/section/16) in force at 10.1.2005 by [S.S.I. 2004/522](https://www.legislation.gov.uk/ssi/2004/522), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/522/article/2/1)
+[^c-cd2059783d52068ee28103393816f3a9]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2003/5/section/16) in force at 10.1.2005 by [S.S.I. 2004/522](https://www.legislation.gov.uk/ssi/2004/522), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/522/article/2/1)

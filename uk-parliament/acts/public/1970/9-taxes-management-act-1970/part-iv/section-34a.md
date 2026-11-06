@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Ordinary time limit for self-assessments[^key-70e96f98e389618e4804d0dc31b3e027][^key-d0fddfb7eadd90c6e9d9364a7c371fb3]
+## 34A. Ordinary time limit for self-assessments[^c-70e96f98e389618e4804d0dc31b3e027][^c-d0fddfb7eadd90c6e9d9364a7c371fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70e96f98e389618e4804d0dc31b3e027]: Textual amendment: S. 34A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 168(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/168/3)
+[^c-70e96f98e389618e4804d0dc31b3e027]: Textual amendment: S. 34A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 168(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/168/3)
 
-[^key-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)
+[^c-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)

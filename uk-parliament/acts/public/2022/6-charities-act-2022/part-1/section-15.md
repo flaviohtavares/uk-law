@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Small ex gratia payments[^key-e411d5233cc712b3c9f38f9c344ddc1c][^key-898b06f290dca5a8a288eef67f738009]
+## 15. Small ex gratia payments[^c-e411d5233cc712b3c9f38f9c344ddc1c][^c-898b06f290dca5a8a288eef67f738009]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ In Part 18 of the Charities Act 2011 (miscellaneous and supplementary), before t
 
 ## Annotations
 
-[^key-e411d5233cc712b3c9f38f9c344ddc1c]: Commencement: S. 15 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-e411d5233cc712b3c9f38f9c344ddc1c]: Commencement: S. 15 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-898b06f290dca5a8a288eef67f738009]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/6/section/15) in force at 27.11.2025 for specified purposes by [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2)
+[^c-898b06f290dca5a8a288eef67f738009]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2022/6/section/15) in force at 27.11.2025 for specified purposes by [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2)

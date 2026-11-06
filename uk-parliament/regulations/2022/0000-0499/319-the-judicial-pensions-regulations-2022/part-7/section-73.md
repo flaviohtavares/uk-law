@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Option for pension credit member to commute whole pension (serious ill-health)[^key-8d890a1da9eea6e4fa88ebd8503826f4]
+## 73. Option for pension credit member to commute whole pension (serious ill-health)[^c-8d890a1da9eea6e4fa88ebd8503826f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d890a1da9eea6e4fa88ebd8503826f4]: Commencement: Reg. 73 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-8d890a1da9eea6e4fa88ebd8503826f4]: Commencement: Reg. 73 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

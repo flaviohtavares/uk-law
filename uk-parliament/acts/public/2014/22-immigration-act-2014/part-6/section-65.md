@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Persons unable to acquire citizenship: natural father not married to mother[^key-d52512ea2c89687461eddd03ff58fe0a]
+## 65. Persons unable to acquire citizenship: natural father not married to mother[^c-d52512ea2c89687461eddd03ff58fe0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,4 +153,4 @@ After section 4D of the British Nationality Act 1981 insert—
 
 ## Annotations
 
-[^key-d52512ea2c89687461eddd03ff58fe0a]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65) in force at 6.4.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)
+[^c-d52512ea2c89687461eddd03ff58fe0a]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65) in force at 6.4.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)

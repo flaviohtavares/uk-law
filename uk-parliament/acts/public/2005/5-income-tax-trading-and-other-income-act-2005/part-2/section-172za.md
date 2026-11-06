@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172ZA. Niches, memorials and inscriptions: introduction[^key-01e89a872021b00bc5b9d93a26cb31f6]
+## 172ZA. Niches, memorials and inscriptions: introduction[^c-01e89a872021b00bc5b9d93a26cb31f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01e89a872021b00bc5b9d93a26cb31f6]: Textual amendment: Ss. 172ZA-172ZE and cross-heading inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2012/266/article/4/4) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))
+[^c-01e89a872021b00bc5b9d93a26cb31f6]: Textual amendment: Ss. 172ZA-172ZE and cross-heading inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2012/266/article/4/4) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/266/article/4/5))

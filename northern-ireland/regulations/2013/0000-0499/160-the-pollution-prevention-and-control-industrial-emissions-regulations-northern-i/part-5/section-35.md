@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Exclusion from registers of certain confidential information[^key-8adc1d978af407ca1bf1da5cc8f8a85f]
+## 35. Exclusion from registers of certain confidential information[^c-8adc1d978af407ca1bf1da5cc8f8a85f]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ and, if any representations are made, the enforcing authority shall, having take
 
 ## Annotations
 
-[^key-8adc1d978af407ca1bf1da5cc8f8a85f]: Commencement: Reg. 35 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-8adc1d978af407ca1bf1da5cc8f8a85f]: Commencement: Reg. 35 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

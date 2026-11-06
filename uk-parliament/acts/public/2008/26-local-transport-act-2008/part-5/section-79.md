@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Provision that may be made in an order under section 78[^key-634c725b4eb9bf4d9cf66ab9fe083624]
+## 79. Provision that may be made in an order under section 78[^c-634c725b4eb9bf4d9cf66ab9fe083624]
 
 *Extent: E+W*
 
 (1) An order under section 78 may make, in relation to the ITA,—
 
 - (a) provision about its constitutional arrangements (within the meaning given by section 84(2)),
-- (b) any provision which may be made by an order under section 86, 87 , 88 or 89A[^key-0fb88649132921b6513d4dde5918d350].
+- (b) any provision which may be made by an order under section 86, 87 , 88 or 89A[^c-0fb88649132921b6513d4dde5918d350].
 
 (2) An order made by virtue of subsection (1)(a) which includes provision about the number and appointment of members of the ITA must provide—
 
@@ -50,6 +50,6 @@ for an area within the integrated transport area of the ITA.
 
 ## Annotations
 
-[^key-634c725b4eb9bf4d9cf66ab9fe083624]: Commencement: S. 79 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-634c725b4eb9bf4d9cf66ab9fe083624]: Commencement: S. 79 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-0fb88649132921b6513d4dde5918d350]: Textual amendment: Words in s. 79(1)(b) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 123](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/123); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-0fb88649132921b6513d4dde5918d350]: Textual amendment: Words in s. 79(1)(b) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 123](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/123); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.4. Summons, warrant and requisition[^key-82b1e66dc112d6b093b5c0e16773342c]
+## 7.4. Summons, warrant and requisition[^c-82b1e66dc112d6b093b5c0e16773342c]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ summary: ''
 
 ## Annotations
 
-[^key-82b1e66dc112d6b093b5c0e16773342c]: Commencement: [Rule 7.4](https://www.legislation.gov.uk/uksi/2025/909/rule/7.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-82b1e66dc112d6b093b5c0e16773342c]: Commencement: [Rule 7.4](https://www.legislation.gov.uk/uksi/2025/909/rule/7.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00247]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 47 was amended by section 109(1) of, and paragraph 207 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

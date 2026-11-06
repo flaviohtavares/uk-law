@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Meaning of “relevant defect” and “relevant steps”[^key-312ef8b347238b724930255e3cce4347][^key-4222852eb5ae53e436ddf7a76d6604dd]
+## 120. Meaning of “relevant defect” and “relevant steps”[^c-312ef8b347238b724930255e3cce4347][^c-4222852eb5ae53e436ddf7a76d6604dd]
 
 *Extent: E+W*
 
-(1) This section applies for the purposes of sections 122 to 124[^key-42b30644ec38f347e056cc74bd2890ae] and Schedule 8.
+(1) This section applies for the purposes of sections 122 to 124[^c-42b30644ec38f347e056cc74bd2890ae] and Schedule 8.
 
 (2) “**Relevant defect**”, in relation to a building, means a defect as regards the building that—
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) In subsection (2) the reference to anything done (or not done) in connection with relevant works includes anything done (or not done) in the provision of professional services in connection with such works.
 
-(4A)[^key-e509a6ed4898c3297f5d51dc0017165a] “**Relevant steps**”, in relation to a relevant defect, means steps which have as their purpose—
+(4A)[^c-e509a6ed4898c3297f5d51dc0017165a] “**Relevant steps**”, in relation to a relevant defect, means steps which have as their purpose—
 
 - (a) preventing or reducing the likelihood of a fire or collapse of the building (or any part of it) occurring as a result of the relevant defect,
 - (b) reducing the severity of any such incident, or
@@ -53,10 +53,10 @@ summary: ''
 
 ## Annotations
 
-[^key-312ef8b347238b724930255e3cce4347]: Commencement: S. 120 in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
+[^c-312ef8b347238b724930255e3cce4347]: Commencement: S. 120 in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
 
-[^key-4222852eb5ae53e436ddf7a76d6604dd]: Textual amendment: Words in s. 120 heading inserted (31.10.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 114(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/114/2), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/a)
+[^c-4222852eb5ae53e436ddf7a76d6604dd]: Textual amendment: Words in s. 120 heading inserted (31.10.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 114(2)](https://www.legislation.gov.uk/ukpga/2024/22/section/114/2), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/a)
 
-[^key-42b30644ec38f347e056cc74bd2890ae]: Textual amendment: Word in s. 120(1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(f)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/f), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-42b30644ec38f347e056cc74bd2890ae]: Textual amendment: Word in s. 120(1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(f)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/f), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
 
-[^key-e509a6ed4898c3297f5d51dc0017165a]: Textual amendment: S. 120(4A) inserted (31.10.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 114(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/114/3), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/a)
+[^c-e509a6ed4898c3297f5d51dc0017165a]: Textual amendment: S. 120(4A) inserted (31.10.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 114(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/114/3), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/a)

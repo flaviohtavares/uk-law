@@ -24,7 +24,7 @@ Section 30
 
 ### Entitlement of joint claimants
 
-**1.**[^key-fc088035ddcf736040c639084a4fc5ea] Regulations may provide for circumstances in which joint claimants may be entitled to universal credit without each of them meeting all the basic conditions referred to in section 4.
+**1.**[^c-fc088035ddcf736040c639084a4fc5ea] Regulations may provide for circumstances in which joint claimants may be entitled to universal credit without each of them meeting all the basic conditions referred to in section 4.
 
 ### Linking periods
 
@@ -34,7 +34,7 @@ Section 30
 
 ### Couples
 
-**3.**[^key-31a1d74eeeae1148618a2ba9f6815f45] (1) Regulations may provide—
+**3.**[^c-31a1d74eeeae1148618a2ba9f6815f45] (1) Regulations may provide—
 
 - (a) for a claim made by members of a couple jointly to be treated as a claim made by one member of the couple as a single person (or as claims made by both members as single persons);
 - (b) for claims made by members of a couple as single persons to be treated as a claim made jointly by the couple.
@@ -49,7 +49,7 @@ Section 30
 
 ### Calculation of capital and income
 
-**4.**[^key-8d92a8751dd49c92b50e489234341d04] (1) Regulations may for any purpose of this Part provide for the calculation or estimation of—
+**4.**[^c-8d92a8751dd49c92b50e489234341d04] (1) Regulations may for any purpose of this Part provide for the calculation or estimation of—
 
 - (a) a person's capital,
 - (b) a person's earned and unearned income, and
@@ -73,7 +73,7 @@ Section 30
 
 ### Responsibility for children etc
 
-**5.**[^key-221be0bb25fa0fdbddc5059ad1ce8096] (1) Regulations may for any purpose of this Part specify circumstances in which a person is or is not responsible for a child or qualifying young person.
+**5.**[^c-221be0bb25fa0fdbddc5059ad1ce8096] (1) Regulations may for any purpose of this Part specify circumstances in which a person is or is not responsible for a child or qualifying young person.
 
 (2) Regulations may for any purpose of this Part make provision about nominations of the responsible carer for a child (see section 19(6)(b)(ii)).
 
@@ -96,7 +96,7 @@ Section 30
 
 ### Work-related requirements
 
-**7.**[^key-231513e1dba3b627d1caa1480d9989bb] Regulations may provide that a claimant who—
+**7.**[^c-231513e1dba3b627d1caa1480d9989bb] Regulations may provide that a claimant who—
 
 - (a) has a right to reside in the United Kingdom under the EU Treaties, and
 - (b) would otherwise fall within section 19, 20 or 21,
@@ -114,12 +114,12 @@ is to be treated as not falling within that section.
 
 ## Annotations
 
-[^key-fc088035ddcf736040c639084a4fc5ea]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/1) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
+[^c-fc088035ddcf736040c639084a4fc5ea]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/1) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
 
-[^key-31a1d74eeeae1148618a2ba9f6815f45]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/3) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
+[^c-31a1d74eeeae1148618a2ba9f6815f45]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/3) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
 
-[^key-8d92a8751dd49c92b50e489234341d04]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/4) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
+[^c-8d92a8751dd49c92b50e489234341d04]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/4) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
 
-[^key-221be0bb25fa0fdbddc5059ad1ce8096]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/5) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
+[^c-221be0bb25fa0fdbddc5059ad1ce8096]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/5) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
 
-[^key-231513e1dba3b627d1caa1480d9989bb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/7) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)
+[^c-231513e1dba3b627d1caa1480d9989bb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2012/5/schedule/1/paragraph/7) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/39)

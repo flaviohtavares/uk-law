@@ -50,17 +50,17 @@ unless the maker of the transfer scheme considers that some other amount or valu
 
 - “**accounting year**” means—
   - (a) in the case of the Board, the period of twelve months ending with 31st March in any year; and
-  - (b) in the case of any company, its financial year, within the meaning of the Companies Act 2006[^key-9ed782855cd3bbba790407aa5e129f9c];
+  - (b) in the case of any company, its financial year, within the meaning of the Companies Act 2006[^c-9ed782855cd3bbba790407aa5e129f9c];
 - “**the last full accounts**”, in connection with any transfer scheme, means—
   - (a) where the Board is the transferor, the annual accounts prepared by the Board in accordance with section 24 of the [^c14111211]Transport Act 1962 for the accounting year last ended before the making of the transfer scheme; and
   - (b) where any other person is the transferor, the statutory accounts of that person for the accounting year last ended before the making of the transfer scheme;
 - “**the opening accounts of the transferee**” means any statutory accounts prepared by the transferee for the accounting year next ending after the transfer date;
-- “**statutory accounts**” means any accounts prepared by a company for the purpose of any provision of the Companies Act 2006[^key-dab8aabf8894c05bb720bb0d61e996e0] (including group accounts).
+- “**statutory accounts**” means any accounts prepared by a company for the purpose of any provision of the Companies Act 2006[^c-dab8aabf8894c05bb720bb0d61e996e0] (including group accounts).
 
 ## Annotations
 
-[^key-9ed782855cd3bbba790407aa5e129f9c]: Textual amendment: Words in s. 94(6) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 193(a)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/193/a/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-9ed782855cd3bbba790407aa5e129f9c]: Textual amendment: Words in s. 94(6) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 193(a)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/193/a/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c14111211]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 
-[^key-dab8aabf8894c05bb720bb0d61e996e0]: Textual amendment: Words in s. 94(6) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 193(a)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/193/a/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-dab8aabf8894c05bb720bb0d61e996e0]: Textual amendment: Words in s. 94(6) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 193(a)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/193/a/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

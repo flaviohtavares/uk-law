@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Delegation[^key-7d85383f726b61488edaa71b82e084e8]
+## 8. Delegation[^c-7d85383f726b61488edaa71b82e084e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d85383f726b61488edaa71b82e084e8]: Textual amendment: Reg. 8 omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/6/2) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-7d85383f726b61488edaa71b82e084e8]: Textual amendment: Reg. 8 omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/6/2) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))

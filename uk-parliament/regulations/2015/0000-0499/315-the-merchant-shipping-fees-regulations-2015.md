@@ -46,32 +46,32 @@ Coming into force
 
 23rd March 2015
 
-[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]
+## 1. Citation and commencement[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]
+## 2. Interpretation[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees payable to the Agency: wreck removal insurance[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]
+## 3. Fees payable to the Agency: wreck removal insurance[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Merchant Shipping (Fees) Regulations 2006[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]
+## 4. Amendment of the Merchant Shipping (Fees) Regulations 2006[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca27e9f9d8e6fa4b94108b24a5b7ff48]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/315) revoked (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1104/schedule/2)
+[^c-ca27e9f9d8e6fa4b94108b24a5b7ff48]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/315) revoked (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1104/schedule/2)

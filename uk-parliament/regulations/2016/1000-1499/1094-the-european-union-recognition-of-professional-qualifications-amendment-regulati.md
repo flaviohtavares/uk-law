@@ -48,11 +48,11 @@ The Secretary of State is designated[^f00001] for the purposes of section 2(2) o
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2[^f00002] to, the European Communities Act 1972.
 
-## 1. Citation and commencement[^key-07f19a093397e1e231dc28d158629e9f]
+## 1. Citation and commencement[^c-07f19a093397e1e231dc28d158629e9f]
 
 These Regulations may be cited as the European Union (Recognition of Professional Qualifications) (Amendment) Regulations 2016 and come into force on 8th December 2016.
 
-## 2. Amendment of the European Union (Recognition of Professional Qualifications) Regulations 2015[^key-d24913f6168192ab674d31f9dc959994]
+## 2. Amendment of the European Union (Recognition of Professional Qualifications) Regulations 2015[^c-d24913f6168192ab674d31f9dc959994]
 
 In Schedule 1 (regulated professions) to the European Union (Recognition of Professional Qualifications) Regulations 2015[^f00003], in the table in Part 1 (professions regulated by law or public authority) —
 
@@ -91,8 +91,8 @@ An impact assessment has not been prepared for this instrument as only a minor i
 
 [^f00002]: Footnote: Paragraph 1A was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-07f19a093397e1e231dc28d158629e9f]: Commencement: Reg. 1 in force at 8.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1094/regulation/1)
+[^c-07f19a093397e1e231dc28d158629e9f]: Commencement: Reg. 1 in force at 8.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1094/regulation/1)
 
-[^key-d24913f6168192ab674d31f9dc959994]: Commencement: Reg. 2 in force at 8.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1094/regulation/1)
+[^c-d24913f6168192ab674d31f9dc959994]: Commencement: Reg. 2 in force at 8.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1094/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059), to which there are amendments not relevant to these Regulations.

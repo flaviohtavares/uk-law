@@ -45,7 +45,7 @@ Coming into force
 
 10th November 2014
 
-The Secretary of State, being a Minister designated [^c22228951] for the purposes of section 2(2) of the European Communities Act 1972 [^c22228961] in relation to measures relating to rights of entry into, and residence in, the United Kingdom, in the exercise of powers conferred by that section, makes the following Regulations.[^key-a0c647052f65041a09198906a7119dde]
+The Secretary of State, being a Minister designated [^c22228951] for the purposes of section 2(2) of the European Communities Act 1972 [^c22228961] in relation to measures relating to rights of entry into, and residence in, the United Kingdom, in the exercise of powers conferred by that section, makes the following Regulations.[^c-a0c647052f65041a09198906a7119dde]
 
 ## 1. Citation and commencement
 
@@ -99,6 +99,6 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^c22228961]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), and by section 3(3) of, and Part 1 of Schedule 1 to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-a0c647052f65041a09198906a7119dde]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2761) revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
+[^c-a0c647052f65041a09198906a7119dde]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2761) revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
 
 [^c22228971]: Marginal citation: [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003); relevant amending instruments are [S.I. 2011/544](https://www.legislation.gov.uk/uksi/2011/544), 2013/3032 and 2014/1451.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Disposal etc. of common good property: guidance[^key-a4b3ee7e66e462d84580665fa3976e96]
+## 105. Disposal etc. of common good property: guidance[^c-a4b3ee7e66e462d84580665fa3976e96]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4b3ee7e66e462d84580665fa3976e96]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2015/6/section/105) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-a4b3ee7e66e462d84580665fa3976e96]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2015/6/section/105) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

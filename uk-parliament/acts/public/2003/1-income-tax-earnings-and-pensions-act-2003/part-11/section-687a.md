@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 687A. Payment of employment income under Part 7A[^key-c97135adc81a7426ff7c772356efb840]
+## 687A. Payment of employment income under Part 7A[^c-c97135adc81a7426ff7c772356efb840]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ and references to A and B are to be read accordingly.
 
 ## Annotations
 
-[^key-c97135adc81a7426ff7c772356efb840]: Textual amendment: S. 687A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/29)
+[^c-c97135adc81a7426ff7c772356efb840]: Textual amendment: S. 687A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/29)

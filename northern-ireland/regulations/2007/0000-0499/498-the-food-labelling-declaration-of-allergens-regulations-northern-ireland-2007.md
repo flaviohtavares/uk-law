@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2007 (revoked)[^key-b066aea1c08e93e5efb099645f4e00bb]
+The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2007 (revoked)[^c-b066aea1c08e93e5efb099645f4e00bb]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation-
 
 30th December 2007
 
-[^key-b066aea1c08e93e5efb099645f4e00bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b066aea1c08e93e5efb099645f4e00bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b066aea1c08e93e5efb099645f4e00bb]
+## 1. Citation and commencement[^c-b066aea1c08e93e5efb099645f4e00bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-b066aea1c08e93e5efb099645f4e00bb]
+## 2. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-b066aea1c08e93e5efb099645f4e00bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b066aea1c08e93e5efb099645f4e00bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b066aea1c08e93e5efb099645f4e00bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b066aea1c08e93e5efb099645f4e00bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b066aea1c08e93e5efb099645f4e00bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b066aea1c08e93e5efb099645f4e00bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/498) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/198)](https://www.legislation.gov.uk/nisr/2008/198), [regs. 1](https://www.legislation.gov.uk/nisr/2008/198/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2008/198/regulation/3/d)
+[^c-b066aea1c08e93e5efb099645f4e00bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/498) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/198)](https://www.legislation.gov.uk/nisr/2008/198), [regs. 1](https://www.legislation.gov.uk/nisr/2008/198/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2008/198/regulation/3/d)

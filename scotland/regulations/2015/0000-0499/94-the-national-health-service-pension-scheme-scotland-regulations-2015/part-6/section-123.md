@@ -39,7 +39,7 @@ summary: ''
 
   where—
 
-  A is the deceased’s annual pension not including any Upper Tier addition determined in accordance with regulation 91(3)[^key-a4afc8822cfff4b98f129745fffcec4a];
+  A is the deceased’s annual pension not including any Upper Tier addition determined in accordance with regulation 91(3)[^c-a4afc8822cfff4b98f129745fffcec4a];
 
   C is the total period of pensionable service counted in days over which the pensions aggregated to find A were accrued;
 
@@ -66,4 +66,4 @@ and for the purposes of C, any part of a day is taken to be a whole day.
 
 ## Annotations
 
-[^key-a4afc8822cfff4b98f129745fffcec4a]: Textual amendment: Words in [reg. 123(3)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/123/3/b) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2017/28/regulation/17)
+[^c-a4afc8822cfff4b98f129745fffcec4a]: Textual amendment: Words in [reg. 123(3)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/123/3/b) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2017/28/regulation/17)

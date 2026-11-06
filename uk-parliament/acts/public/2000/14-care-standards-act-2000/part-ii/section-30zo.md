@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZO. Information sharing[^key-ad323eefc768004d7ad9f9335cab9a94]
+## 30ZO. Information sharing[^c-ad323eefc768004d7ad9f9335cab9a94]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad323eefc768004d7ad9f9335cab9a94]: Textual amendment: S. 30ZO and cross-heading inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/20/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)
+[^c-ad323eefc768004d7ad9f9335cab9a94]: Textual amendment: S. 30ZO and cross-heading inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/20/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)

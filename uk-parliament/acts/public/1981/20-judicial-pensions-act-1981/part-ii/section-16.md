@@ -31,7 +31,7 @@ In this Part of this Act—
 
   | *Judicial office* | *Relevant service* |
   | --- | --- |
-  | [^key-d445b130dcac1904db0eb2cb38006a10]. . . | [^key-d445b130dcac1904db0eb2cb38006a10]. . . |
+  | [^c-d445b130dcac1904db0eb2cb38006a10]. . . | [^c-d445b130dcac1904db0eb2cb38006a10]. . . |
   | Judge of the Supreme Court[^c20869691]. | Service as a judge of the Supreme Court[^c20869701] or as a judge of the Senior Courts[^c20869901], the Court of Session or the Court of Judicature[^c20869941]. |
   | Judge of the Senior Courts. | Service as a judge of the Supreme Court or as a judge of the Senior Courts. |
   | Judge of the Court of Session. | Service as a judge of the Supreme Court or as a judge of the Court of Session. |
@@ -50,7 +50,7 @@ In this Part of this Act—
 
 [^c20866281]: Textual amendment: S. 16: words in definition of "derivative benefit" substituted (5.12.2005) by [The Civil Partnership (Judicial Pensions and Church Pensions, etc.) Order 2005 (S.I. 2005/3325)](https://www.legislation.gov.uk/uksi/2005/3325), [art. 52](https://www.legislation.gov.uk/uksi/2005/3325/article/52)
 
-[^key-d445b130dcac1904db0eb2cb38006a10]: Textual amendment: S. 16 table entry repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 6(a)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/6/a) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-d445b130dcac1904db0eb2cb38006a10]: Textual amendment: S. 16 table entry repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 6(a)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/6/a) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c20869691]: Textual amendment: S. 16: words in table entry substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 37(1)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/37/1/a), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a)
 

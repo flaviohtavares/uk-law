@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Subordinate Instruments[^key-ac4efb2fbbd19e1f4fa0d47ee10696f7]
+## SCHEDULE 13 — Subordinate Instruments[^c-ac4efb2fbbd19e1f4fa0d47ee10696f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ Section 48(1) (order for stopping-up or diversion of a highway).
 
 Part I or Part II of Schedule 10 (orders with respect to functions of a statutory undertaker).
 
-### Part II — Provisions applying to Certain Powers[^key-ac4efb2fbbd19e1f4fa0d47ee10696f7][^key-cfed067810b08ab45df0f2c86736784c]
+### Part II — Provisions applying to Certain Powers[^c-ac4efb2fbbd19e1f4fa0d47ee10696f7][^c-cfed067810b08ab45df0f2c86736784c]
 
 | Provision of Act | General Description | Parliamentary control | Supplementary powers |
 | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ Part I or Part II of Schedule 10 (orders with respect to functions of a statutor
 | . . . [^c2547571] | . . . [^c2547571] | . . . [^c2547571] | . . . [^c2547571] |
 | Section 41(2)(b). | Order in Council extending Acquisition of Land Act 1981 to Northern Ireland. | Subject to the negative resolution procedure. | Paragraphs 2 and 3 of Part III apply. |
 | Section 46(9). | Order repealing or amending local enactment. | Subject to the negative resolution procedure. | Paragraph 2 of Part III appies. |
-| Section 60. | An Air Navigation Order. | Subject to the affirmative resolution procedure where the Order makes provision for any such matter as is mentioned in section 60(3)(r) or makes, under paragraph 1(1) of Schedule 11 to the Air Traffic Management and Unmanned Aircraft Act 2021, provision authorised by paragraph 1(3)(b) or (4)(b) or (c) of that Schedule;[^key-00d0dc6dc88b2c91060e364da150c10f] and subject to the negative resolution procedure in any other case. | Paragraphs 2, 3, 4 , 6 and 7[^c19356661] of Part III apply. |
+| Section 60. | An Air Navigation Order. | Subject to the affirmative resolution procedure where the Order makes provision for any such matter as is mentioned in section 60(3)(r) or makes, under paragraph 1(1) of Schedule 11 to the Air Traffic Management and Unmanned Aircraft Act 2021, provision authorised by paragraph 1(3)(b) or (4)(b) or (c) of that Schedule;[^c-00d0dc6dc88b2c91060e364da150c10f] and subject to the negative resolution procedure in any other case. | Paragraphs 2, 3, 4 , 6 and 7[^c19356661] of Part III apply. |
 | . . . [^c2547571] | . . . [^c2547571] | . . . [^c2547571] | . . . [^c2547571] |
 | [^c2547771]. . . | [^c2547771]. . . | [^c2547771]. . . | [^c2547771]. . . |
 | [^c2547771]. . . | [^c2547771]. . . | [^c2547771]. . . | [^c2547771]. . . |
@@ -71,9 +71,9 @@ Part I or Part II of Schedule 10 (orders with respect to functions of a statutor
 | Section 66(4). | Regulations prescribing manner of serving certain notices. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
 | Section 67. | Regulations making supplementary provision in respect of air transport licensing. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
 | Section 71. | Regulations with respect to provision of accommodation in aircraft. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
-| Section 71A(1)[^key-0ffaf9272d98561430a1678b8a837bf2][^c19381891] | Regulations requiring persons to make contributions to the Air Travel Trust | Subject to the negative resolution procedure | Paragraphs 1 and 2 of Part 3 apply. |
+| Section 71A(1)[^c-0ffaf9272d98561430a1678b8a837bf2][^c19381891] | Regulations requiring persons to make contributions to the Air Travel Trust | Subject to the negative resolution procedure | Paragraphs 1 and 2 of Part 3 apply. |
 | [^c2547851]. . . | [^c2547851]. . . | [^c2547851]. . . | [^c2547851]. . . |
-| Section 71A(6)[^key-dcc695680ca5b1a2de67d743c4e64e69] | Regulations amending the definition of “Air Travel Trust” | Subject to the affirmative resolution procedure | Paragraphs 1 and 2 of Part 3 apply. |
+| Section 71A(6)[^c-dcc695680ca5b1a2de67d743c4e64e69] | Regulations amending the definition of “Air Travel Trust” | Subject to the affirmative resolution procedure | Paragraphs 1 and 2 of Part 3 apply. |
 | Section 75. | Regulations with respect to the investigation of aircraft accidents. | Subject to the negative resolution procedure. | Paragraphs 4 and 6 of Part III apply. |
 | Section 78(1), (3), (4) or (5). | Regulations prescribing manner of publishing certain notices. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
 | Section 78(8). | Order requiring provision and maintenance of noise measuring equipment etc. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
@@ -98,7 +98,7 @@ Part I or Part II of Schedule 10 (orders with respect to functions of a statutor
 | Paragraph 15 of Schedule 1. | Regulations with respect to the sub-delegation of the CAA’s functions. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
 | Schedule 2. | Regulations in connection with the application of enactments relating to statutory undertakers. | Subject to the negative resolution procedure. | Paragraphs 1 and 2 of Part III apply. |
 
-### Part III — Supplemental Powers[^key-ecd1267c733754ca25aa2935fd6a7ec8]
+### Part III — Supplemental Powers[^c-ecd1267c733754ca25aa2935fd6a7ec8]
 
 #### Different provision for different cases
 
@@ -120,7 +120,7 @@ Part I or Part II of Schedule 10 (orders with respect to functions of a statutor
 
 **4.** (1) Any Order in Council, order or regulations made, in relation to aircraft, in pursuance of any power to which this paragraph applies may provide for the detention of aircraft to secure compliance with the Order in Council, order or regulations, as the case may be, or with any enactment which is mentioned in sub-paragraph (2) below, and in connection with which the Order in Council, order or regulations is or are made, and may make such further provision as appears to the authority exercising the power to be necessary or expedient for securing such detention.
 
-(2) The enactments referred to in sub-paragraph (1) above are the enactments contained in sections [^c2547931]. . . 76, [^key-f67283e3dce3ee7f3e73c6b0a20c8a6b]... 89 and 97 of this Act and the enactments conferring powers to which this paragraph applies.
+(2) The enactments referred to in sub-paragraph (1) above are the enactments contained in sections [^c2547931]. . . 76, [^c-f67283e3dce3ee7f3e73c6b0a20c8a6b]... 89 and 97 of this Act and the enactments conferring powers to which this paragraph applies.
 
 #### Crown aircraft
 
@@ -160,11 +160,11 @@ Part I or Part II of Schedule 10 (orders with respect to functions of a statutor
 
 ## Annotations
 
-[^key-ac4efb2fbbd19e1f4fa0d47ee10696f7]: Modification: Sch. 13 extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
+[^c-ac4efb2fbbd19e1f4fa0d47ee10696f7]: Modification: Sch. 13 extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
 
 [^c2547081]: Textual amendment: Sch. 13 Pt. I: entry inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 36](https://www.legislation.gov.uk/ukpga/2000/38/section/36), [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/4/paragraph/17) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-cfed067810b08ab45df0f2c86736784c]: Modification: [Sch. 13 Pt. II](https://www.legislation.gov.uk/ukpga/1982/16/schedule/13/part/II) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
+[^c-cfed067810b08ab45df0f2c86736784c]: Modification: [Sch. 13 Pt. II](https://www.legislation.gov.uk/ukpga/1982/16/schedule/13/part/II) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
 
 [^c2547571]: Textual amendment: Entries repealed by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31), [s. 83(5)](https://www.legislation.gov.uk/ukpga/1986/31/section/83/5), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1986/31/schedule/6/part/II)
 
@@ -172,29 +172,29 @@ Part I or Part II of Schedule 10 (orders with respect to functions of a statutor
 
 [^c19381851]: Textual amendment: Entry relating to s. 38B(2)(a) inserted (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 13](https://www.legislation.gov.uk/ukpga/2006/34/section/13), [14](https://www.legislation.gov.uk/ukpga/2006/34/section/14), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/4/3); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-00d0dc6dc88b2c91060e364da150c10f]: Textual amendment: Words in [Sch. 13 Pt. II Table](https://www.legislation.gov.uk/ukpga/1982/16/schedule/13/part/II) inserted (29.4.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/c), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/12/schedule/11/paragraph/2)
+[^c-00d0dc6dc88b2c91060e364da150c10f]: Textual amendment: Words in [Sch. 13 Pt. II Table](https://www.legislation.gov.uk/ukpga/1982/16/schedule/13/part/II) inserted (29.4.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/c), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/12/schedule/11/paragraph/2)
 
 [^c19356661]: Textual amendment: Sch. 13 Pt. II: words in entry substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 101(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/101/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c2547771]: Textual amendment: Sch. 13 Pt. II: entries omitted (21.12.2001) by virtue of [S.I. 2001/4050](https://www.legislation.gov.uk/uksi/2001/4050), [art. 2](https://www.legislation.gov.uk/uksi/2001/4050/article/2), [Sch. Pt. V para. 26(d)(i)](https://www.legislation.gov.uk/uksi/2001/4050/schedule/part/V/paragraph/26/d/i)
 
-[^key-0ffaf9272d98561430a1678b8a837bf2]: Textual amendment: Words in Sch. 13 Pt. II substituted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/4/a), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
+[^c-0ffaf9272d98561430a1678b8a837bf2]: Textual amendment: Words in Sch. 13 Pt. II substituted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/4/a), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
 
 [^c19381891]: Textual amendment: Entry relating to s. 71A inserted (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 13](https://www.legislation.gov.uk/ukpga/2006/34/section/13), [14](https://www.legislation.gov.uk/ukpga/2006/34/section/14), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/2006/34/schedule/2/paragraph/4/4); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598) {art. 2}, Sch. 1
 
 [^c2547851]: Textual amendment: Sch. 13 Pt. II: entry repealed (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 31 Pt. I(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/I/2); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-dcc695680ca5b1a2de67d743c4e64e69]: Textual amendment: Words in Sch. 13 Pt. II inserted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/4/b), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
+[^c-dcc695680ca5b1a2de67d743c4e64e69]: Textual amendment: Words in Sch. 13 Pt. II inserted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/4/b), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
 
 [^c19356231]: Textual amendment: Sch. 13 Pt. II: entry repealed (16.2.2004) by [The Aviation Safety Regulations 2004 (S.I. 2004/77)](https://www.legislation.gov.uk/uksi/2004/77), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2004/77/regulation/2/5)
 
 [^c2547891]: Textual amendment: Sch. 13 Pt. II: entry inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 97](https://www.legislation.gov.uk/ukpga/2000/38/section/97), [Sch. 8 Pt. III para. 9](https://www.legislation.gov.uk/ukpga/2000/38/schedule/8/part/III/paragraph/9) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-ecd1267c733754ca25aa2935fd6a7ec8]: Modification: [Sch. 13 Pt. III](https://www.legislation.gov.uk/ukpga/1982/16/schedule/13/part/III) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
+[^c-ecd1267c733754ca25aa2935fd6a7ec8]: Modification: [Sch. 13 Pt. III](https://www.legislation.gov.uk/ukpga/1982/16/schedule/13/part/III) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
 
 [^c2547931]: Textual amendment: Words in Sch. 13 Pt. III para. 4(2) omitted (21.12.2001) by virtue of [S.I. 2001/4050](https://www.legislation.gov.uk/uksi/2001/4050), [art. 2](https://www.legislation.gov.uk/uksi/2001/4050/article/2), [Sch. Pt. V para. 26(d)(ii)](https://www.legislation.gov.uk/uksi/2001/4050/schedule/part/V/paragraph/26/d/ii)
 
-[^key-f67283e3dce3ee7f3e73c6b0a20c8a6b]: Textual amendment: Reference in Sch. 13 para. 4(2) omitted (19.2.2013) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 106(6)](https://www.legislation.gov.uk/ukpga/2012/19/section/106/6), [110(3)(e)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/e) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-f67283e3dce3ee7f3e73c6b0a20c8a6b]: Textual amendment: Reference in Sch. 13 para. 4(2) omitted (19.2.2013) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 106(6)](https://www.legislation.gov.uk/ukpga/2012/19/section/106/6), [110(3)(e)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/e) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
 
 [^c2547941]: Marginal citation: [1948 c. 56](https://www.legislation.gov.uk/ukpga/1948/56).
 

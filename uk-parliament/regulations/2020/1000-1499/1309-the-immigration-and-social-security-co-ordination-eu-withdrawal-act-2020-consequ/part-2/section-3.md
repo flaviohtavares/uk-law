@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of the Marriage Act 1949[^key-227b67223d8682e2912d89978ba25de2]
+## 3. Amendment of the Marriage Act 1949[^c-227b67223d8682e2912d89978ba25de2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-227b67223d8682e2912d89978ba25de2]: Commencement: Reg. 3 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-227b67223d8682e2912d89978ba25de2]: Commencement: Reg. 3 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398261]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76). The definition of “relevant national” was inserted by paragraphs 1 and 17 of, Schedule 4 to, the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22) and amended by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.2A. Lay support[^key-d61c5a6d6162fcafb0e50cec6ff319b9]
+## 2.2A. Lay support[^c-d61c5a6d6162fcafb0e50cec6ff319b9]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ which is in his or her possession in connection with the proceedings without bei
 
 ## Annotations
 
-[^key-d61c5a6d6162fcafb0e50cec6ff319b9]: Textual amendment: Rule 2.2A inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/3/2)
+[^c-d61c5a6d6162fcafb0e50cec6ff319b9]: Textual amendment: Rule 2.2A inserted (1.1.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2010 (S.S.I. 2010/416)](https://www.legislation.gov.uk/ssi/2010/416), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2010/416/paragraph/3/2)

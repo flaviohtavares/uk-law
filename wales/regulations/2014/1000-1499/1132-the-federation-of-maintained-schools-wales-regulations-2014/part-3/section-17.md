@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Local authority governors[^key-ae2a22245f7e53265198d036ed2f5ef7]
+## 17. Local authority governors[^c-ae2a22245f7e53265198d036ed2f5ef7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae2a22245f7e53265198d036ed2f5ef7]: Commencement: Reg. 17 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-ae2a22245f7e53265198d036ed2f5ef7]: Commencement: Reg. 17 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

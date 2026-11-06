@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 387. Revocation of the 1987 Regulations[^key-3376c682337f5bc479b70673d52a41c1]
+## 387. Revocation of the 1987 Regulations[^c-3376c682337f5bc479b70673d52a41c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Assistance) Regulations 1987 are revoked.
 
 ## Annotations
 
-[^key-3376c682337f5bc479b70673d52a41c1]: Commencement: Art. 387 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3376c682337f5bc479b70673d52a41c1]: Commencement: Art. 387 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

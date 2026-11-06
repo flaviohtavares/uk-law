@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Articles of Regulation 1695[^key-f8770fab1eb6c929b7513da3b5370ea0]
+## 28. Articles of Regulation 1695[^c-f8770fab1eb6c929b7513da3b5370ea0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The 25th Act of the Articles of Regulation 1695 does not apply in relation to ar
 
 ## Annotations
 
-[^key-f8770fab1eb6c929b7513da3b5370ea0]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2010/1/section/28) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-f8770fab1eb6c929b7513da3b5370ea0]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2010/1/section/28) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

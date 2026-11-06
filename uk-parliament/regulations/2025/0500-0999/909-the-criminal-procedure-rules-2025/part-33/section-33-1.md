@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.1. Interpretation[^key-4070671aa0f951ae2da8e97112da21f8]
+## 33.1. Interpretation[^c-4070671aa0f951ae2da8e97112da21f8]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ In this Part words and expressions used have the same meaning as in Part 2 of th
 
 ## Annotations
 
-[^key-4070671aa0f951ae2da8e97112da21f8]: Commencement: [Rule 33.1](https://www.legislation.gov.uk/uksi/2025/909/rule/33.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4070671aa0f951ae2da8e97112da21f8]: Commencement: [Rule 33.1](https://www.legislation.gov.uk/uksi/2025/909/rule/33.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00785]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38).
 

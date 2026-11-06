@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (1) This section applies where—
 
-- (a) a vacancy arises among the Lords Spiritual in the House of Lords before 18 May 2030[^key-d457ece7667e1a04afea05b5cd193fce],
+- (a) a vacancy arises among the Lords Spiritual in the House of Lords before 18 May 2030[^c-d457ece7667e1a04afea05b5cd193fce],
 - (b) at the time the vacancy arises there is at least one eligible bishop who is a woman, and
 - (c) the person who would otherwise be entitled to fill the vacancy under section 5 of the Bishoprics Act 1878 is a man.
 
@@ -62,4 +62,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-d457ece7667e1a04afea05b5cd193fce]: Textual amendment: Words in s. 1(1)(a) substituted (16.1.2025) by [Lords Spiritual (Women) Act 2015 (Extension) Act 2025 (c. 1)](https://www.legislation.gov.uk/ukpga/2025/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2025/1/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2025/1/section/2/2)
+[^c-d457ece7667e1a04afea05b5cd193fce]: Textual amendment: Words in s. 1(1)(a) substituted (16.1.2025) by [Lords Spiritual (Women) Act 2015 (Extension) Act 2025 (c. 1)](https://www.legislation.gov.uk/ukpga/2025/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2025/1/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2025/1/section/2/2)

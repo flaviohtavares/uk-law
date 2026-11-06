@@ -37,7 +37,7 @@ summary: ''
 
 (5) The Authority may provide services for persons concerned with the sea fish industry of countries other than the United Kingdom but shall not do so unless—[^c8101651]
 
-- (a) [^key-90c15778edcade66c48d433101fc2eb7]... the full cost of the services is recovered by fees; and
+- (a) [^c-90c15778edcade66c48d433101fc2eb7]... the full cost of the services is recovered by fees; and
 - (b) the Authority is satisfied that the services can be provided without prejudice to its other activities.
 
 (6)[^c8101661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -48,6 +48,6 @@ summary: ''
 
 [^c8101651]: Textual amendment: Words substituted by [S.I. 1989/1190](https://www.legislation.gov.uk/uksi/1989/1190), [reg. 2(3)](https://www.legislation.gov.uk/uksi/1989/1190/regulation/2/3)
 
-[^key-90c15778edcade66c48d433101fc2eb7]: Textual amendment: Words in [s. 3(5)(a)](https://www.legislation.gov.uk/ukpga/1981/29/section/3/5/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 35](https://www.legislation.gov.uk/ukpga/2020/22/section/35), [54(3)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/d) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-90c15778edcade66c48d433101fc2eb7]: Textual amendment: Words in [s. 3(5)(a)](https://www.legislation.gov.uk/ukpga/1981/29/section/3/5/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 35](https://www.legislation.gov.uk/ukpga/2020/22/section/35), [54(3)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/d) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c8101661]: Textual amendment: S. 3(6) repealed (17.6.2002) by [2002 c. 1](https://www.legislation.gov.uk/ukpga/2002/1), [s. 19](https://www.legislation.gov.uk/ukpga/2002/1/section/19), [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/1/schedule/4) (with [Sch. 5 paras. 1-5](https://www.legislation.gov.uk/ukpga/2002/1/schedule/5/paragraph/1)); [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408), [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2)

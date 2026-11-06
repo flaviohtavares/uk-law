@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Notices of seizure or retention[^key-5848ee1a1064ce6e1a4f201c1d46a80a]
+## 25. Notices of seizure or retention[^c-5848ee1a1064ce6e1a4f201c1d46a80a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5848ee1a1064ce6e1a4f201c1d46a80a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/6/section/25) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-5848ee1a1064ce6e1a4f201c1d46a80a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/6/section/25) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

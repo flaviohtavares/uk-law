@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Time limit for when development must begin[^key-75591143597ab6899148f6d5c6b49e4c]
+## 55. Time limit for when development must begin[^c-75591143597ab6899148f6d5c6b49e4c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75591143597ab6899148f6d5c6b49e4c]: Commencement: Art. 55 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-75591143597ab6899148f6d5c6b49e4c]: Commencement: Art. 55 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

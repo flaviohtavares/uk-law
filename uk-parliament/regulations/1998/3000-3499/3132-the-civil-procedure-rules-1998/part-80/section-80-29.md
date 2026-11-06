@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80.29. Application by the Secretary of State for reconsideration of decision[^key-b0028ea3ea761f9d3071a1825db0843b]
+## 80.29. Application by the Secretary of State for reconsideration of decision[^c-b0028ea3ea761f9d3071a1825db0843b]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ would cause information to be disclosed contrary to the public interest.
 
 ## Annotations
 
-[^key-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
+[^c-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)

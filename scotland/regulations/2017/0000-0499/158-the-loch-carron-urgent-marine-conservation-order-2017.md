@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The Loch Carron Urgent Marine Conservation Order 2017 (revoked)[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]
+The Loch Carron Urgent Marine Conservation Order 2017 (revoked)[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 20th May 2017
 
-[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and duration in force[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]
+## 1. Citation, commencement and duration in force[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]
+## 2. Interpretation[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The protected area[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]
+## 3. The protected area[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibited and regulated activities[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]
+## 4. Prohibited and regulated activities[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]
+## 5. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fa73c7f5a0f5ebff3d2dd879a2f3324]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/158) revoked (15.6.2017) by [The Loch Carron Urgent Marine Conservation (No. 2) Order 2017 (S.S.I. 2017/205)](https://www.legislation.gov.uk/ssi/2017/205), [arts. 1](https://www.legislation.gov.uk/ssi/2017/205/article/1), [6](https://www.legislation.gov.uk/ssi/2017/205/article/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2017/205/article/1/2))
+[^c-0fa73c7f5a0f5ebff3d2dd879a2f3324]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/158) revoked (15.6.2017) by [The Loch Carron Urgent Marine Conservation (No. 2) Order 2017 (S.S.I. 2017/205)](https://www.legislation.gov.uk/ssi/2017/205), [arts. 1](https://www.legislation.gov.uk/ssi/2017/205/article/1), [6](https://www.legislation.gov.uk/ssi/2017/205/article/6) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2017/205/article/1/2))

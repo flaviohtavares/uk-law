@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Enhanced consumer measures[^key-d3f9a0e950b127e1bd30e74c1e8eb856][^key-296574dbd35b79d4c77db5f897da00c1]
+## 221. Enhanced consumer measures[^c-d3f9a0e950b127e1bd30e74c1e8eb856][^c-296574dbd35b79d4c77db5f897da00c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3f9a0e950b127e1bd30e74c1e8eb856]: Commencement: S. 221 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d3f9a0e950b127e1bd30e74c1e8eb856]: Commencement: S. 221 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-296574dbd35b79d4c77db5f897da00c1]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2024/13/section/221) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-296574dbd35b79d4c77db5f897da00c1]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2024/13/section/221) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

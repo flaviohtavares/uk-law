@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89C. Activities carried on by members of the legal profession, etc[^key-fd587d458904e282055d596dc590f48b][^key-f8d8e8dec0d867ac5eda3a1c76304af0]
+## 89C. Activities carried on by members of the legal profession, etc[^c-fd587d458904e282055d596dc590f48b][^c-f8d8e8dec0d867ac5eda3a1c76304af0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd587d458904e282055d596dc590f48b]: Textual amendment: [Art. 89C](https://www.legislation.gov.uk/uksi/2001/544/article/89C) substituted (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2015/853/article/3/7)
+[^c-fd587d458904e282055d596dc590f48b]: Textual amendment: [Art. 89C](https://www.legislation.gov.uk/uksi/2001/544/article/89C) substituted (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2015/853/article/3/7)
 
-[^key-f8d8e8dec0d867ac5eda3a1c76304af0]: Textual amendment: Pt. 3A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [8(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/8/2)
+[^c-f8d8e8dec0d867ac5eda3a1c76304af0]: Textual amendment: Pt. 3A inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [8(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/8/2)

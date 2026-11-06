@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Appeals against determinations based on medical evidence[^key-b75d5f51739ef17a4c662b722ff8cabc]
+## 164. Appeals against determinations based on medical evidence[^c-b75d5f51739ef17a4c662b722ff8cabc]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the scheme manager must, within 14 days of making, confirming or revising the de
 
 ## Annotations
 
-[^key-b75d5f51739ef17a4c662b722ff8cabc]: Commencement: Reg. 164 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-b75d5f51739ef17a4c662b722ff8cabc]: Commencement: Reg. 164 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Individual accounts[^key-6668a76ed4c1b7cae3477bd51301cc41]
+## 8. Individual accounts[^c-6668a76ed4c1b7cae3477bd51301cc41]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6668a76ed4c1b7cae3477bd51301cc41]: Commencement: Reg. 8 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-6668a76ed4c1b7cae3477bd51301cc41]: Commencement: Reg. 8 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00025]: Footnote: Section 394A as applied to LLPs was inserted into regulation 9 of [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911) by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), regulation 20(1) and (5)(b).
 

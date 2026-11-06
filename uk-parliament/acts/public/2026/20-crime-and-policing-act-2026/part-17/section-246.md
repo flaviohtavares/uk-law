@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Extradition: cases where a person has been convicted[^key-f8a588c00887afbeb01765eefc57e0ce][^key-f6528486610d5981ad39756f0eedcd3b]
+## 246. Extradition: cases where a person has been convicted[^c-f8a588c00887afbeb01765eefc57e0ce][^c-f6528486610d5981ad39756f0eedcd3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a588c00887afbeb01765eefc57e0ce]: Commencement: S. 246 not in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-f8a588c00887afbeb01765eefc57e0ce]: Commencement: S. 246 not in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
 
-[^key-f6528486610d5981ad39756f0eedcd3b]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2026/20/section/246) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/960/regulation/6))
+[^c-f6528486610d5981ad39756f0eedcd3b]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2026/20/section/246) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/960/regulation/6))

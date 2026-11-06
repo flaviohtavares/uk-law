@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Right to refer matters to Tribunal[^key-463825320ac84b77396f9def6ccf9195]
+## 49. Right to refer matters to Tribunal[^c-463825320ac84b77396f9def6ccf9195]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-463825320ac84b77396f9def6ccf9195]: Commencement: Reg. 49 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-463825320ac84b77396f9def6ccf9195]: Commencement: Reg. 49 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

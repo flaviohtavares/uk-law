@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-The Marketing Authorisations for Veterinary Medicinal Products Amendment Regulations 2000 (revoked)[^key-ebe586a6854551c3177d7f4b8dce6bdb]
+The Marketing Authorisations for Veterinary Medicinal Products Amendment Regulations 2000 (revoked)[^c-ebe586a6854551c3177d7f4b8dce6bdb]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 14th April 2000
 
-[^key-ebe586a6854551c3177d7f4b8dce6bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe586a6854551c3177d7f4b8dce6bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-ebe586a6854551c3177d7f4b8dce6bdb]
+## 1. Title and commencement[^c-ebe586a6854551c3177d7f4b8dce6bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994[^key-ebe586a6854551c3177d7f4b8dce6bdb]
+## 2. Amendment of the Marketing Authorisations for Veterinary Medicinal Products Regulations 1994[^c-ebe586a6854551c3177d7f4b8dce6bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ebe586a6854551c3177d7f4b8dce6bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe586a6854551c3177d7f4b8dce6bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ebe586a6854551c3177d7f4b8dce6bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe586a6854551c3177d7f4b8dce6bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ebe586a6854551c3177d7f4b8dce6bdb]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-ebe586a6854551c3177d7f4b8dce6bdb]: Textual amendment: Regulations revoked (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/1/a), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/1) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

@@ -30,7 +30,7 @@ summary: ''
 - (a) shall also cease to hold office at that time; but
 - (b) may continue to exercise the functions of his office until immediately before those offices are filled in accordance with this section.
 
-(3)[^key-8c4226898fd02746d849ac00e8cbc262] Where at any time the offices of First Minister and deputy First Minister become vacant otherwise than by virtue of section 16A(11A), they shall be filled by applying subsections (4) to (7) before the end of the period for filling the offices of First Minister and deputy First Minister.
+(3)[^c-8c4226898fd02746d849ac00e8cbc262] Where at any time the offices of First Minister and deputy First Minister become vacant otherwise than by virtue of section 16A(11A), they shall be filled by applying subsections (4) to (7) before the end of the period for filling the offices of First Minister and deputy First Minister.
 
 (3A) In this section “**the period for filling the offices of First Minister and deputy First Minister**” means the period comprising—
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c20123141]: Textual amendment: Ss. 16A-16C substituted (8.5.2007) for s. 16 by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2006/53/section/8/1), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)) (with s. 1(3)): [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
-[^key-8c4226898fd02746d849ac00e8cbc262]: Textual amendment: [S. 16B(3)-(3C)](https://www.legislation.gov.uk/ukpga/1998/47/section/16B/3) substituted for [s. 16B(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/16B/3) (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2022/2/section/1/4), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
+[^c-8c4226898fd02746d849ac00e8cbc262]: Textual amendment: [S. 16B(3)-(3C)](https://www.legislation.gov.uk/ukpga/1998/47/section/16B/3) substituted for [s. 16B(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/16B/3) (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2022/2/section/1/4), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))

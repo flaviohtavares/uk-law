@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Deadlines for consultation and decisions on certain orders and schemes[^key-531b6a14b38d7597adbc2e3b9890bb6d][^key-d5178c5f825819c524b9fa92dad08067]
+## 33. Deadlines for consultation and decisions on certain orders and schemes[^c-531b6a14b38d7597adbc2e3b9890bb6d][^c-d5178c5f825819c524b9fa92dad08067]
 
 *Extent: E+W*
 
@@ -146,6 +146,6 @@ summary: ''
 
 ## Annotations
 
-[^key-531b6a14b38d7597adbc2e3b9890bb6d]: Commencement: S. 33 not in force at Royal Assent, see [s. 118(1)(s)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/s)
+[^c-531b6a14b38d7597adbc2e3b9890bb6d]: Commencement: S. 33 not in force at Royal Assent, see [s. 118(1)(s)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/s)
 
-[^key-d5178c5f825819c524b9fa92dad08067]: Commencement: S. 33 in force at 1.9.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/4/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/641/regulation/7))
+[^c-d5178c5f825819c524b9fa92dad08067]: Commencement: S. 33 in force at 1.9.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/4/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/641/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Power of search with warrant[^key-283905e5d035d4beae9ad42e94268bb5]
+## 26. Power of search with warrant[^c-283905e5d035d4beae9ad42e94268bb5]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-283905e5d035d4beae9ad42e94268bb5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2015/10/section/26) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-283905e5d035d4beae9ad42e94268bb5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2015/10/section/26) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

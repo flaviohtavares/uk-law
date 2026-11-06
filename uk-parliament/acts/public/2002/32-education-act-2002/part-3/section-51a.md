@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51A. Exclusion of pupils: England[^key-ff12c6896a22f138502dd278652dfd8c][^key-b0367dcdd2e15d6071489baeb0712e92]
+## 51A. Exclusion of pupils: England[^c-ff12c6896a22f138502dd278652dfd8c][^c-b0367dcdd2e15d6071489baeb0712e92]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff12c6896a22f138502dd278652dfd8c]: Textual amendment: S. 51A inserted (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/4/2), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1087/article/4))
+[^c-ff12c6896a22f138502dd278652dfd8c]: Textual amendment: S. 51A inserted (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/4/2), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1087/article/4))
 
-[^key-b0367dcdd2e15d6071489baeb0712e92]: Modification: S. 51A applied (with modifications) (1.9.2012) by [The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012 (S.I. 2012/1033)](https://www.legislation.gov.uk/uksi/2012/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2012/1033/regulation/21) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/2))
+[^c-b0367dcdd2e15d6071489baeb0712e92]: Modification: S. 51A applied (with modifications) (1.9.2012) by [The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012 (S.I. 2012/1033)](https://www.legislation.gov.uk/uksi/2012/1033), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2012/1033/regulation/21) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1033/regulation/1/2))

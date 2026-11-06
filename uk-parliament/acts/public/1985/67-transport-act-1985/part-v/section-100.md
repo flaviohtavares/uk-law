@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Provisions Supplementary to sections 96 to 99[^c19483021][^c19472471][^c10881561][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 100. Provisions Supplementary to sections 96 to 99[^c19483021][^c19472471][^c10881561][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W+S*
 
@@ -69,6 +69,6 @@ but if any such authority make any payment, in or towards the discharge of that 
 
     Ss. 93-102 applied (24.7.2001) by [S.I. 2001/3627](https://www.legislation.gov.uk/uksi/2001/3627), [art. 51](https://www.legislation.gov.uk/uksi/2001/3627/article/51)
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)

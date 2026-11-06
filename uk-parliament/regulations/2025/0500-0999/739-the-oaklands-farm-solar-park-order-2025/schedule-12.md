@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^key-5e58096d5bc28149398e29709266c308]
+## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^c-5e58096d5bc28149398e29709266c308]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ Articles 2 and 34
 
 ## Annotations
 
-[^key-5e58096d5bc28149398e29709266c308]: Commencement: Sch. 12 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-5e58096d5bc28149398e29709266c308]: Commencement: Sch. 12 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Regulated roles[^key-d8e7135b8288daa3b78adb425ebd0023]
+## 91. Regulated roles[^c-d8e7135b8288daa3b78adb425ebd0023]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e7135b8288daa3b78adb425ebd0023]: Textual amendment: [S. 91](https://www.legislation.gov.uk/asp/2007/14/section/91) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 74(2)](https://www.legislation.gov.uk/asp/2020/13/section/74/2), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2025/27/regulation/12))
+[^c-d8e7135b8288daa3b78adb425ebd0023]: Textual amendment: [S. 91](https://www.legislation.gov.uk/asp/2007/14/section/91) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 74(2)](https://www.legislation.gov.uk/asp/2020/13/section/74/2), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2025/27/regulation/12))

@@ -22,7 +22,7 @@ summary: ''
 
 1. Non-Union goods presented to customs shall be covered by a temporary storage declaration containing all the particulars necessary for the application of the provisions governing temporary storage.
 
-2. Documents related to goods in temporary storage shall be provided to the customs authorities where [^key-d0d5720814d9e8019f48b2398ff3abc8]... legislation so requires or where necessary for customs controls.
+2. Documents related to goods in temporary storage shall be provided to the customs authorities where [^c-d0d5720814d9e8019f48b2398ff3abc8]... legislation so requires or where necessary for customs controls.
 
 3. The temporary storage declaration shall be lodged by one of the persons referred to in Article 139(1) or (3)[^c000003] at the latest at the time of the presentation of the goods to customs.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d5720814d9e8019f48b2398ff3abc8]: Textual amendment: Word in [Art. 145(2)](https://www.legislation.gov.uk/eur/2013/952/article/145/2) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2019/715/regulation/2/3/f) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0d5720814d9e8019f48b2398ff3abc8]: Textual amendment: Word in [Art. 145(2)](https://www.legislation.gov.uk/eur/2013/952/article/145/2) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2019/715/regulation/2/3/f) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (Official Journal of the European Union L 269 of 10 October 2013)](https://www.legislation.gov.uk/eur/2013/952/pdfs/eurcs_20130952_en_002.pdf).

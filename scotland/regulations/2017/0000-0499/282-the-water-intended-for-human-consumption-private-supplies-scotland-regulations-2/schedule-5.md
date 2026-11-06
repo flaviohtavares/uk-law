@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 3(1) and 15
 
-### 1. Application[^key-fa696847647277592ecc78785ad715ab]
+### 1. Application[^c-fa696847647277592ecc78785ad715ab]
 
 (1) A water supplier who introduces water into, or uses, a private water supply system for the purposes of supplying water to the premises of another person may, in respect of the water supplied, make an application in writing to the enforcing authority (in relation to the water) for a derogation from a parametric value in Table B.
 
@@ -30,7 +30,7 @@ Regulations 3(1) and 15
 
 (3) The application must include the things referred to in paragraph 3(3)(a) to (f).
 
-### 2. Notification of decision[^key-9ba982021b373d85368fef3ae10146b0]
+### 2. Notification of decision[^c-9ba982021b373d85368fef3ae10146b0]
 
 (1) The enforcing authority may, by notice to the applicant, either—
 
@@ -39,7 +39,7 @@ Regulations 3(1) and 15
 
 (2) The enforcing authority must, as soon as practicable after giving the notice to the applicant, send a copy of the notice to the Drinking Water Quality Regulator for Scotland.
 
-### 3. Conditions[^key-0c3e82f8da39055d98f7b8811e3ba530]
+### 3. Conditions[^c-0c3e82f8da39055d98f7b8811e3ba530]
 
 (1) A derogation may only be granted—
 
@@ -60,7 +60,7 @@ Regulations 3(1) and 15
 
 (4) Before the end of the duration of a derogation (granted under this regulation), the enforcing authority must carry out a review to determine whether sufficient progress has been made (in relation to the plan and timetable for the necessary remedial action).
 
-### 4. Second derogation[^key-d22ac123a076fe9d34768eb7d7bef0b2]
+### 4. Second derogation[^c-d22ac123a076fe9d34768eb7d7bef0b2]
 
 (1) The enforcing authority may, if appropriate, grant a further derogation (“second derogation”) from a parametric value of up to 3 years in respect of water supplied to premises if—
 
@@ -69,7 +69,7 @@ Regulations 3(1) and 15
 
 (2) Paragraphs 1 to 3 apply to a second derogation as they apply to a first derogation.
 
-### 5. Supplementary[^key-563d5cdb4e87822160fbbaf3c5388f84]
+### 5. Supplementary[^c-563d5cdb4e87822160fbbaf3c5388f84]
 
 (1) If the enforcing authority considers that a failure to meet a parametric value was trivial, and if action taken in accordance with regulation 21(c) is sufficient to remedy the problem within 30 days, paragraph 3(3) does not apply and the enforcing authority must instead specify in the notice only—
 
@@ -78,7 +78,7 @@ Regulations 3(1) and 15
 
 (2) Sub-paragraph (1) does not apply if a failure to comply with a parametric value for a given water supply has occurred on more than 30 days on aggregate during the previous 12 months.
 
-### 6. Notification[^key-eb0c2e1d4f74cf16da9eb0a69817b7e7]
+### 6. Notification[^c-eb0c2e1d4f74cf16da9eb0a69817b7e7]
 
 Where a derogation is granted to an applicant, the applicant must ensure—
 
@@ -87,14 +87,14 @@ Where a derogation is granted to an applicant, the applicant must ensure—
 
 ## Annotations
 
-[^key-fa696847647277592ecc78785ad715ab]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-fa696847647277592ecc78785ad715ab]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-9ba982021b373d85368fef3ae10146b0]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-9ba982021b373d85368fef3ae10146b0]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-0c3e82f8da39055d98f7b8811e3ba530]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-0c3e82f8da39055d98f7b8811e3ba530]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-d22ac123a076fe9d34768eb7d7bef0b2]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-d22ac123a076fe9d34768eb7d7bef0b2]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-563d5cdb4e87822160fbbaf3c5388f84]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/5) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-563d5cdb4e87822160fbbaf3c5388f84]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/5) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-eb0c2e1d4f74cf16da9eb0a69817b7e7]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/6) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-eb0c2e1d4f74cf16da9eb0a69817b7e7]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2017/282/schedule/5/paragraph/6) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

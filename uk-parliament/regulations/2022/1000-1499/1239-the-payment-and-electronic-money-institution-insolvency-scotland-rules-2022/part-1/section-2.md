@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Commencement[^key-7d5fbfd3b63fbd6794fe83bc47a343fb]
+## 2. Commencement[^c-7d5fbfd3b63fbd6794fe83bc47a343fb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules come into force on 19th December 2022.
 
 ## Annotations
 
-[^key-7d5fbfd3b63fbd6794fe83bc47a343fb]: Commencement: Rule 2 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-7d5fbfd3b63fbd6794fe83bc47a343fb]: Commencement: Rule 2 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

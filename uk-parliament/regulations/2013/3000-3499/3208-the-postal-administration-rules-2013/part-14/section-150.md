@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Power of Secretary of State to regulate certain matters[^key-2ab3a8f99048262bf217ad1720de4f80]
+## 150. Power of Secretary of State to regulate certain matters[^c-2ab3a8f99048262bf217ad1720de4f80]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab3a8f99048262bf217ad1720de4f80]: Commencement: [Rule 150](https://www.legislation.gov.uk/uksi/2013/3208/rule/150) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2ab3a8f99048262bf217ad1720de4f80]: Commencement: [Rule 150](https://www.legislation.gov.uk/uksi/2013/3208/rule/150) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

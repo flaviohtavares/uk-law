@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Sederunt book[^key-ef1da6ce041d7c63b063b5f33e7d4d11]
+## 123. Sederunt book[^c-ef1da6ce041d7c63b063b5f33e7d4d11]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef1da6ce041d7c63b063b5f33e7d4d11]: Commencement: Rule 123 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-ef1da6ce041d7c63b063b5f33e7d4d11]: Commencement: Rule 123 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00058]: Footnote: Rule 7.33 was amended by paragraph 51 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), and paragraph 10 of Schedule 2(1) to [S.I. 2003/2111](https://www.legislation.gov.uk/uksi/2003/2111).

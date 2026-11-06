@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Supply by other persons[^key-085d4185df34cabdafd090b615791121][^key-3b6eef564474a556c3681710e38c6e9c]
+## 41. Supply by other persons[^c-085d4185df34cabdafd090b615791121][^c-3b6eef564474a556c3681710e38c6e9c]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ For the purposes of section 38(1), a fire and rescue authority may enter into an
 
 ## Annotations
 
-[^key-085d4185df34cabdafd090b615791121]: Commencement: S. 41 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-085d4185df34cabdafd090b615791121]: Commencement: S. 41 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-3b6eef564474a556c3681710e38c6e9c]: Commencement: S. 41 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-3b6eef564474a556c3681710e38c6e9c]: Commencement: S. 41 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

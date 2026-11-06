@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Water Environment (Amendment of Part IIA of the Environmental Protection Act 1990: Contaminated Land) (Scotland) Regulations 2016 (revoked)[^key-ea50f47c7557ff026b71978ad32ef1a5]
+The Water Environment (Amendment of Part IIA of the Environmental Protection Act 1990: Contaminated Land) (Scotland) Regulations 2016 (revoked)[^c-ea50f47c7557ff026b71978ad32ef1a5]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 8th March 2016
 
-[^key-ea50f47c7557ff026b71978ad32ef1a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea50f47c7557ff026b71978ad32ef1a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ea50f47c7557ff026b71978ad32ef1a5]
+## 1. Citation and commencement[^c-ea50f47c7557ff026b71978ad32ef1a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of section 78YB of the Environmental Protection Act 1990[^key-ea50f47c7557ff026b71978ad32ef1a5]
+## 2. Amendment of section 78YB of the Environmental Protection Act 1990[^c-ea50f47c7557ff026b71978ad32ef1a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea50f47c7557ff026b71978ad32ef1a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea50f47c7557ff026b71978ad32ef1a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ea50f47c7557ff026b71978ad32ef1a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea50f47c7557ff026b71978ad32ef1a5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea50f47c7557ff026b71978ad32ef1a5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/99) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-ea50f47c7557ff026b71978ad32ef1a5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/99) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

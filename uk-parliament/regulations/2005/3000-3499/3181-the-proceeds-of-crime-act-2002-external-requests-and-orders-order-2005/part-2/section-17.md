@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Restrictions relating to restraint orders[^key-a74ebd54f673232147ea6de6e9b1c617]
+## 17. Restrictions relating to restraint orders[^c-a74ebd54f673232147ea6de6e9b1c617]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 (6) Before exercising any power conferred by paragraph (5), the court must give an opportunity to be heard to—
 
 - (a) the relevant Director, and
-- (b) any receiver appointed in respect of the property under article 15 or 27[^key-e0ac9081acdff430ebffafbb7a7d7374].
+- (b) any receiver appointed in respect of the property under article 15 or 27[^c-e0ac9081acdff430ebffafbb7a7d7374].
 
 ## Annotations
 
-[^key-a74ebd54f673232147ea6de6e9b1c617]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2005/3181/article/17) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a74ebd54f673232147ea6de6e9b1c617]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2005/3181/article/17) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-e0ac9081acdff430ebffafbb7a7d7374]: Textual amendment: Words in [art. 17(6)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/17/6/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2008/302/article/2/6)
+[^c-e0ac9081acdff430ebffafbb7a7d7374]: Textual amendment: Words in [art. 17(6)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/17/6/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2008/302/article/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Schools budget[^key-a124770957ef31fb074207ced2267bd7]
+## 6. Schools budget[^c-a124770957ef31fb074207ced2267bd7]
 
 *Extent: E+W*
 
@@ -30,11 +30,11 @@ summary: ''
 
 but only in so far as such expenditure—
 
-- (a) does not fall within a class or description of expenditure prescribed by regulation 4 for the purposes of section 45A(1) of the 1998 Act and the determination of a local authority’s non-schools education budget[^key-f4a311c0c6f989ab642d84e7b6bd5856], and
+- (a) does not fall within a class or description of expenditure prescribed by regulation 4 for the purposes of section 45A(1) of the 1998 Act and the determination of a local authority’s non-schools education budget[^c-f4a311c0c6f989ab642d84e7b6bd5856], and
 - (b) is not excepted expenditure.
 
 ## Annotations
 
-[^key-a124770957ef31fb074207ced2267bd7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/824/regulation/6) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-a124770957ef31fb074207ced2267bd7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/824/regulation/6) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
 
-[^key-f4a311c0c6f989ab642d84e7b6bd5856]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/6/2/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/19/6)
+[^c-f4a311c0c6f989ab642d84e7b6bd5856]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/6/2/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 19(6)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/19/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment of regulation 16[^key-9a68725145ede70b878aaf6e5234e492]
+## 18. Amendment of regulation 16[^c-9a68725145ede70b878aaf6e5234e492]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ In regulation 16—
 
 ## Annotations
 
-[^key-9a68725145ede70b878aaf6e5234e492]: Commencement: Reg. 18 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-9a68725145ede70b878aaf6e5234e492]: Commencement: Reg. 18 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

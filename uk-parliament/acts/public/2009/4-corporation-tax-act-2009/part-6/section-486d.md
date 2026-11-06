@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486D. Exclusion where arrangement has no tax avoidance purpose[^key-bdd9e92399c0e53fb3e19d45bbff1128][^key-d2c098ff5a88d27bc5ce87b60d28df9c]
+## 486D. Exclusion where arrangement has no tax avoidance purpose[^c-bdd9e92399c0e53fb3e19d45bbff1128][^c-d2c098ff5a88d27bc5ce87b60d28df9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,14 +37,14 @@ summary: ''
 
 at the time when amounts would be brought into account in relation to the return in accordance with section 486B.
 
-(5)[^key-7d222206be93d0ec4180f6ad91f568cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7d222206be93d0ec4180f6ad91f568cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-7d222206be93d0ec4180f6ad91f568cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7d222206be93d0ec4180f6ad91f568cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bdd9e92399c0e53fb3e19d45bbff1128]: Modification: Ss. 486C-486E excluded (19.7.2011) by 1988 c. 1, Sch. 25 para. 12F(6) (as inserted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/3))
+[^c-bdd9e92399c0e53fb3e19d45bbff1128]: Modification: Ss. 486C-486E excluded (19.7.2011) by 1988 c. 1, Sch. 25 para. 12F(6) (as inserted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/3))
 
-[^key-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
+[^c-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
 
-[^key-7d222206be93d0ec4180f6ad91f568cc]: Textual amendment: S. 486D(5)(6) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/26) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-7d222206be93d0ec4180f6ad91f568cc]: Textual amendment: S. 486D(5)(6) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/26) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-*(not yet in force: The Senior President of Tribunals is responsible, within the resources made available by the Lord Chancellor, for the maintenance of appropriate arrangements for the training, guidance and welfare of members of panels of members of employment tribunals (in their capacities as members of such panels, whether or not panels of)* *(not yet in force: Employment Judges[^key-d7727b56cf382725ad51b220fb288214])* *(not yet in force: ).)*
+*(not yet in force: The Senior President of Tribunals is responsible, within the resources made available by the Lord Chancellor, for the maintenance of appropriate arrangements for the training, guidance and welfare of members of panels of members of employment tribunals (in their capacities as members of such panels, whether or not panels of)* *(not yet in force: Employment Judges[^c-d7727b56cf382725ad51b220fb288214])* *(not yet in force: ).)*
 
 ## Annotations
 
 [^c19528781]: Textual amendment: Ss. 5A-5D inserted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/48/1), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/40); S.I. 2008/2696, art. 5(c)(i) (with art. 3)
 
-[^key-d7727b56cf382725ad51b220fb288214]: Textual amendment: Words in s. 5A substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-d7727b56cf382725ad51b220fb288214]: Textual amendment: Words in s. 5A substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/1); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)

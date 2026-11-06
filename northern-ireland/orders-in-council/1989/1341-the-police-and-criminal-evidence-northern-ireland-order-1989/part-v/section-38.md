@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Duties of custody officer before charge[^key-0794a43fef67c1ba3e87e9b3fdd3c369]
+## 38. Duties of custody officer before charge[^c-0794a43fef67c1ba3e87e9b3fdd3c369]
 
 *Extent: N.I.*
 
@@ -91,7 +91,7 @@ is in force in respect of an arrested juvenile, the custody officer shall also i
 
 ## Annotations
 
-[^key-0794a43fef67c1ba3e87e9b3fdd3c369]: Modification: [Art. 38](https://www.legislation.gov.uk/nisi/1989/1341/article/38) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-0794a43fef67c1ba3e87e9b3fdd3c369]: Modification: [Art. 38](https://www.legislation.gov.uk/nisi/1989/1341/article/38) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20415651]: Modification: [Art. 38(1)-(10)](https://www.legislation.gov.uk/nisi/1989/1341/article/38/1) applied (with modifications) (1.12.2007) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [arts. 3-15](https://www.legislation.gov.uk/nisr/2007/464/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/464/schedule/2)
 

@@ -36,7 +36,7 @@ An Act to amend the Charities Act 1992 and the Charities Act 2011.
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Official warnings by the Commission[^key-770ac026c16361aca0632bf700be64b5]
+## 1. Official warnings by the Commission[^c-770ac026c16361aca0632bf700be64b5]
 
 Before section 76 of the Charities Act 2011, after the heading “Powers of Commission to act for protection of charities etc” insert—
 
@@ -82,20 +82,20 @@ Before section 76 of the Charities Act 2011, after the heading “Powers of Comm
 
 ## 2. Investigations and power to suspend
 
-(1)[^key-a8ece33507c0b64f341c330e1dbf3467] Section 76 of the Charities Act 2011 (suspension of trustees etc and appointment of interim managers) is amended as follows.
+(1)[^c-a8ece33507c0b64f341c330e1dbf3467] Section 76 of the Charities Act 2011 (suspension of trustees etc and appointment of interim managers) is amended as follows.
 
-(2)[^key-e8de69a569397c450ce823a5f443578f][^key-6f73eac0e54394027357072155789219] In subsection (1)(a), for “any” substitute “ a failure to comply with an order or direction of the Commission, a failure to remedy any breach specified in a warning under section 75A, or any other ”.
+(2)[^c-e8de69a569397c450ce823a5f443578f][^c-6f73eac0e54394027357072155789219] In subsection (1)(a), for “any” substitute “ a failure to comply with an order or direction of the Commission, a failure to remedy any breach specified in a warning under section 75A, or any other ”.
 
-(3)[^key-a8ece33507c0b64f341c330e1dbf3467] In subsection (4), at the end insert “ , subject to any extension under subsection (7) ”.
+(3)[^c-a8ece33507c0b64f341c330e1dbf3467] In subsection (4), at the end insert “ , subject to any extension under subsection (7) ”.
 
-(4)[^key-a8ece33507c0b64f341c330e1dbf3467] At the end add—
+(4)[^c-a8ece33507c0b64f341c330e1dbf3467] At the end add—
 
 > (7) At any time before the expiry of an order under paragraph (a) of subsection (3) the Commission may extend or further extend the suspension by an order under that paragraph, provided that—
 >
 > - (a) the order does not extend the suspension for a period of more than 12 months, and
 > - (b) the total period of suspension is not more than 2 years.
 
-## 3. Range of conduct to be considered when exercising powers[^key-2d4ff60928bf50f33d5561a5117effd5]
+## 3. Range of conduct to be considered when exercising powers[^c-2d4ff60928bf50f33d5561a5117effd5]
 
 After section 76 of the Charities Act 2011 insert—
 
@@ -116,7 +116,7 @@ After section 76 of the Charities Act 2011 insert—
 > - (a) the conduct of that person in relation to any other charity;
 > - (b) any other conduct of that person that appears to the Commission to be damaging or likely to be damaging to public trust and confidence in charities generally or particular charities or classes of charity.
 
-## 4. Power to remove trustees etc following an inquiry[^key-1c4ef757ad9b5f098c8fd4e019e340a8]
+## 4. Power to remove trustees etc following an inquiry[^c-1c4ef757ad9b5f098c8fd4e019e340a8]
 
 (1) The Charities Act 2011 is amended as follows.
 
@@ -157,7 +157,7 @@ After section 76 of the Charities Act 2011 insert—
 - (a) in column 1, after “79(2)” insert “ or (4) ”;
 - (b) in column 2, for “79(2)(a)” substitute “ 79(4) ”.
 
-## 5. Power to remove disqualified trustee[^key-475cc01fb680f96e3ddbaae9440f290b]
+## 5. Power to remove disqualified trustee[^c-475cc01fb680f96e3ddbaae9440f290b]
 
 (1) The Charities Act 2011 is amended as follows.
 
@@ -182,7 +182,7 @@ After section 76 of the Charities Act 2011 insert—
 
 (5) In section 89(5) (notice inviting representations on order to remove), after “an order under this Act” insert “ , other than an order under section 79A, ”.
 
-## 6. Power to direct specified action not to be taken[^key-9ba53e361e2fa3df26624cbf03f5e245]
+## 6. Power to direct specified action not to be taken[^c-9ba53e361e2fa3df26624cbf03f5e245]
 
 (1) The Charities Act 2011 is amended as follows.
 
@@ -206,7 +206,7 @@ After section 76 of the Charities Act 2011 insert—
 > | --- | --- | --- |
 > | Order made by the Commission under section 84A(2) which directs a person not to take action specified in the order. | The persons are any person who is directed by the order not to take the specified action. | Power to quash the order and (if appropriate) remit the matter to the Commission. |
 
-## 7. Power to direct winding up[^key-d272854c24e50468a64aca7ca6a25e2c]
+## 7. Power to direct winding up[^c-d272854c24e50468a64aca7ca6a25e2c]
 
 (1) The Charities Act 2011 is amended as follows.
 
@@ -261,7 +261,7 @@ After section 76 of the Charities Act 2011 insert—
 > | Order made by the Commission under section 84B(2) which directs a person to take action specified in the order. | The persons are any person who is directed by the order to take the specified action. | Power to quash the order and (if appropriate) remit the matter to the Commission. |
 > | Order made by the Commission under section 84B(2) which directs a person to do anything that could otherwise only be done by the members of the charity or any of them. | The persons are the member or members concerned. | Power to quash the order and (if appropriate) remit the matter to the Commission. |
 
-## 8. Power to direct property to be applied to another charity[^key-d802ddd4f0f01382962e33e1611b52ec]
+## 8. Power to direct property to be applied to another charity[^c-d802ddd4f0f01382962e33e1611b52ec]
 
 (1) Section 85 of the Charities Act 2011 (power to direct application of charity property where person is unwilling) is amended as follows.
 
@@ -273,11 +273,11 @@ After section 76 of the Charities Act 2011 insert—
 
 ## 9. Automatic disqualification from being a trustee
 
-(1)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] The Charities Act 2011 is amended as follows.
+(1)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] The Charities Act 2011 is amended as follows.
 
-(2)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] Section 178 (persons disqualified from being charity trustees or trustees for a charity) is amended as follows.
+(2)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] Section 178 (persons disqualified from being charity trustees or trustees for a charity) is amended as follows.
 
-(3)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (1), in Case A, for “of any offence involving dishonesty or deception.” substitute
+(3)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (1), in Case A, for “of any offence involving dishonesty or deception.” substitute
 
 > of—
 >
@@ -287,9 +287,9 @@ After section 76 of the Charities Act 2011 insert—
 (4) In Case D—
 
 - (a) for “from the office of charity trustee or trustee for a charity” substitute “ as a trustee, charity trustee, officer, agent or employee of a charity ”;
-- (b)[^key-76409729ee40c2fea640f5f259e919cd] for “to which P was privy,” substitute “ which P knew of and failed to take any reasonable step to oppose, ”.
+- (b)[^c-76409729ee40c2fea640f5f259e919cd] for “to which P was privy,” substitute “ which P knew of and failed to take any reasonable step to oppose, ”.
 
-(5)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] At the end of subsection (1) insert—
+(5)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] At the end of subsection (1) insert—
 
 > *Case H*
 >
@@ -313,7 +313,7 @@ After section 76 of the Charities Act 2011 insert—
 >
 > P is subject to the notification requirements of Part 2 of the Sexual Offences Act 2003.
 
-(6)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] After subsection (2) insert—
+(6)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] After subsection (2) insert—
 
 > (3) While a person is disqualified under this section in relation to a charity, the person is also disqualified from holding an office or employment in the charity with senior management functions.
 >
@@ -322,7 +322,7 @@ After section 76 of the Charities Act 2011 insert—
 > - (a) it relates to the management of the charity, and A is not responsible for it to another officer or employee (other than a charity trustee or trustee for the charity), or
 > - (b) it involves control over money and the only officer or employee (other than a charity trustee or trustee for the charity) to whom A is responsible for it is a person with senior management functions other than ones involving control over money.
 
-(7)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] After section 178 insert—
+(7)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] After section 178 insert—
 
 > **178A. Case A: specified offences**
 >
@@ -347,56 +347,56 @@ After section 76 of the Charities Act 2011 insert—
 >
 > (4) The Minister may amend this section by regulations to add or remove an offence.
 
-(8)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] Section 179 (disqualification: pre-commencement events etc) is amended as follows.
+(8)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] Section 179 (disqualification: pre-commencement events etc) is amended as follows.
 
-(9)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (1), after “178(1)” insert “ or section 178A or any amendment of that section ”.
+(9)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (1), after “178(1)” insert “ or section 178A or any amendment of that section ”.
 
-(10)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] At the end add—
+(10)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] At the end add—
 
 > (7) Case H does not apply in relation to a finding of contempt which, if it had been a conviction for which P was dealt with in the same way, would be a spent conviction for the purposes of the Rehabilitation of Offenders Act 1974.
 
-(11)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] Section 181 (waiver of disqualification) is amended as follows.
+(11)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] Section 181 (waiver of disqualification) is amended as follows.
 
-(12)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] After subsection (2) insert—
+(12)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] After subsection (2) insert—
 
 > (2A) A waiver under subsection (2)—
 >
 > - (a) may relate to the whole of P's disqualification or only to disqualification under section 178(3);
 > - (b) in relation to disqualification under section 178(3) may relate to a particular office or employment or to any office or employment of a particular description.
 
-(13)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (3) (presumption for waiver after 5 years) for “or E” substitute “ , E or I ”.
+(13)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (3) (presumption for waiver after 5 years) for “or E” substitute “ , E or I ”.
 
-(14)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In section 183 (criminal consequences of acting while disqualified), in subsection (1)—
+(14)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In section 183 (criminal consequences of acting while disqualified), in subsection (1)—
 
 - (a) after “for a charity” insert “ or to hold an office or employment ”;
 - (b) after “such a trustee” insert “ or from holding that office or employment ”.
 
-(15)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] Section 184 (civil consequences of acting while disqualified) is amended as follows.
+(15)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] Section 184 (civil consequences of acting while disqualified) is amended as follows.
 
-(16)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsections (1) and (2)(a)—
+(16)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsections (1) and (2)(a)—
 
 - (a) after “for a charity” insert “ or as officer or employee of a charity ”, and
 - (b) after “such a trustee” insert “ or from holding that office or employment ”.
 
-(17)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (2)(b) after “for the charity” insert “ or holding the office or employment ”.
+(17)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (2)(b) after “for the charity” insert “ or holding the office or employment ”.
 
-(18)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] Section 348 (regulations subject to affirmative procedure etc) is amended as follows.
+(18)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] Section 348 (regulations subject to affirmative procedure etc) is amended as follows.
 
-(19)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (1), after paragraph (b) insert—
+(19)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (1), after paragraph (b) insert—
 
 > - (ba) regulations under section 178A(4) (offences specified for automatic disqualification of charity trustees);
 
 .
 
-(20)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (2) after “(1)(a)” insert “ , (ba) ”.
+(20)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (2) after “(1)(a)” insert “ , (ba) ”.
 
-(21)[^key-b3be346f78bd9e46dda17a6a92c0b304][^key-c30ddc68ef0170cc5ac56fa08d582961] In subsection (4) after “regulations under—” insert—
+(21)[^c-b3be346f78bd9e46dda17a6a92c0b304][^c-c30ddc68ef0170cc5ac56fa08d582961] In subsection (4) after “regulations under—” insert—
 
 > - (za) section 178A(4), if the regulations add an offence,
 
 .
 
-## 10. Power to disqualify from being a trustee[^key-961e9b0c34b34329bf9d4b3b302dc8ec]
+## 10. Power to disqualify from being a trustee[^c-961e9b0c34b34329bf9d4b3b302dc8ec]
 
 (1) The Charities Act 2011 is amended as follows.
 
@@ -576,28 +576,28 @@ After section 76 of the Charities Act 2011 insert—
 
 ## 11. Records of disqualification and removal
 
-(1)[^key-551f212a7ba8a4f172ff9386d4bc7db4] Section 182 of the Charities Act 2011 (records of persons removed from office) is amended as follows.
+(1)[^c-551f212a7ba8a4f172ff9386d4bc7db4] Section 182 of the Charities Act 2011 (records of persons removed from office) is amended as follows.
 
-(2)[^key-551f212a7ba8a4f172ff9386d4bc7db4] In subsection (1)—
+(2)[^c-551f212a7ba8a4f172ff9386d4bc7db4] In subsection (1)—
 
 - (a) for “181” substitute “ 181A ”;
 - (b) after “a register of” insert, “ the following. ”
 
-(3)[^key-551f212a7ba8a4f172ff9386d4bc7db4] The words in subsection (1) from “all persons” to the end become subsection (1A).
+(3)[^c-551f212a7ba8a4f172ff9386d4bc7db4] The words in subsection (1) from “all persons” to the end become subsection (1A).
 
-(4)[^key-551f212a7ba8a4f172ff9386d4bc7db4] At the beginning of that subsection insert—
+(4)[^c-551f212a7ba8a4f172ff9386d4bc7db4] At the beginning of that subsection insert—
 
 > (1A) The register must include
 
 .
 
-(5)[^key-3cfaf7f5907e30ed231192b768e6a073][^key-b62d5b5e835a674b282cac1f9ad46828] After subsection (1A) insert—
+(5)[^c-3cfaf7f5907e30ed231192b768e6a073][^c-b62d5b5e835a674b282cac1f9ad46828] After subsection (1A) insert—
 
 > (1B) The register must include all persons who have been disqualified by an order of the Commission under section 181A.
 >
 > (1C) The register must include all persons who have been removed from office by an order of the Commission under section 79A (removal of disqualified trustee).
 
-## 12. Participation in corporate decisions while disqualified[^key-ed35553e3cdc5b67c0eafabb94d8cca6]
+## 12. Participation in corporate decisions while disqualified[^c-ed35553e3cdc5b67c0eafabb94d8cca6]
 
 In the Charities Act 2011, after section 184 insert—
 
@@ -610,7 +610,7 @@ In the Charities Act 2011, after section 184 insert—
 >
 > (2) In subsection (1) “**officer**” includes any of the persons having general control and management of the administration of the body.
 
-## 13. Fund-raising[^key-f969b4f4973c4b8b178b0c1666e22a46]
+## 13. Fund-raising[^c-f969b4f4973c4b8b178b0c1666e22a46]
 
 (1) Section 59 of the Charities Act 1992 (prohibition on certain fund-raising without agreement in prescribed form), is amended as follows.
 
@@ -656,7 +656,7 @@ In the Charities Act 2011, after section 184 insert—
 >
 > (4) Section 58(6) and (7) of the Charities Act 1992 (references to soliciting money etc) apply for the purposes of this section as they apply for the purposes of Part 2 of that Act.
 
-## 14. Reserve powers to control fund-raising[^key-ece7208b938b75e013b0c132a7644f70]
+## 14. Reserve powers to control fund-raising[^c-ece7208b938b75e013b0c132a7644f70]
 
 (1) The Charities Act 1992 is amended as follows.
 
@@ -696,7 +696,7 @@ In the Charities Act 2011, after section 184 insert—
 
 (5) In section 77(4) (regulations and orders) at the end insert “ and, in the case of regulations made by virtue of section 64B or 64C, shall in particular consult the Charity Commission. ”
 
-## 15. Power to make social investments[^key-6b97271e9d07d23eb454b608ccefbf2b]
+## 15. Power to make social investments[^c-6b97271e9d07d23eb454b608ccefbf2b]
 
 (1) In the Charities Act 2011, after section 292 insert—
 
@@ -790,21 +790,21 @@ In the Charities Act 2011, after section 184 insert—
 
 > (5) This section has effect subject to section 292C(6) of the Charities Act 2011 (which disapplies the duties under this section in cases where they would otherwise apply in relation to a social investment within the meaning of Part 14A of that Act).
 
-## 16. Reviews of the operation of this Act[^key-7213a22b7e54732d70486509a429f21f]
+## 16. Reviews of the operation of this Act[^c-7213a22b7e54732d70486509a429f21f]
 
-(1) The Secretary of State[^key-1d473a3c539e945d5ace070afa9a7fde] must carry out reviews of the operation of this Act including, on each review, how the Act affects—
+(1) The Secretary of State[^c-1d473a3c539e945d5ace070afa9a7fde] must carry out reviews of the operation of this Act including, on each review, how the Act affects—
 
 - (a) public confidence in charities,
 - (b) the level of charitable donations, and
 - (c) people's willingness to volunteer.
 
-(2) After each review the Secretary of State[^key-61e57ba1880bcfafbf9a8afce7ff8707] must publish a report of the review and lay a copy before Parliament.
+(2) After each review the Secretary of State[^c-61e57ba1880bcfafbf9a8afce7ff8707] must publish a report of the review and lay a copy before Parliament.
 
 (3) The reports must be published not more than 5 years apart.
 
 (4) The first review must begin within 3 years after this Act is passed, and the report of that review must be published within 4 years after this Act is passed.
 
-## 17. Short title, extent and commencement[^key-0c7a36af003ce079a54f535613005d47]
+## 17. Short title, extent and commencement[^c-0c7a36af003ce079a54f535613005d47]
 
 (1) This Act may be cited as the Charities (Protection and Social Investment) Act 2016.
 
@@ -812,7 +812,7 @@ In the Charities Act 2011, after section 184 insert—
 
 (3) This section and section 16 come into force on the day on which this Act is passed.
 
-(4) The other provisions of this Act come into force on whatever day the Secretary of State[^key-e3c2ab5c8e20bb32f6c73f4fc0147d52] appoints by regulations made by statutory instrument.
+(4) The other provisions of this Act come into force on whatever day the Secretary of State[^c-e3c2ab5c8e20bb32f6c73f4fc0147d52] appoints by regulations made by statutory instrument.
 
 (5) The regulations—
 
@@ -821,54 +821,54 @@ In the Charities Act 2011, after section 184 insert—
 
 ## Annotations
 
-[^key-770ac026c16361aca0632bf700be64b5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/4/section/1) in force at 1.11.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/a)
+[^c-770ac026c16361aca0632bf700be64b5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/4/section/1) in force at 1.11.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/a)
 
-[^key-a8ece33507c0b64f341c330e1dbf3467]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/1)[(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/4) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
+[^c-a8ece33507c0b64f341c330e1dbf3467]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/1)[(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/4) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
 
-[^key-e8de69a569397c450ce823a5f443578f]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/2) in force at 31.7.2016 for specified purposes by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
+[^c-e8de69a569397c450ce823a5f443578f]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/2) in force at 31.7.2016 for specified purposes by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
 
-[^key-6f73eac0e54394027357072155789219]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/2) in force at 1.11.2016 in so far as not already in force by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/b)
+[^c-6f73eac0e54394027357072155789219]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/2) in force at 1.11.2016 in so far as not already in force by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/b)
 
-[^key-2d4ff60928bf50f33d5561a5117effd5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/4/section/3) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/b)
+[^c-2d4ff60928bf50f33d5561a5117effd5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/4/section/3) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/b)
 
-[^key-1c4ef757ad9b5f098c8fd4e019e340a8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/4/section/4) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
+[^c-1c4ef757ad9b5f098c8fd4e019e340a8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/4/section/4) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
 
-[^key-475cc01fb680f96e3ddbaae9440f290b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/4/section/5) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)
+[^c-475cc01fb680f96e3ddbaae9440f290b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/4/section/5) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/d)
 
-[^key-9ba53e361e2fa3df26624cbf03f5e245]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/4/section/6) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
+[^c-9ba53e361e2fa3df26624cbf03f5e245]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/4/section/6) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
 
-[^key-d272854c24e50468a64aca7ca6a25e2c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/4/section/7) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)
+[^c-d272854c24e50468a64aca7ca6a25e2c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/4/section/7) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)
 
-[^key-d802ddd4f0f01382962e33e1611b52ec]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/4/section/8) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/g)
+[^c-d802ddd4f0f01382962e33e1611b52ec]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/4/section/8) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/g)
 
-[^key-b3be346f78bd9e46dda17a6a92c0b304]: Commencement: S. 9(1)-(3)(4)(a)(5)-(21) in force at 1.2.2018 for specified purposes by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 2](https://www.legislation.gov.uk/uksi/2018/47/regulation/2)
+[^c-b3be346f78bd9e46dda17a6a92c0b304]: Commencement: S. 9(1)-(3)(4)(a)(5)-(21) in force at 1.2.2018 for specified purposes by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 2](https://www.legislation.gov.uk/uksi/2018/47/regulation/2)
 
-[^key-c30ddc68ef0170cc5ac56fa08d582961]: Commencement: S. 9(1)-(3)(4)(a)(5)-(21) in force at 1.8.2018 in so far as not already in force by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/47/regulation/4))
+[^c-c30ddc68ef0170cc5ac56fa08d582961]: Commencement: S. 9(1)-(3)(4)(a)(5)-(21) in force at 1.8.2018 in so far as not already in force by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/47/regulation/4))
 
-[^key-76409729ee40c2fea640f5f259e919cd]: Commencement: S. 9(4)(b) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/h)
+[^c-76409729ee40c2fea640f5f259e919cd]: Commencement: S. 9(4)(b) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/h)
 
-[^key-961e9b0c34b34329bf9d4b3b302dc8ec]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/4/section/10) in force at 1.10.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/a)
+[^c-961e9b0c34b34329bf9d4b3b302dc8ec]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/4/section/10) in force at 1.10.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/a)
 
-[^key-551f212a7ba8a4f172ff9386d4bc7db4]: Commencement: [S. 11(1)-(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/11/1) in force at 1.8.2018 by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/b)
+[^c-551f212a7ba8a4f172ff9386d4bc7db4]: Commencement: [S. 11(1)-(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/11/1) in force at 1.8.2018 by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/b)
 
-[^key-3cfaf7f5907e30ed231192b768e6a073]: Commencement: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2016/4/section/11/5) in force at 31.7.2016 for specified purposes by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/i)
+[^c-3cfaf7f5907e30ed231192b768e6a073]: Commencement: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2016/4/section/11/5) in force at 31.7.2016 for specified purposes by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/i)
 
-[^key-b62d5b5e835a674b282cac1f9ad46828]: Commencement: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2016/4/section/11/5) in force at 1.10.2016 in so far as not already in force by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/b)
+[^c-b62d5b5e835a674b282cac1f9ad46828]: Commencement: [S. 11(5)](https://www.legislation.gov.uk/ukpga/2016/4/section/11/5) in force at 1.10.2016 in so far as not already in force by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/b)
 
-[^key-ed35553e3cdc5b67c0eafabb94d8cca6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/4/section/12) in force at 1.8.2018 by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/c)
+[^c-ed35553e3cdc5b67c0eafabb94d8cca6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/4/section/12) in force at 1.8.2018 by [S.I. 2018/47](https://www.legislation.gov.uk/uksi/2018/47), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/47/regulation/3/c)
 
-[^key-f969b4f4973c4b8b178b0c1666e22a46]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/4/section/13) in force at 1.11.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/815/regulation/5))
+[^c-f969b4f4973c4b8b178b0c1666e22a46]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/4/section/13) in force at 1.11.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/815/regulation/5))
 
-[^key-ece7208b938b75e013b0c132a7644f70]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/4/section/14) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/j)
+[^c-ece7208b938b75e013b0c132a7644f70]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/4/section/14) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/j)
 
-[^key-6b97271e9d07d23eb454b608ccefbf2b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/4/section/15) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)
+[^c-6b97271e9d07d23eb454b608ccefbf2b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/4/section/15) in force at 31.7.2016 by [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)
 
-[^key-7213a22b7e54732d70486509a429f21f]: Modification: S. 16 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [10(2)(i)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/i) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-7213a22b7e54732d70486509a429f21f]: Modification: S. 16 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [10(2)(i)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/i) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-1d473a3c539e945d5ace070afa9a7fde]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/16/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/31/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-1d473a3c539e945d5ace070afa9a7fde]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/16/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 31(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/31/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-61e57ba1880bcfafbf9a8afce7ff8707]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/16/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 31(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/31/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-61e57ba1880bcfafbf9a8afce7ff8707]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/16/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 31(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/31/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-0c7a36af003ce079a54f535613005d47]: Modification: S. 17 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [10(2)(i)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/i) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-0c7a36af003ce079a54f535613005d47]: Modification: S. 17 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [10(2)(i)](https://www.legislation.gov.uk/uksi/2016/997/article/10/2/i) (with [arts. 10(3)](https://www.legislation.gov.uk/uksi/2016/997/article/10/3), [11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-e3c2ab5c8e20bb32f6c73f4fc0147d52]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 31(2)(b)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/31/2/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-e3c2ab5c8e20bb32f6c73f4fc0147d52]: Textual amendment: Words in [s. 17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 31(2)(b)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/31/2/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

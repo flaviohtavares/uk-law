@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Administrator appointments by creditors etc[^key-a4f86058f35cead9c7d6fe87b37e1f6b]
+## 10. Administrator appointments by creditors etc[^c-a4f86058f35cead9c7d6fe87b37e1f6b]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ a person may not take any step to make an appointment.
 
 ## Annotations
 
-[^key-a4f86058f35cead9c7d6fe87b37e1f6b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/19/section/10) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-a4f86058f35cead9c7d6fe87b37e1f6b]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/19/section/10) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

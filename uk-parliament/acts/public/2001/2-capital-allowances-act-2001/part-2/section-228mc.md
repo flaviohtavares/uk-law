@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228MC. Rental rebate[^key-c6db12f738b0278f6bd74ec764f3731c]
+## 228MC. Rental rebate[^c-c6db12f738b0278f6bd74ec764f3731c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6db12f738b0278f6bd74ec764f3731c]: Textual amendment: Ss. 228MA-228MC inserted (8.4.2010) (with effect in accordance with Sch. 5 para. 1(2) to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/1/1)
+[^c-c6db12f738b0278f6bd74ec764f3731c]: Textual amendment: Ss. 228MA-228MC inserted (8.4.2010) (with effect in accordance with Sch. 5 para. 1(2) to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/1/1)

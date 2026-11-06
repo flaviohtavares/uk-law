@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Supply of specified article[^key-acd0656cc4a9d4fcee694b7bb6356730][^key-385c53eecc83f45b239f3c5b8b6ddf60]
+## 155. Supply of specified article[^c-acd0656cc4a9d4fcee694b7bb6356730][^c-385c53eecc83f45b239f3c5b8b6ddf60]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acd0656cc4a9d4fcee694b7bb6356730]: Commencement: S. 155 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-acd0656cc4a9d4fcee694b7bb6356730]: Commencement: S. 155 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-385c53eecc83f45b239f3c5b8b6ddf60]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2026/20/section/155) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/b)
+[^c-385c53eecc83f45b239f3c5b8b6ddf60]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2026/20/section/155) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Provision in favour of small firework manufacturer who may obtain a license from the local authority.[^key-fa7e9474546ee648d4577f323ab09ecd]
+## 48. Provision in favour of small firework manufacturer who may obtain a license from the local authority.[^c-fa7e9474546ee648d4577f323ab09ecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa7e9474546ee648d4577f323ab09ecd]: Textual amendment: Ss. 44-51 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-fa7e9474546ee648d4577f323ab09ecd]: Textual amendment: Ss. 44-51 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))

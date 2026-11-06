@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330. Meaning of “qualifying lender”[^key-bee251a67d1887d19fdf6ed3f65ef15b]
+## 330. Meaning of “qualifying lender”[^c-bee251a67d1887d19fdf6ed3f65ef15b]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bee251a67d1887d19fdf6ed3f65ef15b]: Commencement: Art. 330 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bee251a67d1887d19fdf6ed3f65ef15b]: Commencement: Art. 330 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

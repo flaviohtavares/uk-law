@@ -24,7 +24,7 @@ summary: ''
 
 Regulations 2(1) and 10 and Schedule 4 Part I paragraphs 7 and 20
 
-### Part I — Principal processes used for the preparation of the feed materials listed in Part II of this Schedule[^key-e051fe9b86bcb20d1e0ebe7476651af7]
+### Part I — Principal processes used for the preparation of the feed materials listed in Part II of this Schedule[^c-e051fe9b86bcb20d1e0ebe7476651af7]
 
 <table>
 <thead>
@@ -55,7 +55,7 @@ Regulations 2(1) and 10 and Schedule 4 Part I paragraphs 7 and 20
 </tbody>
 </table>
 
-### Part II — Non-exclusive list of the main feed materials[^key-7445e5605737dd6f3fa5d03b432fed40]
+### Part II — Non-exclusive list of the main feed materials[^c-7445e5605737dd6f3fa5d03b432fed40]
 
 #### Introductory Notes
 
@@ -380,7 +380,7 @@ Feed materials are listed and named in this Part according to the following crit
 </tbody>
 </table>
 
-### Part III — Other Feed Materials[^key-1805fbae8df6c1b8d42ecb03ac084436]
+### Part III — Other Feed Materials[^c-1805fbae8df6c1b8d42ecb03ac084436]
 
 <table>
 <thead>
@@ -411,8 +411,8 @@ Feed materials are listed and named in this Part according to the following crit
 
 ## Annotations
 
-[^key-e051fe9b86bcb20d1e0ebe7476651af7]: Commencement: Sch. 2 Pt. I in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-e051fe9b86bcb20d1e0ebe7476651af7]: Commencement: Sch. 2 Pt. I in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-7445e5605737dd6f3fa5d03b432fed40]: Commencement: Sch. 2 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7445e5605737dd6f3fa5d03b432fed40]: Commencement: Sch. 2 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-1805fbae8df6c1b8d42ecb03ac084436]: Commencement: Sch. 2 Pt. III in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-1805fbae8df6c1b8d42ecb03ac084436]: Commencement: Sch. 2 Pt. III in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

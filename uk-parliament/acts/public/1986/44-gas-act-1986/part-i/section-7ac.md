@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7AC. Licensing of a person performing code manager function[^key-4fe685151c37f3cddd05e63ea2993c73]
+## 7AC. Licensing of a person performing code manager function[^c-4fe685151c37f3cddd05e63ea2993c73]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fe685151c37f3cddd05e63ea2993c73]: Textual amendment: [S. 7AC](https://www.legislation.gov.uk/ukpga/1986/44/section/7AC) inserted (10.9.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 185(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/185/6), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ii)
+[^c-4fe685151c37f3cddd05e63ea2993c73]: Textual amendment: [S. 7AC](https://www.legislation.gov.uk/ukpga/1986/44/section/7AC) inserted (10.9.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 185(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/185/6), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ii)

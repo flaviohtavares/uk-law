@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Summoning of meetings[^key-2c11ab8c5baaa86b8de7276906c000a0]
+## 15. Summoning of meetings[^c-2c11ab8c5baaa86b8de7276906c000a0]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c11ab8c5baaa86b8de7276906c000a0]: Commencement: S. 15 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2c11ab8c5baaa86b8de7276906c000a0]: Commencement: S. 15 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

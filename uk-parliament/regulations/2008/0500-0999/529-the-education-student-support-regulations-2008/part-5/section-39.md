@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Qualifying conditions for the disabled students’ allowance[^key-0d2a966bce566c837c9ac5d76987dcc2]
+## 39. Qualifying conditions for the disabled students’ allowance[^c-0d2a966bce566c837c9ac5d76987dcc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ An eligible student qualifies for a grant to assist with the additional expendit
 
 ## Annotations
 
-[^key-0d2a966bce566c837c9ac5d76987dcc2]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-0d2a966bce566c837c9ac5d76987dcc2]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

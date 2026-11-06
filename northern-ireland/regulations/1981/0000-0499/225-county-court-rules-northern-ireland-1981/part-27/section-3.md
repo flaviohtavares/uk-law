@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. ESCP proceedings[^key-9950307e91854ea535a46507a871f3f9]
+## 3. ESCP proceedings[^c-9950307e91854ea535a46507a871f3f9]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9950307e91854ea535a46507a871f3f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9950307e91854ea535a46507a871f3f9]: Textual amendment: Order 27 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2019/234/rule/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9950307e91854ea535a46507a871f3f9]: Textual amendment: Order 27 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2019/234/rule/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

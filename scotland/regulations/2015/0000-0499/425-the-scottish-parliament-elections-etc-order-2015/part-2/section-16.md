@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Returning officers: discharge of functions[^key-3e795751d3b1d20f6da139d768259a27]
+## 16. Returning officers: discharge of functions[^c-3e795751d3b1d20f6da139d768259a27]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e795751d3b1d20f6da139d768259a27]: Commencement: Art. 16 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-3e795751d3b1d20f6da139d768259a27]: Commencement: Art. 16 in force at 16.12.2015 in accordance with art. 1(1)

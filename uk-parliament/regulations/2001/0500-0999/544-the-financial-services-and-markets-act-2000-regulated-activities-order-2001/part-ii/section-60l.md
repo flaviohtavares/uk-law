@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60L. Interpretation of Chapter 14A etc.[^key-715a373f306ef1d29d9e1397179a518c]
+## 60L. Interpretation of Chapter 14A etc.[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
   - (b) where P is a body corporate—
     - (i) any person who is a controller (“C”) of P, and
     - (ii) any other person for whom C is a controller;
-- “borrower” means (except in relation to green deal plans: see instead article 60LB) *(Extent: E+W+S)*[^key-70ec2eeb18bdfc2b1f155bca31b42d16] a person who receives credit under a credit agreement or a person to whom the rights and duties of a borrower under a credit agreement have passed by assignment or operation of law;
+- “borrower” means (except in relation to green deal plans: see instead article 60LB) *(Extent: E+W+S)*[^c-70ec2eeb18bdfc2b1f155bca31b42d16] a person who receives credit under a credit agreement or a person to whom the rights and duties of a borrower under a credit agreement have passed by assignment or operation of law;
 - “borrower-lender agreement” means—
   - (a) a credit agreement—
     - (i) to finance a transaction between the borrower and a person (“the supplier”) other than the lender, and
@@ -53,7 +53,7 @@ summary: ''
     - (ii) made by the lender under pre-existing arrangements between the lender and a person (“the supplier”) other than the borrower in the knowledge that the credit is to be used to finance a transaction between the borrower and the supplier;
 - “conditional sale agreement” means an agreement for the sale of goods or land under which the purchase price or part of it is payable by instalments, and the property in the goods or land is to remain with the seller (notwithstanding that the buyer is to be in possession of the goods or land) until such conditions as to the payment of instalments or otherwise as may be specified in the agreement are fulfilled;
 - “credit” includes a cash loan and any other form of financial accommodation;
-- “credit agreement” has the meaning given by article 60B; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c7ee0ebf985302a5405b1cdccd9afcfc]
+- “credit agreement” has the meaning given by article 60B; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c7ee0ebf985302a5405b1cdccd9afcfc]
 
   “credit agreement”— *(Extent: E+W+S)*
 
@@ -73,8 +73,8 @@ summary: ''
     - (i) the exercise by P of an option to purchase the goods;
     - (ii) the doing by any party to the agreement of any other act specified in the agreement;
     - (iii) the happening of any event specified in the agreement;
-- “legal or equitable[^key-05ac649db72503537579173fa904be7e] mortgage” includes a legal or equitable[^key-52ce4c40cf4da633256685ffd0a6a6f3] charge and, in Scotland, a heritable security;
-- “lender” means (except in relation to green deal plans: see instead article 60LB) *(Extent: E+W+S)*[^key-33691085f8e4964edfc216b62f6e4fc4]—
+- “legal or equitable[^c-05ac649db72503537579173fa904be7e] mortgage” includes a legal or equitable[^c-52ce4c40cf4da633256685ffd0a6a6f3] charge and, in Scotland, a heritable security;
+- “lender” means (except in relation to green deal plans: see instead article 60LB) *(Extent: E+W+S)*[^c-33691085f8e4964edfc216b62f6e4fc4]—
   - (a) the person providing credit under a credit agreement, or
   - (b) a person who exercises or has the right to exercise the rights and duties of a person who provided credit under such an agreement;
 - “payment” (except in article 60F) means a payment comprising or including an amount in respect of credit;
@@ -95,7 +95,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1A)[^key-528754b079e9f36a1a104b107a0f6dfd] For the purposes of this Chapter, a credit agreement that is a green deal plan is to be treated as—
+(1A)[^c-528754b079e9f36a1a104b107a0f6dfd] For the purposes of this Chapter, a credit agreement that is a green deal plan is to be treated as—
 
 - (a) a borrower-lender-supplier agreement falling within paragraph (a) of the definition of “borrower-lender-supplier agreement”;
 - (b) a restricted-use credit agreement falling within paragraph (a) of the definition of “restricted-use credit agreement”.
@@ -105,9 +105,9 @@ summary: ''
 - (a) a credit agreement does not fall within the definition if the credit is in fact provided in such a way as to leave the borrower free to use it as the borrower chooses, even though certain uses would contravene that or any other agreement; and
 - (b) an agreement may fall within paragraph (b) of the definition even though the identity of the supplier is unknown at the time the agreement is made.
 
-(3) For the purposes of the definition of “borrower-lender agreement” and the definition of “borrower-lender-supplier agreement”[^key-3db49ec8f4971b30f76a5a2a6fb34d9f], a credit agreement is, subject to paragraph (6), entered into under pre-existing arrangements between a lender and a supplier if it is entered into in accordance with, or in connection with, arrangements previously made between the lender (or the lender’s associate) and the supplier (or the supplier’s associate) unless the arrangements fall within paragraph (5).
+(3) For the purposes of the definition of “borrower-lender agreement” and the definition of “borrower-lender-supplier agreement”[^c-3db49ec8f4971b30f76a5a2a6fb34d9f], a credit agreement is, subject to paragraph (6), entered into under pre-existing arrangements between a lender and a supplier if it is entered into in accordance with, or in connection with, arrangements previously made between the lender (or the lender’s associate) and the supplier (or the supplier’s associate) unless the arrangements fall within paragraph (5).
 
-(4) For the purposes of the definition of “borrower-lender agreement” and the definition of “borrower-lender-supplier agreement”[^key-100f18a1d541c5d5af6c6e273b5ebc72], a credit agreement is entered into in contemplation of future arrangements between a lender and a supplier if it is entered into in the expectation that arrangements will subsequently be made between the lender (or the lender’s associate) and the supplier (or the supplier’s associate) for the supply of cash, goods or services to be financed by the credit agreement unless the arrangements fall within paragraph (5).
+(4) For the purposes of the definition of “borrower-lender agreement” and the definition of “borrower-lender-supplier agreement”[^c-100f18a1d541c5d5af6c6e273b5ebc72], a credit agreement is entered into in contemplation of future arrangements between a lender and a supplier if it is entered into in the expectation that arrangements will subsequently be made between the lender (or the lender’s associate) and the supplier (or the supplier’s associate) for the supply of cash, goods or services to be financed by the credit agreement unless the arrangements fall within paragraph (5).
 
 (5) Arrangements fall within this paragraph if they are—
 
@@ -122,7 +122,7 @@ summary: ''
 
 (9) For the purposes of this Chapter, where credit is provided otherwise than in sterling, it is to be treated as provided in sterling of an equivalent amount.
 
-(10)[^key-bc5f8818958b638881add1219ce563cd] For the purposes of this Chapter, where a provision specifies an amount of credit, running-account credit shall be taken not to exceed the amount specified in that provision (“the specified amount”) if—
+(10)[^c-bc5f8818958b638881add1219ce563cd] For the purposes of this Chapter, where a provision specifies an amount of credit, running-account credit shall be taken not to exceed the amount specified in that provision (“the specified amount”) if—
 
 - (a) the credit limit does not exceed the specified amount; or
 - (b) the credit limit exceeds the specified amount, or there is no credit limit, and—
@@ -134,22 +134,22 @@ summary: ''
 
 ## Annotations
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
 
-[^key-70ec2eeb18bdfc2b1f155bca31b42d16]: Textual amendment: Words in art. 60L(1) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-70ec2eeb18bdfc2b1f155bca31b42d16]: Textual amendment: Words in art. 60L(1) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-c7ee0ebf985302a5405b1cdccd9afcfc]: Textual amendment: Words in art. 60L(1) substituted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-c7ee0ebf985302a5405b1cdccd9afcfc]: Textual amendment: Words in art. 60L(1) substituted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-05ac649db72503537579173fa904be7e]: Textual amendment: Words in art. 60L(1) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(a)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/a/i)
+[^c-05ac649db72503537579173fa904be7e]: Textual amendment: Words in art. 60L(1) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(a)(i)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/a/i)
 
-[^key-52ce4c40cf4da633256685ffd0a6a6f3]: Textual amendment: Words in art. 60L(1) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/a/ii)
+[^c-52ce4c40cf4da633256685ffd0a6a6f3]: Textual amendment: Words in art. 60L(1) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/a/ii)
 
-[^key-33691085f8e4964edfc216b62f6e4fc4]: Textual amendment: Words in art. 60L(1) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/2/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-33691085f8e4964edfc216b62f6e4fc4]: Textual amendment: Words in art. 60L(1) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/2/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-528754b079e9f36a1a104b107a0f6dfd]: Textual amendment: Art. 60L(1A) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-528754b079e9f36a1a104b107a0f6dfd]: Textual amendment: Art. 60L(1A) inserted (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/8/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
-[^key-3db49ec8f4971b30f76a5a2a6fb34d9f]: Textual amendment: Words in art. 60L(3) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/b)
+[^c-3db49ec8f4971b30f76a5a2a6fb34d9f]: Textual amendment: Words in art. 60L(3) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/b)
 
-[^key-100f18a1d541c5d5af6c6e273b5ebc72]: Textual amendment: Words in art. 60L(4) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/b)
+[^c-100f18a1d541c5d5af6c6e273b5ebc72]: Textual amendment: Words in art. 60L(4) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(32)(b)](https://www.legislation.gov.uk/uksi/2014/366/article/2/32/b)
 
-[^key-bc5f8818958b638881add1219ce563cd]: Textual amendment: Art. 60L(10)(11) added (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2015/853/article/3/6)
+[^c-bc5f8818958b638881add1219ce563cd]: Textual amendment: Art. 60L(10)(11) added (24.3.2015) by [The Financial Services and Markets Act 2000 (Miscellaneous Provisions) Order 2015 (S.I. 2015/853)](https://www.legislation.gov.uk/uksi/2015/853), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/853/article/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2015/853/article/3/6)

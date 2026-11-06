@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Information about nationality of contributors to launch activities etc.[^key-e00ee59dd306de0c07b147536ac6ebdf]
+## 202. Information about nationality of contributors to launch activities etc.[^c-e00ee59dd306de0c07b147536ac6ebdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00ee59dd306de0c07b147536ac6ebdf]: Commencement: Reg. 202 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-e00ee59dd306de0c07b147536ac6ebdf]: Commencement: Reg. 202 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

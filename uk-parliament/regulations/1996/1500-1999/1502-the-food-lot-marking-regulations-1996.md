@@ -44,11 +44,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, the Secretary of State for Health and the Secretary of State for Wales, acting jointly, in relation to England and Wales, and the Secretary of State for Scotland in relation to Scotland, in exercise of the powers conferred on them by sections 6(4), 16(1)(e), 17(1), 26(1)(a) and (3) and 48(1) of the Food Safety Act 1990[^f00001], and of all other powers enabling them in that behalf, after consultation in accordance with section 48(4) of that Act with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations, hereby make the following Regulations:—
 
-## 1. Title and commencement[^key-eabce6dbb5f0812cff82dbbe77bd9a20]
+## 1. Title and commencement[^c-eabce6dbb5f0812cff82dbbe77bd9a20]
 
 These Regulations may be cited as the Food (Lot Marking) Regulations 1996 and shall come into force on 1 July 1996.
 
-## 2. Interpretation[^key-d4ed7bf759805408af07960c22377736][^M_E_1f0e2fa1-ea04-4a03-95a2-08daba406052][^key-1735af1018fdf588dc142e990a3a5ebf]
+## 2. Interpretation[^c-d4ed7bf759805408af07960c22377736][^M_E_1f0e2fa1-ea04-4a03-95a2-08daba406052][^c-1735af1018fdf588dc142e990a3a5ebf]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ In these Regulations—
 
 - “the Act” means the Food Safety Act 1990;
 - “date of minimum durability” is to be construed taking into account the definition of “date of minimum durability of a food” in Article 2(2)(r) of Regulation (EU) No 1169/2011;
-- [^key-3e9c9afccc934473536d676b49cc44a8]...
+- [^c-3e9c9afccc934473536d676b49cc44a8]...
 - “food” means food, within the meaning of the Act, intended for sale for human consumption;
 - “ice cream” has the same meaning as in Directive 2011/91/EU of the European Parliament and of the Council;
 - “lot” means a batch of sales units of food produced, manufactured or packaged under similar conditions;
@@ -75,29 +75,29 @@ In these Regulations—
 In these Regulations, except where the context requires otherwise—
 
 - “the Act” means the Food Safety Act 1990;
-- “[^key-d61d87f11dcfd0e18d60b749e11b4469]**date of minimum durability**” has the meaning given in Article 2(2)(r) of Regulation (EU) No 1169/2011;
-- [^key-9078ebdc917b6e36e2f34ca550a8b31f]...
-- [^key-38b18bb621981e6fda2ee900138edef2]...
+- “[^c-d61d87f11dcfd0e18d60b749e11b4469]**date of minimum durability**” has the meaning given in Article 2(2)(r) of Regulation (EU) No 1169/2011;
+- [^c-9078ebdc917b6e36e2f34ca550a8b31f]...
+- [^c-38b18bb621981e6fda2ee900138edef2]...
 - “food” means food, within the meaning of the Act, intended for sale for human consumption;
-- [^key-ffeb22e6a05374d22243dc03735f6b64]...
+- [^c-ffeb22e6a05374d22243dc03735f6b64]...
 - “**ice cream**” has the same meaning as in Directive 2011/91/EU of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs;
 - “lot” means a batch of sales units of food produced, manufactured or packaged under similar conditions;
 - “lot marking indication” means an indication which allows identification of the lot to which a sales unit of food belongs;
-- [^key-f2f92cf724fbbba3d345d97d1606f880]...
+- [^c-f2f92cf724fbbba3d345d97d1606f880]...
 - “**prepacked food**” has the meaning given in Article 2(2)(e) of Regulation (EU) No 1169/2011 and “prepacking” must be construed accordingly;
-- “prepacked for immediate sale” has the same meaning as “prepacked for direct sale” in Regulation ([^key-e2e6b97b8346cf8cdd76d3b241dd475e]EU) No 1169/2011;
+- “prepacked for immediate sale” has the same meaning as “prepacked for direct sale” in Regulation ([^c-e2e6b97b8346cf8cdd76d3b241dd475e]EU) No 1169/2011;
 - “**Regulation (EU) No 1169/2011**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation (EC) No 608/2004;
 - “sell” includes offer or expose for sale and have in possession for sale, and “sale” and “sold” shall be construed accordingly;
 - “**ultimate consumer**” has the same meaning as “**final consumer**” in point 18 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety; and
 - “**use by date**” has the same meaning as in Regulation (EU) No 1169/2011.
 
-## 3. Lot marking requirement[^key-8300f01014280396a860e5c059c54a2a]
+## 3. Lot marking requirement[^c-8300f01014280396a860e5c059c54a2a]
 
 (1) Subject to the exceptions specified in regulation 4 below, no person shall sell any food which forms part of a lot unless it is accompanied by a lot marking indication.
 
 (2) For the purposes of this regulation—
 
-- (a) a lot shall be determined as a lot to which food in the sales unit belongs by a producer, manufacturer, packager, or the first seller established within the[^key-cb4dfc8a1a670913f9b5a5aaaac0a251] United Kingdom *(Extent: S)*[^key-28cd5b00f1bd15525eb65e7dc59f0b33], of the food in question; and
+- (a) a lot shall be determined as a lot to which food in the sales unit belongs by a producer, manufacturer, packager, or the first seller established within the[^c-cb4dfc8a1a670913f9b5a5aaaac0a251] United Kingdom *(Extent: S)*[^c-28cd5b00f1bd15525eb65e7dc59f0b33], of the food in question; and
 - (b) a lot marking indication—
   - (i) shall be determined and affixed under the responsibility of one or other of those operators; and
   - (ii) shall be preceded by the letter “L”, except in cases where that lot marking indication is clearly distinguishable from the other indications on the packaging of the food or on a label attached to its packaging.
@@ -109,9 +109,9 @@ In these Regulations, except where the context requires otherwise—
 
 shall in all cases appear in such a way as to be easily visible, clearly legible and indelible.
 
-## 4. Exceptions for particular types of sale and sales units[^key-e938023edfd11dff54fa528fdb9016c9]
+## 4. Exceptions for particular types of sale and sales units[^c-e938023edfd11dff54fa528fdb9016c9]
 
-(1)[^key-8642a461c628e6b86569fa759f71dd38] Regulation 3 above shall not apply to the following—
+(1)[^c-8642a461c628e6b86569fa759f71dd38] Regulation 3 above shall not apply to the following—
 
 - (a) a sale of an agricultural product which, on leaving the holding of its production—
   - (i) is sold or delivered to a temporary storage, preparation or packaging station, or to a producer’s organisation; or
@@ -119,24 +119,24 @@ shall in all cases appear in such a way as to be easily visible, clearly legible
 - (b) a sale to the ultimate consumer of food where the food is not prepacked, is packed at the request of the purchaser or is prepacked for immediate sale;
 - (c) a sales unit of food which is in a container the area of the largest side of which is less than 10 square centimetres;
 - (d) a sales unit of food which is prepacked, sold as an individual portion for immediate consumption and which is intended as a minor accompaniment to either another food or another service;
-- (e) a sales unit of an individual portion of an ice cream[^key-084116430e9d92e8d2c692e831b6eb31] supplied to its seller in bulk packaging containing more than one such portion and bearing the lot marking indication which that portion would, but for this paragraph, have been required to bear;
-- (f (Extent: W) (affected by repeal, see note))[^key-9d4521239d723055e46bc05b23809191] a sale after these Regulations come into force— *(Extent: W)* *(affected by repeal, see note)*[^key-9d4521239d723055e46bc05b23809191]
-  - (i (Extent: W) (affected by repeal, see note))[^key-9d4521239d723055e46bc05b23809191] of a sales unit marked or labelled before 1 July 1992; or *(Extent: W)* *(affected by repeal, see note)*[^key-9d4521239d723055e46bc05b23809191]
-  - (ii (Extent: W) (affected by repeal, see note))[^key-9d4521239d723055e46bc05b23809191] of a sales unit before 1 January 1997 in a glass bottle intended for re-use which is indelibly marked and therefore bears no label, ring or collar; *(Extent: W)* *(affected by repeal, see note)*[^key-9d4521239d723055e46bc05b23809191]
-- (g) a sales unit of food which is marked or labelled with the date of minimum durability[^key-abe0cf785a2951b43a088dc621f018e9] or “use by” date which consists at least of the uncoded indication of the day and month in that order, whether or not Regulation ([^key-9e3e81bfee03364b10407eaf64ac7d6f]EU) No 1169/2011 requires it to be so marked or labelled;
-- (h)[^key-4602d7f6b0785c3afe9fe35bed7aac9f] a sales unit of food that is a qualifying Northern Ireland good within the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018; and
-- (i)[^key-c24bd4b1119a9a038496980266fd634d] a sales unit of EU Annex 15 wine that complies with the provisions of [Directive 2011/91/EU](https://www.legislation.gov.uk/european/directive/2011/0091) of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs, as implemented in either of the following—
+- (e) a sales unit of an individual portion of an ice cream[^c-084116430e9d92e8d2c692e831b6eb31] supplied to its seller in bulk packaging containing more than one such portion and bearing the lot marking indication which that portion would, but for this paragraph, have been required to bear;
+- (f (Extent: W) (affected by repeal, see note))[^c-9d4521239d723055e46bc05b23809191] a sale after these Regulations come into force— *(Extent: W)* *(affected by repeal, see note)*[^c-9d4521239d723055e46bc05b23809191]
+  - (i (Extent: W) (affected by repeal, see note))[^c-9d4521239d723055e46bc05b23809191] of a sales unit marked or labelled before 1 July 1992; or *(Extent: W)* *(affected by repeal, see note)*[^c-9d4521239d723055e46bc05b23809191]
+  - (ii (Extent: W) (affected by repeal, see note))[^c-9d4521239d723055e46bc05b23809191] of a sales unit before 1 January 1997 in a glass bottle intended for re-use which is indelibly marked and therefore bears no label, ring or collar; *(Extent: W)* *(affected by repeal, see note)*[^c-9d4521239d723055e46bc05b23809191]
+- (g) a sales unit of food which is marked or labelled with the date of minimum durability[^c-abe0cf785a2951b43a088dc621f018e9] or “use by” date which consists at least of the uncoded indication of the day and month in that order, whether or not Regulation ([^c-9e3e81bfee03364b10407eaf64ac7d6f]EU) No 1169/2011 requires it to be so marked or labelled;
+- (h)[^c-4602d7f6b0785c3afe9fe35bed7aac9f] a sales unit of food that is a qualifying Northern Ireland good within the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018; and
+- (i)[^c-c24bd4b1119a9a038496980266fd634d] a sales unit of EU Annex 15 wine that complies with the provisions of [Directive 2011/91/EU](https://www.legislation.gov.uk/european/directive/2011/0091) of the European Parliament and of the Council on indications or marks identifying the lot to which a foodstuff belongs, as implemented in either of the following—
   - (aa) the member State from which it was exported into Great Britain;
   - (bb) if exported from a member State into Great Britain having been labelled in a different member State, the member State in which it was so labelled.
 
-(2)[^key-d13dadb6a265fcfcd23ef19c4f083f82] In this regulation—
+(2)[^c-d13dadb6a265fcfcd23ef19c4f083f82] In this regulation—
 
 - (a) “**EU Annex 15 wine**” means wine—
   - (i) to which the first sentence of Article 4(3) (lot codes) of Annex 15 (trade in wine) to the Trade and Cooperation Agreement, as read with Article 1(1) (scope) of that Annex, applies, and
   - (ii) that is imported into Great Britain from a member State;
 - (b) “**the Trade and Cooperation Agreement**” has the same meaning as in section 37(1) of the European Union (Future Relationship) Act 2020.
 
-## 5. Enforcement[^key-ae1b0f8b3d514cf182e8bed63598303f]
+## 5. Enforcement[^c-ae1b0f8b3d514cf182e8bed63598303f]
 
 (1) If any person contravenes regulation 3 above he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -149,7 +149,7 @@ shall in all cases appear in such a way as to be easily visible, clearly legible
 
 (4) Where an offence under these Regulations is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of a partner he, as well as the partnership, shall be guilty of the offence and be liable to be proceeded against and punished accordingly.
 
-## 6. Application of provisions of the Food Safety Act[^key-86afae37384d84b2ab48c704c109addb]
+## 6. Application of provisions of the Food Safety Act[^c-86afae37384d84b2ab48c704c109addb]
 
 The following provisions of the Act shall apply for the purposes of these Regulations as they apply for the purpose of the Act and, unless the context otherwise requires, any reference in them to the Act shall be construed as a reference to these Regulations—
 
@@ -161,7 +161,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - section 36 (offences by bodies corporate);
 - section 44 (protection of officers acting in good faith).
 
-## 7. Revocation[^key-4355d87b796d86c27d75a3226173b848]
+## 7. Revocation[^c-4355d87b796d86c27d75a3226173b848]
 
 The Food (Lot Marking) Regulations 1992[^f00004] are hereby revoked.
 
@@ -205,60 +205,60 @@ The new Regulations continue the previous requirements that food which has been 
 
 [^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); “the Ministers” is defined in section 4(1) of the Act; section 6(4)(a) of the Act was amended by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40) section 31 and Schedule 9, paragraph 6.
 
-[^key-eabce6dbb5f0812cff82dbbe77bd9a20]: Commencement: Reg. 1 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-eabce6dbb5f0812cff82dbbe77bd9a20]: Commencement: Reg. 1 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
-[^key-d4ed7bf759805408af07960c22377736]: Commencement: Reg. 2 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-d4ed7bf759805408af07960c22377736]: Commencement: Reg. 2 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
 [^M_E_1f0e2fa1-ea04-4a03-95a2-08daba406052]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-1735af1018fdf588dc142e990a3a5ebf]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) substituted (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/15) and (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/15)
+[^c-1735af1018fdf588dc142e990a3a5ebf]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) substituted (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/15) and (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/15)
 
-[^key-3e9c9afccc934473536d676b49cc44a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (E.) (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/150/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and (W.) (31.12.2020) by virtue of [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2019/435/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e9c9afccc934473536d676b49cc44a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (E.) (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/150/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and (W.) (31.12.2020) by virtue of [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2019/435/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_S_f93d8cef-3664-f92a-cc56-797e3453ad89]: Commencement: Reg. 2 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
 [^M_E_5be34597-ca25-407c-c839-4675fc8db30e]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-d61d87f11dcfd0e18d60b749e11b4469]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) inserted (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(v)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/v)
+[^c-d61d87f11dcfd0e18d60b749e11b4469]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) inserted (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(v)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/v)
 
-[^key-9078ebdc917b6e36e2f34ca550a8b31f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/i)
+[^c-9078ebdc917b6e36e2f34ca550a8b31f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/i)
 
-[^key-38b18bb621981e6fda2ee900138edef2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (31.12.2020) by virtue of [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/53/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38b18bb621981e6fda2ee900138edef2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (31.12.2020) by virtue of [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/53/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ffeb22e6a05374d22243dc03735f6b64]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(iii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/iii)
+[^c-ffeb22e6a05374d22243dc03735f6b64]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(iii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/iii)
 
-[^key-f2f92cf724fbbba3d345d97d1606f880]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(iv)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/iv)
+[^c-f2f92cf724fbbba3d345d97d1606f880]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) omitted (S.) (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(iv)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/iv)
 
-[^key-e2e6b97b8346cf8cdd76d3b241dd475e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) substituted (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(vi)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/vi)
+[^c-e2e6b97b8346cf8cdd76d3b241dd475e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1996/1502/regulation/2) substituted (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(a)(vi)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/a/vi)
 
-[^key-8300f01014280396a860e5c059c54a2a]: Commencement: Reg. 3 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-8300f01014280396a860e5c059c54a2a]: Commencement: Reg. 3 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
-[^key-cb4dfc8a1a670913f9b5a5aaaac0a251]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-cb4dfc8a1a670913f9b5a5aaaac0a251]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-28cd5b00f1bd15525eb65e7dc59f0b33]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/3/2/a) substituted: (E.) (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/150/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); (W.) (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/uksi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/435/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2019/435/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and (S.) (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/53/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28cd5b00f1bd15525eb65e7dc59f0b33]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/3/2/a) substituted: (E.) (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/150/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); (W.) (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/uksi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/435/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2019/435/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and (S.) (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/53/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e938023edfd11dff54fa528fdb9016c9]: Commencement: Reg. 4 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-e938023edfd11dff54fa528fdb9016c9]: Commencement: Reg. 4 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
-[^key-8642a461c628e6b86569fa759f71dd38]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4) renumbered as reg. 4(1) (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/2/a)
+[^c-8642a461c628e6b86569fa759f71dd38]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4) renumbered as reg. 4(1) (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/2/a)
 
-[^key-084116430e9d92e8d2c692e831b6eb31]: Textual amendment: Words in [reg. 4(e)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/e) substituted: (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 16(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/16/a); (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 16(a)](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/16/a); and (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(b)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/b)
+[^c-084116430e9d92e8d2c692e831b6eb31]: Textual amendment: Words in [reg. 4(e)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/e) substituted: (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 16(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/16/a); (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 16(a)](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/16/a); and (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(b)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/b)
 
-[^key-9d4521239d723055e46bc05b23809191]: Textual amendment: [Reg. 4(f)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/f) omitted (W.) (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2018/806/regulation/2)
+[^c-9d4521239d723055e46bc05b23809191]: Textual amendment: [Reg. 4(f)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/f) omitted (W.) (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2018/806/regulation/2)
 
-[^key-abe0cf785a2951b43a088dc621f018e9]: Textual amendment: Words in [reg. 4(g)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/g) substituted: (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/16/b/i); (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/16/b/i); and (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(c)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/c/i)
+[^c-abe0cf785a2951b43a088dc621f018e9]: Textual amendment: Words in [reg. 4(g)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/g) substituted: (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/16/b/i); (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/16/b/i); and (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(c)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/c/i)
 
-[^key-9e3e81bfee03364b10407eaf64ac7d6f]: Textual amendment: Words in [reg. 4(g)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/g) substituted: (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/16/b/ii); (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/16/b/ii); and (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(c)(ii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/c/ii)
+[^c-9e3e81bfee03364b10407eaf64ac7d6f]: Textual amendment: Words in [reg. 4(g)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/g) substituted: (E.) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/16/b/ii); (W.) (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/uksi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2303/regulation/1/3), [Sch. 7 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2303/schedule/7/paragraph/16/b/ii); and (S.) (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 3(c)(ii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/3/c/ii)
 
-[^key-4602d7f6b0785c3afe9fe35bed7aac9f]: Textual amendment: [Reg. 4(h)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/h) inserted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2020/1501/regulation/2)
+[^c-4602d7f6b0785c3afe9fe35bed7aac9f]: Textual amendment: [Reg. 4(h)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/h) inserted (31.12.2020) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2020/1501/regulation/2)
 
-[^key-c24bd4b1119a9a038496980266fd634d]: Textual amendment: [Reg. 4(1)(i)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/1/i) inserted (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/2/b)
+[^c-c24bd4b1119a9a038496980266fd634d]: Textual amendment: [Reg. 4(1)(i)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/1/i) inserted (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/2/b)
 
-[^key-d13dadb6a265fcfcd23ef19c4f083f82]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/2) inserted (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/2/c)
+[^c-d13dadb6a265fcfcd23ef19c4f083f82]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1996/1502/regulation/4/2) inserted (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/2/c)
 
-[^key-ae1b0f8b3d514cf182e8bed63598303f]: Commencement: Reg. 5 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-ae1b0f8b3d514cf182e8bed63598303f]: Commencement: Reg. 5 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
-[^key-86afae37384d84b2ab48c704c109addb]: Commencement: Reg. 6 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-86afae37384d84b2ab48c704c109addb]: Commencement: Reg. 6 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
-[^key-4355d87b796d86c27d75a3226173b848]: Commencement: Reg. 7 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
+[^c-4355d87b796d86c27d75a3226173b848]: Commencement: Reg. 7 in force at 1.7.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1502/regulation/1)
 
 [^f00004]: Footnote: [SI 1992/1357](https://www.legislation.gov.uk/uksi/1992/1357).

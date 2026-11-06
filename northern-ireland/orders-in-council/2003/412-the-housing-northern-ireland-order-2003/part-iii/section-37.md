@@ -26,8 +26,8 @@ In the case of a joint application, any applicant under the age of 18 years on t
 
 (2) No grant is payable under this Chapter if the applicant is of a description excluded from entitlement to grant aid by regulations made by the Department.
 
-(3) Regulations under paragraph (2) may proceed wholly or in part by reference to the provisions relating to entitlement to housing benefit, universal credit,[^key-8a2d3a38f874829089dbc4f042093e08] or any other form of assistance, as they have effect from time to time.
+(3) Regulations under paragraph (2) may proceed wholly or in part by reference to the provisions relating to entitlement to housing benefit, universal credit,[^c-8a2d3a38f874829089dbc4f042093e08] or any other form of assistance, as they have effect from time to time.
 
 ## Annotations
 
-[^key-8a2d3a38f874829089dbc4f042093e08]: Textual amendment: Words in art. 37(3) inserted (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2016/236/regulation/13/2)
+[^c-8a2d3a38f874829089dbc4f042093e08]: Textual amendment: Words in art. 37(3) inserted (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2016/236/regulation/13/2)

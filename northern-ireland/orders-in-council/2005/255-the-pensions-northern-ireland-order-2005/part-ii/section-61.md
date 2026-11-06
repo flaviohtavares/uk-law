@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Regulator must keep in such manner as it thinks fit a register **("the prohibition register[^key-ad2fbf7bb00e9a42dfe4b04e004b4f94]**”) of—
+(1) The Regulator must keep in such manner as it thinks fit a register **("the prohibition register[^c-ad2fbf7bb00e9a42dfe4b04e004b4f94]**”) of—
 
 - (a) all persons who are prohibited under Article 3 of the 1995 Order, and
 - (b) all persons appearing to the Regulator to be prohibited under Article 3A of that Order.
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad2fbf7bb00e9a42dfe4b04e004b4f94]: Textual amendment: Words in art. 61(1) substituted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 7](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/7); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-ad2fbf7bb00e9a42dfe4b04e004b4f94]: Textual amendment: Words in art. 61(1) substituted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 7](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/7); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)

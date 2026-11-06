@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Approval of notices following review under section 90[^key-d4b9d848d3bc6fb49c1d5d9cf0b0d02d]
+## 91. Approval of notices following review under section 90[^c-d4b9d848d3bc6fb49c1d5d9cf0b0d02d]
 
 *Extent: E+W+S+N.I.*
 
-(1) In deciding whether to approve a decision to vary a retention notice as mentioned in section 90(10)(a), or to give a notice under section 90(10)(b) confirming the effect of a retention notice, the Investigatory Powers Commissioner must review the Secretary of State's conclusions as to whether the requirement to be imposed by the notice as varied or confirmed to retain relevant communications data is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a)[^key-14e9d57db8ae79e83da7b4fe1c61623a].
+(1) In deciding whether to approve a decision to vary a retention notice as mentioned in section 90(10)(a), or to give a notice under section 90(10)(b) confirming the effect of a retention notice, the Investigatory Powers Commissioner must review the Secretary of State's conclusions as to whether the requirement to be imposed by the notice as varied or confirmed to retain relevant communications data is necessary and proportionate for one or more of the purposes falling within sub-paragraphs (i) to (vi) of section 87(1)(a)[^c-14e9d57db8ae79e83da7b4fe1c61623a].
 
 (2) In doing so, the Investigatory Powers Commissioner must—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4b9d848d3bc6fb49c1d5d9cf0b0d02d]: Commencement: S. 91 in force at 1.11.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/a)
+[^c-d4b9d848d3bc6fb49c1d5d9cf0b0d02d]: Commencement: S. 91 in force at 1.11.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/a)
 
-[^key-14e9d57db8ae79e83da7b4fe1c61623a]: Textual amendment: Words in [s. 91(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/91/1) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/22/b)
+[^c-14e9d57db8ae79e83da7b4fe1c61623a]: Textual amendment: Words in [s. 91(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/91/1) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 22(b)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/22/b)

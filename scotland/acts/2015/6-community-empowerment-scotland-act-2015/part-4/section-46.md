@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Changes to information relating to registered interests[^key-3197ac009be6b6787743f3fde58e423f]
+## 46. Changes to information relating to registered interests[^c-3197ac009be6b6787743f3fde58e423f]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ After section 44 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-3197ac009be6b6787743f3fde58e423f]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2015/6/section/46) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-3197ac009be6b6787743f3fde58e423f]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2015/6/section/46) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

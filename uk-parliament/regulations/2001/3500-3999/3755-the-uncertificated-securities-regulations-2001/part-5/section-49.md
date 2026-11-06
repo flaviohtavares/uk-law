@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Application to Northern Ireland[^key-8495ad5f37ac500da4270c40fd835998]
+## 49. Application to Northern Ireland[^c-8495ad5f37ac500da4270c40fd835998]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,18 +31,18 @@ summary: ''
 
 (4) In Schedule 4—
 
-- (a)[^key-97b2c9bfc6262388b76154363cd71000] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-4979c49625eea55b2cca6530b0a2c8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-97b2c9bfc6262388b76154363cd71000] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4979c49625eea55b2cca6530b0a2c8a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 6(1), for the words from “in the case of a company registered in England and Wales” to the end there shall be substituted “elsewhere than in Northern Ireland”;
-- (d)[^key-cef722eda43cf6eadfc0ce1011bf3ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cef722eda43cf6eadfc0ce1011bf3ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph 16(2), for subparagraphs (a) and (b) there shall be substituted “in Northern Ireland”; and
-- (f)[^key-69cad5ba006d0ec1480e21c445e91b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-69cad5ba006d0ec1480e21c445e91b9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-43ec936f32ec35ebe685f1f1c2b4be14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43ec936f32ec35ebe685f1f1c2b4be14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8495ad5f37ac500da4270c40fd835998]: Commencement: Reg. 49 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-8495ad5f37ac500da4270c40fd835998]: Commencement: Reg. 49 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00016]: Footnote: [1695 c. 12 (Ir)](https://www.legislation.gov.uk/aep/1695/12).
 
@@ -50,12 +50,12 @@ summary: ''
 
 [^f00018]: Footnote: [1971 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1971/33).
 
-[^key-97b2c9bfc6262388b76154363cd71000]: Textual amendment: [Reg. 49(4)(a)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/a) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
+[^c-97b2c9bfc6262388b76154363cd71000]: Textual amendment: [Reg. 49(4)(a)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/a) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
 
-[^key-4979c49625eea55b2cca6530b0a2c8a7]: Textual amendment: [Reg. 49(4)(b)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
+[^c-4979c49625eea55b2cca6530b0a2c8a7]: Textual amendment: [Reg. 49(4)(b)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
 
-[^key-cef722eda43cf6eadfc0ce1011bf3ff2]: Textual amendment: [Reg. 49(4)(d)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/d) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
+[^c-cef722eda43cf6eadfc0ce1011bf3ff2]: Textual amendment: [Reg. 49(4)(d)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/d) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
 
-[^key-69cad5ba006d0ec1480e21c445e91b9e]: Textual amendment: [Reg. 49(4)(f)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/f) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
+[^c-69cad5ba006d0ec1480e21c445e91b9e]: Textual amendment: [Reg. 49(4)(f)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/4/f) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
 
-[^key-43ec936f32ec35ebe685f1f1c2b4be14]: Textual amendment: [Reg. 49(5)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/5) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)
+[^c-43ec936f32ec35ebe685f1f1c2b4be14]: Textual amendment: [Reg. 49(5)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/49/5) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/20)

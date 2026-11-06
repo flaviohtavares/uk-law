@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Commission Regulation (EU) No 28/2012 laying down requirements for the certification for imports into and transit through the Union of certain composite products[^key-c702b1f23fe987eba57c1f12fc30ca96]
+## 61. Commission Regulation (EU) No 28/2012 laying down requirements for the certification for imports into and transit through the Union of certain composite products[^c-c702b1f23fe987eba57c1f12fc30ca96]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c702b1f23fe987eba57c1f12fc30ca96]: Commencement: Reg. 61 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-c702b1f23fe987eba57c1f12fc30ca96]: Commencement: Reg. 61 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

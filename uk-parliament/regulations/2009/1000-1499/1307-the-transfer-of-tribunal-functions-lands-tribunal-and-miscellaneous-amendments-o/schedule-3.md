@@ -22,20 +22,20 @@ summary: ''
 
 Article 5(1) and (4)
 
-### 1. Pastoral Measure 1983[^key-1cbc85ab488e7f909e92a3b6ae4e64ca]
+### 1. Pastoral Measure 1983[^c-1cbc85ab488e7f909e92a3b6ae4e64ca]
 
 In section 62(3) of the Pastoral Measure 1983[^f00167] (power to impose and enforce covenants) for “Lands Tribunal” substitute “Upper Tribunal”.
 
-### 2. Care of Churches and Ecclesiastical Jurisdiction Measure 1991[^key-2baa1c4594c757cb68efd7342faf8ea4]
+### 2. Care of Churches and Ecclesiastical Jurisdiction Measure 1991[^c-2baa1c4594c757cb68efd7342faf8ea4]
 
 In section 22(7) of the Care of Churches and Ecclesiastical Jurisdiction Measure 1991[^f00168] (power of bishop to remove legal effects of consecration) for “Lands Tribunal” substitute “Upper Tribunal”.
 
 ## Annotations
 
-[^key-1cbc85ab488e7f909e92a3b6ae4e64ca]: Commencement: Sch. 3 para. 1 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-1cbc85ab488e7f909e92a3b6ae4e64ca]: Commencement: Sch. 3 para. 1 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
 
 [^f00167]: Footnote: [1983 No.1](https://www.legislation.gov.uk/ukcm/1983/1). Subsection (3) was inserted by section 8 of the [Pastoral (Amendment) Measure 1994 (1994 No.1)](https://www.legislation.gov.uk/ukcm/1994/1).
 
-[^key-2baa1c4594c757cb68efd7342faf8ea4]: Commencement: Sch. 3 para. 2 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-2baa1c4594c757cb68efd7342faf8ea4]: Commencement: Sch. 3 para. 2 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
 
 [^f00168]: Footnote: [1991 No.1](https://www.legislation.gov.uk/ukcm/1991/1).

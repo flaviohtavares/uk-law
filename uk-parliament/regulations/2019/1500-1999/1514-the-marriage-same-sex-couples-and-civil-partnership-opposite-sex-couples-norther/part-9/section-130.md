@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Housing on Farms Act (Northern Ireland) 1972[^key-73105e2b8684d59b67b03dcc64a658e9]
+## 130. Housing on Farms Act (Northern Ireland) 1972[^c-73105e2b8684d59b67b03dcc64a658e9]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In section 16 of the Housing on Farms Act (Northern Ireland) 1972[^f00214], in t
 
 ## Annotations
 
-[^key-73105e2b8684d59b67b03dcc64a658e9]: Commencement: Reg. 130 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-73105e2b8684d59b67b03dcc64a658e9]: Commencement: Reg. 130 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00214]: Footnote: [1972 c.3 (N.I.)](https://www.legislation.gov.uk/apni/1972/3).

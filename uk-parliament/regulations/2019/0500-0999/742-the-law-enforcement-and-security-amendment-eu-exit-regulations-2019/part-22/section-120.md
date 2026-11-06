@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Saving provisions – SIS II data and national files[^key-264693c003353a04a27c69b7c485d3cd]
+## 120. Saving provisions – SIS II data and national files[^c-264693c003353a04a27c69b7c485d3cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) SIS II data in connection with which action was taken on the territory of the United Kingdom before commencement day;
 - (b) data contained in a particular alert issued in SIS II by the United Kingdom before commencement day.
 
-(2) Subject to the modifications in paragraph (3), the following provisions of Council Decision 2007/533/JHA of 12 June 2007 on the establishment, operation and use of the second generation Schengen Information System (SIS II) continue to have effect in relation to the data referred to in paragraph (1) (and see Title VII of Part 3 of the withdrawal agreement, Title IV of Part 3 of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act)[^key-da81b20536574994f2d825560ed5670f]—
+(2) Subject to the modifications in paragraph (3), the following provisions of Council Decision 2007/533/JHA of 12 June 2007 on the establishment, operation and use of the second generation Schengen Information System (SIS II) continue to have effect in relation to the data referred to in paragraph (1) (and see Title VII of Part 3 of the withdrawal agreement, Title IV of Part 3 of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act)[^c-da81b20536574994f2d825560ed5670f]—
 
 - (a) Article 46(1), (5), (6) and (7) (processing of SIS II data);
 - (b) Article 47 (SIS II data and national files);
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-264693c003353a04a27c69b7c485d3cd]: Commencement: Reg. 120 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-264693c003353a04a27c69b7c485d3cd]: Commencement: Reg. 120 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-da81b20536574994f2d825560ed5670f]: Textual amendment: Words in reg. 120(2) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [36](https://www.legislation.gov.uk/uksi/2020/1408/regulation/36)
+[^c-da81b20536574994f2d825560ed5670f]: Textual amendment: Words in reg. 120(2) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [36](https://www.legislation.gov.uk/uksi/2020/1408/regulation/36)

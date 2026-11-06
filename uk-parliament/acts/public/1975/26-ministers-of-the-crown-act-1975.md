@@ -33,7 +33,7 @@ An Act to consolidate the enactments relating to the redistribution of functions
 
 \[8th May 1975\][^c709147][^c709148]
 
-## 1. Power by Order in Council to transfer functions of Ministers.[^c709153][^c709154][^key-356fec500e3f6e383ce393b3ccdc2917]
+## 1. Power by Order in Council to transfer functions of Ministers.[^c709153][^c709154][^c-356fec500e3f6e383ce393b3ccdc2917]
 
 (1) Her Majesty may by Order in Council—
 
@@ -55,7 +55,7 @@ An Act to consolidate the enactments relating to the redistribution of functions
 
 (5) A certificate issued by a Minister of the Crown that any property vested in any other Minister immediately before an Order under this section takes effect has been transferred by virtue of the Order to the Minister issuing the certificate shall be conclusive evidence of the transfer.
 
-(6)[^key-296293271da58e70ddef6f03f57c8af4] This section does not apply to the functions of the Lord Chancellor that are within Schedule 7 to the Constitutional Reform Act 2005.
+(6)[^c-296293271da58e70ddef6f03f57c8af4] This section does not apply to the functions of the Lord Chancellor that are within Schedule 7 to the Constitutional Reform Act 2005.
 
 (7) An Order in Council under this section may amend Schedule 7 to the Constitutional Reform Act 2005 so as to include any function which, by virtue of provision in the Order in Council—
 
@@ -101,7 +101,7 @@ If Her Majesty is pleased by Order in Council to direct that any change shall be
 
 (3) Any Order under this Act may be varied or revoked by a subsequent Order thereunder made in the like manner and subject to the like conditions, so however that the variation or revocation of an Order providing for the dissolution of a government department shall not affect the dissolution thereof.
 
-(3A)[^key-01438007bb29ae480304dedbf52f4b60] Subsection (3) is subject to section 1(8).
+(3A)[^c-01438007bb29ae480304dedbf52f4b60] Subsection (3) is subject to section 1(8).
 
 (4) No provision in any Act passed before 6th March 1946 shall be construed as limiting the powers conferred by this Act.
 
@@ -109,13 +109,13 @@ If Her Majesty is pleased by Order in Council to direct that any change shall be
 
 (6) Any reference in the foregoing provisions of this Act to a Minister of the Crown shall include a reference to Ministers acting jointly.
 
-## 5A. The Commissioners for Her Majesty’s Revenue and Customs[^key-3d4aea62ca1ce64e0c4fbfcc3f79c560]
+## 5A. The Commissioners for Her Majesty’s Revenue and Customs[^c-3d4aea62ca1ce64e0c4fbfcc3f79c560]
 
 (1) The Commissioners for Her Majesty’s Revenue and Customs shall be treated for the purposes of section 1(1)(a) and (c) as if they were a Minister of the Crown.
 
 (2) The officers of Revenue and Customs shall be treated for the purposes of section 1(1)(a) and (c) as if they were a Minister of the Crown.
 
-(3) An Order in Council under this Act may not provide for the transfer of a function specified in section 5(1)(a) or (b)[^key-2edc1c20498aca86ce9065325b4d01a2] of the Commissioners for Revenue and Customs Act 2005.
+(3) An Order in Council under this Act may not provide for the transfer of a function specified in section 5(1)(a) or (b)[^c-2edc1c20498aca86ce9065325b4d01a2] of the Commissioners for Revenue and Customs Act 2005.
 
 (4) An Order in Council under section 1 above transferring a function to the Commissioners or to officers of Revenue and Customs—
 
@@ -191,17 +191,17 @@ Section 8(4).
 
 [^c709154]: Subordinate legislation: S. 1: for earlier exercises of this power see Index to Government Orders.
 
-[^key-356fec500e3f6e383ce393b3ccdc2917]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1975/26/section/1) excluded (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 35(9)](https://www.legislation.gov.uk/ukpga/2007/15/section/35/9), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a)
+[^c-356fec500e3f6e383ce393b3ccdc2917]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1975/26/section/1) excluded (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 35(9)](https://www.legislation.gov.uk/ukpga/2007/15/section/35/9), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a)
 
 [^c709155]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
-[^key-296293271da58e70ddef6f03f57c8af4]: Textual amendment: S. 1(6)-(8) inserted (24.3.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/20/2), [148(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/2)
+[^c-296293271da58e70ddef6f03f57c8af4]: Textual amendment: S. 1(6)-(8) inserted (24.3.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/20/2), [148(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/2)
 
-[^key-01438007bb29ae480304dedbf52f4b60]: Textual amendment: S. 5(3A) inserted (24.3.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2005/4/section/20/3), [148(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/2)
+[^c-01438007bb29ae480304dedbf52f4b60]: Textual amendment: S. 5(3A) inserted (24.3.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2005/4/section/20/3), [148(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/2)
 
-[^key-3d4aea62ca1ce64e0c4fbfcc3f79c560]: Textual amendment: S. 5A inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/8/1), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/e)
+[^c-3d4aea62ca1ce64e0c4fbfcc3f79c560]: Textual amendment: S. 5A inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/8/1), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/e)
 
-[^key-2edc1c20498aca86ce9065325b4d01a2]: Textual amendment: Words in [s. 5A(3)](https://www.legislation.gov.uk/ukpga/1975/26/section/5A/3) substituted (8.3.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 126(14)](https://www.legislation.gov.uk/ukpga/2012/5/section/126/14), [150(1)(e)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/e)
+[^c-2edc1c20498aca86ce9065325b4d01a2]: Textual amendment: Words in [s. 5A(3)](https://www.legislation.gov.uk/ukpga/1975/26/section/5A/3) substituted (8.3.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 126(14)](https://www.legislation.gov.uk/ukpga/2012/5/section/126/14), [150(1)(e)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/e)
 
 [^c709156]: Marginal citation: [1975 c. 27](https://www.legislation.gov.uk/ukpga/1975/27).
 

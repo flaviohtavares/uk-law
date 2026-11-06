@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Power to enter land in connection with examination[^key-a3b93e7eafa3d7c015a63449a4f124ca][^key-208f78c916051c2f2d34b38cdb0dee23]
+## 45. Power to enter land in connection with examination[^c-a3b93e7eafa3d7c015a63449a4f124ca][^c-208f78c916051c2f2d34b38cdb0dee23]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b93e7eafa3d7c015a63449a4f124ca]: Commencement: S. 45 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-a3b93e7eafa3d7c015a63449a4f124ca]: Commencement: S. 45 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-208f78c916051c2f2d34b38cdb0dee23]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2024/3/section/45) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-208f78c916051c2f2d34b38cdb0dee23]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2024/3/section/45) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

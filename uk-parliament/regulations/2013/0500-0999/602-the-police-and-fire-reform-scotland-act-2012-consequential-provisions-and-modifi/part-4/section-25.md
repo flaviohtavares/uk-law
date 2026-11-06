@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Extension of modifications of enactments made by 2012 Act[^key-59f44a52624aaff87cc8bd795291a209]
+## 25. Extension of modifications of enactments made by 2012 Act[^c-59f44a52624aaff87cc8bd795291a209]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The modifications specified in Schedule 1 have effect.
 
 ## Annotations
 
-[^key-59f44a52624aaff87cc8bd795291a209]: Commencement: Art. 25 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-59f44a52624aaff87cc8bd795291a209]: Commencement: Art. 25 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

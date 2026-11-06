@@ -25,7 +25,7 @@ summary: ''
 (2) “**Excluded equity gain or loss**” means any gain, profit or loss arising from—
 
 - (a) gains and losses from changes in fair value of a qualifying interest or the impairment of such an interest, other than an interest to which subsection (3) applies,
-- (b) profit or loss in respect of a qualifying interest included in underlying profits under the equity method of accounting, [^key-7847c84746ab9fc7d60c1e9730dab86b]... or
+- (b) profit or loss in respect of a qualifying interest included in underlying profits under the equity method of accounting, [^c-7847c84746ab9fc7d60c1e9730dab86b]... or
 - (c) gains and losses from a disposition of a qualifying interest, other than an interest to which subsection (3) applies.
 
 (3) This subsection applies to a qualifying interest in an entity if the members of the multinational group do not, at the relevant time, have qualifying interests between them that entitle them to 10% or more of that entity’s—
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7847c84746ab9fc7d60c1e9730dab86b]: Textual amendment: Words in [s. 142(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/142/2/b) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/3)
+[^c-7847c84746ab9fc7d60c1e9730dab86b]: Textual amendment: Words in [s. 142(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/142/2/b) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 50(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/50/3)

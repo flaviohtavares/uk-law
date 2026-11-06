@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169E. Meaning of “settlor” in sections 169B to 169D and 169G[^key-adb2b1c19ff0a47f1655fe768c24f89f]
+## 169E. Meaning of “settlor” in sections 169B to 169D and 169G[^c-adb2b1c19ff0a47f1655fe768c24f89f]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this section and[^key-cef46be1859c2ba67572882ef863191d], sections 169B to 169D [^key-ae0973d07b4677ad7203aea9aee7434c]... , a person is a settlor in relation to a settlement if—
+(1) For the purposes of this section and[^c-cef46be1859c2ba67572882ef863191d], sections 169B to 169D [^c-ae0973d07b4677ad7203aea9aee7434c]... , a person is a settlor in relation to a settlement if—
 
 - (a) he is an individual, and
 - (b) the settled property consists of, or includes, property originating from him.
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-adb2b1c19ff0a47f1655fe768c24f89f]: Textual amendment: Ss. 169B-169G inserted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/4)
+[^c-adb2b1c19ff0a47f1655fe768c24f89f]: Textual amendment: Ss. 169B-169G inserted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/4)
 
-[^key-cef46be1859c2ba67572882ef863191d]: Textual amendment: Word in s. 169E(1) inserted (13.8.2009) by [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/30/a)
+[^c-cef46be1859c2ba67572882ef863191d]: Textual amendment: Word in s. 169E(1) inserted (13.8.2009) by [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 30(a)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/30/a)
 
-[^key-ae0973d07b4677ad7203aea9aee7434c]: Textual amendment: Words in s. 169E(1) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 30(b)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/30/b)
+[^c-ae0973d07b4677ad7203aea9aee7434c]: Textual amendment: Words in s. 169E(1) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 30(b)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/30/b)

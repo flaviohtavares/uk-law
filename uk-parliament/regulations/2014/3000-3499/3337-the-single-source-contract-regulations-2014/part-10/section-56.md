@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Information is specified for the purposes of paragraph 1(1)(c) of Schedule 5 to the Act[^key-6e469f7be37fabac85d1f87c705f26b8] (information to which that Schedule applies) if it falls within any of paragraphs (2) to (5) below.
+(1) Information is specified for the purposes of paragraph 1(1)(c) of Schedule 5 to the Act[^c-6e469f7be37fabac85d1f87c705f26b8] (information to which that Schedule applies) if it falls within any of paragraphs (2) to (5) below.
 
 (2) Information falls within this paragraph if—
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e469f7be37fabac85d1f87c705f26b8]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/56/1) inserted (1.4.2019) by [The Single Source Contract (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1350)](https://www.legislation.gov.uk/uksi/2018/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2018/1350/regulation/11)
+[^c-6e469f7be37fabac85d1f87c705f26b8]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/56/1) inserted (1.4.2019) by [The Single Source Contract (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1350)](https://www.legislation.gov.uk/uksi/2018/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2018/1350/regulation/11)

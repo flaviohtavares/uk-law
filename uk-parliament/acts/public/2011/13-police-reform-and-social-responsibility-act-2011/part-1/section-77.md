@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. The strategic policing requirement[^key-4d64a88eede885446f53758bf53be81e]
+## 77. The strategic policing requirement[^c-4d64a88eede885446f53758bf53be81e]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d64a88eede885446f53758bf53be81e]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2011/13/section/77) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/c)
+[^c-4d64a88eede885446f53758bf53be81e]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2011/13/section/77) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/c)

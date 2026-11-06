@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Calculation of weekly amounts[^key-8a2d503991026f398e4f2ada18b15e0b]
+## 59. Calculation of weekly amounts[^c-8a2d503991026f398e4f2ada18b15e0b]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 (7) Any amount determined under these Regulations may, if it is appropriate, be rounded to the nearest whole penny by disregarding any amount less than half a penny and treating any amount of half a penny or more as a whole penny.
 
-(8)[^key-9f54db205569dc731f945070da5f8102] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9f54db205569dc731f945070da5f8102] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this regulation “**daily rent or rates**” shall mean the amount determined by dividing by 7 the amount determined under whichever sub-paragraph of paragraph (2) or (3) is appropriate in each case.
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2d503991026f398e4f2ada18b15e0b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2006/406/regulation/59) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-8a2d503991026f398e4f2ada18b15e0b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2006/406/regulation/59) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-9f54db205569dc731f945070da5f8102]: Textual amendment: [Reg. 59(8)](https://www.legislation.gov.uk/nisr/2006/406/regulation/59/8) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/5/b)
+[^c-9f54db205569dc731f945070da5f8102]: Textual amendment: [Reg. 59(8)](https://www.legislation.gov.uk/nisr/2006/406/regulation/59/8) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/5/b)

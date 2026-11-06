@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Scotland) Amendment Regulations 2016 (revoked)[^key-4af851d974993ee1ae7f6204d3c19cb9]
+The Pollution Prevention and Control (Scotland) Amendment Regulations 2016 (revoked)[^c-4af851d974993ee1ae7f6204d3c19cb9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 12th May 2016
 
-[^key-4af851d974993ee1ae7f6204d3c19cb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4af851d974993ee1ae7f6204d3c19cb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4af851d974993ee1ae7f6204d3c19cb9]
+## 1. Citation and commencement[^c-4af851d974993ee1ae7f6204d3c19cb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^key-4af851d974993ee1ae7f6204d3c19cb9]
+## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^c-4af851d974993ee1ae7f6204d3c19cb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4af851d974993ee1ae7f6204d3c19cb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4af851d974993ee1ae7f6204d3c19cb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4af851d974993ee1ae7f6204d3c19cb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4af851d974993ee1ae7f6204d3c19cb9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4af851d974993ee1ae7f6204d3c19cb9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/39) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4af851d974993ee1ae7f6204d3c19cb9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/39) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

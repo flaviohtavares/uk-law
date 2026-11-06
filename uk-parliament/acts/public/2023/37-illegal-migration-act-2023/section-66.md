@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Defined expressions[^key-5c018fecb1a5edcf73099c61e0814cd9]
+## 66. Defined expressions[^c-5c018fecb1a5edcf73099c61e0814cd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c018fecb1a5edcf73099c61e0814cd9]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/2023/37/section/66) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(h)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/h), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-5c018fecb1a5edcf73099c61e0814cd9]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/2023/37/section/66) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(h)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/h), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

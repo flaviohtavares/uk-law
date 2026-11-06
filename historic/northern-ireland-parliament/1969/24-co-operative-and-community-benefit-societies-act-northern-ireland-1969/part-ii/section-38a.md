@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to subsections (3) and (4), a registered society may disapply section 38 in relation to any year of account [^key-b00d29b350b375bbed76df6440c8d73c]... if—
+(1) Subject to subsections (3) and (4), a registered society may disapply section 38 in relation to any year of account [^c-b00d29b350b375bbed76df6440c8d73c]... if—
 
 - (a) the value of its assets at the end of the preceding year of account did not in the aggregate exceed £1,400,000, and
 - (b) its turnover for that year did not exceed £350,000.
@@ -66,7 +66,7 @@ summary: ''
 
 [^c20353881]: Textual amendment: [1997 NI 22](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-b00d29b350b375bbed76df6440c8d73c]: Textual amendment: Words in s. 38A(1) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/50)
+[^c-b00d29b350b375bbed76df6440c8d73c]: Textual amendment: Words in s. 38A(1) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/50)
 
 [^c20715171]: Textual amendment: S. 38A(c) omitted (6.4.2008) by virtue of [Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 (S.I. 2008/565)](https://www.legislation.gov.uk/uksi/2008/565), [reg. 15(3)](https://www.legislation.gov.uk/uksi/2008/565/regulation/15/3)
 

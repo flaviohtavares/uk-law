@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Information as to levels of performance[^key-f45d001a776f8b0fc60beab054055105]
+## 38. Information as to levels of performance[^c-f45d001a776f8b0fc60beab054055105]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f45d001a776f8b0fc60beab054055105]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2011/5/section/38) in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/c)
+[^c-f45d001a776f8b0fc60beab054055105]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2011/5/section/38) in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/c)

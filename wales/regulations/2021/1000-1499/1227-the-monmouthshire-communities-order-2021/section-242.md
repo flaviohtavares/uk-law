@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 242. Creation of the new community ward of Newcastle[^key-f6775fae1fce209bbc705343638d4985][^key-a90c7908a2e0ed2ded0d9a85e25e7537]
+## 242. Creation of the new community ward of Newcastle[^c-f6775fae1fce209bbc705343638d4985][^c-a90c7908a2e0ed2ded0d9a85e25e7537]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The new community ward of Newcastle is created in the community of Whitecastle w
 
 ## Annotations
 
-[^key-f6775fae1fce209bbc705343638d4985]: Commencement: Art. 242 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-f6775fae1fce209bbc705343638d4985]: Commencement: Art. 242 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-a90c7908a2e0ed2ded0d9a85e25e7537]: Commencement: [Art. 242](https://www.legislation.gov.uk/wsi/2021/1227/article/242) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-a90c7908a2e0ed2ded0d9a85e25e7537]: Commencement: [Art. 242](https://www.legislation.gov.uk/wsi/2021/1227/article/242) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

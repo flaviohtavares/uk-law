@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Consent to changes to combined authority’s area[^key-60b30bc969160f22f93548f3a2d72fca]
+## 59. Consent to changes to combined authority’s area[^c-60b30bc969160f22f93548f3a2d72fca]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60b30bc969160f22f93548f3a2d72fca]: Commencement: S. 59 in force at Royal Assent, see [s. 255(2)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/e)
+[^c-60b30bc969160f22f93548f3a2d72fca]: Commencement: S. 59 in force at Royal Assent, see [s. 255(2)(e)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/e)

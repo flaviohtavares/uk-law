@@ -46,9 +46,9 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 3, 4, 5 and 7 of the Export Control Act 2002[^f00001], makes the following Order:
 
-**1.**[^key-7d826f6206b67059c3d253fe2d80a8e1] This Order may be cited as the Export Control (Democratic Republic of Congo) (Amendment) Order 2008 and shall come into force on 24<sup>th</sup> January 2008.
+**1.**[^c-7d826f6206b67059c3d253fe2d80a8e1] This Order may be cited as the Export Control (Democratic Republic of Congo) (Amendment) Order 2008 and shall come into force on 24<sup>th</sup> January 2008.
 
-**2.**[^key-c051392c4608a9cc369c890d33168675] The Export Control (Democratic Republic of Congo) Order 2005[^f00002] is amended as set out in the Schedule to this Order.
+**2.**[^c-c051392c4608a9cc369c890d33168675] The Export Control (Democratic Republic of Congo) Order 2005[^f00002] is amended as set out in the Schedule to this Order.
 
 Malcolm Wicks
 
@@ -62,11 +62,11 @@ Department for Business, Enterprise and Regulatory Reform
 
 Article 2
 
-**1.**[^key-c1860b278692745464e806d34303fa42] In article 1(2), in the definition of “the Regulation” after the words “13 June 2005” insert “as amended by Council Regulation [(EC) No 1377/2007](https://www.legislation.gov.uk/european/regulation/2007/1377) of 26 November 2007[^f00003]”.
+**1.**[^c-c1860b278692745464e806d34303fa42] In article 1(2), in the definition of “the Regulation” after the words “13 June 2005” insert “as amended by Council Regulation [(EC) No 1377/2007](https://www.legislation.gov.uk/european/regulation/2007/1377) of 26 November 2007[^f00003]”.
 
-**2.**[^key-05911cb46b59a4e0ff420bcb6764a963] In article 3, before the words “Any person who” insert “Subject to article 3A,”.
+**2.**[^c-05911cb46b59a4e0ff420bcb6764a963] In article 3, before the words “Any person who” insert “Subject to article 3A,”.
 
-**3.**[^key-87d6752b480dfd0dfb40896a36d467bc] After article 3, insert—
+**3.**[^c-87d6752b480dfd0dfb40896a36d467bc] After article 3, insert—
 
 > **3A.** No person shall be guilty of an offence under paragraph (b) of article 3 where he did not know, or had no reason to suspect, that his actions would contravene the prohibition at article 2(b) of the Regulation.
 
@@ -88,19 +88,19 @@ A full regulatory impact assessment has not been produced for this instrument, a
 
 [^f00001]: Footnote: [2002 c.28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-7d826f6206b67059c3d253fe2d80a8e1]: Commencement: Art. 1 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
+[^c-7d826f6206b67059c3d253fe2d80a8e1]: Commencement: Art. 1 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
 
-[^key-c051392c4608a9cc369c890d33168675]: Commencement: Art. 2 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
+[^c-c051392c4608a9cc369c890d33168675]: Commencement: Art. 2 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
 
 [^f00002]: Footnote: [S.I. 2005/1677](https://www.legislation.gov.uk/uksi/2005/1677).
 
-[^key-c1860b278692745464e806d34303fa42]: Commencement: Sch. para. 1 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
+[^c-c1860b278692745464e806d34303fa42]: Commencement: Sch. para. 1 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
 
 [^f00003]: Footnote: OJ No L309, 27.11.2007, p1.
 
-[^key-05911cb46b59a4e0ff420bcb6764a963]: Commencement: Sch. para. 2 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
+[^c-05911cb46b59a4e0ff420bcb6764a963]: Commencement: Sch. para. 2 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
 
-[^key-87d6752b480dfd0dfb40896a36d467bc]: Commencement: Sch. para. 3 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
+[^c-87d6752b480dfd0dfb40896a36d467bc]: Commencement: Sch. para. 3 in force at 24.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/131/article/1)
 
 [^f00004]: Footnote: OJ No L 152, 15.6.2005, p1.
 

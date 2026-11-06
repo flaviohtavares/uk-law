@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.14. Renewal or setting aside of order for retrial[^key-109c20282f88680870d1d57453f205fc]
+## 39.14. Renewal or setting aside of order for retrial[^c-109c20282f88680870d1d57453f205fc]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-109c20282f88680870d1d57453f205fc]: Commencement: [Rule 39.14](https://www.legislation.gov.uk/uksi/2025/909/rule/39.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-109c20282f88680870d1d57453f205fc]: Commencement: [Rule 39.14](https://www.legislation.gov.uk/uksi/2025/909/rule/39.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00977]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 7 was amended by sections 43 and 170 of, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and section 331 of, and paragraph 44 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Power to dismiss certain appeals following references by the CCRC: Northern Ireland[^key-6ff8b6c197162ce15f34223ad07208c0]
+## 43. Power to dismiss certain appeals following references by the CCRC: Northern Ireland[^c-6ff8b6c197162ce15f34223ad07208c0]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ After section 13A of the Criminal Appeal (Northern Ireland) Act 1980 (c. 47) ins
 
 ## Annotations
 
-[^key-6ff8b6c197162ce15f34223ad07208c0]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2008/4/section/43) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/22)
+[^c-6ff8b6c197162ce15f34223ad07208c0]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2008/4/section/43) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/22)

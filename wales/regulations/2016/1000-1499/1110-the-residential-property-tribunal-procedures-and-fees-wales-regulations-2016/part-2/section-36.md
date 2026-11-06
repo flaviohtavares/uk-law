@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Enforcement[^key-f8c080e8cbaa35fe25ba971b41e0476f]
+## 36. Enforcement[^c-f8c080e8cbaa35fe25ba971b41e0476f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any decision of the tribunal may, with the permission of the county court, be en
 
 ## Annotations
 
-[^key-f8c080e8cbaa35fe25ba971b41e0476f]: Commencement: Reg. 36 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-f8c080e8cbaa35fe25ba971b41e0476f]: Commencement: Reg. 36 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

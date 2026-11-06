@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. National security exemption[^key-42708e1431dde7ee3eaa8d4a3e0c70b2][^key-c039161ae886e5782accc1567bb07050]
+## 88. National security exemption[^c-42708e1431dde7ee3eaa8d4a3e0c70b2][^c-c039161ae886e5782accc1567bb07050]
 
 *Extent: E+W+S+N.I.*
 
@@ -137,6 +137,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42708e1431dde7ee3eaa8d4a3e0c70b2]: Commencement: S. 88 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-42708e1431dde7ee3eaa8d4a3e0c70b2]: Commencement: S. 88 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-c039161ae886e5782accc1567bb07050]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2025/18/section/88) in force at 5.9.2025 by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/996/regulation/4))
+[^c-c039161ae886e5782accc1567bb07050]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2025/18/section/88) in force at 5.9.2025 by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/996/regulation/4))

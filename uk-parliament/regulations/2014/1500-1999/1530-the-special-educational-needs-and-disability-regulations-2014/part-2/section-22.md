@@ -42,18 +42,18 @@ as soon as practicable, and in any event within 8 weeks of the local authority s
 
 (4) Where the local authority decides not to amend the EHC plan, it must notify the child's parent or the young person of its decision and its reasons for this as soon as practicable and in any event within 8 weeks of the local authority sending a copy of the EHC plan in accordance with paragraph (2)(a).
 
-(5)[^key-b6aad6830528631951d807fbdeefd91d] When sending a the finalised EHC plan to the child's parent or the young person in accordance with paragraph (3), or notifying them in accordance with paragraph (4) the local authority must also notify them of—
+(5)[^c-b6aad6830528631951d807fbdeefd91d] When sending a the finalised EHC plan to the child's parent or the young person in accordance with paragraph (3), or notifying them in accordance with paragraph (4) the local authority must also notify them of—
 
 - (a) their right to appeal matters within the EHC plan in accordance with section 51(2)(c) or 51(2)(e) of the Act (as appropriate);
 - (b) the time limits for doing so;
 - (c) the information concerning mediation, set out in regulation 32; and
 - (d) the availability of—
   - (i) disagreement resolution services; and
-  - (ii) advice and information about matters relating to the special educational needs of children and young people ; and[^key-23e51ac8bc0699bcb3556875b8005f3d]
+  - (ii) advice and information about matters relating to the special educational needs of children and young people ; and[^c-23e51ac8bc0699bcb3556875b8005f3d]
 - (e) the First-tier Tribunal's power to make recommendations under the Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017.
 
 ## Annotations
 
-[^key-b6aad6830528631951d807fbdeefd91d]: Modification: Reg. 22(5) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
+[^c-b6aad6830528631951d807fbdeefd91d]: Modification: Reg. 22(5) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
 
-[^key-23e51ac8bc0699bcb3556875b8005f3d]: Textual amendment: Reg. 22(5)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)
+[^c-23e51ac8bc0699bcb3556875b8005f3d]: Textual amendment: Reg. 22(5)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)

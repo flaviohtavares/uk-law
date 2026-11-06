@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Training resources[^key-7e6b8e967f52d4cfd8ab71fcb488a35f]
+## 59. Training resources[^c-7e6b8e967f52d4cfd8ab71fcb488a35f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e6b8e967f52d4cfd8ab71fcb488a35f]: Commencement: Reg. 59 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7e6b8e967f52d4cfd8ab71fcb488a35f]: Commencement: Reg. 59 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.28. Office copies of documents[^key-1ad0df44fa9d5146fc7a9d6f98c6b58f]
+## 4.28. Office copies of documents[^c-1ad0df44fa9d5146fc7a9d6f98c6b58f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad0df44fa9d5146fc7a9d6f98c6b58f]: Commencement: Rule 4.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-1ad0df44fa9d5146fc7a9d6f98c6b58f]: Commencement: Rule 4.28 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

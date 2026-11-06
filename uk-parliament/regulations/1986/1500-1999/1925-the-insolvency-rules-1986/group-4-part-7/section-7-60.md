@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.60. Further Information and Disclosure[^key-626bf46fcbf44bc134f3a36c8356f8cb]
+## 7.60. Further Information and Disclosure[^c-626bf46fcbf44bc134f3a36c8356f8cb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-626bf46fcbf44bc134f3a36c8356f8cb]: Textual amendment: [Rule 7.60](https://www.legislation.gov.uk/uksi/1986/1925/article/7.60) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/8)
+[^c-626bf46fcbf44bc134f3a36c8356f8cb]: Textual amendment: [Rule 7.60](https://www.legislation.gov.uk/uksi/1986/1925/article/7.60) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/8)

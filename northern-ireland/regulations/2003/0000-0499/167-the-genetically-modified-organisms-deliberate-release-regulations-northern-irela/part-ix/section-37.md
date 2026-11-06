@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Advisory Committee for the purposes of the Order[^key-d7c38871eff1ca5d02e96034db11a568]
+## 37. Advisory Committee for the purposes of the Order[^c-d7c38871eff1ca5d02e96034db11a568]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ After Article 22 of the Order there shall be inserted –
 
 ## Annotations
 
-[^key-d7c38871eff1ca5d02e96034db11a568]: Commencement: Reg. 37 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-d7c38871eff1ca5d02e96034db11a568]: Commencement: Reg. 37 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00022]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43)

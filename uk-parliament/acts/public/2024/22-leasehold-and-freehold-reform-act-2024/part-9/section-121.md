@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Power to make consequential provision[^key-0c099773377020b5e8615b911edf13a7]
+## 121. Power to make consequential provision[^c-0c099773377020b5e8615b911edf13a7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c099773377020b5e8615b911edf13a7]: Commencement: S. 121 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)
+[^c-0c099773377020b5e8615b911edf13a7]: Commencement: S. 121 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)

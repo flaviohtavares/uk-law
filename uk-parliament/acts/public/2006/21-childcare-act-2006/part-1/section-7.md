@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Duty to secure early years provision free of charge in accordance with regulations[^key-e85777d091b31b48d017016c902a47bb][^key-0869fc135f7f5e0056a78120365b9df4][^key-d5e73e020686560c5b278eb66ee10d63]
+## 7. Duty to secure early years provision free of charge in accordance with regulations[^c-e85777d091b31b48d017016c902a47bb][^c-0869fc135f7f5e0056a78120365b9df4][^c-d5e73e020686560c5b278eb66ee10d63]
 
 *Extent: E+W*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e85777d091b31b48d017016c902a47bb]: Commencement: S. 7 in force at 1.4.2008 for specified purposes by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/785/article/2/a)
+[^c-e85777d091b31b48d017016c902a47bb]: Commencement: S. 7 in force at 1.4.2008 for specified purposes by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/785/article/2/a)
 
-[^key-0869fc135f7f5e0056a78120365b9df4]: Commencement: S. 7 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1) )
+[^c-0869fc135f7f5e0056a78120365b9df4]: Commencement: S. 7 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261) , [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1) )
 
-[^key-d5e73e020686560c5b278eb66ee10d63]: Textual amendment: S. 7 substituted (1.9.2012 for specified purposes, 1.9.2013 in so far as not already in force) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/2), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 5](https://www.legislation.gov.uk/uksi/2012/2213/article/5)
+[^c-d5e73e020686560c5b278eb66ee10d63]: Textual amendment: S. 7 substituted (1.9.2012 for specified purposes, 1.9.2013 in so far as not already in force) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/1/2), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 5](https://www.legislation.gov.uk/uksi/2012/2213/article/5)

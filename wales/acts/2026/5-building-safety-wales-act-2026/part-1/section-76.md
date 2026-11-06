@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Commonholds: provision for compliance with building safety duties[^key-d62c98761838651e0a67799577e7273c]
+## 76. Commonholds: provision for compliance with building safety duties[^c-d62c98761838651e0a67799577e7273c]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d62c98761838651e0a67799577e7273c]: Commencement: S. 76 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d62c98761838651e0a67799577e7273c]: Commencement: S. 76 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

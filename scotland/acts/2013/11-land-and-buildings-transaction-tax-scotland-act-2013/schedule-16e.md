@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 16E — Investment Zones Relief[^key-926efbfa61ce686164cf8f6b0b962da2]
+## Schedule 16E — Investment Zones Relief[^c-926efbfa61ce686164cf8f6b0b962da2]
 
 *Extent: S*
 
@@ -170,4 +170,4 @@ In this schedule, “**transaction land**”, in relation to a land transaction,
 
 ## Annotations
 
-[^key-926efbfa61ce686164cf8f6b0b962da2]: Textual amendment: [Sch. 16E](https://www.legislation.gov.uk/asp/2013/11/schedule/16E) inserted (26.2.2026) by [The Land and Buildings Transaction Tax (Investment Zones Relief) (Scotland) Order 2026 (S.S.I. 2026/110)](https://www.legislation.gov.uk/ssi/2026/110), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/110/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2026/110/schedule)
+[^c-926efbfa61ce686164cf8f6b0b962da2]: Textual amendment: [Sch. 16E](https://www.legislation.gov.uk/asp/2013/11/schedule/16E) inserted (26.2.2026) by [The Land and Buildings Transaction Tax (Investment Zones Relief) (Scotland) Order 2026 (S.S.I. 2026/110)](https://www.legislation.gov.uk/ssi/2026/110), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/110/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2026/110/schedule)

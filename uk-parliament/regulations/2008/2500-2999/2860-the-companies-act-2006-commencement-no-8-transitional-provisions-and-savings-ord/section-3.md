@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Provisions of the Companies Act 2006 coming into force on 1st October 2009[^key-b0f8be20547182c089b74b5351b29a40]
+## 3. Provisions of the Companies Act 2006 coming into force on 1st October 2009[^c-b0f8be20547182c089b74b5351b29a40]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ The following provisions of the Companies Act 2006 come into force on 1st Octobe
 - (b) Part 2 (sections 7 to 16) (company formation);
 - (c) in Part 3 (a company’s constitution)—
   - section 17 (a company’s constitution);
-  - sections 18 to 21, 22(1), (3) and (4) and 23 to 28[^key-3d01fb636697598d2d86eb9932944308] (articles of association);
+  - sections 18 to 21, 22(1), (3) and (4) and 23 to 28[^c-3d01fb636697598d2d86eb9932944308] (articles of association);
   - sections 31 to 38 (other provisions relating to a company’s constitution);
 - (d) in Part 4 (a company’s capacity and related matters)—
   - sections 39 to 42 (capacity of company and power of directors to bind it);
@@ -110,6 +110,6 @@ The following provisions of the Companies Act 2006 come into force on 1st Octobe
 
 ## Annotations
 
-[^key-b0f8be20547182c089b74b5351b29a40]: Commencement: Art. 3 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-b0f8be20547182c089b74b5351b29a40]: Commencement: Art. 3 in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
-[^key-3d01fb636697598d2d86eb9932944308]: Textual amendment: Words in art. 3(c) substituted (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/2)
+[^c-3d01fb636697598d2d86eb9932944308]: Textual amendment: Words in art. 3(c) substituted (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/2/2)

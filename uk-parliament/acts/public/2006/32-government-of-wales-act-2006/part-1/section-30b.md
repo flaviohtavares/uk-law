@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30B. Lay members of the Standards of Conduct Committee etc.[^key-082ee966347ed07669c203a4eb5f80ae]
+## 30B. Lay members of the Standards of Conduct Committee etc.[^c-082ee966347ed07669c203a4eb5f80ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-082ee966347ed07669c203a4eb5f80ae]: Textual amendment: [Ss. 30A](https://www.legislation.gov.uk/ukpga/2006/32/section/30A), [30B](https://www.legislation.gov.uk/ukpga/2006/32/section/30B) inserted (28.4.2026) by [Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9)](https://www.legislation.gov.uk/asc/2026/9), [ss. 18(3)](https://www.legislation.gov.uk/asc/2026/9/section/18/3), [26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1) (with temp. modifications until 7.11.2027 in [s. 18(4)](https://www.legislation.gov.uk/asc/2026/9/section/18/4))
+[^c-082ee966347ed07669c203a4eb5f80ae]: Textual amendment: [Ss. 30A](https://www.legislation.gov.uk/ukpga/2006/32/section/30A), [30B](https://www.legislation.gov.uk/ukpga/2006/32/section/30B) inserted (28.4.2026) by [Senedd Cymru (Member Accountability and Elections) Act 2026 (asc 9)](https://www.legislation.gov.uk/asc/2026/9), [ss. 18(3)](https://www.legislation.gov.uk/asc/2026/9/section/18/3), [26(1)](https://www.legislation.gov.uk/asc/2026/9/section/26/1) (with temp. modifications until 7.11.2027 in [s. 18(4)](https://www.legislation.gov.uk/asc/2026/9/section/18/4))

@@ -22,11 +22,11 @@ summary: ''
 
 (1) A person guilty of an offence under regulation 18(1), (3), (5) or (7) shall be liable—
 
-- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months[^key-6bdfadb209b788ff0a2fa587abef25e2], or to both; or
+- (a) on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months[^c-6bdfadb209b788ff0a2fa587abef25e2], or to both; or
 - (b) on conviction on indictment, to a fine, or to imprisonment for a term not exceeding 2 years, or to both.
 
 (2) A person guilty of an offence under regulation 18(2), (4) or (6) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 3 months, or to both.
 
 ## Annotations
 
-[^key-6bdfadb209b788ff0a2fa587abef25e2]: Textual amendment: Words in reg. 19 substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2005/1098/regulation/8)
+[^c-6bdfadb209b788ff0a2fa587abef25e2]: Textual amendment: Words in reg. 19 substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2005/1098/regulation/8)

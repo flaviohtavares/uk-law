@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Date from which payments are to be taken into account[^key-19b799aa65534e6c1d935b93b59462ed]
+## 77. Date from which payments are to be taken into account[^c-19b799aa65534e6c1d935b93b59462ed]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where regulations 74(1) and 76(1) apply, deductions must have effect, calculated
 
 ## Annotations
 
-[^key-19b799aa65534e6c1d935b93b59462ed]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2008/280/regulation/77) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-19b799aa65534e6c1d935b93b59462ed]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2008/280/regulation/77) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Penalty orders.[^key-495305aa53c283345bae615589c9a745]
+## 16. Penalty orders.[^c-495305aa53c283345bae615589c9a745]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-495305aa53c283345bae615589c9a745]: Textual amendment: Pt. 3 omitted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(1)](https://www.legislation.gov.uk/uksi/2005/848/article/17/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-495305aa53c283345bae615589c9a745]: Textual amendment: Pt. 3 omitted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(1)](https://www.legislation.gov.uk/uksi/2005/848/article/17/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Calculating the amount of a transfer value or club transfer value[^key-05d61d31da9d061c96f36adce104ee6c]
+## 137. Calculating the amount of a transfer value or club transfer value[^c-05d61d31da9d061c96f36adce104ee6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05d61d31da9d061c96f36adce104ee6c]: Commencement: [Reg. 137](https://www.legislation.gov.uk/uksi/2014/2848/regulation/137) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-05d61d31da9d061c96f36adce104ee6c]: Commencement: [Reg. 137](https://www.legislation.gov.uk/uksi/2014/2848/regulation/137) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

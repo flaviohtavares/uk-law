@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Protection zones and surveillance zones: general provisions[^key-3c3b7088dacdfb8cf3edd1928e3c8b06]
+## 31. Protection zones and surveillance zones: general provisions[^c-3c3b7088dacdfb8cf3edd1928e3c8b06]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c3b7088dacdfb8cf3edd1928e3c8b06]: Commencement: Reg. 31 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-3c3b7088dacdfb8cf3edd1928e3c8b06]: Commencement: Reg. 31 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-6d33d308f77aa1f73821583a6622a3ee] Part 3 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (NI 8) (criminal proceedings) is amended as follows.
+(1)[^c-6d33d308f77aa1f73821583a6622a3ee] Part 3 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (NI 8) (criminal proceedings) is amended as follows.
 
 (2) In Article 28(7) (legal aid in the magistrates' court)—
 
@@ -31,7 +31,7 @@ summary: ''
   ;
 - (b) after “being work done” insert “ , in a case falling within sub-paragraph (a) or (b), ”.
 
-(3)[^key-6d33d308f77aa1f73821583a6622a3ee] In Article 29(4) (legal aid in the Crown Court) at the end add
+(3)[^c-6d33d308f77aa1f73821583a6622a3ee] In Article 29(4) (legal aid in the Crown Court) at the end add
 
 > and
 >
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d33d308f77aa1f73821583a6622a3ee]: Commencement: [S. 83(1)](https://www.legislation.gov.uk/nia/2011/24/section/83/1)[(3)](https://www.legislation.gov.uk/nia/2011/24/section/83/3) in operation at 11.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 3(a)](https://www.legislation.gov.uk/nisr/2012/214/article/3/a)
+[^c-6d33d308f77aa1f73821583a6622a3ee]: Commencement: [S. 83(1)](https://www.legislation.gov.uk/nia/2011/24/section/83/1)[(3)](https://www.legislation.gov.uk/nia/2011/24/section/83/3) in operation at 11.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 3(a)](https://www.legislation.gov.uk/nisr/2012/214/article/3/a)

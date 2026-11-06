@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — Schedule 6B to the New Roads and Street Works Act 1991[^key-249a0c46a53c6cbb89f779065a6e0a34]
+## SCHEDULE 5 — Schedule 6B to the New Roads and Street Works Act 1991[^c-249a0c46a53c6cbb89f779065a6e0a34]
 
 *Extent: S*
 
@@ -146,4 +146,4 @@ summary: ''
 
 ## Annotations
 
-[^key-249a0c46a53c6cbb89f779065a6e0a34]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2005/12/schedule/5) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-249a0c46a53c6cbb89f779065a6e0a34]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2005/12/schedule/5) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

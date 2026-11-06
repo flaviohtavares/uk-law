@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Part 2 vehicles and Part 2 vehicle-combinations: authorisation requirements[^key-9bee3b0c235c93a353aa5e738d01793e]
+## 11. Part 2 vehicles and Part 2 vehicle-combinations: authorisation requirements[^c-9bee3b0c235c93a353aa5e738d01793e]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bee3b0c235c93a353aa5e738d01793e]: Commencement: Art. 11 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-9bee3b0c235c93a353aa5e738d01793e]: Commencement: Art. 11 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

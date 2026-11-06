@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**61.**[^key-8e34c3f49a9eb98384658032ad7e357a] In section 17ZG(1)(a)[^f00072] (section 17 services: continued provision where EHC plan is maintained) omit “in England”.
+**61.**[^c-8e34c3f49a9eb98384658032ad7e357a] In section 17ZG(1)(a)[^f00072] (section 17 services: continued provision where EHC plan is maintained) omit “in England”.
 
 ## Annotations
 
-[^key-8e34c3f49a9eb98384658032ad7e357a]: Commencement: Reg. 61 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-8e34c3f49a9eb98384658032ad7e357a]: Commencement: Reg. 61 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00072]: Footnote: Section 17ZG was inserted by the Children and Families Act 2014, section 50.

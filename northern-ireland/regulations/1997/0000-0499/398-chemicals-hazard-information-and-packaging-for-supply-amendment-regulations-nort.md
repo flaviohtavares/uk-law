@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-210f96a72959ccbf2231c9894338694e]
+Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-210f96a72959ccbf2231c9894338694e]
 
 Made
 
@@ -40,60 +40,60 @@ Coming into operation
 
 29th September 1997
 
-[^key-210f96a72959ccbf2231c9894338694e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-210f96a72959ccbf2231c9894338694e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-210f96a72959ccbf2231c9894338694e]
+## 1. Citation and commencement[^c-210f96a72959ccbf2231c9894338694e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-210f96a72959ccbf2231c9894338694e]
+## 2. Interpretation[^c-210f96a72959ccbf2231c9894338694e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-210f96a72959ccbf2231c9894338694e]
+## 3. Amendment of the principal Regulations[^c-210f96a72959ccbf2231c9894338694e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-210f96a72959ccbf2231c9894338694e]
+## 4. Transitional provisions[^c-210f96a72959ccbf2231c9894338694e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210f96a72959ccbf2231c9894338694e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-210f96a72959ccbf2231c9894338694e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-210f96a72959ccbf2231c9894338694e]
+## SCHEDULE[^c-210f96a72959ccbf2231c9894338694e]
 
 Regulation 3
 
-**1.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-210f96a72959ccbf2231c9894338694e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-210f96a72959ccbf2231c9894338694e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-210f96a72959ccbf2231c9894338694e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-210f96a72959ccbf2231c9894338694e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/398) revoked (14.11.2002) by [Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 (revoked) 2002 (S.R. 2002/301)](https://www.legislation.gov.uk/nisr/2002/301), [regs. 1](https://www.legislation.gov.uk/nisr/2002/301/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2002/301/regulation/18/1), [Sch. 8](https://www.legislation.gov.uk/nisr/2002/301/schedule/8)
+[^c-210f96a72959ccbf2231c9894338694e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/398) revoked (14.11.2002) by [Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 (revoked) 2002 (S.R. 2002/301)](https://www.legislation.gov.uk/nisr/2002/301), [regs. 1](https://www.legislation.gov.uk/nisr/2002/301/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2002/301/regulation/18/1), [Sch. 8](https://www.legislation.gov.uk/nisr/2002/301/schedule/8)

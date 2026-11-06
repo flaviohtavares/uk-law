@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.10. Court’s power to vary requirements under this Part[^key-28576aed8d148482fb4091c31ac86a84]
+## 34.10. Court’s power to vary requirements under this Part[^c-28576aed8d148482fb4091c31ac86a84]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Crown Court may—
 
 ## Annotations
 
-[^key-28576aed8d148482fb4091c31ac86a84]: Commencement: [Rule 34.10](https://www.legislation.gov.uk/uksi/2025/909/rule/34.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-28576aed8d148482fb4091c31ac86a84]: Commencement: [Rule 34.10](https://www.legislation.gov.uk/uksi/2025/909/rule/34.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

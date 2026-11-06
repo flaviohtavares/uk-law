@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Improvement information and planning[^key-90f4b9c1f1baa5095d8e11036ec0a475]
+## 93. Improvement information and planning[^c-90f4b9c1f1baa5095d8e11036ec0a475]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In respect of each financial year, the local government auditor must carry out a
 
 ## Annotations
 
-[^key-90f4b9c1f1baa5095d8e11036ec0a475]: Commencement: S. 93 in operation at 1.4.2016 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 3](https://www.legislation.gov.uk/nisr/2015/209/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/209/schedule/2)
+[^c-90f4b9c1f1baa5095d8e11036ec0a475]: Commencement: S. 93 in operation at 1.4.2016 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 3](https://www.legislation.gov.uk/nisr/2015/209/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/209/schedule/2)

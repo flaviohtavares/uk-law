@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Note as to inclusion of mines or minerals in the registered estate[^key-dbee8e531c7b6f6225e61d54dd8f6dbf]
+## 71. Note as to inclusion of mines or minerals in the registered estate[^c-dbee8e531c7b6f6225e61d54dd8f6dbf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbee8e531c7b6f6225e61d54dd8f6dbf]: Textual amendment: Rule 71 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/21) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-dbee8e531c7b6f6225e61d54dd8f6dbf]: Textual amendment: Rule 71 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/21) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

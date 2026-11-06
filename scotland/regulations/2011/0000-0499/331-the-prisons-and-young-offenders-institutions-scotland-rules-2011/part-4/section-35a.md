@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35A. Prisoners’ food and drink – coronavirus[^key-97cb5cfdddbcbedce6b5e2142e02c847]
+## 35A. Prisoners’ food and drink – coronavirus[^c-97cb5cfdddbcbedce6b5e2142e02c847]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97cb5cfdddbcbedce6b5e2142e02c847]: Textual amendment: [Rule 35A](https://www.legislation.gov.uk/ssi/2011/331/rule/35A) omitted (29.9.2020) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2020 (S.S.I. 2020/264)](https://www.legislation.gov.uk/ssi/2020/264), [rules 1](https://www.legislation.gov.uk/ssi/2020/264/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/264/rule/2/5)
+[^c-97cb5cfdddbcbedce6b5e2142e02c847]: Textual amendment: [Rule 35A](https://www.legislation.gov.uk/ssi/2011/331/rule/35A) omitted (29.9.2020) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2020 (S.S.I. 2020/264)](https://www.legislation.gov.uk/ssi/2020/264), [rules 1](https://www.legislation.gov.uk/ssi/2020/264/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/264/rule/2/5)

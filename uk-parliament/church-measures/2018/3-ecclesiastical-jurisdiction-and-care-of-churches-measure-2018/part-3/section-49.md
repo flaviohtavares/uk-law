@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 49. Role of churchwardens in recording information[^key-143ee8c119a9f26aad13643b89bdf8a7]
+## 49. Role of churchwardens in recording information[^c-143ee8c119a9f26aad13643b89bdf8a7]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-143ee8c119a9f26aad13643b89bdf8a7]: Commencement: [S. 49](https://www.legislation.gov.uk/ukcm/2018/3/section/49) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-143ee8c119a9f26aad13643b89bdf8a7]: Commencement: [S. 49](https://www.legislation.gov.uk/ukcm/2018/3/section/49) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Attendance of complainant, interested persons and others at misconduct proceedings[^key-fc8598ccdfe27b163f2ebb599ba6340b]
+## 40. Attendance of complainant, interested persons and others at misconduct proceedings[^c-fc8598ccdfe27b163f2ebb599ba6340b]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8598ccdfe27b163f2ebb599ba6340b]: Commencement: Reg. 40 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-fc8598ccdfe27b163f2ebb599ba6340b]: Commencement: Reg. 40 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960791]: Marginal citation: [Paragraph 19A](https://www.legislation.gov.uk/uksi/2020/4/paragraph/19A) was substituted for paragraphs 19A to 19E by paragraphs 9 and 21 of Schedule 5 to the Policing and Crime Act 2017.

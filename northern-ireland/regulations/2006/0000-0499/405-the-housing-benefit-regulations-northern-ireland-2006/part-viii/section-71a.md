@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71A. Duration of extended payment period (qualifying contributory benefits)[^key-d36cff0fd2e9a7c1477d5044168a58cd]
+## 71A. Duration of extended payment period (qualifying contributory benefits)[^c-d36cff0fd2e9a7c1477d5044168a58cd]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d36cff0fd2e9a7c1477d5044168a58cd]: Textual amendment: [Regs. 71-71C](https://www.legislation.gov.uk/nisr/2006/405/regulation/71) substituted for [reg. 71](https://www.legislation.gov.uk/nisr/2006/405/regulation/71) (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/5)
+[^c-d36cff0fd2e9a7c1477d5044168a58cd]: Textual amendment: [Regs. 71-71C](https://www.legislation.gov.uk/nisr/2006/405/regulation/71) substituted for [reg. 71](https://www.legislation.gov.uk/nisr/2006/405/regulation/71) (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/5)

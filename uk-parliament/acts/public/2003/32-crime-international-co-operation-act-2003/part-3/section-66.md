@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Effect of disqualification by virtue of section 57[^key-f461bd558e54752423fa5b0a84f98e6d]
+## 66. Effect of disqualification by virtue of section 57[^c-f461bd558e54752423fa5b0a84f98e6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the holder of a Great Britain licence or Northern Ireland licence is disqu
 
 ## Annotations
 
-[^key-f461bd558e54752423fa5b0a84f98e6d]: Commencement: S. 66 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-f461bd558e54752423fa5b0a84f98e6d]: Commencement: S. 66 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)

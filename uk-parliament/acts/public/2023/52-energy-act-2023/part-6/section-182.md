@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Designation of codes etc[^key-47800e50316ba8ac86549f6408e8edc7][^key-2021fb121c21ceae0ad87e49e29cf6ad]
+## 182. Designation of codes etc[^c-47800e50316ba8ac86549f6408e8edc7][^c-2021fb121c21ceae0ad87e49e29cf6ad]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47800e50316ba8ac86549f6408e8edc7]: Commencement: S. 182 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-47800e50316ba8ac86549f6408e8edc7]: Commencement: S. 182 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-2021fb121c21ceae0ad87e49e29cf6ad]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2023/52/section/182) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/i)
+[^c-2021fb121c21ceae0ad87e49e29cf6ad]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2023/52/section/182) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/i)

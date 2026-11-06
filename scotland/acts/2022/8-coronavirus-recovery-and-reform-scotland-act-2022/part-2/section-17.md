@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Report on public schools’ readiness for remote learning[^key-45c915495709343bab9caaf4d135eb5f][^key-c285c935e524aad9bf91de72ab78a49d]
+## 17. Report on public schools’ readiness for remote learning[^c-45c915495709343bab9caaf4d135eb5f][^c-c285c935e524aad9bf91de72ab78a49d]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45c915495709343bab9caaf4d135eb5f]: Commencement: S. 17 not in force at Royal Assent, see [s. 59(4)](https://www.legislation.gov.uk/asp/2022/8/section/59/4)
+[^c-45c915495709343bab9caaf4d135eb5f]: Commencement: S. 17 not in force at Royal Assent, see [s. 59(4)](https://www.legislation.gov.uk/asp/2022/8/section/59/4)
 
-[^key-c285c935e524aad9bf91de72ab78a49d]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2022/8/section/17) in force at 1.10.2022 by [S.S.I. 2022/274](https://www.legislation.gov.uk/ssi/2022/274), [reg. 2](https://www.legislation.gov.uk/ssi/2022/274/regulation/2)
+[^c-c285c935e524aad9bf91de72ab78a49d]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2022/8/section/17) in force at 1.10.2022 by [S.S.I. 2022/274](https://www.legislation.gov.uk/ssi/2022/274), [reg. 2](https://www.legislation.gov.uk/ssi/2022/274/regulation/2)

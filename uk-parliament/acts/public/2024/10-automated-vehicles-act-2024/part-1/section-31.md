@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Seizure of items[^key-cae11ef8e76ebb688508dcfecd540c9d]
+## 31. Seizure of items[^c-cae11ef8e76ebb688508dcfecd540c9d]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cae11ef8e76ebb688508dcfecd540c9d]: Commencement: S. 31 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-cae11ef8e76ebb688508dcfecd540c9d]: Commencement: S. 31 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

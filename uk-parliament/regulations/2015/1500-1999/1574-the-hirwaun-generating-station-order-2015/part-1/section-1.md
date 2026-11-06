@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-c8a01c0939ca588e9b9b630fcd3b0c0d]
+## 1. Citation and commencement[^c-c8a01c0939ca588e9b9b630fcd3b0c0d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Hirwaun Generating Station Order 2015 and comes i
 
 ## Annotations
 
-[^key-c8a01c0939ca588e9b9b630fcd3b0c0d]: Commencement: Art. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-c8a01c0939ca588e9b9b630fcd3b0c0d]: Commencement: Art. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

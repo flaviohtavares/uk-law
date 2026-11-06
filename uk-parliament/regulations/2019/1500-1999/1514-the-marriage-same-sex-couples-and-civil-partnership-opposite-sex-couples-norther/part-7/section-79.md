@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations (Northern Ireland) 1979[^key-d0e051b87e02f6a342f4fc6c11e08d19]
+## 79. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations (Northern Ireland) 1979[^c-d0e051b87e02f6a342f4fc6c11e08d19]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ In the Social Security (Widow’s Benefit, Retirement Pensions and Other Benefit
 
 ## Annotations
 
-[^key-d0e051b87e02f6a342f4fc6c11e08d19]: Commencement: Reg. 79 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-d0e051b87e02f6a342f4fc6c11e08d19]: Commencement: Reg. 79 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00139]: Footnote: [S.R. (N.I.) 1979/244](https://www.legislation.gov.uk/nisr/1979/244). Regulation 7(10) was amended by [S.R. (N.I.) 1981/375](https://www.legislation.gov.uk/nisr/1981/375).

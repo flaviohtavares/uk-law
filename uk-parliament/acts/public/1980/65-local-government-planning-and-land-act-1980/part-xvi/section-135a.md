@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135A. Oversight of locally-led urban development area[^key-ecbeb2151f08b48b6d68ca062b0ef803]
+## 135A. Oversight of locally-led urban development area[^c-ecbeb2151f08b48b6d68ca062b0ef803]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecbeb2151f08b48b6d68ca062b0ef803]: Textual amendment: S. 135A inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 171(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/171/7), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/h)
+[^c-ecbeb2151f08b48b6d68ca062b0ef803]: Textual amendment: S. 135A inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 171(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/171/7), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/h)

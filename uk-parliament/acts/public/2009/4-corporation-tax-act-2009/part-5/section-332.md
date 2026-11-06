@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. Repo, stock lending and other transactions[^key-5f96c5530330250fa3a86e1d55213cd9]
+## 332. Repo, stock lending and other transactions[^c-5f96c5530330250fa3a86e1d55213cd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f96c5530330250fa3a86e1d55213cd9]: Textual amendment: Ss. 331, 332 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/24)
+[^c-5f96c5530330250fa3a86e1d55213cd9]: Textual amendment: Ss. 331, 332 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/24)

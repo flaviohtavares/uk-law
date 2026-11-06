@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Power to prohibit entry to land or agricultural buildings in a protection zone[^key-bc5c7e6c2db97620b6c02013cbc9acf3]
+## 55. Power to prohibit entry to land or agricultural buildings in a protection zone[^c-bc5c7e6c2db97620b6c02013cbc9acf3]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ shall not enter any premises in respect of which a notice is displayed under par
 
 ## Annotations
 
-[^key-bc5c7e6c2db97620b6c02013cbc9acf3]: Commencement: Reg. 55 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-bc5c7e6c2db97620b6c02013cbc9acf3]: Commencement: Reg. 55 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

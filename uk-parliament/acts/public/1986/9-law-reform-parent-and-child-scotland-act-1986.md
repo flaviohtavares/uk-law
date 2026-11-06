@@ -35,24 +35,24 @@ An Act to make fresh provision in the law of Scotland with respect to the conseq
 
 [^c935753]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Abolition of status of illegitimacy .[^key-213c0f9433f72883189ba63f8849a23c]
+## 1. Abolition of status of illegitimacy .[^c-213c0f9433f72883189ba63f8849a23c]
 
-(1)[^c935755][^key-d7ac4bb2728afe11f6103d7bb9ac25d8][^key-854f40cdde30d913ff6259b13cd26de9] No person whose status is governed by Scots law shall be illegitimate; and accordingly the fact that a person's parents are not or have not been married to each other shall be left out of account in—
+(1)[^c935755][^c-d7ac4bb2728afe11f6103d7bb9ac25d8][^c-854f40cdde30d913ff6259b13cd26de9] No person whose status is governed by Scots law shall be illegitimate; and accordingly the fact that a person's parents are not or have not been married to each other shall be left out of account in—
 
 - (a) determining the person's legal status; or
 - (b) establishing the legal relationship between the person and any other person.
 
-(2)[^key-97039fb9cdc7b6a5fba2db6d855b0aa4] [^key-765876a4987258489c0ca1ff5db33193]... Any reference (however expressed) in any enactment or deed to any relative shall, unless the contrary intention appears in the enactment or deed, be construed in accordance with subsection (1) above.
+(2)[^c-97039fb9cdc7b6a5fba2db6d855b0aa4] [^c-765876a4987258489c0ca1ff5db33193]... Any reference (however expressed) in any enactment or deed to any relative shall, unless the contrary intention appears in the enactment or deed, be construed in accordance with subsection (1) above.
 
-(3)[^key-51f1024d63542f9c9e6b67a24e41e03d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-51f1024d63542f9c9e6b67a24e41e03d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Nothing in this section shall apply to the construction or effect of—
 
-- (a) any enactment passed or made before the commencement of section 21 of the Family Law (Scotland) Act 2006 (asp 2)[^key-7e4c2ddb615fd538f0620935580cd085] ;
+- (a) any enactment passed or made before the commencement of section 21 of the Family Law (Scotland) Act 2006 (asp 2)[^c-7e4c2ddb615fd538f0620935580cd085] ;
 - (b) any deed executed before such commencement;
-- (c)[^key-75b65d0b5c7b1fd8e093e23bb0f75a5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-75b65d0b5c7b1fd8e093e23bb0f75a5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-6f962486de06bac13aa3ad03a4047c8d] In subsection (4), “ **enactment** ” includes an Act of the Scottish Parliament.
+(5)[^c-6f962486de06bac13aa3ad03a4047c8d] In subsection (4), “ **enactment** ” includes an Act of the Scottish Parliament.
 
 (6) It shall no longer be competent to bring an action for declarator of legitimacy, legitimation or illegitimacy.
 
@@ -66,10 +66,10 @@ An Act to make fresh provision in the law of Scotland with respect to the conseq
 
 (1) A man shall be presumed to be the father of a child—
 
-- (a) if he was married to or in a civil partnership with[^key-5092be25fe4d89cbfc13651656540ff6] the mother of the child at any time in the period beginning with the conception and ending with the birth of the child;
+- (a) if he was married to or in a civil partnership with[^c-5092be25fe4d89cbfc13651656540ff6] the mother of the child at any time in the period beginning with the conception and ending with the birth of the child;
 - (b) where paragraph (a) above does not apply, if both he and the mother of the child have acknowledged that he is the father and he has been registered as such in any register kept under section 13 (register of births and still-births) or section 44 (register of corrections, etc.) of the [^c935762]Registration of Births, Deaths and Marriages (Scotland) Act 1965 or in any corresponding register kept under statutory authority in any part of the United Kingdom other than Scotland.
 
-(2) Subsection (1)(a) above shall apply—[^key-26fd3cb5787b6477795d8fc1135078dd]
+(2) Subsection (1)(a) above shall apply—[^c-26fd3cb5787b6477795d8fc1135078dd]
 
 - (a) in the case of a void, voidable or irregular marriage as it applies in the case of a valid and regular marriage,
 - (b) in the case of a void or voidable civil partnership as it applies in the case of a valid civil partnership.
@@ -93,7 +93,7 @@ An Act to make fresh provision in the law of Scotland with respect to the conseq
 
 ## 7. Actions for declarator.[^c935780]
 
-(1) An action for declarator of parentage, or non-parentage[^key-6f3f4fe7b0812d3a3f1048dc2139e507] may be brought in the Court of Session or the sheriff court.
+(1) An action for declarator of parentage, or non-parentage[^c-6f3f4fe7b0812d3a3f1048dc2139e507] may be brought in the Court of Session or the sheriff court.
 
 (2) Such an action may be brought in the Court of Session if and only if the child was born in Scotland or the alleged or presumed parent or the child—
 
@@ -110,7 +110,7 @@ An Act to make fresh provision in the law of Scotland with respect to the conseq
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c935781]
 
-(5) Nothing in any rule of law or enactment shall prevent the court making in any proceedings an incidental finding as to parentage, or non-parentage[^key-616a489b357159c8d26dd0402b9126ad] for the purposes of those proceedings.
+(5) Nothing in any rule of law or enactment shall prevent the court making in any proceedings an incidental finding as to parentage, or non-parentage[^c-616a489b357159c8d26dd0402b9126ad] for the purposes of those proceedings.
 
 (6) In this section “**the alleged or presumed parent**” includes a person who claims or is alleged to be or not to be the parent.
 
@@ -118,7 +118,7 @@ An Act to make fresh provision in the law of Scotland with respect to the conseq
 
 In this Act, unless the context otherwise requires, the following expressions shall have the following meanings respectively assigned to them—
 
-- “**action for declarator**” includes an application for declarator contained in other proceedings but does not include an appeal under section 20 (Appeals) of the Child Support Act 1991 made to the court by virtue of an order made under section 45 (jurisdictions of courts in certain proceedings) of that Act[^c935800] but does not include an appeal under section 20(1)(a) or (b) (Appeals) of the Child Support Act 1991 made to the court by virtue of an order made under section 45 (jurisdiction of the courts in certain proceedings) of that Act:[^key-e438deca68f7c38c7169c8740a757877];
+- “**action for declarator**” includes an application for declarator contained in other proceedings but does not include an appeal under section 20 (Appeals) of the Child Support Act 1991 made to the court by virtue of an order made under section 45 (jurisdictions of courts in certain proceedings) of that Act[^c935800] but does not include an appeal under section 20(1)(a) or (b) (Appeals) of the Child Support Act 1991 made to the court by virtue of an order made under section 45 (jurisdiction of the courts in certain proceedings) of that Act:[^c-e438deca68f7c38c7169c8740a757877];
 - [^c935801]. . .
 - “**the court**” means the Court of Session or the sheriff;
 - [^c935802] . . .
@@ -133,13 +133,13 @@ In this Act, unless the context otherwise requires, the following expressions sh
 
 (1) Nothing in this Act shall—
 
-- (a)[^key-056a1273d1dca6d5e427e14369d3328c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) subject to subsection (1A) below,[^key-218ba77d336f55e19455c6fe5456cfa7] except to the extent that Schedules 1 and 2 to this Act otherwise provide, affect the law relating to adoption of children;
-- (c) apply to any title, coat of arms, honour or dignity transmissible on the death of the holder thereof or affect the succession thereto or the devolution thereof (including, in particular, the competence of bringing an action of declarator of legitimacy, legitimation or illegitimacy in connection with such succession or devolution)[^key-215a00ed4efd2554b1df75e5761b44a9] ;
-- (ca)[^key-b342f89556ba62ec8f36a2286fb96404] affect the functions of the Lord Lyon King of Arms so far as relating to the granting of arms;
+- (a)[^c-056a1273d1dca6d5e427e14369d3328c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) subject to subsection (1A) below,[^c-218ba77d336f55e19455c6fe5456cfa7] except to the extent that Schedules 1 and 2 to this Act otherwise provide, affect the law relating to adoption of children;
+- (c) apply to any title, coat of arms, honour or dignity transmissible on the death of the holder thereof or affect the succession thereto or the devolution thereof (including, in particular, the competence of bringing an action of declarator of legitimacy, legitimation or illegitimacy in connection with such succession or devolution)[^c-215a00ed4efd2554b1df75e5761b44a9] ;
+- (ca)[^c-b342f89556ba62ec8f36a2286fb96404] affect the functions of the Lord Lyon King of Arms so far as relating to the granting of arms;
 - (d) affect the right of legitim out of, or the right of succession to, the estate of any person who died before the commencement of this Act.
 
-(1A)[^key-ca84214b4b6f8732ee7c724a62bfef08] Subsections (1) and (2) of section 1 of this Act shall apply in relation to adopted children.
+(1A)[^c-ca84214b4b6f8732ee7c724a62bfef08] Subsections (1) and (2) of section 1 of this Act shall apply in relation to adopted children.
 
 (2) The court may at any time vary or recall any order made under section 3 of this Act or consent given by it under section 6 of this Act.
 
@@ -183,7 +183,7 @@ Section 10(1).
 
 ### The National Assistance Act 1948 (c. 29)
 
-**5.**[^key-e940a66998a81f857aad6a6402427305] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e940a66998a81f857aad6a6402427305] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Matrimonial Proceedings (Children) Act 1958 (c. 40)
 
@@ -249,7 +249,7 @@ Section 10(1).
 - (a) in subsection (1)(a), for the words “or paternity” there shall be substituted the words “ , parentage or non-parentage ”; and
 - (b) in subsection (1)(c), for the words from “having been” to the end of paragraph (c) there shall be substituted the words “ has been so made as to imply that his parents were not then married to one another and his parents have subsequently married one another ”.
 
-(6)[^key-b5829722014a0dbda6e0086b7fcdefce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b5829722014a0dbda6e0086b7fcdefce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 43(3) (recording of baptismal name or change of name or surname), for the words from “in the case” to “the mother is” there shall be substituted the words “ if both parents are ”.
 
@@ -328,7 +328,7 @@ Section 10(1).
 
 ### The Damages (Scotland) Act 1976 (c. 13)
 
-**15.**[^key-462d3e951483caf6458f32951e10e668] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-462d3e951483caf6458f32951e10e668] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c935813]
 
@@ -342,7 +342,7 @@ Section 10(1).
 
 ### The Adoption (Scotland) Act 1978 (c. 28)
 
-**18.**[^key-ef08bb5dcb40ac827f3c0e6ed5be1e47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-ef08bb5dcb40ac827f3c0e6ed5be1e47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Administration of Justice Act 1982 (c. 53)
 
@@ -422,25 +422,25 @@ Section 10(2).
 
 [^c935753]: Modification: Act: definition of "parental rights" applied (17.6.1992) by [Child Support Act 1991 (c. 48, SIF 20)](https://www.legislation.gov.uk/ukpga/1991/48), [s.54](https://www.legislation.gov.uk/ukpga/1991/48/section/54), (with s. 9(2)); [S.I. 1992/1431](https://www.legislation.gov.uk/uksi/1992/1431), [art. 2](https://www.legislation.gov.uk/uksi/1992/1431/article/2),Sch.
 
-[^key-213c0f9433f72883189ba63f8849a23c]: Textual amendment: S. 1: title substituted (4.5.2006) by virtue of [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(3)](https://www.legislation.gov.uk/asp/2006/2/section/21/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-213c0f9433f72883189ba63f8849a23c]: Textual amendment: S. 1: title substituted (4.5.2006) by virtue of [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(3)](https://www.legislation.gov.uk/asp/2006/2/section/21/3), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
 [^c935755]: Modification: S. 1(1) excluded (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/3/1) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-d7ac4bb2728afe11f6103d7bb9ac25d8]: Modification: S. 1(1) applied (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 86(8)](https://www.legislation.gov.uk/ukpga/2004/33/section/86/8), [263(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/604/article/2/b)
+[^c-d7ac4bb2728afe11f6103d7bb9ac25d8]: Modification: S. 1(1) applied (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 86(8)](https://www.legislation.gov.uk/ukpga/2004/33/section/86/8), [263(3)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/604/article/2/b)
 
-[^key-854f40cdde30d913ff6259b13cd26de9]: Textual amendment: S. 1(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(2)(a)](https://www.legislation.gov.uk/asp/2006/2/section/21/2/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-854f40cdde30d913ff6259b13cd26de9]: Textual amendment: S. 1(1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(2)(a)](https://www.legislation.gov.uk/asp/2006/2/section/21/2/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-97039fb9cdc7b6a5fba2db6d855b0aa4]: Modification: S. 1(2) excluded (6.4.2003 with effect in accordance with s. 723(1)(a)(b)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [ss. 721(6)(c)](https://www.legislation.gov.uk/ukpga/2003/1/section/721/6/c), [723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-97039fb9cdc7b6a5fba2db6d855b0aa4]: Modification: S. 1(2) excluded (6.4.2003 with effect in accordance with s. 723(1)(a)(b)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [ss. 721(6)(c)](https://www.legislation.gov.uk/ukpga/2003/1/section/721/6/c), [723](https://www.legislation.gov.uk/ukpga/2003/1/section/723) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-765876a4987258489c0ca1ff5db33193]: Textual amendment: Words in s. 1(2) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-765876a4987258489c0ca1ff5db33193]: Textual amendment: Words in s. 1(2) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-51f1024d63542f9c9e6b67a24e41e03d]: Textual amendment: S. 1(3) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-51f1024d63542f9c9e6b67a24e41e03d]: Textual amendment: S. 1(3) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-7e4c2ddb615fd538f0620935580cd085]: Textual amendment: Words in s. 1(4)(a) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(2)(b)](https://www.legislation.gov.uk/asp/2006/2/section/21/2/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-7e4c2ddb615fd538f0620935580cd085]: Textual amendment: Words in s. 1(4)(a) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(2)(b)](https://www.legislation.gov.uk/asp/2006/2/section/21/2/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-75b65d0b5c7b1fd8e093e23bb0f75a5d]: Textual amendment: S. 1(4)(c) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-75b65d0b5c7b1fd8e093e23bb0f75a5d]: Textual amendment: S. 1(4)(c) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-6f962486de06bac13aa3ad03a4047c8d]: Textual amendment: S. 1(5)(6) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(2)(c)](https://www.legislation.gov.uk/asp/2006/2/section/21/2/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [arts. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4), [9](https://www.legislation.gov.uk/ssi/2006/212/article/9))
+[^c-6f962486de06bac13aa3ad03a4047c8d]: Textual amendment: S. 1(5)(6) added (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(2)(c)](https://www.legislation.gov.uk/asp/2006/2/section/21/2/c), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [arts. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4), [9](https://www.legislation.gov.uk/ssi/2006/212/article/9))
 
 [^c935757]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1986/9/section/2) repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/5), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) Table
 
@@ -448,11 +448,11 @@ Section 10(2).
 
 [^c935761]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1986/9/section/4) repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/5), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) Table
 
-[^key-5092be25fe4d89cbfc13651656540ff6]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1986/9/section/5/1/a) inserted (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/3/2/a); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-5092be25fe4d89cbfc13651656540ff6]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1986/9/section/5/1/a) inserted (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/3/2/a); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
 [^c935762]: Marginal citation: [1965 c. 49](https://www.legislation.gov.uk/ukpga/1965/49).
 
-[^key-26fd3cb5787b6477795d8fc1135078dd]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/5/2) substituted (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/3/2/b); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-26fd3cb5787b6477795d8fc1135078dd]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1986/9/section/5/2) substituted (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/3/2/b); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
 [^c935773]: Textual amendment: Words substituted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 47)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 70(3)(a)(4)](https://www.legislation.gov.uk/ukpga/1990/40/section/70/3/a/4)
 
@@ -464,17 +464,17 @@ Section 10(2).
 
 [^c935780]: Modification: S. 7 extended (5. 4. 1993) by [Child Support Act 1991 (c. 48, SIF 20)](https://www.legislation.gov.uk/ukpga/1991/48), [s. 28(1)](https://www.legislation.gov.uk/ukpga/1991/48/section/28/1), (with s. 9(2)); [S.I. 1992/2644](https://www.legislation.gov.uk/uksi/1992/2644), [art.2](https://www.legislation.gov.uk/uksi/1992/2644/article/2) (subject to transitional provisions as set out in [art. 3](https://www.legislation.gov.uk/uksi/1992/2644/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/2644/schedule))
 
-[^key-6f3f4fe7b0812d3a3f1048dc2139e507]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1986/9/section/7/1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2006/212/article/10))
+[^c-6f3f4fe7b0812d3a3f1048dc2139e507]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/1986/9/section/7/1) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2006/212/article/10))
 
 [^c935781]: Textual amendment: S. 7(4) repealed [Civil Evidence (Scotland) Act 1988 (c. 32, SIF 47)](https://www.legislation.gov.uk/ukpga/1988/32), [s. 10(1)(3)](https://www.legislation.gov.uk/ukpga/1988/32/section/10/1/3), [Sch.](https://www.legislation.gov.uk/ukpga/1988/32/schedule)
 
-[^key-616a489b357159c8d26dd0402b9126ad]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1986/9/section/7/5) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2006/212/article/10))
+[^c-616a489b357159c8d26dd0402b9126ad]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/ukpga/1986/9/section/7/5) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 10](https://www.legislation.gov.uk/ssi/2006/212/article/10))
 
 [^c935799]: Modification: S. 8: definition of "parental rights" applied by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [s. 9](https://www.legislation.gov.uk/ukpga/1991/50/section/9) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3)).
 
 [^c935800]: Textual amendment: Words in s. 8 definition of "action for declarator" inserted (5.4.1993) by [S.I. 1993/961](https://www.legislation.gov.uk/uksi/1993/961), [art. 8](https://www.legislation.gov.uk/uksi/1993/961/article/8).
 
-[^key-e438deca68f7c38c7169c8740a757877]: Textual amendment: Words in s. 8 inserted (18.2.2003 coming into force in accordance with art. 1(2)) by virtue of [Child Support Appeals (Jurisdiction of Courts) (Scotland) Order 2003 (S.S.I. 2003/96)](https://www.legislation.gov.uk/ssi/2003/96), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2003/96/article/1/2), [7](https://www.legislation.gov.uk/ssi/2003/96/article/7)
+[^c-e438deca68f7c38c7169c8740a757877]: Textual amendment: Words in s. 8 inserted (18.2.2003 coming into force in accordance with art. 1(2)) by virtue of [Child Support Appeals (Jurisdiction of Courts) (Scotland) Order 2003 (S.S.I. 2003/96)](https://www.legislation.gov.uk/ssi/2003/96), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2003/96/article/1/2), [7](https://www.legislation.gov.uk/ssi/2003/96/article/7)
 
 [^c935801]: Textual amendment: Definition repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/5), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) Table
 
@@ -484,15 +484,15 @@ Section 10(2).
 
 [^c935804]: Textual amendment: S. 8: definition of "tutor" repealed by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3)).
 
-[^key-056a1273d1dca6d5e427e14369d3328c]: Textual amendment: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/a) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-056a1273d1dca6d5e427e14369d3328c]: Textual amendment: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/a) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-218ba77d336f55e19455c6fe5456cfa7]: Textual amendment: Words in [s. 9(1)(b)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/b) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/3/a); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-218ba77d336f55e19455c6fe5456cfa7]: Textual amendment: Words in [s. 9(1)(b)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/b) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/3/a); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
-[^key-215a00ed4efd2554b1df75e5761b44a9]: Textual amendment: Words in [s. 9(1)(c)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/c) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(4)(a)](https://www.legislation.gov.uk/asp/2006/2/section/21/4/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-215a00ed4efd2554b1df75e5761b44a9]: Textual amendment: Words in [s. 9(1)(c)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/c) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(4)(a)](https://www.legislation.gov.uk/asp/2006/2/section/21/4/a), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-b342f89556ba62ec8f36a2286fb96404]: Textual amendment: [S. 9(1)(ca)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/ca) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(4)(b)](https://www.legislation.gov.uk/asp/2006/2/section/21/4/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
+[^c-b342f89556ba62ec8f36a2286fb96404]: Textual amendment: [S. 9(1)(ca)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1/ca) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 21(4)(b)](https://www.legislation.gov.uk/asp/2006/2/section/21/4/b), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/212/article/4))
 
-[^key-ca84214b4b6f8732ee7c724a62bfef08]: Textual amendment: [S. 9(1A)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/3/b); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-ca84214b4b6f8732ee7c724a62bfef08]: Textual amendment: [S. 9(1A)](https://www.legislation.gov.uk/ukpga/1986/9/section/9/1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/asp/2006/2/schedule/2/paragraph/6/3/b); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c935805]: Modification: Power of appointment conferred by s. 11(2) fully exercised: 8.12.1986 appointed by [S.I. 1986/1983](https://www.legislation.gov.uk/uksi/1986/1983), [art. 2](https://www.legislation.gov.uk/uksi/1986/1983/article/2).
 
@@ -500,9 +500,9 @@ Section 10(2).
 
 [^c935807]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/3) repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/5), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1995/2203](https://www.legislation.gov.uk/uksi/1995/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1995/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1995/2203/schedule) Table
 
-[^key-e940a66998a81f857aad6a6402427305]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/5) repealed (5.10.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [Sch. 2](https://www.legislation.gov.uk/asp/2007/10/schedule/2); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-e940a66998a81f857aad6a6402427305]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/5) repealed (5.10.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [Sch. 2](https://www.legislation.gov.uk/asp/2007/10/schedule/2); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
 
-[^key-b5829722014a0dbda6e0086b7fcdefce]: Textual amendment: [Sch. 1 para. 8(6)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/8/6) repealed (1.1.2007) by [Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [arts. 1](https://www.legislation.gov.uk/ssi/2006/596/article/1), [5](https://www.legislation.gov.uk/ssi/2006/596/article/5)
+[^c-b5829722014a0dbda6e0086b7fcdefce]: Textual amendment: [Sch. 1 para. 8(6)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/8/6) repealed (1.1.2007) by [Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [arts. 1](https://www.legislation.gov.uk/ssi/2006/596/article/1), [5](https://www.legislation.gov.uk/ssi/2006/596/article/5)
 
 [^c935808]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/9/2) and (6) repealed by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/2), [Sch.2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3)).
 
@@ -512,11 +512,11 @@ Section 10(2).
 
 [^c935812]: Textual amendment: [Sch. 1 para. 14(1)(b)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/14/1/b) repealed by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/2), [Sch.2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3)).
 
-[^key-462d3e951483caf6458f32951e10e668]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/15) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-462d3e951483caf6458f32951e10e668]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/15) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
 [^c935813]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/16) repealed by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [ss. 86](https://www.legislation.gov.uk/ukpga/1986/50/section/86), [87(4)(5)](https://www.legislation.gov.uk/ukpga/1986/50/section/87/4/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1986/50/schedule/11)
 
-[^key-ef08bb5dcb40ac827f3c0e6ed5be1e47]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/18) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-ef08bb5dcb40ac827f3c0e6ed5be1e47]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/18) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
 [^c935814]: Textual amendment: [Sch. 1 para. 20(b)](https://www.legislation.gov.uk/ukpga/1986/9/schedule/1/paragraph/20/b) repealed by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/2), [Sch.2](https://www.legislation.gov.uk/ukpga/1991/50/schedule/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3)).
 

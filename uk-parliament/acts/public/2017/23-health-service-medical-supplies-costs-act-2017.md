@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Controlling cost of health service medicines
 
-### 1. Remuneration for persons providing special medicinal products: England[^key-8bdc2a4db9ed974d427d7e2a220bb22a]
+### 1. Remuneration for persons providing special medicinal products: England[^c-8bdc2a4db9ed974d427d7e2a220bb22a]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ In section 164 of the National Health Service Act 2006 (remuneration for persons
 > - “**health service body**” has the meaning given by section 9(4);
 > - “**special medicinal product**” means a product which is a special medicinal product for the purposes of regulation 167 of the Human Medicines Regulations 2012 (S.I. 2012/1916).
 
-### 2. Remuneration for persons providing special medicinal products: Wales[^key-2afbfacf18f408dee4ae3e6be5435eae]
+### 2. Remuneration for persons providing special medicinal products: Wales[^c-2afbfacf18f408dee4ae3e6be5435eae]
 
 *Extent: E+W*
 
@@ -94,7 +94,7 @@ In section 88 of the National Health Service (Wales) Act 2006 (remuneration for 
 > - “**health service body**” has the meaning given by section 7(4);
 > - “**special medicinal product**” means a product which is a special medicinal product for the purposes of regulation 167 of the Human Medicines Regulations 2012 (S.I. 2012/1916).
 
-### 3. Voluntary schemes[^key-4362bc2785a879c0d0b32c6bb4ac3834]
+### 3. Voluntary schemes[^c-4362bc2785a879c0d0b32c6bb4ac3834]
 
 (1) Section 261 of the National Health Service Act 2006 (voluntary schemes for controlling the cost of health service medicines) is amended as follows.
 
@@ -118,13 +118,13 @@ In section 88 of the National Health Service (Wales) Act 2006 (remuneration for 
 > - (a) the withdrawal of consent by the person to the scheme being treated as applying to the person;
 > - (b) the giving of notice to the person under subsection (4).
 
-### 4. Power to control prices[^key-6833b8ed51ed678e0e195c3313ed5b7d]
+### 4. Power to control prices[^c-6833b8ed51ed678e0e195c3313ed5b7d]
 
 For section 262(2) of the National Health Service Act 2006 (circumstances in which powers not exercisable) substitute—
 
 > (2) If at any time a health service medicine is covered by a voluntary scheme applying to its manufacturer or supplier, the powers conferred by this section may not be exercised at that time in relation to that manufacturer or supplier as regards that medicine.
 
-### 5. Statutory schemes[^key-33e9b387c2317ab43d1e02c10b04389f]
+### 5. Statutory schemes[^c-33e9b387c2317ab43d1e02c10b04389f]
 
 (1) Section 263 of the National Health Service Act 2006 (statutory schemes for controlling the cost of health service medicines) is amended as follows.
 
@@ -157,7 +157,7 @@ For section 262(2) of the National Health Service Act 2006 (circumstances in whi
 
 > (8) Subsection (7) does not affect any liability of a person to pay amounts to the Secretary of State arising during a period when a health service medicine was covered by a statutory scheme applying to the person or the taking of any action in relation to any such liability.
 
-### 6. Enforcement[^key-a5e25d2d7b15da8332d2da13b3666c60]
+### 6. Enforcement[^c-a5e25d2d7b15da8332d2da13b3666c60]
 
 (1) The National Health Service Act 2006 is amended as follows.
 
@@ -189,7 +189,7 @@ For section 262(2) of the National Health Service Act 2006 (circumstances in whi
 
 ## Controlling cost of other medical supplies
 
-### 7. Control of maximum price of other medical supplies[^key-2b7fc0061b83c31e3f9ede75fa581d3d]
+### 7. Control of maximum price of other medical supplies[^c-2b7fc0061b83c31e3f9ede75fa581d3d]
 
 (1) The National Health Service Act 2006 is amended as follows.
 
@@ -221,7 +221,7 @@ For section 262(2) of the National Health Service Act 2006 (circumstances in whi
 
 ## Information about medical supplies etc
 
-### 8. Provision of information to Secretary of State and disclosure[^key-1dda78b1ce136df91e5d5ad334086e4f]
+### 8. Provision of information to Secretary of State and disclosure[^c-1dda78b1ce136df91e5d5ad334086e4f]
 
 After section 264 of the National Health Service Act 2006 insert—
 
@@ -452,34 +452,34 @@ After section 264 of the National Health Service Act 2006 insert—
 
 ### 10. Consequential amendments
 
-(1)[^key-1a6984e235b602d8ad439cfe56682023] Omit the following provisions of the National Health Service (Scotland) Act 1978—
+(1)[^c-1a6984e235b602d8ad439cfe56682023] Omit the following provisions of the National Health Service (Scotland) Act 1978—
 
 - (a) section 49 (control of maximum prices for medical supplies other than health service medicines), and
 - (b) Schedule 10 (additional provisions as to control of maximum prices for medical supplies other than health service medicines).
 
-(2)[^key-1a6984e235b602d8ad439cfe56682023] The National Health Service Act 2006 is amended as follows.
+(2)[^c-1a6984e235b602d8ad439cfe56682023] The National Health Service Act 2006 is amended as follows.
 
-(3)[^key-1a6984e235b602d8ad439cfe56682023] In section 260 (control of maximum price of medical supplies other than health service medicines)—
+(3)[^c-1a6984e235b602d8ad439cfe56682023] In section 260 (control of maximum price of medical supplies other than health service medicines)—
 
 - (a) omit subsections (2) to (4), and
 - (b) in subsection (5) omit—
   - (i) “and Schedule 22”, and
   - (ii) the definition of “undertaking” (and the “and” before it).
 
-(4)[^key-1a6984e235b602d8ad439cfe56682023] In section 261 (powers relating to voluntary schemes) omit subsection (7).
+(4)[^c-1a6984e235b602d8ad439cfe56682023] In section 261 (powers relating to voluntary schemes) omit subsection (7).
 
-(5)[^key-1a6984e235b602d8ad439cfe56682023] In section 263 (statutory schemes)—
+(5)[^c-1a6984e235b602d8ad439cfe56682023] In section 263 (statutory schemes)—
 
 - (a) in subsection (2) for “(3)” substitute “ (4) ”, and
 - (b) omit subsection (3).
 
-(6)[^key-1a6984e235b602d8ad439cfe56682023] In section 264 (statutory schemes: supplementary) omit subsection (2).
+(6)[^c-1a6984e235b602d8ad439cfe56682023] In section 264 (statutory schemes: supplementary) omit subsection (2).
 
-(7)[^key-1a6984e235b602d8ad439cfe56682023] Section 265 (enforcement) is amended in accordance with subsections (8) to (14).
+(7)[^c-1a6984e235b602d8ad439cfe56682023] Section 265 (enforcement) is amended in accordance with subsections (8) to (14).
 
-(8)[^key-1a6984e235b602d8ad439cfe56682023] In subsection (1) for “264” substitute “ 264A ”.
+(8)[^c-1a6984e235b602d8ad439cfe56682023] In subsection (1) for “264” substitute “ 264A ”.
 
-(9)[^key-1a6984e235b602d8ad439cfe56682023] In subsection (5)—
+(9)[^c-1a6984e235b602d8ad439cfe56682023] In subsection (5)—
 
 - (a) the words from “conferring” to the end become paragraph (a), and
 - (b) after paragraph (a) insert
@@ -488,29 +488,29 @@ After section 264 of the National Health Service Act 2006 insert—
   >
   > - (b) conferring on UK producers a right of appeal against enforcement decisions taken in respect of them in pursuance of section 264A and this section (other than enforcement decisions falling within subsection (5A)).
 
-(10)[^key-1a6984e235b602d8ad439cfe56682023] After subsection (5) insert—
+(10)[^c-1a6984e235b602d8ad439cfe56682023] After subsection (5) insert—
 
 > (5A) Provision must be made by regulations for conferring on UK producers a right of appeal against enforcement decisions taken in respect of them in pursuance of section 264A and this section if the enforcement decisions relate to information notices given by virtue of section 264A(5).
 
-(11)[^key-1a6984e235b602d8ad439cfe56682023] In subsection (7)(a) and (d) after “supplier” insert “ , or other person who is a UK producer, ”.
+(11)[^c-1a6984e235b602d8ad439cfe56682023] In subsection (7)(a) and (d) after “supplier” insert “ , or other person who is a UK producer, ”.
 
-(12)[^key-1a6984e235b602d8ad439cfe56682023] In subsection (8) for “264” substitute “ 264A ”.
+(12)[^c-1a6984e235b602d8ad439cfe56682023] In subsection (8) for “264” substitute “ 264A ”.
 
-(13)[^key-1a6984e235b602d8ad439cfe56682023] For subsection (9) substitute—
+(13)[^c-1a6984e235b602d8ad439cfe56682023] For subsection (9) substitute—
 
 > (9) Before making any regulations under this section the Secretary of State must consult the industry body and any other body which appears to the Secretary of State appropriate to represent UK producers.
 
-(14)[^key-1a6984e235b602d8ad439cfe56682023] After subsection (10) insert—
+(14)[^c-1a6984e235b602d8ad439cfe56682023] After subsection (10) insert—
 
 > (11) In this section “**UK producer**” is to be read in accordance with section 264A.
 
-(15)[^key-1a6984e235b602d8ad439cfe56682023] In section 271 (territorial limit of exercise of functions), in subsection (3)(i) omit “and Schedule 22”.
+(15)[^c-1a6984e235b602d8ad439cfe56682023] In section 271 (territorial limit of exercise of functions), in subsection (3)(i) omit “and Schedule 22”.
 
-(16)[^key-1a6984e235b602d8ad439cfe56682023] In section 272 (orders, regulations, rules and directions) omit subsection (9).
+(16)[^c-1a6984e235b602d8ad439cfe56682023] In section 272 (orders, regulations, rules and directions) omit subsection (9).
 
-(17)[^key-1a6984e235b602d8ad439cfe56682023] In section 278 (extent), in subsection (3), after “supplies)” insert “ , and this Part to the extent that it applies to those sections, ”.
+(17)[^c-1a6984e235b602d8ad439cfe56682023] In section 278 (extent), in subsection (3), after “supplies)” insert “ , and this Part to the extent that it applies to those sections, ”.
 
-(18)[^key-1a6984e235b602d8ad439cfe56682023] In Schedule 22 (provisions in relation to section 260) omit paragraphs 2 to 11.
+(18)[^c-1a6984e235b602d8ad439cfe56682023] In Schedule 22 (provisions in relation to section 260) omit paragraphs 2 to 11.
 
 (19) In section 203(6) of the National Health Service (Wales) Act 2006 (statutory instruments which are subject to affirmative procedure) after “section 25B(3)(c) or” insert “ 201A(9) or ”.
 
@@ -543,20 +543,20 @@ This Act may be cited as the Health Service Medical Supplies (Costs) Act 2017.
 
 ## Annotations
 
-[^key-8bdc2a4db9ed974d427d7e2a220bb22a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/23/section/1) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/a)
+[^c-8bdc2a4db9ed974d427d7e2a220bb22a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/23/section/1) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/a)
 
-[^key-2afbfacf18f408dee4ae3e6be5435eae]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/23/section/2) in force at 21.11.2022 by [S.I. 2022/1201](https://www.legislation.gov.uk/wsi/2022/1201), [art. 2](https://www.legislation.gov.uk/wsi/2022/1201/article/2)
+[^c-2afbfacf18f408dee4ae3e6be5435eae]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/23/section/2) in force at 21.11.2022 by [S.I. 2022/1201](https://www.legislation.gov.uk/wsi/2022/1201), [art. 2](https://www.legislation.gov.uk/wsi/2022/1201/article/2)
 
-[^key-4362bc2785a879c0d0b32c6bb4ac3834]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/23/section/3) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/b)
+[^c-4362bc2785a879c0d0b32c6bb4ac3834]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/23/section/3) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/b)
 
-[^key-6833b8ed51ed678e0e195c3313ed5b7d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/23/section/4) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/c)
+[^c-6833b8ed51ed678e0e195c3313ed5b7d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/23/section/4) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/c)
 
-[^key-33e9b387c2317ab43d1e02c10b04389f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/23/section/5) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/d)
+[^c-33e9b387c2317ab43d1e02c10b04389f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/23/section/5) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/d)
 
-[^key-a5e25d2d7b15da8332d2da13b3666c60]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/23/section/6) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/e)
+[^c-a5e25d2d7b15da8332d2da13b3666c60]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/23/section/6) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/e)
 
-[^key-2b7fc0061b83c31e3f9ede75fa581d3d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/23/section/7) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/f)
+[^c-2b7fc0061b83c31e3f9ede75fa581d3d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/23/section/7) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/f)
 
-[^key-1dda78b1ce136df91e5d5ad334086e4f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/23/section/8) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/g)
+[^c-1dda78b1ce136df91e5d5ad334086e4f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/23/section/8) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/g)
 
-[^key-1a6984e235b602d8ad439cfe56682023]: Commencement: [S. 10(1)-(18)](https://www.legislation.gov.uk/ukpga/2017/23/section/10/1) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/809/regulation/3))
+[^c-1a6984e235b602d8ad439cfe56682023]: Commencement: [S. 10(1)-(18)](https://www.legislation.gov.uk/ukpga/2017/23/section/10/1) in force at 7.8.2017 by [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/809/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Task of the Financial Services Tribunal on transitional reference[^key-50b16ad1b2bb40fcfcdf8f8a25def916]
+## 106. Task of the Financial Services Tribunal on transitional reference[^c-50b16ad1b2bb40fcfcdf8f8a25def916]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50b16ad1b2bb40fcfcdf8f8a25def916]: Commencement: Art. 106 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-50b16ad1b2bb40fcfcdf8f8a25def916]: Commencement: Art. 106 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

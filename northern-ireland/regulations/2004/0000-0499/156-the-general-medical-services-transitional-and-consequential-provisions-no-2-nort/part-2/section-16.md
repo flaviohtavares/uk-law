@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Qualifications of performers[^key-69ed212e8142050ca0a71e1b34121a0d]
+## 16. Qualifications of performers[^c-69ed212e8142050ca0a71e1b34121a0d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69ed212e8142050ca0a71e1b34121a0d]: Commencement: Art. 16 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-69ed212e8142050ca0a71e1b34121a0d]: Commencement: Art. 16 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

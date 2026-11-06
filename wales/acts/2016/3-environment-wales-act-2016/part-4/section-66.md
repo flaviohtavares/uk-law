@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Prohibition on disposal of food waste to sewer[^key-afe2756720e706ca3abac90cda038d4b]
+## 66. Prohibition on disposal of food waste to sewer[^c-afe2756720e706ca3abac90cda038d4b]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afe2756720e706ca3abac90cda038d4b]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2016/3/section/66) in force at 6.4.2024 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 3](https://www.legislation.gov.uk/wsi/2023/1096/article/3)
+[^c-afe2756720e706ca3abac90cda038d4b]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2016/3/section/66) in force at 6.4.2024 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 3](https://www.legislation.gov.uk/wsi/2023/1096/article/3)

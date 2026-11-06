@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.50. First meetings[^key-1bce7bfd7b4324bb14d6ef010028388e]
+## 4.50. First meetings[^c-1bce7bfd7b4324bb14d6ef010028388e]
 
 *Extent: E+W*
 
@@ -43,12 +43,12 @@ summary: ''
 
 (7) Meetings summoned by the official receiver under this Rule are known respectively as “the first meeting of creditors” and “the first meeting of contributories”, and jointly as “the first meetings in the liquidation”.
 
-(8) Where the company is an authorised deposit-taker or a former authorised deposit-taker[^key-e911c956f30719fb7202a1407fd280f0], additional notices are required by Rule 4.72.
+(8) Where the company is an authorised deposit-taker or a former authorised deposit-taker[^c-e911c956f30719fb7202a1407fd280f0], additional notices are required by Rule 4.72.
 
 ## Annotations
 
-[^key-1bce7bfd7b4324bb14d6ef010028388e]: Commencement: [Rule 4.50](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.50) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1bce7bfd7b4324bb14d6ef010028388e]: Commencement: [Rule 4.50](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.50) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00049]: Marginal citation: \[FORM 4.21\]
 
-[^key-e911c956f30719fb7202a1407fd280f0]: Textual amendment: Words in rule. 4.50(8) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [377(5)](https://www.legislation.gov.uk/uksi/2001/3649/article/377/5)
+[^c-e911c956f30719fb7202a1407fd280f0]: Textual amendment: Words in rule. 4.50(8) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [377(5)](https://www.legislation.gov.uk/uksi/2001/3649/article/377/5)

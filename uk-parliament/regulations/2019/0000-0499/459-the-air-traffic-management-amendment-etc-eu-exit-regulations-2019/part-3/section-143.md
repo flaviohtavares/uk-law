@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Article 5 of Commission Regulation [(EC) No 262/2009](https://www.legislation.gov.uk/eur/2009/262)[^key-ddd7853bee9d79cb152ac0d8d6dd0372]
+## 143. Article 5 of Commission Regulation [(EC) No 262/2009](https://www.legislation.gov.uk/eur/2009/262)[^c-ddd7853bee9d79cb152ac0d8d6dd0372]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddd7853bee9d79cb152ac0d8d6dd0372]: Commencement: Reg. 143 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ddd7853bee9d79cb152ac0d8d6dd0372]: Commencement: Reg. 143 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

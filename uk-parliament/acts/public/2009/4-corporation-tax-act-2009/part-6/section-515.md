@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 515. Diminishing shared ownership arrangements : further provision[^key-82f47e28c01b1c573b389a08fd2f6012]
+## 515. Diminishing shared ownership arrangements : further provision[^c-82f47e28c01b1c573b389a08fd2f6012]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-82ca8d2bce2a31478d7993cbd3546744] Diminishing shared ownership arrangements are not treated as a partnership for the purposes of the Corporation Tax Acts.
+(1)[^c-82ca8d2bce2a31478d7993cbd3546744] Diminishing shared ownership arrangements are not treated as a partnership for the purposes of the Corporation Tax Acts.
 
-(2)[^key-c7c248dad72896478e6af8f54cb0346c] If, under diminishing shared ownership arrangements, the financier grants a lease of the asset to the customer, the grant or termination of the lease is not to be treated as a disposal or acquisition of part of the asset for the purposes of the Corporation Tax Acts.
+(2)[^c-c7c248dad72896478e6af8f54cb0346c] If, under diminishing shared ownership arrangements, the financier grants a lease of the asset to the customer, the grant or termination of the lease is not to be treated as a disposal or acquisition of part of the asset for the purposes of the Corporation Tax Acts.
 
 (3) If, under diminishing shared ownership arrangements, the financier is entitled to the asset as a result of the customer breaching an obligation under the arrangements—
 
@@ -39,8 +39,8 @@ are to be treated for the purposes of the Corporation Tax Acts as if they were d
 
 ## Annotations
 
-[^key-82f47e28c01b1c573b389a08fd2f6012]: Textual amendment: Words in [s. 515](https://www.legislation.gov.uk/ukpga/2009/4/section/515) heading substituted (with effect in accordance with [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(8)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/8/a), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-82f47e28c01b1c573b389a08fd2f6012]: Textual amendment: Words in [s. 515](https://www.legislation.gov.uk/ukpga/2009/4/section/515) heading substituted (with effect in accordance with [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(8)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/8/a), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-82ca8d2bce2a31478d7993cbd3546744]: Textual amendment: [S. 515](https://www.legislation.gov.uk/ukpga/2009/4/section/515) renumbered as s. 515(1) (with effect in accordance with [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(8)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/8/b), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-82ca8d2bce2a31478d7993cbd3546744]: Textual amendment: [S. 515](https://www.legislation.gov.uk/ukpga/2009/4/section/515) renumbered as s. 515(1) (with effect in accordance with [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(8)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/8/b), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
 
-[^key-c7c248dad72896478e6af8f54cb0346c]: Textual amendment: [S. 515(2)-(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/515/2) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(8)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/8/c), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-c7c248dad72896478e6af8f54cb0346c]: Textual amendment: [S. 515(2)-(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/515/2) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 2(8)(c)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/2/8/c), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

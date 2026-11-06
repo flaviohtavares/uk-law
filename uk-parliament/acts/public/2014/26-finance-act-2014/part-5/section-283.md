@@ -26,12 +26,12 @@ summary: ''
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**calendar quarter**” means a period of 3 months beginning with 1 January, 1 April, 1 July or 1 October;
 - “**conduct notice**” means a notice of the description in section 238 that is given under—
-  - (a) section 237(7) or (7A)[^key-b9dfd09bdc7fecde02dd27be626e7938],
-  - (aa) section 237A(8),[^key-4388e6efced8e0e58ea1d1e5eff3c8f5]
+  - (a) section 237(7) or (7A)[^c-b9dfd09bdc7fecde02dd27be626e7938],
+  - (aa) section 237A(8),[^c-4388e6efced8e0e58ea1d1e5eff3c8f5]
   - (ab) section 237B(1),
   - (b) section 245(7), or
   - (c) paragraph 8(2) or (3) or 10(3)(a) or (4)(a) of Schedule 36;
-- “[^key-b631d209579deb99fef95cc5c51fcdb1]**contract settlement**” means an agreement in connection with a person's liability to make a payment to the Commissioners under or by virtue of an enactment;
+- “[^c-b631d209579deb99fef95cc5c51fcdb1]**contract settlement**” means an agreement in connection with a person's liability to make a payment to the Commissioners under or by virtue of an enactment;
 - “**defeat**” , in relation to arrangements, has the meaning given by paragraph 10 of Schedule 34A;
 - “**defeat notice**” has the meaning given by section 241A(7);
 - “**double defeat notice**” has the meaning given by section 241A(7);
@@ -46,7 +46,7 @@ summary: ''
 - “**the original monitoring notice**” has the meaning given by paragraph 11(2) of Schedule 36;
 - “**prescribed**” means prescribed, or of a description prescribed, in regulations made by the Commissioners;
 - “**promoter reference number**” has the meaning given by section 250(5);
-- “[^key-fdf037c125e6eaaf9455679db38800dc]**promotion structure**” is to be construed in accordance with section 235(1A) and Schedule 33A;
+- “[^c-fdf037c125e6eaaf9455679db38800dc]**promotion structure**” is to be construed in accordance with section 235(1A) and Schedule 33A;
 - “**provisional**” , in relation to a conduct notice given under section 237A(8), is to be interpreted in accordance with section 237C;
 - “**related**” , in relation to arrangements, is to be interpreted in accordance with paragraph 2 of Schedule 34A;
 - “**relevant arrangements**” has the meaning given by section 234(2);
@@ -56,19 +56,19 @@ summary: ''
 - “**replacement conduct notice**” has the meaning given by paragraph 11(1) of Schedule 36;
 - “**replacement monitoring notice**” has the meaning given by paragraph 11(1) of Schedule 36;
 - “**single defeat notice**” has the meaning given by section 241A(7).
-- “[^key-120c5d5e4c5985db178e16e25bdfaccb]**stop notice**” means a notice given under section 236A(1);
+- “[^c-120c5d5e4c5985db178e16e25bdfaccb]**stop notice**” means a notice given under section 236A(1);
 - “**subject to a stop notice**” , in relation to a person, is to be construed in accordance with section 236B(2);
-- “**tax**” (except in provisions to which section 281A applies)[^key-c91e6fab146a5c31a315ef04b0d9fbfd] means—
+- “**tax**” (except in provisions to which section 281A applies)[^c-c91e6fab146a5c31a315ef04b0d9fbfd] means—
   - (a) income tax,
   - (b) capital gains tax,
   - (c) corporation tax,
   - (d) petroleum revenue tax,
-  - (da) apprenticeship levy,[^key-03ff659d5398d425f9b17a928eb9113f]
+  - (da) apprenticeship levy,[^c-03ff659d5398d425f9b17a928eb9113f]
   - (e) inheritance tax,
   - (f) stamp duty land tax,
   - (g) stamp duty reserve tax, or
   - (h) annual tax on enveloped dwellings;
-- “**tax advantage**” has the meaning given by section 234(3) (but see also section 281A)[^key-15557e8a44e9f9505954747fc1e265d9];
+- “**tax advantage**” has the meaning given by section 234(3) (but see also section 281A)[^c-15557e8a44e9f9505954747fc1e265d9];
 - “**Taxes Acts**” has the same meaning as in TMA 1970 (see section 118(1) of that Act);
 - “**the tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
 
@@ -76,7 +76,7 @@ summary: ''
 
 (3) A reference in a provision of this Part to meeting a threshold condition is to meeting one of the conditions described in paragraphs 2 to 12 of Schedule 34.
 
-(4)[^key-b3ca8639a4de383ac1941848ed2efecf] Any reference in this Part to a person's activities as a promoter includes—
+(4)[^c-b3ca8639a4de383ac1941848ed2efecf] Any reference in this Part to a person's activities as a promoter includes—
 
 - (a) if the person falls within the case described in paragraph 2 of Schedule 33A, the activities carried out by the person and other persons by virtue of which the person falls within the case,
 - (b) if the person falls within the case described in paragraph 3 of that Schedule, activities carried out under the instruction or guidance of a person who carries on business as a promoter,
@@ -85,20 +85,20 @@ summary: ''
 
 ## Annotations
 
-[^key-b9dfd09bdc7fecde02dd27be626e7938]: Textual amendment: Words in s. 283 inserted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/3)
+[^c-b9dfd09bdc7fecde02dd27be626e7938]: Textual amendment: Words in s. 283 inserted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/3)
 
-[^key-4388e6efced8e0e58ea1d1e5eff3c8f5]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/a)
+[^c-4388e6efced8e0e58ea1d1e5eff3c8f5]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/a)
 
-[^key-b631d209579deb99fef95cc5c51fcdb1]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(d)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/d)
+[^c-b631d209579deb99fef95cc5c51fcdb1]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(d)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/d)
 
-[^key-fdf037c125e6eaaf9455679db38800dc]: Textual amendment: Words in [s. 283(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/283/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 18(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/18/a)
+[^c-fdf037c125e6eaaf9455679db38800dc]: Textual amendment: Words in [s. 283(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/283/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 18(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/18/a)
 
-[^key-120c5d5e4c5985db178e16e25bdfaccb]: Textual amendment: Words in [s. 283(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/283/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/6)
+[^c-120c5d5e4c5985db178e16e25bdfaccb]: Textual amendment: Words in [s. 283(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/283/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/6)
 
-[^key-c91e6fab146a5c31a315ef04b0d9fbfd]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/b)
+[^c-c91e6fab146a5c31a315ef04b0d9fbfd]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/b)
 
-[^key-03ff659d5398d425f9b17a928eb9113f]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 104(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/104/8) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
+[^c-03ff659d5398d425f9b17a928eb9113f]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 104(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/104/8) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
 
-[^key-15557e8a44e9f9505954747fc1e265d9]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/c)
+[^c-15557e8a44e9f9505954747fc1e265d9]: Textual amendment: Words in s. 283(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(9)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/9/c)
 
-[^key-b3ca8639a4de383ac1941848ed2efecf]: Textual amendment: [S. 283(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/283/4) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 18(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/18/b)
+[^c-b3ca8639a4de383ac1941848ed2efecf]: Textual amendment: [S. 283(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/283/4) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 18(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/18/b)

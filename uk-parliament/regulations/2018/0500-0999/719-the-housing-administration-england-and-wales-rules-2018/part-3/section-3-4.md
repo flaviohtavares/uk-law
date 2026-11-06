@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.4. Statement of concurrence[^key-609eee1b3cd18978aa51b3354e8ca47d]
+## 3.4. Statement of concurrence[^c-609eee1b3cd18978aa51b3354e8ca47d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-609eee1b3cd18978aa51b3354e8ca47d]: Commencement: Rule 3.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-609eee1b3cd18978aa51b3354e8ca47d]: Commencement: Rule 3.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

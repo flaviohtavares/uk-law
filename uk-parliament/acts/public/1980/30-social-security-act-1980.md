@@ -196,7 +196,7 @@ National Insurance Commissioners shall, instead of being so called, be called So
 
 .
 
-(4)[^key-8c3f8f28ee7edf3bfb04a45f16b3e19c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8c3f8f28ee7edf3bfb04a45f16b3e19c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c737489] Section 8(3)(*a*) of the Act (which is spent) shall be omitted.
 
@@ -871,7 +871,7 @@ Section 20.
 - (d) in paragraph 3 of that Schedule the words the words from “(including" to “repealed)" (which relate to the recovery of certain charges from a step-father) shall be omitted; and
 - (e) in paragraph 4 of that Schedule the proviso (which provides for an appeal about the amounts of certain charges) shall be omitted.
 
-(2) In sections 4(1) [^key-2517e6518378c548b5710b655ba58277]... and 7(1) of that Act (which contain references to persons for whom there is power to provide accommodation under section 3 of that Act) for the words from “for whom" to “power" there shall be substituted the words “ for whom the Secretary of State has power" ”; and for subsection (3) of section 12 of that Act (which modifies references to such persons in the application of the Act to Northern Ireland) there shall be substituted the following subsection—
+(2) In sections 4(1) [^c-2517e6518378c548b5710b655ba58277]... and 7(1) of that Act (which contain references to persons for whom there is power to provide accommodation under section 3 of that Act) for the words from “for whom" to “power" there shall be substituted the words “ for whom the Secretary of State has power" ”; and for subsection (3) of section 12 of that Act (which modifies references to such persons in the application of the Act to Northern Ireland) there shall be substituted the following subsection—
 
 > (3) References in sections 4 to 7 of this Act to persons of any description for whom the Secretary of State has power to provide accommodation under section 3 of this Act shall include references to persons in Northern Ireland of any description for whom he would have power to so provide if those persons were in Great Britain.
 
@@ -1062,7 +1062,7 @@ Sections 8 and 21.
 
 [^c737489]: Modification: The text of ss.3(4)(8)(9)(12), 4(1), 6(1)(3), 9(6), 16(3)–(6), 21(4), Sch. 2 para. 32, Sch. 2 Pt. II, Schs. 4, 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-8c3f8f28ee7edf3bfb04a45f16b3e19c]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/1980/30/section/16/4) repealed (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
+[^c-8c3f8f28ee7edf3bfb04a45f16b3e19c]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/1980/30/section/16/4) repealed (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
 
 [^c737493]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/ukpga/1980/30/section/2), [3(1)–(3)](https://www.legislation.gov.uk/ukpga/1980/30/section/3/1)(11), 4(3)(5)(6), 5(1), 6(2)(4), 9(1)(2)(5)(7), 10(1)–(5), 11, 13(1)–(3)(5)(6), 14, 17, 18, 19(3), Sch. 1, Sch. 2 para. 21, Sch. 3, Sch. 4, paras. 10, 14 repealed on consolidation (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6)
 
@@ -1132,7 +1132,7 @@ Sections 8 and 21.
 
 [^c737528]: Marginal citation: [1947 c. 19](https://www.legislation.gov.uk/ukpga/1947/19).
 
-[^key-2517e6518378c548b5710b655ba58277]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1980/30/schedule/4/paragraph/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-2517e6518378c548b5710b655ba58277]: Textual amendment: Words in [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1980/30/schedule/4/paragraph/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c737529]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29).
 

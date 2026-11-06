@@ -35,7 +35,7 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
 
 [^c8625801]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power to make deductions and impose levies.[^key-48cec947a88af44a01edd16fe982fc18]
+## 1. Power to make deductions and impose levies.[^c-48cec947a88af44a01edd16fe982fc18]
 
 (1) This section applies where—
 
@@ -55,9 +55,9 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
   - (a) income tax;
   - (b) national insurance contributions;
   - (c) payments required to be made by an order of a court; and
-  - (d) payments required to be made by virtue of a maintenance assessment *(affected by repeal, see note)*[^key-d8aeaa3b6c5bde775bf46ecf9cfde32d] maintenance calculation within the meaning of the [^c8625831]Child Support Act 1991.
+  - (d) payments required to be made by virtue of a maintenance assessment *(affected by repeal, see note)*[^c-d8aeaa3b6c5bde775bf46ecf9cfde32d] maintenance calculation within the meaning of the [^c8625831]Child Support Act 1991.
 
-## 2. Application of amounts deducted or levied.[^key-9b219b2bd0c36ab77bb4c573433b45a4]
+## 2. Application of amounts deducted or levied.[^c-9b219b2bd0c36ab77bb4c573433b45a4]
 
 (1) Amounts deducted or levied under section 1 above shall be applied, in such proportions as may be prescribed, for the following purposes, namely—
 
@@ -72,7 +72,7 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
 
 (4) On such appeal, the Secretary of State may confirm the governor’s determination or direct the governor to vary it, so far as relating to amounts deducted or levied after the giving of the direction, in such manner as may be specified in the direction.
 
-## 3. Statements of account.[^key-bd2152fdcec1b43cbefbed1641b9061a]
+## 3. Statements of account.[^c-bd2152fdcec1b43cbefbed1641b9061a]
 
 (1) The governor shall, for each week in which an amount is deducted or levied under section 1 above, furnish the prisoner with a statement—
 
@@ -83,12 +83,12 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
 
 ## 4. Interpretation.
 
-(1)[^key-5b190a7a10e92db54c39746d340966fd] In the application of this Act to a contracted out prison—
+(1)[^c-5b190a7a10e92db54c39746d340966fd] In the application of this Act to a contracted out prison—
 
 - (a) any reference to the governor shall be construed as a reference to the director; and
 - (b) the reference to the Secretary of State in section 1 above shall be construed as a reference to the person running the prison.
 
-(2)[^key-5b190a7a10e92db54c39746d340966fd] In the application of this Act to England and Wales—
+(2)[^c-5b190a7a10e92db54c39746d340966fd] In the application of this Act to England and Wales—
 
 - “**contracted out prison**” has the meaning given by section 92(1) of the [^c8625881]Criminal Justice Act 1991;
 - “**prescribed**” means prescribed by prison rules;
@@ -99,10 +99,10 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
 
 - “**contracted out prison**” has the meaning given by section 106(4) of the [^c8625911]Criminal Justice and Public Order Act 1994;
 - “**prescribed**” means prescribed by prison rules;
-- “**prisoner**” includes a prisoner on temporary release and a person required to be detained in a young offenders institution [^key-5d5ef00f707f9b71e676b7f5c74531a8]...;
+- “**prisoner**” includes a prisoner on temporary release and a person required to be detained in a young offenders institution [^c-5d5ef00f707f9b71e676b7f5c74531a8]...;
 - “**prison rules**” means rules made under section 39 of the [^c8625921]Prisons (Scotland) Act 1989.
 
-## 5. Short title, commencement and extent.[^key-d4ff47b8006caa1131ec99f2c0b56391]
+## 5. Short title, commencement and extent.[^c-d4ff47b8006caa1131ec99f2c0b56391]
 
 (1) This Act may be cited as the Prisoners’ Earnings Act 1996.
 
@@ -114,17 +114,17 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
 
 [^c8625801]: Commencement: Act not in force at Royal Assent see [s. 5(2)](https://www.legislation.gov.uk/ukpga/1996/33/section/5/2).
 
-[^key-48cec947a88af44a01edd16fe982fc18]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/1996/33/section/1) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
+[^c-48cec947a88af44a01edd16fe982fc18]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/1996/33/section/1) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
 
-[^key-d8aeaa3b6c5bde775bf46ecf9cfde32d]: Textual amendment: Words in s. 1(4) substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3/paragraph/14) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
+[^c-d8aeaa3b6c5bde775bf46ecf9cfde32d]: Textual amendment: Words in s. 1(4) substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3/paragraph/14) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
 
 [^c8625831]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
-[^key-9b219b2bd0c36ab77bb4c573433b45a4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1996/33/section/2) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
+[^c-9b219b2bd0c36ab77bb4c573433b45a4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1996/33/section/2) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
 
-[^key-bd2152fdcec1b43cbefbed1641b9061a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/1996/33/section/3) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
+[^c-bd2152fdcec1b43cbefbed1641b9061a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/1996/33/section/3) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
 
-[^key-5b190a7a10e92db54c39746d340966fd]: Commencement: S. 4(1)(2) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
+[^c-5b190a7a10e92db54c39746d340966fd]: Commencement: S. 4(1)(2) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
 
 [^c8625881]: Marginal citation: [1991 c.53](https://www.legislation.gov.uk/ukpga/1991/53).
 
@@ -134,8 +134,8 @@ An Act to authorise deductions from or levies on prisoners’ earnings; to provi
 
 [^c8625911]: Marginal citation: [1994 c.33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-5d5ef00f707f9b71e676b7f5c74531a8]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/1996/33/section/4/3) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 17(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/17/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-5d5ef00f707f9b71e676b7f5c74531a8]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/1996/33/section/4/3) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 17(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/17/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
 [^c8625921]: Marginal citation: [1989 c.45](https://www.legislation.gov.uk/ukpga/1989/45).
 
-[^key-d4ff47b8006caa1131ec99f2c0b56391]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/1996/33/section/5) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)
+[^c-d4ff47b8006caa1131ec99f2c0b56391]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/1996/33/section/5) in force at 26.9.2011 for E.W. by [S.I. 2011/1658](https://www.legislation.gov.uk/uksi/2011/1658), [art. 2](https://www.legislation.gov.uk/uksi/2011/1658/article/2)

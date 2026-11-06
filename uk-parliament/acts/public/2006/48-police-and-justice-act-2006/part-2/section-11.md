@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Power to detain pending DPP's decision about charging[^key-57a7eeaf96d4413e7674f1187f44e26f]
+## 11. Power to detain pending DPP's decision about charging[^c-57a7eeaf96d4413e7674f1187f44e26f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In section 37 of the Police and Criminal Evidence Act 1984 (duties of custody of
 
 ## Annotations
 
-[^key-57a7eeaf96d4413e7674f1187f44e26f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/48/section/11) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/c)
+[^c-57a7eeaf96d4413e7674f1187f44e26f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/48/section/11) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/c)

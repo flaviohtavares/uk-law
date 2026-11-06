@@ -26,11 +26,11 @@ On the date (D1) on which an LPS pilot scheme terminates because of a term of th
 - (b) either—
   - (i) because listed chemist premises, other than distance selling premises, of an NHS pharmacist have opened less than a kilometre by the nearest practical route available to the public on foot from the premises specified in the LPS pilot scheme,
   - (ii) for a reason relating to the requisite amount of items dispensed at those premises during a financial year,
-  - (iii) because NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] (or before it the Primary Care Trust that was party to the scheme) or P has given the other party to the scheme a period of notice of not less than 6 months of their intention to terminate the scheme, or
+  - (iii) because NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] (or before it the Primary Care Trust that was party to the scheme) or P has given the other party to the scheme a period of notice of not less than 6 months of their intention to terminate the scheme, or
   - (iv) because all LPS pilot schemes terminate on that date,
 
   NHS England must include those premises, and if P is not already so included P, in the pharmaceutical list for the area of the HWB in which the premises are situated with effect from D1.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

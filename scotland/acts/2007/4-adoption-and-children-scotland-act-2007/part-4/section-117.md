@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Orders and regulations[^key-e2424228653c1d4a0f7d78cf5c0ae72e]
+## 117. Orders and regulations[^c-e2424228653c1d4a0f7d78cf5c0ae72e]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 - (a) regulations under—
   - (i) section 3 which includes provision amending subsection (4) or (5) of section 1,
-  - (ia)[^key-d3f1a79f1be97cec541a041e3932d581] section 13A(2),
+  - (ia)[^c-d3f1a79f1be97cec541a041e3932d581] section 13A(2),
   - (ib) section 13F(1),
   - (ii) section 38(1),
   - (iii) section 74(1),
@@ -50,6 +50,6 @@ is not to be made unless a draft of the instrument has been laid before, and app
 
 ## Annotations
 
-[^key-e2424228653c1d4a0f7d78cf5c0ae72e]: Modification: S. 117 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-e2424228653c1d4a0f7d78cf5c0ae72e]: Modification: S. 117 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
 
-[^key-d3f1a79f1be97cec541a041e3932d581]: Textual amendment: [S. 117(5)(a)](https://www.legislation.gov.uk/asp/2007/4/section/117/5/a)[(ia)](https://www.legislation.gov.uk/asp/2007/4/section/117/5/ia)[(ib)](https://www.legislation.gov.uk/asp/2007/4/section/117/5/ib) inserted (30.9.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 11(5)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/11/5); [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule); [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)
+[^c-d3f1a79f1be97cec541a041e3932d581]: Textual amendment: [S. 117(5)(a)](https://www.legislation.gov.uk/asp/2007/4/section/117/5/a)[(ia)](https://www.legislation.gov.uk/asp/2007/4/section/117/5/ia)[(ib)](https://www.legislation.gov.uk/asp/2007/4/section/117/5/ib) inserted (30.9.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 11(5)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/11/5); [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule); [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189B. Initial duty owed to all eligible persons who are homeless[^key-2096c07c75f11ee36cc98b316726df1e]
+## 189B. Initial duty owed to all eligible persons who are homeless[^c-2096c07c75f11ee36cc98b316726df1e]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ the duty under subsection (2) comes to an end at the end of the period of 56 day
 
 ## Annotations
 
-[^key-2096c07c75f11ee36cc98b316726df1e]: Textual amendment: [S. 189B](https://www.legislation.gov.uk/ukpga/1996/52/section/189B) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/2), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))
+[^c-2096c07c75f11ee36cc98b316726df1e]: Textual amendment: [S. 189B](https://www.legislation.gov.uk/ukpga/1996/52/section/189B) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/13/section/5/2), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/167/regulation/4/1))

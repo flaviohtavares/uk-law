@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Fixing of remuneration[^key-ff04a60a09d5b6c25aa50a460e8fb5f8]
+## 98. Fixing of remuneration[^c-ff04a60a09d5b6c25aa50a460e8fb5f8]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff04a60a09d5b6c25aa50a460e8fb5f8]: Commencement: Rule 98 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-ff04a60a09d5b6c25aa50a460e8fb5f8]: Commencement: Rule 98 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

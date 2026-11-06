@@ -46,7 +46,7 @@ A draft of this Order has been laid before and approved by resolution of each Ho
 
 ## PART 1 — Introductory provision
 
-### 1. Citation and commencement[^key-f9fc0a5616ba9eeac1b32b20d7fcc1fa]
+### 1. Citation and commencement[^c-f9fc0a5616ba9eeac1b32b20d7fcc1fa]
 
 (1) This Order may be cited as the Banking Act 2009 (Service Providers to Payment Systems) Order 2017.
 
@@ -56,7 +56,7 @@ A draft of this Order has been laid before and approved by resolution of each Ho
 
 ## PART 2 — Service Providers to Payment Systems
 
-### 2. Amendment of the Banking Act 2009[^key-ad9decbbd207bb2778a5016d6865e8a3]
+### 2. Amendment of the Banking Act 2009[^c-ad9decbbd207bb2778a5016d6865e8a3]
 
 (1) The Banking Act 2009 is amended as follows.
 
@@ -257,7 +257,7 @@ A draft of this Order has been laid before and approved by resolution of each Ho
 
 .
 
-### 3. Amendment of the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^key-127d7b44b725e08a9c2456f49f3b3e0a]
+### 3. Amendment of the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^c-127d7b44b725e08a9c2456f49f3b3e0a]
 
 In the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^f00033]—
 
@@ -266,7 +266,7 @@ In the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication
 
 ## PART 3 — Provision of information by the Bank of England to the Payment Systems Regulator
 
-### 4. Amendment of the Bank of England Act 1998[^key-4f41a4fae9adc8c4bf265a4533a0a519]
+### 4. Amendment of the Bank of England Act 1998[^c-4f41a4fae9adc8c4bf265a4533a0a519]
 
 In Schedule 7 to the Bank of England Act 1998 (restriction on disclosure of information), in the Table in paragraph 3(1) (disclosure by the Bank to other authorities)[^f00034], at the end insert—
 
@@ -278,7 +278,7 @@ In Schedule 7 to the Bank of England Act 1998 (restriction on disclosure of info
 
 ## PART 4 — Amendment of the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014
 
-### 5. Amendment of the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^key-8d18c67793d8f80cf8051fb69acd4c54]
+### 5. Amendment of the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^c-8d18c67793d8f80cf8051fb69acd4c54]
 
 (1) The Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^f00037] is amended as follows.
 
@@ -339,9 +339,9 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00005]: Footnote: There have been amendments to section 40 but none is relevant here.
 
-[^key-f9fc0a5616ba9eeac1b32b20d7fcc1fa]: Commencement: Art. 1 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
+[^c-f9fc0a5616ba9eeac1b32b20d7fcc1fa]: Commencement: Art. 1 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
 
-[^key-ad9decbbd207bb2778a5016d6865e8a3]: Commencement: Art. 2 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
+[^c-ad9decbbd207bb2778a5016d6865e8a3]: Commencement: Art. 2 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
 
 [^f00006]: Footnote: Section 181 was amended by paragraph 3 of Schedule 9 to the Digital Economy Act 2017.
 
@@ -397,11 +397,11 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00032]: Footnote: There have been several amendments to section 261, none of which is relevant to this instrument.
 
-[^key-127d7b44b725e08a9c2456f49f3b3e0a]: Commencement: Art. 3 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
+[^c-127d7b44b725e08a9c2456f49f3b3e0a]: Commencement: Art. 3 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
 
 [^f00033]: Footnote: [S.I. 2010/828](https://www.legislation.gov.uk/uksi/2010/828), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2014/549](https://www.legislation.gov.uk/uksi/2014/549) and [2015/488](https://www.legislation.gov.uk/uksi/2015/488).
 
-[^key-4f41a4fae9adc8c4bf265a4533a0a519]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/1167/article/4) in force at 13.1.2018, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/3)
+[^c-4f41a4fae9adc8c4bf265a4533a0a519]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/1167/article/4) in force at 13.1.2018, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/3)
 
 [^f00034]: Footnote: Paragraph 3 has been amended by paragraph 70 of Schedule 12 to the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), paragraph 7 of Schedule 2 to the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), paragraph 85 of Schedule 18 to the Financial Services Act 2012, paragraph 22 of Schedule 2 to the Bank of England and Financial Services Act 2016, and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
@@ -409,7 +409,7 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00036]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
 
-[^key-8d18c67793d8f80cf8051fb69acd4c54]: Commencement: Art. 5 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
+[^c-8d18c67793d8f80cf8051fb69acd4c54]: Commencement: Art. 5 in force at 30.11.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1167/article/1/2)
 
 [^f00037]: Footnote: [S.I. 2014/2080](https://www.legislation.gov.uk/uksi/2014/2080), amended by [S.I. 2016/1032](https://www.legislation.gov.uk/uksi/2016/1032).
 

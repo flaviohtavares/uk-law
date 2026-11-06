@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Additional pensions for surviving adults[^key-7ba1c81ae56595159c875b973bf4d267]
+## 143. Additional pensions for surviving adults[^c-7ba1c81ae56595159c875b973bf4d267]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ba1c81ae56595159c875b973bf4d267]: Commencement: [Reg. 143](https://www.legislation.gov.uk/ssi/2014/292/regulation/143) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-7ba1c81ae56595159c875b973bf4d267]: Commencement: [Reg. 143](https://www.legislation.gov.uk/ssi/2014/292/regulation/143) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

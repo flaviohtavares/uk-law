@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 240. Company representation[^key-6c6cac705d85fa3da0f2006b1bc63ee5]
+## 240. Company representation[^c-6c6cac705d85fa3da0f2006b1bc63ee5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.7 of the 1986 Rules. In paragraph (1) omit “of creditors or”.
 
 ## Annotations
 
-[^key-6c6cac705d85fa3da0f2006b1bc63ee5]: Textual amendment: [Rule 240](https://www.legislation.gov.uk/uksi/2009/356/rule/240) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [74](https://www.legislation.gov.uk/uksi/2010/2579/rule/74)
+[^c-6c6cac705d85fa3da0f2006b1bc63ee5]: Textual amendment: [Rule 240](https://www.legislation.gov.uk/uksi/2009/356/rule/240) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [74](https://www.legislation.gov.uk/uksi/2010/2579/rule/74)

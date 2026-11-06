@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Effect of code[^key-b604df272446c6494399fdab962c6ee1]
+## 33. Effect of code[^c-b604df272446c6494399fdab962c6ee1]
 
 *Extent: E+W*
 
@@ -52,9 +52,9 @@ summary: ''
 (8) Before making an order under subsection (5) in relation to any person or description of persons, the Secretary of State must consult—
 
 - (a) such persons appearing to the Secretary of State to be representative of the views of the person or persons in relation to whom the order may be made as the Secretary of State considers appropriate,
-- (b) the National Police Chiefs’ Council[^key-fc72eeab552a317a70b9246d4720538c],
-- (c) the Information Commission[^key-98e807a72228448b08d2d84b8f21e659],
-- (d) the Investigatory Powers Commissioner[^key-833d45984e5bbf81bae57e22f792bdc5],
+- (b) the National Police Chiefs’ Council[^c-fc72eeab552a317a70b9246d4720538c],
+- (c) the Information Commission[^c-98e807a72228448b08d2d84b8f21e659],
+- (d) the Investigatory Powers Commissioner[^c-833d45984e5bbf81bae57e22f792bdc5],
 - (e) the Surveillance Camera Commissioner,
 - (f) the Welsh Ministers, and
 - (g) such other persons as the Secretary of State considers appropriate.
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b604df272446c6494399fdab962c6ee1]: Commencement: S. 33 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/e)
+[^c-b604df272446c6494399fdab962c6ee1]: Commencement: S. 33 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/e)
 
-[^key-fc72eeab552a317a70b9246d4720538c]: Textual amendment: Words in s. 33(8)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/6), [7(h)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/7/h); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
+[^c-fc72eeab552a317a70b9246d4720538c]: Textual amendment: Words in s. 33(8)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/6), [7(h)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/7/h); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
 
-[^key-98e807a72228448b08d2d84b8f21e659]: Textual amendment: Words in s. 33(8)(c) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 17(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/17/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-98e807a72228448b08d2d84b8f21e659]: Textual amendment: Words in s. 33(8)(c) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 17(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/17/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-833d45984e5bbf81bae57e22f792bdc5]: Textual amendment: Words in s. 33(8)(d) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 98](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/98) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+[^c-833d45984e5bbf81bae57e22f792bdc5]: Textual amendment: Words in s. 33(8)(d) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 98](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/98) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)

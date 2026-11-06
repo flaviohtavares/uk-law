@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. New Schedule: information to be included in returns under regulations 67B and 67D[^key-45f6a18fad9c74712d80fdd9c652c23a]
+## 52. New Schedule: information to be included in returns under regulations 67B and 67D[^c-45f6a18fad9c74712d80fdd9c652c23a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Before Schedule 1 insert Schedule A1 as set out in the Schedule to these Regulat
 
 ## Annotations
 
-[^key-45f6a18fad9c74712d80fdd9c652c23a]: Commencement: Reg. 52 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-45f6a18fad9c74712d80fdd9c652c23a]: Commencement: Reg. 52 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

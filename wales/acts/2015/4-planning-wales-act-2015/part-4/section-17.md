@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Requirement to carry out pre-application consultation[^c22542731][^key-ff2865e646f2b91bdc69c5bd6f56ff73]
+## 17. Requirement to carry out pre-application consultation[^c22542731][^c-ff2865e646f2b91bdc69c5bd6f56ff73]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 [^c22542731]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2015/4/section/17) partly in force; [s. 17](https://www.legislation.gov.uk/anaw/2015/4/section/17) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-ff2865e646f2b91bdc69c5bd6f56ff73]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2015/4/section/17) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))
+[^c-ff2865e646f2b91bdc69c5bd6f56ff73]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2015/4/section/17) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))

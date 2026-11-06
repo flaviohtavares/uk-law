@@ -54,14 +54,14 @@ In accordance with section 24(1)(c) of the 2014 Act, the Pension Board for the s
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-714695f4b6b309138dd9839943df8fe9]
+### 1. Citation and commencement[^c-714695f4b6b309138dd9839943df8fe9]
 
 These Regulations—
 
 - (a) may be cited as the Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023; and
 - (b) come into operation on 24th July 2023.
 
-### 2. Interpretation[^key-8bcb7b5456d393e2de7bbb77af6d2cbe]
+### 2. Interpretation[^c-8bcb7b5456d393e2de7bbb77af6d2cbe]
 
 (1) In these Regulations—
 
@@ -75,7 +75,7 @@ These Regulations—
   - (a) for the purposes of Part 4, R or, if R is deceased, R’s personal representatives;
   - (b) for all other purposes, P or, if P is deceased, P’s personal representatives;
 - “**Judicial Pension Board**” means the Judicial Pension Board established by regulation 6(1) of the 2015 Regulations;
-- “[^key-501654e8282bdf762c73408a668e7941]**purported added pension payment**” has the meaning given in paragraph 1 of Schedule 1 to the 2015 Regulations;
+- “[^c-501654e8282bdf762c73408a668e7941]**purported added pension payment**” has the meaning given in paragraph 1 of Schedule 1 to the 2015 Regulations;
 - “**purported effective pension age payment**” means a payment—
   - (a) which was made by either—
     - (i) a person “P” who has remediable service in a judicial office, or
@@ -104,7 +104,7 @@ These Regulations—
 
 (3) A reference in these Regulations to a provision of the PSP Directions 2023 is a reference to that provision as amended from time to time.
 
-### 3. Scheme manager[^key-d4b21ad0083df2c930eb1bb2dcaf66ad]
+### 3. Scheme manager[^c-d4b21ad0083df2c930eb1bb2dcaf66ad]
 
 (1) Before exercising any discretion under these Regulations, the scheme manager must obtain a recommendation from the Judicial Pension Board.
 
@@ -112,13 +112,13 @@ These Regulations—
 
 (3) The scheme manager and the Judicial Pension Board may agree that paragraphs (1) and (2) do not apply to specific discretions or in specific circumstances.
 
-### 4. Delegation[^key-e47eb7e96df2b89589ce830769c70c0b]
+### 4. Delegation[^c-e47eb7e96df2b89589ce830769c70c0b]
 
 (1) The scheme manager may delegate any functions under these Regulations, including this power.
 
 (2) The Judicial Pension Board may delegate any functions under these Regulations.
 
-### 5. Right of appeal[^key-34114629027b0c1eab037f314ad0b0e1]
+### 5. Right of appeal[^c-34114629027b0c1eab037f314ad0b0e1]
 
 The scheme manager must, in consultation with the Judicial Pension Board, establish a procedure for the consideration of appeals against decisions taken under these Regulations.
 
@@ -126,7 +126,7 @@ The scheme manager must, in consultation with the Judicial Pension Board, establ
 
 ### CHAPTER 1 — Application of Part
 
-#### 6. Application of Part[^key-7fbc3aa0e90eb61bfe6147df1a8dbaa7]
+#### 6. Application of Part[^c-7fbc3aa0e90eb61bfe6147df1a8dbaa7]
 
 This Part applies where—
 
@@ -135,7 +135,7 @@ This Part applies where—
 
 ### CHAPTER 2 — Member options
 
-#### 7. Compensation for special payments to buy out early payment reduction[^key-d82f0ef127c5a54b47c81d9a02444f44]
+#### 7. Compensation for special payments to buy out early payment reduction[^c-d82f0ef127c5a54b47c81d9a02444f44]
 
 (1) This regulation applies where—
 
@@ -156,7 +156,7 @@ This Part applies where—
 - (a) direction 23(4) (provision of explanation);
 - (b) direction 23(5) and (6) (appeals).
 
-#### 8. Compensation for payments for added pension[^key-da0e7e9ad2cb443971cc50e0d6402a1f]
+#### 8. Compensation for payments for added pension[^c-da0e7e9ad2cb443971cc50e0d6402a1f]
 
 (1) This regulation applies where—
 
@@ -182,7 +182,7 @@ This Part applies where—
 - (b) in a form required by the scheme manager,
 - (c) received by the scheme manager before the end of the election period[^f00013].
 
-#### 9. Transfers out of the 2015 scheme[^key-c6896ec1ec5c7332d9db2d6994235e9a]
+#### 9. Transfers out of the 2015 scheme[^c-c6896ec1ec5c7332d9db2d6994235e9a]
 
 (1) This regulation applies where a transfer value payment has been made during the period of remediable service under regulation 133 of the 2015 Regulations in respect of P’s accrued rights under the 2015 scheme (disregarding any provision of Chapter 2 of Part 1 of PSPJOA 2022).
 
@@ -209,7 +209,7 @@ the scheme manager must pay to the appropriate person an amount equal to the val
 
 ### CHAPTER 3 — Partial retirement
 
-#### 10. Partial retirement notice[^key-e37be97393a11a25b4f3056cebce86a3]
+#### 10. Partial retirement notice[^c-e37be97393a11a25b4f3056cebce86a3]
 
 (1) Paragraph (2) applies where—
 
@@ -231,7 +231,7 @@ the scheme manager must pay to the appropriate person an amount equal to the val
 
 (6) An option under paragraph (5) has effect on the day the notice mentioned in paragraph (4)(a) was received by the appropriate Minister.
 
-#### 11. Corrections for pension benefits and lump sum benefits on partial retirement[^key-f95adcbef3904c45bbf733a71c71f40a]
+#### 11. Corrections for pension benefits and lump sum benefits on partial retirement[^c-f95adcbef3904c45bbf733a71c71f40a]
 
 Where paragraph (2) or (5) of regulation 10 applies, section 51 of PSPJOA 2022 applies in relation to P as if for subsection (1) there were substituted—
 
@@ -246,7 +246,7 @@ Where paragraph (2) or (5) of regulation 10 applies, section 51 of PSPJOA 2022 a
 
 ### CHAPTER 4 — Annual allowance tax charges
 
-#### 12. Payment of annual allowance tax charges and provision of information[^key-d922c91cda6c8cd3e38b7cd8df239a53]
+#### 12. Payment of annual allowance tax charges and provision of information[^c-d922c91cda6c8cd3e38b7cd8df239a53]
 
 Where P is unable to give an effective notice to the scheme administrator under section 237B(3)[^f00016] of FA 2004 in relation to an in-scope tax year (within the meaning of direction 24(7) of the PSP Directions 2023) because the time limit in section 237BA[^f00017] has passed, direction 24(2) to (6) of the PSP Directions 2023 applies in relation to P.
 
@@ -254,7 +254,7 @@ Where P is unable to give an effective notice to the scheme administrator under 
 
 ### CHAPTER 1 — Application and Interpretation
 
-#### 13. Application of Part[^key-6a817a736d7124593a87be70a7c0824a]
+#### 13. Application of Part[^c-6a817a736d7124593a87be70a7c0824a]
 
 (1) This Part applies where—
 
@@ -277,7 +277,7 @@ Where P is unable to give an effective notice to the scheme administrator under 
 - (a) regulation 16(1) and the steps mentioned in regulation 16(2) have not been taken in relation to P;
 - (b) regulation 16(3) and the steps mentioned in regulation 16(4) have not been taken in relation to P.
 
-#### 14. Interpretation of Part[^key-fecd6969231fa6d252030b25a27a71e1]
+#### 14. Interpretation of Part[^c-fecd6969231fa6d252030b25a27a71e1]
 
 (1) In this Part—
 
@@ -300,7 +300,7 @@ Where P is unable to give an effective notice to the scheme administrator under 
 
 ### CHAPTER 2 — Information statements
 
-#### 15. Information statements[^key-9853b0d15fe4f30926464f193005c441]
+#### 15. Information statements[^c-9853b0d15fe4f30926464f193005c441]
 
 (1) The relevant authority must, as soon as reasonably practicable—
 
@@ -311,7 +311,7 @@ Where P is unable to give an effective notice to the scheme administrator under 
 
 ### CHAPTER 3 — Partnership pension account where an immediate detriment remedy has been obtained
 
-#### 16. Partnership pension account: requirement to transfer and surrender rights[^key-f77d5502a93ddfe8f73b6e5aee158de0]
+#### 16. Partnership pension account: requirement to transfer and surrender rights[^c-f77d5502a93ddfe8f73b6e5aee158de0]
 
 (1) Paragraph (2) applies where—
 
@@ -337,7 +337,7 @@ Where P is unable to give an effective notice to the scheme administrator under 
 
 ### CHAPTER 4 — Benefits for children where an immediate detriment remedy has been obtained
 
-#### 17. Benefits for children[^key-7a2c905ea5c8793d7188acb5140e59c6]
+#### 17. Benefits for children[^c-7a2c905ea5c8793d7188acb5140e59c6]
 
 (1) This regulation applies where—
 
@@ -360,37 +360,37 @@ Where P is unable to give an effective notice to the scheme administrator under 
 
 ### CHAPTER 5 — Partial retirement where an immediate detriment remedy has been obtained
 
-#### 18. Partial retirement notice[^key-31e8e0ffba67b6602b1c94021a07d066]
+#### 18. Partial retirement notice[^c-31e8e0ffba67b6602b1c94021a07d066]
 
 (1) Paragraph (2) applies where—
 
-- (a) P purported to exercise[^key-1cdec818a46b021e4a16233372b6923b] a partial retirement option under regulation 60(2) of the 2015 Regulations in respect of any fee-paid judicial office, and
+- (a) P purported to exercise[^c-1cdec818a46b021e4a16233372b6923b] a partial retirement option under regulation 60(2) of the 2015 Regulations in respect of any fee-paid judicial office, and
 - (b) the conditions set out in regulation 27(1) of FPJR 2017 are met in respect of P.
 
 (2) A notice in respect of P that complies with the requirement in regulation 27(3)(a) of FPJR 2017 is treated as having been given in accordance with sub-paragraph (3)(b) of that regulation if it is received by the appropriate Minister before the end of the notification period.
 
-(3) A notice under paragraph (2) has effect on the date agreed by the member and the scheme manager under regulation 61(1)(b) of the 2015 Regulations in relation to the purported[^key-f0a8ffaaf5d9d68b2d24146ca732e141] exercise of the partial retirement option referred to in paragraph (1)(a).
+(3) A notice under paragraph (2) has effect on the date agreed by the member and the scheme manager under regulation 61(1)(b) of the 2015 Regulations in relation to the purported[^c-f0a8ffaaf5d9d68b2d24146ca732e141] exercise of the partial retirement option referred to in paragraph (1)(a).
 
 ### CHAPTER 6 — Benefits and contributions previously paid or payable
 
-#### 19. Effect of immediate detriment remedy on benefits previously paid or payable[^key-307ab7d94d30d099c79016be7ed2a0f9]
+#### 19. Effect of immediate detriment remedy on benefits previously paid or payable[^c-307ab7d94d30d099c79016be7ed2a0f9]
 
-(1) Paragraph (2) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^key-8bda27fd04b5b08b5ab3d365977838a4] to a person so far as—
+(1) Paragraph (2) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^c-8bda27fd04b5b08b5ab3d365977838a4] to a person so far as—
 
 - (a) they are calculated by reference to P’s remediable service in a salaried judicial office, and
-- (b) they are payments[^key-e64ce90cec91a25cbc2eb8d1ed8fa445] that, as a result of any immediate detriment remedy that has been obtained in relation to that service, a person was not entitled to as benefits[^key-ad51c709d81262f13b5cf2c4e637ba43] from the 2015 scheme.
+- (b) they are payments[^c-e64ce90cec91a25cbc2eb8d1ed8fa445] that, as a result of any immediate detriment remedy that has been obtained in relation to that service, a person was not entitled to as benefits[^c-ad51c709d81262f13b5cf2c4e637ba43] from the 2015 scheme.
 
-(2) The purported benefits[^key-0942c05983f12ef20fdb4ca609b1f30d] are to be treated for all purposes—
+(2) The purported benefits[^c-0942c05983f12ef20fdb4ca609b1f30d] are to be treated for all purposes—
 
 - (a) as not having been paid to the person by the 2015 scheme, but
 - (b) as having been paid to the person instead by the scheme mentioned in sub-paragraph (a) of the definition of “relevant judicial legacy scheme” in regulation 14(1).
 
-(3) Paragraph (4) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^key-bdf0c01c4b2d4a8d087476b06cb7ec4e] to a person so far as—
+(3) Paragraph (4) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^c-bdf0c01c4b2d4a8d087476b06cb7ec4e] to a person so far as—
 
 - (a) they are calculated by reference to P’s remediable service in a fee-paid judicial office, and
-- (b) they are payments[^key-b28804344eb244b71c3ab5923e40a6fb] that, as a result of any immediate detriment remedy that has been obtained in relation to that service, a person was not entitled to as benefits[^key-88d5e320fdb68bf0768bd8226767981b] from the 2015 scheme.
+- (b) they are payments[^c-b28804344eb244b71c3ab5923e40a6fb] that, as a result of any immediate detriment remedy that has been obtained in relation to that service, a person was not entitled to as benefits[^c-88d5e320fdb68bf0768bd8226767981b] from the 2015 scheme.
 
-(4) The purported benefits[^key-49b7d26d351d6cc3182dccdf9aaf0816] are to be treated for all purposes—
+(4) The purported benefits[^c-49b7d26d351d6cc3182dccdf9aaf0816] are to be treated for all purposes—
 
 - (a) as not having been paid to the person by the 2015 scheme, but
 - (b) as having been paid to the person instead by the judicial legacy fee-paid scheme.
@@ -402,24 +402,24 @@ Where P is unable to give an effective notice to the scheme administrator under 
 
 such amount must be paid in accordance with regulation 21.
 
-#### 20. Effect of immediate detriment remedy on pension contributions previously paid or payable[^key-07e67d03fa3d44da01d47b39a34b9ef8]
+#### 20. Effect of immediate detriment remedy on pension contributions previously paid or payable[^c-07e67d03fa3d44da01d47b39a34b9ef8]
 
-(1) Paragraph (2) applies where P has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^key-22d63c39c506dbb71393cbfa4a6c1f19] which—
+(1) Paragraph (2) applies where P has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^c-22d63c39c506dbb71393cbfa4a6c1f19] which—
 
 - (a) are calculated by reference to P’s remediable service in a salaried judicial office, and
-- (b) as a result of any immediate detriment remedy that has been obtained in relation to that service, were not payments that P was required to make under the 2015 scheme[^key-78133d731cfdacb0bd408521aeb9e5b4] .
+- (b) as a result of any immediate detriment remedy that has been obtained in relation to that service, were not payments that P was required to make under the 2015 scheme[^c-78133d731cfdacb0bd408521aeb9e5b4] .
 
-(2) The purported contributions[^key-4de80579cd62d21d6ab1e389c468f8d8] are to be treated for all purposes—
+(2) The purported contributions[^c-4de80579cd62d21d6ab1e389c468f8d8] are to be treated for all purposes—
 
 - (a) as not having been paid by P to the 2015 scheme, but
 - (b) as having been paid by P instead to the scheme mentioned in sub-paragraph (a) of the definition of “relevant judicial legacy scheme” in regulation 14(1).
 
-(3) Paragraph (4) applies where P has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^key-aadd1090cd236089ce68f98f5346c000] which—
+(3) Paragraph (4) applies where P has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^c-aadd1090cd236089ce68f98f5346c000] which—
 
 - (a) are calculated by reference to P’s remediable service in a fee-paid judicial office, and
-- (b) as a result of any immediate detriment remedy that has been obtained in relation to that service, were not payments that P was required to make under the 2015 scheme[^key-0c52a23b9792357eefda629ebec4afa4] .
+- (b) as a result of any immediate detriment remedy that has been obtained in relation to that service, were not payments that P was required to make under the 2015 scheme[^c-0c52a23b9792357eefda629ebec4afa4] .
 
-(4) The purported contributions[^key-c59ba53c08ede06b0991996bc32939a3] are to be treated for all purposes—
+(4) The purported contributions[^c-c59ba53c08ede06b0991996bc32939a3] are to be treated for all purposes—
 
 - (a) as not having been paid by P to the 2015 scheme, but
 - (b) as having been paid by P instead to the judicial legacy fee-paid scheme.
@@ -433,7 +433,7 @@ such amount must be paid only in accordance with regulation 22.
 
 ### CHAPTER 7 — Corrections for benefits and contributions where an immediate detriment remedy has been obtained
 
-#### 21. Pension benefits and lump sum benefits[^key-6db6c1b2096879b8839c37f4826e2ba1]
+#### 21. Pension benefits and lump sum benefits[^c-6db6c1b2096879b8839c37f4826e2ba1]
 
 (1) This regulation applies where—
 
@@ -469,7 +469,7 @@ the beneficiary must pay the difference to the scheme.
 
 the scheme manager must pay the difference to the beneficiary.
 
-#### 22. Pension contributions[^key-565931f3b800256302958d5b4d0e89c1]
+#### 22. Pension contributions[^c-565931f3b800256302958d5b4d0e89c1]
 
 (1) This regulation applies in relation to P after taking into account the effect, if any, of any immediate detriment remedy that has been obtained in respect of P’s remediable service.
 
@@ -512,16 +512,16 @@ the appropriate person must pay pension contributions in respect of the differen
 
 ### CHAPTER 8 — Compensation for voluntary payments where an immediate detriment remedy has been obtained
 
-#### 23. Compensation for purported special payments to buy out early payment reduction[^key-dfb81dfa085bd0054be752879a15fdd4][^key-dd29bb87b259b0b995208c42d7843bb4]
+#### 23. Compensation for purported special payments to buy out early payment reduction[^c-dfb81dfa085bd0054be752879a15fdd4][^c-dd29bb87b259b0b995208c42d7843bb4]
 
-(1) This regulation applies where P has, during the period of remediable service, made any purported special payments[^key-fb43d0d61ce529c0cfcbb5fec760013f]....
+(1) This regulation applies where P has, during the period of remediable service, made any purported special payments[^c-fb43d0d61ce529c0cfcbb5fec760013f]....
 
-(2) For the avoidance of doubt, any rights[^key-e483d6e09fd77ca7f492ba86101bacc3] that would otherwise have been secured by the purported special payments had P been entitled to make them[^key-752b485108b562d58aceb95957ce5d7d] are extinguished.
+(2) For the avoidance of doubt, any rights[^c-e483d6e09fd77ca7f492ba86101bacc3] that would otherwise have been secured by the purported special payments had P been entitled to make them[^c-752b485108b562d58aceb95957ce5d7d] are extinguished.
 
 (3) The scheme manager must pay to the appropriate person an amount by way of compensation equal to—
 
 - (a) the aggregate of the purported special payments made by P, less
-- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^key-16bbaf8f4f468b5c705f931cff3cfa1e] entitled in respect of those payments had P been entitled to make them[^key-bef5ee9fdcbad08c4acd096e4847c854] .
+- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^c-16bbaf8f4f468b5c705f931cff3cfa1e] entitled in respect of those payments had P been entitled to make them[^c-bef5ee9fdcbad08c4acd096e4847c854] .
 
 (4) Where determining the tax relief amount under paragraph (3)(b), the scheme manager may adopt an approach which is reasonable in all the circumstances to approximate those amounts.
 
@@ -530,19 +530,19 @@ the appropriate person must pay pension contributions in respect of the differen
 - (a) direction 23(4) (provision of explanation);
 - (b) direction 23(5) and (6) (appeals).
 
-#### 24. Compensation for payments for purported added pension[^key-b19e534c5c788d08f4b324775a33e5c7][^key-8ba40d8e0e4d92f3c3231cfbe600b736]
+#### 24. Compensation for payments for purported added pension[^c-b19e534c5c788d08f4b324775a33e5c7][^c-8ba40d8e0e4d92f3c3231cfbe600b736]
 
 (1) This regulation applies where—
 
-- (a) P has, during the period of remediable service, made any purported added pension payments[^key-e9e7af5451b8fddc0021c201e1944540]..., and
+- (a) P has, during the period of remediable service, made any purported added pension payments[^c-e9e7af5451b8fddc0021c201e1944540]..., and
 - (b) regulation 129(1)(b) of the 2015 Regulations does not apply in respect of those payments.
 
 (2) Where the appropriate person makes a request for compensation in respect of the purported added pension payments—
 
-- (a) for the avoidance of doubt, any rights[^key-733931175e5d86e0a0e4d75f2f4a5952] that would otherwise have been secured by the purported added pension payments , had P been entitled to make them,[^key-7073460b301c094bb4913a5660e251aa] are extinguished, and
+- (a) for the avoidance of doubt, any rights[^c-733931175e5d86e0a0e4d75f2f4a5952] that would otherwise have been secured by the purported added pension payments , had P been entitled to make them,[^c-7073460b301c094bb4913a5660e251aa] are extinguished, and
 - (b) the scheme manager must pay to the appropriate person an amount by way of compensation equal to—
   - (i) the aggregate of the purported added pension payments paid by P, less
-  - (ii) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^key-670150431a62ce8874ddb11189ba1411] entitled in respect of those payments had P been entitled to make them[^key-258c18515718790aff6f81198e8f2afb] .
+  - (ii) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^c-670150431a62ce8874ddb11189ba1411] entitled in respect of those payments had P been entitled to make them[^c-258c18515718790aff6f81198e8f2afb] .
 
 (3) Where determining the tax relief amount under paragraph (2)(b), the scheme manager may adopt an approach which is reasonable in all the circumstances to approximate those amounts.
 
@@ -557,16 +557,16 @@ the appropriate person must pay pension contributions in respect of the differen
 - (b) in a form required by the scheme manager, and
 - (c) received by the scheme manager before the end of the notification period.
 
-#### 25. Compensation for purported effective pension age payments[^key-7bf7bb7bf8f37cb3ea23861214ad39e0][^key-e581ec9ffadb78d36adf7e6c18a81026]
+#### 25. Compensation for purported effective pension age payments[^c-7bf7bb7bf8f37cb3ea23861214ad39e0][^c-e581ec9ffadb78d36adf7e6c18a81026]
 
-(1) This regulation applies where P has, during the period of remediable service, made any purported effective pension age payments [^key-8e396ff5aa4ce8ff961e903fe3557b4b]....
+(1) This regulation applies where P has, during the period of remediable service, made any purported effective pension age payments [^c-8e396ff5aa4ce8ff961e903fe3557b4b]....
 
-(2) For the avoidance of doubt, any rights[^key-ddd950a1e2b861b988c25c552e0ed078] that would otherwise have been secured by the purported effective pension age payments , had P been entitled to make them,[^key-853d0a3ba740215a24bc33049c1d4a46] are extinguished.
+(2) For the avoidance of doubt, any rights[^c-ddd950a1e2b861b988c25c552e0ed078] that would otherwise have been secured by the purported effective pension age payments , had P been entitled to make them,[^c-853d0a3ba740215a24bc33049c1d4a46] are extinguished.
 
 (3) The scheme manager must pay to the appropriate person an amount by way of compensation equal to—
 
 - (a) the aggregate of the purported effective pension age payments made by P, less
-- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^key-6c97c635e514c09e1126eb0043d0a405] entitled in respect of those payments had P been entitled to make them[^key-f58cd401a0057084e5a7fdeb2955df6b] .
+- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^c-6c97c635e514c09e1126eb0043d0a405] entitled in respect of those payments had P been entitled to make them[^c-f58cd401a0057084e5a7fdeb2955df6b] .
 
 (4) Where determining the tax relief amount under paragraph (3)(b), the scheme manager may adopt an approach which is reasonable in all the circumstances to approximate those amounts.
 
@@ -577,7 +577,7 @@ the appropriate person must pay pension contributions in respect of the differen
 
 ### CHAPTER 9 — Transitional protection allowance where an immediate detriment remedy has been obtained
 
-#### 26. Transitional protection allowance[^key-85c896e303378cafa80b365dd7da261d]
+#### 26. Transitional protection allowance[^c-85c896e303378cafa80b365dd7da261d]
 
 (1) This regulation applies where P’s employer[^f00024] has paid P a transitional protection allowance[^f00025].
 
@@ -588,7 +588,7 @@ the appropriate person must pay pension contributions in respect of the differen
 
 ### CHAPTER 10 — Compensation for compensatable losses where an immediate detriment remedy has been obtained
 
-#### 27. Power to pay compensation in respect of compensatable losses[^key-374357950739b7ea8cd6e654544d6baf]
+#### 27. Power to pay compensation in respect of compensatable losses[^c-374357950739b7ea8cd6e654544d6baf]
 
 (1) The scheme manager for a judicial scheme may pay amounts by way of compensation in respect of compensatable losses incurred by the appropriate person.
 
@@ -633,7 +633,7 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 11 — Unauthorised payments where an immediate detriment remedy has been obtained
 
-#### 28. Scheme rules that prohibit unauthorised payments[^key-a81afa5c08790eb2f1da62dc54ed0732]
+#### 28. Scheme rules that prohibit unauthorised payments[^c-a81afa5c08790eb2f1da62dc54ed0732]
 
 (1) This regulation applies where—
 
@@ -655,7 +655,7 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 1 — Application and Interpretation
 
-#### 29. Application of Part[^key-a791d1a3419ef333b3c2038e060c1dfd]
+#### 29. Application of Part[^c-a791d1a3419ef333b3c2038e060c1dfd]
 
 (1) This Part applies where a relevant fee-paid judge[^f00029] (“**R**”) has relevant service in a judicial office.
 
@@ -689,7 +689,7 @@ whether pursuant to a court or tribunal order otherwise.
 - (a) regulation 32(1) and the steps mentioned in regulation 32(2) have not been taken in relation to R;
 - (b) regulation 32(3) and the steps mentioned in regulation 32(4) have not been taken in relation to R.
 
-#### 30. Interpretation of Part[^key-d099d9f4143c7705ee258afaab78656d]
+#### 30. Interpretation of Part[^c-d099d9f4143c7705ee258afaab78656d]
 
 (1) In this Part—
 
@@ -704,7 +704,7 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 2 — Information statements
 
-#### 31. Information statements[^key-9880feb495e3f198b19556069ab5f473]
+#### 31. Information statements[^c-9880feb495e3f198b19556069ab5f473]
 
 (1) The relevant authority must, as soon as reasonably practicable—
 
@@ -715,7 +715,7 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 3 — Partnership pension account where a person has relevant service
 
-#### 32. Partnership pension account: requirement to transfer and surrender rights.[^key-9f92e48ae2b07d94110e528195d40153]
+#### 32. Partnership pension account: requirement to transfer and surrender rights.[^c-9f92e48ae2b07d94110e528195d40153]
 
 (1) Paragraph (2) applies where—
 
@@ -741,7 +741,7 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 4 — Benefits for children
 
-#### 33. Benefits for children[^key-d71b5f8e6c3aae5718091c279d6537bb]
+#### 33. Benefits for children[^c-d71b5f8e6c3aae5718091c279d6537bb]
 
 (1) This regulation applies where—
 
@@ -755,7 +755,7 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 5 — Partial retirement
 
-#### 34. Partial retirement notice[^key-e982afe4c1efc8d30e9bf56d245cf06b]
+#### 34. Partial retirement notice[^c-e982afe4c1efc8d30e9bf56d245cf06b]
 
 (1) Paragraph (2) applies where—
 
@@ -768,24 +768,24 @@ whether pursuant to a court or tribunal order otherwise.
 
 ### CHAPTER 6 — Benefits and contributions previously paid or payable
 
-#### 35. Benefits previously paid or payable[^key-a7cbc6a535216ea568c9289b1adf3b76]
+#### 35. Benefits previously paid or payable[^c-a7cbc6a535216ea568c9289b1adf3b76]
 
-(1) Paragraph (2) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^key-48f017ca48fbc507d5b5e642c750b79b] to a person so far as—
+(1) Paragraph (2) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^c-48f017ca48fbc507d5b5e642c750b79b] to a person so far as—
 
 - (a) they are calculated by reference to R’s relevant service in a salaried judicial office, and
-- (b) they are payments[^key-bf1a47fa51c0eeb3087723587a181ca2] that a person was not entitled to receive as benefits[^key-0db9deaf7c31beb4bd980e04d5dbbfdd] from the 2015 scheme.
+- (b) they are payments[^c-bf1a47fa51c0eeb3087723587a181ca2] that a person was not entitled to receive as benefits[^c-0db9deaf7c31beb4bd980e04d5dbbfdd] from the 2015 scheme.
 
-(2) The purported benefits[^key-5aea4a3a4c5ca43377afe582332ee6d3] are to be treated for all purposes—
+(2) The purported benefits[^c-5aea4a3a4c5ca43377afe582332ee6d3] are to be treated for all purposes—
 
 - (a) as not having been paid to the person by the 2015 scheme, but
 - (b) as having been paid to the person instead by the Part 4 judicial legacy salaried scheme.
 
-(3) Paragraph (4) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^key-a0cbdebf1bf5b11eccee3dd25e483a62] to a person so far as—
+(3) Paragraph (4) applies in relation to any payments purporting to be benefits that the 2015 scheme has at any time paid (“the purported benefits”)[^c-a0cbdebf1bf5b11eccee3dd25e483a62] to a person so far as—
 
 - (a) they are calculated by reference to R’s relevant service in a fee-paid judicial office, and
-- (b) they are payments[^key-c26f6d7e06e6fc4870e30426700ca654] that a person was not entitled to receive as benefits[^key-619976d68d796f9ec60d10a96f22c42f] from the 2015 scheme.
+- (b) they are payments[^c-c26f6d7e06e6fc4870e30426700ca654] that a person was not entitled to receive as benefits[^c-619976d68d796f9ec60d10a96f22c42f] from the 2015 scheme.
 
-(4) The purported benefits[^key-ea3164e7cb4c1646aa7c11151ceb26c5] are to be treated for all purposes—
+(4) The purported benefits[^c-ea3164e7cb4c1646aa7c11151ceb26c5] are to be treated for all purposes—
 
 - (a) as not having been paid to the person by the 2015 scheme, but
 - (b) as having been paid to the person instead by the judicial legacy fee-paid scheme.
@@ -797,24 +797,24 @@ whether pursuant to a court or tribunal order otherwise.
 
 such amount must be paid in accordance with regulation 37.
 
-#### 36. Pension contributions previously paid or payable[^key-3ad7c3d6dc07a7eebbc4a4662a49e043]
+#### 36. Pension contributions previously paid or payable[^c-3ad7c3d6dc07a7eebbc4a4662a49e043]
 
-(1) Paragraph (2) applies where R has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^key-ccc06f0a70dd105d1e069802572680ad] which—
+(1) Paragraph (2) applies where R has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^c-ccc06f0a70dd105d1e069802572680ad] which—
 
 - (a) are calculated by reference to R’s relevant service in a salaried judicial office, and
-- (b) were payments which,[^key-455fd674f04c45a0fd5b0629648cf5bf] had R been recognised as a full protection member[^f00031] of a judicial legacy scheme in relation to that service, R would not have been required to pay to the 2015 scheme.
+- (b) were payments which,[^c-455fd674f04c45a0fd5b0629648cf5bf] had R been recognised as a full protection member[^f00031] of a judicial legacy scheme in relation to that service, R would not have been required to pay to the 2015 scheme.
 
-(2) The purported contributions[^key-78acd0d3026cd3146bbba0e7f12b7096] are to be treated for all purposes—
+(2) The purported contributions[^c-78acd0d3026cd3146bbba0e7f12b7096] are to be treated for all purposes—
 
 - (a) as not having been paid by R to the 2015 scheme, but
 - (b) as having been paid by R instead to the Part 4 judicial legacy salaried scheme.
 
-(3) Paragraph (4) applies where R has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^key-b72d8754ebe1febd51f7f0b9b85ae603] which—
+(3) Paragraph (4) applies where R has made any payments purporting to be pension contributions under the 2015 scheme (“the purported contributions”)[^c-b72d8754ebe1febd51f7f0b9b85ae603] which—
 
 - (a) are calculated by reference to R’s relevant service in a fee-paid judicial office, and
-- (b) were payments which,[^key-050505b6e34e157e968a5d94d570ecfa] had R been recognised as a full protection member of a judicial legacy scheme in relation to that service, R would not have been required to pay to the 2015 scheme.
+- (b) were payments which,[^c-050505b6e34e157e968a5d94d570ecfa] had R been recognised as a full protection member of a judicial legacy scheme in relation to that service, R would not have been required to pay to the 2015 scheme.
 
-(4) The purported contributions[^key-1f0806b61f758b8d5c165b42a27f9b5a] are to be treated for all purposes—
+(4) The purported contributions[^c-1f0806b61f758b8d5c165b42a27f9b5a] are to be treated for all purposes—
 
 - (a) as not having been paid by R to the 2015 scheme, but
 - (b) as having been paid by R instead to the judicial legacy fee-paid scheme.
@@ -828,7 +828,7 @@ such amount must be paid in accordance with regulation 38.
 
 ### CHAPTER 7 — Corrections for pension benefits and contributions
 
-#### 37. Pension benefits and lump sum benefits[^key-abf5621add737692d8aefed287cb384a]
+#### 37. Pension benefits and lump sum benefits[^c-abf5621add737692d8aefed287cb384a]
 
 (1) This regulation applies where—
 
@@ -864,7 +864,7 @@ the beneficiary must pay the difference to the scheme.
 
 the scheme manager must pay the difference to the beneficiary.
 
-#### 38. Pension contributions[^key-249e64dacecb0e9fd580a56669176d84]
+#### 38. Pension contributions[^c-249e64dacecb0e9fd580a56669176d84]
 
 (1) Where—
 
@@ -905,16 +905,16 @@ the appropriate person must pay pension contributions to the scheme in respect o
 
 ### CHAPTER 8 — Compensation for voluntary payments
 
-#### 39. Compensation for purported special payments to buy out early payment reduction[^key-b383a8ec42cd54e0cfa5b4df93e1d713][^key-988c3afa86b64b34e689d6bad650f1f8]
+#### 39. Compensation for purported special payments to buy out early payment reduction[^c-b383a8ec42cd54e0cfa5b4df93e1d713][^c-988c3afa86b64b34e689d6bad650f1f8]
 
-(1) This regulation applies where R has, during the period of relevant service, made any purported special payments [^key-0b4b33a81cedd09c25be31a04386664d]....
+(1) This regulation applies where R has, during the period of relevant service, made any purported special payments [^c-0b4b33a81cedd09c25be31a04386664d]....
 
-(2) For the avoidance of doubt, any rights[^key-b9a440d5d29ab75201c3a2ea36fa4aad] that would otherwise have been secured by the purported special payments , had R been entitled to make them[^key-b3ed3726acbca1872a835a908dd2a1cb] are extinguished.
+(2) For the avoidance of doubt, any rights[^c-b9a440d5d29ab75201c3a2ea36fa4aad] that would otherwise have been secured by the purported special payments , had R been entitled to make them[^c-b3ed3726acbca1872a835a908dd2a1cb] are extinguished.
 
 (3) The scheme manager must pay to the appropriate person an amount by way of compensation equal to—
 
 - (a) the aggregate of the purported special payments made by R, less
-- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^key-54feca1ad1316210a487f02261c67925] entitled in respect of those payments had R been entitled to make them[^key-4f6431948fc0b00002ad9081f2f209c5] .
+- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which P would have been[^c-54feca1ad1316210a487f02261c67925] entitled in respect of those payments had R been entitled to make them[^c-4f6431948fc0b00002ad9081f2f209c5] .
 
 (4) Where determining the tax relief amount under paragraph (3)(b), the scheme manager may adopt an approach which is reasonable in all the circumstances to approximate those amounts.
 
@@ -923,19 +923,19 @@ the appropriate person must pay pension contributions to the scheme in respect o
 - (a) direction 23(4) (provision of explanation);
 - (b) direction 23(5) and (6) (appeals).
 
-#### 40. Compensation for payments for purported added pension[^key-0c58ccea3348a8a449fa59eb27cd9a75][^key-245e81487def4e9b0879d92565559bbd]
+#### 40. Compensation for payments for purported added pension[^c-0c58ccea3348a8a449fa59eb27cd9a75][^c-245e81487def4e9b0879d92565559bbd]
 
 (1) This regulation applies where—
 
-- (a) R has, during the period of relevant service, made any purported added pension payments [^key-67d22770ed801d52b64e7d7b056fcdbf]..., and
+- (a) R has, during the period of relevant service, made any purported added pension payments [^c-67d22770ed801d52b64e7d7b056fcdbf]..., and
 - (b) regulation 129(1)(b) of the 2015 Regulations does not apply in respect of those payments.
 
 (2) Where the appropriate person makes a request for compensation in respect of the purported added pension payments—
 
-- (a) for the avoidance of doubt, any rights[^key-83823fdb604c7a683b236d0a14ef1d2d] that would otherwise have been secured by the purported added pension payments , had R been entitled to make them,[^key-6885f05ce8821c6d327ef3f9ae9a0279] are extinguished, and
+- (a) for the avoidance of doubt, any rights[^c-83823fdb604c7a683b236d0a14ef1d2d] that would otherwise have been secured by the purported added pension payments , had R been entitled to make them,[^c-6885f05ce8821c6d327ef3f9ae9a0279] are extinguished, and
 - (b) the scheme manager must pay to the appropriate person an amount by way of compensation equal to—
   - (i) the aggregate of the purported added pension payments paid by R, less
-  - (ii) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which R would have been[^key-97bcc0c6e95e7924b79299379e422220] entitled in respect of those payments had R been entitled to make them[^key-6908a0e583e2fcd17d4d657eb10755b0] .
+  - (ii) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which R would have been[^c-97bcc0c6e95e7924b79299379e422220] entitled in respect of those payments had R been entitled to make them[^c-6908a0e583e2fcd17d4d657eb10755b0] .
 
 (3) Where determining the tax relief amount under paragraph (2)(b), the scheme manager may adopt an approach which is reasonable in all the circumstances to approximate those amounts.
 
@@ -950,16 +950,16 @@ the appropriate person must pay pension contributions to the scheme in respect o
 - (b) in a form required by the scheme manager, and
 - (c) received by the scheme manager before the end of the notification period.
 
-#### 41. Compensation for purported effective pension age payments[^key-c7635c878ea1dce386995029a40b9738][^key-e01066dfec3b8dfa3ba66177ea85fed6]
+#### 41. Compensation for purported effective pension age payments[^c-c7635c878ea1dce386995029a40b9738][^c-e01066dfec3b8dfa3ba66177ea85fed6]
 
-(1) This regulation applies where R has, during the period of relevant service, made any purported effective pension age payments [^key-d7bbb5ce93c105e9363d5d749d32955a]....
+(1) This regulation applies where R has, during the period of relevant service, made any purported effective pension age payments [^c-d7bbb5ce93c105e9363d5d749d32955a]....
 
-(2) For the avoidance of doubt, any rights[^key-b306c2778c8b1f2c4e39765d24a3eee7] that would otherwise have been secured by the purported effective pension age payments , had R been entitled to make them[^key-da4ddb4cee1b9c481158d439685c469a] are extinguished.
+(2) For the avoidance of doubt, any rights[^c-b306c2778c8b1f2c4e39765d24a3eee7] that would otherwise have been secured by the purported effective pension age payments , had R been entitled to make them[^c-da4ddb4cee1b9c481158d439685c469a] are extinguished.
 
 (3) The scheme manager must pay to the appropriate person an amount by way of compensation equal to—
 
 - (a) the aggregate of the purported effective pension age payments made by R, less
-- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which R would have been[^key-ba4e59451a497b0ba36ad7cea75bf301] entitled in respect of those payments had R been entitled to make them[^key-1dba25526a051efab36e2fa2de28d064] .
+- (b) an amount determined by the scheme manager in respect of the value of the tax relief under section 188 of FA 2004 (member contributions) to which R would have been[^c-ba4e59451a497b0ba36ad7cea75bf301] entitled in respect of those payments had R been entitled to make them[^c-1dba25526a051efab36e2fa2de28d064] .
 
 (4) Where determining the tax relief amount under paragraph (3)(b), the scheme manager may adopt an approach which is reasonable in all the circumstances to approximate those amounts.
 
@@ -968,7 +968,7 @@ the appropriate person must pay pension contributions to the scheme in respect o
 - (a) direction 23(4) (provision of explanation);
 - (b) direction 23(5) and (6) (appeals).
 
-#### 42. Transfers out of the 2015 scheme[^key-335cb30900ae05ab1ecf052ab864631b]
+#### 42. Transfers out of the 2015 scheme[^c-335cb30900ae05ab1ecf052ab864631b]
 
 (1) This regulation applies where a transfer value payment has, during the period of relevant service, been made under regulation 133 of the 2015 Regulations in respect of R’s accrued rights under the 2015 scheme.
 
@@ -987,7 +987,7 @@ the scheme manager must pay to the appropriate person an amount equal to the val
 
 ### CHAPTER 9 — Transitional protection allowance
 
-#### 43. Transitional protection allowance[^key-4fc4fc2323363864a7c6fe76bbe9342b]
+#### 43. Transitional protection allowance[^c-4fc4fc2323363864a7c6fe76bbe9342b]
 
 (1) This regulation applies where R’s employer has paid R a transitional protection allowance.
 
@@ -998,7 +998,7 @@ the scheme manager must pay to the appropriate person an amount equal to the val
 
 ### CHAPTER 10 — Compensation for compensatable losses
 
-#### 44. Power to pay compensation in respect of compensatable losses[^key-8d8a4c40f818582d1943c96e606351f3]
+#### 44. Power to pay compensation in respect of compensatable losses[^c-8d8a4c40f818582d1943c96e606351f3]
 
 (1) The scheme manager for a judicial scheme may pay amounts by way of compensation in respect of compensatable losses incurred by the appropriate person.
 
@@ -1039,7 +1039,7 @@ whether pursuant to a court or tribunal order or otherwise.
 
 ### CHAPTER 11 — Unauthorised payments
 
-#### 45. Scheme rules that prohibit unauthorised payments[^key-073be981544abf731a65e0c5cec7bf8a]
+#### 45. Scheme rules that prohibit unauthorised payments[^c-073be981544abf731a65e0c5cec7bf8a]
 
 (1) Paragraph (2) applies where—
 
@@ -1061,7 +1061,7 @@ whether pursuant to a court or tribunal order or otherwise.
 
 ### CHAPTER 1 — Preliminary
 
-#### 46. Application of Part[^key-2e2bcd3cea07f017f9157ea97eea7f61]
+#### 46. Application of Part[^c-2e2bcd3cea07f017f9157ea97eea7f61]
 
 (1) This Part applies where—
 
@@ -1077,7 +1077,7 @@ whether pursuant to a court or tribunal order or otherwise.
 - (b) a pension sharing order is made in respect of P, and
 - (c) the transfer day of the pension sharing order is in the period beginning with 1st April 2015 and ending on the day before the day on which Part 4 takes effect in respect of P.
 
-#### 47. Interpretation of Part[^key-1d2cec133bf62628f91aa841b44acb6c]
+#### 47. Interpretation of Part[^c-1d2cec133bf62628f91aa841b44acb6c]
 
 (1) In this Part—
 
@@ -1107,7 +1107,7 @@ whether pursuant to a court or tribunal order or otherwise.
 
 ### CHAPTER 2 — Provision where all remediable or relevant service was in the 2015 scheme
 
-#### 48. Application of Chapter[^key-98b9090822f0108ee842e72bfe23d391]
+#### 48. Application of Chapter[^c-98b9090822f0108ee842e72bfe23d391]
 
 (1) This Chapter applies where the following three conditions are met.
 
@@ -1120,7 +1120,7 @@ whether pursuant to a court or tribunal order or otherwise.
 - (a) this Part applies by virtue of regulation 46(1), but only if none of P’s remediable service is pensionable service in a judicial legacy scheme[^f00033] (disregarding any legacy scheme election or 2015 scheme election made in respect of P, or any immediate detriment remedy obtained in relation to P’s remediable service), or
 - (b) this Part applies by virtue of regulation 46(2).
 
-#### 49. Adjustments for pension credit members[^key-35c9ea5f96a7d244c75409758e662f82]
+#### 49. Adjustments for pension credit members[^c-35c9ea5f96a7d244c75409758e662f82]
 
 (1) The scheme manager must, after consultation with the scheme actuary, provide C with a statement of C’s remediable pension amount and remediable pension credit before the beginning of the relevant period.
 
@@ -1159,7 +1159,7 @@ at the end of the relevant period, C becomes entitled to a remediable pension cr
   - (a) zero, and
   - (b) the remediable pension amount minus the appropriate amount.
 
-#### 50. Adjustments for pension debit members where a legacy scheme election is made[^key-13914914bda587ae1280ffae21dc3917]
+#### 50. Adjustments for pension debit members where a legacy scheme election is made[^c-13914914bda587ae1280ffae21dc3917]
 
 (1) This regulation applies where—
 
@@ -1177,7 +1177,7 @@ at the end of the relevant period, C becomes entitled to a remediable pension cr
 
 ### CHAPTER 3 — Provision where all remediable service subject to a relevant pension sharing order was in a judicial legacy scheme
 
-#### 51. Application of Chapter[^key-bd370895399e4a1d9a07a35c18c61928]
+#### 51. Application of Chapter[^c-bd370895399e4a1d9a07a35c18c61928]
 
 This Chapter applies where—
 
@@ -1185,7 +1185,7 @@ This Chapter applies where—
 - (b) the corresponding debit member in relation to C (“**P**”) is subject to a pension debit in a judicial legacy scheme, and
 - (c) all of P’s remediable service beginning on 1st April 2015 and ending on the day before the transfer day is, disregarding any legacy scheme election or 2015 scheme election made in respect of P, pensionable service in a judicial legacy scheme.
 
-#### 52. Adjustments for pension credit members[^key-c4e5090817b7821eb959537661661481]
+#### 52. Adjustments for pension credit members[^c-c4e5090817b7821eb959537661661481]
 
 (1) The scheme manager must, after consultation with the scheme actuary and before the beginning of the relevant period, provide C with a statement of—
 
@@ -1209,7 +1209,7 @@ This Chapter applies where—
   - (a) zero, and
   - (b) the 2015 scheme remediable pension amount minus the legacy scheme remediable pension amount.
 
-#### 53. Adjustments for pension debit members where a 2015 scheme election is made[^key-7fef1d711209e644f53f23fde91aeeae]
+#### 53. Adjustments for pension debit members where a 2015 scheme election is made[^c-7fef1d711209e644f53f23fde91aeeae]
 
 (1) This regulation applies where a 2015 scheme election is made in respect of P.
 
@@ -1224,14 +1224,14 @@ This Chapter applies where—
 
 ### CHAPTER 4 — Provision where the relevant pension sharing order is in respect of mixed service
 
-#### 54. Application of Chapter[^key-e5ff3ae2c13920621240cf2d3e9864a9]
+#### 54. Application of Chapter[^c-e5ff3ae2c13920621240cf2d3e9864a9]
 
 This Chapter applies where—
 
 - (a) a relevant pension credit member (“**C**”) has rights in the 2015 scheme and a judicial legacy scheme, and
 - (b) the corresponding debit member (“**P**”) has remediable service which is mixed service.
 
-#### 55. Interpretation of Chapter[^key-63db417012ec380acd1988c7e49db5cb]
+#### 55. Interpretation of Chapter[^c-63db417012ec380acd1988c7e49db5cb]
 
 In this Chapter—
 
@@ -1241,7 +1241,7 @@ In this Chapter—
 - “**relevant legacy scheme order or provision**” means the order or provision by virtue of which Article 26 of WRP(NI)O 1999 applied to the relevant pension credit member and corresponding debit member in respect of a judicial legacy scheme;
 - “**relevant 2015 scheme order or provision**” means the order or provision by virtue of which Article 26 of WRP(NI)O 1999 applied to the relevant pension credit member and corresponding debit member in respect of the 2015 scheme.
 
-#### 56. Adjustments for pension credit members where there is mixed service[^key-410fa4d13ead36fd14ce3ce6d8406d4b]
+#### 56. Adjustments for pension credit members where there is mixed service[^c-410fa4d13ead36fd14ce3ce6d8406d4b]
 
 (1) The scheme manager must, after consultation with the scheme actuary, calculate the value of C’s—
 
@@ -1321,7 +1321,7 @@ In this Chapter—
 - “**taper date**” means (disregarding any legacy scheme election or 2015 scheme election made in respect of P or immediate detriment remedy obtained in relation to P’s remediable service) the day after the taper protection closing date for P;
 - “**taper protection closing date**” has the meaning given in paragraph 3 of Schedule 2 to the 2015 Regulations.
 
-#### 57. Adjustments for pension debit members[^key-1a0652ae5c0c3ebab93532ad1d0c11df]
+#### 57. Adjustments for pension debit members[^c-1a0652ae5c0c3ebab93532ad1d0c11df]
 
 (1) Paragraph (2) applies where a legacy scheme election is made in respect of P.
 
@@ -1344,7 +1344,7 @@ In this Chapter—
 
 ### CHAPTER 5 — Correction of pension benefits and lump sum benefits
 
-#### 58. Correction of pension benefits and lump sum benefits where underpayment[^key-ad4e61d4d9243a18f0885d2ee5f69fb8]
+#### 58. Correction of pension benefits and lump sum benefits where underpayment[^c-ad4e61d4d9243a18f0885d2ee5f69fb8]
 
 (1) This regulation applies in relation to a relevant pension credit member (“**C**”) who, at the end of the relevant period—
 
@@ -1353,7 +1353,7 @@ In this Chapter—
 
 (2) The scheme manager must pay to C the aggregate of the pension benefits and lump sum benefits (if any) to which C was entitled by virtue of their remediable pension credit.
 
-#### 59. Correction of pension benefits and lump sum benefits where overpayment[^key-114a15ad74927bfe827d501f31626b5f]
+#### 59. Correction of pension benefits and lump sum benefits where overpayment[^c-114a15ad74927bfe827d501f31626b5f]
 
 (1) This regulation applies in relation to a pension credit member (“**C**”) who, at the end of the relevant period—
 
@@ -1369,7 +1369,7 @@ In this Chapter—
 
 ### CHAPTER 1 — Interest
 
-#### 60. Interest[^key-b55cfa7b3ca7670ea137b2129d50a382]
+#### 60. Interest[^c-b55cfa7b3ca7670ea137b2129d50a382]
 
 (1) This regulation applies to—
 
@@ -1402,11 +1402,11 @@ In this Chapter—
 
 ### CHAPTER 2 — Reduction or waiver of liabilities owed to a judicial scheme
 
-#### 61. Application of Chapter[^key-1288605c90e51daa2e596cc87ec0cc95]
+#### 61. Application of Chapter[^c-1288605c90e51daa2e596cc87ec0cc95]
 
 This Chapter applies after taking into account the effect of regulation 60 (interest) in respect of an amount.
 
-#### 62. Reduction of liability to pay pension contributions by tax relief amounts[^key-a2e37e1daf9e0431c7b807c3d763514f]
+#### 62. Reduction of liability to pay pension contributions by tax relief amounts[^c-a2e37e1daf9e0431c7b807c3d763514f]
 
 (1) This regulation applies where the appropriate person has a liability to pay pension contributions to the 2015 scheme under regulations 22(4) or 38(3) or section 52(4) of PSPJOA 2022.
 
@@ -1419,7 +1419,7 @@ This Chapter applies after taking into account the effect of regulation 60 (inte
 - (a) direction 22(7) (provision of explanation);
 - (b) direction 22(8) and (9) (appeals).
 
-#### 63. Reduction or waiver of liability to repay overpaid pension benefits[^key-7531fa3c5d0b4b40cbc6ea878daf2f52]
+#### 63. Reduction or waiver of liability to repay overpaid pension benefits[^c-7531fa3c5d0b4b40cbc6ea878daf2f52]
 
 (1) This regulation applies where a person (“**Y**”) owes a liability to a judicial scheme under—
 
@@ -1442,7 +1442,7 @@ This Chapter applies after taking into account the effect of regulation 60 (inte
 
 ### CHAPTER 3 — Netting off
 
-#### 64. Netting off[^key-503c062097ec392dcb0876e4103963a1]
+#### 64. Netting off[^c-503c062097ec392dcb0876e4103963a1]
 
 (1) This regulation applies where—
 
@@ -1460,11 +1460,11 @@ This Chapter applies after taking into account the effect of regulation 60 (inte
 
 ### CHAPTER 4 — Amounts owed to a judicial scheme or employer or to a person
 
-#### 65. Application[^key-874c87229b9f38ece55d0edd1d5da9b3]
+#### 65. Application[^c-874c87229b9f38ece55d0edd1d5da9b3]
 
 This Chapter applies after taking into account the effect, if any, of regulations 60 to 64.
 
-#### 66. Amounts owed to a judicial scheme[^key-73884684a9a2543ed68c1affdb11bc80]
+#### 66. Amounts owed to a judicial scheme[^c-73884684a9a2543ed68c1affdb11bc80]
 
 (1) This regulation applies where a person (“**Y**”) owes an amount to the scheme under these Regulations or Chapter 2 of PSPJOA 2022.
 
@@ -1503,7 +1503,7 @@ Y must pay the outstanding amount to the scheme within a period of six months be
 - (a) an amount equal to the amount of the specified deductions that have not been made on the last day of Y’s service, plus
 - (b) any interest which has accrued on that amount under regulation 60.
 
-#### 67. Amounts owed to a person’s employer[^key-1897e3060cce69f6ef30728418f8b1a4]
+#### 67. Amounts owed to a person’s employer[^c-1897e3060cce69f6ef30728418f8b1a4]
 
 (1) Paragraph (2) applies where a person (“**Y**”) owes an amount to a person’s employer under section 54 of PSPJOA 2022 or regulation 26 or 43 (transitional protection allowance).
 
@@ -1516,7 +1516,7 @@ Y must pay the outstanding amount to the scheme within a period of six months be
 - (c) the closing words of paragraph (6);
 - (d) paragraph (7).
 
-#### 68. Amounts owed to a person[^key-844bf069f32f551788ab5dfb605b3bb3]
+#### 68. Amounts owed to a person[^c-844bf069f32f551788ab5dfb605b3bb3]
 
 (1) This regulation applies where an amount is payable by a judicial scheme to a person (“**Y**”) under these Regulations or Chapter 2 of PSPJOA 2022.
 
@@ -1533,7 +1533,7 @@ Y must pay the outstanding amount to the scheme within a period of six months be
 
 ## PART 7 — Miscellaneous amendments
 
-### 69. Miscellaneous amendments[^key-cc8329e769d1a572801977b0fe9fd9d9]
+### 69. Miscellaneous amendments[^c-cc8329e769d1a572801977b0fe9fd9d9]
 
 The Schedule contains miscellaneous amendments by virtue of, and in consequence of, PSPJOA 2022.
 
@@ -1559,11 +1559,11 @@ Department of Finance
 
 Regulation 69
 
-### 1. Amendment of the Judicial Pensions Regulations (Northern Ireland) 2015[^key-0c8b0604e4d0f20c0e3e016552b28b9f]
+### 1. Amendment of the Judicial Pensions Regulations (Northern Ireland) 2015[^c-0c8b0604e4d0f20c0e3e016552b28b9f]
 
 The 2015 Regulations are amended as follows.
 
-**2.**[^key-225483b2e21db548b2dc888756bbf9b3] In regulation 2 (interpretation)—
+**2.**[^c-225483b2e21db548b2dc888756bbf9b3] In regulation 2 (interpretation)—
 
 - (a) after the opening words insert—
 
@@ -1603,7 +1603,7 @@ The 2015 Regulations are amended as follows.
 
   .
 
-**3.**[^key-067025bfdd86a0982397357e1c60ae11] After regulation 38 (receipt of transfer value payment) insert—
+**3.**[^c-067025bfdd86a0982397357e1c60ae11] After regulation 38 (receipt of transfer value payment) insert—
 
 > **38A. Accrued earned pension attributable to a transfer value payment where a legacy scheme election is made**
 >
@@ -1628,7 +1628,7 @@ The 2015 Regulations are amended as follows.
 
 .
 
-**4.**[^key-ebedc0247c22b4aa5abb53984541ec1d] In regulation 52(5) (establishment of pension credit member’s account)—
+**4.**[^c-ebedc0247c22b4aa5abb53984541ec1d] In regulation 52(5) (establishment of pension credit member’s account)—
 
 - (a) omit the “and” immediately after sub-paragraph (a);
 - (b) at the end of (b) insert—
@@ -1639,13 +1639,13 @@ The 2015 Regulations are amended as follows.
 
   .
 
-**5.**[^key-fdf58ab1a85dbaa4d2a5b220155069a6] After regulation 126(1) (payment of member contributions) insert—
+**5.**[^c-fdf58ab1a85dbaa4d2a5b220155069a6] After regulation 126(1) (payment of member contributions) insert—
 
 > (1A) Member contributions that must be paid under section 52(4) of PSPJOA 2022 are to be paid in accordance with regulation 66 of the 2023 Regulations.
 
 .
 
-**6.**[^key-e890617ffb1603797bd760d82279d8c5] In Schedule 1, after paragraph 23 insert—
+**6.**[^c-e890617ffb1603797bd760d82279d8c5] In Schedule 1, after paragraph 23 insert—
 
 > **CHAPTER 5 — Deemed membership for added pension payments**
 >
@@ -1729,9 +1729,9 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00004]: Footnote: See section 75 of PSPJOA 2022 for the meaning of “Treasury directions”.
 
-[^key-714695f4b6b309138dd9839943df8fe9]: Commencement: Reg. 1 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-714695f4b6b309138dd9839943df8fe9]: Commencement: Reg. 1 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-8bcb7b5456d393e2de7bbb77af6d2cbe]: Commencement: Reg. 2 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-8bcb7b5456d393e2de7bbb77af6d2cbe]: Commencement: Reg. 2 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00005]: Footnote: [S.I. 2017/522](https://www.legislation.gov.uk/uksi/2017/522) as amended by [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413), [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), [S.I. 2019/781](https://www.legislation.gov.uk/uksi/2019/781), [S.I. 2020/386](https://www.legislation.gov.uk/uksi/2020/386), [S.I. 2021/444](https://www.legislation.gov.uk/uksi/2021/444) and [S.I. 2023/403](https://www.legislation.gov.uk/uksi/2023/403).
 
@@ -1739,15 +1739,15 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00007]: Footnote: Published on 26 January 2023 and accessible online at https://www.finance-ni.gov.uk/publications/directions-made-under-public-service-pensions-and-judicial-offices-act-2022.
 
-[^key-501654e8282bdf762c73408a668e7941]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2023/107/regulation/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/2/a)
+[^c-501654e8282bdf762c73408a668e7941]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2023/107/regulation/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/2/a)
 
-[^key-d4b21ad0083df2c930eb1bb2dcaf66ad]: Commencement: Reg. 3 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-d4b21ad0083df2c930eb1bb2dcaf66ad]: Commencement: Reg. 3 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e47eb7e96df2b89589ce830769c70c0b]: Commencement: Reg. 4 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-e47eb7e96df2b89589ce830769c70c0b]: Commencement: Reg. 4 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-34114629027b0c1eab037f314ad0b0e1]: Commencement: Reg. 5 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-34114629027b0c1eab037f314ad0b0e1]: Commencement: Reg. 5 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-7fbc3aa0e90eb61bfe6147df1a8dbaa7]: Commencement: Reg. 6 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-7fbc3aa0e90eb61bfe6147df1a8dbaa7]: Commencement: Reg. 6 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00008]: Footnote: See section 39 of PSPJOA 2022 for the meaning of “remediable service”.
 
@@ -1755,35 +1755,35 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00010]: Footnote: See section 68 of PSPJOA 2022 for provision about whether an “immediate detriment remedy” has been obtained.
 
-[^key-d82f0ef127c5a54b47c81d9a02444f44]: Commencement: Reg. 7 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-d82f0ef127c5a54b47c81d9a02444f44]: Commencement: Reg. 7 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00011]: Footnote: See section 40(1) and 42 of PSPJOA 2022 for the meaning and effect of “a legacy scheme election”.
 
 [^f00012]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-da0e7e9ad2cb443971cc50e0d6402a1f]: Commencement: Reg. 8 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-da0e7e9ad2cb443971cc50e0d6402a1f]: Commencement: Reg. 8 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00013]: Footnote: See section 69 of PSPJOA 2022 for the meaning of “the election period”.
 
-[^key-c6896ec1ec5c7332d9db2d6994235e9a]: Commencement: Reg. 9 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-c6896ec1ec5c7332d9db2d6994235e9a]: Commencement: Reg. 9 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e37be97393a11a25b4f3056cebce86a3]: Commencement: Reg. 10 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-e37be97393a11a25b4f3056cebce86a3]: Commencement: Reg. 10 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00014]: Footnote: See section 71(3) of PSPJOA 2022 for the meaning of “fee-paid judicial office”.
 
-[^key-f95adcbef3904c45bbf733a71c71f40a]: Commencement: Reg. 11 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-f95adcbef3904c45bbf733a71c71f40a]: Commencement: Reg. 11 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00015]: Footnote: See section 70(1) of PSPJOA 2022 for the meaning of “a judicial scheme”.
 
-[^key-d922c91cda6c8cd3e38b7cd8df239a53]: Commencement: Reg. 12 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-d922c91cda6c8cd3e38b7cd8df239a53]: Commencement: Reg. 12 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00016]: Footnote: Section 237B was inserted by paragraph 15 of Schedule 17 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
 [^f00017]: Footnote: Section 237BA was inserted by section 9(3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^key-6a817a736d7124593a87be70a7c0824a]: Commencement: Reg. 13 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-6a817a736d7124593a87be70a7c0824a]: Commencement: Reg. 13 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-fecd6969231fa6d252030b25a27a71e1]: Commencement: Reg. 14 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-fecd6969231fa6d252030b25a27a71e1]: Commencement: Reg. 14 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00018]: Footnote: See section 70(4) of PSPJOA 2022 for the meaning of “judicial legacy salaried scheme”.
 
@@ -1791,292 +1791,292 @@ An impact assessment has not been completed for these Regulations. An Explanator
 
 [^f00020]: Footnote: See section 72 of PSPJOA 2022 for the meaning of “the relevant authority”.
 
-[^key-9853b0d15fe4f30926464f193005c441]: Commencement: Reg. 15 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-9853b0d15fe4f30926464f193005c441]: Commencement: Reg. 15 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-f77d5502a93ddfe8f73b6e5aee158de0]: Commencement: Reg. 16 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-f77d5502a93ddfe8f73b6e5aee158de0]: Commencement: Reg. 16 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00021]: Footnote: See section 71(2) of PSPJOA 2022 for the meaning of “salaried judicial office”.
 
 [^f00022]: Footnote: See section 73(2) of PSPJOA 2022 for the meaning of “PPA opted-out service”.
 
-[^key-7a2c905ea5c8793d7188acb5140e59c6]: Commencement: Reg. 17 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-7a2c905ea5c8793d7188acb5140e59c6]: Commencement: Reg. 17 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-31e8e0ffba67b6602b1c94021a07d066]: Commencement: Reg. 18 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-31e8e0ffba67b6602b1c94021a07d066]: Commencement: Reg. 18 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-1cdec818a46b021e4a16233372b6923b]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/18/1/a) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(3)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/3/a)
+[^c-1cdec818a46b021e4a16233372b6923b]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/18/1/a) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(3)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/3/a)
 
-[^key-f0a8ffaaf5d9d68b2d24146ca732e141]: Textual amendment: Word in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/18/3) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(3)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/3/b)
+[^c-f0a8ffaaf5d9d68b2d24146ca732e141]: Textual amendment: Word in [reg. 18(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/18/3) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(3)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/3/b)
 
-[^key-307ab7d94d30d099c79016be7ed2a0f9]: Commencement: Reg. 19 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-307ab7d94d30d099c79016be7ed2a0f9]: Commencement: Reg. 19 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-8bda27fd04b5b08b5ab3d365977838a4]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/a/i)
+[^c-8bda27fd04b5b08b5ab3d365977838a4]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/a/i)
 
-[^key-e64ce90cec91a25cbc2eb8d1ed8fa445]: Textual amendment: Word in [reg. 19(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/1/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/a/ii/aa)
+[^c-e64ce90cec91a25cbc2eb8d1ed8fa445]: Textual amendment: Word in [reg. 19(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/1/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/a/ii/aa)
 
-[^key-ad51c709d81262f13b5cf2c4e637ba43]: Textual amendment: Words in [reg. 19(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/1/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/a/ii/bb)
+[^c-ad51c709d81262f13b5cf2c4e637ba43]: Textual amendment: Words in [reg. 19(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/1/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/a/ii/bb)
 
-[^key-0942c05983f12ef20fdb4ca609b1f30d]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/b)
+[^c-0942c05983f12ef20fdb4ca609b1f30d]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/b)
 
-[^key-bdf0c01c4b2d4a8d087476b06cb7ec4e]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/c/i)
+[^c-bdf0c01c4b2d4a8d087476b06cb7ec4e]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/c/i)
 
-[^key-b28804344eb244b71c3ab5923e40a6fb]: Textual amendment: Word in [reg. 19(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/c/ii/aa)
+[^c-b28804344eb244b71c3ab5923e40a6fb]: Textual amendment: Word in [reg. 19(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/c/ii/aa)
 
-[^key-88d5e320fdb68bf0768bd8226767981b]: Textual amendment: Words in [reg. 19(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/c/ii/bb)
+[^c-88d5e320fdb68bf0768bd8226767981b]: Textual amendment: Words in [reg. 19(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/c/ii/bb)
 
-[^key-49b7d26d351d6cc3182dccdf9aaf0816]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/d)
+[^c-49b7d26d351d6cc3182dccdf9aaf0816]: Textual amendment: Words in [reg. 19(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/19/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(4)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/4/d)
 
 [^f00023]: Footnote: See section 70(3) for the definition of “judicial legacy scheme”.
 
-[^key-07e67d03fa3d44da01d47b39a34b9ef8]: Commencement: Reg. 20 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-07e67d03fa3d44da01d47b39a34b9ef8]: Commencement: Reg. 20 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-22d63c39c506dbb71393cbfa4a6c1f19]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/a/i)
+[^c-22d63c39c506dbb71393cbfa4a6c1f19]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/a/i)
 
-[^key-78133d731cfdacb0bd408521aeb9e5b4]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/1/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/a/ii)
+[^c-78133d731cfdacb0bd408521aeb9e5b4]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/1/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/a/ii)
 
-[^key-4de80579cd62d21d6ab1e389c468f8d8]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/b)
+[^c-4de80579cd62d21d6ab1e389c468f8d8]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/b)
 
-[^key-aadd1090cd236089ce68f98f5346c000]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/c/i)
+[^c-aadd1090cd236089ce68f98f5346c000]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/c/i)
 
-[^key-0c52a23b9792357eefda629ebec4afa4]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/c/ii)
+[^c-0c52a23b9792357eefda629ebec4afa4]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/c/ii)
 
-[^key-c59ba53c08ede06b0991996bc32939a3]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/d)
+[^c-c59ba53c08ede06b0991996bc32939a3]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/20/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(5)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/5/d)
 
-[^key-6db6c1b2096879b8839c37f4826e2ba1]: Commencement: Reg. 21 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-6db6c1b2096879b8839c37f4826e2ba1]: Commencement: Reg. 21 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-565931f3b800256302958d5b4d0e89c1]: Commencement: Reg. 22 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-565931f3b800256302958d5b4d0e89c1]: Commencement: Reg. 22 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-dfb81dfa085bd0054be752879a15fdd4]: Commencement: Reg. 23 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-dfb81dfa085bd0054be752879a15fdd4]: Commencement: Reg. 23 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-dd29bb87b259b0b995208c42d7843bb4]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/nisr/2023/107/regulation/23) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/a)
+[^c-dd29bb87b259b0b995208c42d7843bb4]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/nisr/2023/107/regulation/23) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/a)
 
-[^key-fb43d0d61ce529c0cfcbb5fec760013f]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/b)
+[^c-fb43d0d61ce529c0cfcbb5fec760013f]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/b)
 
-[^key-e483d6e09fd77ca7f492ba86101bacc3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/c/i)
+[^c-e483d6e09fd77ca7f492ba86101bacc3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/c/i)
 
-[^key-752b485108b562d58aceb95957ce5d7d]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/c/ii)
+[^c-752b485108b562d58aceb95957ce5d7d]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/c/ii)
 
-[^key-16bbaf8f4f468b5c705f931cff3cfa1e]: Textual amendment: Words in [reg. 23(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/d/i)
+[^c-16bbaf8f4f468b5c705f931cff3cfa1e]: Textual amendment: Words in [reg. 23(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/d/i)
 
-[^key-bef5ee9fdcbad08c4acd096e4847c854]: Textual amendment: Words in [reg. 23(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/d/ii)
+[^c-bef5ee9fdcbad08c4acd096e4847c854]: Textual amendment: Words in [reg. 23(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/23/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(6)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/6/d/ii)
 
-[^key-b19e534c5c788d08f4b324775a33e5c7]: Commencement: Reg. 24 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-b19e534c5c788d08f4b324775a33e5c7]: Commencement: Reg. 24 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-8ba40d8e0e4d92f3c3231cfbe600b736]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/nisr/2023/107/regulation/24) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/a)
+[^c-8ba40d8e0e4d92f3c3231cfbe600b736]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/nisr/2023/107/regulation/24) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/a)
 
-[^key-e9e7af5451b8fddc0021c201e1944540]: Textual amendment: Words in [reg. 24(1)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/1/a) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/b)
+[^c-e9e7af5451b8fddc0021c201e1944540]: Textual amendment: Words in [reg. 24(1)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/1/a) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/b)
 
-[^key-733931175e5d86e0a0e4d75f2f4a5952]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/a) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/c/i)
+[^c-733931175e5d86e0a0e4d75f2f4a5952]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/a) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/c/i)
 
-[^key-7073460b301c094bb4913a5660e251aa]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/a) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/c/ii)
+[^c-7073460b301c094bb4913a5660e251aa]: Textual amendment: Words in [reg. 24(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/a) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/c/ii)
 
-[^key-670150431a62ce8874ddb11189ba1411]: Textual amendment: Words in [reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/b/ii) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/d/i)
+[^c-670150431a62ce8874ddb11189ba1411]: Textual amendment: Words in [reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/b/ii) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/d/i)
 
-[^key-258c18515718790aff6f81198e8f2afb]: Textual amendment: Words in [reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/b/ii) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/d/ii)
+[^c-258c18515718790aff6f81198e8f2afb]: Textual amendment: Words in [reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/24/2/b/ii) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(7)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/7/d/ii)
 
-[^key-7bf7bb7bf8f37cb3ea23861214ad39e0]: Commencement: Reg. 25 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-7bf7bb7bf8f37cb3ea23861214ad39e0]: Commencement: Reg. 25 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e581ec9ffadb78d36adf7e6c18a81026]: Textual amendment: Word in [reg. 25](https://www.legislation.gov.uk/nisr/2023/107/regulation/25) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/a)
+[^c-e581ec9ffadb78d36adf7e6c18a81026]: Textual amendment: Word in [reg. 25](https://www.legislation.gov.uk/nisr/2023/107/regulation/25) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/a)
 
-[^key-8e396ff5aa4ce8ff961e903fe3557b4b]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/b)
+[^c-8e396ff5aa4ce8ff961e903fe3557b4b]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/b)
 
-[^key-ddd950a1e2b861b988c25c552e0ed078]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/c/i)
+[^c-ddd950a1e2b861b988c25c552e0ed078]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/c/i)
 
-[^key-853d0a3ba740215a24bc33049c1d4a46]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/c/ii)
+[^c-853d0a3ba740215a24bc33049c1d4a46]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/c/ii)
 
-[^key-6c97c635e514c09e1126eb0043d0a405]: Textual amendment: Words in [reg. 25(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/d/i)
+[^c-6c97c635e514c09e1126eb0043d0a405]: Textual amendment: Words in [reg. 25(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/d/i)
 
-[^key-f58cd401a0057084e5a7fdeb2955df6b]: Textual amendment: Words in [reg. 25(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/d/ii)
+[^c-f58cd401a0057084e5a7fdeb2955df6b]: Textual amendment: Words in [reg. 25(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/25/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(8)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/8/d/ii)
 
-[^key-85c896e303378cafa80b365dd7da261d]: Commencement: Reg. 26 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-85c896e303378cafa80b365dd7da261d]: Commencement: Reg. 26 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00024]: Footnote: See section 110 of PSPJOA 2022 for the meaning of “employer”.
 
 [^f00025]: Footnote: See section 54(4) of PSPJOA 2022 for the meaning of “transitional protection allowance”.
 
-[^key-374357950739b7ea8cd6e654544d6baf]: Commencement: Reg. 27 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-374357950739b7ea8cd6e654544d6baf]: Commencement: Reg. 27 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00026]: Footnote: See section 58(5) of PSPJOA 2022 for the meaning of “mixed service”.
 
 [^f00027]: Footnote: See section 59(9) of PSPJOA 2022 for the meaning of “non-discrimination rule”.
 
-[^key-a81afa5c08790eb2f1da62dc54ed0732]: Commencement: Reg. 28 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-a81afa5c08790eb2f1da62dc54ed0732]: Commencement: Reg. 28 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00028]: Footnote: See section 63(5) of PSPJOA 2022 for the meaning of “unauthorised payment”.
 
-[^key-a791d1a3419ef333b3c2038e060c1dfd]: Commencement: Reg. 29 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-a791d1a3419ef333b3c2038e060c1dfd]: Commencement: Reg. 29 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00029]: Footnote: See section 103(3) of PSPJOA 2022 for the meaning of “relevant fee-paid judge”.
 
 [^f00030]: Footnote: See section 39(9) of PSPJOA 2022 for the meaning of “disqualifying gap in service”.
 
-[^key-d099d9f4143c7705ee258afaab78656d]: Commencement: Reg. 30 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-d099d9f4143c7705ee258afaab78656d]: Commencement: Reg. 30 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-9880feb495e3f198b19556069ab5f473]: Commencement: Reg. 31 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-9880feb495e3f198b19556069ab5f473]: Commencement: Reg. 31 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-9f92e48ae2b07d94110e528195d40153]: Commencement: Reg. 32 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-9f92e48ae2b07d94110e528195d40153]: Commencement: Reg. 32 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-d71b5f8e6c3aae5718091c279d6537bb]: Commencement: Reg. 33 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-d71b5f8e6c3aae5718091c279d6537bb]: Commencement: Reg. 33 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e982afe4c1efc8d30e9bf56d245cf06b]: Commencement: Reg. 34 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-e982afe4c1efc8d30e9bf56d245cf06b]: Commencement: Reg. 34 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-a7cbc6a535216ea568c9289b1adf3b76]: Commencement: Reg. 35 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-a7cbc6a535216ea568c9289b1adf3b76]: Commencement: Reg. 35 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-48f017ca48fbc507d5b5e642c750b79b]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/a/i)
+[^c-48f017ca48fbc507d5b5e642c750b79b]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/a/i)
 
-[^key-bf1a47fa51c0eeb3087723587a181ca2]: Textual amendment: Word in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/1/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/a/ii/aa)
+[^c-bf1a47fa51c0eeb3087723587a181ca2]: Textual amendment: Word in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/1/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/a/ii/aa)
 
-[^key-0db9deaf7c31beb4bd980e04d5dbbfdd]: Textual amendment: Words in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/1/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/a/ii/bb)
+[^c-0db9deaf7c31beb4bd980e04d5dbbfdd]: Textual amendment: Words in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/1/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/a/ii/bb)
 
-[^key-5aea4a3a4c5ca43377afe582332ee6d3]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/b)
+[^c-5aea4a3a4c5ca43377afe582332ee6d3]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/b)
 
-[^key-a0cbdebf1bf5b11eccee3dd25e483a62]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/c/i)
+[^c-a0cbdebf1bf5b11eccee3dd25e483a62]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/c/i)
 
-[^key-c26f6d7e06e6fc4870e30426700ca654]: Textual amendment: Word in [reg. 35(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/c/ii/aa)
+[^c-c26f6d7e06e6fc4870e30426700ca654]: Textual amendment: Word in [reg. 35(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/c/ii/aa)
 
-[^key-619976d68d796f9ec60d10a96f22c42f]: Textual amendment: Words in [reg. 35(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/c/ii/bb)
+[^c-619976d68d796f9ec60d10a96f22c42f]: Textual amendment: Words in [reg. 35(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/c/ii/bb)
 
-[^key-ea3164e7cb4c1646aa7c11151ceb26c5]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/d)
+[^c-ea3164e7cb4c1646aa7c11151ceb26c5]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/35/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(9)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/9/d)
 
-[^key-3ad7c3d6dc07a7eebbc4a4662a49e043]: Commencement: Reg. 36 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-3ad7c3d6dc07a7eebbc4a4662a49e043]: Commencement: Reg. 36 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-ccc06f0a70dd105d1e069802572680ad]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/a/i)
+[^c-ccc06f0a70dd105d1e069802572680ad]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/1) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(a)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/a/i)
 
-[^key-455fd674f04c45a0fd5b0629648cf5bf]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/1/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/a/ii)
+[^c-455fd674f04c45a0fd5b0629648cf5bf]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/1/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/a/ii)
 
 [^f00031]: Footnote: See section 103(4) of PSPJOA 2022 for the meaning of “full protection member”.
 
-[^key-78acd0d3026cd3146bbba0e7f12b7096]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/b)
+[^c-78acd0d3026cd3146bbba0e7f12b7096]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/b)
 
-[^key-b72d8754ebe1febd51f7f0b9b85ae603]: Textual amendment: Words in [reg. 36(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/c/i)
+[^c-b72d8754ebe1febd51f7f0b9b85ae603]: Textual amendment: Words in [reg. 36(3)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/3) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/c/i)
 
-[^key-050505b6e34e157e968a5d94d570ecfa]: Textual amendment: Words in [reg. 36(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/c/ii)
+[^c-050505b6e34e157e968a5d94d570ecfa]: Textual amendment: Words in [reg. 36(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/c/ii)
 
-[^key-1f0806b61f758b8d5c165b42a27f9b5a]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/d)
+[^c-1f0806b61f758b8d5c165b42a27f9b5a]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/nisr/2023/107/regulation/36/4) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(10)(d)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/10/d)
 
-[^key-abf5621add737692d8aefed287cb384a]: Commencement: Reg. 37 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-abf5621add737692d8aefed287cb384a]: Commencement: Reg. 37 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-249e64dacecb0e9fd580a56669176d84]: Commencement: Reg. 38 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-249e64dacecb0e9fd580a56669176d84]: Commencement: Reg. 38 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-b383a8ec42cd54e0cfa5b4df93e1d713]: Commencement: Reg. 39 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-b383a8ec42cd54e0cfa5b4df93e1d713]: Commencement: Reg. 39 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-988c3afa86b64b34e689d6bad650f1f8]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/nisr/2023/107/regulation/39) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/a)
+[^c-988c3afa86b64b34e689d6bad650f1f8]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/nisr/2023/107/regulation/39) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/a)
 
-[^key-0b4b33a81cedd09c25be31a04386664d]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/b)
+[^c-0b4b33a81cedd09c25be31a04386664d]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/b)
 
-[^key-b9a440d5d29ab75201c3a2ea36fa4aad]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/c/i)
+[^c-b9a440d5d29ab75201c3a2ea36fa4aad]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/c/i)
 
-[^key-b3ed3726acbca1872a835a908dd2a1cb]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/c/ii)
+[^c-b3ed3726acbca1872a835a908dd2a1cb]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/c/ii)
 
-[^key-54feca1ad1316210a487f02261c67925]: Textual amendment: Words in [reg. 39(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/d/i)
+[^c-54feca1ad1316210a487f02261c67925]: Textual amendment: Words in [reg. 39(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/d/i)
 
-[^key-4f6431948fc0b00002ad9081f2f209c5]: Textual amendment: Words in [reg. 39(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/d/ii)
+[^c-4f6431948fc0b00002ad9081f2f209c5]: Textual amendment: Words in [reg. 39(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/39/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(11)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/11/d/ii)
 
-[^key-0c58ccea3348a8a449fa59eb27cd9a75]: Commencement: Reg. 40 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-0c58ccea3348a8a449fa59eb27cd9a75]: Commencement: Reg. 40 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-245e81487def4e9b0879d92565559bbd]: Textual amendment: Word in [reg. 40](https://www.legislation.gov.uk/nisr/2023/107/regulation/40) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/a)
+[^c-245e81487def4e9b0879d92565559bbd]: Textual amendment: Word in [reg. 40](https://www.legislation.gov.uk/nisr/2023/107/regulation/40) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/a)
 
-[^key-67d22770ed801d52b64e7d7b056fcdbf]: Textual amendment: Words in [reg. 40(1)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/1/a) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/b)
+[^c-67d22770ed801d52b64e7d7b056fcdbf]: Textual amendment: Words in [reg. 40(1)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/1/a) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/b)
 
-[^key-83823fdb604c7a683b236d0a14ef1d2d]: Textual amendment: Words in [reg. 40(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/a) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/c/i)
+[^c-83823fdb604c7a683b236d0a14ef1d2d]: Textual amendment: Words in [reg. 40(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/a) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/c/i)
 
-[^key-6885f05ce8821c6d327ef3f9ae9a0279]: Textual amendment: Words in [reg. 40(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/a) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/c/ii)
+[^c-6885f05ce8821c6d327ef3f9ae9a0279]: Textual amendment: Words in [reg. 40(2)(a)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/a) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/c/ii)
 
-[^key-97bcc0c6e95e7924b79299379e422220]: Textual amendment: Words in [reg. 40(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/b/ii) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/d/i)
+[^c-97bcc0c6e95e7924b79299379e422220]: Textual amendment: Words in [reg. 40(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/b/ii) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/d/i)
 
-[^key-6908a0e583e2fcd17d4d657eb10755b0]: Textual amendment: Words in [reg. 40(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/b/ii) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/d/ii)
+[^c-6908a0e583e2fcd17d4d657eb10755b0]: Textual amendment: Words in [reg. 40(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/107/regulation/40/2/b/ii) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(12)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/12/d/ii)
 
-[^key-c7635c878ea1dce386995029a40b9738]: Commencement: Reg. 41 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-c7635c878ea1dce386995029a40b9738]: Commencement: Reg. 41 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e01066dfec3b8dfa3ba66177ea85fed6]: Textual amendment: Word in [reg. 41](https://www.legislation.gov.uk/nisr/2023/107/regulation/41) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/a)
+[^c-e01066dfec3b8dfa3ba66177ea85fed6]: Textual amendment: Word in [reg. 41](https://www.legislation.gov.uk/nisr/2023/107/regulation/41) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(a)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/a)
 
-[^key-d7bbb5ce93c105e9363d5d749d32955a]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/b)
+[^c-d7bbb5ce93c105e9363d5d749d32955a]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/1) omitted (24.5.2024) by virtue of [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/b)
 
-[^key-b306c2778c8b1f2c4e39765d24a3eee7]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/c/i)
+[^c-b306c2778c8b1f2c4e39765d24a3eee7]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(c)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/c/i)
 
-[^key-da4ddb4cee1b9c481158d439685c469a]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/c/ii)
+[^c-da4ddb4cee1b9c481158d439685c469a]: Textual amendment: Words in [reg. 41(2)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/2) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(c)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/c/ii)
 
-[^key-ba4e59451a497b0ba36ad7cea75bf301]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/d/i)
+[^c-ba4e59451a497b0ba36ad7cea75bf301]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/3/b) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(d)(i)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/d/i)
 
-[^key-1dba25526a051efab36e2fa2de28d064]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/d/ii)
+[^c-1dba25526a051efab36e2fa2de28d064]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/41/3/b) inserted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [3(13)(d)(ii)](https://www.legislation.gov.uk/nisr/2024/106/regulation/3/13/d/ii)
 
-[^key-335cb30900ae05ab1ecf052ab864631b]: Commencement: Reg. 42 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-335cb30900ae05ab1ecf052ab864631b]: Commencement: Reg. 42 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-4fc4fc2323363864a7c6fe76bbe9342b]: Commencement: Reg. 43 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-4fc4fc2323363864a7c6fe76bbe9342b]: Commencement: Reg. 43 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-8d8a4c40f818582d1943c96e606351f3]: Commencement: Reg. 44 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-8d8a4c40f818582d1943c96e606351f3]: Commencement: Reg. 44 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-073be981544abf731a65e0c5cec7bf8a]: Commencement: Reg. 45 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-073be981544abf731a65e0c5cec7bf8a]: Commencement: Reg. 45 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-2e2bcd3cea07f017f9157ea97eea7f61]: Commencement: Reg. 46 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-2e2bcd3cea07f017f9157ea97eea7f61]: Commencement: Reg. 46 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-1d2cec133bf62628f91aa841b44acb6c]: Commencement: Reg. 47 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-1d2cec133bf62628f91aa841b44acb6c]: Commencement: Reg. 47 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00032]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**WRP(NI)O 1999**” means the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147).
 
-[^key-98b9090822f0108ee842e72bfe23d391]: Commencement: Reg. 48 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-98b9090822f0108ee842e72bfe23d391]: Commencement: Reg. 48 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00033]: Footnote: See section 70(3) of PSPJOA 2022 for the meaning of “a judicial legacy scheme”.
 
-[^key-35c9ea5f96a7d244c75409758e662f82]: Commencement: Reg. 49 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-35c9ea5f96a7d244c75409758e662f82]: Commencement: Reg. 49 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00034]: Footnote: Schedule 2A was inserted by [S.I. 2000/2986](https://www.legislation.gov.uk/uksi/2000/2986) and paragraph 1 was amended by section 79 of the Pension Schemes Act 2015.
 
 [^f00035]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**JUPRA 1993**” means the Judicial Pensions and Retirement Act [1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8).
 
-[^key-13914914bda587ae1280ffae21dc3917]: Commencement: Reg. 50 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-13914914bda587ae1280ffae21dc3917]: Commencement: Reg. 50 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-bd370895399e4a1d9a07a35c18c61928]: Commencement: Reg. 51 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-bd370895399e4a1d9a07a35c18c61928]: Commencement: Reg. 51 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-c4e5090817b7821eb959537661661481]: Commencement: Reg. 52 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-c4e5090817b7821eb959537661661481]: Commencement: Reg. 52 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-7fef1d711209e644f53f23fde91aeeae]: Commencement: Reg. 53 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-7fef1d711209e644f53f23fde91aeeae]: Commencement: Reg. 53 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e5ff3ae2c13920621240cf2d3e9864a9]: Commencement: Reg. 54 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-e5ff3ae2c13920621240cf2d3e9864a9]: Commencement: Reg. 54 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-63db417012ec380acd1988c7e49db5cb]: Commencement: Reg. 55 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-63db417012ec380acd1988c7e49db5cb]: Commencement: Reg. 55 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-410fa4d13ead36fd14ce3ce6d8406d4b]: Commencement: Reg. 56 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-410fa4d13ead36fd14ce3ce6d8406d4b]: Commencement: Reg. 56 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-1a0652ae5c0c3ebab93532ad1d0c11df]: Commencement: Reg. 57 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-1a0652ae5c0c3ebab93532ad1d0c11df]: Commencement: Reg. 57 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-ad4e61d4d9243a18f0885d2ee5f69fb8]: Commencement: Reg. 58 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-ad4e61d4d9243a18f0885d2ee5f69fb8]: Commencement: Reg. 58 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00036]: Footnote: See section 109(3) of PSPJOA 2022 for the meaning of “pensioner member”.
 
-[^key-114a15ad74927bfe827d501f31626b5f]: Commencement: Reg. 59 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-114a15ad74927bfe827d501f31626b5f]: Commencement: Reg. 59 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-b55cfa7b3ca7670ea137b2129d50a382]: Commencement: Reg. 60 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-b55cfa7b3ca7670ea137b2129d50a382]: Commencement: Reg. 60 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00037]: Footnote: See section 61(3) of PSPJOA 2022 for the meaning of “relevant amounts”.
 
-[^key-1288605c90e51daa2e596cc87ec0cc95]: Commencement: Reg. 61 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-1288605c90e51daa2e596cc87ec0cc95]: Commencement: Reg. 61 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-a2e37e1daf9e0431c7b807c3d763514f]: Commencement: Reg. 62 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-a2e37e1daf9e0431c7b807c3d763514f]: Commencement: Reg. 62 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
 [^f00038]: Footnote: For the meaning of “tax relief amounts”, see section 56(4) of PSPJOA 2022.
 
-[^key-7531fa3c5d0b4b40cbc6ea878daf2f52]: Commencement: Reg. 63 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-7531fa3c5d0b4b40cbc6ea878daf2f52]: Commencement: Reg. 63 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-503c062097ec392dcb0876e4103963a1]: Commencement: Reg. 64 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-503c062097ec392dcb0876e4103963a1]: Commencement: Reg. 64 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-874c87229b9f38ece55d0edd1d5da9b3]: Commencement: Reg. 65 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-874c87229b9f38ece55d0edd1d5da9b3]: Commencement: Reg. 65 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-73884684a9a2543ed68c1affdb11bc80]: Commencement: Reg. 66 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-73884684a9a2543ed68c1affdb11bc80]: Commencement: Reg. 66 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-1897e3060cce69f6ef30728418f8b1a4]: Commencement: Reg. 67 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-1897e3060cce69f6ef30728418f8b1a4]: Commencement: Reg. 67 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-844bf069f32f551788ab5dfb605b3bb3]: Commencement: Reg. 68 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-844bf069f32f551788ab5dfb605b3bb3]: Commencement: Reg. 68 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-cc8329e769d1a572801977b0fe9fd9d9]: Commencement: Reg. 69 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-cc8329e769d1a572801977b0fe9fd9d9]: Commencement: Reg. 69 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-0c8b0604e4d0f20c0e3e016552b28b9f]: Commencement: Sch. para. 1 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-0c8b0604e4d0f20c0e3e016552b28b9f]: Commencement: Sch. para. 1 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-225483b2e21db548b2dc888756bbf9b3]: Commencement: Sch. para. 2 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-225483b2e21db548b2dc888756bbf9b3]: Commencement: Sch. para. 2 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-067025bfdd86a0982397357e1c60ae11]: Commencement: Sch. para. 3 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-067025bfdd86a0982397357e1c60ae11]: Commencement: Sch. para. 3 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-ebedc0247c22b4aa5abb53984541ec1d]: Commencement: Sch. para. 4 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-ebedc0247c22b4aa5abb53984541ec1d]: Commencement: Sch. para. 4 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-fdf58ab1a85dbaa4d2a5b220155069a6]: Commencement: Sch. para. 5 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-fdf58ab1a85dbaa4d2a5b220155069a6]: Commencement: Sch. para. 5 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
 
-[^key-e890617ffb1603797bd760d82279d8c5]: Commencement: Sch. para. 6 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)
+[^c-e890617ffb1603797bd760d82279d8c5]: Commencement: Sch. para. 6 in operation at 24.7.2023, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b)

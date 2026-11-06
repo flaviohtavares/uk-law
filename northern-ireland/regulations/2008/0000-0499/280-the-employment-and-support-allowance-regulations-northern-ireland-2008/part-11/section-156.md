@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 156. Circumstances in which a person is to be treated as being or not being a member of the household[^key-4a8c61416fe046912448382ece5b6562]
+## 156. Circumstances in which a person is to be treated as being or not being a member of the household[^c-4a8c61416fe046912448382ece5b6562]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ are to be treated as being members of the same household.
 - (a) one, both or all of them are patients detained in accommodation provided under Article 110 of the Mental Health Order;
 - (b) one, both or all of them are—
   - (i) detained in custody pending trial or sentence upon conviction or under a sentence imposed by a court, or
-  - (ii) on temporary release in accordance with the provisions of the Prison Act (Northern Ireland) 1953 *(affected by repeal, see note)*[^key-0ab7cedf19081f7736581947fe98f5af][^f00145];
+  - (ii) on temporary release in accordance with the provisions of the Prison Act (Northern Ireland) 1953 *(affected by repeal, see note)*[^c-0ab7cedf19081f7736581947fe98f5af][^f00145];
 - (c) the claimant is abroad and does not satisfy the conditions of Chapter 3 (temporary absence from Northern Ireland); or
 - (d) any one of them is permanently residing in a residential care home, a nursing home, an Abbeyfield Home or an independent hospital.
 
@@ -69,7 +69,7 @@ are to be treated as being members of the same household.
 
 (7) Paragraph (6)(a)(i), (b)(i) and (c)(i) does not apply in a case where immediately before the date of claim for an employment and support allowance the claimant was entitled to an income-based jobseeker’s allowance or income support.
 
-(8) A child or young person to whom any of the circumstances mentioned in paragraph (6)(d) or (g)[^key-b5e9535d4d838f63e74fe8c84489398c] applies is to be treated as being a member of the claimant’s household only for that part of any benefit week where that child or young person lives with the claimant.
+(8) A child or young person to whom any of the circumstances mentioned in paragraph (6)(d) or (g)[^c-b5e9535d4d838f63e74fe8c84489398c] applies is to be treated as being a member of the claimant’s household only for that part of any benefit week where that child or young person lives with the claimant.
 
 (9) In this regulation—
 
@@ -81,15 +81,15 @@ are to be treated as being members of the same household.
 
 ## Annotations
 
-[^key-4a8c61416fe046912448382ece5b6562]: Commencement: [Reg. 156](https://www.legislation.gov.uk/nisr/2008/280/regulation/156) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-4a8c61416fe046912448382ece5b6562]: Commencement: [Reg. 156](https://www.legislation.gov.uk/nisr/2008/280/regulation/156) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-0ab7cedf19081f7736581947fe98f5af]: Textual amendment: Words in [reg. 156(4)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/156/4/b) omitted (temp.) (8.4.2020) by virtue of [The Social Security (Coronavirus) (Prisoners) Regulations (Northern Ireland) 2020 (S.R. 2020/63)](https://www.legislation.gov.uk/nisr/2020/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/63/regulation/1/1), [3(d)](https://www.legislation.gov.uk/nisr/2020/63/regulation/3/d) (with [reg. 6(2)](https://www.legislation.gov.uk/nisr/2020/63/regulation/6/2))
+[^c-0ab7cedf19081f7736581947fe98f5af]: Textual amendment: Words in [reg. 156(4)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/156/4/b) omitted (temp.) (8.4.2020) by virtue of [The Social Security (Coronavirus) (Prisoners) Regulations (Northern Ireland) 2020 (S.R. 2020/63)](https://www.legislation.gov.uk/nisr/2020/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/63/regulation/1/1), [3(d)](https://www.legislation.gov.uk/nisr/2020/63/regulation/3/d) (with [reg. 6(2)](https://www.legislation.gov.uk/nisr/2020/63/regulation/6/2))
 
 [^f00145]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
 
 [^f00146]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253)
 
-[^key-b5e9535d4d838f63e74fe8c84489398c]: Textual amendment: Words in [reg. 156(8)](https://www.legislation.gov.uk/nisr/2008/280/regulation/156/8) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(27)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/27)
+[^c-b5e9535d4d838f63e74fe8c84489398c]: Textual amendment: Words in [reg. 156(8)](https://www.legislation.gov.uk/nisr/2008/280/regulation/156/8) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(27)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/27)
 
 [^f00147]: Footnote: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18)
 

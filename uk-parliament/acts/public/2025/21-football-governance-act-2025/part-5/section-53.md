@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Duty to pay a levy[^key-49d7256e5bdfbb36c18f0f08089d3485]
+## 53. Duty to pay a levy[^c-49d7256e5bdfbb36c18f0f08089d3485]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49d7256e5bdfbb36c18f0f08089d3485]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-49d7256e5bdfbb36c18f0f08089d3485]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Application of certain provisions for purposes of Part 7[^key-d1534bc91384d5697f41db4c24a29455]
+## 83. Application of certain provisions for purposes of Part 7[^c-d1534bc91384d5697f41db4c24a29455]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1534bc91384d5697f41db4c24a29455]: Commencement: Art. 83 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d1534bc91384d5697f41db4c24a29455]: Commencement: Art. 83 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

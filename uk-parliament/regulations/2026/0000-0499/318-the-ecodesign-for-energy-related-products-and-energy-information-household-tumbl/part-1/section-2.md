@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Commencement[^key-3375d8262ffd2879292ec4221007676e]
+## 2. Commencement[^c-3375d8262ffd2879292ec4221007676e]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (f) Schedules 1 to 6;
 - (g) Schedule 14.
 
-(2)[^key-807fb8619fa834502433e4f746476ba5] The following come into force on 19th September 2026—
+(2)[^c-807fb8619fa834502433e4f746476ba5] The following come into force on 19th September 2026—
 
 - (a) regulation 11(1)(a) and (b), (2) and (3);
 - (b) regulations 13 and 14;
@@ -39,7 +39,7 @@ summary: ''
 - (e) Schedules 7 to 13;
 - (f) Schedules 15 to 17.
 
-(3)[^key-ca64e70e47d64e9cbe58f9ac2a5f8cd6] The following come into force on 19th January 2027—
+(3)[^c-ca64e70e47d64e9cbe58f9ac2a5f8cd6] The following come into force on 19th January 2027—
 
 - (a) regulation 11(1)(c) to (i);
 - (b) regulation 12;
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3375d8262ffd2879292ec4221007676e]: Commencement: Reg. 2 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-3375d8262ffd2879292ec4221007676e]: Commencement: Reg. 2 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
 
-[^key-807fb8619fa834502433e4f746476ba5]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/750/regulation/6/a)
+[^c-807fb8619fa834502433e4f746476ba5]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/750/regulation/6/a)
 
-[^key-ca64e70e47d64e9cbe58f9ac2a5f8cd6]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/3) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/750/regulation/6/b)
+[^c-ca64e70e47d64e9cbe58f9ac2a5f8cd6]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/3) substituted (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/750/regulation/6/b)

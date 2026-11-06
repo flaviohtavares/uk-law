@@ -35,30 +35,30 @@ on Community arrangements for the early exchange of information in the event of 
 
 (87/600/Euratom) (revoked)
 
-[^key-86a5e9468962f724561e5474c6d51dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a5e9468962f724561e5474c6d51dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-86a5e9468962f724561e5474c6d51dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86a5e9468962f724561e5474c6d51dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a5e9468962f724561e5474c6d51dc2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86a5e9468962f724561e5474c6d51dc2]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-86a5e9468962f724561e5474c6d51dc2]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

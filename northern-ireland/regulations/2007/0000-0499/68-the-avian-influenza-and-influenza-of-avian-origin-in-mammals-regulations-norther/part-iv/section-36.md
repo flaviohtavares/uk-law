@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Ending of a protection or surveillance zone[^key-db957ef262bd2735554be088dfa64a97]
+## 36. Ending of a protection or surveillance zone[^c-db957ef262bd2735554be088dfa64a97]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db957ef262bd2735554be088dfa64a97]: Commencement: Reg. 36 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-db957ef262bd2735554be088dfa64a97]: Commencement: Reg. 36 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

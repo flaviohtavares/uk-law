@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. When appointments to be made by non-executive group[^key-a7e962dd6341c34bb443cdd7f389c9d6]
+## 68. When appointments to be made by non-executive group[^c-a7e962dd6341c34bb443cdd7f389c9d6]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7e962dd6341c34bb443cdd7f389c9d6]: Commencement: [S. 68](https://www.legislation.gov.uk/mwa/2011/4/section/68) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-a7e962dd6341c34bb443cdd7f389c9d6]: Commencement: [S. 68](https://www.legislation.gov.uk/mwa/2011/4/section/68) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Waste Management Licensing (England and Wales) (Amendment and Related Provisions) Regulations 2005 (revoked)[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+The Waste Management Licensing (England and Wales) (Amendment and Related Provisions) Regulations 2005 (revoked)[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 Made
 
@@ -46,111 +46,111 @@ Coming into force
 
 1st July 2005
 
-[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and territorial application[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Environment Act 1995[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 1. Citation, commencement and territorial application[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Waste Management Licensing Regulations 1994[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 2. Amendment of the Environment Act 1995[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 1: interpretation[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 3. Amendment of the Waste Management Licensing Regulations 1994[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulations 10 and 12: public registers and mobile plant[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 4. Amendment of regulation 1: interpretation[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 17: exemptions from waste management licensing[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 5. Amendment of regulations 10 and 12: public registers and mobile plant[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 18: registration in connection with exempt activities[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 6. Amendment of regulation 17: exemptions from waste management licensing[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Supervision of exempt activities[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 7. Amendment of regulation 18: registration in connection with exempt activities[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Land treatment[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 8. Supervision of exempt activities[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Storage and spreading of sludge[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 9. Land treatment[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Reclamation or improvement of land[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 10. Storage and spreading of sludge[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Recovery operations at water and sewage treatment works[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 11. Reclamation or improvement of land[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Composting biodegradable waste[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 12. Recovery operations at water and sewage treatment works[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Storage and use of building waste[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 13. Composting biodegradable waste[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Burning of waste at docks[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 14. Storage and use of building waste[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Transitional provisions[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 15. Burning of waste at docks[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 16. Transitional provisions[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Transitional charges[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+## 17.[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Transitional charges[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]
 
 **Not yet in force.**
 
@@ -158,12 +158,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70c7cd62a7d3dd4d7b3af3a4629a2dec]: Textual amendment: Regulations revoked (30.6.2005) by [The Waste Management Licensing (England and Wales)(Amendment and Related Provisions)(No. 2) Regulations 2005 (S.I. 2005/1528)](https://www.legislation.gov.uk/uksi/2005/1528), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/1528/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/1528/regulation/2) (with [regs. 20-22](https://www.legislation.gov.uk/uksi/2005/1528/regulation/20))
+[^c-70c7cd62a7d3dd4d7b3af3a4629a2dec]: Textual amendment: Regulations revoked (30.6.2005) by [The Waste Management Licensing (England and Wales)(Amendment and Related Provisions)(No. 2) Regulations 2005 (S.I. 2005/1528)](https://www.legislation.gov.uk/uksi/2005/1528), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/1528/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/1528/regulation/2) (with [regs. 20-22](https://www.legislation.gov.uk/uksi/2005/1528/regulation/20))

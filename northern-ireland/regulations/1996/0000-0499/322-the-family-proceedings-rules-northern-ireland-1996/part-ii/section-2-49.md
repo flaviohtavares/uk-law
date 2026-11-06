@@ -25,7 +25,7 @@ summary: ''
 - (i) a decree nisi should not be made absolute, or
 - (ii) a conditional order should not be made final,
 
-he shall give notice to that effect to the proper officer or chief clerk, as the case may be, and to the party in whose favour it was pronounced, and, if the cause is pending in the[^key-a1a983728f778550cde7449747863017] county court, the Master shall thereupon order it to be transferred to the High Court.\]
+he shall give notice to that effect to the proper officer or chief clerk, as the case may be, and to the party in whose favour it was pronounced, and, if the cause is pending in the[^c-a1a983728f778550cde7449747863017] county court, the Master shall thereupon order it to be transferred to the High Court.\]
 
 (2) Within 21 days after giving notice under paragraph (1) the Crown Solicitor shall file his plea setting out the ground on which he desires to show cause, together with a copy for service on the party in whose favour the decree \[[^f00163] or civil partnership order, as the case may be,\] was pronounced and every other party affected by \[[^f00164] that decree or order\].
 
@@ -59,7 +59,7 @@ fastened together in the order shown and having endorsed thereon the names and a
 
 [^f00162]: Footnote: Paragraph substituted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 
-[^key-a1a983728f778550cde7449747863017]: Textual amendment: Word in [rule 2.49(1)](https://www.legislation.gov.uk/nisr/1996/322/article/2.49/1) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(13)](https://www.legislation.gov.uk/nisr/2016/301/article/2/13); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-a1a983728f778550cde7449747863017]: Textual amendment: Word in [rule 2.49(1)](https://www.legislation.gov.uk/nisr/1996/322/article/2.49/1) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(13)](https://www.legislation.gov.uk/nisr/2016/301/article/2/13); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00163]: Footnote: Words inserted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 

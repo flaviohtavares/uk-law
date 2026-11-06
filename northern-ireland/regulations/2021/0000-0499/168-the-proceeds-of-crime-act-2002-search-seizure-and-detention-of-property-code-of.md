@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order (Northern Ireland) 2021 (revoked)[^key-c599ca21b0b05a9059a79574b900bc0f]
+The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) Order (Northern Ireland) 2021 (revoked)[^c-c599ca21b0b05a9059a79574b900bc0f]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 28th June 2021
 
-[^key-c599ca21b0b05a9059a79574b900bc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c599ca21b0b05a9059a79574b900bc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c599ca21b0b05a9059a79574b900bc0f]
+## 1. Citation and commencement[^c-c599ca21b0b05a9059a79574b900bc0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised Code of Practice[^key-c599ca21b0b05a9059a79574b900bc0f]
+## 2. Revised Code of Practice[^c-c599ca21b0b05a9059a79574b900bc0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c599ca21b0b05a9059a79574b900bc0f]
+## 3. Revocation[^c-c599ca21b0b05a9059a79574b900bc0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c599ca21b0b05a9059a79574b900bc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c599ca21b0b05a9059a79574b900bc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c599ca21b0b05a9059a79574b900bc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c599ca21b0b05a9059a79574b900bc0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c599ca21b0b05a9059a79574b900bc0f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2021/168) revoked (17.7.2024) by [The Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Order (Northern Ireland) 2024 (S.R. 2024/139)](https://www.legislation.gov.uk/nisr/2024/139), [arts. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1), [4(a)](https://www.legislation.gov.uk/nisr/2024/139/article/4/a)
+[^c-c599ca21b0b05a9059a79574b900bc0f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2021/168) revoked (17.7.2024) by [The Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Order (Northern Ireland) 2024 (S.R. 2024/139)](https://www.legislation.gov.uk/nisr/2024/139), [arts. 1](https://www.legislation.gov.uk/nisr/2024/139/article/1), [4(a)](https://www.legislation.gov.uk/nisr/2024/139/article/4/a)

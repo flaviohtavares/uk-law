@@ -195,127 +195,127 @@ At the end of regulation 9 add—
 
 .
 
-## 8. Substitution of regulation 15[^key-d1a828a37df83faafa5f39b48e362f57]
+## 8. Substitution of regulation 15[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 17 (single site permits etc.)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 9. Amendment of regulation 17 (single site permits etc.)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 18 (consolidation of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 10. Amendment of regulation 18 (consolidation of an environmental permit)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 20 (variation of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 11. Amendment of regulation 20 (variation of an environmental permit)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of regulation 21 (transfer of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 12. Amendment of regulation 21 (transfer of an environmental permit)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of regulation 24 (notification of surrender of an environmental permit)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 13. Amendment of regulation 24 (notification of surrender of an environmental permit)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 31 (appeals to an appropriate authority)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 14. Amendment of regulation 31 (appeals to an appropriate authority)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of regulation 35 (specific provisions applying to environmental permits)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 15. Amendment of regulation 35 (specific provisions applying to environmental permits)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of regulation 36 (enforcement notices)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 16. Amendment of regulation 36 (enforcement notices)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of regulation 37 (suspension notices)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 17. Amendment of regulation 37 (suspension notices)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of regulation 38 (offences)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 18. Amendment of regulation 38 (offences)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of regulation 39 (penalties)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 19. Amendment of regulation 39 (penalties)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of regulation 42 (enforcement by the High Court)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 20. Amendment of regulation 42 (enforcement by the High Court)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Insertion of regulation 57A[^key-d1a828a37df83faafa5f39b48e362f57]
+## 21. Insertion of regulation 57A[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Insertion of regulations 66A and 66B[^key-d1a828a37df83faafa5f39b48e362f57]
+## 22. Insertion of regulations 66A and 66B[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Amendment of Schedule 2 (exempt facilities: general)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 23. Amendment of Schedule 2 (exempt facilities: general)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Amendment of Schedule 3 (exempt facilities: descriptions and conditions)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 24. Amendment of Schedule 3 (exempt facilities: descriptions and conditions)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Amendment of Schedule 5 (environmental permits)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 25. Amendment of Schedule 5 (environmental permits)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Amendment of Schedule 6 (appeals to the appropriate authority)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 26. Amendment of Schedule 6 (appeals to the appropriate authority)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Insertion of new Schedule 23ZA (flood risk activities)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 27. Insertion of new Schedule 23ZA (flood risk activities)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Amendment of Schedule 23A (enforcement undertakings)[^key-d1a828a37df83faafa5f39b48e362f57]
+## 28. Amendment of Schedule 23A (enforcement undertakings)[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
@@ -325,7 +325,7 @@ At the end of regulation 9 add—
 
 Schedule 3 has effect.
 
-## 30. Repeals[^key-d1a828a37df83faafa5f39b48e362f57]
+## 30. Repeals[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
@@ -386,7 +386,7 @@ Minister for Communities and Tackling Poverty
 
 Signed on behalf of Minister for Natural Resources, One of the Welsh Ministers
 
-## SCHEDULE 1 — Amendment of Schedule 3 to the Principal Regulations[^key-d1a828a37df83faafa5f39b48e362f57]
+## SCHEDULE 1 — Amendment of Schedule 3 to the Principal Regulations[^c-d1a828a37df83faafa5f39b48e362f57]
 
 **No longer in force.**
 
@@ -506,97 +506,97 @@ Regulation 24
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Insertion of Schedule 23ZA into the Principal Regulations[^key-d1a828a37df83faafa5f39b48e362f57]
+## SCHEDULE 2 — Insertion of Schedule 23ZA into the Principal Regulations[^c-d1a828a37df83faafa5f39b48e362f57]
 
 Regulation 27
 
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-d1a828a37df83faafa5f39b48e362f57][^key-d1a828a37df83faafa5f39b48e362f57]
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> [^c-d1a828a37df83faafa5f39b48e362f57][^c-d1a828a37df83faafa5f39b48e362f57]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -726,7 +726,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: Regulation 8(4) was amended by [S.I. 2013/390](https://www.legislation.gov.uk/uksi/2013/390).
 
-[^key-d1a828a37df83faafa5f39b48e362f57]: Textual amendment: Regulations revoked in part (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-d1a828a37df83faafa5f39b48e362f57]: Textual amendment: Regulations revoked in part (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00013]: Footnote: Section 210(1) was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Paragraph 5 of Schedule 25 was amended by the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 100(1) and (2), the Marine and Coastal Access Act 2009, section 84 and Schedule 11, paragraph 3, the Flood and Water Management Act [2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29), Schedule 2, paragraph 49 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

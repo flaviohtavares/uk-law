@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41B. Climate change risk: publication of information[^key-f58f0f35a8b9ca295a1b26f3043806ad]
+## 41B. Climate change risk: publication of information[^c-f58f0f35a8b9ca295a1b26f3043806ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f58f0f35a8b9ca295a1b26f3043806ad]: Textual amendment: [Ss. 41A-41C](https://www.legislation.gov.uk/ukpga/1995/26/section/41A) inserted (31.5.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/124/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/b)
+[^c-f58f0f35a8b9ca295a1b26f3043806ad]: Textual amendment: [Ss. 41A-41C](https://www.legislation.gov.uk/ukpga/1995/26/section/41A) inserted (31.5.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/124/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/b)

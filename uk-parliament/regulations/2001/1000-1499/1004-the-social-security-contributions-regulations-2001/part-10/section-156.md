@@ -22,7 +22,7 @@ summary: ''
 
 (1) Except where otherwise provided, the provisions of these Regulations shall apply to Northern Ireland as they apply to Great Britain.
 
-(2) Paragraph (1) does not apply to the provisions of Case B[^key-e7f2f77afc5f718164fbd3ca003cc116]... of Part 9 of these Regulations.
+(2) Paragraph (1) does not apply to the provisions of Case B[^c-e7f2f77afc5f718164fbd3ca003cc116]... of Part 9 of these Regulations.
 
 (3) In the application of these Regulations to Northern Ireland other than this regulation, a reference to a provision of an enactment, which applies only to Great Britain shall be construed so far as necessary as including a reference to the corresponding enactment applying in Northern Ireland.
 
@@ -39,7 +39,7 @@ Neither this paragraph nor Schedule 7 limits the operation of paragraph (3).
 
 ## Annotations
 
-[^key-e7f2f77afc5f718164fbd3ca003cc116]: Textual amendment: Words in reg. 156(2) omitted (6.4.2003) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/964/regulation/11)
+[^c-e7f2f77afc5f718164fbd3ca003cc116]: Textual amendment: Words in reg. 156(2) omitted (6.4.2003) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/964/regulation/11)
 
 [^c17675991]: Textual amendment: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
 

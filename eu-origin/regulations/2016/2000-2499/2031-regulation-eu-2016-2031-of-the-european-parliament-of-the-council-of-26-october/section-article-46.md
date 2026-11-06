@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 46. Exception from prohibitions and requirements for frontier zones[^key-8819b93424a361afe79196ff492e6388]
+## Article 46. Exception from prohibitions and requirements for frontier zones[^c-8819b93424a361afe79196ff492e6388]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8819b93424a361afe79196ff492e6388]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/eur/2016/2031/article/46) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(9)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/9) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-8819b93424a361afe79196ff492e6388]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/eur/2016/2031/article/46) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(9)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/9) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

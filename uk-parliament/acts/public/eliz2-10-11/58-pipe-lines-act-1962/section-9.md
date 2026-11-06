@@ -28,7 +28,7 @@ summary: ''
 
 he may, if he grants the application, grant it subject to the condition that the line to be constructed pursuant to the application or any length of that line specified in the authorisation shall be so constructed as to be capable of conveying, during such period as may be so specified, not less than such quantity as may be so specified of the kind of thing in question or, as the case may be, things of the class in question.
 
-(1A)[^c7376381] Subsections (2), (3) and (5) of this section apply only to pipe-lines constructed pursuant to a pipe-line construction authorisation which are not an upstream petroleum pipe-line, a gas pipe-line or a gas interconnector[^key-99a8e9fd7238a14a0330a403af874c8d], and references in those subsections to “pipe-line” and “line” shall be construed accordingly.
+(1A)[^c7376381] Subsections (2), (3) and (5) of this section apply only to pipe-lines constructed pursuant to a pipe-line construction authorisation which are not an upstream petroleum pipe-line, a gas pipe-line or a gas interconnector[^c-99a8e9fd7238a14a0330a403af874c8d], and references in those subsections to “pipe-line” and “line” shall be construed accordingly.
 
 (2) The Minister may at any time, by notice served on the owner of a pipe-line constructed pursuant to a pipe-line construction authorisation to which a condition is attached by virtue of subsection (1)[^c7376391], impose such requirements as he thinks it necessary or expedient to impose for all or any of the following purposes, namely,—
 
@@ -44,19 +44,19 @@ but requirements imposed for the purpose specified in paragraph (a) of this subs
 
 (5) If the owner of a pipe-line fails to comply with a requirement imposed by a notice served under subsection (2) of this section with reference to the line he shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 5 on the standard scale[^c7376401]; and, if the failure continues after his conviction, he shall be guilty of a further offence and liable, in respect thereof, to a fine not exceeding twenty-five pounds for each day on which the failure continues.
 
-(6)[^c7376411][^key-7ea1fddda3617b2a05408a09c12a1e7f] This section does not apply where the application for the grant of a pipe-line construction authorisation relates to the construction of—
+(6)[^c7376411][^c-7ea1fddda3617b2a05408a09c12a1e7f] This section does not apply where the application for the grant of a pipe-line construction authorisation relates to the construction of—
 
 - (a) a diversion, or
 - (b) a carbon dioxide pipe-line.
 
 (7)[^c7376421] Where a gas pipe-line is proposed to be constructed pursuant to a pipe-line construction authorisation to which a condition is attached by virtue of subsection (1), any person other than the applicant for the pipe-line construction authorisation may make applications under section 10 and, if applicable, section 10C in respect of the proposed pipe-line, and those sections and section 10B shall have effect as if references to a pipe-line were references to the pipe-line as it would be once constructed in accordance with the condition, and as if references to the owner of the pipe-line were references to the proposed owner of it.
 
-(8)[^c7376421] Where an upstream petroleum pipe-line is proposed to be constructed pursuant to a pipe-line construction authorisation to which a condition is attached by virtue of subsection (1), any person other than the applicant for the pipe-line construction authorisation may make with respect to the proposed pipe-line—[^key-1da58dbf36cb1a815a4402efd5e28362]
+(8)[^c7376421] Where an upstream petroleum pipe-line is proposed to be constructed pursuant to a pipe-line construction authorisation to which a condition is attached by virtue of subsection (1), any person other than the applicant for the pipe-line construction authorisation may make with respect to the proposed pipe-line—[^c-1da58dbf36cb1a815a4402efd5e28362]
 
 - (a) an application of a kind mentioned in subsection (1)(a) of section 82 of the Energy Act 2011 (acquisition of rights to use upstream petroleum infrastructure), and
 - (b) if applicable, an application under subsection (4) of that section.
 
-(9)[^key-d6bc13e8ee39dbf8523a3cba2be39f68] For the purposes of an application made with respect to a proposed pipe-line by virtue of subsection (8)—
+(9)[^c-d6bc13e8ee39dbf8523a3cba2be39f68] For the purposes of an application made with respect to a proposed pipe-line by virtue of subsection (8)—
 
 - (a) sections 82 and 83 of the Energy Act 2011 shall have effect as if—
   - (i) references to a pipe-line were references to the proposed pipe-line as it would be once constructed in accordance with the condition attached by virtue of subsection (1) of this section;
@@ -71,7 +71,7 @@ but requirements imposed for the purpose specified in paragraph (a) of this subs
 
 [^c7376381]: Textual amendment: S. 9(1A) inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/1), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/1/paragraph/1/1)
 
-[^key-99a8e9fd7238a14a0330a403af874c8d]: Textual amendment: Words in s. 9(1A) substituted (14.8.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 151(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/151/1), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
+[^c-99a8e9fd7238a14a0330a403af874c8d]: Textual amendment: Words in s. 9(1A) substituted (14.8.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 151(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/151/1), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
 
 [^c7376391]: Textual amendment: Words in s. 9(2) substituted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/1/paragraph/1/2)
 
@@ -79,10 +79,10 @@ but requirements imposed for the purpose specified in paragraph (a) of this subs
 
 [^c7376411]: Textual amendment: S. 9(6) inserted (3.4.1999) by [S.I. 1999/742](https://www.legislation.gov.uk/uksi/1999/742), [arts. 1](https://www.legislation.gov.uk/uksi/1999/742/article/1), [2](https://www.legislation.gov.uk/uksi/1999/742/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/742/schedule/paragraph/6)
 
-[^key-7ea1fddda3617b2a05408a09c12a1e7f]: Textual amendment: S. 9(6) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/2)
+[^c-7ea1fddda3617b2a05408a09c12a1e7f]: Textual amendment: S. 9(6) substituted (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2011/2305/schedule/paragraph/2)
 
 [^c7376421]: Textual amendment: S. 9(7)(8) inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2000/1937/schedule/1/paragraph/1/3)
 
-[^key-1da58dbf36cb1a815a4402efd5e28362]: Textual amendment: Words in s. 9(8) substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/a); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i)
+[^c-1da58dbf36cb1a815a4402efd5e28362]: Textual amendment: Words in s. 9(8) substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/a); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i)
 
-[^key-d6bc13e8ee39dbf8523a3cba2be39f68]: Textual amendment: S. 9(9) inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/b); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i)
+[^c-d6bc13e8ee39dbf8523a3cba2be39f68]: Textual amendment: S. 9(9) inserted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/b); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i)

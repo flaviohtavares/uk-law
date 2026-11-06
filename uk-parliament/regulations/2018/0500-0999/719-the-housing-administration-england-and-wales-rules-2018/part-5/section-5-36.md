@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.36. Provisions as to dividends[^key-94d0e54266a51c2f7a48a3c88f8b31bc]
+## 5.36. Provisions as to dividends[^c-94d0e54266a51c2f7a48a3c88f8b31bc]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In the calculation and distribution of a dividend, the housing administrator mus
 
 ## Annotations
 
-[^key-94d0e54266a51c2f7a48a3c88f8b31bc]: Commencement: Rule 5.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-94d0e54266a51c2f7a48a3c88f8b31bc]: Commencement: Rule 5.36 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

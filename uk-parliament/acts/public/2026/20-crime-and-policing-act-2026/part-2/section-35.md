@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Delivery of knives etc[^key-432786df46a86c5a9c1ef9ff25da0dbb]
+## 35. Delivery of knives etc[^c-432786df46a86c5a9c1ef9ff25da0dbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -364,4 +364,4 @@ summary: ''
 
 ## Annotations
 
-[^key-432786df46a86c5a9c1ef9ff25da0dbb]: Commencement: S. 35 not in force at Royal Assent, see [s. 255(1)(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/7)
+[^c-432786df46a86c5a9c1ef9ff25da0dbb]: Commencement: S. 35 not in force at Royal Assent, see [s. 255(1)(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Administration charges during a triggering event period[^key-7d50dd256882de26435bbd258bcd6bd0]
+## 34. Administration charges during a triggering event period[^c-7d50dd256882de26435bbd258bcd6bd0]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7d50dd256882de26435bbd258bcd6bd0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2022/255/regulation/34) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-7d50dd256882de26435bbd258bcd6bd0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2022/255/regulation/34) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00024]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30); section 24 was amended by paragraph 43A of Schedule 8 to the Family Law Act [1996 (c. 27)](https://www.legislation.gov.uk/ukpga/1996/27) and paragraph 158 of Schedule 27 to and Schedule 30 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Acceptance of shares, etc., as consideration for sale of company property.[^c15571931][^key-7cba319d51fbd1ffff4bd0bf454a14f9]
+## 110. Acceptance of shares, etc., as consideration for sale of company property.[^c15571931][^c-7cba319d51fbd1ffff4bd0bf454a14f9]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 (6) A special resolution is not invalid for purposes of this section by reason that it is passed before or concurrently with a resolution for voluntary winding up or for appointing liquidators; but, if an order is made within a year for winding up the company by the court, the special resolution is not valid unless sanctioned by the court.
 
-## 110. Acceptance of shares, etc., as consideration for sale of company property.[^c15571871][^c15571881][^key-7cba319d51fbd1ffff4bd0bf454a14f9]
+## 110. Acceptance of shares, etc., as consideration for sale of company property.[^c15571871][^c15571881][^c-7cba319d51fbd1ffff4bd0bf454a14f9]
 
 *Extent: S*
 
@@ -76,7 +76,7 @@ summary: ''
 
 [^c15571931]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-7cba319d51fbd1ffff4bd0bf454a14f9]: Modification: [Ss. 109-111](https://www.legislation.gov.uk/ukpga/1986/45/section/109) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-7cba319d51fbd1ffff4bd0bf454a14f9]: Modification: [Ss. 109-111](https://www.legislation.gov.uk/ukpga/1986/45/section/109) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^c15571941]: Textual amendment: Words in s. 110(1) inserted (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1090/regulation/9), [Sch. 5 para. 15(2)](https://www.legislation.gov.uk/uksi/2001/1090/schedule/5/paragraph/15/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Duty of appropriate returning officer to forward returns and declarations to Electoral Commission[^key-6015439125772fb04465188f842ab74c]
+## 55. Duty of appropriate returning officer to forward returns and declarations to Electoral Commission[^c-6015439125772fb04465188f842ab74c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the appropriate returning officer receives any return or declaration under
 
 ## Annotations
 
-[^key-6015439125772fb04465188f842ab74c]: Commencement: Art. 55 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6015439125772fb04465188f842ab74c]: Commencement: Art. 55 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

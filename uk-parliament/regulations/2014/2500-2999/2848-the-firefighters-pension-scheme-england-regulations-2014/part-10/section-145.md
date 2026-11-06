@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Amount of club transfer earned pension[^key-e2c683942f2fedf9b46e448ad90d27fa]
+## 145. Amount of club transfer earned pension[^c-e2c683942f2fedf9b46e448ad90d27fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2c683942f2fedf9b46e448ad90d27fa]: Commencement: [Reg. 145](https://www.legislation.gov.uk/uksi/2014/2848/regulation/145) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e2c683942f2fedf9b46e448ad90d27fa]: Commencement: [Reg. 145](https://www.legislation.gov.uk/uksi/2014/2848/regulation/145) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

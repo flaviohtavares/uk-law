@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99A. Payment of fee contribution loans[^key-e51bc551eecbb7c2db6aee2cb3613a29]
+## 99A. Payment of fee contribution loans[^c-e51bc551eecbb7c2db6aee2cb3613a29]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e51bc551eecbb7c2db6aee2cb3613a29]: Textual amendment: [Pt. 9 reg. 99A](https://www.legislation.gov.uk/nisr/2009/373/part/9/regulation/99A) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [11(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/11/b)
+[^c-e51bc551eecbb7c2db6aee2cb3613a29]: Textual amendment: [Pt. 9 reg. 99A](https://www.legislation.gov.uk/nisr/2009/373/part/9/regulation/99A) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [11(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/11/b)

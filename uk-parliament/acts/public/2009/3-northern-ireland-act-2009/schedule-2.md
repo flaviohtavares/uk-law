@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Sections 12 to 12C of the Judicature (Northern Ireland) Act 1978[^key-bfd58dcd96e70e124a05698a24aa7ef0]
+## SCHEDULE 2 — Sections 12 to 12C of the Judicature (Northern Ireland) Act 1978[^c-bfd58dcd96e70e124a05698a24aa7ef0]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,4 +153,4 @@ Section 2
 
 ## Annotations
 
-[^key-bfd58dcd96e70e124a05698a24aa7ef0]: Commencement: Sch. 2 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-bfd58dcd96e70e124a05698a24aa7ef0]: Commencement: Sch. 2 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

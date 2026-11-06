@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222A. Circumstances in which claim for five-year averaging may be made[^key-e5de39e51511ca02902f126a60f4f89e]
+## 222A. Circumstances in which claim for five-year averaging may be made[^c-e5de39e51511ca02902f126a60f4f89e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5de39e51511ca02902f126a60f4f89e]: Textual amendment: [S. 222A](https://www.legislation.gov.uk/ukpga/2005/5/section/222A) inserted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/3)
+[^c-e5de39e51511ca02902f126a60f4f89e]: Textual amendment: [S. 222A](https://www.legislation.gov.uk/ukpga/2005/5/section/222A) inserted (with effect in accordance with s. 25(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 25(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/25/3)

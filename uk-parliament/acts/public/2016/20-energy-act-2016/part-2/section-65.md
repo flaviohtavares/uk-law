@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Disclosure in exercise of certain OGA powers[^key-152749308aca75e89e52dc08b3351e5d]
+## 65. Disclosure in exercise of certain OGA powers[^c-152749308aca75e89e52dc08b3351e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-152749308aca75e89e52dc08b3351e5d]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/20/section/65) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-152749308aca75e89e52dc08b3351e5d]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/20/section/65) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

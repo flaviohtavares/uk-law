@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Extension of powers of Secretary of State under section 39 of the Forestry Act 1967.[^key-e9f95f806a5068743a2af474fb18da99]
+## 59. Extension of powers of Secretary of State under section 39 of the Forestry Act 1967.[^c-e9f95f806a5068743a2af474fb18da99]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9f95f806a5068743a2af474fb18da99]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/1967/86/section/59) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-e9f95f806a5068743a2af474fb18da99]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/1967/86/section/59) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))

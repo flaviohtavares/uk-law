@@ -48,31 +48,31 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-0b4c42289a1a037ac31466c13affcd02]
+### 1. Citation and commencement[^c-0b4c42289a1a037ac31466c13affcd02]
 
 These Regulations may be cited as the Wholesaling of Controlled Liquor Regulations 2015 and come into force on 1st October 2015.
 
-### 2. Interpretation[^key-f89fcd07d9988ebf7649bb6271fb771d]
+### 2. Interpretation[^c-f89fcd07d9988ebf7649bb6271fb771d]
 
 In these Regulations—
 
-- “the Act” means the Finance (No. 2) Act 2023[^key-f9f762c4a0a839c6b5337b3e130cb72f];
-- “[^key-2283036f58ea2fd146b054d455ea0561]**alcoholic product**” has the meaning given by section 44 (meaning of “**alcoholic product**”) of the Act;
+- “the Act” means the Finance (No. 2) Act 2023[^c-f9f762c4a0a839c6b5337b3e130cb72f];
+- “[^c-2283036f58ea2fd146b054d455ea0561]**alcoholic product**” has the meaning given by section 44 (meaning of “**alcoholic product**”) of the Act;
 - “prescribed” means prescribed by the Commissioners in a published notice, as revised or replaced from time to time and “prescribe” is construed accordingly;
 - “relevant information” means information (including information contained in an application under Part 2 or Part 3 of these Regulations) which is required or authorised by virtue of these Regulations to be delivered to the Commissioners; and
 - “representative member” means the representative member for a group.
 
 ## PART 2 — APPROVAL, REGISTRATION, ETC.
 
-### 3. Application for approval[^key-b25171584ad7162025ed50e3bf07b4a2]
+### 3. Application for approval[^c-b25171584ad7162025ed50e3bf07b4a2]
 
-(1) Every person who is required to be approved under section 100[^key-488245a99c835be12e8d2636514a3f3b] of the Act (the “applicant”) must apply on a prescribed form to the Commissioners for approval in respect of all the premises on which the applicant carries on or intends to carry on a controlled activity.
+(1) Every person who is required to be approved under section 100[^c-488245a99c835be12e8d2636514a3f3b] of the Act (the “applicant”) must apply on a prescribed form to the Commissioners for approval in respect of all the premises on which the applicant carries on or intends to carry on a controlled activity.
 
 (2) An application for approval must contain full information about every matter referred to in the prescribed form.
 
 (3) The Commissioners may require the applicant to make a declaration that the information provided in the application is true and complete.
 
-### 4. Letters of registration[^key-1ca2d239b0721d32f9de3e67ce678e76]
+### 4. Letters of registration[^c-1ca2d239b0721d32f9de3e67ce678e76]
 
 (1) The Commissioners must notify every person they approve by issuing a letter of registration.
 
@@ -82,7 +82,7 @@ In these Regulations—
 
 (4) If the Commissioners refuse an application for approval they must notify the person who made the application of that fact and give the reasons for the refusal.
 
-### 5. Requirement to notify changes[^key-8136ff9e139b3867eb4cba79c69d178d]
+### 5. Requirement to notify changes[^c-8136ff9e139b3867eb4cba79c69d178d]
 
 (1) An approved person must give to the Commissioners notice of any change in—
 
@@ -98,7 +98,7 @@ the Commissioners may, unless they revoke the approval, issue an amended letter 
 
 (3) Where an approved person intends to cease to carry on a controlled activity he must give notice of that fact to the Commissioners no later than 30 days before the day on which the activity will cease.
 
-### 6. Unique reference numbers[^key-efa2e382f6728c9395402873a180f14c]
+### 6. Unique reference numbers[^c-efa2e382f6728c9395402873a180f14c]
 
 (1) The Commissioners may assign a unique reference number (the “URN”) to approved persons.
 
@@ -106,11 +106,11 @@ the Commissioners may, unless they revoke the approval, issue an amended letter 
 
 (3) An approved person must make the URN available to customers and suppliers and include it on prescribed forms of documentation or communications associated with the business.
 
-### 7. Conditions and restrictions[^key-31003fca152c2abb4b5d5061447f4476]
+### 7. Conditions and restrictions[^c-31003fca152c2abb4b5d5061447f4476]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Record keeping[^key-a70ba041b79e8e17a7edff5b712835bf]
+### 8. Record keeping[^c-a70ba041b79e8e17a7edff5b712835bf]
 
 (1) An approved person must keep and make available such records relating to controlled activities as the Commissioners may prescribe.
 
@@ -121,28 +121,28 @@ the Commissioners may, unless they revoke the approval, issue an amended letter 
 
 (3) Any record that is required to be kept by this regulation must be preserved for a period of six years, or such lesser period as the Commissioners may allow, starting on the day that the obligation to keep the record arises.
 
-### 9. Sales treated as sales of controlled alcoholic product[^key-c0b1b92abd170d525723aee3e0e1be32][^key-1518089b5dc0a16e47665ade9f79a5c1]
+### 9. Sales treated as sales of controlled alcoholic product[^c-c0b1b92abd170d525723aee3e0e1be32][^c-1518089b5dc0a16e47665ade9f79a5c1]
 
-For the purposes of Chapter 7 of Part 2[^key-e4666273e2f82128340b323d205ed181] of the Act, a sale is to be treated as a sale of controlled alcoholic product[^key-6756567aa7412f77eacb11ba7f2d01a1] if—
+For the purposes of Chapter 7 of Part 2[^c-e4666273e2f82128340b323d205ed181] of the Act, a sale is to be treated as a sale of controlled alcoholic product[^c-6756567aa7412f77eacb11ba7f2d01a1] if—
 
-- (a) the sale of the product[^key-0d77d1a6e5e1f19b2836c2639e195d04] is made at a time before the excise duty point for that product falls; and
-- (b) in relation to that sale, the purchaser takes delivery of the product[^key-0d49e5deb56ba8e46bb13d11570675c8] on or after the excise duty point.
+- (a) the sale of the product[^c-0d77d1a6e5e1f19b2836c2639e195d04] is made at a time before the excise duty point for that product falls; and
+- (b) in relation to that sale, the purchaser takes delivery of the product[^c-0d49e5deb56ba8e46bb13d11570675c8] on or after the excise duty point.
 
-### 10. Excluded sales[^key-a862e872b25670ce848c82c21c396a9a]
+### 10. Excluded sales[^c-a862e872b25670ce848c82c21c396a9a]
 
-The Commissioners may prescribe descriptions of sales that are excluded sales for the purposes of Chapter 7 of Part 2[^key-2603e67cc305676dc2e92260b5d68f1b] of the Act.
+The Commissioners may prescribe descriptions of sales that are excluded sales for the purposes of Chapter 7 of Part 2[^c-2603e67cc305676dc2e92260b5d68f1b] of the Act.
 
 ## PART 3 — GROUPS
 
-### 11. Applications for approval and registration of bodies corporate which are members of the same group[^key-2803155daffa5ce00d0501e22040f906]
+### 11. Applications for approval and registration of bodies corporate which are members of the same group[^c-2803155daffa5ce00d0501e22040f906]
 
-This Part applies where two or more bodies corporate are members of a group for the purposes of Chapter 7 of Part 2[^key-a3fc7b8382d04327351d18b895f5fe80] of the Act (for which see section 106[^key-bb57b683199a22155fd30ea101a118f6] of the Act [^f00003]).
+This Part applies where two or more bodies corporate are members of a group for the purposes of Chapter 7 of Part 2[^c-a3fc7b8382d04327351d18b895f5fe80] of the Act (for which see section 106[^c-bb57b683199a22155fd30ea101a118f6] of the Act [^f00003]).
 
-**12.**[^key-5fe264ab4ea8d8fc49d86cc1ff1b32f5] (1) Where this Part applies, an application may be made for each member of the group who is required to be approved under section 100[^M_F_98d1b276-e14e-4d55-8f82-372d450774d8] of the Act to be approved and registered under a single registration (“group treatment”).
+**12.**[^c-5fe264ab4ea8d8fc49d86cc1ff1b32f5] (1) Where this Part applies, an application may be made for each member of the group who is required to be approved under section 100[^M_F_98d1b276-e14e-4d55-8f82-372d450774d8] of the Act to be approved and registered under a single registration (“group treatment”).
 
 (2) In this regulation “registered” means entered on the register maintained by the Commissioners in accordance with section 101[^M_F_5ba49567-7038-43ac-f0f5-04db8794a023] of the Act[^f00004] and “registration” is construed accordingly.
 
-**13.**[^key-67e8aa0e8e7f3cee605d675bae3999a6] (1) The application must contain the information (or any part of the information) mentioned in regulation 3(2) in respect of each of the bodies corporate that are the subject of the application for group treatment.
+**13.**[^c-67e8aa0e8e7f3cee605d675bae3999a6] (1) The application must contain the information (or any part of the information) mentioned in regulation 3(2) in respect of each of the bodies corporate that are the subject of the application for group treatment.
 
 (2) The person making the application must satisfy the Commissioners that the bodies corporate which are the subject of the application have consented to group treatment.
 
@@ -158,7 +158,7 @@ This Part applies where two or more bodies corporate are members of a group for 
 
 (8) A body corporate may not be treated under this Part as a member of more than one group at the same time.
 
-### 14. Applications by a representative member[^key-d1378af46d03519ea9bd23cc59d40634]
+### 14. Applications by a representative member[^c-d1378af46d03519ea9bd23cc59d40634]
 
 (1) This regulation applies where two or more bodies corporate are treated as members of a group and the representative member applies to the Commissioners for—
 
@@ -196,7 +196,7 @@ and the applicant must satisfy the Commissioners that the members of the group h
 - (a) if the application is accepted by the Commissioners; and
 - (b) from a date that the Commissioners are satisfied has been notified to all of the members of the group.
 
-### 15. Applications by group members other than the representative member[^key-b1bed818520ef0cdbc7a40a1323c00f7]
+### 15. Applications by group members other than the representative member[^c-b1bed818520ef0cdbc7a40a1323c00f7]
 
 (1) A body corporate may apply to the Commissioners to—
 
@@ -210,7 +210,7 @@ and the applicant must satisfy the Commissioners that the members of the group h
 - (a) if the application is accepted by the Commissioners; and
 - (b) from a date notified by the Commissioners to the representative member and the body corporate which made the application.
 
-### 16. Termination of group membership by the Commissioners[^key-a3336f2b9bbd4c3f96a7833086c7b278]
+### 16. Termination of group membership by the Commissioners[^c-a3336f2b9bbd4c3f96a7833086c7b278]
 
 (1) The Commissioners may, by notice given to a body corporate, terminate its treatment as a member of a group from a date which is specified in the notice.
 
@@ -235,13 +235,13 @@ they may give notice to each member that the group treatment will cease from a d
 
 ## PART 4 — ELECTRONIC COMMUNICATION
 
-### 17. Delivery of information[^key-430abd72c42681076fe8e6c3c4c256eb]
+### 17. Delivery of information[^c-430abd72c42681076fe8e6c3c4c256eb]
 
 (1) Save as the Commissioners may otherwise allow in any particular case, relevant information must be delivered to the Commissioners electronically in accordance with paragraph (2) (an “electronic communication”).
 
 (2) The Commissioners must prescribe the form and method of electronic delivery of relevant information under paragraph (1) (a “prescribed electronic method”).
 
-### 18. Validation of an electronic communication[^key-7e41e56da4b208e3bc595f1b87c933d9]
+### 18. Validation of an electronic communication[^c-7e41e56da4b208e3bc595f1b87c933d9]
 
 (1) A prescribed electronic method must incorporate an electronic validation process.
 
@@ -251,9 +251,9 @@ they may give notice to each member that the group treatment will cease from a d
 - (b) the time of making of an electronic communication to the Commissioners using a prescribed electronic method will be presumed to be the time recorded as such by the relevant electronic validation process; and
 - (c) the person making an electronic communication to the Commissioners will be presumed to be the person identified as such by any relevant feature of the prescribed electronic method.
 
-### 19. Electronic communication by the Commissioners[^key-47992cc1905af89ecf5cf0c89fc75f6e]
+### 19. Electronic communication by the Commissioners[^c-47992cc1905af89ecf5cf0c89fc75f6e]
 
-(1) Where a person has communicated with the Commissioners by means of a prescribed electronic method in respect of an approval given under section 100[^key-4abda388a844e416e63a7b540fbe5f8e] of the Act, the Commissioners may issue an electronic acknowledgement of the communication.
+(1) Where a person has communicated with the Commissioners by means of a prescribed electronic method in respect of an approval given under section 100[^c-4abda388a844e416e63a7b540fbe5f8e] of the Act, the Commissioners may issue an electronic acknowledgement of the communication.
 
 (2) Where a person has—
 
@@ -265,20 +265,20 @@ the Commissioners may communicate electronically with the person in respect of t
 
 ## PART 5 — PENALTIES
 
-### 20. Interpretation of this Part[^key-5e80dda229da0b51bd672f0112a342ba]
+### 20. Interpretation of this Part[^c-5e80dda229da0b51bd672f0112a342ba]
 
 In this Part “P” means—
 
 - (a) a person who contravenes any requirement imposed by regulations 5(1), 5(3), 6(3) or 8 of these Regulations; or
 - (b) a person who contravenes any condition or restriction of an approval to carry on a controlled activity given to that person.
 
-### 21. Liability to a penalty[^key-06ffda928fb5346ab494bfd4cb6bba0d]
+### 21. Liability to a penalty[^c-06ffda928fb5346ab494bfd4cb6bba0d]
 
 (1) A penalty is payable by P.
 
 (2) The amount of the penalty is £500 for each contravention.
 
-### 22. Assessment and recovery[^key-d96b83d98078b56ecf4a7e393cf35dbb]
+### 22. Assessment and recovery[^c-d96b83d98078b56ecf4a7e393cf35dbb]
 
 (1) Where P is liable to a penalty under regulation 21, the Commissioners may assess the amount due by way of penalty and notify P, or P’s representative, accordingly.
 
@@ -294,7 +294,7 @@ In this Part “P” means—
 
 (7) In this regulation “representative” means a person’s personal representative, trustee in bankruptcy or interim or permanent trustee, any receiver or liquidator appointed in relation to that person or any of that person’s property or any other person acting in a representative capacity in relation to that person.
 
-### 23. Reasonable excuse[^key-ef3db29b29013fa652a1b33c609c6134]
+### 23. Reasonable excuse[^c-ef3db29b29013fa652a1b33c609c6134]
 
 (1) Liability to a penalty does not arise under regulation 21 if P satisfies the Commissioners or (on an appeal made to the appeal tribunal) the tribunal that there is a reasonable excuse for the contravention.
 
@@ -304,29 +304,29 @@ In this Part “P” means—
 
 (4) In this regulation “appeal tribunal” has the same meaning as in Chapter 2 of Part 1 of the Finance Act 1994[^f00005].
 
-### 24. Joint and several liability of members of a group[^key-d5d08d418657014f586277df7d18d585]
+### 24. Joint and several liability of members of a group[^c-d5d08d418657014f586277df7d18d585]
 
-All bodies corporate who, in accordance with Part 3 of these Regulations, are treated as members of a group when any penalty under Schedule 10 to[^key-c2e8e1cf6a14279466da00adfc098493] the Act, or these Regulations, becomes payable by the representative member, together with any bodies corporate who become treated as members of the group while any penalty remains unpaid, are jointly and severally liable for any penalty payable by the representative member.
+All bodies corporate who, in accordance with Part 3 of these Regulations, are treated as members of a group when any penalty under Schedule 10 to[^c-c2e8e1cf6a14279466da00adfc098493] the Act, or these Regulations, becomes payable by the representative member, together with any bodies corporate who become treated as members of the group while any penalty remains unpaid, are jointly and severally liable for any penalty payable by the representative member.
 
 ## PART 6 — FORFEITURE
 
-### 25. Forfeiture[^key-ad6fe7408d02f9c4a493c92e49d6b146]
+### 25. Forfeiture[^c-ad6fe7408d02f9c4a493c92e49d6b146]
 
 (1) Paragraph (2) applies if a person (“P”) contravenes—
 
-- (a) section 100(1)[^key-7143c61808db12b85a51930c663cf5a9] of the Act (approval to carry on controlled activity);
-- (b)[^key-3d6345ee94db6846277c3b2ef91caa24] any requirement imposed by regulations 5(1), 5(3), 6(3) or 8 of these Regulations; or
+- (a) section 100(1)[^c-7143c61808db12b85a51930c663cf5a9] of the Act (approval to carry on controlled activity);
+- (b)[^c-3d6345ee94db6846277c3b2ef91caa24] any requirement imposed by regulations 5(1), 5(3), 6(3) or 8 of these Regulations; or
 - (c) any condition or restriction of an approval to carry on a controlled activity given to P.
 
-(2) Where this paragraph applies, any alcoholic product[^key-a79cc6124b7897504d7d76d0d9ba3324] (whether or not charged with any duty and whether or not that duty has been paid) which is in the possession, custody or control of P for the purposes of carrying on a controlled activity is subject to forfeiture.
+(2) Where this paragraph applies, any alcoholic product[^c-a79cc6124b7897504d7d76d0d9ba3324] (whether or not charged with any duty and whether or not that duty has been paid) which is in the possession, custody or control of P for the purposes of carrying on a controlled activity is subject to forfeiture.
 
-(3) If P is a body corporate that is treated as a member of a group in accordance with Part 3 of these Regulations, paragraph (2) applies to any alcoholic product[^key-fd67e4e600148e38f9dac636cd0c0b15] which is in the possession, custody or control of any member of the group for the purposes of carrying on a controlled activity.
+(3) If P is a body corporate that is treated as a member of a group in accordance with Part 3 of these Regulations, paragraph (2) applies to any alcoholic product[^c-fd67e4e600148e38f9dac636cd0c0b15] which is in the possession, custody or control of any member of the group for the purposes of carrying on a controlled activity.
 
-(4) Paragraph (5) applies if a person (“P”) contravenes section 103[^key-22a40dccbe0c3400e3eff815fc3365fd] of the Act (restriction on buying controlled alcoholic products[^key-f56cd15ec02e29bd17802d6017681fca] wholesale).
+(4) Paragraph (5) applies if a person (“P”) contravenes section 103[^c-22a40dccbe0c3400e3eff815fc3365fd] of the Act (restriction on buying controlled alcoholic products[^c-f56cd15ec02e29bd17802d6017681fca] wholesale).
 
-(5) Where this paragraph applies, any alcoholic product[^key-ea4c9d50d48b95508d24ad0273b36737] (whether or not charged with any duty and whether or not that duty has been paid) purchased in contravention of section 103[^key-78a77bcb484610bf3a7b6223e180a80a] and which is in the possession, custody or control of P is subject to forfeiture.
+(5) Where this paragraph applies, any alcoholic product[^c-ea4c9d50d48b95508d24ad0273b36737] (whether or not charged with any duty and whether or not that duty has been paid) purchased in contravention of section 103[^c-78a77bcb484610bf3a7b6223e180a80a] and which is in the possession, custody or control of P is subject to forfeiture.
 
-(6) If P is a body corporate that is treated as a member of a group in accordance with Part 3 of these Regulations, paragraph (5) applies to any alcoholic product[^key-0bc33470eca62ae7c429c6abc1ad3f85] purchased in contravention of section 103[^key-9b4ff6722b613ea41538818318a8e3f3] which is in the possession, custody or control of any member of the group.
+(6) If P is a body corporate that is treated as a member of a group in accordance with Part 3 of these Regulations, paragraph (5) applies to any alcoholic product[^c-0bc33470eca62ae7c429c6abc1ad3f85] purchased in contravention of section 103[^c-9b4ff6722b613ea41538818318a8e3f3] which is in the possession, custody or control of any member of the group.
 
 Edward Troup
 
@@ -356,53 +356,53 @@ A Tax Information and Impact note (TIIN) covering this instrument was published 
 
 [^f00002]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16); the reference to the Commissioners of Customs and Excise in section 133 is to be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs by virtue of section 50(1) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-0b4c42289a1a037ac31466c13affcd02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-0b4c42289a1a037ac31466c13affcd02]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-f89fcd07d9988ebf7649bb6271fb771d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1516/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-f89fcd07d9988ebf7649bb6271fb771d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1516/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-f9f762c4a0a839c6b5337b3e130cb72f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/1516/regulation/2) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/2/a)
+[^c-f9f762c4a0a839c6b5337b3e130cb72f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/1516/regulation/2) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(2)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/2/a)
 
-[^key-2283036f58ea2fd146b054d455ea0561]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/1516/regulation/2) inserted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/2/b)
+[^c-2283036f58ea2fd146b054d455ea0561]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/1516/regulation/2) inserted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/2/b)
 
-[^key-b25171584ad7162025ed50e3bf07b4a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1516/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-b25171584ad7162025ed50e3bf07b4a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1516/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-488245a99c835be12e8d2636514a3f3b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/3/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/3)
+[^c-488245a99c835be12e8d2636514a3f3b]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/3/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/3)
 
-[^key-1ca2d239b0721d32f9de3e67ce678e76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1516/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-1ca2d239b0721d32f9de3e67ce678e76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1516/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-8136ff9e139b3867eb4cba79c69d178d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1516/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-8136ff9e139b3867eb4cba79c69d178d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1516/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-efa2e382f6728c9395402873a180f14c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1516/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-efa2e382f6728c9395402873a180f14c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1516/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-31003fca152c2abb4b5d5061447f4476]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1516/regulation/7) omitted (31.7.2023) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(4)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/4)
+[^c-31003fca152c2abb4b5d5061447f4476]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1516/regulation/7) omitted (31.7.2023) by virtue of [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(4)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/4)
 
-[^key-a70ba041b79e8e17a7edff5b712835bf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1516/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-a70ba041b79e8e17a7edff5b712835bf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1516/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-c0b1b92abd170d525723aee3e0e1be32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-c0b1b92abd170d525723aee3e0e1be32]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-1518089b5dc0a16e47665ade9f79a5c1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) heading substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/a)
+[^c-1518089b5dc0a16e47665ade9f79a5c1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) heading substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/a)
 
-[^key-e4666273e2f82128340b323d205ed181]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/b)
+[^c-e4666273e2f82128340b323d205ed181]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/b)
 
-[^key-6756567aa7412f77eacb11ba7f2d01a1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/c)
+[^c-6756567aa7412f77eacb11ba7f2d01a1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/c)
 
-[^key-0d77d1a6e5e1f19b2836c2639e195d04]: Textual amendment: Word in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9/a) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(d)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/d)
+[^c-0d77d1a6e5e1f19b2836c2639e195d04]: Textual amendment: Word in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9/a) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(d)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/d)
 
-[^key-0d49e5deb56ba8e46bb13d11570675c8]: Textual amendment: Word in [reg. 9(b)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9/b) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(d)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/d)
+[^c-0d49e5deb56ba8e46bb13d11570675c8]: Textual amendment: Word in [reg. 9(b)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/9/b) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(5)(d)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/5/d)
 
-[^key-a862e872b25670ce848c82c21c396a9a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1516/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-a862e872b25670ce848c82c21c396a9a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1516/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-2603e67cc305676dc2e92260b5d68f1b]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2015/1516/regulation/10) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(6)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/6)
+[^c-2603e67cc305676dc2e92260b5d68f1b]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2015/1516/regulation/10) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(6)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/6)
 
-[^key-2803155daffa5ce00d0501e22040f906]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1516/regulation/11) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-2803155daffa5ce00d0501e22040f906]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1516/regulation/11) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-a3fc7b8382d04327351d18b895f5fe80]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2015/1516/regulation/11) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(7)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/7/a)
+[^c-a3fc7b8382d04327351d18b895f5fe80]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2015/1516/regulation/11) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(7)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/7/a)
 
-[^key-bb57b683199a22155fd30ea101a118f6]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2015/1516/regulation/11) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(7)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/7/b)
+[^c-bb57b683199a22155fd30ea101a118f6]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2015/1516/regulation/11) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(7)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/7/b)
 
 [^f00003]: Footnote: Section 88J was inserted by section 54(3) of the Finance Act 2015.
 
-[^key-5fe264ab4ea8d8fc49d86cc1ff1b32f5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1516/regulation/12) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-5fe264ab4ea8d8fc49d86cc1ff1b32f5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1516/regulation/12) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
 [^M_F_98d1b276-e14e-4d55-8f82-372d450774d8]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/12/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(8)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/d)
 
@@ -410,54 +410,54 @@ A Tax Information and Impact note (TIIN) covering this instrument was published 
 
 [^f00004]: Footnote: Section 88D was inserted by section 54(3) of the Finance Act 2015.
 
-[^key-67e8aa0e8e7f3cee605d675bae3999a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1516/regulation/13) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-67e8aa0e8e7f3cee605d675bae3999a6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1516/regulation/13) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-d1378af46d03519ea9bd23cc59d40634]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1516/regulation/14) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-d1378af46d03519ea9bd23cc59d40634]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1516/regulation/14) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-b1bed818520ef0cdbc7a40a1323c00f7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1516/regulation/15) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-b1bed818520ef0cdbc7a40a1323c00f7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1516/regulation/15) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-a3336f2b9bbd4c3f96a7833086c7b278]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1516/regulation/16) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-a3336f2b9bbd4c3f96a7833086c7b278]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1516/regulation/16) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-430abd72c42681076fe8e6c3c4c256eb]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/1516/regulation/17) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-430abd72c42681076fe8e6c3c4c256eb]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/1516/regulation/17) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-7e41e56da4b208e3bc595f1b87c933d9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/1516/regulation/18) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-7e41e56da4b208e3bc595f1b87c933d9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/1516/regulation/18) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-47992cc1905af89ecf5cf0c89fc75f6e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1516/regulation/19) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-47992cc1905af89ecf5cf0c89fc75f6e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1516/regulation/19) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-4abda388a844e416e63a7b540fbe5f8e]: Textual amendment: Word in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/19/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(9)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/9)
+[^c-4abda388a844e416e63a7b540fbe5f8e]: Textual amendment: Word in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/19/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(9)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/9)
 
-[^key-5e80dda229da0b51bd672f0112a342ba]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1516/regulation/20) substituted (1.1.2016) by [The Wholesaling of Controlled Liquor (Amendment) Regulations 2015 (S.I. 2015/1921)](https://www.legislation.gov.uk/uksi/2015/1921), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1921/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1921/regulation/2/2)
+[^c-5e80dda229da0b51bd672f0112a342ba]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1516/regulation/20) substituted (1.1.2016) by [The Wholesaling of Controlled Liquor (Amendment) Regulations 2015 (S.I. 2015/1921)](https://www.legislation.gov.uk/uksi/2015/1921), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1921/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1921/regulation/2/2)
 
-[^key-06ffda928fb5346ab494bfd4cb6bba0d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1516/regulation/21) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-06ffda928fb5346ab494bfd4cb6bba0d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1516/regulation/21) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-d96b83d98078b56ecf4a7e393cf35dbb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1516/regulation/22) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-d96b83d98078b56ecf4a7e393cf35dbb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1516/regulation/22) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-ef3db29b29013fa652a1b33c609c6134]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/1516/regulation/23) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-ef3db29b29013fa652a1b33c609c6134]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/1516/regulation/23) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
 [^f00005]: Footnote: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), relevantly amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 
-[^key-d5d08d418657014f586277df7d18d585]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/1516/regulation/24) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-d5d08d418657014f586277df7d18d585]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/1516/regulation/24) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-c2e8e1cf6a14279466da00adfc098493]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2015/1516/regulation/24) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(10)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/10)
+[^c-c2e8e1cf6a14279466da00adfc098493]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2015/1516/regulation/24) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(10)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/10)
 
-[^key-ad6fe7408d02f9c4a493c92e49d6b146]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
+[^c-ad6fe7408d02f9c4a493c92e49d6b146]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1516/regulation/1)
 
-[^key-7143c61808db12b85a51930c663cf5a9]: Textual amendment: Word in [reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/1/a) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/a)
+[^c-7143c61808db12b85a51930c663cf5a9]: Textual amendment: Word in [reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/1/a) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/a)
 
-[^key-3d6345ee94db6846277c3b2ef91caa24]: Textual amendment: [Reg. 25(1)(b)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/1/b)[(c)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/1/c) substituted (1.1.2016) by [The Wholesaling of Controlled Liquor (Amendment) Regulations 2015 (S.I. 2015/1921)](https://www.legislation.gov.uk/uksi/2015/1921), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1921/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1921/regulation/2/3)
+[^c-3d6345ee94db6846277c3b2ef91caa24]: Textual amendment: [Reg. 25(1)(b)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/1/b)[(c)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/1/c) substituted (1.1.2016) by [The Wholesaling of Controlled Liquor (Amendment) Regulations 2015 (S.I. 2015/1921)](https://www.legislation.gov.uk/uksi/2015/1921), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1921/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1921/regulation/2/3)
 
-[^key-a79cc6124b7897504d7d76d0d9ba3324]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/2) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
+[^c-a79cc6124b7897504d7d76d0d9ba3324]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/2) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
 
-[^key-fd67e4e600148e38f9dac636cd0c0b15]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/3) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
+[^c-fd67e4e600148e38f9dac636cd0c0b15]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/3) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
 
-[^key-22a40dccbe0c3400e3eff815fc3365fd]: Textual amendment: Word in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/4) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/c)
+[^c-22a40dccbe0c3400e3eff815fc3365fd]: Textual amendment: Word in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/4) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/c)
 
-[^key-f56cd15ec02e29bd17802d6017681fca]: Textual amendment: Words in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/4) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(d)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/d)
+[^c-f56cd15ec02e29bd17802d6017681fca]: Textual amendment: Words in [reg. 25(4)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/4) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(d)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/d)
 
-[^key-ea4c9d50d48b95508d24ad0273b36737]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/5) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
+[^c-ea4c9d50d48b95508d24ad0273b36737]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/5) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
 
-[^key-78a77bcb484610bf3a7b6223e180a80a]: Textual amendment: Word in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/5) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/c)
+[^c-78a77bcb484610bf3a7b6223e180a80a]: Textual amendment: Word in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/5) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/c)
 
-[^key-0bc33470eca62ae7c429c6abc1ad3f85]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/6) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
+[^c-0bc33470eca62ae7c429c6abc1ad3f85]: Textual amendment: Words in [reg. 25(6)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/6) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/b)
 
-[^key-9b4ff6722b613ea41538818318a8e3f3]: Textual amendment: Word in [reg. 25(6)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/6) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/c)
+[^c-9b4ff6722b613ea41538818318a8e3f3]: Textual amendment: Word in [reg. 25(6)](https://www.legislation.gov.uk/uksi/2015/1516/regulation/25/6) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 12(11)(c)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/12/11/c)

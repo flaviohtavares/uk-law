@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Constitution and Proceedings of Development Corporations[^key-2927e0d2707364a6bce57370a11c5915]
+## SCHEDULE 3 — Constitution and Proceedings of Development Corporations[^c-2927e0d2707364a6bce57370a11c5915]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Section 3.
 
 **5.** If the Secretary of State is satisfied that a member of the corporation—
 
-- (a) has become bankrupt or made an arrangement with his creditors or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him[^key-738abcb344e82227ef9f1bef4cd0318a], or
+- (a) has become bankrupt or made an arrangement with his creditors or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him[^c-738abcb344e82227ef9f1bef4cd0318a], or
 - (b) is incapacitated by physical or mental illness, or
 - (c) has been absent from meetings of the corporation for a period longer than 3 consecutive months without the permission of the corporation, or
 - (d) is otherwise unable or unfit to discharge the functions of a member, or is unsuitable to continue as a member,
@@ -62,7 +62,7 @@ the Secretary of State may remove him from his office as a member of the corpora
 
 **10.** The validity of any proceeding of the corporation shall not be affected by any vacancy among their members or by any defect in the appointment of any of their members.
 
-### Delegation of planning functions[^key-50f1af28188759fe564e00d757b54f5d]
+### Delegation of planning functions[^c-50f1af28188759fe564e00d757b54f5d]
 
 **10A.** (1) This paragraph applies in relation to any function conferred on the corporation by virtue of an order under section 7A (planning functions of corporations in England).
 
@@ -113,8 +113,8 @@ the Secretary of State may remove him from his office as a member of the corpora
 
 ## Annotations
 
-[^key-2927e0d2707364a6bce57370a11c5915]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1981/64/schedule/3) functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
+[^c-2927e0d2707364a6bce57370a11c5915]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1981/64/schedule/3) functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
 
-[^key-738abcb344e82227ef9f1bef4cd0318a]: Textual amendment: Words in Sch. 3 para. 5(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/16) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-738abcb344e82227ef9f1bef4cd0318a]: Textual amendment: Words in Sch. 3 para. 5(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/16) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-50f1af28188759fe564e00d757b54f5d]: Textual amendment: [Sch. 3 paras. 10A](https://www.legislation.gov.uk/ukpga/1981/64/schedule/3/paragraph/10A), [10B](https://www.legislation.gov.uk/ukpga/1981/64/schedule/3/paragraph/10B) and cross-heading inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 175(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/175/3), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/b)
+[^c-50f1af28188759fe564e00d757b54f5d]: Textual amendment: [Sch. 3 paras. 10A](https://www.legislation.gov.uk/ukpga/1981/64/schedule/3/paragraph/10A), [10B](https://www.legislation.gov.uk/ukpga/1981/64/schedule/3/paragraph/10B) and cross-heading inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 175(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/175/3), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/b)

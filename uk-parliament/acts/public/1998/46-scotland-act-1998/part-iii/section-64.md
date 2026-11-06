@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Secretary of State shall from time to time make payments into the Fund out of money provided by Parliament of such amounts as he may determine.
 
-(2A)[^key-22b69b84efa347dc5bc8b7b596a470e9] The Secretary of State shall in accordance with section 64A pay into the Fund out of money provided by Parliament any amounts payable under that section.
+(2A)[^c-22b69b84efa347dc5bc8b7b596a470e9] The Secretary of State shall in accordance with section 64A pay into the Fund out of money provided by Parliament any amounts payable under that section.
 
 (3) Sums received by an office-holder in the Scottish Administration shall be paid into the Fund.
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c12394561]: Commencement: S. 64(1)(2)(8) in force at 1.4.1999, s. 64(3)-(7) in force at 1.7.1999 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [arts. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-22b69b84efa347dc5bc8b7b596a470e9]: Textual amendment: S. 64(2A) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/16/2), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-22b69b84efa347dc5bc8b7b596a470e9]: Textual amendment: S. 64(2A) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/16/2), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
 
 [^c12394571]: Modification: S. 64(4) modified (1.7.1999) (*temp.*) by [S.I. 1999/441](https://www.legislation.gov.uk/uksi/1999/441), [arts. 1(5)](https://www.legislation.gov.uk/uksi/1999/441/article/1/5), [7](https://www.legislation.gov.uk/uksi/1999/441/article/7)
 

@@ -32,7 +32,7 @@ summary: ''
 
 Prevention And Suppression Of Terrorism
 
-The Terrorism Act 2000 (Remedial) Order 2011 (revoked)[^key-08012e5364abc1f4057f74b3aeb006b6]
+The Terrorism Act 2000 (Remedial) Order 2011 (revoked)[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 Made
 
@@ -46,76 +46,76 @@ Coming into force
 
 18th March 2011
 
-[^key-08012e5364abc1f4057f74b3aeb006b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08012e5364abc1f4057f74b3aeb006b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-08012e5364abc1f4057f74b3aeb006b6]
+## 1. Citation and commencement[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Current stop and search powers no longer to have effect[^key-08012e5364abc1f4057f74b3aeb006b6]
+## 2. Current stop and search powers no longer to have effect[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Replacement powers to stop and search in specified locations[^key-08012e5364abc1f4057f74b3aeb006b6]
+## 3. Replacement powers to stop and search in specified locations[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Code of Practice[^key-08012e5364abc1f4057f74b3aeb006b6]
+## 4. Code of Practice[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-08012e5364abc1f4057f74b3aeb006b6]
+## 5. Consequential amendments[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Temporary effect of Order and transitional provision[^key-08012e5364abc1f4057f74b3aeb006b6]
+## 6. Temporary effect of Order and transitional provision[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08012e5364abc1f4057f74b3aeb006b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08012e5364abc1f4057f74b3aeb006b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Replacement powers to stop and search: supplementary provisions[^key-08012e5364abc1f4057f74b3aeb006b6]
+## SCHEDULE 1 — Replacement powers to stop and search: supplementary provisions[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 Article 3(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Consequential amendments[^key-08012e5364abc1f4057f74b3aeb006b6]
+## SCHEDULE 2 — Consequential amendments[^c-08012e5364abc1f4057f74b3aeb006b6]
 
 Article 5
 
-### Police and Criminal Evidence Act 1984[^key-08012e5364abc1f4057f74b3aeb006b6]
+### Police and Criminal Evidence Act 1984[^c-08012e5364abc1f4057f74b3aeb006b6]
 
-**1.**[^key-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PACE Code A[^key-08012e5364abc1f4057f74b3aeb006b6]
+### PACE Code A[^c-08012e5364abc1f4057f74b3aeb006b6]
 
-**2.**[^key-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341))[^key-08012e5364abc1f4057f74b3aeb006b6]
+### Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341))[^c-08012e5364abc1f4057f74b3aeb006b6]
 
-**3.**[^key-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Regulation of Investigatory Powers Act 2000[^key-08012e5364abc1f4057f74b3aeb006b6]
+### Regulation of Investigatory Powers Act 2000[^c-08012e5364abc1f4057f74b3aeb006b6]
 
-**4.**[^key-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Police Reform Act 2002[^key-08012e5364abc1f4057f74b3aeb006b6]
+### Police Reform Act 2002[^c-08012e5364abc1f4057f74b3aeb006b6]
 
-**5.**[^key-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Police (Northern Ireland) Act 2003[^key-08012e5364abc1f4057f74b3aeb006b6]
+### Police (Northern Ireland) Act 2003[^c-08012e5364abc1f4057f74b3aeb006b6]
 
-**6.**[^key-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-08012e5364abc1f4057f74b3aeb006b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08012e5364abc1f4057f74b3aeb006b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08012e5364abc1f4057f74b3aeb006b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08012e5364abc1f4057f74b3aeb006b6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/631) revoked (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/34), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)[(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+[^c-08012e5364abc1f4057f74b3aeb006b6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/631) revoked (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/34), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)[(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)

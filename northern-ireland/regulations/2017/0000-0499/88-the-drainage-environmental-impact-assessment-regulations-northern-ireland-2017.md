@@ -44,16 +44,16 @@ The Department for Infrastructure [^f00001], being a department designated [^f00
 
 ## PART 1 — INTRODUCTORY AND APPLICATION
 
-### 1. Citation and commencement[^key-f883f9e2cd989801d2edf33ab38f367e]
+### 1. Citation and commencement[^c-f883f9e2cd989801d2edf33ab38f367e]
 
 These Regulations may be cited as the Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 and shall come into operation on 16 May 2017.
 
-### 2. Interpretation[^key-773cc9c003aeaa526df9150142e3a56f]
+### 2. Interpretation[^c-773cc9c003aeaa526df9150142e3a56f]
 
 (1) In these Regulations—
 
 - “additional information” in any case where an environmental statement has been prepared in respect of proposed drainage works means any information relating to the statement which is not contained in it;
-- [^key-84dbd93b1bfd28f4b85ff3e1c03c6ef7]...
+- [^c-84dbd93b1bfd28f4b85ff3e1c03c6ef7]...
 - “the Commission” means the Water Appeals Commission as described in Articles 292 and 293 of the Water and Sewerage Services (Northern Ireland) Order 2006[^f00004];
 - “the consultation bodies” shall be construed in accordance with regulation 8(2);
 - “the Department” means the Department for Infrastructure;
@@ -63,8 +63,8 @@ These Regulations may be cited as the Drainage (Environmental Impact Assessment)
   - (a) any works carried out under the Drainage Order for the purpose of draining land or for preventing or mitigating flooding or erosion to which land is subject and includes the construction, cleansing, scouring, deepening, widening, straightening or diverting of any watercourse or outfall for water, canalisation, the construction, installation or alteration of any pump, pump machinery or pump-house, the removal of any obstruction, natural or artificial, in any watercourse and the construction, repair, raising, lowering, widening, straightening, altering or removal of any embankment, dam, barrier, sluice, weir, wall, culvert or groyne or of any structure or erection for the purpose of defence against, or relief from, water; or
   - (b) any changes made to or extension of such works;
 - “the Drainage Order” means the Drainage (Northern Ireland) Order 1973[^f00007];
-- “[^key-8a4f6b20f27d4899735d97517d41a5c0]EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2 May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993, as modified or supplemented from time to time, but does not include any assimilated direct[^key-74e08f56dc64ec477fc8e63ea8ae73a8] legislation;
-- “[^key-56e154b18397097ac44fdbebf6a73951]EEA State”, in relation to a time, means—
+- “[^c-8a4f6b20f27d4899735d97517d41a5c0]EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2 May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993, as modified or supplemented from time to time, but does not include any assimilated direct[^c-74e08f56dc64ec477fc8e63ea8ae73a8] legislation;
+- “[^c-56e154b18397097ac44fdbebf6a73951]EEA State”, in relation to a time, means—
   - (a) a state which at that time is a member State of the European Union, or
   - (b) any other state which at that time is a party to the EEA agreement;
 - “environmental statement” means a statement that includes such of the information referred to in Schedule 2A to the Drainage Order, as is reasonably required to assess the environmental effects of any proposed drainage works and which the Department can, having regard in particular to current knowledge and methods of assessment, reasonably be required to compile;
@@ -74,17 +74,17 @@ These Regulations may be cited as the Drainage (Environmental Impact Assessment)
 - “local advertisement” means a notice in one or more newspapers, circulating in the immediate locality of any proposed works;
 - “public“ means one or more natural or legal persons and, in accordance with national legislation or practice, their associations, organisations or groups;
 - “public concerned” means the public affected or likely to be affected by, or having an interest in, the environmental decision-making procedures of the Department. For the purposes of this definition, non-governmental organisations promoting environmental protection and meeting any requirements under national law shall be deemed to have an interest; and
-- [^key-dc7a1aef563f2cff7e6b7c72df349d25]...
+- [^c-dc7a1aef563f2cff7e6b7c72df349d25]...
 
 (2) In these Regulations, “the Drainage Council”, “drainage scheme” and “watercourse” have the meanings respectively assigned to them by Article 2(2) of the Drainage Order.
 
-(3) In these Regulations, any reference to significant effects on the environment includes a reference to such effects on the environment in an[^key-a61311267491eacd979e06d9b3e33df9] EEA State .
+(3) In these Regulations, any reference to significant effects on the environment includes a reference to such effects on the environment in an[^c-a61311267491eacd979e06d9b3e33df9] EEA State .
 
 (4) Expressions used in these Regulations and in the Directive have the same meaning for the purposes of these Regulations as they have for the purposes of the Directive, unless otherwise provided for.
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Application[^key-67d5db16ad21a88caccc55f0828ab156]
+### 3. Application[^c-67d5db16ad21a88caccc55f0828ab156]
 
 (1) Subject to the following provisions and regulation 25, Part 2 shall apply in relation to any drainage works other than works—
 
@@ -93,11 +93,11 @@ These Regulations may be cited as the Drainage (Environmental Impact Assessment)
 
 (2) The amendments made to the Drainage Order by these Regulations shall not have effect in relation to any drainage scheme prepared before the coming into operation of these Regulations.
 
-### 4. Directions[^key-b387e4c84e340959061c8c8b582f91e1]
+### 4. Directions[^c-b387e4c84e340959061c8c8b582f91e1]
 
 (1) The Department may direct that—
 
-- (a) [^key-8d7df605bba2e7c7879d69bc397d15de]... specific drainage works are exempt from these Regulations if it considers that the application of these Regulations would have an adverse effect on the fulfilment of the drainage works’ purpose[^key-acd84affb9a2098e05123769b9d6a251]...; or
+- (a) [^c-8d7df605bba2e7c7879d69bc397d15de]... specific drainage works are exempt from these Regulations if it considers that the application of these Regulations would have an adverse effect on the fulfilment of the drainage works’ purpose[^c-acd84affb9a2098e05123769b9d6a251]...; or
 - (b) these Regulations do not apply in relation to particular proposed drainage works if the sole purpose of the proposed drainage works is to respond to a civil emergency and the Department considers the application of the Regulations would have an adverse effect on the fulfilment of that purpose.
 
 (2) The Department shall only make a direction under paragraph (1)(a) in an exceptional case and where it does so it shall—
@@ -106,9 +106,9 @@ These Regulations may be cited as the Drainage (Environmental Impact Assessment)
 - (b) consider whether, in that case, another form of assessment of the environmental effects of the proposed drainage works would be appropriate; and
 - (c) make available to the public any information obtained under that other form of assessment.
 
-(3) No direction shall be made under paragraph (1)(a) or (b) where the Department or any other Northern Ireland department is aware that the proposed drainage works would be likely to have significant effects on the environment of an[^key-556459837d2474df60dfc27a4dd88cbe] EEA State .
+(3) No direction shall be made under paragraph (1)(a) or (b) where the Department or any other Northern Ireland department is aware that the proposed drainage works would be likely to have significant effects on the environment of an[^c-556459837d2474df60dfc27a4dd88cbe] EEA State .
 
-### 5. Coordination of assessments[^key-9f4cf08ccdb25352b0963860b41a581e]
+### 5. Coordination of assessments[^c-9f4cf08ccdb25352b0963860b41a581e]
 
 (1) In addition to the requirement for an assessment of the environmental effects to be carried out in accordance with these Regulations, if there is also a requirement to carry out a Habitats Regulation Assessment, the Department must, where appropriate, ensure that the Habitats Regulation Assessment and the assessment of the environmental effects are coordinated.
 
@@ -116,7 +116,7 @@ These Regulations may be cited as the Drainage (Environmental Impact Assessment)
 
 ## PART 2 — DRAINAGE WORKS
 
-### 6. Restriction on proposed works[^key-8485be03d68906e95002bca6d0af80ee]
+### 6. Restriction on proposed works[^c-8485be03d68906e95002bca6d0af80ee]
 
 Subject to regulation 4, the Department shall not carry out any drainage works unless—
 
@@ -125,7 +125,7 @@ Subject to regulation 4, the Department shall not carry out any drainage works u
   - (i) the Commission has consented to the carrying out of the drainage works; and
   - (ii) the drainage works are carried out in accordance with any conditions to which the consent is subject.
 
-### 7. Consideration whether proposed drainage works have significant effects on the environment[^key-66e32fcd6801eb72c229c0fc68ba6419]
+### 7. Consideration whether proposed drainage works have significant effects on the environment[^c-66e32fcd6801eb72c229c0fc68ba6419]
 
 (1) The Department shall provide the following information on proposed drainage works of the type listed in Annex II to the Directive—
 
@@ -143,9 +143,9 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 
 (3) Where the Department is bringing forward the proposed drainage works in paragraph (1) and will also be making the determination in paragraph (2), the Department must make appropriate administrative arrangements to ensure that there is a functional separation, when performing any duty under these regulations, between the persons bringing forward a proposal for drainage works and the persons responsible for making the determination.
 
-### 8. Determinations following consideration of drainage works under regulation 7[^key-887999904db9bf503c40947989027968]
+### 8. Determinations following consideration of drainage works under regulation 7[^c-887999904db9bf503c40947989027968]
 
-(1) Where, pursuant to regulation 7, the Department having taken into account, so far as relevant, the criteria set out in Schedule 2B to the Drainage Order and the available results of other environmental assessments required under assimilated[^key-f12f773bb937565252fe809ab9c38e20] law (other than legislation implementing the requirements of the Directive), determines that the proposed drainage works are not likely to have significant effects on the environment, it shall, by general and local advertisement—
+(1) Where, pursuant to regulation 7, the Department having taken into account, so far as relevant, the criteria set out in Schedule 2B to the Drainage Order and the available results of other environmental assessments required under assimilated[^c-f12f773bb937565252fe809ab9c38e20] law (other than legislation implementing the requirements of the Directive), determines that the proposed drainage works are not likely to have significant effects on the environment, it shall, by general and local advertisement—
 
 - (a) state that it proposes to carry out the drainage works in question;
 - (b) describe briefly the nature, size and location of the proposed drainage works;
@@ -159,7 +159,7 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 - (a) the Drainage Council;
 - (b) the district council of the district or, as the case may be, each district in which the proposed drainage works are situated;
 - (c) any other public authority, statutory body or organisation which exercises statutory functions, or is otherwise designated by any statutory provision as having responsibilities, relating to the environment; and
-- (d) any other person who appears to it to have an interest in the matter including, where appropriate, an[^key-c654257d6d69c165e032528289f64b85] EEA State .
+- (d) any other person who appears to it to have an interest in the matter including, where appropriate, an[^c-c654257d6d69c165e032528289f64b85] EEA State .
 
 (3) Where, within the period specified in paragraph (1)(e), no representations have been made to the effect that the proposed drainage works are likely to have significant effects on the environment, the Department may proceed to carry out those drainage works.
 
@@ -169,11 +169,11 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 
 (6) Where the Commission considers that the information and the copy documents provided in accordance with paragraph (5) do not provide sufficient information to enable it to make a determination for the purposes of that paragraph, it shall notify the Department in writing of the matters on which further information is required and may make a written request to the Department for such information as the Department may be able to provide on the matters raised.
 
-(7) Where an application is made to the Commission under paragraph (5) in relation to any proposed drainage works the Commission shall, taking into account the selection criteria in Schedule 2B to the Drainage Order, and the available results of preliminary verifications and assessments of the effects on the environment carried out pursuant to assimilated[^key-10fefd982b064bfbadcdb12391f429e5] law (other than legislation implementing the requirements of the Directive), determine within a reasonable time, whether the proposed drainage works are likely to have significant effects on the environment and shall inform the Department, and any person who made representations under paragraph (1)(e) in relation to the drainage works, of its determination.
+(7) Where an application is made to the Commission under paragraph (5) in relation to any proposed drainage works the Commission shall, taking into account the selection criteria in Schedule 2B to the Drainage Order, and the available results of preliminary verifications and assessments of the effects on the environment carried out pursuant to assimilated[^c-10fefd982b064bfbadcdb12391f429e5] law (other than legislation implementing the requirements of the Directive), determine within a reasonable time, whether the proposed drainage works are likely to have significant effects on the environment and shall inform the Department, and any person who made representations under paragraph (1)(e) in relation to the drainage works, of its determination.
 
 (8) Where an application is made to the Commission under paragraph (5) in relation to any proposed drainage works, the Commission shall, prior to making a determination for the purposes of that paragraph, afford the Department and any person who made representations under paragraph (1)(e) in relation to the proposed drainage works, the opportunity of appearing before and being heard by the Commission.
 
-### 9. Notification of determination that proposed drainage works are likely to have significant effects on the environment[^key-1ac078e776cfc213ade0fd994b909ba7]
+### 9. Notification of determination that proposed drainage works are likely to have significant effects on the environment[^c-1ac078e776cfc213ade0fd994b909ba7]
 
 (1) This regulation applies to any case where—
 
@@ -187,13 +187,13 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 - (c) state that any person may obtain information from, or make representations in writing to, the Department in relation to the likely environmental effects of the proposed drainage works at an address specified in the notice within 30 days of the date of the publication of the notice in the Belfast Gazette;
 - (d) indicate the nature of the information in question and the times where and means by which it will be made available;
 - (e) state the nature of the possible decisions that may be made in the case or, if there is one, the draft decision; and
-- (f) indicate whether the proposed drainage works are likely to have significant effects on the environment in an[^key-c787b0746d0ea03d4ee7b77a12cecadd] EEA State .
+- (f) indicate whether the proposed drainage works are likely to have significant effects on the environment in an[^c-c787b0746d0ea03d4ee7b77a12cecadd] EEA State .
 
 (3) Where the Department publishes an advertisement in accordance with paragraph (2) it shall, on or before the date of the publication of the notice in the Belfast Gazette, send a copy of that notice to each of the consultation bodies.
 
 (4) The Department shall make available to the public concerned any additional information which is relevant to a case to which this regulation applies but which only becomes available after the publication of the advertisements under paragraph (2).
 
-### 10. Preparation of an environmental statement[^key-573ffef54c62c0caf3c445e95999d291]
+### 10. Preparation of an environmental statement[^c-573ffef54c62c0caf3c445e95999d291]
 
 (1) The Department shall prepare an environmental statement in any case to which regulation 9 applies.
 
@@ -206,7 +206,7 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 
 (3) The Department shall carry out consultations as referred to in regulation 12 and, where relevant, regulation 16.
 
-### 11. Request about the information to be included in an environmental statement[^key-8dc1fcc8b80a738cddffe172a2ba3b14]
+### 11. Request about the information to be included in an environmental statement[^c-8dc1fcc8b80a738cddffe172a2ba3b14]
 
 (1) The Department may request the Commission to give an opinion as to the information to be contained in any environmental statement.
 
@@ -216,7 +216,7 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 
 (4) Giving an opinion under this regulation shall not preclude the Commission from requesting further information from the Department or the Drainage Council under regulation 16(9).
 
-### 12. Publicity for an environmental statement[^key-edc4bb0ff07ed3b96af428f49c79595a]
+### 12. Publicity for an environmental statement[^c-edc4bb0ff07ed3b96af428f49c79595a]
 
 (1) Where the Department has prepared an environmental statement in relation to any proposed drainage works, it shall by general and local advertisement give notice in accordance with paragraphs (2) and (3).
 
@@ -235,7 +235,7 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 
 (4) Where, in accordance with paragraph (3)(a), the Department sends any person a copy of the environmental statement it shall consult that person about the assessment and the likely environmental effects of the proposed drainage works to which it relates.
 
-### 13. Assistance in the preparation of environmental statements[^key-357e363f615ae392df2128bb23739e61]
+### 13. Assistance in the preparation of environmental statements[^c-357e363f615ae392df2128bb23739e61]
 
 (1) Subject to paragraph (6), where the Department is required to prepare an environmental statement in pursuance of regulation 10 it may consult with any person to determine whether that person has in his possession any information which may be relevant to the preparation of the environmental statement and if that person has any such information, he shall make that information available to the Department.
 
@@ -257,13 +257,13 @@ the criteria of Schedule 2B to the Drainage Order shall be taken into account, w
 
 (7) Any person making information available to the Department in accordance with paragraph (1) or (3) may make a reasonable charge reflecting the cost thereof and the Department shall pay that charge.
 
-### 14. Charges[^key-c96602168e9e2e8641db3a67a9726898]
+### 14. Charges[^c-c96602168e9e2e8641db3a67a9726898]
 
 The Department may make a reasonable charge reflecting printing and distribution costs to any person for any copy, in excess of one, of the whole or any part of an environmental statement, or any further information supplied to that person in accordance with regulations 12(3), 13(4) and (5) or 18.
 
-### 15. Proposed drainage works likely to have significant effect on the environment in an EEA State[^key-944e87cec97d2f5a0560c60d7555b679][^key-4d3b5dfc78d258b7d5fef77cc52c00dc]
+### 15. Proposed drainage works likely to have significant effect on the environment in an EEA State[^c-944e87cec97d2f5a0560c60d7555b679][^c-4d3b5dfc78d258b7d5fef77cc52c00dc]
 
-(1) Where it appears to the Department that any proposed drainage works are likely to have a significant effect on the environment in another EEA State or where an[^key-912bf68561a77a0150d8f50f576d2142] EEA State likely to be significantly affected so requests, the Department shall—
+(1) Where it appears to the Department that any proposed drainage works are likely to have a significant effect on the environment in another EEA State or where an[^c-912bf68561a77a0150d8f50f576d2142] EEA State likely to be significantly affected so requests, the Department shall—
 
 - (a) send to that State, as soon as possible and no later than the date of publication in the Belfast Gazette of the notice referred to in regulation 9(2)—
   - (i) a copy of the notice; and
@@ -282,13 +282,13 @@ but only to the extent that such information has not been provided to the EEA St
 
 (3) The Department shall also—
 
-- (a) arrange for the particulars and information referred to in paragraphs (1) and (2) to be made available, within a reasonable time, to the authorities designated by the[^key-9f6526b7ee371a0990312d6b9888787a] EEA State concerned to be consulted about the proposed drainage works and to the public concerned in that State
+- (a) arrange for the particulars and information referred to in paragraphs (1) and (2) to be made available, within a reasonable time, to the authorities designated by the[^c-9f6526b7ee371a0990312d6b9888787a] EEA State concerned to be consulted about the proposed drainage works and to the public concerned in that State
 - (b) ensure that these authorities and the public concerned are given an opportunity, before a determination is made as to whether the proposed drainage works should proceed, to forward to the Department, within reasonable time their opinion on the information supplied.
 
-(4) The Department shall [^key-4f2b93cb47533723b6a1698d053b7e1c]...—
+(4) The Department shall [^c-4f2b93cb47533723b6a1698d053b7e1c]...—
 
 - (a) consult with the EEA State concerned regarding, inter alia, the potential significant effects of the proposed drainage works on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects; and
-- (b) determine, in agreement with that[^key-b97c30567a47996e26a89a93622beb0a] EEA State , a reasonable period of time for the duration of the consultation period which shall not be less than 30 days beginning with the day on which the Department forwarded the information to that State in pursuance of paragraph 2.
+- (b) determine, in agreement with that[^c-b97c30567a47996e26a89a93622beb0a] EEA State , a reasonable period of time for the duration of the consultation period which shall not be less than 30 days beginning with the day on which the Department forwarded the information to that State in pursuance of paragraph 2.
 
 (5) Where an EEA State has been consulted in relation to any proposed drainage works in accordance with paragraph (4) the Department shall inform the EEA State of the determination in respect of the proposed drainage works and shall forward to it a statement of—
 
@@ -296,7 +296,7 @@ but only to the extent that such information has not been provided to the EEA St
 - (b) the main reasons and considerations on which the determination is based; and
 - (c) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the adverse effects of the proposed drainage works.
 
-### 16. Determination of whether proposed drainage works should be approved[^key-63280f4beb8cc8b69518fc35aa56fa19]
+### 16. Determination of whether proposed drainage works should be approved[^c-63280f4beb8cc8b69518fc35aa56fa19]
 
 (1) On expiry of the period referred to in regulation 12(2)(b), the Department shall provide to the Drainage Council, the information set out in sub-paragraph (a) and within a reasonable timeframe, the Drainage Council shall—
 
@@ -367,19 +367,19 @@ it shall provide the Department with its determination and the Department shall 
 
 (13) In relation to any determination made by the Drainage Council or by the Commission under this regulation or regulation 8, the Department shall maintain a record of, and make available to the public on request, the information referred to in paragraph (11)(d).
 
-### 17. Monitoring[^key-97f4ddae84f240ad18056b2c7e042dc4]
+### 17. Monitoring[^c-97f4ddae84f240ad18056b2c7e042dc4]
 
 (1) Where an environmental statement is determined by the Drainage Council or as the case may be, the Commission, and the decision is to approve the drainage works, the Drainage Council, or the Commission, must consider whether it is appropriate to impose a condition requiring monitoring of any significant adverse effects on the environment of the proposed drainage works (“a monitoring condition”).
 
 (2) When considering whether to impose a monitoring condition under paragraph (1), and the nature of any such monitoring conditions, the Drainage Council, or as the case may be the Commission must consider—
 
 - (a) whether monitoring measures are proportionate to the nature, location and size of the proposed development and the significance of its effects on the environment having regard in particular to the types of parameters to be monitored and the duration of the monitoring;
-- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under assimilated[^key-5d8c0cff9081503caad7cd624aedd7c8] law or other legislation applicable in Northern Ireland are more appropriate than imposing a monitoring condition; and
+- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under assimilated[^c-5d8c0cff9081503caad7cd624aedd7c8] law or other legislation applicable in Northern Ireland are more appropriate than imposing a monitoring condition; and
 - (c) if monitoring conditions are to be required, whether provision should be made to require appropriate remedial action.
 
 (3) Where mitigation measures or monitoring conditions are required, the Department, or as the case may be, the Commission, must take steps to ensure that those measures and conditions are implemented.
 
-### 18. Public participation[^key-b1163c941350281ad1e9edc7a2fb0482]
+### 18. Public participation[^c-b1163c941350281ad1e9edc7a2fb0482]
 
 The Department shall, in relation to any proposed drainage works, make available to the public—
 
@@ -389,11 +389,11 @@ The Department shall, in relation to any proposed drainage works, make available
 
 ## PART 3 — DRAINAGE SCHEMES
 
-### 19. Amendment of the Drainage Order[^key-461a9f61c7145e07276976984b4e0fb3]
+### 19. Amendment of the Drainage Order[^c-461a9f61c7145e07276976984b4e0fb3]
 
 The Drainage Order shall be amended in accordance with regulations 20 to 24.
 
-### 20. Drainage Order: Interpretation[^key-08f1ff9a676443e5d728dc90d2ab18a3]
+### 20. Drainage Order: Interpretation[^c-08f1ff9a676443e5d728dc90d2ab18a3]
 
 (1) In Article 2(2)—
 
@@ -420,7 +420,7 @@ The Drainage Order shall be amended in accordance with regulations 20 to 24.
 
 In Article 2(2B) after “purposes of the Directive” insert “unless otherwise provided for”.
 
-### 21. Restrictions on drainage schemes[^key-ef276afe0c2cc36647d29c409a71851d]
+### 21. Restrictions on drainage schemes[^c-ef276afe0c2cc36647d29c409a71851d]
 
 For Articles 12 to 12H substitute—
 
@@ -715,7 +715,7 @@ For Articles 12 to 12H substitute—
 
 .
 
-### 22. Confirmation of drainage schemes[^key-aaff53d3903b0c44b4266ec01dc05b3a]
+### 22. Confirmation of drainage schemes[^c-aaff53d3903b0c44b4266ec01dc05b3a]
 
 For Articles 13 and 13A substitute—
 
@@ -757,7 +757,7 @@ For Articles 13 and 13A substitute—
 
 .
 
-### 23. Amendment of Drainage Schemes[^key-2835274635dc64d267fd06e0ab303751]
+### 23. Amendment of Drainage Schemes[^c-2835274635dc64d267fd06e0ab303751]
 
 For Article 16 substitute—
 
@@ -786,13 +786,13 @@ For Article 16 substitute—
 
 .
 
-### 24. Schedules 2A to 2C[^key-ab4b4e0fde1d392c7b2ece0753c430e2]
+### 24. Schedules 2A to 2C[^c-ab4b4e0fde1d392c7b2ece0753c430e2]
 
 For Schedules 2A to 2C substitute the Schedules set out in the Schedule to these Regulations.
 
 ## PART 4 — FINAL PROVISIONS
 
-### 25. Revocations and transitional provisions[^key-a7e504226a209da6b8a0d3696ceac3d1]
+### 25. Revocations and transitional provisions[^c-a7e504226a209da6b8a0d3696ceac3d1]
 
 (1) Subject to paragraph (2), the following provisions of the Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2006[^f00014] are hereby revoked—
 
@@ -812,7 +812,7 @@ A senior officer of the
 
 Department for Infrastructure
 
-## SCHEDULE[^key-d3152de1fca5699f417b7de754c0be25]
+## SCHEDULE[^c-d3152de1fca5699f417b7de754c0be25]
 
 Regulations 8, 9, 10, 16 and 24
 
@@ -995,11 +995,11 @@ No direction can be made where there are likely to be significant effects on the
 
 [^f00003]: Footnote: S.I. [1972 c.28](https://www.legislation.gov.uk/ukpga/1972/28)
 
-[^key-f883f9e2cd989801d2edf33ab38f367e]: Commencement: Reg. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-f883f9e2cd989801d2edf33ab38f367e]: Commencement: Reg. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-773cc9c003aeaa526df9150142e3a56f]: Commencement: Reg. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-773cc9c003aeaa526df9150142e3a56f]: Commencement: Reg. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-84dbd93b1bfd28f4b85ff3e1c03c6ef7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84dbd93b1bfd28f4b85ff3e1c03c6ef7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [S.I. 2006 No. 3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
@@ -1009,103 +1009,103 @@ No direction can be made where there are likely to be significant effects on the
 
 [^f00007]: Footnote: [1973 No.69 (N.I. 1)](https://www.legislation.gov.uk/nisi/1973/69)
 
-[^key-8a4f6b20f27d4899735d97517d41a5c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) inserted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a4f6b20f27d4899735d97517d41a5c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) inserted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74e08f56dc64ec477fc8e63ea8ae73a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/88/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/a)
+[^c-74e08f56dc64ec477fc8e63ea8ae73a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2017/88/regulation/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/a)
 
-[^key-56e154b18397097ac44fdbebf6a73951]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56e154b18397097ac44fdbebf6a73951]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc7a1aef563f2cff7e6b7c72df349d25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc7a1aef563f2cff7e6b7c72df349d25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/1) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a61311267491eacd979e06d9b3e33df9]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/3) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a61311267491eacd979e06d9b3e33df9]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2017/88/regulation/2/3) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-67d5db16ad21a88caccc55f0828ab156]: Commencement: Reg. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-67d5db16ad21a88caccc55f0828ab156]: Commencement: Reg. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-b387e4c84e340959061c8c8b582f91e1]: Commencement: Reg. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-b387e4c84e340959061c8c8b582f91e1]: Commencement: Reg. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-8d7df605bba2e7c7879d69bc397d15de]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2017/88/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d7df605bba2e7c7879d69bc397d15de]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2017/88/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-acd84affb9a2098e05123769b9d6a251]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2017/88/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acd84affb9a2098e05123769b9d6a251]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2017/88/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-556459837d2474df60dfc27a4dd88cbe]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2017/88/regulation/4/3) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-556459837d2474df60dfc27a4dd88cbe]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2017/88/regulation/4/3) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f4cf08ccdb25352b0963860b41a581e]: Commencement: Reg. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-9f4cf08ccdb25352b0963860b41a581e]: Commencement: Reg. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
 
-[^key-8485be03d68906e95002bca6d0af80ee]: Commencement: Reg. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-8485be03d68906e95002bca6d0af80ee]: Commencement: Reg. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-66e32fcd6801eb72c229c0fc68ba6419]: Commencement: Reg. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-66e32fcd6801eb72c229c0fc68ba6419]: Commencement: Reg. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-887999904db9bf503c40947989027968]: Commencement: Reg. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-887999904db9bf503c40947989027968]: Commencement: Reg. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-f12f773bb937565252fe809ab9c38e20]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/8/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/b)
+[^c-f12f773bb937565252fe809ab9c38e20]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/8/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/b)
 
-[^key-c654257d6d69c165e032528289f64b85]: Textual amendment: Words in [reg. 8(2)(d)](https://www.legislation.gov.uk/nisr/2017/88/regulation/8/2/d) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c654257d6d69c165e032528289f64b85]: Textual amendment: Words in [reg. 8(2)(d)](https://www.legislation.gov.uk/nisr/2017/88/regulation/8/2/d) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-10fefd982b064bfbadcdb12391f429e5]: Textual amendment: Word in [reg. 8(7)](https://www.legislation.gov.uk/nisr/2017/88/regulation/8/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/b)
+[^c-10fefd982b064bfbadcdb12391f429e5]: Textual amendment: Word in [reg. 8(7)](https://www.legislation.gov.uk/nisr/2017/88/regulation/8/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/b)
 
-[^key-1ac078e776cfc213ade0fd994b909ba7]: Commencement: Reg. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-1ac078e776cfc213ade0fd994b909ba7]: Commencement: Reg. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-c787b0746d0ea03d4ee7b77a12cecadd]: Textual amendment: Words in [reg. 9(2)(f)](https://www.legislation.gov.uk/nisr/2017/88/regulation/9/2/f) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c787b0746d0ea03d4ee7b77a12cecadd]: Textual amendment: Words in [reg. 9(2)(f)](https://www.legislation.gov.uk/nisr/2017/88/regulation/9/2/f) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-573ffef54c62c0caf3c445e95999d291]: Commencement: Reg. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-573ffef54c62c0caf3c445e95999d291]: Commencement: Reg. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-8dc1fcc8b80a738cddffe172a2ba3b14]: Commencement: Reg. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-8dc1fcc8b80a738cddffe172a2ba3b14]: Commencement: Reg. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-edc4bb0ff07ed3b96af428f49c79595a]: Commencement: Reg. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-edc4bb0ff07ed3b96af428f49c79595a]: Commencement: Reg. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-357e363f615ae392df2128bb23739e61]: Commencement: Reg. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-357e363f615ae392df2128bb23739e61]: Commencement: Reg. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2004 No. 3391](https://www.legislation.gov.uk/uksi/2004/3391)
 
-[^key-c96602168e9e2e8641db3a67a9726898]: Commencement: Reg. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-c96602168e9e2e8641db3a67a9726898]: Commencement: Reg. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-944e87cec97d2f5a0560c60d7555b679]: Commencement: Reg. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-944e87cec97d2f5a0560c60d7555b679]: Commencement: Reg. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-4d3b5dfc78d258b7d5fef77cc52c00dc]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2017/88/regulation/15) heading substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d3b5dfc78d258b7d5fef77cc52c00dc]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/nisr/2017/88/regulation/15) heading substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-912bf68561a77a0150d8f50f576d2142]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/1) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-912bf68561a77a0150d8f50f576d2142]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/1) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f6526b7ee371a0990312d6b9888787a]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/3/a) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f6526b7ee371a0990312d6b9888787a]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/3/a) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f2b93cb47533723b6a1698d053b7e1c]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/4) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(d)(i)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f2b93cb47533723b6a1698d053b7e1c]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/4) omitted (31.12.2020) by virtue of [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(d)(i)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b97c30567a47996e26a89a93622beb0a]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/4/b) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b97c30567a47996e26a89a93622beb0a]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/nisr/2017/88/regulation/15/4/b) substituted (31.12.2020) by [The Drainage (Environmental Impact Assessment) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/31)](https://www.legislation.gov.uk/uksi/2019/31), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/31/regulation/1/1), [3(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/31/regulation/3/6/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63280f4beb8cc8b69518fc35aa56fa19]: Commencement: Reg. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-63280f4beb8cc8b69518fc35aa56fa19]: Commencement: Reg. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-97f4ddae84f240ad18056b2c7e042dc4]: Commencement: Reg. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-97f4ddae84f240ad18056b2c7e042dc4]: Commencement: Reg. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-5d8c0cff9081503caad7cd624aedd7c8]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/nisr/2017/88/regulation/17/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/c)
+[^c-5d8c0cff9081503caad7cd624aedd7c8]: Textual amendment: Word in [reg. 17(2)(b)](https://www.legislation.gov.uk/nisr/2017/88/regulation/17/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 30(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/30/c)
 
-[^key-b1163c941350281ad1e9edc7a2fb0482]: Commencement: Reg. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-b1163c941350281ad1e9edc7a2fb0482]: Commencement: Reg. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-461a9f61c7145e07276976984b4e0fb3]: Commencement: Reg. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-461a9f61c7145e07276976984b4e0fb3]: Commencement: Reg. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-08f1ff9a676443e5d728dc90d2ab18a3]: Commencement: Reg. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-08f1ff9a676443e5d728dc90d2ab18a3]: Commencement: Reg. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
 [^f00011]: Footnote: 2011/92/EU (OJ L 26, 28.1.2012, p. 1–21)
 
 [^f00012]: Footnote: 2014/52/EU (OJ L 124, 25.4.2014, p. 1–18)
 
-[^key-ef276afe0c2cc36647d29c409a71851d]: Commencement: Reg. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-ef276afe0c2cc36647d29c409a71851d]: Commencement: Reg. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
 [^f00013]: Footnote: [2004 No. 3391](https://www.legislation.gov.uk/nisr/2004/3391)
 
-[^key-aaff53d3903b0c44b4266ec01dc05b3a]: Commencement: Reg. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-aaff53d3903b0c44b4266ec01dc05b3a]: Commencement: Reg. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-2835274635dc64d267fd06e0ab303751]: Commencement: Reg. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-2835274635dc64d267fd06e0ab303751]: Commencement: Reg. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-ab4b4e0fde1d392c7b2ece0753c430e2]: Commencement: Reg. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-ab4b4e0fde1d392c7b2ece0753c430e2]: Commencement: Reg. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
-[^key-a7e504226a209da6b8a0d3696ceac3d1]: Commencement: Reg. 25 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-a7e504226a209da6b8a0d3696ceac3d1]: Commencement: Reg. 25 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2006 No.34](https://www.legislation.gov.uk/nisr/2006/34)
 
-[^key-d3152de1fca5699f417b7de754c0be25]: Commencement: Sch. in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
+[^c-d3152de1fca5699f417b7de754c0be25]: Commencement: Sch. in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1)
 
 [^f00015]: Footnote: 92/43/EEC (OJ L 206, 22.7.1992, p. 7–50)
 

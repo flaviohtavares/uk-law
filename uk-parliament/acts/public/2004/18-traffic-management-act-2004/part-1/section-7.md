@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Powers to place temporary traffic signs[^key-7aa693ff5489613d27e99ce26bcc8c3c][^key-db178c4ecd5d6701ecc0ced2f6406ed6]
+## 7. Powers to place temporary traffic signs[^c-7aa693ff5489613d27e99ce26bcc8c3c][^c-db178c4ecd5d6701ecc0ced2f6406ed6]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7aa693ff5489613d27e99ce26bcc8c3c]: Commencement: S. 7 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-7aa693ff5489613d27e99ce26bcc8c3c]: Commencement: S. 7 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-db178c4ecd5d6701ecc0ced2f6406ed6]: Commencement: S. 7 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
+[^c-db178c4ecd5d6701ecc0ced2f6406ed6]: Commencement: S. 7 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)

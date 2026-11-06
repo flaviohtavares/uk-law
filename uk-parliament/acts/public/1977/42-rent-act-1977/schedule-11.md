@@ -58,18 +58,18 @@ Section 67.
 - (a) determine a fair rent and register it as the rent for the dwelling-house; or
 - (b) confirm the rent for the time being registered and note the confirmation in the register;
 
-**5A.**[^c16042871] Where a rent has been registered or confirmed by the rent officer under paragraph 3A or 5 above, he shall notify the landlord and the tenant accordingly by a notice stating that if, with 28 days of the service of the notice or such longer period as he or the appropriate tribunal[^key-94dfe0ac69f4772f50a6c194ae9b4d5c] may allow, an objection in writing is received by the rent officer from the landlord or the tenant the matter will be referred to the appropriate tribunal .
+**5A.**[^c16042871] Where a rent has been registered or confirmed by the rent officer under paragraph 3A or 5 above, he shall notify the landlord and the tenant accordingly by a notice stating that if, with 28 days of the service of the notice or such longer period as he or the appropriate tribunal[^c-94dfe0ac69f4772f50a6c194ae9b4d5c] may allow, an objection in writing is received by the rent officer from the landlord or the tenant the matter will be referred to the appropriate tribunal .
 
 **6.** (1) If such an objection as is mentioned in paragraph 5A[^c16042891] above is received, then—
 
-- (a) if it is received within the period of 28 days specified in that paragraph or the appropriate tribunal[^key-48333908d143f009aefa56ba68a108f3] so direct, the rent officer shall refer the matter to the appropriate tribunal ;
+- (a) if it is received within the period of 28 days specified in that paragraph or the appropriate tribunal[^c-48333908d143f009aefa56ba68a108f3] so direct, the rent officer shall refer the matter to the appropriate tribunal ;
 - (b) if it is received after the expiry of that period the rent officer may either refer the matter to the appropriate tribunal or seek the directions of the appropriate tribunal committee whether so to refer it.
 
 (2) The rent officer shall indicate in the register whether the matter has been referred to a rent assessment committee in pursuance of this paragraph.
 
 #### Determination of fair rent by rent assessment committee
 
-**7.** (1) A rent assessment committee[^key-e78e3117acd1e26d3304808dc3cd3af8] to whom a matter is referred under paragraph 6 above—
+**7.** (1) A rent assessment committee[^c-e78e3117acd1e26d3304808dc3cd3af8] to whom a matter is referred under paragraph 6 above—
 
 - (a) may by notice in the prescribed form served on the landlord or the tenant require him to give to the committee, within such period of not less than 14 days from the service of the notice as may be specified in the notice, such further information, in addition to any given to the rent officer in pursuance of paragraph 1 above, as they may reasonably require; and
 - (b) shall serve on the landlord and on the tenant a notice specifying a period of not less than 7 days[^c16042901] from the service of the notice during which either representations in writing or a request to make oral representations may be made by him to the committee.
@@ -80,9 +80,9 @@ Section 67.
 
 **8.** Where, within the period specified in paragraph 7(1)(b) above, or such further period as the committee may allow, the landlord or the tenant requests to make oral representations the committee shall give him an opportunity to be heard either in person or by a person authorised by him in that behalf, whether or not that person is of counsel or a solicitor.
 
-**8A.**[^key-a2de9816243976c0a08fb099978fd89a] A rent assessment committee shall make such inquiry, if any, as they think fit and consider any information supplied or representation made to them in pursuance of paragraph 7 or paragraph 8 above.
+**8A.**[^c-a2de9816243976c0a08fb099978fd89a] A rent assessment committee shall make such inquiry, if any, as they think fit and consider any information supplied or representation made to them in pursuance of paragraph 7 or paragraph 8 above.
 
-##### 9. Outcome of determination of fair rent by appropriate tribunal[^key-17923dc638e459e780b0e39fad337823]
+##### 9. Outcome of determination of fair rent by appropriate tribunal[^c-17923dc638e459e780b0e39fad337823]
 
 (1) The appropriate tribunal shall—
 
@@ -102,7 +102,7 @@ In this Schedule references to a fair rent in relation to an application under s
 **9B.**[^c16042951] This Schedule has effect subject to article 2 of the Rent Acts (Maximum Fair Rent) Order 1999 and accordingly–
 
 - (a) the rent officer, in considering what rent ought to be registered, shall consider whether that article applies; and
-- (b) where a matter is referred to them, the appropriate tribunal[^key-44db80febf4fbbd41b64af4b623992b0] shall consider whether that article applies and, where it does apply, they shall not, subject to paragraph (5) of that article, confirm or determine a rent for the dwelling-house that exceeds the maximum fair rent calculated in accordance with that article.
+- (b) where a matter is referred to them, the appropriate tribunal[^c-44db80febf4fbbd41b64af4b623992b0] shall consider whether that article applies and, where it does apply, they shall not, subject to paragraph (5) of that article, confirm or determine a rent for the dwelling-house that exceeds the maximum fair rent calculated in accordance with that article.
 
 ### Part II. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c16042961]
 
@@ -124,21 +124,21 @@ In this Schedule references to a fair rent in relation to an application under s
 
 [^c16042871]: Textual amendment: Words in Sch. 11 para. 5 substituted and renumbered as Sch. 11 para. 5A (28.11.1980 as respects applications for the registration of a rent made after coming into operation of the amending Regulations) by [S.I. 1980/1696](https://www.legislation.gov.uk/uksi/1980/1696), [reg. 2](https://www.legislation.gov.uk/uksi/1980/1696/regulation/2), [Sch. I para. 5](https://www.legislation.gov.uk/uksi/1980/1696/schedule/I/paragraph/5) (the broadly similar amendment made by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/1980/51/section/59/3), [153(4)](https://www.legislation.gov.uk/ukpga/1980/51/section/153/4), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/1980/51/schedule/6/paragraph/6) is not now expected to be brought into operation and is not reproduced here, see Explanatory Note to [S.I. 1980/1696](https://www.legislation.gov.uk/uksi/1980/1696))
 
-[^key-94dfe0ac69f4772f50a6c194ae9b4d5c]: Textual amendment: Words in [Sch. 11 para. 5A](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/paragraph/5A) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-94dfe0ac69f4772f50a6c194ae9b4d5c]: Textual amendment: Words in [Sch. 11 para. 5A](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/paragraph/5A) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16042891]: Textual amendment: Word in Sch. 11 para. 6(1) substituted (28.11.1980 as respects applications for the registration of a rent made after coming into operation of the amending Regulations) by [S.I. 1980/1696](https://www.legislation.gov.uk/uksi/1980/1696), [reg. 2](https://www.legislation.gov.uk/uksi/1980/1696/regulation/2), [Sch. I para. 6](https://www.legislation.gov.uk/uksi/1980/1696/schedule/I/paragraph/6) (the broadly similar amendment made by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/1980/51/section/59/3), [153(4)](https://www.legislation.gov.uk/ukpga/1980/51/section/153/4), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/1980/51/schedule/6/paragraph/7) is not now expected to be brought into operation and is not reproduced here, see Explanatory Note to [S.I. 1980/1696](https://www.legislation.gov.uk/uksi/1980/1696))
 
-[^key-48333908d143f009aefa56ba68a108f3]: Textual amendment: Words in [Sch. 11 para. 6(1)](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/paragraph/6/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-48333908d143f009aefa56ba68a108f3]: Textual amendment: Words in [Sch. 11 para. 6(1)](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/paragraph/6/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e78e3117acd1e26d3304808dc3cd3af8]: Textual amendment: Words in Sch. 11 para. 7(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e78e3117acd1e26d3304808dc3cd3af8]: Textual amendment: Words in Sch. 11 para. 7(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16042901]: Textual amendment: Words substituted by [S.I. 1981/1783](https://www.legislation.gov.uk/uksi/1981/1783), [reg. 3](https://www.legislation.gov.uk/uksi/1981/1783/regulation/3)
 
 [^c16042911]: Modification: [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
 
-[^key-a2de9816243976c0a08fb099978fd89a]: Textual amendment: Sch. 11 para. 8A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a2de9816243976c0a08fb099978fd89a]: Textual amendment: Sch. 11 para. 8A inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-17923dc638e459e780b0e39fad337823]: Textual amendment: Sch. 11 para. 9 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-17923dc638e459e780b0e39fad337823]: Textual amendment: Sch. 11 para. 9 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(d)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/d) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16042931]: Textual amendment: Sch. 11 para. 9A inserted (1.4.1993) by [S.I. 1993/651](https://www.legislation.gov.uk/uksi/1993/651), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/651/article/2/2), [Sch. 2 para.7](https://www.legislation.gov.uk/uksi/1993/651/schedule/2/paragraph/7)
 
@@ -146,7 +146,7 @@ In this Schedule references to a fair rent in relation to an application under s
 
 [^c16042951]: Textual amendment: Sch. 11 para. 9B inserted (1.2.1999) by [S.I. 1999/6](https://www.legislation.gov.uk/uksi/1999/6), [art. 3](https://www.legislation.gov.uk/uksi/1999/6/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/6/schedule)
 
-[^key-44db80febf4fbbd41b64af4b623992b0]: Textual amendment: Words in [Sch. 11 para. 9B(b)](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/paragraph/9B/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(e)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/e) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-44db80febf4fbbd41b64af4b623992b0]: Textual amendment: Words in [Sch. 11 para. 9B(b)](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/paragraph/9B/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 34(e)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/34/e) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16042961]: Textual amendment: [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1977/42/schedule/11/part/II) (paras. 10–14) repealed (with saving) by [Housing Act 1988 (c. 50, SIF 61, 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 140](https://www.legislation.gov.uk/ukpga/1988/50/section/140), [Sch. 17 para. 22](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/22), [Sch. 18](https://www.legislation.gov.uk/ukpga/1988/50/schedule/18) (Sch. 11 paras. 13 and 14 are also expressed to be repealed by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 152](https://www.legislation.gov.uk/ukpga/1980/51/section/152), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26))
 

@@ -26,7 +26,7 @@ Regulation 35(1)
 
 This Schedule applies in relation to WEEE which is within the scope of the WEEE Directive by virtue of Article 2 of that Directive.
 
-### 2. Interpretation[^key-d2536d1fb24a19b7f174eb98d49c4474]
+### 2. Interpretation[^c-d2536d1fb24a19b7f174eb98d49c4474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -34,10 +34,10 @@ This Schedule applies in relation to WEEE which is within the scope of the WEEE 
 
 (1) The regulator must exercise its relevant functions so as to ensure compliance with Articles 8(1) to (3) and 9(3) of the WEEE Directive.
 
-(2)[^key-ec53d005bdaf236c6ef100ed3253aa40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ec53d005bdaf236c6ef100ed3253aa40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2536d1fb24a19b7f174eb98d49c4474]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/12/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2536d1fb24a19b7f174eb98d49c4474]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/12/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec53d005bdaf236c6ef100ed3253aa40]: Textual amendment: [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/12/paragraph/3/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec53d005bdaf236c6ef100ed3253aa40]: Textual amendment: [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/12/paragraph/3/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(16)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Performance Regulations[^key-d496d62adb22eb8815b641aee70353e9]
+## 4. Performance Regulations[^c-d496d62adb22eb8815b641aee70353e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 sets out the Performance Regulations.
 
 ## Annotations
 
-[^key-d496d62adb22eb8815b641aee70353e9]: Commencement: Reg. 4 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-d496d62adb22eb8815b641aee70353e9]: Commencement: Reg. 4 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)

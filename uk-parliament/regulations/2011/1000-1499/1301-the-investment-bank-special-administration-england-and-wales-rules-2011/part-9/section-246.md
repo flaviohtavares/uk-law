@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 246. Application of Chapter[^key-870215142c84ccd44bbafb8d3671f71c]
+## 246. Application of Chapter[^c-870215142c84ccd44bbafb8d3671f71c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The rules in this Chapter apply to applications in connection with section 176A 
 
 ## Annotations
 
-[^key-870215142c84ccd44bbafb8d3671f71c]: Commencement: [Rule 246](https://www.legislation.gov.uk/uksi/2011/1301/rule/246) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-870215142c84ccd44bbafb8d3671f71c]: Commencement: [Rule 246](https://www.legislation.gov.uk/uksi/2011/1301/rule/246) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

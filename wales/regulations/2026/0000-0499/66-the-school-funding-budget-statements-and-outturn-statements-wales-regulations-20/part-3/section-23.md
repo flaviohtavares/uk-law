@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. School re-organisation[^key-e92668d89f1ff5245473fd8aafee3979]
+## 23. School re-organisation[^c-e92668d89f1ff5245473fd8aafee3979]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e92668d89f1ff5245473fd8aafee3979]: Commencement: Reg. 23 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-e92668d89f1ff5245473fd8aafee3979]: Commencement: Reg. 23 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Appeals[^key-64b88d51309b92b23b97d470a6719ba3]
+## 104. Appeals[^c-64b88d51309b92b23b97d470a6719ba3]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ as if it were an order of the county court from which the appeal was brought and
 
 ## Annotations
 
-[^key-64b88d51309b92b23b97d470a6719ba3]: Commencement: S. 104 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-64b88d51309b92b23b97d470a6719ba3]: Commencement: S. 104 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

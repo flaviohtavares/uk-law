@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Persons in receipt of taxable income belonging to others.[^key-8bd2a1e2f098a10d5c063463db1e792f]
+## 13. Persons in receipt of taxable income belonging to others.[^c-8bd2a1e2f098a10d5c063463db1e792f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd2a1e2f098a10d5c063463db1e792f]: Textual amendment: S. 13 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/a), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-8bd2a1e2f098a10d5c063463db1e792f]: Textual amendment: S. 13 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/a), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Consumer complaints[^key-456671dadc368b9c144d6530d9e2d266]
+## 46. Consumer complaints[^c-456671dadc368b9c144d6530d9e2d266]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-456671dadc368b9c144d6530d9e2d266]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2003/37/section/46) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/f) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/3)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-456671dadc368b9c144d6530d9e2d266]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2003/37/section/46) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/f) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/3)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

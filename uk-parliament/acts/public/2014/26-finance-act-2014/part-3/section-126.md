@@ -23,7 +23,7 @@ summary: ''
 (1) A bet is a general bet for the purposes of this Part if—
 
 - (a) it is not an on-course bet,
-- (aa)[^key-f15d7eb5b91b394ae07221161626d540] it is not a remote bet,
+- (aa)[^c-f15d7eb5b91b394ae07221161626d540] it is not a remote bet,
 - (b) it is not a spread bet,
 - (c) it is not made by way of pool betting, and
 - (d) one or more of conditions A to C is met in relation to it.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f15d7eb5b91b394ae07221161626d540]: Textual amendment: [S. 126(1)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/section/126/1/aa) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/3)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))
+[^c-f15d7eb5b91b394ae07221161626d540]: Textual amendment: [S. 126(1)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/section/126/1/aa) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/3)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))

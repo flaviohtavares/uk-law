@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Qualifying judicial office[^key-551fecf68fa34b4ae0975cecdc6edba9]
+## 13. Qualifying judicial office[^c-551fecf68fa34b4ae0975cecdc6edba9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of these Regulations, a person who is appointed to an office spe
 
 ## Annotations
 
-[^key-551fecf68fa34b4ae0975cecdc6edba9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/182/regulation/13) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-551fecf68fa34b4ae0975cecdc6edba9]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/182/regulation/13) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

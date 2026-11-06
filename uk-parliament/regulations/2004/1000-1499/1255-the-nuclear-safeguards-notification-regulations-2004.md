@@ -43,7 +43,7 @@ Coming into force
 
 5th May 2004
 
-The Secretary of State, in exercise of the powers conferred on her by section 3(1) of the Nuclear Safeguards Act 2000 [^c9255101], hereby makes the following Regulations:[^key-bcc43f54d3efcfdbd42b89996d20ccff][^key-e85d9e10f549ef19fbf4ced7ebd02b50]
+The Secretary of State, in exercise of the powers conferred on her by section 3(1) of the Nuclear Safeguards Act 2000 [^c9255101], hereby makes the following Regulations:[^c-bcc43f54d3efcfdbd42b89996d20ccff][^c-e85d9e10f549ef19fbf4ced7ebd02b50]
 
 ## 1. Citation and commencement
 
@@ -55,7 +55,7 @@ In these Regulations:
 
 - “**Annex II**” means Annex II to the Additional Protocol [^c9255111];
 - “**electronic communications network**” has the same meaning as in section 32 of the Communications Act 2003 [^c9255121];
-- [^key-3dcebb2a5c71a89a5408f98721990ea0]...
+- [^c-3dcebb2a5c71a89a5408f98721990ea0]...
 - “**high enriched uranium**” means uranium containing 20 per cent or more of the isotope uranium-235;
 - “**non-nuclear-weapon State**” means a State other than China, France, Russia, the United Kingdom and the United States of America;
 - “**nuclear fuel cycle-related research and development activities**” means research and development activities which are specifically related to any process or system development aspect of—
@@ -65,20 +65,20 @@ In these Regulations:
 
   but does not include activities related to theoretical or basic scientific research or to research and development on industrial radioisotope applications, medical, hydrological or agricultural applications, health or environmental effects or improved maintenance;
 - “**nuclear material**” means any source material (other than ore or ore residue) or any special fissionable material;
-- “the[^key-72e07c7c28e1dc93a05eae1580931aad] ONR” means the Office for Nuclear Regulation;
+- “the[^c-72e07c7c28e1dc93a05eae1580931aad] ONR” means the Office for Nuclear Regulation;
 - “**processing of intermediate or high level waste**” does not include—
   - (a) repackaging of the waste for storage or disposal,
   - (b) conditioning of the waste not involving the separation of elements, for storage or disposal;
 - “**source material**” means uranium containing the mixture of isotopes occurring in nature, uranium depleted in the isotope 235, thorium, and any of the foregoing in the form of metal, alloy, chemical compound or concentrate;
 - “**special fissionable material**” means plutonium-239, uranium-233, uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature, and any material containing one or more of the foregoing.
 
-## 3. Persons required to notify the Secretary of State[^key-2ff4ce813cd973661cc1d47fa7ea83a0]
+## 3. Persons required to notify the Secretary of State[^c-2ff4ce813cd973661cc1d47fa7ea83a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4.
 
-(1) Subject to regulation 5, a person shall notify the ONR[^key-fcf50be42fc169cdeab85e6421490a7f] on or before 15th January in each year if at any time during the previous calendar year he has carried out in the United Kingdom any of the activities specified in paragraph 1 of the Schedule.
+(1) Subject to regulation 5, a person shall notify the ONR[^c-fcf50be42fc169cdeab85e6421490a7f] on or before 15th January in each year if at any time during the previous calendar year he has carried out in the United Kingdom any of the activities specified in paragraph 1 of the Schedule.
 
 (2) Subject to regulation 5, a person shall notify the ONR on or before 15th January in each year if at any time during the previous calendar year he has carried out in the United Kingdom any nuclear fuel cycle-related research and development activities which were:
 
@@ -89,19 +89,19 @@ In these Regulations:
 
 (1) The ONR may serve on a person a written notice setting out particulars which the ONR already has in relation to that person.
 
-(2) A person on whom a notice has been served under paragraph (1) is not required to notify the ONR under regulation [^key-d0b4752aac4360829e42e853b534f342]... 4 if the particulars set out in the notice are accurate at the time the notice is received by that person and are all the particulars which that person would be required to provide under these Regulations but for this paragraph.
+(2) A person on whom a notice has been served under paragraph (1) is not required to notify the ONR under regulation [^c-d0b4752aac4360829e42e853b534f342]... 4 if the particulars set out in the notice are accurate at the time the notice is received by that person and are all the particulars which that person would be required to provide under these Regulations but for this paragraph.
 
-(3) A person who by virtue of paragraph (2) is not required to notify the ONR under regulation [^key-d0b4752aac4360829e42e853b534f342]...4 shall, within 14 days of any change in any of the particulars which were set out in the notice served on him under paragraph (1), give to the ONR notice of the new particulars.
+(3) A person who by virtue of paragraph (2) is not required to notify the ONR under regulation [^c-d0b4752aac4360829e42e853b534f342]...4 shall, within 14 days of any change in any of the particulars which were set out in the notice served on him under paragraph (1), give to the ONR notice of the new particulars.
 
 (4) Section 10 of the Nuclear Safeguards Act 2000 applies in relation to the service by the ONR of notices under paragraph (1).
 
 ## 6. Form of notification to the ONR
 
-(1) A person who is required to notify the ONR under regulation [^key-bba003cb036a32bc2568a186a22ac139]... 4 shall do so by giving a notice to the ONR containing particulars of his name, his proper address (within the meaning of section 10(3) of the Nuclear Safeguards Act 2000), each activity, referred to in the regulation in question, which he has carried out during the relevant period and the address of each place at or from which he has carried out each such activity.
+(1) A person who is required to notify the ONR under regulation [^c-bba003cb036a32bc2568a186a22ac139]... 4 shall do so by giving a notice to the ONR containing particulars of his name, his proper address (within the meaning of section 10(3) of the Nuclear Safeguards Act 2000), each activity, referred to in the regulation in question, which he has carried out during the relevant period and the address of each place at or from which he has carried out each such activity.
 
 (2) A person who has given particulars to the ONR pursuant to paragraph (1) shall, within 14 days of any change in any of those particulars, give to the ONR notice of the new particulars.
 
-(3) Any notice to be given by a person under paragraph (1) or (2), or under regulation 5(3), shall be in writing and sent by post or delivered to the Office for Nuclear Regulation at the address given on its website as its postal address[^key-7e63506e213f960b73ca60170dd2598b], or sent by means of an electronic communications network to the address given on the Office’s website as its address for electronic communications[^key-8ae417f76a32221031afa980887cae82].
+(3) Any notice to be given by a person under paragraph (1) or (2), or under regulation 5(3), shall be in writing and sent by post or delivered to the Office for Nuclear Regulation at the address given on its website as its postal address[^c-7e63506e213f960b73ca60170dd2598b], or sent by means of an electronic communications network to the address given on the Office’s website as its address for electronic communications[^c-8ae417f76a32221031afa980887cae82].
 
 Nigel Griffiths,
 
@@ -113,9 +113,9 @@ Department of Trade and Industry
 
 Regulations 3(1) and 4(1)
 
-### PART I — ACTIVITIES REFERRED TO IN REGULATION 4(1)[^key-db71f3d04f642137936d6888ea130786]
+### PART I — ACTIVITIES REFERRED TO IN REGULATION 4(1)[^c-db71f3d04f642137936d6888ea130786]
 
-**1.** The activities referred to in regulation 4(1) are[^key-b5d1d37f6e29f4beff00af4b5b4856db]:
+**1.** The activities referred to in regulation 4(1) are[^c-b5d1d37f6e29f4beff00af4b5b4856db]:
 
 - (i) the manufacture of centrifuge rotor tubes or the assembly of gas centrifuges;
 - (ii) the manufacture of diffusion barriers;
@@ -510,30 +510,30 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c9255101]: Marginal citation: [2000 c. 5](https://www.legislation.gov.uk/ukpga/2000/5).
 
-[^key-bcc43f54d3efcfdbd42b89996d20ccff]: Modification: Regulations modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-bcc43f54d3efcfdbd42b89996d20ccff]: Modification: Regulations modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-e85d9e10f549ef19fbf4ced7ebd02b50]: Modification: Regulations: power to amend conferred (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2018/15/section/2/1/c), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2) (with [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2018/15/section/2/6), [5(3)](https://www.legislation.gov.uk/ukpga/2018/15/section/5/3)); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/c)
+[^c-e85d9e10f549ef19fbf4ced7ebd02b50]: Modification: Regulations: power to amend conferred (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2018/15/section/2/1/c), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2) (with [ss. 2(6)](https://www.legislation.gov.uk/ukpga/2018/15/section/2/6), [5(3)](https://www.legislation.gov.uk/ukpga/2018/15/section/5/3)); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/c)
 
 [^c9255111]: Marginal citation: Cm 4282.
 
 [^c9255121]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-3dcebb2a5c71a89a5408f98721990ea0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1255/regulation/2) omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/11) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3dcebb2a5c71a89a5408f98721990ea0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1255/regulation/2) omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/11) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72e07c7c28e1dc93a05eae1580931aad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1255/regulation/2) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/19) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-72e07c7c28e1dc93a05eae1580931aad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1255/regulation/2) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/19) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-2ff4ce813cd973661cc1d47fa7ea83a0]: Textual amendment: Reg. 3 omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/12) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ff4ce813cd973661cc1d47fa7ea83a0]: Textual amendment: Reg. 3 omitted (31.12.2020) by virtue of [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/12) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fcf50be42fc169cdeab85e6421490a7f]: Textual amendment: Word in Regulations substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/18) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-fcf50be42fc169cdeab85e6421490a7f]: Textual amendment: Word in Regulations substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/18) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-d0b4752aac4360829e42e853b534f342]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2004/1255/regulation/5/2)[(3)](https://www.legislation.gov.uk/uksi/2004/1255/regulation/5/3) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/20) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d0b4752aac4360829e42e853b534f342]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2004/1255/regulation/5/2)[(3)](https://www.legislation.gov.uk/uksi/2004/1255/regulation/5/3) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/20) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-bba003cb036a32bc2568a186a22ac139]: Textual amendment: Words in reg. 6(1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 21(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/21/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-bba003cb036a32bc2568a186a22ac139]: Textual amendment: Words in reg. 6(1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 21(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/21/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-7e63506e213f960b73ca60170dd2598b]: Textual amendment: Words in reg. 6(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 21(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/21/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-7e63506e213f960b73ca60170dd2598b]: Textual amendment: Words in reg. 6(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 21(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/21/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-8ae417f76a32221031afa980887cae82]: Textual amendment: Words in reg. 6(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 21(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/21/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-8ae417f76a32221031afa980887cae82]: Textual amendment: Words in reg. 6(3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 21(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/21/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-db71f3d04f642137936d6888ea130786]: Textual amendment: Sch. Pt. 1 heading substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/13/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db71f3d04f642137936d6888ea130786]: Textual amendment: Sch. Pt. 1 heading substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/13/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5d1d37f6e29f4beff00af4b5b4856db]: Textual amendment: Words in Sch. Pt. 1 para. 1 substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/13/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5d1d37f6e29f4beff00af4b5b4856db]: Textual amendment: Words in Sch. Pt. 1 para. 1 substituted (31.12.2020) by [The Nuclear Safeguards (EU Exit) Regulations 2019 (S.I. 2019/196)](https://www.legislation.gov.uk/uksi/2019/196), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/196/regulation/1/2), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/uksi/2019/196/schedule/3/paragraph/13/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2019/196/schedule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

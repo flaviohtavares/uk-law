@@ -31,18 +31,18 @@ summary: ''
 
 (4) See section 430 for bodies that are treated as charities for the purposes of this Chapter.
 
-(4A)[^key-ef7aca893b99d3accecca5618a9f7d4d] This Chapter is subject to sections 809ZM and 809ZMB[^key-2f0014fa01174d87c0deb2dfc479aedf] (removal of income tax relief in respect of tainted charity donations etc).
+(4A)[^c-ef7aca893b99d3accecca5618a9f7d4d] This Chapter is subject to sections 809ZM and 809ZMB[^c-2f0014fa01174d87c0deb2dfc479aedf] (removal of income tax relief in respect of tainted charity donations etc).
 
-(5) For related reliefs for charities see Part 10 of this Act and Part 11 of CTA 2010.[^key-88cfca1fb1ac9831d7cdcea6332a7119]
+(5) For related reliefs for charities see Part 10 of this Act and Part 11 of CTA 2010.[^c-88cfca1fb1ac9831d7cdcea6332a7119]
 
-(6)[^key-72f48efff4aa153be56ca40888ddc4cc] For related reliefs for community amateur sports clubs see Chapter 9 of Part 13 of CTA 2010.
+(6)[^c-72f48efff4aa153be56ca40888ddc4cc] For related reliefs for community amateur sports clubs see Chapter 9 of Part 13 of CTA 2010.
 
 ## Annotations
 
-[^key-ef7aca893b99d3accecca5618a9f7d4d]: Textual amendment: S. 413(4A) inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/10)
+[^c-ef7aca893b99d3accecca5618a9f7d4d]: Textual amendment: S. 413(4A) inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/10)
 
-[^key-2f0014fa01174d87c0deb2dfc479aedf]: Textual amendment: Words in s. 413(4A) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 23(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/23/4)
+[^c-2f0014fa01174d87c0deb2dfc479aedf]: Textual amendment: Words in s. 413(4A) substituted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 23(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/23/4)
 
-[^key-88cfca1fb1ac9831d7cdcea6332a7119]: Textual amendment: Words in s. 413(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 524](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/524) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-88cfca1fb1ac9831d7cdcea6332a7119]: Textual amendment: Words in s. 413(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 524](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/524) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-72f48efff4aa153be56ca40888ddc4cc]: Textual amendment: S. 413(6) inserted (17.7.2012) (with effect in accordance with Sch. 15 para. 17(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/8)
+[^c-72f48efff4aa153be56ca40888ddc4cc]: Textual amendment: S. 413(6) inserted (17.7.2012) (with effect in accordance with Sch. 15 para. 17(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/8)

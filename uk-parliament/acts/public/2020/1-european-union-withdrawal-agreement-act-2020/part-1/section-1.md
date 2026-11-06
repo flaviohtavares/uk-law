@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Saving of ECA for implementation period[^key-787cdffcafb3265f8eb637c0ab706681]
+## 1. Saving of ECA for implementation period[^c-787cdffcafb3265f8eb637c0ab706681]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ After section 1 of the European Union (Withdrawal) Act 2018 (repeal of the Europ
 
 ## Annotations
 
-[^key-787cdffcafb3265f8eb637c0ab706681]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/1/section/1) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/a)
+[^c-787cdffcafb3265f8eb637c0ab706681]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/1/section/1) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Benefit period[^key-e8b0ecc7212bfd9fa91e15eae1da39fd]
+## 57. Benefit period[^c-e8b0ecc7212bfd9fa91e15eae1da39fd]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8b0ecc7212bfd9fa91e15eae1da39fd]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1992/1814/regulation/57) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-e8b0ecc7212bfd9fa91e15eae1da39fd]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1992/1814/regulation/57) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

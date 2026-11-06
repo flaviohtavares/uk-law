@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Overseas adoptions[^key-6ea636d86e70a5bf4753f3046fc0f63f]
+## 90. Overseas adoptions[^c-6ea636d86e70a5bf4753f3046fc0f63f]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea636d86e70a5bf4753f3046fc0f63f]: Commencement: S. 90 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6ea636d86e70a5bf4753f3046fc0f63f]: Commencement: S. 90 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -29,12 +29,12 @@ summary: ''
 - a generating station is “**relevant**”—
   - (a) if it generates electricity at a relevant place and is not a generating station that mainly generates electricity—
     - (i) as a result of the burning of oil, coal or natural gas, or
-    - (ii) as a result of the use of plant driven by water, where the power is mainly a result of the hydrostatic head of the water having been increased by pumping, [^key-98743f3c7a3d88cd9d168283eafb00bc]...
+    - (ii) as a result of the use of plant driven by water, where the power is mainly a result of the hydrostatic head of the water having been increased by pumping, [^c-98743f3c7a3d88cd9d168283eafb00bc]...
   - (b) to the extent that it is not subject to—
     - (i) a contract for difference within the meaning of Chapter 2 of Part 2 of the Energy Act 2013 (contracts for difference),
     - (ii) an investment contract within the meaning of Schedule 2 to that Act (investment contracts),
     - (iii) a revenue collection contract within the meaning of Part 2 of the Nuclear Energy (Financing) Act 2022 (revenue collection contracts), or
-    - (iv) feed-in tariff export payments , and[^key-78fce097f3a2427574ec328435a3ff4f]
+    - (iv) feed-in tariff export payments , and[^c-78fce097f3a2427574ec328435a3ff4f]
   - (c) to the extent it is not comprised of qualifying new generating plant (see section 311A);
 - “**relevant place**” means a place in—
   - (a) the United Kingdom,
@@ -61,6 +61,6 @@ See also section 288, which provides that the accounting period of a generating 
 
 ## Annotations
 
-[^key-98743f3c7a3d88cd9d168283eafb00bc]: Textual amendment: Word in [s. 280(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/280/1) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/2/a)
+[^c-98743f3c7a3d88cd9d168283eafb00bc]: Textual amendment: Word in [s. 280(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/280/1) omitted (22.2.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/2/a)
 
-[^key-78fce097f3a2427574ec328435a3ff4f]: Textual amendment: Words in [s. 280(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/280/1) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/2/b)
+[^c-78fce097f3a2427574ec328435a3ff4f]: Textual amendment: Words in [s. 280(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/280/1) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/21/2/b)

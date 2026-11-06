@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Civil penalties: general[^key-a3ab4e8945c015f6c3160645d589fde9]
+## 93. Civil penalties: general[^c-a3ab4e8945c015f6c3160645d589fde9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,8 +40,8 @@ summary: ''
   - (e) bank or borrow VRTS allowances within the meaning of article 41;
   - (f) be treated as falling within article 45(4) or (6) (transitional allocation of VRTS allowances);
   - (g) acquire VCTS allowances under article 67;
-  - (h) be treated as a low-volume CRTS participant or low-volume VRTS participant in accordance with Schedule 4; [^key-8f5ee1b61133e9b3f22e4609f04e7582]...
-  - (ha) make an application for the specific emissions of CO[^key-d7345a00e252a5c5784fd03b967bbe69]<sub>2</sub> of a vehicle to be determined in accordance with Part 6 of Schedule 3A; or
+  - (h) be treated as a low-volume CRTS participant or low-volume VRTS participant in accordance with Schedule 4; [^c-8f5ee1b61133e9b3f22e4609f04e7582]...
+  - (ha) make an application for the specific emissions of CO[^c-d7345a00e252a5c5784fd03b967bbe69]<sub>2</sub> of a vehicle to be determined in accordance with Part 6 of Schedule 3A; or
   - (j) make an application to be a pool participant in the Trading Schemes under Schedule 5;
 - “**financial year**”, in relation to a participant in the Trading Schemes or an SPV manufacturer, has the meaning given in section 390 of the Companies Act 2006[^f00017];
 - “**publication**” means to publish on a part of the registry which is accessible to the public—
@@ -60,11 +60,11 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ab4e8945c015f6c3160645d589fde9]: Commencement: Art. 93 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-a3ab4e8945c015f6c3160645d589fde9]: Commencement: Art. 93 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-8f5ee1b61133e9b3f22e4609f04e7582]: Textual amendment: Word in [art. 93(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/93/3) omitted (1.1.2026) by virtue of [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [40(a)](https://www.legislation.gov.uk/uksi/2025/1101/article/40/a)
+[^c-8f5ee1b61133e9b3f22e4609f04e7582]: Textual amendment: Word in [art. 93(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/93/3) omitted (1.1.2026) by virtue of [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [40(a)](https://www.legislation.gov.uk/uksi/2025/1101/article/40/a)
 
-[^key-d7345a00e252a5c5784fd03b967bbe69]: Textual amendment: Words in [art. 93(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/93/3) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [40(b)](https://www.legislation.gov.uk/uksi/2025/1101/article/40/b)
+[^c-d7345a00e252a5c5784fd03b967bbe69]: Textual amendment: Words in [art. 93(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/93/3) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [40(b)](https://www.legislation.gov.uk/uksi/2025/1101/article/40/b)
 
 [^f00017]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 

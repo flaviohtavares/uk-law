@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Special reports relating to the Welsh Government and the National Assembly for Wales Commission[^key-32ccf129c93ff9b874a5ee1990654238]
+## 30. Special reports relating to the Welsh Government and the National Assembly for Wales Commission[^c-32ccf129c93ff9b874a5ee1990654238]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32ccf129c93ff9b874a5ee1990654238]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2019/3/section/30) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-32ccf129c93ff9b874a5ee1990654238]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2019/3/section/30) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

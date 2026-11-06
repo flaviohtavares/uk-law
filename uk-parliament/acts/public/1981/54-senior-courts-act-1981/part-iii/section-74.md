@@ -25,7 +25,7 @@ summary: ''
 - (a) of any appeal; [^c12334201]. . .
 - (b)[^c12334201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-the Crown Court shall consist of a judge of the High Court or a Circuit judge or a Recorder or a qualifying judge advocate[^key-73c837618c3a4841557ecab3ea4a1313] who, subject to the following provisions of this section, shall sit with not less than two nor more than four justices of the peace.
+the Crown Court shall consist of a judge of the High Court or a Circuit judge or a Recorder or a qualifying judge advocate[^c-73c837618c3a4841557ecab3ea4a1313] who, subject to the following provisions of this section, shall sit with not less than two nor more than four justices of the peace.
 
 (2) Rules of court[^c20646191] may, with respect to hearings falling within subsection (1)—
 
@@ -34,7 +34,7 @@ the Crown Court shall consist of a judge of the High Court or a Circuit judge or
 
 and the rules may make different provision for different descriptions of cases, different places of sitting or other different circumstances.
 
-(3) Rules of court may authorise or require a judge of the High Court, Circuit judge , Recorder or qualifying judge advocate,[^key-e53cf7fc39882b006e38d9a038031163] in such circumstances as are specified by the rules, to enter on, or at any stage to continue with, any proceedings with a court not comprising the justices required by subsections (1) and (2).
+(3) Rules of court may authorise or require a judge of the High Court, Circuit judge , Recorder or qualifying judge advocate,[^c-e53cf7fc39882b006e38d9a038031163] in such circumstances as are specified by the rules, to enter on, or at any stage to continue with, any proceedings with a court not comprising the justices required by subsections (1) and (2).
 
 (4) The Lord Chancellor may from time to time, having regard to the number of justices, or the number of justices with any prescribed qualifications, available for service in the Crown Court, give directions providing that, in such descriptions of proceedings as may be specified by the Lord Chancellor, the provisions of subsections (1) and (2) shall not apply.
 
@@ -56,11 +56,11 @@ and the rules may make different provision for different descriptions of cases, 
 
 [^c12334201]: Textual amendment: S. 74(1)(b) and the preceding “or” repealed (12.11.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(4)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/4) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [27](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/27), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 1999/2657](https://www.legislation.gov.uk/uksi/1999/2657), [art. 4](https://www.legislation.gov.uk/uksi/1999/2657/article/4)
 
-[^key-73c837618c3a4841557ecab3ea4a1313]: Textual amendment: Words in s. 74(1) inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/3/a); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
+[^c-73c837618c3a4841557ecab3ea4a1313]: Textual amendment: Words in s. 74(1) inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/3/a); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
 
 [^c20646191]: Textual amendment: Words in s. 74(2)(3)(7) substituted (1.9.2004) by [The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035)](https://www.legislation.gov.uk/uksi/2004/2035), [art. 3](https://www.legislation.gov.uk/uksi/2004/2035/article/3), [Sch. para. 12(c)](https://www.legislation.gov.uk/uksi/2004/2035/schedule/paragraph/12/c) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2035/article/2/2))
 
-[^key-e53cf7fc39882b006e38d9a038031163]: Textual amendment: Words in s. 74(3) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/3/b); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
+[^c-e53cf7fc39882b006e38d9a038031163]: Textual amendment: Words in s. 74(3) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/3/b); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
 
 [^c20690111]: Textual amendment: S. 74(5A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 133(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/133/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [11(p)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/p)
 

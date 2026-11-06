@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 779. Prohibition on issue of new share warrants and effect of existing share warrants[^key-202444429fa3dfbc5a5e7793dd9c9054]
+## 779. Prohibition on issue of new share warrants and effect of existing share warrants[^c-202444429fa3dfbc5a5e7793dd9c9054]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) A company that issues a share warrant may, if so authorised by its articles, provide (by coupons or otherwise) for the payment of the future dividends on the shares included in the warrant.
 
-(4)[^key-702e322a6035443f770367a8faa292fb] No share warrant may be issued by a company (irrespective of whether its articles purport to authorise it to do so) on or after the day on which section 84 of the Small Business, Enterprise and Employment Act 2015 comes into force.
+(4)[^c-702e322a6035443f770367a8faa292fb] No share warrant may be issued by a company (irrespective of whether its articles purport to authorise it to do so) on or after the day on which section 84 of the Small Business, Enterprise and Employment Act 2015 comes into force.
 
 ## Annotations
 
-[^key-202444429fa3dfbc5a5e7793dd9c9054]: Textual amendment: S. 779 heading substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 84(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/84/2), [164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii)
+[^c-202444429fa3dfbc5a5e7793dd9c9054]: Textual amendment: S. 779 heading substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 84(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/84/2), [164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii)
 
-[^key-702e322a6035443f770367a8faa292fb]: Textual amendment: S. 779(4) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 84(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/84/1), [164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii)
+[^c-702e322a6035443f770367a8faa292fb]: Textual amendment: S. 779(4) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 84(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/84/1), [164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii)

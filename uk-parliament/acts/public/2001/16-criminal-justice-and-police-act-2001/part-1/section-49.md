@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Power for police to make schemes[^key-c5ae2ec46a4da13552a52f8263dc4e0d]
+## 49. Power for police to make schemes[^c-c5ae2ec46a4da13552a52f8263dc4e0d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5ae2ec46a4da13552a52f8263dc4e0d]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/2001/16/section/49) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-c5ae2ec46a4da13552a52f8263dc4e0d]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/2001/16/section/49) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)

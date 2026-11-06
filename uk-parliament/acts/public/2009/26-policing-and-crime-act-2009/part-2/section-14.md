@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Paying for sexual services of a prostitute subjected to force etc: England and Wales[^key-914a9fa45219019a757faec75f9fac46]
+## 14. Paying for sexual services of a prostitute subjected to force etc: England and Wales[^c-914a9fa45219019a757faec75f9fac46]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ After section 53 of the Sexual Offences Act 2003 (c. 42) insert—
 
 ## Annotations
 
-[^key-914a9fa45219019a757faec75f9fac46]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/26/section/14) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/507/article/5/a)
+[^c-914a9fa45219019a757faec75f9fac46]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/26/section/14) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/507/article/5/a)

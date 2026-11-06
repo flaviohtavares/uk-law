@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Service of orders staying proceedings[^key-16e4e73f98d9efa2db8e433d5f53d514]
+## 133. Service of orders staying proceedings[^c-16e4e73f98d9efa2db8e433d5f53d514]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in postal administration proceedings the court makes an order staying any 
 
 ## Annotations
 
-[^key-16e4e73f98d9efa2db8e433d5f53d514]: Commencement: [Rule 133](https://www.legislation.gov.uk/uksi/2013/3208/rule/133) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-16e4e73f98d9efa2db8e433d5f53d514]: Commencement: [Rule 133](https://www.legislation.gov.uk/uksi/2013/3208/rule/133) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

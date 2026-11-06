@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Access to medical reports: “insurance purposes”[^key-367e8a7a8e93331170216fc804479728]
+## 311. Access to medical reports: “insurance purposes”[^c-367e8a7a8e93331170216fc804479728]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-367e8a7a8e93331170216fc804479728]: Commencement: Art. 311 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-367e8a7a8e93331170216fc804479728]: Commencement: Art. 311 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

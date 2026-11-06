@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. General trade licences: records[^key-c0dcf84845d94624e38741b33a99d349]
+## 75. General trade licences: records[^c-c0dcf84845d94624e38741b33a99d349]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies in relation to a person (“P”) who does any act authorised by a general licence issued under regulation 62 (trade licences) (“**the licence**”).
 
-(2) P must keep a register or record containing such details as may be necessary to allow the following information , where appropriate,[^key-7d1e2343f70fe39c170fc8f4e0461846] to be identified in relation to each act done under the authority of the licence—
+(2) P must keep a register or record containing such details as may be necessary to allow the following information , where appropriate,[^c-7d1e2343f70fe39c170fc8f4e0461846] to be identified in relation to each act done under the authority of the licence—
 
 - (a) a description of the act;
 - (b) a description of any goods, technology, services or funds to which the act relates;
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0dcf84845d94624e38741b33a99d349]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c0dcf84845d94624e38741b33a99d349]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7d1e2343f70fe39c170fc8f4e0461846]: Textual amendment: Words in [reg. 75(2)](https://www.legislation.gov.uk/uksi/2019/792/regulation/75/2) inserted (31.7.2024) by [The Syria (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/833)](https://www.legislation.gov.uk/uksi/2024/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/833/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/833/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/2024/833/regulation/3)
+[^c-7d1e2343f70fe39c170fc8f4e0461846]: Textual amendment: Words in [reg. 75(2)](https://www.legislation.gov.uk/uksi/2019/792/regulation/75/2) inserted (31.7.2024) by [The Syria (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/833)](https://www.legislation.gov.uk/uksi/2024/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/833/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/833/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/2024/833/regulation/3)

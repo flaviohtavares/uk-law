@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Interpretation of this Chapter[^key-d1f6a5c8e8455acb8a0c08581f5f7083]
+## 29. Interpretation of this Chapter[^c-d1f6a5c8e8455acb8a0c08581f5f7083]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purposes of this Chapter—
 
 ## Annotations
 
-[^key-d1f6a5c8e8455acb8a0c08581f5f7083]: Commencement: Reg. 29 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-d1f6a5c8e8455acb8a0c08581f5f7083]: Commencement: Reg. 29 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

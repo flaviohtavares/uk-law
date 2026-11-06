@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Notification requirements: convictions and judgments[^key-e0023ee011294f0f6b7cfcd66cfe503d][^key-a5ef1c5a685975807de02ec7e4819c1c]
+## 172. Notification requirements: convictions and judgments[^c-e0023ee011294f0f6b7cfcd66cfe503d][^c-a5ef1c5a685975807de02ec7e4819c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0023ee011294f0f6b7cfcd66cfe503d]: Commencement: S. 172 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e0023ee011294f0f6b7cfcd66cfe503d]: Commencement: S. 172 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a5ef1c5a685975807de02ec7e4819c1c]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2024/13/section/172) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-a5ef1c5a685975807de02ec7e4819c1c]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2024/13/section/172) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Defence to proceedings in respect of statutory nuisance[^key-ac3edb9e2b02fd2870d70490e8445b87]
+## 50. Defence to proceedings in respect of statutory nuisance[^c-ac3edb9e2b02fd2870d70490e8445b87]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3edb9e2b02fd2870d70490e8445b87]: Commencement: Art. 50 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-ac3edb9e2b02fd2870d70490e8445b87]: Commencement: Art. 50 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00095]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

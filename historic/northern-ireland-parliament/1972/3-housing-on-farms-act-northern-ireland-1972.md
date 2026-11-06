@@ -30,7 +30,7 @@ Housing on Farms Act (Northern Ireland) 1972
 
 An Act to consolidate the Housing on Farms Act (Northern Ireland) 1950 and certain other enactments.
 
-\[8th February 1972\][^key-888b2624c4c53b162f497dd1704d1075]
+\[8th February 1972\][^c-888b2624c4c53b162f497dd1704d1075]
 
 ## PART I — GRANTS FOR PROVISION OF NEW FARMHOUSES
 
@@ -134,7 +134,7 @@ In this Act—
 - “approved worker”[^c11615181] has the meaning assigned to it by section 4(1)( *a*);
 - “breach or contravention” includes an attempted breach or contravention; and “contravention” , in relation to any provision or condition, includes a failure to comply with that provision or, as the case may be, that condition;
 - “enactment” includes any provision in any Act (whether public general, local or private) of the Parliament of Northern Ireland or of the Parliament of the United Kingdom and any provision contained in any Order in Council, order, regulation, rule, scheme, byelaw or other instrument made under any such Act;
-- “family”, when used in relation to the person using a farmhouse or occupying an approved worker's house, includes all persons usually residing in such house with such person, whether or not related to him by blood or marriage or civil partnership[^key-e8c5dd8d4253ae7dc7386d659257fc12] ;
+- “family”, when used in relation to the person using a farmhouse or occupying an approved worker's house, includes all persons usually residing in such house with such person, whether or not related to him by blood or marriage or civil partnership[^c-e8c5dd8d4253ae7dc7386d659257fc12] ;
 - “farmhouse”, in relation to any farm, means the dwelling-house of a person who is engaged in carrying on and directing agricultural operations on that farm;
 - “the Ministry”[^c11615191] has the meaning assigned to it by section 1(1);
 - “net annual value” means the net annual value \[[^c11615201] as estimated for the purposes of the Rates (Northern Ireland) Order 1977 [^m00001] or, as the case requires, the amount certified by the Commissioner of Valuation under paragraph 7 of Part II of Schedule 16 to that Order\];
@@ -179,7 +179,7 @@ Section 18.
 
 ## Annotations
 
-[^key-888b2624c4c53b162f497dd1704d1075]: Modification: [Act](https://www.legislation.gov.uk/apni/1972/3): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-888b2624c4c53b162f497dd1704d1075]: Modification: [Act](https://www.legislation.gov.uk/apni/1972/3): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c11615081]: Textual amendment: Appln. for grant had to be made on or before 31.3.1978 and the building completed by 31.3.1981, [1981 NI 3](https://www.legislation.gov.uk/1981/ni3) art.163(2) sch.12
 
@@ -193,7 +193,7 @@ Section 18.
 
 [^c11615181]: Textual amendment: i.e. a worker in the service of the applicant in full time employment in agricultural operations on the farm
 
-[^key-e8c5dd8d4253ae7dc7386d659257fc12]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/apni/1972/3/section/16) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [130](https://www.legislation.gov.uk/uksi/2019/1514/regulation/130) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-e8c5dd8d4253ae7dc7386d659257fc12]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/apni/1972/3/section/16) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [130](https://www.legislation.gov.uk/uksi/2019/1514/regulation/130) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c11615191]: Textual amendment: i.e. M/Dev., now D/Env., SRO (NI) 1973/504; [1976 NI 6](https://www.legislation.gov.uk/nisi/1976)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Extension of powers to other persons[^key-5d01bfa1e874411ccc4e319543396476][^key-653ea02d40046513bd766e28ab7e349c]
+## 28. Extension of powers to other persons[^c-5d01bfa1e874411ccc4e319543396476][^c-653ea02d40046513bd766e28ab7e349c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d01bfa1e874411ccc4e319543396476]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-5d01bfa1e874411ccc4e319543396476]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-653ea02d40046513bd766e28ab7e349c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/31/section/28) in force at 5.1.2026 in so far as not already in force by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-653ea02d40046513bd766e28ab7e349c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/31/section/28) in force at 5.1.2026 in so far as not already in force by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)

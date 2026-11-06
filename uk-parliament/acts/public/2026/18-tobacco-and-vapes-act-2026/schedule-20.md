@@ -24,11 +24,11 @@ summary: ''
 
 Section 163
 
-### 1. Smoking (Northern Ireland) Order 2006 ([S.I. 2006/2957 (N.I. 20)](https://www.legislation.gov.uk/nisi/2006/2957))[^key-caebd69e301676caa161cab4ead144dd]
+### 1. Smoking (Northern Ireland) Order 2006 ([S.I. 2006/2957 (N.I. 20)](https://www.legislation.gov.uk/nisi/2006/2957))[^c-caebd69e301676caa161cab4ead144dd]
 
 The Smoking (Northern Ireland) Order 2006 is amended as follows.
 
-**2.**[^key-fc16222d9e8254787d8604d40d8d13c8] In Article 2, in paragraph (3), at the appropriate places insert—
+**2.**[^c-fc16222d9e8254787d8604d40d8d13c8] In Article 2, in paragraph (3), at the appropriate places insert—
 
 > - “**heated tobacco device**” means a device that heats tobacco to generate a vapour or an aerosol for the purpose of inhalation through a mouthpiece (whether or not it can also heat other matter to produce a vapour or aerosol);
 
@@ -60,7 +60,7 @@ The Smoking (Northern Ireland) Order 2006 is amended as follows.
 
 .
 
-**3.**[^key-f3799ab25f36f65c9d88af2e8fe26fc9] (1) Article 3 is amended as follows.
+**3.**[^c-f3799ab25f36f65c9d88af2e8fe26fc9] (1) Article 3 is amended as follows.
 
 (2) For paragraph (2) substitute—
 
@@ -75,20 +75,20 @@ The Smoking (Northern Ireland) Order 2006 is amended as follows.
 > - (a) a place of work used by more than one person (even if the persons who work there do so at different times, or only intermittently), or
 > - (b) a place of work where members of the public might attend for the purpose of seeking or receiving goods or services from the person or persons working there (even if members of the public are not always present).
 
-**4.**[^key-91008dd70b6dc837ef0d93e87b4a1f54] In Article 10, in paragraphs (1) and (1A), for “or 8(2)” substitute “, 8(2), 9B(5), 9C(1), 9F(6) or 9G(1)”.
+**4.**[^c-91008dd70b6dc837ef0d93e87b4a1f54] In Article 10, in paragraphs (1) and (1A), for “or 8(2)” substitute “, 8(2), 9B(5), 9C(1), 9F(6) or 9G(1)”.
 
-### 5. Health (Miscellaneous Provisions) Act (Northern Ireland) [2016 (c. 26 (N.I.))](https://www.legislation.gov.uk/nia/2016/26)[^key-10f9ce81632c9abaaa7ddc092cb61640]
+### 5. Health (Miscellaneous Provisions) Act (Northern Ireland) [2016 (c. 26 (N.I.))](https://www.legislation.gov.uk/nia/2016/26)[^c-10f9ce81632c9abaaa7ddc092cb61640]
 
 In section 5 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 omit subsection (8).
 
 ## Annotations
 
-[^key-caebd69e301676caa161cab4ead144dd]: Commencement: Sch. 20 para. 1 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-caebd69e301676caa161cab4ead144dd]: Commencement: Sch. 20 para. 1 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
 
-[^key-fc16222d9e8254787d8604d40d8d13c8]: Commencement: Sch. 20 para. 2 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-fc16222d9e8254787d8604d40d8d13c8]: Commencement: Sch. 20 para. 2 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
 
-[^key-f3799ab25f36f65c9d88af2e8fe26fc9]: Commencement: Sch. 20 para. 3 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-f3799ab25f36f65c9d88af2e8fe26fc9]: Commencement: Sch. 20 para. 3 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
 
-[^key-91008dd70b6dc837ef0d93e87b4a1f54]: Commencement: Sch. 20 para. 4 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-91008dd70b6dc837ef0d93e87b4a1f54]: Commencement: Sch. 20 para. 4 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
 
-[^key-10f9ce81632c9abaaa7ddc092cb61640]: Commencement: Sch. 20 para. 5 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-10f9ce81632c9abaaa7ddc092cb61640]: Commencement: Sch. 20 para. 5 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)

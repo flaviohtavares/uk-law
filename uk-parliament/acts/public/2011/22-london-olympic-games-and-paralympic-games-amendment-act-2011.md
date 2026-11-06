@@ -49,11 +49,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) after paragraph (b) insert “ or ”, and
 - (b) omit paragraph (d) and the preceding “or”.
 
-(3)[^key-414558ce106beef64c2ee2cc458fa51c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-414558ce106beef64c2ee2cc458fa51c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (10) of that section—
 
-- (a)[^key-fa5be1e10e3f3f78fe8e2e68e05e6879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fa5be1e10e3f3f78fe8e2e68e05e6879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b) of the definition of “infringing article”, after “thing” insert “ , or an animal, ”.
 
 (5) In section 28 of that Act (contravention of trading regulations: power of entry), in subsection (2)—
@@ -63,14 +63,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) Omit subsection (3) of that section.
 
-(7)[^key-99d69b95302bcc047ab617846b7c05b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-99d69b95302bcc047ab617846b7c05b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In subsection (8) of that section—
 
-- (a)[^key-124e2eb9b2d6ef860cb54c7855635bf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-124e2eb9b2d6ef860cb54c7855635bf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in each of paragraphs (a) and (b) of the definition of “infringing article”, after “article” insert “ or animal ”.
 
-(9)[^key-93be0a577c81e36e40c516e56e3ed52c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-93be0a577c81e36e40c516e56e3ed52c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In section 37 of that Act (Scotland), omit—
 
@@ -125,7 +125,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (a) subsection (2)(b) does not apply to the regulations, and
 > - (b) the regulations are instead subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-2492e7668de9191d45b99594251bbb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2492e7668de9191d45b99594251bbb50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 26 of that Act (supplementary provision about trading regulations), after subsection (2) insert—
 
@@ -134,7 +134,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (a) subsection (2)(b) does not apply to the regulations, and
 > - (b) the regulations are instead subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4)[^key-c1f1d57c32bc2f9713e4c044b69fc04e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c1f1d57c32bc2f9713e4c044b69fc04e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 37 of that Act (Scotland), in subsection (8)(b), after “references”, in the first place it appears, insert “ (other than in sections 20 and 26) ”.
 
@@ -505,16 +505,16 @@ After section 16D of the London Olympic Games and Paralympic Games Act 2006, ins
 
 ## Annotations
 
-[^key-414558ce106beef64c2ee2cc458fa51c]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/3) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
+[^c-414558ce106beef64c2ee2cc458fa51c]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/3) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
 
-[^key-fa5be1e10e3f3f78fe8e2e68e05e6879]: Textual amendment: [S. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/4/a) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
+[^c-fa5be1e10e3f3f78fe8e2e68e05e6879]: Textual amendment: [S. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/4/a) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
 
-[^key-99d69b95302bcc047ab617846b7c05b9]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/7) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
+[^c-99d69b95302bcc047ab617846b7c05b9]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/7) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
 
-[^key-124e2eb9b2d6ef860cb54c7855635bf9]: Textual amendment: [S. 1(8)(a)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/8/a) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
+[^c-124e2eb9b2d6ef860cb54c7855635bf9]: Textual amendment: [S. 1(8)(a)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/8/a) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
 
-[^key-93be0a577c81e36e40c516e56e3ed52c]: Textual amendment: [S. 1(9)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/9) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
+[^c-93be0a577c81e36e40c516e56e3ed52c]: Textual amendment: [S. 1(9)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/9) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/a)
 
-[^key-2492e7668de9191d45b99594251bbb50]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2011/22/section/2/2) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/b)
+[^c-2492e7668de9191d45b99594251bbb50]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2011/22/section/2/2) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/b)
 
-[^key-c1f1d57c32bc2f9713e4c044b69fc04e]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2011/22/section/2/4) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/b)
+[^c-c1f1d57c32bc2f9713e4c044b69fc04e]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2011/22/section/2/4) omitted (2.12.2014) by virtue of [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/17/b)

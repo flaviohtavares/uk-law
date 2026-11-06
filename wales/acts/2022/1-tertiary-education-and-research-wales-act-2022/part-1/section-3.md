@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Promoting equality of opportunity[^key-6c9ff0cd8cc504c528439839082c0a46][^key-45077c3d36e950654d2426f66a396540][^key-c08c935892082d737370d2c2de46beb5]
+## 3. Promoting equality of opportunity[^c-6c9ff0cd8cc504c528439839082c0a46][^c-45077c3d36e950654d2426f66a396540][^c-c08c935892082d737370d2c2de46beb5]
 
 *Extent: E+W*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6c9ff0cd8cc504c528439839082c0a46]: Commencement: S. 3 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-6c9ff0cd8cc504c528439839082c0a46]: Commencement: S. 3 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-45077c3d36e950654d2426f66a396540]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2022/1/section/3) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(b)](https://www.legislation.gov.uk/wsi/2023/919/article/3/b)
+[^c-45077c3d36e950654d2426f66a396540]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2022/1/section/3) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(b)](https://www.legislation.gov.uk/wsi/2023/919/article/3/b)
 
-[^key-c08c935892082d737370d2c2de46beb5]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2022/1/section/3) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)
+[^c-c08c935892082d737370d2c2de46beb5]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2022/1/section/3) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)

@@ -26,7 +26,7 @@ Section 18(4).
 
 #### General
 
-**1.**[^c11343701] (1) Any reference in any enactment, instrument or document to the Data Protection Commissioner or the Data Protection Registrar shall be construed, in relation to any time after the commencement of section 18(1) and before the commencement of section 119(1) of the Data (Access and Use) Act 2025[^key-6351721b7b387c7550f0bed3c0dc10a5], as a reference to the Information Commissioner.
+**1.**[^c11343701] (1) Any reference in any enactment, instrument or document to the Data Protection Commissioner or the Data Protection Registrar shall be construed, in relation to any time after the commencement of section 18(1) and before the commencement of section 119(1) of the Data (Access and Use) Act 2025[^c-6351721b7b387c7550f0bed3c0dc10a5], as a reference to the Information Commissioner.
 
 (2)[^c21132351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -175,7 +175,7 @@ Section 18(4).
 
 [^c11343701]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2000/36/schedule/2/paragraph/1) wholly in force at 14.5.2001; [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2000/36/schedule/2/paragraph/1/1) in force at 30.1.2001, see [s. 87(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/87/2/c/3); [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2000/36/schedule/1/paragraph/1/2) in force at 14.5.2001 by [S.I. 2001/1637](https://www.legislation.gov.uk/uksi/2001/1637), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/1637/article/2/b)
 
-[^key-6351721b7b387c7550f0bed3c0dc10a5]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2000/36/schedule/2/paragraph/1/1) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(27)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/27); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-6351721b7b387c7550f0bed3c0dc10a5]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2000/36/schedule/2/paragraph/1/1) inserted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(27)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/27); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c21132351]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/2000/36/schedule/2/paragraph/1/2) repealed (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2010/22/article/5/3), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 

@@ -24,101 +24,101 @@ Section 103.
 
 ### Power to make treaty provision for matching credit for tax spared in foreign country
 
-**1.**[^key-bad7605d9cbd4062c89119c7ef728ce7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bad7605d9cbd4062c89119c7ef728ce7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Matching credit for tax spared below immediate overseas subsidiary: treaty relief
 
-**2.**[^key-1edb55c2792f442d2d13a17727726fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1edb55c2792f442d2d13a17727726fdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Matching credit for tax spared below immediate overseas subsidiary: unilateral relief
 
-**3.**[^key-eccd10b32a2e4408d4d86a3f9ce62b9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eccd10b32a2e4408d4d86a3f9ce62b9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Relief for persons resident outside the UK who have branches or agencies in the UK
 
-**4.** (1)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.** (1)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-368953e7b06c7302210daff558bb7a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-ab2061149bf8eaefa1a62e5b61591f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-ab2061149bf8eaefa1a62e5b61591f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-ab2061149bf8eaefa1a62e5b61591f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-ab2061149bf8eaefa1a62e5b61591f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### No double relief etc.
 
-**5.**[^key-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Limits on credit: minimisation of the foreign tax
 
-**6.**[^key-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Foreign tax on amounts underlying non-trading credits
 
-**7.**[^key-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction of relief for underlying tax
 
-**8.**[^key-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Computation of underlying tax: the relevant profits
 
-**9.**[^key-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c01c0a3eddd95797b1dec6b9a63c328f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Dividends paid between related companies but not covered by arrangements
 
-**10.**[^key-9e1bd587a6eb47dfbcd4de88e04196bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-9e1bd587a6eb47dfbcd4de88e04196bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction of relief for underlying tax: dividends paid between related companies
 
-**11.**[^key-bb4fdd54f607568d0d19e8509cdf60ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bb4fdd54f607568d0d19e8509cdf60ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Dividends paid out of transferred profits
 
-**12.**[^key-8b6ce5fa57b626d85c942d6672d15b08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8b6ce5fa57b626d85c942d6672d15b08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Separate streaming of dividend so far as representing an ADP dividend of a CFC
 
-**13.**[^key-6be7a73cdf3ee0a2fede6dcedf6fceac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6be7a73cdf3ee0a2fede6dcedf6fceac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### UK insurance companies trading overseas: repeal of section 802
 
-**14.**[^key-1deedd1b10e64fd650b499969230b833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1deedd1b10e64fd650b499969230b833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Underlying tax: foreign taxation of group as a single entity
 
-**15.**[^key-5bcee062e781b98b44bd2ea43c10f659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-5bcee062e781b98b44bd2ea43c10f659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Life assurance companies with overseas branches etc: restriction of credit
 
-**16.**[^key-5bcee062e781b98b44bd2ea43c10f659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-5bcee062e781b98b44bd2ea43c10f659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Allocation of foreign tax to different categories of insurance business
 
-**17.**[^key-5bcee062e781b98b44bd2ea43c10f659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-5bcee062e781b98b44bd2ea43c10f659] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Allocation of expenses etc in a computation under Case I of Schedule D
 
-**18.**[^key-66f21d38c867dcaae1a617df2b848540] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-66f21d38c867dcaae1a617df2b848540] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation of sections 804A to 804E
 
@@ -135,39 +135,39 @@ Section 103.
 
 ### Time limits for claims for credit relief
 
-**20.**[^key-63006dd709e4cf2c0d6eedcf362bbc4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-63006dd709e4cf2c0d6eedcf362bbc4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Foreign dividends: onshore pooling and utilisation of certain unrelieved foreign tax
 
-**21.**[^key-1b19ab5f20f31073be99ba5d5a7ea415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-1b19ab5f20f31073be99ba5d5a7ea415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Application of foreign dividend provisions to branches or agencies in the UK of persons resident elsewhere
 
-**22.**[^key-bbdae5d89ca30732f05f45dadbea0539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-bbdae5d89ca30732f05f45dadbea0539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Unrelieved foreign tax: profits of overseas branch or agency
 
-**23.**[^key-94b1a465f6b454eee5cd4558e9f8a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-94b1a465f6b454eee5cd4558e9f8a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Foreign tax on amounts underlying non-trading credits
 
-**24.**[^key-94b1a465f6b454eee5cd4558e9f8a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-94b1a465f6b454eee5cd4558e9f8a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Royalties: special relationship
 
-**25.**[^key-94b1a465f6b454eee5cd4558e9f8a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-94b1a465f6b454eee5cd4558e9f8a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Postponement of capital allowances to obtain double taxation relief
 
-**26.**[^key-344aac088d7265ef55d463986c6a6cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-344aac088d7265ef55d463986c6a6cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Time limits where reduction under s.811 rendered excessive or insufficient
 
-**27.**[^key-9568d3cf90d8f2bcf791bde3cd31feac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-9568d3cf90d8f2bcf791bde3cd31feac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Mutual agreement procedure
 
-**28.**[^key-66fae3ce62e3ab973da5f1d5ec3def3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-66fae3ce62e3ab973da5f1d5ec3def3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction of interest on repayment of tax resulting from carry back of relievable tax
 
@@ -196,50 +196,50 @@ Section 103.
 
 ### Time limits where deduction under s.278 of the 1992 Act rendered excessive or insufficient
 
-**30.**[^key-db9757b956283e0bcb36a7aa8ae28b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-db9757b956283e0bcb36a7aa8ae28b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bad7605d9cbd4062c89119c7ef728ce7]: Textual amendment: [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/1) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-bad7605d9cbd4062c89119c7ef728ce7]: Textual amendment: [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/1) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-1edb55c2792f442d2d13a17727726fdf]: Textual amendment: [Sch. 30 para. 2](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/2) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-1edb55c2792f442d2d13a17727726fdf]: Textual amendment: [Sch. 30 para. 2](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/2) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-eccd10b32a2e4408d4d86a3f9ce62b9b]: Textual amendment: [Sch. 30 para. 3](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-eccd10b32a2e4408d4d86a3f9ce62b9b]: Textual amendment: [Sch. 30 para. 3](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-368953e7b06c7302210daff558bb7a63]: Textual amendment: Sch. 30 para. 4(1)-(12) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-368953e7b06c7302210daff558bb7a63]: Textual amendment: Sch. 30 para. 4(1)-(12) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-ab2061149bf8eaefa1a62e5b61591f56]: Textual amendment: [Sch. 30 para. 4(13)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/4/13)[(14)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/4/14) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-ab2061149bf8eaefa1a62e5b61591f56]: Textual amendment: [Sch. 30 para. 4(13)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/4/13)[(14)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/4/14) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-c01c0a3eddd95797b1dec6b9a63c328f]: Textual amendment: [Sch. 30 paras. 5-9](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/5) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-c01c0a3eddd95797b1dec6b9a63c328f]: Textual amendment: [Sch. 30 paras. 5-9](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/5) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9e1bd587a6eb47dfbcd4de88e04196bc]: Textual amendment: [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/10) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-9e1bd587a6eb47dfbcd4de88e04196bc]: Textual amendment: [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/10) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-bb4fdd54f607568d0d19e8509cdf60ff]: Textual amendment: [Sch. 30 para. 11](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/11) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-bb4fdd54f607568d0d19e8509cdf60ff]: Textual amendment: [Sch. 30 para. 11](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/11) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-8b6ce5fa57b626d85c942d6672d15b08]: Textual amendment: [Sch. 30 para. 12](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/12) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-8b6ce5fa57b626d85c942d6672d15b08]: Textual amendment: [Sch. 30 para. 12](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/12) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-6be7a73cdf3ee0a2fede6dcedf6fceac]: Textual amendment: Sch. 30 para. 13 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(f)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/f) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-6be7a73cdf3ee0a2fede6dcedf6fceac]: Textual amendment: Sch. 30 para. 13 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(f)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/f) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
 
-[^key-1deedd1b10e64fd650b499969230b833]: Textual amendment: [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/14) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-1deedd1b10e64fd650b499969230b833]: Textual amendment: [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/14) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-5bcee062e781b98b44bd2ea43c10f659]: Textual amendment: [Sch. 30 paras. 15-17](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/15) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-5bcee062e781b98b44bd2ea43c10f659]: Textual amendment: [Sch. 30 paras. 15-17](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/15) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-66f21d38c867dcaae1a617df2b848540]: Textual amendment: [Sch. 30 para. 18](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/18) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-66f21d38c867dcaae1a617df2b848540]: Textual amendment: [Sch. 30 para. 18](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/18) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-63006dd709e4cf2c0d6eedcf362bbc4d]: Textual amendment: [Sch. 30 para. 20](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/20) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-63006dd709e4cf2c0d6eedcf362bbc4d]: Textual amendment: [Sch. 30 para. 20](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/20) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-1b19ab5f20f31073be99ba5d5a7ea415]: Textual amendment: Sch. 30 para. 21 omitted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 30(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/30/b)
+[^c-1b19ab5f20f31073be99ba5d5a7ea415]: Textual amendment: Sch. 30 para. 21 omitted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 30(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/30/b)
 
-[^key-bbdae5d89ca30732f05f45dadbea0539]: Textual amendment: Sch. 30 para. 22 omitted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 30(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/30/b)
+[^c-bbdae5d89ca30732f05f45dadbea0539]: Textual amendment: Sch. 30 para. 22 omitted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 30(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/30/b)
 
-[^key-94b1a465f6b454eee5cd4558e9f8a16f]: Textual amendment: [Sch. 30 paras. 23-25](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/23) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-94b1a465f6b454eee5cd4558e9f8a16f]: Textual amendment: [Sch. 30 paras. 23-25](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/23) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-344aac088d7265ef55d463986c6a6cc3]: Textual amendment: [Sch. 30 para. 26](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/26) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-344aac088d7265ef55d463986c6a6cc3]: Textual amendment: [Sch. 30 para. 26](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/26) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-9568d3cf90d8f2bcf791bde3cd31feac]: Textual amendment: [Sch. 30 para. 27](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/27) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9568d3cf90d8f2bcf791bde3cd31feac]: Textual amendment: [Sch. 30 para. 27](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/27) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-66fae3ce62e3ab973da5f1d5ec3def3a]: Textual amendment: [Sch. 30 para. 28](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/28) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-66fae3ce62e3ab973da5f1d5ec3def3a]: Textual amendment: [Sch. 30 para. 28](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/28) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c14060401]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-db9757b956283e0bcb36a7aa8ae28b98]: Textual amendment: [Sch. 30 para. 30](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/30) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-db9757b956283e0bcb36a7aa8ae28b98]: Textual amendment: [Sch. 30 para. 30](https://www.legislation.gov.uk/ukpga/2000/17/schedule/30/paragraph/30) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

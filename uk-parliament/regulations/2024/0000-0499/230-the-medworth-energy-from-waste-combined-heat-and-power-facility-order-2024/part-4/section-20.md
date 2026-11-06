@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Protective works to buildings[^key-562393cb70d06b15146ab3070952584e]
+## 20. Protective works to buildings[^c-562393cb70d06b15146ab3070952584e]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 the undertaker must, except in the case of emergency, serve on the owners and occupiers of the building or land not less than 14 days’ notice of its intention to exercise that power and, in a case falling within sub-paragraph (a) or (c), specifying the protective works proposed to be carried out.
 
-(6) Where a notice is served under paragraph (5), the owner or occupier of the building or[^key-e27884094455d36ba957cbed22cd267e] land concerned may, by serving a counter-notice within the period of ten days beginning with the day on which the notice was served, require the question of whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 46 (arbitration).
+(6) Where a notice is served under paragraph (5), the owner or occupier of the building or[^c-e27884094455d36ba957cbed22cd267e] land concerned may, by serving a counter-notice within the period of ten days beginning with the day on which the notice was served, require the question of whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 46 (arbitration).
 
 (7) The undertaker must compensate the owners and occupiers of any building or land in relation to which powers under this article have been exercised for any loss or damage arising to them by reason of the exercise of those powers.
 
@@ -67,6 +67,6 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-562393cb70d06b15146ab3070952584e]: Commencement: Art. 20 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-562393cb70d06b15146ab3070952584e]: Commencement: Art. 20 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-e27884094455d36ba957cbed22cd267e]: Textual amendment: Words in [art. 20(6)](https://www.legislation.gov.uk/uksi/2024/230/article/20/6) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-e27884094455d36ba957cbed22cd267e]: Textual amendment: Words in [art. 20(6)](https://www.legislation.gov.uk/uksi/2024/230/article/20/6) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)

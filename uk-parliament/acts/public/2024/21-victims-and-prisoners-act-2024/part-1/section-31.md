@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Right to erasure of personal data in the UK[^key-f3c9d12695e86b41617b78e888a55c83][^key-db022ae8546d16d9e22026cb564beccd]
+## 31. Right to erasure of personal data in the UK[^c-f3c9d12695e86b41617b78e888a55c83][^c-db022ae8546d16d9e22026cb564beccd]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3c9d12695e86b41617b78e888a55c83]: Commencement: S. 31 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-f3c9d12695e86b41617b78e888a55c83]: Commencement: S. 31 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-db022ae8546d16d9e22026cb564beccd]: Commencement: S. 31 in force at 31.3.2026 by [S.I. 2026/317](https://www.legislation.gov.uk/uksi/2026/317), [reg. 2](https://www.legislation.gov.uk/uksi/2026/317/regulation/2)
+[^c-db022ae8546d16d9e22026cb564beccd]: Commencement: S. 31 in force at 31.3.2026 by [S.I. 2026/317](https://www.legislation.gov.uk/uksi/2026/317), [reg. 2](https://www.legislation.gov.uk/uksi/2026/317/regulation/2)

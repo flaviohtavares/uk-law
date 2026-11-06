@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Child Safeguarding Practice Review Panel[^key-49da9cfb8d36f015669eeab6a93af3bd]
+## 12. Child Safeguarding Practice Review Panel[^c-49da9cfb8d36f015669eeab6a93af3bd]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ In the Children Act 2004, before section 17 insert—
 
 ## Annotations
 
-[^key-49da9cfb8d36f015669eeab6a93af3bd]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/16/section/12) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/a)
+[^c-49da9cfb8d36f015669eeab6a93af3bd]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/16/section/12) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/a)

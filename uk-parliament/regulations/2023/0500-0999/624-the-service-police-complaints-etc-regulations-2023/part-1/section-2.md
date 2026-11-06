@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-5152a45233e11bee917881f7a001785e]
+## 2. Interpretation[^c-5152a45233e11bee917881f7a001785e]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,7 +115,7 @@ and where there is more than one member of a service police force involved it me
 
 ## Annotations
 
-[^key-5152a45233e11bee917881f7a001785e]: Commencement: Reg. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-5152a45233e11bee917881f7a001785e]: Commencement: Reg. 2 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 

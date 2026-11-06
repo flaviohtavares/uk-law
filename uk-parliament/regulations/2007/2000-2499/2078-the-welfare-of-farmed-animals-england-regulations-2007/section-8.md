@@ -24,8 +24,8 @@ summary: ''
 
 (2) The Secretary of State may direct that he, and not the local authority, prosecutes proceedings for an offence under these Regulations in relation to cases of a particular description or any particular case.
 
-(3)[^key-b150b9e6322c54f13e0858090eec0bfe] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(3)[^c-b150b9e6322c54f13e0858090eec0bfe] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 ## Annotations
 
-[^key-b150b9e6322c54f13e0858090eec0bfe]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2007/2078/regulation/8/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [20](https://www.legislation.gov.uk/uksi/2012/2897/article/20)
+[^c-b150b9e6322c54f13e0858090eec0bfe]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2007/2078/regulation/8/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [20](https://www.legislation.gov.uk/uksi/2012/2897/article/20)

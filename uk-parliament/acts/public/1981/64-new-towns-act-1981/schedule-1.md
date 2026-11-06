@@ -22,7 +22,7 @@ summary: ''
 
 Section 1.
 
-### Application of Schedule: Wales only[^key-bb9c7cc23f42fae9cd4a31330db7d0b8]
+### Application of Schedule: Wales only[^c-bb9c7cc23f42fae9cd4a31330db7d0b8]
 
 **A1.** This Schedule applies only in relation to an order under section 1 designating an area of land in Wales as the site of a proposed new town.
 
@@ -80,6 +80,6 @@ he may, within 6 weeks from the date on which notice of the making of the order 
 
 ## Annotations
 
-[^key-bb9c7cc23f42fae9cd4a31330db7d0b8]: Textual amendment: Sch. 1 para A1 and cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 169(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/169/5), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/g)
+[^c-bb9c7cc23f42fae9cd4a31330db7d0b8]: Textual amendment: Sch. 1 para A1 and cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 169(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/169/5), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/g)
 
 [^c253394]: Textual amendment: Words in Sch. 1 para. 2(3) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 63(9)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/63/9) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Power to give further protection to essential supplies[^key-66e768985ec9996ffc5234c57cf8879f][^key-4145a0ba092cb7484c4ff1266ca801f7]
+## 95. Power to give further protection to essential supplies[^c-66e768985ec9996ffc5234c57cf8879f][^c-4145a0ba092cb7484c4ff1266ca801f7]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66e768985ec9996ffc5234c57cf8879f]: Commencement: S. 95 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
+[^c-66e768985ec9996ffc5234c57cf8879f]: Commencement: S. 95 in operation at 25.6.2026, see [s. 120(01)](https://www.legislation.gov.uk/nia/2026/6/section/120/01)
 
-[^key-4145a0ba092cb7484c4ff1266ca801f7]: Commencement: [S. 95](https://www.legislation.gov.uk/nia/2026/6/section/95) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
+[^c-4145a0ba092cb7484c4ff1266ca801f7]: Commencement: [S. 95](https://www.legislation.gov.uk/nia/2026/6/section/95) in operation at 25.6.2026, see [s. 120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. After-care: preference for particular accommodation[^key-41cd297ff4d58c3506ff5864fc0e2f80]
+## 117A. After-care: preference for particular accommodation[^c-41cd297ff4d58c3506ff5864fc0e2f80]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the local social services authority must provide or arrange for the provision of
 
 ## Annotations
 
-[^key-41cd297ff4d58c3506ff5864fc0e2f80]: Textual amendment: S. 117A inserted (1.10.2014 for specified purposes, otherwise 1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 75(6)](https://www.legislation.gov.uk/ukpga/2014/23/section/75/6), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2014/2473/article/2/1/u); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2015/993/article/7/1/a) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+[^c-41cd297ff4d58c3506ff5864fc0e2f80]: Textual amendment: S. 117A inserted (1.10.2014 for specified purposes, otherwise 1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 75(6)](https://www.legislation.gov.uk/ukpga/2014/23/section/75/6), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2014/2473/article/2/1/u); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2015/993/article/7/1/a) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Certain judges who are also judges of the First-tier Tribunal[^key-3207ce3b0af5381c3833b29b5710b4fe]
+## 6A. Certain judges who are also judges of the First-tier Tribunal[^c-3207ce3b0af5381c3833b29b5710b4fe]
 
 *Extent: E+W+S+N.I.*
 
 A person is within this section (and so, by virtue of section 4(1)(ca), is a judge of the First-tier Tribunal) if the person—
 
 - (a) is a deputy Circuit judge,
-- (b)[^key-510b30cb8765ef9d616342b90b97ac5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-510b30cb8765ef9d616342b90b97ac5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) is a person who holds an office listed—
   - (i) in the first column of the table in section 89(3C) of the Senior Courts Act 1981 (senior High Court Masters etc ), or
   - (ii) in column 1 of Part 2 of Schedule 2 to that Act (High Court Masters etc ),
@@ -33,6 +33,6 @@ A person is within this section (and so, by virtue of section 4(1)(ca), is a jud
 
 ## Annotations
 
-[^key-3207ce3b0af5381c3833b29b5710b4fe]: Textual amendment: S. 6A inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/9); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-3207ce3b0af5381c3833b29b5710b4fe]: Textual amendment: S. 6A inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/9); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
-[^key-510b30cb8765ef9d616342b90b97ac5f]: Textual amendment: S. 6A(b) omitted (20.2.2019) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/1/3), [4(2)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/2)
+[^c-510b30cb8765ef9d616342b90b97ac5f]: Textual amendment: S. 6A(b) omitted (20.2.2019) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/1/3), [4(2)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/2)

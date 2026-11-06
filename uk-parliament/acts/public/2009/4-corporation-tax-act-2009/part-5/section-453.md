@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 453. Connected parties deriving benefit from creditor relationships[^key-b16402dfb571fad3e803765b9f97b353]
+## 453. Connected parties deriving benefit from creditor relationships[^c-b16402dfb571fad3e803765b9f97b353]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b16402dfb571fad3e803765b9f97b353]: Textual amendment: S. 453 omitted (19.7.2011) (with effect in accordance with Sch. 5 para. 8(2)(3) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/8/1)
+[^c-b16402dfb571fad3e803765b9f97b353]: Textual amendment: S. 453 omitted (19.7.2011) (with effect in accordance with Sch. 5 para. 8(2)(3) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/8/1)

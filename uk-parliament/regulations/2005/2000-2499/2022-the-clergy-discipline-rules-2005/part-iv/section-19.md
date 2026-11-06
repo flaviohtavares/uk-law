@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Other proceedings[^key-e281a29a4b6b4690c66ec8378e8cd806]
+## 19. Other proceedings[^c-e281a29a4b6b4690c66ec8378e8cd806]
 
 *Extent: E*
 
-(1) Where a respondent against whom an allegation of misconduct[^key-6dc0cfaed00a01e9d99c4f4a7bf0707e] is made in accordance with rule 4—
+(1) Where a respondent against whom an allegation of misconduct[^c-6dc0cfaed00a01e9d99c4f4a7bf0707e] is made in accordance with rule 4—
 
 - (a) is, or is likely to be, subject to disciplinary proceedings in respect of any alleged misconduct during the course of any employment, or
 - (b) serves in Her Majesty’s armed forces and is, or is likely to be, subject to any proceedings in respect of any alleged misconduct during his or her service in the armed forces, or
@@ -33,6 +33,6 @@ the registrar may, in accordance with rule 13*,* extend the period for submissio
 
 ## Annotations
 
-[^key-e281a29a4b6b4690c66ec8378e8cd806]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2005/2022/rule/19) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-e281a29a4b6b4690c66ec8378e8cd806]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2005/2022/rule/19) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-6dc0cfaed00a01e9d99c4f4a7bf0707e]: Textual amendment: Words in [rule 19(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/19/1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-6dc0cfaed00a01e9d99c4f4a7bf0707e]: Textual amendment: Words in [rule 19(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/19/1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

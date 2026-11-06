@@ -51,7 +51,7 @@ Poisons (Northern Ireland) Order 1976
 - “the Medicines Act” means the Medicines Act 1968 [^m00002];
 - “methylated ether” includes any ether manufactured from methylated spirits or from industrial spirits and preparations containing methylated ether;
 - “person lawfully conducting a retail pharmacy business” shall be construed in accordance with section 69 of the Medicines Act;
-- “pharmacist” means a person who is, or is deemed to be, a pharmacist for the purposes of any provision of the Medicines Act or the Human Medicines Regulations 2012[^key-f28e9aa84c19da4255d5700c4d4be7ba];
+- “pharmacist” means a person who is, or is deemed to be, a pharmacist for the purposes of any provision of the Medicines Act or the Human Medicines Regulations 2012[^c-f28e9aa84c19da4255d5700c4d4be7ba];
 - “the Poisons Inspector” means an inspector appointed under Article 16(1);
 - “the Poisons List” has the meaning assigned to it by Article 4(8);
 - “prescribe” means prescribe by regulations;
@@ -65,7 +65,7 @@ Poisons (Northern Ireland) Order 1976
 - “registered dentist” includes a body corporate entitled to carry on the business of dentistry;
 - “registered pharmacy” has the meaning assigned to it by section 74 of the Medicines Act;
 - “regulations” means regulations made by the Department subject to negative resolution;
-- “retail pharmacy business” has the meaning assigned to it by regulation[^key-58808cab4b771afaf11917d50af74468] 8(1) of the Human Medicines Regulations 2012;
+- “retail pharmacy business” has the meaning assigned to it by regulation[^c-58808cab4b771afaf11917d50af74468] 8(1) of the Human Medicines Regulations 2012;
 - “sale by way of wholesale dealing” means sale to a person who buys for the purpose of selling again.
 
 (3) In this Order, “non-medicinal poison” means a substance which is included in Part I or Part II of the Poisons List and is neither—
@@ -339,7 +339,7 @@ Article 3.
 
 [^m00002]: Marginal citation: 1968 c.67
 
-[^key-f28e9aa84c19da4255d5700c4d4be7ba]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1976/1214/article/2/2) inserted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 48(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/48/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-f28e9aa84c19da4255d5700c4d4be7ba]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1976/1214/article/2/2) inserted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 48(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/48/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^m00003]: Marginal citation: 1976 NI 22
 
@@ -347,7 +347,7 @@ Article 3.
 
 [^m00005]: Marginal citation: 1966 c.36
 
-[^key-58808cab4b771afaf11917d50af74468]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1976/1214/article/2/2) substituted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 48(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/48/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-58808cab4b771afaf11917d50af74468]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1976/1214/article/2/2) substituted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 48(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/48/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c11617981]: Textual amendment: [1985 NI 15](https://www.legislation.gov.uk/1985/ni15)
 

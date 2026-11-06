@@ -37,7 +37,7 @@ References in this Act to doing anything with, or without, the consent of the pr
 
 (4) Where the licence so provides, a sub-licence may be granted by the licensee; and references in this Act to a licence or licensee include a sub-licence or sub-licensee.
 
-(5)[^key-1325644e929fb9a5f4147eb7b7715b5f] The proprietor of a registered trade mark may invoke the rights conferred by that trade mark against a licensee who contravenes any provision in the licence with regard to—
+(5)[^c-1325644e929fb9a5f4147eb7b7715b5f] The proprietor of a registered trade mark may invoke the rights conferred by that trade mark against a licensee who contravenes any provision in the licence with regard to—
 
 - (a) its duration,
 - (b) the form covered by the registration in which the trade mark may be used,
@@ -47,4 +47,4 @@ References in this Act to doing anything with, or without, the consent of the pr
 
 ## Annotations
 
-[^key-1325644e929fb9a5f4147eb7b7715b5f]: Textual amendment: S. 28(5) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2018/825/regulation/16) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-1325644e929fb9a5f4147eb7b7715b5f]: Textual amendment: S. 28(5) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2018/825/regulation/16) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

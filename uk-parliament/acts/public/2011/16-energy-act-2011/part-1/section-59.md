@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Further provision about Scottish tenants' energy efficiency improvements regulations[^key-7338f7daa71cb1640e4ae93cbc1432f4]
+## 59. Further provision about Scottish tenants' energy efficiency improvements regulations[^c-7338f7daa71cb1640e4ae93cbc1432f4]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7338f7daa71cb1640e4ae93cbc1432f4]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2011/16/section/59) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-7338f7daa71cb1640e4ae93cbc1432f4]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2011/16/section/59) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

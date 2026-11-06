@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Consent to transfer benefit of this Order[^key-f483fbf10b793e57159b4f0ae168d863]
+## 7. Consent to transfer benefit of this Order[^c-f483fbf10b793e57159b4f0ae168d863]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f483fbf10b793e57159b4f0ae168d863]: Commencement: Art. 7 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-f483fbf10b793e57159b4f0ae168d863]: Commencement: Art. 7 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
 [^c24261461]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by section 30 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), and by section 89(3) of the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). There are other amendments to this section that are not relevant to this Order.
 

@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Competition Act 1998 (Groceries) (Public Policy Exclusion) Order 2020 (revoked)[^key-0a375458cb762682ae573f186c5744c7]
+The Competition Act 1998 (Groceries) (Public Policy Exclusion) Order 2020 (revoked)[^c-0a375458cb762682ae573f186c5744c7]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 11th January 2021
 
-[^key-0a375458cb762682ae573f186c5744c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a375458cb762682ae573f186c5744c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0a375458cb762682ae573f186c5744c7]
+## 1. Citation and commencement[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0a375458cb762682ae573f186c5744c7]
+## 2. Interpretation[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifying activities[^key-0a375458cb762682ae573f186c5744c7]
+## 3. Qualifying activities[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exclusion from the Chapter I prohibition[^key-0a375458cb762682ae573f186c5744c7]
+## 4. Exclusion from the Chapter I prohibition[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notification to the Secretary of State[^key-0a375458cb762682ae573f186c5744c7]
+## 5. Notification to the Secretary of State[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Register of agreements[^key-0a375458cb762682ae573f186c5744c7]
+## 6. Register of agreements[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Expiry[^key-0a375458cb762682ae573f186c5744c7]
+## 7. Expiry[^c-0a375458cb762682ae573f186c5744c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a375458cb762682ae573f186c5744c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a375458cb762682ae573f186c5744c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a375458cb762682ae573f186c5744c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a375458cb762682ae573f186c5744c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a375458cb762682ae573f186c5744c7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/1568) revoked (29.7.2021) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Revocations) Order 2021 (S.I. 2021/773)](https://www.legislation.gov.uk/uksi/2021/773), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2021/773/schedule/paragraph/1/d)
+[^c-0a375458cb762682ae573f186c5744c7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/1568) revoked (29.7.2021) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Revocations) Order 2021 (S.I. 2021/773)](https://www.legislation.gov.uk/uksi/2021/773), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2021/773/schedule/paragraph/1/d)

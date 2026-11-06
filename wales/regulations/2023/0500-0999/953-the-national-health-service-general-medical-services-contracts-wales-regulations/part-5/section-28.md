@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Termination of a contract[^key-20016c7a6acf21efef9e0eb2cb9df12e]
+## 28. Termination of a contract[^c-20016c7a6acf21efef9e0eb2cb9df12e]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) A contract must make suitable provision for the arrangements which are to have effect on termination of the contract, including the consequences (whether financial or otherwise) of the contract ending.
 
-(3) The provisions dealing with the financial consequences of termination must include at least provisions having the effect specified in paragraphs (4) to (8)[^key-41f238b835a8e93b74cc7665b5ed31e1] and must provide for those provisions to survive the termination of the contract.
+(3) The provisions dealing with the financial consequences of termination must include at least provisions having the effect specified in paragraphs (4) to (8)[^c-41f238b835a8e93b74cc7665b5ed31e1] and must provide for those provisions to survive the termination of the contract.
 
-(4) Subject to paragraphs (5) to (8)[^key-8e405eb72cc8a438e0ee80299bd1df7a], the Local Health Board’s obligation to make payments to the contractor in accordance with the contract ceases on the date of termination of the contract.
+(4) Subject to paragraphs (5) to (8)[^c-8e405eb72cc8a438e0ee80299bd1df7a], the Local Health Board’s obligation to make payments to the contractor in accordance with the contract ceases on the date of termination of the contract.
 
-(5) On termination of the contract or termination for any reason, the Local Health Board must perform a reconciliation of the payments made by the Local Health Board to the contractor and the extent to which the contractor has performed the obligations under the contract to which those payments relate. The[^key-7ced5b71d4e6d0ca62488e2bdb0b607b] Local Health Board must also, in the event that the contractor has terminated the contract pursuant to paragraph 114 of Part 11 of Schedule 3 but has not performed its obligations under the contract for the duration of the notice period (or such shorter period as the Local Health Board and contractor have agreed in writing), be entitled to reflect in the reconciliation any additional costs that the Local Health Board has incurred in securing alternative services for the duration of that notice period [^key-17ff3052e59966472f38c08209695607]....
+(5) On termination of the contract or termination for any reason, the Local Health Board must perform a reconciliation of the payments made by the Local Health Board to the contractor and the extent to which the contractor has performed the obligations under the contract to which those payments relate. The[^c-7ced5b71d4e6d0ca62488e2bdb0b607b] Local Health Board must also, in the event that the contractor has terminated the contract pursuant to paragraph 114 of Part 11 of Schedule 3 but has not performed its obligations under the contract for the duration of the notice period (or such shorter period as the Local Health Board and contractor have agreed in writing), be entitled to reflect in the reconciliation any additional costs that the Local Health Board has incurred in securing alternative services for the duration of that notice period [^c-17ff3052e59966472f38c08209695607]....
 
 (6) The Local Health Board must serve the contractor with written details of the reconciliation as soon as reasonably practicable, and in any event no later than 28 days after the termination of the contract.
 
@@ -53,12 +53,12 @@ summary: ''
 
 ## Annotations
 
-[^key-20016c7a6acf21efef9e0eb2cb9df12e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2023/953/regulation/28) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-20016c7a6acf21efef9e0eb2cb9df12e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2023/953/regulation/28) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-41f238b835a8e93b74cc7665b5ed31e1]: Textual amendment: Words in reg. 28(3) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/a)
+[^c-41f238b835a8e93b74cc7665b5ed31e1]: Textual amendment: Words in reg. 28(3) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/a)
 
-[^key-8e405eb72cc8a438e0ee80299bd1df7a]: Textual amendment: Words in reg. 28(4) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(b)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/b)
+[^c-8e405eb72cc8a438e0ee80299bd1df7a]: Textual amendment: Words in reg. 28(4) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(b)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/b)
 
-[^key-7ced5b71d4e6d0ca62488e2bdb0b607b]: Textual amendment: Words in reg. 28(5) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(c)(i)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/c/i)
+[^c-7ced5b71d4e6d0ca62488e2bdb0b607b]: Textual amendment: Words in reg. 28(5) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(c)(i)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/c/i)
 
-[^key-17ff3052e59966472f38c08209695607]: Textual amendment: Punctuation mark in reg. 28(5) omitted (11.1.2024) by virtue of [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(c)(ii)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/c/ii)
+[^c-17ff3052e59966472f38c08209695607]: Textual amendment: Punctuation mark in reg. 28(5) omitted (11.1.2024) by virtue of [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [14(c)(ii)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/14/c/ii)

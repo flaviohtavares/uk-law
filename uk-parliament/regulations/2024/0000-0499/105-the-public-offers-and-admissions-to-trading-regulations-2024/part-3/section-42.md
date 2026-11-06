@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Statement of policy[^key-cb8236a512e6f327da3a20b3dcc8614e]
+## 42. Statement of policy[^c-cb8236a512e6f327da3a20b3dcc8614e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8236a512e6f327da3a20b3dcc8614e]: Commencement: Reg. 42 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-cb8236a512e6f327da3a20b3dcc8614e]: Commencement: Reg. 42 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

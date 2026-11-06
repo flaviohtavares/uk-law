@@ -41,11 +41,11 @@ The Secretary of State has decided it is necessary in the public interest to res
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by article 239 of the Air Navigation Order 2016[^f00001].
 
-## 1. Citation and commencement[^key-276e967cc1504766751156d0c786db08]
+## 1. Citation and commencement[^c-276e967cc1504766751156d0c786db08]
 
 These Regulations may be cited as the Air Navigation (Restriction of Flying) (Russian Aircraft) Regulations 2022 and they come into force the day after they are made.
 
-## 2. Restricted airspace[^key-9a0b60003854a2db41402a38a8a1849a][^key-63550363bfe0071ef87aee03525444e2]
+## 2. Restricted airspace[^c-9a0b60003854a2db41402a38a8a1849a][^c-63550363bfe0071ef87aee03525444e2]
 
 (1) Subject to paragraph (2), no aircraft which is—
 
@@ -84,8 +84,8 @@ In relation to the permission mentioned in regulation 2(2)(a), this can be obtai
 
 [^f00001]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to these Regulations.
 
-[^key-276e967cc1504766751156d0c786db08]: Commencement: Reg. 1 in force at 25.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/183/regulation/1)
+[^c-276e967cc1504766751156d0c786db08]: Commencement: Reg. 1 in force at 25.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/183/regulation/1)
 
-[^key-9a0b60003854a2db41402a38a8a1849a]: Commencement: Reg. 2 in force at 25.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/183/regulation/1)
+[^c-9a0b60003854a2db41402a38a8a1849a]: Commencement: Reg. 2 in force at 25.2.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/183/regulation/1)
 
-[^key-63550363bfe0071ef87aee03525444e2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/183/regulation/2) substituted (5.4.2022 at 8.49 p.m.) by [The Air Navigation (Restriction of Flying) (Russian Aircraft) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/435)](https://www.legislation.gov.uk/uksi/2022/435), [regs. 1](https://www.legislation.gov.uk/uksi/2022/435/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/435/regulation/2)
+[^c-63550363bfe0071ef87aee03525444e2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/183/regulation/2) substituted (5.4.2022 at 8.49 p.m.) by [The Air Navigation (Restriction of Flying) (Russian Aircraft) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/435)](https://www.legislation.gov.uk/uksi/2022/435), [regs. 1](https://www.legislation.gov.uk/uksi/2022/435/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/435/regulation/2)

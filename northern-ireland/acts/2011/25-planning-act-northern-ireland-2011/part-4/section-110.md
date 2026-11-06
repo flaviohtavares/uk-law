@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Determination of applications for hazardous substances consent[^key-397449555f0b46fb62991f1afc35feb0][^key-053342db6026a9639559e8369a99dcff][^key-e3236f09dde46834b68d2a4ddd302b5c][^key-97e39ce414f03726ecb058ab715dd8c1][^key-4cf8e374482816ecc282ead3e7ec8041][^key-323eda43319f52f0646660f5acc40a68][^key-97e39ce414f03726ecb058ab715dd8c1]
+## 110. Determination of applications for hazardous substances consent[^c-397449555f0b46fb62991f1afc35feb0][^c-053342db6026a9639559e8369a99dcff][^c-e3236f09dde46834b68d2a4ddd302b5c][^c-97e39ce414f03726ecb058ab715dd8c1][^c-4cf8e374482816ecc282ead3e7ec8041][^c-323eda43319f52f0646660f5acc40a68][^c-97e39ce414f03726ecb058ab715dd8c1]
 
 *Extent: N.I.*
 
@@ -54,14 +54,14 @@ summary: ''
 
 ## Annotations
 
-[^key-397449555f0b46fb62991f1afc35feb0]: Commencement: S. 110 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-397449555f0b46fb62991f1afc35feb0]: Commencement: S. 110 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-053342db6026a9639559e8369a99dcff]: Commencement: S. 110 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-053342db6026a9639559e8369a99dcff]: Commencement: S. 110 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-e3236f09dde46834b68d2a4ddd302b5c]: Modification: S. 110 applied (1.4.2015) by [The Planning (Hazardous Substances) Regulations (Northern Ireland) 2015 (S.R. 2015/61)](https://www.legislation.gov.uk/nisr/2015/61), [regs. 1](https://www.legislation.gov.uk/nisr/2015/61/regulation/1), [15(3)](https://www.legislation.gov.uk/nisr/2015/61/regulation/15/3)
+[^c-e3236f09dde46834b68d2a4ddd302b5c]: Modification: S. 110 applied (1.4.2015) by [The Planning (Hazardous Substances) Regulations (Northern Ireland) 2015 (S.R. 2015/61)](https://www.legislation.gov.uk/nisr/2015/61), [regs. 1](https://www.legislation.gov.uk/nisr/2015/61/regulation/1), [15(3)](https://www.legislation.gov.uk/nisr/2015/61/regulation/15/3)
 
-[^key-97e39ce414f03726ecb058ab715dd8c1]: Modification: Pt. 4 (except chpts. 1, 2) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-97e39ce414f03726ecb058ab715dd8c1]: Modification: Pt. 4 (except chpts. 1, 2) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-4cf8e374482816ecc282ead3e7ec8041]: Modification: S. 110 applied with modification(s) (16.10.2015) by [The Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/344)](https://www.legislation.gov.uk/nisr/2015/344), [regs. 1](https://www.legislation.gov.uk/nisr/2015/344/regulation/1), [16(3)](https://www.legislation.gov.uk/nisr/2015/344/regulation/16/3)
+[^c-4cf8e374482816ecc282ead3e7ec8041]: Modification: S. 110 applied with modification(s) (16.10.2015) by [The Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/344)](https://www.legislation.gov.uk/nisr/2015/344), [regs. 1](https://www.legislation.gov.uk/nisr/2015/344/regulation/1), [16(3)](https://www.legislation.gov.uk/nisr/2015/344/regulation/16/3)
 
-[^key-323eda43319f52f0646660f5acc40a68]: Modification: [Ss. 105-155](https://www.legislation.gov.uk/nia/2011/25/section/105): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-323eda43319f52f0646660f5acc40a68]: Modification: [Ss. 105-155](https://www.legislation.gov.uk/nia/2011/25/section/105): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

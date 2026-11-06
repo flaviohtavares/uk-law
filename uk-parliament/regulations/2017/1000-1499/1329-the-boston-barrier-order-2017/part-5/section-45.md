@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Misuse of scheduled works, etc.[^key-2ce0b4e3887e275963a1d2f0ec8d173b]
+## 45. Misuse of scheduled works, etc.[^c-2ce0b4e3887e275963a1d2f0ec8d173b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ is guilty of an offence and for every such offence is liable on summary convicti
 
 ## Annotations
 
-[^key-2ce0b4e3887e275963a1d2f0ec8d173b]: Commencement: Art. 45 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-2ce0b4e3887e275963a1d2f0ec8d173b]: Commencement: Art. 45 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

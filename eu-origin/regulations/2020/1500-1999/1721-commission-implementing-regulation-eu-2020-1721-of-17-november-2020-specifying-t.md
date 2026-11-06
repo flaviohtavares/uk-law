@@ -35,22 +35,22 @@ specifying technical items of data sets of the sample survey in the income and l
 
 (Text with EEA relevance) (revoked)
 
-[^key-e0ff591e27db2ac779cbc1d2d80140a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0ff591e27db2ac779cbc1d2d80140a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-e0ff591e27db2ac779cbc1d2d80140a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e0ff591e27db2ac779cbc1d2d80140a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e0ff591e27db2ac779cbc1d2d80140a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e0ff591e27db2ac779cbc1d2d80140a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0ff591e27db2ac779cbc1d2d80140a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0ff591e27db2ac779cbc1d2d80140a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Technical characteristics of variables[^key-e0ff591e27db2ac779cbc1d2d80140a4]
+## ANNEX — Technical characteristics of variables[^c-e0ff591e27db2ac779cbc1d2d80140a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0ff591e27db2ac779cbc1d2d80140a4]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 136](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/136)
+[^c-e0ff591e27db2ac779cbc1d2d80140a4]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 136](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/136)

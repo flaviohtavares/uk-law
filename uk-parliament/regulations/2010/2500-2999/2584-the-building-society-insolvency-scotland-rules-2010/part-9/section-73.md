@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Resolutions by post[^key-a83ca6059d992b174469ffb0be788e05]
+## 73. Resolutions by post[^c-a83ca6059d992b174469ffb0be788e05]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a83ca6059d992b174469ffb0be788e05]: Commencement: Rule 73 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-a83ca6059d992b174469ffb0be788e05]: Commencement: Rule 73 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00034]: Footnote: Rule 4.55 was amended by paragraph 28 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

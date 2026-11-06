@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Disclosure of confidential information[^key-cb8c6134ba21802733793b6bb4f200cc]
+## 77. Disclosure of confidential information[^c-cb8c6134ba21802733793b6bb4f200cc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-cb8c6134ba21802733793b6bb4f200cc]: Commencement: Art. 77 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-cb8c6134ba21802733793b6bb4f200cc]: Commencement: Art. 77 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32A. Special health mark[^key-f13ba4d693b3e3e79065df1bc534a3d3]
+## 32A. Special health mark[^c-f13ba4d693b3e3e79065df1bc534a3d3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f13ba4d693b3e3e79065df1bc534a3d3]: Textual amendment: Reg. 32A revoked (8.8.2014) by [The Food Hygiene (Wales) (Amendment) Regulations 2014 (S.I. 2014/1858)](https://www.legislation.gov.uk/wsi/2014/1858), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/2/2)
+[^c-f13ba4d693b3e3e79065df1bc534a3d3]: Textual amendment: Reg. 32A revoked (8.8.2014) by [The Food Hygiene (Wales) (Amendment) Regulations 2014 (S.I. 2014/1858)](https://www.legislation.gov.uk/wsi/2014/1858), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/2/2)

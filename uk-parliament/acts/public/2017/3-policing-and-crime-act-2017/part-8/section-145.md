@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Other offences: maximum term of imprisonment[^c22719841][^key-e251e4fc7ec36bd20942b03f3a8dbbed]
+## 145. Other offences: maximum term of imprisonment[^c22719841][^c-e251e4fc7ec36bd20942b03f3a8dbbed]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 [^c22719841]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2017/3/section/145) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-e251e4fc7ec36bd20942b03f3a8dbbed]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2017/3/section/145) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-e251e4fc7ec36bd20942b03f3a8dbbed]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2017/3/section/145) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)

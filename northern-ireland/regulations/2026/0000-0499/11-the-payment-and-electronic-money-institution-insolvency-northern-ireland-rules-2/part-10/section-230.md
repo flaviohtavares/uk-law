@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 230. Enforcement of court orders[^key-249f41b34bf64e7be89c2b4ab27d87f2]
+## 230. Enforcement of court orders[^c-249f41b34bf64e7be89c2b4ab27d87f2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In a special administration, orders of the court may be enforced in the same man
 
 ## Annotations
 
-[^key-249f41b34bf64e7be89c2b4ab27d87f2]: Commencement: [Rule 230](https://www.legislation.gov.uk/nisr/2026/11/rule/230) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-249f41b34bf64e7be89c2b4ab27d87f2]: Commencement: [Rule 230](https://www.legislation.gov.uk/nisr/2026/11/rule/230) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -43,7 +43,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 1, 8(1), 15
 
 ## PART 1 — Preliminary
 
-### 1. Title, application and coming into force[^key-b72e52e29cef1ca0d9fdacc11443f58d]
+### 1. Title, application and coming into force[^c-b72e52e29cef1ca0d9fdacc11443f58d]
 
 (1) The title of this Order is the Bovine Viral Diarrhoea (Wales) Order 2024.
 
@@ -51,9 +51,9 @@ The Welsh Ministers, in exercise of the powers conferred by sections 1, 8(1), 15
 
 (3) This article and articles 2 to 34 and articles 42 to 48 come into force on 1 July 2024.
 
-(4) Articles 35 to 41 come into force on 1 July 2026[^key-8d48f18f3cc6210cefb98390f42d4744] .
+(4) Articles 35 to 41 come into force on 1 July 2026[^c-8d48f18f3cc6210cefb98390f42d4744] .
 
-### 2. Interpretation[^key-fefa73ad5810bf1c2f446f0da4ef94ee]
+### 2. Interpretation[^c-fefa73ad5810bf1c2f446f0da4ef94ee]
 
 In this Order—
 
@@ -78,11 +78,11 @@ In this Order—
 - “**veterinary inspector**” (“***arolgydd milfeddygol***”) has the same meaning as in section 89 of the Act;
 - “**working day**” (“***diwrnod gwaith***”) means a day which is not a Saturday, Sunday or a day specified as a bank holiday in paragraph 1 of Schedule 1 of the Banking and Financial Dealings Act 1971[^f00003].
 
-### 3. Extension of the definition of “disease”[^key-071dfe7f285765fc730985dac7b3098c]
+### 3. Extension of the definition of “disease”[^c-071dfe7f285765fc730985dac7b3098c]
 
 The definition of “disease” in section 88(1) of the Act is extended to include BVD.
 
-### 4. Notices and other instruments[^key-358fc0123d98d9df9c4620f1e815f110]
+### 4. Notices and other instruments[^c-358fc0123d98d9df9c4620f1e815f110]
 
 (1) Any notice, licence or approval given by the Welsh Ministers or an inspector under this Order—
 
@@ -98,19 +98,19 @@ The definition of “disease” in section 88(1) of the Act is extended to inclu
 - (b) produce the licence or a copy when requested by a veterinary inspector, an inspector or an officer of the Welsh Government, and allow a copy to be taken, and
 - (c) keep the licence or a copy for the period of 6 months after the movement is completed.
 
-### 5. Compliance with this Order[^key-e030765bdab175aba49b9b977c7d79ff]
+### 5. Compliance with this Order[^c-e030765bdab175aba49b9b977c7d79ff]
 
 (1) Any sampling by a previous keeper for the purposes of compliance with the obligations of a keeper under this Order may, if the current keeper so elects, be relied upon by the current keeper for the purposes of determining compliance by the current keeper with the obligations in this Order.
 
 (2) Any obligation under this Order on a keeper to take or submit a sample may, if the keeper so elects, be fulfilled by the keeper arranging for another person to take or submit the sample on the keeper’s behalf.
 
-### 6. Costs of compliance[^key-8e816e5224e7fab3e808e4750f9d877e]
+### 6. Costs of compliance[^c-8e816e5224e7fab3e808e4750f9d877e]
 
 Unless the Welsh Ministers direct otherwise in writing, the costs incurred by any person taking any action required, or in refraining from taking action that is prohibited, by or under this Order must be met by that person.
 
 ## PART 2 — Approval of veterinary surgeons and laboratories
 
-### 7. Approval of veterinary surgeons[^key-d9ebdbc18d6b43421829beb245f7d90b]
+### 7. Approval of veterinary surgeons[^c-d9ebdbc18d6b43421829beb245f7d90b]
 
 (1) The Welsh Ministers may approve any veterinary surgeon whom they consider to be suitable for the purposes of carrying out the functions conferred on an approved veterinary surgeon by this Order.
 
@@ -124,7 +124,7 @@ Unless the Welsh Ministers direct otherwise in writing, the costs incurred by an
 
 (6) An approved veterinary surgeon may by notice given to the Welsh Ministers indicate that the veterinary surgeon no longer wishes to be approved, in which case the approval ceases to have effect on the date on which the Welsh Ministers receive that notice.
 
-### 8. Approval of laboratories[^key-0ba84ca03b6598174d1065032a2116a6]
+### 8. Approval of laboratories[^c-0ba84ca03b6598174d1065032a2116a6]
 
 (1) The Welsh Ministers may approve any laboratory that they consider to be suitable for the purpose of testing samples submitted under this Order.
 
@@ -132,13 +132,13 @@ Unless the Welsh Ministers direct otherwise in writing, the costs incurred by an
 
 (3) The operator of an approved laboratory must comply with any conditions of the approval.
 
-### 9. Record keeping and disclosure by approved laboratories[^key-97614281f4f112ab1dc21a0db004c302]
+### 9. Record keeping and disclosure by approved laboratories[^c-97614281f4f112ab1dc21a0db004c302]
 
 (1) The operator of an approved laboratory must maintain a record of any test carried out under this Order for 3 years from the date of each test.
 
 (2) The operator of the approved laboratory must provide the Welsh Ministers with a copy of any test records on request.
 
-### 10. Suspension and revocation of approval of laboratories[^key-af339503a47bbd012811b63f55a29dd4]
+### 10. Suspension and revocation of approval of laboratories[^c-af339503a47bbd012811b63f55a29dd4]
 
 (1) The Welsh Ministers may by notice given to the operator of an approved laboratory suspend or revoke an approval granted under article 8 if—
 
@@ -153,16 +153,16 @@ Unless the Welsh Ministers direct otherwise in writing, the costs incurred by an
 
 ## PART 3 — Sampling and notification requirements
 
-### 11. Sampling restricted to approved veterinary surgeons[^key-304f8c0359622cdea3c8f734bce11ac9]
+### 11. Sampling restricted to approved veterinary surgeons[^c-304f8c0359622cdea3c8f734bce11ac9]
 
-(1) A keeper may not take (or arrange to have taken) a sample referred to in paragraph (2) unless the sample is taken by, or under the direction[^key-a032f61791696200c2984c71baf5b4cc] of, an approved veterinary surgeon.
+(1) A keeper may not take (or arrange to have taken) a sample referred to in paragraph (2) unless the sample is taken by, or under the direction[^c-a032f61791696200c2984c71baf5b4cc] of, an approved veterinary surgeon.
 
 (2) The samples referred to in this paragraph are—
 
 - (a) a sample of blood from any bovine animal, or
 - (b) any sample from a bovine animal where that animal has an individual BVD status of positive.
 
-### 12. Submission of samples for testing[^key-b441357b1c5da3349e788ec470b8d7ef]
+### 12. Submission of samples for testing[^c-b441357b1c5da3349e788ec470b8d7ef]
 
 Samples taken from a bovine animal for testing under this Order must be—
 
@@ -176,7 +176,7 @@ Samples taken from a bovine animal for testing under this Order must be—
   - (v) the contact details of the veterinary surgeon, and
   - (vi) any other information reasonably requested by the operator of the laboratory.
 
-### 13. Ear tag samples of tissue[^key-03b2755d789ba7d04b419c6fbf83403e]
+### 13. Ear tag samples of tissue[^c-03b2755d789ba7d04b419c6fbf83403e]
 
 (1) Subject to paragraphs (3) and (4), an ear tag sample of tissue is taken in accordance with this article if it is extracted from the bovine animal from an official ear tag or a management tag and the conditions in paragraph (2) are met.
 
@@ -194,7 +194,7 @@ Samples taken from a bovine animal for testing under this Order must be—
 
 (5) For the purposes of this article, “**collected**” includes any attempt to collect a sample.
 
-### 14. Removal of management tags[^key-7fbe75dbb216b36767ef4e1061b9f9cc]
+### 14. Removal of management tags[^c-7fbe75dbb216b36767ef4e1061b9f9cc]
 
 (1) The keeper must remove a management tag which has been applied to a bovine animal where the information on the tag has become illegible.
 
@@ -203,7 +203,7 @@ Samples taken from a bovine animal for testing under this Order must be—
 - (a) with the approval of the Welsh Ministers, or
 - (b) where the removal is necessary to safeguard the welfare of the animal.
 
-### 15. Replacement of management tags[^key-92b8ed8520795f3ff8ba7b96fbee10c0]
+### 15. Replacement of management tags[^c-92b8ed8520795f3ff8ba7b96fbee10c0]
 
 (1) This article applies where a management tag—
 
@@ -225,7 +225,7 @@ Samples taken from a bovine animal for testing under this Order must be—
 
 (5) This article applies in the same way to the removal and replacement of any replacement tag applied in accordance with this article.
 
-### 16. Notification requirements by the operator of an approved laboratory[^key-d0e0ebffc640795ec853d56ba080665c]
+### 16. Notification requirements by the operator of an approved laboratory[^c-d0e0ebffc640795ec853d56ba080665c]
 
 Notification of a test result by the operator of an approved laboratory to the keeper, the Welsh Ministers and the veterinary surgeon under articles 28, 31, 34, 37, 40 and 41 must made be within 5 working days of the date of the test and include details of—
 
@@ -236,7 +236,7 @@ Notification of a test result by the operator of an approved laboratory to the k
 - (e) the CPH number of the holding on which the herd or animal was kept at the time the sample was, or the samples were, taken, and
 - (f) where applied, the official ear tag number from the official ear tag.
 
-### 17. Notification of BVD on a holding to other keepers[^key-7599842ba10c95f5732229312aa4add8]
+### 17. Notification of BVD on a holding to other keepers[^c-7599842ba10c95f5732229312aa4add8]
 
 (1) This article applies where—
 
@@ -252,7 +252,7 @@ Notification of a test result by the operator of an approved laboratory to the k
 
 (4) Where the individual BVD status of the animal is changed, the keeper must, within 5 days of receiving notice from an approved laboratory of the change of individual status (or of otherwise becoming aware of the change), give the other keeper notice of the change.
 
-### 18. Reporting of tests for presence of BVDV other than under this Order[^key-b4bea3a5b4a4ebc89969a17581bafa9c]
+### 18. Reporting of tests for presence of BVDV other than under this Order[^c-b4bea3a5b4a4ebc89969a17581bafa9c]
 
 (1) This article applies where, other than for the purposes of this Order, a laboratory (including an approved laboratory) tests for evidence of exposure to BVDV, or for the presence of BVDV, in a sample (of any description) taken from a bovine animal.
 
@@ -271,7 +271,7 @@ Notification of a test result by the operator of an approved laboratory to the k
 
 ## PART 4 — BVD Status
 
-### 19. Individual BVD status of animals[^key-5f3e6332404106c9d642c89e6d5b9616]
+### 19. Individual BVD status of animals[^c-5f3e6332404106c9d642c89e6d5b9616]
 
 (1) For the purposes of this Order, a bovine animal or calf has either—
 
@@ -288,7 +288,7 @@ Notification of a test result by the operator of an approved laboratory to the k
 
 (5) A bovine animal has no individual BVD status in all other cases.
 
-### 20. Collective BVD status of herds[^key-986b551bc9033e437b81c3f7dbee5c17]
+### 20. Collective BVD status of herds[^c-986b551bc9033e437b81c3f7dbee5c17]
 
 (1) For the purposes of this Order, a bovine herd has either—
 
@@ -316,30 +316,30 @@ Notification of a test result by the operator of an approved laboratory to the k
 
 (6) In this article, any reference to a “**notice**” means the most recent notice submitted by the operator of an approved laboratory to the Welsh Ministers under articles 28, 31 or 34.
 
-### 21. Change of individual BVD status by an approved veterinary surgeon[^key-01eb8251b828147e024fced81313350a]
+### 21. Change of individual BVD status by an approved veterinary surgeon[^c-01eb8251b828147e024fced81313350a]
 
 An approved veterinary surgeon may change the individual BVD status of a bovine animal from positive to negative where that surgeon reasonably considers that further action or investigation has been carried out which confirms that BVDV is not or is no longer present in that animal.
 
-### 22. Change of collective BVD status by an approved veterinary surgeon[^key-95f886b1197dc305f621d90525174492]
+### 22. Change of collective BVD status by an approved veterinary surgeon[^c-95f886b1197dc305f621d90525174492]
 
 An approved veterinary surgeon may change the collective BVD status of a bovine herd from not negative to negative where that surgeon reasonably considers that—
 
 - (a) further action or investigation has been carried out to confirm the presence of BVDV in any animal forming part of the herd, and
 - (b) as a result of such action or investigation, either the presence of BVDV has not been confirmed in any such animal or, in the case where the presence of BVDV has been confirmed in any such animal, that animal has been removed from the herd and, prior to its removal, the animal was isolated or other appropriate steps were taken so as to minimise the risk of spread of BVDV to any other animal in the herd.
 
-### 23. Notification of a change of status by an approved veterinary surgeon[^key-6bb0f3a5f0a383ce13cfb7a4c7c170f6]
+### 23. Notification of a change of status by an approved veterinary surgeon[^c-6bb0f3a5f0a383ce13cfb7a4c7c170f6]
 
 (1) The approved veterinary surgeon must by notice inform the keeper and the Welsh Ministers of any change of BVD status under articles 21 or 22.
 
 (2) A notice under paragraph (1) must be given within 5 days of the approved veterinary surgeon’s determination of the change of BVD status and must include the official ear tag number of the animal or animals in respect of which the further action or investigation or, as the case may be, further testing, has been carried out.
 
-### 24. Publication of status[^key-afa234381de00d4c6a0447acbd41a7ff]
+### 24. Publication of status[^c-afa234381de00d4c6a0447acbd41a7ff]
 
 The Welsh Ministers may publish any information regarding the status, or change of status, of a bovine herd or bovine animal, in any form, that the Welsh Ministers see fit for the purpose of helping other persons to protect against the spread of BVD.
 
 ## PART 5 — BVD Screening
 
-### 25. Sampling of bovine herds in accordance with compliance deadlines[^key-66878ef8f058306d2bda694f848e49b7]
+### 25. Sampling of bovine herds in accordance with compliance deadlines[^c-66878ef8f058306d2bda694f848e49b7]
 
 (1) The keeper of a bovine herd must, by each compliance deadline, arrange for an approved veterinary surgeon, or person under the direction of an approved veterinary surgeon, to take samples of blood to test for exposure to BVDV—
 
@@ -351,7 +351,7 @@ The Welsh Ministers may publish any information regarding the status, or change 
 
 (3) The veterinary surgeon must submit any samples taken under paragraph (1) to an approved laboratory for testing.
 
-### 26. Determining compliance deadlines[^key-96de202bf76b7e5a047d6cf67edc31d8]
+### 26. Determining compliance deadlines[^c-96de202bf76b7e5a047d6cf67edc31d8]
 
 (1) The first compliance deadline falls on—
 
@@ -360,21 +360,21 @@ The Welsh Ministers may publish any information regarding the status, or change 
 
 (2) Each subsequent compliance deadline falls on the final day of the period of 12 months after the results of the tests of samples taken under article 25 are notified to the Welsh Ministers.
 
-### 27. Testing for exposure to BVDV[^key-d8c70630d5c9190c22266313a3814132]
+### 27. Testing for exposure to BVDV[^c-d8c70630d5c9190c22266313a3814132]
 
 Upon receipt of a blood sample taken under article 25, the operator of the approved laboratory must—
 
 - (a) test each of the samples for evidence of exposure to BVDV, and
 - (b) determine whether or not any of the samples show evidence of exposure to BVDV.
 
-### 28. Notification of test results[^key-a694954d96afc52b382b96b7948ec6bc]
+### 28. Notification of test results[^c-a694954d96afc52b382b96b7948ec6bc]
 
 Following completion of a test under article 27, the operator of the approved laboratory must by notice inform the keeper, the Welsh Ministers and the veterinary surgeon of each test result and—
 
 - (a) where none of the samples show evidence of exposure to BVDV, that the herd has a collective BVD status of negative, or
 - (b) where any of the samples show evidence of exposure to BVDV, that the herd has a collective BVD status of not negative.
 
-### 29. Additional sampling of individual bovine animals[^key-421e3f415c9016bc996a6d959d5dece5]
+### 29. Additional sampling of individual bovine animals[^c-421e3f415c9016bc996a6d959d5dece5]
 
 (1) This article applies where a bovine herd has a collective BVD status of not negative in accordance with article 28(b).
 
@@ -387,14 +387,14 @@ from each animal in the herd for testing by an approved laboratory.
 
 (3) Paragraph (2) does not apply to any animal that has an individual BVD status of negative.
 
-### 30. Submission and testing of samples from individual bovine animals[^key-b1234d631eef4bc89be61493a0faefa1]
+### 30. Submission and testing of samples from individual bovine animals[^c-b1234d631eef4bc89be61493a0faefa1]
 
 On receipt of a sample taken under article 29(2), the operator of the approved laboratory must—
 
 - (a) test the sample for the presence of BVDV, and
 - (b) determine whether or not BVDV is present in the sample.
 
-### 31. Notification of test results[^key-a1b6c77e63bb5f6311beadf6b049ec8b]
+### 31. Notification of test results[^c-a1b6c77e63bb5f6311beadf6b049ec8b]
 
 (1) Following completion of a test under article 30, the operator of the approved laboratory must by notice inform the keeper, the Welsh Ministers and the veterinary surgeon of each test result and—
 
@@ -407,7 +407,7 @@ On receipt of a sample taken under article 29(2), the operator of the approved l
 
 (2) In all other cases, the bovine animal has no individual BVD status.
 
-### 32. Additional sampling to determine persistent infection with BVD[^key-0932c0332cfed7210b38b6e8529802fb]
+### 32. Additional sampling to determine persistent infection with BVD[^c-0932c0332cfed7210b38b6e8529802fb]
 
 (1) This article applies to—
 
@@ -421,14 +421,14 @@ On receipt of a sample taken under article 29(2), the operator of the approved l
 
 for testing by an approved laboratory.
 
-### 33. Submission and testing of samples to determine persistent infection with BVD[^key-73fc0b608075ac8a1a81ca2aabecd3e4]
+### 33. Submission and testing of samples to determine persistent infection with BVD[^c-73fc0b608075ac8a1a81ca2aabecd3e4]
 
 On receipt of a sample taken under article 32(2), the operator of the approved laboratory must—
 
 - (a) test the sample for the presence of BVDV, and
 - (b) determine whether or not BVDV is present in the sample.
 
-### 34. Notification of test results[^key-6fa0bd827c12cb2b74eebcc57e2f040e]
+### 34. Notification of test results[^c-6fa0bd827c12cb2b74eebcc57e2f040e]
 
 Following completion of the test under article 33, the operator of the approved laboratory must by notice inform the keeper, the Welsh Ministers and the veterinary surgeon of each test result and—
 
@@ -439,20 +439,20 @@ Following completion of the test under article 33, the operator of the approved 
   - (i) the animal has an individual BVD status of persistently infected, and
   - (ii) the herd to which it belongs has a collective BVD status of not negative.
 
-### 35. Sampling of calves born into herds with a collective BVD status of not negative[^key-3738287337443050cca92b0bd1c505ca]
+### 35. Sampling of calves born into herds with a collective BVD status of not negative[^c-3738287337443050cca92b0bd1c505ca]
 
 (1) This article applies to any calf, including those still-born or aborted, born into a bovine herd which has, or in the last 12 months has had, a collective status of not negative, in accordance with article 28(b).
 
 (2) Before the calf is 20 days old, or as far as reasonably practicable within 7 days where the calf is still-born or aborted, the keeper must take an ear tag sample of tissue in accordance with article 13 for testing by an approved laboratory.
 
-### 36. Submission and testing of samples from calves born into herds with a collective BVD status of not negative[^key-4b6c79bca15f7ce04b73d1f6225bd5b5]
+### 36. Submission and testing of samples from calves born into herds with a collective BVD status of not negative[^c-4b6c79bca15f7ce04b73d1f6225bd5b5]
 
 On receipt of a sample taken under article 35(2), the operator of the approved laboratory must—
 
 - (a) test the sample for the presence of BVDV, and
 - (b) determine whether or not BVDV is present in the sample.
 
-### 37. Notification of test results[^key-d72ce6cdf25f429e71dc5cb67137957d]
+### 37. Notification of test results[^c-d72ce6cdf25f429e71dc5cb67137957d]
 
 Following completion of the test under article 36, the operator of the approved laboratory must by notice inform the keeper, the Welsh Ministers and the veterinary surgeon (where relevant) of each test result and—
 
@@ -461,7 +461,7 @@ Following completion of the test under article 36, the operator of the approved 
 
 ## PART 6 — Movement restrictions and isolation of persistently infected animals
 
-### 38. Restrictions on movement where a herd has a collective BVD status of not negative[^key-24b5a61d43027523c365fd82905acb38]
+### 38. Restrictions on movement where a herd has a collective BVD status of not negative[^c-24b5a61d43027523c365fd82905acb38]
 
 (1) Subject to paragraph (2), a keeper must not move a bovine animal off a holding if the animal is part of a bovine herd which has a collective BVD status of not negative.
 
@@ -471,7 +471,7 @@ Following completion of the test under article 36, the operator of the approved 
 - (b) the movement is to a place for veterinary treatment, provided the animal is returned direct to its premises of origin after the treatment, is killed or goes direct to slaughter, or
 - (c) the movement is under licence granted by a veterinary inspector or the Welsh Ministers.
 
-### 39. Restrictions on movement where an animal has an individual BVD status of positive[^key-37700e08a734d69533ff5c07667feb73]
+### 39. Restrictions on movement where an animal has an individual BVD status of positive[^c-37700e08a734d69533ff5c07667feb73]
 
 (1) Subject to paragraph (2), a keeper must not move a bovine animal off a holding if the animal has an individual BVD status of positive.
 
@@ -482,13 +482,13 @@ Following completion of the test under article 36, the operator of the approved 
 - (c) the movement is under licence granted by a veterinary inspector or the Welsh Ministers, or
 - (d) the animal has an individual BVD status of negative following a pre-movement test under article 40.
 
-### 40. Pre-movement testing[^key-5d86b1e049e14499de0edbf8ff450fb0]
+### 40. Pre-movement testing[^c-5d86b1e049e14499de0edbf8ff450fb0]
 
 (1) This article applies to every bovine animal in a herd where that herd has a collective BVD status of not negative.
 
-(2) Where the animal is to be moved off the holding, the keeper must, no more than 60[^key-25d48c229ced9e2c8493dfcd58f3cfa1] days prior to the movement—
+(2) Where the animal is to be moved off the holding, the keeper must, no more than 60[^c-25d48c229ced9e2c8493dfcd58f3cfa1] days prior to the movement—
 
-- (za)[^key-dd0fce8e7ec4201d460e2be3a0364409] for animals that (at the point a sample is taken) are aged 20 days or less, take an ear tag sample of tissue in accordance with article 13, or
+- (za)[^c-dd0fce8e7ec4201d460e2be3a0364409] for animals that (at the point a sample is taken) are aged 20 days or less, take an ear tag sample of tissue in accordance with article 13, or
 - (a) arrange for an approved veterinary surgeon, or person under the direction of an approved veterinary surgeon, to take an ear tag sample of tissue in accordance with article 13, or
 - (b) arrange for an approved veterinary surgeon, or person under the direction of an approved veterinary surgeon, to take a sample of blood,
 
@@ -512,13 +512,13 @@ from the animal for testing by an approved laboratory.
 
 (8) Where a bovine animal is to be moved from its current holding to another holding, the keeper of the animal must inform the keeper at the holding of destination of the result of the test under paragraph (5) no more than 3 days before moving the animal.
 
-### 41. Post-movement testing of animals without a known individual BVD status from herds outside of Wales[^key-86d29074f94d6b9bd4e17c1f028a280d]
+### 41. Post-movement testing of animals without a known individual BVD status from herds outside of Wales[^c-86d29074f94d6b9bd4e17c1f028a280d]
 
 (1) This article applies to bovine animals from outside of Wales which are moved onto a holding in Wales and have no individual BVD status.
 
 (2) Where this article applies, a keeper must, no more than 20 days post-movement onto the holding—
 
-- (za)[^key-208adeee388a470cee2db180eb34457c] take an ear tag sample of tissue in accordance with article 13, or
+- (za)[^c-208adeee388a470cee2db180eb34457c] take an ear tag sample of tissue in accordance with article 13, or
 - (a) arrange for an approved veterinary surgeon, or person under the direction of an approved veterinary surgeon, to take an ear tag sample of tissue in accordance with article 13, or
 - (b) arrange for an approved veterinary surgeon, or person under the direction of an approved veterinary surgeon, to take a sample of blood,
 
@@ -541,7 +541,7 @@ from the animal for testing by an approved laboratory.
 - (a) has calved, or
 - (b) has an individual BVD status of negative under paragraph (4)(a).
 
-### 42. Restrictions on the movement of animals where sampling obligations are not met[^key-f472be7d8818660a444246a2238cfc08]
+### 42. Restrictions on the movement of animals where sampling obligations are not met[^c-f472be7d8818660a444246a2238cfc08]
 
 (1) This article applies to the keeper of a bovine herd or bovine animal if, by the date of the most recent compliance deadline (set in accordance with article 26), the keeper has failed to comply with any of their obligations in articles 25, 29 or 32 (in this article “the applicable obligations”).
 
@@ -560,7 +560,7 @@ from the animal for testing by an approved laboratory.
   - (i) complied with all of the applicable obligations, and
   - (ii) received a notification in respect of the samples tested in accordance with those obligations.
 
-### 43. Isolation of bovine animals which are persistently infected[^key-b53a83b8bff56c33512780c7cf0e259e]
+### 43. Isolation of bovine animals which are persistently infected[^c-b53a83b8bff56c33512780c7cf0e259e]
 
 (1) This article applies to a bovine herd which contains one or more bovine animals with an individual BVD status of persistently infected in accordance with article 34(b).
 
@@ -583,7 +583,7 @@ from the animal for testing by an approved laboratory.
 
 (5) A bovine animal does not cease to be part of a bovine herd by virtue of its separation under this article.
 
-### 44. Meaning of “moved to slaughter”[^key-88e709508716b20733eccd50b3334553]
+### 44. Meaning of “moved to slaughter”[^c-88e709508716b20733eccd50b3334553]
 
 (1) In this Part, where any bovine animal is “moved to slaughter” this means that the animal is being moved under the conditions specified in paragraph (2).
 
@@ -594,13 +594,13 @@ from the animal for testing by an approved laboratory.
 
 ## PART 7 — Enforcement
 
-### 45. Enforcement[^key-74668e825a04e65ff131b5e702d4ce29]
+### 45. Enforcement[^c-74668e825a04e65ff131b5e702d4ce29]
 
 (1) Subject to paragraph (2), this Order is enforced by the local authority.
 
 (2) The Welsh Ministers may direct, in relation to any particular case or class of case, that they will enforce this Order instead of the local authority.
 
-### 46. Powers of entry[^key-940b791ac42bd1bcc592507075b51132]
+### 46. Powers of entry[^c-940b791ac42bd1bcc592507075b51132]
 
 (1) An inspector may, on producing a duly authenticated authorisation if requested, enter any premises (except premises used wholly as a private dwelling) at any reasonable hour for the purpose of enforcing this Order.
 
@@ -620,7 +620,7 @@ from the animal for testing by an approved laboratory.
 
 (5) An inspector entering premises which are unoccupied or from which the occupier is temporarily absent must leave the premises as effectively secured against unauthorised entry as they were before entry.
 
-### 47. Powers of inspectors[^key-655bc4441ad0c3b441e51d046cffa2e9]
+### 47. Powers of inspectors[^c-655bc4441ad0c3b441e51d046cffa2e9]
 
 (1) An inspector entering premises may for the purposes of enforcing this Order—
 
@@ -637,7 +637,7 @@ from the animal for testing by an approved laboratory.
 - (a) take any necessary equipment or vehicle on to the premises;
 - (b) be accompanied by such other persons as the inspector considers necessary.
 
-### 48. Offences by bodies corporate[^key-3c5d687d3b4ab18d3fdd9c6f31eab7e7]
+### 48. Offences by bodies corporate[^c-3c5d687d3b4ab18d3fdd9c6f31eab7e7]
 
 (1) If an offence against the Act is committed by a body corporate, and is shown to have been committed with the consent or connivance of an officer, or to be attributable to the neglect of such officer, that officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -677,114 +677,114 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions of “the Ministers” under the Animal Health Act 1981 (as defined in section 86(1) of that Act) are exercisable by the Welsh Ministers (in relation to Wales) by virtue of the National Assembly (Transfer of Functions) Orders 1999 and 2004 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and [S.I. 2004/3044](https://www.legislation.gov.uk/uksi/2004/3044)) and section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-b72e52e29cef1ca0d9fdacc11443f58d]: Commencement: Art. 1 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-b72e52e29cef1ca0d9fdacc11443f58d]: Commencement: Art. 1 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-8d48f18f3cc6210cefb98390f42d4744]: Textual amendment: Word in [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4) substituted (8.5.2025) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2025 (S.I. 2025/516)](https://www.legislation.gov.uk/wsi/2025/516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/516/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/516/article/2/2)
+[^c-8d48f18f3cc6210cefb98390f42d4744]: Textual amendment: Word in [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4) substituted (8.5.2025) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2025 (S.I. 2025/516)](https://www.legislation.gov.uk/wsi/2025/516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/516/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/516/article/2/2)
 
-[^key-fefa73ad5810bf1c2f446f0da4ef94ee]: Commencement: Art. 2 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-fefa73ad5810bf1c2f446f0da4ef94ee]: Commencement: Art. 2 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
 [^f00002]: Footnote: [S.I. 2007/842 (W. 74)](https://www.legislation.gov.uk/wsi/2007/842), as amended by [S.I. 2019/92 (W. 24)](https://www.legislation.gov.uk/wsi/2019/92).
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-071dfe7f285765fc730985dac7b3098c]: Commencement: Art. 3 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-071dfe7f285765fc730985dac7b3098c]: Commencement: Art. 3 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-358fc0123d98d9df9c4620f1e815f110]: Commencement: Art. 4 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-358fc0123d98d9df9c4620f1e815f110]: Commencement: Art. 4 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-e030765bdab175aba49b9b977c7d79ff]: Commencement: Art. 5 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-e030765bdab175aba49b9b977c7d79ff]: Commencement: Art. 5 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-8e816e5224e7fab3e808e4750f9d877e]: Commencement: Art. 6 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-8e816e5224e7fab3e808e4750f9d877e]: Commencement: Art. 6 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-d9ebdbc18d6b43421829beb245f7d90b]: Commencement: Art. 7 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-d9ebdbc18d6b43421829beb245f7d90b]: Commencement: Art. 7 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-0ba84ca03b6598174d1065032a2116a6]: Commencement: Art. 8 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-0ba84ca03b6598174d1065032a2116a6]: Commencement: Art. 8 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-97614281f4f112ab1dc21a0db004c302]: Commencement: Art. 9 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-97614281f4f112ab1dc21a0db004c302]: Commencement: Art. 9 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-af339503a47bbd012811b63f55a29dd4]: Commencement: Art. 10 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-af339503a47bbd012811b63f55a29dd4]: Commencement: Art. 10 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-304f8c0359622cdea3c8f734bce11ac9]: Commencement: Art. 11 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-304f8c0359622cdea3c8f734bce11ac9]: Commencement: Art. 11 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-a032f61791696200c2984c71baf5b4cc]: Textual amendment: Word in [Order](https://www.legislation.gov.uk/wsi/2024/753) substituted (8.5.2025) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2025 (S.I. 2025/516)](https://www.legislation.gov.uk/wsi/2025/516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/516/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/516/article/2/3)
+[^c-a032f61791696200c2984c71baf5b4cc]: Textual amendment: Word in [Order](https://www.legislation.gov.uk/wsi/2024/753) substituted (8.5.2025) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2025 (S.I. 2025/516)](https://www.legislation.gov.uk/wsi/2025/516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/516/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/516/article/2/3)
 
-[^key-b441357b1c5da3349e788ec470b8d7ef]: Commencement: Art. 12 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-b441357b1c5da3349e788ec470b8d7ef]: Commencement: Art. 12 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-03b2755d789ba7d04b419c6fbf83403e]: Commencement: Art. 13 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-03b2755d789ba7d04b419c6fbf83403e]: Commencement: Art. 13 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-7fbe75dbb216b36767ef4e1061b9f9cc]: Commencement: Art. 14 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-7fbe75dbb216b36767ef4e1061b9f9cc]: Commencement: Art. 14 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-92b8ed8520795f3ff8ba7b96fbee10c0]: Commencement: Art. 15 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-92b8ed8520795f3ff8ba7b96fbee10c0]: Commencement: Art. 15 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-d0e0ebffc640795ec853d56ba080665c]: Commencement: Art. 16 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-d0e0ebffc640795ec853d56ba080665c]: Commencement: Art. 16 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-7599842ba10c95f5732229312aa4add8]: Commencement: Art. 17 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-7599842ba10c95f5732229312aa4add8]: Commencement: Art. 17 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-b4bea3a5b4a4ebc89969a17581bafa9c]: Commencement: Art. 18 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-b4bea3a5b4a4ebc89969a17581bafa9c]: Commencement: Art. 18 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-5f3e6332404106c9d642c89e6d5b9616]: Commencement: Art. 19 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-5f3e6332404106c9d642c89e6d5b9616]: Commencement: Art. 19 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-986b551bc9033e437b81c3f7dbee5c17]: Commencement: Art. 20 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-986b551bc9033e437b81c3f7dbee5c17]: Commencement: Art. 20 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-01eb8251b828147e024fced81313350a]: Commencement: Art. 21 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-01eb8251b828147e024fced81313350a]: Commencement: Art. 21 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-95f886b1197dc305f621d90525174492]: Commencement: Art. 22 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-95f886b1197dc305f621d90525174492]: Commencement: Art. 22 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-6bb0f3a5f0a383ce13cfb7a4c7c170f6]: Commencement: Art. 23 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-6bb0f3a5f0a383ce13cfb7a4c7c170f6]: Commencement: Art. 23 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-afa234381de00d4c6a0447acbd41a7ff]: Commencement: Art. 24 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-afa234381de00d4c6a0447acbd41a7ff]: Commencement: Art. 24 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-66878ef8f058306d2bda694f848e49b7]: Commencement: Art. 25 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-66878ef8f058306d2bda694f848e49b7]: Commencement: Art. 25 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-96de202bf76b7e5a047d6cf67edc31d8]: Commencement: Art. 26 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-96de202bf76b7e5a047d6cf67edc31d8]: Commencement: Art. 26 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-d8c70630d5c9190c22266313a3814132]: Commencement: Art. 27 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-d8c70630d5c9190c22266313a3814132]: Commencement: Art. 27 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-a694954d96afc52b382b96b7948ec6bc]: Commencement: Art. 28 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-a694954d96afc52b382b96b7948ec6bc]: Commencement: Art. 28 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-421e3f415c9016bc996a6d959d5dece5]: Commencement: Art. 29 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-421e3f415c9016bc996a6d959d5dece5]: Commencement: Art. 29 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-b1234d631eef4bc89be61493a0faefa1]: Commencement: Art. 30 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-b1234d631eef4bc89be61493a0faefa1]: Commencement: Art. 30 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-a1b6c77e63bb5f6311beadf6b049ec8b]: Commencement: Art. 31 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-a1b6c77e63bb5f6311beadf6b049ec8b]: Commencement: Art. 31 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-0932c0332cfed7210b38b6e8529802fb]: Commencement: Art. 32 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-0932c0332cfed7210b38b6e8529802fb]: Commencement: Art. 32 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-73fc0b608075ac8a1a81ca2aabecd3e4]: Commencement: Art. 33 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-73fc0b608075ac8a1a81ca2aabecd3e4]: Commencement: Art. 33 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-6fa0bd827c12cb2b74eebcc57e2f040e]: Commencement: Art. 34 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-6fa0bd827c12cb2b74eebcc57e2f040e]: Commencement: Art. 34 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-3738287337443050cca92b0bd1c505ca]: Commencement: [Art. 35](https://www.legislation.gov.uk/wsi/2024/753/article/35) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-3738287337443050cca92b0bd1c505ca]: Commencement: [Art. 35](https://www.legislation.gov.uk/wsi/2024/753/article/35) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-4b6c79bca15f7ce04b73d1f6225bd5b5]: Commencement: [Art. 36](https://www.legislation.gov.uk/wsi/2024/753/article/36) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-4b6c79bca15f7ce04b73d1f6225bd5b5]: Commencement: [Art. 36](https://www.legislation.gov.uk/wsi/2024/753/article/36) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-d72ce6cdf25f429e71dc5cb67137957d]: Commencement: [Art. 37](https://www.legislation.gov.uk/wsi/2024/753/article/37) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-d72ce6cdf25f429e71dc5cb67137957d]: Commencement: [Art. 37](https://www.legislation.gov.uk/wsi/2024/753/article/37) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-24b5a61d43027523c365fd82905acb38]: Commencement: [Art. 38](https://www.legislation.gov.uk/wsi/2024/753/article/38) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-24b5a61d43027523c365fd82905acb38]: Commencement: [Art. 38](https://www.legislation.gov.uk/wsi/2024/753/article/38) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-37700e08a734d69533ff5c07667feb73]: Commencement: [Art. 39](https://www.legislation.gov.uk/wsi/2024/753/article/39) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-37700e08a734d69533ff5c07667feb73]: Commencement: [Art. 39](https://www.legislation.gov.uk/wsi/2024/753/article/39) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-5d86b1e049e14499de0edbf8ff450fb0]: Commencement: [Art. 40](https://www.legislation.gov.uk/wsi/2024/753/article/40) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-5d86b1e049e14499de0edbf8ff450fb0]: Commencement: [Art. 40](https://www.legislation.gov.uk/wsi/2024/753/article/40) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-25d48c229ced9e2c8493dfcd58f3cfa1]: Textual amendment: Word in [art. 40(2)](https://www.legislation.gov.uk/wsi/2024/753/article/40/2) substituted (8.5.2025) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2025 (S.I. 2025/516)](https://www.legislation.gov.uk/wsi/2025/516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/516/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2025/516/article/2/4)
+[^c-25d48c229ced9e2c8493dfcd58f3cfa1]: Textual amendment: Word in [art. 40(2)](https://www.legislation.gov.uk/wsi/2024/753/article/40/2) substituted (8.5.2025) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2025 (S.I. 2025/516)](https://www.legislation.gov.uk/wsi/2025/516), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/516/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2025/516/article/2/4)
 
-[^key-dd0fce8e7ec4201d460e2be3a0364409]: Textual amendment: [Art. 40(2)(za)](https://www.legislation.gov.uk/wsi/2024/753/article/40/2/za) inserted (1.7.2026) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2026 (W.S.I. 2026/110)](https://www.legislation.gov.uk/wsi/2026/110), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/110/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/110/article/2/2)
+[^c-dd0fce8e7ec4201d460e2be3a0364409]: Textual amendment: [Art. 40(2)(za)](https://www.legislation.gov.uk/wsi/2024/753/article/40/2/za) inserted (1.7.2026) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2026 (W.S.I. 2026/110)](https://www.legislation.gov.uk/wsi/2026/110), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/110/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2026/110/article/2/2)
 
-[^key-86d29074f94d6b9bd4e17c1f028a280d]: Commencement: [Art. 41](https://www.legislation.gov.uk/wsi/2024/753/article/41) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
+[^c-86d29074f94d6b9bd4e17c1f028a280d]: Commencement: [Art. 41](https://www.legislation.gov.uk/wsi/2024/753/article/41) in force at 1.7.2025, see [art. 1(4)](https://www.legislation.gov.uk/wsi/2024/753/article/1/4)
 
-[^key-208adeee388a470cee2db180eb34457c]: Textual amendment: [Art. 41(2)(za)](https://www.legislation.gov.uk/wsi/2024/753/article/41/2/za) inserted (1.7.2026) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2026 (W.S.I. 2026/110)](https://www.legislation.gov.uk/wsi/2026/110), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/110/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/110/article/2/3)
+[^c-208adeee388a470cee2db180eb34457c]: Textual amendment: [Art. 41(2)(za)](https://www.legislation.gov.uk/wsi/2024/753/article/41/2/za) inserted (1.7.2026) by [The Bovine Viral Diarrhoea (Wales) (Amendment) Order 2026 (W.S.I. 2026/110)](https://www.legislation.gov.uk/wsi/2026/110), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2026/110/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/110/article/2/3)
 
-[^key-f472be7d8818660a444246a2238cfc08]: Commencement: Art. 42 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-f472be7d8818660a444246a2238cfc08]: Commencement: Art. 42 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-b53a83b8bff56c33512780c7cf0e259e]: Commencement: Art. 43 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-b53a83b8bff56c33512780c7cf0e259e]: Commencement: Art. 43 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-88e709508716b20733eccd50b3334553]: Commencement: Art. 44 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-88e709508716b20733eccd50b3334553]: Commencement: Art. 44 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-74668e825a04e65ff131b5e702d4ce29]: Commencement: Art. 45 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-74668e825a04e65ff131b5e702d4ce29]: Commencement: Art. 45 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-940b791ac42bd1bcc592507075b51132]: Commencement: Art. 46 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-940b791ac42bd1bcc592507075b51132]: Commencement: Art. 46 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-655bc4441ad0c3b441e51d046cffa2e9]: Commencement: Art. 47 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-655bc4441ad0c3b441e51d046cffa2e9]: Commencement: Art. 47 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
 
-[^key-3c5d687d3b4ab18d3fdd9c6f31eab7e7]: Commencement: Art. 48 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)
+[^c-3c5d687d3b4ab18d3fdd9c6f31eab7e7]: Commencement: Art. 48 in force at 1.7.2024, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2024/753/article/1/3)

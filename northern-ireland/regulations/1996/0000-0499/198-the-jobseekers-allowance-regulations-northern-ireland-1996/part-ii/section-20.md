@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Further circumstances in which a person is to be treated as actively seeking employment: permitted period[^key-911c5d588261ff226857d5a815adf037]
+## 20. Further circumstances in which a person is to be treated as actively seeking employment: permitted period[^c-911c5d588261ff226857d5a815adf037]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-911c5d588261ff226857d5a815adf037]: Commencement: Reg. 20 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-911c5d588261ff226857d5a815adf037]: Commencement: Reg. 20 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

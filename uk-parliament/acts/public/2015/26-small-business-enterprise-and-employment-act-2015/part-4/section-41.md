@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. The Adjudicator[^key-68ed26c24264090971b9b060ee55c4d5]
+## 41. The Adjudicator[^c-68ed26c24264090971b9b060ee55c4d5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68ed26c24264090971b9b060ee55c4d5]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2015/26/section/41) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/a)
+[^c-68ed26c24264090971b9b060ee55c4d5]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2015/26/section/41) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/a)

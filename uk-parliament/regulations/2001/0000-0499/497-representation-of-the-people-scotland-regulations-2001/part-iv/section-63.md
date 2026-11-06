@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Certificate of employment at a parliamentary election[^key-1fe041e62cbce5421b95475971c58d0f]
+## 63. Certificate of employment at a parliamentary election[^c-1fe041e62cbce5421b95475971c58d0f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fe041e62cbce5421b95475971c58d0f]: Commencement: Reg. 63 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-1fe041e62cbce5421b95475971c58d0f]: Commencement: Reg. 63 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

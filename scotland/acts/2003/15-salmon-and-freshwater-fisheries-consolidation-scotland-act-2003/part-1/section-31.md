@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Salmon fishing: general regulations[^key-816c4c8ed952bdb76c741dd598edcf2b]
+## 31. Salmon fishing: general regulations[^c-816c4c8ed952bdb76c741dd598edcf2b]
 
 *Extent: S*
 
@@ -52,7 +52,7 @@ whether by reference to anything used for the purpose, or to the circumstances i
 (5) The Scottish Ministers may, after consulting such persons as they consider appropriate, make regulations amending section 13 of this Act, but such regulations shall not reduce—
 
 - (a) the weekly close time to a period of less than 42 hours;
-- (b) the period within the weekly close time during which it is permitted to fish for salmon by rod and line to less than 18[^key-25b26bf5f8bf46928f71a61f23620521] hours; or
+- (b) the period within the weekly close time during which it is permitted to fish for salmon by rod and line to less than 18[^c-25b26bf5f8bf46928f71a61f23620521] hours; or
 - (c) the period during which all fishing for salmon is prohibited to less than 24 hours.
 
 (6) Any proprietor or occupier of a fishery at which stake weirs, stake nets, fly nets or bag nets are used who fails, in regard to such weirs or nets, to do all acts required by regulations made under subsection (1) above for the observance of the weekly close time shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
@@ -63,6 +63,6 @@ whether by reference to anything used for the purpose, or to the circumstances i
 
 ## Annotations
 
-[^key-816c4c8ed952bdb76c741dd598edcf2b]: Commencement: S. 31 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-816c4c8ed952bdb76c741dd598edcf2b]: Commencement: S. 31 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-25b26bf5f8bf46928f71a61f23620521]: Textual amendment: Word in s. 31(5)(b) substituted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(3)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/3) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-25b26bf5f8bf46928f71a61f23620521]: Textual amendment: Word in s. 31(5)(b) substituted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(3)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/3) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

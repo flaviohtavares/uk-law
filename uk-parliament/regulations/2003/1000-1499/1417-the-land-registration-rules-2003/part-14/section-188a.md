@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188A. Notification of application where registered proprietor is a dissolved company[^key-c0be5839c4de24b74cf445d0b0d0cb85]
+## 188A. Notification of application where registered proprietor is a dissolved company[^c-c0be5839c4de24b74cf445d0b0d0cb85]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0be5839c4de24b74cf445d0b0d0cb85]: Textual amendment: Rule 188A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/60) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-c0be5839c4de24b74cf445d0b0d0cb85]: Textual amendment: Rule 188A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/60) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

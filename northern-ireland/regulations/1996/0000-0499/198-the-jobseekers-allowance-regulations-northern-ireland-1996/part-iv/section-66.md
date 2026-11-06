@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. The Jobseeker’s Agreement[^key-dfa2f2bf5ced4e84b013bd4772b2e4dd]
+## 66. The Jobseeker’s Agreement[^c-dfa2f2bf5ced4e84b013bd4772b2e4dd]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfa2f2bf5ced4e84b013bd4772b2e4dd]: Commencement: Reg. 66 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dfa2f2bf5ced4e84b013bd4772b2e4dd]: Commencement: Reg. 66 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

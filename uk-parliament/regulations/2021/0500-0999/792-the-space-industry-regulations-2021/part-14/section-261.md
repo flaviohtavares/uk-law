@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Disclosure to authorities[^key-17759d1551994b58245d37823af54dfc]
+## 261. Disclosure to authorities[^c-17759d1551994b58245d37823af54dfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17759d1551994b58245d37823af54dfc]: Commencement: Reg. 261 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-17759d1551994b58245d37823af54dfc]: Commencement: Reg. 261 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

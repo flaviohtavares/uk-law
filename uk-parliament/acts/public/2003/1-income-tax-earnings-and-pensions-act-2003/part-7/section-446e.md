@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446E. Charge on restricted securities[^key-198fd296557cbd9940e05c1cadf0b299]
+## 446E. Charge on restricted securities[^c-198fd296557cbd9940e05c1cadf0b299]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where the market value of employment-related securities which are restricted securities or a restricted interest in securities is artificially low—
 
 - (a) immediately after an event which is a chargeable event in relation to the employment-related securities for the purposes of section 426 (charge on restricted securities),
-- (aa)[^key-56a131bc15e45f4935ea35d896b10a6f] immediately before the employment-related securities are disposed of (in circumstances which do not constitute such an event) or are cancelled without being disposed of, or
+- (aa)[^c-56a131bc15e45f4935ea35d896b10a6f] immediately before the employment-related securities are disposed of (in circumstances which do not constitute such an event) or are cancelled without being disposed of, or
 - (b) on 5th April in any year.
 
 (2) The market value of the employment-related securities is artificially low where it has been reduced by at least 10% as a result of things done otherwise than for genuine commercial purposes within the relevant period.
 
-(3)[^key-c31e89d25ca99c0c70b449ad7407ad3c] “**The relevant period**”is the period beginning—
+(3)[^c-c31e89d25ca99c0c70b449ad7407ad3c] “**The relevant period**”is the period beginning—
 
 - (a) if section 425(2) (no charge on acquisition of certain restricted securities or restricted interests in securities) applied in relation to the employment-related securities, 7 years before the acquisition, and
 - (b) in any other case, 7 years before the relevant date,
@@ -62,8 +62,8 @@ and ending with the relevant date.
 
 ## Annotations
 
-[^key-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
+[^c-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
 
-[^key-56a131bc15e45f4935ea35d896b10a6f]: Textual amendment: S. 446E(1)(aa) inserted (retrospective to 7.5.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/2)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/4) (with [s. 87(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/5))
+[^c-56a131bc15e45f4935ea35d896b10a6f]: Textual amendment: S. 446E(1)(aa) inserted (retrospective to 7.5.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/2)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/4) (with [s. 87(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/5))
 
-[^key-c31e89d25ca99c0c70b449ad7407ad3c]: Textual amendment: Ss. 446E(3)-(10) substituted for (retrospective to 7.5.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 87(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/4) (with [s. 87(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/5))
+[^c-c31e89d25ca99c0c70b449ad7407ad3c]: Textual amendment: Ss. 446E(3)-(10) substituted for (retrospective to 7.5.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 87(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/4) (with [s. 87(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/87/5))

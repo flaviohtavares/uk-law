@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Payment of grants for fees[^key-e596fe7550fc10a5cef37984cea8f32b]
+## 96. Payment of grants for fees[^c-e596fe7550fc10a5cef37984cea8f32b]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e596fe7550fc10a5cef37984cea8f32b]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2007/195/regulation/96) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-e596fe7550fc10a5cef37984cea8f32b]: Commencement: [Reg. 96](https://www.legislation.gov.uk/nisr/2007/195/regulation/96) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

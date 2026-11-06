@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56C. Delegation of functions[^key-88c50653b921bb7f7e0f844b1c0358ec]
+## 56C. Delegation of functions[^c-88c50653b921bb7f7e0f844b1c0358ec]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88c50653b921bb7f7e0f844b1c0358ec]: Textual amendment: [Ss. 56A-56C](https://www.legislation.gov.uk/ukpga/1984/55/section/56A) inserted (6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 53(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/1), [170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/v)
+[^c-88c50653b921bb7f7e0f844b1c0358ec]: Textual amendment: [Ss. 56A-56C](https://www.legislation.gov.uk/ukpga/1984/55/section/56A) inserted (6.4.2023 for specified purposes) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 53(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/53/1), [170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/v)

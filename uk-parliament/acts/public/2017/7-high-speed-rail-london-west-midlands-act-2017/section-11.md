@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendments consequential on the Housing and Planning Act 2016[^key-d8e56d09e0c53245c01ed9c8fbcd27e8]
+## 11. Amendments consequential on the Housing and Planning Act 2016[^c-d8e56d09e0c53245c01ed9c8fbcd27e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 14 contains amendments to this Act that are consequential on provision 
 
 ## Annotations
 
-[^key-d8e56d09e0c53245c01ed9c8fbcd27e8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/7/section/11) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-d8e56d09e0c53245c01ed9c8fbcd27e8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/7/section/11) in force at 24.2.2017 by [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)

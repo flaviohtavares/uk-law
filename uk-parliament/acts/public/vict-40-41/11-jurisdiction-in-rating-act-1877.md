@@ -47,7 +47,7 @@ In this Act, if not inconsistent with the context, the following words and expre
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c569636]
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c569637]
 - As to Scotland, any Judge of the High Court of Session; and[^c569638]
-- As to the United Kingdom, any judge of the Supreme Court and any person acting as a judge of that court under section 38 of the Constitutional Reform Act 2005.[^key-5bd9b79f62925e0f8d5f22b1be883e4a] .
+- As to the United Kingdom, any judge of the Supreme Court and any person acting as a judge of that court under section 38 of the Constitutional Reform Act 2005.[^c-5bd9b79f62925e0f8d5f22b1be883e4a] .
 - “**Rate**” means any rate, tax, duty, or assessment, whether public, general or local, and also any fund formed from the proceeds of any such rate, tax, duty, or assessment, or applicable to the same, or like purposes to which any such rate, tax, duty, or assessment might be applied.
 
 ## Annotations
@@ -68,4 +68,4 @@ In this Act, if not inconsistent with the context, the following words and expre
 
 [^c569638]: Textual amendment: Words repealed (S.) (with re-enactment of the same words) so far as relating to Scotland by [Court of Session Act 1988 (c. 36, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1988/36), [s. 52](https://www.legislation.gov.uk/ukpga/1988/36/section/52) (2), Sch. 2 Pt. I Pt. II
 
-[^key-5bd9b79f62925e0f8d5f22b1be883e4a]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/40-41/11/section/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/10); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
+[^c-5bd9b79f62925e0f8d5f22b1be883e4a]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/40-41/11/section/3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/10); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)

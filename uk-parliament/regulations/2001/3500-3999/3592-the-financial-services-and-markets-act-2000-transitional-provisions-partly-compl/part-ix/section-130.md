@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Test to be applied by building society tribunal[^key-46972397aae1713eac7972412fe7958a]
+## 130. Test to be applied by building society tribunal[^c-46972397aae1713eac7972412fe7958a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46972397aae1713eac7972412fe7958a]: Commencement: Art. 130 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-46972397aae1713eac7972412fe7958a]: Commencement: Art. 130 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

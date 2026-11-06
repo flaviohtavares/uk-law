@@ -61,7 +61,7 @@ Now therefore, the Secretary of State in exercise of the powers conferred on him
 
 The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) (No. 2) Regulations 1999 [^c16485611] and the Chemicals (Hazard Information and Packaging for Supply) (Amendment) (No. 3) Regulations 1999 [^c16485621] are revoked.
 
-## 3. Amendment of the Dangerous Substances and Preparations (Safety) (Consolidation) Regulations 1994[^key-d84f9a732752dc77829a07df5c8d7945]
+## 3. Amendment of the Dangerous Substances and Preparations (Safety) (Consolidation) Regulations 1994[^c-d84f9a732752dc77829a07df5c8d7945]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1005,6 +1005,6 @@ A Regulatory Impact Assessment is available, copies of which have been placed in
 
 [^c16485621]: Marginal citation: [S.I. 1999/3194](https://www.legislation.gov.uk/uksi/1999/3194).
 
-[^key-d84f9a732752dc77829a07df5c8d7945]: Textual amendment: Reg. 3 revoked (24.8.2007) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2916/regulation/3))
+[^c-d84f9a732752dc77829a07df5c8d7945]: Textual amendment: Reg. 3 revoked (24.8.2007) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2916/regulation/3))
 
 [^c16485641]: Marginal citation: [S.I. 1994/3247](https://www.legislation.gov.uk/uksi/1994/3247), amended by [S.I. 1996/1092](https://www.legislation.gov.uk/uksi/1996/1092) which inserted Part III of Schedule 6. The 1994 Regulations have also been amended by [S.I. 1999/197](https://www.legislation.gov.uk/uksi/1999/197), [S.I](https://www.legislation.gov.uk/uksi/1999/197/section/I). 1999/3165 and [S.I. 2000/2381](https://www.legislation.gov.uk/uksi/2000/2381) in a manner not relevant to these Regulations.

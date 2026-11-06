@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. General powers and duties of district salmon fishery boards[^key-051f2930a3cd90eef0e16705b102f745]
+## 45. General powers and duties of district salmon fishery boards[^c-051f2930a3cd90eef0e16705b102f745]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-051f2930a3cd90eef0e16705b102f745]: Commencement: S. 45 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-051f2930a3cd90eef0e16705b102f745]: Commencement: S. 45 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

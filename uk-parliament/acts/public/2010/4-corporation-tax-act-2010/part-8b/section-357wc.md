@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357WC. Northern Ireland profits etc of firm determined under Chapter 6[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357WC. Northern Ireland profits etc of firm determined under Chapter 6[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where conditions A and B are met.
 
-(2) Condition A is that a firm is a Northern Ireland firm in an accounting period (“the firm's accounting period”) by virtue of the SME[^key-3fbc88efb61c72505afd82e4edb98e4b] (Northern Ireland employer) partnership condition in section 357WA.
+(2) Condition A is that a firm is a Northern Ireland firm in an accounting period (“the firm's accounting period”) by virtue of the SME[^c-3fbc88efb61c72505afd82e4edb98e4b] (Northern Ireland employer) partnership condition in section 357WA.
 
 (3) Condition B is that a partner in the firm is a company (“the corporate partner”) that is—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-3fbc88efb61c72505afd82e4edb98e4b]: Textual amendment: Words in [s. 357WC(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357WC/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/16)
+[^c-3fbc88efb61c72505afd82e4edb98e4b]: Textual amendment: Words in [s. 357WC(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357WC/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/16)

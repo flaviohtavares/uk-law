@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Disclosure of information relating to registration by other government departments.[^key-ba6e9254d0d0d675bfc77b15f63c8b6f]
+## 21. Disclosure of information relating to registration by other government departments.[^c-ba6e9254d0d0d675bfc77b15f63c8b6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ information for the purpose of assisting the Secretary of State in the performan
 
 ## Annotations
 
-[^key-ba6e9254d0d0d675bfc77b15f63c8b6f]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/1995/21/section/21) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-ba6e9254d0d0d675bfc77b15f63c8b6f]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/1995/21/section/21) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

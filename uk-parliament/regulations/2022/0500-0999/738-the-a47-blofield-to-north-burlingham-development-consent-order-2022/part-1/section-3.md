@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Disapplication of legislative provisions[^key-fb1b981b9c11a769296e9dbc1ec1a098]
+## 3. Disapplication of legislative provisions[^c-fb1b981b9c11a769296e9dbc1ec1a098]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The provisions of the Neighbourhood Planning Act 2017[^f00028] insofar as they r
 
 ## Annotations
 
-[^key-fb1b981b9c11a769296e9dbc1ec1a098]: Commencement: Art. 3 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-fb1b981b9c11a769296e9dbc1ec1a098]: Commencement: Art. 3 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00028]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

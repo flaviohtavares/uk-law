@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Ancillary provision[^key-e7bbfd5a3f61ba5e91a2036a867a3669]
+## 25. Ancillary provision[^c-e7bbfd5a3f61ba5e91a2036a867a3669]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7bbfd5a3f61ba5e91a2036a867a3669]: Commencement: S. 25 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)
+[^c-e7bbfd5a3f61ba5e91a2036a867a3669]: Commencement: S. 25 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)

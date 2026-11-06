@@ -39,16 +39,16 @@ amending Decision 2003/548/EC as regards the deletion of specific types of lease
 
 (2008/60/EC) (revoked)
 
-[^key-daa1e9cb1c5d62119ee3625e96f0049b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daa1e9cb1c5d62119ee3625e96f0049b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-daa1e9cb1c5d62119ee3625e96f0049b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-daa1e9cb1c5d62119ee3625e96f0049b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Addressees[^key-daa1e9cb1c5d62119ee3625e96f0049b]
+## Article 2. Addressees[^c-daa1e9cb1c5d62119ee3625e96f0049b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daa1e9cb1c5d62119ee3625e96f0049b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daa1e9cb1c5d62119ee3625e96f0049b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-daa1e9cb1c5d62119ee3625e96f0049b]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/919/regulation/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-daa1e9cb1c5d62119ee3625e96f0049b]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/919/regulation/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

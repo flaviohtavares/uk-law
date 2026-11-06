@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**311.**[^key-b7c76f5feaa0c722514e64256a56079f] In section 164(4)(b) (duty to co-operate and provide information in the exercise of social services functions) for “NHS trust” substitute “NHS Trust”.
+**311.**[^c-b7c76f5feaa0c722514e64256a56079f] In section 164(4)(b) (duty to co-operate and provide information in the exercise of social services functions) for “NHS trust” substitute “NHS Trust”.
 
 ## Annotations
 
-[^key-b7c76f5feaa0c722514e64256a56079f]: Commencement: Reg. 311 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b7c76f5feaa0c722514e64256a56079f]: Commencement: Reg. 311 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

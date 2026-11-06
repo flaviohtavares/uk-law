@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Duty to notify the Regulator of certain events[^key-ebb9fb8ec91b4f3ec2fe513b3f3c1f2b]
+## 108. Duty to notify the Regulator of certain events[^c-ebb9fb8ec91b4f3ec2fe513b3f3c1f2b]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb9fb8ec91b4f3ec2fe513b3f3c1f2b]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2021/1/section/108) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(e)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/e) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/950/regulation/4), [8](https://www.legislation.gov.uk/uksi/2021/950/regulation/8))
+[^c-ebb9fb8ec91b4f3ec2fe513b3f3c1f2b]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2021/1/section/108) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(e)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/e) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/950/regulation/4), [8](https://www.legislation.gov.uk/uksi/2021/950/regulation/8))

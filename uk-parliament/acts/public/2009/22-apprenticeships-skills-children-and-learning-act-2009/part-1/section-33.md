@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Ineffective provisions[^key-d47bef6c3c682b8fc231e7cc3dead845][^key-327038ab9412cfb9e8a6a2b00360f816][^key-86e3546cc5697f54eb7036d249310bac]
+## 33. Ineffective provisions[^c-d47bef6c3c682b8fc231e7cc3dead845][^c-327038ab9412cfb9e8a6a2b00360f816][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d47bef6c3c682b8fc231e7cc3dead845]: Commencement: S. 33 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-d47bef6c3c682b8fc231e7cc3dead845]: Commencement: S. 33 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
 
-[^key-327038ab9412cfb9e8a6a2b00360f816]: Commencement: S. 33 in force at 1.8.2011 for W. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 4](https://www.legislation.gov.uk/uksi/2011/200/article/4)
+[^c-327038ab9412cfb9e8a6a2b00360f816]: Commencement: S. 33 in force at 1.8.2011 for W. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 4](https://www.legislation.gov.uk/uksi/2011/200/article/4)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

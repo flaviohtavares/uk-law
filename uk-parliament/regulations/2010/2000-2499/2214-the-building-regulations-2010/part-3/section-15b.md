@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15B. Consultation in relation to fire safety: Wales[^key-efb973688ede6f21f479333990d71b48]
+## 15B. Consultation in relation to fire safety: Wales[^c-efb973688ede6f21f479333990d71b48]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (3) The duty to consult imposed by paragraph (2) does not apply where the building control authority is the enforcing authority.
 
-(4) Where a building control authority are required to consult the enforcing authority, they must not grant the application for building control approval until 15 [^key-b6f5da0568f64d0ef6230346352519c4]... days have elapsed from the date on which they consulted the enforcing authority, unless the enforcing authority has expressed its views to them before the expiry of those 15 [^key-b6f5da0568f64d0ef6230346352519c4]... days.
+(4) Where a building control authority are required to consult the enforcing authority, they must not grant the application for building control approval until 15 [^c-b6f5da0568f64d0ef6230346352519c4]... days have elapsed from the date on which they consulted the enforcing authority, unless the enforcing authority has expressed its views to them before the expiry of those 15 [^c-b6f5da0568f64d0ef6230346352519c4]... days.
 
 (5) In this regulation “**enforcing authority**” has the same meaning as in article 25 of the Regulatory Reform (Fire Safety) Order 2005.
 
 ## Annotations
 
-[^key-efb973688ede6f21f479333990d71b48]: Textual amendment: [Reg. 15B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/15B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2025/1320/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-efb973688ede6f21f479333990d71b48]: Textual amendment: [Reg. 15B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/15B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2025/1320/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
 
-[^key-b6f5da0568f64d0ef6230346352519c4]: Textual amendment: Word in [reg. 15B(4)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/15B/4) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(7)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/7)
+[^c-b6f5da0568f64d0ef6230346352519c4]: Textual amendment: Word in [reg. 15B(4)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/15B/4) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(7)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/7)

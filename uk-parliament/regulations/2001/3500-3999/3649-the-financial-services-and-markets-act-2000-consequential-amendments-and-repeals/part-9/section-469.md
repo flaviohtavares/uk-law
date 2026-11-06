@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 469. Authorised deposit takers and former authorised institutions: restriction on presentation of bankruptcy petition by partners[^key-7f50c44f40cec655ad131c91a5c79ea7]
+## 469. Authorised deposit takers and former authorised institutions: restriction on presentation of bankruptcy petition by partners[^c-7f50c44f40cec655ad131c91a5c79ea7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f50c44f40cec655ad131c91a5c79ea7]: Commencement: Art. 469 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7f50c44f40cec655ad131c91a5c79ea7]: Commencement: Art. 469 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

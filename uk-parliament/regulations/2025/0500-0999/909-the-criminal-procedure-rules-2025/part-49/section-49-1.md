@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.1. Notice required to accompany process served outside the United Kingdom and translations[^key-1c182dca1791b60917c0630f6447d180]
+## 49.1. Notice required to accompany process served outside the United Kingdom and translations[^c-1c182dca1791b60917c0630f6447d180]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c182dca1791b60917c0630f6447d180]: Commencement: [Rule 49.1](https://www.legislation.gov.uk/uksi/2025/909/rule/49.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1c182dca1791b60917c0630f6447d180]: Commencement: [Rule 49.1](https://www.legislation.gov.uk/uksi/2025/909/rule/49.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01323]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).

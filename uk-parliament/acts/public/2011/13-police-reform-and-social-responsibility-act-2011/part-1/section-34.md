@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Engagement with local people[^key-1a7415b4a31b6cd042dbe28ed3a61b8c]
+## 34. Engagement with local people[^c-1a7415b4a31b6cd042dbe28ed3a61b8c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a7415b4a31b6cd042dbe28ed3a61b8c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/13/section/34) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-1a7415b4a31b6cd042dbe28ed3a61b8c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/13/section/34) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

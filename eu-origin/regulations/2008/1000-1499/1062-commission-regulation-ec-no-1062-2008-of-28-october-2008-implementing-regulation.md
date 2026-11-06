@@ -35,109 +35,109 @@ implementing Regulation (EC) No 453/2008 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-1e958168f238bf9cb5e079042321c8de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e958168f238bf9cb5e079042321c8de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Seasonal adjustment procedures[^key-1e958168f238bf9cb5e079042321c8de]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Quality reports[^key-1e958168f238bf9cb5e079042321c8de]
+## Article 1. Seasonal adjustment procedures[^c-1e958168f238bf9cb5e079042321c8de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-1e958168f238bf9cb5e079042321c8de]
+## Article 2. Quality reports[^c-1e958168f238bf9cb5e079042321c8de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX 1[^key-1e958168f238bf9cb5e079042321c8de]
+## Article 3. Entry into force[^c-1e958168f238bf9cb5e079042321c8de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX 2 — Modalities and structure of the quality reports to be provided by Member States[^key-1e958168f238bf9cb5e079042321c8de]
+[^c-1e958168f238bf9cb5e079042321c8de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]PREAMBLE
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-1e958168f238bf9cb5e079042321c8de]GENERAL DESCRIPTION
+## ANNEX 1[^c-1e958168f238bf9cb5e079042321c8de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]A.
+## ANNEX 2 — Modalities and structure of the quality reports to be provided by Member States[^c-1e958168f238bf9cb5e079042321c8de]
+
+[^c-1e958168f238bf9cb5e079042321c8de]PREAMBLE
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1e958168f238bf9cb5e079042321c8de]GENERAL DESCRIPTION
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1e958168f238bf9cb5e079042321c8de]A.
 
 Sources, coverage and periodicity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]B.
+[^c-1e958168f238bf9cb5e079042321c8de]B.
 
 Sample survey
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]B.1.
+[^c-1e958168f238bf9cb5e079042321c8de]B.1.
 
 Sampling design
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]B.2.
+[^c-1e958168f238bf9cb5e079042321c8de]B.2.
 
 Weighting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]B.3.
+[^c-1e958168f238bf9cb5e079042321c8de]B.3.
 
 Data collection
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]C.
+[^c-1e958168f238bf9cb5e079042321c8de]C.
 
 Other sources
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]D.
+[^c-1e958168f238bf9cb5e079042321c8de]D.
 
 Disclosure rules
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]E.
+[^c-1e958168f238bf9cb5e079042321c8de]E.
 
 Seasonal adjustment
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]1.
+[^c-1e958168f238bf9cb5e079042321c8de]1.
 
 RELEVANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.
+[^c-1e958168f238bf9cb5e079042321c8de]2.
 
 ACCURACY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.1.
+[^c-1e958168f238bf9cb5e079042321c8de]2.1.
 
 Sampling errors
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.
 
 Non-sampling errors
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.1.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.1.
 
 Coverage errors
 
@@ -145,13 +145,13 @@ Coverage errors
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.2.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.2.
 
 Measurement and processing errors
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.3.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.3.
 
 Non-response errors
 
@@ -159,7 +159,7 @@ Non-response errors
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.4.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.4.
 
 Model assumption errors
 
@@ -167,73 +167,73 @@ Model assumption errors
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.5.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.5.
 
 Revisions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]2.2.6.
+[^c-1e958168f238bf9cb5e079042321c8de]2.2.6.
 
 Estimation of bias
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]3.
+[^c-1e958168f238bf9cb5e079042321c8de]3.
 
 TIMELINESS AND PUNCTUALITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]3.1.
+[^c-1e958168f238bf9cb5e079042321c8de]3.1.
 
 Timeliness
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]3.2.
+[^c-1e958168f238bf9cb5e079042321c8de]3.2.
 
 Punctuality
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]4.
+[^c-1e958168f238bf9cb5e079042321c8de]4.
 
 ACCESSIBILITY AND CLARITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]4.1.
+[^c-1e958168f238bf9cb5e079042321c8de]4.1.
 
 Accessibility
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]4.2.
+[^c-1e958168f238bf9cb5e079042321c8de]4.2.
 
 Clarity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]5.
+[^c-1e958168f238bf9cb5e079042321c8de]5.
 
 COMPARABILITY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]5.1.
+[^c-1e958168f238bf9cb5e079042321c8de]5.1.
 
 Geographical comparability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]5.2.
+[^c-1e958168f238bf9cb5e079042321c8de]5.2.
 
 Comparability over time
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e958168f238bf9cb5e079042321c8de]6.
+[^c-1e958168f238bf9cb5e079042321c8de]6.
 
 COHERENCE
 
@@ -241,4 +241,4 @@ COHERENCE
 
 ## Annotations
 
-[^key-1e958168f238bf9cb5e079042321c8de]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 137](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/137); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e958168f238bf9cb5e079042321c8de]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 137](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/137); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

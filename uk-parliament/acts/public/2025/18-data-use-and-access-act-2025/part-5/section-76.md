@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Time limits for responding to data subjects’ requests[^key-8ca923965f74153054fd48b16df157f2][^key-a3dc3adc162123f069e9e8c3954b0024]
+## 76. Time limits for responding to data subjects’ requests[^c-8ca923965f74153054fd48b16df157f2][^c-a3dc3adc162123f069e9e8c3954b0024]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,6 +128,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ca923965f74153054fd48b16df157f2]: Commencement: S. 76 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-8ca923965f74153054fd48b16df157f2]: Commencement: S. 76 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-a3dc3adc162123f069e9e8c3954b0024]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2025/18/section/76) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/82/regulation/4))
+[^c-a3dc3adc162123f069e9e8c3954b0024]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2025/18/section/76) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/h) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/82/regulation/4))

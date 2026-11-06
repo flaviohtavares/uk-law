@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Conflicts of interest[^key-e7e5f5ec1c0d26d72579ea243b41f544]
+## 40. Conflicts of interest[^c-e7e5f5ec1c0d26d72579ea243b41f544]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e5f5ec1c0d26d72579ea243b41f544]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2016/49/regulation/40) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-e7e5f5ec1c0d26d72579ea243b41f544]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2016/49/regulation/40) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

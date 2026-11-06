@@ -56,7 +56,7 @@ Building Regulations (Northern Ireland) Order 1979 [^c11613821]
 - “plans” includes any document, drawing, specifications or materials referred to in building regulations;
 - “premises” includes sites and buildings;
 - “prescribed” means prescribed by building regulations;
-- [^key-046060f014975c5195dd07e9a6d8e5df]...
+- [^c-046060f014975c5195dd07e9a6d8e5df]...
 - “site” in relation to a house, building, or other erection means the whole space to be occupied by such house, building or other erection between the level of the bottom of the foundations and the level of the base of the walls;
 - “statutory provision” and “transferred provision” have the respective meanings assigned to them by paragraphs ( *f*) and ( *g*) of section 1 of the Interpretation Act (Northern Ireland) 1954 [^m00006].
 
@@ -108,8 +108,8 @@ Building Regulations (Northern Ireland) Order 1979 [^c11613821]
 
 (2) In this Article “**protected buildings**” means—
 
-- (a) listed buildings within the meaning of the Planning Act (Northern Ireland) 2011[^key-212410c5faa7c354edcee985f72627e9] ; and
-- (b) buildings situated in conservation areas within the meaning of that Act[^key-647c824dd0e6c00c21c159bf528be183] .
+- (a) listed buildings within the meaning of the Planning Act (Northern Ireland) 2011[^c-212410c5faa7c354edcee985f72627e9] ; and
+- (b) buildings situated in conservation areas within the meaning of that Act[^c-647c824dd0e6c00c21c159bf528be183] .
 
 ## 4. Building Regulations Advisory Committee
 
@@ -124,8 +124,8 @@ Building Regulations (Northern Ireland) Order 1979 [^c11613821]
 (1) Without prejudice to the generality of Article 3(1) building regulations may—
 
 - (a) classify buildings by reference to size, design, purpose, location or any other description whatsoever;
-- (b)[^key-642a1e593a8fa7f7f4d83f219f7ad6ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) be framed to any extent by reference to guidance[^key-ec5343cc161468e7025306ebc9707824] published (whether before or after the making of the regulations)[^c11614011] by the Department in accordance with Article 5A;[^key-70aa70c000c822f4e1cbf1ab98989024]
+- (b)[^c-642a1e593a8fa7f7f4d83f219f7ad6ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) be framed to any extent by reference to guidance[^c-ec5343cc161468e7025306ebc9707824] published (whether before or after the making of the regulations)[^c11614011] by the Department in accordance with Article 5A;[^c-70aa70c000c822f4e1cbf1ab98989024]
 - (d) make provision with respect to buildings or parts of buildings, together with any services, fittings or equipment provided in or in connection therewith, in cases where the purposes for which or the manner or circumstances in which a building or part of a building is used change in a way that constitutes a material change of use of the building or part within the meaning of the expression “material change of use” as defined for the purposes of this sub-paragraph by building regulations;
 - (e) make a prescribed person or class of persons (instead of district councils) responsible for performing prescribed functions of district councils under or in connection with building regulations, and for that purpose provide for any prescribed transferred provision relating to building regulations and any prescribed provision of such regulations to apply (with any prescribed modifications) in relation to a prescribed person or a person of a prescribed class as that transferred provision or provision applies in relation to a district council.
 
@@ -205,17 +205,17 @@ Building Regulations (Northern Ireland) Order 1979 [^c11613821]
 
 (8) In this Article and Article 8 “building matter” means any building or other matter whatsoever to which building regulations are in any circumstances applicable.
 
-## 8. Power of district councils to approve types of building, etc.[^M_I_04c9c9c3-0e16-4f43-aebe-71046a9b4655][^key-1d7eecbef6f9a20233e6c7cc301f7b2f]
+## 8. Power of district councils to approve types of building, etc.[^M_I_04c9c9c3-0e16-4f43-aebe-71046a9b4655][^c-1d7eecbef6f9a20233e6c7cc301f7b2f]
 
-(1) The following provisions of this Article shall have effect with a view to enabling a district council, on an application made to it[^key-9a8c31dca536e59d500a98d4c9e84ca6], to approve any particular type of building matter as complying, either generally or in any class of case, with particular requirements of building regulations.
+(1) The following provisions of this Article shall have effect with a view to enabling a district council, on an application made to it[^c-9a8c31dca536e59d500a98d4c9e84ca6], to approve any particular type of building matter as complying, either generally or in any class of case, with particular requirements of building regulations.
 
 (2) Paragraph (1) applies only to such building matters as may be prescribed for the purposes of this Article.
 
 (3) An application for the approval under this Article of a type of building matter shall comply with any requirements of building regulations as to the form of such applications and the particulars to be included therein.
 
-(3A)[^key-86b204492be7b1e7803dc9ba7732df44] Before approving a type of building matter as complying with particular requirements of building regulations, either generally or in any class of case, a district council shall consult with such persons as may be prescribed.
+(3A)[^c-86b204492be7b1e7803dc9ba7732df44] Before approving a type of building matter as complying with particular requirements of building regulations, either generally or in any class of case, a district council shall consult with such persons as may be prescribed.
 
-(4) Where under paragraph (1) a district council[^key-ae6af709d5e92fcaf1a48587530c4b49] approves a type of building matter as complying with particular requirements of building regulations either generally or in any class of case, it shall[^key-45347503dd9e6861aa6b7e7d6c117556] issue a certificate to that effect specifying—
+(4) Where under paragraph (1) a district council[^c-ae6af709d5e92fcaf1a48587530c4b49] approves a type of building matter as complying with particular requirements of building regulations either generally or in any class of case, it shall[^c-45347503dd9e6861aa6b7e7d6c117556] issue a certificate to that effect specifying—
 
 - (a) the type of building matter to which the certificate relates;
 - (b) the requirements of building regulations to which the certificate relates; and
@@ -225,19 +225,19 @@ Building Regulations (Northern Ireland) Order 1979 [^c11613821]
 
 (6) If, while a certificate under this Article is in force, it is found, in any particular case involving a building matter of the type to which the certificate relates, that the building matter in question is of that type and the case is one to which the certificate applies, that building matter shall in that particular case be deemed to comply with the requirements of building regulations to which the certificate relates.
 
-(7)[^key-4e37418f9a4ce5ca38e4ebdf16e04750] A district council may vary a certificate issued by it under this Article either on an application made to it or of its own accord and, except where it varies the certificate on the application of the person who applied for the certificate under paragraph (1), shall before varying it give that person reasonable notice that it proposes to do so.
+(7)[^c-4e37418f9a4ce5ca38e4ebdf16e04750] A district council may vary a certificate issued by it under this Article either on an application made to it or of its own accord and, except where it varies the certificate on the application of the person who applied for the certificate under paragraph (1), shall before varying it give that person reasonable notice that it proposes to do so.
 
-(8)[^key-9bc1df804722086c415ec05dd9b00990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9bc1df804722086c415ec05dd9b00990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-9bc1df804722086c415ec05dd9b00990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-9bc1df804722086c415ec05dd9b00990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10) Where a district council[^key-888fe7ff74054741aca6f1ea6dd07d51] issues a certificate under this Article or varies [^key-6e7868f0c3e7fdf890075b430e982326]... a certificate so issued, it shall publish notice of that fact in such manner as may be prescribed[^key-28aeb27265c71f17c552e4d35e3072be] .
+(10) Where a district council[^c-888fe7ff74054741aca6f1ea6dd07d51] issues a certificate under this Article or varies [^c-6e7868f0c3e7fdf890075b430e982326]... a certificate so issued, it shall publish notice of that fact in such manner as may be prescribed[^c-28aeb27265c71f17c552e4d35e3072be] .
 
-(11) If at any time a certificate under this Article ceases to have effect by virtue of paragraph (5) or is varied [^key-7297ec40ebad61922e6f91b6cdac0841]... under the preceding provisions of this Article that fact shall not affect the continued operation of paragraph (6) by virtue of that certificate in any case in which before that time plans of the proposed work were, in accordance with building regulations, deposited with a district council.
+(11) If at any time a certificate under this Article ceases to have effect by virtue of paragraph (5) or is varied [^c-7297ec40ebad61922e6f91b6cdac0841]... under the preceding provisions of this Article that fact shall not affect the continued operation of paragraph (6) by virtue of that certificate in any case in which before that time plans of the proposed work were, in accordance with building regulations, deposited with a district council.
 
-(12) For the purposes of paragraph (4) or any variation of a certificate under paragraph (7), a class of case may be framed in such manner as may be prescribed[^key-9e2843ec59e59f97505bdd325646f9ce] .
+(12) For the purposes of paragraph (4) or any variation of a certificate under paragraph (7), a class of case may be framed in such manner as may be prescribed[^c-9e2843ec59e59f97505bdd325646f9ce] .
 
-(13)[^key-9bc1df804722086c415ec05dd9b00990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-9bc1df804722086c415ec05dd9b00990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9. Special provisions as to materials, etc. unsuitable for permanent buildings
 
@@ -254,7 +254,7 @@ Building Regulations (Northern Ireland) Order 1979 [^c11613821]
 (3) Where plans of any proposed work are, in accordance with building regulations, deposited with a district council and the plans show that the proposed work would include or consist of work to which this Article applies, the council may, notwithstanding that the plans conform with the regulations—
 
 - (a) reject the plans; or
-- (b) in passing the plans fix a period on the expiration of which the work to which this Article applies or the relevant building (as the council may in passing the plans direct) must be removed and, if it thinks fit, impose with respect to the use of the relevant building or with respect to the work to which this Article applies such reasonable conditions, if any, as it considers appropriate, so however that no condition as to the use of the relevant building shall be imposed which conflicts with any condition imposed or having effect as if imposed under Parts 3 and 4 of the Planning Act (Northern Ireland) 2011[^key-b46e0ef26ea03cd24df7078cfd14783a] .
+- (b) in passing the plans fix a period on the expiration of which the work to which this Article applies or the relevant building (as the council may in passing the plans direct) must be removed and, if it thinks fit, impose with respect to the use of the relevant building or with respect to the work to which this Article applies such reasonable conditions, if any, as it considers appropriate, so however that no condition as to the use of the relevant building shall be imposed which conflicts with any condition imposed or having effect as if imposed under Parts 3 and 4 of the Planning Act (Northern Ireland) 2011[^c-b46e0ef26ea03cd24df7078cfd14783a] .
 
 (4) If, in the case of any work in respect of which plans ought by virtue of building regulations to have been deposited with a district council but have not been so deposited, the work appears to the council to include or consist of work to which this Article applies, the council, without prejudice to its right to take proceedings in respect of any contravention of the regulations, may fix a period on the expiration of which the work to which this Article applies or the relevant building (as the council may in fixing the period direct) must be removed and, if it thinks fit, impose any conditions that might have been imposed under paragraph (3) in passing plans for the first-mentioned work and, where it fixes such a period, shall forthwith give notice thereof, and of any conditions imposed, to the owner of the relevant building.
 
@@ -318,17 +318,17 @@ shall be guilty of an offence under this Order.
 
 (2) The district council shall have power for that purpose—
 
-- (a) to require by notice in writing any person by whom or on whose behalf the work was, is being or is proposed to be done to carry out any prescribed tests which are[^key-90671fba9b220e98fa4e4249dd6fe692] specified in the requirement; or
-- (b) itself to carry out any prescribed[^key-950af96c79db0e6ab00201083e9c0c02] tests of or in connection with the work, and to take any samples necessary to enable it to carry out any such test.
+- (a) to require by notice in writing any person by whom or on whose behalf the work was, is being or is proposed to be done to carry out any prescribed tests which are[^c-90671fba9b220e98fa4e4249dd6fe692] specified in the requirement; or
+- (b) itself to carry out any prescribed[^c-950af96c79db0e6ab00201083e9c0c02] tests of or in connection with the work, and to take any samples necessary to enable it to carry out any such test.
 
-(3) Without prejudice to the generality of paragraph (2), the tests which may be prescribed[^key-a5d6be0181bac28a0fdfdd4ad56ccfc9] under that paragraph include—
+(3) Without prejudice to the generality of paragraph (2), the tests which may be prescribed[^c-a5d6be0181bac28a0fdfdd4ad56ccfc9] under that paragraph include—
 
 - (a) tests of the soil or subsoil of the site of any building;
 - (b) tests of any material, component or combination of components which has been, is being or is proposed to be used in the construction of a building, and tests of any service, fitting or equipment which has been, is being or is proposed to be provided in or in connection with a building.
 
 (4) A district council shall have power, for the purpose of ascertaining whether there is or has been, in the case of any building, any contravention of any continuing requirement that applies in relation to that building—
 
-- (a) to require by notice in writing the owner or occupier of the building to carry out any prescribed tests which are[^key-20fc4f1f8464683f88e75902dd4f3970] specified in the requirement under this sub-paragraph; or
+- (a) to require by notice in writing the owner or occupier of the building to carry out any prescribed tests which are[^c-20fc4f1f8464683f88e75902dd4f3970] specified in the requirement under this sub-paragraph; or
 - (b) itself to carry out any tests which it has power to require under sub-paragraph ( *a*), and to take any samples necessary to enable it to carry out any such test.
 
 In this paragraph “continuing requirement” means a continuing requirement imposed by building regulations made by virtue of Article 6(1) or (2).
@@ -337,7 +337,7 @@ In this paragraph “continuing requirement” means a continuing requirement im
 
 (6) Any question arising under this Article between a district council and any person as to the reasonableness—
 
-- (a) of any requirement[^key-5561ddb12da3eb1ded014ae5b2a02dbd] imposed on him by the council under this Article; or
+- (a) of any requirement[^c-5561ddb12da3eb1ded014ae5b2a02dbd] imposed on him by the council under this Article; or
 - (b) of a refusal by the council to give a direction under paragraph (5) on an application made by him; or
 - (c) of a direction under that paragraph given on such an application,
 
@@ -458,16 +458,16 @@ the applicant may, within such period from the date on which the district counci
 
 (2) If within the prescribed period from the date of the application or within such extended period as may before the expiration of the prescribed period[^c11614221] be agreed in writing between an applicant under paragraph (1) and the district council, the district council does not notify the applicant of rejection, paragraph (1) shall apply in relation to the application as if the district council had rejected the plans and notified the applicant of its decision at the end of that period.
 
-(2A)[^key-8525e1f3d34de05a7f74aac36e9628e7] Where, on an application made to it under paragraph (1) of Article 8, a district council does not, within such period as may be prescribed, approve any particular type of building matter as complying with particular requirements of building regulations, the applicant may, by notice in writing, appeal to the Department within such period as may be prescribed.
+(2A)[^c-8525e1f3d34de05a7f74aac36e9628e7] Where, on an application made to it under paragraph (1) of Article 8, a district council does not, within such period as may be prescribed, approve any particular type of building matter as complying with particular requirements of building regulations, the applicant may, by notice in writing, appeal to the Department within such period as may be prescribed.
 
 *Para. (3) rep. by 1990 NI 14*
 
-(4) Before determining an appeal under this Article[^key-35cdeb8ef5db0260ed7661477c0f80b5] the Department may if it thinks fit or if the person who made the application or the district council so requests afford to that person and that district council an opportunity of appearing before and being heard by a person appointed by the Department for that purpose.
+(4) Before determining an appeal under this Article[^c-35cdeb8ef5db0260ed7661477c0f80b5] the Department may if it thinks fit or if the person who made the application or the district council so requests afford to that person and that district council an opportunity of appearing before and being heard by a person appointed by the Department for that purpose.
 
 (5) The decision of the Department on an appeal brought by virtue of this Article—
 
-- (a) may confirm, revoke or vary the decision of the district council in any manner which to the Department seems proper in the circumstances; [^key-7f4d0417ecd434a35035fdccafd88bb5]...
-- (aa)[^key-54ea07475e8f26ee937d2fbc75e45507] may, in the case of an appeal under paragraph (2A), approve any particular type of building matter as complying with particular requirements of building regulations; and
+- (a) may confirm, revoke or vary the decision of the district council in any manner which to the Department seems proper in the circumstances; [^c-7f4d0417ecd434a35035fdccafd88bb5]...
+- (aa)[^c-54ea07475e8f26ee937d2fbc75e45507] may, in the case of an appeal under paragraph (2A), approve any particular type of building matter as complying with particular requirements of building regulations; and
 - (b) shall be final and conclusive, except on any question of law.
 
 (6) Any question of law arising in connection with the determination by the Department of an appeal under this Article may, if the Department thinks fit, be referred for decision to the Court of Appeal and, where the Department decides so to refer such a question, it shall give notice of its intention to do so to the applicant and the district council.
@@ -494,14 +494,14 @@ the applicant may, within such period from the date on which the district counci
 
 (4) If any person on whom a contravention notice is served fails to comply with the notice before the expiration of 28 days from the date on which the notice is served, the district council may pull down or remove the work in question or effect such alterations or additions therein as it deems necessary to make the work conform with building regulations and the council may recover from that person the expenses reasonably incurred by the council in so doing.
 
-(5) A contravention notice shall not be served after such period (not being a period of more than 12 months from the date of completion of the work in question or such other works as may be prescribed) as may be prescribed.[^key-30015719dbfa65ccad1dc81acfd5bb8f]
+(5) A contravention notice shall not be served after such period (not being a period of more than 12 months from the date of completion of the work in question or such other works as may be prescribed) as may be prescribed.[^c-30015719dbfa65ccad1dc81acfd5bb8f]
 
 (6) Where—
 
 - (a) plans of any proposed work have, in accordance with building regulations, been deposited with, and passed by, a district council; and
 - (b) work has been executed in accordance with the plans and any requirement made by the district council as a condition of passing the plans,
 
-it shall not be open to the district council to serve a contravention notice on the ground that that work contravenes any building regulations; but nothing in this paragraph shall be taken to prevent such a notice from being served (before the expiration of the period mentioned in paragraph (5)[^key-e87fb9b111f2e3b415ec7344f0fc98d0] ) in respect of anything of which particulars were not required to be shown in the plans.
+it shall not be open to the district council to serve a contravention notice on the ground that that work contravenes any building regulations; but nothing in this paragraph shall be taken to prevent such a notice from being served (before the expiration of the period mentioned in paragraph (5)[^c-e87fb9b111f2e3b415ec7344f0fc98d0] ) in respect of anything of which particulars were not required to be shown in the plans.
 
 (7) A district council may at any time withdraw a contravention notice without prejudice to its power to serve another; and if a council withdraws a contravention notice—
 
@@ -630,7 +630,7 @@ is actionable, or as prejudicing any right of action which exists apart from the
 
 ## 21. Penalties[^c21348551]
 
-(1) Subject to Article 5A(7), any person[^key-d31afb56f243144166dd7f0a94c916a1] who contravenes—
+(1) Subject to Article 5A(7), any person[^c-d31afb56f243144166dd7f0a94c916a1] who contravenes—
 
 - (a) any provision contained in building regulations; or
 - (b) a contravention notice,
@@ -655,7 +655,7 @@ is guilty of an offence under this Order.
 
 (3) The court by which a person is originally convicted of an offence referred to in paragraph (2)(b) may fix a reasonable period from the date of conviction for the defendant to comply with any directions given by the court and where the court has fixed such a period, the daily fine referred to in paragraph (2)(b) shall not be recoverable in respect of any day before the period expires.
 
-## 22. Application of building regulations to the Crown[^key-9f41c598d6cb36abb1ec5ee764189e36]
+## 22. Application of building regulations to the Crown[^c-9f41c598d6cb36abb1ec5ee764189e36]
 
 (1) Except in so far as building regulations provide otherwise, the substantive requirements of building regulations—
 
@@ -667,7 +667,7 @@ is guilty of an offence under this Order.
 - (a) shall apply in relation to work carried out or proposed to be carried out in relation to a Crown building, otherwise than by or on behalf of a Crown authority, and Article 6 and building regulations made by virtue thereof, shall in relation to a Crown building apply to persons other than Crown authorities as they would apply if the building were not a Crown building; and
 - (b) shall apply in relation to work carried out or proposed to be carried out by or on behalf of a government department acting for a person other than a Crown authority as they would apply if the work had been or were to be carried out by that person.
 
-(3)[^key-6321e1141c9afbf046e5c68b2f108e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6321e1141c9afbf046e5c68b2f108e23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Article 20 and any building regulations made by virtue of paragraph (1) of that Article shall apply in relation to duties imposed by building regulations in their application in accordance with the preceding provisions of this Article.
 
@@ -675,8 +675,8 @@ is guilty of an offence under this Order.
 
 - “continuing requirement” means a continuing requirement of building regulations imposed by virtue of Article 6(1) or (2);
 - “Crown authority” means the Crown Estate Commissioners, a Minister of the Crown, a department of the Government of Northern Ireland or of the United Kingdom or any other person whose functions are performed on behalf of the Crown (not being a person or body whose functions are performed on behalf of Her Majesty in Her private capacity);
-- “Crown building” means a building occupied by the Crown[^key-9a7726a969a9996c3d1d6665fdc55c67] ;
-- [^key-89e8fb06b4c16a24f0be963804a7aeb4]...
+- “Crown building” means a building occupied by the Crown[^c-9a7726a969a9996c3d1d6665fdc55c67] ;
+- [^c-89e8fb06b4c16a24f0be963804a7aeb4]...
 - “the substantive requirements of building regulations” means the requirements of building regulations with respect to the design and construction of buildings and the provision of services, fittings and equipment in or in connection with buildings (including requirements imposed by virtue of Article 6(1) or (2)( *a*) or ( *b*)) as distinct from procedural requirements.
 
 (6) The preceding provisions of this Article shall, with any necessary modifications, apply in relation to the making of a material change in the use of a building within the meaning of building regulations made for the purposes of Article 5(1)( *d*) as they apply in relation to the carrying out of work.
@@ -810,7 +810,7 @@ Article 24(1).
 
 [^c11613951]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-046060f014975c5195dd07e9a6d8e5df]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1979/1709/article/2/2) repealed (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 13](https://www.legislation.gov.uk/nia/2009/4/section/13), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/186/article/2/d) (The repeals Sch. being fully in operation at 31.10.2012 for this amendment by S.R. 2012/186, art. 3(b))
+[^c-046060f014975c5195dd07e9a6d8e5df]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1979/1709/article/2/2) repealed (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 13](https://www.legislation.gov.uk/nia/2009/4/section/13), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/186/article/2/d) (The repeals Sch. being fully in operation at 31.10.2012 for this amendment by S.R. 2012/186, art. 3(b))
 
 [^m00006]: Marginal citation: 1954 c.33
 
@@ -818,21 +818,21 @@ Article 24(1).
 
 [^c21347491]: Textual amendment: Art. 3A inserted (31.8.2009) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 2](https://www.legislation.gov.uk/nia/2009/4/section/2), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2009/272](https://www.legislation.gov.uk/nisr/2009/272), [art. 2(b)](https://www.legislation.gov.uk/nisr/2009/272/article/2/b)
 
-[^key-212410c5faa7c354edcee985f72627e9]: Textual amendment: Words in art. 3A(2)(a) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 22(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/22/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-212410c5faa7c354edcee985f72627e9]: Textual amendment: Words in art. 3A(2)(a) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 22(a)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/22/a) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
-[^key-647c824dd0e6c00c21c159bf528be183]: Textual amendment: Words in art. 3A(2)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 22(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/22/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-647c824dd0e6c00c21c159bf528be183]: Textual amendment: Words in art. 3A(2)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 22(b)](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/22/b) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c21347511]: Textual amendment: Word in art. 4(2) substituted (31.8.2009) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 3](https://www.legislation.gov.uk/nia/2009/4/section/3), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2009/272](https://www.legislation.gov.uk/nisr/2009/272), [art. 2(c)](https://www.legislation.gov.uk/nisr/2009/272/article/2/c)
 
 [^c11613991]: Textual amendment: [1982 NI 6](https://www.legislation.gov.uk/nisi/1982)
 
-[^key-642a1e593a8fa7f7f4d83f219f7ad6ee]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/nisi/1979/1709/article/5/1/b) repealed (31.10.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(a)](https://www.legislation.gov.uk/nia/2009/4/section/4/a), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3(a)](https://www.legislation.gov.uk/nisr/2012/186/article/3/a)
+[^c-642a1e593a8fa7f7f4d83f219f7ad6ee]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/nisi/1979/1709/article/5/1/b) repealed (31.10.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(a)](https://www.legislation.gov.uk/nia/2009/4/section/4/a), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 3(a)](https://www.legislation.gov.uk/nisr/2012/186/article/3/a)
 
-[^key-ec5343cc161468e7025306ebc9707824]: Textual amendment: Word in art. 5(1)(c) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(b)(i)](https://www.legislation.gov.uk/nia/2009/4/section/4/b/i), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/186/article/2/a)
+[^c-ec5343cc161468e7025306ebc9707824]: Textual amendment: Word in art. 5(1)(c) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(b)(i)](https://www.legislation.gov.uk/nia/2009/4/section/4/b/i), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/186/article/2/a)
 
 [^c11614011]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-70aa70c000c822f4e1cbf1ab98989024]: Textual amendment: Words in art. 5(1)(c) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(b)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/4/b/ii), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/186/article/2/a)
+[^c-70aa70c000c822f4e1cbf1ab98989024]: Textual amendment: Words in art. 5(1)(c) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(b)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/4/b/ii), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/186/article/2/a)
 
 [^c21347571]: Textual amendment: Words in art. 5(5) substituted (31.8.2009) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 4(c)](https://www.legislation.gov.uk/nia/2009/4/section/4/c), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2009/272](https://www.legislation.gov.uk/nisr/2009/272), [art. 2(d)](https://www.legislation.gov.uk/nisr/2009/272/article/2/d)
 
@@ -840,45 +840,45 @@ Article 24(1).
 
 [^M_I_04c9c9c3-0e16-4f43-aebe-71046a9b4655]: Commencement: Art. 8 in operation at 15.5.2012 by [S.R. 2012/187](https://www.legislation.gov.uk/nisr/2012/187), [art. 2](https://www.legislation.gov.uk/nisr/2012/187/article/2)
 
-[^key-1d7eecbef6f9a20233e6c7cc301f7b2f]: Textual amendment: Art. 8 heading substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(a)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/a), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-1d7eecbef6f9a20233e6c7cc301f7b2f]: Textual amendment: Art. 8 heading substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(a)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/a), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-9a8c31dca536e59d500a98d4c9e84ca6]: Textual amendment: Words in art. 8(1) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(b)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/b), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-9a8c31dca536e59d500a98d4c9e84ca6]: Textual amendment: Words in art. 8(1) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(b)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/b), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-86b204492be7b1e7803dc9ba7732df44]: Textual amendment: Art. 8(3A) inserted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(c)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/c), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-86b204492be7b1e7803dc9ba7732df44]: Textual amendment: Art. 8(3A) inserted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(c)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/c), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-ae6af709d5e92fcaf1a48587530c4b49]: Textual amendment: Words in art. 8(4) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(d)(i)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/d/i), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-ae6af709d5e92fcaf1a48587530c4b49]: Textual amendment: Words in art. 8(4) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(d)(i)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/d/i), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-45347503dd9e6861aa6b7e7d6c117556]: Textual amendment: Word in art. 8(4) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(d)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/d/ii), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-45347503dd9e6861aa6b7e7d6c117556]: Textual amendment: Word in art. 8(4) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(d)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/d/ii), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-4e37418f9a4ce5ca38e4ebdf16e04750]: Textual amendment: Art. 8(7) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(e)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/e), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-4e37418f9a4ce5ca38e4ebdf16e04750]: Textual amendment: Art. 8(7) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(e)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/e), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-9bc1df804722086c415ec05dd9b00990]: Textual amendment: Art. 8(8)(9)(13) repealed (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(f)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/f), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
+[^c-9bc1df804722086c415ec05dd9b00990]: Textual amendment: Art. 8(8)(9)(13) repealed (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(f)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/f), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
 
-[^key-888fe7ff74054741aca6f1ea6dd07d51]: Textual amendment: Words in art. 8(10) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(g)(i)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/g/i), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-888fe7ff74054741aca6f1ea6dd07d51]: Textual amendment: Words in art. 8(10) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(g)(i)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/g/i), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-6e7868f0c3e7fdf890075b430e982326]: Textual amendment: Words in art. 8(10) repealed (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(g)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/g/ii), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
+[^c-6e7868f0c3e7fdf890075b430e982326]: Textual amendment: Words in art. 8(10) repealed (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(g)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/g/ii), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
 
-[^key-28aeb27265c71f17c552e4d35e3072be]: Textual amendment: Words in art. 8(10) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(g)(iii)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/g/iii), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-28aeb27265c71f17c552e4d35e3072be]: Textual amendment: Words in art. 8(10) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(g)(iii)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/g/iii), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-7297ec40ebad61922e6f91b6cdac0841]: Textual amendment: Words in art. 8(11) repealed (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(h)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/h), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
+[^c-7297ec40ebad61922e6f91b6cdac0841]: Textual amendment: Words in art. 8(11) repealed (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(h)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/h), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
 
-[^key-9e2843ec59e59f97505bdd325646f9ce]: Textual amendment: Words in art. 8(12) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(i)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/i), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-9e2843ec59e59f97505bdd325646f9ce]: Textual amendment: Words in art. 8(12) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(1)(i)](https://www.legislation.gov.uk/nia/2009/4/section/6/1/i), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-b46e0ef26ea03cd24df7078cfd14783a]: Textual amendment: Words in art. 9(3)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 23](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/23) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-b46e0ef26ea03cd24df7078cfd14783a]: Textual amendment: Words in art. 9(3)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 23](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/23) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c11614051]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
 [^M_I_019d6b07-d35e-4f56-e9fb-23b26111401f]: Commencement: Art. 12 in operation at 15.5.2012 by [S.R. 2012/187](https://www.legislation.gov.uk/nisr/2012/187), [art. 2](https://www.legislation.gov.uk/nisr/2012/187/article/2)
 
-[^key-90671fba9b220e98fa4e4249dd6fe692]: Textual amendment: Words in art. 12(2)(a) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(a)(i)](https://www.legislation.gov.uk/nia/2009/4/section/7/a/i), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
+[^c-90671fba9b220e98fa4e4249dd6fe692]: Textual amendment: Words in art. 12(2)(a) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(a)(i)](https://www.legislation.gov.uk/nia/2009/4/section/7/a/i), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
 
-[^key-950af96c79db0e6ab00201083e9c0c02]: Textual amendment: Word in art. 12(2)(b) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(a)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/7/a/ii), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
+[^c-950af96c79db0e6ab00201083e9c0c02]: Textual amendment: Word in art. 12(2)(b) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(a)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/7/a/ii), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
 
-[^key-a5d6be0181bac28a0fdfdd4ad56ccfc9]: Textual amendment: Words in art. 12(3) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(b)](https://www.legislation.gov.uk/nia/2009/4/section/7/b), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
+[^c-a5d6be0181bac28a0fdfdd4ad56ccfc9]: Textual amendment: Words in art. 12(3) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(b)](https://www.legislation.gov.uk/nia/2009/4/section/7/b), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
 
-[^key-20fc4f1f8464683f88e75902dd4f3970]: Textual amendment: Words in art. 12(4)(a) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(c)](https://www.legislation.gov.uk/nia/2009/4/section/7/c), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
+[^c-20fc4f1f8464683f88e75902dd4f3970]: Textual amendment: Words in art. 12(4)(a) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(c)](https://www.legislation.gov.uk/nia/2009/4/section/7/c), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
 
-[^key-5561ddb12da3eb1ded014ae5b2a02dbd]: Textual amendment: Words in art. 12(6)(a) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(d)](https://www.legislation.gov.uk/nia/2009/4/section/7/d), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
+[^c-5561ddb12da3eb1ded014ae5b2a02dbd]: Textual amendment: Words in art. 12(6)(a) substituted (15.5.2012 being the day on which Art. 12 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(b)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 7(d)](https://www.legislation.gov.uk/nia/2009/4/section/7/d), [15(2)](https://www.legislation.gov.uk/nia/2009/4/section/15/2)
 
 [^c11614071]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
@@ -892,19 +892,19 @@ Article 24(1).
 
 [^c11614221]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-8525e1f3d34de05a7f74aac36e9628e7]: Textual amendment: [Art. 17(2A)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/2A) inserted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(a)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/a), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-8525e1f3d34de05a7f74aac36e9628e7]: Textual amendment: [Art. 17(2A)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/2A) inserted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(a)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/a), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-35cdeb8ef5db0260ed7661477c0f80b5]: Textual amendment: Words in [art. 17(4)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/4) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(b)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/b), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-35cdeb8ef5db0260ed7661477c0f80b5]: Textual amendment: Words in [art. 17(4)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/4) substituted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(b)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/b), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
-[^key-7f4d0417ecd434a35035fdccafd88bb5]: Textual amendment: Word in [art. 17(5)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/5) omitted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by virtue of [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(c)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/c), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule) (The repeals Sch. being fully in operation at 31.10.2012 for this amendment by S.R. 2012/186, art. 3(b))
+[^c-7f4d0417ecd434a35035fdccafd88bb5]: Textual amendment: Word in [art. 17(5)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/5) omitted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by virtue of [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(c)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/c), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule) (The repeals Sch. being fully in operation at 31.10.2012 for this amendment by S.R. 2012/186, art. 3(b))
 
-[^key-54ea07475e8f26ee937d2fbc75e45507]: Textual amendment: [Art. 17(5)(aa)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/5/aa) inserted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(c)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/c), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
+[^c-54ea07475e8f26ee937d2fbc75e45507]: Textual amendment: [Art. 17(5)(aa)](https://www.legislation.gov.uk/nisi/1979/1709/article/17/5/aa) inserted (15.5.2012 being the day on which Art. 8 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 2(a)) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 6(2)(c)](https://www.legislation.gov.uk/nia/2009/4/section/6/2/c), [15(1)](https://www.legislation.gov.uk/nia/2009/4/section/15/1)
 
 [^c22212561]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-30015719dbfa65ccad1dc81acfd5bb8f]: Textual amendment: Words in art. 18(5) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 8(a)](https://www.legislation.gov.uk/nia/2009/4/section/8/a), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/186/article/2/c)
+[^c-30015719dbfa65ccad1dc81acfd5bb8f]: Textual amendment: Words in art. 18(5) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 8(a)](https://www.legislation.gov.uk/nia/2009/4/section/8/a), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/186/article/2/c)
 
-[^key-e87fb9b111f2e3b415ec7344f0fc98d0]: Textual amendment: Words in art. 18(6) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 8(b)](https://www.legislation.gov.uk/nia/2009/4/section/8/b), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/186/article/2/c)
+[^c-e87fb9b111f2e3b415ec7344f0fc98d0]: Textual amendment: Words in art. 18(6) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 8(b)](https://www.legislation.gov.uk/nia/2009/4/section/8/b), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/186/article/2/c)
 
 [^c11613871]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
@@ -920,17 +920,17 @@ Article 24(1).
 
 [^c21348551]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-d31afb56f243144166dd7f0a94c916a1]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/nisi/1979/1709/article/21/1) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 5(2)](https://www.legislation.gov.uk/nia/2009/4/section/5/2), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/186/article/2/b)
+[^c-d31afb56f243144166dd7f0a94c916a1]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/nisi/1979/1709/article/21/1) substituted (15.5.2012) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 5(2)](https://www.legislation.gov.uk/nia/2009/4/section/5/2), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2012/186](https://www.legislation.gov.uk/nisr/2012/186), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/186/article/2/b)
 
 [^c21348531]: Textual amendment: Art. 21(1A) inserted (31.8.2009) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 10](https://www.legislation.gov.uk/nia/2009/4/section/10), [15(4)](https://www.legislation.gov.uk/nia/2009/4/section/15/4); [S.R. 2009/272](https://www.legislation.gov.uk/nisr/2009/272), [art. 2(e)](https://www.legislation.gov.uk/nisr/2009/272/article/2/e)
 
-[^key-9f41c598d6cb36abb1ec5ee764189e36]: Commencement: Art. 22 in operation at 31.10.2012 by [S.R. 2012/187](https://www.legislation.gov.uk/nisr/2012/187), [art. 3](https://www.legislation.gov.uk/nisr/2012/187/article/3)
+[^c-9f41c598d6cb36abb1ec5ee764189e36]: Commencement: Art. 22 in operation at 31.10.2012 by [S.R. 2012/187](https://www.legislation.gov.uk/nisr/2012/187), [art. 3](https://www.legislation.gov.uk/nisr/2012/187/article/3)
 
-[^key-6321e1141c9afbf046e5c68b2f108e23]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/nisi/1979/1709/article/22/3) repealed (31.10.2012 being the day on which Art. 22 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 3) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 11(a)](https://www.legislation.gov.uk/nia/2009/4/section/11/a), [15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
+[^c-6321e1141c9afbf046e5c68b2f108e23]: Textual amendment: [Art. 22(3)](https://www.legislation.gov.uk/nisi/1979/1709/article/22/3) repealed (31.10.2012 being the day on which Art. 22 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 3) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 11(a)](https://www.legislation.gov.uk/nia/2009/4/section/11/a), [15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
 
-[^key-9a7726a969a9996c3d1d6665fdc55c67]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/nisi/1979/1709/article/22/5) substituted (31.10.2012 being the day on which Art. 22 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 3) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 11(b)(i)](https://www.legislation.gov.uk/nia/2009/4/section/11/b/i), [15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3)
+[^c-9a7726a969a9996c3d1d6665fdc55c67]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/nisi/1979/1709/article/22/5) substituted (31.10.2012 being the day on which Art. 22 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 3) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 11(b)(i)](https://www.legislation.gov.uk/nia/2009/4/section/11/b/i), [15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3)
 
-[^key-89e8fb06b4c16a24f0be963804a7aeb4]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/nisi/1979/1709/article/22/5) repealed (31.10.2012 being the day on which Art. 22 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 3) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 11(b)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/11/b/i/ii), [15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
+[^c-89e8fb06b4c16a24f0be963804a7aeb4]: Textual amendment: Words in [art. 22(5)](https://www.legislation.gov.uk/nisi/1979/1709/article/22/5) repealed (31.10.2012 being the day on which Art. 22 of the principal Order comes into operation by virtue of S.R. 2012/187, art. 3) by [Building Regulations (Amendment) Act (Northern Ireland) 2009 (c. 4)](https://www.legislation.gov.uk/nia/2009/4), [ss. 11(b)(ii)](https://www.legislation.gov.uk/nia/2009/4/section/11/b/i/ii), [15(3)](https://www.legislation.gov.uk/nia/2009/4/section/15/3), [Sch.](https://www.legislation.gov.uk/nia/2009/4/schedule)
 
 [^c11614261]: Textual amendment: [1990 NI 14](https://www.legislation.gov.uk/nisi/1990)
 

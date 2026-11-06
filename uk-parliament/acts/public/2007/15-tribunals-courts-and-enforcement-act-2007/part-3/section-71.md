@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Abolition of common law right[^key-e63f200127e0fedf555b86454475b70c]
+## 71. Abolition of common law right[^c-e63f200127e0fedf555b86454475b70c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The common law right to distrain for arrears of rent is abolished.
 
 ## Annotations
 
-[^key-e63f200127e0fedf555b86454475b70c]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2007/15/section/71) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-e63f200127e0fedf555b86454475b70c]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2007/15/section/71) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

@@ -23,7 +23,7 @@ summary: ''
 (1) Regulations under section 5(8) must either—
 
 - (a) secure that for any jobholder there is no automatic re-enrolment date less than three years after the jobholder's automatic enrolment date, and that there is not more than one automatic re-enrolment date in any period of three years, or
-- (b)[^key-010dddfc8611f810f7804ccafac811bd] secure that for any employer there is not more than one automatic re-enrolment date in any period of 2 years and 9 months[^c21671381].
+- (b)[^c-010dddfc8611f810f7804ccafac811bd] secure that for any employer there is not more than one automatic re-enrolment date in any period of 2 years and 9 months[^c21671381].
 
 (2) Subsection (1) does not restrict the provision that regulations may make about the timing of a jobholder's automatic re-enrolment date (“**the relevant date**”) in the following cases.
 
@@ -46,7 +46,7 @@ summary: ''
 
 [^c19537181]: Commencement: S. 6 wholly in force at 30.6.2012; s. 6 in force for certain purposes at Royal Assent see s. 149(2)(k); s. 6 in force so far as not already in force at 30.6.2012 by [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2012/1682/article/2/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1682/schedule/1)
 
-[^key-010dddfc8611f810f7804ccafac811bd]: Textual amendment: Words in [s. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2008/30/section/6/1/b) substituted (3.11.2011 for specified purposes, 1.4.2015 in so far as not already in force) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 7](https://www.legislation.gov.uk/ukpga/2011/19/section/7), [38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1); [S.I. 2015/676](https://www.legislation.gov.uk/uksi/2015/676), [art. 2](https://www.legislation.gov.uk/uksi/2015/676/article/2)
+[^c-010dddfc8611f810f7804ccafac811bd]: Textual amendment: Words in [s. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2008/30/section/6/1/b) substituted (3.11.2011 for specified purposes, 1.4.2015 in so far as not already in force) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 7](https://www.legislation.gov.uk/ukpga/2011/19/section/7), [38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1); [S.I. 2015/676](https://www.legislation.gov.uk/uksi/2015/676), [art. 2](https://www.legislation.gov.uk/uksi/2015/676/article/2)
 
 [^c21671381]: Textual amendment: Words in s. 6(1)(b) substituted (3.11.2011 for specified purposes otherwise prosp.) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 7](https://www.legislation.gov.uk/ukpga/2011/19/section/7), [38(1)(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1/4)
 

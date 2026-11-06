@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Restriction on arranging adoptions etc.[^key-cd3f51e005202054b8cbea39283f1a58][^key-7136d113d2c8b0f90743cb6ccb4e4df1][^key-e17f6f141277217a36c50ee98902520b]
+## 92. Restriction on arranging adoptions etc.[^c-cd3f51e005202054b8cbea39283f1a58][^c-7136d113d2c8b0f90743cb6ccb4e4df1][^c-e17f6f141277217a36c50ee98902520b]
 
 *Extent: E+W*
 
-(1) A person who is neither an adoption agency nor acting in pursuance of an order of the High Court or the family court[^key-87d144e5ef25a86a1e0560609f789a09] must not take any of the steps mentioned in subsection (2).
+(1) A person who is neither an adoption agency nor acting in pursuance of an order of the High Court or the family court[^c-87d144e5ef25a86a1e0560609f789a09] must not take any of the steps mentioned in subsection (2).
 
 (2) The steps are—
 
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-cd3f51e005202054b8cbea39283f1a58]: Commencement: S. 92 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(viii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/viii)
+[^c-cd3f51e005202054b8cbea39283f1a58]: Commencement: S. 92 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(viii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/viii)
 
-[^key-7136d113d2c8b0f90743cb6ccb4e4df1]: Commencement: S. 92 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/g) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-7136d113d2c8b0f90743cb6ccb4e4df1]: Commencement: S. 92 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/g) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-e17f6f141277217a36c50ee98902520b]: Modification: S. 92 modified (30.12.2005) by [The Electronic Commerce Directive (Adoption and Children Act 2002) Regulations 2005 (S.I. 2005/3222)](https://www.legislation.gov.uk/uksi/2005/3222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1/1), [3-5](https://www.legislation.gov.uk/uksi/2005/3222/regulation/3)
+[^c-e17f6f141277217a36c50ee98902520b]: Modification: S. 92 modified (30.12.2005) by [The Electronic Commerce Directive (Adoption and Children Act 2002) Regulations 2005 (S.I. 2005/3222)](https://www.legislation.gov.uk/uksi/2005/3222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1/1), [3-5](https://www.legislation.gov.uk/uksi/2005/3222/regulation/3)
 
-[^key-87d144e5ef25a86a1e0560609f789a09]: Textual amendment: Words in s. 92(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 155](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/155); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-87d144e5ef25a86a1e0560609f789a09]: Textual amendment: Words in s. 92(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 155](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/155); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

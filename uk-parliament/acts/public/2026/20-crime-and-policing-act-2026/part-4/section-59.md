@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Offence of breaching CCE prevention order[^key-beee5ce0647ea02d5cd819ed8f2d3fec]
+## 59. Offence of breaching CCE prevention order[^c-beee5ce0647ea02d5cd819ed8f2d3fec]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beee5ce0647ea02d5cd819ed8f2d3fec]: Commencement: S. 59 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-beee5ce0647ea02d5cd819ed8f2d3fec]: Commencement: S. 59 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

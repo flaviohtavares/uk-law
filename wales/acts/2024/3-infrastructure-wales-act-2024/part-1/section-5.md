@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Hydraulic fracturing for oil and gas and coal gasification[^key-8949445557afec7ad5536d248caac51b]
+## 5. Hydraulic fracturing for oil and gas and coal gasification[^c-8949445557afec7ad5536d248caac51b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The following developments are significant infrastructure projects—
 
 ## Annotations
 
-[^key-8949445557afec7ad5536d248caac51b]: Commencement: S. 5 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-8949445557afec7ad5536d248caac51b]: Commencement: S. 5 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Insertion of article 49[^key-a39735f23428bda612f96e70d82bc906]
+## 150. Insertion of article 49[^c-a39735f23428bda612f96e70d82bc906]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After article 48 (supplementary and transitional provisions and extent), insertâ
 
 ## Annotations
 
-[^key-a39735f23428bda612f96e70d82bc906]: Commencement: Reg. 150 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a39735f23428bda612f96e70d82bc906]: Commencement: Reg. 150 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

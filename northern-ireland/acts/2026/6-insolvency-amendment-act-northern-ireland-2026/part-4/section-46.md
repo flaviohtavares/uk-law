@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Liquidator’s supplementary powers[^key-c14ca5f2b2c9612c98971330a3410a7f]
+## 46. Liquidator’s supplementary powers[^c-c14ca5f2b2c9612c98971330a3410a7f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In Article 143 (liquidator’s supplementary powers), for paragraph (2) substitu
 
 ## Annotations
 
-[^key-c14ca5f2b2c9612c98971330a3410a7f]: Commencement: S. 46 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c14ca5f2b2c9612c98971330a3410a7f]: Commencement: S. 46 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

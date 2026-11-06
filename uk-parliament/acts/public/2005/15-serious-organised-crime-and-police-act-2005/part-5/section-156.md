@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Payments by Scottish Ministers to Scottish Police Authority in relation to the prevention, detection and enforcement of certain traffic offences[^key-722ba1a98b852841b6c4abccbc9d2feb][^key-46c2b442b7a0012fc47af9c564dc219e]
+## 156. Payments by Scottish Ministers to Scottish Police Authority in relation to the prevention, detection and enforcement of certain traffic offences[^c-722ba1a98b852841b6c4abccbc9d2feb][^c-46c2b442b7a0012fc47af9c564dc219e]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ section 47 (obligatory test certificates for motor vehicles);
 
 section 87(1) (drivers of motor vehicles to have driving licences);
 
-section 143 (users of motor vehicles to be insured [^key-eea38b17a631eb0cb1400a31be27c2cb]...);
+section 143 (users of motor vehicles to be insured [^c-eea38b17a631eb0cb1400a31be27c2cb]...);
 
 section 163 (power of police to stop vehicles);
 
@@ -72,10 +72,10 @@ section 59 (regulations: offences) in relation to the requirements imposed by re
 
 ## Annotations
 
-[^key-722ba1a98b852841b6c4abccbc9d2feb]: Commencement: S. 156 in force at 1.7.2005 by [S.S.I. 2005/358](https://www.legislation.gov.uk/ssi/2005/358), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/358/article/2/b)
+[^c-722ba1a98b852841b6c4abccbc9d2feb]: Commencement: S. 156 in force at 1.7.2005 by [S.S.I. 2005/358](https://www.legislation.gov.uk/ssi/2005/358), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/358/article/2/b)
 
-[^key-46c2b442b7a0012fc47af9c564dc219e]: Textual amendment: Words in s. 156 title substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 48(14)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/48/14/a)
+[^c-46c2b442b7a0012fc47af9c564dc219e]: Textual amendment: Words in s. 156 title substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 48(14)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/48/14/a)
 
 [^M_F_13463f53-6c39-431e-9fdd-9e5b65e05db9]: Textual amendment: Words in s. 156(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 48(14)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/48/14/a)
 
-[^key-eea38b17a631eb0cb1400a31be27c2cb]: Textual amendment: Words in [s. 156(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/156/3) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/35) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-eea38b17a631eb0cb1400a31be27c2cb]: Textual amendment: Words in [s. 156(3)](https://www.legislation.gov.uk/ukpga/2005/15/section/156/3) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/35) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))

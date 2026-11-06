@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Temporary interference with waterways[^key-fb6f6b6668cb7eb592de20544e6a028c]
+## 15. Temporary interference with waterways[^c-fb6f6b6668cb7eb592de20544e6a028c]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb6f6b6668cb7eb592de20544e6a028c]: Commencement: Art. 15 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-fb6f6b6668cb7eb592de20544e6a028c]: Commencement: Art. 15 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

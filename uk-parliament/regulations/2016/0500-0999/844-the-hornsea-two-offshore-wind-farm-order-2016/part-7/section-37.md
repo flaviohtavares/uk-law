@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Saving for Trinity House[^key-35c3f5b99fd48e97addc9d05276bafd6]
+## 37. Saving for Trinity House[^c-35c3f5b99fd48e97addc9d05276bafd6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-35c3f5b99fd48e97addc9d05276bafd6]: Commencement: Art. 37 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-35c3f5b99fd48e97addc9d05276bafd6]: Commencement: Art. 37 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

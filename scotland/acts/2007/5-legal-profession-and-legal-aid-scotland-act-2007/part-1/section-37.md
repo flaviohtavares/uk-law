@@ -25,7 +25,7 @@ summary: ''
 - (a) provide it with such information, being information which is within the knowledge of the organisation, as the Commission considers relevant for any of the purposes of section 23, 24 or 36;
 - (b) to produce to it such documents, being documents which are within the possession or control of the organisation, as the Commission considers relevant for any of those purposes.
 
-(2) The information required to be provided or the documents required to be produced under subsection (1) may include information or, as the case may be, documents obtained by the relevant professional organisation from a practitioner while investigating a conduct complaint against the practitioner remitted to it under section 6(2)(a)[^key-4aed5c39b3c594e6ac89016a22e7a687] or 15(5)(a); and the organisation must comply with such a requirement.
+(2) The information required to be provided or the documents required to be produced under subsection (1) may include information or, as the case may be, documents obtained by the relevant professional organisation from a practitioner while investigating a conduct complaint against the practitioner remitted to it under section 6(2)(a)[^c-4aed5c39b3c594e6ac89016a22e7a687] or 15(5)(a); and the organisation must comply with such a requirement.
 
 (3) Where any information required by the Commission under subsection (1) is not within the knowledge of the relevant professional organisation, or any documents required to be produced under that subsection are not within the possession or control of the organisation, the Commission may require the practitioner concerned—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aed5c39b3c594e6ac89016a22e7a687]: Textual amendment: Word in [s. 37(2)](https://www.legislation.gov.uk/asp/2007/5/section/37/2) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/11) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-4aed5c39b3c594e6ac89016a22e7a687]: Textual amendment: Word in [s. 37(2)](https://www.legislation.gov.uk/asp/2007/5/section/37/2) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/11) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. The Cadent Diversion Works[^key-315932717e3ca1bd3de76d6b551cbf20]
+## 55. The Cadent Diversion Works[^c-315932717e3ca1bd3de76d6b551cbf20]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-315932717e3ca1bd3de76d6b551cbf20]: Commencement: Art. 55 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-315932717e3ca1bd3de76d6b551cbf20]: Commencement: Art. 55 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

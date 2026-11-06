@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Renewal of a licence[^key-a182992b69e376eefe6553edf90cd95d]
+## 23. Renewal of a licence[^c-a182992b69e376eefe6553edf90cd95d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Regulations 17 to 22 and 24 apply in relation to an application for the renewal 
 
 ## Annotations
 
-[^key-a182992b69e376eefe6553edf90cd95d]: Commencement: Reg. 23 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a182992b69e376eefe6553edf90cd95d]: Commencement: Reg. 23 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00032]: Footnote: Section 14(4) (licences granted for specified periods) of the Space Industry Act 2018 provides that if the regulator is not the Secretary of State, the regulator may grant a licence only with the consent of the Secretary of State.

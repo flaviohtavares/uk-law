@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 81. Reports by Secretary of State[^key-5e9dd37e2c4aa8fa3a5aa497a547a6d9]
+## 81. Reports by Secretary of State[^c-5e9dd37e2c4aa8fa3a5aa497a547a6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e9dd37e2c4aa8fa3a5aa497a547a6d9]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/1998/14/section/81) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 143](https://www.legislation.gov.uk/ukpga/2012/5/section/143), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(g)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/g)
+[^c-5e9dd37e2c4aa8fa3a5aa497a547a6d9]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/1998/14/section/81) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 143](https://www.legislation.gov.uk/ukpga/2012/5/section/143), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(g)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/g)

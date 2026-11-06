@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. General modification of enactments[^key-230dbc0512cf65000545624b4c0a7364]
+## 2. General modification of enactments[^c-230dbc0512cf65000545624b4c0a7364]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,13 +34,13 @@ summary: ''
 
 (3) Paragraph (2) above shall not apply to the provisions or enactments mentioned in Schedule 1 to this Order.
 
-**3.**[^key-54d1d5aa3d8f509365f35221cbc7ab0f] So far as may be necessary or expedient in consequence of section 94 of the 1998 Act, in any pre-commencement enactment or prerogative instrument, and other instrument or document made before the principal appointed day–
+**3.**[^c-54d1d5aa3d8f509365f35221cbc7ab0f] So far as may be necessary or expedient in consequence of section 94 of the 1998 Act, in any pre-commencement enactment or prerogative instrument, and other instrument or document made before the principal appointed day–
 
 - (a) any reference to an order confirmed by Act of Parliament or to an order confirmed by Parliament shall be read as including an order confirmed by an Act of the Scottish Parliament; and
 - (b) any reference to an order subject to special parliamentary procedure shall be read as including an order subject to such special procedure as may be provided by or under an Act of the Scottish Parliament or under section 129(1) of the 1998 Act.
 
 ## Annotations
 
-[^key-230dbc0512cf65000545624b4c0a7364]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-230dbc0512cf65000545624b4c0a7364]: Commencement: Art. 2 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-54d1d5aa3d8f509365f35221cbc7ab0f]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-54d1d5aa3d8f509365f35221cbc7ab0f]: Commencement: Art. 3 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)

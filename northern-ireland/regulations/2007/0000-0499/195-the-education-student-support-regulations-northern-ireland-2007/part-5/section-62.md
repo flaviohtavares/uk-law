@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Qualifying conditions for and amounts of the higher education bursary[^key-5e849c35a5f6bac8eafc689328a5216d]
+## 62. Qualifying conditions for and amounts of the higher education bursary[^c-5e849c35a5f6bac8eafc689328a5216d]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e849c35a5f6bac8eafc689328a5216d]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2007/195/regulation/62) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-5e849c35a5f6bac8eafc689328a5216d]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2007/195/regulation/62) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

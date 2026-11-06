@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Regulation of investigatory powers[^key-ce7c15c477f72ccbfecead6cc04ea50c]
+## 187. Regulation of investigatory powers[^c-ce7c15c477f72ccbfecead6cc04ea50c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce7c15c477f72ccbfecead6cc04ea50c]: Commencement: S. 187 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)
+[^c-ce7c15c477f72ccbfecead6cc04ea50c]: Commencement: S. 187 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)

@@ -22,9 +22,9 @@ summary: ''
 
 Section 53
 
-**1.**[^key-2a292b2f336e46991f75ee1b17c28878] The Estate Agents Act 1979 (c. 38) is amended as follows.
+**1.**[^c-2a292b2f336e46991f75ee1b17c28878] The Estate Agents Act 1979 (c. 38) is amended as follows.
 
-**2.**[^key-a2dc58686a2c5d248d81d1570f700da1] After section 23 insert—
+**2.**[^c-a2dc58686a2c5d248d81d1570f700da1] After section 23 insert—
 
 > **Redress schemes**
 >
@@ -100,7 +100,7 @@ Section 53
 >
 > (5) The power to make an order under subsection (1)(b) shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**3.**[^key-3f7c2cebae838467eb51dbfd47c88cb9] After Schedule 2 insert—
+**3.**[^c-3f7c2cebae838467eb51dbfd47c88cb9] After Schedule 2 insert—
 
 > **SCHEDULE 3 — Redress Schemes**
 >
@@ -214,7 +214,7 @@ Section 53
 > - “**scheme administrator**”, in relation to a redress scheme, means the person who administers the scheme;
 > - “**seller**”, in relation to residential property, has the meaning given by section 23A(8)(d).
 
-**4.**[^key-c9b30ee4de3a4ab822861ffef3963736] After Schedule 3 (as inserted by paragraph 3) insert—
+**4.**[^c-c9b30ee4de3a4ab822861ffef3963736] After Schedule 3 (as inserted by paragraph 3) insert—
 
 > **SCHEDULE 4 — Penalty notices under section 23B(1)**
 >
@@ -305,10 +305,10 @@ Section 53
 
 ## Annotations
 
-[^key-2a292b2f336e46991f75ee1b17c28878]: Commencement: Sch. 6 para. 1 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
+[^c-2a292b2f336e46991f75ee1b17c28878]: Commencement: Sch. 6 para. 1 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
 
-[^key-a2dc58686a2c5d248d81d1570f700da1]: Commencement: Sch. 6 para. 2 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
+[^c-a2dc58686a2c5d248d81d1570f700da1]: Commencement: Sch. 6 para. 2 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
 
-[^key-3f7c2cebae838467eb51dbfd47c88cb9]: Commencement: Sch. 6 para. 3 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
+[^c-3f7c2cebae838467eb51dbfd47c88cb9]: Commencement: Sch. 6 para. 3 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
 
-[^key-c9b30ee4de3a4ab822861ffef3963736]: Commencement: Sch. 6 para. 4 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)
+[^c-c9b30ee4de3a4ab822861ffef3963736]: Commencement: Sch. 6 para. 4 in force at 12.10.2007 by [S.I. 2007/2934](https://www.legislation.gov.uk/uksi/2007/2934), [art. 3](https://www.legislation.gov.uk/uksi/2007/2934/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/2934/schedule)

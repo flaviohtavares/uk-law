@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Judicial review: powers to apply in urgent cases and to intervene[^key-d8a9bb6fd696adde825c2da7cfa01aad][^key-9034ce2ddfac5fda51cb61fc6b54902c]
+## 39. Judicial review: powers to apply in urgent cases and to intervene[^c-d8a9bb6fd696adde825c2da7cfa01aad][^c-9034ce2ddfac5fda51cb61fc6b54902c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8a9bb6fd696adde825c2da7cfa01aad]: Commencement: S. 39 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d8a9bb6fd696adde825c2da7cfa01aad]: Commencement: S. 39 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-9034ce2ddfac5fda51cb61fc6b54902c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/30/section/39) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-9034ce2ddfac5fda51cb61fc6b54902c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/30/section/39) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Alcohol disorder zones: repeal[^key-5c7044fa194523fe6ce1b6b869ca9445]
+## 140. Alcohol disorder zones: repeal[^c-5c7044fa194523fe6ce1b6b869ca9445]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Sections 15 to 20 of the Violent Crime Reduction Act 2006 (alcohol disorder zone
 
 ## Annotations
 
-[^key-5c7044fa194523fe6ce1b6b869ca9445]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2011/13/section/140) in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/c)
+[^c-5c7044fa194523fe6ce1b6b869ca9445]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2011/13/section/140) in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/c)

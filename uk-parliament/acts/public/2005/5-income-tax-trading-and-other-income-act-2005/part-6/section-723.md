@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 723. Determinations[^key-1b5c8bed3c13cbc4012652b0e1c4aba6]
+## 723. Determinations[^c-1b5c8bed3c13cbc4012652b0e1c4aba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b5c8bed3c13cbc4012652b0e1c4aba6]: Textual amendment: [S. 723](https://www.legislation.gov.uk/ukpga/2005/5/section/723) repealed (6.4.2008) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 46(6)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/6)[(9)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/9); [S.I. 2008/561](https://www.legislation.gov.uk/uksi/2008/561), [art. 2](https://www.legislation.gov.uk/uksi/2008/561/article/2)
+[^c-1b5c8bed3c13cbc4012652b0e1c4aba6]: Textual amendment: [S. 723](https://www.legislation.gov.uk/ukpga/2005/5/section/723) repealed (6.4.2008) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 46(6)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/6)[(9)](https://www.legislation.gov.uk/ukpga/2007/11/section/46/9); [S.I. 2008/561](https://www.legislation.gov.uk/uksi/2008/561), [art. 2](https://www.legislation.gov.uk/uksi/2008/561/article/2)

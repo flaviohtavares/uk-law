@@ -33,20 +33,20 @@ of 9 December 2013
 
 amending annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) (revoked)
 
-[^key-e98b94f401ffdecac882778ccc20e237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e98b94f401ffdecac882778ccc20e237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e98b94f401ffdecac882778ccc20e237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e98b94f401ffdecac882778ccc20e237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e98b94f401ffdecac882778ccc20e237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e98b94f401ffdecac882778ccc20e237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e98b94f401ffdecac882778ccc20e237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e98b94f401ffdecac882778ccc20e237] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e98b94f401ffdecac882778ccc20e237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e98b94f401ffdecac882778ccc20e237]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e98b94f401ffdecac882778ccc20e237]
+## ANNEX[^c-e98b94f401ffdecac882778ccc20e237]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e98b94f401ffdecac882778ccc20e237]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 224](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/224); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e98b94f401ffdecac882778ccc20e237]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 224](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/224); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

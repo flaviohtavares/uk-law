@@ -48,11 +48,11 @@ Coming into force
 
 The Lord Chancellor makes the following order in exercise of the power conferred on him by section 100(3) of the Land Registration Act 2002[^f00001].
 
-## 1. Citation and commencement[^key-5448b2db81fdee51d35eb9b1238a94d2]
+## 1. Citation and commencement[^c-5448b2db81fdee51d35eb9b1238a94d2]
 
 This Order may be cited as the Land Registration (Proper Office) (No. 2) Order 2009 and shall come into force on 11 January 2010.
 
-## 2. Applications to which this Order applies[^key-894e43c8dac8385dd18185df6bfe0619]
+## 2. Applications to which this Order applies[^c-894e43c8dac8385dd18185df6bfe0619]
 
 (1) This Order applies to any application to the registrar except an application delivered to the registrar—
 
@@ -68,13 +68,13 @@ This Order may be cited as the Land Registration (Proper Office) (No. 2) Order 2
 - (e) a duly certificated notary public, or
 - (f) a registered European lawyer within the meaning of the European Communities (Lawyer’s Practice) Regulations 2000[^f00004] who by virtue of regulations 6 and 12 of those Regulations is entitled to prepare for remuneration an instrument creating or transferring an interest in land in England and Wales.
 
-## 3. Designation of the proper office[^key-6b804b61e328a6f2154d8b8937f97584]
+## 3. Designation of the proper office[^c-6b804b61e328a6f2154d8b8937f97584]
 
 (1) The proper office for the receipt of an application to which this Order applies is any office of the land registry specified in column 1 of the Schedule which is opposite an administrative area shown in column 2 of the Schedule in which the land to which that application relates is wholly or partly situated.
 
 (2) In the Schedule, reference to an office of the land registry does not include any sub-office of that office.
 
-## 4. Revocation[^key-d93d277dbe45a8bbfefe1c00f84ad4f1]
+## 4. Revocation[^c-d93d277dbe45a8bbfefe1c00f84ad4f1]
 
 The Land Registration (Proper Office) Order 2009[^f00005] is revoked.
 
@@ -88,7 +88,7 @@ Ministry of Justice
 
 8th October 2009
 
-## SCHEDULE 1[^key-cfc877ac925d4a122adee31f519293fb]
+## SCHEDULE 1[^c-cfc877ac925d4a122adee31f519293fb]
 
 Article 3
 
@@ -135,9 +135,9 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00001]: Footnote: [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9).
 
-[^key-5448b2db81fdee51d35eb9b1238a94d2]: Commencement: Art. 1 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
+[^c-5448b2db81fdee51d35eb9b1238a94d2]: Commencement: Art. 1 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
 
-[^key-894e43c8dac8385dd18185df6bfe0619]: Commencement: Art. 2 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
+[^c-894e43c8dac8385dd18185df6bfe0619]: Commencement: Art. 2 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
 
 [^f00002]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417), to which there are amendments not relevant to this Order.
 
@@ -145,10 +145,10 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00004]: Footnote: [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), relevant amending instruments are [S.I. 2004/1628](https://www.legislation.gov.uk/uksi/2004/1628), [2008/81](https://www.legislation.gov.uk/uksi/2008/81).
 
-[^key-6b804b61e328a6f2154d8b8937f97584]: Commencement: Art. 3 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
+[^c-6b804b61e328a6f2154d8b8937f97584]: Commencement: Art. 3 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
 
-[^key-d93d277dbe45a8bbfefe1c00f84ad4f1]: Commencement: Art. 4 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
+[^c-d93d277dbe45a8bbfefe1c00f84ad4f1]: Commencement: Art. 4 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
 
 [^f00005]: Footnote: [S.I. 2009/1393](https://www.legislation.gov.uk/uksi/2009/1393).
 
-[^key-cfc877ac925d4a122adee31f519293fb]: Commencement: Sch. 1 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)
+[^c-cfc877ac925d4a122adee31f519293fb]: Commencement: Sch. 1 in force at 11.1.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1)

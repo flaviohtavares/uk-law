@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.74. Supply of Forms[^key-816925c670efafcfede18d8bc198495b]
+## 4.74. Supply of Forms[^c-816925c670efafcfede18d8bc198495b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A form of proof shall be sent to any creditor of the company by the liquidator w
 
 ## Annotations
 
-[^key-816925c670efafcfede18d8bc198495b]: Textual amendment: Rule 4.74 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [9](https://www.legislation.gov.uk/uksi/2004/584/article/9)
+[^c-816925c670efafcfede18d8bc198495b]: Textual amendment: Rule 4.74 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [9](https://www.legislation.gov.uk/uksi/2004/584/article/9)

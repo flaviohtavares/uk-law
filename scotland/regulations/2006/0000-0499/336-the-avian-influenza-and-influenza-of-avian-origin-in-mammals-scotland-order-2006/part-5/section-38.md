@@ -31,11 +31,11 @@ summary: ''
 
 (2) Paragraph (1) applies to poultry moved to a slaughterhouse–
 
-- (a) from a border control[^key-dce550c17da4f6598ac50e0d9b597516] post under article 39(2), as if references to article 37 were to that article; and
+- (a) from a border control[^c-dce550c17da4f6598ac50e0d9b597516] post under article 39(2), as if references to article 37 were to that article; and
 - (b) on a vehicle under article 40, as if references to article 37 were to that article.
 
 (3) The occupier of a slaughterhouse where highly pathogenic avian influenza is suspected or confirmed must, in accordance the Scottish Minister's instructions, dispose of the things set out in sub-paragraphs (1)(b)(i) to (iv) (both inclusive) or assist a veterinary inspector in removing those things from the premises.
 
 ## Annotations
 
-[^key-dce550c17da4f6598ac50e0d9b597516]: Textual amendment: Word in [art. 38(2)(a)](https://www.legislation.gov.uk/ssi/2006/336/article/38/2/a) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(9)](https://www.legislation.gov.uk/ssi/2023/361/article/2/9)
+[^c-dce550c17da4f6598ac50e0d9b597516]: Textual amendment: Word in [art. 38(2)(a)](https://www.legislation.gov.uk/ssi/2006/336/article/38/2/a) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(9)](https://www.legislation.gov.uk/ssi/2023/361/article/2/9)

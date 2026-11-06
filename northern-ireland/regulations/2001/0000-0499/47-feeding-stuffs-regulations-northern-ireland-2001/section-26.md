@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Modification of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-4ae83987bd16d1464ef7227480e4557b]
+## 26. Modification of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-4ae83987bd16d1464ef7227480e4557b]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae83987bd16d1464ef7227480e4557b]: Commencement: Reg. 26 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-4ae83987bd16d1464ef7227480e4557b]: Commencement: Reg. 26 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00035]: Footnote: S.I. [1999/1872](https://www.legislation.gov.uk/uksi/1999/1872) (to which there are modifications not relevant to these Regulations)

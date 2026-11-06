@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.11. Assignment of right to dividend[^key-0d15e0bcbac369f8124f691ec974b821]
+## 11.11. Assignment of right to dividend[^c-0d15e0bcbac369f8124f691ec974b821]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d15e0bcbac369f8124f691ec974b821]: Commencement: [Rule 11.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0d15e0bcbac369f8124f691ec974b821]: Commencement: [Rule 11.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

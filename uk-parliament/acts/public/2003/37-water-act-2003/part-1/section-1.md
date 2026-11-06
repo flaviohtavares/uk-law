@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Licences to abstract water[^key-9dd0e2dd4a3a510f5782e48602b6fe74]
+## 1. Licences to abstract water[^c-9dd0e2dd4a3a510f5782e48602b6fe74]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dd0e2dd4a3a510f5782e48602b6fe74]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/37/section/1) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/984/article/2/a) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-9dd0e2dd4a3a510f5782e48602b6fe74]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/37/section/1) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/984/article/2/a) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

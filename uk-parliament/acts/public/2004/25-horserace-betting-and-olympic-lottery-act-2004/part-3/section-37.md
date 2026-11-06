@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Extent[^key-1904a57f5ff60ac1cd0cc513a1866d25]
+## 37. Extent[^c-1904a57f5ff60ac1cd0cc513a1866d25]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ This Part extends to—
 
 ## Annotations
 
-[^key-1904a57f5ff60ac1cd0cc513a1866d25]: Commencement: S. 37 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-1904a57f5ff60ac1cd0cc513a1866d25]: Commencement: S. 37 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

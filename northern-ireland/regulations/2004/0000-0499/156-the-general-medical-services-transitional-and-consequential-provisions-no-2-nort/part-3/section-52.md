@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Grounds for termination of the general medical services contract[^key-c7728a9b33d4dc049c89eb5fc65cb37c]
+## 52. Grounds for termination of the general medical services contract[^c-c7728a9b33d4dc049c89eb5fc65cb37c]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ those circumstances shall, for the purposes of the term of the general medical s
 
 ## Annotations
 
-[^key-c7728a9b33d4dc049c89eb5fc65cb37c]: Commencement: Art. 52 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c7728a9b33d4dc049c89eb5fc65cb37c]: Commencement: Art. 52 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

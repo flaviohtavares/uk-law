@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Expenses of members[^key-230211048ded283a06e5927d399ded90]
+## 119. Expenses of members[^c-230211048ded283a06e5927d399ded90]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230211048ded283a06e5927d399ded90]: Commencement: [Rule 119](https://www.legislation.gov.uk/uksi/2011/1301/rule/119) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-230211048ded283a06e5927d399ded90]: Commencement: [Rule 119](https://www.legislation.gov.uk/uksi/2011/1301/rule/119) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

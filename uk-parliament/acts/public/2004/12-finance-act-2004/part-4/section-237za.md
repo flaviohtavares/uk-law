@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237ZA. Pension input amounts for input periods ending in 2015-16[^key-47e3daee733f3edfec9076df3e90487e]
+## 237ZA. Pension input amounts for input periods ending in 2015-16[^c-47e3daee733f3edfec9076df3e90487e]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) This section applies where the tax year is the pre-alignment tax year or the post-alignment tax year (see section 228C(2)).
 
@@ -140,6 +140,6 @@ where D is the number of days in the combined period.
 
 ## Annotations
 
-[^key-47e3daee733f3edfec9076df3e90487e]: Textual amendment: [S. 237ZA](https://www.legislation.gov.uk/ukpga/2004/12/section/237ZA) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/9)
+[^c-47e3daee733f3edfec9076df3e90487e]: Textual amendment: [S. 237ZA](https://www.legislation.gov.uk/ukpga/2004/12/section/237ZA) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/9)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)

@@ -41,7 +41,7 @@ as they apply to prisoners who are serving sentences of imprisonment.
 - (g) by virtue of a warrant granted under section 1(1) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1940 [^c21071611];
 - (h) for contempt of court or for non payment of a fine for contempt of court;
 - (i) for breach of interdict; and
-- (j) by virtue of, or by virtue of any rules or regulations made under, the Armed Forces Act 2006 [^c21071621] or the Court Martial Appeals Act 1968[^key-4f19053218cc4132146cc8dbd03ab869][^c21071631],
+- (j) by virtue of, or by virtue of any rules or regulations made under, the Armed Forces Act 2006 [^c21071621] or the Court Martial Appeals Act 1968[^c-4f19053218cc4132146cc8dbd03ab869][^c21071631],
 
 as they apply to persons serving sentences of imprisonment.
 
@@ -74,7 +74,7 @@ as they apply to persons serving sentences of imprisonment.
 
 [^c21071621]: Marginal citation: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-4f19053218cc4132146cc8dbd03ab869]: Textual amendment: Words in rule 3(3)(j) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/4)
+[^c-4f19053218cc4132146cc8dbd03ab869]: Textual amendment: Words in rule 3(3)(j) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/4)
 
 [^c21071631]: Marginal citation: [1968 c.20](https://www.legislation.gov.uk/ukpga/1968/20); section 43 was relevantly amended by paragraph 17 of Schedule 9 to the [Constitutional Reform Act 2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4).
 

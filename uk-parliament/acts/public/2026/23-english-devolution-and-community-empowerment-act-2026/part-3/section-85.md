@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Regulations[^key-c695cc7111e9802e416e4c6cb562519c]
+## 85. Regulations[^c-c695cc7111e9802e416e4c6cb562519c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ are subject to affirmative resolution procedure.
 
 ## Annotations
 
-[^key-c695cc7111e9802e416e4c6cb562519c]: Commencement: S. 85 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-c695cc7111e9802e416e4c6cb562519c]: Commencement: S. 85 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

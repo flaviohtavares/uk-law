@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. New energy administrator appointed[^key-97af0d82842e8ec0701bf132dfd40031]
+## 44. New energy administrator appointed[^c-97af0d82842e8ec0701bf132dfd40031]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97af0d82842e8ec0701bf132dfd40031]: Commencement: Rule 44 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-97af0d82842e8ec0701bf132dfd40031]: Commencement: Rule 44 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

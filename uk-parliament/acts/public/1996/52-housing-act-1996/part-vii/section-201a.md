@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201A. Cases referred from a local housing authority in Wales[^key-400a05dc122533a95da78dc01aeabdbd]
+## 201A. Cases referred from a local housing authority in Wales[^c-400a05dc122533a95da78dc01aeabdbd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-400a05dc122533a95da78dc01aeabdbd]: Textual amendment: S. 201A inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/13); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-400a05dc122533a95da78dc01aeabdbd]: Textual amendment: S. 201A inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/13); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))

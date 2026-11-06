@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Administration in relation to insolvent partnerships[^key-7783b55abde26e5ef81ae1a36cde8e5f]
+## 110. Administration in relation to insolvent partnerships[^c-7783b55abde26e5ef81ae1a36cde8e5f]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ In Article 6 of the 1995 Order, in paragraph (3)—
 
 ## Annotations
 
-[^key-7783b55abde26e5ef81ae1a36cde8e5f]: Commencement: S. 110 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7783b55abde26e5ef81ae1a36cde8e5f]: Commencement: S. 110 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

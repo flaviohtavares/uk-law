@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Powers to require information relating to investigations[^key-edb0153722ee49351349561112848686]
+## 110. Powers to require information relating to investigations[^c-edb0153722ee49351349561112848686]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ In section 109B of the Social Security Administration Act 1992 (power to require
 
 ## Annotations
 
-[^key-edb0153722ee49351349561112848686]: Commencement: S. 110 in force at 17.6.2013 for specified purposes and 1.10.2013 in so far as not already in force by [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 3](https://www.legislation.gov.uk/uksi/2013/1250/article/3)
+[^c-edb0153722ee49351349561112848686]: Commencement: S. 110 in force at 17.6.2013 for specified purposes and 1.10.2013 in so far as not already in force by [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 3](https://www.legislation.gov.uk/uksi/2013/1250/article/3)

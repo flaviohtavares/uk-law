@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Arranging or facilitating commission of a child sex offence[^key-0619fd1a057599bee11968bf2385760a][^key-9290b7309c873d043691bffea6636b7a]
+## 46. Arranging or facilitating commission of a child sex offence[^c-0619fd1a057599bee11968bf2385760a][^c-9290b7309c873d043691bffea6636b7a]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0619fd1a057599bee11968bf2385760a]: Commencement: S. 46 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-0619fd1a057599bee11968bf2385760a]: Commencement: S. 46 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9290b7309c873d043691bffea6636b7a]: Commencement: S. 46 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/d)
+[^c-9290b7309c873d043691bffea6636b7a]: Commencement: S. 46 in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/d)

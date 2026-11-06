@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286. Meaning of “authorised insurer”[^key-7a3d6b3be7a80a93910c1f2fa7fb320e]
+## 286. Meaning of “authorised insurer”[^c-7a3d6b3be7a80a93910c1f2fa7fb320e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a3d6b3be7a80a93910c1f2fa7fb320e]: Commencement: Art. 286 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7a3d6b3be7a80a93910c1f2fa7fb320e]: Commencement: Art. 286 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00207]: Footnote: The definition of “authorised insurer” was substituted by [S.I. 1992/2890](https://www.legislation.gov.uk/uksi/1992/2890) regulation 12(1).
 

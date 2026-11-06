@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112A. Offence by overseas entity[^key-791bfce43b6eacf7e12f1014f338dfed]
+## 112A. Offence by overseas entity[^c-791bfce43b6eacf7e12f1014f338dfed]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-791bfce43b6eacf7e12f1014f338dfed]: Textual amendment: [S. 112A](https://www.legislation.gov.uk/asp/2012/5/section/112A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/7); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-791bfce43b6eacf7e12f1014f338dfed]: Textual amendment: [S. 112A](https://www.legislation.gov.uk/asp/2012/5/section/112A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/7); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

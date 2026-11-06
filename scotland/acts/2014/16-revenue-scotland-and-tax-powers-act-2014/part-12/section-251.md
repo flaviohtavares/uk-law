@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 251. Communications from taxpayers to Revenue Scotland[^key-036bbbc1bc769dddd5027beebc8356ee]
+## 251. Communications from taxpayers to Revenue Scotland[^c-036bbbc1bc769dddd5027beebc8356ee]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-036bbbc1bc769dddd5027beebc8356ee]: Commencement: [S. 251](https://www.legislation.gov.uk/asp/2014/16/section/251) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-036bbbc1bc769dddd5027beebc8356ee]: Commencement: [S. 251](https://www.legislation.gov.uk/asp/2014/16/section/251) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

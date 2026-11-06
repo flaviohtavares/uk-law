@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Information (England) (Amendment) Regulations 2010 (revoked)[^key-461a0c68a2825b5c27d4d69386966fb3]
+The School Information (England) (Amendment) Regulations 2010 (revoked)[^c-461a0c68a2825b5c27d4d69386966fb3]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 1st September 2010
 
-[^key-461a0c68a2825b5c27d4d69386966fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-461a0c68a2825b5c27d4d69386966fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and application[^key-461a0c68a2825b5c27d4d69386966fb3]
+## 1. Citation, commencement and application[^c-461a0c68a2825b5c27d4d69386966fb3]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the School Information (England) Regulations 2008[^key-461a0c68a2825b5c27d4d69386966fb3]
+## 2. Amendment of the School Information (England) Regulations 2008[^c-461a0c68a2825b5c27d4d69386966fb3]
 
 **Not yet in force.**
 
@@ -62,16 +62,16 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-461a0c68a2825b5c27d4d69386966fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-461a0c68a2825b5c27d4d69386966fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE[^key-461a0c68a2825b5c27d4d69386966fb3]
+## SCHEDULE[^c-461a0c68a2825b5c27d4d69386966fb3]
 
 Regulation 2(6)
 
 **May not be in force at this date. Check the source.**
 
-[^key-461a0c68a2825b5c27d4d69386966fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-461a0c68a2825b5c27d4d69386966fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-461a0c68a2825b5c27d4d69386966fb3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1006) revoked (27.8.2010) by [The School Information (England) (Amendment) (Revocation) Regulations 2010 (S.I. 2010/1874)](https://www.legislation.gov.uk/uksi/2010/1874), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1874/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/1874/regulation/2)
+[^c-461a0c68a2825b5c27d4d69386966fb3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1006) revoked (27.8.2010) by [The School Information (England) (Amendment) (Revocation) Regulations 2010 (S.I. 2010/1874)](https://www.legislation.gov.uk/uksi/2010/1874), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1874/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/1874/regulation/2)

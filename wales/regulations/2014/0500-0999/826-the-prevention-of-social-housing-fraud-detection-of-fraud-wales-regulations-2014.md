@@ -43,13 +43,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 9(4) of that Act, a draft of this instrument was laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-ba7a0da6a922d6d758aa39a770a04b07]
+## 1. Title, commencement and application[^c-ba7a0da6a922d6d758aa39a770a04b07]
 
 (1) The title of these Regulations is the Prevention of Social Housing Fraud (Detection of Fraud) (Wales) Regulations 2014 and they come into force on 28 March 2014.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-298b8d07ec33175e08c48b1f22f9bea9]
+## 2. Interpretation[^c-298b8d07ec33175e08c48b1f22f9bea9]
 
 (1) In these Regulations—
 
@@ -62,7 +62,7 @@ In accordance with section 9(4) of that Act, a draft of this instrument was laid
   - (i) are transmitted to the recipient of the notice by electronic means; and
   - (ii) are received by that person in a form that is legible and capable of being recorded for future reference.
 
-## 3. Authorisation by local authorities[^key-fd31512d96d1b83c6726257c861c198e]
+## 3. Authorisation by local authorities[^c-fd31512d96d1b83c6726257c861c198e]
 
 (1) Subject to paragraphs (2) and (3), a local authority may grant an authorisation to an individual to exercise the powers conferred on an authorised officer under regulation 4.
 
@@ -81,7 +81,7 @@ In accordance with section 9(4) of that Act, a draft of this instrument was laid
 
 (5) The written authorisation or withdrawal of an authorisation by any local authority must be signed by either—
 
-- (a)[^key-8e8af66e3f245cc8dd773fadbd85f1d5] the officer appointed as chief executive under section 54 of the Local Government and Elections (Wales) Act 2021; or
+- (a)[^c-8e8af66e3f245cc8dd773fadbd85f1d5] the officer appointed as chief executive under section 54 of the Local Government and Elections (Wales) Act 2021; or
 - (b) the officer who is the authority’s chief finance officer (within the meaning of section 5 of that Act).
 
 (6) An individual who for the time being is authorised for the purposes of regulation 4, is only entitled to exercise any of the powers which are conferred on an authorised officer by that regulation for housing fraud investigation purposes.
@@ -91,7 +91,7 @@ In accordance with section 9(4) of that Act, a draft of this instrument was laid
 - (a) whether or not that dwelling-house is or was let under a tenancy under which the landlord is or was the authority by which the officer’s authorisation was granted; and
 - (b) whether or not that dwelling house is located in the area of the authority by which the officer’s authorisation was granted.
 
-## 4. Power to require information[^key-c807c5f70bdc8943048a6802a203a549]
+## 4. Power to require information[^c-c807c5f70bdc8943048a6802a203a549]
 
 (1) An authorised officer who has reasonable grounds for suspecting that a person—
 
@@ -152,7 +152,7 @@ and for the purposes of this paragraph it is immaterial whether the information 
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-## 5. Delay, obstruction etc. of an authorised officer[^key-3cccdb9d41022de576eda3825e11f58f]
+## 5. Delay, obstruction etc. of an authorised officer[^c-3cccdb9d41022de576eda3825e11f58f]
 
 (1) If a person (P)—
 
@@ -163,7 +163,7 @@ P is guilty of an offence and liable on summary conviction to a fine not exceedi
 
 (2) Where P is convicted of an offence under paragraph (1)(b) and the refusal or failure is continued by P after P’s conviction, P will be guilty of a further offence and liable on summary conviction to a fine not exceeding £40 for each day on which it is continued.
 
-## 6. Offences by bodies corporate[^key-fb061ed0fb2cbd00805692afb79ffb52]
+## 6. Offences by bodies corporate[^c-fb061ed0fb2cbd00805692afb79ffb52]
 
 (1) Where an offence under these Regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, that person, as well as the body corporate, will be guilty of that offence and liable to be proceeded against accordingly.
 
@@ -193,15 +193,15 @@ Regulation 6 makes provision for offences under the Regulations committed by bod
 
 [^f00001]: Footnote: [2013 c.3](https://www.legislation.gov.uk/ukpga/2013/3).
 
-[^key-ba7a0da6a922d6d758aa39a770a04b07]: Commencement: Reg. 1 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
+[^c-ba7a0da6a922d6d758aa39a770a04b07]: Commencement: Reg. 1 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
 
-[^key-298b8d07ec33175e08c48b1f22f9bea9]: Commencement: Reg. 2 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
+[^c-298b8d07ec33175e08c48b1f22f9bea9]: Commencement: Reg. 2 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
 
-[^key-fd31512d96d1b83c6726257c861c198e]: Commencement: Reg. 3 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
+[^c-fd31512d96d1b83c6726257c861c198e]: Commencement: Reg. 3 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
 
-[^key-8e8af66e3f245cc8dd773fadbd85f1d5]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/wsi/2014/826/regulation/3/5/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/355/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-8e8af66e3f245cc8dd773fadbd85f1d5]: Textual amendment: [Reg. 3(5)(a)](https://www.legislation.gov.uk/wsi/2014/826/regulation/3/5/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/355/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-c807c5f70bdc8943048a6802a203a549]: Commencement: Reg. 4 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
+[^c-c807c5f70bdc8943048a6802a203a549]: Commencement: Reg. 4 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
 
 [^f00003]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45) and subsection (1) was subsequently amended by section 76 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27). Other amendments made to that subsection and section 7 more generally are not relevant to these Regulations.
 
@@ -223,6 +223,6 @@ Regulation 6 makes provision for offences under the Regulations committed by bod
 
 [^f00012]: Footnote: The heading to section 22 was substituted by section 7(1)(d) of the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21). Other amendments made to section 22 are not relevant to these Regulations.
 
-[^key-3cccdb9d41022de576eda3825e11f58f]: Commencement: Reg. 5 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
+[^c-3cccdb9d41022de576eda3825e11f58f]: Commencement: Reg. 5 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
 
-[^key-fb061ed0fb2cbd00805692afb79ffb52]: Commencement: Reg. 6 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)
+[^c-fb061ed0fb2cbd00805692afb79ffb52]: Commencement: Reg. 6 in force at 28.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/826/regulation/1/1)

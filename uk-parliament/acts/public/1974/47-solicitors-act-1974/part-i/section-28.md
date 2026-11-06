@@ -25,7 +25,7 @@ summary: ''
 - (a) admission as a solicitor;
 - (b) the keeping of the roll;
 - (c)[^c20516461] practising certificates [^c19656421]. . . ;
-- (ca)[^key-fd39edbff73555f69e694059ef8d759f][^c20516461][^c19656171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ca)[^c-fd39edbff73555f69e694059ef8d759f][^c20516461][^c19656171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c20516461] the keeping of the register under section 10A[^c19656191] .
 
 (2) [^c19656341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -44,17 +44,17 @@ summary: ''
 - (e)[^c19656271] require the information on the roll to be made available to the public;
 - (f) specify the manner in which information is to be made so available and require it to be made so available during office hours and without charge.
 
-(3B)[^c20518561][^c19656291] Regulations about practising certificates [^key-d4921cb85e77db21803e689bba748679]... may (among other things)—
+(3B)[^c20518561][^c19656291] Regulations about practising certificates [^c-d4921cb85e77db21803e689bba748679]... may (among other things)—
 
-- (a) prescribe the form and manner in which applications for, or relating to, practising certificates [^key-d4921cb85e77db21803e689bba748679]... are to be made;
+- (a) prescribe the form and manner in which applications for, or relating to, practising certificates [^c-d4921cb85e77db21803e689bba748679]... are to be made;
 - (b) prescribe information which must be included in or accompany such applications;
 - (c) make provision about time limits for dealing with such applications, and confer on a person power to extend or bring forward such a time limit in prescribed circumstances;
 - (d) prescribe the requirements which applicants for practising certificates must satisfy before they may be issued with a practising certificate;
 - (e) prescribe descriptions of applicants, and conditions in relation to them, for the purposes of section 10(2) (circumstances in which practising certificates must be issued subject to prescribed conditions);
-- (f)[^key-f8ddaae7757655c8bfa802c6749e746f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-f8ddaae7757655c8bfa802c6749e746f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) prescribe circumstances for the purposes of section 10(3) (circumstances in which application may be refused etc in the public interest);
 - (h) make provision about when conditions imposed on practising certificates take effect (including provision conferring power on the Society to direct that a condition is not to have effect until the conclusion of any appeal in relation to it);
-- (i) make provision for the commencement, duration, replacement, withdrawal and expiry of practising certificates [^key-d4921cb85e77db21803e689bba748679]...;
+- (i) make provision for the commencement, duration, replacement, withdrawal and expiry of practising certificates [^c-d4921cb85e77db21803e689bba748679]...;
 - (j) prescribe circumstances for the purposes of section 13A(2) (circumstances in which conditions can be imposed during period of practising certificate);
 - (k) require solicitors who hold practising certificates to notify the Society of such matters as may be prescribed, at such times, or in such circumstances as may be prescribed.
 
@@ -95,7 +95,7 @@ summary: ''
 
 [^c19656421]: Textual amendment: Words in s. 28(1)(c) repealed (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/30/2/b), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iv) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2009/1365/article/3), [4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-fd39edbff73555f69e694059ef8d759f]: Textual amendment: [S. 28(1)(ca)](https://www.legislation.gov.uk/ukpga/1974/47/section/28/1/ca) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/11/a)
+[^c-fd39edbff73555f69e694059ef8d759f]: Textual amendment: [S. 28(1)(ca)](https://www.legislation.gov.uk/ukpga/1974/47/section/28/1/ca) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/11/a)
 
 [^c19656171]: Textual amendment: S. 28(1)(ca) inserted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 30(2)(d)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/30/2/d) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iv) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2009/1365/article/3), [4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
@@ -115,8 +115,8 @@ summary: ''
 
 [^c19656291]: Textual amendment: S. 28(3B)-(3G) inserted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 30(5)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/30/5) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iv) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2009/1365/article/3), [4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-d4921cb85e77db21803e689bba748679]: Textual amendment: Words in [s. 28(3B)](https://www.legislation.gov.uk/ukpga/1974/47/section/28/3B) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 11(b)(i)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/11/b/i)
+[^c-d4921cb85e77db21803e689bba748679]: Textual amendment: Words in [s. 28(3B)](https://www.legislation.gov.uk/ukpga/1974/47/section/28/3B) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 11(b)(i)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/11/b/i)
 
-[^key-f8ddaae7757655c8bfa802c6749e746f]: Textual amendment: [S. 28(3B)(f)](https://www.legislation.gov.uk/ukpga/1974/47/section/28/3B/f) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 11(b)(ii)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/11/b/ii)
+[^c-f8ddaae7757655c8bfa802c6749e746f]: Textual amendment: [S. 28(3B)(f)](https://www.legislation.gov.uk/ukpga/1974/47/section/28/3B/f) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 11(b)(ii)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/11/b/ii)
 
 [^c19656371]: Textual amendment: S. 28(4)(5) repealed (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 30(6)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/30/6), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iv)(c)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iv/c/i) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2009/1365/article/3), [4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))

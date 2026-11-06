@@ -50,11 +50,11 @@ The Secretary of State has had regard to relevant advice given by the Food Stand
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23551101].
 
-## 1. Citation and commencement[^key-15249007cd35c71cfba51e2137f58cb8]
+## 1. Citation and commencement[^c-15249007cd35c71cfba51e2137f58cb8]
 
 These Regulations may be cited as the Food (Amendment) (England) (EU Exit) Regulations 2019 and come into force on exit day.
 
-## 2. The Food (Lot Marking) Regulations 1996[^key-53ba779e3e7c488667dee434d25c5017]
+## 2. The Food (Lot Marking) Regulations 1996[^c-53ba779e3e7c488667dee434d25c5017]
 
 (1) The Food (Lot Marking) Regulations 1996 [^c23551111] are amended as follows.
 
@@ -62,13 +62,13 @@ These Regulations may be cited as the Food (Amendment) (England) (EU Exit) Regul
 
 (3) In regulation 3(2)(a), for “European Union” substitute “ United Kingdom ”.
 
-## 3. The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007[^key-dfcde60db664690f1eba7ce49de12368]
+## 3. The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007[^c-dfcde60db664690f1eba7ce49de12368]
 
 (1) The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) Regulations 2007 [^c23551121] are amended as follows.
 
 (2) In regulation 2(1)—
 
-- (a)[^key-1ac25727f7ca2c972e35e63423c4a66e] in the definition of “authorised activated alumina treatment” for paragraph (b) substitute—
+- (a)[^c-1ac25727f7ca2c972e35e63423c4a66e] in the definition of “authorised activated alumina treatment” for paragraph (b) substitute—
 
   > - (b) in the case of natural mineral water or spring water brought into England from Scotland or Wales, a treatment which complies with Articles 1 to 3 of [Commission Regulation (EU) No 115/2010](https://www.legislation.gov.uk/eur/2010/0115);
   > - (c) in the case of natural mineral water or spring water brought into England from Northern Ireland or from an EEA State, a treatment which complies with Articles 1 and 2 of [Commission Regulation (EU) No 115/2010](https://www.legislation.gov.uk/eur/2010/0115) as it has effect in EU law;
@@ -100,7 +100,7 @@ These Regulations may be cited as the Food (Amendment) (England) (EU Exit) Regul
 
   .
 
-(3)[^key-3485c7f14706d5abd1c48cb07648a571] For regulation 3(1)(d) substitute—
+(3)[^c-3485c7f14706d5abd1c48cb07648a571] For regulation 3(1)(d) substitute—
 
 > - (d) is a natural mineral water intended for—
 >   - (i) movement into Northern Ireland;
@@ -115,7 +115,7 @@ These Regulations may be cited as the Food (Amendment) (England) (EU Exit) Regul
   - (ii) omit sub-paragraph (c);
   - (iii) in sub-paragraph (d)—
     - (aa) in the words before paragraph (i), for “country other than an EEA State” substitute “ third country ”;
-    - (bb)[^key-0e69e2acfb626fa8fa0cf6b195b1fd50] for paragraph (ii) substitute—
+    - (bb)[^c-0e69e2acfb626fa8fa0cf6b195b1fd50] for paragraph (ii) substitute—
 
       > - (ii) it has equivalent recognition in Northern Ireland granted by the Agency in accordance with regulation 4(2)(d)(i) of, and Part 2 of Schedule 1 to, the Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015, or
       > - (iii) it has equivalent recognition in Scotland granted by the Agency in accordance with regulation 4(1)(d)(i) of, and Part 2 of Schedule 3 to, the Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007, or
@@ -137,7 +137,7 @@ These Regulations may be cited as the Food (Amendment) (England) (EU Exit) Regul
 - (a) in the definition of “certificate of conformity” omit paragraph (b) and the “or” immediately preceding it;
 - (b) in the definition of “declaration of conformity” omit paragraph (b) and the “or” immediately preceding it.
 
-## 4. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^key-14733db1a0e92037d9c475913963b8c2]
+## 4. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^c-14733db1a0e92037d9c475913963b8c2]
 
 (1) The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008 [^c23551181] are amended as follows.
 
@@ -163,15 +163,15 @@ These Regulations may be cited as the Food (Amendment) (England) (EU Exit) Regul
 
 (5) In regulation 7(2), for “EU” substitute “ specified ”.
 
-## 5. The Food Information Regulations 2014[^key-6c5e1439d29b71d7f4d98207f3c246d8]
+## 5. The Food Information Regulations 2014[^c-6c5e1439d29b71d7f4d98207f3c246d8]
 
 In the Food Information Regulations 2014 [^c23551191], in Schedule 5, in Part 2, in the table omit the entries numbered 33 and 34.
 
-## 6. The Country of Origin of Certain Meats (England) Regulations 2015[^key-746aaaed7207dc41ecd21bbc9804a34e]
+## 6. The Country of Origin of Certain Meats (England) Regulations 2015[^c-746aaaed7207dc41ecd21bbc9804a34e]
 
 In the Country of Origin of Certain Meats (England) Regulations 2015 [^c23551201], in regulation 3(a), for “member State or third” substitute “ single ”.
 
-## 7. The Honey (England) Regulations 2015[^key-1eeee15ad33d6f67e34069f9913a3b88]
+## 7. The Honey (England) Regulations 2015[^c-1eeee15ad33d6f67e34069f9913a3b88]
 
 In the Honey (England) Regulations 2015 [^c23551211], after regulation 18, insert—
 
@@ -203,17 +203,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23551101]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, to which there are amendments not relevant to these Regulations.
 
-[^key-15249007cd35c71cfba51e2137f58cb8]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-15249007cd35c71cfba51e2137f58cb8]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-53ba779e3e7c488667dee434d25c5017]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-53ba779e3e7c488667dee434d25c5017]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23551111]: Marginal citation: [S.I. 1996/1502](https://www.legislation.gov.uk/uksi/1996/1502), relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), 2014/1855.
 
-[^key-dfcde60db664690f1eba7ce49de12368]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dfcde60db664690f1eba7ce49de12368]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23551121]: Marginal citation: [S.I. 2007/2785](https://www.legislation.gov.uk/uksi/2007/2785), relevant amending instruments are [S.I. 2009/1598](https://www.legislation.gov.uk/uksi/2009/1598), 2010/433, 2011/451, 2018/352.
 
-[^key-1ac25727f7ca2c972e35e63423c4a66e]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/3/2/a)
+[^c-1ac25727f7ca2c972e35e63423c4a66e]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/3/2/a)
 
 [^c23551131]: Marginal citation: OJ No. L 126, 22.5.2003, p. 34.
 
@@ -223,24 +223,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23551161]: Marginal citation: [S.I. 2015/1867](https://www.legislation.gov.uk/uksi/2015/1867) (W. 274), amended by [S.I. 2017/935](https://www.legislation.gov.uk/uksi/2017/935) (W. 229).
 
-[^key-3485c7f14706d5abd1c48cb07648a571]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/3/2/b)
+[^c-3485c7f14706d5abd1c48cb07648a571]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/3/2/b)
 
 [^c23551171]: Marginal citation: OJ No. L 164, 26.6.2009, p. 45.
 
-[^key-0e69e2acfb626fa8fa0cf6b195b1fd50]: Textual amendment: Reg. 3(4)(a)(iii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/3/2/c)
+[^c-0e69e2acfb626fa8fa0cf6b195b1fd50]: Textual amendment: Reg. 3(4)(a)(iii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Food (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1501)](https://www.legislation.gov.uk/uksi/2020/1501), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/1/a), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1501/regulation/3/2/c)
 
-[^key-14733db1a0e92037d9c475913963b8c2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-14733db1a0e92037d9c475913963b8c2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23551181]: Marginal citation: [S.I. 2008/1287](https://www.legislation.gov.uk/uksi/2008/1287), relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), 2013/2854, 3235.
 
-[^key-6c5e1439d29b71d7f4d98207f3c246d8]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6c5e1439d29b71d7f4d98207f3c246d8]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23551191]: Marginal citation: [S.I. 2014/1855](https://www.legislation.gov.uk/uksi/2014/1855), to which there are amendments not relevant to these Regulations.
 
-[^key-746aaaed7207dc41ecd21bbc9804a34e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-746aaaed7207dc41ecd21bbc9804a34e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23551201]: Marginal citation: [S.I. 2015/518](https://www.legislation.gov.uk/uksi/2015/518).
 
-[^key-1eeee15ad33d6f67e34069f9913a3b88]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1eeee15ad33d6f67e34069f9913a3b88]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23551211]: Marginal citation: [S.I. 2015/1348](https://www.legislation.gov.uk/uksi/2015/1348).

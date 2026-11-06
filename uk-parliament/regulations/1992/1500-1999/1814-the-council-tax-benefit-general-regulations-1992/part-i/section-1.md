@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-f19ff1b73cd74699e9d3e4bc7f963572]
+## 1. Citation and commencement[^c-f19ff1b73cd74699e9d3e4bc7f963572]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ These Regulations may be cited as the Council Tax Benefit (General) Regulations 
 
 ## Annotations
 
-[^key-f19ff1b73cd74699e9d3e4bc7f963572]: Commencement: Reg. 1 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+[^c-f19ff1b73cd74699e9d3e4bc7f963572]: Commencement: Reg. 1 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)

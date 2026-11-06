@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Removals from the list of patients[^key-ed79acd4fdd7b58e0a04d4ddf4c49088]
+## 45. Removals from the list of patients[^c-ed79acd4fdd7b58e0a04d4ddf4c49088]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed79acd4fdd7b58e0a04d4ddf4c49088]: Commencement: Art. 45 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-ed79acd4fdd7b58e0a04d4ddf4c49088]: Commencement: Art. 45 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

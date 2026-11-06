@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Implementation in respect of nursery schools etc.[^key-79e15b190e7fb2465b0d46c758109d78]
+## 89. Implementation in respect of nursery schools etc.[^c-79e15b190e7fb2465b0d46c758109d78]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79e15b190e7fb2465b0d46c758109d78]: Textual amendment: S. 89 repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/11), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-79e15b190e7fb2465b0d46c758109d78]: Textual amendment: S. 89 repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/11), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))

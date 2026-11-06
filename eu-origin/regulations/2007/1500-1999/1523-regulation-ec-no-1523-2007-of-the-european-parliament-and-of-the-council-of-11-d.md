@@ -125,9 +125,9 @@ HAVE ADOPTED THIS REGULATION:
 
 ## Article 1. Objective
 
-The purpose of this Regulation is , subject to any derogations permitted by regulations made under Article 4,[^key-1b6c429a8f6f314953ce09b9190f82fd] to ban the placing on the market and the import to, or export from, Great Britain[^key-75e428842ccdaac4df0f0feaa655caed] of cat and dog fur, and products containing such fur in order [^key-11a0b251553e5247cef4a6422eb401a9]... to restore consumer confidence in the fact that the fur products which consumers buy do not contain cat and dog fur.
+The purpose of this Regulation is , subject to any derogations permitted by regulations made under Article 4,[^c-1b6c429a8f6f314953ce09b9190f82fd] to ban the placing on the market and the import to, or export from, Great Britain[^c-75e428842ccdaac4df0f0feaa655caed] of cat and dog fur, and products containing such fur in order [^c-11a0b251553e5247cef4a6422eb401a9]... to restore consumer confidence in the fact that the fur products which consumers buy do not contain cat and dog fur.
 
-## Article 2. Definitions[^key-01aed73b8d1e1343d1cf6dc5fb59792a]
+## Article 2. Definitions[^c-01aed73b8d1e1343d1cf6dc5fb59792a]
 
 For the purpose of this Regulation, the following definitions apply:
 
@@ -147,9 +147,9 @@ For the purpose of this Regulation, the following definitions apply:
 
 ## Article 3. Prohibitions
 
-Subject to the provisions of any regulations made under Article 4, the placing on the market[^key-2e0f8dae38983ffffb4926cbc3bddbf9] and the import to, or export from, the Great Britain[^key-ca189978e3ba4f8f8bcba77e3947037a] of cat and dog fur, and products containing such fur shall be prohibited.
+Subject to the provisions of any regulations made under Article 4, the placing on the market[^c-2e0f8dae38983ffffb4926cbc3bddbf9] and the import to, or export from, the Great Britain[^c-ca189978e3ba4f8f8bcba77e3947037a] of cat and dog fur, and products containing such fur shall be prohibited.
 
-## Article 4. Derogations[^key-221759ec0d7e541be8d4698fef2192f1]
+## Article 4. Derogations[^c-221759ec0d7e541be8d4698fef2192f1]
 
 (1.) The Secretary of State may by regulations made by statutory instrument permit—
 
@@ -161,27 +161,27 @@ for educational or taxidermy purposes.
 
 (2.) Regulations made under paragraph 1 are subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## Article 5. Methods for identifying the species of origin of fur[^key-fbab3c594cbb2f6812a6a4e97c224c33]
+## Article 5. Methods for identifying the species of origin of fur[^c-fbab3c594cbb2f6812a6a4e97c224c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Committee[^key-fbab3c594cbb2f6812a6a4e97c224c33]
+## Article 6. Committee[^c-fbab3c594cbb2f6812a6a4e97c224c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reports[^key-fbab3c594cbb2f6812a6a4e97c224c33]
+## Article 7. Reports[^c-fbab3c594cbb2f6812a6a4e97c224c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Penalties[^key-fbab3c594cbb2f6812a6a4e97c224c33]
+## Article 8. Penalties[^c-fbab3c594cbb2f6812a6a4e97c224c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force and applicability[^key-fbab3c594cbb2f6812a6a4e97c224c33]
+## Article 9. Entry into force and applicability[^c-fbab3c594cbb2f6812a6a4e97c224c33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0c979499e5fca8ce7dd16bd9a0cab70]...
+[^c-c0c979499e5fca8ce7dd16bd9a0cab70]...
 
 ## Annotations
 
@@ -195,20 +195,20 @@ for educational or taxidermy purposes.
 
 [^f00005]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG). Decision as amended by Decision 2006/512/EC ([OJ L 200, 22.7.2006, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.200.01.0011.01.ENG)).
 
-[^key-1b6c429a8f6f314953ce09b9190f82fd]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1523/article/1) inserted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/2/a)
+[^c-1b6c429a8f6f314953ce09b9190f82fd]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1523/article/1) inserted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/2/a)
 
-[^key-75e428842ccdaac4df0f0feaa655caed]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1523/article/1) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/2/b)
+[^c-75e428842ccdaac4df0f0feaa655caed]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1523/article/1) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/2/b)
 
-[^key-11a0b251553e5247cef4a6422eb401a9]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1523/article/1) omitted (E.W.S.) (28.9.2022) by virtue of [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/2/c)
+[^c-11a0b251553e5247cef4a6422eb401a9]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2007/1523/article/1) omitted (E.W.S.) (28.9.2022) by virtue of [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/2/c)
 
-[^key-01aed73b8d1e1343d1cf6dc5fb59792a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2007/1523/article/2) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/3)
+[^c-01aed73b8d1e1343d1cf6dc5fb59792a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2007/1523/article/2) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/3)
 
-[^key-2e0f8dae38983ffffb4926cbc3bddbf9]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2007/1523/article/3) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/4/a)
+[^c-2e0f8dae38983ffffb4926cbc3bddbf9]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2007/1523/article/3) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/4/a)
 
-[^key-ca189978e3ba4f8f8bcba77e3947037a]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2007/1523/article/3) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/4/b)
+[^c-ca189978e3ba4f8f8bcba77e3947037a]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2007/1523/article/3) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/4/b)
 
-[^key-221759ec0d7e541be8d4698fef2192f1]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2007/1523/article/4) substituted (E.W.S) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/5)
+[^c-221759ec0d7e541be8d4698fef2192f1]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2007/1523/article/4) substituted (E.W.S) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/5)
 
-[^key-fbab3c594cbb2f6812a6a4e97c224c33]: Textual amendment: [Arts. 5-9](https://www.legislation.gov.uk/eur/2007/1523/article/5) omitted (E.W.S.) (28.9.2022) by virtue of [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/6)
+[^c-fbab3c594cbb2f6812a6a4e97c224c33]: Textual amendment: [Arts. 5-9](https://www.legislation.gov.uk/eur/2007/1523/article/5) omitted (E.W.S.) (28.9.2022) by virtue of [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/6)
 
-[^key-c0c979499e5fca8ce7dd16bd9a0cab70]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/1523/signature) omitted (E.W.S.) (28.9.2022) by virtue of [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/7)
+[^c-c0c979499e5fca8ce7dd16bd9a0cab70]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2007/1523/signature) omitted (E.W.S.) (28.9.2022) by virtue of [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/3/7)

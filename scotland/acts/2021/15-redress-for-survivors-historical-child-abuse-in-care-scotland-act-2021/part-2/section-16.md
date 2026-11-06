@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Retrospective removal of scheme contributor from contributor list[^key-6c4cb9a69ba086d5440586c8d9b779a9]
+## 16. Retrospective removal of scheme contributor from contributor list[^c-6c4cb9a69ba086d5440586c8d9b779a9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c4cb9a69ba086d5440586c8d9b779a9]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/15/section/16) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-6c4cb9a69ba086d5440586c8d9b779a9]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/15/section/16) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

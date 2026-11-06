@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Provision of continuing care: looked after children[^key-9dbd1c759e143b262c3d16488aad9d59]
+## 26A. Provision of continuing care: looked after children[^c-9dbd1c759e143b262c3d16488aad9d59]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dbd1c759e143b262c3d16488aad9d59]: Textual amendment: S. 26A inserted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 67(1)](https://www.legislation.gov.uk/asp/2014/8/section/67/1), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule); [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-9dbd1c759e143b262c3d16488aad9d59]: Textual amendment: S. 26A inserted (1.8.2014 for specified purposes, 1.4.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 67(1)](https://www.legislation.gov.uk/asp/2014/8/section/67/1), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule); [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

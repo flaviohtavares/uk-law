@@ -52,7 +52,7 @@ The Secretary of State is a Minister designated [^c21811931] for the purposes of
 
 These Regulations may be cited as the Construction Products Regulations 2013 and come into force on 1st July 2013.
 
-### 1A. Application[^key-de71b78ab2fe217a780295dbfbb53ae3]
+### 1A. Application[^c-de71b78ab2fe217a780295dbfbb53ae3]
 
 These Regulations apply in England and Wales, and Scotland.
 
@@ -62,32 +62,32 @@ These Regulations apply in England and Wales, and Scotland.
 
 - “**the 2008 Regulation**” means Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/european/regulation/1993/0339) [^c21811951];
 - “**the 2011 Regulation**” means Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council Directive [89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106) [^c21811961];
-- “[^key-d6a9c3e7dca5b33342bdaacbfbb2fa7c]**enforcement authority**” means any local weights and measures authority or the Secretary of State[^key-3cf71e3029df322f7f7a2a5c6dac966f];
-- “[^key-0757874464c6a16ea444f2af89cbcaa0]**the EU Construction Products Regulation**” means Regulation (EU) 305/2011 and Regulation (EU) 2024/3110[^key-3bbf722b204d24854c77b85b7e9bccfd];
+- “[^c-d6a9c3e7dca5b33342bdaacbfbb2fa7c]**enforcement authority**” means any local weights and measures authority or the Secretary of State[^c-3cf71e3029df322f7f7a2a5c6dac966f];
+- “[^c-0757874464c6a16ea444f2af89cbcaa0]**the EU Construction Products Regulation**” means Regulation (EU) 305/2011 and Regulation (EU) 2024/3110[^c-3bbf722b204d24854c77b85b7e9bccfd];
 - “**local weights and measures authority**” means a local weights and measures authority within the meaning of section 69 of the Weights and Measures Act 1985 [^c21811971];
-- “[^key-a66c8c90038f5a2e1708793e3af86c48]**Regulation (EU) 2024/3110**” means Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011, as it has effect in EU law;
+- “[^c-a66c8c90038f5a2e1708793e3af86c48]**Regulation (EU) 2024/3110**” means Regulation (EU) 2024/3110 of the European Parliament and of the Council of 27 November 2024 laying down harmonised rules for the marketing of construction products and repealing Regulation (EU) No 305/2011, as it has effect in EU law;
 - “**Regulation (EU) 305/2011**” means Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC, as it has effect in EU law;
 - “**supply**” includes offering to supply, agreeing to supply, exposing for supply and possessing for supply, and related expressions shall be construed accordingly;
 - “**UK(NI) indication**” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020.
 
-(2) A reference in the 2008 Regulation, as it applies to construction products, or the 2011 Regulation to “**the market surveillance authorities**” shall have effect in relation to the United Kingdom in respect of Great Britain[^key-159b42400f58aff536bb3037fa5efa4b] as a reference [^key-b18d19b75cd723f01d75256dee8f65f4]... to an enforcement authority.
+(2) A reference in the 2008 Regulation, as it applies to construction products, or the 2011 Regulation to “**the market surveillance authorities**” shall have effect in relation to the United Kingdom in respect of Great Britain[^c-159b42400f58aff536bb3037fa5efa4b] as a reference [^c-b18d19b75cd723f01d75256dee8f65f4]... to an enforcement authority.
 
-(3)[^key-192cdd39aa22ffee2638a6bf94262eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-192cdd39aa22ffee2638a6bf94262eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any other expression used in these Regulations and occurring in the 2011 Regulation shall have the same meaning as it has in that Regulation.
 
 ### 3. Competent authority
 
-(1) The competent authority for the United Kingdom in respect of Great Britain[^key-84e46c6685d49240b21f973e91a75c11] for the purposes [^key-ca002fd007c1d1fca40cf09db7c24820]... of the 2011 Regulation is—
+(1) The competent authority for the United Kingdom in respect of Great Britain[^c-84e46c6685d49240b21f973e91a75c11] for the purposes [^c-ca002fd007c1d1fca40cf09db7c24820]... of the 2011 Regulation is—
 
-- (a) [^key-17a055075857913f66fbab3300bde9d8]...an enforcement authority; and
-- (b) such person as the Secretary of State thinks fit to authorise from time to time to be a [^key-05d597abf5a6ec64a004957321205f1d]... competent authority, or to perform certain functions of a competent authority, in addition to or in substitution for the Secretary of State.
+- (a) [^c-17a055075857913f66fbab3300bde9d8]...an enforcement authority; and
+- (b) such person as the Secretary of State thinks fit to authorise from time to time to be a [^c-05d597abf5a6ec64a004957321205f1d]... competent authority, or to perform certain functions of a competent authority, in addition to or in substitution for the Secretary of State.
 
 ## PART 2 — REQUIREMENTS RELATING TO CONSTRUCTION PRODUCTS
 
 ### CHAPTER 1 — Offences in relation to the 2011 Regulation
 
-#### 4. Prohibition on supply etc.[^key-9c75cd396f5d94aa04872567ed7d38ed]
+#### 4. Prohibition on supply etc.[^c-9c75cd396f5d94aa04872567ed7d38ed]
 
 (1) A person who supplies a construction product in respect of Great Britain that is covered by a designated standard or conforms to a UK Technical Assessment that has been issued for it shall be guilty of an offence unless—
 
@@ -99,12 +99,12 @@ These Regulations apply in England and Wales, and Scotland.
 (3) Paragraph (1) does not apply where—
 
 - (a) Article 16A(2) of the 2011 Regulation applies;
-- (b) there is supplied with the product in accordance with Article 7 of the 2011 Regulation (as modified by Article 16A(3) of that Regulation) a declaration of performance for the product drawn up in accordance with Articles 4 and 6 of Regulation (EU) 305/2011 or a declaration of performance and conformity in accordance with Articles 13 and 15 of Regulation (EU) 2024/3110[^key-464de61f0ecf8d2ba55d81c59f4ed15f]; and
+- (b) there is supplied with the product in accordance with Article 7 of the 2011 Regulation (as modified by Article 16A(3) of that Regulation) a declaration of performance for the product drawn up in accordance with Articles 4 and 6 of Regulation (EU) 305/2011 or a declaration of performance and conformity in accordance with Articles 13 and 15 of Regulation (EU) 2024/3110[^c-464de61f0ecf8d2ba55d81c59f4ed15f]; and
 - (c) the product has affixed to it—
   - (i) the CE marking; or
   - (ii) the CE marking accompanied by the UK(NI) indication,
 
-  in accordance with Article 8(2) of Regulation (EU) 305/2011 or Article 17(2) of Regulation (EU) 2024/3110[^key-fe6bc79098d9702fb65bfcec40cccfdc].
+  in accordance with Article 8(2) of Regulation (EU) 305/2011 or Article 17(2) of Regulation (EU) 2024/3110[^c-fe6bc79098d9702fb65bfcec40cccfdc].
 
 (4) A person who supplies a construction product in respect of Great Britain to which the UK marking has been affixed in breach of any provision of Article 8 or 9 of the 2011 Regulation shall be guilty of an offence.
 
@@ -113,7 +113,7 @@ These Regulations apply in England and Wales, and Scotland.
 - (a) the CE marking; or
 - (b) the CE marking and accompanying UK(NI) indication,
 
-has been affixed in breach of any provision of Article 8 or 9 of Regulation (EU) 305/2011 or Articles 17 and 18 of Regulation (EU) 2024/3110[^key-6db3dc64c61352b11bd6f3e4df8663fd] shall be guilty of an offence.
+has been affixed in breach of any provision of Article 8 or 9 of Regulation (EU) 305/2011 or Articles 17 and 18 of Regulation (EU) 2024/3110[^c-6db3dc64c61352b11bd6f3e4df8663fd] shall be guilty of an offence.
 
 (6) A person guilty of an offence under this regulation shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
@@ -129,7 +129,7 @@ has been affixed in breach of any provision of Article 8 or 9 of Regulation (EU)
 - (d) a distributor who fails to comply with any requirement of the second sub-paragraph of Article 14(2) (distributor's duty not to make non-conforming or non-compliant product available etc. and in case of risk to provide information to manufacturer or importer and market surveillance authorities) of the 2011 Regulation; and
 - (e) a distributor who fails to comply with any requirement of Article 14(4) (distributor's duty to take necessary corrective measures etc. and in case of risk provide information to the competent authority) of the 2011 Regulation.
 
-(3) For the purposes of compliance with the provisions of the 2011 Regulation mentioned in paragraph (2) a reference to the competent authority or, as the case may be, the market surveillance authorities is a reference to the local weights and measures authority[^key-af807e68568f13951d91889f20396f1f] for the area in which the person is established or the Secretary of State[^key-f336c2fa858794de71873d8a5269c06f].
+(3) For the purposes of compliance with the provisions of the 2011 Regulation mentioned in paragraph (2) a reference to the competent authority or, as the case may be, the market surveillance authorities is a reference to the local weights and measures authority[^c-af807e68568f13951d91889f20396f1f] for the area in which the person is established or the Secretary of State[^c-f336c2fa858794de71873d8a5269c06f].
 
 (4) A person guilty of an offence under this regulation shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
@@ -172,7 +172,7 @@ the authority may serve a notice (“a suspension notice”) prohibiting the per
 (4) Where a suspension notice has been served on any person in respect of any construction products, no further such notice may be served on that person in respect of the same products unless—
 
 - (a) proceedings against that person for an offence in relation to the products under a provision of this Part (not being an offence under this regulation);
-- (b)[^key-fe4ef349f7f78495caae562f626c17b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fe4ef349f7f78495caae562f626c17b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) proceedings for the forfeiture of the products under regulation 8 or 9,
 
 are pending at the end of the period specified in the first-mentioned notice.
@@ -183,9 +183,9 @@ are pending at the end of the period specified in the first-mentioned notice.
 
 (7) Any person who contravenes a suspension notice shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
 
-#### 8. Forfeiture: England and Wales ...[^key-1ea633e0bdbd00a5b846cdc7d624c623]
+#### 8. Forfeiture: England and Wales ...[^c-1ea633e0bdbd00a5b846cdc7d624c623]
 
-(1) An enforcement authority in England and Wales [^key-933fc786677cb4074388c5dee5a2e2fb]... may apply under this regulation for an order for the forfeiture of any construction products on any of the grounds on which the enforcement authority may serve a suspension notice under regulation 7(1) in relation to the products.
+(1) An enforcement authority in England and Wales [^c-933fc786677cb4074388c5dee5a2e2fb]... may apply under this regulation for an order for the forfeiture of any construction products on any of the grounds on which the enforcement authority may serve a suspension notice under regulation 7(1) in relation to the products.
 
 (2) An application under this regulation may be made—
 
@@ -197,12 +197,12 @@ are pending at the end of the period specified in the first-mentioned notice.
 
 (4) A court may infer for the purposes of this regulation that one or more of the grounds described in paragraph (1) is made out in relation to any products if it is satisfied that one or more of the those grounds is made out in relation to products which are representative of those products (whether by reason of being of the same design or part of the same consignment or batch or otherwise).
 
-(5) Any person aggrieved by an order made under this regulation by a magistrates' court in England and Wales [^key-6f7d7c42364c1bfa6d3ca72a92a9ffc0]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
+(5) Any person aggrieved by an order made under this regulation by a magistrates' court in England and Wales [^c-6f7d7c42364c1bfa6d3ca72a92a9ffc0]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
 
 - (a) in England and Wales, to the Crown Court;
-- (b)[^key-0c1ecf4636db31054460e60758d1792e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0c1ecf4636db31054460e60758d1792e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21811981] (statement of case) [^key-76aa7659379d154e1df701e6c351329e]...).
+and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21811981] (statement of case) [^c-76aa7659379d154e1df701e6c351329e]...).
 
 (6) Subject to paragraph (7), where any products are forfeited under this regulation they shall be destroyed in accordance with such directions as the court may give.
 
@@ -258,7 +258,7 @@ and an order so made may contain such provision as appears to the court to be ap
 
 #### 10. Duty of enforcement authority to give notice of suspension notices and forfeiture applications etc.
 
-An enforcement authority (except where the Secretary of State is the enforcement authority)[^key-df779b82940914ffc8f25c4ecffc516d] must give immediate notice to the Secretary of State of any—
+An enforcement authority (except where the Secretary of State is the enforcement authority)[^c-df779b82940914ffc8f25c4ecffc516d] must give immediate notice to the Secretary of State of any—
 
 - (a) suspension notice served by it in respect of any construction products;
 - (b) application made by it for an order for forfeiture of any such products; or
@@ -324,19 +324,19 @@ information is required which another person is likely to be able to provide, th
 
 ### 14. Enforcement
 
-(1) Subject to paragraph (1A),[^key-2c35ff0f110d801bb0203d38c6b0c048]  it shall be the duty of an enforcement authority in its area to—
+(1) Subject to paragraph (1A),[^c-2c35ff0f110d801bb0203d38c6b0c048]  it shall be the duty of an enforcement authority in its area to—
 
 - (a) enforce the provisions of Part 2; and
 - (b) carry out market surveillance duties under the 2008 Regulation, as it applies to construction products, and under the 2011 Regulation.
 
-(1A)[^key-064c9f1e2f81728f02a75132df110d43] If the Secretary of State is acting in their capacity as an enforcement authority the Secretary of State may—
+(1A)[^c-064c9f1e2f81728f02a75132df110d43] If the Secretary of State is acting in their capacity as an enforcement authority the Secretary of State may—
 
 - (a) enforce the provisions of Part 2; and
 - (b) carry out market surveillance duties under the 2008 Regulation, as it applies to construction products, and under the 2011 Regulation.
 
 (2) A local weights and measures authority in England and Wales shall be competent to investigate and prosecute in respect of any offence under Part 2 that was committed outside its area in any part of England and Wales.
 
-(3)[^key-733d0c32f81a8fe14e308be594d48662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-733d0c32f81a8fe14e308be594d48662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Nothing in this regulation shall authorise an enforcement authority to bring proceedings in Scotland for an offence.
 
@@ -419,7 +419,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 
 (6) In the application of this regulation to Scotland, the reference in paragraph (2) to a justice of the peace shall include a reference to a sheriff and the references to written information on oath shall be construed as references to evidence on oath.
 
-(7)[^key-bad5ab17757594a39ac9bafd07367c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-bad5ab17757594a39ac9bafd07367c19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) If any person who is not an officer of an enforcement authority purports to act as such under regulation 16 or this regulation, that person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -449,7 +449,7 @@ the officer must allow any person who is a party to the proceedings or, as the c
 
 (2) An application under this regulation may be made—
 
-- (a) to any magistrates' court in which proceedings have been brought in England and Wales [^key-1979ec91b55fc6aad326416682049a07]...—
+- (a) to any magistrates' court in which proceedings have been brought in England and Wales [^c-1979ec91b55fc6aad326416682049a07]...—
   - (i) for an offence in relation to the products under any provision of Part 2, or
   - (ii) for the forfeiture of the products under regulation 8;
 - (b) where no such proceedings have been so brought, by way of complaint to a magistrates' court; or
@@ -462,15 +462,15 @@ the officer must allow any person who is a party to the proceedings or, as the c
   - (ii) for the forfeiture of the products under regulation 8 or 9,
 
   have not been brought or, having been brought, have been concluded without the products being forfeited;
-- (b)[^key-e7bc6bc6e02531af4f150e56c2520287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e7bc6bc6e02531af4f150e56c2520287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where no proceedings under sub-paragraph (a) have been brought, that more than six months have elapsed since the products were seized.
 
-(4) Any person aggrieved by an order made under this regulation by a magistrates' court in England and Wales [^key-ddd052d1fcb0ca649d9ebb0291906748]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
+(4) Any person aggrieved by an order made under this regulation by a magistrates' court in England and Wales [^c-ddd052d1fcb0ca649d9ebb0291906748]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
 
 - (a) in England and Wales, to the Crown Court;
-- (b)[^key-f76c29ce19fd3e7161386769de6c8612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f76c29ce19fd3e7161386769de6c8612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21812021] (statement of case)[^key-d837cea5d7c09e781028f7ca07d90ca6]...).
+and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21812021] (statement of case)[^c-d837cea5d7c09e781028f7ca07d90ca6]...).
 
 (5) In Scotland, any person aggrieved by an order made under this regulation by the sheriff, or by a decision of the sheriff not to make such an order, may appeal against that order or decision on a point of law to the sheriff principal and, notwithstanding the generality of powers available to the sheriff at common law, any order so made by the sheriff may contain such provision as appears to the sheriff to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal.
 
@@ -520,7 +520,7 @@ and an order so made may contain such provision as appears to the court to be ap
 - (b) the disclosure is made—
   - (i) for the purpose of facilitating the exercise of a relevant person's functions under these Regulations,
   - (ii) for the purpose of facilitating the exercise of a relevant person's enforcement or regulatory functions under any enactment (whether passed or made before or after the making of these Regulations),
-  - (iii) for the purposes of compliance with an assimilated[^key-26af9ded171457da1a5900dd4d264112] obligation, or
+  - (iii) for the purposes of compliance with an assimilated[^c-26af9ded171457da1a5900dd4d264112] obligation, or
   - (iv) in connection with the investigation of any criminal offence or for the purposes of any civil or criminal proceedings.
 
 (4) In paragraph (3)(b)(ii) the reference to a person's functions shall include a reference to any function of making, amending or revoking any regulations or order.
@@ -533,8 +533,8 @@ and an order so made may contain such provision as appears to the court to be ap
 (6) In this regulation—
 
 - “**relevant person**” means any of the following, that is to say—
-  - (a) a Minister of the Crown, Government department [^key-da3ed31affee90080d26173650c0d695]...;
-  - (b) any local weights and measures authority [^key-da3ed31affee90080d26173650c0d695]...;
+  - (a) a Minister of the Crown, Government department [^c-da3ed31affee90080d26173650c0d695]...;
+  - (b) any local weights and measures authority [^c-da3ed31affee90080d26173650c0d695]...;
   - (c) any other person on whom enforcement or regulatory functions are conferred by or under any enactment; and
 - “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
@@ -590,7 +590,7 @@ that person shall not, without leave of the court, be entitled to rely on the de
 
 (2) In England and Wales a magistrates' court may try an information for such an offence if the information is laid within twelve months from the time when the offence is committed.
 
-(3)[^key-eaf9c2f072d380037ab166ecda49b892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eaf9c2f072d380037ab166ecda49b892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Scotland summary proceedings for such an offence may be begun at any time within twelve months from the time when the offence is committed.
 
@@ -655,29 +655,29 @@ Regulations 7(1)(b), 11(1)(b)and 12(1)(b)
 **2.** This paragraph applies where the service of such a notice is appropriate because there has been a failure to comply with any requirement under any of the following provisions of the 2011 Regulation—
 
 - (a) Article 11(2) (duty of manufacturer of construction product to keep technical documentation and declaration of performance for 10 years, or such period as amended, after the product is placed on the market);
-- (b) Article 11(8) (duty of manufacturer of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-bb9201daf351e39945d7066811a32c65]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
-- (c) Article 12(2) (duty of manufacturer's authorised representative to keep technical documentation and declaration of performance available for the period referred to in Article 11(2), to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-ef9cbd630784ab4a0cf1bffd972dd326]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
+- (b) Article 11(8) (duty of manufacturer of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^c-bb9201daf351e39945d7066811a32c65]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
+- (c) Article 12(2) (duty of manufacturer's authorised representative to keep technical documentation and declaration of performance available for the period referred to in Article 11(2), to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^c-ef9cbd630784ab4a0cf1bffd972dd326]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
 - (d) Article 13(8) (duty of importer of construction product to keep technical documentation and declaration of performance available for the period referred to in Article 11(2));
-- (e) Article 13(9) (duty of importer of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-d7951ef85f299b559669d00b8af01ecc]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
-- (f) Article 14(5) (duty of distributor who of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^key-0189802363f23ff442ef9686150a37b2]... authority, and to cooperate with that authority on action to eliminate risks posed by the product); or
+- (e) Article 13(9) (duty of importer of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^c-d7951ef85f299b559669d00b8af01ecc]... authority, and to cooperate with that authority on action to eliminate risks posed by the product);
+- (f) Article 14(5) (duty of distributor who of construction product to provide information and documentation to demonstrate conformity with declaration of performance and compliance with other applicable requirements of the 2011 Regulation of the product to the competent [^c-0189802363f23ff442ef9686150a37b2]... authority, and to cooperate with that authority on action to eliminate risks posed by the product); or
 - (g) insofar as it imposes duties in relation to Article 11(2) and (8), Article 15 (duties of importer and distributor to comply with Article 11 as if a manufacturer where the importer or distributor places a construction product on the market under its own name or trademark, or modifies a product already on the market in such a way that conformity with the declaration of performance may be affected).
 
 **3.** This paragraph applies where Article 20 (products presenting a serious risk) of the 2008 Regulation is applicable to the products.
 
-**4.** This paragraph applies where Article 29(1) [^key-0b9ac01277bb123d3e074f362b8203a7]... of the 2008 Regulation is applicable to the products.
+**4.** This paragraph applies where Article 29(1) [^c-0b9ac01277bb123d3e074f362b8203a7]... of the 2008 Regulation is applicable to the products.
 
-**5.** This paragraph applies where the service of such a notice is appropriate in accordance with Article 29(2) [^key-1e607b8857c34eb6b0e234c9f3059d9a]... of the 2008 Regulation.
+**5.** This paragraph applies where the service of such a notice is appropriate in accordance with Article 29(2) [^c-1e607b8857c34eb6b0e234c9f3059d9a]... of the 2008 Regulation.
 
 **6.** This paragraph applies where the service of such a notice is appropriate in accordance with—
 
-- (a) the second sub-paragraph of Article 56(1) [^key-71269e11ca55f133ecc278f193012d1d]... of the 2011 Regulation;
-- (b) Article 56(4) [^key-a02fcc5263e608b9dfc35fd18aa9686b]... of the 2011 Regulation; [^key-a02fcc5263e608b9dfc35fd18aa9686b]...
-- (c) Article 58(1) (complying construction products which nevertheless present a risk to health and safety) of the 2011 Regulation ; or[^key-cdc8ac076b4df4782709d359c1b1991c]
-- (d)[^key-6978c86ab97bdbcbdbf008b4beb063b2] Article 59B(2) (other non-compliance in relation to the EU Construction Products Regulation) of the 2011 Regulation.
+- (a) the second sub-paragraph of Article 56(1) [^c-71269e11ca55f133ecc278f193012d1d]... of the 2011 Regulation;
+- (b) Article 56(4) [^c-a02fcc5263e608b9dfc35fd18aa9686b]... of the 2011 Regulation; [^c-a02fcc5263e608b9dfc35fd18aa9686b]...
+- (c) Article 58(1) (complying construction products which nevertheless present a risk to health and safety) of the 2011 Regulation ; or[^c-cdc8ac076b4df4782709d359c1b1991c]
+- (d)[^c-6978c86ab97bdbcbdbf008b4beb063b2] Article 59B(2) (other non-compliance in relation to the EU Construction Products Regulation) of the 2011 Regulation.
 
-**7.**[^key-a4e457789f0a86bb34c59419435cae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a4e457789f0a86bb34c59419435cae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.** This paragraph applies where the service of such a notice is appropriate in accordance with Article 59(2) (formal non-compliance) or 59A(2) (formal non-compliance in relation to the EU Construction Products Regulation)[^key-25607d464084589d9dd2e1fed2de4e59] of the 2011 Regulation, without prejudice to paragraph 2.
+**8.** This paragraph applies where the service of such a notice is appropriate in accordance with Article 59(2) (formal non-compliance) or 59A(2) (formal non-compliance in relation to the EU Construction Products Regulation)[^c-25607d464084589d9dd2e1fed2de4e59] of the 2011 Regulation, without prejudice to paragraph 2.
 
 ## SCHEDULE 2
 
@@ -699,7 +699,7 @@ Regulation 7(6)
 **3.** Where an enforcement authority serves a suspension notice in respect of any construction products, the authority shall be liable to pay compensation to any person having an interest in the products in respect of any loss or damage caused by reason of the service of the notice if—
 
 - (a) no offence under regulation 4, 5 or 6 has been committed in relation to the products;
-- (b)[^key-c507e3a0b8bf3b096c10d1f9ee02fc0b] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products; and
+- (b)[^c-c507e3a0b8bf3b096c10d1f9ee02fc0b] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products; and
 - (c) the exercise of the power is not attributable to any neglect or default by that person.
 
 **4.** Any disputed question as to the right to, or the amount of, any compensation payable under paragraph 3 shall be determined by arbitration or, in Scotland, by a single arbiter appointed, failing agreement between the parties, by the sheriff.
@@ -710,17 +710,17 @@ Regulation 7(6)
 
 **6.** An application under this Part of this Schedule may be made—
 
-- (a) to any magistrates' court in which proceedings have been brought in England and Wales [^key-452e6897cb4921a7ce3a2cea8586beb9]...—
+- (a) to any magistrates' court in which proceedings have been brought in England and Wales [^c-452e6897cb4921a7ce3a2cea8586beb9]...—
   - (i) for an offence in relation to the products under any provision of Part 2 of these Regulations, or
   - (ii) for the forfeiture of the products under regulation 8;
 - (b) where no such proceedings have been brought, by way of complaint to a magistrates' court; or
 - (c) in Scotland, by summary application to the sheriff.
 
-**7.** On an application under this Part of this Schedule to a magistrates' court in England and Wales [^key-6a87873beb1b19875e6ed430a2336869]... the court may make an order setting aside the suspension notice only if the court is satisfied that—
+**7.** On an application under this Part of this Schedule to a magistrates' court in England and Wales [^c-6a87873beb1b19875e6ed430a2336869]... the court may make an order setting aside the suspension notice only if the court is satisfied that—
 
-- (a) no offence under regulation 4, 5 or 6 has been committed in relation to the products; and[^key-529caae204055b02857d2593ee3fe0fe]
-- (b)[^key-86b7375e09f3658a260e94dc3ffdac63] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products .[^key-99e34e42cf1fca36bc6f6ce1f557090e]
-- (c)[^key-9ce5296c68d369846e76b9eed58e07f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) no offence under regulation 4, 5 or 6 has been committed in relation to the products; and[^c-529caae204055b02857d2593ee3fe0fe]
+- (b)[^c-86b7375e09f3658a260e94dc3ffdac63] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products .[^c-99e34e42cf1fca36bc6f6ce1f557090e]
+- (c)[^c-9ce5296c68d369846e76b9eed58e07f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** On an application under this Part of this Schedule to the sheriff, the sheriff may make an order setting aside the suspension notice only if satisfied that at the date of making the order—
 
@@ -728,26 +728,26 @@ Regulation 7(6)
   - (i) for an offence in relation to the products under regulation 4, 5 or 6, or
   - (ii) for the forfeiture of the products under regulation 9,
 
-  have not been brought or, having been brought, have been concluded; and[^key-0aab237502ffa2103121af3c7ab2688f]
-- (b)[^key-9b0f618864c1fc938c3d50726c7646fd] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products .[^key-756d460ab25323faa7c702d317f405cb]
-- (c)[^key-d14834844073f4ad6b9282dd10024472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  have not been brought or, having been brought, have been concluded; and[^c-0aab237502ffa2103121af3c7ab2688f]
+- (b)[^c-9b0f618864c1fc938c3d50726c7646fd] none of the grounds for service of a suspension notice in Schedule 1 has been made out in relation to the products .[^c-756d460ab25323faa7c702d317f405cb]
+- (c)[^c-d14834844073f4ad6b9282dd10024472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.** Any person aggrieved by an order made under this Part of this Schedule by a magistrates' court in England and Wales [^key-8e4d3b9073e20161bb191721129691b9]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
+**9.** Any person aggrieved by an order made under this Part of this Schedule by a magistrates' court in England and Wales [^c-8e4d3b9073e20161bb191721129691b9]..., or by a decision of such a court not to make such an order, may appeal against that order or decision—
 
 - (a) in England and Wales, to the Crown Court;
-- (b)[^key-f8c071cd785377f672321e0e71eb4493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f8c071cd785377f672321e0e71eb4493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21812071] (statement of case) [^key-2f6cb6ea4fe27ac4ca83567e7245a6f8]...).
+and an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c21812071] (statement of case) [^c-2f6cb6ea4fe27ac4ca83567e7245a6f8]...).
 
 **10.** In Scotland, any person aggrieved by an order made under this Part of this Schedule by the sheriff, or by a decision of the sheriff not to make such an order, may appeal against that order or decision on a point of law to the sheriff principal and, notwithstanding the generality of powers available to the sheriff at common law, any order so made by the sheriff may contain such provision as appears to the sheriff to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal.
 
 **11.** This Part of this Schedule is without prejudice to the operation of—
 
-- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in respect of paragraph 6(a) of Schedule 1 .[^key-7b883071d07ea8c8071ad2b88ae04d61]
-- (b)[^key-fcd4fd8b4ae9b2cf3fe14f7381a9860a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-fcd4fd8b4ae9b2cf3fe14f7381a9860a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in respect of paragraph 6(a) of Schedule 1 .[^c-7b883071d07ea8c8071ad2b88ae04d61]
+- (b)[^c-fcd4fd8b4ae9b2cf3fe14f7381a9860a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fcd4fd8b4ae9b2cf3fe14f7381a9860a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Prohibition notices[^key-4a5f44ce205feb0c23a76cc170f47749]
+## SCHEDULE 3 — Prohibition notices[^c-4a5f44ce205feb0c23a76cc170f47749]
 
 Regulation 11(4)
 
@@ -810,9 +810,9 @@ and, after considering any matters under this paragraph, to make a report (inclu
 
 **7.** This Schedule is without prejudice to the operation of—
 
-- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in the case of a prohibition notice based on the ground in paragraph 6(a) of Schedule 1 .[^key-e04dbf82a622d3611f2b530625b8ff62]
-- (b)[^key-7913203e1ef4db88650ff1e58a2d3a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7913203e1ef4db88650ff1e58a2d3a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in the case of a prohibition notice based on the ground in paragraph 6(a) of Schedule 1 .[^c-e04dbf82a622d3611f2b530625b8ff62]
+- (b)[^c-7913203e1ef4db88650ff1e58a2d3a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7913203e1ef4db88650ff1e58a2d3a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) Where in a notification served on any person under this Schedule the Secretary of State has appointed a time for the making of oral representations or the examination of witnesses, it may, by giving that person such notification as the Secretary of State considers appropriate, change the time to a later time or appoint further times at which further representations may be made or the examination of witnesses may be continued; and paragraphs 3(4) and 4(4) shall have effect accordingly.
 
@@ -888,9 +888,9 @@ and, after considering those matters, to make a report (including recommendation
 
 **5.** This Schedule is without prejudice to the operation of—
 
-- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in the case of a notice to warn based on the ground in paragraph 6(a) of Schedule 1 .[^key-30a6651199a3db433f9d730a6e8b6ce2]
-- (b)[^key-d4e5a61a4fd4caaac2de4e3993760e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-d4e5a61a4fd4caaac2de4e3993760e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) Article 21(4) (restrictive measures: withdrawal of measures after effective action) of the 2008 Regulation in the case of a notice to warn based on the ground in paragraph 6(a) of Schedule 1 .[^c-30a6651199a3db433f9d730a6e8b6ce2]
+- (b)[^c-d4e5a61a4fd4caaac2de4e3993760e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d4e5a61a4fd4caaac2de4e3993760e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Where in a notification served on any person under this Schedule the Secretary of State has appointed a time for the making of oral representations or the examination of witnesses, it may, by giving that person such notification as the Secretary of State considers appropriate, change the time to a later time or appoint further times at which further representations may be made or the examination of witnesses may be continued; and paragraph 2(4) shall have effect accordingly.
 
@@ -922,7 +922,7 @@ Regulation 28(2)
 
 ### Water Supply (Water Quality) Regulations 2000
 
-**3.**[^key-36ed185783cd16920edd7a4da4ccbb56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-36ed185783cd16920edd7a4da4ccbb56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Water Supply (Water Quality (Scotland)) Regulations 2001
 
@@ -943,7 +943,7 @@ Regulation 28(2)
 
 ### Water Supply (Water Quality) Regulations 2010
 
-**7.**[^key-eeb9a91344d836cf290a2e15c7cc247a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-eeb9a91344d836cf290a2e15c7cc247a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -979,169 +979,169 @@ A full impact assessment has not been produced for this instrument as a full imp
 
 [^c21811941]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-de71b78ab2fe217a780295dbfbb53ae3]: Textual amendment: Reg. 1A inserted by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/2) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-de71b78ab2fe217a780295dbfbb53ae3]: Textual amendment: Reg. 1A inserted by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/2) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21811951]: Marginal citation: OJ No L 218, 13.8.2008, p.30.
 
 [^c21811961]: Marginal citation: OJ No L 88, 4.4.2011, p.5.
 
-[^key-d6a9c3e7dca5b33342bdaacbfbb2fa7c]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/2/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-d6a9c3e7dca5b33342bdaacbfbb2fa7c]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/2/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-3cf71e3029df322f7f7a2a5c6dac966f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/2/a)
+[^c-3cf71e3029df322f7f7a2a5c6dac966f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/2/a)
 
-[^key-0757874464c6a16ea444f2af89cbcaa0]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/2/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-0757874464c6a16ea444f2af89cbcaa0]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/2/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-3bbf722b204d24854c77b85b7e9bccfd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/2/a)
+[^c-3bbf722b204d24854c77b85b7e9bccfd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/2/a)
 
 [^c21811971]: Marginal citation: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72), as amended by Part 4 of Schedule 1 to the [Statute Law (Repeals) Act 1989 (c.43)](https://www.legislation.gov.uk/ukpga/1989/43), [paragraph 75](https://www.legislation.gov.uk/ukpga/1989/43/paragraph/75) of Schedule 16 to the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), and paragraph 144 of Schedule 13 to the [Local Government etc (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-a66c8c90038f5a2e1708793e3af86c48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2) inserted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/2/b)
+[^c-a66c8c90038f5a2e1708793e3af86c48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2) inserted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/2/b)
 
-[^key-159b42400f58aff536bb3037fa5efa4b]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/3) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-159b42400f58aff536bb3037fa5efa4b]: Textual amendment: Words in reg. 2(2) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/3) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-b18d19b75cd723f01d75256dee8f65f4]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2/2) omitted (20.7.2022) by virtue of [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/2/b)
+[^c-b18d19b75cd723f01d75256dee8f65f4]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/2/2) omitted (20.7.2022) by virtue of [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/2/b)
 
-[^key-192cdd39aa22ffee2638a6bf94262eca]: Textual amendment: Reg. 2(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/4) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-192cdd39aa22ffee2638a6bf94262eca]: Textual amendment: Reg. 2(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/3/4) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-84e46c6685d49240b21f973e91a75c11]: Textual amendment: Words in reg. 3(1) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/a/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-84e46c6685d49240b21f973e91a75c11]: Textual amendment: Words in reg. 3(1) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/a/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-ca002fd007c1d1fca40cf09db7c24820]: Textual amendment: Words in reg. 3(1) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/a/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-ca002fd007c1d1fca40cf09db7c24820]: Textual amendment: Words in reg. 3(1) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/a/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-17a055075857913f66fbab3300bde9d8]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/3/1/a) omitted (20.7.2022) by virtue of [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/3)
+[^c-17a055075857913f66fbab3300bde9d8]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/3/1/a) omitted (20.7.2022) by virtue of [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/3)
 
-[^key-05d597abf5a6ec64a004957321205f1d]: Textual amendment: Words in reg. 3(1)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-05d597abf5a6ec64a004957321205f1d]: Textual amendment: Words in reg. 3(1)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/4/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-9c75cd396f5d94aa04872567ed7d38ed]: Textual amendment: Reg. 4 substituted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/5) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2) (with [Sch. 3 para. 30(1)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/1)))
+[^c-9c75cd396f5d94aa04872567ed7d38ed]: Textual amendment: Reg. 4 substituted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/5) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2) (with [Sch. 3 para. 30(1)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/1)))
 
-[^key-464de61f0ecf8d2ba55d81c59f4ed15f]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/3/b) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/a)
+[^c-464de61f0ecf8d2ba55d81c59f4ed15f]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/3/b) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/a)
 
-[^key-fe6bc79098d9702fb65bfcec40cccfdc]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/3/c) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/b)
+[^c-fe6bc79098d9702fb65bfcec40cccfdc]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/3/c) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/b)
 
-[^key-6db3dc64c61352b11bd6f3e4df8663fd]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/5) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/c)
+[^c-6db3dc64c61352b11bd6f3e4df8663fd]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/4/5) substituted (8.1.2026) by [The Construction Products (Amendment) Regulations 2025 (S.I. 2025/1172)](https://www.legislation.gov.uk/uksi/2025/1172), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2025/1172/regulation/9/3/c)
 
-[^key-af807e68568f13951d91889f20396f1f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/5/3) substituted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/4/a)
+[^c-af807e68568f13951d91889f20396f1f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/5/3) substituted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/4/a)
 
-[^key-f336c2fa858794de71873d8a5269c06f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/5/3) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/4/b)
+[^c-f336c2fa858794de71873d8a5269c06f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/5/3) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/4/b)
 
-[^key-fe4ef349f7f78495caae562f626c17b9]: Textual amendment: Reg. 7(4)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/6) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-fe4ef349f7f78495caae562f626c17b9]: Textual amendment: Reg. 7(4)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/6) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-1ea633e0bdbd00a5b846cdc7d624c623]: Textual amendment: Words in reg. 8 heading omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-1ea633e0bdbd00a5b846cdc7d624c623]: Textual amendment: Words in reg. 8 heading omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-933fc786677cb4074388c5dee5a2e2fb]: Textual amendment: Words in reg. 8(1) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-933fc786677cb4074388c5dee5a2e2fb]: Textual amendment: Words in reg. 8(1) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-6f7d7c42364c1bfa6d3ca72a92a9ffc0]: Textual amendment: Words in reg. 8(5) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-6f7d7c42364c1bfa6d3ca72a92a9ffc0]: Textual amendment: Words in reg. 8(5) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-0c1ecf4636db31054460e60758d1792e]: Textual amendment: Reg. 8(5)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-0c1ecf4636db31054460e60758d1792e]: Textual amendment: Reg. 8(5)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21811981]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-76aa7659379d154e1df701e6c351329e]: Textual amendment: Words in reg. 8(5) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-76aa7659379d154e1df701e6c351329e]: Textual amendment: Words in reg. 8(5) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 7(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/7/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812001]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-df779b82940914ffc8f25c4ecffc516d]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2013/1387/regulation/10) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/5)
+[^c-df779b82940914ffc8f25c4ecffc516d]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2013/1387/regulation/10) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/5)
 
-[^key-2c35ff0f110d801bb0203d38c6b0c048]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/14/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/6/a)
+[^c-2c35ff0f110d801bb0203d38c6b0c048]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/14/1) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/6/a)
 
-[^key-064c9f1e2f81728f02a75132df110d43]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/14/1A) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/6/b)
+[^c-064c9f1e2f81728f02a75132df110d43]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/14/1A) inserted (20.7.2022) by [The Construction Products (Amendment) Regulations 2022 (S.I. 2022/712)](https://www.legislation.gov.uk/uksi/2022/712), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/712/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/712/regulation/2/6/b)
 
-[^key-733d0c32f81a8fe14e308be594d48662]: Textual amendment: Reg. 14(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/8) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-733d0c32f81a8fe14e308be594d48662]: Textual amendment: Reg. 14(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/8) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812011]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2); “importer” is defined in section 1(1).
 
-[^key-bad5ab17757594a39ac9bafd07367c19]: Textual amendment: Reg. 17(7) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/9) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-bad5ab17757594a39ac9bafd07367c19]: Textual amendment: Reg. 17(7) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/9) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-1979ec91b55fc6aad326416682049a07]: Textual amendment: Words in reg. 19(2)(a) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-1979ec91b55fc6aad326416682049a07]: Textual amendment: Words in reg. 19(2)(a) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-e7bc6bc6e02531af4f150e56c2520287]: Textual amendment: Reg. 19(3)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-e7bc6bc6e02531af4f150e56c2520287]: Textual amendment: Reg. 19(3)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-ddd052d1fcb0ca649d9ebb0291906748]: Textual amendment: Words in reg. 19(4) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-ddd052d1fcb0ca649d9ebb0291906748]: Textual amendment: Words in reg. 19(4) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-f76c29ce19fd3e7161386769de6c8612]: Textual amendment: Reg. 19(4)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-f76c29ce19fd3e7161386769de6c8612]: Textual amendment: Reg. 19(4)(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812021]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-d837cea5d7c09e781028f7ca07d90ca6]: Textual amendment: Words in reg. 19(4) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-d837cea5d7c09e781028f7ca07d90ca6]: Textual amendment: Words in reg. 19(4) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 10(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/10/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812041]: Marginal citation: [S.I. 2012/1848](https://www.legislation.gov.uk/uksi/2012/1848).
 
-[^key-26af9ded171457da1a5900dd4d264112]: Textual amendment: Words in [reg. 22(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/22/3/b/iii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/2)
+[^c-26af9ded171457da1a5900dd4d264112]: Textual amendment: Words in [reg. 22(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/1387/regulation/22/3/b/iii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/82/schedule/5/paragraph/2)
 
-[^key-da3ed31affee90080d26173650c0d695]: Textual amendment: Words in reg. 22(6) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/11/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-da3ed31affee90080d26173650c0d695]: Textual amendment: Words in reg. 22(6) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/11/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-eaf9c2f072d380037ab166ecda49b892]: Textual amendment: Reg. 26(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/12) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-eaf9c2f072d380037ab166ecda49b892]: Textual amendment: Reg. 26(3) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/12) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812051]: Marginal citation: [S.I. 1991/1620](https://www.legislation.gov.uk/uksi/1991/1620).
 
 [^c21812061]: Marginal citation: [S.I. 1994/3051](https://www.legislation.gov.uk/uksi/1994/3051).
 
-[^key-bb9201daf351e39945d7066811a32c65]: Textual amendment: Word in Sch. 1 para. 2(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-bb9201daf351e39945d7066811a32c65]: Textual amendment: Word in Sch. 1 para. 2(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-ef9cbd630784ab4a0cf1bffd972dd326]: Textual amendment: Word in Sch. 1 para. 2(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-ef9cbd630784ab4a0cf1bffd972dd326]: Textual amendment: Word in Sch. 1 para. 2(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-d7951ef85f299b559669d00b8af01ecc]: Textual amendment: Word in Sch. 1 para. 2(e) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-d7951ef85f299b559669d00b8af01ecc]: Textual amendment: Word in Sch. 1 para. 2(e) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-0189802363f23ff442ef9686150a37b2]: Textual amendment: Word in Sch. 1 para. 2(f) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-0189802363f23ff442ef9686150a37b2]: Textual amendment: Word in Sch. 1 para. 2(f) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/2) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-0b9ac01277bb123d3e074f362b8203a7]: Textual amendment: Words in Sch. 1 para. 4 deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/3) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-0b9ac01277bb123d3e074f362b8203a7]: Textual amendment: Words in Sch. 1 para. 4 deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/3) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-1e607b8857c34eb6b0e234c9f3059d9a]: Textual amendment: Words in Sch. 1 para. 5 deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/4) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-1e607b8857c34eb6b0e234c9f3059d9a]: Textual amendment: Words in Sch. 1 para. 5 deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/4) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-71269e11ca55f133ecc278f193012d1d]: Textual amendment: Words in Sch. 1 para. 6(a) deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-71269e11ca55f133ecc278f193012d1d]: Textual amendment: Words in Sch. 1 para. 6(a) deleted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-a02fcc5263e608b9dfc35fd18aa9686b]: Textual amendment: Words in Sch. 1 para. 6(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-a02fcc5263e608b9dfc35fd18aa9686b]: Textual amendment: Words in Sch. 1 para. 6(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-cdc8ac076b4df4782709d359c1b1991c]: Textual amendment: Word in Sch. 1 para. 6(c) substituted for full stop (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(c)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/c) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-cdc8ac076b4df4782709d359c1b1991c]: Textual amendment: Word in Sch. 1 para. 6(c) substituted for full stop (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(c)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/c) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-6978c86ab97bdbcbdbf008b4beb063b2]: Textual amendment: Sch. 1 para. 6(d) inserted by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(d)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/d) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-6978c86ab97bdbcbdbf008b4beb063b2]: Textual amendment: Sch. 1 para. 6(d) inserted by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(5)(d)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/5/d) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-a4e457789f0a86bb34c59419435cae30]: Textual amendment: Sch. 1 para. 7 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/6) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-a4e457789f0a86bb34c59419435cae30]: Textual amendment: Sch. 1 para. 7 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/6) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-25607d464084589d9dd2e1fed2de4e59]: Textual amendment: Words in Sch. 1 para. 8 inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/7) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-25607d464084589d9dd2e1fed2de4e59]: Textual amendment: Words in Sch. 1 para. 8 inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/13/7) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-c507e3a0b8bf3b096c10d1f9ee02fc0b]: Modification: [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/3/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
+[^c-c507e3a0b8bf3b096c10d1f9ee02fc0b]: Modification: [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/3/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
 
-[^key-452e6897cb4921a7ce3a2cea8586beb9]: Textual amendment: Words in Sch. 2 para. 6 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-452e6897cb4921a7ce3a2cea8586beb9]: Textual amendment: Words in Sch. 2 para. 6 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/a) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-6a87873beb1b19875e6ed430a2336869]: Textual amendment: Words in Sch. 2 para. 7 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-6a87873beb1b19875e6ed430a2336869]: Textual amendment: Words in Sch. 2 para. 7 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-529caae204055b02857d2593ee3fe0fe]: Textual amendment: Word in Sch. 2 para. 7(a) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-529caae204055b02857d2593ee3fe0fe]: Textual amendment: Word in Sch. 2 para. 7(a) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-86b7375e09f3658a260e94dc3ffdac63]: Modification: [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/7/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
+[^c-86b7375e09f3658a260e94dc3ffdac63]: Modification: [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/7/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
 
-[^key-99e34e42cf1fca36bc6f6ce1f557090e]: Textual amendment: Sch. 2 para. 7(b) full stop substituted for word by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/iii) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-99e34e42cf1fca36bc6f6ce1f557090e]: Textual amendment: Sch. 2 para. 7(b) full stop substituted for word by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/iii) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-9ce5296c68d369846e76b9eed58e07f1]: Textual amendment: Sch. 2 para. 7(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(iv)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/iv) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-9ce5296c68d369846e76b9eed58e07f1]: Textual amendment: Sch. 2 para. 7(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(b)(iv)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/b/iv) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-0aab237502ffa2103121af3c7ab2688f]: Textual amendment: Word in Sch. 2 para. 8(a) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-0aab237502ffa2103121af3c7ab2688f]: Textual amendment: Word in Sch. 2 para. 8(a) inserted (31.12.2020) by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-9b0f618864c1fc938c3d50726c7646fd]: Modification: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/8/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
+[^c-9b0f618864c1fc938c3d50726c7646fd]: Modification: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2013/1387/schedule/2/paragraph/8/b) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/2)
 
-[^key-756d460ab25323faa7c702d317f405cb]: Textual amendment: Sch. 2 para. 8(b) full stop substituted for word by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/ii) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-756d460ab25323faa7c702d317f405cb]: Textual amendment: Sch. 2 para. 8(b) full stop substituted for word by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/ii) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-d14834844073f4ad6b9282dd10024472]: Textual amendment: Sch. 2 para. 8(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-d14834844073f4ad6b9282dd10024472]: Textual amendment: Sch. 2 para. 8(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(c)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/c/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-8e4d3b9073e20161bb191721129691b9]: Textual amendment: Words in Sch. 2 para. 9 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-8e4d3b9073e20161bb191721129691b9]: Textual amendment: Words in Sch. 2 para. 9 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/i) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-f8c071cd785377f672321e0e71eb4493]: Textual amendment: Sch. 2 para. 9(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-f8c071cd785377f672321e0e71eb4493]: Textual amendment: Sch. 2 para. 9(b) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812071]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-2f6cb6ea4fe27ac4ca83567e7245a6f8]: Textual amendment: Words in Sch. 2 para. 9 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-2f6cb6ea4fe27ac4ca83567e7245a6f8]: Textual amendment: Words in Sch. 2 para. 9 omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(d)(iii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/d/iii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-7b883071d07ea8c8071ad2b88ae04d61]: Textual amendment: Sch. 2 para. 11(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(e)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/e/i) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-7b883071d07ea8c8071ad2b88ae04d61]: Textual amendment: Sch. 2 para. 11(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(e)(i)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/e/i) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-fcd4fd8b4ae9b2cf3fe14f7381a9860a]: Textual amendment: Sch. 2 para. 11(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(e)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/e/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-fcd4fd8b4ae9b2cf3fe14f7381a9860a]: Textual amendment: Sch. 2 para. 11(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 14(e)(ii)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/14/e/ii) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-4a5f44ce205feb0c23a76cc170f47749]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1387/schedule/3) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/3)
+[^c-4a5f44ce205feb0c23a76cc170f47749]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1387/schedule/3) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 3 para. 30(3)](https://www.legislation.gov.uk/uksi/2020/1359/schedule/3/paragraph/30/3)
 
-[^key-e04dbf82a622d3611f2b530625b8ff62]: Textual amendment: Sch. 3 para. 7(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/15/a) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-e04dbf82a622d3611f2b530625b8ff62]: Textual amendment: Sch. 3 para. 7(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/15/a) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-7913203e1ef4db88650ff1e58a2d3a3a]: Textual amendment: Sch. 3 para. 7(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/15/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-7913203e1ef4db88650ff1e58a2d3a3a]: Textual amendment: Sch. 3 para. 7(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/15/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-30a6651199a3db433f9d730a6e8b6ce2]: Textual amendment: Sch. 4 para. 5(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/16/a) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-30a6651199a3db433f9d730a6e8b6ce2]: Textual amendment: Sch. 4 para. 5(a) full stop substituted for semicolon by [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/16/a) (as substituted) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
-[^key-d4e5a61a4fd4caaac2de4e3993760e93]: Textual amendment: Sch. 4 para. 5(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/16/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
+[^c-d4e5a61a4fd4caaac2de4e3993760e93]: Textual amendment: Sch. 4 para. 5(b)(c) omitted (31.12.2020) by virtue of [S.I. 2019/465](https://www.legislation.gov.uk/uksi/2019/465), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/2/paragraph/16/b) (as substituted by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1359)](https://www.legislation.gov.uk/uksi/2020/1359), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1359/schedule/2))
 
 [^c21812091]: Marginal citation: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306). There are amendments, but none is relevant.
 
@@ -1149,7 +1149,7 @@ A full impact assessment has not been produced for this instrument as a full imp
 
 [^c21812111]: Marginal citation: OJ No L 88, 4.4.2011, p.5.
 
-[^key-36ed185783cd16920edd7a4da4ccbb56]: Textual amendment: Sch. 5 para. 3 revoked (E.W.) (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-36ed185783cd16920edd7a4da4ccbb56]: Textual amendment: Sch. 5 para. 3 revoked (E.W.) (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
 [^c21812131]: Marginal citation: [S.S.I. 2001/207](https://www.legislation.gov.uk/ssi/2001/207), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043)..
 
@@ -1157,4 +1157,4 @@ A full impact assessment has not been produced for this instrument as a full imp
 
 [^c21812151]: Marginal citation: [S.I. 2007/2734](https://www.legislation.gov.uk/uksi/2007/2734).
 
-[^key-eeb9a91344d836cf290a2e15c7cc247a]: Textual amendment: Sch. 5 para. 7 revoked (E.W.) (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
+[^c-eeb9a91344d836cf290a2e15c7cc247a]: Textual amendment: Sch. 5 para. 7 revoked (E.W.) (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)

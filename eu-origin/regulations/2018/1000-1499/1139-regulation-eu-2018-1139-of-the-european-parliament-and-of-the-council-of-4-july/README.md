@@ -516,7 +516,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 57 — Regulations as regards unmanned aircraft](section-article-57.md)
 - [Section Article 58 — Delegated powers](section-article-58.md)
 
-#### SECTION VIII — Aircraft used by a third-country operator into, within or out of the United Kingdom[^key-a98028d1fe21216f2c76f31cabf940a3]
+#### SECTION VIII — Aircraft used by a third-country operator into, within or out of the United Kingdom[^c-a98028d1fe21216f2c76f31cabf940a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -651,7 +651,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-856e382924b6adbbb823eacafcf648bf]...
+[^c-856e382924b6adbbb823eacafcf648bf]...
 
 Done at Strasbourg, 4 July 2018.
 
@@ -731,6 +731,6 @@ K. Edtstadler
 
 [^f00031]: Footnote: Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community ([OJ L 293, 31.10.2008, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.293.01.0003.01.ENG)).
 
-[^key-a98028d1fe21216f2c76f31cabf940a3]: Textual amendment: Words in Ch. 3 [s. 8](https://www.legislation.gov.uk/eur/2018/1139/section/8) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [135](https://www.legislation.gov.uk/uksi/2019/645/regulation/135) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a98028d1fe21216f2c76f31cabf940a3]: Textual amendment: Words in Ch. 3 [s. 8](https://www.legislation.gov.uk/eur/2018/1139/section/8) heading substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [135](https://www.legislation.gov.uk/uksi/2019/645/regulation/135) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-856e382924b6adbbb823eacafcf648bf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/1139/signature) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [172](https://www.legislation.gov.uk/uksi/2019/645/regulation/172) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-856e382924b6adbbb823eacafcf648bf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/1139/signature) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [172](https://www.legislation.gov.uk/uksi/2019/645/regulation/172) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

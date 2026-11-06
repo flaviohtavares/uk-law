@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Nomination of sub-agent[^key-d4c924b57b81175b63c485684802fd99]
+## 40. Nomination of sub-agent[^c-d4c924b57b81175b63c485684802fd99]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c924b57b81175b63c485684802fd99]: Commencement: Art. 40 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d4c924b57b81175b63c485684802fd99]: Commencement: Art. 40 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

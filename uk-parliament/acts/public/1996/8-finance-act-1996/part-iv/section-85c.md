@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85C. Amounts not fully recognised for accounting purposes[^key-e7e546faf94a3fd1689ab24e3516af13]
+## 85C. Amounts not fully recognised for accounting purposes[^c-e7e546faf94a3fd1689ab24e3516af13]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e546faf94a3fd1689ab24e3516af13]: Textual amendment: [S. 85C](https://www.legislation.gov.uk/ukpga/1996/8/section/85C) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 411](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/411), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e7e546faf94a3fd1689ab24e3516af13]: Textual amendment: [S. 85C](https://www.legislation.gov.uk/ukpga/1996/8/section/85C) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 411](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/411), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

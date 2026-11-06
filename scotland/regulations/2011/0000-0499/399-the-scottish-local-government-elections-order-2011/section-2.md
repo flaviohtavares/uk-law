@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-ee5981623ec5113912de7768f00e6e77]
+## 2. Interpretation[^c-ee5981623ec5113912de7768f00e6e77]
 
 *Extent: S*
 
@@ -81,7 +81,7 @@ In this Order, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-ee5981623ec5113912de7768f00e6e77]: Commencement: Art. 2 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-ee5981623ec5113912de7768f00e6e77]: Commencement: Art. 2 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00003]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2). Section 9B was inserted by section 10(1) of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). Paragraph 8A of Schedule 2 was inserted by paragraph 15(6) of Schedule 1 to that Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — List of internal repression goods and internal repression technology[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+## SCHEDULE 2 — List of internal repression goods and internal repression technology[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulation 19
 
-### 1. Firearms and related goods[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### 1. Firearms and related goods[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Vehicles[^key-66ce3b8862df4a7ee1b7c7116d575db2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Explosive substances and related goods[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### 4. Vehicles[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Other goods[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### 5. Explosive substances and related goods[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 14. Production equipment[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### 8. Other goods[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Software and technology[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+**9.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Production equipment[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 15. Software and technology[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
-### 17. Interpretation[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-66ce3b8862df4a7ee1b7c7116d575db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Interpretation[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66ce3b8862df4a7ee1b7c7116d575db2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/136) revoked (29.4.2021 at. 5.00 pm) by [The Myanmar (Sanctions) Regulations 2021 (S.I. 2021/496)](https://www.legislation.gov.uk/uksi/2021/496), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2021/496/regulation/78) (with [regs. 79-81](https://www.legislation.gov.uk/uksi/2021/496/regulation/79))
+[^c-66ce3b8862df4a7ee1b7c7116d575db2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/136) revoked (29.4.2021 at. 5.00 pm) by [The Myanmar (Sanctions) Regulations 2021 (S.I. 2021/496)](https://www.legislation.gov.uk/uksi/2021/496), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2021/496/regulation/78) (with [regs. 79-81](https://www.legislation.gov.uk/uksi/2021/496/regulation/79))

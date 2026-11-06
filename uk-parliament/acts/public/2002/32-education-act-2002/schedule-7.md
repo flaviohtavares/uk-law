@@ -32,7 +32,7 @@ Section 65
 >
 > (1) The Secretary of State may make a scheme in relation to land if these requirements are met—
 >
-> - (a) a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] holds a freehold or leasehold interest in the land when the scheme is made;
+> - (a) a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] holds a freehold or leasehold interest in the land when the scheme is made;
 > - (b) at any time in the period of eight years ending with the day on which the scheme is made the land was used wholly or mainly for the purposes of a county school or community school;
 > - (c) at the time the scheme is made the land is no longer used as mentioned in paragraph (b) or the Secretary of State thinks it is about to be no longer so used;
 > - (d) before making the scheme the Secretary of State consulted the authority.
@@ -235,7 +235,7 @@ Section 65
 
 In section 98 of the Environmental Protection Act 1990 (definitions), in subsection (2)(e), for the words from “city academy” to “1996” there is substituted “ Academy ”.
 
-#### 3.. ...[^key-d7fe57a35045c22334e392375c59433f][^key-d7fe57a35045c22334e392375c59433f]
+#### 3.. ...[^c-d7fe57a35045c22334e392375c59433f][^c-d7fe57a35045c22334e392375c59433f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -243,7 +243,7 @@ In section 98 of the Environmental Protection Act 1990 (definitions), in subsect
 
 In section 54 of the Further and Higher Education Act 1992 (duty to give information), in subsection (1)(b), for “city academy” there is substituted “ Academy ”.
 
-#### ...[^key-0577022b3d6b1fda4ae9cd7e0d043e16][^key-0577022b3d6b1fda4ae9cd7e0d043e16]
+#### ...[^c-0577022b3d6b1fda4ae9cd7e0d043e16][^c-0577022b3d6b1fda4ae9cd7e0d043e16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -272,34 +272,34 @@ In section 54 of the Further and Higher Education Act 1992 (duty to give informa
 > | --- | --- |
 > | Academy | section 482 |
 
-#### 7. School Inspections Act 1996 (c. 57)[^key-07761da135ca3e4dfcd790799bf27d7c]
+#### 7. School Inspections Act 1996 (c. 57)[^c-07761da135ca3e4dfcd790799bf27d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Education Act 1997 (c. 44)[^key-c2ad528a9fa84ca40ada6eff782339e1]
+#### 8. Education Act 1997 (c. 44)[^c-c2ad528a9fa84ca40ada6eff782339e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. School Standards and Framework Act 1998 (c. 31)[^key-6fab834d8e535045bd957501e071f703]
+#### 9. School Standards and Framework Act 1998 (c. 31)[^c-6fab834d8e535045bd957501e071f703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Learning and Skills Act 2000 (c. 21)[^key-4f2e9d49fe643658c5378f905789a816]
+#### 10. Learning and Skills Act 2000 (c. 21)[^c-4f2e9d49fe643658c5378f905789a816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-d7fe57a35045c22334e392375c59433f]: Textual amendment: Sch. 7 para. 3 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(d)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/d), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
+[^c-d7fe57a35045c22334e392375c59433f]: Textual amendment: Sch. 7 para. 3 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(d)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/d), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
 
-[^key-0577022b3d6b1fda4ae9cd7e0d043e16]: Textual amendment: Sch. 7 para. 5 and cross-heading repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-0577022b3d6b1fda4ae9cd7e0d043e16]: Textual amendment: Sch. 7 para. 5 and cross-heading repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
 
-[^key-07761da135ca3e4dfcd790799bf27d7c]: Textual amendment: Sch. 7 para. 7 repealed (1.9.2005 for E., 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1) (with [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2006/1338/schedule/4/paragraph/6))
+[^c-07761da135ca3e4dfcd790799bf27d7c]: Textual amendment: Sch. 7 para. 7 repealed (1.9.2005 for E., 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1) (with [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2006/1338/schedule/4/paragraph/6))
 
-[^key-c2ad528a9fa84ca40ada6eff782339e1]: Textual amendment: Sch. 7 para. 8 omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 29(9)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/29/9/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-c2ad528a9fa84ca40ada6eff782339e1]: Textual amendment: Sch. 7 para. 8 omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 29(9)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/29/9/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
 
-[^key-6fab834d8e535045bd957501e071f703]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2002/32/schedule/7/paragraph/9) omitted (1.1.2016) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 16 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/2/2/c); [S.I. 2015/2074](https://www.legislation.gov.uk/uksi/2015/2074), [art. 2](https://www.legislation.gov.uk/uksi/2015/2074/article/2)
+[^c-6fab834d8e535045bd957501e071f703]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2002/32/schedule/7/paragraph/9) omitted (1.1.2016) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 16 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/2/2/c); [S.I. 2015/2074](https://www.legislation.gov.uk/uksi/2015/2074), [art. 2](https://www.legislation.gov.uk/uksi/2015/2074/article/2)
 
-[^key-4f2e9d49fe643658c5378f905789a816]: Textual amendment: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2002/32/schedule/7/paragraph/10) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))
+[^c-4f2e9d49fe643658c5378f905789a816]: Textual amendment: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2002/32/schedule/7/paragraph/10) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/aa) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))

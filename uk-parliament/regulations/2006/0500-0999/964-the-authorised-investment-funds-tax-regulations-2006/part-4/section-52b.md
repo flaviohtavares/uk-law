@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Diversely owned AIFs and financial traders: treatment of shares and units[^key-2e818f17e3d403e1620aec2915bdb17d]
+## 52B. Diversely owned AIFs and financial traders: treatment of shares and units[^c-2e818f17e3d403e1620aec2915bdb17d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e818f17e3d403e1620aec2915bdb17d]: Textual amendment: [Regs. 52B-52E](https://www.legislation.gov.uk/uksi/2006/964/regulation/52B) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/2036/regulation/14)
+[^c-2e818f17e3d403e1620aec2915bdb17d]: Textual amendment: [Regs. 52B-52E](https://www.legislation.gov.uk/uksi/2006/964/regulation/52B) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/2036/regulation/14)

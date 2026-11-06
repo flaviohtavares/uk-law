@@ -53,7 +53,7 @@ summary: ''
 - (a) about the validity of the proposal; or
 - (b) about the accuracy of the list,
 
-an appeal may be made to the First-tier Tribunal for Scotland[^key-2fb63183ee52ba299ca7fd25ea0cc033].
+an appeal may be made to the First-tier Tribunal for Scotland[^c-2fb63183ee52ba299ca7fd25ea0cc033].
 
 (7) The regulations may include—
 
@@ -81,6 +81,6 @@ the authority must alter the copy accordingly.
 
 ## Annotations
 
-[^key-2fb63183ee52ba299ca7fd25ea0cc033]: Textual amendment: Words in [s. 87(6)](https://www.legislation.gov.uk/ukpga/1992/14/section/87/6) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 8(5)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/8/5) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-2fb63183ee52ba299ca7fd25ea0cc033]: Textual amendment: Words in [s. 87(6)](https://www.legislation.gov.uk/ukpga/1992/14/section/87/6) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 8(5)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/8/5) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c12080511]: Textual amendment: Words in [s. 87(9)(a)](https://www.legislation.gov.uk/ukpga/1992/14/section/87/9/a) repealed (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)

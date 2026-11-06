@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 51(5) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4ed519dd169e852de2bc5c6b34d276ef]
+## 1. Citation, commencement and interpretation[^c-4ed519dd169e852de2bc5c6b34d276ef]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Indexation) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -54,13 +54,13 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-## 2. Indexation of occupational pensions derived from the acceptance of transfer payments from pension schemes[^key-65c3118f8dc6c7dc022e864c2a9ef506]
+## 2. Indexation of occupational pensions derived from the acceptance of transfer payments from pension schemes[^c-65c3118f8dc6c7dc022e864c2a9ef506]
 
 (1) Subject to paragraph (2), where a person’s accrued rights to a pension payable under an occupational pension scheme to which Article 51 applies, or any part of them, derive from the allowance by the scheme of a transfer credit in respect of rights which were subject to the indexation requirement or to the requirements of Article 158, in any pension scheme of which that person has previously been a member, Article 51(2) and (3) shall apply to such part of that pension as is attributable to those rights as if they were attributable to pensionable service or to payments in respect of employment on or after the appointed day.
 
 (2) Paragraph (1) shall not apply in any case where a person’s accrued rights to a pension payable by an occupational pension scheme referred to in that paragraph, or any part of them, derive from rights which have, at any time prior to the allowance by such a scheme of a transfer credit in respect of them, been held in a personal pension scheme and which were not subject to the requirements of Article 158 in that scheme.
 
-## 3. Indexation of occupational pensions derived from the acceptance of payments from insurance policies or annuity contracts[^key-7a8d009e04a250018a23b788d3318316]
+## 3. Indexation of occupational pensions derived from the acceptance of payments from insurance policies or annuity contracts[^c-7a8d009e04a250018a23b788d3318316]
 
 Where a person’s accrued rights to a pension payable under an occupational pension scheme to which Article 51 applies, or any part of them, derive from the acceptance by the scheme of a payment from a policy of insurance or annuity contract in respect of rights which were subject to the indexation requirement or to the requirements of Article 158, in any pension scheme of which that person has previously been a member, Article 51(2) and (3) shall apply to such part of that pension as is attributable to those rights as if they were attributable to pensionable service or to payments in respect of employment on or after the appointed day.
 
@@ -96,8 +96,8 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-4ed519dd169e852de2bc5c6b34d276ef]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/8/regulation/1/1)
+[^c-4ed519dd169e852de2bc5c6b34d276ef]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/8/regulation/1/1)
 
-[^key-65c3118f8dc6c7dc022e864c2a9ef506]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/8/regulation/1/1)
+[^c-65c3118f8dc6c7dc022e864c2a9ef506]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/8/regulation/1/1)
 
-[^key-7a8d009e04a250018a23b788d3318316]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/8/regulation/1/1)
+[^c-7a8d009e04a250018a23b788d3318316]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/8/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Government loans[^key-69e899556c2c817d51fc49b7eb135fe5]
+## 35. Government loans[^c-69e899556c2c817d51fc49b7eb135fe5]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and the Secretary of State must lay before each House of Parliament a copy of th
 
 ## Annotations
 
-[^key-69e899556c2c817d51fc49b7eb135fe5]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2009/23/section/35) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-69e899556c2c817d51fc49b7eb135fe5]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2009/23/section/35) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

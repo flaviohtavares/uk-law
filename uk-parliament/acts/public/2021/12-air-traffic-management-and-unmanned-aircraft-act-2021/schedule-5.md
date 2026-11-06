@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — New Schedule B1 to the Transport Act 2000[^key-76310576e2130c0abe7f4e142690ce16]
+## SCHEDULE 5 — New Schedule B1 to the Transport Act 2000[^c-76310576e2130c0abe7f4e142690ce16]
 
 *Extent: E+W+S+N.I.*
 
 Section 10
 
-[^key-76310576e2130c0abe7f4e142690ce16]
+[^c-76310576e2130c0abe7f4e142690ce16]
 
 This Schedule sets out the new Schedule B1 to the Transport Act 2000, to be inserted after Schedule A1 to that Act (inserted by section 9 above)—
 
@@ -594,4 +594,4 @@ This Schedule sets out the new Schedule B1 to the Transport Act 2000, to be inse
 
 ## Annotations
 
-[^key-76310576e2130c0abe7f4e142690ce16]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2021/12/schedule/5) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/h)
+[^c-76310576e2130c0abe7f4e142690ce16]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2021/12/schedule/5) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/h)

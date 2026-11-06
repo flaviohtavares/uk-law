@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2B. Living together as a same sex couple[^key-1ab96ed172c48282ac03ace13d6275e3]
+## 2B. Living together as a same sex couple[^c-1ab96ed172c48282ac03ace13d6275e3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ab96ed172c48282ac03ace13d6275e3]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/uksi/2010/990/regulation/2B) omitted (1.9.2019 with effect from 1.9.2010) by virtue of [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2019/1134/regulation/6)
+[^c-1ab96ed172c48282ac03ace13d6275e3]: Textual amendment: [Reg. 2B](https://www.legislation.gov.uk/uksi/2010/990/regulation/2B) omitted (1.9.2019 with effect from 1.9.2010) by virtue of [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2019/1134/regulation/6)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Brazil Nuts) (Emergency Control) (Scotland) Regulations 2003 (revoked)[^key-0ff9ac1539ece916c2154881cd6934b6]
+The Food (Brazil Nuts) (Emergency Control) (Scotland) Regulations 2003 (revoked)[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 Made
 
@@ -45,52 +45,52 @@ Coming into force
 
 27th August 2003
 
-[^key-0ff9ac1539ece916c2154881cd6934b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ff9ac1539ece916c2154881cd6934b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 1. Citation, commencement and extent[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 2. Interpretation[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 3. Prohibition on import[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 4. Enforcement[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the 1990 Act and sampling and analysis[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 5. Application of various provisions of the 1990 Act and sampling and analysis[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Disposal of illegal imports[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 6. Disposal of illegal imports[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Disposal of imports following sampling and analysis[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 7. Disposal of imports following sampling and analysis[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Storage of imports[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 8. Storage of imports[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Appeals[^key-0ff9ac1539ece916c2154881cd6934b6]
+## 9. Appeals[^c-0ff9ac1539ece916c2154881cd6934b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ff9ac1539ece916c2154881cd6934b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ff9ac1539ece916c2154881cd6934b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0ff9ac1539ece916c2154881cd6934b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ff9ac1539ece916c2154881cd6934b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ff9ac1539ece916c2154881cd6934b6]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)
+[^c-0ff9ac1539ece916c2154881cd6934b6]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)

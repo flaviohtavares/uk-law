@@ -49,13 +49,13 @@ Regulations 7, 8 and 9 are made with the consent of the Department of Finance an
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 7, 8 and 9 should not be referred to it[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-48ae56eacef23adc3ea57d4a89f28048]
+## 1. Citation, commencement and interpretation[^c-48ae56eacef23adc3ea57d4a89f28048]
 
 (1) These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 and shall come into operation on 2nd April 2007.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-e157cc439b05a4ff3097b24e0b4dd734]
+## 2. Amendment of the Income Support (General) Regulations[^c-e157cc439b05a4ff3097b24e0b4dd734]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00009] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -87,11 +87,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (8) In Schedule 10 (capital to be disregarded) in paragraph 54[^f00019] at the end of sub-paragraph (2) add “or any water charges for which the claimant or member is liable”.
 
-## 3. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-c4adc60da3b6e9fe51403fe98633d48c]
+## 3. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^c-c4adc60da3b6e9fe51403fe98633d48c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-700e1994202c091fdfa1f1dee1255ead]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-700e1994202c091fdfa1f1dee1255ead]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00023] shall be amended in accordance with paragraphs (2) to (8).
 
@@ -123,7 +123,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (8) In Schedule 7 (capital to be disregarded) in paragraph 49[^f00031] at the end of sub-paragraph (2) add “, or any water charges for which that claimant or member is liable”.
 
-## 5. Amendment of the Child Support (Voluntary Payments) Regulations[^key-8ba507921f7a9f647db5e923e9b9fa36]
+## 5. Amendment of the Child Support (Voluntary Payments) Regulations[^c-8ba507921f7a9f647db5e923e9b9fa36]
 
 (1) The Child Support (Voluntary Payments) Regulations (Northern Ireland) 2001[^f00032] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -135,7 +135,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) In regulation 3(b)(iv) (types of payment) after “mains supplied gas” insert “, water”.
 
-## 6. Amendment of the State Pension Credit Regulations[^key-59b827ea4cd73955daaf07ad7a7f529f]
+## 6. Amendment of the State Pension Credit Regulations[^c-59b827ea4cd73955daaf07ad7a7f529f]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00033] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -147,7 +147,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) In Schedule 4 (amounts to be disregarded in the calculation of income other than earnings) in paragraph 11(2)(b) for “or rates” substitute “, rates or water charges”.
 
-## 7. Amendment of the Housing Benefit Regulations[^key-24f8a3bf3686352b1f6ebdd9897721e8]
+## 7. Amendment of the Housing Benefit Regulations[^c-24f8a3bf3686352b1f6ebdd9897721e8]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00034] are amended in accordance with paragraphs (2) to (10).
 
@@ -183,7 +183,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (10) In Schedule 7 (capital to be disregarded) in paragraph 49 at the end of sub-paragraph (2) add “, or any water charges for which that claimant or member is liable”.
 
-## 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-e3da93d30c897eb9a05fc37e7a5e5fdf]
+## 8. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-e3da93d30c897eb9a05fc37e7a5e5fdf]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00035] are amended in accordance with paragraphs (2) to (5).
 
@@ -199,7 +199,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (5) In Schedule 6 (amounts to be disregarded in the calculation of income other than earnings) in paragraph 13(2)(b) for “or rates” substitute “, rates or water charges”.
 
-## 9. Amendment of the Housing Benefit (Consequential Provisions) Regulations[^key-ba558e5ac5cbf5a348a72895c572722c]
+## 9. Amendment of the Housing Benefit (Consequential Provisions) Regulations[^c-ba558e5ac5cbf5a348a72895c572722c]
 
 In Schedule 3 to the Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006[^f00036] (transitional and savings provisions) in paragraph 5(1) in regulation 13 (rent) as set out in that paragraph—
 
@@ -281,11 +281,11 @@ In so far as these Regulations are required, for the purposes of regulations 7, 
 
 [^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-48ae56eacef23adc3ea57d4a89f28048]: Commencement: Reg. 1 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-48ae56eacef23adc3ea57d4a89f28048]: Commencement: Reg. 1 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e157cc439b05a4ff3097b24e0b4dd734]: Commencement: Reg. 2 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-e157cc439b05a4ff3097b24e0b4dd734]: Commencement: Reg. 2 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1993 No. 120](https://www.legislation.gov.uk/nisr/1993/120), [S.R. 1994 No. 77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342), [S.R. 2000 No. 242](https://www.legislation.gov.uk/nisr/2000/242), [S.R. 2002 Nos. 128](https://www.legislation.gov.uk/nisr/2002/128) and [132](https://www.legislation.gov.uk/nisr/2002/132), [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), [S.R. 2004 No. 143](https://www.legislation.gov.uk/nisr/2004/143), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154)
 
@@ -309,9 +309,9 @@ In so far as these Regulations are required, for the purposes of regulations 7, 
 
 [^f00019]: Footnote: Paragraph 54 was added by regulation 5(5) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342) and amended by regulation 2(1) of, and paragraph 18 of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-c4adc60da3b6e9fe51403fe98633d48c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/196/regulation/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-c4adc60da3b6e9fe51403fe98633d48c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/196/regulation/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-700e1994202c091fdfa1f1dee1255ead]: Commencement: Reg. 4 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-700e1994202c091fdfa1f1dee1255ead]: Commencement: Reg. 4 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342), [S.R. 2000 Nos. 242](https://www.legislation.gov.uk/nisr/2000/242) and [350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2002 Nos. 128](https://www.legislation.gov.uk/nisr/2002/128) and [132](https://www.legislation.gov.uk/nisr/2002/132), [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), [S.R. 2004 No. 143](https://www.legislation.gov.uk/nisr/2004/143), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154)
 
@@ -331,26 +331,26 @@ In so far as these Regulations are required, for the purposes of regulations 7, 
 
 [^f00031]: Footnote: Paragraph 49 was added by regulation 6(5) of [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342) and amended by regulation 2(2) of, and paragraph 24 of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-8ba507921f7a9f647db5e923e9b9fa36]: Commencement: Reg. 5 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-8ba507921f7a9f647db5e923e9b9fa36]: Commencement: Reg. 5 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 2001 No. 21](https://www.legislation.gov.uk/nisr/2001/21)
 
-[^key-59b827ea4cd73955daaf07ad7a7f529f]: Commencement: Reg. 6 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-59b827ea4cd73955daaf07ad7a7f529f]: Commencement: Reg. 6 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00033]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28) to which there are amendments not relevant to these Regulations
 
-[^key-24f8a3bf3686352b1f6ebdd9897721e8]: Commencement: Reg. 7 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-24f8a3bf3686352b1f6ebdd9897721e8]: Commencement: Reg. 7 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00034]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
 [^M_F_879ad361-9553-4384-938a-d70fcdfc7b3d]: Textual amendment: Reg. 7(3)(4) revoked (7.4.2008) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101/contents/made), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/made), [3](https://www.legislation.gov.uk/nisr/2008/101/regulation/3/made)
 
-[^key-e3da93d30c897eb9a05fc37e7a5e5fdf]: Commencement: Reg. 8 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-e3da93d30c897eb9a05fc37e7a5e5fdf]: Commencement: Reg. 8 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00035]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
 [^M_F_27a6d3b6-7f45-43fb-d357-ad69ca4e6b8e]: Textual amendment: Reg. 8(3)(4) revoked 7.4.2008 by[The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102/made), [Regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/made), [3](https://www.legislation.gov.uk/nisr/2008/102/regulation/3/made)
 
-[^key-ba558e5ac5cbf5a348a72895c572722c]: Commencement: Reg. 9 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
+[^c-ba558e5ac5cbf5a348a72895c572722c]: Commencement: Reg. 9 in operation at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1)
 
 [^f00036]: Footnote: [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. The database operator[^key-90e54c39e40b691c1bc05d841c0ac2f7]
+## 76. The database operator[^c-90e54c39e40b691c1bc05d841c0ac2f7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90e54c39e40b691c1bc05d841c0ac2f7]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-90e54c39e40b691c1bc05d841c0ac2f7]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

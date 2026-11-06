@@ -66,7 +66,7 @@ Section 9.
 
 **12.** In section 118G (offences in connection with record keeping etc. by revenue traders), for the words from “he shall be liable” onwards there shall be substituted “ his failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties) and, in the case of any failure to keep records, shall also attract daily penalties. ”
 
-**13.**[^key-fa980f735bd7e4851a41bc4c0cdc4095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-fa980f735bd7e4851a41bc4c0cdc4095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Contraventions under the Alcoholic Liquor Duties Act 1979
 
@@ -85,7 +85,7 @@ Section 9.
 
 (3) In subsection (5) of that section (offence and forfeiture in the case of a contravention of any condition imposed with respect to any process of manufacture involving spirits), for the words from “he shall be liable” onwards there shall be substituted “ his contravention or failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties), and any spirits in respect of which any person contravenes or fails to comply with any such condition shall be liable to forfeiture. ”
 
-**18.** (1) In subsection (4) of section 15 [^key-6476dd7c3a05407b75a99ac5fbf209f1]....
+**18.** (1) In subsection (4) of section 15 [^c-6476dd7c3a05407b75a99ac5fbf209f1]....
 
 (2) For subsection (5) of that section there shall be substituted the following subsection—
 
@@ -107,11 +107,11 @@ Section 9.
 
 **22.** In each of subsections (1) and (2) of section 20 (forfeiture and offences in the case of an excess or deficiency of stock), for the words from “the rectifier shall be liable” onwards there shall be substituted “ there shall be deemed to have been conduct by the rectifier attracting a penalty under section 9 of the Finance Act 1994 (civil penalties). ”
 
-**23.**[^key-9d35fcc6e01a058d9b3d7a68cf860ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9d35fcc6e01a058d9b3d7a68cf860ffd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-9cf6a106b790b14655b2d33efdfe5009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-9cf6a106b790b14655b2d33efdfe5009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-b5b0ef0569021319500af9eec1b00bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-b5b0ef0569021319500af9eec1b00bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **26.** (1) In subsection (1) of section 33 (offence and forfeiture in the case of the use of spirits relieved from spirits duty), in the words after paragraph (c), for the words from “he shall” to “greater” there shall be substituted “ his doing so shall, unless he has complied with the requirements specified in subsection (2) below, attract a penalty under section 9 of the Finance Act 1994 (civil penalties) ”.
 
@@ -121,7 +121,7 @@ Section 9.
 
 > (2) A contravention of this section shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties).
 
-**28.**[^key-f163195dac64e1d9029205073f2db592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-f163195dac64e1d9029205073f2db592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** In section 41A(8) (offence and forfeiture in the case of a contravention of a condition of registration), for the words from “he shall be liable” onwards there shall be substituted “ his contravention or failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties), and any beer in respect of which any person contravenes or fails to comply with any such condition shall be liable to forfeiture. ”
 
@@ -141,7 +141,7 @@ Section 9.
 
 **35.** In section 55(6) (offence of producing made-wine on unlicensed premises), for the words from “he shall” to “and the made-wine” there shall be substituted “ his doing so shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties) which shall be calculated by reference to the amount of duty charged on the made-wine produced, and the made-wine ”.
 
-**36.**[^key-b1793257d63053df6c22d679c1da6702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-b1793257d63053df6c22d679c1da6702] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** In section 56(2) (offence and forfeiture in the case of a contravention of regulations relating to wine and made-wine), for the words from “he shall be liable” onwards there shall be substituted “ his contravention or failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties), and any article in respect of which any person contravenes or fails to comply with any such regulation shall be liable to forfeiture. ”
 
@@ -157,11 +157,11 @@ Section 9.
 
 **41.** In section 64(2) (offence of contravening regulations relating to the remission of duty on spoilt cider), for the words from “he shall be liable” onwards there shall be substituted “ his contravention or failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties). ”
 
-**42.**[^key-12f20a9424f521b84717c896be5c750f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-12f20a9424f521b84717c896be5c750f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-12f20a9424f521b84717c896be5c750f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-12f20a9424f521b84717c896be5c750f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-12f20a9424f521b84717c896be5c750f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-12f20a9424f521b84717c896be5c750f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.** In section 75(5) (offence of unlicensed methylation of spirits)—
 
@@ -174,9 +174,9 @@ Section 9.
 
 (3) In subsection (5) of that section (forfeiture), for “an offence under subsection (3) or (4) above is committed” there shall be substituted “ there is such a contravention or failure to comply as is mentioned in subsection (3) above or any such dealing as is mentioned in subsection (4) above ”.
 
-**47.**[^key-922a94310dd1482194806a57adc0b588] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-922a94310dd1482194806a57adc0b588] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-5268d36668dc87e7a30638f6714ef2c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-5268d36668dc87e7a30638f6714ef2c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Contraventions under the Hydrocarbon Oil Duties Act 1979
 
@@ -327,27 +327,27 @@ Section 9.
 
 ## Annotations
 
-[^key-fa980f735bd7e4851a41bc4c0cdc4095]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/paragraph/13) omitted (1.4.2010) (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/e/ii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-fa980f735bd7e4851a41bc4c0cdc4095]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/paragraph/13) omitted (1.4.2010) (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/e/ii); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
 
 [^c14457921]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
-[^key-6476dd7c3a05407b75a99ac5fbf209f1]: Textual amendment: Words in Sch. 4 para. 18(1) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-6476dd7c3a05407b75a99ac5fbf209f1]: Textual amendment: Words in Sch. 4 para. 18(1) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-9d35fcc6e01a058d9b3d7a68cf860ffd]: Textual amendment: Sch. 4 para. 23 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-9d35fcc6e01a058d9b3d7a68cf860ffd]: Textual amendment: Sch. 4 para. 23 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-9cf6a106b790b14655b2d33efdfe5009]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/paragraph/24) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 187(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/section/187/2/c)
+[^c-9cf6a106b790b14655b2d33efdfe5009]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/paragraph/24) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 187(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/section/187/2/c)
 
-[^key-b5b0ef0569021319500af9eec1b00bcd]: Textual amendment: Sch. 4 para. 25 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-b5b0ef0569021319500af9eec1b00bcd]: Textual amendment: Sch. 4 para. 25 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-f163195dac64e1d9029205073f2db592]: Textual amendment: Sch. 4 para. 28 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-f163195dac64e1d9029205073f2db592]: Textual amendment: Sch. 4 para. 28 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-b1793257d63053df6c22d679c1da6702]: Textual amendment: Sch. 4 para. 36 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-b1793257d63053df6c22d679c1da6702]: Textual amendment: Sch. 4 para. 36 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-12f20a9424f521b84717c896be5c750f]: Textual amendment: Sch. 4 paras. 42-44 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-12f20a9424f521b84717c896be5c750f]: Textual amendment: Sch. 4 paras. 42-44 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
-[^key-922a94310dd1482194806a57adc0b588]: Textual amendment: Sch. 4 para. 47 repealed (1.7.2005) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 5(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/5/6), [Sch. 29 Pt. I(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/I/3); [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2](https://www.legislation.gov.uk/uksi/2005/1523/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-922a94310dd1482194806a57adc0b588]: Textual amendment: Sch. 4 para. 47 repealed (1.7.2005) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 5(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/5/6), [Sch. 29 Pt. I(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/I/3); [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2](https://www.legislation.gov.uk/uksi/2005/1523/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
 
-[^key-5268d36668dc87e7a30638f6714ef2c4]: Textual amendment: Sch. 4 para. 48 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-5268d36668dc87e7a30638f6714ef2c4]: Textual amendment: Sch. 4 para. 48 repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c14457941]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 

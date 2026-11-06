@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Automatic enrolment schemes[^c19557821][^key-4070cda7e83bd1597ac0ef1fc6a1a836]
+## 17. Automatic enrolment schemes[^c19557821][^c-4070cda7e83bd1597ac0ef1fc6a1a836]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c19557821]: Commencement: S. 17 partly in force; s. 17 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-4070cda7e83bd1597ac0ef1fc6a1a836]: Commencement: S. 17 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-4070cda7e83bd1597ac0ef1fc6a1a836]: Commencement: S. 17 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

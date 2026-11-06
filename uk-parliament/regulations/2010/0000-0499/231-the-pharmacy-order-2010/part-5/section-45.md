@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Visitors[^key-d82c54421140ce3a395b7bad8a3dd749][^key-e1d0f5efb9557509d09a0a23397ae5e7]
+## 45. Visitors[^c-d82c54421140ce3a395b7bad8a3dd749][^c-e1d0f5efb9557509d09a0a23397ae5e7]
 
 *Extent: E+W+S*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d82c54421140ce3a395b7bad8a3dd749]: Commencement: Art. 45 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-d82c54421140ce3a395b7bad8a3dd749]: Commencement: Art. 45 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-e1d0f5efb9557509d09a0a23397ae5e7]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2010/231/article/45) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-e1d0f5efb9557509d09a0a23397ae5e7]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2010/231/article/45) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

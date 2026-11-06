@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Local excavation vehicles: authorisation requirements[^key-bfd5053afb6df8bf34c76f7a001a73c0]
+## 33. Local excavation vehicles: authorisation requirements[^c-bfd5053afb6df8bf34c76f7a001a73c0]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The authorisation requirements applicable to local excavation vehicles are—
 
 ## Annotations
 
-[^key-bfd5053afb6df8bf34c76f7a001a73c0]: Commencement: Art. 33 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-bfd5053afb6df8bf34c76f7a001a73c0]: Commencement: Art. 33 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

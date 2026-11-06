@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Scottish legal services ombudsman.[^key-aa532c353ca13dd3d9a5a3ba1716e433]
+## 34. Scottish legal services ombudsman.[^c-aa532c353ca13dd3d9a5a3ba1716e433]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa532c353ca13dd3d9a5a3ba1716e433]: Textual amendment: S. 34 repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (Transitional, Savings and Consequential Provisions) Order 2008 (S.S.I. 2008/332)](https://www.legislation.gov.uk/ssi/2008/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/332/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2008/332/article/3/1/a) (with [arts. 3(2)-(5)](https://www.legislation.gov.uk/ssi/2008/332/article/3/2), [4](https://www.legislation.gov.uk/ssi/2008/332/article/4))
+[^c-aa532c353ca13dd3d9a5a3ba1716e433]: Textual amendment: S. 34 repealed (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (Transitional, Savings and Consequential Provisions) Order 2008 (S.S.I. 2008/332)](https://www.legislation.gov.uk/ssi/2008/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/332/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2008/332/article/3/1/a) (with [arts. 3(2)-(5)](https://www.legislation.gov.uk/ssi/2008/332/article/3/2), [4](https://www.legislation.gov.uk/ssi/2008/332/article/4))

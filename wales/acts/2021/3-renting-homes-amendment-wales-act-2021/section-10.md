@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Notice in connection with end of term of fixed term standard contracts restricted to certain contracts[^key-59553ddf80e6a66e7d47fa7252350e00]
+## 10. Notice in connection with end of term of fixed term standard contracts restricted to certain contracts[^c-59553ddf80e6a66e7d47fa7252350e00]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59553ddf80e6a66e7d47fa7252350e00]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2021/3/section/10) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-59553ddf80e6a66e7d47fa7252350e00]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2021/3/section/10) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

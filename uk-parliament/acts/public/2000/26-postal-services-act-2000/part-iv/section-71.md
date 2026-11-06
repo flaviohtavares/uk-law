@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State and the Treasury shall exercise their powers under or by virtue of this Act so as to ensure that, on and after the appointed day, the Crown’s financial arrangements with relevant companies[^key-096df838e4a56ab8458b5f4bb4333035] do not at any time exceed £5,000 million or such greater sum as the Secretary of State may by order specify.
+(1) The Secretary of State and the Treasury shall exercise their powers under or by virtue of this Act so as to ensure that, on and after the appointed day, the Crown’s financial arrangements with relevant companies[^c-096df838e4a56ab8458b5f4bb4333035] do not at any time exceed £5,000 million or such greater sum as the Secretary of State may by order specify.
 
 (2) For the purposes of subsection (1) the Crown’s financial arrangements with relevant companies are the aggregate of—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-096df838e4a56ab8458b5f4bb4333035]: Textual amendment: Words in s. 71(1)(2) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/12); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-096df838e4a56ab8458b5f4bb4333035]: Textual amendment: Words in s. 71(1)(2) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/12); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c10291601]: Marginal citation: [1969 c. 48](https://www.legislation.gov.uk/ukpga/1969/48).

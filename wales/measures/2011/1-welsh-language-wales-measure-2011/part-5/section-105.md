@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Appeals from Tribunal[^key-27e6bfbe8ff42cb9d6de30c07a3249b7]
+## 105. Appeals from Tribunal[^c-27e6bfbe8ff42cb9d6de30c07a3249b7]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27e6bfbe8ff42cb9d6de30c07a3249b7]: Commencement: [S. 105](https://www.legislation.gov.uk/mwa/2011/1/section/105) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-27e6bfbe8ff42cb9d6de30c07a3249b7]: Commencement: [S. 105](https://www.legislation.gov.uk/mwa/2011/1/section/105) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

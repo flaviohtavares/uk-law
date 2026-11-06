@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Enforcement of heat network zone requirements[^key-c6cb6a525067aa576de961ec7eefba32]
+## 234. Enforcement of heat network zone requirements[^c-c6cb6a525067aa576de961ec7eefba32]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6cb6a525067aa576de961ec7eefba32]: Commencement: S. 234 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c6cb6a525067aa576de961ec7eefba32]: Commencement: S. 234 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

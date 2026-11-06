@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Appeals: England and Wales[^key-c1afea5ac91b7548549ff55c014f7a37]
+## 74. Appeals: England and Wales[^c-c1afea5ac91b7548549ff55c014f7a37]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1afea5ac91b7548549ff55c014f7a37]: Commencement: Reg. 74 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c1afea5ac91b7548549ff55c014f7a37]: Commencement: Reg. 74 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

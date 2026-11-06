@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278C. Quotas: further provision about their fulfilment[^key-71d7639dbc1786a144bdf43cde42c786]
+## 278C. Quotas: further provision about their fulfilment[^c-71d7639dbc1786a144bdf43cde42c786]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71d7639dbc1786a144bdf43cde42c786]: Textual amendment: [S. 278C](https://www.legislation.gov.uk/ukpga/2003/21/section/278C) inserted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 12](https://www.legislation.gov.uk/ukpga/2024/15/section/12), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/l)
+[^c-71d7639dbc1786a144bdf43cde42c786]: Textual amendment: [S. 278C](https://www.legislation.gov.uk/ukpga/2003/21/section/278C) inserted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 12](https://www.legislation.gov.uk/ukpga/2024/15/section/12), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/l)

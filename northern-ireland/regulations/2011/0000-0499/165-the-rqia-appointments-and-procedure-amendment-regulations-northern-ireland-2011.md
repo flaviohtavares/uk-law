@@ -30,7 +30,7 @@ summary: ''
 
 Health And Social Care
 
-The RQIA[^key-665efa89f6fc4c4dc9290517e78d1dde] (Appointments and Procedure) (Amendment) Regulations (Northern Ireland) 2011
+The RQIA[^c-665efa89f6fc4c4dc9290517e78d1dde] (Appointments and Procedure) (Amendment) Regulations (Northern Ireland) 2011
 
 Made
 
@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred on it by Article 3(2) of, and paragraph 5 of Schedule 1 to, the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-07172b70b9158211c025207f81cfa2ce]
+## 1. Citation, commencement and interpretation[^c-07172b70b9158211c025207f81cfa2ce]
 
 (1) These Regulations may be cited as the RQIA (Appointments and Procedure) (Amendment) Regulations (Northern Ireland) 2011 and shall come into operation on 26th May 2011.
 
 (2) In these Regulations “the principal Regulations” means the Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004[^f00002].
 
-## 2. Amendment of regulation 4 of the principal Regulations[^key-2f455a8fb9065199e0938c129963bb27]
+## 2. Amendment of regulation 4 of the principal Regulations[^c-2f455a8fb9065199e0938c129963bb27]
 
 In Regulation 4(1) (*Disqualification for appointment*) of the principal Regulations delete sub-paragraph (k).
 
@@ -68,12 +68,12 @@ These Regulations remove the disqualification for appointment relating to person
 
 ## Annotations
 
-[^key-665efa89f6fc4c4dc9290517e78d1dde]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-665efa89f6fc4c4dc9290517e78d1dde]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^f00001]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-07172b70b9158211c025207f81cfa2ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/165/regulation/1) in operation at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/165/regulation/1/1)
+[^c-07172b70b9158211c025207f81cfa2ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/165/regulation/1) in operation at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/165/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2004 No. 37](https://www.legislation.gov.uk/nisr/2004/37)
 
-[^key-2f455a8fb9065199e0938c129963bb27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/165/regulation/2) in operation at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/165/regulation/1/1)
+[^c-2f455a8fb9065199e0938c129963bb27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/165/regulation/2) in operation at 26.5.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/165/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 263B. National Scenic Areas: report on consultation[^key-733b1a1d021da1303b4198b3c0d3ad93]
+## 263B. National Scenic Areas: report on consultation[^c-733b1a1d021da1303b4198b3c0d3ad93]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-733b1a1d021da1303b4198b3c0d3ad93]: Textual amendment: S. 263B inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 51(4)](https://www.legislation.gov.uk/asp/2019/13/section/51/4), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)
+[^c-733b1a1d021da1303b4198b3c0d3ad93]: Textual amendment: S. 263B inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 51(4)](https://www.legislation.gov.uk/asp/2019/13/section/51/4), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)

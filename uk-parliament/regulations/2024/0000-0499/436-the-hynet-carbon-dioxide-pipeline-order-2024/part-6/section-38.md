@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Application of landlord and tenant law[^key-2a988d0e0de6d1be71ca368f88c794b6]
+## 38. Application of landlord and tenant law[^c-2a988d0e0de6d1be71ca368f88c794b6]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a988d0e0de6d1be71ca368f88c794b6]: Commencement: Art. 38 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-2a988d0e0de6d1be71ca368f88c794b6]: Commencement: Art. 38 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

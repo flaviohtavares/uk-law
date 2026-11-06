@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 57(2) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00001] and of every other power enabling it in that behalf, and after consultation with such representative organisations as it thinks fit in accordance with Article 91(1) of that Order, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-962abaf289f9f676153ccc37bf22ecfc]
+## 1. Citation and commencement[^c-962abaf289f9f676153ccc37bf22ecfc]
 
 This Order may be cited as the Road Traffic (Fixed Penalty) (Offences) Order (Northern Ireland) 1997 and shall come into operation on 1st October 1997.
 
-## 2. Specified Offences[^key-392d2ca62c5ff4f0f3da54adcc9f29ac]
+## 2. Specified Offences[^c-392d2ca62c5ff4f0f3da54adcc9f29ac]
 
 Any offence in respect of a vehicle, being an offence created under a statutory provision specified in column 2 of Schedule 1 (the general nature of which is described in column 3 thereof) is a fixed penalty offence for the purposes of Part IV of the Road Traffic Offenders (Northern Ireland) Order 1996.
 
-## 3. Revocation[^key-4041ae179338976aec894a757a04ea5e]
+## 3. Revocation[^c-4041ae179338976aec894a757a04ea5e]
 
 The Orders specified in Schedule 2 are hereby revoked.
 
@@ -62,7 +62,7 @@ Assistant Secretary
 
 4th August 1997.
 
-## SCHEDULE 1 — Fixed Penalty Offences[^key-15bc8860b2a4afe327fc9423cb21b3e2]
+## SCHEDULE 1 — Fixed Penalty Offences[^c-15bc8860b2a4afe327fc9423cb21b3e2]
 
 Article 2
 
@@ -134,7 +134,7 @@ Article 2
 
 [^f00002][^f00003][^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012]
 
-## SCHEDULE 2 — Orders Revoked[^key-d2f49bb074d5a15f85ded4ad10dfa239]
+## SCHEDULE 2 — Orders Revoked[^c-d2f49bb074d5a15f85ded4ad10dfa239]
 
 Article 3
 
@@ -167,13 +167,13 @@ Consequential revocations are also made (Article 3 and Schedule 2).
 
 [^f00001]: Footnote: [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
 
-[^key-962abaf289f9f676153ccc37bf22ecfc]: Commencement: Art. 1 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
+[^c-962abaf289f9f676153ccc37bf22ecfc]: Commencement: Art. 1 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
 
-[^key-392d2ca62c5ff4f0f3da54adcc9f29ac]: Commencement: Art. 2 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
+[^c-392d2ca62c5ff4f0f3da54adcc9f29ac]: Commencement: Art. 2 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
 
-[^key-4041ae179338976aec894a757a04ea5e]: Commencement: Art. 3 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
+[^c-4041ae179338976aec894a757a04ea5e]: Commencement: Art. 3 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
 
-[^key-15bc8860b2a4afe327fc9423cb21b3e2]: Commencement: Sch. 1 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
+[^c-15bc8860b2a4afe327fc9423cb21b3e2]: Commencement: Sch. 1 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
 
 [^f00002]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); relevant amending instrument is [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
 
@@ -197,4 +197,4 @@ Consequential revocations are also made (Article 3 and Schedule 2).
 
 [^f00012]: Footnote: [S.R. & O. (N.I.) 1933 No. 42](https://www.legislation.gov.uk/nisro/1933/42), to which there is an amendment not relevant to this item
 
-[^key-d2f49bb074d5a15f85ded4ad10dfa239]: Commencement: Sch. 2 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)
+[^c-d2f49bb074d5a15f85ded4ad10dfa239]: Commencement: Sch. 2 in operation at 1.10.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/369/article/1)

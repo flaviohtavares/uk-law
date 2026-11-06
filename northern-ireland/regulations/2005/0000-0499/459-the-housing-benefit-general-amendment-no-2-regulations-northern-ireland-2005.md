@@ -27,106 +27,106 @@ summary: ''
 
 2005 No. 459
 
-HOUSING; RATES *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+HOUSING; RATES *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-The Housing Benefit (General) (Amendment *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] No. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] 2) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+The Housing Benefit (General) (Amendment *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] No. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] 2) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-Made *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+Made *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-20th October 2005 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+20th October 2005 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-Coming into operation *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+Coming into operation *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-10th April 2006 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+10th April 2006 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-The Department for Social Development, in exercise of the powers conferred by section 122(1)(d) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00001] sections 73(1), (2), (3) and (4) and 165(1), (4) and (6) of the Social Security Administration (Northern Ireland) Act 1992 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00002] and now vested in it *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00004], and after agreement by the Social Security Advisory Committee *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00005] that proposals in respect of these Regulations should not be referred to it, hereby makes the following Regulations: *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+The Department for Social Development, in exercise of the powers conferred by section 122(1)(d) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00001] sections 73(1), (2), (3) and (4) and 165(1), (4) and (6) of the Social Security Administration (Northern Ireland) Act 1992 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00002] and now vested in it *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00004], and after agreement by the Social Security Advisory Committee *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00005] that proposals in respect of these Regulations should not be referred to it, hereby makes the following Regulations: *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 1. Citation, commencement and interpretation (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379]
+## 1. Citation, commencement and interpretation (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379]
 
-(1) These Regulations may be cited as the Housing Benefit (General) (Amendment No.2) Regulations (Northern Ireland) 2005 and shall come into operation on 10th April 2006. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(1) These Regulations may be cited as the Housing Benefit (General) (Amendment No.2) Regulations (Northern Ireland) 2005 and shall come into operation on 10th April 2006. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(2) In these Regulations— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(2) In these Regulations— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-- “the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00006].
+- “the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00006].
 
-(3) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00007] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(3) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00007] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 2. Amendment of regulation 98 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379][^key-83b3fa41c7477661525ef47b13efa379]
+## 2. Amendment of regulation 98 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379][^c-83b3fa41c7477661525ef47b13efa379]
 
-In regulation 98 of the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00008] (meaning of overpayment) for “as subsequently revised or further revised” there shall be substituted “or as subsequently revised or superseded or further revised or superseded”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+In regulation 98 of the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00008] (meaning of overpayment) for “as subsequently revised or further revised” there shall be substituted “or as subsequently revised or superseded or further revised or superseded”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 3. Amendment of regulation 99 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379][^key-83b3fa41c7477661525ef47b13efa379]
+## 3. Amendment of regulation 99 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379][^c-83b3fa41c7477661525ef47b13efa379]
 
-(1) Regulation 99 of the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] (recoverable overpayments) shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(1) Regulation 99 of the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] (recoverable overpayments) shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(2) In paragraph (2) *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00009] for “caused by” there shall be substituted “which arose in consequence of”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(2) In paragraph (2) *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00009] for “caused by” there shall be substituted “which arose in consequence of”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(3) In paragraph (3) *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00010] for “caused by official error” there shall be substituted “which arose in consequence of an official error”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(3) In paragraph (3) *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00010] for “caused by official error” there shall be substituted “which arose in consequence of an official error”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(4) In paragraph (4A) *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00011] after “revised” there shall be inserted “or superseded” and after “revision” there shall be inserted “or supersession”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(4) In paragraph (4A) *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00011] after “revised” there shall be inserted “or superseded” and after “revision” there shall be inserted “or supersession”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 4. Amendment of regulation 101 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379][^key-83b3fa41c7477661525ef47b13efa379]
+## 4. Amendment of regulation 101 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379][^c-83b3fa41c7477661525ef47b13efa379]
 
-(1) Regulation 101 of the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00012] (person from whom recovery may be sought) shall be amended in accordance with paragraphs (2) to (5). *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(1) Regulation 101 of the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00012] (person from whom recovery may be sought) shall be amended in accordance with paragraphs (2) to (5). *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(2) After sub-paragraph (b) of paragraph (1), there shall be inserted the following sub-paragraph— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(2) After sub-paragraph (b) of paragraph (1), there shall be inserted the following sub-paragraph— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-> - (bb (affected by repeal, see note))[^key-83b3fa41c7477661525ef47b13efa379] the Executive is satisfied that the overpayment did not occur as a result of any change of dwelling occupied by the claimant as his home; *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> - (bb (affected by repeal, see note))[^c-83b3fa41c7477661525ef47b13efa379] the Executive is satisfied that the overpayment did not occur as a result of any change of dwelling occupied by the claimant as his home; *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
 .
 
-(3) For paragraph (2) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(3) For paragraph (2) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-> (2) For the purposes of section 73(3)(b) of the Administration Act (overpayments of housing benefit), where recovery of an overpayment is sought by the Executive— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> (2) For the purposes of section 73(3)(b) of the Administration Act (overpayments of housing benefit), where recovery of an overpayment is sought by the Executive— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 >
-> - (a) the prescribed person from whom it is sought shall be— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
->   - (i) in a case where an overpayment arose in consequence of a misrepresentation of or a failure to disclose a material fact (in either case, whether fraudulently or otherwise) by or on behalf of the claimant or any other person to whom housing benefit has been paid, the person who misrepresented or failed to disclose that material fact instead of, if different, the person to whom the payment was made; *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
->   - (ii (affected by repeal, see note))[^key-83b3fa41c7477661525ef47b13efa379] in a case where an overpayment arose in consequence of an official error where the claimant or a person acting on his behalf or any other person to whom the payment has been made could reasonably have been expected, at the time of receipt of the payment or of any notice relating to that payment, to realise that it was an overpayment, that person instead of, if different, the person to whom the payment was made, or *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
-> - (b) where sub-paragraphs (a)(i) and (ii) do not apply, the prescribed person from whom it is sought is— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
->   - (i) the claimant.; *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
->   - (ii (affected by repeal, see note))[^key-83b3fa41c7477661525ef47b13efa379] in a case where a recoverable overpayment is made to a claimant who has one or more partners, the claimant’s partner or any of his partners. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> - (a) the prescribed person from whom it is sought shall be— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+>   - (i) in a case where an overpayment arose in consequence of a misrepresentation of or a failure to disclose a material fact (in either case, whether fraudulently or otherwise) by or on behalf of the claimant or any other person to whom housing benefit has been paid, the person who misrepresented or failed to disclose that material fact instead of, if different, the person to whom the payment was made; *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+>   - (ii (affected by repeal, see note))[^c-83b3fa41c7477661525ef47b13efa379] in a case where an overpayment arose in consequence of an official error where the claimant or a person acting on his behalf or any other person to whom the payment has been made could reasonably have been expected, at the time of receipt of the payment or of any notice relating to that payment, to realise that it was an overpayment, that person instead of, if different, the person to whom the payment was made, or *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+> - (b) where sub-paragraphs (a)(i) and (ii) do not apply, the prescribed person from whom it is sought is— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+>   - (i) the claimant.; *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+>   - (ii (affected by repeal, see note))[^c-83b3fa41c7477661525ef47b13efa379] in a case where a recoverable overpayment is made to a claimant who has one or more partners, the claimant’s partner or any of his partners. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
 .
 
-(4) After paragraph (3), there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(4) After paragraph (3), there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-> (3A) For the purposes of paragraph (2)(a)(ii), “overpayment arose in consequence of an official error” shall have the same meaning as in regulation 99(3) *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> (3A) For the purposes of paragraph (2)(a)(ii), “overpayment arose in consequence of an official error” shall have the same meaning as in regulation 99(3) *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
 .
 
-(5) In paragraph (4) for “paragraph (2)(b)” there shall be substituted “paragraph (2)(b)(ii)”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(5) In paragraph (4) for “paragraph (2)(b)” there shall be substituted “paragraph (2)(b)(ii)”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 5. Amendment of regulation 102 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379][^key-83b3fa41c7477661525ef47b13efa379]
+## 5. Amendment of regulation 102 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379][^c-83b3fa41c7477661525ef47b13efa379]
 
-(1) Regulation 102 of the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00013] (method of recovery) shall be amended in accordance with the paragraphs (2) to (4). *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(1) Regulation 102 of the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00013] (method of recovery) shall be amended in accordance with the paragraphs (2) to (4). *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(2) In paragraph (1) for “the appropriate authority” there shall be substituted “a relevant authority”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(2) In paragraph (1) for “the appropriate authority” there shall be substituted “a relevant authority”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(3) After paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(3) After paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-> (1A) Where— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> (1A) Where— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 >
-> - (a) a claimant has moved into a dwelling which he occupies as his home; *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
-> - (b) a recoverable overpayment of housing benefit is thereafter made direct to him in connection with the dwelling he occupied as his home immediately preceding the date he moved to that dwelling, and *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
-> - (c) the relevant authority which made the recoverable overpayment is paying housing benefit to that claimant in respect of that new dwelling, *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> - (a) a claimant has moved into a dwelling which he occupies as his home; *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+> - (b) a recoverable overpayment of housing benefit is thereafter made direct to him in connection with the dwelling he occupied as his home immediately preceding the date he moved to that dwelling, and *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
+> - (c) the relevant authority which made the recoverable overpayment is paying housing benefit to that claimant in respect of that new dwelling, *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 >
-> the relevant authority may at its discretion deduct from the housing benefit it is paying to the claimant in respect of a benefit week an amount equal to the claimant’s weekly entitlement to housing benefit at his new dwelling, and may do so for the number of benefit weeks equal to the number of weeks during which the claimant was over paid housing benefit. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> the relevant authority may at its discretion deduct from the housing benefit it is paying to the claimant in respect of a benefit week an amount equal to the claimant’s weekly entitlement to housing benefit at his new dwelling, and may do so for the number of benefit weeks equal to the number of weeks during which the claimant was over paid housing benefit. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
 .
 
-(4) In paragraph (2) after “paragraphs” there shall be inserted “(1A),”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(4) In paragraph (2) after “paragraphs” there shall be inserted “(1A),”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-(5) In paragraph (5) after “regulation” there shall be inserted “, except as made under paragraph (1A),”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+(5) In paragraph (5) after “regulation” there shall be inserted “, except as made under paragraph (1A),”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 6. Amendment of regulation 104 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379][^key-83b3fa41c7477661525ef47b13efa379]
+## 6. Amendment of regulation 104 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379][^c-83b3fa41c7477661525ef47b13efa379]
 
-In regulation 104(1)(c) of the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379][^f00014] (sums to be deducted in calculating recoverable overpayments) after “change of circumstances” there shall be inserted “, except a change of the dwelling which the claimant occupies as his home,”. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+In regulation 104(1)(c) of the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379][^f00014] (sums to be deducted in calculating recoverable overpayments) after “change of circumstances” there shall be inserted “, except a change of the dwelling which the claimant occupies as his home,”. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-## 7. Amendment of regulation 105 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-83b3fa41c7477661525ef47b13efa379][^key-83b3fa41c7477661525ef47b13efa379]
+## 7. Amendment of regulation 105 of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-83b3fa41c7477661525ef47b13efa379][^c-83b3fa41c7477661525ef47b13efa379]
 
-In regulation 105 of the *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] (recovery of overpayments from prescribed benefits), after paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+In regulation 105 of the *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] Housing Benefit Regulations *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] (recovery of overpayments from prescribed benefits), after paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
-> (1A) For the purposes of paragraph (1)(c) the term “Member State” shall be understood to include Switzerland in accordance with and subject to the provisions of Annex *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] II *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379] of the Agreement between the European Community and its Member States and the Swiss Confederation on the free movement of persons, signed at Brussels on 21st June 1999. *(affected by repeal, see note)*[^key-83b3fa41c7477661525ef47b13efa379]
+> (1A) For the purposes of paragraph (1)(c) the term “Member State” shall be understood to include Switzerland in accordance with and subject to the provisions of Annex *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] II *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379] of the Agreement between the European Community and its Member States and the Swiss Confederation on the free movement of persons, signed at Brussels on 21st June 1999. *(affected by repeal, see note)*[^c-83b3fa41c7477661525ef47b13efa379]
 
 [^f00015].
 
@@ -166,7 +166,7 @@ These Regulations do not impose any charge on business.
 
 ## Annotations
 
-[^key-83b3fa41c7477661525ef47b13efa379]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/459) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-83b3fa41c7477661525ef47b13efa379]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/459) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E13. Discretionary additional benefits for certain female nursing staff[^key-3243f25bbe70d607f6d0c1a670c26420]
+## E13. Discretionary additional benefits for certain female nursing staff[^c-3243f25bbe70d607f6d0c1a670c26420]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3243f25bbe70d607f6d0c1a670c26420]: Commencement: [Reg. E13](https://www.legislation.gov.uk/uksi/1986/24/regulation/E13) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3243f25bbe70d607f6d0c1a670c26420]: Commencement: [Reg. E13](https://www.legislation.gov.uk/uksi/1986/24/regulation/E13) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

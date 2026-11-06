@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289E. Anti-avoidance[^key-b60139bcda11a05cdfb9ed23f3a53cee]
+## 289E. Anti-avoidance[^c-b60139bcda11a05cdfb9ed23f3a53cee]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ which, in the absence of this section, would have been exempt from income tax.
 
 ## Annotations
 
-[^key-b60139bcda11a05cdfb9ed23f3a53cee]: Textual amendment: Pt. 4 Ch. 7A inserted (with effect in accordance with s. 11(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 11(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/11/1)
+[^c-b60139bcda11a05cdfb9ed23f3a53cee]: Textual amendment: Pt. 4 Ch. 7A inserted (with effect in accordance with s. 11(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 11(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/11/1)

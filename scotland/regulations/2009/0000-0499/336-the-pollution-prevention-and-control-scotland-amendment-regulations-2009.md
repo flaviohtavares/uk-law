@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Scotland) Amendment Regulations 2009 (revoked)[^key-23e61b0c3acb3720770d68020147ae0a]
+The Pollution Prevention and Control (Scotland) Amendment Regulations 2009 (revoked)[^c-23e61b0c3acb3720770d68020147ae0a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 9th November 2009
 
-[^key-23e61b0c3acb3720770d68020147ae0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23e61b0c3acb3720770d68020147ae0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-23e61b0c3acb3720770d68020147ae0a]
+## 1. Citation and commencement[^c-23e61b0c3acb3720770d68020147ae0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-23e61b0c3acb3720770d68020147ae0a]
+## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-23e61b0c3acb3720770d68020147ae0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23e61b0c3acb3720770d68020147ae0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23e61b0c3acb3720770d68020147ae0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-23e61b0c3acb3720770d68020147ae0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23e61b0c3acb3720770d68020147ae0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23e61b0c3acb3720770d68020147ae0a]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-23e61b0c3acb3720770d68020147ae0a]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

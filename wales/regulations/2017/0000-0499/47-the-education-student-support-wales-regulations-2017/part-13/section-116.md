@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Information[^key-358011469fb6994ca20b5f6ead2ebc03]
+## 116. Information[^c-358011469fb6994ca20b5f6ead2ebc03]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 applies in respect of the provision of information by an applicant an
 
 ## Annotations
 
-[^key-358011469fb6994ca20b5f6ead2ebc03]: Commencement: Reg. 116 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-358011469fb6994ca20b5f6ead2ebc03]: Commencement: Reg. 116 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

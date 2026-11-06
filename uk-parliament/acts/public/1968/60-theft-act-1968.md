@@ -361,7 +361,7 @@ Where any public advertisement of a reward for the return of any goods which hav
 
 - (a) a bank;
 - (b) a person carrying on a business which falls within subsection (10) below; or
-- (c)[^key-c0bb4226c2d41c54b68e6c5f1eec69ec] a person falling within any of paragraphs (a) to (j) of the definition of “electronic money issuer” in regulation 2(1) of the Electronic Money Regulations 2011.
+- (c)[^c-c0bb4226c2d41c54b68e6c5f1eec69ec] a person falling within any of paragraphs (a) to (j) of the definition of “electronic money issuer” in regulation 2(1) of the Electronic Money Regulations 2011.
 
 (10) A business falls within this subsection if—
 
@@ -935,7 +935,7 @@ Section 33(3).
 
 [^c1854586]: Textual amendment: S. 24A(9)-(12) substituted (15.1.2007) for s. 24(9) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/14/1), [15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/7/3) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/5)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
-[^key-c0bb4226c2d41c54b68e6c5f1eec69ec]: Textual amendment: [S. 24A(9)(c)](https://www.legislation.gov.uk/ukpga/1968/60/section/24A/9/c) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 32](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/32) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c0bb4226c2d41c54b68e6c5f1eec69ec]: Textual amendment: [S. 24A(9)(c)](https://www.legislation.gov.uk/ukpga/1968/60/section/24A/9/c) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 32](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/32) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c1854588]: Textual amendment: Words in [s. 25(1)(3)](https://www.legislation.gov.uk/ukpga/1968/60/section/25/1/3) substituted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/14/1), [15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/8/a); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 

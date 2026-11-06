@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Key definitions[^key-d5b1171c7591bcefa5b318a9d4017caa]
+## 6. Key definitions[^c-d5b1171c7591bcefa5b318a9d4017caa]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b1171c7591bcefa5b318a9d4017caa]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/1/section/6) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-d5b1171c7591bcefa5b318a9d4017caa]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/1/section/6) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)

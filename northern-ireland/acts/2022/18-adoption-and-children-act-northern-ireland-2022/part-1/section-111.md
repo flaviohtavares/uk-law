@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Use of adoption records from Great Britain, etc.[^key-2aa02272d2a74c31e8a7ba0067cd7c6f]
+## 111. Use of adoption records from Great Britain, etc.[^c-2aa02272d2a74c31e8a7ba0067cd7c6f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ is also receivable as evidence of that matter in Northern Ireland.
 
 ## Annotations
 
-[^key-2aa02272d2a74c31e8a7ba0067cd7c6f]: Commencement: S. 111 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2aa02272d2a74c31e8a7ba0067cd7c6f]: Commencement: S. 111 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

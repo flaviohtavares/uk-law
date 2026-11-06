@@ -48,13 +48,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 73 of the Scottish Elections (Representation and Reform) Act 2025[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-d868f860faa1dce985902e3eadb2ea5e]
+## 1. Citation, commencement and interpretation[^c-d868f860faa1dce985902e3eadb2ea5e]
 
 (1) These Regulations may be cited as the Scottish Elections (Representation and Reform) Act 2025 (Commencement No. 1) Regulations 2025 and come into force on 14 April 2025.
 
 (2) In these Regulations “**the Act**” means the Scottish Elections (Representation and Reform) Act 2025.
 
-## 2. Appointed Days[^key-caa521c476f9257aa8bd5d96bcf5912c]
+## 2. Appointed Days[^c-caa521c476f9257aa8bd5d96bcf5912c]
 
 (1) The day appointed for the coming into force of the provisions of the Act specified in—
 
@@ -78,7 +78,7 @@ Edinburgh
 
 Regulation 2
 
-### Part 1 — Provisions coming into force on 14 April 2025[^key-f42a692c4fb44e3b8ed11120eb63765e]
+### Part 1 — Provisions coming into force on 14 April 2025[^c-f42a692c4fb44e3b8ed11120eb63765e]
 
 <table>
 <thead>
@@ -103,7 +103,7 @@ Regulation 2
 </tbody>
 </table>
 
-### Part 2 — Provisions coming into force on 1 August 2025[^key-dd90a725d5c03dc8294ad6c1871e29f2]
+### Part 2 — Provisions coming into force on 1 August 2025[^c-dd90a725d5c03dc8294ad6c1871e29f2]
 
 <table>
 <thead>
@@ -125,7 +125,7 @@ Regulation 2
 </tbody>
 </table>
 
-### Part 3 — Provisions coming into force on 1 October 2025[^key-c57dc038b37ceeca74d1bdf1d490db72]
+### Part 3 — Provisions coming into force on 1 October 2025[^c-c57dc038b37ceeca74d1bdf1d490db72]
 
 <table>
 <thead>
@@ -145,7 +145,7 @@ Regulation 2
 </tbody>
 </table>
 
-[^key-d1e88d661c990500aa9b8030fda7ee98][^key-d1e88d661c990500aa9b8030fda7ee98]
+[^c-d1e88d661c990500aa9b8030fda7ee98][^c-d1e88d661c990500aa9b8030fda7ee98]
 
 Explanatory Note
 
@@ -159,14 +159,14 @@ The Bill for the Act received Royal Assent on 29 January 2025. Sections 72, 73 a
 
 [^f00001]: Footnote: [2025 asp 4](https://www.legislation.gov.uk/asp/2025/4).
 
-[^key-d868f860faa1dce985902e3eadb2ea5e]: Commencement: Reg. 1 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
+[^c-d868f860faa1dce985902e3eadb2ea5e]: Commencement: Reg. 1 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
 
-[^key-caa521c476f9257aa8bd5d96bcf5912c]: Commencement: Reg. 2 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
+[^c-caa521c476f9257aa8bd5d96bcf5912c]: Commencement: Reg. 2 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
 
-[^key-f42a692c4fb44e3b8ed11120eb63765e]: Commencement: Sch. Pt. 1 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
+[^c-f42a692c4fb44e3b8ed11120eb63765e]: Commencement: Sch. Pt. 1 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
 
-[^key-dd90a725d5c03dc8294ad6c1871e29f2]: Commencement: Sch. Pt. 2 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
+[^c-dd90a725d5c03dc8294ad6c1871e29f2]: Commencement: Sch. Pt. 2 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
 
-[^key-c57dc038b37ceeca74d1bdf1d490db72]: Commencement: Sch. Pt. 3 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
+[^c-c57dc038b37ceeca74d1bdf1d490db72]: Commencement: Sch. Pt. 3 in force at 14.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/106/regulation/1/1)
 
-[^key-d1e88d661c990500aa9b8030fda7ee98]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3) omitted (30.9.2025) by virtue of [The Scottish Elections (Representation and Reform) Act 2025 (Commencement No. 1 Amendment and Commencement No. 2) Regulations 2025 (S.S.I. 2025/260)](https://www.legislation.gov.uk/ssi/2025/260), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/260/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/260/regulation/2)
+[^c-d1e88d661c990500aa9b8030fda7ee98]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3) omitted (30.9.2025) by virtue of [The Scottish Elections (Representation and Reform) Act 2025 (Commencement No. 1 Amendment and Commencement No. 2) Regulations 2025 (S.S.I. 2025/260)](https://www.legislation.gov.uk/ssi/2025/260), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/260/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/260/regulation/2)

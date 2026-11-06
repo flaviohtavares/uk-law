@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Coming into effect of marine plans[^key-e22812bef75f21bb563649b21ba39111]
+## 7. Coming into effect of marine plans[^c-e22812bef75f21bb563649b21ba39111]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A national marine plan or (as the case may be) a regional marine plan comes into
 
 ## Annotations
 
-[^key-e22812bef75f21bb563649b21ba39111]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/5/section/7) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-e22812bef75f21bb563649b21ba39111]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/5/section/7) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Senior officers: resignation or retirement for efficiency or effectiveness[^key-e014b2353534be1a434e68a8254e94e6]
+## 14. Senior officers: resignation or retirement for efficiency or effectiveness[^c-e014b2353534be1a434e68a8254e94e6]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ the Authority must provide the officer with written reasons for its decision.
 
 ## Annotations
 
-[^key-e014b2353534be1a434e68a8254e94e6]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2012/8/section/14) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-e014b2353534be1a434e68a8254e94e6]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2012/8/section/14) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

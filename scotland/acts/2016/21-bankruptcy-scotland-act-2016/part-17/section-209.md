@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 209. Extortionate credit transactions[^key-4580ee2a9b0986ab7c5e1a15146acba6]
+## 209. Extortionate credit transactions[^c-4580ee2a9b0986ab7c5e1a15146acba6]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4580ee2a9b0986ab7c5e1a15146acba6]: Commencement: S. 209 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-4580ee2a9b0986ab7c5e1a15146acba6]: Commencement: S. 209 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

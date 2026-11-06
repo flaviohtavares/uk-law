@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209AB. Adjustments under section 209: notices under Schedule 43 or 43A[^key-76b886d9e38411962cbce368c4958676]
+## 209AB. Adjustments under section 209: notices under Schedule 43 or 43A[^c-76b886d9e38411962cbce368c4958676]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the Schedule 43 or 43A notice has effect for all purposes (other than the purpos
 
 ## Annotations
 
-[^key-76b886d9e38411962cbce368c4958676]: Textual amendment: S. 209AB inserted (with effect in accordance with Sch. 14 paras. 12, 15 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/4)
+[^c-76b886d9e38411962cbce368c4958676]: Textual amendment: S. 209AB inserted (with effect in accordance with Sch. 14 paras. 12, 15 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/4)

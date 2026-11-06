@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Guidance[^key-9d4f12c2d0230a90b570e973e036d393]
+## 17. Guidance[^c-9d4f12c2d0230a90b570e973e036d393]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d4f12c2d0230a90b570e973e036d393]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2010/1/section/17) in force at 10.1.2011 by [S.I. 2010/2994](https://www.legislation.gov.uk/wsi/2010/2994), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/2994/article/2/e)
+[^c-9d4f12c2d0230a90b570e973e036d393]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2010/1/section/17) in force at 10.1.2011 by [S.I. 2010/2994](https://www.legislation.gov.uk/wsi/2010/2994), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/2994/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Votes to be struck off for corrupt or illegal practices[^key-57e3cdfc32c5446bb7935ab5c7fbb39e]
+## 119. Votes to be struck off for corrupt or illegal practices[^c-57e3cdfc32c5446bb7935ab5c7fbb39e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57e3cdfc32c5446bb7935ab5c7fbb39e]: Commencement: Art. 119 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-57e3cdfc32c5446bb7935ab5c7fbb39e]: Commencement: Art. 119 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

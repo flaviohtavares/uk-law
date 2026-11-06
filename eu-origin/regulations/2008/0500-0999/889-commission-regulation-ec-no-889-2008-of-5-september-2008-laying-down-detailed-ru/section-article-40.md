@@ -28,7 +28,7 @@ summary: ''
   - ((iii)) the control authority or control body is notified of the harvest of each of the products concerned at least 48 hours in advance;
   - ((iv)) upon completion of the harvest, the producer informs the control authority or control body of the exact quantities harvested on the units concerned and of the measures applied to separate the products;
   - ((v)) the conversion plan and the control measures referred to in Chapter 1 and 2 of Title IV have been approved by the competent authority; this approval shall be confirmed each year after the start of the conversion plan;
-- (b) in the case of areas intended for agricultural research or formal education agreed by the competent authority[^key-2fbe1ffc3fec4028f77a97c82ed93a7f] and provided the conditions set out in point (a)(ii)(iii)(iv) and the relevant part of point (v) are met;
+- (b) in the case of areas intended for agricultural research or formal education agreed by the competent authority[^c-2fbe1ffc3fec4028f77a97c82ed93a7f] and provided the conditions set out in point (a)(ii)(iii)(iv) and the relevant part of point (v) are met;
 - (c) in the case of production of seed, vegetative propagating material and transplants and provided the conditions set out in point (a)(ii)(iii)(iv) and the relevant part of point (v) are met;
 - (d) in the case of grassland exclusively used for grazing.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fbe1ffc3fec4028f77a97c82ed93a7f]: Textual amendment: Words in [Art. 40(1)(b)](https://www.legislation.gov.uk/eur/2008/889/article/40/1/b) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(22)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fbe1ffc3fec4028f77a97c82ed93a7f]: Textual amendment: Words in [Art. 40(1)(b)](https://www.legislation.gov.uk/eur/2008/889/article/40/1/b) substituted (31.12.2020) by [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(22)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

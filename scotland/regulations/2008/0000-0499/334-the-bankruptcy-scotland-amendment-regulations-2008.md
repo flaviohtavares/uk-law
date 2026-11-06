@@ -48,18 +48,18 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 5(4C)(a) and (b), 72(1) and 73(1) of the Bankruptcy (Scotland) Act 1985[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-a4d3d5791858f41cbe0f58adbbeec8d5]
+## 1. Citation and commencement[^c-a4d3d5791858f41cbe0f58adbbeec8d5]
 
 These Regulations may be cited as the Bankruptcy (Scotland) Amendment Regulations 2008 and come into force on 14th November 2008.
 
-## 2. Amendment of the Bankruptcy (Scotland) Regulations 2008[^key-2494f847397c648b5506754789d2dacb]
+## 2. Amendment of the Bankruptcy (Scotland) Regulations 2008[^c-2494f847397c648b5506754789d2dacb]
 
 In the Schedule to the Bankruptcy (Scotland) Regulations 2008[^f00002]–
 
 - (a) for Form 9 (debtor application without concurrence) substitute Form 9 set out in Schedule 1 to these Regulations; and
 - (b) for Form 17 (statutory declaration of low income and low assets) substitute Form 17 set out in Schedule 2 to these Regulations.
 
-## 3. Forms received before 1st January 2009[^key-aec02f0128f7fbdcb7cd7c6ea6c9a326]
+## 3. Forms received before 1st January 2009[^c-aec02f0128f7fbdcb7cd7c6ea6c9a326]
 
 The Accountant in Bankruptcy may, before 1st January 2009, accept–
 
@@ -78,13 +78,13 @@ Edinburgh
 
 6th October 2008
 
-## SCHEDULE 1[^key-a47f2810f1d28f24bd91fc40189e6ee1]
+## SCHEDULE 1[^c-a47f2810f1d28f24bd91fc40189e6ee1]
 
 Regulation 2(a)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_002) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_003) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_004) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_005) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_006) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_007) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_008) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_009) [image: see source](https://www.legislation.gov.uk/ssi/2008/334/images/ssi_20080334_en_010)
 
-## SCHEDULE 2[^key-05a01a3a88fcb6abbe373df6c8b39c89]
+## SCHEDULE 2[^c-05a01a3a88fcb6abbe373df6c8b39c89]
 
 Regulation 2(b)
 
@@ -102,14 +102,14 @@ Regulation 3 allows the Accountant in Bankruptcy to accept applications using th
 
 [^f00001]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66). Section 5(4C) was inserted by section 14(3) of the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the 2007 Act”). Section 73(1) contains a definition of “debtor application” that is relevant to the exercise of the statutory powers under which these Regulations are made. Section 73(1) was amended by paragraph 60 of Schedule 1 to the 2007 Act.
 
-[^key-a4d3d5791858f41cbe0f58adbbeec8d5]: Commencement: Reg. 1 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
+[^c-a4d3d5791858f41cbe0f58adbbeec8d5]: Commencement: Reg. 1 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
 
-[^key-2494f847397c648b5506754789d2dacb]: Commencement: Reg. 2 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
+[^c-2494f847397c648b5506754789d2dacb]: Commencement: Reg. 2 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2008/82](https://www.legislation.gov.uk/ssi/2008/82).
 
-[^key-aec02f0128f7fbdcb7cd7c6ea6c9a326]: Commencement: Reg. 3 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
+[^c-aec02f0128f7fbdcb7cd7c6ea6c9a326]: Commencement: Reg. 3 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
 
-[^key-a47f2810f1d28f24bd91fc40189e6ee1]: Commencement: Sch. 1 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
+[^c-a47f2810f1d28f24bd91fc40189e6ee1]: Commencement: Sch. 1 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
 
-[^key-05a01a3a88fcb6abbe373df6c8b39c89]: Commencement: Sch. 2 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)
+[^c-05a01a3a88fcb6abbe373df6c8b39c89]: Commencement: Sch. 2 in force at 14.11.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/334/regulation/1)

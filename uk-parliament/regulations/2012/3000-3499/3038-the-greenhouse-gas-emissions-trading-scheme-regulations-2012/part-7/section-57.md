@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Under-reporting of emissions from an Article 27 installation[^key-f654f2e565177c992325a5c7a3107c2d]
+## 57. Under-reporting of emissions from an Article 27 installation[^c-f654f2e565177c992325a5c7a3107c2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) The civil penalty is A + (B × C) where—
 
-- A is £5,000[^key-edc59cc501fb94ca9354f7a8d8eaf0f9];
+- A is £5,000[^c-edc59cc501fb94ca9354f7a8d8eaf0f9];
 - B is the amount of the unreported emissions;
 - C is the carbon price for that year.
 
 ## Annotations
 
-[^key-f654f2e565177c992325a5c7a3107c2d]: Textual amendment: Words in regs. 55-58 and headings substituted (1.1.2021) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 3) Regulations 2019 (S.I. 2019/1440)](https://www.legislation.gov.uk/uksi/2019/1440), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4), [21](https://www.legislation.gov.uk/uksi/2019/1440/regulation/21) (as amended by [S.I. 2020/18](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/4) and [S.I. 2020/1369](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/a))
+[^c-f654f2e565177c992325a5c7a3107c2d]: Textual amendment: Words in regs. 55-58 and headings substituted (1.1.2021) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 3) Regulations 2019 (S.I. 2019/1440)](https://www.legislation.gov.uk/uksi/2019/1440), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4), [21](https://www.legislation.gov.uk/uksi/2019/1440/regulation/21) (as amended by [S.I. 2020/18](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/4) and [S.I. 2020/1369](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/a))
 
-[^key-edc59cc501fb94ca9354f7a8d8eaf0f9]: Textual amendment: Sum in [reg. 57(2)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/69/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/21/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
+[^c-edc59cc501fb94ca9354f7a8d8eaf0f9]: Textual amendment: Sum in [reg. 57(2)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/69/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/21/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))

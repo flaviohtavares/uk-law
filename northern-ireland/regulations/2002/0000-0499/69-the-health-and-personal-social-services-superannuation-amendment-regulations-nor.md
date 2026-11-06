@@ -41,17 +41,17 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by Articles 12(1), (2), (2A)[^f00002] and (3) and 14[^f00003] (1), (2), (3) and (3A)[^f00004] of, and Schedule 3 to, the Superannuation (Northern Ireland) Order 1972[^f00005] and of all other powers enabling it in that behalf, after consulting with such representatives of persons likely to be affected by these Regulations as appear to it to be appropriate as required by Article 12(4) of that Order, and with the consent of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-29163a32ac2d61a36e61d6be232f972f]
+## 1. Citation and commencement[^c-29163a32ac2d61a36e61d6be232f972f]
 
 (1) These Regulations may be cited as the Health and Personal Social Services (Superannuation) (Amendment) Regulations (Northern Ireland) 2002.
 
 (2) These Regulations shall come into operation on 1st May 2002. Regulation 6 shall have effect from 30th June 2000 and regulations 5 and 9 shall have effect from 1st July 2000.
 
-## 2. Interpretation[^key-2870fe3612a11a2df242b64339967c2c]
+## 2. Interpretation[^c-2870fe3612a11a2df242b64339967c2c]
 
 In these Regulations, “the principal Regulations” means the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00006].
 
-## 3. Amendment of regulation 2 of the principal Regulations (Interpretation)[^key-e467c720fddfc72cb32c63cbbc68bc20]
+## 3. Amendment of regulation 2 of the principal Regulations (Interpretation)[^c-e467c720fddfc72cb32c63cbbc68bc20]
 
 In regulation 2 of the principal Regulations (Interpretation)—
 
@@ -59,7 +59,7 @@ In regulation 2 of the principal Regulations (Interpretation)—
 
 (2) In the definition of “medical pilot scheme employee”[^f00008] for the word “individual” where it occurs in the second place, there shall be substituted the words “a person”.
 
-## 4. Amendment of regulation 14 of the principal Regulations (Early retirement pension (redundancy etc))[^key-3659ed2c87e76e3ca426c5ce639e0561]
+## 4. Amendment of regulation 14 of the principal Regulations (Early retirement pension (redundancy etc))[^c-3659ed2c87e76e3ca426c5ce639e0561]
 
 In paragraph (1)(*b*) of regulation 14 (Early retirement pension (redundancy etc)) for the words from “certifies” to the end there shall be substituted the following words:—
 
@@ -69,7 +69,7 @@ In paragraph (1)(*b*) of regulation 14 (Early retirement pension (redundancy etc
 
 .
 
-## 5. Amendment of regulation 22 of the principal Regulations (Payment of Lump Sum)[^key-02d5a3d0cc8341f7a1237abbe8213738]
+## 5. Amendment of regulation 22 of the principal Regulations (Payment of Lump Sum)[^c-02d5a3d0cc8341f7a1237abbe8213738]
 
 For paragraphs (1) to (3) of regulation 22 (Payment of lump sum) there shall be substituted the following paragraphs:—
 
@@ -97,7 +97,7 @@ For paragraphs (1) to (3) of regulation 22 (Payment of lump sum) there shall be 
 >
 > and, subject to sub-paragraph (*a*), a member who revoked such a notice may give further notice for the purpose of one of those paragraphs.
 
-## 6. Amendment of regulation 49 of the principal Regulations (Preserved pension)[^key-b4ead09463c941a15c849db4a840ebfd]
+## 6. Amendment of regulation 49 of the principal Regulations (Preserved pension)[^c-b4ead09463c941a15c849db4a840ebfd]
 
 In regulation 49 (Preserved pension)—
 
@@ -131,7 +131,7 @@ In regulation 49 (Preserved pension)—
 
 .
 
-## 7. Amendment of regulation 78 of the principal Regulations (Part-time employment)[^key-fd1d3c925cc76b34575d055a81a72181]
+## 7. Amendment of regulation 78 of the principal Regulations (Part-time employment)[^c-fd1d3c925cc76b34575d055a81a72181]
 
 (1) In paragraph (6) of regulation 78 (Part-time employment) after the words “ill health))” there shall be inserted the words “or regulation 14 (Early retirement pension (redundancy etc))—”.
 
@@ -144,15 +144,15 @@ In regulation 49 (Preserved pension)—
 
 (3) In sub-paragraph (*b*) of paragraph (6) for the words from “and the increase under regulation 13” there shall be substituted the words “and, in the case of a pension under regulation 13, the increase under that regulation.”.
 
-## 8. Amendment of regulation 84 of the principal Regulations (Suspension of pension on return to HPPS employment)[^key-fbae3e0f3584af3da166010ea0229ee6]
+## 8. Amendment of regulation 84 of the principal Regulations (Suspension of pension on return to HPPS employment)[^c-fbae3e0f3584af3da166010ea0229ee6]
 
 In paragraph (1) of regulation 84 (Suspension of pension on return to HPSS employment) for the words “in regulation 49(4)” there shall be substituted the words “in regulation 49”.
 
-## 9. Amendment of regulation 85 of the principal Regulations (Reduction of pension on return to HPSS employment)[^key-50ebee10da497839c2f851e8ec23761a]
+## 9. Amendment of regulation 85 of the principal Regulations (Reduction of pension on return to HPSS employment)[^c-50ebee10da497839c2f851e8ec23761a]
 
 In paragraph (1) of regulation 85 (Reduction of pension on return to HPSS employment) for the words “regulations 12 to 16 or 49,” there shall be substituted the words “regulations 12 to 15 or in accordance with regulation 49(2)(*b*),”.
 
-## 10. Transitional arrangements[^key-d098a251e97bd0f4e0a611449d27175f]
+## 10. Transitional arrangements[^c-d098a251e97bd0f4e0a611449d27175f]
 
 Any notice given before 1st July 2000 under paragraph (1) of regulation 22 of the principal Regulations (Payment of lump sum) as then in operation shall be treated on and after that date as if it were a notice given for the purpose of paragraph (3) of that regulation as amended by regulation 5 of these Regulations.
 
@@ -200,28 +200,28 @@ Provision is made for a member who leaves superannuable employment on or after 3
 
 [^f00005]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073) as amended by S.I. [1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509)
 
-[^key-29163a32ac2d61a36e61d6be232f972f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/69/regulation/1) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-29163a32ac2d61a36e61d6be232f972f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/69/regulation/1) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-2870fe3612a11a2df242b64339967c2c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/69/regulation/2) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-2870fe3612a11a2df242b64339967c2c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/69/regulation/2) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95) as amended by [S.R. 1997 Nos. 217](https://www.legislation.gov.uk/nisr/1997/217) and [390](https://www.legislation.gov.uk/nisr/1997/390); [S.R. 1998 No. 299](https://www.legislation.gov.uk/nisr/1998/299) and [S.R. 1999 No. 293](https://www.legislation.gov.uk/nisr/1999/293)
 
-[^key-e467c720fddfc72cb32c63cbbc68bc20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/69/regulation/3) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-e467c720fddfc72cb32c63cbbc68bc20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/69/regulation/3) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
 [^f00007]: Footnote: This definition was inserted by [S.R. 1999 No. 293](https://www.legislation.gov.uk/nisr/1999/293)
 
 [^f00008]: Footnote: This definition was inserted by [S.R. 1999 No. 293](https://www.legislation.gov.uk/nisr/1999/293)
 
-[^key-3659ed2c87e76e3ca426c5ce639e0561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/69/regulation/4) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-3659ed2c87e76e3ca426c5ce639e0561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/69/regulation/4) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-02d5a3d0cc8341f7a1237abbe8213738]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/69/regulation/5) in operation at 1.5.2002 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-02d5a3d0cc8341f7a1237abbe8213738]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/69/regulation/5) in operation at 1.5.2002 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-b4ead09463c941a15c849db4a840ebfd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/69/regulation/6) in operation at 1.5.2002 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-b4ead09463c941a15c849db4a840ebfd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/69/regulation/6) in operation at 1.5.2002 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-fd1d3c925cc76b34575d055a81a72181]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/69/regulation/7) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-fd1d3c925cc76b34575d055a81a72181]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/69/regulation/7) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-fbae3e0f3584af3da166010ea0229ee6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/69/regulation/8) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-fbae3e0f3584af3da166010ea0229ee6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/69/regulation/8) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-50ebee10da497839c2f851e8ec23761a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/69/regulation/9) in operation at 1.5.2002 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-50ebee10da497839c2f851e8ec23761a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/69/regulation/9) in operation at 1.5.2002 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
 
-[^key-d098a251e97bd0f4e0a611449d27175f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/69/regulation/10) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)
+[^c-d098a251e97bd0f4e0a611449d27175f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/69/regulation/10) in operation at 1.5.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/69/regulation/1/2)

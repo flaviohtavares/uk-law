@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. Adjustment for certain amounts set aside under separate provision[^key-ef8343055023ffb2f0cb41a480777399]
+## 153. Adjustment for certain amounts set aside under separate provision[^c-ef8343055023ffb2f0cb41a480777399]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ The authority shall determine the amount by which amount A exceeds amount B wher
 
 ## Annotations
 
-[^key-ef8343055023ffb2f0cb41a480777399]: Commencement: Reg. 153 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ef8343055023ffb2f0cb41a480777399]: Commencement: Reg. 153 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

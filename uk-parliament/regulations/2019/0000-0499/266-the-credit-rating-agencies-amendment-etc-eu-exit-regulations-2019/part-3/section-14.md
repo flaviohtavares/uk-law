@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Deduction of enforcement costs, etc.[^key-df679b53e07c3301359ec1fb033cd24e]
+## 14. Deduction of enforcement costs, etc.[^c-df679b53e07c3301359ec1fb033cd24e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ Part 3 of Schedule 1ZA to the Act (Financial Conduct Authority: penalties) [^c23
 
 ## Annotations
 
-[^key-df679b53e07c3301359ec1fb033cd24e]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-df679b53e07c3301359ec1fb033cd24e]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23565601]: Marginal citation: Inserted by Schedule 3 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Paragraph 20 is amended by paragraph 4 of Schedule 10 to the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33). Paragraph 21 is amended by paragraph 15 of Schedule 3 to the [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8) and paragraph 21(4) of Schedule 3 to the [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10).

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Assistance for housing purposes[^key-9713299f417157ec8523cedb6d1d4466]
+## 71. Assistance for housing purposes[^c-9713299f417157ec8523cedb6d1d4466]
 
 *Extent: S*
 
 (1) A local authority may provide or arrange for the provision of assistance to a person in connection with—
 
 - (a) the acquisition or sale (or the proposed acquisition or sale) of a house, or
-- (b) work(including demolition work)[^key-e5bcc708789bc7820e004b7517e0dd13] on any land or in any premises for any of the purposes mentioned in subsection (2).
+- (b) work(including demolition work)[^c-e5bcc708789bc7820e004b7517e0dd13] on any land or in any premises for any of the purposes mentioned in subsection (2).
 
 (2) Those purposes are—
 
 - (a) provision of one or more houses by the conversion of a house or other premises,
 - (b) construction of a house,
 - (c) improvement, repair or maintenance of a house,
-- (da)[^key-0b509d1d7ee816e58cbbf6087a6c32af] demolishing a house,
+- (da)[^c-0b509d1d7ee816e58cbbf6087a6c32af] demolishing a house,
 - (d) bringing any house into, or keeping any house in, a reasonable state of repair,
 - (e) adaptation of a house for a disabled person to make it suitable for the accommodation, welfare or employment of that person,
 - (f) reinstatement of any house adapted for the purpose set out in paragraph (e),
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9713299f417157ec8523cedb6d1d4466]: Commencement: S. 71 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-9713299f417157ec8523cedb6d1d4466]: Commencement: S. 71 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-e5bcc708789bc7820e004b7517e0dd13]: Textual amendment: Words in [s. 71(1)(b)](https://www.legislation.gov.uk/asp/2006/1/section/71/1/b) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 151(a)](https://www.legislation.gov.uk/asp/2010/17/section/151/a), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-e5bcc708789bc7820e004b7517e0dd13]: Textual amendment: Words in [s. 71(1)(b)](https://www.legislation.gov.uk/asp/2006/1/section/71/1/b) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 151(a)](https://www.legislation.gov.uk/asp/2010/17/section/151/a), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-0b509d1d7ee816e58cbbf6087a6c32af]: Textual amendment: [S. 71(2)(da)](https://www.legislation.gov.uk/asp/2006/1/section/71/2/da) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 151(b)](https://www.legislation.gov.uk/asp/2010/17/section/151/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-0b509d1d7ee816e58cbbf6087a6c32af]: Textual amendment: [S. 71(2)(da)](https://www.legislation.gov.uk/asp/2006/1/section/71/2/da) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 151(b)](https://www.legislation.gov.uk/asp/2010/17/section/151/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

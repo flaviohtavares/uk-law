@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The provisions mentioned in subsection (2) have effect in relation to a BLAGAB tax credit[^key-b56f88b6caa6e21e5ac5eb96f0bfee7b] subject to the modifications set out in subsection (3).
+(1) The provisions mentioned in subsection (2) have effect in relation to a BLAGAB tax credit[^c-b56f88b6caa6e21e5ac5eb96f0bfee7b] subject to the modifications set out in subsection (3).
 
 (2) The provisions referred to in subsection (1) are—
 
@@ -31,11 +31,11 @@ summary: ''
 
 (3) The modifications referred to in subsection (1) are as follows—
 
-- (a) for any reference to a land remediation tax credit substitute a reference to a BLAGAB tax credit[^key-f1c602888fdffd7bd392954425793e4c], and
+- (a) for any reference to a land remediation tax credit substitute a reference to a BLAGAB tax credit[^c-f1c602888fdffd7bd392954425793e4c], and
 - (b) in section 1157(2) for the reference to qualifying land remediation expenditure substitute a reference to qualifying Chapter 4 expenditure.
 
 ## Annotations
 
-[^key-b56f88b6caa6e21e5ac5eb96f0bfee7b]: Textual amendment: Words in s. 1167(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 204](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/204)
+[^c-b56f88b6caa6e21e5ac5eb96f0bfee7b]: Textual amendment: Words in s. 1167(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 204](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/204)
 
-[^key-f1c602888fdffd7bd392954425793e4c]: Textual amendment: Words in s. 1167(3)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 204](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/204)
+[^c-f1c602888fdffd7bd392954425793e4c]: Textual amendment: Words in s. 1167(3)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 204](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/204)

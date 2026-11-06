@@ -22,7 +22,7 @@ summary: ''
 
 (1) The matters which may be managed under this Part by the managers of an authorised establishment are—
 
-- (a) claiming, receiving, holding and spending any pension, benefit, allowance or other payment other than under the Social Security Contributions and Benefits Act 1992 (c.4), the State Pensions Credit Act 2002 (c. 16)[^c19643811], Part 1 of the Welfare Reform Act 2007 or Part 1 or 4 of the Welfare Reform Act 2012[^key-904b970227ca2771c1cce3b82f2dacbe];
+- (a) claiming, receiving, holding and spending any pension, benefit, allowance or other payment other than under the Social Security Contributions and Benefits Act 1992 (c.4), the State Pensions Credit Act 2002 (c. 16)[^c19643811], Part 1 of the Welfare Reform Act 2007 or Part 1 or 4 of the Welfare Reform Act 2012[^c-904b970227ca2771c1cce3b82f2dacbe];
 - (b) claiming, receiving, holding and spending any money to which a resident is entitled;
 - (c) holding any other moveable property to which the resident is entitled;
 - (d) disposing of such moveable property,
@@ -46,4 +46,4 @@ and in this Part these matters, or any of them, are referred to as residents’ 
 
 [^c19643811]: Textual amendment: Words in s. 39(1)(a) inserted (5.10.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 77(1)](https://www.legislation.gov.uk/asp/2007/10/section/77/1), [79](https://www.legislation.gov.uk/asp/2007/10/section/79), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/asp/2007/10/schedule/1/paragraph/5/b); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2007/334/article/4))
 
-[^key-904b970227ca2771c1cce3b82f2dacbe]: Textual amendment: Words in s. 39(1)(a) substituted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2013/137/regulation/6/2)
+[^c-904b970227ca2771c1cce3b82f2dacbe]: Textual amendment: Words in s. 39(1)(a) substituted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2013/137/regulation/6/2)

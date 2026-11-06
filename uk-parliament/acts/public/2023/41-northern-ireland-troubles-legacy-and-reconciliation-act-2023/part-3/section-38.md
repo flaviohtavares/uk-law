@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. No criminal investigations except through ICRIR reviews[^key-732f9f7be29869a361603f6104963104]
+## 38. No criminal investigations except through ICRIR reviews[^c-732f9f7be29869a361603f6104963104]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-732f9f7be29869a361603f6104963104]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/41/section/38) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-732f9f7be29869a361603f6104963104]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/41/section/38) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

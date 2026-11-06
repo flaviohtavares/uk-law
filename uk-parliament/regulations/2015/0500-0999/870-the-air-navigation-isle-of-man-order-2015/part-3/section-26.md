@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Contents of a certificate of release to service[^key-4f5952e46a2a3ea9b95cc54f413e2751]
+## 26. Contents of a certificate of release to service[^c-4f5952e46a2a3ea9b95cc54f413e2751]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f5952e46a2a3ea9b95cc54f413e2751]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2015/870/article/26) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-4f5952e46a2a3ea9b95cc54f413e2751]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2015/870/article/26) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -45,35 +45,35 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers in sections 29[^f00001], 408[^f00002], 537[^f00003], 537A(1) and (2)[^f00004], 563 and 569(4) and (5)[^f00005] of the Education Act 1996, and in sections 30(1) and (2) and 210 of the Education Act 2002[^f00006] and exercisable by them[^f00007] and after consulting with those persons with whom consultation appeared to the Welsh Minsters to be desirable pursuant to section 408(5) of the Education Act 1996 make the following Regulations:
 
-## 1. Title, commencement and application[^key-0f66f8e9a2f21c90958c8576d5f05188]
+## 1. Title, commencement and application[^c-0f66f8e9a2f21c90958c8576d5f05188]
 
 (1) The title of these Regulations is the National Curriculum (Miscellaneous Amendments) (Wales) Regulations 2016 and they come into force on 1 September 2016.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Education (Information About Individual Pupils) (Wales) Regulations 2007[^key-481fa13e0d40b5c2f543bb2e422e1b75]
+## 2. Education (Information About Individual Pupils) (Wales) Regulations 2007[^c-481fa13e0d40b5c2f543bb2e422e1b75]
 
 The Education (Information About Individual Pupils) (Wales) Regulations 2007[^f00008] are amended as follows—
 
 - (a) in regulation 3—
-  - (i)[^key-fd139daa248eb11c01be0b4fa2690d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-a52880a2cd7a941ed2f6448e25450857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-bea6f0f883ae3f0cdc1cefb71d366cd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-fd139daa248eb11c01be0b4fa2690d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-a52880a2cd7a941ed2f6448e25450857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bea6f0f883ae3f0cdc1cefb71d366cd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for sub-paragraph (a) in paragraph 9 of Schedule 2 substitute—
 
   > - (a) all of the pupil’s special educational needs identified;
 
   .
 
-## 3. Pupil Information (Wales) Regulations 2011[^key-8cf2588297c4e0e6aad12fa044524820]
+## 3. Pupil Information (Wales) Regulations 2011[^c-8cf2588297c4e0e6aad12fa044524820]
 
 In regulation 3(1) of the Pupil Information (Wales) Regulations 2011[^f00009] for “Schedule 2” substitute “the Schedule to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011”.
 
-## 4. Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-7d105c12a3ee025ae1ad5736fbd15517]
+## 4. Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^c-7d105c12a3ee025ae1ad5736fbd15517]
 
 In the definition of “area of learning” in regulation 2(1) of the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00010], for ““Framework for Children’s Learning for 3 to 7 year-olds in Wales”” substitute ““Curriculum for Wales: Foundation Phase Framework””[^f00011].
 
-## 5. School Performance Information (Wales) Regulations 2011[^key-cb23ca205fcd19cdd5da7795be363515]
+## 5. School Performance Information (Wales) Regulations 2011[^c-cb23ca205fcd19cdd5da7795be363515]
 
 In regulation 2(1) of the School Performance Information (Wales) Regulations 2011[^f00012] in the definition of “statutory assessments” before sub-paragraph (i) insert—
 
@@ -126,29 +126,29 @@ The Welsh Minister’s Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: The functions in the sections in the Education Act 1996 were conferred on the Secretary of State and were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). The functions in the sections in the Education Act 2002 were conferred on the National Assembly for Wales and were transferred to the Welsh Ministers under paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-0f66f8e9a2f21c90958c8576d5f05188]: Commencement: Reg. 1 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+[^c-0f66f8e9a2f21c90958c8576d5f05188]: Commencement: Reg. 1 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
 
-[^key-481fa13e0d40b5c2f543bb2e422e1b75]: Commencement: Reg. 2 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+[^c-481fa13e0d40b5c2f543bb2e422e1b75]: Commencement: Reg. 2 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2007/3562 (W. 312)](https://www.legislation.gov.uk/wsi/2007/3562) as amended by [S.I. 2010/1142](https://www.legislation.gov.uk/uksi/2010/1142), [S.I. 2011/2325 (W. 242)](https://www.legislation.gov.uk/wsi/2011/2325), [S.I. 2013/3137 (W. 310)](https://www.legislation.gov.uk/wsi/2013/3137), [S.I. 2016/211 (W. 84)](https://www.legislation.gov.uk/wsi/2016/211) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
 
-[^key-fd139daa248eb11c01be0b4fa2690d95]: Textual amendment: Reg. 2(a)(i) omitted (1.9.2026) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/3)
+[^c-fd139daa248eb11c01be0b4fa2690d95]: Textual amendment: Reg. 2(a)(i) omitted (1.9.2026) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/3)
 
-[^key-a52880a2cd7a941ed2f6448e25450857]: Textual amendment: Reg. 2(a)(ii) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(2)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/2/a)
+[^c-a52880a2cd7a941ed2f6448e25450857]: Textual amendment: Reg. 2(a)(ii) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(2)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/2/a)
 
-[^key-bea6f0f883ae3f0cdc1cefb71d366cd7]: Textual amendment: Reg. 2(b) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(2)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/2/b)
+[^c-bea6f0f883ae3f0cdc1cefb71d366cd7]: Textual amendment: Reg. 2(b) omitted (1.9.2024) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [19(2)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/19/2/b)
 
-[^key-8cf2588297c4e0e6aad12fa044524820]: Commencement: Reg. 3 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+[^c-8cf2588297c4e0e6aad12fa044524820]: Commencement: Reg. 3 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2011/1942 (W. 209)](https://www.legislation.gov.uk/wsi/2011/1942).
 
-[^key-7d105c12a3ee025ae1ad5736fbd15517]: Commencement: Reg. 4 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+[^c-7d105c12a3ee025ae1ad5736fbd15517]: Commencement: Reg. 4 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437), [S.I. 2014/1998 (W. 199)](https://www.legislation.gov.uk/wsi/2014/1998) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
 
 [^f00011]: Footnote: ISBN number 9781473442177.
 
-[^key-cb23ca205fcd19cdd5da7795be363515]: Commencement: Reg. 5 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
+[^c-cb23ca205fcd19cdd5da7795be363515]: Commencement: Reg. 5 in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/837/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2011/1963 (W. 127)](https://www.legislation.gov.uk/wsi/2011/1963) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437) and [S.I. 2016/236 (W. 88)](https://www.legislation.gov.uk/wsi/2016/236).
 

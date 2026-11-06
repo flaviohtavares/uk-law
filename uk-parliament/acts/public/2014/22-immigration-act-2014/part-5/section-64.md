@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Police Ombudsman for Northern Ireland[^key-60743aeed128de757a2a7caf98087734]
+## 64. Police Ombudsman for Northern Ireland[^c-60743aeed128de757a2a7caf98087734]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ After section 60ZA of the Police (Northern Ireland) Act 1998 insert—
 
 ## Annotations
 
-[^key-60743aeed128de757a2a7caf98087734]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2014/22/section/64) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(s)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/s)
+[^c-60743aeed128de757a2a7caf98087734]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2014/22/section/64) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(s)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/s)

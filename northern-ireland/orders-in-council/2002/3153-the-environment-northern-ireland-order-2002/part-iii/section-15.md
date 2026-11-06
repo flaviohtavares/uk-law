@@ -24,7 +24,7 @@ summary: ''
 
 - (a) for, or in connection with, implementing the strategy; or
 - (b) for, or in connection with implementing—
-  - (i) assimilated[^key-e3e9cac1196074939f695383c4917762][^key-2520a89070a24ac412b8ce84a621f861] obligations; or
+  - (i) assimilated[^c-e3e9cac1196074939f695383c4917762][^c-2520a89070a24ac412b8ce84a621f861] obligations; or
   - (ii) any international agreement to which the United Kingdom is for the time being a party,
 
   so far as relating to the quality of air; or
@@ -98,6 +98,6 @@ the body or person making the determination shall be bound by any direction give
 
 ## Annotations
 
-[^key-e3e9cac1196074939f695383c4917762]: Textual amendment: Word in [art. 15(1)(b)(i)](https://www.legislation.gov.uk/nisi/2002/3153/article/15/1/b/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 49(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/49/2/c)
+[^c-e3e9cac1196074939f695383c4917762]: Textual amendment: Word in [art. 15(1)(b)(i)](https://www.legislation.gov.uk/nisi/2002/3153/article/15/1/b/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 49(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/49/2/c)
 
-[^key-2520a89070a24ac412b8ce84a621f861]: Textual amendment: Words in art. 15(1)(b)(i) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/584/regulation/22) (with [reg. 46(3)](https://www.legislation.gov.uk/uksi/2019/584/regulation/46/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2520a89070a24ac412b8ce84a621f861]: Textual amendment: Words in art. 15(1)(b)(i) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/584/regulation/22) (with [reg. 46(3)](https://www.legislation.gov.uk/uksi/2019/584/regulation/46/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

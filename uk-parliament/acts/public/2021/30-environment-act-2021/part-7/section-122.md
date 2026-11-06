@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Benefit and burden of obligation of landowner[^key-7700dd7972ce0ca4c7c884860272e4e9][^key-fddb8883c72099d6f0fb0dcc2eb5a0e0]
+## 122. Benefit and burden of obligation of landowner[^c-7700dd7972ce0ca4c7c884860272e4e9][^c-fddb8883c72099d6f0fb0dcc2eb5a0e0]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7700dd7972ce0ca4c7c884860272e4e9]: Commencement: S. 122 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-7700dd7972ce0ca4c7c884860272e4e9]: Commencement: S. 122 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-fddb8883c72099d6f0fb0dcc2eb5a0e0]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2021/30/section/122) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-fddb8883c72099d6f0fb0dcc2eb5a0e0]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2021/30/section/122) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

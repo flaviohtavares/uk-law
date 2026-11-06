@@ -54,12 +54,12 @@ that is provided to the Panel in connection with the exercise of its functions.
 - (a)[^M_F_79c635e9-9820-4c36-ef33-69de856b733b] the Financial Conduct Authority;
 - (aa) the Prudential Regulation Authority;
 - (ab) the Bank of England;
-- (b)[^key-eb9d493d2d2b88ffc8826c6bd9c7d76f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-62dccd743f8de0429c52d8c1f1b24ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-eb9d493d2d2b88ffc8826c6bd9c7d76f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-62dccd743f8de0429c52d8c1f1b24ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) This section does not prohibit the disclosure of information if the information is or has been available to the public from any other source.
 
-(9) Nothing in this section authorises the making of a disclosure in contravention of the data protection legislation[^key-3c5a37e2b8ede915870592d8d118b87f].
+(9) Nothing in this section authorises the making of a disclosure in contravention of the data protection legislation[^c-3c5a37e2b8ede915870592d8d118b87f].
 
 ## Annotations
 
@@ -67,8 +67,8 @@ that is provided to the Panel in connection with the exercise of its functions.
 
 [^M_F_79c635e9-9820-4c36-ef33-69de856b733b]: Textual amendment: S. 948(7)(a)-(ab) substituted for s. 948(7)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 118(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/118/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-eb9d493d2d2b88ffc8826c6bd9c7d76f]: Textual amendment: S. 948(7)(b) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/217/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb9d493d2d2b88ffc8826c6bd9c7d76f]: Textual amendment: S. 948(7)(b) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/217/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-62dccd743f8de0429c52d8c1f1b24ad2]: Textual amendment: S. 948(7)(c) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/217/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62dccd743f8de0429c52d8c1f1b24ad2]: Textual amendment: S. 948(7)(c) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/217/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c5a37e2b8ede915870592d8d118b87f]: Textual amendment: Words in s. 948(9) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 123](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/123) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-3c5a37e2b8ede915870592d8d118b87f]: Textual amendment: Words in s. 948(9) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 123](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/123) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Power to revoke licences.[^c16548161][^key-e65bcbfd771c83bac5bed569f3c89be1][^key-5c9662bd913d357a74bd1f30c9d99ddc][^key-5c9662bd913d357a74bd1f30c9d99ddc]
+## 111. Power to revoke licences.[^c16548161][^c-e65bcbfd771c83bac5bed569f3c89be1][^c-5c9662bd913d357a74bd1f30c9d99ddc][^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-dd4112e1c4a137500da5548a74b458bf] If OFCOM[^key-10b458765100d24855639f980ccb363a] are satisfied—
+(1)[^c-dd4112e1c4a137500da5548a74b458bf] If OFCOM[^c-10b458765100d24855639f980ccb363a] are satisfied—
 
 - (a) that the holder of a licence granted under this Chapter is failing to comply with any condition of the licence or with any direction given by them under or by virtue of any provision of this Part, and
 - (b) that that failure is such that, if not remedied, it would justify the revocation of the licence,
@@ -40,7 +40,7 @@ they shall (subject to subsection (8)) serve on the holder of the licence a noti
 
 they shall (subject to subsection (8)) serve on him a notice revoking his licence.
 
-(4)[^key-a968ea9b684d56e567ffa3b85d04a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a968ea9b684d56e567ffa3b85d04a3a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If OFCOM are satisfied—
 
@@ -49,7 +49,7 @@ they shall (subject to subsection (8)) serve on him a notice revoking his licenc
 
 they may (subject to subsection (8)) serve on him a notice revoking his licence.
 
-(6) Subject to subsection (7), any notice served under subsection (3) [^key-8237a7765c9bb8a0965645d286bb83d7]... or (5) shall take effect as from the time when it is served on the licence holder.
+(6) Subject to subsection (7), any notice served under subsection (3) [^c-8237a7765c9bb8a0965645d286bb83d7]... or (5) shall take effect as from the time when it is served on the licence holder.
 
 (7) If it appears to OFCOM to be appropriate to do so for the purpose of preserving continuity in the provision of the service in question, they may provide in any such notice for it to take effect as from a date specified in it.
 
@@ -65,14 +65,14 @@ they may (subject to subsection (8)) serve on him a notice revoking his licence.
 
     S. 111 modified (1.10.1996) by [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55), [s. 66(12)](https://www.legislation.gov.uk/ukpga/1996/55/section/66/12) (with [s. 43(1)(6)](https://www.legislation.gov.uk/ukpga/1996/55/section/43/1/6)); [S.I. 1996/2120](https://www.legislation.gov.uk/uksi/1996/2120), [art. 5](https://www.legislation.gov.uk/uksi/1996/2120/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/2120/schedule/2)
 
-[^key-e65bcbfd771c83bac5bed569f3c89be1]: Modification: Ss. 109-111A applied (with modifications) (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 250(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/250/3), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e65bcbfd771c83bac5bed569f3c89be1]: Modification: Ss. 109-111A applied (with modifications) (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 250(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/250/3), [411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-dd4112e1c4a137500da5548a74b458bf]: Modification: S. 111(1) modified (20.7.2004) by [The Contracting Out (Functions relating to Broadcast Advertising) and Specification of Relevant Functions Order 2004 (S.I. 2004/1975)](https://www.legislation.gov.uk/uksi/2004/1975), [art. 1](https://www.legislation.gov.uk/uksi/2004/1975/article/1), [Sch. para. 3(e)](https://www.legislation.gov.uk/uksi/2004/1975/schedule/paragraph/3/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/1975/article/5))
+[^c-dd4112e1c4a137500da5548a74b458bf]: Modification: S. 111(1) modified (20.7.2004) by [The Contracting Out (Functions relating to Broadcast Advertising) and Specification of Relevant Functions Order 2004 (S.I. 2004/1975)](https://www.legislation.gov.uk/uksi/2004/1975), [art. 1](https://www.legislation.gov.uk/uksi/2004/1975/article/1), [Sch. para. 3(e)](https://www.legislation.gov.uk/uksi/2004/1975/schedule/paragraph/3/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/1975/article/5))
 
-[^key-10b458765100d24855639f980ccb363a]: Textual amendment: Words in ss. 109-111A substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 50](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/50) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-10b458765100d24855639f980ccb363a]: Textual amendment: Words in ss. 109-111A substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 50](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/50) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a968ea9b684d56e567ffa3b85d04a3a9]: Textual amendment: S. 111(4) omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 41(9)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/41/9/a), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/a)
+[^c-a968ea9b684d56e567ffa3b85d04a3a9]: Textual amendment: S. 111(4) omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 41(9)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/41/9/a), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/a)
 
-[^key-8237a7765c9bb8a0965645d286bb83d7]: Textual amendment: Word in s. 111(6) omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 41(9)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/41/9/b), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/a)
+[^c-8237a7765c9bb8a0965645d286bb83d7]: Textual amendment: Word in s. 111(6) omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 41(9)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/41/9/b), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/a)

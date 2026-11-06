@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Meaning of “qualifying young person”[^key-382ec8800188381d02f1a77dc769333b]
+## 29. Meaning of “qualifying young person”[^c-382ec8800188381d02f1a77dc769333b]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where a person who would (apart from the provision made by this regulation) be a
 
 ## Annotations
 
-[^key-382ec8800188381d02f1a77dc769333b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/226/regulation/29) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-382ec8800188381d02f1a77dc769333b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2016/226/regulation/29) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

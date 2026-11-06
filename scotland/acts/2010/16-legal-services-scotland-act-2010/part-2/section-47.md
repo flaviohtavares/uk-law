@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Licensed providers[^key-3ce37761ad289458bebacefe9d8971ff]
+## 47. Licensed providers[^c-3ce37761ad289458bebacefe9d8971ff]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce37761ad289458bebacefe9d8971ff]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2010/16/section/47) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-3ce37761ad289458bebacefe9d8971ff]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2010/16/section/47) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

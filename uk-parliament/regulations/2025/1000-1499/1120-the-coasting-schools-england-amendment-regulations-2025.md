@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 60B(3) and 181(2)(a) of the Education and Inspections Act 2006[^f00001].
 
-## 1. Citation, commencement, extent and application[^key-2839251497ee10afedf0180f4d9bcefd]
+## 1. Citation, commencement, extent and application[^c-2839251497ee10afedf0180f4d9bcefd]
 
 (1) These Regulations may be cited as the Coasting Schools (England) (Amendment) Regulations 2025 and come into force on 17th November 2025.
 
 (2) These Regulations extend to England and Wales and apply in relation to schools in England.
 
-## 2. Amendment to the Coasting Schools (England) Regulations 2022[^key-e430f66de9faeb41bf10d81fff65d799]
+## 2. Amendment to the Coasting Schools (England) Regulations 2022[^c-e430f66de9faeb41bf10d81fff65d799]
 
 The Coasting Schools (England) Regulations 2022[^f00002] are amended in accordance with regulation 3.
 
-## 3. Amendment to regulation 4[^key-c4def653ba3e838d5b4603edc5b885b8]
+## 3. Amendment to regulation 4[^c-c4def653ba3e838d5b4603edc5b885b8]
 
 For regulation 4 (Coasting schools), substitute—
 
@@ -153,13 +153,13 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Section 60B was inserted by section 1(3) of the Education and Adoption Act [2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6).
 
-[^key-2839251497ee10afedf0180f4d9bcefd]: Commencement: Reg. 1 in force at 17.11.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1)
+[^c-2839251497ee10afedf0180f4d9bcefd]: Commencement: Reg. 1 in force at 17.11.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1)
 
-[^key-e430f66de9faeb41bf10d81fff65d799]: Commencement: Reg. 2 in force at 17.11.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1)
+[^c-e430f66de9faeb41bf10d81fff65d799]: Commencement: Reg. 2 in force at 17.11.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2022/720](https://www.legislation.gov.uk/uksi/2022/720).
 
-[^key-c4def653ba3e838d5b4603edc5b885b8]: Commencement: Reg. 3 in force at 17.11.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1)
+[^c-c4def653ba3e838d5b4603edc5b885b8]: Commencement: Reg. 3 in force at 17.11.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1120/regulation/1/1)
 
 [^f00003]: Footnote: By virtue of section 2B(6) of the Academies Act [2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), the definition of “coasting” applies in respect of academies as it does in respect of maintained schools.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Offence of offering to carry out virginity testing: Northern Ireland[^key-b577631ebab9a6ab6b961b0b320c4d22][^key-7f9644523e18a5e3aa77065a6a232b4d]
+## 145. Offence of offering to carry out virginity testing: Northern Ireland[^c-b577631ebab9a6ab6b961b0b320c4d22][^c-7f9644523e18a5e3aa77065a6a232b4d]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b577631ebab9a6ab6b961b0b320c4d22]: Commencement: S. 145 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b577631ebab9a6ab6b961b0b320c4d22]: Commencement: S. 145 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7f9644523e18a5e3aa77065a6a232b4d]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2022/31/section/145) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7f9644523e18a5e3aa77065a6a232b4d]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2022/31/section/145) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

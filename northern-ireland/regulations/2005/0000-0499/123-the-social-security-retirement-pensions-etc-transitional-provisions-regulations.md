@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by paragraph 22 of Schedule 9 to the Pensions (Northern Ireland) Order 2005[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-741a44d3157cace5cbaaa9588e15d838]
+## 1. Citation, commencement and interpretation[^c-741a44d3157cace5cbaaa9588e15d838]
 
 (1) These Regulations may be cited as the Social Security (Retirement Pensions etc.) (Transitional Provisions) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
@@ -50,7 +50,7 @@ The Department for Social Development, in exercise of the powers conferred by pa
 - “period of deferment” shall be construed in accordance with section 55(3) or, as the case may be, section 55C(3) of the Contributions and Benefits Act[^f00003];
 - “transitional case” means a case where a person’s entitlement to retirement pension or shared additional pension is deferred and the period of deferment begins before 6th April 2005 and continues on or after that day.
 
-## 2. Modification of Schedule 5 to the Act[^key-564dbadba2a79061e0187334a78fd708]
+## 2. Modification of Schedule 5 to the Act[^c-564dbadba2a79061e0187334a78fd708]
 
 (1) Schedule 5 to the Contributions and Benefits Act[^f00004] (pension increase or lump sum where entitlement to retirement pension is deferred) shall be modified in relation to transitional cases in accordance with paragraphs (2) to (6).
 
@@ -88,10 +88,10 @@ The Department for Social Development, in exercise of the powers conferred by pa
 
 (6) In paragraph 7B (calculation of widowed person’s lump sum) –
 
-- (a)[^key-2d142abc202b16bea33ef52caeb3f53a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2d142abc202b16bea33ef52caeb3f53a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (2) in the definition of “accrual period” for “a prescribed day of the week” there shall be substituted “the day of the week on which S’s retirement pension would have been payable had his entitlement not been deferred”.
 
-## 3. Modification of Schedule 5A to the Act[^key-00d6838f8a25211e6c68385250ca1e70]
+## 3. Modification of Schedule 5A to the Act[^c-00d6838f8a25211e6c68385250ca1e70]
 
 (1) Schedule 5A to the Act[^f00005] (pension increase or lump sum where entitlement to shared additional pension is deferred) shall be modified in relation to transitional cases in accordance with paragraphs (2) to (4).
 
@@ -148,16 +148,16 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-741a44d3157cace5cbaaa9588e15d838]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/123/regulation/1/1)
+[^c-741a44d3157cace5cbaaa9588e15d838]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/123/regulation/1/1)
 
 [^f00003]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); sections 55 and 55C are substituted by Article 273(1) and (2) of the Pensions (Northern Ireland) Order 2005 respectively
 
-[^key-564dbadba2a79061e0187334a78fd708]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/123/regulation/1/1)
+[^c-564dbadba2a79061e0187334a78fd708]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/123/regulation/1/1)
 
 [^f00004]: Footnote: The provisions of Schedule 5 being modified are inserted by Schedule 9 to the Pensions (Northern Ireland) Order 2005
 
-[^key-2d142abc202b16bea33ef52caeb3f53a]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2005/123/regulation/2/6/a) omitted (6.4.2006) by virtue of [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2006/104/regulation/6)
+[^c-2d142abc202b16bea33ef52caeb3f53a]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2005/123/regulation/2/6/a) omitted (6.4.2006) by virtue of [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/104)](https://www.legislation.gov.uk/nisr/2006/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2006/104/regulation/6)
 
-[^key-00d6838f8a25211e6c68385250ca1e70]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/123/regulation/1/1)
+[^c-00d6838f8a25211e6c68385250ca1e70]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/123/regulation/1/1)
 
 [^f00005]: Footnote: Schedule 5A is inserted by paragraph 14 of Schedule 9 to the Pensions (Northern Ireland) Order 2005

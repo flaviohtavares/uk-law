@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, being a department designated (a) for the purposes of section 2(2) of the European Communities Act 1972(b) in relation to measures relating to the environment, acting in exercise of the powers conferred upon it by that section, makes the following Regulations:
 
-## 1. Citation and commencement[^key-38cf9b923006d75373f04cdc587c68e4]
+## 1. Citation and commencement[^c-38cf9b923006d75373f04cdc587c68e4]
 
 These Regulations may be cited as the Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2009 and come into operation on 14<sup>th</sup> December 2009.
 
-## 2. Interpretation[^key-27bfd7cb97c66b17105d741f15947d08]
+## 2. Interpretation[^c-27bfd7cb97c66b17105d741f15947d08]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00001] applies to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -54,7 +54,7 @@ These Regulations may be cited as the Environmental Liability (Prevention and Re
 
 - “the Principal Regulations” means the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009[^f00002].
 
-## 3. Amendment of the Principal Regulations[^key-93b7ec9c96edeafa5f9b0cc1c46a5290]
+## 3. Amendment of the Principal Regulations[^c-93b7ec9c96edeafa5f9b0cc1c46a5290]
 
 (1) The Principal Regulations shall be amended as follows:—
 
@@ -80,14 +80,14 @@ A senior officer of the Department of the Environment
 
 Regulation 26
 
-**1.**[^key-eb94c263ab887706d47b294c8fd60aec] If it is shown to the satisfaction of a lay magistrate on sworn information in writing—
+**1.**[^c-eb94c263ab887706d47b294c8fd60aec] If it is shown to the satisfaction of a lay magistrate on sworn information in writing—
 
 - (a) that there are reasonable grounds for the exercise in relation to any land of a relevant power; and
 - (b) that one or more of the conditions specified in paragraph 2 is fulfilled in relation to that land,
 
 the lay magistrate may, by warrant, authorise an authorised person to exercise the power in relation to that land, in accordance with the warrant and, if need be, by reasonable force.
 
-**2.**[^key-281d3492356e601f89f220033d960af3] The conditions mentioned in paragraph 1 are—
+**2.**[^c-281d3492356e601f89f220033d960af3] The conditions mentioned in paragraph 1 are—
 
 - (a) that the exercise of the power in relation to the land has been refused;
 - (b) that such a refusal is reasonably apprehended;
@@ -111,16 +111,16 @@ They amend the Penalties provision (regulation 29(a)) in respect of the formula 
 
 ## Annotations
 
-[^key-38cf9b923006d75373f04cdc587c68e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
+[^c-38cf9b923006d75373f04cdc587c68e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
 
-[^key-27bfd7cb97c66b17105d741f15947d08]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/361/regulation/2) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
+[^c-27bfd7cb97c66b17105d741f15947d08]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/361/regulation/2) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
 
 [^f00001]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00002]: Footnote: [S.R. 2009 No. 252](https://www.legislation.gov.uk/nisr/2009/252)
 
-[^key-93b7ec9c96edeafa5f9b0cc1c46a5290]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/361/regulation/3) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
+[^c-93b7ec9c96edeafa5f9b0cc1c46a5290]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/361/regulation/3) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
 
-[^key-eb94c263ab887706d47b294c8fd60aec]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/361/schedule/1/paragraph/1) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
+[^c-eb94c263ab887706d47b294c8fd60aec]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/361/schedule/1/paragraph/1) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
 
-[^key-281d3492356e601f89f220033d960af3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/361/schedule/1/paragraph/2) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)
+[^c-281d3492356e601f89f220033d960af3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/361/schedule/1/paragraph/2) in operation at 14.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/361/regulation/1)

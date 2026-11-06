@@ -43,41 +43,41 @@ The Department of Agriculture and Rural Development[^f00001], makes the followin
 
 ## PART I — Introduction
 
-### 1. Citation and commencement[^key-b476ff51317043ea6cb39dd98238d3cf]
+### 1. Citation and commencement[^c-b476ff51317043ea6cb39dd98238d3cf]
 
 This Order may be cited as the Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2009 and comes into operation on 31<sup>st</sup> December 2009.
 
-### 2. Interpretation[^key-bd80d6b05ee5dcfa62e32344f522c9cb]
+### 2. Interpretation[^c-bd80d6b05ee5dcfa62e32344f522c9cb]
 
 (1) In this Order—
 
-- “animal” means any animal of the ovine or caprine species including the offspring of crossings of those species[^key-3b1eab4b06a710fd5aafdca4dbe5c189];
-- “[^key-38cd1bda0c98fecb643e11b3ae5c4705]**assembly centre**” means holdings approved by the Department for the assembly of animals from more than one holding which are—
+- “animal” means any animal of the ovine or caprine species including the offspring of crossings of those species[^c-3b1eab4b06a710fd5aafdca4dbe5c189];
+- “[^c-38cd1bda0c98fecb643e11b3ae5c4705]**assembly centre**” means holdings approved by the Department for the assembly of animals from more than one holding which are—
   - (i) intended to form consignments for trade; and
   - (ii) kept for a period shorter than the required residency period of the animal concerned as set out in the Council Regulation;
-- “central point of recording” means a holding approved by the Department [^key-d0fc81117b61ff9a7d8aacb6ae05cd98]... for recording the identities of animals arriving at that holding;
-- “centralised computer database” means the database operated by the Department for the purposes of Articles 109(1)(b) and 113(1)(c) of the Council Regulation and Article 49 of the Commission Regulation[^key-140fb8329563ce2c50aed0534d35a015];
+- “central point of recording” means a holding approved by the Department [^c-d0fc81117b61ff9a7d8aacb6ae05cd98]... for recording the identities of animals arriving at that holding;
+- “centralised computer database” means the database operated by the Department for the purposes of Articles 109(1)(b) and 113(1)(c) of the Council Regulation and Article 49 of the Commission Regulation[^c-140fb8329563ce2c50aed0534d35a015];
 - “collection centre” means any premises used by a dealer for the intermediate reception of animals intended to be moved for slaughter (but does not include a market);
-- “[^key-5749638c76d57b5b5b49ab5950db7cc8]**Commission Implementing Regulation**” means Commission Implementing [Regulation (EU) 2021/520](https://www.legislation.gov.uk/european/regulation/2021/0520) laying down rules for the application of [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) with regards to the traceability of certain kept terrestrial animals;
+- “[^c-5749638c76d57b5b5b49ab5950db7cc8]**Commission Implementing Regulation**” means Commission Implementing [Regulation (EU) 2021/520](https://www.legislation.gov.uk/european/regulation/2021/0520) laying down rules for the application of [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) with regards to the traceability of certain kept terrestrial animals;
 - “**Commission Regulation**” means Commission Delegated [Regulation (EU) 2019/2035](https://www.legislation.gov.uk/european/regulation/2019/2035) supplementing [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) as regards rules for establishments keeping terrestrial animals and hatcheries, and the traceability of certain kept terrestrial animals and hatching eggs;
-- “[^key-49caccac1ef62ed51693892be157c40d]**Council Regulation**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’);
+- “[^c-49caccac1ef62ed51693892be157c40d]**Council Regulation**” means [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’);
 - “Divisional Veterinary Office” in relation to any holding means the Divisional Veterinary Office or DARD Direct Office of the Department for the area in which a holding is located;
 - “flock number” means the number allocated to a flock of sheep under Article 3(3);
 - “herd number” means the number allocated to a herd of goats under Article 3(3);
-- “[^key-83886758c31310716ef171cf200e4814]**holding**” means any establishment or structure or in the case of free range farming, any environment in which animals are held, reared or handled on a permanent or temporary basis, except veterinary practices or clinics;
+- “[^c-83886758c31310716ef171cf200e4814]**holding**” means any establishment or structure or in the case of free range farming, any environment in which animals are held, reared or handled on a permanent or temporary basis, except veterinary practices or clinics;
 - “holding number” means a number allocated by the Department under Article 3(3) to any holding on which any animals are kept;
-- “[^key-84d9fe7530f8a6018e4dd2b1c3cedb3e]**holding register**” means a register containing the records required by Article 102(1) of the Council Regulation;
+- “[^c-84d9fe7530f8a6018e4dd2b1c3cedb3e]**holding register**” means a register containing the records required by Article 102(1) of the Council Regulation;
 - “identification code” means the code set out on a means of identification as required under this Order;
 - “identification device” means an eartag, electronic eartag, pastern tag, electronic pastern tag or bolus;
-- “identification mark” means a method of identification applied in a[^key-c08b4af572873d7c5680f10bb8f491a1] member State, a means of identification or an older means of identification;
+- “identification mark” means a method of identification applied in a[^c-c08b4af572873d7c5680f10bb8f491a1] member State, a means of identification or an older means of identification;
 - “incineration plant” means an incineration plant to which regulation 14 of the Animal By-Products Regulations (Northern Ireland) 2003[^f00006] applies;
-- “[^key-15b4259b2e11e3b928d8f66d1fcebd73]**keeper**” means any person responsible for animals, whether on a permanent or on a temporary basis, including during transportation or at a market but excluding veterinary practices;
+- “[^c-15b4259b2e11e3b928d8f66d1fcebd73]**keeper**” means any person responsible for animals, whether on a permanent or on a temporary basis, including during transportation or at a market but excluding veterinary practices;
 - “market” means a market place, sale yard or any other premises or place to which animals are brought from any other place to be exposed for sale and includes any place, lairage or parking area adjoining a market and used in connection with it;
 - “market operator” means the person responsible for managing the reception or the sale of animals in a market or a duly authorised representative of such a person;
 - “means of identification” means an identification device or a tattoo;
-- “member State” means any member State of the European Union [^key-e4c9c87d7d45c094c0facc331bf58e11]...;
+- “member State” means any member State of the European Union [^c-e4c9c87d7d45c094c0facc331bf58e11]...;
 - “method of identification” means an eartag, electronic eartag, pastern tag, electronic pastern tag, bolus or tattoo applied in a member State or third country;
-- “[^key-192010091068ac4ec9db676101e1075d]**movement document**” means the movement document required by Articles 113(1)(b) of the Council Regulation and in a format approved by the Department;
+- “[^c-192010091068ac4ec9db676101e1075d]**movement document**” means the movement document required by Articles 113(1)(b) of the Council Regulation and in a format approved by the Department;
 - “previous Orders” means—
   - (a) the Identification and Movement of Sheep and Goats Order (Northern Ireland) 1997[^f00007];
   - (b) the Identification and Movement of Sheep and Goats (Amendment) Order (Northern Ireland) 1998[^f00008]; and
@@ -88,7 +88,7 @@ This Order may be cited as the Sheep and Goats (Records, Identification and Move
 
 (2) Other expressions defined in the Council Regulation have the same meaning in this Order.
 
-### 3. Notification of a holding[^key-b6a31315027197fa042f801c1384464b]
+### 3. Notification of a holding[^c-b6a31315027197fa042f801c1384464b]
 
 (1) Subject to paragraph (5), a person who keeps an animal on a holding shall give notice to the Department containing particulars of—
 
@@ -99,7 +99,7 @@ This Order may be cited as the Sheep and Goats (Records, Identification and Move
 - (e) any cattle or pigs on the holding; and
 - (f) in relation to—
   - (i) cattle on the holding, any unique identification code allocated under regulation 3(1)(b) of the Cattle Identification (No.2) Regulations (Northern Ireland) 1998[^f00010]; and
-  - (ii) pigs on the holding, a holding number allocated under paragraph 3(3) of the Schedule to The Aujeszkey's Disease Scheme Order (Northern Ireland)2012.[^key-8581b8d1462da0ce36a0092340846b7e].
+  - (ii) pigs on the holding, a holding number allocated under paragraph 3(3) of the Schedule to The Aujeszkey's Disease Scheme Order (Northern Ireland)2012.[^c-8581b8d1462da0ce36a0092340846b7e].
 
 (2) In the case of a holding used for keeping animals on the date this Order comes into operation the notice required by paragraph (1) shall be given within 7 days of that date and in any other case shall be given within 7 days of the holding first being used to keep animals.
 
@@ -112,17 +112,17 @@ This Order may be cited as the Sheep and Goats (Records, Identification and Move
 
 the keeper shall notify the Department accordingly within 30 days of such change or disposal of animals.
 
-(5)[^key-796e469308a7663dd1181afac1a6abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-796e469308a7663dd1181afac1a6abae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Authorisations[^key-87e85f171f79e22c96b00a695472dbe2]
+### 4. Authorisations[^c-87e85f171f79e22c96b00a695472dbe2]
 
-(1) An authorisation, approval, notice or permission under this Order , the Council Regulation, the Commission Regulation or the Commission Implementing Regulation[^key-b2acea0a089e7091f1b3edb73496ab79] shall be in writing, may be made subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
+(1) An authorisation, approval, notice or permission under this Order , the Council Regulation, the Commission Regulation or the Commission Implementing Regulation[^c-b2acea0a089e7091f1b3edb73496ab79] shall be in writing, may be made subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
 
 (2) A person to whom any document specified in paragraph (1) is issued shall comply with its requirements.
 
 ## PART II — Identification devices
 
-### 5. Approval of identification devices[^key-8976af11bca8f964a2ebb67e635edfd7]
+### 5. Approval of identification devices[^c-8976af11bca8f964a2ebb67e635edfd7]
 
 (1) An identification device used to comply with this Order must be of a model and colour approved by the Department.
 
@@ -130,7 +130,7 @@ the keeper shall notify the Department accordingly within 30 days of such change
 
 (3) A person shall not sell or supply to a keeper of animals an identification device with a herd or flock number unless that number has been allocated to the keeper under Article 3(3) or in accordance with Article 12 and 15.
 
-### 6. Additional tags and identification devices with additional information[^key-2e56272399637ca23060d44aa31e422c]
+### 6. Additional tags and identification devices with additional information[^c-2e56272399637ca23060d44aa31e422c]
 
 (1) Subject to the following provisions, a person shall only include on an identification device any information which is—
 
@@ -144,19 +144,19 @@ and shall not sell or supply to another any such device which does not comply wi
 - (a) the information is distinct from the identification code on the device; and
 - (b) the identification code remains legible and clearly distinguishable at all times.
 
-(3) Nothing in this Order shall prevent a person from applying an additional tag to an animal provided that tag does not contain the letters ““XI”, the numbers “899”[^key-625e1a28aedd6d11c38864adf2f0dd4e]” or bear a flock number or herd number unless authorised by the Department to do so.
+(3) Nothing in this Order shall prevent a person from applying an additional tag to an animal provided that tag does not contain the letters ““XI”, the numbers “899”[^c-625e1a28aedd6d11c38864adf2f0dd4e]” or bear a flock number or herd number unless authorised by the Department to do so.
 
-### 7. Colour of identification devices[^key-95ff571a3e956afe0180dfbda4f6c3c5]
+### 7. Colour of identification devices[^c-95ff571a3e956afe0180dfbda4f6c3c5]
 
 (1) A person shall not attach a red identification device to any animal, other than a replacement identification device.
 
-(2) Where a keeper re-identifies an animal with a new identification device and that animal is not on its holding of birth, or the keeper does not know the holding of birth, he must use a red replacement identification device but the requirement to use a red identification device does not apply to the use of boluses or where the keeper provides the information required by Article 102 of the Council Regulation and Articles 22, 23(1) (2) and (4) of the Commission Regulation[^key-8a1981cf551de533f430d060e02238e3] in accordance with Article 18.
+(2) Where a keeper re-identifies an animal with a new identification device and that animal is not on its holding of birth, or the keeper does not know the holding of birth, he must use a red replacement identification device but the requirement to use a red identification device does not apply to the use of boluses or where the keeper provides the information required by Article 102 of the Council Regulation and Articles 22, 23(1) (2) and (4) of the Commission Regulation[^c-8a1981cf551de533f430d060e02238e3] in accordance with Article 18.
 
 (3) Where an animal is identified by means of a bolus and a matching identification device, the matching identification device must be light blue and a light blue identification device may only be used in combination with a bolus.
 
 (4) The characters on all identification devices must be a different colour to the background of the device and must be clearly legible at all times when the device attached to the animal.
 
-### 8. Destruction of identification devices[^key-0f9323ba196d854bb253a4a5b83561b2]
+### 8. Destruction of identification devices[^c-0f9323ba196d854bb253a4a5b83561b2]
 
 (1) The operator of a slaughterhouse, a processing plant, a collection centre, an incineration plant or any other person who finally disposes of an animal carcase must destroy, in a secure manner which prevents reuse all identification devices on animals or carcases entering his premises.
 
@@ -164,17 +164,17 @@ and shall not sell or supply to another any such device which does not comply wi
 
 (3) Secure destruction includes the processing in a processing plant or incineration in an incineration plant of any identification device.
 
-(4) In this Article “collection centre” means a collection centre to which regulation 8 of the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015[^key-3db33c8340023628483b49651a96d973] applies.
+(4) In this Article “collection centre” means a collection centre to which regulation 8 of the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015[^c-3db33c8340023628483b49651a96d973] applies.
 
-## PART III — Identification of animals[^key-736fd82dd4399d98d57403a10f9ef57a]
+## PART III — Identification of animals[^c-736fd82dd4399d98d57403a10f9ef57a]
 
-### 9. Identification of animals[^key-6c7af1c48843fb7f6e3144f7a2a4fc57][^key-ccd1d68bdf46540a9e99677344763a4d]
+### 9. Identification of animals[^c-6c7af1c48843fb7f6e3144f7a2a4fc57][^c-ccd1d68bdf46540a9e99677344763a4d]
 
-(1)[^key-e3d124f03f97feb97effe1ede8f1504b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e3d124f03f97feb97effe1ede8f1504b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A keeper must comply with Article 14 and Annex II to the Commission Implementing Regulation[^key-e0fba12d75a62e6686a3e569a73b866b] and this Article.
+(2) A keeper must comply with Article 14 and Annex II to the Commission Implementing Regulation[^c-e0fba12d75a62e6686a3e569a73b866b] and this Article.
 
-(3) The keeper shall use the following means of identification [^key-6a2ec6f3b1a7173bf65ddac6ca6371e5]...—
+(3) The keeper shall use the following means of identification [^c-6a2ec6f3b1a7173bf65ddac6ca6371e5]...—
 
 - (a) an electronic eartag and an eartag; or
 - (b) an electronic eartag and a pastern tag; or
@@ -182,25 +182,25 @@ and shall not sell or supply to another any such device which does not comply wi
 - (d) a bolus and a pastern tag; or
 - (e) electronic pastern tag and an eartag.
 
-(4) For the purpose of Article 14 of the Commission Implementing Regulation[^key-2d91453b6542d54d5cc1fc35b979ad60], the time limits for identifying an animal are—
+(4) For the purpose of Article 14 of the Commission Implementing Regulation[^c-2d91453b6542d54d5cc1fc35b979ad60], the time limits for identifying an animal are—
 
 - (a) 9 months from the date of birth, in the case of an animal kept in extensive or free range farming conditions; or
 - (b) 6 months from the date of birth, in the case of any other animal.
 
-(5)[^key-83f84fee4b6d3f4a9b3ce7d0c8b0fdb9] The identification code on the means of identification for the purposes of Article 12 of Commission Implementing Regulation must be—
+(5)[^c-83f84fee4b6d3f4a9b3ce7d0c8b0fdb9] The identification code on the means of identification for the purposes of Article 12 of Commission Implementing Regulation must be—
 
 - (a) the letters “XI” or, the numbers “899”; and
 - (b) a 12 digit number prescribed by the Department;
 
 and must be identical on the first and second means of identification.
 
-### 10. Animals intended for slaughter[^key-d69d5fe16744b69e0046fb42ff19a794]
+### 10. Animals intended for slaughter[^c-d69d5fe16744b69e0046fb42ff19a794]
 
 A keeper of animals intended to be moved directly to a slaughterhouse before the age of 12 months shall ensure that each such animal is identified in accordance with Article 45(1) of the Commission Regulation and regulation 9.
 
-### 11. Removal or replacement of means of identification[^key-df4e0ccc69c3db5b235b846e2116c5f1]
+### 11. Removal or replacement of means of identification[^c-df4e0ccc69c3db5b235b846e2116c5f1]
 
-(1) A person shall not contravene Article 45(3)(b) of the Commission Regulation[^key-8de4c35cf9e72287c5632237343b4b34].
+(1) A person shall not contravene Article 45(3)(b) of the Commission Regulation[^c-8de4c35cf9e72287c5632237343b4b34].
 
 (2) But a keeper must replace a lost or illegible means of identification for any animal to which Article 9 or 13 applies, in accordance with Article 12 or 15 as the case may be, as soon as possible after the original means of identification is discovered to be lost or illegible, but in any event—
 
@@ -212,17 +212,17 @@ A keeper of animals intended to be moved directly to a slaughterhouse before the
 - (a) the holding register; or
 - (b) the centralised computer database, if authorised in accordance with Article 18.
 
-### 12. Replacement of the means of identification for animals identified according to Article 9[^key-8ebfef8e048868e301a744b19e1f878c]
+### 12. Replacement of the means of identification for animals identified according to Article 9[^c-8ebfef8e048868e301a744b19e1f878c]
 
 (1) Where an animal identified according to Article 9 loses one means of identification, or that means of identification becomes illegible, the keeper must replace it with one bearing the same identification code or remove the remaining identification device and re-identify the animal according to Article 9.
 
 (2) Where an animal identified according to Article 9 loses both means of identification, or both means of identification become illegible the keeper must re-identify the animal according to Article 9.
 
-(3) If the animal is no longer on its holding of birth, or it is not known whether the animal is still on its holding of birth, the keeper must use a red means of identification. This does not apply where the means of identification is a bolus or an identification device matching a bolus, or where the keeper provides the information required by Article 102 of the Council Regulation and Articles 22, 23(1), (2) and (4) of the Commission Regulation[^key-83fa96a00c49f4d1a9074db1380902de] in accordance with Article 18.
+(3) If the animal is no longer on its holding of birth, or it is not known whether the animal is still on its holding of birth, the keeper must use a red means of identification. This does not apply where the means of identification is a bolus or an identification device matching a bolus, or where the keeper provides the information required by Article 102 of the Council Regulation and Articles 22, 23(1), (2) and (4) of the Commission Regulation[^c-83fa96a00c49f4d1a9074db1380902de] in accordance with Article 18.
 
-## PART IV — Goats not identified under Part III[^key-6e55765224a712e1c7d3cd8dde5bc696]
+## PART IV — Goats not identified under Part III[^c-6e55765224a712e1c7d3cd8dde5bc696]
 
-### 13. Identification of goats[^key-d47b2dd3a7de966f465cbe13506f30b2]
+### 13. Identification of goats[^c-d47b2dd3a7de966f465cbe13506f30b2]
 
 (1) Where a goat is on its holding of birth and has not been identified in accordance with Part III, the keeper must identify it within the time limits specified in Article 9(4) with either-
 
@@ -236,11 +236,11 @@ A keeper of animals intended to be moved directly to a slaughterhouse before the
 
 and must be identical on the first and second means of identification.
 
-### 14. Re-identification of goats[^key-763b60aef06b553b36492a7c0ccc52a6]
+### 14. Re-identification of goats[^c-763b60aef06b553b36492a7c0ccc52a6]
 
 Goats identified in accordance with Article 13 may be re-identified in accordance with Article 9 and in such a case Article 11(3) shall apply.
 
-### 15. Replacement of the means of identification for animals identified according to Article 13[^key-2d9095381ec54ffc30d8d3d77c624b25]
+### 15. Replacement of the means of identification for animals identified according to Article 13[^c-2d9095381ec54ffc30d8d3d77c624b25]
 
 (1) Where an animal identified according to Article 13 loses one means of identification, or that means of identification becomes illegible the keeper must replace it with one bearing the same identification code or remove the remaining identification device and re-identify the animal according to Article 13.
 
@@ -248,30 +248,30 @@ Goats identified in accordance with Article 13 may be re-identified in accordanc
 
 (3) If the animal is no longer on its holding of birth, or it is not known whether the animal is still on its holding of birth, the keeper must use a red means of identification. This does not apply where the means of identification is a bolus or an identification device matching a bolus.
 
-## PART V — Removal or replacement of identification marks on animals identified before 31st December 2009[^key-968d6cab549cfc19d23909e303e9a4f3]
+## PART V — Removal or replacement of identification marks on animals identified before 31st December 2009[^c-968d6cab549cfc19d23909e303e9a4f3]
 
 **No longer in force.**
 
-### 16. Removal or replacement of identification marks[^key-968d6cab549cfc19d23909e303e9a4f3]
+### 16. Removal or replacement of identification marks[^c-968d6cab549cfc19d23909e303e9a4f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VI — Holding registers
 
-### 17. Holding registers[^key-ebcfc534bea3795c2c7302ae34d08818]
+### 17. Holding registers[^c-ebcfc534bea3795c2c7302ae34d08818]
 
-(1) A person shall not contravene Article 102(1)(a) and (b) of the Council Regulation and the last sentence of that Article and Article 23(1)(a), (b) and (d), (2) and (4) of the Commission Regulation[^key-cec722a218e0bd7ad3b3719c94085636].
+(1) A person shall not contravene Article 102(1)(a) and (b) of the Council Regulation and the last sentence of that Article and Article 23(1)(a), (b) and (d), (2) and (4) of the Commission Regulation[^c-cec722a218e0bd7ad3b3719c94085636].
 
 (2) When an animal is moved onto or from its holding, the keeper must—
 
-- (a) record in the holding register the information required by Articles 22 and 23(1)(a) and (d) and (4) of the Commission Regulation[^key-07534d558a4bec27ad64ba5cec36e96f] and the number of animals moved; or
+- (a) record in the holding register the information required by Articles 22 and 23(1)(a) and (d) and (4) of the Commission Regulation[^c-07534d558a4bec27ad64ba5cec36e96f] and the number of animals moved; or
 - (b) retain a duplicate or a certified copy of the movement document and keep such duplicate or copy with the register in chronological order with any other movement documents retained and shall—
   - (i) record the date of movement and the number of animals moved in the holding register; and
   - (ii) cross reference the movement document to the relevant movement records in the holding register.
 
 (3) When an animal is re-identified the keeper shall record in the holding register the date of re-identification and the new identification code applied unless the identification code is the same.
 
-(4) The register kept under Article 102 of the Council Regulation and Article 23(1)(a), (b) and (d), (2) and (4) of the Commission Regulation[^key-ea05ffe1021f6fb244a98b3507c74182] must be in a format approved by the Department.
+(4) The register kept under Article 102 of the Council Regulation and Article 23(1)(a), (b) and (d), (2) and (4) of the Commission Regulation[^c-ea05ffe1021f6fb244a98b3507c74182] must be in a format approved by the Department.
 
 (5) The keeper must complete the register—
 
@@ -281,19 +281,19 @@ Goats identified in accordance with Article 13 may be re-identified in accordanc
 - (d) in the case of a movement of an animal from a holding to a central point of recording, within 48 hours of the movement;
 - (e) in the case of the death of an animal, within 7 days of the discovery of the death.
 
-(6) For the purposes of Article 102(3) of the Council Regulation[^key-3ed62aa398bebf16e70e19cf8351ad32], the period for which the holding register, including the duplicate or certified copies of the movement documents if kept in accordance with paragraph 2(b), must be available is 3 years from the last day when an animal referred to on the document dies or leaves the holding.
+(6) For the purposes of Article 102(3) of the Council Regulation[^c-3ed62aa398bebf16e70e19cf8351ad32], the period for which the holding register, including the duplicate or certified copies of the movement documents if kept in accordance with paragraph 2(b), must be available is 3 years from the last day when an animal referred to on the document dies or leaves the holding.
 
-### 18. Derogation from holding registers[^key-60661a0f1d991358556b542c7135b9bd]
+### 18. Derogation from holding registers[^c-60661a0f1d991358556b542c7135b9bd]
 
-In accordance with Article 102(4) of the Council Regulation[^key-78e9111d13d14cb86a7314d0033dd3f3] the holding register shall be optional for any keeper—
+In accordance with Article 102(4) of the Council Regulation[^c-78e9111d13d14cb86a7314d0033dd3f3] the holding register shall be optional for any keeper—
 
 - (a) who is authorised by the Department to notify information electronically for entry to the centralised computer database;
-- (b) who provides the information required by Article 102(1)(a) and (b) of the Council Regulation and Article 23(1)(a), (b) and (d), (2) and (4) of the Commission Regulation[^key-7d4e8c0bb91dde46b9e2ed68c48469a0] and in the case of the movement of animals the number of animals moved; and
+- (b) who provides the information required by Article 102(1)(a) and (b) of the Council Regulation and Article 23(1)(a), (b) and (d), (2) and (4) of the Commission Regulation[^c-7d4e8c0bb91dde46b9e2ed68c48469a0] and in the case of the movement of animals the number of animals moved; and
 - (c) who provides the information within the timescales specified in Article 17(5), and in the manner specified by the Department.
 
-### 19. Inventory of animals[^key-b9fdd8a021848a1cb0d6b00b7b50d298]
+### 19. Inventory of animals[^c-b9fdd8a021848a1cb0d6b00b7b50d298]
 
-(1) For the purpose of Article 101 of the Council Regulation[^key-a1a79b316f18aaba249294feecce805b], a person by whom a record is required to be kept under this Order shall annually check, on a date during the reconciliation period, the total numbers of animals on the holding including the categories, to which they belong, the occupation of the keeper and the type of production.
+(1) For the purpose of Article 101 of the Council Regulation[^c-a1a79b316f18aaba249294feecce805b], a person by whom a record is required to be kept under this Order shall annually check, on a date during the reconciliation period, the total numbers of animals on the holding including the categories, to which they belong, the occupation of the keeper and the type of production.
 
 (2) The keeper of an animal shall record, by the end of the reconciliation period each year, the particulars specified in the holding register.
 
@@ -306,24 +306,24 @@ In accordance with Article 102(4) of the Council Regulation[^key-78e9111d13d14cb
 
 ## PART VII — Movement documents
 
-### 20. Movement documents[^key-81919909d2be813632b87dfc0726b7e3]
+### 20. Movement documents[^c-81919909d2be813632b87dfc0726b7e3]
 
-(1) A person shall not contravene Article 113(1)(b) of the Council Regulation[^key-239cf28e4b021e8566ab2b815c682c75] or fail to complete the movement document in a form approved by the Department except that the identities of the animals moved may be recorded at the holding of destination where that holding is a central point of recording and the animals are transported in accordance with Article 50 of the Commission Regulation[^key-db4539693b0d9ba769d9139d9f9a051c].
+(1) A person shall not contravene Article 113(1)(b) of the Council Regulation[^c-239cf28e4b021e8566ab2b815c682c75] or fail to complete the movement document in a form approved by the Department except that the identities of the animals moved may be recorded at the holding of destination where that holding is a central point of recording and the animals are transported in accordance with Article 50 of the Commission Regulation[^c-db4539693b0d9ba769d9139d9f9a051c].
 
 (2) The keeper at the holding of origin shall retain a copy of the movement document for 3 years from the date of the movement of an animal off his holding and shall keep them in chronological order.
 
 (3) A keeper shall retain the information provided by a central point of recording in accordance with paragraph (1) with the movement document to which it refers for a period of 3 years from the date of the movement of an animal off his holding.
 
-(4) The keeper at the holding of destination shall comply with Article 102(3) of the Council Regulation[^key-f199a2f6c173b648dac5bea3273308c2] and shall keep the movement documents in chronological order.
+(4) The keeper at the holding of destination shall comply with Article 102(3) of the Council Regulation[^c-f199a2f6c173b648dac5bea3273308c2] and shall keep the movement documents in chronological order.
 
-(5) For the purposes of Article 102(3) of the Council Regulation[^key-34a25ff759f97d0b0d97dafdc99b2213] the minimum period for which the keeper at that holding must keep the movement document is 3 years from the date of the movement of an animal onto his holding.
+(5) For the purposes of Article 102(3) of the Council Regulation[^c-34a25ff759f97d0b0d97dafdc99b2213] the minimum period for which the keeper at that holding must keep the movement document is 3 years from the date of the movement of an animal onto his holding.
 
 (6) A keeper shall not move or cause or permit to be moved, any animal onto or from a holding unless—
 
 - (a) the Department has allocated to the keeper a herd or flock number in respect of the holding; and
 - (b) the animal is identified in accordance with the relevant provisions of this Order.
 
-### 21. Supply of movement document[^key-c4519138c8b333cbb5ac010d766f46b1]
+### 21. Supply of movement document[^c-c4519138c8b333cbb5ac010d766f46b1]
 
 (1) Subject to Article 22(4) in the case of an animal moved from a holding, other than a market, to a second holding—
 
@@ -342,9 +342,9 @@ In accordance with Article 102(4) of the Council Regulation[^key-78e9111d13d14cb
 - (a) within 7 days of the animal leaving the holding in the case of a holding other than a slaughterhouse; and
 - (b) within 24 hours in the case of the arrival of an animal at a slaughterhouse not approved as a central point of recording in accordance with Article 25.
 
-### 22. Derogation from movement documents[^key-8b19df143d2f5119a8f80abf2f37c647]
+### 22. Derogation from movement documents[^c-8b19df143d2f5119a8f80abf2f37c647]
 
-(1) For the purposes of Article 113(2) of the Council Regulation[^key-d96d62fcb6eb745bc512cebae5be2a4d] the Department may authorise any person to notify the movement of an animal by electronic means.
+(1) For the purposes of Article 113(2) of the Council Regulation[^c-d96d62fcb6eb745bc512cebae5be2a4d] the Department may authorise any person to notify the movement of an animal by electronic means.
 
 (2) An authorisation under this Article shall specify the format in which the data is to be transmitted and the method of transmission.
 
@@ -363,7 +363,7 @@ In accordance with Article 102(4) of the Council Regulation[^key-78e9111d13d14cb
 
 ## PART VIII — Markets
 
-### 23. Markets[^key-279f11e153fa6fc1e1fc1346707204aa]
+### 23. Markets[^c-279f11e153fa6fc1e1fc1346707204aa]
 
 The owner or person in charge of a market shall—
 
@@ -380,7 +380,7 @@ The owner or person in charge of a market shall—
   - (i) prior to the animal leaving supply the keeper with a copy of the movement document including full details of the holding to which the animal is being consigned and the lot number; and
   - (ii) unless the movement information is already entered in the centralised computer database in accordance with Article 25 send a copy of the movement document to the Divisional Veterinary Office in accordance with Article 21(1)(b)(ii).
 
-### 24. Slaughterhouse operators[^key-e5350399a6cd51e7094e59a9057f9dab]
+### 24. Slaughterhouse operators[^c-e5350399a6cd51e7094e59a9057f9dab]
 
 The owner or person in charge of a slaughterhouse shall—
 
@@ -396,11 +396,11 @@ The owner or person in charge of a slaughterhouse shall—
   - (iii) that the veterinary health certificate described at head (i) is endorsed in a manner specified by the Department upon acceptance of an animal for slaughter, ensuring that every detail specified by the Department in respect of an imported animal has been recorded on the document; and
   - (iv) retain a copy of the veterinary health certificate for a period of 3 years following the end of the month in which the document was received.
 
-### 25. Central point of recording[^key-19b6630feefcc3ecdd70d9f7fa662e3e]
+### 25. Central point of recording[^c-19b6630feefcc3ecdd70d9f7fa662e3e]
 
-An operator approved as a Central Point of Recording by the Department under Article 51(b) of the Commission Regulation[^key-2977955b54f6835a8b21c9f3bf5c8d8c], shall enter information relating to the movement of an animal to and from the holding on the centralised computer database on the day of movement to which it relates, or where this is not reasonably practicable, on the next following working day.
+An operator approved as a Central Point of Recording by the Department under Article 51(b) of the Commission Regulation[^c-2977955b54f6835a8b21c9f3bf5c8d8c], shall enter information relating to the movement of an animal to and from the holding on the centralised computer database on the day of movement to which it relates, or where this is not reasonably practicable, on the next following working day.
 
-### 26. Contingency planning for power and equipment failures[^key-2e56d53034cd0a357619dba4f59302a4]
+### 26. Contingency planning for power and equipment failures[^c-2e56d53034cd0a357619dba4f59302a4]
 
 (1) The Department may exempt a market, slaughterhouse or collection centre operator from the requirement to record the unique number of each animal on a movement document or on a holding register where a contingency plan has been agreed between the Department and the operator in question which in the opinion of the Department is adequate to ensure reasonable steps are taken to make a record of the identity of the animals.
 
@@ -412,49 +412,49 @@ An operator approved as a Central Point of Recording by the Department under Art
 
 ## PART IX — Animals brought into Northern Ireland
 
-### 27. Receipt of animals from a member State[^key-702bb1d5518161ad263b0fb8cef195f6][^key-a9f8bc4027b967820e4c4f4ef35e424b]
+### 27. Receipt of animals from a member State[^c-702bb1d5518161ad263b0fb8cef195f6][^c-a9f8bc4027b967820e4c4f4ef35e424b]
 
-(1)[^key-ec7863e7a8e31a3e0aa9b47aba0a5832] A person shall not receive an animal from a member State unless it is identified in accordance with the Council Regulation.
+(1)[^c-ec7863e7a8e31a3e0aa9b47aba0a5832] A person shall not receive an animal from a member State unless it is identified in accordance with the Council Regulation.
 
-(2) It is an offence to remove the original method of identification of an animal originating in a[^key-6e6e81cb02905483c0a34e5bbc94958d] member State in contravention of Article 18 of the Commission Implementing Regulation, unless authorised to do so by the Department[^key-157b46e3df7a0885bbdcd41f95f18a62].
+(2) It is an offence to remove the original method of identification of an animal originating in a[^c-6e6e81cb02905483c0a34e5bbc94958d] member State in contravention of Article 18 of the Commission Implementing Regulation, unless authorised to do so by the Department[^c-157b46e3df7a0885bbdcd41f95f18a62].
 
-### 28. Receipt of animals from England, Scotland, Wales, the Channel Islands or the Isle of Man[^key-818bad1fe0a65e846b51922bb9bb4ab2]
+### 28. Receipt of animals from England, Scotland, Wales, the Channel Islands or the Isle of Man[^c-818bad1fe0a65e846b51922bb9bb4ab2]
 
 A person shall not receive an animal from England, Scotland, Wales, the Channel Islands or the Isle of Man unless it is identified and accompanied by a movement document in accordance with—
 
 - (a) legislation corresponding to the previous Orders and any additional requirements imposed in legislation enforcing the Council Regulation in relation to those animals; or
 - (b) Article 9(3) in the case of an animal born after 31<sup>st</sup> December 2009.
 
-### 29. Identification of animals imported from third countries[^key-1f62d7f020b64953101f6b9c19e69119]
+### 29. Identification of animals imported from third countries[^c-1f62d7f020b64953101f6b9c19e69119]
 
-(1) A person shall not contravene Article 81 of the Commission Regulation[^key-c6b7cd4572ed1a53b67189d95d6e75e2] and this Article.
+(1) A person shall not contravene Article 81 of the Commission Regulation[^c-c6b7cd4572ed1a53b67189d95d6e75e2] and this Article.
 
-(2)[^key-3de93ebf6f421988023fe0c36a82b48e] In accordance with Article 17(1) of the Commission Implementing Regulation, the period for identifying an animal for the purposes of Article 81 of the Commission Regulation is 20 days.
+(2)[^c-3de93ebf6f421988023fe0c36a82b48e] In accordance with Article 17(1) of the Commission Implementing Regulation, the period for identifying an animal for the purposes of Article 81 of the Commission Regulation is 20 days.
 
-(3)[^key-8a20839f93cec34647d5d1fa5c1d735f] The means of identification for animals imported from a third country must be the same as that set out in Article 45 of the Commission Regulation and, in accordance with Article 12 of the Commission Implementing Regulation, the identification code is—
+(3)[^c-8a20839f93cec34647d5d1fa5c1d735f] The means of identification for animals imported from a third country must be the same as that set out in Article 45 of the Commission Regulation and, in accordance with Article 12 of the Commission Implementing Regulation, the identification code is—
 
 - (a) the letters “XI” or the numbers “899”;
 - (b) a 12 digit number in accordance with a numbering scheme prescribed by the Department.
 
 (4) Where an animal is imported from a third country and re-identified according to this Article, the keeper must record information about the addition of the new means of identification in the holding register together with the full identification code on the new means of identification and the full code on the method of identification applied in the third country.
 
-### 30. Loss of methods of identification applied in a third country[^key-12c45f67c98bc0c3f511f5e7e076db0b]
+### 30. Loss of methods of identification applied in a third country[^c-12c45f67c98bc0c3f511f5e7e076db0b]
 
-Where an animal is imported from a third country and re-identified in accordance with Article 81 of the Commission Regulation[^key-78142c1ef0ba18407012a0af9fd5c595], the keeper is not required to replace a method of identification applied in the third country if it subsequently becomes lost or illegible.
+Where an animal is imported from a third country and re-identified in accordance with Article 81 of the Commission Regulation[^c-78142c1ef0ba18407012a0af9fd5c595], the keeper is not required to replace a method of identification applied in the third country if it subsequently becomes lost or illegible.
 
 ## PART X — Miscellaneous
 
-### 31. Identification and recording of animals for export[^key-8a121f8b43e8e8f5b896232df04a5351]
+### 31. Identification and recording of animals for export[^c-8a121f8b43e8e8f5b896232df04a5351]
 
-(1) A keeper must identify all animals consigned for export in accordance with Articles 9 and 13 of this Order[^key-5225bbf96633aeac3dd5346434b7f908].
+(1) A keeper must identify all animals consigned for export in accordance with Articles 9 and 13 of this Order[^c-5225bbf96633aeac3dd5346434b7f908].
 
-(2)[^key-f5a5a6d0603ed87770f55c49f9937e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f5a5a6d0603ed87770f55c49f9937e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Reasonable assistance[^key-4136de5daba539424152299e96ba159c]
+### 32. Reasonable assistance[^c-4136de5daba539424152299e96ba159c]
 
 A person required to give reasonable assistance or information to a person acting under this Order shall, unless he has reasonable cause, do so without delay.
 
-### 33. Information to be furnished to an inspector[^key-64b7d50d7b9ba44aa145c12081057b3a]
+### 33. Information to be furnished to an inspector[^c-64b7d50d7b9ba44aa145c12081057b3a]
 
 (1) The keeper of an animal shall, on demand by an inspector, provide such information as he possesses as to—
 
@@ -464,7 +464,7 @@ A person required to give reasonable assistance or information to a person actin
 
 (2) Nothing in paragraph (1) shall be construed as requiring any person to provide any information if to so may incriminate him.
 
-### 34. Power to prohibit movement of animals[^key-bb41b49b480775275b2848ca597312a1]
+### 34. Power to prohibit movement of animals[^c-bb41b49b480775275b2848ca597312a1]
 
 (1) An inspector may, serve a notice on a keeper of a flock, prohibiting the movement of sheep onto or from the holding specified in the notice, if he is satisfied that the prohibition is necessary for the proper enforcement of this Order or the Council Regulation in relation to that flock.
 
@@ -472,18 +472,18 @@ A person required to give reasonable assistance or information to a person actin
 
 (3) A notice served under this article may be amended or revoked by further notice at any time.
 
-### 35. False information[^key-f2023b98eddb0017fe5add73c2bcc505]
+### 35. False information[^c-f2023b98eddb0017fe5add73c2bcc505]
 
 A person shall not furnish information which they know to be false or misleading to a person acting under this Order.
 
-### 36. Alteration of identification marks[^key-1c5601a01afa8a939baba036c66bc829]
+### 36. Alteration of identification marks[^c-1c5601a01afa8a939baba036c66bc829]
 
 (1) Subject to Articles 11 and 16 a person shall not tamper with, remove or deface, or cause or permit to be tampered with, removed or defaced any identification device or identification mark, or any information contained in or written on or attached to an animal under—
 
 - (a) the Council Regulation;
-- (b) this Order or any provisions which give effect to the identification of animals of the ovine or caprine species in England, Scotland or Wales; or[^key-9d790f847b02ca17d7dddd0aab923bb5]
-- (c) the previous Orders; [^key-4e6efebb518ee1f1bd7795097edd00a1]...
-- (d)[^key-3993b15771323932263e92e466aab5a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) this Order or any provisions which give effect to the identification of animals of the ovine or caprine species in England, Scotland or Wales; or[^c-9d790f847b02ca17d7dddd0aab923bb5]
+- (c) the previous Orders; [^c-4e6efebb518ee1f1bd7795097edd00a1]...
+- (d)[^c-3993b15771323932263e92e466aab5a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A person shall not—
 
@@ -497,11 +497,11 @@ A person shall not furnish information which they know to be false or misleading
 
 (3) For the purposes of this Article any reference to an “identification device or identification mark” includes any other means of identification attached to an animal under the Council Regulation or previous Orders.
 
-### 37. Export to Great Britain or Republic of Ireland[^key-68d696b7f3b88a28407a62f09f9ace96]
+### 37. Export to Great Britain or Republic of Ireland[^c-68d696b7f3b88a28407a62f09f9ace96]
 
 Any animal consigned for export to Great Britain or the Republic of Ireland shall be accompanied by a movement document and shall be identified in accordance with Article 9 in the case of a sheep and, in the case of a goat, Article 9 or Article 13.
 
-### 38. Common grazing[^key-ba4804aee51c74c2620b22fba752f802]
+### 38. Common grazing[^c-ba4804aee51c74c2620b22fba752f802]
 
 (1) When an animal moves to or from common grazing, the keeper shall—
 
@@ -509,7 +509,7 @@ Any animal consigned for export to Great Britain or the Republic of Ireland shal
 - (b) only move the animal from the common grazing to—
   - (i) the holding of origin; or
   - (ii) a slaughterhouse either directly or, via a collection centre; and
-- (c) subject to Article 22, complete a movement document with the information required by Article 50 of the Commission Regulation[^key-5171b67637356b50746876164005ba42] and send a copy to the Divisional Veterinary Office within 7 days of the movement except that a movement document is not required where the common grazing is immediately adjacent to the holding; and
+- (c) subject to Article 22, complete a movement document with the information required by Article 50 of the Commission Regulation[^c-5171b67637356b50746876164005ba42] and send a copy to the Divisional Veterinary Office within 7 days of the movement except that a movement document is not required where the common grazing is immediately adjacent to the holding; and
 - (d) subject to Article 18, record in his holding register the information required by Article 50 of the Commission Regulation within 7 days of the movement; or
 - (e) retain a duplicate or certified copy of the movement document where applicable and keep such duplicate or copy with the register in chronological order with any other movement documents retained and shall—
   - (i) record the date of movement and the number of animals moved in the holding register; and
@@ -517,15 +517,15 @@ Any animal consigned for export to Great Britain or the Republic of Ireland shal
 
 (2) For the purpose of this paragraph, “common grazing” means land on which the keeper has a right of grazing in common with other proprietors.
 
-### 39. Movement to or from the holding of origin for dipping or shearing[^key-4724d3c768ecaf22a14b469b3bc5d149]
+### 39. Movement to or from the holding of origin for dipping or shearing[^c-4724d3c768ecaf22a14b469b3bc5d149]
 
 When an animal leaves a holding for dipping or shearing or leaves the holding to which it was sent for dipping or shearing to return to the holding of origin, the keeper shall—
 
 - (a) identify the animal in accordance with this Order before it is moved for dipping or shearing;
 - (b) only move the animal from the holding to which it was sent for dipping or shearing directly to the holding that he brought it from or directly to slaughter; and
-- (c) subject to Article 18, record the move to or from the holding in his holding register including the information required by Article 50 of the Commission Regulation[^key-10e0701b5a2682bb0c8219313e5ed8db] within 7 days of the movement.
+- (c) subject to Article 18, record the move to or from the holding in his holding register including the information required by Article 50 of the Commission Regulation[^c-10e0701b5a2682bb0c8219313e5ed8db] within 7 days of the movement.
 
-### 40. Transitional Provisions[^key-d0ba74ec96595b9855a9c8ee26b67d66]
+### 40. Transitional Provisions[^c-d0ba74ec96595b9855a9c8ee26b67d66]
 
 (1) In accordance with Article 20 of the Commission Implementing Regulation, a keeper may continue to identify animals born before 21 April 2023 using the identification code prescribed by the Department at that time.
 
@@ -535,7 +535,7 @@ When an animal leaves a holding for dipping or shearing or leaves the holding to
 
 (4) Nothing in this Order shall prevent a person from applying an additional tag to an animal identified in accordance with paragraph (1) provided that the tag does not contain the letters “UK” or bear a flock number or herd number unless authorised by the Department.
 
-### 41. Revocations[^key-bfdeb24bf73316215b4bd2b90b7b6cb6]
+### 41. Revocations[^c-bfdeb24bf73316215b4bd2b90b7b6cb6]
 
 The Sheep and Goats (Records, Identification and Movement) Order (Northern Ireland) 2005 and The Sheep and Goats (Records, Identification and Movement) (Amendment) Order (Northern Ireland) 2006[^f00015] are hereby revoked.
 
@@ -577,35 +577,35 @@ Part X of the Order contains miscellaneous provisions including the requirements
 
 [^f00002]: Footnote: [S.I.1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115); The relevant amendments are [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17 and [S.I.1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Article 22 to 24
 
-[^key-b476ff51317043ea6cb39dd98238d3cf]: Commencement: Art. 1 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-b476ff51317043ea6cb39dd98238d3cf]: Commencement: Art. 1 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-bd80d6b05ee5dcfa62e32344f522c9cb]: Commencement: Art. 2 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-bd80d6b05ee5dcfa62e32344f522c9cb]: Commencement: Art. 2 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-3b1eab4b06a710fd5aafdca4dbe5c189]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) added (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/a)
+[^c-3b1eab4b06a710fd5aafdca4dbe5c189]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) added (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/a)
 
-[^key-38cd1bda0c98fecb643e11b3ae5c4705]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/b)
+[^c-38cd1bda0c98fecb643e11b3ae5c4705]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/b)
 
-[^key-d0fc81117b61ff9a7d8aacb6ae05cd98]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/c)
+[^c-d0fc81117b61ff9a7d8aacb6ae05cd98]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/c)
 
-[^key-140fb8329563ce2c50aed0534d35a015]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/d)
+[^c-140fb8329563ce2c50aed0534d35a015]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/d)
 
-[^key-5749638c76d57b5b5b49ab5950db7cc8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) inserted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(e)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/e)
+[^c-5749638c76d57b5b5b49ab5950db7cc8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) inserted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(e)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/e)
 
-[^key-49caccac1ef62ed51693892be157c40d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(f)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/f)
+[^c-49caccac1ef62ed51693892be157c40d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(f)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/f)
 
-[^key-83886758c31310716ef171cf200e4814]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(g)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/g)
+[^c-83886758c31310716ef171cf200e4814]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(g)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/g)
 
-[^key-84d9fe7530f8a6018e4dd2b1c3cedb3e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(h)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/h)
+[^c-84d9fe7530f8a6018e4dd2b1c3cedb3e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(h)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/h)
 
-[^key-c08b4af572873d7c5680f10bb8f491a1]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c08b4af572873d7c5680f10bb8f491a1]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: [S.R. 2003 No.495](https://www.legislation.gov.uk/nisr/2003/495) as amended by [S.R. 2006 No.202](https://www.legislation.gov.uk/nisr/2006/202)
 
-[^key-15b4259b2e11e3b928d8f66d1fcebd73]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(i)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/i)
+[^c-15b4259b2e11e3b928d8f66d1fcebd73]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(i)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/i)
 
-[^key-e4c9c87d7d45c094c0facc331bf58e11]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4c9c87d7d45c094c0facc331bf58e11]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-192010091068ac4ec9db676101e1075d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(j)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/j)
+[^c-192010091068ac4ec9db676101e1075d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/411/article/2/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(2)(j)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/2/j)
 
 [^f00007]: Footnote: [S.R. 1997 No.173](https://www.legislation.gov.uk/nisr/1997/173) as amended by [S.R.1998 No.393](https://www.legislation.gov.uk/nisr/1998/393) and revoked by [S.R. 2004 No.491](https://www.legislation.gov.uk/nisr/2004/491)
 
@@ -613,172 +613,172 @@ Part X of the Order contains miscellaneous provisions including the requirements
 
 [^f00009]: Footnote: [S.R. 2004 No.491](https://www.legislation.gov.uk/nisr/2004/491)
 
-[^key-b6a31315027197fa042f801c1384464b]: Commencement: Art. 3 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-b6a31315027197fa042f801c1384464b]: Commencement: Art. 3 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
 [^f00010]: Footnote: [S.R. 1998 No.279](https://www.legislation.gov.uk/nisr/1998/279) as amended by [S.R. 1999 No.324](https://www.legislation.gov.uk/nisr/1999/324) and [S.R. 2004 No.420](https://www.legislation.gov.uk/nisr/2004/420)
 
-[^key-8581b8d1462da0ce36a0092340846b7e]: Textual amendment: Words in [art. 3(1)(f)(ii)](https://www.legislation.gov.uk/nisr/2009/411/article/3/1/f/ii) substituted (19.3.2012) by virtue of [The Aujeszky's Disease Order (Northern Ireland) 2012 (S.R. 2012/65)](https://www.legislation.gov.uk/nisr/2012/65), [arts. 1](https://www.legislation.gov.uk/nisr/2012/65/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2012/65/article/27/4)
+[^c-8581b8d1462da0ce36a0092340846b7e]: Textual amendment: Words in [art. 3(1)(f)(ii)](https://www.legislation.gov.uk/nisr/2009/411/article/3/1/f/ii) substituted (19.3.2012) by virtue of [The Aujeszky's Disease Order (Northern Ireland) 2012 (S.R. 2012/65)](https://www.legislation.gov.uk/nisr/2012/65), [arts. 1](https://www.legislation.gov.uk/nisr/2012/65/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2012/65/article/27/4)
 
-[^key-796e469308a7663dd1181afac1a6abae]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/nisr/2009/411/article/3/5) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/3)
+[^c-796e469308a7663dd1181afac1a6abae]: Textual amendment: [Art. 3(5)](https://www.legislation.gov.uk/nisr/2009/411/article/3/5) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/3)
 
-[^key-87e85f171f79e22c96b00a695472dbe2]: Commencement: Art. 4 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-87e85f171f79e22c96b00a695472dbe2]: Commencement: Art. 4 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-b2acea0a089e7091f1b3edb73496ab79]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisr/2009/411/article/4/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/4)
+[^c-b2acea0a089e7091f1b3edb73496ab79]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisr/2009/411/article/4/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(4)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/4)
 
-[^key-8976af11bca8f964a2ebb67e635edfd7]: Commencement: Art. 5 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-8976af11bca8f964a2ebb67e635edfd7]: Commencement: Art. 5 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-2e56272399637ca23060d44aa31e422c]: Commencement: Art. 6 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-2e56272399637ca23060d44aa31e422c]: Commencement: Art. 6 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-625e1a28aedd6d11c38864adf2f0dd4e]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/nisr/2009/411/article/6/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/5)
+[^c-625e1a28aedd6d11c38864adf2f0dd4e]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/nisr/2009/411/article/6/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/5)
 
-[^key-95ff571a3e956afe0180dfbda4f6c3c5]: Commencement: Art. 7 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-95ff571a3e956afe0180dfbda4f6c3c5]: Commencement: Art. 7 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-8a1981cf551de533f430d060e02238e3]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/nisr/2009/411/article/7/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(6)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/6)
+[^c-8a1981cf551de533f430d060e02238e3]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/nisr/2009/411/article/7/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(6)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/6)
 
-[^key-0f9323ba196d854bb253a4a5b83561b2]: Commencement: Art. 8 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-0f9323ba196d854bb253a4a5b83561b2]: Commencement: Art. 8 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-3db33c8340023628483b49651a96d973]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/nisr/2009/411/article/8/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(7)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/7)
+[^c-3db33c8340023628483b49651a96d973]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/nisr/2009/411/article/8/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(7)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/7)
 
-[^key-736fd82dd4399d98d57403a10f9ef57a]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/nisr/2009/411/part/III) Title substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(8)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/8)
+[^c-736fd82dd4399d98d57403a10f9ef57a]: Textual amendment: [Pt. III](https://www.legislation.gov.uk/nisr/2009/411/part/III) Title substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(8)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/8)
 
-[^key-6c7af1c48843fb7f6e3144f7a2a4fc57]: Commencement: Art. 9 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-6c7af1c48843fb7f6e3144f7a2a4fc57]: Commencement: Art. 9 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-ccd1d68bdf46540a9e99677344763a4d]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisr/2009/411/article/9) heading substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(8)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/8)
+[^c-ccd1d68bdf46540a9e99677344763a4d]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisr/2009/411/article/9) heading substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(8)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/8)
 
-[^key-e3d124f03f97feb97effe1ede8f1504b]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/nisr/2009/411/article/9/1) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/a)
+[^c-e3d124f03f97feb97effe1ede8f1504b]: Textual amendment: [Art. 9(1)](https://www.legislation.gov.uk/nisr/2009/411/article/9/1) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/a)
 
-[^key-e0fba12d75a62e6686a3e569a73b866b]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/nisr/2009/411/article/9/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/b)
+[^c-e0fba12d75a62e6686a3e569a73b866b]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/nisr/2009/411/article/9/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/b)
 
-[^key-6a2ec6f3b1a7173bf65ddac6ca6371e5]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/nisr/2009/411/article/9/3) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/c)
+[^c-6a2ec6f3b1a7173bf65ddac6ca6371e5]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/nisr/2009/411/article/9/3) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/c)
 
-[^key-2d91453b6542d54d5cc1fc35b979ad60]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/nisr/2009/411/article/9/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/d)
+[^c-2d91453b6542d54d5cc1fc35b979ad60]: Textual amendment: Words in [art. 9(4)](https://www.legislation.gov.uk/nisr/2009/411/article/9/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/d)
 
-[^key-83f84fee4b6d3f4a9b3ce7d0c8b0fdb9]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/nisr/2009/411/article/9/5) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(e)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/e)
+[^c-83f84fee4b6d3f4a9b3ce7d0c8b0fdb9]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/nisr/2009/411/article/9/5) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(9)(e)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/9/e)
 
-[^key-d69d5fe16744b69e0046fb42ff19a794]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/nisr/2009/411/article/10) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(10)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/10)
+[^c-d69d5fe16744b69e0046fb42ff19a794]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/nisr/2009/411/article/10) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(10)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/10)
 
-[^key-df4e0ccc69c3db5b235b846e2116c5f1]: Commencement: Art. 11 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-df4e0ccc69c3db5b235b846e2116c5f1]: Commencement: Art. 11 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-8de4c35cf9e72287c5632237343b4b34]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisr/2009/411/article/11/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(11)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/11)
+[^c-8de4c35cf9e72287c5632237343b4b34]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisr/2009/411/article/11/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(11)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/11)
 
-[^key-8ebfef8e048868e301a744b19e1f878c]: Commencement: Art. 12 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-8ebfef8e048868e301a744b19e1f878c]: Commencement: Art. 12 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-83fa96a00c49f4d1a9074db1380902de]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/nisr/2009/411/article/12/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(12)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/12)
+[^c-83fa96a00c49f4d1a9074db1380902de]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/nisr/2009/411/article/12/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(12)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/12)
 
-[^key-6e55765224a712e1c7d3cd8dde5bc696]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/nisr/2009/411/part/IV) Title substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(13)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/13)
+[^c-6e55765224a712e1c7d3cd8dde5bc696]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/nisr/2009/411/part/IV) Title substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(13)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/13)
 
-[^key-d47b2dd3a7de966f465cbe13506f30b2]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/nisr/2009/411/article/13) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(14)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/14)
+[^c-d47b2dd3a7de966f465cbe13506f30b2]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/nisr/2009/411/article/13) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(14)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/14)
 
-[^key-763b60aef06b553b36492a7c0ccc52a6]: Commencement: Art. 14 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-763b60aef06b553b36492a7c0ccc52a6]: Commencement: Art. 14 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-2d9095381ec54ffc30d8d3d77c624b25]: Commencement: Art. 15 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-2d9095381ec54ffc30d8d3d77c624b25]: Commencement: Art. 15 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-968d6cab549cfc19d23909e303e9a4f3]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisr/2009/411/part/V) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(15)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/15)
+[^c-968d6cab549cfc19d23909e303e9a4f3]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisr/2009/411/part/V) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(15)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/15)
 
-[^key-ebcfc534bea3795c2c7302ae34d08818]: Commencement: Art. 17 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-ebcfc534bea3795c2c7302ae34d08818]: Commencement: Art. 17 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-cec722a218e0bd7ad3b3719c94085636]: Textual amendment: Words in [art. 17(1)](https://www.legislation.gov.uk/nisr/2009/411/article/17/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/a)
+[^c-cec722a218e0bd7ad3b3719c94085636]: Textual amendment: Words in [art. 17(1)](https://www.legislation.gov.uk/nisr/2009/411/article/17/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/a)
 
-[^key-07534d558a4bec27ad64ba5cec36e96f]: Textual amendment: Words in [art. 17(2)(a)](https://www.legislation.gov.uk/nisr/2009/411/article/17/2/a) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/b)
+[^c-07534d558a4bec27ad64ba5cec36e96f]: Textual amendment: Words in [art. 17(2)(a)](https://www.legislation.gov.uk/nisr/2009/411/article/17/2/a) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/b)
 
-[^key-ea05ffe1021f6fb244a98b3507c74182]: Textual amendment: Words in [art. 17(4)](https://www.legislation.gov.uk/nisr/2009/411/article/17/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/c)
+[^c-ea05ffe1021f6fb244a98b3507c74182]: Textual amendment: Words in [art. 17(4)](https://www.legislation.gov.uk/nisr/2009/411/article/17/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/c)
 
-[^key-3ed62aa398bebf16e70e19cf8351ad32]: Textual amendment: Words in [art. 17(6)](https://www.legislation.gov.uk/nisr/2009/411/article/17/6) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/d)
+[^c-3ed62aa398bebf16e70e19cf8351ad32]: Textual amendment: Words in [art. 17(6)](https://www.legislation.gov.uk/nisr/2009/411/article/17/6) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(16)(d)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/16/d)
 
-[^key-60661a0f1d991358556b542c7135b9bd]: Commencement: Art. 18 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-60661a0f1d991358556b542c7135b9bd]: Commencement: Art. 18 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-78e9111d13d14cb86a7314d0033dd3f3]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/nisr/2009/411/article/18) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(17)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/17/a)
+[^c-78e9111d13d14cb86a7314d0033dd3f3]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/nisr/2009/411/article/18) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(17)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/17/a)
 
-[^key-7d4e8c0bb91dde46b9e2ed68c48469a0]: Textual amendment: Words in [art. 18(b)](https://www.legislation.gov.uk/nisr/2009/411/article/18/b) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(17)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/17/b)
+[^c-7d4e8c0bb91dde46b9e2ed68c48469a0]: Textual amendment: Words in [art. 18(b)](https://www.legislation.gov.uk/nisr/2009/411/article/18/b) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(17)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/17/b)
 
-[^key-b9fdd8a021848a1cb0d6b00b7b50d298]: Commencement: Art. 19 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-b9fdd8a021848a1cb0d6b00b7b50d298]: Commencement: Art. 19 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-a1a79b316f18aaba249294feecce805b]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisr/2009/411/article/19/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(18)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/18)
+[^c-a1a79b316f18aaba249294feecce805b]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisr/2009/411/article/19/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(18)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/18)
 
-[^key-81919909d2be813632b87dfc0726b7e3]: Commencement: Art. 20 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-81919909d2be813632b87dfc0726b7e3]: Commencement: Art. 20 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-239cf28e4b021e8566ab2b815c682c75]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisr/2009/411/article/20/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(a)(i)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/a/i)
+[^c-239cf28e4b021e8566ab2b815c682c75]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisr/2009/411/article/20/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(a)(i)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/a/i)
 
-[^key-db4539693b0d9ba769d9139d9f9a051c]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisr/2009/411/article/20/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/a/ii)
+[^c-db4539693b0d9ba769d9139d9f9a051c]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisr/2009/411/article/20/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/a/ii)
 
-[^key-f199a2f6c173b648dac5bea3273308c2]: Textual amendment: Words in [art. 20(4)](https://www.legislation.gov.uk/nisr/2009/411/article/20/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/b)
+[^c-f199a2f6c173b648dac5bea3273308c2]: Textual amendment: Words in [art. 20(4)](https://www.legislation.gov.uk/nisr/2009/411/article/20/4) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/b)
 
-[^key-34a25ff759f97d0b0d97dafdc99b2213]: Textual amendment: Words in [art. 20(5)](https://www.legislation.gov.uk/nisr/2009/411/article/20/5) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/c)
+[^c-34a25ff759f97d0b0d97dafdc99b2213]: Textual amendment: Words in [art. 20(5)](https://www.legislation.gov.uk/nisr/2009/411/article/20/5) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(19)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/19/c)
 
-[^key-c4519138c8b333cbb5ac010d766f46b1]: Commencement: Art. 21 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-c4519138c8b333cbb5ac010d766f46b1]: Commencement: Art. 21 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-8b19df143d2f5119a8f80abf2f37c647]: Commencement: Art. 22 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-8b19df143d2f5119a8f80abf2f37c647]: Commencement: Art. 22 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-d96d62fcb6eb745bc512cebae5be2a4d]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/nisr/2009/411/article/22/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(20)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/20)
+[^c-d96d62fcb6eb745bc512cebae5be2a4d]: Textual amendment: Words in [art. 22(1)](https://www.legislation.gov.uk/nisr/2009/411/article/22/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(20)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/20)
 
-[^key-279f11e153fa6fc1e1fc1346707204aa]: Commencement: Art. 23 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-279f11e153fa6fc1e1fc1346707204aa]: Commencement: Art. 23 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-e5350399a6cd51e7094e59a9057f9dab]: Commencement: Art. 24 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-e5350399a6cd51e7094e59a9057f9dab]: Commencement: Art. 24 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-19b6630feefcc3ecdd70d9f7fa662e3e]: Commencement: Art. 25 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-19b6630feefcc3ecdd70d9f7fa662e3e]: Commencement: Art. 25 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-2977955b54f6835a8b21c9f3bf5c8d8c]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/nisr/2009/411/article/25) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(21)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/21)
+[^c-2977955b54f6835a8b21c9f3bf5c8d8c]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/nisr/2009/411/article/25) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(21)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/21)
 
-[^key-2e56d53034cd0a357619dba4f59302a4]: Commencement: Art. 26 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-2e56d53034cd0a357619dba4f59302a4]: Commencement: Art. 26 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-702bb1d5518161ad263b0fb8cef195f6]: Commencement: Art. 27 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-702bb1d5518161ad263b0fb8cef195f6]: Commencement: Art. 27 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-a9f8bc4027b967820e4c4f4ef35e424b]: Textual amendment: Word in [art. 27](https://www.legislation.gov.uk/nisr/2009/411/article/27) heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9f8bc4027b967820e4c4f4ef35e424b]: Textual amendment: Word in [art. 27](https://www.legislation.gov.uk/nisr/2009/411/article/27) heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec7863e7a8e31a3e0aa9b47aba0a5832]: Textual amendment: [Art. 27(1)](https://www.legislation.gov.uk/nisr/2009/411/article/27/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(22)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/22/a)
+[^c-ec7863e7a8e31a3e0aa9b47aba0a5832]: Textual amendment: [Art. 27(1)](https://www.legislation.gov.uk/nisr/2009/411/article/27/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(22)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/22/a)
 
-[^key-6e6e81cb02905483c0a34e5bbc94958d]: Textual amendment: Word in [art. 27(2)](https://www.legislation.gov.uk/nisr/2009/411/article/27/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e6e81cb02905483c0a34e5bbc94958d]: Textual amendment: Word in [art. 27(2)](https://www.legislation.gov.uk/nisr/2009/411/article/27/2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/157)](https://www.legislation.gov.uk/uksi/2019/157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/157/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/157/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-157b46e3df7a0885bbdcd41f95f18a62]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisr/2009/411/article/27/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(22)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/22/b)
+[^c-157b46e3df7a0885bbdcd41f95f18a62]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisr/2009/411/article/27/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(22)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/22/b)
 
-[^key-818bad1fe0a65e846b51922bb9bb4ab2]: Commencement: Art. 28 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-818bad1fe0a65e846b51922bb9bb4ab2]: Commencement: Art. 28 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-1f62d7f020b64953101f6b9c19e69119]: Commencement: Art. 29 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-1f62d7f020b64953101f6b9c19e69119]: Commencement: Art. 29 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-c6b7cd4572ed1a53b67189d95d6e75e2]: Textual amendment: Words in [art. 29(1)](https://www.legislation.gov.uk/nisr/2009/411/article/29/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(23)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/23/a)
+[^c-c6b7cd4572ed1a53b67189d95d6e75e2]: Textual amendment: Words in [art. 29(1)](https://www.legislation.gov.uk/nisr/2009/411/article/29/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(23)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/23/a)
 
-[^key-3de93ebf6f421988023fe0c36a82b48e]: Textual amendment: [Art. 29(2)](https://www.legislation.gov.uk/nisr/2009/411/article/29/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(23)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/23/b)
+[^c-3de93ebf6f421988023fe0c36a82b48e]: Textual amendment: [Art. 29(2)](https://www.legislation.gov.uk/nisr/2009/411/article/29/2) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(23)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/23/b)
 
-[^key-8a20839f93cec34647d5d1fa5c1d735f]: Textual amendment: [Art. 29(3)](https://www.legislation.gov.uk/nisr/2009/411/article/29/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(23)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/23/c)
+[^c-8a20839f93cec34647d5d1fa5c1d735f]: Textual amendment: [Art. 29(3)](https://www.legislation.gov.uk/nisr/2009/411/article/29/3) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(23)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/23/c)
 
-[^key-12c45f67c98bc0c3f511f5e7e076db0b]: Commencement: Art. 30 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-12c45f67c98bc0c3f511f5e7e076db0b]: Commencement: Art. 30 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-78142c1ef0ba18407012a0af9fd5c595]: Textual amendment: Words in [art. 30](https://www.legislation.gov.uk/nisr/2009/411/article/30) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(24)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/24)
+[^c-78142c1ef0ba18407012a0af9fd5c595]: Textual amendment: Words in [art. 30](https://www.legislation.gov.uk/nisr/2009/411/article/30) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(24)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/24)
 
-[^key-8a121f8b43e8e8f5b896232df04a5351]: Commencement: Art. 31 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-8a121f8b43e8e8f5b896232df04a5351]: Commencement: Art. 31 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-5225bbf96633aeac3dd5346434b7f908]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/nisr/2009/411/article/31/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(25)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/25)
+[^c-5225bbf96633aeac3dd5346434b7f908]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/nisr/2009/411/article/31/1) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(25)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/25)
 
-[^key-f5a5a6d0603ed87770f55c49f9937e0e]: Textual amendment: [Art. 31(2)](https://www.legislation.gov.uk/nisr/2009/411/article/31/2) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(26)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/26)
+[^c-f5a5a6d0603ed87770f55c49f9937e0e]: Textual amendment: [Art. 31(2)](https://www.legislation.gov.uk/nisr/2009/411/article/31/2) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(26)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/26)
 
-[^key-4136de5daba539424152299e96ba159c]: Commencement: Art. 32 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-4136de5daba539424152299e96ba159c]: Commencement: Art. 32 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-64b7d50d7b9ba44aa145c12081057b3a]: Commencement: Art. 33 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-64b7d50d7b9ba44aa145c12081057b3a]: Commencement: Art. 33 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-bb41b49b480775275b2848ca597312a1]: Commencement: Art. 34 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-bb41b49b480775275b2848ca597312a1]: Commencement: Art. 34 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-f2023b98eddb0017fe5add73c2bcc505]: Commencement: Art. 35 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-f2023b98eddb0017fe5add73c2bcc505]: Commencement: Art. 35 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-1c5601a01afa8a939baba036c66bc829]: Commencement: Art. 36 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-1c5601a01afa8a939baba036c66bc829]: Commencement: Art. 36 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-9d790f847b02ca17d7dddd0aab923bb5]: Textual amendment: Words in [art. 36(1)(b)](https://www.legislation.gov.uk/nisr/2009/411/article/36/1/b) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(27)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/27/a)
+[^c-9d790f847b02ca17d7dddd0aab923bb5]: Textual amendment: Words in [art. 36(1)(b)](https://www.legislation.gov.uk/nisr/2009/411/article/36/1/b) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(27)(a)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/27/a)
 
-[^key-4e6efebb518ee1f1bd7795097edd00a1]: Textual amendment: Word in [art. 36(1)(c)](https://www.legislation.gov.uk/nisr/2009/411/article/36/1/c) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(27)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/27/b)
+[^c-4e6efebb518ee1f1bd7795097edd00a1]: Textual amendment: Word in [art. 36(1)(c)](https://www.legislation.gov.uk/nisr/2009/411/article/36/1/c) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(27)(b)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/27/b)
 
-[^key-3993b15771323932263e92e466aab5a9]: Textual amendment: [Art. 36(1)(d)](https://www.legislation.gov.uk/nisr/2009/411/article/36/1/d) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(27)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/27/c)
+[^c-3993b15771323932263e92e466aab5a9]: Textual amendment: [Art. 36(1)(d)](https://www.legislation.gov.uk/nisr/2009/411/article/36/1/d) omitted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(27)(c)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/27/c)
 
-[^key-68d696b7f3b88a28407a62f09f9ace96]: Textual amendment: [Art. 37](https://www.legislation.gov.uk/nisr/2009/411/article/37) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(28)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/28)
+[^c-68d696b7f3b88a28407a62f09f9ace96]: Textual amendment: [Art. 37](https://www.legislation.gov.uk/nisr/2009/411/article/37) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(28)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/28)
 
-[^key-ba4804aee51c74c2620b22fba752f802]: Commencement: Art. 38 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-ba4804aee51c74c2620b22fba752f802]: Commencement: Art. 38 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-5171b67637356b50746876164005ba42]: Textual amendment: Words in [art. 38(c)](https://www.legislation.gov.uk/nisr/2009/411/article/38/c)[(d)](https://www.legislation.gov.uk/nisr/2009/411/article/38/d) substituted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(29)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/29)
+[^c-5171b67637356b50746876164005ba42]: Textual amendment: Words in [art. 38(c)](https://www.legislation.gov.uk/nisr/2009/411/article/38/c)[(d)](https://www.legislation.gov.uk/nisr/2009/411/article/38/d) substituted (24.1.2025) by virtue of [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(29)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/29)
 
-[^key-4724d3c768ecaf22a14b469b3bc5d149]: Commencement: Art. 39 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-4724d3c768ecaf22a14b469b3bc5d149]: Commencement: Art. 39 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
-[^key-10e0701b5a2682bb0c8219313e5ed8db]: Textual amendment: Words in [art. 39(c)](https://www.legislation.gov.uk/nisr/2009/411/article/39/c) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(30)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/30)
+[^c-10e0701b5a2682bb0c8219313e5ed8db]: Textual amendment: Words in [art. 39(c)](https://www.legislation.gov.uk/nisr/2009/411/article/39/c) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(30)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/30)
 
-[^key-d0ba74ec96595b9855a9c8ee26b67d66]: Textual amendment: [Art. 40](https://www.legislation.gov.uk/nisr/2009/411/article/40) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(31)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/31)
+[^c-d0ba74ec96595b9855a9c8ee26b67d66]: Textual amendment: [Art. 40](https://www.legislation.gov.uk/nisr/2009/411/article/40) substituted (24.1.2025) by [The Animals (Identification, Records, Movement and Enforcement) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/11)](https://www.legislation.gov.uk/nisr/2025/11), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/11/regulation/1/1), [6(31)](https://www.legislation.gov.uk/nisr/2025/11/regulation/6/31)
 
-[^key-bfdeb24bf73316215b4bd2b90b7b6cb6]: Commencement: Art. 41 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
+[^c-bfdeb24bf73316215b4bd2b90b7b6cb6]: Commencement: Art. 41 in operation at 31.12.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/411/article/1)
 
 [^f00015]: Footnote: [S.R. 2006 No.508](https://www.legislation.gov.uk/nisr/2006/508)

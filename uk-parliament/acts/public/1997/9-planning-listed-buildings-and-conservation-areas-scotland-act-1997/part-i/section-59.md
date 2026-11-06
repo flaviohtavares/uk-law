@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-554d415e87c1ae6c61fa2324f16398ec] In considering whether to grant planning permission for development which affects a listed building or its setting, a planning authority or the Secretary of State, as the case may be, shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
+(1)[^c-554d415e87c1ae6c61fa2324f16398ec] In considering whether to grant planning permission for development which affects a listed building or its setting, a planning authority or the Secretary of State, as the case may be, shall have special regard to the desirability of preserving the building or its setting or any features of special architectural or historic interest which it possesses.
 
 (2) Without prejudice to section 64, in the exercise of the powers of disposal and development conferred by the provisions of sections 191 and 193 of the principal Act, a planning authority shall have regard to the desirability of preserving features of special architectural or historic interest and, in particular, listed buildings.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-554d415e87c1ae6c61fa2324f16398ec]: Modification: [S. 59(1)](https://www.legislation.gov.uk/ukpga/1997/9/section/59/1) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-554d415e87c1ae6c61fa2324f16398ec]: Modification: [S. 59(1)](https://www.legislation.gov.uk/ukpga/1997/9/section/59/1) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Notification and provision of report to the regulator[^key-312a884221ee4672607e3f5110606a5d][^key-428f59eb651aed523e380e3e17263933]
+## 86. Notification and provision of report to the regulator[^c-312a884221ee4672607e3f5110606a5d][^c-428f59eb651aed523e380e3e17263933]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-312a884221ee4672607e3f5110606a5d]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-312a884221ee4672607e3f5110606a5d]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-428f59eb651aed523e380e3e17263933]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2022/30/section/86) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/h)
+[^c-428f59eb651aed523e380e3e17263933]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2022/30/section/86) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/h)

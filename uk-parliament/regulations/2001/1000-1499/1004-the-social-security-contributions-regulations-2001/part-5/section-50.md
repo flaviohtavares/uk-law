@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Class 3 contributions not paid within prescribed periods[^key-5d6ff44eb530b8c5cc994ebb9e878e37]
+## 50. Class 3 contributions not paid within prescribed periods[^c-5d6ff44eb530b8c5cc994ebb9e878e37]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the contributor may pay the contribution within such further period as an office
 
 ## Annotations
 
-[^key-5d6ff44eb530b8c5cc994ebb9e878e37]: Textual amendment: Reg. 50 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [7](https://www.legislation.gov.uk/uksi/2002/2366/regulation/7)
+[^c-5d6ff44eb530b8c5cc994ebb9e878e37]: Textual amendment: Reg. 50 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [7](https://www.legislation.gov.uk/uksi/2002/2366/regulation/7)

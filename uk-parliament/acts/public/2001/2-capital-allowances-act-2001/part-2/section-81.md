@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Extended meaning of “car”[^key-84556eff7ca30e447a89642d21fe95d7]
+## 81. Extended meaning of “car”[^c-84556eff7ca30e447a89642d21fe95d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84556eff7ca30e447a89642d21fe95d7]: Textual amendment: S. 81 omitted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/5) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30), [68](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/68))
+[^c-84556eff7ca30e447a89642d21fe95d7]: Textual amendment: S. 81 omitted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/5) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30), [68](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/68))

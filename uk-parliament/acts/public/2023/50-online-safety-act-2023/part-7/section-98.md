@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. OFCOM’s register of risks, and risk profiles, of Part 3 services[^key-2b34332aca59d1b07d14d2337e7b1906]
+## 98. OFCOM’s register of risks, and risk profiles, of Part 3 services[^c-2b34332aca59d1b07d14d2337e7b1906]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b34332aca59d1b07d14d2337e7b1906]: Commencement: S. 98 in force at Royal Assent, see [s. 240(4)(q)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/q)
+[^c-2b34332aca59d1b07d14d2337e7b1906]: Commencement: S. 98 in force at Royal Assent, see [s. 240(4)(q)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/q)

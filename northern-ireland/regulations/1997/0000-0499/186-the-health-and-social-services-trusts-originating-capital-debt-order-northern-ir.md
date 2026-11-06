@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1997 (revoked)[^key-9276e58ccc98123b6dd91fe348e6c849]
+The Health and Social Services Trusts (Originating Capital Debt) Order (Northern Ireland) 1997 (revoked)[^c-9276e58ccc98123b6dd91fe348e6c849]
 
 Made
 
@@ -40,23 +40,23 @@ Coming into operation
 
 28th March 1997
 
-[^key-9276e58ccc98123b6dd91fe348e6c849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9276e58ccc98123b6dd91fe348e6c849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9276e58ccc98123b6dd91fe348e6c849]
+## 1. Citation and commencement[^c-9276e58ccc98123b6dd91fe348e6c849]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Originating capital debt of HSS Trusts[^key-9276e58ccc98123b6dd91fe348e6c849]
+## 2. Originating capital debt of HSS Trusts[^c-9276e58ccc98123b6dd91fe348e6c849]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9276e58ccc98123b6dd91fe348e6c849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9276e58ccc98123b6dd91fe348e6c849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Originating Capital Debts[^key-9276e58ccc98123b6dd91fe348e6c849]
+## SCHEDULE — Originating Capital Debts[^c-9276e58ccc98123b6dd91fe348e6c849]
 
 Article 2
 
@@ -64,8 +64,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-9276e58ccc98123b6dd91fe348e6c849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9276e58ccc98123b6dd91fe348e6c849]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9276e58ccc98123b6dd91fe348e6c849]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/186) revoked (21.3.2008) by [The Health and Social Services Trusts (Originating Capital) Order (Northern Ireland) 2008 (S.R. 2008/142)](https://www.legislation.gov.uk/nisr/2008/142), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/142/schedule/2)
+[^c-9276e58ccc98123b6dd91fe348e6c849]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/186) revoked (21.3.2008) by [The Health and Social Services Trusts (Originating Capital) Order (Northern Ireland) 2008 (S.R. 2008/142)](https://www.legislation.gov.uk/nisr/2008/142), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/142/schedule/2)

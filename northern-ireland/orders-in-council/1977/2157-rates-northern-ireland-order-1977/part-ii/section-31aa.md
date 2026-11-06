@@ -56,7 +56,7 @@ summary: ''
 
 (6) For the purposes of paragraph (5)—
 
-- (a) a relationship by marriage or civil partnership[^key-15ff55f9a2cfd27103dda8f5cd57fcc7] shall be treated as a relationship by blood;
+- (a) a relationship by marriage or civil partnership[^c-15ff55f9a2cfd27103dda8f5cd57fcc7] shall be treated as a relationship by blood;
 - (b) a relationship of the half-blood shall be treated as a relationship of the whole blood; and
 - (c) the stepchild of a person shall be treated as his child.
 
@@ -81,4 +81,4 @@ summary: ''
 
 [^c19574351]: Textual amendment: Art. 31AA inserted (1.4.2007) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [24](https://www.legislation.gov.uk/nisi/2006/2954/article/24); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(4)](https://www.legislation.gov.uk/nisr/2006/464/article/2/4)
 
-[^key-15ff55f9a2cfd27103dda8f5cd57fcc7]: Textual amendment: Words in [art. 31AA(6)(a)](https://www.legislation.gov.uk/nisi/1977/2157/article/31AA/6/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [135(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/135/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-15ff55f9a2cfd27103dda8f5cd57fcc7]: Textual amendment: Words in [art. 31AA(6)(a)](https://www.legislation.gov.uk/nisi/1977/2157/article/31AA/6/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [135(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/135/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

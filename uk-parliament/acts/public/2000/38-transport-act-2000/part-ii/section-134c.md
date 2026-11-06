@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134C. Advanced ticketing schemes[^key-2850519bb6ef94e31a825d5132bc4dc8][^key-c05adb8597f2acc398b3fefbd54794ff][^key-e31b873c69e07bc52340dd07efdc0caf][^key-b863e35f898868fa9c87b93bf3406698]
+## 134C. Advanced ticketing schemes[^c-2850519bb6ef94e31a825d5132bc4dc8][^c-c05adb8597f2acc398b3fefbd54794ff][^c-e31b873c69e07bc52340dd07efdc0caf][^c-b863e35f898868fa9c87b93bf3406698]
 
 *Extent: E+W*
 
-(1)[^key-eae0a974fecd58bba0495870ca46e465] A local transport authority whose area is in England, or two or more such authorities acting jointly, may make a ticketing scheme (an “advanced ticketing scheme”) covering the whole or any part of their area, or combined area, if they consider that the proposed scheme—
+(1)[^c-eae0a974fecd58bba0495870ca46e465] A local transport authority whose area is in England, or two or more such authorities acting jointly, may make a ticketing scheme (an “advanced ticketing scheme”) covering the whole or any part of their area, or combined area, if they consider that the proposed scheme—
 
 - (a) would be in the interests of the public, and
 - (b) would contribute to the implementation of their local transport policies.
@@ -68,14 +68,14 @@ summary: ''
 
 ## Annotations
 
-[^key-2850519bb6ef94e31a825d5132bc4dc8]: Modification: [Ss. 134C-138](https://www.legislation.gov.uk/ukpga/2000/38/section/134C): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/6)
+[^c-2850519bb6ef94e31a825d5132bc4dc8]: Modification: [Ss. 134C-138](https://www.legislation.gov.uk/ukpga/2000/38/section/134C): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/6)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-e31b873c69e07bc52340dd07efdc0caf]: Textual amendment: Ss. 134C-134G and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2017/21/section/7), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-e31b873c69e07bc52340dd07efdc0caf]: Textual amendment: Ss. 134C-134G and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2017/21/section/7), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-b863e35f898868fa9c87b93bf3406698]: Modification: S. 134C: power to modify conferred (27.4.2017) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/24/3), [26(1)(b)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/1/b)
+[^c-b863e35f898868fa9c87b93bf3406698]: Modification: S. 134C: power to modify conferred (27.4.2017) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/24/3), [26(1)(b)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/1/b)
 
-[^key-eae0a974fecd58bba0495870ca46e465]: Modification: S. 134C(1) functions made exercisable concurrently (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2018/103/regulation/7/1/a)
+[^c-eae0a974fecd58bba0495870ca46e465]: Modification: S. 134C(1) functions made exercisable concurrently (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2018/103/regulation/7/1/a)
 
 [^M_C_3ee71d28-2878-4743-be09-145263ee1e6c]: Modification: S.134C(9)-(11) applied (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), regs. 1(2), 7(3)(a)

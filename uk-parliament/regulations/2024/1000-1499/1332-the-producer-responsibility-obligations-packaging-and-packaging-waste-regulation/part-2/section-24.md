@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Threshold criteria: large and small producers[^key-858d6c7e75cde72a49babcf01ca77ee4]
+## 24. Threshold criteria: large and small producers[^c-858d6c7e75cde72a49babcf01ca77ee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) Where the person (“**CB**”) is a body corporate resulting from the merger of two or more bodies corporate—
 
 - (a) CB’s turnover in the financial year in which the merger took place, and in any subsequent financial year if no audited accounts are yet available for CB, is to be calculated for the purposes of this regulation as the sum of the turnovers of each merged body corporate in the last financial year ending before the merger for which audited accounts are available;
-- (b)[^key-221bc162bdee09da103c21f69edc7c4d] the amount of packaging which CB is to be treated as supplying in the calendar year in which the merger took place is to be calculated in accordance with regulation 27A(4);
+- (b)[^c-221bc162bdee09da103c21f69edc7c4d] the amount of packaging which CB is to be treated as supplying in the calendar year in which the merger took place is to be calculated in accordance with regulation 27A(4);
 
 (4) Where the assets and liabilities of a body corporate (“**CB**”) have been divided between two or more bodies corporate (“new bodies”)—
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-858d6c7e75cde72a49babcf01ca77ee4]: Commencement: Reg. 24 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-858d6c7e75cde72a49babcf01ca77ee4]: Commencement: Reg. 24 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-221bc162bdee09da103c21f69edc7c4d]: Textual amendment: [Reg. 24(3)(b)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/24/3/b) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-221bc162bdee09da103c21f69edc7c4d]: Textual amendment: [Reg. 24(3)(b)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/24/3/b) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

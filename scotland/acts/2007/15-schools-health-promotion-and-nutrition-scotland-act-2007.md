@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Health promotion
 
-### 1. Duties in relation to promotion of health[^key-6ff536a33e54b412a70ea9bdba94a273]
+### 1. Duties in relation to promotion of health[^c-6ff536a33e54b412a70ea9bdba94a273]
 
 After section 2 of the 2000 Act insert—
 
@@ -72,7 +72,7 @@ After section 2 of the 2000 Act insert—
 
 .
 
-### 2. Annual statement: account of health promotion[^key-14a86d02ef2142939b54144c6b0f5d3c]
+### 2. Annual statement: account of health promotion[^c-14a86d02ef2142939b54144c6b0f5d3c]
 
 In section 5 of the 2000 Act (education authority's annual statement of education improvement objectives)—
 
@@ -85,7 +85,7 @@ In section 5 of the 2000 Act (education authority's annual statement of educatio
 
 ## Food and drink
 
-### 3. Food and drink: nutritional requirements[^key-b7c1b269c937047bdf014a053d7eca52][^key-42195445c5bb1f00c79f4ac96b30c8b8]
+### 3. Food and drink: nutritional requirements[^c-b7c1b269c937047bdf014a053d7eca52][^c-42195445c5bb1f00c79f4ac96b30c8b8]
 
 After section 56 of the 1980 Act insert—
 
@@ -151,7 +151,7 @@ After section 56 of the 1980 Act insert—
 
 .
 
-### 4. Regulations specifying nutritional requirements: procedure[^key-c004cbaac79a01b106519518cf499229]
+### 4. Regulations specifying nutritional requirements: procedure[^c-c004cbaac79a01b106519518cf499229]
 
 In section 133 of the 1980 Act (regulations)—
 
@@ -162,7 +162,7 @@ In section 133 of the 1980 Act (regulations)—
 
   .
 
-### 5. Education authorities' arrangements with independent schools[^key-269b14b0c1025bbf2da2db26bc4ee175]
+### 5. Education authorities' arrangements with independent schools[^c-269b14b0c1025bbf2da2db26bc4ee175]
 
 (1) In section 49 of the 1980 Act (power to assist persons to take advantage of educational facilities), after subsection (2) insert—
 
@@ -194,7 +194,7 @@ In section 133 of the 1980 Act (regulations)—
 
 .
 
-### 6. School meals and snacks[^key-7f0f487b26ee75b7974b9def07cced39]
+### 6. School meals and snacks[^c-7f0f487b26ee75b7974b9def07cced39]
 
 (1) Section 53 of the 1980 Act (provision of school meals) is amended as follows.
 
@@ -231,7 +231,7 @@ In section 133 of the 1980 Act (regulations)—
 
 .
 
-### 7. Promotion of school lunches[^key-25b2287f16ce59485a922681567cfa94]
+### 7. Promotion of school lunches[^c-25b2287f16ce59485a922681567cfa94]
 
 After section 53 of the 1980 Act insert—
 
@@ -246,7 +246,7 @@ After section 53 of the 1980 Act insert—
 
 .
 
-### 8. Protection of identity of pupils receiving free school lunches[^key-48b2f746164d52e2a0d8b8ec2c35c4e9]
+### 8. Protection of identity of pupils receiving free school lunches[^c-48b2f746164d52e2a0d8b8ec2c35c4e9]
 
 After section 53A of the 1980 Act (inserted by section 7) insert—
 
@@ -273,7 +273,7 @@ After section 53A of the 1980 Act (inserted by section 7) insert—
 
 .
 
-### 9. Food and drink: guidance about sustainable development[^key-674141ea4047d1d112309754c887e39b]
+### 9. Food and drink: guidance about sustainable development[^c-674141ea4047d1d112309754c887e39b]
 
 After section 56D of the 1980 Act (inserted by section 3), insert—
 
@@ -311,7 +311,7 @@ After section 56D of the 1980 Act (inserted by section 3), insert—
 
 ## General
 
-### 10. Interpretation[^key-0bc3facd1eddfcd157ac7a7ff8608e8e]
+### 10. Interpretation[^c-0bc3facd1eddfcd157ac7a7ff8608e8e]
 
 In this Act—
 
@@ -330,24 +330,24 @@ In this Act—
 
 ## Annotations
 
-[^key-6ff536a33e54b412a70ea9bdba94a273]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/15/section/1) in force at 3.1.2008 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/372/article/2/b)
+[^c-6ff536a33e54b412a70ea9bdba94a273]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/15/section/1) in force at 3.1.2008 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/372/article/2/b)
 
-[^key-14a86d02ef2142939b54144c6b0f5d3c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2007/15/section/2) in force at 3.1.2008 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/372/article/2/b)
+[^c-14a86d02ef2142939b54144c6b0f5d3c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2007/15/section/2) in force at 3.1.2008 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/372/article/2/b)
 
-[^key-b7c1b269c937047bdf014a053d7eca52]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/15/section/3) in force at 12.5.2008 for specified purposes by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/a)
+[^c-b7c1b269c937047bdf014a053d7eca52]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/15/section/3) in force at 12.5.2008 for specified purposes by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/a)
 
-[^key-42195445c5bb1f00c79f4ac96b30c8b8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/15/section/3) in force at 4.8.2008 in so far as not already in force by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-42195445c5bb1f00c79f4ac96b30c8b8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/15/section/3) in force at 4.8.2008 in so far as not already in force by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
-[^key-c004cbaac79a01b106519518cf499229]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2007/15/section/4) in force at 12.5.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/b)
+[^c-c004cbaac79a01b106519518cf499229]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2007/15/section/4) in force at 12.5.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2008/171/article/2/1/b)
 
-[^key-269b14b0c1025bbf2da2db26bc4ee175]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2007/15/section/5) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-269b14b0c1025bbf2da2db26bc4ee175]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2007/15/section/5) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
-[^key-7f0f487b26ee75b7974b9def07cced39]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2007/15/section/6) in force at 10.8.2007 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/372/article/2/a)
+[^c-7f0f487b26ee75b7974b9def07cced39]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2007/15/section/6) in force at 10.8.2007 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/372/article/2/a)
 
-[^key-25b2287f16ce59485a922681567cfa94]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2007/15/section/7) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-25b2287f16ce59485a922681567cfa94]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2007/15/section/7) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
-[^key-48b2f746164d52e2a0d8b8ec2c35c4e9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2007/15/section/8) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-48b2f746164d52e2a0d8b8ec2c35c4e9]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2007/15/section/8) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
-[^key-674141ea4047d1d112309754c887e39b]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/15/section/9) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
+[^c-674141ea4047d1d112309754c887e39b]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/15/section/9) in force at 4.8.2008 by [S.S.I. 2008/171](https://www.legislation.gov.uk/ssi/2008/171), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/171/article/2/2)
 
-[^key-0bc3facd1eddfcd157ac7a7ff8608e8e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2007/15/section/10) in force at 10.8.2007 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/372/article/2/a)
+[^c-0bc3facd1eddfcd157ac7a7ff8608e8e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2007/15/section/10) in force at 10.8.2007 by [S.S.I. 2007/372](https://www.legislation.gov.uk/ssi/2007/372), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/372/article/2/a)

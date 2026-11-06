@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Application of certain provisions of the 2002 Act subject to modifications[^key-cc2178846199cf079ce84752a393a03e]
+## 2. Application of certain provisions of the 2002 Act subject to modifications[^c-cc2178846199cf079ce84752a393a03e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 provides for certain provisions of the 2002 Act to have effect in rel
 
 ## Annotations
 
-[^key-cc2178846199cf079ce84752a393a03e]: Commencement: Reg. 2 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-cc2178846199cf079ce84752a393a03e]: Commencement: Reg. 2 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)

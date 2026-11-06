@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The overriding objective and parties’ obligation to co-operate with the tribunal[^key-103dfbb93715ea6306878db964f5a48c]
+## 3. The overriding objective and parties’ obligation to co-operate with the tribunal[^c-103dfbb93715ea6306878db964f5a48c]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ it must seek to give effect to the overriding objective of dealing fairly and ju
 
 ## Annotations
 
-[^key-103dfbb93715ea6306878db964f5a48c]: Commencement: Reg. 3 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-103dfbb93715ea6306878db964f5a48c]: Commencement: Reg. 3 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

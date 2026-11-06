@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Calculation of subsequent tariffs[^key-a814b6700b6e08857333f373f3c6e723][^key-79fd773e6c1250158931926185945e91]
+## 37. Calculation of subsequent tariffs[^c-a814b6700b6e08857333f373f3c6e723][^c-79fd773e6c1250158931926185945e91]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ the subsequent tariff for the period commencing on the second relevant date and 
 
 ## Annotations
 
-[^key-a814b6700b6e08857333f373f3c6e723]: Commencement: Reg. 37 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-a814b6700b6e08857333f373f3c6e723]: Commencement: Reg. 37 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-79fd773e6c1250158931926185945e91]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/928/regulation/37) substituted (20.9.2017) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2017 (S.I. 2017/857)](https://www.legislation.gov.uk/uksi/2017/857), [regs. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1), [18](https://www.legislation.gov.uk/uksi/2017/857/regulation/18)
+[^c-79fd773e6c1250158931926185945e91]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/928/regulation/37) substituted (20.9.2017) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2017 (S.I. 2017/857)](https://www.legislation.gov.uk/uksi/2017/857), [regs. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1), [18](https://www.legislation.gov.uk/uksi/2017/857/regulation/18)

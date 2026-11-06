@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 112. Parliament[^key-3b5bcbb5bc46f9d59399f72f3119c8b8]
+## 112. Parliament[^c-3b5bcbb5bc46f9d59399f72f3119c8b8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The planning Acts and this Act have effect despite any rule of law relating to P
 
 ## Annotations
 
-[^key-3b5bcbb5bc46f9d59399f72f3119c8b8]: Commencement: S. 112 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/b)
+[^c-3b5bcbb5bc46f9d59399f72f3119c8b8]: Commencement: S. 112 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/b)

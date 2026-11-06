@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Procedure etc relating to modifications under section 136[^key-d5b3d0785da14571d68571900ee2b821]
+## 138. Procedure etc relating to modifications under section 136[^c-d5b3d0785da14571d68571900ee2b821]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b3d0785da14571d68571900ee2b821]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2023/52/section/138) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-d5b3d0785da14571d68571900ee2b821]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2023/52/section/138) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

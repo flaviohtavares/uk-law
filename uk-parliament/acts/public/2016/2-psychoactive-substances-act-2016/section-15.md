@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Prohibition notices and premises notices: supplementary[^key-b81b6cc61632bf53803f37c3132bca7f]
+## 15. Prohibition notices and premises notices: supplementary[^c-b81b6cc61632bf53803f37c3132bca7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b81b6cc61632bf53803f37c3132bca7f]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/2/section/15) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-b81b6cc61632bf53803f37c3132bca7f]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/2/section/15) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

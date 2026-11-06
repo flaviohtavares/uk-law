@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 410B. Directions in pursuance of section 410A[^key-a364d5b9f338e1e1be94798c9c17fec1]
+## 410B. Directions in pursuance of section 410A[^c-a364d5b9f338e1e1be94798c9c17fec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a364d5b9f338e1e1be94798c9c17fec1]: Textual amendment: Ss. 410A, 410B and cross-heading inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/135/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-a364d5b9f338e1e1be94798c9c17fec1]: Textual amendment: Ss. 410A, 410B and cross-heading inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2013/33/section/135/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

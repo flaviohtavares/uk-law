@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Regional consultation.[^key-bcb6d03c84a7f7add4cc76ad936a4e05]
+## 8. Regional consultation.[^c-bcb6d03c84a7f7add4cc76ad936a4e05]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcb6d03c84a7f7add4cc76ad936a4e05]: Textual amendment: S. 8 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5/paragraph/7), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg/ii)
+[^c-bcb6d03c84a7f7add4cc76ad936a4e05]: Textual amendment: S. 8 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5/paragraph/7), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg/ii)

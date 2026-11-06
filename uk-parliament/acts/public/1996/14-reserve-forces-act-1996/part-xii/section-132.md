@@ -24,10 +24,10 @@ summary: ''
 
 (2) This Act extends to Northern Ireland.
 
-(3)[^key-80536cbe9d61746b434997e222a32bf6] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such exceptions and modifications as appear to Her Majesty to be appropriate, to the Channel Islands and the Isle of Man.
+(3)[^c-80536cbe9d61746b434997e222a32bf6] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such exceptions and modifications as appear to Her Majesty to be appropriate, to the Channel Islands and the Isle of Man.
 
 (4) This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed for different purposes.
 
 ## Annotations
 
-[^key-80536cbe9d61746b434997e222a32bf6]: Modification: [S. 132(3)](https://www.legislation.gov.uk/ukpga/1996/14/section/132/3) power extended (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b), [26(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/26/5)
+[^c-80536cbe9d61746b434997e222a32bf6]: Modification: [S. 132(3)](https://www.legislation.gov.uk/ukpga/1996/14/section/132/3) power extended (15.12.2021) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b), [26(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/26/5)

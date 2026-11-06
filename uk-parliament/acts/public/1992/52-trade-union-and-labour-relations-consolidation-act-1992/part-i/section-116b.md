@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116B. Restriction on deduction of union subscriptions from wages in public sector[^key-ea14f5ff375200f34f06d3a1c23af06e]
+## 116B. Restriction on deduction of union subscriptions from wages in public sector[^c-ea14f5ff375200f34f06d3a1c23af06e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea14f5ff375200f34f06d3a1c23af06e]: Textual amendment: S. 116B and cross-heading omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/63/1/a), [159(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/c) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/5))
+[^c-ea14f5ff375200f34f06d3a1c23af06e]: Textual amendment: S. 116B and cross-heading omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/63/1/a), [159(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/c) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/5))

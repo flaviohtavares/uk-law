@@ -89,7 +89,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 16 — Powers of management receivers](part-2/section-16.md)
 - [Section 17 — Restrictions relating to restraint orders](part-2/section-17.md)
 
-#### CHAPTER 1A — External requests: search and seizure powers[^key-32be29f38ac892446022db40ea081599]
+#### CHAPTER 1A — External requests: search and seizure powers[^c-32be29f38ac892446022db40ea081599]
 
 - [Section 17A — Conditions for exercise of powers](part-2/section-17a.md)
 - [Section 17B — Power to seize property](part-2/section-17b.md)
@@ -148,7 +148,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 47 — Procedure on appeal to Court of Appeal under Part 2](part-2/section-47.md)
 - [Section 48 — Procedure on appeal to Supreme Court under Part 2](part-2/section-48.md)
 
-#### CHAPTER 3A — Seized personal property[^key-3117005e1f6218ec39f222b3f22fd100]
+#### CHAPTER 3A — Seized personal property[^c-3117005e1f6218ec39f222b3f22fd100]
 
 - [Section 48A — Seized personal property](part-2/section-48a.md)
 - [Section 48B — Costs of storage and realisation](part-2/section-48b.md)
@@ -189,7 +189,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 64 — Seizure in pursuance of restraint order](part-3/section-64.md)
 - [Section 65 — Restraint orders: restrictions on proceedings and remedies](part-3/section-65.md)
 
-#### CHAPTER 1A — External requests: search and seizure powers[^key-975775a42ef1622cf6b07daab5659aef]
+#### CHAPTER 1A — External requests: search and seizure powers[^c-975775a42ef1622cf6b07daab5659aef]
 
 - [Section 65A — Conditions for exercise of powers](part-3/section-65a.md)
 - [Section 65B — Power to seize property](part-3/section-65b.md)
@@ -237,7 +237,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 85 — Administrators: further provision](part-3/section-85.md)
 - [Section 86 — Administrators: restrictions on proceedings and remedies](part-3/section-86.md)
 
-#### CHAPTER 3A — Seized personal property[^key-14040ddb5280c5db5ef8cfc3c820b5e3]
+#### CHAPTER 3A — Seized personal property[^c-14040ddb5280c5db5ef8cfc3c820b5e3]
 
 - [Section 86A — Seized personal property](part-3/section-86a.md)
 - [Section 86B — Costs of storage and realisation](part-3/section-86b.md)
@@ -278,7 +278,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 102 — Powers of management receivers](part-4/section-102.md)
 - [Section 103 — Restrictions relating to restraint orders](part-4/section-103.md)
 
-#### CHAPTER 1A — External Requests: Search and Seizure Powers[^key-91aacc5d822454192a27006b1b5713b5]
+#### CHAPTER 1A — External Requests: Search and Seizure Powers[^c-91aacc5d822454192a27006b1b5713b5]
 
 - [Section 103A — Conditions for exercise of powers](part-4/section-103a.md)
 - [Section 103B — Power to seize property](part-4/section-103b.md)
@@ -337,7 +337,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 133 — Procedure on appeal to Court of Appeal under Part 4](part-4/section-133.md)
 - [Section 134 — Procedure on appeal to Supreme Court under Part 4](part-4/section-134.md)
 
-#### CHAPTER 3A — Seized Personal Property[^key-25b35ab011368608128d26cd8d42ca69]
+#### CHAPTER 3A — Seized Personal Property[^c-25b35ab011368608128d26cd8d42ca69]
 
 - [Section 134A — Seized personal property](part-4/section-134a.md)
 - [Section 134B — Costs of storage and realisation](part-4/section-134b.md)
@@ -357,7 +357,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 140A — No further possibility of appeal](part-4/section-140a.md)
 - [Section 141 — Other interpretation](part-4/section-141.md)
 
-### PART 4A — Giving effect in England and Wales and Northern Ireland to Requests by means of Civil Proceedings[^key-60d328b1519329044b0e7f9eeb27db3e]
+### PART 4A — Giving effect in England and Wales and Northern Ireland to Requests by means of Civil Proceedings[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 - [Section 141A — General](part-4a/section-141a.md)
 - [Section 141B — Action on receipt of external request](part-4a/section-141b.md)
@@ -380,7 +380,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 141Q — Insolvency: interpretation](part-4a/section-141q.md)
 - [Section 141R — Interpretation](part-4a/section-141r.md)
 
-### PART 4B — Giving effect in Scotland to External Requests by means of Civil Proceedings[^key-60d328b1519329044b0e7f9eeb27db3e]
+### PART 4B — Giving effect in Scotland to External Requests by means of Civil Proceedings[^c-60d328b1519329044b0e7f9eeb27db3e]
 
 - [Section 141ZA — General](part-4b/section-141za.md)
 - [Section 141ZB — Action on receipt of external request](part-4b/section-141zb.md)
@@ -565,16 +565,16 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 212 — Northern Ireland courts](part-5/section-212.md)
 - [Section 213 — General interpretation](part-5/section-213.md)
 
-### Part 5A — Giving effect ... to external orders by means of the forfeiture of certain personal (or moveable) property[^key-403d5302d229bcbcdcc03dacdb8f36e6][^key-85f9d50f9e7f38ad692c36a6cf25e331]
+### Part 5A — Giving effect ... to external orders by means of the forfeiture of certain personal (or moveable) property[^c-403d5302d229bcbcdcc03dacdb8f36e6][^c-85f9d50f9e7f38ad692c36a6cf25e331]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introduction[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+#### Chapter 1 — Introduction[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 - [Section 213A — Action to give effect to an external order](part-5a/section-213a.md)
 - [Section 213AA — Extent](part-5a/section-213aa.md)
 
-#### Chapter 2 — Search, Seizure, Detention and Forfeiture of Listed Assets[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+#### Chapter 2 — Search, Seizure, Detention and Forfeiture of Listed Assets[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 - [Section 213B — “Listed asset”](part-5a/section-213b.md)
 - [Section 213C — Searches](part-5a/section-213c.md)
@@ -599,18 +599,18 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 213V — “The minimum value”](part-5a/section-213v.md)
 - [Section 213W — Interpretation](part-5a/section-213w.md)
 
-### Part 5B — Giving effect ... to external requests and orders by means of the freezing and forfeiture of money held in certain accounts[^key-9c617700803fb83acc47c3b52cf46ec6][^key-fa881095a93e42a06a972c6cdf858834][^key-80fc8f5af6c102abd3e28134db852bfa]
+### Part 5B — Giving effect ... to external requests and orders by means of the freezing and forfeiture of money held in certain accounts[^c-9c617700803fb83acc47c3b52cf46ec6][^c-fa881095a93e42a06a972c6cdf858834][^c-80fc8f5af6c102abd3e28134db852bfa]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introduction[^key-9c617700803fb83acc47c3b52cf46ec6]
+#### Chapter 1 — Introduction[^c-9c617700803fb83acc47c3b52cf46ec6]
 
 - [Section 213X — General](part-5b/section-213x.md)
 - [Section 213XA — Extent](part-5b/section-213xa.md)
 - [Section 213Y — Action on receipt of an external request](part-5b/section-213y.md)
 - [Section 213Z — Action to give effect to an external order](part-5b/section-213z.md)
 
-#### Chapter 2 — Freezing and Forfeiture of Money Held in certain Accounts[^key-9c617700803fb83acc47c3b52cf46ec6][^key-02106be5d37b32a4a51170a1d157f61b]
+#### Chapter 2 — Freezing and Forfeiture of Money Held in certain Accounts[^c-9c617700803fb83acc47c3b52cf46ec6][^c-02106be5d37b32a4a51170a1d157f61b]
 
 - [Section 213Z1 — Application for account freezing order](part-5b/section-213z1.md)
 - [Section 213Z2 — Restrictions on making of application under article 213Z1](part-5b/section-213z2.md)
@@ -626,9 +626,9 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 213Z12 — Powers for prosecutors to appear in proceedings](part-5b/section-213z12.md)
 - [Section 213Z13 — Interpretation](part-5b/section-213z13.md)
 
-### Part 5C — Giving effect to external requests and orders by means of the forfeiture of cryptoassets and cryptoasset-related items[^key-7afd5d26946f03f63f5fb5c08ecb6b18]
+### Part 5C — Giving effect to external requests and orders by means of the forfeiture of cryptoassets and cryptoasset-related items[^c-7afd5d26946f03f63f5fb5c08ecb6b18]
 
-#### Chapter 1 — Introduction[^key-7afd5d26946f03f63f5fb5c08ecb6b18]
+#### Chapter 1 — Introduction[^c-7afd5d26946f03f63f5fb5c08ecb6b18]
 
 - [Section 213Z14 — General](part-5c/section-213z14.md)
 - [Section 213Z15 — Action on receipt of an external request](part-5c/section-213z15.md)
@@ -636,7 +636,7 @@ Her Majesty, in pursuance of sections 444 and 459(2) of the Proceeds of Crime Ac
 - [Section 213Z17 — Interpretation](part-5c/section-213z17.md)
 - [Section 213Z18 — Extent](part-5c/section-213z18.md)
 
-#### Chapter 2 — Application of Chapters 3C to 3F of Part 5 of the Act with modifications[^key-7afd5d26946f03f63f5fb5c08ecb6b18]
+#### Chapter 2 — Application of Chapters 3C to 3F of Part 5 of the Act with modifications[^c-7afd5d26946f03f63f5fb5c08ecb6b18]
 
 - [Section 213Z19 — Recovery of cryptoassets: searches, seizure and detention](part-5c/section-213z19.md)
 - [Section 213Z20 — Freezing of crypto wallets](part-5c/section-213z20.md)
@@ -697,30 +697,30 @@ Article 191 provides for the application of realised proceeds which are recovere
 
 [^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 444 was amended by section 108(2) and (3) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-32be29f38ac892446022db40ea081599]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [11](https://www.legislation.gov.uk/uksi/2015/1750/article/11)
+[^c-32be29f38ac892446022db40ea081599]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [11](https://www.legislation.gov.uk/uksi/2015/1750/article/11)
 
-[^key-3117005e1f6218ec39f222b3f22fd100]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [17](https://www.legislation.gov.uk/uksi/2015/1750/article/17)
+[^c-3117005e1f6218ec39f222b3f22fd100]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [17](https://www.legislation.gov.uk/uksi/2015/1750/article/17)
 
-[^key-975775a42ef1622cf6b07daab5659aef]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [25](https://www.legislation.gov.uk/uksi/2015/1750/article/25)
+[^c-975775a42ef1622cf6b07daab5659aef]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [25](https://www.legislation.gov.uk/uksi/2015/1750/article/25)
 
-[^key-14040ddb5280c5db5ef8cfc3c820b5e3]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [28](https://www.legislation.gov.uk/uksi/2015/1750/article/28)
+[^c-14040ddb5280c5db5ef8cfc3c820b5e3]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [28](https://www.legislation.gov.uk/uksi/2015/1750/article/28)
 
-[^key-91aacc5d822454192a27006b1b5713b5]: Textual amendment: [Pt. 4 Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/part/4/chapter/1A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [27](https://www.legislation.gov.uk/uksi/2016/662/article/27)
+[^c-91aacc5d822454192a27006b1b5713b5]: Textual amendment: [Pt. 4 Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/part/4/chapter/1A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [27](https://www.legislation.gov.uk/uksi/2016/662/article/27)
 
-[^key-25b35ab011368608128d26cd8d42ca69]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/part/4/chapter/3A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [33](https://www.legislation.gov.uk/uksi/2016/662/article/33)
+[^c-25b35ab011368608128d26cd8d42ca69]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/part/4/chapter/3A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [33](https://www.legislation.gov.uk/uksi/2016/662/article/33)
 
-[^key-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
+[^c-60d328b1519329044b0e7f9eeb27db3e]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/uksi/2005/3181/part/4A), [4B](https://www.legislation.gov.uk/uksi/2005/3181/part/4B) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2604/article/3)
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-85f9d50f9e7f38ad692c36a6cf25e331]: Textual amendment: Words in [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/638/article/6)
+[^c-85f9d50f9e7f38ad692c36a6cf25e331]: Textual amendment: Words in [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/638/article/6)
 
-[^key-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
+[^c-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
 
-[^key-fa881095a93e42a06a972c6cdf858834]: Textual amendment: Words in [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [18](https://www.legislation.gov.uk/uksi/2021/638/article/18)
+[^c-fa881095a93e42a06a972c6cdf858834]: Textual amendment: Words in [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) heading omitted (28.6.2021) by virtue of [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [18](https://www.legislation.gov.uk/uksi/2021/638/article/18)
 
-[^key-80fc8f5af6c102abd3e28134db852bfa]: Textual amendment: Word in [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [32](https://www.legislation.gov.uk/uksi/2021/638/article/32)
+[^c-80fc8f5af6c102abd3e28134db852bfa]: Textual amendment: Word in [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [32](https://www.legislation.gov.uk/uksi/2021/638/article/32)
 
-[^key-02106be5d37b32a4a51170a1d157f61b]: Textual amendment: Word in [Pt. 5B Ch. 2](https://www.legislation.gov.uk/uksi/2005/3181/part/5B/chapter/2) heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [32](https://www.legislation.gov.uk/uksi/2021/638/article/32)
+[^c-02106be5d37b32a4a51170a1d157f61b]: Textual amendment: Word in [Pt. 5B Ch. 2](https://www.legislation.gov.uk/uksi/2005/3181/part/5B/chapter/2) heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [32](https://www.legislation.gov.uk/uksi/2021/638/article/32)
 
-[^key-7afd5d26946f03f63f5fb5c08ecb6b18]: Textual amendment: [Pt. 5C](https://www.legislation.gov.uk/uksi/2005/3181/part/5C) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1127/article/14)
+[^c-7afd5d26946f03f63f5fb5c08ecb6b18]: Textual amendment: [Pt. 5C](https://www.legislation.gov.uk/uksi/2005/3181/part/5C) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1127/article/14)

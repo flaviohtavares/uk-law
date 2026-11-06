@@ -35,14 +35,14 @@ summary: ''
 - the Court of Appeal
 - the High Court
 - the Crown Court
-- the family court[^key-ad55686f1eac0670800c9380da1e3f8c]
-- the county court[^key-31d205f9d13cfb3d7452b98d733dba54]
+- the family court[^c-ad55686f1eac0670800c9380da1e3f8c]
+- the county court[^c-31d205f9d13cfb3d7452b98d733dba54]
 - the magistrates' courts.
 
 (5) In section 1 of the Supreme Court Act 1981 (c. 54), subsection (2)(Lord Chancellor to be president of the Supreme Court of England and Wales) ceases to have effect.
 
 ## Annotations
 
-[^key-ad55686f1eac0670800c9380da1e3f8c]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/7/4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/97); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ad55686f1eac0670800c9380da1e3f8c]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/7/4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/97); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-31d205f9d13cfb3d7452b98d733dba54]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/7/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/42); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-31d205f9d13cfb3d7452b98d733dba54]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/7/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/42); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

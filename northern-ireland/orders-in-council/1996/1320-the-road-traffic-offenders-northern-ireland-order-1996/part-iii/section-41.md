@@ -59,7 +59,7 @@ summary: ''
 
 (11) For the purposes of an order under this Article, a person shall be treated as having passed a test of competence to drive other than an extended driving test if he passes a corresponding test conducted—
 
-- (a) under the law of Great Britain, the Isle of Man, any of the Channel Islands, an[^key-982956a1db2fa52495f26f473a77a577] EEA[^c1725585] State, Gibraltar or a designated country or territory[^c1725585]. . . , or
+- (a) under the law of Great Britain, the Isle of Man, any of the Channel Islands, an[^c-982956a1db2fa52495f26f473a77a577] EEA[^c1725585] State, Gibraltar or a designated country or territory[^c1725585]. . . , or
 - (b) for the purposes of obtaining a British Forces licence (as defined by Article 4(10) of the Order of 1981),
 
 and accordingly paragraphs (8) to (10) shall apply in relation to such a test as they apply in relation to a test prescribed by virtue of Article 5(3) of that Order.
@@ -84,7 +84,7 @@ and accordingly paragraphs (8) to (10) shall apply in relation to such a test as
 
 [^c2079360]: Textual amendment: [Art. 41(10A)](https://www.legislation.gov.uk/nisi/1996/1320/article/41/10A) inserted (14.12.2010) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [39(6)](https://www.legislation.gov.uk/nisi/2007/916/article/39/6), [Sch. 4 para. 6](https://www.legislation.gov.uk/nisi/2007/916/schedule/4/paragraph/6); [S.R. 2010/370](https://www.legislation.gov.uk/nisr/2010/370), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/370/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2010/370/schedule/part/II)
 
-[^key-982956a1db2fa52495f26f473a77a577]: Textual amendment: Word in [art. 41(11)(a)](https://www.legislation.gov.uk/nisi/1996/1320/article/41/11/a) substituted (31.12.2020) by [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/194/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-982956a1db2fa52495f26f473a77a577]: Textual amendment: Word in [art. 41(11)(a)](https://www.legislation.gov.uk/nisi/1996/1320/article/41/11/a) substituted (31.12.2020) by [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/194/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1725585]: Textual amendment: SR 1997/241
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Keeping order at a petition signing place[^key-2fd9e482b8d46ff22726510e4400907e]
+## 23. Keeping order at a petition signing place[^c-2fd9e482b8d46ff22726510e4400907e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ and the person so removed must not, without the petition officer’s permission,
 
 ## Annotations
 
-[^key-2fd9e482b8d46ff22726510e4400907e]: Commencement: Reg. 23 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-2fd9e482b8d46ff22726510e4400907e]: Commencement: Reg. 23 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

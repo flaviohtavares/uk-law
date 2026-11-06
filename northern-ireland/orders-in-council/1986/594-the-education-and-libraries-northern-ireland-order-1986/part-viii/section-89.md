@@ -22,7 +22,7 @@ summary: ''
 
 (1) A board may, with the approval of the Department, provide and maintain or maintain a house or other residence for—
 
-- (a) a teacher employed by the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] ;
+- (a) a teacher employed by the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] ;
 - (b) a caretaker, groundsman or other person employed by the Authority in connection with a school or institution managed by the Authority or a maintained school or any premises or property used by the Authority for educational purposes or purposes connected therewith;
 
 and for that purpose may erect a dwelling-house or other residence or acquire, and if necessary enlarge or improve, an existing dwelling-house or other residence.
@@ -44,7 +44,7 @@ and for that purpose may erect a dwelling-house or other residence or acquire, a
 
 ## Annotations
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17009271]: Textual amendment: [1987 NI 2](https://www.legislation.gov.uk/nisi/1987)
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A sound recording of a performance of a song may be made for the purpose of including it in an archive maintained by a body not established or conducted for profit[^key-0b9b3486a3ea5fd4d9d3b7fa830f4a97] without infringing any copyright in the words as a literary work or in the accompanying musical work, provided the conditions in subsection (2) below are met.
+(1) A sound recording of a performance of a song may be made for the purpose of including it in an archive maintained by a body not established or conducted for profit[^c-0b9b3486a3ea5fd4d9d3b7fa830f4a97] without infringing any copyright in the words as a literary work or in the accompanying musical work, provided the conditions in subsection (2) below are met.
 
 (2) The conditions are that—
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) the making of the recording does not infringe any other copyright, and
 - (c) its making is not prohibited by any performer.
 
-(3)[^key-f3e1eff4196a39135abf9d3409dcadcc] A single copy of a sound recording made in reliance on subsection (1) and included in an archive referred to in that subsection may be made and supplied by the archivist without infringing copyright in the recording or the works included in it, provided that—
+(3)[^c-f3e1eff4196a39135abf9d3409dcadcc] A single copy of a sound recording made in reliance on subsection (1) and included in an archive referred to in that subsection may be made and supplied by the archivist without infringing copyright in the recording or the works included in it, provided that—
 
 - (a) the copy is supplied in response to a request from a person who has provided the archivist with a declaration in writing which includes the information set out in subsection (4), and
 - (b) the archivist is not aware that the declaration is false in a material particular.
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b9b3486a3ea5fd4d9d3b7fa830f4a97]: Textual amendment: Words in s. 61(1) substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/1)
+[^c-0b9b3486a3ea5fd4d9d3b7fa830f4a97]: Textual amendment: Words in s. 61(1) substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/1)
 
-[^key-f3e1eff4196a39135abf9d3409dcadcc]: Textual amendment: S. 61(3)-(7) substituted (1.6.2014) for s. 61(3)-(6) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/2)
+[^c-f3e1eff4196a39135abf9d3409dcadcc]: Textual amendment: S. 61(3)-(7) substituted (1.6.2014) for s. 61(3)-(6) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/2)

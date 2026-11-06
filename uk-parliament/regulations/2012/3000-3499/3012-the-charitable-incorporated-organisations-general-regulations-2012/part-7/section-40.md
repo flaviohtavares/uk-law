@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Power of court or Commission to order meeting[^key-5c26230fbfbe6d453574525f0fe127f8]
+## 40. Power of court or Commission to order meeting[^c-5c26230fbfbe6d453574525f0fe127f8]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c26230fbfbe6d453574525f0fe127f8]: Commencement: Reg. 40 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-5c26230fbfbe6d453574525f0fe127f8]: Commencement: Reg. 40 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

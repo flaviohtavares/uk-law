@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30E. Duties of the adoption agency in a section 83 case[^key-a6790a297221401376e94bf718b934f2]
+## 30E. Duties of the adoption agency in a section 83 case[^c-a6790a297221401376e94bf718b934f2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ Where the adoption agency decides in a section 83 case to approve a prospective 
 
 ## Annotations
 
-[^key-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
+[^c-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)

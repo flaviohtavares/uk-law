@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Natural disasters and other exceptional circumstances[^key-96f37ca6c24e1a30af14b05ff5e8d56a][^key-22a5afb9616886e5e44ad4ed5bdf0778]
+## 43. Natural disasters and other exceptional circumstances[^c-96f37ca6c24e1a30af14b05ff5e8d56a][^c-22a5afb9616886e5e44ad4ed5bdf0778]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96f37ca6c24e1a30af14b05ff5e8d56a]: Commencement: S. 43 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-96f37ca6c24e1a30af14b05ff5e8d56a]: Commencement: S. 43 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-22a5afb9616886e5e44ad4ed5bdf0778]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/23/section/43) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-22a5afb9616886e5e44ad4ed5bdf0778]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/23/section/43) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Qualifying corporate bonds: meaning of permanent interest bearing share[^key-92315ff7f44b7d7d27f4bc05726252e7]
+## 63. Qualifying corporate bonds: meaning of permanent interest bearing share[^c-92315ff7f44b7d7d27f4bc05726252e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92315ff7f44b7d7d27f4bc05726252e7]: Commencement: Art. 63 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-92315ff7f44b7d7d27f4bc05726252e7]: Commencement: Art. 63 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00084]: Footnote: This sourcebook is part of the FSA Handbook. The FSA Handbook may be purchased on paper and on CD Rom from the Publications Department (Sales), Financial Services Authority, 25 The North Colonnade, Canary Wharf, London E14 5HS and is available on line at www.fsa.gov.uk.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Publication of proposals.[^key-51f8c4b0ce5a88e3b4e04d18d0a2e192][^c11064821]
+## 51. Publication of proposals.[^c-51f8c4b0ce5a88e3b4e04d18d0a2e192][^c11064821]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51f8c4b0ce5a88e3b4e04d18d0a2e192]: Textual amendment: S. 51 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/23); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/924/article/7))
+[^c-51f8c4b0ce5a88e3b4e04d18d0a2e192]: Textual amendment: S. 51 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/23); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/924/article/7))
 
 [^c11064821]: Commencement: S. 51 wholly in force at 30.9.1992 see s. 94(3) and [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/831/schedule/2)

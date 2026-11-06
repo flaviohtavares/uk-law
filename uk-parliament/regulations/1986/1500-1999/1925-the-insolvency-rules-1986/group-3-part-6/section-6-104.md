@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.104. Admission and rejection of proofs for dividend[^key-08c116aeba63664019cbd21d0a8a6d41]
+## 6.104. Admission and rejection of proofs for dividend[^c-08c116aeba63664019cbd21d0a8a6d41]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08c116aeba63664019cbd21d0a8a6d41]: Commencement: [Rule 6.104](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.104) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-08c116aeba63664019cbd21d0a8a6d41]: Commencement: [Rule 6.104](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.104) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

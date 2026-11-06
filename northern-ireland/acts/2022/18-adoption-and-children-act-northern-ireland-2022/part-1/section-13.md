@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Information concerning adoption[^key-2a6b3fd3ebd21b94df8746b37f9aace8]
+## 13. Information concerning adoption[^c-2a6b3fd3ebd21b94df8746b37f9aace8]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a6b3fd3ebd21b94df8746b37f9aace8]: Commencement: S. 13 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2a6b3fd3ebd21b94df8746b37f9aace8]: Commencement: S. 13 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

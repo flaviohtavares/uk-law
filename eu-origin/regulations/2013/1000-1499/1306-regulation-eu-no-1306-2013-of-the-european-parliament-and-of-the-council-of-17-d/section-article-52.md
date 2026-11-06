@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 52. Conformity clearance[^key-852c9b641d7be05ed63933c2f3a1c773]
+## Article 52. Conformity clearance[^c-852c9b641d7be05ed63933c2f3a1c773]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-852c9b641d7be05ed63933c2f3a1c773]: Textual amendment: Arts. 51-53 omitted (31.1.2020 in so far as they relate to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2020/90/regulation/6/11); and Arts. 51-53 omitted (31.12.2020 in so far as they relate to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(18)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-852c9b641d7be05ed63933c2f3a1c773]: Textual amendment: Arts. 51-53 omitted (31.1.2020 in so far as they relate to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2020/90/regulation/6/11); and Arts. 51-53 omitted (31.12.2020 in so far as they relate to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(18)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

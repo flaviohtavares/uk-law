@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Chapter 2: consequential amendments[^key-330910d2a9b461221ea7c4978e757ea7]
+## 31. Chapter 2: consequential amendments[^c-330910d2a9b461221ea7c4978e757ea7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 contains amendments consequential on this Chapter.
 
 ## Annotations
 
-[^key-330910d2a9b461221ea7c4978e757ea7]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/16/section/31) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/r) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))
+[^c-330910d2a9b461221ea7c4978e757ea7]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/16/section/31) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/r) (with [reg. 11](https://www.legislation.gov.uk/uksi/2018/497/regulation/11))

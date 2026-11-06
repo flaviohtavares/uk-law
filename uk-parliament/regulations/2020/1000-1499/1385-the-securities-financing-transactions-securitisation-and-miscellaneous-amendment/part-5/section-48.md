@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. The Capital Requirements (Amendment) (EU Exit) Regulations 2018[^key-1234c0da2804964d62dffc876c78bb0a]
+## 48. The Capital Requirements (Amendment) (EU Exit) Regulations 2018[^c-1234c0da2804964d62dffc876c78bb0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1234c0da2804964d62dffc876c78bb0a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2020/1385/regulation/48) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-1234c0da2804964d62dffc876c78bb0a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2020/1385/regulation/48) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00027]: Footnote: [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401), as amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).

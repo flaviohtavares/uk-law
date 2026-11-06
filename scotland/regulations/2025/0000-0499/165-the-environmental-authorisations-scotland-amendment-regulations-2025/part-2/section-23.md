@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Amendment of regulation 51 (costs recovery notices)[^key-eaa31a4a62ac26b7e41ff99f63f1643a]
+## 23. Amendment of regulation 51 (costs recovery notices)[^c-eaa31a4a62ac26b7e41ff99f63f1643a]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ In regulation 51(costs recovery notices)—
 
 ## Annotations
 
-[^key-eaa31a4a62ac26b7e41ff99f63f1643a]: Commencement: Reg. 23 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-eaa31a4a62ac26b7e41ff99f63f1643a]: Commencement: Reg. 23 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

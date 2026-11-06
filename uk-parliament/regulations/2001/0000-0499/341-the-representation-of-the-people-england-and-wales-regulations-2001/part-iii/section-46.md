@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Supply of free copies of register and list of overseas electors otherwise than on request[^key-e35faf44bdeced6a0d9bce1dce50da25]
+## 46. Supply of free copies of register and list of overseas electors otherwise than on request[^c-e35faf44bdeced6a0d9bce1dce50da25]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35faf44bdeced6a0d9bce1dce50da25]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2001/341/regulation/46) revoked (16.10.2002) by [The Representation of the People (England and Wales)(Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/3/1) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
+[^c-e35faf44bdeced6a0d9bce1dce50da25]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2001/341/regulation/46) revoked (16.10.2002) by [The Representation of the People (England and Wales)(Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/3/1) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))

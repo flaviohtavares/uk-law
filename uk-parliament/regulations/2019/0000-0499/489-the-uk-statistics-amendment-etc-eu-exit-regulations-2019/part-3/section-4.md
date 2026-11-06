@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of the Public Contracts Regulations 2015[^key-fabd0e90ec0b9122c1d77e21f3244d2a]
+## 4. Amendment of the Public Contracts Regulations 2015[^c-fabd0e90ec0b9122c1d77e21f3244d2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fabd0e90ec0b9122c1d77e21f3244d2a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/489/regulation/4) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-fabd0e90ec0b9122c1d77e21f3244d2a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/489/regulation/4) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

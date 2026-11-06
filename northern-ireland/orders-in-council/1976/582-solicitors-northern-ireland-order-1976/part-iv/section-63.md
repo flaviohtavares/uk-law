@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Professional indemnity[^key-1dbfe94c67f7894c8eb333d81172c643]
+## 63. Professional indemnity[^c-1dbfe94c67f7894c8eb333d81172c643]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dbfe94c67f7894c8eb333d81172c643]: Modification: [Art. 63](https://www.legislation.gov.uk/nisi/1976/582/article/63) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(qq)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/qq)
+[^c-1dbfe94c67f7894c8eb333d81172c643]: Modification: [Art. 63](https://www.legislation.gov.uk/nisi/1976/582/article/63) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(qq)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/qq)
 
 [^c17115221]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

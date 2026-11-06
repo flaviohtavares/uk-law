@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.50. Application for appointment of a management or an enforcement receiver[^key-9a8a17a2bb810f84503f33697e3679b2]
+## 33.50. Application for appointment of a management or an enforcement receiver[^c-9a8a17a2bb810f84503f33697e3679b2]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ at least 5 business days before the date fixed by the court for hearing the appl
 
 ## Annotations
 
-[^key-9a8a17a2bb810f84503f33697e3679b2]: Commencement: [Rule 33.50](https://www.legislation.gov.uk/uksi/2025/909/rule/33.50) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9a8a17a2bb810f84503f33697e3679b2]: Commencement: [Rule 33.50](https://www.legislation.gov.uk/uksi/2025/909/rule/33.50) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00841]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Registrar’s rules requiring documents to be delivered together[^key-7cc0d7f35895503a3fef1c2bd79d18f0][^key-23bc3410dcd3f267eae04cb088fd2f78]
+## 78. Registrar’s rules requiring documents to be delivered together[^c-7cc0d7f35895503a3fef1c2bd79d18f0][^c-23bc3410dcd3f267eae04cb088fd2f78]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7cc0d7f35895503a3fef1c2bd79d18f0]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7cc0d7f35895503a3fef1c2bd79d18f0]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-23bc3410dcd3f267eae04cb088fd2f78]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/56/section/78) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z20)
+[^c-23bc3410dcd3f267eae04cb088fd2f78]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/56/section/78) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z20)

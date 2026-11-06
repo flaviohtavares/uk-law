@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Order of application[^key-b63cc3f59033a2176016f35254d8ed20]
+## 90. Order of application[^c-b63cc3f59033a2176016f35254d8ed20]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ The contribution or the remainder of the contribution, as the case may be, is to
 
 ## Annotations
 
-[^key-b63cc3f59033a2176016f35254d8ed20]: Commencement: Reg. 90 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-b63cc3f59033a2176016f35254d8ed20]: Commencement: Reg. 90 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

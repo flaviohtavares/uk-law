@@ -24,7 +24,7 @@ summary: ''
 
 Section 84(3)
 
-### 1. Compliance notices[^key-3b3f992bea26eba5ab4dff84fd0ca66d]
+### 1. Compliance notices[^c-3b3f992bea26eba5ab4dff84fd0ca66d]
 
 (1) The appropriate national authority may issue a compliance notice to a permit holder if satisfied that the permit holder has committed an infringement of the permit scheme.
 
@@ -41,7 +41,7 @@ Section 84(3)
 
 (6) The reference in sub-paragraph (2) to taking action includes refraining from taking action; and “actions” in this paragraph is to be read accordingly.
 
-### 2. Monetary penalties[^key-70f585a2d5aef2d6e3fc8438940a5412]
+### 2. Monetary penalties[^c-70f585a2d5aef2d6e3fc8438940a5412]
 
 (1) The appropriate national authority may issue a monetary penalty notice to a permit holder if satisfied that the permit holder has—
 
@@ -79,7 +79,7 @@ Section 84(3)
 - (a) what counts as “turnover”;
 - (b) how turnover is to be calculated or assessed.
 
-### 3. Notice of intent[^key-ad1800f965581d95d9997c700bc2a634]
+### 3. Notice of intent[^c-ad1800f965581d95d9997c700bc2a634]
 
 (1) Before issuing a compliance notice or monetary penalty notice to a permit holder, the appropriate national authority must—
 
@@ -98,7 +98,7 @@ Section 84(3)
 - (a) state the appropriate national authority’s intention to issue a costs notice in connection with the principal notice, and
 - (b) give a general indication of the nature of the costs that the appropriate national authority is likely to seek to recover by way of the costs notice.
 
-### 4. Costs[^key-c51e4d34fcb82aec55ed6a4d1601302b]
+### 4. Costs[^c-c51e4d34fcb82aec55ed6a4d1601302b]
 
 (1) If—
 
@@ -130,14 +130,14 @@ the appropriate national authority may also issue a costs notice to the permit h
 
 (7) The cancellation of a compliance notice or monetary penalty notice has the effect of cancelling any costs notice issued in connection with it.
 
-### 5. Cancellation and variation[^key-7dcf744c9f1a00d225162e52ceceada3]
+### 5. Cancellation and variation[^c-7dcf744c9f1a00d225162e52ceceada3]
 
 Where the appropriate national authority has issued a compliance notice, monetary penalty notice or costs notice to a permit holder, the appropriate national authority may by further notice issued to the permit holder—
 
 - (a) cancel the notice, or
 - (b) vary it in any way that does not make it more onerous.
 
-### 6. Appeals[^key-9ad59b4170b25793406e4c99f164722a]
+### 6. Appeals[^c-9ad59b4170b25793406e4c99f164722a]
 
 (1) A person to whom a compliance notice, monetary penalty notice or costs notice is issued may appeal to the Tribunal.
 
@@ -182,22 +182,22 @@ and sub-paragraphs (3) and (4) apply again in relation to the grounds on which t
 
 (10) Tribunal Procedure Rules may provide for an appeal under this paragraph to be made to the Upper Tribunal instead of the First-tier Tribunal; and if that is done references to “the Tribunal” are to be read accordingly.
 
-### 7. Enforcement action in respect of multiple occurrences[^key-e9ce288344382b054103484189f0bc14]
+### 7. Enforcement action in respect of multiple occurrences[^c-e9ce288344382b054103484189f0bc14]
 
 A single notice issued under this Schedule may relate to more than one occurrence by virtue of which the power to issue the notice arises (or is said to arise).
 
 ## Annotations
 
-[^key-3b3f992bea26eba5ab4dff84fd0ca66d]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-3b3f992bea26eba5ab4dff84fd0ca66d]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-70f585a2d5aef2d6e3fc8438940a5412]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-70f585a2d5aef2d6e3fc8438940a5412]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-ad1800f965581d95d9997c700bc2a634]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ad1800f965581d95d9997c700bc2a634]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-c51e4d34fcb82aec55ed6a4d1601302b]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-c51e4d34fcb82aec55ed6a4d1601302b]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-7dcf744c9f1a00d225162e52ceceada3]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-7dcf744c9f1a00d225162e52ceceada3]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-9ad59b4170b25793406e4c99f164722a]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-9ad59b4170b25793406e4c99f164722a]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-e9ce288344382b054103484189f0bc14]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e9ce288344382b054103484189f0bc14]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

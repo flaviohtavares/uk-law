@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-707d9747d302df62a4bab0c331812af9]
+## 1. Citation and commencement[^c-707d9747d302df62a4bab0c331812af9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Housing Renewal Grants (Reduction of Grant
 
 ## Annotations
 
-[^key-707d9747d302df62a4bab0c331812af9]: Commencement: Reg. 1 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-707d9747d302df62a4bab0c331812af9]: Commencement: Reg. 1 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

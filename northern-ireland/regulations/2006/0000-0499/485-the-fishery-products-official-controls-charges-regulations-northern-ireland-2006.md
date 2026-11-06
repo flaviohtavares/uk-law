@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Fishery Products (Official Controls Charges) Regulations (Northern Ireland) 2006 (revoked)[^key-789491064f142095e8e18e181b30db65]
+The Fishery Products (Official Controls Charges) Regulations (Northern Ireland) 2006 (revoked)[^c-789491064f142095e8e18e181b30db65]
 
 Made
 
@@ -41,75 +41,75 @@ Coming into operation
 
 1st January 2007
 
-[^key-789491064f142095e8e18e181b30db65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-789491064f142095e8e18e181b30db65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — PRELIMINARY[^key-789491064f142095e8e18e181b30db65]
+## PART 1 — PRELIMINARY[^c-789491064f142095e8e18e181b30db65]
 
-### 1. Citation and commencement[^key-789491064f142095e8e18e181b30db65]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-789491064f142095e8e18e181b30db65]
+### 1. Citation and commencement[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Actual costs[^key-789491064f142095e8e18e181b30db65]
+### 2. Interpretation[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Sterling equivalents of Euro[^key-789491064f142095e8e18e181b30db65]
+### 3. Actual costs[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Account period[^key-789491064f142095e8e18e181b30db65]
+### 4. Sterling equivalents of Euro[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Recovery of charges[^key-789491064f142095e8e18e181b30db65]
+### 5. Account period[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Calculation, payment and repayment of charges[^key-789491064f142095e8e18e181b30db65]
+### 6. Recovery of charges[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Appeals[^key-789491064f142095e8e18e181b30db65]
+### 7. Calculation, payment and repayment of charges[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Charges payable to more than one district council[^key-789491064f142095e8e18e181b30db65]
+### 8. Appeals[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — OFFICIAL CONTROLS CHARGES OTHER THAN CHARGES FOR THIRD COUNTRY IMPORTS[^key-789491064f142095e8e18e181b30db65]
-
-### 10. Charge in respect of the first placing on the market or the first sale in a fish market of relevant fishery products or relevant landed fishery products[^key-789491064f142095e8e18e181b30db65]
+### 9. Charges payable to more than one district council[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Returns and records relating to relevant fishery products or relevant landed fishery products[^key-789491064f142095e8e18e181b30db65]
+## PART 2 — OFFICIAL CONTROLS CHARGES OTHER THAN CHARGES FOR THIRD COUNTRY IMPORTS[^c-789491064f142095e8e18e181b30db65]
+
+### 10. Charge in respect of the first placing on the market or the first sale in a fish market of relevant fishery products or relevant landed fishery products[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Charge in respect of processing establishments[^key-789491064f142095e8e18e181b30db65]
+### 11. Returns and records relating to relevant fishery products or relevant landed fishery products[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Returns and records relating to processing establishments[^key-789491064f142095e8e18e181b30db65]
+### 12. Charge in respect of processing establishments[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Revocation[^key-789491064f142095e8e18e181b30db65]
+### 13. Returns and records relating to processing establishments[^c-789491064f142095e8e18e181b30db65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-789491064f142095e8e18e181b30db65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 14. Revocation[^c-789491064f142095e8e18e181b30db65]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-789491064f142095e8e18e181b30db65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^key-789491064f142095e8e18e181b30db65]
+## THE SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^c-789491064f142095e8e18e181b30db65]
 
 Regulation 2(1)
 
@@ -117,8 +117,8 @@ Regulation 2(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-789491064f142095e8e18e181b30db65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-789491064f142095e8e18e181b30db65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-789491064f142095e8e18e181b30db65]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/485) revoked (1.1.2008) by [The Fishery Products (Official Controls Charges) Regulations (Northern Ireland) 2007 (S.R. 2007/497)](https://www.legislation.gov.uk/nisr/2007/497), [regs. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1), [14](https://www.legislation.gov.uk/nisr/2007/497/regulation/14)
+[^c-789491064f142095e8e18e181b30db65]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/485) revoked (1.1.2008) by [The Fishery Products (Official Controls Charges) Regulations (Northern Ireland) 2007 (S.R. 2007/497)](https://www.legislation.gov.uk/nisr/2007/497), [regs. 1](https://www.legislation.gov.uk/nisr/2007/497/regulation/1), [14](https://www.legislation.gov.uk/nisr/2007/497/regulation/14)

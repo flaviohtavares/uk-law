@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Court’s power to require information from election agent or sub-agent[^key-e84fad41b2ca0a197312237658a7715c]
+## 61. Court’s power to require information from election agent or sub-agent[^c-e84fad41b2ca0a197312237658a7715c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ as the court considers just, within a timeframe, to any person and in the manner
 
 ## Annotations
 
-[^key-e84fad41b2ca0a197312237658a7715c]: Commencement: Art. 61 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e84fad41b2ca0a197312237658a7715c]: Commencement: Art. 61 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

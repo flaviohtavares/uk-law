@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Provision of works[^key-9c0694a333426b7ffc7453dc4d6c2880]
+## 6. Provision of works[^c-9c0694a333426b7ffc7453dc4d6c2880]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c0694a333426b7ffc7453dc4d6c2880]: Commencement: Art. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-9c0694a333426b7ffc7453dc4d6c2880]: Commencement: Art. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

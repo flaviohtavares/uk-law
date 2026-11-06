@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Regulations about appeals and applications[^key-fc20d0d138ab3c4c4480d39616f8ee1e]
+## 74. Regulations about appeals and applications[^c-fc20d0d138ab3c4c4480d39616f8ee1e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc20d0d138ab3c4c4480d39616f8ee1e]: Commencement: S. 74 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(g)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/g)
+[^c-fc20d0d138ab3c4c4480d39616f8ee1e]: Commencement: S. 74 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(g)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/g)

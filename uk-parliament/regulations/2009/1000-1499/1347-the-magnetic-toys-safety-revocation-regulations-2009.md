@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Magnetic Toys (Safety) (Revocation) Regulations 2009 (revoked)[^key-2100324b65c7b8e683e439d61a871a4b]
+The Magnetic Toys (Safety) (Revocation) Regulations 2009 (revoked)[^c-2100324b65c7b8e683e439d61a871a4b]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 23rd June 2009
 
-[^key-2100324b65c7b8e683e439d61a871a4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2100324b65c7b8e683e439d61a871a4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2100324b65c7b8e683e439d61a871a4b]
+## 1. Citation and commencement[^c-2100324b65c7b8e683e439d61a871a4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-2100324b65c7b8e683e439d61a871a4b]
+## 2. Revocation[^c-2100324b65c7b8e683e439d61a871a4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2100324b65c7b8e683e439d61a871a4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2100324b65c7b8e683e439d61a871a4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2100324b65c7b8e683e439d61a871a4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2100324b65c7b8e683e439d61a871a4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2100324b65c7b8e683e439d61a871a4b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1347) revoked (1.10.2012) by [The Product Safety (Revocation) Regulations 2012 (S.I. 2012/1815)](https://www.legislation.gov.uk/uksi/2012/1815), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1815/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/1815/schedule)
+[^c-2100324b65c7b8e683e439d61a871a4b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1347) revoked (1.10.2012) by [The Product Safety (Revocation) Regulations 2012 (S.I. 2012/1815)](https://www.legislation.gov.uk/uksi/2012/1815), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1815/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/1815/schedule)

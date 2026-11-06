@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379. Additional Creditor Members[^key-728f0f02e514b3a24927424433f7de2f]
+## 379. Additional Creditor Members[^c-728f0f02e514b3a24927424433f7de2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In Rule 4.152 of those Rules (Membership of Committee), for paragraph (7)[^f0027
 
 ## Annotations
 
-[^key-728f0f02e514b3a24927424433f7de2f]: Commencement: Art. 379 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-728f0f02e514b3a24927424433f7de2f]: Commencement: Art. 379 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00274]: Footnote: Paragraph (7) of rule 4.152 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), rule 3(1), Schedule, Part I, paragraph 70.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Assault of retail worker: duty to make criminal behaviour order[^key-8f80245b96ffca917a07278f244a2f57]
+## 46. Assault of retail worker: duty to make criminal behaviour order[^c-8f80245b96ffca917a07278f244a2f57]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ In Chapter 1 of Part 11 of the Sentencing Code (criminal behaviour orders), afte
 
 ## Annotations
 
-[^key-8f80245b96ffca917a07278f244a2f57]: Commencement: S. 46 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8f80245b96ffca917a07278f244a2f57]: Commencement: S. 46 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

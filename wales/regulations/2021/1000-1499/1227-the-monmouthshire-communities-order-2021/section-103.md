@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Goetre Fawr, Mamhilad and Nant-Y-Derry — changes in community ward boundaries and consequential changes to electoral wards[^key-6d24b7d2cd362fc9fe6b84514e1cdda7][^key-db8d9f41c5ea8e65b3c9721a3e2b5019]
+## 103. Goetre Fawr, Mamhilad and Nant-Y-Derry — changes in community ward boundaries and consequential changes to electoral wards[^c-6d24b7d2cd362fc9fe6b84514e1cdda7][^c-db8d9f41c5ea8e65b3c9721a3e2b5019]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Goetre ward of the community of Goetre Fawr shown hatched and nu
 
 ## Annotations
 
-[^key-6d24b7d2cd362fc9fe6b84514e1cdda7]: Commencement: Art. 103 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-6d24b7d2cd362fc9fe6b84514e1cdda7]: Commencement: Art. 103 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-db8d9f41c5ea8e65b3c9721a3e2b5019]: Commencement: [Art. 103](https://www.legislation.gov.uk/wsi/2021/1227/article/103) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-db8d9f41c5ea8e65b3c9721a3e2b5019]: Commencement: [Art. 103](https://www.legislation.gov.uk/wsi/2021/1227/article/103) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

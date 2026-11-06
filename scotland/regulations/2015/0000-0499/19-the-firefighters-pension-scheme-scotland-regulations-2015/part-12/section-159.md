@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Payments due in respect of deceased persons[^key-1d475c01527e6e48c3932693c04c92bb]
+## 159. Payments due in respect of deceased persons[^c-1d475c01527e6e48c3932693c04c92bb]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ without the production of a grant of confirmation to the person’s estate.
 
 ## Annotations
 
-[^key-1d475c01527e6e48c3932693c04c92bb]: Commencement: [Reg. 159](https://www.legislation.gov.uk/ssi/2015/19/regulation/159) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-1d475c01527e6e48c3932693c04c92bb]: Commencement: [Reg. 159](https://www.legislation.gov.uk/ssi/2015/19/regulation/159) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00059]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32); there are amendments to section 6 which are not relevant to this instrument.

@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-f129b943fa757b6c19972620421c2120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f129b943fa757b6c19972620421c2120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-(1A)[^key-f129b943fa757b6c19972620421c2120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-f129b943fa757b6c19972620421c2120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-f129b943fa757b6c19972620421c2120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-f129b943fa757b6c19972620421c2120] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Before[^key-d25f5cd45fae90421b423f681cb3ea06] determining the contents of the spatial development strategy, the Mayor shall—
+(2) Before[^c-d25f5cd45fae90421b423f681cb3ea06] determining the contents of the spatial development strategy, the Mayor shall—
 
 - (a) prepare a draft of his proposed spatial development strategy;
 - (b) make copies available for inspection at such places as may be prescribed by regulations under section 343 below;
@@ -39,7 +39,7 @@ summary: ''
 (3) The bodies and persons mentioned in subsection (2)(c) above are—
 
 - (a) the Secretary of State;
-- (aa)[^key-5f511e8c036a65f8b772c43986400342] the Assembly and the functional bodies;
+- (aa)[^c-5f511e8c036a65f8b772c43986400342] the Assembly and the functional bodies;
 - (b) every London borough council;
 - (c) the council of any county or district whose area adjoins Greater London and is affected by the proposed spatial development strategy;
 - (d) such other persons or bodies as may be prescribed by regulations under section 343 below; and
@@ -62,8 +62,8 @@ summary: ''
 
 [^c12807421]: Commencement: S.335 wholly in force at 3.7.2000: s.335 in force at Royal Assent (11.11.1999) for certain purposes, see s.425(2); s. 335 in force (3.7.2000) in so far as not already in force by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-f129b943fa757b6c19972620421c2120]: Textual amendment: S. 335(1)-(1B) repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(2)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/a), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-f129b943fa757b6c19972620421c2120]: Textual amendment: S. 335(1)-(1B) repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(2)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/a), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
 
-[^key-d25f5cd45fae90421b423f681cb3ea06]: Textual amendment: Word in s. 335(2) substituted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-d25f5cd45fae90421b423f681cb3ea06]: Textual amendment: Word in s. 335(2) substituted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
 
-[^key-5f511e8c036a65f8b772c43986400342]: Textual amendment: S. 335(3)(aa) inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(2)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/c), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-5f511e8c036a65f8b772c43986400342]: Textual amendment: S. 335(3)(aa) inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(2)(c)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/2/c), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

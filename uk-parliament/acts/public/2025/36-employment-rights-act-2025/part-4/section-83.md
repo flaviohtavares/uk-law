@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Powers to be exercised only on application[^key-d85f1d7fa822e8b2f3c3213b0a90299c]
+## 83. Powers to be exercised only on application[^c-d85f1d7fa822e8b2f3c3213b0a90299c]
 
 *Extent: E+W+S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d85f1d7fa822e8b2f3c3213b0a90299c]: Commencement: S. 83 in force at 18.2.2026, see [s. 159(2)(o)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/o) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/16))
+[^c-d85f1d7fa822e8b2f3c3213b0a90299c]: Commencement: S. 83 in force at 18.2.2026, see [s. 159(2)(o)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/o) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/16))

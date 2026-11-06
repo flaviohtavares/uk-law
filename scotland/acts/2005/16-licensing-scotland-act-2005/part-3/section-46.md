@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Confirmation of provisional premises licence[^key-5b8b8c8331ed1f0cd1a4615786fbe819]
+## 46. Confirmation of provisional premises licence[^c-5b8b8c8331ed1f0cd1a4615786fbe819]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ there has been no variation (other than a minor variation) made to the operating
 
 ## Annotations
 
-[^key-5b8b8c8331ed1f0cd1a4615786fbe819]: Commencement: S. 46 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-5b8b8c8331ed1f0cd1a4615786fbe819]: Commencement: S. 46 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

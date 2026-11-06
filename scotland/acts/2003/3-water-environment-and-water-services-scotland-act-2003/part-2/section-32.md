@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Vesting in Scottish Water of waterworks and mains[^key-9005344900c2022f88b389303b254476]
+## 32. Vesting in Scottish Water of waterworks and mains[^c-9005344900c2022f88b389303b254476]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9005344900c2022f88b389303b254476]: Commencement: S. 32 in force at 6.3.2006 by [S.S.I. 2006/55](https://www.legislation.gov.uk/ssi/2006/55), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/55/article/2/b)
+[^c-9005344900c2022f88b389303b254476]: Commencement: S. 32 in force at 6.3.2006 by [S.S.I. 2006/55](https://www.legislation.gov.uk/ssi/2006/55), [art. 2(b)](https://www.legislation.gov.uk/ssi/2006/55/article/2/b)

@@ -22,9 +22,9 @@ summary: ''
 
 (1) [^c13231891] The Hydrocarbon Oil Duties Act 1979 shall have effect subject to the following modifications.
 
-(2)[^key-ad7369098d7c2f695918179198f6093d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ad7369098d7c2f695918179198f6093d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9749ea240d27ebeded25cb5c1fc0e789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9749ea240d27ebeded25cb5c1fc0e789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (1) of section 27 (interpretation) after the words “In this Act” there shall be inserted the words— “ “**aviation gasoline**” has the meaning given by section 6(4) above ”.
 
@@ -52,7 +52,7 @@ summary: ''
 >
 > Prohibiting the taking of aviation gasoline into fuel tanks for engines other than aircraft engines.
 
-(7)[^key-fc1618332584aaaaabaddf8f976f7ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-fc1618332584aaaaabaddf8f976f7ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -60,8 +60,8 @@ summary: ''
 
 [^c13231891]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-ad7369098d7c2f695918179198f6093d]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1982/39/section/4/2) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/a), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-ad7369098d7c2f695918179198f6093d]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1982/39/section/4/2) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/a), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
-[^key-9749ea240d27ebeded25cb5c1fc0e789]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1982/39/section/4/3) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/a), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-9749ea240d27ebeded25cb5c1fc0e789]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1982/39/section/4/3) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/a), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
-[^key-fc1618332584aaaaabaddf8f976f7ec0]: Textual amendment: [S. 4(7)](https://www.legislation.gov.uk/ukpga/1982/39/section/4/7) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/a), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-fc1618332584aaaaabaddf8f976f7ec0]: Textual amendment: [S. 4(7)](https://www.legislation.gov.uk/ukpga/1982/39/section/4/7) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/a), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)

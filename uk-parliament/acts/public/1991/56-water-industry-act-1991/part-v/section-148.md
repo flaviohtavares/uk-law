@@ -33,7 +33,7 @@ summary: ''
 - (a) any expenses incurred for the purpose of enabling a condition imposed by virtue of subsection (2)(c) or (d) of section 47 above to be satisfied;
 - (b) any sums which it is entitled to recover in pursuance of any terms or conditions determined under section 56 above;
 - (c)[^c13220701] in the case of premises which do not consist of or include any building or part of a building which is occupied as a private dwelling-house, any sums which it is entitled to recover from that person by virtue of section 64(3)(b) above;
-- (cc)[^c19840421] any sums which it is entitled to recover under an agreement under section 66D or 117E[^key-95afbf529b08004224e1117018ca5eca] above;
+- (cc)[^c19840421] any sums which it is entitled to recover under an agreement under section 66D or 117E[^c-95afbf529b08004224e1117018ca5eca] above;
 - (d) any expenses incurred in relation to a meter which is or is to be used in determining the amount of—
   - (i) any charges which are to be paid in connection with the carrying out of a sewerage undertaker’s functions under Chapter III of Part IV of this Act; or
   - (ii) any charges provision for which is contained in an agreement entered into in accordance with section 129 above;
@@ -62,7 +62,7 @@ shall be referred to the arbitration of a single arbitrator appointed by agreeme
 
 [^c19840421]: Textual amendment: S. 148(2)(cc) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/33); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-95afbf529b08004224e1117018ca5eca]: Textual amendment: Words in [s. 148(2)(cc)](https://www.legislation.gov.uk/ukpga/1991/56/section/148/2/cc) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/100); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xv)
+[^c-95afbf529b08004224e1117018ca5eca]: Textual amendment: Words in [s. 148(2)(cc)](https://www.legislation.gov.uk/ukpga/1991/56/section/148/2/cc) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 100](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/100); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xv)
 
 [^c13220721]: Textual amendment: S. 148(4A) inserted (1.7.1992) by [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [s. 53(3)](https://www.legislation.gov.uk/ukpga/1992/43/section/53/3); Competition and Service (Utilities) Act 1992 (Commencement No. 1) Order 1992, art. 3, Sch. Pt. I
 

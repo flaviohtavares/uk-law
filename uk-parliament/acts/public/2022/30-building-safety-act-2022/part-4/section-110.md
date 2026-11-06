@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Managers appointed under Part 2 of the Landlord and Tenant Act 1987[^key-bb7831988916563cec94c3851bec809f][^key-c19ea6da94476ce1cb047283db46d008]
+## 110. Managers appointed under Part 2 of the Landlord and Tenant Act 1987[^c-bb7831988916563cec94c3851bec809f][^c-c19ea6da94476ce1cb047283db46d008]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7831988916563cec94c3851bec809f]: Commencement: S. 110 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-bb7831988916563cec94c3851bec809f]: Commencement: S. 110 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-c19ea6da94476ce1cb047283db46d008]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/30/section/110) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z9)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z9)
+[^c-c19ea6da94476ce1cb047283db46d008]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/30/section/110) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z9)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z9)

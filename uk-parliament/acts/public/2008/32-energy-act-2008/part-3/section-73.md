@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Financial resources etc[^key-793ac140e69b2e3bd6956ae13e0c015b]
+## 73. Financial resources etc[^c-793ac140e69b2e3bd6956ae13e0c015b]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-793ac140e69b2e3bd6956ae13e0c015b]: Commencement: S. 73 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)
+[^c-793ac140e69b2e3bd6956ae13e0c015b]: Commencement: S. 73 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Power of Land Court to grant remedies etc.[^key-a5a5724786de33bec1e5ffb86843a49b]
+## 84. Power of Land Court to grant remedies etc.[^c-a5a5724786de33bec1e5ffb86843a49b]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5a5724786de33bec1e5ffb86843a49b]: Commencement: S. 84 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-a5a5724786de33bec1e5ffb86843a49b]: Commencement: S. 84 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

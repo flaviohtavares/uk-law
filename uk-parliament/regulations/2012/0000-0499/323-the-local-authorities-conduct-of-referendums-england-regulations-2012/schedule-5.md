@@ -32,12 +32,12 @@ These Rules may be cited as the Local Government Act Referendums (Combination of
 
 (1) In these Rules—
 
-- “[^key-bdf04c4584e3b54696fa78955b1387de]**anonymous elector’s document**” has the meaning given in regulation 3(1) of the Voter Identification Regulations 2022;
+- “[^c-bdf04c4584e3b54696fa78955b1387de]**anonymous elector’s document**” has the meaning given in regulation 3(1) of the Voter Identification Regulations 2022;
 - “**relevant returning or counting officer**” means the returning officer or the counting officer discharging the functions under (as the case may be)—
   - (a) regulation 5 of the Combination of Polls Regulations [^c21171051]; or
   - (b) regulation 13(2);
 - “**voter**” means a person entitled to vote on his or her own behalf.
-- “[^key-85dd764c55970a0b4b72b51cbd861a6e]**temporary electoral identity document**” has the meaning given in regulation 3(1) of the Voter Identification Regulations 2022;
+- “[^c-85dd764c55970a0b4b72b51cbd861a6e]**temporary electoral identity document**” has the meaning given in regulation 3(1) of the Voter Identification Regulations 2022;
 
 (2) Subject to paragraph (1), expressions used both in these Rules and the 1983 Act (as it applies to local government elections) have the same meaning in these Rules as they have in that Act.
 
@@ -129,7 +129,7 @@ No person who has voted at the referendum shall, in any legal proceeding to ques
 (1) The counting officer must publish notice of the poll stating—
 
 - (a) the day and hours fixed for the poll; and
-- (b) the question to be asked in the referendum , using the words in the relevant paragraph in Schedule 1 to the Local Authorities (Conduct of Referendums) (England) Regulations 2012[^key-8cd46b590d89779039c22341ca40b67b].
+- (b) the question to be asked in the referendum , using the words in the relevant paragraph in Schedule 1 to the Local Authorities (Conduct of Referendums) (England) Regulations 2012[^c-8cd46b590d89779039c22341ca40b67b].
 
 (2) The notice of the poll must be published no later than the sixth day before the date of the referendum.
 
@@ -141,7 +141,7 @@ No person who has voted at the referendum shall, in any legal proceeding to ques
 (4) The notice published under paragraph (3) must—
 
 - (a) state that the poll at the referendum is to be taken together with the poll at a relevant election or referendum;
-- (b) specify the parliamentary constituency [^c21171061], [^key-bc72db71b389277b6d7431c90ff681ec]... Assembly constituency, voting area or, as the case may be, the relevant local authority and, in the case of an election to fill a casual vacancy, the electoral area for which the relevant election is held; and
+- (b) specify the parliamentary constituency [^c21171061], [^c-bc72db71b389277b6d7431c90ff681ec]... Assembly constituency, voting area or, as the case may be, the relevant local authority and, in the case of an election to fill a casual vacancy, the electoral area for which the relevant election is held; and
 - (c) where any of the polls are to be taken together in part of the electoral area only, specify that part.
 
 #### 13. Postal ballot papers
@@ -175,7 +175,7 @@ No person who has voted at the referendum shall, in any legal proceeding to ques
 
 (6) The relevant returning or counting officer must provide each polling station with such number of compartments as may be necessary in which the voters and proxies can mark their votes screened from observation.
 
-(7)[^key-e4f1690fb6e651e7abe0870e3f9676c8] The counting officer must ensure that each polling station contains an area in which voters and proxies can produce proof of identity in private.
+(7)[^c-e4f1690fb6e651e7abe0870e3f9676c8] The counting officer must ensure that each polling station contains an area in which voters and proxies can produce proof of identity in private.
 
 #### 15. Appointment of presiding officers and clerks
 
@@ -183,7 +183,7 @@ No person who has voted at the referendum shall, in any legal proceeding to ques
 
 (2) The relevant returning or counting officer may, if he or she thinks fit, preside at a polling station and the provisions of these Rules relating to a presiding officer shall apply to a relevant returning or counting officer so presiding with the necessary modifications as to things to be done by the relevant returning or counting officer to the presiding officer or by the presiding officer to the relevant returning or counting officer.
 
-(3) A presiding officer may do, by the clerks appointed to assist him or her, any act (including the asking of questions) which he or she is required or authorised by these Rules to do at a polling station except—.[^key-7539c24d5fc8e27ff537aed1b070d526]
+(3) A presiding officer may do, by the clerks appointed to assist him or her, any act (including the asking of questions) which he or she is required or authorised by these Rules to do at a polling station except—.[^c-7539c24d5fc8e27ff537aed1b070d526]
 
 - (a) order the arrest, exclusion or removal of any person from the polling station,
 - (b) refuse to deliver a ballot paper under rule 26(3) or rule 28(1E) (including that rule as applied by rule 29, 30 or 31), or
@@ -233,16 +233,16 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 (5) The reference in paragraph (4)(b) to the copies of the register of electors includes a reference to copies of any notices issued under section 13B(3B) or (3D) of the 1983 Act [^c21171081] in respect of alterations to the register.
 
-(5A)[^key-b219062ed79525032d1394d42a17f1af] The counting officer must provide each polling station with a ballot paper refusal list, in the form in the Appendix or a form to like effect, on which entries are to be made as mentioned in rule 32A (refusal to deliver ballot paper).
+(5A)[^c-b219062ed79525032d1394d42a17f1af] The counting officer must provide each polling station with a ballot paper refusal list, in the form in the Appendix or a form to like effect, on which entries are to be made as mentioned in rule 32A (refusal to deliver ballot paper).
 
 (6) The relevant returning or counting officer must also provide each polling station with—
 
 - (a) at least one large version of each ballot paper which must be printed on the same colour paper as the corresponding ballot paper and displayed inside the polling station for the assistance of voters and proxies who are partially sighted; and
-- (b)[^key-132ccddd55fea667feb0728d98553012] such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 28 (voting procedure), including in relation to voting secretly; and for this purpose “**relevant persons**” means persons who find it difficult or impossible to vote in that manner because of—
+- (b)[^c-132ccddd55fea667feb0728d98553012] such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 28 (voting procedure), including in relation to voting secretly; and for this purpose “**relevant persons**” means persons who find it difficult or impossible to vote in that manner because of—
   - (i) blindness or partial sight; or
   - (ii) another disability.
 
-(6A)[^key-e3225c9e25b29f52ab9fa741b2242f8e] Paragraph (10) of rule 29 of Schedule 1 to the 1983 Act (Parliamentary elections rules: guidance to returning officers) applies for the purposes of paragraph (6)(b) of this rule as it applies for the purposes of that rule, but as if—
+(6A)[^c-e3225c9e25b29f52ab9fa741b2242f8e] Paragraph (10) of rule 29 of Schedule 1 to the 1983 Act (Parliamentary elections rules: guidance to returning officers) applies for the purposes of paragraph (6)(b) of this rule as it applies for the purposes of that rule, but as if—
 
 - (a) the reference in that paragraph to the returning officer were a reference to the relevant returning or counting officer, and
 - (b) the reference in that paragraph to paragraph (3A)(b) were a reference to paragraph (6)(b) of this rule.
@@ -254,7 +254,7 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 (8) A notice in the form in the Appendix, giving directions for the guidance of voters and proxies in voting, must be printed in conspicuous characters and exhibited inside and outside every polling station.
 
-(8A)[^key-2e4cc247360ffe8b278b0106b84dd71a] A large notice must be displayed inside each polling station containing—
+(8A)[^c-2e4cc247360ffe8b278b0106b84dd71a] A large notice must be displayed inside each polling station containing—
 
 - (a) details of the documents the voter or proxy needs to produce when applying for a ballot paper, namely—
   - (i) in the case of a voter (other than a voter with an anonymous entry) or a proxy, any of the forms of identification for the time being referred to in rule 37(1H) of Schedule 1 to the 1983 Act (parliamentary elections rules);
@@ -263,7 +263,7 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 (9) The relevant returning or counting officer may also provide copies of the notice mentioned in paragraph (8) in Braille or translated into languages other than English as he or she considers appropriate, provided that these notices are accurate reproductions in Braille or that other language of that notice.
 
-(10)[^key-25c8c958d87eb5be3876b812071191ce] In every compartment of every polling station there must be exhibited the notice—
+(10)[^c-25c8c958d87eb5be3876b812071191ce] In every compartment of every polling station there must be exhibited the notice—
 
 “\*PARLIAMENTARY ELECTION
 
@@ -271,7 +271,7 @@ and different information may be provided in pursuance of sub-paragraph (d) to d
 
 Vote for ONLY ONE CANDIDATE by putting a cross \[X} in the box next to your choice.
 
-[^key-3139b4bd59081b30f9f2a3d49f50fe23]...
+[^c-3139b4bd59081b30f9f2a3d49f50fe23]...
 
 \*\[*Specify name of council*\] COUNCIL ELECTION
 
@@ -285,7 +285,7 @@ Vote for ONLY ONE CANDIDATE by putting a cross \[X} in the box next to your choi
 
 (\[*Specify colour*\] ballot paper
 
-\#Vote for ONLY ONE candidate by putting a cross \[X\] in the box next to your choice.[^key-4eb50300d0406d2435662e19f5d5230c]
+\#Vote for ONLY ONE candidate by putting a cross \[X\] in the box next to your choice.[^c-4eb50300d0406d2435662e19f5d5230c]
 
 \*ELECTION OF THE LONDON ASSEMBLY
 
@@ -313,7 +313,7 @@ PUT NO OTHER MARK ON THE BALLOT PAPER OR YOUR VOTE MAY NOT COUNT
 
 *#Alternatively, insert such information as the GLRO may decide.”*
 
-(11)[^key-544ff8645d7aaab65b6ad3da8a3ea8c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-544ff8645d7aaab65b6ad3da8a3ea8c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 18. Appointment of counting observers
 
@@ -362,15 +362,15 @@ For the purposes of the calculations required by this paragraph, a counting obse
 
 #### 20. Notification of requirement of secrecy in respect of polling stations
 
-(1)[^key-e8787923d64c05e87d8539d82e98f416] The relevant returning or counting officer must make such arrangements as he or she thinks fit to ensure that every person attending at a polling station (otherwise than for the purpose of voting or assisting a voter or proxy with disabilities to vote or as a constable on duty there) has been given a copy in writing of the provisions of subsections (1), (3) and (6) of section 66 of the 1983 Act, as applied by Schedule 4 [^c21171111].
+(1)[^c-e8787923d64c05e87d8539d82e98f416] The relevant returning or counting officer must make such arrangements as he or she thinks fit to ensure that every person attending at a polling station (otherwise than for the purpose of voting or assisting a voter or proxy with disabilities to vote or as a constable on duty there) has been given a copy in writing of the provisions of subsections (1), (3) and (6) of section 66 of the 1983 Act, as applied by Schedule 4 [^c21171111].
 
-(2)[^key-f485a08b39a89aa3302150690eab23c7] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+(2)[^c-f485a08b39a89aa3302150690eab23c7] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
 
 #### 21. Notification of requirement of secrecy in respect of the count
 
-(1)[^key-41aa6ef0265172edf864deeaf76ea3f5] The counting officer must make such arrangements as he or she thinks fit to ensure that every person attending at the counting of the votes (other than any constable on duty at the counting) has been given a copy in writing of the provisions of subsections (2) and (6) of section 66 of the 1983 Act, as applied by Schedule 4.
+(1)[^c-41aa6ef0265172edf864deeaf76ea3f5] The counting officer must make such arrangements as he or she thinks fit to ensure that every person attending at the counting of the votes (other than any constable on duty at the counting) has been given a copy in writing of the provisions of subsections (2) and (6) of section 66 of the 1983 Act, as applied by Schedule 4.
 
-(2)[^key-9f25a3400dbe4c4e6fd8da45c9469fdc] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+(2)[^c-9f25a3400dbe4c4e6fd8da45c9469fdc] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
 
 #### 22. Return of postal ballot papers
 
@@ -393,7 +393,7 @@ the relevant returning or counting officer must mark the list in the manner pres
 
 - (a) voters and proxies;
 - (b) persons under the age of 18 who accompany voters and proxies to the polling station;
-- (ba)[^key-e653aa5c393880101247a406a6ab2e4e] persons aged 18 or over returning a postal ballot paper or postal voting statement by hand in accordance with rule 38(6)(b);
+- (ba)[^c-e653aa5c393880101247a406a6ab2e4e] persons aged 18 or over returning a postal ballot paper or postal voting statement by hand in accordance with rule 38(6)(b);
 - (c) the polling observers appointed to attend at the polling station;
 - (d) the clerks appointed to attend at the polling station;
 - (e) persons who are entitled to attend by virtue of any of sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000 [^c21171131];
@@ -409,7 +409,7 @@ the relevant returning or counting officer must mark the list in the manner pres
 
 (4) Any certificate surrendered under this rule must forthwith be cancelled.
 
-(5)[^key-3619e28dc49fdbfc7759abe19d9f7daa] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
+(5)[^c-3619e28dc49fdbfc7759abe19d9f7daa] In this rule, a reference to a constable includes a person designated as a community support officer under section 38 of the Police Reform Act 2002 (police powers for employees).
 
 #### 24. Keeping of order in station
 
@@ -430,12 +430,12 @@ and the person so removed shall not, without the presiding officer's permission,
 
 Immediately before the commencement of the poll, the presiding officer must show the ballot box is empty to such persons, if any, as are present in the polling station, so that they may see that it is empty, and must then lock it up, if it has a lock and (in any case) place his or her seal on it in such a manner as to prevent its being opened without breaking the seal and must place it in his or her view for the receipt of ballot papers, and keep it so locked and sealed or sealed (as the case may be).
 
-#### 26. Questions to be put to voters and proxies[^key-5c02fb6f75e1c512dc5436085e6fa15b]
+#### 26. Questions to be put to voters and proxies[^c-5c02fb6f75e1c512dc5436085e6fa15b]
 
 (1) At the time of the application for a ballot paper (but not afterwards), the questions specified in the second column of the following Table—
 
 - (a) may be put by the presiding officer to a person applying for a ballot paper who is mentioned in the first column; and
-- (b) must be put if (where applicable) the person has answered the previous question in the manner indicated, and[^key-f3a6252f88d96f4bf6f7a37026fc0bb0] the letter “R” appears after the question and a petition organiser or a polling observer requires the question to be put:
+- (b) must be put if (where applicable) the person has answered the previous question in the manner indicated, and[^c-f3a6252f88d96f4bf6f7a37026fc0bb0] the letter “R” appears after the question and a petition organiser or a polling observer requires the question to be put:
 
   <table>
   <tbody>
@@ -473,11 +473,11 @@ Immediately before the commencement of the poll, the presiding officer must show
   </tbody>
   </table>
 
-  [^key-748c120da1b560094d3ff5be5bc2908f][^key-c3021290f3a98004fadbdaa3e9eddd6c][^key-6220b47fab33656a95e9837921e85c14][^key-6220b47fab33656a95e9837921e85c14][^key-6220b47fab33656a95e9837921e85c14]
+  [^c-748c120da1b560094d3ff5be5bc2908f][^c-c3021290f3a98004fadbdaa3e9eddd6c][^c-6220b47fab33656a95e9837921e85c14][^c-6220b47fab33656a95e9837921e85c14][^c-6220b47fab33656a95e9837921e85c14]
 
-(2) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the references in the questions at entries 1(a) and 3(a) and (b)[^key-ba1552b7f1284a7a9fd36026ce4ff4b0] to reading from the register shall be taken as references to reading from the notice issued under section 13B(3B) or (3D) of the 1983 Act.
+(2) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the references in the questions at entries 1(a) and 3(a) and (b)[^c-ba1552b7f1284a7a9fd36026ce4ff4b0] to reading from the register shall be taken as references to reading from the notice issued under section 13B(3B) or (3D) of the 1983 Act.
 
-(2A)[^key-79ec2fee4924b893aa35f1d03886e933] Where a clerk—
+(2A)[^c-79ec2fee4924b893aa35f1d03886e933] Where a clerk—
 
 - (a) gives a person the required information (see paragraph (5)),
 - (b) puts a question specified in paragraph (1) to the person, and
@@ -485,7 +485,7 @@ Immediately before the commencement of the poll, the presiding officer must show
 
 the clerk must refer the matter to the presiding officer, who must put the question to the person again.
 
-(3)[^key-ca06d871575c1dc553b69804ed1e087f] Where the presiding officer—
+(3)[^c-ca06d871575c1dc553b69804ed1e087f] Where the presiding officer—
 
 - (a) gives the person the required information,
 - (b) puts a question specified in paragraph (1) to the person (whether or not following a referral under paragraph (2A)), and
@@ -500,9 +500,9 @@ the officer must refuse to deliver a ballot paper to the person (and see rule 32
 
 (3B) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, the references to the register in paragraph (3A) are to be read as references to the notice issued under section 13B(3B) or (3D).
 
-(4) Except as authorised by this rule, no inquiry shall be permitted as to the right of any person to vote (and for the purposes of this paragraph, an inquiry relating to the production of identification by a person is not to be regarded as an inquiry as to the right of the person to vote)[^key-d57ea053c037165253160f001e9dd38a] .
+(4) Except as authorised by this rule, no inquiry shall be permitted as to the right of any person to vote (and for the purposes of this paragraph, an inquiry relating to the production of identification by a person is not to be regarded as an inquiry as to the right of the person to vote)[^c-d57ea053c037165253160f001e9dd38a] .
 
-(5)[^key-e400dda826769a2889cb06bb10f877e8] For the purposes of this rule, a person to whom any question is to be put is given “the required information” if the person is first informed that—
+(5)[^c-e400dda826769a2889cb06bb10f877e8] For the purposes of this rule, a person to whom any question is to be put is given “the required information” if the person is first informed that—
 
 - (a) a ballot paper will be refused if the person fails to answer each question satisfactorily, and
 - (b) giving false information may be an offence.
@@ -516,14 +516,14 @@ A person must not be prevented from voting by reason only that—
 
 #### 28. Voting procedure
 
-(1) Subject to rule 26(3) and to paragraphs (1A) to (1M), a[^key-5940fbfd793d416339a7033bbad69196] ballot paper must be delivered to a voter or proxy who applies for one, and immediately before delivery—
+(1) Subject to rule 26(3) and to paragraphs (1A) to (1M), a[^c-5940fbfd793d416339a7033bbad69196] ballot paper must be delivered to a voter or proxy who applies for one, and immediately before delivery—
 
-- (a)[^key-f336750ef12f929b19b0ff853be28b0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f336750ef12f929b19b0ff853be28b0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the number of the voter as stated in the register must be marked on the list mentioned in rule 17(4)(d) beside the number of the ballot paper to be issued to him or her;
 - (c) a mark must be placed in the copy of the register of electors against the number of the voter to note that a ballot paper has been received but without showing the particular ballot paper which has been received; and
 - (d) in the case of a person applying for a ballot paper as proxy, a mark must also be placed against his or her name in the list of proxies.
 
-(1A)[^key-9515de68903ce0af83a49728dbf10d6b] A ballot paper must not be delivered to a voter or proxy unless the voter or proxy produces a specified document to the presiding officer or a clerk.
+(1A)[^c-9515de68903ce0af83a49728dbf10d6b] A ballot paper must not be delivered to a voter or proxy unless the voter or proxy produces a specified document to the presiding officer or a clerk.
 
 (1B) The presiding officer or clerk must arrange for the voter or proxy to produce any document in a private area of the polling station if the voter or proxy so requests, and, in such a case, must ensure that no other persons witness the production except as permitted by the voter or proxy.
 
@@ -565,11 +565,11 @@ A person must not be prevented from voting by reason only that—
 
 (1M) References in this rule to producing a document are to producing it for inspection.
 
-(2) In the case of a voter who has an anonymous entry, that person must show the presiding officer his or her official poll card [^key-ff6dfd32a3c54eb379af9fc28331d0d6]....
+(2) In the case of a voter who has an anonymous entry, that person must show the presiding officer his or her official poll card [^c-ff6dfd32a3c54eb379af9fc28331d0d6]....
 
 (3) In the case of a voter or proxy who is added to the register in pursuance of a notice issued under section 13B(3B) or (3D) of the 1983 Act [^c21171141], paragraph (1) is modified as follows—
 
-- (a)[^key-661c19174e74ded247d0c27a9ef59754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-661c19174e74ded247d0c27a9ef59754] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (b), for “in the register” substitute “ on the copy of the notice issued under section 13B(3B) or (3D) of the 1983 Act ”;
 - (c) in sub-paragraph (c), for “in the copy of the register of electors” substitute “ on the copy of the notice issued under section 13B(3B) or (3D) of the 1983 Act ”.
 
@@ -577,7 +577,7 @@ A person must not be prevented from voting by reason only that—
 
 (5) The voter or proxy must vote without undue delay, and must leave the polling station as soon as he or she has put his or her ballot paper into the ballot box.
 
-(5A)[^key-8d5aae34731e8dfa78bf36c804b24a5d] A voter or proxy who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter or proxy accordingly.
+(5A)[^c-8d5aae34731e8dfa78bf36c804b24a5d] A voter or proxy who at the close of the poll is in the polling station, or in a queue outside the polling station, for the purpose of voting shall (despite the close of the poll) be entitled to apply for a ballot paper under paragraph (1); and these rules apply in relation to such a voter or proxy accordingly.
 
 (6) The same copy of the register of electors which is used under paragraph (1) for the referendum or, where paragraph (3) applies, the same copy of the notice issued under section 13B(3B) or (3D) of the 1983 Act, may be used for each relevant election or referendum, and—
 
@@ -610,7 +610,7 @@ must, in the presence of the polling observers (if any), cause that person's vot
 
 to vote with the assistance of another person by whom he or she is accompanied (in these Rules referred to as “**the companion**”), the presiding officer must require the voter or proxy to declare, orally or in writing, whether he or she is so incapacitated by his or her blindness or other disability, or by his or her inability to read, as to be unable to vote without assistance.
 
-(2) Subject to paragraph (2A), if[^key-d1d784f4db29561ab816310aeb1bd816] the presiding officer—
+(2) Subject to paragraph (2A), if[^c-d1d784f4db29561ab816310aeb1bd816] the presiding officer—
 
 - (a) is satisfied that the voter or proxy is so incapacitated; and
 - (b) is also satisfied by a written declaration made by the companion (in these Rules referred to as “**the declaration made by the companion of a voter or proxy with disabilities**”) that the companion—
@@ -619,12 +619,12 @@ to vote with the assistance of another person by whom he or she is accompanied (
 
 the presiding officer must grant the application, and then anything which is by these Rules required to be done to or by that voter or proxy in connection with the giving of his or her vote may be done to, or with the assistance of, the companion.
 
-(2A)[^key-7705b36cb7f73bb0354159b52f22b29f] Paragraphs (1A) to (1M) of rule 28 apply in the case of a voter or proxy who applies under paragraph (a) as they apply in the case of a voter or proxy who applies under rule 28(1), but as if—
+(2A)[^c-7705b36cb7f73bb0354159b52f22b29f] Paragraphs (1A) to (1M) of rule 28 apply in the case of a voter or proxy who applies under paragraph (a) as they apply in the case of a voter or proxy who applies under rule 28(1), but as if—
 
 - (a) references to delivering a ballot paper to a voter or proxy were to granting a voter’s or proxy’s application, and
 - (b) in rule 28(1G), the reference to paragraph (1) of rule 28 were to paragraph (1) of this rule.
 
-(3) For the purposes of these Rules, a person is a voter or proxy with disabilities if he or she has made such a declaration as is mentioned in paragraph (1), and a person is qualified to assist a voter or proxy with disabilities to vote if that person is aged 18 or over.[^key-c6aaa046cf9113094b0f9dcb64bdbd28]
+(3) For the purposes of these Rules, a person is a voter or proxy with disabilities if he or she has made such a declaration as is mentioned in paragraph (1), and a person is qualified to assist a voter or proxy with disabilities to vote if that person is aged 18 or over.[^c-c6aaa046cf9113094b0f9dcb64bdbd28]
 
 (4) The name and number in the register of electors of every person whose vote is given in accordance with this rule and the name and address of the companion must be entered on a list (in these Rules referred to as “**the list of voters and proxies with disabilities assisted by companions**”).
 
@@ -674,7 +674,7 @@ and claims that he or she has lost or has not received his or her postal ballot 
 
 (6) The person shall, on satisfactorily answering the questions permitted by law to be asked at the poll, be entitled, subject to the provisions of rule 32, to mark a ballot paper (in these Rules referred to as a “**tendered ballot paper**”) in the same manner as any other voter.
 
-(7)[^key-dc3332be85fca876f30242b6c7d10ef9] Paragraphs (1A) to (1M) of rule 28 apply in the case of a person who seeks to mark a tendered ballot paper under this rule as they apply in the case of a voter or proxy who applies for a ballot paper under rule 28(1), but as if in rule 28(1G), the reference to making a further application under paragraph (1) of rule 28 were to seeking a further time to mark a tendered ballot paper under the paragraph of this rule under which a previous such attempt was made.
+(7)[^c-dc3332be85fca876f30242b6c7d10ef9] Paragraphs (1A) to (1M) of rule 28 apply in the case of a person who seeks to mark a tendered ballot paper under this rule as they apply in the case of a voter or proxy who applies for a ballot paper under rule 28(1), but as if in rule 28(1G), the reference to making a further application under paragraph (1) of rule 28 were to seeking a further time to mark a tendered ballot paper under the paragraph of this rule under which a previous such attempt was made.
 
 #### 32. Tendered ballot papers: general provisions
 
@@ -727,7 +727,7 @@ A voter or proxy who has inadvertently dealt with his or her ballot paper in suc
 - (b) the unused and spoilt ballot papers placed together;
 - (c) the tendered ballot papers;
 - (d) the marked copies of the register of electors (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act) and of the list of proxies;
-- (da)[^key-8fa519cb496116358b64e9273851b154] the ballot paper refusal list completed in accordance with rule 32A;
+- (da)[^c-8fa519cb496116358b64e9273851b154] the ballot paper refusal list completed in accordance with rule 32A;
 - (e) the lists prepared under rule 8 including the parts which were completed in accordance with rule 28(1)(b) (together referred to in these Rules as “**the completed corresponding number lists**”);
 - (f) the certificates as to employment on duty on the day of the poll;
 - (g) the tendered votes list, the list of voters and proxies with disabilities assisted by companions, the list of votes marked by the presiding officer, a statement of the number of voters and proxies whose votes are so marked by the presiding officer under the heads “disability” and “unable to read”, the list maintained under rule 34 (correction of errors on day of poll) and the declarations made by the companions of voters and proxies with disabilities,
@@ -817,11 +817,11 @@ and paragraph (11) shall not apply to these proceedings.
 
 - (a) it is returned in the manner set out in paragraph (6) and reaches the relevant returning or counting officer or any polling station in the appropriate electoral area (as defined in paragraph (7)) before the close of the poll;
 - (b) the postal voting statement, duly signed, is also returned in the manner set out in paragraph (6) and reaches the counting officer or such a polling station before that time;
-- (c) the postal voting statement also states the date of birth of the voter or proxy; [^key-41c1d23e0b12a94983a8a3bd8203fc92]...
-- (d) in a case where steps for verifying the date of birth and signature of a voter or proxy have been prescribed by regulations made under the 1983 Act [^c21171161], the relevant returning or counting officer (having taken such steps) verifies that date of birth and that signature; and[^key-e59ea3abd1ee66a91b02af2d2a3a5ff4]
+- (c) the postal voting statement also states the date of birth of the voter or proxy; [^c-41c1d23e0b12a94983a8a3bd8203fc92]...
+- (d) in a case where steps for verifying the date of birth and signature of a voter or proxy have been prescribed by regulations made under the 1983 Act [^c21171161], the relevant returning or counting officer (having taken such steps) verifies that date of birth and that signature; and[^c-e59ea3abd1ee66a91b02af2d2a3a5ff4]
 - (e) the postal ballot paper is not one that falls to be rejected in accordance with regulation 79B, 79D, 82B or 82D of the Representation of the People (England and Wales) Regulations 2001.
 
-(5A)[^key-81a1ece71751e09ea46d3467bb990606] A postal ballot paper or postal voting statement that reaches the relevant returning or counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (5) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.
+(5A)[^c-81a1ece71751e09ea46d3467bb990606] A postal ballot paper or postal voting statement that reaches the relevant returning or counting officer or a polling station on or after the close of the poll is treated for the purposes of paragraph (5) as reaching that officer or polling station before the close of the poll if it is delivered by a person who, at the close of the poll, is in the polling station, or in a queue outside the polling station, for the purpose of returning it.
 
 (6) The manner in which any postal ballot paper or postal voting statement may be returned—
 
@@ -830,7 +830,7 @@ and paragraph (11) shall not apply to these proceedings.
 
 (7) The appropriate electoral area in respect of any voter or proxy shall be—
 
-- (a) the area which is common to the parliamentary constituency [^c21171171], electoral area, [^key-a130a374cbb714d578750c00dc330a29]... local authority area or voting area (as the case may be) in which the polls at the referendum and any relevant election or referendum are being taken together; and
+- (a) the area which is common to the parliamentary constituency [^c21171171], electoral area, [^c-a130a374cbb714d578750c00dc330a29]... local authority area or voting area (as the case may be) in which the polls at the referendum and any relevant election or referendum are being taken together; and
 - (b) in respect of which polls the voter or proxy has been issued with a postal ballot paper.
 
 (8) In paragraphs (5)(a) and (d) and (6)(a) for “relevant returning or counting officer” substitute “ counting officer ” where proceedings on the issue and receipt of postal ballot papers at the referendum are not taken together with such proceedings at one or more relevant elections or referendums.
@@ -921,7 +921,7 @@ When the result of the poll has been ascertained, the counting officer must fort
 (2) The counting officer must not open the sealed packets of—
 
 - (a) tendered ballot papers; or
-- (aa)[^key-a157efdf375d7c5ab7a700cf47ae1470] the completed ballot paper refusal list; or
+- (aa)[^c-a157efdf375d7c5ab7a700cf47ae1470] the completed ballot paper refusal list; or
 - (b) certificates as to employment on duty on the day of the poll.
 
 (3) The relevant returning or counting officer must not open the sealed packets of—
@@ -937,7 +937,7 @@ When the result of the poll has been ascertained, the counting officer must fort
 - (b) the ballot paper accounts and the statements of rejected ballot papers and of the result of the verification of the ballot paper accounts;
 - (c) the tendered votes lists, the lists of voters and proxies with disabilities assisted by companions, the lists of votes marked by the presiding officer and the related statements, the lists maintained under rule 34, and the declarations made by the companions of voters and proxies with disabilities;
 - (d) the packets of the completed corresponding number lists;
-- (da)[^key-2b9dd8f68dd370dbd2979bd59f038bb6] the packet containing the completed ballot paper refusal list;
+- (da)[^c-2b9dd8f68dd370dbd2979bd59f038bb6] the packet containing the completed ballot paper refusal list;
 - (e) the packets of certificates as to employment on duty on the day of the poll; and
 - (f) the packets containing marked copies of registers (including any marked copy notices issued under section 13B(3B) or (3D) of the 1983 Act) and of the postal voters list, of the lists of proxies and of the proxy postal voters list,
 
@@ -961,7 +961,7 @@ and for these purposes “**local authority**” does not include the Greater Lo
 
 may be made by a county court, if the court is satisfied by evidence on oath that the order is required for the purpose of instituting or maintaining a prosecution for an offence in relation to ballot papers, or for the purpose of a referendum petition.
 
-(1A)[^key-4510fa047bb29fa6ec475bd060d34f9d] An order—
+(1A)[^c-4510fa047bb29fa6ec475bd060d34f9d] An order—
 
 - (a) for the opening of the sealed packet containing a completed ballot paper refusal list, or
 - (b) for the inspection or production of that list,
@@ -1027,7 +1027,7 @@ Where at a contested election the notice of poll is countermanded, or the pollin
 - Official Postal Poll Card (to be sent to a voter voting by post)
 - Official Proxy Poll Card (to be sent to an appointed proxy voting in person)
 - Official Proxy Postal Poll Card (to be sent to an appointed proxy voting by post)
-- Ballot Paper Refusal List[^key-1002fd844143f39cebd83c4e96b090e2]
+- Ballot Paper Refusal List[^c-1002fd844143f39cebd83c4e96b090e2]
 - Form of directions for the guidance of the voters and proxies in voting
 - Form of Certificate of Employment
 - Declaration to be made by the companion of a voter or proxy with disabilities
@@ -1064,7 +1064,7 @@ Corresponding Number List M2
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_sld_022)
 
-Postal voting statement (for use where there is joint issue and receipt of postal ballot papers)[^key-c11bc354e8d0b1490cc271d72b1583aa]
+Postal voting statement (for use where there is joint issue and receipt of postal ballot papers)[^c-c11bc354e8d0b1490cc271d72b1583aa]
 
 Front of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_163.gif)Rear of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_164.gif)
 
@@ -1072,11 +1072,11 @@ Postal voting statement (for use when a referendum poll is combined with another
 
 Front of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_165.gif)Rear of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_166.gif)
 
-Official Poll Card (to be sent to a voter voting in person)[^key-fb418e50e42db273697057b568f566a0]
+Official Poll Card (to be sent to a voter voting in person)[^c-fb418e50e42db273697057b568f566a0]
 
 Front of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_183.gif)Rear of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_184.gif)
 
-[^key-a4db0c751b6c981d189935857ff19c7c]Official postal poll card (to be sent to a voter voting by post)
+[^c-a4db0c751b6c981d189935857ff19c7c]Official postal poll card (to be sent to a voter voting by post)
 
 Front of card [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_167.gif)Rear of card [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_168.gif)
 
@@ -1084,7 +1084,7 @@ Official Proxy Poll Card (to be sent to an appointed proxy voting in person)
 
 Front of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_185.gif)Rear of form [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_186.gif)
 
-[^key-a4db0c751b6c981d189935857ff19c7c]Official proxy postal poll card (to be sent to an appointed proxy voting by post)
+[^c-a4db0c751b6c981d189935857ff19c7c]Official proxy postal poll card (to be sent to an appointed proxy voting by post)
 
 Front of card [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_169.gif)Rear of card [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_170.gif)
 
@@ -1096,146 +1096,146 @@ Form of directions for the guidance of the voters and proxies in voting[^M_F_990
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_153.gif)
 
-Form of Certificate of Employment[^key-9f49c31eb460005e3162f39a469f25a8]
+Form of Certificate of Employment[^c-9f49c31eb460005e3162f39a469f25a8]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_030)
 
-Declaration to be made by the companion of a voter or proxy with disabilities[^key-8202dc55578bb8bff31a2c088c3cd723]
+Declaration to be made by the companion of a voter or proxy with disabilities[^c-8202dc55578bb8bff31a2c088c3cd723]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_036.gif)[image: see source](https://www.legislation.gov.uk/uksi/2012/323/images/uksi_20120323_en_epp_035.gif)
 
 ## Annotations
 
-[^key-bdf04c4584e3b54696fa78955b1387de]: Textual amendment: Words in [Sch. 5 rule 2(1)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/2/1) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(3)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/3/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-bdf04c4584e3b54696fa78955b1387de]: Textual amendment: Words in [Sch. 5 rule 2(1)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/2/1) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(3)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/3/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c21171051]: Marginal citation: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294); as amended by SI 2006/3278.
 
-[^key-85dd764c55970a0b4b72b51cbd861a6e]: Textual amendment: Words in [Sch. 5 rule 2(1)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/2/1) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(3)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/3/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-85dd764c55970a0b4b72b51cbd861a6e]: Textual amendment: Words in [Sch. 5 rule 2(1)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/2/1) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(3)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/3/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-8cd46b590d89779039c22341ca40b67b]: Textual amendment: Words in [Sch. 5 rule 12(1)(b)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/12/1/b) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2014/924/regulation/12) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-8cd46b590d89779039c22341ca40b67b]: Textual amendment: Words in [Sch. 5 rule 12(1)(b)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/12/1/b) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2014/924/regulation/12) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
 [^c21171061]: Marginal citation: For the meaning of “parliamentary constituency”, see section 1 of the [Parliamentary Constituencies Act 1986 (c.56)](https://www.legislation.gov.uk/ukpga/1986/56).
 
-[^key-bc72db71b389277b6d7431c90ff681ec]: Textual amendment: Words in [Sch. 5 rule 12(4)(b)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/12/4/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-bc72db71b389277b6d7431c90ff681ec]: Textual amendment: Words in [Sch. 5 rule 12(4)(b)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/12/4/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c21171071]: Marginal citation: See the Representation of the People (England and Wales) Regulations 2001 [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) as amended by SI 2002/1871, 2006/752 and SI 2006/2910.
 
-[^key-e4f1690fb6e651e7abe0870e3f9676c8]: Textual amendment: [Sch. 5 rule 14(7)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/14/7) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/4) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-e4f1690fb6e651e7abe0870e3f9676c8]: Textual amendment: [Sch. 5 rule 14(7)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/14/7) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/4) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-7539c24d5fc8e27ff537aed1b070d526]: Textual amendment: Words in [Sch. 5 rule 15(3)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/15/3) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(5)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-7539c24d5fc8e27ff537aed1b070d526]: Textual amendment: Words in [Sch. 5 rule 15(3)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/15/3) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(5)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c21171081]: Marginal citation: Section 13B of the 1983 Act was inserted by paragraph 3 of Schedule 2 to the [Representation of the People Act 2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by section 11(3) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). Subsections (3B) and (3D) of section 13B were inserted by section 11(4) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-b219062ed79525032d1394d42a17f1af]: Textual amendment: Sch. 5 rule 17(5A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(6)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/6/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-b219062ed79525032d1394d42a17f1af]: Textual amendment: Sch. 5 rule 17(5A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(6)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/6/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-132ccddd55fea667feb0728d98553012]: Textual amendment: Sch. 5 rule 17(6)(b) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-132ccddd55fea667feb0728d98553012]: Textual amendment: Sch. 5 rule 17(6)(b) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-e3225c9e25b29f52ab9fa741b2242f8e]: Textual amendment: Sch. 5 rule 17(6A) inserted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-e3225c9e25b29f52ab9fa741b2242f8e]: Textual amendment: Sch. 5 rule 17(6A) inserted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-2e4cc247360ffe8b278b0106b84dd71a]: Textual amendment: Sch. 5 rule 17(8A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(6)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/6/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-2e4cc247360ffe8b278b0106b84dd71a]: Textual amendment: Sch. 5 rule 17(8A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(6)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/6/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-25c8c958d87eb5be3876b812071191ce]: Textual amendment: Sch. 5 rule 17(10) substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2014/924/regulation/13) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-25c8c958d87eb5be3876b812071191ce]: Textual amendment: Sch. 5 rule 17(10) substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2014/924/regulation/13) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
-[^key-3139b4bd59081b30f9f2a3d49f50fe23]: Textual amendment: Words in Sch. 5 rule 17(10) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-3139b4bd59081b30f9f2a3d49f50fe23]: Textual amendment: Words in Sch. 5 rule 17(10) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-4eb50300d0406d2435662e19f5d5230c]: Textual amendment: Words in Sch. 5 rule 17(10) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/a)
+[^c-4eb50300d0406d2435662e19f5d5230c]: Textual amendment: Words in Sch. 5 rule 17(10) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/a)
 
-[^key-544ff8645d7aaab65b6ad3da8a3ea8c4]: Textual amendment: Sch. 5 rule 17(11) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/a/iii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-544ff8645d7aaab65b6ad3da8a3ea8c4]: Textual amendment: Sch. 5 rule 17(11) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/a/iii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-e8787923d64c05e87d8539d82e98f416]: Textual amendment: Sch. 5 rule 20 renumbered as Sch. 5 rule 20(1) (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2014/924/regulation/14) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-e8787923d64c05e87d8539d82e98f416]: Textual amendment: Sch. 5 rule 20 renumbered as Sch. 5 rule 20(1) (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2014/924/regulation/14) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
 [^c21171111]: Marginal citation: Subsections (1), (2) and (3) of section 66 of the 1983 Act were amended by paragraphs 69, 82, 86(b) and 96 of Schedule 1 to the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); subsection (6) was amended by paragraph 3 of Schedule 3 to the [Representation of the People Act 1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-f485a08b39a89aa3302150690eab23c7]: Textual amendment: [Sch. 5 rule 20(2)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/20/2) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2014/924/regulation/14) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-f485a08b39a89aa3302150690eab23c7]: Textual amendment: [Sch. 5 rule 20(2)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/20/2) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2014/924/regulation/14) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
-[^key-41aa6ef0265172edf864deeaf76ea3f5]: Textual amendment: Sch. 5 rule 21 renumbered as Sch. 5 rule 21(1) (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2014/924/regulation/15) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-41aa6ef0265172edf864deeaf76ea3f5]: Textual amendment: Sch. 5 rule 21 renumbered as Sch. 5 rule 21(1) (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2014/924/regulation/15) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
-[^key-9f25a3400dbe4c4e6fd8da45c9469fdc]: Textual amendment: [Sch. 5 rule 21(2)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/21/2) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2014/924/regulation/15) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-9f25a3400dbe4c4e6fd8da45c9469fdc]: Textual amendment: [Sch. 5 rule 21(2)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/21/2) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2014/924/regulation/15) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
 [^c21171121]: Marginal citation: See regulation 84A of the Representation of the People (England and Wales) Regulations 2001 [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) as amended by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-e653aa5c393880101247a406a6ab2e4e]: Textual amendment: Sch. 5 rule 23(1)(ba) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/b)
+[^c-e653aa5c393880101247a406a6ab2e4e]: Textual amendment: Sch. 5 rule 23(1)(ba) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/b)
 
 [^c21171131]: Marginal citation: Sections 6A to 6F of the [Political Parties, Elections and Referendums Act 2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41) were inserted by section 29 of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-3619e28dc49fdbfc7759abe19d9f7daa]: Textual amendment: Sch. 5 rule 23(5) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2014/924/regulation/16) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-3619e28dc49fdbfc7759abe19d9f7daa]: Textual amendment: Sch. 5 rule 23(5) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2014/924/regulation/16) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
-[^key-5c02fb6f75e1c512dc5436085e6fa15b]: Modification: Sch. 5 rule 26 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/2)[(3)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/3) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10))
+[^c-5c02fb6f75e1c512dc5436085e6fa15b]: Modification: Sch. 5 rule 26 modified (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/2)[(3)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/3) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10))
 
-[^key-f3a6252f88d96f4bf6f7a37026fc0bb0]: Textual amendment: Words in Sch. 5 rule 26(1)(b) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/a) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
+[^c-f3a6252f88d96f4bf6f7a37026fc0bb0]: Textual amendment: Words in Sch. 5 rule 26(1)(b) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/a) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
 
-[^key-748c120da1b560094d3ff5be5bc2908f]: Textual amendment: Words in Sch. 5 rule 26 table inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-748c120da1b560094d3ff5be5bc2908f]: Textual amendment: Words in Sch. 5 rule 26 table inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-c3021290f3a98004fadbdaa3e9eddd6c]: Textual amendment: Words in Sch. 5 rule 26 table substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/b/i) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
+[^c-c3021290f3a98004fadbdaa3e9eddd6c]: Textual amendment: Words in Sch. 5 rule 26 table substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/b/i) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
 
-[^key-6220b47fab33656a95e9837921e85c14]: Textual amendment: Words in Sch. 5 rule 26 table omitted (31.1.2024) by virtue of [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/b/ii) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
+[^c-6220b47fab33656a95e9837921e85c14]: Textual amendment: Words in Sch. 5 rule 26 table omitted (31.1.2024) by virtue of [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/b/ii) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
 
-[^key-ba1552b7f1284a7a9fd36026ce4ff4b0]: Textual amendment: Words in Sch. 5 rule 26(2) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/c) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
+[^c-ba1552b7f1284a7a9fd36026ce4ff4b0]: Textual amendment: Words in Sch. 5 rule 26(2) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b), [15(7)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/7/c) (with [Sch. 2 paras. 10](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/10), [11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1))
 
-[^key-79ec2fee4924b893aa35f1d03886e933]: Textual amendment: Sch. 5 rule 26(2A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-79ec2fee4924b893aa35f1d03886e933]: Textual amendment: Sch. 5 rule 26(2A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-ca06d871575c1dc553b69804ed1e087f]: Textual amendment: Sch. 5 rule 26(3)-(3B) substituted for Sch. 5 rule 26(3) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/c) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-ca06d871575c1dc553b69804ed1e087f]: Textual amendment: Sch. 5 rule 26(3)-(3B) substituted for Sch. 5 rule 26(3) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/c) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-d57ea053c037165253160f001e9dd38a]: Textual amendment: Words in Sch. 5 rule 26(4) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/d) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-d57ea053c037165253160f001e9dd38a]: Textual amendment: Words in Sch. 5 rule 26(4) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/d) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-e400dda826769a2889cb06bb10f877e8]: Textual amendment: Sch. 5 rule 26(5) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(e)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/e) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-e400dda826769a2889cb06bb10f877e8]: Textual amendment: Sch. 5 rule 26(5) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(7)(e)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/7/e) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-5940fbfd793d416339a7033bbad69196]: Textual amendment: Words in Sch. 5 rule 28(1) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/a/i) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-5940fbfd793d416339a7033bbad69196]: Textual amendment: Words in Sch. 5 rule 28(1) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/a/i) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-f336750ef12f929b19b0ff853be28b0f]: Textual amendment: [Sch. 5 rule 28(1)(a)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/1/a) omitted (16.1.2023) by virtue of [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/a/ii) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-f336750ef12f929b19b0ff853be28b0f]: Textual amendment: [Sch. 5 rule 28(1)(a)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/1/a) omitted (16.1.2023) by virtue of [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/a/ii) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-9515de68903ce0af83a49728dbf10d6b]: Textual amendment: [Sch. 5 rule 28(1A)-(1M)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/1A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-9515de68903ce0af83a49728dbf10d6b]: Textual amendment: [Sch. 5 rule 28(1A)-(1M)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/1A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-ff6dfd32a3c54eb379af9fc28331d0d6]: Textual amendment: Words in [Sch. 5 rule 28(2)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/2) omitted (16.1.2023) by virtue of [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/c) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-ff6dfd32a3c54eb379af9fc28331d0d6]: Textual amendment: Words in [Sch. 5 rule 28(2)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/2) omitted (16.1.2023) by virtue of [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/c) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c21171141]: Marginal citation: Section 13B of the 1983 Act was inserted by paragraph 3 of Schedule 2 to the [Representation of the People Act 2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by section 11(3) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). Subsections (3B) and (3D) of section 13B were inserted by section 11(4) of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-661c19174e74ded247d0c27a9ef59754]: Textual amendment: [Sch. 5 rule 28(3)(a)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/3/a) omitted (16.1.2023) by virtue of [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/d) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-661c19174e74ded247d0c27a9ef59754]: Textual amendment: [Sch. 5 rule 28(3)(a)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/3/a) omitted (16.1.2023) by virtue of [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(8)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/8/d) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-8d5aae34731e8dfa78bf36c804b24a5d]: Textual amendment: [Sch. 5 rule 28(5A)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/5A) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2014/924/regulation/17) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-8d5aae34731e8dfa78bf36c804b24a5d]: Textual amendment: [Sch. 5 rule 28(5A)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/28/5A) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2014/924/regulation/17) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
-[^key-d1d784f4db29561ab816310aeb1bd816]: Textual amendment: Words in Sch. 5 rule 30(2) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(10)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/10/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-d1d784f4db29561ab816310aeb1bd816]: Textual amendment: Words in Sch. 5 rule 30(2) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(10)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/10/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-7705b36cb7f73bb0354159b52f22b29f]: Textual amendment: Sch. 5 rule 30(2A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(10)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/10/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-7705b36cb7f73bb0354159b52f22b29f]: Textual amendment: Sch. 5 rule 30(2A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(10)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/10/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-c6aaa046cf9113094b0f9dcb64bdbd28]: Textual amendment: Words in [Sch. 5 rule 30(3)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/30/3) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-c6aaa046cf9113094b0f9dcb64bdbd28]: Textual amendment: Words in [Sch. 5 rule 30(3)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/30/3) substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/8/3/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
 
-[^key-dc3332be85fca876f30242b6c7d10ef9]: Textual amendment: [Sch. 5 rule 31(7)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/31/7) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(11)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/11) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-dc3332be85fca876f30242b6c7d10ef9]: Textual amendment: [Sch. 5 rule 31(7)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/31/7) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(11)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/11) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-8fa519cb496116358b64e9273851b154]: Textual amendment: Sch. 5 rule 36(1)(da) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(13)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/13) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-8fa519cb496116358b64e9273851b154]: Textual amendment: Sch. 5 rule 36(1)(da) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(13)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/13) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c21171151]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341).
 
-[^key-41c1d23e0b12a94983a8a3bd8203fc92]: Textual amendment: Word in Sch. 5 rule 38(5)(c) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/c/i)
+[^c-41c1d23e0b12a94983a8a3bd8203fc92]: Textual amendment: Word in Sch. 5 rule 38(5)(c) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/c/i)
 
 [^c21171161]: Marginal citation: See Regulations 85 and 85[A of the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)](https://www.legislation.gov.uk/uksi/2001/341), which were inserted by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-e59ea3abd1ee66a91b02af2d2a3a5ff4]: Textual amendment: Sch. 5 rule 38(5)(e) and word inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/c/ii)
+[^c-e59ea3abd1ee66a91b02af2d2a3a5ff4]: Textual amendment: Sch. 5 rule 38(5)(e) and word inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 6(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/6/4/c/ii)
 
-[^key-81a1ece71751e09ea46d3467bb990606]: Textual amendment: Sch. 5 rule 38(5A) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2014/924/regulation/18) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-81a1ece71751e09ea46d3467bb990606]: Textual amendment: Sch. 5 rule 38(5A) inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2014/924/regulation/18) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
 [^c21171171]: Marginal citation: For the meaning of “parliamentary constituency”, see section 1 of the [Parliamentary Constituencies Act 1986 (c.56)](https://www.legislation.gov.uk/ukpga/1986/56).
 
-[^key-a130a374cbb714d578750c00dc330a29]: Textual amendment: Words in Sch. 5 rule 38(7)(a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-a130a374cbb714d578750c00dc330a29]: Textual amendment: Words in Sch. 5 rule 38(7)(a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-a157efdf375d7c5ab7a700cf47ae1470]: Textual amendment: Sch. 5 rule 44(2)(aa) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(14)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/14) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-a157efdf375d7c5ab7a700cf47ae1470]: Textual amendment: Sch. 5 rule 44(2)(aa) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(14)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/14) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-2b9dd8f68dd370dbd2979bd59f038bb6]: Textual amendment: Sch. 5 rule 45(1)(da) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(15)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/15) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-2b9dd8f68dd370dbd2979bd59f038bb6]: Textual amendment: Sch. 5 rule 45(1)(da) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(15)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/15) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-4510fa047bb29fa6ec475bd060d34f9d]: Textual amendment: [Sch. 5 rule 46(1A)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/46/1A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(16)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/16) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-4510fa047bb29fa6ec475bd060d34f9d]: Textual amendment: [Sch. 5 rule 46(1A)](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/rule/46/1A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(16)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/16) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-1002fd844143f39cebd83c4e96b090e2]: Textual amendment: Words in [Sch. 5 Pt. 8](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/part/8) list of forms inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(17)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/17/a) (with [reg. 1(6)(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6/7))
+[^c-1002fd844143f39cebd83c4e96b090e2]: Textual amendment: Words in [Sch. 5 Pt. 8](https://www.legislation.gov.uk/uksi/2012/323/schedule/5/part/8) list of forms inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(17)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/17/a) (with [reg. 1(6)(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6/7))
 
-[^key-c11bc354e8d0b1490cc271d72b1583aa]: Textual amendment: Sch. 5 Pt. 8 Forms substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1225/schedule/4/part/2)
+[^c-c11bc354e8d0b1490cc271d72b1583aa]: Textual amendment: Sch. 5 Pt. 8 Forms substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1225/schedule/4/part/2)
 
-[^key-fb418e50e42db273697057b568f566a0]: Textual amendment: Sch. 5 Pt. 8 Forms substituted (4.12.2024) by [The Voter Identification (Amendment of List of Specified Documents) Regulations 2024 (S.I. 2024/1275)](https://www.legislation.gov.uk/uksi/2024/1275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2024/1275/schedule/4/part/2) (with [reg. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/5))
+[^c-fb418e50e42db273697057b568f566a0]: Textual amendment: Sch. 5 Pt. 8 Forms substituted (4.12.2024) by [The Voter Identification (Amendment of List of Specified Documents) Regulations 2024 (S.I. 2024/1275)](https://www.legislation.gov.uk/uksi/2024/1275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2024/1275/schedule/4/part/2) (with [reg. 1(5)-(7)](https://www.legislation.gov.uk/uksi/2024/1275/regulation/1/5))
 
-[^key-a4db0c751b6c981d189935857ff19c7c]: Modification: Sch. 5 Pt. 8 Forms modified (temp.) (31.1.2024) by [S.I. 2023/1147](https://www.legislation.gov.uk/uksi/2023/1147), [Sch. 2 para. 13(4)(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/4) (as inserted by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/4))
+[^c-a4db0c751b6c981d189935857ff19c7c]: Modification: Sch. 5 Pt. 8 Forms modified (temp.) (31.1.2024) by [S.I. 2023/1147](https://www.legislation.gov.uk/uksi/2023/1147), [Sch. 2 para. 13(4)(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/4) (as inserted by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/4))
 
 [^M_F_8b2cea93-314d-4c60-9d83-a033bd715e98]: Textual amendment: Sch. 3 Pt. 8 Form inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(17)(d)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/17/d), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1382/schedule/8/part/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^M_F_990ce8ea-d1a9-4357-cf6b-49ac8aa2d842]: Textual amendment: Sch. 3 Pt. 8 Form substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [50(17)(e)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/50/17/e), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1382/schedule/8/part/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-9f49c31eb460005e3162f39a469f25a8]: Textual amendment: Sch. 5 Pt. 8 Form substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [19(b)(v)](https://www.legislation.gov.uk/uksi/2014/924/regulation/19/b/v), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/924/schedule/1) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
+[^c-9f49c31eb460005e3162f39a469f25a8]: Textual amendment: Sch. 5 Pt. 8 Form substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (England) (Amendment) Regulations 2014 (S.I. 2014/924)](https://www.legislation.gov.uk/uksi/2014/924), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/3), [19(b)(v)](https://www.legislation.gov.uk/uksi/2014/924/regulation/19/b/v), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/924/schedule/1) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/924/regulation/1/4))
 
-[^key-8202dc55578bb8bff31a2c088c3cd723]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2012/323/schedule/5) Pt. 8 Form substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1309/schedule/3/part/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))
+[^c-8202dc55578bb8bff31a2c088c3cd723]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2012/323/schedule/5) Pt. 8 Form substituted (29.12.2022) by [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/3), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1309/schedule/3/part/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4))

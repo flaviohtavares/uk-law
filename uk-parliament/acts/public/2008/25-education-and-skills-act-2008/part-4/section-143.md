@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Right of sixth-form pupils to opt out of religious worship[^key-705bee0ade9739a12ad443802fc9a9b3]
+## 143. Right of sixth-form pupils to opt out of religious worship[^c-705bee0ade9739a12ad443802fc9a9b3]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-705bee0ade9739a12ad443802fc9a9b3]: Commencement: S. 143 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-705bee0ade9739a12ad443802fc9a9b3]: Commencement: S. 143 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)

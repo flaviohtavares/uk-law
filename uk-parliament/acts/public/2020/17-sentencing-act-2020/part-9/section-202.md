@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Community order: availability[^key-b2ec05de77ea9c80ea4e7ef9db873868]
+## 202. Community order: availability[^c-b2ec05de77ea9c80ea4e7ef9db873868]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ But this is subject to section 74 and Chapter 4 of Part 12 (reduction of sentenc
 
 ## Annotations
 
-[^key-b2ec05de77ea9c80ea4e7ef9db873868]: Commencement: S. 202 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b2ec05de77ea9c80ea4e7ef9db873868]: Commencement: S. 202 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

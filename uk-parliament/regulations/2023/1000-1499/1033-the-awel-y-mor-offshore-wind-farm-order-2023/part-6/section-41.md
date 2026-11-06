@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Service of notices[^key-a920fe1fae7da8d54c8243070631f14e]
+## 41. Service of notices[^c-a920fe1fae7da8d54c8243070631f14e]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) by post;
 - (b) by delivering it to the person on whom it is to be served or to whom it is to be given or supplied; or
-- (c) with the consent of the recipient and subject to paragraphs (5) to (8) by electronic transmission[^key-3523fddf02309365ce65de32638f60b4].
+- (c) with the consent of the recipient and subject to paragraphs (5) to (8) by electronic transmission[^c-3523fddf02309365ce65de32638f60b4].
 
 (2) Where the person on whom a notice or other document to be served for the purposes of this Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a920fe1fae7da8d54c8243070631f14e]: Commencement: Art. 41 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-a920fe1fae7da8d54c8243070631f14e]: Commencement: Art. 41 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-3523fddf02309365ce65de32638f60b4]: Textual amendment: Words in [art. 41(1)(c)](https://www.legislation.gov.uk/uksi/2023/1033/article/41/1/c) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
+[^c-3523fddf02309365ce65de32638f60b4]: Textual amendment: Words in [art. 41(1)(c)](https://www.legislation.gov.uk/uksi/2023/1033/article/41/1/c) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
 
 [^f00035]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

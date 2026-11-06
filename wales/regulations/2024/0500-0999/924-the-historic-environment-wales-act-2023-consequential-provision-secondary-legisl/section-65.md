@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. The Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015[^key-93248ffddd9e74c667d03f3663f7476e]
+## 65. The Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015[^c-93248ffddd9e74c667d03f3663f7476e]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In regulation 2(1) of the Energy Efficiency (Private Rented Property) (England a
 
 ## Annotations
 
-[^key-93248ffddd9e74c667d03f3663f7476e]: Commencement: [Reg. 65](https://www.legislation.gov.uk/wsi/2024/924/regulation/65) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-93248ffddd9e74c667d03f3663f7476e]: Commencement: [Reg. 65](https://www.legislation.gov.uk/wsi/2024/924/regulation/65) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00040]: Footnote: [S.I. 2015/962](https://www.legislation.gov.uk/uksi/2015/962), to which there are amendments not relevant to these Regulations.

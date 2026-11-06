@@ -48,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by section 104(1) of
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-8630f7ddc07813bfe8da71cfbfca968f]
+### 1. Citation and commencement[^c-8630f7ddc07813bfe8da71cfbfca968f]
 
 These Regulations may be cited as the Armed Forces (Custody Without Charge) Regulations 2009 and shall come into force on 31st October 2009.
 
-### 2. Interpretation[^key-d87d77e19920b6158decf09daaa28ca6]
+### 2. Interpretation[^c-d87d77e19920b6158decf09daaa28ca6]
 
 (1) In these Regulations—
 
@@ -78,7 +78,7 @@ These Regulations may be cited as the Armed Forces (Custody Without Charge) Regu
 
 ## PART 2 — DELEGATION
 
-### 3. Delegation of the commanding officer’s functions[^key-f3fe7fef288282edce09c68758472e5f]
+### 3. Delegation of the commanding officer’s functions[^c-f3fe7fef288282edce09c68758472e5f]
 
 (1) A commanding officer may delegate to—
 
@@ -94,11 +94,11 @@ any or all of his functions under sections 98 to 102.
 
 (4) Wherever practicable, any delegation, variation or revocation under this regulation shall be made in writing.
 
-### 4. Commanding officer’s restrictions on delegation[^key-12064570364867b338e571ef57728305]
+### 4. Commanding officer’s restrictions on delegation[^c-12064570364867b338e571ef57728305]
 
 A commanding officer who exercises his power of delegation under regulation 3 may impose such restrictions on the exercise of the functions so delegated as seem to him proper having regard to the rank or rate and experience of the person to whom the functions have been delegated.
 
-### 5. Responsibilities on delegation[^key-8951bf67c1bf4b85488be86c0ac967e7]
+### 5. Responsibilities on delegation[^c-8951bf67c1bf4b85488be86c0ac967e7]
 
 A person who exercises powers delegated to him in accordance with regulation 3 shall—
 
@@ -107,7 +107,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 
 ## PART 3 — INFORMATION
 
-### 6. Information to be provided to a person in custody[^key-24daf9116365b66961a95b93dcc6251d]
+### 6. Information to be provided to a person in custody[^c-24daf9116365b66961a95b93dcc6251d]
 
 (1) Where it is intended to retain a person in custody, the authorising officer shall, as soon as practicable, provide to that person the information, in writing, specified in paragraph (2).
 
@@ -132,7 +132,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 
 ## PART 4 — REPRESENTATIONS
 
-### 7. Assisting officer[^key-f547e73e31a455cf10cd900a3fb6142c]
+### 7. Assisting officer[^c-f547e73e31a455cf10cd900a3fb6142c]
 
 (1) A person may only be nominated as an assisting officer if he—
 
@@ -149,7 +149,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 - (a) ensure that at least two people under his command are available to be nominated by the person in custody; and
 - (b) inform the person in custody of the names of those people.
 
-### 8. Opportunity to make representations[^key-6ed8a28858e3dbd3d05f73162cad513f]
+### 8. Opportunity to make representations[^c-6ed8a28858e3dbd3d05f73162cad513f]
 
 (1) The person in custody shall be afforded the means and opportunity to make representations under regulation 6(2)(g).
 
@@ -157,7 +157,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 
 (3) Where practicable, that written record must be read and signed by the person in custody.
 
-### 9. Action on receipt of a representation[^key-17cd3f9c85fe3c0b09be6999e004ebef]
+### 9. Action on receipt of a representation[^c-17cd3f9c85fe3c0b09be6999e004ebef]
 
 (1) Where an authorising officer, who is not the commanding officer, receives a representation made under regulation 6(2)(g), he shall consider the representation and—
 
@@ -168,7 +168,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 
 ## PART 5 — RECORD
 
-### 10. Custody record[^key-cc11798501df627ac5429db354c0d262]
+### 10. Custody record[^c-cc11798501df627ac5429db354c0d262]
 
 (1) A record (“the custody record”) must be made when a person is placed in custody without charge.
 
@@ -191,7 +191,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 
 (4) A copy of the custody record shall be supplied to the person in custody on his release or appearance before a judge advocate or service court.
 
-(5) The authorising officer shall ensure that the custody record is retained within the unit of the person in custody , by a service police force or the tri-service serious crime unit[^key-8245754cd9eb191e852d3d540f4ee396] for at least six years from—
+(5) The authorising officer shall ensure that the custody record is retained within the unit of the person in custody , by a service police force or the tri-service serious crime unit[^c-8245754cd9eb191e852d3d540f4ee396] for at least six years from—
 
 - (a) in the case where a person is charged, the date of that charge; or
 - (b) in any other case, the date that he is released from custody.
@@ -200,7 +200,7 @@ A person who exercises powers delegated to him in accordance with regulation 3 s
 
 ## PART 6 — TRANSITIONAL PROVISIONS
 
-### 11. Transitional[^key-1d5f8d7ce06cb2f535c5db8d12c6652a]
+### 11. Transitional[^c-1d5f8d7ce06cb2f535c5db8d12c6652a]
 
 The Schedule shall have effect.
 
@@ -216,7 +216,7 @@ Regulation 11
 
 ### PART 1 — GENERAL
 
-#### 1. Interpretation[^key-32e9740394bcdfa0c56f130ba2c51bb3]
+#### 1. Interpretation[^c-32e9740394bcdfa0c56f130ba2c51bb3]
 
 (1) In this Schedule—
 
@@ -225,7 +225,7 @@ Regulation 11
 - “commencement” means the date on which these Rules come into force;
 - “the Naval Regulations” means the Naval Custody Regulations 2000[^f00004];
 
-#### 2. Record of custody[^key-e53e03c813a0309afaff422e279c6849]
+#### 2. Record of custody[^c-e53e03c813a0309afaff422e279c6849]
 
 (1) Subject to paragraph (2), regulation 10(3) to (5) shall apply in relation to written records made in accordance with regulation 6 of the Navy Regulations, regulation 20(2) of the Army Regulations or regulation 12 of the Air Force Regulations.
 
@@ -233,11 +233,11 @@ Regulation 11
 
 ### PART 2 — STEPS TAKEN BEFORE COMMENCEMENT
 
-#### 3. Delegations[^key-68c8b3729db4aba8240e2ccb68796449]
+#### 3. Delegations[^c-68c8b3729db4aba8240e2ccb68796449]
 
 Any delegation of a function with respect to pre-charge custody made in accordance with regulation 3 of the Navy Regulations, regulation 15(4) of the Army Regulations or regulation 4(2) of the Air Force Regulations is to be treated as a delegation made in accordance with regulation 3.
 
-#### 4. Representations[^key-e8129e8cae5799ce3cfa75827e6bbf99]
+#### 4. Representations[^c-e8129e8cae5799ce3cfa75827e6bbf99]
 
 Any representation made in accordance with regulation 4 of the Navy Regulations or regulation 20(1)(b) of the Army Regulations or regulation 12(1) of the Air Force Regulations made before commencement and which has not been determined is to be treated as a representation made in accordance with regulation 6(2)(g).
 
@@ -257,31 +257,31 @@ Part 5 provides for the making and retention of records relating to custody with
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52); section 104(1) has been modified by [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059), article 34.
 
-[^key-8630f7ddc07813bfe8da71cfbfca968f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-8630f7ddc07813bfe8da71cfbfca968f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-d87d77e19920b6158decf09daaa28ca6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1097/regulation/2) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-d87d77e19920b6158decf09daaa28ca6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1097/regulation/2) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-f3fe7fef288282edce09c68758472e5f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1097/regulation/3) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-f3fe7fef288282edce09c68758472e5f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1097/regulation/3) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-12064570364867b338e571ef57728305]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1097/regulation/4) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-12064570364867b338e571ef57728305]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1097/regulation/4) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-8951bf67c1bf4b85488be86c0ac967e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1097/regulation/5) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-8951bf67c1bf4b85488be86c0ac967e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1097/regulation/5) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-24daf9116365b66961a95b93dcc6251d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1097/regulation/6) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-24daf9116365b66961a95b93dcc6251d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1097/regulation/6) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-f547e73e31a455cf10cd900a3fb6142c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1097/regulation/7) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-f547e73e31a455cf10cd900a3fb6142c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1097/regulation/7) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-6ed8a28858e3dbd3d05f73162cad513f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1097/regulation/8) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-6ed8a28858e3dbd3d05f73162cad513f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1097/regulation/8) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-17cd3f9c85fe3c0b09be6999e004ebef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1097/regulation/9) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-17cd3f9c85fe3c0b09be6999e004ebef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1097/regulation/9) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-cc11798501df627ac5429db354c0d262]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1097/regulation/10) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-cc11798501df627ac5429db354c0d262]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1097/regulation/10) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-8245754cd9eb191e852d3d540f4ee396]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2009/1097/regulation/10/5) substituted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/5/2)
+[^c-8245754cd9eb191e852d3d540f4ee396]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2009/1097/regulation/10/5) substituted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/5/2)
 
-[^key-1d5f8d7ce06cb2f535c5db8d12c6652a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1097/regulation/11) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-1d5f8d7ce06cb2f535c5db8d12c6652a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1097/regulation/11) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-32e9740394bcdfa0c56f130ba2c51bb3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/1) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-32e9740394bcdfa0c56f130ba2c51bb3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/1) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
 [^f00002]: Footnote: These Regulations are made by the Defence Council under sections 75E, 82, 83 and 209 of the Army Act 1955 ([1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18)) and published in the Manual of Military Law.
 
@@ -289,8 +289,8 @@ Part 5 provides for the making and retention of records relating to custody with
 
 [^f00004]: Footnote: These Regulations are made by the Defence Council under section 47F of the Naval Discipline Act 1957 ([1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53)) and published in the Manual of Naval Law.
 
-[^key-e53e03c813a0309afaff422e279c6849]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/2) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-e53e03c813a0309afaff422e279c6849]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/2) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-68c8b3729db4aba8240e2ccb68796449]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/3) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-68c8b3729db4aba8240e2ccb68796449]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/3) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
 
-[^key-e8129e8cae5799ce3cfa75827e6bbf99]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/4) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)
+[^c-e8129e8cae5799ce3cfa75827e6bbf99]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/1097/schedule/paragraph/4) in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1097/regulation/1)

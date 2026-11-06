@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Notification of changes : general[^key-e529981b1c76125e31e37952438b0c8d][^key-d1eca0deed1abce7562f088541f4a9fd]
+## 48. Notification of changes : general[^c-e529981b1c76125e31e37952438b0c8d][^c-d1eca0deed1abce7562f088541f4a9fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ must notify the police of that fact.
 
 This does not apply if the person is at the same time required to notify the police under section 47 (initial notification).
 
-(4A)[^key-d0b04c97c4eb179215e9756a4e40e1cb] If there is a change in the contact details of a person to whom the notification requirements apply, the person must notify the police of the new contact details.
+(4A)[^c-d0b04c97c4eb179215e9756a4e40e1cb] If there is a change in the contact details of a person to whom the notification requirements apply, the person must notify the police of the new contact details.
 
 (4B) If a person to whom the notification requirements apply ceases to use contact details which the person has previously notified under this Part, the person must notify the police of that fact.
 
@@ -61,7 +61,7 @@ This does not apply if the person is at the same time required to notify the pol
 
 Such regulations are subject to affirmative resolution procedure.
 
-(7)[^key-a39fa8f37efa23159a88a0c0e11af1af] Notification under this section must be made—
+(7)[^c-a39fa8f37efa23159a88a0c0e11af1af] Notification under this section must be made—
 
 - (a) in a case to which subsection (4C) applies, before the earlier of the following—
   - (i) the end of the period of three days beginning with the day on which the person becomes the registered keeper of the motor vehicle or acquires a right to use it, or
@@ -80,18 +80,18 @@ Where subsection (3) applies that is the day with which the period referred to i
 - (c) detained in a hospital, or
 - (d) detained under the Immigration Acts.
 
-(9) References in this section to previous notification are to previous notification by the person under section 47 (initial notification), this section, section 48A (notification of changes: financial information and information about identification documents),[^key-bc5ca104769ee1d354a054114c4724f5] section 49 (periodic re-notification) or section 56 (notification on return after absence from UK).
+(9) References in this section to previous notification are to previous notification by the person under section 47 (initial notification), this section, section 48A (notification of changes: financial information and information about identification documents),[^c-bc5ca104769ee1d354a054114c4724f5] section 49 (periodic re-notification) or section 56 (notification on return after absence from UK).
 
 (10) Notification under this section must be accompanied by re-notification of the other information mentioned in section 47(2).
 
 ## Annotations
 
-[^key-e529981b1c76125e31e37952438b0c8d]: Commencement: S. 48 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-e529981b1c76125e31e37952438b0c8d]: Commencement: S. 48 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
 
-[^key-d1eca0deed1abce7562f088541f4a9fd]: Textual amendment: Word in s. 48 heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-d1eca0deed1abce7562f088541f4a9fd]: Textual amendment: Word in s. 48 heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
 
-[^key-d0b04c97c4eb179215e9756a4e40e1cb]: Textual amendment: S. 48(4A)-(4E) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-d0b04c97c4eb179215e9756a4e40e1cb]: Textual amendment: S. 48(4A)-(4E) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
 
-[^key-a39fa8f37efa23159a88a0c0e11af1af]: Textual amendment: S. 48(7) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/3/c), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-a39fa8f37efa23159a88a0c0e11af1af]: Textual amendment: S. 48(7) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 12(3)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/12/3/c), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
 
-[^key-bc5ca104769ee1d354a054114c4724f5]: Textual amendment: Words in s. 48(9) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 45](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/45)
+[^c-bc5ca104769ee1d354a054114c4724f5]: Textual amendment: Words in s. 48(9) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 45](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/45)

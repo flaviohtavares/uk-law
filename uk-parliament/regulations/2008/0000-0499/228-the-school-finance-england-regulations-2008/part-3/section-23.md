@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Pupils permanently excluded from, or leaving, primary or secondary schools[^key-69b6a55ae45ceb8c489bb389cf7ecaba]
+## 23. Pupils permanently excluded from, or leaving, primary or secondary schools[^c-69b6a55ae45ceb8c489bb389cf7ecaba]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ I is the number of complete weeks remaining in the funding period calculated fro
 
 ## Annotations
 
-[^key-69b6a55ae45ceb8c489bb389cf7ecaba]: Commencement: Reg. 23 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-69b6a55ae45ceb8c489bb389cf7ecaba]: Commencement: Reg. 23 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

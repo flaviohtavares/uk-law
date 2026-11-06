@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Circumventing etc. prohibitions[^key-593447944ac17887bc3757b998cb947d]
+## 33. Circumventing etc. prohibitions[^c-593447944ac17887bc3757b998cb947d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-593447944ac17887bc3757b998cb947d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-593447944ac17887bc3757b998cb947d]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

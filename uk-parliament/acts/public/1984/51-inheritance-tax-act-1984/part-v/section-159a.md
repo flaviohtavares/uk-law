@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Treatment of dormant assets[^key-eac2c8b29e19a0690036aafd70ac4c44]
+## 159A. Treatment of dormant assets[^c-eac2c8b29e19a0690036aafd70ac4c44]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eac2c8b29e19a0690036aafd70ac4c44]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/1984/51/section/159A) and cross-heading inserted (retrospective to 6.6.2022) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 348(2)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/348/2)
+[^c-eac2c8b29e19a0690036aafd70ac4c44]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/1984/51/section/159A) and cross-heading inserted (retrospective to 6.6.2022) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 348(2)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/348/2)

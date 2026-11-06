@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Forms[^key-a27483e3d433779e0ab98362ad303c94]
+## SCHEDULE 1 — Forms[^c-a27483e3d433779e0ab98362ad303c94]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Regulations 6, 7, 10, 12, 13, 15, 25, 28, 30
 
 ## Annotations
 
-[^key-a27483e3d433779e0ab98362ad303c94]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/1268/schedule/1) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-a27483e3d433779e0ab98362ad303c94]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2024/1268/schedule/1) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

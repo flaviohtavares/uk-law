@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100C. Code of Practice: consultation and procedural requirements on controlled expenditure in Senedd Cymru elections[^key-79527bb721566a2aeb16734451f9703c]
+## 100C. Code of Practice: consultation and procedural requirements on controlled expenditure in Senedd Cymru elections[^c-79527bb721566a2aeb16734451f9703c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79527bb721566a2aeb16734451f9703c]: Textual amendment: S. 100C inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 38(4)](https://www.legislation.gov.uk/asc/2024/5/section/38/4), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/m)
+[^c-79527bb721566a2aeb16734451f9703c]: Textual amendment: S. 100C inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 38(4)](https://www.legislation.gov.uk/asc/2024/5/section/38/4), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/m)

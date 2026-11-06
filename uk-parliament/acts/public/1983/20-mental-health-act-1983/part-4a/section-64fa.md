@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64FA. Withdrawal of consent[^key-559aa2e32460a54d66926a122c44c5d4][^c20622171]
+## 64FA. Withdrawal of consent[^c-559aa2e32460a54d66926a122c44c5d4][^c20622171]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-559aa2e32460a54d66926a122c44c5d4]: Textual amendment: S. 64FA inserted (1.6.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) , [ss. 299(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/299/4) , [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) ; [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)
+[^c-559aa2e32460a54d66926a122c44c5d4]: Textual amendment: S. 64FA inserted (1.6.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) , [ss. 299(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/299/4) , [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) ; [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)
 
 [^c20622171]: Textual amendment: Pt. 4A (ss. 64A-64K) inserted (1.4.2008 for s. 64H for certain purposes, otherwise 3.11.2008 for ss. 64A-64K) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) , [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/35/1) , [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10) ); [S.I. 2008/745](https://www.legislation.gov.uk/uksi/2008/745) , arts. 2(d), 3(e); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/k) (with art. 3, Sch.)

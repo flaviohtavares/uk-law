@@ -68,7 +68,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A statement of affairs under section 95(1A) or 99(1) must also contain the following and, in addition, when paragraph (1B) applies, the information specified in that paragraph[^key-f86f80e7c2e7cc1b756bc4037ca9ec83]—
+(1) A statement of affairs under section 95(1A) or 99(1) must also contain the following and, in addition, when paragraph (1B) applies, the information specified in that paragraph[^c-f86f80e7c2e7cc1b756bc4037ca9ec83]—
 
 - (a) a list of the company's shareholders, with the following details about each one—
   - (i) name and postal address,
@@ -99,7 +99,7 @@ summary: ''
   - (ii) any creditors who are consumers claiming amounts paid in advance of the supply of goods or services, and
   - (iii) any creditors claiming retention of title over property in the company's possession.
 
-(1A)[^key-b0d154a24436ec469aaa24f23311a8fe] Paragraph (1B) applies if a moratorium under Part A1 of the Act is, or has been, in force for the company at any time within the period of 12 weeks ending with the day on which the resolution for a voluntary winding up is passed.
+(1A)[^c-b0d154a24436ec469aaa24f23311a8fe] Paragraph (1B) applies if a moratorium under Part A1 of the Act is, or has been, in force for the company at any time within the period of 12 weeks ending with the day on which the resolution for a voluntary winding up is passed.
 
 (1B) Where this paragraph applies—
 
@@ -467,7 +467,7 @@ the convener of the decision must at the same time deliver to the creditors a no
 - (a) that a liquidator has been appointed; and
 - (b) the date of the appointment.
 
-(10)[^key-aca835964cd6570984fd11574da38d10] In the case of a voluntary winding up where, immediately before the company goes into liquidation, a moratorium under Part A1 of the Act is in force for that company, the liquidator must deliver notice of their appointment to the monitor and such notice must be given within the period of 14 days beginning with the day on which liquidator is appointed.
+(10)[^c-aca835964cd6570984fd11574da38d10] In the case of a voluntary winding up where, immediately before the company goes into liquidation, a moratorium under Part A1 of the Act is in force for that company, the liquidator must deliver notice of their appointment to the monitor and such notice must be given within the period of 14 days beginning with the day on which liquidator is appointed.
 
 ## 4.21. Power to fill vacancy in office of liquidator
 
@@ -497,7 +497,7 @@ Where a vacancy in the office of liquidator occurs in the manner mentioned in se
 - (a) that a liquidator has been appointed; and
 - (b) the date of the appointment.
 
-(7)[^key-ab68ed7b9440c174a48d0fdbfcb6454f] In the case of a voluntary winding up where, immediately before the company goes into liquidation, a moratorium under Part A1 of the Act is in force for that company, the liquidator must deliver such notice of their appointment to the monitor and such notice must be given within the period of 14 days beginning with the day on which liquidator is appointed.
+(7)[^c-ab68ed7b9440c174a48d0fdbfcb6454f] In the case of a voluntary winding up where, immediately before the company goes into liquidation, a moratorium under Part A1 of the Act is in force for that company, the liquidator must deliver such notice of their appointment to the monitor and such notice must be given within the period of 14 days beginning with the day on which liquidator is appointed.
 
 ## 4.23. Liquidator's resignation and replacement
 
@@ -797,9 +797,9 @@ Where the liquidator vacates office in consequence of the court making a winding
 
 [^c23538251]: Marginal citation: [Section 99(1)](https://www.legislation.gov.uk/ssi/2018/347/section/99/1) is prospectively substituted by paragraph 23(2) of schedule 9 of the 2015 Act (c.26).
 
-[^key-f86f80e7c2e7cc1b756bc4037ca9ec83]: Textual amendment: Words in [rule 4.4(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.4/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/6/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-f86f80e7c2e7cc1b756bc4037ca9ec83]: Textual amendment: Words in [rule 4.4(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.4/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/6/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
-[^key-b0d154a24436ec469aaa24f23311a8fe]: Textual amendment: [Rule 4.4(1A)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.4/1A)[(1B)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.4/1B) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/1025/rule/6/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-b0d154a24436ec469aaa24f23311a8fe]: Textual amendment: [Rule 4.4(1A)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.4/1A)[(1B)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.4/1B) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/1025/rule/6/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
 [^c23538261]: Marginal citation: [Section 100](https://www.legislation.gov.uk/ssi/2018/347/section/100) is prospectively amended by paragraph 24 of schedule 9 of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) (“**the 2015 Act**”) which inserts new subsections (1), (1A) and (1B).
 
@@ -815,9 +815,9 @@ Where the liquidator vacates office in consequence of the court making a winding
 
 [^c23538321]: Marginal citation: [Paragraph 49(4)](https://www.legislation.gov.uk/ssi/2018/347/paragraph/49/4) is prospectively amended by paragraph 10(2) of schedule 9 of the 2015 Act.
 
-[^key-aca835964cd6570984fd11574da38d10]: Textual amendment: [Rule 4.20(10)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.20/10) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/7/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-aca835964cd6570984fd11574da38d10]: Textual amendment: [Rule 4.20(10)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.20/10) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/7/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
-[^key-ab68ed7b9440c174a48d0fdbfcb6454f]: Textual amendment: [Rule 4.22(7)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.22/7) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/8/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-ab68ed7b9440c174a48d0fdbfcb6454f]: Textual amendment: [Rule 4.22(7)](https://www.legislation.gov.uk/ssi/2018/347/rule/4.22/7) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [8(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/8/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
 [^c23538341]: Marginal citation: New section 106 is prospectively substituted by paragraph 29 of schedule 9 of the 2015 Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Qualification systems[^key-3a89442c76aa5ea514ca1f211c8c879b]
+## 75. Qualification systems[^c-3a89442c76aa5ea514ca1f211c8c879b]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a89442c76aa5ea514ca1f211c8c879b]: Commencement: [Reg. 75](https://www.legislation.gov.uk/ssi/2016/49/regulation/75) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-3a89442c76aa5ea514ca1f211c8c879b]: Commencement: [Reg. 75](https://www.legislation.gov.uk/ssi/2016/49/regulation/75) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

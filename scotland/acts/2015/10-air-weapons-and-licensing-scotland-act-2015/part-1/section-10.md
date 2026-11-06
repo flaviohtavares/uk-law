@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Variation of air weapon certificate[^key-a85e0da1a60105c387d9ace81534b291][^key-55d4c8843aeaddfe319c898e49adf761]
+## 10. Variation of air weapon certificate[^c-a85e0da1a60105c387d9ace81534b291][^c-55d4c8843aeaddfe319c898e49adf761]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a85e0da1a60105c387d9ace81534b291]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/10/section/10) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-a85e0da1a60105c387d9ace81534b291]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/10/section/10) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
 
-[^key-55d4c8843aeaddfe319c898e49adf761]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/10/section/10) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-55d4c8843aeaddfe319c898e49adf761]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/10/section/10) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

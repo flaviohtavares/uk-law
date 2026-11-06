@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Powers of Court of Session[^key-d734cc41cc55a81b5a7eeb73773d59b6]
+## 34. Powers of Court of Session[^c-d734cc41cc55a81b5a7eeb73773d59b6]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ the court may exercise any of the powers set out in subsection (5)(a) and (c) to
 - (c) appoint a judicial factor (whether temporarily or permanently) to manage the affairs of the charity or body,
 - (d) where the charity or body is a trust, appoint a trustee,
 - (e) suspend or remove any person concerned in the management or control of the charity or body,
-- (ea)[^key-352624bff0ce561b1d6b4c549144006c] make an order declaring that any person who was concerned in the management or control of a charity or body is to be treated, for the purposes[^key-dd38273b3f0220da62b5cee57caea3bb] of section 69(2)(c) (disqualification from being charity trustee) and section 70ZA (record of persons removed from office)[^key-7e3700b3c72fecf9af7021d7d3a13bcd] as having been removed from being concerned in the management or control of the charity or body, notwithstanding that—
+- (ea)[^c-352624bff0ce561b1d6b4c549144006c] make an order declaring that any person who was concerned in the management or control of a charity or body is to be treated, for the purposes[^c-dd38273b3f0220da62b5cee57caea3bb] of section 69(2)(c) (disqualification from being charity trustee) and section 70ZA (record of persons removed from office)[^c-7e3700b3c72fecf9af7021d7d3a13bcd] as having been removed from being concerned in the management or control of the charity or body, notwithstanding that—
   - (i) the person is no longer concerned in the management or control of the charity or body,
   - (ii) the body is no longer a charity,
   - (iii) the body is no longer controlled by a charity (or charities), or
@@ -71,10 +71,10 @@ the court may exercise any of the powers set out in subsection (5)(a) and (c) to
 
 ## Annotations
 
-[^key-d734cc41cc55a81b5a7eeb73773d59b6]: Commencement: S. 34 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1) (with [art. 3(2)-(4)](https://www.legislation.gov.uk/ssi/2006/189/article/3/2))
+[^c-d734cc41cc55a81b5a7eeb73773d59b6]: Commencement: S. 34 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1) (with [art. 3(2)-(4)](https://www.legislation.gov.uk/ssi/2006/189/article/3/2))
 
-[^key-352624bff0ce561b1d6b4c549144006c]: Textual amendment: S. 34(5)(ea) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 122](https://www.legislation.gov.uk/asp/2010/8/section/122), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-352624bff0ce561b1d6b4c549144006c]: Textual amendment: S. 34(5)(ea) inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 122](https://www.legislation.gov.uk/asp/2010/8/section/122), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-dd38273b3f0220da62b5cee57caea3bb]: Textual amendment: Word in s. 34(5)(ea) substituted (1.10.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 7(2)(a)](https://www.legislation.gov.uk/asp/2023/5/section/7/2/a), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
+[^c-dd38273b3f0220da62b5cee57caea3bb]: Textual amendment: Word in s. 34(5)(ea) substituted (1.10.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 7(2)(a)](https://www.legislation.gov.uk/asp/2023/5/section/7/2/a), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
 
-[^key-7e3700b3c72fecf9af7021d7d3a13bcd]: Textual amendment: Words in s. 34(5)(ea) inserted (1.10.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 7(2)(b)](https://www.legislation.gov.uk/asp/2023/5/section/7/2/b), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)
+[^c-7e3700b3c72fecf9af7021d7d3a13bcd]: Textual amendment: Words in s. 34(5)(ea) inserted (1.10.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 7(2)(b)](https://www.legislation.gov.uk/asp/2023/5/section/7/2/b), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/2), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/2)

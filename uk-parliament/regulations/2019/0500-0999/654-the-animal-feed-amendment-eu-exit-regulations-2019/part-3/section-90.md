@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90.[^key-67ee9c41c58429698a9faa004128cb15]
+## 90.[^c-67ee9c41c58429698a9faa004128cb15]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67ee9c41c58429698a9faa004128cb15]: Textual amendment: Reg. 90 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/4/2)
+[^c-67ee9c41c58429698a9faa004128cb15]: Textual amendment: Reg. 90 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/4/2)

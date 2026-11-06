@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Duration of a Part 1A site licence[^key-bffa1963b349550c299aee4b826396bf]
+## 66. Duration of a Part 1A site licence[^c-bffa1963b349550c299aee4b826396bf]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ After section 32I of the 1960 Act (inserted by section 65), insert—
 
 ## Annotations
 
-[^key-bffa1963b349550c299aee4b826396bf]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/14/section/66) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-bffa1963b349550c299aee4b826396bf]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/14/section/66) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Interim case tribunals[^key-50630eb9ceea14a217456586f3857baa]
+## 197. Interim case tribunals[^c-50630eb9ceea14a217456586f3857baa]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50630eb9ceea14a217456586f3857baa]: Commencement: S. 197 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/d)
+[^c-50630eb9ceea14a217456586f3857baa]: Commencement: S. 197 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/d)

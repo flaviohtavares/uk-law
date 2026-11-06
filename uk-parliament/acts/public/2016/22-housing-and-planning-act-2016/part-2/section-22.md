@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Offences by bodies corporate[^key-bd3df5ab67cc7675613b5148f3556b24]
+## 22. Offences by bodies corporate[^c-bd3df5ab67cc7675613b5148f3556b24]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd3df5ab67cc7675613b5148f3556b24]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/22/section/22) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-bd3df5ab67cc7675613b5148f3556b24]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/22/section/22) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

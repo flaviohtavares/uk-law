@@ -40,7 +40,7 @@ and “**relevant date**” means the date on which the transaction to which the
 
 (5) In relation to any tenancy certified by a Rural Development Board in the instrument by which the tenancy is granted as being a tenancy granted in connection with transactions entered into by the Board for the purpose of effecting amalgamations of agricultural land and reshaping agricultural units, section 14 of the[^c14213311] [^c14213321]Rent Act 1977 and section 5 of the [^c14213341]Rent (Scotland) Act 1971 (exclusion of local authority houses from Rent Acts) shall apply to the Rural Development Board as they apply to the council of a county or other local authority.
 
-## 48. Promotion of amalgamations and boundary adjustments by Rural Development Boards.[^key-e3dfc21564fb5adb19b0403dcbd86b95][^c14213181]
+## 48. Promotion of amalgamations and boundary adjustments by Rural Development Boards.[^c-e3dfc21564fb5adb19b0403dcbd86b95][^c14213181]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ and “**relevant date**” means the date on which the transaction to which the
 
 [^c14213341]: Marginal citation: [1971 c. 28](https://www.legislation.gov.uk/ukpga/1971/28).
 
-[^key-e3dfc21564fb5adb19b0403dcbd86b95]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1967/22/section/48) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-e3dfc21564fb5adb19b0403dcbd86b95]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1967/22/section/48) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c14213181]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only.

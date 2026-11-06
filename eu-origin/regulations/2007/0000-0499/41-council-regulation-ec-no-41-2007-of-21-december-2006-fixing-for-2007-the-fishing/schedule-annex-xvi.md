@@ -16,84 +16,84 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XVI[^key-6c058ae18cca0279805d90465d8af27e]
+## ANNEX XVI[^c-6c058ae18cca0279805d90465d8af27e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### PART I — SEAFO transhipment declaration[^key-6c058ae18cca0279805d90465d8af27e]
+### PART I — SEAFO transhipment declaration[^c-6c058ae18cca0279805d90465d8af27e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Guidelines for Design and Deployment of Tori Lines[^key-6c058ae18cca0279805d90465d8af27e]
+### PART II — Guidelines for Design and Deployment of Tori Lines[^c-6c058ae18cca0279805d90465d8af27e]
 
-[^key-6c058ae18cca0279805d90465d8af27e]1.
+[^c-6c058ae18cca0279805d90465d8af27e]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.
+[^c-6c058ae18cca0279805d90465d8af27e]2.
 
 Tori Line Design
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.1.
+[^c-6c058ae18cca0279805d90465d8af27e]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.2.
+[^c-6c058ae18cca0279805d90465d8af27e]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.3.
+[^c-6c058ae18cca0279805d90465d8af27e]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.4.
+[^c-6c058ae18cca0279805d90465d8af27e]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.5.
+[^c-6c058ae18cca0279805d90465d8af27e]2.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.6.
+[^c-6c058ae18cca0279805d90465d8af27e]2.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]2.7.
+[^c-6c058ae18cca0279805d90465d8af27e]2.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.
+[^c-6c058ae18cca0279805d90465d8af27e]3.
 
 Deployment of Tori Lines
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.1.
+[^c-6c058ae18cca0279805d90465d8af27e]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.2.
+[^c-6c058ae18cca0279805d90465d8af27e]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.3.
+[^c-6c058ae18cca0279805d90465d8af27e]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.4.
+[^c-6c058ae18cca0279805d90465d8af27e]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.5.
+[^c-6c058ae18cca0279805d90465d8af27e]3.5.
 
 When fishers use a bait casting machine (BCM) they must ensure co-ordination of the tori line and machine by:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c058ae18cca0279805d90465d8af27e]3.6.
+[^c-6c058ae18cca0279805d90465d8af27e]3.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c058ae18cca0279805d90465d8af27e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6c058ae18cca0279805d90465d8af27e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

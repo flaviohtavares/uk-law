@@ -26,14 +26,14 @@ summary: ''
 
 (3) The functions of a National Park authority in the period (if any) between the time when it is established and the time when it becomes the local planning authority for the relevant Park shall be confined to the taking of such steps as the authority, after consultation with the Secretary of State and any existing authority for that Park, considers appropriate for securing that it is able properly to carry out its functions after that time.
 
-(4)[^key-9fb55f3bd7baf1281bee4480457d0063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9fb55f3bd7baf1281bee4480457d0063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The powers of a National Park authority shall include power to do anything which, in the opinion of that authority, is calculated to facilitate, or is conducive or incidental to—
 
 - (a) the accomplishment of the purposes mentioned in subsection (1) above; or
 - (b) the carrying out of any functions conferred on it by virtue of any other enactment.
 
-  Paragraph (b) is subject to subsection (6A).[^key-4abdf71dd9311517da4eaa0177f4f2c2]
+  Paragraph (b) is subject to subsection (6A).[^c-4abdf71dd9311517da4eaa0177f4f2c2]
 
 (6) The powers conferred on a National Park authority by subsection (5) above shall not include either—
 
@@ -42,7 +42,7 @@ summary: ''
 
 but the things that may be done in exercise of those powers shall not be treated as excluding anything by reason only that it involves the expenditure, borrowing or lending of money or the acquisition or disposal of any property or rights.
 
-(6A)[^key-105402b3b293169872d0590fdb86d2b6] Subsection (5)(b) does not apply in relation to a National Park authority for a National Park in England (see instead section 65A for general powers of such authorities).
+(6A)[^c-105402b3b293169872d0590fdb86d2b6] Subsection (5)(b) does not apply in relation to a National Park authority for a National Park in England (see instead section 65A for general powers of such authorities).
 
 (7) Schedule 8 to this Act shall have effect with respect to the supplemental and incidental powers of a National Park authority.
 
@@ -52,8 +52,8 @@ but the things that may be done in exercise of those powers shall not be treated
 
 [^c14539101]: Marginal citation: [1968 c. 41](https://www.legislation.gov.uk/ukpga/1968/41).
 
-[^key-9fb55f3bd7baf1281bee4480457d0063]: Textual amendment: [S. 65(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/4) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/3)
+[^c-9fb55f3bd7baf1281bee4480457d0063]: Textual amendment: [S. 65(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/65/4) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/3)
 
-[^key-4abdf71dd9311517da4eaa0177f4f2c2]: Textual amendment: Words in s. 65(5) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 14(2)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/14/2)
+[^c-4abdf71dd9311517da4eaa0177f4f2c2]: Textual amendment: Words in s. 65(5) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 14(2)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/14/2)
 
-[^key-105402b3b293169872d0590fdb86d2b6]: Textual amendment: S. 65(6A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 14(3)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/14/3)
+[^c-105402b3b293169872d0590fdb86d2b6]: Textual amendment: S. 65(6A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 14(3)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/14/3)

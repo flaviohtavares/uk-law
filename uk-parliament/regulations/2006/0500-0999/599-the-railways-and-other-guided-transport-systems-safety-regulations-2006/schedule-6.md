@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 33
 
-### 1. Amendment to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995[^key-31600584c47cb6e107a263424cf1b43f]
+### 1. Amendment to the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995[^c-31600584c47cb6e107a263424cf1b43f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,12 +100,12 @@ Regulation 33
 
 (2) In Schedule 4 (subordinate legislation specified for the purposes of section 241(3) (statutory functions) of the Enterprise Act 2002)–
 
-- (a)[^key-69cf04e340c359c22a470d8afca1f42a] at the end, add “Parts 2 and 3 of the Railways and Other Guided Transport Systems (Safety) Regulations 2006.”;
-- (b)[^key-715800cd4f0bec34861b199ba084bb88] omit “Railways (Safety Case) Regulations 2000.”.
+- (a)[^c-69cf04e340c359c22a470d8afca1f42a] at the end, add “Parts 2 and 3 of the Railways and Other Guided Transport Systems (Safety) Regulations 2006.”;
+- (b)[^c-715800cd4f0bec34861b199ba084bb88] omit “Railways (Safety Case) Regulations 2000.”.
 
 ## Annotations
 
-[^key-31600584c47cb6e107a263424cf1b43f]: Textual amendment: Sch. 6 para. 1 revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [18(1)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+[^c-31600584c47cb6e107a263424cf1b43f]: Textual amendment: Sch. 6 para. 1 revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [18(1)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
 
 [^c15436491]: Marginal citation: [S.I. 1997/553](https://www.legislation.gov.uk/uksi/1997/553), as amended by [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).
 
@@ -113,6 +113,6 @@ Regulation 33
 
 [^c15436511]: Marginal citation: [S.I. 2003/1400](https://www.legislation.gov.uk/uksi/2003/1400).
 
-[^key-69cf04e340c359c22a470d8afca1f42a]: Textual amendment: Sch. 6 para. 4(2)(a) added (10.4.2006) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2006 (S.I. 2006/1057)](https://www.legislation.gov.uk/uksi/2006/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1057/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1057/regulation/2/3)
+[^c-69cf04e340c359c22a470d8afca1f42a]: Textual amendment: Sch. 6 para. 4(2)(a) added (10.4.2006) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2006 (S.I. 2006/1057)](https://www.legislation.gov.uk/uksi/2006/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1057/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1057/regulation/2/3)
 
-[^key-715800cd4f0bec34861b199ba084bb88]: Textual amendment: Sch. 6 para. 4(2)(b) added (1.10.2006) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2006 (S.I. 2006/1057)](https://www.legislation.gov.uk/uksi/2006/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1057/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/1057/regulation/2/3)
+[^c-715800cd4f0bec34861b199ba084bb88]: Textual amendment: Sch. 6 para. 4(2)(b) added (1.10.2006) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2006 (S.I. 2006/1057)](https://www.legislation.gov.uk/uksi/2006/1057), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1057/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/1057/regulation/2/3)

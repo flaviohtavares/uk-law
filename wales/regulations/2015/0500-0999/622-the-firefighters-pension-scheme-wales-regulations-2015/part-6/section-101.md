@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Bereavement pension: eligible child[^key-dcc3eba533fc7e13cf8cbb37d615f78e]
+## 101. Bereavement pension: eligible child[^c-dcc3eba533fc7e13cf8cbb37d615f78e]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the surviving partner dies before the end of the initial period and a bereavement pension was payable to the surviving partner, a bereavement pension is payable to any eligible child for the remaining part of the initial period or, if earlier, until the child ceases to be eligible for an eligible child’s pension.
 
-(3) If the member was an active member at the date of the member’s death, the weekly amount of the bereavement pension payable under paragraphs (1) or (2) is equal to the difference between the weekly amount of pensionable pay which the member was paid at the date of the member’s death or, where the member was treated as receiving assumed pensionable pay, the weekly amount of assumed pensionable pay, and the weekly amount of the eligible child’s pension[^key-638d1f0e71847a0ef132eafacb6ebe92].
+(3) If the member was an active member at the date of the member’s death, the weekly amount of the bereavement pension payable under paragraphs (1) or (2) is equal to the difference between the weekly amount of pensionable pay which the member was paid at the date of the member’s death or, where the member was treated as receiving assumed pensionable pay, the weekly amount of assumed pensionable pay, and the weekly amount of the eligible child’s pension[^c-638d1f0e71847a0ef132eafacb6ebe92].
 
 (4) If the member was a pensioner member, the weekly amount of the bereavement pension payable under paragraphs (1) or (2) is equal to the difference between the weekly amount of the pension to which the member was entitled at the date of the member’s death and the weekly amount of the eligible child’s pension.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcc3eba533fc7e13cf8cbb37d615f78e]: Commencement: Reg. 101 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-dcc3eba533fc7e13cf8cbb37d615f78e]: Commencement: Reg. 101 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-638d1f0e71847a0ef132eafacb6ebe92]: Textual amendment: Words in [reg. 101(3)(4)](https://www.legislation.gov.uk/wsi/2015/622/regulation/101/3/4) substituted (with effect from 1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Amendment) Regulations 2018 (S.I. 2018/576)](https://www.legislation.gov.uk/uksi/2018/576), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/576/regulation/1/2/3), [5(3)](https://www.legislation.gov.uk/uksi/2018/576/regulation/5/3)
+[^c-638d1f0e71847a0ef132eafacb6ebe92]: Textual amendment: Words in [reg. 101(3)(4)](https://www.legislation.gov.uk/wsi/2015/622/regulation/101/3/4) substituted (with effect from 1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Amendment) Regulations 2018 (S.I. 2018/576)](https://www.legislation.gov.uk/uksi/2018/576), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/576/regulation/1/2/3), [5(3)](https://www.legislation.gov.uk/uksi/2018/576/regulation/5/3)

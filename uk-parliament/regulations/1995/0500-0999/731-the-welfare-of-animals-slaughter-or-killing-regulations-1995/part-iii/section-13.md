@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13 (Extent: W) (affected by repeal, see note). Application of Part III (Extent: W) (affected by repeal, see note)[^key-b37ac6e94a190d9e86feee16dc0ed5b2][^key-29e8ef3a5d57f823261f46df805d0311][^key-29e8ef3a5d57f823261f46df805d0311]
+## 13 (Extent: W) (affected by repeal, see note). Application of Part III (Extent: W) (affected by repeal, see note)[^c-b37ac6e94a190d9e86feee16dc0ed5b2][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 
 *Extent: E+W+S*
 
-(1 (Extent: W) (affected by repeal, see note))[^key-29e8ef3a5d57f823261f46df805d0311] This Part applies to the slaughter or killing of animals elsewhere than in a slaughterhouse or knacker’s yard. *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+(1 (Extent: W) (affected by repeal, see note))[^c-29e8ef3a5d57f823261f46df805d0311] This Part applies to the slaughter or killing of animals elsewhere than in a slaughterhouse or knacker’s yard. *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
-(2 (Extent: W) (affected by repeal, see note))[^key-29e8ef3a5d57f823261f46df805d0311] This Part does not apply in the case of any animal which has to be killed immediately for emergency reasons relating to the welfare of that animal. *(Extent: W)* *(affected by repeal, see note)*[^key-29e8ef3a5d57f823261f46df805d0311]
+(2 (Extent: W) (affected by repeal, see note))[^c-29e8ef3a5d57f823261f46df805d0311] This Part does not apply in the case of any animal which has to be killed immediately for emergency reasons relating to the welfare of that animal. *(Extent: W)* *(affected by repeal, see note)*[^c-29e8ef3a5d57f823261f46df805d0311]
 
 ## Annotations
 
-[^key-b37ac6e94a190d9e86feee16dc0ed5b2]: Commencement: Reg. 13 in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/1/1)
+[^c-b37ac6e94a190d9e86feee16dc0ed5b2]: Commencement: Reg. 13 in force at 1.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/1/1)
 
-[^key-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)
+[^c-29e8ef3a5d57f823261f46df805d0311]: Textual amendment: Regulations revoked (W.) (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/uksi/2014/951), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2014/951/regulation/1/c), [46(a)](https://www.legislation.gov.uk/uksi/2014/951/regulation/46/a); and revoked (E.) (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(a)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/a)

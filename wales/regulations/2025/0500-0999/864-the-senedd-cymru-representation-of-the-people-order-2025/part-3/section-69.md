@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Broadcasting of local items during election period[^key-bedb711ee92ec4ebe220e39709a67db0]
+## 69. Broadcasting of local items during election period[^c-bedb711ee92ec4ebe220e39709a67db0]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bedb711ee92ec4ebe220e39709a67db0]: Commencement: Art. 69 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-bedb711ee92ec4ebe220e39709a67db0]: Commencement: Art. 69 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00056]: Footnote: Established under the Office of Communications Act [2002 (c. 11)](https://www.legislation.gov.uk/ukpga/2002/11).

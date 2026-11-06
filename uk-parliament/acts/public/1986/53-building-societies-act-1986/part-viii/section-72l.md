@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72L. Disclosures relating to off-balance-sheet arrangements required in notes to accounts[^key-3ae5c1086f004f947d913ddb96f41e77]
+## 72L. Disclosures relating to off-balance-sheet arrangements required in notes to accounts[^c-3ae5c1086f004f947d913ddb96f41e77]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the information required by this section must be given in notes to the societyâ€
 
 ## Annotations
 
-[^key-3ae5c1086f004f947d913ddb96f41e77]: Textual amendment: S. 72L inserted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [3](https://www.legislation.gov.uk/uksi/2008/1519/article/3)
+[^c-3ae5c1086f004f947d913ddb96f41e77]: Textual amendment: S. 72L inserted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [3](https://www.legislation.gov.uk/uksi/2008/1519/article/3)

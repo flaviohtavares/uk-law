@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Social Development makes the following regulations in exercise of the powers conferred by sections 35(6) and (7) and 179(5) of the Charities Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-96a154508bac33e61558daaa776e2a7b]
+## 1. Citation, commencement and interpretation[^c-96a154508bac33e61558daaa776e2a7b]
 
 (1) These Regulations may be cited as the Charities (Interim Manager) Regulations (Northern Ireland) 2011 and shall come into operation on 10th August 2011.
 
@@ -54,11 +54,11 @@ The Department for Social Development makes the following regulations in exercis
 - “the relevant charity” means the charity in respect of which an interim manager is appointed; and
 - “the relevant order” means the order by which an interim manager is appointed.
 
-## 2. Security by interim manager[^key-e4be3ad7cddbda37fcffc18f40af65fa]
+## 2. Security by interim manager[^c-e4be3ad7cddbda37fcffc18f40af65fa]
 
 The Commission is authorised to require an interim manager to give security for the due discharge of functions imposed by, or by virtue of, the relevant order within such time and in such form as the Commission may specify.
 
-## 3. Remuneration of interim manager[^key-45661285d9d5c1d58bd0bbf1392aa7cd]
+## 3. Remuneration of interim manager[^c-45661285d9d5c1d58bd0bbf1392aa7cd]
 
 (1) The Commission is authorised to determine the amount of an interim manager’s remuneration.
 
@@ -66,7 +66,7 @@ The Commission is authorised to require an interim manager to give security for 
 
 (3) The Commission is authorised to disallow any amount of an interim manager’s remuneration where, on the expiry of the time specified in the notice referred to in regulation 4(2) and after consideration of such representations, if any, as are duly made in response to such a notice, it is satisfied that the interim manager has failed in such manner as is set out in regulation 4(1)(a) or (b) and specified in such a notice.
 
-## 4. Notice of failure to, and removal of, interim manager[^key-2da2db3d2781b4cbb7b15ae4464fa9c5]
+## 4. Notice of failure to, and removal of, interim manager[^c-2da2db3d2781b4cbb7b15ae4464fa9c5]
 
 (1) Where it appears to the Commission that an interim manager has failed—
 
@@ -84,7 +84,7 @@ and it wishes to consider exercising its powers under regulation 3(3) or paragra
 
 (3) On the expiry of the time specified in the notice referred to in paragraph (2) and after consideration of such representations, if any, as are duly made in response to such a notice, the Commission may remove an interim manager where it is satisfied that that person has failed in such manner as is set out in paragraph (1)(a) or (b) and specified in such notice (whether or not it also exercises the power conferred by regulation 3(3).
 
-## 5. Reports by interim manager[^key-f79001b05578baf2e702087fb7ca4cfd]
+## 5. Reports by interim manager[^c-f79001b05578baf2e702087fb7ca4cfd]
 
 (1) This regulation makes provision in respect of the reports which are to be made by an interim manager to the Commission (and which, in addition to the matters which are required to be included by virtue of paragraphs (2) to (4), may also include particulars of any matter which, in the opinion of the interim manager, should be brought to the Commission’s attention).
 
@@ -141,12 +141,12 @@ Regulation 5 requires the interim manager to make reports to the Commission and 
 
 [^f00001]: Footnote: [2008 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12)
 
-[^key-96a154508bac33e61558daaa776e2a7b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/264/regulation/1) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
+[^c-96a154508bac33e61558daaa776e2a7b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2011/264/regulation/1) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
 
-[^key-e4be3ad7cddbda37fcffc18f40af65fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/264/regulation/2) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
+[^c-e4be3ad7cddbda37fcffc18f40af65fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/264/regulation/2) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
 
-[^key-45661285d9d5c1d58bd0bbf1392aa7cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/264/regulation/3) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
+[^c-45661285d9d5c1d58bd0bbf1392aa7cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2011/264/regulation/3) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
 
-[^key-2da2db3d2781b4cbb7b15ae4464fa9c5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/264/regulation/4) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
+[^c-2da2db3d2781b4cbb7b15ae4464fa9c5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2011/264/regulation/4) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
 
-[^key-f79001b05578baf2e702087fb7ca4cfd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/264/regulation/5) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)
+[^c-f79001b05578baf2e702087fb7ca4cfd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2011/264/regulation/5) in operation at 10.8.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/264/regulation/1/1)

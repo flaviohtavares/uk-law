@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Tamar Bridge and Torpoint Ferry (Revision of Tolls and Traffic Classification) Order 2022 (revoked)[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+The Tamar Bridge and Torpoint Ferry (Revision of Tolls and Traffic Classification) Order 2022 (revoked)[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Made
 
@@ -41,47 +41,47 @@ Coming into force
 
 1st January 2023
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c72fad1d2fb3ac57dbbf227ca74e024d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TAMAR BRIDGE[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+## SCHEDULE — TAMAR BRIDGE[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Article 3
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Tolls are payable when travelling eastbound only (Saltash (Cornwall) to Plymouth (Devon)).
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Trailers attract a toll matching that of the vehicle towing the trailer.
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Tamar Bridge – Abnormal Loads
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Abnormal load tolls are payable in both directions.
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Tolls charged are currently outside the scope of VAT.
 
-### TORPOINT FERRY[^key-c72fad1d2fb3ac57dbbf227ca74e024d]
+### TORPOINT FERRY[^c-c72fad1d2fb3ac57dbbf227ca74e024d]
 
 Tolls for classes 3, 4, 5 and 6 are payable when travelling eastbound only Torpoint (Cornwall) to Plymouth (Devon).
 
@@ -95,8 +95,8 @@ Abnormal load tolls are payable in both directions.
 
 **May not be in force at this date. Check the source.**
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c72fad1d2fb3ac57dbbf227ca74e024d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/1154) revoked (28.4.2025) by [The Tamar Bridge and Torpoint Ferry (Revision of Tolls) Order 2025 (S.I. 2025/457)](https://www.legislation.gov.uk/uksi/2025/457), [arts. 1](https://www.legislation.gov.uk/uksi/2025/457/article/1), [4](https://www.legislation.gov.uk/uksi/2025/457/article/4)
+[^c-c72fad1d2fb3ac57dbbf227ca74e024d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2022/1154) revoked (28.4.2025) by [The Tamar Bridge and Torpoint Ferry (Revision of Tolls) Order 2025 (S.I. 2025/457)](https://www.legislation.gov.uk/uksi/2025/457), [arts. 1](https://www.legislation.gov.uk/uksi/2025/457/article/1), [4](https://www.legislation.gov.uk/uksi/2025/457/article/4)

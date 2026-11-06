@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13ZA. Provision of services to incapable adults[^key-7779c4bb6cd722a189712bcd7ba34189]
+## 13ZA. Provision of services to incapable adults[^c-7779c4bb6cd722a189712bcd7ba34189]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ the local authority may take any steps which they consider would help the adult 
 
 ## Annotations
 
-[^key-7779c4bb6cd722a189712bcd7ba34189]: Textual amendment: S. 13ZA inserted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 64](https://www.legislation.gov.uk/asp/2007/10/section/64), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-7779c4bb6cd722a189712bcd7ba34189]: Textual amendment: S. 13ZA inserted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 64](https://www.legislation.gov.uk/asp/2007/10/section/64), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)

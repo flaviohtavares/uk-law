@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Application of the 1991 Act[^key-ec89d21e88e876cd94c59e8cbe274078]
+## 9. Application of the 1991 Act[^c-ec89d21e88e876cd94c59e8cbe274078]
 
 *Extent: E+W*
 
@@ -29,9 +29,9 @@ summary: ''
 
 (3) The following provisions of Part 3 the 1991 Act do not apply in relation to any works executed under the powers of this Order—
 
-- section 56 [^c24103961](power to give directions as to timing of street works)[^key-11ae8329bf7f711aee0f38aefcaa6b13];
+- section 56 [^c24103961](power to give directions as to timing of street works)[^c-11ae8329bf7f711aee0f38aefcaa6b13];
 - section 56A [^c24103971] (power to give directions as to placing of apparatus);
-- section 58 [^c24103981](restrictions on works following substantial road works)[^key-8acb7a98fcbfa47dfbc718e44054190f];
+- section 58 [^c24103981](restrictions on works following substantial road works)[^c-8acb7a98fcbfa47dfbc718e44054190f];
 - section 58A [^c24103991] (restriction on works following substantial street works);
 - section 73A [^c24104001] (power to require undertaker to re-surface street);
 - section 73B [^c24104011] (power to specify timing etc. of re-surfacing);
@@ -65,7 +65,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-ec89d21e88e876cd94c59e8cbe274078]: Commencement: Art. 9 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-ec89d21e88e876cd94c59e8cbe274078]: Commencement: Art. 9 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24103941]: Marginal citation: [Section 64](https://www.legislation.gov.uk/uksi/2020/556/section/64) was amended by section 102 of, and Schedule 17 to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to the 1991 Act.
 
@@ -73,13 +73,13 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 [^c24103961]: Marginal citation: [Section 56](https://www.legislation.gov.uk/uksi/2020/556/section/56) was amended by sections 40 and 43 of, and Schedule 1 to, the [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-11ae8329bf7f711aee0f38aefcaa6b13]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2020/556/article/9/3) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/3/a)
+[^c-11ae8329bf7f711aee0f38aefcaa6b13]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2020/556/article/9/3) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/3/a)
 
 [^c24103971]: Marginal citation: [Section 56A](https://www.legislation.gov.uk/uksi/2020/556/section/56A) was inserted by section 44 of the Traffic Management Act 2004.
 
 [^c24103981]: Marginal citation: [Section 58](https://www.legislation.gov.uk/uksi/2020/556/section/58) was amended by sections 40 and 51 of, and Schedule 1 to, the Traffic Management Act 2004.
 
-[^key-8acb7a98fcbfa47dfbc718e44054190f]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2020/556/article/9/3) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/3/b)
+[^c-8acb7a98fcbfa47dfbc718e44054190f]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/uksi/2020/556/article/9/3) substituted (29.10.2020) by [The A63 Castle Street Improvement Hull (Correction) Order 2020 (S.I. 2020/1184)](https://www.legislation.gov.uk/uksi/2020/1184), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1184/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1184/article/2/3/b)
 
 [^c24103991]: Marginal citation: [Section 58A](https://www.legislation.gov.uk/uksi/2020/556/section/58A) was inserted by section 52 of the Traffic Management Act 2004.
 

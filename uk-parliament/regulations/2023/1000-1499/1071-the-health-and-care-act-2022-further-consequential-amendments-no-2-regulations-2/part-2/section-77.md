@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendment of the National Health Service Pension Scheme Regulations 2015[^key-9a582bde968abd0aae3d7c4584241ce0]
+## 77. Amendment of the National Health Service Pension Scheme Regulations 2015[^c-9a582bde968abd0aae3d7c4584241ce0]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a582bde968abd0aae3d7c4584241ce0]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2023/1071/regulation/77) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-9a582bde968abd0aae3d7c4584241ce0]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2023/1071/regulation/77) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00063]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94), relevant amending instruments are [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245), [S.I. 2017/275](https://www.legislation.gov.uk/uksi/2017/275), [S.I. 2021/631](https://www.legislation.gov.uk/uksi/2021/631) and [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634).

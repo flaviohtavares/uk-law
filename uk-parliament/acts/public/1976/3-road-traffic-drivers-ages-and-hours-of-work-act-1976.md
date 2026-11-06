@@ -39,7 +39,7 @@ An Act to amend the Road Traffic Act 1972 in so far as it relates to drivers’ 
 
 (1) In Part VI of the [^c721239]Transport Act 1968 (drivers’ hours)—
 
-- (a)[^c721240] in section 103(1), for the definition of “the international rules” there shall be substituted the words “ “**the applicable Community rules**” means any dirctly applicable EU[^key-cbda4a41adaa7266466d578b0634bb4b] provision for the time being in force about the driving of road vehicles”
+- (a)[^c721240] in section 103(1), for the definition of “the international rules” there shall be substituted the words “ “**the applicable Community rules**” means any dirctly applicable EU[^c-cbda4a41adaa7266466d578b0634bb4b] provision for the time being in force about the driving of road vehicles”
 - (b)[^c721240] in section 103(1), in the appropriate places in alphabetical order, there shall be inserted the following definitions—
 
   > - “**the domestic drivers’ hours code**” has the meaning given by section 96(13) of this Act
@@ -96,11 +96,11 @@ For section 103(7) of the Transport Act 1968 (which confers jurisdiction over an
 
 (1) This Act may be cited as the Road Traffic (Drivers’ Ages and Hours of Work) Act 1976.
 
-(2)[^key-a1e449af5d1f547d61cf9e7036f0a23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a1e449af5d1f547d61cf9e7036f0a23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a1e449af5d1f547d61cf9e7036f0a23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a1e449af5d1f547d61cf9e7036f0a23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a1e449af5d1f547d61cf9e7036f0a23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a1e449af5d1f547d61cf9e7036f0a23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This Act does not extend to Northern Ireland.
 
@@ -148,7 +148,7 @@ Sections 1 and 2.
 
 [^c721240]: Modification: The text of ss. 2(1)(*a*)–(*i*)(4), 3, Sch. 3 Pts. I, II is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-cbda4a41adaa7266466d578b0634bb4b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2),](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2) [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-cbda4a41adaa7266466d578b0634bb4b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2),](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2) [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c721249]: Textual amendment: S. 2(2) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
 
@@ -164,7 +164,7 @@ Sections 1 and 2.
 
 [^c721256]: Modification: The text of ss. 2(1)(*a*)–(*i*)(4), 3, Sch. 3 Pts. I, II is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-a1e449af5d1f547d61cf9e7036f0a23f]: Textual amendment: [S. 4(2)-(4)](https://www.legislation.gov.uk/ukpga/1976/3/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-a1e449af5d1f547d61cf9e7036f0a23f]: Textual amendment: [S. 4(2)-(4)](https://www.legislation.gov.uk/ukpga/1976/3/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c721259]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1976/3/section/1), [4(2)](https://www.legislation.gov.uk/ukpga/1976/3/section/4/2)(*b*), Sch. 1 repealed by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [ss. 3](https://www.legislation.gov.uk/ukpga/1988/54/section/3), [5](https://www.legislation.gov.uk/ukpga/1988/54/section/5), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1988/54/schedule/1/part/I), [Sch. 4 paras. 1–3](https://www.legislation.gov.uk/ukpga/1988/54/schedule/4/paragraph/1)
 

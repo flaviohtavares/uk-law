@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1[^key-ff4cac0a14e37d3cbfd1623c607a3056]
+## SCHEDULE 1[^c-ff4cac0a14e37d3cbfd1623c607a3056]
 
 *Extent: E+W+S+N.I.*
 
 Article 3
 
-[^key-ff4cac0a14e37d3cbfd1623c607a3056]
+[^c-ff4cac0a14e37d3cbfd1623c607a3056]
 
 The provisions of the 2011 Act coming into force on 16th January 2012 are—
 
@@ -76,17 +76,17 @@ The provisions of the 2011 Act coming into force on 16th January 2012 are—
 - (vv) section 92;
 - (ww) section 93;
 - (xx) section 94;
-- (yy) section 95 in so far as necessary for the purposes of paragraph (lll)[^key-671546f97c1264ba45ca8e5fd9ef0c8f] below;
+- (yy) section 95 in so far as necessary for the purposes of paragraph (lll)[^c-671546f97c1264ba45ca8e5fd9ef0c8f] below;
 - (zz) section 96, in the metropolitan police district only;
 - (aaa) section 97, with the exception of subsection (3);
-- (bbb) section 98, in so far as necessary for the purposes of paragraph (mmm)[^key-376dbb1d651ac582783b6c432575519d] below;
-- (ccc) section 99, in so far as necessary for the purposes of paragraph (nnn)[^key-51dd1b86276ae2b90d5e87e5964bcae1] below;
+- (bbb) section 98, in so far as necessary for the purposes of paragraph (mmm)[^c-376dbb1d651ac582783b6c432575519d] below;
+- (ccc) section 99, in so far as necessary for the purposes of paragraph (nnn)[^c-51dd1b86276ae2b90d5e87e5964bcae1] below;
 - (ddd) section 100;
 - (eee) section 101;
 - (fff) section 102(1), (4), (5) and (6);
 - (ggg) Schedule 3;
 - (hhh) Schedule 4;
-- (iii) Schedule 11, with the exception of paragraphs 2(2) and 4[^key-7ced1295a2dcc16ad2bb141575aef83b];
+- (iii) Schedule 11, with the exception of paragraphs 2(2) and 4[^c-7ced1295a2dcc16ad2bb141575aef83b];
 - (jjj) Schedule 12;
 - (kkk) Schedule 13;
 - (lll) Paragraphs 4, 7 and 8(1), (2) and (3) of Schedule 14, in the metropolitan police district only;
@@ -98,12 +98,12 @@ The provisions of the 2011 Act coming into force on 16th January 2012 are—
 
 ## Annotations
 
-[^key-ff4cac0a14e37d3cbfd1623c607a3056]: Commencement: Sch. 1 in force at made date
+[^c-ff4cac0a14e37d3cbfd1623c607a3056]: Commencement: Sch. 1 in force at made date
 
-[^key-671546f97c1264ba45ca8e5fd9ef0c8f]: Textual amendment: Words in [Sch. 1 para. (yy)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/a)
+[^c-671546f97c1264ba45ca8e5fd9ef0c8f]: Textual amendment: Words in [Sch. 1 para. (yy)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/a)
 
-[^key-376dbb1d651ac582783b6c432575519d]: Textual amendment: Words in [Sch. 1 para. (bbb)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/b)
+[^c-376dbb1d651ac582783b6c432575519d]: Textual amendment: Words in [Sch. 1 para. (bbb)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/b)
 
-[^key-51dd1b86276ae2b90d5e87e5964bcae1]: Textual amendment: Words in [Sch. 1 para. (ccc)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/c)
+[^c-51dd1b86276ae2b90d5e87e5964bcae1]: Textual amendment: Words in [Sch. 1 para. (ccc)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/c)
 
-[^key-7ced1295a2dcc16ad2bb141575aef83b]: Textual amendment: Words in [Sch. 1 para. (iii)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/d)
+[^c-7ced1295a2dcc16ad2bb141575aef83b]: Textual amendment: Words in [Sch. 1 para. (iii)](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1/paragraph) substituted (12.1.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 3 and Transitional Provisions) (Amendment) Order 2012 (S.I. 2012/75)](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/d)

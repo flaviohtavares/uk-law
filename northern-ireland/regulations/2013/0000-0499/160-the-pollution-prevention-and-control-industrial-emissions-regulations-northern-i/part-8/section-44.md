@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Revocations[^key-1464362321676e53527faf6f648451da]
+## 44. Revocations[^c-1464362321676e53527faf6f648451da]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 17 shall have effect.
 
 ## Annotations
 
-[^key-1464362321676e53527faf6f648451da]: Commencement: Reg. 44 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1464362321676e53527faf6f648451da]: Commencement: Reg. 44 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

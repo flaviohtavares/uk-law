@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Additional costs arising from employing authority’s level of performance[^key-e7264d3e838e0ab218ccfe6a5abedcb0]
+## 43. Additional costs arising from employing authority’s level of performance[^c-e7264d3e838e0ab218ccfe6a5abedcb0]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7264d3e838e0ab218ccfe6a5abedcb0]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-e7264d3e838e0ab218ccfe6a5abedcb0]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

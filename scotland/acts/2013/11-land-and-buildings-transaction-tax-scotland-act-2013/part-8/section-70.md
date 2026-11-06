@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) This section and sections 54,[^key-69d885b09fc84bca3ad9739d3ce5a689]... 67, 68, 69 and 71 come into force on the day of Royal Assent.
+(1) This section and sections 54,[^c-69d885b09fc84bca3ad9739d3ce5a689]... 67, 68, 69 and 71 come into force on the day of Royal Assent.
 
 (2) The other provisions of this Act come into force on such day as the Scottish Ministers may, by order, appoint.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69d885b09fc84bca3ad9739d3ce5a689]: Textual amendment: Reference in [s. 70(1)](https://www.legislation.gov.uk/asp/2013/11/section/70/1) repealed (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(17)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/17) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-69d885b09fc84bca3ad9739d3ce5a689]: Textual amendment: Reference in [s. 70(1)](https://www.legislation.gov.uk/asp/2013/11/section/70/1) repealed (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(17)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/17) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

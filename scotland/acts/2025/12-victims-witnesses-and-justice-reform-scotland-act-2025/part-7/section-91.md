@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Sexual Offences Court procedure[^key-6348dc1ca6590c97c090e6c0bd0b06c5]
+## 91. Sexual Offences Court procedure[^c-6348dc1ca6590c97c090e6c0bd0b06c5]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6348dc1ca6590c97c090e6c0bd0b06c5]: Commencement: S. 91 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6348dc1ca6590c97c090e6c0bd0b06c5]: Commencement: S. 91 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

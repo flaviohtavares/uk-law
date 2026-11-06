@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Record keeping[^key-f3ff36b4986de908ae373a4caf6920ea]
+## 12. Record keeping[^c-f3ff36b4986de908ae373a4caf6920ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ff36b4986de908ae373a4caf6920ea]: Commencement: Art. 12 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-f3ff36b4986de908ae373a4caf6920ea]: Commencement: Art. 12 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

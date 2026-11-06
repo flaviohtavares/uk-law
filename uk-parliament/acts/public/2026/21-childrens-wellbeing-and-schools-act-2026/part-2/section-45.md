@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Unregistered independent educational institutions: prevention orders[^key-4298f6c3ef28739ad79eaa340347dd62]
+## 45. Unregistered independent educational institutions: prevention orders[^c-4298f6c3ef28739ad79eaa340347dd62]
 
 *Extent: E+W*
 
@@ -106,4 +106,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4298f6c3ef28739ad79eaa340347dd62]: Commencement: S. 45 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-4298f6c3ef28739ad79eaa340347dd62]: Commencement: S. 45 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

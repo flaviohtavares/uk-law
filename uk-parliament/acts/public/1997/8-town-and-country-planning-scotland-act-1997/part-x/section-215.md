@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 215. Meaning of “operational land”.[^key-1ae44ea6dd33b8dfc97c9d83981801af]
+## 215. Meaning of “operational land”.[^c-1ae44ea6dd33b8dfc97c9d83981801af]
 
 *Extent: S*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1ae44ea6dd33b8dfc97c9d83981801af]: Modification: [S. 215](https://www.legislation.gov.uk/ukpga/1997/8/section/215) modified (5.9.2025) by [The Caledonian Maritime Assets (Port Ellen Works) Harbour Revision Order 2025 (S.S.I. 2025/246)](https://www.legislation.gov.uk/ssi/2025/246), [arts. 1](https://www.legislation.gov.uk/ssi/2025/246/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/246/article/3/2) (with [arts. 17](https://www.legislation.gov.uk/ssi/2025/246/article/17), [18](https://www.legislation.gov.uk/ssi/2025/246/article/18))
+[^c-1ae44ea6dd33b8dfc97c9d83981801af]: Modification: [S. 215](https://www.legislation.gov.uk/ukpga/1997/8/section/215) modified (5.9.2025) by [The Caledonian Maritime Assets (Port Ellen Works) Harbour Revision Order 2025 (S.S.I. 2025/246)](https://www.legislation.gov.uk/ssi/2025/246), [arts. 1](https://www.legislation.gov.uk/ssi/2025/246/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/246/article/3/2) (with [arts. 17](https://www.legislation.gov.uk/ssi/2025/246/article/17), [18](https://www.legislation.gov.uk/ssi/2025/246/article/18))
 
 [^c950239]: Textual amendment: S. 215(2A)(2B)(2C) inserted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 37](https://www.legislation.gov.uk/ukpga/2000/38/section/37), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2000/38/schedule/5/paragraph/11) (with [s. 105](https://www.legislation.gov.uk/ukpga/2000/38/section/105)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 

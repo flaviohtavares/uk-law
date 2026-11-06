@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Inspection of prison records[^key-da9856af321e3c85ac14bccc8931339c]
+## 152. Inspection of prison records[^c-da9856af321e3c85ac14bccc8931339c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da9856af321e3c85ac14bccc8931339c]: Textual amendment: Pt. 17 revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/39/article/4/7) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-da9856af321e3c85ac14bccc8931339c]: Textual amendment: Pt. 17 revoked (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/39/article/4/7) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

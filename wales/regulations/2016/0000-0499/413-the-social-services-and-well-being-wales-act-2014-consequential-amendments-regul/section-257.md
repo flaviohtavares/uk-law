@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**257.**[^key-7e1143fe08fd966018e3744ca5172824] In Part 1 of Schedule 3 to the Offender Management Act 2007 (minor and consequential amendments) omit paragraph 4(7).
+**257.**[^c-7e1143fe08fd966018e3744ca5172824] In Part 1 of Schedule 3 to the Offender Management Act 2007 (minor and consequential amendments) omit paragraph 4(7).
 
 ## Annotations
 
-[^key-7e1143fe08fd966018e3744ca5172824]: Commencement: Reg. 257 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7e1143fe08fd966018e3744ca5172824]: Commencement: Reg. 257 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

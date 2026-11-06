@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Specific measures relating to certain solanaceous species[^key-652be0932448b3a858b7d7705da45ee7]
+## 23. Specific measures relating to certain solanaceous species[^c-652be0932448b3a858b7d7705da45ee7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect and makes provision for specific measures relating to cert
 
 ## Annotations
 
-[^key-652be0932448b3a858b7d7705da45ee7]: Commencement: Reg. 23 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-652be0932448b3a858b7d7705da45ee7]: Commencement: Reg. 23 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

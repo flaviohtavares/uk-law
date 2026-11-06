@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Periodic reporting requirements[^c24459211][^key-456e263d905c297c410bc0e8f76ae526]
+## 43. Periodic reporting requirements[^c24459211][^c-456e263d905c297c410bc0e8f76ae526]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c24459211]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/1/section/43) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-456e263d905c297c410bc0e8f76ae526]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/1/section/43) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-456e263d905c297c410bc0e8f76ae526]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/1/section/43) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

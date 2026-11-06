@@ -34,13 +34,13 @@ An Act to make provision for the making of orders in connection with national se
 
 \[29th April 2021\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-cf9034dd7b55994a8ca73684c4aed89e]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-cf9034dd7b55994a8ca73684c4aed89e]
 
 ## PART 1 — Call-in for national security
 
 ### CHAPTER 1 — Call-in power
 
-#### 1. Call-in notice for national security purposes[^key-f5db7afdcb69918bba40c01cf55751a9]
+#### 1. Call-in notice for national security purposes[^c-f5db7afdcb69918bba40c01cf55751a9]
 
 (1) The Secretary of State may give a notice if the Secretary of State reasonably suspects that—
 
@@ -65,7 +65,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) But nothing in the statement limits the power to give a call-in notice.
 
-#### 2. Further provision about call-in notices[^key-b2db48b6c56c4b4b7607263e2507d53a]
+#### 2. Further provision about call-in notices[^c-b2db48b6c56c4b4b7607263e2507d53a]
 
 (1) No more than one call-in notice may be given in relation to each trigger event.
 
@@ -87,7 +87,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) This section is subject to section 22 (and see section 62).
 
-#### 3. Statement about exercise of call-in power[^key-08adf20056dade3ad20438962e0365a9]
+#### 3. Statement about exercise of call-in power[^c-08adf20056dade3ad20438962e0365a9]
 
 (1) The Secretary of State may publish a statement for the purposes of this section if the requirements set out in section 4(1) are satisfied.
 
@@ -105,7 +105,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) Nothing in a statement published under this section affects the power of the Secretary of State to make notifiable acquisition regulations (see section 6).
 
-#### 4. Consultation and parliamentary procedure[^key-6b5ff941676952aa11500969dc4abdb7]
+#### 4. Consultation and parliamentary procedure[^c-6b5ff941676952aa11500969dc4abdb7]
 
 (1) Before the Secretary of State may publish a statement for the purposes of section 3 the Secretary of State must—
 
@@ -127,7 +127,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### CHAPTER 2 — Interpretation
 
-#### 5. Meaning of “trigger event” and “acquirer”[^key-0dd2fa656198bb0a783cba063eb24c10]
+#### 5. Meaning of “trigger event” and “acquirer”[^c-0dd2fa656198bb0a783cba063eb24c10]
 
 (1) For the purposes of this Act, a “trigger event” takes place when—
 
@@ -140,25 +140,25 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (1) The Secretary of State may make regulations for the purposes of this section (“**notifiable acquisition regulations**”).
 
-(2)[^key-4f586a6e0fd48bde32ae51e28b5e4358] A notifiable acquisition takes place when a person gains control, by virtue of one or more of the cases described in subsection (2), (5) or (6) of section 8, of a qualifying entity of a specified description.
+(2)[^c-4f586a6e0fd48bde32ae51e28b5e4358] A notifiable acquisition takes place when a person gains control, by virtue of one or more of the cases described in subsection (2), (5) or (6) of section 8, of a qualifying entity of a specified description.
 
-(3)[^key-4f586a6e0fd48bde32ae51e28b5e4358] But a notifiable acquisition does not take place if complying with the requirement to give a mandatory notice under section 14(1) would be impossible for the person within subsection (2).
+(3)[^c-4f586a6e0fd48bde32ae51e28b5e4358] But a notifiable acquisition does not take place if complying with the requirement to give a mandatory notice under section 14(1) would be impossible for the person within subsection (2).
 
-(4)[^key-4f586a6e0fd48bde32ae51e28b5e4358] A description of qualifying entity that is specified must include provision that the entity carries on activities in the United Kingdom which are of a specified description (whether or not it also carries on other activities).
+(4)[^c-4f586a6e0fd48bde32ae51e28b5e4358] A description of qualifying entity that is specified must include provision that the entity carries on activities in the United Kingdom which are of a specified description (whether or not it also carries on other activities).
 
-(5)[^key-4f586a6e0fd48bde32ae51e28b5e4358] Notifiable acquisition regulations may—
+(5)[^c-4f586a6e0fd48bde32ae51e28b5e4358] Notifiable acquisition regulations may—
 
 - (a) amend this section in relation to the circumstances in which a notifiable acquisition takes place or does not take place,
 - (b) make provision for exemptions by reference to the characteristics of the person within subsection (2),
 - (c) make consequential amendments of other provisions of this Act.
 
-(6)[^key-4f586a6e0fd48bde32ae51e28b5e4358] Notifiable acquisition regulations may by virtue of subsection (5)(a) include, in particular, provision about the circumstances in which the gaining of control of a qualifying asset of a specified description is a notifiable acquisition.
+(6)[^c-4f586a6e0fd48bde32ae51e28b5e4358] Notifiable acquisition regulations may by virtue of subsection (5)(a) include, in particular, provision about the circumstances in which the gaining of control of a qualifying asset of a specified description is a notifiable acquisition.
 
-(7)[^key-4f586a6e0fd48bde32ae51e28b5e4358] A description specified under subsection (6) may only include qualifying assets within section 7(6) if it includes provision that any such asset is used in connection with activities carried on in the United Kingdom which are of a specified description (whether or not it is also used in connection with other activities).
+(7)[^c-4f586a6e0fd48bde32ae51e28b5e4358] A description specified under subsection (6) may only include qualifying assets within section 7(6) if it includes provision that any such asset is used in connection with activities carried on in the United Kingdom which are of a specified description (whether or not it is also used in connection with other activities).
 
-(8)[^key-4f586a6e0fd48bde32ae51e28b5e4358] In this section “**specified**” means specified in notifiable acquisition regulations.
+(8)[^c-4f586a6e0fd48bde32ae51e28b5e4358] In this section “**specified**” means specified in notifiable acquisition regulations.
 
-#### 7. Qualifying entities and assets[^key-65c4eb62f4ef5a024d3f550b1b1c1047]
+#### 7. Qualifying entities and assets[^c-65c4eb62f4ef5a024d3f550b1b1c1047]
 
 (1) This section defines “qualifying entity” and “**qualifying asset**” for the purposes of this Act.
 
@@ -191,7 +191,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) activities carried on in the United Kingdom, or
 - (b) the supply of goods or services to persons in the United Kingdom.
 
-#### 8. Control of entities[^key-59d575105d1f88555eb861c28a560d94]
+#### 8. Control of entities[^c-59d575105d1f88555eb861c28a560d94]
 
 (1) For the purposes of this Act, a person gains control of a qualifying entity if the person acquires a right or interest in, or in relation to, the entity and as a result one or more of the cases described in this section arises.
 
@@ -228,7 +228,7 @@ and, in the case of an entity that does not have general meetings at which matte
 
 (9) Subsection (8) does not include a case where the person already holds any interest or right that enables the person materially to influence the policy of the entity.
 
-#### 9. Control of assets[^key-1874ea37b5f6bba112636ea66c9cb32e]
+#### 9. Control of assets[^c-1874ea37b5f6bba112636ea66c9cb32e]
 
 (1) For the purposes of this Act, a person gains control of a qualifying asset if the person acquires a right or interest in, or in relation to, the asset and as a result the person is able—
 
@@ -239,7 +239,7 @@ This is subject to section 11.
 
 (2) In this section, references to the use of an asset include references to its exploitation, alteration, manipulation, disposal or destruction.
 
-#### 10. Holding and acquiring interests and rights: supplementary[^key-e8611ee57896d8fea28a7276861032a5]
+#### 10. Holding and acquiring interests and rights: supplementary[^c-e8611ee57896d8fea28a7276861032a5]
 
 (1) Schedule 1 provides for particular cases in which a person is to be treated for the purposes of this Act as holding an interest or right.
 
@@ -250,9 +250,9 @@ This is subject to section 11.
 
 #### 11. Exceptions relating to control of assets[^c24533841]
 
-(1)[^key-48335680c362e51d459fd6a7af9bf15c] For the purposes of this Act a person is not to be regarded as gaining control of a qualifying asset by reason of an acquisition made by an individual for purposes that are wholly or mainly outside the individual's trade, business or craft.
+(1)[^c-48335680c362e51d459fd6a7af9bf15c] For the purposes of this Act a person is not to be regarded as gaining control of a qualifying asset by reason of an acquisition made by an individual for purposes that are wholly or mainly outside the individual's trade, business or craft.
 
-(2)[^key-48335680c362e51d459fd6a7af9bf15c] Subsection (1) does not apply in relation to an asset that—
+(2)[^c-48335680c362e51d459fd6a7af9bf15c] Subsection (1) does not apply in relation to an asset that—
 
 - (a) is land, or
 - (b) falls within any of the following (as it has effect from time to time)—
@@ -267,7 +267,7 @@ This is subject to section 11.
 - (a) amend subsection (2) so as to add, vary or remove any asset or description of asset,
 - (b) prescribe other circumstances, or descriptions of circumstances, in which a person is not to be regarded for the purposes of this Act as gaining control of a qualifying asset.
 
-#### 12. Trigger events: supplementary[^key-46cac966e91093150ac8f8e37b6863d2]
+#### 12. Trigger events: supplementary[^c-46cac966e91093150ac8f8e37b6863d2]
 
 (1) If a trigger event takes place over a period of more than one day, or if it is unclear when during a period of more than one day the event has taken place, it is treated for the purposes of this Act as taking place on the last day of the period.
 
@@ -279,7 +279,7 @@ This is subject to section 11.
 
 ### CHAPTER 3 — Approval of notifiable acquisition
 
-#### 13. Approval of notifiable acquisition[^key-60e208cdba5ea2fea1b4003ceccf9777]
+#### 13. Approval of notifiable acquisition[^c-60e208cdba5ea2fea1b4003ceccf9777]
 
 (1) A notifiable acquisition that is completed without the approval of the Secretary of State is void.
 
@@ -297,36 +297,36 @@ This is subject to section 11.
 
 ##### 14. Mandatory notification procedure[^c24533851]
 
-(1)[^key-04b2d20cdcdfcc814e91c555906754f5] Subject to subsection (2), a person must give notice to the Secretary of State before the person, pursuant to a notifiable acquisition, gains control in circumstances falling within section 6(2).
+(1)[^c-04b2d20cdcdfcc814e91c555906754f5] Subject to subsection (2), a person must give notice to the Secretary of State before the person, pursuant to a notifiable acquisition, gains control in circumstances falling within section 6(2).
 
-(2)[^key-04b2d20cdcdfcc814e91c555906754f5] Subsection (1) does not apply if the Secretary of State has already given a call-in notice, which has not been revoked, in relation to the proposed notifiable acquisition.
+(2)[^c-04b2d20cdcdfcc814e91c555906754f5] Subsection (1) does not apply if the Secretary of State has already given a call-in notice, which has not been revoked, in relation to the proposed notifiable acquisition.
 
-(3)[^key-04b2d20cdcdfcc814e91c555906754f5] A notice under subsection (1) is referred to in this Act as a mandatory notice.
+(3)[^c-04b2d20cdcdfcc814e91c555906754f5] A notice under subsection (1) is referred to in this Act as a mandatory notice.
 
 (4) The Secretary of State may by regulations prescribe the form and content of a mandatory notice.
 
-(5)[^key-04b2d20cdcdfcc814e91c555906754f5] As soon as reasonably practicable after receiving a mandatory notice, the Secretary of State must decide whether to reject or accept the notice.
+(5)[^c-04b2d20cdcdfcc814e91c555906754f5] As soon as reasonably practicable after receiving a mandatory notice, the Secretary of State must decide whether to reject or accept the notice.
 
-(6)[^key-04b2d20cdcdfcc814e91c555906754f5] The Secretary of State may reject the mandatory notice on one or more of the following grounds—
+(6)[^c-04b2d20cdcdfcc814e91c555906754f5] The Secretary of State may reject the mandatory notice on one or more of the following grounds—
 
 - (a) it does not meet the requirements of this section,
 - (b) it does not meet the requirements prescribed by the regulations,
 - (c) it does not contain sufficient information to allow the Secretary of State to decide whether to give a call-in notice in relation to the proposed notifiable acquisition.
 
-(7)[^key-04b2d20cdcdfcc814e91c555906754f5] If the mandatory notice is rejected, the Secretary of State must, as soon as practicable, provide reasons in writing for that decision to the person who gave the notice.
+(7)[^c-04b2d20cdcdfcc814e91c555906754f5] If the mandatory notice is rejected, the Secretary of State must, as soon as practicable, provide reasons in writing for that decision to the person who gave the notice.
 
-(8)[^key-04b2d20cdcdfcc814e91c555906754f5] If the mandatory notice is accepted, the Secretary of State must—
+(8)[^c-04b2d20cdcdfcc814e91c555906754f5] If the mandatory notice is accepted, the Secretary of State must—
 
 - (a) as soon as practicable, notify each relevant person, and
 - (b) before the end of the review period—
   - (i) give a call-in notice in relation to the proposed notifiable acquisition, or
   - (ii) notify each relevant person that no further action will be taken under this Act in relation to the proposed notifiable acquisition.
 
-(9)[^key-04b2d20cdcdfcc814e91c555906754f5] The “review period” is the period of 30 working days beginning with the day on which the notification under subsection (8)(a) is given to the person who gave the mandatory notice.
+(9)[^c-04b2d20cdcdfcc814e91c555906754f5] The “review period” is the period of 30 working days beginning with the day on which the notification under subsection (8)(a) is given to the person who gave the mandatory notice.
 
-(10)[^key-04b2d20cdcdfcc814e91c555906754f5] In this section “**relevant person**” means the person who gave the mandatory notice and such other persons as the Secretary of State considers appropriate.
+(10)[^c-04b2d20cdcdfcc814e91c555906754f5] In this section “**relevant person**” means the person who gave the mandatory notice and such other persons as the Secretary of State considers appropriate.
 
-##### 15. Requirement to consider retrospective validation without application[^key-217cce03d3b1297ef526409aa5898f94]
+##### 15. Requirement to consider retrospective validation without application[^c-217cce03d3b1297ef526409aa5898f94]
 
 (1) This section and section 16 apply to a notifiable acquisition that is completed without the approval of the Secretary of State and, accordingly, is void (see section 13(1)).
 
@@ -344,37 +344,37 @@ This is subject to section 11.
 
 ##### 16. Application for retrospective validation of notifiable acquisition[^c24533861]
 
-(1)[^key-e79ed65638d6aab023461103d5db28df] Any person materially affected by the fact that a notifiable acquisition to which this section applies (see section 15(1)) is void, may apply to the Secretary of State for a validation notice in relation to the acquisition.
+(1)[^c-e79ed65638d6aab023461103d5db28df] Any person materially affected by the fact that a notifiable acquisition to which this section applies (see section 15(1)) is void, may apply to the Secretary of State for a validation notice in relation to the acquisition.
 
-(2)[^key-e79ed65638d6aab023461103d5db28df] An application under subsection (1) is referred to in this Act as a validation application.
+(2)[^c-e79ed65638d6aab023461103d5db28df] An application under subsection (1) is referred to in this Act as a validation application.
 
 (3) The Secretary of State may by regulations prescribe the form and content of a validation application.
 
-(4)[^key-e79ed65638d6aab023461103d5db28df] Subject to subsection (8), as soon as reasonably practicable after receiving a validation application, the Secretary of State must decide whether to reject or accept the application.
+(4)[^c-e79ed65638d6aab023461103d5db28df] Subject to subsection (8), as soon as reasonably practicable after receiving a validation application, the Secretary of State must decide whether to reject or accept the application.
 
-(5)[^key-e79ed65638d6aab023461103d5db28df] The Secretary of State may reject the application on one or more of the following grounds—
+(5)[^c-e79ed65638d6aab023461103d5db28df] The Secretary of State may reject the application on one or more of the following grounds—
 
 - (a) it does not meet the requirements of this section,
 - (b) it does not meet the requirements prescribed by the regulations,
 - (c) it does not contain sufficient information to allow the Secretary of State to decide whether to give a call-in notice in relation to the acquisition.
 
-(6)[^key-e79ed65638d6aab023461103d5db28df] If the application is rejected, the Secretary of State must, as soon as practicable, provide reasons in writing for that decision to the person who made the application.
+(6)[^c-e79ed65638d6aab023461103d5db28df] If the application is rejected, the Secretary of State must, as soon as practicable, provide reasons in writing for that decision to the person who made the application.
 
-(7)[^key-e79ed65638d6aab023461103d5db28df] If the application is accepted, the Secretary of State must—
+(7)[^c-e79ed65638d6aab023461103d5db28df] If the application is accepted, the Secretary of State must—
 
 - (a) as soon as practicable, notify each relevant person, and
 - (b) before the end of the review period—
   - (i) give a call-in notice in relation to the acquisition, or
   - (ii) give a validation notice in relation to the acquisition to each relevant person and notify those persons that no further action will be taken under this Act in relation to the acquisition.
 
-(8)[^key-e79ed65638d6aab023461103d5db28df] The Secretary of State is not required to consider a validation application in relation to an acquisition if, in the opinion of the Secretary of State, there has been no material change in circumstances since a previous validation application in relation to the acquisition was made.
+(8)[^c-e79ed65638d6aab023461103d5db28df] The Secretary of State is not required to consider a validation application in relation to an acquisition if, in the opinion of the Secretary of State, there has been no material change in circumstances since a previous validation application in relation to the acquisition was made.
 
-(9)[^key-e79ed65638d6aab023461103d5db28df] In this section—
+(9)[^c-e79ed65638d6aab023461103d5db28df] In this section—
 
 - “**relevant person**” means the person who made the validation application and such other persons as the Secretary of State considers appropriate;
 - the “review period” is the period of 30 working days beginning with the day on which the notification under subsection (7)(a) is given to the person who made the validation application.
 
-##### 17. Retrospective validation of notifiable acquisition following call-in[^key-844dfb4ea7a47a6db5e3b866aaf41c30]
+##### 17. Retrospective validation of notifiable acquisition following call-in[^c-844dfb4ea7a47a6db5e3b866aaf41c30]
 
 (1) This section applies where the Secretary of State has given a call-in notice pursuant to—
 
@@ -399,48 +399,48 @@ This is subject to section 11.
 
 ##### 18. Voluntary notification procedure[^c24533871]
 
-(1)[^key-bd644d1ba5c419a826ffcabca48ae5c7] This section does not apply in relation to—
+(1)[^c-bd644d1ba5c419a826ffcabca48ae5c7] This section does not apply in relation to—
 
 - (a) arrangements which would result in a notifiable acquisition,
 - (b) a trigger event that is, or includes, a notifiable acquisition.
 
-(2)[^key-bd644d1ba5c419a826ffcabca48ae5c7] A seller, acquirer or the qualifying entity concerned may give a notice to the Secretary of State stating that —
+(2)[^c-bd644d1ba5c419a826ffcabca48ae5c7] A seller, acquirer or the qualifying entity concerned may give a notice to the Secretary of State stating that —
 
 - (a) a trigger event has taken place in relation to a qualifying entity or a qualifying asset, or
 - (b) arrangements are in progress or contemplation which, if carried into effect, will result in a trigger event taking place in relation to a qualifying entity or a qualifying asset.
 
-(3)[^key-bd644d1ba5c419a826ffcabca48ae5c7] A notice under subsection (2) is referred to in this Act as a voluntary notice.
+(3)[^c-bd644d1ba5c419a826ffcabca48ae5c7] A notice under subsection (2) is referred to in this Act as a voluntary notice.
 
 (4) The Secretary of State may by regulations prescribe the form and content of a voluntary notice.
 
-(5)[^key-bd644d1ba5c419a826ffcabca48ae5c7] As soon as reasonably practicable after receiving the voluntary notice, the Secretary of State must decide whether to reject or accept the notice.
+(5)[^c-bd644d1ba5c419a826ffcabca48ae5c7] As soon as reasonably practicable after receiving the voluntary notice, the Secretary of State must decide whether to reject or accept the notice.
 
-(6)[^key-bd644d1ba5c419a826ffcabca48ae5c7] The Secretary of State may reject the voluntary notice on one or more of the following grounds—
+(6)[^c-bd644d1ba5c419a826ffcabca48ae5c7] The Secretary of State may reject the voluntary notice on one or more of the following grounds—
 
 - (a) it does not meet the requirements of this section,
 - (b) it does not meet the requirements prescribed by the regulations,
 - (c) it does not contain sufficient information to allow the Secretary of State to decide whether to give a call-in notice,
 - (d) there is no reasonable prospect of being able to give a call-in notice due to the operation of the time-limits in subsection (2) or (4) of section 2.
 
-(7)[^key-bd644d1ba5c419a826ffcabca48ae5c7] If the voluntary notice is rejected, the Secretary of State must, as soon as practicable, provide reasons in writing for that decision to each relevant person.
+(7)[^c-bd644d1ba5c419a826ffcabca48ae5c7] If the voluntary notice is rejected, the Secretary of State must, as soon as practicable, provide reasons in writing for that decision to each relevant person.
 
-(8)[^key-bd644d1ba5c419a826ffcabca48ae5c7] If the voluntary notice is accepted, the Secretary of State must—
+(8)[^c-bd644d1ba5c419a826ffcabca48ae5c7] If the voluntary notice is accepted, the Secretary of State must—
 
 - (a) as soon as practicable, notify each relevant person, and
 - (b) before the end of the review period—
   - (i) give a call-in notice in relation to the trigger event, or
   - (ii) notify each relevant person that no further action will be taken under this Act in relation to the trigger event.
 
-(9)[^key-bd644d1ba5c419a826ffcabca48ae5c7] The “review period” is the period of 30 working days beginning with the day on which the notification under subsection (8)(a) is given to the person who gave the voluntary notice; but this does not affect the operation of the time-limits in subsections (2) and (4) of section 2.
+(9)[^c-bd644d1ba5c419a826ffcabca48ae5c7] The “review period” is the period of 30 working days beginning with the day on which the notification under subsection (8)(a) is given to the person who gave the voluntary notice; but this does not affect the operation of the time-limits in subsections (2) and (4) of section 2.
 
-(10)[^key-bd644d1ba5c419a826ffcabca48ae5c7] In this section—
+(10)[^c-bd644d1ba5c419a826ffcabca48ae5c7] In this section—
 
 - “**relevant person**” means the person who gave the voluntary notice and such other persons as the Secretary of State considers appropriate,
 - “**seller**”, in relation to a trigger event, means a person who has ceded control of the qualifying entity or a qualifying asset (or in relation to a trigger event that has not yet taken place, would cede that control).
 
 #### Information, etc
 
-##### 19. Power to require information[^key-28e9d43b12212c679124f80d9b196ddb]
+##### 19. Power to require information[^c-28e9d43b12212c679124f80d9b196ddb]
 
 (1) The Secretary of State may give a notice to a person (subject to section 21) to require the person to provide any information in relation to the exercise of the Secretary of State's functions under this Act which—
 
@@ -476,7 +476,7 @@ This is subject to section 11.
 - (b) in relation to Scotland, the Court of Session, and
 - (c) in relation to a person outside the United Kingdom, the High Court of England and Wales.
 
-##### 20. Attendance of witnesses[^key-3b696b3c735d10ff94cb56ed5f1e883b]
+##### 20. Attendance of witnesses[^c-3b696b3c735d10ff94cb56ed5f1e883b]
 
 (1) The Secretary of State may give a notice to a person (subject to section 21) to require the person—
 
@@ -502,7 +502,7 @@ This is subject to section 11.
 - (b) in relation to evidence given in Scotland, the Court of Session, and
 - (c) in relation to evidence given outside the United Kingdom, the High Court of England and Wales.
 
-##### 21. Information notices and attendance notices: persons outside the UK[^key-c6066d6418d2a8540c993150e8c0ed64]
+##### 21. Information notices and attendance notices: persons outside the UK[^c-c6066d6418d2a8540c993150e8c0ed64]
 
 (1) The Secretary of State may give an information notice or an attendance notice to a person outside the United Kingdom only if the person falls within subsection (2), (3) or (4) of this section.
 
@@ -529,7 +529,7 @@ and the person is the acquirer.
 
 and the person is the acquirer.
 
-##### 22. False or misleading information[^key-944f2a405e70cb928a0727fee4d1c2c9]
+##### 22. False or misleading information[^c-944f2a405e70cb928a0727fee4d1c2c9]
 
 (1) This section applies where false or misleading information is provided to the Secretary of State—
 
@@ -557,7 +557,7 @@ the Secretary of State may give a further call-in notice and section 2(1) does n
 
 ### Assessment period
 
-#### 23. Meaning of “assessment period”[^key-1edde2d3dabf2cab363c53c9ce119058]
+#### 23. Meaning of “assessment period”[^c-1edde2d3dabf2cab363c53c9ce119058]
 
 (1) This section defines “**assessment period**” in relation to a call-in notice.
 
@@ -591,7 +591,7 @@ the Secretary of State may give a further call-in notice and section 2(1) does n
   - (ii) a risk to national security has arisen from the trigger event or would arise from the trigger event if carried into effect, and
 - (b) reasonably considers that the period is required to consider whether to make a final order or what provision a final order should contain.
 
-#### 24. Effect of information notice and attendance notice[^key-2ff07cf2588114e4d40714f817608723]
+#### 24. Effect of information notice and attendance notice[^c-2ff07cf2588114e4d40714f817608723]
 
 (1) This section applies if an information notice or an attendance notice is given at any time during the assessment period in relation to a call-in notice.
 
@@ -613,7 +613,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 ### Interim and final orders
 
-#### 25. Interim orders[^key-837c67e6bbc97c3c9a1f720ef24af062]
+#### 25. Interim orders[^c-837c67e6bbc97c3c9a1f720ef24af062]
 
 (1) The Secretary of State may, during the assessment period in relation to a call-in notice, make an order if the Secretary of State reasonably considers that the provisions of the order are necessary and proportionate for the purpose of preventing or reversing pre-emptive action, or mitigating its effects.
 
@@ -643,7 +643,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 - (b) such time as is determined by or under the order,
 - (c) such time as it is revoked.
 
-#### 26. Final orders and final notifications[^key-ad98f25f93dff667edc6896dd91cea8f]
+#### 26. Final orders and final notifications[^c-ad98f25f93dff667edc6896dd91cea8f]
 
 (1) The Secretary of State must, before the end of the assessment period in relation to a call-in notice—
 
@@ -682,7 +682,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 (8) A final order ceases to have effect at such time as is determined by or under the order, unless it is revoked before that time.
 
-#### 27. Review, variation and revocation of orders[^key-bc0b16a4b577191f3ee1401c4c99abd3]
+#### 27. Review, variation and revocation of orders[^c-bc0b16a4b577191f3ee1401c4c99abd3]
 
 (1) This section applies in relation to an interim order and a final order.
 
@@ -695,7 +695,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 - (a) since the order was made or last varied, or
 - (b) in the case of a request from a person who has made a previous request in relation to the order, since the previous request was made.
 
-#### 28. Orders: supplementary[^key-e69d63677deb7a4ae50e2fc8bbb31610]
+#### 28. Orders: supplementary[^c-e69d63677deb7a4ae50e2fc8bbb31610]
 
 (1) This section applies in relation to an interim order and a final order.
 
@@ -725,7 +725,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 (6) As soon as practicable after revoking an order, the Secretary of State must give notice to the persons mentioned in subsection (2) that the order has been revoked.
 
-#### 29. Publication of notice of final order[^key-59f9da67805e502ab0b3f95725686527]
+#### 29. Publication of notice of final order[^c-59f9da67805e502ab0b3f95725686527]
 
 (1) Subject to subsection (3), the Secretary of State must publish, in such manner as the Secretary of State considers appropriate, notice of the fact that—
 
@@ -747,7 +747,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 ### Financial assistance
 
-#### 30. Financial assistance[^key-e906adeb56a3f356f97abfe93813f45b]
+#### 30. Financial assistance[^c-e906adeb56a3f356f97abfe93813f45b]
 
 (1) The Secretary of State may, with the consent of the Treasury, give financial assistance to or in respect of an entity in consequence of the making of a final order.
 
@@ -764,7 +764,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 ### CMA functions
 
-#### 31. Interaction with CMA functions under Part 3 of Enterprise Act 2002[^key-8b4fac80cb17306c73d5973bd6c3d581]
+#### 31. Interaction with CMA functions under Part 3 of Enterprise Act 2002[^c-8b4fac80cb17306c73d5973bd6c3d581]
 
 (1) This section applies at any time when a final order is in force, or a final notification has been given, in relation to a trigger event which involves, or would involve, two or more enterprises ceasing to be distinct enterprises for the purposes of Part 3 of the Enterprise Act 2002 (“**the 2002 Act**”).
 
@@ -780,7 +780,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 ### Offences
 
-#### 32. Offence of completing notifiable acquisition without approval[^key-d2c0ddd500d8f2a3ec0db97fe0bf6560]
+#### 32. Offence of completing notifiable acquisition without approval[^c-d2c0ddd500d8f2a3ec0db97fe0bf6560]
 
 (1) A person who, pursuant to a notifiable acquisition, gains control in circumstances falling within section 6(2) commits an offence if, without reasonable excuse, that person completes the notifiable acquisition without the approval of the Secretary of State in one of the ways mentioned in section 13(2).
 
@@ -788,13 +788,13 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 (3) An offence is committed under this section notwithstanding the effect of section 13(1).
 
-#### 33. Offence of failing to comply with order[^key-8c47ac6dbe6bbbfe57a05bfe20314fa5]
+#### 33. Offence of failing to comply with order[^c-8c47ac6dbe6bbbfe57a05bfe20314fa5]
 
 (1) A person commits an offence if, without reasonable excuse, the person fails to comply with a requirement to which the person is subject under or by virtue of an interim order or a final order.
 
 (2) Where a person is convicted of an offence under this section, the court may make an order requiring that person, within such period as may be specified by the order, to comply with a requirement to which the person is subject under or by virtue of an interim order or a final order.
 
-#### 34. Offences: information and attendance of witnesses[^key-80515891b0c49b0c4118d78c2ad962de]
+#### 34. Offences: information and attendance of witnesses[^c-80515891b0c49b0c4118d78c2ad962de]
 
 (1) A person commits an offence if—
 
@@ -824,7 +824,7 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 (6) Any reference in subsection (1) to destroying information includes a reference to destroying the means of reproducing information recorded otherwise than in legible form.
 
-#### 35. Offences in relation to sharing information[^key-68781b8f726dde00cf6d8d54fded7966]
+#### 35. Offences in relation to sharing information[^c-68781b8f726dde00cf6d8d54fded7966]
 
 (1) It is an offence for a person to use or disclose information in contravention of section 54 or 55(1).
 
@@ -835,14 +835,14 @@ the Secretary of State must notify each relevant person confirming that fact.
 
 #### 36. Offences by bodies corporate etc[^c24533881]
 
-(1)[^key-818384976ada8130073f0f853dba410a] If an offence under this Act is committed by a body—
+(1)[^c-818384976ada8130073f0f853dba410a] If an offence under this Act is committed by a body—
 
 - (a) with the consent or connivance of an officer of the body, or
 - (b) due to any neglect on the part of such an officer,
 
 the officer, as well as the body, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-(2)[^key-818384976ada8130073f0f853dba410a] In this section—
+(2)[^c-818384976ada8130073f0f853dba410a] In this section—
 
 - “**body**” means a body corporate, a partnership or an unincorporated association other than a partnership,
 - “officer of a body”—
@@ -850,26 +850,26 @@ the officer, as well as the body, is guilty of the offence and liable to be proc
   - (b) in relation to a partnership, means a partner or person purporting to act as a partner,
   - (c) in relation to an unincorporated association other than a partnership, means a person who is concerned in the management or control of the body or purports to act in the capacity of a person so concerned.
 
-(3)[^key-818384976ada8130073f0f853dba410a] In subsection (2) “**director**” includes—
+(3)[^c-818384976ada8130073f0f853dba410a] In subsection (2) “**director**” includes—
 
 - (a) a person occupying in relation to a body corporate the position of a director (by whatever name called),
 - (b) a person in accordance with whose directions or instructions (not being advice given in a professional capacity) the directors of that body are accustomed to act, and
 - (c) a person who has an interest or right in, or in relation to, the body corporate that (whether alone or together with other interests or rights held by the person) enables the person materially to influence the policy of the body corporate.
 
-(4)[^key-818384976ada8130073f0f853dba410a] If the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body.
+(4)[^c-818384976ada8130073f0f853dba410a] If the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body.
 
 (5) The Secretary of State may by regulations provide for the modification of any provision of this section in its application to a body corporate or unincorporated association formed or recognised under the law of a country or territory outside the United Kingdom.
 
 ### Prosecution and penalties
 
-#### 37. Prosecution[^key-253f56ad5590a8cb44281ef2e939cadb]
+#### 37. Prosecution[^c-253f56ad5590a8cb44281ef2e939cadb]
 
 Proceedings for an offence under this Act may be instituted—
 
 - (a) in England and Wales, only by the Director of Public Prosecutions, and
 - (b) in Northern Ireland, only by the Director of Public Prosecutions for Northern Ireland.
 
-#### 38. Proceedings against partnerships etc[^key-3dce27e29013fd3fae7b06823904054c]
+#### 38. Proceedings against partnerships etc[^c-3dce27e29013fd3fae7b06823904054c]
 
 (1) Proceedings for an offence under this Act may be brought—
 
@@ -887,27 +887,27 @@ Proceedings for an offence under this Act may be instituted—
 
 (5) A fine imposed on an unincorporated association other than a partnership on its conviction for an offence is to be paid out of the funds of the association.
 
-#### 39. Offences: penalties[^key-a726e38b200dbb8e3430c0b2d89ae144]
+#### 39. Offences: penalties[^c-a726e38b200dbb8e3430c0b2d89ae144]
 
 (1) A person who commits an offence under section 32 (completing notifiable acquisition without approval) or 33 (failing to comply with interim or final order) is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-ad2e38c837052c9011e40ff91e9ee106], or a fine (or both),
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-ad2e38c837052c9011e40ff91e9ee106], or a fine (or both),
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum (or both),
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months, or a fine not exceeding the statutory maximum (or both),
 - (d) on conviction on indictment, to imprisonment for a term not exceeding 5 years, or a fine (or both).
 
 (2) A person who commits an offence under section 34 (offences in relation to supplying information and attendance of witnesses) or 35 (offences in relation to sharing information) is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c71d12c17b2e70f4a23b1ed6fce7cbd2] , or a fine (or both),
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-c71d12c17b2e70f4a23b1ed6fce7cbd2] , or a fine (or both),
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months, or a fine not exceeding the statutory maximum (or both),
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months, or a fine not exceeding the statutory maximum (or both),
 - (d) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine (or both).
 
-(3) In relation to an offence committed before 2 May 2022[^key-c6f88aabec31c001bc747a26bb4ff64c], the references in subsections (1)(a) and (2)(a) to the general limit in a magistrates’ court[^key-c63c171fcb7da420cf1e3908bd164646] are to be read as references to 6 months.
+(3) In relation to an offence committed before 2 May 2022[^c-c6f88aabec31c001bc747a26bb4ff64c], the references in subsections (1)(a) and (2)(a) to the general limit in a magistrates’ court[^c-c63c171fcb7da420cf1e3908bd164646] are to be read as references to 6 months.
 
 ### Civil sanctions
 
-#### 40. Power to impose monetary penalties[^key-3cffd0195240413e909e462ce6d24465]
+#### 40. Power to impose monetary penalties[^c-3cffd0195240413e909e462ce6d24465]
 
 (1) Subject to section 43(1), the Secretary of State may give a notice imposing a monetary penalty on a person if the Secretary of State is satisfied, beyond reasonable doubt, that the person has committed an offence under—
 
@@ -965,25 +965,25 @@ Proceedings for an offence under this Act may be instituted—
 
 #### 41. Permitted maximum penalties[^c24533891]
 
-(1)[^key-8cce63c14b60016f0ceecb61eb88772c] The following are the permitted maximum fixed penalties for an offence under section 32 or 33—
+(1)[^c-8cce63c14b60016f0ceecb61eb88772c] The following are the permitted maximum fixed penalties for an offence under section 32 or 33—
 
 - (a) if the offence is committed by a business, the higher of 5% of the total value of the turnover of the business (both in and outside the United Kingdom and including any business owned or controlled by the business) and £10 million,
 - (b) if the offence is committed otherwise than by a business, £10 million.
 
-(2)[^key-8cce63c14b60016f0ceecb61eb88772c] The following are the permitted maximum amounts per day for a daily rate penalty for an offence under section 33—
+(2)[^c-8cce63c14b60016f0ceecb61eb88772c] The following are the permitted maximum amounts per day for a daily rate penalty for an offence under section 33—
 
 - (a) if the offence is committed by a business, the higher of 0.1% of the total turnover of the business (both in and outside the United Kingdom and including any business owned or controlled by the business) and £200,000,
 - (b) if the offence is committed otherwise than by a business, £200,000.
 
-(3)[^key-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(1)(a) is £30,000.
+(3)[^c-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(1)(a) is £30,000.
 
-(4)[^key-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum amount per day for a daily rate penalty for an offence under section 34(1)(a) is £15,000.
+(4)[^c-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum amount per day for a daily rate penalty for an offence under section 34(1)(a) is £15,000.
 
-(5)[^key-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(1)(b) is £30,000.
+(5)[^c-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(1)(b) is £30,000.
 
-(6)[^key-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(2) is £30,000.
+(6)[^c-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(2) is £30,000.
 
-(7)[^key-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(3) or (4) is £30,000.
+(7)[^c-8cce63c14b60016f0ceecb61eb88772c] The permitted maximum fixed penalty for an offence under section 34(3) or (4) is £30,000.
 
 (8) The Secretary of State may by regulations—
 
@@ -993,12 +993,12 @@ Proceedings for an offence under this Act may be instituted—
 - (d) amend subsection (1) or (2) so as to alter the percentage for the time being specified there,
 - (e) amend any of subsections (1) to (7) by substituting a different sum for any sum for the time being specified there.
 
-(9)[^key-ce1b11913540760c2a21cd9c4654d650] The regulations may in particular—
+(9)[^c-ce1b11913540760c2a21cd9c4654d650] The regulations may in particular—
 
 - (a) include by virtue of subsection (8)(c) provision as to the amounts which are, or which are not, to be treated as comprising the turnover of a business, or provision as to the date or dates by reference to which the turnover of a business is to be determined,
 - (b) make provision for the Secretary of State to determine matters of a description specified in the regulations (including the matters mentioned in paragraph (a)).
 
-#### 42. Review, variation and revocation of monetary penalties[^key-2533decc3755e4b6ed3f0f0ed9b99ce3]
+#### 42. Review, variation and revocation of monetary penalties[^c-2533decc3755e4b6ed3f0f0ed9b99ce3]
 
 (1) The Secretary of State must keep a monetary penalty imposed by a penalty notice under review and may vary or revoke the penalty notice as the Secretary of State considers appropriate.
 
@@ -1011,7 +1011,7 @@ Proceedings for an offence under this Act may be instituted—
 
 (4) A notice under subsection (3) is referred to in this Act as a penalty variation notice.
 
-#### 43. Monetary penalties: criminal proceedings and convictions[^key-4a0ea53bc4fc76a189b901d07cfed449]
+#### 43. Monetary penalties: criminal proceedings and convictions[^c-4a0ea53bc4fc76a189b901d07cfed449]
 
 (1) A penalty notice may not be given to a person in respect of an offence if—
 
@@ -1020,7 +1020,7 @@ Proceedings for an offence under this Act may be instituted—
 
 (2) Where a person has paid, or is required to pay, a monetary penalty under a penalty notice, no criminal proceedings may be instituted against the person in respect of the offence to which the notice relates.
 
-#### 44. Recovering penalties[^key-341342ef498362ffad5c0f97a652817d]
+#### 44. Recovering penalties[^c-341342ef498362ffad5c0f97a652817d]
 
 (1) Subsections (2) to (8) apply if all or part of a monetary penalty imposed by a penalty notice is unpaid by the time it is required to be paid.
 
@@ -1044,7 +1044,7 @@ Proceedings for an offence under this Act may be instituted—
 
 (8) Any sums received by the Secretary of State by way of a monetary penalty, or interest in respect of such a penalty, under this Act must be paid into the Consolidated Fund.
 
-#### 45. Monetary penalties: cost recovery[^key-10a7732e8a33c84aba752b9663d5838d]
+#### 45. Monetary penalties: cost recovery[^c-10a7732e8a33c84aba752b9663d5838d]
 
 (1) The Secretary of State may give a notice to a person requiring the person to pay to the Secretary of State the costs incurred by the Secretary of State in relation to the imposition of a monetary penalty on that person under section 40.
 
@@ -1071,7 +1071,7 @@ Proceedings for an offence under this Act may be instituted—
 - (a) the partnership assets where imposed on a partnership, and
 - (b) the funds of the association where imposed on an unincorporated association other than a partnership.
 
-#### 46. Review, variation and revocation of cost recovery notice[^key-08216dcf3c5f6b70099f3f8e55e4cd3f]
+#### 46. Review, variation and revocation of cost recovery notice[^c-08216dcf3c5f6b70099f3f8e55e4cd3f]
 
 (1) The Secretary of State must keep a cost recovery notice under review and may vary or revoke it as the Secretary of State considers appropriate.
 
@@ -1084,7 +1084,7 @@ Proceedings for an offence under this Act may be instituted—
 
 (4) A notice under subsection (3) is referred to in this Act as a cost variation notice.
 
-#### 47. Enforcement of cost recovery notice[^key-035c610b5ec2286d2ed613f6595ff170]
+#### 47. Enforcement of cost recovery notice[^c-035c610b5ec2286d2ed613f6595ff170]
 
 (1) Subsections (2) to (8) apply if some or all of the costs payable under a cost recovery notice are unpaid by the time when they are required to be paid.
 
@@ -1110,7 +1110,7 @@ Proceedings for an offence under this Act may be instituted—
 
 ### Civil proceedings
 
-#### 48. Enforcement through civil proceedings[^key-7ee505576b523bb7472f51d9267ee122]
+#### 48. Enforcement through civil proceedings[^c-7ee505576b523bb7472f51d9267ee122]
 
 (1) A person's duty to comply with a requirement to which the person is subject under or by virtue of an information notice, an attendance notice, an interim order or a final order is enforceable by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief or remedy.
 
@@ -1118,7 +1118,7 @@ Proceedings for an offence under this Act may be instituted—
 
 ### Judicial review and appeals
 
-#### 49. Procedure for judicial review of certain decisions[^key-5d1dde05b70a5ee031d55c3057bdbf8a]
+#### 49. Procedure for judicial review of certain decisions[^c-5d1dde05b70a5ee031d55c3057bdbf8a]
 
 (1) This section applies to a claim for judicial review of a relevant decision.
 
@@ -1168,7 +1168,7 @@ and “**action**” includes a failure to act.
 - (b) the Court of Session in Scotland, and
 - (c) the High Court in Northern Ireland.
 
-#### 50. Appeals against monetary penalties[^key-3325785baea4370e406d6d856eac9bdc]
+#### 50. Appeals against monetary penalties[^c-3325785baea4370e406d6d856eac9bdc]
 
 (1) A person who is given a penalty notice or a variation notice may appeal to the court.
 
@@ -1190,7 +1190,7 @@ and “**action**” includes a failure to act.
 
 (6) Where an appeal is brought under this section, the monetary penalty is not payable until the appeal is determined or withdrawn, unless the court orders otherwise.
 
-#### 51. Appeals against costs[^key-b5c305a610dd6b27033500d2b351aaee]
+#### 51. Appeals against costs[^c-b5c305a610dd6b27033500d2b351aaee]
 
 (1) A person given a cost recovery notice or a cost variation notice may appeal to the court.
 
@@ -1214,7 +1214,7 @@ and “**action**” includes a failure to act.
 
 ### Territorial application
 
-#### 52. Extra-territorial application and jurisdiction to try offences[^key-3091fe635af11c9c5b261ae76106ceaf]
+#### 52. Extra-territorial application and jurisdiction to try offences[^c-3091fe635af11c9c5b261ae76106ceaf]
 
 (1) Sections 32, 33, 34 and 35 apply—
 
@@ -1242,7 +1242,7 @@ and “**action**” includes a failure to act.
 
 (1) The Secretary of State may by regulations make provision for the procedure which must be followed when a provision of or made under this Act requires or allows a notice, order, notification or document of any kind to be given or served.
 
-(2)[^key-e2507e819b50cb85c33dbb228f274754] The regulations may, in particular, make provision—
+(2)[^c-e2507e819b50cb85c33dbb228f274754] The regulations may, in particular, make provision—
 
 - (a) as to the manner in which a document must be given or served,
 - (b) as to the address to which a document must be sent,
@@ -1252,11 +1252,11 @@ and “**action**” includes a failure to act.
 - (f) as to what must, or may, be done if a person is treated by virtue of Schedule 1 as holding an interest or right for the purposes of this Act,
 - (g) as to what must, or may, be done if a sender or an intended recipient is outside the United Kingdom.
 
-(3)[^key-e2507e819b50cb85c33dbb228f274754] Section 7 of the Interpretation Act 1978 (service of notice by post) has effect in relation to provisions made under this Act subject to any provision made by regulations under this section.
+(3)[^c-e2507e819b50cb85c33dbb228f274754] Section 7 of the Interpretation Act 1978 (service of notice by post) has effect in relation to provisions made under this Act subject to any provision made by regulations under this section.
 
 ### Information gateways
 
-#### 54. Disclosure of information[^key-3eb139056dd5bb4d8e3b1cd3465d6dcc]
+#### 54. Disclosure of information[^c-3eb139056dd5bb4d8e3b1cd3465d6dcc]
 
 (1) A public authority may disclose information to the Secretary of State for the purpose of facilitating the exercise by the Secretary of State of functions under this Act.
 
@@ -1299,7 +1299,7 @@ except with the consent of the Secretary of State (which may be general or speci
   - (b) relate to any of the purposes mentioned in paragraphs (b) to (f) of subsection (2),
 - “**public authority**” has the same meaning as in section 6 of the Human Rights Act 1998.
 
-#### 55. Disclosure of information held by HMRC[^key-0530068088397acccec74d720fac42dc]
+#### 55. Disclosure of information held by HMRC[^c-0530068088397acccec74d720fac42dc]
 
 (1) A person who receives information disclosed under section 54 by Her Majesty's Revenue and Customs (or anyone acting on their behalf) may not—
 
@@ -1322,7 +1322,7 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of wro
 
 ### CMA information
 
-#### 56. Duty of CMA to provide information and assistance[^key-c05864453259342a22f87e6b2ec61459]
+#### 56. Duty of CMA to provide information and assistance[^c-c05864453259342a22f87e6b2ec61459]
 
 The Competition and Markets Authority must give the Secretary of State—
 
@@ -1331,7 +1331,7 @@ The Competition and Markets Authority must give the Secretary of State—
 
 ### Data protection
 
-#### 57. Data protection[^key-6489d9638de40dfba35ef7f4657ecfcc]
+#### 57. Data protection[^c-6489d9638de40dfba35ef7f4657ecfcc]
 
 (1) This section applies to a duty or power to disclose or use information where the duty or power is imposed or conferred by or under any provision of Parts 1 to 4 of this Act.
 
@@ -1344,25 +1344,25 @@ The Competition and Markets Authority must give the Secretary of State—
 
 ### Minor amendments, etc
 
-#### 58. Minor and consequential amendments and revocations[^key-d1de83eb059b91243b5eba02ec61d8f4]
+#### 58. Minor and consequential amendments and revocations[^c-d1de83eb059b91243b5eba02ec61d8f4]
 
 Schedule 2 contains minor amendments and amendments and revocations which are consequential on this Act.
 
 ### Disclosure of information under the Enterprise Act 2002
 
-#### 59. Overseas information disclosure[^key-7829f70540313b8a20c7e89569380a62]
+#### 59. Overseas information disclosure[^c-7829f70540313b8a20c7e89569380a62]
 
 In section 243(3)(d) of the Enterprise Act 2002, omit “3 or”.
 
 ### Defamation
 
-#### 60. Defamation[^key-f20befde82e8de4cebb39c53120ea907]
+#### 60. Defamation[^c-f20befde82e8de4cebb39c53120ea907]
 
 For the purposes of the law relating to defamation, absolute privilege attaches to any notice or direction given, or decision, report or order made, by the Secretary of State or the Competition and Markets Authority in the exercise of functions under or by virtue of this Act.
 
 ### Annual report
 
-#### 61. Annual report[^key-0cf00c432c3026ff4312164b9ea2c3b6]
+#### 61. Annual report[^c-0cf00c432c3026ff4312164b9ea2c3b6]
 
 (1) The Secretary of State must, in relation to each relevant period—
 
@@ -1470,7 +1470,7 @@ In this Act—
 - “**penalty variation notice**” means a notice given under section 42(3),
 - “**qualifying asset**” has the meaning given by section 7(4),
 - “**qualifying entity**” has the meaning given by section 7(2),
-- “[^key-f237ff48d3f92b2b84c5ccf5c861dc4b]**Secretary of State**” includes the Chancellor of the Duchy of Lancaster,
+- “[^c-f237ff48d3f92b2b84c5ccf5c861dc4b]**Secretary of State**” includes the Chancellor of the Duchy of Lancaster,
 - “**the territorial sea**” means the territorial sea adjacent to the United Kingdom,
 - “**trigger event**” has the meaning given by section 5(1) and includes, where the context requires, a trigger event that has not yet taken place,
 - “**United Kingdom national**” means an individual who is—
@@ -1516,17 +1516,17 @@ Section 10
 
 ### Joint interests
 
-**1.**[^key-e4a6a560e245c8d233aa1adeb007050e] If two or more persons each hold an interest or right jointly, each of them is treated as holding that interest or right.
+**1.**[^c-e4a6a560e245c8d233aa1adeb007050e] If two or more persons each hold an interest or right jointly, each of them is treated as holding that interest or right.
 
 ### Joint arrangements
 
-**2.**[^key-a52e948e40e685f177c59b024cf9d846] (1) If interests or rights held by a person and interests or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined interests or rights of both of them.
+**2.**[^c-a52e948e40e685f177c59b024cf9d846] (1) If interests or rights held by a person and interests or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined interests or rights of both of them.
 
 (2) A “joint arrangement” is an arrangement between the holders of interests or rights that they will exercise all or substantially all the rights conferred by their respective interests, or their respective rights, jointly in a way that is pre-determined by the arrangement.
 
 ### Indirect holdings
 
-**3.**[^key-610dc76d1f1d6210c394db3406648f52] (1) An interest or right held indirectly by a person is to be treated as held by the person.
+**3.**[^c-610dc76d1f1d6210c394db3406648f52] (1) An interest or right held indirectly by a person is to be treated as held by the person.
 
 (2) A person holds an interest or right “indirectly” if the person has a majority stake in an entity and that entity—
 
@@ -1555,11 +1555,11 @@ Section 10
 
 ### Interests held by nominees
 
-**4.**[^key-a18a519e2ed89cdb4fef3924adadc6f5] An interest held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
+**4.**[^c-a18a519e2ed89cdb4fef3924adadc6f5] An interest held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
 
 ### Rights treated as held by person who controls their exercise
 
-**5.**[^key-d9445faef7cbbc09ec3149fac50ece68] (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
+**5.**[^c-d9445faef7cbbc09ec3149fac50ece68] (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
 (2) A person “controls” a right if, by virtue of any arrangement between that person and others, the right is exercisable only—
 
@@ -1569,7 +1569,7 @@ Section 10
 
 ### Rights exercisable only in certain circumstances etc
 
-**6.**[^key-c67d52d63d3176f771a7b23f4ba763f3] (1) Rights that are exercisable by a person only in certain circumstances are to be treated as held by the person only—
+**6.**[^c-c67d52d63d3176f771a7b23f4ba763f3] (1) Rights that are exercisable by a person only in certain circumstances are to be treated as held by the person only—
 
 - (a) when the circumstances have arisen, and for so long as they continue to obtain, or
 - (b) when the circumstances are within the control of the person.
@@ -1586,20 +1586,20 @@ Section 10
 
 ### Rights attached to shares held by way of security
 
-**7.**[^key-c1916597fe9d24f032b687989a2cb66b] Rights attached to shares held by way of security provided by a person are to be treated as held by that person—
+**7.**[^c-c1916597fe9d24f032b687989a2cb66b] Rights attached to shares held by way of security provided by a person are to be treated as held by that person—
 
 - (a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in accordance with that person's instructions, and
 - (b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in that person's interests.
 
 ### Connected persons
 
-**8.**[^key-172b013d8797a610c468ec8aedd2ce8a] Two or more persons who are connected with each other (within the meaning given by paragraph 9 or 10) are each to be treated as holding the combined interests or rights of both or all of them.
+**8.**[^c-172b013d8797a610c468ec8aedd2ce8a] Two or more persons who are connected with each other (within the meaning given by paragraph 9 or 10) are each to be treated as holding the combined interests or rights of both or all of them.
 
-**9.**[^key-263cab83d50d4b1481694e2fa2ed29e4] (1) Two or more undertakings are connected if they are group undertakings in respect of each other.
+**9.**[^c-263cab83d50d4b1481694e2fa2ed29e4] (1) Two or more undertakings are connected if they are group undertakings in respect of each other.
 
 (2) In sub-paragraph (1), “**undertaking**” and “**group undertaking**” have the same meanings as in the Companies Act 2006 (see section 1161 of that Act).
 
-**10.**[^key-491ebd7636903c84b648c56fd625ef3b] (1) An individual, A, is connected with another individual, B, if—
+**10.**[^c-491ebd7636903c84b648c56fd625ef3b] (1) An individual, A, is connected with another individual, B, if—
 
 - (a) A is B's spouse, civil partner or cohabitee,
 - (b) A is a relative of B,
@@ -1615,7 +1615,7 @@ Section 10
 
 ### Common purpose
 
-**11.**[^key-fabbfad755d2eef300d530056a3a144f] (1) Two or more persons who share a common purpose in relation to an asset or entity are each to be treated as holding the combined interests or rights of both or all of them.
+**11.**[^c-fabbfad755d2eef300d530056a3a144f] (1) Two or more persons who share a common purpose in relation to an asset or entity are each to be treated as holding the combined interests or rights of both or all of them.
 
 (2) The cases in which persons share a common purpose in relation to an entity include (but are not limited to) cases in which the persons co-ordinate their influence on the activities, operations, governance or strategy of the entity.
 
@@ -1623,7 +1623,7 @@ Section 10
 
 ### Arrangements
 
-**12.**[^key-5128f7373afce206135ff7af8cedd5ba] (1) In this Schedule “**arrangement**” includes—
+**12.**[^c-5128f7373afce206135ff7af8cedd5ba] (1) In this Schedule “**arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
@@ -1634,9 +1634,9 @@ Section 10
 
 Section 58
 
-**1.**[^key-a70d86fd6d133db8cd56b513b9292c8f] The Enterprise Act 2002 is amended in accordance with paragraphs 2 to 10.
+**1.**[^c-a70d86fd6d133db8cd56b513b9292c8f] The Enterprise Act 2002 is amended in accordance with paragraphs 2 to 10.
 
-**2.**[^key-83650ddb44b985f6263e5d6815ae730e] (1) Section 23 (relevant merger situations) is amended as follows.
+**2.**[^c-83650ddb44b985f6263e5d6815ae730e] (1) Section 23 (relevant merger situations) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -1658,23 +1658,23 @@ Section 58
 
 (6) Omit subsection (10).
 
-**3.**[^key-ba06a26e49364fe7539c1c6c83da931e] Omit section 23A.
+**3.**[^c-ba06a26e49364fe7539c1c6c83da931e] Omit section 23A.
 
-**4.**[^key-3b3025d943f8ba21dbca7cd3661b59c8] In section 35(7) (questions to be decided in relation to completed mergers), for “, for the purposes of section 23(2)(b), the share of supply test is met,” substitute “ any such result as is mentioned in section 23(2)(b) has arisen, ”.
+**4.**[^c-3b3025d943f8ba21dbca7cd3661b59c8] In section 35(7) (questions to be decided in relation to completed mergers), for “, for the purposes of section 23(2)(b), the share of supply test is met,” substitute “ any such result as is mentioned in section 23(2)(b) has arisen, ”.
 
-**5.**[^key-0dadbb11cb8e7cca60bc57b97b9b733c] In section 36(6) (questions to be decided in relation to anticipated mergers), for “, for the purposes of section 23(2)(b), the share of supply test will be met,” substitute “ any such result as is mentioned in section 23(2)(b) will arise, ”.
+**5.**[^c-0dadbb11cb8e7cca60bc57b97b9b733c] In section 36(6) (questions to be decided in relation to anticipated mergers), for “, for the purposes of section 23(2)(b), the share of supply test will be met,” substitute “ any such result as is mentioned in section 23(2)(b) will arise, ”.
 
-**6.**[^key-b2242af2e5df8132593578c9a415951c] In section 48(3) (cases where references or certain questions need not be decided), for “, for the purposes of section 23(2)(b), the share of supply test is or will be met,” substitute “ any such result as is mentioned in section 23(2)(b) has arisen or the question whether any such result will arise, ”.
+**6.**[^c-b2242af2e5df8132593578c9a415951c] In section 48(3) (cases where references or certain questions need not be decided), for “, for the purposes of section 23(2)(b), the share of supply test is or will be met,” substitute “ any such result as is mentioned in section 23(2)(b) has arisen or the question whether any such result will arise, ”.
 
-**7.**[^key-a2c65ec076dcc09fce941d0eee88e369] In section 58 (specified considerations), omit subsections (1) and (2).
+**7.**[^c-a2c65ec076dcc09fce941d0eee88e369] In section 58 (specified considerations), omit subsections (1) and (2).
 
-**8.**[^key-8a90ffe4c9b3593e8acb59620f2de20e] In section 59 (intervention by Secretary of State in special public interest cases), omit subsections (3)(b)(i), (3B), (8) and (9).
+**8.**[^c-8a90ffe4c9b3593e8acb59620f2de20e] In section 59 (intervention by Secretary of State in special public interest cases), omit subsections (3)(b)(i), (3B), (8) and (9).
 
-**9.**[^key-73999c3d5d0a353c1a156f0cfe1c21f5] In section 153 (specified considerations), omit subsection (2).
+**9.**[^c-73999c3d5d0a353c1a156f0cfe1c21f5] In section 153 (specified considerations), omit subsection (2).
 
-**10.**[^key-5fe29e5d82aae93c5cd8095e6f49e026] In paragraph 20(1) of Schedule 8 (national security) omit “(within the meaning of section 58(1))”.
+**10.**[^c-5fe29e5d82aae93c5cd8095e6f49e026] In paragraph 20(1) of Schedule 8 (national security) omit “(within the meaning of section 58(1))”.
 
-**11.**[^key-6336fa81e46799e712c0ab3fefc75735] In consequence of the preceding paragraphs, the following are revoked—
+**11.**[^c-6336fa81e46799e712c0ab3fefc75735] In consequence of the preceding paragraphs, the following are revoked—
 
 - (a) the Enterprise Act 2002 (Share of Supply Test) (Amendment) Order 2018 (S.I. 2018/578),
 - (b) the Enterprise Act 2002 (Turnover Test) (Amendment) Order 2018 (S.I. 2018/593),
@@ -1683,200 +1683,200 @@ Section 58
 
 ## Annotations
 
-[^key-cf9034dd7b55994a8ca73684c4aed89e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2021/25): functions made exercisable concurrently (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2023/424/article/15/1) (with [arts. 16(5)](https://www.legislation.gov.uk/uksi/2023/424/article/16/5)[(6)](https://www.legislation.gov.uk/uksi/2023/424/article/16/6), [17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-cf9034dd7b55994a8ca73684c4aed89e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2021/25): functions made exercisable concurrently (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2023/424/article/15/1) (with [arts. 16(5)](https://www.legislation.gov.uk/uksi/2023/424/article/16/5)[(6)](https://www.legislation.gov.uk/uksi/2023/424/article/16/6), [17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-f5db7afdcb69918bba40c01cf55751a9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/25/section/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-f5db7afdcb69918bba40c01cf55751a9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/25/section/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-b2db48b6c56c4b4b7607263e2507d53a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/25/section/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-b2db48b6c56c4b4b7607263e2507d53a]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/25/section/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-08adf20056dade3ad20438962e0365a9]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/25/section/3) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/a)
+[^c-08adf20056dade3ad20438962e0365a9]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/25/section/3) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/a)
 
-[^key-6b5ff941676952aa11500969dc4abdb7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/25/section/4) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/a)
+[^c-6b5ff941676952aa11500969dc4abdb7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/25/section/4) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/a)
 
-[^key-0dd2fa656198bb0a783cba063eb24c10]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/25/section/5) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-0dd2fa656198bb0a783cba063eb24c10]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/25/section/5) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533831]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2021/25/section/6/1) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-4f586a6e0fd48bde32ae51e28b5e4358]: Commencement: [S. 6(2)-(8)](https://www.legislation.gov.uk/ukpga/2021/25/section/6/2) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/b)
+[^c-4f586a6e0fd48bde32ae51e28b5e4358]: Commencement: [S. 6(2)-(8)](https://www.legislation.gov.uk/ukpga/2021/25/section/6/2) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/b)
 
-[^key-65c4eb62f4ef5a024d3f550b1b1c1047]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/25/section/7) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-65c4eb62f4ef5a024d3f550b1b1c1047]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/25/section/7) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-59d575105d1f88555eb861c28a560d94]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/25/section/8) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-59d575105d1f88555eb861c28a560d94]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/25/section/8) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-1874ea37b5f6bba112636ea66c9cb32e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/25/section/9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-1874ea37b5f6bba112636ea66c9cb32e]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/25/section/9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-e8611ee57896d8fea28a7276861032a5]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/25/section/10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-e8611ee57896d8fea28a7276861032a5]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/25/section/10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533841]: Commencement: [S. 11(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/11/3) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-48335680c362e51d459fd6a7af9bf15c]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2021/25/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/25/section/11/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-48335680c362e51d459fd6a7af9bf15c]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2021/25/section/11/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/25/section/11/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-46cac966e91093150ac8f8e37b6863d2]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/25/section/12) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-46cac966e91093150ac8f8e37b6863d2]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/25/section/12) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-60e208cdba5ea2fea1b4003ceccf9777]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/25/section/13) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-60e208cdba5ea2fea1b4003ceccf9777]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/25/section/13) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533851]: Commencement: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2021/25/section/14/4) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-04b2d20cdcdfcc814e91c555906754f5]: Commencement: S. 14(1)-(3)(5)-(10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-04b2d20cdcdfcc814e91c555906754f5]: Commencement: S. 14(1)-(3)(5)-(10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-217cce03d3b1297ef526409aa5898f94]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/25/section/15) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-217cce03d3b1297ef526409aa5898f94]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2021/25/section/15) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533861]: Commencement: [S. 16(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/16/3) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-e79ed65638d6aab023461103d5db28df]: Commencement: S. 16(1)(2)(4)-(9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-e79ed65638d6aab023461103d5db28df]: Commencement: S. 16(1)(2)(4)-(9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-844dfb4ea7a47a6db5e3b866aaf41c30]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/25/section/17) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-844dfb4ea7a47a6db5e3b866aaf41c30]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/25/section/17) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533871]: Commencement: [S. 18(4)](https://www.legislation.gov.uk/ukpga/2021/25/section/18/4) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-bd644d1ba5c419a826ffcabca48ae5c7]: Commencement: S. 18(1)-(3)(5)-(10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-bd644d1ba5c419a826ffcabca48ae5c7]: Commencement: S. 18(1)-(3)(5)-(10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-28e9d43b12212c679124f80d9b196ddb]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/25/section/19) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-28e9d43b12212c679124f80d9b196ddb]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/25/section/19) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-3b696b3c735d10ff94cb56ed5f1e883b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/25/section/20) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3b696b3c735d10ff94cb56ed5f1e883b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/25/section/20) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-c6066d6418d2a8540c993150e8c0ed64]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/25/section/21) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-c6066d6418d2a8540c993150e8c0ed64]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/25/section/21) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-944f2a405e70cb928a0727fee4d1c2c9]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/25/section/22) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-944f2a405e70cb928a0727fee4d1c2c9]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/25/section/22) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-1edde2d3dabf2cab363c53c9ce119058]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/25/section/23) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-1edde2d3dabf2cab363c53c9ce119058]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2021/25/section/23) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-2ff07cf2588114e4d40714f817608723]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/25/section/24) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-2ff07cf2588114e4d40714f817608723]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/25/section/24) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-837c67e6bbc97c3c9a1f720ef24af062]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/25/section/25) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-837c67e6bbc97c3c9a1f720ef24af062]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/25/section/25) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-ad98f25f93dff667edc6896dd91cea8f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/25/section/26) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-ad98f25f93dff667edc6896dd91cea8f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/25/section/26) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-bc0b16a4b577191f3ee1401c4c99abd3]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/25/section/27) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-bc0b16a4b577191f3ee1401c4c99abd3]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/25/section/27) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-e69d63677deb7a4ae50e2fc8bbb31610]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/25/section/28) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-e69d63677deb7a4ae50e2fc8bbb31610]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2021/25/section/28) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-59f9da67805e502ab0b3f95725686527]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/25/section/29) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-59f9da67805e502ab0b3f95725686527]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2021/25/section/29) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-e906adeb56a3f356f97abfe93813f45b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/25/section/30) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-e906adeb56a3f356f97abfe93813f45b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2021/25/section/30) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-8b4fac80cb17306c73d5973bd6c3d581]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2021/25/section/31) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-8b4fac80cb17306c73d5973bd6c3d581]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2021/25/section/31) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-d2c0ddd500d8f2a3ec0db97fe0bf6560]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/25/section/32) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-d2c0ddd500d8f2a3ec0db97fe0bf6560]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2021/25/section/32) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-8c47ac6dbe6bbbfe57a05bfe20314fa5]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2021/25/section/33) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-8c47ac6dbe6bbbfe57a05bfe20314fa5]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2021/25/section/33) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-80515891b0c49b0c4118d78c2ad962de]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/25/section/34) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-80515891b0c49b0c4118d78c2ad962de]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/25/section/34) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-68781b8f726dde00cf6d8d54fded7966]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/25/section/35) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-68781b8f726dde00cf6d8d54fded7966]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/25/section/35) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533881]: Commencement: [S. 36(5)](https://www.legislation.gov.uk/ukpga/2021/25/section/36/5) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-818384976ada8130073f0f853dba410a]: Commencement: [S. 36(1)-(4)](https://www.legislation.gov.uk/ukpga/2021/25/section/36/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-818384976ada8130073f0f853dba410a]: Commencement: [S. 36(1)-(4)](https://www.legislation.gov.uk/ukpga/2021/25/section/36/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-253f56ad5590a8cb44281ef2e939cadb]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/25/section/37) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-253f56ad5590a8cb44281ef2e939cadb]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/25/section/37) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-3dce27e29013fd3fae7b06823904054c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/25/section/38) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3dce27e29013fd3fae7b06823904054c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/25/section/38) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-a726e38b200dbb8e3430c0b2d89ae144]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/25/section/39) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-a726e38b200dbb8e3430c0b2d89ae144]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2021/25/section/39) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-ad2e38c837052c9011e40ff91e9ee106]: Textual amendment: Words in [s. 39(1)(a)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-ad2e38c837052c9011e40ff91e9ee106]: Textual amendment: Words in [s. 39(1)(a)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-c71d12c17b2e70f4a23b1ed6fce7cbd2]: Textual amendment: Words in [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-c71d12c17b2e70f4a23b1ed6fce7cbd2]: Textual amendment: Words in [s. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-c6f88aabec31c001bc747a26bb4ff64c]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-c6f88aabec31c001bc747a26bb4ff64c]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-c63c171fcb7da420cf1e3908bd164646]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-c63c171fcb7da420cf1e3908bd164646]: Textual amendment: Words in [s. 39(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/39/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-3cffd0195240413e909e462ce6d24465]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/25/section/40) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3cffd0195240413e909e462ce6d24465]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/25/section/40) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533891]: Commencement: [S. 41(8)](https://www.legislation.gov.uk/ukpga/2021/25/section/41/8) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-8cce63c14b60016f0ceecb61eb88772c]: Commencement: [S. 41(1)-(7)](https://www.legislation.gov.uk/ukpga/2021/25/section/41/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-8cce63c14b60016f0ceecb61eb88772c]: Commencement: [S. 41(1)-(7)](https://www.legislation.gov.uk/ukpga/2021/25/section/41/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-ce1b11913540760c2a21cd9c4654d650]: Commencement: [S. 41(9)](https://www.legislation.gov.uk/ukpga/2021/25/section/41/9) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/c)
+[^c-ce1b11913540760c2a21cd9c4654d650]: Commencement: [S. 41(9)](https://www.legislation.gov.uk/ukpga/2021/25/section/41/9) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/c)
 
-[^key-2533decc3755e4b6ed3f0f0ed9b99ce3]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/25/section/42) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-2533decc3755e4b6ed3f0f0ed9b99ce3]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/25/section/42) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-4a0ea53bc4fc76a189b901d07cfed449]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/25/section/43) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-4a0ea53bc4fc76a189b901d07cfed449]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2021/25/section/43) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-341342ef498362ffad5c0f97a652817d]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2021/25/section/44) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-341342ef498362ffad5c0f97a652817d]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2021/25/section/44) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-10a7732e8a33c84aba752b9663d5838d]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2021/25/section/45) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-10a7732e8a33c84aba752b9663d5838d]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2021/25/section/45) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-08216dcf3c5f6b70099f3f8e55e4cd3f]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/25/section/46) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-08216dcf3c5f6b70099f3f8e55e4cd3f]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/25/section/46) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-035c610b5ec2286d2ed613f6595ff170]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2021/25/section/47) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-035c610b5ec2286d2ed613f6595ff170]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2021/25/section/47) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-7ee505576b523bb7472f51d9267ee122]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2021/25/section/48) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-7ee505576b523bb7472f51d9267ee122]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2021/25/section/48) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-5d1dde05b70a5ee031d55c3057bdbf8a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/25/section/49) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-5d1dde05b70a5ee031d55c3057bdbf8a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/25/section/49) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-3325785baea4370e406d6d856eac9bdc]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/25/section/50) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3325785baea4370e406d6d856eac9bdc]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2021/25/section/50) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-b5c305a610dd6b27033500d2b351aaee]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/25/section/51) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-b5c305a610dd6b27033500d2b351aaee]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/25/section/51) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-3091fe635af11c9c5b261ae76106ceaf]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/25/section/52) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3091fe635af11c9c5b261ae76106ceaf]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2021/25/section/52) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
 [^c24533901]: Commencement: [S. 53(1)](https://www.legislation.gov.uk/ukpga/2021/25/section/53/1) in force at 29.4.2021, see [s. 66](https://www.legislation.gov.uk/ukpga/2021/25/section/66)
 
-[^key-e2507e819b50cb85c33dbb228f274754]: Commencement: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2021/25/section/53/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/53/3) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/d)
+[^c-e2507e819b50cb85c33dbb228f274754]: Commencement: [S. 53(2)](https://www.legislation.gov.uk/ukpga/2021/25/section/53/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/25/section/53/3) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/d)
 
-[^key-3eb139056dd5bb4d8e3b1cd3465d6dcc]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/25/section/54) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3eb139056dd5bb4d8e3b1cd3465d6dcc]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/25/section/54) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-0530068088397acccec74d720fac42dc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2021/25/section/55) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-0530068088397acccec74d720fac42dc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2021/25/section/55) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-c05864453259342a22f87e6b2ec61459]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/25/section/56) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-c05864453259342a22f87e6b2ec61459]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/25/section/56) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-6489d9638de40dfba35ef7f4657ecfcc]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2021/25/section/57) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-6489d9638de40dfba35ef7f4657ecfcc]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2021/25/section/57) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-d1de83eb059b91243b5eba02ec61d8f4]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/25/section/58) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-d1de83eb059b91243b5eba02ec61d8f4]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2021/25/section/58) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-7829f70540313b8a20c7e89569380a62]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/25/section/59) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/788/regulation/3))
+[^c-7829f70540313b8a20c7e89569380a62]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2021/25/section/59) in force at 1.7.2021 by [S.I. 2021/788](https://www.legislation.gov.uk/uksi/2021/788), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/788/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/788/regulation/3))
 
-[^key-f20befde82e8de4cebb39c53120ea907]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/25/section/60) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-f20befde82e8de4cebb39c53120ea907]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2021/25/section/60) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-0cf00c432c3026ff4312164b9ea2c3b6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2021/25/section/61) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-0cf00c432c3026ff4312164b9ea2c3b6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2021/25/section/61) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-f237ff48d3f92b2b84c5ccf5c861dc4b]: Textual amendment: Words in [s. 65](https://www.legislation.gov.uk/ukpga/2021/25/section/65) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/21) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-f237ff48d3f92b2b84c5ccf5c861dc4b]: Textual amendment: Words in [s. 65](https://www.legislation.gov.uk/ukpga/2021/25/section/65) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/21) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-e4a6a560e245c8d233aa1adeb007050e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-e4a6a560e245c8d233aa1adeb007050e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-a52e948e40e685f177c59b024cf9d846]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-a52e948e40e685f177c59b024cf9d846]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-610dc76d1f1d6210c394db3406648f52]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/3) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-610dc76d1f1d6210c394db3406648f52]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/3) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-a18a519e2ed89cdb4fef3924adadc6f5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/4) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-a18a519e2ed89cdb4fef3924adadc6f5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/4) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-d9445faef7cbbc09ec3149fac50ece68]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/5) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-d9445faef7cbbc09ec3149fac50ece68]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/5) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-c67d52d63d3176f771a7b23f4ba763f3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/6) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-c67d52d63d3176f771a7b23f4ba763f3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/6) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-c1916597fe9d24f032b687989a2cb66b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/7) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-c1916597fe9d24f032b687989a2cb66b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/7) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-172b013d8797a610c468ec8aedd2ce8a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/8) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-172b013d8797a610c468ec8aedd2ce8a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/8) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-263cab83d50d4b1481694e2fa2ed29e4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-263cab83d50d4b1481694e2fa2ed29e4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-491ebd7636903c84b648c56fd625ef3b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-491ebd7636903c84b648c56fd625ef3b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-fabbfad755d2eef300d530056a3a144f]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/11) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-fabbfad755d2eef300d530056a3a144f]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/11) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-5128f7373afce206135ff7af8cedd5ba]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/12) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-5128f7373afce206135ff7af8cedd5ba]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2021/25/schedule/1/paragraph/12) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-a70d86fd6d133db8cd56b513b9292c8f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-a70d86fd6d133db8cd56b513b9292c8f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/1) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-83650ddb44b985f6263e5d6815ae730e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-83650ddb44b985f6263e5d6815ae730e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/2) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-ba06a26e49364fe7539c1c6c83da931e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/3) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-ba06a26e49364fe7539c1c6c83da931e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/3) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-3b3025d943f8ba21dbca7cd3661b59c8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/4) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-3b3025d943f8ba21dbca7cd3661b59c8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/4) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-0dadbb11cb8e7cca60bc57b97b9b733c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/5) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-0dadbb11cb8e7cca60bc57b97b9b733c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/5) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-b2242af2e5df8132593578c9a415951c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/6) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-b2242af2e5df8132593578c9a415951c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/6) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-a2c65ec076dcc09fce941d0eee88e369]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/7) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-a2c65ec076dcc09fce941d0eee88e369]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/7) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-8a90ffe4c9b3593e8acb59620f2de20e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/8) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-8a90ffe4c9b3593e8acb59620f2de20e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/8) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-73999c3d5d0a353c1a156f0cfe1c21f5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-73999c3d5d0a353c1a156f0cfe1c21f5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/9) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-5fe29e5d82aae93c5cd8095e6f49e026]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-5fe29e5d82aae93c5cd8095e6f49e026]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/10) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
 
-[^key-6336fa81e46799e712c0ab3fefc75735]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/11) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))
+[^c-6336fa81e46799e712c0ab3fefc75735]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2021/25/schedule/2/paragraph/11) in force at 4.1.2022 by [S.I. 2021/1465](https://www.legislation.gov.uk/uksi/2021/1465), [regs. 2](https://www.legislation.gov.uk/uksi/2021/1465/regulation/2), [3](https://www.legislation.gov.uk/uksi/2021/1465/regulation/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2021/1465/regulation/4), [5](https://www.legislation.gov.uk/uksi/2021/1465/regulation/5))

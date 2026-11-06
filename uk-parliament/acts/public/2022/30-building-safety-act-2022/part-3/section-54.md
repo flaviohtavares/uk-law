@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Functions under Part 3 of Building Act 1984[^key-7332e12ebe74df1c65629c12286e9f3d][^key-fb5a3c1eec84328d32211c05d531411f]
+## 54. Functions under Part 3 of Building Act 1984[^c-7332e12ebe74df1c65629c12286e9f3d][^c-fb5a3c1eec84328d32211c05d531411f]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ In the Building Act 1984 after section 90 insert—
 
 ## Annotations
 
-[^key-7332e12ebe74df1c65629c12286e9f3d]: Commencement: S. 54 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)
+[^c-7332e12ebe74df1c65629c12286e9f3d]: Commencement: S. 54 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)
 
-[^key-fb5a3c1eec84328d32211c05d531411f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/30/section/54) in force at 1.10.2023 by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/m)
+[^c-fb5a3c1eec84328d32211c05d531411f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/30/section/54) in force at 1.10.2023 by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/m)

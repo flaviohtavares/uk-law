@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Member’s right to hard copy[^key-9c112c67bb7277c73ff5ff8a147082d6]
+## 52. Member’s right to hard copy[^c-9c112c67bb7277c73ff5ff8a147082d6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c112c67bb7277c73ff5ff8a147082d6]: Commencement: Reg. 52 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-9c112c67bb7277c73ff5ff8a147082d6]: Commencement: Reg. 52 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

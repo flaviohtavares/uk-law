@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49A. Calculation of council tax requirement by authorities in England[^key-839373af4b9f13837f471c6b0d46c4d5]
+## 49A. Calculation of council tax requirement by authorities in England[^c-839373af4b9f13837f471c6b0d46c4d5]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-839373af4b9f13837f471c6b0d46c4d5]: Textual amendment: Ss. 49A, 49B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 78](https://www.legislation.gov.uk/ukpga/2011/20/section/78), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-839373af4b9f13837f471c6b0d46c4d5]: Textual amendment: Ss. 49A, 49B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 78](https://www.legislation.gov.uk/ukpga/2011/20/section/78), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

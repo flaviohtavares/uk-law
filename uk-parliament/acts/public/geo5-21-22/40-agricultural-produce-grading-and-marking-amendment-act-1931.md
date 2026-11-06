@@ -29,33 +29,33 @@ Agricultural Produce (Grading and Marking) Amendment Act 1931 (repealed)
 
 1931 c. 40
 
-[^key-b0b57d9ca0dd3107e99d173c275422f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0b57d9ca0dd3107e99d173c275422f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Application of the principal Act to fishery produce.[^key-b0b57d9ca0dd3107e99d173c275422f2][^key-b0b57d9ca0dd3107e99d173c275422f2]
+## 1. Application of the principal Act to fishery produce.[^c-b0b57d9ca0dd3107e99d173c275422f2][^c-b0b57d9ca0dd3107e99d173c275422f2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-b0b57d9ca0dd3107e99d173c275422f2][^key-b0b57d9ca0dd3107e99d173c275422f2]
+## 2.[^c-b0b57d9ca0dd3107e99d173c275422f2][^c-b0b57d9ca0dd3107e99d173c275422f2]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Removal of doubts as to conditions which may be attached under s. 2(1) of the principal Act.[^key-b0b57d9ca0dd3107e99d173c275422f2][^key-b0b57d9ca0dd3107e99d173c275422f2]
+## 3. Removal of doubts as to conditions which may be attached under s. 2(1) of the principal Act.[^c-b0b57d9ca0dd3107e99d173c275422f2][^c-b0b57d9ca0dd3107e99d173c275422f2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Protection of grade designation marks.[^key-b0b57d9ca0dd3107e99d173c275422f2][^key-b0b57d9ca0dd3107e99d173c275422f2]
+## 4. Protection of grade designation marks.[^c-b0b57d9ca0dd3107e99d173c275422f2][^c-b0b57d9ca0dd3107e99d173c275422f2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title, construction, and citation.[^key-b0b57d9ca0dd3107e99d173c275422f2][^key-b0b57d9ca0dd3107e99d173c275422f2]
+## 5. Short title, construction, and citation.[^c-b0b57d9ca0dd3107e99d173c275422f2][^c-b0b57d9ca0dd3107e99d173c275422f2]
 
 **No longer in force.**
 
@@ -63,4 +63,4 @@ Agricultural Produce (Grading and Marking) Amendment Act 1931 (repealed)
 
 ## Annotations
 
-[^key-b0b57d9ca0dd3107e99d173c275422f2]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/21-22/40) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/33)
+[^c-b0b57d9ca0dd3107e99d173c275422f2]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/21-22/40) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/33)

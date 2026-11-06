@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Closure notices for persistently selling alcohol to children[^key-49fef1bcb50e094133f871474e470b42]
+## 24. Closure notices for persistently selling alcohol to children[^c-49fef1bcb50e094133f871474e470b42]
 
 *Extent: E+W*
 
@@ -122,10 +122,10 @@ summary: ''
 
   .
 
-(6)[^key-ee079d72e9e3cb98e692dc1b7cfc953d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ee079d72e9e3cb98e692dc1b7cfc953d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49fef1bcb50e094133f871474e470b42]: Commencement: S. 24 in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/858/article/2/a)
+[^c-49fef1bcb50e094133f871474e470b42]: Commencement: S. 24 in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/858/article/2/a)
 
-[^key-ee079d72e9e3cb98e692dc1b7cfc953d]: Textual amendment: [S. 24(6)](https://www.legislation.gov.uk/ukpga/2006/38/section/24/6) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/19); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by S.I. 2017/1162, reg. 2)
+[^c-ee079d72e9e3cb98e692dc1b7cfc953d]: Textual amendment: [S. 24(6)](https://www.legislation.gov.uk/ukpga/2006/38/section/24/6) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/19); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by S.I. 2017/1162, reg. 2)

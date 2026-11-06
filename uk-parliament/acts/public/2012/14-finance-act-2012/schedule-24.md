@@ -56,13 +56,13 @@ Section 191
 **3.** (1) A game that would otherwise be a dutiable machine game does not count as one if—
 
 - (a) it involves betting on future real events,
-- (b)[^key-d075df91c95a2b7afc62b4af5bd5fb99] it is a game of bingo in which two or more persons participate on the same premises,
+- (b)[^c-d075df91c95a2b7afc62b4af5bd5fb99] it is a game of bingo in which two or more persons participate on the same premises,
 - (c) lottery duty is charged on the taking of a ticket or chance in it, or
 - (d) it is a real game of chance and playing it—
   - (i) amounts to dutiable gaming for the purposes of section 10 of FA 1997, or
   - (ii) would do so but for subsection (3), (3B) or (4) of that section.
 
-(2) A “real game of chance” is a game of chance (within the meaning of Part 3 of FA 2014[^key-c4173885620fe15904a7be410c71a669]) that is non-virtual.
+(2) A “real game of chance” is a game of chance (within the meaning of Part 3 of FA 2014[^c-c4173885620fe15904a7be410c71a669]) that is non-virtual.
 
 (3) A game consisting of several stages counts as a dutiable machine game if—
 
@@ -71,14 +71,14 @@ Section 191
 
 (4) If more than one game can be played on a given machine, each game is to be considered separately in deciding whether it is a dutiable machine game.
 
-(5)[^key-5904b0f94a51d64680d776b905001ebd] In this paragraph, “**bingo**” includes any version of that game, whatever name it is called.
+(5)[^c-5904b0f94a51d64680d776b905001ebd] In this paragraph, “**bingo**” includes any version of that game, whatever name it is called.
 
 **4.** The Treasury may by order specify criteria to be taken into account in deciding—
 
 - (a) whether a particular game (or class of game) falls within the definitions in paragraph 2(1) and (2), and
 - (b) what counts as a single go at playing a particular game (or class of game).
 
-#### Types of machine[^key-f919b86ad600dcefb5d8e1af496a7244]
+#### Types of machine[^c-f919b86ad600dcefb5d8e1af496a7244]
 
 **5.** (1) Machines are divided into three types for the purposes of machine games duty.
 
@@ -100,7 +100,7 @@ Section 191
 
 **6.** (1) Machine games duty is charged on a taxable person's total net takings in an accounting period for each type of machine.
 
-(2)[^key-aca13a3a3a8d0ba1698bce3e8af1d1b6] The amount of the duty is found by—
+(2)[^c-aca13a3a3a8d0ba1698bce3e8af1d1b6] The amount of the duty is found by—
 
 - (a) applying the lower rate to the person's total net takings in the accounting period for type 1 machines,
 - (b) applying the standard rate to the person's total net takings in the accounting period for type 2 machines,
@@ -161,7 +161,7 @@ Section 191
 - (a) may be exercised generally or in relation to particular cases or kinds of case, and
 - (b) may include provision requiring specified conditions to be met before amounts are left out of account.
 
-#### The rates[^key-101b577978aa25a5119636fa4127015e]
+#### The rates[^c-101b577978aa25a5119636fa4127015e]
 
 **9.** (1) The lower rate is 5%.
 
@@ -620,26 +620,26 @@ HMRC may proceed to register the person in respect of the premises (unless anoth
 
 (2) A person guilty of an offence under this paragraph is liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^key-4f9b0066a81ebc1c75ac88a7cd2bdff2] years or a fine, or both;
-- (b) on summary conviction, to imprisonment for a term not exceeding 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-9b282de3ca2c11db6066940be036fa9a] the general limit in a magistrates’ court *(Extent: E+W)* or a fine not exceeding the maximum amount, or both.
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^c-4f9b0066a81ebc1c75ac88a7cd2bdff2] years or a fine, or both;
+- (b) on summary conviction, to imprisonment for a term not exceeding 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-9b282de3ca2c11db6066940be036fa9a] the general limit in a magistrates’ court *(Extent: E+W)* or a fine not exceeding the maximum amount, or both.
 
 (3) The maximum amount is the greater of—
 
-- (a) £20,000,[^key-cdf4ed2b4ed970fa57a4473333030681] and
+- (a) £20,000,[^c-cdf4ed2b4ed970fa57a4473333030681] and
 - (b) three times the duty or other amount that is unpaid or the payment of which is sought to be avoided.
 
 (4) In the application of this paragraph—
 
-- (a) in England and Wales, in relation to an offence committed before 2 May 2022[^key-99443d9627067a76a4350da4cbf3770d], or
+- (a) in England and Wales, in relation to an offence committed before 2 May 2022[^c-99443d9627067a76a4350da4cbf3770d], or
 - (b) in Northern Ireland,
 
-the reference in sub-paragraph (2)(b) to 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-abdc07fb460034703c06de08cae4eae1] the general limit in a magistrates’ court *(Extent: E+W)* is to be read as a reference to 6 months.
+the reference in sub-paragraph (2)(b) to 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-abdc07fb460034703c06de08cae4eae1] the general limit in a magistrates’ court *(Extent: E+W)* is to be read as a reference to 6 months.
 
-(5) Section 27 of BGDA 1981 (offences by bodies corporate) has effect for the purposes of any offence under this paragraph as it has effect for the purposes of the offence[^key-c8d8612485e68a19e6c5b898f78bebe8] mentioned in that section.
+(5) Section 27 of BGDA 1981 (offences by bodies corporate) has effect for the purposes of any offence under this paragraph as it has effect for the purposes of the offence[^c-c8d8612485e68a19e6c5b898f78bebe8] mentioned in that section.
 
 #### Protection of officers
 
-**38.** Section 31 of BGDA 1981 applies in relation to machine games duty as it applies in relation to bingo duty[^key-22a5378deae1772c926f3d92df34c41d].
+**38.** Section 31 of BGDA 1981 applies in relation to machine games duty as it applies in relation to bingo duty[^c-22a5378deae1772c926f3d92df34c41d].
 
 #### Orders and regulations
 
@@ -1073,28 +1073,28 @@ the difference between those amounts is to be treated under that Act as unpaid d
 
 ## Annotations
 
-[^key-d075df91c95a2b7afc62b4af5bd5fb99]: Textual amendment: [Sch. 24 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/3/1/b) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 16(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/16/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-d075df91c95a2b7afc62b4af5bd5fb99]: Textual amendment: [Sch. 24 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/3/1/b) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 16(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/16/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
-[^key-c4173885620fe15904a7be410c71a669]: Textual amendment: Words in Sch. 24 para. 3(2) substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 31(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/31/2) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-c4173885620fe15904a7be410c71a669]: Textual amendment: Words in Sch. 24 para. 3(2) substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 31(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/31/2) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
 
-[^key-5904b0f94a51d64680d776b905001ebd]: Textual amendment: [Sch. 24 para. 3(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/3/5) inserted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 16(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/16/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-5904b0f94a51d64680d776b905001ebd]: Textual amendment: [Sch. 24 para. 3(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/3/5) inserted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 16(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/16/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
-[^key-f919b86ad600dcefb5d8e1af496a7244]: Textual amendment: Sch. 24 para. 5 and cross-heading substituted (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/2)
+[^c-f919b86ad600dcefb5d8e1af496a7244]: Textual amendment: Sch. 24 para. 5 and cross-heading substituted (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/2)
 
-[^key-aca13a3a3a8d0ba1698bce3e8af1d1b6]: Textual amendment: Sch. 24 para. 6(2) substituted (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/3)
+[^c-aca13a3a3a8d0ba1698bce3e8af1d1b6]: Textual amendment: Sch. 24 para. 6(2) substituted (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/3)
 
-[^key-101b577978aa25a5119636fa4127015e]: Textual amendment: Sch. 24 para. 9 and cross-heading substituted (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/4)
+[^c-101b577978aa25a5119636fa4127015e]: Textual amendment: Sch. 24 para. 9 and cross-heading substituted (with effect in accordance with s. 124(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 124(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/124/4)
 
-[^key-4f9b0066a81ebc1c75ac88a7cd2bdff2]: Textual amendment: Word in [Sch. 24 para. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/2/a) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-4f9b0066a81ebc1c75ac88a7cd2bdff2]: Textual amendment: Word in [Sch. 24 para. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/2/a) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-9b282de3ca2c11db6066940be036fa9a]: Textual amendment: Words in [Sch. 24 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/2/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-9b282de3ca2c11db6066940be036fa9a]: Textual amendment: Words in [Sch. 24 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/2/b) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-cdf4ed2b4ed970fa57a4473333030681]: Textual amendment: Sum in Sch. 24 para. 37(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/13) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-cdf4ed2b4ed970fa57a4473333030681]: Textual amendment: Sum in Sch. 24 para. 37(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/13) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-99443d9627067a76a4350da4cbf3770d]: Textual amendment: Words in [Sch. 24 para. 37(4)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/4/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-99443d9627067a76a4350da4cbf3770d]: Textual amendment: Words in [Sch. 24 para. 37(4)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/4/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-abdc07fb460034703c06de08cae4eae1]: Textual amendment: Words in [Sch. 24 para. 37(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/4) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-abdc07fb460034703c06de08cae4eae1]: Textual amendment: Words in [Sch. 24 para. 37(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/37/4) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-c8d8612485e68a19e6c5b898f78bebe8]: Textual amendment: Words in Sch. 24 para. 37(5) substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 31(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/31/3) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-c8d8612485e68a19e6c5b898f78bebe8]: Textual amendment: Words in Sch. 24 para. 37(5) substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 31(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/31/3) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
 
-[^key-22a5378deae1772c926f3d92df34c41d]: Textual amendment: Words in Sch. 24 para. 38 substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 31(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/31/4) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-22a5378deae1772c926f3d92df34c41d]: Textual amendment: Words in Sch. 24 para. 38 substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 31(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/31/4) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))

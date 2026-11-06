@@ -26,11 +26,11 @@ summary: ''
 
 #### Introduction
 
-**1.**[^key-5fd9c60801d379e16f285bb0ed752216] This Schedule applies to investigations under section 71.
+**1.**[^c-5fd9c60801d379e16f285bb0ed752216] This Schedule applies to investigations under section 71.
 
 #### Terms of reference
 
-**2.**[^key-64f92535728f855bd6d97997f9449fc3] (1) Before conducting an investigation, the Commissioner must prepare the terms of reference of the investigation.
+**2.**[^c-64f92535728f855bd6d97997f9449fc3] (1) Before conducting an investigation, the Commissioner must prepare the terms of reference of the investigation.
 
 (2) The terms of reference must specify—
 
@@ -56,7 +56,7 @@ summary: ''
 
 #### Representations
 
-**3.**[^key-3006131efd23a230bad0c0d37db8cda7] (1) The Commissioner must make arrangements for giving persons an opportunity to make representations in relation to investigations.
+**3.**[^c-3006131efd23a230bad0c0d37db8cda7] (1) The Commissioner must make arrangements for giving persons an opportunity to make representations in relation to investigations.
 
 (2) The arrangements must give the following persons an opportunity to make representations in the course of an investigation—
 
@@ -65,7 +65,7 @@ summary: ''
 
 (3) Arrangements under this paragraph may, amongst other things, include arrangements for oral representations.
 
-**4.**[^key-c6b2837e05a0cbaad59e1e6caef88591] (1) The Commissioner must consider representations made in relation to an investigation by—
+**4.**[^c-c6b2837e05a0cbaad59e1e6caef88591] (1) The Commissioner must consider representations made in relation to an investigation by—
 
 - (a) D, or
 - (b) a legal adviser who is acting on behalf of D.
@@ -86,7 +86,7 @@ summary: ''
 
 #### Evidence notices
 
-**5.**[^key-bdf5ff84276bce62ec545347be10c984] (1) In the course of an investigation, the Commissioner may give a person (A) an evidence notice.
+**5.**[^c-bdf5ff84276bce62ec545347be10c984] (1) In the course of an investigation, the Commissioner may give a person (A) an evidence notice.
 
 (2) In this Measure, “**evidence notice**” means a notice that requires A to do one or more of the following—
 
@@ -106,7 +106,7 @@ summary: ''
 - (a) the consequences if A does not comply with the notice; and
 - (b) the right of appeal under paragraph 9.
 
-**6.**[^key-23f392a6586a22edf5fa5cc823aeeb96] (1) This paragraph applies if, in the course of an investigation, a person (B)—
+**6.**[^c-23f392a6586a22edf5fa5cc823aeeb96] (1) This paragraph applies if, in the course of an investigation, a person (B)—
 
 - (a) provides information,
 - (b) produces documents, or
@@ -124,12 +124,12 @@ summary: ''
 
 #### Confidentiality etc
 
-**7.**[^key-e4fd9c896512a69a296cd020d9f94dc7] A notice under paragraph 5—
+**7.**[^c-e4fd9c896512a69a296cd020d9f94dc7] A notice under paragraph 5—
 
 - (a) may not require a person to provide information that the person is prohibited from disclosing by virtue of an enactment, and
 - (b) may not require a person to do anything that the person could not be compelled to do in proceedings before the High Court.
 
-**8.**[^key-5380fe2c10da4a50b40d3a6938b515de] (1) A must disregard a notice given under paragraph 5, and must notify the Commissioner that A is disregarding it, in so far as A thinks it would require A—
+**8.**[^c-5380fe2c10da4a50b40d3a6938b515de] (1) A must disregard a notice given under paragraph 5, and must notify the Commissioner that A is disregarding it, in so far as A thinks it would require A—
 
 - (a) to disclose sensitive information within the meaning of paragraph 4 of Schedule 3 to the Intelligence Services Act 1994 (Intelligence and Security Committee),
 - (b) to disclose information which might lead to the identification of an employee or agent of an intelligence service (other than one whose identity is already known to the Commissioner),
@@ -157,16 +157,16 @@ summary: ''
 
 #### Appeals
 
-**9.**[^key-59f9c4124da5a37ce56b82e76c9ff401] A may apply to the Tribunal to have the notice under paragraph 5 cancelled on the grounds that a requirement imposed by the notice is—
+**9.**[^c-59f9c4124da5a37ce56b82e76c9ff401] A may apply to the Tribunal to have the notice under paragraph 5 cancelled on the grounds that a requirement imposed by the notice is—
 
 - (a) unnecessary having regard to the purpose of the investigation, or
 - (b) otherwise unreasonable or disproportionate.
 
-**10.**[^key-bf4dcbd8088ce0b78b5ae01db03fb44b] A may apply to the Tribunal to have the notice under paragraph 5 cancelled on the grounds that the requirement imposed by the notice is undesirable for reasons of national security, other than for the reason that it would require a disclosure of a kind to which paragraph 8(1) applies.
+**10.**[^c-bf4dcbd8088ce0b78b5ae01db03fb44b] A may apply to the Tribunal to have the notice under paragraph 5 cancelled on the grounds that the requirement imposed by the notice is undesirable for reasons of national security, other than for the reason that it would require a disclosure of a kind to which paragraph 8(1) applies.
 
 #### Enforcement
 
-**11.**[^key-169800e06a6af5878669ba2382af400e] (1) This paragraph applies where the Commissioner thinks that A—
+**11.**[^c-169800e06a6af5878669ba2382af400e] (1) This paragraph applies where the Commissioner thinks that A—
 
 - (a) has failed without reasonable excuse to comply with a notice under paragraph 5, or
 - (b) is likely to fail without reasonable excuse to comply with a notice under paragraph 5.
@@ -177,7 +177,7 @@ summary: ''
 
 #### Power of entry and inspection
 
-**12.**[^key-a9e665718ee88157bdb0accfac247690] (1) The Commissioner, or any person authorised by the Commissioner, may enter and inspect premises if the Commissioner or the authorised person thinks that the entry and inspection is necessary for the purposes of an investigation.
+**12.**[^c-a9e665718ee88157bdb0accfac247690] (1) The Commissioner, or any person authorised by the Commissioner, may enter and inspect premises if the Commissioner or the authorised person thinks that the entry and inspection is necessary for the purposes of an investigation.
 
 (2) But that is subject to sub-paragraphs (3) and (4).
 
@@ -190,26 +190,26 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd9c60801d379e16f285bb0ed752216]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/1) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-5fd9c60801d379e16f285bb0ed752216]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/1) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-64f92535728f855bd6d97997f9449fc3]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/2) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-64f92535728f855bd6d97997f9449fc3]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/2) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-3006131efd23a230bad0c0d37db8cda7]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/3) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-3006131efd23a230bad0c0d37db8cda7]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/3) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-c6b2837e05a0cbaad59e1e6caef88591]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/4) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-c6b2837e05a0cbaad59e1e6caef88591]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/4) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-bdf5ff84276bce62ec545347be10c984]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/5) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-bdf5ff84276bce62ec545347be10c984]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/5) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-23f392a6586a22edf5fa5cc823aeeb96]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/6) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-23f392a6586a22edf5fa5cc823aeeb96]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/6) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-e4fd9c896512a69a296cd020d9f94dc7]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/7) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-e4fd9c896512a69a296cd020d9f94dc7]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/7) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-5380fe2c10da4a50b40d3a6938b515de]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/8) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-5380fe2c10da4a50b40d3a6938b515de]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/8) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-59f9c4124da5a37ce56b82e76c9ff401]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/9) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-59f9c4124da5a37ce56b82e76c9ff401]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/9) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-bf4dcbd8088ce0b78b5ae01db03fb44b]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/10) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-bf4dcbd8088ce0b78b5ae01db03fb44b]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/10) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-169800e06a6af5878669ba2382af400e]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/11) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-169800e06a6af5878669ba2382af400e]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/11) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
 
-[^key-a9e665718ee88157bdb0accfac247690]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/12) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)
+[^c-a9e665718ee88157bdb0accfac247690]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/mwa/2011/1/schedule/10/paragraph/12) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/h)

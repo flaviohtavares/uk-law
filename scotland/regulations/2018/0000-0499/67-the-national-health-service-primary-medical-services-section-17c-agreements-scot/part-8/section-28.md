@@ -38,7 +38,7 @@ until one of the end dates in paragraph (3) occurs.
 
 (4) The provider’s duty to provide out of hours services under the agreement will terminate with effect from 0800 hours on the end date specified in paragraph (3) unless the Health Board and the provider agree a different date or time.
 
-(5) Nothing in [^key-534ac7fa0da373e66e99e45752e821fd]...paragraphs (1) to (4) prevents the provider and the Health Board from agreeing a different date for the termination of the provider’s duty under the agreement to provide out of hours services and accordingly varying the agreement in accordance with paragraph 61(1) of schedule 1.
+(5) Nothing in [^c-534ac7fa0da373e66e99e45752e821fd]...paragraphs (1) to (4) prevents the provider and the Health Board from agreeing a different date for the termination of the provider’s duty under the agreement to provide out of hours services and accordingly varying the agreement in accordance with paragraph 61(1) of schedule 1.
 
 (6) Prior to the provider’s duty to provide out of hours services under the agreement ceasing, the Health Board and the provider must discuss how to inform patients of any change to the out of hours services which the provider provides.
 
@@ -49,4 +49,4 @@ until one of the end dates in paragraph (3) occurs.
 
 ## Annotations
 
-[^key-534ac7fa0da373e66e99e45752e821fd]: Textual amendment: Word in reg. 28(5) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [14](https://www.legislation.gov.uk/ssi/2018/94/regulation/14)
+[^c-534ac7fa0da373e66e99e45752e821fd]: Textual amendment: Word in reg. 28(5) omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [14](https://www.legislation.gov.uk/ssi/2018/94/regulation/14)

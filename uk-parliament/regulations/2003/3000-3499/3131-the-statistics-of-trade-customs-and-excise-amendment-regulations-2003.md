@@ -45,11 +45,11 @@ Coming into force
 
 The Commissioners of Customs and Excise, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972[^f00001] being the department designated[^f00002] for the purpose of that subsection in relation to the receipt, regulation and control of statistics relating to the trading of goods between the United Kingdom and other Member States of the Communities and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-**1.**[^key-06f69b4f1a124140c42ea55a918d9afc] These Regulations may be cited as the Statistics of Trade (Customs and Excise) (Amendment) Regulations 2003 and shall come into force on 1st January 2004.
+**1.**[^c-06f69b4f1a124140c42ea55a918d9afc] These Regulations may be cited as the Statistics of Trade (Customs and Excise) (Amendment) Regulations 2003 and shall come into force on 1st January 2004.
 
-**2.**[^key-4b8afc151867c78e8d4b11c789d5feed] The Statistics of Trade (Customs and Excise) Regulations 1992[^f00003]shall be amended in accordance with regulation 3 below.
+**2.**[^c-4b8afc151867c78e8d4b11c789d5feed] The Statistics of Trade (Customs and Excise) Regulations 1992[^f00003]shall be amended in accordance with regulation 3 below.
 
-**3.**[^key-d438747fa320839d6c4648e07ac4f26b] (1) In regulation 3(1) for “£233,000”, in each place where it occurs, there shall be substituted “£221,000”.
+**3.**[^c-d438747fa320839d6c4648e07ac4f26b] (1) In regulation 3(1) for “£233,000”, in each place where it occurs, there shall be substituted “£221,000”.
 
 (2) In paragraphs (6) and (7) of regulation 4, for “£13,500,000” there shall be substituted “£14,000,000”.
 
@@ -79,10 +79,10 @@ Regulation 3(2) of these Regulations raises the monetary limit, at or below whic
 
 [^f00002]: Footnote: [S.I. 1992/707](https://www.legislation.gov.uk/uksi/1992/707).
 
-[^key-06f69b4f1a124140c42ea55a918d9afc]: Commencement: Reg. 1 in force at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/3131/regulation/1)
+[^c-06f69b4f1a124140c42ea55a918d9afc]: Commencement: Reg. 1 in force at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/3131/regulation/1)
 
-[^key-4b8afc151867c78e8d4b11c789d5feed]: Commencement: Reg. 2 in force at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/3131/regulation/1)
+[^c-4b8afc151867c78e8d4b11c789d5feed]: Commencement: Reg. 2 in force at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/3131/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1992/2790](https://www.legislation.gov.uk/uksi/1992/2790); relevant amending instruments [2000/3227](https://www.legislation.gov.uk/uksi/2000/3227) and [2002/2498](https://www.legislation.gov.uk/uksi/2002/2498).
 
-[^key-d438747fa320839d6c4648e07ac4f26b]: Commencement: Reg. 3 in force at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/3131/regulation/1)
+[^c-d438747fa320839d6c4648e07ac4f26b]: Commencement: Reg. 3 in force at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/3131/regulation/1)

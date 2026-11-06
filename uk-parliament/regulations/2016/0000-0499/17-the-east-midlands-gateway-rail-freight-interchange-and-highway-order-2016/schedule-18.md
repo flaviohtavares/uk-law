@@ -22,9 +22,9 @@ summary: ''
 
 Article 38
 
-**1.**[^key-649a1b2f9a23c88e047bdb2ada0e2081] The following provisions of this Schedule have effect, unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 10, any other person on whom rights or obligations are conferred by that paragraph.
+**1.**[^c-649a1b2f9a23c88e047bdb2ada0e2081] The following provisions of this Schedule have effect, unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 10, any other person on whom rights or obligations are conferred by that paragraph.
 
-**2.**[^key-5b4174b8cfed71e5150da21ea06e1d01] In this Schedule—
+**2.**[^c-5b4174b8cfed71e5150da21ea06e1d01] In this Schedule—
 
 - “construction” includes execution, placing, alteration and reconstruction, and “construct” and “constructed” have corresponding meanings;
 - “the engineer” means an engineer appointed by Network Rail for the purposes of this Order;
@@ -37,14 +37,14 @@ Article 38
   - (b) any easement or other property interest held or used by Network Rail Infrastructure Limited for the purposes of such railway or works, apparatus or equipment; and
 - “specified work” means so much of any of the authorised works as is situated upon, across, under, over or within 15 metres of, or may in any way adversely affect, railway property.
 
-**3.**[^key-8999e5df8cac2eaabfcdee958f648f2b] (1) Where under this Schedule Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
+**3.**[^c-8999e5df8cac2eaabfcdee958f648f2b] (1) Where under this Schedule Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
 
 (2) In so far as any specified work or the acquisition or use of railway property is or may be subject to railway operational procedures, Network Rail must—
 
 - (a) co-operate with the undertaker with a view to avoiding undue delay and securing conformity as between any plans approved by the engineer and requirements emanating from those procedures; and
 - (b) use their reasonable endeavours to avoid any conflict arising between the application of those procedures and the proper implementation of the authorised works under this Order.
 
-**4.**[^key-b2dd2c16887bbfa62eb24199ebd5b2b7] (1) The undertaker must not exercise the powers conferred by article 14 (accesses), article 23 (authority to survey and investigate the land), article 25 (compulsory acquisition of land and rights), article 26 (power to override easements and other rights), article 27 (compulsory acquisition of land – incorporation of the mineral code), article 31 (temporary use of land for carrying out the authorised development), article 33 (operation and use of railways) and article 37 (felling or lopping of trees) or the powers conferred by section 11(3) (powers of entry) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
+**4.**[^c-b2dd2c16887bbfa62eb24199ebd5b2b7] (1) The undertaker must not exercise the powers conferred by article 14 (accesses), article 23 (authority to survey and investigate the land), article 25 (compulsory acquisition of land and rights), article 26 (power to override easements and other rights), article 27 (compulsory acquisition of land – incorporation of the mineral code), article 31 (temporary use of land for carrying out the authorised development), article 33 (operation and use of railways) and article 37 (felling or lopping of trees) or the powers conferred by section 11(3) (powers of entry) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
 
 (2) The undertaker must not, in the exercise of the powers conferred by this Order, prevent pedestrian or vehicular access to any railway property, unless preventing such access is with the consent of Network Rail.
 
@@ -54,7 +54,7 @@ Article 38
 
 (5) Where Network Rail is asked to give its consent under this paragraph, such consent must not be unreasonably withheld but may be given subject to reasonable conditions.
 
-**5.**[^key-3b3bc258fcc1d4d2388e33bc4cd161f9] (1) The undertaker must before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work must not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
+**5.**[^c-3b3bc258fcc1d4d2388e33bc4cd161f9] (1) The undertaker must before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work must not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
 
 (2) The approval of the engineer under sub-paragraph (1) must not be unreasonably withheld, and if by the end of the period of 28 days beginning with the date on which such plans have been supplied to Network Rail the engineer has not intimated disapproval of those plans and the grounds of disapproval the undertaker may serve upon the engineer written notice requiring the engineer to intimate approval or disapproval within a further period of 28 days beginning with the date upon which the engineer receives written notice from the undertaker. If by the expiry of the further 28 days the engineer has not intimated approval or disapproval, the engineer is to be deemed to have approved the plans as submitted.
 
@@ -62,7 +62,7 @@ Article 38
 
 (4) When signifying approval of the plans the engineer may specify any protective works (whether temporary or permanent) which in the engineer’s opinion should be carried out before the commencement of the construction of a specified work to ensure the safety or stability of railway property or the continuation of safe and efficient operation of the railways of Network Rail or the services of operators using the same (including any relocation, de-commissioning and removal of works, apparatus and equipment necessitated by a specified work and the comfort and safety of passengers who may be affected by the specified works), and such protective works as may be reasonably necessary for those purposes must be constructed by Network Rail or by the undertaker, if Network Rail so desires, and such protective works are to be carried out at the expense of the undertaker in either case without unnecessary delay and the undertaker must not commence the construction of the specified works until the engineer has notified the undertaker that the protective works have been completed to the engineer’s reasonable satisfaction.
 
-**6.**[^key-0fc432a3ee1614de0912b31719906631] (1) Any specified work and any protective works to be constructed by virtue of paragraph 5(4) must, when commenced, be constructed—
+**6.**[^c-0fc432a3ee1614de0912b31719906631] (1) Any specified work and any protective works to be constructed by virtue of paragraph 5(4) must, when commenced, be constructed—
 
 - (a) without unnecessary delay in accordance with the plans approved or deemed to have been approved or settled under paragraph 5;
 - (b) under the supervision (where appropriate and if given) and to the reasonable satisfaction of the engineer;
@@ -73,14 +73,14 @@ Article 38
 
 (3) Nothing in this Schedule imposes any liability on the undertaker with respect to any damage, costs, expenses or loss attributable to the negligence of Network Rail or its servants, contractors or agents or any liability on Network Rail with respect of any damage, costs, expenses or loss attributable to the negligence of the undertaker or its servants, contractors or agents.
 
-**7.**[^key-d1448ed024c65305e352f7c10dc9e26f] The undertaker must—
+**7.**[^c-d1448ed024c65305e352f7c10dc9e26f] The undertaker must—
 
 - (a) at all times afford reasonable facilities to the engineer for access to a specified work during its construction; and
 - (b) supply the engineer with all such information as the engineer may reasonably require with regard to a specified work or the method of constructing it.
 
-**8.**[^key-7815f6a10e07d2f6eb6c4729ac89c578] Network Rail must at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Schedule during their construction and must supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
+**8.**[^c-7815f6a10e07d2f6eb6c4729ac89c578] Network Rail must at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Schedule during their construction and must supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
 
-**9.**[^key-15e785cbf1d022241b1303ccb47da75e] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction of a specified work, or during a period of 24 months after the completion of that work in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail and if Network Rail gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
+**9.**[^c-15e785cbf1d022241b1303ccb47da75e] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction of a specified work, or during a period of 24 months after the completion of that work in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail and if Network Rail gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) If during the construction of a specified work by the undertaker, Network Rail gives notice to the undertaker that Network Rail desires itself to construct that part of the specified work which in the opinion of the engineer is endangering the stability of railway property or the safe operation of traffic on the railways of Network Rail then, if the undertaker decides that part of the specified work is to be constructed, Network Rail must assume construction of that part of the specified work and the undertaker must, notwithstanding any such approval of a specified work under paragraph 5(3), pay to Network Rail all reasonable expenses to which Network Rail may be put and compensation for any loss which it may suffer by reason of the execution by Network Rail of that specified work.
 
@@ -88,7 +88,7 @@ Article 38
 
 (4) If the cost of maintaining, working or renewing railway property is reduced in consequence of any such alterations or additions a capitalised sum representing such saving is to be set off against any sum payable by the undertaker to Network Rail under this paragraph.
 
-**10.**[^key-c1f990481bd7b13f053e333d9a156278] The undertaker must repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
+**10.**[^c-c1f990481bd7b13f053e333d9a156278] The undertaker must repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
 
 - (a) in constructing any part of a specified work on behalf of the undertaker as provided by paragraph 5(3) or in constructing any protective works under the provisions of paragraph 5(4) including, in respect of any permanent protective works, a capitalised sum representing the cost of maintaining and renewing those works;
 - (b) in respect of the approval by the engineer of plans submitted by the undertaker and the supervision by him of the construction of a specified work;
@@ -96,7 +96,7 @@ Article 38
 - (d) in respect of any special traffic working resulting from any speed restrictions which may in the opinion of the engineer, require to be imposed by reason or in consequence of the construction or failure of a specified work or from the substitution of diversion of services which may be reasonably necessary for the same reason; and
 - (e) in respect of any additional temporary lighting of railway property in the vicinity of the specified works, being lighting made reasonably necessary by reason or in consequence of the construction or failure of a specified work.
 
-**11.**[^key-35b1db07362d533c87c97045d45d05c5] (1) In this paragraph—
+**11.**[^c-35b1db07362d533c87c97045d45d05c5] (1) In this paragraph—
 
 - “EMI” means, subject to sub-paragraph (2), electromagnetic interference with Network Rail apparatus generated by the operation of the authorised works where such interference is of a level which adversely affects the safe operation of Network Rail’s apparatus; and
 - “Network Rail’s apparatus” means any lines, circuits, wires, apparatus or equipment (whether or not modified or installed as part of the authorised works) which are owned or used by Network Rail for the purpose of transmitting or receiving electrical energy or of radio, telegraphic, telephonic, electric, electronic or other like means of signalling or other communications.
@@ -132,13 +132,13 @@ Article 38
 
 (11) In relation to any dispute arising under this paragraph the wording in article 41 (arbitration) “the Lands Chamber of the Upper Tribunal” is to be substituted with “the Institution of Electrical Engineers”.
 
-**12.**[^key-74628034c3259e1d87aa28316e619a60] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
+**12.**[^c-74628034c3259e1d87aa28316e619a60] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
 
-**13.**[^key-9308f05704cd3352ad6e93b2a5709f3b] The undertaker must not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it has first consulted Network Rail and it must comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
+**13.**[^c-9308f05704cd3352ad6e93b2a5709f3b] The undertaker must not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it has first consulted Network Rail and it must comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
 
-**14.**[^key-626dda8f6d53843b7f1ef572d14498c2] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work must, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
+**14.**[^c-626dda8f6d53843b7f1ef572d14498c2] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work must, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
 
-**15.**[^key-40dfd203c1cb1e669f164f34998d9b8a] (1) The undertaker must pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
+**15.**[^c-40dfd203c1cb1e669f164f34998d9b8a] (1) The undertaker must pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
 
 - (a) by reason of the construction or maintenance of a specified work or the failure of such a work; or
 - (b) by reason of any act or omission of the undertaker or of any person in its employ or of its contractors or others whilst engaged upon a specified work,
@@ -158,70 +158,70 @@ and the undertaker must indemnify, and keep indemnified, Network Rail from and a
 - “the relevant costs” means the costs, direct losses and expenses (including loss of revenue) reasonably incurred by each train operator as a consequence of any restriction of the use of Network Rail’s railway network as a result of the construction, maintenance or failure of a specified work or any such act or omission as mentioned in sub-paragraph (1); and
 - “train operator” means any person who is authorised to act as the operator of a train by a licence under section 8 (licences) of the Railways Act 1993.
 
-**16.**[^key-812db3691f5ebc427aa4099d80b2b6e5] Network Rail must, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 15) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made under this Schedule (including any claim relating to those relevant costs).
+**16.**[^c-812db3691f5ebc427aa4099d80b2b6e5] Network Rail must, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 15) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made under this Schedule (including any claim relating to those relevant costs).
 
-**17.**[^key-98de2302c0b8cd51eefa046a71a67713] In the assessment of any sums payable to Network Rail under this Schedule no account is to be taken of any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
+**17.**[^c-98de2302c0b8cd51eefa046a71a67713] In the assessment of any sums payable to Network Rail under this Schedule no account is to be taken of any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
 
-**18.**[^key-6dc2e60569435b69b450e3b1b6c3058b] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
+**18.**[^c-6dc2e60569435b69b450e3b1b6c3058b] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
 
 - (a) any railway property shown on the works and land plans and described in the book of reference;
 - (b) any lands, works or other property held in connection with any such railway property; and
 - (c) any rights and obligations (whether or not statutory) of Network Rail relating to any railway property or any lands, works or other property referred to in this paragraph.
 
-**19.**[^key-db5f643ad368ad6d10f7b6c71e60254f] Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993.
+**19.**[^c-db5f643ad368ad6d10f7b6c71e60254f] Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993.
 
-**20.**[^key-2e3b630087366aed867eddfce9718bae] The undertaker must give written notice to Network Rail if any application is proposed to be made by the undertaker for the Secretary of State’s consent, under article 7 (benefit of Order) and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
+**20.**[^c-2e3b630087366aed867eddfce9718bae] The undertaker must give written notice to Network Rail if any application is proposed to be made by the undertaker for the Secretary of State’s consent, under article 7 (benefit of Order) and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
 
 - (a) the nature of the application to be made;
 - (b) the extent of the geographical area to which the application relates; and
 - (c) the name and address of the person acting for the Secretary of State to whom the application is to be made.
 
-**21.**[^key-09efa791e3746382612ed1710a984dcb] The undertaker must no later than 28 days from the date that the plans submitted to and certified by the Secretary of State in accordance with article 39 (certification of plans etc.) are certified by the Secretary of State, provide a set of those plans to Network Rail in the form of a computer disc with read only memory.
+**21.**[^c-09efa791e3746382612ed1710a984dcb] The undertaker must no later than 28 days from the date that the plans submitted to and certified by the Secretary of State in accordance with article 39 (certification of plans etc.) are certified by the Secretary of State, provide a set of those plans to Network Rail in the form of a computer disc with read only memory.
 
 ## Annotations
 
-[^key-649a1b2f9a23c88e047bdb2ada0e2081]: Commencement: Sch. 18 para. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-649a1b2f9a23c88e047bdb2ada0e2081]: Commencement: Sch. 18 para. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-5b4174b8cfed71e5150da21ea06e1d01]: Commencement: Sch. 18 para. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-5b4174b8cfed71e5150da21ea06e1d01]: Commencement: Sch. 18 para. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00050]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43). Section 8 was amended by paragraph 3 of Schedule 20 to the Railways and Transport Safety Act [2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), paragraph 1 of Schedule 13(1) to the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14) and paragraph 4 of Schedule 17 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38). There are other amendments not relevant to this Order.
 
 [^f00051]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-8999e5df8cac2eaabfcdee958f648f2b]: Commencement: Sch. 18 para. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-8999e5df8cac2eaabfcdee958f648f2b]: Commencement: Sch. 18 para. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-b2dd2c16887bbfa62eb24199ebd5b2b7]: Commencement: Sch. 18 para. 4 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-b2dd2c16887bbfa62eb24199ebd5b2b7]: Commencement: Sch. 18 para. 4 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-3b3bc258fcc1d4d2388e33bc4cd161f9]: Commencement: Sch. 18 para. 5 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-3b3bc258fcc1d4d2388e33bc4cd161f9]: Commencement: Sch. 18 para. 5 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-0fc432a3ee1614de0912b31719906631]: Commencement: Sch. 18 para. 6 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-0fc432a3ee1614de0912b31719906631]: Commencement: Sch. 18 para. 6 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-d1448ed024c65305e352f7c10dc9e26f]: Commencement: Sch. 18 para. 7 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-d1448ed024c65305e352f7c10dc9e26f]: Commencement: Sch. 18 para. 7 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-7815f6a10e07d2f6eb6c4729ac89c578]: Commencement: Sch. 18 para. 8 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-7815f6a10e07d2f6eb6c4729ac89c578]: Commencement: Sch. 18 para. 8 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-15e785cbf1d022241b1303ccb47da75e]: Commencement: Sch. 18 para. 9 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-15e785cbf1d022241b1303ccb47da75e]: Commencement: Sch. 18 para. 9 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-c1f990481bd7b13f053e333d9a156278]: Commencement: Sch. 18 para. 10 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-c1f990481bd7b13f053e333d9a156278]: Commencement: Sch. 18 para. 10 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-35b1db07362d533c87c97045d45d05c5]: Commencement: Sch. 18 para. 11 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-35b1db07362d533c87c97045d45d05c5]: Commencement: Sch. 18 para. 11 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-74628034c3259e1d87aa28316e619a60]: Commencement: Sch. 18 para. 12 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-74628034c3259e1d87aa28316e619a60]: Commencement: Sch. 18 para. 12 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-9308f05704cd3352ad6e93b2a5709f3b]: Commencement: Sch. 18 para. 13 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-9308f05704cd3352ad6e93b2a5709f3b]: Commencement: Sch. 18 para. 13 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-626dda8f6d53843b7f1ef572d14498c2]: Commencement: Sch. 18 para. 14 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-626dda8f6d53843b7f1ef572d14498c2]: Commencement: Sch. 18 para. 14 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-40dfd203c1cb1e669f164f34998d9b8a]: Commencement: Sch. 18 para. 15 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-40dfd203c1cb1e669f164f34998d9b8a]: Commencement: Sch. 18 para. 15 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-812db3691f5ebc427aa4099d80b2b6e5]: Commencement: Sch. 18 para. 16 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-812db3691f5ebc427aa4099d80b2b6e5]: Commencement: Sch. 18 para. 16 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-98de2302c0b8cd51eefa046a71a67713]: Commencement: Sch. 18 para. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-98de2302c0b8cd51eefa046a71a67713]: Commencement: Sch. 18 para. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-6dc2e60569435b69b450e3b1b6c3058b]: Commencement: Sch. 18 para. 18 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-6dc2e60569435b69b450e3b1b6c3058b]: Commencement: Sch. 18 para. 18 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-db5f643ad368ad6d10f7b6c71e60254f]: Commencement: Sch. 18 para. 19 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-db5f643ad368ad6d10f7b6c71e60254f]: Commencement: Sch. 18 para. 19 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-2e3b630087366aed867eddfce9718bae]: Commencement: Sch. 18 para. 20 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-2e3b630087366aed867eddfce9718bae]: Commencement: Sch. 18 para. 20 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-09efa791e3746382612ed1710a984dcb]: Commencement: Sch. 18 para. 21 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-09efa791e3746382612ed1710a984dcb]: Commencement: Sch. 18 para. 21 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

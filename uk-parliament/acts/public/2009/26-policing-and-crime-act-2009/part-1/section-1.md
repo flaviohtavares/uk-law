@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duty of police authorities in relation to public accountability[^key-e1a3f25fc157343b8aa44f4ac5a1676c]
+## 1. Duty of police authorities in relation to public accountability[^c-e1a3f25fc157343b8aa44f4ac5a1676c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1a3f25fc157343b8aa44f4ac5a1676c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2009/26/section/1) in force at 15.3.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 4](https://www.legislation.gov.uk/uksi/2010/125/article/4)
+[^c-e1a3f25fc157343b8aa44f4ac5a1676c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2009/26/section/1) in force at 15.3.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 4](https://www.legislation.gov.uk/uksi/2010/125/article/4)

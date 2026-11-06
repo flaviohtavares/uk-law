@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. CMA's power of veto following report[^c19758841][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7][^key-c7ae2f2f74af87c2e60173f29398f41c]
+## 16A. CMA's power of veto following report[^c19758841][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7][^c-c7ae2f2f74af87c2e60173f29398f41c]
 
 *Extent: E+W*
 
-(1) The CMA[^key-e32580f015f71948f915a1ecee4880b3] may, within the period of four weeks after the date on which it is given a notice under section 16(4A) above, direct the Authority—
+(1) The CMA[^c-e32580f015f71948f915a1ecee4880b3] may, within the period of four weeks after the date on which it is given a notice under section 16(4A) above, direct the Authority—
 
 - (a) not to make the modifications set out in that notice; or
 - (b) not to make such of the modifications as may be specified in the direction;
 
 and the Authority shall comply with any such direction.
 
-(2) The Secretary of State may, within the period of four weeks after the date on which the CMA[^key-a09d49294b806f5754294ffcbf4d408f] is given a notice under section 16(4A) above and on the application of the CMA, direct that the period for giving a direction under subsection (1) above (and, accordingly, the period mentioned in section 16(4C) above) shall be extended by fourteen days.
+(2) The Secretary of State may, within the period of four weeks after the date on which the CMA[^c-a09d49294b806f5754294ffcbf4d408f] is given a notice under section 16(4A) above and on the application of the CMA, direct that the period for giving a direction under subsection (1) above (and, accordingly, the period mentioned in section 16(4C) above) shall be extended by fourteen days.
 
 (3) The power to give a direction under subsection (1) above may only be exercised in respect of such of the modifications set out in the notice under section 16(4A)(a) above as appear to the CMA not to be the modifications which are requisite for the purpose of remedying or preventing all or any of the adverse effects specified in the report as effects which could be remedied or prevented by modifications.
 
@@ -57,7 +57,7 @@ and shall consider any representations or objections which are duly made and not
 
 (9) After making modifications under this section the CMA shall publish a notice stating that the modifications have been made and setting them out, with the reasons for making them.
 
-(10)[^key-45483e7219dde7fb8595c13ec154e7bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-45483e7219dde7fb8595c13ec154e7bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -65,10 +65,10 @@ and shall consider any representations or objections which are duly made and not
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)
 
-[^key-c7ae2f2f74af87c2e60173f29398f41c]: Textual amendment: Word in s. 16A heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c7ae2f2f74af87c2e60173f29398f41c]: Textual amendment: Word in s. 16A heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e32580f015f71948f915a1ecee4880b3]: Textual amendment: Words in s. 16A(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e32580f015f71948f915a1ecee4880b3]: Textual amendment: Words in s. 16A(1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a09d49294b806f5754294ffcbf4d408f]: Textual amendment: Words in s. 16A(2)-(9) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a09d49294b806f5754294ffcbf4d408f]: Textual amendment: Words in s. 16A(2)-(9) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-45483e7219dde7fb8595c13ec154e7bb]: Textual amendment: S. 16A(10) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-45483e7219dde7fb8595c13ec154e7bb]: Textual amendment: S. 16A(10) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 58(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/58/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

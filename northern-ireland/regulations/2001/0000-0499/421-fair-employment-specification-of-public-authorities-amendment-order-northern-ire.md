@@ -31,7 +31,7 @@ summary: ''
 
 FAIR EMPLOYMENT
 
-Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2001 (revoked)[^key-e9d3be6d40a9924a172c1f77a09575d7]
+Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2001 (revoked)[^c-e9d3be6d40a9924a172c1f77a09575d7]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 1st January 2002
 
-[^key-e9d3be6d40a9924a172c1f77a09575d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9d3be6d40a9924a172c1f77a09575d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e9d3be6d40a9924a172c1f77a09575d7]
+## 1. Citation, commencement and interpretation[^c-e9d3be6d40a9924a172c1f77a09575d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fair Employment (Specification of Public Authorities) (No. 2) Order (Northern Ireland) 2000[^key-e9d3be6d40a9924a172c1f77a09575d7]
+## 2. Amendment of the Fair Employment (Specification of Public Authorities) (No. 2) Order (Northern Ireland) 2000[^c-e9d3be6d40a9924a172c1f77a09575d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e9d3be6d40a9924a172c1f77a09575d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e9d3be6d40a9924a172c1f77a09575d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e9d3be6d40a9924a172c1f77a09575d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e9d3be6d40a9924a172c1f77a09575d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e9d3be6d40a9924a172c1f77a09575d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e9d3be6d40a9924a172c1f77a09575d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9d3be6d40a9924a172c1f77a09575d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9d3be6d40a9924a172c1f77a09575d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e9d3be6d40a9924a172c1f77a09575d7]
+## SCHEDULE[^c-e9d3be6d40a9924a172c1f77a09575d7]
 
 Article 5
 
-> **SCHEDULE[^key-e9d3be6d40a9924a172c1f77a09575d7]**
+> **SCHEDULE[^c-e9d3be6d40a9924a172c1f77a09575d7]**
 >
-> **Part I — Public Authorities for the Purposes of Articles 52 to 65 of the 1998 Order[^key-e9d3be6d40a9924a172c1f77a09575d7]**
+> **Part I — Public Authorities for the Purposes of Articles 52 to 65 of the 1998 Order[^c-e9d3be6d40a9924a172c1f77a09575d7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Public Authorities for the purposes of Articles 62 to 65 of the 1998 Order[^key-e9d3be6d40a9924a172c1f77a09575d7]**
+> **Part II — Public Authorities for the purposes of Articles 62 to 65 of the 1998 Order[^c-e9d3be6d40a9924a172c1f77a09575d7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e9d3be6d40a9924a172c1f77a09575d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9d3be6d40a9924a172c1f77a09575d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9d3be6d40a9924a172c1f77a09575d7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/421) revoked (1.1.2004) by [Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2003 (S.R. 2003/521)](https://www.legislation.gov.uk/nisr/2003/521), [arts. 1](https://www.legislation.gov.uk/nisr/2003/521/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2003/521/article/6/a)
+[^c-e9d3be6d40a9924a172c1f77a09575d7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/421) revoked (1.1.2004) by [Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2003 (S.R. 2003/521)](https://www.legislation.gov.uk/nisr/2003/521), [arts. 1](https://www.legislation.gov.uk/nisr/2003/521/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2003/521/article/6/a)

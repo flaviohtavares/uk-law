@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Discontinuance of ARCs[^key-be137157e2ef475f820624db990bba27]
+## 24. Discontinuance of ARCs[^c-be137157e2ef475f820624db990bba27]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ he is to be treated as having paid his ARCs up to the end of that period.
 
 ## Annotations
 
-[^key-be137157e2ef475f820624db990bba27]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-be137157e2ef475f820624db990bba27]: Commencement: Reg. 24 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

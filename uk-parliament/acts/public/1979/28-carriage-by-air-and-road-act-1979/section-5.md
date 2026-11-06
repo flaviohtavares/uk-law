@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c984159] For the purposes of Articles 22 and 22A of Schedule 1 to this Act and the Articles 22, 23 [^key-163d8402af03e6cbbbe2441e2087b436]... mentioned in the preceding section as amended by that section, the value on a particular day of one special drawing right shall be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being the equivalent of one special drawing right—
+(1)[^c984159] For the purposes of Articles 22 and 22A of Schedule 1 to this Act and the Articles 22, 23 [^c-163d8402af03e6cbbbe2441e2087b436]... mentioned in the preceding section as amended by that section, the value on a particular day of one special drawing right shall be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being the equivalent of one special drawing right—
 
 - (a) for that day; or
 - (b) if no sum has been so fixed for that day, for the last day before that day for which a sum has been so fixed.
@@ -40,4 +40,4 @@ shall be conclusive evidence of those matters for the purposes of the preceding 
 
 [^c984159]: Modification: Power to amend s. 5(1) conferred by the Carriage by [Air Act 1961 (c. 27, SIF 9)](https://www.legislation.gov.uk/ukpga/1961/27), [s. 8A(1)](https://www.legislation.gov.uk/ukpga/1961/27/section/8A/1) (as amended by [International Transport Conventions Act 1983 (c. 14, SIF 102)](https://www.legislation.gov.uk/ukpga/1983/14), [s. 9](https://www.legislation.gov.uk/ukpga/1983/14/section/9), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1983/14/schedule/2/paragraph/1))
 
-[^key-163d8402af03e6cbbbe2441e2087b436]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1979/28/section/5/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-163d8402af03e6cbbbe2441e2087b436]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1979/28/section/5/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

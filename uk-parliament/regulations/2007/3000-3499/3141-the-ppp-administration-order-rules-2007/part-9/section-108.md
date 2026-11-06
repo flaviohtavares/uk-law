@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Right to copy documents[^key-85833ec1447e360cea63ce6ca3cb6524]
+## 108. Right to copy documents[^c-85833ec1447e360cea63ce6ca3cb6524]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85833ec1447e360cea63ce6ca3cb6524]: Commencement: [Rule 108](https://www.legislation.gov.uk/uksi/2007/3141/rule/108) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-85833ec1447e360cea63ce6ca3cb6524]: Commencement: [Rule 108](https://www.legislation.gov.uk/uksi/2007/3141/rule/108) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00018]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).

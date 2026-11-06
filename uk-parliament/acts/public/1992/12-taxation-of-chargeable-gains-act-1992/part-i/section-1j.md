@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1J. Section 1I: definitions and other supplementary provision[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 1J. Section 1I: definitions and other supplementary provision[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - a “**higher income tax rate**” means—
   - (a) the higher rate or the default higher rate,
-  - ((ab)) the property higher rate,[^key-af6db8fd95129b8acb49c62e9808b060]
+  - ((ab)) the property higher rate,[^c-af6db8fd95129b8acb49c62e9808b060]
   - (b) the savings higher rate, or
   - (c) the dividend upper rate, and
 - “**the unused part of the individual's basic rate band**” means the amount by which the basic rate limit exceeds the individual's Step 3 income.
@@ -46,7 +46,7 @@ as the case may be.
 - (b) relief is given under section 535 of ITTOIA 2005 for the tax year, and
 - (c) the calculation under section 536(1) or 537 of that Act for the tax year does not involve the higher rate,
 
-the individual is treated for the purposes of section 1I as if none of the individual's income were chargeable to income tax at the higher rate, the default higher rate , the property higher rate, the savings higher rate[^key-2a55d1d4d928002292709f901c20a5cf] or the dividend upper rate.
+the individual is treated for the purposes of section 1I as if none of the individual's income were chargeable to income tax at the higher rate, the default higher rate , the property higher rate, the savings higher rate[^c-2a55d1d4d928002292709f901c20a5cf] or the dividend upper rate.
 
 (6) In the application of section 1I in the case of any individual it is to be assumed that the individual is not a Scottish or Welsh taxpayer.
 
@@ -59,8 +59,8 @@ the individual is treated for the purposes of section 1I as if none of the indiv
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
 
-[^key-af6db8fd95129b8acb49c62e9808b060]: Textual amendment: S. 1J(1)(ab) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/38/a)
+[^c-af6db8fd95129b8acb49c62e9808b060]: Textual amendment: S. 1J(1)(ab) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/38/a)
 
-[^key-2a55d1d4d928002292709f901c20a5cf]: Textual amendment: Words in s. 1J(5) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 38(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/38/b)
+[^c-2a55d1d4d928002292709f901c20a5cf]: Textual amendment: Words in s. 1J(5) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 38(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/38/b)

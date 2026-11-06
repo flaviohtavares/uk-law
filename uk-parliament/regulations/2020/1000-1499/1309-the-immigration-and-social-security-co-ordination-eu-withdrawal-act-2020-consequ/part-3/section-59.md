@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of the State Pension Credit Regulations 2002[^key-308c91ee2923c7e3ae7156ff44ec930b][^M_I_6eda9853-88db-4901-a7d7-d83dcc35d02d]
+## 59. Amendment of the State Pension Credit Regulations 2002[^c-308c91ee2923c7e3ae7156ff44ec930b][^M_I_6eda9853-88db-4901-a7d7-d83dcc35d02d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-308c91ee2923c7e3ae7156ff44ec930b]: Commencement: Reg. 59 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-308c91ee2923c7e3ae7156ff44ec930b]: Commencement: Reg. 59 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_6eda9853-88db-4901-a7d7-d83dcc35d02d]: Commencement: Reg. 59 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

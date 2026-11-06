@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-de26eaa56951d892964c10052ad15e2a]
+## 2. Interpretation[^c-de26eaa56951d892964c10052ad15e2a]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 - “**Calder Field**” means the Calder offshore gas field which underlies United Kingdom Continental Shelf block 110/7a;
 - “**Calder Field Facilities**” means the facilities and infrastructure pertaining to the Calder Field;
 - “**commence**” means the first carrying out of any licensed activities authorised by the deemed marine licence, save for operations consisting of pre-construction surveys, monitoring surveys and unexploded ordnance surveys, and any derivative of “**commence**” is to be construed accordingly;
-- “**CPC**” means the hydrocarbon production and processing facilities complex known generally as such or the Central Processing Complex located in the United Kingdom Continental Shelf Block[^key-31cc9a90970ac640cfde9f95fc2cdc5a] 110/2a, 110/3a and 110/8a;
+- “**CPC**” means the hydrocarbon production and processing facilities complex known generally as such or the Central Processing Complex located in the United Kingdom Continental Shelf Block[^c-31cc9a90970ac640cfde9f95fc2cdc5a] 110/2a, 110/3a and 110/8a;
 - “**decommissioning programme**” has the meaning given by section 105(2) of the 2004 Act[^f00016];
 - “**deemed marine licence**” means the licence set out in Schedule 6 (Deemed Marine Licence under the 2009 Act: Morecambe Offshore Windfarm Generation Assets);
 - “**Defence Infrastructure Organisation Safeguarding**” means Ministry of Defence Safeguarding, Defence Infrastructure Organisation – Safeguarding, St George’s House, DIO Head Office, DMS Whittington, Lichfield, Staffordshire, WS14 9PY and any successor body to its functions;
@@ -106,7 +106,7 @@ summary: ''
 - “**vessel**” means every description of vessel, however propelled or moved, and includes a non- displacement craft, a personal watercraft, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for movement through, in, on, under or over water and which is at the time in, on, under or over water;
 - “**VHF**” means very high frequency;
 - “wind turbine generator” or “**WTG**” means a structure comprising a tower, rotor with three blades connected at the hub, nacelle and ancillary electrical and other equipment which may include J-tubes, transition piece, access and rest platforms, access ladders, boat access systems, corrosion protection systems, fenders and maintenance equipment, helicopter hoisting facilities and other associated equipment including communications equipment, fixed to a foundation or transition piece; and
-- “**working day**” means a day other than a Saturday or Sunday , a bank holiday or other public holiday[^key-068fdc24590cb0dc2855880e69d77a2d] in England and Wales.
+- “**working day**” means a day other than a Saturday or Sunday , a bank holiday or other public holiday[^c-068fdc24590cb0dc2855880e69d77a2d] in England and Wales.
 
 (2) All distances, directions, areas and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised project are taken to be measured along that work.
 
@@ -120,7 +120,7 @@ summary: ''
 
 ## Annotations
 
-[^key-de26eaa56951d892964c10052ad15e2a]: Commencement: Art. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-de26eaa56951d892964c10052ad15e2a]: Commencement: Art. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00009]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -136,7 +136,7 @@ summary: ''
 
 [^f00015]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-31cc9a90970ac640cfde9f95fc2cdc5a]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1366/article/2/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-31cc9a90970ac640cfde9f95fc2cdc5a]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1366/article/2/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
 [^f00016]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20). Section 105 was amended by section 69 of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
@@ -144,4 +144,4 @@ summary: ''
 
 [^f00018]: Footnote: [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013).
 
-[^key-068fdc24590cb0dc2855880e69d77a2d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1366/article/2/1) inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-068fdc24590cb0dc2855880e69d77a2d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1366/article/2/1) inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Regulations under the UK GDPR[^key-22a862d7082d091ebdf7b5dcdaf63b04][^key-1a20ac2d78c55a7513828de9a448698e]
+## 107. Regulations under the UK GDPR[^c-22a862d7082d091ebdf7b5dcdaf63b04][^c-1a20ac2d78c55a7513828de9a448698e]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22a862d7082d091ebdf7b5dcdaf63b04]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-22a862d7082d091ebdf7b5dcdaf63b04]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-1a20ac2d78c55a7513828de9a448698e]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2025/18/section/107) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/l)
+[^c-1a20ac2d78c55a7513828de9a448698e]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2025/18/section/107) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/l)

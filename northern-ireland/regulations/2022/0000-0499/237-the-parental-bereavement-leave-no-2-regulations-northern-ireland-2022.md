@@ -36,7 +36,7 @@ Employment
 
 Parental Bereavement
 
-The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (revoked)[^key-836d0eb9643d5889bd6013116dc4ea6a]
+The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (revoked)[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 Made
 
@@ -46,102 +46,102 @@ Coming into operation
 
 3rd October 2022
 
-[^key-836d0eb9643d5889bd6013116dc4ea6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-836d0eb9643d5889bd6013116dc4ea6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-836d0eb9643d5889bd6013116dc4ea6a]
+## PART 1 — GENERAL[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
-### 1. Citation and commencement[^key-836d0eb9643d5889bd6013116dc4ea6a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Application[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 1. Citation and commencement[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 2. Application[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — ENTITLEMENT TO PARENTAL BEREAVEMENT LEAVE[^key-836d0eb9643d5889bd6013116dc4ea6a]
-
-### 4. Entitlement to parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 3. Interpretation[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Options in respect of parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+## PART 2 — ENTITLEMENT TO PARENTAL BEREAVEMENT LEAVE[^c-836d0eb9643d5889bd6013116dc4ea6a]
+
+### 4. Entitlement to parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Notice requirements for parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 5. Options in respect of parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Commencement of parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 6. Notice requirements for parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Commencement of other statutory leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 7. Commencement of parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — TAKING PARENTAL BEREAVEMENT LEAVE[^key-836d0eb9643d5889bd6013116dc4ea6a]
-
-### 9. Application of terms and conditions during parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 8. Commencement of other statutory leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Right to return after parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+## PART 3 — TAKING PARENTAL BEREAVEMENT LEAVE[^c-836d0eb9643d5889bd6013116dc4ea6a]
+
+### 9. Application of terms and conditions during parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Right to return after parental bereavement leave: supplementary[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 10. Right to return after parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Protection from detriment[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 11. Right to return after parental bereavement leave: supplementary[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Unfair Dismissal[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 12. Protection from detriment[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Calculation of a week’s pay for the purposes of Chapter 4 of Part 1 of the 1996 Order[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 13. Unfair Dismissal[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — CONTRACTUAL RIGHTS[^key-836d0eb9643d5889bd6013116dc4ea6a]
-
-### 15. Contractual rights to parental bereavement leave[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 14. Calculation of a week’s pay for the purposes of Chapter 4 of Part 1 of the 1996 Order[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — TRANSITIONAL AND REVOCATION PROVISIONS[^key-836d0eb9643d5889bd6013116dc4ea6a]
+## PART 4 — CONTRACTUAL RIGHTS[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
-### 16. Transitional provisions[^key-836d0eb9643d5889bd6013116dc4ea6a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**19.**[^key-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**20.**[^key-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**21.**[^key-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 22. Revocation[^key-836d0eb9643d5889bd6013116dc4ea6a]
+### 15. Contractual rights to parental bereavement leave[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-836d0eb9643d5889bd6013116dc4ea6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 5 — TRANSITIONAL AND REVOCATION PROVISIONS[^c-836d0eb9643d5889bd6013116dc4ea6a]
 
-[^key-836d0eb9643d5889bd6013116dc4ea6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 16. Transitional provisions[^c-836d0eb9643d5889bd6013116dc4ea6a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-836d0eb9643d5889bd6013116dc4ea6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Revocation[^c-836d0eb9643d5889bd6013116dc4ea6a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-836d0eb9643d5889bd6013116dc4ea6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-836d0eb9643d5889bd6013116dc4ea6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-836d0eb9643d5889bd6013116dc4ea6a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/237) revoked (2.4.2023) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2023 (S.R. 2023/55)](https://www.legislation.gov.uk/nisr/2023/55), [regs. 1](https://www.legislation.gov.uk/nisr/2023/55/regulation/1), [22](https://www.legislation.gov.uk/nisr/2023/55/regulation/22)
+[^c-836d0eb9643d5889bd6013116dc4ea6a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/237) revoked (2.4.2023) by [The Parental Bereavement Leave Regulations (Northern Ireland) 2023 (S.R. 2023/55)](https://www.legislation.gov.uk/nisr/2023/55), [regs. 1](https://www.legislation.gov.uk/nisr/2023/55/regulation/1), [22](https://www.legislation.gov.uk/nisr/2023/55/regulation/22)

@@ -170,7 +170,7 @@ and if any such debenture includes provision for the payment of a sum expressed 
 
 ### Income tax exemption for certain interests
 
-**10.** The vesting in a successor company by this Act of a liability for any loan made to an existing body shall not affect any direction in respect of the loan given or having effect as if given by the Treasury under section 755 of the Income Tax (Trading and Other Income) Act 2005[^key-00a01a5e34377744a4f44920b095bf92] (income tax exemption for interest on foreign securities).
+**10.** The vesting in a successor company by this Act of a liability for any loan made to an existing body shall not affect any direction in respect of the loan given or having effect as if given by the Treasury under section 755 of the Income Tax (Trading and Other Income) Act 2005[^c-00a01a5e34377744a4f44920b095bf92] (income tax exemption for interest on foreign securities).
 
 ### Stamp Duty
 
@@ -242,7 +242,7 @@ wholly owned by the Crown.
 
 [^c4122581]: Textual amendment: Words in Sch. 11 para. 8(2) added*(retrospectively)* by [Finance Act 1991 (c. 31, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1991/31), [s.80](https://www.legislation.gov.uk/ukpga/1991/31/section/80).
 
-[^key-00a01a5e34377744a4f44920b095bf92]: Textual amendment: Words in Sch. 11 para. 10 substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 413](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/413) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-00a01a5e34377744a4f44920b095bf92]: Textual amendment: Words in Sch. 11 para. 10 substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 413](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/413) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c4122591]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 

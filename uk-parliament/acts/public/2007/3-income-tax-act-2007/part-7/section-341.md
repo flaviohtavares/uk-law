@@ -33,7 +33,7 @@ summary: ''
 
 (3) Regulations may—
 
-- (a) make provision for appeals to the tribunal[^key-c7fcacd22d4c590c5ff8828eadf8b1d1] against refusals to grant accreditation under this Chapter,
+- (a) make provision for appeals to the tribunal[^c-c7fcacd22d4c590c5ff8828eadf8b1d1] against refusals to grant accreditation under this Chapter,
 - (b) make provision about the consequences of a failure to comply with any requirement of an accreditation, including—
   - (i) provision for the withdrawal of the accreditation with effect from the time of the failure or a later time, and
   - (ii) provision for the imposition of penalties,
@@ -41,12 +41,12 @@ summary: ''
 - (d) make different provision for different cases or circumstances or in relation to different areas, and
 - (e) contain incidental, supplemental, consequential and transitional provision and savings.
 
-(3A)[^key-ba4eb1acb19a351dd1d353f41acda7f2] Regulations under this section may include provision for the purposes of Part 7 of CTA 2010 in addition to provision made for the purposes of this Part.
+(3A)[^c-ba4eb1acb19a351dd1d353f41acda7f2] Regulations under this section may include provision for the purposes of Part 7 of CTA 2010 in addition to provision made for the purposes of this Part.
 
 (4) In this section “**regulations**” means regulations made by the Treasury.
 
 ## Annotations
 
-[^key-c7fcacd22d4c590c5ff8828eadf8b1d1]: Textual amendment: Word in s. 341(3)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 451](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/451)
+[^c-c7fcacd22d4c590c5ff8828eadf8b1d1]: Textual amendment: Word in s. 341(3)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 451](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/451)
 
-[^key-ba4eb1acb19a351dd1d353f41acda7f2]: Textual amendment: S. 341(3A) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 509](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/509) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ba4eb1acb19a351dd1d353f41acda7f2]: Textual amendment: S. 341(3A) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 509](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/509) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

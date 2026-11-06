@@ -33,11 +33,11 @@ summary: ''
 
 (5) A statutory instrument containing (whether alone or with other provisions) regulations under this Act shall not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-(6) Subsection (5) above shall not have effect in relation to a statutory instrument if the only regulations under this Act which the instrument contains are regulations under section [^key-677ab89cae943826a852a21165363083]... 47(2) or (4) above.
+(6) Subsection (5) above shall not have effect in relation to a statutory instrument if the only regulations under this Act which the instrument contains are regulations under section [^c-677ab89cae943826a852a21165363083]... 47(2) or (4) above.
 
 (7) A statutory instrument—
 
-- (a) which contains (whether alone or with other provisions) any regulations under section [^key-2821b33ed815af355965d55978ad1994]... 47(2) or (4) above or an order under section 49 above, and
+- (a) which contains (whether alone or with other provisions) any regulations under section [^c-2821b33ed815af355965d55978ad1994]... 47(2) or (4) above or an order under section 49 above, and
 - (b) which is not subject to any requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament,
 
 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
@@ -55,9 +55,9 @@ shall be exercisable by statutory rule for the purposes of the [^c9532711]Statut
 
 [^c9532701]: Subordinate legislation: Power conferred by s. 51(1)(b) exercised, 1.4.1999 appointed by [S.I. 1999/685](https://www.legislation.gov.uk/uksi/1999/685), [art. 2](https://www.legislation.gov.uk/uksi/1999/685/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/685/schedule)
 
-[^key-677ab89cae943826a852a21165363083]: Textual amendment: Words in [s. 51(6)](https://www.legislation.gov.uk/ukpga/1998/39/section/51/6) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/3), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/2) (with [s. 9(7)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/7)); [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-677ab89cae943826a852a21165363083]: Textual amendment: Words in [s. 51(6)](https://www.legislation.gov.uk/ukpga/1998/39/section/51/6) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/3), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/2) (with [s. 9(7)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/7)); [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
-[^key-2821b33ed815af355965d55978ad1994]: Textual amendment: Words in [s. 51(7)(a)](https://www.legislation.gov.uk/ukpga/1998/39/section/51/7/a) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/3), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/2) (with [s. 9(7)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/7)); [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
+[^c-2821b33ed815af355965d55978ad1994]: Textual amendment: Words in [s. 51(7)(a)](https://www.legislation.gov.uk/ukpga/1998/39/section/51/7/a) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/3), [22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/2) (with [s. 9(7)](https://www.legislation.gov.uk/ukpga/2008/24/section/9/7)); [S.I. 2009/603](https://www.legislation.gov.uk/uksi/2009/603), [art. 2](https://www.legislation.gov.uk/uksi/2009/603/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/603/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/603/schedule))
 
 [^c9532711]: Marginal citation: [S.I. 1979/1573 (N.I.12)](https://www.legislation.gov.uk/nisi/1979/1573).
 

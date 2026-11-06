@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Automatic re-enrolment where scheme membership interrupted[^c21291241][^key-b593221396b4cd4fbfc0e6f23aebeda5]
+## 5. Automatic re-enrolment where scheme membership interrupted[^c21291241][^c-b593221396b4cd4fbfc0e6f23aebeda5]
 
 *Extent: N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 [^c21291241]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2012/3/section/5) partly in operation; [s. 5](https://www.legislation.gov.uk/nia/2012/3/section/5) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-b593221396b4cd4fbfc0e6f23aebeda5]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2012/3/section/5) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/a)
+[^c-b593221396b4cd4fbfc0e6f23aebeda5]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2012/3/section/5) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Meaning of “the principal Act”[^key-6e4511dc5367ceb3c7d36025a5613098]
+## 1. Meaning of “the principal Act”[^c-6e4511dc5367ceb3c7d36025a5613098]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Act “**the principal Act**” means the Planning (Wales) Act 2026.
 
 ## Annotations
 
-[^key-6e4511dc5367ceb3c7d36025a5613098]: Commencement: S. 1 in force at 28.4.2026, see [s. 5(1)(a)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/a)
+[^c-6e4511dc5367ceb3c7d36025a5613098]: Commencement: S. 1 in force at 28.4.2026, see [s. 5(1)(a)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/a)

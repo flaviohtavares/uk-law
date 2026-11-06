@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-ae614b1435016b5bbbd52d8016da1c46]
+## SCHEDULE 6 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-ae614b1435016b5bbbd52d8016da1c46]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Article 40
 
 ## Annotations
 
-[^key-ae614b1435016b5bbbd52d8016da1c46]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2014/2935/schedule/6) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-ae614b1435016b5bbbd52d8016da1c46]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2014/2935/schedule/6) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31D. Regulations under sections 31B and 31C: consultation[^key-d27325446af18c5eafa9b8ba1ce7fa2c]
+## 31D. Regulations under sections 31B and 31C: consultation[^c-d27325446af18c5eafa9b8ba1ce7fa2c]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Before laying a draft of a Scottish statutory instrument containing regulations 
 
 ## Annotations
 
-[^key-d27325446af18c5eafa9b8ba1ce7fa2c]: Textual amendment: [Ss. 31A-31D](https://www.legislation.gov.uk/asp/2001/10/section/31A) and cross-heading inserted (1.4.2026 for the insertion of ss. 31B, 31C, 31D to enable the Scottish Ministers to consult or make regulations; otherwise prosp.) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 36(2)](https://www.legislation.gov.uk/asp/2025/13/section/36/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-d27325446af18c5eafa9b8ba1ce7fa2c]: Textual amendment: [Ss. 31A-31D](https://www.legislation.gov.uk/asp/2001/10/section/31A) and cross-heading inserted (1.4.2026 for the insertion of ss. 31B, 31C, 31D to enable the Scottish Ministers to consult or make regulations; otherwise prosp.) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 36(2)](https://www.legislation.gov.uk/asp/2025/13/section/36/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

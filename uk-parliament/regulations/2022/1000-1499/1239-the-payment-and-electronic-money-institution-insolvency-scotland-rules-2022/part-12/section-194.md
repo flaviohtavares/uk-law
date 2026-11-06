@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 194. Sederunt book[^key-876464a134753e0e9de0567e3ee15fc3]
+## 194. Sederunt book[^c-876464a134753e0e9de0567e3ee15fc3]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-876464a134753e0e9de0567e3ee15fc3]: Commencement: Rule 194 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-876464a134753e0e9de0567e3ee15fc3]: Commencement: Rule 194 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

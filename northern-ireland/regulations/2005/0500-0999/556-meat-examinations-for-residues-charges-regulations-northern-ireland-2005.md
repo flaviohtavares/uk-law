@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Meat (Examinations for Residues) (Charges) Regulations (Northern Ireland) 2005 (revoked)[^key-5c96b5c23f78ee699558597eb228c4d1]
+Meat (Examinations for Residues) (Charges) Regulations (Northern Ireland) 2005 (revoked)[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 Made
 
@@ -41,52 +41,52 @@ Coming into operation
 
 1st January 2006
 
-[^key-5c96b5c23f78ee699558597eb228c4d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c96b5c23f78ee699558597eb228c4d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 1. Citation and commencement[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 2. Interpretation[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Euro conversion[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 3. Euro conversion[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Duty to charge for residues examinations[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 4. Duty to charge for residues examinations[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Residues Examination charge[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 5. Residues Examination charge[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Liability for and recovery of charges[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 6. Liability for and recovery of charges[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Determination and variation of charges[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 7. Determination and variation of charges[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Information[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 8. Information[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences[^key-5c96b5c23f78ee699558597eb228c4d1]
+## 9. Offences[^c-5c96b5c23f78ee699558597eb228c4d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c96b5c23f78ee699558597eb228c4d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c96b5c23f78ee699558597eb228c4d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c96b5c23f78ee699558597eb228c4d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c96b5c23f78ee699558597eb228c4d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c96b5c23f78ee699558597eb228c4d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/556) revoked (2.5.2010) by [The Charges for Residues Surveillance Regulations (Northern Ireland) 2010 (S.R. 2010/124)](https://www.legislation.gov.uk/nisr/2010/124), [regs. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/124/regulation/5)
+[^c-5c96b5c23f78ee699558597eb228c4d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/556) revoked (2.5.2010) by [The Charges for Residues Surveillance Regulations (Northern Ireland) 2010 (S.R. 2010/124)](https://www.legislation.gov.uk/nisr/2010/124), [regs. 1](https://www.legislation.gov.uk/nisr/2010/124/regulation/1), [5](https://www.legislation.gov.uk/nisr/2010/124/regulation/5)

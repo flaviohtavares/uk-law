@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Constitution of the interim tribunal[^key-3364b3cc1b9be5f5b03782646ff11c45]
+## 87. Constitution of the interim tribunal[^c-3364b3cc1b9be5f5b03782646ff11c45]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3364b3cc1b9be5f5b03782646ff11c45]: Commencement: Art. 87 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-3364b3cc1b9be5f5b03782646ff11c45]: Commencement: Art. 87 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

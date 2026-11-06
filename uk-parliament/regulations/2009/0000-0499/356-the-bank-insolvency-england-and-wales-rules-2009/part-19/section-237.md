@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 237. Retention of proxies[^key-6fed741bf46f1a2098f7984f4f7ce150]
+## 237. Retention of proxies[^c-6fed741bf46f1a2098f7984f4f7ce150]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6fed741bf46f1a2098f7984f4f7ce150]: Commencement: Rule 237 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6fed741bf46f1a2098f7984f4f7ce150]: Commencement: Rule 237 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

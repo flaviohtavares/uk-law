@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. Registration in respect of a restricted children’s service: transitional arrangements[^key-51e863f95d1caba04a7bf1c3a763b584]
+## 6C. Registration in respect of a restricted children’s service: transitional arrangements[^c-51e863f95d1caba04a7bf1c3a763b584]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1A makes provision for transitional arrangements in respect of service 
 
 ## Annotations
 
-[^key-51e863f95d1caba04a7bf1c3a763b584]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/anaw/2016/2/section/6C) inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 4(2)](https://www.legislation.gov.uk/asc/2025/1/section/4/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/ii)[(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
+[^c-51e863f95d1caba04a7bf1c3a763b584]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/anaw/2016/2/section/6C) inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 4(2)](https://www.legislation.gov.uk/asc/2025/1/section/4/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/ii)[(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))

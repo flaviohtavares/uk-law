@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Fit and proper persons requirement[^key-fec93b42e75f1cc216ca17f1f8ce888d]
+## 31. Fit and proper persons requirement[^c-fec93b42e75f1cc216ca17f1f8ce888d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec93b42e75f1cc216ca17f1f8ce888d]: Commencement: Reg. 31 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-fec93b42e75f1cc216ca17f1f8ce888d]: Commencement: Reg. 31 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

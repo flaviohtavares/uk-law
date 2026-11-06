@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Bulk transfers (transfers of undertakings etc.)[^key-9205f93d2019605e97c49add3fd5fc10]
+## 81. Bulk transfers (transfers of undertakings etc.)[^c-9205f93d2019605e97c49add3fd5fc10]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9205f93d2019605e97c49add3fd5fc10]: Commencement: Reg. 81 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-9205f93d2019605e97c49add3fd5fc10]: Commencement: Reg. 81 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

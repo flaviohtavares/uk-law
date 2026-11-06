@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to require information from scheme manager[^key-7098bd526065db70f165a0375226c1dc]
+## 15. Power to require information from scheme manager[^c-7098bd526065db70f165a0375226c1dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7098bd526065db70f165a0375226c1dc]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2013/33/section/15) omitted (29.8.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/62/4), [86(2)(h)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/h)
+[^c-7098bd526065db70f165a0375226c1dc]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2013/33/section/15) omitted (29.8.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/62/4), [86(2)(h)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/h)

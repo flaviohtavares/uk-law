@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Prohibition on using name that another company has been directed to change[^key-b80c8fcba5a5ec513c424950268764b3][^key-77de84455609d4a92e4ef5a29559309e]
+## 12. Prohibition on using name that another company has been directed to change[^c-b80c8fcba5a5ec513c424950268764b3][^c-77de84455609d4a92e4ef5a29559309e]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b80c8fcba5a5ec513c424950268764b3]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b80c8fcba5a5ec513c424950268764b3]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-77de84455609d4a92e4ef5a29559309e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/56/section/12) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/h)
+[^c-77de84455609d4a92e4ef5a29559309e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/56/section/12) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/h)

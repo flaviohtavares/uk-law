@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 230. Appointment of patient’s responsible medical officer[^key-265f0c98ab782513ad80e7e680cf8a69][^key-161082593c12c39deeb5aa9357355951][^key-714152fc5bc9491fdf2d3eeefbbc9750]
+## 230. Appointment of patient’s responsible medical officer[^c-265f0c98ab782513ad80e7e680cf8a69][^c-161082593c12c39deeb5aa9357355951][^c-714152fc5bc9491fdf2d3eeefbbc9750]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**appropriate act**” means—
   - (a) a relevant event;
   - (b) the granting of an emergency detention certificate;
-  - (c) the making of a temporary compulsion order [^key-b185e76750b3c8514b96140767f7a99f]...;
+  - (c) the making of a temporary compulsion order [^c-b185e76750b3c8514b96140767f7a99f]...;
   - (d) the variation of—
     - (i) a compulsory treatment order; or
     - (ii) a compulsion order;
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-265f0c98ab782513ad80e7e680cf8a69]: Commencement: S. 230 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-265f0c98ab782513ad80e7e680cf8a69]: Commencement: S. 230 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-161082593c12c39deeb5aa9357355951]: Modification: S. 230 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2005/467/regulation/29) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-161082593c12c39deeb5aa9357355951]: Modification: S. 230 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2005/467/regulation/29) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-714152fc5bc9491fdf2d3eeefbbc9750]: Modification: S. 230 applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2008/356/regulation/18) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-714152fc5bc9491fdf2d3eeefbbc9750]: Modification: S. 230 applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2008/356/regulation/18) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
 
-[^key-b185e76750b3c8514b96140767f7a99f]: Textual amendment: Words in [s. 230(4)](https://www.legislation.gov.uk/asp/2003/13/section/230/4) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 6(2)](https://www.legislation.gov.uk/asp/2015/9/section/6/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-b185e76750b3c8514b96140767f7a99f]: Textual amendment: Words in [s. 230(4)](https://www.legislation.gov.uk/asp/2003/13/section/230/4) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 6(2)](https://www.legislation.gov.uk/asp/2015/9/section/6/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

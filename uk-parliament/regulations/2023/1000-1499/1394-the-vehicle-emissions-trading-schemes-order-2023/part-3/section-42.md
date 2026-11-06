@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Activity to which the VRTS applies and unit of measurement of activity[^key-b3c5512b723351ea02f8f91a55d8d635]
+## 42. Activity to which the VRTS applies and unit of measurement of activity[^c-b3c5512b723351ea02f8f91a55d8d635]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c5512b723351ea02f8f91a55d8d635]: Commencement: Art. 42 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-b3c5512b723351ea02f8f91a55d8d635]: Commencement: Art. 42 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

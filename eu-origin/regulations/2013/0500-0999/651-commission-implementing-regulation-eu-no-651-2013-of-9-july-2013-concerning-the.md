@@ -35,30 +35,30 @@ concerning the authorisation of clinoptilolite of sedimentary origin as a feed a
 
 (Text with EEA relevance) (revoked)
 
-[^key-857762e4f41538163a5208b60ca7f954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-857762e4f41538163a5208b60ca7f954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-857762e4f41538163a5208b60ca7f954]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Regulation (EC) No 1810/2005[^key-857762e4f41538163a5208b60ca7f954]
+## Article 1. Authorisation[^c-857762e4f41538163a5208b60ca7f954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-857762e4f41538163a5208b60ca7f954]
+## Article 2. Amendments to Regulation (EC) No 1810/2005[^c-857762e4f41538163a5208b60ca7f954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-857762e4f41538163a5208b60ca7f954]
+## Article 3. Transitional measures[^c-857762e4f41538163a5208b60ca7f954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-857762e4f41538163a5208b60ca7f954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-857762e4f41538163a5208b60ca7f954]
 
-## ANNEX[^key-857762e4f41538163a5208b60ca7f954]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-857762e4f41538163a5208b60ca7f954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-857762e4f41538163a5208b60ca7f954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-857762e4f41538163a5208b60ca7f954]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 112](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/112) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-857762e4f41538163a5208b60ca7f954]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 112](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/112) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

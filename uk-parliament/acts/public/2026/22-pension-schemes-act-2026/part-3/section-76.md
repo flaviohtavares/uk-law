@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Capital buffer: verification of valuations[^key-1149a395b3d4554482552b8422b9fc40]
+## 76. Capital buffer: verification of valuations[^c-1149a395b3d4554482552b8422b9fc40]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1149a395b3d4554482552b8422b9fc40]: Commencement: S. 76 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-1149a395b3d4554482552b8422b9fc40]: Commencement: S. 76 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

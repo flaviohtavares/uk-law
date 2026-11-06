@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56A. Reduced benefit direction[^key-bb5d1b715a3bdd3ea0f92a8812d9b5d1]
+## 56A. Reduced benefit direction[^c-bb5d1b715a3bdd3ea0f92a8812d9b5d1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb5d1b715a3bdd3ea0f92a8812d9b5d1]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/56A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/1999/2487/regulation/22)
+[^c-bb5d1b715a3bdd3ea0f92a8812d9b5d1]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/56A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/1999/2487/regulation/22)

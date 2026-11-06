@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225ZG. Interpretation[^key-2f6ef58ac1b32d27aaebea07e3c91b2e]
+## 225ZG. Interpretation[^c-2f6ef58ac1b32d27aaebea07e3c91b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-2f6ef58ac1b32d27aaebea07e3c91b2e]: Textual amendment: Pt. 2 Ch. 16ZA inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [6](https://www.legislation.gov.uk/uksi/2012/266/article/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/266/article/9))
+[^c-2f6ef58ac1b32d27aaebea07e3c91b2e]: Textual amendment: Pt. 2 Ch. 16ZA inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [6](https://www.legislation.gov.uk/uksi/2012/266/article/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/266/article/9))

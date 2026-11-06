@@ -36,11 +36,11 @@ summary: ''
 
 (3) The appropriate authority must make accessible to the public through its website and at its principal office the results of the analysis conducted under regulation 7 (economic analysis of water use in river basin districts).
 
-(4)[^key-22c5131747d4c3789960ea31e421e43a] The appropriate agency must, within three years of an updated river basin management plan being published under regulation 31(5)—
+(4)[^c-22c5131747d4c3789960ea31e421e43a] The appropriate agency must, within three years of an updated river basin management plan being published under regulation 31(5)—
 
 - (a) produce an interim report describing progress in the implementation of each planned programme of measures;
 - (b) publish that report in such manner as the appropriate agency considers appropriate.
 
 ## Annotations
 
-[^key-22c5131747d4c3789960ea31e421e43a]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2017/407/regulation/34/4) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(9)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22c5131747d4c3789960ea31e421e43a]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2017/407/regulation/34/4) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(9)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

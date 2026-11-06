@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Forfeiture[^key-4f7b622129723aedeb9da77f6bf0eb1e][^key-e72a2594949a32aa6a43092006f1061a]
+## 345. Forfeiture[^c-4f7b622129723aedeb9da77f6bf0eb1e][^c-e72a2594949a32aa6a43092006f1061a]
 
 *Extent: E+W+S*
 
@@ -51,6 +51,6 @@ the court may not make the order without first giving the person an opportunity 
 
 ## Annotations
 
-[^key-4f7b622129723aedeb9da77f6bf0eb1e]: Commencement: [S. 345](https://www.legislation.gov.uk/ukpga/2005/19/section/345) in force at 1.1.2007 for specified purposes by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-4f7b622129723aedeb9da77f6bf0eb1e]: Commencement: [S. 345](https://www.legislation.gov.uk/ukpga/2005/19/section/345) in force at 1.1.2007 for specified purposes by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-e72a2594949a32aa6a43092006f1061a]: Commencement: [S. 345](https://www.legislation.gov.uk/ukpga/2005/19/section/345) in force at 1.9.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-e72a2594949a32aa6a43092006f1061a]: Commencement: [S. 345](https://www.legislation.gov.uk/ukpga/2005/19/section/345) in force at 1.9.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)

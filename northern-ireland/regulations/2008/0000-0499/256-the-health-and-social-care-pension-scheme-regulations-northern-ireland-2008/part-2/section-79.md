@@ -26,7 +26,7 @@ summary: ''
 
 (3) In this regulation—
 
-- (a)[^key-0c6acdf847b7cb879a0def15016939e6] “the basic death pension” means 75% of the pension to which the deceased would have been entitled if the deceased had become entitled to—
+- (a)[^c-0c6acdf847b7cb879a0def15016939e6] “the basic death pension” means 75% of the pension to which the deceased would have been entitled if the deceased had become entitled to—
   - (i) a pension under regulation 74(5) on the date of death, or
   - (ii) if greater, the amount that the member’s pension would have been if it had been based on 10 years' pensionable service (disregarding any additional pension), and
 - (b) “**the appropriate fraction**” means—
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c6acdf847b7cb879a0def15016939e6]: Textual amendment: [Reg. 79(3)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/79/3/a) substituted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [41](https://www.legislation.gov.uk/nisr/2009/188/regulation/41)
+[^c-0c6acdf847b7cb879a0def15016939e6]: Textual amendment: [Reg. 79(3)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/79/3/a) substituted (with effect in accordance with reg. 1(4)(d) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [41](https://www.legislation.gov.uk/nisr/2009/188/regulation/41)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Power to delegate and establish committees[^key-52e897ca683ab358dc61c915b4833024]
+## 9A. Power to delegate and establish committees[^c-52e897ca683ab358dc61c915b4833024]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e897ca683ab358dc61c915b4833024]: Textual amendment: S. 9A substituted for s.9 (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 10](https://www.legislation.gov.uk/ukpga/2008/22/section/10), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/c)
+[^c-52e897ca683ab358dc61c915b4833024]: Textual amendment: S. 9A substituted for s.9 (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 10](https://www.legislation.gov.uk/ukpga/2008/22/section/10), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/c)

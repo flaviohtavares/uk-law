@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Powers to extend definition of qualifying schemes: regulations about unconnected multiple employer schemes[^key-b91b75382366c9ce7355fec9ed4ea04e]
+## 20. Powers to extend definition of qualifying schemes: regulations about unconnected multiple employer schemes[^c-b91b75382366c9ce7355fec9ed4ea04e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In section 98 (powers to extend definition of qualifying schemes), after subsect
 
 ## Annotations
 
-[^key-b91b75382366c9ce7355fec9ed4ea04e]: Commencement: Reg. 20 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-b91b75382366c9ce7355fec9ed4ea04e]: Commencement: Reg. 20 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

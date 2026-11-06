@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51J.**[^key-803aa9fa3f649411679cf9cd7eb6114a] (1) Any electricity that is the subject of a CHP LEC shall be regarded as never having been CHP electricity capable of being the subject of exempt CHP supplies for the purposes of paragraph 20A of the Act (indirect supplies) if one or more of the conditions prescribed in the following paragraphs are not fulfilled.
+**51J.**[^c-803aa9fa3f649411679cf9cd7eb6114a] (1) Any electricity that is the subject of a CHP LEC shall be regarded as never having been CHP electricity capable of being the subject of exempt CHP supplies for the purposes of paragraph 20A of the Act (indirect supplies) if one or more of the conditions prescribed in the following paragraphs are not fulfilled.
 
 (2) The electricity must only be allocated to a supply to a person who intends it to be consumed in the United Kingdom.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
+[^c-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)

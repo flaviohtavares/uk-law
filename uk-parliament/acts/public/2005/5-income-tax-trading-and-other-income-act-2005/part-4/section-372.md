@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 372. Building society dividends[^key-100f5793f340462e2715bbaaba3196c1]
+## 372. Building society dividends[^c-100f5793f340462e2715bbaaba3196c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-100f5793f340462e2715bbaaba3196c1]: Modification: S. 372 excluded (1.3.2013) by [The Building Societies (Core Capital Deferred Shares) Regulations 2013 (S.I. 2013/460)](https://www.legislation.gov.uk/uksi/2013/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2013/460/regulation/3/1/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/2))
+[^c-100f5793f340462e2715bbaaba3196c1]: Modification: S. 372 excluded (1.3.2013) by [The Building Societies (Core Capital Deferred Shares) Regulations 2013 (S.I. 2013/460)](https://www.legislation.gov.uk/uksi/2013/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2013/460/regulation/3/1/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/2))
 
 [^c19742261]: Textual amendment: Words in s. 372(2) substituted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 514](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/514) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

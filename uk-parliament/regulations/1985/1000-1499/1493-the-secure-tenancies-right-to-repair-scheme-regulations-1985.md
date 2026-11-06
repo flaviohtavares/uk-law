@@ -47,9 +47,9 @@ Coming into Operation
 
 The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by section 41A of the Housing Act 1980[^f00001] and of all other powers enabling them in that behalf, hereby make the following regulations:—
 
-**1.**[^key-ff6c97d17311203cbdddf2dff1209327] These regulations may be cited as the Secure Tenancies (Right to Repair Scheme) Regulations 1985 and shall come into operation on 1st January 1986.
+**1.**[^c-ff6c97d17311203cbdddf2dff1209327] These regulations may be cited as the Secure Tenancies (Right to Repair Scheme) Regulations 1985 and shall come into operation on 1st January 1986.
 
-**2.**[^key-2a46e0dc0cfd082b80014e34058e1813] The scheme for entitling secure tenants to carry out repairs to their dwelling-houses which their landlords are obliged by repairing covenants to carry out and, after carrying out the repairs, to recover sums from their landlords, shall be the scheme set out in the Schedule to these regulations.
+**2.**[^c-2a46e0dc0cfd082b80014e34058e1813] The scheme for entitling secure tenants to carry out repairs to their dwelling-houses which their landlords are obliged by repairing covenants to carry out and, after carrying out the repairs, to recover sums from their landlords, shall be the scheme set out in the Schedule to these regulations.
 
 Kenneth Baker
 
@@ -173,7 +173,7 @@ The tenant's claim for payment was not served on the landlord within the period 
 
 ## SCHEDULE — HOUSING ACT 1980: SECTION 41A SECURE TENANCIES (RIGHT TO REPAIR) SCHEME 1985
 
-### 1. Citation and interpretation[^key-235e84ab48ea64afe326471058de97bd]
+### 1. Citation and interpretation[^c-235e84ab48ea64afe326471058de97bd]
 
 (1) This scheme may be cited as the Secure Tenancies (Right to Repair) Scheme 1985.
 
@@ -210,11 +210,11 @@ The tenant's claim for payment was not served on the landlord within the period 
 
 (6) Any notice in writing to be served under this scheme may be served by sending it by post.
 
-### 2. Entitlement[^key-fc4880010295772d837a3a796d672d92]
+### 2. Entitlement[^c-fc4880010295772d837a3a796d672d92]
 
 A secure tenant is entitled to carry out a qualifying repair to his dwelling-house and, after carrying out such a repair, to recover a sum from his landlord, subject to and in accordance with the following provisions of this scheme.
 
-### 3. Tenant's notice claiming the right to repair[^key-a1d697a1df09005cf45cf4054f945709]
+### 3. Tenant's notice claiming the right to repair[^c-a1d697a1df09005cf45cf4054f945709]
 
 (1) A secure tenant who wishes to carry out a qualifying repair to the dwelling-house of which he is the secure tenant shall serve on his landlord a notice in Form 1 claiming the right to repair (“the tenant's repair claim”).
 
@@ -225,17 +225,17 @@ A secure tenant is entitled to carry out a qualifying repair to his dwelling-hou
 
 (3) A notice in Form 1 shall state whether the tenant wishes to carry out all or any of the repair works himself or, as the case may be, to have them carried out by a person named by him.
 
-### 4. Landlord's notice in reply to tenant's repair claim[^key-c9149e6eb1c32827c2081df47c19c28c]
+### 4. Landlord's notice in reply to tenant's repair claim[^c-c9149e6eb1c32827c2081df47c19c28c]
 
 Within 21 days of the service on the landlord of the tenant's repair claim, the landlord shall (unless the notice is withdrawn) serve on the tenant either a notice in Form 2 refusing the tenant's repair claim in accordance with paragraphs 5 and 6 or, as the case may be, a notice in Form 3 accepting the tenant's repair claim in accordance with paragraphs 7 and 8.
 
-### 5. Grounds for refusal[^key-03a127b35655d4b4dbbd6de6101caa1f]
+### 5. Grounds for refusal[^c-03a127b35655d4b4dbbd6de6101caa1f]
 
 (1) The landlord shall refuse the tenant's repair claim in any case where any of the grounds set out in Part I of Annex B to this scheme applies.
 
 (2) The landlord may refuse the tenant's repair claim on any one or more of the grounds set out in Part II of Annex B to this scheme.
 
-### 6. Landlord's notice refusing tenant's repair claim[^key-ddafb574d9c687d2cd60ef9c568bdaf1]
+### 6. Landlord's notice refusing tenant's repair claim[^c-ddafb574d9c687d2cd60ef9c568bdaf1]
 
 A landlord's notice in Form 2 refusing the tenant's repair claim shall contain the following particulars—
 
@@ -243,7 +243,7 @@ A landlord's notice in Form 2 refusing the tenant's repair claim shall contain t
 - (b) where one or more of grounds 1, 4, 5 or 6 is relied on, the amount of the landlord's costs; and
 - (c) where ground 3 is relied on, the landlord's works and the amount of the landlord's costs.
 
-### 7. Landlord's acceptance of tenant's repair claim etc[^key-88a36f35410772b2e26ebbe9a778038f]
+### 7. Landlord's acceptance of tenant's repair claim etc[^c-88a36f35410772b2e26ebbe9a778038f]
 
 (1) Where none of the grounds set out in Annex B is relied on by the landlord, the landlord shall—
 
@@ -260,7 +260,7 @@ A landlord's notice in Form 2 refusing the tenant's repair claim shall contain t
 
 (4) The landlord may impose no condition of acceptance of the tenant's repair claim other than that specified in sub-paragraph (2) above.
 
-### 8. Landlord's notice accepting tenant's repair claim[^key-8dc0a3145a96680e23453a97e510dcff]
+### 8. Landlord's notice accepting tenant's repair claim[^c-8dc0a3145a96680e23453a97e510dcff]
 
 (1) A landlord's notice in Form 3 shall contain the following particulars—
 
@@ -271,7 +271,7 @@ A landlord's notice in Form 2 refusing the tenant's repair claim shall contain t
 
 (2) Where, in accepting the tenant's repair claim, the landlord imposes the condition specified in paragraph 7(2), the landlord's notice in Form 3 shall specify that condition and the names and addresses of no less than 3 persons approved by the landlord for the purposes of that condition.
 
-### 9. Default notice[^key-4849e19fe0b83f537a8c9b51ae069353]
+### 9. Default notice[^c-4849e19fe0b83f537a8c9b51ae069353]
 
 (1) Where—
 
@@ -285,7 +285,7 @@ the tenant may, in any case where the tenant's estimate of the cost to him of ca
 - (a) the circumstances in which the tenant is entitled, under sub-paragraph (1) above, to serve the default notice; and
 - (b) the tenant's estimate of the cost to him of carrying out the repair works.
 
-### 10. Landlord's response to tenant's default notice[^key-a548b92c1925a2c337ffa5f566f4f9d6]
+### 10. Landlord's response to tenant's default notice[^c-a548b92c1925a2c337ffa5f566f4f9d6]
 
 (1) Within 7 days of the service of a default notice in Form 4, the landlord shall (unless the notice is withdrawn) either accept the tenant's repair claim in accordance with paragraph 7 and serve on the tenant a notice in Form 3 or, as the case may be, serve on the tenant a notice in Form 5 refusing the tenant's repair claim and the default notice.
 
@@ -306,7 +306,7 @@ the tenant may, in any case where the tenant's estimate of the cost to him of ca
 - (b) where ground 1, ground 4 or the ground in sub-paragraph (3)(b) above is relied on, the amount of the landlord's costs; and
 - (c) where ground 3 is relied on, the landlord's works and the amount of the landlord's costs.
 
-### 11. Carrying out of the works by the tenant[^key-67489f4d7616ad7cc1bb6f610f820fb9]
+### 11. Carrying out of the works by the tenant[^c-67489f4d7616ad7cc1bb6f610f820fb9]
 
 (1) Following the service on the tenant of the landlord's notice in Form 3, the tenant may carry out the repair works using the authorised materials and claim payment as provided for in paragraph 12.
 
@@ -317,7 +317,7 @@ the tenant may, in any case where the tenant's estimate of the cost to him of ca
 
 the tenant may carry out the works specified in the tenant's repair claim using the materials specified therein and claim payment as provided for in paragraph 12.
 
-### 12. Tenant's claim for payment[^key-aa81c255eb91ce2c014d1f8e3ff2c945]
+### 12. Tenant's claim for payment[^c-aa81c255eb91ce2c014d1f8e3ff2c945]
 
 (1) Except where sub-paragraph (2) below applies, the tenant's claim for payment shall only be made where, in the tenant's opinion, the repair works have been completed.
 
@@ -339,11 +339,11 @@ or before such later date as the landlord may in any case allow.
 
 (5) For the purposes of sub-paragraph (4) above, any reference to the repair works includes, in a case to which sub-paragraph (2) above applies, a reference to such part of such works as has been completed.
 
-### 13. Landlord's notice in reply to tenant's claim for payment[^key-ffa0358bf3355416034b4862d5dd6466]
+### 13. Landlord's notice in reply to tenant's claim for payment[^c-ffa0358bf3355416034b4862d5dd6466]
 
 Within 21 days of the service on the landlord of the tenant's claim for payment under paragraph 12, the landlord shall serve on the tenant a notice in writing either refusing the tenant's claim for payment in accordance with paragraphs 14 and 15 or, as the case may be, accepting it in accordance with paragraph 22.
 
-### 14. Refusal of tenant's claim for payment[^key-4aff26a74b0de1d5db51c8a23084400f]
+### 14. Refusal of tenant's claim for payment[^c-4aff26a74b0de1d5db51c8a23084400f]
 
 (1) The landlord shall refuse the tenant's claim for payment under paragraph 12 where any of the grounds set out in Part I of Annex C to this scheme applies.
 
@@ -356,7 +356,7 @@ Within 21 days of the service on the landlord of the tenant's claim for payment 
 
 (4) Where ground D is relied on, the landlord shall specify a date and time at which an inspection of the repair works will take place.
 
-### 15. Landlord's notice of refusal of tenant's claim for payment[^key-089b6e8abc88c61834df0369638cceb3]
+### 15. Landlord's notice of refusal of tenant's claim for payment[^c-089b6e8abc88c61834df0369638cceb3]
 
 The landlord's notice under paragraph 13 refusing the tenant's claim for payment shall contain the following particulars—
 
@@ -366,11 +366,11 @@ The landlord's notice under paragraph 13 refusing the tenant's claim for payment
 - (d) where ground A or D is relied on, the date before which a further claim for payment must be made, being a date not less than 2 months after service of such notice; and
 - (e) where the landlord imposes the condition specified in paragraph 14(2)(b), that condition and the names and addresses of no less than 3 persons approved by the landlord for the purposes of that condition.
 
-### 16. Further repair works[^key-308de0c0cc497f1c2c00f040db5e394b]
+### 16. Further repair works[^c-308de0c0cc497f1c2c00f040db5e394b]
 
 Where the landlord's notice in accordance with paragraphs 14 and 15 refusing the tenant's claim for payment has been served on the tenant specifying ground A as a ground for refusal, the tenant may carry out the further repair works specified in that notice using the materials specified therein.
 
-### 17. Tenant's further claim for payment[^key-acd8999af707668558172ae047c987f3]
+### 17. Tenant's further claim for payment[^c-acd8999af707668558172ae047c987f3]
 
 (1) The tenant's further claim for payment shall only be made where—
 
@@ -389,7 +389,7 @@ Where the landlord's notice in accordance with paragraphs 14 and 15 refusing the
 - (b) in a case where the landlord's notice under paragraph 15 refusing the tenant's claim for payment specified ground D as a reason for refusal, the date on which the inspection of the repair works was made; and
 - (c) the costs the tenant has incurred in carrying out the further repair works.
 
-### 18. Landlord's notice in reply to tenant's further claim for payment[^key-fe8e24ab870572025bfa329694f34d7b]
+### 18. Landlord's notice in reply to tenant's further claim for payment[^c-fe8e24ab870572025bfa329694f34d7b]
 
 (1) Within 21 days of the service on the landlord of the tenant's further claim for payment in accordance with paragraph 17, the landlord shall serve on the tenant a notice in writing either refusing the tenant's further claim for payment in accordance with paragraph 19 or, as the case may be, accepting it in accordance with paragraph 22.
 
@@ -401,7 +401,7 @@ Where the landlord's notice in accordance with paragraphs 14 and 15 refusing the
 - (d) ground E shall apply in relation to any condition imposed under paragraph 14(2)(b), as it applies to a condition imposed under paragraph 7(2); and
 - (e) ground F shall apply in relation to the period specified under paragraph 17(3), as it applies to the period specified in paragraph 12(3).
 
-### 19. Landlord's refusal of tenant's further claim for payment[^key-7eef3f9cd94409811a7c69164bdbb093]
+### 19. Landlord's refusal of tenant's further claim for payment[^c-7eef3f9cd94409811a7c69164bdbb093]
 
 (1) The landlord shall refuse the tenant's further claim for payment under paragraph 17 where ground A or ground B applies in relation to the further repair works.
 
@@ -410,7 +410,7 @@ Where the landlord's notice in accordance with paragraphs 14 and 15 refusing the
 - (a) on any one or more of grounds set out in Part II of Annex C to this scheme; or
 - (b) on the ground that no inspection of the repair works has taken place as provided for in paragraph 17(1)(b).
 
-### 20. Further opportunity for tenant to carry out works and claim for payment[^key-928421b5556cabf5b6c3db88c9af4a6b]
+### 20. Further opportunity for tenant to carry out works and claim for payment[^c-928421b5556cabf5b6c3db88c9af4a6b]
 
 (1) Where the landlord refuses the tenant's further claim for payment under paragraph 19 on ground A, it may, if it thinks fit, give the tenant a further opportunity to complete or, as the case may be, to remedy the inadequacy of the further repair works, using such materials, subject to such conditions and before such date as the landlord may specify.
 
@@ -429,7 +429,7 @@ Where the landlord's notice in accordance with paragraphs 14 and 15 refusing the
 - (b) for the references to the date and time specified under paragraph 15(c) there were substituted references to the date and time specified in that notice; and
 - (c) for the references to the date specified under paragraph 15(d) were substituted references to the date specified under paragraph 21(d).
 
-### 21. Landlord's notice of refusal of tenant's further claim for payment[^key-5547837c12dd35ade25680d1b8fcef57]
+### 21. Landlord's notice of refusal of tenant's further claim for payment[^c-5547837c12dd35ade25680d1b8fcef57]
 
 The landlord's notice refusing the tenant's further claim for payment under paragraph 19 shall contain the following particulars—
 
@@ -438,7 +438,7 @@ The landlord's notice refusing the tenant's further claim for payment under para
 - (c) the specification of a date and time for any further opportunity for inspection in a case to which paragraph 20(2) applies; and
 - (d) in any case to which sub-paragraph (b) or (c) above applies, the specification of a date before which any further claim for payment must be made.
 
-### 22. Landlord's acceptance of tenant's claim for payment or further claim for payment[^key-c7205a00ced2f6162fa3f865ca7a401b]
+### 22. Landlord's acceptance of tenant's claim for payment or further claim for payment[^c-c7205a00ced2f6162fa3f865ca7a401b]
 
 (1) Where none of the grounds set out in Annex C is relied on by the landlord and paragraph 19(2)(b) does not apply, the landlord shall accept the tenant's claim for payment under paragraph 12 or, as the case may be, the tenant's further claim for payment under paragraph 17 (or that paragraph as applied by paragraph 20).
 
@@ -454,7 +454,7 @@ The landlord's notice refusing the tenant's further claim for payment under para
   - (ii) an amount equal to the costs which, in the landlord's opinion, the tenant has reasonably incurred in carrying out those works which he has carried out; and
 - (b) in a default case, an amount equal to the cost which, in the landlord's opinion, the tenant has reasonably incurred in carrying out those works which he has carried out, or £200, whichever is the less.
 
-### 23. Payment by the landlord[^key-5c16b87f960002d9e70d73e795d6dae2]
+### 23. Payment by the landlord[^c-5c16b87f960002d9e70d73e795d6dae2]
 
 (1) The landlord may make payment to the tenant in any manner that it thinks fit, except that the landlord may only credit the tenant's rent account in any case where the tenant is in arrears with the rent for his dwelling-house at the date of the payment, and to the extent of the arrears.
 
@@ -464,7 +464,7 @@ The landlord's notice refusing the tenant's further claim for payment under para
 - (b) the manner by which payment is to be made; and
 - (c) a date, no later than 14 days after service of such notice, by which payment is to be made, where such payment is not concurrent with the notice.
 
-### 24. Variations etc. by agreement[^key-1c3c04dc1a259c3af5e88973fabcaa8c]
+### 24. Variations etc. by agreement[^c-1c3c04dc1a259c3af5e88973fabcaa8c]
 
 (1) The landlord may at any time agree with the tenant a variation to any of the following—
 
@@ -480,7 +480,7 @@ and may make its agreement conditional upon the requirement that any such works 
 
 (3) Where the landlord agrees any variation under sub-paragraph (1) or (2) above, it shall notify the tenant in writing within 7 days, where appropriate, of any consequent modification to the amount of the landlord's costs or to the amount specified in the landlord's notice in Form 3 as the amount the landlord will pay the tenant.
 
-### 25. Suspension of repairing obligation[^key-0b01de2ca52039d2eb8506169efbffdd]
+### 25. Suspension of repairing obligation[^c-0b01de2ca52039d2eb8506169efbffdd]
 
 (1) Where the repair works may be carried out by the tenant in accordance with paragraph 11, the landlord's obligation to its secure tenant under its repairing covenant, in respect of the lack of repair to which the repair works relate, shall cease to apply—
 
@@ -499,7 +499,7 @@ until whichever is the earliest of the following—
 - (b) the service on the landlord of notice in writing by the tenant that he does not intend to carry out or to proceed further with the further repair works or, as the case may be, the additional further repair works; or
 - (c) the expiry of the period during which the tenant's further claim for payment must be made in accordance with paragraph 17 (or that paragraph as applied by paragraph 20).
 
-### 26. Disputes[^key-34220381842ec0c56c31151dbb954230]
+### 26. Disputes[^c-34220381842ec0c56c31151dbb954230]
 
 Any question arising under this scheme may be referred by the landlord or the tenant to and determined by the county court.
 
@@ -515,58 +515,58 @@ Annex A to the scheme sets out the forms to be used as provided in paragraphs 3 
 
 [^f00001]: Footnote: section 41A was inserted by section 28 of the Housing and Building Control Act 1984 (c.29).
 
-[^key-ff6c97d17311203cbdddf2dff1209327]: Commencement: Reg. 1 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-ff6c97d17311203cbdddf2dff1209327]: Commencement: Reg. 1 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-2a46e0dc0cfd082b80014e34058e1813]: Commencement: Reg. 2 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-2a46e0dc0cfd082b80014e34058e1813]: Commencement: Reg. 2 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-235e84ab48ea64afe326471058de97bd]: Commencement: Sch. para. 1 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-235e84ab48ea64afe326471058de97bd]: Commencement: Sch. para. 1 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-fc4880010295772d837a3a796d672d92]: Commencement: Sch. para. 2 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-fc4880010295772d837a3a796d672d92]: Commencement: Sch. para. 2 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-a1d697a1df09005cf45cf4054f945709]: Commencement: Sch. para. 3 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-a1d697a1df09005cf45cf4054f945709]: Commencement: Sch. para. 3 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-c9149e6eb1c32827c2081df47c19c28c]: Commencement: Sch. para. 4 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-c9149e6eb1c32827c2081df47c19c28c]: Commencement: Sch. para. 4 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-03a127b35655d4b4dbbd6de6101caa1f]: Commencement: Sch. para. 5 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-03a127b35655d4b4dbbd6de6101caa1f]: Commencement: Sch. para. 5 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-ddafb574d9c687d2cd60ef9c568bdaf1]: Commencement: Sch. para. 6 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-ddafb574d9c687d2cd60ef9c568bdaf1]: Commencement: Sch. para. 6 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-88a36f35410772b2e26ebbe9a778038f]: Commencement: Sch. para. 7 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-88a36f35410772b2e26ebbe9a778038f]: Commencement: Sch. para. 7 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-8dc0a3145a96680e23453a97e510dcff]: Commencement: Sch. para. 8 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-8dc0a3145a96680e23453a97e510dcff]: Commencement: Sch. para. 8 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-4849e19fe0b83f537a8c9b51ae069353]: Commencement: Sch. para. 9 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-4849e19fe0b83f537a8c9b51ae069353]: Commencement: Sch. para. 9 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-a548b92c1925a2c337ffa5f566f4f9d6]: Commencement: Sch. para. 10 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-a548b92c1925a2c337ffa5f566f4f9d6]: Commencement: Sch. para. 10 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-67489f4d7616ad7cc1bb6f610f820fb9]: Commencement: Sch. para. 11 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-67489f4d7616ad7cc1bb6f610f820fb9]: Commencement: Sch. para. 11 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-aa81c255eb91ce2c014d1f8e3ff2c945]: Commencement: Sch. para. 12 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-aa81c255eb91ce2c014d1f8e3ff2c945]: Commencement: Sch. para. 12 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-ffa0358bf3355416034b4862d5dd6466]: Commencement: Sch. para. 13 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-ffa0358bf3355416034b4862d5dd6466]: Commencement: Sch. para. 13 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-4aff26a74b0de1d5db51c8a23084400f]: Commencement: Sch. para. 14 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-4aff26a74b0de1d5db51c8a23084400f]: Commencement: Sch. para. 14 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-089b6e8abc88c61834df0369638cceb3]: Commencement: Sch. para. 15 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-089b6e8abc88c61834df0369638cceb3]: Commencement: Sch. para. 15 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-308de0c0cc497f1c2c00f040db5e394b]: Commencement: Sch. para. 16 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-308de0c0cc497f1c2c00f040db5e394b]: Commencement: Sch. para. 16 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-acd8999af707668558172ae047c987f3]: Commencement: Sch. para. 17 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-acd8999af707668558172ae047c987f3]: Commencement: Sch. para. 17 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-fe8e24ab870572025bfa329694f34d7b]: Commencement: Sch. para. 18 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-fe8e24ab870572025bfa329694f34d7b]: Commencement: Sch. para. 18 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-7eef3f9cd94409811a7c69164bdbb093]: Commencement: Sch. para. 19 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-7eef3f9cd94409811a7c69164bdbb093]: Commencement: Sch. para. 19 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-928421b5556cabf5b6c3db88c9af4a6b]: Commencement: Sch. para. 20 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-928421b5556cabf5b6c3db88c9af4a6b]: Commencement: Sch. para. 20 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-5547837c12dd35ade25680d1b8fcef57]: Commencement: Sch. para. 21 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-5547837c12dd35ade25680d1b8fcef57]: Commencement: Sch. para. 21 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-c7205a00ced2f6162fa3f865ca7a401b]: Commencement: Sch. para. 22 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-c7205a00ced2f6162fa3f865ca7a401b]: Commencement: Sch. para. 22 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-5c16b87f960002d9e70d73e795d6dae2]: Commencement: Sch. para. 23 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-5c16b87f960002d9e70d73e795d6dae2]: Commencement: Sch. para. 23 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-1c3c04dc1a259c3af5e88973fabcaa8c]: Commencement: Sch. para. 24 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-1c3c04dc1a259c3af5e88973fabcaa8c]: Commencement: Sch. para. 24 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-0b01de2ca52039d2eb8506169efbffdd]: Commencement: Sch. para. 25 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-0b01de2ca52039d2eb8506169efbffdd]: Commencement: Sch. para. 25 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
 
-[^key-34220381842ec0c56c31151dbb954230]: Commencement: Sch. para. 26 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)
+[^c-34220381842ec0c56c31151dbb954230]: Commencement: Sch. para. 26 in force at 1.1.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/1493/regulation/1)

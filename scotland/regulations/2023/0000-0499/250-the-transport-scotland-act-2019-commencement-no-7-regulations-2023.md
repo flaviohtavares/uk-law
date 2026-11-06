@@ -45,11 +45,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the power conferred by section 130(2) and (3) of the Transport (Scotland) Act 2019[^f00001].
 
-## 1. Citation and commencement[^key-378ca0aef24eaaac2f21ed786ab3a78f]
+## 1. Citation and commencement[^c-378ca0aef24eaaac2f21ed786ab3a78f]
 
 These Regulations may be cited as the Transport (Scotland) Act 2019 (Commencement No. 7) Regulations 2023 and come into force on 22 September 2023.
 
-## 2. Appointed day[^key-9c441e86e07dccbf69d3f190cecad639]
+## 2. Appointed day[^c-9c441e86e07dccbf69d3f190cecad639]
 
 (1) The day appointed for the coming into force of the provisions of the Transport (Scotland) Act 2019 specified in column 1 of the schedule (the subject matter of which is described in column 2 of the schedule) is the day specified in column 3 of the schedule.
 
@@ -65,7 +65,7 @@ Edinburgh
 
 6th September 2023
 
-## SCHEDULE — Provisions of the Transport (Scotland) Act 2019 coming into force[^key-df2d09f796e3b4ea7819277ab15b5bda]
+## SCHEDULE — Provisions of the Transport (Scotland) Act 2019 coming into force[^c-df2d09f796e3b4ea7819277ab15b5bda]
 
 Regulation 2
 
@@ -90,7 +90,7 @@ Regulation 2
 | Section 64 | Arrangements in connection with enforcement | 11 December 2023 |  |
 | Section 65 | Power to share information | 11 December 2023 |  |
 | Section 66 | Accounts | 22 September 2023 |  |
-| Section 69 | Interpretation of Part 6 | 11 December 2023[^key-69fca0879a6b39d854b40f3d0b9917b1] |  |
+| Section 69 | Interpretation of Part 6 | 11 December 2023[^c-69fca0879a6b39d854b40f3d0b9917b1] |  |
 | Section 110 | Inspection functions | 1 April 2024 |  |
 | Section 111 | Compliance notices | 1 April 2024 |  |
 | Section 119 | Information about apparatus | 1 April 2024 |  |
@@ -167,10 +167,10 @@ The following provisions of the Transport (Scotland) Act 2019 have been brought 
 
 [^f00001]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-378ca0aef24eaaac2f21ed786ab3a78f]: Commencement: Reg. 1 in force at 22.9.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/250/regulation/1)
+[^c-378ca0aef24eaaac2f21ed786ab3a78f]: Commencement: Reg. 1 in force at 22.9.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/250/regulation/1)
 
-[^key-9c441e86e07dccbf69d3f190cecad639]: Commencement: Reg. 2 in force at 22.9.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/250/regulation/1)
+[^c-9c441e86e07dccbf69d3f190cecad639]: Commencement: Reg. 2 in force at 22.9.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/250/regulation/1)
 
-[^key-df2d09f796e3b4ea7819277ab15b5bda]: Commencement: Sch. in force at 22.9.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/250/regulation/1)
+[^c-df2d09f796e3b4ea7819277ab15b5bda]: Commencement: Sch. in force at 22.9.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/250/regulation/1)
 
-[^key-69fca0879a6b39d854b40f3d0b9917b1]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule) table substituted (30.11.2023) by [The Transport (Scotland) Act 2019 (Commencement No. 7) Amendment Regulations 2023 (S.S.I. 2023/342)](https://www.legislation.gov.uk/ssi/2023/342), [regs. 1](https://www.legislation.gov.uk/ssi/2023/342/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/342/regulation/2/2)
+[^c-69fca0879a6b39d854b40f3d0b9917b1]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule) table substituted (30.11.2023) by [The Transport (Scotland) Act 2019 (Commencement No. 7) Amendment Regulations 2023 (S.S.I. 2023/342)](https://www.legislation.gov.uk/ssi/2023/342), [regs. 1](https://www.legislation.gov.uk/ssi/2023/342/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/342/regulation/2/2)

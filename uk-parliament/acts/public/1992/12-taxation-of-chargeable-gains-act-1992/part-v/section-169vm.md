@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169VM. Claims for relief[^key-da6373f53cd2a48dadc69f2b31893233]
+## 169VM. Claims for relief[^c-da6373f53cd2a48dadc69f2b31893233]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da6373f53cd2a48dadc69f2b31893233]: Textual amendment: Pt. 5 Ch. 5 inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/2)
+[^c-da6373f53cd2a48dadc69f2b31893233]: Textual amendment: Pt. 5 Ch. 5 inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/2)

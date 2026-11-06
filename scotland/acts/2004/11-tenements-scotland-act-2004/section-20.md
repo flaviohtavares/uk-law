@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Demolition of tenement building not to affect ownership[^key-065973ee58218704136203b4c17daf27]
+## 20. Demolition of tenement building not to affect ownership[^c-065973ee58218704136203b4c17daf27]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065973ee58218704136203b4c17daf27]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2004/11/section/20) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-065973ee58218704136203b4c17daf27]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2004/11/section/20) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

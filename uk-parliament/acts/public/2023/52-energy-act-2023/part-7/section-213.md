@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Electricity storage[^key-c8464e5b1bb8b8c740a55c3891af7b76]
+## 213. Electricity storage[^c-c8464e5b1bb8b8c740a55c3891af7b76]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ In section 4 of the Electricity Act 1989 (prohibition on unlicensed generation e
 
 ## Annotations
 
-[^key-c8464e5b1bb8b8c740a55c3891af7b76]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/52/section/213) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-c8464e5b1bb8b8c740a55c3891af7b76]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/52/section/213) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)

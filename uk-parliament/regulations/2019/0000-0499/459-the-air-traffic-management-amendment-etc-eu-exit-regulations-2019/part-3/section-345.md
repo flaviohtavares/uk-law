@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Further amendment of Commission Implementing Regulation (EU) No 970/2014[^key-05c80efb62c44fae63989ad01f4fcde7]
+## 345. Further amendment of Commission Implementing Regulation (EU) No 970/2014[^c-05c80efb62c44fae63989ad01f4fcde7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 2 (entry into force) omit the sentence which begins “This Regula
 
 ## Annotations
 
-[^key-05c80efb62c44fae63989ad01f4fcde7]: Commencement: Reg. 345 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-05c80efb62c44fae63989ad01f4fcde7]: Commencement: Reg. 345 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

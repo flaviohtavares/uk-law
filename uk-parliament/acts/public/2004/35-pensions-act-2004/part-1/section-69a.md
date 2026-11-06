@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Duty to give notices and statements to the Regulator in respect of certain events[^key-d956d9f5f9b8bcf062fdf20f6c5dd194]
+## 69A. Duty to give notices and statements to the Regulator in respect of certain events[^c-d956d9f5f9b8bcf062fdf20f6c5dd194]
 
 *Extent: E+W+S*
 
@@ -82,4 +82,4 @@ This is subject to section 311 (protected items).
 
 ## Annotations
 
-[^key-d956d9f5f9b8bcf062fdf20f6c5dd194]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2004/35/section/69A) inserted (31.5.2021 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b)
+[^c-d956d9f5f9b8bcf062fdf20f6c5dd194]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2004/35/section/69A) inserted (31.5.2021 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b)

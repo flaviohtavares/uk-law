@@ -24,7 +24,7 @@ Regulation 2(1)
 
 ### PART 1 — Statutes
 
-**1.**[^key-21bcea511c30ee8cbd113fd5ec76311b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-21bcea511c30ee8cbd113fd5ec76311b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** The Salmon and Freshwater Fisheries Act 1975 [^c23020551].
 
@@ -66,13 +66,13 @@ Regulation 2(1)
 
 **20.** The Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) Regulations 2010 [^c23020731].
 
-**21.**[^key-ca45a955a35676ce6119d1750a1524e0] The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021.
+**21.**[^c-ca45a955a35676ce6119d1750a1524e0] The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021.
 
 **22.** The Natural Resources Body for Wales (Establishment) Order 2012 [^c23020751].
 
 **23.** The Bathing Water Regulations 2013 [^c23020761].
 
-**24.**[^key-cf4049d0998d3e7e1c13abce136abc04] The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021.
+**24.**[^c-cf4049d0998d3e7e1c13abce136abc04] The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021.
 
 **25.** The Keeping and Introduction of Fish (Wales) Regulations 2014 [^c23020781].
 
@@ -90,7 +90,7 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-21bcea511c30ee8cbd113fd5ec76311b]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/407/schedule/2/paragraph/1) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(12)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21bcea511c30ee8cbd113fd5ec76311b]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2017/407/schedule/2/paragraph/1) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [20(12)](https://www.legislation.gov.uk/uksi/2019/558/regulation/20/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23020551]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).
 
@@ -130,13 +130,13 @@ Regulation 2(1)
 
 [^c23020731]: Marginal citation: [S.I. 2010/639](https://www.legislation.gov.uk/uksi/2010/639), amended by [S.I. 2010/1091](https://www.legislation.gov.uk/uksi/2010/1091).
 
-[^key-ca45a955a35676ce6119d1750a1524e0]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2017/407/schedule/2/paragraph/21) substituted (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3), [49(2)(a)](https://www.legislation.gov.uk/wsi/2021/77/regulation/49/2/a)
+[^c-ca45a955a35676ce6119d1750a1524e0]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2017/407/schedule/2/paragraph/21) substituted (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3), [49(2)(a)](https://www.legislation.gov.uk/wsi/2021/77/regulation/49/2/a)
 
 [^c23020751]: Marginal citation: [S.I. 2012/1903](https://www.legislation.gov.uk/uksi/2012/1903) (W. 230).
 
 [^c23020761]: Marginal citation: [S.I. 2013/1675](https://www.legislation.gov.uk/uksi/2013/1675), amended by [S.I. 2013/2363](https://www.legislation.gov.uk/uksi/2013/2363), 2014/1067 (W. 106), 2016/314 (W. 103), 600.
 
-[^key-cf4049d0998d3e7e1c13abce136abc04]: Textual amendment: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2017/407/schedule/2/paragraph/24) substituted (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3), [49(2)(b)](https://www.legislation.gov.uk/wsi/2021/77/regulation/49/2/b)
+[^c-cf4049d0998d3e7e1c13abce136abc04]: Textual amendment: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2017/407/schedule/2/paragraph/24) substituted (1.4.2021) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3), [49(2)(b)](https://www.legislation.gov.uk/wsi/2021/77/regulation/49/2/b)
 
 [^c23020781]: Marginal citation: [S.I. 2014/3303](https://www.legislation.gov.uk/uksi/2014/3303) (W. 336).
 

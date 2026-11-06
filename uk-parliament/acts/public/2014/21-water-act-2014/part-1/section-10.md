@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-491a8c436865edc6a359a8438c9dfe86][^key-96155aa100359282fe9f6635628541b6][^key-9759ccbdfea3faddc2c822703335d54c] The Water Industry Act 1991 is amended as follows.
+(1)[^c-491a8c436865edc6a359a8438c9dfe86][^c-96155aa100359282fe9f6635628541b6][^c-9759ccbdfea3faddc2c822703335d54c] The Water Industry Act 1991 is amended as follows.
 
-(2)[^key-8e4891c2e79499f1c677c7b0624c20f7] In section 51A (agreements to adopt a water main or service pipe at a future date)—
+(2)[^c-8e4891c2e79499f1c677c7b0624c20f7] In section 51A (agreements to adopt a water main or service pipe at a future date)—
 
 - (a) in subsection (3) (application to make an agreement under section 51A), for the words from “make an application” to the end there is substituted “ request a water undertaker to make an agreement under this section. ”;
 - (b) subsections (4) to (8) are repealed;
@@ -33,7 +33,7 @@ summary: ''
   > - (a) an order under section 51B which is deemed to be an agreement by virtue of section 51B(5), and
   > - (b) an agreement which has been varied by order under section 51C(1).
 
-(3)[^key-3695cfb26912945afece375bfbf9839f][^key-c03b3a9137c619629d3c701b17178005][^key-9759ccbdfea3faddc2c822703335d54c] For section 51B (appeals with respect to adoption) and section 51C (financial conditions of compliance) there is substituted—
+(3)[^c-3695cfb26912945afece375bfbf9839f][^c-c03b3a9137c619629d3c701b17178005][^c-9759ccbdfea3faddc2c822703335d54c] For section 51B (appeals with respect to adoption) and section 51C (financial conditions of compliance) there is substituted—
 
 > **51B. Adoption at a future date: orders by Authority**
 >
@@ -346,18 +346,18 @@ summary: ''
 > - (a) the Secretary of State, so far as the guidance is as to the content of rules relating to section 51A agreements for the vesting of water mains or service pipes in water undertakers whose areas are wholly or mainly in England;
 > - (b) the Welsh Ministers, so far as the guidance is as to the content of rules relating to section 51A agreements for the vesting of water mains or service pipes in water undertakers whose areas are wholly or mainly in Wales.
 
-(4)[^key-8e4891c2e79499f1c677c7b0624c20f7] In section 51E (sections 51A to 51D: supplementary), in subsection (2), for “In sections 51A to 51C above” there is substituted “ In section 51A ”.
+(4)[^c-8e4891c2e79499f1c677c7b0624c20f7] In section 51E (sections 51A to 51D: supplementary), in subsection (2), for “In sections 51A to 51C above” there is substituted “ In section 51A ”.
 
 ## Annotations
 
-[^key-491a8c436865edc6a359a8438c9dfe86]: Commencement: S. 10(1) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/b/i)
+[^c-491a8c436865edc6a359a8438c9dfe86]: Commencement: S. 10(1) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/b/i)
 
-[^key-96155aa100359282fe9f6635628541b6]: Commencement: S. 10(1) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(d)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/d/i)
+[^c-96155aa100359282fe9f6635628541b6]: Commencement: S. 10(1) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(d)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/d/i)
 
-[^key-9759ccbdfea3faddc2c822703335d54c]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/3) in force at 1.10.2017 for E. in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(a)](https://www.legislation.gov.uk/uksi/2017/462/article/4/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2017/462/article/15))
+[^c-9759ccbdfea3faddc2c822703335d54c]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/3) in force at 1.10.2017 for E. in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(a)](https://www.legislation.gov.uk/uksi/2017/462/article/4/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2017/462/article/15))
 
-[^key-8e4891c2e79499f1c677c7b0624c20f7]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/4) in force at 1.10.2017 for E. by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(a)](https://www.legislation.gov.uk/uksi/2017/462/article/4/a)
+[^c-8e4891c2e79499f1c677c7b0624c20f7]: Commencement: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/10/4) in force at 1.10.2017 for E. by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(a)](https://www.legislation.gov.uk/uksi/2017/462/article/4/a)
 
-[^key-3695cfb26912945afece375bfbf9839f]: Commencement: S. 10(3) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/b/ii)
+[^c-3695cfb26912945afece375bfbf9839f]: Commencement: S. 10(3) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/b/ii)
 
-[^key-c03b3a9137c619629d3c701b17178005]: Commencement: S. 10(3) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/d/ii)
+[^c-c03b3a9137c619629d3c701b17178005]: Commencement: S. 10(3) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/d/ii)

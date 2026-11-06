@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury make this Order in exercise of the powers conferred by section 55A(9), (9A), (10), (11) and (14) of the Value Added Tax Act 1994 [^c23727341].
 
-## 1. Citation and commencement[^key-a2b1712a73e2183142e5149cba3dbc6b]
+## 1. Citation and commencement[^c-a2b1712a73e2183142e5149cba3dbc6b]
 
 (1) This Order may be cited as the Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) Order 2019.
 
-(2) This Order comes into force on 1st March 2021[^key-bcf3f5f3d7fa3250844d755aecb9f760] and has effect in relation to supplies made on or after that date.
+(2) This Order comes into force on 1st March 2021[^c-bcf3f5f3d7fa3250844d755aecb9f760] and has effect in relation to supplies made on or after that date.
 
-## 2. Interpretation[^key-01606793faa4235481be4cbd628fd2d5]
+## 2. Interpretation[^c-01606793faa4235481be4cbd628fd2d5]
 
 (1) In this Order—
 
@@ -68,17 +68,17 @@ The Treasury make this Order in exercise of the powers conferred by section 55A(
   - (i) where that person is, or is connected with, a landlord, lessor, licensor, tenant, lessee or licensee in relation to such land, buildings or civil engineering works; but
   - (ii) “**relevant interest**” does not include any temporary entitlement to occupy land, buildings or civil engineering works for the purpose of making supplies of specified services.
 
-## 3. Application of section 55A of the Act[^key-c1b4955fc0b3ab4c0e4fe595ad8afed0]
+## 3. Application of section 55A of the Act[^c-c1b4955fc0b3ab4c0e4fe595ad8afed0]
 
 (1) Section 55A of the Act (customers to account for tax on supplies) applies to services of a description specified in article 4.
 
 (2) The supplies specified in article 8 are excepted supplies for the purposes of section 55A of the Act.
 
-## 4. Specified services[^key-2e20537b023db38e2af0dad292dfde3e]
+## 4. Specified services[^c-2e20537b023db38e2af0dad292dfde3e]
 
 The services referred to in article 3(1) are construction services as defined in articles 5 to 7 together with any goods supplied with those services which fall to be treated as part of a single supply of services.
 
-## 5.[^key-53049143f4d448c60e479f820236c59d]
+## 5.[^c-53049143f4d448c60e479f820236c59d]
 
 “Construction services” comprise—
 
@@ -89,7 +89,7 @@ The services referred to in article 3(1) are construction services as defined in
 - (e) painting or decorating the internal or external surfaces of any building or structure;
 - (f) services which form an integral part of, or are preparatory to, or are for rendering complete, the services described in paragraphs (a) to (e), including site clearance, earth-moving, excavation, tunnelling and boring, laying of foundations, erection of scaffolding, site restoration, landscaping and the provision of roadways and other access works.
 
-## 6.[^key-66a5e52f5f5e37781ef40eaf3d34c52d]
+## 6.[^c-66a5e52f5f5e37781ef40eaf3d34c52d]
 
 “Construction services” do not include—
 
@@ -103,11 +103,11 @@ The services referred to in article 3(1) are construction services as defined in
 - (h) the installation of seating, blinds and shutters;
 - (i) the installation of security systems, including burglar alarms, closed circuit television and public address systems.
 
-## 7.[^key-7288590482b4a5d028b767f4c310f6d5]
+## 7.[^c-7288590482b4a5d028b767f4c310f6d5]
 
 But the services described in article 6 shall be treated as construction services to the extent that they form part of a single supply that includes services described in article 5.
 
-## 8. Excepted supplies[^key-7507e70923da41008b8c3fcea10999a6]
+## 8. Excepted supplies[^c-7507e70923da41008b8c3fcea10999a6]
 
 (1) The supplies referred to in article 3(2) are—
 
@@ -118,24 +118,24 @@ But the services described in article 6 shall be treated as construction service
     - (aa) the intermediary supplier is connected with the expected end user of those services; or
     - (bb) the supplies are made in relation to land, buildings or civil engineering works in which both the intermediary supplier and the expected end user of those services have a relevant interest.
 
-(1A)[^key-5e5d4e51392dd9cb8c843cf7983fcf86] Where a supply falls within paragraph (1)(b), it shall not be treated as an excepted supply unless the recipient has—
+(1A)[^c-5e5d4e51392dd9cb8c843cf7983fcf86] Where a supply falls within paragraph (1)(b), it shall not be treated as an excepted supply unless the recipient has—
 
 - (a) no later than the time that the supply is made, confirmed in writing to the supplier that the requirements specified in paragraph (1)(b) are satisfied in respect of that supply; or
 - (b) received that supply in pursuance of a written agreement in which the recipient has confirmed that those requirements are satisfied in respect of any supply made under that agreement.
 
-(2) But a supply that would otherwise be an excepted supply under paragraph (1) (as qualified by paragraph (1A))[^key-dea18eb7a2ba0ae78c071086c3e8670f] shall not be treated as an excepted supply if—
+(2) But a supply that would otherwise be an excepted supply under paragraph (1) (as qualified by paragraph (1A))[^c-dea18eb7a2ba0ae78c071086c3e8670f] shall not be treated as an excepted supply if—
 
 - (a) at the same time as the making of the supply or at any time before it is made (but not before the commencement of this Order), the supplier makes or has made any other supply of specified services to the same recipient in relation to the same construction site;
-- (b) that other supply is not or was not excepted under paragraph (1) (as qualified by paragraph (1A))[^key-8f057051a0ed7918fa8267bb45d3cd82]; and
+- (b) that other supply is not or was not excepted under paragraph (1) (as qualified by paragraph (1A))[^c-8f057051a0ed7918fa8267bb45d3cd82]; and
 - (c) the supplier and the recipient agree that the supply shall not be treated as an excepted supply.
 
-## 9.[^key-c445696e25106d862a70ce6281b5dfee]
+## 9.[^c-c445696e25106d862a70ce6281b5dfee]
 
 (1) This article applies where there is a supply of specified services comprising more than one identifiable element.
 
 (2) Where this article applies, the supply is not an excepted supply unless all of those elements, if supplied separately, would be excepted under article 8.
 
-## 10. Application of section 55A(3) of the Act[^key-74e8404d4bd8992ebc5014bdbaf79a3b]
+## 10. Application of section 55A(3) of the Act[^c-74e8404d4bd8992ebc5014bdbaf79a3b]
 
 Section 55A(3) of the Act, in so far as it relates to supplies received by a person being treated as supplies made by that person, does not apply in relation to the specified services described in this Order.
 
@@ -171,34 +171,34 @@ A Tax Information and Impact Note covering this instrument has been published an
 
 [^c23727341]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); [section 55A](https://www.legislation.gov.uk/uksi/2019/892/section/55A) was inserted by section 19(1) of the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and was amended by section 50(1) of the [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 203 of, and paragraphs 2 and 6 of Schedule 28 to, the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14). Section 55A(9A) was inserted by section 51 of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1).
 
-[^key-a2b1712a73e2183142e5149cba3dbc6b]: Commencement: Art. 1 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-a2b1712a73e2183142e5149cba3dbc6b]: Commencement: Art. 1 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-bcf3f5f3d7fa3250844d755aecb9f760]: Textual amendment: Words in art. 1(2) substituted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-bcf3f5f3d7fa3250844d755aecb9f760]: Textual amendment: Words in art. 1(2) substituted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-01606793faa4235481be4cbd628fd2d5]: Commencement: Art. 2 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-01606793faa4235481be4cbd628fd2d5]: Commencement: Art. 2 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
 [^c23727351]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-c1b4955fc0b3ab4c0e4fe595ad8afed0]: Commencement: Art. 3 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-c1b4955fc0b3ab4c0e4fe595ad8afed0]: Commencement: Art. 3 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-2e20537b023db38e2af0dad292dfde3e]: Commencement: Art. 4 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-2e20537b023db38e2af0dad292dfde3e]: Commencement: Art. 4 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-53049143f4d448c60e479f820236c59d]: Commencement: Art. 5 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-53049143f4d448c60e479f820236c59d]: Commencement: Art. 5 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-66a5e52f5f5e37781ef40eaf3d34c52d]: Commencement: Art. 6 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-66a5e52f5f5e37781ef40eaf3d34c52d]: Commencement: Art. 6 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-7288590482b4a5d028b767f4c310f6d5]: Commencement: Art. 7 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-7288590482b4a5d028b767f4c310f6d5]: Commencement: Art. 7 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-7507e70923da41008b8c3fcea10999a6]: Commencement: Art. 8 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-7507e70923da41008b8c3fcea10999a6]: Commencement: Art. 8 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
 [^c23727361]: Marginal citation: [S.I. 2005/2045](https://www.legislation.gov.uk/uksi/2005/2045).
 
-[^key-5e5d4e51392dd9cb8c843cf7983fcf86]: Textual amendment: Art. 8(1A) inserted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [4](https://www.legislation.gov.uk/uksi/2020/578/article/4)
+[^c-5e5d4e51392dd9cb8c843cf7983fcf86]: Textual amendment: Art. 8(1A) inserted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [4](https://www.legislation.gov.uk/uksi/2020/578/article/4)
 
-[^key-dea18eb7a2ba0ae78c071086c3e8670f]: Textual amendment: Words in art. 8(2) substituted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/578/article/5/a)
+[^c-dea18eb7a2ba0ae78c071086c3e8670f]: Textual amendment: Words in art. 8(2) substituted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2020/578/article/5/a)
 
-[^key-8f057051a0ed7918fa8267bb45d3cd82]: Textual amendment: Words in art. 8(2)(b) inserted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/578/article/5/b)
+[^c-8f057051a0ed7918fa8267bb45d3cd82]: Textual amendment: Words in art. 8(2)(b) inserted (20.7.2020) by [The Value Added Tax (Section 55A) (Specified Services and Excepted Supplies) (Change of Commencement Day and Amendment) (Coronavirus) Order 2020 (S.I. 2020/578)](https://www.legislation.gov.uk/uksi/2020/578), [arts. 1](https://www.legislation.gov.uk/uksi/2020/578/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/578/article/5/b)
 
-[^key-c445696e25106d862a70ce6281b5dfee]: Commencement: Art. 9 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-c445696e25106d862a70ce6281b5dfee]: Commencement: Art. 9 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
 
-[^key-74e8404d4bd8992ebc5014bdbaf79a3b]: Commencement: Art. 10 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)
+[^c-74e8404d4bd8992ebc5014bdbaf79a3b]: Commencement: Art. 10 in force at 1.3.2021, see art. 1(2) as amended (30.9.2019) by [S.I. 2019/1240](https://www.legislation.gov.uk/uksi/2019/1240), [art. 2](https://www.legislation.gov.uk/uksi/2019/1240/article/2) and (20.7.2020) by [S.I. 2020/578](https://www.legislation.gov.uk/uksi/2020/578), [art. 3](https://www.legislation.gov.uk/uksi/2020/578/article/3)

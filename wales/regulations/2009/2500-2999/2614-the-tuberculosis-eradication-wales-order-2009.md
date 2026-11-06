@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Tuberculosis Eradication (Wales) Order 2009 (revoked)[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+The Tuberculosis Eradication (Wales) Order 2009 (revoked)[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 21 October 2009
 
-[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+## 1. Title, commencement and interpretation[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of Order for the purposes of section 21 of the Animal Health Act 1981[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+## 2. Application of Order for the purposes of section 21 of the Animal Health Act 1981[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Destruction of badgers[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+## 3. Destruction of badgers[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Vaccination of badgers[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+## 4. Vaccination of badgers[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of entry[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+## 5. Powers of entry[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]
+## 6. Offences[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8b3bd98f8daf3e6308aa41588bf3a2b]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2009/2614) revoked (31.3.2011) by [The Badger (Control Area) (Wales) Order 2011 (S.I. 2011/693)](https://www.legislation.gov.uk/wsi/2011/693), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2011/693/article/1/1), [5](https://www.legislation.gov.uk/wsi/2011/693/article/5)
+[^c-a8b3bd98f8daf3e6308aa41588bf3a2b]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2009/2614) revoked (31.3.2011) by [The Badger (Control Area) (Wales) Order 2011 (S.I. 2011/693)](https://www.legislation.gov.uk/wsi/2011/693), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2011/693/article/1/1), [5](https://www.legislation.gov.uk/wsi/2011/693/article/5)

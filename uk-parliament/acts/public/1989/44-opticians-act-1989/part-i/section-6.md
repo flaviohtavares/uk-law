@@ -34,10 +34,10 @@ summary: ''
 
 (5) For the purposes of this section a member of the Council shall not be deemed to have ceased by reason of retirement to be a member of it if he has again been nominated or elected a member of it not later than the date of his retirement.
 
-(6)[^key-2664487276fff96f53e99f9a47c63f9a] Any function delegated to a committee set up under this section may be further delegated by that committee to an officer or employee of the Council except to the extent that the Council limits or prohibits its further delegation.
+(6)[^c-2664487276fff96f53e99f9a47c63f9a] Any function delegated to a committee set up under this section may be further delegated by that committee to an officer or employee of the Council except to the extent that the Council limits or prohibits its further delegation.
 
 (7) The delegation of a function under this section shall not prevent the exercise of the function by the committee by whom the delegation is made.
 
 ## Annotations
 
-[^key-2664487276fff96f53e99f9a47c63f9a]: Textual amendment: S. 6(6)(7) added (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 6(1)](https://www.legislation.gov.uk/uksi/2005/848/article/6/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-2664487276fff96f53e99f9a47c63f9a]: Textual amendment: S. 6(6)(7) added (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 6(1)](https://www.legislation.gov.uk/uksi/2005/848/article/6/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

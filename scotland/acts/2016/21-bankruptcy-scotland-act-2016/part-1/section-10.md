@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Death or withdrawal[^key-8e61a84855e150dbfc1521cc429bcd71]
+## 10. Death or withdrawal[^c-8e61a84855e150dbfc1521cc429bcd71]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e61a84855e150dbfc1521cc429bcd71]: Commencement: S. 10 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8e61a84855e150dbfc1521cc429bcd71]: Commencement: S. 10 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

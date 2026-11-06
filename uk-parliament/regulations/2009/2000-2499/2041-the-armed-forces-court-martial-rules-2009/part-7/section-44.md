@@ -29,8 +29,8 @@ summary: ''
 
 the advance information in relation to him must include a notice that, if he were convicted of the offence, the court would have power to deal with him under section 186(2) for the offence for which he was conditionally discharged.
 
-(3) Where an overseas community order is in force in respect of a defendant, the advance information in relation to him must include a notice that, if he were convicted of the offence while the overseas community order is in force, the court would have the powers conferred by paragraph 25 of Schedule 10 to the Sentencing Code[^key-bdeed6d38fbb99425f48cacd57b4190b].
+(3) Where an overseas community order is in force in respect of a defendant, the advance information in relation to him must include a notice that, if he were convicted of the offence while the overseas community order is in force, the court would have the powers conferred by paragraph 25 of Schedule 10 to the Sentencing Code[^c-bdeed6d38fbb99425f48cacd57b4190b].
 
 ## Annotations
 
-[^key-bdeed6d38fbb99425f48cacd57b4190b]: Textual amendment: Words in rule 44(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 386](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/386) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bdeed6d38fbb99425f48cacd57b4190b]: Textual amendment: Words in rule 44(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 386](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/386) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

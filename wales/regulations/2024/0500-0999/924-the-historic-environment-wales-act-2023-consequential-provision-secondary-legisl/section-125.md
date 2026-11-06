@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. The Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017[^key-701dab2dacbbebd437d4cb906cb7fca4]
+## 125. The Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017[^c-701dab2dacbbebd437d4cb906cb7fca4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Listed Buildings (Review of Listing Decisions) (Wales) Regulations 2017[^f00
 
 ## Annotations
 
-[^key-701dab2dacbbebd437d4cb906cb7fca4]: Commencement: [Reg. 125](https://www.legislation.gov.uk/wsi/2024/924/regulation/125) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-701dab2dacbbebd437d4cb906cb7fca4]: Commencement: [Reg. 125](https://www.legislation.gov.uk/wsi/2024/924/regulation/125) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00055]: Footnote: [S.I. 2017/644 (W. 150)](https://www.legislation.gov.uk/wsi/2017/644).

@@ -34,7 +34,7 @@ An Act to make provision for the decommissioning and cleaning up of installation
 
 \[22nd July 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bc33cbe0ba57632bd99c80421c7305ca]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bc33cbe0ba57632bd99c80421c7305ca]
 
 ## Contents
 
@@ -150,7 +150,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 54 — Functions of senior officers](part-1/section-54.md)
 - [Section 55 — Members of the Constabulary](part-1/section-55.md)
 
-##### Additional services[^key-75e814e21f4e9d027bc553bb2e84d9ff]
+##### Additional services[^c-75e814e21f4e9d027bc553bb2e84d9ff]
 
 - [Section 55A — Provision of additional police services](part-1/section-55a.md)
 - [Section 55B — Provision of assistance to other forces](part-1/section-55b.md)
@@ -368,7 +368,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 152 — Grant of gas interconnector licences to existing operators](part-3/section-152.md)
 - [Section 153 — Extraterritorial application of Gas Act 1986](part-3/section-153.md)
 
-#### Chapter 3 — Special administration regime for energy licensees[^key-5f2612a932ea39cbd9eeade118f49d7f][^key-dd345823bbc29c278b5dd01448e13e50]
+#### Chapter 3 — Special administration regime for energy licensees[^c-5f2612a932ea39cbd9eeade118f49d7f][^c-dd345823bbc29c278b5dd01448e13e50]
 
 *Extent: E+W+S+N.I.*
 
@@ -528,10 +528,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-bc33cbe0ba57632bd99c80421c7305ca]: Modification: Act modified (S.) (6.4.2006) by [Energy Administration (Scotland) Rules 2006 (S.I. 2006/772)](https://www.legislation.gov.uk/uksi/2006/772), [rule 68](https://www.legislation.gov.uk/uksi/2006/772/article/68)
+[^c-bc33cbe0ba57632bd99c80421c7305ca]: Modification: Act modified (S.) (6.4.2006) by [Energy Administration (Scotland) Rules 2006 (S.I. 2006/772)](https://www.legislation.gov.uk/uksi/2006/772), [rule 68](https://www.legislation.gov.uk/uksi/2006/772/article/68)
 
-[^key-75e814e21f4e9d027bc553bb2e84d9ff]: Textual amendment: [S. 55A](https://www.legislation.gov.uk/ukpga/2004/20/section/55A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/1), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-75e814e21f4e9d027bc553bb2e84d9ff]: Textual amendment: [S. 55A](https://www.legislation.gov.uk/ukpga/2004/20/section/55A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/1), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
 
-[^key-5f2612a932ea39cbd9eeade118f49d7f]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2004/20/part/3/chapter/3): power to modify conferred (31.3.2022 for specified purposes, 1.6.2022 in so far as not already in force) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 38](https://www.legislation.gov.uk/ukpga/2022/15/section/38), [44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)[(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
+[^c-5f2612a932ea39cbd9eeade118f49d7f]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2004/20/part/3/chapter/3): power to modify conferred (31.3.2022 for specified purposes, 1.6.2022 in so far as not already in force) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 38](https://www.legislation.gov.uk/ukpga/2022/15/section/38), [44(1)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/c)[(2)(c)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/c)
 
-[^key-dd345823bbc29c278b5dd01448e13e50]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2004/20/part/3/chapter/3) power to apply and modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/52/section/48), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-dd345823bbc29c278b5dd01448e13e50]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2004/20/part/3/chapter/3) power to apply and modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/52/section/48), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

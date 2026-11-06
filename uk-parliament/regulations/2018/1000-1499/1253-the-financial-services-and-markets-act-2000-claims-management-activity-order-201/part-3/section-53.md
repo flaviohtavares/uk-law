@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Penalties for conduct for which the Regulator has given penalty decision: appeal of decision[^key-43fed4d314551b278d4eefb501fa4ab9][^key-1b1912733cacd0bee8ec78c289712999]
+## 53. Penalties for conduct for which the Regulator has given penalty decision: appeal of decision[^c-43fed4d314551b278d4eefb501fa4ab9][^c-1b1912733cacd0bee8ec78c289712999]
 
 *Extent: E+W+S*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-43fed4d314551b278d4eefb501fa4ab9]: Commencement: Art. 53 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-43fed4d314551b278d4eefb501fa4ab9]: Commencement: Art. 53 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-1b1912733cacd0bee8ec78c289712999]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2018/1253/article/53) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-1b1912733cacd0bee8ec78c289712999]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2018/1253/article/53) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00094]: Footnote: Section 208(4) was amended by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 37(1) and paragraphs 1 and 15 of Schedule 9 and the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 24(1) and (2), and paragraphs 1 and 19(1) and (4).

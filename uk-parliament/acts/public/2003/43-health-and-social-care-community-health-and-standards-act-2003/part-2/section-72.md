@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Right of entry[^key-d81835a6aa9ccb92fd4e8b4d1939870b]
+## 72. Right of entry[^c-d81835a6aa9ccb92fd4e8b4d1939870b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81835a6aa9ccb92fd4e8b4d1939870b]: Commencement: S. 72 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)
+[^c-d81835a6aa9ccb92fd4e8b4d1939870b]: Commencement: S. 72 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)

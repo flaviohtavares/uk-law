@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. District salmon fishery boards: openness and accountability[^key-6096873839233d0edba72d419c0e0534]
+## 24. District salmon fishery boards: openness and accountability[^c-6096873839233d0edba72d419c0e0534]
 
 *Extent: S*
 
@@ -199,4 +199,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6096873839233d0edba72d419c0e0534]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2013/7/section/24) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-6096873839233d0edba72d419c0e0534]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2013/7/section/24) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

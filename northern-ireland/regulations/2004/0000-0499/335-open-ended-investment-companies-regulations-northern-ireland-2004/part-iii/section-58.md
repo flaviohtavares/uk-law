@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Execution of deeds outside the United Kingdom[^key-1933d5471c795e2d799da7a64dda9de8]
+## 58. Execution of deeds outside the United Kingdom[^c-1933d5471c795e2d799da7a64dda9de8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1933d5471c795e2d799da7a64dda9de8]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2004/335/regulation/58) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-1933d5471c795e2d799da7a64dda9de8]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2004/335/regulation/58) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

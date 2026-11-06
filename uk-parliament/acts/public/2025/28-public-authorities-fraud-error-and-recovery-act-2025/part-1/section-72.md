@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Crown etc application[^key-b3a2fb6783956522f7ce8d57ab7bca93][^key-2626fa1473c1a2ea270359f83b53c2ac]
+## 72. Crown etc application[^c-b3a2fb6783956522f7ce8d57ab7bca93][^c-2626fa1473c1a2ea270359f83b53c2ac]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3a2fb6783956522f7ce8d57ab7bca93]: Commencement: S. 72 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-b3a2fb6783956522f7ce8d57ab7bca93]: Commencement: S. 72 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-2626fa1473c1a2ea270359f83b53c2ac]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2025/28/section/72) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-2626fa1473c1a2ea270359f83b53c2ac]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2025/28/section/72) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

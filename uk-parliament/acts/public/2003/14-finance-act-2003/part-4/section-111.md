@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where regulations cease to have effect under section 110, a claim may be made to the Inland Revenue for repayment of any tax, interest or penalty that would not have been payable but for the regulations[^key-1928718d4d852404266929cb46c10cfb].
+(1) Where regulations cease to have effect under section 110, a claim may be made to the Inland Revenue for repayment of any tax, interest or penalty that would not have been payable but for the regulations[^c-1928718d4d852404266929cb46c10cfb].
 
 (2) Section 89 (interest on repayment of tax overpaid etc) applies to a repayment under this section.
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c5522311]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-1928718d4d852404266929cb46c10cfb]: Textual amendment: Words in s. 111(1) substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 299(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/299/5)
+[^c-1928718d4d852404266929cb46c10cfb]: Textual amendment: Words in s. 111(1) substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 299(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/299/5)

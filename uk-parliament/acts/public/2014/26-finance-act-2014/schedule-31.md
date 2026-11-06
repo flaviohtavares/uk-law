@@ -71,7 +71,7 @@ Section 215
 
 (4) In subsection (6)(b) the words from “and (where different)” to the end are to be ignored, and accordingly subsection (7) does not apply.
 
-### Additional penalty for unreasonable tax appeal[^key-e848990ed8e8a0293536d31f991caf7a]
+### Additional penalty for unreasonable tax appeal[^c-e848990ed8e8a0293536d31f991caf7a]
 
 **4A.** Section 208A(3) applies, in relation to a partnership follower notice, as if the first reference to P were to each relevant partner.
 
@@ -81,9 +81,9 @@ Section 215
 
 (2) Section 209 applies subject to the following modifications—
 
-- (a) the total amount of the penalties under section 208(2) for which the relevant partners are liable is 12%[^key-aa45129bc10e91120abb63ffd0a036a8] of the value of the denied advantage,
-- (aa)[^key-cb10d0a6da642e09adc7f51427e13a61] the total amount of the penalties under section 208A(3) for which the relevant partners are liable is 8% of the value of the denied advantage,
-- (b) the amount of the penalty under section 208(2) or 208A(3) (as modified by this paragraph)[^key-5e994e6fb0af8bad999249803c585407] for which each relevant partner is liable is that partner's appropriate share of that total amount, and
+- (a) the total amount of the penalties under section 208(2) for which the relevant partners are liable is 12%[^c-aa45129bc10e91120abb63ffd0a036a8] of the value of the denied advantage,
+- (aa)[^c-cb10d0a6da642e09adc7f51427e13a61] the total amount of the penalties under section 208A(3) for which the relevant partners are liable is 8% of the value of the denied advantage,
+- (b) the amount of the penalty under section 208(2) or 208A(3) (as modified by this paragraph)[^c-5e994e6fb0af8bad999249803c585407] for which each relevant partner is liable is that partner's appropriate share of that total amount, and
 - (c) the value of the denied advantage for the purposes of calculating the total amount of the penalties is—
   - (i) in the case of a notice given under section 204(2)(a), the net amount of the amendments required to be made to the partnership return to counteract the denied advantage, and
   - (ii) in the case of a notice given under section 204(2)(b), the net amount of the amendments that have been made to the partnership return to counteract the denied advantage,
@@ -103,13 +103,13 @@ Section 215
 
 section 210(1) does not apply, but HMRC may reduce the total amount of the penalties determined in accordance with sub-paragraph (2)(a) to reflect the quality of that co-operation.
 
-(5) Nothing in sub-paragraph (4) permits HMRC to reduce the total amount of the penalties under section 208(2) (as modified by this paragraph)[^key-5d89716d6448e5de6b494bbe191d8c89] to less than 4% of the value of the denied advantage (as determined in accordance with sub-paragraph (2)(c)).
+(5) Nothing in sub-paragraph (4) permits HMRC to reduce the total amount of the penalties under section 208(2) (as modified by this paragraph)[^c-5d89716d6448e5de6b494bbe191d8c89] to less than 4% of the value of the denied advantage (as determined in accordance with sub-paragraph (2)(c)).
 
-(6) For the purposes of section 212, a penalty imposed on a relevant partner by virtue of paragraph 4(2) or 4A[^key-e9c883fff2699d031e9f271260d33048] is to be treated as if it were determined by reference to such additional amount of tax as is due and payable by the relevant partner as a result of the counteraction of the denied advantage.
+(6) For the purposes of section 212, a penalty imposed on a relevant partner by virtue of paragraph 4(2) or 4A[^c-e9c883fff2699d031e9f271260d33048] is to be treated as if it were determined by reference to such additional amount of tax as is due and payable by the relevant partner as a result of the counteraction of the denied advantage.
 
 (7) The right of appeal under section 214 extends to—
 
-- (a) a decision that penalties under section 208(2)[^key-e50570d42a2a198cb4ebb518a439f8fe] are payable by the relevant partners by virtue of this paragraph, and
+- (a) a decision that penalties under section 208(2)[^c-e50570d42a2a198cb4ebb518a439f8fe] are payable by the relevant partners by virtue of this paragraph, and
 - (b) a decision as to the total amount of those penalties payable by those partners,
 
 but not to a decision as to the appropriate share of, or the amount of a penalty payable by, a relevant partner.
@@ -118,7 +118,7 @@ but not to a decision as to the appropriate share of, or the amount of a penalty
 
 (9) Section 214(8) applies to an appeal by virtue of sub-paragraph (7)(a), and section 214(9) to an appeal by virtue of sub-paragraph (7)(b).
 
-(9A)[^key-7ab10676cf894dbe89060f4c630c2be6] The right of appeal under section 214A extends to—
+(9A)[^c-7ab10676cf894dbe89060f4c630c2be6] The right of appeal under section 214A extends to—
 
 - (a) a decision that penalties under section 208A(3) are payable by the relevant partners by virtue of this paragraph, and
 - (b) a decision as to the total amount of those penalties payable by those partners,
@@ -131,26 +131,26 @@ but not to a decision as to the appropriate share of, or the amount of a penalty
 
 (10) An appeal by virtue of sub-paragraph (7) may be brought only by the representative partner or, if that partner is no longer available, the person who is for the time being the successor of that partner.
 
-(11) The Treasury may by order made by statutory instrument vary the rates for the time being specified in sub-paragraphs (2)(a) and (aa)[^key-f9f3cef4d92ac6751d2195910a769fbb] and (5).
+(11) The Treasury may by order made by statutory instrument vary the rates for the time being specified in sub-paragraphs (2)(a) and (aa)[^c-f9f3cef4d92ac6751d2195910a769fbb] and (5).
 
 (12) Any statutory instrument containing an order under sub-paragraph (10) is subject to annulment in pursuance of a resolution of the House of Commons.
 
 ## Annotations
 
-[^key-e848990ed8e8a0293536d31f991caf7a]: Textual amendment: [Sch. 31 para. 4A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/4A) and cross-heading inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/11)
+[^c-e848990ed8e8a0293536d31f991caf7a]: Textual amendment: [Sch. 31 para. 4A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/4A) and cross-heading inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/11)
 
-[^key-aa45129bc10e91120abb63ffd0a036a8]: Textual amendment: Word in [Sch. 31 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/2/a) substituted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/2/a)
+[^c-aa45129bc10e91120abb63ffd0a036a8]: Textual amendment: Word in [Sch. 31 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/2/a) substituted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/2/a)
 
-[^key-cb10d0a6da642e09adc7f51427e13a61]: Textual amendment: [Sch. 31 para. 5(2)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/2/aa) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/2/b)
+[^c-cb10d0a6da642e09adc7f51427e13a61]: Textual amendment: [Sch. 31 para. 5(2)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/2/aa) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/2/b)
 
-[^key-5e994e6fb0af8bad999249803c585407]: Textual amendment: Words in [Sch. 31 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/2/b) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/2/c)
+[^c-5e994e6fb0af8bad999249803c585407]: Textual amendment: Words in [Sch. 31 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/2/b) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/2/c)
 
-[^key-5d89716d6448e5de6b494bbe191d8c89]: Textual amendment: Words in [Sch. 31 para. 5(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/5) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/3)
+[^c-5d89716d6448e5de6b494bbe191d8c89]: Textual amendment: Words in [Sch. 31 para. 5(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/5) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/3)
 
-[^key-e9c883fff2699d031e9f271260d33048]: Textual amendment: Words in [Sch. 31 para. 5(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/6) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/4)
+[^c-e9c883fff2699d031e9f271260d33048]: Textual amendment: Words in [Sch. 31 para. 5(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/6) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/4)
 
-[^key-e50570d42a2a198cb4ebb518a439f8fe]: Textual amendment: Words in [Sch. 31 para. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/7/a) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/5)
+[^c-e50570d42a2a198cb4ebb518a439f8fe]: Textual amendment: Words in [Sch. 31 para. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/7/a) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/5)
 
-[^key-7ab10676cf894dbe89060f4c630c2be6]: Textual amendment: [Sch. 31 para. 5(9A)-(9C)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/9A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/6)
+[^c-7ab10676cf894dbe89060f4c630c2be6]: Textual amendment: [Sch. 31 para. 5(9A)-(9C)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/9A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/6)
 
-[^key-f9f3cef4d92ac6751d2195910a769fbb]: Textual amendment: Words in [Sch. 31 para. 5(11)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/11) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/7)
+[^c-f9f3cef4d92ac6751d2195910a769fbb]: Textual amendment: Words in [Sch. 31 para. 5(11)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/31/paragraph/5/11) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 12(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/12/7)

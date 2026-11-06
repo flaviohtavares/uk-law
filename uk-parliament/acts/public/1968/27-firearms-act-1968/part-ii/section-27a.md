@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27A. Conditions for storage etc of certain firearms[^key-d185f59d87bba670c948f761d9eab702]
+## 27A. Conditions for storage etc of certain firearms[^c-d185f59d87bba670c948f761d9eab702]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d185f59d87bba670c948f761d9eab702]: Textual amendment: S. 27A inserted (16.5.2019) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/61/2), [70(5)(l)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/l)
+[^c-d185f59d87bba670c948f761d9eab702]: Textual amendment: S. 27A inserted (16.5.2019) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/61/2), [70(5)(l)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/l)

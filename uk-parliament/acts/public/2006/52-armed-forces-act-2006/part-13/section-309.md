@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Offences of misbehaviour in court etc[^key-1fa937043b1b7b037d0170c0c8029d15][^key-b2f39532ca4d6058fdf32838e26f1b59]
+## 309. Offences of misbehaviour in court etc[^c-1fa937043b1b7b037d0170c0c8029d15][^c-b2f39532ca4d6058fdf32838e26f1b59]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fa937043b1b7b037d0170c0c8029d15]: Commencement: S. 309 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1fa937043b1b7b037d0170c0c8029d15]: Commencement: S. 309 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b2f39532ca4d6058fdf32838e26f1b59]: Commencement: S. 309 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b2f39532ca4d6058fdf32838e26f1b59]: Commencement: S. 309 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

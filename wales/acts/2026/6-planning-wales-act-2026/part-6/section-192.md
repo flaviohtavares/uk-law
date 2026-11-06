@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 192. Offences[^key-a95b36815c04bb298247f54b405333e7]
+## 192. Offences[^c-a95b36815c04bb298247f54b405333e7]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a95b36815c04bb298247f54b405333e7]: Commencement: S. 192 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a95b36815c04bb298247f54b405333e7]: Commencement: S. 192 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

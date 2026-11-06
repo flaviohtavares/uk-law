@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Matching after transfer.[^key-2073dd6ea6888c1faec929379c752f64]
+## 95. Matching after transfer.[^c-2073dd6ea6888c1faec929379c752f64]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2073dd6ea6888c1faec929379c752f64]: Textual amendment: Ss. 92-95 omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/113)
+[^c-2073dd6ea6888c1faec929379c752f64]: Textual amendment: Ss. 92-95 omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/113)

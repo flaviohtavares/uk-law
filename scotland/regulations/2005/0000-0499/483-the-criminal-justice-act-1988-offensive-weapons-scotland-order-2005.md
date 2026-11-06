@@ -42,17 +42,17 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 141(2) of the Criminal Justice Act 1988[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order, a draft of which has, in accordance with section 141(3) of that Act, been laid before and approved by resolution of the Scottish Parliament:
 
-## 1. Citation, commencement and extent[^key-0e95af8ef7061bff2a57c302a9a33af8]
+## 1. Citation, commencement and extent[^c-0e95af8ef7061bff2a57c302a9a33af8]
 
 (1) This Order may be cited as the Criminal Justice Act 1988 (Offensive Weapons) (Scotland) Order 2005 and shall come into force on the day after the day on which it is made.
 
 (2) This Order extends to Scotland and, in so far as it extends beyond Scotland, it does so only as a matter of Scots law.
 
-## 2. Application of section 141 of the Criminal Justice Act 1988[^key-ad69e08a68cc862cbd3e3e6e30aa7b85]
+## 2. Application of section 141 of the Criminal Justice Act 1988[^c-ad69e08a68cc862cbd3e3e6e30aa7b85]
 
 The Schedule to this Order shall have effect.
 
-## 3. Revocation[^key-ae46c0cc403f7f9bbc63d9806ae3dc82]
+## 3. Revocation[^c-ae46c0cc403f7f9bbc63d9806ae3dc82]
 
 The Criminal Justice Act 1988 (Offensive Weapons) Order 1988[^f00002] and the Criminal Justice Act 1988 (Offensive Weapons) Amendment (Scotland) Order 2002[^f00003] are hereby revoked.
 
@@ -68,7 +68,7 @@ St Andrew’s House, Edinburgh
 
 Article 2
 
-**1.**[^key-811540211389ae60cf03f69eed4258aa] Section 141 of the Criminal Justice Act 1988 (offensive weapons) shall apply to the following descriptions of weapons, other than weapons of those descriptions which are antiques for the purposes of this Schedule:
+**1.**[^c-811540211389ae60cf03f69eed4258aa] Section 141 of the Criminal Justice Act 1988 (offensive weapons) shall apply to the following descriptions of weapons, other than weapons of those descriptions which are antiques for the purposes of this Schedule:
 
 - (a) a knuckleduster, that is, a band of metal or other hard material worn on one or more fingers, and designed to cause injury, and any weapon incorporating a knuckleduster;
 - (b) a swordstick, that is, a hollow walking stick or cane containing a blade which may be used as a sword;
@@ -87,16 +87,16 @@ Article 2
 - (o) a disguised knife, that is any knife which has a concealed blade or concealed sharp point and is designed to appear to be an everyday object of a kind commonly carried on the person or in a handbag, briefcase, or other hand luggage (such as a comb, brush, writing instrument, cigarette lighter, key, lipstick or telephone);
 - (p) a stealth knife, that is a knife or spike, which has a blade, or sharp point, made from a material that is not readily detectable by apparatus used for detecting metal and which is not designed for domestic use or for use in the processing, preparation or consumption of food or as a toy;
 - (q) a straight, side handled or friction lock truncheon (sometimes known as a baton).
-- (r)[^key-9bb95a0345cfb2f3d483dcc4cc4d44e9] the weapon sometimes known as a “cyclone knife” or “spiral knife” being a weapon with—
+- (r)[^c-9bb95a0345cfb2f3d483dcc4cc4d44e9] the weapon sometimes known as a “cyclone knife” or “spiral knife” being a weapon with—
   - (i) a handle,
   - (ii) a blade with two or more cutting edges, each of which forms a helix, and
   - (iii) a sharp point at the end of the blade.
-- (s)[^key-b7d15aef77a675b676cbd508bb2ab840] the weapon sometimes known as a “zombie knife”, “zombie killer knife”, or “zombie slayer knife”, being a blade with—
+- (s)[^c-b7d15aef77a675b676cbd508bb2ab840] the weapon sometimes known as a “zombie knife”, “zombie killer knife”, or “zombie slayer knife”, being a blade with—
   - (i) a cutting edge,
   - (ii) a serrated edge, and
   - (iii) images or words (whether on the blade or handle) that suggest it is to be used for the purpose of violence.
 
-**2.**[^key-929316b02d612693688204694233497d] For the purposes of this Schedule, a weapon is an antique if it was manufactured more than 100 years before the date of any offence alleged to have been committed in respect of that weapon under subsection (1) or (1A)[^key-04910168d96d657b891e58cca77f52d4] of the said section 141 or section 50(2) or (3) of the Customs and Excise Management Act 1979[^f00004] (improper importation).
+**2.**[^c-929316b02d612693688204694233497d] For the purposes of this Schedule, a weapon is an antique if it was manufactured more than 100 years before the date of any offence alleged to have been committed in respect of that weapon under subsection (1) or (1A)[^c-04910168d96d657b891e58cca77f52d4] of the said section 141 or section 50(2) or (3) of the Customs and Excise Management Act 1979[^f00004] (improper importation).
 
 (This note is not part of the Order)
 
@@ -114,24 +114,24 @@ By virtue of article 1(1), the Order comes into force on the day after the day o
 
 [^f00001]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0e95af8ef7061bff2a57c302a9a33af8]: Commencement: Art. 1 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
+[^c-0e95af8ef7061bff2a57c302a9a33af8]: Commencement: Art. 1 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
 
-[^key-ad69e08a68cc862cbd3e3e6e30aa7b85]: Commencement: Art. 2 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
+[^c-ad69e08a68cc862cbd3e3e6e30aa7b85]: Commencement: Art. 2 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
 
-[^key-ae46c0cc403f7f9bbc63d9806ae3dc82]: Commencement: Art. 3 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
+[^c-ae46c0cc403f7f9bbc63d9806ae3dc82]: Commencement: Art. 3 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
 
 [^f00002]: Footnote: S.I. [1988/2019](https://www.legislation.gov.uk/uksi/1988/2019).
 
 [^f00003]: Footnote: [S.S.I. 2002/323](https://www.legislation.gov.uk/ssi/2002/323).
 
-[^key-811540211389ae60cf03f69eed4258aa]: Commencement: Sch. para. 1 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
+[^c-811540211389ae60cf03f69eed4258aa]: Commencement: Sch. para. 1 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
 
-[^key-9bb95a0345cfb2f3d483dcc4cc4d44e9]: Textual amendment: [Sch. para. 1(r)](https://www.legislation.gov.uk/ssi/2005/483/schedule/paragraph/1/r) inserted (28.6.2022) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 47(12)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/12), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2) (with [s. 47(14)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/14)); [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
+[^c-9bb95a0345cfb2f3d483dcc4cc4d44e9]: Textual amendment: [Sch. para. 1(r)](https://www.legislation.gov.uk/ssi/2005/483/schedule/paragraph/1/r) inserted (28.6.2022) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 47(12)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/12), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2) (with [s. 47(14)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/14)); [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
 
-[^key-b7d15aef77a675b676cbd508bb2ab840]: Textual amendment: [Sch. para. 1(s)](https://www.legislation.gov.uk/ssi/2005/483/schedule/paragraph/1/s) inserted (23.6.2022) by [The Criminal Justice Act 1988 (Offensive Weapons) (Amendment, Surrender and Compensation) (Scotland) Order 2022 (S.S.I. 2022/218)](https://www.legislation.gov.uk/ssi/2022/218), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/218/article/1/1), [2](https://www.legislation.gov.uk/ssi/2022/218/article/2)
+[^c-b7d15aef77a675b676cbd508bb2ab840]: Textual amendment: [Sch. para. 1(s)](https://www.legislation.gov.uk/ssi/2005/483/schedule/paragraph/1/s) inserted (23.6.2022) by [The Criminal Justice Act 1988 (Offensive Weapons) (Amendment, Surrender and Compensation) (Scotland) Order 2022 (S.S.I. 2022/218)](https://www.legislation.gov.uk/ssi/2022/218), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/218/article/1/1), [2](https://www.legislation.gov.uk/ssi/2022/218/article/2)
 
-[^key-929316b02d612693688204694233497d]: Commencement: Sch. para. 2 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
+[^c-929316b02d612693688204694233497d]: Commencement: Sch. para. 2 in force at 29.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2005/483/article/1/1)
 
-[^key-04910168d96d657b891e58cca77f52d4]: Textual amendment: Words in [sch. para. 2](https://www.legislation.gov.uk/ssi/2005/483/schedule/paragraph/2) inserted (27.3.2023) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 47(13)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/13), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2) (with [s. 47(14)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/14)); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/c)
+[^c-04910168d96d657b891e58cca77f52d4]: Textual amendment: Words in [sch. para. 2](https://www.legislation.gov.uk/ssi/2005/483/schedule/paragraph/2) inserted (27.3.2023) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 47(13)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/13), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2) (with [s. 47(14)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/14)); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/c)
 
 [^f00004]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).

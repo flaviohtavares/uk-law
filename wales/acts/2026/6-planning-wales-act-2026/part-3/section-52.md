@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Requirement for applicant to carry out pre-application consultation and publicity[^key-fb18521403d5565b381dadd58c786367]
+## 52. Requirement for applicant to carry out pre-application consultation and publicity[^c-fb18521403d5565b381dadd58c786367]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb18521403d5565b381dadd58c786367]: Commencement: S. 52 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fb18521403d5565b381dadd58c786367]: Commencement: S. 52 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

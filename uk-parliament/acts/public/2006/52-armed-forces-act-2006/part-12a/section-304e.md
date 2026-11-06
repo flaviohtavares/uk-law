@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304E. Review of sentence following failure to assist[^key-b376c68d38e56095fc5c01904fb0b14c][^key-99a976f6c0eb62a36cf6e9caec64ec3b]
+## 304E. Review of sentence following failure to assist[^c-b376c68d38e56095fc5c01904fb0b14c][^c-99a976f6c0eb62a36cf6e9caec64ec3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b376c68d38e56095fc5c01904fb0b14c]: Textual amendment: S. 304E inserted (17.4.2024 for specified purposes, 16.10.2024 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 11](https://www.legislation.gov.uk/ukpga/2016/21/section/11), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/562/regulation/2/b); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/2)
+[^c-b376c68d38e56095fc5c01904fb0b14c]: Textual amendment: S. 304E inserted (17.4.2024 for specified purposes, 16.10.2024 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 11](https://www.legislation.gov.uk/ukpga/2016/21/section/11), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/562/regulation/2/b); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/2)
 
-[^key-99a976f6c0eb62a36cf6e9caec64ec3b]: Textual amendment: [Pt. 12A heading and s. 304A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-99a976f6c0eb62a36cf6e9caec64ec3b]: Textual amendment: [Pt. 12A heading and s. 304A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)

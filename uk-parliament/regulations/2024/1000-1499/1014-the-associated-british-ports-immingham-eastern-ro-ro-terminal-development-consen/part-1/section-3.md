@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Disapplication and modification of legislative provisions[^key-137c56f5866eaf69fcd2cd77057dc285]
+## 3. Disapplication and modification of legislative provisions[^c-137c56f5866eaf69fcd2cd77057dc285]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-137c56f5866eaf69fcd2cd77057dc285]: Commencement: Art. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-137c56f5866eaf69fcd2cd77057dc285]: Commencement: Art. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00024]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 

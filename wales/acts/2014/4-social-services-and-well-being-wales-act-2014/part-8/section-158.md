@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Intervention: duty to report[^key-f6cdba2f373231fa3b272d5c9dcf5009]
+## 158. Intervention: duty to report[^c-f6cdba2f373231fa3b272d5c9dcf5009]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the Welsh Ministers exercise their power of direction under section 153, 1
 
 ## Annotations
 
-[^key-f6cdba2f373231fa3b272d5c9dcf5009]: Commencement: S. 158 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-f6cdba2f373231fa3b272d5c9dcf5009]: Commencement: S. 158 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

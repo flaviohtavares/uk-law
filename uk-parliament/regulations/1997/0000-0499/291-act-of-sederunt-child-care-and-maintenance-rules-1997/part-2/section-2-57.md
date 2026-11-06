@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.57. Communication to the Registrar General[^key-db309ec78891d8cad21964f55de5220e]
+## 2.57. Communication to the Registrar General[^c-db309ec78891d8cad21964f55de5220e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The communication to the Registrar General of a parental order required to be ma
 
 ## Annotations
 
-[^key-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))
+[^c-db309ec78891d8cad21964f55de5220e]: Textual amendment: Ch. 2 Pt. 6 substituted (6.4.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Human Fertilisation and Embryology Act 2008) 2010 (S.S.I. 2010/137)](https://www.legislation.gov.uk/ssi/2010/137), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/137/paragraph/2/2) (with [para. 3](https://www.legislation.gov.uk/ssi/2010/137/paragraph/3))

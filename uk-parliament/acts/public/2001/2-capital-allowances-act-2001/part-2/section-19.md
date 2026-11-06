@@ -28,7 +28,7 @@ summary: ''
 
 (4) A person who has more than one item of plant or machinery that is the subject of special leasing has a separate qualifying activity in relation to each item.
 
-(5) If a company carrying on any long-term business[^key-9467eabb27644315c80dc76d5bc7a142]—
+(5) If a company carrying on any long-term business[^c-9467eabb27644315c80dc76d5bc7a142]—
 
 - (a) hires out plant or machinery which is an investment asset (as defined by section 545(2)), and
 - (b) does not do so in the course of a property business,
@@ -37,4 +37,4 @@ the company is to be treated for the purposes of subsection (1) as hiring out th
 
 ## Annotations
 
-[^key-9467eabb27644315c80dc76d5bc7a142]: Textual amendment: Words in s. 19(5) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 95](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/95)
+[^c-9467eabb27644315c80dc76d5bc7a142]: Textual amendment: Words in s. 19(5) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 95](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/95)

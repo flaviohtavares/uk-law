@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Transitional and saving provisions[^key-1d628f3d55ea1ea311af2a1c99a8595b]
+## 6. Transitional and saving provisions[^c-1d628f3d55ea1ea311af2a1c99a8595b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The amendments and repeals made by this Order have effect subject to the transit
 
 ## Annotations
 
-[^key-1d628f3d55ea1ea311af2a1c99a8595b]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-1d628f3d55ea1ea311af2a1c99a8595b]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)

@@ -80,7 +80,7 @@ shall be deemed to have retired on the passing of this Act and no election shall
 
 and make such incidental, consequential, transitional or supplementary provision as may appear to the Secretary of State to be necessary or proper, including provision amending or revoking any provision of an order made under the said paragraph 3.
 
-(3)[^key-19c0be7671c554ccb695d2d699b88cdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-19c0be7671c554ccb695d2d699b88cdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An order under subsection (2) above shall be treated as having been made under paragraph 3 of the said Schedule 3 and may be varied or revoked accordingly.
 
@@ -102,4 +102,4 @@ This Act may be cited as the Charlwood and Horley Act 1974.
 
 [^c705077]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-19c0be7671c554ccb695d2d699b88cdb]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1974/11/section/2/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 1
+[^c-19c0be7671c554ccb695d2d699b88cdb]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/1974/11/section/2/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 1

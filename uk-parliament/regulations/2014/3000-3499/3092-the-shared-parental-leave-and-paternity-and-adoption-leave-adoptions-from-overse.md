@@ -46,11 +46,11 @@ The Secretary of State, in exercise of the powers conferred by sections 47C(2), 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-7e345b9a5940d2128d16e72c7bc2be7a]
+### 1. Citation and commencement[^c-7e345b9a5940d2128d16e72c7bc2be7a]
 
 These Regulations may be cited as the Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 and come into force on 5th April 2015.
 
-### 2. Interpretation[^key-aad4e30c17c7dcd8788fe53d9845f2f0]
+### 2. Interpretation[^c-aad4e30c17c7dcd8788fe53d9845f2f0]
 
 In these Regulations—
 
@@ -60,23 +60,23 @@ In these Regulations—
 
 ## PART 2 — Application of the Maternity and Adoption Leave (Curtailment) Regulations 2014
 
-### 3. Application of the Maternity and Adoption Leave (Curtailment) Regulations 2014 to adoptions from overseas[^key-a5b5dcc0679a181b80171cdc36901622]
+### 3. Application of the Maternity and Adoption Leave (Curtailment) Regulations 2014 to adoptions from overseas[^c-a5b5dcc0679a181b80171cdc36901622]
 
 (1) The provisions of the Maternity and Adoption Leave (Curtailment) Regulations 2014[^f00004], insofar as they provide for the curtailment of statutory adoption leave, apply to adoptions from overseas, subject to the modifications set out in paragraph (2) and regulations 4 to 6 below.
 
 (2) Any references in the provisions of the Maternity and Adoption Leave (Curtailment) Regulations 2014 to the provisions in Chapter 1B of Part 8 of the Employment Rights Act 1996 Act[^f00005] must be construed as references to the provisions of Chapter 1B as modified by the Application Regulations.
 
-### 4. Modifications to the Maternity and Adoption Leave (Curtailment) Regulations 2014[^key-6f663eae05e7a45c9ea668178bb7d24d]
+### 4. Modifications to the Maternity and Adoption Leave (Curtailment) Regulations 2014[^c-6f663eae05e7a45c9ea668178bb7d24d]
 
 The Maternity and Adoption Leave (Curtailment) Regulations 2014 are modified as follows.
 
-**5.**[^key-0d26ea6c6bdbb2d1a4f198c428a38db1] In regulation 2 (application) for paragraph (2) substitute—
+**5.**[^c-0d26ea6c6bdbb2d1a4f198c428a38db1] In regulation 2 (application) for paragraph (2) substitute—
 
 > (2) Part 3 of these Regulations has effect only in relation to children who enter Great Britain on or after 5th April 2015.
 
 .
 
-**6.**[^key-984ddd87427294a48f3b67e43dd0ba9d] (1) Regulation 3 (interpretation) is modified as follows.
+**6.**[^c-984ddd87427294a48f3b67e43dd0ba9d] (1) Regulation 3 (interpretation) is modified as follows.
 
 (2) In paragraph (1)—
 
@@ -98,7 +98,7 @@ The Maternity and Adoption Leave (Curtailment) Regulations 2014 are modified as 
 
 ## PART 3 — Application of the Shared Parental Leave Regulations 2014
 
-### 7. Application of the Shared Parental Leave Regulations 2014 to adoptions from overseas[^key-5c17d5bf6a5ad97e5d4c9b72c6437853]
+### 7. Application of the Shared Parental Leave Regulations 2014 to adoptions from overseas[^c-5c17d5bf6a5ad97e5d4c9b72c6437853]
 
 (1) The provisions of the Shared Parental Leave Regulations 2014[^f00007] mentioned in paragraph (2), insofar as they apply to shared parental leave (adoption), apply to adoptions from overseas, subject to the modifications set out in paragraphs (3) and (4) and regulations 8 to 21 below.
 
@@ -113,17 +113,17 @@ The Maternity and Adoption Leave (Curtailment) Regulations 2014 are modified as 
 
 (4) Any references in the provisions of the Shared Parental Leave Regulations 2014 mentioned in paragraph (2) to other provisions of those Regulations must be construed as references to those provisions as modified by these Regulations.
 
-### 8. Modifications to the Shared Parental Leave Regulations 2014 for the purposes of adoptions from overseas[^key-bd8c2624801c16a86ee8ae612b5a4f72]
+### 8. Modifications to the Shared Parental Leave Regulations 2014 for the purposes of adoptions from overseas[^c-bd8c2624801c16a86ee8ae612b5a4f72]
 
 The Shared Parental Leave Regulations 2014 are modified as follows.
 
-**9.**[^key-f88098d6b54910fc551bd0c81e7f8436] In regulation 2 (application) for paragraph (2) substitute—
+**9.**[^c-f88098d6b54910fc551bd0c81e7f8436] In regulation 2 (application) for paragraph (2) substitute—
 
 > (2) The provisions relating to shared parental leave in Part 3 have effect only in relation to children who enter Great Britain on or after 5th April 2015.
 
 .
 
-**10.**[^key-f14ba6ebd8b64d24dbe0be6fc93719db] (1) Regulation 3 (interpretation) is modified as follows.
+**10.**[^c-f14ba6ebd8b64d24dbe0be6fc93719db] (1) Regulation 3 (interpretation) is modified as follows.
 
 (2) In paragraph (1)—
 
@@ -148,25 +148,25 @@ The Shared Parental Leave Regulations 2014 are modified as follows.
 
   .
 
-**11.**[^key-abae1d6b12225642ee069bc007a18630] (1) Regulation 20 (adopter’s entitlement to shared parental leave) is modified as follows.
+**11.**[^c-abae1d6b12225642ee069bc007a18630] (1) Regulation 20 (adopter’s entitlement to shared parental leave) is modified as follows.
 
 (2) In paragraphs (2)(b) and (3)(b) for “of the placement for adoption of C” substitute “on which C enters Great Britain”.
 
 (3) In paragraph (4) for “placed for adoption through a single placement” substitute “adopted as part of the same arrangement”.
 
-**12.**[^key-d3f27da18b44a7ecf827fd12e51f412a] (1) Regulation 21 (adopter’s partner’s entitlement to shared parental leave) is modified as follows.
+**12.**[^c-d3f27da18b44a7ecf827fd12e51f412a] (1) Regulation 21 (adopter’s partner’s entitlement to shared parental leave) is modified as follows.
 
 (2) In paragraphs (2)(b) and (3)(b) for “of the placement for adoption of C” substitute “on which C enters Great Britain”.
 
 (3) In paragraph (4) for “placed for adoption through a single placement” substitute “adopted as part of the same arrangement”.
 
-**13.**[^key-1507aa91e2dfccfde35e12b9dd5070df] In regulation 23 (periods when shared parental leave may be taken), for paragraph (1) substitute—
+**13.**[^c-1507aa91e2dfccfde35e12b9dd5070df] In regulation 23 (periods when shared parental leave may be taken), for paragraph (1) substitute—
 
 > (1) Shared parental leave may be taken at any time within the period which begins on the date on which C enters Great Britain (or where more than one child is adopted as a result of the same arrangement, the date on which the first child entered Great Britain) and ends on the day before the first anniversary of that date.
 
 .
 
-**14.**[^key-bf35c7c21d299e561a1fe98e48251d99] (1) Regulation 24 (adopter’s notice of entitlement) is modified as follows.
+**14.**[^c-bf35c7c21d299e561a1fe98e48251d99] (1) Regulation 24 (adopter’s notice of entitlement) is modified as follows.
 
 (2) For sub-paragraph (c) in paragraph (2) substitute—
 
@@ -186,7 +186,7 @@ The Shared Parental Leave Regulations 2014 are modified as follows.
 
 .
 
-**15.**[^key-07ab59aa498d95304c7575c468883414] (1) Regulation 25 (adopter’s partner’s notice of entitlement) is modified as follows.
+**15.**[^c-07ab59aa498d95304c7575c468883414] (1) Regulation 25 (adopter’s partner’s notice of entitlement) is modified as follows.
 
 (2) For sub-paragraph (c) in paragraph (2) substitute—
 
@@ -206,7 +206,7 @@ The Shared Parental Leave Regulations 2014 are modified as follows.
 
 .
 
-**16.**[^key-1cbbb838b7dedc44e4758958362b6e5e] (1) Regulation 26 (supplementary evidence) is modified as follows.
+**16.**[^c-1cbbb838b7dedc44e4758958362b6e5e] (1) Regulation 26 (supplementary evidence) is modified as follows.
 
 (2) For sub-paragraph (a) of paragraph (1) substitute—
 
@@ -220,7 +220,7 @@ The Shared Parental Leave Regulations 2014 are modified as follows.
 
 .
 
-**17.**[^key-f9ed0988367442dc6ec9531539157f89] In regulation 28 (period of leave notice), for sub-paragraph (c) of paragraph (4) substitute—
+**17.**[^c-f9ed0988367442dc6ec9531539157f89] In regulation 28 (period of leave notice), for sub-paragraph (c) of paragraph (4) substitute—
 
 > - (c) if given before C enters Great Britain—
 >   - (i) contain a start for the leave which is the day on which C enters Great Britain or which is expressed as a number of days following the date of C’s entry into Great Britain;
@@ -228,27 +228,27 @@ The Shared Parental Leave Regulations 2014 are modified as follows.
 
 .
 
-**18.**[^key-2519112ba7d4e50560397dfbc1d8e9b0] In regulation 34 (entitlement in the event of disrupted placement or death), for paragraph (b) substitute—
+**18.**[^c-2519112ba7d4e50560397dfbc1d8e9b0] In regulation 34 (entitlement in the event of disrupted placement or death), for paragraph (b) substitute—
 
 > - (b) regulation 28 of the Adoptions with a Foreign Element Regulations 2005 or regulation 31 of the Adoptions with a Foreign Element (Scotland) Regulations 2009 applies.
 
 .
 
-**19.**[^key-a7d766c0d88d14c3606fad2ae20cac9e] In regulation 35 (continuity of employment test), in sub-paragraph (b) of paragraph (3), for “A was notified of having been matched for adoption with C” substitute “A received the official notification”.
+**19.**[^c-a7d766c0d88d14c3606fad2ae20cac9e] In regulation 35 (continuity of employment test), in sub-paragraph (b) of paragraph (3), for “A was notified of having been matched for adoption with C” substitute “A received the official notification”.
 
-**20.**[^key-950cf85521de4cc051c5fae734e327d3] In regulation 36 (employment and earnings test), in paragraph (5), for the definition of “calculation week” substitute—
+**20.**[^c-950cf85521de4cc051c5fae734e327d3] In regulation 36 (employment and earnings test), in paragraph (5), for the definition of “calculation week” substitute—
 
 > - “calculation week” means the week during which C enters Great Britain;
 
 .
 
-### 20A. Modifications to the Shared Parental Leave Regulations 2014 for the purposes of adoptions from overseas[^key-7c2d4965fc2b5486a763fbd4a60d9178]
+### 20A. Modifications to the Shared Parental Leave Regulations 2014 for the purposes of adoptions from overseas[^c-7c2d4965fc2b5486a763fbd4a60d9178]
 
 In regulation 39 (redundancy: shared parental leave), for paragraph (1B) substitute—
 
 > (1B) The relevant day referred to in paragraph (1A)(c) is the day after a period of 18 months beginning with the day on which the child enters Great Britain.
 
-**21.**[^key-f5f909f7012bc699f9e1a2eb1085a049] (1) Paragraph 10 (entitlement in the event of disrupted placement or death) of the Schedule is modified as follows.
+**21.**[^c-f5f909f7012bc699f9e1a2eb1085a049] (1) Paragraph 10 (entitlement in the event of disrupted placement or death) of the Schedule is modified as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -290,9 +290,9 @@ In regulation 39 (redundancy: shared parental leave), for paragraph (1B) substit
 
 ## PART 4 — Amendments to the Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003
 
-**22.**[^key-25576180841a4fe7b3265ed9acf5500a] The Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003[^f00010] are amended as follows.
+**22.**[^c-25576180841a4fe7b3265ed9acf5500a] The Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003[^f00010] are amended as follows.
 
-**23.**[^key-6d711fb39cf6226687c1761bee1a618f] In regulation 4 (interpretation)—
+**23.**[^c-6d711fb39cf6226687c1761bee1a618f] In regulation 4 (interpretation)—
 
 - (a) after sub-paragraph (a) of paragraph (2) insert—
 
@@ -309,9 +309,9 @@ In regulation 39 (redundancy: shared parental leave), for paragraph (1B) substit
 
     .
 
-**24.**[^key-02749322122f52ef6ca8fe7b9e691471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-02749322122f52ef6ca8fe7b9e691471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-54e27b8a554e2795c3aa85482f7df524] In regulation 9 (entitlement to ordinary adoption leave: adoption from overseas)—
+**25.**[^c-54e27b8a554e2795c3aa85482f7df524] In regulation 9 (entitlement to ordinary adoption leave: adoption from overseas)—
 
 - (a) in paragraph (1) of substituted regulation 15, for “An” substitute “Subject to paragraph (1A), an”;
 - (b) for sub-paragraph (a) in paragraph (1) of substituted regulation 15, substitute—
@@ -356,70 +356,70 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00002]: Footnote: Section 47C was inserted by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), Schedule 4, Part 3, paragraphs 5 and 8, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 31; there are other amending instruments but none is relevant. Sections 75A and 75B were inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 3, and amended by the Children and Families Act 2014, section 118(4) and (5) respectively. Section 75D was inserted by the Employment Act 2002, section 3; there are amending instruments but none are relevant. Sections 75G to 75K were inserted by the Children and Families Act 2014, section 117(1). Sections 75G and 75H were modified by [S.I. 2014/3091](https://www.legislation.gov.uk/uksi/2014/3091). Section 80B was inserted by the Employment Act 2002, section 1, and subsection (4A) was inserted by the Children and Families Act 2014, section 118(7); there are other amending instruments but none is relevant. Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 16, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 39; there are other amending instruments but none is relevant.
 
-[^key-7e345b9a5940d2128d16e72c7bc2be7a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-7e345b9a5940d2128d16e72c7bc2be7a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-aad4e30c17c7dcd8788fe53d9845f2f0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3092/regulation/2) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-aad4e30c17c7dcd8788fe53d9845f2f0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3092/regulation/2) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2014/3091](https://www.legislation.gov.uk/uksi/2014/3091).
 
-[^key-a5b5dcc0679a181b80171cdc36901622]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3092/regulation/3) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-a5b5dcc0679a181b80171cdc36901622]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3092/regulation/3) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2014/3052](https://www.legislation.gov.uk/uksi/2014/3052).
 
 [^f00005]: Footnote: Chapter 1B was inserted by the Children and Families Act 2014, section 117.
 
-[^key-6f663eae05e7a45c9ea668178bb7d24d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3092/regulation/4) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-6f663eae05e7a45c9ea668178bb7d24d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3092/regulation/4) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-0d26ea6c6bdbb2d1a4f198c428a38db1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3092/regulation/5) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-0d26ea6c6bdbb2d1a4f198c428a38db1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3092/regulation/5) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-984ddd87427294a48f3b67e43dd0ba9d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3092/regulation/6) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-984ddd87427294a48f3b67e43dd0ba9d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3092/regulation/6) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
-[^key-5c17d5bf6a5ad97e5d4c9b72c6437853]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3092/regulation/7) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-5c17d5bf6a5ad97e5d4c9b72c6437853]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3092/regulation/7) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2014/3050](https://www.legislation.gov.uk/uksi/2014/3050).
 
-[^key-bd8c2624801c16a86ee8ae612b5a4f72]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3092/regulation/8) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-bd8c2624801c16a86ee8ae612b5a4f72]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3092/regulation/8) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-f88098d6b54910fc551bd0c81e7f8436]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3092/regulation/9) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-f88098d6b54910fc551bd0c81e7f8436]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3092/regulation/9) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-f14ba6ebd8b64d24dbe0be6fc93719db]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3092/regulation/10) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-f14ba6ebd8b64d24dbe0be6fc93719db]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3092/regulation/10) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392).
 
 [^f00009]: Footnote: [S.I. 2009/182](https://www.legislation.gov.uk/uksi/2009/182).
 
-[^key-abae1d6b12225642ee069bc007a18630]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3092/regulation/11) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-abae1d6b12225642ee069bc007a18630]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3092/regulation/11) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-d3f27da18b44a7ecf827fd12e51f412a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3092/regulation/12) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-d3f27da18b44a7ecf827fd12e51f412a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3092/regulation/12) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-1507aa91e2dfccfde35e12b9dd5070df]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/3092/regulation/13) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-1507aa91e2dfccfde35e12b9dd5070df]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/3092/regulation/13) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-bf35c7c21d299e561a1fe98e48251d99]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3092/regulation/14) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-bf35c7c21d299e561a1fe98e48251d99]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3092/regulation/14) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-07ab59aa498d95304c7575c468883414]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3092/regulation/15) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-07ab59aa498d95304c7575c468883414]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3092/regulation/15) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-1cbbb838b7dedc44e4758958362b6e5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3092/regulation/16) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-1cbbb838b7dedc44e4758958362b6e5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3092/regulation/16) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-f9ed0988367442dc6ec9531539157f89]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/3092/regulation/17) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-f9ed0988367442dc6ec9531539157f89]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/3092/regulation/17) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-2519112ba7d4e50560397dfbc1d8e9b0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/3092/regulation/18) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-2519112ba7d4e50560397dfbc1d8e9b0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/3092/regulation/18) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-a7d766c0d88d14c3606fad2ae20cac9e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/3092/regulation/19) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-a7d766c0d88d14c3606fad2ae20cac9e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/3092/regulation/19) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-950cf85521de4cc051c5fae734e327d3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/3092/regulation/20) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-950cf85521de4cc051c5fae734e327d3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/3092/regulation/20) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-7c2d4965fc2b5486a763fbd4a60d9178]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/3092/regulation/20A) inserted (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2024/264/regulation/8)
+[^c-7c2d4965fc2b5486a763fbd4a60d9178]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/3092/regulation/20A) inserted (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2024/264/regulation/8)
 
-[^key-f5f909f7012bc699f9e1a2eb1085a049]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/3092/regulation/21) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-f5f909f7012bc699f9e1a2eb1085a049]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/3092/regulation/21) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-25576180841a4fe7b3265ed9acf5500a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/3092/regulation/22) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-25576180841a4fe7b3265ed9acf5500a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/3092/regulation/22) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2003/921](https://www.legislation.gov.uk/uksi/2003/921).
 
-[^key-6d711fb39cf6226687c1761bee1a618f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3092/regulation/23) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-6d711fb39cf6226687c1761bee1a618f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3092/regulation/23) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
 
-[^key-02749322122f52ef6ca8fe7b9e691471]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/3092/regulation/24) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2026/15/regulation/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-02749322122f52ef6ca8fe7b9e691471]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/3092/regulation/24) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2026/15/regulation/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-54e27b8a554e2795c3aa85482f7df524]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/3092/regulation/25) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)
+[^c-54e27b8a554e2795c3aa85482f7df524]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/3092/regulation/25) in force at 5.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1)

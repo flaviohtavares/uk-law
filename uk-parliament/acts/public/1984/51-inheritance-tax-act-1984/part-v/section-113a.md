@@ -29,7 +29,7 @@ summary: ''
 
 then, unless the conditions in subsection (3) below are satisfied, the additional tax chargeable by reason of the death shall be calculated as if the value transferred had not been so reduced.
 
-(2A)[^key-a5733336d72f819dd649e27d3260ad7c] Where subsection (2) applies, the chargeable transfer is to be ignored for the purposes of determining the amount of the 100% relief allowance available in relation to a chargeable transfer under section 124D.
+(2A)[^c-a5733336d72f819dd649e27d3260ad7c] Where subsection (2) applies, the chargeable transfer is to be ignored for the purposes of determining the amount of the 100% relief allowance available in relation to a chargeable transfer under section 124D.
 
 (3) The conditions referred to in subsections (1) and (2) above are—
 
@@ -39,7 +39,7 @@ then, unless the conditions in subsection (3) below are satisfied, the additiona
 (3A) This subsection applies to shares or securities—
 
 - (a) which were quoted at the time of the chargeable transfer referred to in subsection (1) or subsection (2) above; or
-- (b) which fell within any of paragraphs (aa) to[^key-acb08975c7df55bbe253a508d1030519] (bb)[^c13611071] of section 105(1) above in relation to that transfer and were unquoted throughout the period referred to in subsection (3)(a) above.
+- (b) which fell within any of paragraphs (aa) to[^c-acb08975c7df55bbe253a508d1030519] (bb)[^c13611071] of section 105(1) above in relation to that transfer and were unquoted throughout the period referred to in subsection (3)(a) above.
 
 (3B)[^c13611081] In subsection (3A) above “**quoted**”, in relation to any shares or securities, means listed[^c13611091] on a recognised stock exchange and “**unquoted**”, in relation to any shares or securities, means not so listed.
 
@@ -72,11 +72,11 @@ they shall be treated for the purposes of this section as if they were the origi
 
 [^c13611031]: Textual amendment: Finance Act 1986 Sch. 19, para. 21,*with respect to transfers of value made, and other events occurring, on or after* 18*March* 1986.
 
-[^key-a5733336d72f819dd649e27d3260ad7c]: Textual amendment: [S. 113A(2A)](https://www.legislation.gov.uk/ukpga/1984/51/section/113A/2A) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 7(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/7/1), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-a5733336d72f819dd649e27d3260ad7c]: Textual amendment: [S. 113A(2A)](https://www.legislation.gov.uk/ukpga/1984/51/section/113A/2A) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 7(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/7/1), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13611051]: Textual amendment: Finance Act 1987 Sch. 8, para. 8,*in relation to transfers of value made on or after* 17*March* 1987.
 
-[^key-acb08975c7df55bbe253a508d1030519]: Textual amendment: Words in [s. 113A(3A)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/113A/3A/b) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/12/4), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-acb08975c7df55bbe253a508d1030519]: Textual amendment: Words in [s. 113A(3A)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/113A/3A/b) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 12(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/12/4), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13611071]: Textual amendment: Words in [s. 113A(3A)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/113A/3A/b) inserted (29.4.1996 with effect as mentioned in [s. 184(6)(b)](https://www.legislation.gov.uk/ukpga/1996/8/section/184/6/b) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 184(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/184/4)
 

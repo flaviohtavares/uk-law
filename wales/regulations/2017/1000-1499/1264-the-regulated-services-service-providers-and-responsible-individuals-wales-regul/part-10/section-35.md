@@ -31,16 +31,16 @@ summary: ''
 - (a) the person is of suitable integrity and good character;
 - (b) the person has the qualifications, skills, competence and experience necessary for the work he or she is to perform;
 - (c) the person is able by reason of their health, after reasonable adjustments are made, of properly performing the tasks which are intrinsic to the work for which he or she is employed or engaged;
-- (d) [^key-e6cdd653bc0301a40e002d1c8d627801]... the person has provided full and satisfactory information or documentation, as the case may be, in respect of each of the matters specified in Part 1 of Schedule 1 and this information or documentation is available at the service for inspection by the service regulator;
-- (e) subject to paragraph (10) of this regulation[^key-9aec36ce47b170b0a2a811c00a54c9c1] where the person is employed by the service provider to manage the service, the person is registered as a social care manager with Social Care Wales;
-- (f)[^key-b84900c3ed8f28c51d6e8506505bd8b5] subject to paragraph (11) of this regulation, where the person is employed by the service provider (whether as an employee or worker) other than as a manager in order to provide care and support to any person in connection with—
+- (d) [^c-e6cdd653bc0301a40e002d1c8d627801]... the person has provided full and satisfactory information or documentation, as the case may be, in respect of each of the matters specified in Part 1 of Schedule 1 and this information or documentation is available at the service for inspection by the service regulator;
+- (e) subject to paragraph (10) of this regulation[^c-9aec36ce47b170b0a2a811c00a54c9c1] where the person is employed by the service provider to manage the service, the person is registered as a social care manager with Social Care Wales;
+- (f)[^c-b84900c3ed8f28c51d6e8506505bd8b5] subject to paragraph (11) of this regulation, where the person is employed by the service provider (whether as an employee or worker) other than as a manager in order to provide care and support to any person in connection with—
   - (i) a care home service,
   - (ii) a secure accommodation service,
   - (iii) a domiciliary support service in order to provide care and support to a person referred to in paragraph 8(1) of Schedule 1 to the Act, or
   - (iv) a residential family centre service,
 
   the person is registered as a social care worker with Social Care Wales no later than the relevant date (see paragraph (8) for the meaning of “the relevant date”);
-- (g)[^key-42a7b9fbf19557903a8d9183b79137f0] subject to paragraph (11) of this regulation, where the person is engaged under a contract for services, other than as a manager, to provide care and support to any person in connection with—
+- (g)[^c-42a7b9fbf19557903a8d9183b79137f0] subject to paragraph (11) of this regulation, where the person is engaged under a contract for services, other than as a manager, to provide care and support to any person in connection with—
   - (i) a care home service,
   - (ii) a secure accommodation service,
   - (iii) a domiciliary support service in order to provide care and support to a person referred to in paragraph 8(1) of Schedule 1 to the Act, or
@@ -68,51 +68,51 @@ summary: ''
 - (a) six months from the date on which the person commenced their employment, or
 - (b) such later date as the service regulator may in exceptional circumstances agree.
 
-(8A)[^key-c26705e0d0f8f1fd106673f99247a7c0] In paragraph (2)(g) of this regulation, “the relevant date” is either—
+(8A)[^c-c26705e0d0f8f1fd106673f99247a7c0] In paragraph (2)(g) of this regulation, “the relevant date” is either—
 
 - (a) 6 months from the date a person is first engaged under a contract for services to provide care and support in connection with–
-  - (i) a care home service [^key-c1b6ae6abf4d1045d473ac9fa68f9885]...,
+  - (i) a care home service [^c-c1b6ae6abf4d1045d473ac9fa68f9885]...,
   - (ii) a secure accommodation service,
-  - (iii) a domiciliary support service in order to provide care and support to a person referred to in paragraph 8(1) of Schedule 1 to the Act, [^key-f90472241e269eba1d6e64b260de2bc3]...
-  - (iv)[^key-39ef92fa0b816bbc82c7f7be34225a11] a residential family centre service, or
+  - (iii) a domiciliary support service in order to provide care and support to a person referred to in paragraph 8(1) of Schedule 1 to the Act, [^c-f90472241e269eba1d6e64b260de2bc3]...
+  - (iv)[^c-39ef92fa0b816bbc82c7f7be34225a11] a residential family centre service, or
 - (b) such later date as the service regulator may in exceptional circumstances agree.
 
-(9) In this regulation, “**the Disclosure and Barring Service**” (“***y Gwasanaeth Datgelu a Gwahardd***”) and “**DBS**” (“***GDG***”) mean the body established by section 87(1) of the Protection of Freedoms Act 2012[^key-b43f9df925d3e8259b4f8bf1f447f959].
+(9) In this regulation, “**the Disclosure and Barring Service**” (“***y Gwasanaeth Datgelu a Gwahardd***”) and “**DBS**” (“***GDG***”) mean the body established by section 87(1) of the Protection of Freedoms Act 2012[^c-b43f9df925d3e8259b4f8bf1f447f959].
 
-(9A)[^key-e35bb9b78cfb784dcac3da01ba5571de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9A)[^c-e35bb9b78cfb784dcac3da01ba5571de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-d2b5c850092b86d8b2fda4313a8427c6] Until 1 April 2020, the requirement under paragraph (2)(e) for a manager to be registered with Social Care Wales does not apply to a manager who is appointed to manage an undertaking—
+(10)[^c-d2b5c850092b86d8b2fda4313a8427c6] Until 1 April 2020, the requirement under paragraph (2)(e) for a manager to be registered with Social Care Wales does not apply to a manager who is appointed to manage an undertaking—
 
 - (a) in respect of which a person is registered, or has applied to register, as the provider of a domiciliary support service, and
 - (b) in respect of which a person was registered as carrying on a nurses agency under Part 2 of the Care Standards Act 2000 immediately before 2 April 2018 but was not also registered as carrying on a domiciliary care agency.
 
-(11)[^key-e3bdd481ee8c2f6adc12891e8a2039c1] The requirement that a person is registered as a social care worker with Social Care Wales in accordance with paragraph (2)(f) and (g), does not apply where the person is employed (whether as an employee or worker) or engaged under a contract for services to work as a—
+(11)[^c-e3bdd481ee8c2f6adc12891e8a2039c1] The requirement that a person is registered as a social care worker with Social Care Wales in accordance with paragraph (2)(f) and (g), does not apply where the person is employed (whether as an employee or worker) or engaged under a contract for services to work as a—
 
 - (a) nurse, or
 - (b) registered professional.
 
 ## Annotations
 
-[^key-e6cdd653bc0301a40e002d1c8d627801]: Textual amendment: Words in [reg. 35(2)(d)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/2/d) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/wsi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/6/a)
+[^c-e6cdd653bc0301a40e002d1c8d627801]: Textual amendment: Words in [reg. 35(2)(d)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/2/d) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/wsi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/6/a)
 
-[^key-9aec36ce47b170b0a2a811c00a54c9c1]: Textual amendment: Words in reg. 35(2)(e) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/9/a)
+[^c-9aec36ce47b170b0a2a811c00a54c9c1]: Textual amendment: Words in reg. 35(2)(e) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [9(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/9/a)
 
-[^key-b84900c3ed8f28c51d6e8506505bd8b5]: Textual amendment: [Reg. 35(2)(f)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/2/f) substituted (1.10.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/a)
+[^c-b84900c3ed8f28c51d6e8506505bd8b5]: Textual amendment: [Reg. 35(2)(f)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/2/f) substituted (1.10.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/a)
 
-[^key-42a7b9fbf19557903a8d9183b79137f0]: Textual amendment: [Reg. 35(2)(g)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/2/g) substituted (1.10.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/b)
+[^c-42a7b9fbf19557903a8d9183b79137f0]: Textual amendment: [Reg. 35(2)(g)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/2/g) substituted (1.10.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/b)
 
-[^key-c26705e0d0f8f1fd106673f99247a7c0]: Textual amendment: Reg. 35(8A) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2020/389/regulation/12/c)
+[^c-c26705e0d0f8f1fd106673f99247a7c0]: Textual amendment: Reg. 35(8A) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2020/389/regulation/12/c)
 
-[^key-c1b6ae6abf4d1045d473ac9fa68f9885]: Textual amendment: Words in [reg. 35(8A)(a)(i)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/8A/a/i) omitted (1.10.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/c/i)
+[^c-c1b6ae6abf4d1045d473ac9fa68f9885]: Textual amendment: Words in [reg. 35(8A)(a)(i)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/8A/a/i) omitted (1.10.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/c/i)
 
-[^key-f90472241e269eba1d6e64b260de2bc3]: Textual amendment: Word in [reg. 35(8A)(a)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/8A/a) omitted (1.10.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/c/ii)
+[^c-f90472241e269eba1d6e64b260de2bc3]: Textual amendment: Word in [reg. 35(8A)(a)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/8A/a) omitted (1.10.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/c/ii)
 
-[^key-39ef92fa0b816bbc82c7f7be34225a11]: Textual amendment: [Reg. 35(8A)(a)(iv)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/8A/a/iv) inserted (1.10.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(c)(iii)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/c/iii)
+[^c-39ef92fa0b816bbc82c7f7be34225a11]: Textual amendment: [Reg. 35(8A)(a)(iv)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/8A/a/iv) inserted (1.10.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2022 (S.I. 2022/832)](https://www.legislation.gov.uk/wsi/2022/832), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/832/regulation/1/2), [3(c)(iii)](https://www.legislation.gov.uk/wsi/2022/832/regulation/3/c/iii)
 
-[^key-b43f9df925d3e8259b4f8bf1f447f959]: Textual amendment: Words in reg. 35(9) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [9(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/9/b)
+[^c-b43f9df925d3e8259b4f8bf1f447f959]: Textual amendment: Words in reg. 35(9) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [9(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/9/b)
 
-[^key-e35bb9b78cfb784dcac3da01ba5571de]: Textual amendment: [Reg. 35(9A)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/9A) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/wsi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/6/b)
+[^c-e35bb9b78cfb784dcac3da01ba5571de]: Textual amendment: [Reg. 35(9A)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/35/9A) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/wsi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2022/1074/regulation/6/b)
 
-[^key-d2b5c850092b86d8b2fda4313a8427c6]: Textual amendment: Reg. 35(10) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [9(c)](https://www.legislation.gov.uk/wsi/2019/757/regulation/9/c)
+[^c-d2b5c850092b86d8b2fda4313a8427c6]: Textual amendment: Reg. 35(10) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [9(c)](https://www.legislation.gov.uk/wsi/2019/757/regulation/9/c)
 
-[^key-e3bdd481ee8c2f6adc12891e8a2039c1]: Textual amendment: Reg. 35(11) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [12(d)](https://www.legislation.gov.uk/wsi/2020/389/regulation/12/d)
+[^c-e3bdd481ee8c2f6adc12891e8a2039c1]: Textual amendment: Reg. 35(11) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [12(d)](https://www.legislation.gov.uk/wsi/2020/389/regulation/12/d)

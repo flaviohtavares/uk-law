@@ -78,7 +78,7 @@ The Health and Personal Social Services (Special Agencies)(Northern Ireland) Ord
 
 (2) The Department may give directions to a special agency with respect to the exercise of any functions exercisable by virtue of paragraph (1).
 
-(3) The Department may direct that Article 18 of the principal Order (scheme as to exercise of functions) shall (with the appropriate modifications) apply to a special agency as it applies to the Regional Agency for Public Health and Social Well-being[^key-8fd0b1cabeec7dd0b97e5730d0c4b42e] .
+(3) The Department may direct that Article 18 of the principal Order (scheme as to exercise of functions) shall (with the appropriate modifications) apply to a special agency as it applies to the Regional Agency for Public Health and Social Well-being[^c-8fd0b1cabeec7dd0b97e5730d0c4b42e] .
 
 (4) It shall be the duty of a special agency to comply with any directions given to it under this Article.
 
@@ -221,7 +221,7 @@ of such of the assets and liabilities of the special agency which is dissolved a
 
 [^c2139452]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisi/1990/247/article/4/1) substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-8fd0b1cabeec7dd0b97e5730d0c4b42e]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/nisi/1990/247/article/4/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 135](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/135); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8fd0b1cabeec7dd0b97e5730d0c4b42e]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/nisi/1990/247/article/4/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 135](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/135); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c1698297]: Textual amendment: [1991 NI 1](https://www.legislation.gov.uk/nisi/1991)
 

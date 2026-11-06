@@ -14,13 +14,13 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 4 — ANIMALS WHICH MAY NOT BE CAPTURED OR KILLED IN CERTAIN WAYS[^key-7d4d06192716acde5869be082a06748e]
+## SCHEDULE 4 — ANIMALS WHICH MAY NOT BE CAPTURED OR KILLED IN CERTAIN WAYS[^c-7d4d06192716acde5869be082a06748e]
 
 **No longer in force.**
 
 Regulation 43(1)(a)
 
-[^key-7d4d06192716acde5869be082a06748e]
+[^c-7d4d06192716acde5869be082a06748e]
 
 | *Common name* | *Scientific name* |
 | --- | --- |
@@ -46,4 +46,4 @@ Regulation 43(1)(a)
 
 ## Annotations
 
-[^key-7d4d06192716acde5869be082a06748e]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2010/490/schedule/4) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-7d4d06192716acde5869be082a06748e]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2010/490/schedule/4) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

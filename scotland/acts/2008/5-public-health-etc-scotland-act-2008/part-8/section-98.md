@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Prohibition on allowing unsupervised use of sunbeds[^key-d9833984728f1f2aa5b5c9ffcd662515]
+## 98. Prohibition on allowing unsupervised use of sunbeds[^c-d9833984728f1f2aa5b5c9ffcd662515]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9833984728f1f2aa5b5c9ffcd662515]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2008/5/section/98) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-d9833984728f1f2aa5b5c9ffcd662515]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2008/5/section/98) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

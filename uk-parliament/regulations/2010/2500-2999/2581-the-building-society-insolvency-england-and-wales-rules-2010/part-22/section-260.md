@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 260. Time limits[^key-eafe5d276065812fa8cf944caa8f1296]
+## 260. Time limits[^c-eafe5d276065812fa8cf944caa8f1296]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 12.9(1) of the 1986 Rules[^f00095] as regards time limits for anythin
 
 ## Annotations
 
-[^key-eafe5d276065812fa8cf944caa8f1296]: Commencement: Rule 260 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-eafe5d276065812fa8cf944caa8f1296]: Commencement: Rule 260 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00095]: Footnote: Rule 12.9 was substituted by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022).

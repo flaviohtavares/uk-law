@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Marketing standards[^key-3d50f8c2f0f1c1751a721b24733254a6][^key-7d4637a3ee69b675af235ae4cbd716d1]
+## 34. Marketing standards[^c-3d50f8c2f0f1c1751a721b24733254a6][^c-7d4637a3ee69b675af235ae4cbd716d1]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d50f8c2f0f1c1751a721b24733254a6]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-3d50f8c2f0f1c1751a721b24733254a6]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-7d4637a3ee69b675af235ae4cbd716d1]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2023/4/section/34) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/c)
+[^c-7d4637a3ee69b675af235ae4cbd716d1]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2023/4/section/34) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/c)

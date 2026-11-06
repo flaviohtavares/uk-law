@@ -32,7 +32,7 @@ Land and Buildings Transaction Tax (Scotland) Act 2013
 
 An Act of the Scottish Parliament to make provision about the taxation of land transactions.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th June 2013 and received Royal Assent on 31st July 2013[^key-05c92ef36873d9136b196cc364972de3][^key-106ee2f20648b3d752b526c049116aff]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th June 2013 and received Royal Assent on 31st July 2013[^c-05c92ef36873d9136b196cc364972de3][^c-106ee2f20648b3d752b526c049116aff]
 
 ## Contents
 
@@ -272,6 +272,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-05c92ef36873d9136b196cc364972de3]: Modification: [Act](https://www.legislation.gov.uk/asp/2013/11) excluded (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377), [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1), [9](https://www.legislation.gov.uk/ssi/2014/377/article/9)
+[^c-05c92ef36873d9136b196cc364972de3]: Modification: [Act](https://www.legislation.gov.uk/asp/2013/11) excluded (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377), [arts. 1](https://www.legislation.gov.uk/ssi/2014/377/article/1), [9](https://www.legislation.gov.uk/ssi/2014/377/article/9)
 
-[^key-106ee2f20648b3d752b526c049116aff]: Modification: [Act](https://www.legislation.gov.uk/asp/2013/11) excluded (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377), [art. 6(2)](https://www.legislation.gov.uk/ssi/2014/377/article/6/2)
+[^c-106ee2f20648b3d752b526c049116aff]: Modification: [Act](https://www.legislation.gov.uk/asp/2013/11) excluded (1.4.2015) by [The Land and Buildings Transaction Tax (Transitional Provisions) (Scotland) Order 2014 (S.S.I. 2014/377)](https://www.legislation.gov.uk/ssi/2014/377), [art. 6(2)](https://www.legislation.gov.uk/ssi/2014/377/article/6/2)

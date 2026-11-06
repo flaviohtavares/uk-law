@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Penalty for giving false unsworn evidence.[^key-e9be8bdce4af6e019d7549c4f4550156]
+## 57. Penalty for giving false unsworn evidence.[^c-e9be8bdce4af6e019d7549c4f4550156]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ or both.
 
 ## Annotations
 
-[^key-e9be8bdce4af6e019d7549c4f4550156]: Modification: S. 57 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [9](https://www.legislation.gov.uk/uksi/2009/2083/article/9), [10](https://www.legislation.gov.uk/uksi/2009/2083/article/10)
+[^c-e9be8bdce4af6e019d7549c4f4550156]: Modification: S. 57 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [9](https://www.legislation.gov.uk/uksi/2009/2083/article/9), [10](https://www.legislation.gov.uk/uksi/2009/2083/article/10)

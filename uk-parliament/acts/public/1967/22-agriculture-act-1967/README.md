@@ -31,11 +31,11 @@ Agriculture Act 1967
 
 An Act to establish a Meat and Livestock Commission and make other provision for the livestock and livestock products industries, to amend the Agriculture (Calf Subsidies) Act 1952 and make new provision with respect to the supervision and enforcement of schemes under that Act, to authorise the payment of subsidies in respect of cows maintained for the purpose of breeding calves for beef, to authorise grants for improvements of agricultural land and in respect of expenditure on equipment, plant and machinery for use in agriculture, and on certain vehicles, and supplementary grants in respect of certain expenditure, and to make provision with respect to the shape and size of farms and related matters, agriculture and forestry on hill land, co-operative activities in agriculture, diseases of animals and other matters connected with agriculture.
 
-\[10th May 1967\][^c14209851][^c15920851][^c15922021][^key-9101e00af987514a07fa6bb09240475d]
+\[10th May 1967\][^c14209851][^c15920851][^c15922021][^c-9101e00af987514a07fa6bb09240475d]
 
 ## Contents
 
-### Part I — Livestock and Meat Marketing[^c14209891][^key-1a435a090b2d5763dec0a422aadffcbe]
+### Part I — Livestock and Meat Marketing[^c14209891][^c-1a435a090b2d5763dec0a422aadffcbe]
 
 #### The Meat and Livestock Commission
 
@@ -131,7 +131,7 @@ An Act to establish a Meat and Livestock Commission and make other provision for
 
 - [Section 57 — Interpretation of Part III.](part-iii/section-57.md)
 
-### Part IV Co-operative Activities[^key-da8d506fe49b78fd1b88e2d8002547f7]
+### Part IV Co-operative Activities[^c-da8d506fe49b78fd1b88e2d8002547f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -180,10 +180,10 @@ SCHEDULES
 
 [^c15922021]: Modification: Act: Functions of a Minister of the Crown transferred to the National Assembly for Wales (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-9101e00af987514a07fa6bb09240475d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/22): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9101e00af987514a07fa6bb09240475d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/22): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14209891]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1967/22/part/I) (ss. 1-22): Functions of the Secretary of State, the Secretary of State for Scotland or the Secretary of State for Wales transferred to the Minister of Agriculture, Fisheries and Food (except for Sch. 1 Pt. II para. 9(2) for certain purposes) (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/3141/article/3))
 
-[^key-1a435a090b2d5763dec0a422aadffcbe]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1967/22/part/I) power to repeal conferred (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 91(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/91/4), [107(6)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/6/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-1a435a090b2d5763dec0a422aadffcbe]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1967/22/part/I) power to repeal conferred (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 91(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/91/4), [107(6)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/6/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-da8d506fe49b78fd1b88e2d8002547f7]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/1967/22/part/4) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-da8d506fe49b78fd1b88e2d8002547f7]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/1967/22/part/4) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)

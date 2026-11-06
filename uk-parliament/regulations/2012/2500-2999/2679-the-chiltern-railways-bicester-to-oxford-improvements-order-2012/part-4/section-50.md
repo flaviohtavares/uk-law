@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. For the protection of specified undertakers[^key-b17753254b2546533fe1af1b45febc6e]
+## 50. For the protection of specified undertakers[^c-b17753254b2546533fe1af1b45febc6e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 14 (for the protection of specified undertakers) have
 
 ## Annotations
 
-[^key-b17753254b2546533fe1af1b45febc6e]: Commencement: Art. 50 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-b17753254b2546533fe1af1b45febc6e]: Commencement: Art. 50 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

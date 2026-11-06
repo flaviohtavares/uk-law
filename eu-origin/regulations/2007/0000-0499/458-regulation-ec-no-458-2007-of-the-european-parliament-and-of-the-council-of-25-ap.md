@@ -35,159 +35,159 @@ on the European system of integrated social protection statistics (ESSPROS)
 
 (Text with EEA relevance) (revoked)
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5401c421c9d90c49ce0489e0ce8817e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-f5401c421c9d90c49ce0489e0ce8817e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 1. Subject matter[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scope of the system[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 2. Definitions[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Module on pension beneficiaries[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 3. Scope of the system[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Module on net social protection benefits[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 4. Module on pension beneficiaries[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Data sources[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 5. Module on net social protection benefits[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Arrangements for implementation[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 6. Data sources[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Procedure[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 7. Arrangements for implementation[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## Article 8. Procedure[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
-## ANNEX I — ESSPROS CORE SYSTEM[^key-f5401c421c9d90c49ce0489e0ce8817e]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — ESSPROS CORE SYSTEM[^c-f5401c421c9d90c49ce0489e0ce8817e]
+
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.
 
 Quantitative data by scheme and detailed benefits
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.3.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.4.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.3.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.4.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.1.2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.3.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]2.
 
 Qualitative information by scheme and detailed benefits
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]2.1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]2.2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]2.3.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — MODULE ON PENSION BENEFICIARIES[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## ANNEX II — MODULE ON PENSION BENEFICIARIES[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.
 
 Categories of benefits covered
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]2.
 
 Data provision
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]3.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]3.
 
 Dissemination
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — PILOT DATA COLLECTION ON NET SOCIAL PROTECTION BENEFITS[^key-f5401c421c9d90c49ce0489e0ce8817e]
+## ANNEX III — PILOT DATA COLLECTION ON NET SOCIAL PROTECTION BENEFITS[^c-f5401c421c9d90c49ce0489e0ce8817e]
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]1.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]1.
 
 Subjects covered
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]2.
+[^c-f5401c421c9d90c49ce0489e0ce8817e]2.
 
 Data provision
 
@@ -195,4 +195,4 @@ Data provision
 
 ## Annotations
 
-[^key-f5401c421c9d90c49ce0489e0ce8817e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/100); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5401c421c9d90c49ce0489e0ce8817e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/100); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

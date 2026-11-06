@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Preliminary[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+## 68. Preliminary[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0aaa19380a3799d8b2c5966c92cdf83]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/2477) revoked (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [3](https://www.legislation.gov.uk/uksi/2024/229/rule/3) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-b0aaa19380a3799d8b2c5966c92cdf83]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/2477) revoked (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [3](https://www.legislation.gov.uk/uksi/2024/229/rule/3) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))

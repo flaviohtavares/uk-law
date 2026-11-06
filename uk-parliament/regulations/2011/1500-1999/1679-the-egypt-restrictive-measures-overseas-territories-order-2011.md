@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Egypt (Restrictive Measures) (Overseas Territories) Order 2011 (revoked)[^key-955a912dad3eeef725c97a15adb9a105]
+The Egypt (Restrictive Measures) (Overseas Territories) Order 2011 (revoked)[^c-955a912dad3eeef725c97a15adb9a105]
 
 Made
 
@@ -52,146 +52,146 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-955a912dad3eeef725c97a15adb9a105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-955a912dad3eeef725c97a15adb9a105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-955a912dad3eeef725c97a15adb9a105]
+## 1. Citation, commencement, extent and application[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-955a912dad3eeef725c97a15adb9a105]
+## 2. Interpretation[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Publicly available list of listed persons[^key-955a912dad3eeef725c97a15adb9a105]
+## 3. Publicly available list of listed persons[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## FUNDS AND ECONOMIC RESOURCES[^key-955a912dad3eeef725c97a15adb9a105]
+## FUNDS AND ECONOMIC RESOURCES[^c-955a912dad3eeef725c97a15adb9a105]
 
-### 4. Freezing funds and economic resources[^key-955a912dad3eeef725c97a15adb9a105]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Making funds and economic resources available[^key-955a912dad3eeef725c97a15adb9a105]
+### 4. Freezing funds and economic resources[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Exceptions[^key-955a912dad3eeef725c97a15adb9a105]
+### 5. Making funds and economic resources available[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Circumventing prohibitions etc[^key-955a912dad3eeef725c97a15adb9a105]
+### 6. Exceptions[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Governor’s powers to give directions[^key-955a912dad3eeef725c97a15adb9a105]
+### 7. Circumventing prohibitions etc[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Licences[^key-955a912dad3eeef725c97a15adb9a105]
+### 8. Governor’s powers to give directions[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## DISCLOSURE BY FINANCIAL INSTITUTIONS and others[^key-955a912dad3eeef725c97a15adb9a105]
-
-### 10. Failure to disclose knowledge or suspicion[^key-955a912dad3eeef725c97a15adb9a105]
+### 9. Licences[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## GENERAL[^key-955a912dad3eeef725c97a15adb9a105]
+## DISCLOSURE BY FINANCIAL INSTITUTIONS and others[^c-955a912dad3eeef725c97a15adb9a105]
 
-### 11. Offences in connection with application for licences, conditions attaching to licences, etc[^key-955a912dad3eeef725c97a15adb9a105]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. Obtaining of evidence and information[^key-955a912dad3eeef725c97a15adb9a105]
+### 10. Failure to disclose knowledge or suspicion[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Penalties and proceedings[^key-955a912dad3eeef725c97a15adb9a105]
+## GENERAL[^c-955a912dad3eeef725c97a15adb9a105]
+
+### 11. Offences in connection with application for licences, conditions attaching to licences, etc[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Notices[^key-955a912dad3eeef725c97a15adb9a105]
+### 12. Obtaining of evidence and information[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Exercise of the powers of the Governor[^key-955a912dad3eeef725c97a15adb9a105]
+### 13. Penalties and proceedings[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Miscellaneous[^key-955a912dad3eeef725c97a15adb9a105]
+### 14. Notices[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. General[^key-955a912dad3eeef725c97a15adb9a105]
+### 15. Exercise of the powers of the Governor[^c-955a912dad3eeef725c97a15adb9a105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-955a912dad3eeef725c97a15adb9a105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 16. Miscellaneous[^c-955a912dad3eeef725c97a15adb9a105]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. General[^c-955a912dad3eeef725c97a15adb9a105]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-955a912dad3eeef725c97a15adb9a105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TERRITORIES TO WHICH THIS ORDER EXTENDS[^key-955a912dad3eeef725c97a15adb9a105]
+## SCHEDULE 1 — TERRITORIES TO WHICH THIS ORDER EXTENDS[^c-955a912dad3eeef725c97a15adb9a105]
 
 Article 1(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — APPLICATION OF ARTICLE 13 TO THE SOVEREIGN BASE AREAS OF AKROTIRI AND DHEKELIA IN THE ISLAND OF CYPRUS[^key-955a912dad3eeef725c97a15adb9a105]
+## SCHEDULE 2 — APPLICATION OF ARTICLE 13 TO THE SOVEREIGN BASE AREAS OF AKROTIRI AND DHEKELIA IN THE ISLAND OF CYPRUS[^c-955a912dad3eeef725c97a15adb9a105]
 
 Article 1(3)
 
-**1.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — APPLICATION OF ARTICLE 13 TO THE FALKLAND ISLANDS AND TO SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS[^key-955a912dad3eeef725c97a15adb9a105]
+## SCHEDULE 3 — APPLICATION OF ARTICLE 13 TO THE FALKLAND ISLANDS AND TO SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS[^c-955a912dad3eeef725c97a15adb9a105]
 
 Article 1(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — APPLICATION OF ARTICLE 13 TO ST HELENA, ASCENSION, AND TRISTAN DA CUNHA[^key-955a912dad3eeef725c97a15adb9a105]
+## SCHEDULE 4 — APPLICATION OF ARTICLE 13 TO ST HELENA, ASCENSION, AND TRISTAN DA CUNHA[^c-955a912dad3eeef725c97a15adb9a105]
 
 Article 1(5)
 
-**1.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — EVIDENCE AND INFORMATION[^key-955a912dad3eeef725c97a15adb9a105]
+## SCHEDULE 5 — EVIDENCE AND INFORMATION[^c-955a912dad3eeef725c97a15adb9a105]
 
 Article 12
 
-**1.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-955a912dad3eeef725c97a15adb9a105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-955a912dad3eeef725c97a15adb9a105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-955a912dad3eeef725c97a15adb9a105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-955a912dad3eeef725c97a15adb9a105]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1679) revoked (31.12.2020) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1604/article/1/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1604/schedule/2)
+[^c-955a912dad3eeef725c97a15adb9a105]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1679) revoked (31.12.2020) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1604/article/1/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1604/schedule/2)

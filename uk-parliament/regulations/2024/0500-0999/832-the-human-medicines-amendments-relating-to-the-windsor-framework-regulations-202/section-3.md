@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment to regulation 2A[^key-5f92da0ef6cac19006078f18fd8a5d20]
+## 3. Amendment to regulation 2A[^c-5f92da0ef6cac19006078f18fd8a5d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 2A (definition of advanced therapy medicinal product etc.)[^f00003
 
 ## Annotations
 
-[^key-5f92da0ef6cac19006078f18fd8a5d20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/832/regulation/3) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-5f92da0ef6cac19006078f18fd8a5d20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/832/regulation/3) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00003]: Footnote: Regulation 2A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

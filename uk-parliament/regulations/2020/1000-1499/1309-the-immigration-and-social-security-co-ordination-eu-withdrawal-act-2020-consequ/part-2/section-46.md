@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendment of the Immigration and Nationality (Fees) Regulations 2018[^key-ce8333a984b4b4fe33f84372b516d304][^M_I_90079170-8b42-4b91-dd0b-3ede75aa6d84]
+## 46. Amendment of the Immigration and Nationality (Fees) Regulations 2018[^c-ce8333a984b4b4fe33f84372b516d304][^M_I_90079170-8b42-4b91-dd0b-3ede75aa6d84]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8333a984b4b4fe33f84372b516d304]: Commencement: Reg. 46 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-ce8333a984b4b4fe33f84372b516d304]: Commencement: Reg. 46 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_90079170-8b42-4b91-dd0b-3ede75aa6d84]: Commencement: Reg. 46 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

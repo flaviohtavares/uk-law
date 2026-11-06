@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — FINANCIAL ASSESSMENT[^key-74695b671949535043691541d0a0b368]
+## SCHEDULE 5 — FINANCIAL ASSESSMENT[^c-74695b671949535043691541d0a0b368]
 
 *Extent: N.I.*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Regulation 90
 
-### 1. Definitions[^key-74695b671949535043691541d0a0b368]
+### 1. Definitions[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Independent eligible student[^key-74695b671949535043691541d0a0b368]
+### 2. Independent eligible student[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Household income[^key-74695b671949535043691541d0a0b368]
+### 3. Household income[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Calculation of eligible student’s residual income[^key-74695b671949535043691541d0a0b368]
+### 4. Calculation of eligible student’s residual income[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Calculation of parent’s residual income[^key-74695b671949535043691541d0a0b368]
+### 5. Calculation of parent’s residual income[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Calculation of eligible student’s partner’s residual income[^key-74695b671949535043691541d0a0b368]
+### 6. Calculation of eligible student’s partner’s residual income[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Calculation of parent’s partner’s residual income[^key-74695b671949535043691541d0a0b368]
+### 7. Calculation of parent’s partner’s residual income[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Calculation of contribution – old system students[^key-74695b671949535043691541d0a0b368]
+### 8. Calculation of contribution – old system students[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Calculation of contribution – current system students[^key-74695b671949535043691541d0a0b368]
+### 9. Calculation of contribution – current system students[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Split contributions – eligible students who are not independent[^key-74695b671949535043691541d0a0b368]
+### 10. Split contributions – eligible students who are not independent[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Split contributions – independent eligible students[^key-74695b671949535043691541d0a0b368]
+### 11. Split contributions – independent eligible students[^c-74695b671949535043691541d0a0b368]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74695b671949535043691541d0a0b368]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/250) revoked (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support) Regulations (Northern Ireland) 2009 (S.R. 2009/37)](https://www.legislation.gov.uk/nisr/2009/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/1/3), [4(1)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/3))
+[^c-74695b671949535043691541d0a0b368]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/250) revoked (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support) Regulations (Northern Ireland) 2009 (S.R. 2009/37)](https://www.legislation.gov.uk/nisr/2009/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/1/3), [4(1)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/3))

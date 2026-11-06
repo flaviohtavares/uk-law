@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.10. The chairman at the meeting[^key-f4503c95c36390c3bccd0f1f602f5968]
+## 3.10. The chairman at the meeting[^c-f4503c95c36390c3bccd0f1f602f5968]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4503c95c36390c3bccd0f1f602f5968]: Commencement: [Rule 3.10](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.10) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f4503c95c36390c3bccd0f1f602f5968]: Commencement: [Rule 3.10](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.10) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Supplemental functions[^key-b889533263ade685dc8e0b8ffa81b28f]
+## 7. Supplemental functions[^c-b889533263ade685dc8e0b8ffa81b28f]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ the NDA may charge for the provision of the advice.
 
 ## Annotations
 
-[^key-b889533263ade685dc8e0b8ffa81b28f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/20/section/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b889533263ade685dc8e0b8ffa81b28f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/20/section/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

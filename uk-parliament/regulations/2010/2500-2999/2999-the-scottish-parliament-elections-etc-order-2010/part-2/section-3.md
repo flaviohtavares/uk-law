@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Registers of electors etc[^key-ea466bbbc17120dc34842c41ed0d7835]
+## 3. Registers of electors etc[^c-ea466bbbc17120dc34842c41ed0d7835]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ea466bbbc17120dc34842c41ed0d7835]: Commencement: Art. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ea466bbbc17120dc34842c41ed0d7835]: Commencement: Art. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00019]: Footnote: Section 13B was substituted by the 2000 Act, Schedule 1, paragraph 6 and amended by the 2006 Act, section 11(2).
 

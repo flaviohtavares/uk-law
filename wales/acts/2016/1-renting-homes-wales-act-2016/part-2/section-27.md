@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Further key matters of standard contracts[^key-fc9e0faf9ff1ec12083e1c0d7c645bcf]
+## 27. Further key matters of standard contracts[^c-fc9e0faf9ff1ec12083e1c0d7c645bcf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The following are key matters in relation to standard contracts (in addition to 
 
 ## Annotations
 
-[^key-fc9e0faf9ff1ec12083e1c0d7c645bcf]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2016/1/section/27) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-fc9e0faf9ff1ec12083e1c0d7c645bcf]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2016/1/section/27) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

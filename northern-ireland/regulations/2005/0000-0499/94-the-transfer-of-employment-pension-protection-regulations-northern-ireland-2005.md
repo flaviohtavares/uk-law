@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Article 235(2)(c)(ii) and (7) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation[^key-d2fd64fbf1cd40d33bbaf2956e5cd1c3]
+## 1. Citation, commencement, application and interpretation[^c-d2fd64fbf1cd40d33bbaf2956e5cd1c3]
 
 (1) These Regulations may be cited as the Transfer of Employment (Pension Protection) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
 (2) These Regulations apply in the case of a person (“the employee”) in relation to whom Article 234 (conditions for pension protection) applies, that is to say a person who, in the circumstances described in paragraph (1) of that Article, ceases to be employed by the transferor of an undertaking or part of an undertaking and becomes employed by the transferee.
 
-(3)[^key-9b6b29f35852793ac9c765fe8720d80e] In these Regulations “remuneration period” means a period in respect of which the employee is paid remuneration.
+(3)[^c-9b6b29f35852793ac9c765fe8720d80e] In these Regulations “remuneration period” means a period in respect of which the employee is paid remuneration.
 
 (4) In calculating the amount of the employee’s remuneration for the purposes of these Regulations—
 
@@ -58,14 +58,14 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (6) In these Regulations any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 2005 bearing that number.
 
-## 2. Requirements where the transferee’s pension scheme is not a money purchase scheme[^key-d1fb177d09344a82a695fbd8081ab363][^key-cd9f52f01af2875636b13a4b4344418b]
+## 2. Requirements where the transferee’s pension scheme is not a money purchase scheme[^c-d1fb177d09344a82a695fbd8081ab363][^c-cd9f52f01af2875636b13a4b4344418b]
 
-(1) In a case where these Regulations apply, and the transferee is the employer in relation to a pension scheme which is not a money purchase scheme, that scheme complies with Article 235(2)(c)[^key-891d54b5a74f1398669b2633f84cc9b3] (alternative standard for a scheme which is not a money purchase scheme) if it provides either –
+(1) In a case where these Regulations apply, and the transferee is the employer in relation to a pension scheme which is not a money purchase scheme, that scheme complies with Article 235(2)(c)[^c-891d54b5a74f1398669b2633f84cc9b3] (alternative standard for a scheme which is not a money purchase scheme) if it provides either –
 
 - (a) for members to be entitled to benefits the value of which equals or exceeds 6 per cent. of pensionable pay for each year of employment together with the total amount of any contributions made by them and, where members are required to make contributions to the scheme, for them to contribute at a rate which does not exceed 6 per cent. of their pensionable pay, or
 - (b) for the transferee to make relevant contributions to the scheme on behalf of each employee of his who is an active member of it.
 
-(2)[^key-075ea38a6979786bb6acafdf0b0ce065] In this regulation—
+(2)[^c-075ea38a6979786bb6acafdf0b0ce065] In this regulation—
 
 - “pensionable pay” means that part of the remuneration payable to a member of a scheme by reference to which the amount of contributions and benefits are determined under the rules of the scheme;
 - “relevant contributions” means contributions—
@@ -74,7 +74,7 @@ The Department for Social Development, in exercise of the powers conferred on it
     - (i) where the employee’s contributions are less than 6 per cent. of the employee’s remuneration, not less than the contributions made by the employee, or
     - (ii) where the employee’s contributions equal or exceed 6 per cent. of the employee’s remuneration, not less than 6 per cent. of that remuneration.
 
-## 3. Requirements where the transferee’s pension scheme is a money purchase scheme or stakeholder pension scheme[^key-fe11c72db57d9f3f4721ece80be5905a]
+## 3. Requirements where the transferee’s pension scheme is a money purchase scheme or stakeholder pension scheme[^c-fe11c72db57d9f3f4721ece80be5905a]
 
 (1) In a case where these Regulations apply, the transferee’s contributions are relevant contributions for the purposes of paragraphs (2)((money purchase scheme) and (3) to (5) (stakeholder pension scheme) of Article 235, if—
 
@@ -121,16 +121,16 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-d2fd64fbf1cd40d33bbaf2956e5cd1c3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/94/regulation/1) in operation at 6.4.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/2)
+[^c-d2fd64fbf1cd40d33bbaf2956e5cd1c3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/94/regulation/1) in operation at 6.4.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/2)
 
-[^key-9b6b29f35852793ac9c765fe8720d80e]: Textual amendment: [Reg. 1(3)-(6)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/3) substituted for [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/3) (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/2)
+[^c-9b6b29f35852793ac9c765fe8720d80e]: Textual amendment: [Reg. 1(3)-(6)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/3) substituted for [reg. 1(3)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/3) (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/2)
 
-[^key-d1fb177d09344a82a695fbd8081ab363]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/94/regulation/2) in operation at 6.4.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/2)
+[^c-d1fb177d09344a82a695fbd8081ab363]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/94/regulation/2) in operation at 6.4.2005 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/1/2)
 
-[^key-cd9f52f01af2875636b13a4b4344418b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/94/regulation/2) heading substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/3)
+[^c-cd9f52f01af2875636b13a4b4344418b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/94/regulation/2) heading substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/3)
 
-[^key-891d54b5a74f1398669b2633f84cc9b3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/94/regulation/2/1) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [20](https://www.legislation.gov.uk/nisr/2016/158/article/20)
+[^c-891d54b5a74f1398669b2633f84cc9b3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/94/regulation/2/1) substituted (6.4.2016) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/158/article/1/a), [20](https://www.legislation.gov.uk/nisr/2016/158/article/20)
 
-[^key-075ea38a6979786bb6acafdf0b0ce065]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/2/2) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/4)
+[^c-075ea38a6979786bb6acafdf0b0ce065]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/94/regulation/2/2) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/4)
 
-[^key-fe11c72db57d9f3f4721ece80be5905a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/94/regulation/3) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/5)
+[^c-fe11c72db57d9f3f4721ece80be5905a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/94/regulation/3) substituted (6.4.2014) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/93)](https://www.legislation.gov.uk/nisr/2014/93), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/93/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2014/93/regulation/4/5)

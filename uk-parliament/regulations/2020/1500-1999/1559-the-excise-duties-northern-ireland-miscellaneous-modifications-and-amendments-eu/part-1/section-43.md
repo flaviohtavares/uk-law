@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**43.**[^key-97db0e118568363fca2807e304769233] For regulation 46 substitute—
+**43.**[^c-97db0e118568363fca2807e304769233] For regulation 46 substitute—
 
 > **46. Report of export from territory of the EU or Northern Ireland**
 >
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97db0e118568363fca2807e304769233]: Textual amendment: Reg. 43 substituted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [8](https://www.legislation.gov.uk/uksi/2024/941/regulation/8)
+[^c-97db0e118568363fca2807e304769233]: Textual amendment: Reg. 43 substituted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [8](https://www.legislation.gov.uk/uksi/2024/941/regulation/8)

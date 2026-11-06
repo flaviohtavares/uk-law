@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Procedure on close of poll[^key-b886dde5bfb39ed9a691a40bd39ee445]
+## 44. Procedure on close of poll[^c-b886dde5bfb39ed9a691a40bd39ee445]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b886dde5bfb39ed9a691a40bd39ee445]: Commencement: Reg. 44 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-b886dde5bfb39ed9a691a40bd39ee445]: Commencement: Reg. 44 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

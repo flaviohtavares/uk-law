@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Letters, numerals and other characters[^key-4faa1706a55a1d5ff763135af3990cb7]
+## 5. Letters, numerals and other characters[^c-4faa1706a55a1d5ff763135af3990cb7]
 
 *Extent: E+W+S*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4faa1706a55a1d5ff763135af3990cb7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4faa1706a55a1d5ff763135af3990cb7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

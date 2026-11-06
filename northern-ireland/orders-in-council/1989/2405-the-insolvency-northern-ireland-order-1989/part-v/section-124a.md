@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124A. Official receiver’s duty to send statement to registrar about other proceedings—[^key-cc5c2b321da1e4f86b3626c729bc23f7]
+## 124A. Official receiver’s duty to send statement to registrar about other proceedings—[^c-cc5c2b321da1e4f86b3626c729bc23f7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc5c2b321da1e4f86b3626c729bc23f7]: Textual amendment: [Art. 124A](https://www.legislation.gov.uk/nisi/1989/2405/article/124A) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 171](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/171) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc5c2b321da1e4f86b3626c729bc23f7]: Textual amendment: [Art. 124A](https://www.legislation.gov.uk/nisi/1989/2405/article/124A) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 171](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/171) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Benefits for maternity, funeral and heating expenses[^key-f7972503bc32f15d1987941e6a4099fd][^key-ffc8b5ac743bfa3320190da9a427dd36]
+## 23. Benefits for maternity, funeral and heating expenses[^c-f7972503bc32f15d1987941e6a4099fd][^c-ffc8b5ac743bfa3320190da9a427dd36]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-17d20b46233998ea970209726e70ecba][^key-b8a2dc4e35870a5c7cb0826173d8b84e] In Part 2 of Schedule 5 to the Scotland Act 1998, Section F1 is amended as follows.
+(1)[^c-17d20b46233998ea970209726e70ecba][^c-b8a2dc4e35870a5c7cb0826173d8b84e] In Part 2 of Schedule 5 to the Scotland Act 1998, Section F1 is amended as follows.
 
-(2)[^key-ff61308e671e2121494151cec97e5abd] In the Exceptions, after exception 3 (see section 22(3) above) insert—
+(2)[^c-ff61308e671e2121494151cec97e5abd] In the Exceptions, after exception 3 (see section 22(3) above) insert—
 
 > **Exception 4**
 >
@@ -32,7 +32,7 @@ summary: ''
 > - (b) funeral expenses, or
 > - (c) expenses for heating in cold weather.
 
-(3)[^key-b5af240ae0d897c53a6437208eae6de9] In the Exceptions, for the words from “But the following are not excepted” to “Act 2000 (discretionary housing payments).” substitute—
+(3)[^c-b5af240ae0d897c53a6437208eae6de9] In the Exceptions, for the words from “But the following are not excepted” to “Act 2000 (discretionary housing payments).” substitute—
 
 > **Exclusions from exceptions 1 to 10**
 >
@@ -42,9 +42,9 @@ summary: ''
 > - (b) the Social Fund, or
 > - (c) the provision by a Minister of the Crown of assistance by way of loan for the purpose of meeting, or helping to meet, an intermittent expense.
 
-(4)[^key-ff61308e671e2121494151cec97e5abd] In the Interpretation provision, omit the words from “Paragraph 5(1) of Part 3 of this Schedule” to “it is to be treated as if it were.”
+(4)[^c-ff61308e671e2121494151cec97e5abd] In the Interpretation provision, omit the words from “Paragraph 5(1) of Part 3 of this Schedule” to “it is to be treated as if it were.”
 
-(5)[^key-9208dc86dd9d2d6cb4d75e5631693862][^key-d4ec5f01f6fa17bf955132aae9c74cee] In section 138 of the Social Security Contributions and Benefits Act 1992 (payments out of the social fund) after subsection (4) insert—
+(5)[^c-9208dc86dd9d2d6cb4d75e5631693862][^c-d4ec5f01f6fa17bf955132aae9c74cee] In section 138 of the Social Security Contributions and Benefits Act 1992 (payments out of the social fund) after subsection (4) insert—
 
 > (4A) This section has effect in or as regards Scotland as if—
 >
@@ -61,18 +61,18 @@ summary: ''
 
 ## Annotations
 
-[^key-f7972503bc32f15d1987941e6a4099fd]: Modification: S. 23 modified (temp.) (17.5.2017) by [The Scotland Act 2016 (Transitional) Regulations 2017 (S.I. 2017/444)](https://www.legislation.gov.uk/uksi/2017/444), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2017/444/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2017/444/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2017/444/regulation/4) (as amended (21.11.2019) by [The Scotland Act 2016 (Transitional) (Amendment) Regulations 2019 (S.I. 2019/1439)](https://www.legislation.gov.uk/uksi/2019/1439), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1439/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1439/regulation/2/2))
+[^c-f7972503bc32f15d1987941e6a4099fd]: Modification: S. 23 modified (temp.) (17.5.2017) by [The Scotland Act 2016 (Transitional) Regulations 2017 (S.I. 2017/444)](https://www.legislation.gov.uk/uksi/2017/444), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2017/444/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2017/444/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2017/444/regulation/4) (as amended (21.11.2019) by [The Scotland Act 2016 (Transitional) (Amendment) Regulations 2019 (S.I. 2019/1439)](https://www.legislation.gov.uk/uksi/2019/1439), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1439/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1439/regulation/2/2))
 
-[^key-ffc8b5ac743bfa3320190da9a427dd36]: Modification: S. 23 modified (temp.) (17.5.2017) by [The Scotland Act 2016 (Transitional) Regulations 2017 (S.I. 2017/444)](https://www.legislation.gov.uk/uksi/2017/444), [regs. 6](https://www.legislation.gov.uk/uksi/2017/444/regulation/6), [7](https://www.legislation.gov.uk/uksi/2017/444/regulation/7) (as amended (21.11.2019) by [The Scotland Act 2016 (Transitional) (Amendment) Regulations 2019 (S.I. 2019/1439)](https://www.legislation.gov.uk/uksi/2019/1439), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1439/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1439/regulation/2/3))
+[^c-ffc8b5ac743bfa3320190da9a427dd36]: Modification: S. 23 modified (temp.) (17.5.2017) by [The Scotland Act 2016 (Transitional) Regulations 2017 (S.I. 2017/444)](https://www.legislation.gov.uk/uksi/2017/444), [regs. 6](https://www.legislation.gov.uk/uksi/2017/444/regulation/6), [7](https://www.legislation.gov.uk/uksi/2017/444/regulation/7) (as amended (21.11.2019) by [The Scotland Act 2016 (Transitional) (Amendment) Regulations 2019 (S.I. 2019/1439)](https://www.legislation.gov.uk/uksi/2019/1439), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1439/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1439/regulation/2/3))
 
-[^key-17d20b46233998ea970209726e70ecba]: Commencement: S. 23(1) in force at 5.9.2016 for specified purposes by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/b/i)
+[^c-17d20b46233998ea970209726e70ecba]: Commencement: S. 23(1) in force at 5.9.2016 for specified purposes by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/b/i)
 
-[^key-b8a2dc4e35870a5c7cb0826173d8b84e]: Commencement: S. 23(1) in force at 17.5.2017 in so far as not already in force by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/b/i)
+[^c-b8a2dc4e35870a5c7cb0826173d8b84e]: Commencement: S. 23(1) in force at 17.5.2017 in so far as not already in force by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/b/i)
 
-[^key-ff61308e671e2121494151cec97e5abd]: Commencement: S. 23(2)(4) in force at 17.5.2017 by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/b/ii)
+[^c-ff61308e671e2121494151cec97e5abd]: Commencement: S. 23(2)(4) in force at 17.5.2017 by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/b/ii)
 
-[^key-b5af240ae0d897c53a6437208eae6de9]: Commencement: S. 23(3) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/b/ii)
+[^c-b5af240ae0d897c53a6437208eae6de9]: Commencement: S. 23(3) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/b/ii)
 
-[^key-9208dc86dd9d2d6cb4d75e5631693862]: Commencement: S. 23(5) in force at 17.5.2017 for specified purposes by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/b/iii)
+[^c-9208dc86dd9d2d6cb4d75e5631693862]: Commencement: S. 23(5) in force at 17.5.2017 for specified purposes by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/b/iii)
 
-[^key-d4ec5f01f6fa17bf955132aae9c74cee]: Commencement: [S. 23(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/23/5) in force at 1.4.2024 in so far as not already in force by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 3](https://www.legislation.gov.uk/uksi/2017/455/regulation/3) (as substituted by: S.I. 2019/1438, [reg. 2](https://www.legislation.gov.uk/uksi/2019/1438/regulation/2); S.I. 2022/409, [reg. 3](https://www.legislation.gov.uk/uksi/2022/409/regulation/3); and S.I. 2023/395, [reg. 2](https://www.legislation.gov.uk/uksi/2023/395/regulation/2))
+[^c-d4ec5f01f6fa17bf955132aae9c74cee]: Commencement: [S. 23(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/23/5) in force at 1.4.2024 in so far as not already in force by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 3](https://www.legislation.gov.uk/uksi/2017/455/regulation/3) (as substituted by: S.I. 2019/1438, [reg. 2](https://www.legislation.gov.uk/uksi/2019/1438/regulation/2); S.I. 2022/409, [reg. 3](https://www.legislation.gov.uk/uksi/2022/409/regulation/3); and S.I. 2023/395, [reg. 2](https://www.legislation.gov.uk/uksi/2023/395/regulation/2))

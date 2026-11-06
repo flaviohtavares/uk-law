@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Costs or expenses[^key-7748eef336d2ed8528c4ea8ab886dbdd][^key-2839bec9fd1e71cade159b1b3d4d99ee]
+## 29. Costs or expenses[^c-7748eef336d2ed8528c4ea8ab886dbdd][^c-2839bec9fd1e71cade159b1b3d4d99ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ the whole of any wasted costs or such part of them as may be determined in accor
 
 ## Annotations
 
-[^key-7748eef336d2ed8528c4ea8ab886dbdd]: Modification: S. 29 applied (with modifications) (E.) (6.4.2012) by [The Town and Country Planning (Tree Preservation)(England) Regulations 2012 (S.I. 2012/605)](https://www.legislation.gov.uk/uksi/2012/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1), [24(9)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/9) (with [reg. 24(10)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/10))
+[^c-7748eef336d2ed8528c4ea8ab886dbdd]: Modification: S. 29 applied (with modifications) (E.) (6.4.2012) by [The Town and Country Planning (Tree Preservation)(England) Regulations 2012 (S.I. 2012/605)](https://www.legislation.gov.uk/uksi/2012/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1), [24(9)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/9) (with [reg. 24(10)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/10))
 
-[^key-2839bec9fd1e71cade159b1b3d4d99ee]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2007/15/section/29) power to modify or disapply conferred (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33), [Sch 2A para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1961/33/schedule/2A/paragraph/7/2/a) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/2/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l))
+[^c-2839bec9fd1e71cade159b1b3d4d99ee]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2007/15/section/29) power to modify or disapply conferred (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33), [Sch 2A para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/1961/33/schedule/2A/paragraph/7/2/a) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/2/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l))

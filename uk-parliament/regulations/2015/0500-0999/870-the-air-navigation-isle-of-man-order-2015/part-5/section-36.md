@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Required flight crew of aircraft[^key-9f3308bbf9f180ba57b3a1aacb43bbc5]
+## 36. Required flight crew of aircraft[^c-9f3308bbf9f180ba57b3a1aacb43bbc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An aircraft must not fly unless it carries a flight crew of the number and descr
 
 ## Annotations
 
-[^key-9f3308bbf9f180ba57b3a1aacb43bbc5]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2015/870/article/36) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-9f3308bbf9f180ba57b3a1aacb43bbc5]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2015/870/article/36) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

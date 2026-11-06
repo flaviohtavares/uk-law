@@ -32,7 +32,7 @@ summary: ''
 
 Plant health, england
 
-The Plant Health (England) (Amendment) Order 2006 (revoked)[^key-cb925a8ce8466ae38f442f65f2399e73]
+The Plant Health (England) (Amendment) Order 2006 (revoked)[^c-cb925a8ce8466ae38f442f65f2399e73]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st October 2006
 
-[^key-cb925a8ce8466ae38f442f65f2399e73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb925a8ce8466ae38f442f65f2399e73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-cb925a8ce8466ae38f442f65f2399e73]
+## 1. Title and commencement[^c-cb925a8ce8466ae38f442f65f2399e73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (England) Order 2005[^key-cb925a8ce8466ae38f442f65f2399e73]
+## 2. Amendment of the Plant Health (England) Order 2005[^c-cb925a8ce8466ae38f442f65f2399e73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb925a8ce8466ae38f442f65f2399e73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb925a8ce8466ae38f442f65f2399e73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-cb925a8ce8466ae38f442f65f2399e73]EXPLANATORY NOTE
+[^c-cb925a8ce8466ae38f442f65f2399e73]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -82,23 +82,23 @@ The Order also makes minor amendments to the principal Order.
 
 The main changes which this Order makes to the principal Order are to—
 
-- (a)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-cb925a8ce8466ae38f442f65f2399e73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A transposition note has been prepared and placed in the library of each House of Parliament. Copies of the transposition note can be obtained from Plant Health Division, Defra, Foss House, Kings Pool, Peasholme Green, York YO1 7PX. A full regulatory impact assessment has not been produced for this Order as it has no impact on the costs for business.
 
 ## Annotations
 
-[^key-cb925a8ce8466ae38f442f65f2399e73]: Textual amendment: Order revoked (1.7.2015) by [The Plant Health (England) Order 2015 (S.I. 2015/610)](https://www.legislation.gov.uk/uksi/2015/610), [Sch. 18](https://www.legislation.gov.uk/uksi/2015/610/schedule/18)
+[^c-cb925a8ce8466ae38f442f65f2399e73]: Textual amendment: Order revoked (1.7.2015) by [The Plant Health (England) Order 2015 (S.I. 2015/610)](https://www.legislation.gov.uk/uksi/2015/610), [Sch. 18](https://www.legislation.gov.uk/uksi/2015/610/schedule/18)

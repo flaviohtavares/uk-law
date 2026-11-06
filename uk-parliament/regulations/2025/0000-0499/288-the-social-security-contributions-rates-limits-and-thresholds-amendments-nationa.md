@@ -58,31 +58,31 @@ A draft of these Regulations was laid before Parliament in accordance with the p
 
 ## Part 1 — General
 
-### 1. Citation and commencement[^key-363c4e4e124dec52f47bb87e6dd58312]
+### 1. Citation and commencement[^c-363c4e4e124dec52f47bb87e6dd58312]
 
 These Regulations may be cited as the Social Security (Contributions) (Rates, Limits and Thresholds Amendments, National Insurance Funds Payments and Extension of Veteran's Relief) Regulations 2025 and come into force on 6th April 2025.
 
 ## Part 2 — Rates, limits and thresholds for National Insurance Contributions
 
-### 2. Interpretation[^key-97bf9493dab31a9d85c87cccb79905e4]
+### 2. Interpretation[^c-97bf9493dab31a9d85c87cccb79905e4]
 
 In this Part—
 
 - “**the Act**” means the Social Security Contributions and Benefits Act 1992;
 - “**the Northern Ireland Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-### 3. Rate of and small profits threshold for Class 2 contributions[^key-bb1b3d5f34a86bc90271522fd1b154d3]
+### 3. Rate of and small profits threshold for Class 2 contributions[^c-bb1b3d5f34a86bc90271522fd1b154d3]
 
 In section 11 of the Act[^f00015] and the Northern Ireland Act[^f00016] (Class 2 contributions)—
 
 - (a) in subsection (4) for “£6,725” substitute “£6,845”;
 - (b) in subsection (6) for “£3.45” substitute “£3.50”.
 
-### 4. Amount of a Class 3 contribution[^key-04bc67eb02e50b02f2bb259ec241a117]
+### 4. Amount of a Class 3 contribution[^c-04bc67eb02e50b02f2bb259ec241a117]
 
 In section 13(1) of the Act[^f00017] and the Northern Ireland Act[^f00018] (Class 3 contributions) for “£17.45” substitute “£17.75”.
 
-### 5. Amendment to the Social Security (Contributions) Regulations 2001[^key-fcdfb020ceb7f778e134c7cdd4318a40]
+### 5. Amendment to the Social Security (Contributions) Regulations 2001[^c-fcdfb020ceb7f778e134c7cdd4318a40]
 
 (1) The Social Security (Contributions) Regulations 2001[^f00019] are amended as follows.
 
@@ -91,7 +91,7 @@ In section 13(1) of the Act[^f00017] and the Northern Ireland Act[^f00018] (Clas
 - (a) for “2024” substitute “2025”;
 - (b) in paragraph (a) for “£123” substitute “£125”.
 
-### 6. Amendment to the National Insurance Contributions Act 2022[^key-22a1bc610668bb7abcebe661df362fbc]
+### 6. Amendment to the National Insurance Contributions Act 2022[^c-22a1bc610668bb7abcebe661df362fbc]
 
 (1) The National Insurance Contributions Act 2022 is amended as follows.
 
@@ -109,11 +109,11 @@ In section 13(1) of the Act[^f00017] and the Northern Ireland Act[^f00018] (Clas
 
 ## Part 3 — National Insurance Funds
 
-### 7. Prescribed percentage of estimated benefit expenditure - Great Britain[^key-f52ff716fa1691f3318b56282c831434]
+### 7. Prescribed percentage of estimated benefit expenditure - Great Britain[^c-f52ff716fa1691f3318b56282c831434]
 
 Section 2(2) of the Social Security Act 1993[^f00023] (payments into National Insurance Fund out of money provided by Parliament) has effect with respect to the tax year 2025-26 and the prescribed percentage of estimated benefit expenditure for the financial year ending with 31st March in that tax year shall be 5 per cent.
 
-### 8. Prescribed percentage of estimated benefit expenditure - Northern Ireland[^key-7b55006a8130923136e33f0e9584dc59]
+### 8. Prescribed percentage of estimated benefit expenditure - Northern Ireland[^c-7b55006a8130923136e33f0e9584dc59]
 
 Article 4(3) of the Social Security (Northern Ireland) Order 1993[^f00024] (payments into National Insurance Fund out of appropriated money) has effect with respect to the tax year 2025-26 and the prescribed percentage of estimated benefit expenditure for the financial year ending with 31st March in that tax year shall be 5 per cent.
 
@@ -175,38 +175,38 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00014]: Footnote: Section 12(2) was amended by paragraph 26 of Schedule 23 to the Finance (No.2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30).
 
-[^key-363c4e4e124dec52f47bb87e6dd58312]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-363c4e4e124dec52f47bb87e6dd58312]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
-[^key-97bf9493dab31a9d85c87cccb79905e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/288/regulation/2) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-97bf9493dab31a9d85c87cccb79905e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/288/regulation/2) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
-[^key-bb1b3d5f34a86bc90271522fd1b154d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/288/regulation/3) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-bb1b3d5f34a86bc90271522fd1b154d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/288/regulation/3) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
 [^f00015]: Footnote: Section 11 was substituted by paragraph 3 of Schedule 1 to the NICA 2015. Subsection (4) was substituted by regulation 2(3) of [S.I. 2022/1329](https://www.legislation.gov.uk/uksi/2022/1329) and was amended by section 3(1) of the National Insurance Contributions (Reduction in Rates) Act [2023 (c. 57)](https://www.legislation.gov.uk/ukpga/2023/57). The figure in subsection (6) was last substituted by [S.I. 2023/236](https://www.legislation.gov.uk/uksi/2023/236).
 
 [^f00016]: Footnote: Section 11 was substituted by paragraph 12 of Schedule 1 to the NICA 2015. Subsection (4) was substituted by regulation 3(3) of [S.I. 2022/1329](https://www.legislation.gov.uk/uksi/2022/1329) and was amended by section 3(2) of the National Insurance Contributions (Reduction in Rates) Act 2023. The figure in subsection (6) was last substituted by [S.I. 2023/236](https://www.legislation.gov.uk/uksi/2023/236).
 
-[^key-04bc67eb02e50b02f2bb259ec241a117]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/288/regulation/4) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-04bc67eb02e50b02f2bb259ec241a117]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/288/regulation/4) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
 [^f00017]: Footnote: Section 13(1) was amended by paragraph 14(2) of Schedule 3 to the Transfer Act. The figure in subsection (1) was last substituted by [S.I. 2023/236](https://www.legislation.gov.uk/uksi/2023/236).
 
 [^f00018]: Footnote: Section 13(1) was amended by paragraph 15(2) of Schedule 3 to the Transfer Order. The figure in subsection (1) was last substituted by [S.I. 2023/236](https://www.legislation.gov.uk/uksi/2023/236).
 
-[^key-fcdfb020ceb7f778e134c7cdd4318a40]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/288/regulation/5) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-fcdfb020ceb7f778e134c7cdd4318a40]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/288/regulation/5) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
 [^f00020]: Footnote: Regulation 10 was relevantly amended by section 1(2) of the National Insurance Contributions (Increase of Thresholds) Act [2022 (c. 16)](https://www.legislation.gov.uk/ukpga/2022/16) and [S.I. 2009/111](https://www.legislation.gov.uk/uksi/2009/111), [2011/940](https://www.legislation.gov.uk/uksi/2011/940), [2015/577](https://www.legislation.gov.uk/uksi/2015/577), [2016/343](https://www.legislation.gov.uk/uksi/2016/343), [2021/157](https://www.legislation.gov.uk/uksi/2021/157), [2022/232](https://www.legislation.gov.uk/uksi/2022/232) and [2024/249](https://www.legislation.gov.uk/uksi/2024/249).
 
-[^key-22a1bc610668bb7abcebe661df362fbc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/288/regulation/6) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-22a1bc610668bb7abcebe661df362fbc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/288/regulation/6) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
 [^f00021]: Footnote: Section 6(4) was amended by [S.I. 2024/249](https://www.legislation.gov.uk/uksi/2024/249).
 
 [^f00022]: Footnote: Sections 8(1) and (2) were amended by [S.I. 2023/236](https://www.legislation.gov.uk/uksi/2023/236) and [2024/249](https://www.legislation.gov.uk/uksi/2024/249).
 
-[^key-f52ff716fa1691f3318b56282c831434]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/288/regulation/7) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-f52ff716fa1691f3318b56282c831434]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/288/regulation/7) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
 [^f00023]: Footnote: Section 2(2) was amended by paragraph 60(2) of Schedule 3 to the Transfer Act
 
-[^key-7b55006a8130923136e33f0e9584dc59]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/288/regulation/8) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
+[^c-7b55006a8130923136e33f0e9584dc59]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/288/regulation/8) in force at 6.4.2025, see [reg. 1](https://www.legislation.gov.uk/uksi/2025/288/regulation/1)
 
 [^f00024]: Footnote: Article 4(3) was amended by paragraph 52(2) of Schedule 3 to the Transfer Order.

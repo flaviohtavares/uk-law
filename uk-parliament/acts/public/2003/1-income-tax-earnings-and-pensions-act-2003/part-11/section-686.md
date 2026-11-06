@@ -38,7 +38,7 @@ If the person is a director of a company and the income is income from employmen
 - (b) if the amount of the income for a period is determined before the period ends, the time when the period ends;
 - (c) if the amount of the income for a period is not determined until after the period has ended, the time when the amount is determined.
 
-But this is subject to subsection (5) ([^key-3c7fd1c06a89911af56f78c7074e8094]PAYE pension income: social security pension lump sums).
+But this is subject to subsection (5) ([^c-3c7fd1c06a89911af56f78c7074e8094]PAYE pension income: social security pension lump sums).
 
 (2) Rule 3 applies if the person is a director of the company at any time in the tax year in which the time mentioned falls.
 
@@ -52,10 +52,10 @@ and includes any person in accordance with whose directions or instructions the 
 
 (4) For the purposes of subsection (3) a person is not regarded as a person in accordance with whose directions or instructions the company’s directors are accustomed to act merely because the directors act on advice given by that person in a professional capacity.
 
-(5)[^key-593da7b835ff56b129cd28bb0fab634e] For the purposes of PAYE regulations, a payment of, or on account of, an amount which is PAYE pension income of a person by virtue of section 683(3A) (social security pension lump sums) is to be treated as made at the time when the payment is made.
+(5)[^c-593da7b835ff56b129cd28bb0fab634e] For the purposes of PAYE regulations, a payment of, or on account of, an amount which is PAYE pension income of a person by virtue of section 683(3A) (social security pension lump sums) is to be treated as made at the time when the payment is made.
 
 ## Annotations
 
-[^key-3c7fd1c06a89911af56f78c7074e8094]: Textual amendment: Words in [s. 686(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/686/1) inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 10(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/10/5)
+[^c-3c7fd1c06a89911af56f78c7074e8094]: Textual amendment: Words in [s. 686(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/686/1) inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 10(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/10/5)
 
-[^key-593da7b835ff56b129cd28bb0fab634e]: Textual amendment: [S. 686(5)](https://www.legislation.gov.uk/ukpga/2003/1/section/686/5) inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 10(6)](https://www.legislation.gov.uk/ukpga/2005/22/section/10/6)
+[^c-593da7b835ff56b129cd28bb0fab634e]: Textual amendment: [S. 686(5)](https://www.legislation.gov.uk/ukpga/2003/1/section/686/5) inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 10(6)](https://www.legislation.gov.uk/ukpga/2005/22/section/10/6)

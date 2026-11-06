@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 250. Scope[^key-273fe463c3b5acfd455f62bef6a00b20]
+## Article 250. Scope[^c-273fe463c3b5acfd455f62bef6a00b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-273fe463c3b5acfd455f62bef6a00b20]: Modification: Arts. 250-253 restricted (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(b)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/b), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-273fe463c3b5acfd455f62bef6a00b20]: Modification: Arts. 250-253 restricted (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AD(b)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AD/b), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))

@@ -36,7 +36,7 @@ summary: ''
 
 (3) A pension to which a member is entitled under this regulation becomes payable immediately the member becomes entitled to it.
 
-(4)[^key-c3a8c2baabc250e011fa6b0d22c802ee] The—
+(4)[^c-c3a8c2baabc250e011fa6b0d22c802ee] The—
 
 - (a) amount of the annual pension payable to a practitioner member under this regulation (disregarding any additional pension) will be equal to 1.87% of the member's uprated earnings, and
 - (b) the member's uprated earnings are to be calculated by uprating the member's pensionable earnings by the amount of the annual increase due under the provisions of the Pensions (Increase) Act (Northern Ireland) 1971 and Article 69 of the Social Security Pensions (Northern Ireland) Order 1975, plus 1.5% annually.
@@ -45,10 +45,10 @@ summary: ''
 
 (6) This regulation does not apply to pensions derived from pension credit rights.
 
-(7)[^key-fca151a6d84269a0e25e0d5e963409f5] In the case of 2008 Section Optant, this regulation is subject to regulation 260K.
+(7)[^c-fca151a6d84269a0e25e0d5e963409f5] In the case of 2008 Section Optant, this regulation is subject to regulation 260K.
 
 ## Annotations
 
-[^key-c3a8c2baabc250e011fa6b0d22c802ee]: Modification: [Reg. 176(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/176/4) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [18(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/b)
+[^c-c3a8c2baabc250e011fa6b0d22c802ee]: Modification: [Reg. 176(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/176/4) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [18(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/18/b)
 
-[^key-fca151a6d84269a0e25e0d5e963409f5]: Textual amendment: [Reg. 176(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/176/7) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [69](https://www.legislation.gov.uk/nisr/2010/22/regulation/69)
+[^c-fca151a6d84269a0e25e0d5e963409f5]: Textual amendment: [Reg. 176(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/176/7) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [69](https://www.legislation.gov.uk/nisr/2010/22/regulation/69)

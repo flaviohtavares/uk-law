@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Meaning of “dual capacity member”[^key-d6a8477fc698a8b46b7abacd638eb353]
+## 160. Meaning of “dual capacity member”[^c-d6a8477fc698a8b46b7abacd638eb353]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6a8477fc698a8b46b7abacd638eb353]: Commencement: [Reg. 160](https://www.legislation.gov.uk/uksi/2014/1964/regulation/160) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-d6a8477fc698a8b46b7abacd638eb353]: Commencement: [Reg. 160](https://www.legislation.gov.uk/uksi/2014/1964/regulation/160) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00080]: Footnote: See regulation 64 (exercise of partial retirement option). A member who is partially retired may be both an active member and a pensioner member.

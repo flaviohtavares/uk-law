@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Restriction of hours for which a person is available to 40 hours per week[^key-97570f1c34701c86741ce9f95e1ff0df]
+## 7. Restriction of hours for which a person is available to 40 hours per week[^c-97570f1c34701c86741ce9f95e1ff0df]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97570f1c34701c86741ce9f95e1ff0df]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-97570f1c34701c86741ce9f95e1ff0df]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

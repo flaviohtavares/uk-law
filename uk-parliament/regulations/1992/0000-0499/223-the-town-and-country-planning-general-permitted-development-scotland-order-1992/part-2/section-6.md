@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Cancellation of article 4 directions[^key-34ad5fa0f6eb83ec6bafe2e9cf36d66b]
+## 6. Cancellation of article 4 directions[^c-34ad5fa0f6eb83ec6bafe2e9cf36d66b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34ad5fa0f6eb83ec6bafe2e9cf36d66b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1992/223/article/6) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-34ad5fa0f6eb83ec6bafe2e9cf36d66b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1992/223/article/6) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)

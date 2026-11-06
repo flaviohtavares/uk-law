@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.17. Application for an order under the Proceeds of Crime Act 2002[^key-9c748c60621c4f17cea95be26d4b2f44]
+## 47.17. Application for an order under the Proceeds of Crime Act 2002[^c-9c748c60621c4f17cea95be26d4b2f44]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9c748c60621c4f17cea95be26d4b2f44]: Commencement: Rule 47.17 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9c748c60621c4f17cea95be26d4b2f44]: Commencement: Rule 47.17 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01166]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 377 was amended by section 74 of, and paragraphs 103 and 114 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), article 12 of, and paragraphs 47 and 67 of Schedule 14 to, [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), sections 15 and 55 of, and paragraphs 108 and 143 of Schedule 8 and paragraphs 14 and 37 of Schedule 21 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 224 of, and paragraphs 1 and 17 of Schedule 48 to, the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29).
 

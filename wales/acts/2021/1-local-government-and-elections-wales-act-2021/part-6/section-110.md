@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Power of the Welsh Ministers to amend etc. enactments and confer new powers[^key-f14e6401fa16b95168f3b74028d19a7f]
+## 110. Power of the Welsh Ministers to amend etc. enactments and confer new powers[^c-f14e6401fa16b95168f3b74028d19a7f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ any power which the Welsh Ministers consider necessary or expedient to permit or
 
 ## Annotations
 
-[^key-f14e6401fa16b95168f3b74028d19a7f]: Commencement: S. 110 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-f14e6401fa16b95168f3b74028d19a7f]: Commencement: S. 110 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

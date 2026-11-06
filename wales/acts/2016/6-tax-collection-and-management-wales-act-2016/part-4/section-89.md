@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Power to require information and documents about persons whose identity is not known[^key-5c93a313d3e6121dde683f38fee317ab]
+## 89. Power to require information and documents about persons whose identity is not known[^c-5c93a313d3e6121dde683f38fee317ab]
 
 *Extent: E+W*
 
@@ -35,13 +35,13 @@ summary: ''
 
 - (a) the requirements of subsection (1)(a) to (c) have been met,
 - (b) the information or document to which the notice relates is not readily available to WRA from another source,
-- (c) there are grounds for believing that the person or any of the class of persons to whom the notice relates may have failed or may fail to comply with any provision of the law relating to a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax, and
+- (c) there are grounds for believing that the person or any of the class of persons to whom the notice relates may have failed or may fail to comply with any provision of the law relating to a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax, and
 - (d) any such failure is likely to have led or to lead to serious prejudice to the assessment or collection of WRA-collected tax.
 
 (4) In approving the issuing of an unidentified third party notice, the tribunal may make such modifications to the notice as it thinks appropriate.
 
 ## Annotations
 
-[^key-5c93a313d3e6121dde683f38fee317ab]: Commencement: S. 89 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-5c93a313d3e6121dde683f38fee317ab]: Commencement: S. 89 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

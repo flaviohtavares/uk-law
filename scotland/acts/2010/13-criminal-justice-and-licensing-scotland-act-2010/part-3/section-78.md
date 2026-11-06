@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Retention of samples etc. where offer under sections 302 to 303ZA of 1995 Act accepted[^key-cf156883d924ab1a7c0f5e7657e09656]
+## 78. Retention of samples etc. where offer under sections 302 to 303ZA of 1995 Act accepted[^c-cf156883d924ab1a7c0f5e7657e09656]
 
 *Extent: S*
 
@@ -122,4 +122,4 @@ After section 18A of the 1995 Act insert—
 
 ## Annotations
 
-[^key-cf156883d924ab1a7c0f5e7657e09656]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2010/13/section/78) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/178/article/5))
+[^c-cf156883d924ab1a7c0f5e7657e09656]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2010/13/section/78) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/178/article/5))

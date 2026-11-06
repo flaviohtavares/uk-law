@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Labour market enforcement strategy[^key-6e804d90155180e792776d5c2ca0f622][^key-69dec62bd3a16e3b79221afe6ab03f06]
+## 94. Labour market enforcement strategy[^c-6e804d90155180e792776d5c2ca0f622][^c-69dec62bd3a16e3b79221afe6ab03f06]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e804d90155180e792776d5c2ca0f622]: Commencement: S. 94 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-6e804d90155180e792776d5c2ca0f622]: Commencement: S. 94 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-69dec62bd3a16e3b79221afe6ab03f06]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2025/36/section/94) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/a)
+[^c-69dec62bd3a16e3b79221afe6ab03f06]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2025/36/section/94) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/a)

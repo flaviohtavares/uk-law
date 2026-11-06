@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. General duty to conserve and enhance biodiversity[^key-acb07f2432fbf9dcadf2d6678b183d7a][^key-7f565cd845165e4d6d4717a6bddddf66]
+## 102. General duty to conserve and enhance biodiversity[^c-acb07f2432fbf9dcadf2d6678b183d7a][^c-7f565cd845165e4d6d4717a6bddddf66]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acb07f2432fbf9dcadf2d6678b183d7a]: Commencement: S. 102 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-acb07f2432fbf9dcadf2d6678b183d7a]: Commencement: S. 102 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7f565cd845165e4d6d4717a6bddddf66]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2021/30/section/102) in force at 1.1.2023 by [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/a)
+[^c-7f565cd845165e4d6d4717a6bddddf66]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2021/30/section/102) in force at 1.1.2023 by [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/a)

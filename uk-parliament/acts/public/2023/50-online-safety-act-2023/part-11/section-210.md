@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Repeal of Part 4B of the Communications Act[^key-6163bfe1e41056e014e66cdec81a5de4][^key-a00cfcfc48ec81f28c94a78f181edde1]
+## 210. Repeal of Part 4B of the Communications Act[^c-6163bfe1e41056e014e66cdec81a5de4][^c-a00cfcfc48ec81f28c94a78f181edde1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6163bfe1e41056e014e66cdec81a5de4]: Commencement: S. 210 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6163bfe1e41056e014e66cdec81a5de4]: Commencement: S. 210 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a00cfcfc48ec81f28c94a78f181edde1]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2023/50/section/210) in force at 25.7.2025 by [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
+[^c-a00cfcfc48ec81f28c94a78f181edde1]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2023/50/section/210) in force at 25.7.2025 by [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)

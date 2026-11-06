@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. No determination of liability[^key-5e2968617feaa4169bca57a480d385c3]
+## 2. No determination of liability[^c-5e2968617feaa4169bca57a480d385c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e2968617feaa4169bca57a480d385c3]: Modification: S. 2 modified (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1142/article/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
+[^c-5e2968617feaa4169bca57a480d385c3]: Modification: S. 2 modified (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1142/article/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2

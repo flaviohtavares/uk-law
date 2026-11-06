@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 421JE. Assessment of penalties[^key-28874249cdef95908eff29673b133dc0][^key-aa5abf133d2e4ea34ba8c7177f26f095]
+## 421JE. Assessment of penalties[^c-28874249cdef95908eff29673b133dc0][^c-aa5abf133d2e4ea34ba8c7177f26f095]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28874249cdef95908eff29673b133dc0]: Textual amendment: [Ss. 421JA-421JF](https://www.legislation.gov.uk/ukpga/2003/1/section/421JA) inserted (with effect in accordance with Sch. 8 para. 234 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 228](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/228), [232](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/232)
+[^c-28874249cdef95908eff29673b133dc0]: Textual amendment: [Ss. 421JA-421JF](https://www.legislation.gov.uk/ukpga/2003/1/section/421JA) inserted (with effect in accordance with Sch. 8 para. 234 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 228](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/228), [232](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/232)
 
-[^key-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
+[^c-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)

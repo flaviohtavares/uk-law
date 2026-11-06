@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72F. Building Societies Act group accounts[^key-a6611927ea19a53b670c8dc7c87f81b2]
+## 72F. Building Societies Act group accounts[^c-a6611927ea19a53b670c8dc7c87f81b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6611927ea19a53b670c8dc7c87f81b2]: Textual amendment: Ss. 72A-72I substituted for ss. 72, 73 (22.12.2004 with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [2](https://www.legislation.gov.uk/uksi/2004/3380/article/2)
+[^c-a6611927ea19a53b670c8dc7c87f81b2]: Textual amendment: Ss. 72A-72I substituted for ss. 72, 73 (22.12.2004 with effect in accordance with art. 1(2) of the amending S.I.) by [The Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004 (S.I. 2004/3380)](https://www.legislation.gov.uk/uksi/2004/3380), [arts. 1](https://www.legislation.gov.uk/uksi/2004/3380/article/1), [2](https://www.legislation.gov.uk/uksi/2004/3380/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Content and effect of deduction from earnings orders[^key-081c1bb159baa64cd66fb9c0172390e1][^key-839ccc04f84e9c3c73af16d1d55034f3]
+## 40. Content and effect of deduction from earnings orders[^c-081c1bb159baa64cd66fb9c0172390e1][^c-839ccc04f84e9c3c73af16d1d55034f3]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-081c1bb159baa64cd66fb9c0172390e1]: Commencement: S. 40 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-081c1bb159baa64cd66fb9c0172390e1]: Commencement: S. 40 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-839ccc04f84e9c3c73af16d1d55034f3]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/28/section/40) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-839ccc04f84e9c3c73af16d1d55034f3]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/28/section/40) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

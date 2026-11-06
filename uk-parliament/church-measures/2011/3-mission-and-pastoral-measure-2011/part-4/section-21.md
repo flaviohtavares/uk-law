@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England.
 
-## 21. Formulation and submission to bishop of draft proposals[^key-12949610dde00cadcbdc1a2116e068ed]
+## 21. Formulation and submission to bishop of draft proposals[^c-12949610dde00cadcbdc1a2116e068ed]
 
 *Extent: E*
 
-(1) Before deciding to make any recommendations to the bishop, the mission and pastoral committee shall so far as may be practicable ascertain the views of the interested parties or invite them to express their views—[^key-4e70f8bae9bc07dd712d753143136808]
+(1) Before deciding to make any recommendations to the bishop, the mission and pastoral committee shall so far as may be practicable ascertain the views of the interested parties or invite them to express their views—[^c-4e70f8bae9bc07dd712d753143136808]
 
 - (a) on the recommendations the committee proposes to make, or
 - (b) if the committee has yet to formulate recommendations, on the issues which the committee considers need to be addressed.
 
-(2) In this Part “**interested parties**”, in relation to any recommendations, plans,[^key-0d60ab3b42b0c1668fa7a7cea97d3e71] proposals or draft scheme, means—
+(2) In this Part “**interested parties**”, in relation to any recommendations, plans,[^c-0d60ab3b42b0c1668fa7a7cea97d3e71] proposals or draft scheme, means—
 
 - (a) incumbents of any benefices which would be affected by the implementation thereof, including vicars in a team ministry established for the area of any such benefice;
 - (b) the patrons of any such benefices;
@@ -37,7 +37,7 @@ summary: ''
 
 For the purposes of this subsection a change in the patronage of a benefice shall be deemed to affect that benefice and the parish or parishes of the benefice.
 
-(3) Where any recommendations, plans,[^key-fef7cbbed064bc138be0aa8742def9c4] proposals or draft scheme relate or relates to any person holding office under Common Tenure whose office would or might be abolished if they or it took effect [^key-98e8e95b0f05c8ad157e9527f3eb082a]..., that person shall be deemed to be an interested party for the purposes of this Part.
+(3) Where any recommendations, plans,[^c-fef7cbbed064bc138be0aa8742def9c4] proposals or draft scheme relate or relates to any person holding office under Common Tenure whose office would or might be abolished if they or it took effect [^c-98e8e95b0f05c8ad157e9527f3eb082a]..., that person shall be deemed to be an interested party for the purposes of this Part.
 
 (4) In the case of interested parties, being incumbents or vicars in a team ministry or a person referred to in subsection (3), the mission and pastoral committee shall, before reaching its decision, afford to each such person, if he or she so desires, an opportunity of meeting the committee or sub-committee or representative thereof, but, in the case of a recommendation for a union of benefices or otherwise for the dissolution of any benefice or the holding in plurality of any benefice or benefices, or the establishment of a team or group ministry for any benefice or benefices, or the abolition of any office of vicar in a team ministry, the incumbent of the benefice or each of the benefices or the holder of the office of vicar shall have an opportunity of meeting the committee (as distinct from a sub-committee or representative of the committee), if he or she so desires.
 
@@ -45,7 +45,7 @@ For the purposes of this subsection a change in the patronage of a benefice shal
 
 (6) Before deciding to make a recommendation that a declaration of closure for regular public worship be made in respect of any church the committee shall—
 
-- (a) so far as may be practicable[^key-8e1d77d428adf465b64d8bdca041bed6] ascertain the views of any local planning authority or authorities concerned;
+- (a) so far as may be practicable[^c-8e1d77d428adf465b64d8bdca041bed6] ascertain the views of any local planning authority or authorities concerned;
 - (b) notify the Church Buildings Council of the church or churches in respect of which the committee might decide to make such a recommendation and obtain from them a copy of the report which the Council is required to prepare under subsection (7).
 
 (7) As soon as practicable after receiving a notice under subsection (6) the Council shall prepare a report about—
@@ -61,7 +61,7 @@ and shall send a copy of that report to the Commissioners, the diocesan board of
 
 (9) The committee shall annex to the draft proposals formulated by it a statement of the views of the interested parties and a copy of the report prepared by the Council under subsection (7).
 
-(9A)[^key-0a88ed51f7dba75d13b18ad3ed71ac86] The duties under subsections (1), (4) and (5) do not apply in relation to a plan for pastoral organisation which has been approved by the deanery synod of each deanery which would be affected by implementation of the plan if—
+(9A)[^c-0a88ed51f7dba75d13b18ad3ed71ac86] The duties under subsections (1), (4) and (5) do not apply in relation to a plan for pastoral organisation which has been approved by the deanery synod of each deanery which would be affected by implementation of the plan if—
 
 - (a) the plan has also been approved by the mission and pastoral committee,
 - (b) the draft proposals submitted under subsection (8) are to the same effect, or substantially the same effect, as proposals included in the plan as so approved,
@@ -72,22 +72,22 @@ and shall send a copy of that report to the Commissioners, the diocesan board of
 
 (10) In this section “**incumbent**”, in relation to a benefice in respect of which a suspension period has been declared and is for the time being in force, means the priest in charge thereof.
 
-(11)[^key-2a98aa5b9adb35db2f735a015f46ac7b] The reference in subsection (1) to the interested parties includes a reference to any other person who the mission and pastoral committee considers might be affected by the matters in question; and the references in subsections (4), (5), (9) and (9A) to the interested parties are accordingly to be read as including a reference to those other persons.
+(11)[^c-2a98aa5b9adb35db2f735a015f46ac7b] The reference in subsection (1) to the interested parties includes a reference to any other person who the mission and pastoral committee considers might be affected by the matters in question; and the references in subsections (4), (5), (9) and (9A) to the interested parties are accordingly to be read as including a reference to those other persons.
 
 ## Annotations
 
-[^key-12949610dde00cadcbdc1a2116e068ed]: Commencement: S. 21 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-12949610dde00cadcbdc1a2116e068ed]: Commencement: S. 21 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-4e70f8bae9bc07dd712d753143136808]: Textual amendment: [S. 21(1)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/1/a)[(b)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/1/b) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(6)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/6), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-4e70f8bae9bc07dd712d753143136808]: Textual amendment: [S. 21(1)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/1/a)[(b)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/1/b) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(6)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/6), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
 
-[^key-0d60ab3b42b0c1668fa7a7cea97d3e71]: Textual amendment: Word in [s. 21(2)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/2) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(7)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/7), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-0d60ab3b42b0c1668fa7a7cea97d3e71]: Textual amendment: Word in [s. 21(2)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/2) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(7)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/7), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
 
-[^key-fef7cbbed064bc138be0aa8742def9c4]: Textual amendment: Word in [s. 21(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/3) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(7)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/7), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-fef7cbbed064bc138be0aa8742def9c4]: Textual amendment: Word in [s. 21(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/3) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(7)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/7), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
 
-[^key-98e8e95b0f05c8ad157e9527f3eb082a]: Textual amendment: Words repealed (6.8.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(4)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/4); [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2077/article/2/1) (with [Sch. para. 6(1)](https://www.legislation.gov.uk/uksi/2014/2077/schedule/paragraph/6/1))
+[^c-98e8e95b0f05c8ad157e9527f3eb082a]: Textual amendment: Words repealed (6.8.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(4)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/4); [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/2077/article/2/1) (with [Sch. para. 6(1)](https://www.legislation.gov.uk/uksi/2014/2077/schedule/paragraph/6/1))
 
-[^key-8e1d77d428adf465b64d8bdca041bed6]: Textual amendment: Words in [s. 21(6)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/6/a) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(8)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/8), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-8e1d77d428adf465b64d8bdca041bed6]: Textual amendment: Words in [s. 21(6)(a)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/6/a) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(8)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/8), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
 
-[^key-0a88ed51f7dba75d13b18ad3ed71ac86]: Textual amendment: [S. 21(9A)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/9A)[(9B)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/9B) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(9)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/9), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-0a88ed51f7dba75d13b18ad3ed71ac86]: Textual amendment: [S. 21(9A)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/9A)[(9B)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/9B) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(9)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/9), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
 
-[^key-2a98aa5b9adb35db2f735a015f46ac7b]: Textual amendment: [S. 21(11)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/11) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(10)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/10), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-2a98aa5b9adb35db2f735a015f46ac7b]: Textual amendment: [S. 21(11)](https://www.legislation.gov.uk/ukcm/2011/3/section/21/11) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 1(10)](https://www.legislation.gov.uk/ukcm/2018/4/section/1/10), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)

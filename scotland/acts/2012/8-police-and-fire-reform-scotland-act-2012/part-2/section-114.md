@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Strategic plan[^key-0d26a875d5abf9b52a87c66405aa18d0][^key-997a624f40f122748f37ea59e16575bb]
+## 114. Strategic plan[^c-0d26a875d5abf9b52a87c66405aa18d0][^c-997a624f40f122748f37ea59e16575bb]
 
 *Extent: S*
 
@@ -118,6 +118,6 @@ After section 41 of the 2005 Act, insert—
 
 ## Annotations
 
-[^key-0d26a875d5abf9b52a87c66405aa18d0]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2012/8/section/114) in force at 1.10.2012 for specified purposes by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 8(1)](https://www.legislation.gov.uk/ssi/2012/253/article/8/1)[(2)](https://www.legislation.gov.uk/ssi/2012/253/article/8/2))
+[^c-0d26a875d5abf9b52a87c66405aa18d0]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2012/8/section/114) in force at 1.10.2012 for specified purposes by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 8(1)](https://www.legislation.gov.uk/ssi/2012/253/article/8/1)[(2)](https://www.legislation.gov.uk/ssi/2012/253/article/8/2))
 
-[^key-997a624f40f122748f37ea59e16575bb]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2012/8/section/114) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-997a624f40f122748f37ea59e16575bb]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2012/8/section/114) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Air traffic services licensed under Part 1 of the Transport Act 2000: enforcement[^key-6f2cc1c1c1dc7966e7b764ec17735ec2]
+## 10. Air traffic services licensed under Part 1 of the Transport Act 2000: enforcement[^c-6f2cc1c1c1dc7966e7b764ec17735ec2]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f2cc1c1c1dc7966e7b764ec17735ec2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/12/section/10) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-6f2cc1c1c1dc7966e7b764ec17735ec2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/12/section/10) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)

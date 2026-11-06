@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. New regulation 2A (interpretation: best available techniques (“BAT”)[^key-cc3154acdc6b4ccf0540302d563b0263]
+## 5. New regulation 2A (interpretation: best available techniques (“BAT”)[^c-cc3154acdc6b4ccf0540302d563b0263]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ After regulation 2 (interpretation), insert—
 
 ## Annotations
 
-[^key-cc3154acdc6b4ccf0540302d563b0263]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/165/regulation/5) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-cc3154acdc6b4ccf0540302d563b0263]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/165/regulation/5) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

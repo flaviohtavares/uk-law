@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Public rights of way to be temporarily stopped up[^key-f829fa8577065afebad96c6f0c190df8]
+## SCHEDULE 4 — Public rights of way to be temporarily stopped up[^c-f829fa8577065afebad96c6f0c190df8]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ Article 17
 
 ## Annotations
 
-[^key-f829fa8577065afebad96c6f0c190df8]: Commencement: Sch. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-f829fa8577065afebad96c6f0c190df8]: Commencement: Sch. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

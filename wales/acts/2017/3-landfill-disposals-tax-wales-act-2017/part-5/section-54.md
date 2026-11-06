@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Power to make provision for tax credits[^key-fb5dea561789482966f2c882cb5ae238]
+## 54. Power to make provision for tax credits[^c-fb5dea561789482966f2c882cb5ae238]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb5dea561789482966f2c882cb5ae238]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2017/3/section/54) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/955/article/2/f)
+[^c-fb5dea561789482966f2c882cb5ae238]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2017/3/section/54) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/955/article/2/f)

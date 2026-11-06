@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Extinction of private rights of way[^key-c7eceb5a2aa2f5c827786c0484431f87]
+## 32. Extinction of private rights of way[^c-c7eceb5a2aa2f5c827786c0484431f87]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7eceb5a2aa2f5c827786c0484431f87]: Commencement: Art. 32 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-c7eceb5a2aa2f5c827786c0484431f87]: Commencement: Art. 32 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

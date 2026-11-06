@@ -24,7 +24,7 @@ Articles 8, 9, 15, 16, 35 and 49
 
 ### Apparatus of statutory undertakers etc. on land acquired
 
-**1.**[^key-1476cf71a5784a29a3395c70691192a9] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) apply in relation to any land acquired or appropriated by the Company under this Order subject to the following provisions of this paragraph: and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-1476cf71a5784a29a3395c70691192a9] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) apply in relation to any land acquired or appropriated by the Company under this Order subject to the following provisions of this paragraph: and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -46,7 +46,7 @@ is entitled to recover from the Company compensation in respect of expenditure r
 
 ### Apparatus of statutory undertakers etc. in stopped up streets
 
-**2.**[^key-51c9bdea89f9748fc1ca0a6a71cbdee9] (1) Where a street is stopped up under this Order any statutory utility whose apparatus is under, in, upon, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-51c9bdea89f9748fc1ca0a6a71cbdee9] (1) Where a street is stopped up under this Order any statutory utility whose apparatus is under, in, upon, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street may, and if reasonably requested to do so by the Company must—
 
@@ -85,7 +85,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### Railway and navigation undertakings
 
-**3.**[^key-fb7a51d0c646d5f259c71ad710eca909] (1) Subject to the following provisions of this paragraph, the powers under article 8 (power to execute street works*)* to break up or open a street are not exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980)—
+**3.**[^c-fb7a51d0c646d5f259c71ad710eca909] (1) Subject to the following provisions of this paragraph, the powers under article 8 (power to execute street works*)* to break up or open a street are not exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980)—
 
 - (a) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority; or
 - (b) forms part of a level crossing belonging to any such undertakers or to such an authority or to any other person,
@@ -100,12 +100,12 @@ except with the consent of the undertakers or authority or, as the case may be, 
 
 ## Annotations
 
-[^key-1476cf71a5784a29a3395c70691192a9]: Commencement: Sch. 13 para. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-1476cf71a5784a29a3395c70691192a9]: Commencement: Sch. 13 para. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00036]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00037]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-51c9bdea89f9748fc1ca0a6a71cbdee9]: Commencement: Sch. 13 para. 2 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-51c9bdea89f9748fc1ca0a6a71cbdee9]: Commencement: Sch. 13 para. 2 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
-[^key-fb7a51d0c646d5f259c71ad710eca909]: Commencement: Sch. 13 para. 3 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-fb7a51d0c646d5f259c71ad710eca909]: Commencement: Sch. 13 para. 3 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Acting while disqualified[^key-4a76a2df9d7cfdc51842cd98cda245cd]
+## 82. Acting while disqualified[^c-4a76a2df9d7cfdc51842cd98cda245cd]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a76a2df9d7cfdc51842cd98cda245cd]: Commencement: [S. 82](https://www.legislation.gov.uk/mwa/2011/5/section/82) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)
+[^c-4a76a2df9d7cfdc51842cd98cda245cd]: Commencement: [S. 82](https://www.legislation.gov.uk/mwa/2011/5/section/82) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)

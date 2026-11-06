@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34D. The Specialist Register[^key-9a57fee46fdfa0d193ec4e7f087225b8]
+## 34D. The Specialist Register[^c-9a57fee46fdfa0d193ec4e7f087225b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (4) A person falling within any of paragraphs (a) to (c) of subsection (2) shall only be included in the Specialist Register if they have applied to the Registrar for the purpose and have paid any fee specified in regulations under section 34O.
 
-(5)[^key-1c473b31364f15e57dad03c73a7f4ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1c473b31364f15e57dad03c73a7f4ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The scheme referred to in subsection (2)(b) is a scheme published by the General Council for the inclusion in the Specialist Register of persons who, immediately before 1st January 1997, were either NHS consultants or consultants in a medical specialty in the armed forces.
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
-[^key-1c473b31364f15e57dad03c73a7f4ad4]: Textual amendment: [S. 34D(5)](https://www.legislation.gov.uk/ukpga/1983/54/section/34D/5) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/19) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c473b31364f15e57dad03c73a7f4ad4]: Textual amendment: [S. 34D(5)](https://www.legislation.gov.uk/ukpga/1983/54/section/34D/5) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/19) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

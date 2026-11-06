@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Right to request revocation of specification of ship[^key-a7ac8b256922570a9eb88ae118cea84e]
+## 27. Right to request revocation of specification of ship[^c-a7ac8b256922570a9eb88ae118cea84e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ have the meaning given by section 26(1).
 
 ## Annotations
 
-[^key-a7ac8b256922570a9eb88ae118cea84e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2018/13/section/27) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-a7ac8b256922570a9eb88ae118cea84e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2018/13/section/27) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

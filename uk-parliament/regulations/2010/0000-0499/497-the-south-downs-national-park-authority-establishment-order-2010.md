@@ -236,7 +236,7 @@ Article 10
 
 (7) So far as is consistent with the preceding provisions of this paragraph, the following provisions of this Schedule will apply to the calling and conduct of meetings under this paragraph.
 
-### 2. Annual meetings and other meetings of the Authority[^key-8eeabccc8293bf88630443ba1b10800a]
+### 2. Annual meetings and other meetings of the Authority[^c-8eeabccc8293bf88630443ba1b10800a]
 
 (1) In the year commencing 1st April 2011 and in each subsequent year the Authority must hold an annual meeting, and those meetings are to be held at such hour as the Authority may fix, or if no hour is fixed, at twelve noon.
 
@@ -266,7 +266,7 @@ Article 10
 
 (4) Where necessary, the meeting at which the casual vacancy is to be filled must be convened by the National Park officer.
 
-### 5. Calling of meetings of the Authority[^key-b3f9bac2db008115d3a3a295a4a21175]
+### 5. Calling of meetings of the Authority[^c-b3f9bac2db008115d3a3a295a4a21175]
 
 (1) Meetings of the Authority are to be held at such place, whether or not in the South Downs National Park, as the Authority may direct.
 
@@ -543,9 +543,9 @@ No impact assessment has been undertaken for this instrument as it applies the e
 
 [^c20154431]: Marginal citation: From the time specified, and subject to section 4A(4) and (5), the Authority becomes the sole local planning authority.
 
-[^key-8eeabccc8293bf88630443ba1b10800a]: Modification: Sch. 1 para. 2 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/12/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-8eeabccc8293bf88630443ba1b10800a]: Modification: Sch. 1 para. 2 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/12/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-b3f9bac2db008115d3a3a295a4a21175]: Modification: Sch. 1 para. 5 modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/12/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-b3f9bac2db008115d3a3a295a4a21175]: Modification: Sch. 1 para. 5 modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/12/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c20154441]: Marginal citation: But see section 100B(4) of the 1972 Act (consideration of items of business), inserted by section 1 of the [Local Government (Access to Information) Act 1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43), and applied to National Park authorities by section 100J(1)(cd) of the 1972 Act (inserted by paragraph 12(2)(a) of Schedule 7 to the 1995 Act), which provides that an item may be considered where the chair of the meeting considers it is a matter of urgency by reason of special circumstances which are to be specified in the minutes.
 

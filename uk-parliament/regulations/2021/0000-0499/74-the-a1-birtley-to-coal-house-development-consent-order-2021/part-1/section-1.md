@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-d23adf64cb18f5b2e35292a7c79e9282]
+## 1. Citation and commencement[^c-d23adf64cb18f5b2e35292a7c79e9282]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A1 Birtley to Coal House Development Consent Orde
 
 ## Annotations
 
-[^key-d23adf64cb18f5b2e35292a7c79e9282]: Commencement: Art. 1 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-d23adf64cb18f5b2e35292a7c79e9282]: Commencement: Art. 1 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

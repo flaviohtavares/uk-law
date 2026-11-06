@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) No appeal lies to the First-tier Tribunal[^key-c4aa3e001c08b4bd0d3945448b3ff9b2] against a decision set out in Schedule 2.
+(1) No appeal lies to the First-tier Tribunal[^c-c4aa3e001c08b4bd0d3945448b3ff9b2] against a decision set out in Schedule 2.
 
 (2) In paragraph (1) and Schedule 2, “decision” includes determinations embodied in or necessary to a decision.
 
-(3)[^key-85860da9cc02ca46efb2540975634c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-85860da9cc02ca46efb2540975634c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4aa3e001c08b4bd0d3945448b3ff9b2]: Textual amendment: Words in reg. 27(1) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 117(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/117/a)
+[^c-c4aa3e001c08b4bd0d3945448b3ff9b2]: Textual amendment: Words in reg. 27(1) substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 117(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/117/a)
 
-[^key-85860da9cc02ca46efb2540975634c30]: Textual amendment: Reg. 27(3) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 117(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/117/b)
+[^c-85860da9cc02ca46efb2540975634c30]: Textual amendment: Reg. 27(3) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 117(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/117/b)

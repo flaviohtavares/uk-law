@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Use of powers in emergencies[^key-5d174a01e3435b21efb27bf9a72734f4]
+## 79. Use of powers in emergencies[^c-5d174a01e3435b21efb27bf9a72734f4]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d174a01e3435b21efb27bf9a72734f4]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2008/5/section/79) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5d174a01e3435b21efb27bf9a72734f4]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2008/5/section/79) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

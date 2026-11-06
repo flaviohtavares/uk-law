@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 254. Proof altered after payment of dividend[^key-2f1f342a5862e04c1df86b3a536dcf6a]
+## 254. Proof altered after payment of dividend[^c-2f1f342a5862e04c1df86b3a536dcf6a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.8 of the 1986 Rules.
 
 ## Annotations
 
-[^key-2f1f342a5862e04c1df86b3a536dcf6a]: Commencement: Rule 254 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2f1f342a5862e04c1df86b3a536dcf6a]: Commencement: Rule 254 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

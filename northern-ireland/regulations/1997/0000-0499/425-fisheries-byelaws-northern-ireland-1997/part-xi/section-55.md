@@ -20,10 +20,10 @@ summary: ''
 
 **Not yet in force.**
 
-**55.**[^key-13e5f240f3ce2a74f92687e1f82e35f8] Where a draft net or a tidal draft net is operated from the shore the only permitted mode of using such net shall be as follows, namely—
+**55.**[^c-13e5f240f3ce2a74f92687e1f82e35f8] Where a draft net or a tidal draft net is operated from the shore the only permitted mode of using such net shall be as follows, namely—
 
 one end of the rope of the net shall be held on the shore or bank and the net shall by shot or paid out from a boat which shall start from such shore or bank and return thereto without avoidable pause or delay, and the net shall thereupon be drawn into and landed on such shore or bank.
 
 ## Annotations
 
-[^key-13e5f240f3ce2a74f92687e1f82e35f8]: Commencement: S. 55 in operation at 1.11.1997, see byelaw 1
+[^c-13e5f240f3ce2a74f92687e1f82e35f8]: Commencement: S. 55 in operation at 1.11.1997, see byelaw 1

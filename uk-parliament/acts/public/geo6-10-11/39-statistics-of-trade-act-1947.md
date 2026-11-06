@@ -31,7 +31,7 @@ Statistics of Trade Act 1947
 
 An Act to enable certain government departments to obtain more readily the information necessary for the appreciation of economic trends and for the discharge of their functions; to consolidate and amend the law relating to the census of production; to provide for a census of distribution and other services; and for purposes connected with the matters aforesaid.
 
-\[31st July 1947\][^c5931531][^c5931541][^c5931551][^c5931561][^c5931571][^c5931581][^key-1f2f25a56106301277f3a5458d29ab37]
+\[31st July 1947\][^c5931531][^c5931541][^c5931551][^c5931561][^c5931571][^c5931581][^c-1f2f25a56106301277f3a5458d29ab37]
 
 ## 1. Power of competent authorities to obtain information.
 
@@ -149,14 +149,14 @@ and in this subsection “**coal**” means coal within the meaning of the Coal 
 
 (1) Nothing in section nine of this Act shall prevent or penalise the disclosure by the Secretary of State of information obtained under this Act—
 
-- (a) to the Environment Agency, the Natural Resources Body for Wales[^key-8969194384a32c53a1a8f39ed9eec321] or the Scottish Environment Protection Agency; or
-- (b) to an officer of any of those bodies authorised by that body[^key-65a9ee227e0746663b980f96c7b86a30] to receive the information.
+- (a) to the Environment Agency, the Natural Resources Body for Wales[^c-8969194384a32c53a1a8f39ed9eec321] or the Scottish Environment Protection Agency; or
+- (b) to an officer of any of those bodies authorised by that body[^c-65a9ee227e0746663b980f96c7b86a30] to receive the information.
 
-(2) A person to whom information is disclosed in pursuance of the last foregoing subsection shall not use the information for any purpose other than the purposes of any functions of the body[^key-c77ec2dd2f040a423a3e122d4019a5d2] in question.
+(2) A person to whom information is disclosed in pursuance of the last foregoing subsection shall not use the information for any purpose other than the purposes of any functions of the body[^c-c77ec2dd2f040a423a3e122d4019a5d2] in question.
 
 ## 10. Information from persons entering or leaving the United Kingdom by air.[^c5931941]
 
-(1) The Board of Trade may by order make provision whereby any person entering or leaving the United Kingdom by air may be required to give, to such person and in such form and manner as may be prescribed, particulars of his age, sex and marriage or civil partnership[^key-c1b0566a0f46d5451d3a02d429076f84] and of the nature of his occupation and particulars of the country in which he last permanently resided and the country in which he intends next permanently to reside.
+(1) The Board of Trade may by order make provision whereby any person entering or leaving the United Kingdom by air may be required to give, to such person and in such form and manner as may be prescribed, particulars of his age, sex and marriage or civil partnership[^c-c1b0566a0f46d5451d3a02d429076f84] and of the nature of his occupation and particulars of the country in which he last permanently resided and the country in which he intends next permanently to reside.
 
 (2) If it is not reasonably practicable to require any such person to give any such particulars as aforesaid any other person in whose company and under whose care he is travelling may be required to give those particulars on his behalf.
 
@@ -261,7 +261,7 @@ The nature of the undertaking (including its association with other undertakings
 
 [^c5931581]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-1f2f25a56106301277f3a5458d29ab37]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39) excluded (E.W.S.) (1.4.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/3/paragraph/11/5); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
+[^c-1f2f25a56106301277f3a5458d29ab37]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39) excluded (E.W.S.) (1.4.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/3/paragraph/11/5); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
 
 [^c5931591]: Modification: [S. 1(1)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/1/1) extended (S.) (1.4.1991) by [Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64)](https://www.legislation.gov.uk/ukpga/1990/35), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/12/1)
 
@@ -297,15 +297,15 @@ The nature of the undertaking (including its association with other undertakings
 
 [^c22560981]: Textual amendment: S. 9A inserted (1.2.1996) by [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2)
 
-[^key-8969194384a32c53a1a8f39ed9eec321]: Textual amendment: Words in [s. 9A(1)(a)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/9A/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/2/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8969194384a32c53a1a8f39ed9eec321]: Textual amendment: Words in [s. 9A(1)(a)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/9A/1/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/2/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-65a9ee227e0746663b980f96c7b86a30]: Textual amendment: Words in [s. 9A(1)(b)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/9A/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/2/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-65a9ee227e0746663b980f96c7b86a30]: Textual amendment: Words in [s. 9A(1)(b)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/9A/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/2/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c77ec2dd2f040a423a3e122d4019a5d2]: Textual amendment: Word in [s. 9A(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/9A/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/2/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c77ec2dd2f040a423a3e122d4019a5d2]: Textual amendment: Word in [s. 9A(2)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/9A/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/2/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c5931941]: Modification: Certain functions of the Secretary of State transferred by [S.I. 1989/992](https://www.legislation.gov.uk/uksi/1989/992), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1989/992/article/2/1/2)
 
-[^key-c1b0566a0f46d5451d3a02d429076f84]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/10/1) inserted (15.4.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/12); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1)
+[^c-c1b0566a0f46d5451d3a02d429076f84]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/Geo6/10-11/39/section/10/1) inserted (15.4.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/12); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1)
 
 [^c5931951]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46), (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [arts. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5), [6](https://www.legislation.gov.uk/nisi/1984/703/article/6)
 

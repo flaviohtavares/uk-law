@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Green deal providers[^key-ce25b25d0420d2302841db6cc263c2e3]
+## 15. Green deal providers[^c-ce25b25d0420d2302841db6cc263c2e3]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce25b25d0420d2302841db6cc263c2e3]: Commencement: Reg. 15 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-ce25b25d0420d2302841db6cc263c2e3]: Commencement: Reg. 15 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

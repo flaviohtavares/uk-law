@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-decb88e129a96efb3c28258bbc6bdd67] In section 45 of the Safeguarding Vulnerable Groups Act 2006 (duty of supervisory authorities to refer)—
+(1)[^c-decb88e129a96efb3c28258bbc6bdd67] In section 45 of the Safeguarding Vulnerable Groups Act 2006 (duty of supervisory authorities to refer)—
 
 - (a) in subsection (1)—
   - (i) for “must” substitute “ may ”, and
@@ -33,7 +33,7 @@ summary: ''
 - (d) omit subsection (6), and
 - (e) in the heading for “duty” substitute “ power ”.
 
-(2)[^key-decb88e129a96efb3c28258bbc6bdd67] In section 47 of that Act (supervisory authorities: power to apply for vetting information)—
+(2)[^c-decb88e129a96efb3c28258bbc6bdd67] In section 47 of that Act (supervisory authorities: power to apply for vetting information)—
 
 - (a) in the heading for “vetting” substitute “ certain barring ”,
 - (b) in subsection (1) for “the Secretary of State”, in both places where it occurs, substitute “ ISA ”,
@@ -75,7 +75,7 @@ summary: ''
     >   - (ii) that the notification is not required in connection with the exercise of a function of the supervisory authority mentioned in section 45(7).
 
     , and
-- (f)[^key-decb88e129a96efb3c28258bbc6bdd67] in subsection (8) for “prescribe” substitute “ determine ”.
+- (f)[^c-decb88e129a96efb3c28258bbc6bdd67] in subsection (8) for “prescribe” substitute “ determine ”.
 
 (4) In section 49 of that Act (supervisory authorities: notification of barring etc. in respect of vulnerable adults)—
 
@@ -110,9 +110,9 @@ summary: ''
     >   - (ii) that the notification is not required in connection with the exercise of a function of the supervisory authority mentioned in section 45(7).
 
     , and
-- (f)[^key-decb88e129a96efb3c28258bbc6bdd67] in subsection (8) for “prescribe” substitute “ determine ”.
+- (f)[^c-decb88e129a96efb3c28258bbc6bdd67] in subsection (8) for “prescribe” substitute “ determine ”.
 
-(5)[^key-decb88e129a96efb3c28258bbc6bdd67] In section 50 of that Act (provision of information to supervisory authorities)—
+(5)[^c-decb88e129a96efb3c28258bbc6bdd67] In section 50 of that Act (provision of information to supervisory authorities)—
 
 - (a) in subsection (2) for “must” substitute “ may (whether on an application by the authority or otherwise) ”,
 - (b) in subsection (3)—
@@ -126,4 +126,4 @@ summary: ''
 
 ## Annotations
 
-[^key-decb88e129a96efb3c28258bbc6bdd67]: Commencement: S. 76(1)(2)(3)(f)(4)(f)(5) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(m)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/m)
+[^c-decb88e129a96efb3c28258bbc6bdd67]: Commencement: S. 76(1)(2)(3)(f)(4)(f)(5) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(m)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/m)

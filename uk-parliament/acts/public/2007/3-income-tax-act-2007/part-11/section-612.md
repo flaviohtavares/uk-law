@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 612. Non-standard repo cases[^key-c0ceba0b343abd96c06c5062835a07e1]
+## 612. Non-standard repo cases[^c-c0ceba0b343abd96c06c5062835a07e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ceba0b343abd96c06c5062835a07e1]: Textual amendment: Ss. 607-614 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(2)(d)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/2/d)
+[^c-c0ceba0b343abd96c06c5062835a07e1]: Textual amendment: Ss. 607-614 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(2)(d)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/2/d)

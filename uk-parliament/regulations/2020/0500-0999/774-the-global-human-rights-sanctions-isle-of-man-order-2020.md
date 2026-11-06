@@ -31,7 +31,7 @@ summary: ''
 
 Sanctions
 
-The Global Human Rights Sanctions (Isle of Man) Order 2020 (revoked)[^key-4b4805aee34afabf6b5fde9c95198e9c]
+The Global Human Rights Sanctions (Isle of Man) Order 2020 (revoked)[^c-4b4805aee34afabf6b5fde9c95198e9c]
 
 Made
 
@@ -47,90 +47,90 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-4b4805aee34afabf6b5fde9c95198e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4805aee34afabf6b5fde9c95198e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4b4805aee34afabf6b5fde9c95198e9c]
+## 1. Citation, commencement and extent[^c-4b4805aee34afabf6b5fde9c95198e9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of the Global Human Rights Sanctions Regulations 2020[^key-4b4805aee34afabf6b5fde9c95198e9c]
+## 2. Extension of the Global Human Rights Sanctions Regulations 2020[^c-4b4805aee34afabf6b5fde9c95198e9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^key-4b4805aee34afabf6b5fde9c95198e9c]
+## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^c-4b4805aee34afabf6b5fde9c95198e9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b4805aee34afabf6b5fde9c95198e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4805aee34afabf6b5fde9c95198e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Modifications to be made in the extension of the Global Human Rights Sanctions Regulations 2020 to the Isle of Man[^key-4b4805aee34afabf6b5fde9c95198e9c]
+## SCHEDULE — Modifications to be made in the extension of the Global Human Rights Sanctions Regulations 2020 to the Isle of Man[^c-4b4805aee34afabf6b5fde9c95198e9c]
 
 Article 2
 
-**1.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-4b4805aee34afabf6b5fde9c95198e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b4805aee34afabf6b5fde9c95198e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4805aee34afabf6b5fde9c95198e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b4805aee34afabf6b5fde9c95198e9c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/774) revoked (3.10.2024) by [The Sanctions (Isle of Man) (Revocations) Order 2024 (S.I. 2024/985)](https://www.legislation.gov.uk/uksi/2024/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/985/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2024/985/regulation/2/a)
+[^c-4b4805aee34afabf6b5fde9c95198e9c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/774) revoked (3.10.2024) by [The Sanctions (Isle of Man) (Revocations) Order 2024 (S.I. 2024/985)](https://www.legislation.gov.uk/uksi/2024/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/985/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2024/985/regulation/2/a)

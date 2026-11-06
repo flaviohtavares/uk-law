@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Transitional and saving measures relating to the General Dental Council[^key-6e1a55ab7da08676ec5364a5e1728455]
+## 7. Transitional and saving measures relating to the General Dental Council[^c-6e1a55ab7da08676ec5364a5e1728455]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6e1a55ab7da08676ec5364a5e1728455]: Commencement: Art. 7 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
+[^c-6e1a55ab7da08676ec5364a5e1728455]: Commencement: Art. 7 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
 
 [^f00011]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28).
 

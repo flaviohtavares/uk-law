@@ -163,20 +163,20 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S+N.I.*
 
-#### Targeted authorisations for obtaining data: the Investigatory Powers Commissioner[^key-625a328ebf66ddfb96e0ca797becc9db]
+#### Targeted authorisations for obtaining data: the Investigatory Powers Commissioner[^c-625a328ebf66ddfb96e0ca797becc9db]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 60A — Power of Investigatory Powers Commissioner to grant authorisations](part-3/section-60a.md)
 
-#### Targeted authorisations for obtaining data : designated senior officers[^key-9a7982a29d876fb7957d479ae12eff9e]
+#### Targeted authorisations for obtaining data : designated senior officers[^c-9a7982a29d876fb7957d479ae12eff9e]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 61 — Power of designated senior officers to grant authorisations](part-3/section-61.md)
 - [Section 61A — Power of designated senior officers to grant authorisations: urgent cases](part-3/section-61a.md)
 
-#### Further provision about authorisations[^key-146d82768464ea21087f30f8cbf100ff]
+#### Further provision about authorisations[^c-146d82768464ea21087f30f8cbf100ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,7 +239,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 92 — Data integrity and security](part-4/section-92.md)
 - [Section 93 — Disclosure of retained data](part-4/section-93.md)
 
-#### Variation , revocation or renewal of notices[^key-83b19a1621791747ad923733d99677a0]
+#### Variation , revocation or renewal of notices[^c-83b19a1621791747ad923733d99677a0]
 
 - [Section 94 — Variation or revocation of notices](part-4/section-94.md)
 - [Section 94A — Renewal of notices](part-4/section-94a.md)
@@ -438,12 +438,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 199 — Bulk personal datasets: interpretation](part-7/section-199.md)
 
-#### Requirement for authorisation[^key-5da6eb38905f55096a371b7fb1634633]
+#### Requirement for authorisation[^c-5da6eb38905f55096a371b7fb1634633]
 
 - [Section 200 — Requirement for authorisation ...: general](part-7/section-200.md)
 - [Section 201 — Exceptions to section 200(1) and (2)](part-7/section-201.md)
 
-#### Restriction on use of class BPD warrants etc[^key-fbcfb04001999637e4ca96bca6ab6d3b]
+#### Restriction on use of class BPD warrants etc[^c-fbcfb04001999637e4ca96bca6ab6d3b]
 
 - [Section 202 — Restriction on use of class BPD warrants](part-7/section-202.md)
 - [Section 202A — Further provision about sensitive processing](part-7/section-202a.md)
@@ -481,20 +481,20 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 225 — Application of Part to bulk personal datasets obtained under this Act](part-7/section-225.md)
 - [Section 226 — Part 7: interpretation](part-7/section-226.md)
 
-### Part 7A — Bulk personal dataset authorisations[^key-2782a17596a6d275274a936351539900]
+### Part 7A — Bulk personal dataset authorisations[^c-2782a17596a6d275274a936351539900]
 
-#### Low or no reasonable expectation of privacy[^key-2782a17596a6d275274a936351539900]
+#### Low or no reasonable expectation of privacy[^c-2782a17596a6d275274a936351539900]
 
 - [Section 226A — Bulk personal datasets: low or no reasonable expectation of privacy](part-7a/section-226a.md)
 
-#### Issue of authorisations[^key-2782a17596a6d275274a936351539900]
+#### Issue of authorisations[^c-2782a17596a6d275274a936351539900]
 
 - [Section 226B — Individual authorisation](part-7a/section-226b.md)
 - [Section 226BA — Category authorisation](part-7a/section-226ba.md)
 - [Section 226BB — Approval of authorisations by Judicial Commissioners](part-7a/section-226bb.md)
 - [Section 226BC — Approval of individual authorisations granted in urgent cases](part-7a/section-226bc.md)
 
-#### Duration, renewal and cancellation[^key-2782a17596a6d275274a936351539900]
+#### Duration, renewal and cancellation[^c-2782a17596a6d275274a936351539900]
 
 - [Section 226C — Duration of authorisation](part-7a/section-226c.md)
 - [Section 226CA — Renewal of authorisation](part-7a/section-226ca.md)
@@ -502,25 +502,25 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 226CC — Non-renewal or cancellation of individual authorisation](part-7a/section-226cc.md)
 - [Section 226CD — Non-renewal or cancellation of category authorisation](part-7a/section-226cd.md)
 
-#### Further and supplementary provision[^key-2782a17596a6d275274a936351539900]
+#### Further and supplementary provision[^c-2782a17596a6d275274a936351539900]
 
 - [Section 226D — Section 226A ceasing to apply to part of bulk personal dataset](part-7a/section-226d.md)
 - [Section 226DA — Annual report](part-7a/section-226da.md)
 - [Section 226DB — Report to Intelligence and Security Committee](part-7a/section-226db.md)
 - [Section 226DC — Part 7A: interpretation](part-7a/section-226dc.md)
 
-### Part 7B — Third party bulk personal datasets[^key-311e55a8788bc37e9dc678e99b31cc97]
+### Part 7B — Third party bulk personal datasets[^c-311e55a8788bc37e9dc678e99b31cc97]
 
-#### Interpretation[^key-311e55a8788bc37e9dc678e99b31cc97]
+#### Interpretation[^c-311e55a8788bc37e9dc678e99b31cc97]
 
 - [Section 226E — Third party bulk personal datasets: interpretation](part-7b/section-226e.md)
 
-#### Requirement for warrant[^key-311e55a8788bc37e9dc678e99b31cc97]
+#### Requirement for warrant[^c-311e55a8788bc37e9dc678e99b31cc97]
 
 - [Section 226F — Requirement for authorisation by warrant](part-7b/section-226f.md)
 - [Section 226FA — Exceptions to section 226F(1)](part-7b/section-226fa.md)
 
-#### Issue of warrants[^key-311e55a8788bc37e9dc678e99b31cc97]
+#### Issue of warrants[^c-311e55a8788bc37e9dc678e99b31cc97]
 
 - [Section 226G — Application for third party BPD warrant](part-7b/section-226g.md)
 - [Section 226GA — Approval of warrants by Judicial Commissioners](part-7b/section-226ga.md)
@@ -528,14 +528,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 226GC — Decisions to issue warrants to be taken personally by Secretary of State](part-7b/section-226gc.md)
 - [Section 226GD — Requirements that must be met by warrants](part-7b/section-226gd.md)
 
-#### Duration, renewal and cancellation[^key-311e55a8788bc37e9dc678e99b31cc97]
+#### Duration, renewal and cancellation[^c-311e55a8788bc37e9dc678e99b31cc97]
 
 - [Section 226H — Duration of warrants](part-7b/section-226h.md)
 - [Section 226HA — Renewal of warrants](part-7b/section-226ha.md)
 - [Section 226HB — Cancellation of warrants](part-7b/section-226hb.md)
 - [Section 226HC — Non-renewal or cancellation of third party BPD warrant](part-7b/section-226hc.md)
 
-#### Further and supplementary provision[^key-311e55a8788bc37e9dc678e99b31cc97]
+#### Further and supplementary provision[^c-311e55a8788bc37e9dc678e99b31cc97]
 
 - [Section 226I — Initial inspection](part-7b/section-226i.md)
 - [Section 226IA — Safeguards relating to examination of third party bulk personal datasets](part-7b/section-226ia.md)
@@ -587,7 +587,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 242 — Right of appeal from Tribunal](part-8/section-242.md)
 - [Section 243 — Functions of Tribunal in relation to this Act etc.](part-8/section-243.md)
 
-##### Information Commission[^key-270cc7c2029e0c6f885136e3b4952ad2]
+##### Information Commission[^c-270cc7c2029e0c6f885136e3b4952ad2]
 
 - [Section 244 — Oversight by Information Commission in relation to Part 4](part-8/section-244.md)
 
@@ -671,20 +671,20 @@ SCHEDULES
 
 ## Annotations
 
-[^key-625a328ebf66ddfb96e0ca797becc9db]: Textual amendment: S. 60A and cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [5](https://www.legislation.gov.uk/uksi/2018/1123/regulation/5) (see S.I. 2019/174, reg. 2(c))
+[^c-625a328ebf66ddfb96e0ca797becc9db]: Textual amendment: S. 60A and cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [5](https://www.legislation.gov.uk/uksi/2018/1123/regulation/5) (see S.I. 2019/174, reg. 2(c))
 
-[^key-9a7982a29d876fb7957d479ae12eff9e]: Textual amendment: Words in s. 61 cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [6(1)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/6/1) (see S.I. 2019/174, reg. 2(c))
+[^c-9a7982a29d876fb7957d479ae12eff9e]: Textual amendment: Words in s. 61 cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/b)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [6(1)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/6/1) (see S.I. 2019/174, reg. 2(c))
 
-[^key-146d82768464ea21087f30f8cbf100ff]: Textual amendment: S. 62 cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/2) (see S.I. 2019/174, reg. 2(c))
+[^c-146d82768464ea21087f30f8cbf100ff]: Textual amendment: S. 62 cross-heading inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/2) (see S.I. 2019/174, reg. 2(c))
 
-[^key-83b19a1621791747ad923733d99677a0]: Textual amendment: Words in [s. 94 cross-heading](https://www.legislation.gov.uk/ukpga/2016/25/part/4/crossheading/variation-or-revocation-of-notices) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
+[^c-83b19a1621791747ad923733d99677a0]: Textual amendment: Words in [s. 94 cross-heading](https://www.legislation.gov.uk/ukpga/2016/25/part/4/crossheading/variation-or-revocation-of-notices) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
 
-[^key-5da6eb38905f55096a371b7fb1634633]: Textual amendment: Word in [s. 200 cross-heading](https://www.legislation.gov.uk/ukpga/2016/25/part/7/crossheading/requirement-for-warrant) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/1/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/a)
+[^c-5da6eb38905f55096a371b7fb1634633]: Textual amendment: Word in [s. 200 cross-heading](https://www.legislation.gov.uk/ukpga/2016/25/part/7/crossheading/requirement-for-warrant) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/1/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/a)
 
-[^key-fbcfb04001999637e4ca96bca6ab6d3b]: Textual amendment: S. 202 cross-heading inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2024/9/section/1/6), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/a)
+[^c-fbcfb04001999637e4ca96bca6ab6d3b]: Textual amendment: S. 202 cross-heading inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2024/9/section/1/6), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/a)
 
-[^key-2782a17596a6d275274a936351539900]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/2016/25/part/7A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2024/9/section/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/b)
+[^c-2782a17596a6d275274a936351539900]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/2016/25/part/7A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2024/9/section/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/b)
 
-[^key-311e55a8788bc37e9dc678e99b31cc97]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/ukpga/2016/25/part/7B) inserted (14.10.2024 for specified purposes, 25.4.2025 in so far as not already in force) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/e); [S.I. 2025/501](https://www.legislation.gov.uk/uksi/2025/501), [reg. 2](https://www.legislation.gov.uk/uksi/2025/501/regulation/2)
+[^c-311e55a8788bc37e9dc678e99b31cc97]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/ukpga/2016/25/part/7B) inserted (14.10.2024 for specified purposes, 25.4.2025 in so far as not already in force) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/e); [S.I. 2025/501](https://www.legislation.gov.uk/uksi/2025/501), [reg. 2](https://www.legislation.gov.uk/uksi/2025/501/regulation/2)
 
-[^key-270cc7c2029e0c6f885136e3b4952ad2]: Textual amendment: Words in [s. 244 cross-heading](https://www.legislation.gov.uk/ukpga/2016/25/part/8/chapter/2/crossheading/information-commissioner) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-270cc7c2029e0c6f885136e3b4952ad2]: Textual amendment: Words in [s. 244 cross-heading](https://www.legislation.gov.uk/ukpga/2016/25/part/8/chapter/2/crossheading/information-commissioner) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-cb63be1931a364d928c4adff4037e583]
+Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-cb63be1931a364d928c4adff4037e583]
 
 Made
 
@@ -43,28 +43,28 @@ Coming into operation
 
 1st October 2001
 
-[^key-cb63be1931a364d928c4adff4037e583]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb63be1931a364d928c4adff4037e583]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cb63be1931a364d928c4adff4037e583]
+## 1. Citation and commencement[^c-cb63be1931a364d928c4adff4037e583]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cb63be1931a364d928c4adff4037e583]
+## 2. Interpretation[^c-cb63be1931a364d928c4adff4037e583]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-cb63be1931a364d928c4adff4037e583]
+## 3. Amendment of the principal Regulations[^c-cb63be1931a364d928c4adff4037e583]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb63be1931a364d928c4adff4037e583]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb63be1931a364d928c4adff4037e583]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cb63be1931a364d928c4adff4037e583]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb63be1931a364d928c4adff4037e583]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb63be1931a364d928c4adff4037e583]: Textual amendment: Regulations revoked (6.9.2004) by [Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2004 (S.R. 2004/325)](https://www.legislation.gov.uk/nisr/2004/325), [regs. 1](https://www.legislation.gov.uk/nisr/2004/325/regulation/1), [27](https://www.legislation.gov.uk/nisr/2004/325/regulation/27)
+[^c-cb63be1931a364d928c4adff4037e583]: Textual amendment: Regulations revoked (6.9.2004) by [Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2004 (S.R. 2004/325)](https://www.legislation.gov.uk/nisr/2004/325), [regs. 1](https://www.legislation.gov.uk/nisr/2004/325/regulation/1), [27](https://www.legislation.gov.uk/nisr/2004/325/regulation/27)

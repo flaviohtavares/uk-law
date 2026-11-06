@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Withdrawal of maintenance grants from voluntary grammar school[^key-d594e3b8b6bde99e1650956d1ae62310]
+## 62. Withdrawal of maintenance grants from voluntary grammar school[^c-d594e3b8b6bde99e1650956d1ae62310]
 
 *Extent: N.I.*
 
-(1) The Department may give to the Board of Governors of a voluntary grammar school a notice stating that the duty of the Authority[^key-e3fe5222b542e714c17c11f792bd7053] under Article 61 to pay maintenance grants to the Board of Governors of the school will cease on a date specified in the notice.
+(1) The Department may give to the Board of Governors of a voluntary grammar school a notice stating that the duty of the Authority[^c-e3fe5222b542e714c17c11f792bd7053] under Article 61 to pay maintenance grants to the Board of Governors of the school will cease on a date specified in the notice.
 
 (2) Subject to the following provisions of this Article—
 
@@ -74,14 +74,14 @@ summary: ''
 (13) In this Article—
 
 - “notice” means notice in writing;
-- [^key-69fd086017e82b243c6ed7d4bf4a8dd8]...
+- [^c-69fd086017e82b243c6ed7d4bf4a8dd8]...
 
 ## Annotations
 
-[^key-d594e3b8b6bde99e1650956d1ae62310]: Commencement: [Art. 62](https://www.legislation.gov.uk/nisi/1998/1759/article/62) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
+[^c-d594e3b8b6bde99e1650956d1ae62310]: Commencement: [Art. 62](https://www.legislation.gov.uk/nisi/1998/1759/article/62) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
 
-[^key-e3fe5222b542e714c17c11f792bd7053]: Textual amendment: Words in art. 62 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 62)
+[^c-e3fe5222b542e714c17c11f792bd7053]: Textual amendment: Words in art. 62 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 62)
 
 [^M_F_a2ba2660-b3de-4ebd-f8c5-e40d8701d3e6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of [S.I. 1998/1759](https://www.legislation.gov.uk/uksi/1998/1759), [art. 62](https://www.legislation.gov.uk/uksi/1998/1759/article/62))
 
-[^key-69fd086017e82b243c6ed7d4bf4a8dd8]: Textual amendment: Words in art. 62(13) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 62)
+[^c-69fd086017e82b243c6ed7d4bf4a8dd8]: Textual amendment: Words in art. 62(13) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 62)

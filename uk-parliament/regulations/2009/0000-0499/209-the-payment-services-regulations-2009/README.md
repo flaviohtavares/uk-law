@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Payment Services Regulations 2009 (revoked)[^key-c2895bc6ddd587866ea113ab509df027]
+The Payment Services Regulations 2009 (revoked)[^c-c2895bc6ddd587866ea113ab509df027]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-c2895bc6ddd587866ea113ab509df027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2895bc6ddd587866ea113ab509df027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — INTRODUCTORY PROVISIONS[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 1 — INTRODUCTORY PROVISIONS[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,13 +58,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Exemption for certain bodies](part-1/section-3.md)
 
-### PART 2 — REGISTRATION[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 2 — REGISTRATION[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### The register[^key-c2895bc6ddd587866ea113ab509df027]
+#### The register[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 4 — The register of certain payment service providers](part-2/section-4.md)
 
-#### Authorisation as a payment institution[^key-c2895bc6ddd587866ea113ab509df027]
+#### Authorisation as a payment institution[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,7 +86,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 10 — Cancellation of authorisation](part-2/section-10.md)
 - [Section 11 — Variation of authorisation on Authority’s own initiative](part-2/section-11.md)
 
-#### Registration as a small payment institution[^key-c2895bc6ddd587866ea113ab509df027]
+#### Registration as a small payment institution[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,7 +97,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 14 — Supplementary provisions](part-2/section-14.md)
 - [Section 15 — Application for authorisation as a payment institution where the financial limit is exceeded](part-2/section-15.md)
 
-#### Common provisions[^key-c2895bc6ddd587866ea113ab509df027]
+#### Common provisions[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,7 +106,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 16 — Duty to notify changes](part-2/section-16.md)
 - [Section 17 — Authorised payment institutions and small payment institutions acting without permission](part-2/section-17.md)
 
-### PART 3 — AUTHORISED PAYMENT INSTITUTIONS[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 3 — AUTHORISED PAYMENT INSTITUTIONS[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,7 +118,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 21 — Outsourcing](part-3/section-21.md)
 - [Section 22 — Record keeping](part-3/section-22.md)
 
-#### Exercise of passport rights[^key-c2895bc6ddd587866ea113ab509df027]
+#### Exercise of passport rights[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,7 +129,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 25 — Supervision of firms exercising passport rights](part-3/section-25.md)
 - [Section 26 — Carrying on of Consumer Credit Act business by EEA authorised payment institutions](part-3/section-26.md)
 
-### PART 4 — PROVISIONS APPLICABLE TO AUTHORISED PAYMENT INSTITUTIONS AND SMALL PAYMENT INSTITUTIONS[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 4 — PROVISIONS APPLICABLE TO AUTHORISED PAYMENT INSTITUTIONS AND SMALL PAYMENT INSTITUTIONS[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,13 +142,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 31 — Reliance](part-4/section-31.md)
 - [Section 32 — Duty to notify change in circumstance](part-4/section-32.md)
 
-### PART 5 — INFORMATION REQUIREMENTS FOR PAYMENT SERVICES[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 5 — INFORMATION REQUIREMENTS FOR PAYMENT SERVICES[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Application[^key-c2895bc6ddd587866ea113ab509df027]
+#### Application[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,7 +158,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 34 — Disapplication of certain regulations in the case of consumer credit agreements](part-5/section-34.md)
 - [Section 35 — Disapplication of certain regulations in the case of low-value payment instruments](part-5/section-35.md)
 
-#### Single payment service contracts[^key-c2895bc6ddd587866ea113ab509df027]
+#### Single payment service contracts[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,7 +169,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 38 — Information for the payee after execution](part-5/section-38.md)
 - [Section 39 — Avoidance of duplication of information](part-5/section-39.md)
 
-#### Framework contracts[^key-c2895bc6ddd587866ea113ab509df027]
+#### Framework contracts[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -183,7 +183,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 45 — Information for the payer on individual payment transactions](part-5/section-45.md)
 - [Section 46 — Information for the payee on individual payment transactions](part-5/section-46.md)
 
-#### Common provisions[^key-c2895bc6ddd587866ea113ab509df027]
+#### Common provisions[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -194,13 +194,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 49 — Currency and currency conversion](part-5/section-49.md)
 - [Section 50 — Information on additional charges or reductions](part-5/section-50.md)
 
-### PART 6 — RIGHTS AND OBLIGATIONS IN RELATION TO THE PROVISION OF PAYMENT SERVICES[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 6 — RIGHTS AND OBLIGATIONS IN RELATION TO THE PROVISION OF PAYMENT SERVICES[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Application[^key-c2895bc6ddd587866ea113ab509df027]
+#### Application[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -210,7 +210,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 52 — Disapplication of certain regulations in the case of consumer credit agreements](part-6/section-52.md)
 - [Section 53 — Disapplication of certain regulations in the case of low value payment instruments](part-6/section-53.md)
 
-#### Charges[^key-c2895bc6ddd587866ea113ab509df027]
+#### Charges[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -218,7 +218,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 54 — Charges](part-6/section-54.md)
 
-#### Authorisation of payment transactions[^key-c2895bc6ddd587866ea113ab509df027]
+#### Authorisation of payment transactions[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -235,7 +235,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 63 — Refunds for payment transactions initiated by or through a payee](part-6/section-63.md)
 - [Section 64 — Requests for refunds for payment transactions initiated by or through a payee](part-6/section-64.md)
 
-#### Execution of payment transactions[^key-c2895bc6ddd587866ea113ab509df027]
+#### Execution of payment transactions[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -246,7 +246,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 67 — Revocation of a payment order](part-6/section-67.md)
 - [Section 68 — Amounts transferred and amounts received](part-6/section-68.md)
 
-#### Execution time and value date[^key-c2895bc6ddd587866ea113ab509df027]
+#### Execution time and value date[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -258,7 +258,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 72 — Cash placed on a payment account](part-6/section-72.md)
 - [Section 73 — Value date and availability of funds](part-6/section-73.md)
 
-#### Liability[^key-c2895bc6ddd587866ea113ab509df027]
+#### Liability[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -271,13 +271,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 78 — Right of recourse](part-6/section-78.md)
 - [Section 79 — Force majeure](part-6/section-79.md)
 
-### PART 7 — THE AUTHORITY[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 7 — THE AUTHORITY[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### The functions of the Authority[^key-c2895bc6ddd587866ea113ab509df027]
+#### The functions of the Authority[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -285,7 +285,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 80 — Functions of the Authority](part-7/section-80.md)
 
-#### Supervision and enforcement[^key-c2895bc6ddd587866ea113ab509df027]
+#### Supervision and enforcement[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,7 +303,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 90 — Restitution orders](part-7/section-90.md)
 - [Section 91 — Complaints](part-7/section-91.md)
 
-#### Miscellaneous[^key-c2895bc6ddd587866ea113ab509df027]
+#### Miscellaneous[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -314,13 +314,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 94 — Authority’s exemption from liability in damages](part-7/section-94.md)
 - [Section 95 — Application and modification of primary and secondary legislation](part-7/section-95.md)
 
-### PART 8 — ACCESS TO PAYMENT SYSTEMS[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 8 — ACCESS TO PAYMENT SYSTEMS[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### General[^key-c2895bc6ddd587866ea113ab509df027]
+#### General[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -329,7 +329,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 96 — Application of Part 8](part-8/section-96.md)
 - [Section 97 — Prohibition on restrictive rules on access to payment systems](part-8/section-97.md)
 
-#### Supervision and enforcement[^key-c2895bc6ddd587866ea113ab509df027]
+#### Supervision and enforcement[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -344,7 +344,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 104 — Enforcement of decisions](part-8/section-104.md)
 - [Section 105 — Power of OFT to impose financial penalties](part-8/section-105.md)
 
-#### Miscellaneous[^key-c2895bc6ddd587866ea113ab509df027]
+#### Miscellaneous[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -355,13 +355,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 108 — Defamation](part-8/section-108.md)
 - [Section 109 — Guidance](part-8/section-109.md)
 
-### PART 9 — GENERAL[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 9 — GENERAL[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Criminal Offences[^key-c2895bc6ddd587866ea113ab509df027]
+#### Criminal Offences[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -377,7 +377,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 117 — Prosecution of offences](part-9/section-117.md)
 - [Section 118 — Proceedings against unincorporated bodies](part-9/section-118.md)
 
-#### Duties of the Authority, the Commissioners and the OFT to cooperate[^key-c2895bc6ddd587866ea113ab509df027]
+#### Duties of the Authority, the Commissioners and the OFT to cooperate[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -385,7 +385,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 119 — Duty to co-operate and exchange of information](part-9/section-119.md)
 
-#### Actions for breach of requirements[^key-c2895bc6ddd587866ea113ab509df027]
+#### Actions for breach of requirements[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -393,7 +393,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 120 — Right to bring actions](part-9/section-120.md)
 
-#### Transitional provisions[^key-c2895bc6ddd587866ea113ab509df027]
+#### Transitional provisions[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -405,7 +405,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 124 — Transitional provisions: early applications](part-9/section-124.md)
 - [Section 125 — Transitional provisions: the ombudsman scheme](part-9/section-125.md)
 
-#### Amendments to primary and secondary legislation[^key-c2895bc6ddd587866ea113ab509df027]
+#### Amendments to primary and secondary legislation[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -424,16 +424,16 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-c2895bc6ddd587866ea113ab509df027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2895bc6ddd587866ea113ab509df027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-c2895bc6ddd587866ea113ab509df027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2895bc6ddd587866ea113ab509df027]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

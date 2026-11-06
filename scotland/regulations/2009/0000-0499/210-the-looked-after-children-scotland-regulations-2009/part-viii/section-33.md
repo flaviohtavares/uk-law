@@ -23,7 +23,7 @@ summary: ''
 (1) A local authority shall, subject to such conditions as they consider necessary, pay such allowance, as they see fit to–
 
 - (a) a foster carer or a kinship carer with whom a child has been placed in accordance with these Regulations;
-- (b) where a child is required by virtue of a compulsory supervision order[^key-f5b683391aae97b6c661cf36dca846bf] to reside with a person other than their parent, the person with whom the child is directed to reside; and
+- (b) where a child is required by virtue of a compulsory supervision order[^c-f5b683391aae97b6c661cf36dca846bf] to reside with a person other than their parent, the person with whom the child is directed to reside; and
 - (c) any person in whom parental responsibilities and parental rights are vested by virtue of the making of a permanence order with whom a child who is the subject of that order is residing.
 
 (2) Any allowance payable in terms of paragraph (1) may–
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b683391aae97b6c661cf36dca846bf]: Textual amendment: Words in reg. 33(1)(b) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(12)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/12); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f5b683391aae97b6c661cf36dca846bf]: Textual amendment: Words in reg. 33(1)(b) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(12)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/12); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

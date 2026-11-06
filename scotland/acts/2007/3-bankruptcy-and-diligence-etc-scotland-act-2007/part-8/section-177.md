@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1) The officer of court[^key-810c3d16291769a9322e7f22bd8df497] must attach and remove, from the place in which it is found, such money, the value of which in the opinion of the officer does not exceed a sum equal to the sum mentioned in subsection (2) below (in this Part, the “sum recoverable by the money attachment”).
+(1) The officer of court[^c-810c3d16291769a9322e7f22bd8df497] must attach and remove, from the place in which it is found, such money, the value of which in the opinion of the officer does not exceed a sum equal to the sum mentioned in subsection (2) below (in this Part, the “sum recoverable by the money attachment”).
 
 (2) That sum is—
 
 - (a) the sum for the payment of which the charge was served, together with any interest accruing after such service and before the money attachment ceases to have effect; and
 - (b) all expenses which are chargeable against the debtor by virtue of the money attachment.
 
-(3) Where cash in a currency other than sterling is attached, the officer of court[^key-dfdfa41d4cce8085c31f8dde937560c5] must, as soon as reasonably practicable after attaching it, convert that cash into sterling.
+(3) Where cash in a currency other than sterling is attached, the officer of court[^c-dfdfa41d4cce8085c31f8dde937560c5] must, as soon as reasonably practicable after attaching it, convert that cash into sterling.
 
 (4) The officer of court must take all reasonable steps to obtain the highest amount for such cash as is practicable.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-810c3d16291769a9322e7f22bd8df497]: Textual amendment: Words in [s. 177(1)](https://www.legislation.gov.uk/asp/2007/3/section/177/1) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-810c3d16291769a9322e7f22bd8df497]: Textual amendment: Words in [s. 177(1)](https://www.legislation.gov.uk/asp/2007/3/section/177/1) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-dfdfa41d4cce8085c31f8dde937560c5]: Textual amendment: Words in [s. 177(3)-(8)](https://www.legislation.gov.uk/asp/2007/3/section/177/3) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-dfdfa41d4cce8085c31f8dde937560c5]: Textual amendment: Words in [s. 177(3)-(8)](https://www.legislation.gov.uk/asp/2007/3/section/177/3) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

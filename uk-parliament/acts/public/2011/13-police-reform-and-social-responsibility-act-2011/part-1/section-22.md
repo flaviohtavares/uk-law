@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Minimum budget for police and crime commissioner[^key-030d7b484817b2bdb780e6fc1d6b8217]
+## 22. Minimum budget for police and crime commissioner[^c-030d7b484817b2bdb780e6fc1d6b8217]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) for “a police authority established under section 3” substitute “ a police and crime commissioner ”;
 - (b) for “the authority” substitute “ the commissioner ”;
-- (c)[^key-ea8d04b07bf9a6fa2c3be7aca7473fd9] for “its” substitute “the commissioner's”.
+- (c)[^c-ea8d04b07bf9a6fa2c3be7aca7473fd9] for “its” substitute “the commissioner's”.
 
 (3) After subsection (1) insert—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-030d7b484817b2bdb780e6fc1d6b8217]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/13/section/22) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-030d7b484817b2bdb780e6fc1d6b8217]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/13/section/22) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
 
-[^key-ea8d04b07bf9a6fa2c3be7aca7473fd9]: Textual amendment: [S. 22(2)(c)](https://www.legislation.gov.uk/ukpga/2011/13/section/22/2/c) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/54); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-ea8d04b07bf9a6fa2c3be7aca7473fd9]: Textual amendment: [S. 22(2)(c)](https://www.legislation.gov.uk/ukpga/2011/13/section/22/2/c) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/54); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

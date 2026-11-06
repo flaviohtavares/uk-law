@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Determination of licences, licence fees and frequencies associated with particular licences[^key-29ed5653ef27b1b1c83296e9109a6ab0]
+## 108. Determination of licences, licence fees and frequencies associated with particular licences[^c-29ed5653ef27b1b1c83296e9109a6ab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ After notification of the results of the assignment stage under regulation 106 O
 
 ## Annotations
 
-[^key-29ed5653ef27b1b1c83296e9109a6ab0]: Commencement: Reg. 108 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-29ed5653ef27b1b1c83296e9109a6ab0]: Commencement: Reg. 108 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

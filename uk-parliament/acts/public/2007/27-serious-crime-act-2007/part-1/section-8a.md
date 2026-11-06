@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Serious crime prevention orders that are terrorism-related[^key-b85a1f2b4dda8f31118abab43525b0ef]
+## 8A. Serious crime prevention orders that are terrorism-related[^c-b85a1f2b4dda8f31118abab43525b0ef]
 
 *Extent: E+W+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b85a1f2b4dda8f31118abab43525b0ef]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2007/27/section/8A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/3)
+[^c-b85a1f2b4dda8f31118abab43525b0ef]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2007/27/section/8A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/3)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) A person who takes any article in pawn from an individual whom he knows to be, or who appears to be and is, a minor commits an offence.
 
-(3) This section and sections 117[^key-a5ccea045a4b410546692b85ab2d531a] to 122 do not apply to—
+(3) This section and sections 117[^c-a5ccea045a4b410546692b85ab2d531a] to 122 do not apply to—
 
 - (a) a pledge of documents of title or of bearer bonds[^c2431591], or
 - (b) a non-commercial agreement.
@@ -33,6 +33,6 @@ summary: ''
 
 [^c2431581]: Modification: S. 114 excluded by [Banking Act 1979 (c. 37, SIF 10)](https://www.legislation.gov.uk/ukpga/1979/37), [s. 38(2)](https://www.legislation.gov.uk/ukpga/1979/37/section/38/2)
 
-[^key-a5ccea045a4b410546692b85ab2d531a]: Textual amendment: Word in s. 114(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(36)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/36)
+[^c-a5ccea045a4b410546692b85ab2d531a]: Textual amendment: Word in s. 114(3) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(36)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/36)
 
 [^c2431591]: Textual amendment: Words inserted by [Banking Act 1979 (c. 37, SIF 10)](https://www.legislation.gov.uk/ukpga/1979/37), [s. 38(2)](https://www.legislation.gov.uk/ukpga/1979/37/section/38/2)

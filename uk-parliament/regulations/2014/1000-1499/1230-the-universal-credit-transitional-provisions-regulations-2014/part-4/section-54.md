@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. The transitional element - indicative UC amount[^key-ab5976e6ae3bb01e7de4432d14861ae1][^key-90e3de9c82961a5746b71bf6175c0696]
+## 54. The transitional element - indicative UC amount[^c-ab5976e6ae3bb01e7de4432d14861ae1][^c-90e3de9c82961a5746b71bf6175c0696]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab5976e6ae3bb01e7de4432d14861ae1]: Modification: Reg. 54 modified (temp.) (with effect in accordance with reg. 3(2) of the amending S.I. (as amended)) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/3/3); S.I. 2020/397, [2(1)](https://www.legislation.gov.uk/uksi/2020/397/regulation/2/1)
+[^c-ab5976e6ae3bb01e7de4432d14861ae1]: Modification: Reg. 54 modified (temp.) (with effect in accordance with reg. 3(2) of the amending S.I. (as amended)) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/3/3); S.I. 2020/397, [2(1)](https://www.legislation.gov.uk/uksi/2020/397/regulation/2/1)
 
-[^key-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
+[^c-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))

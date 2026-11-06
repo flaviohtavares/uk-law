@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Modification of Road Traffic Regulation Orders[^key-1718f7f319b4b9c9dac91ce385c64f70]
+## 18. Modification of Road Traffic Regulation Orders[^c-1718f7f319b4b9c9dac91ce385c64f70]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1718f7f319b4b9c9dac91ce385c64f70]: Commencement: Art. 18 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-1718f7f319b4b9c9dac91ce385c64f70]: Commencement: Art. 18 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
 
 [^c24427431]: Marginal citation: [S.I. 2004/197](https://www.legislation.gov.uk/uksi/2004/197).
 

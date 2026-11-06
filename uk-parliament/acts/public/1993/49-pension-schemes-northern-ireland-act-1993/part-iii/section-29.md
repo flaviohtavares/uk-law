@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Tax requirements to prevail over requirements of section 27.[^key-96ded7affc70090629f3590cacde3702][^key-59735307dc91369249be937af33c7e79]
+## 29. Tax requirements to prevail over requirements of section 27.[^c-96ded7affc70090629f3590cacde3702][^c-59735307dc91369249be937af33c7e79]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96ded7affc70090629f3590cacde3702]: Textual amendment: S. 29 omitted (6.4.2015) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(d)](https://www.legislation.gov.uk/nisr/2012/124/article/1/d), [31(3)](https://www.legislation.gov.uk/nisr/2012/124/article/31/3)
+[^c-96ded7affc70090629f3590cacde3702]: Textual amendment: S. 29 omitted (6.4.2015) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(d)](https://www.legislation.gov.uk/nisr/2012/124/article/1/d), [31(3)](https://www.legislation.gov.uk/nisr/2012/124/article/31/3)
 
-[^key-59735307dc91369249be937af33c7e79]: Textual amendment: Words in s. 29 substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(4)(a)](https://www.legislation.gov.uk/nisr/2012/124/article/4/4/a)
+[^c-59735307dc91369249be937af33c7e79]: Textual amendment: Words in s. 29 substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(4)(a)](https://www.legislation.gov.uk/nisr/2012/124/article/4/4/a)

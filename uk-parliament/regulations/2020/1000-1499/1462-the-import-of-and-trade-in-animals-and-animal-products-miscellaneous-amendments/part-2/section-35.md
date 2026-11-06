@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of the Environment, Food and Rural Affairs (Amendment) (EU Exit) Regulations 2019[^key-8314d2f93b1e0019beeefd00cc57685e]
+## 35. Amendment of the Environment, Food and Rural Affairs (Amendment) (EU Exit) Regulations 2019[^c-8314d2f93b1e0019beeefd00cc57685e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Environment, Food and Rural Affairs (Amendment) (EU Exit) Regulations 201
 
 ## Annotations
 
-[^key-8314d2f93b1e0019beeefd00cc57685e]: Commencement: Reg. 35 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
+[^c-8314d2f93b1e0019beeefd00cc57685e]: Commencement: Reg. 35 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
 
 [^c24364481]: Marginal citation: [S.I. 2019/778](https://www.legislation.gov.uk/uksi/2019/778).

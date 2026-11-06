@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Substantial and entrenched market power[^key-f8a3e12a56d3a55df1c4484dcf81a56d][^key-5cc265e43233d19c985b03c2ac6699c9]
+## 5. Substantial and entrenched market power[^c-f8a3e12a56d3a55df1c4484dcf81a56d][^c-5cc265e43233d19c985b03c2ac6699c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In order to assess whether an undertaking has substantial and entrenched market 
 
 ## Annotations
 
-[^key-f8a3e12a56d3a55df1c4484dcf81a56d]: Commencement: S. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f8a3e12a56d3a55df1c4484dcf81a56d]: Commencement: S. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5cc265e43233d19c985b03c2ac6699c9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/13/section/5) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-5cc265e43233d19c985b03c2ac6699c9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/13/section/5) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

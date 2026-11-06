@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Duties and liabilities of partnerships and unincorporated bodies[^key-ac635e670a5002e40a4ac515f6e140eb]
+## 83. Duties and liabilities of partnerships and unincorporated bodies[^c-ac635e670a5002e40a4ac515f6e140eb]
 
 *Extent: E+W*
 
@@ -47,13 +47,13 @@ the person's personal liability for tax chargeable in respect of the accounting 
 
 - (a) an amount of tax;
 - (b) a penalty under an enactment relating to the tax;
-- (ba)[^key-b9b059bf996857d65eec70723ea21be9] an amount payable in respect of a tax credit;
-- (c) interest on an amount within paragraph (a), (b) or (ba)[^key-fb640cdcda212bacb5c799dc5c5ee5ee].
+- (ba)[^c-b9b059bf996857d65eec70723ea21be9] an amount payable in respect of a tax credit;
+- (c) interest on an amount within paragraph (a), (b) or (ba)[^c-fb640cdcda212bacb5c799dc5c5ee5ee].
 
 ## Annotations
 
-[^key-ac635e670a5002e40a4ac515f6e140eb]: Commencement: S. 83 in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
+[^c-ac635e670a5002e40a4ac515f6e140eb]: Commencement: S. 83 in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
 
-[^key-b9b059bf996857d65eec70723ea21be9]: Textual amendment: S. 83(8)(ba) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/6/a)
+[^c-b9b059bf996857d65eec70723ea21be9]: Textual amendment: S. 83(8)(ba) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/6/a)
 
-[^key-fb640cdcda212bacb5c799dc5c5ee5ee]: Textual amendment: Words in s. 83(8)(c) substituted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/6/b)
+[^c-fb640cdcda212bacb5c799dc5c5ee5ee]: Textual amendment: Words in s. 83(8)(c) substituted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/6/b)

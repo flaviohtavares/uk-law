@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Power to decline certain participation requests[^key-86acd4436dea407180a25b7049975c1a]
+## 27. Power to decline certain participation requests[^c-86acd4436dea407180a25b7049975c1a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86acd4436dea407180a25b7049975c1a]: Commencement: S. 27 in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)
+[^c-86acd4436dea407180a25b7049975c1a]: Commencement: S. 27 in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)

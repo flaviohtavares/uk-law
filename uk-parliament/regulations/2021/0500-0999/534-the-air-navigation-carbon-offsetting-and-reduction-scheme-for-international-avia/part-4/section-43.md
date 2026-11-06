@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Approval, publication and revision of charges[^key-16fbc2bec8d4333de80fee2000ff99b1]
+## 43. Approval, publication and revision of charges[^c-16fbc2bec8d4333de80fee2000ff99b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) A charging scheme cannot be published unless it has been approved—
 
-- (a) in the case of proposals by the Environment Agency, by the Secretary of State,[^key-a96af836ba6bfa0e2269ea667369b246]
+- (a) in the case of proposals by the Environment Agency, by the Secretary of State,[^c-a96af836ba6bfa0e2269ea667369b246]
 - (b) in the case of proposals by SEPA, by the Scottish Ministers,
 - (c) in the case of proposals by NRW, by the Welsh Ministers,
 - (d) in the case of proposals by the chief inspector, by the Department of Agriculture, Environment and Rural Affairs[^f00041].
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-16fbc2bec8d4333de80fee2000ff99b1]: Commencement: Art. 43 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-16fbc2bec8d4333de80fee2000ff99b1]: Commencement: Art. 43 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-a96af836ba6bfa0e2269ea667369b246]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/uksi/2021/534/article/43): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
+[^c-a96af836ba6bfa0e2269ea667369b246]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/uksi/2021/534/article/43): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
 
 [^f00041]: Footnote: The Department of Agriculture, Environment and Rural Affairs is the department for the Northern Ireland region.

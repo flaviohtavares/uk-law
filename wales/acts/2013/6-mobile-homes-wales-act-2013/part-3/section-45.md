@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Supplementary[^key-4e7bed0c3f3ddfe42a16f221c8649c3f]
+## 45. Supplementary[^c-4e7bed0c3f3ddfe42a16f221c8649c3f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7bed0c3f3ddfe42a16f221c8649c3f]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2013/6/section/45) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-4e7bed0c3f3ddfe42a16f221c8649c3f]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2013/6/section/45) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

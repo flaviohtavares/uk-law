@@ -37,7 +37,7 @@ summary: ''
 
 (3) Subsection (2) is to be construed in accordance with Part 3 of Schedule 1.
 
-(4) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months or to a fine[^key-03d91c860ccf7722844f2aa18252f550], or to both.
+(4) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months or to a fine[^c-03d91c860ccf7722844f2aa18252f550], or to both.
 
 (5) In this Part “**authorisation**” means—
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03d91c860ccf7722844f2aa18252f550]: Textual amendment: Words in s. 136(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-03d91c860ccf7722844f2aa18252f550]: Textual amendment: Words in s. 136(4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

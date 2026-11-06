@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 109(1)(*d*), (2), (3) and (4) and 164(1) and (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 1(5), 23(3)(*c*), 115, 122(3) and 166 of the Pensions (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-a318cfb4833acc7a1438fa71a9dc43cc]
+## 1. Citation, commencement and interpretation[^c-a318cfb4833acc7a1438fa71a9dc43cc]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -57,7 +57,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) to a numbered Article is a reference to the Article of the Order bearing that number; and
 - (b) to a numbered section is a reference to the section of the Pension Schemes (Northern Ireland) Act 1993 bearing that number.
 
-## 2. Additional requirements for independent trustee[^key-2bdaccf40f37e5e3f0f4ee8f92fc70f1]
+## 2. Additional requirements for independent trustee[^c-2bdaccf40f37e5e3f0f4ee8f92fc70f1]
 
 For the purposes of Article 23(3) (which sets out the requirements which must be satisfied for a person to be an independent trustee) the prescribed requirements are—
 
@@ -68,7 +68,7 @@ For the purposes of Article 23(3) (which sets out the requirements which must be
   - (i) has had no interest in the assets of the employer or of the scheme (otherwise than as a trustee of the scheme) at any time since the day referred to in paragraph (*a*)(i); and
   - (ii) is neither connected with, nor an associate of, a person who has such an interest or has had at any time since that day.
 
-## 3. Multi-employer schemes[^key-b893e606bc75e5e88d8470e37c51b2f0]
+## 3. Multi-employer schemes[^c-b893e606bc75e5e88d8470e37c51b2f0]
 
 (1) Articles 22 to 26 are modified as described in this regulation in their application to any trust scheme in relation to which there is more than one employer (“a multi-employer scheme”).
 
@@ -85,7 +85,7 @@ For the purposes of Article 23(3) (which sets out the requirements which must be
 
 (4) Where Article 22 applies in relation to a multi-employer scheme, it shall not cease to do so by virtue of paragraph (2)(*a*) of that Article unless the power to appoint or to remove any trustee of the scheme is transferred to the new employer or to any person who is independent for the purposes of Article 23(1).
 
-## 4. Cases where a partnership is the employer[^key-f214d9e51ea532c635a513a7339a83cc]
+## 4. Cases where a partnership is the employer[^c-f214d9e51ea532c635a513a7339a83cc]
 
 (1) Articles 22 to 26 are modified as described in this regulation in their application to any case where—
 
@@ -100,7 +100,7 @@ For the purposes of Article 23(3) (which sets out the requirements which must be
 
 (3) Where Article 22 applies in relation to the scheme, references to a company are to be treated as including any insolvent partnership that the High Court has jurisdiction to wind up.
 
-## 5. Exemptions[^key-36e488083fa2843ae78cc5556b5323f7]
+## 5. Exemptions[^c-36e488083fa2843ae78cc5556b5323f7]
 
 (1) Articles 22 to 26 shall not apply to any of the following schemes—
 
@@ -122,11 +122,11 @@ For the purposes of Article 23(3) (which sets out the requirements which must be
 - “relevant statutory scheme” has the meaning given in section 611A of the Taxes Act 1988[^f00005];
 - “section 615(6) scheme” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Taxes Act 1988.
 
-## 6. Meaning of “employer” in relation to schemes with no members in employment to which the scheme relates[^key-b5f61d7bd55755267c9aeb61d399fcd4]
+## 6. Meaning of “employer” in relation to schemes with no members in employment to which the scheme relates[^c-b5f61d7bd55755267c9aeb61d399fcd4]
 
 For the purposes of Articles 22 to 26 and these Regulations, where there are no members in employment to which the scheme in question relates, references to the employer shall include the person who last employed persons in the description or category of employment to which the scheme in question relates.
 
-## 7. Disclosure requirements and penalty[^key-08ef598bc1ec8944da15711221743d28]
+## 7. Disclosure requirements and penalty[^c-08ef598bc1ec8944da15711221743d28]
 
 (1) The trustees of a scheme to which Article 22 applies must furnish the information specified in paragraph (2) in accordance with paragraphs (3) to (9).
 
@@ -163,7 +163,7 @@ For the purposes of Articles 22 to 26 and these Regulations, where there are no 
 
 (9) Any information which this regulation requires the trustees to furnish as of course to a member who is not in any employment to which the scheme relates shall be deemed to have been furnished if it was sent to him by ordinary post to his last address known to the trustees.
 
-## 8. Transitional arrangements[^key-618b7c7a3bd08957c1c142dccdc3aa41]
+## 8. Transitional arrangements[^c-618b7c7a3bd08957c1c142dccdc3aa41]
 
 (1) Paragraphs (2) and (3) apply in relation to a scheme in respect of which section 115[^f00006] applied immediately before 6th April 1997.
 
@@ -173,7 +173,7 @@ For the purposes of Articles 22 to 26 and these Regulations, where there are no 
 
 (4) Except as provided in paragraphs (2) and (3), Article 22 shall not apply in a case where the date on which the insolvency practitioner began to act or, as the case may be, the official receiver became the liquidator, provisional liquidator, receiver and manager, or trustee, in relation to the employer fell before 6th April 1997.
 
-## 9. Revocations[^key-f7447a0520aa13889a479309fd7b845d]
+## 9. Revocations[^c-f7447a0520aa13889a479309fd7b845d]
 
 Subject to regulation 8, the regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3) of the Schedule.
 
@@ -185,7 +185,7 @@ Assistant Secretary
 
 24th February 1997.
 
-## SCHEDULE — Regulations Revoked[^key-5ea6365d2221f1a67a41a5398add5f7a]
+## SCHEDULE — Regulations Revoked[^c-5ea6365d2221f1a67a41a5398add5f7a]
 
 Regulation 9
 
@@ -238,30 +238,30 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-a318cfb4833acc7a1438fa71a9dc43cc]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-a318cfb4833acc7a1438fa71a9dc43cc]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2bdaccf40f37e5e3f0f4ee8f92fc70f1]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-2bdaccf40f37e5e3f0f4ee8f92fc70f1]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
-[^key-b893e606bc75e5e88d8470e37c51b2f0]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-b893e606bc75e5e88d8470e37c51b2f0]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
-[^key-f214d9e51ea532c635a513a7339a83cc]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-f214d9e51ea532c635a513a7339a83cc]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
 [^f00004]: Footnote: *See* Part VI of the Insolvency (Northern Ireland) Order 1989 ([S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)) and [S.R. 1991 No. 366](https://www.legislation.gov.uk/nisr/1991/366)
 
-[^key-36e488083fa2843ae78cc5556b5323f7]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-36e488083fa2843ae78cc5556b5323f7]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
 [^f00005]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
-[^key-b5f61d7bd55755267c9aeb61d399fcd4]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-b5f61d7bd55755267c9aeb61d399fcd4]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
-[^key-08ef598bc1ec8944da15711221743d28]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-08ef598bc1ec8944da15711221743d28]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
-[^key-618b7c7a3bd08957c1c142dccdc3aa41]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-618b7c7a3bd08957c1c142dccdc3aa41]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
 [^f00006]: Footnote: Section 115 is repealed by paragraph 22 of Schedule 1 to the Pensions (Northern Ireland) Order 1995
 
-[^key-f7447a0520aa13889a479309fd7b845d]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-f7447a0520aa13889a479309fd7b845d]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
 
-[^key-5ea6365d2221f1a67a41a5398add5f7a]: Commencement: Sch. in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)
+[^c-5ea6365d2221f1a67a41a5398add5f7a]: Commencement: Sch. in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/99/regulation/1/1)

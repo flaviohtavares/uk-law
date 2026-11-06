@@ -48,7 +48,7 @@ In accordance with Article 4(11)(a)(i) and (b)(i) of the Higher Education (North
 
 ### Introductory
 
-#### 1. Citation, commencement and application[^key-82f7f1a6085e59cdc8adecba24ade76a]
+#### 1. Citation, commencement and application[^c-82f7f1a6085e59cdc8adecba24ade76a]
 
 (1) These Regulations may be cited as The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024.
 
@@ -97,7 +97,7 @@ means a course which begins on or after 1st August 2024.
 - (c) on or after 1st July and before 1st August; or
 - (d) on or after 1st August and on or before 31st December.
 
-#### 2. Interpretation[^key-9bae25d8c73d2be6ecc97f13f6a6930d]
+#### 2. Interpretation[^c-9bae25d8c73d2be6ecc97f13f6a6930d]
 
 In these Regulations —
 
@@ -109,14 +109,14 @@ In these Regulations —
 
 ### CHAPTER 1 — Amendment of the Student Fees (Amounts) Regulations (Northern Ireland) 2005
 
-#### 3. Amendment to the 2005 Regulations[^key-19b63c743de43a0bb79ad6a9278eaffd]
+#### 3. Amendment to the 2005 Regulations[^c-19b63c743de43a0bb79ad6a9278eaffd]
 
 In regulation 3 (prescribed basic and higher amounts)—
 
 - (a) for “£1,855” substitute “£1,870”; and
 - (b) for “£4,710” substitute “£4,750”.
 
-#### 4.[^key-339e646eccd731656f619ac49505a3ae]
+#### 4.[^c-339e646eccd731656f619ac49505a3ae]
 
 In regulation 4 (prescribed basic and higher amounts for specified courses)—
 
@@ -125,21 +125,21 @@ In regulation 4 (prescribed basic and higher amounts for specified courses)—
 
 ### CHAPTER 2 — Amendment to Disabled Students’ Allowance
 
-#### 5. Amendment to the 2009 Regulations[^key-d9cfaccfa5d4a4d362ea97f4cb0c51e4]
+#### 5. Amendment to the 2009 Regulations[^c-d9cfaccfa5d4a4d362ea97f4cb0c51e4]
 
 In regulation 117 (conversion of status – eligible students transferring to designated distance learning courses)[^f00007]—
 
 - (a) omit paragraph (2)(b).
 - (b) in paragraph (2)(c) omit “(or, where sub-paragraph (b) applies, further reduced)”.
 
-#### 6.[^key-46dfb5273e2ccca583dcacd534e66df4]
+#### 6.[^c-46dfb5273e2ccca583dcacd534e66df4]
 
 In regulation 118(conversion of status – eligible distance learning students transferring to designated courses)[^f00008]—
 
 - (a) in paragraph (2)(c) after “or 6” insert “(other than an amount of disabled students’ allowance)”;
 - (b) in paragraph (2)(d) omit “(or, where sub-paragraph (c) applies, further reduced)”.
 
-#### 7.[^key-67634fc9eda510bf904be0585075e86c]
+#### 7.[^c-67634fc9eda510bf904be0585075e86c]
 
 In regulation 135[^f00009] (conversion of status)—
 
@@ -150,13 +150,13 @@ In regulation 135[^f00009] (conversion of status)—
 
 ### CHAPTER 3 — Amendments to Master’s, etc. Courses in the Republic of Ireland
 
-#### 8. Amendments to the 2009 Regulations[^key-8482a965126b37fb5c9a873ce108a3f6]
+#### 8. Amendments to the 2009 Regulations[^c-8482a965126b37fb5c9a873ce108a3f6]
 
 In regulation 141(designated postgraduate courses) [^f00010] after paragraph (1)(c)(vi) insert—
 
 > - (vii) provided by a relevant institution of higher education in the Republic of Ireland or by a relevant institution of higher education in the Republic of Ireland in conjunction with an institution outside of the Republic of Ireland;
 
-#### 9.[^key-f6b26ec97fdce6ecfd01a14ba81fa085]
+#### 9.[^c-f6b26ec97fdce6ecfd01a14ba81fa085]
 
 In regulation 152 (designated Master’s, etc. courses) [^f00011]—
 
@@ -169,11 +169,11 @@ In regulation 152 (designated Master’s, etc. courses) [^f00011]—
 
 ### CHAPTER 4 — Omission of Qualifying Course and Student References
 
-#### 10. Amendments to the 2009 Regulations[^key-2510e88f829b351afaa3b4e60c25ec9c]
+#### 10. Amendments to the 2009 Regulations[^c-2510e88f829b351afaa3b4e60c25ec9c]
 
 In regulation 2(1) (interpretation)[^f00012] omit the definition of “qualifying course”.
 
-#### 11.[^key-5f06ec49a8de32f75950849693338c12]
+#### 11.[^c-5f06ec49a8de32f75950849693338c12]
 
 In regulation 5(eligible students) [^f00013]—
 
@@ -200,11 +200,11 @@ In regulation 5(eligible students) [^f00013]—
   - (iii) in the words after sub-paragraph (b), for “eligible or qualifying student” substitute “eligible student”;
 - (g) in paragraph (13) for “, an eligible student or a qualifying student” substitute “or an eligible student”.
 
-#### 12.[^key-11809ab87ba6a3c989b1d28adbcb87cc]
+#### 12.[^c-11809ab87ba6a3c989b1d28adbcb87cc]
 
 In regulation 57(4) (qualifying conditions for the maintenance grant) [^f00014] for “qualifying student” substitute “current system student”.
 
-#### 13.[^key-d211c0ec744799cb483ba1f82aae4e81]
+#### 13.[^c-d211c0ec744799cb483ba1f82aae4e81]
 
 In regulation 97 (provision of United Kingdom national insurance number)—
 
@@ -212,7 +212,7 @@ In regulation 97 (provision of United Kingdom national insurance number)—
 - (b) in paragraph (2), for “eligible or qualifying student” substitute “eligible student”;
 - (c) in paragraph (3), for “eligible or qualifying student”, in both places it occurs, substitute “eligible student”.
 
-#### 14.[^key-5d9ec46e6ed8bb5044649e2010f9b7fd]
+#### 14.[^c-5d9ec46e6ed8bb5044649e2010f9b7fd]
 
 In regulation 98 (information requirements)—
 
@@ -220,7 +220,7 @@ In regulation 98 (information requirements)—
 - (b) in paragraph (2), for “, eligible student or qualifying student” substitute “or eligible student”;
 - (c) in paragraph (3), for “, eligible student or qualifying student” substitute “or eligible student”.
 
-#### 15.[^key-6640992bbc39fa5d96018fb51fae3255]
+#### 15.[^c-6640992bbc39fa5d96018fb51fae3255]
 
 In regulation 105(eligible distance learning students) [^f00015]
 
@@ -229,7 +229,7 @@ In regulation 105(eligible distance learning students) [^f00015]
 
 ### CHAPTER 5 — Delivery of Provision
 
-#### 16. Amendments to the 2009 Regulations[^key-abaf0ff99752a2a925110ef909d79964]
+#### 16. Amendments to the 2009 Regulations[^c-abaf0ff99752a2a925110ef909d79964]
 
 In regulation 6 (designated courses)[^f00016]—
 
@@ -246,11 +246,11 @@ In regulation 6 (designated courses)[^f00016]—
 
   > - (e) a course is substantially provided in the United Kingdom or the Republic of Ireland where at least half of the teaching and supervision which comprise the course is provided in the United Kingdom or the Republic of Ireland.
 
-#### 17.[^key-507d6f96a455e9bd8f7cfe187d1da4ba]
+#### 17.[^c-507d6f96a455e9bd8f7cfe187d1da4ba]
 
 In regulation 109 (4A) (support for distance learning courses) [^f00019] after “United Kingdom” insert “or the Republic of Ireland”.
 
-#### 18.[^key-af33aca11ac8363762dfb981de94124b]
+#### 18.[^c-af33aca11ac8363762dfb981de94124b]
 
 In regulation141(1)(d) (designated postgraduate courses) after sub-paragraph (d)[^f00020] insert—
 
@@ -260,7 +260,7 @@ In regulation141(1)(d) (designated postgraduate courses) after sub-paragraph (d)
 
 ### CHAPTER 6 — Amendments Relating to Immigration Rules
 
-#### 19. Amendments to the 2009 Regulations[^key-5ed59cf7dafd9bedb4168236693bb552]
+#### 19. Amendments to the 2009 Regulations[^c-5ed59cf7dafd9bedb4168236693bb552]
 
 In regulation 2(1) (interpretation) (as amended by regulation 10 of these regulations)—
 
@@ -286,14 +286,14 @@ In regulation 2(1) (interpretation) (as amended by regulation 10 of these regula
   - (ii) in paragraph (a)(ii), for “Immigration Rules as defined in section 33(1) of the Immigration Act 1971” substitute “immigration rules”;
 - (k) in the definition of “person granted stateless leave”, in paragraph (a) omit “(within the meaning given in section 33(1) of the Immigration Act 1971)”.
 
-#### 20.[^key-a751914f000f13748bc56cd2ea1d7910]
+#### 20.[^c-a751914f000f13748bc56cd2ea1d7910]
 
 In Schedule 2 Part 2 (categories)—
 
 - (a) in paragraph (3)(2) omit “(as defined in section 33(1) of the Immigration Act 1971)”;
 - (b) in paragraph 4F(4) (persons granted stateless leave and their family members) omit “(within the meaning given in section 33(1) of the Immigration Act 1971)”.
 
-#### 21. Amendments to the 2007 Regulations[^key-fd55e0996d320e667a1dc50830cd1af1]
+#### 21. Amendments to the 2007 Regulations[^c-fd55e0996d320e667a1dc50830cd1af1]
 
 (1) The Schedule (Qualifying Persons)[^f00022] is amended as follows—
 
@@ -324,7 +324,7 @@ In Schedule 2 Part 2 (categories)—
 
 ### CHAPTER 7 — Amendments Relating to Family Members of Persons Granted Leave under one of the Afghan Schemes or one of the Ukraine Schemes
 
-#### 22. Amendments to the 2009 Regulations[^key-7c4208ab6c02e3287d27bc60e3b8df52]
+#### 22. Amendments to the 2009 Regulations[^c-7c4208ab6c02e3287d27bc60e3b8df52]
 
 In regulation 2(1) (interpretation) (as amended by regulations 10 and 19 of these regulations)—
 
@@ -344,49 +344,49 @@ In regulation 2(1) (interpretation) (as amended by regulations 10 and 19 of thes
   - (iv) in sub-paragraph (iv), after “of those rules” insert “or paragraph ARAP 16.1 of Appendix Afghan Relocation and Assistance Policy of those rules”;
   - (v) omit sub-paragraph (iv).
 
-#### 23.[^key-0fcff6a59fd614752426cc81477ae425][^key-c0da5e0fc111419e1ff8c711a8501e8e]
+#### 23.[^c-0fcff6a59fd614752426cc81477ae425][^c-c0da5e0fc111419e1ff8c711a8501e8e]
 
 In regulation 2A(3) (as inserted by regulation 36 of these Regulations)—
 
 - (a) in sub-paragraph (i), after “student” insert “or the student’s spouse, civil partner or parent”;
 - (b) in sub-paragraph (j), after “student” insert “or the student’s spouse, civil partner or parent”.
 
-#### 24.[^key-ad48a409fb092fbd0c4355a6e9f86fe6][^key-131196c820b6547b1ad154fdc75c03b9]
+#### 24.[^c-ad48a409fb092fbd0c4355a6e9f86fe6][^c-131196c820b6547b1ad154fdc75c03b9]
 
 In regulation 5 (eligible students) (as amended by regulation 11 of these regulations) —
 
 - (a) in paragraph (11E)[^f00024](a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (11F)[^f00025](a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-#### 25.[^key-be150d4858c1f8b9a6707b6f433a162b][^key-a4983069895f9781db0a906d1f8bee92]
+#### 25.[^c-be150d4858c1f8b9a6707b6f433a162b][^c-a4983069895f9781db0a906d1f8bee92]
 
 In regulation 105 (Eligible distance learning students) (as amended by regulation 15 of these regulations) —
 
 - (a) in paragraph (11E)[^f00026](a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (11F)[^f00027](a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-#### 26.[^key-7a4a554700c6734bc865efe6699f114a][^key-7320ff3ee6c3e6133cae6f2ade755e34]
+#### 26.[^c-7a4a554700c6734bc865efe6699f114a][^c-7320ff3ee6c3e6133cae6f2ade755e34]
 
 In regulation 122 (Eligible part-time students)—
 
 - (a) in paragraph (10E)[^f00028](a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (10F)[^f00029](a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-#### 27.[^key-1ea4de3fac854d54e0c830d9d4b27ed0][^key-45588a66e367aebc7ce1a9eb6774159a]
+#### 27.[^c-1ea4de3fac854d54e0c830d9d4b27ed0][^c-45588a66e367aebc7ce1a9eb6774159a]
 
 In regulation 139 (Eligible postgraduate students)—
 
 - (a) in paragraph (12E)[^f00030](a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (12F)[^f00031](a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-#### 28.[^key-d3f910be28cbe206dc42798be61a464c][^key-303a2f56b31b6a57fc906297cbc995db]
+#### 28.[^c-d3f910be28cbe206dc42798be61a464c][^c-303a2f56b31b6a57fc906297cbc995db]
 
 In regulation 149 (Eligible Master’s, etc. students)—
 
 - (a) in paragraph (11E)[^f00032](a), after “Afghan Schemes” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in paragraph (11F)[^f00033](a), after “Ukraine Schemes” insert “or the spouse, civil partner, child or step-child of such a person”.
 
-#### 29.[^key-a25c757ebdc938d93900016114b47829][^key-4200aaacf907eda4f80bb353e42abd19]
+#### 29.[^c-a25c757ebdc938d93900016114b47829][^c-4200aaacf907eda4f80bb353e42abd19]
 
 In Part 2 of Schedule 2 (eligible students: categories)—
 
@@ -449,7 +449,7 @@ In Part 2 of Schedule 2 (eligible students: categories)—
 
   .
 
-#### 30. Amendments to the 2007 Regulations[^key-136cd4172c21bde8200fe1e0eb4b26a9][^key-bb35112c19c66ec7f57f93c331a04bc0][^key-8b99c51882610816dd7dd5d0ad8efe60][^key-1913d9f0aef867b265353b95dc5e59f6]
+#### 30. Amendments to the 2007 Regulations[^c-136cd4172c21bde8200fe1e0eb4b26a9][^c-bb35112c19c66ec7f57f93c331a04bc0][^c-8b99c51882610816dd7dd5d0ad8efe60][^c-1913d9f0aef867b265353b95dc5e59f6]
 
 (1) The Schedule (Qualifying Persons) (as amended by regulation 21 of these regulations) is amended as follows—
 
@@ -471,7 +471,7 @@ In Part 2 of Schedule 2 (eligible students: categories)—
   - (iv) in sub-paragraph (iv), after “of those rules” insert “or paragraph ARAP 16.1 of Appendix Afghan Relocation and Assistance Policy of those rules”;
   - (v) omit sub-paragraph (iv).
 
-(3) in [^key-a8f44a7a688057b4c8b9fcf7ebdb9c01]... the Schedule (qualifying persons: categories)—
+(3) in [^c-a8f44a7a688057b4c8b9fcf7ebdb9c01]... the Schedule (qualifying persons: categories)—
 
 - (a) for paragraph 4G[^f00035] (including the heading) substitute—
 
@@ -532,7 +532,7 @@ In Part 2 of Schedule 2 (eligible students: categories)—
 
 ### CHAPTER 8 — Amendments relating to the ordinary residence requirements
 
-#### 31. Amendments to the 2009 Regulations[^key-aac60e77f6e92afca5161a97d4c22d09]
+#### 31. Amendments to the 2009 Regulations[^c-aac60e77f6e92afca5161a97d4c22d09]
 
 In regulation 2(1) (interpretation) (as amended by regulation 10, 19 and 22 of these regulations), after the definition of “course for the initial training of teachers” insert—
 
@@ -540,7 +540,7 @@ In regulation 2(1) (interpretation) (as amended by regulation 10, 19 and 22 of t
 
 .
 
-#### 32.[^key-f323e1df15e17282d28031502e29910f]
+#### 32.[^c-f323e1df15e17282d28031502e29910f]
 
 In Part 2 of Schedule 2 (eligible students: categories) ( as amended by regulation 29 of these regulations)—
 
@@ -565,11 +565,11 @@ In Part 2 of Schedule 2 (eligible students: categories) ( as amended by regulati
   - (i) in paragraph (1) for “the first day of the first academic year of the course” substitute “the course start date”;
   - (ii) in sub-paragraph (2)(d) for “the first day of the first academic year of the course” substitute “the course start date”;
   - (iii) in sub-paragraph 3(d) for “the first day of the first academic year of the course” substitute “the course start date”;
-- (j) in paragraph 8(1)(c)[^f00045] (persons who are settled in the United Kingdom and have exercised a right of residence elsewhere), for “the day on which the first term of the first academic year actually begins[^key-524bc5820d54856cf3e4201e30720b52]” substitute “the course start date”;
-- (k) in paragraph 8A(1)(d)[^f00046] (persons who are settled in the United Kingdom and have exercised a right of residence elsewhere), for “the day on which the first term of the first academic year actually begins[^key-09bb898eae15bcdc66ec2bdc103e7bd2]” substitute “the course start date”.
+- (j) in paragraph 8(1)(c)[^f00045] (persons who are settled in the United Kingdom and have exercised a right of residence elsewhere), for “the day on which the first term of the first academic year actually begins[^c-524bc5820d54856cf3e4201e30720b52]” substitute “the course start date”;
+- (k) in paragraph 8A(1)(d)[^f00046] (persons who are settled in the United Kingdom and have exercised a right of residence elsewhere), for “the day on which the first term of the first academic year actually begins[^c-09bb898eae15bcdc66ec2bdc103e7bd2]” substitute “the course start date”.
 - (l) in paragraph 15[^f00047] (evacuated or assisted British nationals from Afghanistan), for “the first day of the first academic year of the course” substitute “the course start date”;
 
-#### 33. Amendments to the 2007 Regulations[^key-e947453273790a8e49a9bbe35e984169]
+#### 33. Amendments to the 2007 Regulations[^c-e947453273790a8e49a9bbe35e984169]
 
 In regulation 2 after the definition of “course for the initial training of teachers” insert—
 
@@ -577,9 +577,9 @@ In regulation 2 after the definition of “course for the initial training of te
 
 .
 
-#### 34.[^key-4df138a19937c62164b4e2f66ce671e0]
+#### 34.[^c-4df138a19937c62164b4e2f66ce671e0]
 
-In [^key-c9f9af83ec806c398cd1da9d35653b7d]... the Schedule (qualifying persons: categories) (as amended by regulations 21 and 30 of these regulations)—
+In [^c-c9f9af83ec806c398cd1da9d35653b7d]... the Schedule (qualifying persons: categories) (as amended by regulations 21 and 30 of these regulations)—
 
 - (a) in paragraph 2A(1)(a)[^f00048] (persons who are settled in the United Kingdom) for “the first day of the first academic year of the course” substitute “the course start date”;
 - (b) in paragraph 4 (Refugees and their family members)—
@@ -608,7 +608,7 @@ In [^key-c9f9af83ec806c398cd1da9d35653b7d]... the Schedule (qualifying persons: 
 
 ### CHAPTER 9 — Amendments relating to students becoming eligible for student support in the course of an academic year
 
-#### 35. Amendments to the 2009 Regulations[^key-be6f56a097de54a1b232831ad4dd9bf9]
+#### 35. Amendments to the 2009 Regulations[^c-be6f56a097de54a1b232831ad4dd9bf9]
 
 In regulation 2 (interpretation) (as amended by regulations 10, 19, 22, and 31 of these regulations)—
 
@@ -655,7 +655,7 @@ In regulation 2 (interpretation) (as amended by regulations 10, 19, 22, and 31 o
 
     .
 
-#### 36.[^key-b357c611e1f7d2cadb461ce5b4bd2e7f]
+#### 36.[^c-b357c611e1f7d2cadb461ce5b4bd2e7f]
 
 After regulation 2 insert—
 
@@ -683,8 +683,8 @@ After regulation 2 insert—
 > - (f) the student becomes a person granted indefinite leave to remain as a victim of domestic violence or domestic abuse;
 > - (g) the student becomes a person granted Calais leave;
 > - (h) the student becomes a person granted indefinite leave to remain as a bereaved partner;
-> - (i) the student [^key-60f922b9475fc80d7dc44395147ad9d8]... becomes a person granted leave under one of the Afghan Schemes; or
-> - (j) the student [^key-b5f6b2feeabd9814df314f859ea80234]... becomes a person granted leave under one of the Ukraine Schemes.
+> - (i) the student [^c-60f922b9475fc80d7dc44395147ad9d8]... becomes a person granted leave under one of the Afghan Schemes; or
+> - (j) the student [^c-b5f6b2feeabd9814df314f859ea80234]... becomes a person granted leave under one of the Ukraine Schemes.
 >
 > (4) “**Settled status event**”, in relation to a student, means the student becomes a family member described in paragraph 9A(1)(a), 9C(1)(a) or 9D(1)(a) of Part 2 of Schedule 2.
 >
@@ -704,11 +704,11 @@ After regulation 2 insert—
 
 .
 
-#### 37.[^key-214443db446457432161fdb366f7d968]
+#### 37.[^c-214443db446457432161fdb366f7d968]
 
 In regulation 10(2)(a) (time limits), for “one of the events listed in regulation 18” substitute “an in-year qualifying event or a course designation event”.
 
-#### 38.[^key-47b83948a31ed57346f4f7fa3a31a65b]
+#### 38.[^c-47b83948a31ed57346f4f7fa3a31a65b]
 
 For regulation 17 (students becoming eligible during the course of an academic year) substitute—
 
@@ -727,11 +727,11 @@ For regulation 17 (students becoming eligible during the course of an academic y
 
 .
 
-#### 39.[^key-3fb63663ce8c44ab44937fe3cee136c9]
+#### 39.[^c-3fb63663ce8c44ab44937fe3cee136c9]
 
 Omit regulation 18[^f00058] (events).
 
-#### 40.[^key-cc94f754209df69507d23678df5f0e37]
+#### 40.[^c-cc94f754209df69507d23678df5f0e37]
 
 In regulation 39(general qualifying conditions for grants for living and other costs), for paragraph (7)[^f00059] substitute—
 
@@ -753,7 +753,7 @@ In regulation 39(general qualifying conditions for grants for living and other c
 
 .
 
-#### 41.[^key-9654b5025ff09a1febb5237418eabcb1]
+#### 41.[^c-9654b5025ff09a1febb5237418eabcb1]
 
 In regulation 42 (amount of disabled students’ allowance), for paragraph (6)[^f00060] substitute—
 
@@ -778,7 +778,7 @@ In regulation 42 (amount of disabled students’ allowance), for paragraph (6)[^
 
 .
 
-#### 42.[^key-6514ce8d217be62939e1d8054ac2c1c1]
+#### 42.[^c-6514ce8d217be62939e1d8054ac2c1c1]
 
 In regulation 46 (childcare grant), for paragraph (11)[^f00061] substitute—
 
@@ -798,7 +798,7 @@ In regulation 46 (childcare grant), for paragraph (11)[^f00061] substitute—
 
 .
 
-#### 43.[^key-a3c7b6509cba02819dd82cc569652a87]
+#### 43.[^c-a3c7b6509cba02819dd82cc569652a87]
 
 In regulation 48(8)(d) (calculations) for “an event referred to in regulation 18” substitute—
 
@@ -809,7 +809,7 @@ In regulation 48(8)(d) (calculations) for “an event referred to in regulation 
 
 .
 
-#### 44.[^key-878c2abb8ac56c7bf45835e17c3ca8ab]
+#### 44.[^c-878c2abb8ac56c7bf45835e17c3ca8ab]
 
 For regulation 50A[^f00062] substitute—
 
@@ -833,7 +833,7 @@ For regulation 50A[^f00062] substitute—
 
 .
 
-#### 45.[^key-818724f98163b83164c0e04edb7651e3]
+#### 45.[^c-818724f98163b83164c0e04edb7651e3]
 
 In regulation 57 (qualifying conditions for maintenance grants) (as amended by regulation 12 of these regulations), for paragraph (5)[^f00063] substitute—
 
@@ -853,7 +853,7 @@ In regulation 57 (qualifying conditions for maintenance grants) (as amended by r
 
 .
 
-#### 46.[^key-372e501bafd2d8a74335f94905dc92c7]
+#### 46.[^c-372e501bafd2d8a74335f94905dc92c7]
 
 In regulation 59 (qualifying conditions for special support grant), for paragraph (5)[^f00064] substitute—
 
@@ -873,7 +873,7 @@ In regulation 59 (qualifying conditions for special support grant), for paragrap
 
 .
 
-#### 47.[^key-11f59ad196ec17a40437edc31c8fbcb0]
+#### 47.[^c-11f59ad196ec17a40437edc31c8fbcb0]
 
 In regulation 74[^f00065] (students becoming eligible in the course of an academic year)—
 
@@ -894,7 +894,7 @@ In regulation 74[^f00065] (students becoming eligible in the course of an academ
   .
 - (b) omit paragraph (2).
 
-#### 48.[^key-a21c82aafacf5dfc5a5c5ec72bd8923e]
+#### 48.[^c-a21c82aafacf5dfc5a5c5ec72bd8923e]
 
 For regulation 106 (students becoming eligible during the course of the academic year) substitute—
 
@@ -950,15 +950,15 @@ For regulation 106 (students becoming eligible during the course of the academic
 
 .
 
-#### 49.[^key-704ab9853b8e2a637066824973cbb960]
+#### 49.[^c-704ab9853b8e2a637066824973cbb960]
 
 In Regulation 112 (disabled distance learning students’ allowance), in paragraph (8) for “106(3)” substitute “106(4)”.
 
-#### 50.[^key-10b75e553431f90d2cd6f6fd0dfba6a3]
+#### 50.[^c-10b75e553431f90d2cd6f6fd0dfba6a3]
 
 In Regulation 113 (6)(a) (applications for support), for “one of the events listed in paragraph (4) of regulation 106” substitute “an event falling within regulation 106”.
 
-#### 51.[^key-4db3d45c67806d1439727262e6532b34]
+#### 51.[^c-4db3d45c67806d1439727262e6532b34]
 
 For regulation 123[^f00066] (students becoming eligible during the course of the academic year) substitute—
 
@@ -1014,15 +1014,15 @@ For regulation 123[^f00066] (students becoming eligible during the course of the
 
 .
 
-#### 52.[^key-a5c5c4b77e4a558e0456af9a6c4d07d3]
+#### 52.[^c-a5c5c4b77e4a558e0456af9a6c4d07d3]
 
 In Regulation 130 (disabled part-time students’ allowance), in paragraph (7)[^f00067] for the wording from “regulation 123” to “(p)” substitute “123(4)”.
 
-#### 53.[^key-e9c93d558ab841bbab9fb0e0cf07c0a2]
+#### 53.[^c-e9c93d558ab841bbab9fb0e0cf07c0a2]
 
 In Regulation 131 (applications for support), in sub-paragraph (6)(a) omit for “one of the events listed in paragraph (3) of regulation 123” substitute “an event falling within regulation 123”.
 
-#### 54.[^key-517a9a10a368207648fe7cd5f0c0c1cd]
+#### 54.[^c-517a9a10a368207648fe7cd5f0c0c1cd]
 
 In regulation 140[^f00068] (students becoming eligible in the course of an academic year)—
 
@@ -1043,11 +1043,11 @@ In regulation 140[^f00068] (students becoming eligible in the course of an acade
   .
 - (b) omit paragraph (2).
 
-#### 55.[^key-a6ac6fcf38081d197d331e872ae9152b]
+#### 55.[^c-a6ac6fcf38081d197d331e872ae9152b]
 
 In Regulation 146 (amount of grant), in sub-paragraph (5) omit “(2)”.
 
-#### 56.[^key-33f200afff43a718a8b9fc024f59bf8b]
+#### 56.[^c-33f200afff43a718a8b9fc024f59bf8b]
 
 For regulation 150[^f00069] (students becoming eligible during the course of an academic year) substitute—
 
@@ -1067,15 +1067,15 @@ For regulation 150[^f00069] (students becoming eligible during the course of an 
 
 .
 
-#### 57.[^key-26ac0b4a0939f7de601c8283fe015733]
+#### 57.[^c-26ac0b4a0939f7de601c8283fe015733]
 
 Omit regulation 151[^f00070] (events).
 
-#### 58.[^key-0ee6fbc2e68e4d661c3188415c64857b]
+#### 58.[^c-0ee6fbc2e68e4d661c3188415c64857b]
 
 In Regulation 159[^f00071] (time limits) in sub-paragraph (2)(a) for “one of the events listed in 151” substitute “an in-year qualifying event”.
 
-#### 59. Amendments to the 2007 Regulations[^key-4a82acfe1f600c7f3c642f6757cfd068]
+#### 59. Amendments to the 2007 Regulations[^c-4a82acfe1f600c7f3c642f6757cfd068]
 
 In regulation 5 (prescribed description of a qualifying person)—
 
@@ -1098,13 +1098,13 @@ In regulation 5 (prescribed description of a qualifying person)—
 - (c) in paragraph (6) for “Where” substitute “Subject to paragraphs 8 to 10 where”
 - (d) after paragraph (7) insert—
 
-  > (8) Where a protected category event occurs in relation to a person after the course start date, paragraph (9) applies for the purposes of determining whether the person falls within a protected[^key-97cfefdbf333e71d339331f752bae8d7] category on the first day of the relevant academic year.
+  > (8) Where a protected category event occurs in relation to a person after the course start date, paragraph (9) applies for the purposes of determining whether the person falls within a protected[^c-97cfefdbf333e71d339331f752bae8d7] category on the first day of the relevant academic year.
   >
-  > (9) The person is, for the purposes of determining whether they satisfy any requirement in [^key-e404d55bdc18fa1c61448e13b089735d]... the Schedule that they are ordinarily resident in the United Kingdom on the course start date, to be treated as if the person was, on the course start date, lawfully residing in the place where the person was residing on that date.
+  > (9) The person is, for the purposes of determining whether they satisfy any requirement in [^c-e404d55bdc18fa1c61448e13b089735d]... the Schedule that they are ordinarily resident in the United Kingdom on the course start date, to be treated as if the person was, on the course start date, lawfully residing in the place where the person was residing on that date.
   >
   > (10) For the purposes of this regulation—
   >
-  > “**protected category**” means any category of persons described in paragraph 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H,4I or 5 of [^key-741458d73086194459222934d1f49043]... the Schedule;
+  > “**protected category**” means any category of persons described in paragraph 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H,4I or 5 of [^c-741458d73086194459222934d1f49043]... the Schedule;
   >
   > “**protected category event**” means —
   >
@@ -1124,20 +1124,20 @@ In regulation 5 (prescribed description of a qualifying person)—
   >
   > “**relevant academic year**” means an academic year beginning on or after 1st September 2024;
   >
-  > “**settled category**” means any category of persons described in paragraph 2A[^key-e0e9d6b6f739dde8458d2a8952fd269b] or 8A of the Schedule.
+  > “**settled category**” means any category of persons described in paragraph 2A[^c-e0e9d6b6f739dde8458d2a8952fd269b] or 8A of the Schedule.
 
   .
 
 ### CHAPTER 10 — Amendments to Family Members of Settled Persons
 
-#### 60. Amendments to the 2009 Regulations[^key-8cbe56509464d58dba2764d8b416b262]
+#### 60. Amendments to the 2009 Regulations[^c-8cbe56509464d58dba2764d8b416b262]
 
 In Part 2 of Schedule 2 (eligible students) (as amended by regulations 29 and 32 of these regulations)—
 
 - (a) in paragraph 1(1) of the interpretation at sub-paragraph (e) of the definition of “family member”[^f00073] for “paragraphs 9, 9B, 9C and 9D” substitute “paragraphs 9, 9B, 9D or for the purposes of paragraph 9C in relation to a person settled in the United Kingdom”;
 - (b) in paragraph 9C(1)(a)[^f00074], for “a United Kingdom national” substitute “settled in the United Kingdom”.
 
-#### 61. Amendments to the 2007 Regulations[^key-495054092be8912fb5d3e5190a596274]
+#### 61. Amendments to the 2007 Regulations[^c-495054092be8912fb5d3e5190a596274]
 
 In the Schedule (qualifying persons) (as amended by regulations 21, 30, and 34 of these regulations)—
 
@@ -1146,78 +1146,78 @@ In the Schedule (qualifying persons) (as amended by regulations 21, 30, and 34 o
 
 ### CHAPTER 11 — Amendments to Relevant Institutions
 
-#### 62. Amendments to the 2009 Regulations[^key-1661614e72706662f3add87ddd11d5f4]
+#### 62. Amendments to the 2009 Regulations[^c-1661614e72706662f3add87ddd11d5f4]
 
 In regulation 2 (interpretation) ( as amended by regulations 10, 19 ,22, 31 and 35 of these regulations) in the definition of “relevant institution of higher education in the Republic of Ireland” for “an institution listed in Schedule 6” substitute “a publicly funded prescribed approved institution for the purposes of section 7 of the Student Support Act 2011[^f00077]”;
 
-#### 63.[^key-ea93bfe857c2d131c65cfa832041fbc6]
+#### 63.[^c-ea93bfe857c2d131c65cfa832041fbc6]
 
 Omit Schedule 6[^f00078] to the 2009 Regulations (Relevant Institutions of Higher Education in the Republic of Ireland).
 
-#### 64. Amendments to the 2007 Regulations[^key-266e3fa144aeca7b58d1bd8d314c47bf]
+#### 64. Amendments to the 2007 Regulations[^c-266e3fa144aeca7b58d1bd8d314c47bf]
 
 In regulation 5(7) (prescribed description of a qualifying person) (as amended by regulation 59 of these regulations) for “means an institution listed in Schedule 6 to the Student Support Regulations” substitute “has the same meaning as in the Student Support Regulations”.
 
 ### CHAPTER 12 — Miscellaneous
 
-#### 65. Amendments to the 2009 Regulations[^key-32d34209b71b8a5b9231307f4408ba28]
+#### 65. Amendments to the 2009 Regulations[^c-32d34209b71b8a5b9231307f4408ba28]
 
 In Regulation 5(3)(h)[^f00079] (eligible students) (as amended by regulations 11 and 24 of these Regulations) for “another member state” substitute “a member state”.
 
-#### 66.[^key-e521c5d69b24d03405e5fdbb5f501b8a]
+#### 66.[^c-e521c5d69b24d03405e5fdbb5f501b8a]
 
 In Regulation 39 (General qualifying conditions for grants for living and other costs) for paragraph (2)[^f00080] substitute—
 
 > (2) An eligible student does not qualify for a bursary or grant under this Part if the only paragraph or paragraphs in Part 2 of Schedule 2 into which the student falls is one or more of paragraphs 2A, 9, 9A, 9C or 9D.
 
-#### 67.[^key-c3c7b1aed999bf7290096928c4245292]
+#### 67.[^c-c3c7b1aed999bf7290096928c4245292]
 
 In Regulation 40(1) (Students who are treated as in attendance)—
 
 - (a) in sub-paragraph (c) for “;” substitute “.”;
 - (b) omit sub-paragraph (d).
 
-#### 68.[^key-36fbac0e109d4791532f59fcf2792d44]
+#### 68.[^c-36fbac0e109d4791532f59fcf2792d44]
 
 In Regulation 57 (as amended by regulations 12 and 45 in these regulations) after the repealed paragraph (6) insert—
 
 > (7) A current system student does not qualify for a maintenance grant if the current course is the graduate entry course.
 
-#### 69.[^key-a126a75673162cf212aa96046106d6be]
+#### 69.[^c-a126a75673162cf212aa96046106d6be]
 
 In Regulation 149(8)[^f00081] (Eligible Master’s, etc. Students) for “and (12)” substitute “, (11E), (11F), (12), (12A) and (12C)”.
 
-#### 70.[^key-781d23ee5d49a9704d9071df04d24a72]
+#### 70.[^c-781d23ee5d49a9704d9071df04d24a72]
 
 In paragraph 4A to Schedule 2 add the heading —
 
 > Persons granted section 67 leave
 
-#### 71. Amendments to the 2007 Regulations[^key-79fc7e0ad8c5f445496849bdd6af312e]
+#### 71. Amendments to the 2007 Regulations[^c-79fc7e0ad8c5f445496849bdd6af312e]
 
 In regulation 2 in the definition of “Student Support Regulations” for “the Education (Student Support) Regulations (Northern Ireland) 2007” substitute “The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009”.
 
 ### CHAPTER 13 — Amendments to Loan Amounts
 
-#### 72. Amendments to the 2009 Regulations[^key-eb0bcdf0f51be4a4625d1575458f45d8]
+#### 72. Amendments to the 2009 Regulations[^c-eb0bcdf0f51be4a4625d1575458f45d8]
 
 The Schedule to these Regulations has effect to substitute the figure in the third column of the table for the figure in the second column where that figure appears in the provision of the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 set out in the first column.
 
 ### CHAPTER 14 — Savings
 
-#### 73. Savings: the 2009 Regulations[^key-fbfdb4543d9f54e48901908ec3f9a133]
+#### 73. Savings: the 2009 Regulations[^c-fbfdb4543d9f54e48901908ec3f9a133]
 
 In this Chapter “**earlier academic year**” means an academic year beginning before 1<sup>st</sup> August 2024.
 
-#### 74.[^key-e939a2f21f4c707e01f224cf7f902419]
+#### 74.[^c-e939a2f21f4c707e01f224cf7f902419]
 
 This regulation applies where an existing SSR Afghan scheme student (“**S**”) applies for support under the 2009 Regulations in respect of a new academic year of a relevant course (the “current course”).
 
-#### 75.[^key-1a914ad29f05d2d3765b81c2d5e69d11]
+#### 75.[^c-1a914ad29f05d2d3765b81c2d5e69d11]
 
 For the purposes of determining whether S’s status as a relevant student terminates before the first day of the academic year of the current course in respect of which S is applying for support (see regulation 5, 105, 122 ,139 and 149 of the 2009 Regulations (as the case may be)), the 2009 Regulations apply as if the amendments made by regulations 22 , 23(a), 24(a), 25(a), 26(a), 27(a), 28(a) and 29(a)of these Regulations had not been made.
 
-#### 76.[^key-a69b7eed35120c4a613439b2de729dcf]
+#### 76.[^c-a69b7eed35120c4a613439b2de729dcf]
 
 In this regulation—
 
@@ -1235,7 +1235,7 @@ Mr Mark Lee
 
 A senior officer of the Department for the Economy
 
-## SCHEDULE[^key-ebf4ac64a14600eea2bb86ddd6975bcd]
+## SCHEDULE[^c-ebf4ac64a14600eea2bb86ddd6975bcd]
 
 Regulation 72
 
@@ -1310,9 +1310,9 @@ An regulatory impact assessment has not been produced for this rule as no, or no
 
 [^f00003]: Footnote: [S.I. 2005/1116](https://www.legislation.gov.uk/uksi/2005/1116) see Article 2(2) for definitions of “the Department”, “prescribed” and “regulations”.
 
-[^key-82f7f1a6085e59cdc8adecba24ade76a]: Commencement: Reg. 1 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-82f7f1a6085e59cdc8adecba24ade76a]: Commencement: Reg. 1 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-9bae25d8c73d2be6ecc97f13f6a6930d]: Commencement: Reg. 2 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-9bae25d8c73d2be6ecc97f13f6a6930d]: Commencement: Reg. 2 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373), amended by S.R.s [2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383), 2012 Nos. [62](https://www.legislation.gov.uk/nisr/2012/62) and [398](https://www.legislation.gov.uk/nisr/2012/398), 2013 Nos. [128](https://www.legislation.gov.uk/nisr/2013/128) and [223](https://www.legislation.gov.uk/nisr/2013/223), 2014 Nos. [97](https://www.legislation.gov.uk/nisr/2014/97) and [309](https://www.legislation.gov.uk/nisr/2014/309), [2016 No. 21](https://www.legislation.gov.uk/nisr/2016/21), 2017 Nos. [7](https://www.legislation.gov.uk/nisr/2017/7) and [43](https://www.legislation.gov.uk/nisr/2017/43), [2018 No. 35](https://www.legislation.gov.uk/nisr/2018/35), 2019 Nos.[35](https://www.legislation.gov.uk/nisr/2019/35) and [102](https://www.legislation.gov.uk/nisr/2019/102), [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263).
 
@@ -1320,51 +1320,51 @@ An regulatory impact assessment has not been produced for this rule as no, or no
 
 [^f00006]: Footnote: [S.R. 2005 No. 290](https://www.legislation.gov.uk/nisr/2005/290) as amended by [S.R. 2006 No. 455](https://www.legislation.gov.uk/nisr/2006/455), [S.R. 2007 No. 442](https://www.legislation.gov.uk/nisr/2007/442), [S.R. 2008 No. 455](https://www.legislation.gov.uk/nisr/2008/455), [S.R. 2009 No. 400](https://www.legislation.gov.uk/nisr/2009/400), S.R 2011 Nos. [1](https://www.legislation.gov.uk/nisr/2011/1) and [369](https://www.legislation.gov.uk/nisr/2011/369), [S.R. 2012 No. 184](https://www.legislation.gov.uk/nisr/2012/184), [S.R. 2013 No. 120](https://www.legislation.gov.uk/nisr/2013/120), [S.R. 2014 No. 116](https://www.legislation.gov.uk/nisr/2014/116), [S.R. 2015 No. 243](https://www.legislation.gov.uk/nisr/2015/243), [S.R. 2016 No. 354](https://www.legislation.gov.uk/nisr/2016/354), [S.R. 2017 No. 104](https://www.legislation.gov.uk/nisr/2017/104), [S.R. 2018 No. 105](https://www.legislation.gov.uk/nisr/2018/105), [S.R. 2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102), [S.R. 2020 No. 98](https://www.legislation.gov.uk/nisr/2020/98) and [S.R. 2022 No. 260](https://www.legislation.gov.uk/nisr/2022/260).
 
-[^key-19b63c743de43a0bb79ad6a9278eaffd]: Commencement: Reg. 3 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(a)
+[^c-19b63c743de43a0bb79ad6a9278eaffd]: Commencement: Reg. 3 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(a)
 
-[^key-339e646eccd731656f619ac49505a3ae]: Commencement: Reg. 4 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(a)
+[^c-339e646eccd731656f619ac49505a3ae]: Commencement: Reg. 4 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(a)
 
-[^key-d9cfaccfa5d4a4d362ea97f4cb0c51e4]: Commencement: Reg. 5 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-d9cfaccfa5d4a4d362ea97f4cb0c51e4]: Commencement: Reg. 5 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 117 was amended by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7) and [S.R. 2022 No. 263](https://www.legislation.gov.uk/nisr/2022/263).
 
-[^key-46dfb5273e2ccca583dcacd534e66df4]: Commencement: Reg. 6 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-46dfb5273e2ccca583dcacd534e66df4]: Commencement: Reg. 6 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00008]: Footnote: Regulation 118 was amended by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7).
 
-[^key-67634fc9eda510bf904be0585075e86c]: Commencement: Reg. 7 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-67634fc9eda510bf904be0585075e86c]: Commencement: Reg. 7 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00009]: Footnote: Regulation 135 was amended by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7) and [S.R. 2022 No. 263](https://www.legislation.gov.uk/nisr/2022/263).
 
-[^key-8482a965126b37fb5c9a873ce108a3f6]: Commencement: Reg. 8 in operation at 26.2.2024 with application in accordance with reg. 1(7)(a)
+[^c-8482a965126b37fb5c9a873ce108a3f6]: Commencement: Reg. 8 in operation at 26.2.2024 with application in accordance with reg. 1(7)(a)
 
 [^f00010]: Footnote: Regulations 141 was amended by [S.R 2013 No. 223](https://www.legislation.gov.uk/nisr/2013/223)[S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7) and S.R.s [2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102) and [1998](https://www.legislation.gov.uk/nisr/2019/1998) (c.30)
 
-[^key-f6b26ec97fdce6ecfd01a14ba81fa085]: Commencement: Reg. 9 in operation at 26.2.2024 with application in accordance with reg. 1(7)(a)
+[^c-f6b26ec97fdce6ecfd01a14ba81fa085]: Commencement: Reg. 9 in operation at 26.2.2024 with application in accordance with reg. 1(7)(a)
 
 [^f00011]: Footnote: Regulations 152 was inserted by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7) and subsequently amended by S.R.s [2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102) and [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79).
 
-[^key-2510e88f829b351afaa3b4e60c25ec9c]: Commencement: Reg. 10 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-2510e88f829b351afaa3b4e60c25ec9c]: Commencement: Reg. 10 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00012]: Footnote: Regulation 2 was amended by [S.R. 2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383), S.R.s 2013 No.s [128](https://www.legislation.gov.uk/nisr/2013/128) and [223](https://www.legislation.gov.uk/nisr/2013/223), S.R.s 2017 No.s [7](https://www.legislation.gov.uk/nisr/2017/7) and [43](https://www.legislation.gov.uk/nisr/2017/43), [S.R. 2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), S.R. 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85), S.R.s 2022 No.s [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [S.I. 2020/1209](https://www.legislation.gov.uk/uksi/2020/1209) as amended by [2020/139](https://www.legislation.gov.uk/nisr/2020/139).
 
-[^key-5f06ec49a8de32f75950849693338c12]: Commencement: Reg. 11 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-5f06ec49a8de32f75950849693338c12]: Commencement: Reg. 11 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00013]: Footnote: Regulation 5 was amended by [S.S.I. 2007 No. 503](https://www.legislation.gov.uk/ssi/2007/503), S.R.s [2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383), [2013 No. 128](https://www.legislation.gov.uk/nisr/2013/128), [2017](https://www.legislation.gov.uk/nisr/2013/2017) No, 7, [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85) and [2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-11809ab87ba6a3c989b1d28adbcb87cc]: Commencement: Reg. 12 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-11809ab87ba6a3c989b1d28adbcb87cc]: Commencement: Reg. 12 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00014]: Footnote: paragraph (4) was inserted by [S.R. 2012 No. 398](https://www.legislation.gov.uk/nisr/2012/398).
 
-[^key-d211c0ec744799cb483ba1f82aae4e81]: Commencement: Reg. 13 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-d211c0ec744799cb483ba1f82aae4e81]: Commencement: Reg. 13 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-5d9ec46e6ed8bb5044649e2010f9b7fd]: Commencement: Reg. 14 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-5d9ec46e6ed8bb5044649e2010f9b7fd]: Commencement: Reg. 14 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-6640992bbc39fa5d96018fb51fae3255]: Commencement: Reg. 15 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-6640992bbc39fa5d96018fb51fae3255]: Commencement: Reg. 15 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00015]: Footnote: Regulation 105 was amended by [S.S.I. 2007 No. 503](https://www.legislation.gov.uk/ssi/2007/503), S.R.s [2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383), [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85) and 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-abaf0ff99752a2a925110ef909d79964]: Commencement: Reg. 16 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-abaf0ff99752a2a925110ef909d79964]: Commencement: Reg. 16 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00016]: Footnote: Regulation 6 was amended by [S.R. 2013 No. 223](https://www.legislation.gov.uk/nisr/2013/223), [S.R. 2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102), [S.R. 2020 No.79](https://www.legislation.gov.uk/nisr/2020/79) and [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
@@ -1372,95 +1372,95 @@ An regulatory impact assessment has not been produced for this rule as no, or no
 
 [^f00018]: Footnote: sub-paragraph (d) was amended by S.Rs [2013 No. 223](https://www.legislation.gov.uk/nisr/2013/223), [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35) and [2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102).
 
-[^key-507d6f96a455e9bd8f7cfe187d1da4ba]: Commencement: Reg. 17 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-507d6f96a455e9bd8f7cfe187d1da4ba]: Commencement: Reg. 17 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00019]: Footnote: paragraph (4A) was inserted by S.R [2012 No.398](https://www.legislation.gov.uk/nisr/2012/398).
 
-[^key-af33aca11ac8363762dfb981de94124b]: Commencement: Reg. 18 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-af33aca11ac8363762dfb981de94124b]: Commencement: Reg. 18 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00020]: Footnote: sub-paragraph (e) was substituted by [S.R. 2019 No. 102](https://www.legislation.gov.uk/nisr/2019/102).
 
-[^key-5ed59cf7dafd9bedb4168236693bb552]: Commencement: Reg. 19 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-5ed59cf7dafd9bedb4168236693bb552]: Commencement: Reg. 19 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00021]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-a751914f000f13748bc56cd2ea1d7910]: Commencement: Reg. 20 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-a751914f000f13748bc56cd2ea1d7910]: Commencement: Reg. 20 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-fd55e0996d320e667a1dc50830cd1af1]: Commencement: Reg. 21 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-fd55e0996d320e667a1dc50830cd1af1]: Commencement: Reg. 21 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00022]: Footnote: The Schedule was amended by S.R.s 2011 Nos. [70](https://www.legislation.gov.uk/nisr/2011/70) and [276](https://www.legislation.gov.uk/nisr/2011/276), [S.R. 2013 No. 37](https://www.legislation.gov.uk/nisr/2013/37), S.S [2019 No. 35](https://www.legislation.gov.uk/ssi/2019/35), [S.R. 2020 No. 295](https://www.legislation.gov.uk/nisr/2020/295), S.R.s 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85) and S.R.s 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [2011/1043](https://www.legislation.gov.uk/nisr/2011/1043).
 
 [^f00023]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-7c4208ab6c02e3287d27bc60e3b8df52]: Commencement: Reg. 22 in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-7c4208ab6c02e3287d27bc60e3b8df52]: Commencement: Reg. 22 in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-0fcff6a59fd614752426cc81477ae425]: Commencement: Reg. 23(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-0fcff6a59fd614752426cc81477ae425]: Commencement: Reg. 23(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-c0da5e0fc111419e1ff8c711a8501e8e]: Commencement: Reg. 23(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-c0da5e0fc111419e1ff8c711a8501e8e]: Commencement: Reg. 23(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
-[^key-ad48a409fb092fbd0c4355a6e9f86fe6]: Commencement: Reg. 24(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-ad48a409fb092fbd0c4355a6e9f86fe6]: Commencement: Reg. 24(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-131196c820b6547b1ad154fdc75c03b9]: Commencement: Reg. 24(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-131196c820b6547b1ad154fdc75c03b9]: Commencement: Reg. 24(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
 [^f00024]: Footnote: paragraph 11E was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
 [^f00025]: Footnote: paragraph 11F was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-be150d4858c1f8b9a6707b6f433a162b]: Commencement: Reg. 25(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-be150d4858c1f8b9a6707b6f433a162b]: Commencement: Reg. 25(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-a4983069895f9781db0a906d1f8bee92]: Commencement: Reg. 25(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-a4983069895f9781db0a906d1f8bee92]: Commencement: Reg. 25(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
 [^f00026]: Footnote: paragraph 11E was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
 [^f00027]: Footnote: paragraph 11F was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-7a4a554700c6734bc865efe6699f114a]: Commencement: Reg. 26(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-7a4a554700c6734bc865efe6699f114a]: Commencement: Reg. 26(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-7320ff3ee6c3e6133cae6f2ade755e34]: Commencement: Reg. 26(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-7320ff3ee6c3e6133cae6f2ade755e34]: Commencement: Reg. 26(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
 [^f00028]: Footnote: paragraph 10E was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
 [^f00029]: Footnote: paragraph 10F was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-1ea4de3fac854d54e0c830d9d4b27ed0]: Commencement: Reg. 27(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-1ea4de3fac854d54e0c830d9d4b27ed0]: Commencement: Reg. 27(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-45588a66e367aebc7ce1a9eb6774159a]: Commencement: Reg. 27(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-45588a66e367aebc7ce1a9eb6774159a]: Commencement: Reg. 27(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
 [^f00030]: Footnote: paragraph 12E was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
 [^f00031]: Footnote: paragraph 12F was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-d3f910be28cbe206dc42798be61a464c]: Commencement: Reg. 28(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-d3f910be28cbe206dc42798be61a464c]: Commencement: Reg. 28(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-303a2f56b31b6a57fc906297cbc995db]: Commencement: Reg. 28(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-303a2f56b31b6a57fc906297cbc995db]: Commencement: Reg. 28(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
 [^f00032]: Footnote: paragraph 11E was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
 [^f00033]: Footnote: paragraph 11F was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-a25c757ebdc938d93900016114b47829]: Commencement: Reg. 29(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-a25c757ebdc938d93900016114b47829]: Commencement: Reg. 29(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-4200aaacf907eda4f80bb353e42abd19]: Commencement: Reg. 29(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-4200aaacf907eda4f80bb353e42abd19]: Commencement: Reg. 29(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
 [^f00034]: Footnote: paragraph 14 was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-136cd4172c21bde8200fe1e0eb4b26a9]: Commencement: Reg. 30(1)(4) in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-136cd4172c21bde8200fe1e0eb4b26a9]: Commencement: Reg. 30(1)(4) in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-bb35112c19c66ec7f57f93c331a04bc0]: Commencement: Reg. 30(2) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-bb35112c19c66ec7f57f93c331a04bc0]: Commencement: Reg. 30(2) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-8b99c51882610816dd7dd5d0ad8efe60]: Commencement: Reg. 30(3)(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
+[^c-8b99c51882610816dd7dd5d0ad8efe60]: Commencement: Reg. 30(3)(a) in operation at 26.2.2024 with application in accordance with reg. 1(5)(6)
 
-[^key-1913d9f0aef867b265353b95dc5e59f6]: Commencement: Reg. 30(3)(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
+[^c-1913d9f0aef867b265353b95dc5e59f6]: Commencement: Reg. 30(3)(b) in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(b)
 
-[^key-a8f44a7a688057b4c8b9fcf7ebdb9c01]: Textual amendment: Words in [reg. 30(3)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/3) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2024/157/regulation/26)
+[^c-a8f44a7a688057b4c8b9fcf7ebdb9c01]: Textual amendment: Words in [reg. 30(3)](https://www.legislation.gov.uk/nisr/2024/19/regulation/30/3) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2024/157/regulation/26)
 
 [^f00035]: Footnote: paragraph 4G was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75)
 
 [^f00036]: Footnote: paragraph 4I was inserted by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75)
 
-[^key-aac60e77f6e92afca5161a97d4c22d09]: Commencement: Reg. 31 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-aac60e77f6e92afca5161a97d4c22d09]: Commencement: Reg. 31 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-f323e1df15e17282d28031502e29910f]: Commencement: Reg. 32 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-f323e1df15e17282d28031502e29910f]: Commencement: Reg. 32 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00037]: Footnote: paragraph 2A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
 
@@ -1480,19 +1480,19 @@ An regulatory impact assessment has not been produced for this rule as no, or no
 
 [^f00045]: Footnote: paragraph 8 was amended by [S.R. 2020 No. 295](https://www.legislation.gov.uk/nisr/2020/295).
 
-[^key-524bc5820d54856cf3e4201e30720b52]: Textual amendment: Words in [reg. 32(j)](https://www.legislation.gov.uk/nisr/2024/19/regulation/32/j) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [27(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/27/a)
+[^c-524bc5820d54856cf3e4201e30720b52]: Textual amendment: Words in [reg. 32(j)](https://www.legislation.gov.uk/nisr/2024/19/regulation/32/j) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [27(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/27/a)
 
 [^f00046]: Footnote: paragraph 8A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
 
-[^key-09bb898eae15bcdc66ec2bdc103e7bd2]: Textual amendment: Words in [reg. 32(k)](https://www.legislation.gov.uk/nisr/2024/19/regulation/32/k) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [27(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/27/b)
+[^c-09bb898eae15bcdc66ec2bdc103e7bd2]: Textual amendment: Words in [reg. 32(k)](https://www.legislation.gov.uk/nisr/2024/19/regulation/32/k) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [27(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/27/b)
 
 [^f00047]: Footnote: paragraph 15 was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-e947453273790a8e49a9bbe35e984169]: Commencement: Reg. 33 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-e947453273790a8e49a9bbe35e984169]: Commencement: Reg. 33 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-4df138a19937c62164b4e2f66ce671e0]: Commencement: Reg. 34 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-4df138a19937c62164b4e2f66ce671e0]: Commencement: Reg. 34 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-c9f9af83ec806c398cd1da9d35653b7d]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/nisr/2024/19/regulation/34) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28)
+[^c-c9f9af83ec806c398cd1da9d35653b7d]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/nisr/2024/19/regulation/34) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2024/157/regulation/28)
 
 [^f00048]: Footnote: paragraph 2A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75).
 
@@ -1514,148 +1514,148 @@ An regulatory impact assessment has not been produced for this rule as no, or no
 
 [^f00057]: Footnote: paragraph 8A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
 
-[^key-be6f56a097de54a1b232831ad4dd9bf9]: Commencement: Reg. 35 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-be6f56a097de54a1b232831ad4dd9bf9]: Commencement: Reg. 35 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-b357c611e1f7d2cadb461ce5b4bd2e7f]: Commencement: Reg. 36 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-b357c611e1f7d2cadb461ce5b4bd2e7f]: Commencement: Reg. 36 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-60f922b9475fc80d7dc44395147ad9d8]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2024/19/regulation/36) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [29(a)(i)](https://www.legislation.gov.uk/nisr/2024/157/regulation/29/a/i)
+[^c-60f922b9475fc80d7dc44395147ad9d8]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2024/19/regulation/36) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [29(a)(i)](https://www.legislation.gov.uk/nisr/2024/157/regulation/29/a/i)
 
-[^key-b5f6b2feeabd9814df314f859ea80234]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2024/19/regulation/36) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [29(a)(ii)](https://www.legislation.gov.uk/nisr/2024/157/regulation/29/a/ii)
+[^c-b5f6b2feeabd9814df314f859ea80234]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/nisr/2024/19/regulation/36) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [29(a)(ii)](https://www.legislation.gov.uk/nisr/2024/157/regulation/29/a/ii)
 
-[^key-214443db446457432161fdb366f7d968]: Commencement: Reg. 37 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-214443db446457432161fdb366f7d968]: Commencement: Reg. 37 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-47b83948a31ed57346f4f7fa3a31a65b]: Commencement: Reg. 38 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-47b83948a31ed57346f4f7fa3a31a65b]: Commencement: Reg. 38 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-3fb63663ce8c44ab44937fe3cee136c9]: Commencement: Reg. 39 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-3fb63663ce8c44ab44937fe3cee136c9]: Commencement: Reg. 39 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00058]: Footnote: Regulation 18 was amended by S.R.s [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 295](https://www.legislation.gov.uk/nisr/2020/295), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-cc94f754209df69507d23678df5f0e37]: Commencement: Reg. 40 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-cc94f754209df69507d23678df5f0e37]: Commencement: Reg. 40 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00059]: Footnote: Paragraph 7 was amended by S.R.s [2012 No. 398](https://www.legislation.gov.uk/nisr/2012/398), 2021 Nos. [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-9654b5025ff09a1febb5237418eabcb1]: Commencement: Reg. 41 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-9654b5025ff09a1febb5237418eabcb1]: Commencement: Reg. 41 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00060]: Footnote: Paragraph 6 was amended by S.R.s 2021 Nos. [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-6514ce8d217be62939e1d8054ac2c1c1]: Commencement: Reg. 42 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-6514ce8d217be62939e1d8054ac2c1c1]: Commencement: Reg. 42 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00061]: Footnote: Paragraph 11 was amended by S.R.s 2021 Nos. [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-a3c7b6509cba02819dd82cc569652a87]: Commencement: Reg. 43 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-a3c7b6509cba02819dd82cc569652a87]: Commencement: Reg. 43 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-878c2abb8ac56c7bf45835e17c3ca8ab]: Commencement: Reg. 44 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-878c2abb8ac56c7bf45835e17c3ca8ab]: Commencement: Reg. 44 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00062]: Footnote: Regulation 50A was inserted by [S.R. 2012 No. 398](https://www.legislation.gov.uk/nisr/2012/398) and amended by S.R.s 2021 Nos. [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-818724f98163b83164c0e04edb7651e3]: Commencement: Reg. 45 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-818724f98163b83164c0e04edb7651e3]: Commencement: Reg. 45 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00063]: Footnote: Paragraph 5 was amended by S.Rs. 2021 Nos. [85](https://www.legislation.gov.uk/nisr/2021/85) and [201](https://www.legislation.gov.uk/nisr/2021/201) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-372e501bafd2d8a74335f94905dc92c7]: Commencement: Reg. 46 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-372e501bafd2d8a74335f94905dc92c7]: Commencement: Reg. 46 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00064]: Footnote: Paragraph 5 was amended by S.Rs. 2021 Nos. [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-11f59ad196ec17a40437edc31c8fbcb0]: Commencement: Reg. 47 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-11f59ad196ec17a40437edc31c8fbcb0]: Commencement: Reg. 47 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00065]: Footnote: Regulations 74 was amended by S.Rs. [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 295](https://www.legislation.gov.uk/nisr/2020/295), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85), 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-a21c82aafacf5dfc5a5c5ec72bd8923e]: Commencement: Reg. 48 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-a21c82aafacf5dfc5a5c5ec72bd8923e]: Commencement: Reg. 48 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-704ab9853b8e2a637066824973cbb960]: Commencement: Reg. 49 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-704ab9853b8e2a637066824973cbb960]: Commencement: Reg. 49 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-10b75e553431f90d2cd6f6fd0dfba6a3]: Commencement: Reg. 50 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-10b75e553431f90d2cd6f6fd0dfba6a3]: Commencement: Reg. 50 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-4db3d45c67806d1439727262e6532b34]: Commencement: Reg. 51 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-4db3d45c67806d1439727262e6532b34]: Commencement: Reg. 51 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00066]: Footnote: Regulation 123 was amended by S.R.s [2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7), [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-a5c5c4b77e4a558e0456af9a6c4d07d3]: Commencement: Reg. 52 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-a5c5c4b77e4a558e0456af9a6c4d07d3]: Commencement: Reg. 52 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00067]: Footnote: Paragraph 7 was amended by S.R.s [2021 No. 260](https://www.legislation.gov.uk/nisr/2021/260) and 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-e9c93d558ab841bbab9fb0e0cf07c0a2]: Commencement: Reg. 53 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-e9c93d558ab841bbab9fb0e0cf07c0a2]: Commencement: Reg. 53 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-517a9a10a368207648fe7cd5f0c0c1cd]: Commencement: Reg. 54 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-517a9a10a368207648fe7cd5f0c0c1cd]: Commencement: Reg. 54 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00068]: Footnote: Regulations 140 was amended by S.Rs. [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 295](https://www.legislation.gov.uk/nisr/2020/295), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85), 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-a6ac6fcf38081d197d331e872ae9152b]: Commencement: Reg. 55 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-a6ac6fcf38081d197d331e872ae9152b]: Commencement: Reg. 55 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
-[^key-33f200afff43a718a8b9fc024f59bf8b]: Commencement: Reg. 56 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-33f200afff43a718a8b9fc024f59bf8b]: Commencement: Reg. 56 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00069]: Footnote: Regulations 150 was inserted by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7).
 
-[^key-26ac0b4a0939f7de601c8283fe015733]: Commencement: Reg. 57 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-26ac0b4a0939f7de601c8283fe015733]: Commencement: Reg. 57 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00070]: Footnote: Regulation 151 was amended by S.R.s [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 295](https://www.legislation.gov.uk/nisr/2020/295), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50) and [85](https://www.legislation.gov.uk/nisr/2021/85) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-0ee6fbc2e68e4d661c3188415c64857b]: Commencement: Reg. 58 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-0ee6fbc2e68e4d661c3188415c64857b]: Commencement: Reg. 58 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00071]: Footnote: Regulation 159 was inserted by [S.R. 2017 No. 7](https://www.legislation.gov.uk/nisr/2017/7) and amended by S.R [2020 No.79](https://www.legislation.gov.uk/nisr/2020/79).
 
-[^key-4a82acfe1f600c7f3c642f6757cfd068]: Commencement: Reg. 59 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
+[^c-4a82acfe1f600c7f3c642f6757cfd068]: Commencement: Reg. 59 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(c)
 
 [^f00072]: Footnote: paragraph (1) was amended by S.R.s [2011 No. 376](https://www.legislation.gov.uk/nisr/2011/376) and [2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-97cfefdbf333e71d339331f752bae8d7]: Textual amendment: Word in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/a)
+[^c-97cfefdbf333e71d339331f752bae8d7]: Textual amendment: Word in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(a)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/a)
 
-[^key-e404d55bdc18fa1c61448e13b089735d]: Textual amendment: Words in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/b)
+[^c-e404d55bdc18fa1c61448e13b089735d]: Textual amendment: Words in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(b)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/b)
 
-[^key-741458d73086194459222934d1f49043]: Textual amendment: Words in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(c)(i)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/c/i)
+[^c-741458d73086194459222934d1f49043]: Textual amendment: Words in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) omitted (14.8.2024) by virtue of [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(c)(i)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/c/i)
 
-[^key-e0e9d6b6f739dde8458d2a8952fd269b]: Textual amendment: Word in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(c)(ii)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/c/ii)
+[^c-e0e9d6b6f739dde8458d2a8952fd269b]: Textual amendment: Word in [reg. 59(d)](https://www.legislation.gov.uk/nisr/2024/19/regulation/59/d) substituted (14.8.2024) by [The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/157)](https://www.legislation.gov.uk/nisr/2024/157), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2), [30(c)(ii)](https://www.legislation.gov.uk/nisr/2024/157/regulation/30/c/ii)
 
-[^key-8cbe56509464d58dba2764d8b416b262]: Commencement: Reg. 60 in operation at 26.2.2024 with application in accordance with reg. 1(7)(b)
+[^c-8cbe56509464d58dba2764d8b416b262]: Commencement: Reg. 60 in operation at 26.2.2024 with application in accordance with reg. 1(7)(b)
 
 [^f00073]: Footnote: “family member” was amended by [S.R. 2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383) and [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
 
 [^f00074]: Footnote: Paragraph 9C was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85)
 
-[^key-495054092be8912fb5d3e5190a596274]: Commencement: Reg. 61 in operation at 26.2.2024 with application in accordance with reg. 1(7)(b)
+[^c-495054092be8912fb5d3e5190a596274]: Commencement: Reg. 61 in operation at 26.2.2024 with application in accordance with reg. 1(7)(b)
 
 [^f00075]: Footnote: “family member” definition was amended by [S.R. 2011 No. 70](https://www.legislation.gov.uk/nisr/2011/70) and [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
 
 [^f00076]: Footnote: Paragraph 9ZC was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85)
 
-[^key-1661614e72706662f3add87ddd11d5f4]: Commencement: Reg. 62 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-1661614e72706662f3add87ddd11d5f4]: Commencement: Reg. 62 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00077]: Footnote: No. 4 of 2011
 
-[^key-ea93bfe857c2d131c65cfa832041fbc6]: Commencement: Reg. 63 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-ea93bfe857c2d131c65cfa832041fbc6]: Commencement: Reg. 63 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00078]: Footnote: Schedule 6 was amended by S.R.s [2013 No. 223](https://www.legislation.gov.uk/nisr/2013/223), [2014 No. 309](https://www.legislation.gov.uk/nisr/2014/309), [2016 No. 21](https://www.legislation.gov.uk/nisr/2016/21), [2017 No. 43](https://www.legislation.gov.uk/nisr/2017/43), [2019 No.35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79) and [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-266e3fa144aeca7b58d1bd8d314c47bf]: Commencement: Reg. 64 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-266e3fa144aeca7b58d1bd8d314c47bf]: Commencement: Reg. 64 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-32d34209b71b8a5b9231307f4408ba28]: Commencement: Reg. 65 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-32d34209b71b8a5b9231307f4408ba28]: Commencement: Reg. 65 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00079]: Footnote: Sub-paragraph (h) was inserted by [S.R. 2013 No. 128](https://www.legislation.gov.uk/nisr/2013/128).
 
-[^key-e521c5d69b24d03405e5fdbb5f501b8a]: Commencement: Reg. 66 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-e521c5d69b24d03405e5fdbb5f501b8a]: Commencement: Reg. 66 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00080]: Footnote: Sub-paragraph (a) was amended by [S.R. 2021 No.85](https://www.legislation.gov.uk/nisr/2021/85).
 
-[^key-c3c7b1aed999bf7290096928c4245292]: Commencement: Reg. 67 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-c3c7b1aed999bf7290096928c4245292]: Commencement: Reg. 67 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-36fbac0e109d4791532f59fcf2792d44]: Commencement: Reg. 68 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-36fbac0e109d4791532f59fcf2792d44]: Commencement: Reg. 68 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-a126a75673162cf212aa96046106d6be]: Commencement: Reg. 69 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-a126a75673162cf212aa96046106d6be]: Commencement: Reg. 69 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
 [^f00081]: Footnote: Sub-Paragraph (8) was amended by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-781d23ee5d49a9704d9071df04d24a72]: Commencement: Reg. 70 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-781d23ee5d49a9704d9071df04d24a72]: Commencement: Reg. 70 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-79fc7e0ad8c5f445496849bdd6af312e]: Commencement: Reg. 71 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-79fc7e0ad8c5f445496849bdd6af312e]: Commencement: Reg. 71 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-eb0bcdf0f51be4a4625d1575458f45d8]: Commencement: Reg. 72 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(d)
+[^c-eb0bcdf0f51be4a4625d1575458f45d8]: Commencement: Reg. 72 in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(d)
 
-[^key-fbfdb4543d9f54e48901908ec3f9a133]: Commencement: Reg. 73 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-fbfdb4543d9f54e48901908ec3f9a133]: Commencement: Reg. 73 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-e939a2f21f4c707e01f224cf7f902419]: Commencement: Reg. 74 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-e939a2f21f4c707e01f224cf7f902419]: Commencement: Reg. 74 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-1a914ad29f05d2d3765b81c2d5e69d11]: Commencement: Reg. 75 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-1a914ad29f05d2d3765b81c2d5e69d11]: Commencement: Reg. 75 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-a69b7eed35120c4a613439b2de729dcf]: Commencement: Reg. 76 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
+[^c-a69b7eed35120c4a613439b2de729dcf]: Commencement: Reg. 76 in operation at 26.2.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2)
 
-[^key-ebf4ac64a14600eea2bb86ddd6975bcd]: Commencement: Sch. in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(d)
+[^c-ebf4ac64a14600eea2bb86ddd6975bcd]: Commencement: Sch. in operation at 26.2.2024 with application in accordance with reg. 1(3)(4)(d)

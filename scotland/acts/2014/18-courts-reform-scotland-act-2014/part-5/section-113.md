@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Appeal from the Sheriff Appeal Court to the Court of Session[^key-33775aa297fb95bcd9aa24147e1626c2]
+## 113. Appeal from the Sheriff Appeal Court to the Court of Session[^c-33775aa297fb95bcd9aa24147e1626c2]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33775aa297fb95bcd9aa24147e1626c2]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2014/18/section/113) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-33775aa297fb95bcd9aa24147e1626c2]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2014/18/section/113) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

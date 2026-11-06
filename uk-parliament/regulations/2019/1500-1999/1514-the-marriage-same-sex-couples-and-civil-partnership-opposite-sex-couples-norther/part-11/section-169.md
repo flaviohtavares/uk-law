@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Interpretation of Part[^key-505e8cccf4f85ab641fe1302b172b478]
+## 169. Interpretation of Part[^c-505e8cccf4f85ab641fe1302b172b478]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-505e8cccf4f85ab641fe1302b172b478]: Commencement: Reg. 169 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-505e8cccf4f85ab641fe1302b172b478]: Commencement: Reg. 169 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

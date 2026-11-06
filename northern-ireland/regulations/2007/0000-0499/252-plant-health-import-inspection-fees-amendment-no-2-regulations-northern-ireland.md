@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-Plant Health (Import Inspection Fees) (Amendment No.2) Regulations (Northern Ireland) 2007 (revoked)[^key-954c974e54b00f2d14f2d950725a53be]
+Plant Health (Import Inspection Fees) (Amendment No.2) Regulations (Northern Ireland) 2007 (revoked)[^c-954c974e54b00f2d14f2d950725a53be]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 21st May 2007
 
-[^key-954c974e54b00f2d14f2d950725a53be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-954c974e54b00f2d14f2d950725a53be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-954c974e54b00f2d14f2d950725a53be]
+## 1. Citation, commencement and interpretation[^c-954c974e54b00f2d14f2d950725a53be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2005[^key-954c974e54b00f2d14f2d950725a53be]
+## 2. Amendment of the Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2005[^c-954c974e54b00f2d14f2d950725a53be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-954c974e54b00f2d14f2d950725a53be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-954c974e54b00f2d14f2d950725a53be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-954c974e54b00f2d14f2d950725a53be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-954c974e54b00f2d14f2d950725a53be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-954c974e54b00f2d14f2d950725a53be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-954c974e54b00f2d14f2d950725a53be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — New Schedule 2 to be inserted in the Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2005[^key-954c974e54b00f2d14f2d950725a53be]
+## SCHEDULE — New Schedule 2 to be inserted in the Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2005[^c-954c974e54b00f2d14f2d950725a53be]
 
 Regulation 4
 
-> **SCHEDULE 2 — IMPORT INSPECTION FEES (REDUCED RATES)[^key-954c974e54b00f2d14f2d950725a53be]**
+> **SCHEDULE 2 — IMPORT INSPECTION FEES (REDUCED RATES)[^c-954c974e54b00f2d14f2d950725a53be]**
 >
 > Regulation 4(3)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-954c974e54b00f2d14f2d950725a53be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-954c974e54b00f2d14f2d950725a53be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-954c974e54b00f2d14f2d950725a53be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/252) revoked (29.3.2019) by [The Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2019 (S.R. 2019/73)](https://www.legislation.gov.uk/nisr/2019/73), [reg. 8(d)](https://www.legislation.gov.uk/nisr/2019/73/regulation/8/d)
+[^c-954c974e54b00f2d14f2d950725a53be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/252) revoked (29.3.2019) by [The Plant Health (Import Inspection Fees) Regulations (Northern Ireland) 2019 (S.R. 2019/73)](https://www.legislation.gov.uk/nisr/2019/73), [reg. 8(d)](https://www.legislation.gov.uk/nisr/2019/73/regulation/8/d)

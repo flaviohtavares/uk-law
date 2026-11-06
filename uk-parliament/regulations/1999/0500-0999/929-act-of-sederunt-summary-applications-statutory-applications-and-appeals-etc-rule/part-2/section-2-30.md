@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.30. Motion procedure[^key-9937e337eae4059343f3762fdfbbd79d]
+## 2.30. Motion procedure[^c-9937e337eae4059343f3762fdfbbd79d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Except where the sheriff otherwise directs, any motion relating to a summary app
 
 ## Annotations
 
-[^key-9937e337eae4059343f3762fdfbbd79d]: Commencement: Rule 2.30 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-9937e337eae4059343f3762fdfbbd79d]: Commencement: Rule 2.30 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

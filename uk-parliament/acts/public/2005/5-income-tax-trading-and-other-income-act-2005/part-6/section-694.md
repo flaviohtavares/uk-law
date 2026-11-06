@@ -25,7 +25,7 @@ summary: ''
 - (a) is exempt from income tax, or
 - (b) is exempt from income tax to such extent as is specified in the regulations.
 
-(1A)[^key-b101c44c0316d8f8b32392134215058a] In subsection (1) “**income of an individual from investments under a plan**” includes income from investments which is treated as the individual's income by virtue of section 629 (income paid to relevant children of settlor).
+(1A)[^c-b101c44c0316d8f8b32392134215058a] In subsection (1) “**income of an individual from investments under a plan**” includes income from investments which is treated as the individual's income by virtue of section 629 (income paid to relevant children of settlor).
 
 (2) In this Chapter such regulations are referred to as “**investment plan regulations**”.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b101c44c0316d8f8b32392134215058a]: Textual amendment: S. 694(1A) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/2)
+[^c-b101c44c0316d8f8b32392134215058a]: Textual amendment: S. 694(1A) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/2)

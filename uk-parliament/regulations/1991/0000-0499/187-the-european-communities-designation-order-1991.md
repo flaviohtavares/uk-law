@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 1991 (revoked)[^key-a731bdf58f1df4fd06f5e0256af3a4b3]
+The European Communities (Designation) Order 1991 (revoked)[^c-a731bdf58f1df4fd06f5e0256af3a4b3]
 
 Made
 
@@ -50,30 +50,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-a731bdf58f1df4fd06f5e0256af3a4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a731bdf58f1df4fd06f5e0256af3a4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a731bdf58f1df4fd06f5e0256af3a4b3]
+## 1. Citation and commencement[^c-a731bdf58f1df4fd06f5e0256af3a4b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers or departments[^key-a731bdf58f1df4fd06f5e0256af3a4b3]
+## 2. Designation of Ministers or departments[^c-a731bdf58f1df4fd06f5e0256af3a4b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a731bdf58f1df4fd06f5e0256af3a4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a731bdf58f1df4fd06f5e0256af3a4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a731bdf58f1df4fd06f5e0256af3a4b3]
+## SCHEDULE[^c-a731bdf58f1df4fd06f5e0256af3a4b3]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a731bdf58f1df4fd06f5e0256af3a4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a731bdf58f1df4fd06f5e0256af3a4b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a731bdf58f1df4fd06f5e0256af3a4b3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/187) revoked (23.8.1996) by [The European Communities (Designation) (No. 2) Order 1996 (S.I. 1996/1912)](https://www.legislation.gov.uk/uksi/1996/1912), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1912/article/1), [3](https://www.legislation.gov.uk/uksi/1996/1912/article/3)
+[^c-a731bdf58f1df4fd06f5e0256af3a4b3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/187) revoked (23.8.1996) by [The European Communities (Designation) (No. 2) Order 1996 (S.I. 1996/1912)](https://www.legislation.gov.uk/uksi/1996/1912), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1912/article/1), [3](https://www.legislation.gov.uk/uksi/1996/1912/article/3)

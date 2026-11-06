@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Appeals against determinations based on medical evidence[^key-9c83de4caad666b174176cbbc178509f]
+## 154. Appeals against determinations based on medical evidence[^c-9c83de4caad666b174176cbbc178509f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,11 +34,11 @@ the scheme manager must, within 14 days of making, confirming or revising the de
 (4) The documents are—
 
 - (a) a copy of the opinion, response or evidence (as the case may be);
-- (b) an explanation of the procedure for appeals under this regulation[^key-731df208895595a7dadc980bd12253db]; and
+- (b) an explanation of the procedure for appeals under this regulation[^c-731df208895595a7dadc980bd12253db]; and
 - (c) a statement that, if P wishes to appeal against the scheme manager’s determination on an issue of a medical nature, P must give written notice to the scheme manager, stating P’s name and address and the grounds of appeal, not later than 28 days after P receives the last of the documents required to be supplied under this paragraph, or within such longer period as the scheme manager may allow.
 
 ## Annotations
 
-[^key-9c83de4caad666b174176cbbc178509f]: Commencement: [Reg. 154](https://www.legislation.gov.uk/uksi/2014/2848/regulation/154) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-9c83de4caad666b174176cbbc178509f]: Commencement: [Reg. 154](https://www.legislation.gov.uk/uksi/2014/2848/regulation/154) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-731df208895595a7dadc980bd12253db]: Textual amendment: Word in [reg. 154(4)(b)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/154/4/b) substituted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/888/regulation/9)
+[^c-731df208895595a7dadc980bd12253db]: Textual amendment: Word in [reg. 154(4)(b)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/154/4/b) substituted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/888/regulation/9)

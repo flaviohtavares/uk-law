@@ -52,7 +52,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-38d9a552b4aba1741283c908425cbbac]
+### 1. Citation, commencement and extent[^c-38d9a552b4aba1741283c908425cbbac]
 
 (1) These Regulations may be cited as the Combined Authorities (Borrowing) and East Midlands Combined County Authority (Borrowing and Functions) (Amendment) Regulations 2025.
 
@@ -62,7 +62,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 ## PART 2 — Combined authority borrowing
 
-### 2. North East Mayoral Combined Authority and York and North Yorkshire Combined Authority borrowing[^key-e965b8518f90055f59602b17b756d5d8]
+### 2. North East Mayoral Combined Authority and York and North Yorkshire Combined Authority borrowing[^c-e965b8518f90055f59602b17b756d5d8]
 
 All functions of the following authorities[^f00007] other than their transport functions[^f00008] are specified for the purposes of section 23(5) of the Local Government Act 2003 (power to borrow money for a purpose relevant to a function specified in regulations)—
 
@@ -71,17 +71,17 @@ All functions of the following authorities[^f00007] other than their transport f
 
 ## PART 3 — East Midlands Combined County Authority borrowing
 
-### 3. East Midlands Combined County Authority borrowing[^key-3202423d3a0c496e6c0964c606c741e3]
+### 3. East Midlands Combined County Authority borrowing[^c-3202423d3a0c496e6c0964c606c741e3]
 
 All functions of the East Midlands Combined County Authority[^f00011] are specified for the purposes of section 23(8A) of the Local Government Act 2003 (power to borrow money for a purpose relevant to a function specified in regulations)[^f00012].
 
 ## PART 4 — Functions of the East Midlands Combined County Authority
 
-### 4. Economic development and regeneration functions[^key-21d3cd5f1f34ce6a2474e8307677aec0]
+### 4. Economic development and regeneration functions[^c-21d3cd5f1f34ce6a2474e8307677aec0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the East Midlands Combined County Authority Regulations 2024[^key-1c683089a6c2bce451d245ea7f805b08]
+### 5. Amendment of the East Midlands Combined County Authority Regulations 2024[^c-1c683089a6c2bce451d245ea7f805b08]
 
 The East Midlands Combined County Authority Regulations 2024[^f00014] are amended as follows—
 
@@ -142,9 +142,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00006]: Footnote: Subsection (10) was inserted by section 9(3) of the Cities and Local Government Devolution Act 2016.
 
-[^key-38d9a552b4aba1741283c908425cbbac]: Commencement: Reg. 1 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
+[^c-38d9a552b4aba1741283c908425cbbac]: Commencement: Reg. 1 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
 
-[^key-e965b8518f90055f59602b17b756d5d8]: Commencement: Reg. 2 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
+[^c-e965b8518f90055f59602b17b756d5d8]: Commencement: Reg. 2 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
 
 [^f00007]: Footnote: Mayoral combined authorities who, on or before 22nd October 2024 have entered into a debt agreement with His Majesty’s Treasury. “**Debt agreement**” means an agreement between a combined authority and His Majesty’s Treasury which provides for annual maximum limits on the long term external debt (borrowing for more than 12 months) into which the authority may enter.
 
@@ -154,15 +154,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00010]: Footnote: The authority was established under article 3 of [S.I. 2023/1432](https://www.legislation.gov.uk/uksi/2023/1432) and its functions are set out in Parts 3 to 10 of that Order.
 
-[^key-3202423d3a0c496e6c0964c606c741e3]: Commencement: Reg. 3 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
+[^c-3202423d3a0c496e6c0964c606c741e3]: Commencement: Reg. 3 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
 
 [^f00011]: Footnote: The authority was established under regulation 3 of [S.I. 2024/232](https://www.legislation.gov.uk/uksi/2024/232) and its functions are set out in Parts 5 to 10 of those Regulations, who, on or before 22nd October 2024 has entered into a debt agreement with His Majesty’s Treasury.
 
 [^f00012]: Footnote: Section 23(8A) of the Local Government Act 2003, as amended by the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55) confers borrowing powers on a combined county authority in relation to any other functions specified in regulations by the Secretary of State.
 
-[^key-21d3cd5f1f34ce6a2474e8307677aec0]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/86/regulation/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/519/regulation/6)
+[^c-21d3cd5f1f34ce6a2474e8307677aec0]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/86/regulation/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/519/regulation/6)
 
-[^key-1c683089a6c2bce451d245ea7f805b08]: Commencement: Reg. 5 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
+[^c-1c683089a6c2bce451d245ea7f805b08]: Commencement: Reg. 5 in force at 28.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/86/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2024/232](https://www.legislation.gov.uk/uksi/2024/232).
 

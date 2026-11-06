@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Variation of arrangements excluded from section 49(2)[^key-eaa34ad854351b4621f102672be5402e]
+## 46. Variation of arrangements excluded from section 49(2)[^c-eaa34ad854351b4621f102672be5402e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a credit arrangement which is excluded from section 49(2) is varied as men
 
 ## Annotations
 
-[^key-eaa34ad854351b4621f102672be5402e]: Commencement: Reg. 46 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-eaa34ad854351b4621f102672be5402e]: Commencement: Reg. 46 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

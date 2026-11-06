@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347A. Sexual harm prevention orders: requirements included in order etc.[^key-836c5b295c21be11f65afb23ea3cd117][^M_C_a2424312-1f17-412f-93c7-4e51af6aef0c]
+## 347A. Sexual harm prevention orders: requirements included in order etc.[^c-836c5b295c21be11f65afb23ea3cd117][^M_C_a2424312-1f17-412f-93c7-4e51af6aef0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ These obligations have effect as requirements of the order.
 
 ## Annotations
 
-[^key-836c5b295c21be11f65afb23ea3cd117]: Textual amendment: [S. 347A](https://www.legislation.gov.uk/ukpga/2020/17/section/347A) inserted (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 175(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/175/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/h)
+[^c-836c5b295c21be11f65afb23ea3cd117]: Textual amendment: [S. 347A](https://www.legislation.gov.uk/ukpga/2020/17/section/347A) inserted (29.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 175(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/175/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/h)
 
 [^M_C_a2424312-1f17-412f-93c7-4e51af6aef0c]: Modification: [S. 347A(4)(c)](https://www.legislation.gov.uk/ukpga/2020/17/section/347A) modified (29.11.2022) by 2003 c. 42, s. 137(3)(bb) (as inserted by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 179(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/175/4), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/h))

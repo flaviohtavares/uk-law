@@ -22,7 +22,7 @@ summary: ''
 
 (1) A claimant falls within section 11D of the Act (persons subject to no work-related requirements) if they are a claimant who—
 
-- (a) has caring responsibilities for one or more severely disabled persons for at least 35 hours a week but does not meet the conditions of entitlement to a carer's allowance or have entitlement to carer support payment[^key-879187bf933b7874f2af18d285bcd89f];
+- (a) has caring responsibilities for one or more severely disabled persons for at least 35 hours a week but does not meet the conditions of entitlement to a carer's allowance or have entitlement to carer support payment[^c-879187bf933b7874f2af18d285bcd89f];
 - (b) is the responsible foster parent of a child under the age of one;
 - (c) is an adopter and it is 52 weeks or less since—
   - (i) the date on which the child was placed with the claimant; or
@@ -36,7 +36,7 @@ summary: ''
 
 (2) Subject to paragraph (3), for the purposes of section 11D of the Act, a person has regular and substantial caring responsibilities for a severely disabled person if the person—
 
-- (a)[^key-91c56a6e4b619daa2440e17dde07b8d4] satisfies the conditions for entitlement to a carer’s allowance, or would do so but for the fact that—
+- (a)[^c-91c56a6e4b619daa2440e17dde07b8d4] satisfies the conditions for entitlement to a carer’s allowance, or would do so but for the fact that—
   - (i) their earnings have exceeded the limit prescribed for the purposes of that allowance; or
   - (ii) they are—
     - (aa) resident, or treated as resident, in Scotland; or
@@ -52,7 +52,7 @@ summary: ''
 - “**adopter**” means a person who has been matched with a child for adoption and who is, or is intended to be, the responsible carer for the child, but excluding a person who is a foster parent or close relative of the child;
 - “**matched with a child for adoption**” means an adoption agency has decided that the person would be a suitable adoptive parent for the child;
 - “**severely disabled**” has the meaning in section 70 of the Contributions and Benefits Act [^c21661301];
-- “[^key-a45a4910cfe7a45d055a9307322c81ae]**sufficient**” has the meaning given in paragraph 3 of Schedule 1 to the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “[^c-a45a4910cfe7a45d055a9307322c81ae]**sufficient**” has the meaning given in paragraph 3 of Schedule 1 to the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
 - “**without parental support**” means the person is not being looked after by a local authority and—
   - (a) has no parent (in this definition, “**parent**” includes any person acting in the place of a parent);
   - (b) cannot live with their parents because the person is estranged from them or there is a serious risk—
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-879187bf933b7874f2af18d285bcd89f]: Textual amendment: Words in [reg. 47(1)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/1/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(4)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/4/a)
+[^c-879187bf933b7874f2af18d285bcd89f]: Textual amendment: Words in [reg. 47(1)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/1/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(4)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/4/a)
 
-[^key-91c56a6e4b619daa2440e17dde07b8d4]: Textual amendment: [Reg. 47(2)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/2/b) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(4)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/4/b)
+[^c-91c56a6e4b619daa2440e17dde07b8d4]: Textual amendment: [Reg. 47(2)(a)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/2/b) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(4)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/4/b)
 
 [^c21661301]: Marginal citation: Section 70 was amended by S.I.s 1994/2556, 2002/1457 and 2011/2426.
 
-[^key-a45a4910cfe7a45d055a9307322c81ae]: Textual amendment: Words in [reg. 47(5)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/5) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(4)(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/4/c)
+[^c-a45a4910cfe7a45d055a9307322c81ae]: Textual amendment: Words in [reg. 47(5)](https://www.legislation.gov.uk/uksi/2013/379/regulation/47/5) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [25(4)(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/25/4/c)

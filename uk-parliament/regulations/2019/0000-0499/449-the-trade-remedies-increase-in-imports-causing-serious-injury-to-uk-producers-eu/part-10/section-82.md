@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82.[^key-f50c823168f3581f89813fec402fbac4]
+## 82.[^c-f50c823168f3581f89813fec402fbac4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Paragraphs 10 (notice of the Secretary of State accepting or rejecting a recomme
 
 ## Annotations
 
-[^key-f50c823168f3581f89813fec402fbac4]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2019/449/regulation/82) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-f50c823168f3581f89813fec402fbac4]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2019/449/regulation/82) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

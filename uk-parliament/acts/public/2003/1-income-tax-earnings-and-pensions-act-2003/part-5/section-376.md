@@ -23,8 +23,8 @@ summary: ''
 (1) A deduction from earnings from an employment is allowed if—
 
 - (a) the duties of the employment are performed wholly outside the United Kingdom,
-- (b) the employee is UK resident[^key-9ec21dc172408e66cfeed10e20c760f1],
-- (c) in a case where the employer is a foreign employer, the employee is not a qualifying new resident for the purposes of Chapter 5C of Part 2 of this Act or Chapter 5 of Part 8 of ITTOIA 2005 (see section 845B of that Act)[^key-17b20811280474f93e513a6029764c4f], and
+- (b) the employee is UK resident[^c-9ec21dc172408e66cfeed10e20c760f1],
+- (c) in a case where the employer is a foreign employer, the employee is not a qualifying new resident for the purposes of Chapter 5C of Part 2 of this Act or Chapter 5 of Part 8 of ITTOIA 2005 (see section 845B of that Act)[^c-17b20811280474f93e513a6029764c4f], and
 - (d) the earnings include an amount in respect of—
   - (i) the provision of accommodation or subsistence outside the United Kingdom for the employee for the purpose of enabling the employee to perform the duties of the employment, or
   - (ii) the reimbursement of expenses incurred by the employee on such accommodation or subsistence for that purpose.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec21dc172408e66cfeed10e20c760f1]: Textual amendment: Words in s. 376(1)(b) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 36](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/36)
+[^c-9ec21dc172408e66cfeed10e20c760f1]: Textual amendment: Words in s. 376(1)(b) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 36](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/36)
 
-[^key-17b20811280474f93e513a6029764c4f]: Textual amendment: Words in s. 376(1)(c) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(14)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/14/a) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-17b20811280474f93e513a6029764c4f]: Textual amendment: Words in s. 376(1)(c) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(14)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/14/a) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 28
 
-### PART 1 — Article 3: new points (8) to (15)[^key-829f2bffb418766bcf409d217863e0a2]
+### PART 1 — Article 3: new points (8) to (15)[^c-829f2bffb418766bcf409d217863e0a2]
 
 > (8) ‘EU Regulation 110/2008’ means Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks as it had effect before IP completion day;
 >
@@ -38,7 +38,7 @@ Regulation 28
 >
 > (14) in Articles 43 and 43a, ‘the original applicant’, in a case where an appeal has been made in respect of a decision made by the Secretary of State in relation to a geographical indication under Article 34, or following the submission of an application under Article 24 or 31, or a request submitted under Article 34, means the person who submitted the application or request;
 >
-> (15)[^key-2f4b504f12e022934ebfdcacc0e8d2b0] ‘third country’ means—
+> (15)[^c-2f4b504f12e022934ebfdcacc0e8d2b0] ‘third country’ means—
 >
 > - (a) for the purposes of the definition of ‘EUIA’ in point (10a), Article 36c and Annex 1A (other than the reference in paragraph (b)), any country other than—
 >   - (i) any part of the British Islands, or
@@ -49,7 +49,7 @@ Regulation 28
 >   - (ii) the Bailiwick of Jersey;
 >   - (iii) the Isle of Man;
 
-### PART 2 — New Chapter 4[^key-64bd61ebc8aa3c99d8ff33fbc9077c4f]
+### PART 2 — New Chapter 4[^c-64bd61ebc8aa3c99d8ff33fbc9077c4f]
 
 > **CHAPTER 4 — GEOGRAPHICAL INDICATIONS: APPEALS**
 >
@@ -100,7 +100,7 @@ Regulation 28
 >
 > **5.** If the Secretary of State makes a different decision, the appeal to the FTT ceases unless the FTT directs otherwise.
 
-### PART 3 — New Annex 2[^key-04150c0e850e9a4ce053d5f5ca98b9c4]
+### PART 3 — New Annex 2[^c-04150c0e850e9a4ce053d5f5ca98b9c4]
 
 > **ANNEX 2 — APPEALS**
 >
@@ -122,10 +122,10 @@ Regulation 28
 
 ## Annotations
 
-[^key-829f2bffb418766bcf409d217863e0a2]: Commencement: Sch. 10 Pt. 1 in force at 31.12.2020, see reg. 1(7)
+[^c-829f2bffb418766bcf409d217863e0a2]: Commencement: Sch. 10 Pt. 1 in force at 31.12.2020, see reg. 1(7)
 
-[^key-2f4b504f12e022934ebfdcacc0e8d2b0]: Textual amendment: Words in [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1637/schedule/10/part/1) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(11)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/11)
+[^c-2f4b504f12e022934ebfdcacc0e8d2b0]: Textual amendment: Words in [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1637/schedule/10/part/1) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(11)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/11)
 
-[^key-64bd61ebc8aa3c99d8ff33fbc9077c4f]: Commencement: Sch. 10 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-64bd61ebc8aa3c99d8ff33fbc9077c4f]: Commencement: Sch. 10 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-04150c0e850e9a4ce053d5f5ca98b9c4]: Commencement: Sch. 10 Pt. 3 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-04150c0e850e9a4ce053d5f5ca98b9c4]: Commencement: Sch. 10 Pt. 3 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)

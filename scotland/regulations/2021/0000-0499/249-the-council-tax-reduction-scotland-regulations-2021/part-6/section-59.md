@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Person treated as having student income[^key-e2bbb3be92d24163abd2ed90da9b473c]
+## 59. Person treated as having student income[^c-e2bbb3be92d24163abd2ed90da9b473c]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2bbb3be92d24163abd2ed90da9b473c]: Commencement: [Reg. 59](https://www.legislation.gov.uk/ssi/2021/249/regulation/59) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-e2bbb3be92d24163abd2ed90da9b473c]: Commencement: [Reg. 59](https://www.legislation.gov.uk/ssi/2021/249/regulation/59) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00178]: Footnote: [S.I. 2016/606](https://www.legislation.gov.uk/uksi/2016/606).

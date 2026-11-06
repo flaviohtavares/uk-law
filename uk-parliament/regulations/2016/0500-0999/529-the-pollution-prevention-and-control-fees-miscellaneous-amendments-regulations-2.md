@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001], section 302(1) of the Merchant Shipping Act 1995[^f00002] and section 67(2) and (3)(b) of the Marine and Coastal Access Act 2009[^f00003], and with the consent of the Treasury[^f00004]:
 
-## 1. Citation and commencement[^key-20bdd88d9b22d0a8ba91f11a9222f20e]
+## 1. Citation and commencement[^c-20bdd88d9b22d0a8ba91f11a9222f20e]
 
 (1) These Regulations may be cited as the Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2016.
 
 (2) These Regulations come into force on 1st June 2016.
 
-## 2. Amendment of the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^key-98e632fe9845355707201e0d60185548]
+## 2. Amendment of the Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^c-98e632fe9845355707201e0d60185548]
 
 (1) The Pollution Prevention and Control (Fees) (Miscellaneous Amendments and Other Provisions) Regulations 2015[^f00005] are amended as follows.
 
@@ -100,11 +100,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) for “£167” substitute “£168”; and
 - (b) for “£72” substitute “£82”.
 
-## 3. Amendment of the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^key-a0fcec14744720be8f3d7985498073e3]
+## 3. Amendment of the Offshore Petroleum Production and Pipe-lines (Assessment of Environmental Effects) Regulations 1999[^c-a0fcec14744720be8f3d7985498073e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-659aa58a8261876bebddc4f6e624bc54]
+## 4. Amendment of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^c-659aa58a8261876bebddc4f6e624bc54]
 
 In regulation 20A of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^f00010]—
 
@@ -171,9 +171,9 @@ An assessment of the effect that these Regulations will have on the costs of bus
 
 [^f00004]: Footnote: The consent of the Treasury is required to make regulations under section 56(1) of the Finance Act 1973 and section 302(1) of the Merchant Shipping Act 1995.
 
-[^key-20bdd88d9b22d0a8ba91f11a9222f20e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/529/regulation/1) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
+[^c-20bdd88d9b22d0a8ba91f11a9222f20e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/529/regulation/1) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
 
-[^key-98e632fe9845355707201e0d60185548]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/529/regulation/2) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
+[^c-98e632fe9845355707201e0d60185548]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/529/regulation/2) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431).
 
@@ -183,8 +183,8 @@ An assessment of the effect that these Regulations will have on the costs of bus
 
 [^f00008]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-a0fcec14744720be8f3d7985498073e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/529/regulation/3) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/b) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-a0fcec14744720be8f3d7985498073e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/529/regulation/3) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/b) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
-[^key-659aa58a8261876bebddc4f6e624bc54]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/529/regulation/4) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
+[^c-659aa58a8261876bebddc4f6e624bc54]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/529/regulation/4) in force at 1.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/529/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754). Regulation 20A was inserted by [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431).

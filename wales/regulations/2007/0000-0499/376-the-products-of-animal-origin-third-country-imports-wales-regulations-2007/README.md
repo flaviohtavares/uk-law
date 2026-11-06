@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2007 (revoked)[^key-f6feb52e9637b816b03afb30b2a07ffc]
+The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2007 (revoked)[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 14 February 2007
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6feb52e9637b816b03afb30b2a07ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 1 — Introduction[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -54,7 +54,7 @@ Coming into force
 - [Section 3 — Person responsible for a consignment](part-1/section-3.md)
 - [Section 4 — Exemption for authorised products and personal imports](part-1/section-4.md)
 
-### PART 2 — Enforcement[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 2 — Enforcement[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 13 — Suspension of border inspection posts and inspection centres](part-2/section-13.md)
 - [Section 14 — Regulatory functions of official fish inspectors](part-2/section-14.md)
 
-### PART 3 — Provisions Applicable to Products in General[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 3 — Provisions Applicable to Products in General[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 27 — Invalidation of veterinary documents](part-3/section-27.md)
 - [Section 28 — Costs in respect of products redispatched or disposed of](part-3/section-28.md)
 
-### PART 4 — The Disposal and Burial of Unused On-Board Catering Supplies and Other Material[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 4 — The Disposal and Burial of Unused On-Board Catering Supplies and Other Material[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 32 — Amendment, suspension and revocation of approvals](part-4/section-32.md)
 - [Section 33 — Appeals](part-4/section-33.md)
 
-### PART 5 — Products Intended for Import[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 5 — Products Intended for Import[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 37 — Products transported under supervision](part-5/section-37.md)
 - [Section 38 — Transhipment of products intended for import](part-5/section-38.md)
 
-### PART 6 — Transit Products[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 6 — Transit Products[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -118,7 +118,7 @@ Coming into force
 - [Section 42 — Movement of transit products](part-6/section-42.md)
 - [Section 43 — Disposal of returned transit products](part-6/section-43.md)
 
-### PART 7 — Products Intended for Warehouses, Ships' Stores or Cross-Border Means of Sea Transport[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 7 — Products Intended for Warehouses, Ships' Stores or Cross-Border Means of Sea Transport[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -129,7 +129,7 @@ Coming into force
 - [Section 48 — Direct movement to cross border means of sea transport](part-7/section-48.md)
 - [Section 49 — Additional certificate to accompany products on board means of sea transport](part-7/section-49.md)
 
-### PART 8 — Products Returned from Third Countries[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 8 — Products Returned from Third Countries[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -138,7 +138,7 @@ Coming into force
 - [Section 52 — Physical check of returned products](part-8/section-52.md)
 - [Section 53 — Movement of returned products](part-8/section-53.md)
 
-### PART 9 — Charges for Veterinary Checks[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 9 — Charges for Veterinary Checks[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -150,13 +150,13 @@ Coming into force
 - [Section 59 — Appeals against charges paid to local authorities](part-9/section-59.md)
 - [Section 60 — Appeals against charges paid to the National Assembly or the Agency](part-9/section-60.md)
 
-### PART 10 — Emergency Declarations[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 10 — Emergency Declarations[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
 - [Section 61 — Disease outbreaks in third countries](part-10/section-61.md)
 
-### PART 11 — Offences and Penalties[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 11 — Offences and Penalties[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -167,14 +167,14 @@ Coming into force
 - [Section 66 — Offences by bodies corporate](part-11/section-66.md)
 - [Section 67 — Offences by Scottish partnerships](part-11/section-67.md)
 
-### PART 12 — Notices and Decisions[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 12 — Notices and Decisions[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
 - [Section 68 — Service of notices](part-12/section-68.md)
 - [Section 69 — Notification of decisions](part-12/section-69.md)
 
-### PART 13 — Disapplications and Revocations[^key-f6feb52e9637b816b03afb30b2a07ffc]
+### PART 13 — Disapplications and Revocations[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 **No longer in force.**
 
@@ -190,14 +190,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6feb52e9637b816b03afb30b2a07ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6feb52e9637b816b03afb30b2a07ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [regs. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [43(1)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/43/1/e)
+[^c-f6feb52e9637b816b03afb30b2a07ffc]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [regs. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [43(1)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/43/1/e)

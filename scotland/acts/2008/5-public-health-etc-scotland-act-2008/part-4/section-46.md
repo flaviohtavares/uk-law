@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Authorised steps[^key-ff7879abf14449c101a30b4deeb7f7c5]
+## 46. Authorised steps[^c-ff7879abf14449c101a30b4deeb7f7c5]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ is made, the steps which the order may authorise are the steps mentioned in subs
 
 ## Annotations
 
-[^key-ff7879abf14449c101a30b4deeb7f7c5]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2008/5/section/46) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-ff7879abf14449c101a30b4deeb7f7c5]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2008/5/section/46) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 24A. Reporting of sales and usage data in relation to antibiotics[^key-100e7b25148470f79ed2587de5efe2ed]
+## 24A. Reporting of sales and usage data in relation to antibiotics[^c-100e7b25148470f79ed2587de5efe2ed]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-100e7b25148470f79ed2587de5efe2ed]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2013/2033/regulation/24A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/567/regulation/15)
+[^c-100e7b25148470f79ed2587de5efe2ed]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2013/2033/regulation/24A) inserted (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/567/regulation/15)

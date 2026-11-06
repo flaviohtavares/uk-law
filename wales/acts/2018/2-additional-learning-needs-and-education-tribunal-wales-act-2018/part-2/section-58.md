@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Abolition of approval of independent schools in Wales[^key-b51f52703f1b99ab70f87f528b2caea8]
+## 58. Abolition of approval of independent schools in Wales[^c-b51f52703f1b99ab70f87f528b2caea8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 347 of the Education Act 1996 (c. 56) (approval of independent schools a
 
 ## Annotations
 
-[^key-b51f52703f1b99ab70f87f528b2caea8]: Commencement: S. 58 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(e)](https://www.legislation.gov.uk/wsi/2021/373/article/8/e)
+[^c-b51f52703f1b99ab70f87f528b2caea8]: Commencement: S. 58 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(e)](https://www.legislation.gov.uk/wsi/2021/373/article/8/e)

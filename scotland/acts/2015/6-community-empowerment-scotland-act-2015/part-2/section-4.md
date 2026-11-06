@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Community planning[^key-e5b7535dd04cb1576a5a56b8f5668c26]
+## 4. Community planning[^c-e5b7535dd04cb1576a5a56b8f5668c26]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b7535dd04cb1576a5a56b8f5668c26]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/6/section/4) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-e5b7535dd04cb1576a5a56b8f5668c26]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/6/section/4) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

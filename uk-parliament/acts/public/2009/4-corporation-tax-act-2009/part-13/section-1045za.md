@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1045ZA. R&D intensity condition[^key-99fe5f53d0039b2ddeea749891ffc0f6][^M_C_8b608a9d-c041-4d12-ce9f-352f472a41ec]
+## 1045ZA. R&D intensity condition[^c-99fe5f53d0039b2ddeea749891ffc0f6][^M_C_8b608a9d-c041-4d12-ce9f-352f472a41ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99fe5f53d0039b2ddeea749891ffc0f6]: Textual amendment: [S. 1045ZA](https://www.legislation.gov.uk/ukpga/2009/4/section/1045ZA) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 6(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/6/6), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 paras. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18), [21](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/21)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-99fe5f53d0039b2ddeea749891ffc0f6]: Textual amendment: [S. 1045ZA](https://www.legislation.gov.uk/ukpga/2009/4/section/1045ZA) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 6(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/6/6), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 paras. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18), [21](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/21)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
 
 [^M_C_8b608a9d-c041-4d12-ce9f-352f472a41ec]: Modification: [S. 1045ZA(2)(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/1045ZA/2/3) modified (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 para. 21(3)(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/21/3/4) (as amended (with effect in accordance with [s. 30(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/30/2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/30/1))

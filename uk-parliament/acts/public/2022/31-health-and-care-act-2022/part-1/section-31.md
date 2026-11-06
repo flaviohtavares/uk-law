@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Care Quality Commission reviews etc of integrated care system[^key-d1b1175579ed28d013c9c3ee2a0a1e6b][^key-def82dcd7a00f4131bda7af1ff85363b]
+## 31. Care Quality Commission reviews etc of integrated care system[^c-d1b1175579ed28d013c9c3ee2a0a1e6b][^c-def82dcd7a00f4131bda7af1ff85363b]
 
 *Extent: E+W*
 
@@ -98,6 +98,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1b1175579ed28d013c9c3ee2a0a1e6b]: Commencement: S. 31 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d1b1175579ed28d013c9c3ee2a0a1e6b]: Commencement: S. 31 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-def82dcd7a00f4131bda7af1ff85363b]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/31/section/31) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/b)
+[^c-def82dcd7a00f4131bda7af1ff85363b]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/31/section/31) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/b)

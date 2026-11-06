@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Surviving adult’s pension payable in respect of pension debit member[^key-cc39c8228bff811acca3cbc58e828530]
+## 128. Surviving adult’s pension payable in respect of pension debit member[^c-cc39c8228bff811acca3cbc58e828530]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The annual rate of surviving adult’s pension payable in respect of a pension d
 
 ## Annotations
 
-[^key-cc39c8228bff811acca3cbc58e828530]: Commencement: Reg. 128 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-cc39c8228bff811acca3cbc58e828530]: Commencement: Reg. 128 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

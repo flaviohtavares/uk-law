@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for Health, in exercise of powers conferred by section 38(7) of the National Health Service Act 1977[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-3811a2d26191a7a15446f42c4fce00c9]
+## 1. Citation and commencement[^c-3811a2d26191a7a15446f42c4fce00c9]
 
 These Regulations may be cited as the National Health Service (General Ophthalmic Services) Amendment (No. 2) Regulations 1989 and shall come into force on 31st July 1989.
 
-## 2. Amendment of terms of service[^key-8c5cfe24eee39186df37b1e3a2867488]
+## 2. Amendment of terms of service[^c-8c5cfe24eee39186df37b1e3a2867488]
 
 (1) Schedule 1 to the National Health Service (General Ophthalmic Services) Regulations 1986[^f00002] (terms of service) is amended according to the following provisions of this regulation.
 
@@ -91,9 +91,9 @@ Regulation 2 amends the contractors' terms of service. The amendment requires a 
 
 [^f00001]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); see section 128(1) for the definition of “prescribed” and “regulations”. Section 38 was amended by section 1(3) of the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48) and by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 13(1) and modified by S.I. [1985/39](https://www.legislation.gov.uk/uksi/1985/39), article 7.
 
-[^key-3811a2d26191a7a15446f42c4fce00c9]: Commencement: Reg. 1 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1175/regulation/1)
+[^c-3811a2d26191a7a15446f42c4fce00c9]: Commencement: Reg. 1 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1175/regulation/1)
 
-[^key-8c5cfe24eee39186df37b1e3a2867488]: Commencement: Reg. 2 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1175/regulation/1)
+[^c-8c5cfe24eee39186df37b1e3a2867488]: Commencement: Reg. 2 in force at 31.7.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1175/regulation/1)
 
 [^f00002]: Footnote: S.I. [1986/975](https://www.legislation.gov.uk/uksi/1986/975), amended by S.I. [1988/486](https://www.legislation.gov.uk/uksi/1988/486) and [1989/395](https://www.legislation.gov.uk/uksi/1989/395).
 

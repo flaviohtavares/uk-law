@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.9. Ground rules hearing[^key-36c68b7b47d7d79281b70cca9cf43f81]
+## 3.9. Ground rules hearing[^c-36c68b7b47d7d79281b70cca9cf43f81]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36c68b7b47d7d79281b70cca9cf43f81]: Commencement: [Rule 3.9](https://www.legislation.gov.uk/uksi/2025/909/rule/3.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-36c68b7b47d7d79281b70cca9cf43f81]: Commencement: [Rule 3.9](https://www.legislation.gov.uk/uksi/2025/909/rule/3.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

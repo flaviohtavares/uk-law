@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Retention of biometric data for counter-terrorism purposes etc[^key-43e4ab337e156f24b900dcc91489aff2]
+## 19. Retention of biometric data for counter-terrorism purposes etc[^c-43e4ab337e156f24b900dcc91489aff2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 contains amendments in relation to the retention of biometric data fo
 
 ## Annotations
 
-[^key-43e4ab337e156f24b900dcc91489aff2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2019/3/section/19) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/d)
+[^c-43e4ab337e156f24b900dcc91489aff2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2019/3/section/19) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/d)

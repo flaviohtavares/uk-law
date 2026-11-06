@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Powers of inspectors[^key-e302887f5906d9a40b556fa87c03aeef]
+## 57. Powers of inspectors[^c-e302887f5906d9a40b556fa87c03aeef]
 
 *Extent: N.I.*
 
 (1) The following provisions of the Order shall apply as if these Regulations were an order made under the Order—
 
 - (a) Article 46 (general powers of inspectors);
-- (b) Article 46A (powers of inspectors relating to assimilated[^key-d840e446ab13416a9b2ad8546fbe80ba][^key-706238dd7b50f4f76944fc0a0128db96] law or Protocol obligations); and
+- (b) Article 46A (powers of inspectors relating to assimilated[^c-d840e446ab13416a9b2ad8546fbe80ba][^c-706238dd7b50f4f76944fc0a0128db96] law or Protocol obligations); and
 - (c) Article 48 (power to detain vessels and aircraft).
 
 (2) An inspector may stop, detain and inspect any vehicle in the following areas to ascertain whether any of the provisions of these Regulations are being complied with within—
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e302887f5906d9a40b556fa87c03aeef]: Commencement: Reg. 57 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e302887f5906d9a40b556fa87c03aeef]: Commencement: Reg. 57 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-d840e446ab13416a9b2ad8546fbe80ba]: Textual amendment: Word in [reg. 57(1)(b)](https://www.legislation.gov.uk/nisr/2006/42/regulation/57/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/5)
+[^c-d840e446ab13416a9b2ad8546fbe80ba]: Textual amendment: Word in [reg. 57(1)(b)](https://www.legislation.gov.uk/nisr/2006/42/regulation/57/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/5)
 
-[^key-706238dd7b50f4f76944fc0a0128db96]: Textual amendment: Words in [reg. 57(1)(b)](https://www.legislation.gov.uk/nisr/2006/42/regulation/57/1/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [6](https://www.legislation.gov.uk/nisr/2020/324/regulation/6)
+[^c-706238dd7b50f4f76944fc0a0128db96]: Textual amendment: Words in [reg. 57(1)(b)](https://www.legislation.gov.uk/nisr/2006/42/regulation/57/1/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [6](https://www.legislation.gov.uk/nisr/2020/324/regulation/6)

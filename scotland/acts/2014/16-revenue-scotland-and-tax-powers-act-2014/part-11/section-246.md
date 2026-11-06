@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 246. Settling matters in question by agreement[^key-81ef97cb654a7fb0c58d2a3b50528440]
+## 246. Settling matters in question by agreement[^c-81ef97cb654a7fb0c58d2a3b50528440]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ef97cb654a7fb0c58d2a3b50528440]: Commencement: [S. 246](https://www.legislation.gov.uk/asp/2014/16/section/246) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-81ef97cb654a7fb0c58d2a3b50528440]: Commencement: [S. 246](https://www.legislation.gov.uk/asp/2014/16/section/246) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

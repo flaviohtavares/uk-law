@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. HMOs exempt from licensing requirement[^key-ca8ca4c87765505f04a49e65707e6e63]
+## 126. HMOs exempt from licensing requirement[^c-ca8ca4c87765505f04a49e65707e6e63]
 
 *Extent: S*
 
@@ -31,9 +31,9 @@ summary: ''
   - (iii) a school care accommodation service, or
   - (iv) a secure accommodation service,
 
-  registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^key-d1a52080a1460a7490a07331cff945f9] or, as the case may be, under section 10Q(1) of the National Health Service (Scotland) Act[^key-e65a23e795244dbd588db2ddac7924a0] [1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29),
+  registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^c-d1a52080a1460a7490a07331cff945f9] or, as the case may be, under section 10Q(1) of the National Health Service (Scotland) Act[^c-e65a23e795244dbd588db2ddac7924a0] [1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29),
 - (c) owned by the Crown and occupied only by members of the armed forces of the Crown (either alone or together with any persons in the same family as any of those members),
-- (d) a prison or a young offenders institution[^key-3778b5cb0f59c3f186de801b09e886c6],
+- (d) a prison or a young offenders institution[^c-3778b5cb0f59c3f186de801b09e886c6],
 - (e) occupied only by—
   - (i) persons who are members of, and fully maintained by, a religious order the main occupation of which is prayer, contemplation, education or the relief of suffering, or
   - (ii) a group consisting of such persons and no more than two other persons,
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ca8ca4c87765505f04a49e65707e6e63]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2006/1/section/126) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-ca8ca4c87765505f04a49e65707e6e63]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2006/1/section/126) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-d1a52080a1460a7490a07331cff945f9]: Textual amendment: Words in s. 126(1)(b) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/17)
+[^c-d1a52080a1460a7490a07331cff945f9]: Textual amendment: Words in s. 126(1)(b) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/17)
 
-[^key-e65a23e795244dbd588db2ddac7924a0]: Textual amendment: Words in s. 126(1)(b) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/10)
+[^c-e65a23e795244dbd588db2ddac7924a0]: Textual amendment: Words in s. 126(1)(b) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/10)
 
-[^key-3778b5cb0f59c3f186de801b09e886c6]: Textual amendment: Words in [s. 126(1)(d)](https://www.legislation.gov.uk/asp/2006/1/section/126/1/d) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 18(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/18/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-3778b5cb0f59c3f186de801b09e886c6]: Textual amendment: Words in [s. 126(1)(d)](https://www.legislation.gov.uk/asp/2006/1/section/126/1/d) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 18(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/18/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))

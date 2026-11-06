@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144B. Exceptions to section 144A offence[^key-8a89cbf10f3ce66142cd3e28f52a66ad]
+## 144B. Exceptions to section 144A offence[^c-8a89cbf10f3ce66142cd3e28f52a66ad]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 - (b) the vehicle has not been recovered by the relevant time, and
 - (c) any requirements under subsection (7)(b) below that, in connection with the theft, are required to have been complied with by the relevant or any earlier time have been complied with by the relevant time.
 
-(6A)[^key-a183d5a90bf02de57b96cc9b54b8baa0] The sixth condition is that—
+(6A)[^c-a183d5a90bf02de57b96cc9b54b8baa0] The sixth condition is that—
 
 - (a) the registered keeper is at the relevant time the person keeping the vehicle,
 - (b) neither a licence nor a nil licence under the Vehicle Excise and Registration Act 1994 was in force for the vehicle on 31<sup>st</sup> January 1998,
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a89cbf10f3ce66142cd3e28f52a66ad]: Textual amendment: Ss. 144A-144D inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)
+[^c-8a89cbf10f3ce66142cd3e28f52a66ad]: Textual amendment: Ss. 144A-144D inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/19/article/2/a)
 
-[^key-a183d5a90bf02de57b96cc9b54b8baa0]: Textual amendment: S. 144B(6A) inserted (4.2.2011) by [The Motor Vehicles (Insurance Requirements) Regulations 2011 (S.I. 2011/20)](https://www.legislation.gov.uk/uksi/2011/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/20/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/20/regulation/5)
+[^c-a183d5a90bf02de57b96cc9b54b8baa0]: Textual amendment: S. 144B(6A) inserted (4.2.2011) by [The Motor Vehicles (Insurance Requirements) Regulations 2011 (S.I. 2011/20)](https://www.legislation.gov.uk/uksi/2011/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/20/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/20/regulation/5)

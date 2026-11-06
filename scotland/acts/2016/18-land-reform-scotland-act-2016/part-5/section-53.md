@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Inclusion in New Register of applications for right to buy abandoned, neglected or detrimental land[^key-7ea9e32a303f2432d2e1ef19a00d1f82]
+## 53. Inclusion in New Register of applications for right to buy abandoned, neglected or detrimental land[^c-7ea9e32a303f2432d2e1ef19a00d1f82]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ea9e32a303f2432d2e1ef19a00d1f82]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2016/18/section/53) in force at 27.6.2018 by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2)
+[^c-7ea9e32a303f2432d2e1ef19a00d1f82]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2016/18/section/53) in force at 27.6.2018 by [S.S.I. 2018/138](https://www.legislation.gov.uk/ssi/2018/138), [art. 3](https://www.legislation.gov.uk/ssi/2018/138/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2018/138/schedule/2)

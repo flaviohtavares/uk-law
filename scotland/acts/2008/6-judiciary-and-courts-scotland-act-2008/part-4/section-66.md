@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The SCTS[^key-96dd6eeaca12e04981eaa23b0b5c378e] must, before the beginning of each planning period, prepare and submit to the Scottish Ministers for approval a corporate plan describing how the SCTS proposes to carry out its functions during the period.
+(1) The SCTS[^c-96dd6eeaca12e04981eaa23b0b5c378e] must, before the beginning of each planning period, prepare and submit to the Scottish Ministers for approval a corporate plan describing how the SCTS proposes to carry out its functions during the period.
 
 (2) The plan must—
 
@@ -57,4 +57,4 @@ review the plan and submit a revised corporate plan to the Scottish Ministers fo
 
 ## Annotations
 
-[^key-96dd6eeaca12e04981eaa23b0b5c378e]: Textual amendment: Word in Act substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/2); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-96dd6eeaca12e04981eaa23b0b5c378e]: Textual amendment: Word in Act substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/2); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -34,8 +34,8 @@ summary: ''
 
 (4) For the purposes of subsection (3)(a), a provision is “relevant” if—
 
-- (a) it has been or may be revoked by regulations made under section 3(1) of the Financial Services Act 2021, [^key-bf0ffff1d964bd5aef4ce4c1ccb6b660]...
-- (b) it has been revoked by regulations made under section 3(3) or (5) of that Act , or[^key-4d2b96a7640844cf06a9f98961b1d714]
+- (a) it has been or may be revoked by regulations made under section 3(1) of the Financial Services Act 2021, [^c-bf0ffff1d964bd5aef4ce4c1ccb6b660]...
+- (b) it has been revoked by regulations made under section 3(3) or (5) of that Act , or[^c-4d2b96a7640844cf06a9f98961b1d714]
 - (c) it has been or may be revoked by section 1 of the Financial Services and Markets Act 2023.
 
 (5) In subsection (3)—
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf0ffff1d964bd5aef4ce4c1ccb6b660]: Textual amendment: Word in s. 144A(4)(a) omitted (22.11.2024) by virtue of [The Prudential Regulation of Credit Institutions (Meaning of CRR Rules and Recognised Exchange) (Amendment) Regulations 2024 (S.I. 2024/1200)](https://www.legislation.gov.uk/uksi/2024/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/2/a)
+[^c-bf0ffff1d964bd5aef4ce4c1ccb6b660]: Textual amendment: Word in s. 144A(4)(a) omitted (22.11.2024) by virtue of [The Prudential Regulation of Credit Institutions (Meaning of CRR Rules and Recognised Exchange) (Amendment) Regulations 2024 (S.I. 2024/1200)](https://www.legislation.gov.uk/uksi/2024/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/2/a)
 
-[^key-4d2b96a7640844cf06a9f98961b1d714]: Textual amendment: S. 144A(4)(c) and word inserted (22.11.2024) by [The Prudential Regulation of Credit Institutions (Meaning of CRR Rules and Recognised Exchange) (Amendment) Regulations 2024 (S.I. 2024/1200)](https://www.legislation.gov.uk/uksi/2024/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/2/b)
+[^c-4d2b96a7640844cf06a9f98961b1d714]: Textual amendment: S. 144A(4)(c) and word inserted (22.11.2024) by [The Prudential Regulation of Credit Institutions (Meaning of CRR Rules and Recognised Exchange) (Amendment) Regulations 2024 (S.I. 2024/1200)](https://www.legislation.gov.uk/uksi/2024/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/2/b)

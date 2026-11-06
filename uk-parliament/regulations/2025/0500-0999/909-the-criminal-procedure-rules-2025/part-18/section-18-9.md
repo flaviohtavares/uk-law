@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.9. Special measures direction without application[^key-5ef65355b4bdad949549a391e00bc3e6]
+## 18.9. Special measures direction without application[^c-5ef65355b4bdad949549a391e00bc3e6]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ef65355b4bdad949549a391e00bc3e6]: Commencement: [Rule 18.9](https://www.legislation.gov.uk/uksi/2025/909/rule/18.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5ef65355b4bdad949549a391e00bc3e6]: Commencement: [Rule 18.9](https://www.legislation.gov.uk/uksi/2025/909/rule/18.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

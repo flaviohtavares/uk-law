@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Benefit of the Order[^key-1f98f89cd05a87b7a23562708538db2b]
+## 6. Benefit of the Order[^c-1f98f89cd05a87b7a23562708538db2b]
 
 *Extent: E+W*
 
@@ -25,13 +25,13 @@ summary: ''
 (2) Subject to paragraph (3), the undertaker may with the written consent of the Secretary of State—
 
 - (a) transfer to another person (the “transferee”) any or all of the benefit of the provisions of this Order and such related statutory rights as may be agreed between the undertaker and the transferee; and
-- (b) grant to another person (the “lessee”) for a period agreed between the undertaker and the lessee any or all of the benefit of the provisions of this Order and such related statutory rights as may be so agreed except where paragraph (6) applies, in which case the consent of the Secretary of State is not required.[^key-0f02ca9f374a2953acc90ef3674a7d9c]
+- (b) grant to another person (the “lessee”) for a period agreed between the undertaker and the lessee any or all of the benefit of the provisions of this Order and such related statutory rights as may be so agreed except where paragraph (6) applies, in which case the consent of the Secretary of State is not required.[^c-0f02ca9f374a2953acc90ef3674a7d9c]
 
 (3) Where an agreement has been made in accordance with paragraph (2) references in this Order to the undertaker, will include references to the transferee or lessee.
 
 (4) The undertaker must consult the Secretary of State before making an application for consent under this article by giving notice in writing of the proposed application.
 
-(5) Where the undertaker has transferred any benefit, or for the duration of any period during which the undertaker has granted any benefit under paragraph (2).[^key-518aa5abb183d8efa7efc72c7d7a01dc]
+(5) Where the undertaker has transferred any benefit, or for the duration of any period during which the undertaker has granted any benefit under paragraph (2).[^c-518aa5abb183d8efa7efc72c7d7a01dc]
 
 - (a) the benefit transferred or granted (“the transferred benefit”) includes any rights that are conferred, and any obligations that are imposed, by virtue of the provisions to which the benefit relates;
 - (b) the transferred benefit resides exclusively with the transferee or, as the case may be, the lessee and the transferred benefit is not enforceable against the undertaker; and
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1f98f89cd05a87b7a23562708538db2b]: Commencement: Art. 6 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-1f98f89cd05a87b7a23562708538db2b]: Commencement: Art. 6 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-0f02ca9f374a2953acc90ef3674a7d9c]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2023/1033/article/6/2) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
+[^c-0f02ca9f374a2953acc90ef3674a7d9c]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2023/1033/article/6/2) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
 
-[^key-518aa5abb183d8efa7efc72c7d7a01dc]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2023/1033/article/6/5) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
+[^c-518aa5abb183d8efa7efc72c7d7a01dc]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2023/1033/article/6/5) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)

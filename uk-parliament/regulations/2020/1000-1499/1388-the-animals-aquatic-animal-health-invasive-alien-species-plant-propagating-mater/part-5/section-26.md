@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018[^key-67537157251afc5c823d06cb60118466]
+## 26. The Equine Identification (England) (Amendment) (EU Exit) Regulations 2018[^c-67537157251afc5c823d06cb60118466]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67537157251afc5c823d06cb60118466]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-67537157251afc5c823d06cb60118466]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00059]: Footnote: [S.I. 2018/1409](https://www.legislation.gov.uk/uksi/2018/1409).

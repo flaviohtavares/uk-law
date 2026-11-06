@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Responsibilities of the President and the Vice-President[^key-bcd82fcc11cd474bfda63c1c230ccba3]
+## 13. Responsibilities of the President and the Vice-President[^c-bcd82fcc11cd474bfda63c1c230ccba3]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd82fcc11cd474bfda63c1c230ccba3]: Commencement: Reg. 13 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-bcd82fcc11cd474bfda63c1c230ccba3]: Commencement: Reg. 13 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

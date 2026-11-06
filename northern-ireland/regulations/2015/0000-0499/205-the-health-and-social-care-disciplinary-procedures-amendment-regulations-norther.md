@@ -32,7 +32,7 @@ summary: ''
 
 Health And Social Care
 
-The Health and Social Care (Disciplinary Procedures) (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^key-a4f7c79b5f0713ab1ac106897aa48255]
+The Health and Social Care (Disciplinary Procedures) (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 Made
 
@@ -42,44 +42,44 @@ Coming into operation
 
 23rd April 2015
 
-[^key-a4f7c79b5f0713ab1ac106897aa48255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4f7c79b5f0713ab1ac106897aa48255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 1. Citation, commencement and interpretation[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 3 of the principal regulations[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 2. Amendment of regulation 3 of the principal regulations[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 5 of the principal regulations[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 3. Amendment of regulation 5 of the principal regulations[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 7 of the principal regulations[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 4. Amendment of regulation 7 of the principal regulations[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 8 of the principal regulations[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 5. Amendment of regulation 8 of the principal regulations[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 12 of the principal regulations[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 6. Amendment of regulation 12 of the principal regulations[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 14 of the General Ophthalmic Services Regulations (Northern Ireland) 2007[^key-a4f7c79b5f0713ab1ac106897aa48255]
+## 7. Amendment of regulation 14 of the General Ophthalmic Services Regulations (Northern Ireland) 2007[^c-a4f7c79b5f0713ab1ac106897aa48255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4f7c79b5f0713ab1ac106897aa48255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4f7c79b5f0713ab1ac106897aa48255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4f7c79b5f0713ab1ac106897aa48255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4f7c79b5f0713ab1ac106897aa48255]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4f7c79b5f0713ab1ac106897aa48255]: Textual amendment: Regulations revoked (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2016/104/regulation/15)
+[^c-a4f7c79b5f0713ab1ac106897aa48255]: Textual amendment: Regulations revoked (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2016/104/regulation/15)

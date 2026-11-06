@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73C. Alternative finance investment bonds[^key-a056ac79e82083a8405783d7fe8fd2a7]
+## 73C. Alternative finance investment bonds[^c-a056ac79e82083a8405783d7fe8fd2a7]
 
 *Extent: E+W+S+N.I.*
 
-Schedule 61 to the Finance Act 2009 makes provision for relief from charge in the case of arrangements to which section 564G of the Income Tax Act 2007 or section 151N of the Taxation of Chargeable Gains Act 1992 (investment bond arrangements) applies[^key-9a089ba098386b7344f05ff98144e340].
+Schedule 61 to the Finance Act 2009 makes provision for relief from charge in the case of arrangements to which section 564G of the Income Tax Act 2007 or section 151N of the Taxation of Chargeable Gains Act 1992 (investment bond arrangements) applies[^c-9a089ba098386b7344f05ff98144e340].
 
 ## Annotations
 
-[^key-a056ac79e82083a8405783d7fe8fd2a7]: Textual amendment: S. 73C inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 61 para. 25](https://www.legislation.gov.uk/ukpga/2009/10/schedule/61/paragraph/25)
+[^c-a056ac79e82083a8405783d7fe8fd2a7]: Textual amendment: S. 73C inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 61 para. 25](https://www.legislation.gov.uk/ukpga/2009/10/schedule/61/paragraph/25)
 
-[^key-9a089ba098386b7344f05ff98144e340]: Textual amendment: Words in s. 73C substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 210](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/210) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9a089ba098386b7344f05ff98144e340]: Textual amendment: Words in s. 73C substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 210](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/210) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 214. Power of planning authority to issue maintenance of land notice[^key-067e7b09bde44ed7ec242f8c4cad9ee2]
+## 214. Power of planning authority to issue maintenance of land notice[^c-067e7b09bde44ed7ec242f8c4cad9ee2]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067e7b09bde44ed7ec242f8c4cad9ee2]: Commencement: S. 214 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-067e7b09bde44ed7ec242f8c4cad9ee2]: Commencement: S. 214 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

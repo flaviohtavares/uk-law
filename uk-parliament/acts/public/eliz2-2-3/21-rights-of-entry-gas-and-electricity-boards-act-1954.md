@@ -42,7 +42,7 @@ An Act to regulate the exercise of statutory rights of entry by or on behalf of 
 
   Provided that this subsection shall not apply where entry is required in a case of emergency.
 
-(2)[^key-3658f3705e3b586acf0c0917705ef94e][^c619153] This Act applies to all rights of entry conferred by—
+(2)[^c-3658f3705e3b586acf0c0917705ef94e][^c619153] This Act applies to all rights of entry conferred by—
 
 - (a) the Gas Act 1986, regulations made under it or any other enactment relating to gas,
 - (b) Schedule 6 to the Electricity Act 1989, and
@@ -140,7 +140,7 @@ any entry effected, or sought to be effected, under the authority of the warrant
 
 [^c619149]: Modification: Act applied by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [ss. 24](https://www.legislation.gov.uk/ukpga/1989/29/section/24), [112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 6 para. 8(4)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/6/paragraph/8/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1)
 
-[^key-3658f3705e3b586acf0c0917705ef94e]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/21/section/1/2) modified (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 153(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/153/6), [334(3)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/d)
+[^c-3658f3705e3b586acf0c0917705ef94e]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/21/section/1/2) modified (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 153(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/153/6), [334(3)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/d)
 
 [^c619153]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/21/section/1/2) substituted by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(1)(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/1/3), [Sch. 16 para. 8(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16/paragraph/8/2), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1)
 

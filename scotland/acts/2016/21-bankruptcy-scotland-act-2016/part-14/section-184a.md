@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184A. Protected trust deed: refusal of debtor discharge[^key-a37d5b76d62d6a655b5238d664a6ffdd]
+## 184A. Protected trust deed: refusal of debtor discharge[^c-a37d5b76d62d6a655b5238d664a6ffdd]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ the trustee must as soon as reasonably practicable apply to AiB for agreement to
 
 ## Annotations
 
-[^key-a37d5b76d62d6a655b5238d664a6ffdd]: Textual amendment: [Ss. 184A-184C](https://www.legislation.gov.uk/asp/2016/21/section/184A) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/4)
+[^c-a37d5b76d62d6a655b5238d664a6ffdd]: Textual amendment: [Ss. 184A-184C](https://www.legislation.gov.uk/asp/2016/21/section/184A) inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/4)

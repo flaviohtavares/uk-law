@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-786a53e15cac95c85446606610e1fc72] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-786a53e15cac95c85446606610e1fc72] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) East Riding Drainage Act 1798[^f00049];
 - (b) Seaton Ross Inclosure Act 1811[^f00050];
@@ -38,7 +38,7 @@ Article 6
 
 ## Annotations
 
-[^key-786a53e15cac95c85446606610e1fc72]: Commencement: Sch. 3 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-786a53e15cac95c85446606610e1fc72]: Commencement: Sch. 3 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
 [^f00049]: Footnote: [1798 c. lxiii](https://www.legislation.gov.uk/ukla/1798/63).
 

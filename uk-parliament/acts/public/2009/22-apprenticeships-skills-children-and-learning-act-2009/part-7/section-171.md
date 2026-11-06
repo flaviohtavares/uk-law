@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Annual and other reports[^key-1f529320b5b7a79a3dc066631c7c362d]
+## 171. Annual and other reports[^c-1f529320b5b7a79a3dc066631c7c362d]
 
 *Extent: E+W+N.I.*
 
@@ -37,16 +37,16 @@ summary: ''
 (6) Ofqual must—
 
 - (a) lay a copy of each annual report before Parliament;
-- (b)[^key-47389dc7c38c0838dfc70ca1088dffcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-47389dc7c38c0838dfc70ca1088dffcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Ofqual may prepare and publish other reports on matters relating to its functions.
 
 (8) If Ofqual prepares and publishes a report under subsection (7) it may—
 
 - (a) lay a copy of the report before Parliament;
-- (b)[^key-3ea94c59d06fe1c740d4b8eadf4c01cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3ea94c59d06fe1c740d4b8eadf4c01cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) Ofqual may comply with subsection (1) by preparing and publishing a single document or separate documents [^key-b57a04b8e162a9bd0c1eae6cce4c5b96]....
+(9) Ofqual may comply with subsection (1) by preparing and publishing a single document or separate documents [^c-b57a04b8e162a9bd0c1eae6cce4c5b96]....
 
 (10) In this section “**reporting period**” means—
 
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1f529320b5b7a79a3dc066631c7c362d]: Commencement: S. 171 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-1f529320b5b7a79a3dc066631c7c362d]: Commencement: S. 171 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-47389dc7c38c0838dfc70ca1088dffcb]: Textual amendment: S. 171(6)(b) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-47389dc7c38c0838dfc70ca1088dffcb]: Textual amendment: S. 171(6)(b) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
 
-[^key-3ea94c59d06fe1c740d4b8eadf4c01cf]: Textual amendment: S. 171(8)(b) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-3ea94c59d06fe1c740d4b8eadf4c01cf]: Textual amendment: S. 171(8)(b) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
 
-[^key-b57a04b8e162a9bd0c1eae6cce4c5b96]: Textual amendment: Words in s. 171(9) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-b57a04b8e162a9bd0c1eae6cce4c5b96]: Textual amendment: Words in s. 171(9) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1

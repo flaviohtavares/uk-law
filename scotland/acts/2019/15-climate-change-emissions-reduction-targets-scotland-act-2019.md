@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### The net-zero emissions target
 
-#### 1. The net-zero emissions target[^key-9ff4eceb4c8588c3c9028875b802d282]
+#### 1. The net-zero emissions target[^c-9ff4eceb4c8588c3c9028875b802d282]
 
 Before section 1 of the 2009 Act (and the italic cross heading immediately preceding it), insert—
 
@@ -70,11 +70,11 @@ Before section 1 of the 2009 Act (and the italic cross heading immediately prece
 
 ### The 2050 and interim targets
 
-#### 2. The 2050 target[^key-8981adfaf7a8915a4dfa4e67af914418]
+#### 2. The 2050 target[^c-8981adfaf7a8915a4dfa4e67af914418]
 
 Section 1 of the 2009 Act and the italic cross heading immediately preceding it are repealed.
 
-#### 3. The interim targets[^key-ec26df554414329bf4cf443a06043c3f]
+#### 3. The interim targets[^c-ec26df554414329bf4cf443a06043c3f]
 
 For section 2 of the 2009 Act, and the italic cross heading immediately preceding it, substitute—
 
@@ -92,7 +92,7 @@ For section 2 of the 2009 Act, and the italic cross heading immediately precedin
 
 .
 
-#### 4. Modification of the interim targets[^key-bfa4470847f663782a41b9ed001ef88c]
+#### 4. Modification of the interim targets[^c-bfa4470847f663782a41b9ed001ef88c]
 
 After section 2 of the 2009 Act, insert—
 
@@ -129,7 +129,7 @@ After section 2 of the 2009 Act, insert—
 
 ### The target-setting criteria
 
-#### 5. The target-setting criteria[^key-9b94eeb7eb2ecbbf7b915e6f475a26f0]
+#### 5. The target-setting criteria[^c-9b94eeb7eb2ecbbf7b915e6f475a26f0]
 
 After section 2A of the 2009 Act (inserted by section 4 of this Act), insert—
 
@@ -165,7 +165,7 @@ After section 2A of the 2009 Act (inserted by section 4 of this Act), insert—
 
 ### Advice about targets
 
-#### 6. Duty to seek advice from the relevant body[^key-ba6d0599aa98cd26ca1fd3b51fe147ad]
+#### 6. Duty to seek advice from the relevant body[^c-ba6d0599aa98cd26ca1fd3b51fe147ad]
 
 After section 2B of the 2009 Act (inserted by section 5 of this Act), insert—
 
@@ -205,7 +205,7 @@ After section 2B of the 2009 Act (inserted by section 5 of this Act), insert—
 
 .
 
-#### 7. Power to seek additional advice[^key-f5d500453ddb004d8fd85320afbc498f]
+#### 7. Power to seek additional advice[^c-f5d500453ddb004d8fd85320afbc498f]
 
 After section 2C of the 2009 Act (inserted by section 6 of this Act), insert—
 
@@ -220,7 +220,7 @@ After section 2C of the 2009 Act (inserted by section 6 of this Act), insert—
 
 .
 
-#### 8. Ministerial duties following request for advice[^key-f19c073f6666b8c0d2e9d0b0360f8bb4]
+#### 8. Ministerial duties following request for advice[^c-f19c073f6666b8c0d2e9d0b0360f8bb4]
 
 After section 2D of the 2009 Act (inserted by section 7 of this Act), insert—
 
@@ -256,7 +256,7 @@ After section 2D of the 2009 Act (inserted by section 7 of this Act), insert—
 
 ### Citizens assembly
 
-#### 9. Citizens assembly[^key-84ea63faa37ee1896763ccd1b81f4329]
+#### 9. Citizens assembly[^c-84ea63faa37ee1896763ccd1b81f4329]
 
 After section 32 of the 2009 Act insert—
 
@@ -299,7 +299,7 @@ After section 32 of the 2009 Act insert—
 
 ### Annual targets
 
-#### 10. Annual targets: 2021 to year before net-zero year[^key-be4e9b488188a133eaf15f572ea24870]
+#### 10. Annual targets: 2021 to year before net-zero year[^c-be4e9b488188a133eaf15f572ea24870]
 
 For section 3 of the 2009 Act, substitute—
 
@@ -370,7 +370,7 @@ For section 3 of the 2009 Act, substitute—
 
 .
 
-#### 11. Annual targets: 2018 and 2019[^key-402b88117cecf0f87dcb2678d7f0a760]
+#### 11. Annual targets: 2018 and 2019[^c-402b88117cecf0f87dcb2678d7f0a760]
 
 (1) For the purposes of assessing and reporting in accordance with section 33 of the 2009 Act, each of 2018 and 2019 is to be taken as a target year with a target of the Scottish Ministers ensuring that the net Scottish emissions account—
 
@@ -385,7 +385,7 @@ For section 3 of the 2009 Act, substitute—
 - (b) the figure proposed to be modified is in respect of a year in relation to which the Scottish Ministers have not yet reported on under section 33 of the 2009 Act, and
 - (c) the Scottish Ministers have, before laying for approval a draft of the regulations, had regard to the most up-to-date advice they have received from the relevant body about the figure proposed to be modified.
 
-#### 12. Revocation of previous annual targets[^key-7b1cd38f0f5839c97383272e199c8c85]
+#### 12. Revocation of previous annual targets[^c-7b1cd38f0f5839c97383272e199c8c85]
 
 The following Orders are revoked—
 
@@ -395,7 +395,7 @@ The following Orders are revoked—
 
 ### Publication of targets
 
-#### 13. Publication of targets[^key-6046ecddec9f6fe61952de47e5e327a0]
+#### 13. Publication of targets[^c-6046ecddec9f6fe61952de47e5e327a0]
 
 After section 3B of the 2009 Act (inserted by section 10 of this Act), insert—
 
@@ -423,7 +423,7 @@ After section 3B of the 2009 Act (inserted by section 10 of this Act), insert—
 
 ## PART 2 — Emissions accounting
 
-### 14. Net Scottish emissions account: restriction on use of carbon units[^key-02c97469edc35afb60ce56a088bc0103]
+### 14. Net Scottish emissions account: restriction on use of carbon units[^c-02c97469edc35afb60ce56a088bc0103]
 
 (1) In section 13 of the 2009 Act—
 
@@ -445,7 +445,7 @@ After section 3B of the 2009 Act (inserted by section 10 of this Act), insert—
 
 (5) In this section, “**the 2008 Act**”, “**carbon units**” and “**net Scottish emissions account**” have the same meanings as in the 2009 Act.
 
-### 15. Permitted use of carbon units purchased by the Scottish Ministers[^key-72124beead3e5f6a6c274b02310a29d7]
+### 15. Permitted use of carbon units purchased by the Scottish Ministers[^c-72124beead3e5f6a6c274b02310a29d7]
 
 (1) After section 13 of the 2009 Act, insert—
 
@@ -507,7 +507,7 @@ After section 3B of the 2009 Act (inserted by section 10 of this Act), insert—
 - (b) the Climate Change (Limit on Carbon Units) (Scotland) Order 2011 (S.S.I. 2011/440),
 - (c) the Climate Change (Limit on Use of Carbon Units) (Scotland) Order 2016 (S.S.I. 2016/330).
 
-### 16. International carbon reporting practice[^key-761ed697b131b99bcb3cfed6a292cad5]
+### 16. International carbon reporting practice[^c-761ed697b131b99bcb3cfed6a292cad5]
 
 (1) In section 17 of the 2009 Act, for subsection (3) substitute—
 
@@ -535,7 +535,7 @@ After section 3B of the 2009 Act (inserted by section 10 of this Act), insert—
 
   .
 
-### 17. Nitrogen balance sheet[^key-a0b575cf03617bd2dfaa84b914e6b3b3]
+### 17. Nitrogen balance sheet[^c-a0b575cf03617bd2dfaa84b914e6b3b3]
 
 After section 8 of the 2009 Act, insert—
 
@@ -571,7 +571,7 @@ After section 8 of the 2009 Act, insert—
 
 ### Reporting duties
 
-#### 18. Reports on emissions reduction targets[^key-df8d79f11c614da362c960751d368711]
+#### 18. Reports on emissions reduction targets[^c-df8d79f11c614da362c960751d368711]
 
 For section 33 of the 2009 Act, substitute—
 
@@ -598,7 +598,7 @@ For section 33 of the 2009 Act, substitute—
 
 .
 
-#### 19. Reports on emissions reduction targets: further content[^key-b9fcc493f7f48940d7cb6baf10af98ae]
+#### 19. Reports on emissions reduction targets: further content[^c-b9fcc493f7f48940d7cb6baf10af98ae]
 
 For section 34 of the 2009 Act, substitute—
 
@@ -639,7 +639,7 @@ For section 34 of the 2009 Act, substitute—
 
 .
 
-#### 20. Report on proposals and policies where emissions reduction targets not met[^key-b5355c31cb3e58dde47858064efc0b63]
+#### 20. Report on proposals and policies where emissions reduction targets not met[^c-b5355c31cb3e58dde47858064efc0b63]
 
 (1) Section 36 of the 2009 Act is amended as follows.
 
@@ -651,7 +651,7 @@ For section 34 of the 2009 Act, substitute—
 
 (3) In subsection (2), for “subsection (1)(a)” substitute “ subsection (1) ”.
 
-#### 21. Reports on emissions attributable to Scottish consumption of goods and services[^key-0d9f3c40b90a11ea66ef34b18c9c7f71]
+#### 21. Reports on emissions attributable to Scottish consumption of goods and services[^c-0d9f3c40b90a11ea66ef34b18c9c7f71]
 
 In section 37 of the 2009 Act—
 
@@ -668,7 +668,7 @@ In section 37 of the 2009 Act—
 
   .
 
-#### 22. Reports on land use strategy[^key-19e12ff473ded5b25c2924e6676db2de]
+#### 22. Reports on land use strategy[^c-19e12ff473ded5b25c2924e6676db2de]
 
 After section 37 of the 2009 Act, insert—
 
@@ -690,7 +690,7 @@ After section 37 of the 2009 Act, insert—
 
 .
 
-#### 23. Provision of further information to the Scottish Parliament[^key-f6db8333789c84e68899a06ff4fd02bf]
+#### 23. Provision of further information to the Scottish Parliament[^c-f6db8333789c84e68899a06ff4fd02bf]
 
 (1) Section 42 of the 2009 Act is amended as follows.
 
@@ -709,7 +709,7 @@ After section 37 of the 2009 Act, insert—
 
 ### Climate change plan
 
-#### 24. Climate change plan[^key-f54fe2fd76912d98898794b0f31bb2cb]
+#### 24. Climate change plan[^c-f54fe2fd76912d98898794b0f31bb2cb]
 
 (1) For section 35 of the 2009 Act, substitute—
 
@@ -888,7 +888,7 @@ After section 37 of the 2009 Act, insert—
 
 ## PART 4 — Other duties
 
-### 25. Programmes for adaptation to climate change[^key-7cb4db11adc6206f4d7e3221abf98e1f]
+### 25. Programmes for adaptation to climate change[^c-7cb4db11adc6206f4d7e3221abf98e1f]
 
 In section 53 of the 2009 Act, after subsection (2) insert—
 
@@ -896,11 +896,11 @@ In section 53 of the 2009 Act, after subsection (2) insert—
 
 .
 
-### 26. Sustainable development[^key-7e2bcdd62e0690e4b0c05878d639902f]
+### 26. Sustainable development[^c-7e2bcdd62e0690e4b0c05878d639902f]
 
 In section 92(1) of the 2009 Act, after “development” insert “ , including the achievement of the United Nations sustainable development goals ”.
 
-### 27. Impact of infrastructure investment on emissions[^key-f3286de6237a33c82dd80a7edfaa3b51]
+### 27. Impact of infrastructure investment on emissions[^c-f3286de6237a33c82dd80a7edfaa3b51]
 
 After section 94 of the 2009 Act insert—
 
@@ -923,7 +923,7 @@ After section 94 of the 2009 Act insert—
 
 ## PART 5 — Minor and consequential modifications
 
-### 28. Meaning of certain terms[^key-f9a3aa54aecbf0acf7047a5d3a6c9bd0]
+### 28. Meaning of certain terms[^c-f9a3aa54aecbf0acf7047a5d3a6c9bd0]
 
 (1) Section 98 of the 2009 Act is amended as follows.
 
@@ -987,7 +987,7 @@ After section 94 of the 2009 Act insert—
 
 .
 
-### 29. Further consequentials: the 2009 Act[^key-5eae27a63f31e30a6596a7016cec22e1]
+### 29. Further consequentials: the 2009 Act[^c-5eae27a63f31e30a6596a7016cec22e1]
 
 The schedule contains further modifications of the 2009 Act.
 
@@ -1034,11 +1034,11 @@ The short title of this Act is the Climate Change (Emissions Reduction Targets) 
 
 (introduced by section 29)
 
-**1.**[^key-7c8c23d219e75d5f77cf676857cd0b02] The 2009 Act is amended as follows.
+**1.**[^c-7c8c23d219e75d5f77cf676857cd0b02] The 2009 Act is amended as follows.
 
-**2.**[^key-e4687a77da4c6a07aecfc7efb5ba7b2f] Sections 4 to 8 are repealed.
+**2.**[^c-e4687a77da4c6a07aecfc7efb5ba7b2f] Sections 4 to 8 are repealed.
 
-**3.**[^key-a4ea64ced6568ca90d6246513f48f545] In section 9—
+**3.**[^c-a4ea64ced6568ca90d6246513f48f545] In section 9—
 
 - (a) in subsection (1)—
   - (i) the words “, beginning with the year 2011,” are repealed,
@@ -1052,9 +1052,9 @@ The short title of this Act is the Climate Change (Emissions Reduction Targets) 
   - (iii) paragraph (b) is repealed,
   - (iv) in paragraph (d), after “emissions” insert “ of greenhouse gases ”.
 
-**4.**[^key-c3f3442497657c73bf9926f28ff437f6] Sections 14, 21, 22 and 23 are repealed.
+**4.**[^c-c3f3442497657c73bf9926f28ff437f6] Sections 14, 21, 22 and 23 are repealed.
 
-**5.**[^key-0037925b42ce645bd694ebe4867daa7f] After section 20, insert—
+**5.**[^c-0037925b42ce645bd694ebe4867daa7f] After section 20, insert—
 
 > **20A. The relevant body**
 >
@@ -1067,29 +1067,29 @@ The short title of this Act is the Climate Change (Emissions Reduction Targets) 
 
 .
 
-**6.**[^key-c6404a4a52b517c289ad7ef5fded7d1b] In section 24(3)—
+**6.**[^c-c6404a4a52b517c289ad7ef5fded7d1b] In section 24(3)—
 
 - (a) in paragraph (a), for “5, 7” substitute “ 2C, 2D ”,
 - (b) in paragraph (b), for “27” substitute “ 30 ”.
 
-**7.**[^key-054e0870235fbfa1bb15a29cb84f7c40] In section 26—
+**7.**[^c-054e0870235fbfa1bb15a29cb84f7c40] In section 26—
 
 - (a) in subsection (1), for “27” substitute “ 30 ”,
 - (b) in subsection (2), paragraph (a) is repealed.
 
-**8.**[^key-1c40e0a913c9aefbc5bfd534a9d5dde7] The title of section 26 becomes “ **Application of sections 30 to 32 and 56** ”.
+**8.**[^c-1c40e0a913c9aefbc5bfd534a9d5dde7] The title of section 26 becomes “ **Application of sections 30 to 32 and 56** ”.
 
-**9.**[^key-908b4aec7dd97259c44857ba18bdba67] Sections 27 to 29 are repealed.
+**9.**[^c-908b4aec7dd97259c44857ba18bdba67] Sections 27 to 29 are repealed.
 
-**10.**[^key-7abd0a284eaf1bd909ee164ebc8028d5] Before section 37, insert the following italic cross heading— “ Other reporting provisions ”.
+**10.**[^c-7abd0a284eaf1bd909ee164ebc8028d5] Before section 37, insert the following italic cross heading— “ Other reporting provisions ”.
 
-**11.**[^key-3d31d2bd4e6e7f34f85c68bc1ff384d7] Sections 38 to 41 are repealed.
+**11.**[^c-3d31d2bd4e6e7f34f85c68bc1ff384d7] Sections 38 to 41 are repealed.
 
-**12.**[^key-fb43fca269290f29164e74990249d50f] The Part title of Part 3 of the 2009 Act becomes “ Reporting and planning duties ”.
+**12.**[^c-fb43fca269290f29164e74990249d50f] The Part title of Part 3 of the 2009 Act becomes “ Reporting and planning duties ”.
 
-**13.**[^key-d22b395979834e7892c59622de254efd] In section 96(6)(a), for “19(b)” substitute “ 19(1)(b) ”.
+**13.**[^c-d22b395979834e7892c59622de254efd] In section 96(6)(a), for “19(b)” substitute “ 19(1)(b) ”.
 
-**14.**[^key-d14a13bb69e4d9a65cd6cd836d06f047] In section 98—
+**14.**[^c-d14a13bb69e4d9a65cd6cd836d06f047] In section 98—
 
 - (a) the definition of “domestic effort target” is repealed,
 - (b) the definition of “the 2050 target” is repealed,
@@ -1099,97 +1099,97 @@ The short title of this Act is the Climate Change (Emissions Reduction Targets) 
   - (iii) “target-setting criteria”, for “4(4)(b) to (j)” substitute “ 2B(1) ”,
   - (iv) “UK Committee on Climate Change”, for “5(8)” substitute “ 20A(2) ”.
 
-**15.**[^key-a41da7b3701e58887ab18298b9ef0f77] In section 100—
+**15.**[^c-a41da7b3701e58887ab18298b9ef0f77] In section 100—
 
 - (a) in subsection (2), for “27” substitute “ 30 ”,
 - (b) in subsection (3), for “27” substitute “ 30 ”.
 
 ## Annotations
 
-[^key-9ff4eceb4c8588c3c9028875b802d282]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/15/section/1) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-9ff4eceb4c8588c3c9028875b802d282]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/15/section/1) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-8981adfaf7a8915a4dfa4e67af914418]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/15/section/2) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-8981adfaf7a8915a4dfa4e67af914418]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/15/section/2) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-ec26df554414329bf4cf443a06043c3f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/15/section/3) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-ec26df554414329bf4cf443a06043c3f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/15/section/3) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-bfa4470847f663782a41b9ed001ef88c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/15/section/4) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-bfa4470847f663782a41b9ed001ef88c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/15/section/4) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-9b94eeb7eb2ecbbf7b915e6f475a26f0]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/15/section/5) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-9b94eeb7eb2ecbbf7b915e6f475a26f0]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/15/section/5) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-ba6d0599aa98cd26ca1fd3b51fe147ad]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/15/section/6) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-ba6d0599aa98cd26ca1fd3b51fe147ad]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/15/section/6) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f5d500453ddb004d8fd85320afbc498f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/15/section/7) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f5d500453ddb004d8fd85320afbc498f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/15/section/7) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f19c073f6666b8c0d2e9d0b0360f8bb4]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/15/section/8) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f19c073f6666b8c0d2e9d0b0360f8bb4]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/15/section/8) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-84ea63faa37ee1896763ccd1b81f4329]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/15/section/9) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-84ea63faa37ee1896763ccd1b81f4329]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/15/section/9) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-be4e9b488188a133eaf15f572ea24870]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/15/section/10) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-be4e9b488188a133eaf15f572ea24870]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/15/section/10) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-402b88117cecf0f87dcb2678d7f0a760]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/15/section/11) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-402b88117cecf0f87dcb2678d7f0a760]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/15/section/11) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-7b1cd38f0f5839c97383272e199c8c85]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/15/section/12) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-7b1cd38f0f5839c97383272e199c8c85]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/15/section/12) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-6046ecddec9f6fe61952de47e5e327a0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/15/section/13) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-6046ecddec9f6fe61952de47e5e327a0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/15/section/13) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-02c97469edc35afb60ce56a088bc0103]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/15/section/14) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-02c97469edc35afb60ce56a088bc0103]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/15/section/14) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-72124beead3e5f6a6c274b02310a29d7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/15/section/15) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-72124beead3e5f6a6c274b02310a29d7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/15/section/15) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-761ed697b131b99bcb3cfed6a292cad5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/15/section/16) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-761ed697b131b99bcb3cfed6a292cad5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/15/section/16) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-a0b575cf03617bd2dfaa84b914e6b3b3]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/15/section/17) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-a0b575cf03617bd2dfaa84b914e6b3b3]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/15/section/17) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-df8d79f11c614da362c960751d368711]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/15/section/18) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-df8d79f11c614da362c960751d368711]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/15/section/18) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-b9fcc493f7f48940d7cb6baf10af98ae]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/15/section/19) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-b9fcc493f7f48940d7cb6baf10af98ae]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/15/section/19) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-b5355c31cb3e58dde47858064efc0b63]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/15/section/20) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-b5355c31cb3e58dde47858064efc0b63]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/15/section/20) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-0d9f3c40b90a11ea66ef34b18c9c7f71]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/15/section/21) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0d9f3c40b90a11ea66ef34b18c9c7f71]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/15/section/21) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-19e12ff473ded5b25c2924e6676db2de]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/15/section/22) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-19e12ff473ded5b25c2924e6676db2de]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/15/section/22) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f6db8333789c84e68899a06ff4fd02bf]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/15/section/23) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f6db8333789c84e68899a06ff4fd02bf]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/15/section/23) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f54fe2fd76912d98898794b0f31bb2cb]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/15/section/24) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f54fe2fd76912d98898794b0f31bb2cb]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/15/section/24) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-7cb4db11adc6206f4d7e3221abf98e1f]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/15/section/25) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-7cb4db11adc6206f4d7e3221abf98e1f]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/15/section/25) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-7e2bcdd62e0690e4b0c05878d639902f]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/15/section/26) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-7e2bcdd62e0690e4b0c05878d639902f]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/15/section/26) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f3286de6237a33c82dd80a7edfaa3b51]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/15/section/27) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f3286de6237a33c82dd80a7edfaa3b51]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/15/section/27) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-f9a3aa54aecbf0acf7047a5d3a6c9bd0]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/15/section/28) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-f9a3aa54aecbf0acf7047a5d3a6c9bd0]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/15/section/28) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-5eae27a63f31e30a6596a7016cec22e1]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2019/15/section/29) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-5eae27a63f31e30a6596a7016cec22e1]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2019/15/section/29) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-7c8c23d219e75d5f77cf676857cd0b02]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/1) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-7c8c23d219e75d5f77cf676857cd0b02]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/1) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-e4687a77da4c6a07aecfc7efb5ba7b2f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/2) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-e4687a77da4c6a07aecfc7efb5ba7b2f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/2) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-a4ea64ced6568ca90d6246513f48f545]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/3) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-a4ea64ced6568ca90d6246513f48f545]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/3) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-c3f3442497657c73bf9926f28ff437f6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/4) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-c3f3442497657c73bf9926f28ff437f6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/4) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-0037925b42ce645bd694ebe4867daa7f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/5) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-0037925b42ce645bd694ebe4867daa7f]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/5) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-c6404a4a52b517c289ad7ef5fded7d1b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/6) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-c6404a4a52b517c289ad7ef5fded7d1b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/6) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-054e0870235fbfa1bb15a29cb84f7c40]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/7) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-054e0870235fbfa1bb15a29cb84f7c40]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/7) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-1c40e0a913c9aefbc5bfd534a9d5dde7]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/8) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-1c40e0a913c9aefbc5bfd534a9d5dde7]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/8) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-908b4aec7dd97259c44857ba18bdba67]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/9) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-908b4aec7dd97259c44857ba18bdba67]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/9) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-7abd0a284eaf1bd909ee164ebc8028d5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/10) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-7abd0a284eaf1bd909ee164ebc8028d5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/10) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-3d31d2bd4e6e7f34f85c68bc1ff384d7]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/11) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-3d31d2bd4e6e7f34f85c68bc1ff384d7]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/11) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-fb43fca269290f29164e74990249d50f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/12) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-fb43fca269290f29164e74990249d50f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/12) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-d22b395979834e7892c59622de254efd]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/13) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-d22b395979834e7892c59622de254efd]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/13) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-d14a13bb69e4d9a65cd6cd836d06f047]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/14) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-d14a13bb69e4d9a65cd6cd836d06f047]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/14) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-a41da7b3701e58887ab18298b9ef0f77]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/15) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-a41da7b3701e58887ab18298b9ef0f77]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/15) in force at 23.3.2020 by [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

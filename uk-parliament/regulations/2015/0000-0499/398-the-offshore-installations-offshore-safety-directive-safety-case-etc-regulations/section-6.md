@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the competent authority determines that an operator no longer has the capacity to meet the requirements of the relevant statutory provisions, it must immediately inform the licensing authority [^key-5781e83800c56feaabe045c03dbc2ddf]....
+(1) Where the competent authority determines that an operator no longer has the capacity to meet the requirements of the relevant statutory provisions, it must immediately inform the licensing authority [^c-5781e83800c56feaabe045c03dbc2ddf]....
 
 (2) In paragraph (1) the reference to an operator includes a reference to a well operator.
 
-(3)[^key-a46102bbc6adeb2e6070170349c0cbb0] In this regulation “licensing authority”—
+(3)[^c-a46102bbc6adeb2e6070170349c0cbb0] In this regulation “licensing authority”—
 
 - (a) in relation to petroleum extraction and conveyance, means the “licensing authority” within the meaning given in regulation 2(1) of the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015;
 - (b) in relation to carbon capture, utilisation and storage, means—
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5781e83800c56feaabe045c03dbc2ddf]: Textual amendment: Words in reg. 6(1) omitted (6.4.2026) by virtue of [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/3/a)
+[^c-5781e83800c56feaabe045c03dbc2ddf]: Textual amendment: Words in reg. 6(1) omitted (6.4.2026) by virtue of [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/3/a)
 
-[^key-a46102bbc6adeb2e6070170349c0cbb0]: Textual amendment: Reg. 6(3) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/3/b)
+[^c-a46102bbc6adeb2e6070170349c0cbb0]: Textual amendment: Reg. 6(3) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/3/b)

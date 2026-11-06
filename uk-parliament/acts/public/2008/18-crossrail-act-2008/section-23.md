@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Duty of Office of Rail and Road to publish reports[^key-6ac3e5764c9c22959b0169a20608c54c]
+## 23. Duty of Office of Rail and Road to publish reports[^c-6ac3e5764c9c22959b0169a20608c54c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac3e5764c9c22959b0169a20608c54c]: Textual amendment: Words in s. 23 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(t)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/t/ii)
+[^c-6ac3e5764c9c22959b0169a20608c54c]: Textual amendment: Words in s. 23 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(t)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/t/ii)

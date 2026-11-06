@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107. Decision of scheme manager void if appeal against decision of selected medical practitioner is successful[^key-529a75f698e4f6b83e07db1c84fb7cc7]
+## 107. Decision of scheme manager void if appeal against decision of selected medical practitioner is successful[^c-529a75f698e4f6b83e07db1c84fb7cc7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-529a75f698e4f6b83e07db1c84fb7cc7]: Textual amendment: [Reg. 107](https://www.legislation.gov.uk/nisr/2015/113/regulation/107) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [28](https://www.legislation.gov.uk/nisr/2024/38/regulation/28)
+[^c-529a75f698e4f6b83e07db1c84fb7cc7]: Textual amendment: [Reg. 107](https://www.legislation.gov.uk/nisr/2015/113/regulation/107) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [28](https://www.legislation.gov.uk/nisr/2024/38/regulation/28)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138G. Making of plans and schemes[^key-d236b2a239992040336cae0951f6908e][^key-c05adb8597f2acc398b3fefbd54794ff][^key-652ea49e5927586cb07bdb4300947115]
+## 138G. Making of plans and schemes[^c-d236b2a239992040336cae0951f6908e][^c-c05adb8597f2acc398b3fefbd54794ff][^c-652ea49e5927586cb07bdb4300947115]
 
 *Extent: E+W*
 
@@ -28,11 +28,11 @@ summary: ''
 
 - (a) contain full details of the plan and scheme,
 - (b) state the effect of subsection (4), and
-- (c)[^key-2e3293083bcadfac54ff045484b425e7] require any objections to be made before the end of the period of 28 days beginning with the day on which the notice is given (“the objection period”).
+- (c)[^c-2e3293083bcadfac54ff045484b425e7] require any objections to be made before the end of the period of 28 days beginning with the day on which the notice is given (“the objection period”).
 
-(3A)[^key-c70e7cbc49513d060c1790778f6de2f6] The authority or authorities may make the plan and scheme with modifications before the end of the objection period if every person to whom the notice under subsection (2) is required to be given has confirmed in writing that they do not intend to object.
+(3A)[^c-c70e7cbc49513d060c1790778f6de2f6] The authority or authorities may make the plan and scheme with modifications before the end of the objection period if every person to whom the notice under subsection (2) is required to be given has confirmed in writing that they do not intend to object.
 
-(4) The authority or authorities may not make the plan and scheme with modifications if, within the objection period[^key-a35337ac38254f6b4b18aca1f8826437]—
+(4) The authority or authorities may not make the plan and scheme with modifications if, within the objection period[^c-a35337ac38254f6b4b18aca1f8826437]—
 
 - (a) a sufficient number of the persons who, on the relevant day, are operators of qualifying local services in the area to which the plan relates object to the plan, or
 - (b) a sufficient number of the persons who, on the relevant day, are operators of qualifying local services in the area to which the scheme relates object to the scheme.
@@ -69,14 +69,14 @@ summary: ''
 
 ## Annotations
 
-[^key-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
+[^c-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-2e3293083bcadfac54ff045484b425e7]: Textual amendment: [S. 138G(3)(c)](https://www.legislation.gov.uk/ukpga/2000/38/section/138G/3/c) substituted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/3/a), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
+[^c-2e3293083bcadfac54ff045484b425e7]: Textual amendment: [S. 138G(3)(c)](https://www.legislation.gov.uk/ukpga/2000/38/section/138G/3/c) substituted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/3/a), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
 
-[^key-c70e7cbc49513d060c1790778f6de2f6]: Textual amendment: [S. 138G(3A)](https://www.legislation.gov.uk/ukpga/2000/38/section/138G/3A) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/3/b), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
+[^c-c70e7cbc49513d060c1790778f6de2f6]: Textual amendment: [S. 138G(3A)](https://www.legislation.gov.uk/ukpga/2000/38/section/138G/3A) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/3/b), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
 
-[^key-a35337ac38254f6b4b18aca1f8826437]: Textual amendment: Words in [s. 138G(4)](https://www.legislation.gov.uk/ukpga/2000/38/section/138G/4) substituted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(3)(c)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/3/c), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)
+[^c-a35337ac38254f6b4b18aca1f8826437]: Textual amendment: Words in [s. 138G(4)](https://www.legislation.gov.uk/ukpga/2000/38/section/138G/4) substituted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 19(3)(c)](https://www.legislation.gov.uk/ukpga/2025/24/section/19/3/c), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Appeals[^key-d3814da7a7566baea30c161e9d5be604]
+## 51. Appeals[^c-d3814da7a7566baea30c161e9d5be604]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ But an appeal under this subsection against a decision relating to a temporary b
 
 ## Annotations
 
-[^key-d3814da7a7566baea30c161e9d5be604]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2007/10/section/51) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-d3814da7a7566baea30c161e9d5be604]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2007/10/section/51) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

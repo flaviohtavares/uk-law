@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Business at first meetings of creditors and contributories[^key-e4a4eeff2a7ea40f7cc6e07efb3115fa]
+## 41. Business at first meetings of creditors and contributories[^c-e4a4eeff2a7ea40f7cc6e07efb3115fa]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) where the FSCS has not resigned, elect 2 or 4 individuals as new members of the liquidation committee,
 - (b) where the FSCS has resigned, elect 3 or 5 individuals as new members of the liquidation committee,
 
-in place of the members nominated by the Bank of England and the appropriate regulator[^key-d3bc7214a78daf56d267a9a24d024431]. In accordance with section 100(6)(d) of the 2009 Act, the liquidation committee ceases to exist at the end of the meeting if no individuals are elected as mentioned or if the resulting committee would have fewer than 3 members or an even number of members. The maximum number of committee members will be 5.
+in place of the members nominated by the Bank of England and the appropriate regulator[^c-d3bc7214a78daf56d267a9a24d024431]. In accordance with section 100(6)(d) of the 2009 Act, the liquidation committee ceases to exist at the end of the meeting if no individuals are elected as mentioned or if the resulting committee would have fewer than 3 members or an even number of members. The maximum number of committee members will be 5.
 
 (3) At the first meeting of creditors no resolutions shall be taken other than the following—
 
@@ -47,6 +47,6 @@ in place of the members nominated by the Bank of England and the appropriate reg
 
 ## Annotations
 
-[^key-e4a4eeff2a7ea40f7cc6e07efb3115fa]: Commencement: Rule 41 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e4a4eeff2a7ea40f7cc6e07efb3115fa]: Commencement: Rule 41 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)
+[^c-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)

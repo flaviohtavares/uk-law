@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Majority ownership[^key-b16b56e0e5b9875fbaf44db17e50e94d]
+## 87. Majority ownership[^c-b16b56e0e5b9875fbaf44db17e50e94d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Section 49 (majority ownership) of the 2010 Act is repealed.
 
 ## Annotations
 
-[^key-b16b56e0e5b9875fbaf44db17e50e94d]: Commencement: S. 87 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-b16b56e0e5b9875fbaf44db17e50e94d]: Commencement: S. 87 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

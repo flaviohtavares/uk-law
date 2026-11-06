@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if the individual's total qualifying care[^key-4dc97075e420923f199fc607ad6a11c1] receipts for the period of account do not exceed the individual's relevant limit for the period.
+(1) This section applies if the individual's total qualifying care[^c-4dc97075e420923f199fc607ad6a11c1] receipts for the period of account do not exceed the individual's relevant limit for the period.
 
 (2) The profits or losses of the trade for the tax year are treated as nil.
 
 ## Annotations
 
-[^key-4dc97075e420923f199fc607ad6a11c1]: Textual amendment: Words in s. 822(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/23) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-4dc97075e420923f199fc607ad6a11c1]: Textual amendment: Words in s. 822(1) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/23) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

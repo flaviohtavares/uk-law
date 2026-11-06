@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Statement of levelling-up missions[^key-94eb405bef552459baeab3646e513f00]
+## 1. Statement of levelling-up missions[^c-94eb405bef552459baeab3646e513f00]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94eb405bef552459baeab3646e513f00]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/55/section/1) in force at 26.12.2023, see [s. 255(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/b)
+[^c-94eb405bef552459baeab3646e513f00]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/55/section/1) in force at 26.12.2023, see [s. 255(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/b)

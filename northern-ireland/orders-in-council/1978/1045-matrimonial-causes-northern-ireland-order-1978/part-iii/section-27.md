@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Matters to which court is to have regard in deciding how to exercise its powers under Articles 25 , 26, 26A and 26D[^c20683941][^key-51437abe8a80bb3933878ef90276f635]
+## 27. Matters to which court is to have regard in deciding how to exercise its powers under Articles 25 , 26, 26A and 26D[^c20683941][^c-51437abe8a80bb3933878ef90276f635]
 
 *Extent: N.I.*
 
-(1) It shall be the duty of the court in deciding whether to exercise its powers under Article 25, or 26[^c16975271] , 26A or 26D[^key-8f23e9682e925698fd0ebf9a66e10f2e] and, if so, in what manner, to have regard to all the circumstances of the case, first consideration being given to the welfare while a minor of any child of the family who has not attained the age of 18.
+(1) It shall be the duty of the court in deciding whether to exercise its powers under Article 25, or 26[^c16975271] , 26A or 26D[^c-8f23e9682e925698fd0ebf9a66e10f2e] and, if so, in what manner, to have regard to all the circumstances of the case, first consideration being given to the welfare while a minor of any child of the family who has not attained the age of 18.
 
-(2) As regards the exercise of the powers of the court under Article 25(1)(a), (b) or (c) , 26 , 26A or 26D[^key-4eb9e773b5c764e9ee0e8b05a30244de] in relation to a party to the marriage, the court shall in particular have regard to the following matters—
+(2) As regards the exercise of the powers of the court under Article 25(1)(a), (b) or (c) , 26 , 26A or 26D[^c-4eb9e773b5c764e9ee0e8b05a30244de] in relation to a party to the marriage, the court shall in particular have regard to the following matters—
 
 - (a) the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future, including in the case of earning capacity any increase in that capacity which it would in the opinion of the court be reasonable to expect a party to the marriage to take steps to acquire;
 - (b) the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future;
@@ -51,12 +51,12 @@ summary: ''
 
 [^c20683941]: Textual amendment: [1989 NI 4](https://www.legislation.gov.uk/1989/ni4)
 
-[^key-51437abe8a80bb3933878ef90276f635]: Textual amendment: Words in art. 27 heading heading substituted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/4/2) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-51437abe8a80bb3933878ef90276f635]: Textual amendment: Words in art. 27 heading heading substituted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/4/2) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
 
 [^c16975271]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/1999/ni11)
 
-[^key-8f23e9682e925698fd0ebf9a66e10f2e]: Textual amendment: Words in art. 27(1) substituted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/4/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-8f23e9682e925698fd0ebf9a66e10f2e]: Textual amendment: Words in art. 27(1) substituted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/4/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
 
-[^key-4eb9e773b5c764e9ee0e8b05a30244de]: Textual amendment: Words in art. 27(2) substituted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/4/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-4eb9e773b5c764e9ee0e8b05a30244de]: Textual amendment: Words in art. 27(2) substituted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/4/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
 
 [^c16975311]: Textual amendment: [1995 NI 22](https://www.legislation.gov.uk/1995/ni22)

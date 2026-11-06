@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130E. Independent mental health advocates: Wales[^key-2852f72f8c29f824b757fae8c37ea9d1]
+## 130E. Independent mental health advocates: Wales[^c-2852f72f8c29f824b757fae8c37ea9d1]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2852f72f8c29f824b757fae8c37ea9d1]: Textual amendment: S. 130E inserted (15.2.2011 for specified purposes, 3.1.2012 for specified purposes and 2.4.2012 in so far as not already in force) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31), [55(1)](https://www.legislation.gov.uk/mwa/2010/7/section/55/1), [(2)](https://www.legislation.gov.uk/mwa/2010/7/section/55/2); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [arts. 2(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/a), 3(a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-2852f72f8c29f824b757fae8c37ea9d1]: Textual amendment: S. 130E inserted (15.2.2011 for specified purposes, 3.1.2012 for specified purposes and 2.4.2012 in so far as not already in force) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 31](https://www.legislation.gov.uk/mwa/2010/7/section/31), [55(1)](https://www.legislation.gov.uk/mwa/2010/7/section/55/1), [(2)](https://www.legislation.gov.uk/mwa/2010/7/section/55/2); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [arts. 2(a)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/a), 3(a) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

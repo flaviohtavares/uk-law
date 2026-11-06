@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Disclosure of information to facilitate collection of fines and other sums[^key-b8b77936ab7e824be654eae3f65d47cc]
+## 27. Disclosure of information to facilitate collection of fines and other sums[^c-b8b77936ab7e824be654eae3f65d47cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8b77936ab7e824be654eae3f65d47cc]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/22/section/27) in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)
+[^c-b8b77936ab7e824be654eae3f65d47cc]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/22/section/27) in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/a)

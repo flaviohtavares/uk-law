@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Corporate parenting principles[^key-69ef4a2afd4bf3410a72d22e31ca0a9f]
+## 1. Corporate parenting principles[^c-69ef4a2afd4bf3410a72d22e31ca0a9f]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69ef4a2afd4bf3410a72d22e31ca0a9f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/16/section/1) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/a)
+[^c-69ef4a2afd4bf3410a72d22e31ca0a9f]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/16/section/1) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/a)

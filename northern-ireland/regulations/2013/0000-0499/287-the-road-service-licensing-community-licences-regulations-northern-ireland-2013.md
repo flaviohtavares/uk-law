@@ -32,7 +32,7 @@ summary: ''
 
 Road Transport
 
-The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 (revoked)[^key-e12dae69614579ce60fc68f39e59cb22]
+The Road Service Licensing (Community Licences) Regulations (Northern Ireland) 2013 (revoked)[^c-e12dae69614579ce60fc68f39e59cb22]
 
 Made
 
@@ -42,80 +42,80 @@ Coming into operation
 
 13th January 2014
 
-[^key-e12dae69614579ce60fc68f39e59cb22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e12dae69614579ce60fc68f39e59cb22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e12dae69614579ce60fc68f39e59cb22]
+## 1. Citation and commencement[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e12dae69614579ce60fc68f39e59cb22]
+## 2. Interpretation[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of public service vehicle without Community licence[^key-e12dae69614579ce60fc68f39e59cb22]
+## 3. Use of public service vehicle without Community licence[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Competent authority[^key-e12dae69614579ce60fc68f39e59cb22]
+## 4. Competent authority[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Issue of a Community licence and authorisation[^key-e12dae69614579ce60fc68f39e59cb22]
+## 5. Issue of a Community licence and authorisation[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Withdrawal of a Community licence[^key-e12dae69614579ce60fc68f39e59cb22]
+## 6. Withdrawal of a Community licence[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Rights of appeal[^key-e12dae69614579ce60fc68f39e59cb22]
+## 7. Rights of appeal[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Production of Documents[^key-e12dae69614579ce60fc68f39e59cb22]
+## 8. Production of Documents[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Authorised inspecting officers[^key-e12dae69614579ce60fc68f39e59cb22]
+## 9. Authorised inspecting officers[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Supply of information[^key-e12dae69614579ce60fc68f39e59cb22]
+## 10. Supply of information[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Death, bankruptcy etc. of holder of Community licence[^key-e12dae69614579ce60fc68f39e59cb22]
+## 11. Death, bankruptcy etc. of holder of Community licence[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Bodies corporate[^key-e12dae69614579ce60fc68f39e59cb22]
+## 12. Bodies corporate[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-e12dae69614579ce60fc68f39e59cb22]
+## 13. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the European Communities (International Passenger Services) Regulations (Northern Ireland) 1987[^key-e12dae69614579ce60fc68f39e59cb22]
+## 14. Amendment of the European Communities (International Passenger Services) Regulations (Northern Ireland) 1987[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Modification of enactments[^key-e12dae69614579ce60fc68f39e59cb22]
+## 15. Modification of enactments[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Revocations[^key-e12dae69614579ce60fc68f39e59cb22]
+## 16. Revocations[^c-e12dae69614579ce60fc68f39e59cb22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e12dae69614579ce60fc68f39e59cb22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e12dae69614579ce60fc68f39e59cb22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e12dae69614579ce60fc68f39e59cb22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e12dae69614579ce60fc68f39e59cb22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e12dae69614579ce60fc68f39e59cb22]: Textual amendment: Rule revoked (28.3.2019) by [The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 (S.R. 2019/27)](https://www.legislation.gov.uk/nisr/2019/27), regs. 1, [19](https://www.legislation.gov.uk/nisr/2019/27/regulation/19)
+[^c-e12dae69614579ce60fc68f39e59cb22]: Textual amendment: Rule revoked (28.3.2019) by [The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 (S.R. 2019/27)](https://www.legislation.gov.uk/nisr/2019/27), regs. 1, [19](https://www.legislation.gov.uk/nisr/2019/27/regulation/19)

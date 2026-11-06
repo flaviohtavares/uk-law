@@ -56,9 +56,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-### 2. Notice of proposal to adduce hearsay evidence.[^c20756091][^c20756111][^c20756121][^key-51ddd52f71a4613d3c5eb56b74b27ca6]
+### 2. Notice of proposal to adduce hearsay evidence.[^c20756091][^c20756111][^c20756121][^c-51ddd52f71a4613d3c5eb56b74b27ca6]
 
-(1)[^c20756101][^key-0a8d5a46af82b22b40d824b12cdee9d6][^key-ed340ddcc9ce9176b654c8c6edf35b02][^key-1c067c868a167ffd8cc7204b57f12c40][^key-6457dce67f26fd3d6d2d93c9b4505634][^key-d283a0c9d3c26babde22787ad1ec1459][^key-e5f12bb4a95b1f3534eb535d96424007][^key-9352ba79e443d1a67f6da1f05c33183b][^key-76ebb972560d14759fc04a7d22950848][^key-ee2dd73d6e62dc1ddbf01265c727df4e][^key-f244cd95eb5a78d6b9999a4017a8b605][^key-16e8dbb29409951b4dceb52b83560b76][^key-1c0077521d0bac00829c2e7226e39833] A party proposing to adduce hearsay evidence in civil proceedings shall, subject to the following provisions of this section, give to the other party or parties to the proceedings—
+(1)[^c20756101][^c-0a8d5a46af82b22b40d824b12cdee9d6][^c-ed340ddcc9ce9176b654c8c6edf35b02][^c-1c067c868a167ffd8cc7204b57f12c40][^c-6457dce67f26fd3d6d2d93c9b4505634][^c-d283a0c9d3c26babde22787ad1ec1459][^c-e5f12bb4a95b1f3534eb535d96424007][^c-9352ba79e443d1a67f6da1f05c33183b][^c-76ebb972560d14759fc04a7d22950848][^c-ee2dd73d6e62dc1ddbf01265c727df4e][^c-f244cd95eb5a78d6b9999a4017a8b605][^c-16e8dbb29409951b4dceb52b83560b76][^c-1c0077521d0bac00829c2e7226e39833] A party proposing to adduce hearsay evidence in civil proceedings shall, subject to the following provisions of this section, give to the other party or parties to the proceedings—
 
 - (a) such notice (if any) of that fact, and
 - (b) on request, such particulars of or relating to the evidence,
@@ -77,11 +77,11 @@ as is reasonable and practicable in the circumstances for the purpose of enablin
 - (a) in considering the exercise of its powers with respect to the course of proceedings and costs, and
 - (b) as a matter adversely affecting the weight to be given to the evidence in accordance with section 4.
 
-### 3. Power to call witness for cross-examination on hearsay statement.[^c20756221][^c20756231][^c20756241][^key-51ddd52f71a4613d3c5eb56b74b27ca6]
+### 3. Power to call witness for cross-examination on hearsay statement.[^c20756221][^c20756231][^c20756241][^c-51ddd52f71a4613d3c5eb56b74b27ca6]
 
 Rules of court may provide that where a party to civil proceedings adduces hearsay evidence of a statement made by a person and does not call that person as a witness, any other party to the proceedings may, with the leave of the court, call that person as a witness and cross-examine him on the statement as if he had been called by the first-mentioned party and as if the hearsay statement were his evidence in chief.
 
-### 4. Considerations relevant to weighing of hearsay evidence.[^c20756261][^c20756271][^c20756281][^key-51ddd52f71a4613d3c5eb56b74b27ca6]
+### 4. Considerations relevant to weighing of hearsay evidence.[^c20756261][^c20756271][^c20756281][^c-51ddd52f71a4613d3c5eb56b74b27ca6]
 
 (1) In estimating the weight (if any) to be given to hearsay evidence in civil proceedings the court shall have regard to any circumstances from which any inference can reasonably be drawn as to the reliability or otherwise of the evidence.
 
@@ -599,33 +599,33 @@ Section 15(2).
 
 [^c20756121]: Modification: S. 2 applied (1.1.2006) by [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181), [art. 13(2)(5)](https://www.legislation.gov.uk/uksi/2005/3181/article/13/2/5)
 
-[^key-51ddd52f71a4613d3c5eb56b74b27ca6]: Modification: Ss. 2-4 applied by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 47Q(2)](https://www.legislation.gov.uk/ukpga/2002/29/section/47Q/2) (as inserted (22.11.2014 for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a))
+[^c-51ddd52f71a4613d3c5eb56b74b27ca6]: Modification: Ss. 2-4 applied by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 47Q(2)](https://www.legislation.gov.uk/ukpga/2002/29/section/47Q/2) (as inserted (22.11.2014 for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a))
 
 [^c20756101]: Modification: S. 2(1) excluded (24.3.2003) by [S.I. 2003/421](https://www.legislation.gov.uk/uksi/2003/421), [rule 39](https://www.legislation.gov.uk/uksi/2003/421/rule/39)
 
-[^key-0a8d5a46af82b22b40d824b12cdee9d6]: Modification: S. 2(1) excluded (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [rule 61.8](https://www.legislation.gov.uk/uksi/2010/60/rule/61.8)
+[^c-0a8d5a46af82b22b40d824b12cdee9d6]: Modification: S. 2(1) excluded (5.4.2010) by [The Criminal Procedure Rules 2010 (S.I. 2010/60)](https://www.legislation.gov.uk/uksi/2010/60), [rule 61.8](https://www.legislation.gov.uk/uksi/2010/60/rule/61.8)
 
-[^key-ed340ddcc9ce9176b654c8c6edf35b02]: Modification: S. 2(1) excluded (6.4.2011) by [The Family Procedure Rules 2010 (S.I. 2010/2955)](https://www.legislation.gov.uk/uksi/2010/2955), [rule 23.3](https://www.legislation.gov.uk/uksi/2010/2955/rule/23.3)
+[^c-ed340ddcc9ce9176b654c8c6edf35b02]: Modification: S. 2(1) excluded (6.4.2011) by [The Family Procedure Rules 2010 (S.I. 2010/2955)](https://www.legislation.gov.uk/uksi/2010/2955), [rule 23.3](https://www.legislation.gov.uk/uksi/2010/2955/rule/23.3)
 
-[^key-1c067c868a167ffd8cc7204b57f12c40]: Modification: S. 2(1) disapplied (30.6.2011) by [The Magistrates Courts (Domestic Violence Protection Order Proceedings) Rules 2011 (S.I. 2011/1434)](https://www.legislation.gov.uk/uksi/2011/1434), [rules 1](https://www.legislation.gov.uk/uksi/2011/1434/rule/1), [4](https://www.legislation.gov.uk/uksi/2011/1434/rule/4)
+[^c-1c067c868a167ffd8cc7204b57f12c40]: Modification: S. 2(1) disapplied (30.6.2011) by [The Magistrates Courts (Domestic Violence Protection Order Proceedings) Rules 2011 (S.I. 2011/1434)](https://www.legislation.gov.uk/uksi/2011/1434), [rules 1](https://www.legislation.gov.uk/uksi/2011/1434/rule/1), [4](https://www.legislation.gov.uk/uksi/2011/1434/rule/4)
 
-[^key-6457dce67f26fd3d6d2d93c9b4505634]: Modification: S. 2(1) excluded (3.10.2011) by [The Criminal Procedure Rules 2011 (S.I. 2011/1709)](https://www.legislation.gov.uk/uksi/2011/1709), [rule 61.8](https://www.legislation.gov.uk/uksi/2011/1709/rule/61.8)
+[^c-6457dce67f26fd3d6d2d93c9b4505634]: Modification: S. 2(1) excluded (3.10.2011) by [The Criminal Procedure Rules 2011 (S.I. 2011/1709)](https://www.legislation.gov.uk/uksi/2011/1709), [rule 61.8](https://www.legislation.gov.uk/uksi/2011/1709/rule/61.8)
 
-[^key-d283a0c9d3c26babde22787ad1ec1459]: Modification: S. 2(1) excluded (1.10.2012) by [The Criminal Procedure Rules 2012 (S.I. 2012/1726)](https://www.legislation.gov.uk/uksi/2012/1726), [rule 61.8](https://www.legislation.gov.uk/uksi/2012/1726/rule/61.8)
+[^c-d283a0c9d3c26babde22787ad1ec1459]: Modification: S. 2(1) excluded (1.10.2012) by [The Criminal Procedure Rules 2012 (S.I. 2012/1726)](https://www.legislation.gov.uk/uksi/2012/1726), [rule 61.8](https://www.legislation.gov.uk/uksi/2012/1726/rule/61.8)
 
-[^key-e5f12bb4a95b1f3534eb535d96424007]: Modification: S. 2(1) excluded (7.10.2013) by [The Criminal Procedure Rules 2013 (S.I. 2013/1554)](https://www.legislation.gov.uk/uksi/2013/1554), [rule 61.08](https://www.legislation.gov.uk/uksi/2013/1554/rule/61.08) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2013/1554/article/2.1))
+[^c-e5f12bb4a95b1f3534eb535d96424007]: Modification: S. 2(1) excluded (7.10.2013) by [The Criminal Procedure Rules 2013 (S.I. 2013/1554)](https://www.legislation.gov.uk/uksi/2013/1554), [rule 61.08](https://www.legislation.gov.uk/uksi/2013/1554/rule/61.08) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2013/1554/article/2.1))
 
-[^key-9352ba79e443d1a67f6da1f05c33183b]: Modification: S. 2(1) excluded (6.10.2014) by [The Criminal Procedure Rules 2014 (S.I. 2014/1610)](https://www.legislation.gov.uk/uksi/2014/1610), [rule 61.8](https://www.legislation.gov.uk/uksi/2014/1610/rule/61.8) (with [rule. 2.1](https://www.legislation.gov.uk/uksi/2014/1610/article/2.1))
+[^c-9352ba79e443d1a67f6da1f05c33183b]: Modification: S. 2(1) excluded (6.10.2014) by [The Criminal Procedure Rules 2014 (S.I. 2014/1610)](https://www.legislation.gov.uk/uksi/2014/1610), [rule 61.8](https://www.legislation.gov.uk/uksi/2014/1610/rule/61.8) (with [rule. 2.1](https://www.legislation.gov.uk/uksi/2014/1610/article/2.1))
 
-[^key-76ebb972560d14759fc04a7d22950848]: Modification: S. 2(1) excluded (5.10.2015) by [The Criminal Procedure Rules 2015 (S.I. 2015/1490)](https://www.legislation.gov.uk/uksi/2015/1490), [rule 33.39](https://www.legislation.gov.uk/uksi/2015/1490/rule/33.39)
+[^c-76ebb972560d14759fc04a7d22950848]: Modification: S. 2(1) excluded (5.10.2015) by [The Criminal Procedure Rules 2015 (S.I. 2015/1490)](https://www.legislation.gov.uk/uksi/2015/1490), [rule 33.39](https://www.legislation.gov.uk/uksi/2015/1490/rule/33.39)
 
-[^key-ee2dd73d6e62dc1ddbf01265c727df4e]: Modification: S. 2(1) excluded (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [rule 33.39](https://www.legislation.gov.uk/uksi/2020/759/rule/33.39)
+[^c-ee2dd73d6e62dc1ddbf01265c727df4e]: Modification: S. 2(1) excluded (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [rule 33.39](https://www.legislation.gov.uk/uksi/2020/759/rule/33.39)
 
-[^key-f244cd95eb5a78d6b9999a4017a8b605]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1995/38/section/2/1) excluded (8.4.2024) by [S.I. 1982/1109](https://www.legislation.gov.uk/uksi/1982/1109), [rule 11C](https://www.legislation.gov.uk/uksi/1982/1109/rule/11C) (as substituted by [The Crown Court (Amendment) Rules 2024 (S.I. 2024/259)](https://www.legislation.gov.uk/uksi/2024/259), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/259/rule/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/259/rule/2/8))
+[^c-f244cd95eb5a78d6b9999a4017a8b605]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1995/38/section/2/1) excluded (8.4.2024) by [S.I. 1982/1109](https://www.legislation.gov.uk/uksi/1982/1109), [rule 11C](https://www.legislation.gov.uk/uksi/1982/1109/rule/11C) (as substituted by [The Crown Court (Amendment) Rules 2024 (S.I. 2024/259)](https://www.legislation.gov.uk/uksi/2024/259), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/259/rule/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/259/rule/2/8))
 
-[^key-16e8dbb29409951b4dceb52b83560b76]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1995/38/section/2/1) excluded (8.4.2024) by [S.I. 1981/552](https://www.legislation.gov.uk/uksi/1981/552), [rule 23](https://www.legislation.gov.uk/uksi/1981/552/rule/23) (as inserted by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/6))
+[^c-16e8dbb29409951b4dceb52b83560b76]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1995/38/section/2/1) excluded (8.4.2024) by [S.I. 1981/552](https://www.legislation.gov.uk/uksi/1981/552), [rule 23](https://www.legislation.gov.uk/uksi/1981/552/rule/23) (as inserted by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/6))
 
-[^key-1c0077521d0bac00829c2e7226e39833]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1995/38/section/2/1) excluded (6.10.2025) by [The Criminal Procedure Rules 2025 (S.I. 2025/909)](https://www.legislation.gov.uk/uksi/2025/909), [rule 33.37](https://www.legislation.gov.uk/uksi/2025/909/rule/33.37)
+[^c-1c0077521d0bac00829c2e7226e39833]: Modification: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1995/38/section/2/1) excluded (6.10.2025) by [The Criminal Procedure Rules 2025 (S.I. 2025/909)](https://www.legislation.gov.uk/uksi/2025/909), [rule 33.37](https://www.legislation.gov.uk/uksi/2025/909/rule/33.37)
 
 [^c20756221]: Modification: S. 3 applied (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2002/29/section/46/2), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/333/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2003/333/article/3) (as amended ([6](https://www.legislation.gov.uk/uksi/2003/333/article/6).[3](https://www.legislation.gov.uk/uksi/2003/333/article/3).[2003](https://www.legislation.gov.uk/uksi/2003/333/article/2003)) by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), [arts. 3](https://www.legislation.gov.uk/uksi/2003/531/article/3), [4](https://www.legislation.gov.uk/uksi/2003/531/article/4)))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Expenses of each party[^key-40f9e35d6e516d625fdd8c8a33b8e658]
+## 161. Expenses of each party[^c-40f9e35d6e516d625fdd8c8a33b8e658]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ the scheme manager must refund to P the amount specified in paragraph (5).
 
 ## Annotations
 
-[^key-40f9e35d6e516d625fdd8c8a33b8e658]: Commencement: [Reg. 161](https://www.legislation.gov.uk/uksi/2014/2848/regulation/161) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-40f9e35d6e516d625fdd8c8a33b8e658]: Commencement: [Reg. 161](https://www.legislation.gov.uk/uksi/2014/2848/regulation/161) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Building safety directors of resident management companies[^key-ef1c7506ac5a9c33c32de24300fd7db4][^key-12fc859b3de9631e7f6df0e5cf131a42]
+## 111. Building safety directors of resident management companies[^c-ef1c7506ac5a9c33c32de24300fd7db4][^c-12fc859b3de9631e7f6df0e5cf131a42]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef1c7506ac5a9c33c32de24300fd7db4]: Commencement: S. 111 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-ef1c7506ac5a9c33c32de24300fd7db4]: Commencement: S. 111 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-12fc859b3de9631e7f6df0e5cf131a42]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/30/section/111) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/v)
+[^c-12fc859b3de9631e7f6df0e5cf131a42]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/30/section/111) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/v)

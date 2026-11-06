@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Review of direction made under section 51[^key-5cdf3754d791137c83227455a44c485f]
+## 52. Review of direction made under section 51[^c-5cdf3754d791137c83227455a44c485f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cdf3754d791137c83227455a44c485f]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2021/15/section/52) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-5cdf3754d791137c83227455a44c485f]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2021/15/section/52) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

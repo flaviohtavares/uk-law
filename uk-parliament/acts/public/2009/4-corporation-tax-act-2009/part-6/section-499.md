@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 499. Registered society payments treated as interest under loan relationship[^key-aa6729e54135fe8d77ba11c01f6d2206]
+## 499. Registered society payments treated as interest under loan relationship[^c-aa6729e54135fe8d77ba11c01f6d2206]
 
 *Extent: E+W+S+N.I.*
 
 (1) Any dividend, bonus or other sum payable to a shareholder in—
 
-- (a) a registered society[^key-375475277f19e40cb2a189fada5d89f5], or
+- (a) a registered society[^c-375475277f19e40cb2a189fada5d89f5], or
 - (b) a UK agricultural or fishing co-operative,
 
 is treated for corporation tax purposes as interest under a loan relationship of the society or co-operative if it is payable by reference to the amount of the shareholder's holding in its share capital.
@@ -47,6 +47,6 @@ is treated for corporation tax purposes as interest under a loan relationship of
 
 ## Annotations
 
-[^key-aa6729e54135fe8d77ba11c01f6d2206]: Textual amendment: Words in s. 499 heading substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 145](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/145) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-aa6729e54135fe8d77ba11c01f6d2206]: Textual amendment: Words in s. 499 heading substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 145](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/145) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-375475277f19e40cb2a189fada5d89f5]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 141](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/141) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-375475277f19e40cb2a189fada5d89f5]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 141](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/141) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

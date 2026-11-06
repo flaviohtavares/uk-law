@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Meaning of “major interest” in land[^key-1871f55b7a6841768518d67f5beb83d4]
+## 60. Meaning of “major interest” in land[^c-1871f55b7a6841768518d67f5beb83d4]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ References in this Act to a “major interest” in land are to—
 
 ## Annotations
 
-[^key-1871f55b7a6841768518d67f5beb83d4]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2013/11/section/60) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-1871f55b7a6841768518d67f5beb83d4]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2013/11/section/60) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

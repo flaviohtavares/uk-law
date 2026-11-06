@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1264A. Excess profit allocation to non-individual partners etc[^key-1f2b53f5096a5e9b0888d7acbaa164c6]
+## 1264A. Excess profit allocation to non-individual partners etc[^c-1f2b53f5096a5e9b0888d7acbaa164c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ such adjustments are to be made as are just and reasonable to take account of th
 
 ## Annotations
 
-[^key-1f2b53f5096a5e9b0888d7acbaa164c6]: Textual amendment: S. 1264A inserted (retrospective to 5.12.2013 and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/10/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)
+[^c-1f2b53f5096a5e9b0888d7acbaa164c6]: Textual amendment: S. 1264A inserted (retrospective to 5.12.2013 and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/10/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)

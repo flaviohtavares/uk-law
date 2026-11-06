@@ -24,7 +24,7 @@ Section 63
 
 ### Schedule 1 to AA 2010
 
-**1.**[^key-acfbc757b8e0b591856d949942c33905] For Schedule 1 to AA 2010 (Academies: land) substitute—
+**1.**[^c-acfbc757b8e0b591856d949942c33905] For Schedule 1 to AA 2010 (Academies: land) substitute—
 
 > **SCHEDULE 1 — ACADEMIES: LAND**
 >
@@ -432,15 +432,15 @@ Section 63
 
 ### Amendments to Schedule 22 to SSFA 1998
 
-**2.**[^key-2060669b2900da03e35de046b28046c6] Schedule 22 to SSFA 1998 (disposals of land in case of certain schools and disposals on discontinuance) is amended as set out in paragraphs 3 to 15.
+**2.**[^c-2060669b2900da03e35de046b28046c6] Schedule 22 to SSFA 1998 (disposals of land in case of certain schools and disposals on discontinuance) is amended as set out in paragraphs 3 to 15.
 
-**3.**[^key-2b28117f4fc8a1dcbb8bec02927159cd] In paragraph A1, in sub-paragraph (1)(b), at the end insert—
+**3.**[^c-2b28117f4fc8a1dcbb8bec02927159cd] In paragraph A1, in sub-paragraph (1)(b), at the end insert—
 
 > paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies Act 2010,
 
 .
 
-**4.**[^key-9c04f7bd439d375a1b904aabc2e2d2f1] After paragraph A1, insert—
+**4.**[^c-9c04f7bd439d375a1b904aabc2e2d2f1] After paragraph A1, insert—
 
 > **A1A.** (1) This paragraph applies to a disposal of land to which paragraph A1 applies if, or to the extent that, it comprises a disposal of non-playing field land.
 >
@@ -462,17 +462,17 @@ Section 63
 >
 > (7) If the Secretary of State decides to make a direction in respect of the land, the governing body may not dispose of the land except in accordance with the direction.
 
-**5.**[^key-fd60e7cc4da854170dbb9ca062d84a96] In paragraph A2, for sub-paragraphs (1) to (3), substitute—
+**5.**[^c-fd60e7cc4da854170dbb9ca062d84a96] In paragraph A2, for sub-paragraphs (1) to (3), substitute—
 
 > (1) This paragraph applies where a governing body receives a notification under paragraph A1A(5)(b) that the Secretary of State has decided not to make a direction in respect of the land.
 
-**6.**[^key-2f1e94167b634d5c92b5dd15080965ea] In paragraph A7, in sub-paragraph (1)(b), at the end insert—
+**6.**[^c-2f1e94167b634d5c92b5dd15080965ea] In paragraph A7, in sub-paragraph (1)(b), at the end insert—
 
 > paragraph 15(3)(d) or 16(6)(d) of Schedule 1 to the Academies Act 2010,
 
 .
 
-**7.**[^key-6007a95bb82d289b160336841bb9d80d] After paragraph A7, insert—
+**7.**[^c-6007a95bb82d289b160336841bb9d80d] After paragraph A7, insert—
 
 > **A7A.** (1) This paragraph applies to a disposal of land to which paragraph A7 applies if, or to the extent that, it comprises a disposal of non-playing field land.
 >
@@ -494,11 +494,11 @@ Section 63
 >
 > (7) If the Secretary of State decides to make a direction in respect of the land, the foundation body may not dispose of the land except in accordance with the direction.
 
-**8.**[^key-24472a2bdb512b4f74e5ba577a634b59] In paragraph A8, for sub-paragraphs (1) to (3), substitute—
+**8.**[^c-24472a2bdb512b4f74e5ba577a634b59] In paragraph A8, for sub-paragraphs (1) to (3), substitute—
 
 > (1) This paragraph applies where a foundation body receives a notification under paragraph A7A(5)(b) that the Secretary of State has decided not to make a direction in respect of the land.
 
-**9.**[^key-c02f9df98ba65165326a33a7d3daa504] (1) Paragraph A13 is amended as follows.
+**9.**[^c-c02f9df98ba65165326a33a7d3daa504] (1) Paragraph A13 is amended as follows.
 
 (2) In sub-paragraph (1)(d), at the end insert—
 
@@ -511,7 +511,7 @@ Section 63
 - (a) after “maintained schools” insert “ or Academies ”;
 - (b) for “A14 to A16” substitute “ A13A to A16 ”.
 
-**10.**[^key-0f78e6176d8ba710708754b179dba9a2] After paragraph A13, insert—
+**10.**[^c-0f78e6176d8ba710708754b179dba9a2] After paragraph A13, insert—
 
 > **A13A.** (1) This paragraph applies to a disposal of land to which sub-paragraph (1), (2) or (3) of paragraph A13 applies.
 >
@@ -542,15 +542,15 @@ Section 63
 >
 > (9) If the Secretary of State decides to make a direction in respect of the land, the trustees may not dispose of the land except in accordance with the direction.
 
-**11.**[^key-5c0c41727d4b194c49ad35389196d556] In paragraph A14, for sub-paragraphs (1) to (5), substitute—
+**11.**[^c-5c0c41727d4b194c49ad35389196d556] In paragraph A14, for sub-paragraphs (1) to (5), substitute—
 
 > (1) This paragraph applies where trustees receive a notification under paragraph A13A(7)(b) that the Secretary of State has decided not to make a direction in respect of the land.
 
-**12.**[^key-6cfe31e143a26357eed5e4711be9658a] In paragraph A19, before sub-paragraph (1), insert—
+**12.**[^c-6cfe31e143a26357eed5e4711be9658a] In paragraph A19, before sub-paragraph (1), insert—
 
 > (A1) In determining whether, and how, to give notice to the Secretary of State under paragraph A1A, A7A or A13A, a governing body, a foundation body or trustees must have regard to any guidance given from time to time by the Secretary of State.
 
-**13.**[^key-29ca5c9980fd0c2e21983bce5cc30e4e] (1) Paragraph A23 (land required by local authority for certain purposes) is amended as follows.
+**13.**[^c-29ca5c9980fd0c2e21983bce5cc30e4e] (1) Paragraph A23 (land required by local authority for certain purposes) is amended as follows.
 
 (2) For sub-paragraph (4), substitute—
 
@@ -570,7 +570,7 @@ Section 63
 >
 > (6B) If the Secretary of State decides to make a direction under paragraph 12 of Schedule 1 to the Academies Act 2010 in respect of the land, the local authority may not make an application under sub-paragraph (1) for a transfer order in relation to the land.
 
-**14.**[^key-1455a19af55cf350e258f74ab6bea5a6] (1) Paragraph 5 (discontinuance of foundation, voluntary and foundation special schools: land) is amended as follows.
+**14.**[^c-1455a19af55cf350e258f74ab6bea5a6] (1) Paragraph 5 (discontinuance of foundation, voluntary and foundation special schools: land) is amended as follows.
 
 (2) After sub-paragraph (1), insert—
 
@@ -590,7 +590,7 @@ Section 63
 
 (5) In sub-paragraph (5A), in paragraph (b), after “maintained schools” insert “ or Academies ”.
 
-**15.**[^key-1c4a77bf23694f90ad3336d5c1608f7a] (1) Paragraph 7 (disposal of property held by governing body of maintained school on their dissolution) is amended as follows.
+**15.**[^c-1c4a77bf23694f90ad3336d5c1608f7a] (1) Paragraph 7 (disposal of property held by governing body of maintained school on their dissolution) is amended as follows.
 
 (2) In sub-paragraph (1), at the end insert “ other than a dissolution by virtue of paragraph 5(2)(a)(iv) of that Schedule (dissolution following Academy order) ”.
 
@@ -606,11 +606,11 @@ Section 63
 
 ### Other amendments
 
-**16.**[^key-3cae2a35ce85916b9ace137efbb19685] Section 482 of EA 1996 (Academies) is repealed.
+**16.**[^c-3cae2a35ce85916b9ace137efbb19685] Section 482 of EA 1996 (Academies) is repealed.
 
-**17.**[^key-e4cad3fc7d241d34397bad01336f69e7] Schedule 35A to EA 1996 (Academies: land) is repealed.
+**17.**[^c-e4cad3fc7d241d34397bad01336f69e7] Schedule 35A to EA 1996 (Academies: land) is repealed.
 
-**18.**[^key-25e54b6831680dcad19a025abc5dbed0] (1) Section 77 of SSFA 1998 (control of disposals or changes in use of school playing fields) is amended as follows.
+**18.**[^c-25e54b6831680dcad19a025abc5dbed0] (1) Section 77 of SSFA 1998 (control of disposals or changes in use of school playing fields) is amended as follows.
 
 (2) In subsection (2B)—
 
@@ -635,9 +635,9 @@ Section 63
 
 > (4B) On receiving an application for consent under subsection (1) or (3), the Secretary of State may direct that the playing fields, or any part of them, be transferred to a person concerned with the running of an Academy, subject to the payment by that person or the Secretary of State of such sum by way of consideration (if any) as the Secretary of State determines to be appropriate.
 
-**19.**[^key-9d8c94a8a3c7c6ca7af8b57c3646bd17] In section 65 of EA 2002 (Academies), omit subsection (1).
+**19.**[^c-9d8c94a8a3c7c6ca7af8b57c3646bd17] In section 65 of EA 2002 (Academies), omit subsection (1).
 
-**20.**[^key-b5e4d616227f511c735e5f9c4eb322fe] (1) Section 12 of AA 2010 (charitable status of Academy proprietors etc) is amended as follows.
+**20.**[^c-b5e4d616227f511c735e5f9c4eb322fe] (1) Section 12 of AA 2010 (charitable status of Academy proprietors etc) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -655,42 +655,42 @@ Section 63
 
 ## Annotations
 
-[^key-acfbc757b8e0b591856d949942c33905]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/1) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-acfbc757b8e0b591856d949942c33905]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/1) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-2060669b2900da03e35de046b28046c6]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/2) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-2060669b2900da03e35de046b28046c6]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/2) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-2b28117f4fc8a1dcbb8bec02927159cd]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/3) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-2b28117f4fc8a1dcbb8bec02927159cd]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/3) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-9c04f7bd439d375a1b904aabc2e2d2f1]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/4) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-9c04f7bd439d375a1b904aabc2e2d2f1]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/4) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-fd60e7cc4da854170dbb9ca062d84a96]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/5) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-fd60e7cc4da854170dbb9ca062d84a96]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/5) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-2f1e94167b634d5c92b5dd15080965ea]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/6) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-2f1e94167b634d5c92b5dd15080965ea]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/6) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-6007a95bb82d289b160336841bb9d80d]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/7) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-6007a95bb82d289b160336841bb9d80d]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/7) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-24472a2bdb512b4f74e5ba577a634b59]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/8) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-24472a2bdb512b4f74e5ba577a634b59]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/8) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-c02f9df98ba65165326a33a7d3daa504]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/9) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-c02f9df98ba65165326a33a7d3daa504]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/9) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-0f78e6176d8ba710708754b179dba9a2]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/10) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-0f78e6176d8ba710708754b179dba9a2]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/10) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-5c0c41727d4b194c49ad35389196d556]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/11) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-5c0c41727d4b194c49ad35389196d556]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/11) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-6cfe31e143a26357eed5e4711be9658a]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/12) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-6cfe31e143a26357eed5e4711be9658a]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/12) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-29ca5c9980fd0c2e21983bce5cc30e4e]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/13) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-29ca5c9980fd0c2e21983bce5cc30e4e]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/13) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-1455a19af55cf350e258f74ab6bea5a6]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/14) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-1455a19af55cf350e258f74ab6bea5a6]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/14) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-1c4a77bf23694f90ad3336d5c1608f7a]: Commencement: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/15) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-1c4a77bf23694f90ad3336d5c1608f7a]: Commencement: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/15) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-3cae2a35ce85916b9ace137efbb19685]: Commencement: [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/16) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-3cae2a35ce85916b9ace137efbb19685]: Commencement: [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/16) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-e4cad3fc7d241d34397bad01336f69e7]: Commencement: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/17) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-e4cad3fc7d241d34397bad01336f69e7]: Commencement: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/17) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-25e54b6831680dcad19a025abc5dbed0]: Commencement: [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/18) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-25e54b6831680dcad19a025abc5dbed0]: Commencement: [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/18) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-9d8c94a8a3c7c6ca7af8b57c3646bd17]: Commencement: [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/19) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-9d8c94a8a3c7c6ca7af8b57c3646bd17]: Commencement: [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/19) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
 
-[^key-b5e4d616227f511c735e5f9c4eb322fe]: Commencement: [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/20) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))
+[^c-b5e4d616227f511c735e5f9c4eb322fe]: Commencement: [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/20) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5))

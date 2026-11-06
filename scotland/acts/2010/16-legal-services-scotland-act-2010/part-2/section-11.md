@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Request for authorisation[^key-6d1f3d572e781a831b8966535ac13ede]
+## 11. Request for authorisation[^c-6d1f3d572e781a831b8966535ac13ede]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d1f3d572e781a831b8966535ac13ede]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/16/section/11) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-6d1f3d572e781a831b8966535ac13ede]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/16/section/11) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

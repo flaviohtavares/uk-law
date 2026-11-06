@@ -27,14 +27,14 @@ summary: ''
 - “**enactment**” includes any provision of subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)), and references to enactments include enactments passed or made after the passing of this Act,
 - “**employed**” means employed whether under a contract of service or a contract for services or otherwise, and whether for remuneration or not,
 - “**functions to which this Part applies**” has the meaning given by section 195(4),
-- “health service provider” , “public health service contractor”[^key-7ce28b66696b5f7dda1e4ad8628f2e88] and “NHS contractor” have the meaning given by section 196,
+- “health service provider” , “public health service contractor”[^c-7ce28b66696b5f7dda1e4ad8628f2e88] and “NHS contractor” have the meaning given by section 196,
 - “NHS body” must be construed in accordance with section 196,
 - “**personal records**” has the meaning given by section 12 of the Police and Criminal Evidence Act 1984 (c. 60),
 - “**statutory health body**” has the meaning given by section 196.
 
 (2) References in this Part to the provision of services—
 
-- (a) in relation to the Secretary of State, local authorities,[^key-117daa47544eddbac857b61d201b8c63] statutory health bodies, health service providers , public health service contractors[^key-51ec3fa2deb1929457383386ba858faf] or NHS contractors, include references to the provision of goods or facilities, and
+- (a) in relation to the Secretary of State, local authorities,[^c-117daa47544eddbac857b61d201b8c63] statutory health bodies, health service providers , public health service contractors[^c-51ec3fa2deb1929457383386ba858faf] or NHS contractors, include references to the provision of goods or facilities, and
 - (b) include references to the provision of services (or goods or facilities) wherever that takes place.
 
 (3) References in this Part to the health service are references to the health service in England.
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7ce28b66696b5f7dda1e4ad8628f2e88]: Textual amendment: Words in s. 210(1) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 107(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/107/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7ce28b66696b5f7dda1e4ad8628f2e88]: Textual amendment: Words in s. 210(1) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 107(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/107/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-117daa47544eddbac857b61d201b8c63]: Textual amendment: Words in s. 210(2)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 107(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/107/3/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-117daa47544eddbac857b61d201b8c63]: Textual amendment: Words in s. 210(2)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 107(3)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/107/3/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-51ec3fa2deb1929457383386ba858faf]: Textual amendment: Words in s. 210(2)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 107(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/107/3/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-51ec3fa2deb1929457383386ba858faf]: Textual amendment: Words in s. 210(2)(a) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 107(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/107/3/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

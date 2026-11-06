@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21.5. Award against legal representatives[^key-48233c453df10d5c181267eb820514c8]
+## 21.5. Award against legal representatives[^c-48233c453df10d5c181267eb820514c8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Section 8(2) of the 2018 Act does not prevent the Court from making an award of 
 
 ## Annotations
 
-[^key-48233c453df10d5c181267eb820514c8]: Commencement: Para. 21.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-48233c453df10d5c181267eb820514c8]: Commencement: Para. 21.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

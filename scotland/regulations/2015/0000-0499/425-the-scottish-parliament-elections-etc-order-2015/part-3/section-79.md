@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Savings as to Scottish parliamentary elections[^key-cc4ae83f6238c72b1c7b79fdad9f0473]
+## 79. Savings as to Scottish parliamentary elections[^c-cc4ae83f6238c72b1c7b79fdad9f0473]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ but this paragraph shall not be construed as making illegal any act which would 
 
 ## Annotations
 
-[^key-cc4ae83f6238c72b1c7b79fdad9f0473]: Commencement: Art. 79 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-cc4ae83f6238c72b1c7b79fdad9f0473]: Commencement: Art. 79 in force at 16.12.2015 in accordance with art. 1(1)

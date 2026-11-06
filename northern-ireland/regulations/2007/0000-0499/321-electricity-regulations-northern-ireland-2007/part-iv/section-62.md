@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Interpretation[^key-4e07494308a753a80fdf1438d7496ead]
+## 62. Interpretation[^c-4e07494308a753a80fdf1438d7496ead]
 
 *Extent: N.I.*
 
 In this Part expressions which are also used in the 1992 Order as it had effect before the coming into operation of regulation 4 shall have the same meaning as in that Order.
 
-**63.**[^key-27e5528d88cc9b5cafcdd7ab69e68906] (1) References in any statutory provision to public electricity suppliers shall have effect after the coming into operation of regulation 4 as if they were references to—
+**63.**[^c-27e5528d88cc9b5cafcdd7ab69e68906] (1) References in any statutory provision to public electricity suppliers shall have effect after the coming into operation of regulation 4 as if they were references to—
 
 - (a) electricity suppliers;
 - (b) electricity distributors; or
@@ -42,6 +42,6 @@ within the meaning of the 1992 Order according to the nature of the activities t
 
 ## Annotations
 
-[^key-4e07494308a753a80fdf1438d7496ead]: Commencement: Reg. 62 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-4e07494308a753a80fdf1438d7496ead]: Commencement: Reg. 62 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
-[^key-27e5528d88cc9b5cafcdd7ab69e68906]: Commencement: Reg. 63 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-27e5528d88cc9b5cafcdd7ab69e68906]: Commencement: Reg. 63 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

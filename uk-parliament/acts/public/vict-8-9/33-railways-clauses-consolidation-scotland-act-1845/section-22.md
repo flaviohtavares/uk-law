@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. When railway crosses pipes, company to make a culvert.[^key-46acb601145c4728e99181e4bd1f70dc]
+## 22. When railway crosses pipes, company to make a culvert.[^c-46acb601145c4728e99181e4bd1f70dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If it shall be necessary to construct the railway or any of the works over any m
 
 ## Annotations
 
-[^key-46acb601145c4728e99181e4bd1f70dc]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/22) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-46acb601145c4728e99181e4bd1f70dc]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/22) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)

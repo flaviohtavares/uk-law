@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Public functions: duties to provide information: further provision[^key-0d80ac29226e11c657ab43320669406d]
+## 34. Public functions: duties to provide information: further provision[^c-0d80ac29226e11c657ab43320669406d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d80ac29226e11c657ab43320669406d]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/8/section/34) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-0d80ac29226e11c657ab43320669406d]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/8/section/34) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)

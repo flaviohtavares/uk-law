@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297.[^key-30475a4a8312f75577753d34e6952be9]
+## 297.[^c-30475a4a8312f75577753d34e6952be9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In the Annex—
 
 ## Annotations
 
-[^key-30475a4a8312f75577753d34e6952be9]: Commencement: Reg. 297 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-30475a4a8312f75577753d34e6952be9]: Commencement: Reg. 297 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

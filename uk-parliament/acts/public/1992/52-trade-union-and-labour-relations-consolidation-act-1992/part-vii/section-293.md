@@ -24,7 +24,7 @@ summary: ''
 
 (2) The regulations may contain such incidental, supplementary or transitional provisions as appear to the Secretary of State to be necessary or expedient.
 
-(3)[^key-d264434e64728f6523b0588010847863] Regulations under this section are to be made by statutory instrument.
+(3)[^c-d264434e64728f6523b0588010847863] Regulations under this section are to be made by statutory instrument.
 
 (4) A statutory instrument containing regulations to which subsection (5) applies (whether alone or with other provision) may not be made unless a draft of the instrument is laid before and approved by a resolution of each House of Parliament.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d264434e64728f6523b0588010847863]: Textual amendment: [S. 293(3)-(6)](https://www.legislation.gov.uk/ukpga/1992/52/section/293/3) substituted for [s. 293(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/293/3) (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 88](https://www.legislation.gov.uk/ukpga/2025/36/section/88), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(24)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/24)
+[^c-d264434e64728f6523b0588010847863]: Textual amendment: [S. 293(3)-(6)](https://www.legislation.gov.uk/ukpga/1992/52/section/293/3) substituted for [s. 293(3)](https://www.legislation.gov.uk/ukpga/1992/52/section/293/3) (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 88](https://www.legislation.gov.uk/ukpga/2025/36/section/88), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(24)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/24)

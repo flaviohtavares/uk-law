@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53A. Lapse of initial notice[^key-70ebcd87a26023c38b21affcebb5a157]
+## 53A. Lapse of initial notice[^c-70ebcd87a26023c38b21affcebb5a157]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70ebcd87a26023c38b21affcebb5a157]: Textual amendment: [S. 53A](https://www.legislation.gov.uk/ukpga/1984/55/section/53A) inserted (6.4.2023 for specified purposes except in relation to W., 5.9.2023 for W. for specified purposes, 1.10.2023 in so far as not already in force except in relation to W., 1.7.2026 for W. in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 36(7)](https://www.legislation.gov.uk/ukpga/2022/30/section/36/7), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(o)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/o); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(iii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/iii); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2023/993/regulation/3), [5](https://www.legislation.gov.uk/uksi/2023/993/regulation/5)); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/b)
+[^c-70ebcd87a26023c38b21affcebb5a157]: Textual amendment: [S. 53A](https://www.legislation.gov.uk/ukpga/1984/55/section/53A) inserted (6.4.2023 for specified purposes except in relation to W., 5.9.2023 for W. for specified purposes, 1.10.2023 in so far as not already in force except in relation to W., 1.7.2026 for W. in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 36(7)](https://www.legislation.gov.uk/ukpga/2022/30/section/36/7), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(o)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/o); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(iii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/iii); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2023/993/regulation/3), [5](https://www.legislation.gov.uk/uksi/2023/993/regulation/5)); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/b)

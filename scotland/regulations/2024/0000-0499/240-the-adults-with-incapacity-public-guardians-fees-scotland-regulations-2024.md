@@ -32,7 +32,7 @@ summary: ''
 
 Adults With Incapacity
 
-The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2024 (revoked)[^key-5ac8522da58e01486d85d2e028fe2b7b]
+The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2024 (revoked)[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st November 2024
 
-[^key-5ac8522da58e01486d85d2e028fe2b7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ac8522da58e01486d85d2e028fe2b7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5ac8522da58e01486d85d2e028fe2b7b]
+## 1. Citation, commencement and interpretation[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable to the Public Guardian[^key-5ac8522da58e01486d85d2e028fe2b7b]
+## 2. Fees payable to the Public Guardian[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of certain persons from fees: legal aid[^key-5ac8522da58e01486d85d2e028fe2b7b]
+## 3. Exemption of certain persons from fees: legal aid[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: social security[^key-5ac8522da58e01486d85d2e028fe2b7b]
+## 4. Exemption of certain persons from fees: social security[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-5ac8522da58e01486d85d2e028fe2b7b]
+## 5. Revocation[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5ac8522da58e01486d85d2e028fe2b7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ac8522da58e01486d85d2e028fe2b7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF FEES[^key-5ac8522da58e01486d85d2e028fe2b7b]
+## SCHEDULE — TABLE OF FEES[^c-5ac8522da58e01486d85d2e028fe2b7b]
 
 Regulation 2
 
@@ -82,8 +82,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-5ac8522da58e01486d85d2e028fe2b7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ac8522da58e01486d85d2e028fe2b7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5ac8522da58e01486d85d2e028fe2b7b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/240) revoked (1.4.2026) by [The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2026 (S.S.I. 2026/81)](https://www.legislation.gov.uk/ssi/2026/81), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2026/81/regulation/5)
+[^c-5ac8522da58e01486d85d2e028fe2b7b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/240) revoked (1.4.2026) by [The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2026 (S.S.I. 2026/81)](https://www.legislation.gov.uk/ssi/2026/81), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2026/81/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Transition from other incapacity benefits: supplementary[^key-b180fab3107d0db74831659616a6a993]
+## 26. Transition from other incapacity benefits: supplementary[^c-b180fab3107d0db74831659616a6a993]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b180fab3107d0db74831659616a6a993]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/226/regulation/26) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-b180fab3107d0db74831659616a6a993]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/226/regulation/26) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Decisions by the Welsh Ministers on applications for consent to market genetically modified organisms[^key-7be5c158882f93f5dfacc5a07ab9eb00]
+## 25. Decisions by the Welsh Ministers on applications for consent to market genetically modified organisms[^c-7be5c158882f93f5dfacc5a07ab9eb00]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ must end at the latest ten years after the date of the first inclusion of the fi
 
 ## Annotations
 
-[^key-7be5c158882f93f5dfacc5a07ab9eb00]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2002/3188/regulation/25) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [2(10)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7be5c158882f93f5dfacc5a07ab9eb00]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2002/3188/regulation/25) substituted (31.12.2020) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/3), [2(10)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

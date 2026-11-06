@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Application of landlord and tenant law[^key-c44fd4757a261694643ea973fbe67542]
+## 36. Application of landlord and tenant law[^c-c44fd4757a261694643ea973fbe67542]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-c44fd4757a261694643ea973fbe67542]: Commencement: Art. 36 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-c44fd4757a261694643ea973fbe67542]: Commencement: Art. 36 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

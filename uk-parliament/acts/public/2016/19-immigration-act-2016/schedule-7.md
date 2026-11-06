@@ -22,9 +22,9 @@ summary: ''
 
 Section 45
 
-**1.**[^key-9cf4cd019f131b45d4a8e1708e8874ba][^key-778fe2f122b2c7a04d21748792f50a92] The Immigration Act 2014 is amended as follows.
+**1.**[^c-9cf4cd019f131b45d4a8e1708e8874ba][^c-778fe2f122b2c7a04d21748792f50a92] The Immigration Act 2014 is amended as follows.
 
-**2.**[^key-ceeca1680b2e49fa1e152e3eb5abe8b6][^key-27ed958428509bf177faf72eeec32e26] After section 40 (prohibition on opening current accounts for disqualified persons) insert—
+**2.**[^c-ceeca1680b2e49fa1e152e3eb5abe8b6][^c-27ed958428509bf177faf72eeec32e26] After section 40 (prohibition on opening current accounts for disqualified persons) insert—
 
 > **40A. Requirement to carry out immigration checks in relation to current accounts**
 >
@@ -189,28 +189,28 @@ Section 45
 >
 > (5) References to an account being operated by or for a person or body are to be read in accordance with section 40A(5).
 
-**3.**[^key-20217a90479b1a42ea1a5ab814920ca2][^key-80289cb640347ecfbcf714127cd94279] (1) Section 41 (regulation by Financial Conduct Authority) is amended as follows.
+**3.**[^c-20217a90479b1a42ea1a5ab814920ca2][^c-80289cb640347ecfbcf714127cd94279] (1) Section 41 (regulation by Financial Conduct Authority) is amended as follows.
 
 (2) In subsection (1), at the end insert “ and the requirements imposed on them by sections 40A, 40B and 40G ”.
 
 (3) In subsection (2)(a), at the end insert “ or immigration checks under section 40A ”.
 
-**4.**[^key-037c3b833df586ad0f652c5f061587d7][^key-71561faed7841ccb492dd41eb44a42ef] In section 42 (meaning of “**bank**” and “**building society**”), in subsections (1) and (5), for “and 41” substitute “ to 41 ”.
+**4.**[^c-037c3b833df586ad0f652c5f061587d7][^c-71561faed7841ccb492dd41eb44a42ef] In section 42 (meaning of “**bank**” and “**building society**”), in subsections (1) and (5), for “and 41” substitute “ to 41 ”.
 
-**5.**[^key-03eaefc95049400e8385bca41bfb1470][^key-5aa91a2fbc6eafa5c6ffe986a4eb25d5] (1) Section 43 (power to amend) is amended as follows.
+**5.**[^c-03eaefc95049400e8385bca41bfb1470][^c-5aa91a2fbc6eafa5c6ffe986a4eb25d5] (1) Section 43 (power to amend) is amended as follows.
 
 (2) In subsection (1)(b), after “40(1)” insert “ or the requirement in section 40A(1) ”.
 
 (3) In subsection (1)(c), for “that section” substitute “ section 40 or 40A ”.
 
-**6.**[^key-a10ca67571c2198d662277d78fe8f632][^key-b14662e3dfa58d9ff99ca6a0dd217efc] In section 74 (orders and regulations), in subsection (2) (statutory instruments to which the affirmative resolution procedure applies), after paragraph (b) insert—
+**6.**[^c-a10ca67571c2198d662277d78fe8f632][^c-b14662e3dfa58d9ff99ca6a0dd217efc] In section 74 (orders and regulations), in subsection (2) (statutory instruments to which the affirmative resolution procedure applies), after paragraph (b) insert—
 
 > - (ba) regulations under section 40A(4);
 > - (bb) regulations under section 40B;
 
 .
 
-**7.**[^key-3d3bce0a06fee9e6cad722d9fa51a305][^key-6c4e45f0e6bd275f26a10aa2a65eab94] (1) Section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of UK judgments in other parts of UK) is amended as follows.
+**7.**[^c-3d3bce0a06fee9e6cad722d9fa51a305][^c-6c4e45f0e6bd275f26a10aa2a65eab94] (1) Section 18 of the Civil Jurisdiction and Judgments Act 1982 (enforcement of UK judgments in other parts of UK) is amended as follows.
 
 (2) In subsection (3), for “subsection (4)” substitute “ subsections (4) and (4ZA) ”.
 
@@ -220,30 +220,30 @@ Section 45
 
 ## Annotations
 
-[^key-9cf4cd019f131b45d4a8e1708e8874ba]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-9cf4cd019f131b45d4a8e1708e8874ba]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-778fe2f122b2c7a04d21748792f50a92]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/1) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-778fe2f122b2c7a04d21748792f50a92]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/1) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-ceeca1680b2e49fa1e152e3eb5abe8b6]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/2) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-ceeca1680b2e49fa1e152e3eb5abe8b6]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/2) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-27ed958428509bf177faf72eeec32e26]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/2) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-27ed958428509bf177faf72eeec32e26]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/2) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-20217a90479b1a42ea1a5ab814920ca2]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-20217a90479b1a42ea1a5ab814920ca2]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-80289cb640347ecfbcf714127cd94279]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-80289cb640347ecfbcf714127cd94279]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/3) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-037c3b833df586ad0f652c5f061587d7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/4) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-037c3b833df586ad0f652c5f061587d7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/4) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-71561faed7841ccb492dd41eb44a42ef]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/4) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-71561faed7841ccb492dd41eb44a42ef]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/4) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-03eaefc95049400e8385bca41bfb1470]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/5) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-03eaefc95049400e8385bca41bfb1470]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/5) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-5aa91a2fbc6eafa5c6ffe986a4eb25d5]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/5) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-5aa91a2fbc6eafa5c6ffe986a4eb25d5]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/5) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-a10ca67571c2198d662277d78fe8f632]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/6) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-a10ca67571c2198d662277d78fe8f632]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/6) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-b14662e3dfa58d9ff99ca6a0dd217efc]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/6) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-b14662e3dfa58d9ff99ca6a0dd217efc]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/6) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-3d3bce0a06fee9e6cad722d9fa51a305]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/7) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
+[^c-3d3bce0a06fee9e6cad722d9fa51a305]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/7) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d)
 
-[^key-6c4e45f0e6bd275f26a10aa2a65eab94]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/7) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-6c4e45f0e6bd275f26a10aa2a65eab94]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/7) in force at 30.10.2017 in so far as not already in force by [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Testing of sight[^key-9a9c3b25318104e6d7cc12dd3302a2e0]
+## 19. Testing of sight[^c-9a9c3b25318104e6d7cc12dd3302a2e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a9c3b25318104e6d7cc12dd3302a2e0]: Commencement: Art. 19 comes into force in accordance with art. 1(3)-(6)
+[^c-9a9c3b25318104e6d7cc12dd3302a2e0]: Commencement: Art. 19 comes into force in accordance with art. 1(3)-(6)

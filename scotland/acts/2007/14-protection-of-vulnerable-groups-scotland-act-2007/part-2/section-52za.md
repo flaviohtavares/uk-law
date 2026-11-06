@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52ZA. Procedure following correction of inaccurate scheme record[^key-9f4db4cbf289fbc953075194369a7348]
+## 52ZA. Procedure following correction of inaccurate scheme record[^c-9f4db4cbf289fbc953075194369a7348]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f4db4cbf289fbc953075194369a7348]: Textual amendment: [S. 52ZA](https://www.legislation.gov.uk/asp/2007/14/section/52ZA) repealed (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 5(5)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5/5) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-9f4db4cbf289fbc953075194369a7348]: Textual amendment: [S. 52ZA](https://www.legislation.gov.uk/asp/2007/14/section/52ZA) repealed (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 5(5)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/5/5) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

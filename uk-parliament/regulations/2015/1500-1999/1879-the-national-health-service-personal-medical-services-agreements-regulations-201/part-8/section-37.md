@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-5a620b63b0dc6e7cc957f866968969f4] Subject to paragraph (2), a contractor may not employ or engage a medical practitioner unless the contractor has checked that the practitioner meets the requirements of—
+(1)[^c-5a620b63b0dc6e7cc957f866968969f4] Subject to paragraph (2), a contractor may not employ or engage a medical practitioner unless the contractor has checked that the practitioner meets the requirements of—
 
 - (a) regulation 33; and
 - (b) regulation 36.
@@ -32,10 +32,10 @@ summary: ''
 
 the contractor may employ or engage the practitioner on a temporary basis for a single period of up to seven days while such checks are undertaken.
 
-(3)[^key-345e4b52815d3ae7d3f979a15d5f069f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-345e4b52815d3ae7d3f979a15d5f069f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a620b63b0dc6e7cc957f866968969f4]: Textual amendment: [Reg. 37(1)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/37/1) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/2/2/a)
+[^c-5a620b63b0dc6e7cc957f866968969f4]: Textual amendment: [Reg. 37(1)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/37/1) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/2/2/a)
 
-[^key-345e4b52815d3ae7d3f979a15d5f069f]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/37/3) omitted (27.5.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/2/2/b)
+[^c-345e4b52815d3ae7d3f979a15d5f069f]: Textual amendment: [Reg. 37(3)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/37/3) omitted (27.5.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/2/2/b)

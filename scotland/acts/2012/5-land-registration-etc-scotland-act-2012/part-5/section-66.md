@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Shifting boundaries[^key-85f8463091dfd8cbbdab58b89add3513]
+## 66. Shifting boundaries[^c-85f8463091dfd8cbbdab58b89add3513]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85f8463091dfd8cbbdab58b89add3513]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2012/5/section/66) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-85f8463091dfd8cbbdab58b89add3513]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2012/5/section/66) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

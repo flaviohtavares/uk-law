@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Revocations[^key-59ea2958235346efc7904403177e5556]
+## 95. Revocations[^c-59ea2958235346efc7904403177e5556]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The statutory provisions listed in Schedule 2 are revoked to the extent there sp
 
 ## Annotations
 
-[^key-59ea2958235346efc7904403177e5556]: Commencement: Art. 95 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-59ea2958235346efc7904403177e5556]: Commencement: Art. 95 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Building warrants: limited life buildings[^key-64a9a333b337526590d677b8fff06c25]
+## 14. Building warrants: limited life buildings[^c-64a9a333b337526590d677b8fff06c25]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-64a9a333b337526590d677b8fff06c25]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2003/8/section/14) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-64a9a333b337526590d677b8fff06c25]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2003/8/section/14) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

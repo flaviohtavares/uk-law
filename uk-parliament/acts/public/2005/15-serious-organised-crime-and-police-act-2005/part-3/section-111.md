@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Powers of arrest: supplementary[^key-40f259abb50a44875cb3e8c8f583148c]
+## 111. Powers of arrest: supplementary[^c-40f259abb50a44875cb3e8c8f583148c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7, which supplements section 110 by providing for the repeal of certain
 
 ## Annotations
 
-[^key-40f259abb50a44875cb3e8c8f583148c]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
+[^c-40f259abb50a44875cb3e8c8f583148c]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)

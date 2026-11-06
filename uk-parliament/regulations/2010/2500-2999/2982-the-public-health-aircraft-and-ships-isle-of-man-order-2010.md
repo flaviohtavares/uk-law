@@ -47,32 +47,32 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 76 of the Public Health (Control of Disease) Act 1984[^f00001], by and with the advice of Her Privy Council, makes the following Order:
 
-## 1. Citation and commencement[^key-ee9e3f3fb54e0122843928a873868145]
+## 1. Citation and commencement[^c-ee9e3f3fb54e0122843928a873868145]
 
 This Order may be cited as the Public Health (Aircraft and Ships) (Isle of Man) Order 2010 and shall come into force on 1st February 2011.
 
-## 2. Interpretation[^key-7c3eccd996fc1dc17fbdd28a2997eeec]
+## 2. Interpretation[^c-7c3eccd996fc1dc17fbdd28a2997eeec]
 
 In this Order—
 
 - “the Aircraft Regulations” means the Public Health (Aircraft) Regulations 1979 as they apply in relation to England[^f00002];
 - “the Ships Regulations” means the Public Health (Ships) Regulations 1979 as they apply in relation to England[^f00003].
 
-## 3. Extension of the Aircraft Regulations to the Isle of Man[^key-a2537ed6974a9a0cddea147b7df70da9]
+## 3. Extension of the Aircraft Regulations to the Isle of Man[^c-a2537ed6974a9a0cddea147b7df70da9]
 
 The Aircraft Regulations shall extend to the Isle of Man subject to—
 
 - (a) the general modifications in article 5; and
 - (b) the specific modifications, additions and omissions in Schedule 1.
 
-## 4. Extension of the Ships Regulations to the Isle of Man[^key-fc83b171428d0d62669c7850e3ed5017]
+## 4. Extension of the Ships Regulations to the Isle of Man[^c-fc83b171428d0d62669c7850e3ed5017]
 
 The Ships Regulations shall extend to the Isle of Man subject to—
 
 - (a) the general modifications in article 5; and
 - (b) the specific modifications, additions and omissions in Schedule 2.
 
-## 5. General modifications[^key-0a4e03f1719860c2a42cb66d1044f030]
+## 5. General modifications[^c-0a4e03f1719860c2a42cb66d1044f030]
 
 In this Order any reference—
 
@@ -87,9 +87,9 @@ Clerk to the Privy Council
 
 Article 3
 
-**1.**[^key-2e4d51fb48be58c678f86f3c3da3d938] For “a customs airport”, wherever occurring, substitute “Ronaldsway aerodrome”.
+**1.**[^c-2e4d51fb48be58c678f86f3c3da3d938] For “a customs airport”, wherever occurring, substitute “Ronaldsway aerodrome”.
 
-**2.**[^key-ed578d13b320c7a322ced66fb6fcde7a] In regulation 2(1) (interpretation)—
+**2.**[^c-ed578d13b320c7a322ced66fb6fcde7a] In regulation 2(1) (interpretation)—
 
 - (a) in the definition of “animals” for “Article 2(1) of the Rabies (Control) Order 1974” substitute—
 
@@ -126,9 +126,9 @@ Article 3
 - (h) omit the definition of “responsible authority”;
 - (i) omit the definition of “Secretary of State”.
 
-**3.**[^key-a153d6a3977820b74c71cadc82284de9] In regulation 3 after “Visiting Forces Act 1952” insert “(as that Act has effect in the Isle of Man)[^f00009]”.
+**3.**[^c-a153d6a3977820b74c71cadc82284de9] In regulation 3 after “Visiting Forces Act 1952” insert “(as that Act has effect in the Isle of Man)[^f00009]”.
 
-**4.**[^key-3503c3ea5d27ae1f7bea500dd6c97464] For regulation 4 (enforcement and execution of regulations) substitute—
+**4.**[^c-3503c3ea5d27ae1f7bea500dd6c97464] For regulation 4 (enforcement and execution of regulations) substitute—
 
 > **4.** These Regulations shall be enforced and executed by—
 >
@@ -141,7 +141,7 @@ Article 3
 
 .
 
-**5.**[^key-6c7c52fc6f65854dd6298b9450299bec] (1) Regulation 5 (appointment and duties of authorised officers and provision of services by responsible authorities) is modified as follows.
+**5.**[^c-6c7c52fc6f65854dd6298b9450299bec] (1) Regulation 5 (appointment and duties of authorised officers and provision of services by responsible authorities) is modified as follows.
 
 (2) In the heading, omit “by responsible authorities”.
 
@@ -159,12 +159,12 @@ Article 3
 
 .
 
-**6.**[^key-44c615453c528682dfaafb6b72835e12] In regulation 8 (examination, etc, of persons on aircraft)—
+**6.**[^c-44c615453c528682dfaafb6b72835e12] In regulation 8 (examination, etc, of persons on aircraft)—
 
 - (a) in paragraph (1) for “Secretary of State” substitute “Department”; and
 - (b) omit paragraph (6).
 
-**7.**[^key-84b40ec7a4bcea1e4c3b94c20bee67a6] (1) Regulation 9 (power in respect of persons leaving aircraft) is amended as follows.
+**7.**[^c-84b40ec7a4bcea1e4c3b94c20bee67a6] (1) Regulation 9 (power in respect of persons leaving aircraft) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -177,7 +177,7 @@ Article 3
 
 (3) In paragraph (2) for “Secretary of State” (in both places) substitute “Department”.
 
-**8.**[^key-df762ffcbc75bbb4a43f66a5eb0451e1] In regulation 12 (notification of infectious disease, etc, on board)—
+**8.**[^c-df762ffcbc75bbb4a43f66a5eb0451e1] In regulation 12 (notification of infectious disease, etc, on board)—
 
 - (a) in paragraph (1B) for “the first customs airport at which the aircraft is due to land” substitute “Ronaldsway aerodrome”;
 - (b) for paragraph (1C) substitute—
@@ -191,14 +191,14 @@ Article 3
 - (c) in paragraph (3) for “the customs airport” substitute “Ronaldsway aerodrome”; and
 - (d) in paragraph (4) for “owner or manager of an aerodrome or any person deputed to act on his behalf,” substitute “director, or deputy director, of Ronaldsway aerodrome”.
 
-**9.**[^key-10707faeba066db7eb0d25c2b0fea774] In regulation 14 (detention of aircraft)—
+**9.**[^c-10707faeba066db7eb0d25c2b0fea774] In regulation 14 (detention of aircraft)—
 
 - (a) in paragraph (1) for “United Kingdom” substitute “Isle of Man”;
 - (b) in paragraph (2) for “person in charge of the customs airport” substitute “director, or deputy director, of Ronaldsway aerodrome”.
 
-**10.**[^key-162452170c4097893b12e48f12716a9f] In regulation 19 (release of aircraft) for “person in charge of the customs airport” substitute “director of public health”.
+**10.**[^c-162452170c4097893b12e48f12716a9f] In regulation 19 (release of aircraft) for “person in charge of the customs airport” substitute “director of public health”.
 
-**11.**[^key-2b5cec3e4430cf0089868af66cb1aef3] (1) Regulation 22 (removal to airport able to apply measures) is modified as follows.
+**11.**[^c-2b5cec3e4430cf0089868af66cb1aef3] (1) Regulation 22 (removal to airport able to apply measures) is modified as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -218,7 +218,7 @@ Article 3
 
 (3) In paragraph (2) for “paragraph (1)” substitute “paragraph (1A)”.
 
-**12.**[^key-d4b0970d784895fd34f06a6b49a0b602] (1) Regulation 25 (aircraft alighting elsewhere than a customs airport) is modified as follows.
+**12.**[^c-d4b0970d784895fd34f06a6b49a0b602] (1) Regulation 25 (aircraft alighting elsewhere than a customs airport) is modified as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -242,11 +242,11 @@ Article 3
 
 (3) In paragraph (2) for “medical officer of the responsible authority for the place at which he left the aircraft” substitute “director of public health”.
 
-**13.**[^key-a8c4acbfe001ed117037149407ae0f86] In regulation 26(c) and (d) (saving for certain aircraft) for “Secretary of State” substitute “Department”.
+**13.**[^c-a8c4acbfe001ed117037149407ae0f86] In regulation 26(c) and (d) (saving for certain aircraft) for “Secretary of State” substitute “Department”.
 
-**14.**[^key-b19de13ea3cde883fe2d44d3848a40c2] In regulation 27 (examination, etc, of persons proposing to embark) for “United Kingdom” substitute “Isle of Man”.
+**14.**[^c-b19de13ea3cde883fe2d44d3848a40c2] In regulation 27 (examination, etc, of persons proposing to embark) for “United Kingdom” substitute “Isle of Man”.
 
-**15.**[^key-58e8943891293d70c5c4e8ea41bc8766] (1) Regulation 28 (infected places) is modified as follows.
+**15.**[^c-58e8943891293d70c5c4e8ea41bc8766] (1) Regulation 28 (infected places) is modified as follows.
 
 (2) In the text preceding paragraph (a)—
 
@@ -265,7 +265,7 @@ Article 3
 
 .
 
-**16.**[^key-4387a3271c4278e6289b8fc0a1cc87c0] For regulation 31 (which concerns persons placed under surveillance) substitute—
+**16.**[^c-4387a3271c4278e6289b8fc0a1cc87c0] For regulation 31 (which concerns persons placed under surveillance) substitute—
 
 > **31.** Every person who is placed under surveillance under these regulations shall—
 >
@@ -275,37 +275,37 @@ Article 3
 
 .
 
-**17.**[^key-57d2ade647685862d4d7fe89ea196d7f] In regulation 32 (charges for services) for “a responsible authority” (wherever occurring) substitute “the Department” and similarly, for “A responsible authority” (wherever occurring) substitute “The Department”.
+**17.**[^c-57d2ade647685862d4d7fe89ea196d7f] In regulation 32 (charges for services) for “a responsible authority” (wherever occurring) substitute “the Department” and similarly, for “A responsible authority” (wherever occurring) substitute “The Department”.
 
-**18.**[^key-31bfff8dfb1860e9bf15a8fc64793624] In regulation 34 (expenses of health authorities)—
+**18.**[^c-31bfff8dfb1860e9bf15a8fc64793624] In regulation 34 (expenses of health authorities)—
 
 - (a) in the heading, for “health authorities” substitute “the Department”;
 - (b) for “a responsible authority” substitute “the Department”;
 - (c) for “them” substitute “it”; and
 - (d) for “their” substitute “its”.
 
-**19.**[^key-3ea6232b95d9c53f35cf72fedd125d54] In regulation 36(3) (saving for aircraft unwilling to comply with these regulations) for “England and Wales” substitute “the Isle of Man”.
+**19.**[^c-3ea6232b95d9c53f35cf72fedd125d54] In regulation 36(3) (saving for aircraft unwilling to comply with these regulations) for “England and Wales” substitute “the Isle of Man”.
 
-**20.**[^key-4873363161398dac41398ff653c75abc] For regulation 37 (saving for existing enactments) substitute—
+**20.**[^c-4873363161398dac41398ff653c75abc] For regulation 37 (saving for existing enactments) substitute—
 
 > **37.** Nothing in these regulations shall affect the Immigration Act 1971 (as that Act has effect in the Isle of Man)[^f00010].
 
 .
 
-**21.**[^key-46b0785c9eccc0fa34292e8fae3f0bbd] Omit regulation 38 and Schedule 4 (revocations).
+**21.**[^c-46b0785c9eccc0fa34292e8fae3f0bbd] Omit regulation 38 and Schedule 4 (revocations).
 
 ## SCHEDULE 2 — Modification of the Ships Regulations
 
 Article 4
 
-**1.**[^key-38e33a2545ab18c8d7f806e2280013c1] In regulation 2(1) (interpretation)—
+**1.**[^c-38e33a2545ab18c8d7f806e2280013c1] In regulation 2(1) (interpretation)—
 
 - (a) in the definition of “animals” for “Article 2(1) of the Rabies (Control) Order 1974” substitute—
 
   > article 2 of the Isle of Man’s Rabies (Control) Order 1976[^f00011]
 
   ;
-- (b)[^key-191062c8b823cabbd43ab11cdd546dea] for the definition of “arrival” substitute—
+- (b)[^c-191062c8b823cabbd43ab11cdd546dea] for the definition of “arrival” substitute—
   - “arrival”, in relation to a ship, means the entry within the limits of jurisdiction of the Isle of Man of a ship which has not during its voyage or since it last—
     - (a) called at a port outside the Isle of Man;
     - (b) met with an offshore installation; or
@@ -353,9 +353,9 @@ Article 4
   ;
 - (m) omit the definition of “Secretary of State”.
 
-**2.**[^key-5c42f3352ca4b1229215b1e9f9751a05] In regulation 3(1) (application of Regulations to ships of Her Majesty’s armed forces) after “Visiting Forces Act 1952” insert “(as that Act has effect in the Isle of Man)[^f00018]”.
+**2.**[^c-5c42f3352ca4b1229215b1e9f9751a05] In regulation 3(1) (application of Regulations to ships of Her Majesty’s armed forces) after “Visiting Forces Act 1952” insert “(as that Act has effect in the Isle of Man)[^f00018]”.
 
-**3.**[^key-6e5ef5e489aa689c2685d9e7109ddd6b] For regulation 4 (enforcement and execution of regulations) substitute—
+**3.**[^c-6e5ef5e489aa689c2685d9e7109ddd6b] For regulation 4 (enforcement and execution of regulations) substitute—
 
 > **4.** These Regulations shall be enforced and executed by—
 >
@@ -368,7 +368,7 @@ Article 4
 
 .
 
-**4.**[^key-92884dda0f7dca4a5098b9d0c43c2ecc] (1) Regulation 5 (appointment and duties of authorised officers and provision of services by local authorities) is modified as follows.
+**4.**[^c-92884dda0f7dca4a5098b9d0c43c2ecc] (1) Regulation 5 (appointment and duties of authorised officers and provision of services by local authorities) is modified as follows.
 
 (2) In the heading, omit “by local authorities”.
 
@@ -386,21 +386,21 @@ Article 4
 
 .
 
-**5.**[^key-2b6a8a8f6887dff99156724c93d3bcef] In regulation 7 (inspection of ships)—
+**5.**[^c-2b6a8a8f6887dff99156724c93d3bcef] In regulation 7 (inspection of ships)—
 
 - (a) in paragraphs (1) and (2)(b) for “district” substitute “Isle of Man”;
 - (b) in paragraph (2)(a) for “local authority” substitute “Department”.
 
-**6.**[^key-26411621ad5ec922292d155c30131758] In regulation 8 (direction of ships) for “district” substitute “Isle of Man”.
+**6.**[^c-26411621ad5ec922292d155c30131758] In regulation 8 (direction of ships) for “district” substitute “Isle of Man”.
 
-**7.**[^key-e7d975e03e514e42dd28c80e0eefb6ee] In regulation 9 (examination, etc., of persons on ships)—
+**7.**[^c-e7d975e03e514e42dd28c80e0eefb6ee] In regulation 9 (examination, etc., of persons on ships)—
 
 - (a) in paragraph (1) for—
   - (i) “Secretary of State” substitute “Department”;
   - (ii) for “district” substitute “Isle of Man”; and
 - (b) omit paragraph (7).
 
-**8.**[^key-fb90575867bcda0e25fcd3a3f5ac93b1] (1) Regulation 10 (powers in respect of certain persons on ships) is amended as follows.
+**8.**[^c-fb90575867bcda0e25fcd3a3f5ac93b1] (1) Regulation 10 (powers in respect of certain persons on ships) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -414,20 +414,20 @@ Article 4
 
 (3) In paragraph (2) for “Secretary of State” (in both places) substitute “Department”.
 
-**9.**[^key-471a0352b300ebcada8cfd87990c616d] In regulation 11(1) (supply of information, etc., by masters) for “a district” substitute “the Isle of Man”.
+**9.**[^c-471a0352b300ebcada8cfd87990c616d] In regulation 11(1) (supply of information, etc., by masters) for “a district” substitute “the Isle of Man”.
 
-**10.**[^key-d1ccfd8fef2d6c3748cd4b03cb6936e5] In regulation 12 (permission to enter district)—
+**10.**[^c-d1ccfd8fef2d6c3748cd4b03cb6936e5] In regulation 12 (permission to enter district)—
 
 - (a) in the heading, for “district” substitute “the Isle of Man”;
 - (b) in paragraph (2) for “his district” substitute “the Isle of Man”.
 
-**11.**[^key-d18b2a16c7cbc4c468a69d91a7575f5e] In regulation 13(2) and (3) (notification of infectious disease, etc., on board) for “local authority” (wherever occurring) substitute “Department”.
+**11.**[^c-d18b2a16c7cbc4c468a69d91a7575f5e] In regulation 13(2) and (3) (notification of infectious disease, etc., on board) for “local authority” (wherever occurring) substitute “Department”.
 
-**12.**[^key-2e3645fac44ef5c059aac86cec7cefd6] In regulation 15(2) (Maritime Declaration of Health) for “local authority” substitute “Department”.
+**12.**[^c-2e3645fac44ef5c059aac86cec7cefd6] In regulation 15(2) (Maritime Declaration of Health) for “local authority” substitute “Department”.
 
-**13.**[^key-f928f2dc304a5dbc7a08431d81c88ffd] In regulation 16 (which concerns arrival after delivery of Maritime Declaration of Health) for “or a corresponding provision in force in Scotland or Northern Ireland, the ship arrives in a district or calls at another district, as the case may be” substitute “, the ship arrives in the Isle of Man”.
+**13.**[^c-f928f2dc304a5dbc7a08431d81c88ffd] In regulation 16 (which concerns arrival after delivery of Maritime Declaration of Health) for “or a corresponding provision in force in Scotland or Northern Ireland, the ship arrives in a district or calls at another district, as the case may be” substitute “, the ship arrives in the Isle of Man”.
 
-**14.**[^key-622eafb4f1a29c58e0bf4a144cfb77d1] (1) Regulation 18A[^f00019] (application for a Ship Sanitation Control Exemption Certificate or Ship Sanitation Control Certificate) is modified as follows.
+**14.**[^c-622eafb4f1a29c58e0bf4a144cfb77d1] (1) Regulation 18A[^f00019] (application for a Ship Sanitation Control Exemption Certificate or Ship Sanitation Control Certificate) is modified as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -440,7 +440,7 @@ Article 4
 
 (3) In paragraph (2) for “paragraph (1)(a)” substitute “paragraph (1)”.
 
-**15.**[^key-fc6ce622afcdfc903dcc98e03b090056] (1) Regulation 18B[^f00020] (production of a ship sanitation certificate) is modified as follows.
+**15.**[^c-fc6ce622afcdfc903dcc98e03b090056] (1) Regulation 18B[^f00020] (production of a ship sanitation certificate) is modified as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -466,7 +466,7 @@ Article 4
 
 (5) In paragraphs (6) and (7) for “paragraph (3)(a) or (4)(a)” substitute “paragraph (3) or (4)”.
 
-**16.**[^key-4eaefb2ddc4d5a187127b29733d80661] (1) Regulation 18C (ship sanitation certificates: supplementary) is modified as follows.
+**16.**[^c-4eaefb2ddc4d5a187127b29733d80661] (1) Regulation 18C (ship sanitation certificates: supplementary) is modified as follows.
 
 (2) In paragraphs (1) and (2) for “18A(1)(a)(ii) or 18B(3)(a) or (4)(a)” substitute “18A(1)(a) or (b) or 18B(3) or (4)”.
 
@@ -474,13 +474,13 @@ Article 4
 
 (4) In paragraph (4) for “An authorised officer of a port where control measures are applied” substitute “Where control measures are applied to a ship, an authorised officer”.
 
-**17.**[^key-699935bc5a5917970004c8f9944e414f] In regulation 18D(3) [^f00021] (ship sanitation certificates: form; period of validity and retention) for “local authority” substitute “Department”.
+**17.**[^c-699935bc5a5917970004c8f9944e414f] In regulation 18D(3) [^f00021] (ship sanitation certificates: form; period of validity and retention) for “local authority” substitute “Department”.
 
-**18.**[^key-d24d2e43f7c9a13d864be876392b18bd] In regulation 21(1) (detention of ships, and ships to be taken to mooring stations) for “United Kingdom” substitute “Isle of Man”.
+**18.**[^c-d24d2e43f7c9a13d864be876392b18bd] In regulation 21(1) (detention of ships, and ships to be taken to mooring stations) for “United Kingdom” substitute “Isle of Man”.
 
-**19.**[^key-fefb69b60b7cd6058c039a40c6acfee6] In regulation 33 (examination, etc., of persons proposing to embark) for “United Kingdom” substitute “Isle of Man”.
+**19.**[^c-fefb69b60b7cd6058c039a40c6acfee6] In regulation 33 (examination, etc., of persons proposing to embark) for “United Kingdom” substitute “Isle of Man”.
 
-**20.**[^key-86bf1878289882de83650b7e4c8d3c6a] (1) Regulation 34 (infected places in England and Wales) is modified as follows.
+**20.**[^c-86bf1878289882de83650b7e4c8d3c6a] (1) Regulation 34 (infected places in England and Wales) is modified as follows.
 
 (2) For the heading, for “England and Wales” substitute “the Isle of Man”.
 
@@ -501,7 +501,7 @@ Article 4
 
 .
 
-**21.**[^key-81115886953a9ca951160aba9b9764e5] For regulation 37 (which concerns persons placed under surveillance) substitute—
+**21.**[^c-81115886953a9ca951160aba9b9764e5] For regulation 37 (which concerns persons placed under surveillance) substitute—
 
 > **37.** Every person who is placed under surveillance under these regulations shall—
 >
@@ -511,27 +511,27 @@ Article 4
 
 .
 
-**22.**[^key-ed942fc12cefe4f01d635c23a3b0a328] In regulation 38 (charges for services)—
+**22.**[^c-ed942fc12cefe4f01d635c23a3b0a328] In regulation 38 (charges for services)—
 
 - (a) in paragraphs (1) and (4) for “A local authority” substitute “The Department”;
 - (b) in paragraph (1)(a) and (b) for “its district” substitute “the Isle of Man”;
 - (c) in paragraph (5) for “a local authority” substitute “the Department”.
 
-**23.**[^key-add2f20ca47a2e5001f2fc6e7ad6f238] In regulation 39 (recovery of charges) for “regulations 20 or 38” substitute “regulation 38”.
+**23.**[^c-add2f20ca47a2e5001f2fc6e7ad6f238] In regulation 39 (recovery of charges) for “regulations 20 or 38” substitute “regulation 38”.
 
-**24.**[^key-cffdf49899e047b20079cb20fddb8829] In regulation 40 (expenses of local authorities)—
+**24.**[^c-cffdf49899e047b20079cb20fddb8829] In regulation 40 (expenses of local authorities)—
 
 - (a) in the heading, for “local authorities” substitute “the Department”;
 - (b) for “a local authority” substitute “the Department”.
 
-**25.**[^key-91b296204ea4d0e883fcb917752309f8] In regulation 42 (saving for ships unwilling to comply with these regulation)—
+**25.**[^c-91b296204ea4d0e883fcb917752309f8] In regulation 42 (saving for ships unwilling to comply with these regulation)—
 
 - (a) for “a district” or “the district” (wherever occurring) substitute “the Isle of Man”;
 - (b) in paragraph (3) for “other district” substitute “other place in the Isle of Man”.
 
-**26.**[^key-652b7794d0234ff7a3bcf91d89f2889c] In regulation 43 (saving for existing enactments) after “Immigration Act 1971” insert “(as that Act has effect in the Isle of Man)[^f00022]”.
+**26.**[^c-652b7794d0234ff7a3bcf91d89f2889c] In regulation 43 (saving for existing enactments) after “Immigration Act 1971” insert “(as that Act has effect in the Isle of Man)[^f00022]”.
 
-**27.**[^key-2ad781748be1f28012296108808a0eaa] Omit regulation 44 and Schedule 6 (revocations).
+**27.**[^c-2ad781748be1f28012296108808a0eaa] Omit regulation 44 and Schedule 6 (revocations).
 
 EXPLANATORY NOTE
 
@@ -555,23 +555,23 @@ Schedules 1 and 2 contain specific modifications, additions and omissions to ref
 
 [^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-ee9e3f3fb54e0122843928a873868145]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-ee9e3f3fb54e0122843928a873868145]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-7c3eccd996fc1dc17fbdd28a2997eeec]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2982/article/2) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-7c3eccd996fc1dc17fbdd28a2997eeec]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2982/article/2) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00002]: Footnote: [S.I. 1979/1434](https://www.legislation.gov.uk/uksi/1979/1434) as amended by [S.I. 2007/1447](https://www.legislation.gov.uk/uksi/2007/1447) and [S.I. 2007/1603](https://www.legislation.gov.uk/uksi/2007/1603).
 
 [^f00003]: Footnote: [S.I. 1979/1435](https://www.legislation.gov.uk/uksi/1979/1435) as amended by [S.I. 2007/1446](https://www.legislation.gov.uk/uksi/2007/1446) (which is in turn amended by [S.I. 2007/1603](https://www.legislation.gov.uk/uksi/2007/1603)).
 
-[^key-a2537ed6974a9a0cddea147b7df70da9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2982/article/3) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-a2537ed6974a9a0cddea147b7df70da9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2982/article/3) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-fc83b171428d0d62669c7850e3ed5017]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2982/article/4) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-fc83b171428d0d62669c7850e3ed5017]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2982/article/4) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-0a4e03f1719860c2a42cb66d1044f030]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2982/article/5) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-0a4e03f1719860c2a42cb66d1044f030]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2982/article/5) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-2e4d51fb48be58c678f86f3c3da3d938]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/1) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-2e4d51fb48be58c678f86f3c3da3d938]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/1) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-ed578d13b320c7a322ced66fb6fcde7a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/2) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-ed578d13b320c7a322ced66fb6fcde7a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/2) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00004]: Footnote: Made on 7 January 1976 by the body formerly known as the Isle of Man Board of Agriculture and Fisheries.
 
@@ -583,53 +583,53 @@ Schedules 1 and 2 contain specific modifications, additions and omissions to ref
 
 [^f00008]: Footnote: See the Immigration (Isle of Man) Order 2008 ([S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680)).
 
-[^key-a153d6a3977820b74c71cadc82284de9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/3) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-a153d6a3977820b74c71cadc82284de9]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/3) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00009]: Footnote: The Visiting Forces Act 1952 was extended to the Isle of Man by [S.I. 1962/170](https://www.legislation.gov.uk/uksi/1962/170). The Schedule to the Act, as the Act has effect in the Isle of Man, was substituted by paragraph 7 of Schedule 3 to the Sexual Offences Act 1992 (an Act of Tynwald) and amended by article 7 of [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509).
 
-[^key-3503c3ea5d27ae1f7bea500dd6c97464]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/4) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-3503c3ea5d27ae1f7bea500dd6c97464]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/4) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-6c7c52fc6f65854dd6298b9450299bec]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/5) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-6c7c52fc6f65854dd6298b9450299bec]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/5) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-44c615453c528682dfaafb6b72835e12]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/6) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-44c615453c528682dfaafb6b72835e12]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/6) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-84b40ec7a4bcea1e4c3b94c20bee67a6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/7) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-84b40ec7a4bcea1e4c3b94c20bee67a6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/7) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-df762ffcbc75bbb4a43f66a5eb0451e1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/8) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-df762ffcbc75bbb4a43f66a5eb0451e1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/8) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-10707faeba066db7eb0d25c2b0fea774]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/9) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-10707faeba066db7eb0d25c2b0fea774]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/9) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-162452170c4097893b12e48f12716a9f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/10) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-162452170c4097893b12e48f12716a9f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/10) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-2b5cec3e4430cf0089868af66cb1aef3]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/11) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-2b5cec3e4430cf0089868af66cb1aef3]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/11) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-d4b0970d784895fd34f06a6b49a0b602]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/12) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-d4b0970d784895fd34f06a6b49a0b602]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/12) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-a8c4acbfe001ed117037149407ae0f86]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/13) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-a8c4acbfe001ed117037149407ae0f86]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/13) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-b19de13ea3cde883fe2d44d3848a40c2]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/14) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-b19de13ea3cde883fe2d44d3848a40c2]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/14) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-58e8943891293d70c5c4e8ea41bc8766]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/15) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-58e8943891293d70c5c4e8ea41bc8766]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/15) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-4387a3271c4278e6289b8fc0a1cc87c0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/16) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-4387a3271c4278e6289b8fc0a1cc87c0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/16) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-57d2ade647685862d4d7fe89ea196d7f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/17) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-57d2ade647685862d4d7fe89ea196d7f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/17) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-31bfff8dfb1860e9bf15a8fc64793624]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/18) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-31bfff8dfb1860e9bf15a8fc64793624]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/18) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-3ea6232b95d9c53f35cf72fedd125d54]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/19) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-3ea6232b95d9c53f35cf72fedd125d54]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/19) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-4873363161398dac41398ff653c75abc]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/20) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-4873363161398dac41398ff653c75abc]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/20) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00010]: Footnote: See the Immigration (Isle of Man) Order 2008 ([S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680)).
 
-[^key-46b0785c9eccc0fa34292e8fae3f0bbd]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/21) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-46b0785c9eccc0fa34292e8fae3f0bbd]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2010/2982/schedule/1/paragraph/21) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-38e33a2545ab18c8d7f806e2280013c1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/1) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-38e33a2545ab18c8d7f806e2280013c1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/1) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00011]: Footnote: Made on 7 January 1976 by the body formerly known as the Isle of Man Board of Agriculture and Fisheries.
 
-[^key-191062c8b823cabbd43ab11cdd546dea]: Textual amendment: [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/1/b) substituted (1.7.2011) by [The Public Health (Aircraft and Ships) (Isle of Man) (Amendment) Order 2011 (S.I. 2011/1212)](https://www.legislation.gov.uk/uksi/2011/1212), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1212/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1212/article/2/2)
+[^c-191062c8b823cabbd43ab11cdd546dea]: Textual amendment: [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/1/b) substituted (1.7.2011) by [The Public Health (Aircraft and Ships) (Isle of Man) (Amendment) Order 2011 (S.I. 2011/1212)](https://www.legislation.gov.uk/uksi/2011/1212), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1212/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1212/article/2/2)
 
 [^f00012]: Footnote: 1986 c.34 (an Act of Tynwald).
 
@@ -643,64 +643,64 @@ Schedules 1 and 2 contain specific modifications, additions and omissions to ref
 
 [^f00017]: Footnote: 1974 c. 33 (an Act of Tynwald).
 
-[^key-5c42f3352ca4b1229215b1e9f9751a05]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/2) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-5c42f3352ca4b1229215b1e9f9751a05]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/2) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00018]: Footnote: The Visiting Forces Act 1952 was extended to the Isle of Man by [S.I. 1962/170](https://www.legislation.gov.uk/uksi/1962/170). The Schedule to the Act, as the Act has effect in the Isle of Man, was substituted by paragraph 7 of Schedule 3 to the Sexual Offences Act 1992 (an Act of Tynwald) and amended by article 7 of [S.I. 1998/1509](https://www.legislation.gov.uk/uksi/1998/1509).
 
-[^key-6e5ef5e489aa689c2685d9e7109ddd6b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/3) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-6e5ef5e489aa689c2685d9e7109ddd6b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/3) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-92884dda0f7dca4a5098b9d0c43c2ecc]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/4) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-92884dda0f7dca4a5098b9d0c43c2ecc]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/4) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-2b6a8a8f6887dff99156724c93d3bcef]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/5) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-2b6a8a8f6887dff99156724c93d3bcef]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/5) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-26411621ad5ec922292d155c30131758]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/6) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-26411621ad5ec922292d155c30131758]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/6) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-e7d975e03e514e42dd28c80e0eefb6ee]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/7) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-e7d975e03e514e42dd28c80e0eefb6ee]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/7) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-fb90575867bcda0e25fcd3a3f5ac93b1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/8) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-fb90575867bcda0e25fcd3a3f5ac93b1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/8) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-471a0352b300ebcada8cfd87990c616d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/9) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-471a0352b300ebcada8cfd87990c616d]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/9) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-d1ccfd8fef2d6c3748cd4b03cb6936e5]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/10) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-d1ccfd8fef2d6c3748cd4b03cb6936e5]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/10) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-d18b2a16c7cbc4c468a69d91a7575f5e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/11) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-d18b2a16c7cbc4c468a69d91a7575f5e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/11) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-2e3645fac44ef5c059aac86cec7cefd6]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/12) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-2e3645fac44ef5c059aac86cec7cefd6]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/12) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-f928f2dc304a5dbc7a08431d81c88ffd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/13) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-f928f2dc304a5dbc7a08431d81c88ffd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/13) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-622eafb4f1a29c58e0bf4a144cfb77d1]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/14) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-622eafb4f1a29c58e0bf4a144cfb77d1]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/14) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00019]: Footnote: Regulation 18A was added by the [Public Health (Ships) (Amendment) (England) Regulations 2007/1446](https://www.legislation.gov.uk/uksi/2007/1446) reg.17.
 
-[^key-fc6ce622afcdfc903dcc98e03b090056]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/15) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-fc6ce622afcdfc903dcc98e03b090056]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/15) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00020]: Footnote: Regulation 18B was added by the [Public Health (Ships) (Amendment) (England) Regulations 2007/1446](https://www.legislation.gov.uk/uksi/2007/1446) reg.17.
 
-[^key-4eaefb2ddc4d5a187127b29733d80661]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/16) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-4eaefb2ddc4d5a187127b29733d80661]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/16) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-699935bc5a5917970004c8f9944e414f]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/17) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-699935bc5a5917970004c8f9944e414f]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/17) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00021]: Footnote: Regulations 18C and 18D were added by the [Public Health (Ships) (Amendment) (England) Regulations 2007/1446](https://www.legislation.gov.uk/uksi/2007/1446) reg.17.
 
-[^key-d24d2e43f7c9a13d864be876392b18bd]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/18) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-d24d2e43f7c9a13d864be876392b18bd]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/18) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-fefb69b60b7cd6058c039a40c6acfee6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/19) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-fefb69b60b7cd6058c039a40c6acfee6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/19) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-86bf1878289882de83650b7e4c8d3c6a]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/20) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-86bf1878289882de83650b7e4c8d3c6a]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/20) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-81115886953a9ca951160aba9b9764e5]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/21) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-81115886953a9ca951160aba9b9764e5]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/21) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-ed942fc12cefe4f01d635c23a3b0a328]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/22) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-ed942fc12cefe4f01d635c23a3b0a328]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/22) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-add2f20ca47a2e5001f2fc6e7ad6f238]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/23) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-add2f20ca47a2e5001f2fc6e7ad6f238]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/23) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-cffdf49899e047b20079cb20fddb8829]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/24) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-cffdf49899e047b20079cb20fddb8829]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/24) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-91b296204ea4d0e883fcb917752309f8]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/25) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-91b296204ea4d0e883fcb917752309f8]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/25) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
-[^key-652b7794d0234ff7a3bcf91d89f2889c]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/26) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-652b7794d0234ff7a3bcf91d89f2889c]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/26) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
 
 [^f00022]: Footnote: See the Immigration (Isle of Man) Order 2008 ([S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680))
 
-[^key-2ad781748be1f28012296108808a0eaa]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/27) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)
+[^c-2ad781748be1f28012296108808a0eaa]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2010/2982/schedule/2/paragraph/27) in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2982/article/1)

@@ -48,7 +48,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and extent[^key-1c8ecb9fa6c26dc81fe382a02b2f0913]
+### 1. Citation, commencement and extent[^c-1c8ecb9fa6c26dc81fe382a02b2f0913]
 
 (1) This Order may be cited as the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008 and comes into force on 16th April 2008.
 
@@ -58,7 +58,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (4) Nothing in paragraph (2) is to be treated as prejudicing the effect of section 30(2A)[^f00003] of the Fisheries Act 1981 in the rest of the United Kingdom in relation to, or for purposes incidental to, any provision which creates an offence.
 
-### 2. Interpretation[^key-6fc4b4433dd6855570f5d8ac1e066294]
+### 2. Interpretation[^c-6fc4b4433dd6855570f5d8ac1e066294]
 
 (1) In this Order–
 
@@ -123,7 +123,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 ## PART II — ENFORCEMENT OF COMMUNITY QUOTA AND THIRD COUNTRY FISHING MEASURES
 
-### 3. Landing of unsorted catches[^key-d8c7c266895af124395f066b54f8ceef]
+### 3. Landing of unsorted catches[^c-d8c7c266895af124395f066b54f8ceef]
 
 (1) This article applies for the purposes of Article 10.
 
@@ -136,21 +136,21 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) A person in charge of a relevant fishing boat is guilty of an offence if a catch that includes unsorted fish is landed from the fishing boat at a harbour before the master is notified of the decision of a British sea fishery officer at the harbour in question under paragraph (2)(b)(ii).
 
-### 4. By catch quota – dog fish and skate[^key-a4f5685399058c6adecda85102e8a265]
+### 4. By catch quota – dog fish and skate[^c-a4f5685399058c6adecda85102e8a265]
 
 A person in charge of a relevant fishing boat is guilty of an offence if the following species comprise more than the specified percentage by live weight of the catch retained on board in contravention of Annex IA–
 
 - (a) in respect of spurfish/dogfish (squalus acanthias), 5%; and
 - (b) in respect of skate and ray (rajidae), 25%.
 
-### 5. By catch quota – red fish and sharks[^key-631309e8935d3e26447e7bf99789d4dd]
+### 5. By catch quota – red fish and sharks[^c-631309e8935d3e26447e7bf99789d4dd]
 
 A person in charge of a relevant fishing boat is guilty of an offence if–
 
 - (a) red fish comprise more than 1% by live weight of the catch retained on board in contravention of paragraph 21(e) of Annex III; or
 - (b) sharks comprise more than 5% by live weight of the catch retained on board in contravention of paragraph 8.11 of Annex III.
 
-### 6. Offences[^key-ee43b40fb60bd5d5a3e760c6a4b2407a]
+### 6. Offences[^c-ee43b40fb60bd5d5a3e760c6a4b2407a]
 
 (1) Where there is, in respect of any–
 
@@ -167,11 +167,11 @@ a contravention of, or failure to comply with, any Community quota measure, the 
 
 ### COD
 
-#### 7. Determination of number of days[^key-20d28f86b27946f23e1180e0d029ed2d]
+#### 7. Determination of number of days[^c-20d28f86b27946f23e1180e0d029ed2d]
 
 The Scottish Ministers may authorize a relevant fishing boat to be present within the cod recovery zone for such number of days as they may determine in accordance with Article 8 of Annex IIa.
 
-#### 8. Determination of management periods and division of days between management periods[^key-df9917461acdbfc8087532631b8d1e73]
+#### 8. Determination of management periods and division of days between management periods[^c-df9917461acdbfc8087532631b8d1e73]
 
 (1) Management periods, as referred to in paragraph 9.1 of Annex IIa, and the number of days during a management period, as referred to in paragraph 9.2 of Annex IIa, in relation to a relevant fishing boat will be determined by the Scottish Ministers.
 
@@ -179,7 +179,7 @@ The Scottish Ministers may authorize a relevant fishing boat to be present withi
 
 (3) In determining the management period for that boat the Scottish Ministers must have regard to any preference as to the length of the management period indicated in a notification under paragraph (2).
 
-#### 9. Absence from port[^key-97066efe3b5d1285ad66d84b2bb3c7a4]
+#### 9. Absence from port[^c-97066efe3b5d1285ad66d84b2bb3c7a4]
 
 (1) A person in charge of a relevant fishing boat which–
 
@@ -221,7 +221,7 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 (12) In this article “determined number of days” means the number of days during a management period as determined by the Scottish Ministers in accordance with article 8(1) and adjusted as necessary in terms of paragraphs 18.2 to 18.4 of Annex IIa.
 
-#### 10. Procedure as to decisions to deduct days[^key-3fefe00534bb58e8f39bae60e443f80c]
+#### 10. Procedure as to decisions to deduct days[^c-3fefe00534bb58e8f39bae60e443f80c]
 
 (1) In making a decision to deduct days under article 9(10), the Scottish Ministers–
 
@@ -236,7 +236,7 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 (3) In this article “affected person” means the owner, master or charterer of the boat in respect of which a decision to deduct days under article 9(10) is made or is proposed to be made.
 
-#### 11. Use of regulated gear[^key-0b3b05ae3eb7b3ebe0db603de864bf24]
+#### 11. Use of regulated gear[^c-0b3b05ae3eb7b3ebe0db603de864bf24]
 
 (1) A person in charge of a relevant fishing boat which fishes in contravention of the notification requirement in paragraph 17 of Annex IIa is guilty of an offence.
 
@@ -248,7 +248,7 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 (5) A person in charge of a relevant fishing boat or a foreign fishing boat which contravenes the prohibition in paragraph (4) is guilty of an offence.
 
-#### 12. Transfer of days from one boat to another[^key-da86b0c559b43f98431716bf5e9cc750]
+#### 12. Transfer of days from one boat to another[^c-da86b0c559b43f98431716bf5e9cc750]
 
 (1) Transfer of unused days within the same management period from one relevant fishing boat (“the donor”) to another (“the recipient”) for the purposes of paragraph 15 of Annex IIa where either the donor or the recipient is, or both are, a relevant fishing boat, is permitted subject to the conditions specified in paragraphs 15.1 to 15.4 of Annex IIa, to the extent specified in a notification of transfer sent to the Scottish Ministers and consented to by the Scottish Ministers.
 
@@ -258,11 +258,11 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 (4) For the purposes of this article “the same management period” means any two management periods provided that the transfer takes place during the concurrence of the management periods.
 
-#### 13. Designated Ports[^key-4e76ec069310a50bf84a9c7fa4d2a0e9]
+#### 13. Designated Ports[^c-4e76ec069310a50bf84a9c7fa4d2a0e9]
 
 For landings in the United Kingdom the ports, and where applicable the landing locations within them, designated for the purposes of Article 12(2) of Regulation 423/2004 are the ports specified in Schedule 3.
 
-#### 14. Offences in relation to fishing gears[^key-c238de092ca2dbef44784f53c12636fc]
+#### 14. Offences in relation to fishing gears[^c-c238de092ca2dbef44784f53c12636fc]
 
 (1) A person in charge of a relevant fishing boat or a foreign fishing boat in respect of which paragraph 18 or 19 of Annex IIa applies is guilty of an offence if that person fails to comply with the obligations imposed by either of those paragraphs.
 
@@ -272,11 +272,11 @@ For landings in the United Kingdom the ports, and where applicable the landing l
 
 ### SOLE
 
-#### 15. Determination of number of days[^key-590972e16293822dd5acaaa5e92a75fa]
+#### 15. Determination of number of days[^c-590972e16293822dd5acaaa5e92a75fa]
 
 The Scottish Ministers may authorize a relevant fishing boat to be present within the sole recovery zone for such number of days as they may determine in accordance with Article 7 of Annex IIc.
 
-#### 16. Determination of management periods and division of days between management periods[^key-4073a38f7b7d535ed018d0981283c9a6]
+#### 16. Determination of management periods and division of days between management periods[^c-4073a38f7b7d535ed018d0981283c9a6]
 
 (1) Management periods, as referred to in paragraph 8.1 of Annex IIc, and the number of days during a management period as referred to in paragraph 8.2 of Annex IIc in relation to a relevant fishing boat, will be determined by the Scottish Ministers.
 
@@ -284,7 +284,7 @@ The Scottish Ministers may authorize a relevant fishing boat to be present withi
 
 (3) In determining the management period for that boat the Scottish Ministers must have regard to any preference as to the length of the management period indicated in a notification under paragraph (2).
 
-#### 17. Absence from port[^key-e89ef939fd7884f272f95b7e60a0a203]
+#### 17. Absence from port[^c-e89ef939fd7884f272f95b7e60a0a203]
 
 (1) A person in charge of a relevant fishing boat which–
 
@@ -326,7 +326,7 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 (12) In this article “determined number of days” means the number of days during a management period as determined by the Scottish Ministers in accordance with article 16(1).
 
-#### 18. Procedure as to decisions to deduct days[^key-437113a4bed32c70ea6d41ad6309ba79]
+#### 18. Procedure as to decisions to deduct days[^c-437113a4bed32c70ea6d41ad6309ba79]
 
 (1) In making a decision to deduct days under article 17(10) the Scottish Ministers–
 
@@ -341,13 +341,13 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 (3) In this article “affected person” means the owner, master or charterer of the boat in respect of which a decision to deduct days under article 17(10) is made or is proposed to be made.
 
-#### 19. Use of regulated gear[^key-4eebe18ec9c0bca5d2b75a4ae644f7ec]
+#### 19. Use of regulated gear[^c-4eebe18ec9c0bca5d2b75a4ae644f7ec]
 
 (1) A person in charge of a relevant fishing boat which fishes in contravention of the notification requirement in paragraph 13 of Annex IIc is guilty of an offence.
 
 (2) A person in charge of a relevant fishing boat which carries or uses, whilst present in the sole recovery zone, regulated gear other than the regulated gear notified under the requirement in paragraph 13 of Annex IIc is guilty of an offence.
 
-#### 20. Transfer of days from one boat to another[^key-3245dc61b5e6c3b4080eb30ad68d8306]
+#### 20. Transfer of days from one boat to another[^c-3245dc61b5e6c3b4080eb30ad68d8306]
 
 (1) Transfer of unused days within the same management period from one relevant fishing boat (“the donor”) to another (“the recipient”) for the purposes of paragraph 11 of Annex IIc where either the donor or the recipient is, or both are, a relevant fishing boat, is permitted subject to the conditions specified in paragraphs 11.1 to 11.3 of Annex IIc, to the extent specified in a notification of transfer sent to the Scottish Ministers and consented to by the Scottish Ministers.
 
@@ -359,7 +359,7 @@ the Scottish Ministers may deduct a number equal to the number of days in that e
 
 ## PART V — PROVISIONS APPLICABLE TO COD AND SOLE
 
-### 21. Maintenance of logbook[^key-1242a0a2aabd094fe5e0909e091279e9]
+### 21. Maintenance of logbook[^c-1242a0a2aabd094fe5e0909e091279e9]
 
 (1) An entry must be made in a logbook of a relevant fishing boat which is absent from port carrying any regulated gear but not fishing as specified in Article 6 of Regulation 2847/93, in respect of each particular which would be required to be entered by that Article (as read with Regulation 2807/83) were the boat so fishing, and such an entry must state the type of fishing gear carried.
 
@@ -376,7 +376,7 @@ and the requirements of the Regulations specified in paragraph (1) for handing o
 
 (4) Where there is, in respect of a relevant fishing boat, a failure to make an entry required by this article the person in charge of that fishing boat is guilty of an offence.
 
-### 22. Submission of logbook at designated port[^key-3ed2ac8f8537a515a2be36cd5c727431]
+### 22. Submission of logbook at designated port[^c-3ed2ac8f8537a515a2be36cd5c727431]
 
 (1) The relevant part (the white top copy) of the logbook must be–
 
@@ -389,7 +389,7 @@ by the person in charge of a relevant fishing boat prior to any landing in a des
 
 (3) In this article “designated port” means a port specified in Schedule 3.
 
-### 23. Amendment of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000[^key-15f155bf5186bc37b8ac79fcb1d4eb1f][^f00012]
+### 23. Amendment of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000[^c-15f155bf5186bc37b8ac79fcb1d4eb1f][^f00012]
 
 In article 2(1) of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000 for the definition of “Annex IIc” substitute–
 
@@ -399,7 +399,7 @@ In article 2(1) of the Sea Fishing (Enforcement of Community Control Measures) (
 
 ## PART VI — ENFORCEMENT
 
-### 24. Penalties[^key-3e5c392f7f39b034f30d9c9c660491c9]
+### 24. Penalties[^c-3e5c392f7f39b034f30d9c9c660491c9]
 
 (1) A person guilty of an offence under article 3(3), 4, 5, 9(1), 11(1), (2), or (5), 12(3), 14(1), 17(1), 19(1) or (2), 20(3), 21(4) or 22(2) or under any equivalent provision is liable–
 
@@ -422,7 +422,7 @@ In article 2(1) of the Sea Fishing (Enforcement of Community Control Measures) (
 
 (6) Subject to paragraph (5), any fine to which a person is liable under paragraph (4) is in addition to any other penalty (whether pecuniary or otherwise) to which that person is liable in respect of that offence under this article or under any other enactment.
 
-### 25. Recovery of fines[^key-f9b7652c67eb88dde4dbc54fd77ee2fe]
+### 25. Recovery of fines[^c-f9b7652c67eb88dde4dbc54fd77ee2fe]
 
 (1) Without prejudice to the provisions of section 221 of the Criminal Procedure (Scotland) Act 1995[^f00014], where a court has imposed a fine on any person in respect of an offence under this Order, that court may for the purposes of recovering the fine–
 
@@ -440,7 +440,7 @@ In article 2(1) of the Sea Fishing (Enforcement of Community Control Measures) (
 
 (4) Where in relation to a fine in respect of an offence under this Order a transfer of fine order under section 222 of the Criminal Procedure (Scotland) Act 1995, section 90 of the Magistrates' Courts Act 1980[^f00015] or article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00016] specifies a court of summary jurisdiction in Scotland, this article applies as if the fine were a fine imposed by that court.
 
-### 26. Powers of British sea-fishery officers in relation to fishing boats[^key-605ff57d4781ee3f64414f03bcfc88fe]
+### 26. Powers of British sea-fishery officers in relation to fishing boats[^c-605ff57d4781ee3f64414f03bcfc88fe]
 
 (1) For the purposes of enforcing article 6(1), or any equivalent provision made for the purposes of implementing a Community quota measure, a British sea fishery officer may exercise, in relation to any–
 
@@ -476,7 +476,7 @@ but nothing in sub-paragraph (f) permits any document required by law to be carr
 
 and where such an officer detains or requires the detention of a boat the officer must serve notice in writing on the master stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea fishery officer.
 
-### 27. Powers of British sea-fishery officers on land[^key-071ea586e5da13f5790edb22de0c1048]
+### 27. Powers of British sea-fishery officers on land[^c-071ea586e5da13f5790edb22de0c1048]
 
 (1) For the purpose of enforcing a relevant offence a British sea fishery officer may–
 
@@ -503,7 +503,7 @@ and where such an officer detains or requires the detention of a boat the office
 
   the sheriff may by signed warrant, valid for a period of no more than 1 month, authorise a British sea fishery officer to enter the premises, if need be by using reasonable force, accompanied by such persons as appear to the officer to be necessary.
 
-### 28. Powers of British sea-fishery officers to seize fish and fishing gear[^key-128ca26ac82b13f4bf6bdc3ca87cdba0]
+### 28. Powers of British sea-fishery officers to seize fish and fishing gear[^c-128ca26ac82b13f4bf6bdc3ca87cdba0]
 
 (1) Any British sea fishery officer may seize–
 
@@ -519,7 +519,7 @@ any fishery product (including any receptacle which contains such product) and a
 
 (3) For the purposes of paragraph 8.8 of Annex III the Scottish Ministers are the competent authorities.
 
-### 29. Protection of officers[^key-173e8d82bfaec164fee55373f4088d36]
+### 29. Protection of officers[^c-173e8d82bfaec164fee55373f4088d36]
 
 A British sea fishery officer or a person assisting such an officer by virtue of article 26(4) or 27(l)(b) or (3) is not liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred by articles 26, 27, or 28 if the court is satisfied that–
 
@@ -527,7 +527,7 @@ A British sea fishery officer or a person assisting such an officer by virtue of
 - (b) there were reasonable grounds for doing it; and
 - (c) it was done with reasonable skill and care.
 
-### 30. Obstruction of officers[^key-a097ab2660fde10c36b78a70c1b05e24]
+### 30. Obstruction of officers[^c-a097ab2660fde10c36b78a70c1b05e24]
 
 (1) Any person who–
 
@@ -542,7 +542,7 @@ is guilty of an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 31. Offences by bodies corporate[^key-b69752946b3973f6eafa5ce9a202bd4b]
+### 31. Offences by bodies corporate[^c-b69752946b3973f6eafa5ce9a202bd4b]
 
 (1) Where an offence under this Order committed by a body corporate or a partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or similar officer of the body corporate, or any person who was purporting to act in any such capacity (or in the case of a partnership, a partner or a person who was purporting to act as such), that person as well as the body corporate or the partnership, as the case may be, is guilty of that offence and liable to be proceeded against and punished accordingly.
 
@@ -550,7 +550,7 @@ is guilty of an offence.
 
 (3) Where any offence under this Order committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, that person as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 32. Admissibility in evidence of logbooks and other documents[^key-bb909a0764e8e8a60cf2c860c994c855]
+### 32. Admissibility in evidence of logbooks and other documents[^c-bb909a0764e8e8a60cf2c860c994c855]
 
 (1) Any–
 
@@ -573,14 +573,14 @@ as communicated via a satellite-based vessel monitoring system established under
 
 (3) Any logbook, declaration, report or other document kept on board or held in pursuance of Article 30 of the Council Regulation is, in any proceedings for an offence under article 6(1) or (2), or under any equivalent provision made for the purposes of implementing a Community quota measure or a Community third country fishing measure, proceedings in respect of which were brought in Scotland by virtue of section 30(2A) of the Fisheries Act 1981[^f00018], to be received in evidence without being produced or sworn to by any witness and is, unless the contrary is shown, conclusive evidence as to the matters stated therein.
 
-### 33. Revocation[^key-aae2d9a00c883f7037c84dde094d6d44]
+### 33. Revocation[^c-aae2d9a00c883f7037c84dde094d6d44]
 
 The following are revoked–
 
 - (a) the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Scotland) Order 2007[^f00019]; and
 - (b) the Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2007[^f00020].
 
-### 34. Amendment of the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^key-6fad70047f4c9855ef865666410f34b4]
+### 34. Amendment of the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^c-6fad70047f4c9855ef865666410f34b4]
 
 Part 1 of Schedule 1 to the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^f00021] is amended as follows–
 
@@ -602,7 +602,7 @@ Edinburgh
 
 15th April 2008
 
-## SCHEDULE 1 — COMMUNITY QUOTA MEASURES (MAXIMUM FINES ON SUMMARY CONVICTION)[^key-4bd75b9292e4d8419645041298812af7]
+## SCHEDULE 1 — COMMUNITY QUOTA MEASURES (MAXIMUM FINES ON SUMMARY CONVICTION)[^c-4bd75b9292e4d8419645041298812af7]
 
 Articles 2(1) and (4), 6(1) and 24(2)
 
@@ -633,7 +633,7 @@ Articles 2(1) and (4), 6(1) and 24(2)
 </tbody>
 </table>
 
-## SCHEDULE 2 — COMMUNITY THIRD COUNTRY FISHING MEASURES (MAXIMUM FINES ON SUMMARY CONVICTION)[^key-018ecbce47766638f253ad6c2d621edf]
+## SCHEDULE 2 — COMMUNITY THIRD COUNTRY FISHING MEASURES (MAXIMUM FINES ON SUMMARY CONVICTION)[^c-018ecbce47766638f253ad6c2d621edf]
 
 Articles 2(1) and (4), 6(2) and 24(2)
 
@@ -656,7 +656,7 @@ Articles 2(1) and (4), 6(2) and 24(2)
 </tbody>
 </table>
 
-## SCHEDULE 3 — DESIGNATED PORTS[^key-d9388cb35d3df4c811dfa9666dcd464d]
+## SCHEDULE 3 — DESIGNATED PORTS[^c-d9388cb35d3df4c811dfa9666dcd464d]
 
 Articles 13 and 22(3)
 
@@ -758,11 +758,11 @@ A Regulatory Impact Assessment in the relation to this Order has been prepared a
 
 [^f00002]: Footnote: [2007 asp 12](https://www.legislation.gov.uk/asp/2007/12).
 
-[^key-1c8ecb9fa6c26dc81fe382a02b2f0913]: Commencement: Art. 1 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-1c8ecb9fa6c26dc81fe382a02b2f0913]: Commencement: Art. 1 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00003]: Footnote: Section 30(2A) was inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68.
 
-[^key-6fc4b4433dd6855570f5d8ac1e066294]: Commencement: Art. 2 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-6fc4b4433dd6855570f5d8ac1e066294]: Commencement: Art. 2 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -780,55 +780,55 @@ A Regulatory Impact Assessment in the relation to this Order has been prepared a
 
 [^f00011]: Footnote: O.J. No. L 19, 23.01.08, p.1.
 
-[^key-d8c7c266895af124395f066b54f8ceef]: Commencement: Art. 3 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-d8c7c266895af124395f066b54f8ceef]: Commencement: Art. 3 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-a4f5685399058c6adecda85102e8a265]: Commencement: Art. 4 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-a4f5685399058c6adecda85102e8a265]: Commencement: Art. 4 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-631309e8935d3e26447e7bf99789d4dd]: Commencement: Art. 5 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-631309e8935d3e26447e7bf99789d4dd]: Commencement: Art. 5 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-ee43b40fb60bd5d5a3e760c6a4b2407a]: Commencement: Art. 6 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-ee43b40fb60bd5d5a3e760c6a4b2407a]: Commencement: Art. 6 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-20d28f86b27946f23e1180e0d029ed2d]: Commencement: Art. 7 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-20d28f86b27946f23e1180e0d029ed2d]: Commencement: Art. 7 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-df9917461acdbfc8087532631b8d1e73]: Commencement: Art. 8 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-df9917461acdbfc8087532631b8d1e73]: Commencement: Art. 8 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-97066efe3b5d1285ad66d84b2bb3c7a4]: Commencement: Art. 9 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-97066efe3b5d1285ad66d84b2bb3c7a4]: Commencement: Art. 9 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-3fefe00534bb58e8f39bae60e443f80c]: Commencement: Art. 10 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-3fefe00534bb58e8f39bae60e443f80c]: Commencement: Art. 10 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-0b3b05ae3eb7b3ebe0db603de864bf24]: Commencement: Art. 11 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-0b3b05ae3eb7b3ebe0db603de864bf24]: Commencement: Art. 11 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-da86b0c559b43f98431716bf5e9cc750]: Commencement: Art. 12 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-da86b0c559b43f98431716bf5e9cc750]: Commencement: Art. 12 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-4e76ec069310a50bf84a9c7fa4d2a0e9]: Commencement: Art. 13 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-4e76ec069310a50bf84a9c7fa4d2a0e9]: Commencement: Art. 13 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-c238de092ca2dbef44784f53c12636fc]: Commencement: Art. 14 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-c238de092ca2dbef44784f53c12636fc]: Commencement: Art. 14 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-590972e16293822dd5acaaa5e92a75fa]: Commencement: Art. 15 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-590972e16293822dd5acaaa5e92a75fa]: Commencement: Art. 15 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-4073a38f7b7d535ed018d0981283c9a6]: Commencement: Art. 16 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-4073a38f7b7d535ed018d0981283c9a6]: Commencement: Art. 16 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-e89ef939fd7884f272f95b7e60a0a203]: Commencement: Art. 17 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-e89ef939fd7884f272f95b7e60a0a203]: Commencement: Art. 17 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-437113a4bed32c70ea6d41ad6309ba79]: Commencement: Art. 18 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-437113a4bed32c70ea6d41ad6309ba79]: Commencement: Art. 18 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-4eebe18ec9c0bca5d2b75a4ae644f7ec]: Commencement: Art. 19 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-4eebe18ec9c0bca5d2b75a4ae644f7ec]: Commencement: Art. 19 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-3245dc61b5e6c3b4080eb30ad68d8306]: Commencement: Art. 20 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-3245dc61b5e6c3b4080eb30ad68d8306]: Commencement: Art. 20 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-1242a0a2aabd094fe5e0909e091279e9]: Commencement: Art. 21 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-1242a0a2aabd094fe5e0909e091279e9]: Commencement: Art. 21 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-3ed2ac8f8537a515a2be36cd5c727431]: Commencement: Art. 22 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-3ed2ac8f8537a515a2be36cd5c727431]: Commencement: Art. 22 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-15f155bf5186bc37b8ac79fcb1d4eb1f]: Commencement: Art. 23 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-15f155bf5186bc37b8ac79fcb1d4eb1f]: Commencement: Art. 23 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00012]: Footnote: [S.S.I. 2000/18](https://www.legislation.gov.uk/ssi/2000/18).
 
 [^f00013]: Footnote: O.J. No. L 19, 23.1.08, p.1.
 
-[^key-3e5c392f7f39b034f30d9c9c660491c9]: Commencement: Art. 24 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-3e5c392f7f39b034f30d9c9c660491c9]: Commencement: Art. 24 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-f9b7652c67eb88dde4dbc54fd77ee2fe]: Commencement: Art. 25 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-f9b7652c67eb88dde4dbc54fd77ee2fe]: Commencement: Art. 25 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00014]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -836,38 +836,38 @@ A Regulatory Impact Assessment in the relation to this Order has been prepared a
 
 [^f00016]: Footnote: S.I. [1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
 
-[^key-605ff57d4781ee3f64414f03bcfc88fe]: Commencement: Art. 26 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-605ff57d4781ee3f64414f03bcfc88fe]: Commencement: Art. 26 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-071ea586e5da13f5790edb22de0c1048]: Commencement: Art. 27 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-071ea586e5da13f5790edb22de0c1048]: Commencement: Art. 27 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-128ca26ac82b13f4bf6bdc3ca87cdba0]: Commencement: Art. 28 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-128ca26ac82b13f4bf6bdc3ca87cdba0]: Commencement: Art. 28 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-173e8d82bfaec164fee55373f4088d36]: Commencement: Art. 29 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-173e8d82bfaec164fee55373f4088d36]: Commencement: Art. 29 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-a097ab2660fde10c36b78a70c1b05e24]: Commencement: Art. 30 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-a097ab2660fde10c36b78a70c1b05e24]: Commencement: Art. 30 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-b69752946b3973f6eafa5ce9a202bd4b]: Commencement: Art. 31 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-b69752946b3973f6eafa5ce9a202bd4b]: Commencement: Art. 31 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-bb909a0764e8e8a60cf2c860c994c855]: Commencement: Art. 32 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-bb909a0764e8e8a60cf2c860c994c855]: Commencement: Art. 32 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00017]: Footnote: O.J. No. L 261, 20.10.93, p.1.
 
 [^f00018]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29); section 30(2A) was inserted by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-aae2d9a00c883f7037c84dde094d6d44]: Commencement: Art. 33 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-aae2d9a00c883f7037c84dde094d6d44]: Commencement: Art. 33 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00019]: Footnote: [S.S.I. 2007/127](https://www.legislation.gov.uk/ssi/2007/127) as amended by [S.S.I. 2008/102](https://www.legislation.gov.uk/ssi/2008/102).
 
 [^f00020]: Footnote: [S.S.I. 2007/40](https://www.legislation.gov.uk/ssi/2007/40).
 
-[^key-6fad70047f4c9855ef865666410f34b4]: Commencement: Art. 34 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-6fad70047f4c9855ef865666410f34b4]: Commencement: Art. 34 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
 [^f00021]: Footnote: [S.S.I. 2008/101](https://www.legislation.gov.uk/ssi/2008/101).
 
 [^f00022]: Footnote: [S.S.I. 2008/151](https://www.legislation.gov.uk/ssi/2008/151).
 
-[^key-4bd75b9292e4d8419645041298812af7]: Commencement: Sch. 1 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-4bd75b9292e4d8419645041298812af7]: Commencement: Sch. 1 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-018ecbce47766638f253ad6c2d621edf]: Commencement: Sch. 2 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-018ecbce47766638f253ad6c2d621edf]: Commencement: Sch. 2 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
 
-[^key-d9388cb35d3df4c811dfa9666dcd464d]: Commencement: Sch. 3 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+[^c-d9388cb35d3df4c811dfa9666dcd464d]: Commencement: Sch. 3 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)

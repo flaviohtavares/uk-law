@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 287. Introduction[^key-21f969e4ce8d1801353a61066c8c50a0]
+## 287. Introduction[^c-21f969e4ce8d1801353a61066c8c50a0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any definition given in this Part applies except and in so far as the context ot
 
 ## Annotations
 
-[^key-21f969e4ce8d1801353a61066c8c50a0]: Commencement: [Rule 287](https://www.legislation.gov.uk/nisr/2026/11/rule/287) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-21f969e4ce8d1801353a61066c8c50a0]: Commencement: [Rule 287](https://www.legislation.gov.uk/nisr/2026/11/rule/287) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

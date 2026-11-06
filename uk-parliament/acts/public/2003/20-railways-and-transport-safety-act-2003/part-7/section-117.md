@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Interpretation: enactment[^key-16e024862cd826dcd27cc9a28b219498]
+## 117. Interpretation: enactment[^c-16e024862cd826dcd27cc9a28b219498]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Act “**enactment**” includes—
 
 ## Annotations
 
-[^key-16e024862cd826dcd27cc9a28b219498]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2003/20/section/117) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ee)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ee)
+[^c-16e024862cd826dcd27cc9a28b219498]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2003/20/section/117) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ee)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ee)

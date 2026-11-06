@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2008 (revoked)[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]
+The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2008 (revoked)[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 31st May 2008
 
-[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]
+## 1. Citation, commencement and extent[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]
+## 3. Revocations[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Content to be inserted as Schedule AA1 to the Food Labelling Regulations 1996[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]
+## SCHEDULE — Content to be inserted as Schedule AA1 to the Food Labelling Regulations 1996[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]
 
 Regulation 2(9)
 
@@ -74,8 +74,8 @@ Regulation 2(9)
 
 **May not be in force at this date. Check the source.**
 
-[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-303b5b2061d1d7a6ceb1e3e823ad01d0]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-303b5b2061d1d7a6ceb1e3e823ad01d0]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

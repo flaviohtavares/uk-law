@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Penalty notices: agents[^key-057250838b6c442adb32a3477ee8dcd7][^key-ab1dc7904acd85af1d785dcca08b1118]
+## 25. Penalty notices: agents[^c-057250838b6c442adb32a3477ee8dcd7][^c-ab1dc7904acd85af1d785dcca08b1118]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,16 +32,16 @@ summary: ''
 
 (3) The Secretary of State may give the agent a notice requiring the agent to pay a penalty.
 
-(4) The amount of the penalty is such an amount as the Secretary of State considers appropriate, but the amount must not exceed £20,000[^key-42ef0410f11cca4e6e34de859699a8f0].
+(4) The amount of the penalty is such an amount as the Secretary of State considers appropriate, but the amount must not exceed £20,000[^c-42ef0410f11cca4e6e34de859699a8f0].
 
-(5)[^key-611ef4adbc6513dcac75d316709304a5] The Secretary of State may by order amend the amount for the time being specified in subsection (4).
+(5)[^c-611ef4adbc6513dcac75d316709304a5] The Secretary of State may by order amend the amount for the time being specified in subsection (4).
 
 ## Annotations
 
-[^key-057250838b6c442adb32a3477ee8dcd7]: Commencement: S. 25 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/f)
+[^c-057250838b6c442adb32a3477ee8dcd7]: Commencement: S. 25 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/f)
 
-[^key-ab1dc7904acd85af1d785dcca08b1118]: Commencement: S. 25 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/11/article/2/f)
+[^c-ab1dc7904acd85af1d785dcca08b1118]: Commencement: S. 25 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/11/article/2/f)
 
-[^key-42ef0410f11cca4e6e34de859699a8f0]: Textual amendment: Sum in s. 25(4) substituted (13.2.2024) by [The Immigration Act 2014 (Residential Accommodation) (Maximum Penalty) Order 2024 (S.I. 2024/81)](https://www.legislation.gov.uk/uksi/2024/81), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/81/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/81/article/2/3) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2024/81/article/2/4))
+[^c-42ef0410f11cca4e6e34de859699a8f0]: Textual amendment: Sum in s. 25(4) substituted (13.2.2024) by [The Immigration Act 2014 (Residential Accommodation) (Maximum Penalty) Order 2024 (S.I. 2024/81)](https://www.legislation.gov.uk/uksi/2024/81), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/81/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/81/article/2/3) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2024/81/article/2/4))
 
-[^key-611ef4adbc6513dcac75d316709304a5]: Commencement: [S. 25(5)](https://www.legislation.gov.uk/ukpga/2014/22/section/25/5) in force at 14.12.2023 in so far as not already in force by [S.I. 2023/1245](https://www.legislation.gov.uk/uksi/2023/1245), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/1245/article/2/b)
+[^c-611ef4adbc6513dcac75d316709304a5]: Commencement: [S. 25(5)](https://www.legislation.gov.uk/ukpga/2014/22/section/25/5) in force at 14.12.2023 in so far as not already in force by [S.I. 2023/1245](https://www.legislation.gov.uk/uksi/2023/1245), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/1245/article/2/b)

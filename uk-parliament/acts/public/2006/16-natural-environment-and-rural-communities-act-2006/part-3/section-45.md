@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Codes of practice[^key-c9147a7cc5ea5516b1e92e4b6e884289]
+## 45. Codes of practice[^c-c9147a7cc5ea5516b1e92e4b6e884289]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9147a7cc5ea5516b1e92e4b6e884289]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/16/section/45) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-c9147a7cc5ea5516b1e92e4b6e884289]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/16/section/45) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

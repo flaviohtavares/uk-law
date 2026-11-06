@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Recovery by parent etc. where child not placed or is a baby[^key-729458acdfc3de4f78e4c9750a884327]
+## 28. Recovery by parent etc. where child not placed or is a baby[^c-729458acdfc3de4f78e4c9750a884327]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ unless an application is, or has been, made for a placement order and the applic
 
 ## Annotations
 
-[^key-729458acdfc3de4f78e4c9750a884327]: Commencement: S. 28 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-729458acdfc3de4f78e4c9750a884327]: Commencement: S. 28 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

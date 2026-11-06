@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Offences under section 1 of the Geneva Conventions Act 1957[^c18072501][^key-06315e1311881defca5a539eab733e9a][^key-7eeb49f17a2a3629d0bc208567e34803]
+## 70. Offences under section 1 of the Geneva Conventions Act 1957[^c18072501][^c-06315e1311881defca5a539eab733e9a][^c-7eeb49f17a2a3629d0bc208567e34803]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 [^c18072501]: Modification: S. 70 extended (with modifications) (IoM) (1.4.2004) by [S.I. 2004/714](https://www.legislation.gov.uk/uksi/2004/714), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/714/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2004/714/schedule)
 
-[^key-06315e1311881defca5a539eab733e9a]: Modification: S. 70 extended (Guernsey) (with modifications) (15.1.2011) by [The Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2965/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2965/schedule/1)
+[^c-06315e1311881defca5a539eab733e9a]: Modification: S. 70 extended (Guernsey) (with modifications) (15.1.2011) by [The Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2965/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2965/schedule/1)
 
-[^key-7eeb49f17a2a3629d0bc208567e34803]: Modification: S. 70 extended (Jersey) (with modifications) (8.10.2014 coming into force in accordance with art. 1) by [The International Criminal Court Act 2001 (Jersey) Order 2014 (S.I. 2014/2706)](https://www.legislation.gov.uk/uksi/2014/2706), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2706/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2014/2706/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2014/2706/schedule)
+[^c-7eeb49f17a2a3629d0bc208567e34803]: Modification: S. 70 extended (Jersey) (with modifications) (8.10.2014 coming into force in accordance with art. 1) by [The International Criminal Court Act 2001 (Jersey) Order 2014 (S.I. 2014/2706)](https://www.legislation.gov.uk/uksi/2014/2706), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2706/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2014/2706/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2014/2706/schedule)

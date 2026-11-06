@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) If, on the application of the local authority that served an antisocial behaviour notice on a landlord under section 68(1) or (1A)[^key-b9a476cb446280d98458fae798d1dc60], the sheriff is satisfied as to the matters mentioned in subsection (2), the sheriff may—
+(1) If, on the application of the local authority that served an antisocial behaviour notice on a landlord under section 68(1) or (1A)[^c-b9a476cb446280d98458fae798d1dc60], the sheriff is satisfied as to the matters mentioned in subsection (2), the sheriff may—
 
 - (a) make an order that, with effect from the making of the order—
   - (i) no rent be payable by any person who occupies the relevant house; and
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9a476cb446280d98458fae798d1dc60]: Textual amendment: Words in s. 71(1) inserted (12.3.2011) by [The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201)](https://www.legislation.gov.uk/ssi/2011/201), [arts. 1](https://www.legislation.gov.uk/ssi/2011/201/article/1), [5](https://www.legislation.gov.uk/ssi/2011/201/article/5)
+[^c-b9a476cb446280d98458fae798d1dc60]: Textual amendment: Words in s. 71(1) inserted (12.3.2011) by [The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201)](https://www.legislation.gov.uk/ssi/2011/201), [arts. 1](https://www.legislation.gov.uk/ssi/2011/201/article/1), [5](https://www.legislation.gov.uk/ssi/2011/201/article/5)

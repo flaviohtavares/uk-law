@@ -27,14 +27,14 @@ summary: ''
 - (a) the balance mentioned in paragraph (1); plus
 - (b) the amount of earned pension, if any, for the Scheme year; plus
 - (c) the amount of any additional member pension acquired during the Scheme year pursuant to arrangements made under regulation 16(1) or (3) (additional pension contributions); plus or minus, as the case may be,
-- (d) the sum resulting from any pension account adjustment during the Scheme year plus[^key-760c2e44c40db7562e36e031603fa2f2],
-- (e)[^key-0d7717824f2f655f8888710902bf8fbb] for any Scheme year beginning with the Scheme year that starts on 1st April 2023, the revaluation adjustment which was applied on the revaluation date falling within that Scheme year,
+- (d) the sum resulting from any pension account adjustment during the Scheme year plus[^c-760c2e44c40db7562e36e031603fa2f2],
+- (e)[^c-0d7717824f2f655f8888710902bf8fbb] for any Scheme year beginning with the Scheme year that starts on 1st April 2023, the revaluation adjustment which was applied on the revaluation date falling within that Scheme year,
 
-must be aggregated [^key-76eac2996d311fc337424d7795857077]....
+must be aggregated [^c-76eac2996d311fc337424d7795857077]....
 
-(3) The [^key-08147638d5d811b4dffc217f73f1f881]... balance calculated under paragraph (2) becomes the new opening balance for the next Scheme year.
+(3) The [^c-08147638d5d811b4dffc217f73f1f881]... balance calculated under paragraph (2) becomes the new opening balance for the next Scheme year.
 
-(3A)[^key-906c8730b0e7402f70ee16cb55bcea9b]  Each Scheme year, beginning with the Scheme year that starts on 1st April 2023, the revaluation adjustment must be applied to the balance mentioned at paragraph (3) on the revaluation date, in accordance with actuarial guidance issued by the Secretary of State.
+(3A)[^c-906c8730b0e7402f70ee16cb55bcea9b]  Each Scheme year, beginning with the Scheme year that starts on 1st April 2023, the revaluation adjustment must be applied to the balance mentioned at paragraph (3) on the revaluation date, in accordance with actuarial guidance issued by the Secretary of State.
 
 (4) Except where regulation 10 (temporary reduction in contributions) applies, the amount of earned pension for a Scheme year is 1/49th of the member's pensionable pay received in that year (irrespective of whether it relates to work carried out in that year).
 
@@ -64,12 +64,12 @@ the appropriate administering authority shall reduce the balance in the member's
 
 ## Annotations
 
-[^key-760c2e44c40db7562e36e031603fa2f2]: Textual amendment: Word in [reg. 23(2)(d)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/2/d) inserted (31.3.2023) by [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/a)
+[^c-760c2e44c40db7562e36e031603fa2f2]: Textual amendment: Word in [reg. 23(2)(d)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/2/d) inserted (31.3.2023) by [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/a)
 
-[^key-0d7717824f2f655f8888710902bf8fbb]: Textual amendment: [Reg. 23(2)(e)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/2/e) inserted (31.3.2023) by [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/a)
+[^c-0d7717824f2f655f8888710902bf8fbb]: Textual amendment: [Reg. 23(2)(e)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/2/e) inserted (31.3.2023) by [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/a)
 
-[^key-76eac2996d311fc337424d7795857077]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/2) omitted (31.3.2023) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/b)
+[^c-76eac2996d311fc337424d7795857077]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/2) omitted (31.3.2023) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/b)
 
-[^key-08147638d5d811b4dffc217f73f1f881]: Textual amendment: Word in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/3) omitted (31.3.2023) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/c)
+[^c-08147638d5d811b4dffc217f73f1f881]: Textual amendment: Word in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/3) omitted (31.3.2023) by virtue of [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/c)
 
-[^key-906c8730b0e7402f70ee16cb55bcea9b]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/3A) inserted (31.3.2023) by [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/c)
+[^c-906c8730b0e7402f70ee16cb55bcea9b]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/23/3A) inserted (31.3.2023) by [The Local Government Pension Scheme (Amendment) Regulations 2023 (S.I. 2023/279)](https://www.legislation.gov.uk/uksi/2023/279), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/279/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2023/279/regulation/3/1/c)

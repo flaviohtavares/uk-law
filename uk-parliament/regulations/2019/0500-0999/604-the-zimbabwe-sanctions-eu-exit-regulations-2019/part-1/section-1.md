@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-199262a3401a33728b1df2f9486fc762][^key-262ff8d889e9839f9aea89eae0b85943]
+## 1. Citation and commencement[^c-199262a3401a33728b1df2f9486fc762][^c-262ff8d889e9839f9aea89eae0b85943]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-199262a3401a33728b1df2f9486fc762]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-199262a3401a33728b1df2f9486fc762]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-262ff8d889e9839f9aea89eae0b85943]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/604/regulation/1) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/a)
+[^c-262ff8d889e9839f9aea89eae0b85943]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/604/regulation/1) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/a)

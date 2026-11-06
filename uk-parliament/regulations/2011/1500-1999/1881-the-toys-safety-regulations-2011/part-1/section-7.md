@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A toy which conforms with designated[^key-fb0b922c4a83a951e04dbe93a56b4769] standards shall be presumed to comply with the essential safety requirements to the extent that those requirements are covered by those standards.
+(1) A toy which conforms with designated[^c-fb0b922c4a83a951e04dbe93a56b4769] standards shall be presumed to comply with the essential safety requirements to the extent that those requirements are covered by those standards.
 
 (2) The presumption set out in paragraph (1) is rebuttable.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_E_772833c6-01f8-4163-bfb2-20e7d2b28c6d]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-fb0b922c4a83a951e04dbe93a56b4769]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2011/1881/regulation/7) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 9](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/9) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb0b922c4a83a951e04dbe93a56b4769]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2011/1881/regulation/7) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 9](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/9) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Directions to the Director General.[^key-207aeb8a9ea70a4161a9b1a4a94fa597][^key-2d9037b936f8b86a2895c4c4666b6e79]
+## 11. Directions to the Director General.[^c-207aeb8a9ea70a4161a9b1a4a94fa597][^c-2d9037b936f8b86a2895c4c4666b6e79]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-207aeb8a9ea70a4161a9b1a4a94fa597]: Modification: S. 11 modified (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(7)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/7), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-207aeb8a9ea70a4161a9b1a4a94fa597]: Modification: S. 11 modified (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(7)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/7), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
 
-[^key-2d9037b936f8b86a2895c4c4666b6e79]: Modification: S. 11 functions made partly exercisable concurrently (22.8.2007) by [The Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1)[(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/a/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
+[^c-2d9037b936f8b86a2895c4c4666b6e79]: Modification: S. 11 functions made partly exercisable concurrently (22.8.2007) by [The Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1)[(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/a/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
 
 [^c1528515]: Textual amendment: Words in s. 11(1) substituted (2.9.1998) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1998/22/section/2/2), [27(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/5).

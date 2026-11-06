@@ -27,7 +27,7 @@ summary: ''
 - “**CAA 2001**” means the Capital Allowances Act 2001,
 - “**CRCA 2005**” means the Commissioners for Revenue and Customs Act 2005,
 - “**CTA 2009**” means the Corporation Tax Act 2009,
-- “[^key-d57f31d1942d7eeec869b03ffe162334]**CTA 2010**” means the Corporation Tax Act 2010,
+- “[^c-d57f31d1942d7eeec869b03ffe162334]**CTA 2010**” means the Corporation Tax Act 2010,
 - “**FISMA 2000**” means the Financial Services and Markets Act 2000,
 - “**HODA 1979**” means the Hydrocarbon Oil Duties Act 1979,
 - “**ICTA**” means the Income and Corporation Taxes Act 1988,
@@ -39,7 +39,7 @@ summary: ''
 - “**OTA 1983**” means the Oil Taxation Act 1983,
 - “**PRTA 1980**” means the Petroleum Revenue Tax Act 1980,
 - “**TCGA 1992**” means the Taxation of Chargeable Gains Act 1992,
-- “[^key-596118d284cccc3c73d7bb6d4b45968f]**TIOPA 2010**” means the Taxation (International and Other Provisions) Act 2010,
+- “[^c-596118d284cccc3c73d7bb6d4b45968f]**TIOPA 2010**” means the Taxation (International and Other Provisions) Act 2010,
 - “**TMA 1970**” means the Taxes Management Act 1970,
 - “**TPDA 1979**” means the Tobacco Products Duty Act 1979,
 - “**VATA 1994**” means the Value Added Tax Act 1994, and
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d57f31d1942d7eeec869b03ffe162334]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/1) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 712](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/712) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d57f31d1942d7eeec869b03ffe162334]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/1) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 712](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/712) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-596118d284cccc3c73d7bb6d4b45968f]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/1) inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 332](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/332) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-596118d284cccc3c73d7bb6d4b45968f]: Textual amendment: Words in [s. 126(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/1) inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 332](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/332) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

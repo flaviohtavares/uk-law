@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Custody for life: place of detention[^key-acd1d87290ad075e7b22aefb29b654ae]
+## 276. Custody for life: place of detention[^c-acd1d87290ad075e7b22aefb29b654ae]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This is subject to section 22(2)(b) of the Prison Act 1952 (removal to hospital 
 
 ## Annotations
 
-[^key-acd1d87290ad075e7b22aefb29b654ae]: Commencement: S. 276 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-acd1d87290ad075e7b22aefb29b654ae]: Commencement: S. 276 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

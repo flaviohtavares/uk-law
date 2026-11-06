@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Individuals: death or incapacity[^key-4069c992351597c25e05344875112d95]
+## 55. Individuals: death or incapacity[^c-4069c992351597c25e05344875112d95]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4069c992351597c25e05344875112d95]: Commencement: Reg. 55 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-4069c992351597c25e05344875112d95]: Commencement: Reg. 55 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

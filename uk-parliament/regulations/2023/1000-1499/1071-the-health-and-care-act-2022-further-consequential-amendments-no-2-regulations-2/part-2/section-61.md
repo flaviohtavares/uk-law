@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendment of the National Health Service (Performers Lists) (England) Regulations 2013[^key-d55fd8d1c104525656a4c063a35ec3f5]
+## 61. Amendment of the National Health Service (Performers Lists) (England) Regulations 2013[^c-d55fd8d1c104525656a4c063a35ec3f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d55fd8d1c104525656a4c063a35ec3f5]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2023/1071/regulation/61) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-d55fd8d1c104525656a4c063a35ec3f5]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2023/1071/regulation/61) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00050]: Footnote: [S.I. 2013/335](https://www.legislation.gov.uk/uksi/2013/335), to which there are amendments not relevant to these Regulations.

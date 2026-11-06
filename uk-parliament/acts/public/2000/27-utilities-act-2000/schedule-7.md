@@ -383,19 +383,19 @@ the Authority may itself make the scheme.
 
 *Extent: E+W+S*
 
-**24.**[^key-045f431bb1ce51191daf5a5160ca296d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-045f431bb1ce51191daf5a5160ca296d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Consultation by Council before establishing regional committees
 
 *Extent: E+W+S*
 
-**25.**[^key-3afe8474506ec04145bd255bdc396e22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-3afe8474506ec04145bd255bdc396e22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### First financial years of Authority and Council
 
 *Extent: E+W+S*
 
-**26.** (1) In this paragraph “**the body**” means the Authority [^key-a96a32d1496f456a6b2fb70c62ce2420]....
+**26.** (1) In this paragraph “**the body**” means the Authority [^c-a96a32d1496f456a6b2fb70c62ce2420]....
 
 (2) If the period beginning with the day on which the body is established and ending with the next 31st March is six months or more, the first financial year of the body is that period.
 
@@ -407,7 +407,7 @@ the Authority may itself make the scheme.
 
 **27.**[^c1259330] The Authority’s first forward work programme required by section 4(1) shall relate to the financial year following its first financial year.
 
-**28.**[^key-12267ae5e15eb8212422949917024bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-12267ae5e15eb8212422949917024bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Last annual reports of the Directors
 
@@ -425,19 +425,19 @@ the Authority may itself make the scheme.
 
 *Extent: E+W+S*
 
-**30.**[^key-e1599b0e027e7d00123a1deee48061a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-e1599b0e027e7d00123a1deee48061a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Investigations being carried out under the 1986 Act
 
 *Extent: E+W+S*
 
-**31.**[^key-f1fbeaa36f45dd76b9451c6f4594c770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-f1fbeaa36f45dd76b9451c6f4594c770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Investigations being carried out under the 1989 Act
 
 *Extent: E+W+S*
 
-**32.**[^key-8c427e16b9e627e34d10f07e6cd02227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-8c427e16b9e627e34d10f07e6cd02227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -459,20 +459,20 @@ the Authority may itself make the scheme.
 
 [^c1259327]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-045f431bb1ce51191daf5a5160ca296d]: Textual amendment: Sch. 7 para. 24 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-045f431bb1ce51191daf5a5160ca296d]: Textual amendment: Sch. 7 para. 24 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-3afe8474506ec04145bd255bdc396e22]: Textual amendment: Sch. 7 para. 25 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-3afe8474506ec04145bd255bdc396e22]: Textual amendment: Sch. 7 para. 25 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-a96a32d1496f456a6b2fb70c62ce2420]: Textual amendment: Words in Sch. 7 para. 26(1) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-a96a32d1496f456a6b2fb70c62ce2420]: Textual amendment: Words in Sch. 7 para. 26(1) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c1259330]: Commencement: Sch. 7 para. 27 in force at 20.12.2000, see s. 102(2)(3) and [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3))
 
-[^key-12267ae5e15eb8212422949917024bc9]: Textual amendment: Sch. 7 para. 28 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-12267ae5e15eb8212422949917024bc9]: Textual amendment: Sch. 7 para. 28 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
 [^c1259332]: Commencement: Sch. 7 para. 29 in force at 1.10.2001; Sch. 7 para. 29 not in force at Royal Assent see s. 110(2); Sch. 7 para. 29 in force at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-e1599b0e027e7d00123a1deee48061a9]: Textual amendment: Sch. 7 para. 30 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-e1599b0e027e7d00123a1deee48061a9]: Textual amendment: Sch. 7 para. 30 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-f1fbeaa36f45dd76b9451c6f4594c770]: Textual amendment: Sch. 7 para. 31 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-f1fbeaa36f45dd76b9451c6f4594c770]: Textual amendment: Sch. 7 para. 31 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-8c427e16b9e627e34d10f07e6cd02227]: Textual amendment: Sch. 7 para. 32 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-8c427e16b9e627e34d10f07e6cd02227]: Textual amendment: Sch. 7 para. 32 repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

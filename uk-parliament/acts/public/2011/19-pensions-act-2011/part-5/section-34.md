@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Contributions towards cost of judicial pensions etc[^key-065784bfab854354e9e9133048f8c78f]
+## 34. Contributions towards cost of judicial pensions etc[^c-065784bfab854354e9e9133048f8c78f]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065784bfab854354e9e9133048f8c78f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/19/section/34) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/g)
+[^c-065784bfab854354e9e9133048f8c78f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/19/section/34) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/g)

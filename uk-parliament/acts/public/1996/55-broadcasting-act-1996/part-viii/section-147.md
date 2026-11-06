@@ -24,7 +24,7 @@ summary: ''
 
 - “**the 1990 Act**” means the [^c11523211]Broadcasting Act 1990;
 - “**the BBC**” means the British Broadcasting Corporation.
-- “[^key-3299cd9691942c28d4345145ae14a2ab] **OFCOM**” means the Office of Communications;
+- “[^c-3299cd9691942c28d4345145ae14a2ab] **OFCOM**” means the Office of Communications;
 
 (2) The 1990 Act and the following provisions of this Act—
 
@@ -43,4 +43,4 @@ shall be construed as if those provisions were contained in that Act.
 
 [^c11523211]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-3299cd9691942c28d4345145ae14a2ab]: Textual amendment: Words in [s. 147(1)](https://www.legislation.gov.uk/ukpga/1996/55/section/147/1) inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 141](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/141) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3299cd9691942c28d4345145ae14a2ab]: Textual amendment: Words in [s. 147(1)](https://www.legislation.gov.uk/ukpga/1996/55/section/147/1) inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 141](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/141) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

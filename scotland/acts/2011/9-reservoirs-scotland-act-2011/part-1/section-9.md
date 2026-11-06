@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Controlled reservoirs register[^key-755d3e7ca319ff9f878eeee4ebb4619d]
+## 9. Controlled reservoirs register[^c-755d3e7ca319ff9f878eeee4ebb4619d]
 
 *Extent: S*
 
-(1)[^key-7b567f25193ba862bcfe07c1a94ff2af] SEPA must establish and maintain a controlled reservoirs register.
+(1)[^c-7b567f25193ba862bcfe07c1a94ff2af] SEPA must establish and maintain a controlled reservoirs register.
 
 (2) The controlled reservoirs register is a register containing the following information and documents in relation to each controlled reservoir—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-755d3e7ca319ff9f878eeee4ebb4619d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/9/section/9) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule) (with [arts. 3-6](https://www.legislation.gov.uk/ssi/2015/63/article/3))
+[^c-755d3e7ca319ff9f878eeee4ebb4619d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/9/section/9) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule) (with [arts. 3-6](https://www.legislation.gov.uk/ssi/2015/63/article/3))
 
-[^key-7b567f25193ba862bcfe07c1a94ff2af]: Modification: [S. 9(1)](https://www.legislation.gov.uk/asp/2011/9/section/9/1) excluded (1.4.2015) by [The Reservoirs (Scotland) Act 2011 (Restrictions on Disclosure of Information in relation to National Security etc.) Order 2015 (S.I. 2015/48)](https://www.legislation.gov.uk/uksi/2015/48), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/48/article/1/2), [14](https://www.legislation.gov.uk/uksi/2015/48/article/14) (with [arts. 13](https://www.legislation.gov.uk/uksi/2015/48/article/13), [16](https://www.legislation.gov.uk/uksi/2015/48/article/16))
+[^c-7b567f25193ba862bcfe07c1a94ff2af]: Modification: [S. 9(1)](https://www.legislation.gov.uk/asp/2011/9/section/9/1) excluded (1.4.2015) by [The Reservoirs (Scotland) Act 2011 (Restrictions on Disclosure of Information in relation to National Security etc.) Order 2015 (S.I. 2015/48)](https://www.legislation.gov.uk/uksi/2015/48), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/48/article/1/2), [14](https://www.legislation.gov.uk/uksi/2015/48/article/14) (with [arts. 13](https://www.legislation.gov.uk/uksi/2015/48/article/13), [16](https://www.legislation.gov.uk/uksi/2015/48/article/16))

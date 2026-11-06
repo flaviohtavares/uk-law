@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to authorise use of information by the Board[^key-f60d8759875f3195365a4073d89d1e1e]
+## 50. Power to authorise use of information by the Board[^c-f60d8759875f3195365a4073d89d1e1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f60d8759875f3195365a4073d89d1e1e]: Commencement: S. 50 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/g)
+[^c-f60d8759875f3195365a4073d89d1e1e]: Commencement: S. 50 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/g)

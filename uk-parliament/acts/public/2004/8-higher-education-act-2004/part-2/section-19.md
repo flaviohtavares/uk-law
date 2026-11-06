@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Extension of time for bringing discrimination proceedings[^key-e69068de2708e795f3786980f2df6d38][^key-db3cc9e89b4a0646d6b4cda9f2248690]
+## 19. Extension of time for bringing discrimination proceedings[^c-e69068de2708e795f3786980f2df6d38][^c-db3cc9e89b4a0646d6b4cda9f2248690]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e69068de2708e795f3786980f2df6d38]: Textual amendment: S. 19 repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-e69068de2708e795f3786980f2df6d38]: Textual amendment: S. 19 repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
 
-[^key-db3cc9e89b4a0646d6b4cda9f2248690]: Commencement: S. 19 in force at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 3](https://www.legislation.gov.uk/uksi/2004/2781/article/3)
+[^c-db3cc9e89b4a0646d6b4cda9f2248690]: Commencement: S. 19 in force at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 3](https://www.legislation.gov.uk/uksi/2004/2781/article/3)

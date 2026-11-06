@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Litter clearing notices[^key-00ee876b921135bfc2fefe3db6b77ab2]
+## 17. Litter clearing notices[^c-00ee876b921135bfc2fefe3db6b77ab2]
 
 *Extent: N.I.*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ee876b921135bfc2fefe3db6b77ab2]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/23/section/17) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-00ee876b921135bfc2fefe3db6b77ab2]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/23/section/17) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

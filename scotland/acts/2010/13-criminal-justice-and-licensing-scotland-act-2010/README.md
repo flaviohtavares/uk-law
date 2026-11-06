@@ -375,7 +375,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 139 — Application by appellant for ruling on disclosure](part-6/section-139.md)
 - [Section 140 — Review of ruling under section 139](part-6/section-140.md)
 
-#### Disclosure in relation to 2011 Act proceedings[^key-01fedf7562d85e2be4b320e108670d94]
+#### Disclosure in relation to 2011 Act proceedings[^c-01fedf7562d85e2be4b320e108670d94]
 
 *Extent: S*
 
@@ -384,7 +384,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 140C — Continuing duty of prosecutor](part-6/section-140c.md)
 - [Section 140D — Application to prosecutor for further disclosure](part-6/section-140d.md)
 
-#### Court rulings on disclosure: 2011 Act proceedings[^key-01fedf7562d85e2be4b320e108670d94]
+#### Court rulings on disclosure: 2011 Act proceedings[^c-01fedf7562d85e2be4b320e108670d94]
 
 - [Section 140E — Application by respondent for ruling on disclosure](part-6/section-140e.md)
 - [Section 140F — Review of ruling under section 140E](part-6/section-140f.md)
@@ -504,4 +504,4 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-01fedf7562d85e2be4b320e108670d94]: Textual amendment: Ss. 140A-140F and cross-headings inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [ss. 13(2)](https://www.legislation.gov.uk/asp/2011/16/section/13/2), [17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/365/article/4), [5](https://www.legislation.gov.uk/ssi/2011/365/article/5))
+[^c-01fedf7562d85e2be4b320e108670d94]: Textual amendment: Ss. 140A-140F and cross-headings inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [ss. 13(2)](https://www.legislation.gov.uk/asp/2011/16/section/13/2), [17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/365/article/4), [5](https://www.legislation.gov.uk/ssi/2011/365/article/5))

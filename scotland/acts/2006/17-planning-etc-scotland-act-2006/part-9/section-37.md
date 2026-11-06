@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. BID Revenue Account[^key-5b1c8a078ad32eda6b484a08e0e538c5][^key-567b8dde9b67d269dc356e618f6d6fea]
+## 37. BID Revenue Account[^c-5b1c8a078ad32eda6b484a08e0e538c5][^c-567b8dde9b67d269dc356e618f6d6fea]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b1c8a078ad32eda6b484a08e0e538c5]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/17/section/37) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-5b1c8a078ad32eda6b484a08e0e538c5]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/17/section/37) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-567b8dde9b67d269dc356e618f6d6fea]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/17/section/37) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-567b8dde9b67d269dc356e618f6d6fea]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2006/17/section/37) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

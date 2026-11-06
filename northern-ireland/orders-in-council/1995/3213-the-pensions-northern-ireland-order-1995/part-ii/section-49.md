@@ -39,13 +39,13 @@ summary: ''
 
 (7) If in the case of any trust scheme any person fails to comply with any requirement imposed under paragraph (3) or (5), Article 10 applies to him.
 
-(8)[^key-bfff2670345dc4f4ac3f28f5e9cf74f4][^c17250531] Where on making a payment of any earnings in respect of any employment there is deducted any amount corresponding to any contribution payable on behalf of an active member of an occupational pension scheme, the amount deducted is to be paid, within a prescribed period, to the trustees or managers of the scheme.
+(8)[^c-bfff2670345dc4f4ac3f28f5e9cf74f4][^c17250531] Where on making a payment of any earnings in respect of any employment there is deducted any amount corresponding to any contribution payable on behalf of an active member of an occupational pension scheme, the amount deducted is to be paid, within a prescribed period, to the trustees or managers of the scheme.
 
 (8A) “Deposit taker” means—
 
 - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits;
-- (b)[^key-c4cb23ce43453353ddce855ea575f480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) the Bank of England [^key-c2976a7e83cd5354be2a172e784e0feb]...
+- (b)[^c-c4cb23ce43453353ddce855ea575f480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Bank of England [^c-c2976a7e83cd5354be2a172e784e0feb]...
 - (d) the National Savings Bank; or
 - (e) a municipal bank, that is to say a company which was, immediately before the repeal of the Banking Act 1987, exempted from the prohibition in section 3 of that Act by virtue of section 4(1) of, and paragraph 4 of Schedule 2 to, that Act.
 
@@ -84,12 +84,12 @@ summary: ''
 
 [^c17250511]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-bfff2670345dc4f4ac3f28f5e9cf74f4]: Modification: [Art. 49(8)](https://www.legislation.gov.uk/nisi/1995/3213/article/49/8) excluded (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/5/paragraph/1/2/b); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-bfff2670345dc4f4ac3f28f5e9cf74f4]: Modification: [Art. 49(8)](https://www.legislation.gov.uk/nisi/1995/3213/article/49/8) excluded (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/5/paragraph/1/2/b); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
 [^c17250531]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-c4cb23ce43453353ddce855ea575f480]: Textual amendment: [Art. 49(8A)(b)](https://www.legislation.gov.uk/nisi/1995/3213/article/49/8A/b) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/193/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4cb23ce43453353ddce855ea575f480]: Textual amendment: [Art. 49(8A)(b)](https://www.legislation.gov.uk/nisi/1995/3213/article/49/8A/b) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/193/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2976a7e83cd5354be2a172e784e0feb]: Textual amendment: Words in [art. 49(8A)(c)](https://www.legislation.gov.uk/nisi/1995/3213/article/49/8A/c) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/193/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2976a7e83cd5354be2a172e784e0feb]: Textual amendment: Words in [art. 49(8A)(c)](https://www.legislation.gov.uk/nisi/1995/3213/article/49/8A/c) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/193/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19658841]: Textual amendment: Art. 49(9)(b) substituted (1.7.2005 for certain purposes, otherwise 6.4.2006) by [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [246(1)](https://www.legislation.gov.uk/nisi/2005/255/article/246/1); [S.R. 2005/321](https://www.legislation.gov.uk/nisr/2005/321), [art. 2(15)](https://www.legislation.gov.uk/nisr/2005/321/article/2/15), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2005/321/schedule/part/2)

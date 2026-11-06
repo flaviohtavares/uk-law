@@ -30,7 +30,7 @@ summary: ''
 
 (3) This section does not apply to a community which—
 
-- (a) is an independent school or an alternative provision Academy that is not an independent school *(Extent: E+W)*[^key-270923222b877381427b9e4c3cb3de60] , or
+- (a) is an independent school or an alternative provision Academy that is not an independent school *(Extent: E+W)*[^c-270923222b877381427b9e4c3cb3de60] , or
 - (b) provides a course of further or higher education.
 
 (4) The residential members of a community are those who live together as mentioned in subsection (2)(c).
@@ -50,7 +50,7 @@ summary: ''
 
 [^c9532331]: Textual amendment: S. 44A inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 22](https://www.legislation.gov.uk/ukpga/1999/26/section/22); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/I)
 
-[^key-270923222b877381427b9e4c3cb3de60]: Textual amendment: Words in [s. 44A(3)(a)](https://www.legislation.gov.uk/ukpga/1998/39/section/44A/3/a) inserted (E.W.) (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))
+[^c-270923222b877381427b9e4c3cb3de60]: Textual amendment: Words in [s. 44A(3)(a)](https://www.legislation.gov.uk/ukpga/1998/39/section/44A/3/a) inserted (E.W.) (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))
 
 [^c9532341]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

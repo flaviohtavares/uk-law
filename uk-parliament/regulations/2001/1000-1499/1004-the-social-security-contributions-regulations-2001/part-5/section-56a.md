@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Repayment of Class 3A contributions[^key-2073a29e5c99f04a9ea0a6c5020f9f8e]
+## 56A. Repayment of Class 3A contributions[^c-2073a29e5c99f04a9ea0a6c5020f9f8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2073a29e5c99f04a9ea0a6c5020f9f8e]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/56A) inserted (12.10.2015 for E.W.S. and coming into force for N.I in accordance with reg. 1(3)) by [The Social Security Class 3A Contributions (Amendment) Regulations 2014 (S.I. 2014/2746)](https://www.legislation.gov.uk/uksi/2014/2746), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2746/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/2746/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2014/2746/regulation/4/2)
+[^c-2073a29e5c99f04a9ea0a6c5020f9f8e]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/56A) inserted (12.10.2015 for E.W.S. and coming into force for N.I in accordance with reg. 1(3)) by [The Social Security Class 3A Contributions (Amendment) Regulations 2014 (S.I. 2014/2746)](https://www.legislation.gov.uk/uksi/2014/2746), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2746/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2014/2746/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2014/2746/regulation/4/2)

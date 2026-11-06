@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 415C. Co-operation and consultation in relation to exercise of functions[^key-adada2aab2112b8089ed260cdab6bd3e]
+## 415C. Co-operation and consultation in relation to exercise of functions[^c-adada2aab2112b8089ed260cdab6bd3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adada2aab2112b8089ed260cdab6bd3e]: Textual amendment: [S. 415C](https://www.legislation.gov.uk/ukpga/2000/8/section/415C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/40/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/dd)
+[^c-adada2aab2112b8089ed260cdab6bd3e]: Textual amendment: [S. 415C](https://www.legislation.gov.uk/ukpga/2000/8/section/415C) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/40/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(dd)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/dd)

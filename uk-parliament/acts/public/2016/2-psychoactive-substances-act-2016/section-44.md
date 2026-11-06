@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Excluded items[^key-53741a19e97b30620ca7464c2a6dc484]
+## 44. Excluded items[^c-53741a19e97b30620ca7464c2a6dc484]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53741a19e97b30620ca7464c2a6dc484]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2016/2/section/44) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-53741a19e97b30620ca7464c2a6dc484]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2016/2/section/44) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

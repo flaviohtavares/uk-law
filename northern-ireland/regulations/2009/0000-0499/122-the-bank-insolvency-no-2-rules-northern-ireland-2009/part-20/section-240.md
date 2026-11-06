@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 240. Form and contents of application[^key-6d102adda7a7d586c72251bff68f2c01]
+## 240. Form and contents of application[^c-6d102adda7a7d586c72251bff68f2c01]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 9.2 of the 1991 Rules.
 
 ## Annotations
 
-[^key-6d102adda7a7d586c72251bff68f2c01]: Commencement: Rule 240 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6d102adda7a7d586c72251bff68f2c01]: Commencement: Rule 240 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

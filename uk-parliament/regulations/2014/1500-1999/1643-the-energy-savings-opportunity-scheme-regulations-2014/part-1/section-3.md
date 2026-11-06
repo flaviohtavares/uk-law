@@ -25,7 +25,7 @@ summary: ''
 - (a) carry out a review of the operation and effect of these Regulations,
 - (b) publish the conclusions of the review in a report.
 
-(2)[^key-787c9d30f0fb2ca1bc417050bcfe12a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-787c9d30f0fb2ca1bc417050bcfe12a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any report must in particular—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-787c9d30f0fb2ca1bc417050bcfe12a5]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/3/2) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/701/regulation/4)
+[^c-787c9d30f0fb2ca1bc417050bcfe12a5]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/3/2) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/701/regulation/4)

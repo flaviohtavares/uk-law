@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Certificate of lawfulness of existing use or development[^key-55b4789fa6995e12c66f14ab30ef76b8]
+## 156. Certificate of lawfulness of existing use or development[^c-55b4789fa6995e12c66f14ab30ef76b8]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55b4789fa6995e12c66f14ab30ef76b8]: Commencement: S. 156 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-55b4789fa6995e12c66f14ab30ef76b8]: Commencement: S. 156 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

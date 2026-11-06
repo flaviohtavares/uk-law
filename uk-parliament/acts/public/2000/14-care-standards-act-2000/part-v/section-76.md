@@ -48,7 +48,7 @@ and the regulations may provide for assistance to be given on conditions, includ
 
 - (a)[^c21154761] include provision about the making of reports on any matter connected with any of his functions;
 - (b)[^c21154851] provide that the Commissioner may make a joint report with the Commissioner for Older People in Wales where they have discharged their respective functions under this Act and the Commissioner for Older People (Wales) Act 2006 in relation to the same matters.
-- (c)[^key-f95fd7f10680612f22903fb6fbb917e4] provide that the Commissioner may make a joint report with the Welsh Language Commissioner where they have exercised their respective functions under this Act and the Welsh Language (Wales) Measure 2011 in relation to the same matters.
+- (c)[^c-f95fd7f10680612f22903fb6fbb917e4] provide that the Commissioner may make a joint report with the Welsh Language Commissioner where they have exercised their respective functions under this Act and the Welsh Language (Wales) Measure 2011 in relation to the same matters.
 
 (5A)[^c12427081] The references in subsections (4) and (5) to functions of the Commissioner do not include a reference to his power to consider and make representations by virtue of section 75A(1).
 
@@ -78,7 +78,7 @@ unless, after taking account of the public interest (as well as the interests of
 
 [^c21154851]: Textual amendment: S. 75(5)(b) inserted (14.10.2006 for W.) by [Commissioner for Older People (Wales) Act 2006 (c. 30)](https://www.legislation.gov.uk/ukpga/2006/30), [ss. 22](https://www.legislation.gov.uk/ukpga/2006/30/section/22), [23](https://www.legislation.gov.uk/ukpga/2006/30/section/23), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2006/30/schedule/4/paragraph/1/3); [S.I. 2006/2699](https://www.legislation.gov.uk/uksi/2006/2699), [art. 2](https://www.legislation.gov.uk/uksi/2006/2699/article/2)
 
-[^key-f95fd7f10680612f22903fb6fbb917e4]: Textual amendment: S. 76(5)(c) inserted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/3); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
+[^c-f95fd7f10680612f22903fb6fbb917e4]: Textual amendment: S. 76(5)(c) inserted (7.7.2015) by [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), [s. 156(2)](https://www.legislation.gov.uk/mwa/2011/1/section/156/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/mwa/2011/1/schedule/3/paragraph/3); [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/g)
 
 [^c12427081]: Textual amendment: S. 76(5A) inserted (26.8.2001 for W.) by [2001 c. 18](https://www.legislation.gov.uk/ukpga/2001/18), [s. 6(c)](https://www.legislation.gov.uk/ukpga/2001/18/section/6/c); [S.I. 2001/2783](https://www.legislation.gov.uk/uksi/2001/2783), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2001/2783/article/2/2/g)
 

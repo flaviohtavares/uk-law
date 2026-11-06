@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Restraint orders etc[^key-522c7c3f8f74cdbca791dea617fb8d9f][^key-d59f6c2a9c42161ca1815c0c61d9e1f6][^key-bf1422bf2e602f499b6e4a1b87fb0e4c][^key-d59f6c2a9c42161ca1815c0c61d9e1f6]
+## 120. Restraint orders etc[^c-522c7c3f8f74cdbca791dea617fb8d9f][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-bf1422bf2e602f499b6e4a1b87fb0e4c][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (6) The court may make such order as it believes is appropriate for the purpose of ensuring that the restraint order is effective.
 
-(6A)[^key-1800f6491170004ef593854afc559dd4] Subsections (6B) and (6C) apply where the court makes a restraint order (by virtue of the first condition in section 119) as a result of a criminal investigation having been instituted in Scotland with regard to an offence.
+(6A)[^c-1800f6491170004ef593854afc559dd4] Subsections (6B) and (6C) apply where the court makes a restraint order (by virtue of the first condition in section 119) as a result of a criminal investigation having been instituted in Scotland with regard to an offence.
 
 (6B) The court—
 
@@ -69,10 +69,10 @@ summary: ''
 
 ## Annotations
 
-[^key-522c7c3f8f74cdbca791dea617fb8d9f]: Commencement: S. 120 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a) (with [arts. 4](https://www.legislation.gov.uk/ssi/2003/210/article/4), [7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
+[^c-522c7c3f8f74cdbca791dea617fb8d9f]: Commencement: S. 120 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a) (with [arts. 4](https://www.legislation.gov.uk/ssi/2003/210/article/4), [7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
 
-[^key-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-bf1422bf2e602f499b6e4a1b87fb0e4c]: Modification: Pt. 3 functions of administrator extended (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2002/3133/article/4/1/a)
+[^c-bf1422bf2e602f499b6e4a1b87fb0e4c]: Modification: Pt. 3 functions of administrator extended (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2002/3133/article/4/1/a)
 
-[^key-1800f6491170004ef593854afc559dd4]: Textual amendment: S. 120(6A)-(6C) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/20/2), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/e)
+[^c-1800f6491170004ef593854afc559dd4]: Textual amendment: S. 120(6A)-(6C) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/20/2), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/e)

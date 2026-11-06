@@ -25,7 +25,7 @@ summary: ''
 - (a) in a case falling within subsection (2) or (3) below, to imprisonment for a term related in accordance with that subsection to the gravity of the offence or offences in question (referred to below in this section as the relevant offence or offences); and
 - (b) in any other case, to a fine.
 
-Paragraph (*b*) above shall not be taken as prejudicing the application of section 120 of the Sentencing Code[^key-d2b24b91a935b602531d55bcb7a73aa3] (general power of court to fine offender convicted on indictment) in a case falling within subsection (2) or (3) below.
+Paragraph (*b*) above shall not be taken as prejudicing the application of section 120 of the Sentencing Code[^c-d2b24b91a935b602531d55bcb7a73aa3] (general power of court to fine offender convicted on indictment) in a case falling within subsection (2) or (3) below.
 
 (2) Where the relevant offence or any of the relevant offences is an offence of any of the following descriptions, that is to say—
 
@@ -41,4 +41,4 @@ In the case of an offence triable either way the references above in this subsec
 
 ## Annotations
 
-[^key-d2b24b91a935b602531d55bcb7a73aa3]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1977/45/section/3/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 38](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/38) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d2b24b91a935b602531d55bcb7a73aa3]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1977/45/section/3/1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 38](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/38) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

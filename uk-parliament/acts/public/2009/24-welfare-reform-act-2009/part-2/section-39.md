@@ -45,8 +45,8 @@ summary: ''
 (6) In relation to England and Wales, the following are excluded services—
 
 - (a) community care services,
-- (b)[^key-3a5425cbc3954265bfc721bf5357a39d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) services provided under section 17 of the Children Act 1989 (c. 41) (provision of services for children in need, their families and others) or sections 37 to 39 of the Social Services and Well-being (Wales) Act 2014 (meeting care and support needs of children)[^key-2f7bb55d5869db50722b99c9ab658dd5] .
+- (b)[^c-3a5425cbc3954265bfc721bf5357a39d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) services provided under section 17 of the Children Act 1989 (c. 41) (provision of services for children in need, their families and others) or sections 37 to 39 of the Social Services and Well-being (Wales) Act 2014 (meeting care and support needs of children)[^c-2f7bb55d5869db50722b99c9ab658dd5] .
 
 (7) In relation to Scotland, the following are excluded services—
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a5425cbc3954265bfc721bf5357a39d]: Textual amendment: [S. 39(6)(b)](https://www.legislation.gov.uk/ukpga/2009/24/section/39/6/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [270(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/270/a)
+[^c-3a5425cbc3954265bfc721bf5357a39d]: Textual amendment: [S. 39(6)(b)](https://www.legislation.gov.uk/ukpga/2009/24/section/39/6/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [270(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/270/a)
 
-[^key-2f7bb55d5869db50722b99c9ab658dd5]: Textual amendment: Words in [s. 39(6)(c)](https://www.legislation.gov.uk/ukpga/2009/24/section/39/6/c) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [270(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/270/b)
+[^c-2f7bb55d5869db50722b99c9ab658dd5]: Textual amendment: Words in [s. 39(6)(c)](https://www.legislation.gov.uk/ukpga/2009/24/section/39/6/c) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [270(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/270/b)

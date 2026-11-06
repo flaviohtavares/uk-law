@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Tax rates and tax bands[^key-36a5b445ad9fd3f2eb6f2683e9e04873]
+## 24. Tax rates and tax bands[^c-36a5b445ad9fd3f2eb6f2683e9e04873]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36a5b445ad9fd3f2eb6f2683e9e04873]: Commencement: S. 24 in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
+[^c-36a5b445ad9fd3f2eb6f2683e9e04873]: Commencement: S. 24 in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)

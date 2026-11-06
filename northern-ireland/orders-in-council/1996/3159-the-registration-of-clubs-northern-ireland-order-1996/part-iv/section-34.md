@@ -39,7 +39,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 - (a) that he exercised all due diligence to avoid the commission of such an offence; or
 - (b) that he had no reason to suspect that the person under the age of 18 had not attained that age.
 
-(4)[^key-b0b9f1ef2603840c24c8efd59fb49496] Without prejudice to any other means of proving the exercise of all due diligence, for the purposes of paragraph (3) the person is to be treated as having exercised all due diligence to avoid the commission of an offence if—
+(4)[^c-b0b9f1ef2603840c24c8efd59fb49496] Without prejudice to any other means of proving the exercise of all due diligence, for the purposes of paragraph (3) the person is to be treated as having exercised all due diligence to avoid the commission of an offence if—
 
 - (a) the person was shown any of the documents specified in paragraph (5); and
 - (b) that document would have convinced a reasonable person.
@@ -54,4 +54,4 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 ## Annotations
 
-[^key-b0b9f1ef2603840c24c8efd59fb49496]: Textual amendment: Art. 34(4)(5) added (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 9(2)](https://www.legislation.gov.uk/nia/2011/18/section/9/2), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-b0b9f1ef2603840c24c8efd59fb49496]: Textual amendment: Art. 34(4)(5) added (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 9(2)](https://www.legislation.gov.uk/nia/2011/18/section/9/2), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)

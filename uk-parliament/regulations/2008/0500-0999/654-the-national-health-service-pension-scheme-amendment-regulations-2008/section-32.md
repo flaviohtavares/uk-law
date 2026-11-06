@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Amendment of regulation H4[^key-1667bf0651f9305d83908496e067957e]
+## 32. Amendment of regulation H4[^c-1667bf0651f9305d83908496e067957e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1667bf0651f9305d83908496e067957e]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-1667bf0651f9305d83908496e067957e]: Commencement: Reg. 32 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

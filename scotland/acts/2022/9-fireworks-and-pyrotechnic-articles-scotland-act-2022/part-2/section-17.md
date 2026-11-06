@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Power of Scottish Ministers to make arrangements for certain functions[^key-da0e47bfdffe155ce8d486d23f064be0]
+## 17. Power of Scottish Ministers to make arrangements for certain functions[^c-da0e47bfdffe155ce8d486d23f064be0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da0e47bfdffe155ce8d486d23f064be0]: Commencement: S. 17 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-da0e47bfdffe155ce8d486d23f064be0]: Commencement: S. 17 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

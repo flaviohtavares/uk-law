@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The appropriate facilities authority[^c18823691] may, after consultation with the Office of Rail and Road[^key-e465f1ca959eba72069ab4e68708b771], by order grant exemption from subsection (1) or (2) of section 16A above (or from both of those subsections) in respect of such railway facilities as may be specified in the order, but subject to compliance with such conditions (if any) as may be so specified.
+(1) The appropriate facilities authority[^c18823691] may, after consultation with the Office of Rail and Road[^c-e465f1ca959eba72069ab4e68708b771], by order grant exemption from subsection (1) or (2) of section 16A above (or from both of those subsections) in respect of such railway facilities as may be specified in the order, but subject to compliance with such conditions (if any) as may be so specified.
 
 (2) An exemption under subsection (1) above may be granted in respect of—
 
@@ -45,7 +45,7 @@ or in respect of part only of railway facilities of a particular class or descri
 
 [^c18823691]: Textual amendment: Words in s. 16B(1) substituted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/11/4)(6): [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-e465f1ca959eba72069ab4e68708b771]: Textual amendment: Words in s. 16B(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(q)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/q)
+[^c-e465f1ca959eba72069ab4e68708b771]: Textual amendment: Words in s. 16B(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(q)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/q)
 
 [^c18823711]: Textual amendment: Words in s. 16B(4) substituted (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/11/4)(6): [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 

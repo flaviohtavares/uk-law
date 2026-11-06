@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-28d8e2fac93ef88a3b14d281f15f7963] A civil engineer—
+(1)[^c-28d8e2fac93ef88a3b14d281f15f7963] A civil engineer—
 
 - (a) whose application for appointment to a panel established under section 27 is rejected,
 - (b) who is removed from a panel under section 28(4),
@@ -28,10 +28,10 @@ summary: ''
 
 may apply to the Scottish Ministers for a review of their decision.
 
-(2)[^key-f45f89d0786147d8b140cf9cf3a99232] The Scottish Ministers may by regulations make further provision in relation to applications and reviews under this section, including provision as to determining and charging fees in connection with applications for review under this section.
+(2)[^c-f45f89d0786147d8b140cf9cf3a99232] The Scottish Ministers may by regulations make further provision in relation to applications and reviews under this section, including provision as to determining and charging fees in connection with applications for review under this section.
 
 ## Annotations
 
-[^key-28d8e2fac93ef88a3b14d281f15f7963]: Commencement: [S. 30(1)](https://www.legislation.gov.uk/asp/2011/9/section/30/1) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-28d8e2fac93ef88a3b14d281f15f7963]: Commencement: [S. 30(1)](https://www.legislation.gov.uk/asp/2011/9/section/30/1) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
 
-[^key-f45f89d0786147d8b140cf9cf3a99232]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/asp/2011/9/section/30/2) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-f45f89d0786147d8b140cf9cf3a99232]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/asp/2011/9/section/30/2) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

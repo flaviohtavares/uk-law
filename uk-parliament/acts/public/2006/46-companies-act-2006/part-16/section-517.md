@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 517. Notice to registrar of resignation of auditor[^key-a77449c1d64a714cc1fc03ee0183d63b]
+## 517. Notice to registrar of resignation of auditor[^c-a77449c1d64a714cc1fc03ee0183d63b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a77449c1d64a714cc1fc03ee0183d63b]: Textual amendment: S. 517 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/4); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4) [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-a77449c1d64a714cc1fc03ee0183d63b]: Textual amendment: S. 517 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/4); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4) [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))

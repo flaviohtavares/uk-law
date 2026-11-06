@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles Testing (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-394bfb57651c4f0bc0cf9efdf498f65e]
+Motor Vehicles Testing (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-394bfb57651c4f0bc0cf9efdf498f65e]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st January 2004
 
-[^key-394bfb57651c4f0bc0cf9efdf498f65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-394bfb57651c4f0bc0cf9efdf498f65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-394bfb57651c4f0bc0cf9efdf498f65e]
+## 1. Citation and commencement[^c-394bfb57651c4f0bc0cf9efdf498f65e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 2003[^key-394bfb57651c4f0bc0cf9efdf498f65e]
+## 2. Amendment of the Motor Vehicle Testing Regulations (Northern Ireland) 2003[^c-394bfb57651c4f0bc0cf9efdf498f65e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-394bfb57651c4f0bc0cf9efdf498f65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-394bfb57651c4f0bc0cf9efdf498f65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-394bfb57651c4f0bc0cf9efdf498f65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-394bfb57651c4f0bc0cf9efdf498f65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-394bfb57651c4f0bc0cf9efdf498f65e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/518) revoked (16.1.2007) by [The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/494)](https://www.legislation.gov.uk/nisr/2006/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/494/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2006/494/regulation/4)
+[^c-394bfb57651c4f0bc0cf9efdf498f65e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/518) revoked (16.1.2007) by [The Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/494)](https://www.legislation.gov.uk/nisr/2006/494), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/494/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2006/494/regulation/4)

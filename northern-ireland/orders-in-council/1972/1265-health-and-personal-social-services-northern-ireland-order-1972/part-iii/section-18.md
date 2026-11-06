@@ -32,8 +32,8 @@ summary: ''
 
 (6)[^c23379041] This Article applies to—
 
-- (a)[^key-916080ce14c8ee3251a52e06af874622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-444c4cf4a1184d097767145a1cf44592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-916080ce14c8ee3251a52e06af874622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-444c4cf4a1184d097767145a1cf44592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Regional Agency.
 
 ## Annotations
@@ -48,6 +48,6 @@ summary: ''
 
 [^c23379041]: Textual amendment: [Art. 18(6)](https://www.legislation.gov.uk/nisi/1972/1265/article/18/6) added (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 3(9)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/9/d); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-916080ce14c8ee3251a52e06af874622]: Textual amendment: [Art. 18(6)(a)](https://www.legislation.gov.uk/nisi/1972/1265/article/18/6/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/11); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-916080ce14c8ee3251a52e06af874622]: Textual amendment: [Art. 18(6)(a)](https://www.legislation.gov.uk/nisi/1972/1265/article/18/6/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/11); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-444c4cf4a1184d097767145a1cf44592]: Textual amendment: [Art. 18(6)(b)](https://www.legislation.gov.uk/nisi/1972/1265/article/18/6/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/11); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-444c4cf4a1184d097767145a1cf44592]: Textual amendment: [Art. 18(6)(b)](https://www.legislation.gov.uk/nisi/1972/1265/article/18/6/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/11); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

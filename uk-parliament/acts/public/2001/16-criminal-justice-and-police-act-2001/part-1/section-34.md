@@ -33,7 +33,7 @@ summary: ''
   in connection with a prohibition or restriction on importation or exportation having effect by virtue of section 3 of the Misuse of Drugs Act 1971 (c. 38);
 - (e) an offence under section 1 of the Criminal Law Act 1977 (c. 45) or Article 9 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983 1120 (N.I. 13)), or in Scotland at common law, of conspiracy to commit any of the offences in paragraphs (a) to (d) above;
 - (f) an offence under section 1 of the Criminal Attempts Act 1981 (c. 47) or Article 3 of the Criminal Attempts and Conspiracy (Northern Ireland) Order 1983, or in Scotland at common law, of attempting to commit any of those offences; and
-- (g)[^key-cbbc2f52849a8e6b449396d0493e01fc] an offence under section 19 of the Misuse of Drugs Act 1971 (c. 38) or at common law of inciting another person to commit any of those offences.
+- (g)[^c-cbbc2f52849a8e6b449396d0493e01fc] an offence under section 19 of the Misuse of Drugs Act 1971 (c. 38) or at common law of inciting another person to commit any of those offences.
 
 (2) The power to make an order under subsection (1)(c) shall be exercisable by statutory instrument; and no such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House.
 
@@ -46,4 +46,4 @@ as may be described in the order.
 
 ## Annotations
 
-[^key-cbbc2f52849a8e6b449396d0493e01fc]: Modification: S. 34(1)(g) modified (E.W. N.I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/41) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-cbbc2f52849a8e6b449396d0493e01fc]: Modification: S. 34(1)(g) modified (E.W. N.I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/41) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)

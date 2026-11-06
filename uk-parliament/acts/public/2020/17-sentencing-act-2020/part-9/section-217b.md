@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217B. Powers on review[^key-e4f68992ba322e0d3e1d87b094b2a840]
+## 217B. Powers on review[^c-e4f68992ba322e0d3e1d87b094b2a840]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ have the same meanings as in section 217A.
 
 ## Annotations
 
-[^key-e4f68992ba322e0d3e1d87b094b2a840]: Textual amendment: [Ss. 217A-217C](https://www.legislation.gov.uk/ukpga/2020/17/section/217A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/5)
+[^c-e4f68992ba322e0d3e1d87b094b2a840]: Textual amendment: [Ss. 217A-217C](https://www.legislation.gov.uk/ukpga/2020/17/section/217A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/5)

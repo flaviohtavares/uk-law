@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Appeals under section 17, 21 or 22[^key-51346fb11de7c6dc8507d92bb050d3a3]
+## 23. Appeals under section 17, 21 or 22[^c-51346fb11de7c6dc8507d92bb050d3a3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51346fb11de7c6dc8507d92bb050d3a3]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2013/6/section/23) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-51346fb11de7c6dc8507d92bb050d3a3]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2013/6/section/23) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

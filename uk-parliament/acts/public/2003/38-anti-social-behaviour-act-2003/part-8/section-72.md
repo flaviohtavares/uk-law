@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Appeals procedure[^key-8d0166aad48c47a36c856249e3a548ae][^key-542fec9a5e645271d5007c9d435ab522]
+## 72. Appeals procedure[^c-8d0166aad48c47a36c856249e3a548ae][^c-542fec9a5e645271d5007c9d435ab522]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ and references to the appeal authority in section 71 or 73 or in any regulations
 
 ## Annotations
 
-[^key-8d0166aad48c47a36c856249e3a548ae]: Commencement: S. 72 in force at 1.10.2004 for E. by [S.I. 2004/2168](https://www.legislation.gov.uk/uksi/2004/2168), [art. 5(b)](https://www.legislation.gov.uk/uksi/2004/2168/article/5/b)
+[^c-8d0166aad48c47a36c856249e3a548ae]: Commencement: S. 72 in force at 1.10.2004 for E. by [S.I. 2004/2168](https://www.legislation.gov.uk/uksi/2004/2168), [art. 5(b)](https://www.legislation.gov.uk/uksi/2004/2168/article/5/b)
 
-[^key-542fec9a5e645271d5007c9d435ab522]: Commencement: S. 72 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-542fec9a5e645271d5007c9d435ab522]: Commencement: S. 72 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)

@@ -60,16 +60,16 @@ An Act to consolidate with amendments certain enactments relating to county cour
 
 (2) A judge shall sit in the county court in accordance with directions given by the Lord Chief Justice[^c18990561].
 
-(3) A judge may, in accordance with such directions, sit as a judge in any county court[^key-c31963a4fd4ac10aadc897653b32696f] .
+(3) A judge may, in accordance with such directions, sit as a judge in any county court[^c-c31963a4fd4ac10aadc897653b32696f] .
 
-(4) Subject to sub-sections (2) and (3), the Lord Chief Justice may assign a judge to one or more division[^key-505c12676392165114b5496a8fcb29c7] and may from time to time vary any such assignment.
+(4) Subject to sub-sections (2) and (3), the Lord Chief Justice may assign a judge to one or more division[^c-505c12676392165114b5496a8fcb29c7] and may from time to time vary any such assignment.
 
 (5) The judge, or (if more than one) one of the judges,[^c18990691] assigned to the division which is or includes—
 
 - (a) the area of the city of Belfast shall be styled the Recorder of Belfast;
 - (b) the area of the city of Londonderry shall be styled the Recorder of Londonderry.\]
 
-[(6)[^c17019711] In this Act “judge” means a county court judge, that is to say a judge appointed under this section.\] and “[^key-f26ae132331b77d42f6d3538805f4b9f]**division**” means an administrative court division specified under section 2 of the Justice Act (Northern Ireland) 2015 for all or the residual purposes of a county court.
+[(6)[^c17019711] In this Act “judge” means a county court judge, that is to say a judge appointed under this section.\] and “[^c-f26ae132331b77d42f6d3538805f4b9f]**division**” means an administrative court division specified under section 2 of the Justice Act (Northern Ireland) 2015 for all or the residual purposes of a county court.
 
 ### 102A. Presiding judge[^c19482701]
 
@@ -98,7 +98,7 @@ An Act to consolidate with amendments certain enactments relating to county cour
 
 *Subs. (3) rep. by 2002 c. 26*
 
-(4)[^c17019791] Every judge shall vacate his office on the day on which he attains the age of 75[^key-456852ca554c35dc349a7e180d058461]
+(4)[^c17019791] Every judge shall vacate his office on the day on which he attains the age of 75[^c-456852ca554c35dc349a7e180d058461]
 
 ### 106. Salaries and allowances of judges.[^c17019821]
 
@@ -106,7 +106,7 @@ An Act to consolidate with amendments certain enactments relating to county cour
 
 (2) The salary payable to any judge shall begin from the date on which the judge takes the required oath or makes the required affirmation and declaration[^c21006981].
 
-(3)[^key-b8530c02c44880634ecb1d426fac47b6] The Department of Justice may pay to any judge such allowances as may be determined by the Lord Chancellor with the consent of the Treasury.
+(3)[^c-b8530c02c44880634ecb1d426fac47b6] The Department of Justice may pay to any judge such allowances as may be determined by the Lord Chancellor with the consent of the Treasury.
 
 ### 107. Deputy judges.[^c17019881]
 
@@ -121,7 +121,7 @@ An Act to consolidate with amendments certain enactments relating to county cour
 
 (3)[^c21294891] Subject to subsection (4), the Commission may, with the agreement of a deputy judge and the Department of Justice[^c21657521], from time to time extend, for such period as it thinks appropriate, the term for which the deputy judge is appointed.
 
-(4)[^c17019951] Neither the initial term for which a deputy judge is appointed nor any extension of that term under subsection (3) shall be such as to continue his appointment as a deputy judge after the day on which he attains the age of 75[^key-82be52ff1faa5edd0a24257664008ce0]
+(4)[^c17019951] Neither the initial term for which a deputy judge is appointed nor any extension of that term under subsection (3) shall be such as to continue his appointment as a deputy judge after the day on which he attains the age of 75[^c-82be52ff1faa5edd0a24257664008ce0]
 
 (5) A deputy judge shall, while he is so acting, have the like authority, jurisdiction, powers and privileges as a judge in all respects \[[^c17019981] and a reference in any statutory provision to, or which is to be construed as a reference to, a county court judge shall, for the purposes of or in relation to any proceedings in a county court, be construed as including a reference to a deputy judge appointed under this section\].
 
@@ -163,7 +163,7 @@ An Act to consolidate with amendments certain enactments relating to county cour
 
 (7)[^c17020121] This Part shall not have effect in relation to a person to whom Part I of the Judicial Pensions and Retirement Act 1993 applies, except to the extent provided by or under that Act.
 
-(8)[^key-903b7fe2c81634446aff84cadd374322] This Part is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(8)[^c-903b7fe2c81634446aff84cadd374322] This Part is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 #### 116A.[^c21655171]
 
@@ -267,7 +267,7 @@ and in paragraph (b) “children of the family” is to be construed in accordan
 
 (1) No widow's, widower's, or surviving civil partner's pension may be granted if the marriage or formation of the civil partnership with the deceased took place after he or she retired from relevant service.
 
-(1A)[^key-6417787531b704c4e72c706bf1a958eb] A surviving civil partner’s pension may not be granted in respect of a person’s service if—
+(1A)[^c-6417787531b704c4e72c706bf1a958eb] A surviving civil partner’s pension may not be granted in respect of a person’s service if—
 
 - (a) the person retired from relevant service before 13th January 2020, and
 - (b) power to grant the pension relies on the Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019.
@@ -293,7 +293,7 @@ direct that it shall cease to be payable.
 
 (3) [^c17020641] A children's pension cannot enure for the benefit of any person conceived, or adopted by the deceased, after the end of the service of the deceased.
 
-(4) A children's pension cannot enure for the benefit of a [^key-855a3ac4af1bf60c914dd80c485fa2da]... person who at the time of the death of the deceased was married or a person who at the time of the death of the deceased was a civil partner[^c17020651] and if, after the death of the deceased, a [^key-855a3ac4af1bf60c914dd80c485fa2da]... person marries or a person forms a civil partnership, she or he shall thereupon cease to be a person for whose benefit a children's pension can enure.
+(4) A children's pension cannot enure for the benefit of a [^c-855a3ac4af1bf60c914dd80c485fa2da]... person who at the time of the death of the deceased was married or a person who at the time of the death of the deceased was a civil partner[^c17020651] and if, after the death of the deceased, a [^c-855a3ac4af1bf60c914dd80c485fa2da]... person marries or a person forms a civil partnership, she or he shall thereupon cease to be a person for whose benefit a children's pension can enure.
 
 #### 125. Meaning of “period of childhood and full-time education” .
 
@@ -425,7 +425,7 @@ but paragraphs (c) and (d) have effect only in relation to a voluntary contribut
   - (b) such additional benefits so mentioned as may be prescribed; and
   - (c) such retained benefits as may be prescribed;
 - “authorised provider”, in relation to the investment of any sums paid by way of voluntary contributions or the provision of any benefit, means—
-  - (a) a person who has permission under Part 4A[^key-7ea58251fbdae81e4f0d028954316b0a] of the Financial Services and Markets Act 2000 to invest such sums or, as the case may be, to provide that benefit;
+  - (a) a person who has permission under Part 4A[^c-7ea58251fbdae81e4f0d028954316b0a] of the Financial Services and Markets Act 2000 to invest such sums or, as the case may be, to provide that benefit;
   - (b) an EEA firm of a kind mentioned in paragraph 5(a), (b) or (c) of Schedule 3 to that Act, which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to invest such sums or, as the case may be, to provide that benefit and which satisfies the conditions applicable to it which are specified in subsection (7B), (7C) or (7D); or
   - (c) an EEA firm of a kind mentioned in paragraph 5(d) of Schedule 3 to that Act, which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to invest such sums or, as the case may be, to provide that benefit.
 - “employment” has the same meaning as it has in the Pension Schemes (Northern Ireland) Act 1993[^c17519311] (and accordingly includes employment as a self-employed earner, within the meaning of section 2 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c17519321];
@@ -633,7 +633,7 @@ Section 122A
 
 **1.** In this Schedule—
 
-- “the relevant date” means 4th December 2005 , but means 12th January 2020 in relation to a civil partnership formed between two people not of the same sex[^key-08251da815c2b91a8e7de8ddccdffb4c] ; and
+- “the relevant date” means 4th December 2005 , but means 12th January 2020 in relation to a civil partnership formed between two people not of the same sex[^c-08251da815c2b91a8e7de8ddccdffb4c] ; and
 - “member” means a person who holds judicial office and to or in respect of whom benefits are payable under this Act on his or her retirement.
 
 ### Service wholly on or before the relevant date
@@ -680,15 +680,15 @@ where—
 
 [^c18990561]: Textual amendment: Words in s. 102(2)(4) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/8); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-c31963a4fd4ac10aadc897653b32696f]: Textual amendment: Words in s. 102(3) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 51(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/51/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c31963a4fd4ac10aadc897653b32696f]: Textual amendment: Words in s. 102(3) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 51(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/51/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-505c12676392165114b5496a8fcb29c7]: Textual amendment: Words in s. 102(4) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 51(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/51/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-505c12676392165114b5496a8fcb29c7]: Textual amendment: Words in s. 102(4) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 51(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/51/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c18990691]: Textual amendment: Words in s. 102(5) inserted (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 85](https://www.legislation.gov.uk/ukpga/2002/26/section/85), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 12 para. 4(3)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/4/3); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/6/a)
 
 [^c17019711]: Textual amendment: [1980 NI 3](https://www.legislation.gov.uk/nisi/1980)
 
-[^key-f26ae132331b77d42f6d3538805f4b9f]: Textual amendment: Words in [s. 102(6)](https://www.legislation.gov.uk/apni/1959/25/section/102/6) inserted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 51(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/51/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-f26ae132331b77d42f6d3538805f4b9f]: Textual amendment: Words in [s. 102(6)](https://www.legislation.gov.uk/apni/1959/25/section/102/6) inserted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 51(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/51/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19482701]: Textual amendment: [S. 102A](https://www.legislation.gov.uk/apni/1959/25/section/102A) inserted (3.4.2006) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 13](https://www.legislation.gov.uk/ukpga/2002/26/section/13), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/2)
 
@@ -702,7 +702,7 @@ where—
 
 [^c17019791]: Textual amendment: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-456852ca554c35dc349a7e180d058461]: Textual amendment: Word in [s. 105(4)](https://www.legislation.gov.uk/apni/1959/25/section/105/4) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/6/2) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-456852ca554c35dc349a7e180d058461]: Textual amendment: Word in [s. 105(4)](https://www.legislation.gov.uk/apni/1959/25/section/105/4) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/6/2) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c17019821]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
@@ -710,7 +710,7 @@ where—
 
 [^c21006981]: Textual amendment: Words in [s. 106(2)](https://www.legislation.gov.uk/apni/1959/25/section/106/2) substituted (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 85](https://www.legislation.gov.uk/ukpga/2002/26/section/85), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/5); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/nisr/2007/237/schedule/paragraph/6/a)
 
-[^key-b8530c02c44880634ecb1d426fac47b6]: Textual amendment: [S. 106(3)](https://www.legislation.gov.uk/apni/1959/25/section/106/3) substituted for [s. 106(3)](https://www.legislation.gov.uk/apni/1959/25/section/106/3)[(4)](https://www.legislation.gov.uk/apni/1959/25/section/106/4) (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/5)
+[^c-b8530c02c44880634ecb1d426fac47b6]: Textual amendment: [S. 106(3)](https://www.legislation.gov.uk/apni/1959/25/section/106/3) substituted for [s. 106(3)](https://www.legislation.gov.uk/apni/1959/25/section/106/3)[(4)](https://www.legislation.gov.uk/apni/1959/25/section/106/4) (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/5)
 
 [^c17019881]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
@@ -732,7 +732,7 @@ where—
 
 [^c17019951]: Textual amendment: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-82be52ff1faa5edd0a24257664008ce0]: Textual amendment: Word in [s. 107(4)](https://www.legislation.gov.uk/apni/1959/25/section/107/4) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/6/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-82be52ff1faa5edd0a24257664008ce0]: Textual amendment: Word in [s. 107(4)](https://www.legislation.gov.uk/apni/1959/25/section/107/4) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/6/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c17019981]: Textual amendment: [1980 NI 3](https://www.legislation.gov.uk/1980/ni3)
 
@@ -748,7 +748,7 @@ where—
 
 [^c17020121]: Textual amendment: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-903b7fe2c81634446aff84cadd374322]: Textual amendment: [S. 116(8)](https://www.legislation.gov.uk/apni/1959/25/section/116/8) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/1) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/a)
+[^c-903b7fe2c81634446aff84cadd374322]: Textual amendment: [S. 116(8)](https://www.legislation.gov.uk/apni/1959/25/section/116/8) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/1) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/a)
 
 [^c21655171]: Textual amendment: SR 1989/100
 
@@ -772,11 +772,11 @@ where—
 
 [^c17020481]: Textual amendment: SI 2005/3325
 
-[^key-6417787531b704c4e72c706bf1a958eb]: Textual amendment: [S. 123(1A)](https://www.legislation.gov.uk/apni/1959/25/section/123/1A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [55(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-6417787531b704c4e72c706bf1a958eb]: Textual amendment: [S. 123(1A)](https://www.legislation.gov.uk/apni/1959/25/section/123/1A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [55(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17020641]: Textual amendment: Mod., [1966 c. 27 (NI)](https://www.legislation.gov.uk/apni/1966/27)
 
-[^key-855a3ac4af1bf60c914dd80c485fa2da]: Textual amendment: Word in [s. 124(4)](https://www.legislation.gov.uk/apni/1959/25/section/124/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [55(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [55(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/4))
+[^c-855a3ac4af1bf60c914dd80c485fa2da]: Textual amendment: Word in [s. 124(4)](https://www.legislation.gov.uk/apni/1959/25/section/124/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [55(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [55(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/4))
 
 [^c17020651]: Textual amendment: SI 2005/3325
 
@@ -820,7 +820,7 @@ where—
 
 [^c17519281]: Textual amendment: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-7ea58251fbdae81e4f0d028954316b0a]: Textual amendment: Words in [s. 127A(7)](https://www.legislation.gov.uk/apni/1959/25/section/127A/7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 141](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/141) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-7ea58251fbdae81e4f0d028954316b0a]: Textual amendment: Words in [s. 127A(7)](https://www.legislation.gov.uk/apni/1959/25/section/127A/7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 141](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/141) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c17519311]: Textual amendment: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -896,4 +896,4 @@ where—
 
 [^c17021821]: Textual amendment: SI 2005/3325
 
-[^key-08251da815c2b91a8e7de8ddccdffb4c]: Textual amendment: Words in [Sch. 2B para. 1](https://www.legislation.gov.uk/apni/1959/25/schedule/2B/paragraph/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [55(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-08251da815c2b91a8e7de8ddccdffb4c]: Textual amendment: Words in [Sch. 2B para. 1](https://www.legislation.gov.uk/apni/1959/25/schedule/2B/paragraph/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [55(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/55/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

@@ -51,11 +51,11 @@ In an action for slander in respect of words calculated to disparage the plainti
 
 [^c21291451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Justification.[^key-22fc387da324f9865e3e1ab82cad9bf5]
+## 5. Justification.[^c-22fc387da324f9865e3e1ab82cad9bf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fair comment.[^key-1f67c4b8a2e3b0f6a14ba73b27d1e562]
+## 6. Fair comment.[^c-1f67c4b8a2e3b0f6a14ba73b27d1e562]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -218,9 +218,9 @@ In relation to the following countries and territories, that is to say, India, t
 
 [^c21291451]: Textual amendment: [S. 4](https://www.legislation.gov.uk/apni/1955/11/section/4) repealed (4.9.1996 so far as consequential on ss. 1, 5, 6, 12, 13 of the repealing Act, otherwise 6.1.2010) by [Defamation Act 1996 (c. 31)](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 16](https://www.legislation.gov.uk/ukpga/1996/31/section/16), [19(2)(3)(a)](https://www.legislation.gov.uk/ukpga/1996/31/section/19/2/3/a), [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/31/schedule/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2)); [S.I. 2009/2858](https://www.legislation.gov.uk/uksi/2009/2858), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/2858/article/3/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2858/article/4))
 
-[^key-22fc387da324f9865e3e1ab82cad9bf5]: Textual amendment: [S. 5](https://www.legislation.gov.uk/apni/1955/11/section/5) repealed (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 1(4)](https://www.legislation.gov.uk/nia/2022/30/section/1/4), [14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-22fc387da324f9865e3e1ab82cad9bf5]: Textual amendment: [S. 5](https://www.legislation.gov.uk/apni/1955/11/section/5) repealed (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 1(4)](https://www.legislation.gov.uk/nia/2022/30/section/1/4), [14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
-[^key-1f67c4b8a2e3b0f6a14ba73b27d1e562]: Textual amendment: [S. 6](https://www.legislation.gov.uk/apni/1955/11/section/6) repealed (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 2(8)](https://www.legislation.gov.uk/nia/2022/30/section/2/8), [14](https://www.legislation.gov.uk/nia/2022/30/section/14)
+[^c-1f67c4b8a2e3b0f6a14ba73b27d1e562]: Textual amendment: [S. 6](https://www.legislation.gov.uk/apni/1955/11/section/6) repealed (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 2(8)](https://www.legislation.gov.uk/nia/2022/30/section/2/8), [14](https://www.legislation.gov.uk/nia/2022/30/section/14)
 
 [^c21291471]: Textual amendment: [S. 7](https://www.legislation.gov.uk/apni/1955/11/section/7) repealed (4.9.1996 so far as consequential on ss. 1, 5, 6, 12, 13 of the repealing Act, 1.4.1999 so far as consequential on ss. 14, 15, 17, Sch. 1, otherwise 6.1.2010) by [Defamation Act 1996 (c. 31)](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 16](https://www.legislation.gov.uk/ukpga/1996/31/section/16), [19(2)(3)(a)](https://www.legislation.gov.uk/ukpga/1996/31/section/19/2/3/a), [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/31/schedule/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2)); [S.I. 1999/817](https://www.legislation.gov.uk/uksi/1999/817), [art. 2](https://www.legislation.gov.uk/uksi/1999/817/article/2); [S.I. 2009/2858](https://www.legislation.gov.uk/uksi/2009/2858), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/2858/article/3/d)
 

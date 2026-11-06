@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Regulation (EU) No 542/2014[^key-08cb973ef66b55da849c8b0255fb7e69]
+## 90. Regulation (EU) No 542/2014[^c-08cb973ef66b55da849c8b0255fb7e69]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) No 542/2014 of the European Parliament and of the Council of 15 
 
 ## Annotations
 
-[^key-08cb973ef66b55da849c8b0255fb7e69]: Commencement: Reg. 90 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-08cb973ef66b55da849c8b0255fb7e69]: Commencement: Reg. 90 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

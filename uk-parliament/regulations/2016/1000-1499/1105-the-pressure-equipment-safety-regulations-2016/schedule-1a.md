@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Conformity Assessment Procedures for Pressure Equipment and Assemblies[^key-82969dfdd78bbf9e69e9d14bbcff31da]
+## SCHEDULE 1A — Conformity Assessment Procedures for Pressure Equipment and Assemblies[^c-82969dfdd78bbf9e69e9d14bbcff31da]
 
 *Extent: E+W+S*
 
@@ -1180,4 +1180,4 @@ The manufacturer's authorised representative may lodge the application referred 
 
 ## Annotations
 
-[^key-82969dfdd78bbf9e69e9d14bbcff31da]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2016/1105/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/44) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82969dfdd78bbf9e69e9d14bbcff31da]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2016/1105/schedule/1A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/44) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -49,7 +49,7 @@ The said Registrar General shall cause all places of meeting for religious worsh
 
 Any place of meeting for religious worship heretofore certified and registered or recorded in manner required by law, and which continues to be used for religious worship, save any such place of meeting certified to the said Registrar General under the said [^c55461]Act of the fifteenth and sixteenth years of Her Majesty, chapter thirty-six, may, at any time after the passing of this Act, be certified in writing to such Registrar General through the superintendent registrar of the district in which such place may be situate, and shall be recorded by such Registrar General in manner herein-before mentioned concerning places of meeting not heretofore certified and registered or recorded.
 
-## 5. Fees[^key-d1aabfd3886f624ac6fa085be1103191]
+## 5. Fees[^c-d1aabfd3886f624ac6fa085be1103191]
 
 (1) The Secretary of State may by regulations provide for fees to be payable to such persons as may be prescribed in the regulations in respect of the certification to the Registrar General under this Act of a place of meeting for religious worship.
 
@@ -88,14 +88,14 @@ Whenever it shall appear to the satisfaction of the said Registrar General, from
 
 ## 9. Certified places exempted from the operation of “The Charitable Trusts Act, 1853.”[^c55661]
 
-Every place of meeting for religious worship certified to the said Registrar General under the said Act of the fifteenth and sixteenth years of Her Majesty, chapter thirty-six, or this Act, and recorded by him as aforesaid, so long as the same continues to be bonâ fide used as a place of religious worship, and the record of the certification thereof has not been cancelled as herein-before is provided, is, so far as it is a charity, to be treated for the purposes of section 31(3) of the Charities Act 2011 (institutions required to be excepted from registration under that Act) as if that provision applied to it[^key-d1005d34943c94ba38d7e2ed14bee308]; and where a building recorded and used as aforesaid is so excepted, there shall be excepted with it—
+Every place of meeting for religious worship certified to the said Registrar General under the said Act of the fifteenth and sixteenth years of Her Majesty, chapter thirty-six, or this Act, and recorded by him as aforesaid, so long as the same continues to be bonâ fide used as a place of religious worship, and the record of the certification thereof has not been cancelled as herein-before is provided, is, so far as it is a charity, to be treated for the purposes of section 31(3) of the Charities Act 2011 (institutions required to be excepted from registration under that Act) as if that provision applied to it[^c-d1005d34943c94ba38d7e2ed14bee308]; and where a building recorded and used as aforesaid is so excepted, there shall be excepted with it—
 
 - (a) any forecourt, yard, garden, burial ground, vestry, or caretaker’s house, in respect of situation connected with, and held upon the same trusts as, the building so recorded; and
-- (b) any Sunday-school house or other land or building which is certified by an order of the Charity Commissioners[^key-2b48daa149fe18b402b9ab792ad3df9c], made upon the application of one or more of the charity trustees, to be held upon the same trusts as the building so recorded or upon the like trusts, and to be in respect of situation so connected with or held or used in connection with that building that it cannot conveniently be separated from that building.
+- (b) any Sunday-school house or other land or building which is certified by an order of the Charity Commissioners[^c-2b48daa149fe18b402b9ab792ad3df9c], made upon the application of one or more of the charity trustees, to be held upon the same trusts as the building so recorded or upon the like trusts, and to be in respect of situation so connected with or held or used in connection with that building that it cannot conveniently be separated from that building.
 
 In this section “**building**” includes part of a building.
 
-(2)[^c55701][^key-1a61d492f658256cff3e83c615457fb7] Section 337 of the 2011 Act (provisions as to orders under that Act) applies to any order under subsection (1)(b) as it applies to orders under that Act.
+(2)[^c55701][^c-1a61d492f658256cff3e83c615457fb7] Section 337 of the 2011 Act (provisions as to orders under that Act) applies to any order under subsection (1)(b) as it applies to orders under that Act.
 
 ## 10. Nothing to affect churches, etc. of Established Church.
 
@@ -169,7 +169,7 @@ I, the undersigned , of , in the county of , being the person or one of the pers
 
 [^c55461]: Marginal citation: [1852 c. 36](https://www.legislation.gov.uk/ukpga/1852/36).
 
-[^key-d1aabfd3886f624ac6fa085be1103191]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/18-19/81/section/5) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/6); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-d1aabfd3886f624ac6fa085be1103191]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/18-19/81/section/5) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/6); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
 [^c55601]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/Vict/18-19/81/section/7): functions transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/2)
 
@@ -181,13 +181,13 @@ I, the undersigned , of , in the county of , being the person or one of the pers
 
 [^c55661]: Editorial: Unreliable marginal note.
 
-[^key-d1005d34943c94ba38d7e2ed14bee308]: Textual amendment: Words in s. 9(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/5/1/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-d1005d34943c94ba38d7e2ed14bee308]: Textual amendment: Words in s. 9(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/5/1/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-2b48daa149fe18b402b9ab792ad3df9c]: Textual amendment: Words in s. 9(1)(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/5/1/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-2b48daa149fe18b402b9ab792ad3df9c]: Textual amendment: Words in s. 9(1)(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/5/1/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c55701]: Textual amendment: S. 9(2) added (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/1), [99(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/99/1), [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/ukpga/1993/10/schedule/6/paragraph/1/3)
 
-[^key-1a61d492f658256cff3e83c615457fb7]: Textual amendment: S. 9(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/5/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-1a61d492f658256cff3e83c615457fb7]: Textual amendment: S. 9(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/5/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c55711]: Textual amendment: Words substituted from 1.8.1871 by virtue of [Irish Church Act 1869 (c. 42)](https://www.legislation.gov.uk/ukpga/1869/42), [s. 69](https://www.legislation.gov.uk/ukpga/1869/42/section/69)
 

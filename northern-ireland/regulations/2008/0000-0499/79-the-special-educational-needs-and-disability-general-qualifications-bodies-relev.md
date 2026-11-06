@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred by Articles 34(4), 37(6)(c), (d) and (f), 38(7) and 49(4) of the Special Educational Needs and Disability (Northern Ireland) Order 2005[^f00001], after consultation with such persons as appear to the Department to be appropriate in accordance with Article 39(2) of that Order, makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9c309f8b48bec793361a411be94d40ea]
+## 1. Citation, commencement and interpretation[^c-9c309f8b48bec793361a411be94d40ea]
 
 (1) These Regulations may be cited as the Special Educational Needs and Disability (General Qualifications Bodies) (Relevant Qualifications, Reasonable Steps and Physical Features) Regulations (Northern Ireland) 2008 and shall come into operation on 1st April 2008.
 
@@ -50,11 +50,11 @@ The Department of Education, in exercise of the powers conferred by Articles 34(
 - “the 2005 Order” means the Special Educational Needs and Disability (Northern Ireland) Order 2005; and
 - “component” means a discrete, assessable element of a qualification that is not separately certificated.
 
-## 2. Relevant qualifications[^key-073035ff671081883c3ac75e550e48ef]
+## 2. Relevant qualifications[^c-073035ff671081883c3ac75e550e48ef]
 
 Relevant qualifications are those qualifications which are prescribed in the Schedule.
 
-## 3. Reasonable Steps[^key-29eef7ca2b7731132de1934d7cad88e8]
+## 3. Reasonable Steps[^c-29eef7ca2b7731132de1934d7cad88e8]
 
 (1) Where it is the duty of a general qualifications body to take steps in accordance with Article 37 of the 2005 Order in order to prevent a provision, criterion or practice placing a disabled person at a substantial disadvantage in comparison with persons who are not disabled, the granting of an exemption from one or more of the components of any examination or assessment, in the circumstances specified in paragraph (2), shall be a step which it is always reasonable for a general qualifications body to have to take.
 
@@ -63,9 +63,9 @@ Relevant qualifications are those qualifications which are prescribed in the Sch
 - (a) the provision, criterion or practice is the requirement for candidates to undertake one or more components of an examination or assessment for the purposes of determining on whom a relevant qualification is to be conferred, and
 - (b) the granting of an exemption from the component is the only reasonable step that could be taken to prevent the disabled person from being placed at a substantial disadvantage.
 
-(3)[^key-7a224d5dbe2ff8a4947b993aa28ab6da] Where a general qualifications body grants an exemption in accordance with paragraph (1), it is always a reasonable step for the general qualifications body to have to take to assess the candidate only in relation to those components of the examination or assessment for which the candidate has not been granted an exemption as if those components comprised the entire examination or assessment.
+(3)[^c-7a224d5dbe2ff8a4947b993aa28ab6da] Where a general qualifications body grants an exemption in accordance with paragraph (1), it is always a reasonable step for the general qualifications body to have to take to assess the candidate only in relation to those components of the examination or assessment for which the candidate has not been granted an exemption as if those components comprised the entire examination or assessment.
 
-## 4. Physical features[^key-a73607c72d60a6dfe192073087a65b88]
+## 4. Physical features[^c-a73607c72d60a6dfe192073087a65b88]
 
 In relation to any premises, any of the following things (whether permanent or temporary) are to be treated as a physical feature—
 
@@ -74,7 +74,7 @@ In relation to any premises, any of the following things (whether permanent or t
 - (c) any fixtures, fittings, furnishings, furniture, equipment or material in or on the premises;
 - (d) any other physical element or quality of any land comprised in the premises.
 
-## 5. Meaning of “Lease”[^key-612bbd5c5f49e32b031acc44b3e42cca]
+## 5. Meaning of “Lease”[^c-612bbd5c5f49e32b031acc44b3e42cca]
 
 For the purposes of Article 38 of the 2005 Order—
 
@@ -88,11 +88,11 @@ Robson Davison
 
 A senior officer of the Department of Education
 
-## SCHEDULE — Relevant Qualifications[^key-301bfaa8f8ab385c0de4a58544c9e0d4]
+## SCHEDULE — Relevant Qualifications[^c-301bfaa8f8ab385c0de4a58544c9e0d4]
 
 Regulation 2
 
-[^key-301bfaa8f8ab385c0de4a58544c9e0d4]
+[^c-301bfaa8f8ab385c0de4a58544c9e0d4]
 
 - Advanced Extension Awards
 - Entry Level Qualifications
@@ -119,16 +119,16 @@ Regulation 5 defines the meaning of “lease”.
 
 [^f00001]: Footnote: [S.I. 2005/1117 (N.I. 6)](https://www.legislation.gov.uk/nisi/2005/1117). See Article 39(1) for definitions of “prescribed” and “regulations”.
 
-[^key-9c309f8b48bec793361a411be94d40ea]: Commencement: Reg. 1 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
+[^c-9c309f8b48bec793361a411be94d40ea]: Commencement: Reg. 1 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
 
-[^key-073035ff671081883c3ac75e550e48ef]: Commencement: Reg. 2 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
+[^c-073035ff671081883c3ac75e550e48ef]: Commencement: Reg. 2 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
 
-[^key-29eef7ca2b7731132de1934d7cad88e8]: Commencement: Reg. 3 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
+[^c-29eef7ca2b7731132de1934d7cad88e8]: Commencement: Reg. 3 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
 
-[^key-7a224d5dbe2ff8a4947b993aa28ab6da]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2008/79/regulation/3/3) added (25.2.2009) by [The Special Educational Needs and Disability (General Qualifications Bodies) (Relevant Qualifications, Reasonable Steps and Physical Features) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/20)](https://www.legislation.gov.uk/nisr/2009/20), [regs. 1](https://www.legislation.gov.uk/nisr/2009/20/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2009/20/regulation/2/2)
+[^c-7a224d5dbe2ff8a4947b993aa28ab6da]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2008/79/regulation/3/3) added (25.2.2009) by [The Special Educational Needs and Disability (General Qualifications Bodies) (Relevant Qualifications, Reasonable Steps and Physical Features) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/20)](https://www.legislation.gov.uk/nisr/2009/20), [regs. 1](https://www.legislation.gov.uk/nisr/2009/20/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2009/20/regulation/2/2)
 
-[^key-a73607c72d60a6dfe192073087a65b88]: Commencement: Reg. 4 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
+[^c-a73607c72d60a6dfe192073087a65b88]: Commencement: Reg. 4 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
 
-[^key-612bbd5c5f49e32b031acc44b3e42cca]: Commencement: Reg. 5 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
+[^c-612bbd5c5f49e32b031acc44b3e42cca]: Commencement: Reg. 5 in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
 
-[^key-301bfaa8f8ab385c0de4a58544c9e0d4]: Commencement: Sch. in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)
+[^c-301bfaa8f8ab385c0de4a58544c9e0d4]: Commencement: Sch. in operation at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/79/regulation/1/1)

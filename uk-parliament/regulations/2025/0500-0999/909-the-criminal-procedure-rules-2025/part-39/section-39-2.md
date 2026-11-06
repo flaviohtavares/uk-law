@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.2. Service of appeal notice[^key-85c30b55989e91bafdb718e495217f10]
+## 39.2. Service of appeal notice[^c-85c30b55989e91bafdb718e495217f10]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-85c30b55989e91bafdb718e495217f10]: Commencement: [Rule 39.2](https://www.legislation.gov.uk/uksi/2025/909/rule/39.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-85c30b55989e91bafdb718e495217f10]: Commencement: [Rule 39.2](https://www.legislation.gov.uk/uksi/2025/909/rule/39.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00952]: Footnote: [1964 c. 84](https://www.legislation.gov.uk/ukpga/1964/84); section 4 was substituted, together with section 4A, for section 4 as originally enacted, by section 2 of the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25), and amended by section 22 of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
 

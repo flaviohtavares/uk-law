@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Expenses of attending funeral[^key-143d45c5dcbeb28962cf1cea9f5ae570]
+## 88. Expenses of attending funeral[^c-143d45c5dcbeb28962cf1cea9f5ae570]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-143d45c5dcbeb28962cf1cea9f5ae570]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/20/section/88) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-143d45c5dcbeb28962cf1cea9f5ae570]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/20/section/88) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duty to investigate potential compliance failures[^key-4ee87986fabebd1564595dcc2d65452a][^key-b00fdb8fbec9071e8d0d3a0ea51b06f2]
+## 10. Duty to investigate potential compliance failures[^c-4ee87986fabebd1564595dcc2d65452a][^c-b00fdb8fbec9071e8d0d3a0ea51b06f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ee87986fabebd1564595dcc2d65452a]: Commencement: S. 10 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-4ee87986fabebd1564595dcc2d65452a]: Commencement: S. 10 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-b00fdb8fbec9071e8d0d3a0ea51b06f2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/46/section/10) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b00fdb8fbec9071e8d0d3a0ea51b06f2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/46/section/10) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

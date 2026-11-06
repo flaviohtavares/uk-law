@@ -27,7 +27,7 @@ summary: ''
 - (a) in the [^c14457451]Customs and Excise Management Act 1979, section 118A; and
 - (b) in Schedule 7 to the [^c14457461]Value Added Tax Act 1983, paragraph 7.
 
-(3)[^key-8e26c5e31536377f3be107f34e75b91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8e26c5e31536377f3be107f34e75b91e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subsection (7) and sub-paragraph (6) of those provisions shall be omitted.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c14457461]: Marginal citation: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
 
-[^key-8e26c5e31536377f3be107f34e75b91e]: Textual amendment: [S. 256(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/256/3) omitted (1.4.2011) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 2(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/2/a); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-8e26c5e31536377f3be107f34e75b91e]: Textual amendment: [S. 256(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/256/3) omitted (1.4.2011) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 2(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/2/a); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)

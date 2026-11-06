@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Disclosure of information relating to foreign-registered vehicles[^key-8b209ae7e0563584646c0e3e693986fc]
+## 49A. Disclosure of information relating to foreign-registered vehicles[^c-8b209ae7e0563584646c0e3e693986fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (c) the Department of the Environment in Northern Ireland, where the disclosure is made for any purpose connected with the investigation of an offence;
 - (d) the Department for Regional Development in Northern Ireland, where the disclosure is made for any purpose connected with the investigation of a road traffic contravention;
 - (e) the chief officer of police of a police force in England and Wales;
-- (f) the chief constable of the Police Service of Scotland[^key-1c8969342d5abe30eb85ca1bcf2f607f];
+- (f) the chief constable of the Police Service of Scotland[^c-1c8969342d5abe30eb85ca1bcf2f607f];
 - (g) a member of the Police Service of Northern Ireland;
 - (h) an officer of Revenue and Customs;
 - (i) an inspector of taxes, where the disclosure is made for any purpose connected with any tax liability to which a person is or may be subject, or the amount of any such liability;
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b209ae7e0563584646c0e3e693986fc]: Textual amendment: S. 49A inserted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 129](https://www.legislation.gov.uk/ukpga/2008/26/section/129), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-8b209ae7e0563584646c0e3e693986fc]: Textual amendment: S. 49A inserted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 129](https://www.legislation.gov.uk/ukpga/2008/26/section/129), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-1c8969342d5abe30eb85ca1bcf2f607f]: Textual amendment: Words in [s. 49A(3)(f)](https://www.legislation.gov.uk/ukpga/2006/49/section/49A/3/f) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/55)
+[^c-1c8969342d5abe30eb85ca1bcf2f607f]: Textual amendment: Words in [s. 49A(3)(f)](https://www.legislation.gov.uk/ukpga/2006/49/section/49A/3/f) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/55)

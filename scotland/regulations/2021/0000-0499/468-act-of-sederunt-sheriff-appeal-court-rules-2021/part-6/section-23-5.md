@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23.5. Sist of appeal[^key-b17ee6688f51c57df484764ffa06d3ad]
+## 23.5. Sist of appeal[^c-b17ee6688f51c57df484764ffa06d3ad]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b17ee6688f51c57df484764ffa06d3ad]: Commencement: Para. 23.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b17ee6688f51c57df484764ffa06d3ad]: Commencement: Para. 23.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

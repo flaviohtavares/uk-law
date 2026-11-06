@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Consequential amendments[^key-b10bdf4f530405468f0bbd830d3baebc]
+## 4. Consequential amendments[^c-b10bdf4f530405468f0bbd830d3baebc]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b10bdf4f530405468f0bbd830d3baebc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/664/regulation/4) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-b10bdf4f530405468f0bbd830d3baebc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/664/regulation/4) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)

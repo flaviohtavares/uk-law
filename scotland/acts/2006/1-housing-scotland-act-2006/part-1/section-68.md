@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Sub-standard houses[^key-390dcca8bde82cddfe5a9fa91760f945]
+## 68. Sub-standard houses[^c-390dcca8bde82cddfe5a9fa91760f945]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ of a house are to be ignored when considering whether it is sub-standard.
 
 ## Annotations
 
-[^key-390dcca8bde82cddfe5a9fa91760f945]: Commencement: S. 68 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-390dcca8bde82cddfe5a9fa91760f945]: Commencement: S. 68 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

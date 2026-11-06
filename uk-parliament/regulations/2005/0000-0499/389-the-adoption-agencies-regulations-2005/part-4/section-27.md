@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Pre-assessment decision[^key-a6790a297221401376e94bf718b934f2]
+## 27. Pre-assessment decision[^c-a6790a297221401376e94bf718b934f2]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the prospective adopter may be suitable to adopt a child; or
 - (b) that the prospective adopter is not suitable to adopt a child.
 
-(1A)[^key-67a3e5778de0fe027443dda9bb5715d8] The adoption agency may make a decision under paragraph (1) even if the information requested under regulation 26(b) has yet to be obtained.
+(1A)[^c-67a3e5778de0fe027443dda9bb5715d8] The adoption agency may make a decision under paragraph (1) even if the information requested under regulation 26(b) has yet to be obtained.
 
 (1B) The adoption agency must keep a record of any decision made in accordance with paragraph (1A).
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
+[^c-a6790a297221401376e94bf718b934f2]: Textual amendment: Pt. 4 substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/985/regulation/5)
 
-[^key-67a3e5778de0fe027443dda9bb5715d8]: Textual amendment: Reg. 27(1A)(1B) inserted (temp.) (25.9.2020) by [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/3/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))
+[^c-67a3e5778de0fe027443dda9bb5715d8]: Textual amendment: Reg. 27(1A)(1B) inserted (temp.) (25.9.2020) by [The Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020 (S.I. 2020/909)](https://www.legislation.gov.uk/uksi/2020/909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/3/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/909/regulation/8))

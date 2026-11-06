@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Information-sharing for prevention etc of tax credit fraud[^key-f7ec259a83a8c7aef6f6b35b336af3e9]
+## 123. Information-sharing for prevention etc of tax credit fraud[^c-f7ec259a83a8c7aef6f6b35b336af3e9]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7ec259a83a8c7aef6f6b35b336af3e9]: Commencement: S. 123 in force at 6.6.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), art. 2)
+[^c-f7ec259a83a8c7aef6f6b35b336af3e9]: Commencement: S. 123 in force at 6.6.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), art. 2)

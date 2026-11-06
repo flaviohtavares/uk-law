@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Temporary use of land for carrying out the authorised development[^key-42e653dd51701d137a7beebea5ddc839]
+## 28. Temporary use of land for carrying out the authorised development[^c-42e653dd51701d137a7beebea5ddc839]
 
 *Extent: E+W+S*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-42e653dd51701d137a7beebea5ddc839]: Commencement: Art. 28 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-42e653dd51701d137a7beebea5ddc839]: Commencement: Art. 28 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
 [^f00027]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Minor and consequential amendments[^key-05016ed97eb4977da5a4e27137c82a55]
+## 157. Minor and consequential amendments[^c-05016ed97eb4977da5a4e27137c82a55]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 contains minor and consequential amendments relating to the provisio
 
 ## Annotations
 
-[^key-05016ed97eb4977da5a4e27137c82a55]: Commencement: S. 157 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(w)](https://www.legislation.gov.uk/uksi/2007/935/article/5/w)
+[^c-05016ed97eb4977da5a4e27137c82a55]: Commencement: S. 157 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(w)](https://www.legislation.gov.uk/uksi/2007/935/article/5/w)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Enforcement, penalties and offences[^key-71188d6c58354c4f0cc449a6532e2ff5]
+## 261. Enforcement, penalties and offences[^c-71188d6c58354c4f0cc449a6532e2ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71188d6c58354c4f0cc449a6532e2ff5]: Commencement: S. 261 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-71188d6c58354c4f0cc449a6532e2ff5]: Commencement: S. 261 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

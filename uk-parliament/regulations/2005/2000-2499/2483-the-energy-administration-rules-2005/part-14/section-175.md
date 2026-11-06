@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 175. Notice of order under section 176A(5) of the 1986 Act[^key-8379875975ae342feee4b1e6381f0d69]
+## 175. Notice of order under section 176A(5) of the 1986 Act[^c-8379875975ae342feee4b1e6381f0d69]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8379875975ae342feee4b1e6381f0d69]: Commencement: Rule 175 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8379875975ae342feee4b1e6381f0d69]: Commencement: Rule 175 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Homelessness: victims of domestic abuse[^key-ba45526980726f444714f064eb16c60f]
+## 78. Homelessness: victims of domestic abuse[^c-ba45526980726f444714f064eb16c60f]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba45526980726f444714f064eb16c60f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2021/17/section/78) in force at 5.7.2021 by [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/1))
+[^c-ba45526980726f444714f064eb16c60f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2021/17/section/78) in force at 5.7.2021 by [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/1))

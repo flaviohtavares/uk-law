@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Variation or discharge[^key-ef6ab6d895633e956ba4b827f6630293]
+## 8. Variation or discharge[^c-ef6ab6d895633e956ba4b827f6630293]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (3) Section 25A of that Act (inserted by subsection (2) above) applies to—
 
-- (za)[^key-b0a8f810b12a57581bb2420c5d1f13f0] a confiscation order made under the Drug Trafficking Offences Act 1986,
+- (za)[^c-b0a8f810b12a57581bb2420c5d1f13f0] a confiscation order made under the Drug Trafficking Offences Act 1986,
 - (a) a confiscation order made under Part 6 of the Criminal Justice Act 1988, or
 - (b) a confiscation order made under the Drug Trafficking Act 1994,
 
@@ -47,6 +47,6 @@ as it applies to a confiscation order made under the Proceeds of Crime Act 2002.
 
 ## Annotations
 
-[^key-ef6ab6d895633e956ba4b827f6630293]: Commencement: S. 8 in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/e)
+[^c-ef6ab6d895633e956ba4b827f6630293]: Commencement: S. 8 in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/e)
 
-[^key-b0a8f810b12a57581bb2420c5d1f13f0]: Textual amendment: S. 8(3)(za) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 34(11)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/11), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)
+[^c-b0a8f810b12a57581bb2420c5d1f13f0]: Textual amendment: S. 8(3)(za) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 34(11)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/11), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)

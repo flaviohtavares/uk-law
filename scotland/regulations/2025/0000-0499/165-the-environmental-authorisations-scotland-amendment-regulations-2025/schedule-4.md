@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — NEW SCHEDULE 13 TO BE INSERTED INTO THE 2018 REGULATIONS[^key-53365e1f114c160aa7754d0336cda555][^key-aee6be932e5137a1c8f12d8fa2354420]
+## SCHEDULE 4 — NEW SCHEDULE 13 TO BE INSERTED INTO THE 2018 REGULATIONS[^c-53365e1f114c160aa7754d0336cda555][^c-aee6be932e5137a1c8f12d8fa2354420]
 
 *Extent: S*
 
@@ -1140,9 +1140,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-53365e1f114c160aa7754d0336cda555]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/4) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-53365e1f114c160aa7754d0336cda555]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/4) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-aee6be932e5137a1c8f12d8fa2354420]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/4) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-aee6be932e5137a1c8f12d8fa2354420]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/4) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00039]: Footnote: EUDN 2003/33, amended by [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620).
 

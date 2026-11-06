@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Costs of supervision[^key-c4a582c99d8b3ef818d57ab204f10b34]
+## 59. Costs of supervision[^c-c4a582c99d8b3ef818d57ab204f10b34]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) rules made under paragraph 23 of Part 3 of Schedule 1ZA by virtue of this regulation are not to be treated as regulating provisions for the purposes of section 140A(1) of the 2000 Act (competition scrutiny);
 - (c) paragraph 23(7) does not apply.
 
-(2)[^key-e390e492d238214a46d2bfbd62066b6c] The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 51.
+(2)[^c-e390e492d238214a46d2bfbd62066b6c] The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 51.
 
 (3) The Treasury may give directions to the Authority as to how the Authority is to comply with its duty under paragraph (2).
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4a582c99d8b3ef818d57ab204f10b34]: Textual amendment: Reg. 59(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/3)
+[^c-c4a582c99d8b3ef818d57ab204f10b34]: Textual amendment: Reg. 59(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 196(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/196/3)
 
-[^key-e390e492d238214a46d2bfbd62066b6c]: Textual amendment: Reg. 59(2)-(5) substituted for reg. 59(2) (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/5)
+[^c-e390e492d238214a46d2bfbd62066b6c]: Textual amendment: Reg. 59(2)-(5) substituted for reg. 59(2) (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/5)

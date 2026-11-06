@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Wales) (Amendment) (No. 2) Order 2014 (revoked)[^key-df3e7dc033c768775fd992f5f94d887c]
+The Plant Health (Wales) (Amendment) (No. 2) Order 2014 (revoked)[^c-df3e7dc033c768775fd992f5f94d887c]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 31 May 2014
 
-[^key-df3e7dc033c768775fd992f5f94d887c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df3e7dc033c768775fd992f5f94d887c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-df3e7dc033c768775fd992f5f94d887c]
+## 1. Title, commencement and application[^c-df3e7dc033c768775fd992f5f94d887c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Wales) Order 2006[^key-df3e7dc033c768775fd992f5f94d887c]
+## 2. Amendment of the Plant Health (Wales) Order 2006[^c-df3e7dc033c768775fd992f5f94d887c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 19 (prohibitions on landing plant pests and relevant material)[^key-df3e7dc033c768775fd992f5f94d887c]
+## 3. Article 19 (prohibitions on landing plant pests and relevant material)[^c-df3e7dc033c768775fd992f5f94d887c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Diabrotica virgifera virgifera Le Conte[^key-df3e7dc033c768775fd992f5f94d887c]
+## 4. Diabrotica virgifera virgifera Le Conte[^c-df3e7dc033c768775fd992f5f94d887c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df3e7dc033c768775fd992f5f94d887c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df3e7dc033c768775fd992f5f94d887c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-df3e7dc033c768775fd992f5f94d887c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df3e7dc033c768775fd992f5f94d887c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df3e7dc033c768775fd992f5f94d887c]: Textual amendment: Order revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/uksi/2018/1064), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1064/article/1/2), [Sch. 18](https://www.legislation.gov.uk/uksi/2018/1064/schedule/18)
+[^c-df3e7dc033c768775fd992f5f94d887c]: Textual amendment: Order revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/uksi/2018/1064), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1064/article/1/2), [Sch. 18](https://www.legislation.gov.uk/uksi/2018/1064/schedule/18)

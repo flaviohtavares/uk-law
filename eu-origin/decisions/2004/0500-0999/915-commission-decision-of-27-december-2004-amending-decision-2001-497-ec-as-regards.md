@@ -39,20 +39,20 @@ amending Decision 2001/497/EC as regards the introduction of an alternative set 
 
 (2004/915/EC) (revoked)
 
-[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce]
+## ANNEX[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9b6fe4fb7cdb81a1ed0fec1c67961ce]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(g)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9b6fe4fb7cdb81a1ed0fec1c67961ce]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(g)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

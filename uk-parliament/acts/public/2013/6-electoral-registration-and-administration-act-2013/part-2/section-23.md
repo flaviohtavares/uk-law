@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Repeal of powers to establish co-ordinated on-line record of electors[^key-8df0b9e2a801668b815c3cb8600b058f]
+## 23. Repeal of powers to establish co-ordinated on-line record of electors[^c-8df0b9e2a801668b815c3cb8600b058f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8df0b9e2a801668b815c3cb8600b058f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2013/6/section/23) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-8df0b9e2a801668b815c3cb8600b058f]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2013/6/section/23) in force at 2.4.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)

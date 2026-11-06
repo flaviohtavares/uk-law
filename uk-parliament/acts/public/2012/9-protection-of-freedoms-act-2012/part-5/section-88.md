@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Transfer of functions to DBS and dissolution of ISA[^M_C_ad96d749-25ac-47b8-bc2f-bdf9159dc381][^key-e12ec2708a6bc1281da7d560a71167e0][^key-32031bfce043005f021c119e9e547a68]
+## 88. Transfer of functions to DBS and dissolution of ISA[^M_C_ad96d749-25ac-47b8-bc2f-bdf9159dc381][^c-e12ec2708a6bc1281da7d560a71167e0][^c-32031bfce043005f021c119e9e547a68]
 
 *Extent: E+W+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^M_C_ad96d749-25ac-47b8-bc2f-bdf9159dc381]: Modification: S. 88 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Order 2012 (S.I. 2012/1762)](https://www.legislation.gov.uk/uksi/2012/1762), [art. 4(1)(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1762/schedule/1)
 
-[^key-e12ec2708a6bc1281da7d560a71167e0]: Modification: S. 88 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/2/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2591/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
+[^c-e12ec2708a6bc1281da7d560a71167e0]: Modification: S. 88 extended (Jersey) (with modifications) (17.10.2012 coming into force in accordance with art. 1(2)(3)) by [The Police Act 1997 (Criminal Records) (Jersey) (Amendment) Order 2012 (S.I. 2012/2591)](https://www.legislation.gov.uk/uksi/2012/2591), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2591/article/1/3)[4(1)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2012/2591/article/4/2/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2591/schedule/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2591/article/5))
 
-[^key-32031bfce043005f021c119e9e547a68]: Modification: S. 88 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(1)(g)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/1/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2598/schedule/1)
+[^c-32031bfce043005f021c119e9e547a68]: Modification: S. 88 extended (Isle of Man) (with modifications) (with effect in accordance with art. 1(3)(4) of the amending S.I.) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [4(1)(g)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/1/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2598/schedule/1)

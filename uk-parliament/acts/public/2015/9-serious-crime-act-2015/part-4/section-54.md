@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Execution of search and seizure warrants[^key-b920951fc45739d7127726d7b1fbb7be]
+## 54. Execution of search and seizure warrants[^c-b920951fc45739d7127726d7b1fbb7be]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b920951fc45739d7127726d7b1fbb7be]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2015/9/section/54) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-b920951fc45739d7127726d7b1fbb7be]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2015/9/section/54) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

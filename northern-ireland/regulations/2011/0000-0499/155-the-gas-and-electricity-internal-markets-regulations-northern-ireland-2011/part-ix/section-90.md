@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Separation of existing electricity transmission licence[^key-0d4657958e4d6e13cc96733c6fb5b9d6]
+## 90. Separation of existing electricity transmission licence[^c-0d4657958e4d6e13cc96733c6fb5b9d6]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ authorising, in each case, the activities thereunder in the area specified in th
 
 ## Annotations
 
-[^key-0d4657958e4d6e13cc96733c6fb5b9d6]: Commencement: Reg. 90 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-0d4657958e4d6e13cc96733c6fb5b9d6]: Commencement: Reg. 90 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

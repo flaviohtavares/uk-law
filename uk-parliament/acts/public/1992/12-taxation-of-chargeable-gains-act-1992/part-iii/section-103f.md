@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103F. Exchanges of units for units in the same scheme[^key-acaad0a234c9bd599fe82f6de28bbd44]
+## 103F. Exchanges of units for units in the same scheme[^c-acaad0a234c9bd599fe82f6de28bbd44]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acaad0a234c9bd599fe82f6de28bbd44]: Textual amendment: Pt. 3 Ch. 4 inserted (8.6.2013) by [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2013/1400/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-acaad0a234c9bd599fe82f6de28bbd44]: Textual amendment: Pt. 3 Ch. 4 inserted (8.6.2013) by [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2013/1400/regulation/11) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

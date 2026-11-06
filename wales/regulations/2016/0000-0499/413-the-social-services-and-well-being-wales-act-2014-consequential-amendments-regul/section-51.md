@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**51.**[^key-5ea4e6756c6939fb8e98c678b26df055] In section 16(1) (interpretation)
+**51.**[^c-5ea4e6756c6939fb8e98c678b26df055] In section 16(1) (interpretation)
 
 - (a) in the definition of “disabled person”, for paragraph (a)[^f00058] substitute—
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea4e6756c6939fb8e98c678b26df055]: Commencement: Reg. 51 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5ea4e6756c6939fb8e98c678b26df055]: Commencement: Reg. 51 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00058]: Footnote: Paragraph (a) in the definition of “disabled person” was amended by the Children Act 1989, Schedule 13, paragraph 61 and by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 36, 41(1), (3).
 

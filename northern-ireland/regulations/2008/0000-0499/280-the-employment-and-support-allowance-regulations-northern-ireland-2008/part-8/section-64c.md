@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64C. Matters to be taken into account in determining hardship[^key-1b5e36ddaf871dc7491928594a613893]
+## 64C. Matters to be taken into account in determining hardship[^c-1b5e36ddaf871dc7491928594a613893]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b5e36ddaf871dc7491928594a613893]: Textual amendment: [Regs. 64A-64D](https://www.legislation.gov.uk/nisr/2008/280/regulation/64A) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2016/240/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
+[^c-1b5e36ddaf871dc7491928594a613893]: Textual amendment: [Regs. 64A-64D](https://www.legislation.gov.uk/nisr/2008/280/regulation/64A) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2016/240/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))

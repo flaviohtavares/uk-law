@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Cancellation of warrants[^key-bb1cc38cb15fb6b8cb2b5784f9b07d43]
+## 167. Cancellation of warrants[^c-bb1cc38cb15fb6b8cb2b5784f9b07d43]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb1cc38cb15fb6b8cb2b5784f9b07d43]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2016/25/section/167) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-bb1cc38cb15fb6b8cb2b5784f9b07d43]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2016/25/section/167) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

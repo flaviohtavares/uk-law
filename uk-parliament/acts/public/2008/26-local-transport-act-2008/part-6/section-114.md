@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Suspension of charging schemes[^key-c07ecb2786120f17e42b1fd7b654fa24][^key-99d1c0ed7e28267ed52970ba83a25733]
+## 114. Suspension of charging schemes[^c-c07ecb2786120f17e42b1fd7b654fa24][^c-99d1c0ed7e28267ed52970ba83a25733]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ After section 172 of the TA 2000 insert—
 
 ## Annotations
 
-[^key-c07ecb2786120f17e42b1fd7b654fa24]: Commencement: S. 114 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-c07ecb2786120f17e42b1fd7b654fa24]: Commencement: S. 114 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-99d1c0ed7e28267ed52970ba83a25733]: Commencement: S. 114 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/579/article/2/o)
+[^c-99d1c0ed7e28267ed52970ba83a25733]: Commencement: S. 114 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/579/article/2/o)

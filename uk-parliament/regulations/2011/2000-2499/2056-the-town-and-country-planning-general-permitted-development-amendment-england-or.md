@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2011 (revoked)[^key-eff81831b4de98835e8db71c26a457c7]
+The Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2011 (revoked)[^c-eff81831b4de98835e8db71c26a457c7]
 
 Made
 
@@ -44,144 +44,144 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-eff81831b4de98835e8db71c26a457c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff81831b4de98835e8db71c26a457c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-eff81831b4de98835e8db71c26a457c7]
+## 1. Citation, commencement and application[^c-eff81831b4de98835e8db71c26a457c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (General Permitted Development) Order 1995[^key-eff81831b4de98835e8db71c26a457c7]
+## 2. Amendment of the Town and Country Planning (General Permitted Development) Order 1995[^c-eff81831b4de98835e8db71c26a457c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eff81831b4de98835e8db71c26a457c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff81831b4de98835e8db71c26a457c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-eff81831b4de98835e8db71c26a457c7]
+## SCHEDULE[^c-eff81831b4de98835e8db71c26a457c7]
 
 Article 2(4)
 
-> **Part 40 — INSTALLATION OF DOMESTIC MICROGENERATION EQUIPMENT[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Part 40 — INSTALLATION OF DOMESTIC MICROGENERATION EQUIPMENT[^c-eff81831b4de98835e8db71c26a457c7]**
 >
-> **Class A[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class A[^c-eff81831b4de98835e8db71c26a457c7]**
 >
-> **A. Permitted development[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **A.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **A. Permitted development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **A.2. Conditions[^key-eff81831b4de98835e8db71c26a457c7]**
+> **A.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class B[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> **B. Permitted development[^key-eff81831b4de98835e8db71c26a457c7]**
+> **A.2. Conditions[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **B.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class B[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> **B. Permitted development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **B.2. Conditions[^key-eff81831b4de98835e8db71c26a457c7]**
+> **B.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class C[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> **C. Permitted development[^key-eff81831b4de98835e8db71c26a457c7]**
+> **B.2. Conditions[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class D[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class C[^c-eff81831b4de98835e8db71c26a457c7]**
 >
-> **D. Permitted development[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **Class E[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> **E. Permitted development[^key-eff81831b4de98835e8db71c26a457c7]**
+> **C. Permitted development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **E.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class D[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> **D. Permitted development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class F[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class E[^c-eff81831b4de98835e8db71c26a457c7]**
 >
-> **F. Permitted development[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **F.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **E. Permitted development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class G[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> **G. Permitted Development[^key-eff81831b4de98835e8db71c26a457c7]**
+> **E.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **G.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class F[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> **F. Permitted development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **G.2.**[^key-eff81831b4de98835e8db71c26a457c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **G.3. Conditions[^key-eff81831b4de98835e8db71c26a457c7]**
+> **F.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class H[^key-eff81831b4de98835e8db71c26a457c7]**
+> **Class G[^c-eff81831b4de98835e8db71c26a457c7]**
 >
-> **H. Permitted Development[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **H.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **G. Permitted Development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **H.2.**[^key-eff81831b4de98835e8db71c26a457c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **H.3. Conditions[^key-eff81831b4de98835e8db71c26a457c7]**
+> **G.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Class I[^key-eff81831b4de98835e8db71c26a457c7]**
+> **G.2.**[^c-eff81831b4de98835e8db71c26a457c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **I. Permitted Development[^key-eff81831b4de98835e8db71c26a457c7]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **I.1. Development not permitted[^key-eff81831b4de98835e8db71c26a457c7]**
+> **G.3. Conditions[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **I.2.**[^key-eff81831b4de98835e8db71c26a457c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **Class H[^c-eff81831b4de98835e8db71c26a457c7]**
 >
-> **I.3. Conditions[^key-eff81831b4de98835e8db71c26a457c7]**
+> **H. Permitted Development[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **J. Interpretation of Part 40[^key-eff81831b4de98835e8db71c26a457c7]**
+> **H.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **H.2.**[^c-eff81831b4de98835e8db71c26a457c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **H.3. Conditions[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **Class I[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> **I. Permitted Development[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **I.1. Development not permitted[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **I.2.**[^c-eff81831b4de98835e8db71c26a457c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **I.3. Conditions[^c-eff81831b4de98835e8db71c26a457c7]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **J. Interpretation of Part 40[^c-eff81831b4de98835e8db71c26a457c7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eff81831b4de98835e8db71c26a457c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff81831b4de98835e8db71c26a457c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eff81831b4de98835e8db71c26a457c7]: Textual amendment: Order revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/15) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2/3))
+[^c-eff81831b4de98835e8db71c26a457c7]: Textual amendment: Order revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/15) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2/3))

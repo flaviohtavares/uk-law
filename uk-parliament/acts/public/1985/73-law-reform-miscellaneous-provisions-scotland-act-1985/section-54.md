@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Clarification of investment powers of Scottish Hospital Trust and Scottish Hospital Endowments Research Trust.[^key-20ed55efb71f3c11b1e55ed4f90e2e15]
+## 54. Clarification of investment powers of Scottish Hospital Trust and Scottish Hospital Endowments Research Trust.[^c-20ed55efb71f3c11b1e55ed4f90e2e15]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20ed55efb71f3c11b1e55ed4f90e2e15]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1985/73/section/54) repealed (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/7); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-20ed55efb71f3c11b1e55ed4f90e2e15]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1985/73/section/54) repealed (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/7); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

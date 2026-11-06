@@ -32,7 +32,7 @@ Building (Scotland) Act 2003
 
 An Act of the Scottish Parliament to make further provision with respect to buildings, building standards, work in relation to buildings and related matters; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th February 2003 and received Royal Assent on 26th March 2003[^key-d666d81342be6caba30f45af99c44e01]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th February 2003 and received Royal Assent on 26th March 2003[^c-d666d81342be6caba30f45af99c44e01]
 
 ## Contents
 
@@ -147,7 +147,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 45 — Compulsory purchase where owner cannot be found](part-5/section-45.md)
 - [Section 46 — Sale of materials from demolished buildings](part-5/section-46.md)
 
-#### Charging orders[^key-f3792de3e4eaf0adc7cb9f3cd6a6cbad]
+#### Charging orders[^c-f3792de3e4eaf0adc7cb9f3cd6a6cbad]
 
 - [Section 46A — Charging orders](part-5/section-46a.md)
 - [Section 46B — Qualifying expenses](part-5/section-46b.md)
@@ -201,6 +201,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-d666d81342be6caba30f45af99c44e01]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/8) excluded (1.5.2009) by [Building (Scotland) Act 2003 (Exemptions for Defence and National Security) Order 2009 (S.I. 2009/822)](https://www.legislation.gov.uk/uksi/2009/822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/822/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/822/article/3)
+[^c-d666d81342be6caba30f45af99c44e01]: Modification: [Act](https://www.legislation.gov.uk/asp/2003/8) excluded (1.5.2009) by [Building (Scotland) Act 2003 (Exemptions for Defence and National Security) Order 2009 (S.I. 2009/822)](https://www.legislation.gov.uk/uksi/2009/822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/822/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/822/article/3)
 
-[^key-f3792de3e4eaf0adc7cb9f3cd6a6cbad]: Textual amendment: Ss. 46A-46H and preceding cross-heading inserted (24.1.2015) by [Buildings (Recovery of Expenses) (Scotland) Act 2014 (asp 13)](https://www.legislation.gov.uk/asp/2014/13), [ss. 1(b)](https://www.legislation.gov.uk/asp/2014/13/section/1/b), [3(2)](https://www.legislation.gov.uk/asp/2014/13/section/3/2)
+[^c-f3792de3e4eaf0adc7cb9f3cd6a6cbad]: Textual amendment: Ss. 46A-46H and preceding cross-heading inserted (24.1.2015) by [Buildings (Recovery of Expenses) (Scotland) Act 2014 (asp 13)](https://www.legislation.gov.uk/asp/2014/13), [ss. 1(b)](https://www.legislation.gov.uk/asp/2014/13/section/1/b), [3(2)](https://www.legislation.gov.uk/asp/2014/13/section/3/2)

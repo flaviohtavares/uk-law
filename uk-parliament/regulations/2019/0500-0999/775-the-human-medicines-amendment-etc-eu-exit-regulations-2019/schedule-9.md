@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 230
 
-**1.**[^key-fb3fc7b6c1b693eb769758476fd13d15] Insofar as they apply to medicinal products for human use, and subject to the transitional provisions in Schedule 33A to the Human Medicines Regulations 2012 [^c23885871], the following instruments are revoked—
+**1.**[^c-fb3fc7b6c1b693eb769758476fd13d15] Insofar as they apply to medicinal products for human use, and subject to the transitional provisions in Schedule 33A to the Human Medicines Regulations 2012 [^c23885871], the following instruments are revoked—
 
 - (a) Council Decision [75/320/EEC](https://www.legislation.gov.uk/eud/1975/320) of 20 May 1975 setting up a Pharmaceutical Committee;
 - (b) Council Regulation [(EC) No 297/95](https://www.legislation.gov.uk/eur/1995/297) of 10 February 1995 on fees payable to the European Agency for the evaluation of medicinal products;
@@ -59,14 +59,14 @@ Regulation 230
 - (gg) Commission implementing Decision of 1 July 2015 amending implementing Decision 2012/715/EU establishing a list of third countries with a regulatory framework applicable to active substances for medicinal products for human use and the respective control and enforcement activities ensuring a level of protection of public health equivalent to that in the Union;
 - (hh) Commission Delegated Regulation (EU) No 2016/161 of 2 October 2015 supplementing Directive 2001/83 of the European Parliament and of the Council by laying down detailed rules for the safety features appearing on the packaging of medicinal products for human use;
 - (ii) Commission Regulation (EU) 2018/781 of 29 May 2018 amending Regulation [(EC) No 847/2000](https://www.legislation.gov.uk/eur/2000/847) as regards the definition of the concept “similar medicinal product”;
-- (jj)[^key-5dd8152020d7d3270b580168d6bcd631] Regulation (EU) 2019/5 of the European Parliament and of the Council of 11 December 2018 amending Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/0726) laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/eur/2006/1901) on medicinal products for paediatric use and [Directive 2001/83/EC](https://www.legislation.gov.uk/eudr/2001/0083) on the Community code relating to medicinal products for human use.
+- (jj)[^c-5dd8152020d7d3270b580168d6bcd631] Regulation (EU) 2019/5 of the European Parliament and of the Council of 11 December 2018 amending Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/0726) laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/eur/2006/1901) on medicinal products for paediatric use and [Directive 2001/83/EC](https://www.legislation.gov.uk/eudr/2001/0083) on the Community code relating to medicinal products for human use.
 
 ## Annotations
 
-[^key-fb3fc7b6c1b693eb769758476fd13d15]: Commencement: Sch. 9 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fb3fc7b6c1b693eb769758476fd13d15]: Commencement: Sch. 9 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885871]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
 [^c23885881]: Marginal citation: OJ No, L 189, 27.6.2014, p. 112.
 
-[^key-5dd8152020d7d3270b580168d6bcd631]: Textual amendment: Sch. 9 para. 1(jj) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 195](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/195)
+[^c-5dd8152020d7d3270b580168d6bcd631]: Textual amendment: Sch. 9 para. 1(jj) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 195](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/195)

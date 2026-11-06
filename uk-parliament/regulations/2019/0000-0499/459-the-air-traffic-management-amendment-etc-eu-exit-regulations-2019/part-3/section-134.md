@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Article 14 of Commission Regulation [(EC) No 29/2009](https://www.legislation.gov.uk/eur/2009/29)[^key-d12cd2e49e028996ac31170236c80d49]
+## 134. Article 14 of Commission Regulation [(EC) No 29/2009](https://www.legislation.gov.uk/eur/2009/29)[^c-d12cd2e49e028996ac31170236c80d49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 14 (exemptions).
 
 ## Annotations
 
-[^key-d12cd2e49e028996ac31170236c80d49]: Commencement: Reg. 134 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d12cd2e49e028996ac31170236c80d49]: Commencement: Reg. 134 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

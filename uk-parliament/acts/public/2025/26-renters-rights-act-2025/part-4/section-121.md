@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Business premises: entry under warrant[^key-d6025e1bc444222d9864a893ef47cc84]
+## 121. Business premises: entry under warrant[^c-d6025e1bc444222d9864a893ef47cc84]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6025e1bc444222d9864a893ef47cc84]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2025/26/section/121) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-d6025e1bc444222d9864a893ef47cc84]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2025/26/section/121) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Trial by single justice on the papers: sentencing etc[^key-efc1cdb0bcca36fc47779fb76bece04f]
+## 49. Trial by single justice on the papers: sentencing etc[^c-efc1cdb0bcca36fc47779fb76bece04f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ In section 121 of the Magistrates' Courts Act 1980 (constitution etc of a magist
 
 ## Annotations
 
-[^key-efc1cdb0bcca36fc47779fb76bece04f]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/2/section/49) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/40)
+[^c-efc1cdb0bcca36fc47779fb76bece04f]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/2/section/49) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/40)

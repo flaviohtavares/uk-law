@@ -92,15 +92,15 @@ These Regulations may be cited as the Water Abstraction (Transitional Provisions
 
 - (a) is a transfer of title to the property from which water was abstracted as described in paragraph (1)(a),
 - (b) includes irrevocable transfer of the right to abstract water as described in paragraph (1)(a) from that property, and
-- (c) has effect on any date during the period beginning 1st January 2018 and ending 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^key-ecbdb7a169eaae3d47c35f0c083609de]on the transitional period end date *(Extent: E)*.
+- (c) has effect on any date during the period beginning 1st January 2018 and ending 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^c-ecbdb7a169eaae3d47c35f0c083609de]on the transitional period end date *(Extent: E)*.
 
 *Extent: E*
 
-(3)[^key-fcee93ee20da901233ec3fc1516d95d4] In this Part, “transitional period end date”, in relation to England, means 30th June 2020.
+(3)[^c-fcee93ee20da901233ec3fc1516d95d4] In this Part, “transitional period end date”, in relation to England, means 30th June 2020.
 
 ### 4. Transitional procedures for applications by persons other than the appropriate agency
 
-(1) This regulation applies where a person to whom this Part applies, other than the appropriate agency [^c23074121], applies for a licence before 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^key-777a0214c381f9ecbd26a318eb514452]the transitional period end date *(Extent: E)*.
+(1) This regulation applies where a person to whom this Part applies, other than the appropriate agency [^c23074121], applies for a licence before 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^c-777a0214c381f9ecbd26a318eb514452]the transitional period end date *(Extent: E)*.
 
 (2) Where the licence application relates to the abstraction described in regulation 3(1)(a), the application must be made and determined in accordance with the Schedule to these Regulations instead of in accordance with Part 2 of the 2006 Regulations.
 
@@ -114,7 +114,7 @@ These Regulations may be cited as the Water Abstraction (Transitional Provisions
 (1) Paragraph (2) applies where—
 
 - (a) this Part applies to an appropriate agency by virtue of regulation 3(1), and
-- (b) that appropriate agency applies for a transfer licence before 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^key-c499527020a617f2665a303ea889ca36]the transitional period end date *(Extent: E)*.
+- (b) that appropriate agency applies for a transfer licence before 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^c-c499527020a617f2665a303ea889ca36]the transitional period end date *(Extent: E)*.
 
 (2) The 2006 Regulations apply to that transfer licence application as if the reference in paragraph 2(3)(b)(iv) of Schedule 2 to the 2006 Regulations requiring the specification of the quantity of water to be abstracted were omitted.
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Water Abstraction (Transitional Provisions
 Notwithstanding the restriction on abstraction, a person may continue to carry out an abstraction of water described in regulation 3(1)(a)—
 
 - (a) if the person applies for a licence in respect of that abstraction, until the date on which that application (including any appeal under section 43 [^c23074131]) is determined, or
-- (b) if no such application is submitted, until 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^key-c9f1d65766eb44e4fac5d528d0ad9519]the transitional period end date *(Extent: E)*.
+- (b) if no such application is submitted, until 31st December 2019 *(Extent: E)* *(affected by repeal, see note)*[^c-c9f1d65766eb44e4fac5d528d0ad9519]the transitional period end date *(Extent: E)*.
 
 ### 7. Register of licences
 
@@ -197,7 +197,7 @@ Notwithstanding the restriction on abstraction, a person may continue to carry o
   - (iv) any flora or fauna dependent on any of paragraphs (i) to (iii), or
 - (b) to comply with any relevant legal requirement.
 
-(3)[^key-95dd0240a83af511887e99c55343aee9] In paragraph (1), an abstraction of more limited extent does not include—
+(3)[^c-95dd0240a83af511887e99c55343aee9] In paragraph (1), an abstraction of more limited extent does not include—
 
 - (a) a Qn95 hands-off flow constraint on a licence where the licensed abstraction is from a body of inland waters or a body of groundwater where the recent actual flow or quantitative status of the source of supply does not support good ecological potential, good ecological status or good quantitative status, or
 - (b) 75% of Qn99 hands-off flow constraint on a licence where the licenced abstraction is from a body of inland waters or a body of groundwater where the recent actual flow or quantitative status of the source of supply supports good ecological potential, good ecological status or good quantitative status.
@@ -218,7 +218,7 @@ Notwithstanding the restriction on abstraction, a person may continue to carry o
 
   is equal to or falls below the natural flow that is exceeded 95% of the time in that source of supply or inland waters.
 
-(4A)[^key-15f5750a4b806267175a0136e8187fe0] In paragraph (4)—
+(4A)[^c-15f5750a4b806267175a0136e8187fe0] In paragraph (4)—
 
 - (a) in the definitions of “good ecological potential” and “good ecological status”, references to Annex 5 to the Directive are to be read as if in Annex 5—
   - (i) a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to the appropriate authority or appropriate agency which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or was able to exercise that discretion, in respect of England or Wales;
@@ -232,10 +232,10 @@ Notwithstanding the restriction on abstraction, a person may continue to carry o
   - (ii) in relation to the Northumbria River Basin District, referred to in the WFD Regulations as applied and modified by regulation 5 of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003;
   - (iii) in relation to any other river basin district, within the meaning of the WFD Regulations.
 
-(5) In this regulation—[^key-f633e00e5d429c0054019a22f8f2827c] ,
+(5) In this regulation—[^c-f633e00e5d429c0054019a22f8f2827c] ,
 
-- (a)[^key-605f2db025401fcf5c55dee05192948b] "**the Directive**” means Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy [^c23074191]
-- (b)[^key-625d4d75765ac4751bdf3b43dfc4f823] “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
+- (a)[^c-605f2db025401fcf5c55dee05192948b] "**the Directive**” means Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy [^c23074191]
+- (b)[^c-625d4d75765ac4751bdf3b43dfc4f823] “**the WFD Regulations**” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
 
 ### 10. Deadline for receipt of applications
 
@@ -369,14 +369,14 @@ The appropriate agency may, following receipt of a valid application, require th
 
 #### 10. Notification of a decision
 
-(1) The appropriate agency must, by 31st December 2022 *(Extent: E.)* *(affected by repeal, see note)*[^key-5a168dc6f6be6cc4cd37fcc02385cd7f] the determination end date *(Extent: E)*, notify the applicant in writing of its decision on an application for a licence.
+(1) The appropriate agency must, by 31st December 2022 *(Extent: E.)* *(affected by repeal, see note)*[^c-5a168dc6f6be6cc4cd37fcc02385cd7f] the determination end date *(Extent: E)*, notify the applicant in writing of its decision on an application for a licence.
 
 (2) If the appropriate agency grants a licence on terms that are different in any material respect from the application, or refuses an application, the notification must—
 
 - (a) include a statement of the appropriate agency's reasons for doing so;
 - (b) state the applicant's entitlement to appeal under section 43(1).
 
-(3)[^key-b8ee4fb1cd7d999c46c27bb3fa617539] In this paragraph, “**determination end date**”, in relation to England, means 30th June 2023.
+(3)[^c-b8ee4fb1cd7d999c46c27bb3fa617539] In this paragraph, “**determination end date**”, in relation to England, means 30th June 2023.
 
 ### PART 3 — Appeals procedure
 
@@ -441,19 +441,19 @@ A Regulatory Impact Assessment (“RIA”) was produced in connection with the W
 
 [^c23074111]: Marginal citation: [S.I. 2006/641](https://www.legislation.gov.uk/uksi/2006/641), as amended by [S.I. 2008/165](https://www.legislation.gov.uk/uksi/2008/165) and 2013/755 (W. 90).
 
-[^key-ecbdb7a169eaae3d47c35f0c083609de]: Textual amendment: Words in reg. 3(2)(c) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/2/a)
+[^c-ecbdb7a169eaae3d47c35f0c083609de]: Textual amendment: Words in reg. 3(2)(c) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/2/a)
 
-[^key-fcee93ee20da901233ec3fc1516d95d4]: Textual amendment: Reg. 3(3) inserted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/2/b)
+[^c-fcee93ee20da901233ec3fc1516d95d4]: Textual amendment: Reg. 3(3) inserted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/2/b)
 
 [^c23074121]: Marginal citation: See section 221 of the Water Resources Act 1991 for the definition of the “appropriate agency”.
 
-[^key-777a0214c381f9ecbd26a318eb514452]: Textual amendment: Words in reg. 4(1) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/3)
+[^c-777a0214c381f9ecbd26a318eb514452]: Textual amendment: Words in reg. 4(1) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/3)
 
-[^key-c499527020a617f2665a303ea889ca36]: Textual amendment: Words in reg. 5(1)(b) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/3)
+[^c-c499527020a617f2665a303ea889ca36]: Textual amendment: Words in reg. 5(1)(b) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/3)
 
 [^c23074131]: Marginal citation: Section 43 was amended by paragraph 134 of Schedule 22 to the 1995 Act, section 14(3) of the 2003 Act and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W.90).
 
-[^key-c9f1d65766eb44e4fac5d528d0ad9519]: Textual amendment: Words in reg. 6(b) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/3)
+[^c-c9f1d65766eb44e4fac5d528d0ad9519]: Textual amendment: Words in reg. 6(b) substituted (E.) (31.12.2019) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2019 (S.I. 2019/1455)](https://www.legislation.gov.uk/uksi/2019/1455), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1455/regulation/2/3)
 
 [^c23074141]: Marginal citation: [Section 191A](https://www.legislation.gov.uk/uksi/2017/1047/section/191A) was inserted by paragraph 170 of Schedule 22 to the 1995 Act and amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90).
 
@@ -465,17 +465,17 @@ A Regulatory Impact Assessment (“RIA”) was produced in connection with the W
 
 [^c23074181]: Marginal citation: The definition of “local planning authority” was amended by section 18(3) and (4) of the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and section 31(1) of the [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24).
 
-[^key-95dd0240a83af511887e99c55343aee9]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/3) substituted (1.6.2018 for E. and 17.12.2018 for W.) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2018/575/regulation/14); [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [15](https://www.legislation.gov.uk/wsi/2018/1216/regulation/15)
+[^c-95dd0240a83af511887e99c55343aee9]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/3) substituted (1.6.2018 for E. and 17.12.2018 for W.) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2018/575/regulation/14); [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [15](https://www.legislation.gov.uk/wsi/2018/1216/regulation/15)
 
-[^key-15f5750a4b806267175a0136e8187fe0]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/4A) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15f5750a4b806267175a0136e8187fe0]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/4A) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f633e00e5d429c0054019a22f8f2827c]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/5) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(b)(i)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f633e00e5d429c0054019a22f8f2827c]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/5) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(b)(i)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-605f2db025401fcf5c55dee05192948b]: Textual amendment: [Reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/5/a) renumbered (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-605f2db025401fcf5c55dee05192948b]: Textual amendment: [Reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/5/a) renumbered (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(b)(ii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23074191]: Marginal citation: OJ No L 327, 22.12.2000, p1, as last amended by Commission Directive 2014/101/EU (OJ No L 311, 31.10.2014, p32).
 
-[^key-625d4d75765ac4751bdf3b43dfc4f823]: Textual amendment: [Reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/5/b) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(b)(iii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-625d4d75765ac4751bdf3b43dfc4f823]: Textual amendment: [Reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2017/1047/regulation/9/5/b) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [22(b)(iii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/22/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23074201]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33); [section 4](https://www.legislation.gov.uk/uksi/2017/1047/section/4) was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -489,6 +489,6 @@ A Regulatory Impact Assessment (“RIA”) was produced in connection with the W
 
 [^c23074251]: Marginal citation: [Sections 191A](https://www.legislation.gov.uk/uksi/2017/1047/section/191A) and 191B were inserted by paragraph 170 of Schedule 22 to the 1995 Act and amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90). Section 191B was amended by [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675).
 
-[^key-5a168dc6f6be6cc4cd37fcc02385cd7f]: Textual amendment: Words in [Sch. para. 10(1)](https://www.legislation.gov.uk/uksi/2017/1047/schedule/paragraph/10/1) substituted (E.) (31.12.2022) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2022 (S.I. 2022/1302)](https://www.legislation.gov.uk/uksi/2022/1302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/2/2/a)
+[^c-5a168dc6f6be6cc4cd37fcc02385cd7f]: Textual amendment: Words in [Sch. para. 10(1)](https://www.legislation.gov.uk/uksi/2017/1047/schedule/paragraph/10/1) substituted (E.) (31.12.2022) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2022 (S.I. 2022/1302)](https://www.legislation.gov.uk/uksi/2022/1302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/2/2/a)
 
-[^key-b8ee4fb1cd7d999c46c27bb3fa617539]: Textual amendment: [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2017/1047/schedule/paragraph/10/3) inserted (E.) (31.12.2022) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2022 (S.I. 2022/1302)](https://www.legislation.gov.uk/uksi/2022/1302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/2/2/b)
+[^c-b8ee4fb1cd7d999c46c27bb3fa617539]: Textual amendment: [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2017/1047/schedule/paragraph/10/3) inserted (E.) (31.12.2022) by [The Water Abstraction (Transitional Provisions) (Amendment) (England) Regulations 2022 (S.I. 2022/1302)](https://www.legislation.gov.uk/uksi/2022/1302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1302/regulation/2/2/b)

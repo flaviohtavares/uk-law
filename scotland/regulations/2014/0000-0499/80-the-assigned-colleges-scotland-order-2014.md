@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Assigned Colleges (Scotland) Order 2014 (revoked)[^key-414b95fba9db1d825427b954c124c725]
+The Assigned Colleges (Scotland) Order 2014 (revoked)[^c-414b95fba9db1d825427b954c124c725]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st August 2014
 
-[^key-414b95fba9db1d825427b954c124c725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-414b95fba9db1d825427b954c124c725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-414b95fba9db1d825427b954c124c725]
+## 1. Citation and commencement[^c-414b95fba9db1d825427b954c124c725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assigned Colleges[^key-414b95fba9db1d825427b954c124c725]
+## 2. Assigned Colleges[^c-414b95fba9db1d825427b954c124c725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-414b95fba9db1d825427b954c124c725]
+## 3. Transitional provision[^c-414b95fba9db1d825427b954c124c725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-414b95fba9db1d825427b954c124c725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-414b95fba9db1d825427b954c124c725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-414b95fba9db1d825427b954c124c725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-414b95fba9db1d825427b954c124c725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-414b95fba9db1d825427b954c124c725]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/80) revoked (30.7.2025) by [The Regional Strategic Bodies and Regional Colleges (Glasgow and Lanarkshire) Order 2025 (S.S.I. 2025/177)](https://www.legislation.gov.uk/ssi/2025/177), [arts. 1](https://www.legislation.gov.uk/ssi/2025/177/article/1), [8](https://www.legislation.gov.uk/ssi/2025/177/article/8)
+[^c-414b95fba9db1d825427b954c124c725]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2014/80) revoked (30.7.2025) by [The Regional Strategic Bodies and Regional Colleges (Glasgow and Lanarkshire) Order 2025 (S.S.I. 2025/177)](https://www.legislation.gov.uk/ssi/2025/177), [arts. 1](https://www.legislation.gov.uk/ssi/2025/177/article/1), [8](https://www.legislation.gov.uk/ssi/2025/177/article/8)

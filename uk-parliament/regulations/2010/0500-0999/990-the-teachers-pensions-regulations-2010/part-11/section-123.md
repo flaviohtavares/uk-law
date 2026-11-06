@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 123. Reduction of benefits: annual allowance and lifetime allowance charge[^key-5539de22746cf4c5f2d2e9425f820cf3]
+## 123. Reduction of benefits: annual allowance and lifetime allowance charge[^c-5539de22746cf4c5f2d2e9425f820cf3]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5539de22746cf4c5f2d2e9425f820cf3]: Textual amendment: [Reg. 123](https://www.legislation.gov.uk/uksi/2010/990/regulation/123) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [20](https://www.legislation.gov.uk/uksi/2014/2651/regulation/20)
+[^c-5539de22746cf4c5f2d2e9425f820cf3]: Textual amendment: [Reg. 123](https://www.legislation.gov.uk/uksi/2010/990/regulation/123) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [20](https://www.legislation.gov.uk/uksi/2014/2651/regulation/20)

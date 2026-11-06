@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290. Meaning of “relevant offshore wind activity”[^key-98ab93c064ae391e3524cdae85bd309d]
+## 290. Meaning of “relevant offshore wind activity”[^c-98ab93c064ae391e3524cdae85bd309d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98ab93c064ae391e3524cdae85bd309d]: Commencement: [S. 290](https://www.legislation.gov.uk/ukpga/2023/52/section/290) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)
+[^c-98ab93c064ae391e3524cdae85bd309d]: Commencement: [S. 290](https://www.legislation.gov.uk/ukpga/2023/52/section/290) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)

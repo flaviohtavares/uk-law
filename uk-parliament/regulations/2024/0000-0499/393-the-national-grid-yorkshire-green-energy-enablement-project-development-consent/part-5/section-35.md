@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Use of subsoil under or airspace over streets[^key-8b0d117d3c82751afff73c497854354c]
+## 35. Use of subsoil under or airspace over streets[^c-8b0d117d3c82751afff73c497854354c]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8b0d117d3c82751afff73c497854354c]: Commencement: Art. 35 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-8b0d117d3c82751afff73c497854354c]: Commencement: Art. 35 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00069]: Footnote: Part 1 was amended by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [1998 (c. 38)](https://www.legislation.gov.uk/uksi/1998/38), [S.I. 1999/481](https://www.legislation.gov.uk/uksi/1999/481), [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012) and [2016 (c. 9)](https://www.legislation.gov.uk/uksi/2016/9).
 

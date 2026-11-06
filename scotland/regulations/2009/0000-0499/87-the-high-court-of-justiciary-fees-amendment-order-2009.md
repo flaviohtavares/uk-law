@@ -32,7 +32,7 @@ summary: ''
 
 HIGH COURT OF JUSTICIARY
 
-The High Court of Justiciary Fees Amendment Order 2009 (revoked)[^key-56651de430f6b17f117861ec32f0654d]
+The High Court of Justiciary Fees Amendment Order 2009 (revoked)[^c-56651de430f6b17f117861ec32f0654d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2009
 
-[^key-56651de430f6b17f117861ec32f0654d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56651de430f6b17f117861ec32f0654d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-56651de430f6b17f117861ec32f0654d]
+## 1. Citation and commencement[^c-56651de430f6b17f117861ec32f0654d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the High Court of Justiciary Fees Order 1984[^key-56651de430f6b17f117861ec32f0654d]
+## 2. Amendment of the High Court of Justiciary Fees Order 1984[^c-56651de430f6b17f117861ec32f0654d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56651de430f6b17f117861ec32f0654d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56651de430f6b17f117861ec32f0654d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-56651de430f6b17f117861ec32f0654d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56651de430f6b17f117861ec32f0654d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56651de430f6b17f117861ec32f0654d]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/87) revoked (22.9.2015) by [The High Court of Justiciary Fees Order 2015 (revoked) 2015 (S.S.I. 2015/262)](https://www.legislation.gov.uk/ssi/2015/262), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/262/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/262/schedule/4)
+[^c-56651de430f6b17f117861ec32f0654d]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/87) revoked (22.9.2015) by [The High Court of Justiciary Fees Order 2015 (revoked) 2015 (S.S.I. 2015/262)](https://www.legislation.gov.uk/ssi/2015/262), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/262/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/262/schedule/4)

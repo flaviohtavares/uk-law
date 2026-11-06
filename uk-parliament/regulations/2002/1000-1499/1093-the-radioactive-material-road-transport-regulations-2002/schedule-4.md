@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — CONTENTS LIMITS FOR PACKAGES[^key-06b42716e5727214cc5bc4a5333ab2cd]
+## SCHEDULE 4 — CONTENTS LIMITS FOR PACKAGES[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulation 30(2)
 
-### 1. Excepted packages[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 1. Excepted packages[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Industrial packages[^key-06b42716e5727214cc5bc4a5333ab2cd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Type A packages[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 3. Industrial packages[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Type B(U), Type B(M) and Type C packages[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 4. Type A packages[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Packages containing fissile material[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 5. Type B(U), Type B(M) and Type C packages[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Packages containing uranium hexafluoride[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 6. Packages containing fissile material[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Special arrangement transport operations[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 7. Packages containing uranium hexafluoride[^c-06b42716e5727214cc5bc4a5333ab2cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Special arrangement transport operations[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06b42716e5727214cc5bc4a5333ab2cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1093) revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (revoked) 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
+[^c-06b42716e5727214cc5bc4a5333ab2cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1093) revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (revoked) 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

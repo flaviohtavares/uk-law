@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Retirement amount of deferred pension[^key-354c055949c59e1ac7f3800ebd70919d]
+## 46. Retirement amount of deferred pension[^c-354c055949c59e1ac7f3800ebd70919d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-354c055949c59e1ac7f3800ebd70919d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2015/19/regulation/46) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-354c055949c59e1ac7f3800ebd70919d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2015/19/regulation/46) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

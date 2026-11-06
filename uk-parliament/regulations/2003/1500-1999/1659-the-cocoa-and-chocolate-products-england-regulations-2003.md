@@ -56,15 +56,15 @@ These Regulations may be cited as the Cocoa and Chocolate Products (England) Reg
 - “**the Act**” means the Food Safety Act 1990;
 - “**catering establishment**” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
 - “**designated product**” means any cocoa or chocolate product specified in column 2 of Schedule 1, as read with any Note to that Schedule and any provision of regulation 3 and Schedule 2 relating to that product; and “designated chocolate product” and “**designated cocoa product**” mean any such product which is respectively a chocolate product or a cocoa product;
-- [^key-10702ddc168d26bb26595e6c86b43731]...
-- [^key-10702ddc168d26bb26595e6c86b43731]...
+- [^c-10702ddc168d26bb26595e6c86b43731]...
+- [^c-10702ddc168d26bb26595e6c86b43731]...
 - “**food authority**” does not include—
   - (a) the council of a district in a non-metropolitan county except where the county functions have been transferred to that council pursuant to a structural change, or
   - (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner and the Middle Temple);
-- [^key-d9c0b29ffd5e0072d0393ae0aed2080e]...
+- [^c-d9c0b29ffd5e0072d0393ae0aed2080e]...
 - “**other edible substances**” does not include vegetable fats referred to in regulation 3 or the filling of any product specified in column 2 of item 7 or of item 10(a) of Schedule 1;
 - “**preparation**” includes manufacture and any form of processing or treatment;
-- “[^key-e8cb8c07d8893044fe4ed6477ca4612d]**Regulation (EU) No 1169/2011**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/608) , as last amended by[^key-42c0e16da7ccb15d9bcc538a1e65fc64] [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/eur/2015/2283) of the European Parliament and of the Council on novel foods;
+- “[^c-e8cb8c07d8893044fe4ed6477ca4612d]**Regulation (EU) No 1169/2011**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/608) , as last amended by[^c-42c0e16da7ccb15d9bcc538a1e65fc64] [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/eur/2015/2283) of the European Parliament and of the Council on novel foods;
 - “**reserved description**”, as respects any designated product, means any description specified in relation to that product in column 1 of Schedule 1;
 - “**sell**” includes offer or expose for sale or have in possession for sale, and “**sale**” shall be construed accordingly; and
 - “**ultimate consumer**” means any person who buys otherwise than—
@@ -89,13 +89,13 @@ These Regulations apply to designated products intended for human consumption an
 No person shall sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless—
 
 - (a) such food is the designated product to which the reserved description relates;
-- (b)[^key-68c274e1d06417c1c6235ae1e0d1b490] such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food;
+- (b)[^c-68c274e1d06417c1c6235ae1e0d1b490] such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food;
 - (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product; or
 - (d) the use of such description, derivative or word to designate the food is in accordance with the customs applicable in the United Kingdom and the food cannot be confused with a product listed in column 1 of Schedule 1.
 
 ## 6. Labelling and description of designated products
 
-(1) Without prejudice to the generality of Regulation ([^key-34a36ef7666ed9c2d12c1a2d025881a0]EU) No 1169/2011, no person shall sell any designated product unless it is marked or labelled with the following particulars—
+(1) Without prejudice to the generality of Regulation ([^c-34a36ef7666ed9c2d12c1a2d025881a0]EU) No 1169/2011, no person shall sell any designated product unless it is marked or labelled with the following particulars—
 
 - (a) subject to paragraphs (2)(a) and (3) below, a reserved description of the product;
 - (b) subject to paragraph (2) of regulation 7, in the case of a designated chocolate product which, pursuant to regulation 3, contains vegetable fats other than cocoa butter, the conspicuous and clearly legible statement “contains vegetable fats in addition to cocoa butter”;
@@ -108,7 +108,7 @@ No person shall sell any food with a label, whether or not attached to or printe
 (2) Where designated chocolate products specified in column 2 of items 3, 4, 5, 6, 7 and 10 of Schedule 1 are sold in an assortment—
 
 - (a) the reserved description may be replaced by “assorted chocolates” or “assorted filled chocolates” or a similar name; and
-- (b) the list of ingredients with which food is required by Article 9(1)(b) of Regulation ([^key-9245e20c4557c94887ae460c39da2cf2]EU) No 1169/2011 to be marked or labelled may be a single list of ingredients for all the products in the assortment.
+- (b) the list of ingredients with which food is required by Article 9(1)(b) of Regulation ([^c-9245e20c4557c94887ae460c39da2cf2]EU) No 1169/2011 to be marked or labelled may be a single list of ingredients for all the products in the assortment.
 
 (3) The reserved descriptions “chocolate”, “milk chocolate” and “couverture chocolate” may be supplemented by information or descriptions relating to quality criteria provided that the product contains —
 
@@ -120,11 +120,11 @@ No person shall sell any food with a label, whether or not attached to or printe
 
 ## 7. Manner of marking or labelling
 
-(1)[^key-86bd3002a09f4bbd1a8201737d90bb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-86bd3002a09f4bbd1a8201737d90bb11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The information with which a designated chocolate product is required to be marked or labelled by paragraph (1)(b) of regulation 6 shall be—
 
-- (a) in the same field of vision as the list of ingredients with which the product is required by Article 18 of[^key-cb202b8eccdf3af4213191f05e21ac40] [Regulation (EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) to be marked or labelled;
+- (a) in the same field of vision as the list of ingredients with which the product is required by Article 18 of[^c-cb202b8eccdf3af4213191f05e21ac40] [Regulation (EU) No 1169/2011](https://www.legislation.gov.uk/eur/2011/1169) to be marked or labelled;
 - (b) clearly separated from that list;
 - (c) in bold lettering no less large than that of the list; and
 - (d) located near the reserved description, which may also appear elsewhere on the marking or labelling.
@@ -135,7 +135,7 @@ No person shall sell any food with a label, whether or not attached to or printe
 
 (2) Each food authority shall enforce and execute these Regulations in its area.
 
-## 9. Defence in relation to exports[^key-de3ac9d2ada752dd0d696da81d11a628]
+## 9. Defence in relation to exports[^c-de3ac9d2ada752dd0d696da81d11a628]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,7 +158,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 
 ## 11. Amendments and revocations
 
-(1)[^key-5eed48afab5788244a501772de785852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5eed48afab5788244a501772de785852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following entries relating to the Cocoa and Chocolate Products Regulations 1976 [^c5055051] shall (in so far as the following Regulations apply to England), be omitted—
 
@@ -168,7 +168,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (d) in the Food Safety (Exports) Regulations 1991 [^c5055091] in Schedule 1, Part I;
 - (e) in the Food (Forces Exemptions) (Revocations) Regulations 1992 [^c5055101], in Schedule 1, Part I;
 - (f) in the Miscellaneous Food Additives Regulations 1995 [^c5055111], in Schedule 9;
-- (g)[^key-77d4db0f9341c16751b8233f70139f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-77d4db0f9341c16751b8233f70139f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) in the Miscellaneous Food Additives (Amendment) Regulations 1999 [^c5055121], in regulation 14(1);
 - (i) in the Miscellaneous Food Additives (Amendment) (England) (No. 2) Regulations 2001 [^c5055131], in regulation 9(2).
 
@@ -247,7 +247,7 @@ Provided that this paragraph does not authorise the addition—
 
 (3) The chocolate contents of the designated chocolate products specified in column 2 of items 7 and 10 of this Schedule shall be calculated in relation to the total weight of the finished product, including its filling.
 
-**3.** In this Schedule, “**sugars**” includes sugars defined in Part A of the Annex to[^key-bb33d244ee5d50d2862ccbd883bc1037] Council Directive [2001/111/EC](https://www.legislation.gov.uk/eudr/2001/111) [^c5055191] and other sugars.
+**3.** In this Schedule, “**sugars**” includes sugars defined in Part A of the Annex to[^c-bb33d244ee5d50d2862ccbd883bc1037] Council Directive [2001/111/EC](https://www.legislation.gov.uk/eudr/2001/111) [^c5055191] and other sugars.
 
 ## SCHEDULE 2 — AUTHORISED VEGETABLE FATS
 
@@ -303,27 +303,27 @@ A Regulatory Impact Assessment has been prepared and placed in the Library of ea
 
 [^c5055001]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
 
-[^key-10702ddc168d26bb26595e6c86b43731]: Textual amendment: Words in reg. 2(1) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/575/regulation/18)
+[^c-10702ddc168d26bb26595e6c86b43731]: Textual amendment: Words in reg. 2(1) omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2018/575/regulation/18)
 
-[^key-d9c0b29ffd5e0072d0393ae0aed2080e]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 32(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/32/a)
+[^c-d9c0b29ffd5e0072d0393ae0aed2080e]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 32(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/32/a)
 
-[^key-e8cb8c07d8893044fe4ed6477ca4612d]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 32(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/32/b)
+[^c-e8cb8c07d8893044fe4ed6477ca4612d]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 32(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/32/b)
 
-[^key-42c0e16da7ccb15d9bcc538a1e65fc64]: Textual amendment: Words in reg. 2(1) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/25/2)
+[^c-42c0e16da7ccb15d9bcc538a1e65fc64]: Textual amendment: Words in reg. 2(1) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/25/2)
 
-[^key-68c274e1d06417c1c6235ae1e0d1b490]: Textual amendment: Reg. 5(b)-(d) substituted for reg. 5(b)(c) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/33)
+[^c-68c274e1d06417c1c6235ae1e0d1b490]: Textual amendment: Reg. 5(b)-(d) substituted for reg. 5(b)(c) (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/33)
 
-[^key-34a36ef7666ed9c2d12c1a2d025881a0]: Textual amendment: Words in reg. 6(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 34(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/34/a)
+[^c-34a36ef7666ed9c2d12c1a2d025881a0]: Textual amendment: Words in reg. 6(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 34(a)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/34/a)
 
-[^key-9245e20c4557c94887ae460c39da2cf2]: Textual amendment: Words in reg. 6(2)(b) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 34(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/34/b)
+[^c-9245e20c4557c94887ae460c39da2cf2]: Textual amendment: Words in reg. 6(2)(b) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 34(b)](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/34/b)
 
-[^key-86bd3002a09f4bbd1a8201737d90bb11]: Textual amendment: Reg. 7(1) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 13
+[^c-86bd3002a09f4bbd1a8201737d90bb11]: Textual amendment: Reg. 7(1) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 13
 
-[^key-cb202b8eccdf3af4213191f05e21ac40]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2003/1659/regulation/7/2/a) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/25/3)
+[^c-cb202b8eccdf3af4213191f05e21ac40]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2003/1659/regulation/7/2/a) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/25/3)
 
-[^key-de3ac9d2ada752dd0d696da81d11a628]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/1659/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
+[^c-de3ac9d2ada752dd0d696da81d11a628]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/1659/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
 
-[^key-5eed48afab5788244a501772de785852]: Textual amendment: Reg. 11(1) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 13
+[^c-5eed48afab5788244a501772de785852]: Textual amendment: Reg. 11(1) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 13
 
 [^c5055051]: Marginal citation: [S.I. 1976/541](https://www.legislation.gov.uk/uksi/1976/541); relevant amending instruments S.I 1982/17, 1982/1727, 1985/67, 1990/2486, 1991/1476, 1992/2596, 1995/3187, 1996/1499.
 
@@ -339,7 +339,7 @@ A Regulatory Impact Assessment has been prepared and placed in the Library of ea
 
 [^c5055111]: Marginal citation: [S.I. 1995/3187](https://www.legislation.gov.uk/uksi/1995/3187); relevant amending instruments are [S.I. 1997/1413](https://www.legislation.gov.uk/uksi/1997/1413), 1999/1136, 2000/3323, 2001/60 and 2001/3775.
 
-[^key-77d4db0f9341c16751b8233f70139f36]: Textual amendment: Reg. 11(2)(g) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 13
+[^c-77d4db0f9341c16751b8233f70139f36]: Textual amendment: Reg. 11(2)(g) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)-(8)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 13
 
 [^c5055121]: Marginal citation: [S.I. 1999/1136](https://www.legislation.gov.uk/uksi/1999/1136).
 
@@ -355,7 +355,7 @@ A Regulatory Impact Assessment has been prepared and placed in the Library of ea
 
 [^c5055181]: Marginal citation: [S.I. 1995/3187](https://www.legislation.gov.uk/uksi/1995/3187); the relevant amending instrument is [S.I. 1999/1136](https://www.legislation.gov.uk/uksi/1999/1136).
 
-[^key-bb33d244ee5d50d2862ccbd883bc1037]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1659/schedule/1) Note 3 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [25(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/25/4)
+[^c-bb33d244ee5d50d2862ccbd883bc1037]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1659/schedule/1) Note 3 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [25(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/25/4)
 
 [^c5055191]: Marginal citation: OJ L10, 12.1.2002, p.53.
 

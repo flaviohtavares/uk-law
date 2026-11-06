@@ -30,7 +30,7 @@ summary: ''
 (2) Any body which conducts business activities relating to the provision of both rail freight transport services and passenger transport services must—
 
 - (a) prepare and publish separate profit and loss accounts and balance sheets in respect of each of these business activities;
-- (b) account separately for public funds granted for activities relating to the provision of transport services as public service remits [^key-6a290519aaae9aeaa37eed30483dfe75]...; and
+- (b) account separately for public funds granted for activities relating to the provision of transport services as public service remits [^c-6a290519aaae9aeaa37eed30483dfe75]...; and
 - (c) ensure that public funds granted as described in sub-paragraph (b) are not transferred to activities relating to the provision of other transport services, or any other business.
 
 (3) Accounts for the areas of activity described in paragraphs (1) and (2) must be kept in such a way as to allow for monitoring of—
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a290519aaae9aeaa37eed30483dfe75]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/9/2/b) omitted (25.12.2023) by virtue of [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/7/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
+[^c-6a290519aaae9aeaa37eed30483dfe75]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/9/2/b) omitted (25.12.2023) by virtue of [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/7/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))

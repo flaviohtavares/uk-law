@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Duty to respond to consultation[^key-2c5a5e06ccb3675e5b720c2e9b1fcc51][^key-45de9671901ec851d1950dbb18d45be4][^key-963914d714bef559dcd6d69d5502f548]
+## 54. Duty to respond to consultation[^c-2c5a5e06ccb3675e5b720c2e9b1fcc51][^c-45de9671901ec851d1950dbb18d45be4][^c-963914d714bef559dcd6d69d5502f548]
 
 *Extent: E+W*
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2c5a5e06ccb3675e5b720c2e9b1fcc51]: Commencement: S. 54 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-2c5a5e06ccb3675e5b720c2e9b1fcc51]: Commencement: S. 54 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-45de9671901ec851d1950dbb18d45be4]: Commencement: S. 54 in force at 24.8.2005 for E. so far as not already in force by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/d/i) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/3))
+[^c-45de9671901ec851d1950dbb18d45be4]: Commencement: S. 54 in force at 24.8.2005 for E. so far as not already in force by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/d/i) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/3))
 
-[^key-963914d714bef559dcd6d69d5502f548]: Commencement: S. 54 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/340/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/340/article/4))
+[^c-963914d714bef559dcd6d69d5502f548]: Commencement: S. 54 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/340/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/340/article/4))

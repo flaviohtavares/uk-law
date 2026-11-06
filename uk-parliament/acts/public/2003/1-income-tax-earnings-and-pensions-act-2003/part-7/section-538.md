@@ -36,7 +36,7 @@ summary: ''
   - (iii) directors or employees of such an associated company;
 - (b) that immediately before the conversion the relevant company is employee-controlled as a result of holdings of shares of the original class.
 
-(4)[^key-fb3427c1f9d34d3edadc6822fd96d158] “**associated company**” has the meaning given by section 449 of CTA 2010[^key-1ab8a28a5fc9085398d44986f35a0232],
+(4)[^c-fb3427c1f9d34d3edadc6822fd96d158] “**associated company**” has the meaning given by section 449 of CTA 2010[^c-1ab8a28a5fc9085398d44986f35a0232],
 
 “**director**” has the same meaning as in the benefits code (see section 67) but also includes a person who is to be or has been a director,
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb3427c1f9d34d3edadc6822fd96d158]: Textual amendment: S. 538(4) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/39/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-fb3427c1f9d34d3edadc6822fd96d158]: Textual amendment: S. 538(4) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/39/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-1ab8a28a5fc9085398d44986f35a0232]: Textual amendment: Words in s. 538(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 392](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/392) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1ab8a28a5fc9085398d44986f35a0232]: Textual amendment: Words in s. 538(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 392](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/392) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

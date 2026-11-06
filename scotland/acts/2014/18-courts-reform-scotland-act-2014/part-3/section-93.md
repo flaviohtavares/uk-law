@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Remit of cases from the Court of Session[^key-9c2fa46f9d03a807e770dfeda75186cf]
+## 93. Remit of cases from the Court of Session[^c-9c2fa46f9d03a807e770dfeda75186cf]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2fa46f9d03a807e770dfeda75186cf]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2014/18/section/93) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(4)](https://www.legislation.gov.uk/ssi/2015/247/article/3/4))
+[^c-9c2fa46f9d03a807e770dfeda75186cf]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2014/18/section/93) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(4)](https://www.legislation.gov.uk/ssi/2015/247/article/3/4))

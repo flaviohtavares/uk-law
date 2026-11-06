@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Application for costs[^key-41dd3f12fa213a1d69ee78f73383db17]
+## 120. Application for costs[^c-41dd3f12fa213a1d69ee78f73383db17]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41dd3f12fa213a1d69ee78f73383db17]: Commencement: Rule 120 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-41dd3f12fa213a1d69ee78f73383db17]: Commencement: Rule 120 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**101.**[^key-fab5ac0d2ed5401cd187d80cfcb5d048] In rule 40(a), for “family proceedings court” substitute “family court”.
+**101.**[^c-fab5ac0d2ed5401cd187d80cfcb5d048] In rule 40(a), for “family proceedings court” substitute “family court”.
 
 ## Annotations
 
-[^key-fab5ac0d2ed5401cd187d80cfcb5d048]: Commencement: Art. 101 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-fab5ac0d2ed5401cd187d80cfcb5d048]: Commencement: Art. 101 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

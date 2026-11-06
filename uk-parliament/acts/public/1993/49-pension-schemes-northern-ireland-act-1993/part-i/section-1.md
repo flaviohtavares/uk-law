@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-e1e2332111ec38775ef148edb4f09048] In this Act—
+(1)[^c-e1e2332111ec38775ef148edb4f09048] In this Act—
 
 “occupational pension scheme” means a pension scheme—[^M_F_7aa5b8d6-e01b-4277-f149-79d1b800ed41]
 
@@ -28,15 +28,15 @@ summary: ''
   - (i) for the purpose of providing benefits to, or in respect of, people with service in employments of a description, or
   - (ii) for that purpose and also for the purpose of providing benefits to, or in respect of, other people,
 
-  is established by, or by persons who include, a person to whom subsection (2) applies when the scheme is established or (as the case may be) to whom that subsection would have applied when the scheme was established had that subsection then been in force, [^key-e29503fbd6b9ba3e4b83a40edff56765]...
-- (b)[^key-e29503fbd6b9ba3e4b83a40edff56765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+  is established by, or by persons who include, a person to whom subsection (2) applies when the scheme is established or (as the case may be) to whom that subsection would have applied when the scheme was established had that subsection then been in force, [^c-e29503fbd6b9ba3e4b83a40edff56765]...
+- (b)[^c-e29503fbd6b9ba3e4b83a40edff56765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 
 a pension scheme that is prescribed or is of a prescribed description;
 
 “personal pension scheme” means a pension scheme that—
 
 - (a) is not an occupational pension scheme, and
-- (b) is established by a person within [^key-e00b8e9b56b6ce567fa0c5853d087106]... section 154(1) of the Finance Act 2004;
+- (b) is established by a person within [^c-e00b8e9b56b6ce567fa0c5853d087106]... section 154(1) of the Finance Act 2004;
 
 “**public service pension scheme**” means an occupational pension scheme established by or under an enactment or the Royal prerogative or a Royal charter, being a scheme—
 
@@ -65,12 +65,12 @@ and includes any occupational pension scheme established, with the concurrence o
 
 ## Annotations
 
-[^key-e1e2332111ec38775ef148edb4f09048]: Textual amendment: S. 1 renumbered as s. 1(1) (1.7.2005 for specified purposes, 22.9.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [216(2)](https://www.legislation.gov.uk/nisi/2005/255/article/216/2) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2005/321](https://www.legislation.gov.uk/nisr/2005/321), [art. 2(7)(a)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/a)[(b)(i)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/ii)
+[^c-e1e2332111ec38775ef148edb4f09048]: Textual amendment: S. 1 renumbered as s. 1(1) (1.7.2005 for specified purposes, 22.9.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [216(2)](https://www.legislation.gov.uk/nisi/2005/255/article/216/2) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2005/321](https://www.legislation.gov.uk/nisr/2005/321), [art. 2(7)(a)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/a)[(b)(i)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/ii)
 
 [^M_F_7aa5b8d6-e01b-4277-f149-79d1b800ed41]: Textual amendment: Words in s. 1(1) substituted (1.7.2005 for specified purposes, 22.9.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [216(3)](https://www.legislation.gov.uk/nisi/2005/255/article/216/3) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2005/321](https://www.legislation.gov.uk/nisr/2005/321), [art. 2(7)(a)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/a)[(b)(i)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/ii)
 
-[^key-e29503fbd6b9ba3e4b83a40edff56765]: Textual amendment: Words in s. 1(1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e29503fbd6b9ba3e4b83a40edff56765]: Textual amendment: Words in s. 1(1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e00b8e9b56b6ce567fa0c5853d087106]: Textual amendment: Words in s. 1(1) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/23/2), [24(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/1), [Sch. 27 Pt. 3(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/3/2)
+[^c-e00b8e9b56b6ce567fa0c5853d087106]: Textual amendment: Words in s. 1(1) repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/23/2), [24(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/1), [Sch. 27 Pt. 3(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/3/2)
 
 [^M_F_3f80760a-1658-4240-e2a9-90001b3a09ae]: Textual amendment: S. 1(2)-(5) inserted (1.7.2005 for specified purposes, 22.9.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [216(4)](https://www.legislation.gov.uk/nisi/2005/255/article/216/4) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2005/321](https://www.legislation.gov.uk/nisr/2005/321), [art. 2(7)(a)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/a)[(b)(i)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/321/article/2/7/b/ii)

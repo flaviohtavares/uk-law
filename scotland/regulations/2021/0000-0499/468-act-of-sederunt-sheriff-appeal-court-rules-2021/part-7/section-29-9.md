@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.9. Appendices to print: contents[^key-642dd94ddc3c13fcdcb9a325ed5a505e]
+## 29.9. Appendices to print: contents[^c-642dd94ddc3c13fcdcb9a325ed5a505e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-642dd94ddc3c13fcdcb9a325ed5a505e]: Commencement: Para. 29.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-642dd94ddc3c13fcdcb9a325ed5a505e]: Commencement: Para. 29.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

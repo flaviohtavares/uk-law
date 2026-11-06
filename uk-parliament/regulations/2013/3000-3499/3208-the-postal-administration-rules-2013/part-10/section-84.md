@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Grounds for resignation[^key-351526ac7f7125da0f69a4643d78a96d]
+## 84. Grounds for resignation[^c-351526ac7f7125da0f69a4643d78a96d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-351526ac7f7125da0f69a4643d78a96d]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2013/3208/rule/84) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-351526ac7f7125da0f69a4643d78a96d]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2013/3208/rule/84) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

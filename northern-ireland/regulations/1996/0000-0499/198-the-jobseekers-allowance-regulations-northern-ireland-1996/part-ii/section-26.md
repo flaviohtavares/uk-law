@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Time at which entitlement is to cease[^key-6a4da057a476eb1553df4397140b39a3]
+## 26. Time at which entitlement is to cease[^c-6a4da057a476eb1553df4397140b39a3]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ provided that it shall not cease earlier than the day after he last attended in 
 
 ## Annotations
 
-[^key-6a4da057a476eb1553df4397140b39a3]: Commencement: Reg. 26 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-6a4da057a476eb1553df4397140b39a3]: Commencement: Reg. 26 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

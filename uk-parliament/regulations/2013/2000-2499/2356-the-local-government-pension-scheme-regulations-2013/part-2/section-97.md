@@ -31,13 +31,13 @@ summary: ''
 
 (4) Contracted-out rights, in relation to a member, are—
 
-- (a) the member's, and any surviving spouse's or civil partner’s[^key-dc28ba561776b49c758e724c1813f90a] rights to guaranteed minimum pensions; and
+- (a) the member's, and any surviving spouse's or civil partner’s[^c-dc28ba561776b49c758e724c1813f90a] rights to guaranteed minimum pensions; and
 - (b) the member's section 9(2B) rights as defined in regulation 1(2) of the Occupational Pension Schemes (Contracting-out) Regulations 1996 [^c21900551].
 
 ## Annotations
 
 [^c21900541]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-dc28ba561776b49c758e724c1813f90a]: Textual amendment: Words in [reg. 97(4)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/97/4/a) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [31](https://www.legislation.gov.uk/uksi/2026/226/regulation/31)
+[^c-dc28ba561776b49c758e724c1813f90a]: Textual amendment: Words in [reg. 97(4)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/97/4/a) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [31](https://www.legislation.gov.uk/uksi/2026/226/regulation/31)
 
 [^c21900551]: Marginal citation: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172); the definition of section 9(2B) rights in regulation 1(2) was amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786), 1999/3198 and 2011/1246.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122.[^key-75a17affecea71a2910ef04f379af1b9]
+## 122.[^c-75a17affecea71a2910ef04f379af1b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75a17affecea71a2910ef04f379af1b9]: Commencement: Reg. 122 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-75a17affecea71a2910ef04f379af1b9]: Commencement: Reg. 122 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395871]: Marginal citation: [S.I. 1992/3132](https://www.legislation.gov.uk/uksi/1992/3132). Revoked by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). The provision revoking [S.I. 1992/3132](https://www.legislation.gov.uk/uksi/1992/3132) has not been commenced and is now omitted by this instrument.

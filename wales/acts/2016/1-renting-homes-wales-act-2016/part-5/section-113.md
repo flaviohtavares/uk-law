@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Lodgers[^key-57111757705cac2a3e845ce7a8dc9045]
+## 113. Lodgers[^c-57111757705cac2a3e845ce7a8dc9045]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57111757705cac2a3e845ce7a8dc9045]: Commencement: [S. 113](https://www.legislation.gov.uk/anaw/2016/1/section/113) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-57111757705cac2a3e845ce7a8dc9045]: Commencement: [S. 113](https://www.legislation.gov.uk/anaw/2016/1/section/113) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

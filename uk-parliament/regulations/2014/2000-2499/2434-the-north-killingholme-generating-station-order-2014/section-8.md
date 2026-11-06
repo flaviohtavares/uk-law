@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Defence to proceedings in respect of statutory nuisance[^key-61db5a38e8deaf54fbbf5daeb678238e]
+## 8. Defence to proceedings in respect of statutory nuisance[^c-61db5a38e8deaf54fbbf5daeb678238e]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-61db5a38e8deaf54fbbf5daeb678238e]: Commencement: Art. 8 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-61db5a38e8deaf54fbbf5daeb678238e]: Commencement: Art. 8 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
 [^f00010]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Repeals[^key-bbefa319c444a5c0697fe4fff7a40408][^key-91022a99a2cb51f2684e9c5fe1ab2d09]
+## SCHEDULE 4 — Repeals[^c-bbefa319c444a5c0697fe4fff7a40408][^c-91022a99a2cb51f2684e9c5fe1ab2d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ Section 47
 
 ## Annotations
 
-[^key-bbefa319c444a5c0697fe4fff7a40408]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4) in force at 1.10.2004 for specified purposes by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-bbefa319c444a5c0697fe4fff7a40408]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4) in force at 1.10.2004 for specified purposes by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
 
-[^key-91022a99a2cb51f2684e9c5fe1ab2d09]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4) in force at 14.6.2007 by [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3))
+[^c-91022a99a2cb51f2684e9c5fe1ab2d09]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4) in force at 14.6.2007 by [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3))

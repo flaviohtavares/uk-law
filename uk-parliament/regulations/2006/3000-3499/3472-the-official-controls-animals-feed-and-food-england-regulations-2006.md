@@ -34,7 +34,7 @@ agriculture, England
 
 food, England
 
-The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (revoked)[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+The Official Controls (Animals, Feed and Food) (England) Regulations 2006 (revoked)[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 Made
 
@@ -48,105 +48,105 @@ Coming into force
 
 16th February 2007
 
-[^key-ce71c9549fd5f2251b3fc7e3aed8502d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce71c9549fd5f2251b3fc7e3aed8502d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part 1 — General[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+## Part 1 — General[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
-### 1. Title, application and commencement[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 1. Title, application and commencement[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2 — Designation of competent authorities and the exchange of information amongst them[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
-
-### 3. Purposes of designations[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 2. Interpretation[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Designation of the Secretary of State as competent authority[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+## Part 2 — Designation of competent authorities and the exchange of information amongst them[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
+
+### 3. Purposes of designations[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Designation of local authorities, etc, as competent authorities[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 4. Designation of the Secretary of State as competent authority[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Exchange of information[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 5. Designation of local authorities, etc, as competent authorities[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 3 — Audits and ... controls[^key-ce71c9549fd5f2251b3fc7e3aed8502d][^key-d57589f5935af36b65913656347f9a5f]
-
-### 7. Powers of auditors and exception for Food Standards Agency auditors[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 6. Exchange of information[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Powers of the Secretary of State in relation to audits of local authorities, etc[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+## Part 3 — Audits and ... controls[^c-ce71c9549fd5f2251b3fc7e3aed8502d][^c-d57589f5935af36b65913656347f9a5f]
+
+### 7. Powers of auditors and exception for Food Standards Agency auditors[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Powers of the Food Standards Agency undertaking audits on behalf of the Secretary of State[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 8. Powers of the Secretary of State in relation to audits of local authorities, etc[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Experts involved in controls[^key-ce71c9549fd5f2251b3fc7e3aed8502d][^key-1f79db5d14bda03bd66290b804bba294]
+### 9. Powers of the Food Standards Agency undertaking audits on behalf of the Secretary of State[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 4 — Assistance and co-operation under Title IV and recovery of expenses[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
-
-### 11. Duties of local authorities, etc, under Title IV[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 10. Experts involved in controls[^c-ce71c9549fd5f2251b3fc7e3aed8502d][^c-1f79db5d14bda03bd66290b804bba294]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Facilitating assistance and co-operation under Title IV[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+## Part 4 — Assistance and co-operation under Title IV and recovery of expenses[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
+
+### 11. Duties of local authorities, etc, under Title IV[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Recovery of expenses[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 12. Facilitating assistance and co-operation under Title IV[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 5 — Enforcement and penalties[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
-
-### 14. Interpretation of Part 5, etc[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 13. Recovery of expenses[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Enforcement[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+## Part 5 — Enforcement and penalties[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
+
+### 14. Interpretation of Part 5, etc[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Powers of enforcement officers[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 15. Enforcement[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Offences and penalties[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 16. Powers of enforcement officers[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Offences by bodies corporate[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 17. Offences and penalties[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Time limits for prosecution[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 18. Offences by bodies corporate[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendment to the 2006 Regulations[^key-ce71c9549fd5f2251b3fc7e3aed8502d]
+### 19. Time limits for prosecution[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce71c9549fd5f2251b3fc7e3aed8502d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 20. Amendment to the 2006 Regulations[^c-ce71c9549fd5f2251b3fc7e3aed8502d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ce71c9549fd5f2251b3fc7e3aed8502d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-ce71c9549fd5f2251b3fc7e3aed8502d]EXPLANATORY NOTE
+[^c-ce71c9549fd5f2251b3fc7e3aed8502d]EXPLANATORY NOTE
 
 (This Note does not form part of the Regulations)
 
@@ -154,10 +154,10 @@ These Regulations apply and enforce Regulation [(EC) No. 882/2004](https://www.l
 
 These Regulations provide for the designation of the Secretary of State and local authorities (including food authorities) as competent authorities for the purposes of Article 4.1 of Regulation 882/2004 (regulations 3 to 5). The designations relate to:
 
-- (a)[^key-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ce71c9549fd5f2251b3fc7e3aed8502d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 They also relate to transmissible spongiform Encephalopathies (“TSEs”) in relation to testing (including sampling) controls on bovine, ovine and caprine animals slaughtered for human consumption.
 
@@ -179,8 +179,8 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 ## Annotations
 
-[^key-ce71c9549fd5f2251b3fc7e3aed8502d]: Textual amendment: Regulations revoked (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/40), [40](https://www.legislation.gov.uk/uksi/2019/1488/regulation/40)
+[^c-ce71c9549fd5f2251b3fc7e3aed8502d]: Textual amendment: Regulations revoked (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/40), [40](https://www.legislation.gov.uk/uksi/2019/1488/regulation/40)
 
-[^key-d57589f5935af36b65913656347f9a5f]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/2006/3472/part/3) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1241)](https://www.legislation.gov.uk/uksi/2018/1241), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1241/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1241/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d57589f5935af36b65913656347f9a5f]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/2006/3472/part/3) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1241)](https://www.legislation.gov.uk/uksi/2018/1241), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1241/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1241/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f79db5d14bda03bd66290b804bba294]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/3472/regulation/10) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1241)](https://www.legislation.gov.uk/uksi/2018/1241), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1241/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1241/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f79db5d14bda03bd66290b804bba294]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/3472/regulation/10) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food) (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1241)](https://www.legislation.gov.uk/uksi/2018/1241), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1241/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1241/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

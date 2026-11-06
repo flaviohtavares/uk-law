@@ -42,7 +42,7 @@ summary: ''
 
 .
 
-(4) In section 17 (contributions, and payments out of property recovered), after subsection (2D)[^key-84e55a24c552f8413db213702e3b9bbc] insert—
+(4) In section 17 (contributions, and payments out of property recovered), after subsection (2D)[^c-84e55a24c552f8413db213702e3b9bbc] insert—
 
 > (2C) If the total contribution to the Fund made by a person in respect of any proceedings exceeds the net liability of the Fund on the person's account, the excess shall be repaid to the person.
 >
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84e55a24c552f8413db213702e3b9bbc]: Textual amendment: Word in s. 75(4) substituted (23.3.2011) by [The Legal Profession and Legal Aid (Scotland) Act 2007 (Modification and Consequential Provisions) Order 2011 (S.S.I. 2011/235)](https://www.legislation.gov.uk/ssi/2011/235), [arts. 2(1)](https://www.legislation.gov.uk/ssi/2011/235/article/2/1), [7](https://www.legislation.gov.uk/ssi/2011/235/article/7)
+[^c-84e55a24c552f8413db213702e3b9bbc]: Textual amendment: Word in s. 75(4) substituted (23.3.2011) by [The Legal Profession and Legal Aid (Scotland) Act 2007 (Modification and Consequential Provisions) Order 2011 (S.S.I. 2011/235)](https://www.legislation.gov.uk/ssi/2011/235), [arts. 2(1)](https://www.legislation.gov.uk/ssi/2011/235/article/2/1), [7](https://www.legislation.gov.uk/ssi/2011/235/article/7)

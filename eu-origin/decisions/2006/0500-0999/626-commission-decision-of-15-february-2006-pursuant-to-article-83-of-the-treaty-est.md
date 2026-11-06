@@ -27,7 +27,7 @@ summary: ''
 
 **No longer in force.**
 
-[^key-f647d500009340f11a00687f78bf1b50]Commission Decision
+[^c-f647d500009340f11a00687f78bf1b50]Commission Decision
 
 of 15 February 2006
 
@@ -45,16 +45,16 @@ The Decision is limited to issues of the adequacy of the accounting and reportin
 
 **No longer in force.**
 
-**Article 1 (extract).**[^key-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1 (extract).**[^c-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-f647d500009340f11a00687f78bf1b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f647d500009340f11a00687f78bf1b50]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-f647d500009340f11a00687f78bf1b50]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

@@ -24,9 +24,9 @@ Section 30(10)
 
 ### Interim measures following references under section 22 or 33
 
-**1.**[^key-91f6345e908d51ba308b6a427a0ce83d] Part 3 of the 2002 Act (mergers) is amended as follows.
+**1.**[^c-91f6345e908d51ba308b6a427a0ce83d] Part 3 of the 2002 Act (mergers) is amended as follows.
 
-**2.**[^key-79044fbbf50e9eddd9a8e04a21b0f490] (1) Section 80 (interim undertakings) is amended as follows.
+**2.**[^c-79044fbbf50e9eddd9a8e04a21b0f490] (1) Section 80 (interim undertakings) is amended as follows.
 
 (2) In subsection (1), for “Subsections (2) and (3)” substitute “ Subsections (2) and (2A) ”.
 
@@ -44,7 +44,7 @@ Section 30(10)
 
 (7) Omit subsection (6).
 
-**3.**[^key-0e42265d3dab212a7aff680848b3aaf0] (1) Section 81 (interim orders) is amended as follows.
+**3.**[^c-0e42265d3dab212a7aff680848b3aaf0] (1) Section 81 (interim orders) is amended as follows.
 
 (2) In subsection (1) for “Subsections (2) and (3)” substitute “ Subsections (2) and (2A) ”.
 
@@ -67,7 +67,7 @@ Section 30(10)
 
 ### Interim measures: public interest and special interest cases
 
-**4.**[^key-d2298b105b998ccf3177c40861795889] (1) Schedule 7 (enforcement regime for public interest and special public interest cases) is amended as follows.
+**4.**[^c-d2298b105b998ccf3177c40861795889] (1) Schedule 7 (enforcement regime for public interest and special public interest cases) is amended as follows.
 
 (2) Omit paragraph 1 (interim undertakings).
 
@@ -108,7 +108,7 @@ Section 30(10)
 
 ### Interim measures: duration of interim orders under section 72
 
-**5.**[^key-fed3d1dba09a0fcb43b7b863d2f13186] (1) Section 72 (initial enforcement orders: completed mergers) is amended as follows.
+**5.**[^c-fed3d1dba09a0fcb43b7b863d2f13186] (1) Section 72 (initial enforcement orders: completed mergers) is amended as follows.
 
 (2) Omit subsection (5).
 
@@ -126,12 +126,12 @@ Section 30(10)
 
 ## Annotations
 
-[^key-91f6345e908d51ba308b6a427a0ce83d]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-91f6345e908d51ba308b6a427a0ce83d]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-79044fbbf50e9eddd9a8e04a21b0f490]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-79044fbbf50e9eddd9a8e04a21b0f490]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-0e42265d3dab212a7aff680848b3aaf0]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-0e42265d3dab212a7aff680848b3aaf0]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-d2298b105b998ccf3177c40861795889]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/4) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d2298b105b998ccf3177c40861795889]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/4) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-fed3d1dba09a0fcb43b7b863d2f13186]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-fed3d1dba09a0fcb43b7b863d2f13186]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/7/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

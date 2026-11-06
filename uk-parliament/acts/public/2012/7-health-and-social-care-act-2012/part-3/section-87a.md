@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87A. Application and grant: NHS trusts[^key-afed82ca7a0a2a837e13d2a2732946fe]
+## 87A. Application and grant: NHS trusts[^c-afed82ca7a0a2a837e13d2a2732946fe]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afed82ca7a0a2a837e13d2a2732946fe]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2012/7/section/87A) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/51/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/c)
+[^c-afed82ca7a0a2a837e13d2a2732946fe]: Textual amendment: [S. 87A](https://www.legislation.gov.uk/ukpga/2012/7/section/87A) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/51/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/c)

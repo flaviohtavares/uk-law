@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Section 391A (publication: special requirements relating to capital requirements directive)[^key-b8bcd81537c71a1ff28e1ed7c27276d3]
+## 75. Section 391A (publication: special requirements relating to capital requirements directive)[^c-b8bcd81537c71a1ff28e1ed7c27276d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b8bcd81537c71a1ff28e1ed7c27276d3]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b8bcd81537c71a1ff28e1ed7c27276d3]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658231]: Marginal citation: Section 391A was inserted by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and amended by [S.I. 2015/1755](https://www.legislation.gov.uk/uksi/2015/1755).
 

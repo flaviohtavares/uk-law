@@ -54,8 +54,8 @@ In these Regulations—
 
 - “**Act**” means the Copyright, Designs and Patents Act 1988;
 - “**authorisation**” means an authorisation granted by the Secretary of State to a relevant licensing body under regulation 4 or 9;
-- [^key-b6c294880436aaf80a9067ef259904f9]...
-- [^key-b6c294880436aaf80a9067ef259904f9]...
+- [^c-b6c294880436aaf80a9067ef259904f9]...
+- [^c-b6c294880436aaf80a9067ef259904f9]...
 - “**Comptroller**” means the Comptroller-General of Patents, Designs and Trade Marks;
 - “**distribution policy**” means the distribution policy adopted and published by the relevant licensing body;
 - “**Extended Collective Licensing Scheme**” means a collective licensing scheme under which a relevant licensing body may grant licences in accordance with an authorisation under regulation 4 in respect of relevant works—
@@ -71,7 +71,7 @@ In these Regulations—
   - (b) to which sections 182, 182A, 182B, 182C, 182CA, 183 or 184 of the Act apply,
 
   which the relevant licensing body is authorised to license;
-- “**relevant licensing body**” means any body that is a licensing body within the meaning of section 116(2)(a)[^key-85465b9db937ef81e0bb1280aa8aa200] of the Act and which—
+- “**relevant licensing body**” means any body that is a licensing body within the meaning of section 116(2)(a)[^c-85465b9db937ef81e0bb1280aa8aa200] of the Act and which—
   - (a) is authorised by way of assignment, licence or any other contractual arrangement to manage the rights of right holders in relevant works on behalf of more than one right holder, for the collective benefit of those right holders, as its sole or main purpose; and
   - (b) is either owned or controlled by its members or organised on a not for profit basis;
 - “**representation**” means the extent to which the relevant licensing body currently—
@@ -81,7 +81,7 @@ In these Regulations—
 - “**relevant work**” has the meaning set out in regulation 3;
 - “**restricted acts**” means the acts in relation to a performance to which sections 182, 182A, 182B, 182C, 182CA, 183 or 184 of the Act [^c22220981] apply;
 - “**right holder**” has the meaning set out in regulation 3;
-- [^key-b6c294880436aaf80a9067ef259904f9]...
+- [^c-b6c294880436aaf80a9067ef259904f9]...
 
 ## 3. Relevant work and right holder
 
@@ -108,7 +108,7 @@ In these Regulations—
 (3) A relevant licensing body authorised under paragraph (1) may license all rights within the scope of the Extended Collective Licensing Scheme provided that the relevant licensing body—
 
 - (a) grants scheme licences in accordance with the terms and conditions notified to the Secretary of State under regulation 5(1)(p);
-- (b) carries out its licensing activities in accordance with the Collective Management of Copyright ([^key-a97917191aa51262980bd02871593611]EU Directive) Regulations 2016;
+- (b) carries out its licensing activities in accordance with the Collective Management of Copyright ([^c-a97917191aa51262980bd02871593611]EU Directive) Regulations 2016;
 - (c) complies with the requirements of these Regulations; and
 - (d) complies with the conditions of its authorisation.
 
@@ -116,7 +116,7 @@ In these Regulations—
 
 - (a) at the time of the authorisation, the relevant licensing body licenses by way of collective licence relevant works of the type which are to be the subject of the proposed Extended Collective Licensing Scheme;
 - (b) the relevant licensing body's representation in the type of relevant works which are to be the subject of the proposed Extended Collective Licensing Scheme is significant;
-- (c)[^key-25b588bd305ca8120b8c4926e4855afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-25b588bd305ca8120b8c4926e4855afe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the opt out arrangements, including those for multiple works, are adequate to protect the interests of right holders;
 - (e) the arrangements for publicising the scheme, for contacting non–member right holders in order to distribute the net licence fees and for distributing any net licence fees which remain undistributed are appropriate for the proposed scheme, having regard to the interests of non-member right holders; and
 - (f) the relevant licensing body has obtained the required consent to the proposed Extended Collective Licensing Scheme.
@@ -132,7 +132,7 @@ In these Regulations—
 - (a) a summary of the application;
 - (b) the name of the applicant;
 - (c) evidence that the applicant is a relevant licensing body;
-- (d) an address for service on the applicant in the United Kingdom[^key-d43f798e966d148c8aa9168ba519f7d9];
+- (d) an address for service on the applicant in the United Kingdom[^c-d43f798e966d148c8aa9168ba519f7d9];
 - (e) the types of relevant work to which the Extended Collective Licensing Scheme will apply;
 - (f) the right holders' rights in relation to relevant works which the relevant licensing body seeks to be authorised to license;
 - (g) the opt out arrangements that the relevant licensing body will adopt including the steps which a non-member right holder is required to take to opt out of a proposed Extended Collective Licensing Scheme before the scheme commences and whether the consent of the Secretary of State is sought as described in regulation 16(5)(b);
@@ -145,9 +145,9 @@ In these Regulations—
 - (j) evidence that the relevant licensing body has obtained the required consent;
 - (k) the information that was provided by the relevant licensing body to the relevant members, when seeking the required consent;
 - (l) a copy of any collective licence, in force at the date of the application for authorisation, under which the relevant licensing body licenses relevant works of the type which will be the subject of the proposed Extended Collective Licensing Scheme;
-- (m)[^key-995cb6ba46e56a65696ccced28d0871b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-995cb6ba46e56a65696ccced28d0871b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (o) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the application, it is complying in all material respects with the Collective Management of Copyright ([^key-5cae794a808bf4a4ca8239128689bce5]EU Directive) Regulations 2016;
+- (m)[^c-995cb6ba46e56a65696ccced28d0871b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-995cb6ba46e56a65696ccced28d0871b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the application, it is complying in all material respects with the Collective Management of Copyright ([^c-5cae794a808bf4a4ca8239128689bce5]EU Directive) Regulations 2016;
 - (p) a copy of the terms and conditions of the licence which the relevant licensing body proposes to grant its licensees under the Extended Collective Licensing Scheme;
 - (q) a copy of the distribution policy which the relevant licensing body proposes to operate in relation to its licensing activities if the authorisation is granted;
 - (r) the arrangements for publicising the Extended Collective Licensing Scheme to non-member right holders and third parties before its introduction and during the life of the scheme; and
@@ -208,7 +208,7 @@ In these Regulations—
 (2) An application for a renewal of an authorisation under regulation 9 must contain—
 
 - (a) a summary of the application for renewal;
-- (b) confirmation that the information provided under regulation 5(b) to (h), (l), [^key-dfd7b6c7a1b5d55d6b4586bd4c6c5929]... (p), (q) and (s), remains as set out in the previous authorised application or details of any material changes;
+- (b) confirmation that the information provided under regulation 5(b) to (h), (l), [^c-dfd7b6c7a1b5d55d6b4586bd4c6c5929]... (p), (q) and (s), remains as set out in the previous authorised application or details of any material changes;
 - (c) information demonstrating—
   - (i) how the opt out arrangements have been operated during the previous period of authorisation;
   - (ii) the number of right holders who, at the date of the application for renewal, have notified the relevant licensing authority that they wish to opt out of the proposed Extended Collective Licensing Scheme compared with the number of right holders who were opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation; and
@@ -216,8 +216,8 @@ In these Regulations—
 - (d) evidence of the representation provided by the relevant licensing body at the time the application for renewal is made;
 - (e) evidence that the relevant licensing body has obtained the required consent;
 - (f) the information that was provided by the relevant licensing body to the relevant members, when seeking the required consent;
-- (g)[^key-19f6a04c5e39809a05c645aa65c5b827] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the application for renewal, it is complying in all material respects with the Collective Management of Copyright ([^key-3f1372e52fd561974aee6d6a313bd1f0]EU Directive) Regulations 2016;
+- (g)[^c-19f6a04c5e39809a05c645aa65c5b827] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the application for renewal, it is complying in all material respects with the Collective Management of Copyright ([^c-3f1372e52fd561974aee6d6a313bd1f0]EU Directive) Regulations 2016;
 - (i) a list of complaints from any non-member right holders whose works or rights have been licensed under the Extended Collective Licensing Scheme and the nature of the complaints and how they were resolved;
 - (j) details of the distributions which have been made to non-member right holders, any sums which have been distributed in accordance with regulation 19 and which remain undistributed;
 - (k) the arrangements for publicising the Extended Collective Licensing Scheme to non-member right holders and third parties during the life of the scheme together with information demonstrating how effective the publication of the Extended Collective Licensing Scheme has been; and
@@ -234,12 +234,12 @@ In these Regulations—
   - (ii) the number of right holders who, at the time of the review, have notified the relevant licensing authority that they wish to opt out of the Extended Collective Licensing Scheme compared with the number of right holders who were opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation; and
   - (iii) the number of opted out works at the time of the review compared with the number of works opted out of the Extended Collective Licensing Scheme at the date of the previous application for authorisation and, to the extent that the relevant licensing body has been notified by the relevant right holders, the number of works in which those right holders have rights;
 - (b) evidence of the representation provided by the relevant licensing body at the time the application for renewal is made;
-- (c)[^key-a9fe5eb8722e41f5048b706e7458764b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the review, it is complying in all material respects with the Collective Management of Copyright ([^key-d217e7ce3676c5942f73cf6049db244a]EU Directive) Regulations 2016;
+- (c)[^c-a9fe5eb8722e41f5048b706e7458764b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a declaration signed on behalf of the relevant licensing body confirming that, at the time of the review, it is complying in all material respects with the Collective Management of Copyright ([^c-d217e7ce3676c5942f73cf6049db244a]EU Directive) Regulations 2016;
 - (e) a list of complaints from any non-member right holders whose works or rights have been licensed under the Extended Collective Licensing Scheme and the nature of the complaints and how they were resolved;
 - (f) details of the distributions which have been made to non-member right holders, any sums which have been distributed in accordance with regulation 19 and which remain undistributed;
 - (g) the arrangements for publicising the Extended Collective Licensing Scheme to non-member right holders and third parties during the life of the scheme together with information demonstrating how effective the publication of the Extended Collective Licensing Scheme has been; and
-- (h) confirmation that the information provided under regulation 5(b) to (h), (l), [^key-01ee77a2b24e4e9fa752419b93b19b0c]... (p), (q) and (s), remains as set out in the previous authorised application or details of any material changes.
+- (h) confirmation that the information provided under regulation 5(b) to (h), (l), [^c-01ee77a2b24e4e9fa752419b93b19b0c]... (p), (q) and (s), remains as set out in the previous authorised application or details of any material changes.
 
 (2) The Secretary of State may, in addition, require the relevant licensing body to provide to the Secretary of State, within the time period specified by the Secretary of State—
 
@@ -288,7 +288,7 @@ In these Regulations—
 
 - (a) any other requirements of these Regulations;
 - (b) any conditions of its authorisation; or
-- (c) the Collective Management of Copyright ([^key-fd8a0e039d08ffe3eb4658354443c13f]EU Directive) Regulations 2016.
+- (c) the Collective Management of Copyright ([^c-fd8a0e039d08ffe3eb4658354443c13f]EU Directive) Regulations 2016.
 
 (3) The Secretary of State may require a relevant licensing body, whose authorisation is revoked, to pay to the Secretary of State a fee to reimburse the Secretary of State for any administrative expenses incurred in connection with administering the operation of this regulation; and a fee that falls to be paid under this paragraph is recoverable by the Secretary of State as a debt.
 
@@ -327,9 +327,9 @@ In these Regulations—
 
 (3) The opt out arrangements of each relevant licensing body shall—
 
-- (a) permit a non-member right holder to provide the relevant licensing body with an opt out notice which excludes or limits the grant of licences under an Extended Collective Licensing Scheme in relation to some or all of their relevant works; and[^key-f0bd44f194591ee14a604c4d95d4e240]
-- (b) permit a non-member right holder to provide the relevant licensing body with an opt out notice which excludes or limits the grant of licences under a proposed Extended Collective Licensing Scheme in relation to some or all of their relevant works and provide that the opt out shall take effect before the commencement of the Extended Collective Licensing Scheme; [^key-3e880e3bda3e9ee68bfe597f2ec60f16]...
-- (c)[^key-3e880e3bda3e9ee68bfe597f2ec60f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) permit a non-member right holder to provide the relevant licensing body with an opt out notice which excludes or limits the grant of licences under an Extended Collective Licensing Scheme in relation to some or all of their relevant works; and[^c-f0bd44f194591ee14a604c4d95d4e240]
+- (b) permit a non-member right holder to provide the relevant licensing body with an opt out notice which excludes or limits the grant of licences under a proposed Extended Collective Licensing Scheme in relation to some or all of their relevant works and provide that the opt out shall take effect before the commencement of the Extended Collective Licensing Scheme; [^c-3e880e3bda3e9ee68bfe597f2ec60f16]...
+- (c)[^c-3e880e3bda3e9ee68bfe597f2ec60f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 operated, in either case, by the relevant licensing body.
 
@@ -362,11 +362,11 @@ operated, in either case, by the relevant licensing body.
 
 (2) The grant of a licence in accordance with these Regulations or the doing of any act permitted by a licence, which is granted in accordance with these Regulations, does not constitute an infringement of a right holder right in a relevant work for the purposes of the Act.
 
-(3)[^key-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5ef0014aa1a7533355b2364f130562ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 18. Licence fee
 
@@ -383,7 +383,7 @@ operated, in either case, by the relevant licensing body.
 
 and request the relevant licensing body to adjust the net licence fee which is distributed under paragraph (3) to take account of that level of licence fee or of use.
 
-(5) A relevant licensing body shall publish information on the relevant works and other subject matter which have been licensed under the Extended Collective Licensing Scheme but for which one or more non-member[^key-ede744ae04488ff63b1e007596e2af7c] right holders have not been identified or located and shall update the information within twelve months from the end of the financial year in which the licence fee was collected.
+(5) A relevant licensing body shall publish information on the relevant works and other subject matter which have been licensed under the Extended Collective Licensing Scheme but for which one or more non-member[^c-ede744ae04488ff63b1e007596e2af7c] right holders have not been identified or located and shall update the information within twelve months from the end of the financial year in which the licence fee was collected.
 
 ## 19. Retention and application of undistributed licence fees
 
@@ -440,40 +440,40 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22220961]: Marginal citation: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48), [sections 116B to 116D](https://www.legislation.gov.uk/ukpga/1988/48/section/116B) were inserted by the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [s 77](https://www.legislation.gov.uk/ukpga/2013/24/section/77) and paragraphs 1B to 1D were inserted into Schedule 2A by section 77 and Part 2 of Schedule 22 to the Enterprise and Regulatory Reform Act. Schedule 2A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967).
 
-[^key-b6c294880436aaf80a9067ef259904f9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2588/regulation/2) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/2/a) (with [reg. 48](https://www.legislation.gov.uk/uksi/2016/221/regulation/48))
+[^c-b6c294880436aaf80a9067ef259904f9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2588/regulation/2) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/2/a) (with [reg. 48](https://www.legislation.gov.uk/uksi/2016/221/regulation/48))
 
-[^key-85465b9db937ef81e0bb1280aa8aa200]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2588/regulation/2) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/2/b)
+[^c-85465b9db937ef81e0bb1280aa8aa200]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2588/regulation/2) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/2/b)
 
 [^c22220981]: Marginal citation: Section 182 was substituted by, and sections 182A – 182 C and 182CA inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) and amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/18, [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782); section 183 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-a97917191aa51262980bd02871593611]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/4/3/b) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(3)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/3/a)
+[^c-a97917191aa51262980bd02871593611]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/4/3/b) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(3)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/3/a)
 
-[^key-25b588bd305ca8120b8c4926e4855afe]: Textual amendment: [Reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/4/4/c) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(3)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/3/b)
+[^c-25b588bd305ca8120b8c4926e4855afe]: Textual amendment: [Reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/4/4/c) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(3)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/3/b)
 
-[^key-d43f798e966d148c8aa9168ba519f7d9]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/605/regulation/30) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d43f798e966d148c8aa9168ba519f7d9]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/d) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/605/regulation/30) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-995cb6ba46e56a65696ccced28d0871b]: Textual amendment: [Reg. 5(1)(m)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/m)[(n)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/n) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(4)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/4/a)
+[^c-995cb6ba46e56a65696ccced28d0871b]: Textual amendment: [Reg. 5(1)(m)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/m)[(n)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/n) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(4)(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/4/a)
 
-[^key-5cae794a808bf4a4ca8239128689bce5]: Textual amendment: Words in [reg. 5(1)(o)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/o) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(4)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/4/b)
+[^c-5cae794a808bf4a4ca8239128689bce5]: Textual amendment: Words in [reg. 5(1)(o)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/5/1/o) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(4)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/4/b)
 
-[^key-dfd7b6c7a1b5d55d6b4586bd4c6c5929]: Textual amendment: Word in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/b) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/i)
+[^c-dfd7b6c7a1b5d55d6b4586bd4c6c5929]: Textual amendment: Word in [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/b) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/i)
 
-[^key-19f6a04c5e39809a05c645aa65c5b827]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/g) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/ii) (with [reg. 49](https://www.legislation.gov.uk/uksi/2016/221/regulation/49))
+[^c-19f6a04c5e39809a05c645aa65c5b827]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/g) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/ii) (with [reg. 49](https://www.legislation.gov.uk/uksi/2016/221/regulation/49))
 
-[^key-3f1372e52fd561974aee6d6a313bd1f0]: Textual amendment: Words in [reg. 10(2)(h)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/h) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(iii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/iii)
+[^c-3f1372e52fd561974aee6d6a313bd1f0]: Textual amendment: Words in [reg. 10(2)(h)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/10/2/h) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(5)(iii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/5/iii)
 
-[^key-a9fe5eb8722e41f5048b706e7458764b]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/c) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/i)
+[^c-a9fe5eb8722e41f5048b706e7458764b]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/c) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/i)
 
-[^key-d217e7ce3676c5942f73cf6049db244a]: Textual amendment: Words in [reg. 11(1)(d)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/d) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/ii)
+[^c-d217e7ce3676c5942f73cf6049db244a]: Textual amendment: Words in [reg. 11(1)(d)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/d) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/ii)
 
-[^key-01ee77a2b24e4e9fa752419b93b19b0c]: Textual amendment: Word in [reg. 11(1)(h)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/h) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(iii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/iii)
+[^c-01ee77a2b24e4e9fa752419b93b19b0c]: Textual amendment: Word in [reg. 11(1)(h)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/11/1/h) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(6)(iii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/6/iii)
 
-[^key-fd8a0e039d08ffe3eb4658354443c13f]: Textual amendment: Words in reg. 14(2)(c) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(7)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/7) (with [reg. 50](https://www.legislation.gov.uk/uksi/2016/221/regulation/50))
+[^c-fd8a0e039d08ffe3eb4658354443c13f]: Textual amendment: Words in reg. 14(2)(c) substituted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(7)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/7) (with [reg. 50](https://www.legislation.gov.uk/uksi/2016/221/regulation/50))
 
-[^key-f0bd44f194591ee14a604c4d95d4e240]: Textual amendment: Word in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/16/3/a) inserted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(8)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/8/i)
+[^c-f0bd44f194591ee14a604c4d95d4e240]: Textual amendment: Word in [reg. 16(3)(a)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/16/3/a) inserted (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(8)(i)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/8/i)
 
-[^key-3e880e3bda3e9ee68bfe597f2ec60f16]: Textual amendment: [Reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/16/3/c) and word omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(8)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/8/ii)
+[^c-3e880e3bda3e9ee68bfe597f2ec60f16]: Textual amendment: [Reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/16/3/c) and word omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(8)(ii)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/8/ii)
 
-[^key-5ef0014aa1a7533355b2364f130562ca]: Textual amendment: [Reg. 17(3)-(5)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/17/3) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(9)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/9)
+[^c-5ef0014aa1a7533355b2364f130562ca]: Textual amendment: [Reg. 17(3)-(5)](https://www.legislation.gov.uk/uksi/2014/2588/regulation/17/3) omitted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(9)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/9)
 
-[^key-ede744ae04488ff63b1e007596e2af7c]: Textual amendment: Word in reg. 18(5) inserted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(10)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/10)
+[^c-ede744ae04488ff63b1e007596e2af7c]: Textual amendment: Word in reg. 18(5) inserted (10.4.2016) by virtue of [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [regs. 1](https://www.legislation.gov.uk/uksi/2016/221/regulation/1), [46(10)](https://www.legislation.gov.uk/uksi/2016/221/regulation/46/10)

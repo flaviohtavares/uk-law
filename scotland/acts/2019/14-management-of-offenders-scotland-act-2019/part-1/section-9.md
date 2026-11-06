@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Use of devices and information[^key-a3661ed0e8bc93d0f2efe0e22a213ce0]
+## 9. Use of devices and information[^c-a3661ed0e8bc93d0f2efe0e22a213ce0]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3661ed0e8bc93d0f2efe0e22a213ce0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/14/section/9) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/d)
+[^c-a3661ed0e8bc93d0f2efe0e22a213ce0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/14/section/9) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/d)

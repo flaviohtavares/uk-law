@@ -44,11 +44,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by Article 76(4) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00001] hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-0b21ccffee3a994eb31a3db5800afaa1]
+## 1. Citation and commencement[^c-0b21ccffee3a994eb31a3db5800afaa1]
 
 These Regulations may be cited as the Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997 and shall come into operation on 1st October 1997.
 
-## 2. Interpretation[^key-2cb4dd1c314bea72bac6185f36bbb24c]
+## 2. Interpretation[^c-2cb4dd1c314bea72bac6185f36bbb24c]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
 - “the Offenders Order” means the Road Traffic Offenders (Northern Ireland) Order 1996[^f00005];
 - “sum payable in default” means a sum registered under Article 76 of the Offenders Order for enforcement as a fine.
 
-## 3. Procedure on registration of a sum payable in default[^key-e6c2486b884c345cb4a65d98188469a7]
+## 3. Procedure on registration of a sum payable in default[^c-e6c2486b884c345cb4a65d98188469a7]
 
 (1) This Regulation applies where the Chief Constable, or a person authorised by him to act in that behalf, issues a registration certificate under Article 75 of the Offenders Order.
 
@@ -75,7 +75,7 @@ In these Regulations—
 
 (3) A sum payable in default shall be enforced only in accordance with Regulations 4, 5 and 6.
 
-## 4. Enforcement where defaulter fails to pay by due date[^key-6b3fbbc70b155dfac91aa07ceadd5ff0]
+## 4. Enforcement where defaulter fails to pay by due date[^c-6b3fbbc70b155dfac91aa07ceadd5ff0]
 
 (1) This Regulation is subject to Regulation 6 and applies where a defaulter has failed to pay a sum payable in default by the due date.
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 (4) A warrant shall not be issued under paragraph (2)(*b*) unless the complaint is in writing and substantiated on oath.
 
-## 5. Procedure where warrant issued[^key-12263444b9d7060d7c53046e2f39e656]
+## 5. Procedure where warrant issued[^c-12263444b9d7060d7c53046e2f39e656]
 
 (1) Where a defendant has been taken into custody in pursuance of a warrant issued under Regulation 4(2)(*b*) or paragraph (5) of this Regulation for the purpose of causing him to be brought before a court he shall, if it will not be practicable to bring him before a court within twenty-four hours after he was so taken into custody, be brought, as soon as practicable, before a justice of the peace.
 
@@ -104,7 +104,7 @@ In these Regulations—
 
 (5) If the defendant fails to appear at the time and place mentioned in a recognizance entered into under paragraph (2) or (4) the court may by warrant cause him to be brought before a court acting for the same petty sessions district in which the sum payable in default is registered or for any other petty sessions district in the same county court division.
 
-## 6. Enforcement of sums payable in default where the defaulter is a body corporate[^key-da32ea06e64536dd1e7f4fe9a28dc25e]
+## 6. Enforcement of sums payable in default where the defaulter is a body corporate[^c-da32ea06e64536dd1e7f4fe9a28dc25e]
 
 (1) On the registration of any sum payable in default against a body corporate a complaint in accordance with Regulation 4 shall not be required.
 
@@ -120,7 +120,7 @@ In these Regulations—
 - (d) Articles 93, 94, 96 and 110 were omitted; and
 - (e) in Article 115(1) after the words “this Order”, the words “or under the Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997” were inserted.
 
-## 7. Procedure at hearing[^key-e96d05fd50178666d5cef5414974bd56]
+## 7. Procedure at hearing[^c-e96d05fd50178666d5cef5414974bd56]
 
 (1) Subject to paragraph (2) at the hearing of a complaint the court shall hear the evidence and such representations, if any, as may be made to it by or on behalf of the parties and the court may make such order under the provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the satisfaction and enforcement of sums adjudged to be paid by a conviction (as modified by Regulation 8) as it sees fit.
 
@@ -144,7 +144,7 @@ In these Regulations—
 - (c) adjourn or further adjourn the hearing; or
 - (d) if evidence has been received on a previous occasion, proceed in the absence of the parties.
 
-## 8. Modification of the Magistrates' Courts (Northern Ireland) Order 1981 in respect of proceedings against defendants[^key-f691c0ff9fb3d5d91213a7b1ad2eaf76]
+## 8. Modification of the Magistrates' Courts (Northern Ireland) Order 1981 in respect of proceedings against defendants[^c-f691c0ff9fb3d5d91213a7b1ad2eaf76]
 
 The provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating to the satisfaction and enforcement of sums adjudged to be paid by a conviction shall apply to a sum payable in default registered against a defendant as if—
 
@@ -153,7 +153,7 @@ The provisions of the Magistrates' Courts (Northern Ireland) Order 1981 relating
 - (c) Article 93 were omitted;
 - (d) in Article 115(1) after the words “this Order”, the words “or under the Road Traffic Fixed Penalties (Enforcement of Fines) Regulations (Northern Ireland) 1997” were inserted.
 
-## 9. Remittal of sums payable in default[^key-a96a45bb87583e2fcc919fc5aec97b0a]
+## 9. Remittal of sums payable in default[^c-a96a45bb87583e2fcc919fc5aec97b0a]
 
 The court may, on the application in writing by the clerk of petty sessions for the petty sessions district in which a sum payable in default is registered, remit the sum so registered or any part of it if the court is satisfied that—
 
@@ -162,15 +162,15 @@ The court may, on the application in writing by the clerk of petty sessions for 
 - (c) the defaulter or defendant is dead; or
 - (d) on the return of a warrant of distress it appears that the money and goods of the defaulter or defendant are insufficient to satisfy the sum.
 
-## 10. Right of Appeal[^key-dd3280dc375ec2fdbc018024e3dfbd63]
+## 10. Right of Appeal[^c-dd3280dc375ec2fdbc018024e3dfbd63]
 
 A defendant may appeal to a county court against any order of a court made with respect to the enforcement of payment of a sum payable in default as if the order had been made upon his conviction by a magistrates' court.
 
-## 11. Service of documents[^key-643403636aaead1b92562026abb075dc]
+## 11. Service of documents[^c-643403636aaead1b92562026abb075dc]
 
 Section 24 of the Interpretation Act (Northern Ireland) 1954[^f00006] shall apply in relation to the manner in which a person may be provided with a document for the purposes of enforcing the payment of a sum registered under Article 76 of the Order as a fine as if in subsection (1) of that section the word “registering” were omitted.
 
-## 12. Conduct of proceedings[^key-6f0fb7938ed1a0459f1eb3e3344bf69e]
+## 12. Conduct of proceedings[^c-6f0fb7938ed1a0459f1eb3e3344bf69e]
 
 A member of the Northern Ireland Court Service designated by the Lord Chancellor although not of counsel or a solicitor may prosecute and conduct any proceedings under these Regulations before a court or a Justice of the Peace on behalf of the clerk of petty sessions.
 
@@ -213,7 +213,7 @@ You are hereby given notice that:
 
 If you cannot pay you should on or before the last date for payment mentioned in paragraph (*c*) above either make an application in writing for further time to pay or for payment to be made in instalments. Your application to the court should be addressed to me, the clerk of petty sessions at the above address.
 
-#### 1. WARNING[^key-70506e66fb05a77b3bc01087d19abf97]
+#### 1. WARNING[^c-70506e66fb05a77b3bc01087d19abf97]
 
 **Failure to pay this fine within the time allowed may result in a summons or a warrant for your arrest to secure your attendance at court being issued against you. A court hearing will take place to decide how this fine is to be enforced and an order may be made committing you to prison in default of payment of the fine.**
 
@@ -247,9 +247,9 @@ Regulation 12 permits members of the Northern Ireland Court Service designated b
 
 [^f00001]: Footnote: S.I. [1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
 
-[^key-0b21ccffee3a994eb31a3db5800afaa1]: Commencement: Reg. 1 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-0b21ccffee3a994eb31a3db5800afaa1]: Commencement: Reg. 1 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-2cb4dd1c314bea72bac6185f36bbb24c]: Commencement: Reg. 2 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-2cb4dd1c314bea72bac6185f36bbb24c]: Commencement: Reg. 2 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
 [^f00002]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
@@ -259,30 +259,30 @@ Regulation 12 permits members of the Northern Ireland Court Service designated b
 
 [^f00005]: Footnote: S.I. [1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
 
-[^key-e6c2486b884c345cb4a65d98188469a7]: Commencement: Reg. 3 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-e6c2486b884c345cb4a65d98188469a7]: Commencement: Reg. 3 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-6b3fbbc70b155dfac91aa07ceadd5ff0]: Commencement: Reg. 4 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-6b3fbbc70b155dfac91aa07ceadd5ff0]: Commencement: Reg. 4 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-12263444b9d7060d7c53046e2f39e656]: Commencement: Reg. 5 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-12263444b9d7060d7c53046e2f39e656]: Commencement: Reg. 5 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-da32ea06e64536dd1e7f4fe9a28dc25e]: Commencement: Reg. 6 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-da32ea06e64536dd1e7f4fe9a28dc25e]: Commencement: Reg. 6 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-e96d05fd50178666d5cef5414974bd56]: Commencement: Reg. 7 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-e96d05fd50178666d5cef5414974bd56]: Commencement: Reg. 7 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-f691c0ff9fb3d5d91213a7b1ad2eaf76]: Commencement: Reg. 8 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-f691c0ff9fb3d5d91213a7b1ad2eaf76]: Commencement: Reg. 8 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-a96a45bb87583e2fcc919fc5aec97b0a]: Commencement: Reg. 9 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-a96a45bb87583e2fcc919fc5aec97b0a]: Commencement: Reg. 9 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-dd3280dc375ec2fdbc018024e3dfbd63]: Commencement: Reg. 10 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-dd3280dc375ec2fdbc018024e3dfbd63]: Commencement: Reg. 10 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
-[^key-643403636aaead1b92562026abb075dc]: Commencement: Reg. 11 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-643403636aaead1b92562026abb075dc]: Commencement: Reg. 11 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6f0fb7938ed1a0459f1eb3e3344bf69e]: Commencement: Reg. 12 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-6f0fb7938ed1a0459f1eb3e3344bf69e]: Commencement: Reg. 12 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
 
 [^f00007]: Footnote: \* delete as appropriate
 
 [^f00008]: Footnote: \# to be completed if known by the clerk of petty sessions
 
-[^key-70506e66fb05a77b3bc01087d19abf97]: Commencement: Sch. Pt. 1 para. 1n1 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)
+[^c-70506e66fb05a77b3bc01087d19abf97]: Commencement: Sch. Pt. 1 para. 1n1 in operation at 1.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/344/regulation/1)

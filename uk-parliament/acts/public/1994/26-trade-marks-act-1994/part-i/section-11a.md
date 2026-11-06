@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Non-use as defence in infringement proceedings[^key-e22ebbea3bd1ca56a8a78d099de1295f]
+## 11A. Non-use as defence in infringement proceedings[^c-e22ebbea3bd1ca56a8a78d099de1295f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e22ebbea3bd1ca56a8a78d099de1295f]: Textual amendment: S. 11A inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2018/825/regulation/13) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-e22ebbea3bd1ca56a8a78d099de1295f]: Textual amendment: S. 11A inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2018/825/regulation/13) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

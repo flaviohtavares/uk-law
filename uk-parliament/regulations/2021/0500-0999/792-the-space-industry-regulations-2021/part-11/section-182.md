@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Protection of carrier aircraft, launch vehicle or payload: pre-integration[^key-c5a1693536a7360d49655f75d9d40da9]
+## 182. Protection of carrier aircraft, launch vehicle or payload: pre-integration[^c-c5a1693536a7360d49655f75d9d40da9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ regardless of where a carrier aircraft or launch vehicle is parked or kept at th
 
 ## Annotations
 
-[^key-c5a1693536a7360d49655f75d9d40da9]: Commencement: Reg. 182 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c5a1693536a7360d49655f75d9d40da9]: Commencement: Reg. 182 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

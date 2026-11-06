@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to make provision about the office of 
 
 \[22 May 2019\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^key-3d3164b7601e1af5ca571a5f36d51bd5][^key-d7f3324df56386585a26dcd37d5f80c4]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^c-3d3164b7601e1af5ca571a5f36d51bd5][^c-d7f3324df56386585a26dcd37d5f80c4]
 
 ## Contents
 
@@ -124,7 +124,7 @@ An Act of the National Assembly for Wales to make provision about the office of 
 - [Section 40 — Submission of complaints-handling procedure: general](part-4/section-40.md)
 - [Section 41 — Complaints-handling procedures: promotion of best practice etc](part-4/section-41.md)
 
-### PART 5 — INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE , PALLIATIVE CARE AND DIRECT PAYMENT SERVICES[^key-9dde14c69e8904bf89c9ed68d52ed1cf]
+### PART 5 — INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE , PALLIATIVE CARE AND DIRECT PAYMENT SERVICES[^c-9dde14c69e8904bf89c9ed68d52ed1cf]
 
 #### Application of this Part
 
@@ -219,8 +219,8 @@ An Act of the National Assembly for Wales to make provision about the office of 
 
 ## Annotations
 
-[^key-3d3164b7601e1af5ca571a5f36d51bd5]: Modification: [Act](https://www.legislation.gov.uk/anaw/2019/3) modified (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 12 para. 7(2)](https://www.legislation.gov.uk/asc/2023/3/schedule/12/paragraph/7/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-3d3164b7601e1af5ca571a5f36d51bd5]: Modification: [Act](https://www.legislation.gov.uk/anaw/2019/3) modified (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 12 para. 7(2)](https://www.legislation.gov.uk/asc/2023/3/schedule/12/paragraph/7/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-d7f3324df56386585a26dcd37d5f80c4]: Modification: [Act](https://www.legislation.gov.uk/anaw/2019/3) modified (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/asc/2023/3/schedule/2/paragraph/6) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1), [5](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/5)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-d7f3324df56386585a26dcd37d5f80c4]: Modification: [Act](https://www.legislation.gov.uk/anaw/2019/3) modified (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/asc/2023/3/schedule/2/paragraph/6) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1), [5](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/5)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-9dde14c69e8904bf89c9ed68d52ed1cf]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/anaw/2019/3/part/5) heading substituted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/3); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-9dde14c69e8904bf89c9ed68d52ed1cf]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/anaw/2019/3/part/5) heading substituted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/3); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)

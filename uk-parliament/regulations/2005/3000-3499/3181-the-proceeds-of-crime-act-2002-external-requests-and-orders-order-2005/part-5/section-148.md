@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Variation and setting aside of property freezing order[^key-ef116b470cff365abead01f301bb2b1b]
+## 148. Variation and setting aside of property freezing order[^c-ef116b470cff365abead01f301bb2b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef116b470cff365abead01f301bb2b1b]: Commencement: [Art. 148](https://www.legislation.gov.uk/uksi/2005/3181/article/148) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ef116b470cff365abead01f301bb2b1b]: Commencement: [Art. 148](https://www.legislation.gov.uk/uksi/2005/3181/article/148) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -24,7 +24,7 @@ Section 22.
 
 **1.** A certificate issued by the Secretary of State and stating that any property, rights or liabilities of the Crown or a government department were or were not transferred to the CAA by paragraph 1 of Schedule 2 to the [^c2546231]Civil Aviation Act 1971 shall be conclusive evidence that the property, rights and liabilities in question were or were not so transferred.
 
-**2.** (1) Any agreement and any provision in a document which is not an agreement shall, so far as may be necessary for or in consequence of the transfers effected by the said Schedule 2, continue to have effect as if references to, or to an officer of, the Crown or a government department were, or as the case may be included, references to or to a general employee[^key-216d29d3ac3bf7ebb9ecf45209562c66] of the CAA.
+**2.** (1) Any agreement and any provision in a document which is not an agreement shall, so far as may be necessary for or in consequence of the transfers effected by the said Schedule 2, continue to have effect as if references to, or to an officer of, the Crown or a government department were, or as the case may be included, references to or to a general employee[^c-216d29d3ac3bf7ebb9ecf45209562c66] of the CAA.
 
 (2) Without prejudice to sub-paragraph (1) above, any agreement to which the Crown or a government department was a party, whether in writing or not and whether or not of such a nature that rights and liabilities under it could be assigned, shall continue to have effect, so far as may be necessary for or in consequence of the transfers effected by that Schedule, as if the CAA had been a party to the agreement.
 
@@ -74,7 +74,7 @@ and
 
 [^c2546231]: Marginal citation: [1971 c. 75](https://www.legislation.gov.uk/ukpga/1971/75).
 
-[^key-216d29d3ac3bf7ebb9ecf45209562c66]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/1982/16/schedule/3/paragraph/2/1) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 97(5)](https://www.legislation.gov.uk/ukpga/2012/19/section/97/5), [110(3)(c)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/c) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-216d29d3ac3bf7ebb9ecf45209562c66]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/ukpga/1982/16/schedule/3/paragraph/2/1) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 97(5)](https://www.legislation.gov.uk/ukpga/2012/19/section/97/5), [110(3)(c)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/c) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
 
 [^c2546241]: Textual amendment: Words repealed by [Capital Allowances Act 1990 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1990/1), [s. 164](https://www.legislation.gov.uk/ukpga/1990/1/section/164), [Sch. 2](https://www.legislation.gov.uk/ukpga/1990/1/schedule/2)
 

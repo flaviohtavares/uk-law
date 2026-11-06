@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. General[^key-f2fee645e6575e14a840d533134db0cf]
+## 50. General[^c-f2fee645e6575e14a840d533134db0cf]
 
 *Extent: N.I.*
 
 A grant for travel is available—
 
 - (a) to eligible students attending courses in medicine or dentistry in accordance with regulation 51;
-- (b) to eligible students attending an overseas institution or the Institute or overseas workplace in an Erasmus year[^key-152a3b45421b35a175db10636425163c] in accordance with regulation 53.
+- (b) to eligible students attending an overseas institution or the Institute or overseas workplace in an Erasmus year[^c-152a3b45421b35a175db10636425163c] in accordance with regulation 53.
 
 ## Annotations
 
-[^key-f2fee645e6575e14a840d533134db0cf]: Commencement: Reg. 50 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-f2fee645e6575e14a840d533134db0cf]: Commencement: Reg. 50 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-152a3b45421b35a175db10636425163c]: Textual amendment: [Reg. 50(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/50/b) text amended (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [14](https://www.legislation.gov.uk/nisr/2010/383/regulation/14)
+[^c-152a3b45421b35a175db10636425163c]: Textual amendment: [Reg. 50(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/50/b) text amended (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [14](https://www.legislation.gov.uk/nisr/2010/383/regulation/14)

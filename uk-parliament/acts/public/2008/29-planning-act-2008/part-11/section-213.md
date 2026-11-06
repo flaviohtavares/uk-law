@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9b4a0a2e367954deec63f8df5807b415] A charging authority may approve a charging schedule only if—
+(1)[^c-9b4a0a2e367954deec63f8df5807b415] A charging authority may approve a charging schedule only if—
 
 - (a) the examiner makes recommendations under section 212A(4) or (5), and
 - (b) the charging authority has had regard to those recommendations and the examiner's reasons for them.
@@ -43,7 +43,7 @@ summary: ''
 
 (3) The Mayor of London must approve a charging schedule personally.
 
-(3A)[^key-acb64f1b3d97f1bc516af4a75c06a4dd] Subsection (3B) applies if—
+(3A)[^c-acb64f1b3d97f1bc516af4a75c06a4dd] Subsection (3B) applies if—
 
 - (a) the examiner makes recommendations under section 212A(4), and
 - (b) the charging schedule is approved by the charging authority.
@@ -54,16 +54,16 @@ summary: ''
 
 (4) CIL regulations may make provision for the correction of errors in a charging schedule after approval.
 
-(5)[^key-a3afa6df14469f3d48f1024fed09c513] In this section “ **examiner** ” means examiner under section 212.
+(5)[^c-a3afa6df14469f3d48f1024fed09c513] In this section “ **examiner** ” means examiner under section 212.
 
-(6)[^key-2ab170e9f04a674d0ee97d1d6069b036] For exceptions to this section see section 211(11).
+(6)[^c-2ab170e9f04a674d0ee97d1d6069b036] For exceptions to this section see section 211(11).
 
 ## Annotations
 
-[^key-9b4a0a2e367954deec63f8df5807b415]: Textual amendment: S. 213(1)-(1D) substituted for s. 213(1) (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/5), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
+[^c-9b4a0a2e367954deec63f8df5807b415]: Textual amendment: S. 213(1)-(1D) substituted for s. 213(1) (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/5), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
 
-[^key-acb64f1b3d97f1bc516af4a75c06a4dd]: Textual amendment: S. 213(3A)-(3C) inserted (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/6), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
+[^c-acb64f1b3d97f1bc516af4a75c06a4dd]: Textual amendment: S. 213(3A)-(3C) inserted (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/6), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
 
-[^key-a3afa6df14469f3d48f1024fed09c513]: Textual amendment: S. 213(5) inserted (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/7), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
+[^c-a3afa6df14469f3d48f1024fed09c513]: Textual amendment: S. 213(5) inserted (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/7), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
 
-[^key-2ab170e9f04a674d0ee97d1d6069b036]: Textual amendment: [S. 213(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/213/6) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/6), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)
+[^c-2ab170e9f04a674d0ee97d1d6069b036]: Textual amendment: [S. 213(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/213/6) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/6), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)

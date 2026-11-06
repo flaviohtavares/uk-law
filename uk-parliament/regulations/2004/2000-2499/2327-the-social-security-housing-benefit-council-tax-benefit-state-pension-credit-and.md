@@ -56,17 +56,17 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (1) These Regulations may be cited as the Social Security (Housing Benefit, Council Tax Benefit, State Pension Credit and Miscellaneous Amendments) Regulations 2004 and shall come into force—
 
-- (a) for the purposes of this regulation and regulations [^key-45b0850bf5fdda6a6ee97dc18a79f4c8]... 7(1) to (4) and (6), on 4th October 2004;
+- (a) for the purposes of this regulation and regulations [^c-45b0850bf5fdda6a6ee97dc18a79f4c8]... 7(1) to (4) and (6), on 4th October 2004;
 - (b) for the purposes of regulation 8, on 6th October 2004;
 - (c) for all other purposes, on 4th April 2005.
 
-(2)[^key-48516ac64f8ed108e97cf874e9a746df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-48516ac64f8ed108e97cf874e9a746df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Housing Benefit Regulations[^key-1feadeba06acebe7ce330f61443628de]
+## 2. Amendment of the Housing Benefit Regulations[^c-1feadeba06acebe7ce330f61443628de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Council Tax Benefit Regulations[^key-1feadeba06acebe7ce330f61443628de]
+## 3. Amendment of the Council Tax Benefit Regulations[^c-1feadeba06acebe7ce330f61443628de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -253,11 +253,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c526858]: Marginal citation: *See* section 173(1)(b) of the Social Security Administration Act 1992.
 
-[^key-45b0850bf5fdda6a6ee97dc18a79f4c8]: Textual amendment: Words in reg. 1(1)(a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-45b0850bf5fdda6a6ee97dc18a79f4c8]: Textual amendment: Words in reg. 1(1)(a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-48516ac64f8ed108e97cf874e9a746df]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2327/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-48516ac64f8ed108e97cf874e9a746df]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2327/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-1feadeba06acebe7ce330f61443628de]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/2327/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-1feadeba06acebe7ce330f61443628de]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/2327/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c526872]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991), paragraph (17B) was inserted into regulation 7 by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197) and substituted by [S.I. 2004/647](https://www.legislation.gov.uk/uksi/2004/647).
 

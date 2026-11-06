@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Transitional provision about applications[^key-1b8d558918df395a567d4eadf331b81d]
+## 35. Transitional provision about applications[^c-1b8d558918df395a567d4eadf331b81d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ the Panel must deal with the application in accordance with the Act as amended b
 
 ## Annotations
 
-[^key-1b8d558918df395a567d4eadf331b81d]: Commencement: Reg. 35 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-1b8d558918df395a567d4eadf331b81d]: Commencement: Reg. 35 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00056]: Footnote: Section 4A was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 4.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Candidate nomination paper: commonly used names[^key-d5662ef06468bf57da57a72d0419a1f3][^key-d258d4b96f9324b9fb13c0faf8f97696]
+## 10. Candidate nomination paper: commonly used names[^c-d5662ef06468bf57da57a72d0419a1f3][^c-d258d4b96f9324b9fb13c0faf8f97696]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5662ef06468bf57da57a72d0419a1f3]: Commencement: S. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-d5662ef06468bf57da57a72d0419a1f3]: Commencement: S. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d258d4b96f9324b9fb13c0faf8f97696]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/37/section/10) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/2))
+[^c-d258d4b96f9324b9fb13c0faf8f97696]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/37/section/10) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/2))

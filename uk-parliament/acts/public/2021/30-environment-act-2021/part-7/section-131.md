@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Power of responsible body to appoint replacement[^key-9dd52274bef320de4320c64b2fcdef06][^key-a336459bd92c1d4bd5131ce56581f564]
+## 131. Power of responsible body to appoint replacement[^c-9dd52274bef320de4320c64b2fcdef06][^c-a336459bd92c1d4bd5131ce56581f564]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9dd52274bef320de4320c64b2fcdef06]: Commencement: S. 131 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-9dd52274bef320de4320c64b2fcdef06]: Commencement: S. 131 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a336459bd92c1d4bd5131ce56581f564]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2021/30/section/131) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-a336459bd92c1d4bd5131ce56581f564]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2021/30/section/131) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

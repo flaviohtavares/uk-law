@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Protective searches: individuals removed etc under section 135 or 136 of the Mental Health Act 1983[^c22719191][^key-77bdaeaedc8e724a3105114278764f48]
+## 83. Protective searches: individuals removed etc under section 135 or 136 of the Mental Health Act 1983[^c22719191][^c-77bdaeaedc8e724a3105114278764f48]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ After section 136B of the Mental Health Act 1983 (inserted by section 82) insert
 
 [^c22719191]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2017/3/section/83) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-77bdaeaedc8e724a3105114278764f48]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2017/3/section/83) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-77bdaeaedc8e724a3105114278764f48]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2017/3/section/83) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

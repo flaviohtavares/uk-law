@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by paragraph 1(1) of Schedule 2 and paragraph 21 of Schedule 7 to the European Union (Withdrawal) Act 2018[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-218ca744c26ef083c231689315f09794]
+## 1. Citation, commencement and interpretation[^c-218ca744c26ef083c231689315f09794]
 
 (1) These Regulations may be cited as the Social Security (Reciprocal Agreements) (Miscellaneous Amendments) Regulations (Northern Ireland) 2021.
 
@@ -52,11 +52,11 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-6d9f7f123b40d82616483ddd150bfb28]
+## 2. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-6d9f7f123b40d82616483ddd150bfb28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations[^key-288f570463812b9bffbb42130c77f676]
+## 3. Amendment of the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations[^c-288f570463812b9bffbb42130c77f676]
 
 (1) The Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations (Northern Ireland) 2015[^f00005] are amended in accordance with paragraphs (2) and (3).
 
@@ -80,7 +80,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
   .
 
-## 4. Revocation of the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations[^key-2ec3c14a89c51ab6f39f0953b9aabf38]
+## 4. Revocation of the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations[^c-2ec3c14a89c51ab6f39f0953b9aabf38]
 
 (1) Subject to paragraph (2), the Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations (Northern Ireland) 2015 are revoked.
 
@@ -113,16 +113,16 @@ Regulation 4 revokes the 2015 Regulations from 31st December 2021 with a savings
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); Schedule 2 was amended by section 27(7) of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 21 of Schedule 7 was amended by paragraph 53(2) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020
 
-[^key-218ca744c26ef083c231689315f09794]: Commencement: Reg. 1 in operation at 31.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2021/207/regulation/1/3)
+[^c-218ca744c26ef083c231689315f09794]: Commencement: Reg. 1 in operation at 31.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2021/207/regulation/1/3)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6d9f7f123b40d82616483ddd150bfb28]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2021/207/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+[^c-6d9f7f123b40d82616483ddd150bfb28]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2021/207/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
 
-[^key-288f570463812b9bffbb42130c77f676]: Commencement: Reg. 3 in operation at 31.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2021/207/regulation/1/3)
+[^c-288f570463812b9bffbb42130c77f676]: Commencement: Reg. 3 in operation at 31.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2021/207/regulation/1/3)
 
 [^f00005]: Footnote: [S.R. 2015 No. 281](https://www.legislation.gov.uk/nisr/2015/281)
 
 [^f00006]: Footnote: [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29)
 
-[^key-2ec3c14a89c51ab6f39f0953b9aabf38]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2021/207/regulation/4) in operation at 31.12.2021, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2021/207/regulation/1/4)
+[^c-2ec3c14a89c51ab6f39f0953b9aabf38]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2021/207/regulation/4) in operation at 31.12.2021, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2021/207/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Orders and regulations under Chapter 1[^key-cdf4e5179aced881abd7db004a13196c]
+## 10A. Orders and regulations under Chapter 1[^c-cdf4e5179aced881abd7db004a13196c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf4e5179aced881abd7db004a13196c]: Textual amendment: S. 10A and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/11); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-cdf4e5179aced881abd7db004a13196c]: Textual amendment: S. 10A and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/11); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)

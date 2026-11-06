@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Review of Part 4[^key-39927a8737490e084597a48505167769]
+## 88. Review of Part 4[^c-39927a8737490e084597a48505167769]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39927a8737490e084597a48505167769]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2011/5/section/88) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-39927a8737490e084597a48505167769]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2011/5/section/88) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

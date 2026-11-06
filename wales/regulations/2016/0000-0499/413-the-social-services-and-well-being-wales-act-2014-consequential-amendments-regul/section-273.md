@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**273.**[^key-d1a02fd494346aa62dc24cb6a4ab3959] The Personal Care at Home Act 2010 is repealed.
+**273.**[^c-d1a02fd494346aa62dc24cb6a4ab3959] The Personal Care at Home Act 2010 is repealed.
 
 ## Annotations
 
-[^key-d1a02fd494346aa62dc24cb6a4ab3959]: Commencement: Reg. 273 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d1a02fd494346aa62dc24cb6a4ab3959]: Commencement: Reg. 273 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

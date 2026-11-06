@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Interpretation of Part[^key-78630c7bbb05ddcac04a7702e0936aa0]
+## 51. Interpretation of Part[^c-78630c7bbb05ddcac04a7702e0936aa0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78630c7bbb05ddcac04a7702e0936aa0]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2016/18/section/51) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-78630c7bbb05ddcac04a7702e0936aa0]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2016/18/section/51) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

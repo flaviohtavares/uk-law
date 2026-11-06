@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Disclosure of information to improve public service delivery to undertakings[^key-b0e1058caf77662d75668567e572d93f][^key-e44fa68237d78c42b1406bc5553b9bcc]
+## 123. Disclosure of information to improve public service delivery to undertakings[^c-b0e1058caf77662d75668567e572d93f][^c-e44fa68237d78c42b1406bc5553b9bcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e1058caf77662d75668567e572d93f]: Commencement: S. 123 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-b0e1058caf77662d75668567e572d93f]: Commencement: S. 123 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-e44fa68237d78c42b1406bc5553b9bcc]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2025/18/section/123) in force at 12.2.2026 by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 3](https://www.legislation.gov.uk/uksi/2026/126/regulation/3)
+[^c-e44fa68237d78c42b1406bc5553b9bcc]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2025/18/section/123) in force at 12.2.2026 by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 3](https://www.legislation.gov.uk/uksi/2026/126/regulation/3)

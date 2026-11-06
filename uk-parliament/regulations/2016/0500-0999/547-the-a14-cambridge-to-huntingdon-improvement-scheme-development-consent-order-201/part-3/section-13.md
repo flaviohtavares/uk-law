@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Permanent stopping up of streets and private means of access[^key-8e17d10a534d55c9b8e58fff878112fe]
+## 13. Permanent stopping up of streets and private means of access[^c-8e17d10a534d55c9b8e58fff878112fe]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e17d10a534d55c9b8e58fff878112fe]: Commencement: Art. 13 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-8e17d10a534d55c9b8e58fff878112fe]: Commencement: Art. 13 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

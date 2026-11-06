@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Communication requirement[^key-b5472a808ef414fb9f2bd22f0b08f50c]
+## 13. Communication requirement[^c-b5472a808ef414fb9f2bd22f0b08f50c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 sets out the matters that the Regulator must take into account in dec
 
 ## Annotations
 
-[^key-b5472a808ef414fb9f2bd22f0b08f50c]: Commencement: Reg. 13 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-b5472a808ef414fb9f2bd22f0b08f50c]: Commencement: Reg. 13 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

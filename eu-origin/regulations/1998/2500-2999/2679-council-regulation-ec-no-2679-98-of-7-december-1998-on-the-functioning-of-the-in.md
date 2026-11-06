@@ -33,20 +33,20 @@ of 7 December 1998
 
 on the functioning of the internal market in relation to the free movement of goods among the Member States (revoked)
 
-[^key-ef48b4d411a9b0f8c3635e23207bb9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef48b4d411a9b0f8c3635e23207bb9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-ef48b4d411a9b0f8c3635e23207bb9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef48b4d411a9b0f8c3635e23207bb9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef48b4d411a9b0f8c3635e23207bb9d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef48b4d411a9b0f8c3635e23207bb9d6]: Textual amendment: Regulation revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 37 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/37/paragraph/1/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef48b4d411a9b0f8c3635e23207bb9d6]: Textual amendment: Regulation revoked (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 37 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/37/paragraph/1/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

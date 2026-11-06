@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4A. Fixed penalty notices for offences under Article 4[^key-8d6bf1e223d55cf6f5f48a8451434d95]
+## 4A. Fixed penalty notices for offences under Article 4[^c-8d6bf1e223d55cf6f5f48a8451434d95]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-8d6bf1e223d55cf6f5f48a8451434d95]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/nisi/1997/2778/article/4A) inserted (12.3.2013) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 1](https://www.legislation.gov.uk/nia/2011/5/section/1), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/34/article/2/a)
+[^c-8d6bf1e223d55cf6f5f48a8451434d95]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/nisi/1997/2778/article/4A) inserted (12.3.2013) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 1](https://www.legislation.gov.uk/nia/2011/5/section/1), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/34/article/2/a)

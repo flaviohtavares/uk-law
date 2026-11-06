@@ -45,22 +45,22 @@ Coming into force
 
 The First Secretary of State, in exercise of the powers conferred upon him by sections 4(1) and(2) and 28(1)(b) of the Local Government Act 1999[^f00001], and all other powers enabling him in that behalf, and having consulted, in accordance with section 4(3) of the Act, persons appearing to him to represent best value authorities concerned and such other persons as he thought fit, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-22b45e1931d276a6585477e76f2779bd]
+## 1. Citation and commencement[^c-22b45e1931d276a6585477e76f2779bd]
 
 This Order may be cited as the Local Government (Best Value) Performance Indicators and Performance Standards (Amendment) Order 2004 and shall come into force on 1<sup>st</sup> April 2004.
 
-## 2. Application[^key-343ba33fb4d6165058d0d577ec51aec0]
+## 2. Application[^c-343ba33fb4d6165058d0d577ec51aec0]
 
 This Order applies—
 
 - (a) in relation to England, to all best value authorities; and
 - (b) in relation to Wales, only to authorities falling within section 1(1)(d) or (e) of the Local Government Act 1999 (police and fire authorities).
 
-## 3. Amendment of the Local Government (Best Value) Performance Indicators and Performance Standards Order 2003[^key-1ccead242069c63f0a424fe7be8fa7ce]
+## 3. Amendment of the Local Government (Best Value) Performance Indicators and Performance Standards Order 2003[^c-1ccead242069c63f0a424fe7be8fa7ce]
 
 The Local Government (Best Value) Performance Indicators and Performance Standards Order 2003[^f00002] is amended as follows.
 
-## 4. General corporate health performance indicators[^key-955c5d07622e70cee4c2677089ad688e]
+## 4. General corporate health performance indicators[^c-955c5d07622e70cee4c2677089ad688e]
 
 (1) For article 3(1), substitute—
 
@@ -100,7 +100,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
 
   .
 
-## 5. Performance indicators for social services[^key-af07ce9333c61953e6b2c573802b98ee]
+## 5. Performance indicators for social services[^c-af07ce9333c61953e6b2c573802b98ee]
 
 (1) For article 6(1), substitute—
 
@@ -123,7 +123,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
 
   .
 
-## 6. Performance indicators for housing and related services[^key-9bad0801fdeee1ebfd83157ad3abda7b]
+## 6. Performance indicators for housing and related services[^c-9bad0801fdeee1ebfd83157ad3abda7b]
 
 (1) For article 7(1), substitute—
 
@@ -165,7 +165,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
 
   .
 
-## 7. Performance indicators for housing benefit and council tax benefit[^key-94c3b5710abfcc00236f1f139d881da5]
+## 7. Performance indicators for housing benefit and council tax benefit[^c-94c3b5710abfcc00236f1f139d881da5]
 
 (1) For article 8(1), substitute—
 
@@ -175,7 +175,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
 
 (2) In Schedule 6 (housing benefit and council tax benefit performance indicators), delete indicators 4 and 7.
 
-## 8. Performance indicators for environmental services[^key-b7de10624c2fc7d2df36718516897f98]
+## 8. Performance indicators for environmental services[^c-b7de10624c2fc7d2df36718516897f98]
 
 (1) For article 9, substitute—
 
@@ -194,7 +194,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
   ; and
 - (b) delete indicators 10 and 11.
 
-## 9. Performance indicators for transport[^key-4b35a1039d08de5e9beb8bd78f538014]
+## 9. Performance indicators for transport[^c-4b35a1039d08de5e9beb8bd78f538014]
 
 (1) For article 11(1), substitute—
 
@@ -214,7 +214,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
   ;and
 - (b) delete indicators 10 and 11.
 
-## 10. Performance indicators for planning[^key-400db64a0ffa195961956c1b3e4d2088]
+## 10. Performance indicators for planning[^c-400db64a0ffa195961956c1b3e4d2088]
 
 (1) For article 12 (performance indicators for planning), substitute—
 
@@ -257,7 +257,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
 
 .
 
-## 11. Performance standards for planning[^key-586230db2828c926253f38d1f63a60bb]
+## 11. Performance standards for planning[^c-586230db2828c926253f38d1f63a60bb]
 
 (1) For article 13 (performance standards for planning), substitute—
 
@@ -413,7 +413,7 @@ The Local Government (Best Value) Performance Indicators and Performance Standar
 > | 2 | That during the current financial year, fifty eight percent of minor planning applications must be determined within eight weeks. |
 > | 3 | That during the current financial year ,seventy three percent of other applications must be determined within eight weeks. |
 
-## 12. Performance indicators for cultural and related services[^key-82725abeac63495b95a8004f23a268e6]
+## 12. Performance indicators for cultural and related services[^c-82725abeac63495b95a8004f23a268e6]
 
 (1) For article 15, substitute—
 
@@ -470,30 +470,30 @@ Article 12 makes amendments to performance indicators for cultural and related s
 
 [^f00001]: Footnote: [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27). For the application of the Act to Wales, *see* section 29.
 
-[^key-22b45e1931d276a6585477e76f2779bd]: Commencement: Art. 1 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-22b45e1931d276a6585477e76f2779bd]: Commencement: Art. 1 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-343ba33fb4d6165058d0d577ec51aec0]: Commencement: Art. 2 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-343ba33fb4d6165058d0d577ec51aec0]: Commencement: Art. 2 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-1ccead242069c63f0a424fe7be8fa7ce]: Commencement: Art. 3 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-1ccead242069c63f0a424fe7be8fa7ce]: Commencement: Art. 3 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
 [^f00002]: Footnote: [S.I 2003/530](https://www.legislation.gov.uk/uksi/2003/530). The Order was amended by the Local Government (Best Value) Performance Indicators and Performance Standards (Amendment)(England) Order 2003 ([SI 2003/864](https://www.legislation.gov.uk/uksi/2003/864)) in relation to waste performance indicators and standards.
 
-[^key-955c5d07622e70cee4c2677089ad688e]: Commencement: Art. 4 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-955c5d07622e70cee4c2677089ad688e]: Commencement: Art. 4 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-af07ce9333c61953e6b2c573802b98ee]: Commencement: Art. 5 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-af07ce9333c61953e6b2c573802b98ee]: Commencement: Art. 5 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-9bad0801fdeee1ebfd83157ad3abda7b]: Commencement: Art. 6 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-9bad0801fdeee1ebfd83157ad3abda7b]: Commencement: Art. 6 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-94c3b5710abfcc00236f1f139d881da5]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-94c3b5710abfcc00236f1f139d881da5]: Commencement: Art. 7 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-b7de10624c2fc7d2df36718516897f98]: Commencement: Art. 8 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-b7de10624c2fc7d2df36718516897f98]: Commencement: Art. 8 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-4b35a1039d08de5e9beb8bd78f538014]: Commencement: Art. 9 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-4b35a1039d08de5e9beb8bd78f538014]: Commencement: Art. 9 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-400db64a0ffa195961956c1b3e4d2088]: Commencement: Art. 10 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-400db64a0ffa195961956c1b3e4d2088]: Commencement: Art. 10 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
 [^f00003]: Footnote: This document is contained in a letter sent to all local authority planning departments from ODPM. It is also available on the ODPM web site at www.odpm.gov.uk/stellent/groups/odpm\_planning/documents/page/odpm\_plan\_027502.hcsp
 
-[^key-586230db2828c926253f38d1f63a60bb]: Commencement: Art. 11 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-586230db2828c926253f38d1f63a60bb]: Commencement: Art. 11 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
 
-[^key-82725abeac63495b95a8004f23a268e6]: Commencement: Art. 12 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)
+[^c-82725abeac63495b95a8004f23a268e6]: Commencement: Art. 12 in force at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/589/article/1)

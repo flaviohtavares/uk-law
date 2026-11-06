@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Review of resolution of disagreements[^key-8d203e6cd63c27ab43bd58e245ce6eba]
+## 79. Review of resolution of disagreements[^c-8d203e6cd63c27ab43bd58e245ce6eba]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d203e6cd63c27ab43bd58e245ce6eba]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2014/6/section/79) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-8d203e6cd63c27ab43bd58e245ce6eba]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2014/6/section/79) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

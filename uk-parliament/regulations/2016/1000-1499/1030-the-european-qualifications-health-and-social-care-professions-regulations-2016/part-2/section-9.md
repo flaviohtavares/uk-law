@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of section 55[^key-925546ed4e09d7ba6ca16de687c7d3f6]
+## 9. Amendment of section 55[^c-925546ed4e09d7ba6ca16de687c7d3f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-925546ed4e09d7ba6ca16de687c7d3f6]: Commencement: Reg. 9 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-925546ed4e09d7ba6ca16de687c7d3f6]: Commencement: Reg. 9 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00010]: Footnote: Section 55 was amended by section 99 of, and Schedule 7 to, the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) and by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [2000/3041](https://www.legislation.gov.uk/uksi/2000/3041), [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774), [2010/234](https://www.legislation.gov.uk/uksi/2010/234), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2014/1101](https://www.legislation.gov.uk/uksi/2014/1101) and [2015/794](https://www.legislation.gov.uk/uksi/2015/794).
 

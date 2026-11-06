@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Quorum[^key-29927f3f9db3de0ae8e760b65d5b8ff6]
+## 96. Quorum[^c-29927f3f9db3de0ae8e760b65d5b8ff6]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29927f3f9db3de0ae8e760b65d5b8ff6]: Commencement: Rule 96 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-29927f3f9db3de0ae8e760b65d5b8ff6]: Commencement: Rule 96 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00043]: Footnote: Rule 7.7 was amended by paragraph 39 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

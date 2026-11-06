@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.10. Standard contents of documents relating to the office of housing administrator[^key-2b4398fe26fd209c5c6daf62fd356df6]
+## 7.10. Standard contents of documents relating to the office of housing administrator[^c-2b4398fe26fd209c5c6daf62fd356df6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b4398fe26fd209c5c6daf62fd356df6]: Commencement: Rule 7.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2b4398fe26fd209c5c6daf62fd356df6]: Commencement: Rule 7.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

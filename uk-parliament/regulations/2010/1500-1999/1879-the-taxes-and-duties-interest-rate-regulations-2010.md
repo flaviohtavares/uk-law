@@ -32,7 +32,7 @@ summary: ''
 
 Revenue And Customs
 
-The Taxes and Duties (Interest Rate) Regulations 2010 (revoked)[^key-65e221c83c905ee82a73e2a5411b1c93]
+The Taxes and Duties (Interest Rate) Regulations 2010 (revoked)[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 31st August 2010
 
-[^key-65e221c83c905ee82a73e2a5411b1c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65e221c83c905ee82a73e2a5411b1c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-65e221c83c905ee82a73e2a5411b1c93]
+## 1. Citation and commencement[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-65e221c83c905ee82a73e2a5411b1c93]
+## 2. Interpretation[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Late payment interest rate[^key-65e221c83c905ee82a73e2a5411b1c93]
+## 3. Late payment interest rate[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Repayment interest rate[^key-65e221c83c905ee82a73e2a5411b1c93]
+## 4. Repayment interest rate[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Initial rates of interest[^key-65e221c83c905ee82a73e2a5411b1c93]
+## 5. Initial rates of interest[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Effect of change in rates of interest[^key-65e221c83c905ee82a73e2a5411b1c93]
+## 6. Effect of change in rates of interest[^c-65e221c83c905ee82a73e2a5411b1c93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65e221c83c905ee82a73e2a5411b1c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65e221c83c905ee82a73e2a5411b1c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-65e221c83c905ee82a73e2a5411b1c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65e221c83c905ee82a73e2a5411b1c93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65e221c83c905ee82a73e2a5411b1c93]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1879) revoked (31.10.2011) by [The Taxes and Duties, etc (Interest Rate) Regulations 2011 (S.I. 2011/2446)](https://www.legislation.gov.uk/uksi/2011/2446), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2446/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/2446/regulation/7)
+[^c-65e221c83c905ee82a73e2a5411b1c93]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1879) revoked (31.10.2011) by [The Taxes and Duties, etc (Interest Rate) Regulations 2011 (S.I. 2011/2446)](https://www.legislation.gov.uk/uksi/2011/2446), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2446/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/2446/regulation/7)

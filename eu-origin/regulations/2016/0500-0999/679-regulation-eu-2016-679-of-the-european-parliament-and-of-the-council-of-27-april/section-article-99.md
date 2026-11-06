@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 99. Entry into force and application[^key-a193532d2c7c25edca9148121679ca9e]
+## Article 99. Entry into force and application[^c-a193532d2c7c25edca9148121679ca9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a193532d2c7c25edca9148121679ca9e]: Textual amendment: [Art. 99](https://www.legislation.gov.uk/eur/2016/679/article/99) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/78) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a193532d2c7c25edca9148121679ca9e]: Textual amendment: [Art. 99](https://www.legislation.gov.uk/eur/2016/679/article/99) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/78) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/80)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -24,25 +24,25 @@ Section 43
 
 **Not yet in force.**
 
-**1.**[^key-ed8391ebe2696c7f78df66cd5c1f938a] The Public Health (Wales) Act [2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2) is amended as follows.
+**1.**[^c-ed8391ebe2696c7f78df66cd5c1f938a] The Public Health (Wales) Act [2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2) is amended as follows.
 
 **Not yet in force.**
 
-**2.**[^key-2f73dba29f420c0878d0dbe84bc6d983] In the heading of Part 3—
+**2.**[^c-2f73dba29f420c0878d0dbe84bc6d983] In the heading of Part 3—
 
 - (a) in the Welsh language text, after “tybaco” insert “, cynhyrchion fepio”;
 - (b) in the English language text, after “tobacco” insert “, vaping products”.
 
 **Not yet in force.**
 
-**3.**[^key-1f66e451cf27407cbb47e52ee2778b88] In the heading of Chapter 4 of Part 3—
+**3.**[^c-1f66e451cf27407cbb47e52ee2778b88] In the heading of Chapter 4 of Part 3—
 
 - (a) in the Welsh language text omit “i bersonau o dan 18 oed”;
 - (b) in the English language text omit “to persons under 18”.
 
 **Not yet in force.**
 
-**4.**[^key-42fc2aaeef89ad880710f3dbadbb3a16] In the Welsh language text, before section 52 insert—
+**4.**[^c-42fc2aaeef89ad880710f3dbadbb3a16] In the Welsh language text, before section 52 insert—
 
 > **51A. Y drosedd o roi tybaco etc. i bobl a anwyd ar neu ar ôl 1 Ionawr 2009**
 >
@@ -77,7 +77,7 @@ Section 43
 
 **Not yet in force.**
 
-**5.**[^key-9b935d4a0d7ac75365cdacd203e06480] In the English language text, before section 52 insert—
+**5.**[^c-9b935d4a0d7ac75365cdacd203e06480] In the English language text, before section 52 insert—
 
 > **51A. Offence of handing over tobacco etc to people born on or after 1 January 2009**
 >
@@ -112,7 +112,7 @@ Section 43
 
 **Not yet in force.**
 
-**6.**[^key-f8775a6895c69302508e4befd1a5057e] (1) The Welsh language text of section 52 is amended as follows.
+**6.**[^c-f8775a6895c69302508e4befd1a5057e] (1) The Welsh language text of section 52 is amended as follows.
 
 (2) In the heading, for “tybaco etc.” substitute “cynhyrchion fepio a chynhyrchion nicotin”.
 
@@ -130,7 +130,7 @@ Section 43
 
 **Not yet in force.**
 
-**7.**[^key-2cfa805442ec74c52b8f5b23d5e9b81c] (1) The English language text of section 52 is amended as follows.
+**7.**[^c-2cfa805442ec74c52b8f5b23d5e9b81c] (1) The English language text of section 52 is amended as follows.
 
 (2) In the heading, for “tobacco etc.” substitute “vaping and nicotine products”.
 
@@ -148,7 +148,7 @@ Section 43
 
 **Not yet in force.**
 
-**8.**[^key-54da3e84328dc11e4e4fbd8343104b91] (1) The Welsh language text of section 53 is amended as follows.
+**8.**[^c-54da3e84328dc11e4e4fbd8343104b91] (1) The Welsh language text of section 53 is amended as follows.
 
 (2) In subsection (1)—
 
@@ -174,7 +174,7 @@ Section 43
 
 **Not yet in force.**
 
-**9.**[^key-4110e88f14614c9d0c4a37fa8a45be87] (1) The English language text of section 53 is amended as follows.
+**9.**[^c-4110e88f14614c9d0c4a37fa8a45be87] (1) The English language text of section 53 is amended as follows.
 
 (2) In subsection (1)—
 
@@ -198,7 +198,7 @@ Section 43
 > - (d) a vaping product, or
 > - (e) a nicotine product.
 
-**10.**[^key-5d6f617595ed9799fea8128c5bf63dd5] In the Welsh language text, after section 54 insert—
+**10.**[^c-5d6f617595ed9799fea8128c5bf63dd5] In the Welsh language text, after section 54 insert—
 
 > **54A. Pŵer i ymestyn y Bennod hon i gynhyrchion eraill**
 >
@@ -207,7 +207,7 @@ Section 43
 > - (a) dyfais o ddisgrifiad penodedig sy’n galluogi cynnyrch tybaco i gael ei ddefnyddio (er enghraifft, dyfais cynhesu tybaco neu bibell);
 > - (b) eitem y bwriedir iddi ffurfio rhan o ddyfais o’r fath.
 
-**11.**[^key-a1bf0bb785d1916f332a6048b8b48d8f] In the English language text, after section 54 insert—
+**11.**[^c-a1bf0bb785d1916f332a6048b8b48d8f] In the English language text, after section 54 insert—
 
 > **54A. Power to extend this Chapter to other products**
 >
@@ -220,7 +220,7 @@ Section 43
 
 **Not yet in force.**
 
-**12.**[^key-8f4a54e1fa656aa2b3cdc05da7c3805e] For the Welsh language text of section 55 substitute—
+**12.**[^c-8f4a54e1fa656aa2b3cdc05da7c3805e] For the Welsh language text of section 55 substitute—
 
 > **55. Dehongli’r Bennod hon**
 >
@@ -237,7 +237,7 @@ Section 43
 
 **Not yet in force.**
 
-**13.**[^key-e06749e10a229e607e6b3cad857fb4e5] For the English language text of section 55 substitute—
+**13.**[^c-e06749e10a229e607e6b3cad857fb4e5] For the English language text of section 55 substitute—
 
 > **55. Interpretation of this Chapter**
 >
@@ -252,38 +252,38 @@ Section 43
 > - “**tobacco product**” (“*cynnyrch tybaco*”) has the meaning given by section 50 of the Tobacco and Vapes Act 2026;
 > - “**vaping product**” (“*cynnyrch fepio*”) has the meaning given by section 50 of the Tobacco and Vapes Act 2026.
 
-**14.**[^key-75c525a583efbc190c6b0446703d5b75] In the Welsh language text of section 123, in subsection (2), for “neu 50(2)” substitute “, 50(2) neu 54A”.
+**14.**[^c-75c525a583efbc190c6b0446703d5b75] In the Welsh language text of section 123, in subsection (2), for “neu 50(2)” substitute “, 50(2) neu 54A”.
 
-**15.**[^key-a5dcffe196f6a44424c625528a6bcf07] In the English language text of section 123, in subsection (2)(a), for “or 50(2)” substitute “, 50(2) or 54A”.
+**15.**[^c-a5dcffe196f6a44424c625528a6bcf07] In the English language text of section 123, in subsection (2)(a), for “or 50(2)” substitute “, 50(2) or 54A”.
 
 ## Annotations
 
-[^key-ed8391ebe2696c7f78df66cd5c1f938a]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-ed8391ebe2696c7f78df66cd5c1f938a]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-2f73dba29f420c0878d0dbe84bc6d983]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-2f73dba29f420c0878d0dbe84bc6d983]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-1f66e451cf27407cbb47e52ee2778b88]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-1f66e451cf27407cbb47e52ee2778b88]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-42fc2aaeef89ad880710f3dbadbb3a16]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-42fc2aaeef89ad880710f3dbadbb3a16]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-9b935d4a0d7ac75365cdacd203e06480]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-9b935d4a0d7ac75365cdacd203e06480]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-f8775a6895c69302508e4befd1a5057e]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-f8775a6895c69302508e4befd1a5057e]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-2cfa805442ec74c52b8f5b23d5e9b81c]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-2cfa805442ec74c52b8f5b23d5e9b81c]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-54da3e84328dc11e4e4fbd8343104b91]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-54da3e84328dc11e4e4fbd8343104b91]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-4110e88f14614c9d0c4a37fa8a45be87]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-4110e88f14614c9d0c4a37fa8a45be87]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-5d6f617595ed9799fea8128c5bf63dd5]: Commencement: Sch. 5 para. 10 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-5d6f617595ed9799fea8128c5bf63dd5]: Commencement: Sch. 5 para. 10 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
 
-[^key-a1bf0bb785d1916f332a6048b8b48d8f]: Commencement: Sch. 5 para. 11 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-a1bf0bb785d1916f332a6048b8b48d8f]: Commencement: Sch. 5 para. 11 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
 
-[^key-8f4a54e1fa656aa2b3cdc05da7c3805e]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-8f4a54e1fa656aa2b3cdc05da7c3805e]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-e06749e10a229e607e6b3cad857fb4e5]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
+[^c-e06749e10a229e607e6b3cad857fb4e5]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 175(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5)
 
-[^key-75c525a583efbc190c6b0446703d5b75]: Commencement: Sch. 5 para. 14 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-75c525a583efbc190c6b0446703d5b75]: Commencement: Sch. 5 para. 14 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
 
-[^key-a5dcffe196f6a44424c625528a6bcf07]: Commencement: Sch. 5 para. 15 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-a5dcffe196f6a44424c625528a6bcf07]: Commencement: Sch. 5 para. 15 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)

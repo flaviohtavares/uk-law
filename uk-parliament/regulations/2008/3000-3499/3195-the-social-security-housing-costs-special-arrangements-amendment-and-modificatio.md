@@ -76,7 +76,7 @@ It appears to the Secretary of State that by reason of the urgency of the matter
 
 ## PART 1 — Amendments relating to the standard rate of interest
 
-### 2. Amendments relating to the standard rate of interest[^key-15988a6e8290788ca1873bd7c768d644]
+### 2. Amendments relating to the standard rate of interest[^c-15988a6e8290788ca1873bd7c768d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,7 +91,7 @@ It appears to the Secretary of State that by reason of the urgency of the matter
 
 (2) This Part ceases to apply in relation to a person who makes a further claim to the same, or claims another, relevant benefit after 4th January 2009.
 
-(3) A person falls within this paragraph if, apart from these Regulations, the housing costs to be met in the benefit week that includes 4th January 2009 would be nil in that person's case because that person[^key-01c35d50de614d0e17acd7f840ebf578] has not been entitled to the relevant benefit concerned for the period mentioned in sub-paragraph (1)(a) in any of the following provisions—
+(3) A person falls within this paragraph if, apart from these Regulations, the housing costs to be met in the benefit week that includes 4th January 2009 would be nil in that person's case because that person[^c-01c35d50de614d0e17acd7f840ebf578] has not been entitled to the relevant benefit concerned for the period mentioned in sub-paragraph (1)(a) in any of the following provisions—
 
 - (a) paragraph 8 (existing housing costs) or paragraph 9 (new housing costs) [^c1952480] of Schedule 6 to the Employment and Support Allowance Regulations;
 - (b) paragraph 6 (existing housing costs) [^c1952481] or paragraph 8 (new housing costs) [^c1952482] of Schedule 3 to the Income Support Regulations;
@@ -109,23 +109,23 @@ It appears to the Secretary of State that by reason of the urgency of the matter
 
 Schedule 6 (housing costs) to the Employment and Support Allowance Regulations applies in relation to a person to whom this Part applies as if—
 
-- (a) in paragraph 8(1) (existing housing costs) the reference to “26” were to “13” in each place it appears; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (b) in paragraph 9(1) (new housing costs) the reference to “39” were to “13”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (a) in paragraph 8(1) (existing housing costs) the reference to “26” were to “13” in each place it appears; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (b) in paragraph 9(1) (new housing costs) the reference to “39” were to “13”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 - (c) in paragraph 12(4) (general provisions applying to new and existing housing costs) [^c1952485] the reference to “£100,000” were to “£200,000”;
-- (d) in paragraph 15(14) (linking rule)— *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (i) in head (a) the reference to “26” were to “13”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in head (b) the reference to “39” were to “13”. *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (d) in paragraph 15(14) (linking rule)— *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) in head (a) the reference to “26” were to “13”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in head (b) the reference to “39” were to “13”. *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 
 ### 5. Modification of the Income Support Regulations
 
 Schedule 3 (housing costs) to the Income Support Regulations applies in relation to a person to whom this Part applies as if—
 
-- (a) in paragraph 6(1) (existing housing costs) the reference to “26” were to “13” in each place it appears; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (b) in paragraph 8(1) (new housing costs) the reference to “39” were to “13”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (a) in paragraph 6(1) (existing housing costs) the reference to “26” were to “13” in each place it appears; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (b) in paragraph 8(1) (new housing costs) the reference to “39” were to “13”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 - (c) in paragraph 11(5) (general provisions applying to new and existing housing costs) [^c1952487] the reference to “£100,000” were to “£200,000”;
-- (d) in paragraph 14(9) (linking rule)— *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (i) in head (a) the reference to “26” were to “13”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in head (b) the reference to “39” were to “13”. *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (d) in paragraph 14(9) (linking rule)— *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) in head (a) the reference to “26” were to “13”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in head (b) the reference to “39” were to “13”. *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 
 ### 6. Modification of the Jobseeker's Allowance Regulations
 
@@ -141,29 +141,29 @@ Schedule 2 (housing costs) to the Jobseeker's Allowance Regulations applies in r
   >
   > (3) Sub-paragraph (1) does not apply where—
   >
-  > - (a) the claimant or his [^key-7280560af205d841383bd11192b25f11]... partner or, if the claimant is a member of a joint-claim couple, the other member of the couple, was previously entitled to income support or employment and support allowance; and
+  > - (a) the claimant or his [^c-7280560af205d841383bd11192b25f11]... partner or, if the claimant is a member of a joint-claim couple, the other member of the couple, was previously entitled to income support or employment and support allowance; and
   > - (b) 12 weeks or less has elapsed since the last day of that entitlement and the first day of entitlement to a jobseeker's allowance.
   >
-  > (4)[^key-640dc60d0bd673e28f585210065525a7] In determining whether the exemption provided for in sub-paragraph (3) applies, where the claimant or his partner or, if the claimant is a member of a joint-claim couple, the other member of the couple was in receipt of a jobseeker’s allowance immediately before becoming entitled to income support by virtue of regulation 6(6) of the Income Support Regulations, no account shall be taken of entitlement arising by virtue of that regulation.
+  > (4)[^c-640dc60d0bd673e28f585210065525a7] In determining whether the exemption provided for in sub-paragraph (3) applies, where the claimant or his partner or, if the claimant is a member of a joint-claim couple, the other member of the couple was in receipt of a jobseeker’s allowance immediately before becoming entitled to income support by virtue of regulation 6(6) of the Income Support Regulations, no account shall be taken of entitlement arising by virtue of that regulation.
 
   .
-- (b) in paragraph 6(1) (existing housing costs) the reference to “26” were to “13” in each place it appears; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (c) in paragraph 7(1) (new housing costs) the reference to “39” were to “13”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (b) in paragraph 6(1) (existing housing costs) the reference to “26” were to “13” in each place it appears; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (c) in paragraph 7(1) (new housing costs) the reference to “39” were to “13”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 - (d) in paragraph 10(4) (general provisions applying to new and existing housing costs) [^c1952489] the reference to “£100,000” were to “£200,000”;
-- (e) in paragraph 13(11) (linking rule)— *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (i) in head (a) the reference to “26” were to “13”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in head (b) the reference to “39” were to “13”. *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (e) in paragraph 13(11) (linking rule)— *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) in head (a) the reference to “26” were to “13”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in head (b) the reference to “39” were to “13”. *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 
 ### 7. Saving
 
-Nothing in this Part is to affect the applicable amount of a person to whom this Part applies in respect of— *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+Nothing in this Part is to affect the applicable amount of a person to whom this Part applies in respect of— *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 
-- (a) any period ending before the date on which these Regulations come into force, or *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (b) any period ending after that date throughout which he or she is entitled to the relevant benefit concerned for a continuous period that does not exceed 12 weeks. *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (a) any period ending before the date on which these Regulations come into force, or *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (b) any period ending after that date throughout which he or she is entitled to the relevant benefit concerned for a continuous period that does not exceed 12 weeks. *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 
 ## PART 3 — Modifications relating to certain persons who claim a relevant benefit after 4th January 2009
 
-### 8. Application and interpretation[^key-214cea4e476b93830e78baf41100030c]
+### 8. Application and interpretation[^c-214cea4e476b93830e78baf41100030c]
 
 (1) This Part applies on and after 5th January 2010 to a person (“C”) who—
 
@@ -220,8 +220,8 @@ Schedule 6 (housing costs) to the Employment and Support Allowance Regulations a
   - (ii) in sub-paragraph (1) “Paragraph 9” were substituted for “Paragraphs 8 and 9”;
 - (e) in paragraph 11 (the calculation for loans) the reference to “existing housing costs, or as the case may be, new housing costs” were to “housing costs”;
 - (f) in paragraph 12 (general provisions applying to new and existing housing costs)—
-  - (i) for the heading there were substituted “General provisions applying to housing costs”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii) sub-paragraphs (1) and (2) were omitted; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) for the heading there were substituted “General provisions applying to housing costs”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii) sub-paragraphs (1) and (2) were omitted; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
   - (iii) in sub-paragraph (4), the reference to “£100,000” were to “£200,000”;
 - (g) in paragraph 14(9) (excessive housing costs) “paragraph 9” were substituted for “paragraphs 8 and 9”;
 - (h) in paragraph 15 (linking rule)—
@@ -252,8 +252,8 @@ Schedule 3 (housing costs) to the Income Support Regulations applies in relation
   - (ii) in sub-paragraph (1) “Paragraph 8” were substituted for “Paragraphs 6 and 8”;
 - (e) in paragraph 10 (the calculation for loans) [^c1952494] the reference to “existing housing costs, or as the case may be, new housing costs” were to “housing costs”;
 - (f) in paragraph 11 (general provisions applying to new and existing housing costs)—
-  - (i) for the heading there were substituted “General provisions applying to housing costs”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii) sub-paragraphs (2) and (3) were omitted; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) for the heading there were substituted “General provisions applying to housing costs”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii) sub-paragraphs (2) and (3) were omitted; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
   - (iii) in sub-paragraph (5), the reference to “£100,000” were to “£200,000”;
 - (g) in paragraph 13(9) (excessive housing costs) [^c1952495]“paragraph 8” were substituted for “paragraphs 6 and 8”;
 - (h) in paragraph 14 (linking rule)—
@@ -273,11 +273,11 @@ Schedule 2 (housing costs) to the Jobseeker's Allowance Regulations applies in r
 - (a) in paragraph 1(2) (housing costs) [^c1952499] the definitions of “existing housing costs” and “new housing costs” were omitted;
 - (b) after paragraph 4 (housing costs not met) there were inserted—
 
-  > **4A. Housing costs: limitation applicable to qualifying loans[^key-8755c6681d9704036daeacd6a5238345]**
+  > **4A. Housing costs: limitation applicable to qualifying loans[^c-8755c6681d9704036daeacd6a5238345]**
   >
   > (1) Except as mentioned below, no amount may be met in respect of housing costs under paragraph 14 or 15 after the claimant has been in receipt of housing costs under either or both of those paragraphs (“relevant housing costs”) for a cumulative total of 104 weeks, beginning on or after 5th January 2009.
   >
-  > (2) Sub-paragraphs (3) to (7)[^key-1eb40e22e38a18dd3d5cfa49542e17e4] apply for the purposes of sub-paragraph (1).
+  > (2) Sub-paragraphs (3) to (7)[^c-1eb40e22e38a18dd3d5cfa49542e17e4] apply for the purposes of sub-paragraph (1).
   >
   > (3) No week in which the appropriate amount specified in paragraph 10(4) is £100,000 in relation to the claimant is to count towards the 104 week total.
   >
@@ -290,23 +290,23 @@ Schedule 2 (housing costs) to the Jobseeker's Allowance Regulations applies in r
   > - (a) the claimant or his partner or, if the claimant is a member of a joint-claim couple, the other member of the couple, was entitled to an employment and support allowance or income support before one of them becomes entitled to a jobseeker’s allowance; and
   > - (b) 12 weeks or less has elapsed since the last day of that entitlement and the first day of entitlement to a jobseeker’s allowance.
   >
-  > (7)[^key-ad4dd124a9ec4cd2c495dadc39147dec] In determining whether the exemption provided for in sub-paragraph (6) applies, where the claimant or his partner or, if the claimant is a member of a joint-claim couple, the other member of the couple was in receipt of a jobseeker’s allowance immediately before becoming entitled to income support by virtue of regulation 6(6) of the Income Support Regulations, no account shall be taken of entitlement arising by virtue of that regulation.
+  > (7)[^c-ad4dd124a9ec4cd2c495dadc39147dec] In determining whether the exemption provided for in sub-paragraph (6) applies, where the claimant or his partner or, if the claimant is a member of a joint-claim couple, the other member of the couple was in receipt of a jobseeker’s allowance immediately before becoming entitled to income support by virtue of regulation 6(6) of the Income Support Regulations, no account shall be taken of entitlement arising by virtue of that regulation.
 
   .
-- (c) paragraph 6 (existing housing costs) were omitted; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (d) in paragraph 7 (new housing costs)— *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (i) the reference to “new” were omitted— *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-    - (aa (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in the heading, and *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-    - (bb (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in sub-paragraphs (1) and (2), *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in sub-paragraph (1) the reference to “39” were to “13”, *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (iii (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] sub-paragraphs (3) to (7) were omitted; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (e) in paragraph 8 (general exclusions from paragraphs 6 and 7) — *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (i) in the heading “paragraph 7” were substituted for “paragraphs 6 and 7”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii (affected by repeal, see note))[^key-a8b0458309bf9d81e38f2a4da3cb4b4b] in sub-paragraph (1) “Paragraph 7” were substituted for “Paragraphs 6 and 7”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-- (f) in paragraph 9 (the calculation for loans) the reference to “existing housing costs, or as the case may be, new housing costs” were to “housing costs”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (c) paragraph 6 (existing housing costs) were omitted; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (d) in paragraph 7 (new housing costs)— *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) the reference to “new” were omitted— *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+    - (aa (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in the heading, and *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+    - (bb (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in sub-paragraphs (1) and (2), *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in sub-paragraph (1) the reference to “39” were to “13”, *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (iii (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] sub-paragraphs (3) to (7) were omitted; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (e) in paragraph 8 (general exclusions from paragraphs 6 and 7) — *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) in the heading “paragraph 7” were substituted for “paragraphs 6 and 7”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii (affected by repeal, see note))[^c-a8b0458309bf9d81e38f2a4da3cb4b4b] in sub-paragraph (1) “Paragraph 7” were substituted for “Paragraphs 6 and 7”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+- (f) in paragraph 9 (the calculation for loans) the reference to “existing housing costs, or as the case may be, new housing costs” were to “housing costs”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
 - (g) in paragraph 10 (general provisions applying to new and existing housing costs)—
-  - (i) for the heading there were substituted “General provisions applying to housing costs”; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
-  - (ii) sub-paragraphs (1) and (2) were omitted; *(affected by repeal, see note)*[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (i) for the heading there were substituted “General provisions applying to housing costs”; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
+  - (ii) sub-paragraphs (1) and (2) were omitted; *(affected by repeal, see note)*[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]
   - (iii) in sub-paragraph (4), the reference to “£100,000” were to “£200,000”;
 - (h) in paragraph 12(9) (excessive housing costs) [^c1952502] “paragraph 7” were substituted for “paragraphs 6 and 7”;
 - (i) in paragraph 13 (linking rule)—
@@ -328,7 +328,7 @@ Schedule 2 (housing costs) to the Jobseeker's Allowance Regulations applies in r
 
 - (a) a person becomes entitled to state pension credit;
 - (b) that person or that person's partner ceases to be entitled to a relevant benefit;
-- (c) that person or that person’s[^key-f4cdf5048c12e82dd7ed3c9c985dc681] partner is a person to whom— ;[^key-7c91a9e4e67702b368ccd79977ded229]
+- (c) that person or that person’s[^c-f4cdf5048c12e82dd7ed3c9c985dc681] partner is a person to whom— ;[^c-7c91a9e4e67702b368ccd79977ded229]
   - (i) Part 2 applies, or
   - (ii) Part 3 (as it has effect, in relation to the person or that person’s partner, on and after 5th January 2010) applies or would have applied had the person claiming state pension credit remained entitled to a relevant benefit.
 - (d) the last day on which the person or that person’s partner was entitled to a relevant benefit was no more than 12 weeks before—
@@ -414,9 +414,9 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1952476]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
-[^key-15988a6e8290788ca1873bd7c768d644]: Textual amendment: Reg. 2 revoked (1.10.2010) by [Social Security (Housing Costs) (Standard Interest Rate) Amendment Regulations 2010 (S.I. 2010/1811)](https://www.legislation.gov.uk/uksi/2010/1811), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1811/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2010/1811/regulation/3)
+[^c-15988a6e8290788ca1873bd7c768d644]: Textual amendment: Reg. 2 revoked (1.10.2010) by [Social Security (Housing Costs) (Standard Interest Rate) Amendment Regulations 2010 (S.I. 2010/1811)](https://www.legislation.gov.uk/uksi/2010/1811), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1811/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2010/1811/regulation/3)
 
-[^key-01c35d50de614d0e17acd7f840ebf578]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/3/4) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/3257/regulation/2)
+[^c-01c35d50de614d0e17acd7f840ebf578]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/3/4) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/3257/regulation/2)
 
 [^c1952480]: Marginal citation: Paragraph 9 was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428).
 
@@ -428,7 +428,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1952484]: Marginal citation: Paragraph 7 was amended by S.Is 1996/1516, 1997/2305, 2000/1978 and 2008/2428.
 
-[^key-a8b0458309bf9d81e38f2a4da3cb4b4b]: Textual amendment: Instrument revoked in part (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations 2015 (S.I. 2015/1647)](https://www.legislation.gov.uk/uksi/2015/1647), [reg. 7](https://www.legislation.gov.uk/uksi/2015/1647/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/1647/regulation/8))
+[^c-a8b0458309bf9d81e38f2a4da3cb4b4b]: Textual amendment: Instrument revoked in part (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations 2015 (S.I. 2015/1647)](https://www.legislation.gov.uk/uksi/2015/1647), [reg. 7](https://www.legislation.gov.uk/uksi/2015/1647/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2015/1647/regulation/8))
 
 [^c1952485]: Marginal citation: Paragraph 12 was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428).
 
@@ -436,13 +436,13 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1952488]: Marginal citation: Paragraph 4 was amended by S.Is. 1996/1517, 1996/2538, 1997/2863, 2000/1978, 2005/2687, 2007/3183 and 2008/698.
 
-[^key-7280560af205d841383bd11192b25f11]: Textual amendment: Words in reg. 6(a) omitted (5.1.2010) by virtue of [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/3257/regulation/3)
+[^c-7280560af205d841383bd11192b25f11]: Textual amendment: Words in reg. 6(a) omitted (5.1.2010) by virtue of [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/3257/regulation/3)
 
-[^key-640dc60d0bd673e28f585210065525a7]: Textual amendment: Words in reg. 6(a) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/26/2)
+[^c-640dc60d0bd673e28f585210065525a7]: Textual amendment: Words in reg. 6(a) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/26/2)
 
 [^c1952489]: Marginal citation: Paragraph 10 was amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516) .
 
-[^key-214cea4e476b93830e78baf41100030c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/3195/regulation/8) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2009/3257/regulation/4)
+[^c-214cea4e476b93830e78baf41100030c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/3195/regulation/8) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2009/3257/regulation/4)
 
 [^c1952492]: Marginal citation: Head (a) in the definition of “existing housing costs” was substituted by [S.I. 2004/2825](https://www.legislation.gov.uk/uksi/2004/2825).
 
@@ -460,11 +460,11 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1952499]: Marginal citation: The definition of “existing housing costs” was substituted by [S.I. 2004/2825](https://www.legislation.gov.uk/uksi/2004/2825) .
 
-[^key-8755c6681d9704036daeacd6a5238345]: Textual amendment: Reg. 11(b)(Words in the inserted reg 4A) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2009/3257/regulation/5)
+[^c-8755c6681d9704036daeacd6a5238345]: Textual amendment: Reg. 11(b)(Words in the inserted reg 4A) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2009/3257/regulation/5)
 
-[^key-1eb40e22e38a18dd3d5cfa49542e17e4]: Textual amendment: Word in reg. 11(b) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [26(3)(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/26/3/a)
+[^c-1eb40e22e38a18dd3d5cfa49542e17e4]: Textual amendment: Word in reg. 11(b) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [26(3)(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/26/3/a)
 
-[^key-ad4dd124a9ec4cd2c495dadc39147dec]: Textual amendment: Words in reg. 11(b) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [26(3)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/26/3/b)
+[^c-ad4dd124a9ec4cd2c495dadc39147dec]: Textual amendment: Words in reg. 11(b) inserted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [26(3)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/26/3/b)
 
 [^c1952502]: Marginal citation: Paragraph 12 was amended by [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860) .
 
@@ -476,8 +476,8 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1952506]: Marginal citation: Paragraph 18 was amended by S.Is. 1996/1517 and 2008/1554.
 
-[^key-f4cdf5048c12e82dd7ed3c9c985dc681]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/c)[(d)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/d)[(e)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/e) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/6/b)
+[^c-f4cdf5048c12e82dd7ed3c9c985dc681]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/c)[(d)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/d)[(e)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/e) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/6/b)
 
-[^key-7c91a9e4e67702b368ccd79977ded229]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/c) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/6/a)
+[^c-7c91a9e4e67702b368ccd79977ded229]: Textual amendment: Words in [reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2008/3195/regulation/12/1/c) substituted (5.1.2010) by [Social Security (Housing Costs Special Arrangements) (Amendment) Regulations 2009 (S.I. 2009/3257)](https://www.legislation.gov.uk/uksi/2009/3257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2009/3257/regulation/6/a)
 
 [^c1952507]: Marginal citation: Paragraph 13(8) was amended by [S.I. 2007/2618](https://www.legislation.gov.uk/uksi/2007/2618).

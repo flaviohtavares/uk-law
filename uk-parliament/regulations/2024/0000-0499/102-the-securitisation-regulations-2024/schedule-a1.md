@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule A1 — Supplementary provision about due diligence requirements for the trustees or managers of an occupational pension scheme[^key-dfab1a8bf2280869bd174b44ffeb0ad9]
+## Schedule A1 — Supplementary provision about due diligence requirements for the trustees or managers of an occupational pension scheme[^c-dfab1a8bf2280869bd174b44ffeb0ad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Regulation 32B(4)
 
 ## Annotations
 
-[^key-dfab1a8bf2280869bd174b44ffeb0ad9]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2024/102/schedule/A1) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/705/schedule/1)
+[^c-dfab1a8bf2280869bd174b44ffeb0ad9]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2024/102/schedule/A1) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/705/schedule/1)

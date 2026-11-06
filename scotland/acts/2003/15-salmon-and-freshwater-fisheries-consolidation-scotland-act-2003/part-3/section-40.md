@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Qualified proprietors and upper and lower proprietors[^key-5b22b3c195623171430e969bcb4b0ea7]
+## 40. Qualified proprietors and upper and lower proprietors[^c-5b22b3c195623171430e969bcb4b0ea7]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ and the board may, if they are satisfied that a name should be added or removed,
 
 ## Annotations
 
-[^key-5b22b3c195623171430e969bcb4b0ea7]: Commencement: S. 40 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-5b22b3c195623171430e969bcb4b0ea7]: Commencement: S. 40 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

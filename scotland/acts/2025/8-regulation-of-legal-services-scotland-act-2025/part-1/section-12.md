@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Annual reports of category 1 regulators[^key-7d9396921d5492bd1fc3e85e02cf3a23][^key-8ecb24a525476931fc7753076397c415]
+## 12. Annual reports of category 1 regulators[^c-7d9396921d5492bd1fc3e85e02cf3a23][^c-8ecb24a525476931fc7753076397c415]
 
 *Extent: S*
 
@@ -72,6 +72,6 @@ as soon as practicable after the end of the reporting year to which the annual r
 
 ## Annotations
 
-[^key-7d9396921d5492bd1fc3e85e02cf3a23]: Commencement: S. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7d9396921d5492bd1fc3e85e02cf3a23]: Commencement: S. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-8ecb24a525476931fc7753076397c415]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/8/section/12) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-8ecb24a525476931fc7753076397c415]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/8/section/12) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

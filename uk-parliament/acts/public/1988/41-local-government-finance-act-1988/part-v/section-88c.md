@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88C. Special grants: Wales[^key-650c2b3fc66e2a15f13775a82255d3b9]
+## 88C. Special grants: Wales[^c-650c2b3fc66e2a15f13775a82255d3b9]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-650c2b3fc66e2a15f13775a82255d3b9]: Textual amendment: S. 88C inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/38)
+[^c-650c2b3fc66e2a15f13775a82255d3b9]: Textual amendment: S. 88C inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/38)

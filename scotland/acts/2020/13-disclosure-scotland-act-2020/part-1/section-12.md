@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Level 2 disclosure applications: countersigning and purposes[^key-aa7ac5d07cd09830c8ac91024d619e7c]
+## 12. Level 2 disclosure applications: countersigning and purposes[^c-aa7ac5d07cd09830c8ac91024d619e7c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7ac5d07cd09830c8ac91024d619e7c]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/13/section/12) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-aa7ac5d07cd09830c8ac91024d619e7c]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/13/section/12) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

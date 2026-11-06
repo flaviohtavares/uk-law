@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Annual rate of pension credit retirement pension[^key-4d01eac064a57c2d98981cb6480c7ad1]
+## 153. Annual rate of pension credit retirement pension[^c-4d01eac064a57c2d98981cb6480c7ad1]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The annual rate of a pension credit retirement pension is found by—
 
 ## Annotations
 
-[^key-4d01eac064a57c2d98981cb6480c7ad1]: Commencement: [Reg. 153](https://www.legislation.gov.uk/ssi/2014/292/regulation/153) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4d01eac064a57c2d98981cb6480c7ad1]: Commencement: [Reg. 153](https://www.legislation.gov.uk/ssi/2014/292/regulation/153) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

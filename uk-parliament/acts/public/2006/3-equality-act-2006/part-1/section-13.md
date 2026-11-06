@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) In pursuance of its duties under sections 8 and 9[^key-76d5603d45b0bc4872ad654b557ae510] the Commission may—
+(1) In pursuance of its duties under sections 8 and 9[^c-76d5603d45b0bc4872ad654b557ae510] the Commission may—
 
 - (a) publish or otherwise disseminate ideas or information;
 - (b) undertake research;
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76d5603d45b0bc4872ad654b557ae510]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/13/1) substituted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/7), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
+[^c-76d5603d45b0bc4872ad654b557ae510]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/13/1) substituted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(7)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/7), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)

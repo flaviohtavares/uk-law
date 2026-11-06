@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Determination of unpaid tax and appeal against determination[^key-51829e4469b8189c6b65494fd89d9f63]
+## 38. Determination of unpaid tax and appeal against determination[^c-51829e4469b8189c6b65494fd89d9f63]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In regulation 80 (determination of unpaid tax and appeal against determination)â
 
 ## Annotations
 
-[^key-51829e4469b8189c6b65494fd89d9f63]: Commencement: Reg. 38 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-51829e4469b8189c6b65494fd89d9f63]: Commencement: Reg. 38 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

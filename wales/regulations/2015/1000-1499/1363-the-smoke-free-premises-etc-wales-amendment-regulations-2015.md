@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Smoke-free Premises etc. (Wales) (Amendment) Regulations 2015 (revoked)[^key-de8c9df417bd2433bb0704aa0e2cf9eb]
+The Smoke-free Premises etc. (Wales) (Amendment) Regulations 2015 (revoked)[^c-de8c9df417bd2433bb0704aa0e2cf9eb]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into force
 
 1 October 2015
 
-[^key-de8c9df417bd2433bb0704aa0e2cf9eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de8c9df417bd2433bb0704aa0e2cf9eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-de8c9df417bd2433bb0704aa0e2cf9eb]
+## 1. Title, commencement, application and interpretation[^c-de8c9df417bd2433bb0704aa0e2cf9eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-de8c9df417bd2433bb0704aa0e2cf9eb]
+## 2. Amendment of the principal Regulations[^c-de8c9df417bd2433bb0704aa0e2cf9eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de8c9df417bd2433bb0704aa0e2cf9eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de8c9df417bd2433bb0704aa0e2cf9eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-de8c9df417bd2433bb0704aa0e2cf9eb]
+## SCHEDULE[^c-de8c9df417bd2433bb0704aa0e2cf9eb]
 
 Regulation 2(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de8c9df417bd2433bb0704aa0e2cf9eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de8c9df417bd2433bb0704aa0e2cf9eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de8c9df417bd2433bb0704aa0e2cf9eb]: Textual amendment: Regulations revoked (1.3.2021) by [The Smoke-free Premises and Vehicles (Wales) Regulations 2020 (S.I. 2020/1211)](https://www.legislation.gov.uk/uksi/2020/1211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/25/b)
+[^c-de8c9df417bd2433bb0704aa0e2cf9eb]: Textual amendment: Regulations revoked (1.3.2021) by [The Smoke-free Premises and Vehicles (Wales) Regulations 2020 (S.I. 2020/1211)](https://www.legislation.gov.uk/uksi/2020/1211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/25/b)

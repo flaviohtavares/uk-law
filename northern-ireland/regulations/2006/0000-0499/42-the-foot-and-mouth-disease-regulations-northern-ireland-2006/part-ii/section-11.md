@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Veterinary inquiry into the existence of disease and declaration of suspect premises and infected premises[^key-9e3e1aed2d0c0e957316439559c60596]
+## 11. Veterinary inquiry into the existence of disease and declaration of suspect premises and infected premises[^c-9e3e1aed2d0c0e957316439559c60596]
 
 *Extent: N.I.*
 
@@ -70,6 +70,6 @@ and in sub-paragraphs (c), (e) and (f) “premises” includes premises outside 
 
 ## Annotations
 
-[^key-9e3e1aed2d0c0e957316439559c60596]: Commencement: Reg. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-9e3e1aed2d0c0e957316439559c60596]: Commencement: Reg. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00016]: Footnote: As inserted by [S.R. 2006 No. 41](https://www.legislation.gov.uk/nisr/2006/41)

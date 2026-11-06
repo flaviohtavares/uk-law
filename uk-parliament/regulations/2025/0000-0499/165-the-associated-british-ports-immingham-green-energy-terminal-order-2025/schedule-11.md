@@ -22,18 +22,18 @@ summary: ''
 
 Article 24
 
-### 1. Compensation enactments[^key-6f0199002ef9cba82255deed2e0ffa36]
+### 1. Compensation enactments[^c-6f0199002ef9cba82255deed2e0ffa36]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right, by the creation of a new right or imposition of a restrictive covenant as they apply in respect of compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-c5794ce24f144324cd565d3ea4c2be95] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00109] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-c5794ce24f144324cd565d3ea4c2be95] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00109] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4(5))—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-99f53fa0f4c8a26c24ed3394fe468ed3] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph 3(2).[^key-cb7653a7d102c0ee21d79935326b5898]
+**3.**[^c-99f53fa0f4c8a26c24ed3394fe468ed3] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph 3(2).[^c-cb7653a7d102c0ee21d79935326b5898]
 
 (2) For Section 5A(5A) (relevant valuation date) of the 1961 Act, omit the words after “If” and substitute—
 
@@ -45,7 +45,7 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of the 1965 Act[^key-f048e3cd74a4333dd82c77326f173cf4]
+### 4. Application of the 1965 Act[^c-f048e3cd74a4333dd82c77326f173cf4]
 
 (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right, or to the imposition under this Order of a restrictive covenant, as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land must be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -139,21 +139,21 @@ are modified to secure that, as against persons with interests in the land which
 
 .
 
-(11) In this Schedule, references to entering on and taking possession of land do not include doing so under articles 20 (protective works), 31 (temporary use of land[^key-3a821bf2cb56a7bdff40761525062551] for constructing the authorised project) or 32 (temporary use of land for maintaining the authorised development) of this Order.
+(11) In this Schedule, references to entering on and taking possession of land do not include doing so under articles 20 (protective works), 31 (temporary use of land[^c-3a821bf2cb56a7bdff40761525062551] for constructing the authorised project) or 32 (temporary use of land for maintaining the authorised development) of this Order.
 
 ## Annotations
 
-[^key-6f0199002ef9cba82255deed2e0ffa36]: Commencement: Sch. 11 para. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-6f0199002ef9cba82255deed2e0ffa36]: Commencement: Sch. 11 para. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-c5794ce24f144324cd565d3ea4c2be95]: Commencement: Sch. 11 para. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-c5794ce24f144324cd565d3ea4c2be95]: Commencement: Sch. 11 para. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00109]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-99f53fa0f4c8a26c24ed3394fe468ed3]: Commencement: Sch. 11 para. 3 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-99f53fa0f4c8a26c24ed3394fe468ed3]: Commencement: Sch. 11 para. 3 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-cb7653a7d102c0ee21d79935326b5898]: Textual amendment: Words in [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/uksi/2025/165/schedule/11/paragraph/3/1) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-cb7653a7d102c0ee21d79935326b5898]: Textual amendment: Words in [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/uksi/2025/165/schedule/11/paragraph/3/1) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
-[^key-f048e3cd74a4333dd82c77326f173cf4]: Commencement: Sch. 11 para. 4 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-f048e3cd74a4333dd82c77326f173cf4]: Commencement: Sch. 11 para. 4 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00110]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56). Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -167,4 +167,4 @@ are modified to secure that, as against persons with interests in the land which
 
 [^f00115]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56). Section 20 was amended by paragraph 4 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-3a821bf2cb56a7bdff40761525062551]: Textual amendment: Words in [Sch. 11 para. 4(11)](https://www.legislation.gov.uk/uksi/2025/165/schedule/11/paragraph/4/11) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-3a821bf2cb56a7bdff40761525062551]: Textual amendment: Words in [Sch. 11 para. 4(11)](https://www.legislation.gov.uk/uksi/2025/165/schedule/11/paragraph/4/11) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

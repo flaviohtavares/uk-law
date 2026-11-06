@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Meaning of European deposit-taker[^key-fb5e99f4f82e3e4473f82342a40e5732]
+## 136. Meaning of European deposit-taker[^c-fb5e99f4f82e3e4473f82342a40e5732]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb5e99f4f82e3e4473f82342a40e5732]: Textual amendment: [Art. 136](https://www.legislation.gov.uk/uksi/2001/3629/article/136) revoked (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1)
+[^c-fb5e99f4f82e3e4473f82342a40e5732]: Textual amendment: [Art. 136](https://www.legislation.gov.uk/uksi/2001/3629/article/136) revoked (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1)

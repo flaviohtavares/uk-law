@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Part 9 care plan[^key-806126839410b1df6e16d01ee82191d1][^key-35c03386ce7d5cc2dc4301abe9fd7ed0][^key-035d701cf1f7accd65798000365c534e][^key-9366a4062593cd2774c7a0f7ae47359d]
+## 137. Part 9 care plan[^c-806126839410b1df6e16d01ee82191d1][^c-35c03386ce7d5cc2dc4301abe9fd7ed0][^c-035d701cf1f7accd65798000365c534e][^c-9366a4062593cd2774c7a0f7ae47359d]
 
 *Extent: S*
 
@@ -50,10 +50,10 @@ summary: ''
 
 ## Annotations
 
-[^key-806126839410b1df6e16d01ee82191d1]: Commencement: S. 137 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-806126839410b1df6e16d01ee82191d1]: Commencement: S. 137 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-35c03386ce7d5cc2dc4301abe9fd7ed0]: Commencement: S. 137 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-35c03386ce7d5cc2dc4301abe9fd7ed0]: Commencement: S. 137 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-035d701cf1f7accd65798000365c534e]: Modification: S. 137 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2005/467/regulation/42/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-035d701cf1f7accd65798000365c534e]: Modification: S. 137 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2005/467/regulation/42/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-9366a4062593cd2774c7a0f7ae47359d]: Modification: S. 137 modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [29(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/29/1), [(3)](https://www.legislation.gov.uk/ssi/2008/356/regulation/29/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-9366a4062593cd2774c7a0f7ae47359d]: Modification: S. 137 modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [29(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/29/1), [(3)](https://www.legislation.gov.uk/ssi/2008/356/regulation/29/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))

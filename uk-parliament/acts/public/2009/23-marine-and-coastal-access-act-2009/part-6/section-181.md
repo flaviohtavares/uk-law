@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. IFC authority as party to proceedings[^key-f010aa6d8c75bf92c81d56b6be8793ec]
+## 181. IFC authority as party to proceedings[^c-f010aa6d8c75bf92c81d56b6be8793ec]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ An IFC authority is capable (despite being an unincorporated body) of—
 
 ## Annotations
 
-[^key-f010aa6d8c75bf92c81d56b6be8793ec]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2009/23/section/181) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(i)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2195/article/4))
+[^c-f010aa6d8c75bf92c81d56b6be8793ec]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2009/23/section/181) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(i)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2195/article/4))

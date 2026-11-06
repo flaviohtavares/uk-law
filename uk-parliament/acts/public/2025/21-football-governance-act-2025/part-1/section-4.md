@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Meanings of “officer” and “senior manager” etc[^key-e91a21ebf526879f763e844cecb9a435]
+## 4. Meanings of “officer” and “senior manager” etc[^c-e91a21ebf526879f763e844cecb9a435]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e91a21ebf526879f763e844cecb9a435]: Commencement: S. 4 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)
+[^c-e91a21ebf526879f763e844cecb9a435]: Commencement: S. 4 in force at Royal Assent, see [s. 100(2)(a)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/a)

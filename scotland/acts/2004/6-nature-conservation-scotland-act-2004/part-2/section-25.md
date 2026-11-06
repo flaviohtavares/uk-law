@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Nature conservation orders and related orders: procedure[^key-5fac00a6c82ed2c8b1baabc57bbe37d7]
+## 25. Nature conservation orders and related orders: procedure[^c-5fac00a6c82ed2c8b1baabc57bbe37d7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 sets out procedure relating to nature conservation orders, amending o
 
 ## Annotations
 
-[^key-5fac00a6c82ed2c8b1baabc57bbe37d7]: Commencement: S. 25 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-5fac00a6c82ed2c8b1baabc57bbe37d7]: Commencement: S. 25 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

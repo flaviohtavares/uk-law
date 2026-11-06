@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 344. Compensation: blight notice including claim in respect of unaffected area[^key-6330d31cdbef77ca4e87cc61ad54c419]
+## 344. Compensation: blight notice including claim in respect of unaffected area[^c-6330d31cdbef77ca4e87cc61ad54c419]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6330d31cdbef77ca4e87cc61ad54c419]: Commencement: S. 344 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6330d31cdbef77ca4e87cc61ad54c419]: Commencement: S. 344 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

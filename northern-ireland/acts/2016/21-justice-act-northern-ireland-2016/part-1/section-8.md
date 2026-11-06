@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Referral to the court in case where no collection order made[^key-34348120e991a242dd1643e885964c9b]
+## 8. Referral to the court in case where no collection order made[^c-34348120e991a242dd1643e885964c9b]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34348120e991a242dd1643e885964c9b]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/21/section/8) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-34348120e991a242dd1643e885964c9b]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/21/section/8) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

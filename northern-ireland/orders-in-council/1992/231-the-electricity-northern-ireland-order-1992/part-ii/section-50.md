@@ -45,7 +45,7 @@ and this paragraph applies to any activities connected with the generation, tran
 - (b) functions under the Energy (Northern Ireland) Order 2003 relating to electricity and[^c20662491]
 - (c) functions under the Electricity (Single Wholesale Market) (Northern Ireland) Order 2007.
 
-(3B)[^key-4861944f36c2108db156e53da00c4cbd] The activities to which paragraph (1) applies include, in particular, the matters specified in the following provisions of the Directive as matters to be monitored—
+(3B)[^c-4861944f36c2108db156e53da00c4cbd] The activities to which paragraph (1) applies include, in particular, the matters specified in the following provisions of the Directive as matters to be monitored—
 
 - (a) Article 35(3);
 - (b) Article 59(1)(k), (l), (n), (p), (q), and (u) to (w);
@@ -75,4 +75,4 @@ and this paragraph applies to any activities connected with the generation, tran
 
 [^c20662491]: Textual amendment: [Art. 50(3A)(c)](https://www.legislation.gov.uk/nisi/1992/231/article/50/3A/c) and preceding word added (20.6.2007) by [Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 (S.I. 2007/913 (N.I. 7))](https://www.legislation.gov.uk/nisi/2007/913), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/913/article/1/3), [12](https://www.legislation.gov.uk/nisi/2007/913/article/12), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/nisi/2007/913/schedule/4/paragraph/6/2); [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule)
 
-[^key-4861944f36c2108db156e53da00c4cbd]: Textual amendment: [Art. 50(3B)-(3D)](https://www.legislation.gov.uk/nisi/1992/231/article/50/3B) substituted for [art. 50(3B)](https://www.legislation.gov.uk/nisi/1992/231/article/50/3B) (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [15](https://www.legislation.gov.uk/nisr/2020/307/regulation/15)
+[^c-4861944f36c2108db156e53da00c4cbd]: Textual amendment: [Art. 50(3B)-(3D)](https://www.legislation.gov.uk/nisi/1992/231/article/50/3B) substituted for [art. 50(3B)](https://www.legislation.gov.uk/nisi/1992/231/article/50/3B) (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [15](https://www.legislation.gov.uk/nisr/2020/307/regulation/15)

@@ -35,56 +35,56 @@ laying down implementing measures for the Rapid alert system for food and feed
 
 (Text with EEA relevance) (repealed) (revoked)
 
-[^key-650e1074ba8421018fc9ca5f807e41ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-650e1074ba8421018fc9ca5f807e41ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-650e1074ba8421018fc9ca5f807e41ca]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Duties of members of the network[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 1. Definitions[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Alert notifications[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 2. Duties of members of the network[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Information notifications[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 3. Alert notifications[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Border rejection notifications[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 4. Information notifications[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Follow-up notifications[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 5. Border rejection notifications[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Notification submission[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 6. Follow-up notifications[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Verification of the notification[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 7. Notification submission[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Notification withdrawal and amendments[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 8. Verification of the notification[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Exchange of information with third countries[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 9. Notification withdrawal and amendments[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Publications[^key-650e1074ba8421018fc9ca5f807e41ca]
+## Article 10. Exchange of information with third countries[^c-650e1074ba8421018fc9ca5f807e41ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-650e1074ba8421018fc9ca5f807e41ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Publications[^c-650e1074ba8421018fc9ca5f807e41ca]
 
-[^key-650e1074ba8421018fc9ca5f807e41ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 12.**[^c-650e1074ba8421018fc9ca5f807e41ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-650e1074ba8421018fc9ca5f807e41ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-650e1074ba8421018fc9ca5f807e41ca]: Textual amendment: Regulation revoked (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/641/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-650e1074ba8421018fc9ca5f807e41ca]: Textual amendment: Regulation revoked (31.12.2020) by [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/641/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

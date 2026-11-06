@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Jurisdiction of Constabulary[^key-940fa6886a449888283574c92b84a169]
+## 56. Jurisdiction of Constabulary[^c-940fa6886a449888283574c92b84a169]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) A member of the Constabulary shall have the powers and privileges of a constable at every other place where it appears to him expedient to be in order to safeguard nuclear material which is in transit.
 
-(3A)[^key-77e66f7fed70aad2b1494d354a7dc39b] A member of the Constabulary has the powers and privileges of a constable at every place where additional police services are being provided under section 55A.
+(3A)[^c-77e66f7fed70aad2b1494d354a7dc39b] A member of the Constabulary has the powers and privileges of a constable at every place where additional police services are being provided under section 55A.
 
 (4) A member of the Constabulary shall have the powers and privileges of a constable at every place where it appears to him expedient to be in order to pursue or to detain a person whom he reasonably believes—
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-940fa6886a449888283574c92b84a169]: Commencement: S. 56 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-940fa6886a449888283574c92b84a169]: Commencement: S. 56 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-77e66f7fed70aad2b1494d354a7dc39b]: Textual amendment: [S. 56(3A)](https://www.legislation.gov.uk/ukpga/2004/20/section/56/3A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/2), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-77e66f7fed70aad2b1494d354a7dc39b]: Textual amendment: [S. 56(3A)](https://www.legislation.gov.uk/ukpga/2004/20/section/56/3A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/2), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

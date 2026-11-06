@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Mitchel Troy, Monmouth, Raglan and Whitecastle — changes in community boundaries and consequential changes to electoral arrangements[^key-986cd28f30e1acf8c74f616387fdb6e4][^key-b7d65cefc6dc79767a5f61ad0bafc585]
+## 187. Mitchel Troy, Monmouth, Raglan and Whitecastle — changes in community boundaries and consequential changes to electoral arrangements[^c-986cd28f30e1acf8c74f616387fdb6e4][^c-b7d65cefc6dc79767a5f61ad0bafc585]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Raglan shown hatched on Map 123—
 
 ## Annotations
 
-[^key-986cd28f30e1acf8c74f616387fdb6e4]: Commencement: Art. 187 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-986cd28f30e1acf8c74f616387fdb6e4]: Commencement: Art. 187 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-b7d65cefc6dc79767a5f61ad0bafc585]: Commencement: [Art. 187](https://www.legislation.gov.uk/wsi/2021/1227/article/187) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-b7d65cefc6dc79767a5f61ad0bafc585]: Commencement: [Art. 187](https://www.legislation.gov.uk/wsi/2021/1227/article/187) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Powers of Tribunal on review under section 101[^key-c2cee653cc39f284bb3c69aefd732056]
+## 102. Powers of Tribunal on review under section 101[^c-c2cee653cc39f284bb3c69aefd732056]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2cee653cc39f284bb3c69aefd732056]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2003/13/section/102) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-c2cee653cc39f284bb3c69aefd732056]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2003/13/section/102) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

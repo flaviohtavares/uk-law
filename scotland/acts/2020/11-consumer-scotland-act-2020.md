@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Establishment
 
-#### 1. Consumer Scotland[^key-a502aecc7630cc25dd585ec9b743f242]
+#### 1. Consumer Scotland[^c-a502aecc7630cc25dd585ec9b743f242]
 
 (1) A body corporate to be known as Consumer Scotland (in Gaelic, Luchd-Cleachdaidh Alba) is established.
 
@@ -48,7 +48,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Functions
 
-#### 2. The general function of providing consumer advocacy and advice[^key-d84bcfb5aff387edca71eacf4a5515f8]
+#### 2. The general function of providing consumer advocacy and advice[^c-d84bcfb5aff387edca71eacf4a5515f8]
 
 (1) Consumer Scotland has the general function of providing consumer advocacy and advice with a view to—
 
@@ -64,7 +64,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) In exercising its general function, Consumer Scotland has the particular functions set out in sections 3 to 6.
 
-#### 3. The representative function[^key-024359202b454e8f0d25ca6f57e9ca5f]
+#### 3. The representative function[^c-024359202b454e8f0d25ca6f57e9ca5f]
 
 (1) Consumer Scotland may—
 
@@ -82,7 +82,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (d) any regulatory body established by or under an enactment,
 - (e) any other person whom Consumer Scotland considers might have an interest in the matter in question.
 
-#### 4. The research and investigation function[^key-27a59d6d6e2c57321d749ec188215540]
+#### 4. The research and investigation function[^c-27a59d6d6e2c57321d749ec188215540]
 
 (1) Consumer Scotland may obtain, analyse, and keep under review—
 
@@ -95,7 +95,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) into sectors or practices which it considers cause, or may cause, harm to consumers, or
 - (b) otherwise for the purpose of fulfilling its general function.
 
-#### 5. The information function[^key-20973d7ae5b9c709429e61a652a15d18]
+#### 5. The information function[^c-20973d7ae5b9c709429e61a652a15d18]
 
 (1) Consumer Scotland may provide or secure the provision of advice and information to consumers—
 
@@ -108,7 +108,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) publish or otherwise make available information in any manner Consumer Scotland considers appropriate for the purpose of bringing it to the attention of those likely to have an interest in it,
 - (b) support (financially or otherwise), facilitate or co-ordinate the activities of other persons.
 
-#### 6. The recall of goods function[^key-0116cae455a820cb94478a706e59cc3b]
+#### 6. The recall of goods function[^c-0116cae455a820cb94478a706e59cc3b]
 
 (1) Consumer Scotland must establish and operate, or secure the establishment and operation of, a publicly available database of recalls of goods in Scotland which Consumer Scotland considers to be major (either in terms of the significance of the potential risk to individuals from the goods or the scale of the recall).
 
@@ -121,7 +121,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) For the purpose of subsection (1), a recall of goods includes a case where, instead of goods being taken back from consumers, corrective measures are being taken in relation to them.
 
-#### 7. General provision about functions[^key-fa0cc11b8e7b0d100f7c8d6367a552df]
+#### 7. General provision about functions[^c-fa0cc11b8e7b0d100f7c8d6367a552df]
 
 (1) In exercising its functions, Consumer Scotland must comply with the requirements of this section.
 
@@ -144,13 +144,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (9) In subsection (7), “**communicating in an inclusive way**” means communicating in a way that ensures that individuals who have difficulty communicating (in relation to speech, language or otherwise) can receive information and express themselves in ways that best meet each individual's needs.
 
-#### 8. Exercise of functions[^key-43e276ce4f602934a96521b1808602b5]
+#### 8. Exercise of functions[^c-43e276ce4f602934a96521b1808602b5]
 
 Nothing in this Act imposes on Consumer Scotland a duty to exercise any of its functions on behalf of or at the request of a particular consumer.
 
 ### Information-gathering
 
-#### 9. Requirement to provide information to Consumer Scotland[^key-ede2d8d32de378b0402b97e6bc945cb1]
+#### 9. Requirement to provide information to Consumer Scotland[^c-ede2d8d32de378b0402b97e6bc945cb1]
 
 (1) Consumer Scotland may, by notice, require a person falling within subsection (2)—
 
@@ -191,13 +191,13 @@ Nothing in this Act imposes on Consumer Scotland a duty to exercise any of its f
 
 the persons consulted under subsection (7) must include the regulator whom they propose to specify.
 
-#### 10. Failure by a designated regulator to comply with a section 9 notice[^key-8b5a21690d75bb4ed04814c8a25861dd]
+#### 10. Failure by a designated regulator to comply with a section 9 notice[^c-8b5a21690d75bb4ed04814c8a25861dd]
 
 (1) If a designated regulator fails to comply with a notice under section 9(1), the regulator must, if so required by Consumer Scotland, provide Consumer Scotland with a written statement setting out the reasons for the failure.
 
 (2) Consumer Scotland may publish any statement received under subsection (1).
 
-#### 11. Enforcement by a designated regulator of a section 9 notice[^key-60a83bb519c556b30e8ec985a18cae9e]
+#### 11. Enforcement by a designated regulator of a section 9 notice[^c-60a83bb519c556b30e8ec985a18cae9e]
 
 (1) Where a regulated provider fails to comply with a notice under section 9(1), Consumer Scotland may refer the failure to the relevant designated regulator.
 
@@ -217,7 +217,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 (6) For the purposes of this section, “**relevant designated regulator**”, in relation to a regulated provider, means the designated regulator specified in relation to the regulated provider in regulations under section 9(6)(b).
 
-#### 12. Enforcement by the court of a section 9 notice[^key-4a5bc60e2e8254419925f595b3f4088d]
+#### 12. Enforcement by the court of a section 9 notice[^c-4a5bc60e2e8254419925f595b3f4088d]
 
 (1) This section applies—
 
@@ -232,7 +232,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 - (a) the notice, or
 - (b) such directions for the like purpose as are contained in the order.
 
-#### 13. Exemptions from requirement to provide information[^key-dcb03e27bc0c712e867eeb3aec2f461f]
+#### 13. Exemptions from requirement to provide information[^c-dcb03e27bc0c712e867eeb3aec2f461f]
 
 (1) No person may be required by a notice under section 9(1) or a court order under section 12 to produce a document or otherwise provide information which that person would be entitled to refuse to produce or provide in proceedings before the Court of Session.
 
@@ -244,7 +244,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 ### Accountability
 
-#### 14. Forward work programmes[^key-b1e6d9f2ad2cd849d312373352cd8391]
+#### 14. Forward work programmes[^c-b1e6d9f2ad2cd849d312373352cd8391]
 
 (1) Consumer Scotland must before each programme year prepare and publish a document (the “forward work programme”) containing—
 
@@ -264,7 +264,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 - (a) the first period of 12 months beginning on 1 April following the day this section comes into force, and
 - (b) each successive period of 12 months.
 
-#### 15. Reports on investigations[^key-35076c6303f2a400f4b8debb8bcc037a]
+#### 15. Reports on investigations[^c-35076c6303f2a400f4b8debb8bcc037a]
 
 (1) Consumer Scotland must, as soon as reasonably practicable after the conclusion of any investigation conducted under section 4(2), prepare and publish a report setting out—
 
@@ -276,7 +276,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 (3) In subsection (1)(c), “**specified**” means specified in regulations made by the Scottish Ministers under section 7(8).
 
-#### 16. Annual report[^key-03040a4cdadb6856554f5eda0b923297]
+#### 16. Annual report[^c-03040a4cdadb6856554f5eda0b923297]
 
 (1) Consumer Scotland must, as soon as reasonably practicable after the end of each financial year—
 
@@ -290,7 +290,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 (4) In subsection (3), “**specified**” means specified in regulations made by the Scottish Ministers under section 7(8).
 
-#### 17. Consumer welfare report[^key-249f1cbce0986a6228188f866599e85a]
+#### 17. Consumer welfare report[^c-249f1cbce0986a6228188f866599e85a]
 
 (1) Consumer Scotland must, as soon as reasonably practicable after the end of each reporting period, prepare and publish a report on—
 
@@ -313,7 +313,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 ### Finance
 
-#### 18. Grants and loans by Consumer Scotland[^key-c11ea15ef8345e7cd890bb2bcaf86b46]
+#### 18. Grants and loans by Consumer Scotland[^c-c11ea15ef8345e7cd890bb2bcaf86b46]
 
 (1) Consumer Scotland may make grants and loans to such persons as it considers appropriate for the purposes of, or in connection with, or where it appears to it to be otherwise conducive to, the performance of its functions.
 
@@ -321,7 +321,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 ### Review of performance and modification of functions
 
-#### 19. Review of Consumer Scotland's performance[^key-516e1349317299a642f0214b548ccc59]
+#### 19. Review of Consumer Scotland's performance[^c-516e1349317299a642f0214b548ccc59]
 
 (1) Consumer Scotland must, at least once in every review period, appoint a suitable individual or body to review and prepare a report on the performance of its functions during the period.
 
@@ -348,7 +348,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 - (a) the period of 3 years beginning with the date on which section 1 comes into force, and
 - (b) each subsequent period of 5 years.
 
-#### 20. Power to modify Consumer Scotland's functions[^key-68249a4882683f08cf84640a7fe019a7]
+#### 20. Power to modify Consumer Scotland's functions[^c-68249a4882683f08cf84640a7fe019a7]
 
 (1) Subject to subsection (3), the Scottish Ministers may by regulations—
 
@@ -373,7 +373,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 ## PART 2 — Consumer interests
 
-### 21. Duty to have regard to consumer interests[^key-136c586a07148dd915860bf03e60af5c]
+### 21. Duty to have regard to consumer interests[^c-136c586a07148dd915860bf03e60af5c]
 
 (1) A relevant public authority must, when making decisions of a strategic nature about how to exercise its functions, have regard to—
 
@@ -391,7 +391,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 (5) Where the Scottish Ministers propose to specify a person under subsection (2) who is not currently a relevant public authority, the persons consulted under subsection (4) must include the person whom they propose to specify.
 
-### 22. Guidance about section 21 duty[^key-b99a6313add07fa17959687911a37ab5]
+### 22. Guidance about section 21 duty[^c-b99a6313add07fa17959687911a37ab5]
 
 (1) Consumer Scotland may, with the approval of the Scottish Ministers, issue guidance about the duty imposed under section 21.
 
@@ -413,7 +413,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 - (a) issue guidance which varies guidance issued under that subsection,
 - (b) revoke guidance issued under that subsection.
 
-### 23. Reporting on section 21 duty[^key-4371622f6eda0b9500ad9661c483e62b]
+### 23. Reporting on section 21 duty[^c-4371622f6eda0b9500ad9661c483e62b]
 
 (1) A relevant public authority must publish information about the steps which it has taken to comply with the duty imposed under section 21.
 
@@ -428,7 +428,7 @@ the persons consulted under subsection (7) must include the regulator whom they 
 
 ## PART 3 — Interpretation and final provisions
 
-### 24. Meaning of “consumer”[^key-938ec4e01854443bdc32043fdd8371b9]
+### 24. Meaning of “consumer”[^c-938ec4e01854443bdc32043fdd8371b9]
 
 (1) In this Act, “**consumer**” means—
 
@@ -496,7 +496,7 @@ In this Act—
 
 (2) Regulations under subsection (1) may modify any enactment (including this Act).
 
-### 28. Amendment of public bodies legislation[^key-a281a7d50affe138e836a0b4d80562bb]
+### 28. Amendment of public bodies legislation[^c-a281a7d50affe138e836a0b4d80562bb]
 
 Schedule 2 amends other Acts so that their provisions apply to Consumer Scotland.
 
@@ -521,7 +521,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Status
 
-**1.**[^key-2c93115402dd6b24dcdc44eb438a4b35] (1) Consumer Scotland—
+**1.**[^c-2c93115402dd6b24dcdc44eb438a4b35] (1) Consumer Scotland—
 
 - (a) is not a servant or agent of the Crown, and
 - (b) does not enjoy any status, immunity or privilege of the Crown.
@@ -530,7 +530,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Membership
 
-**2.**[^key-632f4c4bbb22982b9c477a4944e019e6] (1) Consumer Scotland is to consist of—
+**2.**[^c-632f4c4bbb22982b9c477a4944e019e6] (1) Consumer Scotland is to consist of—
 
 - (a) a member appointed by the Scottish Ministers to chair Consumer Scotland, and
 - (b) at least 2 but no more than 4 other members appointed by the Scottish Ministers.
@@ -552,7 +552,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Persons who may not be members
 
-**3.**[^key-513c7e7e1823fabd16c706805cb945bb] (1) The Scottish Ministers may not appoint a person as a member of Consumer Scotland if—
+**3.**[^c-513c7e7e1823fabd16c706805cb945bb] (1) The Scottish Ministers may not appoint a person as a member of Consumer Scotland if—
 
 - (a) the person is—
   - (i) a member of the Scottish Parliament,
@@ -581,7 +581,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Early termination of membership
 
-**4.**[^key-3a02d4513a988617a9c62e312d84e8a0] (1) A member of Consumer Scotland may resign by giving notice in writing to the Scottish Ministers.
+**4.**[^c-3a02d4513a988617a9c62e312d84e8a0] (1) A member of Consumer Scotland may resign by giving notice in writing to the Scottish Ministers.
 
 (2) A person's membership of Consumer Scotland ends if the person becomes disqualified as a member after appointment.
 
@@ -596,7 +596,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Members' remuneration, allowances and pensions
 
-**5.**[^key-31f05ad977d2c6d13e89ffb1a4b443f0] (1) Consumer Scotland may pay each member such remuneration and allowances (including expenses) as it, with the approval of the Scottish Ministers, determines.
+**5.**[^c-31f05ad977d2c6d13e89ffb1a4b443f0] (1) Consumer Scotland may pay each member such remuneration and allowances (including expenses) as it, with the approval of the Scottish Ministers, determines.
 
 (2) Consumer Scotland may pay, or make arrangements for the payment of, such pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of Consumer Scotland as it, with the approval of the Scottish Ministers, determines.
 
@@ -609,7 +609,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Chief executive and other staff
 
-**6.**[^key-acac4620821de2cc12a4014f20cb146b] (1) Consumer Scotland is to have, as a member of staff, a chief executive.
+**6.**[^c-acac4620821de2cc12a4014f20cb146b] (1) Consumer Scotland is to have, as a member of staff, a chief executive.
 
 (2) Consumer Scotland is to appoint each chief executive with the approval of the Scottish Ministers.
 
@@ -621,7 +621,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Pensions of chief executive and other staff
 
-**7.**[^key-239bd9206af24aa45bc7c59e1343e1e5] (1) Consumer Scotland may pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of staff of Consumer Scotland.
+**7.**[^c-239bd9206af24aa45bc7c59e1343e1e5] (1) Consumer Scotland may pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of staff of Consumer Scotland.
 
 (2) Those arrangements may include—
 
@@ -632,7 +632,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Committees
 
-**8.**[^key-7eccaa86789239bbc6c6eae9f47a3fb8] (1) Consumer Scotland may establish committees and sub-committees.
+**8.**[^c-7eccaa86789239bbc6c6eae9f47a3fb8] (1) Consumer Scotland may establish committees and sub-committees.
 
 (2) The membership of a committee or sub-committee may include or consist of persons who are not members of Consumer Scotland (but those persons are not entitled to vote at meetings).
 
@@ -650,7 +650,7 @@ The short title of this Act is the Consumer Scotland Act 2020.
 
 ### Authority to perform functions
 
-**9.**[^key-26f6b4da96e533a09051cad17ab68516] (1) ​Consumer Scotland may authorise—
+**9.**[^c-26f6b4da96e533a09051cad17ab68516] (1) ​Consumer Scotland may authorise—
 
 - (a) any of its members,
 - (b) any committee or sub-committee established by it,
@@ -671,11 +671,11 @@ to perform such of its functions (and to such extent) as it determines.
 
 ### Regulation of procedure
 
-**10.**[^key-8b97cf393801abeca5fb97b392f14e3f] Consumer Scotland may regulate its own procedure (including quorum) and that of any committee or sub-committee.
+**10.**[^c-8b97cf393801abeca5fb97b392f14e3f] Consumer Scotland may regulate its own procedure (including quorum) and that of any committee or sub-committee.
 
 ### Validity of things done
 
-**11.**[^key-504ec6b5b74d82a23db97e7388dfd05e] The validity of anything done by Consumer Scotland or its committees or sub-committees is not affected by—
+**11.**[^c-504ec6b5b74d82a23db97e7388dfd05e] The validity of anything done by Consumer Scotland or its committees or sub-committees is not affected by—
 
 - (a) a vacancy in membership,
 - (b) a defect in the appointment of a member,
@@ -683,14 +683,14 @@ to perform such of its functions (and to such extent) as it determines.
 
 ### General powers
 
-**12.**[^key-b3d9c425ee33fbbc37b3d89d33914650] Consumer Scotland may do anything which appears to it—
+**12.**[^c-b3d9c425ee33fbbc37b3d89d33914650] Consumer Scotland may do anything which appears to it—
 
 - (a) to be necessary or expedient for the purposes of, or in connection with, the performance of its functions, or
 - (b) to be otherwise conducive to the performance of its functions.
 
 ### Location of office
 
-**13.**[^key-3e320eeca79ca25e6b802382a72a613c] Consumer Scotland's determination of the location of its office premises is subject to the approval of the Scottish Ministers.
+**13.**[^c-3e320eeca79ca25e6b802382a72a613c] Consumer Scotland's determination of the location of its office premises is subject to the approval of the Scottish Ministers.
 
 ## SCHEDULE 2 — Application of public bodies legislation
 
@@ -698,11 +698,11 @@ to perform such of its functions (and to such extent) as it determines.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000
 
-**1.**[^key-988f17ebebd33c5d54549fd009fa3aca] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
+**1.**[^c-988f17ebebd33c5d54549fd009fa3aca] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
 
 ### Scottish Public Services Ombudsman Act 2002
 
-**2.**[^key-6ffa94cfd9fea7de2daa7c5337eac927] In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities), after paragraph 21ZZC insert—
+**2.**[^c-6ffa94cfd9fea7de2daa7c5337eac927] In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities), after paragraph 21ZZC insert—
 
 > **21ZZD.** Consumer Scotland.
 
@@ -710,7 +710,7 @@ to perform such of its functions (and to such extent) as it determines.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**3.**[^key-e472362af2929abffe8f28d64aced654] In the Freedom of Information (Scotland) Act 2002, in Part 2 of schedule 1 (non-ministerial office holders in the Scottish Administration), after paragraph 7 insert—
+**3.**[^c-e472362af2929abffe8f28d64aced654] In the Freedom of Information (Scotland) Act 2002, in Part 2 of schedule 1 (non-ministerial office holders in the Scottish Administration), after paragraph 7 insert—
 
 > **7ZA.** Consumer Scotland.
 
@@ -718,22 +718,22 @@ to perform such of its functions (and to such extent) as it determines.
 
 ### Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
-**4.**[^key-f5be7b71b56c4e7ed0dc92efb34a98df] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), under the heading “Executive bodies”, after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
+**4.**[^c-f5be7b71b56c4e7ed0dc92efb34a98df] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), under the heading “Executive bodies”, after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**5.**[^key-3ba5ebb7d4dd5600971de411156aba93] In the Public Services Reform (Scotland) Act 2010—
+**5.**[^c-3ba5ebb7d4dd5600971de411156aba93] In the Public Services Reform (Scotland) Act 2010—
 
 - (a) in schedule 5 (improvement of public functions: listed bodies), under the heading “Scottish public authorities with mixed functions or no reserved functions”, after the entry relating to the Common Services Agency for the Scottish Health Service insert— “ Consumer Scotland ”,
 - (b) in schedule 8 (listed public bodies), after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
 
 ### Public Records (Scotland) Act 2011
 
-**6.**[^key-d8652e7c286124b2265491756800b2c8] In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Scottish Administration” after the entry relating to the Chief Medical Officer of the Scottish Administration insert— “ Consumer Scotland ”.
+**6.**[^c-d8652e7c286124b2265491756800b2c8] In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Scottish Administration” after the entry relating to the Chief Medical Officer of the Scottish Administration insert— “ Consumer Scotland ”.
 
 ### Procurement Reform (Scotland) Act 2014
 
-**7.**[^key-1aa23f50e598bf5cf5e4d51aea9b3637] In the Procurement Reform (Scotland) Act 2014, in Part 1 of the schedule (contracting authorities: Scottish Administration and Scottish Parliament), after paragraph 13C insert—
+**7.**[^c-1aa23f50e598bf5cf5e4d51aea9b3637] In the Procurement Reform (Scotland) Act 2014, in Part 1 of the schedule (contracting authorities: Scottish Administration and Scottish Parliament), after paragraph 13C insert—
 
 > **13D.** Consumer Scotland
 
@@ -741,11 +741,11 @@ to perform such of its functions (and to such extent) as it determines.
 
 ### Gender Representation on Public Boards (Scotland) Act 2018
 
-**8.**[^key-31c01f33b700c2d53ce1ecbf237f0ee9] In the Gender Representation on Public Boards (Scotland) Act 2018, in schedule 1 (public authorities), after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
+**8.**[^c-31c01f33b700c2d53ce1ecbf237f0ee9] In the Gender Representation on Public Boards (Scotland) Act 2018, in schedule 1 (public authorities), after the entry relating to Community Justice Scotland insert— “ Consumer Scotland ”.
 
 ### Islands (Scotland) Act 2018
 
-**9.**[^key-cd092328dd9b56b61c42e3b6b352e0bf] In the Islands (Scotland) Act 2018, in the schedule, under the heading “Scottish public authorities with mixed functions or no reserved functions”, after the entry relating to Children's Hearings Scotland insert—
+**9.**[^c-cd092328dd9b56b61c42e3b6b352e0bf] In the Islands (Scotland) Act 2018, in the schedule, under the heading “Scottish public authorities with mixed functions or no reserved functions”, after the entry relating to Children's Hearings Scotland insert—
 
 > **9A.** Consumer Scotland
 
@@ -753,96 +753,96 @@ to perform such of its functions (and to such extent) as it determines.
 
 ## Annotations
 
-[^key-a502aecc7630cc25dd585ec9b743f242]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/11/section/1) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-a502aecc7630cc25dd585ec9b743f242]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/11/section/1) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-d84bcfb5aff387edca71eacf4a5515f8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/11/section/2) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-d84bcfb5aff387edca71eacf4a5515f8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/11/section/2) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-024359202b454e8f0d25ca6f57e9ca5f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/11/section/3) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-024359202b454e8f0d25ca6f57e9ca5f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/11/section/3) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-27a59d6d6e2c57321d749ec188215540]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/11/section/4) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-27a59d6d6e2c57321d749ec188215540]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/11/section/4) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-20973d7ae5b9c709429e61a652a15d18]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/11/section/5) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-20973d7ae5b9c709429e61a652a15d18]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/11/section/5) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-0116cae455a820cb94478a706e59cc3b]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/11/section/6) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-0116cae455a820cb94478a706e59cc3b]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/11/section/6) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-fa0cc11b8e7b0d100f7c8d6367a552df]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/11/section/7) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-fa0cc11b8e7b0d100f7c8d6367a552df]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/11/section/7) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-43e276ce4f602934a96521b1808602b5]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/11/section/8) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-43e276ce4f602934a96521b1808602b5]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/11/section/8) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-ede2d8d32de378b0402b97e6bc945cb1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/11/section/9) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-ede2d8d32de378b0402b97e6bc945cb1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/11/section/9) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-8b5a21690d75bb4ed04814c8a25861dd]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/11/section/10) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-8b5a21690d75bb4ed04814c8a25861dd]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/11/section/10) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-60a83bb519c556b30e8ec985a18cae9e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/11/section/11) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-60a83bb519c556b30e8ec985a18cae9e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/11/section/11) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-4a5bc60e2e8254419925f595b3f4088d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/11/section/12) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-4a5bc60e2e8254419925f595b3f4088d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/11/section/12) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-dcb03e27bc0c712e867eeb3aec2f461f]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/11/section/13) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-dcb03e27bc0c712e867eeb3aec2f461f]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/11/section/13) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-b1e6d9f2ad2cd849d312373352cd8391]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/11/section/14) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-b1e6d9f2ad2cd849d312373352cd8391]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/11/section/14) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-35076c6303f2a400f4b8debb8bcc037a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/11/section/15) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-35076c6303f2a400f4b8debb8bcc037a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/11/section/15) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-03040a4cdadb6856554f5eda0b923297]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/11/section/16) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-03040a4cdadb6856554f5eda0b923297]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/11/section/16) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-249f1cbce0986a6228188f866599e85a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/11/section/17) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-249f1cbce0986a6228188f866599e85a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/11/section/17) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-c11ea15ef8345e7cd890bb2bcaf86b46]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/11/section/18) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-c11ea15ef8345e7cd890bb2bcaf86b46]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/11/section/18) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-516e1349317299a642f0214b548ccc59]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/11/section/19) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-516e1349317299a642f0214b548ccc59]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/11/section/19) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-68249a4882683f08cf84640a7fe019a7]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/11/section/20) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-68249a4882683f08cf84640a7fe019a7]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/11/section/20) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-136c586a07148dd915860bf03e60af5c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/11/section/21) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-136c586a07148dd915860bf03e60af5c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/11/section/21) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-b99a6313add07fa17959687911a37ab5]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/11/section/22) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-b99a6313add07fa17959687911a37ab5]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/11/section/22) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-4371622f6eda0b9500ad9661c483e62b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/11/section/23) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-4371622f6eda0b9500ad9661c483e62b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/11/section/23) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-938ec4e01854443bdc32043fdd8371b9]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/11/section/24) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-938ec4e01854443bdc32043fdd8371b9]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/11/section/24) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-a281a7d50affe138e836a0b4d80562bb]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/11/section/28) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-a281a7d50affe138e836a0b4d80562bb]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/11/section/28) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-2c93115402dd6b24dcdc44eb438a4b35]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/1) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-2c93115402dd6b24dcdc44eb438a4b35]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/1) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-632f4c4bbb22982b9c477a4944e019e6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/2) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-632f4c4bbb22982b9c477a4944e019e6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/2) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-513c7e7e1823fabd16c706805cb945bb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/3) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-513c7e7e1823fabd16c706805cb945bb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/3) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-3a02d4513a988617a9c62e312d84e8a0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/4) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-3a02d4513a988617a9c62e312d84e8a0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/4) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-31f05ad977d2c6d13e89ffb1a4b443f0]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/5) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-31f05ad977d2c6d13e89ffb1a4b443f0]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/5) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-acac4620821de2cc12a4014f20cb146b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/6) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-acac4620821de2cc12a4014f20cb146b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/6) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-239bd9206af24aa45bc7c59e1343e1e5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/7) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-239bd9206af24aa45bc7c59e1343e1e5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/7) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-7eccaa86789239bbc6c6eae9f47a3fb8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/8) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-7eccaa86789239bbc6c6eae9f47a3fb8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/8) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-26f6b4da96e533a09051cad17ab68516]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/9) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-26f6b4da96e533a09051cad17ab68516]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/9) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-8b97cf393801abeca5fb97b392f14e3f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/10) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-8b97cf393801abeca5fb97b392f14e3f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/10) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-504ec6b5b74d82a23db97e7388dfd05e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/11) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-504ec6b5b74d82a23db97e7388dfd05e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/11) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-b3d9c425ee33fbbc37b3d89d33914650]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/12) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-b3d9c425ee33fbbc37b3d89d33914650]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/12) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-3e320eeca79ca25e6b802382a72a613c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/13) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-3e320eeca79ca25e6b802382a72a613c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2020/11/schedule/1/paragraph/13) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-988f17ebebd33c5d54549fd009fa3aca]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/1) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-988f17ebebd33c5d54549fd009fa3aca]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/1) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-6ffa94cfd9fea7de2daa7c5337eac927]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/2) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-6ffa94cfd9fea7de2daa7c5337eac927]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/2) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-e472362af2929abffe8f28d64aced654]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/3) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-e472362af2929abffe8f28d64aced654]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/3) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-f5be7b71b56c4e7ed0dc92efb34a98df]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/4) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-f5be7b71b56c4e7ed0dc92efb34a98df]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/4) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-3ba5ebb7d4dd5600971de411156aba93]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/5) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-3ba5ebb7d4dd5600971de411156aba93]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/5) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-d8652e7c286124b2265491756800b2c8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/6) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-d8652e7c286124b2265491756800b2c8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/6) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-1aa23f50e598bf5cf5e4d51aea9b3637]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/7) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-1aa23f50e598bf5cf5e4d51aea9b3637]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/7) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-31c01f33b700c2d53ce1ecbf237f0ee9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/8) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-31c01f33b700c2d53ce1ecbf237f0ee9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/8) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-cd092328dd9b56b61c42e3b6b352e0bf]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/9) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-cd092328dd9b56b61c42e3b6b352e0bf]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/9) in force at 1.4.2022 by [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Reviews of premises licences: notification of determinations[^key-1f8734f3c96bdb7da06a9942f87960f3]
+## 182. Reviews of premises licences: notification of determinations[^c-1f8734f3c96bdb7da06a9942f87960f3]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f8734f3c96bdb7da06a9942f87960f3]: Commencement: [S. 182](https://www.legislation.gov.uk/asp/2010/13/section/182) in force at 28.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-1f8734f3c96bdb7da06a9942f87960f3]: Commencement: [S. 182](https://www.legislation.gov.uk/asp/2010/13/section/182) in force at 28.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

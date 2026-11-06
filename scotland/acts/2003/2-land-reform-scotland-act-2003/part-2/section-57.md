@@ -43,7 +43,7 @@ the Lands Tribunal may make an order authorising the community body to acquire t
 
 (5) If an owner of land refuses or fails to effect a transfer of land in pursuance of an order under subsection (4) above in accordance with such terms and conditions as may be specified in the order, the Lands Tribunal may authorise its principal clerk to adjust, execute and deliver such deeds or other documents as are necessary to complete the transfer to the like force and effect as if the owner had acted in the manner required by the order.
 
-(6)[^key-b3b3bdcb81502dc6a89e1bec9cffdc26] Where an application under subsection (1) is made by the owner of the land or the community body, the owner or, as the case may be, the community body must, within 7 days of the date on which the application is made, notify Ministers in writing of—
+(6)[^c-b3b3bdcb81502dc6a89e1bec9cffdc26] Where an application under subsection (1) is made by the owner of the land or the community body, the owner or, as the case may be, the community body must, within 7 days of the date on which the application is made, notify Ministers in writing of—
 
 - (a) the making of the application, and
 - (b) the date of making the application.
@@ -55,4 +55,4 @@ the Lands Tribunal may make an order authorising the community body to acquire t
 
 ## Annotations
 
-[^key-b3b3bdcb81502dc6a89e1bec9cffdc26]: Textual amendment: S. 57(6)(7) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 55](https://www.legislation.gov.uk/asp/2015/6/section/55), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-b3b3bdcb81502dc6a89e1bec9cffdc26]: Textual amendment: S. 57(6)(7) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 55](https://www.legislation.gov.uk/asp/2015/6/section/55), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

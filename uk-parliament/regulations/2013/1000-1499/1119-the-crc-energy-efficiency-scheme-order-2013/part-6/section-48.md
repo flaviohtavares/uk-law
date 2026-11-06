@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Information and assistance: public bodies (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+## 48. Information and assistance: public bodies (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) This article applies where an applicant or a participant is a group of public bodies. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(1) This article applies where an applicant or a participant is a group of public bodies. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(2) In paragraph (3), “ *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]**A**” means the public body under article 55(4) or (5) in whose name the compliance account in the Registry is, or is to be, set up. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(2) In paragraph (3), “ *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]**A**” means the public body under article 55(4) or (5) in whose name the compliance account in the Registry is, or is to be, set up. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(3) A may request any other member (“B”) of the group to provide A with such reasonable information and assistance as A may require to comply with Part 2 or to comply with its obligations as a participant. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(3) A may request any other member (“B”) of the group to provide A with such reasonable information and assistance as A may require to comply with Part 2 or to comply with its obligations as a participant. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(4) B must comply with the request within a reasonable time. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(4) B must comply with the request within a reasonable time. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-d5ebc4eeb9cce2a5bf11306755d5fffe]
+## 1. Citation and commencement[^c-d5ebc4eeb9cce2a5bf11306755d5fffe]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Community Charge Benefits (General) Regula
 
 ## Annotations
 
-[^key-d5ebc4eeb9cce2a5bf11306755d5fffe]: Commencement: Reg. 1 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-d5ebc4eeb9cce2a5bf11306755d5fffe]: Commencement: Reg. 1 in force at 11.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

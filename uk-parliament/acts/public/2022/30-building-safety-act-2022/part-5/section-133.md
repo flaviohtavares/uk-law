@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Service charges in respect of remediation works[^key-c3b260287b0c706d571af839868996a6][^key-20100b3d95b6e2ea74f663e1383fbd55]
+## 133. Service charges in respect of remediation works[^c-c3b260287b0c706d571af839868996a6][^c-20100b3d95b6e2ea74f663e1383fbd55]
 
 *Extent: E+W*
 
@@ -95,6 +95,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3b260287b0c706d571af839868996a6]: Commencement: S. 133 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-c3b260287b0c706d571af839868996a6]: Commencement: S. 133 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-20100b3d95b6e2ea74f663e1383fbd55]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2022/30/section/133) in force at 1.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)
+[^c-20100b3d95b6e2ea74f663e1383fbd55]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2022/30/section/133) in force at 1.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/g)

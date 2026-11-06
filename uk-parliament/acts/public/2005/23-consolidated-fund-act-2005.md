@@ -33,30 +33,30 @@ Consolidated Fund Act 2005 (repealed)
 
 \[19th December 2005\]
 
-[^key-811ac204d9057bbd0694d9681f042217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811ac204d9057bbd0694d9681f042217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Use of resources for the year ending with 31st March 2006[^key-811ac204d9057bbd0694d9681f042217][^key-811ac204d9057bbd0694d9681f042217]
+## 1. Use of resources for the year ending with 31st March 2006[^c-811ac204d9057bbd0694d9681f042217][^c-811ac204d9057bbd0694d9681f042217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Issue of the Consolidated Fund for the year ending with 31st March 2006[^key-811ac204d9057bbd0694d9681f042217][^key-811ac204d9057bbd0694d9681f042217]
+## 2. Issue of the Consolidated Fund for the year ending with 31st March 2006[^c-811ac204d9057bbd0694d9681f042217][^c-811ac204d9057bbd0694d9681f042217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources for the year ending with 31st March 2007[^key-811ac204d9057bbd0694d9681f042217][^key-811ac204d9057bbd0694d9681f042217]
+## 3. Use of resources for the year ending with 31st March 2007[^c-811ac204d9057bbd0694d9681f042217][^c-811ac204d9057bbd0694d9681f042217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue of the Consolidated Fund for the year ending with 31st March 2007[^key-811ac204d9057bbd0694d9681f042217][^key-811ac204d9057bbd0694d9681f042217]
+## 4. Issue of the Consolidated Fund for the year ending with 31st March 2007[^c-811ac204d9057bbd0694d9681f042217][^c-811ac204d9057bbd0694d9681f042217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title[^key-811ac204d9057bbd0694d9681f042217][^key-811ac204d9057bbd0694d9681f042217]
+## 5. Short title[^c-811ac204d9057bbd0694d9681f042217][^c-811ac204d9057bbd0694d9681f042217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-811ac204d9057bbd0694d9681f042217]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2005/23) repealed (19.7.2007) by [Appropriation (No. 2) Act 2007 (c. 10)](https://www.legislation.gov.uk/ukpga/2007/10), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/10/schedule/3)
+[^c-811ac204d9057bbd0694d9681f042217]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2005/23) repealed (19.7.2007) by [Appropriation (No. 2) Act 2007 (c. 10)](https://www.legislation.gov.uk/ukpga/2007/10), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/10/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.5. Defendant’s application for prosecution disclosure[^key-e7e0a24889e9b22f8d6a527bf4283da0]
+## 15.5. Defendant’s application for prosecution disclosure[^c-e7e0a24889e9b22f8d6a527bf4283da0]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e0a24889e9b22f8d6a527bf4283da0]: Commencement: [Rule 15.5](https://www.legislation.gov.uk/uksi/2025/909/rule/15.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e7e0a24889e9b22f8d6a527bf4283da0]: Commencement: [Rule 15.5](https://www.legislation.gov.uk/uksi/2025/909/rule/15.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00415]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 8 was amended by section 82 of, and paragraph 7 of Schedule 4 to, the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23) and section 38 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).

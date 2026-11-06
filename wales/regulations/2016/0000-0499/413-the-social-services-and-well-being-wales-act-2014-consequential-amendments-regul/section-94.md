@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**94.**[^key-b948a50e3fe4936554850158ef48cb0a] In section 29 (recoupment of cost of providing services etc.)—
+**94.**[^c-b948a50e3fe4936554850158ef48cb0a] In section 29 (recoupment of cost of providing services etc.)—
 
 - (a) in subsection (7) after “another local authority” insert “or the area of a local authority in Wales”;
 - (b) in subsection (8)[^f00114] after “another local authority” insert “or the area of a local authority in Wales”;
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b948a50e3fe4936554850158ef48cb0a]: Commencement: Reg. 94 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b948a50e3fe4936554850158ef48cb0a]: Commencement: Reg. 94 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00114]: Footnote: Section 29(8) was amended by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), Schedule 5, paragraphs 47 and 52; by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 20, and by [S.I. 2007/961 (W. 85)](https://www.legislation.gov.uk/wsi/2007/961), paragraph 20(1) and (2)(e) of the Schedule.
 

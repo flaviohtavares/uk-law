@@ -91,7 +91,7 @@ An Act to make provision about policing in Northern Ireland; and for connected p
 - [Section 34 — The Police Negotiating Board for the United Kingdom.](part-iv/section-34.md)
 - [Section 35 — Membership of trade unions.](part-iv/section-35.md)
 
-### Part V — Functions of Secretary of State and Department of Justice[^key-b5783d3d100b53191181c6463e1d0965]
+### Part V — Functions of Secretary of State and Department of Justice[^c-b5783d3d100b53191181c6463e1d0965]
 
 *Extent: N.I.*
 
@@ -116,7 +116,7 @@ An Act to make provision about policing in Northern Ireland; and for connected p
 - [Section 48 — Annual and other reports by Chief Constable to Police Authority.](part-vi/section-48.md)
 - [Section 49 — Reports by Chief Constable to Secretary of State.](part-vi/section-49.md)
 
-### Part VII — Police complaints and disciplinary proceedings[^key-1650516ea5fb779836f88fead422fb12]
+### Part VII — Police complaints and disciplinary proceedings[^c-1650516ea5fb779836f88fead422fb12]
 
 *Extent: N.I.*
 
@@ -195,8 +195,8 @@ SCHEDULES
 
 [^c1371599]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1998/32/part/II) (ss. 14-17) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-b5783d3d100b53191181c6463e1d0965]: Textual amendment: Words in Pt. 5 heading inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/19) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-b5783d3d100b53191181c6463e1d0965]: Textual amendment: Words in Pt. 5 heading inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/19) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c1371869]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/ukpga/1998/32/part/VI) (ss. 47-49) repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-1650516ea5fb779836f88fead422fb12]: Modification: Pt. 7 applied (with modifications) (1.7.2008) by [Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008 (S.R. 2008/242)](https://www.legislation.gov.uk/nisr/2008/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/242/regulation/1/2), [4-66](https://www.legislation.gov.uk/nisr/2008/242/regulation/4)
+[^c-1650516ea5fb779836f88fead422fb12]: Modification: Pt. 7 applied (with modifications) (1.7.2008) by [Police Powers for Designated Staff (Complaints and Misconduct) Regulations (Northern Ireland) 2008 (S.R. 2008/242)](https://www.legislation.gov.uk/nisr/2008/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/242/regulation/1/2), [4-66](https://www.legislation.gov.uk/nisr/2008/242/regulation/4)

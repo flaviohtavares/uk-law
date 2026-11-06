@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82A. Interim measures[^key-7c8658e323dd8cfbeddbfb0591b30470]
+## 82A. Interim measures[^c-7c8658e323dd8cfbeddbfb0591b30470]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c8658e323dd8cfbeddbfb0591b30470]: Textual amendment: [S. 82A](https://www.legislation.gov.uk/ukpga/1968/67/section/82A) inserted (24.5.2018 for E.W.S.) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [11](https://www.legislation.gov.uk/uksi/2016/372/article/11); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)
+[^c-7c8658e323dd8cfbeddbfb0591b30470]: Textual amendment: [S. 82A](https://www.legislation.gov.uk/ukpga/1968/67/section/82A) inserted (24.5.2018 for E.W.S.) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [11](https://www.legislation.gov.uk/uksi/2016/372/article/11); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/a/ii)[(2)](https://www.legislation.gov.uk/uksi/2018/512/article/2/2)

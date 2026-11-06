@@ -89,7 +89,7 @@ or subject to modification in both such respects.
 
 ### Gipsy sites occupied by county councils or regional councils[^c6636211]
 
-**11A.**[^c19021221] A site licence shall not be required for the use of land occupied by a county council, or in Scotland by a regional council, as a caravan site providing accommodation for *(Extent: S)* *(affected by repeal, see note)*[^key-5fe35e519ba3695bf7d074bebd6e44cd] persons to whom section 24(8A) of this Act applies[^c6636221] *(Extent: S)* *(affected by repeal, see note)*[^key-5fe35e519ba3695bf7d074bebd6e44cd]. *(Extent: S)* *(affected by repeal, see note)*[^key-5fe35e519ba3695bf7d074bebd6e44cd]
+**11A.**[^c19021221] A site licence shall not be required for the use of land occupied by a county council, or in Scotland by a regional council, as a caravan site providing accommodation for *(Extent: S)* *(affected by repeal, see note)*[^c-5fe35e519ba3695bf7d074bebd6e44cd] persons to whom section 24(8A) of this Act applies[^c6636221] *(Extent: S)* *(affected by repeal, see note)*[^c-5fe35e519ba3695bf7d074bebd6e44cd]. *(Extent: S)* *(affected by repeal, see note)*[^c-5fe35e519ba3695bf7d074bebd6e44cd]
 
 ### Certification of exempted organisations
 
@@ -118,6 +118,6 @@ and, except in the case of an order the sole effect of which is to revoke in who
 
 [^c19021221]: Textual amendment: Para. 11A inserted by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 176](https://www.legislation.gov.uk/ukpga/1980/65/section/176)
 
-[^key-5fe35e519ba3695bf7d074bebd6e44cd]: Textual amendment: [Sch. FIRST para. 11A](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/schedule/FIRST/paragraph/11A) repealed (S.) (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-5fe35e519ba3695bf7d074bebd6e44cd]: Textual amendment: [Sch. FIRST para. 11A](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/schedule/FIRST/paragraph/11A) repealed (S.) (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c6636221]: Textual amendment: Words substituted (S.) by virtue of [Local Government and Planning (Scotland) Act 1982 (c.43, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1982/43), [s.66(1)](https://www.legislation.gov.uk/ukpga/1982/43/section/66/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1982/43/schedule/3/paragraph/3)(*b*)

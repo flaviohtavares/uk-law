@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Extension of home detention curfew[^key-7f4f49d4af957747a1604a484c0a73cf][^key-f7b2af6f8035350585a86ad56937caed]
+## 68. Extension of home detention curfew[^c-7f4f49d4af957747a1604a484c0a73cf][^c-f7b2af6f8035350585a86ad56937caed]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f4f49d4af957747a1604a484c0a73cf]: Commencement: S. 68 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-7f4f49d4af957747a1604a484c0a73cf]: Commencement: S. 68 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-f7b2af6f8035350585a86ad56937caed]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2024/21/section/68) in force at 17.6.2024 by [S.I. 2024/755](https://www.legislation.gov.uk/uksi/2024/755), [reg. 2](https://www.legislation.gov.uk/uksi/2024/755/regulation/2)
+[^c-f7b2af6f8035350585a86ad56937caed]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2024/21/section/68) in force at 17.6.2024 by [S.I. 2024/755](https://www.legislation.gov.uk/uksi/2024/755), [reg. 2](https://www.legislation.gov.uk/uksi/2024/755/regulation/2)

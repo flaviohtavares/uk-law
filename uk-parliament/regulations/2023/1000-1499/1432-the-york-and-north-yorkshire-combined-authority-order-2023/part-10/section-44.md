@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Members of fire committee[^key-c8f80d8c1452ff1eea3178eac5f7d143]
+## 44. Members of fire committee[^c-c8f80d8c1452ff1eea3178eac5f7d143]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8f80d8c1452ff1eea3178eac5f7d143]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2023/1432/article/44) in force at 7.5.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3)
+[^c-c8f80d8c1452ff1eea3178eac5f7d143]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2023/1432/article/44) in force at 7.5.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3)
 
 [^f00103]: Footnote: [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021), to which there are amendments not relevant to this instrument.

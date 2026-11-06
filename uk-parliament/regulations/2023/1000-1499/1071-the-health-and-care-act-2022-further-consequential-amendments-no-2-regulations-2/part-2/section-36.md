@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of the Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009 (Welsh language text)[^key-24ce54aa21d65b6bfc02913ee6701519]
+## 36. Amendment of the Local Health Boards (Constitution, Membership and Procedures) (Wales) Regulations 2009 (Welsh language text)[^c-24ce54aa21d65b6bfc02913ee6701519]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24ce54aa21d65b6bfc02913ee6701519]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2023/1071/regulation/36) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-24ce54aa21d65b6bfc02913ee6701519]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2023/1071/regulation/36) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

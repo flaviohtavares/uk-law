@@ -32,7 +32,7 @@ summary: ''
 
 CREDIT UNIONS
 
-The Credit Unions (Limit on Membership) Order (Northern Ireland) 2006 (revoked)[^key-4320b71be9514a7c32f1d7b12a1c4014]
+The Credit Unions (Limit on Membership) Order (Northern Ireland) 2006 (revoked)[^c-4320b71be9514a7c32f1d7b12a1c4014]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into operation
 
 1st April 2006
 
-[^key-4320b71be9514a7c32f1d7b12a1c4014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4320b71be9514a7c32f1d7b12a1c4014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4320b71be9514a7c32f1d7b12a1c4014]
+## 1. Citation and commencement[^c-4320b71be9514a7c32f1d7b12a1c4014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Limit on membership[^key-4320b71be9514a7c32f1d7b12a1c4014]
+## 2. Limit on membership[^c-4320b71be9514a7c32f1d7b12a1c4014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4320b71be9514a7c32f1d7b12a1c4014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4320b71be9514a7c32f1d7b12a1c4014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4320b71be9514a7c32f1d7b12a1c4014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4320b71be9514a7c32f1d7b12a1c4014]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4320b71be9514a7c32f1d7b12a1c4014]: Textual amendment: Order revoked (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c), [14(d)](https://www.legislation.gov.uk/uksi/2011/2832/article/14/d)
+[^c-4320b71be9514a7c32f1d7b12a1c4014]: Textual amendment: Order revoked (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c), [14(d)](https://www.legislation.gov.uk/uksi/2011/2832/article/14/d)

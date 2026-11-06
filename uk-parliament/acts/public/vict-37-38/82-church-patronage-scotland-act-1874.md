@@ -53,7 +53,7 @@ The right of electing and appointing ministers to vacant churches and parishes i
 
 ## 8. Repeal of inconsistent statutes.
 
-All laws, statutes, and usages inconsistent with this Act are hereby repealed; but nothing in this Act contained shall affect or interfere with the appointment of the minister first appointed as the minister of any new parish quoad sacra[^key-1b2f9b01978f78b844493645287917ad] ... [^c568506] ... .
+All laws, statutes, and usages inconsistent with this Act are hereby repealed; but nothing in this Act contained shall affect or interfere with the appointment of the minister first appointed as the minister of any new parish quoad sacra[^c-1b2f9b01978f78b844493645287917ad] ... [^c568506] ... .
 
 ## 9. Interpretation clause.
 
@@ -73,7 +73,7 @@ The word “**minister**” shall include assistant and successor; . . . [^c5685
 
 [^c568505]: Textual amendment: [Ss. 4–6](https://www.legislation.gov.uk/ukpga/Vict/37-38/82/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/Vict/37-38/82/section/7/2) repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 
-[^key-1b2f9b01978f78b844493645287917ad]: Textual amendment: Words in s. 8 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-1b2f9b01978f78b844493645287917ad]: Textual amendment: Words in s. 8 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c568506]: Textual amendment: Words in s. 8 repealed by [Statute Law Revision Act 1883 (c. 39)](https://www.legislation.gov.uk/ukpga/1883/39)
 

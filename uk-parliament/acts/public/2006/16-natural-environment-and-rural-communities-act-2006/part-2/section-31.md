@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Joint Nature Conservation Committee[^key-f2e9b47913bc45b5450003d7c04409d5]
+## 31. Joint Nature Conservation Committee[^c-f2e9b47913bc45b5450003d7c04409d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Joint Nature Conservation Committee—
 
 ## Annotations
 
-[^key-f2e9b47913bc45b5450003d7c04409d5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/16/section/31) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-f2e9b47913bc45b5450003d7c04409d5]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/16/section/31) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

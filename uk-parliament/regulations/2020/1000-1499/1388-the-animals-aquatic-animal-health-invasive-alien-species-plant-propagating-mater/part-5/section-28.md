@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The Animal Breeding (Amendment) (EU Exit) Regulations 2019[^key-6db4e5541f97b8b46e1f45dae72b4a87]
+## 28. The Animal Breeding (Amendment) (EU Exit) Regulations 2019[^c-6db4e5541f97b8b46e1f45dae72b4a87]
 
 *Extent: E+W+S+N.I.*
 
@@ -301,6 +301,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6db4e5541f97b8b46e1f45dae72b4a87]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/1388/regulation/28) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-6db4e5541f97b8b46e1f45dae72b4a87]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/1388/regulation/28) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00061]: Footnote: [S.I. 2019/117](https://www.legislation.gov.uk/uksi/2019/117).

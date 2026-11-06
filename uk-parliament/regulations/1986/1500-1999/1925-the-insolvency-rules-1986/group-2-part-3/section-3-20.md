@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.20. Quorum[^key-34eb12cc5e9cf42693af1f8512b4be51]
+## 3.20. Quorum[^c-34eb12cc5e9cf42693af1f8512b4be51]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A meeting of the committee is duly constituted if due notice has been given to a
 
 ## Annotations
 
-[^key-34eb12cc5e9cf42693af1f8512b4be51]: Commencement: [Rule 3.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-34eb12cc5e9cf42693af1f8512b4be51]: Commencement: [Rule 3.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

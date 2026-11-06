@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2A — Modified application of Part 26A of the Companies Act 2006 to relevant societies[^key-05d44b923f72f31dec52123e9871725e]
+## Schedule 2A — Modified application of Part 26A of the Companies Act 2006 to relevant societies[^c-05d44b923f72f31dec52123e9871725e]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ Article 2(4)
 - (a) in subsection (1) the reference to a number representing 75% in value of the members present and voting at the meeting summoned under section 901C were a reference to 75% of the members of a relevant society present and voting at that meeting; and
 - (b) in subsection (5)(b) the reference to contributories had the same meaning as it has in relation to a relevant society in the 1986 Act.
 
-**6.**[^key-f88d8b579a717f53511e86072e33c263] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f88d8b579a717f53511e86072e33c263] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** Section 901J (powers of court to facilitate reconstruction or amalgamation) has effect as if after subsection (4) there were inserted—
 
@@ -87,6 +87,6 @@ Article 2(4)
 
 ## Annotations
 
-[^key-05d44b923f72f31dec52123e9871725e]: Textual amendment: Sch. 2A inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [12](https://www.legislation.gov.uk/uksi/2020/744/article/12)
+[^c-05d44b923f72f31dec52123e9871725e]: Textual amendment: Sch. 2A inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [12](https://www.legislation.gov.uk/uksi/2020/744/article/12)
 
-[^key-f88d8b579a717f53511e86072e33c263]: Textual amendment: Sch. 2A para. 6 omitted (10.9.2020) by virtue of [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) (No. 2) Order 2020 (S.I. 2020/963)](https://www.legislation.gov.uk/uksi/2020/963), [arts. 1](https://www.legislation.gov.uk/uksi/2020/963/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/963/article/2/3)
+[^c-f88d8b579a717f53511e86072e33c263]: Textual amendment: Sch. 2A para. 6 omitted (10.9.2020) by virtue of [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) (No. 2) Order 2020 (S.I. 2020/963)](https://www.legislation.gov.uk/uksi/2020/963), [arts. 1](https://www.legislation.gov.uk/uksi/2020/963/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/963/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Amendment of the Education (Student Support) Regulations 2011[^key-9cc7a629b15b9e7b59361e0afdc157ea]
+## 4. Amendment of the Education (Student Support) Regulations 2011[^c-9cc7a629b15b9e7b59361e0afdc157ea]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Education (Student Support) Regulations 2011[^f00005] are amended in accorda
 
 ## Annotations
 
-[^key-9cc7a629b15b9e7b59361e0afdc157ea]: Commencement: Reg. 4 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-9cc7a629b15b9e7b59361e0afdc157ea]: Commencement: Reg. 4 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986).

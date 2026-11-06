@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Failure to comply with banning order[^key-8df36080cb593f34bc4863d845eb57ad]
+## 49. Failure to comply with banning order[^c-8df36080cb593f34bc4863d845eb57ad]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8df36080cb593f34bc4863d845eb57ad]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2011/24/section/49) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-8df36080cb593f34bc4863d845eb57ad]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2011/24/section/49) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)

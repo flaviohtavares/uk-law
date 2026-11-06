@@ -24,9 +24,9 @@ summary: ''
 
 - (a) fixed by law; or
 - (b) falling to be imposed under—
-  - (i) Article 13 , 13A or 14[^key-f5cf0a1bf1b39e5ffe6d4f1a6004ba73];
-  - (ii) Article 70(2) of the Firearms (Northern Ireland) Order 2004 (NI 3);[^key-21db2cde949655937ef51baa441f4e7a]...
-  - (iii) paragraph 2(4) or (5) of Schedule 2 to the Violent Crime Reduction Act 2006 (c. 38); or[^key-543e5b384dcbb8e2be35a0f3aff0c98f]
+  - (i) Article 13 , 13A or 14[^c-f5cf0a1bf1b39e5ffe6d4f1a6004ba73];
+  - (ii) Article 70(2) of the Firearms (Northern Ireland) Order 2004 (NI 3);[^c-21db2cde949655937ef51baa441f4e7a]...
+  - (iii) paragraph 2(4) or (5) of Schedule 2 to the Violent Crime Reduction Act 2006 (c. 38); or[^c-543e5b384dcbb8e2be35a0f3aff0c98f]
   - (iv) section 7(2) of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015.
 
 (2) The court shall not pass a custodial sentence unless it is of the opinion that the offence, or the combination of the offence and one or more offences associated with it, was so serious that only a custodial sentence can be justified for the offence.
@@ -49,8 +49,8 @@ summary: ''
 
 [^c21494971]: Commencement: Art. 5 wholly in operation at 1.4.2009, see art. 1(4) and [S.R. 2009/120](https://www.legislation.gov.uk/nisr/2009/120), [art. 2](https://www.legislation.gov.uk/nisr/2009/120/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/120/schedule/1) (subject to [Sch. 2 paras. 1(1)(2)(a)](https://www.legislation.gov.uk/nisr/2009/120/schedule/2/paragraph/1/1/2/a), [4](https://www.legislation.gov.uk/nisr/2009/120/schedule/2/paragraph/4))
 
-[^key-f5cf0a1bf1b39e5ffe6d4f1a6004ba73]: Textual amendment: Words in [art. 5(1)(b)(i)](https://www.legislation.gov.uk/nisi/2008/1216/article/5/1/b/i) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 66(4)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/66/4)
+[^c-f5cf0a1bf1b39e5ffe6d4f1a6004ba73]: Textual amendment: Words in [art. 5(1)(b)(i)](https://www.legislation.gov.uk/nisi/2008/1216/article/5/1/b/i) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 66(4)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/66/4)
 
-[^key-21db2cde949655937ef51baa441f4e7a]: Textual amendment: Word in [art. 5(1)(b)(ii)](https://www.legislation.gov.uk/nisi/2008/1216/article/5/1/b/ii) omitted (14.1.2015) by virtue of [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 7(8)(b)](https://www.legislation.gov.uk/nia/2015/2/section/7/8/b), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-21db2cde949655937ef51baa441f4e7a]: Textual amendment: Word in [art. 5(1)(b)(ii)](https://www.legislation.gov.uk/nisi/2008/1216/article/5/1/b/ii) omitted (14.1.2015) by virtue of [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 7(8)(b)](https://www.legislation.gov.uk/nia/2015/2/section/7/8/b), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-543e5b384dcbb8e2be35a0f3aff0c98f]: Textual amendment: [Art. 5(1)(b)(iv)](https://www.legislation.gov.uk/nisi/2008/1216/article/5/1/b/iv) and word added (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 7(8)(b)](https://www.legislation.gov.uk/nia/2015/2/section/7/8/b), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-543e5b384dcbb8e2be35a0f3aff0c98f]: Textual amendment: [Art. 5(1)(b)(iv)](https://www.legislation.gov.uk/nisi/2008/1216/article/5/1/b/iv) and word added (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 7(8)(b)](https://www.legislation.gov.uk/nia/2015/2/section/7/8/b), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)

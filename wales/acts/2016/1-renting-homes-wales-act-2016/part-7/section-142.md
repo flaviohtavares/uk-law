@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Transfer on death of joint contract-holder[^key-155d0b77352bab6bf8211e5511329d46]
+## 142. Transfer on death of joint contract-holder[^c-155d0b77352bab6bf8211e5511329d46]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-155d0b77352bab6bf8211e5511329d46]: Commencement: [S. 142](https://www.legislation.gov.uk/anaw/2016/1/section/142) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-155d0b77352bab6bf8211e5511329d46]: Commencement: [S. 142](https://www.legislation.gov.uk/anaw/2016/1/section/142) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

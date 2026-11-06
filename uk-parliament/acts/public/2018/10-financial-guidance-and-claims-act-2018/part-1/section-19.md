@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-70460c23091eeeb19749a41b6f7a317a] The Pension Schemes Act 1993 is amended as set out in subsections (2) to (5).
+(1)[^c-70460c23091eeeb19749a41b6f7a317a] The Pension Schemes Act 1993 is amended as set out in subsections (2) to (5).
 
-(2)[^key-620d06f759597dd8a3ca2081c73fd417][^key-fa0e673994df4001a9d2185640797622] After section 113A insert—
+(2)[^c-620d06f759597dd8a3ca2081c73fd417][^c-fa0e673994df4001a9d2185640797622] After section 113A insert—
 
 > **113B. Occupational pension schemes: requirements to refer members to guidance etc**
 >
@@ -59,9 +59,9 @@ summary: ''
 > - “**flexible benefits**” has the meaning given by section 74 of the Pension Schemes Act 2015;
 > - “**pensions guidance**” means information or guidance provided by any person in pursuance of the requirements mentioned in section 4 of the Financial Guidance and Claims Act 2018 (information etc about flexible benefits under pension schemes).
 
-(3)[^key-620d06f759597dd8a3ca2081c73fd417][^key-fa0e673994df4001a9d2185640797622] In section 115 (powers as respects failure to comply with information requirements), in subsection (1), after “113” insert “ , 113B ”.
+(3)[^c-620d06f759597dd8a3ca2081c73fd417][^c-fa0e673994df4001a9d2185640797622] In section 115 (powers as respects failure to comply with information requirements), in subsection (1), after “113” insert “ , 113B ”.
 
-(4)[^key-db95eb22ba45eaad816cdd0eaf82d87f] In section 182(5) (power of Treasury to direct that regulation-making powers are exercisable only in conjunction with them), after “except” insert “ regulations under section 113B or ”.
+(4)[^c-db95eb22ba45eaad816cdd0eaf82d87f] In section 182(5) (power of Treasury to direct that regulation-making powers are exercisable only in conjunction with them), after “except” insert “ regulations under section 113B or ”.
 
 (5) In section 185(2) (consultations about other regulations: exceptions), after paragraph (c) insert—
 
@@ -69,9 +69,9 @@ summary: ''
 
 .
 
-(6)[^key-6355fcb6fda3282e064e66be77ba7f8a][^key-e141115b5072780534a7363b7cae12d1] The Pension Schemes (Northern Ireland) Act 1993 is amended as set out in subsections (7) to (9).
+(6)[^c-6355fcb6fda3282e064e66be77ba7f8a][^c-e141115b5072780534a7363b7cae12d1] The Pension Schemes (Northern Ireland) Act 1993 is amended as set out in subsections (7) to (9).
 
-(7)[^key-5ca6530858007894dfc2eea2b81b5fdb][^key-e141115b5072780534a7363b7cae12d1] After section 109A insert—
+(7)[^c-5ca6530858007894dfc2eea2b81b5fdb][^c-e141115b5072780534a7363b7cae12d1] After section 109A insert—
 
 > **109B. Occupational pension schemes: requirements to refer members to guidance etc**
 >
@@ -108,24 +108,24 @@ summary: ''
 > - “**flexible benefits**” has the meaning given by section 74 of the Pension Schemes Act 2015;
 > - “**pensions guidance**” means information or guidance provided by any person in pursuance of the requirements mentioned in section 4 of the Financial Guidance and Claims Act 2018 (information etc about flexible benefits under pension schemes).
 
-(8)[^key-5ca6530858007894dfc2eea2b81b5fdb][^key-e141115b5072780534a7363b7cae12d1] In section 111 (powers as respects failure to comply with information requirements), in subsection (1), after “109” insert “ or 109B ”.
+(8)[^c-5ca6530858007894dfc2eea2b81b5fdb][^c-e141115b5072780534a7363b7cae12d1] In section 111 (powers as respects failure to comply with information requirements), in subsection (1), after “109” insert “ or 109B ”.
 
-(9)[^key-c6d7e174fe9f14c6b128508801d1ae08] In section 177(6) (power of Department of Finance to direct that regulation-making powers are exercisable only in conjunction with them), after “except” insert “ regulations under section 109B or ”.
+(9)[^c-c6d7e174fe9f14c6b128508801d1ae08] In section 177(6) (power of Department of Finance to direct that regulation-making powers are exercisable only in conjunction with them), after “except” insert “ regulations under section 109B or ”.
 
 ## Annotations
 
-[^key-70460c23091eeeb19749a41b6f7a317a]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/1) in force at 5.7.2021 for specified purposes by [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/d)
+[^c-70460c23091eeeb19749a41b6f7a317a]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/1) in force at 5.7.2021 for specified purposes by [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/d)
 
-[^key-620d06f759597dd8a3ca2081c73fd417]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/3) in force at 5.7.2021 for specified purposes by [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/e)
+[^c-620d06f759597dd8a3ca2081c73fd417]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/3) in force at 5.7.2021 for specified purposes by [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/e)
 
-[^key-fa0e673994df4001a9d2185640797622]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/3) in force at 1.6.2022 in so far as not already in force by [S.I. 2022/509](https://www.legislation.gov.uk/uksi/2022/509), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/509/regulation/2/b)
+[^c-fa0e673994df4001a9d2185640797622]: Commencement: [S. 19(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/2)[(3)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/3) in force at 1.6.2022 in so far as not already in force by [S.I. 2022/509](https://www.legislation.gov.uk/uksi/2022/509), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/509/regulation/2/b)
 
-[^key-db95eb22ba45eaad816cdd0eaf82d87f]: Commencement: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/4) in force at 5.7.2021 by [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/f)
+[^c-db95eb22ba45eaad816cdd0eaf82d87f]: Commencement: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/4) in force at 5.7.2021 by [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/f)
 
-[^key-6355fcb6fda3282e064e66be77ba7f8a]: Commencement: [S. 19(6)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/6) in force at 15.3.2022 for specified purposes by [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/107/article/2/a)
+[^c-6355fcb6fda3282e064e66be77ba7f8a]: Commencement: [S. 19(6)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/6) in force at 15.3.2022 for specified purposes by [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/107/article/2/a)
 
-[^key-e141115b5072780534a7363b7cae12d1]: Commencement: [S. 19(6)-(8)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/6) in force at 1.6.2022 in so far as not already in force by [S.R. 2022/175](https://www.legislation.gov.uk/nisr/2022/175), [art. 2](https://www.legislation.gov.uk/nisr/2022/175/article/2)
+[^c-e141115b5072780534a7363b7cae12d1]: Commencement: [S. 19(6)-(8)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/6) in force at 1.6.2022 in so far as not already in force by [S.R. 2022/175](https://www.legislation.gov.uk/nisr/2022/175), [art. 2](https://www.legislation.gov.uk/nisr/2022/175/article/2)
 
-[^key-5ca6530858007894dfc2eea2b81b5fdb]: Commencement: [S. 19(7)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/8) in force at 15.3.2022 for specified purposes by [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/107/article/2/b)
+[^c-5ca6530858007894dfc2eea2b81b5fdb]: Commencement: [S. 19(7)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/8) in force at 15.3.2022 for specified purposes by [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/107/article/2/b)
 
-[^key-c6d7e174fe9f14c6b128508801d1ae08]: Commencement: [S. 19(9)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/9) in force at 15.3.2022 by [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/107/article/2/c)
+[^c-c6d7e174fe9f14c6b128508801d1ae08]: Commencement: [S. 19(9)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/9) in force at 15.3.2022 by [S.R. 2022/107](https://www.legislation.gov.uk/nisr/2022/107), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/107/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Secretary of State’s guidance[^key-d1f133c2a1cfe54cbf5c7e8614c710c3][^key-10c63e1c698dbed5d736fcc098350244]
+## 176. Secretary of State’s guidance[^c-d1f133c2a1cfe54cbf5c7e8614c710c3][^c-10c63e1c698dbed5d736fcc098350244]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1f133c2a1cfe54cbf5c7e8614c710c3]: Commencement: S. 176 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d1f133c2a1cfe54cbf5c7e8614c710c3]: Commencement: S. 176 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-10c63e1c698dbed5d736fcc098350244]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/50/section/176) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-10c63e1c698dbed5d736fcc098350244]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/50/section/176) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

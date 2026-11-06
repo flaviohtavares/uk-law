@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Application of the 1965 Act to Northern Ireland[^key-288dfcca362fd3f562178bda8defa8f4]
+## 78. Application of the 1965 Act to Northern Ireland[^c-288dfcca362fd3f562178bda8defa8f4]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fb520e602f170213304434087b83dca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fb520e602f170213304434087b83dca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 27 of that Act (application of that Act to Northern Ireland) is amended as follows.
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-288dfcca362fd3f562178bda8defa8f4]: Commencement: S. 78 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-288dfcca362fd3f562178bda8defa8f4]: Commencement: S. 78 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-fb520e602f170213304434087b83dca6]: Textual amendment: [S. 78(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/78/1) repealed (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/30); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-fb520e602f170213304434087b83dca6]: Textual amendment: [S. 78(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/78/1) repealed (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/30); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

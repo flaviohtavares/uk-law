@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Sections 105 and 106: commencement[^key-ac7cbb1bbd4662d0e8371b089878de0b]
+## 107. Sections 105 and 106: commencement[^c-ac7cbb1bbd4662d0e8371b089878de0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac7cbb1bbd4662d0e8371b089878de0b]: Commencement: S. 107 in force at Royal Assent, see [s. 107(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/107/1/a)
+[^c-ac7cbb1bbd4662d0e8371b089878de0b]: Commencement: S. 107 in force at Royal Assent, see [s. 107(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/107/1/a)

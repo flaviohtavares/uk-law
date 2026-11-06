@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Promoting awareness[^key-31e688a7668d84f4843a89befdc1e6c0]
+## 129. Promoting awareness[^c-31e688a7668d84f4843a89befdc1e6c0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31e688a7668d84f4843a89befdc1e6c0]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2009/25/section/129) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-31e688a7668d84f4843a89befdc1e6c0]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2009/25/section/129) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

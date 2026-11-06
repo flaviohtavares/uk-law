@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person commits an offence under this section if he sells by retail alcohol on or from a vehicle at a time when the vehicle is not permanently or temporarily parked.
 
-(2) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine[^key-742afd6d272f114985963c829ccd565c], or to both.
+(2) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine[^c-742afd6d272f114985963c829ccd565c], or to both.
 
 (3) In proceedings against a person for an offence under this section, it is a defence that—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-742afd6d272f114985963c829ccd565c]: Textual amendment: Words in s. 156(2) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-742afd6d272f114985963c829ccd565c]: Textual amendment: Words in s. 156(2) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

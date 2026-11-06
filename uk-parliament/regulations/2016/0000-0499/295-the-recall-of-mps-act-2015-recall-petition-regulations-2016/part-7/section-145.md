@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Time[^key-8d08274c3244a2b90faeb39a63eef921]
+## 145. Time[^c-8d08274c3244a2b90faeb39a63eef921]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In computing any period of time for the purposes of these Regulations any day wh
 
 ## Annotations
 
-[^key-8d08274c3244a2b90faeb39a63eef921]: Commencement: Reg. 145 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8d08274c3244a2b90faeb39a63eef921]: Commencement: Reg. 145 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00044]: Footnote: See section 22 of the Act for the definition of working day.

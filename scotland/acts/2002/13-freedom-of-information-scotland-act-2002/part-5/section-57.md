@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-48ecd82891c25e66e098c0e1de15b5fe] For the purposes of this Part, a record becomes a “historical record” in accordance with subsections (1A) to (1C).
+(1)[^c-48ecd82891c25e66e098c0e1de15b5fe] For the purposes of this Part, a record becomes a “historical record” in accordance with subsections (1A) to (1C).
 
 (1A) A record becomes one at the end of the period of 15 years beginning with 1st January in the calendar year following the date on which the record is created.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48ecd82891c25e66e098c0e1de15b5fe]: Textual amendment: [S. 57(1)-(1D)](https://www.legislation.gov.uk/asp/2002/13/section/57/1) substituted for [s. 57(1)](https://www.legislation.gov.uk/asp/2002/13/section/57/1) (1.4.2014) by [The Freedom of Information (Scotland) Act 2002 (Historical Periods) Order 2013 (S.S.I. 2013/365)](https://www.legislation.gov.uk/ssi/2013/365), [arts. 1](https://www.legislation.gov.uk/ssi/2013/365/article/1), [2](https://www.legislation.gov.uk/ssi/2013/365/article/2)
+[^c-48ecd82891c25e66e098c0e1de15b5fe]: Textual amendment: [S. 57(1)-(1D)](https://www.legislation.gov.uk/asp/2002/13/section/57/1) substituted for [s. 57(1)](https://www.legislation.gov.uk/asp/2002/13/section/57/1) (1.4.2014) by [The Freedom of Information (Scotland) Act 2002 (Historical Periods) Order 2013 (S.S.I. 2013/365)](https://www.legislation.gov.uk/ssi/2013/365), [arts. 1](https://www.legislation.gov.uk/ssi/2013/365/article/1), [2](https://www.legislation.gov.uk/ssi/2013/365/article/2)

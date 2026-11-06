@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Section 13: formal capacity assessments and statements of incapacity[^key-c63cf91291feea71ac2aed10a41a64c1]
+## 14. Section 13: formal capacity assessments and statements of incapacity[^c-c63cf91291feea71ac2aed10a41a64c1]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c63cf91291feea71ac2aed10a41a64c1]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/18/section/14) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-c63cf91291feea71ac2aed10a41a64c1]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/18/section/14) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Enforcement, offences and civil liability[^key-d529b4e255c74f8986f2fd4c07c311e6]
+## 38. Enforcement, offences and civil liability[^c-d529b4e255c74f8986f2fd4c07c311e6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Schedule 10 shall have effect.
 
 ## Annotations
 
-[^key-d529b4e255c74f8986f2fd4c07c311e6]: Commencement: Reg. 38 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-d529b4e255c74f8986f2fd4c07c311e6]: Commencement: Reg. 38 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

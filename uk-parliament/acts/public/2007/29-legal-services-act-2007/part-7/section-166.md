@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 166. Operation of voluntary scheme[^key-45cb9c33eebe1ca54ee062ceef328b83]
+## 166. Operation of voluntary scheme[^c-45cb9c33eebe1ca54ee062ceef328b83]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45cb9c33eebe1ca54ee062ceef328b83]: Commencement: S. 166 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-45cb9c33eebe1ca54ee062ceef328b83]: Commencement: S. 166 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

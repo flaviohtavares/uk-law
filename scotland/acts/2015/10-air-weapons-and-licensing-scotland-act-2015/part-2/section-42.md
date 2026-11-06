@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Statements of licensing policy: licensing policy periods[^key-3b6db65d26fba732a5f26538d94ae2f4]
+## 42. Statements of licensing policy: licensing policy periods[^c-3b6db65d26fba732a5f26538d94ae2f4]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ In section 6 of the 2005 Act (statements of licensing policy)—
 
 ## Annotations
 
-[^key-3b6db65d26fba732a5f26538d94ae2f4]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2015/10/section/42) in force at 30.9.2016 by [S.S.I. 2016/132](https://www.legislation.gov.uk/ssi/2016/132), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/132/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/132/article/3))
+[^c-3b6db65d26fba732a5f26538d94ae2f4]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2015/10/section/42) in force at 30.9.2016 by [S.S.I. 2016/132](https://www.legislation.gov.uk/ssi/2016/132), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/132/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/132/article/3))

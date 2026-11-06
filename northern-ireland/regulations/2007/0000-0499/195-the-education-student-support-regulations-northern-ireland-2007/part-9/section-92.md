@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Application of contribution – old system students[^key-ac3437d2feb750db65be2bfb8b27ce0a]
+## 92. Application of contribution – old system students[^c-ac3437d2feb750db65be2bfb8b27ce0a]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3437d2feb750db65be2bfb8b27ce0a]: Commencement: [Reg. 92](https://www.legislation.gov.uk/nisr/2007/195/regulation/92) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-ac3437d2feb750db65be2bfb8b27ce0a]: Commencement: [Reg. 92](https://www.legislation.gov.uk/nisr/2007/195/regulation/92) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

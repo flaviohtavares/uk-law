@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Functions relating to explosives[^key-edb65953d523f5834ce63e8b89b53b55]
+## 10. Functions relating to explosives[^c-edb65953d523f5834ce63e8b89b53b55]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 12 (which makes provision in relation to explosives) has effect.
 
 ## Annotations
 
-[^key-edb65953d523f5834ce63e8b89b53b55]: Commencement: Art. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-edb65953d523f5834ce63e8b89b53b55]: Commencement: Art. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

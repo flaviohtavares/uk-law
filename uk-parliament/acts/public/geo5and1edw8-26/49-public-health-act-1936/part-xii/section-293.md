@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 293. Recovery of expenses, &c.[^c611801][^c611802][^key-056a915910605b69757ad49fd07803a2][^c611800]
+## 293. Recovery of expenses, &c.[^c611801][^c611802][^c-056a915910605b69757ad49fd07803a2][^c611800]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 [^c611802]: Modification: S. 293 extended (1.12.1991) by [Water Industry Act 1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 107(5)](https://www.legislation.gov.uk/ukpga/1991/56/section/107/5), [109(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/109/3), [160(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/160/2), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [117(5)](https://www.legislation.gov.uk/ukpga/1991/56/section/117/5), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [219(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/219/3), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/2), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6))
 
-[^key-056a915910605b69757ad49fd07803a2]: Modification: S. 293 modified by 1995 c. x, s. 12(6C) (as inserted (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [12(4)](https://www.legislation.gov.uk/ukla/2004/1/section/12/4))
+[^c-056a915910605b69757ad49fd07803a2]: Modification: S. 293 modified by 1995 c. x, s. 12(6C) (as inserted (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [12(4)](https://www.legislation.gov.uk/ukla/2004/1/section/12/4))
 
 [^c611800]: Modification: S. 293 extended by [Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1982/30), [s. 29(12)](https://www.legislation.gov.uk/ukpga/1982/30/section/29/12)
 

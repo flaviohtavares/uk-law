@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 252. Order for examination etc.[^key-8422e9e62969b3ea610c945fa5a67e52]
+## 252. Order for examination etc.[^c-8422e9e62969b3ea610c945fa5a67e52]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8422e9e62969b3ea610c945fa5a67e52]: Commencement: [Rule 252](https://www.legislation.gov.uk/uksi/2011/1301/rule/252) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8422e9e62969b3ea610c945fa5a67e52]: Commencement: [Rule 252](https://www.legislation.gov.uk/uksi/2011/1301/rule/252) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

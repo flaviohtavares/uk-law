@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Employer support for employee study and training[^key-969a7a7bd356514728f17e8db9a141d9][^key-86e3546cc5697f54eb7036d249310bac]
+## 40. Employer support for employee study and training[^c-969a7a7bd356514728f17e8db9a141d9][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W+S*
 
@@ -232,6 +232,6 @@ summary: ''
 
 ## Annotations
 
-[^key-969a7a7bd356514728f17e8db9a141d9]: Commencement: S. 40 in force at 6.4.2010 for specified purposes by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 4](https://www.legislation.gov.uk/uksi/2010/303/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/303/schedule/3) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-969a7a7bd356514728f17e8db9a141d9]: Commencement: S. 40 in force at 6.4.2010 for specified purposes by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 4](https://www.legislation.gov.uk/uksi/2010/303/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/303/schedule/3) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

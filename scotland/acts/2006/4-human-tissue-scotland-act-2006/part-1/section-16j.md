@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16J. Meaning of “health worker”[^key-ad013fe5fa9ea086500e42bbb2b5e879]
+## 16J. Meaning of “health worker”[^c-ad013fe5fa9ea086500e42bbb2b5e879]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ so as to add to, amend or remove any entry on the list.
 
 ## Annotations
 
-[^key-ad013fe5fa9ea086500e42bbb2b5e879]: Textual amendment: S. 16J inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 27(2)](https://www.legislation.gov.uk/asp/2019/11/section/27/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-ad013fe5fa9ea086500e42bbb2b5e879]: Textual amendment: S. 16J inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 27(2)](https://www.legislation.gov.uk/asp/2019/11/section/27/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

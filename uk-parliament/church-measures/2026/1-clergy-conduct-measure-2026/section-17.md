@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 17. Protected parties[^key-9c09f0ddc005fe0d177abd681b2e7ab3]
+## 17. Protected parties[^c-9c09f0ddc005fe0d177abd681b2e7ab3]
 
 *Extent: E*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c09f0ddc005fe0d177abd681b2e7ab3]: Commencement: S. 17 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-9c09f0ddc005fe0d177abd681b2e7ab3]: Commencement: S. 17 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

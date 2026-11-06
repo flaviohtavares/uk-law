@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Deposition of person dangerously ill[^key-84f2b6419e061e1ebec84b7959b30539]
+## 33. Deposition of person dangerously ill[^c-84f2b6419e061e1ebec84b7959b30539]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84f2b6419e061e1ebec84b7959b30539]: Textual amendment: [Rule 33](https://www.legislation.gov.uk/uksi/1981/552/rule/33) omitted (1.4.1997) by virtue of [The Magistrates' Courts (Amendment) Rules 1997 (S.I. 1997/706)](https://www.legislation.gov.uk/uksi/1997/706), [rules 1(1)](https://www.legislation.gov.uk/uksi/1997/706/article/1/1), [12](https://www.legislation.gov.uk/uksi/1997/706/article/12) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/1997/706/article/1/2))
+[^c-84f2b6419e061e1ebec84b7959b30539]: Textual amendment: [Rule 33](https://www.legislation.gov.uk/uksi/1981/552/rule/33) omitted (1.4.1997) by virtue of [The Magistrates' Courts (Amendment) Rules 1997 (S.I. 1997/706)](https://www.legislation.gov.uk/uksi/1997/706), [rules 1(1)](https://www.legislation.gov.uk/uksi/1997/706/article/1/1), [12](https://www.legislation.gov.uk/uksi/1997/706/article/12) (with [rule 1(2)](https://www.legislation.gov.uk/uksi/1997/706/article/1/2))

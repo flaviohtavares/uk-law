@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries
 
-The Sea Fishing (Licences and Notices) (Amendment) Regulations (Northern Ireland) 2019 (revoked)[^key-94f2842dff1787769f276d875b78b294]
+The Sea Fishing (Licences and Notices) (Amendment) Regulations (Northern Ireland) 2019 (revoked)[^c-94f2842dff1787769f276d875b78b294]
 
 Made
 
@@ -40,28 +40,28 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-94f2842dff1787769f276d875b78b294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94f2842dff1787769f276d875b78b294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-94f2842dff1787769f276d875b78b294]
+## 1. Citation and commencement[^c-94f2842dff1787769f276d875b78b294]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-94f2842dff1787769f276d875b78b294]
+## 2. Interpretation[^c-94f2842dff1787769f276d875b78b294]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Sea Fishing (Licences and Notices) Regulations (Northern Ireland) 2014[^key-94f2842dff1787769f276d875b78b294]
+## 3. Amendment of the Sea Fishing (Licences and Notices) Regulations (Northern Ireland) 2014[^c-94f2842dff1787769f276d875b78b294]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94f2842dff1787769f276d875b78b294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94f2842dff1787769f276d875b78b294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-94f2842dff1787769f276d875b78b294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94f2842dff1787769f276d875b78b294]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94f2842dff1787769f276d875b78b294]: Textual amendment: Regulations revoked (17.3.2020) by [The Sea Fishing (Licences and Notices) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/21)](https://www.legislation.gov.uk/nisr/2020/21), [regs. 1](https://www.legislation.gov.uk/nisr/2020/21/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/21/regulation/3)
+[^c-94f2842dff1787769f276d875b78b294]: Textual amendment: Regulations revoked (17.3.2020) by [The Sea Fishing (Licences and Notices) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/21)](https://www.legislation.gov.uk/nisr/2020/21), [regs. 1](https://www.legislation.gov.uk/nisr/2020/21/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/21/regulation/3)

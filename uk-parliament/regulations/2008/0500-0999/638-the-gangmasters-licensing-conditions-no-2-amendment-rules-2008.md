@@ -50,11 +50,11 @@ The Gangmasters Licensing Authority makes the following Rules in exercise of the
 
 They have consulted with the Secretary of State in accordance with section 8(3) of that Act.
 
-## 1. Citation and commencement[^key-926433816c197431ada76f3084414a60]
+## 1. Citation and commencement[^c-926433816c197431ada76f3084414a60]
 
 These Rules may be cited as the Gangmasters (Licensing Conditions) (No.2) (Amendment) Rules 2008; they come into force on 6th April 2008.
 
-## 2. Amendments[^key-0ef547bce9b987add83fde5774e290d5]
+## 2. Amendments[^c-0ef547bce9b987add83fde5774e290d5]
 
 (1) The Gangmasters (Licensing Conditions) (No.2) Rules 2006[^f00002] are amended as follows.
 
@@ -84,7 +84,7 @@ These Rules may be cited as the Gangmasters (Licensing Conditions) (No.2) (Amend
 - (a) in paragraph (1), omit “, and pay for,”;
 - (b) omit paragraphs (2) and (3) and the table.
 
-## 3. Revocation[^key-69ddccf19251555fa30fc7e24c855457]
+## 3. Revocation[^c-69ddccf19251555fa30fc7e24c855457]
 
 The Gangmasters (Licensing Conditions) (No.2) (Amendment) Rules 2007[^f00003] are revoked.
 
@@ -112,12 +112,12 @@ An Impact Assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [2004 c. 11](https://www.legislation.gov.uk/ukpga/2004/11).
 
-[^key-926433816c197431ada76f3084414a60]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/638/rule/1)
+[^c-926433816c197431ada76f3084414a60]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/638/rule/1)
 
-[^key-0ef547bce9b987add83fde5774e290d5]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/638/rule/1)
+[^c-0ef547bce9b987add83fde5774e290d5]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/638/rule/1)
 
 [^f00002]: Footnote: [S.I. 2006/2373](https://www.legislation.gov.uk/uksi/2006/2373), as amended by [S.I. 2007/401](https://www.legislation.gov.uk/uksi/2007/401) (this amending instrument is revoked by these Rules).
 
-[^key-69ddccf19251555fa30fc7e24c855457]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/638/rule/1)
+[^c-69ddccf19251555fa30fc7e24c855457]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/638/rule/1)
 
 [^f00003]: Footnote: [S.I. 2007/401](https://www.legislation.gov.uk/uksi/2007/401).

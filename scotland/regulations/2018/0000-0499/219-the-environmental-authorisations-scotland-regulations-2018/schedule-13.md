@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 13 — LANDFILL ACTIVITIES[^key-4e0ac77f926454b91595f4769f7fa115]
+## SCHEDULE 13 — LANDFILL ACTIVITIES[^c-4e0ac77f926454b91595f4769f7fa115]
 
 *Extent: S*
 
@@ -1136,9 +1136,9 @@ Table 14
 
 ## Annotations
 
-[^key-4e0ac77f926454b91595f4769f7fa115]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/ssi/2018/219/schedule/13) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/4) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4e0ac77f926454b91595f4769f7fa115]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/ssi/2018/219/schedule/13) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 4](https://www.legislation.gov.uk/ssi/2025/165/schedule/4) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^f01000]: Footnote: (1)[^key-4e0ac77f926454b91595f4769f7fa115]
+[^f01000]: Footnote: (1)[^c-4e0ac77f926454b91595f4769f7fa115]
 
     SEPA may include conditions in a permit authorising limit values for specific parameters (other than dissolved organic carbon) up to three times higher for specified waste accepted in a landfill taking into account the characteristics of the landfill and its surroundings and provided a risk assessment demonstrates that emissions (including leachate) from the landfill will present no additional risk to the environment.
 

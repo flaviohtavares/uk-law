@@ -34,7 +34,7 @@ Animals
 
 Agriculture
 
-The Poultry Health Scheme (Fees) (Scotland) Regulations 2012 (revoked)[^key-579b970c7443050f9b7c28e6d0fd307f]
+The Poultry Health Scheme (Fees) (Scotland) Regulations 2012 (revoked)[^c-579b970c7443050f9b7c28e6d0fd307f]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st July 2012
 
-[^key-579b970c7443050f9b7c28e6d0fd307f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-579b970c7443050f9b7c28e6d0fd307f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-579b970c7443050f9b7c28e6d0fd307f]
+## 1. Citation, commencement, extent and interpretation[^c-579b970c7443050f9b7c28e6d0fd307f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees relating to the poultry health scheme[^key-579b970c7443050f9b7c28e6d0fd307f]
+## 2. Fees relating to the poultry health scheme[^c-579b970c7443050f9b7c28e6d0fd307f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment[^key-579b970c7443050f9b7c28e6d0fd307f]
+## 3. Payment[^c-579b970c7443050f9b7c28e6d0fd307f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-579b970c7443050f9b7c28e6d0fd307f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-579b970c7443050f9b7c28e6d0fd307f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-579b970c7443050f9b7c28e6d0fd307f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-579b970c7443050f9b7c28e6d0fd307f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-579b970c7443050f9b7c28e6d0fd307f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/176) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)
+[^c-579b970c7443050f9b7c28e6d0fd307f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/176) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)

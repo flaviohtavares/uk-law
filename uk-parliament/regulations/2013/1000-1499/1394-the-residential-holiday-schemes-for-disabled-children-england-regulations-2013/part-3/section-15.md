@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Restraint[^key-56a720dcd60b51ae4f44e252e7295416]
+## 15. Restraint[^c-56a720dcd60b51ae4f44e252e7295416]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ and then only where no alternative method of preventing the event specified in s
 
 ## Annotations
 
-[^key-56a720dcd60b51ae4f44e252e7295416]: Commencement: Reg. 15 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-56a720dcd60b51ae4f44e252e7295416]: Commencement: Reg. 15 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

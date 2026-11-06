@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Fodder Plant Seed (Wales) Regulations 2005 (revoked)[^key-fe32cfd9723b4d4a11d95589e566af08]
+The Fodder Plant Seed (Wales) Regulations 2005 (revoked)[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 30 April 2005
 
-[^key-fe32cfd9723b4d4a11d95589e566af08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe32cfd9723b4d4a11d95589e566af08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-fe32cfd9723b4d4a11d95589e566af08]
+### PART I — GENERAL[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 **No longer in force.**
 
@@ -55,7 +55,7 @@ Coming into force
 - [Section 4 — Definition of marketing](part-i/section-4.md)
 - [Section 5 — Seed to which these Regulations apply](part-i/section-5.md)
 
-### PART II — PROCEDURES RELATING TO THE OFFICIAL CERTIFICATION OF SEED[^key-fe32cfd9723b4d4a11d95589e566af08]
+### PART II — PROCEDURES RELATING TO THE OFFICIAL CERTIFICATION OF SEED[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 **No longer in force.**
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 13 — Re-grading of seed](part-ii/section-13.md)
 - [Section 14 — Withdrawals](part-ii/section-14.md)
 
-### PART III — CONTROL OF FODDER PLANT SEED[^key-fe32cfd9723b4d4a11d95589e566af08]
+### PART III — CONTROL OF FODDER PLANT SEED[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 *Extent: E+W*
 
@@ -89,7 +89,7 @@ Coming into force
 - [Section 25 — Sealing of packages](part-iii/section-25.md)
 - [Section 26 — Labelling of packages](part-iii/section-26.md)
 
-### PART IV — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^key-fe32cfd9723b4d4a11d95589e566af08]
+### PART IV — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^c-fe32cfd9723b4d4a11d95589e566af08]
 
 **No longer in force.**
 
@@ -115,14 +115,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-fe32cfd9723b4d4a11d95589e566af08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe32cfd9723b4d4a11d95589e566af08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-fe32cfd9723b4d4a11d95589e566af08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe32cfd9723b4d4a11d95589e566af08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe32cfd9723b4d4a11d95589e566af08]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(e)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/e) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-fe32cfd9723b4d4a11d95589e566af08]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(e)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/e) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

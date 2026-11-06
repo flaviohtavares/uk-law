@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-6f35ade81abaf1b57082f556dc4b78f2]
+## 1. Citation and commencement[^c-6f35ade81abaf1b57082f556dc4b78f2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Dogger Bank Creyke Beck Offshore Wind Farm Order 
 
 ## Annotations
 
-[^key-6f35ade81abaf1b57082f556dc4b78f2]: Commencement: Art. 1 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-6f35ade81abaf1b57082f556dc4b78f2]: Commencement: Art. 1 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

@@ -50,7 +50,7 @@ The Secretary of State considers that the celebration period in relation to whic
 
 The Secretary of State has consulted such persons as the Secretary of State considers appropriate in accordance with section 172(4) of the Licensing Act 2003.
 
-## 1. Citation, commencement, interpretation and extent[^key-d39dc3c242ba6ff8220e4dd7464d2c75]
+## 1. Citation, commencement, interpretation and extent[^c-d39dc3c242ba6ff8220e4dd7464d2c75]
 
 (1) This Order may be cited as the Licensing Act 2003 (FIFA World Cup Licensing Hours) Order 2026 and comes into force on 8th June 2026.
 
@@ -63,9 +63,9 @@ The Secretary of State has consulted such persons as the Secretary of State cons
 
 (3) This Order extends to England and Wales.
 
-## 2. Specified times[^key-fe33a3591ef12b0c9928d66e4cf4f15b]
+## 2. Specified times[^c-fe33a3591ef12b0c9928d66e4cf4f15b]
 
-(1)[^key-e8305a654e871121ffa3c409fb09288c] For the purposes of article 3, the “specified times” are—
+(1)[^c-e8305a654e871121ffa3c409fb09288c] For the purposes of article 3, the “specified times” are—
 
 - (a) the period of two hours beginning at 11 p.m. on 29th June 2026, where a match in the tournament knockout stage known as the round of 32 is scheduled to take place at 6 p.m. on that day, provided that a home nation team plays in that match;
 - (b) the period of three hours beginning at 11 p.m. on 29th June 2026, where a match in the tournament knockout stage known as the round of 32 is scheduled to take place at 9.30 p.m. on that day, provided that a home nation team plays in that match;
@@ -73,7 +73,7 @@ The Secretary of State has consulted such persons as the Secretary of State cons
 - (d) the period of two hours beginning at 11 p.m. on 1st July 2026, where a match in the tournament knockout stage known as the round of 32 is scheduled to take place at 5 p.m. on that day, provided that a home nation team plays in that match;
 - (e) the period of two hours beginning at 11 p.m. on 4th July 2026, where a match in the tournament knockout stage known as the round of 16 is scheduled to take place at 6 p.m. on that day, provided that a home nation team plays in that match;
 - (f) the period of three hours beginning at 11 p.m. on 4th July 2026, where a match in the tournament knockout stage known as the round of 16 is scheduled to take place at 10 p.m. on that day, provided that a home nation team plays in that match;
-- (g)[^key-4de3197832d97c3264df4e755f1074f0] the period of seven hours beginning at 10 p.m. on 5th July 2026, where a match in the tournament knockout stage known as the round of 16 is scheduled to take place at 1 a.m. on 6th July 2026;
+- (g)[^c-4de3197832d97c3264df4e755f1074f0] the period of seven hours beginning at 10 p.m. on 5th July 2026, where a match in the tournament knockout stage known as the round of 16 is scheduled to take place at 1 a.m. on 6th July 2026;
 - (h) the period of two hours beginning at 11 p.m. on 6th July 2026, where a match in the tournament knockout stage known as the round of 16 is scheduled to take place at 8 p.m. on that day, provided that a home nation team plays in that match;
 - (i) the period of two hours beginning at 11 p.m. on 7th July 2026, where a match in the tournament knockout stage known as the round of 16 is scheduled to take place at 9 p.m. on that day, provided that a home nation team plays in that match;
 - (j) the period of two hours beginning at 11 p.m. on 9th July 2026, where a match in the tournament quarter-final stage is scheduled to take place at 9 p.m. on that day, provided that a home nation team plays in that match;
@@ -82,9 +82,9 @@ The Secretary of State has consulted such persons as the Secretary of State cons
 - (m) the period of two hours beginning at 11 p.m. on 14th July 2026, where a match in the tournament semi-final stage is scheduled to take place at 8 p.m. on that day, provided that a home nation team plays in that match;
 - (n) the period of two hours beginning at 11 p.m. on 15th July 2026, where a match in the tournament semi-final match is scheduled to take place at 8 p.m. on that day, provided that a home nation team plays in that match;
 - (o) the period of three hours beginning at 11 p.m. on 18th July 2026, where the tournament third-place play-off match is scheduled to take place at 10 p.m. on that day, provided that a home nation team plays in that match; and
-- (p) the period of three[^key-8a4e5d3f860ca63eafaf694f8dfc6699] hours beginning at 10 p.m.[^key-e8a13ad6ba00fad851e71b872a1e0953] on 19th July 2026, where the final match of the tournament is scheduled to take place at 8 p.m. on that day, provided that a home nation team plays in that match.
+- (p) the period of three[^c-8a4e5d3f860ca63eafaf694f8dfc6699] hours beginning at 10 p.m.[^c-e8a13ad6ba00fad851e71b872a1e0953] on 19th July 2026, where the final match of the tournament is scheduled to take place at 8 p.m. on that day, provided that a home nation team plays in that match.
 
-(2)[^key-959a67894a5213730757af80511c7a9e] Where the conditions in paragraph (3) are satisfied, the end of the period in sub-paragraphs (l) to (p) of paragraph (1) is extended to the earlier of—
+(2)[^c-959a67894a5213730757af80511c7a9e] Where the conditions in paragraph (3) are satisfied, the end of the period in sub-paragraphs (l) to (p) of paragraph (1) is extended to the earlier of—
 
 - (a) thirty minutes after the conclusion (or abandonment) of the match referred to in the relevant sub-paragraph, or
 - (b) 12 noon on the day following the day on which the match begins.
@@ -110,7 +110,7 @@ the period specified in paragraph (5) is also a “**specified time**” for the
   - (i) 1 a.m. the following day, or
   - (ii) thirty minutes after the conclusion of the match referred to in paragraph (4).
 
-## 3. Licensing hours[^key-99186a78d3a52d3bf6953553b6ea4096]
+## 3. Licensing hours[^c-99186a78d3a52d3bf6953553b6ea4096]
 
 (1) Subject to paragraphs (3) and (4), premises licences[^f00003] and club premises certificates[^f00004] to which paragraph (2) applies have effect (to the extent that it is not already the case) during the specified relaxation period as if the specified times were included in the opening hours[^f00005].
 
@@ -157,23 +157,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17). Section 197(3), (4) and (5) of the Licensing Act 2003 (“**the 2003 Act**”) were amended by section 1 of the Licensing Hours Extensions Act [2026 (c. 4)](https://www.legislation.gov.uk/ukpga/2026/4).
 
-[^key-d39dc3c242ba6ff8220e4dd7464d2c75]: Commencement: Art. 1 in force at 8.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/520/article/1/1)
+[^c-d39dc3c242ba6ff8220e4dd7464d2c75]: Commencement: Art. 1 in force at 8.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/520/article/1/1)
 
 [^f00002]: Footnote: Fédération Internationale de Football Association is an organisation entered in the register of companies under the Swiss civil code with registered number CHE-107.301.064, and address FIFA-Strasse 20, 8044 Zürich, Switzerland.
 
-[^key-fe33a3591ef12b0c9928d66e4cf4f15b]: Commencement: Art. 2 in force at 8.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/520/article/1/1)
+[^c-fe33a3591ef12b0c9928d66e4cf4f15b]: Commencement: Art. 2 in force at 8.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/520/article/1/1)
 
-[^key-e8305a654e871121ffa3c409fb09288c]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2026/520/article/2/1) renumbered as art. 2(1) (11.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) (No. 2) Order 2026 (S.I. 2026/792)](https://www.legislation.gov.uk/uksi/2026/792), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/792/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/792/article/2/2/a)
+[^c-e8305a654e871121ffa3c409fb09288c]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2026/520/article/2/1) renumbered as art. 2(1) (11.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) (No. 2) Order 2026 (S.I. 2026/792)](https://www.legislation.gov.uk/uksi/2026/792), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/792/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/792/article/2/2/a)
 
-[^key-4de3197832d97c3264df4e755f1074f0]: Textual amendment: Art. 2(g) substituted (4.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) Order 2026 (S.I. 2026/742)](https://www.legislation.gov.uk/uksi/2026/742), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/742/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/742/article/2/2/a)
+[^c-4de3197832d97c3264df4e755f1074f0]: Textual amendment: Art. 2(g) substituted (4.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) Order 2026 (S.I. 2026/742)](https://www.legislation.gov.uk/uksi/2026/742), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/742/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/742/article/2/2/a)
 
-[^key-8a4e5d3f860ca63eafaf694f8dfc6699]: Textual amendment: Word in art. 2(p) substituted (4.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) Order 2026 (S.I. 2026/742)](https://www.legislation.gov.uk/uksi/2026/742), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/742/article/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/742/article/2/2/b/i)
+[^c-8a4e5d3f860ca63eafaf694f8dfc6699]: Textual amendment: Word in art. 2(p) substituted (4.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) Order 2026 (S.I. 2026/742)](https://www.legislation.gov.uk/uksi/2026/742), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/742/article/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/742/article/2/2/b/i)
 
-[^key-e8a13ad6ba00fad851e71b872a1e0953]: Textual amendment: Word in art. 2(p) substituted (4.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) Order 2026 (S.I. 2026/742)](https://www.legislation.gov.uk/uksi/2026/742), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/742/article/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/742/article/2/2/b/ii)
+[^c-e8a13ad6ba00fad851e71b872a1e0953]: Textual amendment: Word in art. 2(p) substituted (4.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) Order 2026 (S.I. 2026/742)](https://www.legislation.gov.uk/uksi/2026/742), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/742/article/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/742/article/2/2/b/ii)
 
-[^key-959a67894a5213730757af80511c7a9e]: Textual amendment: [Art. 2(2)-(5)](https://www.legislation.gov.uk/uksi/2026/520/article/2/2) inserted (11.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) (No. 2) Order 2026 (S.I. 2026/792)](https://www.legislation.gov.uk/uksi/2026/792), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/792/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/792/article/2/2/b)
+[^c-959a67894a5213730757af80511c7a9e]: Textual amendment: [Art. 2(2)-(5)](https://www.legislation.gov.uk/uksi/2026/520/article/2/2) inserted (11.7.2026) by [The Licensing Act 2003 (FIFA World Cup Licensing Hours) (Amendment) (No. 2) Order 2026 (S.I. 2026/792)](https://www.legislation.gov.uk/uksi/2026/792), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/792/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/792/article/2/2/b)
 
-[^key-99186a78d3a52d3bf6953553b6ea4096]: Commencement: Art. 3 in force at 8.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/520/article/1/1)
+[^c-99186a78d3a52d3bf6953553b6ea4096]: Commencement: Art. 3 in force at 8.6.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/520/article/1/1)
 
 [^f00003]: Footnote: See section 11 of the 2003 Act (c. 17) for the definition of “premises licence”.
 

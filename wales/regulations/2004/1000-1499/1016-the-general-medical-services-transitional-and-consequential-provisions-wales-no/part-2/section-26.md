@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Notification of sub-contracts under general medical services contracts[^key-c5aa11959935eabbc96c9114fb677a57]
+## 26. Notification of sub-contracts under general medical services contracts[^c-c5aa11959935eabbc96c9114fb677a57]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ any requirement for the succeeding contractor to notify the Local Health Board o
 
 ## Annotations
 
-[^key-c5aa11959935eabbc96c9114fb677a57]: Commencement: Art. 26 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c5aa11959935eabbc96c9114fb677a57]: Commencement: Art. 26 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00035]: Footnote: Paragraph 21(1) was amended by [S.I. 2001/3742](https://www.legislation.gov.uk/uksi/2001/3742) and [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Official poll cards and postal poll cards at parliamentary elections[^key-7aefd955750bc90e5af8ae4a886e93c9]
+## 9. Official poll cards and postal poll cards at parliamentary elections[^c-7aefd955750bc90e5af8ae4a886e93c9]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7aefd955750bc90e5af8ae4a886e93c9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/497/regulation/9) substituted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2007/925/regulation/34)
+[^c-7aefd955750bc90e5af8ae4a886e93c9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/497/regulation/9) substituted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2007/925/regulation/34)

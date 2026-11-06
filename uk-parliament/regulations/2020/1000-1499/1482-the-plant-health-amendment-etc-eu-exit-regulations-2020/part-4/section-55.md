@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Savings[^key-e63136a2b732d1076337df89538bf55e]
+## 55. Savings[^c-e63136a2b732d1076337df89538bf55e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e63136a2b732d1076337df89538bf55e]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
+[^c-e63136a2b732d1076337df89538bf55e]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Transfer of property, &c.: Prosecutions Office[^key-27d35c119adcc197dc8b62efb5b158ef][^key-9d5109fc4bd496b2b3cbf7f07c2291cd]
+## 49. Transfer of property, &c.: Prosecutions Office[^c-27d35c119adcc197dc8b62efb5b158ef][^c-9d5109fc4bd496b2b3cbf7f07c2291cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27d35c119adcc197dc8b62efb5b158ef]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/2005/11/section/49) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/13)
+[^c-27d35c119adcc197dc8b62efb5b158ef]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/2005/11/section/49) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/13)
 
-[^key-9d5109fc4bd496b2b3cbf7f07c2291cd]: Commencement: S. 49 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-9d5109fc4bd496b2b3cbf7f07c2291cd]: Commencement: S. 49 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

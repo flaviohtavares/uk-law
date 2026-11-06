@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Appeals against orders under section 214[^key-f3ce50bb6ae4b7b4d46957e67f7180c5][^key-562a4b1e18f339e82213ff2d084e0de2]
+## 216. Appeals against orders under section 214[^c-f3ce50bb6ae4b7b4d46957e67f7180c5][^c-562a4b1e18f339e82213ff2d084e0de2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ce50bb6ae4b7b4d46957e67f7180c5]: Commencement: S. 216 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f3ce50bb6ae4b7b4d46957e67f7180c5]: Commencement: S. 216 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-562a4b1e18f339e82213ff2d084e0de2]: Commencement: S. 216 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-562a4b1e18f339e82213ff2d084e0de2]: Commencement: S. 216 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

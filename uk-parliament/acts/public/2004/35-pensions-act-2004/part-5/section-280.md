@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280. Power to increase pensions giving effect to pension credits etc[^key-eb2a693f810d8405ed8486ba86020c7f][^key-851849f45b2d27a5249c7fe8d9104926]
+## 280. Power to increase pensions giving effect to pension credits etc[^c-eb2a693f810d8405ed8486ba86020c7f][^c-851849f45b2d27a5249c7fe8d9104926]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb2a693f810d8405ed8486ba86020c7f]: Commencement: S. 280 in force at 15.3.2005 for specified purposes by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/695/article/2/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
+[^c-eb2a693f810d8405ed8486ba86020c7f]: Commencement: S. 280 in force at 15.3.2005 for specified purposes by [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/695/article/2/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
 
-[^key-851849f45b2d27a5249c7fe8d9104926]: Commencement: S. 280 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-851849f45b2d27a5249c7fe8d9104926]: Commencement: S. 280 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

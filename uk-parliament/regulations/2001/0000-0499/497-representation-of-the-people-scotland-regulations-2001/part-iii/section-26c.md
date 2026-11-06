@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26C. Overseas electors: power to request additional evidence where applicant under 18 when last resident in the United Kingdom[^key-ae4538142f8c6208bcfe26e99c5ae2ac]
+## 26C. Overseas electors: power to request additional evidence where applicant under 18 when last resident in the United Kingdom[^c-ae4538142f8c6208bcfe26e99c5ae2ac]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae4538142f8c6208bcfe26e99c5ae2ac]: Textual amendment: [Regs. 26C-26J](https://www.legislation.gov.uk/uksi/2001/497/regulation/26C) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/8) (with [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/d))
+[^c-ae4538142f8c6208bcfe26e99c5ae2ac]: Textual amendment: [Regs. 26C-26J](https://www.legislation.gov.uk/uksi/2001/497/regulation/26C) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/8) (with [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/d))

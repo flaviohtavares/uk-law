@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Cases where exemptions not available[^key-2e9f4df7a59c3ef8cf444e16f7c56546]
+## 14. Cases where exemptions not available[^c-2e9f4df7a59c3ef8cf444e16f7c56546]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9f4df7a59c3ef8cf444e16f7c56546]: Commencement: Art. 14 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2e9f4df7a59c3ef8cf444e16f7c56546]: Commencement: Art. 14 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

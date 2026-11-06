@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — STREETS TO BE TEMPORARILY CLOSED (SINGLE LANE CLOSURES / ROAD CLOSURE)[^key-8f431d09fb0ff40bf5fd3f9d1db0a021]
+### PART 1 — STREETS TO BE TEMPORARILY CLOSED (SINGLE LANE CLOSURES / ROAD CLOSURE)[^c-8f431d09fb0ff40bf5fd3f9d1db0a021]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -52,7 +52,7 @@ Article 11
 | North Yorkshire Council | New Road | Temporarily closed to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the construction of the authorised development for the length shown in green on Sheet 22 of the streets, rights of way and access plans. |
 | North Yorkshire Council | Carr Lane | Temporarily closed to all traffic save for traffic under the direction of the undertaker for the width of the street to facilitate the construction of the authorised development for the length shown in green on Sheet 22 of the streets, rights of way and access plans. |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND DIVERTED[^key-e3132347a7025d1af83cdc04c2448130]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND DIVERTED[^c-e3132347a7025d1af83cdc04c2448130]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Article 11
 | East Riding of Yorkshire | WRESF06 | Public Right of Way to be temporarily stopped up and diverted between points PRoW-16/03 and PRoW-16/04 as shown on Sheet 16 of the streets, rights of way and access plans to facilitate the construction of the authorised development. |
 | East Riding of Yorkshire | 35.47/1/1 | Public Right of Way to be temporarily stopped up and diverted between points PRoW-21/03 and PRoW-21/04 as shown on Sheet 21 of the streets, rights of way and access plans to facilitate the construction of the authorised development. |
 
-### PART 3 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^key-f5f75b035b6c226ddeeedc03969e3f48]
+### PART 3 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^c-f5f75b035b6c226ddeeedc03969e3f48]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ Article 11
 | East Riding of Yorkshire | WRESF08 | Permanent use of motor vehicles under the direction of the undertaker between points PRoW-16/07 and PRoW-16/08 as shown on Sheet 16 of the streets, rights of way and access plans to facilitate the construction and operation of the authorised development. |
 | East Riding of Yorkshire | WRESF09 | Permanent use of motor vehicles under the direction of the undertaker between points PRoW-17/01 and PRoW-17/03 as shown on Sheet 17 of the streets, rights of way and access plans to facilitate the construction and operation of the authorised development. |
 
-### PART 4 — TEMPORARY MANAGEMENT OF PUBLIC RIGHTS OF WAY[^key-a78f97b5b1e06c1ecbb49f6a54c25c4d]
+### PART 4 — TEMPORARY MANAGEMENT OF PUBLIC RIGHTS OF WAY[^c-a78f97b5b1e06c1ecbb49f6a54c25c4d]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure (Public Right of Way to be managed during construction to maintain Public Right of Way continuity and access through the site).* |
 | --- | --- | --- |
@@ -109,7 +109,7 @@ Article 11
 | North Yorkshire Council | 35.45/6/1 | Public Right of Way between points PRoW-21/01 and PRoW-21/02 as shown on Sheet 21 of the streets, rights of way and access plans to be managed during construction of the authorised development. |
 | North Yorkshire Council | 35.47/1/2 | Public Right of Way between points PRoW-22/01 and PRoW-22/02 as shown on Sheet 22 of the streets, rights of way and access plans to be managed during construction of the authorised development. |
 
-### PART 5 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^key-4dc91dd16b978cb9c85b7ec0f4b4772b]
+### PART 5 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^c-4dc91dd16b978cb9c85b7ec0f4b4772b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -122,12 +122,12 @@ Article 11
 
 ## Annotations
 
-[^key-8f431d09fb0ff40bf5fd3f9d1db0a021]: Commencement: Sch. 6 Pt. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-8f431d09fb0ff40bf5fd3f9d1db0a021]: Commencement: Sch. 6 Pt. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-e3132347a7025d1af83cdc04c2448130]: Commencement: Sch. 6 Pt. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-e3132347a7025d1af83cdc04c2448130]: Commencement: Sch. 6 Pt. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-f5f75b035b6c226ddeeedc03969e3f48]: Commencement: Sch. 6 Pt. 3 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-f5f75b035b6c226ddeeedc03969e3f48]: Commencement: Sch. 6 Pt. 3 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-a78f97b5b1e06c1ecbb49f6a54c25c4d]: Commencement: Sch. 6 Pt. 4 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-a78f97b5b1e06c1ecbb49f6a54c25c4d]: Commencement: Sch. 6 Pt. 4 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-4dc91dd16b978cb9c85b7ec0f4b4772b]: Commencement: Sch. 6 Pt. 5 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-4dc91dd16b978cb9c85b7ec0f4b4772b]: Commencement: Sch. 6 Pt. 5 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

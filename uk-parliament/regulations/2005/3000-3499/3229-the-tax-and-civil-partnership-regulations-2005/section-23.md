@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23.[^key-7257ea98ad8900e1268062aca69d0bf1]
+## 23.[^c-7257ea98ad8900e1268062aca69d0bf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 121 (agricultural property: successive transfers), in subsection (1)(
 
 ## Annotations
 
-[^key-7257ea98ad8900e1268062aca69d0bf1]: Commencement: Reg. 23 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-7257ea98ad8900e1268062aca69d0bf1]: Commencement: Reg. 23 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

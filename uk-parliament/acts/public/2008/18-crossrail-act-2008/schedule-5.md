@@ -82,7 +82,7 @@ Section 5
 
 (8) In this paragraph—
 
-- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^key-468b9e7309e88c960411e57812f111c6] and the Secretary of State for Transport acting jointly;
+- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^c-468b9e7309e88c960411e57812f111c6] and the Secretary of State for Transport acting jointly;
 - “**relevant planning authority**” means—
   - (a) in relation to land in the area of a unitary authority, the local planning authority;
   - (b) in relation to land not in the area of a unitary authority, the district planning authority;
@@ -152,4 +152,4 @@ Section 5
 
 ## Annotations
 
-[^key-468b9e7309e88c960411e57812f111c6]: Textual amendment: Words in [Sch. 5 para. 2(8)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/5/paragraph/2/8) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 11(c)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/11/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-468b9e7309e88c960411e57812f111c6]: Textual amendment: Words in [Sch. 5 para. 2(8)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/5/paragraph/2/8) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 11(c)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/11/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

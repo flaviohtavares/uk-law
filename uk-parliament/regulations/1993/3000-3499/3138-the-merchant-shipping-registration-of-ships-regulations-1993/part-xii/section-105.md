@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Dispensing with declarations[^key-5d5ed228b56f5068751a38803e4c3731][^key-566105c19262641a0a56ae1e6e81c587]
+## 105. Dispensing with declarations[^c-5d5ed228b56f5068751a38803e4c3731][^c-566105c19262641a0a56ae1e6e81c587]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ When under these Regulations:—
 
 ## Annotations
 
-[^key-5d5ed228b56f5068751a38803e4c3731]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-5d5ed228b56f5068751a38803e4c3731]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-566105c19262641a0a56ae1e6e81c587]: Modification: [Reg. 105](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)
+[^c-566105c19262641a0a56ae1e6e81c587]: Modification: [Reg. 105](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)

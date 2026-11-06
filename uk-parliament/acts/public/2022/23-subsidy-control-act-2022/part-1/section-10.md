@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Subsidy schemes and streamlined subsidy schemes[^key-822961da988c53d6f77760ccef7e0809]
+## 10. Subsidy schemes and streamlined subsidy schemes[^c-822961da988c53d6f77760ccef7e0809]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-822961da988c53d6f77760ccef7e0809]: Commencement: S. 10 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-822961da988c53d6f77760ccef7e0809]: Commencement: S. 10 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

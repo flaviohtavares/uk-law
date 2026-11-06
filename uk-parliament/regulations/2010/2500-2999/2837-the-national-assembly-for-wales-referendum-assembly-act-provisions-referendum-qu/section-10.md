@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Counting officers[^key-cb76e3b1d2a5bd3cd1a3c4d7ee58dd84]
+## 10. Counting officers[^c-cb76e3b1d2a5bd3cd1a3c4d7ee58dd84]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb76e3b1d2a5bd3cd1a3c4d7ee58dd84]: Commencement: Art. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-cb76e3b1d2a5bd3cd1a3c4d7ee58dd84]: Commencement: Art. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

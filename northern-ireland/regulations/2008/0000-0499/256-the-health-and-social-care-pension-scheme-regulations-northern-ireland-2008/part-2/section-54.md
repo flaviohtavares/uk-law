@@ -22,14 +22,14 @@ summary: ''
 
 (1) A deferred member who has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if—
 
-- (a) in the opinion of the Department the member suffers from physical or mental infirmity as a result of which the member is permanently[^key-501da35e29a264446a53a1e8cff770b9] incapable of engaging in regular employment of like duration, and
+- (a) in the opinion of the Department the member suffers from physical or mental infirmity as a result of which the member is permanently[^c-501da35e29a264446a53a1e8cff770b9] incapable of engaging in regular employment of like duration, and
 - (b) the member has claimed the pension.
 
 (2) A deferred member who is in HSC employment and has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if—
 
 - (a) in the opinion of the Department the member—
   - (i) does not fall within paragraph (1)(a), but
-  - (ii) suffers from physical or mental infirmity[^key-6a10b37258df8708475d99e5685615fd] as a result of which the member is permanently incapable of discharging the duties of the member's employment efficiently, and
+  - (ii) suffers from physical or mental infirmity[^c-6a10b37258df8708475d99e5685615fd] as a result of which the member is permanently incapable of discharging the duties of the member's employment efficiently, and
 - (b) the member has left that employment and claimed the pension.
 
 (3) The amount of the annual pension payable under this regulation (disregarding any additional pension) is calculated as specified in regulation 45(4).
@@ -91,12 +91,12 @@ summary: ''
 
     regard being had to the number of hours, half-days and sessions the member worked in that employment.
 
-(10)[^key-ec908bd8fa3d6fdde8dbff472394d880] In the case of a 2008 Section Optant, this regulation is subject to regulation 136L.
+(10)[^c-ec908bd8fa3d6fdde8dbff472394d880] In the case of a 2008 Section Optant, this regulation is subject to regulation 136L.
 
 ## Annotations
 
-[^key-501da35e29a264446a53a1e8cff770b9]: Textual amendment: Word in [reg. 54(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/54/1/a) inserted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [34(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/34/2) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-501da35e29a264446a53a1e8cff770b9]: Textual amendment: Word in [reg. 54(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/54/1/a) inserted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [34(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/34/2) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-6a10b37258df8708475d99e5685615fd]: Textual amendment: Word in [reg. 54(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2008/256/regulation/54/2/a/ii) substituted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [34(3)](https://www.legislation.gov.uk/nisr/2009/65/regulation/34/3) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-6a10b37258df8708475d99e5685615fd]: Textual amendment: Word in [reg. 54(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2008/256/regulation/54/2/a/ii) substituted (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [34(3)](https://www.legislation.gov.uk/nisr/2009/65/regulation/34/3) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-ec908bd8fa3d6fdde8dbff472394d880]: Textual amendment: [Reg. 54(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/54/10) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2010/22/regulation/34)
+[^c-ec908bd8fa3d6fdde8dbff472394d880]: Textual amendment: [Reg. 54(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/54/10) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2010/22/regulation/34)

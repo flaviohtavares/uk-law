@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Interpretation of Part 6[^key-42e88226d4d70a68dbaf6c26bcc77ac2][^key-95cd5320913138b2e5ebd5e103258d17]
+## 199. Interpretation of Part 6[^c-42e88226d4d70a68dbaf6c26bcc77ac2][^c-95cd5320913138b2e5ebd5e103258d17]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ In this Part—
 
 ## Annotations
 
-[^key-42e88226d4d70a68dbaf6c26bcc77ac2]: Commencement: S. 199 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-42e88226d4d70a68dbaf6c26bcc77ac2]: Commencement: S. 199 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-95cd5320913138b2e5ebd5e103258d17]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/52/section/199) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(viii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/viii)
+[^c-95cd5320913138b2e5ebd5e103258d17]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/52/section/199) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(viii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/viii)

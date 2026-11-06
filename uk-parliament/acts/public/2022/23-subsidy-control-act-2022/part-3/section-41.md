@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Exemption for certain subsidies given to SPEI enterprises[^key-d1bf2c9dd1c48157e44194cc7e10eec9][^key-0831e3f2c8d92f1eea808f3d8eceaabe]
+## 41. Exemption for certain subsidies given to SPEI enterprises[^c-d1bf2c9dd1c48157e44194cc7e10eec9][^c-0831e3f2c8d92f1eea808f3d8eceaabe]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1bf2c9dd1c48157e44194cc7e10eec9]: Commencement: S. 41 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-d1bf2c9dd1c48157e44194cc7e10eec9]: Commencement: S. 41 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-0831e3f2c8d92f1eea808f3d8eceaabe]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/23/section/41) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-0831e3f2c8d92f1eea808f3d8eceaabe]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/23/section/41) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

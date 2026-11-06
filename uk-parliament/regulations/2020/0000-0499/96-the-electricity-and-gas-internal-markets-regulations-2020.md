@@ -52,13 +52,13 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-98fd7feeb3d70796042c7eada8462821]
+### 1. Citation and commencement[^c-98fd7feeb3d70796042c7eada8462821]
 
 These Regulations may be cited as the Electricity and Gas (Internal Markets) Regulations 2020 and come into force on 25th February 2020*.*
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Gas Act 1986[^key-5e295384ac3daf6a56039125383251fa]
+### 2. Gas Act 1986[^c-5e295384ac3daf6a56039125383251fa]
 
 (1) The Gas Act 1986 [^c23973211] is amended as follows.
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Electricity and Gas (Internal Markets) Reg
 
 .
 
-### 3. Electricity Act 1989[^key-9b5d4bcfe4a18b8e4a97b07031730834]
+### 3. Electricity Act 1989[^c-9b5d4bcfe4a18b8e4a97b07031730834]
 
 (1) The Electricity Act 1989 [^c23973241] is amended as follows.
 
@@ -231,7 +231,7 @@ These Regulations may be cited as the Electricity and Gas (Internal Markets) Reg
 
   .
 
-### 4. Utilities Act 2000[^key-6fb4fa791fdffe78d3597b190624f11e]
+### 4. Utilities Act 2000[^c-6fb4fa791fdffe78d3597b190624f11e]
 
 (1) The Utilities Act 2000 [^c23973371] is amended as follows.
 
@@ -245,7 +245,7 @@ These Regulations may be cited as the Electricity and Gas (Internal Markets) Reg
 
 ## PART 3 — Amendment of subordinate legislation: Great Britain
 
-### 5. Electricity and Gas (Internal Markets) Regulations 2011[^key-73c6493cace2164c7415fdebeee18e91]
+### 5. Electricity and Gas (Internal Markets) Regulations 2011[^c-73c6493cace2164c7415fdebeee18e91]
 
 (1) The Electricity and Gas (Internal Markets) Regulations 2011 [^c23973391], are amended as follows.
 
@@ -272,7 +272,7 @@ These Regulations may be cited as the Electricity and Gas (Internal Markets) Reg
 
 ## PART 4 — Amendment of Northern Ireland Legislation
 
-### 6. The Electricity (Northern Ireland) Order 1992[^key-5a5ebf13398467380d92c676745e4da9]
+### 6. The Electricity (Northern Ireland) Order 1992[^c-5a5ebf13398467380d92c676745e4da9]
 
 (1) The Electricity (Northern Ireland) Order 1992 [^c23973421] is amended as follows.
 
@@ -305,14 +305,14 @@ These Regulations may be cited as the Electricity and Gas (Internal Markets) Reg
 
 (6) In Article 10L(1) (interpretation)—
 
-- (a)[^key-ff8d11d09632f68cc4e4a34a27ca9f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ff8d11d09632f68cc4e4a34a27ca9f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) before the definition of “certification ground”, insert—
 
   > “**2009 Electricity Market Regulation**” means Regulation [(EC) 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) of the European Parliament and of the Council of 13 July 2009 on conditions for access to the network for cross-border exchanges in electricity;
 
   .
 
-### 7. The Energy (Northern Ireland) Order 2003[^key-b38691be33d30b78e3d50cddb39f7962]
+### 7. The Energy (Northern Ireland) Order 2003[^c-b38691be33d30b78e3d50cddb39f7962]
 
 (1) The Energy (Northern Ireland) Order 2003 [^c23973431] is amended as follows.
 
@@ -372,7 +372,7 @@ These Regulations may be cited as the Electricity and Gas (Internal Markets) Reg
 
 ## PART 5 — Modifications of Standard Conditions
 
-### 8. Modifications of standard conditions of gas licences and electricity licences[^key-f1a15df1746873dd3ace5dd432666f3f]
+### 8. Modifications of standard conditions of gas licences and electricity licences[^c-f1a15df1746873dd3ace5dd432666f3f]
 
 The Schedule to these Regulations (which modifies the standard conditions of gas interconnector licences granted under Part 1 of the Gas Act 1986 and the standard conditions of transmission, distribution, supply and interconnector licences granted under Part 1 of the Electricity Act 1989) has effect.
 
@@ -388,7 +388,7 @@ Regulation 8
 
 ### PART 1 — Interpretation
 
-**1.**[^key-9b648c10f079bdbff2fffa11b7ee4777] In this Schedule—
+**1.**[^c-9b648c10f079bdbff2fffa11b7ee4777] In this Schedule—
 
 - *“electricity distribution licence”* means a licence granted under section 6(1)(c) of the Electricity Act 1989 (distribution licences);
 - *“electricity interconnector licence”* means a licence granted under section 6(1)(e) of the Electricity Act 1989 (interconnector licences);
@@ -398,7 +398,7 @@ Regulation 8
 
 ### PART 2 — Modifications of standard conditions of licences granted under the Gas Act 1986
 
-**2.**[^key-f3158de2a86f13989f2aec335308c91b] (1) The standard conditions of a gas interconnector licence are amended as follows.
+**2.**[^c-f3158de2a86f13989f2aec335308c91b] (1) The standard conditions of a gas interconnector licence are amended as follows.
 
 (2) In condition 1 (definitions and interpretation), for the definition of “Agency” substitute—
 
@@ -408,7 +408,7 @@ Regulation 8
 
 ### PART 3 — Modifications of standard conditions of licences granted under the Electricity Act 1989
 
-#### 3. Standard conditions of electricity transmission licences[^key-62bf1e2a5c72f4b32f1786db27f03f02]
+#### 3. Standard conditions of electricity transmission licences[^c-62bf1e2a5c72f4b32f1786db27f03f02]
 
 (1) The standard conditions of an electricity transmission licence are amended as follows.
 
@@ -429,7 +429,7 @@ Regulation 8
 
 (4) In condition E24 (regional cooperation), in paragraph 1, for “Article 12” substitute “ Article 34 ”.
 
-#### 4. Standard conditions of electricity distribution licences[^key-d19cc57711508b79976a856a12692e8e]
+#### 4. Standard conditions of electricity distribution licences[^c-d19cc57711508b79976a856a12692e8e]
 
 (1) The standard conditions of an electricity distribution licence are amended as follows.
 
@@ -446,7 +446,7 @@ Regulation 8
 
   .
 
-#### 5. Standard conditions of electricity supply licences[^key-86cd15e6a1a7d131c83f574137f09854]
+#### 5. Standard conditions of electricity supply licences[^c-86cd15e6a1a7d131c83f574137f09854]
 
 (1) The standard conditions of an electricity supply licence are amended as follows.
 
@@ -456,7 +456,7 @@ Regulation 8
 
 .
 
-#### 6. Standard conditions of electricity interconnector licences[^key-17545273925bd4f174f0e81074eac8c3]
+#### 6. Standard conditions of electricity interconnector licences[^c-17545273925bd4f174f0e81074eac8c3]
 
 (1) The standard conditions of an electricity interconnector licence are amended as follows.
 
@@ -516,9 +516,9 @@ While costs and benefits have been assessed, a full impact assessment has not be
 
 [^c23973201]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The European Communities Act 1972 was repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) with effect from exit day, but saved with modifications until IP completion day by section 1A of that [Act (as inserted by section 1 of the European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). Section 2(2) of the European Communities Act 1972 was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-98fd7feeb3d70796042c7eada8462821]: Commencement: Reg. 1 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-98fd7feeb3d70796042c7eada8462821]: Commencement: Reg. 1 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-5e295384ac3daf6a56039125383251fa]: Commencement: Reg. 2 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-5e295384ac3daf6a56039125383251fa]: Commencement: Reg. 2 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973211]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44); relevant amending instruments are [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced.
 
@@ -526,7 +526,7 @@ While costs and benefits have been assessed, a full impact assessment has not be
 
 [^c23973231]: Marginal citation: OJ No L 158, 14.6.2019, p. 54–124.
 
-[^key-9b5d4bcfe4a18b8e4a97b07031730834]: Commencement: Reg. 3 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-9b5d4bcfe4a18b8e4a97b07031730834]: Commencement: Reg. 3 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973241]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); relevant amending instruments are [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced.
 
@@ -554,13 +554,13 @@ While costs and benefits have been assessed, a full impact assessment has not be
 
 [^c23973361]: Marginal citation: OJ No L 163, 15.6.2013,[2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27); relevant amending instruments are [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced. p. 1–12.
 
-[^key-6fb4fa791fdffe78d3597b190624f11e]: Commencement: Reg. 4 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-6fb4fa791fdffe78d3597b190624f11e]: Commencement: Reg. 4 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973371]: Marginal citation: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27); relevant amending instruments are [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced.
 
 [^c23973381]: Marginal citation: OJ No L 158, 14.6.2019, p. 22–53.
 
-[^key-73c6493cace2164c7415fdebeee18e91]: Commencement: Reg. 5 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-73c6493cace2164c7415fdebeee18e91]: Commencement: Reg. 5 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973391]: Marginal citation: [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704); relevant amending instruments are [S.I. 2014/3332](https://www.legislation.gov.uk/uksi/2014/3332),[S.I. 2017/493](https://www.legislation.gov.uk/uksi/2017/493) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced.
 
@@ -568,30 +568,30 @@ While costs and benefits have been assessed, a full impact assessment has not be
 
 [^c23973411]: Marginal citation: OJ No L 158, 14.6.2019, p. 54–124.
 
-[^key-5a5ebf13398467380d92c676745e4da9]: Commencement: Reg. 6 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-5a5ebf13398467380d92c676745e4da9]: Commencement: Reg. 6 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973421]: Marginal citation: [S.I. 1992/231 (N.I.1)](https://www.legislation.gov.uk/nisi/1992/231); relevant amending instruments are [S.I. 1999/506](https://www.legislation.gov.uk/uksi/1999/506), [S.I](https://www.legislation.gov.uk/uksi/1999/506/section/I). 2003/419 (N.I.6), [S.R. 2007/321](https://www.legislation.gov.uk/nisr/2007/321), [S.I](https://www.legislation.gov.uk/nisr/2007/321/section/I). 2007/913 (N.I.7), [S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155), [S.R. 2015/249](https://www.legislation.gov.uk/nisr/2015/249) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced.
 
-[^key-ff8d11d09632f68cc4e4a34a27ca9f06]: Textual amendment: [Reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/6/a) revoked (31.12.2020) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/2), [5(d)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/d)
+[^c-ff8d11d09632f68cc4e4a34a27ca9f06]: Textual amendment: [Reg. 6(6)(a)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/6/a) revoked (31.12.2020) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/2), [5(d)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/d)
 
-[^key-b38691be33d30b78e3d50cddb39f7962]: Commencement: Reg. 7 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-b38691be33d30b78e3d50cddb39f7962]: Commencement: Reg. 7 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973431]: Marginal citation: [S.I. 2003/419 (N.I.6)](https://www.legislation.gov.uk/nisi/2003/419); relevant amending instruments are section 9(4)(b) of the [Energy Act (Northern Ireland) 2011 (c. 6)](https://www.legislation.gov.uk/nia/2011/6), [paragraph 26](https://www.legislation.gov.uk/nia/2011/6/paragraph/26) of Schedule 14 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [S.R. 2005/335](https://www.legislation.gov.uk/nisr/2005/335), [S.I](https://www.legislation.gov.uk/nisr/2005/335/section/I). 2006/3336 (N.I.21), [S.R. 2007/321](https://www.legislation.gov.uk/nisr/2007/321), [S.I](https://www.legislation.gov.uk/nisr/2007/321/section/I). 2007/913 (N.I.7), [S.R. 2010/27](https://www.legislation.gov.uk/nisr/2010/27), [S.R. 2011/155](https://www.legislation.gov.uk/nisr/2011/155), [S.R. 2013/92](https://www.legislation.gov.uk/nisr/2013/92), S.R 2014/198 and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530), which has not yet been commenced.
 
 [^c23973441]: Marginal citation: [S.I. 2020/96](https://www.legislation.gov.uk/uksi/2020/96).
 
-[^key-f1a15df1746873dd3ace5dd432666f3f]: Commencement: Reg. 8 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-f1a15df1746873dd3ace5dd432666f3f]: Commencement: Reg. 8 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-9b648c10f079bdbff2fffa11b7ee4777]: Commencement: Sch. para. 1 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-9b648c10f079bdbff2fffa11b7ee4777]: Commencement: Sch. para. 1 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-f3158de2a86f13989f2aec335308c91b]: Commencement: Sch. para. 2 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-f3158de2a86f13989f2aec335308c91b]: Commencement: Sch. para. 2 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-62bf1e2a5c72f4b32f1786db27f03f02]: Commencement: Sch. para. 3 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-62bf1e2a5c72f4b32f1786db27f03f02]: Commencement: Sch. para. 3 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-d19cc57711508b79976a856a12692e8e]: Commencement: Sch. para. 4 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-d19cc57711508b79976a856a12692e8e]: Commencement: Sch. para. 4 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-86cd15e6a1a7d131c83f574137f09854]: Commencement: Sch. para. 5 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-86cd15e6a1a7d131c83f574137f09854]: Commencement: Sch. para. 5 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
-[^key-17545273925bd4f174f0e81074eac8c3]: Commencement: Sch. para. 6 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
+[^c-17545273925bd4f174f0e81074eac8c3]: Commencement: Sch. para. 6 in force at 25.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1)
 
 [^c23973451]: Marginal citation: Directive (EU) 2018/844 (energy performance in buildings); Directive (EU) 2018/2001 (renewable energy); Directive (EU) 2018/2002 (energy efficiency); Regulation (EU) 2018/1999 (governance of energy union); and Regulation (EU) 2019/941 (on risk preparedness).

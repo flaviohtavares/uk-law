@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Prohibition on employment of police in fire-fighting[^key-ffaf15e4d8a2abb5733c59e312789184]
+## 37. Prohibition on employment of police in fire-fighting[^c-ffaf15e4d8a2abb5733c59e312789184]
 
 *Extent: E+W*
 
@@ -30,15 +30,15 @@ summary: ''
 - (a) a relevant chief constable, or
 - (b) a deputy chief constable to whom such functions have been delegated by a relevant chief constable.
 
-(3) In this section “relevant chief constable” means the chief constable of a police force for a police area to whom —[^key-078a74302fb7c56eea100ee330788b1a]
+(3) In this section “relevant chief constable” means the chief constable of a police force for a police area to whom —[^c-078a74302fb7c56eea100ee330788b1a]
 
-- (a) functions of a fire and rescue authority have been delegated under an order under section 4H, or[^key-693e126b4dc95bacdbde21094a563257]
+- (a) functions of a fire and rescue authority have been delegated under an order under section 4H, or[^c-693e126b4dc95bacdbde21094a563257]
 - (b) functions of a fire and rescue authority which are exercisable by the mayor of a combined authority have been delegated under an order under section 107EA(2) of the Local Democracy, Economic Development and Construction Act 2009.
 
 ## Annotations
 
-[^key-ffaf15e4d8a2abb5733c59e312789184]: Textual amendment: S. 37 substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/12); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-ffaf15e4d8a2abb5733c59e312789184]: Textual amendment: S. 37 substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/12); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-078a74302fb7c56eea100ee330788b1a]: Textual amendment: Words in s. 37(3) inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(9)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/9/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
+[^c-078a74302fb7c56eea100ee330788b1a]: Textual amendment: Words in s. 37(3) inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(9)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/9/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
 
-[^key-693e126b4dc95bacdbde21094a563257]: Textual amendment: S. 37(3)(b) and word inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(9)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/9/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)
+[^c-693e126b4dc95bacdbde21094a563257]: Textual amendment: S. 37(3)(b) and word inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 8(9)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/8/9/b), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/a)

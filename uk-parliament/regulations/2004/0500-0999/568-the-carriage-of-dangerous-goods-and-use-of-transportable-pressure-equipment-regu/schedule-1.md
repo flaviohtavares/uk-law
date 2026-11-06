@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — OLD TANKS[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+## SCHEDULE 1 — OLD TANKS[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Regulation 5(3)
 
-### 1. Interpretation[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 1. Interpretation[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Construction of tanks of old tank-vehicles, tank containers and old tank wagons for carriage by road or rail[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 2. Construction of tanks of old tank-vehicles, tank containers and old tank wagons for carriage by road or rail[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Testing, examination and maintenance for carriage by road or rail[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 3. Testing, examination and maintenance for carriage by road or rail[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Testing, examination and maintenance for carriage by road[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 4. Testing, examination and maintenance for carriage by road[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Testing, examination and maintenance for carriage by rail[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 5. Testing, examination and maintenance for carriage by rail[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Use of old tank-vehicles, old tank wagons or tank-containers for carriage by road or rail[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 6. Use of old tank-vehicles, old tank wagons or tank-containers for carriage by road or rail[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Keeping of documents[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 7. Keeping of documents[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Appointment of inspection bodies by the competent authority[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 8. Appointment of inspection bodies by the competent authority[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Exceptions[^key-1fe9fc272f3e84b7214ed18975b3c1be]
+### 9. Exceptions[^c-1fe9fc272f3e84b7214ed18975b3c1be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fe9fc272f3e84b7214ed18975b3c1be]: Textual amendment: Regulations revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
+[^c-1fe9fc272f3e84b7214ed18975b3c1be]: Textual amendment: Regulations revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)

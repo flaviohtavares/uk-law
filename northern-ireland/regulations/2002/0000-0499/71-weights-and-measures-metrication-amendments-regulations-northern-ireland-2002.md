@@ -31,7 +31,7 @@ summary: ''
 
 WEIGHTS AND MEASURES
 
-Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2002 (revoked)[^key-ddf046cc8aba287eeae1f17fd06d0e4b]
+Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2002 (revoked)[^c-ddf046cc8aba287eeae1f17fd06d0e4b]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 8th April 2002
 
-[^key-ddf046cc8aba287eeae1f17fd06d0e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddf046cc8aba287eeae1f17fd06d0e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ddf046cc8aba287eeae1f17fd06d0e4b]
+## 1. Citation and commencement[^c-ddf046cc8aba287eeae1f17fd06d0e4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of Regulations[^key-ddf046cc8aba287eeae1f17fd06d0e4b]
+## 2. Amendments of Regulations[^c-ddf046cc8aba287eeae1f17fd06d0e4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ddf046cc8aba287eeae1f17fd06d0e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddf046cc8aba287eeae1f17fd06d0e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-ddf046cc8aba287eeae1f17fd06d0e4b]
+## SCHEDULE[^c-ddf046cc8aba287eeae1f17fd06d0e4b]
 
 regulation 2
 
-**1.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ddf046cc8aba287eeae1f17fd06d0e4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ddf046cc8aba287eeae1f17fd06d0e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddf046cc8aba287eeae1f17fd06d0e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ddf046cc8aba287eeae1f17fd06d0e4b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/71) revoked (6.12.2010) by [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/366/regulation/4)
+[^c-ddf046cc8aba287eeae1f17fd06d0e4b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/71) revoked (6.12.2010) by [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/366/regulation/4)

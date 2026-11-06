@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Notices[^key-c6039d8f328be03c02fb03c37412bc54]
+## 64. Notices[^c-c6039d8f328be03c02fb03c37412bc54]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6039d8f328be03c02fb03c37412bc54]: Commencement: Art. 64 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-c6039d8f328be03c02fb03c37412bc54]: Commencement: Art. 64 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00020]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

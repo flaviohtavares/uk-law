@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Cessation of Office for National Statistics etc[^key-b0b9308714f107069ea9bdabcc3c7987]
+## 55. Cessation of Office for National Statistics etc[^c-b0b9308714f107069ea9bdabcc3c7987]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following shall cease to function on the commencement of this section—
 
 ## Annotations
 
-[^key-b0b9308714f107069ea9bdabcc3c7987]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2007/18/section/55) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-b0b9308714f107069ea9bdabcc3c7987]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2007/18/section/55) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

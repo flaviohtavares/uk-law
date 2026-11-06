@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132A. Right of person not afforded opportunity to participate to require review[^key-ba049326f5f49906eb7e15617b62cd70]
+## 132A. Right of person not afforded opportunity to participate to require review[^c-ba049326f5f49906eb7e15617b62cd70]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba049326f5f49906eb7e15617b62cd70]: Textual amendment: S. 132A inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(5)](https://www.legislation.gov.uk/asp/2020/16/section/25/5), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)
+[^c-ba049326f5f49906eb7e15617b62cd70]: Textual amendment: S. 132A inserted (26.7.2021) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 25(5)](https://www.legislation.gov.uk/asp/2020/16/section/25/5), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2020/412](https://www.legislation.gov.uk/ssi/2020/412), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/412/regulation/2/2/c)

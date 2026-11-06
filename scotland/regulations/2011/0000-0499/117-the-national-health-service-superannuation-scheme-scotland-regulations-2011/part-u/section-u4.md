@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## U4. Cost Sharing[^key-a532a4aeeb56e682b69af4bf5f19b782]
+## U4. Cost Sharing[^c-a532a4aeeb56e682b69af4bf5f19b782]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a532a4aeeb56e682b69af4bf5f19b782]: Textual amendment: Reg. U4 omitted (with effect in accordance with reg. 1(8) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [24](https://www.legislation.gov.uk/ssi/2013/109/regulation/24) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))
+[^c-a532a4aeeb56e682b69af4bf5f19b782]: Textual amendment: Reg. U4 omitted (with effect in accordance with reg. 1(8) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [24](https://www.legislation.gov.uk/ssi/2013/109/regulation/24) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))

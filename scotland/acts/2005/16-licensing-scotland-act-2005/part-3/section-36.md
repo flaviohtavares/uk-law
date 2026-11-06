@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Application for review of premises licence[^key-5d162e2e8a3d1572688c8e7b4fcefdb2]
+## 36. Application for review of premises licence[^c-5d162e2e8a3d1572688c8e7b4fcefdb2]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The grounds for review referred to in subsection (1) are—
 
-- (za)[^key-10b9d39d5c68d4c75f89af73f47721dc] that, having regard to the licensing objectives, the licence holder is not a fit and proper person to be the holder of a premises licence,
+- (za)[^c-10b9d39d5c68d4c75f89af73f47721dc] that, having regard to the licensing objectives, the licence holder is not a fit and proper person to be the holder of a premises licence,
 - (a) that one or more of the conditions to which the premises licence is subject has been breached, or
 - (b) any other ground relevant to one or more of the licensing objectives.
 
@@ -37,11 +37,11 @@ summary: ''
 
 (5) A premises licence review application must specify the alleged ground for review, including in particular—
 
-- (za)[^key-d9e67b0a2b610c38c4ba2bbed9d2d3a5] where the ground is that specified in subsection (3)(za), a summary of the information on which the applicant's view that the alleged ground applies is based,
+- (za)[^c-d9e67b0a2b610c38c4ba2bbed9d2d3a5] where the ground is that specified in subsection (3)(za), a summary of the information on which the applicant's view that the alleged ground applies is based,
 - (a) where the ground is that specified in subsection (3)(a), the condition or conditions alleged to have been breached,
 - (b) where the ground is that specified in subsection (3)(b), the licensing objective or objectives to which the alleged ground of review relates.
 
-(5A)[^key-eea643d311b7f4f63d63ad9e588c26b9] A person making a premises licence review application may include in the application any information that the applicant considers may be relevant to consideration by the Licensing Board of the alleged ground for review including, in particular, information in relation to—
+(5A)[^c-eea643d311b7f4f63d63ad9e588c26b9] A person making a premises licence review application may include in the application any information that the applicant considers may be relevant to consideration by the Licensing Board of the alleged ground for review including, in particular, information in relation to—
 
 - (a) the licence holder,
 - (b) where the licence holder is neither an individual nor a council, a connected person in relation to the licence holder, or
@@ -66,10 +66,10 @@ is sufficient evidence of the rejection and of the establishment of the grounds 
 
 ## Annotations
 
-[^key-5d162e2e8a3d1572688c8e7b4fcefdb2]: Commencement: S. 36 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-5d162e2e8a3d1572688c8e7b4fcefdb2]: Commencement: S. 36 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-10b9d39d5c68d4c75f89af73f47721dc]: Textual amendment: S. 36(3)(za) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(2)(a)](https://www.legislation.gov.uk/asp/2015/10/section/45/2/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-10b9d39d5c68d4c75f89af73f47721dc]: Textual amendment: S. 36(3)(za) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(2)(a)](https://www.legislation.gov.uk/asp/2015/10/section/45/2/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
 
-[^key-d9e67b0a2b610c38c4ba2bbed9d2d3a5]: Textual amendment: S. 36(5)(za) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/45/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-d9e67b0a2b610c38c4ba2bbed9d2d3a5]: Textual amendment: S. 36(5)(za) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/45/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
 
-[^key-eea643d311b7f4f63d63ad9e588c26b9]: Textual amendment: S. 36(5A) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(2)(c)](https://www.legislation.gov.uk/asp/2015/10/section/45/2/c), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-eea643d311b7f4f63d63ad9e588c26b9]: Textual amendment: S. 36(5A) inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(2)(c)](https://www.legislation.gov.uk/asp/2015/10/section/45/2/c), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

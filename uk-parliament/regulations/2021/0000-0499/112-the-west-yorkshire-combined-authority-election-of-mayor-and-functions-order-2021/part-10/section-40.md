@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Transfers: supplementary provision[^key-a404dbd65bd4f99d59393dc1651aab4f]
+## 40. Transfers: supplementary provision[^c-a404dbd65bd4f99d59393dc1651aab4f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ as they have effect in relation to the transfer made by this Order of land or ot
 
 ## Annotations
 
-[^key-a404dbd65bd4f99d59393dc1651aab4f]: Commencement: Art. 40 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-a404dbd65bd4f99d59393dc1651aab4f]: Commencement: Art. 40 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)

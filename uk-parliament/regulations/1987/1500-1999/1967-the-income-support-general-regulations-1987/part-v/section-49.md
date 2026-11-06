@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Calculation of capital in the United Kingdom[^key-92c5aeed595d912e0f1da70f51fb1ec5][^key-bddfdf69553edeb5c3d5072df4f59714]
+## 49. Calculation of capital in the United Kingdom[^c-92c5aeed595d912e0f1da70f51fb1ec5][^c-bddfdf69553edeb5c3d5072df4f59714]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ Capital which a claimant possesses in the United Kingdom shall be calculated at 
 
 ## Annotations
 
-[^key-92c5aeed595d912e0f1da70f51fb1ec5]: Commencement: Reg. 49 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-92c5aeed595d912e0f1da70f51fb1ec5]: Commencement: Reg. 49 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-bddfdf69553edeb5c3d5072df4f59714]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/1987/1967/regulation/49) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/5/10)
+[^c-bddfdf69553edeb5c3d5072df4f59714]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/1987/1967/regulation/49) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [5(10)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/5/10)

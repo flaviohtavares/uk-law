@@ -42,7 +42,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-### 1. Meeting a child following certain preliminary contact[^key-ce3998e7315dc369e0fd1ebc1af4b44c]
+### 1. Meeting a child following certain preliminary contact[^c-ce3998e7315dc369e0fd1ebc1af4b44c]
 
 (1) A person (“A”) commits an offence if—
 
@@ -74,39 +74,39 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years or a fine or both.
 
-(5) Subsection (7) of section 55 of the Sexual Offences (Scotland) Act 2009 (asp 9)[^key-a3939e7003e96849d7c8843a2a8cc4f9] (which determines the sheriff court district in which proceedings against persons committing certain sexual acts outside the United Kingdom are to be taken) apply in relation to proceedings for an offence under this section as they apply to an offence to which that section applies.
+(5) Subsection (7) of section 55 of the Sexual Offences (Scotland) Act 2009 (asp 9)[^c-a3939e7003e96849d7c8843a2a8cc4f9] (which determines the sheriff court district in which proceedings against persons committing certain sexual acts outside the United Kingdom are to be taken) apply in relation to proceedings for an offence under this section as they apply to an offence to which that section applies.
 
 ## Risk of sexual harm orders
 
 *Extent: S*
 
-### 2. Risk of sexual harm orders: applications, grounds and effect[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 2. Risk of sexual harm orders: applications, grounds and effect[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation of section 2[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 3. Interpretation of section 2[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. RSHOs: variations, renewals and discharges[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 4. RSHOs: variations, renewals and discharges[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Interim RSHOs[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 5. Interim RSHOs[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Appeals[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 6. Appeals[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Offence: breach of RSHO or interim RSHO etc[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 7. Offence: breach of RSHO or interim RSHO etc[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Effect of conviction etc. under section 7 above or section 122H or 128 of Sexual Offences Act 2003[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]
+### 8. Effect of conviction etc. under section 7 above or section 122H or 128 of Sexual Offences Act 2003[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]
 
 **No longer in force.**
 
@@ -116,7 +116,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-### 9. Paying for sexual services of a child[^key-1429cd21364226ce1da7187e50deabcd]
+### 9. Paying for sexual services of a child[^c-1429cd21364226ce1da7187e50deabcd]
 
 (1) A person (“A”) commits an offence if—
 
@@ -140,14 +140,14 @@ and a person's sexual services are obtained where what is obtained is the perfor
 (4) A person guilty of an offence under this section in respect of a person aged 16 or over is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 7 years or a fine or both[^key-9e4bfa7e2694e3233049b5175f641219].
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 7 years or a fine or both[^c-9e4bfa7e2694e3233049b5175f641219].
 
 (5) A person guilty of an offence under this section in respect of a person aged under 16 is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^key-7404e0c78f6739e659e5b8861bd117ff].
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^c-7404e0c78f6739e659e5b8861bd117ff].
 
-### 10. Causing or inciting provision by child of sexual services or child pornography[^key-05e5e49db83aa204c0fceab645c41ada]
+### 10. Causing or inciting provision by child of sexual services or child pornography[^c-05e5e49db83aa204c0fceab645c41ada]
 
 (1) A person (“A”) commits an offence if—
 
@@ -159,9 +159,9 @@ and a person's sexual services are obtained where what is obtained is the perfor
 (2) A person guilty of an offence under this section is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^key-09c67bf21a82e04a2f5ea4f7ea1373a3].
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^c-09c67bf21a82e04a2f5ea4f7ea1373a3].
 
-### 11. Controlling a child providing sexual services or involved in pornography[^key-661e7ae9fb5c0cf37592e7a0b722e827]
+### 11. Controlling a child providing sexual services or involved in pornography[^c-661e7ae9fb5c0cf37592e7a0b722e827]
 
 (1) A person (“A”) commits an offence if—
 
@@ -173,9 +173,9 @@ and a person's sexual services are obtained where what is obtained is the perfor
 (2) A person guilty of an offence under this section is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^key-8681cd7d8764210577ef8904154c48ac].
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^c-8681cd7d8764210577ef8904154c48ac].
 
-### 12. Arranging or facilitating provision by child of sexual services or child pornography[^key-abcd2e056d42fa598ab5a3cfef5b4242]
+### 12. Arranging or facilitating provision by child of sexual services or child pornography[^c-abcd2e056d42fa598ab5a3cfef5b4242]
 
 (1) A person (“A”) commits an offence if—
 
@@ -191,9 +191,9 @@ and a person's sexual services are obtained where what is obtained is the perfor
 (2) A person guilty of an offence under this section is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum or both;
-- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^key-4deaa344106ce91f6456aa3a38110148].
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 14 years or a fine or both[^c-4deaa344106ce91f6456aa3a38110148].
 
-### 13. Sections 10 to 12: supplementary[^key-4f90826159d1711826a692cd0b8f67b3]
+### 13. Sections 10 to 12: supplementary[^c-4f90826159d1711826a692cd0b8f67b3]
 
 (1) For the purpose of sections 10 to 12 above, a person is involved in pornography if an indecent image of that person is recorded; and similar expressions, and “pornography”, are to be construed accordingly.
 
@@ -210,13 +210,13 @@ and a person's sexual services are offered or provided to another person where s
 
 (5) A person does not commit an offence under section 10, 11 or 12 above by reason only of doing something within section 52(1) or 52A(1) of the Civic Government (Scotland) Act 1982 (c. 45).
 
-### 14. Liability to other criminal proceedings[^key-2808f63677711c864584961b8d5e4f03]
+### 14. Liability to other criminal proceedings[^c-2808f63677711c864584961b8d5e4f03]
 
 (1) Sections 9 to 12 above do not exempt any person from any proceedings for an offence which is punishable at common law or under any enactment other than those sections.
 
 (2) But nothing in those sections or this section enables a person to be punished twice for the same offence.
 
-### 14A. Offences by bodies corporate etc.[^key-249a484cb46bdebe0027ad6940076001]
+### 14A. Offences by bodies corporate etc.[^c-249a484cb46bdebe0027ad6940076001]
 
 (1) Subsection (2) applies where an offence under sections 10 to 12 committed—
 
@@ -238,7 +238,7 @@ and a person's sexual services are offered or provided to another person where s
 
 *Extent: S*
 
-### 15. Removal of time limit for prosecution of offence[^key-bb11be36567e3604880478afbdf96a95]
+### 15. Removal of time limit for prosecution of offence[^c-bb11be36567e3604880478afbdf96a95]
 
 Subsections (4) and (7) of section 5 of the Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) (unlawful intercourse with a girl under 16) are repealed.
 
@@ -246,7 +246,7 @@ Subsections (4) and (7) of section 5 of the Criminal Law (Consolidation) (Scotla
 
 *Extent: S*
 
-### 16. Indecent photographs of 16 and 17 year olds[^key-a1ccd7aa0468ef725af859e53d076cec]
+### 16. Indecent photographs of 16 and 17 year olds[^c-a1ccd7aa0468ef725af859e53d076cec]
 
 (1) The Civic Government (Scotland) Act 1982 (c. 45) is amended as follows.
 
@@ -330,27 +330,27 @@ Subsections (4) and (7) of section 5 of the Criminal Law (Consolidation) (Scotla
 
 ## Sexual offences prevention orders
 
-### 17. Prevention of sexual offences: further provision[^key-2c912666d96e625a7ea34aef34825f41][^key-618954d303d007c43be411be19b60999]
+### 17. Prevention of sexual offences: further provision[^c-2c912666d96e625a7ea34aef34825f41][^c-618954d303d007c43be411be19b60999]
 
-(1)[^key-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-96abb8668e8a6939115cc6dfabb1104f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 142(3) of that Act (its Scottish extent) after “93” there is inserted “ , 110 ”.
 
 ## General
 
-### 18. Minor and consequential amendments[^key-aecb6c389f214fe857efeaa2f8dd9e35][^key-1e3945530e0d7115bbb9c03be46c8ff7]
+### 18. Minor and consequential amendments[^c-aecb6c389f214fe857efeaa2f8dd9e35][^c-1e3945530e0d7115bbb9c03be46c8ff7]
 
 The schedule to this Act, which contains minor amendments and amendments consequential on this Act, has effect.
 
-### 19. Interpretation[^key-784469c49754eda80822ce77f8c9ca9b]
+### 19. Interpretation[^c-784469c49754eda80822ce77f8c9ca9b]
 
 *Extent: S*
 
@@ -377,13 +377,13 @@ In this Act—
 
 (introduced by section 18)
 
-### 1. The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)[^key-8f4292bdafbdd2c1d1fb402606722a93]
+### 1. The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)[^c-8f4292bdafbdd2c1d1fb402606722a93]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Criminal Procedure (Scotland) Act 1995 (c. 46)[^key-9cba9a74f5411b3433a3c4ca31315b56]
+### 2. The Criminal Procedure (Scotland) Act 1995 (c. 46)[^c-9cba9a74f5411b3433a3c4ca31315b56]
 
 *Extent: S*
 
@@ -395,7 +395,7 @@ In Schedule 1 to the Criminal Procedure (Scotland) Act 1995 (offences against ch
 
 .
 
-### 3. The Sexual Offences Act 2003 (c. 42)[^key-1dcfa508eac5af28bf5461a4b401ffc7][^key-5e0c51aecf5a58b4262f4e537a2917d5]
+### 3. The Sexual Offences Act 2003 (c. 42)[^c-1dcfa508eac5af28bf5461a4b401ffc7][^c-5e0c51aecf5a58b4262f4e537a2917d5]
 
 In Schedule 3 to the 2003 Act (offences which make a person subject to the requirements of Part 2 of the Act)—
 
@@ -447,56 +447,56 @@ In Schedule 3 to the 2003 Act (offences which make a person subject to the requi
 
 ## Annotations
 
-[^key-ce3998e7315dc369e0fd1ebc1af4b44c]: Commencement: S. 1 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-ce3998e7315dc369e0fd1ebc1af4b44c]: Commencement: S. 1 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-a3939e7003e96849d7c8843a2a8cc4f9]: Textual amendment: Words in s. 1(5) substituted (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/7); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+[^c-a3939e7003e96849d7c8843a2a8cc4f9]: Textual amendment: Words in s. 1(5) substituted (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/7); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
-[^key-a1e9ebbb72f1eaba9b646ad8468cdf0b]: Textual amendment: [Ss. 2-8](https://www.legislation.gov.uk/asp/2005/9/section/2) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 39(2)](https://www.legislation.gov.uk/asp/2016/22/section/39/2), [45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-a1e9ebbb72f1eaba9b646ad8468cdf0b]: Textual amendment: [Ss. 2-8](https://www.legislation.gov.uk/asp/2005/9/section/2) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 39(2)](https://www.legislation.gov.uk/asp/2016/22/section/39/2), [45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-1429cd21364226ce1da7187e50deabcd]: Commencement: S. 9 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-1429cd21364226ce1da7187e50deabcd]: Commencement: S. 9 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-9e4bfa7e2694e3233049b5175f641219]: Textual amendment: Words in s. 9(4)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-9e4bfa7e2694e3233049b5175f641219]: Textual amendment: Words in s. 9(4)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
 
-[^key-7404e0c78f6739e659e5b8861bd117ff]: Textual amendment: Words in s. 9(5)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-7404e0c78f6739e659e5b8861bd117ff]: Textual amendment: Words in s. 9(5)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
 
-[^key-05e5e49db83aa204c0fceab645c41ada]: Commencement: S. 10 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-05e5e49db83aa204c0fceab645c41ada]: Commencement: S. 10 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-09c67bf21a82e04a2f5ea4f7ea1373a3]: Textual amendment: Words in s. 10(2)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-09c67bf21a82e04a2f5ea4f7ea1373a3]: Textual amendment: Words in s. 10(2)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
 
-[^key-661e7ae9fb5c0cf37592e7a0b722e827]: Commencement: S. 11 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-661e7ae9fb5c0cf37592e7a0b722e827]: Commencement: S. 11 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-8681cd7d8764210577ef8904154c48ac]: Textual amendment: Words in s. 11(2)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(c)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-8681cd7d8764210577ef8904154c48ac]: Textual amendment: Words in s. 11(2)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(c)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
 
-[^key-abcd2e056d42fa598ab5a3cfef5b4242]: Commencement: S. 12 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-abcd2e056d42fa598ab5a3cfef5b4242]: Commencement: S. 12 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-4deaa344106ce91f6456aa3a38110148]: Textual amendment: Words in s. 12(2)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(d)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/d), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-4deaa344106ce91f6456aa3a38110148]: Textual amendment: Words in s. 12(2)(b) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(2)(d)](https://www.legislation.gov.uk/asp/2010/13/section/40/2/d), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
 
-[^key-4f90826159d1711826a692cd0b8f67b3]: Commencement: S. 13 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-4f90826159d1711826a692cd0b8f67b3]: Commencement: S. 13 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-2808f63677711c864584961b8d5e4f03]: Commencement: S. 14 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-2808f63677711c864584961b8d5e4f03]: Commencement: S. 14 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-249a484cb46bdebe0027ad6940076001]: Textual amendment: S. 14A inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(3)](https://www.legislation.gov.uk/asp/2010/13/section/40/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
+[^c-249a484cb46bdebe0027ad6940076001]: Textual amendment: S. 14A inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 40(3)](https://www.legislation.gov.uk/asp/2010/13/section/40/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/413/article/4))
 
-[^key-bb11be36567e3604880478afbdf96a95]: Commencement: S. 15 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-bb11be36567e3604880478afbdf96a95]: Commencement: S. 15 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-a1ccd7aa0468ef725af859e53d076cec]: Commencement: S. 16 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-a1ccd7aa0468ef725af859e53d076cec]: Commencement: S. 16 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-2c912666d96e625a7ea34aef34825f41]: Commencement: S. 17 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2005/480/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2005/480/article/3/2))
+[^c-2c912666d96e625a7ea34aef34825f41]: Commencement: S. 17 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2005/480/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2005/480/article/3/2))
 
-[^key-618954d303d007c43be411be19b60999]: Modification: S. 17 extended (E.W.N.I.) (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 56(1)(a)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/1/a)
+[^c-618954d303d007c43be411be19b60999]: Modification: S. 17 extended (E.W.N.I.) (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 56(1)(a)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/1/a)
 
-[^key-96abb8668e8a6939115cc6dfabb1104f]: Textual amendment: [S. 17(1)-(5)](https://www.legislation.gov.uk/asp/2005/9/section/17/1) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/4) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(3)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/3))
+[^c-96abb8668e8a6939115cc6dfabb1104f]: Textual amendment: [S. 17(1)-(5)](https://www.legislation.gov.uk/asp/2005/9/section/17/1) repealed (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/4) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(3)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/3))
 
-[^key-aecb6c389f214fe857efeaa2f8dd9e35]: Commencement: S. 18 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-aecb6c389f214fe857efeaa2f8dd9e35]: Commencement: S. 18 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-1e3945530e0d7115bbb9c03be46c8ff7]: Modification: S. 18 extended (E.W.N.I.) in part (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 56(1)(b)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/1/b)
+[^c-1e3945530e0d7115bbb9c03be46c8ff7]: Modification: S. 18 extended (E.W.N.I.) in part (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 56(1)(b)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/1/b)
 
-[^key-784469c49754eda80822ce77f8c9ca9b]: Commencement: S. 19 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-784469c49754eda80822ce77f8c9ca9b]: Commencement: S. 19 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-8f4292bdafbdd2c1d1fb402606722a93]: Textual amendment: Sch. para. 1 repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+[^c-8f4292bdafbdd2c1d1fb402606722a93]: Textual amendment: Sch. para. 1 repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
-[^key-9cba9a74f5411b3433a3c4ca31315b56]: Commencement: Sch. para. 2 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-9cba9a74f5411b3433a3c4ca31315b56]: Commencement: Sch. para. 2 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
 
-[^key-1dcfa508eac5af28bf5461a4b401ffc7]: Commencement: Sch. para. 3 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/480/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2005/480/article/3/4))
+[^c-1dcfa508eac5af28bf5461a4b401ffc7]: Commencement: Sch. para. 3 in force at 7.10.2005 by [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/480/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2005/480/article/3/4))
 
-[^key-5e0c51aecf5a58b4262f4e537a2917d5]: Modification: Sch. para. 3 extended (E.W.N.I.) (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 56(1)(b)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/1/b)
+[^c-5e0c51aecf5a58b4262f4e537a2917d5]: Modification: Sch. para. 3 extended (E.W.N.I.) (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 56(1)(b)](https://www.legislation.gov.uk/ukpga/2006/38/section/56/1/b)

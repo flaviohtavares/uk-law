@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120A. Restraint orders: power to retain seized property etc.[^key-fb8e3d887378ffd9b7e62ba9cfaf4eb5]
+## 120A. Restraint orders: power to retain seized property etc.[^c-fb8e3d887378ffd9b7e62ba9cfaf4eb5]
 
 *Extent: S*
 
@@ -34,8 +34,8 @@ summary: ''
 
 - (a) a constable;
 - (b) an officer of Revenue and Customs;
-- (ba)[^key-ebaacebc64cd6f0fb16876cd5553d7f7] an immigration officer;
-- (c)[^key-d6c6968e08ead1d1cb476e433e3c6b7f] a National Crime Agency officer;
+- (ba)[^c-ebaacebc64cd6f0fb16876cd5553d7f7] an immigration officer;
+- (c)[^c-d6c6968e08ead1d1cb476e433e3c6b7f] a National Crime Agency officer;
 
 (4) “**Relevant seizure power**” means a power to seize property conferred by or by virtue of—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8e3d887378ffd9b7e62ba9cfaf4eb5]: Textual amendment: S. 120A inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 53(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/53/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-fb8e3d887378ffd9b7e62ba9cfaf4eb5]: Textual amendment: S. 120A inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 53(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/53/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-ebaacebc64cd6f0fb16876cd5553d7f7]: Textual amendment: S. 120A(3)(ba) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Sch. 21 para. 20 (with Sch. 21 para. 40); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), art. 2(e)
+[^c-ebaacebc64cd6f0fb16876cd5553d7f7]: Textual amendment: S. 120A(3)(ba) inserted (22.11.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Sch. 21 para. 20 (with Sch. 21 para. 40); [S.I. 2014/3098](https://www.legislation.gov.uk/uksi/2014/3098), art. 2(e)
 
-[^key-d6c6968e08ead1d1cb476e433e3c6b7f]: Textual amendment: S. 120A(3)(c) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), s. 61(2), Sch. 8 para. 115; [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), art. 3(v)
+[^c-d6c6968e08ead1d1cb476e433e3c6b7f]: Textual amendment: S. 120A(3)(c) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), s. 61(2), Sch. 8 para. 115; [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), art. 3(v)

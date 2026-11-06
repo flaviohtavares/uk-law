@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Calculation of amount of accrued pension for purpose of deferment or full retirement[^key-c5e5cf93d0436e9d89da2e0d478c7949]
+## 35. Calculation of amount of accrued pension for purpose of deferment or full retirement[^c-c5e5cf93d0436e9d89da2e0d478c7949]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5e5cf93d0436e9d89da2e0d478c7949]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/1964/regulation/35) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c5e5cf93d0436e9d89da2e0d478c7949]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/1964/regulation/35) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Transfer to the body of existing statutory functions[^key-abb0c9d4d2f1bf489a5cc77247a492f0]
+## 5. Transfer to the body of existing statutory functions[^c-abb0c9d4d2f1bf489a5cc77247a492f0]
 
 *Extent: N.I.*
 
@@ -34,21 +34,21 @@ shall as from that day be exercisable by the Body.
 
 shall as from that day be exercisable by the Body.
 
-(3) The functions exercisable by the Department for Infrastructure[^key-59af9d2dfac0c746c143a832a0dd257c] immediately before the day specified by NSMC in accordance with paragraph 1.3 of Part 1 of Annex 2 to the Agreement—
+(3) The functions exercisable by the Department for Infrastructure[^c-59af9d2dfac0c746c143a832a0dd257c] immediately before the day specified by NSMC in accordance with paragraph 1.3 of Part 1 of Annex 2 to the Agreement—
 
 - (a) under or for the purposes of the enactments set out in Schedule 3; and
 - (b) in relation to the waterway mentioned in paragraph 1.3 of Part 1 of Annex 2 to the Agreement,
 
 shall as from that day be exercisable by the Body.
 
-(4) The functions exercisable by the Department for Infrastructure[^key-6221654cc1b0a50e00e6cac8de658ed0] immediately before the prescribed day—
+(4) The functions exercisable by the Department for Infrastructure[^c-6221654cc1b0a50e00e6cac8de658ed0] immediately before the prescribed day—
 
 - (a) under or for the purposes of the enactments set out in Schedule 3; and
 - (b) in relation to a prescribed waterway,
 
 shall as from that day be exercisable by the Body.
 
-(5) In paragraph (4) “prescribed” means prescribed by an order made by the Department for Infrastructure[^key-0222bf171d576b166d3be61a96910073] in pursuance of a decision of NSMC under paragraph 1.4 of Part 1 of Annex 2 to the Agreement; and any such order may amend Schedule 3 by the addition of any enactment.
+(5) In paragraph (4) “prescribed” means prescribed by an order made by the Department for Infrastructure[^c-0222bf171d576b166d3be61a96910073] in pursuance of a decision of NSMC under paragraph 1.4 of Part 1 of Annex 2 to the Agreement; and any such order may amend Schedule 3 by the addition of any enactment.
 
 (6) An order under paragraph (5) shall—
 
@@ -59,13 +59,13 @@ shall as from that day be exercisable by the Body.
 
 ## Annotations
 
-[^key-abb0c9d4d2f1bf489a5cc77247a492f0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1999/859/article/5) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-abb0c9d4d2f1bf489a5cc77247a492f0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1999/859/article/5) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
-[^key-59af9d2dfac0c746c143a832a0dd257c]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/1999/859/article/5/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/22/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-59af9d2dfac0c746c143a832a0dd257c]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/1999/859/article/5/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/22/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-6221654cc1b0a50e00e6cac8de658ed0]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/1999/859/article/5/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/22/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6221654cc1b0a50e00e6cac8de658ed0]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/1999/859/article/5/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/22/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-0222bf171d576b166d3be61a96910073]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/1999/859/article/5/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/22/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-0222bf171d576b166d3be61a96910073]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/1999/859/article/5/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/22/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^f00004]: Footnote: S.I. [1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Decisions in review cases: notification and taking effect[^key-396e3cda86b2cdfef4c97ce2b5e6ec22]
+## 157. Decisions in review cases: notification and taking effect[^c-396e3cda86b2cdfef4c97ce2b5e6ec22]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ despite the fact that, were it not for this subsection, the suspension would cea
 
 ## Annotations
 
-[^key-396e3cda86b2cdfef4c97ce2b5e6ec22]: Commencement: [S. 157](https://www.legislation.gov.uk/anaw/2016/2/section/157) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-396e3cda86b2cdfef4c97ce2b5e6ec22]: Commencement: [S. 157](https://www.legislation.gov.uk/anaw/2016/2/section/157) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

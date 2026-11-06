@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Limit on total holding of certificates[^key-0111df3e82843f335dfaea3717f133e0]
+## 41. Limit on total holding of certificates[^c-0111df3e82843f335dfaea3717f133e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0111df3e82843f335dfaea3717f133e0]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-0111df3e82843f335dfaea3717f133e0]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

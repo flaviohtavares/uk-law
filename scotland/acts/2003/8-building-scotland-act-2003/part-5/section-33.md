@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Procedure regulations[^key-082c28431daffc9ae7a6790329c4baff]
+## 33. Procedure regulations[^c-082c28431daffc9ae7a6790329c4baff]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-082c28431daffc9ae7a6790329c4baff]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2003/8/section/33) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
+[^c-082c28431daffc9ae7a6790329c4baff]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2003/8/section/33) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)

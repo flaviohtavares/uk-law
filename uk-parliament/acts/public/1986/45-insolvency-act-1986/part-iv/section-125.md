@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Powers of court on hearing of petition.[^c15572661][^key-80940010afc294d4dec9716940e58b8d][^key-6218d61b16c18da2cd36f5e342b1b4b4]
+## 125. Powers of court on hearing of petition.[^c15572661][^c-80940010afc294d4dec9716940e58b8d][^c-6218d61b16c18da2cd36f5e342b1b4b4]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ shall make a winding-up order; but this does not apply if the court is also of t
 
     S. 125 applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 10(1)(a)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/1/a), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/6/paragraph/3)
 
-[^key-80940010afc294d4dec9716940e58b8d]: Modification: S. 125 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-80940010afc294d4dec9716940e58b8d]: Modification: S. 125 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-6218d61b16c18da2cd36f5e342b1b4b4]: Modification: S. 125 excluded (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/19/section/11), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-6218d61b16c18da2cd36f5e342b1b4b4]: Modification: S. 125 excluded (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/19/section/11), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

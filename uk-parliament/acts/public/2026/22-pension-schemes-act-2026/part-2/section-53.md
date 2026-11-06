@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Information etc in connection with selection of benefit solution[^key-37db1ffe9f95f8ce4f3e052b790284d4]
+## 53. Information etc in connection with selection of benefit solution[^c-37db1ffe9f95f8ce4f3e052b790284d4]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37db1ffe9f95f8ce4f3e052b790284d4]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-37db1ffe9f95f8ce4f3e052b790284d4]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

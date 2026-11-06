@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Application to Tribunal by patient and named person[^key-41f50ff0b98bc595ada83eaa3e8afea1]
+## 192. Application to Tribunal by patient and named person[^c-41f50ff0b98bc595ada83eaa3e8afea1]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) the patient; and
 - (b) the patient’s named person.
 
-(4)[^key-22fcff9152e98349ff4b92d0c790959e] An application under this section may not be made—
+(4)[^c-22fcff9152e98349ff4b92d0c790959e] An application under this section may not be made—
 
 - (a) during the period of 6 months beginning with the making of the compulsion order;
 - (b) during the period of 3 months beginning with—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41f50ff0b98bc595ada83eaa3e8afea1]: Commencement: [S. 192](https://www.legislation.gov.uk/asp/2003/13/section/192) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-41f50ff0b98bc595ada83eaa3e8afea1]: Commencement: [S. 192](https://www.legislation.gov.uk/asp/2003/13/section/192) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-22fcff9152e98349ff4b92d0c790959e]: Modification: [S. 192(4)](https://www.legislation.gov.uk/asp/2003/13/section/192/4) modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [20(2)](https://www.legislation.gov.uk/ssi/2005/452/article/20/2)
+[^c-22fcff9152e98349ff4b92d0c790959e]: Modification: [S. 192(4)](https://www.legislation.gov.uk/asp/2003/13/section/192/4) modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [20(2)](https://www.legislation.gov.uk/ssi/2005/452/article/20/2)

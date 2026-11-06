@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Treatment of students[^key-e33c3783646ab455b6a4d45d52be530a]
+## 37. Treatment of students[^c-e33c3783646ab455b6a4d45d52be530a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations shall have effect in relation to students and their partners s
 
 ## Annotations
 
-[^key-e33c3783646ab455b6a4d45d52be530a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1989/1321/regulation/37) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-e33c3783646ab455b6a4d45d52be530a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1989/1321/regulation/37) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

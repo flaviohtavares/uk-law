@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Civil sanctions[^key-c7ee5a58ef22e9a643b69299268b8d34][^key-ca093576529feb1683ee7195021169c2]
+## 121. Civil sanctions[^c-c7ee5a58ef22e9a643b69299268b8d34][^c-ca093576529feb1683ee7195021169c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ the enforcement agency may impose a specified civil sanction on, or accept an en
 
 ## Annotations
 
-[^key-c7ee5a58ef22e9a643b69299268b8d34]: Commencement: Reg. 121 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c7ee5a58ef22e9a643b69299268b8d34]: Commencement: Reg. 121 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-ca093576529feb1683ee7195021169c2]: Modification: [Reg. 121](https://www.legislation.gov.uk/uksi/2024/1332/regulation/121) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-ca093576529feb1683ee7195021169c2]: Modification: [Reg. 121](https://www.legislation.gov.uk/uksi/2024/1332/regulation/121) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

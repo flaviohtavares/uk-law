@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Interpretation of Chapter[^key-d323f6d1bca0e79b3fe17ae2e9bd9a24][^key-adebed552abb8e0ba74cbfddcb039da9]
+## 163. Interpretation of Chapter[^c-d323f6d1bca0e79b3fe17ae2e9bd9a24][^c-adebed552abb8e0ba74cbfddcb039da9]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-d323f6d1bca0e79b3fe17ae2e9bd9a24]: Commencement: S. 163 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d323f6d1bca0e79b3fe17ae2e9bd9a24]: Commencement: S. 163 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-adebed552abb8e0ba74cbfddcb039da9]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2026/20/section/163) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/p)
+[^c-adebed552abb8e0ba74cbfddcb039da9]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2026/20/section/163) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/p)

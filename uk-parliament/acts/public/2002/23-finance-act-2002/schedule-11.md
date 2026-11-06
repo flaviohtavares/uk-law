@@ -30,7 +30,7 @@ The Taxation of Chargeable Gains Act 1992 (c. 12) is amended in accordance with 
 
 (1) Section 2 (persons and gains chargeable to capital gains tax, and allowable losses) is amended as follows.
 
-(2)[^key-3adb29b8417f93e100d2e9273c37e384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3adb29b8417f93e100d2e9273c37e384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (b) of that subsection, omit “77, 86,".
 
@@ -54,19 +54,19 @@ The Taxation of Chargeable Gains Act 1992 (c. 12) is amended in accordance with 
 
 .
 
-### 3. Section 77[^key-2157c129c7a6e683be3e66cb11e687a7]
+### 3. Section 77[^c-2157c129c7a6e683be3e66cb11e687a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Section 86[^key-21c3c7804f71c1a1ab5139ecea8debb4]
+### 4. Section 86[^c-21c3c7804f71c1a1ab5139ecea8debb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Section 86A[^key-21c3c7804f71c1a1ab5139ecea8debb4]
+### 5. Section 86A[^c-21c3c7804f71c1a1ab5139ecea8debb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Section 87[^key-21c3c7804f71c1a1ab5139ecea8debb4]
+### 6. Section 87[^c-21c3c7804f71c1a1ab5139ecea8debb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -94,8 +94,8 @@ the trustees of that settlement must join in the election, or (as the case may b
 
 ## Annotations
 
-[^key-3adb29b8417f93e100d2e9273c37e384]: Textual amendment: [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/11/paragraph/2/2) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/iv)
+[^c-3adb29b8417f93e100d2e9273c37e384]: Textual amendment: [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/11/paragraph/2/2) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/iv)
 
-[^key-2157c129c7a6e683be3e66cb11e687a7]: Textual amendment: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/11/paragraph/3) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(f)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/f)
+[^c-2157c129c7a6e683be3e66cb11e687a7]: Textual amendment: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/11/paragraph/3) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(f)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/f)
 
-[^key-21c3c7804f71c1a1ab5139ecea8debb4]: Textual amendment: Sch. 11 paras. 4-6 omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/iv)
+[^c-21c3c7804f71c1a1ab5139ecea8debb4]: Textual amendment: Sch. 11 paras. 4-6 omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/iv)

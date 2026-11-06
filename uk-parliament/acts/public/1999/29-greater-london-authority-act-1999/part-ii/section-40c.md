@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40C. Request to collaborate[^key-1865d9ab7dd3e65b640a44b5bf863174]
+## 40C. Request to collaborate[^c-1865d9ab7dd3e65b640a44b5bf863174]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1865d9ab7dd3e65b640a44b5bf863174]: Textual amendment: Ss. 40C-40E inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/23/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-1865d9ab7dd3e65b640a44b5bf863174]: Textual amendment: Ss. 40C-40E inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/23/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

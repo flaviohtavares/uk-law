@@ -52,9 +52,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 - (a) “**the Back to Work Bonus Regulations**” means the Social Security (Back to Work Bonus) (No. 2) Regulations 1996 [^c505821];
 - (b) “**the Claims and Payments Regulations**” means the Social Security (Claims and Payments) Regulations 1987 [^c505822];
-- (c) “[^key-691499c734f09ed0595604d6ab918e1f]**the Council Tax Benefit Regulations *(affected by repeal, see note)*[^key-691499c734f09ed0595604d6ab918e1f]**” means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-691499c734f09ed0595604d6ab918e1f] [^c505823];
-- (d) “**the Housing Benefit Regulations *(affected by repeal, see note)*[^key-691499c734f09ed0595604d6ab918e1f]**” means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-691499c734f09ed0595604d6ab918e1f] [^c505824];
-- (e) “**the Housing Benefit Supply of Information Regulations *(affected by repeal, see note)*[^key-691499c734f09ed0595604d6ab918e1f]**” means the Housing Benefit (Supply of Information) Regulations 1988 *(affected by repeal, see note)*[^key-691499c734f09ed0595604d6ab918e1f] [^c505825];
+- (c) “[^c-691499c734f09ed0595604d6ab918e1f]**the Council Tax Benefit Regulations *(affected by repeal, see note)*[^c-691499c734f09ed0595604d6ab918e1f]**” means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-691499c734f09ed0595604d6ab918e1f] [^c505823];
+- (d) “**the Housing Benefit Regulations *(affected by repeal, see note)*[^c-691499c734f09ed0595604d6ab918e1f]**” means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-691499c734f09ed0595604d6ab918e1f] [^c505824];
+- (e) “**the Housing Benefit Supply of Information Regulations *(affected by repeal, see note)*[^c-691499c734f09ed0595604d6ab918e1f]**” means the Housing Benefit (Supply of Information) Regulations 1988 *(affected by repeal, see note)*[^c-691499c734f09ed0595604d6ab918e1f] [^c505825];
 - (f) “**the Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c505826].
 
 ## 2. Amendment of the Income Support Regulations
@@ -71,42 +71,42 @@ In the Income Support Regulations–
 
 ## 3. Amendment of the Housing Benefit Regulations
 
-In the Housing Benefit Regulations– *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
+In the Housing Benefit Regulations– *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
 
-- (a) in regulation 62A (extended payments) *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505831] —
-  - (i) in paragraph (1) omit “other than a case to which paragraph (1A) applies”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (ii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (1A); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (iii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] in paragraph (1B) omit “or (1A)”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (iv (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5)(a)(i) and in paragraph (5)(a)(ii) omit “(ii)in any other case—” and renumber sub-head (aa) as head (i) and sub-head (bb) as head (ii); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (b) in paragraph (14)(c) of regulation 72 (time and manner in which claims are to be made) *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505832] omit “has certified the matters specified in regulation 62A(1A)(b) to be the relevant authority or”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (c) in regulation 76 (who is to make a decision) *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505833] —
-  - (i) in paragraph (4) omit “and subject to paragraph (5),”; and *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (ii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (d) in Schedule 5A *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505834] (extended payments of housing benefit)— *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (i) paragraph 12(1) shall be renumbered paragraph 12 and in that renumbered paragraph– *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-    - (aa (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “claimant” omit “, subject to sub-paragraph (2),”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-    - (bb (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “the relevant benefit period” omit “or, as the case may be, (1A)(a)”; and *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (ii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph 12(2). *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
+- (a) in regulation 62A (extended payments) *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505831] —
+  - (i) in paragraph (1) omit “other than a case to which paragraph (1A) applies”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (ii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (1A); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (iii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] in paragraph (1B) omit “or (1A)”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (iv (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5)(a)(i) and in paragraph (5)(a)(ii) omit “(ii)in any other case—” and renumber sub-head (aa) as head (i) and sub-head (bb) as head (ii); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (b) in paragraph (14)(c) of regulation 72 (time and manner in which claims are to be made) *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505832] omit “has certified the matters specified in regulation 62A(1A)(b) to be the relevant authority or”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (c) in regulation 76 (who is to make a decision) *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505833] —
+  - (i) in paragraph (4) omit “and subject to paragraph (5),”; and *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (ii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (d) in Schedule 5A *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505834] (extended payments of housing benefit)— *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (i) paragraph 12(1) shall be renumbered paragraph 12 and in that renumbered paragraph– *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+    - (aa (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “claimant” omit “, subject to sub-paragraph (2),”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+    - (bb (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “the relevant benefit period” omit “or, as the case may be, (1A)(a)”; and *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (ii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph 12(2). *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
 
 ## 4. Amendment of the Council Tax Benefit Regulations
 
-In the Council Tax Benefit Regulations– *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
+In the Council Tax Benefit Regulations– *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
 
-- (a) in regulation 53A *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505835] (extended payments)— *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (i) in paragraph (1) omit “other than a case to which paragraph (1A) applies”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (ii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (1A); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (iii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] in paragraph (1B) omit “or (1A)”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (iv (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5)(a)(i) and in paragraph (5)(a)(ii) omit “(ii) in any other case–” and renumber sub-head (aa) as head (i) and sub-head (bb) as head (ii); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (b) in paragraph (15)(c) of regulation 62 (time and manner in which claims are to be made) *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505836] omit “has certified the matters specified in regulation 53A(1A)(b) to the relevant authority or”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (c) in regulation 66 *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505837] (who is to make a decision)— *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (i) in paragraph (4) omit “and subject to paragraph (5)”; and *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (ii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (d) in regulation 95(3) *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505838] (information to be supplied by an authority to another authority) omit sub-paragraph (aa); *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-- (e) in Schedule 5A(extended payments of council tax benefit) *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4] [^c505839] —
-  - (i) paragraph 8(1) shall be renumbered paragraph 8 and in that renumbered paragraph– *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-    - (aa (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “claimant” omit “, subject to sub-paragraph (2),”; *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-    - (bb (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “the relevant benefit period” omit “or as the case may be, (1A)(a)”; and *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
-  - (ii (affected by repeal, see note))[^key-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph 8(2). *(affected by repeal, see note)*[^key-b41b2c37bb8c6560752c5c06af1786d4]
+- (a) in regulation 53A *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505835] (extended payments)— *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (i) in paragraph (1) omit “other than a case to which paragraph (1A) applies”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (ii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (1A); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (iii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] in paragraph (1B) omit “or (1A)”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (iv (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5)(a)(i) and in paragraph (5)(a)(ii) omit “(ii) in any other case–” and renumber sub-head (aa) as head (i) and sub-head (bb) as head (ii); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (b) in paragraph (15)(c) of regulation 62 (time and manner in which claims are to be made) *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505836] omit “has certified the matters specified in regulation 53A(1A)(b) to the relevant authority or”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (c) in regulation 66 *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505837] (who is to make a decision)— *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (i) in paragraph (4) omit “and subject to paragraph (5)”; and *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (ii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph (5); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (d) in regulation 95(3) *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505838] (information to be supplied by an authority to another authority) omit sub-paragraph (aa); *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+- (e) in Schedule 5A(extended payments of council tax benefit) *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4] [^c505839] —
+  - (i) paragraph 8(1) shall be renumbered paragraph 8 and in that renumbered paragraph– *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+    - (aa (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “claimant” omit “, subject to sub-paragraph (2),”; *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+    - (bb (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] in the definition of “the relevant benefit period” omit “or as the case may be, (1A)(a)”; and *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
+  - (ii (affected by repeal, see note))[^c-b41b2c37bb8c6560752c5c06af1786d4] omit paragraph 8(2). *(affected by repeal, see note)*[^c-b41b2c37bb8c6560752c5c06af1786d4]
 
 ## 5. Amendment of the Social Security Claims and Payment Regulations
 
@@ -126,7 +126,7 @@ In the Social Fund (Recovery by Deductions from Benefits) Regulations 1988 [^c50
 
 ## 7. Revocation of provisions in the Housing Benefit Supply of Information Regulations
 
-Paragraph (3)(aa) of regulation 5 (information to be supplied by an authority to another authority) of the Housing Benefit Supply of Information Regulations is revoked. *(affected by repeal, see note)*[^key-e00bc75ced1208b397374e485caabda3]
+Paragraph (3)(aa) of regulation 5 (information to be supplied by an authority to another authority) of the Housing Benefit Supply of Information Regulations is revoked. *(affected by repeal, see note)*[^c-e00bc75ced1208b397374e485caabda3]
 
 ## 8. Revocation of the Back to Work Bonus Regulations
 
@@ -222,7 +222,7 @@ These Regulations do not impose a charge on business.
 
 [^c505822]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-691499c734f09ed0595604d6ab918e1f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/1589/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-691499c734f09ed0595604d6ab918e1f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/1589/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c505823]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 
@@ -240,7 +240,7 @@ These Regulations do not impose a charge on business.
 
 [^c505830]: Marginal citation: These provisions were inserted by [S.I. 1999/2556](https://www.legislation.gov.uk/uksi/1999/2556).
 
-[^key-b41b2c37bb8c6560752c5c06af1786d4]: Textual amendment: Reg. 3, 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-b41b2c37bb8c6560752c5c06af1786d4]: Textual amendment: Reg. 3, 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c505831]: Marginal citation: Regulation 62A was inserted by [S.I. 1996/194](https://www.legislation.gov.uk/uksi/1996/194)and amended by SI 1999/2556, [S.I. 2001/537](https://www.legislation.gov.uk/uksi/2001/537) and [S.I. 2001/1605](https://www.legislation.gov.uk/uksi/2001/1605).
 
@@ -264,7 +264,7 @@ These Regulations do not impose a charge on business.
 
 [^c505841]: Marginal citation: [S.I. 1988/35](https://www.legislation.gov.uk/uksi/1988/35), as amended by [S.I. 1996/1944](https://www.legislation.gov.uk/uksi/1996/1944), 1998/662, 1999/2556 and 2001/537.
 
-[^key-e00bc75ced1208b397374e485caabda3]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/1589/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-e00bc75ced1208b397374e485caabda3]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/1589/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c505842]: Marginal citation: The relevant amending instrument is [S.I. 1996/1510](https://www.legislation.gov.uk/uksi/1996/1510).
 

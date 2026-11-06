@@ -22,7 +22,7 @@ summary: ''
 
 Section 167(1)
 
-### Part 1 — United Kingdom and England and Wales[^key-3e0d041dd52cd1be586dac906009dcf1]
+### Part 1 — United Kingdom and England and Wales[^c-3e0d041dd52cd1be586dac906009dcf1]
 
 #### United Kingdom and England and Wales
 
@@ -45,7 +45,7 @@ Section 167(1)
 - The Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2017 ([S.I. 2017/580](https://www.legislation.gov.uk/uksi/2017/580));
 - The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 ([S.I. 2020/1497](https://www.legislation.gov.uk/uksi/2020/1497)).
 
-### Part 2 — Scotland[^key-e8a406b020fe52058503f02d965bc734]
+### Part 2 — Scotland[^c-e8a406b020fe52058503f02d965bc734]
 
 #### Scotland
 
@@ -60,7 +60,7 @@ Section 167(1)
 - The Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017 ([S.S.I. 2017/114](https://www.legislation.gov.uk/ssi/2017/114));
 - The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 ([S.S.I. 2017/115](https://www.legislation.gov.uk/ssi/2017/115)).
 
-### Part 3 — Wales[^key-c0874ccb4ac3abcaf8fcfb028551bffa]
+### Part 3 — Wales[^c-c0874ccb4ac3abcaf8fcfb028551bffa]
 
 #### Wales
 
@@ -70,7 +70,7 @@ Section 167(1)
 - The Environmental Impact Assessment (Agriculture) (Wales) Regulations 2017 ([S.I. 2017/565](https://www.legislation.gov.uk/uksi/2017/565));
 - The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 ([S.I. 2017/567](https://www.legislation.gov.uk/uksi/2017/567)).
 
-### Part 4 — Northern Ireland[^key-28e33f25b92573fc426ea1442c55b1b9]
+### Part 4 — Northern Ireland[^c-28e33f25b92573fc426ea1442c55b1b9]
 
 #### Northern Ireland
 
@@ -84,10 +84,10 @@ Section 167(1)
 
 ## Annotations
 
-[^key-3e0d041dd52cd1be586dac906009dcf1]: Commencement: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-3e0d041dd52cd1be586dac906009dcf1]: Commencement: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
 
-[^key-e8a406b020fe52058503f02d965bc734]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-e8a406b020fe52058503f02d965bc734]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
 
-[^key-c0874ccb4ac3abcaf8fcfb028551bffa]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/3) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-c0874ccb4ac3abcaf8fcfb028551bffa]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/3) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
 
-[^key-28e33f25b92573fc426ea1442c55b1b9]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-28e33f25b92573fc426ea1442c55b1b9]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

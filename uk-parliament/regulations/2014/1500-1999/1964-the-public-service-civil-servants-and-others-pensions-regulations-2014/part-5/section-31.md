@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Descriptions of partial retirement pension[^key-2cd1331014d49d38cb9c752cf4425311]
+## 31. Descriptions of partial retirement pension[^c-2cd1331014d49d38cb9c752cf4425311]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purpose of these Regulations, the descriptions of partial retirement pen
 
 ## Annotations
 
-[^key-2cd1331014d49d38cb9c752cf4425311]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/1964/regulation/31) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-2cd1331014d49d38cb9c752cf4425311]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/1964/regulation/31) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

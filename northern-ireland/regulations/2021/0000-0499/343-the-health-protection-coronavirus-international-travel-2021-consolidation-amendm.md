@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel) (2021 Consolidation) (Amendment No. 13) Regulations (Northern Ireland) 2021 (revoked)[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]
+The Health Protection (Coronavirus, International Travel) (2021 Consolidation) (Amendment No. 13) Regulations (Northern Ireland) 2021 (revoked)[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 at 11.00 a.m. on 16th December 2021
 
-[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]
+## 1. Citation, commencement and interpretation[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]
+## 2. Amendment of the principal Regulations[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 7 (Managed Isolation)[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]
+## 3. Amendment of Schedule 7 (Managed Isolation)[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]EXPLANATORY NOTE
+[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -74,4 +74,4 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-6b2d70a3e0e37d15c121d78bdc1d46b6]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/343) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-6b2d70a3e0e37d15c121d78bdc1d46b6]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/343) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

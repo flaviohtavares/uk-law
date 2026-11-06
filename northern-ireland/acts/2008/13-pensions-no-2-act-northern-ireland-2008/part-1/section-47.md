@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Offences by partnerships and unincorporated associations[^key-4b3e4b8016ae054bea1e6d31cff12bd2]
+## 47. Offences by partnerships and unincorporated associations[^c-4b3e4b8016ae054bea1e6d31cff12bd2]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b3e4b8016ae054bea1e6d31cff12bd2]: Commencement: S. 47 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-4b3e4b8016ae054bea1e6d31cff12bd2]: Commencement: S. 47 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

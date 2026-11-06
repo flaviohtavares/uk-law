@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Regional flood defence committees[^key-8c9f05f2dc59da9ca99129b85e0f5a05]
+## 68. Regional flood defence committees[^c-8c9f05f2dc59da9ca99129b85e0f5a05]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c9f05f2dc59da9ca99129b85e0f5a05]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2003/37/section/68) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/641/article/3/q) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-8c9f05f2dc59da9ca99129b85e0f5a05]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2003/37/section/68) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/641/article/3/q) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

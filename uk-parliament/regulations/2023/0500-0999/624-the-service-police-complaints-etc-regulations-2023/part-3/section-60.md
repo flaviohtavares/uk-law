@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Final reports on investigations: other DSI matters[^key-78a36fb569b5cd038bee4a79b8ec02d4]
+## 60. Final reports on investigations: other DSI matters[^c-78a36fb569b5cd038bee4a79b8ec02d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a36fb569b5cd038bee4a79b8ec02d4]: Commencement: Reg. 60 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-78a36fb569b5cd038bee4a79b8ec02d4]: Commencement: Reg. 60 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

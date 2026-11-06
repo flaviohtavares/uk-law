@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 243. Control of development on Crown land: special enforcement notices.[^key-97243ed116d8508987fc788ab160b9ec]
+## 243. Control of development on Crown land: special enforcement notices.[^c-97243ed116d8508987fc788ab160b9ec]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97243ed116d8508987fc788ab160b9ec]: Textual amendment: S. 243 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/9/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/9/2)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)
+[^c-97243ed116d8508987fc788ab160b9ec]: Textual amendment: S. 243 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/9/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/9/2)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f/e)

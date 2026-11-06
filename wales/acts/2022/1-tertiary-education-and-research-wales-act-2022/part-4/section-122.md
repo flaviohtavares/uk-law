@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Status of approved Welsh apprenticeship agreements[^key-a353eb8ec1965a060cb35c48c5e02e81]
+## 122. Status of approved Welsh apprenticeship agreements[^c-a353eb8ec1965a060cb35c48c5e02e81]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a353eb8ec1965a060cb35c48c5e02e81]: Commencement: S. 122 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-a353eb8ec1965a060cb35c48c5e02e81]: Commencement: S. 122 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

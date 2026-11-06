@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Transfer of property etc to Bank[^key-36b9910b7b2ebda6a697e56844b4a17d]
+## 15. Transfer of property etc to Bank[^c-36b9910b7b2ebda6a697e56844b4a17d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36b9910b7b2ebda6a697e56844b4a17d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/14/section/15) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/f)
+[^c-36b9910b7b2ebda6a697e56844b4a17d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/14/section/15) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/f)

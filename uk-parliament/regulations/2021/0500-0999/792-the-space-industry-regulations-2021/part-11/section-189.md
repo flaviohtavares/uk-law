@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Training records and qualifications[^key-6fc152f03891c9184186802c1cac60bd]
+## 189. Training records and qualifications[^c-6fc152f03891c9184186802c1cac60bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fc152f03891c9184186802c1cac60bd]: Commencement: Reg. 189 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6fc152f03891c9184186802c1cac60bd]: Commencement: Reg. 189 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

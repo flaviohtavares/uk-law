@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Joint overview and scrutiny committees[^key-ba89acc705ae06ce9395318b64656338][^key-053f3d9d3e00c8a09b3e09a1eb21c896][^key-de1e04d1d9b0bc92d19003a542fc01e6]
+## 123. Joint overview and scrutiny committees[^c-ba89acc705ae06ce9395318b64656338][^c-053f3d9d3e00c8a09b3e09a1eb21c896][^c-de1e04d1d9b0bc92d19003a542fc01e6]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ about any matter which is not an excluded matter.
   - (ii) any person who is a partner authority in relation to the related county council;
 - (b) in the case of any other appointing authority, any person who is a partner authority in relation to the appointing authority.
 
-(7) In subsection (6) “**partner authority**” has the same meaning as in Chapter 1 of this Part except that it does not include a local policing body[^key-14c591b1f5a33751bce325a94cf688d4] or a chief officer of police.
+(7) In subsection (6) “**partner authority**” has the same meaning as in Chapter 1 of this Part except that it does not include a local policing body[^c-14c591b1f5a33751bce325a94cf688d4] or a chief officer of police.
 
 (8) Regulations under this section may not make provision of a kind mentioned in subsection (5)(c) with respect to information in respect of which provision may be made in exercise of the power conferred by section 20(5)(c) or (d) of the Police and Justice Act 2006 (guidance and regulations regarding crime and disorder matters).
 
@@ -70,10 +70,10 @@ about any matter which is not an excluded matter.
 
 ## Annotations
 
-[^key-ba89acc705ae06ce9395318b64656338]: Commencement: S. 123 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/e)
+[^c-ba89acc705ae06ce9395318b64656338]: Commencement: S. 123 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(e)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/e)
 
-[^key-053f3d9d3e00c8a09b3e09a1eb21c896]: Modification: S. 123 modified by 2000 c. 22, s. 9FH(6) (as inserted (3.12.2011 for specified purposes, 4.5.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b))
+[^c-053f3d9d3e00c8a09b3e09a1eb21c896]: Modification: S. 123 modified by 2000 c. 22, s. 9FH(6) (as inserted (3.12.2011 for specified purposes, 4.5.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b))
 
-[^key-de1e04d1d9b0bc92d19003a542fc01e6]: Textual amendment: S. 123 substituted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/32/1), [148(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/2/a/ii)
+[^c-de1e04d1d9b0bc92d19003a542fc01e6]: Textual amendment: S. 123 substituted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/32/1), [148(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/2/a/ii)
 
-[^key-14c591b1f5a33751bce325a94cf688d4]: Textual amendment: Words in s. 123(7) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 368](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/368); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-14c591b1f5a33751bce325a94cf688d4]: Textual amendment: Words in s. 123(7) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 368](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/368); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

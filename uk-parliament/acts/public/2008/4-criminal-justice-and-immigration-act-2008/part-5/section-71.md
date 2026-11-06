@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Maximum penalty for publication etc. of obscene articles[^key-4232ea771b882eec9404208e2edaa7d5]
+## 71. Maximum penalty for publication etc. of obscene articles[^c-4232ea771b882eec9404208e2edaa7d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 2(1)(b) of the Obscene Publications Act 1959 (c. 66) (maximum penalty
 
 ## Annotations
 
-[^key-4232ea771b882eec9404208e2edaa7d5]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2008/4/section/71) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/g)
+[^c-4232ea771b882eec9404208e2edaa7d5]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2008/4/section/71) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/g)

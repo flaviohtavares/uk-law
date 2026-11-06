@@ -32,7 +32,7 @@ summary: ''
 
 Education, England And Wales
 
-The School Teachers’ Pay and Conditions Order 2010 (revoked)[^key-1ccaa2851713887c8a4e6553de78786f]
+The School Teachers’ Pay and Conditions Order 2010 (revoked)[^c-1ccaa2851713887c8a4e6553de78786f]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st September 2010
 
-[^key-1ccaa2851713887c8a4e6553de78786f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ccaa2851713887c8a4e6553de78786f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-1ccaa2851713887c8a4e6553de78786f]
+## 1. Citation, commencement, application and interpretation[^c-1ccaa2851713887c8a4e6553de78786f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-1ccaa2851713887c8a4e6553de78786f]
+## 2. The Document[^c-1ccaa2851713887c8a4e6553de78786f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Modifications to the Document[^key-1ccaa2851713887c8a4e6553de78786f]
+## 2A. Modifications to the Document[^c-1ccaa2851713887c8a4e6553de78786f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-1ccaa2851713887c8a4e6553de78786f]
+## 3. Revocation[^c-1ccaa2851713887c8a4e6553de78786f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ccaa2851713887c8a4e6553de78786f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ccaa2851713887c8a4e6553de78786f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1ccaa2851713887c8a4e6553de78786f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ccaa2851713887c8a4e6553de78786f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ccaa2851713887c8a4e6553de78786f]: Textual amendment: Order revoked (1.9.2011) by [The School Teachers’ Pay and Conditions Order 2011 (S.I. 2011/1917)](https://www.legislation.gov.uk/uksi/2011/1917), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1917/article/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1917/article/3)
+[^c-1ccaa2851713887c8a4e6553de78786f]: Textual amendment: Order revoked (1.9.2011) by [The School Teachers’ Pay and Conditions Order 2011 (S.I. 2011/1917)](https://www.legislation.gov.uk/uksi/2011/1917), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1917/article/1/1), [3](https://www.legislation.gov.uk/uksi/2011/1917/article/3)

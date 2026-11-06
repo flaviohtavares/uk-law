@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Minor and consequential amendments and repeals[^key-6d50a0992842163bc34d6931948dbebe]
+## 57. Minor and consequential amendments and repeals[^c-6d50a0992842163bc34d6931948dbebe]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 7 sets out minor amendments and amendments and repeals consequential up
 
 ## Annotations
 
-[^key-6d50a0992842163bc34d6931948dbebe]: Commencement: S. 57 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-6d50a0992842163bc34d6931948dbebe]: Commencement: S. 57 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

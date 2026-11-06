@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Amendment of section 5A[^key-e225fbea603b5d167e00040b79c3e89d]
+## 113. Amendment of section 5A[^c-e225fbea603b5d167e00040b79c3e89d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e225fbea603b5d167e00040b79c3e89d]: Commencement: Reg. 113 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-e225fbea603b5d167e00040b79c3e89d]: Commencement: Reg. 113 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00092]: Footnote: Section 5A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

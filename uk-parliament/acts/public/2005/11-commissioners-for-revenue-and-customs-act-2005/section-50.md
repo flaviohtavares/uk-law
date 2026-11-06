@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Consequential amendments, &c.[^key-e27d29ee869b464aac4ab3c7ff749c61]
+## 50. Consequential amendments, &c.[^c-e27d29ee869b464aac4ab3c7ff749c61]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e27d29ee869b464aac4ab3c7ff749c61]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2005/11/section/50) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-e27d29ee869b464aac4ab3c7ff749c61]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2005/11/section/50) in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Local elections void etc. in England and Wales.[^M_C_3a07ddc5-3c8e-40bd-fd6f-77fced9a529d][^key-43c4d573dfbf24dec9ceb1976205cd34][^key-93e4844fcedc44c2c9cde590eb715c8e][^key-d0b8957acbd87abe5dca43476d27dda8][^key-f4c83518da859761fd97165d8ef99caf][^c14479931]
+## 39. Local elections void etc. in England and Wales.[^M_C_3a07ddc5-3c8e-40bd-fd6f-77fced9a529d][^c-43c4d573dfbf24dec9ceb1976205cd34][^c-93e4844fcedc44c2c9cde590eb715c8e][^c-d0b8957acbd87abe5dca43476d27dda8][^c-f4c83518da859761fd97165d8ef99caf][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,18 +47,18 @@ the district council or Welsh county or county borough council[^c14484621]—
 
 (5)[^c19061921][^c19641001] Where an election is ordered to be held under this section—
 
-- (a) rules under section 36 or section 36A[^key-6a674c87b1cf0ff5fe52aad507e89213] above relating to the notice to be given of an election and the manner in which an election is to be conducted apply in relation to the election so ordered to be held as they applied or would have applied in relation to the election which has not been duly held or has failed or become void;
+- (a) rules under section 36 or section 36A[^c-6a674c87b1cf0ff5fe52aad507e89213] above relating to the notice to be given of an election and the manner in which an election is to be conducted apply in relation to the election so ordered to be held as they applied or would have applied in relation to the election which has not been duly held or has failed or become void;
 - (b) no fresh nomination is necessary in the case of a candidate who remains validly nominated for that election.
 
 (6) An order made—
 
 - (a) under this section may include such modifications of the provisions of—
-  - (i) this Part of this Act (and the rules under section 36 or section 36A[^key-cb38d5b4422b32638d392c24273505f9]), and
+  - (i) this Part of this Act (and the rules under section 36 or section 36A[^c-cb38d5b4422b32638d392c24273505f9]), and
   - (ii) the [^c14484631]Local Government Act 1972 or the 1999 Act[^c14484641] . . . ,
 
   as appear to the High Court, or, as the case may be, the district council or Welsh county or county borough council, necessary or expedient for carrying the order into effect;
 - (b) by a [^c14484681]. . . council under subsection (4) above with respect to an election of parish or community councillors may modify the provisions of—
-  - (i) this Act (and the rules with respect to such elections under section 36 or section 36A[^key-e0097a055be2d5e43dd2cf22f8dd5a8e]); and
+  - (i) this Act (and the rules with respect to such elections under section 36 or section 36A[^c-e0097a055be2d5e43dd2cf22f8dd5a8e]); and
   - (ii) any other enactment relating to such elections.
 
 (7)[^c14484691] In the case of a common parish council under which are grouped, by virtue of section 11(5) of the Local Government Act 1972 (grouping of parishes), parishes situated in different districts, references in subsections (4) and (6) above to the district council shall be construed as references to the council of the district in which there is the greater number of local government electors for the parishes in the group.
@@ -71,13 +71,13 @@ the district council or Welsh county or county borough council[^c14484621]—
 
 [^M_C_3a07ddc5-3c8e-40bd-fd6f-77fced9a529d]: Modification: S. 39 applied (with modifications) (27.3.2007) by [The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024)](https://www.legislation.gov.uk/uksi/2007/1024), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1024/schedule/2) Table 1 (as amended (6.4.2014) by [S.I. 2014/370](https://www.legislation.gov.uk/uksi/2014/370), [art. 6(3)](https://www.legislation.gov.uk/uksi/2014/370/article/6/3))
 
-[^key-43c4d573dfbf24dec9ceb1976205cd34]: Modification: S. 39 excluded (E.W.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/65/2), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [s. 65(5)](https://www.legislation.gov.uk/ukpga/2020/7/section/65/5))
+[^c-43c4d573dfbf24dec9ceb1976205cd34]: Modification: S. 39 excluded (E.W.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/65/2), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [s. 65(5)](https://www.legislation.gov.uk/ukpga/2020/7/section/65/5))
 
-[^key-93e4844fcedc44c2c9cde590eb715c8e]: Modification: S. 39 excluded (E.W.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/59/2), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [s. 59(5)](https://www.legislation.gov.uk/ukpga/2020/7/section/59/5))
+[^c-93e4844fcedc44c2c9cde590eb715c8e]: Modification: S. 39 excluded (E.W.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/59/2), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [s. 59(5)](https://www.legislation.gov.uk/ukpga/2020/7/section/59/5))
 
-[^key-d0b8957acbd87abe5dca43476d27dda8]: Modification: S. 39 excluded (E.W.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/1)[(2)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/2)[(5)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/5)[(6)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/6)
+[^c-d0b8957acbd87abe5dca43476d27dda8]: Modification: S. 39 excluded (E.W.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/1)[(2)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/2)[(5)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/5)[(6)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/6)
 
-[^key-f4c83518da859761fd97165d8ef99caf]: Modification: S. 39 excluded (E.W.) (5.5.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) Regulations 2020 (S.I. 2020/461)](https://www.legislation.gov.uk/wsi/2020/461), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/461/regulation/1/2), [5(1)](https://www.legislation.gov.uk/wsi/2020/461/regulation/5/1)[(2)](https://www.legislation.gov.uk/wsi/2020/461/regulation/5/2)[(4)](https://www.legislation.gov.uk/wsi/2020/461/regulation/5/4)
+[^c-f4c83518da859761fd97165d8ef99caf]: Modification: S. 39 excluded (E.W.) (5.5.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) Regulations 2020 (S.I. 2020/461)](https://www.legislation.gov.uk/wsi/2020/461), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/461/regulation/1/2), [5(1)](https://www.legislation.gov.uk/wsi/2020/461/regulation/5/1)[(2)](https://www.legislation.gov.uk/wsi/2020/461/regulation/5/2)[(4)](https://www.legislation.gov.uk/wsi/2020/461/regulation/5/4)
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
@@ -143,9 +143,9 @@ the district council or Welsh county or county borough council[^c14484621]—
 
 [^c14484621]: Textual amendment: Words in s. 39(4)(6)(a) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 68(11)(a)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/11/a) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-6a674c87b1cf0ff5fe52aad507e89213]: Textual amendment: Words in s. 39(5)(a) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(7)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/7/a)
+[^c-6a674c87b1cf0ff5fe52aad507e89213]: Textual amendment: Words in s. 39(5)(a) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(7)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/7/a)
 
-[^key-cb38d5b4422b32638d392c24273505f9]: Textual amendment: Words in s. 39(6)(a)(i) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(7)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/7/b)
+[^c-cb38d5b4422b32638d392c24273505f9]: Textual amendment: Words in s. 39(6)(a)(i) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(7)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/7/b)
 
 [^c14484631]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -153,7 +153,7 @@ the district council or Welsh county or county borough council[^c14484621]—
 
 [^c14484681]: Textual amendment: Word in s. 39(6)(b) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 68(11)(b)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/68/11/b) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
-[^key-e0097a055be2d5e43dd2cf22f8dd5a8e]: Textual amendment: Words in s. 39(6)(b)(i) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(7)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/7/b)
+[^c-e0097a055be2d5e43dd2cf22f8dd5a8e]: Textual amendment: Words in s. 39(6)(b)(i) inserted (E.W.) (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 2(7)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/7/b)
 
 [^c14484691]: Modification: S. 39(7) applied (E.W.S.) by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [s. 21(3)](https://www.legislation.gov.uk/ukpga/1985/50/section/21/3)
 

@@ -42,11 +42,11 @@ summary: ''
 
 (5) In subsection (4)(a), “**a trustee in bankruptcy of a member of the company**” includes—
 
-- (a)[^key-b96ad186fba744b569c7d2fea6256df5] a trustee or interim trustee in the sequestration under the Bankruptcy (Scotland) Act 2016 of the estate of a member of the company;
-- (b) a trustee under a protected trustee deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^key-7b3d20ca3846ece2769806296a1f8c0b]) granted by a member of the company.
+- (a)[^c-b96ad186fba744b569c7d2fea6256df5] a trustee or interim trustee in the sequestration under the Bankruptcy (Scotland) Act 2016 of the estate of a member of the company;
+- (b) a trustee under a protected trustee deed (within the meaning of the Bankruptcy (Scotland) Act 2016[^c-7b3d20ca3846ece2769806296a1f8c0b]) granted by a member of the company.
 
 ## Annotations
 
-[^key-b96ad186fba744b569c7d2fea6256df5]: Textual amendment: S. 102(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(2)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/2/a)
+[^c-b96ad186fba744b569c7d2fea6256df5]: Textual amendment: S. 102(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(2)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/2/a)
 
-[^key-7b3d20ca3846ece2769806296a1f8c0b]: Textual amendment: Word in s. 102(5)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/2/b)
+[^c-7b3d20ca3846ece2769806296a1f8c0b]: Textual amendment: Word in s. 102(5)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29/2/b)

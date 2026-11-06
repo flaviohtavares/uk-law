@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Notice of decisions[^key-4a47f4c756c5ca0bc6eddef669da0728]
+## 158. Notice of decisions[^c-4a47f4c756c5ca0bc6eddef669da0728]
 
 *Extent: S*
 
@@ -82,14 +82,14 @@ summary: ''
 
 (12) The notice must—
 
-- (a) subject to subsection (17), advise of the right to request[^key-d09b36962850c0c5168a3f22f26ac2ff] the local authority's reasons for the decision,
+- (a) subject to subsection (17), advise of the right to request[^c-d09b36962850c0c5168a3f22f26ac2ff] the local authority's reasons for the decision,
 - (b) advise of the right to appeal against the decision and of the period within which such an appeal must be made,
 - (c) if an HMO licence is granted, narrate the effect of section 134 (which sets the date from which the HMO licence has effect and the date on which it expires),
 - (d) if an HMO licence is varied or revoked, narrate the effect of section 138 or, as the case may be, 139 (which sets the date from which the variation or, as the case may be, revocation has effect),
 - (e) if a temporary exemption order is granted, be accompanied by a copy of the order,
 - (f) if an order under section 144(1) is made, be accompanied by a copy of the order.
 
-(13)[^key-62427291fd236fcdd459763871bc6e2c] A person on whom a notice of a decision to which this section applies has been served may request the local authority to give its reasons for the decision.
+(13)[^c-62427291fd236fcdd459763871bc6e2c] A person on whom a notice of a decision to which this section applies has been served may request the local authority to give its reasons for the decision.
 
 (14) A request under subsection (13) must be made within 14 days of the person receiving notice of the decision.
 
@@ -101,7 +101,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4a47f4c756c5ca0bc6eddef669da0728]: Commencement: S. 158 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-4a47f4c756c5ca0bc6eddef669da0728]: Commencement: S. 158 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
 [^c1898081]: Textual amendment: Words in s. 158(2)(b) substituted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 17(2)(3)(c)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/17/2/3/c)
 
@@ -109,6 +109,6 @@ summary: ''
 
 [^c1898084]: Textual amendment: Words in s. 158(8)(c) substituted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/17/4)
 
-[^key-d09b36962850c0c5168a3f22f26ac2ff]: Textual amendment: Words in s. 158(12)(a) substituted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 15(1)(a)](https://www.legislation.gov.uk/asp/2011/14/section/15/1/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-d09b36962850c0c5168a3f22f26ac2ff]: Textual amendment: Words in s. 158(12)(a) substituted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 15(1)(a)](https://www.legislation.gov.uk/asp/2011/14/section/15/1/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-62427291fd236fcdd459763871bc6e2c]: Textual amendment: S. 158(13)-(17) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 15(1)(b)](https://www.legislation.gov.uk/asp/2011/14/section/15/1/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-62427291fd236fcdd459763871bc6e2c]: Textual amendment: S. 158(13)-(17) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 15(1)(b)](https://www.legislation.gov.uk/asp/2011/14/section/15/1/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

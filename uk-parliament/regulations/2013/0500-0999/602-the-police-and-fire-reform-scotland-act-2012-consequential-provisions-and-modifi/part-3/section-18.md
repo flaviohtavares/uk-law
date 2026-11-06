@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Powers of SFRS employee in Northern Ireland[^key-500a204bc70cacaaa175881ebbf935c3]
+## 18. Powers of SFRS employee in Northern Ireland[^c-500a204bc70cacaaa175881ebbf935c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-500a204bc70cacaaa175881ebbf935c3]: Commencement: Art. 18 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-500a204bc70cacaaa175881ebbf935c3]: Commencement: Art. 18 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

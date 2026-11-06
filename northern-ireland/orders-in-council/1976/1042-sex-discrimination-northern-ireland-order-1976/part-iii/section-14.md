@@ -35,16 +35,16 @@ summary: ''
 
 (3) Subject to paragraph (3A),[^c17233231] paragraph (1)( *a*) and ( *c*) do not apply to a position as partner where, if it were employment, being a man would be a genuine occupational qualification for the job.
 
-(3A) Paragraph (3) does not apply in relation to discrimination falling within Article 4A or 4B[^key-ff477cc354ed4f885ef921de43b32488] .
+(3A) Paragraph (3) does not apply in relation to discrimination falling within Article 4A or 4B[^c-ff477cc354ed4f885ef921de43b32488] .
 
-(3B) In relation to discrimination falling within Article 4A or 4B[^key-96d742b7138f33e7fc87682d1da73904] , paragraph (1) does not make unlawful a firm's treatment of a person in relation to a position as partner where—
+(3B) In relation to discrimination falling within Article 4A or 4B[^c-96d742b7138f33e7fc87682d1da73904] , paragraph (1) does not make unlawful a firm's treatment of a person in relation to a position as partner where—
 
 - (a) if it were employment—
   - (i) being a man would be a genuine occupational qualification for the job; or
   - (ii) being a woman would be a genuine occupational qualification for the job; and
 - (b) the firm can show that the treatment is reasonable in view of the circumstances relevant for the purposes of sub-paragraph (a) and any other relevant circumstances.
 
-(3C) In relation to discrimination falling within Article 4A or 4B[^key-f97ac0c6d243ee15c574f76a69d97cf7] , paragraph (1)(a), (c) and, so far as it relates to expulsion, (d)(ii) do not apply to a position as partner where, if it were employment, there would be a supplementary genuine occupational qualification for the job.
+(3C) In relation to discrimination falling within Article 4A or 4B[^c-f97ac0c6d243ee15c574f76a69d97cf7] , paragraph (1)(a), (c) and, so far as it relates to expulsion, (d)(ii) do not apply to a position as partner where, if it were employment, there would be a supplementary genuine occupational qualification for the job.
 
 (3D)[^c17233271] Paragraphs (3B) and (3C) do not apply in relation to discrimination against a person whose gender has become the acquired gender under the Gender Recognition Act 2004.
 
@@ -62,11 +62,11 @@ summary: ''
 
 [^c17233231]: Textual amendment: SR 1999/311
 
-[^key-ff477cc354ed4f885ef921de43b32488]: Textual amendment: Words in [art. 14(3A)](https://www.legislation.gov.uk/nisi/1976/1042/article/14/3A) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/14/a)
+[^c-ff477cc354ed4f885ef921de43b32488]: Textual amendment: Words in [art. 14(3A)](https://www.legislation.gov.uk/nisi/1976/1042/article/14/3A) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/14/a)
 
-[^key-96d742b7138f33e7fc87682d1da73904]: Textual amendment: Words in [art. 14(3B)](https://www.legislation.gov.uk/nisi/1976/1042/article/14/3B) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/14/b)
+[^c-96d742b7138f33e7fc87682d1da73904]: Textual amendment: Words in [art. 14(3B)](https://www.legislation.gov.uk/nisi/1976/1042/article/14/3B) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/14/b)
 
-[^key-f97ac0c6d243ee15c574f76a69d97cf7]: Textual amendment: Words in [art. 14(3C)](https://www.legislation.gov.uk/nisi/1976/1042/article/14/3C) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/14/c)
+[^c-f97ac0c6d243ee15c574f76a69d97cf7]: Textual amendment: Words in [art. 14(3C)](https://www.legislation.gov.uk/nisi/1976/1042/article/14/3C) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [14(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/14/c)
 
 [^c17233271]: Textual amendment: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7)
 

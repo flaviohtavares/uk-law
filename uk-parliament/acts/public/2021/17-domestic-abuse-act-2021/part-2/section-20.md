@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Duty to report on domestic abuse services in England[^key-c224dcc92d3ab8220133b686f58b468f]
+## 20. Duty to report on domestic abuse services in England[^c-c224dcc92d3ab8220133b686f58b468f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c224dcc92d3ab8220133b686f58b468f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/17/section/20) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-c224dcc92d3ab8220133b686f58b468f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/17/section/20) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

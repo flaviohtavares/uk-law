@@ -45,7 +45,7 @@ An Act to consolidate, so far as they are part of the law of the United Kingdom,
 
 (5) In the making of the coins to which subsections (3) and (4) above apply, such remedy shall be allowed as may be specified in the proclamation.
 
-(6) The variation from the standard weight of any coin [^key-82ab0bf4fbbcb300fd1b8bbd1f355d30]... specified for that coin in accordance with this section shall be measured in accordance with provision made by proclamation under section 3[^key-cd8a6d23548ac08a598fb72aa193b96f].
+(6) The variation from the standard weight of any coin [^c-82ab0bf4fbbcb300fd1b8bbd1f355d30]... specified for that coin in accordance with this section shall be measured in accordance with provision made by proclamation under section 3[^c-cd8a6d23548ac08a598fb72aa193b96f].
 
 (7) In subsection (5) above “ **remedy** ”means—
 
@@ -76,7 +76,7 @@ An Act to consolidate, so far as they are part of the law of the United Kingdom,
 - (b)[^c8484031] determine the design of any coin;
 - (c)[^c8484051] determine the weight and fineness of any gold coins or coins of silver of the Queen’s Maundy money, other than those of a denomination mentioned in Schedule 1 to this Act, the remedy to be allowed in making them and (for gold coins) their least current weight;
 - (cc)[^c8484031] determine the weight and composition of any coins, other than gold coins or coins of silver of the Queen’s Maundy money, and the remedy (if any) to be allowed in making them;
-- (cd) provide for the variation from the standard weight for coins[^key-6f954390a1f4653f166234352c675c90] to be measured in the manner specified in the proclamation;
+- (cd) provide for the variation from the standard weight for coins[^c-6f954390a1f4653f166234352c675c90] to be measured in the manner specified in the proclamation;
 - (d)[^c8484031] determine the dimensions of any coins . . . [^c8484081]
 - (dd)[^c8484031][^c8484091] determine the percentage of impurities which coins other than gold coins and coins of silver of the Queen’s Maundy money may contain;
 - (e)[^c8484111] call in coins of any date or denomination, or coins made before a date specified in the proclamation;
@@ -121,7 +121,7 @@ Table
 | Cupro-nickel coins | Pure copper and pure nickel. |
 | Coins of any other metal or mixture of metals. | Such composition as may be prescribed by the proclamation under which the coins are made. |
 
-(3) The plates, and all books, documents and other things used in connection with the determination of the justness of coins issued from the Mint or in relation thereto, shall be in the custody of the Secretary of State, and shall be kept in such places and in such manner as the Secretary of State may from time to time direct; and the performance of all duties in relation to the plates shall be part of the business of the Department for Business and Trade[^key-20e603861310f0a56ad0e85536e27f03].
+(3) The plates, and all books, documents and other things used in connection with the determination of the justness of coins issued from the Mint or in relation thereto, shall be in the custody of the Secretary of State, and shall be kept in such places and in such manner as the Secretary of State may from time to time direct; and the performance of all duties in relation to the plates shall be part of the business of the Department for Business and Trade[^c-20e603861310f0a56ad0e85536e27f03].
 
 ## 7. Standard weights for coin.
 
@@ -136,7 +136,7 @@ The master of the Mint shall from time to time cause copies to be made of the co
 - (a) the time and place of the trial;
 - (b) the setting apart out of the coins issued by the Mint of certain coins for the trial;
 - (c) the summoning of a jury of not less than six out of competent freemen of the mystery of goldsmiths of the City of London or other competent persons;
-- (d) the attendance at the trial of the jury so summoned and of the proper officers of the Treasury, the Department for Business and Trade[^key-89f082b90c6c53e0dfb60cf11506b7f0] and the Mint, and the production of the coins so set apart, the standard trial plates and the standard weights;
+- (d) the attendance at the trial of the jury so summoned and of the proper officers of the Treasury, the Department for Business and Trade[^c-89f082b90c6c53e0dfb60cf11506b7f0] and the Mint, and the production of the coins so set apart, the standard trial plates and the standard weights;
 - (e) the proceedings at and the conduct of the trial, including the nomination of a person to preside at it, the swearing of the jury and the method of examining the coins;
 - (f) the recording and the publication of the verdict, the custody of the record thereof and the proceedings (if any) to be taken in consequence of the verdict.
 
@@ -178,8 +178,8 @@ References in this Act to coins made by the Mint include references to coins mad
 (4) The form prescribed by any of the following enactments (which relate to certain periodical returns), that is to say—
 
 - (a) Schedule A to the [^c8484371]Bank Charter Act 1844;
-- (b) Schedule A or Schedule B to the Bankers (Ireland) Act 1845; and *(affected by repeal, see note)*[^key-50cbcc2136080528183d525ddc95f11e]
-- (c) Schedule A or Schedule B to the Bank Notes (Scotland) Act 1845; *(affected by repeal, see note)*[^key-50cbcc2136080528183d525ddc95f11e]
+- (b) Schedule A or Schedule B to the Bankers (Ireland) Act 1845; and *(affected by repeal, see note)*[^c-50cbcc2136080528183d525ddc95f11e]
+- (c) Schedule A or Schedule B to the Bank Notes (Scotland) Act 1845; *(affected by repeal, see note)*[^c-50cbcc2136080528183d525ddc95f11e]
 
 shall be modified to such extent as the Treasury may direct having regard to the provisions of this Act.
 
@@ -222,15 +222,15 @@ Section 12(2)
 
 Section 1 of the [^c8484451]Carriers Act 1830.
 
-The Bankers (Ireland) Act 1845. *(affected by repeal, see note)*[^key-c3e611fd7cafd2e43af042354a1cd53d]
+The Bankers (Ireland) Act 1845. *(affected by repeal, see note)*[^c-c3e611fd7cafd2e43af042354a1cd53d]
 
-The Bank Notes (Scotland) Act 1845. *(affected by repeal, see note)*[^key-c3e611fd7cafd2e43af042354a1cd53d]
+The Bank Notes (Scotland) Act 1845. *(affected by repeal, see note)*[^c-c3e611fd7cafd2e43af042354a1cd53d]
 
 . . . [^c8484471]
 
 Section 3(2) of the [^c8484481]Currency and Bank Notes Act 1928.
 
-Section 3 of the Bankers (Northern Ireland) Act 1928. *(affected by repeal, see note)*[^key-c3e611fd7cafd2e43af042354a1cd53d]
+Section 3 of the Bankers (Northern Ireland) Act 1928. *(affected by repeal, see note)*[^c-c3e611fd7cafd2e43af042354a1cd53d]
 
 . . . [^c8484501]
 
@@ -246,9 +246,9 @@ Section 13
 
 [^c8483971]: Textual amendment: S. 1 substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/1)
 
-[^key-82ab0bf4fbbcb300fd1b8bbd1f355d30]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1971/24/section/1/6) omitted (31.1.2012) by virtue of [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/1/a), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
+[^c-82ab0bf4fbbcb300fd1b8bbd1f355d30]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1971/24/section/1/6) omitted (31.1.2012) by virtue of [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/1/a), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
 
-[^key-cd8a6d23548ac08a598fb72aa193b96f]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1971/24/section/1/6) substituted (31.1.2012) by [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/1/b), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
+[^c-cd8a6d23548ac08a598fb72aa193b96f]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/ukpga/1971/24/section/1/6) substituted (31.1.2012) by [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/1/b), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
 
 [^c8483981]: Textual amendment: [S. 2(1)(1A)(1B)](https://www.legislation.gov.uk/ukpga/1971/24/section/2/1/1A/1B) substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/3/a)
 
@@ -264,7 +264,7 @@ Section 13
 
 [^c8484051]: Textual amendment: S. 3(c)(cc)(cd) substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(4)(a)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/a)
 
-[^key-6f954390a1f4653f166234352c675c90]: Textual amendment: Words in [s. 3(1)(cd)](https://www.legislation.gov.uk/ukpga/1971/24/section/3/1/cd) substituted (31.1.2012) by [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
+[^c-6f954390a1f4653f166234352c675c90]: Textual amendment: Words in [s. 3(1)(cd)](https://www.legislation.gov.uk/ukpga/1971/24/section/3/1/cd) substituted (31.1.2012) by [Coinage (Measurement) Act 2011 (c. 17)](https://www.legislation.gov.uk/ukpga/2011/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/17/section/2/2)
 
 [^c8484081]: Textual amendment: Words repealed by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [ss. 1(4)(b)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/4/b), [4](https://www.legislation.gov.uk/ukpga/1983/9/section/4), [Sch.](https://www.legislation.gov.uk/ukpga/1983/9/schedule)
 
@@ -292,11 +292,11 @@ Section 13
 
 [^c8484231]: Textual amendment: First entry in the Table substituted by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [s. 1(6)](https://www.legislation.gov.uk/ukpga/1983/9/section/1/6)
 
-[^key-20e603861310f0a56ad0e85536e27f03]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/24/section/6/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/4/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-20e603861310f0a56ad0e85536e27f03]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/24/section/6/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/4/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c8484271]: Modification: Functions of Department of Trade and Industry under this Act now exercisable by Secretary of State: [S.I. 1974/692](https://www.legislation.gov.uk/uksi/1974/692)
 
-[^key-89f082b90c6c53e0dfb60cf11506b7f0]: Textual amendment: Words in [s. 8(2)(d)](https://www.legislation.gov.uk/ukpga/1971/24/section/8/2/d) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/4/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-89f082b90c6c53e0dfb60cf11506b7f0]: Textual amendment: Words in [s. 8(2)(d)](https://www.legislation.gov.uk/ukpga/1971/24/section/8/2/d) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/4/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c8484281]: Textual amendment: Words substituted by [Government Trading Funds Act 1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63), [s. 7(4)](https://www.legislation.gov.uk/ukpga/1973/63/section/7/4)
 
@@ -316,7 +316,7 @@ Section 13
 
 [^c8484371]: Marginal citation: [1844 c. 32](https://www.legislation.gov.uk/ukpga/1844/32).
 
-[^key-50cbcc2136080528183d525ddc95f11e]: Textual amendment: S. 12(4)(b)(c) cease to have effect (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/d/i), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-50cbcc2136080528183d525ddc95f11e]: Textual amendment: S. 12(4)(b)(c) cease to have effect (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/d/i), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c8484401]: Modification: The text of s. 13(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -328,7 +328,7 @@ Section 13
 
 [^c8484451]: Marginal citation: [1830 c. 68](https://www.legislation.gov.uk/ukpga/1830/68).
 
-[^key-c3e611fd7cafd2e43af042354a1cd53d]: Textual amendment: Sch. 2: entries cease to have effect (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/d/ii), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-c3e611fd7cafd2e43af042354a1cd53d]: Textual amendment: Sch. 2: entries cease to have effect (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/3/d/ii), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c8484471]: Textual amendment: Entry relating to section 42 of the Customs Consolidation Act 1876 repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II)
 

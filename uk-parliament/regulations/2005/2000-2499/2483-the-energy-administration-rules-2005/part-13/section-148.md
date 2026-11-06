@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Form and contents of application[^key-46dbac6634d8d0336f04f8360ac121aa]
+## 148. Form and contents of application[^c-46dbac6634d8d0336f04f8360ac121aa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ or for any two or more of those purposes.
 
 ## Annotations
 
-[^key-46dbac6634d8d0336f04f8360ac121aa]: Commencement: Rule 148 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-46dbac6634d8d0336f04f8360ac121aa]: Commencement: Rule 148 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

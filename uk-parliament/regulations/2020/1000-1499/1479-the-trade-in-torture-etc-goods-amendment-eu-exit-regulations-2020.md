@@ -44,11 +44,11 @@ The Secretary of State, in exercise of the powers conferred by section 8(1) of, 
 
 In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-8e5f34bad8be245a945fdadf77d15456]
+## 1. Citation and commencement[^c-8e5f34bad8be245a945fdadf77d15456]
 
-These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (EU Exit) Regulations 2020 and come into force on IP completion day[^key-6b4f1b31b5b71c4e703a8bd249c97bea].
+These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (EU Exit) Regulations 2020 and come into force on IP completion day[^c-6b4f1b31b5b71c4e703a8bd249c97bea].
 
-## 2. Amendment of Council Regulation (EU) 2019/125[^key-a9f689301a30d0ab204e51becc846051]
+## 2. Amendment of Council Regulation (EU) 2019/125[^c-a9f689301a30d0ab204e51becc846051]
 
 (1) Council Regulation (EU) 2019/125 of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment is amended as follows.
 
@@ -341,7 +341,7 @@ These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (E
 
 (38) In Annexes 2 and 3 (list of goods with no use other than for the purposes of torture etc. and list of goods that could be used for torture etc)—
 
-- (a)[^key-584c79a36687b26d77b72e890ad8195b] for the Introductory Note, in each Annex, substitute—
+- (a)[^c-584c79a36687b26d77b72e890ad8195b] for the Introductory Note, in each Annex, substitute—
 
   > “The commodity codes in this Annex refer to the codes specified in the Tariff of the United Kingdom, which is the document containing the legal classification and import rate for products being imported into the United Kingdom and entitled “The Tariff of the United Kingdom”, as revised or reissued from time to time including by any document published under regulations made under section 8(1) of the Taxation (Cross-border Trade) Act 2018 replacing the same in whole or in part.
   >
@@ -378,7 +378,7 @@ These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (E
 - (c) in box 7 of the form, omit “Code”;
 - (d) omit box 8 of the form;
 - (e) for “CN code” in each place in the form in which it occurs, substitute “ Commodity code ”;
-- (f)[^key-124f23af5a7d5eca48c67250cb64bdf5] in box 15 of the form,—
+- (f)[^c-124f23af5a7d5eca48c67250cb64bdf5] in box 15 of the form,—
   - (i) for “Article 9(1)”, substitute “ Article 21(1) ”; and
   - (ii) for “setout”, substitute “ set out ”;
 - (g) in box 19 of the form, omit “Member State,”;
@@ -397,11 +397,11 @@ These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (E
 
 - (a) omit “EUROPEAN UNION” in both places it occurs in the authorisation form;
 - (b) omit “third” in each place that it occurs on the authorisation form, except for in box 10;
-- (ba)[^key-114f33bf4244874ee53c752b86588d03] in box 5 of the form, for “Consingnee” substitute “ Consignee ”;
+- (ba)[^c-114f33bf4244874ee53c752b86588d03] in box 5 of the form, for “Consingnee” substitute “ Consignee ”;
 - (c) in box 6 and 7 omit the box headed “Country code”;
 - (d) omit box 9 of the form;
 - (e) in box 19 of the form—
-  - (i) for “Article 9(1)” substitute “ Article 21(1)[^key-78f55f99a70e5a18a8e07714065d6d15] ”;
+  - (i) for “Article 9(1)” substitute “ Article 21(1)[^c-78f55f99a70e5a18a8e07714065d6d15] ”;
   - (ii) for “attachements(s)” substitute “ attachment(s) ”;
 - (f) in the explanatory notes to the form—
   - (i) in the un-numbered paragraph beginning with “The issuing authority” omit “It is an authority that is included in the list of competent authorities in Annex I to that Regulation”;
@@ -415,7 +415,7 @@ These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (E
   - (v) omit the section of the table concerning box 9 of the form;
   - (vi) in the section of the table concerning box 12 of the form, omit the word “third” in both places that it occurs;
   - (vii) in the section of the table concerning box 15 of the form—
-    - (aa) for “the EU Combined Nomenclature”, substitute “ the Tariff of the United Kingdom[^key-46bbb083150980e3bd1189708d19d886] ”;
+    - (aa) for “the EU Combined Nomenclature”, substitute “ the Tariff of the United Kingdom[^c-46bbb083150980e3bd1189708d19d886] ”;
     - (bb) omit the words from “See Commission” to the end.
 
 (44) In Annex 9 (authorisation form for the supply of technical assistance)—
@@ -447,16 +447,16 @@ These Regulations may be cited as the Trade in Torture etc. Goods (Amendment) (E
     - (bb) omit “Third”;
     - (cc) for words from “both” to the end substitute “ the name of the country concerned ”.
 
-## 3. Transitional provision relating to Council Regulation [(EU) 2019/125](https://www.legislation.gov.uk/eur/2019/125)[^key-cf687691fdf52efc4c21eb2eb4303a77][^key-b8168e9af27da3139fc4c02fcec854ab]
+## 3. Transitional provision relating to Council Regulation [(EU) 2019/125](https://www.legislation.gov.uk/eur/2019/125)[^c-cf687691fdf52efc4c21eb2eb4303a77][^c-b8168e9af27da3139fc4c02fcec854ab]
 
-(1) An existing authorisation which had effect immediately before IP completion day[^key-30c3077dfc966e9701b1c1336b72a839] continues to have effect as if it were a new authorisation.
+(1) An existing authorisation which had effect immediately before IP completion day[^c-30c3077dfc966e9701b1c1336b72a839] continues to have effect as if it were a new authorisation.
 
 (2) In this regulation—
 
-- “[^key-1bdd8a72651eec485815fd1073b5e2b5]**existing authorisation**” means an authorisation granted by the Secretary of State under Article 3, 11, 15, 16, or 19 of the EU Torture Regulation;
-- “**EU Torture Regulation**” means Council Regulation (EU) 2019/125 of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment as it had effect immediately before IP completion day[^key-c19a7b56b5aad2a6ddae5e2087a2ce75];
-- “**new authorisation**” means an authorisation granted by the Secretary of State under Article 3, 11, 15, 16 or 19 of the replacement torture Regulation[^key-5e097126b89d6b22a65a2d8d54ae47e0];
-- “[^key-e6a5877c9f4ed7e60a06ea61f4aa44b5]**replacement torture Regulation**”, in relation to—
+- “[^c-1bdd8a72651eec485815fd1073b5e2b5]**existing authorisation**” means an authorisation granted by the Secretary of State under Article 3, 11, 15, 16, or 19 of the EU Torture Regulation;
+- “**EU Torture Regulation**” means Council Regulation (EU) 2019/125 of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment as it had effect immediately before IP completion day[^c-c19a7b56b5aad2a6ddae5e2087a2ce75];
+- “**new authorisation**” means an authorisation granted by the Secretary of State under Article 3, 11, 15, 16 or 19 of the replacement torture Regulation[^c-5e097126b89d6b22a65a2d8d54ae47e0];
+- “[^c-e6a5877c9f4ed7e60a06ea61f4aa44b5]**replacement torture Regulation**”, in relation to—
   - (a) England and Wales and Scotland, means Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment;
   - (b) Northern Ireland, means Regulation (EU) 2019/125 of the European Parliament and of the Council of 16 January 2019 concerning trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
 
@@ -482,11 +482,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24373731]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-8e5f34bad8be245a945fdadf77d15456]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see reg. 1
+[^c-8e5f34bad8be245a945fdadf77d15456]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see reg. 1
 
-[^key-6b4f1b31b5b71c4e703a8bd249c97bea]: Textual amendment: Words substituted in reg. 1 (11.12.2020) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1502/regulation/13)
+[^c-6b4f1b31b5b71c4e703a8bd249c97bea]: Textual amendment: Words substituted in reg. 1 (11.12.2020) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1502/regulation/13)
 
-[^key-a9f689301a30d0ab204e51becc846051]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1
+[^c-a9f689301a30d0ab204e51becc846051]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1
 
 [^c24373741]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 100A was inserted by the [Finance Act 1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), [section 8](https://www.legislation.gov.uk/ukpga/1984/43/section/8), [Schedule 4](https://www.legislation.gov.uk/ukpga/1984/43/schedule/4), [Part 1](https://www.legislation.gov.uk/ukpga/1984/43/part/1).
 
@@ -496,26 +496,26 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24373771]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697) and 2018/165 and 939.
 
-[^key-584c79a36687b26d77b72e890ad8195b]: Textual amendment: Reg. 2(38)(a) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/a)
+[^c-584c79a36687b26d77b72e890ad8195b]: Textual amendment: Reg. 2(38)(a) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/a)
 
-[^key-124f23af5a7d5eca48c67250cb64bdf5]: Textual amendment: Reg. 2(42)(f) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/b)
+[^c-124f23af5a7d5eca48c67250cb64bdf5]: Textual amendment: Reg. 2(42)(f) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/b)
 
-[^key-114f33bf4244874ee53c752b86588d03]: Textual amendment: Reg. 2(43)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(c)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/c/i)
+[^c-114f33bf4244874ee53c752b86588d03]: Textual amendment: Reg. 2(43)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(c)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/c/i)
 
-[^key-78f55f99a70e5a18a8e07714065d6d15]: Textual amendment: Words in reg. 2(43)(e)(i) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/c/ii)
+[^c-78f55f99a70e5a18a8e07714065d6d15]: Textual amendment: Words in reg. 2(43)(e)(i) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/c/ii)
 
-[^key-46bbb083150980e3bd1189708d19d886]: Textual amendment: Words in reg. 2(43)(f)(vii)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/c/iii)
+[^c-46bbb083150980e3bd1189708d19d886]: Textual amendment: Words in reg. 2(43)(f)(vii)(aa) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [14(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/14/c/iii)
 
-[^key-cf687691fdf52efc4c21eb2eb4303a77]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1
+[^c-cf687691fdf52efc4c21eb2eb4303a77]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1
 
-[^key-b8168e9af27da3139fc4c02fcec854ab]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3) heading substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(1)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/1)
+[^c-b8168e9af27da3139fc4c02fcec854ab]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3) heading substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(1)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/1)
 
-[^key-30c3077dfc966e9701b1c1336b72a839]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/1) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/a)
+[^c-30c3077dfc966e9701b1c1336b72a839]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/1) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/a)
 
-[^key-1bdd8a72651eec485815fd1073b5e2b5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/i)
+[^c-1bdd8a72651eec485815fd1073b5e2b5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/i)
 
-[^key-c19a7b56b5aad2a6ddae5e2087a2ce75]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/ii)
+[^c-c19a7b56b5aad2a6ddae5e2087a2ce75]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/ii)
 
-[^key-5e097126b89d6b22a65a2d8d54ae47e0]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/iii)
+[^c-5e097126b89d6b22a65a2d8d54ae47e0]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/iii)
 
-[^key-e6a5877c9f4ed7e60a06ea61f4aa44b5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/iv)
+[^c-e6a5877c9f4ed7e60a06ea61f4aa44b5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1479/regulation/3/2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [15(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/15/2/b/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Short title[^key-2055d84907d00cc36f891a99920840c5]
+## 57. Short title[^c-2055d84907d00cc36f891a99920840c5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Fireworks and Pyrotechnic Articles (Scotland)
 
 ## Annotations
 
-[^key-2055d84907d00cc36f891a99920840c5]: Commencement: S. 57 in force at 11.8.2022, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-2055d84907d00cc36f891a99920840c5]: Commencement: S. 57 in force at 11.8.2022, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

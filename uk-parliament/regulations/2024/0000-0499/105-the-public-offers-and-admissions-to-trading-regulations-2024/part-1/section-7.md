@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. “Offer of relevant securities to the public”[^key-d75e07d4df250a6622a7c06897b02117]
+## 7. “Offer of relevant securities to the public”[^c-d75e07d4df250a6622a7c06897b02117]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ to enable an investor to decide to buy or subscribe for the relevant securities 
 
 ## Annotations
 
-[^key-d75e07d4df250a6622a7c06897b02117]: Commencement: Reg. 7 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-d75e07d4df250a6622a7c06897b02117]: Commencement: Reg. 7 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
 
 [^f00022]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 

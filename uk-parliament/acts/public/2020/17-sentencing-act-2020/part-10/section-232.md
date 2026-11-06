@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Additional requirements in case of offender suffering from mental disorder[^key-33579748c10475b0e9ad930ca920d5a8]
+## 232. Additional requirements in case of offender suffering from mental disorder[^c-33579748c10475b0e9ad930ca920d5a8]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33579748c10475b0e9ad930ca920d5a8]: Commencement: S. 232 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-33579748c10475b0e9ad930ca920d5a8]: Commencement: S. 232 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

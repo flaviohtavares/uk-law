@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Prescribed cases or circumstances under which a limit on the operator’s liability to government does not apply[^key-ed930c951a88d07422ecdf3b1a7b6903]
+## 219. Prescribed cases or circumstances under which a limit on the operator’s liability to government does not apply[^c-ed930c951a88d07422ecdf3b1a7b6903]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The following cases and circumstances are prescribed for the purposes of section
 
 ## Annotations
 
-[^key-ed930c951a88d07422ecdf3b1a7b6903]: Commencement: Reg. 219 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ed930c951a88d07422ecdf3b1a7b6903]: Commencement: Reg. 219 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00064]: Footnote: See section 37(5) of the Space Industry Act 2018 for the definition of “gross negligence”.

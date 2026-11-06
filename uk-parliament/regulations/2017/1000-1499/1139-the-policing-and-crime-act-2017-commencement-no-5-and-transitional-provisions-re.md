@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 183(1), (7) and (9) of the Policing and Crime Act 2017[^f00001].
 
-## 1. Citation and interpretation[^key-4d54beec8f556766f56065dc086605e1]
+## 1. Citation and interpretation[^c-4d54beec8f556766f56065dc086605e1]
 
 (1) These Regulations may be cited as the Policing and Crime Act 2017 (Commencement No. 5 and Transitional Provisions) Regulations 2017.
 
@@ -46,9 +46,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) “the Act” means the Policing and Crime Act 2017; and
 - (b) “the 2002 Act” means the Police Reform Act 2002[^f00002].
 
-## 2. Provisions coming into force on 15th December 2017[^key-cdec4360ef91f25d19994c113b01f8d3][^key-653a6620330f7a6d33d16f5f354c33bc]
+## 2. Provisions coming into force on 15th December 2017[^c-cdec4360ef91f25d19994c113b01f8d3][^c-653a6620330f7a6d33d16f5f354c33bc]
 
-The day appointed for the coming into force of the following provisions of the Act is 15th[^key-e8b85d8939ac6992f95e0c687f683d15] December 2017—
+The day appointed for the coming into force of the following provisions of the Act is 15th[^c-e8b85d8939ac6992f95e0c687f683d15] December 2017—
 
 - (a) sections 29 (1) to (7) (disciplinary proceedings: former members of police forces and former special constables) in so far as not already in force[^f00003];
 - (b) section 29 (8), in so far as that subsection relates to provisions specified in paragraphs 1 to 5 of Schedule 7 (disciplinary proceedings: former members of Ministry of Defence Police), and paragraphs 1 to 5 of Schedule 7 , in so far as not already in force;
@@ -62,15 +62,15 @@ The day appointed for the coming into force of the following provisions of the A
 - (j) section 44 (restrictions on designated persons acting as covert human intelligence sources), and
 - (k) section 45 (further amendments consequential on section 38 etc) and Schedule 12 (powers of civilian staff and volunteers: further amendments) in so far as not already in force.
 
-## 3. Provisions coming into force on 1st December 2018[^key-eb1efaa47cd4d54ea3a904d653e0c8e7]
+## 3. Provisions coming into force on 1st December 2018[^c-eb1efaa47cd4d54ea3a904d653e0c8e7]
 
 The day appointed for the coming into force of section 46 (removal of powers of police in England and Wales to appoint traffic wardens) and Schedule 13 (abolition of office of traffic warden) is 1st December 2018
 
-## 4. Transitional provision[^key-f962af070f9484cbf62fab1c67ab4dba]
+## 4. Transitional provision[^c-f962af070f9484cbf62fab1c67ab4dba]
 
 Subject to regulation 5, any designations made under section 38[^f00005] (police powers for civilian staff[^f00006]) of the 2002 Act prior to the coming into force of section 38 of the Act (and the powers and duties conferred or imposed by that designation) remain in force until they are amended or revoked under section 38 of the 2002 Act as it applies after the coming into force of section 38 of the Act.
 
-**5.**[^key-7d63c72262bbb3f7097ad8d811d07d76] Regulation 4 does not apply to any part of a designation made under section 38 of the 2002 Act prior to the coming into force of section 38 of this Act which conferred or imposed powers and duties that are included in Part 1 of Schedule 3B[^f00007] (excluded powers and duties of constables) to the 2002 Act (as it applies after the coming into force of section 38 of the Act), with the effect that those powers cease to be conferred or imposed under section 38 of the 2002 Act.
+**5.**[^c-7d63c72262bbb3f7097ad8d811d07d76] Regulation 4 does not apply to any part of a designation made under section 38 of the 2002 Act prior to the coming into force of section 38 of this Act which conferred or imposed powers and duties that are included in Part 1 of Schedule 3B[^f00007] (excluded powers and duties of constables) to the 2002 Act (as it applies after the coming into force of section 38 of the Act), with the effect that those powers cease to be conferred or imposed under section 38 of the 2002 Act.
 
 Nick Hurd
 
@@ -146,28 +146,28 @@ The following provisions of the Policing and Crime Act 2017 have been brought in
 
 [^f00001]: Footnote: [2017 c. 3](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-4d54beec8f556766f56065dc086605e1]: Commencement: Reg. 1 in force at 22.11.2017 at made date
+[^c-4d54beec8f556766f56065dc086605e1]: Commencement: Reg. 1 in force at 22.11.2017 at made date
 
 [^f00002]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
-[^key-cdec4360ef91f25d19994c113b01f8d3]: Commencement: Reg. 2 in force at 22.11.2017 at made date
+[^c-cdec4360ef91f25d19994c113b01f8d3]: Commencement: Reg. 2 in force at 22.11.2017 at made date
 
-[^key-653a6620330f7a6d33d16f5f354c33bc]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2) heading substituted (30.11.2017) by [The Policing and Crime Act 2017 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2017 (S.I. 2017/1162)](https://www.legislation.gov.uk/uksi/2017/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1162/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2/2)
+[^c-653a6620330f7a6d33d16f5f354c33bc]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2) heading substituted (30.11.2017) by [The Policing and Crime Act 2017 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2017 (S.I. 2017/1162)](https://www.legislation.gov.uk/uksi/2017/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1162/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2/2)
 
-[^key-e8b85d8939ac6992f95e0c687f683d15]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2) substituted (30.11.2017) by [The Policing and Crime Act 2017 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2017 (S.I. 2017/1162)](https://www.legislation.gov.uk/uksi/2017/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1162/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2/3)
+[^c-e8b85d8939ac6992f95e0c687f683d15]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2) substituted (30.11.2017) by [The Policing and Crime Act 2017 (Commencement No. 5 and Transitional Provisions) (Amendment) Regulations 2017 (S.I. 2017/1162)](https://www.legislation.gov.uk/uksi/2017/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1162/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2/3)
 
 [^f00003]: Footnote: See section 183(5)(e).
 
 [^f00004]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-eb1efaa47cd4d54ea3a904d653e0c8e7]: Commencement: Reg. 3 in force at 22.11.2017 at made date
+[^c-eb1efaa47cd4d54ea3a904d653e0c8e7]: Commencement: Reg. 3 in force at 22.11.2017 at made date
 
-[^key-f962af070f9484cbf62fab1c67ab4dba]: Commencement: Reg. 4 in force at 22.11.2017 at made date
+[^c-f962af070f9484cbf62fab1c67ab4dba]: Commencement: Reg. 4 in force at 22.11.2017 at made date
 
 [^f00005]: Footnote: Section 38 was amended by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) paragraphs 1 and 2 of Schedule 17; the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) section 7(1), and paragraph 2(2) to 2(4) of Schedule 5; and by the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) paragraphs 277 and 292 of Schedule 16.
 
 [^f00006]: Footnote: The heading for section 38 is amended by section 38(9) of the Policing and Crime Act 2017, and that amendment is commenced by these Regulations.
 
-[^key-7d63c72262bbb3f7097ad8d811d07d76]: Commencement: Reg. 5 in force at 22.11.2017 at made date
+[^c-7d63c72262bbb3f7097ad8d811d07d76]: Commencement: Reg. 5 in force at 22.11.2017 at made date
 
 [^f00007]: Footnote: Part 1 of Schedule 3B was inserted by Schedule 10 to the Policing and Crime Act 2017, and is commenced by these Regulations.

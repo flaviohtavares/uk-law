@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Definition of “bankrupt’s estate”[^key-33f07a201c1d9eba9b32749316e0461e]
+## 74. Definition of “bankrupt’s estate”[^c-33f07a201c1d9eba9b32749316e0461e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 11(4)(a) (definition of “bankrupt’s estate”), for “a meeting 
 
 ## Annotations
 
-[^key-33f07a201c1d9eba9b32749316e0461e]: Commencement: S. 74 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-33f07a201c1d9eba9b32749316e0461e]: Commencement: S. 74 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

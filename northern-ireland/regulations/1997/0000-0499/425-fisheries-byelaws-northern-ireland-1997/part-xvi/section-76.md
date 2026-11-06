@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**76.**[^key-42141664b1f0547764f925a1c0adf2a2] In all waters listed in Schedule 4 (Rainbow Trout Waters) there shall be no annual close season for angling for rainbow trout.
+**76.**[^c-42141664b1f0547764f925a1c0adf2a2] In all waters listed in Schedule 4 (Rainbow Trout Waters) there shall be no annual close season for angling for rainbow trout.
 
 ## Annotations
 
-[^key-42141664b1f0547764f925a1c0adf2a2]: Commencement: S. 76 in operation at 1.11.1997, see byelaw 1
+[^c-42141664b1f0547764f925a1c0adf2a2]: Commencement: S. 76 in operation at 1.11.1997, see byelaw 1

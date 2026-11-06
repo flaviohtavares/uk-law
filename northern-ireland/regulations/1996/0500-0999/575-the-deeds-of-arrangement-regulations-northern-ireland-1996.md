@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Economic Development, in exercise of the powers conferred on it by Articles 212(*h*) and 222(1)(*a*) and (2) of the Insolvency (Northern Ireland) Order 1989[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6fe85c984a2e533bb2e5fe44298247b7]
+## 1. Citation and commencement[^c-6fe85c984a2e533bb2e5fe44298247b7]
 
 These Regulations may be cited as the Deeds of Arrangement Regulations (Northern Ireland) 1996 and shall come into operation on 31st January 1997.
 
-## 2. Interpretation and application[^key-aa90167589510bf277f62baeafb2c3c3]
+## 2. Interpretation and application[^c-aa90167589510bf277f62baeafb2c3c3]
 
 (1) In these Regulations—
 
@@ -63,11 +63,11 @@ These Regulations may be cited as the Deeds of Arrangement Regulations (Northern
 
 (4) These Regulations apply to proceedings under Chapter I of Part VIII of the Order where a deed of arrangement is or was registered on or after 1st October 1991.
 
-## 3. Form of statement under Article 222(1)(a)[^key-bc0034d70bc574a4f884da0573968380]
+## 3. Form of statement under Article 222(1)(a)[^c-bc0034d70bc574a4f884da0573968380]
 
 The statement to be sent to creditors pursuant to Article 222(1)(*a*) shall be in Form 1.
 
-## 4. Accounts of receipts and payments[^key-f83599b1f408c5dd501fb59333a852f1]
+## 4. Accounts of receipts and payments[^c-f83599b1f408c5dd501fb59333a852f1]
 
 (1) Subject to paragraph (5), every trustee shall every 6 months during his tenure of office send to the Department an account under each deed of arrangement of his receipts and payments as trustee.
 
@@ -79,11 +79,11 @@ The statement to be sent to creditors pursuant to Article 222(1)(*a*) shall be i
 
 (5) Where a trustee has not since the beginning of his tenure of office, or since the last time that his account has been sent to the Department, as the case may be, received or paid any money under a deed he shall, at the time when he is required to send his account to the Department, send to the Department in Form 3 a certificate of no receipts or payments.
 
-## 5. Partnership accounts[^key-f63b02208ab4712afe783e5b97d370e2]
+## 5. Partnership accounts[^c-f63b02208ab4712afe783e5b97d370e2]
 
 Where a deed of arrangement has been made by a firm of debtors in partnership, a distinct account of, or certificate of no receipts or payments in relation to, the joint estate and of each of the separate estates shall be sent to the Department under regulation 4.
 
-## 6. Additional particulars to be recorded in the register[^key-84fe8d3e6274c6bdc01904b7762af231]
+## 6. Additional particulars to be recorded in the register[^c-84fe8d3e6274c6bdc01904b7762af231]
 
 The additional particulars set out below are prescribed for the purposes of Article 212(*h*) (additional particulars to be recorded in the register in respect of each deed of arrangement presented for registration)—
 
@@ -106,7 +106,7 @@ A. L. Brown
 
 Assistant Secretary
 
-## SCHEDULE — FORMS[^key-b611f2840312105d5540ddd1a22c2ff5]
+## SCHEDULE — FORMS[^c-b611f2840312105d5540ddd1a22c2ff5]
 
 Regulations 2(2), 3 and 4(2) and (5).
 
@@ -162,16 +162,16 @@ Regulation 47(6) of the Insolvency Regulations (Northern Ireland) 1991 has been 
 
 [^f00001]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); *see* Article 2(2) for the definitions of “the Department”, “prescribed” and “regulations”.
 
-[^key-6fe85c984a2e533bb2e5fe44298247b7]: Commencement: Reg. 1 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-6fe85c984a2e533bb2e5fe44298247b7]: Commencement: Reg. 1 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
 
-[^key-aa90167589510bf277f62baeafb2c3c3]: Commencement: Reg. 2 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-aa90167589510bf277f62baeafb2c3c3]: Commencement: Reg. 2 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
 
-[^key-bc0034d70bc574a4f884da0573968380]: Commencement: Reg. 3 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-bc0034d70bc574a4f884da0573968380]: Commencement: Reg. 3 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
 
-[^key-f83599b1f408c5dd501fb59333a852f1]: Commencement: Reg. 4 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-f83599b1f408c5dd501fb59333a852f1]: Commencement: Reg. 4 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
 
-[^key-f63b02208ab4712afe783e5b97d370e2]: Commencement: Reg. 5 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-f63b02208ab4712afe783e5b97d370e2]: Commencement: Reg. 5 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
 
-[^key-84fe8d3e6274c6bdc01904b7762af231]: Commencement: Reg. 6 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-84fe8d3e6274c6bdc01904b7762af231]: Commencement: Reg. 6 in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
 
-[^key-b611f2840312105d5540ddd1a22c2ff5]: Commencement: Sch. in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)
+[^c-b611f2840312105d5540ddd1a22c2ff5]: Commencement: Sch. in operation at 31.1.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/575/regulation/1)

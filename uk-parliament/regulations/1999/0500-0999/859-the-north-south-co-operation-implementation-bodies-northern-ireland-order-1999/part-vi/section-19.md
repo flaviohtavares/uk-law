@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Annual report and accounts[^key-fd36c07c37398ba1c60cd95e34029cef]
+## 19. Annual report and accounts[^c-fd36c07c37398ba1c60cd95e34029cef]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Minister of Culture, Arts and Leisure shall lay before the Assembly a copy o
 
 ## Annotations
 
-[^key-fd36c07c37398ba1c60cd95e34029cef]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/1999/859/article/19) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-fd36c07c37398ba1c60cd95e34029cef]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/1999/859/article/19) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

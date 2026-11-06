@@ -33,22 +33,22 @@ of 16 June 2008
 
 amending Annex II to Regulation (EC) No 336/2006 of the European Parliament and of the Council on the implementation of the International Safety Management (ISM) Code within the Community, as regards format of forms (revoked)
 
-[^key-0e426a828ab7649207fa43a9ee34f510]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e426a828ab7649207fa43a9ee34f510]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0e426a828ab7649207fa43a9ee34f510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0e426a828ab7649207fa43a9ee34f510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0e426a828ab7649207fa43a9ee34f510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0e426a828ab7649207fa43a9ee34f510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e426a828ab7649207fa43a9ee34f510]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e426a828ab7649207fa43a9ee34f510]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-0e426a828ab7649207fa43a9ee34f510]
+## ANNEX[^c-0e426a828ab7649207fa43a9ee34f510]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e426a828ab7649207fa43a9ee34f510]: Textual amendment: Regulation revoked (31.3.2026) by [The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026 (S.I. 2026/194)](https://www.legislation.gov.uk/uksi/2026/194), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/194/regulation/1/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2026/194/schedule/paragraph/5/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/194/regulation/5))
+[^c-0e426a828ab7649207fa43a9ee34f510]: Textual amendment: Regulation revoked (31.3.2026) by [The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2026 (S.I. 2026/194)](https://www.legislation.gov.uk/uksi/2026/194), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/194/regulation/1/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2026/194/schedule/paragraph/5/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/194/regulation/5))

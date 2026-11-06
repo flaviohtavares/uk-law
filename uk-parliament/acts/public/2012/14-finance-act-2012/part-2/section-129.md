@@ -55,10 +55,10 @@ the amount of the difference is to be taken into account for the purpose of calc
 
 (8) The net amount recognised by an insurance company in respect of the transfer of the contracts is determined by subtracting—
 
-- (a) the total amount in respect of relevant[^key-1cc938e4437061327d0391fd9a9a24bd] liabilities relating to the contracts that is or would be recognised for the purposes of a balance sheet drawn up at the relevant time by the company in accordance with generally accepted accounting practice, from
-- (b) the total amount in respect of relevant[^key-3e42873a56b172a08ce42d2f418c503b] assets relating to the contracts that is or would be recognised for those purposes,
+- (a) the total amount in respect of relevant[^c-1cc938e4437061327d0391fd9a9a24bd] liabilities relating to the contracts that is or would be recognised for the purposes of a balance sheet drawn up at the relevant time by the company in accordance with generally accepted accounting practice, from
+- (b) the total amount in respect of relevant[^c-3e42873a56b172a08ce42d2f418c503b] assets relating to the contracts that is or would be recognised for those purposes,
 
-In this paragraph, “relevant liabilities” and “relevant assets” means those liabilities and assets which give rise to amounts that are taken into account as part of the calculation under Chapter 6 of Part 2, and “relevant time” means the time immediately before the transfer (in the case of the transferor) and the time immediately after it (in the case of the transferee).[^key-67983e3c78f4c28b9e98ff99f035b9cb]
+In this paragraph, “relevant liabilities” and “relevant assets” means those liabilities and assets which give rise to amounts that are taken into account as part of the calculation under Chapter 6 of Part 2, and “relevant time” means the time immediately before the transfer (in the case of the transferor) and the time immediately after it (in the case of the transferee).[^c-67983e3c78f4c28b9e98ff99f035b9cb]
 
 (9) The Treasury may by order amend any of subsections (6) to (8).
 
@@ -73,8 +73,8 @@ The reference here to a with-profits fund transfer is a reference to—
 
 ## Annotations
 
-[^key-1cc938e4437061327d0391fd9a9a24bd]: Textual amendment: Word in s. 129(8)(a) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/2/2)
+[^c-1cc938e4437061327d0391fd9a9a24bd]: Textual amendment: Word in s. 129(8)(a) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/2/2)
 
-[^key-3e42873a56b172a08ce42d2f418c503b]: Textual amendment: Word in s. 129(8)(b) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/2/2)
+[^c-3e42873a56b172a08ce42d2f418c503b]: Textual amendment: Word in s. 129(8)(b) inserted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/2/2)
 
-[^key-67983e3c78f4c28b9e98ff99f035b9cb]: Textual amendment: Words in s. 129(8) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/2/3)
+[^c-67983e3c78f4c28b9e98ff99f035b9cb]: Textual amendment: Words in s. 129(8) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Insurance Companies (Amendment to Section 129 of, and Schedule 17 to, the Finance Act 2012) Regulations 2015 (S.I. 2015/1959)](https://www.legislation.gov.uk/uksi/2015/1959), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1959/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1959/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.1. When this Part applies[^key-667e542e68c938c2ac3fa832d6f29c89]
+## 25.1. When this Part applies[^c-667e542e68c938c2ac3fa832d6f29c89]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ This Part applies in the Crown Court where the court tries a case or the defenda
 
 ## Annotations
 
-[^key-667e542e68c938c2ac3fa832d6f29c89]: Commencement: [Rule 25.1](https://www.legislation.gov.uk/uksi/2025/909/rule/25.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-667e542e68c938c2ac3fa832d6f29c89]: Commencement: [Rule 25.1](https://www.legislation.gov.uk/uksi/2025/909/rule/25.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00576]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 

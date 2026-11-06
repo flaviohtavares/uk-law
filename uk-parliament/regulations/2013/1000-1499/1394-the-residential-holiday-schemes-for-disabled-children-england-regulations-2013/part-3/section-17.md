@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Health needs of children[^key-438b0f98e5adaf6c97677c5ab569ad41]
+## 17. Health needs of children[^c-438b0f98e5adaf6c97677c5ab569ad41]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The registered person must promote and protect the emotional, mental and physica
 
 ## Annotations
 
-[^key-438b0f98e5adaf6c97677c5ab569ad41]: Commencement: Reg. 17 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-438b0f98e5adaf6c97677c5ab569ad41]: Commencement: Reg. 17 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

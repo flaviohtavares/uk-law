@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Transitional, transitory and saving provision[^key-e2049cb4e58cd9fb89e77ac120c0d8c0]
+## 143. Transitional, transitory and saving provision[^c-e2049cb4e58cd9fb89e77ac120c0d8c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2049cb4e58cd9fb89e77ac120c0d8c0]: Commencement: S. 143 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)
+[^c-e2049cb4e58cd9fb89e77ac120c0d8c0]: Commencement: S. 143 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

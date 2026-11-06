@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**115.**[^key-b289b7531f59005215c306832e67f7cb] In section 17—
+**115.**[^c-b289b7531f59005215c306832e67f7cb] In section 17—
 
 - (a) in the title, for “magistrates’ courts” substitute “the family court in England and Wales or in magistrates’ courts in Northern Ireland”;
 - (b) in subsection (4)—
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b289b7531f59005215c306832e67f7cb]: Commencement: Art. 115 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-b289b7531f59005215c306832e67f7cb]: Commencement: Art. 115 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

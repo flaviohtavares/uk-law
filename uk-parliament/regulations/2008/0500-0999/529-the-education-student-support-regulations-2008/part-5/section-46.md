@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Interpretation of Chapter 4[^key-287edafdbaffebc104509e277af0b73b]
+## 46. Interpretation of Chapter 4[^c-287edafdbaffebc104509e277af0b73b]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-287edafdbaffebc104509e277af0b73b]: Commencement: Reg. 46 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-287edafdbaffebc104509e277af0b73b]: Commencement: Reg. 46 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00051]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
 

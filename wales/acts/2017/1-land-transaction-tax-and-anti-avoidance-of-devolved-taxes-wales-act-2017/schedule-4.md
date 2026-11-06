@@ -24,19 +24,19 @@ summary: ''
 
 ### Money or money's worth
 
-**1.**[^key-9cd491a25628f2fc4a6eaaa3614909d5] The chargeable consideration for a transaction is, except as otherwise provided, any consideration in money or money's worth given for the subject-matter of the transaction, directly or indirectly, by the buyer or a person connected with the buyer.
+**1.**[^c-9cd491a25628f2fc4a6eaaa3614909d5] The chargeable consideration for a transaction is, except as otherwise provided, any consideration in money or money's worth given for the subject-matter of the transaction, directly or indirectly, by the buyer or a person connected with the buyer.
 
 ### Value added tax
 
-**2.**[^key-e4923c9a557bc559589639cc42896b1d] The chargeable consideration for a transaction includes any value added tax chargeable in respect of the transaction, other than value added tax chargeable by virtue of an option to tax any land under Part 1 of Schedule 10 to the Value Added Tax Act 1994 (c. 23) made after the effective date of the transaction.
+**2.**[^c-e4923c9a557bc559589639cc42896b1d] The chargeable consideration for a transaction includes any value added tax chargeable in respect of the transaction, other than value added tax chargeable by virtue of an option to tax any land under Part 1 of Schedule 10 to the Value Added Tax Act 1994 (c. 23) made after the effective date of the transaction.
 
 ### Postponed consideration
 
-**3.**[^key-d148b8cd7f74ed68bff11786b96b6b11] The amount or value of the chargeable consideration for a transaction is to be determined without any discount for postponement of the right to receive it or any part of it.
+**3.**[^c-d148b8cd7f74ed68bff11786b96b6b11] The amount or value of the chargeable consideration for a transaction is to be determined without any discount for postponement of the right to receive it or any part of it.
 
 ### Just and reasonable apportionment
 
-**4.**[^key-d02c4ecfa5f348a18869397ad994c0cc] (1) For the purposes of this Act, consideration attributable—
+**4.**[^c-d02c4ecfa5f348a18869397ad994c0cc] (1) For the purposes of this Act, consideration attributable—
 
 - (a) to two or more land transactions,
 - (b) in part to a land transaction and in part to another matter, or
@@ -53,7 +53,7 @@ is to be apportioned on a just and reasonable basis.
 
 ### Exchanges
 
-**5.**[^key-8270eb8c84745ecaccced5adf4f10da1] (1) This paragraph applies to determine the chargeable consideration where one or more land transactions are entered into by a person (alone or jointly) as buyer wholly or partly in consideration of one or more other land transactions being entered into by that person (alone or jointly) as seller.
+**5.**[^c-8270eb8c84745ecaccced5adf4f10da1] (1) This paragraph applies to determine the chargeable consideration where one or more land transactions are entered into by a person (alone or jointly) as buyer wholly or partly in consideration of one or more other land transactions being entered into by that person (alone or jointly) as seller.
 
 (2) In this paragraph—
 
@@ -94,11 +94,11 @@ TMV is the total market value of the subject-matter of all the relevant acquisit
 
 ### Partition etc.: disregard of existing interest
 
-**6.**[^key-884deecc0dc3ef4efcba23196bce1fef] In the case of a land transaction giving effect to a partition or division of a chargeable interest to which persons are jointly entitled, the share of the interest held by the buyer immediately before the partition or division does not count as chargeable consideration.
+**6.**[^c-884deecc0dc3ef4efcba23196bce1fef] In the case of a land transaction giving effect to a partition or division of a chargeable interest to which persons are jointly entitled, the share of the interest held by the buyer immediately before the partition or division does not count as chargeable consideration.
 
 ### Valuation of non-monetary consideration
 
-**7.**[^key-052248f7382717b4acd54a1cadc44609] Except as otherwise provided, the value of any chargeable consideration for a land transaction, other than—
+**7.**[^c-052248f7382717b4acd54a1cadc44609] Except as otherwise provided, the value of any chargeable consideration for a land transaction, other than—
 
 - (a) money (whether in sterling or another currency), or
 - (b) debt as defined for the purposes of paragraph 8 (debt as consideration),
@@ -107,7 +107,7 @@ is to be taken to be its market value at the effective date of the transaction.
 
 ### Debt as consideration
 
-**8.**[^key-7448084435e661497a94d6f609c86834] (1) Where the chargeable consideration for a land transaction consists in whole or in part of —
+**8.**[^c-7448084435e661497a94d6f609c86834] (1) Where the chargeable consideration for a land transaction consists in whole or in part of —
 
 - (a) the satisfaction or release of debt due to the buyer or owed by the seller, or
 - (b) the assumption of existing debt by the buyer,
@@ -147,7 +147,7 @@ the amount of secured debt assumed is to be determined as if the amount of that 
 
 ### Cases where conditions for exemption not fully met
 
-**9.**[^key-e929cefccce10dccca322816c2e201ad] (1) Where a land transaction would be exempt from charge under paragraph 5 of Schedule 3 (assents and appropriations by personal representatives) but for sub-paragraph (2) of that paragraph (cases where person acquiring property gives consideration for it), the chargeable consideration for the transaction does not include the amount of any secured debt assumed.
+**9.**[^c-e929cefccce10dccca322816c2e201ad] (1) Where a land transaction would be exempt from charge under paragraph 5 of Schedule 3 (assents and appropriations by personal representatives) but for sub-paragraph (2) of that paragraph (cases where person acquiring property gives consideration for it), the chargeable consideration for the transaction does not include the amount of any secured debt assumed.
 
 (2) In sub-paragraph (1) “**"secured debt”**” has the same meaning as in paragraph 5 of Schedule 3.
 
@@ -155,13 +155,13 @@ the amount of secured debt assumed is to be determined as if the amount of that 
 
 ### Conversion of amounts in foreign currency
 
-**10.**[^key-7e4fe9c6214afeedf964286daca05f25] (1) References in this Act to the amount or value of the consideration for a transaction are to its amount or value in sterling.
+**10.**[^c-7e4fe9c6214afeedf964286daca05f25] (1) References in this Act to the amount or value of the consideration for a transaction are to its amount or value in sterling.
 
 (2) For the purposes of this Act, the sterling equivalent of an amount expressed in another currency is to be ascertained by reference to the London closing exchange rate on the effective date of the transaction (unless the parties have used a different rate for the purposes of the transaction).
 
 ### Carrying out of works
 
-**11.**[^key-810878debba32ec1c89a98a0efc44f6f] (1) Where the whole or part of the consideration for a land transaction consists of the carrying out of works of construction, improvement or repair of a building or other works to enhance the value of land, then—
+**11.**[^c-810878debba32ec1c89a98a0efc44f6f] (1) Where the whole or part of the consideration for a land transaction consists of the carrying out of works of construction, improvement or repair of a building or other works to enhance the value of land, then—
 
 - (a) to the extent that the conditions specified in sub-paragraph (2) are met, the value of the works does not count as chargeable consideration, and
 - (b) to the extent that those conditions are not met, the value of the works is to be taken into account as chargeable consideration.
@@ -188,7 +188,7 @@ there are two notifiable transactions (the first being the contract or agreement
 
 ### Provision of services
 
-**12.**[^key-86d066d78cbd9889ca480b64d179bfde] (1) Where the whole or part of the consideration for a land transaction consists of the provision of services (other than the carrying out of works to which paragraph 11 applies), the value of that consideration is to be taken to be the amount that would have to be paid in the open market as at the effective date of the transaction to obtain those services.
+**12.**[^c-86d066d78cbd9889ca480b64d179bfde] (1) Where the whole or part of the consideration for a land transaction consists of the provision of services (other than the carrying out of works to which paragraph 11 applies), the value of that consideration is to be taken to be the amount that would have to be paid in the open market as at the effective date of the transaction to obtain those services.
 
 (2) That amount includes any value added tax that would be chargeable in respect of the provision of the services.
 
@@ -196,7 +196,7 @@ there are two notifiable transactions (the first being the contract or agreement
 
 ### Land transaction entered into by reason of employment
 
-**13.**[^key-58eadca7a8d4538553119d7ea35080e2] Where a land transaction is entered into by reason of the buyer's employment, or that of a person connected with the buyer, then—
+**13.**[^c-58eadca7a8d4538553119d7ea35080e2] Where a land transaction is entered into by reason of the buyer's employment, or that of a person connected with the buyer, then—
 
 - (a) if the transaction gives rise to a charge to tax under Chapter 5 of Part 3 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (taxable benefits: living accommodation) and—
   - (i) no rent is payable by the buyer, or
@@ -208,11 +208,11 @@ there are two notifiable transactions (the first being the contract or agreement
 
 ### Indemnity given by buyer
 
-**14.**[^key-23c0bee42a3194aa3e16a4c5f1678e34] Where the buyer agrees to indemnify the seller in respect of liability to a third party arising from breach of an obligation owed by the seller in relation to the land that is the subject of the transaction, neither the agreement nor any payment made in pursuance of it counts as chargeable consideration.
+**14.**[^c-23c0bee42a3194aa3e16a4c5f1678e34] Where the buyer agrees to indemnify the seller in respect of liability to a third party arising from breach of an obligation owed by the seller in relation to the land that is the subject of the transaction, neither the agreement nor any payment made in pursuance of it counts as chargeable consideration.
 
 ### Buyer bearing inheritance tax liability
 
-**15.**[^key-47226fe3e8f4899c48b3b53fff96f30c] Where—
+**15.**[^c-47226fe3e8f4899c48b3b53fff96f30c] Where—
 
 - (a) there is a land transaction that is—
   - (i) a transfer of value within section 3 of the Inheritance Tax Act 1984 (c. 51) (transfers of value), or
@@ -225,7 +225,7 @@ the buyer's liability, agreement or payment does not count as chargeable conside
 
 ### Buyer bearing capital gains tax liability
 
-**16.**[^key-25b895248c578a8f9bb8599cff666a37] (1) Where—
+**16.**[^c-25b895248c578a8f9bb8599cff666a37] (1) Where—
 
 - (a) there is a land transaction under which the chargeable interest in question—
   - (i) is acquired otherwise than by a bargain made at arm's length, or
@@ -240,11 +240,11 @@ the buyer's liability or payment does not count as chargeable consideration for 
 
 ### Costs of enfranchisement
 
-**17.**[^key-645ae12ee3f883404dbd6b09e32c3fc8] Costs borne by the buyer under section 9(4) of the Leasehold Reform Act 1967 (c. 88) or section 33 of the Leasehold Reform, Housing and Urban Development Act 1993 (c. 28) (costs of enfranchisement) do not count as chargeable consideration.
+**17.**[^c-645ae12ee3f883404dbd6b09e32c3fc8] Costs borne by the buyer under section 9(4) of the Leasehold Reform Act 1967 (c. 88) or section 33 of the Leasehold Reform, Housing and Urban Development Act 1993 (c. 28) (costs of enfranchisement) do not count as chargeable consideration.
 
 ### Arrangements involving public or educational bodies
 
-**18.**[^key-ea999c32091f04c3c75c36617f452d7a] (1) This paragraph applies in any case where arrangements are entered into under which—
+**18.**[^c-ea999c32091f04c3c75c36617f452d7a] (1) This paragraph applies in any case where arrangements are entered into under which—
 
 - (a) there is a transfer, or the grant or assignment of a lease, of land by a qualifying body (““A””) to a person who is not a qualifying body (““B””) (““the main transfer””),
 - (b) in consideration (whether in whole or in part) of the main transfer there is a grant by B to A of a lease or sub-lease of the whole, or substantially the whole, of that land (““the leaseback””),
@@ -276,38 +276,38 @@ whether or not there is also a transfer, or the grant or assignment of a lease, 
 
 ## Annotations
 
-[^key-9cd491a25628f2fc4a6eaaa3614909d5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9cd491a25628f2fc4a6eaaa3614909d5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e4923c9a557bc559589639cc42896b1d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e4923c9a557bc559589639cc42896b1d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d148b8cd7f74ed68bff11786b96b6b11]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d148b8cd7f74ed68bff11786b96b6b11]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d02c4ecfa5f348a18869397ad994c0cc]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d02c4ecfa5f348a18869397ad994c0cc]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8270eb8c84745ecaccced5adf4f10da1]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8270eb8c84745ecaccced5adf4f10da1]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-884deecc0dc3ef4efcba23196bce1fef]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-884deecc0dc3ef4efcba23196bce1fef]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-052248f7382717b4acd54a1cadc44609]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-052248f7382717b4acd54a1cadc44609]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7448084435e661497a94d6f609c86834]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7448084435e661497a94d6f609c86834]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e929cefccce10dccca322816c2e201ad]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e929cefccce10dccca322816c2e201ad]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7e4fe9c6214afeedf964286daca05f25]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7e4fe9c6214afeedf964286daca05f25]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-810878debba32ec1c89a98a0efc44f6f]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-810878debba32ec1c89a98a0efc44f6f]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-86d066d78cbd9889ca480b64d179bfde]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-86d066d78cbd9889ca480b64d179bfde]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-58eadca7a8d4538553119d7ea35080e2]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-58eadca7a8d4538553119d7ea35080e2]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-23c0bee42a3194aa3e16a4c5f1678e34]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-23c0bee42a3194aa3e16a4c5f1678e34]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-47226fe3e8f4899c48b3b53fff96f30c]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-47226fe3e8f4899c48b3b53fff96f30c]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-25b895248c578a8f9bb8599cff666a37]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-25b895248c578a8f9bb8599cff666a37]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-645ae12ee3f883404dbd6b09e32c3fc8]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-645ae12ee3f883404dbd6b09e32c3fc8]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ea999c32091f04c3c75c36617f452d7a]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ea999c32091f04c3c75c36617f452d7a]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/4/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

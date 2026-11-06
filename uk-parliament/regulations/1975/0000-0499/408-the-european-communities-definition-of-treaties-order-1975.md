@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) Order 1975 (revoked)[^key-2fb2aae6c5fcffb0e26d8d2085286bea]
+The European Communities (Definition of Treaties) Order 1975 (revoked)[^c-2fb2aae6c5fcffb0e26d8d2085286bea]
 
 Laid before Parliament in draft
 
@@ -41,36 +41,36 @@ Made
 
 Coming into Operation in accordance with Article 1
 
-[^key-2fb2aae6c5fcffb0e26d8d2085286bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fb2aae6c5fcffb0e26d8d2085286bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fb2aae6c5fcffb0e26d8d2085286bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fb2aae6c5fcffb0e26d8d2085286bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2fb2aae6c5fcffb0e26d8d2085286bea]
+## SCHEDULE[^c-2fb2aae6c5fcffb0e26d8d2085286bea]
 
-### PART I[^key-2fb2aae6c5fcffb0e26d8d2085286bea]
+### PART I[^c-2fb2aae6c5fcffb0e26d8d2085286bea]
 
-**1.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-2fb2aae6c5fcffb0e26d8d2085286bea]
+### PART II[^c-2fb2aae6c5fcffb0e26d8d2085286bea]
 
-**3.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2fb2aae6c5fcffb0e26d8d2085286bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fb2aae6c5fcffb0e26d8d2085286bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fb2aae6c5fcffb0e26d8d2085286bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fb2aae6c5fcffb0e26d8d2085286bea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1975/408) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fb2aae6c5fcffb0e26d8d2085286bea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1975/408) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

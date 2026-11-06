@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-d21366664039b67683101c365412911e] The amount of the guaranteed cash equivalent transfer value payment is to be calculated and verified by the Secretary of State in accordance with the Occupational Pension Schemes (Transfer Values) Regulations 1996.
+(1)[^c-d21366664039b67683101c365412911e] The amount of the guaranteed cash equivalent transfer value payment is to be calculated and verified by the Secretary of State in accordance with the Occupational Pension Schemes (Transfer Values) Regulations 1996.
 
 This is subject to paragraphs (2), (3) and (5).
 
@@ -30,7 +30,7 @@ This is subject to paragraphs (2), (3) and (5).
 
 This is subject to paragraph (5).
 
-(4)[^key-a4fa1d36f976d57de6e5fd8503d7077f] In paragraph (3) “minimum transfer value” means—
+(4)[^c-a4fa1d36f976d57de6e5fd8503d7077f] In paragraph (3) “minimum transfer value” means—
 
 - (a) in the case of a person other than a 2008 Section Optant, the sum of—
   - (i) any transfer value payments that have been made to this Section of the Scheme in respect of the person as a result of which the person is entitled to count any pensionable service under this Section of the Scheme by reference to which the accrued rights subject to the transfer are calculated, and
@@ -50,12 +50,12 @@ which entitle the Optant to count, under Chapter 2.K, any pensionable service by
 - (a) in accordance with those arrangements rather than paragraphs (1) and (3), and
 - (b) by reference to the guidance and tables provided by the Scheme actuary for the purposes of this paragraph that are in use on the date used for the calculation.
 
-(6)[^key-faed4d790e5e335aeeeaa883e3e833d6] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
+(6)[^c-faed4d790e5e335aeeeaa883e3e833d6] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
 
 ## Annotations
 
-[^key-d21366664039b67683101c365412911e]: Textual amendment: [Reg. 2.F.6(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/1)[(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/2) substituted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2008/2263/regulation/40) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-d21366664039b67683101c365412911e]: Textual amendment: [Reg. 2.F.6(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/1)[(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/2) substituted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [40](https://www.legislation.gov.uk/uksi/2008/2263/regulation/40) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-a4fa1d36f976d57de6e5fd8503d7077f]: Textual amendment: [Reg. 2.F.6(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/4) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/46/2)
+[^c-a4fa1d36f976d57de6e5fd8503d7077f]: Textual amendment: [Reg. 2.F.6(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/4) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/46/2)
 
-[^key-faed4d790e5e335aeeeaa883e3e833d6]: Textual amendment: [Reg. 2.F.6(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [46(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/46/3)
+[^c-faed4d790e5e335aeeeaa883e3e833d6]: Textual amendment: [Reg. 2.F.6(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.6/6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [46(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/46/3)

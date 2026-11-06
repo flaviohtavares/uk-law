@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 9
 
-### 1. General[^key-e2b106f46eec7ce8fe2666064c2f0ce2]
+### 1. General[^c-e2b106f46eec7ce8fe2666064c2f0ce2]
 
 The Weights and Measures (Intoxicating Liquor) Order 1988 is amended as follows.
 
-**2.**[^key-b61ec42902156213804add914adea1e8] In article 3A(2), for “European Union” substitute “ United Kingdom ”.
+**2.**[^c-b61ec42902156213804add914adea1e8] In article 3A(2), for “European Union” substitute “ United Kingdom ”.
 
 ## Annotations
 
-[^key-e2b106f46eec7ce8fe2666064c2f0ce2]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e2b106f46eec7ce8fe2666064c2f0ce2]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b61ec42902156213804add914adea1e8]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b61ec42902156213804add914adea1e8]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

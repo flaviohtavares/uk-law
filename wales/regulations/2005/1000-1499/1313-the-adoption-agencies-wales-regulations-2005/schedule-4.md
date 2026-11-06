@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4[^key-3b8e90644aed7b51d69d57f4b65b9a3a]
+## SCHEDULE 4[^c-3b8e90644aed7b51d69d57f4b65b9a3a]
 
 *Extent: E+W*
 
@@ -143,4 +143,4 @@ Information about the prospective adopter’s capacity to—
 
 ## Annotations
 
-[^key-3b8e90644aed7b51d69d57f4b65b9a3a]: Textual amendment: Sch. 4, Sch. 4A substituted for Sch. 4 (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2020/163/regulation/15)
+[^c-3b8e90644aed7b51d69d57f4b65b9a3a]: Textual amendment: Sch. 4, Sch. 4A substituted for Sch. 4 (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2020/163/regulation/15)

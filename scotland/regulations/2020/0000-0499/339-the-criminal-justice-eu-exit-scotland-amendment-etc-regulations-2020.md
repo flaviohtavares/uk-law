@@ -56,7 +56,7 @@ In accordance with paragraph 4 of schedule 2 of that Act, they have consulted wi
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-d82cbdf5a3876723d86cff0ae9c234c2]
+### 1. Citation and commencement[^c-d82cbdf5a3876723d86cff0ae9c234c2]
 
 (1) These Regulations may be cited as the Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020.
 
@@ -66,11 +66,11 @@ In accordance with paragraph 4 of schedule 2 of that Act, they have consulted wi
 
 ## PART 2 — Council Framework Decision 2005/214/JHA on the application of the principle of mutual recognition of financial penalties
 
-### 2. Interpretation[^key-1c317effcd2dab294ad3259cebaf2335]
+### 2. Interpretation[^c-1c317effcd2dab294ad3259cebaf2335]
 
 In this Part, “**the 1995 Act**” means the Criminal Procedure (Scotland) Act 1995[^f00002].
 
-### 3. Amendment of the 1995 Act[^key-ec77d347102171d1c39c70536b3cd6a4]
+### 3. Amendment of the 1995 Act[^c-ec77d347102171d1c39c70536b3cd6a4]
 
 (1) The 1995 Act is amended as follows.
 
@@ -97,7 +97,7 @@ In this Part, “**the 1995 Act**” means the Criminal Procedure (Scotland) Act
 
 (7) Omit schedules 11 and 12[^f00008].
 
-### 4. Amendment of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007[^key-1851be670ade8f8a4de71a37dad4055f]
+### 4. Amendment of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007[^c-1851be670ade8f8a4de71a37dad4055f]
 
 (1) The Criminal Proceedings etc. (Reform) (Scotland) Act 2007[^f00009] is amended as follows.
 
@@ -105,7 +105,7 @@ In this Part, “**the 1995 Act**” means the Criminal Procedure (Scotland) Act
 
 (3) In section 81(3)(a)[^f00011] (orders), omit “56,”.
 
-### 5. Consequential revocations[^key-1c13cff4cf5ab766cf4f7c6ac21e8ce2]
+### 5. Consequential revocations[^c-1c13cff4cf5ab766cf4f7c6ac21e8ce2]
 
 The following are revoked—
 
@@ -115,7 +115,7 @@ The following are revoked—
 - (d) the Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) (No. 2) Order 2014[^f00015], and
 - (e) paragraph 6 of schedule 4 of the Civil Jurisdiction and Judgments (Amendment) Regulations 2014[^f00016].
 
-### 6. Transitional and saving provision: decisions requiring payment of financial penalties received before IP completion day[^key-d31ff91aa3c5e0651e1c217fda2ef349]
+### 6. Transitional and saving provision: decisions requiring payment of financial penalties received before IP completion day[^c-d31ff91aa3c5e0651e1c217fda2ef349]
 
 (1) The following provisions of the 1995 Act continue to apply to relevant decisions requiring payment of financial penalties as if the provisions had not been repealed or amended by regulation 3[^f00017]—
 
@@ -140,15 +140,15 @@ The following are revoked—
 
 ## PART 3 — Council Framework Decision 2009/829/JHA on the application between member States of the European Union, of the principle of mutual recognition to decisions on supervision measures as an alternative to provisional detention
 
-### 7. Interpretation[^key-2ff67cd8f94fe68ded9e01b6a0a335b5]
+### 7. Interpretation[^c-2ff67cd8f94fe68ded9e01b6a0a335b5]
 
 In this Part, “**the 2014 Regulations**” means the Mutual Recognition of Supervision Measures in the European Union (Scotland) Regulations 2014[^f00020].
 
-### 8. Revocation of the 2014 Regulations[^key-12fb55cd2b70e2d3a10fcf8fc8e9dfc3]
+### 8. Revocation of the 2014 Regulations[^c-12fb55cd2b70e2d3a10fcf8fc8e9dfc3]
 
 The 2014 Regulations are revoked.
 
-### 9. Transitional and saving provision: decisions on supervision measures received before IP completion day[^key-a2903276e121e32014832e452ee177b6]
+### 9. Transitional and saving provision: decisions on supervision measures received before IP completion day[^c-a2903276e121e32014832e452ee177b6]
 
 (1) The 2014 Regulations continue to apply, as if they had not been revoked by regulation 8, to relevant decisions on supervision measures[^f00021].
 
@@ -166,7 +166,7 @@ The 2014 Regulations are revoked.
 
 ## PART 4 — Council Framework Decision 2008/675/JHA on taking account of convictions in the member States of the European Union in the course of new criminal proceedings
 
-### 10. Amendment of the Civic Government (Scotland) Act 1982[^key-fcaef7b737b5e99ae6d3ef2e15cd8dcb]
+### 10. Amendment of the Civic Government (Scotland) Act 1982[^c-fcaef7b737b5e99ae6d3ef2e15cd8dcb]
 
 For section 58(4A) of the Civic Government (Scotland) Act 1982[^f00022] (convicted thief in possession) substitute—
 
@@ -179,7 +179,7 @@ For section 58(4A) of the Civic Government (Scotland) Act 1982[^f00022] (convict
 
 .
 
-### 11. Amendment of the Prisoners and Criminal Proceedings (Scotland) Act 1993[^key-6b604cd4bd186d55ee4c13521a1e7da2]
+### 11. Amendment of the Prisoners and Criminal Proceedings (Scotland) Act 1993[^c-6b604cd4bd186d55ee4c13521a1e7da2]
 
 In section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993[^f00023] (interpretation of Part 1), for the definition of “previous conviction” substitute—
 
@@ -189,11 +189,11 @@ In section 27(1) of the Prisoners and Criminal Proceedings (Scotland) Act 1993[^
 
 .
 
-### 12. Amendment of the Criminal Law (Consolidation) (Scotland) Act 1995[^key-e2404462311c54fb068865d474ed57b1]
+### 12. Amendment of the Criminal Law (Consolidation) (Scotland) Act 1995[^c-e2404462311c54fb068865d474ed57b1]
 
 In section 9(2A)(aa) of the Criminal Law (Consolidation) (Scotland) Act 1995[^f00024] (permitting girl to use premises for intercourse) after “16” insert “and the court considers it appropriate for the conviction to have that effect”.
 
-### 13. Amendment of the Criminal Procedure (Scotland) Act 1995[^key-6be087b3261fe9a05f96895732994f7d]
+### 13. Amendment of the Criminal Procedure (Scotland) Act 1995[^c-6be087b3261fe9a05f96895732994f7d]
 
 (1) The Criminal Procedure (Scotland) Act 1995[^f00025] is amended as follows.
 
@@ -287,14 +287,14 @@ In section 9(2A)(aa) of the Criminal Law (Consolidation) (Scotland) Act 1995[^f0
 
 (18) In section 307(5)(a)[^f00044] (interpretation) omit “or in any other member State of the European Union”.
 
-### 14. Amendment of the Sexual Offences (Scotland) Act 2009[^key-06a581b7ddca5b0f44e391004beabc61]
+### 14. Amendment of the Sexual Offences (Scotland) Act 2009[^c-06a581b7ddca5b0f44e391004beabc61]
 
 Section 39 of the Sexual Offences (Scotland) Act 2009[^f00045] (defences in relation to offences against older children) is amended as follows—
 
 - (a) in subsection (2)(a)(ia) and (b)(ia)[^f00046] after “of 16” insert “and the court before which the charge is brought considers it is appropriate for that conviction to have that effect”, and
 - (b) in subsection (5)(aa)[^f00047] omit “other than the United Kingdom”.
 
-### 15. Amendment of the Criminal Justice and Licensing (Scotland) Act 2010[^key-746a75a3b32e15fbcd03a33f7433cc77]
+### 15. Amendment of the Criminal Justice and Licensing (Scotland) Act 2010[^c-746a75a3b32e15fbcd03a33f7433cc77]
 
 (1) The Criminal Justice and Licensing (Scotland) Act 2010[^f00048] is amended as follows.
 
@@ -307,7 +307,7 @@ Section 39 of the Sexual Offences (Scotland) Act 2009[^f00045] (defences in rela
 - (a) after “or” insert “,where the court considers it to be appropriate,”, and
 - (b) omit “other”.
 
-### 16. Transitional and saving provision: proceedings commenced before IP completion day[^key-26db5713b8a9b5857db14f75f2875e70]
+### 16. Transitional and saving provision: proceedings commenced before IP completion day[^c-26db5713b8a9b5857db14f75f2875e70]
 
 (1) This Part does not apply in relation to criminal proceedings commenced before IP completion day or appellate proceedings arising out of such criminal proceedings[^f00049].
 
@@ -321,13 +321,13 @@ Section 39 of the Sexual Offences (Scotland) Act 2009[^f00045] (defences in rela
 
 ## PART 5 — [Directive 2012/13/EU](https://www.legislation.gov.uk/european/directive/2012/0013) on the right to information in criminal proceedings
 
-### 17. Amendment of the Criminal Justice (Scotland) Act 2016[^key-745435fd8562dbcb44b082fdebb4ff91]
+### 17. Amendment of the Criminal Justice (Scotland) Act 2016[^c-745435fd8562dbcb44b082fdebb4ff91]
 
 In section 5(3) of the Criminal Justice (Scotland) Act 2016[^f00050] (information to be given at police station) for “requirements of” substitute “requirements placed on member States by”.
 
 ## PART 6 — [Directive 2010/64/EU](https://www.legislation.gov.uk/european/directive/2010/0064) on the right to interpretation and translation in criminal proceedings
 
-### 18. Amendment of the Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014[^key-3515a54709493f1ba26be5f513817b74]
+### 18. Amendment of the Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014[^c-3515a54709493f1ba26be5f513817b74]
 
 (1) The Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014[^f00051] are amended as follows.
 
@@ -337,13 +337,13 @@ In section 5(3) of the Criminal Justice (Scotland) Act 2016[^f00050] (informatio
 
 ### Extreme Pornography
 
-#### 19. Amendment of the Extreme Pornography (Electronic Commerce Directive) (Scotland) Regulations 2011[^key-88881e56cf71b80cdacc6090630f503a]
+#### 19. Amendment of the Extreme Pornography (Electronic Commerce Directive) (Scotland) Regulations 2011[^c-88881e56cf71b80cdacc6090630f503a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 8 — Licenses and Licensing
 
-### 20. Amendment of the Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019[^key-3cec3790ec5e8748bbfe003666b798ad]
+### 20. Amendment of the Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019[^c-3cec3790ec5e8748bbfe003666b798ad]
 
 (1) The Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019[^f00053] are amended as follows.
 
@@ -389,13 +389,13 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00001]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 11G of schedule 2 was added by the European Union (Withdrawal Agreement) Act [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), section 19.
 
-[^key-d82cbdf5a3876723d86cff0ae9c234c2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/339/regulation/1) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-d82cbdf5a3876723d86cff0ae9c234c2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/339/regulation/1) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
-[^key-1c317effcd2dab294ad3259cebaf2335]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/339/regulation/2) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-1c317effcd2dab294ad3259cebaf2335]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/339/regulation/2) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00002]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-ec77d347102171d1c39c70536b3cd6a4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/339/regulation/3) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-ec77d347102171d1c39c70536b3cd6a4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/339/regulation/3) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00003]: Footnote: Section 211(6) was amended by the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), schedule 1, paragraph 20(1)(b) and [S.S.I. 2009/342](https://www.legislation.gov.uk/ssi/2009/342).
 
@@ -409,7 +409,7 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00008]: Footnote: Schedules 11 and 12 were inserted by [S.S.I 2009/342](https://www.legislation.gov.uk/ssi/2009/342). Schedule 12 was amended by [S.S.I. 2014/322](https://www.legislation.gov.uk/ssi/2014/322) and [S.S.I. 2014/336](https://www.legislation.gov.uk/ssi/2014/336).
 
-[^key-1851be670ade8f8a4de71a37dad4055f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/339/regulation/4) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-1851be670ade8f8a4de71a37dad4055f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/339/regulation/4) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00009]: Footnote: [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6).
 
@@ -417,7 +417,7 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00011]: Footnote: Section 81(3)(a) was amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), section 127(4).
 
-[^key-1c13cff4cf5ab766cf4f7c6ac21e8ce2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/339/regulation/5) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-1c13cff4cf5ab766cf4f7c6ac21e8ce2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/339/regulation/5) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
 
@@ -429,7 +429,7 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00016]: Footnote: [S.I. 2014/2947](https://www.legislation.gov.uk/uksi/2014/2947).
 
-[^key-d31ff91aa3c5e0651e1c217fda2ef349]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/339/regulation/6) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-d31ff91aa3c5e0651e1c217fda2ef349]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/339/regulation/6) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00017]: Footnote: See Article 62(1)(d) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018.
 
@@ -437,29 +437,29 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00019]: Footnote: OJ L 81, 27.03.2009, p.24.
 
-[^key-2ff67cd8f94fe68ded9e01b6a0a335b5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/339/regulation/7) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-2ff67cd8f94fe68ded9e01b6a0a335b5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/339/regulation/7) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00020]: Footnote: [S.S.I. 2014/337](https://www.legislation.gov.uk/ssi/2014/337), amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18) section 130(4) and [S.S.I. 2015/338](https://www.legislation.gov.uk/ssi/2015/338).
 
-[^key-12fb55cd2b70e2d3a10fcf8fc8e9dfc3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/339/regulation/8) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-12fb55cd2b70e2d3a10fcf8fc8e9dfc3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/339/regulation/8) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
-[^key-a2903276e121e32014832e452ee177b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2020/339/regulation/9) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-a2903276e121e32014832e452ee177b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2020/339/regulation/9) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00021]: Footnote: See Article 62(1)(i) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018.
 
-[^key-fcaef7b737b5e99ae6d3ef2e15cd8dcb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2020/339/regulation/10) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-fcaef7b737b5e99ae6d3ef2e15cd8dcb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2020/339/regulation/10) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00022]: Footnote: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45); section 58(4A) was added by the Criminal Justice and Licensing (Scotland) Act [2010, (asp 13)](https://www.legislation.gov.uk/asp/2010/13), schedule 4, paragraph 9.
 
-[^key-6b604cd4bd186d55ee4c13521a1e7da2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/339/regulation/11) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-6b604cd4bd186d55ee4c13521a1e7da2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/339/regulation/11) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00023]: Footnote: [1993 c.9](https://www.legislation.gov.uk/ukpga/1993/9); the definition of “previous conviction” was inserted by the Criminal Justice and Licensing (Scotland) Act 2010, schedule 4, paragraph 10.
 
-[^key-e2404462311c54fb068865d474ed57b1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/339/regulation/12) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-e2404462311c54fb068865d474ed57b1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/339/regulation/12) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00024]: Footnote: [1995 c.39](https://www.legislation.gov.uk/ukpga/1995/39); section 9(2A) was added by the Sexual Offences (Scotland) Act [2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), schedule 5, paragraph 1(4) and sub-sub section (aa) was added by the Criminal Justice and Licensing (Scotland) Act 2010, schedule 4, paragraph 11.
 
-[^key-6be087b3261fe9a05f96895732994f7d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/339/regulation/13) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-6be087b3261fe9a05f96895732994f7d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/339/regulation/13) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00025]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -501,7 +501,7 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00044]: Footnote: Section 307(5) was amended by the Criminal Justice (Scotland) Act 2003, section 57(5)(b) and by the Criminal Justice and Licensing (Scotland) Act 2010, schedule 4, paragraph 8(b).
 
-[^key-06a581b7ddca5b0f44e391004beabc61]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/339/regulation/14) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-06a581b7ddca5b0f44e391004beabc61]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/339/regulation/14) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00045]: Footnote: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9); section 39 was amended by the Criminal Justice and Licensing (Scotland) Act 2010, section 44 and schedule 4, paragraph 13.
 
@@ -509,24 +509,24 @@ No Regulatory Impact Assessment has been prepared for these Regulations.
 
 [^f00047]: Footnote: Section 39(5)(aa) was added by the Criminal Justice and Licensing (Scotland) Act 2010, schedule 4, paragraph 13(3).
 
-[^key-746a75a3b32e15fbcd03a33f7433cc77]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/339/regulation/15) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-746a75a3b32e15fbcd03a33f7433cc77]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/339/regulation/15) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00048]: Footnote: [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-26db5713b8a9b5857db14f75f2875e70]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-26db5713b8a9b5857db14f75f2875e70]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00049]: Footnote: See Article 62(1)(g) of the withdrawal agreement and sections 7A and 7C of the European Union (Withdrawal) Act 2018.
 
-[^key-745435fd8562dbcb44b082fdebb4ff91]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2020/339/regulation/17) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-745435fd8562dbcb44b082fdebb4ff91]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2020/339/regulation/17) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00050]: Footnote: [2016 asp 1](https://www.legislation.gov.uk/asp/2016/1).
 
-[^key-3515a54709493f1ba26be5f513817b74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2020/339/regulation/18) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
+[^c-3515a54709493f1ba26be5f513817b74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2020/339/regulation/18) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3)
 
 [^f00051]: Footnote: [S.S.I. 2014/95](https://www.legislation.gov.uk/ssi/2014/95).
 
-[^key-88881e56cf71b80cdacc6090630f503a]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2020/339/regulation/19) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/8/2)
+[^c-88881e56cf71b80cdacc6090630f503a]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2020/339/regulation/19) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/8/2)
 
-[^key-3cec3790ec5e8748bbfe003666b798ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2020/339/regulation/20) in force at 31.12.2020 (in force immediately before IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/2)
+[^c-3cec3790ec5e8748bbfe003666b798ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2020/339/regulation/20) in force at 31.12.2020 (in force immediately before IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/2)
 
 [^f00053]: Footnote: [S.S.I. 2019/6](https://www.legislation.gov.uk/ssi/2019/6).

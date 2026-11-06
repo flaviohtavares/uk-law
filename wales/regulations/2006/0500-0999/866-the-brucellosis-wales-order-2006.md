@@ -59,7 +59,7 @@ The National Assembly, in exercise of the powers conferred on it by sections 1, 
 - “**bovine animal**” (“***anifail buchol***”) means a bull, cow, heifer or calf but does not include a steer;
 - “**brucellosis**” (“***brwselosis***”) means the disease caused by Brucella abortus, otherwise known as contagious abortion;
 - “**dealer in bovine animals**” (“***masnachwr anifeiliaid buchol***”) means any person whose trade or business regularly includes the selling of bovine animals purchased by that person for the purpose of resale within 28 days;
-- [^key-137f175ab01693d9a06c61b7d5e4e20a]...
+- [^c-137f175ab01693d9a06c61b7d5e4e20a]...
 - “**full-term calving**” (“***bwrw llo wedi cyfnod llawn o fod yn gyflo***”) means a calving which takes place 271 days or more after service or insemination, or 265 days or more after implantation or transfer of an embroy, whether the calf is born dead or alive;
 - “**the National Assembly**” (“***y Cynulliad Cenedlaethol***”) means the National Assembly for Wales;
 - “**officer**” (“***swyddog***”) means a veterinary inspector or other officer of the National Assembly;
@@ -299,7 +299,7 @@ A Regulatory Appraisal in relation to this Order has been prepared and placed in
 
 [^c15486051]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Amended by the Animal Health Act 2002, c. 42. Functions under the 1981 Act are now vested in the National Assembly by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and S.I.. 2004/3044
 
-[^key-137f175ab01693d9a06c61b7d5e4e20a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2006/866/article/2/1) revoked (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/618/schedule/2)
+[^c-137f175ab01693d9a06c61b7d5e4e20a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2006/866/article/2/1) revoked (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2010/618/article/2/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/618/schedule/2)
 
 [^c15486061]: Marginal citation: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36)
 

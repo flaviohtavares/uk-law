@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Stakeholder pension schemes[^key-a791cae6c7e899b568e05dff91e70ef7]
+## 69. Stakeholder pension schemes[^c-a791cae6c7e899b568e05dff91e70ef7]
 
 *Extent: N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a791cae6c7e899b568e05dff91e70ef7]: Commencement: [S. 69](https://www.legislation.gov.uk/nia/2008/13/section/69) in operation at 1.10.2012 by [S.R. 2012/372](https://www.legislation.gov.uk/nisr/2012/372), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/372/article/2/a)
+[^c-a791cae6c7e899b568e05dff91e70ef7]: Commencement: [S. 69](https://www.legislation.gov.uk/nia/2008/13/section/69) in operation at 1.10.2012 by [S.R. 2012/372](https://www.legislation.gov.uk/nisr/2012/372), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/372/article/2/a)

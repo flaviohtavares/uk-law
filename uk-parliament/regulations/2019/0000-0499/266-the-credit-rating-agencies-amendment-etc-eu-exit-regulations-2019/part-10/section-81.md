@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81.[^key-7cab8a3abdd00969c27547e6e2cb5a56]
+## 81.[^c-7cab8a3abdd00969c27547e6e2cb5a56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 22a, in paragraphs 1 and 2, for “ESMA”, substitute “ the FCA �
 
 ## Annotations
 
-[^key-7cab8a3abdd00969c27547e6e2cb5a56]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7cab8a3abdd00969c27547e6e2cb5a56]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Appeals[^key-e0d581eb5d11e5bc788e09dc122894d5]
+## 125. Appeals[^c-e0d581eb5d11e5bc788e09dc122894d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 8—
 
 ## Annotations
 
-[^key-e0d581eb5d11e5bc788e09dc122894d5]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2023/52/section/125) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e0d581eb5d11e5bc788e09dc122894d5]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2023/52/section/125) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

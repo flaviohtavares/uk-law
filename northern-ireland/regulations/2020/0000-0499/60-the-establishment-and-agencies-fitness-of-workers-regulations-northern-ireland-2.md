@@ -32,7 +32,7 @@ summary: ''
 
 Health And Personal Social Services
 
-[^key-1a19639f09839cb4fe6b2266d729035e]The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (revoked)
+[^c-1a19639f09839cb4fe6b2266d729035e]The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (revoked)
 
 Made
 
@@ -96,4 +96,4 @@ Coming into operation
 
 ## Annotations
 
-[^key-1a19639f09839cb4fe6b2266d729035e]: Textual amendment: Regulation revoked (23.7.2021) by [The Establishment and Agencies (Fitness of Workers) (Revocation) Regulations (Northern Ireland) 2021 (S.R. 2021/198)](https://www.legislation.gov.uk/nisr/2021/198), [regs. 1](https://www.legislation.gov.uk/nisr/2021/198/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/198/regulation/2)
+[^c-1a19639f09839cb4fe6b2266d729035e]: Textual amendment: Regulation revoked (23.7.2021) by [The Establishment and Agencies (Fitness of Workers) (Revocation) Regulations (Northern Ireland) 2021 (S.R. 2021/198)](https://www.legislation.gov.uk/nisr/2021/198), [regs. 1](https://www.legislation.gov.uk/nisr/2021/198/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/198/regulation/2)

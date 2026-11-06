@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties)(Cooperation Agreement between the European Community and its Member States and the Swiss Confederation to Combat Fraud) Order 2006 (revoked)[^key-0043ea55f9afb8d9d990d062cf2675d0]
+The European Communities (Definition of Treaties)(Cooperation Agreement between the European Community and its Member States and the Swiss Confederation to Combat Fraud) Order 2006 (revoked)[^c-0043ea55f9afb8d9d990d062cf2675d0]
 
 Made
 
@@ -45,28 +45,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-0043ea55f9afb8d9d990d062cf2675d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0043ea55f9afb8d9d990d062cf2675d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-0043ea55f9afb8d9d990d062cf2675d0]
+## 1. Citation and Commencement[^c-0043ea55f9afb8d9d990d062cf2675d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification as Community Treaty[^key-0043ea55f9afb8d9d990d062cf2675d0]
+## 2. Specification as Community Treaty[^c-0043ea55f9afb8d9d990d062cf2675d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0043ea55f9afb8d9d990d062cf2675d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0043ea55f9afb8d9d990d062cf2675d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0043ea55f9afb8d9d990d062cf2675d0]
+## SCHEDULE[^c-0043ea55f9afb8d9d990d062cf2675d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0043ea55f9afb8d9d990d062cf2675d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0043ea55f9afb8d9d990d062cf2675d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0043ea55f9afb8d9d990d062cf2675d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/307) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0043ea55f9afb8d9d990d062cf2675d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/307) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

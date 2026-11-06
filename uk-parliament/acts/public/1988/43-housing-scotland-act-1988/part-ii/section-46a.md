@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46A. Change to private residential tenancy by agreement[^key-3244bb9cb0f109ad15064dd13cf98b65]
+## 46A. Change to private residential tenancy by agreement[^c-3244bb9cb0f109ad15064dd13cf98b65]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3244bb9cb0f109ad15064dd13cf98b65]: Textual amendment: S. 46A and cross-heading inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 5 para. 3(3)](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/3/3); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
+[^c-3244bb9cb0f109ad15064dd13cf98b65]: Textual amendment: S. 46A and cross-heading inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 5 para. 3(3)](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/3/3); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))

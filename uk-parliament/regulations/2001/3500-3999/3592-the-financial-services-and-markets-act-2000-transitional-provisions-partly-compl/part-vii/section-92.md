@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Validity of notices continued in effect[^key-ee218eae982b58476f4818031e180a8e]
+## 92. Validity of notices continued in effect[^c-ee218eae982b58476f4818031e180a8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ and that omission or failure may not be taken into account by the Tribunal in co
 
 ## Annotations
 
-[^key-ee218eae982b58476f4818031e180a8e]: Commencement: Art. 92 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ee218eae982b58476f4818031e180a8e]: Commencement: Art. 92 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

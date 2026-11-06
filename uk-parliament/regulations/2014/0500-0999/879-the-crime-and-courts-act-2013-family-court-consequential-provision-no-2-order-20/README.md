@@ -48,7 +48,7 @@ Coming into force
 
 22nd April 2014
 
-The Lord Chancellor, in exercise of the powers conferred by sections 58(12)(c) and 59 of the Crime and Courts Act 2013[^f00001], makes the following Order:[^key-d6241f788ef76c2bf129efc896e1199a]
+The Lord Chancellor, in exercise of the powers conferred by sections 58(12)(c) and 59 of the Crime and Courts Act 2013[^f00001], makes the following Order:[^c-d6241f788ef76c2bf129efc896e1199a]
 
 ## Contents
 
@@ -243,4 +243,4 @@ An impact assessment for this Order is annexed to the Explanatory Memorandum, wh
 
 [^f00001]: Footnote: [2013 c.22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-d6241f788ef76c2bf129efc896e1199a]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/879) excluded (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Transitional and Saving Provision) Order 2014 (S.I. 2014/956)](https://www.legislation.gov.uk/uksi/2014/956), [arts. 1](https://www.legislation.gov.uk/uksi/2014/956/article/1), [8](https://www.legislation.gov.uk/uksi/2014/956/article/8)
+[^c-d6241f788ef76c2bf129efc896e1199a]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/879) excluded (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Transitional and Saving Provision) Order 2014 (S.I. 2014/956)](https://www.legislation.gov.uk/uksi/2014/956), [arts. 1](https://www.legislation.gov.uk/uksi/2014/956/article/1), [8](https://www.legislation.gov.uk/uksi/2014/956/article/8)

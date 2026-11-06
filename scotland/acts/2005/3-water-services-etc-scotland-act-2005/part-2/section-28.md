@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Meaning of “public water supply system”[^key-f182191d83ee3a5866905bb487bec415]
+## 28. Meaning of “public water supply system”[^c-f182191d83ee3a5866905bb487bec415]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f182191d83ee3a5866905bb487bec415]: Commencement: S. 28 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-f182191d83ee3a5866905bb487bec415]: Commencement: S. 28 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

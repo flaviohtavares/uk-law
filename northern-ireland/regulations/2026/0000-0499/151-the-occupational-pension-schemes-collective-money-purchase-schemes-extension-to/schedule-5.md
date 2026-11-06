@@ -24,7 +24,7 @@ Regulations 29(8)(a) and 37
 
 ### Features and functionality of IT systems
 
-**1.**[^key-0883877917177e8c95dcfb932f7b4168] Whether the IT systems have the capacity and capability—
+**1.**[^c-0883877917177e8c95dcfb932f7b4168] Whether the IT systems have the capacity and capability—
 
 - (a) to process financial transactions securely, accurately and by automated means, including the core transactions described in regulation 24(2) of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00104] (requirements for processing financial transactions);
 - (b) to make and receive electronic payments;
@@ -38,7 +38,7 @@ Regulations 29(8)(a) and 37
 
 ### Standards required of IT systems
 
-**2.**[^key-73779f24b178c0681f8cd2fd1afd758d] Whether the IT systems—
+**2.**[^c-73779f24b178c0681f8cd2fd1afd758d] Whether the IT systems—
 
 - (a) are capable of being upgraded to reflect changes in required transactions and capacity;
 - (b) have restricted physical and electronic access, with firewalls and other appropriate protection against viruses and other threats;
@@ -47,7 +47,7 @@ Regulations 29(8)(a) and 37
 
 ### Maintenance of IT systems
 
-**3.**[^key-ac78c1ad18b43efdd24ab909abd8fa99] Whether the IT systems—
+**3.**[^c-ac78c1ad18b43efdd24ab909abd8fa99] Whether the IT systems—
 
 - (a) are maintained at regular intervals, either automatically or by a person with the appropriate skills and experience;
 - (b) are backed up and updated regularly, including the maintenance of firewalls and other preventative systems;
@@ -55,7 +55,7 @@ Regulations 29(8)(a) and 37
 
 ### Member records
 
-**4.**[^key-c85d5f2bdfcfa8b7863a2a7f5eb33beb] Whether the scheme’s systems and processes ensure that—
+**4.**[^c-c85d5f2bdfcfa8b7863a2a7f5eb33beb] Whether the scheme’s systems and processes ensure that—
 
 - (a) there is an accurate record on the relevant IT system of each member’s details, including the member’s pensionable service, within the meaning given in Article 121(1) of the Pensions (Northern Ireland) Order 1995[^f00106], and pensionable salary and, on an annual basis, the amount that represents the member’s share of the available assets of the scheme;
 - (b) any unpaid contributions by or in respect of active members can be explained to the Pensions Regulator and remedied;
@@ -68,7 +68,7 @@ Regulations 29(8)(a) and 37
 
 ### Trustees and others
 
-**5.**[^key-9b90f64a46da48b6b467a5de3ff8375d] Whether there are systems and processes—
+**5.**[^c-9b90f64a46da48b6b467a5de3ff8375d] Whether there are systems and processes—
 
 - (a) for the fair and transparent recruitment, appointment, resignation and removal of trustees;
 - (b) for the fair and transparent recruitment, appointment, resignation and removal of the scheme actuary;
@@ -83,7 +83,7 @@ Regulations 29(8)(a) and 37
 
 ### Contracts and service providers
 
-**6.**[^key-97274dbc7d578aa35daec651eca68402] Whether there are systems and processes—
+**6.**[^c-97274dbc7d578aa35daec651eca68402] Whether there are systems and processes—
 
 - (a) for establishing that service providers have the necessary qualifications, experience or approval, as applicable;
 - (b) for establishing that service providers have the capability to provide their services in respect of the scheme—
@@ -99,7 +99,7 @@ Regulations 29(8)(a) and 37
 
 ### Governance
 
-**7.**[^key-57615bb104fbf3a1f96d2dcfd1192e80] Whether there are systems and processes—
+**7.**[^c-57615bb104fbf3a1f96d2dcfd1192e80] Whether there are systems and processes—
 
 - (a) for the identification of roles and responsibilities in respect of the governance of the scheme;
 - (b) for the appointment of persons with sufficient skills, knowledge and experience to carry out those roles and responsibilities;
@@ -109,7 +109,7 @@ Regulations 29(8)(a) and 37
 
 ### Risk management
 
-**8.**[^key-62e104a768b6301a748c12372d34e274] Whether there are systems and processes—
+**8.**[^c-62e104a768b6301a748c12372d34e274] Whether there are systems and processes—
 
 - (a) for identifying, managing and monitoring operational, financial, regulatory and compliance risks;
 - (b) for identifying, managing and monitoring risks in respect of the soundness of the design of the scheme;
@@ -119,7 +119,7 @@ Regulations 29(8)(a) and 37
 
 ### Security
 
-**9.**[^key-f2a9a31587715517dc2267dee68b9e93] Whether there are systems and processes—
+**9.**[^c-f2a9a31587715517dc2267dee68b9e93] Whether there are systems and processes—
 
 - (a) for preventing unauthorised access to sensitive records and infrastructure, including those containing member information, financial details or investment information;
 - (b) for monitoring and recording electronic and physical access to sensitive records and infrastructure;
@@ -127,7 +127,7 @@ Regulations 29(8)(a) and 37
 
 ### Resource planning
 
-**10.**[^key-e07288eaa653129eb90995f30de504cb] Whether there are systems and processes for ensuring that there are sufficient individuals with the skills, qualifications and capacity necessary to comply with the requirements of Part 2 of the Act (collective money purchase benefits: Northern Ireland) and, in particular—
+**10.**[^c-e07288eaa653129eb90995f30de504cb] Whether there are systems and processes for ensuring that there are sufficient individuals with the skills, qualifications and capacity necessary to comply with the requirements of Part 2 of the Act (collective money purchase benefits: Northern Ireland) and, in particular—
 
 - (a) to run and maintain the scheme’s systems and processes,
 - (b) to provide for the effective running of the scheme,
@@ -136,7 +136,7 @@ Regulations 29(8)(a) and 37
 
 ### Investments
 
-**11.**[^key-06382fc31f727cfaa48e2b00acc30d91] Whether there are systems and processes—
+**11.**[^c-06382fc31f727cfaa48e2b00acc30d91] Whether there are systems and processes—
 
 - (a) for investing contributions in a timely manner in accordance with the scheme’s investment strategy;
 - (b) for recording investment decisions;
@@ -146,7 +146,7 @@ Regulations 29(8)(a) and 37
 
 ### Valuation and benefit adjustment
 
-**12.**[^key-e7a76b8a093c0b49df54343adf456b64] Whether there are systems and processes—
+**12.**[^c-e7a76b8a093c0b49df54343adf456b64] Whether there are systems and processes—
 
 - (a) for ensuring that the rules of the scheme meet the requirements of section 69 of the Act (calculation of benefits) and regulation 40;
 - (b) for ensuring that the trustees comply with section 70(1) of the Act (advice of scheme actuary);
@@ -158,7 +158,7 @@ Regulations 29(8)(a) and 37
 
 ### Member engagement
 
-**13.**[^key-2aab978824cfa50f60ef65dd9c19240f] Whether there are systems and processes—
+**13.**[^c-2aab978824cfa50f60ef65dd9c19240f] Whether there are systems and processes—
 
 - (a) for facilitating members’ engagement with the scheme;
 - (b) for bringing members’ views to the attention of the trustees;
@@ -166,34 +166,34 @@ Regulations 29(8)(a) and 37
 
 ## Annotations
 
-[^key-0883877917177e8c95dcfb932f7b4168]: Commencement: Sch. 5 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-0883877917177e8c95dcfb932f7b4168]: Commencement: Sch. 5 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00104]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); regulation 24 was added by regulation 18 of [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309)
 
-[^key-73779f24b178c0681f8cd2fd1afd758d]: Commencement: Sch. 5 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-73779f24b178c0681f8cd2fd1afd758d]: Commencement: Sch. 5 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00105]: Footnote: Regulation 10 of these Regulations inserts section 65A into the Pension Schemes Act [2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-ac78c1ad18b43efdd24ab909abd8fa99]: Commencement: Sch. 5 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-ac78c1ad18b43efdd24ab909abd8fa99]: Commencement: Sch. 5 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-c85d5f2bdfcfa8b7863a2a7f5eb33beb]: Commencement: Sch. 5 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-c85d5f2bdfcfa8b7863a2a7f5eb33beb]: Commencement: Sch. 5 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00106]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-9b90f64a46da48b6b467a5de3ff8375d]: Commencement: Sch. 5 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-9b90f64a46da48b6b467a5de3ff8375d]: Commencement: Sch. 5 para. 5 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-97274dbc7d578aa35daec651eca68402]: Commencement: Sch. 5 para. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-97274dbc7d578aa35daec651eca68402]: Commencement: Sch. 5 para. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-57615bb104fbf3a1f96d2dcfd1192e80]: Commencement: Sch. 5 para. 7 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-57615bb104fbf3a1f96d2dcfd1192e80]: Commencement: Sch. 5 para. 7 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-62e104a768b6301a748c12372d34e274]: Commencement: Sch. 5 para. 8 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-62e104a768b6301a748c12372d34e274]: Commencement: Sch. 5 para. 8 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-f2a9a31587715517dc2267dee68b9e93]: Commencement: Sch. 5 para. 9 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-f2a9a31587715517dc2267dee68b9e93]: Commencement: Sch. 5 para. 9 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-e07288eaa653129eb90995f30de504cb]: Commencement: Sch. 5 para. 10 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e07288eaa653129eb90995f30de504cb]: Commencement: Sch. 5 para. 10 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-06382fc31f727cfaa48e2b00acc30d91]: Commencement: Sch. 5 para. 11 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-06382fc31f727cfaa48e2b00acc30d91]: Commencement: Sch. 5 para. 11 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-e7a76b8a093c0b49df54343adf456b64]: Commencement: Sch. 5 para. 12 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e7a76b8a093c0b49df54343adf456b64]: Commencement: Sch. 5 para. 12 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-2aab978824cfa50f60ef65dd9c19240f]: Commencement: Sch. 5 para. 13 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-2aab978824cfa50f60ef65dd9c19240f]: Commencement: Sch. 5 para. 13 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

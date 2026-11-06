@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Order in exercise of the powers conferred by Article 25A(1)(c) and (8) of The Dogs (Northern Ireland) Order 1983[^f00002].
 
-## 1. Citation and commencement[^key-64adb056adf91d5b3a7bb898c70bb5f0]
+## 1. Citation and commencement[^c-64adb056adf91d5b3a7bb898c70bb5f0]
 
 This Order may be cited as the Dangerous Dogs (Designated Types) Order (Northern Ireland) 2024 and comes into operation on 5th July 2024.
 
-## 2. Designation for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983[^key-26c12f675e574f4d02217b57a135e36e]
+## 2. Designation for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983[^c-26c12f675e574f4d02217b57a135e36e]
 
 The type of dog known as XL Bully is designated for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983, being a type appearing to the Department to be bred for fighting or to have the characteristics of a type bred for that purpose.
 
-## 3. Appointed day for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983[^key-9eb92a956c54073b9131a9da59188548]
+## 3. Appointed day for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983[^c-9eb92a956c54073b9131a9da59188548]
 
 The appointed day for the purposes of Article 25A(3) and (4) of The Dogs (Northern Ireland) Order 1983 in respect of dogs of the type designated by Article 2 is 31 December 2024.
 
@@ -74,8 +74,8 @@ Article 25A(8) of the 1983 Order enables a day to be appointed after which it wi
 
 [^f00002]: Footnote: [S.I. 1983/764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764). Article 25A was inserted by [S.I. 1991/2292 (N.I. 21)](https://www.legislation.gov.uk/nisi/1991/2292).
 
-[^key-64adb056adf91d5b3a7bb898c70bb5f0]: Commencement: Art. 1 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/133/article/1)
+[^c-64adb056adf91d5b3a7bb898c70bb5f0]: Commencement: Art. 1 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/133/article/1)
 
-[^key-26c12f675e574f4d02217b57a135e36e]: Commencement: Art. 2 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/133/article/1)
+[^c-26c12f675e574f4d02217b57a135e36e]: Commencement: Art. 2 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/133/article/1)
 
-[^key-9eb92a956c54073b9131a9da59188548]: Commencement: Art. 3 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/133/article/1)
+[^c-9eb92a956c54073b9131a9da59188548]: Commencement: Art. 3 in operation at 5.7.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/133/article/1)

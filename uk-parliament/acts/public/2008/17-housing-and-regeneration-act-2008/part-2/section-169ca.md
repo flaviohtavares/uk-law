@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169CA. Limited liability partnership: change of name etc[^key-1297129e3d9837ea3eebcec50b56818a]
+## 169CA. Limited liability partnership: change of name etc[^c-1297129e3d9837ea3eebcec50b56818a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A registered provider that is a limited liability partnership must notify the re
 
 ## Annotations
 
-[^key-1297129e3d9837ea3eebcec50b56818a]: Textual amendment: [S. 169CA](https://www.legislation.gov.uk/ukpga/2008/17/section/169CA) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/19/4), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/l)
+[^c-1297129e3d9837ea3eebcec50b56818a]: Textual amendment: [S. 169CA](https://www.legislation.gov.uk/ukpga/2008/17/section/169CA) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/19/4), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/l)

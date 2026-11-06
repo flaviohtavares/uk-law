@@ -51,13 +51,13 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the appropriate National Assembly for Wales scrutiny procedure for these Regulations) have been satisfied.
 
-## 1. Title, commencement and interpretation[^key-5ccc7780b4cd396953cd9042f43faad4]
+## 1. Title, commencement and interpretation[^c-5ccc7780b4cd396953cd9042f43faad4]
 
 (1) The title of these Regulations is as the Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 and they come into force on exit day.
 
 (2) In these regulations “**the 2010 Regulations**” means the Air Quality Standards (Wales) Regulations 2010 [^c23605791].
 
-## 2. Amendment of the 2010 Regulations[^key-60f11af11ffe011e0f2b8235229ef667]
+## 2. Amendment of the 2010 Regulations[^c-60f11af11ffe011e0f2b8235229ef667]
 
 (1) The 2010 Regulations are amended as follows.
 
@@ -115,7 +115,7 @@ The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the ap
 
 (5) In regulation 14—
 
-- (a) in paragraph (5)(b) for “[Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075)[^key-cced290c949546d1aa73a6194a18d8ea]” substitute “ the Environmental Permitting (England and Wales) Regulations 2016 [^c23605801] ”;
+- (a) in paragraph (5)(b) for “[Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075)[^c-cced290c949546d1aa73a6194a18d8ea]” substitute “ the Environmental Permitting (England and Wales) Regulations 2016 [^c23605801] ”;
 - (b) in paragraph (6) for “Article 6 of Directive [2001/81/EC](https://www.legislation.gov.uk/eudr/2001/81)” substitute “ regulation 9 of the National Emission Ceilings Regulations 2018 [^c23605811] ”;
 - (c) paragraph (7) is omitted.
 
@@ -150,13 +150,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23605781]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-5ccc7780b4cd396953cd9042f43faad4]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5ccc7780b4cd396953cd9042f43faad4]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23605791]: Marginal citation: [S.I. 2010/1433](https://www.legislation.gov.uk/uksi/2010/1433) (W. 126), to which there are amendments not relevant to these Regulations.
 
-[^key-60f11af11ffe011e0f2b8235229ef667]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-60f11af11ffe011e0f2b8235229ef667]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cced290c949546d1aa73a6194a18d8ea]: Textual amendment: Words in reg. 2(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/1215/regulation/3)
+[^c-cced290c949546d1aa73a6194a18d8ea]: Textual amendment: Words in reg. 2(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1215)](https://www.legislation.gov.uk/wsi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1215/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/1215/regulation/3)
 
 [^c23605801]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
 

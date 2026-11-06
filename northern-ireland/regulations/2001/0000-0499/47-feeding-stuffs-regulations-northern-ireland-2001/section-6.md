@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Register of marks[^key-6c60573721011ff4610b39cd79bc8bc0]
+## 6. Register of marks[^c-6c60573721011ff4610b39cd79bc8bc0]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c60573721011ff4610b39cd79bc8bc0]: Commencement: Reg. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-6c60573721011ff4610b39cd79bc8bc0]: Commencement: Reg. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

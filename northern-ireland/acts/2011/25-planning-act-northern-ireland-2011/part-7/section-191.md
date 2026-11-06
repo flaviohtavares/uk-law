@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 191. Service of purchase notice[^key-556f0e0ad0af0d233bd00d6d6e26f427][^key-3556375e43fa58149c25dbaa9864b765][^key-d40a9076c0e51f0a5bc288d3cf4bf447][^key-9a5a21b6c5c0f1985d025a3cc575a083][^key-9a5a21b6c5c0f1985d025a3cc575a083]
+## 191. Service of purchase notice[^c-556f0e0ad0af0d233bd00d6d6e26f427][^c-3556375e43fa58149c25dbaa9864b765][^c-d40a9076c0e51f0a5bc288d3cf4bf447][^c-9a5a21b6c5c0f1985d025a3cc575a083][^c-9a5a21b6c5c0f1985d025a3cc575a083]
 
 *Extent: N.I.*
 
@@ -68,10 +68,10 @@ that person may serve on the council within whose district the land is situated 
 
 ## Annotations
 
-[^key-556f0e0ad0af0d233bd00d6d6e26f427]: Commencement: S. 191 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-556f0e0ad0af0d233bd00d6d6e26f427]: Commencement: S. 191 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-3556375e43fa58149c25dbaa9864b765]: Commencement: S. 191 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-3556375e43fa58149c25dbaa9864b765]: Commencement: S. 191 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-d40a9076c0e51f0a5bc288d3cf4bf447]: Modification: S. 191 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/107/regulation/15), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/107/schedule/2)
+[^c-d40a9076c0e51f0a5bc288d3cf4bf447]: Modification: S. 191 applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/107/regulation/15), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/107/schedule/2)
 
-[^key-9a5a21b6c5c0f1985d025a3cc575a083]: Modification: Pt. 7 (except s. 192) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-9a5a21b6c5c0f1985d025a3cc575a083]: Modification: Pt. 7 (except s. 192) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)

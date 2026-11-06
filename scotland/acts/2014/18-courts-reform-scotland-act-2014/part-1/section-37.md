@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Saving for existing powers to provide for judicial specialisation[^key-47a1954ad851d98b5d60aac082f50002]
+## 37. Saving for existing powers to provide for judicial specialisation[^c-47a1954ad851d98b5d60aac082f50002]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 34 to 36 do not affect any power that the Lord President of the Court o
 
 ## Annotations
 
-[^key-47a1954ad851d98b5d60aac082f50002]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/18/section/37) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-47a1954ad851d98b5d60aac082f50002]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/18/section/37) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

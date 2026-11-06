@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. The London Environment Strategy[^key-beb9bbffb3c7926d012f3c2d01d33a8b]
+## 225. The London Environment Strategy[^c-beb9bbffb3c7926d012f3c2d01d33a8b]
 
 *Extent: E+W*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beb9bbffb3c7926d012f3c2d01d33a8b]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2011/20/section/225) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-beb9bbffb3c7926d012f3c2d01d33a8b]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2011/20/section/225) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

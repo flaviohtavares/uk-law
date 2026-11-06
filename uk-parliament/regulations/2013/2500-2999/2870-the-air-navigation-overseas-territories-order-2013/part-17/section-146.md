@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Requirement for medical certificate[^key-d6a0f963fda20034faa394c71cc1b2f2]
+## 146. Requirement for medical certificate[^c-d6a0f963fda20034faa394c71cc1b2f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6a0f963fda20034faa394c71cc1b2f2]: Commencement: [Art. 146](https://www.legislation.gov.uk/uksi/2013/2870/article/146) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-d6a0f963fda20034faa394c71cc1b2f2]: Commencement: [Art. 146](https://www.legislation.gov.uk/uksi/2013/2870/article/146) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

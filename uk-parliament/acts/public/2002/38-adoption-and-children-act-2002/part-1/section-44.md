@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Notice of intention to adopt[^key-d47d5d7284443f5ac707c27bd898547b][^key-9723f90b5b75d498f73935d38fe5b8c8][^key-38638d4bca79edb770c46021e9fe0522]
+## 44. Notice of intention to adopt[^c-d47d5d7284443f5ac707c27bd898547b][^c-9723f90b5b75d498f73935d38fe5b8c8][^c-38638d4bca79edb770c46021e9fe0522]
 
 *Extent: E+W*
 
 (1) This section applies where persons (referred to in this section as “**proposed adopters**”) wish to adopt a child who is not placed for adoption with them by an adoption agency.
 
-(2)[^key-be3caab022979a23390b35a552dfd39e] An adoption order may not be made in respect of the child unless the proposed adopters have given notice to the appropriate local authority of their intention to apply for the adoption order (referred to in this Act as a “**notice of intention to adopt**”).
+(2)[^c-be3caab022979a23390b35a552dfd39e] An adoption order may not be made in respect of the child unless the proposed adopters have given notice to the appropriate local authority of their intention to apply for the adoption order (referred to in this Act as a “**notice of intention to adopt**”).
 
 (3) The notice must be given not more than two years, or less than three months, before the date on which the application for the adoption order is made.
 
@@ -55,10 +55,10 @@ and “**prescribed**” means prescribed by regulations.
 
 ## Annotations
 
-[^key-d47d5d7284443f5ac707c27bd898547b]: Commencement: S. 44 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(iv)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/iv)
+[^c-d47d5d7284443f5ac707c27bd898547b]: Commencement: S. 44 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(iv)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/iv)
 
-[^key-9723f90b5b75d498f73935d38fe5b8c8]: Commencement: S. 44 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-9723f90b5b75d498f73935d38fe5b8c8]: Commencement: S. 44 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-38638d4bca79edb770c46021e9fe0522]: Modification: S. 44 applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [57](https://www.legislation.gov.uk/uksi/2005/392/regulation/57)
+[^c-38638d4bca79edb770c46021e9fe0522]: Modification: S. 44 applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [57](https://www.legislation.gov.uk/uksi/2005/392/regulation/57)
 
-[^key-be3caab022979a23390b35a552dfd39e]: Modification: S. 44(2) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(k)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/k), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-be3caab022979a23390b35a552dfd39e]: Modification: S. 44(2) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(k)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/k), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)

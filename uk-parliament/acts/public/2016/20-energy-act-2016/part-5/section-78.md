@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Onshore wind generating stations in England and Wales[^key-b10392da9916eb5361844cdfaf3174a5]
+## 78. Onshore wind generating stations in England and Wales[^c-b10392da9916eb5361844cdfaf3174a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 36 of the Electricity Act 1989 (consent of Secretary of State require
 
 ## Annotations
 
-[^key-b10392da9916eb5361844cdfaf3174a5]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2016/20/section/78) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/602/regulation/4)) (as substituted by S.I. 2016/710, reg. 2)
+[^c-b10392da9916eb5361844cdfaf3174a5]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2016/20/section/78) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/602/regulation/4)) (as substituted by S.I. 2016/710, reg. 2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If a person who is the surviving spouse or civil partner of a deceased active, deferred or pensioner member has a guaranteed minimum under section 13 of the 1993 Act in relation to benefits in respect of the deceased member under this Section of[^key-05ea84c877a23aedfcb65fab014256b4] the Scheme—
+(1) If a person who is the surviving spouse or civil partner of a deceased active, deferred or pensioner member has a guaranteed minimum under section 13 of the 1993 Act in relation to benefits in respect of the deceased member under this Section of[^c-05ea84c877a23aedfcb65fab014256b4] the Scheme—
 
 - (a) nothing in this Part permits or requires anything that would cause requirements made by or under that Act in relation to such a person and such a person's rights under a scheme not to be met in the case of the person,
 - (b) nothing in this Part prevents anything from being done which is necessary or expedient for the purposes of meeting such requirements in the case of the person, and
@@ -40,4 +40,4 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 
 ## Annotations
 
-[^key-05ea84c877a23aedfcb65fab014256b4]: Textual amendment: Words in [reg. 92(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/92/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-05ea84c877a23aedfcb65fab014256b4]: Textual amendment: Words in [reg. 92(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/92/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

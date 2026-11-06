@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. FHSAA: financial provisions[^key-62604c181d863d3e7bd95fc14ca1f989]
+## 170. FHSAA: financial provisions[^c-62604c181d863d3e7bd95fc14ca1f989]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62604c181d863d3e7bd95fc14ca1f989]: Textual amendment: S. 170 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/122) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-62604c181d863d3e7bd95fc14ca1f989]: Textual amendment: S. 170 omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/122) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

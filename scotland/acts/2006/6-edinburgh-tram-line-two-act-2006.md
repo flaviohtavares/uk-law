@@ -228,7 +228,7 @@ If the authorised undertaker permanently ceases to operate any of the authorised
 
 #### 13. Agreements with Network Rail and BRB (Residuary) Limited
 
-(1) The authorised undertaker may enter into agreements with Network Rail or BRB the Secretary of State[^key-88a177575e0e3482a008b0c70cfec65b] for the transfer to the authorised undertaker of any or any part of the disused railways within or adjoining the limits of deviation of the authorised works, together with all lands, works and other property held in connection with those railways and all rights and obligations of Network Rail or BRB the Secretary of State in relation to those railways.
+(1) The authorised undertaker may enter into agreements with Network Rail or BRB the Secretary of State[^c-88a177575e0e3482a008b0c70cfec65b] for the transfer to the authorised undertaker of any or any part of the disused railways within or adjoining the limits of deviation of the authorised works, together with all lands, works and other property held in connection with those railways and all rights and obligations of Network Rail or BRB the Secretary of State in relation to those railways.
 
 (2) Where an agreement is made for the transfer to the authorised undertaker of any disused railway belonging to Network Rail or BRB the Secretary of State under subsection (1), or the authorised undertaker otherwise purchases any such railway or sufficient rights therein, the authorised undertaker may adapt for use (including, where required, duplication of existing rails), maintain, use and work that railway as part of the tram system.
 
@@ -444,7 +444,7 @@ and may use any land so acquired for those purposes or for any other purposes co
 - (a) any subway or underground building, or
 - (b) any cellar, vault, arch or other construction in or on a road which forms part of a building fronting onto the road.
 
-(5)[^key-09af3cdcff78c0bf17924e013231ad0f] The powers conferred by this section constitute a real right.
+(5)[^c-09af3cdcff78c0bf17924e013231ad0f] The powers conferred by this section constitute a real right.
 
 #### 26. Temporary use of land for construction of works
 
@@ -663,7 +663,7 @@ Compensation shall not be payable in respect of the same matter both under this 
 
 #### 40. Time limit for exercise of powers of acquisition
 
-(1)[^key-f90850753bd9d7a676b456daa840edbf] The powers of land acquisition in sections 23 (Power to acquire land) and 24 (Powers to acquire new rights) shall cease at the end of the period of five years beginning on the day of the coming into force of this Act.
+(1)[^c-f90850753bd9d7a676b456daa840edbf] The powers of land acquisition in sections 23 (Power to acquire land) and 24 (Powers to acquire new rights) shall cease at the end of the period of five years beginning on the day of the coming into force of this Act.
 
 (2) Subsection (1) shall not prevent the authorised undertaker remaining in possession of land under section 26 (Temporary use of land for construction of works) after that date, if the land was entered and possession of it was taken on or before that date.
 
@@ -947,10 +947,10 @@ shall be evidence at first sight of the facts stated in the certificate.
 
 (1) Agreements may be made—
 
-- (a) between the authorised undertaker and the Scottish Police Authority[^key-85b76872093f39eef77a663baf0590ce]; or
+- (a) between the authorised undertaker and the Scottish Police Authority[^c-85b76872093f39eef77a663baf0590ce]; or
 - (b) between the authorised undertaker and the British Transport Police Authority,
 
-for making available to the authorised undertaker for the purposes of the operation of its tramway undertaking the services of the Police Service of Scotland[^key-b2ea7972f4a64ce5f01b9b07fec5957b] or, as the case may be, members of the British Transport Police Force.
+for making available to the authorised undertaker for the purposes of the operation of its tramway undertaking the services of the Police Service of Scotland[^c-b2ea7972f4a64ce5f01b9b07fec5957b] or, as the case may be, members of the British Transport Police Force.
 
 (2) Subject to subsection (3), any such agreement may be made on such terms as to payment or otherwise, and subject to such conditions, as the parties to the agreement think fit.
 
@@ -960,7 +960,7 @@ for making available to the authorised undertaker for the purposes of the operat
 
 (5) In this section—
 
-- [^key-f7efe1d84200eb83ebec4a358710aa76]...
+- [^c-f7efe1d84200eb83ebec4a358710aa76]...
 - the “**British Transport Police Authority**” means the police authority established under section 18 of the Railways and Transport Safety Act 2003 (c. 20) and organised under Schedule 4 to that Act; and
 - the “**British Transport Police Force**” means the force established under section 20 of the Railways and Transport Safety Act 2003 (c. 20).
 
@@ -1647,14 +1647,14 @@ In the local government area of the City of Edinburgh—
 
 ## Annotations
 
-[^key-88a177575e0e3482a008b0c70cfec65b]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2006/6/section/13) substituted (30.9.2013) by [The Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013 (S.I. 2013/2314)](https://www.legislation.gov.uk/uksi/2013/2314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2314/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/2314/article/6/2)
+[^c-88a177575e0e3482a008b0c70cfec65b]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2006/6/section/13) substituted (30.9.2013) by [The Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013 (S.I. 2013/2314)](https://www.legislation.gov.uk/uksi/2013/2314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2314/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/2314/article/6/2)
 
-[^key-09af3cdcff78c0bf17924e013231ad0f]: Textual amendment: S. 25(5) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 47](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/47) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-09af3cdcff78c0bf17924e013231ad0f]: Textual amendment: S. 25(5) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 47](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/47) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-f90850753bd9d7a676b456daa840edbf]: Modification: [S. 40(1)](https://www.legislation.gov.uk/asp/2006/6/section/40/1) extended (1.4.2011) by [The Edinburgh Tram (Line Two) Act 2006 (Extension of Time for Land Acquisition) Order 2011 (S.S.I. 2011/127)](https://www.legislation.gov.uk/ssi/2011/127), [arts. 1](https://www.legislation.gov.uk/ssi/2011/127/article/1), [2](https://www.legislation.gov.uk/ssi/2011/127/article/2)
+[^c-f90850753bd9d7a676b456daa840edbf]: Modification: [S. 40(1)](https://www.legislation.gov.uk/asp/2006/6/section/40/1) extended (1.4.2011) by [The Edinburgh Tram (Line Two) Act 2006 (Extension of Time for Land Acquisition) Order 2011 (S.S.I. 2011/127)](https://www.legislation.gov.uk/ssi/2011/127), [arts. 1](https://www.legislation.gov.uk/ssi/2011/127/article/1), [2](https://www.legislation.gov.uk/ssi/2011/127/article/2)
 
-[^key-85b76872093f39eef77a663baf0590ce]: Textual amendment: Words in s. 62(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 31(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/31/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-85b76872093f39eef77a663baf0590ce]: Textual amendment: Words in s. 62(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 31(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/31/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-b2ea7972f4a64ce5f01b9b07fec5957b]: Textual amendment: Words in s. 62(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 31(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/31/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-b2ea7972f4a64ce5f01b9b07fec5957b]: Textual amendment: Words in s. 62(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 31(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/31/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-f7efe1d84200eb83ebec4a358710aa76]: Textual amendment: Words in s. 62(5) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-f7efe1d84200eb83ebec4a358710aa76]: Textual amendment: Words in s. 62(5) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

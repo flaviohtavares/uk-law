@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Fees[^key-86ca6f7dd1ee4daa180d7ebf3cc4ca7e]
+## 11. Fees[^c-86ca6f7dd1ee4daa180d7ebf3cc4ca7e]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ca6f7dd1ee4daa180d7ebf3cc4ca7e]: Commencement: S. 11 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-86ca6f7dd1ee4daa180d7ebf3cc4ca7e]: Commencement: S. 11 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

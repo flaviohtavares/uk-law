@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Power to give fixed penalty notices[^key-9f2b17f4d48c73581ab5c9c7dadd57f0][^key-be455f67945e0fc78ddbd0a1614e2971]
+## 4. Power to give fixed penalty notices[^c-9f2b17f4d48c73581ab5c9c7dadd57f0][^c-be455f67945e0fc78ddbd0a1614e2971]
 
 *Extent: N.I.*
 
@@ -60,6 +60,6 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-9f2b17f4d48c73581ab5c9c7dadd57f0]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/23/section/4) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-9f2b17f4d48c73581ab5c9c7dadd57f0]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/23/section/4) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-be455f67945e0fc78ddbd0a1614e2971]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/23/section/4) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-be455f67945e0fc78ddbd0a1614e2971]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/23/section/4) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

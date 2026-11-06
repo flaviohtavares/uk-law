@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) (No. 3) Order 2014 (revoked)[^key-ff77cf7676f52a918de3a1ec0a21c5ec]
+The European Communities (Designation) (No. 3) Order 2014 (revoked)[^c-ff77cf7676f52a918de3a1ec0a21c5ec]
 
 Made
 
@@ -52,38 +52,38 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-ff77cf7676f52a918de3a1ec0a21c5ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff77cf7676f52a918de3a1ec0a21c5ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-ff77cf7676f52a918de3a1ec0a21c5ec]
+## 1. Citation and interpretation[^c-ff77cf7676f52a918de3a1ec0a21c5ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to tobacco, tobacco products, etc.[^key-ff77cf7676f52a918de3a1ec0a21c5ec]
+## 2. Designation in relation to tobacco, tobacco products, etc.[^c-ff77cf7676f52a918de3a1ec0a21c5ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff77cf7676f52a918de3a1ec0a21c5ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff77cf7676f52a918de3a1ec0a21c5ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to the combating of late payment in commercial transactions[^key-ff77cf7676f52a918de3a1ec0a21c5ec]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Relationship with other designations[^key-ff77cf7676f52a918de3a1ec0a21c5ec]
+## 4. Designation in relation to the combating of late payment in commercial transactions[^c-ff77cf7676f52a918de3a1ec0a21c5ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-ff77cf7676f52a918de3a1ec0a21c5ec]
+## 5. Relationship with other designations[^c-ff77cf7676f52a918de3a1ec0a21c5ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ff77cf7676f52a918de3a1ec0a21c5ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 6. Revocations[^c-ff77cf7676f52a918de3a1ec0a21c5ec]
 
-[^key-ff77cf7676f52a918de3a1ec0a21c5ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff77cf7676f52a918de3a1ec0a21c5ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ff77cf7676f52a918de3a1ec0a21c5ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ff77cf7676f52a918de3a1ec0a21c5ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ff77cf7676f52a918de3a1ec0a21c5ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff77cf7676f52a918de3a1ec0a21c5ec]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2705) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff77cf7676f52a918de3a1ec0a21c5ec]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/2705) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

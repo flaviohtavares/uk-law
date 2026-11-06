@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33.19. Enforcement by attachment of earnings order[^key-a3353dce75ba18e2351647c4169887a6]
+## 33.19. Enforcement by attachment of earnings order[^c-a3353dce75ba18e2351647c4169887a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 39 applies to applications for an attachment of earnings order to secure pa
 
 ## Annotations
 
-[^key-a3353dce75ba18e2351647c4169887a6]: Textual amendment: Rule 33.19 substituted for rules 33.19, 33.19A (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2016/355/rule/4) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))
+[^c-a3353dce75ba18e2351647c4169887a6]: Textual amendment: Rule 33.19 substituted for rules 33.19, 33.19A (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2016/355/rule/4) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))

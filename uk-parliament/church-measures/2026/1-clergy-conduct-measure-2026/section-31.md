@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 31. Procedural matters[^key-efa6628e76c215453f1e8710ac6ca784]
+## 31. Procedural matters[^c-efa6628e76c215453f1e8710ac6ca784]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efa6628e76c215453f1e8710ac6ca784]: Commencement: S. 31 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-efa6628e76c215453f1e8710ac6ca784]: Commencement: S. 31 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

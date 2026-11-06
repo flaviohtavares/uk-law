@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2P. Right to obtain documents and information[^key-849921074051454f063d709a745dfd53]
+## 2P. Right to obtain documents and information[^c-849921074051454f063d709a745dfd53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-849921074051454f063d709a745dfd53]: Textual amendment: [S. 2P](https://www.legislation.gov.uk/ukpga/2000/8/section/2P) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/28) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-849921074051454f063d709a745dfd53]: Textual amendment: [S. 2P](https://www.legislation.gov.uk/ukpga/2000/8/section/2P) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/28) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)

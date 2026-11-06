@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Use of miscellaneous additives[^key-059f2706583400c7bccdd3a7100cbbba]
+## 3. Use of miscellaneous additives[^c-059f2706583400c7bccdd3a7100cbbba]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059f2706583400c7bccdd3a7100cbbba]: Commencement: Reg. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-059f2706583400c7bccdd3a7100cbbba]: Commencement: Reg. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

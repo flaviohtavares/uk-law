@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Date of application[^key-5eb9865e2680d9e22a024ba149b3b942]
+## 36. Date of application[^c-5eb9865e2680d9e22a024ba149b3b942]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any reference in this Act, however expressed, to the date of an application for 
 
 ## Annotations
 
-[^key-5eb9865e2680d9e22a024ba149b3b942]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2012/5/section/36) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5eb9865e2680d9e22a024ba149b3b942]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2012/5/section/36) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

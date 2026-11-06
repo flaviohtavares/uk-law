@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**208.**[^key-8a445f5475bebde1c9a1a5869fd7d886] In section 148 (interpretation of Part 2)—
+**208.**[^c-8a445f5475bebde1c9a1a5869fd7d886] In section 148 (interpretation of Part 2)—
 
 - (a) in the definition of “local authority”—
   - (i) after “authority”” insert
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a445f5475bebde1c9a1a5869fd7d886]: Commencement: Reg. 208 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-8a445f5475bebde1c9a1a5869fd7d886]: Commencement: Reg. 208 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00189]: Footnote: The definition of “social services functions” was amended by the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 14, paragraphs 82, 93(1), (3).

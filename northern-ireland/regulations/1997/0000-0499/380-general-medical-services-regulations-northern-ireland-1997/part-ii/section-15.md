@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Appeal to the Department[^key-a8c073465e9330e78c42b39558a21004]
+## 15. Appeal to the Department[^c-a8c073465e9330e78c42b39558a21004]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8c073465e9330e78c42b39558a21004]: Commencement: Reg. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-a8c073465e9330e78c42b39558a21004]: Commencement: Reg. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

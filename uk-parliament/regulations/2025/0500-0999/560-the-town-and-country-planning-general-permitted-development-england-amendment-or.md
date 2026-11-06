@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by sections 59(1), (2)(a) and (3)(a), 60(1), 61(1) and 333(8) of the Town and Country Planning Act 1990[^f00001].
 
-## 1. Citation, commencement, extent and interpretation[^key-53454d02163ab8d580e292c6ad7cd47a]
+## 1. Citation, commencement, extent and interpretation[^c-53454d02163ab8d580e292c6ad7cd47a]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025.
 
@@ -56,15 +56,15 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 (4) In this Order, “**the GPDO**” means the Town and Country Planning (General Permitted Development) (England) Order 2015[^f00002].
 
-## 2. Amendment of Schedule 2 to the GPDO[^key-8633da9cfabe3f097a6d29bb6634142f]
+## 2. Amendment of Schedule 2 to the GPDO[^c-8633da9cfabe3f097a6d29bb6634142f]
 
 Schedule 2 (permitted development rights) to the GPDO is amended in accordance with articles 3 to 6.
 
-## 3. Amendment of Class D of Part 2 (electrical outlet for recharging vehicles)[^key-14d72f5ff5a1438c700c4015c0422d89]
+## 3. Amendment of Class D of Part 2 (electrical outlet for recharging vehicles)[^c-14d72f5ff5a1438c700c4015c0422d89]
 
 In Part 2 (minor operations), in Class D (electrical outlet for recharging vehicles), in paragraph D.1 (development not permitted), omit sub-paragraph (b).
 
-## 4. Amendment of Class E of Part 2 (electrical upstand for recharging vehicles)[^key-98bf2ea30d0ad860184504562c1af5b8]
+## 4. Amendment of Class E of Part 2 (electrical upstand for recharging vehicles)[^c-98bf2ea30d0ad860184504562c1af5b8]
 
 (1) Class E (electrical upstand for recharging vehicles) of Part 2 (minor operations) is amended as follows.
 
@@ -106,7 +106,7 @@ In Part 2 (minor operations), in Class D (electrical outlet for recharging vehic
 
   .
 
-## 5. Amendment of Class G of Part 14 (air source heat pumps)[^key-7dad602d38347c40d9738dcac7076f0a]
+## 5. Amendment of Class G of Part 14 (air source heat pumps)[^c-7dad602d38347c40d9738dcac7076f0a]
 
 (1) Class G (installation or alteration etc of air source heat pumps on domestic premises) of Part 14 (renewable energy) is amended as follows.
 
@@ -143,14 +143,14 @@ In Part 2 (minor operations), in Class D (electrical outlet for recharging vehic
 
   .
 
-## 6. Amendment of paragraph P of Part 14 (interpretation of Part 14)[^key-fc3c00eefc2189d060947d2478f7d2c4]
+## 6. Amendment of paragraph P of Part 14 (interpretation of Part 14)[^c-fc3c00eefc2189d060947d2478f7d2c4]
 
 In Part 14 (renewable energy), in paragraph P (interpretation of Part 14), in the definition of “MCS Planning Standards”—
 
 - (a) for “(being MCS 007)” substitute “(being MCS 020 a) - Air Source Heat Pump Sound Calculation (For Permitted Development Installations))”[^f00003];
 - (b) for “(being MCS 006)” substitute “(being MCS 020 b) - Wind Turbine Sound Calculation (For Permitted Development Installations))”[^f00004].
 
-## 7. Transitional provision[^key-b0838bc92cd513acc9c4ae075b7a8f18]
+## 7. Transitional provision[^c-b0838bc92cd513acc9c4ae075b7a8f18]
 
 (1) Paragraph (2) applies where development (“previously permitted development”)—
 
@@ -189,22 +189,22 @@ Two impact assessments of the effect that this instrument will have on the costs
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 59(4) was inserted by paragraph 5 of Schedule 7 to the Planning (Wales) [Act 2015 (anaw 4)](https://www.legislation.gov.uk/ukpga/2015/4).
 
-[^key-53454d02163ab8d580e292c6ad7cd47a]: Commencement: Art. 1 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-53454d02163ab8d580e292c6ad7cd47a]: Commencement: Art. 1 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), amended by [S.I. 2019/907](https://www.legislation.gov.uk/uksi/2019/907); there are other amending instruments but none is relevant.
 
-[^key-8633da9cfabe3f097a6d29bb6634142f]: Commencement: Art. 2 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-8633da9cfabe3f097a6d29bb6634142f]: Commencement: Art. 2 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
 
-[^key-14d72f5ff5a1438c700c4015c0422d89]: Commencement: Art. 3 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-14d72f5ff5a1438c700c4015c0422d89]: Commencement: Art. 3 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
 
-[^key-98bf2ea30d0ad860184504562c1af5b8]: Commencement: Art. 4 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-98bf2ea30d0ad860184504562c1af5b8]: Commencement: Art. 4 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
 
-[^key-7dad602d38347c40d9738dcac7076f0a]: Commencement: Art. 5 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-7dad602d38347c40d9738dcac7076f0a]: Commencement: Art. 5 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
 
-[^key-fc3c00eefc2189d060947d2478f7d2c4]: Commencement: Art. 6 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-fc3c00eefc2189d060947d2478f7d2c4]: Commencement: Art. 6 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
 
 [^f00003]: Footnote: Issue 1.1 dated 14th April 2025. An electronic copy can be found at: https://mcscertified.com/wp-content/uploads/2025/04/MCS-020-a-Issue-1.1-Final.pdf. A copy of the MCS Planning Standards may be inspected at the Department of Energy Security and Net Zero, 55 Whitehall, London SW1A 2HP.
 
 [^f00004]: Footnote: Issue 1.0 dated 20th March 2025. An electronic copy can be found at: https://mcscertified.com/wp-content/uploads/2025/03/MCS-020-b-Issue-1.0-Final.pdf. A copy of the MCS Planning Standards may be inspected at the Department of Energy Security and Net Zero, 55 Whitehall, London SW1A 2HP.
 
-[^key-b0838bc92cd513acc9c4ae075b7a8f18]: Commencement: Art. 7 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)
+[^c-b0838bc92cd513acc9c4ae075b7a8f18]: Commencement: Art. 7 in force at 29.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2)

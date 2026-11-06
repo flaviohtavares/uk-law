@@ -32,7 +32,7 @@ summary: ''
 - section 30, except so far as relating to sections 75 to 77, and
 - Part III, except sections 51, 52(1) to (3), 53, 62 to 78, 80, 81 and 83 to 90.
 
-(5)[^key-c8ce23b3186d4e062c62ab5fe0e73c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c8ce23b3186d4e062c62ab5fe0e73c17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An order under subsection (3) or (5) above may contain such transitional provisions and savings (whether or not involving the modification of any provisions contained in an Act or in subordinate legislation (within the meaning of the [^c18166211]Interpretation Act 1978)) as appear to the Secretary of State necessary or expedient in connection with the provisions brought (wholly or partly) into force by the order, and different days may be appointed for different purposes.
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c18166191]: Modification: Power of appointment conferred by s. 99(3)(5) not yet exercised
 
-[^key-c8ce23b3186d4e062c62ab5fe0e73c17]: Textual amendment: S. 99(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-c8ce23b3186d4e062c62ab5fe0e73c17]: Textual amendment: S. 99(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c18166211]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

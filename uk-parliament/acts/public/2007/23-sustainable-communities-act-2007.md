@@ -66,7 +66,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) The selector must be a person who represents the interests of local authorities.
 
-(3) On receiving the short-list from the selector, the Secretary of State must decide, in relation to each proposal on the short-list—[^key-d025eb09d0f92b3d69d3fcaf8f0048b8]
+(3) On receiving the short-list from the selector, the Secretary of State must decide, in relation to each proposal on the short-list—[^c-d025eb09d0f92b3d69d3fcaf8f0048b8]
 
 - (a) whether the proposal should be implemented or not, and
 - (b) if the Secretary of State thinks that it should be implemented, whether to implement it in whole or in part.
@@ -131,7 +131,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) must be made by statutory instrument, and
 - (b) are subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 5A. Subsequent invitations[^key-df13032afb906a2dd5ff6b14a7d30ad6]
+## 5A. Subsequent invitations[^c-df13032afb906a2dd5ff6b14a7d30ad6]
 
 (1) Sections 2 to 5 do not apply in relation to an invitation by the Secretary of State to make proposals if the invitation is issued on or after the day on which the Sustainable Communities Act 2007 (Amendment) Act 2010 comes into force.
 
@@ -234,7 +234,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) For the purposes of subsection (10) any consultation undertaken before the day on which this Act is passed is as effective as it would have been if undertaken after that day.
 
-## 7. Sustainable community strategy[^key-59c39b78cb063438d4df3410fd2e9626]
+## 7. Sustainable community strategy[^c-59c39b78cb063438d4df3410fd2e9626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -243,7 +243,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 In this Act—
 
 - “**local authority**” means a county council in England, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly;
-- [^key-1473769647f4cfb63808e22922479b8a]...
+- [^c-1473769647f4cfb63808e22922479b8a]...
 
 ## 9. Expenses
 
@@ -262,7 +262,7 @@ There shall be paid out of money provided by Parliament—
 
 Section 2
 
-**1.** The matters referred to in section 2 and 5A(4)[^key-362ae211ce5f453d606211f341fdfaca] are—
+**1.** The matters referred to in section 2 and 5A(4)[^c-362ae211ce5f453d606211f341fdfaca] are—
 
 - (a) the provision of local services,
 - (b) the extent to which the volume and value of goods and services that are—
@@ -297,12 +297,12 @@ Section 2
 
 ## Annotations
 
-[^key-d025eb09d0f92b3d69d3fcaf8f0048b8]: Textual amendment: Words in s. 3(3) substituted (8.6.2010) by [Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21)](https://www.legislation.gov.uk/ukpga/2010/21), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/3/2)
+[^c-d025eb09d0f92b3d69d3fcaf8f0048b8]: Textual amendment: Words in s. 3(3) substituted (8.6.2010) by [Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21)](https://www.legislation.gov.uk/ukpga/2010/21), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/3/2)
 
-[^key-df13032afb906a2dd5ff6b14a7d30ad6]: Textual amendment: Ss. 5A-5D inserted (8.6.2010) by [Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21)](https://www.legislation.gov.uk/ukpga/2010/21), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/3/2)
+[^c-df13032afb906a2dd5ff6b14a7d30ad6]: Textual amendment: Ss. 5A-5D inserted (8.6.2010) by [Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21)](https://www.legislation.gov.uk/ukpga/2010/21), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/3/2)
 
-[^key-59c39b78cb063438d4df3410fd2e9626]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2007/23/section/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/c), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-59c39b78cb063438d4df3410fd2e9626]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2007/23/section/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/2/c), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
 
-[^key-1473769647f4cfb63808e22922479b8a]: Textual amendment: Words in s. 8 repealed (1.7.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-1473769647f4cfb63808e22922479b8a]: Textual amendment: Words in s. 8 repealed (1.7.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
 
-[^key-362ae211ce5f453d606211f341fdfaca]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2007/23/schedule/paragraph/1) inserted (8.6.2010) by [Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21)](https://www.legislation.gov.uk/ukpga/2010/21), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2010/21/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/3/2)
+[^c-362ae211ce5f453d606211f341fdfaca]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2007/23/schedule/paragraph/1) inserted (8.6.2010) by [Sustainable Communities Act 2007 (Amendment) Act 2010 (c. 21)](https://www.legislation.gov.uk/ukpga/2010/21), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2010/21/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2010/21/section/3/2)

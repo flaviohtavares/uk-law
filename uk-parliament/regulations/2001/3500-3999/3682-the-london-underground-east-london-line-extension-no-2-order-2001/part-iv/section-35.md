@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. As to application of certain railway enactments[^key-1b161217c8b23140ecae347798d1cd76]
+## 35. As to application of certain railway enactments[^c-1b161217c8b23140ecae347798d1cd76]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b161217c8b23140ecae347798d1cd76]: Commencement: Art. 35 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-1b161217c8b23140ecae347798d1cd76]: Commencement: Art. 35 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

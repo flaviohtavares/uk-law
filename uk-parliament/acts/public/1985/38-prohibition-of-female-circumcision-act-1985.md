@@ -37,15 +37,15 @@ An Act to prohibit female circumcision.
 
 ## 1. Prohibition of female circumcision.
 
-(1 (Extent: S) (affected by repeal, see note))[^M_F_131e08be-4790-47c6-f23c-18c80dfd6f16][^key-1145593d5916b702626c282c455331ec] Subject to section 2 below, it shall be an offence for any person— *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec]
+(1 (Extent: S) (affected by repeal, see note))[^M_F_131e08be-4790-47c6-f23c-18c80dfd6f16][^c-1145593d5916b702626c282c455331ec] Subject to section 2 below, it shall be an offence for any person— *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-1145593d5916b702626c282c455331ec] to excise, infibulate or otherwise mutilate the whole or any part of the labia majora or labia minora or clitoris of another person; or *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec]
-- (b (Extent: S) (affected by repeal, see note))[^key-1145593d5916b702626c282c455331ec] to aid, abet, counsel or procure the performance by another person of any of those acts on that other person’s own body. *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec]
+- (a (Extent: S) (affected by repeal, see note))[^c-1145593d5916b702626c282c455331ec] to excise, infibulate or otherwise mutilate the whole or any part of the labia majora or labia minora or clitoris of another person; or *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec]
+- (b (Extent: S) (affected by repeal, see note))[^c-1145593d5916b702626c282c455331ec] to aid, abet, counsel or procure the performance by another person of any of those acts on that other person’s own body. *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-1145593d5916b702626c282c455331ec] A person guilty of an offence under this section shall be liable— *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec]
+(2 (Extent: S) (affected by repeal, see note))[^c-1145593d5916b702626c282c455331ec] A person guilty of an offence under this section shall be liable— *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-1145593d5916b702626c282c455331ec] on conviction on indictment, to a fine or to imprisonment for a term not exceeding five years or to both; or *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec]
-- (b (Extent: S) (affected by repeal, see note))[^key-1145593d5916b702626c282c455331ec] on summary conviction, to a fine not exceeding the statutory maximum *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec] [^c7661981]. . . or to imprisonment for a term not exceeding six months, or to both. *(Extent: S)* *(affected by repeal, see note)*[^key-1145593d5916b702626c282c455331ec]
+- (a (Extent: S) (affected by repeal, see note))[^c-1145593d5916b702626c282c455331ec] on conviction on indictment, to a fine or to imprisonment for a term not exceeding five years or to both; or *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec]
+- (b (Extent: S) (affected by repeal, see note))[^c-1145593d5916b702626c282c455331ec] on summary conviction, to a fine not exceeding the statutory maximum *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec] [^c7661981]. . . or to imprisonment for a term not exceeding six months, or to both. *(Extent: S)* *(affected by repeal, see note)*[^c-1145593d5916b702626c282c455331ec]
 
 ## 2. Saving for necessary surgical operations.
 
@@ -87,7 +87,7 @@ An Act to prohibit female circumcision.
 
 [^M_F_faa454a5-e38b-4d4c-ded7-d4f13af771ba]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/38) repealed (S.) (1.9.2005) by [Prohibition of Female Genital Mutilation (Scotland) Act 2005 (asp 8)](https://www.legislation.gov.uk/asp/2005/8), [s. 7(2)](https://www.legislation.gov.uk/asp/2005/8/section/7/2)
 
-[^key-1145593d5916b702626c282c455331ec]: Textual amendment: Act repealed (S.) (1.9.2005) by [Prohibition of Female Genital Mutilation (Scotland) Act 2005 (asp 8)](https://www.legislation.gov.uk/asp/2005/8), [s. 7(2)](https://www.legislation.gov.uk/asp/2005/8/section/7/2)
+[^c-1145593d5916b702626c282c455331ec]: Textual amendment: Act repealed (S.) (1.9.2005) by [Prohibition of Female Genital Mutilation (Scotland) Act 2005 (asp 8)](https://www.legislation.gov.uk/asp/2005/8), [s. 7(2)](https://www.legislation.gov.uk/asp/2005/8/section/7/2)
 
 [^c7661981]: Textual amendment: Words in s. 1(2)(b) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Gp. 2
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-81f6d29c20de6c24c883bd8458134397] In Article 26C(5) of the Juries (Northern Ireland) Order 1996 (S.I. 1996/1141 (N.I. 6))—
+(1)[^c-81f6d29c20de6c24c883bd8458134397] In Article 26C(5) of the Juries (Northern Ireland) Order 1996 (S.I. 1996/1141 (N.I. 6))—
 
 - (a) for “Attorney General” substitute “ relevant authority ”, and
 - (b) at the end insert
@@ -44,4 +44,4 @@ summary: ''
 
 [^c1968667]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2009/3/section/3) partly in force; [s. 3(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/3/1) not in force at Royal Assent see [s. 5(6)(7)(b)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/6/7/b)
 
-[^key-81f6d29c20de6c24c883bd8458134397]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/3/1) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-81f6d29c20de6c24c883bd8458134397]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/3/1) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

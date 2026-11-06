@@ -43,13 +43,13 @@ The Gas and Electricity Markets Authority[^f00001], with the approval of the Sec
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and revocation[^key-edcf5102adbd0d675f50a335bc25ec08]
+### 1. Citation, commencement and revocation[^c-edcf5102adbd0d675f50a335bc25ec08]
 
 (1) These Regulations may be cited as the Electricity (Competitive Tenders for Offshore Transmission Licences) Regulations 2015 and come into force on 3rd August 2015.
 
 (2) Subject to regulation 2, the Electricity (Competitive Tenders for Offshore Transmission Licences) Regulations 2013 (“the 2013 Regulations”)[^f00004] are revoked.
 
-### 2. Saving and transitional provisions[^key-09bbd8175cc4a7684f4354b81f145f7a]
+### 2. Saving and transitional provisions[^c-09bbd8175cc4a7684f4354b81f145f7a]
 
 (1) Where the Authority has given notice in respect of the invitation to tender stage for a particular qualifying project in accordance with regulation 17(1) of the 2013 Regulations before these Regulations come into force, the 2013 Regulations continue to apply in respect of that tender exercise.
 
@@ -58,7 +58,7 @@ The Gas and Electricity Markets Authority[^f00001], with the approval of the Sec
 - (a) a tender exercise in respect of that qualifying project is, after these Regulations come into force, to be treated as having been held and as continuing to be held under these Regulations;
 - (b) a tender exercise in respect of that qualifying project that complied with all of the applicable requirements of the 2013 Regulations before they were revoked is not to be treated as defective under these Regulations by virtue only of its failure to comply with the requirements of these Regulations in respect of any aspect of the tender exercise held before these Regulations come into force.
 
-### 3. Interpretation[^key-e94d92db3eff656e3747e64431b4e513]
+### 3. Interpretation[^c-e94d92db3eff656e3747e64431b4e513]
 
 (1) In these Regulations—
 
@@ -73,7 +73,7 @@ The Gas and Electricity Markets Authority[^f00001], with the approval of the Sec
 - “construction phase contract” means, in respect of an OFTO build qualifying project, a contract for or connected with—
   - (a) the engineering, construction, installation or commissioning of the transmission assets; or
   - (b) the procurement of goods or services connected with the construction, installation or commissioning of the transmission assets.
-- “[^key-822d19e9c44b70a127615c684d16b107]**co-ordination licence**” means a licence under section 6(1)(da) of the 1989 Act;
+- “[^c-822d19e9c44b70a127615c684d16b107]**co-ordination licence**” means a licence under section 6(1)(da) of the 1989 Act;
 - “data room” means a secure store of information in respect of a qualifying project to be maintained by the Authority;
 - “developer” means a person within section 6D(2)(a) of the 1989 Act, or a developer group;
 - “developer group” means two or more persons acting together for the purposes of developing a qualifying project, at least one of whom is a person within section 6D(2)(a) of the 1989 Act;
@@ -119,7 +119,7 @@ The Gas and Electricity Markets Authority[^f00001], with the approval of the Sec
 
 ## PART 2 — CALCULATION AND PAYMENT OF COSTS INCURRED IN CONNECTION WITH TRANSMISSION ASSETS FOR A GENERATOR BUILD TENDER EXERCISE
 
-### 4. Calculation of costs incurred in connection with transmission assets[^key-90cb1ae1e0f6b28de65ebb6d31fd0fe9]
+### 4. Calculation of costs incurred in connection with transmission assets[^c-90cb1ae1e0f6b28de65ebb6d31fd0fe9]
 
 (1) In respect of a generator build tender exercise, the Authority must calculate, based on all relevant information available to the Authority at that time, other than further information that the Authority required under paragraph (3) and decided not to take into account in accordance with paragraph (7), the economic and efficient costs which ought to be, or ought to have been, incurred in connection with developing and constructing the transmission assets in respect of a qualifying project in accordance with paragraph (2).
 
@@ -145,7 +145,7 @@ the Authority must, as soon as reasonably practicable, assess the economic and e
 
 (8) Where the Authority has determined to grant an offshore transmission licence to the successful bidder in respect of a particular qualifying project in accordance with regulation 28(2), the assessment undertaken in accordance with paragraph (2)(b) or (6) must be used by the Authority to determine the value of the transmission assets to be transferred to the successful bidder.
 
-### 5. Payment of costs incurred by the Authority in connection with transmission assets calculation of costs[^key-226df9ff615b55c8a47e0713d23236f1]
+### 5. Payment of costs incurred by the Authority in connection with transmission assets calculation of costs[^c-226df9ff615b55c8a47e0713d23236f1]
 
 (1) Where the Authority has undertaken an estimate of the costs in accordance with regulation 4 in relation to a particular qualifying project, it must, before the grant of an offshore transmission licence to the successful bidder in relation to that qualifying project, give notice to the developer to make a payment to the Authority of an amount equal to the Authority’s costs in undertaking the estimate.
 
@@ -158,7 +158,7 @@ give notice to the successful bidder to make a payment to the Authority of an am
 
 ## PART 3 — CALCULATION AND PAYMENT OF COSTS INCURRED IN RELATION TO AN OFTO BUILD TENDER EXERCISE
 
-### 6. Calculation of costs incurred in connection with preliminary works and construction phase contracts[^key-f5abd816c93946c80c6feb6e91224e7d]
+### 6. Calculation of costs incurred in connection with preliminary works and construction phase contracts[^c-f5abd816c93946c80c6feb6e91224e7d]
 
 (1) In respect of a project that is, or is intended to meet the requirements for, an OFTO build qualifying project, the Authority must calculate—
 
@@ -196,7 +196,7 @@ give notice to the successful bidder to make a payment to the Authority of an am
 
 (11) Where the Authority has determined to grant an offshore transmission licence to the successful bidder in respect of a particular qualifying project in accordance with regulation 28(2), the Authority’s assessment of the costs referred to in paragraph (1)(b) must be used by the Authority to determine the amount by which the person granted the offshore transmission licence will be reimbursed for making payments to the contractor under each construction phase contract.
 
-### 7. Payment of costs incurred by the Authority in connection with calculations relating to preliminary works and construction phase contracts[^key-be951c3269c4f98b381c2d65b35dd585]
+### 7. Payment of costs incurred by the Authority in connection with calculations relating to preliminary works and construction phase contracts[^c-be951c3269c4f98b381c2d65b35dd585]
 
 (1) Subject to paragraph (2), where the Authority has undertaken an estimate of costs in accordance with regulation 6 in relation to a particular qualifying project, it must, before the grant of an offshore transmission licence to the successful bidder in relation to that qualifying project, give notice to the developer to make a payment to the Authority of an amount equal to the Authority’s costs in undertaking the estimate.
 
@@ -206,7 +206,7 @@ give notice to the successful bidder to make a payment to the Authority of an am
 
 ## PART 4 — QUALIFYING PROJECTS AND DEVELOPER PAYMENTS AND SECURITY
 
-### 8. Qualifying projects[^key-a17af9961abae2b8507f7969885c7c50]
+### 8. Qualifying projects[^c-a17af9961abae2b8507f7969885c7c50]
 
 (1) A developer who wishes the Authority to publish a notice in accordance with regulation 12(1) in order to commence a tender exercise must make a request to that effect in writing to the Authority.
 
@@ -242,7 +242,7 @@ give notice to the successful bidder to make a payment to the Authority of an am
 
 (12) The Authority must give notice to the developer of the decision made in accordance with paragraph (11) and give reasons for its decision.
 
-### 9. Developer’s payment for early evaluation of construction phase contracts[^key-de15cacedb3e11655c830644f26df081]
+### 9. Developer’s payment for early evaluation of construction phase contracts[^c-de15cacedb3e11655c830644f26df081]
 
 (1) A developer may apply to the Authority for a determination of the amount of the payment referred to in regulation 8(4).
 
@@ -267,7 +267,7 @@ whichever occurs earlier.
 - (a) undertaking an estimate, under regulation 6, of the costs which ought to be incurred under each construction phase contract in payments to the contractor;
 - (b) determining whether each construction phase contract meets the requirement at paragraph 1(d) of Schedule 1.
 
-### 10. Developer’s payment and security to commence tender exercise[^key-428f3a737ad49efe796bf43e4c134e08]
+### 10. Developer’s payment and security to commence tender exercise[^c-428f3a737ad49efe796bf43e4c134e08]
 
 (1) Before publishing a notice in accordance with regulation 12(1), in respect of a qualifying project, the Authority must give notice to the developer requiring the developer to—
 
@@ -278,7 +278,7 @@ whichever occurs earlier.
 
 ## PART 5 — ENTRY CONDITIONS
 
-### 11. Entry conditions in respect of qualifying projects[^key-6e9002fc174ac4b74d044e5f830eb603]
+### 11. Entry conditions in respect of qualifying projects[^c-6e9002fc174ac4b74d044e5f830eb603]
 
 (1) In respect of a qualifying project, the Authority must, at a time determined by the Authority, notify the developer of—
 
@@ -293,7 +293,7 @@ whichever occurs earlier.
 
 ## PART 6 — COMMENCEMENT OF A TENDER ROUND
 
-### 12. Commencement of a tender round[^key-ccca3d14be79e5fd321fbd3ba71eae6e]
+### 12. Commencement of a tender round[^c-ccca3d14be79e5fd321fbd3ba71eae6e]
 
 (1) As soon as reasonably practicable after the Authority—
 
@@ -310,7 +310,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 ## PART 7 — STAGES OF A TENDER ROUND
 
-### 13. Stages of a tender round[^key-3b29915a6dbca13d4086db20da2e1d79]
+### 13. Stages of a tender round[^c-3b29915a6dbca13d4086db20da2e1d79]
 
 (1) A tender round to be held in accordance with these Regulations comprises the following stages—
 
@@ -324,7 +324,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 ## PART 8 — PRE-QUALIFICATION STAGE
 
-### 14. Pre-qualification[^key-36fb0c8429408199bdbf12eb730f7d68]
+### 14. Pre-qualification[^c-36fb0c8429408199bdbf12eb730f7d68]
 
 (1) Subject to paragraph (2), on the date specified in the notice published in accordance with regulation 12(1), (2) or (3) (‘the intention to commence notice’), the Authority must commence the pre-qualification stage by publishing—
 
@@ -340,7 +340,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 (3) Where paragraph (2) applies, as soon as reasonably practicable after a bidder has submitted one or more signed confidentiality agreements in respect of particular qualifying projects to the Authority in accordance with paragraph (2)(d), the Authority must issue to that bidder any confidential information in respect of those particular qualifying projects.
 
-### 15. Determination of qualifying bidders at the pre-qualification stage[^key-41204cf952d78cbb4fd676c27203466a]
+### 15. Determination of qualifying bidders at the pre-qualification stage[^c-41204cf952d78cbb4fd676c27203466a]
 
 (1) The Authority must evaluate each completed pre-qualification questionnaire submitted to it by a bidder in accordance with the evaluation criteria set out in the pre-qualification documentation, in order to determine in respect of each qualifying project within that tender round—
 
@@ -353,7 +353,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 ## PART 9 — QUALIFICATION TO TENDER STAGE
 
-### 16. Qualification to tender[^key-a391032247f8649134e0b99b44b917c3]
+### 16. Qualification to tender[^c-a391032247f8649134e0b99b44b917c3]
 
 (1) In respect of the qualification to tender stage the Authority must publish—
 
@@ -364,7 +364,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 (3) The Authority must invite all qualifying bidders who have been issued the qualification to tender documentation in accordance with paragraph (2) to submit a completed qualification to tender questionnaire in respect of one or more qualifying projects in accordance with the requirements set out in the qualification to tender documentation.
 
-### 17. Determination of qualifying bidders to be invited to participate in the invitation to tender stage[^key-1a7a8cbbe2cf1682151b5c0c990e59d8]
+### 17. Determination of qualifying bidders to be invited to participate in the invitation to tender stage[^c-1a7a8cbbe2cf1682151b5c0c990e59d8]
 
 (1) The Authority must evaluate each completed qualification to tender questionnaire submitted to it by a qualifying bidder in accordance with the evaluation criteria set out in the qualification to tender documentation, in order to determine which qualifying bidders are to be invited to participate in the invitation to tender stage in respect of each qualifying project.
 
@@ -374,7 +374,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 ## PART 10 — INVITATION TO TENDER STAGE
 
-### 18. Invitation to tender[^key-a9d08a1f3b22a312784681b8de0b8402]
+### 18. Invitation to tender[^c-a9d08a1f3b22a312784681b8de0b8402]
 
 (1) In respect of the invitation to tender stage, the Authority may give notice to relevant qualifying bidders requiring each bidder to make a payment to the Authority of an amount determined by the Authority to be reasonable for the purpose of recovering the Authority’s tender costs.
 
@@ -389,7 +389,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 - (a) where a qualification to tender stage has been held, a qualifying bidder that the Authority, in accordance with regulation 17(1), has determined to invite to participate in the invitation to tender stage; or
 - (b) where a qualification to tender stage has not been held, a bidder that the Authority, in accordance with regulation 15(1)(b), has determined to invite to participate in the invitation to tender stage.
 
-### 19. Determination of preferred bidders at the invitation to tender stage[^key-17adf134cf6f4808b2275e47e0c06fd0]
+### 19. Determination of preferred bidders at the invitation to tender stage[^c-17adf134cf6f4808b2275e47e0c06fd0]
 
 (1) The Authority must evaluate each tender in respect of a particular qualifying project submitted to it by a qualifying bidder in accordance with the evaluation criteria set out in the invitation to tender documentation, in order to determine—
 
@@ -402,7 +402,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 ## PART 11 — BEST AND FINAL OFFER STAGE
 
-### 20. Best and final offer[^key-c03b6fdc5cc97b7314c7fc5c718e3b90]
+### 20. Best and final offer[^c-c03b6fdc5cc97b7314c7fc5c718e3b90]
 
 (1) Where the Authority determines to hold a best and final offer stage in accordance with regulation 19(1)(b), the Authority must determine in accordance with the evaluation criteria set out in the invitation to tender documentation which qualifying bidders are to be invited to participate in a best and final offer stage in respect of that particular qualifying project.
 
@@ -418,7 +418,7 @@ the Authority must publish a notice of its intention to commence a tender round 
 
 ## PART 12 — PREFERRED BIDDER STAGE
 
-### 21. Notification of preferred bidder and reserve bidder[^key-e084d118cc3d6a1d69388724c338a9f2]
+### 21. Notification of preferred bidder and reserve bidder[^c-e084d118cc3d6a1d69388724c338a9f2]
 
 (1) As soon as reasonably practicable after the Authority has determined the preferred bidder in respect of a particular qualifying project in accordance with regulation 19(1)(a) or 20(4), it must publish a notice to that effect.
 
@@ -464,7 +464,7 @@ the Authority may withdraw the notice published in accordance with paragraph (1)
 
 (10) The Authority must give notice to any qualifying bidder of the fact that it is not a preferred bidder or a reserve bidder.
 
-### 22. Particular obligations of the developer from preferred bidder stage[^key-437d4b9a96b1c5a79a00567f7a4d800f]
+### 22. Particular obligations of the developer from preferred bidder stage[^c-437d4b9a96b1c5a79a00567f7a4d800f]
 
 In order to facilitate the making of the Authority’s determination of the successful bidder to whom an offshore transmission licence is to be granted in respect of a particular qualifying project in accordance with regulation 28(2), the developer must from the date of the notice given in accordance with regulation 21(6) use its reasonable endeavours to—
 
@@ -476,7 +476,7 @@ In order to facilitate the making of the Authority’s determination of the succ
 
 ## PART 13 — WITHDRAWAL
 
-### 23. Withdrawal[^key-be28b60bb629235acbada708af0a1ea8]
+### 23. Withdrawal[^c-be28b60bb629235acbada708af0a1ea8]
 
 (1) A bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder may withdraw from a tender exercise by giving notice in writing to that effect to the Authority.
 
@@ -490,7 +490,7 @@ In order to facilitate the making of the Authority’s determination of the succ
 
 ## PART 14 — RE-RUN, CANCELLATION AND TREATMENT OF PAYMENTS AND SECURITY ON CANCELLATION
 
-### 24. Re-run, and re-run leading to cancellation[^key-49754a9375291bd7955bf01ff6682f4b]
+### 24. Re-run, and re-run leading to cancellation[^c-49754a9375291bd7955bf01ff6682f4b]
 
 (1) Where the Authority is satisfied that any of the events in Schedule 7 are occurring or have occurred in respect of a qualifying project, it may re-run that tender exercise from the beginning or from a particular stage in accordance with these Regulations.
 
@@ -508,7 +508,7 @@ In order to facilitate the making of the Authority’s determination of the succ
 
 (5) Where the Authority has published a notice in accordance with paragraph (3), that tender exercise is finished.
 
-### 25. Cancellation[^key-19def287499f7da065cfbefdbbb632dd]
+### 25. Cancellation[^c-19def287499f7da065cfbefdbbb632dd]
 
 (1) Where the Authority is satisfied that any of the events in Schedule 8 are occurring or have occurred in respect of a qualifying project, it may, in the circumstances specified in paragraph (2), publish a notice cancelling that tender exercise from the tender round.
 
@@ -519,7 +519,7 @@ In order to facilitate the making of the Authority’s determination of the succ
 
 (3) Where the Authority has published a notice in accordance with paragraph (1), that tender exercise is finished.
 
-### 26. Treatment of payments and security on cancellation[^key-b5db547fe73657874c8dd6efe47fd46e]
+### 26. Treatment of payments and security on cancellation[^c-b5db547fe73657874c8dd6efe47fd46e]
 
 (1) This regulation applies where the Authority cancels a tender exercise from a tender round in accordance with regulation 24(3) or 25(1).
 
@@ -548,7 +548,7 @@ the Authority must reimburse a qualifying bidder, preferred bidder or successful
 
 ## PART 15 — DISQUALIFICATION FROM A TENDER EXERCISE OR TENDER ROUND
 
-### 27. Disqualification[^key-fd010238f228d781d703e5aa1ccd731c]
+### 27. Disqualification[^c-fd010238f228d781d703e5aa1ccd731c]
 
 (1) Where the Authority is satisfied that any of the events in Schedule 9 are occurring or have occurred and that the occurrence would materially affect the outcome of a tender exercise or tender round, it must disqualify that developer, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder, as the case may be, from the tender exercise or tender round by giving notice to that effect to that developer, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder, as the case may be.
 
@@ -565,7 +565,7 @@ the Authority must reimburse a qualifying bidder, preferred bidder or successful
 
 ## PART 16 — NOTIFICATION OF SUCCESSFUL BIDDER
 
-### 28. Notification of successful bidder[^key-cda8780d29aff75e7def3a66e5dc06d0]
+### 28. Notification of successful bidder[^c-cda8780d29aff75e7def3a66e5dc06d0]
 
 (1) Where the Authority is satisfied that the preferred bidder has resolved the matters described in the notice published in accordance with regulation 21(6), that preferred bidder shall become the successful bidder.
 
@@ -578,7 +578,7 @@ the Authority must reimburse a qualifying bidder, preferred bidder or successful
 - (a) make a payment to the Authority of an amount determined by the Authority to be reasonable for the purpose of recovering the Authority’s tender costs; and
 - (b) where the Authority has published a notice under regulation 14 stating that the Authority will reimburse bid costs in accordance with regulation 29(6), make a payment to the Authority of an amount that is equal to the Authority’s costs in reimbursing bid costs.
 
-### 29. Information in respect of successful bidder[^key-df20fa9ab9198c28eae45878c95d1b65]
+### 29. Information in respect of successful bidder[^c-df20fa9ab9198c28eae45878c95d1b65]
 
 (1) Subject to paragraph (3), the Authority must as soon as practicable after a determination has been made in accordance with regulation 28(2), give notice to each qualifying bidder of its determination in relation to the successful bidder in respect of that qualifying project.
 
@@ -618,7 +618,7 @@ the Authority must reimburse a qualifying bidder who has received a notice in ac
 
 ## PART 17 — COST RECOVERY
 
-### 30. Recovery of tender costs[^key-815d644a2dbf68184d8036cfc9566c9f]
+### 30. Recovery of tender costs[^c-815d644a2dbf68184d8036cfc9566c9f]
 
 (1) The Authority must recover its tender costs in relation to a tender round in accordance with these Regulations.
 
@@ -655,13 +655,13 @@ so as to ensure that the Authority’s total tender costs have not been exceeded
 
 ## PART 18 — MISCELLANEOUS
 
-### 31. Failure to make payments or provide security[^key-d555383c23a5d5a6808f3dee07ff3d9c]
+### 31. Failure to make payments or provide security[^c-d555383c23a5d5a6808f3dee07ff3d9c]
 
 (1) Where a developer fails to make the payment or provide the security in accordance with regulation 10(1), the Authority may permit that payment or security to be made or provided within a further period specified by the Authority by notice to the developer, such period to be no later than the date on which a notice is published in accordance with regulation 12(1).
 
 (2) Where either a bidder or a qualifying bidder fails to make any payment before the date specified in a notice given under these Regulations, the Authority may disqualify that bidder or qualifying bidder from that tender exercise in accordance with regulation 27 if that failure is not remedied within a period not exceeding ten days specified by the Authority by notice to that bidder or qualifying bidder.
 
-### 32. Application for a decision by the Authority[^key-a92b72f1149995083b25cc4a279e9d20]
+### 32. Application for a decision by the Authority[^c-a92b72f1149995083b25cc4a279e9d20]
 
 (1) A bidder or qualifying bidder may apply to the Authority for a decision as to the effect of any—
 
@@ -670,7 +670,7 @@ so as to ensure that the Authority’s total tender costs have not been exceeded
 
 (2) Where a bidder or qualifying bidder makes an application in accordance with paragraph (1), the Authority may charge that bidder or qualifying bidder a fee of an amount equal to the Authority’s costs in assessing the application.
 
-### 33. Changes to bidder groups[^key-9c79d8be38162f29767cd59a89b75932]
+### 33. Changes to bidder groups[^c-9c79d8be38162f29767cd59a89b75932]
 
 (1) No change may be made to the membership of a bidder group unless the Authority has permitted the change in accordance with paragraph (3), (4), or (5).
 
@@ -695,7 +695,7 @@ so as to ensure that the Authority’s total tender costs have not been exceeded
 
 (6) Where a bidder group gives notice in accordance with paragraph (2), the Authority may give notice to the bidder group to make a payment to the Authority of an amount equal to the Authority’s costs in determining whether to permit the proposed change.
 
-### 34. Changes to delivery of documents or actions[^key-ee6ab9bfa843966c17a2ff2cce0875c0]
+### 34. Changes to delivery of documents or actions[^c-ee6ab9bfa843966c17a2ff2cce0875c0]
 
 (1) Paragraph (2) applies where the Authority determines that it is impracticable—
 
@@ -707,7 +707,7 @@ so as to ensure that the Authority’s total tender costs have not been exceeded
 - (a) delivery or publication will be made by a different time or date or in a different manner; or
 - (b) the action will be completed by a different time or date or in a different manner.
 
-### 35. Disapplication of certain provisions[^key-243723e559e15a40cd29e6e601eca845]
+### 35. Disapplication of certain provisions[^c-243723e559e15a40cd29e6e601eca845]
 
 (1) No application for an offshore transmission licence may be considered or granted by the Authority other than in accordance with these Regulations.
 
@@ -735,7 +735,7 @@ Department of Energy and Climate Change
 
 Regulation 8
 
-**1.**[^key-98cd6b01da300290a648c28dfdacaedc] The requirements in this paragraph are that the developer has—
+**1.**[^c-98cd6b01da300290a648c28dfdacaedc] The requirements in this paragraph are that the developer has—
 
 - (a) entered into a bilateral agreement with the holder of a co-ordination licence in accordance with the arrangements for connection and use of the transmission system;
 - (b) entered into an agreement for lease of the seabed;
@@ -743,7 +743,7 @@ Regulation 8
 - (d) satisfied the Authority that the terms of each construction phase contract, if any, are conducive to the development of an efficient, coordinated and economical system of electricity transmission; and
 - (e) provided the Authority with evidence in writing of its commitment to secure financing to construct the relevant generating station.
 
-**2.**[^key-f2d211100e7bc9b2803571f4adc5bd49] The requirements in this paragraph are that the developer has—
+**2.**[^c-f2d211100e7bc9b2803571f4adc5bd49] The requirements in this paragraph are that the developer has—
 
 - (a) entered into a bilateral agreement with the holder of a co-ordination licence in accordance with the arrangements for connection and use of the transmission system;
 - (b) entered into an agreement for lease of the seabed;
@@ -751,13 +751,13 @@ Regulation 8
 - (d) completed construction of, or entered into all necessary contracts for the construction of the transmission assets and ensured that any such contracts are assignable to the successful bidder; and
 - (e) secured financing to construct the transmission assets.
 
-**3.**[^key-a3c60995e190623130c617903296680f] Where the Authority considers that the developer has not met a requirement in paragraph 1(a) or (d) or paragraph 2(c) or (d), it may deem a project to be a qualifying project with respect to the requirement, provided the developer gives an undertaking to meet the requirement within a period notified by the Authority to the developer.
+**3.**[^c-a3c60995e190623130c617903296680f] Where the Authority considers that the developer has not met a requirement in paragraph 1(a) or (d) or paragraph 2(c) or (d), it may deem a project to be a qualifying project with respect to the requirement, provided the developer gives an undertaking to meet the requirement within a period notified by the Authority to the developer.
 
 ## SCHEDULE 2 — ENTRY CONDITIONS
 
 Regulation 11
 
-**1.**[^key-0caef6ee538f8dc1984e336a8db09954] The conditions in this paragraph are that the developer has—
+**1.**[^c-0caef6ee538f8dc1984e336a8db09954] The conditions in this paragraph are that the developer has—
 
 - (a) provided information to the Authority’s satisfaction to enable the Authority to both issue an information memorandum and establish a data room;
 - (b) provided an undertaking in writing to the Authority that where the information provided in sub-paragraph (a) has changed, or where new relevant information becomes available, the developer will provide that information to the Authority;
@@ -774,7 +774,7 @@ Regulation 11
 - (m) provided an undertaking in writing to the Authority to carry out its activities in respect of the qualifying project in an efficient manner including making available all necessary management, technical, commercial and legal resources for the purposes of facilitating the making of the Authority’s determination to grant an offshore transmission licence to the successful bidder; and
 - (n) complied with such other conditions as the Authority may determine are necessary in relation to that particular qualifying project.
 
-**2.**[^key-6345acbd65ac9758ae98dd76900f0e75] The conditions in this paragraph are that the developer has—
+**2.**[^c-6345acbd65ac9758ae98dd76900f0e75] The conditions in this paragraph are that the developer has—
 
 - (a) provided information to the Authority’s satisfaction to enable the Authority to both issue an information memorandum and establish a data room;
 - (b) provided an undertaking in writing to the Authority that where the information provided in sub-paragraph (a) has changed, or where new relevant information becomes available, the developer will provide that information to the Authority;
@@ -791,7 +791,7 @@ Regulation 11
 
 Regulation 14
 
-**1.**[^key-8a45f165270cb866cc9e8d518ae2f0f2] The information specified in this Schedule in relation to a particular tender exercise is as follows—
+**1.**[^c-8a45f165270cb866cc9e8d518ae2f0f2] The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
 - (a) the stages of the tender exercise and where the Authority determines not to hold a qualification to tender stage in accordance with regulation 13(2), the reasons for its determination;
 - (b) the rules particular to the pre-qualification stage of the tender exercise;
@@ -805,7 +805,7 @@ Regulation 14
 
 Regulation 16
 
-**1.**[^key-cbd47e9c5f3a866aa1b6212f7f0bb427] The information specified in this Schedule in relation to a particular tender exercise is as follows—
+**1.**[^c-cbd47e9c5f3a866aa1b6212f7f0bb427] The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
 - (a) the rules particular to the qualification to tender stage of the tender exercise;
 - (b) the qualification to tender questionnaire;
@@ -818,7 +818,7 @@ Regulation 16
 
 Regulation 18
 
-**1.**[^key-7c59bab201570ff1db1da064bb7016d5] The information specified in this Schedule in relation to a particular tender exercise is as follows—
+**1.**[^c-7c59bab201570ff1db1da064bb7016d5] The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
 - (a) the rules particular to the invitation to tender stage of the tender exercise;
 - (b) a description of the information required by the Authority for the submission of a tender;
@@ -831,7 +831,7 @@ Regulation 18
 
 Regulation 20
 
-**1.**[^key-e6f8919fcc039822c266800c42fd7124] The information specified in this Schedule in relation to a particular tender exercise is as follows—
+**1.**[^c-e6f8919fcc039822c266800c42fd7124] The information specified in this Schedule in relation to a particular tender exercise is as follows—
 
 - (a) the rules particular to the best and final offer stage of the tender exercise;
 - (b) a description of the information required by the Authority for the submission of a best and final offer;
@@ -843,7 +843,7 @@ Regulation 20
 
 Regulation 24
 
-**1.**[^key-0e4108c4d04437d5e9765c7973fdc5a9] The events in this Schedule are—
+**1.**[^c-0e4108c4d04437d5e9765c7973fdc5a9] The events in this Schedule are—
 
 - (a) a material change to the qualifying project;
 - (b) the Authority does not receive any completed and compliant pre-qualification questionnaires in accordance with regulation 14;
@@ -863,7 +863,7 @@ Regulation 24
 
 Regulation 25
 
-**1.**[^key-56025bc86afefa18c38c3b743e95c9a5] The events in this Schedule are—
+**1.**[^c-56025bc86afefa18c38c3b743e95c9a5] The events in this Schedule are—
 
 - (a) the Authority determines that there are no bidders or qualifying bidders in respect of a qualifying project;
 - (b) a developer has been disqualified from a tender exercise in accordance with regulation 27(1);
@@ -881,7 +881,7 @@ Regulation 25
 
 Regulation 27
 
-**1.**[^key-8ae0cdbbebfd665e29d511bb45d3109c] The events in this Schedule in relation to a developer, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder, as the case may be, are—
+**1.**[^c-8ae0cdbbebfd665e29d511bb45d3109c] The events in this Schedule in relation to a developer, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder, as the case may be, are—
 
 - (a) causing or inducing any person to enter into an agreement to collude or to inform a developer, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder of the amount of any rival tender;
 - (b) a material breach of any rules particular to the pre-qualification, qualification to tender, invitation to tender and best and final offer stages of a tender exercise or any requirements specified in these Regulations;
@@ -889,7 +889,7 @@ Regulation 27
 - (d) engaging in, attempting to engage in, allowing or encouraging any anti-competitive behaviour by or between any developer, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder;
 - (e) doing anything which would constitute the commission of an offence under section 1, 2 or 6 of the Bribery Act 2010[^f00007].
 
-**2.**[^key-02832c099cf5e919288dca61835c810f] The events in this Schedule in relation to a developer are—
+**2.**[^c-02832c099cf5e919288dca61835c810f] The events in this Schedule in relation to a developer are—
 
 - (a) offering to pay or give any sum of money, inducement or valuable consideration directly or indirectly to any officer of the Authority, bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder who is involved in a tender exercise (or any related party of these) in relation to any actions or omissions;
 - (b) contacting a bidder or qualifying bidder who is subject to a tender exercise (or any related party of these) outside any requirements specified in these Regulations, including without limitation contact for the purposes of discussing the possible transfer of an employee of a bidder or qualifying bidder to the employment of the developer for the purpose of a tender exercise;
@@ -897,7 +897,7 @@ Regulation 27
 - (d) failure to provide information to the Authority in accordance with regulation 4(3) or 6(5);
 - (e) failure to comply with the obligations specified in regulation 22.
 
-**3.**[^key-7703c2e2e794cbb2868ac258deab1f6c] The events in this Schedule in relation to a bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder are—
+**3.**[^c-7703c2e2e794cbb2868ac258deab1f6c] The events in this Schedule in relation to a bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder are—
 
 - (a) failure to make any payment as required in accordance with these Regulations, unless that failure has been remedied within a period not exceeding ten days in accordance with regulation 31(2);
 - (b) fixing or adjusting the amount of its tender by or in accordance with any agreement or arrangement with any other bidder, qualifying bidder, preferred bidder, reserve bidder or successful bidder or by improperly using insider information;
@@ -977,110 +977,110 @@ Regulation 35 dispenses with sections 6A and 6B of the Electricity Act 1989 for 
 
 [^f00003]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 6C was inserted by section 92 of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) and section 6D was inserted by section 44 of the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-edcf5102adbd0d675f50a335bc25ec08]: Commencement: Reg. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-edcf5102adbd0d675f50a335bc25ec08]: Commencement: Reg. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2013/175](https://www.legislation.gov.uk/uksi/2013/175).
 
-[^key-09bbd8175cc4a7684f4354b81f145f7a]: Commencement: Reg. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-09bbd8175cc4a7684f4354b81f145f7a]: Commencement: Reg. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-e94d92db3eff656e3747e64431b4e513]: Commencement: Reg. 3 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-e94d92db3eff656e3747e64431b4e513]: Commencement: Reg. 3 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
 [^f00005]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); schedule 2A was inserted by section 44 of the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-822d19e9c44b70a127615c684d16b107]: Textual amendment: Words in reg. 3(1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2024/706/regulation/30); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-822d19e9c44b70a127615c684d16b107]: Textual amendment: Words in reg. 3(1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2024/706/regulation/30); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-90cb1ae1e0f6b28de65ebb6d31fd0fe9]: Commencement: Reg. 4 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-90cb1ae1e0f6b28de65ebb6d31fd0fe9]: Commencement: Reg. 4 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-226df9ff615b55c8a47e0713d23236f1]: Commencement: Reg. 5 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-226df9ff615b55c8a47e0713d23236f1]: Commencement: Reg. 5 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-f5abd816c93946c80c6feb6e91224e7d]: Commencement: Reg. 6 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-f5abd816c93946c80c6feb6e91224e7d]: Commencement: Reg. 6 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-be951c3269c4f98b381c2d65b35dd585]: Commencement: Reg. 7 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-be951c3269c4f98b381c2d65b35dd585]: Commencement: Reg. 7 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-a17af9961abae2b8507f7969885c7c50]: Commencement: Reg. 8 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-a17af9961abae2b8507f7969885c7c50]: Commencement: Reg. 8 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-de15cacedb3e11655c830644f26df081]: Commencement: Reg. 9 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-de15cacedb3e11655c830644f26df081]: Commencement: Reg. 9 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-428f3a737ad49efe796bf43e4c134e08]: Commencement: Reg. 10 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-428f3a737ad49efe796bf43e4c134e08]: Commencement: Reg. 10 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-6e9002fc174ac4b74d044e5f830eb603]: Commencement: Reg. 11 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-6e9002fc174ac4b74d044e5f830eb603]: Commencement: Reg. 11 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-ccca3d14be79e5fd321fbd3ba71eae6e]: Commencement: Reg. 12 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-ccca3d14be79e5fd321fbd3ba71eae6e]: Commencement: Reg. 12 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-3b29915a6dbca13d4086db20da2e1d79]: Commencement: Reg. 13 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-3b29915a6dbca13d4086db20da2e1d79]: Commencement: Reg. 13 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-36fb0c8429408199bdbf12eb730f7d68]: Commencement: Reg. 14 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-36fb0c8429408199bdbf12eb730f7d68]: Commencement: Reg. 14 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-41204cf952d78cbb4fd676c27203466a]: Commencement: Reg. 15 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-41204cf952d78cbb4fd676c27203466a]: Commencement: Reg. 15 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-a391032247f8649134e0b99b44b917c3]: Commencement: Reg. 16 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-a391032247f8649134e0b99b44b917c3]: Commencement: Reg. 16 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-1a7a8cbbe2cf1682151b5c0c990e59d8]: Commencement: Reg. 17 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-1a7a8cbbe2cf1682151b5c0c990e59d8]: Commencement: Reg. 17 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-a9d08a1f3b22a312784681b8de0b8402]: Commencement: Reg. 18 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-a9d08a1f3b22a312784681b8de0b8402]: Commencement: Reg. 18 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-17adf134cf6f4808b2275e47e0c06fd0]: Commencement: Reg. 19 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-17adf134cf6f4808b2275e47e0c06fd0]: Commencement: Reg. 19 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-c03b6fdc5cc97b7314c7fc5c718e3b90]: Commencement: Reg. 20 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-c03b6fdc5cc97b7314c7fc5c718e3b90]: Commencement: Reg. 20 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-e084d118cc3d6a1d69388724c338a9f2]: Commencement: Reg. 21 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-e084d118cc3d6a1d69388724c338a9f2]: Commencement: Reg. 21 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-437d4b9a96b1c5a79a00567f7a4d800f]: Commencement: Reg. 22 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-437d4b9a96b1c5a79a00567f7a4d800f]: Commencement: Reg. 22 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-be28b60bb629235acbada708af0a1ea8]: Commencement: Reg. 23 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-be28b60bb629235acbada708af0a1ea8]: Commencement: Reg. 23 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-49754a9375291bd7955bf01ff6682f4b]: Commencement: Reg. 24 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-49754a9375291bd7955bf01ff6682f4b]: Commencement: Reg. 24 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-19def287499f7da065cfbefdbbb632dd]: Commencement: Reg. 25 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-19def287499f7da065cfbefdbbb632dd]: Commencement: Reg. 25 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-b5db547fe73657874c8dd6efe47fd46e]: Commencement: Reg. 26 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-b5db547fe73657874c8dd6efe47fd46e]: Commencement: Reg. 26 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-fd010238f228d781d703e5aa1ccd731c]: Commencement: Reg. 27 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-fd010238f228d781d703e5aa1ccd731c]: Commencement: Reg. 27 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-cda8780d29aff75e7def3a66e5dc06d0]: Commencement: Reg. 28 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-cda8780d29aff75e7def3a66e5dc06d0]: Commencement: Reg. 28 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-df20fa9ab9198c28eae45878c95d1b65]: Commencement: Reg. 29 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-df20fa9ab9198c28eae45878c95d1b65]: Commencement: Reg. 29 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-815d644a2dbf68184d8036cfc9566c9f]: Commencement: Reg. 30 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-815d644a2dbf68184d8036cfc9566c9f]: Commencement: Reg. 30 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-d555383c23a5d5a6808f3dee07ff3d9c]: Commencement: Reg. 31 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-d555383c23a5d5a6808f3dee07ff3d9c]: Commencement: Reg. 31 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-a92b72f1149995083b25cc4a279e9d20]: Commencement: Reg. 32 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-a92b72f1149995083b25cc4a279e9d20]: Commencement: Reg. 32 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-9c79d8be38162f29767cd59a89b75932]: Commencement: Reg. 33 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-9c79d8be38162f29767cd59a89b75932]: Commencement: Reg. 33 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-ee6ab9bfa843966c17a2ff2cce0875c0]: Commencement: Reg. 34 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-ee6ab9bfa843966c17a2ff2cce0875c0]: Commencement: Reg. 34 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-243723e559e15a40cd29e6e601eca845]: Commencement: Reg. 35 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-243723e559e15a40cd29e6e601eca845]: Commencement: Reg. 35 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-98cd6b01da300290a648c28dfdacaedc]: Commencement: Sch. 1 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-98cd6b01da300290a648c28dfdacaedc]: Commencement: Sch. 1 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-f2d211100e7bc9b2803571f4adc5bd49]: Commencement: Sch. 1 para. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-f2d211100e7bc9b2803571f4adc5bd49]: Commencement: Sch. 1 para. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-a3c60995e190623130c617903296680f]: Commencement: Sch. 1 para. 3 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-a3c60995e190623130c617903296680f]: Commencement: Sch. 1 para. 3 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-0caef6ee538f8dc1984e336a8db09954]: Commencement: Sch. 2 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-0caef6ee538f8dc1984e336a8db09954]: Commencement: Sch. 2 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-6345acbd65ac9758ae98dd76900f0e75]: Commencement: Sch. 2 para. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-6345acbd65ac9758ae98dd76900f0e75]: Commencement: Sch. 2 para. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-8a45f165270cb866cc9e8d518ae2f0f2]: Commencement: Sch. 3 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-8a45f165270cb866cc9e8d518ae2f0f2]: Commencement: Sch. 3 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-cbd47e9c5f3a866aa1b6212f7f0bb427]: Commencement: Sch. 4 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-cbd47e9c5f3a866aa1b6212f7f0bb427]: Commencement: Sch. 4 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-7c59bab201570ff1db1da064bb7016d5]: Commencement: Sch. 5 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-7c59bab201570ff1db1da064bb7016d5]: Commencement: Sch. 5 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-e6f8919fcc039822c266800c42fd7124]: Commencement: Sch. 6 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-e6f8919fcc039822c266800c42fd7124]: Commencement: Sch. 6 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-0e4108c4d04437d5e9765c7973fdc5a9]: Commencement: Sch. 7 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-0e4108c4d04437d5e9765c7973fdc5a9]: Commencement: Sch. 7 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-56025bc86afefa18c38c3b743e95c9a5]: Commencement: Sch. 8 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-56025bc86afefa18c38c3b743e95c9a5]: Commencement: Sch. 8 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-8ae0cdbbebfd665e29d511bb45d3109c]: Commencement: Sch. 9 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-8ae0cdbbebfd665e29d511bb45d3109c]: Commencement: Sch. 9 para. 1 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
 [^f00007]: Footnote: [2010 c.23](https://www.legislation.gov.uk/ukpga/2010/23).
 
-[^key-02832c099cf5e919288dca61835c810f]: Commencement: Sch. 9 para. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-02832c099cf5e919288dca61835c810f]: Commencement: Sch. 9 para. 2 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
 
-[^key-7703c2e2e794cbb2868ac258deab1f6c]: Commencement: Sch. 9 para. 3 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)
+[^c-7703c2e2e794cbb2868ac258deab1f6c]: Commencement: Sch. 9 para. 3 in force at 3.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1555/regulation/1/1)

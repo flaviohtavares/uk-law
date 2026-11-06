@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 465B. Temporary non-residents[^key-f8fd6c796e2c03eaff29e5d8b824a0cc]
+## 465B. Temporary non-residents[^c-f8fd6c796e2c03eaff29e5d8b824a0cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8fd6c796e2c03eaff29e5d8b824a0cc]: Textual amendment: S. 465B inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 140](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/140)
+[^c-f8fd6c796e2c03eaff29e5d8b824a0cc]: Textual amendment: S. 465B inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 140](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/140)

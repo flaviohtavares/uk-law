@@ -91,7 +91,7 @@ Section 13
 
 **11.** In section 16(1) (totalisators on licensed tracks) for “4(1)(b)” substitute “ 4(5) ”.
 
-**12.**[^key-bdf7df05a79747c70cddb28b208f99d7] (1) Section 24 (Horserace Betting Levy Board) shall be amended as follows.
+**12.**[^c-bdf7df05a79747c70cddb28b208f99d7] (1) Section 24 (Horserace Betting Levy Board) shall be amended as follows.
 
 (2) In subsection (1) for “the Totalisator Board” substitute “ , while the exclusive licence under section 8 of the Horserace Betting and Olympic Lottery Act 2004 (sale of the Tote) has effect, the successor company nominated for the purposes of section 2 of that Act ”.
 
@@ -105,7 +105,7 @@ Section 13
 - (a) for “, the Bookmakers' Committee and the Totalisator Board respectively” substitute “ or the Bookmakers' Committee ”, and
 - (b) for “subsection (2)(b), (d) or (e)” substitute “ subsection (2)(b) or (d) ”.
 
-**13.**[^key-ed10ffa6a3f526d6033b39154d5b8912] In section 30 (contributions by Totalisator Board)—
+**13.**[^c-ed10ffa6a3f526d6033b39154d5b8912] In section 30 (contributions by Totalisator Board)—
 
 - (a) in each place (including in the heading) before “Totalisator Board” insert “ successor company to the ”, and
 - (b) after subsection (1) insert—
@@ -167,7 +167,7 @@ Section 13
 
 ### Horserace Betting Levy Act 1969 (c. 14)
 
-**19.**[^key-c85f9f2a3fc78d4fc61b2f3e09f47d81] In section 5 of the Horserace Betting Levy Act 1969 (annual contribution by Totalisator Board)—
+**19.**[^c-c85f9f2a3fc78d4fc61b2f3e09f47d81] In section 5 of the Horserace Betting Levy Act 1969 (annual contribution by Totalisator Board)—
 
 - (a) in each place in subsection (1) (and the heading) before “Totalisator Board” insert “ successor company to the ”,
 - (b) in subsection (1) for ‘object’ substitute ‘objects’, and
@@ -186,20 +186,20 @@ Section 13
 
 ### National Lottery etc. Act 1993 (c. 39)
 
-**21.**[^key-bc12757b184a16f274f66b4d699b049d] Section 17 of the National Lottery etc. Act 1993 (extension of powers of Tote) shall cease to have effect.
+**21.**[^c-bc12757b184a16f274f66b4d699b049d] Section 17 of the National Lottery etc. Act 1993 (extension of powers of Tote) shall cease to have effect.
 
 ### Freedom of Information Act 2000 (c. 36)
 
-**22.**[^key-1b16e976c59170319c977a22fc51df44] In Part VI of Schedule 1 to the Freedom of Information Act 2000 (public authorities) omit— “ The Horserace Totalisator Board. ”
+**22.**[^c-1b16e976c59170319c977a22fc51df44] In Part VI of Schedule 1 to the Freedom of Information Act 2000 (public authorities) omit— “ The Horserace Totalisator Board. ”
 
 ## Annotations
 
-[^key-bdf7df05a79747c70cddb28b208f99d7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/12) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-bdf7df05a79747c70cddb28b208f99d7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/12) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
 
-[^key-ed10ffa6a3f526d6033b39154d5b8912]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/13) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-ed10ffa6a3f526d6033b39154d5b8912]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/13) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
 
-[^key-c85f9f2a3fc78d4fc61b2f3e09f47d81]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/19) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-c85f9f2a3fc78d4fc61b2f3e09f47d81]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/19) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
 
-[^key-bc12757b184a16f274f66b4d699b049d]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/21) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-bc12757b184a16f274f66b4d699b049d]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/21) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
 
-[^key-1b16e976c59170319c977a22fc51df44]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/22) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-1b16e976c59170319c977a22fc51df44]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2004/25/schedule/2/paragraph/22) in force at 13.7.2011 by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)

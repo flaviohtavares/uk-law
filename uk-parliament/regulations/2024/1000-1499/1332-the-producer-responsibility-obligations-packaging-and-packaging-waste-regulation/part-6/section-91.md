@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Records and reporting requirements for registered reprocessors and exporters[^key-cb89569c9e48ae0a2a8505ac1451d4a1]
+## 91. Records and reporting requirements for registered reprocessors and exporters[^c-cb89569c9e48ae0a2a8505ac1451d4a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb89569c9e48ae0a2a8505ac1451d4a1]: Commencement: Reg. 91 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-cb89569c9e48ae0a2a8505ac1451d4a1]: Commencement: Reg. 91 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

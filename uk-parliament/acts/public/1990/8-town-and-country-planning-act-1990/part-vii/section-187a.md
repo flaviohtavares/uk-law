@@ -60,7 +60,7 @@ the person responsible is in breach of the notice.
 
 (12) A person who is guilty of an offence under subsection (9) shall be liable on summary conviction—
 
-- (a)[^key-0c827196026ddbc051bead806e0d8c07] to a fine, if the land is in England, or
+- (a)[^c-0c827196026ddbc051bead806e0d8c07] to a fine, if the land is in England, or
 - (b) to a fine not exceeding level 3 on the standard scale, if the land is in Wales.
 
 (13) In this section—
@@ -78,4 +78,4 @@ the person responsible is in breach of the notice.
 
     S. 187A restricted (E.) (13.4.2001) by [S.I. 2001/1478](https://www.legislation.gov.uk/uksi/2001/1478), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2001/1478/regulation/3/a)
 
-[^key-0c827196026ddbc051bead806e0d8c07]: Textual amendment: S. 187A(12)(a)(b) substituted for s. 187A(12)(a)(b) and words (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 120(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/120/1), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/g) (with [reg. 9](https://www.legislation.gov.uk/uksi/2024/452/regulation/9))
+[^c-0c827196026ddbc051bead806e0d8c07]: Textual amendment: S. 187A(12)(a)(b) substituted for s. 187A(12)(a)(b) and words (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 120(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/120/1), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/g) (with [reg. 9](https://www.legislation.gov.uk/uksi/2024/452/regulation/9))

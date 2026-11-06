@@ -40,7 +40,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Sale and delivery of corrosive products
 
-#### 1. Sale of corrosive products to persons under 18[^key-f7b7bc3f33bb37fc1a283055073760c8]
+#### 1. Sale of corrosive products to persons under 18[^c-f7b7bc3f33bb37fc1a283055073760c8]
 
 (1) A person commits an offence if they sell a corrosive product to a person who is under the age of 18.
 
@@ -96,7 +96,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (16) See section 5 for provisions about presumptions as to the content of containers in proceedings in Scotland.
 
-#### 2. Defence to remote sale of corrosive products to persons under 18[^key-ff3754c9abf44eef03a7822d150102d1]
+#### 2. Defence to remote sale of corrosive products to persons under 18[^c-ff3754c9abf44eef03a7822d150102d1]
 
 (1) This section applies if—
 
@@ -135,7 +135,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) In subsection (9) “**locker**” means a lockable container to which the package was delivered with a view to its collection by the buyer, or a person acting on behalf of the buyer, in accordance with arrangements made between the seller and the buyer.
 
-#### 3. Delivery of corrosive products to residential premises etc[^key-a895db0c445b06ed125e677962eec63e]
+#### 3. Delivery of corrosive products to residential premises etc[^c-a895db0c445b06ed125e677962eec63e]
 
 (1) This section applies if—
 
@@ -179,7 +179,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (15) See section 5 for provisions about presumptions as to the content of containers in proceedings in Scotland.
 
-#### 4. Delivery of corrosive products to persons under 18[^key-08421c0e6617f1dff6d93230440f1788]
+#### 4. Delivery of corrosive products to persons under 18[^c-08421c0e6617f1dff6d93230440f1788]
 
 (1) This section applies if—
 
@@ -232,7 +232,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (13) See section 5 for provisions about presumptions as to the content of containers in proceedings in Scotland.
 
-#### 5. Presumptions in proceedings in Scotland for offence under section 1, 3 or 4[^key-a64fc517099042d852684d5a0311cfab]
+#### 5. Presumptions in proceedings in Scotland for offence under section 1, 3 or 4[^c-a64fc517099042d852684d5a0311cfab]
 
 *Extent: S*
 
@@ -259,7 +259,7 @@ the container is to be presumed to have contained, at the time it was sold or de
 
 ### Possession of corrosive substances
 
-#### 6. Offence of having a corrosive substance in a public place[^key-7f8a7994844ae41af789c641567bbe04][^key-292d1aab9421a75ee597b41ec2bcde42][^key-80082df87ee56bc86f1f8bf6327511f5]
+#### 6. Offence of having a corrosive substance in a public place[^c-7f8a7994844ae41af789c641567bbe04][^c-292d1aab9421a75ee597b41ec2bcde42][^c-80082df87ee56bc86f1f8bf6327511f5]
 
 (1) A person commits an offence if they have a corrosive substance with them in a public place.
 
@@ -278,12 +278,12 @@ the container is to be presumed to have contained, at the time it was sold or de
 
 (7) A person guilty of an offence under subsection (1) is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-dbb80a53b89255edc01df27d7847da13], to a fine or to both;
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-dbb80a53b89255edc01df27d7847da13], to a fine or to both;
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding the statutory maximum or to both;
 - (d) on conviction on indictment, to imprisonment for a term not exceeding 4 years, to a fine or to both.
 
-(8) In relation to an offence committed before 2 May 2022[^key-31e320abe1155ac1e69753310fd87156] the reference in subsection (7)(a) to the general limit in a magistrates’ court[^key-bde359fa35d76f0dfc981e968a3a40cc] is to be read as a reference to 6 months.
+(8) In relation to an offence committed before 2 May 2022[^c-31e320abe1155ac1e69753310fd87156] the reference in subsection (7)(a) to the general limit in a magistrates’ court[^c-bde359fa35d76f0dfc981e968a3a40cc] is to be read as a reference to 6 months.
 
 (9) In this section—
 
@@ -296,7 +296,7 @@ the container is to be presumed to have contained, at the time it was sold or de
 - (a) section 7 for provisions about presumptions as to the content of containers in proceedings in Scotland;
 - (b) sections 8 and 9 for provisions requiring a court in England and Wales to impose an appropriate custodial sentence in certain cases.
 
-#### 7. Presumptions in proceedings in Scotland for offence under section 6[^key-61b644301551734c69aa9a6394af4482]
+#### 7. Presumptions in proceedings in Scotland for offence under section 6[^c-61b644301551734c69aa9a6394af4482]
 
 *Extent: S*
 
@@ -322,7 +322,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (6) A party may lead evidence for the purpose of rebutting the presumption only if the party has, not less than 7 days before the date of the trial, given notice of the intention to do so to the other parties.
 
-#### 8. Appropriate custodial sentence for conviction under section 6[^key-cf24981531e86fcc5e41bff57f7794d9]
+#### 8. Appropriate custodial sentence for conviction under section 6[^c-cf24981531e86fcc5e41bff57f7794d9]
 
 *Extent: E+W*
 
@@ -330,7 +330,7 @@ the substance found is to be presumed to be a substance of that description.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Offence under section 6: relevant convictions[^key-c52433eddf1e96874766ccad48a1b940]
+#### 9. Offence under section 6: relevant convictions[^c-c52433eddf1e96874766ccad48a1b940]
 
 *Extent: E+W*
 
@@ -338,7 +338,7 @@ the substance found is to be presumed to be a substance of that description.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Search for corrosive substances: England and Wales[^key-8a7c9fa91be9709b2cde72a0ec353121]
+#### 10. Search for corrosive substances: England and Wales[^c-8a7c9fa91be9709b2cde72a0ec353121]
 
 *Extent: E+W*
 
@@ -356,7 +356,7 @@ the substance found is to be presumed to be a substance of that description.
 >
 > (8AB) In this section references to such a substance include an article which contains such a substance.
 
-#### 11. Search for corrosive substances: Scotland[^key-2b60c510a486af47eb71524fab000c00]
+#### 11. Search for corrosive substances: Scotland[^c-2b60c510a486af47eb71524fab000c00]
 
 *Extent: S*
 
@@ -410,7 +410,7 @@ the substance found is to be presumed to be a substance of that description.
 
 #### 13. Consequential amendments relating to corrosive products and substances
 
-(1)[^key-2272bafc8851e360106b607dd2b06a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2272bafc8851e360106b607dd2b06a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 37(1A) of the Mental Health Act 1983 (powers of courts to order hospital admission or guardianship: effect of provisions requiring imposition of appropriate custodial sentence)—
 
@@ -432,9 +432,9 @@ the substance found is to be presumed to be a substance of that description.
   >
   > - (v) section 8(2) of the Offensive Weapons Act 2019.
 
-(4)[^key-6cd481051c713c52b2b5406cc94b61c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6cd481051c713c52b2b5406cc94b61c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-94a1987ba68b409ea0043317dadcffec] In Schedule 9 to the Criminal Procedure (Scotland) Act 1995 (certificates as to proof of certain routine matters) at the end insert—
+(5)[^c-94a1987ba68b409ea0043317dadcffec] In Schedule 9 to the Criminal Procedure (Scotland) Act 1995 (certificates as to proof of certain routine matters) at the end insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -442,9 +442,9 @@ the substance found is to be presumed to be a substance of that description.
 > | Sections 1(1), 3(2) and (3) and 4(4) (offences relating to sale and delivery of corrosive products) | A person authorised to do so by the Scottish Ministers | In relation to any particular product which is identified in the certificate— (a) the name and Chemical Abstracts Registry number of that product, or (b) the name and Chemical Abstracts Registry number of a substance contained in that product and the concentration of that substance in that product. |
 > | Section 6(1) (offence of having corrosive substance in a public place) | A person authorised to do so by the Scottish Ministers | That the particular substance identified in the certificate is a corrosive substance within the meaning of section 6(9) of the Offensive Weapons Act 2019. |
 
-(6)[^key-de69e68a4bb7b73a04d5882f4d7d575f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-de69e68a4bb7b73a04d5882f4d7d575f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-de69e68a4bb7b73a04d5882f4d7d575f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-de69e68a4bb7b73a04d5882f4d7d575f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Knife crime prevention orders
 
@@ -635,7 +635,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (9)[^M_I_fdbb590c-8eab-443d-dcd9-9c6f9bf71a23] It does not matter whether the evidence would have been admissible in the proceedings in which the defendant was convicted.
 
-(9A)[^key-678370faa3f0eb3901c411788b341b54] The court may adjourn any proceedings on an application for a knife crime prevention order even after sentencing the defendant.
+(9A)[^c-678370faa3f0eb3901c411788b341b54] The court may adjourn any proceedings on an application for a knife crime prevention order even after sentencing the defendant.
 
 (9B) If the defendant does not appear for any adjourned proceedings the court may—
 
@@ -772,7 +772,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (10) In this section “**custodial sentence**” means—
 
-- (a) a sentence of imprisonment or any other sentence or order mentioned in section 76(1) of the Powers of Criminal Courts (Sentencing) Act 2000 or section 222 of the Sentencing Code[^key-d87dc713298adbb268b60090178595c0], or
+- (a) a sentence of imprisonment or any other sentence or order mentioned in section 76(1) of the Powers of Criminal Courts (Sentencing) Act 2000 or section 222 of the Sentencing Code[^c-d87dc713298adbb268b60090178595c0], or
 - (b) a sentence or order which corresponds to a sentence or order within paragraph (a) and which was imposed or made under an earlier enactment.
 
 ### Notification requirements
@@ -822,10 +822,10 @@ the substance found is to be presumed to be a substance of that description.
 
 (2) A person guilty of an offence under subsection (1) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-ab4bc4f4de1d037a7777f5921025670c], to a fine or to both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-ab4bc4f4de1d037a7777f5921025670c], to a fine or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, to a fine or to both.
 
-(3) In relation to an offence committed before 2 May 2022[^key-f7caaf2803fcc0fb1deb0c8f677d944f] the reference in section (2)(a) to the general limit in a magistrates’ court[^key-7d7e49e8178af6721a50250fd560779d] is to be read as a reference to 6 months.
+(3) In relation to an offence committed before 2 May 2022[^c-f7caaf2803fcc0fb1deb0c8f677d944f] the reference in section (2)(a) to the general limit in a magistrates’ court[^c-7d7e49e8178af6721a50250fd560779d] is to be read as a reference to 6 months.
 
 (4) A person commits an offence under subsection (1)(a) on the day on which the person first fails, without reasonable excuse, to comply with section 24(2) or (5).
 
@@ -946,10 +946,10 @@ the substance found is to be presumed to be a substance of that description.
 
 (2) A person guilty of an offence under subsection (1) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-9b8211bd7778c7c6dac48bb56d448d2e], to a fine or to both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-9b8211bd7778c7c6dac48bb56d448d2e], to a fine or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, to a fine or to both.
 
-(3) In relation to an offence committed before 2 May 2022[^key-7abb79d61c2e4a3f0fdfff0a1604e295] the reference in subsection (2)(a) to the general limit in a magistrates’ court[^key-3fafa2f79fd51d115aada1b6f5800878] is to be read as a reference to 6 months.
+(3) In relation to an offence committed before 2 May 2022[^c-7abb79d61c2e4a3f0fdfff0a1604e295] the reference in subsection (2)(a) to the general limit in a magistrates’ court[^c-3fafa2f79fd51d115aada1b6f5800878] is to be read as a reference to 6 months.
 
 (4) Where a person is convicted of an offence under this section, it is not open to the court by or before which the person is convicted to make, in respect of the offence, an order for conditional discharge.
 
@@ -1026,7 +1026,7 @@ the substance found is to be presumed to be a substance of that description.
 
 ### 34. Sale etc of bladed articles to persons under 18
 
-(1)[^key-5e5c4c052a35925d78b0ef557705f92d][^key-ce42b6c371370a7ed6865fdd96d054cf] In section 141A of the Criminal Justice Act 1988 (sale etc of bladed articles to persons under 18), in subsection (3) (articles to which the section does not apply)—
+(1)[^c-5e5c4c052a35925d78b0ef557705f92d][^c-ce42b6c371370a7ed6865fdd96d054cf] In section 141A of the Criminal Justice Act 1988 (sale etc of bladed articles to persons under 18), in subsection (3) (articles to which the section does not apply)—
 
 - (a) at the end of paragraph (a) insert “ or ”, and
 - (b) omit paragraph (b) and the “or” at the end of that paragraph.
@@ -1036,7 +1036,7 @@ the substance found is to be presumed to be a substance of that description.
 - (a) at the end of sub-paragraph (a) insert “ or ”, and
 - (b) omit sub-paragraph (b) and the “or” at the end of that sub-paragraph.
 
-### 35. Defence to sale of bladed articles to persons under 18: England and Wales[^key-6aeed402f118443f0c49b8a8cc16d967]
+### 35. Defence to sale of bladed articles to persons under 18: England and Wales[^c-6aeed402f118443f0c49b8a8cc16d967]
 
 *Extent: E+W*
 
@@ -1078,7 +1078,7 @@ the substance found is to be presumed to be a substance of that description.
 >
 > (9) In subsection (7) “**locker**” means a lockable container to which the package was delivered with a view to its collection by the buyer, or a person acting on behalf of the buyer, in accordance with arrangements made between the seller and the buyer.
 
-### 36. Defence to sale etc of bladed articles to persons under 18: Scotland[^key-cc713df1369a864935eff8fc2cdbf2f1]
+### 36. Defence to sale etc of bladed articles to persons under 18: Scotland[^c-cc713df1369a864935eff8fc2cdbf2f1]
 
 (1) The Criminal Justice Act 1988 is amended as follows.
 
@@ -1169,7 +1169,7 @@ the substance found is to be presumed to be a substance of that description.
 >
 > (9) In paragraph (7) “**locker**” means a lockable container to which the package was delivered with a view to its collection by the buyer, or a person acting on behalf of the buyer, in accordance with arrangements made between the seller and the buyer.
 
-### 38. Delivery of bladed products to residential premises etc[^key-8973a195ea4440126589c87110a4eb06][^key-0dc04c12ca868863b8ff800fc84b8557]
+### 38. Delivery of bladed products to residential premises etc[^c-8973a195ea4440126589c87110a4eb06][^c-0dc04c12ca868863b8ff800fc84b8557]
 
 (1) This section applies if—
 
@@ -1200,7 +1200,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (10) This section is subject to section 40 (defences).
 
-### 39. Delivery of bladed products to persons under 18[^key-04ac8b9c89b57c390f0bf849123c22de][^key-759de2c0b6139b898ae1b07bd5561d3a]
+### 39. Delivery of bladed products to persons under 18[^c-04ac8b9c89b57c390f0bf849123c22de][^c-759de2c0b6139b898ae1b07bd5561d3a]
 
 (1) This section applies if—
 
@@ -1230,7 +1230,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (8) This section is subject to section 40 (defences).
 
-### 40. Defences to offence under section 38 or 39[^key-10bd83af6a6abb8c35d5d9a1e794a5ef][^key-a6808fa344c9baae4fd5af8119eb5d2d]
+### 40. Defences to offence under section 38 or 39[^c-10bd83af6a6abb8c35d5d9a1e794a5ef][^c-a6808fa344c9baae4fd5af8119eb5d2d]
 
 (1) It is a defence for a person charged with an offence under section 38 to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -1295,7 +1295,7 @@ the substance found is to be presumed to be a substance of that description.
 - (a) the product is used by the person to participate in a competitive sport involving combat between individuals, and
 - (b) use of the product is an integral part of that sport.
 
-### 41. Meaning of “bladed product” in sections 38 to 40[^key-c31c8fa1cfdbb04e393dd8e2a9b436ca][^key-b1275ce8ed0408d0c94d8e81f7e0fcca]
+### 41. Meaning of “bladed product” in sections 38 to 40[^c-c31c8fa1cfdbb04e393dd8e2a9b436ca][^c-b1275ce8ed0408d0c94d8e81f7e0fcca]
 
 (1) Subject to subsections (2) to (4), in sections 38 to 40 “**bladed product**” means an article which—
 
@@ -1318,7 +1318,7 @@ the substance found is to be presumed to be a substance of that description.
 - (a) Article 53 of the Criminal Justice (Northern Ireland) Order 1996 (SI 1996/3160 (NI 24)), or
 - (b) an order under Article 54 of that Order.
 
-### 42. Delivery of bladed articles to persons under 18[^key-4a5637d2110bfd88ae0de8aee6eb77a9][^key-205b3cbdaee63b0638ec5f370dbfe861]
+### 42. Delivery of bladed articles to persons under 18[^c-4a5637d2110bfd88ae0de8aee6eb77a9][^c-205b3cbdaee63b0638ec5f370dbfe861]
 
 (1) This section applies if—
 
@@ -1375,7 +1375,7 @@ the substance found is to be presumed to be a substance of that description.
 
 ### 43. Amendments to the definition of “flick knife”
 
-(1)[^key-ea6fe052b5f2910238804bb1ff760d02] In section 1 of the Restriction of Offensive Weapons Act 1959 (penalties for offences in connection with dangerous weapons), in subsection (1), for paragraph (a) substitute—
+(1)[^c-ea6fe052b5f2910238804bb1ff760d02] In section 1 of the Restriction of Offensive Weapons Act 1959 (penalties for offences in connection with dangerous weapons), in subsection (1), for paragraph (a) substitute—
 
 > - (a) any knife which has a blade which opens automatically—
 >   - (i) from the closed position to the fully opened position, or
@@ -1397,9 +1397,9 @@ the substance found is to be presumed to be a substance of that description.
 
 ### 44. Prohibition on the possession of certain dangerous knives
 
-(1)[^key-4a3a652965e1d0a09867f36fd1bafa45][^key-d2a0e7f0d27d192c2e3732c9bec934c2][^key-41e540b2d88c3a6709b6b49f1ac0ba3c][^key-dd6264d1bbadf26a266a3d7e014f8c14] Section 1 of the Restriction of Offensive Weapons Act 1959 (penalties for offences in connection with dangerous weapons) is amended in accordance with subsections (2) to (4).
+(1)[^c-4a3a652965e1d0a09867f36fd1bafa45][^c-d2a0e7f0d27d192c2e3732c9bec934c2][^c-41e540b2d88c3a6709b6b49f1ac0ba3c][^c-dd6264d1bbadf26a266a3d7e014f8c14] Section 1 of the Restriction of Offensive Weapons Act 1959 (penalties for offences in connection with dangerous weapons) is amended in accordance with subsections (2) to (4).
 
-(2)[^key-a16aea54134eda78226b728889188cb4][^key-56e6d1b3dd6cff9446e9cd0b372eb135] After subsection (1) insert—
+(2)[^c-a16aea54134eda78226b728889188cb4][^c-56e6d1b3dd6cff9446e9cd0b372eb135] After subsection (1) insert—
 
 > (1A) Any person who possesses any knife of a kind described in subsection (1) is guilty of an offence.
 >
@@ -1410,9 +1410,9 @@ the substance found is to be presumed to be a substance of that description.
 >
 > (1C) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003, subsection (1B)(a) has effect as if the reference to 51 weeks were to 6 months.
 
-(3)[^key-a16aea54134eda78226b728889188cb4][^key-56e6d1b3dd6cff9446e9cd0b372eb135] In subsection (2), for “any such knife as is described in the foregoing subsection” substitute “ any knife of a kind described in subsection (1) ”.
+(3)[^c-a16aea54134eda78226b728889188cb4][^c-56e6d1b3dd6cff9446e9cd0b372eb135] In subsection (2), for “any such knife as is described in the foregoing subsection” substitute “ any knife of a kind described in subsection (1) ”.
 
-(4)[^key-4a3a652965e1d0a09867f36fd1bafa45][^key-d2a0e7f0d27d192c2e3732c9bec934c2][^key-41e540b2d88c3a6709b6b49f1ac0ba3c][^key-dd6264d1bbadf26a266a3d7e014f8c14] After subsection (2) insert—
+(4)[^c-4a3a652965e1d0a09867f36fd1bafa45][^c-d2a0e7f0d27d192c2e3732c9bec934c2][^c-41e540b2d88c3a6709b6b49f1ac0ba3c][^c-dd6264d1bbadf26a266a3d7e014f8c14] After subsection (2) insert—
 
 > (3) It is a defence for a person charged in respect of any conduct of that person relating to a knife of a kind described in subsection (1)—
 >
@@ -1462,7 +1462,7 @@ the substance found is to be presumed to be a substance of that description.
 > - (a) sufficient evidence of the matter is adduced to raise an issue with respect to it, and
 > - (b) the contrary is not proved beyond reasonable doubt.
 
-### 45. Prohibition on the possession of offensive weapons on further education premises[^key-052de2e1cbaee8a0ffd4963c4ed8a953]
+### 45. Prohibition on the possession of offensive weapons on further education premises[^c-052de2e1cbaee8a0ffd4963c4ed8a953]
 
 *Extent: E+W+N.I.*
 
@@ -1482,7 +1482,7 @@ the substance found is to be presumed to be a substance of that description.
 > - (b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both;
 > - (c) on conviction on indictment, to imprisonment for a term not exceeding 4 years or to a fine, or to both.
 >
-> (5ZA) In relation to an offence committed before 2 May 2022[^key-a30701d885586ec5e3fde8b1fdc8c9e6] the reference in subsection (5)(a) to 12 months is to be read as a reference to 6 months.
+> (5ZA) In relation to an offence committed before 2 May 2022[^c-a30701d885586ec5e3fde8b1fdc8c9e6] the reference in subsection (5)(a) to 12 months is to be read as a reference to 6 months.
 
 (6) For the subsection (6) that has effect in England and Wales and the subsection (6) that has effect in Northern Ireland substitute—
 
@@ -1506,9 +1506,9 @@ the substance found is to be presumed to be a substance of that description.
 
 ### 46. Prohibition on the possession of offensive weapons
 
-(1)[^key-112ac66cb188792974ac66ad42992920][^key-6e9fcf6ec8aebde4741c479195a13516][^key-3075bf446b553992ceb16b797200550c] Section 141 of the Criminal Justice Act 1988 (offensive weapons) is amended in accordance with subsections (2) to (16).
+(1)[^c-112ac66cb188792974ac66ad42992920][^c-6e9fcf6ec8aebde4741c479195a13516][^c-3075bf446b553992ceb16b797200550c] Section 141 of the Criminal Justice Act 1988 (offensive weapons) is amended in accordance with subsections (2) to (16).
 
-(2)[^key-8dd748e6213084d8ca3155182478dbcb][^key-9da525f400e898b9b766f365154a8423] After subsection (1) insert—
+(2)[^c-8dd748e6213084d8ca3155182478dbcb][^c-9da525f400e898b9b766f365154a8423] After subsection (1) insert—
 
 > (1A) Any person who possesses a weapon to which this section applies in private is guilty of an offence and liable—
 >
@@ -1552,41 +1552,41 @@ the substance found is to be presumed to be a substance of that description.
 >   - (a) in relation to land in England and Wales, section 4 of the Education Act 1996;
 >   - (b) in relation to land in Northern Ireland, Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 (SI 1986/594 (NI 3)).
 
-(3)[^key-8dd748e6213084d8ca3155182478dbcb][^key-9da525f400e898b9b766f365154a8423] In subsection (5)(a), after “subsection (1)” insert “ or (1A) ”.
+(3)[^c-8dd748e6213084d8ca3155182478dbcb][^c-9da525f400e898b9b766f365154a8423] In subsection (5)(a), after “subsection (1)” insert “ or (1A) ”.
 
-(4)[^key-8dd748e6213084d8ca3155182478dbcb][^key-9da525f400e898b9b766f365154a8423] After subsection (7) insert—
+(4)[^c-8dd748e6213084d8ca3155182478dbcb][^c-9da525f400e898b9b766f365154a8423] After subsection (7) insert—
 
 > (7A) It is a defence for a person charged with an offence under subsection (1A) to show that the weapon in question is one of historical importance.
 
-(5)[^key-8dd748e6213084d8ca3155182478dbcb][^key-9da525f400e898b9b766f365154a8423] After subsection (8) insert—
+(5)[^c-8dd748e6213084d8ca3155182478dbcb][^c-9da525f400e898b9b766f365154a8423] After subsection (8) insert—
 
 > (8A) It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only in their capacity as the operator of, or as a person acting on behalf of, a museum or gallery.
 
-(6)[^key-8dd748e6213084d8ca3155182478dbcb][^key-9da525f400e898b9b766f365154a8423] In subsection (9), for “If a person acting on behalf of” substitute “ If the operator of, or a person acting on behalf of, ”.
+(6)[^c-8dd748e6213084d8ca3155182478dbcb][^c-9da525f400e898b9b766f365154a8423] In subsection (9), for “If a person acting on behalf of” substitute “ If the operator of, or a person acting on behalf of, ”.
 
-(7)[^key-8dd748e6213084d8ca3155182478dbcb][^key-9da525f400e898b9b766f365154a8423] After subsection (11) insert—
+(7)[^c-8dd748e6213084d8ca3155182478dbcb][^c-9da525f400e898b9b766f365154a8423] After subsection (11) insert—
 
 > (11ZA) It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question for educational purposes only.
 
-(8)[^key-8dd748e6213084d8ca3155182478dbcb] In subsection (11A)(a) (as inserted by the Violent Crime Reduction Act 2006), after “subsection (1)” insert “ or (1A) ”.
+(8)[^c-8dd748e6213084d8ca3155182478dbcb] In subsection (11A)(a) (as inserted by the Violent Crime Reduction Act 2006), after “subsection (1)” insert “ or (1A) ”.
 
-(9)[^key-8dd748e6213084d8ca3155182478dbcb] After subsection (11A) (as inserted by the Violent Crime Reduction Act 2006) insert—
+(9)[^c-8dd748e6213084d8ca3155182478dbcb] After subsection (11A) (as inserted by the Violent Crime Reduction Act 2006) insert—
 
 > (11AA) It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only for one or more of the purposes specified in subsection (11B).
 
-(10)[^key-8dd748e6213084d8ca3155182478dbcb] In subsection (11C) (as inserted by the Violent Crime Reduction Act 2006), for “(8), (9) or (11A)” substitute “ (7A), (8), (8A), (9), (11ZA), (11A) or (11AA) ”.
+(10)[^c-8dd748e6213084d8ca3155182478dbcb] In subsection (11C) (as inserted by the Violent Crime Reduction Act 2006), for “(8), (9) or (11A)” substitute “ (7A), (8), (8A), (9), (11ZA), (11A) or (11AA) ”.
 
-(11)[^key-8dd748e6213084d8ca3155182478dbcb] In subsection (11D) (as inserted by the Violent Crime Reduction Act 2006), in paragraph (a), after “subsection (1)” insert “ or (1A) ”.
+(11)[^c-8dd748e6213084d8ca3155182478dbcb] In subsection (11D) (as inserted by the Violent Crime Reduction Act 2006), in paragraph (a), after “subsection (1)” insert “ or (1A) ”.
 
-(12)[^key-f475cba34fe27f57a810221856aecc7d] In subsection (11A) (as inserted by the Custodial Sentences and Weapons (Scotland) Act 2007), after “subsection (1)” insert “ or (1A) ”.
+(12)[^c-f475cba34fe27f57a810221856aecc7d] In subsection (11A) (as inserted by the Custodial Sentences and Weapons (Scotland) Act 2007), after “subsection (1)” insert “ or (1A) ”.
 
-(13)[^key-f475cba34fe27f57a810221856aecc7d] After subsection (11A) (as inserted by the Custodial Sentences and Weapons (Scotland) Act 2007) insert—
+(13)[^c-f475cba34fe27f57a810221856aecc7d] After subsection (11A) (as inserted by the Custodial Sentences and Weapons (Scotland) Act 2007) insert—
 
 > (11AA) It is a defence for a person charged with an offence under subsection (1A) to show that the person possessed the weapon in question only for one or more of the purposes specified in subsection (11B).
 
-(14)[^key-f475cba34fe27f57a810221856aecc7d] In subsection (11F) (as inserted by the Custodial Sentences and Weapons (Scotland) Act 2007), for “(8), (9) or (11A)” substitute “ (7A), (8), (8A), (9), (11ZA), (11A) or (11AA) ”.
+(14)[^c-f475cba34fe27f57a810221856aecc7d] In subsection (11F) (as inserted by the Custodial Sentences and Weapons (Scotland) Act 2007), for “(8), (9) or (11A)” substitute “ (7A), (8), (8A), (9), (11ZA), (11A) or (11AA) ”.
 
-(15)[^key-090139491bfb067eb9a60a03d5e5a795][^key-8dd748e6213084d8ca3155182478dbcb] After subsection (12) insert—
+(15)[^c-090139491bfb067eb9a60a03d5e5a795][^c-8dd748e6213084d8ca3155182478dbcb] After subsection (12) insert—
 
 > (12A) An order under this section which has the effect that possession in private of a weapon of a particular description is, or is to become, an offence under subsection (1A) may make provision—
 >
@@ -1601,9 +1601,9 @@ the substance found is to be presumed to be a substance of that description.
 
 (17) In Article 29(1)(l) of the Magistrates' Courts (Northern Ireland) Order 1981 (SI 1981/1675 (NI 26)) after “141(1)” insert “ or (1A) ”.
 
-(18)[^key-f475cba34fe27f57a810221856aecc7d] Subsection (19) applies if the subsections (11A) and (11B) which are inserted by section 60(1)(b) of the Custodial Sentences and Weapons (Scotland) Act 2007 into section 141 of the Criminal Justice Act 1988 are not in force when subsection (2) comes into force in relation to Scotland.
+(18)[^c-f475cba34fe27f57a810221856aecc7d] Subsection (19) applies if the subsections (11A) and (11B) which are inserted by section 60(1)(b) of the Custodial Sentences and Weapons (Scotland) Act 2007 into section 141 of the Criminal Justice Act 1988 are not in force when subsection (2) comes into force in relation to Scotland.
 
-(19)[^key-f475cba34fe27f57a810221856aecc7d] Until the coming into force of those subsections (11A) and (11B), section 141 has effect in relation to Scotland as if after subsection (11) there were inserted—
+(19)[^c-f475cba34fe27f57a810221856aecc7d] Until the coming into force of those subsections (11A) and (11B), section 141 has effect in relation to Scotland as if after subsection (11) there were inserted—
 
 > (11A) Where a person is charged with an offence under subsection (1A) in respect of conduct of the person relating to a weapon to which this section applies, it is a defence to show that the person's conduct was for the purpose only of making the weapon in question available for one or more of the purposes specified in subsection (11B).
 >
@@ -1617,7 +1617,7 @@ the substance found is to be presumed to be a substance of that description.
 
 ### 47. Prohibition on the possession of offensive weapons: supplementary
 
-(1)[^key-970c52bba6f14cf75753bc37064b5c06] The Schedule to the Criminal Justice Act 1988 (Offensive Weapons) Order 1988 (SI 1988/2019) is amended in accordance with subsections (2) to (9).
+(1)[^c-970c52bba6f14cf75753bc37064b5c06] The Schedule to the Criminal Justice Act 1988 (Offensive Weapons) Order 1988 (SI 1988/2019) is amended in accordance with subsections (2) to (9).
 
 (2) In paragraph 1, after paragraph (r) insert—
 
@@ -1626,18 +1626,18 @@ the substance found is to be presumed to be a substance of that description.
 >   - (ii) a serrated edge; and
 >   - (iii) images or words (whether on the blade or handle) that suggest that it is to be used for the purpose of violence.
 
-(3)[^key-bfeac6d55f067404f870af9857413a75] In paragraph 1, after paragraph (s) insert—
+(3)[^c-bfeac6d55f067404f870af9857413a75] In paragraph 1, after paragraph (s) insert—
 
 > - (t) the weapon sometimes known as a “cyclone knife” or “spiral knife” being a weapon with—
 >   - (i) a handle,
 >   - (ii) a blade with two or more cutting edges, each of which forms a helix, and
 >   - (iii) a sharp point at the end of the blade.
 
-(4)[^key-bfeac6d55f067404f870af9857413a75] In paragraph 2, after “subsection (1)” insert “or (1A)”.
+(4)[^c-bfeac6d55f067404f870af9857413a75] In paragraph 2, after “subsection (1)” insert “or (1A)”.
 
-(5)[^key-bfeac6d55f067404f870af9857413a75] In paragraph 3(a), after “section 141(1)” insert “or (1A)”.
+(5)[^c-bfeac6d55f067404f870af9857413a75] In paragraph 3(a), after “section 141(1)” insert “or (1A)”.
 
-(6)[^key-bfeac6d55f067404f870af9857413a75] In paragraph 4—
+(6)[^c-bfeac6d55f067404f870af9857413a75] In paragraph 4—
 
 - (a) the existing text becomes sub-paragraph (1),
 - (b) in that sub-paragraph, in paragraph (a), after “section 141(1)” insert “or (1A)”, and
@@ -1645,7 +1645,7 @@ the substance found is to be presumed to be a substance of that description.
 
   > (2) It is a defence for a person charged with an offence under section 141(1A) of the Criminal Justice Act 1988 in respect of any conduct of that person relating to a weapon to which section 141 of that Act applies by virtue of paragraph 1(r) to show that the person's conduct was for the purpose only of participating in a permitted activity of a kind mentioned in sub-paragraph (1).
 
-(7)[^key-bfeac6d55f067404f870af9857413a75] In paragraph 5A—
+(7)[^c-bfeac6d55f067404f870af9857413a75] In paragraph 5A—
 
 - (a) the existing text becomes sub-paragraph (1),
 - (b) in that sub-paragraph—
@@ -1655,7 +1655,7 @@ the substance found is to be presumed to be a substance of that description.
 
   > (2) It is a defence for a person charged with an offence under section 141(1A) of the Criminal Justice Act 1988 in respect of a weapon to which section 141 of the Criminal Justice Act 1988 applies by virtue of paragraph 1(r) to show that the person possessed the weapon for religious reasons only.
 
-(8)[^key-bfeac6d55f067404f870af9857413a75] After paragraph 5A insert—
+(8)[^c-bfeac6d55f067404f870af9857413a75] After paragraph 5A insert—
 
 > **5B.**
 >
@@ -1678,22 +1678,22 @@ the substance found is to be presumed to be a substance of that description.
 > - “**curved sword**” means a weapon to which section 141 of the Criminal Justice Act 1988 applies by virtue of paragraph 1(r);
 > - “**Sikh**” means a follower of the Sikh religion.
 
-(9)[^key-bfeac6d55f067404f870af9857413a75] In paragraph 6, for “and 5A” substitute “, 5A and 5B”.
+(9)[^c-bfeac6d55f067404f870af9857413a75] In paragraph 6, for “and 5A” substitute “, 5A and 5B”.
 
-(10)[^key-bfeac6d55f067404f870af9857413a75] The amendments made by subsections (2) to (9) are without prejudice to any power to make an order under section 141 of the Criminal Justice Act 1988 amending or revoking the order mentioned in subsection (1).
+(10)[^c-bfeac6d55f067404f870af9857413a75] The amendments made by subsections (2) to (9) are without prejudice to any power to make an order under section 141 of the Criminal Justice Act 1988 amending or revoking the order mentioned in subsection (1).
 
-(11)[^key-84daac1d72c89d9df992bc71ed18dbdf] The Schedule to the Criminal Justice Act 1988 (Offensive Weapons) (Scotland) Order 2005 (SSI 2005/483) is amended as follows.
+(11)[^c-84daac1d72c89d9df992bc71ed18dbdf] The Schedule to the Criminal Justice Act 1988 (Offensive Weapons) (Scotland) Order 2005 (SSI 2005/483) is amended as follows.
 
-(12)[^key-9ce2430c3d45d69de468138e45d6dbf7] In paragraph 1, after paragraph (q) insert—
+(12)[^c-9ce2430c3d45d69de468138e45d6dbf7] In paragraph 1, after paragraph (q) insert—
 
 > - (r) the weapon sometimes known as a “cyclone knife” or “spiral knife” being a weapon with—
 >   - (i) a handle,
 >   - (ii) a blade with two or more cutting edges, each of which forms a helix, and
 >   - (iii) a sharp point at the end of the blade.
 
-(13)[^key-cc69ccf28306576de99e2ca5fa2bd233] In paragraph 2, after “subsection (1)” insert “or (1A)”.
+(13)[^c-cc69ccf28306576de99e2ca5fa2bd233] In paragraph 2, after “subsection (1)” insert “or (1A)”.
 
-(14)[^key-97869fdcb3895a7546d05bba66d386fe][^key-abfec320914dd9f16f25513d38ff1b9e] The amendments made by subsections (12) and (13) are without prejudice to any power to make an order under section 141 of the Criminal Justice Act 1988 amending or revoking the order mentioned in subsection (11).
+(14)[^c-97869fdcb3895a7546d05bba66d386fe][^c-abfec320914dd9f16f25513d38ff1b9e] The amendments made by subsections (12) and (13) are without prejudice to any power to make an order under section 141 of the Criminal Justice Act 1988 amending or revoking the order mentioned in subsection (11).
 
 ### 48. Surrender of prohibited offensive weapons[^c23819721]
 
@@ -1764,7 +1764,7 @@ the substance found is to be presumed to be a substance of that description.
 
 *Extent: E+W*
 
-### 50. Offence of threatening with offensive weapon etc in a public place etc[^key-439430c34c1ea0ad330b305f0f4bf867]
+### 50. Offence of threatening with offensive weapon etc in a public place etc[^c-439430c34c1ea0ad330b305f0f4bf867]
 
 (1) Section 1A of the Prevention of Crime Act 1953 (offence of threatening with offensive weapon in public) is amended in accordance with subsections (2) and (3).
 
@@ -1784,7 +1784,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (6) Omit subsection (4).
 
-### 51. Offence of threatening with offensive weapon etc on further education premises[^key-999fc8bc4f7b47d7a6f69733f7d23059]
+### 51. Offence of threatening with offensive weapon etc on further education premises[^c-999fc8bc4f7b47d7a6f69733f7d23059]
 
 (1) Section 139AA of the Criminal Justice Act 1988 (offence of threatening with article with blade or point or offensive weapon) is amended as follows.
 
@@ -1819,7 +1819,7 @@ the substance found is to be presumed to be a substance of that description.
 
   > “**school premises**” means land used for the purposes of a school, excluding any land occupied solely as a dwelling by a person employed at the school; and “**school**” has the meaning given by section 4 of the Education Act 1996.
 
-### 52. Offence of threatening with an offensive weapon etc in a private place[^key-0cec70241fe4553bfadd3bbff6e03238]
+### 52. Offence of threatening with an offensive weapon etc in a private place[^c-0cec70241fe4553bfadd3bbff6e03238]
 
 (1) A person (“A”) commits an offence if—
 
@@ -1844,10 +1844,10 @@ the substance found is to be presumed to be a substance of that description.
 
 (6) A person guilty of an offence under subsection (1) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-7d674e2399188b81e6a3e76e9691c727], to a fine or to both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-7d674e2399188b81e6a3e76e9691c727], to a fine or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 4 years, to a fine or to both.
 
-(7) In relation to an offence committed before 2 May 2022[^key-65d70ac60add9f5df094f5e2f9660fd9], the reference in subsection (6)(a) to the general limit in a magistrates’ court[^key-84676aaa73a16ce2e5fafb816ed4904b] is to be read as a reference to 6 months.
+(7) In relation to an offence committed before 2 May 2022[^c-65d70ac60add9f5df094f5e2f9660fd9], the reference in subsection (6)(a) to the general limit in a magistrates’ court[^c-84676aaa73a16ce2e5fafb816ed4904b] is to be read as a reference to 6 months.
 
 (8) In this section and section 53—
 
@@ -1860,7 +1860,7 @@ the substance found is to be presumed to be a substance of that description.
 - “**public place**” includes any place to which, at the time in question, the public have or are permitted to have access, whether on payment or otherwise;
 - “**school premises**” means land used for the purposes of a school, excluding any land occupied solely as a dwelling by a person employed at the school; and “**school**” has the meaning given by section 4 of the Education Act 1996.
 
-### 53. Search for corrosive substance on school or further education premises[^key-2ca1ec9dc6a309724e1ed92f212d751b]
+### 53. Search for corrosive substance on school or further education premises[^c-2ca1ec9dc6a309724e1ed92f212d751b]
 
 (1) This section applies if a constable has reasonable grounds for suspecting that an offence under section 52, as that section applies to corrosive substances, is being or has been committed on school premises or further education premises.
 
@@ -1878,7 +1878,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (1) The Firearms Act 1968 is amended as follows.
 
-(2)[^key-c19090e454d5828f307cf2e45abd2295] In section 5 (weapons subject to general prohibition), in subsection (1), after paragraph (af) insert—
+(2)[^c-c19090e454d5828f307cf2e45abd2295] In section 5 (weapons subject to general prohibition), in subsection (1), after paragraph (af) insert—
 
 > - (ag) any rifle with a chamber from which empty cartridge cases are extracted using—
 >   - (i) energy from propellant gas, or
@@ -1888,7 +1888,7 @@ the substance found is to be presumed to be a substance of that description.
 
 .
 
-(3)[^key-c19090e454d5828f307cf2e45abd2295] In section 5(1), for the “and” at the end of paragraph (b) substitute—
+(3)[^c-c19090e454d5828f307cf2e45abd2295] In section 5(1), for the “and” at the end of paragraph (b) substitute—
 
 > - (ba) any device (commonly known as a bump stock) which is designed or adapted so that—
 >   - (i) it is capable of forming part of or being added to a self-loading lethal barrelled weapon (as defined in section 57(1B) and (2A)), and
@@ -1896,19 +1896,19 @@ the substance found is to be presumed to be a substance of that description.
 
 .
 
-(4)[^key-c19090e454d5828f307cf2e45abd2295] In section 5(2), after “including,” insert “ in the case of weapons, any devices falling within subsection (1)(ba) of this section and, ”.
+(4)[^c-c19090e454d5828f307cf2e45abd2295] In section 5(2), after “including,” insert “ in the case of weapons, any devices falling within subsection (1)(ba) of this section and, ”.
 
 (5) In section 5(2A)(a), after “weapon” insert “ , device ”.
 
-(6)[^key-37edacaba99c816fc6ac0298a3c0413b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-37edacaba99c816fc6ac0298a3c0413b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In Schedule 6 (prosecution and punishment of offences) in Part 1 (table of punishments)—
 
 - (a) in the entry for section 5(1)(a), (ab), (aba), (ac), (ad), (ae), (af) or (c), in the first column, after “(af)” insert “ , (ag), (ba) ”,
-- (b)[^key-49537502d52a28be40051735bdcf239f] in the entry for section 19, in the third column, for “or (af)” substitute “ , (af), (ag) or (ba) ”, and
-- (c)[^key-49537502d52a28be40051735bdcf239f] in the entry for section 20(1), in the third column, for “or (af)” substitute “ , (af), (ag) or (ba) ”.
+- (b)[^c-49537502d52a28be40051735bdcf239f] in the entry for section 19, in the third column, for “or (af)” substitute “ , (af), (ag) or (ba) ”, and
+- (c)[^c-49537502d52a28be40051735bdcf239f] in the entry for section 20(1), in the third column, for “or (af)” substitute “ , (af), (ag) or (ba) ”.
 
-(8)[^key-49537502d52a28be40051735bdcf239f] The amendments made by subsection (6) apply only in relation to—
+(8)[^c-49537502d52a28be40051735bdcf239f] The amendments made by subsection (6) apply only in relation to—
 
 - (a) an offence under section 5(1)(ag) or (ba) of the Firearms Act 1968 which is committed after the coming into force of subsection (6), and
 - (b) an offence under a provision listed in section 51A(1A) of that Act in respect of a firearm specified in section 5(1)(ag) or (ba) of that Act which is committed after the coming into force of subsection (6).
@@ -1919,7 +1919,7 @@ the substance found is to be presumed to be a substance of that description.
 
 (1) The Firearms (Northern Ireland) Order 2004 (SI 2004/702 (NI 3)) is amended as follows.
 
-(2)[^key-fe5a8f9172a470cb49c131e7facd6b6e] In Article 45 (weapons subject to general prohibition), in paragraph (1), after sub-paragraph (e) insert—
+(2)[^c-fe5a8f9172a470cb49c131e7facd6b6e] In Article 45 (weapons subject to general prohibition), in paragraph (1), after sub-paragraph (e) insert—
 
 > - (ea) any rifle with a chamber from which empty cartridge cases are extracted using—
 >   - (i) energy from propellant gas, or
@@ -1929,7 +1929,7 @@ the substance found is to be presumed to be a substance of that description.
 
 .
 
-(3)[^key-fe5a8f9172a470cb49c131e7facd6b6e] In Article 45(1), for the “and” at the end of sub-paragraph (f) substitute—
+(3)[^c-fe5a8f9172a470cb49c131e7facd6b6e] In Article 45(1), for the “and” at the end of sub-paragraph (f) substitute—
 
 > - (fa) any device (commonly known as a bump stock) which is designed or adapted so that—
 >   - (i) it is capable of forming part of or being added to a self-loading firearm, and
@@ -1937,22 +1937,22 @@ the substance found is to be presumed to be a substance of that description.
 
 .
 
-(4)[^key-44686fb411ffda861f539304741af0d3] In Article 2(2) (interpretation), in the definition of “prohibited weapon” and “prohibited ammunition”, after “including,” insert “ in the case of weapons, any devices falling within paragraph (1)(fa) of that Article and, ”.
+(4)[^c-44686fb411ffda861f539304741af0d3] In Article 2(2) (interpretation), in the definition of “prohibited weapon” and “prohibited ammunition”, after “including,” insert “ in the case of weapons, any devices falling within paragraph (1)(fa) of that Article and, ”.
 
-(5)[^key-44686fb411ffda861f539304741af0d3] In Article 70(1)(a) (minimum sentence for certain offences), in each of heads (ii) and (iv), after “(e)” insert “ , (ea), (fa) ”.
+(5)[^c-44686fb411ffda861f539304741af0d3] In Article 70(1)(a) (minimum sentence for certain offences), in each of heads (ii) and (iv), after “(e)” insert “ , (ea), (fa) ”.
 
 (6) In Schedule 5 (table of punishments)—
 
 - (a) in the entry for Article 45(1)(a), (aa), (b), (c), (d), (e) and (g), in the first column, after “(e)” insert “ , (ea), (fa) ”,
-- (b)[^key-44686fb411ffda861f539304741af0d3] in the entry for Article 61(1), in the third column, for “or (e)” substitute “ , (e), (ea) or (fa) ”, and
-- (c)[^key-44686fb411ffda861f539304741af0d3] in the entry for Article 62(1), in the third column, for “or (e)” substitute “ , (e), (ea) or (fa) ”.
+- (b)[^c-44686fb411ffda861f539304741af0d3] in the entry for Article 61(1), in the third column, for “or (e)” substitute “ , (e), (ea) or (fa) ”, and
+- (c)[^c-44686fb411ffda861f539304741af0d3] in the entry for Article 62(1), in the third column, for “or (e)” substitute “ , (e), (ea) or (fa) ”.
 
-(7)[^key-44686fb411ffda861f539304741af0d3] The amendments made by subsection (5) apply only in relation to—
+(7)[^c-44686fb411ffda861f539304741af0d3] The amendments made by subsection (5) apply only in relation to—
 
 - (a) an offence under Article 45(1)(ea) or (fa) of the Firearms (Northern Ireland) Order 2004 (SI 2004/702 (NI 3)) which is committed after the coming into force of subsection (5), and
 - (b) an offence under a provision listed in Article 70(1A) of that Order in respect of a firearm specified in Article 45(1)(ea) or (fa) of that Order which is committed after the coming into force of subsection (5).
 
-### 56. Consequential amendments relating to sections 54 and 55[^key-2d6e754f1f2b5208b4ad6f0e1e66cf01]
+### 56. Consequential amendments relating to sections 54 and 55[^c-2d6e754f1f2b5208b4ad6f0e1e66cf01]
 
 Schedule 2 contains consequential amendments relating to sections 54 and 55.
 
@@ -2143,9 +2143,9 @@ Schedule 2 contains consequential amendments relating to sections 54 and 55.
 
 ### 64. Enforcement of offences relating to sale etc of offensive weapons
 
-(1)[^key-e3b0e1e0cbb4f02dc188ec71fe9d2755] A local weights and measures authority may enforce within its area a provision listed in subsection (2).
+(1)[^c-e3b0e1e0cbb4f02dc188ec71fe9d2755] A local weights and measures authority may enforce within its area a provision listed in subsection (2).
 
-(2)[^key-e3b0e1e0cbb4f02dc188ec71fe9d2755] The provisions mentioned in subsection (1) are—
+(2)[^c-e3b0e1e0cbb4f02dc188ec71fe9d2755] The provisions mentioned in subsection (1) are—
 
 - (a) section 1(1) of the Restriction of Offensive Weapons Act 1959 (penalties for offences in connection with dangerous weapons),
 - (b) section 1 of the Crossbows Act 1987 (sale etc of crossbows to persons under 18),
@@ -2160,21 +2160,21 @@ Schedule 2 contains consequential amendments relating to sections 54 and 55.
 - (k) section 39 of this Act (delivery of bladed products to persons under 18), and
 - (l) section 42 of this Act (delivery of bladed articles to persons under 18).
 
-(3)[^key-e3b0e1e0cbb4f02dc188ec71fe9d2755] For the investigatory powers available to a local weights and measures authority for the purposes of enforcing a provision listed in subsection (2), see Schedule 5 to the Consumer Rights Act 2015.
+(3)[^c-e3b0e1e0cbb4f02dc188ec71fe9d2755] For the investigatory powers available to a local weights and measures authority for the purposes of enforcing a provision listed in subsection (2), see Schedule 5 to the Consumer Rights Act 2015.
 
-(4)[^key-e3b0e1e0cbb4f02dc188ec71fe9d2755] Nothing in this section is to be construed as authorising a local weights and measures authority to bring proceedings in Scotland for an offence.
+(4)[^c-e3b0e1e0cbb4f02dc188ec71fe9d2755] Nothing in this section is to be construed as authorising a local weights and measures authority to bring proceedings in Scotland for an offence.
 
-(5)[^key-8c4a9417cbca3b2b4e3f6dde1d5df5cf] In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (duties and powers to which Schedule 5 applies), at the appropriate place insert “ section 64 of the Offensive Weapons Act 2019. ”
+(5)[^c-8c4a9417cbca3b2b4e3f6dde1d5df5cf] In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (duties and powers to which Schedule 5 applies), at the appropriate place insert “ section 64 of the Offensive Weapons Act 2019. ”
 
-### 65. Application of Regulatory Enforcement and Sanctions Act 2008[^key-548d499113be6ba30139261b5b43c74e]
+### 65. Application of Regulatory Enforcement and Sanctions Act 2008[^c-548d499113be6ba30139261b5b43c74e]
 
 In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 (relevant enactments for the purposes of relevant functions to which Parts 1 and 2 of that Act apply) at the appropriate places insert— “ Criminal Justice Act 1988, sections 141(1) and 141A ”; “ Offensive Weapons Act 2019, sections 1, 3, 4, 38, 39 and 42 ”; “ Restriction of Offensive Weapons Act 1959, section 1(1) ”.
 
 ## PART 8 — Supplementary
 
-### 66. Guidance on offences relating to offensive weapons etc[^key-f626c231cdabe331d2333a42be68b2e5]
+### 66. Guidance on offences relating to offensive weapons etc[^c-f626c231cdabe331d2333a42be68b2e5]
 
-(1)[^key-9751d279d6e0a8a832baef334a116fbf] The Secretary of State may from time to time issue guidance about—
+(1)[^c-9751d279d6e0a8a832baef334a116fbf] The Secretary of State may from time to time issue guidance about—
 
 - (a) section 1 of the Prevention of Crime Act 1953 (prohibition of the carrying of offensive weapons without lawful authority or reasonable excuse),
 - (b) section 1 of the Restriction of Offensive Weapons Act 1959 (penalties for offences in connection with dangerous weapons) as it has effect in relation to—
@@ -2210,26 +2210,26 @@ In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 (relevant ena
 - (h) section 6 of this Act as it has effect in relation to Northern Ireland, or
 - (i) any of sections 38 to 42 of this Act as they have effect in relation to Northern Ireland.
 
-(4)[^key-9751d279d6e0a8a832baef334a116fbf] A national authority who issues guidance under this section may from time to time revise it.
+(4)[^c-9751d279d6e0a8a832baef334a116fbf] A national authority who issues guidance under this section may from time to time revise it.
 
-(5)[^key-9751d279d6e0a8a832baef334a116fbf] Subsection (6) applies if a national authority proposes to issue guidance under this section—
+(5)[^c-9751d279d6e0a8a832baef334a116fbf] Subsection (6) applies if a national authority proposes to issue guidance under this section—
 
 - (a) on a matter on which the authority has not previously issued such guidance, or
 - (b) which the authority considers to be substantially different from guidance previously issued under this section.
 
-(6)[^key-9751d279d6e0a8a832baef334a116fbf] Before the national authority issues the guidance, the authority must consult such persons likely to be affected by it as the authority considers appropriate.
+(6)[^c-9751d279d6e0a8a832baef334a116fbf] Before the national authority issues the guidance, the authority must consult such persons likely to be affected by it as the authority considers appropriate.
 
-(7)[^key-9751d279d6e0a8a832baef334a116fbf] A national authority must arrange for any guidance issued by the authority under this section to be published in such manner as the authority thinks appropriate.
+(7)[^c-9751d279d6e0a8a832baef334a116fbf] A national authority must arrange for any guidance issued by the authority under this section to be published in such manner as the authority thinks appropriate.
 
-(8)[^key-9751d279d6e0a8a832baef334a116fbf] This section does not permit a national authority to give guidance to a court or tribunal.
+(8)[^c-9751d279d6e0a8a832baef334a116fbf] This section does not permit a national authority to give guidance to a court or tribunal.
 
-(9)[^key-9751d279d6e0a8a832baef334a116fbf] In this section “**national authority**” means—
+(9)[^c-9751d279d6e0a8a832baef334a116fbf] In this section “**national authority**” means—
 
 - (a) the Secretary of State,
 - (b) the Scottish Ministers, or
 - (c) the Department of Justice in Northern Ireland.
 
-(10)[^key-9751d279d6e0a8a832baef334a116fbf] Until the coming into force of the repeal of section 141(4) of the Criminal Justice Act 1988 (ban on importation of weapons) by paragraph 119(2) of Schedule 7 to the Policing and Crime Act 2009, this section has effect as if—
+(10)[^c-9751d279d6e0a8a832baef334a116fbf] Until the coming into force of the repeal of section 141(4) of the Criminal Justice Act 1988 (ban on importation of weapons) by paragraph 119(2) of Schedule 7 to the Policing and Crime Act 2009, this section has effect as if—
 
 - (a) subsection (1)(e) referred to section 141 of the Criminal Justice Act 1988 as it has effect in relation to—
   - (i) England and Wales, or
@@ -2237,7 +2237,7 @@ In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 (relevant ena
 - (b) subsection (2)(b) referred to that section as it has effect in relation to Scotland and other than in relation to the importation of a weapon to which that section applies, and
 - (c) subsection (3)(d) referred to that section as it has effect in relation to Northern Ireland and other than in relation to the importation of a weapon to which that section applies.
 
-### 67. Consequential amendments relating to armed forces[^key-fb4ae7b1423049166a8ce448a37593de]
+### 67. Consequential amendments relating to armed forces[^c-fb4ae7b1423049166a8ce448a37593de]
 
 (1) Part 2 of Schedule 1 to the Armed Forces Act 2006 (criminal conduct offences that may be dealt with at a summary hearing only with permission) is amended as follows.
 
@@ -2451,7 +2451,7 @@ This Act may be cited as the Offensive Weapons Act 2019.
 
 SCHEDULES
 
-## SCHEDULE 1 — Corrosive products[^key-851c5bc4ac5627ebecd0c5ed102b266f]
+## SCHEDULE 1 — Corrosive products[^c-851c5bc4ac5627ebecd0c5ed102b266f]
 
 Section 1
 
@@ -2475,26 +2475,26 @@ Section 56
 
 ### Customs and Excise Management Act 1979 (c. 2)
 
-**1.**[^key-ccd8e25e087081b68c1bdd69c686a2ab] The Customs and Excise Management Act 1979 is amended as follows.
+**1.**[^c-ccd8e25e087081b68c1bdd69c686a2ab] The Customs and Excise Management Act 1979 is amended as follows.
 
-**2.**[^key-1e5574a6bb07169e29098d8e05382d64] In section 50(5A) (penalty for improper importation of certain firearms)—
-
-- (a) in paragraph (a), after “(af)” insert “ , (ag), (ba) ”, and
-- (b) in paragraph (b), after “(e)” insert “ , (ea), (fa) ”.
-
-**3.**[^key-8ae1feeb79e5c3d3fae1c6f7e509fb05] In section 68(4A) (penalty for offence in relation to exportation of certain firearms)—
+**2.**[^c-1e5574a6bb07169e29098d8e05382d64] In section 50(5A) (penalty for improper importation of certain firearms)—
 
 - (a) in paragraph (a), after “(af)” insert “ , (ag), (ba) ”, and
 - (b) in paragraph (b), after “(e)” insert “ , (ea), (fa) ”.
 
-**4.**[^key-93c4e27236d77091816a346d5c359467] In section 170(4A) (penalty for customs offences relating to certain firearms)—
+**3.**[^c-8ae1feeb79e5c3d3fae1c6f7e509fb05] In section 68(4A) (penalty for offence in relation to exportation of certain firearms)—
 
 - (a) in paragraph (a), after “(af)” insert “ , (ag), (ba) ”, and
 - (b) in paragraph (b), after “(e)” insert “ , (ea), (fa) ”.
 
-**5.**[^key-84cc3b97678c4af2e84ed53ae55bbd69] An amendment made by any of paragraphs 2(a), 3(a) and 4(a) applies only in relation to an offence in relation to a firearm of a kind specified in section 5(1)(ag) or (ba) of the Firearms Act 1968 which is committed after the coming into force of the amendment.
+**4.**[^c-93c4e27236d77091816a346d5c359467] In section 170(4A) (penalty for customs offences relating to certain firearms)—
 
-**6.**[^key-a85b7f101214dec219ea9878fc3c18a8] An amendment made by any of paragraphs 2(b), 3(b) and 4(b) applies only in relation to an offence in relation to a firearm of a kind specified in Article 45(1)(ea) or (fa) of the Firearms (Northern Ireland) Order 2004 (SI 2004/702 (NI 3)) which is committed after the coming into force of the amendment.
+- (a) in paragraph (a), after “(af)” insert “ , (ag), (ba) ”, and
+- (b) in paragraph (b), after “(e)” insert “ , (ea), (fa) ”.
+
+**5.**[^c-84cc3b97678c4af2e84ed53ae55bbd69] An amendment made by any of paragraphs 2(a), 3(a) and 4(a) applies only in relation to an offence in relation to a firearm of a kind specified in section 5(1)(ag) or (ba) of the Firearms Act 1968 which is committed after the coming into force of the amendment.
+
+**6.**[^c-a85b7f101214dec219ea9878fc3c18a8] An amendment made by any of paragraphs 2(b), 3(b) and 4(b) applies only in relation to an offence in relation to a firearm of a kind specified in Article 45(1)(ea) or (fa) of the Firearms (Northern Ireland) Order 2004 (SI 2004/702 (NI 3)) which is committed after the coming into force of the amendment.
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
@@ -2502,77 +2502,77 @@ Section 56
 
 **Not yet in force.**
 
-**7.**[^key-024701184843bbc67aaa7753190833e1][^key-73c98674dd67b2ac1f69d3f2f6c54103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-024701184843bbc67aaa7753190833e1][^c-73c98674dd67b2ac1f69d3f2f6c54103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**8.**[^key-6758377da553a5409cc7c2d9563c726b][^key-6a81221c91a92d1e86d022eafcc03e5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6758377da553a5409cc7c2d9563c726b][^c-6a81221c91a92d1e86d022eafcc03e5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Violent Crime Reduction Act 2006 (c. 38)
 
-**9.**[^key-84a17ef0b8a11632212f3aced23e3acd] The Violent Crime Reduction Act 2006 is amended as follows.
+**9.**[^c-84a17ef0b8a11632212f3aced23e3acd] The Violent Crime Reduction Act 2006 is amended as follows.
 
 *Extent: E+W+S*
 
 **Not yet in force.**
 
-**10.**[^key-1833ba7b6e60e1cecd781462da9a4922][^key-252416579e5ab007407d0d7cf5772085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1833ba7b6e60e1cecd781462da9a4922][^c-252416579e5ab007407d0d7cf5772085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-**11.**[^key-f2c09f583dd735f0c92ea15a3ade79c6] In paragraph 2(3)(b) of Schedule 2 (offence in Northern Ireland of using someone to mind a weapon: penalties in cases involving certain firearms) for “mentioned in Article 3(1)(a) or 45(1)(a), (aa), (b), (c), (d), (e) or (g) or (2)(a)” substitute “ specified in Article 3(1)(a) or 45(1)(a), (aa), (b), (c), (d), (e), (ea) or (fa) or (2)(a) ”.
+**11.**[^c-f2c09f583dd735f0c92ea15a3ade79c6] In paragraph 2(3)(b) of Schedule 2 (offence in Northern Ireland of using someone to mind a weapon: penalties in cases involving certain firearms) for “mentioned in Article 3(1)(a) or 45(1)(a), (aa), (b), (c), (d), (e) or (g) or (2)(a)” substitute “ specified in Article 3(1)(a) or 45(1)(a), (aa), (b), (c), (d), (e), (ea) or (fa) or (2)(a) ”.
 
 *Extent: E+W+S*
 
 **Not yet in force.**
 
-**12.**[^key-f6b32db861f2dbedfe974cc53919ee08][^key-916a54958de640ba67a09900d81a8da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f6b32db861f2dbedfe974cc53919ee08][^c-916a54958de640ba67a09900d81a8da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-**13.**[^key-8ce08e51b0bc594cf4d58c536672fad6] The amendment made by paragraph 11 applies only in relation to an offence under paragraph 1 of Schedule 2 to the Violent Crime Reduction Act 2006 which is committed after the coming into force of paragraph 11.
+**13.**[^c-8ce08e51b0bc594cf4d58c536672fad6] The amendment made by paragraph 11 applies only in relation to an offence under paragraph 1 of Schedule 2 to the Violent Crime Reduction Act 2006 which is committed after the coming into force of paragraph 11.
 
 ## Annotations
 
-[^key-f7b7bc3f33bb37fc1a283055073760c8]: Commencement: S. 1 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/2/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-f7b7bc3f33bb37fc1a283055073760c8]: Commencement: S. 1 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/2/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-ff3754c9abf44eef03a7822d150102d1]: Commencement: S. 2 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-ff3754c9abf44eef03a7822d150102d1]: Commencement: S. 2 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-a895db0c445b06ed125e677962eec63e]: Commencement: S. 3 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-a895db0c445b06ed125e677962eec63e]: Commencement: S. 3 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-08421c0e6617f1dff6d93230440f1788]: Commencement: S. 4 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-08421c0e6617f1dff6d93230440f1788]: Commencement: S. 4 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-a64fc517099042d852684d5a0311cfab]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/17/section/5) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/a)
+[^c-a64fc517099042d852684d5a0311cfab]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/17/section/5) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/a)
 
-[^key-7f8a7994844ae41af789c641567bbe04]: Commencement: S. 6 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-7f8a7994844ae41af789c641567bbe04]: Commencement: S. 6 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-292d1aab9421a75ee597b41ec2bcde42]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/17/section/6) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/a)
+[^c-292d1aab9421a75ee597b41ec2bcde42]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/17/section/6) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/a)
 
-[^key-80082df87ee56bc86f1f8bf6327511f5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/17/section/6) in force at 6.10.2022 for N.I. by [S.R. 2022/235](https://www.legislation.gov.uk/nisr/2022/235), [art. 2](https://www.legislation.gov.uk/nisr/2022/235/article/2)
+[^c-80082df87ee56bc86f1f8bf6327511f5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/17/section/6) in force at 6.10.2022 for N.I. by [S.R. 2022/235](https://www.legislation.gov.uk/nisr/2022/235), [art. 2](https://www.legislation.gov.uk/nisr/2022/235/article/2)
 
-[^key-dbb80a53b89255edc01df27d7847da13]: Textual amendment: Words in [s. 6(7)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/6/7/a) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-dbb80a53b89255edc01df27d7847da13]: Textual amendment: Words in [s. 6(7)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/6/7/a) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-31e320abe1155ac1e69753310fd87156]: Textual amendment: Words in [s. 6(8)](https://www.legislation.gov.uk/ukpga/2019/17/section/6/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-31e320abe1155ac1e69753310fd87156]: Textual amendment: Words in [s. 6(8)](https://www.legislation.gov.uk/ukpga/2019/17/section/6/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-bde359fa35d76f0dfc981e968a3a40cc]: Textual amendment: Words in [s. 6(8)](https://www.legislation.gov.uk/ukpga/2019/17/section/6/8) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-bde359fa35d76f0dfc981e968a3a40cc]: Textual amendment: Words in [s. 6(8)](https://www.legislation.gov.uk/ukpga/2019/17/section/6/8) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-61b644301551734c69aa9a6394af4482]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/17/section/7) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/b)
+[^c-61b644301551734c69aa9a6394af4482]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/17/section/7) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/b)
 
-[^key-cf24981531e86fcc5e41bff57f7794d9]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/2019/17/section/8) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cf24981531e86fcc5e41bff57f7794d9]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/2019/17/section/8) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c52433eddf1e96874766ccad48a1b940]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2019/17/section/9) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c52433eddf1e96874766ccad48a1b940]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2019/17/section/9) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8a7c9fa91be9709b2cde72a0ec353121]: Commencement: S. 10 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-8a7c9fa91be9709b2cde72a0ec353121]: Commencement: S. 10 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-2b60c510a486af47eb71524fab000c00]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/17/section/11) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/c)
+[^c-2b60c510a486af47eb71524fab000c00]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2019/17/section/11) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/c)
 
-[^key-2272bafc8851e360106b607dd2b06a11]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2272bafc8851e360106b607dd2b06a11]: Textual amendment: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6cd481051c713c52b2b5406cc94b61c9]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6cd481051c713c52b2b5406cc94b61c9]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-94a1987ba68b409ea0043317dadcffec]: Commencement: [S. 13(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/5) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/d)
+[^c-94a1987ba68b409ea0043317dadcffec]: Commencement: [S. 13(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/5) in force at 1.1.2021 by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/d)
 
-[^key-de69e68a4bb7b73a04d5882f4d7d575f]: Textual amendment: [S. 13(6)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/6)[(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-de69e68a4bb7b73a04d5882f4d7d575f]: Textual amendment: [S. 13(6)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/6)[(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/13/7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_I_34345a15-da85-4e86-b3cd-fb14d55dda9d]: Commencement: S. 14(1)-(6), (9)(10) in force at 5.7.2021 in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/1) (with [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/2021/762/regulation/3/2/3)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
@@ -2594,7 +2594,7 @@ Section 56
 
 [^M_I_e5b885d4-6561-495a-bda3-eab2b9a522e3]: Commencement: S. 19(5)(6) in force at 5.7.2021 for specified purposes in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/2) (with [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/2021/762/regulation/3/2/3)) (as amended) (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
-[^key-678370faa3f0eb3901c411788b341b54]: Textual amendment: [S. 19(9A)-(9D)](https://www.legislation.gov.uk/ukpga/2019/17/section/19/9A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 167(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/167/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(t)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/t)
+[^c-678370faa3f0eb3901c411788b341b54]: Textual amendment: [S. 19(9A)-(9D)](https://www.legislation.gov.uk/ukpga/2019/17/section/19/9A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 167(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/167/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(t)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/t)
 
 [^M_I_039467aa-d073-468f-ec92-a49f9832f261]: Commencement: S. 20 in force at 5.7.2021 in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/1) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
@@ -2604,17 +2604,17 @@ Section 56
 
 [^M_I_0042522e-182e-4e92-8e98-c606c97b00e8]: Commencement: S. 23 in force at 5.7.2021 for specified purposes in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
-[^key-d87dc713298adbb268b60090178595c0]: Textual amendment: Words in [s. 23(10)](https://www.legislation.gov.uk/ukpga/2019/17/section/23/10) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 300](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/300) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d87dc713298adbb268b60090178595c0]: Textual amendment: Words in [s. 23(10)](https://www.legislation.gov.uk/ukpga/2019/17/section/23/10) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 300](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/300) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_I_3ea85076-5ffd-483b-e6b1-ea3213a76188]: Commencement: S. 24 in force at 5.7.2021 for specified purposes in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
 [^M_I_baa4fc8d-0858-4828-a720-eb2f973d29cb]: Commencement: S. 25 in force at 5.7.2021 for specified purposes in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
-[^key-ab4bc4f4de1d037a7777f5921025670c]: Textual amendment: Words in [s. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/25/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-ab4bc4f4de1d037a7777f5921025670c]: Textual amendment: Words in [s. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/25/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-f7caaf2803fcc0fb1deb0c8f677d944f]: Textual amendment: Words in [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/25/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-f7caaf2803fcc0fb1deb0c8f677d944f]: Textual amendment: Words in [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/25/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-7d7e49e8178af6721a50250fd560779d]: Textual amendment: Words in [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/25/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-7d7e49e8178af6721a50250fd560779d]: Textual amendment: Words in [s. 25(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/25/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^M_I_1453fb0f-9ba7-4417-c18c-f02b210717c9]: Commencement: S. 26 in force at 5.7.2021 in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/1) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
@@ -2624,168 +2624,168 @@ Section 56
 
 [^M_I_cafe66dc-1b8f-481c-b1c9-3a2ac8cf1224]: Commencement: S. 29 in force at 5.7.2021 for specified purposes in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
-[^key-9b8211bd7778c7c6dac48bb56d448d2e]: Textual amendment: Words in [s. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/29/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-9b8211bd7778c7c6dac48bb56d448d2e]: Textual amendment: Words in [s. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/29/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-7abb79d61c2e4a3f0fdfff0a1604e295]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/29/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-7abb79d61c2e4a3f0fdfff0a1604e295]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/29/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-3fafa2f79fd51d115aada1b6f5800878]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/29/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-3fafa2f79fd51d115aada1b6f5800878]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/29/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
 [^M_I_2d814a2c-58d3-4d4c-dd10-ab59e4302274]: Commencement: S. 32 in force at 5.7.2021 in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
 [^M_I_793f36d7-65da-4f8b-e116-c3848b333690]: Commencement: S. 33 in force at 5.7.2021 for specified purposes in relation to the metropolitan police district for the specified period by [S.I. 2021/762](https://www.legislation.gov.uk/uksi/2021/762), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/762/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2021/762/regulation/4)) (as amended (16.7.2022) by [The Offensive Weapons Act 2019 (Commencement No. 2) (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/828)](https://www.legislation.gov.uk/uksi/2022/828), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/828/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/828/regulation/2))
 
-[^key-5e5c4c052a35925d78b0ef557705f92d]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e)
+[^c-5e5c4c052a35925d78b0ef557705f92d]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e)
 
-[^key-ce42b6c371370a7ed6865fdd96d054cf]: Commencement: S. 34(1) in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-ce42b6c371370a7ed6865fdd96d054cf]: Commencement: S. 34(1) in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-6aeed402f118443f0c49b8a8cc16d967]: Commencement: S. 35 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-6aeed402f118443f0c49b8a8cc16d967]: Commencement: S. 35 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-cc713df1369a864935eff8fc2cdbf2f1]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2019/17/section/36) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
+[^c-cc713df1369a864935eff8fc2cdbf2f1]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2019/17/section/36) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
 
-[^key-8973a195ea4440126589c87110a4eb06]: Commencement: S. 38 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-8973a195ea4440126589c87110a4eb06]: Commencement: S. 38 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-0dc04c12ca868863b8ff800fc84b8557]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2019/17/section/38) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/b)
+[^c-0dc04c12ca868863b8ff800fc84b8557]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2019/17/section/38) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/b)
 
-[^key-04ac8b9c89b57c390f0bf849123c22de]: Commencement: S. 39 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-04ac8b9c89b57c390f0bf849123c22de]: Commencement: S. 39 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-759de2c0b6139b898ae1b07bd5561d3a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2019/17/section/39) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/c)
+[^c-759de2c0b6139b898ae1b07bd5561d3a]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2019/17/section/39) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/c)
 
-[^key-10bd83af6a6abb8c35d5d9a1e794a5ef]: Commencement: S. 40 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-10bd83af6a6abb8c35d5d9a1e794a5ef]: Commencement: S. 40 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-a6808fa344c9baae4fd5af8119eb5d2d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2019/17/section/40) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/d)
+[^c-a6808fa344c9baae4fd5af8119eb5d2d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2019/17/section/40) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/d)
 
-[^key-c31c8fa1cfdbb04e393dd8e2a9b436ca]: Commencement: S. 41 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-c31c8fa1cfdbb04e393dd8e2a9b436ca]: Commencement: S. 41 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-b1275ce8ed0408d0c94d8e81f7e0fcca]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2019/17/section/41) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/e)
+[^c-b1275ce8ed0408d0c94d8e81f7e0fcca]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2019/17/section/41) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/e)
 
-[^key-4a5637d2110bfd88ae0de8aee6eb77a9]: Commencement: S. 42 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-4a5637d2110bfd88ae0de8aee6eb77a9]: Commencement: S. 42 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-205b3cbdaee63b0638ec5f370dbfe861]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2019/17/section/42) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/f)
+[^c-205b3cbdaee63b0638ec5f370dbfe861]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2019/17/section/42) in force at 28.6.2022 for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/f)
 
-[^key-ea6fe052b5f2910238804bb1ff760d02]: Commencement: [S. 43(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/43/1) in force at 14.7.2021 for E.W.S. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/a)
+[^c-ea6fe052b5f2910238804bb1ff760d02]: Commencement: [S. 43(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/43/1) in force at 14.7.2021 for E.W.S. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/a)
 
-[^key-4a3a652965e1d0a09867f36fd1bafa45]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 10.12.2020 for specified purposes for E.W. by [S.I. 2020/1480](https://www.legislation.gov.uk/uksi/2020/1480), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1480/regulation/2)
+[^c-4a3a652965e1d0a09867f36fd1bafa45]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 10.12.2020 for specified purposes for E.W. by [S.I. 2020/1480](https://www.legislation.gov.uk/uksi/2020/1480), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1480/regulation/2)
 
-[^key-d2a0e7f0d27d192c2e3732c9bec934c2]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 14.7.2021 for specified purposes for S. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/c)
+[^c-d2a0e7f0d27d192c2e3732c9bec934c2]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 14.7.2021 for specified purposes for S. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/c)
 
-[^key-41e540b2d88c3a6709b6b49f1ac0ba3c]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 14.7.2021 for E.W. in so far as not already in force by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b)
+[^c-41e540b2d88c3a6709b6b49f1ac0ba3c]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 14.7.2021 for E.W. in so far as not already in force by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b)
 
-[^key-dd6264d1bbadf26a266a3d7e014f8c14]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 27.3.2023 for S. in so far as not already in force by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
+[^c-dd6264d1bbadf26a266a3d7e014f8c14]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/4) in force at 27.3.2023 for S. in so far as not already in force by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
 
-[^key-a16aea54134eda78226b728889188cb4]: Commencement: [S. 44(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/3) in force at 14.7.2021 for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b)
+[^c-a16aea54134eda78226b728889188cb4]: Commencement: [S. 44(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/3) in force at 14.7.2021 for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/b)
 
-[^key-56e6d1b3dd6cff9446e9cd0b372eb135]: Commencement: [S. 44(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/3) in force at 27.3.2023 for S. by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
+[^c-56e6d1b3dd6cff9446e9cd0b372eb135]: Commencement: [S. 44(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/44/3) in force at 27.3.2023 for S. by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/a)
 
-[^key-052de2e1cbaee8a0ffd4963c4ed8a953]: Commencement: S. 45 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-052de2e1cbaee8a0ffd4963c4ed8a953]: Commencement: S. 45 in force at 6.4.2022 for E.W. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-a30701d885586ec5e3fde8b1fdc8c9e6]: Textual amendment: Words in [s. 45(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/45/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-a30701d885586ec5e3fde8b1fdc8c9e6]: Textual amendment: Words in [s. 45(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/45/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-112ac66cb188792974ac66ad42992920]: Commencement: [S. 46(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/1) in force at 14.7.2021 for specified purposes for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
+[^c-112ac66cb188792974ac66ad42992920]: Commencement: [S. 46(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/1) in force at 14.7.2021 for specified purposes for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
 
-[^key-6e9fcf6ec8aebde4741c479195a13516]: Commencement: [S. 46(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/1) in force at 28.6.2022 for specified purposes for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/g)
+[^c-6e9fcf6ec8aebde4741c479195a13516]: Commencement: [S. 46(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/1) in force at 28.6.2022 for specified purposes for S. by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/g)
 
-[^key-3075bf446b553992ceb16b797200550c]: Commencement: [S. 46(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/1) in force at 27.3.2023 for S. in so far as not already in force by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-3075bf446b553992ceb16b797200550c]: Commencement: [S. 46(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/1) in force at 27.3.2023 for S. in so far as not already in force by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
-[^key-8dd748e6213084d8ca3155182478dbcb]: Commencement: [S. 46(2)-(11)(15)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/2) in force at 14.7.2021 for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
+[^c-8dd748e6213084d8ca3155182478dbcb]: Commencement: [S. 46(2)-(11)(15)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/2) in force at 14.7.2021 for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
 
-[^key-9da525f400e898b9b766f365154a8423]: Commencement: [S. 46(2)-(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/2) in force at 27.3.2023 for S. by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-9da525f400e898b9b766f365154a8423]: Commencement: [S. 46(2)-(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/2) in force at 27.3.2023 for S. by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
-[^key-f475cba34fe27f57a810221856aecc7d]: Commencement: [S. 46(12)-(14)(18)(19)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/12) in force at 27.3.2023 by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-f475cba34fe27f57a810221856aecc7d]: Commencement: [S. 46(12)-(14)(18)(19)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/12) in force at 27.3.2023 by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
-[^key-090139491bfb067eb9a60a03d5e5a795]: Commencement: [S. 46(15)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/15) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/g)
+[^c-090139491bfb067eb9a60a03d5e5a795]: Commencement: [S. 46(15)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/15) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/g)
 
-[^key-970c52bba6f14cf75753bc37064b5c06]: Commencement: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/1) in force at 14.7.2021 for specified purposes for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/e)
+[^c-970c52bba6f14cf75753bc37064b5c06]: Commencement: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/1) in force at 14.7.2021 for specified purposes for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/e)
 
-[^key-bfeac6d55f067404f870af9857413a75]: Commencement: [S. 47(3)-(10)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/3) in force at 14.7.2021 for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/e)
+[^c-bfeac6d55f067404f870af9857413a75]: Commencement: [S. 47(3)-(10)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/3) in force at 14.7.2021 for E.W. by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/e)
 
-[^key-84daac1d72c89d9df992bc71ed18dbdf]: Commencement: S. 47(11) in force at 28.6.2022 by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
+[^c-84daac1d72c89d9df992bc71ed18dbdf]: Commencement: S. 47(11) in force at 28.6.2022 by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
 
-[^key-9ce2430c3d45d69de468138e45d6dbf7]: Commencement: S. 47(12) in force at 28.6.2022 by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
+[^c-9ce2430c3d45d69de468138e45d6dbf7]: Commencement: S. 47(12) in force at 28.6.2022 by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
 
-[^key-cc69ccf28306576de99e2ca5fa2bd233]: Commencement: [S. 47(13)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/13) in force at 27.3.2023 by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/c)
+[^c-cc69ccf28306576de99e2ca5fa2bd233]: Commencement: [S. 47(13)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/13) in force at 27.3.2023 by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/c)
 
-[^key-97869fdcb3895a7546d05bba66d386fe]: Commencement: S. 47(14) in force at 28.6.2022 for specified purposes by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
+[^c-97869fdcb3895a7546d05bba66d386fe]: Commencement: S. 47(14) in force at 28.6.2022 for specified purposes by [S.S.I. 2022/150](https://www.legislation.gov.uk/ssi/2022/150), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2022/150/regulation/2/h)
 
-[^key-abfec320914dd9f16f25513d38ff1b9e]: Commencement: [S. 47(14)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/14) in force at 27.3.2023 in so far as not already in force by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/c)
+[^c-abfec320914dd9f16f25513d38ff1b9e]: Commencement: [S. 47(14)](https://www.legislation.gov.uk/ukpga/2019/17/section/47/14) in force at 27.3.2023 in so far as not already in force by [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/c)
 
 [^c23819721]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2019/17/section/48) in force for specified purposes at Royal Assent, see [s. 70(5)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/b)
 
 [^c23819731]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2019/17/section/49) in force for specified purposes at Royal Assent, see [s. 70(5)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/b)
 
-[^key-439430c34c1ea0ad330b305f0f4bf867]: Commencement: S. 50 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-439430c34c1ea0ad330b305f0f4bf867]: Commencement: S. 50 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-999fc8bc4f7b47d7a6f69733f7d23059]: Commencement: S. 51 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-999fc8bc4f7b47d7a6f69733f7d23059]: Commencement: S. 51 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-0cec70241fe4553bfadd3bbff6e03238]: Commencement: S. 52 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-0cec70241fe4553bfadd3bbff6e03238]: Commencement: S. 52 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-7d674e2399188b81e6a3e76e9691c727]: Textual amendment: Words in [s. 52(6)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/52/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-7d674e2399188b81e6a3e76e9691c727]: Textual amendment: Words in [s. 52(6)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/52/6/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-65d70ac60add9f5df094f5e2f9660fd9]: Textual amendment: Words in [s. 52(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/52/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-65d70ac60add9f5df094f5e2f9660fd9]: Textual amendment: Words in [s. 52(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/52/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-84676aaa73a16ce2e5fafb816ed4904b]: Textual amendment: Words in [s. 52(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/52/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-84676aaa73a16ce2e5fafb816ed4904b]: Textual amendment: Words in [s. 52(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/52/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-2ca1ec9dc6a309724e1ed92f212d751b]: Commencement: S. 53 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-2ca1ec9dc6a309724e1ed92f212d751b]: Commencement: S. 53 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(5)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/5), [2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
 [^c23819741]: Commencement: S. 54(1)(5)(7)(a) in force at Royal Assent, s. 54(2)-(4) in force for specified purposes at Royal Assent, see. [s. 70(5)(c)(d)-(f)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/c/d)
 
-[^key-c19090e454d5828f307cf2e45abd2295]: Commencement: [S. 54(2)-(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/2) in force at 14.7.2021 in so far as not already in force by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/f)
+[^c-c19090e454d5828f307cf2e45abd2295]: Commencement: [S. 54(2)-(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/2) in force at 14.7.2021 in so far as not already in force by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/f)
 
-[^key-37edacaba99c816fc6ac0298a3c0413b]: Textual amendment: [S. 54(6)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/6) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-37edacaba99c816fc6ac0298a3c0413b]: Textual amendment: [S. 54(6)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/6) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-49537502d52a28be40051735bdcf239f]: Commencement: [S. 54(7)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/7/b)[(c)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/7/c)[(8)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/8) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/f)
+[^c-49537502d52a28be40051735bdcf239f]: Commencement: [S. 54(7)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/7/b)[(c)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/7/c)[(8)](https://www.legislation.gov.uk/ukpga/2019/17/section/54/8) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/f)
 
 [^c23819751]: Commencement: [S. 55(1)(6)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/1/6/a) in force at Royal Assent, s. 55(2)(3) in force for specified purposes at Royal Assent, see. [s. 70(5)(h)(i)(j)(k)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/h/i/j/k)
 
-[^key-fe5a8f9172a470cb49c131e7facd6b6e]: Commencement: [S. 55(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/3) in force at 14.7.2021 in so far as not already in force by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
+[^c-fe5a8f9172a470cb49c131e7facd6b6e]: Commencement: [S. 55(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/3) in force at 14.7.2021 in so far as not already in force by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
 
-[^key-44686fb411ffda861f539304741af0d3]: Commencement: [S. 55(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/4)[(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/5)[(6)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/6/b)[(c)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/6/c)[(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/7) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
+[^c-44686fb411ffda861f539304741af0d3]: Commencement: [S. 55(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/4)[(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/5)[(6)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/6/b)[(c)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/6/c)[(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/7) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
 
-[^key-2d6e754f1f2b5208b4ad6f0e1e66cf01]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2019/17/section/56) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/h)
+[^c-2d6e754f1f2b5208b4ad6f0e1e66cf01]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2019/17/section/56) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/h)
 
-[^key-e3b0e1e0cbb4f02dc188ec71fe9d2755]: Commencement: S. 64(1)-(4) in force for E.W.S. at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-e3b0e1e0cbb4f02dc188ec71fe9d2755]: Commencement: S. 64(1)-(4) in force for E.W.S. at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-8c4a9417cbca3b2b4e3f6dde1d5df5cf]: Commencement: S. 64(5) in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/6), [2(c)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/c)
+[^c-8c4a9417cbca3b2b4e3f6dde1d5df5cf]: Commencement: S. 64(5) in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/6), [2(c)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/c)
 
-[^key-548d499113be6ba30139261b5b43c74e]: Commencement: S. 65 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/6), [2(c)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/c)
+[^c-548d499113be6ba30139261b5b43c74e]: Commencement: S. 65 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/6), [2(c)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/c)
 
-[^key-f626c231cdabe331d2333a42be68b2e5]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2019/17/section/66) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/h)
+[^c-f626c231cdabe331d2333a42be68b2e5]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2019/17/section/66) in force at 1.1.2021 for S. by [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/h)
 
-[^key-9751d279d6e0a8a832baef334a116fbf]: Commencement: S. 66(1)(4)-(10) in force at 6.4.2022 except so far as it confers functions on the Scottish Ministers or the Department of Justice in N.I. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/2/6), [2(d)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/d)
+[^c-9751d279d6e0a8a832baef334a116fbf]: Commencement: S. 66(1)(4)-(10) in force at 6.4.2022 except so far as it confers functions on the Scottish Ministers or the Department of Justice in N.I. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(6)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/2/6), [2(d)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/d)
 
-[^key-fb4ae7b1423049166a8ce448a37593de]: Commencement: S. 67 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(7)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/7), [2(e)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/e)
+[^c-fb4ae7b1423049166a8ce448a37593de]: Commencement: S. 67 in force at 6.4.2022 by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(7)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/7), [2(e)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/e)
 
-[^key-851c5bc4ac5627ebecd0c5ed102b266f]: Commencement: Sch. 1 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/2/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-851c5bc4ac5627ebecd0c5ed102b266f]: Commencement: Sch. 1 in force at 6.4.2022 for E.W.S. by [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2022/418/regulation/1/2/4), [2(a)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-ccd8e25e087081b68c1bdd69c686a2ab]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/1) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-ccd8e25e087081b68c1bdd69c686a2ab]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/1) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-1e5574a6bb07169e29098d8e05382d64]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/2) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-1e5574a6bb07169e29098d8e05382d64]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/2) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-8ae1feeb79e5c3d3fae1c6f7e509fb05]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/3) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-8ae1feeb79e5c3d3fae1c6f7e509fb05]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/3) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-93c4e27236d77091816a346d5c359467]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/4) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-93c4e27236d77091816a346d5c359467]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/4) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-84cc3b97678c4af2e84ed53ae55bbd69]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/5) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-84cc3b97678c4af2e84ed53ae55bbd69]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/5) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-a85b7f101214dec219ea9878fc3c18a8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/6) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-a85b7f101214dec219ea9878fc3c18a8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/6) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-024701184843bbc67aaa7753190833e1]: Textual amendment: Sch. 2 para. 7 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-024701184843bbc67aaa7753190833e1]: Textual amendment: Sch. 2 para. 7 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-73c98674dd67b2ac1f69d3f2f6c54103]: Modification: Sch. 2 para. 7 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-73c98674dd67b2ac1f69d3f2f6c54103]: Modification: Sch. 2 para. 7 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-6758377da553a5409cc7c2d9563c726b]: Textual amendment: Sch. 2 para. 8 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6758377da553a5409cc7c2d9563c726b]: Textual amendment: Sch. 2 para. 8 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6a81221c91a92d1e86d022eafcc03e5a]: Modification: Sch. 2 para. 8 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-6a81221c91a92d1e86d022eafcc03e5a]: Modification: Sch. 2 para. 8 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-84a17ef0b8a11632212f3aced23e3acd]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/9) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-84a17ef0b8a11632212f3aced23e3acd]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/9) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-1833ba7b6e60e1cecd781462da9a4922]: Textual amendment: Sch. 2 para. 10 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1833ba7b6e60e1cecd781462da9a4922]: Textual amendment: Sch. 2 para. 10 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-252416579e5ab007407d0d7cf5772085]: Modification: Sch. 2 para. 10 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-252416579e5ab007407d0d7cf5772085]: Modification: Sch. 2 para. 10 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-f2c09f583dd735f0c92ea15a3ade79c6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/11) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-f2c09f583dd735f0c92ea15a3ade79c6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/11) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
 
-[^key-f6b32db861f2dbedfe974cc53919ee08]: Textual amendment: Sch. 2 para. 12 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f6b32db861f2dbedfe974cc53919ee08]: Textual amendment: Sch. 2 para. 12 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-916a54958de640ba67a09900d81a8da5]: Modification: Sch. 2 para. 12 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-916a54958de640ba67a09900d81a8da5]: Modification: Sch. 2 para. 12 modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-8ce08e51b0bc594cf4d58c536672fad6]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/13) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)
+[^c-8ce08e51b0bc594cf4d58c536672fad6]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2019/17/schedule/2/paragraph/13) in force at 14.7.2021 by [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/i)

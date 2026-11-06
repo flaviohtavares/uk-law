@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Standards relating to competence and conduct[^key-ad84ab08ca565ef9e0ee5c0cd8570d27][^key-281f26b43e717461af45c3b0071d2141]
+## 21. Standards relating to competence and conduct[^c-ad84ab08ca565ef9e0ee5c0cd8570d27][^c-281f26b43e717461af45c3b0071d2141]
 
 *Extent: E+W*
 
@@ -171,6 +171,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad84ab08ca565ef9e0ee5c0cd8570d27]: Commencement: S. 21 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-ad84ab08ca565ef9e0ee5c0cd8570d27]: Commencement: S. 21 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-281f26b43e717461af45c3b0071d2141]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/36/section/21) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)
+[^c-281f26b43e717461af45c3b0071d2141]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/36/section/21) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)

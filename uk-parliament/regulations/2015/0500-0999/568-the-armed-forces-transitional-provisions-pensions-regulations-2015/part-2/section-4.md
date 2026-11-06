@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of Rule A.1 in Schedule 1 to the AFPS 1975[^key-2b3af7c6497ebc1e045bf8034fae0fd8]
+## 4. Amendment of Rule A.1 in Schedule 1 to the AFPS 1975[^c-2b3af7c6497ebc1e045bf8034fae0fd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ In the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributa
 
 ## Annotations
 
-[^key-2b3af7c6497ebc1e045bf8034fae0fd8]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-2b3af7c6497ebc1e045bf8034fae0fd8]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00008]: Footnote: The rules of the AFPS 1975 in relation to members and former members of the Navy and Royal Marines were restated in Schedule 1 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010 made on 10 February 2010. That Schedule was then revoked and replaced by a revised restatement set out at Schedule 1 to the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2010, which came into force on 3 January 2011. Schedules 1 and 2 were then amended by the Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2012 and Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) (Amendment) Order 2015. Amendments were made to Part E of the Scheme by the Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 ([S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107)) and the Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 ([S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560)), and the Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 ([S.I. 2014/3061](https://www.legislation.gov.uk/uksi/2014/3061)).
 

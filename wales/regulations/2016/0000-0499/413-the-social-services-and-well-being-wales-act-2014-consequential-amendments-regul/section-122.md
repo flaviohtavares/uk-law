@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**122.**[^key-e4e291451cd18f2e0f15dd329a312ab4] In paragraph 61 of Schedule 13 (consequential amendments) omit sub-paragraphs (3) and (4).
+**122.**[^c-e4e291451cd18f2e0f15dd329a312ab4] In paragraph 61 of Schedule 13 (consequential amendments) omit sub-paragraphs (3) and (4).
 
 ## Annotations
 
-[^key-e4e291451cd18f2e0f15dd329a312ab4]: Commencement: Reg. 122 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e4e291451cd18f2e0f15dd329a312ab4]: Commencement: Reg. 122 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

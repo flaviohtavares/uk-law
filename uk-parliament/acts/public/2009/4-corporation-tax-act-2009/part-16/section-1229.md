@@ -43,8 +43,8 @@ For cases involving an absence of accounts see also section 1231.
 - (a) the reversal amount is apportioned between any accounting periods that fall within the period of the credit, and
 - (b) paragraphs (a) and (b) of subsection (3) are applied to any amount that is apportioned to an accounting period.
 
-(6) An apportionment under subsection (5) must be made in accordance with section 1172 of CTA 2010[^key-d4cbb3ebc5094deb2d0d0af17bc9b8a9] (time basis) or, if it appears that that method would work unreasonably or unjustly, on a just and reasonable basis.
+(6) An apportionment under subsection (5) must be made in accordance with section 1172 of CTA 2010[^c-d4cbb3ebc5094deb2d0d0af17bc9b8a9] (time basis) or, if it appears that that method would work unreasonably or unjustly, on a just and reasonable basis.
 
 ## Annotations
 
-[^key-d4cbb3ebc5094deb2d0d0af17bc9b8a9]: Textual amendment: Words in s. 1229(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 688](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/688) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d4cbb3ebc5094deb2d0d0af17bc9b8a9]: Textual amendment: Words in s. 1229(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 688](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/688) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

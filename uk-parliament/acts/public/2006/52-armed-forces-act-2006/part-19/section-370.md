@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 370. Civilians subject to service discipline[^key-552c1e237f3795376a5929b8b7507d49][^key-4d1aaa2745948ef152f79a7c1b80e969]
+## 370. Civilians subject to service discipline[^c-552c1e237f3795376a5929b8b7507d49][^c-4d1aaa2745948ef152f79a7c1b80e969]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-552c1e237f3795376a5929b8b7507d49]: Commencement: S. 370 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-552c1e237f3795376a5929b8b7507d49]: Commencement: S. 370 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4d1aaa2745948ef152f79a7c1b80e969]: Commencement: S. 370 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4d1aaa2745948ef152f79a7c1b80e969]: Commencement: S. 370 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

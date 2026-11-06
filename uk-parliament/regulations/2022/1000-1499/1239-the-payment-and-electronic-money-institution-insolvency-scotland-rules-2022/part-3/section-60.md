@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Correspondence instead of meetings[^key-fcab73ae9e52de9e56909c9c5cb860f7]
+## 60. Correspondence instead of meetings[^c-fcab73ae9e52de9e56909c9c5cb860f7]
 
 *Extent: S*
 
@@ -52,7 +52,7 @@ summary: ''
 
 (10) Customers whose relevant funds claims amount to at least ten per cent of the total relevant funds claims may, within five business days of the date of issue of the notice, require the administrator to call a meeting of customers and creditors (if relevant) to consider the resolution.
 
-(11) Contributories whose claims represent at least ten per cent of the total voting rights of all contributories having the right to vote at a[^key-f848a1a40016e922d644f43e002ee1ac] meeting of contributories may, within five business days of the date of issue of the notice, require the administrator to call a meeting of contributories to consider the resolution.
+(11) Contributories whose claims represent at least ten per cent of the total voting rights of all contributories having the right to vote at a[^c-f848a1a40016e922d644f43e002ee1ac] meeting of contributories may, within five business days of the date of issue of the notice, require the administrator to call a meeting of contributories to consider the resolution.
 
 (12) If the administrator’s proposed resolution is rejected by the creditors or by the customers pursuant to this rule, the administrator may call a meeting of creditors, customers or creditors and customers, as the case may be.
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fcab73ae9e52de9e56909c9c5cb860f7]: Commencement: Rule 60 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-fcab73ae9e52de9e56909c9c5cb860f7]: Commencement: Rule 60 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-f848a1a40016e922d644f43e002ee1ac]: Textual amendment: Words in [rule 60(11)](https://www.legislation.gov.uk/uksi/2022/1239/rule/60/11) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(7)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/7)
+[^c-f848a1a40016e922d644f43e002ee1ac]: Textual amendment: Words in [rule 60(11)](https://www.legislation.gov.uk/uksi/2022/1239/rule/60/11) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(7)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/7)

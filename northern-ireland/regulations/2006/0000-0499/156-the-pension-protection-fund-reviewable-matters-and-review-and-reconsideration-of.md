@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 188(2)(a) and (4)(a) and 189(2) and (5)(a) of the Pensions (Northern Ireland) Order 2005[^f00001].
 
-## 1. Citation and commencement[^key-1aaa310860fc60a7cb03e7e82523da8a]
+## 1. Citation and commencement[^c-1aaa310860fc60a7cb03e7e82523da8a]
 
 These Regulations may be cited as the Pension Protection Fund (Reviewable Matters and Review and Reconsideration of Reviewable Matters) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006.
 
-## 2. Amendment of Schedule 8 to the Pensions (Northern Ireland) Order[^key-34048517bbb2bcb051aee04143e1c79a]
+## 2. Amendment of Schedule 8 to the Pensions (Northern Ireland) Order[^c-34048517bbb2bcb051aee04143e1c79a]
 
 In Schedule 8 to the Pensions (Northern Ireland) Order 2005 (reviewable matters)—
 
@@ -73,11 +73,11 @@ In Schedule 8 to the Pensions (Northern Ireland) Order 2005 (reviewable matters)
 
   .
 
-## 3. Amendment of the Pension Protection Fund (Reviewable Matters) Regulations[^key-8642bc8515f7f387838d8b48398938f4]
+## 3. Amendment of the Pension Protection Fund (Reviewable Matters) Regulations[^c-8642bc8515f7f387838d8b48398938f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^key-1d794fd59be035a4463f95a7e3ab2686]
+## 4. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^c-1d794fd59be035a4463f95a7e3ab2686]
 
 (1) The Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations (Northern Ireland) 2005[^f00007] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -146,9 +146,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Part III is modified in its application to partially guaranteed schemes, hybrid schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55), [84](https://www.legislation.gov.uk/nisr/2005/84) and [91](https://www.legislation.gov.uk/nisr/2005/91) (as amended by [S.R. 2005 Nos. 194](https://www.legislation.gov.uk/nisr/2005/194) and [357](https://www.legislation.gov.uk/nisr/2005/357))
 
-[^key-1aaa310860fc60a7cb03e7e82523da8a]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/156/regulation/1)
+[^c-1aaa310860fc60a7cb03e7e82523da8a]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/156/regulation/1)
 
-[^key-34048517bbb2bcb051aee04143e1c79a]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/156/regulation/1)
+[^c-34048517bbb2bcb051aee04143e1c79a]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/156/regulation/1)
 
 [^f00002]: Footnote: Paragraph 3A was inserted by regulation 4(a) of [S.R. 2005 No. 127](https://www.legislation.gov.uk/nisr/2005/127)
 
@@ -158,9 +158,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00005]: Footnote: Paragraph 17A was inserted by regulation 4(b) of [S.R. 2005 No. 127](https://www.legislation.gov.uk/nisr/2005/127)
 
-[^key-8642bc8515f7f387838d8b48398938f4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/156/regulation/3) revoked (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2007/193/regulation/6/c)
+[^c-8642bc8515f7f387838d8b48398938f4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/156/regulation/3) revoked (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2007/193/regulation/6/c)
 
-[^key-1d794fd59be035a4463f95a7e3ab2686]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/156/regulation/1)
+[^c-1d794fd59be035a4463f95a7e3ab2686]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/156/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2005 No. 138](https://www.legislation.gov.uk/nisr/2005/138), to which there are amendments not relevant to these Regulations
 

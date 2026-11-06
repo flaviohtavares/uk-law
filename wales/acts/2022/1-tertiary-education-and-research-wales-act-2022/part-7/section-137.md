@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Instruments of government of higher education corporations in Wales[^key-49dd3184f2f95c1f7727500ec8d1a1a2][^key-018c50be02059eb0b18ff3f718980179]
+## 137. Instruments of government of higher education corporations in Wales[^c-49dd3184f2f95c1f7727500ec8d1a1a2][^c-018c50be02059eb0b18ff3f718980179]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49dd3184f2f95c1f7727500ec8d1a1a2]: Commencement: S. 137 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
+[^c-49dd3184f2f95c1f7727500ec8d1a1a2]: Commencement: S. 137 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
 
-[^key-018c50be02059eb0b18ff3f718980179]: Commencement: [S. 137](https://www.legislation.gov.uk/asc/2022/1/section/137) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(tt)](https://www.legislation.gov.uk/wsi/2026/62/article/2/tt)
+[^c-018c50be02059eb0b18ff3f718980179]: Commencement: [S. 137](https://www.legislation.gov.uk/asc/2022/1/section/137) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(tt)](https://www.legislation.gov.uk/wsi/2026/62/article/2/tt)

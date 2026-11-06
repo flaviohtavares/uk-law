@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Determination of procedure for certain proceedings[^key-44374a8f9eae6dfb4069b4f2cdafadfc][^key-b6a93dd802f44bf74d21c1e93a822bd0]
+## 196. Determination of procedure for certain proceedings[^c-44374a8f9eae6dfb4069b4f2cdafadfc][^c-b6a93dd802f44bf74d21c1e93a822bd0]
 
 *Extent: E+W+S*
 
@@ -141,6 +141,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44374a8f9eae6dfb4069b4f2cdafadfc]: Commencement: S. 196 in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/400/article/6/2))
+[^c-44374a8f9eae6dfb4069b4f2cdafadfc]: Commencement: S. 196 in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/400/article/3/j) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/400/article/6/2))
 
-[^key-b6a93dd802f44bf74d21c1e93a822bd0]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2008/29/section/196) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/a)
+[^c-b6a93dd802f44bf74d21c1e93a822bd0]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2008/29/section/196) in force at 25.4.2024 for specified purposes by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/a)

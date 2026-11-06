@@ -35,7 +35,7 @@ Devolution, Scotland
 
 Representation Of The People
 
-The Scottish Parliament (Regional Returning Officers) Order 2011 (revoked)[^key-b02181ec5bfbb176865825ae0a382d2b]
+The Scottish Parliament (Regional Returning Officers) Order 2011 (revoked)[^c-b02181ec5bfbb176865825ae0a382d2b]
 
 Made
 
@@ -45,31 +45,31 @@ Coming into force
 
 2nd March 2011
 
-[^key-b02181ec5bfbb176865825ae0a382d2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b02181ec5bfbb176865825ae0a382d2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b02181ec5bfbb176865825ae0a382d2b]
+## 1. Citation and commencement[^c-b02181ec5bfbb176865825ae0a382d2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b02181ec5bfbb176865825ae0a382d2b]
+## 2. Interpretation[^c-b02181ec5bfbb176865825ae0a382d2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regional returning officers[^key-b02181ec5bfbb176865825ae0a382d2b]
+## 3. Regional returning officers[^c-b02181ec5bfbb176865825ae0a382d2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-b02181ec5bfbb176865825ae0a382d2b]
+## 4. Revocation[^c-b02181ec5bfbb176865825ae0a382d2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b02181ec5bfbb176865825ae0a382d2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b02181ec5bfbb176865825ae0a382d2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REGIONAL RETURNING OFFICERS FOR THE SCOTTISH PARLIAMENT REGIONS[^key-b02181ec5bfbb176865825ae0a382d2b]
+## SCHEDULE — REGIONAL RETURNING OFFICERS FOR THE SCOTTISH PARLIAMENT REGIONS[^c-b02181ec5bfbb176865825ae0a382d2b]
 
 Article 3
 
@@ -77,8 +77,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-b02181ec5bfbb176865825ae0a382d2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b02181ec5bfbb176865825ae0a382d2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b02181ec5bfbb176865825ae0a382d2b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/576) revoked (30.6.2015) by [The Scottish Parliament (Regional Returning Officers) (Revocation) Order 2015 (S.I. 2015/743)](https://www.legislation.gov.uk/uksi/2015/743), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/743/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/743/article/2/2))
+[^c-b02181ec5bfbb176865825ae0a382d2b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/576) revoked (30.6.2015) by [The Scottish Parliament (Regional Returning Officers) (Revocation) Order 2015 (S.I. 2015/743)](https://www.legislation.gov.uk/uksi/2015/743), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/743/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/743/article/2/2))

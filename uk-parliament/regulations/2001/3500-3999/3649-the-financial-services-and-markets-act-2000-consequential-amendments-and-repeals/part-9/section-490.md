@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 490. Revocation of spent provision[^key-b59dab4184ae7f0edcbd76a8c8d66062]
+## 490. Revocation of spent provision[^c-b59dab4184ae7f0edcbd76a8c8d66062]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 1 to the Contracting Out (Functions in relation to the Registration 
 
 ## Annotations
 
-[^key-b59dab4184ae7f0edcbd76a8c8d66062]: Commencement: Art. 490 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b59dab4184ae7f0edcbd76a8c8d66062]: Commencement: Art. 490 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

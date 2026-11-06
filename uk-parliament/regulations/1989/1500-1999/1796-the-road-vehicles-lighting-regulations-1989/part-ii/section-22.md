@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Additional side marker lamps[^key-fad52cd7ba443585d4ca5e570dfde1c5]
+## 22. Additional side marker lamps[^c-fad52cd7ba443585d4ca5e570dfde1c5]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fad52cd7ba443585d4ca5e570dfde1c5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1989/1796/regulation/22) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-fad52cd7ba443585d4ca5e570dfde1c5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1989/1796/regulation/22) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Renewal of licence[^key-cf328b32318f1cef581609855a8acfb1]
+## 20. Renewal of licence[^c-cf328b32318f1cef581609855a8acfb1]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf328b32318f1cef581609855a8acfb1]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/22/section/20) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-cf328b32318f1cef581609855a8acfb1]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/22/section/20) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

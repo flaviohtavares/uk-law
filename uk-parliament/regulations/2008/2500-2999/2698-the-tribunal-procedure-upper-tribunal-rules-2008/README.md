@@ -78,7 +78,7 @@ The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of 
 - [Section 20A — Procedure for applying for a stay of a decision pending an appeal](part-2/section-20a.md)
 - [Section 20B — Application for an authorised costs order](part-2/section-20b.md)
 
-### PART 3 — Procedure for cases in the Upper Tribunal[^key-0ce62ba064f2c0bed0319ec1d82d4b84]
+### PART 3 — Procedure for cases in the Upper Tribunal[^c-0ce62ba064f2c0bed0319ec1d82d4b84]
 
 - [Section 21 — Application to the Upper Tribunal for permission to appeal](part-3/section-21.md)
 - [Section 22 — Decision in relation to permission to appeal](part-3/section-22.md)
@@ -182,4 +182,4 @@ Part 7 deals with correcting, setting aside, reviewing and appealing against dec
 
 [^c1943649]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-0ce62ba064f2c0bed0319ec1d82d4b84]: Textual amendment: Words in Pt. 3 substituted (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [13](https://www.legislation.gov.uk/uksi/2009/274/article/13)
+[^c-0ce62ba064f2c0bed0319ec1d82d4b84]: Textual amendment: Words in Pt. 3 substituted (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [13](https://www.legislation.gov.uk/uksi/2009/274/article/13)

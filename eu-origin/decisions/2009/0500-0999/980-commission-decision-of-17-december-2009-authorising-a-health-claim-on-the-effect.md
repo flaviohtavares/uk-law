@@ -98,9 +98,9 @@ The Member States have been consulted,
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** The health claim set out in the Annex to this Decision shall be included in the Annex to Commission Regulation (EU) 432/2012[^key-b1ae355ed691c96c5a6466ec5eedd14b].
+**Article 1.** The health claim set out in the Annex to this Decision shall be included in the Annex to Commission Regulation (EU) 432/2012[^c-b1ae355ed691c96c5a6466ec5eedd14b].
 
-**Article 2.**[^key-1736964ee8a09fedffe1b79e4ab3a7f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1736964ee8a09fedffe1b79e4ab3a7f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 3.** This Decision is addressed to Provexis Natural Products Ltd, Thames Court, 1 Victoria Street, Windsor, Berkshire, SL4 1YB, United Kingdom.
 
@@ -118,8 +118,8 @@ HAS ADOPTED THIS DECISION:
 
 [^f00003]: Footnote: O’Kennedy, N., Crosbie, L., Whelam, S., Luther, V., Horgan, G., Broom, J.I., Webb, D.J., Duttaroy, A.K., *Effects of tomato extract on platelet function: a double-blinded crossover study in healthy humans*, The American Journal of Clinical Nutrition, 2006, Vol. 84, pp. 561-569 and O’Kennedy N., Crosbie, L., van Lieshout, M., Broom, J.I., Webb, D.J., Duttaroy, A.K., *Effects of antiplatelet components of tomato extract on platelet function* in vitro *and* ex vivo: *a time-course cannulation study in healthy humans*. The American Journal of Clinical Nutrition, 2006, Vol. 84, pp. 570-579.
 
-[^key-b1ae355ed691c96c5a6466ec5eedd14b]: Textual amendment: Words in Art. 1 substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/7/2)
+[^c-b1ae355ed691c96c5a6466ec5eedd14b]: Textual amendment: Words in Art. 1 substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/7/2)
 
-[^key-1736964ee8a09fedffe1b79e4ab3a7f9]: Textual amendment: Art. 2 omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/7/3)
+[^c-1736964ee8a09fedffe1b79e4ab3a7f9]: Textual amendment: Art. 2 omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/7/3)
 
 [^c000001]: Textual amendment: Substituted by [Commission Decision of 13 December 2010 amending Decision 2009/980/EU as regards the conditions of use of an authorised health claim on the effect of water-soluble tomato concentrate on platelet aggregation (notified under document C(2010) 8828) (Only the English text is authentic) (Text with EEA relevance) (2010/770/EU)](https://www.legislation.gov.uk/eudn/2010/770).

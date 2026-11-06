@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 194. Further ground of objection to purchase notice[^key-8d6fa28ef2b5f8fab6d3d98d0e347c14][^key-21cac3e3c15a5125c4b873432f09137e][^key-9a5a21b6c5c0f1985d025a3cc575a083][^key-9a5a21b6c5c0f1985d025a3cc575a083]
+## 194. Further ground of objection to purchase notice[^c-8d6fa28ef2b5f8fab6d3d98d0e347c14][^c-21cac3e3c15a5125c4b873432f09137e][^c-9a5a21b6c5c0f1985d025a3cc575a083][^c-9a5a21b6c5c0f1985d025a3cc575a083]
 
 *Extent: N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8d6fa28ef2b5f8fab6d3d98d0e347c14]: Commencement: S. 194 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-8d6fa28ef2b5f8fab6d3d98d0e347c14]: Commencement: S. 194 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-21cac3e3c15a5125c4b873432f09137e]: Commencement: S. 194 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-21cac3e3c15a5125c4b873432f09137e]: Commencement: S. 194 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-9a5a21b6c5c0f1985d025a3cc575a083]: Modification: Pt. 7 (except s. 192) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)
+[^c-9a5a21b6c5c0f1985d025a3cc575a083]: Modification: Pt. 7 (except s. 192) applied with modification(s) (1.4.2015) by [The Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 2015 (S.R. 2015/107)](https://www.legislation.gov.uk/nisr/2015/107), [regs. 1](https://www.legislation.gov.uk/nisr/2015/107/regulation/1), [11](https://www.legislation.gov.uk/nisr/2015/107/regulation/11)

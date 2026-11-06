@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Calculating the amount of a transfer value or club transfer value[^key-76579296c7dd887535afc87dc5492dd1]
+## 146. Calculating the amount of a transfer value or club transfer value[^c-76579296c7dd887535afc87dc5492dd1]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76579296c7dd887535afc87dc5492dd1]: Commencement: [Reg. 146](https://www.legislation.gov.uk/nisr/2014/290/regulation/146) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-76579296c7dd887535afc87dc5492dd1]: Commencement: [Reg. 146](https://www.legislation.gov.uk/nisr/2014/290/regulation/146) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

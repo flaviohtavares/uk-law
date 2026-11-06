@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 567B. Cases where inheritance tax is paid in respect of pension death benefit[^key-96aa41bc66311708bfb4827994ccb547]
+## 567B. Cases where inheritance tax is paid in respect of pension death benefit[^c-96aa41bc66311708bfb4827994ccb547]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96aa41bc66311708bfb4827994ccb547]: Textual amendment: [S. 567B](https://www.legislation.gov.uk/ukpga/2003/1/section/567B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/3), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-96aa41bc66311708bfb4827994ccb547]: Textual amendment: [S. 567B](https://www.legislation.gov.uk/ukpga/2003/1/section/567B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/3), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

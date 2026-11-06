@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Requirement when disposing of case[^key-d0e05b998789173a79abc208ace48f66]
+## 1. Requirement when disposing of case[^c-d0e05b998789173a79abc208ace48f66]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0e05b998789173a79abc208ace48f66]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/14/section/1) in force at 17.5.2022 for specified purposes by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/3) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/1))
+[^c-d0e05b998789173a79abc208ace48f66]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/14/section/1) in force at 17.5.2022 for specified purposes by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/a)[(3)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/3) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/1))

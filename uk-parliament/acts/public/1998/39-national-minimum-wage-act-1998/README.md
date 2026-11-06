@@ -64,7 +64,7 @@ An Act to make provision for and in connection with a national minimum wage; to 
 - [Section 11A — Extension of time limit to facilitate conciliation before institution of proceedings](section-11a.md)
 - [Section 12 — Employer to provide worker with national minimum wage statement.](section-12.md)
 
-### ...[^key-c79e22135fb08311d76b7b6a72ef3f16]
+### ...[^c-c79e22135fb08311d76b7b6a72ef3f16]
 
 *Extent: E+W+S+N.I.*
 
@@ -208,4 +208,4 @@ SCHEDULES
 
 [^M_C_a7a85909-0722-4b48-ebe1-ae556dc116d3]: Modification: Act applied (with modifications) (1.5.1999) by [S.I. 1999/1128](https://www.legislation.gov.uk/uksi/1999/1128), [art. 2](https://www.legislation.gov.uk/uksi/1999/1128/article/2) (as amended (1.10.2020) by S.I. 2020/779, arts. 1(2), 2)
 
-[^key-c79e22135fb08311d76b7b6a72ef3f16]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/39/section/13) and [cross-heading](https://www.legislation.gov.uk/ukpga/1998/39/crossheading/officers) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/18) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-c79e22135fb08311d76b7b6a72ef3f16]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1998/39/section/13) and [cross-heading](https://www.legislation.gov.uk/ukpga/1998/39/crossheading/officers) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/18) (with [s. 147 Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

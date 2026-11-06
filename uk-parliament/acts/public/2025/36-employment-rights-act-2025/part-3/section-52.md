@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Regulations under section 46 or 48: supplementary[^key-55c2ae7728a974648ff82c67a0ce8b83][^key-b9b0f4b59dc6e56b065165a820f22575]
+## 52. Regulations under section 46 or 48: supplementary[^c-55c2ae7728a974648ff82c67a0ce8b83][^c-b9b0f4b59dc6e56b065165a820f22575]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55c2ae7728a974648ff82c67a0ce8b83]: Commencement: S. 52 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-55c2ae7728a974648ff82c67a0ce8b83]: Commencement: S. 52 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b9b0f4b59dc6e56b065165a820f22575]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/36/section/52) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(22)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/22)
+[^c-b9b0f4b59dc6e56b065165a820f22575]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/36/section/52) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(22)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/22)

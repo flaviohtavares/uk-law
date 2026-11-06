@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Introduction[^key-912372af2be59227041ff60a5c0a612c]
+## 48. Introduction[^c-912372af2be59227041ff60a5c0a612c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 12 of the Act (control over authorised persons) is amended as follows.
 
 ## Annotations
 
-[^key-912372af2be59227041ff60a5c0a612c]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-912372af2be59227041ff60a5c0a612c]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

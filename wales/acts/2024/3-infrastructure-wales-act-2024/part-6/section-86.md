@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Meaning of “decision documents” and “error”[^key-a1dc61d68fff5d42eebb808469507a97][^key-ae014de415e47e4d65b54f4cdf6a0a22]
+## 86. Meaning of “decision documents” and “error”[^c-a1dc61d68fff5d42eebb808469507a97][^c-ae014de415e47e4d65b54f4cdf6a0a22]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1dc61d68fff5d42eebb808469507a97]: Commencement: S. 86 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-a1dc61d68fff5d42eebb808469507a97]: Commencement: S. 86 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-ae014de415e47e4d65b54f4cdf6a0a22]: Commencement: [S. 86](https://www.legislation.gov.uk/asc/2024/3/section/86) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-ae014de415e47e4d65b54f4cdf6a0a22]: Commencement: [S. 86](https://www.legislation.gov.uk/asc/2024/3/section/86) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

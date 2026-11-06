@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Appeals: Northern Ireland[^key-a8143cb4222f5ab095c6224b9e7a82bf]
+## 76. Appeals: Northern Ireland[^c-a8143cb4222f5ab095c6224b9e7a82bf]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8143cb4222f5ab095c6224b9e7a82bf]: Commencement: Reg. 76 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a8143cb4222f5ab095c6224b9e7a82bf]: Commencement: Reg. 76 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

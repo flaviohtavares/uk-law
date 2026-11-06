@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Relevant bodies and Special Health Authorities[^key-f3d106f24db25c84b8a121e64d65f768][^key-00fa0fa9e28c7b5713fc7b6aa1192f50]
+## 102. Relevant bodies and Special Health Authorities[^c-f3d106f24db25c84b8a121e64d65f768][^c-00fa0fa9e28c7b5713fc7b6aa1192f50]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In this Part—
 
 ## Annotations
 
-[^key-f3d106f24db25c84b8a121e64d65f768]: Commencement: S. 102 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f3d106f24db25c84b8a121e64d65f768]: Commencement: S. 102 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-00fa0fa9e28c7b5713fc7b6aa1192f50]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2022/31/section/102) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-00fa0fa9e28c7b5713fc7b6aa1192f50]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2022/31/section/102) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

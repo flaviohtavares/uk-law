@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Matter to which FCA and PRA must have regard when making rules relating to securitisation[^key-43d94434a8b755f93df9357fe941ae60]
+## 8. Matter to which FCA and PRA must have regard when making rules relating to securitisation[^c-43d94434a8b755f93df9357fe941ae60]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-43d94434a8b755f93df9357fe941ae60]: Commencement: Reg. 8 in force at 30.1.2024, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/c)
+[^c-43d94434a8b755f93df9357fe941ae60]: Commencement: Reg. 8 in force at 30.1.2024, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/c)
 
 [^f00030]: Footnote: Inserted by section 31(2) of the Financial Services and Markets Act 2023.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Notice of bail requirement[^key-20dd88863ae19cde9319b2e2ca69b036]
+## 84. Notice of bail requirement[^c-20dd88863ae19cde9319b2e2ca69b036]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20dd88863ae19cde9319b2e2ca69b036]: Textual amendment: [Rules 84-86](https://www.legislation.gov.uk/uksi/1981/552/rule/84) (previously omitted by virtue of [S.I. 2021/626](https://www.legislation.gov.uk/uksi/2021/626), [rule 2(12)(l)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/l)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/12)
+[^c-20dd88863ae19cde9319b2e2ca69b036]: Textual amendment: [Rules 84-86](https://www.legislation.gov.uk/uksi/1981/552/rule/84) (previously omitted by virtue of [S.I. 2021/626](https://www.legislation.gov.uk/uksi/2021/626), [rule 2(12)(l)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/l)) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/12)

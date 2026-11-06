@@ -34,7 +34,7 @@ Exiting The European Union
 
 Merchant Shipping
 
-The Merchant Shipping (Standards of Training, Certification and Watchkeeping) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-3066baeee2e0078968a0ab0e5c9ea92b]
+The Merchant Shipping (Standards of Training, Certification and Watchkeeping) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-3066baeee2e0078968a0ab0e5c9ea92b]
 
 Made
 
@@ -42,22 +42,22 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-3066baeee2e0078968a0ab0e5c9ea92b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3066baeee2e0078968a0ab0e5c9ea92b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3066baeee2e0078968a0ab0e5c9ea92b]
+## 1. Citation and commencement[^c-3066baeee2e0078968a0ab0e5c9ea92b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^key-3066baeee2e0078968a0ab0e5c9ea92b]
+## 2. Amendment of the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^c-3066baeee2e0078968a0ab0e5c9ea92b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3066baeee2e0078968a0ab0e5c9ea92b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3066baeee2e0078968a0ab0e5c9ea92b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3066baeee2e0078968a0ab0e5c9ea92b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3066baeee2e0078968a0ab0e5c9ea92b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3066baeee2e0078968a0ab0e5c9ea92b]: Textual amendment: Regulations revoked (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/2)
+[^c-3066baeee2e0078968a0ab0e5c9ea92b]: Textual amendment: Regulations revoked (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/2)

@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**5.**[^key-c21204c2c72334e983c15dba37e2bf50] In rule 6—
+**5.**[^c-c21204c2c72334e983c15dba37e2bf50] In rule 6—
 
 - (a) in paragraph (2) omit “or 11”; and
 - (b) omit paragraph (3)(a) and (b).
 
 ## Annotations
 
-[^key-c21204c2c72334e983c15dba37e2bf50]: Commencement: Art. 5 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-c21204c2c72334e983c15dba37e2bf50]: Commencement: Art. 5 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

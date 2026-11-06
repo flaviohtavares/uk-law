@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Crown application[^key-0c5ceff9e7e52413b0ab0fbbb4755d90]
+## 164. Crown application[^c-0c5ceff9e7e52413b0ab0fbbb4755d90]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) Part 2;
 - (b) Part 4 except sections 99, 100 and 103 (compliance notices);
-- (c) sections 116 to 124[^key-fadf78d3aafdcd8adfa01e2bde48bbc3] and Schedule 8 (remediation of certain defects);
+- (c) sections 116 to 124[^c-fadf78d3aafdcd8adfa01e2bde48bbc3] and Schedule 8 (remediation of certain defects);
 - (d) sections 136 to 142 and Schedule 9 (new homes ombudsman scheme);
 - (e) sections 144 and 145 (new build home warranties);
 - (f) section 161.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5ceff9e7e52413b0ab0fbbb4755d90]: Commencement: S. 164 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-0c5ceff9e7e52413b0ab0fbbb4755d90]: Commencement: S. 164 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-fadf78d3aafdcd8adfa01e2bde48bbc3]: Textual amendment: Word in [s. 164(1)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/164/1/c) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(h)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/h), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-fadf78d3aafdcd8adfa01e2bde48bbc3]: Textual amendment: Word in [s. 164(1)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/164/1/c) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(h)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/h), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)

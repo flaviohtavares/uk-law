@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Meaning of “consumer savings scheme contract”[^key-829daeca8eaad6261f66991fc002f2a7][^key-5027b27efed9951890ff6180adecd788]
+## 282. Meaning of “consumer savings scheme contract”[^c-829daeca8eaad6261f66991fc002f2a7][^c-5027b27efed9951890ff6180adecd788]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-829daeca8eaad6261f66991fc002f2a7]: Commencement: S. 282 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-829daeca8eaad6261f66991fc002f2a7]: Commencement: S. 282 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5027b27efed9951890ff6180adecd788]: Commencement: [S. 282](https://www.legislation.gov.uk/ukpga/2024/13/section/282) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-5027b27efed9951890ff6180adecd788]: Commencement: [S. 282](https://www.legislation.gov.uk/ukpga/2024/13/section/282) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

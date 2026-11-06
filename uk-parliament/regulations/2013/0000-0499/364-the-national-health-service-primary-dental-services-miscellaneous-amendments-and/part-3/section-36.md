@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Insertion of regulation 20B[^key-992d0b320f2f36a9f1ad254268c68f6e]
+## 36. Insertion of regulation 20B[^c-992d0b320f2f36a9f1ad254268c68f6e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-992d0b320f2f36a9f1ad254268c68f6e]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/uksi/2013/364/regulation/36) revoked (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2016/298/regulation/26)
+[^c-992d0b320f2f36a9f1ad254268c68f6e]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/uksi/2013/364/regulation/36) revoked (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2016/298/regulation/26)

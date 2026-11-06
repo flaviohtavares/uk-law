@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Provision of statistical information to consumers etc[^key-5ca90b924de9667a3588c88b2430cbb0]
+## 45. Provision of statistical information to consumers etc[^c-5ca90b924de9667a3588c88b2430cbb0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca90b924de9667a3588c88b2430cbb0]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2003/37/section/45) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/e) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-5ca90b924de9667a3588c88b2430cbb0]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2003/37/section/45) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/e) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

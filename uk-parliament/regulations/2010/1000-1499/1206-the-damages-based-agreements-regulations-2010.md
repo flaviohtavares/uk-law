@@ -32,7 +32,7 @@ summary: ''
 
 Legal Services, England And Wales
 
-The Damages-Based Agreements Regulations 2010 (revoked)[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+The Damages-Based Agreements Regulations 2010 (revoked)[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 Made
 
@@ -40,40 +40,40 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-703dcb0f52ff9bb1b22191c46369dfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-703dcb0f52ff9bb1b22191c46369dfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+## 1. Citation, commencement, interpretation and application[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Requirements of an agreement[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+## 2. Requirements of an agreement[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Information to be given before an agreement is made[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+## 3. Information to be given before an agreement is made[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Additional causes of action[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+## 4. Additional causes of action[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The payment[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+## 5. The payment[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Terms and conditions of termination[^key-703dcb0f52ff9bb1b22191c46369dfa0]
+## 6. Terms and conditions of termination[^c-703dcb0f52ff9bb1b22191c46369dfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-703dcb0f52ff9bb1b22191c46369dfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-703dcb0f52ff9bb1b22191c46369dfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-703dcb0f52ff9bb1b22191c46369dfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-703dcb0f52ff9bb1b22191c46369dfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-703dcb0f52ff9bb1b22191c46369dfa0]: Textual amendment: Regulations revoked (1.4.2013) by [The Damages Based Agreements Regulations 2013 (S.I. 2013/609)](https://www.legislation.gov.uk/uksi/2013/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/2/1) (with [reg. 1(4)-(6)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/4), [2(2)](https://www.legislation.gov.uk/uksi/2013/609/regulation/2/2))
+[^c-703dcb0f52ff9bb1b22191c46369dfa0]: Textual amendment: Regulations revoked (1.4.2013) by [The Damages Based Agreements Regulations 2013 (S.I. 2013/609)](https://www.legislation.gov.uk/uksi/2013/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/609/regulation/2/1) (with [reg. 1(4)-(6)](https://www.legislation.gov.uk/uksi/2013/609/regulation/1/4), [2(2)](https://www.legislation.gov.uk/uksi/2013/609/regulation/2/2))

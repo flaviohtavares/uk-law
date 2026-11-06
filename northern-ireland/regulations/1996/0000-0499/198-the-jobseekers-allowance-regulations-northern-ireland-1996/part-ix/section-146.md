@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Payments made on account of suspended benefit[^key-8a33c75b1e12fce958e8cc10fbc376c5]
+## 146. Payments made on account of suspended benefit[^c-8a33c75b1e12fce958e8cc10fbc376c5]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ any benefit paid or payable by virtue of regulation 141(5) or 142(3) shall be tr
 
 ## Annotations
 
-[^key-8a33c75b1e12fce958e8cc10fbc376c5]: Commencement: Reg. 146 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8a33c75b1e12fce958e8cc10fbc376c5]: Commencement: Reg. 146 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Supply of trailer registration information[^key-ea4a38b1fcc2ed99e4719c9afbdf1844][^key-2b41f924a172efa59413780cba9cdd7b]
+## 33. Supply of trailer registration information[^c-ea4a38b1fcc2ed99e4719c9afbdf1844][^c-2b41f924a172efa59413780cba9cdd7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea4a38b1fcc2ed99e4719c9afbdf1844]: Commencement: S. 33 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-ea4a38b1fcc2ed99e4719c9afbdf1844]: Commencement: S. 33 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-2b41f924a172efa59413780cba9cdd7b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/31/section/33) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)
+[^c-2b41f924a172efa59413780cba9cdd7b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/31/section/33) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Recovery of legal costs etc through service charge[^key-ec09e3d2966a5b33fd51956f6023991f]
+## 117. Recovery of legal costs etc through service charge[^c-ec09e3d2966a5b33fd51956f6023991f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec09e3d2966a5b33fd51956f6023991f]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2024/22/section/117) in force at 24.7.2024, see [s. 124(2)(b)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/b)
+[^c-ec09e3d2966a5b33fd51956f6023991f]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2024/22/section/117) in force at 24.7.2024, see [s. 124(2)(b)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/b)

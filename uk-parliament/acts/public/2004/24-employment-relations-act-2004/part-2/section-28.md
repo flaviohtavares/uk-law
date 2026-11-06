@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Dismissal after end of protected period[^key-e50d52b1335c8b4dac7fde7ac53f2335]
+## 28. Dismissal after end of protected period[^c-e50d52b1335c8b4dac7fde7ac53f2335]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50d52b1335c8b4dac7fde7ac53f2335]: Textual amendment: S. 28 omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 77(5)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/77/5/c), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))
+[^c-e50d52b1335c8b4dac7fde7ac53f2335]: Textual amendment: S. 28 omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 77(5)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/77/5/c), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))

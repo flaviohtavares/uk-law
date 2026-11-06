@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — DESIGNATION OF HIGHWAYS[^key-f1279334106248211c988041f1e66700]
+## SCHEDULE 4 — DESIGNATION OF HIGHWAYS[^c-f1279334106248211c988041f1e66700]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Article 18
 
 ## Annotations
 
-[^key-f1279334106248211c988041f1e66700]: Commencement: Sch. 4 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-f1279334106248211c988041f1e66700]: Commencement: Sch. 4 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

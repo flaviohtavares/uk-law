@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Protection for sub-tenants[^key-22bb4a789d1cca2359c81cf5fe49b7a6]
+## 46. Protection for sub-tenants[^c-22bb4a789d1cca2359c81cf5fe49b7a6]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22bb4a789d1cca2359c81cf5fe49b7a6]: Commencement: S. 46 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-22bb4a789d1cca2359c81cf5fe49b7a6]: Commencement: S. 46 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

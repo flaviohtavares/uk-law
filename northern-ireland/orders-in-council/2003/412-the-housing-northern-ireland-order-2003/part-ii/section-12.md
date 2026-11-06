@@ -37,10 +37,10 @@ summary: ''
 
 (4) Where in accordance with paragraph (3) a tenancy ceases to be an introductory tenancy and becomes a secure tenancy, the tenant is not entitled to purchase the dwelling-house under a house sales scheme unless and until the proceedings are finally determined on terms such that he is not required to give up possession of the dwelling-house.
 
-In this paragraph “a house sales scheme” means any scheme for the time being approved by the Department under Article 3 [^key-282ddd1ae7db31fd9641025465ff0776]... of the Order of 1983 [^key-282ddd1ae7db31fd9641025465ff0776]....
+In this paragraph “a house sales scheme” means any scheme for the time being approved by the Department under Article 3 [^c-282ddd1ae7db31fd9641025465ff0776]... of the Order of 1983 [^c-282ddd1ae7db31fd9641025465ff0776]....
 
 (5) For the purposes of this Article proceedings shall be treated as finally determined if they are withdrawn or any appeal is abandoned or the time for appealing expires without an appeal being brought.
 
 ## Annotations
 
-[^key-282ddd1ae7db31fd9641025465ff0776]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/nisi/2003/412/article/12/4) omitted (29.8.2022) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [s. 10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/nia/2020/5/schedule/paragraph/1/a) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))
+[^c-282ddd1ae7db31fd9641025465ff0776]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/nisi/2003/412/article/12/4) omitted (29.8.2022) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [s. 10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/nia/2020/5/schedule/paragraph/1/a) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Joint crime and disorder committees[^key-5ad86926b27c1f8d6afe291215761426]
+## 21. Joint crime and disorder committees[^c-5ad86926b27c1f8d6afe291215761426]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ In section 5 of the Crime and Disorder Act 1998 (c. 37) (authorities responsible
 
 ## Annotations
 
-[^key-5ad86926b27c1f8d6afe291215761426]: Commencement: S. 21 in force at 30.4.2009 for E. by [S.I. 2009/936](https://www.legislation.gov.uk/uksi/2009/936), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/936/article/2/c)
+[^c-5ad86926b27c1f8d6afe291215761426]: Commencement: S. 21 in force at 30.4.2009 for E. by [S.I. 2009/936](https://www.legislation.gov.uk/uksi/2009/936), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/936/article/2/c)

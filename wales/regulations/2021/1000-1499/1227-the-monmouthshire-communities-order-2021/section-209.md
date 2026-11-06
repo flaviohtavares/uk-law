@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 209. Earlswood, Mynyddbach, Newchurch, and Shirenewton — changes in community ward boundaries and consequential changes to electoral wards[^key-82a8ee7df632bc9f5241db2bc26b082e][^key-0c0eba7815d15ba1bcbf054ac4696dcb]
+## 209. Earlswood, Mynyddbach, Newchurch, and Shirenewton — changes in community ward boundaries and consequential changes to electoral wards[^c-82a8ee7df632bc9f5241db2bc26b082e][^c-0c0eba7815d15ba1bcbf054ac4696dcb]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Earlswood ward of the community of Shirenewton shown hatched on 
 
 ## Annotations
 
-[^key-82a8ee7df632bc9f5241db2bc26b082e]: Commencement: Art. 209 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-82a8ee7df632bc9f5241db2bc26b082e]: Commencement: Art. 209 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0c0eba7815d15ba1bcbf054ac4696dcb]: Commencement: [Art. 209](https://www.legislation.gov.uk/wsi/2021/1227/article/209) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0c0eba7815d15ba1bcbf054ac4696dcb]: Commencement: [Art. 209](https://www.legislation.gov.uk/wsi/2021/1227/article/209) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 98. Own funds for investment firms on a consolidated basis[^key-4f16422656dfe2d329abc24217384fa0]
+## Article 98. Own funds for investment firms on a consolidated basis[^c-4f16422656dfe2d329abc24217384fa0]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-4f16422656dfe2d329abc24217384fa0]: Textual amendment: [Art. 98](https://www.legislation.gov.uk/eur/2013/575/article/98) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/20); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))
+[^c-4f16422656dfe2d329abc24217384fa0]: Textual amendment: [Art. 98](https://www.legislation.gov.uk/eur/2013/575/article/98) omitted (1.1.2022) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2021/22/schedule/1/paragraph/20); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/1/b) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2)) (as amended by [S.I. 2021/1163](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2))

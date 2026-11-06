@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety has had regard to relevant advice given by the Food Standards Agency in accordance with Article 47(3) of the Food Safety (Northern Ireland) Order 1991.
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22622401], during the preparation and evaluation of the following Regulations.[^key-b3021ac452209e6f328b1fb878bb73b0]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22622401], during the preparation and evaluation of the following Regulations.[^c-b3021ac452209e6f328b1fb878bb73b0]
 
 ## PART 1 — Introduction
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Honey Regulations (Northern Ireland) 2015 
 
 (2) In these Regulations—
 
-- “[^key-746d46d8101a98f4c7195269360a611c]**baker’s honey**” means honey which is suitable for industrial uses or as an ingredient in other foodstuffs which is then processed and may—
+- “[^c-746d46d8101a98f4c7195269360a611c]**baker’s honey**” means honey which is suitable for industrial uses or as an ingredient in other foodstuffs which is then processed and may—
   - (a) have a foreign taste or odour;
   - (b) have begun to ferment or have fermented;
   - (c) have been overheated; or
@@ -68,7 +68,7 @@ These Regulations may be cited as the Honey Regulations (Northern Ireland) 2015 
 - “**comb honey**” means honey stored by bees in the cells of freshly built broodless combs or thin comb foundation sheets made solely of beeswax and sold in sealed whole combs or sections of such combs;
 - “**drained honey**” means honey obtained by draining de-capped broodless combs;
 - “**extracted honey**” means honey obtained by centrifuging de-capped broodless combs;
-- [^key-dd7955c78762e7c7824c4fbe08e7b785]...
+- [^c-dd7955c78762e7c7824c4fbe08e7b785]...
 - “**honeydew honey**” means honey obtained mainly from excretions of plant sucking insects (*Hemiptera*) on the living part of plants or secretions of living parts of plants;
 - “**pressed honey**” means honey obtained by pressing broodless combs with or without the application of moderate heat not exceeding 45° Celsius.
 
@@ -77,19 +77,19 @@ These Regulations may be cited as the Honey Regulations (Northern Ireland) 2015 
 (1) In these Regulations—
 
 - “**bulk containers**” has the same meaning as in Article 3 of the Honey Directive;
-- “**FIC**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) [^key-751529786613b8f3bd4b06422529d179]... [^c22622411];
-- “**the Honey Directive**” means Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey [^key-38f69ac1c4a1aae2f72b2701661040fd]... [^c22622421];
+- “**FIC**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) [^c-751529786613b8f3bd4b06422529d179]... [^c22622411];
+- “**the Honey Directive**” means Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey [^c-38f69ac1c4a1aae2f72b2701661040fd]... [^c22622421];
 - “**ingredient**” has the meaning given in Article 2(2)(f) of FIC, as read with Article 2(5) of the Honey Directive;
 - “**in trade**” has the same meaning as in the Honey Directive;
 - “**label**” has the meaning given in Article 2(2)(i) of FIC;
 - “**the Order**” means the Food Safety (Northern Ireland) Order 1991;
-- “[^key-d88b83ef2ae60e0035e3d66a7123e833]**packaging**” has the same meaning as in Article 3 of the Honey Directive;
-- “[^key-de0ed760c41367085bb495264198cbbc]**sales documentation**” has the same meaning as in Article 3 of the Honey Directive;
+- “[^c-d88b83ef2ae60e0035e3d66a7123e833]**packaging**” has the same meaning as in Article 3 of the Honey Directive;
+- “[^c-de0ed760c41367085bb495264198cbbc]**sales documentation**” has the same meaning as in Article 3 of the Honey Directive;
 - “**specific quality criteria**” has the same meaning as in the third indented paragraph of paragraph (b) of the second sub-paragraph of point 2 of Article 2 of the Honey Directive.
 
 (2) Any other expression used in both these Regulations and in the Honey Directive has the same meaning in these Regulations as in that Directive.
 
-(3)[^key-564f592379c5c9db712043fd1dbb4c88] The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Assembly.
+(3)[^c-564f592379c5c9db712043fd1dbb4c88] The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Assembly.
 
 ### 4. Limited scope of specified provisions
 
@@ -122,7 +122,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 - (b) comb honey;
 - (c) drained honey;
 - (d) extracted honey;
-- (e)[^key-6715d83d74545aced0fbcfd8bf28bf7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-6715d83d74545aced0fbcfd8bf28bf7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) honeydew honey;
 - (g) honey that contains one or more pieces of comb honey (chunk honey and cut comb in honey);
 - (h) honey that is obtained from the nectar of plants (blossom honey and nectar honey); and
@@ -172,7 +172,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (2) A person must not use the name “pressed honey” in trade as the name of a product if the product is not pressed honey.
 
-### 14. Filtered honey[^key-bcbf26aa53da3fad6c756b37611715cd]
+### 14. Filtered honey[^c-bcbf26aa53da3fad6c756b37611715cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -186,10 +186,10 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (4) A person must not trade in baker's honey unless the words “intended for cooking only” appear on the label of the product in close proximity to the product name.
 
-(5) A person must not trade in baker's honey in bulk containers or packaging[^key-12fcd0eb20c16becc02e3413c31f8544] unless the product name “baker's honey” is clearly indicated—
+(5) A person must not trade in baker's honey in bulk containers or packaging[^c-12fcd0eb20c16becc02e3413c31f8544] unless the product name “baker's honey” is clearly indicated—
 
 - (a) on those containers and packaging ; and
-- (b) on the sales documentation[^key-1d441542864cca6e2be4911aa78e7b94] relating to the product.
+- (b) on the sales documentation[^c-1d441542864cca6e2be4911aa78e7b94] relating to the product.
 
 (6) Where baker's honey is used as an ingredient in a compound foodstuff, the product name “honey” may be used, in trade, in the product name of the compound foodstuff instead of “baker's honey”.
 
@@ -216,7 +216,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 - (e) cut comb in honey;
 - (f) drained honey;
 - (g) extracted honey;
-- (h)[^key-7a2b4477930526916818d4cc248bf5a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-7a2b4477930526916818d4cc248bf5a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) honeydew honey;
 - (j) nectar honey;
 - (k) pressed honey.
@@ -225,7 +225,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 ### 17. Additional labelling requirements
 
-(1)[^key-73354bbf1884ea975568311e2656c616] Subject to paragraphs (1A) and (1B) a person must not trade in honey unless the country of origin where the honey has been harvested is indicated on the label.
+(1)[^c-73354bbf1884ea975568311e2656c616] Subject to paragraphs (1A) and (1B) a person must not trade in honey unless the country of origin where the honey has been harvested is indicated on the label.
 
 (1A) Subject to paragraph (1B) where the honey originates in more than one country, the countries of origin where the honey has been harvested must be indicated on the label—
 
@@ -238,11 +238,11 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 (1D) The particulars indicated in paragraphs (1), (1A), (1B) and (1C) are mandatory particulars in accordance with Article 9 of FIC.
 
-(2) In paragraphs (3) to (5), “**relevant honey**” means all honey except for baker's honey[^key-29bd1f92f9c0e815dda426cd313582c6]....
+(2) In paragraphs (3) to (5), “**relevant honey**” means all honey except for baker's honey[^c-29bd1f92f9c0e815dda426cd313582c6]....
 
-(3) The product name of a relevant honey may be supplemented by information relating to its floral or vegetable origin but a person may not trade in a relevant honey for which such supplemental information is provided unless the product comes wholly or mainly from the indicated source and presents[^key-24d5851a8bf62da087952237dd94099c] the organoleptic, physico-chemical and microscopic characteristics of the indicated origin[^key-a4068518014e7819fe0f5d2698985a10] .
+(3) The product name of a relevant honey may be supplemented by information relating to its floral or vegetable origin but a person may not trade in a relevant honey for which such supplemental information is provided unless the product comes wholly or mainly from the indicated source and presents[^c-24d5851a8bf62da087952237dd94099c] the organoleptic, physico-chemical and microscopic characteristics of the indicated origin[^c-a4068518014e7819fe0f5d2698985a10] .
 
-(4) The product name of a relevant honey may be supplemented by information relating to its regional, territorial or topographical origin but a person may not trade in a relevant honey for which such supplemental information is provided unless the product comes entirely from the indicated source[^key-aacadfe74c4d65e04f1b9943d5454ffb] .
+(4) The product name of a relevant honey may be supplemented by information relating to its regional, territorial or topographical origin but a person may not trade in a relevant honey for which such supplemental information is provided unless the product comes entirely from the indicated source[^c-aacadfe74c4d65e04f1b9943d5454ffb] .
 
 (5) The product name of a relevant honey may be supplemented by information relating to its specific quality criteria.
 
@@ -319,7 +319,7 @@ Regulation 16
 
 **10.** No pollen or constituent particular to honey may be removed except where this is unavoidable in the removal of foreign inorganic or organic matter.
 
-**11.**[^key-dfb87b5adb9dc968da00cfad965db7af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-dfb87b5adb9dc968da00cfad965db7af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** The additional compositional criteria set out in the following table apply—
 
@@ -426,45 +426,45 @@ Regulation 22 makes a transitional provision in respect of food placed on the ma
 
 [^c22622401]: Marginal citation: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L189, 27.6.2014, p 1)
 
-[^key-b3021ac452209e6f328b1fb878bb73b0]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2015/261) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-b3021ac452209e6f328b1fb878bb73b0]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2015/261) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-746d46d8101a98f4c7195269360a611c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/261/regulation/2/2) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-746d46d8101a98f4c7195269360a611c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/261/regulation/2/2) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/2/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-dd7955c78762e7c7824c4fbe08e7b785]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/261/regulation/2/2) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-dd7955c78762e7c7824c4fbe08e7b785]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2015/261/regulation/2/2) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/2/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-751529786613b8f3bd4b06422529d179]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-751529786613b8f3bd4b06422529d179]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c22622411]: Marginal citation: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7)
 
-[^key-38f69ac1c4a1aae2f72b2701661040fd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-38f69ac1c4a1aae2f72b2701661040fd]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c22622421]: Marginal citation: OJ No L 10, 12.1.2002, p 47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p 1)
 
-[^key-d88b83ef2ae60e0035e3d66a7123e833]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-d88b83ef2ae60e0035e3d66a7123e833]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-de0ed760c41367085bb495264198cbbc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/iv) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-de0ed760c41367085bb495264198cbbc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/1) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/a/iv) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-564f592379c5c9db712043fd1dbb4c88]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/3) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-564f592379c5c9db712043fd1dbb4c88]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2015/261/regulation/3/3) inserted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/3/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-6715d83d74545aced0fbcfd8bf28bf7b]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/nisr/2015/261/regulation/6/2/e) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/4) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-6715d83d74545aced0fbcfd8bf28bf7b]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/nisr/2015/261/regulation/6/2/e) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/4) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-bcbf26aa53da3fad6c756b37611715cd]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/261/regulation/14) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-bcbf26aa53da3fad6c756b37611715cd]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/261/regulation/14) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/5) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-12fcd0eb20c16becc02e3413c31f8544]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2015/261/regulation/15) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/6/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-12fcd0eb20c16becc02e3413c31f8544]: Textual amendment: Word in [reg. 15](https://www.legislation.gov.uk/nisr/2015/261/regulation/15) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/6/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-1d441542864cca6e2be4911aa78e7b94]: Textual amendment: Words in [reg. 15(5)(b)](https://www.legislation.gov.uk/nisr/2015/261/regulation/15/5/b) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/6/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-1d441542864cca6e2be4911aa78e7b94]: Textual amendment: Words in [reg. 15(5)(b)](https://www.legislation.gov.uk/nisr/2015/261/regulation/15/5/b) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/6/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-7a2b4477930526916818d4cc248bf5a3]: Textual amendment: [Reg. 16(5)(h)](https://www.legislation.gov.uk/nisr/2015/261/regulation/16/5/h) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/7) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-7a2b4477930526916818d4cc248bf5a3]: Textual amendment: [Reg. 16(5)(h)](https://www.legislation.gov.uk/nisr/2015/261/regulation/16/5/h) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/7) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-73354bbf1884ea975568311e2656c616]: Textual amendment: [Reg. 17(1)-(1D)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/1) substituted for [reg. 17(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/1) (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-73354bbf1884ea975568311e2656c616]: Textual amendment: [Reg. 17(1)-(1D)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/1) substituted for [reg. 17(1)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/1) (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/a) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-29bd1f92f9c0e815dda426cd313582c6]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/2) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-29bd1f92f9c0e815dda426cd313582c6]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/2) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/b) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-24d5851a8bf62da087952237dd94099c]: Textual amendment: Word in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/3) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(c)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/c/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-24d5851a8bf62da087952237dd94099c]: Textual amendment: Word in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/3) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(c)(i)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/c/i) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-a4068518014e7819fe0f5d2698985a10]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/3) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/c/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-a4068518014e7819fe0f5d2698985a10]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/3) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/c/ii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
-[^key-aacadfe74c4d65e04f1b9943d5454ffb]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/4) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(c)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/c/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-aacadfe74c4d65e04f1b9943d5454ffb]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/nisr/2015/261/regulation/17/4) substituted (14.6.2026) by [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(8)(c)(iii)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/8/c/iii) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
 
 [^c22622431]: Marginal citation: S.R. [2003 No. 383](https://www.legislation.gov.uk/ukcm/2003/383), amended by S.R. [2005 No. 385](https://www.legislation.gov.uk/ukcm/2005/385), S.R. [2008 No.126](https://www.legislation.gov.uk/ukcm/2008/126) and S.R. [2014 No. 223](https://www.legislation.gov.uk/ukcm/2014/223)
 
@@ -474,4 +474,4 @@ Regulation 22 makes a transitional provision in respect of food placed on the ma
 
 [^c22622461]: Marginal citation: S.R. [2014 No. 223](https://www.legislation.gov.uk/ukcm/2014/223)
 
-[^key-dfb87b5adb9dc968da00cfad965db7af]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2015/261/schedule/1/paragraph/11) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/9) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))
+[^c-dfb87b5adb9dc968da00cfad965db7af]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2015/261/schedule/1/paragraph/11) omitted (14.6.2026) by virtue of [The Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/5)](https://www.legislation.gov.uk/nisr/2026/5), [regs. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2026/5/regulation/3/9) (with [reg. 7(1)](https://www.legislation.gov.uk/nisr/2026/5/regulation/7/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Long duration electricity storage[^key-e6bde2532e81e59b301968f20f47361b]
+## 26. Long duration electricity storage[^c-e6bde2532e81e59b301968f20f47361b]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ In the Electricity Act 1989, after [section 10O](https://www.legislation.gov.uk/
 
 ## Annotations
 
-[^key-e6bde2532e81e59b301968f20f47361b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/34/section/26) in force at 18.2.2026, see [s. 118(1)(m)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/m)
+[^c-e6bde2532e81e59b301968f20f47361b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2025/34/section/26) in force at 18.2.2026, see [s. 118(1)(m)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/m)

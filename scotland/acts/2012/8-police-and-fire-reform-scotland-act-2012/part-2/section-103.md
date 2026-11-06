@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Fire safety: enforcement[^key-535ed93cd05fb7a1986d9463135b9504]
+## 103. Fire safety: enforcement[^c-535ed93cd05fb7a1986d9463135b9504]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-535ed93cd05fb7a1986d9463135b9504]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2012/8/section/103) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-535ed93cd05fb7a1986d9463135b9504]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2012/8/section/103) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

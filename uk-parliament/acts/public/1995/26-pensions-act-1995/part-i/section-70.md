@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Section 69: supplementary.[^key-4a5d8140b4a27e898ea5967ab04aa4d2]
+## 70. Section 69: supplementary.[^c-4a5d8140b4a27e898ea5967ab04aa4d2]
 
 *Extent: E+W+S*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (2) The extent of the Authority’s powers to make such an order is not limited, in relation to any purposes for which they are exercisable, to the minimum necessary to achieve those purposes.
 
-(3)[^key-8ac329c97573493fa33683a258abba21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8ac329c97573493fa33683a258abba21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a5d8140b4a27e898ea5967ab04aa4d2]: Commencement: S. 70 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-4a5d8140b4a27e898ea5967ab04aa4d2]: Commencement: S. 70 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-8ac329c97573493fa33683a258abba21]: Textual amendment: [S. 70(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/70/3) omitted (6.4.2016) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 62](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/62)
+[^c-8ac329c97573493fa33683a258abba21]: Textual amendment: [S. 70(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/70/3) omitted (6.4.2016) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 62](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/62)

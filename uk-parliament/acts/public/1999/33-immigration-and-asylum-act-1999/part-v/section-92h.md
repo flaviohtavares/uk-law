@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92H. Penalties imposed in relation to commission of offence: convictions[^key-d9a96e29162a4c12d747e2407f0b15d0]
+## 92H. Penalties imposed in relation to commission of offence: convictions[^c-d9a96e29162a4c12d747e2407f0b15d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who is required to pay a penalty under a penalty notice given under sec
 
 ## Annotations
 
-[^key-d9a96e29162a4c12d747e2407f0b15d0]: Textual amendment: [Ss. 92C-92H](https://www.legislation.gov.uk/ukpga/1999/33/section/92C) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/9)
+[^c-d9a96e29162a4c12d747e2407f0b15d0]: Textual amendment: [Ss. 92C-92H](https://www.legislation.gov.uk/ukpga/1999/33/section/92C) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/9)

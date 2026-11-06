@@ -29,11 +29,11 @@ Section 104.
 - (a) for enabling the following persons to participate in or acquire pension rights under the scheme on such terms and conditions as may be prescribed, namely—
   - (i) members and former members of existing bodies;
   - (ii) officers and former officers of the Electricity Consumers’ Council; and
-  - (iii) persons (other than successor companies) whose participation in the scheme will not prejudice its registration or[^key-a5466c1ad361c6d93729103468849bf2] approval for the purposes of the relevant enactments, and employees of such persons;
+  - (iii) persons (other than successor companies) whose participation in the scheme will not prejudice its registration or[^c-a5466c1ad361c6d93729103468849bf2] approval for the purposes of the relevant enactments, and employees of such persons;
 - (b) for requiring any persons (including persons not participating in the scheme) to make payments to the trustees of the scheme in such circumstances as may be prescribed;
 - (c) for requiring or enabling any functions exercisable under the scheme by existing bodies to be exercisable by such persons, and in such circumstances, as may be prescribed;
 - (d) for enabling the scheme to be wound up (in whole or in part) in such circumstances as may be prescribed; and
-- (e) for securing that the scheme continues to be registered or[^key-b22631b461f9cfcb71bd6b3a10ec65f7] approved for the purposes of the relevant enactments, notwithstanding the transfers made by this Act and the repeal by this Act of section 54 of the [^c4122631]Electricity Act 1947.
+- (e) for securing that the scheme continues to be registered or[^c-b22631b461f9cfcb71bd6b3a10ec65f7] approved for the purposes of the relevant enactments, notwithstanding the transfers made by this Act and the repeal by this Act of section 54 of the [^c4122631]Electricity Act 1947.
 
 (2) Regulations under this paragraph may make such supplemental, consequential and transitional provision as the Secretary of State considers appropriate.
 
@@ -113,7 +113,7 @@ and subsections (2) to (4) of section 736 of the [^c4122671]Companies Act 1985 (
   - (b) any expectation of the accruer of a pension to or in respect of him;
 
   and includes a right of allocation in respect of the present or future payment of a pension;
-- “**the relevant enactments**” means Part 4 of the Finance Act 2004 (pension schemes[^key-f2334c22f874ae37e38e126a8b138650] etc) and Part III of the Pension Schemes Act 1993 (so far as relating to occupational pension schemes within the meaning of that Act)[^c4122761];
+- “**the relevant enactments**” means Part 4 of the Finance Act 2004 (pension schemes[^c-f2334c22f874ae37e38e126a8b138650] etc) and Part III of the Pension Schemes Act 1993 (so far as relating to occupational pension schemes within the meaning of that Act)[^c4122761];
 - “**relevant scheme**” has the meaning given by paragraph 2(1) above;
 - “**the scheme**” has the meaning given by paragraph 1(1) above;
 - “**wholly-owned subsidiary**” has the same meaning as in the Companies Act 1985.
@@ -127,9 +127,9 @@ and subsections (2) to (4) of section 736 of the [^c4122671]Companies Act 1985 (
 
 ## Annotations
 
-[^key-a5466c1ad361c6d93729103468849bf2]: Textual amendment: Words in Sch. 14 para. 1(1)(a)(iii) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/745/article/3/2/a/i)
+[^c-a5466c1ad361c6d93729103468849bf2]: Textual amendment: Words in Sch. 14 para. 1(1)(a)(iii) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/745/article/3/2/a/i)
 
-[^key-b22631b461f9cfcb71bd6b3a10ec65f7]: Textual amendment: Words in Sch. 14 para. 1(1)(e) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/745/article/3/2/a/ii)
+[^c-b22631b461f9cfcb71bd6b3a10ec65f7]: Textual amendment: Words in Sch. 14 para. 1(1)(e) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/745/article/3/2/a/ii)
 
 [^c4122631]: Marginal citation: [1947 c. 54](https://www.legislation.gov.uk/ukpga/1947/54).
 
@@ -141,6 +141,6 @@ and subsections (2) to (4) of section 736 of the [^c4122671]Companies Act 1985 (
 
 [^c4122731]: Marginal citation: [1947 c. 54](https://www.legislation.gov.uk/ukpga/1947/54).
 
-[^key-f2334c22f874ae37e38e126a8b138650]: Textual amendment: Words in Sch. 14 para. 5(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/3/2/b)
+[^c-f2334c22f874ae37e38e126a8b138650]: Textual amendment: Words in Sch. 14 para. 5(1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2006/745/article/3/2/b)
 
 [^c4122761]: Textual amendment: Words in Sch. 14 para. 5(1) substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [ss. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para.23](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/23) (with [ss. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8), [164](https://www.legislation.gov.uk/ukpga/1993/48/section/164)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)

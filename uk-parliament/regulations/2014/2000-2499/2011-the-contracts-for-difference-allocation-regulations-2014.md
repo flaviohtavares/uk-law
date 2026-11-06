@@ -51,13 +51,13 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-4d99d78d7f0d062d542b2a659bad7b81]
+### 1. Citation, commencement and extent[^c-4d99d78d7f0d062d542b2a659bad7b81]
 
 (1) These Regulations may be cited as the Contracts for Difference (Allocation) Regulations 2014 and come into force on the day after the day on which they are made.
 
 (2) Except for Part 10, these Regulations do not extend to Northern Ireland.
 
-### 2. Interpretation[^key-267a7bae8db8611113d146f2e9369401]
+### 2. Interpretation[^c-267a7bae8db8611113d146f2e9369401]
 
 (1) In these Regulations—
 
@@ -67,22 +67,22 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “administrative strike price” means the strike price—
   - (a) used by the delivery body to value an application under regulation 29[^f00002]; and
   - (b) which is the maximum strike price which applies to a successful application;
-- [^key-4a74bfb79e73f9e44d1621ea6d200808]...
+- [^c-4a74bfb79e73f9e44d1621ea6d200808]...
 - “allocation round notice” has the meaning given by regulation 4;
-- “appeals deadline date” has the meaning given by regulation 43(2)(c) [^key-7836990f72a4efd6e76d0715470c7477]...;
+- “appeals deadline date” has the meaning given by regulation 43(2)(c) [^c-7836990f72a4efd6e76d0715470c7477]...;
 - “applicable planning consents” has the meaning given by regulation 24(1);
 - “applicant” has the meaning given by regulation 16(2);
-- “application” means (except in paragraph 4(b) of Schedule 1) a request by an applicant to the delivery body to take part in a contract allocation process[^key-79c143a654e821156a1614efad5aaee8] in respect of a CFD unit;
-- “application closing date” in relation to an allocation round has the meaning given by regulation 4A(2)(b)(iii)[^key-c82bb1e34384a9197cc7de2323f526a1];
-- “[^key-c64423ef33d25bdef0e8b373feff2bfe]**application opening date**” has the meaning given by regulation 4A(2)(b)(ii);
+- “application” means (except in paragraph 4(b) of Schedule 1) a request by an applicant to the delivery body to take part in a contract allocation process[^c-79c143a654e821156a1614efad5aaee8] in respect of a CFD unit;
+- “application closing date” in relation to an allocation round has the meaning given by regulation 4A(2)(b)(iii)[^c-c82bb1e34384a9197cc7de2323f526a1];
+- “[^c-c64423ef33d25bdef0e8b373feff2bfe]**application opening date**” has the meaning given by regulation 4A(2)(b)(ii);
 - “**application window**” means the period beginning with the application opening date and ending with the application closing date;
 - “**application window notice**” has the meaning given by regulation 4A(1);
 - “**application window variation notice**” has the meaning given by regulation 5A(1);
 - “applications valuations” has the meaning given by regulation 29(1) and (2);
-- “associated” has the same meaning as it has in paragraph 37 of Schedule 2A to the Electricity Act 1989;[^key-c5d9817e982f55b643bf0354dfffd3d2]
+- “associated” has the same meaning as it has in paragraph 37 of Schedule 2A to the Electricity Act 1989;[^c-c5d9817e982f55b643bf0354dfffd3d2]
 - “audit report” has the meaning given by regulation 36(2)(b);
-- [^key-89f3e5baf0c78c313f30ffd0f766f571]...
-- [^key-a2e4da9180c55b03a05c33b0eca9eeef]...
+- [^c-89f3e5baf0c78c313f30ffd0f766f571]...
+- [^c-a2e4da9180c55b03a05c33b0eca9eeef]...
 - “CFD unit” means the whole or part of an eligible generating station;
 - “connection agreement” has the meaning given by regulation 25(6);
 - “**contract allocation framework**” means the part of an allocation framework[^f00003] which deals with matters other than sustainable industry rewards;
@@ -100,21 +100,21 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
   - (b) if the national system operator’s functions under Chapter 2 of Part 2 of the Act have been transferred to an alternative delivery body, that body;
 - “delivery year” means any of—
   - (a) the period from the date on which these Regulations come into force and ending on 31st March 2015; and
-  - (b) the 12 month periods commencing on 1st April 2015 and each anniversary of that date and ending with the 12 month period ending on 31st March[^M_F_408ccff0-13a8-4af3-93f3-ce79ea1514b1] 2035[^key-192c3b5f0cd9e950366875c266605e2b];
-- “distribution system” means a system, other than a private network, of the type described in[^key-236839e2850b71a08cde4c7061767088] section 4(4) of the Electricity Act 1989[^f00003];
-- “[^key-903988542058f601dc65e36d1bbe68a6]**estimated budget**” means the total—
+  - (b) the 12 month periods commencing on 1st April 2015 and each anniversary of that date and ending with the 12 month period ending on 31st March[^M_F_408ccff0-13a8-4af3-93f3-ce79ea1514b1] 2035[^c-192c3b5f0cd9e950366875c266605e2b];
+- “distribution system” means a system, other than a private network, of the type described in[^c-236839e2850b71a08cde4c7061767088] section 4(4) of the Electricity Act 1989[^f00003];
+- “[^c-903988542058f601dc65e36d1bbe68a6]**estimated budget**” means the total—
   - (a) estimated sum of money potentially payable by the CFD counterparty under CFDs to eligible generators in a delivery year, excluding sustainable industry rewards;
   - (b) estimated capacity of electricity which may be generated by generating stations subject to a CFD in a delivery year; or
   - (c) a combination of (a) and (b);
 - “**estimated budget notice**” means a notice required by regulation 10B(2);
 - “excluded application” has the meaning given by regulation 14(1);
 - “excluded site” has the meaning given by regulation 14A(6);
-- [^key-3b2497a80cc4eddfecb0d4d887655376]...
+- [^c-3b2497a80cc4eddfecb0d4d887655376]...
 - “exemption certificate” has the meaning given by regulation 14C(9);
 - “exemptions request notice” has the meaning given by regulation 14C(2);
-- “final strike price” means the strike price which applies to a successful application after the contract allocation process[^key-a07b6ffc4b69babc5da34cf7dff60786] applicable to that application has been completed;
-- [^key-492440dfaeb69d0a22c586f8d04b4781]...
-- [^key-6fdee5142055bee3d2e548813be5a268]...
+- “final strike price” means the strike price which applies to a successful application after the contract allocation process[^c-a07b6ffc4b69babc5da34cf7dff60786] applicable to that application has been completed;
+- [^c-492440dfaeb69d0a22c586f8d04b4781]...
+- [^c-6fdee5142055bee3d2e548813be5a268]...
 - “general qualification requirements” means the requirements set out in Chapter 3 of Part 4;
 - “halt direction” has the meaning given by regulation 38(1)(a)(ii);
 - “maxima” has the meaning given by regulation 11(2)(b);
@@ -137,7 +137,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
   - (a) in or adjacent to England, Wales or Scotland which are between the mean low water mark and the seaward limits of the territorial sea; or
   - (b) within the area of the sea designated under section 41(3) of the Marine and Coastal Access Act 2009[^f00010];
 - “offshore wind CFD unit” means a CFD unit which generates electricity by the use of wind and which is situated (or is to be situated) wholly in offshore waters;
-- [^key-0e36363c184a4364a935e8f750dc2c7b]...
+- [^c-0e36363c184a4364a935e8f750dc2c7b]...
 - “pending applicant” and “pending application” have the meanings given to those terms by regulation 49(2);
 - “pending bid” has the meaning given by regulation 50(2)(b);
 - “phased offshore wind CFD unit” means an offshore wind CFD unit—
@@ -148,7 +148,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “pot” has the meaning given by regulation 11(2)(c);
 - “**pot notice**” means a notice referred to in regulation 10A(3);
 - “**price notice**” means a notice required by regulation 10A(1);
-- “private network” means a network for the distribution of electricity which is not operated by a person authorised to distribute electricity under a licence granted or treated as granted under section 6(1)(c) of the Electricity Act 1989;[^key-8c7dfcd791dc91ccc1221b26b2d6e396]
+- “private network” means a network for the distribution of electricity which is not operated by a person authorised to distribute electricity under a licence granted or treated as granted under section 6(1)(c) of the Electricity Act 1989;[^c-8c7dfcd791dc91ccc1221b26b2d6e396]
 - “proceed direction” has the meaning given by regulation 38(1)(b)(i);
 - “proceed notice” has the meaning given by regulation 37(1)(b)(i);
 - “qualification appeal” has the meaning given by regulation 43(1);
@@ -157,7 +157,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “registration” means, other than in Schedule 1, registration on the central FIT register as an accredited FIT installation within the meaning of Part 3 of the Feed-in Tariffs Order 2012[^f00011];
 - “relevant CFD unit” means the CFD unit which is the subject of an application;
 - “relevant works” has the meaning given by regulation 23(2) and (4);
-- “remote island wind CFD unit” means a CFD unit which satisfies the remote island wind conditions in regulation 27A(3);[^key-4d12789573017009994734c3d050ff2a]
+- “remote island wind CFD unit” means a CFD unit which satisfies the remote island wind conditions in regulation 27A(3);[^c-4d12789573017009994734c3d050ff2a]
 - “renewables obligation orders” means—
   - (a) the Renewables Obligation Order 2009[^f00012]; or
   - (b) the Renewables Obligation (Scotland) Order 2009[^f00013];
@@ -166,36 +166,36 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 - “round variation notice” has the meaning given by regulation 5(1)(a);
 - “the Standard Terms Regulations 2014” means the Contracts for Difference (Standard Terms) Regulations 2014;
 - “strike price” means (except in Part 10) a price for one megawatt hour of electricity generated by a CFD unit;
-- “successful application” means an application in respect of which, further to a contract allocation process[^key-1ea2fda2da7dbf64694fd4abef6f027a], a CFD notification may be made or, in the case of an application in respect of a phased offshore wind CFD unit, more than one CFD notification may be made;
+- “successful application” means an application in respect of which, further to a contract allocation process[^c-1ea2fda2da7dbf64694fd4abef6f027a], a CFD notification may be made or, in the case of an application in respect of a phased offshore wind CFD unit, more than one CFD notification may be made;
 - “**sustainable industry reward**” means a sum of money which—
-  - (a) may be payable by the CFD counterparty to an eligible generator under a CFD allocated in an allocation round established by an allocation round notice given before 31st December 2028[^key-da241d3de72557a2b31930da93966230];
+  - (a) may be payable by the CFD counterparty to an eligible generator under a CFD allocated in an allocation round established by an allocation round notice given before 31st December 2028[^c-da241d3de72557a2b31930da93966230];
   - (b) is determined in accordance with a sustainable industry reward allocation framework; and
   - (c) is payable for the purpose of supporting the matters referred to in regulation 6(2B) (development and sustainability of supply chains);
 - “**sustainable industry reward allocation framework**” means the part of an allocation framework which deals with sustainable industry rewards;
 - “**sustainable industry reward allocation process**” means the process included in a sustainable industry reward allocation framework for the determining of sustainable industry reward applications;
 - “**sustainable industry reward applicant**” means an eligible generator which makes a sustainable industry reward application;
 - “**sustainable industry reward application**” means an application made under regulation 28A(1);
-- “**sustainable industry reward budget**” means an amount set out in a sustainable industry reward budget notice, which is the sum of money potentially payable by the CFD counterparty under CFDs to eligible generators who are eligible for such payments in accordance with a sustainable industry reward statement[^key-fff478a27c50c042f3d52f444a83baf5]...;
+- “**sustainable industry reward budget**” means an amount set out in a sustainable industry reward budget notice, which is the sum of money potentially payable by the CFD counterparty under CFDs to eligible generators who are eligible for such payments in accordance with a sustainable industry reward statement[^c-fff478a27c50c042f3d52f444a83baf5]...;
 - “**sustainable industry reward budget notice**” means a notice required by regulation 13A(1);
-- **“sustainable industry reward flexible minima” has the meaning given by regulation 13A(1A)(b)[^key-d47bf8c9fd7aa7c0acb607b43826b35d]**;
+- **“sustainable industry reward flexible minima” has the meaning given by regulation 13A(1A)(b)[^c-d47bf8c9fd7aa7c0acb607b43826b35d]**;
 - “**sustainable industry reward framework notice**” has the meaning given by regulation 7(3);
 - “**sustainable industry reward framework revision notice**” has the meaning given by regulation 8(5);
 - **“sustainable industry reward maxima” has the meaning given by regulation 13A(1A)(c);**
 - **“sustainable industry reward minima” has the meaning given by regulation 13A(1A)(a);**
 - “**sustainable industry reward statement**” means a statement given by the Secretary of State under regulation 28C, as revised, where applicable, in accordance with regulation 28E;
 - “target commissioning date” means the intended date, being a date within the target commissioning window, for the generation of electricity to begin by a CFD unit once it is established or altered;
-- “target commissioning window” means the period in which the generation of electricity must take place by a CFD unit once it is established or altered, the duration of which is listed in the contract allocation framework[^key-b54123e107b4e06b85c731c2e28e9752] for each type of eligible generating station;
+- “target commissioning window” means the period in which the generation of electricity must take place by a CFD unit once it is established or altered, the duration of which is listed in the contract allocation framework[^c-b54123e107b4e06b85c731c2e28e9752] for each type of eligible generating station;
 - “target commissioning window start date” means the date on which the target commissioning window begins;
 - “target dates” means the target commissioning date and the target commissioning window start date;
 - “temporary site exclusion” has the meaning given by regulation 14A(2) and (3);
 - “termination notice” has the meaning given by regulation 5(1)(b);
 - “transmission system” has the meaning given by section 4(4) of the Electricity Act 1989;
 - “variation notice” has the meaning given by regulation 34(2);
-- “working day” means a day that is not a Saturday or Sunday, Christmas Day, Good Friday or any day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971.[^key-a949eb960ac50a2fee15ca82d9f3140f]
+- “working day” means a day that is not a Saturday or Sunday, Christmas Day, Good Friday or any day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971.[^c-a949eb960ac50a2fee15ca82d9f3140f]
 
 (2) The following have the same meanings as they have in the Contracts for Difference (Definition of Eligible Generator) Regulations 2014[^f00015]—
 
-- [^key-088bcd24beaea70446ae72a1a693bd35]...
+- [^c-088bcd24beaea70446ae72a1a693bd35]...
 - “complete CCS system”;
 - “eligible generating station”;
 - “eligible generator”;
@@ -208,25 +208,25 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 2 — Allocation rounds and allocation frameworks
 
-### 3. Notices[^key-efd9d91edd52b34fc2a7240f8426934e]
+### 3. Notices[^c-efd9d91edd52b34fc2a7240f8426934e]
 
 A notice given by the Secretary of State under this Part must be made publicly available by the Secretary of State as soon as practicable after it is given.
 
-### 4. Establishing allocation rounds[^key-16da6c8763e3e1468a38fb3994a6f8ae]
+### 4. Establishing allocation rounds[^c-16da6c8763e3e1468a38fb3994a6f8ae]
 
-(1) The[^key-f9943ee79891590ec9f47de64ac8b09e] Secretary of State may by notice establish an allocation round (“an allocation round notice”).
+(1) The[^c-f9943ee79891590ec9f47de64ac8b09e] Secretary of State may by notice establish an allocation round (“an allocation round notice”).
 
-(2)[^key-b3e45f4b96eafd5dc41757a714516215] An allocation round notice must be given to the delivery body and the CFD counterparty.
+(2)[^c-b3e45f4b96eafd5dc41757a714516215] An allocation round notice must be given to the delivery body and the CFD counterparty.
 
-(3)[^key-219553add7efde35c514f9de7e30b9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-219553add7efde35c514f9de7e30b9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f06838706181f42c6ec7f0bd93c70e9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f06838706181f42c6ec7f0bd93c70e9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An allocation round may be for some or all of the period of another allocation round.
 
-(6)[^key-270d4da422d1e76e4bc84c0a60ca2161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-270d4da422d1e76e4bc84c0a60ca2161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4A. Establishing application windows[^key-38a99297984b3ad29189905b3238719b]
+### 4A. Establishing application windows[^c-38a99297984b3ad29189905b3238719b]
 
 (1) Subject to paragraphs (2) to (5), where the Secretary of State establishes an allocation round, the Secretary of State must by notice (“an application window notice”) establish an application window.
 
@@ -242,41 +242,41 @@ A notice given by the Secretary of State under this Part must be made publicly a
 (3) The application opening date must not be earlier than—
 
 - (a) the date which is 10 working days after the date of the application window notice; or
-- (b) where the allocation round to which the application window notice applies is one to which a sustainable industry reward allocation framework applies, the date which is the day after the day the sustainable industry reward allocation process concludes[^key-574a8a2e3ab3143f45500b4c8666da79].
+- (b) where the allocation round to which the application window notice applies is one to which a sustainable industry reward allocation framework applies, the date which is the day after the day the sustainable industry reward allocation process concludes[^c-574a8a2e3ab3143f45500b4c8666da79].
 
 (4) Where the CFDs to be allocated further to an allocation round are restricted to particular types of eligible generator or eligible generating station, the application window notice must state the restriction.
 
 (5) Where an exemptions request notice is given, an application window notice which immediately follows the exemptions request notice must not state an application opening date which is earlier than 25 working days after the closing date stated in the exemptions request notice.
 
-### 5. Varying and terminating allocation rounds[^key-3c562738466a5603ea24fbbf3ef562a4]
+### 5. Varying and terminating allocation rounds[^c-3c562738466a5603ea24fbbf3ef562a4]
 
 (1) The Secretary of State may—
 
-- (a)[^key-e8966fdf3a99cc090ca1b09e62129333] by notice (“a round variation notice”) vary the commencement date of an allocation round, where the commencement date of that allocation round has not yet passed; or
+- (a)[^c-e8966fdf3a99cc090ca1b09e62129333] by notice (“a round variation notice”) vary the commencement date of an allocation round, where the commencement date of that allocation round has not yet passed; or
 - (b) by notice (“a termination notice”) terminate an allocation round so that no CFDs are to be allocated further to that round.
 
 (2) A round variation notice or a termination notice must—
 
 - (a) be given to the delivery body and the CFD counterparty;
-- (b) [^key-09109be056ded4b81319f4919e13fed0]... state the date on which it has effect; and
+- (b) [^c-09109be056ded4b81319f4919e13fed0]... state the date on which it has effect; and
 - (c) identify the allocation round to which the notice applies.
 
 (3) A round variation notice must give reasons for the variation effected by the notice.
 
-(4) Where an allocation round is terminated after a contract allocation process[^key-6d7dc5d49bf9a647fbb24e82f0b6889d] in that round is completed, the termination notice must give reasons for the termination.
+(4) Where an allocation round is terminated after a contract allocation process[^c-6d7dc5d49bf9a647fbb24e82f0b6889d] in that round is completed, the termination notice must give reasons for the termination.
 
-(5) A [^key-194baa66186b99bed286289a5122241f]... termination notice is not valid unless the date on which it has effect is—
+(5) A [^c-194baa66186b99bed286289a5122241f]... termination notice is not valid unless the date on which it has effect is—
 
 - (a) not earlier than the date of the notice; and
 - (b) before the delivery body makes the first CFD notification further to the allocation round to which the notice applies.
 
-(6)[^key-545f5289084a98e23330d1499bbb9534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-545f5289084a98e23330d1499bbb9534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-6ad702223c09690b1776e36af9c122f1] No variation of the commencement date of an allocation round [^key-a9a8283729bbbc23496f9c55c7cbd792]... may be made where the varied date would be earlier than 5 working days after the date of the round variation notice.
+(6A)[^c-6ad702223c09690b1776e36af9c122f1] No variation of the commencement date of an allocation round [^c-a9a8283729bbbc23496f9c55c7cbd792]... may be made where the varied date would be earlier than 5 working days after the date of the round variation notice.
 
 (7) Where the delivery body receives a round variation notice or a termination notice, it must as soon as practicable after receipt send a copy of the notice to each applicant who has made an application (which has not been withdrawn) in the round to which the notice applies.
 
-### 5A. Varying application windows[^key-3026dc071d32d3fb3710e8610e10c26c]
+### 5A. Varying application windows[^c-3026dc071d32d3fb3710e8610e10c26c]
 
 (1) Subject to paragraphs (3) to (5), the Secretary of State may by notice (“an application window variation notice”) vary the application window by varying—
 
@@ -294,41 +294,41 @@ A notice given by the Secretary of State under this Part must be made publicly a
 
 (4) No variation of the application opening date or the application closing date may be made where the varied date would be earlier than 5 working days after the date of the application window variation notice.
 
-(5) Where the allocation round to which the application window variation notice applies is one to which a sustainable industry reward allocation framework applies, no variation of the application opening date may be made where the varied date would be earlier than the date which is the day after the day the sustainable industry reward allocation process concludes[^key-62ffd43121eb10a91870b8c90c9cf8dd].
+(5) Where the allocation round to which the application window variation notice applies is one to which a sustainable industry reward allocation framework applies, no variation of the application opening date may be made where the varied date would be earlier than the date which is the day after the day the sustainable industry reward allocation process concludes[^c-62ffd43121eb10a91870b8c90c9cf8dd].
 
 (6) Where the delivery body receives an application window variation notice, it must as soon as practicable after receipt send a copy of the notice to each applicant who has made an application (which has not been withdrawn) in the round to which the notice applies.
 
-### 6. Allocation frameworks[^key-54a66972c80fefacf71f98b2996785ef]
+### 6. Allocation frameworks[^c-54a66972c80fefacf71f98b2996785ef]
 
-(1)[^key-bd2b41654260c73b755f7ff0baa5186d] The Secretary of State—
+(1)[^c-bd2b41654260c73b755f7ff0baa5186d] The Secretary of State—
 
 - (a) must ensure that one contract allocation framework applies to each allocation round;
 - (b) may apply a contract allocation framework to more than one allocation round;
-- (c) may, in relation to an allocation round established by an allocation round notice given before 31st December 2028[^key-2f95f93ed9341b403ff6afb77ed2e4f3], apply a sustainable industry reward allocation framework to the allocation round in addition to the contract allocation framework; and
-- (d) may, if the Secretary of State applies a sustainable industry reward allocation framework to an allocation round established by an allocation round notice given before 31st December 2028, apply that framework to more than one such allocation round[^key-d234136d2db05a15d7867ad6a877c5ae].
+- (c) may, in relation to an allocation round established by an allocation round notice given before 31st December 2028[^c-2f95f93ed9341b403ff6afb77ed2e4f3], apply a sustainable industry reward allocation framework to the allocation round in addition to the contract allocation framework; and
+- (d) may, if the Secretary of State applies a sustainable industry reward allocation framework to an allocation round established by an allocation round notice given before 31st December 2028, apply that framework to more than one such allocation round[^c-d234136d2db05a15d7867ad6a877c5ae].
 
-(2) A contract allocation framework[^key-e0be2f1dc94d17b30fd7baddbc59ef93] must, in respect of the allocation round or rounds to which it applies, set out—
+(2) A contract allocation framework[^c-e0be2f1dc94d17b30fd7baddbc59ef93] must, in respect of the allocation round or rounds to which it applies, set out—
 
-- (a) the contract allocation process[^key-5af22175440c5244c64b8ff73420a102] which applies to each type of application which may be made; and
+- (a) the contract allocation process[^c-5af22175440c5244c64b8ff73420a102] which applies to each type of application which may be made; and
 - (b) each method of calculation which the delivery body must apply to determine—
   - (i) the applications valuations; and
   - (ii) the value of an application whilst carrying out the contract allocation process.
 
-(2A)[^key-dbea5bb1d01ab6d6e74d9c298646ef61] A sustainable industry reward allocation framework must, in respect of the allocation round or rounds to which it applies, set out—
+(2A)[^c-dbea5bb1d01ab6d6e74d9c298646ef61] A sustainable industry reward allocation framework must, in respect of the allocation round or rounds to which it applies, set out—
 
 - (a) the sustainable industry reward allocation process;
-- (ab)[^key-112d4b0b851b9f2ed73c2c257e34564f] the classes of eligible generators that will be required, or permitted, to make a sustainable industry reward application;
-- (b) how the Secretary of State is to determine the contribution which the sustainable industry reward applicant[^key-e0f69fcdcbe410b34ac578d551a91f74] is likely to make to the development and sustainability of supply chains[^key-42e5b6e0b37af0e20ed9171c8117c04a]...;
+- (ab)[^c-112d4b0b851b9f2ed73c2c257e34564f] the classes of eligible generators that will be required, or permitted, to make a sustainable industry reward application;
+- (b) how the Secretary of State is to determine the contribution which the sustainable industry reward applicant[^c-e0f69fcdcbe410b34ac578d551a91f74] is likely to make to the development and sustainability of supply chains[^c-42e5b6e0b37af0e20ed9171c8117c04a]...;
 - (c) a process for review before a final determination is made of the likely contribution referred to in sub-paragraph (b);
 - (d) the minimum standards of the likely contribution referred to in sub-paragraph (b) which must be met before the Secretary of State may give a sustainable industry reward statement;
 - (e) the method which the Secretary of State must apply to determine whether a sustainable industry reward may be payable and the amount of that potential reward; and
 - (f) the method by which the Secretary of State must score and rank sustainable industry reward applications.
 
-(2B) For the purposes of setting out how the determination mentioned in paragraph (2A)(b) is to be made, the Secretary of State must have regard to how the development and sustainability of supply chains is supported by[^key-14d61b294fd7aaed545cbe1c7c5513bb]—
+(2B) For the purposes of setting out how the determination mentioned in paragraph (2A)(b) is to be made, the Secretary of State must have regard to how the development and sustainability of supply chains is supported by[^c-14d61b294fd7aaed545cbe1c7c5513bb]—
 
 - (a) increasing productivity, competitiveness and capacity in supply chains;
 - (b) encouraging innovation in supply chains;
-- (c) developing a diverse and skilled workforce , implementing fair work practices[^key-f0c7eeac86f9544c2b0a5c7e4a41a816] and increasing employment opportunities;
+- (c) developing a diverse and skilled workforce , implementing fair work practices[^c-f0c7eeac86f9544c2b0a5c7e4a41a816] and increasing employment opportunities;
 - (d) increasing investment in and finding technical solutions to improving infrastructure that is relevant to the generation, storage, demand or use of electricity;
 - (e) increasing the sustainability of supply chains, in particular—
   - (i) increasing the long-term economic sustainability of supply chains;
@@ -336,85 +336,85 @@ A notice given by the Secretary of State under this Part must be made publicly a
   - (iii) delivering benefits to the communities in which supply chains operate; and
 - (f) increasing the investment in deprived areas which results from supply chains.
 
-(3) To the extent that the contract allocation process[^key-6c693216721922f9013dd152bba1e4fa] imposes requirements on the delivery body, the Secretary of State must be satisfied that it is reasonable to expect the delivery body to comply with those requirements.
+(3) To the extent that the contract allocation process[^c-6c693216721922f9013dd152bba1e4fa] imposes requirements on the delivery body, the Secretary of State must be satisfied that it is reasonable to expect the delivery body to comply with those requirements.
 
 (4) Where the provisions of an allocation framework conflict with the provisions of these Regulations, the latter prevail.
 
-(5)[^key-f95359834c0fd8f7fc34bc5372889446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f95359834c0fd8f7fc34bc5372889446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Framework notices[^key-9fcafaad3df44231849423958dd98fb3]
+### 7. Framework notices[^c-9fcafaad3df44231849423958dd98fb3]
 
-(1) The Secretary of State must by notice (“a contract framework notice[^key-9804d3e7534ecb8029b39cacb18a5623]”) identify the contract allocation framework[^key-35bd48d3c89a00f63c0860fa4d9baa4f] which applies to an allocation round.
+(1) The Secretary of State must by notice (“a contract framework notice[^c-9804d3e7534ecb8029b39cacb18a5623]”) identify the contract allocation framework[^c-35bd48d3c89a00f63c0860fa4d9baa4f] which applies to an allocation round.
 
-(2) A contract framework notice[^key-2af4e28738456b2d76bbdb1838859a68] must—
+(2) A contract framework notice[^c-2af4e28738456b2d76bbdb1838859a68] must—
 
 - (a) be given to the delivery body and the CFD counterparty; and
-- (b) be given no later than 10 working days before the application opening date[^key-4d6bc77e6ca35213ebb8f65aacbbf213], including where the notice is required by regulation 8(3)(b).
+- (b) be given no later than 10 working days before the application opening date[^c-4d6bc77e6ca35213ebb8f65aacbbf213], including where the notice is required by regulation 8(3)(b).
 
-(3)[^key-8bb623b41dfcbc21f422cfc7dd65578e] Where the Secretary of State applies a sustainable reward allocation framework to an allocation round, the Secretary of State must by notice (a “sustainable industry reward framework notice”) identify the sustainable industry reward allocation framework which applies to that allocation round.
+(3)[^c-8bb623b41dfcbc21f422cfc7dd65578e] Where the Secretary of State applies a sustainable reward allocation framework to an allocation round, the Secretary of State must by notice (a “sustainable industry reward framework notice”) identify the sustainable industry reward allocation framework which applies to that allocation round.
 
 (4) A sustainable industry reward framework notice must—
 
 - (a) be given to the delivery body and the CFD counterparty;
-- (b) specify the date on which the sustainable industry reward allocation process will commence[^key-9800ca4dcc91b90fb48c3dbeef05179d]...; and
+- (b) specify the date on which the sustainable industry reward allocation process will commence[^c-9800ca4dcc91b90fb48c3dbeef05179d]...; and
 - (c) must be given as soon as practicable after the date of the allocation round notice establishing the allocation round to which the sustainable industry reward framework notice applies.
 
-### 8. Framework revisions[^key-7272461fdb8e5867e73103b37ff0f0b3]
+### 8. Framework revisions[^c-7272461fdb8e5867e73103b37ff0f0b3]
 
 (1) Subject to paragraph (2), the Secretary of State may—
 
-- (a) amend or add to the provisions of a contract allocation framework identified in a contract framework notice[^key-952eca5080bfe538e74354df4f64ca34]; or
-- (b) subject to paragraph (3), remove the application of a contract allocation framework[^key-6475ad8d474751063af7ac8f3bf2ac0b] to an allocation round.
+- (a) amend or add to the provisions of a contract allocation framework identified in a contract framework notice[^c-952eca5080bfe538e74354df4f64ca34]; or
+- (b) subject to paragraph (3), remove the application of a contract allocation framework[^c-6475ad8d474751063af7ac8f3bf2ac0b] to an allocation round.
 
-(2) No amendment, addition or removal under paragraph (1) may be made later than 10 working days before the application opening date[^key-5b6c314f4daacf11481aa595bc331aac].
+(2) No amendment, addition or removal under paragraph (1) may be made later than 10 working days before the application opening date[^c-5b6c314f4daacf11481aa595bc331aac].
 
-(2A)[^key-12d4ea92c6a7a78dec4913143ba2eaac] Subject to paragraph (2B), the Secretary of State may amend or add to the provisions of a sustainable industry reward allocation framework identified in a sustainable industry reward allocation framework notice.
+(2A)[^c-12d4ea92c6a7a78dec4913143ba2eaac] Subject to paragraph (2B), the Secretary of State may amend or add to the provisions of a sustainable industry reward allocation framework identified in a sustainable industry reward allocation framework notice.
 
-(2B) No amendment or addition under paragraph (2A) may be made later than 10[^key-6e807b3debf6f7128c555336ec65d7b2] working days before the date on which the sustainable industry reward allocation process will commence, as specified in the sustainable industry reward framework notice or in a sustainable industry reward framework revision notice.
+(2B) No amendment or addition under paragraph (2A) may be made later than 10[^c-6e807b3debf6f7128c555336ec65d7b2] working days before the date on which the sustainable industry reward allocation process will commence, as specified in the sustainable industry reward framework notice or in a sustainable industry reward framework revision notice.
 
 (2C) Subject to paragraph (5)(d), the Secretary of State may vary the date on which the sustainable industry reward allocation process will commence, as specified in the sustainable industry reward framework notice, or in a sustainable industry reward framework revision notice.
 
-(3) Where the application of a contract allocation framework[^key-373f6f045b52910da2ac31d656e0c74a] to an allocation round is to be removed, the Secretary of State must—
+(3) Where the application of a contract allocation framework[^c-373f6f045b52910da2ac31d656e0c74a] to an allocation round is to be removed, the Secretary of State must—
 
-- (a) unless the allocation round is terminated, ensure that another contract allocation framework[^key-3d38a55e100e30872a0cade87ea9cd2f] applies to the allocation round; and
-- (b) comply with regulation 7 in respect of that other contract allocation framework[^key-371503622ae67cdceb4718fc8f4e0caf].
+- (a) unless the allocation round is terminated, ensure that another contract allocation framework[^c-3d38a55e100e30872a0cade87ea9cd2f] applies to the allocation round; and
+- (b) comply with regulation 7 in respect of that other contract allocation framework[^c-371503622ae67cdceb4718fc8f4e0caf].
 
-(4) Where the Secretary of State amends or adds to the provisions of a contract allocation framework, or removes a contract allocation framework, the Secretary of State must give a notice (“a contract framework revision notice”) to the delivery body and the CFD counterparty which states—[^key-b78a79a786fe2ae23b84445992a73ff0]
+(4) Where the Secretary of State amends or adds to the provisions of a contract allocation framework, or removes a contract allocation framework, the Secretary of State must give a notice (“a contract framework revision notice”) to the delivery body and the CFD counterparty which states—[^c-b78a79a786fe2ae23b84445992a73ff0]
 
-- (a) the date on which the[^key-38cbfae7a78f9e4eb717e15b054bc3fa] amendment, addition or removal has effect, which must not be earlier than the date of the notice;
-- (b) how a contract allocation framework[^key-329711f31db7600b67a0aa2e3fdfc7b5] has been amended or added to; and
-- (c) where the contract allocation framework[^key-9bd5aec23d3e273d63ef227f25054703] is to apply to more than one allocation round, the allocation round or rounds affected by the amendment, addition or removal.
+- (a) the date on which the[^c-38cbfae7a78f9e4eb717e15b054bc3fa] amendment, addition or removal has effect, which must not be earlier than the date of the notice;
+- (b) how a contract allocation framework[^c-329711f31db7600b67a0aa2e3fdfc7b5] has been amended or added to; and
+- (c) where the contract allocation framework[^c-9bd5aec23d3e273d63ef227f25054703] is to apply to more than one allocation round, the allocation round or rounds affected by the amendment, addition or removal.
 
-(5)[^key-31e9bc3d86cc11092370ad42c0f44393] Where the Secretary of State amends or adds to the provisions of a sustainable industry reward allocation framework, or varies the date specified in the sustainable industry reward framework notice as the date on which the sustainable industry reward allocation process will commence, the Secretary of State must give a notice (“a sustainable industry reward framework revision notice”) to the delivery body and the CFD counterparty which states, where applicable—
+(5)[^c-31e9bc3d86cc11092370ad42c0f44393] Where the Secretary of State amends or adds to the provisions of a sustainable industry reward allocation framework, or varies the date specified in the sustainable industry reward framework notice as the date on which the sustainable industry reward allocation process will commence, the Secretary of State must give a notice (“a sustainable industry reward framework revision notice”) to the delivery body and the CFD counterparty which states, where applicable—
 
 - (a) the date on which an amendment or addition to the sustainable industry reward allocation framework has effect, which must not be earlier than the date of the notice;
 - (b) how the sustainable industry reward allocation framework has been amended or added to;
 - (c) where the sustainable industry reward allocation framework is to apply to more than one allocation round, the allocation round or rounds affected by the amendment or addition; and
-- (d) the varied date on which the sustainable industry reward allocation process will commence[^key-d5b19392385207a6b3165a5e83932100]....
+- (d) the varied date on which the sustainable industry reward allocation process will commence[^c-d5b19392385207a6b3165a5e83932100]....
 
-### 9. Publication of allocation frameworks[^key-d3808067fd11c3194b976010797d48bc]
+### 9. Publication of allocation frameworks[^c-d3808067fd11c3194b976010797d48bc]
 
-(1) The Secretary of State must make publicly available each contract allocation framework and sustainable industry reward allocation framework[^key-1c7e3cb876f9bba46a3074695bab1c1c], including any version which includes an amendment or addition.
+(1) The Secretary of State must make publicly available each contract allocation framework and sustainable industry reward allocation framework[^c-1c7e3cb876f9bba46a3074695bab1c1c], including any version which includes an amendment or addition.
 
-(2) The Secretary of State must comply with paragraph (1) in relation to a contract allocation framework[^key-91d4251e8fd3f61f852a63e72b59f922]—
+(2) The Secretary of State must comply with paragraph (1) in relation to a contract allocation framework[^c-91d4251e8fd3f61f852a63e72b59f922]—
 
-- (a) except where an addition or amendment is made to the provisions of a contract allocation framework[^key-b5f72653fae67681a7d5a078f4baab4d], by no later than the date of the contract framework notice[^key-c7406d2a3787570f688f35a66febd6ac] in which the framework is identified; or
-- (b) where an addition or amendment is made to the provisions of a contract allocation framework[^key-235d8fdeeb3d86b142e71deb8518a87e], by no later than the date of the contract framework revision notice[^key-0155bc99d39c6d9095a10e7df3476789] in which the framework is identified.
+- (a) except where an addition or amendment is made to the provisions of a contract allocation framework[^c-b5f72653fae67681a7d5a078f4baab4d], by no later than the date of the contract framework notice[^c-c7406d2a3787570f688f35a66febd6ac] in which the framework is identified; or
+- (b) where an addition or amendment is made to the provisions of a contract allocation framework[^c-235d8fdeeb3d86b142e71deb8518a87e], by no later than the date of the contract framework revision notice[^c-0155bc99d39c6d9095a10e7df3476789] in which the framework is identified.
 
-(3)[^key-eb35a04fe2be8d94b6e2172314c1c7db] The Secretary of State must comply with paragraph (1) in relation to a sustainable industry reward allocation framework—
+(3)[^c-eb35a04fe2be8d94b6e2172314c1c7db] The Secretary of State must comply with paragraph (1) in relation to a sustainable industry reward allocation framework—
 
 - (a) except where an addition or amendment is made to the provisions of a sustainable industry reward allocation framework, by no later than the date of the sustainable industry reward framework notice in which the framework is identified; or
 - (b) where an addition or amendment is made to the provisions of a sustainable industry reward allocation framework, by no later than the date of the sustainable industry reward framework revision notice in which the framework is identified.
 
 ## PART 3 — Budgets applicable to allocation rounds
 
-### 10. Application[^key-ffbf1aba49f1ea9527d93ff6db30ab4e]
+### 10. Application[^c-ffbf1aba49f1ea9527d93ff6db30ab4e]
 
 (1) This Part applies to an allocation round which has been established further to an allocation round notice.
 
-(2)[^key-88d159d6eddf5dd465addda13fd7518f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-88d159d6eddf5dd465addda13fd7518f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10A. Price and pot notices[^key-fd5d1e17f07d5e0350c67ecd92f47dd5]
+### 10A. Price and pot notices[^c-fd5d1e17f07d5e0350c67ecd92f47dd5]
 
 (1) The Secretary of State must by notice (“a price notice”) specify the administrative strike prices applicable to applications in an allocation round.
 
@@ -455,18 +455,18 @@ A notice given by the Secretary of State under this Part must be made publicly a
 - (a) be given to the delivery body as soon as practicable; and
 - (b) identify the allocation round to which it applies.
 
-### 11. Contract budget notices[^key-50cef06fd3bf8bc8ea0f4500601a8028][^key-77109bdb7a3cb4e96c1ba6048abccdf4]
+### 11. Contract budget notices[^c-50cef06fd3bf8bc8ea0f4500601a8028][^c-77109bdb7a3cb4e96c1ba6048abccdf4]
 
-(1) The Secretary of State must by notice (“a contract budget notice[^key-6f31e4c41e40416d6bb1d83107d8161d]”) specify—
+(1) The Secretary of State must by notice (“a contract budget notice[^c-6f31e4c41e40416d6bb1d83107d8161d]”) specify—
 
-- (a) the contract budget[^key-e3361cbfb2e95f50927b8da467746ce0] which is available for each delivery year applicable to an allocation round; [^key-cba66ab48f1f62746eee3b4b4c67ad0d]...
-- (b)[^key-a54d8346451d555bd4dcf74aee9d100b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the contract budget[^c-e3361cbfb2e95f50927b8da467746ce0] which is available for each delivery year applicable to an allocation round; [^c-cba66ab48f1f62746eee3b4b4c67ad0d]...
+- (b)[^c-a54d8346451d555bd4dcf74aee9d100b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Secretary of State may in a contract budget notice specify any of the following—
 
 - (a) budgets which are reserved for the descriptions of applications specified in the notice (“minima”);
 - (b) maximum budgets which apply to the descriptions of applications specified in the notice (“maxima”);
-- (c) a division of the contract budget such that a different part (“pot”) of the contract budget applies to the description of applications specified in the pot notice[^key-b65021b4cd71c09809db54bd5137572c].
+- (c) a division of the contract budget such that a different part (“pot”) of the contract budget applies to the description of applications specified in the pot notice[^c-b65021b4cd71c09809db54bd5137572c].
 
 (3) Where maxima or minima are specified, they may be expressed as—
 
@@ -481,52 +481,52 @@ A notice given by the Secretary of State under this Part must be made publicly a
 
 the contract budget notice must include a factor which, when applied to that sum, converts that sum into a price which is current at that date.
 
-(4A)[^key-96398a165ffb80cede8fdba17fedf28b] Where any budget referred to in paragraph (1)(a) or (2) (that is to say, the contract budget, a minimum, a maximum or a pot) is expressed as an amount of capacity of electricity generation, the Secretary of State may specify in the contract budget notice that a soft constraint applies[^key-d9358ab0f8309df5f8c64bd8cc2ba11f] to that amount; and in such a case, the amount of capacity of electricity generation may be exceeded, but only in accordance with the provisions of the contract allocation framework[^key-d5bd25b4f5ca16a0632bf5b8ae77a763] that applies to that allocation round.
+(4A)[^c-96398a165ffb80cede8fdba17fedf28b] Where any budget referred to in paragraph (1)(a) or (2) (that is to say, the contract budget, a minimum, a maximum or a pot) is expressed as an amount of capacity of electricity generation, the Secretary of State may specify in the contract budget notice that a soft constraint applies[^c-d9358ab0f8309df5f8c64bd8cc2ba11f] to that amount; and in such a case, the amount of capacity of electricity generation may be exceeded, but only in accordance with the provisions of the contract allocation framework[^c-d5bd25b4f5ca16a0632bf5b8ae77a763] that applies to that allocation round.
 
 (5) A contract budget notice must—
 
-- (a)[^key-0993e1d019169a7807525c49de8552e8] be given to the delivery body at such time as is set out in the contract allocation framework; and
-- (b) identify the allocation round to which the contract budget notice applies; [^key-b18311428285c076771e98815f1b7697]...
-- (c)[^key-b18311428285c076771e98815f1b7697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0993e1d019169a7807525c49de8552e8] be given to the delivery body at such time as is set out in the contract allocation framework; and
+- (b) identify the allocation round to which the contract budget notice applies; [^c-b18311428285c076771e98815f1b7697]...
+- (c)[^c-b18311428285c076771e98815f1b7697] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Contract budget revision[^key-0b3624c3b19ff19658300a6f26ef6edc][^key-678adbb7e9550b36cb6e665f40fb3d94]
+### 12. Contract budget revision[^c-0b3624c3b19ff19658300a6f26ef6edc][^c-678adbb7e9550b36cb6e665f40fb3d94]
 
-(1) This regulation applies where the Secretary of State has given a contract budget notice[^key-666aec23acef0e2872d53efdbb8ca0f0] in respect of an allocation round.
+(1) This regulation applies where the Secretary of State has given a contract budget notice[^c-666aec23acef0e2872d53efdbb8ca0f0] in respect of an allocation round.
 
-(2)[^key-8bc02fcc7a46c124c9c70ca27f93b124] The Secretary of State—
+(2)[^c-8bc02fcc7a46c124c9c70ca27f93b124] The Secretary of State—
 
 - (a) may revise a contract budget notice (“a contract budget revision”)—
   - (i) in the period after the contract budget notice has been given but before the first CFD notification, further to the allocation round to which the contract budget notice applies, has been given; and
   - (ii) in accordance with paragraph (5); but
 - (b) must only effect a contract budget revision by a notice (“a contract budget revision notice”) which complies with regulation 13.
 
-(3)[^key-3ae39df77c49faf49fd7bd8690218a85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3ae39df77c49faf49fd7bd8690218a85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-482612fc66ba28c59dfab0ac8e958ec3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-482612fc66ba28c59dfab0ac8e958ec3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) [^key-f292a504ceb0a5e6a507026e20ac5d55]... The Secretary of State may increase the contract budget[^key-7dbcd294c280893349d814d3924b8a86] but must not—
+(5) [^c-f292a504ceb0a5e6a507026e20ac5d55]... The Secretary of State may increase the contract budget[^c-7dbcd294c280893349d814d3924b8a86] but must not—
 
 - (a) decrease—
   - (i) the contract budget;
   - (ii) any maxima; or
   - (iii) any minima; or
-- (b) increase any maxima or minima, unless the contract budget is increased by at least the same amount; or[^key-7984fc5fc8b531a1fb66dcbdc2d1b654].
-- (c)[^key-3b55c7838e98f8ffc5dc8ceacc3ae44a] remove the application of a soft constraint to a budget (see regulation 11(4A)).
+- (b) increase any maxima or minima, unless the contract budget is increased by at least the same amount; or[^c-7984fc5fc8b531a1fb66dcbdc2d1b654].
+- (c)[^c-3b55c7838e98f8ffc5dc8ceacc3ae44a] remove the application of a soft constraint to a budget (see regulation 11(4A)).
 
-### 13. Contract budget revision notices[^key-5fdf9b4441161f3433f364d729e30bae][^key-43eeafcdd34018a2703366dc13f991c5]
+### 13. Contract budget revision notices[^c-5fdf9b4441161f3433f364d729e30bae][^c-43eeafcdd34018a2703366dc13f991c5]
 
-A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
+A contract budget revision[^c-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 
 - (a) be given to the delivery body;
 - (b) identify the allocation round to which the contract budget revision notice applies;
 - (c) describe the contract budget revision; and
 - (d) be given at least one working day before the date on which the revision set out in the notice is to have effect.
 
-### 13A. Sustainable industry reward budgets[^key-1e3657bbcdb6a82b9e76a5dc7163bb4f]
+### 13A. Sustainable industry reward budgets[^c-1e3657bbcdb6a82b9e76a5dc7163bb4f]
 
 (1) Where the Secretary of State gives a sustainable industry reward framework notice in relation to an allocation round, the Secretary of State must by notice (“a sustainable industry reward budget notice”) specify the sustainable industry reward budget which is available for that allocation round.
 
-(1A)[^key-dae2d155dc9b40f1267ac695571b6447] The Secretary of State may, in a sustainable industry reward budget notice, specify any of the following—
+(1A)[^c-dae2d155dc9b40f1267ac695571b6447] The Secretary of State may, in a sustainable industry reward budget notice, specify any of the following—
 
 - (a) budgets which are reserved for the sustainable industry reward applications described in the notice (“sustainable industry reward minima”);
 - (b) budgets which must be prioritised for the sustainable industry reward applications described in the notice, and where those budgets are not exhausted, the remaining budgets may be used for the other sustainable industry reward applications (“sustainable industry reward flexible minima”);
@@ -539,30 +539,30 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 
 (1C) A draft form of the sustainable industry reward budget notice need not set out the Secretary of State’s intentions as to the use of the description of budget mentioned in paragraph (1A).
 
-(2)[^key-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d76b43706e9fd87507601894613786a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) A sustainable industry reward budget notice, whether in [^key-bf3bd00a7774c07446b6fda7387becd2]... draft or final form, must—
+(7) A sustainable industry reward budget notice, whether in [^c-bf3bd00a7774c07446b6fda7387becd2]... draft or final form, must—
 
 - (a) be given to the delivery body and the CFD counterparty; and
 - (b) identify the allocation round to which the sustainable industry reward budget notice applies.
 
-### 13B. Publication[^key-183d33f86109f9c877f05057c58721b6]
+### 13B. Publication[^c-183d33f86109f9c877f05057c58721b6]
 
 (1) As soon as practicable after they are given to the delivery body, the Secretary of State must make the following publicly available—
 
 - (a) the price notice;
 - (b) the pot notice and a revision to that notice where it is revised;
-- (c)[^key-fd95a48a585109adb7c50d3004fb4467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fd95a48a585109adb7c50d3004fb4467] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Before, or no later than is reasonably practicable after, the first CFD notification being given[^key-121d089896fd7e334b9ee50d9e826304], the Secretary of State must make publicly available—
+(2) Before, or no later than is reasonably practicable after, the first CFD notification being given[^c-121d089896fd7e334b9ee50d9e826304], the Secretary of State must make publicly available—
 
 - (a) the contract budget notice; and
 - (b) the contract budget revision notice, where such notice is given.
@@ -571,13 +571,13 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 
 ### CHAPTER 1 — Excluded applications
 
-#### 14. Excluded applications[^key-3aa30c2d869fb5be8f4df3a57e30b57c]
+#### 14. Excluded applications[^c-3aa30c2d869fb5be8f4df3a57e30b57c]
 
-(1) Subject to regulation 14ZA (decommissioning), an[^key-1023ba33a4e99e11de28e3d2a9b85ea2] eligible generator may not make an application under this Part where the application is excluded under any of the following paragraphs (“an excluded application”).
+(1) Subject to regulation 14ZA (decommissioning), an[^c-1023ba33a4e99e11de28e3d2a9b85ea2] eligible generator may not make an application under this Part where the application is excluded under any of the following paragraphs (“an excluded application”).
 
 (2) No application may be made in respect of a CFD unit where the unit is—
 
-- (a) a generating station connected to a complete CCS system or is to be altered to be a generating station connected to a complete CCS system[^key-0031d7475f01330a8bc5f96b26aab451]; or
+- (a) a generating station connected to a complete CCS system or is to be altered to be a generating station connected to a complete CCS system[^c-0031d7475f01330a8bc5f96b26aab451]; or
 - (b) a nuclear power station.
 
 (3) No application may be made in respect of a CFD unit where the CFD unit is—
@@ -593,7 +593,7 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
   - (iii) wind, other than in respect of an offshore wind CFD unit; and
 - (b) in the case of a CFD unit described in sub-paragraph (a) which is to be established, it is to have a generating capacity of 5 megawatts or less.
 
-(5) No[^key-c71d74775091fb39fcccc488f2af8303] application may be made in respect of a CFD unit to be established or altered[^key-0c2fa9d8cce94184d1812532cfbaae97] where an accreditation or registration applies (or has applied) in respect of that unit.
+(5) No[^c-c71d74775091fb39fcccc488f2af8303] application may be made in respect of a CFD unit to be established or altered[^c-0c2fa9d8cce94184d1812532cfbaae97] where an accreditation or registration applies (or has applied) in respect of that unit.
 
 (6) Subject to paragraph (7), no application may be made in respect of a CFD unit where the CFD unit—
 
@@ -609,7 +609,7 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 
 (9) No application may be made in respect of a CFD unit to be altered where funding has been given in respect of that unit under any of the non-fossil fuel orders.
 
-(10)[^key-b851dd5312b9e09bc08c3c48a5818728] No application may be made in respect of a CFD unit in relation to which—
+(10)[^c-b851dd5312b9e09bc08c3c48a5818728] No application may be made in respect of a CFD unit in relation to which—
 
 - (a) a CFD applies;
 - (b) a capacity agreement applies; or
@@ -620,7 +620,7 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 - (a) an application for a capacity agreement has been made when an application is made for prequalification in accordance with the Electricity Capacity Regulations 2014 and capacity market rules made under Chapter 3 of Part 2 of the Energy Act 2013 (“CM rules”); and
 - (b) an application for a capacity agreement has been determined when, in accordance with the Electricity Capacity Regulations 2014 and CM rules, it is no longer possible to obtain a capacity agreement as a consequence of that application.
 
-(11)[^key-9f437827e7310cc521b2ac705e0bb8f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-9f437827e7310cc521b2ac705e0bb8f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) No application may be made in respect of a CFD unit unless—
 
@@ -629,9 +629,9 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 
 (13) No application may be made in respect of a CFD unit to which an investment contract applies.
 
-(14) The contract allocation framework[^key-236ea966f2357644389c7c1810bdf0b1] may, in respect of an allocation round to which it applies, set out further descriptions of applications which may not be made in that round.
+(14) The contract allocation framework[^c-236ea966f2357644389c7c1810bdf0b1] may, in respect of an allocation round to which it applies, set out further descriptions of applications which may not be made in that round.
 
-#### 14ZA. Excluded applications: decommissioning[^key-31c4c229b2c0eacf0a0467c2486c3817]
+#### 14ZA. Excluded applications: decommissioning[^c-31c4c229b2c0eacf0a0467c2486c3817]
 
 (1) This regulation applies to an application in respect of a CFD unit that is to be altered by decommissioning part of an eligible generating station in order to replace that part.
 
@@ -642,20 +642,20 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 - (c) paragraph (10) (capacity agreement);
 - (d) paragraph (13) (investment contract).
 
-#### 14A. Temporary site exclusions and exemption certificates[^key-972c95acf0968dc5792ef82e78e2d180]
+#### 14A. Temporary site exclusions and exemption certificates[^c-972c95acf0968dc5792ef82e78e2d180]
 
 (1) This regulation and regulations 14B to 14D apply where—
 
 - (a) the offer lapsed in respect of a successful application (“a non-signature case”); or
-- (b)[^key-f1cd5f2b198d7550439651b7ede0a4b2] a CFD was entered into and was subsequently terminated, and either or both of the following circumstances apply—
-  - (i) the CFD was terminated on a date which is earlier than the date determined in accordance with the CFD as the Milestone Delivery Date;[^key-ffb96d6e5b04619d49ca80fa2a59f97f]
+- (b)[^c-f1cd5f2b198d7550439651b7ede0a4b2] a CFD was entered into and was subsequently terminated, and either or both of the following circumstances apply—
+  - (i) the CFD was terminated on a date which is earlier than the date determined in accordance with the CFD as the Milestone Delivery Date;[^c-ffb96d6e5b04619d49ca80fa2a59f97f]
   - (ii) the reason for the termination was that the eligible generator failed to achieve the stages for delivery for that CFD unit which were required under the CFD to be met by the date determined in accordance with the CFD as the Milestone Delivery Date;
 
   (each “a non-delivery case”).
 
-(2)[^key-59017b1e7c85ff45e0fd88edb12fe5a5] Subject to paragraphs (4) and (5), an eligible generator may not make an application in respect of a CFD unit in the next two allocation rounds[^key-0908574c9cd095e07e4cd0dd1d4e0d06] if the site of the main generating structures of the CFD unit is the same as, or includes any part of, an excluded site; and in this paragraph, “[^key-ae1ebb61ba4987dfdb1afae44aeb1391]**next two allocation rounds**” means the first two allocation rounds in which the eligible generator could otherwise have made such an application after the allocation round further to which the CFD notification in respect of the CFD referred to in paragraph (1) was given.
+(2)[^c-59017b1e7c85ff45e0fd88edb12fe5a5] Subject to paragraphs (4) and (5), an eligible generator may not make an application in respect of a CFD unit in the next two allocation rounds[^c-0908574c9cd095e07e4cd0dd1d4e0d06] if the site of the main generating structures of the CFD unit is the same as, or includes any part of, an excluded site; and in this paragraph, “[^c-ae1ebb61ba4987dfdb1afae44aeb1391]**next two allocation rounds**” means the first two allocation rounds in which the eligible generator could otherwise have made such an application after the allocation round further to which the CFD notification in respect of the CFD referred to in paragraph (1) was given.
 
-(2A)[^key-2202bf2a56cfc19789d5b86b7e998cab] The prohibition in paragraph (2) does not prevent an eligible generator from making a sustainable industry reward application in the next two allocation rounds referred to in that paragraph.
+(2A)[^c-2202bf2a56cfc19789d5b86b7e998cab] The prohibition in paragraph (2) does not prevent an eligible generator from making a sustainable industry reward application in the next two allocation rounds referred to in that paragraph.
 
 (3) The exclusion described in paragraph (2) is a “temporary site exclusion”.
 
@@ -675,10 +675,10 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 
 (6) In this regulation—
 
-- “excluded site” means the site of the main generating structures of the CFD unit[^key-cd5776d04a1454d4d484192a0680f5f6] described in the successful application in respect of which—
+- “excluded site” means the site of the main generating structures of the CFD unit[^c-cd5776d04a1454d4d484192a0680f5f6] described in the successful application in respect of which—
   - (a) the offer lapsed; or
   - (b) the CFD was entered into;
-- [^key-afa274456a06c35187e76d29ae57d015]...
+- [^c-afa274456a06c35187e76d29ae57d015]...
 
 #### 14B. Grounds for granting exemption certificates
 
@@ -714,7 +714,7 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
   - (i) those proceedings being commenced; or
   - (ii) the result of the concluded proceedings.
 
-(7) Ground 5 (which applies only where a temporary site exclusion arises by reason of a non-delivery case) is that the CFD was terminated by reason of a “Qualifying Change in Law Relevant Construction Event” or “Sustainability Change in Law”[^key-893a93c150749f6ba4bb43f5e9cf4131] (as those terms were defined in the CFD).
+(7) Ground 5 (which applies only where a temporary site exclusion arises by reason of a non-delivery case) is that the CFD was terminated by reason of a “Qualifying Change in Law Relevant Construction Event” or “Sustainability Change in Law”[^c-893a93c150749f6ba4bb43f5e9cf4131] (as those terms were defined in the CFD).
 
 (8) In this regulation—
 
@@ -726,28 +726,28 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
   - (b) an option for lease;
   - (c) a freehold;
   - (d) a leasehold;
-- “site A” means the site of the main generating structures of the CFD unit[^key-2f940260943fbcb9ba02d281cc9d4753] to be described in the intended application;
+- “site A” means the site of the main generating structures of the CFD unit[^c-2f940260943fbcb9ba02d281cc9d4753] to be described in the intended application;
 - “site B” means site A to the extent to which it coincides with the excluded site.
 
-(9)[^key-bb70e2a1496cf452f2dce70b6ebea4ef] Where E, P1, P2 or P3 is an unincorporated association, the conditions relating to E, P1, P2 or P3 in paragraphs (4) and (5) apply as if E, P1, P2 or P3 means any member of the unincorporated association.
+(9)[^c-bb70e2a1496cf452f2dce70b6ebea4ef] Where E, P1, P2 or P3 is an unincorporated association, the conditions relating to E, P1, P2 or P3 in paragraphs (4) and (5) apply as if E, P1, P2 or P3 means any member of the unincorporated association.
 
 (10) For the purposes of the definition of “relevant court proceedings”, where the applicant is an unincorporated association, court proceedings include proceedings against any member of the unincorporated association.
 
 #### 14C. Requests for exemption certificates
 
-(1) Paragraph (2) applies where Secretary of State is minded to establish an application window (“a prospective application window”)[^key-32dd7db41ebce11ae05ebe983e405905].
+(1) Paragraph (2) applies where Secretary of State is minded to establish an application window (“a prospective application window”)[^c-32dd7db41ebce11ae05ebe983e405905].
 
-(2) Where this paragraph applies, subject to paragraph (3), by no later than 50 working days before the date (“the prospective application opening date”)[^key-e97e656b50c8a0ebd734b9e149488e67] which the Secretary of State is minded to set as the application opening date of a prospective application window[^key-dfaeee6e5738edbde4c359891070cda3], the Secretary of State must publish a notice (“an exemptions request notice”).
+(2) Where this paragraph applies, subject to paragraph (3), by no later than 50 working days before the date (“the prospective application opening date”)[^c-e97e656b50c8a0ebd734b9e149488e67] which the Secretary of State is minded to set as the application opening date of a prospective application window[^c-dfaeee6e5738edbde4c359891070cda3], the Secretary of State must publish a notice (“an exemptions request notice”).
 
-(3) An exemptions request notice is not required where, by the date at which a notice would otherwise be required under paragraph (2), no temporary site exclusion applies at that date in respect of the prospective application window[^key-9aafde7ac65fbbd3533106a3e00a8646].
+(3) An exemptions request notice is not required where, by the date at which a notice would otherwise be required under paragraph (2), no temporary site exclusion applies at that date in respect of the prospective application window[^c-9aafde7ac65fbbd3533106a3e00a8646].
 
-(4) An exemptions request notice must apply to each prospective application window which is to have the same prospective application opening date[^key-5e26596caa31e3c5c68a70f091a1d7cb].
+(4) An exemptions request notice must apply to each prospective application window which is to have the same prospective application opening date[^c-5e26596caa31e3c5c68a70f091a1d7cb].
 
 (5) An exemptions request notice must—
 
-- (a) state the prospective application opening date[^key-3aa377cdcf26e26d0a419a81933b879e];
+- (a) state the prospective application opening date[^c-3aa377cdcf26e26d0a419a81933b879e];
 - (b) identify each prospective application window to which the notice applies;
-- (c) describe the types of eligible generator and eligible generating station to which each prospective application window[^key-5253e0aac471faf9bf625cacca72ff8c] is likely to apply;
+- (c) describe the types of eligible generator and eligible generating station to which each prospective application window[^c-5253e0aac471faf9bf625cacca72ff8c] is likely to apply;
 - (d) state the delivery years which are likely to apply to each prospective application window; and
 - (e) state the date by which a request for an exemption certificate must be made to the Secretary of State (“the closing date”), which must be no earlier than 15 working days after the date of the notice.
 
@@ -757,7 +757,7 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 - (b) be in the form and manner required by the Secretary of State;
 - (c) include details of the application (“the intended application”) which the eligible generator intends to make;
 - (d) specify the prospective application window in which the intended application is to be made;
-- (e) include the plan (“the site plan”) contained in, or referred to by, the applicable planning consents which are to accompany the intended application which identifies the site of the main generating structures of the CFD unit[^key-d513d930ad13914e29d59fdc1b260d04];
+- (e) include the plan (“the site plan”) contained in, or referred to by, the applicable planning consents which are to accompany the intended application which identifies the site of the main generating structures of the CFD unit[^c-d513d930ad13914e29d59fdc1b260d04];
 - (f) state each ground of exemption relied upon and include the information necessary to enable the Secretary of State to determine whether or not each such ground applies; and
 - (g) be made by the closing date.
 
@@ -785,23 +785,23 @@ A contract budget revision[^key-7c45b774292e5d09d0aa5b4ad4f1d104] notice must—
 (1) The CFD counterparty must establish and maintain a register of each excluded site to which a temporary site exclusion applies and the register must contain—
 
 - (a) the grid reference co-ordinates and such other information, including a plan to a suitable scale, which enables each such site to be readily identified;
-- (b)[^key-1c9908e8a67e1f5bfa62bf0257b5db90] the date on which the CFD notification was given for (as applicable)—
+- (b)[^c-1c9908e8a67e1f5bfa62bf0257b5db90] the date on which the CFD notification was given for (as applicable)—
   - (i) the CFD the offer of which lapsed; or
   - (ii) the CFD which was terminated;
 - (c) in a non-signature case, the name of the eligible generator who made the successful application in respect of which the offer lapsed; and
 - (d) in a non-delivery case, the name of the eligible generator who was a party to the CFD which was terminated.
 
-(1A)[^key-ae80411336ba57c22c6b58c28cad7943] Where an eligible generator is an unincorporated association, the requirements relating to the eligible generator in paragraph (1)(c) and (d) apply in relation to the unincorporated association and each member of the unincorporated association.
+(1A)[^c-ae80411336ba57c22c6b58c28cad7943] Where an eligible generator is an unincorporated association, the requirements relating to the eligible generator in paragraph (1)(c) and (d) apply in relation to the unincorporated association and each member of the unincorporated association.
 
 (2) The register must be made publicly available.
 
 ### CHAPTER 2 — Applications and determinations
 
-#### 15. Commencement of application windows[^key-9b6847907c01b4967b6f248bc01c7859]
+#### 15. Commencement of application windows[^c-9b6847907c01b4967b6f248bc01c7859]
 
 Chapters 2 to 4 apply where an application window has commenced further to an application window notice or an application window variation notice.
 
-#### 16. Applications[^key-a4a76aa0de53e230216c4cf1c1a4a77a]
+#### 16. Applications[^c-a4a76aa0de53e230216c4cf1c1a4a77a]
 
 (1) A person may make an application where that person is an eligible generator in respect of the CFD unit described in the application.
 
@@ -809,19 +809,19 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 
 (3) Up to and including the application closing date, an application may be withdrawn by the applicant at any time.
 
-(4) The contract allocation framework[^key-d6b91dd0008d5edfbcb158055cbadafb] may provide for circumstances where, after the application closing date, an application may be withdrawn or be treated as withdrawn.
+(4) The contract allocation framework[^c-d6b91dd0008d5edfbcb158055cbadafb] may provide for circumstances where, after the application closing date, an application may be withdrawn or be treated as withdrawn.
 
 (5) Subject to any provision described in paragraph (4), an application may not be withdrawn after the application closing date.
 
-#### 17. Determinations: qualifying applicants[^key-0064ba61c20a508f00bd0f3901654d0e]
+#### 17. Determinations: qualifying applicants[^c-0064ba61c20a508f00bd0f3901654d0e]
 
-(1) The delivery body must determine whether or not an application qualifies to take part in the contract allocation process[^key-2e25378f932e044b1556ee011b2d2840] applicable to the application.
+(1) The delivery body must determine whether or not an application qualifies to take part in the contract allocation process[^c-2e25378f932e044b1556ee011b2d2840] applicable to the application.
 
 (2) Where an application does so qualify, that application is “a qualifying application” and the applicant in respect of that application is “a qualifying applicant”.
 
 (3) An application is not a qualifying application unless the application—
 
-- (a) is one to which a contract allocation process[^key-70ad7c9bfca6662692609800232e8760] applies in the allocation round;
+- (a) is one to which a contract allocation process[^c-70ad7c9bfca6662692609800232e8760] applies in the allocation round;
 - (b) is not an excluded application;
 - (c) meets the general qualification requirements set out or referred to in Chapter 3; and
 - (d) where applicable, meets the additional qualification requirements set out or referred to in Chapter 4.
@@ -836,13 +836,13 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 - (b) where more than one set of standard terms[^f00016] applies in an allocation round, a statement by the applicant which identifies the set which would apply in respect of the application were a CFD to be allocated; and
 - (c) where the applicant has reached a modification agreement[^f00017], a statement by the applicant which identifies the agreement.
 
-#### 18. Information to be provided by the Authority[^key-5befb72c9f757115ec4658e917fcd002]
+#### 18. Information to be provided by the Authority[^c-5befb72c9f757115ec4658e917fcd002]
 
 (1) In order to determine an application, the delivery body may require the Authority to inform it whether or not an accreditation or an application for accreditation applies to a relevant CFD unit.
 
 (2) Where the Authority receives a request under paragraph (1), it must reply as soon as practicable in respect of information held by the Authority at the date on which the request is received[^f00018].
 
-#### 19. Notices of determinations[^key-10e631f1954527b73f8024ff3ab75ed1]
+#### 19. Notices of determinations[^c-10e631f1954527b73f8024ff3ab75ed1]
 
 (1) Subject to paragraph (4), the delivery body must give a notice to each applicant which states whether or not an application made by the applicant is a qualifying application.
 
@@ -851,24 +851,24 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 - (a) subject to paragraph (3), be given no later than 10 working days after the application closing date; and
 - (b) where the delivery body determines that the application is not a qualifying application (“a non-qualification determination”), give reasons for that determination.
 
-(3) The contract allocation framework[^key-7a6624c1915f92e422ab30ca46b8fc0e] which applies to the allocation round may provide for a different period than that stated in paragraph (2)(a) and, where such a period is provided, the obligation in paragraph (2)(b) applies in respect of that period.
+(3) The contract allocation framework[^c-7a6624c1915f92e422ab30ca46b8fc0e] which applies to the allocation round may provide for a different period than that stated in paragraph (2)(a) and, where such a period is provided, the obligation in paragraph (2)(b) applies in respect of that period.
 
 (4) A notice is not required under paragraph (1) where, before the notice would otherwise be given,—
 
 - (a) a termination notice has effect in respect of the allocation round; or
 - (b) the application is withdrawn.
 
-#### 20. Reviews of non-qualification determinations[^key-f9da6ee5aaf99fb22833e2537dadd1a3]
+#### 20. Reviews of non-qualification determinations[^c-f9da6ee5aaf99fb22833e2537dadd1a3]
 
 (1) An applicant may give a notice (“a review notice”) to the delivery body to request a review of a non-qualification determination (“a non-qualification review”).
 
-(1A)[^key-1034b91ad20872dd6845ba6a42c950a9] An applicant may not request a non-qualification review of a determination that an application is not a qualifying application by virtue of the applicant not being able to provide a sustainable industry reward statement, as required by regulation 27B(2).
+(1A)[^c-1034b91ad20872dd6845ba6a42c950a9] An applicant may not request a non-qualification review of a determination that an application is not a qualifying application by virtue of the applicant not being able to provide a sustainable industry reward statement, as required by regulation 27B(2).
 
 (2) A review notice must—
 
-- (a) subject to paragraph (6)(a)[^key-ad9ece90539d444658c304fcf27b7e21], be given by a date (“the non-qualification review request date”) which is no later than 5 working days after the date of the notice containing the non-qualification determination;
+- (a) subject to paragraph (6)(a)[^c-ad9ece90539d444658c304fcf27b7e21], be given by a date (“the non-qualification review request date”) which is no later than 5 working days after the date of the notice containing the non-qualification determination;
 - (b) contain the matters specified in paragraph (3) and be made in the form and manner as may be required by the delivery body; and
-- (c) subject to paragraph (6)(b),[^key-82c7dfbdfd404a5279861fa5cef35ff9] not contain any documentary evidence which was not provided to the delivery body in support of the application which is the subject of the non-qualification determination.
+- (c) subject to paragraph (6)(b),[^c-82c7dfbdfd404a5279861fa5cef35ff9] not contain any documentary evidence which was not provided to the delivery body in support of the application which is the subject of the non-qualification determination.
 
 (3) The matters referred to in paragraph (2)(b) are—
 
@@ -884,14 +884,14 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 - (a) states whether or not the delivery body has determined to uphold the non-qualification determination; and
 - (b) gives reasons for the determination.
 
-(5) Subject to paragraph (6)(a)[^key-1355a7e9548fcd6ca8d01c6891f09dee], a non-qualification review notice must be given by no later than 10 working days after the date on which the review notice is received.
+(5) Subject to paragraph (6)(a)[^c-1355a7e9548fcd6ca8d01c6891f09dee], a non-qualification review notice must be given by no later than 10 working days after the date on which the review notice is received.
 
-(6) The contract allocation framework[^key-b2e331b1081d45e26cc4968ae40f6a09] which applies to the allocation round may—
+(6) The contract allocation framework[^c-b2e331b1081d45e26cc4968ae40f6a09] which applies to the allocation round may—
 
-- (a)[^key-478529a30c3614d5bd6ca3a9f99f3a79] provide for a different period than that stated in paragraph (2)(a) or (5), and where such a different period is provided for, the obligation in paragraph (2)(a) or (5) applies in respect of that different period ; and[^key-ebcadd1228a4160bf6e916bb3d4a103b]
+- (a)[^c-478529a30c3614d5bd6ca3a9f99f3a79] provide for a different period than that stated in paragraph (2)(a) or (5), and where such a different period is provided for, the obligation in paragraph (2)(a) or (5) applies in respect of that different period ; and[^c-ebcadd1228a4160bf6e916bb3d4a103b]
 - (b) permit a review notice to contain documentary evidence or information of a description specified in the contract allocation framework.
 
-#### 20A. Delivery body error in notices of determinations[^key-bf0597c0c42fdc6718b52cefc81a1027]
+#### 20A. Delivery body error in notices of determinations[^c-bf0597c0c42fdc6718b52cefc81a1027]
 
 (1) The delivery body may, if provided for in the contract allocation framework which applies to the allocation round, give—
 
@@ -900,7 +900,7 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 
 (2) If the contract allocation framework which applies to the allocation round provides for determinations to be given under paragraph (1)(a) or (b), it may also provide for regulations 19, 20, 21, 29, 31, 32, 33, 49, 50 and 51 to apply with such modifications as the Secretary of State considers appropriate to take account of such determinations.
 
-#### 21. Additional applications[^key-425990ec58092d542a0d698b95399e6b]
+#### 21. Additional applications[^c-425990ec58092d542a0d698b95399e6b]
 
 (1) Except where paragraph (3) applies, no more than one application in respect of the same CFD unit may be made in the same allocation round, unless the prior application is withdrawn.
 
@@ -915,7 +915,7 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 - (a) the Authority upholds the non-qualification determination or no appeal is made; and
 - (b) the further application is made no later than the application closing date.
 
-#### 22. Requirements of applications[^key-dff2f10cae1fb2e7b9a37a205d552617]
+#### 22. Requirements of applications[^c-dff2f10cae1fb2e7b9a37a205d552617]
 
 (1) An applicant who makes an application must do so—
 
@@ -926,7 +926,7 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 
 ### CHAPTER 3 — General qualification requirements
 
-#### 23. Requirement for applicable planning consents[^key-fa5332ac3358f65b0c42d167b004664f]
+#### 23. Requirement for applicable planning consents[^c-fa5332ac3358f65b0c42d167b004664f]
 
 (1) Paragraphs (2) to (5) are subject to paragraph (7).
 
@@ -955,9 +955,9 @@ Chapters 2 to 4 apply where an application window has commenced further to an ap
 
 the applicant must provide details of those matters to the delivery body.
 
-(7) The contract allocation framework[^key-5f4c3e5eb8fddb719dca6be1bcf3c34d] which applies to an allocation round may, in respect of the allocation round to which the framework applies, amend, add to or remove the requirements in any of paragraphs (2) to (5) and the general qualification requirements are so modified where such an amendment, addition or removal is made.
+(7) The contract allocation framework[^c-5f4c3e5eb8fddb719dca6be1bcf3c34d] which applies to an allocation round may, in respect of the allocation round to which the framework applies, amend, add to or remove the requirements in any of paragraphs (2) to (5) and the general qualification requirements are so modified where such an amendment, addition or removal is made.
 
-#### 24. Applicable planning consents[^key-66c6112b394ff981fdeb1dc1f74ae88e]
+#### 24. Applicable planning consents[^c-66c6112b394ff981fdeb1dc1f74ae88e]
 
 (1) “Applicable planning consents” are—
 
@@ -982,11 +982,11 @@ the applicant must provide details of those matters to the delivery body.
 - “section 36 consent” means a consent under section 36 of the Electricity Act 1989[^f00024];
 - “TWA order” means an order under section 3 of the Transport and Works Act 1992[^f00025].
 
-#### 25. Connection agreements[^key-b4c4f13858dc6ddd8c48415aa024185f]
+#### 25. Connection agreements[^c-b4c4f13858dc6ddd8c48415aa024185f]
 
 (1) Paragraphs (2) to (4) are subject to paragraph (5).
 
-(2)[^key-8889196116e8eebf6a9afa9ab3ddde32] Where a direct connection applies or is to apply to the relevant CFD unit, the applicant must provide a copy of the connection agreement applicable to the relevant CFD unit, and—
+(2)[^c-8889196116e8eebf6a9afa9ab3ddde32] Where a direct connection applies or is to apply to the relevant CFD unit, the applicant must provide a copy of the connection agreement applicable to the relevant CFD unit, and—
 
 - (a) where connection is to the national transmission system for Great Britain, that agreement must secure transmission entry capacity for the CFD unit of at least 75% of the provisional capacity estimate of the CFD unit; or
 - (b) where connection is to the distribution system, that agreement must provide for the export of at least 75% of the provisional capacity estimate of the CFD unit to the distribution system.
@@ -1007,11 +1007,11 @@ the applicant must provide details of those matters to the delivery body.
   - (i) the private network use agreement applicable to the relevant CFD unit that allows the CFD unit to access a connection to the national transmission system for Great Britain or the distribution system; and
   - (ii) the connection agreement between the operator of the private network and the national system operator or the distribution system.
 
-(5) The contract allocation framework[^key-2bbefaa69d98df13f3b68f23e7ca8e8b] which applies to an allocation round may amend, add to or remove the requirements in any of paragraphs (2) to (4) and the general qualification requirements are so modified where such an amendment, addition or removal is made.
+(5) The contract allocation framework[^c-2bbefaa69d98df13f3b68f23e7ca8e8b] which applies to an allocation round may amend, add to or remove the requirements in any of paragraphs (2) to (4) and the general qualification requirements are so modified where such an amendment, addition or removal is made.
 
 (6) In this regulation—
 
-- “connection agreement” means an agreement (including a countersigned offer)[^key-ecd4e74d36eed894db8078b837368865] to connect to—
+- “connection agreement” means an agreement (including a countersigned offer)[^c-ecd4e74d36eed894db8078b837368865] to connect to—
   - (a) the national transmission system for Great Britain; or
   - (b) the distribution system,
 
@@ -1026,15 +1026,15 @@ the applicant must provide details of those matters to the delivery body.
   - (b) the distribution system,
 
   which applies to part only of the electricity generated by the relevant CFD unit.
-- “private network use agreement” means an agreement to connect to a private network, entered into by the operator of that private network, which sets out the terms for exporting electricity to that private network and the capacity in the private network that is accessible under the agreement;[^key-e036d2d9bf0f03499c38cd9ee891998a]
+- “private network use agreement” means an agreement to connect to a private network, entered into by the operator of that private network, which sets out the terms for exporting electricity to that private network and the capacity in the private network that is accessible under the agreement;[^c-e036d2d9bf0f03499c38cd9ee891998a]
 - “provisional capacity estimate” means the capacity of the relevant CFD unit, as provided by an applicant in accordance with paragraph 3(a)(iii) of Schedule 1;
 - “transmission entry capacity” means the maximum amount of electricity permitted by the national system operator to be exported from the relevant CFD unit to the national transmission system for Great Britain at any given time.
 
 ### CHAPTER 4 — Additional qualification requirements
 
-#### 26. Statements in relation to supply chains[^key-3ca102095e6d1489224a4b0f239f5253]
+#### 26. Statements in relation to supply chains[^c-3ca102095e6d1489224a4b0f239f5253]
 
-(1) Paragraph (4) applies where the three[^key-36b65dfcdce376bb4dcb018550f2b207] following conditions apply.
+(1) Paragraph (4) applies where the three[^c-36b65dfcdce376bb4dcb018550f2b207] following conditions apply.
 
 (2) The first condition is that the relevant CFD unit—
 
@@ -1045,24 +1045,24 @@ the applicant must provide details of those matters to the delivery body.
 
 (3) The second condition is that, in respect only of the first allocation round, the Secretary of State has not made a determination under regulation 12(2) of the Electricity Market Reform (General) Regulations 2014[^f00026] that statements under regulation 11 of those Regulations will not be provided for that round.
 
-(3A)[^key-f3746caec102c884eead255a8ab16291] The third condition is that the applicant does not provide a copy of a sustainable industry reward statement that applies to the relevant CFD unit in respect of the allocation round.[^key-5aa646dfb3f9feca8c0155602e52119e].
+(3A)[^c-f3746caec102c884eead255a8ab16291] The third condition is that the applicant does not provide a copy of a sustainable industry reward statement that applies to the relevant CFD unit in respect of the allocation round.[^c-5aa646dfb3f9feca8c0155602e52119e].
 
 (4) Where this paragraph applies, the applicant must provide a statement made by the Secretary of State under regulation 11 of the Electricity Market Reform (General) Regulations 2014 in relation to the relevant CFD unit.
 
-(5)[^key-8307d698ca7a2bc90c7276c3df22a7eb] In this regulation, “**threshold generating capacity**” means a generating capacity of—
+(5)[^c-8307d698ca7a2bc90c7276c3df22a7eb] In this regulation, “**threshold generating capacity**” means a generating capacity of—
 
 - (a) 300 megawatts or more; or
 - (b) where the relevant CFD unit meets, or is expected by the target commissioning date to meet, the floating offshore wind conditions set out in regulation 27ZA(4), under 300 megawatts.
 
-#### 27. Offshore CFD units[^key-f9cf115ad8307e90eabbae18ed42fe44]
+#### 27. Offshore CFD units[^c-f9cf115ad8307e90eabbae18ed42fe44]
 
 (1) This regulation applies where the relevant CFD unit is or is to be an offshore generating station or part of such a station.
 
-(2) The applicant must demonstrate that a lease or an agreement for lease has been granted by the Crown Estate Commissioners or a relevant person[^key-bbddfcd4336cd6300e7a085b5bf91fa5] in respect of the location of the relevant CFD unit.
+(2) The applicant must demonstrate that a lease or an agreement for lease has been granted by the Crown Estate Commissioners or a relevant person[^c-bbddfcd4336cd6300e7a085b5bf91fa5] in respect of the location of the relevant CFD unit.
 
-(3) In this regulation, “offshore generating station” means a generating station which is located wholly in offshore waters and “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests[^key-d638f541d1871a4f1efc9505f07af882].
+(3) In this regulation, “offshore generating station” means a generating station which is located wholly in offshore waters and “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests[^c-d638f541d1871a4f1efc9505f07af882].
 
-#### 27ZA. Floating offshore wind CFD units[^key-6a225bb7d1526897cdd43fb685fef86f]
+#### 27ZA. Floating offshore wind CFD units[^c-6a225bb7d1526897cdd43fb685fef86f]
 
 (1) This regulation applies where the relevant CFD unit is to be a floating offshore wind CFD unit.
 
@@ -1072,12 +1072,12 @@ the applicant must provide details of those matters to the delivery body.
 
 (4) The floating offshore wind conditions are that—
 
-- (a)[^key-d9af438586089f93aeaf6467f50bcba4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d9af438586089f93aeaf6467f50bcba4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) all turbines forming part of the relevant CFD unit—
   - (i) are mounted on floating foundations; and
   - (ii) are situated in offshore waters of at least 45 metres depth (measured from the seabed to chart datum).
 
-#### 27A. Remote island wind units[^key-e0183e7c723d6fc8ebae25a06ba213ed]
+#### 27A. Remote island wind units[^c-e0183e7c723d6fc8ebae25a06ba213ed]
 
 (1) This regulation applies where the relevant CFD unit is to be a remote island wind CFD unit.
 
@@ -1104,13 +1104,13 @@ the applicant must provide details of those matters to the delivery body.
   - (b) the entirety of the coastline (measured from the mean low water mark) of which is situated not less than 10 kilometres from mainland Great Britain; and
 - “subsea cabling” means cabling which is laid on or under the sea bed.
 
-#### 27B. Statements in relation to sustainable industry rewards[^key-797dce314905429749ca257056ef1894]
+#### 27B. Statements in relation to sustainable industry rewards[^c-797dce314905429749ca257056ef1894]
 
 If required by a contract allocation framework or a sustainable industry reward allocation framework, the applicant must provide a copy of a sustainable industry reward statement that applies to the relevant CFD unit in respect of the allocation round.
 
-#### 28. Supplemental requirements[^key-09f4580eac65eb9d5b1aafe81bd3d344]
+#### 28. Supplemental requirements[^c-09f4580eac65eb9d5b1aafe81bd3d344]
 
-(1) A contract allocation framework[^key-a3f4a130cde77fb30243c42fdcece0f8] may in respect of an allocation round provide for requirements (“supplemental requirements”) in relation to any or all types of eligible generating station which are in addition to the requirements in this Chapter.
+(1) A contract allocation framework[^c-a3f4a130cde77fb30243c42fdcece0f8] may in respect of an allocation round provide for requirements (“supplemental requirements”) in relation to any or all types of eligible generating station which are in addition to the requirements in this Chapter.
 
 (2) To the extent that any supplemental requirements apply to an application, the applicant in respect of that application must satisfy those requirements as additional qualification requirements for the allocation round.
 
@@ -1122,24 +1122,24 @@ If required by a contract allocation framework or a sustainable industry reward 
 - (d) the metering of electricity to be generated;
 - (e) the type of fuel to be used to generate electricity.
 
-### Chapter 5 — Sustainable industry reward statements: supplemental[^key-11820db8a7dbb6f0905735e105e74c1d]
+### Chapter 5 — Sustainable industry reward statements: supplemental[^c-11820db8a7dbb6f0905735e105e74c1d]
 
 #### 28A. Sustainable industry reward application
 
-(1)[^key-5060a85d1ea6db3014779de099dace6d] An eligible generator may make a sustainable industry reward application to the Secretary of State if required or permitted by a sustainable industry reward allocation framework.
+(1)[^c-5060a85d1ea6db3014779de099dace6d] An eligible generator may make a sustainable industry reward application to the Secretary of State if required or permitted by a sustainable industry reward allocation framework.
 
 (2) The Secretary of State must not provide a sustainable industry reward statement in response to a sustainable industry reward application unless the Secretary of State is satisfied that—
 
-- (a)[^key-fae491dd2df5dd618d5e8a444843509b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the sustainable industry reward application[^key-420bb0a6cc634d474a4800fe569119ed] meets the minimum standards of likely contribution to the development and sustainability of supply chains, as set out in the sustainable industry reward allocation framework.
+- (a)[^c-fae491dd2df5dd618d5e8a444843509b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the sustainable industry reward application[^c-420bb0a6cc634d474a4800fe569119ed] meets the minimum standards of likely contribution to the development and sustainability of supply chains, as set out in the sustainable industry reward allocation framework.
 
 #### 28B. Particulars of sustainable industry reward application
 
-(1)[^key-4e71de4cc52d8f8beecd70439e7fb219] A sustainable industry reward application must comply with the requirements set out in the sustainable industry reward allocation framework in relation to that round.
+(1)[^c-4e71de4cc52d8f8beecd70439e7fb219] A sustainable industry reward application must comply with the requirements set out in the sustainable industry reward allocation framework in relation to that round.
 
 (2) A sustainable industry reward applicant must—
 
-- (a) identify any information included in, or in support of, a sustainable industry reward application or otherwise provided to the Secretary of State in relation to a generating station[^key-947193c03960e844354b8ec49f264550] to support the development and sustainability of supply chains which the sustainable industry reward applicant considers is commercially confidential; and
+- (a) identify any information included in, or in support of, a sustainable industry reward application or otherwise provided to the Secretary of State in relation to a generating station[^c-947193c03960e844354b8ec49f264550] to support the development and sustainability of supply chains which the sustainable industry reward applicant considers is commercially confidential; and
 - (b) where such information is identified, provide reasons why the sustainable industry reward applicant considers that the disclosure of that information (other than to the Secretary of State for the purposes of determining the sustainable industry reward application) may damage the commercial interests of the sustainable industry reward applicant or another person.
 
 #### 28C. Providing sustainable industry reward statement or refusing application
@@ -1188,17 +1188,17 @@ The Secretary of State must, as soon as practicable after a sustainable industry
 - (b) must not change in a material way the obligations which must be fulfilled by the sustainable industry reward applicant in order to receive a sustainable industry reward; and
 - (c) must take into account the competitive nature of the sustainable industry reward allocation process.
 
-## PART 5 — Contract allocation processes[^key-a82dea93b3eca9f9666302148950ef96]
+## PART 5 — Contract allocation processes[^c-a82dea93b3eca9f9666302148950ef96]
 
 ### CHAPTER 1 — Valuation of applications
 
-#### 29. Valuation of applications[^key-f48faba0609b121008896d133c6bc10e]
+#### 29. Valuation of applications[^c-f48faba0609b121008896d133c6bc10e]
 
 (1) The delivery body must determine in respect of an allocation round the valuations in paragraph (2)(“applications valuations”) for—
 
 - (a) each delivery year;
 - (b) the period comprising all delivery years; and
-- (c) any period after the last delivery year as may be set out in the contract allocation framework[^key-6e626723d8d4202318e32f5bd3f4c6ec].
+- (c) any period after the last delivery year as may be set out in the contract allocation framework[^c-6e626723d8d4202318e32f5bd3f4c6ec].
 
 (2) The applications valuations are—
 
@@ -1233,16 +1233,16 @@ The Secretary of State must, as soon as practicable after a sustainable industry
   - (ii) to provide some or all of the applications valuations to a person or persons (other than the Secretary of State) as may be specified in the contract allocation framework; and
   - (iii) to make publicly available any or all of the applications valuations on such date or dates as may be specified in the contract allocation framework.
 
-### CHAPTER 2 — Requirements applicable to contract allocation frameworks[^key-9556b59749da99c4174ad35b27be505b]
+### CHAPTER 2 — Requirements applicable to contract allocation frameworks[^c-9556b59749da99c4174ad35b27be505b]
 
-#### 30. Requirements applicable to contract allocation frameworks[^key-cd47a4794ea264dc4920b27882a7a1e0][^key-5a7920554b2fd9a5ce0b64355f759cf3]
+#### 30. Requirements applicable to contract allocation frameworks[^c-cd47a4794ea264dc4920b27882a7a1e0][^c-5a7920554b2fd9a5ce0b64355f759cf3]
 
-(1) A contract allocation framework[^key-b34ce6234bde8ef15206dd6013325f6e] must ensure that, in respect of an allocation round to which it applies, the contract allocation process[^key-d6395d0c437cbaddb24bd30ffbe3191f] included in the framework complies with the following paragraphs.
+(1) A contract allocation framework[^c-b34ce6234bde8ef15206dd6013325f6e] must ensure that, in respect of an allocation round to which it applies, the contract allocation process[^c-d6395d0c437cbaddb24bd30ffbe3191f] included in the framework complies with the following paragraphs.
 
 (2) Except in respect of a CFD notification which is required to be made further to Part 8—
 
-- (a) the total value of qualifying applications for which CFD notifications are to be given must not exceed the contract budget[^key-a8d384bad290766bba8a50c0e250e5c9]; and
-- (b) a contract allocation process[^key-af0e832afe63294e3b382c8e0bdd99b8] must not result in an application being a successful application if that result would be in breach of sub-paragraph (a).
+- (a) the total value of qualifying applications for which CFD notifications are to be given must not exceed the contract budget[^c-a8d384bad290766bba8a50c0e250e5c9]; and
+- (b) a contract allocation process[^c-af0e832afe63294e3b382c8e0bdd99b8] must not result in an application being a successful application if that result would be in breach of sub-paragraph (a).
 
 (3) Subject to paragraph (2)(b), where minima apply to an allocation round and the value of qualifying applications to which the minima apply is less than or equal to the minima, the contract allocation process must result in—
 
@@ -1265,24 +1265,24 @@ The Secretary of State must, as soon as practicable after a sustainable industry
 
 (8) The contract allocation process must apply to each qualifying application.
 
-(9)[^key-013fbcbf33270cfa30e6afecd9ce6ae7] Paragraphs (2) and (4) are subject to regulation 11(4A).
+(9)[^c-013fbcbf33270cfa30e6afecd9ce6ae7] Paragraphs (2) and (4) are subject to regulation 11(4A).
 
-### CHAPTER 3 — Commencement and completion of a contract allocation process[^key-6445c1470b81eae4c48ba112367d80da]
+### CHAPTER 3 — Commencement and completion of a contract allocation process[^c-6445c1470b81eae4c48ba112367d80da]
 
-#### 31. Non-qualification review and appeal deadline dates[^key-6f9d22659664484d217e0d449d7af372]
+#### 31. Non-qualification review and appeal deadline dates[^c-6f9d22659664484d217e0d449d7af372]
 
-(1) The contract allocation framework[^key-6f6d0d5ee7b23b3e29e830e2cf8e6c89] may[^key-2ca63e6edce93456d7bbb8733ef7e1f8] specify in respect of an allocation round—
+(1) The contract allocation framework[^c-6f6d0d5ee7b23b3e29e830e2cf8e6c89] may[^c-2ca63e6edce93456d7bbb8733ef7e1f8] specify in respect of an allocation round—
 
 - (a) the non-qualification review request date; and
 - (b) the appeals deadline date.
 
-(2)[^key-b85faf2d6b1cdf1dddf036c0fb30c3cc] The Secretary of State must, in such manner as the Secretary of State thinks appropriate, publish in respect of an allocation round a date on which the Secretary of State is minded to require the contract allocation process[^key-5e8865fcd7fa8c4db297def3c3e35e63] for the allocation round to commence (“the post-appeals indicative start date”).
+(2)[^c-b85faf2d6b1cdf1dddf036c0fb30c3cc] The Secretary of State must, in such manner as the Secretary of State thinks appropriate, publish in respect of an allocation round a date on which the Secretary of State is minded to require the contract allocation process[^c-5e8865fcd7fa8c4db297def3c3e35e63] for the allocation round to commence (“the post-appeals indicative start date”).
 
 (3) The post-appeals indicative start date must be no earlier than 10 working days after the appeals deadline date.
 
-#### 32. Notices of requests for review or appeal[^key-8043b4afb30dc1094fdfc16ce35677d5]
+#### 32. Notices of requests for review or appeal[^c-8043b4afb30dc1094fdfc16ce35677d5]
 
-(1) The delivery body must give a notice to the Secretary of State and the Authority[^key-5e73d6ecd8a21545742f685f63ae19c5] as soon as practicable after the non-qualification review request date stating the number, if any, of review notices received.
+(1) The delivery body must give a notice to the Secretary of State and the Authority[^c-5e73d6ecd8a21545742f685f63ae19c5] as soon as practicable after the non-qualification review request date stating the number, if any, of review notices received.
 
 (2) Paragraph (3) applies where—
 
@@ -1309,9 +1309,9 @@ The Secretary of State must, as soon as practicable after a sustainable industry
 - (a) by no later than 10 working days after the post-appeals indicative start date; and
 - (b) where a notice is given under sub-paragraph (a) which states that at least one qualification appeal is not determined, at no later than 10 working day intervals thereafter until all qualification appeals are determined by the Authority.
 
-#### 33. Commencement of the contract allocation process[^key-aec491c171788285c6742b1ee96185f8][^key-cf2c099d5021b6e291be5e9f78e76a62]
+#### 33. Commencement of the contract allocation process[^c-aec491c171788285c6742b1ee96185f8][^c-cf2c099d5021b6e291be5e9f78e76a62]
 
-(A1)[^key-44037c6e8fa0cd52e3948e91968203df] Where the delivery body determines that all applications made further to an allocation round are qualifying applications (whether under regulation 17 or following any non-qualification review under regulation 20), the delivery body must commence the contract allocation process as soon as reasonably practicable after the date of the last notice given under regulation 19, or as the case may be, last non-qualification review notice.
+(A1)[^c-44037c6e8fa0cd52e3948e91968203df] Where the delivery body determines that all applications made further to an allocation round are qualifying applications (whether under regulation 17 or following any non-qualification review under regulation 20), the delivery body must commence the contract allocation process as soon as reasonably practicable after the date of the last notice given under regulation 19, or as the case may be, last non-qualification review notice.
 
 (1) Where a notice is given under—
 
@@ -1338,29 +1338,29 @@ the Authority must immediately give a notice to the Secretary of State and the d
 - (a) when the contract allocation process has commenced; and
 - (b) which qualification appeals are not determined at that date.
 
-#### 34. Delay to the commencement of contract allocation processes[^key-ae7dc8325e672cde1d1f4e25dd02990c][^key-44dfa4247605886f8c5cca28c9a20de2]
+#### 34. Delay to the commencement of contract allocation processes[^c-ae7dc8325e672cde1d1f4e25dd02990c][^c-44dfa4247605886f8c5cca28c9a20de2]
 
-(1) This regulation applies where the commencement of a contract allocation process[^key-bff379aeb571414b792b49e3ea062c37] under regulation 33 is more than 5 months after the application closing date.
+(1) This regulation applies where the commencement of a contract allocation process[^c-bff379aeb571414b792b49e3ea062c37] under regulation 33 is more than 5 months after the application closing date.
 
-(2) The Secretary of State may give a notice to the delivery body to require it to give a notice (“a variation notice”) to each qualifying applicant and pending applicant which states that target dates[^key-eb375222124c2e46f665da8043da4faa] may be delayed[^key-5decc010c0ac1ab567ba1877194bffd4] by the applicant by a period not greater than that specified in the Secretary of State’s notice.
+(2) The Secretary of State may give a notice to the delivery body to require it to give a notice (“a variation notice”) to each qualifying applicant and pending applicant which states that target dates[^c-eb375222124c2e46f665da8043da4faa] may be delayed[^c-5decc010c0ac1ab567ba1877194bffd4] by the applicant by a period not greater than that specified in the Secretary of State’s notice.
 
 (3) The delivery body must comply with a notice given to it by the Secretary of State under paragraph (2).
 
-(4) Where a variation notice is given, a qualifying applicant or pending applicant who wishes to delay[^key-983563ce2cf31bea89635b9b38594dbc] the target dates must do so by giving a notice to the delivery body with any delayed[^key-cc180f4dd96297767a0c7306f174d2a2] target dates by no later than 5 working days after the date of the variation notice.
+(4) Where a variation notice is given, a qualifying applicant or pending applicant who wishes to delay[^c-983563ce2cf31bea89635b9b38594dbc] the target dates must do so by giving a notice to the delivery body with any delayed[^c-cc180f4dd96297767a0c7306f174d2a2] target dates by no later than 5 working days after the date of the variation notice.
 
 (5) Where delayed target dates are provided in accordance with paragraph (4), the delivery body must—
 
 - (a) substitute those dates for those provided with the application; and
 - (b) to the extent that those dates affect any of the applications valuations determined under regulation 29, re-determine in accordance with regulation 29 such of the applications valuations as are affected.
 
-(6) The delivery body must not continue with the contract allocation process[^key-162e6740cb8b782e7c3a8018cffbd47b] until the later of—
+(6) The delivery body must not continue with the contract allocation process[^c-162e6740cb8b782e7c3a8018cffbd47b] until the later of—
 
 - (a) the time to provide delayed target dates has expired; or
-- (b) any re-determination of applications valuations required under paragraph (5)(b)[^key-f826998602f5a7956cff9bd48d3aa862] has been made.
+- (b) any re-determination of applications valuations required under paragraph (5)(b)[^c-f826998602f5a7956cff9bd48d3aa862] has been made.
 
-#### 35. Completion of the contract allocation process[^key-4ab2e04b58fb4a03a26cfa5ec6bfec0c][^key-605305425252e21d09295872a976bf39]
+#### 35. Completion of the contract allocation process[^c-4ab2e04b58fb4a03a26cfa5ec6bfec0c][^c-605305425252e21d09295872a976bf39]
 
-(1) The delivery body must give a notice to the Secretary of State once the delivery body is satisfied that it has completed the contract allocation process[^key-98d5dea9d370f59d8a363b5d7430260e].
+(1) The delivery body must give a notice to the Secretary of State once the delivery body is satisfied that it has completed the contract allocation process[^c-98d5dea9d370f59d8a363b5d7430260e].
 
 (2) The delivery body must provide to the CFD counterparty—
 
@@ -1369,21 +1369,21 @@ the Authority must immediately give a notice to the Secretary of State and the d
 
 ### CHAPTER 4 — Auditing, re-runs and termination
 
-#### 36. Auditing[^key-2093b18cbb9219d6b21822cca0ce6beb]
+#### 36. Auditing[^c-2093b18cbb9219d6b21822cca0ce6beb]
 
-(1)[^key-5519acdc1ef4461f54d89458c89e8670] The delivery body must obtain an audit of the calculations—
+(1)[^c-5519acdc1ef4461f54d89458c89e8670] The delivery body must obtain an audit of the calculations—
 
 - (a) likely to be made by it in the contract allocation process in relation to an estimated budget as soon as reasonably practicable after an estimated budget notice has been given to the delivery body; and
 - (b) made by it in the contract allocation process as soon as reasonably practicable after a notice is given under regulation 35(1) (completion of the contract allocation process).
 
-(2) An audit under paragraph (1)[^key-24388d2384c33e7d3e250e242cf4e187] must—
+(2) An audit under paragraph (1)[^c-24388d2384c33e7d3e250e242cf4e187] must—
 
-- (a) be carried out by a person (“the auditor”) independent of the delivery body and who is qualified to perform an audit of the calculations made in the contract allocation process[^key-40f9257e04eb30239413e975843460cb]; and
+- (a) be carried out by a person (“the auditor”) independent of the delivery body and who is qualified to perform an audit of the calculations made in the contract allocation process[^c-40f9257e04eb30239413e975843460cb]; and
 - (b) include provision of a report to the delivery body (“an audit report”) which—
   - (i) sets out whether or not the auditor considers that calculations have been made correctly and accurately; and
   - (ii) where applicable, identifies any calculations which the auditor considers were not correctly or accurately made and identifies the consequences of those calculations.
 
-(3) Where during a contract allocation process[^key-ed6349bf5d2c887fef4feca0d1dd2db3] bids of strike prices are made—
+(3) Where during a contract allocation process[^c-ed6349bf5d2c887fef4feca0d1dd2db3] bids of strike prices are made—
 
 - (a) the audit report must not include any information which would enable the identification of which bids were made by which applicant; and
 - (b) the delivery body must provide details of those bids to—
@@ -1394,28 +1394,28 @@ the Authority must immediately give a notice to the Secretary of State and the d
 
 (5) The delivery body may exclude from publication any part of the audit report which the delivery body considers to contain commercially confidential information.
 
-(6) In this regulation, “audit of the calculations” means an audit of whether or not the calculations required by the contract allocation framework[^key-234aee2d5be9ae6973a79f2d1a90f6bc] were—
+(6) In this regulation, “audit of the calculations” means an audit of whether or not the calculations required by the contract allocation framework[^c-234aee2d5be9ae6973a79f2d1a90f6bc] were—
 
 - (a) applied correctly; and
 - (b) made accurately.
 
-#### 37. Provision of audit report to the Secretary of State[^key-dc225cf50df2fe2443995cffd0741346]
+#### 37. Provision of audit report to the Secretary of State[^c-dc225cf50df2fe2443995cffd0741346]
 
 (1) Subject to regulation 40(1), as soon as practicable after the audit report is received, the delivery body must give a notice to the Secretary of State which—
 
 - (a) includes the audit report; and
-- (b) only where a report is obtained under regulation 36(1)(b), having regard to that report[^key-10ce100ba6abc8cde0794c41aa7b1ebc], states whether the delivery body intends—
+- (b) only where a report is obtained under regulation 36(1)(b), having regard to that report[^c-10ce100ba6abc8cde0794c41aa7b1ebc], states whether the delivery body intends—
   - (i) to proceed in accordance with Part 6 and, if so, the date on which it intends to do so (“a proceed notice”); or
-  - (ii) to re-run the contract allocation process[^key-d94bc9e0d7aef9d63d6d4d8ad51de2a9] or any part of it as set out in the notice and, if so, the date on which it intends to commence the re-run (“a re-run notice”).
+  - (ii) to re-run the contract allocation process[^c-d94bc9e0d7aef9d63d6d4d8ad51de2a9] or any part of it as set out in the notice and, if so, the date on which it intends to commence the re-run (“a re-run notice”).
 
 (2) A date under paragraph (1)(b) must be not be earlier than 2 working days after the date of the notice.
 
-#### 38. Proceeding, re-running a contract allocation process or terminating an allocation round[^key-a16c72f1ebc88e0b0f2904f649d5ea4d][^key-935a2d854a006e6cd9577d6d09206e74]
+#### 38. Proceeding, re-running a contract allocation process or terminating an allocation round[^c-a16c72f1ebc88e0b0f2904f649d5ea4d][^c-935a2d854a006e6cd9577d6d09206e74]
 
-(1) [^key-8c3d8d60cf26e77541d8a6d2b4ea0295]... Where the delivery body gives—
+(1) [^c-8c3d8d60cf26e77541d8a6d2b4ea0295]... Where the delivery body gives—
 
 - (a) a proceed notice, the Secretary of State may give the delivery body a direction—
-  - (i) to re-run the contract allocation process[^key-7c4990a429c731cbbf2888b4528414d9] or a part of it as set out in the direction and when to commence the re-run (“a re-run direction”); or
+  - (i) to re-run the contract allocation process[^c-7c4990a429c731cbbf2888b4528414d9] or a part of it as set out in the direction and when to commence the re-run (“a re-run direction”); or
   - (ii) to take no further steps in respect of the allocation round (“a halt direction”);
 - (b) a re-run notice, the Secretary of State may give the delivery body—
   - (i) a direction to proceed in accordance with Part 6 and when to do so (“a proceed direction”); or
@@ -1425,7 +1425,7 @@ the Authority must immediately give a notice to the Secretary of State and the d
 
 (3) The Secretary of State must give a termination notice as soon as practicable after giving a halt direction.
 
-#### 39. Re-running a contract allocation process[^key-69f32b93296390718d319221d1935281][^key-11b1cfaf66b0efb0270ac1798a641d24]
+#### 39. Re-running a contract allocation process[^c-69f32b93296390718d319221d1935281][^c-11b1cfaf66b0efb0270ac1798a641d24]
 
 (1) Paragraph (2) applies where the delivery body—
 
@@ -1436,19 +1436,19 @@ the Authority must immediately give a notice to the Secretary of State and the d
 
 (2) Where this paragraph applies, the delivery body must—
 
-- (a) [^key-4784944c84634066e25d70a776d59146]... in accordance with the re-run notice or re-run direction commence the re-run of the contract allocation process[^key-021be48c52d74a209d4057a657068995] or part of it; and
+- (a) [^c-4784944c84634066e25d70a776d59146]... in accordance with the re-run notice or re-run direction commence the re-run of the contract allocation process[^c-021be48c52d74a209d4057a657068995] or part of it; and
 - (b) after completion of the re-run, comply with regulation 35.
 
-(3)[^key-18b6dc102ba7fe31244cc9b96d543502] The contract allocation framework[^key-11e5a7431815a324654650f0a66daab1] may, in respect of an allocation round to which it applies, set out periods within which the delivery body must complete any re-run of the contract allocation process[^key-0c5c68767487c9e4889d3f5dd837a0ef] or part of it.
+(3)[^c-18b6dc102ba7fe31244cc9b96d543502] The contract allocation framework[^c-11e5a7431815a324654650f0a66daab1] may, in respect of an allocation round to which it applies, set out periods within which the delivery body must complete any re-run of the contract allocation process[^c-0c5c68767487c9e4889d3f5dd837a0ef] or part of it.
 
-### CHAPTER 5 — Delay and re-running the contract allocation process[^key-e4359e4b3c8319b664bbefd8f03bd06e]
+### CHAPTER 5 — Delay and re-running the contract allocation process[^c-e4359e4b3c8319b664bbefd8f03bd06e]
 
-#### 40. Delay after completion of contract allocation processes[^key-5cf0f5a7b40440d7d827c35b181a5cd2][^key-fdc24cef84608b8181ebb3c6c5ca024f]
+#### 40. Delay after completion of contract allocation processes[^c-5cf0f5a7b40440d7d827c35b181a5cd2][^c-fdc24cef84608b8181ebb3c6c5ca024f]
 
 (1) Where the delay period has expired—
 
-- (a) a proceed notice or a re-run notice[^key-3f008a8f6156ddbeea1310f2c38296ad] must not be given; and
-- (b) the delivery body must not re-run part only of the contract allocation process[^key-ab4a73b566317d7514c8d03d2dd385f1].
+- (a) a proceed notice or a re-run notice[^c-3f008a8f6156ddbeea1310f2c38296ad] must not be given; and
+- (b) the delivery body must not re-run part only of the contract allocation process[^c-ab4a73b566317d7514c8d03d2dd385f1].
 
 (2) Where paragraph (1) applies the delivery body must—
 
@@ -1461,11 +1461,11 @@ the Authority must immediately give a notice to the Secretary of State and the d
 - (a) where a variation notice was not required to be given when the contract allocation process commenced, a period of more than 5 months has expired since the application closing date; or
 - (b) where a variation notice was required to be given when the contract allocation process commenced, a period of more than 5 months has expired since the date on which the variation notice was required to be given.
 
-(4) The contract allocation framework[^key-e779b565ed08a93af839599ab14d6e6b] for the allocation round may provide for a period other than “5 months” stated in paragraph (3)(a) or (b) and where such other period is provided, “delay period” has effect with that modification.
+(4) The contract allocation framework[^c-e779b565ed08a93af839599ab14d6e6b] for the allocation round may provide for a period other than “5 months” stated in paragraph (3)(a) or (b) and where such other period is provided, “delay period” has effect with that modification.
 
 ## PART 6 — CFD notifications
 
-### 41. Application of Part 6[^key-322b868055aa9ace094eda1b65fdbe97]
+### 41. Application of Part 6[^c-322b868055aa9ace094eda1b65fdbe97]
 
 This Part applies where the delivery body—
 
@@ -1474,7 +1474,7 @@ This Part applies where the delivery body—
   - (ii) a halt direction; or
 - (b) receives a proceed direction.
 
-### 42. Timing and content of CFD notifications and notices[^key-8454d19db5171baf68f53fffb7b94c58]
+### 42. Timing and content of CFD notifications and notices[^c-8454d19db5171baf68f53fffb7b94c58]
 
 (1) The delivery body must comply with this regulation—
 
@@ -1489,11 +1489,11 @@ This Part applies where the delivery body—
 (3) A CFD notification must state the final strike price applicable to the successful application and include such information—
 
 - (a) supplied by the applicant to the delivery body with the application; or
-- (b) as may be contained in the contract allocation framework[^key-83cc5c4e3e0eee76adcddd3a448ae966],
+- (b) as may be contained in the contract allocation framework[^c-83cc5c4e3e0eee76adcddd3a448ae966],
 
 which enables the CFD counterparty to complete the terms and conditions applicable to the intended CFD.
 
-(3A)[^key-f56c03b64249c74dc9ec78841146abfc] The delivery body must, when it gives a CFD notification, inform—
+(3A)[^c-f56c03b64249c74dc9ec78841146abfc] The delivery body must, when it gives a CFD notification, inform—
 
 - (a) the relevant applicant; and
 - (b) the Secretary of State,
@@ -1509,7 +1509,7 @@ of the CFD unit to which the CFD notification relates.
 - (a) that a CFD notification is not given in respect of the qualifying application; and
 - (b) the reason why a CFD notification is not given.
 
-### 42A. Updating the sustainable industry reward statement[^key-0819f707887c3dcb071769119f469f7f]
+### 42A. Updating the sustainable industry reward statement[^c-0819f707887c3dcb071769119f469f7f]
 
 (1) This regulation applies where an applicant has a sustainable industry reward statement that applies to two or more CFD units, one or more of which is the subject of a CFD notification.
 
@@ -1523,7 +1523,7 @@ of the CFD unit to which the CFD notification relates.
 
 ## PART 7 — Disputes and appeals
 
-### 43. Disputes concerning non-qualification determinations: qualification appeals[^key-dfa91bc9312237287c493ec1bc88e445]
+### 43. Disputes concerning non-qualification determinations: qualification appeals[^c-dfa91bc9312237287c493ec1bc88e445]
 
 (1) Where—
 
@@ -1539,7 +1539,7 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 - (b) in such form and manner as the Authority requires; and
 - (c) by no later than 5 working days after the date of the non-qualification review notice (“the appeals deadline date”).
 
-### 44. Requirements for qualification appeals[^key-46fe0ff05acd40747e264356866f664f]
+### 44. Requirements for qualification appeals[^c-46fe0ff05acd40747e264356866f664f]
 
 (1) A qualification appeal must contain—
 
@@ -1562,7 +1562,7 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 
 (4) A copy of a qualification appeal must be sent by the applicant to the delivery body at the same time as it is sent to the Authority.
 
-### 45. Notification and representations[^key-87e7beb0a6da882f141bc9e0a3d18007]
+### 45. Notification and representations[^c-87e7beb0a6da882f141bc9e0a3d18007]
 
 (1) Where a qualification appeal has been made in accordance with regulations 43 and 44, the Authority must give a notice to the delivery body which—
 
@@ -1576,7 +1576,7 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 - (a) to the applicant and the Authority; and
 - (b) by no later than 5 working days after the date of the notice given under paragraph (1).
 
-### 46. Determinations of the Authority[^key-17827903e3dd78e20d87e9696942b440]
+### 46. Determinations of the Authority[^c-17827903e3dd78e20d87e9696942b440]
 
 (1) The Authority must determine a qualification appeal as soon as practicable.
 
@@ -1585,7 +1585,7 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 - (a) to uphold the non-qualification determination; or
 - (b) that the applicant is a qualifying applicant.
 
-(2A)[^key-1a11d7d7c593283d10860fd451437314] The Authority may by notice require the delivery body to provide it with information to assist the Authority to determine a qualification appeal.
+(2A)[^c-1a11d7d7c593283d10860fd451437314] The Authority may by notice require the delivery body to provide it with information to assist the Authority to determine a qualification appeal.
 
 (2B) Where the delivery body—
 
@@ -1595,20 +1595,20 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 
 (2C) The delivery body must provide the information required by the notice by no later than 5 working days after the date of the notice.
 
-(3) Where the Authority has made a determination, it must give a notice to the applicant , the Secretary of State[^key-498bc3be250e6c30a239ace88fdf4245] and the delivery body which—
+(3) Where the Authority has made a determination, it must give a notice to the applicant , the Secretary of State[^c-498bc3be250e6c30a239ace88fdf4245] and the delivery body which—
 
 - (a) states the determination of the Authority; and
 - (b) the date of the determination.
 
-(4) A notice under paragraph (3) must be given as[^key-1937feb4daa552bc8b5d0519fcf4366e] soon as practicable after the date of the determination by the Authority.
+(4) A notice under paragraph (3) must be given as[^c-1937feb4daa552bc8b5d0519fcf4366e] soon as practicable after the date of the determination by the Authority.
 
-### 47. Appeal to the High Court or Court of Session[^key-30dd3f48375bd4d9c6b5d3a3c9808d77]
+### 47. Appeal to the High Court or Court of Session[^c-30dd3f48375bd4d9c6b5d3a3c9808d77]
 
 (1) Where the Authority upholds a non-qualification determination, the applicant may make an appeal to the High Court or, in Scotland, the Court of Session, on a point of law.
 
 (2) An appeal under paragraph (1) must be made by no later than 28 days after the date on which the notice is given under regulation 46(3) which states that the non-qualification determination is upheld.
 
-### 48. Register of appeals[^key-704362d689a5dcc4086a5fde0de5b6fe]
+### 48. Register of appeals[^c-704362d689a5dcc4086a5fde0de5b6fe]
 
 (1) The delivery body must establish and maintain a register of any qualification appeals (“the appeals register”).
 
@@ -1626,9 +1626,9 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 
 ## PART 8 — Pending applications
 
-### 49. Application of this Part[^key-574938496141039b9a613bc3828322db]
+### 49. Application of this Part[^c-574938496141039b9a613bc3828322db]
 
-(1)[^key-fe15222ca584dd287db9de836e3a7cd5] This Part applies where, at the time that the contract allocation process for the allocation round commences—
+(1)[^c-fe15222ca584dd287db9de836e3a7cd5] This Part applies where, at the time that the contract allocation process for the allocation round commences—
 
 - (a) an applicant has in accordance with regulations 43 and 44 made a qualification appeal in respect of an application and that appeal has not been determined;
 - (b) an applicant has in accordance with regulations 43 and 44 made a qualification appeal in respect of an application and the Authority has upheld the non-qualification determination but the time to appeal referred to in regulation 47(2) has not expired; or
@@ -1636,38 +1636,38 @@ the applicant may apply to the Authority to determine that dispute (“a qualifi
 
 (2) An application to which paragraph (1) applies is a “pending application” and an applicant to whom paragraph (1) applies is a “pending applicant”.
 
-### 50. Strike price bids[^key-33a5088cb06a48567081558837cbc4c3]
+### 50. Strike price bids[^c-33a5088cb06a48567081558837cbc4c3]
 
-(1) Paragraphs (2) and (3) apply where, under the contract allocation framework[^key-b522f2d6154a6f26008f882713867349], an applicant in respect of an application equivalent to the pending application (“an equivalent application”) is entitled to make a bid of strike prices before or during the contract allocation process[^key-794034a6dde77f7c0245da9eb4824431].
+(1) Paragraphs (2) and (3) apply where, under the contract allocation framework[^c-b522f2d6154a6f26008f882713867349], an applicant in respect of an application equivalent to the pending application (“an equivalent application”) is entitled to make a bid of strike prices before or during the contract allocation process[^c-794034a6dde77f7c0245da9eb4824431].
 
 (2) Where this paragraph applies, the delivery body—
 
-- (a) must ensure that the pending applicant is able to make bids of strike prices in respect of the pending application to the same extent as an applicant may make such bids in respect of an equivalent application; and[^key-0f95de5cc601e47029adc8f119635d19]
-- (b) must not apply any bid (“a pending bid”) made by a pending applicant in the contract allocation process.[^key-2c43f543ebcc541a12e2c7038f79546a]
-- (c)[^key-4f2ed29a9c48894e400336c88a5ccb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) must ensure that the pending applicant is able to make bids of strike prices in respect of the pending application to the same extent as an applicant may make such bids in respect of an equivalent application; and[^c-0f95de5cc601e47029adc8f119635d19]
+- (b) must not apply any bid (“a pending bid”) made by a pending applicant in the contract allocation process.[^c-2c43f543ebcc541a12e2c7038f79546a]
+- (c)[^c-4f2ed29a9c48894e400336c88a5ccb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where this paragraph applies, the delivery body must destroy a pending bid—
 
 - (a) if an appeal by the pending applicant is made to the High Court or the Court of Session under regulation 47 and the court rejects the appeal; or
 - (b) if no appeal is made under regulation 47.
 
-### 51. Successful applications determined by the Authority[^key-6b21c398368eee4ee892bad65befe997]
+### 51. Successful applications determined by the Authority[^c-6b21c398368eee4ee892bad65befe997]
 
-(1) This regulation applies where the Authority determines that a pending application is a qualifying application after the contract allocation process[^key-e13101f337bc6f81842a08f91dcdd99f] for the allocation round commenced.
+(1) This regulation applies where the Authority determines that a pending application is a qualifying application after the contract allocation process[^c-e13101f337bc6f81842a08f91dcdd99f] for the allocation round commenced.
 
-(1A)[^key-b95c99b07514699adf3802939fc08fb7] Paragraph (1B) applies where the delivery body—
+(1A)[^c-b95c99b07514699adf3802939fc08fb7] Paragraph (1B) applies where the delivery body—
 
 - (a) receives a notice from the Authority in accordance with regulation 46(3) that states the determination of the Authority is that an applicant is a qualifying applicant; and
 - (b) has not given a proceed notice under regulation 37(1)(b)(i) in respect of the most recent run of the contract allocation process for the allocation round.
 
 (1B) Where this paragraph applies, the delivery body must—
 
-- (a)[^key-2096233c4f51e33f613507acd7705d00] re-run such part of the contract allocation process as is necessary to determine whether the applicant’s pending application is a successful application; and
+- (a)[^c-2096233c4f51e33f613507acd7705d00] re-run such part of the contract allocation process as is necessary to determine whether the applicant’s pending application is a successful application; and
 - (b) after completion of the re-run, comply with regulation 35.
 
-(2) Where the contract allocation process, or such part of it as applies to equivalent applications, is to be re-run further to Chapter 4 or 5 of Part 5 or paragraph (1B)[^key-ddf3303bc2a859a9dfda4c5d6447d89e], the delivery body must ensure that the re-run process includes any pending application which is determined as a qualifying application.
+(2) Where the contract allocation process, or such part of it as applies to equivalent applications, is to be re-run further to Chapter 4 or 5 of Part 5 or paragraph (1B)[^c-ddf3303bc2a859a9dfda4c5d6447d89e], the delivery body must ensure that the re-run process includes any pending application which is determined as a qualifying application.
 
-(3)[^key-aeee2b695e4a597b4a8ab956e75e8b0e] Where—
+(3)[^c-aeee2b695e4a597b4a8ab956e75e8b0e] Where—
 
 - (a) after a proceed notice has been given, the delivery body receives a notice from the Authority in accordance with regulation 46(3) which states that the determination of the Authority is that an application is a qualifying application; and
 - (b) no direction has been given under regulation 38(1)(a) within the period specified in regulation 38(2),
@@ -1679,28 +1679,28 @@ the delivery body must determine whether or not the pending application is a suc
 - (a) a variation notice was not required to be given when the contract allocation process commenced and a period of more than 5 months has expired since the application closing date; or
 - (b) a variation notice was required to be given when the contract allocation process commenced and a period of more than 5 months has expired since the date on which the variation notice was required to be given.
 
-(5) The contract allocation framework[^key-45060ee03c2abdb37cfe8c7c9933d202] for the allocation round may provide for a period other than “5 months” stated in paragraph (4)(a) or (b) and where such other period is provided, paragraph (4) has effect with that modification.
+(5) The contract allocation framework[^c-45060ee03c2abdb37cfe8c7c9933d202] for the allocation round may provide for a period other than “5 months” stated in paragraph (4)(a) or (b) and where such other period is provided, paragraph (4) has effect with that modification.
 
 (6) Where this paragraph applies—
 
-- (a) the delivery body must give a notice to the pending applicant stating that target dates[^key-7e3446e53053464610d75c9ede445fc5] may be delayed[^key-df93c3d216ce8ebd895a7048a9bf5895] by the applicant;
-- (b) if the pending applicant wishes to delay[^key-4490cba948da6093edbdcab1fa118791] the target dates, the applicant must do so by giving a notice to the delivery body with any delayed target dates by no later than 5 working days after the date of the variation notice; and
+- (a) the delivery body must give a notice to the pending applicant stating that target dates[^c-7e3446e53053464610d75c9ede445fc5] may be delayed[^c-df93c3d216ce8ebd895a7048a9bf5895] by the applicant;
+- (b) if the pending applicant wishes to delay[^c-4490cba948da6093edbdcab1fa118791] the target dates, the applicant must do so by giving a notice to the delivery body with any delayed target dates by no later than 5 working days after the date of the variation notice; and
 - (c) if such delayed target dates are provided, the delivery body must make the determination under paragraph (3) using the varied target dates.
 
-(7) The delivery body must make the determination required by paragraph (3) having regard to any pending bid made by the pending applicant, including any flexible bid[^key-18c8e8c506004891e150661c241588cb].
+(7) The delivery body must make the determination required by paragraph (3) having regard to any pending bid made by the pending applicant, including any flexible bid[^c-18c8e8c506004891e150661c241588cb].
 
-(8) Where a pending application is a successful application, the delivery body must comply with regulation 42(2)[^key-b5ca781ea58aebe853d3a8802d92902d] in respect of that application.
+(8) Where a pending application is a successful application, the delivery body must comply with regulation 42(2)[^c-b5ca781ea58aebe853d3a8802d92902d] in respect of that application.
 
-(9) Paragraph (8) applies notwithstanding that the contract budget[^key-5716f86bc9248093c5f82f7d02d23528] for the allocation round may be exceeded by reason of giving a CFD notification in respect of the pending application.
+(9) Paragraph (8) applies notwithstanding that the contract budget[^c-5716f86bc9248093c5f82f7d02d23528] for the allocation round may be exceeded by reason of giving a CFD notification in respect of the pending application.
 
-(10)[^key-3fda94d435184dc3eaf48629cac88546] In paragraph (7), “flexible bid” means a bid, where it is permitted under the contract allocation framework, in which the applicant specifies—
+(10)[^c-3fda94d435184dc3eaf48629cac88546] In paragraph (7), “flexible bid” means a bid, where it is permitted under the contract allocation framework, in which the applicant specifies—
 
 - (a) a strike price;
 - (b) the first delivery year as a year the same as or after the first delivery year set out in the applicant’s application;
-- (c) a target commissioning window start[^key-a153321b070de01745a03a34fb4f8953] date as a date on or after the target commissioning window start date provided by the applicant with the applicant’s application; and
+- (c) a target commissioning window start[^c-a153321b070de01745a03a34fb4f8953] date as a date on or after the target commissioning window start date provided by the applicant with the applicant’s application; and
 - (d) the amount of electricity to be generated as an amount which is no greater than the amount set out in the applicant’s application.
 
-### 52. Appeals to the High Court or the Court of Session[^key-2e822f4b50e139851aeb72af089dff5f]
+### 52. Appeals to the High Court or the Court of Session[^c-2e822f4b50e139851aeb72af089dff5f]
 
 (1) This regulation applies where—
 
@@ -1720,7 +1720,7 @@ the delivery body must determine whether or not the pending application is a suc
 
 the delivery body must comply with regulation 51(2) or (3) as is relevant to the application.
 
-### 53. Notices that no CFD notification is given[^key-698bddeae5d9f5edc8f39e215b8e2493]
+### 53. Notices that no CFD notification is given[^c-698bddeae5d9f5edc8f39e215b8e2493]
 
 (1) The delivery body must comply with paragraphs (2) and (3) in respect of a pending application where—
 
@@ -1738,7 +1738,7 @@ the delivery body must comply with regulation 51(2) or (3) as is relevant to the
 
 ## PART 9 — Allocation reports, compliance and documents
 
-### 54. Allocation reports[^key-6c95672c0902d7f08997ffc77ef3adf7]
+### 54. Allocation reports[^c-6c95672c0902d7f08997ffc77ef3adf7]
 
 (1) The delivery body must make available to the Secretary of State details of the matters specified in paragraph (2) in respect of an allocation round, in such form and at such times as the Secretary of State directs.
 
@@ -1749,20 +1749,20 @@ the delivery body must comply with regulation 51(2) or (3) as is relevant to the
 - (c) all qualifying applicants and qualifying applications;
 - (d) all successful applicants and successful applications and in respect of those applications—
   - (i) the final strike price; and
-  - (ii) their valuation, made in accordance with the contract allocation framework[^key-7e82ef1cd2f11ef07f9e3a751351c72e] which applied to the allocation round; and
-- (e) subject to paragraph (3) and paragraph (3A)[^key-ba2473fbadfb1a93d88f08b8a0b161d1], such other matters as the Secretary of State directs the delivery body to make available.
+  - (ii) their valuation, made in accordance with the contract allocation framework[^c-7e82ef1cd2f11ef07f9e3a751351c72e] which applied to the allocation round; and
+- (e) subject to paragraph (3) and paragraph (3A)[^c-ba2473fbadfb1a93d88f08b8a0b161d1], such other matters as the Secretary of State directs the delivery body to make available.
 
-(3)[^key-14290208fe37e980923990985b90e0f5][^key-bf3a6948180e4bacfe85dae070bebf50] The Secretary of State may only direct the delivery body to provide information in respect of bids of strike prices in an anonymised form.
+(3)[^c-14290208fe37e980923990985b90e0f5][^c-bf3a6948180e4bacfe85dae070bebf50] The Secretary of State may only direct the delivery body to provide information in respect of bids of strike prices in an anonymised form.
 
-(3A)[^key-928813b13d7da5991ae728942664b952] The Secretary of State must not direct the delivery body to provide the content of any pending bid.
+(3A)[^c-928813b13d7da5991ae728942664b952] The Secretary of State must not direct the delivery body to provide the content of any pending bid.
 
 (4) The Secretary of State may disclose information obtained under paragraph (3) to a person providing services to the Secretary of State in connection with the evaluation of any allocation round, to the extent that the disclosure is required to enable that person to provide those services.
 
-### 55. Enforcement[^key-024b5a8bf6438c33d4768b828d4b6ea7]
+### 55. Enforcement[^c-024b5a8bf6438c33d4768b828d4b6ea7]
 
-Requirements imposed on the delivery body by these Regulations or under a contract allocation framework[^key-8010db2082c879552e4db29be88acd58] are to be treated as relevant requirements on the delivery body as a regulated person for the purposes of section 25 of the Electricity Act 1989[^f00027].
+Requirements imposed on the delivery body by these Regulations or under a contract allocation framework[^c-8010db2082c879552e4db29be88acd58] are to be treated as relevant requirements on the delivery body as a regulated person for the purposes of section 25 of the Electricity Act 1989[^f00027].
 
-### 56. Giving of documents[^key-89613fa7e13d67c98b82123c2341c843]
+### 56. Giving of documents[^c-89613fa7e13d67c98b82123c2341c843]
 
 Schedule 2 (documents) has effect, except in respect of Part 10.
 
@@ -1770,7 +1770,7 @@ Schedule 2 (documents) has effect, except in respect of Part 10.
 
 *Extent: E+W+S+N.I.*
 
-### 57. Directions under section 10 of the Act[^key-84845b6cb949f208cfe0c221f348b2e0]
+### 57. Directions under section 10 of the Act[^c-84845b6cb949f208cfe0c221f348b2e0]
 
 (1) A direction given by the Secretary of State under section 10(1) of the Act must—
 
@@ -1780,13 +1780,13 @@ Schedule 2 (documents) has effect, except in respect of Part 10.
 
 (2) The date specified in accordance with paragraph (1)(b) must be no earlier than 20 working days from and including the date on which the direction is given.
 
-### 58. Obligation to notify the specified person[^key-c2031c84a1b745be7ceb1081a6b01a67]
+### 58. Obligation to notify the specified person[^c-c2031c84a1b745be7ceb1081a6b01a67]
 
-(1)[^key-5b00c230992de76eac2628b32806d275] No later than 5 working days after the date on which a direction under section 10(1) of the Act is given, the Secretary of State must give a copy of the direction to each specified person.
+(1)[^c-5b00c230992de76eac2628b32806d275] No later than 5 working days after the date on which a direction under section 10(1) of the Act is given, the Secretary of State must give a copy of the direction to each specified person.
 
-(2)[^key-0a949fc975b7b6441b62842178c236ff] Where a specified person is an unincorporated association, the Secretary of State must give a copy of the direction to each member of the unincorporated association.
+(2)[^c-0a949fc975b7b6441b62842178c236ff] Where a specified person is an unincorporated association, the Secretary of State must give a copy of the direction to each member of the unincorporated association.
 
-### 59. Directions ceasing to have effect[^key-9d52229cef1b191c8fd52593bf0d036f]
+### 59. Directions ceasing to have effect[^c-9d52229cef1b191c8fd52593bf0d036f]
 
 (1) A direction given under section 10(1) of the Act ceases to have effect, if the specified person (or, if there is more than one specified person, any of them)—
 
@@ -1795,7 +1795,7 @@ Schedule 2 (documents) has effect, except in respect of Part 10.
 
 (2) If a direction ceases to have effect in accordance with paragraph (1), the CFD counterparty must withdraw any offer of a contract that it has made in compliance with that direction.
 
-### 60. Publication of contracts[^key-ae420e63fb2c4dc37a5b715f28b5425e]
+### 60. Publication of contracts[^c-ae420e63fb2c4dc37a5b715f28b5425e]
 
 (1) If a CFD counterparty offers a CFD in accordance with a direction given under section 10(1) of the Act and subsequently enters into that CFD, the CFD counterparty must publish that CFD, subject to paragraph (2).
 
@@ -1812,15 +1812,15 @@ Schedule 2 (documents) has effect, except in respect of Part 10.
 - (b) the disclosure of which would or would be likely to prejudice the commercial interests of any person; or
 - (c) the disclosure of which would constitute a breach of confidence actionable by any person.
 
-(5)[^key-a5dc1d4b4b06821611226cc66b3d0b51] Paragraph (4) does not apply to any strike price or reference price which may be included in the contract.
+(5)[^c-a5dc1d4b4b06821611226cc66b3d0b51] Paragraph (4) does not apply to any strike price or reference price which may be included in the contract.
 
 (6) In this regulation—
 
 - “initial term” means a term of a CFD which is agreed at the time the CFD is first entered into;
-- “reference price” means the sum that may be[^key-93aca4a0c54a1834a44a050db8915ff1] specified in, or determined under, the CFD as the reference price in respect of electricity generated in the period specified in, or determined under, the contract;
-- “strike price” means the sum that may be[^key-5ce6a7258a657cf16d8d8f572cd51008] specified in, or determined under, the CFD as the strike price in respect of electricity generated in the period specified in, or determined under, the contract.
+- “reference price” means the sum that may be[^c-93aca4a0c54a1834a44a050db8915ff1] specified in, or determined under, the CFD as the reference price in respect of electricity generated in the period specified in, or determined under, the contract;
+- “strike price” means the sum that may be[^c-5ce6a7258a657cf16d8d8f572cd51008] specified in, or determined under, the CFD as the strike price in respect of electricity generated in the period specified in, or determined under, the contract.
 
-### 61. Interpretation of Part 10[^key-43f982b9ecbf7fc421c89da481ab47e0]
+### 61. Interpretation of Part 10[^c-43f982b9ecbf7fc421c89da481ab47e0]
 
 In this Part—
 
@@ -1841,14 +1841,14 @@ Department of Energy and Climate Change
 
 Regulation 17(4)
 
-**1.**[^key-5327f012e9d229291f402b34b0147364] The following is the information referred to in regulation 17(4) which must be provided by an applicant.
+**1.**[^c-5327f012e9d229291f402b34b0147364] The following is the information referred to in regulation 17(4) which must be provided by an applicant.
 
-**2.**[^key-b82f03fe367a3763a1316c4b84ff67c3] (1)[^key-7dfea2b30a1ae0c56bfe6e4ba8a17f31] In respect of the applicant—
+**2.**[^c-b82f03fe367a3763a1316c4b84ff67c3] (1)[^c-7dfea2b30a1ae0c56bfe6e4ba8a17f31] In respect of the applicant—
 
 - (a) the name of the applicant;
 - (b) the name of any person whom the applicant intends will enter into the CFD on the applicant’s behalf in respect of the CFD unit;
 - (c) where the applicant is a UK registered company, the company registration number of the applicant;
-- (ca)[^key-cba4d98d3c0b8cc31f48b6c946e5f61e] where the applicant is an unincorporated association, the name of the person whom the applicant intends will act as representative for the parties to the unincorporated association in the CFD;
+- (ca)[^c-cba4d98d3c0b8cc31f48b6c946e5f61e] where the applicant is an unincorporated association, the name of the person whom the applicant intends will act as representative for the parties to the unincorporated association in the CFD;
 - (d) where the applicant is not a corporate body—
   - (i) whether the applicant has a legal personality; and
   - (ii) if not, the person whom the applicant intends will enter into the CFD on the applicant’s behalf in respect of the CFD unit;
@@ -1857,50 +1857,50 @@ Regulation 17(4)
   - (i) the company registration number (or an equivalent identifier) in the jurisdiction in which it is registered; and
   - (ii) if applicable, the registration number (if any) for any equivalent to VAT for which the company must account in the jurisdiction in which it is registered.
 
-(2)[^key-b88028214ea884c9276ee76aeb551f8d] Where an applicant is an unincorporated association—
+(2)[^c-b88028214ea884c9276ee76aeb551f8d] Where an applicant is an unincorporated association—
 
 - (a) the requirement relating to the applicant in paragraph (a) of sub-paragraph (1) applies in relation to the unincorporated association and each member of the unincorporated association;
 - (b) the requirements relating to the applicant in paragraphs (b), (c), (e) and (f) of sub-paragraph (1) apply in relation to each member of the unincorporated association;
 - (c) paragraph (d) does not apply.
 
-**3.**[^key-fbb2ce6c0898da7cfb727c9f1fc57699] In respect of the relevant CFD unit—
+**3.**[^c-fbb2ce6c0898da7cfb727c9f1fc57699] In respect of the relevant CFD unit—
 
 - (a) the following which apply (or are intended by the applicant to apply) to the unit—
   - (i) name;
   - (ii) location;
   - (iii) capacity in megawatts; and
-  - (iv)[^key-3942ff0fc2228e30d028384b05370cbb] the target dates;
-  - (v)[^key-2379f0155f0734f6f86f4b01a8d3d892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-3942ff0fc2228e30d028384b05370cbb] the target dates;
+  - (v)[^c-2379f0155f0734f6f86f4b01a8d3d892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) where the unit is an offshore wind CFD unit, whether or not it is to be constructed in phases and, if it is,—
   - (i) the amount of electricity to be generated by each phase; and
   - (ii) the target dates for completion of each phase of construction;
 - (c) the type of eligible generating station; and
-- (d) which reference price (as defined in the contract allocation framework[^key-458df472498f62f00d1361be2bdced67]) applies to the CFD unit.
+- (d) which reference price (as defined in the contract allocation framework[^c-458df472498f62f00d1361be2bdced67]) applies to the CFD unit.
 
-**4.**[^key-68fc147785951b4326209b1ebf6a36b0] (1)[^key-4edc32d05369f3123588a78a887ac373] A statement by the applicant which states whether or not—
+**4.**[^c-68fc147785951b4326209b1ebf6a36b0] (1)[^c-4edc32d05369f3123588a78a887ac373] A statement by the applicant which states whether or not—
 
 - (a) an accreditation applies to the relevant CFD unit; or
 - (b) an application has been made by the applicant for such accreditation, which application has not been determined.
 
-(2)[^key-fdadccdc3a4ed0ef85c00822137fe709] Where an applicant is an unincorporated association—
+(2)[^c-fdadccdc3a4ed0ef85c00822137fe709] Where an applicant is an unincorporated association—
 
 - (a) the requirement relating to the applicant in paragraph (a) of sub-paragraph (1) applies in relation to the unincorporated association and each member of the unincorporated association;
 - (b) the requirements relating to the applicant in paragraphs (b), (c), (e) and (f) of sub-paragraph (1) apply in relation to each member of the unincorporated association;
 - (c) paragraph (d) does not apply.
 
-**5.**[^key-6d1cbbf86a1eb04bf8d7b52d9756ea57] Such other information concerning the applicant or the application as may be set out in the contract allocation framework[^key-4d699645f32b9c5166e139c95c560a9d] which applies to the allocation round and in such form as may be required by that framework.
+**5.**[^c-6d1cbbf86a1eb04bf8d7b52d9756ea57] Such other information concerning the applicant or the application as may be set out in the contract allocation framework[^c-4d699645f32b9c5166e139c95c560a9d] which applies to the allocation round and in such form as may be required by that framework.
 
 ## SCHEDULE 2 — Documents
 
 Regulation 56
 
-**1.**[^key-69cf1570b87e344909af99486d80e2ea] The provisions of this Schedule apply to a document, which includes an application, direction, notice, qualification appeal, register, reply, report, request or statement.
+**1.**[^c-69cf1570b87e344909af99486d80e2ea] The provisions of this Schedule apply to a document, which includes an application, direction, notice, qualification appeal, register, reply, report, request or statement.
 
-**2.**[^key-2ce0656af5eae15549c27d926aff5c29] A document must be in writing and dated.
+**2.**[^c-2ce0656af5eae15549c27d926aff5c29] A document must be in writing and dated.
 
-**3.**[^key-b53025abaac21398d0201bd20aae44ae] A document given to a person on a non-working day is to be treated as given on the next following working day.
+**3.**[^c-b53025abaac21398d0201bd20aae44ae] A document given to a person on a non-working day is to be treated as given on the next following working day.
 
-**4.**[^key-eb4df01a9a729f30a7d5f95b0ef3b1dc] A document may be given to a person by—
+**4.**[^c-eb4df01a9a729f30a7d5f95b0ef3b1dc] A document may be given to a person by—
 
 - (a) delivering it to that person in person;
 - (b) leaving it at that person’s proper address;
@@ -1908,13 +1908,13 @@ Regulation 56
 - (d) sending it by email to that person; or
 - (e) submitting it by means of a dedicated portal on that person’s website.
 
-**5.**[^key-015e376a744416eb6f53c96285cd43f4] For the purposes of paragraph 4(a) a document is given to—
+**5.**[^c-015e376a744416eb6f53c96285cd43f4] For the purposes of paragraph 4(a) a document is given to—
 
 - (a) a body corporate, where it is given to a person having control or management of that body;
 - (b) a partnership, where it is given to a partner or a person having control or management of the partnership business;
 - (c) an unincorporated association, where it is given to a person having management responsibilities in respect of the association.
 
-**6.**[^key-4d5892779c1613972d8b77a6c7a63b6c] For the purposes of paragraph 4(d), a document is given to—
+**6.**[^c-4d5892779c1613972d8b77a6c7a63b6c] For the purposes of paragraph 4(d), a document is given to—
 
 - (a) a body corporate, where it is sent to an email address of—
   - (i) the body corporate; or
@@ -1928,9 +1928,9 @@ Regulation 56
   where that address is supplied by that partnership for the conduct of the affairs of that partnership;
 - (c) an unincorporated association, where it is sent to an email address of a person having management responsibilities in respect of the association, where that address is supplied by that association for the conduct of the affairs of that association.
 
-**7.**[^key-c6b22135e73c9e78e4dbeade7f77b523] A person may, in substitution for the proper address which would otherwise apply, specify an address in the United Kingdom at which that person or someone on that person’s behalf may be given documents, which address is to be treated instead as that person’s proper address.
+**7.**[^c-c6b22135e73c9e78e4dbeade7f77b523] A person may, in substitution for the proper address which would otherwise apply, specify an address in the United Kingdom at which that person or someone on that person’s behalf may be given documents, which address is to be treated instead as that person’s proper address.
 
-**8.**[^key-f9cf311174f880665d84479878a09663] In this Schedule—
+**8.**[^c-f9cf311174f880665d84479878a09663] In this Schedule—
 
 - “dedicated portal” means a facility on a person’s website which is established to allow electronic communication with that person;
 - “proper address” means in the case of—
@@ -2084,27 +2084,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-4d99d78d7f0d062d542b2a659bad7b81]: Commencement: Reg. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-4d99d78d7f0d062d542b2a659bad7b81]: Commencement: Reg. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-267a7bae8db8611113d146f2e9369401]: Commencement: Reg. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-267a7bae8db8611113d146f2e9369401]: Commencement: Reg. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
 [^f00002]: Footnote: The method of calculation, which uses the administrative strike price, is set out in the allocation framework for the allocation round, see regulation 29(3)(a).
 
-[^key-4a74bfb79e73f9e44d1621ea6d200808]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/b)
+[^c-4a74bfb79e73f9e44d1621ea6d200808]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/b)
 
-[^key-7836990f72a4efd6e76d0715470c7477]: Textual amendment: Words in reg. 2(1) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2021/758/regulation/13/a/i)
+[^c-7836990f72a4efd6e76d0715470c7477]: Textual amendment: Words in reg. 2(1) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2021/758/regulation/13/a/i)
 
-[^key-79c143a654e821156a1614efad5aaee8]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/c)
+[^c-79c143a654e821156a1614efad5aaee8]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/c)
 
-[^key-c82bb1e34384a9197cc7de2323f526a1]: Textual amendment: Word in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/d)
+[^c-c82bb1e34384a9197cc7de2323f526a1]: Textual amendment: Word in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/d)
 
-[^key-c64423ef33d25bdef0e8b373feff2bfe]: Textual amendment: Words in reg. 2(1) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/a)
+[^c-c64423ef33d25bdef0e8b373feff2bfe]: Textual amendment: Words in reg. 2(1) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/a)
 
-[^key-c5d9817e982f55b643bf0354dfffd3d2]: Textual amendment: Words in reg. 2 inserted (27.3.2015) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2015 (S.I. 2015/981)](https://www.legislation.gov.uk/uksi/2015/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/981/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/981/regulation/3)
+[^c-c5d9817e982f55b643bf0354dfffd3d2]: Textual amendment: Words in reg. 2 inserted (27.3.2015) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2015 (S.I. 2015/981)](https://www.legislation.gov.uk/uksi/2015/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/981/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/981/regulation/3)
 
-[^key-89f3e5baf0c78c313f30ffd0f766f571]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/e)
+[^c-89f3e5baf0c78c313f30ffd0f766f571]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/e)
 
-[^key-a2e4da9180c55b03a05c33b0eca9eeef]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/f)
+[^c-a2e4da9180c55b03a05c33b0eca9eeef]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/f)
 
 [^f00003]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). The definition of “transmission system” was inserted by section 135(1) and (4) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -2116,19 +2116,19 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^M_F_408ccff0-13a8-4af3-93f3-ce79ea1514b1]: Textual amendment: Words in reg. 2(1) substituted (2.11.2016) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2016 (S.I. 2016/1053)](https://www.legislation.gov.uk/uksi/2016/1053), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1053/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/1053/regulation/2)
 
-[^key-192c3b5f0cd9e950366875c266605e2b]: Textual amendment: Word in reg. 2(1) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2021/758/regulation/13/a/ii)
+[^c-192c3b5f0cd9e950366875c266605e2b]: Textual amendment: Word in reg. 2(1) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2021/758/regulation/13/a/ii)
 
-[^key-236839e2850b71a08cde4c7061767088]: Textual amendment: Words in reg. 2 substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/5/a)
+[^c-236839e2850b71a08cde4c7061767088]: Textual amendment: Words in reg. 2 substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/5/a)
 
-[^key-903988542058f601dc65e36d1bbe68a6]: Textual amendment: Words in reg. 2(1) inserted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/903/regulation/3)
+[^c-903988542058f601dc65e36d1bbe68a6]: Textual amendment: Words in reg. 2(1) inserted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/903/regulation/3)
 
-[^key-3b2497a80cc4eddfecb0d4d887655376]: Textual amendment: Words in reg. 2 omitted (15.12.2016) by virtue of [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/1246/regulation/3)
+[^c-3b2497a80cc4eddfecb0d4d887655376]: Textual amendment: Words in reg. 2 omitted (15.12.2016) by virtue of [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/1246/regulation/3)
 
-[^key-a07b6ffc4b69babc5da34cf7dff60786]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/g)
+[^c-a07b6ffc4b69babc5da34cf7dff60786]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/g)
 
-[^key-492440dfaeb69d0a22c586f8d04b4781]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/h)
+[^c-492440dfaeb69d0a22c586f8d04b4781]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/h)
 
-[^key-6fdee5142055bee3d2e548813be5a268]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/i)
+[^c-6fdee5142055bee3d2e548813be5a268]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/i)
 
 [^f00007]: Footnote: [S.I. 1997/799 (S. 76)](https://www.legislation.gov.uk/uksi/1997/799).
 
@@ -2138,343 +2138,343 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23). By article 2 of the Exclusive Economic Zone Order 2013 ([S.I. 2013/3161](https://www.legislation.gov.uk/uksi/2013/3161)), which came into force on 31st March 2014, an area of the sea outside territorial waters has been designated under this section.
 
-[^key-0e36363c184a4364a935e8f750dc2c7b]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(j)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/j)
+[^c-0e36363c184a4364a935e8f750dc2c7b]: Textual amendment: Words in reg. 2(1) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(j)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/j)
 
-[^key-8c7dfcd791dc91ccc1221b26b2d6e396]: Textual amendment: Words in reg. 2 inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/5/b)
+[^c-8c7dfcd791dc91ccc1221b26b2d6e396]: Textual amendment: Words in reg. 2 inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/5/b)
 
 [^f00011]: Footnote: [S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782) as amended by [S.I. 2013/1099](https://www.legislation.gov.uk/uksi/2013/1099).
 
-[^key-4d12789573017009994734c3d050ff2a]: Textual amendment: Words in reg. 2 inserted (24.7.2018) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/895)](https://www.legislation.gov.uk/uksi/2018/895), [regs. 1](https://www.legislation.gov.uk/uksi/2018/895/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/895/regulation/2/2)
+[^c-4d12789573017009994734c3d050ff2a]: Textual amendment: Words in reg. 2 inserted (24.7.2018) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/895)](https://www.legislation.gov.uk/uksi/2018/895), [regs. 1](https://www.legislation.gov.uk/uksi/2018/895/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/895/regulation/2/2)
 
 [^f00012]: Footnote: [S.I. 2009/785](https://www.legislation.gov.uk/uksi/2009/785) as amended by: [S.I. 2010/829](https://www.legislation.gov.uk/uksi/2010/829), [2010/1107](https://www.legislation.gov.uk/uksi/2010/1107), [2011/984](https://www.legislation.gov.uk/uksi/2011/984), [2011/988](https://www.legislation.gov.uk/uksi/2011/988), [2013/768](https://www.legislation.gov.uk/uksi/2013/768).
 
 [^f00013]: Footnote: [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140) as amended by: [S.S.I. 2009/276](https://www.legislation.gov.uk/ssi/2009/276), [2010/147](https://www.legislation.gov.uk/ssi/2010/147), [2011/225](https://www.legislation.gov.uk/ssi/2011/225), [2013/116](https://www.legislation.gov.uk/ssi/2013/116).
 
-[^key-1ea2fda2da7dbf64694fd4abef6f027a]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(k)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/k)
+[^c-1ea2fda2da7dbf64694fd4abef6f027a]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(k)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/k)
 
-[^key-da241d3de72557a2b31930da93966230]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/2/1) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/3/b)
+[^c-da241d3de72557a2b31930da93966230]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/2/1) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/3/b)
 
-[^key-fff478a27c50c042f3d52f444a83baf5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/2/1) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2026/411/regulation/3/c)
+[^c-fff478a27c50c042f3d52f444a83baf5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/2/1) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2026/411/regulation/3/c)
 
-[^key-d47bf8c9fd7aa7c0acb607b43826b35d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/2/1) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/3/a)
+[^c-d47bf8c9fd7aa7c0acb607b43826b35d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/2/1) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/3/a)
 
-[^key-b54123e107b4e06b85c731c2e28e9752]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(l)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/l)
+[^c-b54123e107b4e06b85c731c2e28e9752]: Textual amendment: Words in reg. 2(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [3(l)](https://www.legislation.gov.uk/uksi/2024/710/regulation/3/l)
 
-[^key-a949eb960ac50a2fee15ca82d9f3140f]: Textual amendment: Words in reg. 2 substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/5/c)
+[^c-a949eb960ac50a2fee15ca82d9f3140f]: Textual amendment: Words in reg. 2 substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/5/c)
 
 [^f00015]: Footnote: [S.I. 2014/2010](https://www.legislation.gov.uk/uksi/2014/2010).
 
-[^key-088bcd24beaea70446ae72a1a693bd35]: Textual amendment: Words in reg. 2(2) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/13/b)
+[^c-088bcd24beaea70446ae72a1a693bd35]: Textual amendment: Words in reg. 2(2) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/13/b)
 
-[^key-efd9d91edd52b34fc2a7240f8426934e]: Commencement: Reg. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-efd9d91edd52b34fc2a7240f8426934e]: Commencement: Reg. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-16da6c8763e3e1468a38fb3994a6f8ae]: Commencement: Reg. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-16da6c8763e3e1468a38fb3994a6f8ae]: Commencement: Reg. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-f9943ee79891590ec9f47de64ac8b09e]: Textual amendment: Word in reg. 4(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/a)
+[^c-f9943ee79891590ec9f47de64ac8b09e]: Textual amendment: Word in reg. 4(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/a)
 
-[^key-b3e45f4b96eafd5dc41757a714516215]: Textual amendment: Reg. 4(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/b)
+[^c-b3e45f4b96eafd5dc41757a714516215]: Textual amendment: Reg. 4(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/b)
 
-[^key-219553add7efde35c514f9de7e30b9b5]: Textual amendment: Reg. 4(3) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/c)
+[^c-219553add7efde35c514f9de7e30b9b5]: Textual amendment: Reg. 4(3) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/c)
 
-[^key-f06838706181f42c6ec7f0bd93c70e9e]: Textual amendment: Reg. 4(4) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/c)
+[^c-f06838706181f42c6ec7f0bd93c70e9e]: Textual amendment: Reg. 4(4) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/c)
 
-[^key-270d4da422d1e76e4bc84c0a60ca2161]: Textual amendment: Reg. 4(6) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/c)
+[^c-270d4da422d1e76e4bc84c0a60ca2161]: Textual amendment: Reg. 4(6) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/4/c)
 
-[^key-38a99297984b3ad29189905b3238719b]: Textual amendment: Reg. 4A inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/710/regulation/5)
+[^c-38a99297984b3ad29189905b3238719b]: Textual amendment: Reg. 4A inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/710/regulation/5)
 
-[^key-574a8a2e3ab3143f45500b4c8666da79]: Textual amendment: Words in [reg. 4A(3)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/4A/3/b) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/411/regulation/4)
+[^c-574a8a2e3ab3143f45500b4c8666da79]: Textual amendment: Words in [reg. 4A(3)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/4A/3/b) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/411/regulation/4)
 
-[^key-3c562738466a5603ea24fbbf3ef562a4]: Commencement: Reg. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-3c562738466a5603ea24fbbf3ef562a4]: Commencement: Reg. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-e8966fdf3a99cc090ca1b09e62129333]: Textual amendment: Reg. 5(1)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/a)
+[^c-e8966fdf3a99cc090ca1b09e62129333]: Textual amendment: Reg. 5(1)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/a)
 
-[^key-09109be056ded4b81319f4919e13fed0]: Textual amendment: Words in reg. 5(2)(b) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/15/b)
+[^c-09109be056ded4b81319f4919e13fed0]: Textual amendment: Words in reg. 5(2)(b) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/15/b)
 
-[^key-6d7dc5d49bf9a647fbb24e82f0b6889d]: Textual amendment: Words in reg. 5(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/b)
+[^c-6d7dc5d49bf9a647fbb24e82f0b6889d]: Textual amendment: Words in reg. 5(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/b)
 
-[^key-194baa66186b99bed286289a5122241f]: Textual amendment: Words in reg. 5(5) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2021/758/regulation/15/c)
+[^c-194baa66186b99bed286289a5122241f]: Textual amendment: Words in reg. 5(5) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2021/758/regulation/15/c)
 
-[^key-545f5289084a98e23330d1499bbb9534]: Textual amendment: Reg. 5(6) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/c)
+[^c-545f5289084a98e23330d1499bbb9534]: Textual amendment: Reg. 5(6) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/c)
 
-[^key-6ad702223c09690b1776e36af9c122f1]: Textual amendment: Reg. 5(6A) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [15(d)](https://www.legislation.gov.uk/uksi/2021/758/regulation/15/d)
+[^c-6ad702223c09690b1776e36af9c122f1]: Textual amendment: Reg. 5(6A) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [15(d)](https://www.legislation.gov.uk/uksi/2021/758/regulation/15/d)
 
-[^key-a9a8283729bbbc23496f9c55c7cbd792]: Textual amendment: Words in reg. 5(6A) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/d)
+[^c-a9a8283729bbbc23496f9c55c7cbd792]: Textual amendment: Words in reg. 5(6A) omitted (13.6.2024) by virtue of [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/6/d)
 
-[^key-3026dc071d32d3fb3710e8610e10c26c]: Textual amendment: Reg. 5A inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/710/regulation/7)
+[^c-3026dc071d32d3fb3710e8610e10c26c]: Textual amendment: Reg. 5A inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/710/regulation/7)
 
-[^key-62ffd43121eb10a91870b8c90c9cf8dd]: Textual amendment: Words in [reg. 5A(5)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/5A/5) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/411/regulation/5)
+[^c-62ffd43121eb10a91870b8c90c9cf8dd]: Textual amendment: Words in [reg. 5A(5)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/5A/5) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/411/regulation/5)
 
-[^key-54a66972c80fefacf71f98b2996785ef]: Commencement: Reg. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-54a66972c80fefacf71f98b2996785ef]: Commencement: Reg. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-bd2b41654260c73b755f7ff0baa5186d]: Textual amendment: Reg. 6(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/a)
+[^c-bd2b41654260c73b755f7ff0baa5186d]: Textual amendment: Reg. 6(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/a)
 
-[^key-2f95f93ed9341b403ff6afb77ed2e4f3]: Textual amendment: Words in [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/1/c) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/a/i)
+[^c-2f95f93ed9341b403ff6afb77ed2e4f3]: Textual amendment: Words in [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/1/c) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/a/i)
 
-[^key-d234136d2db05a15d7867ad6a877c5ae]: Textual amendment: Words in [reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/1/d) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/a/ii)
+[^c-d234136d2db05a15d7867ad6a877c5ae]: Textual amendment: Words in [reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/1/d) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/a/ii)
 
-[^key-e0be2f1dc94d17b30fd7baddbc59ef93]: Textual amendment: Words in reg. 6(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/b/i)
+[^c-e0be2f1dc94d17b30fd7baddbc59ef93]: Textual amendment: Words in reg. 6(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/b/i)
 
-[^key-5af22175440c5244c64b8ff73420a102]: Textual amendment: Words in reg. 6(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/b/ii)
+[^c-5af22175440c5244c64b8ff73420a102]: Textual amendment: Words in reg. 6(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/b/ii)
 
-[^key-dbea5bb1d01ab6d6e74d9c298646ef61]: Textual amendment: Reg. 6(2A)(2B) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/c)
+[^c-dbea5bb1d01ab6d6e74d9c298646ef61]: Textual amendment: Reg. 6(2A)(2B) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/c)
 
-[^key-112d4b0b851b9f2ed73c2c257e34564f]: Textual amendment: [Reg. 6(2A)(ab)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2A/ab) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/b)
+[^c-112d4b0b851b9f2ed73c2c257e34564f]: Textual amendment: [Reg. 6(2A)(ab)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2A/ab) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/b)
 
-[^key-e0f69fcdcbe410b34ac578d551a91f74]: Textual amendment: Words in [reg. 6(2A)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2A/b) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(c)(i)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/c/i)
+[^c-e0f69fcdcbe410b34ac578d551a91f74]: Textual amendment: Words in [reg. 6(2A)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2A/b) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(c)(i)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/c/i)
 
-[^key-42e5b6e0b37af0e20ed9171c8117c04a]: Textual amendment: Words in [reg. 6(2A)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2A/b) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/c/ii)
+[^c-42e5b6e0b37af0e20ed9171c8117c04a]: Textual amendment: Words in [reg. 6(2A)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2A/b) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/c/ii)
 
-[^key-14d61b294fd7aaed545cbe1c7c5513bb]: Textual amendment: Words in [reg. 6(2B)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2B) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/d)
+[^c-14d61b294fd7aaed545cbe1c7c5513bb]: Textual amendment: Words in [reg. 6(2B)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2B) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/d)
 
-[^key-f0c7eeac86f9544c2b0a5c7e4a41a816]: Textual amendment: Words in [reg. 6(2B)(c)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2B/c) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/e)
+[^c-f0c7eeac86f9544c2b0a5c7e4a41a816]: Textual amendment: Words in [reg. 6(2B)(c)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/6/2B/c) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2026/411/regulation/6/e)
 
-[^key-6c693216721922f9013dd152bba1e4fa]: Textual amendment: Words in reg. 6(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/d)
+[^c-6c693216721922f9013dd152bba1e4fa]: Textual amendment: Words in reg. 6(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/8/d)
 
-[^key-f95359834c0fd8f7fc34bc5372889446]: Textual amendment: Reg. 6(5) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/16/b)
+[^c-f95359834c0fd8f7fc34bc5372889446]: Textual amendment: Reg. 6(5) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/16/b)
 
-[^key-9fcafaad3df44231849423958dd98fb3]: Commencement: Reg. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-9fcafaad3df44231849423958dd98fb3]: Commencement: Reg. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-9804d3e7534ecb8029b39cacb18a5623]: Textual amendment: Words in reg. 7(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/a/i)
+[^c-9804d3e7534ecb8029b39cacb18a5623]: Textual amendment: Words in reg. 7(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/a/i)
 
-[^key-35bd48d3c89a00f63c0860fa4d9baa4f]: Textual amendment: Words in reg. 7(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/a/ii)
+[^c-35bd48d3c89a00f63c0860fa4d9baa4f]: Textual amendment: Words in reg. 7(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/a/ii)
 
-[^key-2af4e28738456b2d76bbdb1838859a68]: Textual amendment: Words in reg. 7(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/b)
+[^c-2af4e28738456b2d76bbdb1838859a68]: Textual amendment: Words in reg. 7(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/b)
 
-[^key-4d6bc77e6ca35213ebb8f65aacbbf213]: Textual amendment: Words in reg. 7(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/c)
+[^c-4d6bc77e6ca35213ebb8f65aacbbf213]: Textual amendment: Words in reg. 7(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/c)
 
-[^key-8bb623b41dfcbc21f422cfc7dd65578e]: Textual amendment: Reg. 7(3)(4) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/d)
+[^c-8bb623b41dfcbc21f422cfc7dd65578e]: Textual amendment: Reg. 7(3)(4) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/9/d)
 
-[^key-9800ca4dcc91b90fb48c3dbeef05179d]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/7/4/b) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/411/regulation/7)
+[^c-9800ca4dcc91b90fb48c3dbeef05179d]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/7/4/b) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/411/regulation/7)
 
-[^key-7272461fdb8e5867e73103b37ff0f0b3]: Commencement: Reg. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-7272461fdb8e5867e73103b37ff0f0b3]: Commencement: Reg. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-952eca5080bfe538e74354df4f64ca34]: Textual amendment: Words in reg. 8(1)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/a/i)
+[^c-952eca5080bfe538e74354df4f64ca34]: Textual amendment: Words in reg. 8(1)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/a/i)
 
-[^key-6475ad8d474751063af7ac8f3bf2ac0b]: Textual amendment: Words in reg. 8(1)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/a/ii)
+[^c-6475ad8d474751063af7ac8f3bf2ac0b]: Textual amendment: Words in reg. 8(1)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/a/ii)
 
-[^key-5b6c314f4daacf11481aa595bc331aac]: Textual amendment: Words in reg. 8(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/b)
+[^c-5b6c314f4daacf11481aa595bc331aac]: Textual amendment: Words in reg. 8(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/b)
 
-[^key-12d4ea92c6a7a78dec4913143ba2eaac]: Textual amendment: Reg. 8(2A)-(2C) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/c)
+[^c-12d4ea92c6a7a78dec4913143ba2eaac]: Textual amendment: Reg. 8(2A)-(2C) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/c)
 
-[^key-6e807b3debf6f7128c555336ec65d7b2]: Textual amendment: Word in [reg. 8(2B)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/8/2B) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/8/a)
+[^c-6e807b3debf6f7128c555336ec65d7b2]: Textual amendment: Word in [reg. 8(2B)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/8/2B) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/8/a)
 
-[^key-373f6f045b52910da2ac31d656e0c74a]: Textual amendment: Words in reg. 8(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(d)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/d/i)
+[^c-373f6f045b52910da2ac31d656e0c74a]: Textual amendment: Words in reg. 8(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(d)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/d/i)
 
-[^key-3d38a55e100e30872a0cade87ea9cd2f]: Textual amendment: Words in reg. 8(3)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(d)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/d/ii)
+[^c-3d38a55e100e30872a0cade87ea9cd2f]: Textual amendment: Words in reg. 8(3)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(d)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/d/ii)
 
-[^key-371503622ae67cdceb4718fc8f4e0caf]: Textual amendment: Words in reg. 8(3)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(d)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/d/ii)
+[^c-371503622ae67cdceb4718fc8f4e0caf]: Textual amendment: Words in reg. 8(3)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(d)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/d/ii)
 
-[^key-b78a79a786fe2ae23b84445992a73ff0]: Textual amendment: Words in reg. 8(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/i)
+[^c-b78a79a786fe2ae23b84445992a73ff0]: Textual amendment: Words in reg. 8(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/i)
 
-[^key-38cbfae7a78f9e4eb717e15b054bc3fa]: Textual amendment: Word in reg. 8(4)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/ii)
+[^c-38cbfae7a78f9e4eb717e15b054bc3fa]: Textual amendment: Word in reg. 8(4)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/ii)
 
-[^key-329711f31db7600b67a0aa2e3fdfc7b5]: Textual amendment: Words in reg. 8(4)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(iii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/iii)
+[^c-329711f31db7600b67a0aa2e3fdfc7b5]: Textual amendment: Words in reg. 8(4)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(iii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/iii)
 
-[^key-9bd5aec23d3e273d63ef227f25054703]: Textual amendment: Words in reg. 8(4)(c) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(iv)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/iv)
+[^c-9bd5aec23d3e273d63ef227f25054703]: Textual amendment: Words in reg. 8(4)(c) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(e)(iv)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/e/iv)
 
-[^key-31e9bc3d86cc11092370ad42c0f44393]: Textual amendment: Reg. 8(5) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(f)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/f)
+[^c-31e9bc3d86cc11092370ad42c0f44393]: Textual amendment: Reg. 8(5) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [10(f)](https://www.legislation.gov.uk/uksi/2024/710/regulation/10/f)
 
-[^key-d5b19392385207a6b3165a5e83932100]: Textual amendment: Words in [reg. 8(5)(d)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/8/5/d) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/8/b)
+[^c-d5b19392385207a6b3165a5e83932100]: Textual amendment: Words in [reg. 8(5)(d)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/8/5/d) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/8/b)
 
-[^key-d3808067fd11c3194b976010797d48bc]: Commencement: Reg. 9 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-d3808067fd11c3194b976010797d48bc]: Commencement: Reg. 9 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-1c7e3cb876f9bba46a3074695bab1c1c]: Textual amendment: Words in reg. 9(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/a)
+[^c-1c7e3cb876f9bba46a3074695bab1c1c]: Textual amendment: Words in reg. 9(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/a)
 
-[^key-91d4251e8fd3f61f852a63e72b59f922]: Textual amendment: Words in reg. 9(2) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/b)
+[^c-91d4251e8fd3f61f852a63e72b59f922]: Textual amendment: Words in reg. 9(2) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/b)
 
-[^key-b5f72653fae67681a7d5a078f4baab4d]: Textual amendment: Words in reg. 9(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(c)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/c/i)
+[^c-b5f72653fae67681a7d5a078f4baab4d]: Textual amendment: Words in reg. 9(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(c)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/c/i)
 
-[^key-c7406d2a3787570f688f35a66febd6ac]: Textual amendment: Words in reg. 9(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(c)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/c/ii)
+[^c-c7406d2a3787570f688f35a66febd6ac]: Textual amendment: Words in reg. 9(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(c)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/c/ii)
 
-[^key-235d8fdeeb3d86b142e71deb8518a87e]: Textual amendment: Words in reg. 9(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(d)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/d/i)
+[^c-235d8fdeeb3d86b142e71deb8518a87e]: Textual amendment: Words in reg. 9(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(d)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/d/i)
 
-[^key-0155bc99d39c6d9095a10e7df3476789]: Textual amendment: Words in reg. 9(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(d)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/d/ii)
+[^c-0155bc99d39c6d9095a10e7df3476789]: Textual amendment: Words in reg. 9(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(d)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/d/ii)
 
-[^key-eb35a04fe2be8d94b6e2172314c1c7db]: Textual amendment: Reg. 9(3) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/e)
+[^c-eb35a04fe2be8d94b6e2172314c1c7db]: Textual amendment: Reg. 9(3) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [11(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/11/e)
 
-[^key-ffbf1aba49f1ea9527d93ff6db30ab4e]: Commencement: Reg. 10 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-ffbf1aba49f1ea9527d93ff6db30ab4e]: Commencement: Reg. 10 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-88d159d6eddf5dd465addda13fd7518f]: Textual amendment: Reg. 10(2) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/903/regulation/4)
+[^c-88d159d6eddf5dd465addda13fd7518f]: Textual amendment: Reg. 10(2) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/903/regulation/4)
 
-[^key-fd5d1e17f07d5e0350c67ecd92f47dd5]: Textual amendment: Regs. 10A, 10B inserted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/903/regulation/5)
+[^c-fd5d1e17f07d5e0350c67ecd92f47dd5]: Textual amendment: Regs. 10A, 10B inserted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/903/regulation/5)
 
-[^key-50cef06fd3bf8bc8ea0f4500601a8028]: Commencement: Reg. 11 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-50cef06fd3bf8bc8ea0f4500601a8028]: Commencement: Reg. 11 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-77109bdb7a3cb4e96c1ba6048abccdf4]: Textual amendment: Reg. 11 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/a)
+[^c-77109bdb7a3cb4e96c1ba6048abccdf4]: Textual amendment: Reg. 11 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/a)
 
-[^key-6f31e4c41e40416d6bb1d83107d8161d]: Textual amendment: Words in reg. 11 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/b)
+[^c-6f31e4c41e40416d6bb1d83107d8161d]: Textual amendment: Words in reg. 11 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/b)
 
-[^key-e3361cbfb2e95f50927b8da467746ce0]: Textual amendment: Words in reg. 11 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/c)
+[^c-e3361cbfb2e95f50927b8da467746ce0]: Textual amendment: Words in reg. 11 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/c)
 
-[^key-cba66ab48f1f62746eee3b4b4c67ad0d]: Textual amendment: Word in reg. 11 omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/a)
+[^c-cba66ab48f1f62746eee3b4b4c67ad0d]: Textual amendment: Word in reg. 11 omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/a)
 
-[^key-a54d8346451d555bd4dcf74aee9d100b]: Textual amendment: Reg. 11(1)(b) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/b)
+[^c-a54d8346451d555bd4dcf74aee9d100b]: Textual amendment: Reg. 11(1)(b) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/b)
 
-[^key-b65021b4cd71c09809db54bd5137572c]: Textual amendment: Words in reg. 11(2)(c) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/c)
+[^c-b65021b4cd71c09809db54bd5137572c]: Textual amendment: Words in reg. 11(2)(c) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/c)
 
-[^key-96398a165ffb80cede8fdba17fedf28b]: Textual amendment: Reg. 11(4A) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2021/758/regulation/17)
+[^c-96398a165ffb80cede8fdba17fedf28b]: Textual amendment: Reg. 11(4A) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2021/758/regulation/17)
 
-[^key-d9358ab0f8309df5f8c64bd8cc2ba11f]: Textual amendment: Words in reg. 11(4A) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/d)
+[^c-d9358ab0f8309df5f8c64bd8cc2ba11f]: Textual amendment: Words in reg. 11(4A) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/d)
 
-[^key-d5bd25b4f5ca16a0632bf5b8ae77a763]: Textual amendment: Words in reg. 11(4A) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/d)
+[^c-d5bd25b4f5ca16a0632bf5b8ae77a763]: Textual amendment: Words in reg. 11(4A) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/12/d)
 
-[^key-0993e1d019169a7807525c49de8552e8]: Textual amendment: Reg. 11(5)(a) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(e)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/e)
+[^c-0993e1d019169a7807525c49de8552e8]: Textual amendment: Reg. 11(5)(a) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(e)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/e)
 
-[^key-b18311428285c076771e98815f1b7697]: Textual amendment: Reg. 11(5)(c) and word omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(f)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/f)
+[^c-b18311428285c076771e98815f1b7697]: Textual amendment: Reg. 11(5)(c) and word omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [6(f)](https://www.legislation.gov.uk/uksi/2025/903/regulation/6/f)
 
-[^key-0b3624c3b19ff19658300a6f26ef6edc]: Commencement: Reg. 12 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-0b3624c3b19ff19658300a6f26ef6edc]: Commencement: Reg. 12 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-678adbb7e9550b36cb6e665f40fb3d94]: Textual amendment: Reg. 12 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/13/a)
+[^c-678adbb7e9550b36cb6e665f40fb3d94]: Textual amendment: Reg. 12 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/13/a)
 
-[^key-666aec23acef0e2872d53efdbb8ca0f0]: Textual amendment: Words in reg. 12(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/13/d)
+[^c-666aec23acef0e2872d53efdbb8ca0f0]: Textual amendment: Words in reg. 12(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/13/d)
 
-[^key-8bc02fcc7a46c124c9c70ca27f93b124]: Textual amendment: Reg. 12(2) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/a)
+[^c-8bc02fcc7a46c124c9c70ca27f93b124]: Textual amendment: Reg. 12(2) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/a)
 
-[^key-3ae39df77c49faf49fd7bd8690218a85]: Textual amendment: Reg. 12(3) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/b)
+[^c-3ae39df77c49faf49fd7bd8690218a85]: Textual amendment: Reg. 12(3) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/b)
 
-[^key-482612fc66ba28c59dfab0ac8e958ec3]: Textual amendment: Reg. 12(4) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/b)
+[^c-482612fc66ba28c59dfab0ac8e958ec3]: Textual amendment: Reg. 12(4) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/b)
 
-[^key-f292a504ceb0a5e6a507026e20ac5d55]: Textual amendment: Words in reg. 12(5) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/c)
+[^c-f292a504ceb0a5e6a507026e20ac5d55]: Textual amendment: Words in reg. 12(5) omitted (22.7.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2025/903/regulation/7/c)
 
-[^key-7dbcd294c280893349d814d3924b8a86]: Textual amendment: Words in reg. 12(5) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/13/e)
+[^c-7dbcd294c280893349d814d3924b8a86]: Textual amendment: Words in reg. 12(5) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/13/e)
 
-[^key-7984fc5fc8b531a1fb66dcbdc2d1b654]: Textual amendment: Words in reg. 12(5)(b) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [18(b)(i)](https://www.legislation.gov.uk/uksi/2021/758/regulation/18/b/i)
+[^c-7984fc5fc8b531a1fb66dcbdc2d1b654]: Textual amendment: Words in reg. 12(5)(b) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [18(b)(i)](https://www.legislation.gov.uk/uksi/2021/758/regulation/18/b/i)
 
-[^key-3b55c7838e98f8ffc5dc8ceacc3ae44a]: Textual amendment: Reg. 12(5)(c) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2021/758/regulation/18/b/ii)
+[^c-3b55c7838e98f8ffc5dc8ceacc3ae44a]: Textual amendment: Reg. 12(5)(c) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2021/758/regulation/18/b/ii)
 
-[^key-5fdf9b4441161f3433f364d729e30bae]: Commencement: Reg. 13 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-5fdf9b4441161f3433f364d729e30bae]: Commencement: Reg. 13 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-43eeafcdd34018a2703366dc13f991c5]: Textual amendment: Reg. 13 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/14/a)
+[^c-43eeafcdd34018a2703366dc13f991c5]: Textual amendment: Reg. 13 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/14/a)
 
-[^key-7c45b774292e5d09d0aa5b4ad4f1d104]: Textual amendment: Words in reg. 13 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/14/b)
+[^c-7c45b774292e5d09d0aa5b4ad4f1d104]: Textual amendment: Words in reg. 13 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/14/b)
 
-[^key-1e3657bbcdb6a82b9e76a5dc7163bb4f]: Textual amendment: Reg. 13A inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/710/regulation/15)
+[^c-1e3657bbcdb6a82b9e76a5dc7163bb4f]: Textual amendment: Reg. 13A inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/710/regulation/15)
 
-[^key-dae2d155dc9b40f1267ac695571b6447]: Textual amendment: [Reg. 13A(1A)-(1C)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13A/1A) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/9/a)
+[^c-dae2d155dc9b40f1267ac695571b6447]: Textual amendment: [Reg. 13A(1A)-(1C)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13A/1A) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/9/a)
 
-[^key-d76b43706e9fd87507601894613786a1]: Textual amendment: [Reg. 13A(2)-(6)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13A/2) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/9/b)
+[^c-d76b43706e9fd87507601894613786a1]: Textual amendment: [Reg. 13A(2)-(6)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13A/2) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/9/b)
 
-[^key-bf3bd00a7774c07446b6fda7387becd2]: Textual amendment: Words in [reg. 13A(7)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13A/7) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2026/411/regulation/9/c)
+[^c-bf3bd00a7774c07446b6fda7387becd2]: Textual amendment: Words in [reg. 13A(7)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13A/7) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2026/411/regulation/9/c)
 
-[^key-183d33f86109f9c877f05057c58721b6]: Textual amendment: Reg. 13B inserted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/903/regulation/8)
+[^c-183d33f86109f9c877f05057c58721b6]: Textual amendment: Reg. 13B inserted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/903/regulation/8)
 
-[^key-fd95a48a585109adb7c50d3004fb4467]: Textual amendment: [Reg. 13B(1)(c)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13B/1/c) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/10/a)
+[^c-fd95a48a585109adb7c50d3004fb4467]: Textual amendment: [Reg. 13B(1)(c)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13B/1/c) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/10/a)
 
-[^key-121d089896fd7e334b9ee50d9e826304]: Textual amendment: Words in [reg. 13B(2)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13B/2) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/10/b)
+[^c-121d089896fd7e334b9ee50d9e826304]: Textual amendment: Words in [reg. 13B(2)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/13B/2) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/10/b)
 
-[^key-3aa30c2d869fb5be8f4df3a57e30b57c]: Commencement: Reg. 14 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-3aa30c2d869fb5be8f4df3a57e30b57c]: Commencement: Reg. 14 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-1023ba33a4e99e11de28e3d2a9b85ea2]: Textual amendment: Words in reg. 14(1) substituted (14.1.2025) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/25)](https://www.legislation.gov.uk/uksi/2025/25), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/3/2)
+[^c-1023ba33a4e99e11de28e3d2a9b85ea2]: Textual amendment: Words in reg. 14(1) substituted (14.1.2025) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/25)](https://www.legislation.gov.uk/uksi/2025/25), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/3/2)
 
-[^key-0031d7475f01330a8bc5f96b26aab451]: Textual amendment: Words in reg. 14(2)(a) inserted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/2)
+[^c-0031d7475f01330a8bc5f96b26aab451]: Textual amendment: Words in reg. 14(2)(a) inserted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/2)
 
-[^key-c71d74775091fb39fcccc488f2af8303]: Textual amendment: Word in reg. 14(5) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2021/758/regulation/19/a)
+[^c-c71d74775091fb39fcccc488f2af8303]: Textual amendment: Word in reg. 14(5) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2021/758/regulation/19/a)
 
-[^key-0c2fa9d8cce94184d1812532cfbaae97]: Textual amendment: Words in reg. 14(5) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/6/a)
+[^c-0c2fa9d8cce94184d1812532cfbaae97]: Textual amendment: Words in reg. 14(5) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/6/a)
 
-[^key-b851dd5312b9e09bc08c3c48a5818728]: Textual amendment: Reg. 14(10)(10A) substituted for reg. 14(10) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/6/b)
+[^c-b851dd5312b9e09bc08c3c48a5818728]: Textual amendment: Reg. 14(10)(10A) substituted for reg. 14(10) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/6/b)
 
-[^key-9f437827e7310cc521b2ac705e0bb8f8]: Textual amendment: Reg. 14(11) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/19/b)
+[^c-9f437827e7310cc521b2ac705e0bb8f8]: Textual amendment: Reg. 14(11) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/19/b)
 
-[^key-236ea966f2357644389c7c1810bdf0b1]: Textual amendment: Words in reg. 14(14) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/710/regulation/16)
+[^c-236ea966f2357644389c7c1810bdf0b1]: Textual amendment: Words in reg. 14(14) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/710/regulation/16)
 
-[^key-31c4c229b2c0eacf0a0467c2486c3817]: Textual amendment: Reg. 14ZA inserted (14.1.2025) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/25)](https://www.legislation.gov.uk/uksi/2025/25), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/25/regulation/3/3)
+[^c-31c4c229b2c0eacf0a0467c2486c3817]: Textual amendment: Reg. 14ZA inserted (14.1.2025) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/25)](https://www.legislation.gov.uk/uksi/2025/25), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/25/regulation/3/3)
 
-[^key-972c95acf0968dc5792ef82e78e2d180]: Textual amendment: Regs. 14A-14D inserted (27.3.2015) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2015 (S.I. 2015/981)](https://www.legislation.gov.uk/uksi/2015/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/981/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/981/regulation/5)
+[^c-972c95acf0968dc5792ef82e78e2d180]: Textual amendment: Regs. 14A-14D inserted (27.3.2015) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2015 (S.I. 2015/981)](https://www.legislation.gov.uk/uksi/2015/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/981/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/981/regulation/5)
 
-[^key-f1cd5f2b198d7550439651b7ede0a4b2]: Textual amendment: Reg. 14A(1)(b) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/4/2)
+[^c-f1cd5f2b198d7550439651b7ede0a4b2]: Textual amendment: Reg. 14A(1)(b) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/4/2)
 
-[^key-ffb96d6e5b04619d49ca80fa2a59f97f]: Textual amendment: Words in reg. 14A(1)(b)(i) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2021/758/regulation/20/a)
+[^c-ffb96d6e5b04619d49ca80fa2a59f97f]: Textual amendment: Words in reg. 14A(1)(b)(i) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2021/758/regulation/20/a)
 
-[^key-59017b1e7c85ff45e0fd88edb12fe5a5]: Textual amendment: Reg. 14A(2) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/20/b)
+[^c-59017b1e7c85ff45e0fd88edb12fe5a5]: Textual amendment: Reg. 14A(2) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/20/b)
 
-[^key-0908574c9cd095e07e4cd0dd1d4e0d06]: Textual amendment: Words in reg. 14A(2) substituted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/2/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/4/1))
+[^c-0908574c9cd095e07e4cd0dd1d4e0d06]: Textual amendment: Words in reg. 14A(2) substituted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/2/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/4/1))
 
-[^key-ae1ebb61ba4987dfdb1afae44aeb1391]: Textual amendment: Words in reg. 14A(2) substituted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/2/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/4/1))
+[^c-ae1ebb61ba4987dfdb1afae44aeb1391]: Textual amendment: Words in reg. 14A(2) substituted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/2/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/4/1))
 
-[^key-2202bf2a56cfc19789d5b86b7e998cab]: Textual amendment: Reg. 14A(2A) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/710/regulation/17)
+[^c-2202bf2a56cfc19789d5b86b7e998cab]: Textual amendment: Reg. 14A(2A) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/710/regulation/17)
 
-[^key-cd5776d04a1454d4d484192a0680f5f6]: Textual amendment: Words in reg. 14A(6) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/4/4/a)
+[^c-cd5776d04a1454d4d484192a0680f5f6]: Textual amendment: Words in reg. 14A(6) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/4/4/a)
 
-[^key-afa274456a06c35187e76d29ae57d015]: Textual amendment: Words in reg. 14A(6) omitted (15.12.2016) by virtue of [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/4/4/b)
+[^c-afa274456a06c35187e76d29ae57d015]: Textual amendment: Words in reg. 14A(6) omitted (15.12.2016) by virtue of [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/4/4/b)
 
-[^key-893a93c150749f6ba4bb43f5e9cf4131]: Textual amendment: Words in [reg. 14B(7)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14B/7) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/5/2)
+[^c-893a93c150749f6ba4bb43f5e9cf4131]: Textual amendment: Words in [reg. 14B(7)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14B/7) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/5/2)
 
-[^key-2f940260943fbcb9ba02d281cc9d4753]: Textual amendment: Words in [reg. 14B(8)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14B/8) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/5/3)
+[^c-2f940260943fbcb9ba02d281cc9d4753]: Textual amendment: Words in [reg. 14B(8)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14B/8) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/5/3)
 
-[^key-bb70e2a1496cf452f2dce70b6ebea4ef]: Textual amendment: Reg. 14B(9)(10) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/784/regulation/7)
+[^c-bb70e2a1496cf452f2dce70b6ebea4ef]: Textual amendment: Reg. 14B(9)(10) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/784/regulation/7)
 
-[^key-32dd7db41ebce11ae05ebe983e405905]: Textual amendment: Words in reg. 14C(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/a)
+[^c-32dd7db41ebce11ae05ebe983e405905]: Textual amendment: Words in reg. 14C(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/a)
 
-[^key-e97e656b50c8a0ebd734b9e149488e67]: Textual amendment: Words in reg. 14C(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(b)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/b/i)
+[^c-e97e656b50c8a0ebd734b9e149488e67]: Textual amendment: Words in reg. 14C(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(b)(i)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/b/i)
 
-[^key-dfaeee6e5738edbde4c359891070cda3]: Textual amendment: Words in reg. 14C(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/b/ii)
+[^c-dfaeee6e5738edbde4c359891070cda3]: Textual amendment: Words in reg. 14C(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(b)(ii)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/b/ii)
 
-[^key-9aafde7ac65fbbd3533106a3e00a8646]: Textual amendment: Words in reg. 14C substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/c)
+[^c-9aafde7ac65fbbd3533106a3e00a8646]: Textual amendment: Words in reg. 14C substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/c)
 
-[^key-5e26596caa31e3c5c68a70f091a1d7cb]: Textual amendment: Words in reg. 14C(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/d)
+[^c-5e26596caa31e3c5c68a70f091a1d7cb]: Textual amendment: Words in reg. 14C(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/d)
 
-[^key-3aa377cdcf26e26d0a419a81933b879e]: Textual amendment: Words in reg. 14C(5)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/d)
+[^c-3aa377cdcf26e26d0a419a81933b879e]: Textual amendment: Words in reg. 14C(5)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/d)
 
-[^key-5253e0aac471faf9bf625cacca72ff8c]: Textual amendment: Words in reg. 14C(5)(c) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/e)
+[^c-5253e0aac471faf9bf625cacca72ff8c]: Textual amendment: Words in reg. 14C(5)(c) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [18(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/18/e)
 
-[^key-d513d930ad13914e29d59fdc1b260d04]: Textual amendment: Words in reg. 14C(6)(e) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/1246/regulation/6)
+[^c-d513d930ad13914e29d59fdc1b260d04]: Textual amendment: Words in reg. 14C(6)(e) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/1246/regulation/6)
 
-[^key-1c9908e8a67e1f5bfa62bf0257b5db90]: Textual amendment: [Reg. 14D(1)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14D/1/b) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/1246/regulation/7)
+[^c-1c9908e8a67e1f5bfa62bf0257b5db90]: Textual amendment: [Reg. 14D(1)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14D/1/b) substituted (15.12.2016) by [The Contracts for Difference (Allocation) (Excluded Sites) Amendment Regulations 2016 (S.I. 2016/1246)](https://www.legislation.gov.uk/uksi/2016/1246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1246/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/1246/regulation/7)
 
-[^key-ae80411336ba57c22c6b58c28cad7943]: Textual amendment: [Reg. 14D(1A)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14D/1A) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2016/784/regulation/8)
+[^c-ae80411336ba57c22c6b58c28cad7943]: Textual amendment: [Reg. 14D(1A)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/14D/1A) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2016/784/regulation/8)
 
-[^key-9b6847907c01b4967b6f248bc01c7859]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2011/regulation/15) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/710/regulation/19)
+[^c-9b6847907c01b4967b6f248bc01c7859]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2011/regulation/15) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/710/regulation/19)
 
-[^key-a4a76aa0de53e230216c4cf1c1a4a77a]: Commencement: Reg. 16 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-a4a76aa0de53e230216c4cf1c1a4a77a]: Commencement: Reg. 16 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-d6b91dd0008d5edfbcb158055cbadafb]: Textual amendment: Words in reg. 16(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/710/regulation/20)
+[^c-d6b91dd0008d5edfbcb158055cbadafb]: Textual amendment: Words in reg. 16(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/710/regulation/20)
 
-[^key-0064ba61c20a508f00bd0f3901654d0e]: Commencement: Reg. 17 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-0064ba61c20a508f00bd0f3901654d0e]: Commencement: Reg. 17 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-2e25378f932e044b1556ee011b2d2840]: Textual amendment: Words in reg. 17(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/21/a)
+[^c-2e25378f932e044b1556ee011b2d2840]: Textual amendment: Words in reg. 17(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/21/a)
 
-[^key-70ad7c9bfca6662692609800232e8760]: Textual amendment: Words in reg. 17(3)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/21/b)
+[^c-70ad7c9bfca6662692609800232e8760]: Textual amendment: Words in reg. 17(3)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/21/b)
 
 [^f00016]: Footnote: See section 11(1) of the Energy Act 2014.
 
 [^f00017]: Footnote: See section 15(2) of the Energy Act 2014.
 
-[^key-5befb72c9f757115ec4658e917fcd002]: Commencement: Reg. 18 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-5befb72c9f757115ec4658e917fcd002]: Commencement: Reg. 18 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
 [^f00018]: Footnote: The prohibitions on disclosure stated in section 19(4)(a) and (b) of the Act do not apply in respect of a disclosure required by virtue of section 19.
 
-[^key-10e631f1954527b73f8024ff3ab75ed1]: Commencement: Reg. 19 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-10e631f1954527b73f8024ff3ab75ed1]: Commencement: Reg. 19 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-7a6624c1915f92e422ab30ca46b8fc0e]: Textual amendment: Words in reg. 19(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/710/regulation/22)
+[^c-7a6624c1915f92e422ab30ca46b8fc0e]: Textual amendment: Words in reg. 19(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2024/710/regulation/22)
 
-[^key-f9da6ee5aaf99fb22833e2537dadd1a3]: Commencement: Reg. 20 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-f9da6ee5aaf99fb22833e2537dadd1a3]: Commencement: Reg. 20 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-1034b91ad20872dd6845ba6a42c950a9]: Textual amendment: Reg. 20(1A) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/23/a)
+[^c-1034b91ad20872dd6845ba6a42c950a9]: Textual amendment: Reg. 20(1A) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/23/a)
 
-[^key-ad9ece90539d444658c304fcf27b7e21]: Textual amendment: Word in reg. 20(2)(a) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/2)
+[^c-ad9ece90539d444658c304fcf27b7e21]: Textual amendment: Word in reg. 20(2)(a) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/2)
 
-[^key-82c7dfbdfd404a5279861fa5cef35ff9]: Textual amendment: Words in reg. 20(2)(c) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/3)
+[^c-82c7dfbdfd404a5279861fa5cef35ff9]: Textual amendment: Words in reg. 20(2)(c) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/3)
 
-[^key-1355a7e9548fcd6ca8d01c6891f09dee]: Textual amendment: Word in reg. 20(5) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/4)
+[^c-1355a7e9548fcd6ca8d01c6891f09dee]: Textual amendment: Word in reg. 20(5) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/4)
 
-[^key-b2e331b1081d45e26cc4968ae40f6a09]: Textual amendment: Words in reg. 20(6) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/23/b)
+[^c-b2e331b1081d45e26cc4968ae40f6a09]: Textual amendment: Words in reg. 20(6) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/23/b)
 
-[^key-478529a30c3614d5bd6ca3a9f99f3a79]: Textual amendment: Words in reg. 20(6) renumbered as reg. 20(6)(a) (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/5/a)
+[^c-478529a30c3614d5bd6ca3a9f99f3a79]: Textual amendment: Words in reg. 20(6) renumbered as reg. 20(6)(a) (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/5/a)
 
-[^key-ebcadd1228a4160bf6e916bb3d4a103b]: Textual amendment: Reg. 20(6)(b) and word inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/5/b)
+[^c-ebcadd1228a4160bf6e916bb3d4a103b]: Textual amendment: Reg. 20(6)(b) and word inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2026/678/regulation/3/5/b)
 
-[^key-bf0597c0c42fdc6718b52cefc81a1027]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/2011/regulation/20A) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/678/regulation/4)
+[^c-bf0597c0c42fdc6718b52cefc81a1027]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/2011/regulation/20A) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/678/regulation/4)
 
-[^key-425990ec58092d542a0d698b95399e6b]: Commencement: Reg. 21 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-425990ec58092d542a0d698b95399e6b]: Commencement: Reg. 21 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-dff2f10cae1fb2e7b9a37a205d552617]: Commencement: Reg. 22 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-dff2f10cae1fb2e7b9a37a205d552617]: Commencement: Reg. 22 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-fa5332ac3358f65b0c42d167b004664f]: Commencement: Reg. 23 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-fa5332ac3358f65b0c42d167b004664f]: Commencement: Reg. 23 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-5f4c3e5eb8fddb719dca6be1bcf3c34d]: Textual amendment: Words in reg. 23(7) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2024/710/regulation/24)
+[^c-5f4c3e5eb8fddb719dca6be1bcf3c34d]: Textual amendment: Words in reg. 23(7) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2024/710/regulation/24)
 
-[^key-66c6112b394ff981fdeb1dc1f74ae88e]: Commencement: Reg. 24 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-66c6112b394ff981fdeb1dc1f74ae88e]: Commencement: Reg. 24 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
 [^f00019]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 114 was amended by section 128(2) of, and paragraphs 1 and 55(1) and (2)(a) of Part 1 of Schedule 13 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
@@ -2490,336 +2490,336 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00025]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). Section 3 has been amended by section 36 of, and Schedule 2 to, the Planning Act 2008.
 
-[^key-b4c4f13858dc6ddd8c48415aa024185f]: Commencement: Reg. 25 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-b4c4f13858dc6ddd8c48415aa024185f]: Commencement: Reg. 25 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-8889196116e8eebf6a9afa9ab3ddde32]: Textual amendment: Reg. 25(2)-(4) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/9/a)
+[^c-8889196116e8eebf6a9afa9ab3ddde32]: Textual amendment: Reg. 25(2)-(4) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/9/a)
 
-[^key-2bbefaa69d98df13f3b68f23e7ca8e8b]: Textual amendment: Words in reg. 25(5) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2024/710/regulation/25)
+[^c-2bbefaa69d98df13f3b68f23e7ca8e8b]: Textual amendment: Words in reg. 25(5) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2024/710/regulation/25)
 
-[^key-ecd4e74d36eed894db8078b837368865]: Textual amendment: Words in reg. 25(6) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2016/784/regulation/9/b/i)
+[^c-ecd4e74d36eed894db8078b837368865]: Textual amendment: Words in reg. 25(6) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2016/784/regulation/9/b/i)
 
-[^key-e036d2d9bf0f03499c38cd9ee891998a]: Textual amendment: Words in reg. 25(6) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2016/784/regulation/9/b/ii)
+[^c-e036d2d9bf0f03499c38cd9ee891998a]: Textual amendment: Words in reg. 25(6) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2016/784/regulation/9/b/ii)
 
-[^key-3ca102095e6d1489224a4b0f239f5253]: Commencement: Reg. 26 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-3ca102095e6d1489224a4b0f239f5253]: Commencement: Reg. 26 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-36b65dfcdce376bb4dcb018550f2b207]: Textual amendment: Word in reg. 26(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/26/a)
+[^c-36b65dfcdce376bb4dcb018550f2b207]: Textual amendment: Word in reg. 26(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/26/a)
 
 [^f00026]: Footnote: [S.I. 2014/2013](https://www.legislation.gov.uk/uksi/2014/2013).
 
-[^key-f3746caec102c884eead255a8ab16291]: Textual amendment: Reg. 26(3A) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/26/b)
+[^c-f3746caec102c884eead255a8ab16291]: Textual amendment: Reg. 26(3A) inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/26/b)
 
-[^key-5aa646dfb3f9feca8c0155602e52119e]: Textual amendment: Words in [reg. 26(3A)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/26/3A) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2026/411/regulation/11)
+[^c-5aa646dfb3f9feca8c0155602e52119e]: Textual amendment: Words in [reg. 26(3A)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/26/3A) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2026/411/regulation/11)
 
-[^key-8307d698ca7a2bc90c7276c3df22a7eb]: Textual amendment: Reg. 26(5) substituted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/3)
+[^c-8307d698ca7a2bc90c7276c3df22a7eb]: Textual amendment: Reg. 26(5) substituted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/3)
 
-[^key-f9cf115ad8307e90eabbae18ed42fe44]: Commencement: Reg. 27 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-f9cf115ad8307e90eabbae18ed42fe44]: Commencement: Reg. 27 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-bbddfcd4336cd6300e7a085b5bf91fa5]: Textual amendment: Words in reg. 27(2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 131(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/131/a)
+[^c-bbddfcd4336cd6300e7a085b5bf91fa5]: Textual amendment: Words in reg. 27(2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 131(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/131/a)
 
-[^key-d638f541d1871a4f1efc9505f07af882]: Textual amendment: Words in reg. 27(3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 131(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/131/b)
+[^c-d638f541d1871a4f1efc9505f07af882]: Textual amendment: Words in reg. 27(3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 131(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/131/b)
 
-[^key-6a225bb7d1526897cdd43fb685fef86f]: Textual amendment: Reg. 27ZA inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2021/758/regulation/21)
+[^c-6a225bb7d1526897cdd43fb685fef86f]: Textual amendment: Reg. 27ZA inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2021/758/regulation/21)
 
-[^key-d9af438586089f93aeaf6467f50bcba4]: Textual amendment: Reg. 27ZA(4)(a) omitted (14.1.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/25)](https://www.legislation.gov.uk/uksi/2025/25), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/25/regulation/3/4)
+[^c-d9af438586089f93aeaf6467f50bcba4]: Textual amendment: Reg. 27ZA(4)(a) omitted (14.1.2025) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/25)](https://www.legislation.gov.uk/uksi/2025/25), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/25/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/25/regulation/3/4)
 
-[^key-e0183e7c723d6fc8ebae25a06ba213ed]: Textual amendment: Reg. 27A inserted (24.7.2018) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/895)](https://www.legislation.gov.uk/uksi/2018/895), [regs. 1](https://www.legislation.gov.uk/uksi/2018/895/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/895/regulation/2/3)
+[^c-e0183e7c723d6fc8ebae25a06ba213ed]: Textual amendment: Reg. 27A inserted (24.7.2018) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/895)](https://www.legislation.gov.uk/uksi/2018/895), [regs. 1](https://www.legislation.gov.uk/uksi/2018/895/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/895/regulation/2/3)
 
-[^key-797dce314905429749ca257056ef1894]: Textual amendment: [Reg. 27B](https://www.legislation.gov.uk/uksi/2014/2011/regulation/27B) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/411/regulation/12)
+[^c-797dce314905429749ca257056ef1894]: Textual amendment: [Reg. 27B](https://www.legislation.gov.uk/uksi/2014/2011/regulation/27B) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/411/regulation/12)
 
-[^key-09f4580eac65eb9d5b1aafe81bd3d344]: Commencement: Reg. 28 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-09f4580eac65eb9d5b1aafe81bd3d344]: Commencement: Reg. 28 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-a3f4a130cde77fb30243c42fdcece0f8]: Textual amendment: Words in reg. 28(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2024/710/regulation/28)
+[^c-a3f4a130cde77fb30243c42fdcece0f8]: Textual amendment: Words in reg. 28(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2024/710/regulation/28)
 
-[^key-11820db8a7dbb6f0905735e105e74c1d]: Textual amendment: Pt. 4 Ch. 5 inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2024/710/regulation/29)
+[^c-11820db8a7dbb6f0905735e105e74c1d]: Textual amendment: Pt. 4 Ch. 5 inserted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2024/710/regulation/29)
 
-[^key-5060a85d1ea6db3014779de099dace6d]: Textual amendment: [Reg. 28A(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28A/1) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/13/a)
+[^c-5060a85d1ea6db3014779de099dace6d]: Textual amendment: [Reg. 28A(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28A/1) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/13/a)
 
-[^key-fae491dd2df5dd618d5e8a444843509b]: Textual amendment: [Reg. 28A(2)(a)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28A/2/a) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/13/b)
+[^c-fae491dd2df5dd618d5e8a444843509b]: Textual amendment: [Reg. 28A(2)(a)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28A/2/a) omitted (15.4.2026) by virtue of [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/13/b)
 
-[^key-420bb0a6cc634d474a4800fe569119ed]: Textual amendment: Words in [reg. 28A(2)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28A/2/b) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2026/411/regulation/13/c)
+[^c-420bb0a6cc634d474a4800fe569119ed]: Textual amendment: Words in [reg. 28A(2)(b)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28A/2/b) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2026/411/regulation/13/c)
 
-[^key-4e71de4cc52d8f8beecd70439e7fb219]: Textual amendment: [Reg. 28B(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28B/1) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/14/a)
+[^c-4e71de4cc52d8f8beecd70439e7fb219]: Textual amendment: [Reg. 28B(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28B/1) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2026/411/regulation/14/a)
 
-[^key-947193c03960e844354b8ec49f264550]: Textual amendment: Words in [reg. 28B(2)(a)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28B/2/a) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/14/b)
+[^c-947193c03960e844354b8ec49f264550]: Textual amendment: Words in [reg. 28B(2)(a)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/28B/2/a) substituted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2026/411/regulation/14/b)
 
-[^key-a82dea93b3eca9f9666302148950ef96]: Textual amendment: Pt. 5 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2024/710/regulation/30)
+[^c-a82dea93b3eca9f9666302148950ef96]: Textual amendment: Pt. 5 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2024/710/regulation/30)
 
-[^key-f48faba0609b121008896d133c6bc10e]: Commencement: Reg. 29 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-f48faba0609b121008896d133c6bc10e]: Commencement: Reg. 29 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-6e626723d8d4202318e32f5bd3f4c6ec]: Textual amendment: Words in reg. 29 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2024/710/regulation/31)
+[^c-6e626723d8d4202318e32f5bd3f4c6ec]: Textual amendment: Words in reg. 29 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2024/710/regulation/31)
 
-[^key-9556b59749da99c4174ad35b27be505b]: Textual amendment: Words in Pt. 5 Ch. 2 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/710/regulation/32)
+[^c-9556b59749da99c4174ad35b27be505b]: Textual amendment: Words in Pt. 5 Ch. 2 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/710/regulation/32)
 
-[^key-cd47a4794ea264dc4920b27882a7a1e0]: Commencement: Reg. 30 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-cd47a4794ea264dc4920b27882a7a1e0]: Commencement: Reg. 30 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-5a7920554b2fd9a5ce0b64355f759cf3]: Textual amendment: Words in reg. 30 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/a)
+[^c-5a7920554b2fd9a5ce0b64355f759cf3]: Textual amendment: Words in reg. 30 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/a)
 
-[^key-b34ce6234bde8ef15206dd6013325f6e]: Textual amendment: Words in reg. 30(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/c)
+[^c-b34ce6234bde8ef15206dd6013325f6e]: Textual amendment: Words in reg. 30(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/c)
 
-[^key-d6395d0c437cbaddb24bd30ffbe3191f]: Textual amendment: Words in reg. 30 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/b)
+[^c-d6395d0c437cbaddb24bd30ffbe3191f]: Textual amendment: Words in reg. 30 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/b)
 
-[^key-a8d384bad290766bba8a50c0e250e5c9]: Textual amendment: Words in reg. 30(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/d)
+[^c-a8d384bad290766bba8a50c0e250e5c9]: Textual amendment: Words in reg. 30(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(d)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/d)
 
-[^key-af0e832afe63294e3b382c8e0bdd99b8]: Textual amendment: Words in reg. 30(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/e)
+[^c-af0e832afe63294e3b382c8e0bdd99b8]: Textual amendment: Words in reg. 30(2)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [33(e)](https://www.legislation.gov.uk/uksi/2024/710/regulation/33/e)
 
-[^key-013fbcbf33270cfa30e6afecd9ce6ae7]: Textual amendment: Reg. 30(9) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2021/758/regulation/22)
+[^c-013fbcbf33270cfa30e6afecd9ce6ae7]: Textual amendment: Reg. 30(9) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2021/758/regulation/22)
 
-[^key-6445c1470b81eae4c48ba112367d80da]: Textual amendment: Words in Pt. 5 Ch. 3 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2024/710/regulation/34)
+[^c-6445c1470b81eae4c48ba112367d80da]: Textual amendment: Words in Pt. 5 Ch. 3 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2024/710/regulation/34)
 
-[^key-6f9d22659664484d217e0d449d7af372]: Commencement: Reg. 31 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-6f9d22659664484d217e0d449d7af372]: Commencement: Reg. 31 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-6f6d0d5ee7b23b3e29e830e2cf8e6c89]: Textual amendment: Words in reg. 31(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/35/a)
+[^c-6f6d0d5ee7b23b3e29e830e2cf8e6c89]: Textual amendment: Words in reg. 31(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [35(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/35/a)
 
-[^key-2ca63e6edce93456d7bbb8733ef7e1f8]: Textual amendment: Word in reg. 31(1) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2021/758/regulation/23/a)
+[^c-2ca63e6edce93456d7bbb8733ef7e1f8]: Textual amendment: Word in reg. 31(1) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2021/758/regulation/23/a)
 
-[^key-b85faf2d6b1cdf1dddf036c0fb30c3cc]: Textual amendment: Reg. 31(2) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/23/b)
+[^c-b85faf2d6b1cdf1dddf036c0fb30c3cc]: Textual amendment: Reg. 31(2) substituted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2021/758/regulation/23/b)
 
-[^key-5e8865fcd7fa8c4db297def3c3e35e63]: Textual amendment: Words in reg. 31(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/35/b)
+[^c-5e8865fcd7fa8c4db297def3c3e35e63]: Textual amendment: Words in reg. 31(2) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [35(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/35/b)
 
-[^key-8043b4afb30dc1094fdfc16ce35677d5]: Commencement: Reg. 32 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-8043b4afb30dc1094fdfc16ce35677d5]: Commencement: Reg. 32 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-5e73d6ecd8a21545742f685f63ae19c5]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/32/1) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2016/784/regulation/10)
+[^c-5e73d6ecd8a21545742f685f63ae19c5]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/32/1) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2016/784/regulation/10)
 
-[^key-aec491c171788285c6742b1ee96185f8]: Commencement: Reg. 33 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-aec491c171788285c6742b1ee96185f8]: Commencement: Reg. 33 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-cf2c099d5021b6e291be5e9f78e76a62]: Textual amendment: Words in reg. 33 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/710/regulation/36)
+[^c-cf2c099d5021b6e291be5e9f78e76a62]: Textual amendment: Words in reg. 33 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2024/710/regulation/36)
 
-[^key-44037c6e8fa0cd52e3948e91968203df]: Textual amendment: Reg. 33(A1) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2021/758/regulation/24)
+[^c-44037c6e8fa0cd52e3948e91968203df]: Textual amendment: Reg. 33(A1) inserted (25.6.2021) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2021/758/regulation/24)
 
-[^key-ae7dc8325e672cde1d1f4e25dd02990c]: Commencement: Reg. 34 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-ae7dc8325e672cde1d1f4e25dd02990c]: Commencement: Reg. 34 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-44dfa4247605886f8c5cca28c9a20de2]: Textual amendment: Words in reg. 34 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/37/a)
+[^c-44dfa4247605886f8c5cca28c9a20de2]: Textual amendment: Words in reg. 34 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [37(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/37/a)
 
-[^key-bff379aeb571414b792b49e3ea062c37]: Textual amendment: Words in reg. 34(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [37(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/37/b)
+[^c-bff379aeb571414b792b49e3ea062c37]: Textual amendment: Words in reg. 34(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [37(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/37/b)
 
-[^key-eb375222124c2e46f665da8043da4faa]: Textual amendment: Words in reg. 34(2) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/a)
+[^c-eb375222124c2e46f665da8043da4faa]: Textual amendment: Words in reg. 34(2) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/a)
 
-[^key-5decc010c0ac1ab567ba1877194bffd4]: Textual amendment: Word in reg. 34(2) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/b)
+[^c-5decc010c0ac1ab567ba1877194bffd4]: Textual amendment: Word in reg. 34(2) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/b)
 
-[^key-983563ce2cf31bea89635b9b38594dbc]: Textual amendment: Word in reg. 34(4) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/c)
+[^c-983563ce2cf31bea89635b9b38594dbc]: Textual amendment: Word in reg. 34(4) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/c)
 
-[^key-cc180f4dd96297767a0c7306f174d2a2]: Textual amendment: Word in reg. 34(4)-(6) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/b)
+[^c-cc180f4dd96297767a0c7306f174d2a2]: Textual amendment: Word in reg. 34(4)-(6) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/b)
 
-[^key-162e6740cb8b782e7c3a8018cffbd47b]: Textual amendment: Words in reg. 34(6) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [37(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/37/c)
+[^c-162e6740cb8b782e7c3a8018cffbd47b]: Textual amendment: Words in reg. 34(6) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [37(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/37/c)
 
-[^key-f826998602f5a7956cff9bd48d3aa862]: Textual amendment: Words in reg. 34(6)(b) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/d)
+[^c-f826998602f5a7956cff9bd48d3aa862]: Textual amendment: Words in reg. 34(6)(b) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [11(d)](https://www.legislation.gov.uk/uksi/2016/784/regulation/11/d)
 
-[^key-4ab2e04b58fb4a03a26cfa5ec6bfec0c]: Commencement: Reg. 35 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-4ab2e04b58fb4a03a26cfa5ec6bfec0c]: Commencement: Reg. 35 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-605305425252e21d09295872a976bf39]: Textual amendment: Words in reg. 35 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [38(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/38/a)
+[^c-605305425252e21d09295872a976bf39]: Textual amendment: Words in reg. 35 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [38(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/38/a)
 
-[^key-98d5dea9d370f59d8a363b5d7430260e]: Textual amendment: Words in reg. 35(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [38(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/38/b)
+[^c-98d5dea9d370f59d8a363b5d7430260e]: Textual amendment: Words in reg. 35(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [38(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/38/b)
 
-[^key-2093b18cbb9219d6b21822cca0ce6beb]: Commencement: Reg. 36 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-2093b18cbb9219d6b21822cca0ce6beb]: Commencement: Reg. 36 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-5519acdc1ef4461f54d89458c89e8670]: Textual amendment: Reg. 36(1) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2025/903/regulation/9/a)
+[^c-5519acdc1ef4461f54d89458c89e8670]: Textual amendment: Reg. 36(1) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2025/903/regulation/9/a)
 
-[^key-24388d2384c33e7d3e250e242cf4e187]: Textual amendment: Words in reg. 36(2) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/9/b)
+[^c-24388d2384c33e7d3e250e242cf4e187]: Textual amendment: Words in reg. 36(2) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2025/903/regulation/9/b)
 
-[^key-40f9257e04eb30239413e975843460cb]: Textual amendment: Words in reg. 36 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [39(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/39/a)
+[^c-40f9257e04eb30239413e975843460cb]: Textual amendment: Words in reg. 36 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [39(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/39/a)
 
-[^key-ed6349bf5d2c887fef4feca0d1dd2db3]: Textual amendment: Words in reg. 36(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [39(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/39/b)
+[^c-ed6349bf5d2c887fef4feca0d1dd2db3]: Textual amendment: Words in reg. 36(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [39(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/39/b)
 
-[^key-234aee2d5be9ae6973a79f2d1a90f6bc]: Textual amendment: Words in reg. 36(6) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [39(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/39/c)
+[^c-234aee2d5be9ae6973a79f2d1a90f6bc]: Textual amendment: Words in reg. 36(6) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [39(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/39/c)
 
-[^key-dc225cf50df2fe2443995cffd0741346]: Commencement: Reg. 37 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-dc225cf50df2fe2443995cffd0741346]: Commencement: Reg. 37 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-10ce100ba6abc8cde0794c41aa7b1ebc]: Textual amendment: Words in reg. 37(1)(b) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/903/regulation/10)
+[^c-10ce100ba6abc8cde0794c41aa7b1ebc]: Textual amendment: Words in reg. 37(1)(b) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/903/regulation/10)
 
-[^key-d94bc9e0d7aef9d63d6d4d8ad51de2a9]: Textual amendment: Words in reg. 37(1)(b)(ii) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2024/710/regulation/40)
+[^c-d94bc9e0d7aef9d63d6d4d8ad51de2a9]: Textual amendment: Words in reg. 37(1)(b)(ii) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2024/710/regulation/40)
 
-[^key-a16c72f1ebc88e0b0f2904f649d5ea4d]: Commencement: Reg. 38 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-a16c72f1ebc88e0b0f2904f649d5ea4d]: Commencement: Reg. 38 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-935a2d854a006e6cd9577d6d09206e74]: Textual amendment: Words in reg. 38 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [41(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/41/a)
+[^c-935a2d854a006e6cd9577d6d09206e74]: Textual amendment: Words in reg. 38 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [41(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/41/a)
 
-[^key-8c3d8d60cf26e77541d8a6d2b4ea0295]: Textual amendment: Words in reg. 38(1) omitted (20.7.2016) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/784/regulation/12)
+[^c-8c3d8d60cf26e77541d8a6d2b4ea0295]: Textual amendment: Words in reg. 38(1) omitted (20.7.2016) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/784/regulation/12)
 
-[^key-7c4990a429c731cbbf2888b4528414d9]: Textual amendment: Words in reg. 38(1)(a)(i) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/41/b)
+[^c-7c4990a429c731cbbf2888b4528414d9]: Textual amendment: Words in reg. 38(1)(a)(i) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [41(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/41/b)
 
-[^key-69f32b93296390718d319221d1935281]: Commencement: Reg. 39 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-69f32b93296390718d319221d1935281]: Commencement: Reg. 39 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-11b1cfaf66b0efb0270ac1798a641d24]: Textual amendment: Words in reg. 39 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/a)
+[^c-11b1cfaf66b0efb0270ac1798a641d24]: Textual amendment: Words in reg. 39 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/a)
 
-[^key-4784944c84634066e25d70a776d59146]: Textual amendment: Words in reg. 39(2)(a) omitted (20.7.2016) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/13/a)
+[^c-4784944c84634066e25d70a776d59146]: Textual amendment: Words in reg. 39(2)(a) omitted (20.7.2016) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/13/a)
 
-[^key-021be48c52d74a209d4057a657068995]: Textual amendment: Words in reg. 39(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/b)
+[^c-021be48c52d74a209d4057a657068995]: Textual amendment: Words in reg. 39(2)(a) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/b)
 
-[^key-18b6dc102ba7fe31244cc9b96d543502]: Textual amendment: Reg. 39(3) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/13/b)
+[^c-18b6dc102ba7fe31244cc9b96d543502]: Textual amendment: Reg. 39(3) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/13/b)
 
-[^key-11e5a7431815a324654650f0a66daab1]: Textual amendment: Words in reg. 39(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/c)
+[^c-11e5a7431815a324654650f0a66daab1]: Textual amendment: Words in reg. 39(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/c)
 
-[^key-0c5c68767487c9e4889d3f5dd837a0ef]: Textual amendment: Words in reg. 39(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/b)
+[^c-0c5c68767487c9e4889d3f5dd837a0ef]: Textual amendment: Words in reg. 39(3) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [42(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/42/b)
 
-[^key-e4359e4b3c8319b664bbefd8f03bd06e]: Textual amendment: Words in Pt. 5 Ch. 5 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2024/710/regulation/43)
+[^c-e4359e4b3c8319b664bbefd8f03bd06e]: Textual amendment: Words in Pt. 5 Ch. 5 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2024/710/regulation/43)
 
-[^key-5cf0f5a7b40440d7d827c35b181a5cd2]: Commencement: Reg. 40 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-5cf0f5a7b40440d7d827c35b181a5cd2]: Commencement: Reg. 40 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-fdc24cef84608b8181ebb3c6c5ca024f]: Textual amendment: Words in reg. 40 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [44(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/44/a)
+[^c-fdc24cef84608b8181ebb3c6c5ca024f]: Textual amendment: Words in reg. 40 heading substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [44(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/44/a)
 
-[^key-3f008a8f6156ddbeea1310f2c38296ad]: Textual amendment: Words in reg. 40(1)(a) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2016/784/regulation/14)
+[^c-3f008a8f6156ddbeea1310f2c38296ad]: Textual amendment: Words in reg. 40(1)(a) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2016/784/regulation/14)
 
-[^key-ab4a73b566317d7514c8d03d2dd385f1]: Textual amendment: Words in reg. 40 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [44(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/44/b)
+[^c-ab4a73b566317d7514c8d03d2dd385f1]: Textual amendment: Words in reg. 40 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [44(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/44/b)
 
-[^key-e779b565ed08a93af839599ab14d6e6b]: Textual amendment: Words in reg. 40(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [44(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/44/c)
+[^c-e779b565ed08a93af839599ab14d6e6b]: Textual amendment: Words in reg. 40(4) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [44(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/44/c)
 
-[^key-322b868055aa9ace094eda1b65fdbe97]: Commencement: Reg. 41 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-322b868055aa9ace094eda1b65fdbe97]: Commencement: Reg. 41 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-8454d19db5171baf68f53fffb7b94c58]: Commencement: Reg. 42 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-8454d19db5171baf68f53fffb7b94c58]: Commencement: Reg. 42 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-83cc5c4e3e0eee76adcddd3a448ae966]: Textual amendment: Words in reg. 42(3)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [45](https://www.legislation.gov.uk/uksi/2024/710/regulation/45)
+[^c-83cc5c4e3e0eee76adcddd3a448ae966]: Textual amendment: Words in reg. 42(3)(b) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [45](https://www.legislation.gov.uk/uksi/2024/710/regulation/45)
 
-[^key-f56c03b64249c74dc9ec78841146abfc]: Textual amendment: [Reg. 42(3A)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/42/3A)[(3B)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/42/3B) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/411/regulation/15)
+[^c-f56c03b64249c74dc9ec78841146abfc]: Textual amendment: [Reg. 42(3A)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/42/3A)[(3B)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/42/3B) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/411/regulation/15)
 
-[^key-0819f707887c3dcb071769119f469f7f]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2014/2011/regulation/42A) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2026/411/regulation/16)
+[^c-0819f707887c3dcb071769119f469f7f]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2014/2011/regulation/42A) inserted (15.4.2026) by [The Contracts for Difference (Sustainable Industry Rewards and Contract Budget Notice Amendments) Regulations 2026 (S.I. 2026/411)](https://www.legislation.gov.uk/uksi/2026/411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/411/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2026/411/regulation/16)
 
-[^key-dfa91bc9312237287c493ec1bc88e445]: Commencement: Reg. 43 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-dfa91bc9312237287c493ec1bc88e445]: Commencement: Reg. 43 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-46fe0ff05acd40747e264356866f664f]: Commencement: Reg. 44 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-46fe0ff05acd40747e264356866f664f]: Commencement: Reg. 44 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-87e7beb0a6da882f141bc9e0a3d18007]: Commencement: Reg. 45 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-87e7beb0a6da882f141bc9e0a3d18007]: Commencement: Reg. 45 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-17827903e3dd78e20d87e9696942b440]: Commencement: Reg. 46 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-17827903e3dd78e20d87e9696942b440]: Commencement: Reg. 46 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-1a11d7d7c593283d10860fd451437314]: Textual amendment: [Reg. 46(2A)-(2C)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/46/2A) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/15/a)
+[^c-1a11d7d7c593283d10860fd451437314]: Textual amendment: [Reg. 46(2A)-(2C)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/46/2A) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/15/a)
 
-[^key-498bc3be250e6c30a239ace88fdf4245]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/46/3) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/15/b)
+[^c-498bc3be250e6c30a239ace88fdf4245]: Textual amendment: Words in [reg. 46(3)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/46/3) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/15/b)
 
-[^key-1937feb4daa552bc8b5d0519fcf4366e]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/46/4) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/15/c)
+[^c-1937feb4daa552bc8b5d0519fcf4366e]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/46/4) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/15/c)
 
-[^key-30dd3f48375bd4d9c6b5d3a3c9808d77]: Commencement: Reg. 47 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-30dd3f48375bd4d9c6b5d3a3c9808d77]: Commencement: Reg. 47 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-704362d689a5dcc4086a5fde0de5b6fe]: Commencement: Reg. 48 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-704362d689a5dcc4086a5fde0de5b6fe]: Commencement: Reg. 48 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-574938496141039b9a613bc3828322db]: Commencement: Reg. 49 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-574938496141039b9a613bc3828322db]: Commencement: Reg. 49 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-fe15222ca584dd287db9de836e3a7cd5]: Textual amendment: [Reg. 49(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/49/1) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/678/regulation/5)
+[^c-fe15222ca584dd287db9de836e3a7cd5]: Textual amendment: [Reg. 49(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/49/1) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/678/regulation/5)
 
-[^key-33a5088cb06a48567081558837cbc4c3]: Commencement: Reg. 50 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-33a5088cb06a48567081558837cbc4c3]: Commencement: Reg. 50 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-b522f2d6154a6f26008f882713867349]: Textual amendment: Words in reg. 50(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/47/a)
+[^c-b522f2d6154a6f26008f882713867349]: Textual amendment: Words in reg. 50(1) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/47/a)
 
-[^key-794034a6dde77f7c0245da9eb4824431]: Textual amendment: Words in reg. 50 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/47/b)
+[^c-794034a6dde77f7c0245da9eb4824431]: Textual amendment: Words in reg. 50 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/47/b)
 
-[^key-0f95de5cc601e47029adc8f119635d19]: Textual amendment: Word in reg. 50(2)(a) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/6/2)
+[^c-0f95de5cc601e47029adc8f119635d19]: Textual amendment: Word in reg. 50(2)(a) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/6/2)
 
-[^key-2c43f543ebcc541a12e2c7038f79546a]: Textual amendment: Word in reg. 50(2)(b) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/6/3)
+[^c-2c43f543ebcc541a12e2c7038f79546a]: Textual amendment: Word in reg. 50(2)(b) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/6/3)
 
-[^key-4f2ed29a9c48894e400336c88a5ccb86]: Textual amendment: Reg. 50(2)(c) omitted (24.6.2026) by virtue of [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2026/678/regulation/6/4)
+[^c-4f2ed29a9c48894e400336c88a5ccb86]: Textual amendment: Reg. 50(2)(c) omitted (24.6.2026) by virtue of [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2026/678/regulation/6/4)
 
-[^key-6b21c398368eee4ee892bad65befe997]: Commencement: Reg. 51 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-6b21c398368eee4ee892bad65befe997]: Commencement: Reg. 51 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-e13101f337bc6f81842a08f91dcdd99f]: Textual amendment: Words in reg. 51 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [48(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/48/a)
+[^c-e13101f337bc6f81842a08f91dcdd99f]: Textual amendment: Words in reg. 51 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [48(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/48/a)
 
-[^key-b95c99b07514699adf3802939fc08fb7]: Textual amendment: Reg. 51(1A)(1B) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/a)
+[^c-b95c99b07514699adf3802939fc08fb7]: Textual amendment: Reg. 51(1A)(1B) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/a)
 
-[^key-2096233c4f51e33f613507acd7705d00]: Textual amendment: [Reg. 51(1B)(a)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/51/1B/a) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/7/2)
+[^c-2096233c4f51e33f613507acd7705d00]: Textual amendment: [Reg. 51(1B)(a)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/51/1B/a) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/7/2)
 
-[^key-ddf3303bc2a859a9dfda4c5d6447d89e]: Textual amendment: Words in reg. 51(2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/b)
+[^c-ddf3303bc2a859a9dfda4c5d6447d89e]: Textual amendment: Words in reg. 51(2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/b)
 
-[^key-aeee2b695e4a597b4a8ab956e75e8b0e]: Textual amendment: [Reg. 51(3)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/51/3) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/7/3)
+[^c-aeee2b695e4a597b4a8ab956e75e8b0e]: Textual amendment: [Reg. 51(3)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/51/3) substituted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/7/3)
 
-[^key-45060ee03c2abdb37cfe8c7c9933d202]: Textual amendment: Words in reg. 51 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [48(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/48/b)
+[^c-45060ee03c2abdb37cfe8c7c9933d202]: Textual amendment: Words in reg. 51 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [48(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/48/b)
 
-[^key-7e3446e53053464610d75c9ede445fc5]: Textual amendment: Words in reg. 51(6)(a) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(d)(i)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/d/i)
+[^c-7e3446e53053464610d75c9ede445fc5]: Textual amendment: Words in reg. 51(6)(a) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(d)(i)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/d/i)
 
-[^key-df93c3d216ce8ebd895a7048a9bf5895]: Textual amendment: Word in reg. 51(6)(a)-(c) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/d/ii)
+[^c-df93c3d216ce8ebd895a7048a9bf5895]: Textual amendment: Word in reg. 51(6)(a)-(c) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/d/ii)
 
-[^key-4490cba948da6093edbdcab1fa118791]: Textual amendment: Word in reg. 51(6)(b) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(d)(iii)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/d/iii)
+[^c-4490cba948da6093edbdcab1fa118791]: Textual amendment: Word in reg. 51(6)(b) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(d)(iii)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/d/iii)
 
-[^key-18c8e8c506004891e150661c241588cb]: Textual amendment: Words in reg. 51(7) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(e)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/e)
+[^c-18c8e8c506004891e150661c241588cb]: Textual amendment: Words in reg. 51(7) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(e)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/e)
 
-[^key-b5ca781ea58aebe853d3a8802d92902d]: Textual amendment: Words in reg. 51(8) substituted (27.3.2015) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2015 (S.I. 2015/981)](https://www.legislation.gov.uk/uksi/2015/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/981/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/981/regulation/6)
+[^c-b5ca781ea58aebe853d3a8802d92902d]: Textual amendment: Words in reg. 51(8) substituted (27.3.2015) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2015 (S.I. 2015/981)](https://www.legislation.gov.uk/uksi/2015/981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/981/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/981/regulation/6)
 
-[^key-5716f86bc9248093c5f82f7d02d23528]: Textual amendment: Words in reg. 51(9) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [48(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/48/c)
+[^c-5716f86bc9248093c5f82f7d02d23528]: Textual amendment: Words in reg. 51(9) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [48(c)](https://www.legislation.gov.uk/uksi/2024/710/regulation/48/c)
 
-[^key-3fda94d435184dc3eaf48629cac88546]: Textual amendment: Reg. 51(10) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(f)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/f)
+[^c-3fda94d435184dc3eaf48629cac88546]: Textual amendment: Reg. 51(10) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [16(f)](https://www.legislation.gov.uk/uksi/2016/784/regulation/16/f)
 
-[^key-a153321b070de01745a03a34fb4f8953]: Textual amendment: Words in reg. 51(10)(c) inserted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/4)
+[^c-a153321b070de01745a03a34fb4f8953]: Textual amendment: Words in reg. 51(10)(c) inserted (22.7.2022) by [The Contracts for Difference (Allocation) and Electricity Market Reform (General) (Amendment) Regulations 2022 (S.I. 2022/842)](https://www.legislation.gov.uk/uksi/2022/842), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/842/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/842/regulation/2/4)
 
-[^key-2e822f4b50e139851aeb72af089dff5f]: Commencement: Reg. 52 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-2e822f4b50e139851aeb72af089dff5f]: Commencement: Reg. 52 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-698bddeae5d9f5edc8f39e215b8e2493]: Commencement: Reg. 53 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-698bddeae5d9f5edc8f39e215b8e2493]: Commencement: Reg. 53 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-6c95672c0902d7f08997ffc77ef3adf7]: Commencement: Reg. 54 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-6c95672c0902d7f08997ffc77ef3adf7]: Commencement: Reg. 54 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-7e82ef1cd2f11ef07f9e3a751351c72e]: Textual amendment: Words in reg. 54(2)(d)(ii) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/49/a)
+[^c-7e82ef1cd2f11ef07f9e3a751351c72e]: Textual amendment: Words in reg. 54(2)(d)(ii) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [49(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/49/a)
 
-[^key-ba2473fbadfb1a93d88f08b8a0b161d1]: Textual amendment: Words in reg. 54(2)(e) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/8/2)
+[^c-ba2473fbadfb1a93d88f08b8a0b161d1]: Textual amendment: Words in reg. 54(2)(e) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/8/2)
 
-[^key-14290208fe37e980923990985b90e0f5]: Textual amendment: Reg. 54(3) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/903/regulation/11)
+[^c-14290208fe37e980923990985b90e0f5]: Textual amendment: Reg. 54(3) substituted (22.7.2025) by [The Contracts for Difference (Miscellaneous Amendments) (No. 3) Regulations 2025 (S.I. 2025/903)](https://www.legislation.gov.uk/uksi/2025/903), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/903/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/903/regulation/11)
 
-[^key-bf3a6948180e4bacfe85dae070bebf50]: Textual amendment: Reg. 54(3)(4) substituted for reg. 54(3) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2016/784/regulation/17)
+[^c-bf3a6948180e4bacfe85dae070bebf50]: Textual amendment: Reg. 54(3)(4) substituted for reg. 54(3) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2016/784/regulation/17)
 
-[^key-928813b13d7da5991ae728942664b952]: Textual amendment: Reg. 54(3A) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/8/3)
+[^c-928813b13d7da5991ae728942664b952]: Textual amendment: Reg. 54(3A) inserted (24.6.2026) by [The Contracts for Difference (Allocation) (Amendment) Regulations 2026 (S.I. 2026/678)](https://www.legislation.gov.uk/uksi/2026/678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/678/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2026/678/regulation/8/3)
 
-[^key-024b5a8bf6438c33d4768b828d4b6ea7]: Commencement: Reg. 55 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-024b5a8bf6438c33d4768b828d4b6ea7]: Commencement: Reg. 55 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-8010db2082c879552e4db29be88acd58]: Textual amendment: Words in reg. 55 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2024/710/regulation/50)
+[^c-8010db2082c879552e4db29be88acd58]: Textual amendment: Words in reg. 55 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2024/710/regulation/50)
 
 [^f00027]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-89613fa7e13d67c98b82123c2341c843]: Commencement: Reg. 56 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-89613fa7e13d67c98b82123c2341c843]: Commencement: Reg. 56 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-84845b6cb949f208cfe0c221f348b2e0]: Commencement: Reg. 57 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-84845b6cb949f208cfe0c221f348b2e0]: Commencement: Reg. 57 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-c2031c84a1b745be7ceb1081a6b01a67]: Commencement: Reg. 58 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-c2031c84a1b745be7ceb1081a6b01a67]: Commencement: Reg. 58 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-5b00c230992de76eac2628b32806d275]: Textual amendment: [Reg. 58](https://www.legislation.gov.uk/uksi/2014/2011/regulation/58) renumbered as reg. 58(1) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/18/1)
+[^c-5b00c230992de76eac2628b32806d275]: Textual amendment: [Reg. 58](https://www.legislation.gov.uk/uksi/2014/2011/regulation/58) renumbered as reg. 58(1) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/18/1)
 
-[^key-0a949fc975b7b6441b62842178c236ff]: Textual amendment: [Reg. 58(2)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/58/2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2016/784/regulation/18/2)
+[^c-0a949fc975b7b6441b62842178c236ff]: Textual amendment: [Reg. 58(2)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/58/2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2016/784/regulation/18/2)
 
-[^key-9d52229cef1b191c8fd52593bf0d036f]: Commencement: Reg. 59 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-9d52229cef1b191c8fd52593bf0d036f]: Commencement: Reg. 59 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-ae420e63fb2c4dc37a5b715f28b5425e]: Commencement: Reg. 60 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-ae420e63fb2c4dc37a5b715f28b5425e]: Commencement: Reg. 60 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-a5dc1d4b4b06821611226cc66b3d0b51]: Textual amendment: [Reg. 60(5)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/60/5) substituted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/3/a)
+[^c-a5dc1d4b4b06821611226cc66b3d0b51]: Textual amendment: [Reg. 60(5)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/60/5) substituted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/3/a)
 
-[^key-93aca4a0c54a1834a44a050db8915ff1]: Textual amendment: Words in [reg. 60(6)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/60/6) substituted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/3/b/i)
+[^c-93aca4a0c54a1834a44a050db8915ff1]: Textual amendment: Words in [reg. 60(6)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/60/6) substituted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/3/b/i)
 
-[^key-5ce6a7258a657cf16d8d8f572cd51008]: Textual amendment: Words in [reg. 60(6)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/60/6) substituted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/3/b/ii)
+[^c-5ce6a7258a657cf16d8d8f572cd51008]: Textual amendment: Words in [reg. 60(6)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/60/6) substituted (21.6.2022) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/691)](https://www.legislation.gov.uk/uksi/2022/691), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/691/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/691/regulation/3/3/b/ii)
 
-[^key-43f982b9ecbf7fc421c89da481ab47e0]: Commencement: Reg. 61 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-43f982b9ecbf7fc421c89da481ab47e0]: Commencement: Reg. 61 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-5327f012e9d229291f402b34b0147364]: Commencement: Sch. 1 para. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-5327f012e9d229291f402b34b0147364]: Commencement: Sch. 1 para. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-b82f03fe367a3763a1316c4b84ff67c3]: Commencement: Sch. 1 para. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-b82f03fe367a3763a1316c4b84ff67c3]: Commencement: Sch. 1 para. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-7dfea2b30a1ae0c56bfe6e4ba8a17f31]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/2) renumbered as Sch. 1 para. 2(1) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/a)
+[^c-7dfea2b30a1ae0c56bfe6e4ba8a17f31]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/2) renumbered as Sch. 1 para. 2(1) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/a)
 
-[^key-cba4d98d3c0b8cc31f48b6c946e5f61e]: Textual amendment: [Sch. 1 para. 2(1)(ca)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/2/1/ca) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/b)
+[^c-cba4d98d3c0b8cc31f48b6c946e5f61e]: Textual amendment: [Sch. 1 para. 2(1)(ca)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/2/1/ca) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/b)
 
-[^key-b88028214ea884c9276ee76aeb551f8d]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/2/2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/c)
+[^c-b88028214ea884c9276ee76aeb551f8d]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/2/2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/c)
 
-[^key-fbb2ce6c0898da7cfb727c9f1fc57699]: Commencement: Sch. 1 para. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-fbb2ce6c0898da7cfb727c9f1fc57699]: Commencement: Sch. 1 para. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-3942ff0fc2228e30d028384b05370cbb]: Textual amendment: Sch. 1 para. 3(a)(iv) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(d)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/d)
+[^c-3942ff0fc2228e30d028384b05370cbb]: Textual amendment: Sch. 1 para. 3(a)(iv) substituted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(d)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/d)
 
-[^key-2379f0155f0734f6f86f4b01a8d3d892]: Textual amendment: [Sch. 1 para. 3(a)(v)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/3/a/v) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2021/758/regulation/25)
+[^c-2379f0155f0734f6f86f4b01a8d3d892]: Textual amendment: [Sch. 1 para. 3(a)(v)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/3/a/v) omitted (25.6.2021) by virtue of [The Contracts for Difference (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/758)](https://www.legislation.gov.uk/uksi/2021/758), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/758/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2021/758/regulation/25)
 
-[^key-458df472498f62f00d1361be2bdced67]: Textual amendment: Words in [Sch. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/3/d) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [51(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/51/a)
+[^c-458df472498f62f00d1361be2bdced67]: Textual amendment: Words in [Sch. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/3/d) substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [51(a)](https://www.legislation.gov.uk/uksi/2024/710/regulation/51/a)
 
-[^key-68fc147785951b4326209b1ebf6a36b0]: Commencement: Sch. 1 para. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-68fc147785951b4326209b1ebf6a36b0]: Commencement: Sch. 1 para. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-4edc32d05369f3123588a78a887ac373]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/4) renumbered as Sch. 1 para. 4(1) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(e)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/e)
+[^c-4edc32d05369f3123588a78a887ac373]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/4) renumbered as Sch. 1 para. 4(1) (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(e)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/e)
 
-[^key-fdadccdc3a4ed0ef85c00822137fe709]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/4/2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(f)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/f)
+[^c-fdadccdc3a4ed0ef85c00822137fe709]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2014/2011/schedule/1/paragraph/4/2) inserted (20.7.2016) by [The Contracts for Difference (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/784)](https://www.legislation.gov.uk/uksi/2016/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/784/regulation/1/1), [19(f)](https://www.legislation.gov.uk/uksi/2016/784/regulation/19/f)
 
-[^key-6d1cbbf86a1eb04bf8d7b52d9756ea57]: Commencement: Sch. 1 para. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-6d1cbbf86a1eb04bf8d7b52d9756ea57]: Commencement: Sch. 1 para. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-4d699645f32b9c5166e139c95c560a9d]: Textual amendment: Words in Sch. 1 para. 5 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [51(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/51/b)
+[^c-4d699645f32b9c5166e139c95c560a9d]: Textual amendment: Words in Sch. 1 para. 5 substituted (13.6.2024) by [The Contracts for Difference (Sustainable Industry Rewards) Regulations 2024 (S.I. 2024/710)](https://www.legislation.gov.uk/uksi/2024/710), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/710/regulation/1/1), [51(b)](https://www.legislation.gov.uk/uksi/2024/710/regulation/51/b)
 
-[^key-69cf1570b87e344909af99486d80e2ea]: Commencement: Sch. 2 para. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-69cf1570b87e344909af99486d80e2ea]: Commencement: Sch. 2 para. 1 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-2ce0656af5eae15549c27d926aff5c29]: Commencement: Sch. 2 para. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-2ce0656af5eae15549c27d926aff5c29]: Commencement: Sch. 2 para. 2 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-b53025abaac21398d0201bd20aae44ae]: Commencement: Sch. 2 para. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-b53025abaac21398d0201bd20aae44ae]: Commencement: Sch. 2 para. 3 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-eb4df01a9a729f30a7d5f95b0ef3b1dc]: Commencement: Sch. 2 para. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-eb4df01a9a729f30a7d5f95b0ef3b1dc]: Commencement: Sch. 2 para. 4 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-015e376a744416eb6f53c96285cd43f4]: Commencement: Sch. 2 para. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-015e376a744416eb6f53c96285cd43f4]: Commencement: Sch. 2 para. 5 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-4d5892779c1613972d8b77a6c7a63b6c]: Commencement: Sch. 2 para. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-4d5892779c1613972d8b77a6c7a63b6c]: Commencement: Sch. 2 para. 6 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-c6b22135e73c9e78e4dbeade7f77b523]: Commencement: Sch. 2 para. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-c6b22135e73c9e78e4dbeade7f77b523]: Commencement: Sch. 2 para. 7 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
 
-[^key-f9cf311174f880665d84479878a09663]: Commencement: Sch. 2 para. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)
+[^c-f9cf311174f880665d84479878a09663]: Commencement: Sch. 2 para. 8 in force at 1.8.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2011/regulation/1/1)

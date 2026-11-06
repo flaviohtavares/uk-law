@@ -34,7 +34,7 @@ summary: ''
   - (ii) payments of maintenance, whether under a court order or not, which is made or due to be made by—
     - (aa) the claimant's former partner, or the claimant's partner's former partner; or
     - (bb) the parent of a child or young person where that child or young person is a member of the claimant's family except where that parent is the claimant or the claimant's partner;
-- (d) any amount to be disregarded by virtue of paragraph 5A or 9(1)[^key-6a4a34801e96bc20f47609cfe2f755d0] of Schedule 4;
+- (d) any amount to be disregarded by virtue of paragraph 5A or 9(1)[^c-6a4a34801e96bc20f47609cfe2f755d0] of Schedule 4;
 - (e) the income and capital of any partner of the claimant who is treated as a member of the claimant's household under regulation 21 (circumstances in which a person is to be treated as being or not being a member of the household) to the extent that it is not taken into account in determining the net income of the person claiming state pension credit;
 - (f) regulation 24 (circumstances in which income of a non-dependent is to be treated as claimant's), if the relevant authority determines that this provision applies in the claimant's case;
 - (g) any modification under section 134(8) of the Administration Act (modifications by resolution of an authority) which is applicable in the claimant's case.
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a4a34801e96bc20f47609cfe2f755d0]: Textual amendment: Words in reg. 27(4)(d) substituted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/3/2)
+[^c-6a4a34801e96bc20f47609cfe2f755d0]: Textual amendment: Words in reg. 27(4)(d) substituted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/3/2)

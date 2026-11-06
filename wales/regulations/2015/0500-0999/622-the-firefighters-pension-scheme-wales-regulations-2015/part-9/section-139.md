@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Duty to provide information[^key-7278d92f76fc6fc06af8b8f245e54f8c]
+## 139. Duty to provide information[^c-7278d92f76fc6fc06af8b8f245e54f8c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7278d92f76fc6fc06af8b8f245e54f8c]: Commencement: Reg. 139 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-7278d92f76fc6fc06af8b8f245e54f8c]: Commencement: Reg. 139 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

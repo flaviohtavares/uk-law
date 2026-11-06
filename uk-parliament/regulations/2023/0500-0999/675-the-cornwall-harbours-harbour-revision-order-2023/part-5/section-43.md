@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Compounding arrangements and rebates[^key-44691a6595d5e03227fe0b718c11065d]
+## 43. Compounding arrangements and rebates[^c-44691a6595d5e03227fe0b718c11065d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44691a6595d5e03227fe0b718c11065d]: Commencement: Art. 43 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-44691a6595d5e03227fe0b718c11065d]: Commencement: Art. 43 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

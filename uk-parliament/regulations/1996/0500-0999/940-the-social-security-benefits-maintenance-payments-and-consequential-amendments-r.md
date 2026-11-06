@@ -43,7 +43,7 @@ Coming into force
 
 19th April 1996
 
-The Secretary of State for Social Security, in exercise of the powers conferred on him by sections 74A(5) and (6), 189(1) and (3) to (5) and 191 of the Social Security Administration Act 1992[^c1775642], sections 136(5)(b), 137(1) and 175(1) to (4) of the Social Security Contributions and Benefits Act 1992[^c1775643], and of all other powers enabling him in that behalf, by this instrument which contains only regulations made by virtue of, or consequential upon, section 74A of the Social Security Administration Act 1992, and is made before the end of the period of 6 months beginning with the coming into force of that section[^c1775644], hereby makes the following Regulations:[^key-1b08077054c9b81cc0b53cca792977d2]
+The Secretary of State for Social Security, in exercise of the powers conferred on him by sections 74A(5) and (6), 189(1) and (3) to (5) and 191 of the Social Security Administration Act 1992[^c1775642], sections 136(5)(b), 137(1) and 175(1) to (4) of the Social Security Contributions and Benefits Act 1992[^c1775643], and of all other powers enabling him in that behalf, by this instrument which contains only regulations made by virtue of, or consequential upon, section 74A of the Social Security Administration Act 1992, and is made before the end of the period of 6 months beginning with the coming into force of that section[^c1775644], hereby makes the following Regulations:[^c-1b08077054c9b81cc0b53cca792977d2]
 
 ## 1. Citation, commencement and interpretation
 
@@ -52,7 +52,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 (2) In these Regulations—
 
 - “the Act" means the Social Security Administration Act 1992;
-- “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations 2008;[^key-c71ae133ab34936854778caa5adbddff]
+- “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations 2008;[^c-c71ae133ab34936854778caa5adbddff]
 - “the Income Support Regulations" means the Income Support (General) Regulations 1987 [^c1775645];
 - “the Jobseeker’s Allowance Regulations" means the Jobseeker’s Allowance Regulations 1996 [^c1775646].
 
@@ -67,13 +67,13 @@ In section 74A of the Act (payment of benefit where maintenance payments collect
   - (iv) voluntarily,
 
   and for this purpose a “young person" is a person referred to in regulation 3 of these Regulations (persons of a prescribed description);
-- (b) “spousal maintenance" means any payment made by a person towards the maintenance of that person’s spouse or civil partner[^key-56d951f8f160406acf6f1c381ec8c206], including payments made—
+- (b) “spousal maintenance" means any payment made by a person towards the maintenance of that person’s spouse or civil partner[^c-56d951f8f160406acf6f1c381ec8c206], including payments made—
   - (i) under a court order;
   - (ii) under an agreement for maintenance; or
   - (iii) voluntarily;
 - (c) “relevant income" means—
   - (i) any income which is taken into account under Part V of the Income Support Regulations for the purposes of calculating the amount of income support to which the claimant is entitled; or
-  - (ii) any income which is taken into account under Part VIII of the Jobseeker’s Allowance Regulations for the purposes of calculating the amount of jobseeker’s allowance to which the claimant is entitled; or[^key-c3f1b9906428ef3c62569c54e56fa7f8]
+  - (ii) any income which is taken into account under Part VIII of the Jobseeker’s Allowance Regulations for the purposes of calculating the amount of jobseeker’s allowance to which the claimant is entitled; or[^c-c3f1b9906428ef3c62569c54e56fa7f8]
   - (iii) any income which is taken into account under Part 10 of the Employment and Support Allowance Regulations for the purposes of calculating the amount of employment and support allowance to which the claimant is entitled.
 
 ## 3. Persons of a prescribed description
@@ -81,7 +81,7 @@ In section 74A of the Act (payment of benefit where maintenance payments collect
 For the purposes of the definition of “family" in section 74A(5) of the Act, a person of a prescribed description is any person who—
 
 - (a) is referred to as a “young person" in the Income Support Regulations by virtue of regulation 14 of those Regulations[^c1775648]; or
-- (b) is referred to as a “young person" in the Jobseeker’s Allowance Regulations by virtue of regulation 76 of those Regulations; or[^key-beacf56c7ef3f62e341fd531d7f729bf]
+- (b) is referred to as a “young person" in the Jobseeker’s Allowance Regulations by virtue of regulation 76 of those Regulations; or[^c-beacf56c7ef3f62e341fd531d7f729bf]
 - (c) is referred to as a “young person” in the Employment and Support Allowance Regulations by virtue of regulation 2(1) of those Regulations.
 
 ## 4. Circumstances in which a person is to be treated as responsible for another
@@ -90,7 +90,7 @@ A person shall be treated as responsible for another for the purposes of section
 
 ## 5. Circumstances in which persons are to be treated as being members of the same household
 
-Persons shall be treated as members of the same household for the purposes of section 74A of the Act if they are treated as members of the same household under [^key-2b874532b62fa2e5b3f4fd571ccf647c]... regulation 16 of the Income Support Regulations [^c1775650] or regulation 78 of the Jobseeker’s Allowance Regulations or regulation 156 of the Employment and Support Allowance Regulations[^key-188cf4ea977a84b54c94fce314ebafc5].
+Persons shall be treated as members of the same household for the purposes of section 74A of the Act if they are treated as members of the same household under [^c-2b874532b62fa2e5b3f4fd571ccf647c]... regulation 16 of the Income Support Regulations [^c1775650] or regulation 78 of the Jobseeker’s Allowance Regulations or regulation 156 of the Employment and Support Allowance Regulations[^c-188cf4ea977a84b54c94fce314ebafc5].
 
 ## 6. Amendment of the Income Support Regulations
 
@@ -142,9 +142,9 @@ These Regulations do not impose a charge on businesses.
 
 [^c1775644]: Marginal citation: *See* section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-1b08077054c9b81cc0b53cca792977d2]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/940) applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii), [16(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-1b08077054c9b81cc0b53cca792977d2]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/940) applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii), [16(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
-[^key-c71ae133ab34936854778caa5adbddff]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1996/940/regulation/1) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/2)
+[^c-c71ae133ab34936854778caa5adbddff]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1996/940/regulation/1) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(2)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/2)
 
 [^c1775645]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -154,20 +154,20 @@ These Regulations do not impose a charge on businesses.
 
 [^c1775647]: Marginal citation: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
-[^key-56d951f8f160406acf6f1c381ec8c206]: Textual amendment: Words in reg. 2(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/27) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-56d951f8f160406acf6f1c381ec8c206]: Textual amendment: Words in reg. 2(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/27) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-c3f1b9906428ef3c62569c54e56fa7f8]: Textual amendment: Reg. 2(c)(iii) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(3)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/3)
+[^c-c3f1b9906428ef3c62569c54e56fa7f8]: Textual amendment: Reg. 2(c)(iii) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(3)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/3)
 
 [^c1775648]: Marginal citation: Relevant amending instruments are [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445) and 1990/547.
 
-[^key-beacf56c7ef3f62e341fd531d7f729bf]: Textual amendment: Reg. 3(c) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(4)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/4)
+[^c-beacf56c7ef3f62e341fd531d7f729bf]: Textual amendment: Reg. 3(c) added (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(4)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/4)
 
 [^c1775649]: Marginal citation: Relevant amending instruments is [S.I. 1993/2119](https://www.legislation.gov.uk/uksi/1993/2119).
 
-[^key-2b874532b62fa2e5b3f4fd571ccf647c]: Textual amendment: Word in reg. 5 omitted (27.10.2008) by virtue of [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(5)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/5/a)
+[^c-2b874532b62fa2e5b3f4fd571ccf647c]: Textual amendment: Word in reg. 5 omitted (27.10.2008) by virtue of [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(5)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/5/a)
 
 [^c1775650]: Marginal citation: Relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663),1989/534, 1990/547, 1992/468 and 3147, and 1993/2119.
 
-[^key-188cf4ea977a84b54c94fce314ebafc5]: Textual amendment: Words in reg. 5 inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(5)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/5/b)
+[^c-188cf4ea977a84b54c94fce314ebafc5]: Textual amendment: Words in reg. 5 inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [59(5)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/59/5/b)
 
 [^c1775651]: Marginal citation: [Regulations 60A to 60D](https://www.legislation.gov.uk/uksi/1996/940/regulation/60A) were inserted by [S.I. 1993/846](https://www.legislation.gov.uk/uksi/1993/846).

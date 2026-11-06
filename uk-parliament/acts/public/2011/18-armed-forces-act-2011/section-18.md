@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Place of sitting of Service Civilian Court[^key-da7af6743f483afe14f958cb03646b1f]
+## 18. Place of sitting of Service Civilian Court[^c-da7af6743f483afe14f958cb03646b1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 277 of AFA 2006 (Service Civilian Court), for subsection (2) substitu
 
 ## Annotations
 
-[^key-da7af6743f483afe14f958cb03646b1f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/18/section/18) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-da7af6743f483afe14f958cb03646b1f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/18/section/18) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

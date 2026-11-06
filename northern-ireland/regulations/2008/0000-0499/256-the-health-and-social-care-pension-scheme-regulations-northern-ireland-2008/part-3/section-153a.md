@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 153A. Eligibility: transitional[^key-a218ef8a77b7878d2028f638b0473080]
+## 153A. Eligibility: transitional[^c-a218ef8a77b7878d2028f638b0473080]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ This is subject to paragraphs (3) to (8).
 
 ## Annotations
 
-[^key-a218ef8a77b7878d2028f638b0473080]: Textual amendment: [Reg. 153A](https://www.legislation.gov.uk/nisr/2008/256/regulation/153A) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 38](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/38), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-a218ef8a77b7878d2028f638b0473080]: Textual amendment: [Reg. 153A](https://www.legislation.gov.uk/nisr/2008/256/regulation/153A) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 38](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/38), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

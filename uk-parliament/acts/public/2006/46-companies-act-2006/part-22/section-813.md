@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If an inspection required under section 811 (register of interests disclosed: right to inspect and require copy) is refused or default is made in providing a copy required under that section, otherwise than in accordance with section 812[^key-ed4e3885f018bcefa5b8a4789a46ba95], an offence is committed by—
+(1) If an inspection required under section 811 (register of interests disclosed: right to inspect and require copy) is refused or default is made in providing a copy required under that section, otherwise than in accordance with section 812[^c-ed4e3885f018bcefa5b8a4789a46ba95], an offence is committed by—
 
 - (a) the company, and
 - (b) every officer of the company who is in default.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c18970611]: Commencement: S. 813 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/d) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-ed4e3885f018bcefa5b8a4789a46ba95]: Textual amendment: Words in s. 813(1) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 83](https://www.legislation.gov.uk/ukpga/2015/26/section/83), [164(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/i)
+[^c-ed4e3885f018bcefa5b8a4789a46ba95]: Textual amendment: Words in s. 813(1) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 83](https://www.legislation.gov.uk/ukpga/2015/26/section/83), [164(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/i)

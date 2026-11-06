@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. “Connected person”: power to amend[^key-b9c8f5245732d333a4bea0efb6f1bb2d][^key-b27eece1ca1f0d8431ac8d9df9d1ebd8]
+## 39. “Connected person”: power to amend[^c-b9c8f5245732d333a4bea0efb6f1bb2d][^c-b27eece1ca1f0d8431ac8d9df9d1ebd8]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9c8f5245732d333a4bea0efb6f1bb2d]: Commencement: S. 39 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-b9c8f5245732d333a4bea0efb6f1bb2d]: Commencement: S. 39 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-b27eece1ca1f0d8431ac8d9df9d1ebd8]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/6/section/39) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/18)
+[^c-b27eece1ca1f0d8431ac8d9df9d1ebd8]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/6/section/39) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/18)

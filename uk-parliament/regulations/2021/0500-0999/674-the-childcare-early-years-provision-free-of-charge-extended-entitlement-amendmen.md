@@ -34,7 +34,7 @@ This Statutory Instrument corrects errors in [S.I. 2020/1515](https://www.legisl
 
 Children And Young Persons, England
 
-The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2021 (revoked)[^key-a05b29e408053720425f555c9999b927]
+The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2021 (revoked)[^c-a05b29e408053720425f555c9999b927]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 1st July 2021
 
-[^key-a05b29e408053720425f555c9999b927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05b29e408053720425f555c9999b927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-a05b29e408053720425f555c9999b927]
+## 1. Citation, commencement, extent and application[^c-a05b29e408053720425f555c9999b927]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-a05b29e408053720425f555c9999b927]
+## 4. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-a05b29e408053720425f555c9999b927]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a05b29e408053720425f555c9999b927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a05b29e408053720425f555c9999b927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05b29e408053720425f555c9999b927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a05b29e408053720425f555c9999b927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05b29e408053720425f555c9999b927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a05b29e408053720425f555c9999b927]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/674) revoked (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/9)
+[^c-a05b29e408053720425f555c9999b927]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/674) revoked (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/9)

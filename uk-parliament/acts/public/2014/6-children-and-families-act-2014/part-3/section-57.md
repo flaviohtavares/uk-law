@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Resolution of disagreements[^key-f52c9e46d9c7b88a5f30970d33076263]
+## 57. Resolution of disagreements[^c-f52c9e46d9c7b88a5f30970d33076263]
 
 *Extent: E+W*
 
@@ -25,18 +25,18 @@ summary: ''
 (2) The disagreements within this subsection are those about the exercise by the local authority or relevant bodies of their functions under this Part, where the disagreement is between—
 
 - (a) the local authority or a relevant body, and
-- (b)[^key-df5eeb6109c903fdce557d53a640b66d] the parents of children, and young people, in the authority's area.
+- (b)[^c-df5eeb6109c903fdce557d53a640b66d] the parents of children, and young people, in the authority's area.
 
 (3) The disagreements within this subsection are those about the exercise by the local authority of its functions relating to EHC needs assessments, the preparation and review of EHC plans, and re-assessment of educational, health care and social care needs, where the disagreement is between—
 
 - (a) the local authority and a responsible commissioning body, or
-- (b)[^key-df5eeb6109c903fdce557d53a640b66d] a responsible commissioning body and the parents of children, or young people, in the authority's area.
+- (b)[^c-df5eeb6109c903fdce557d53a640b66d] a responsible commissioning body and the parents of children, or young people, in the authority's area.
 
 (4) A local authority in England must make arrangements with a view to avoiding or resolving, in each relevant school or post-16 institution, disagreements within subsection (5).
 
 (5) The disagreements within this subsection are those about the special educational provision made for a child or young person with special educational needs who is a registered pupil or a student at the relevant school or post-16 institution concerned, where the disagreement is between—
 
-- (a)[^key-df5eeb6109c903fdce557d53a640b66d] the child's parent, or the young person, and
+- (a)[^c-df5eeb6109c903fdce557d53a640b66d] the child's parent, or the young person, and
 - (b) the appropriate authority for the school or post-16 institution.
 
 (6) Arrangements within this section must provide for the appointment of independent persons with the function of facilitating the avoidance or resolution of the disagreements to which the arrangements apply.
@@ -44,13 +44,13 @@ summary: ''
 (7) For the purposes of subsection (6) a person is not independent if he or she is employed by any of the following—
 
 - (a) a local authority in England;
-- (b)[^key-d8fc4ce8e4e8612f8510c3248c7599d0] an integrated care board;
-- (c) NHS England[^key-f504896602ef9f5d8de5947480b83356].
+- (b)[^c-d8fc4ce8e4e8612f8510c3248c7599d0] an integrated care board;
+- (c) NHS England[^c-f504896602ef9f5d8de5947480b83356].
 
 (8) A local authority in England must take such steps as it thinks appropriate for making the arrangements under this section known to—
 
 - (a) the parents of children in its area with special educational needs,
-- (b)[^key-df5eeb6109c903fdce557d53a640b66d] young people in its area with special educational needs, and
+- (b)[^c-df5eeb6109c903fdce557d53a640b66d] young people in its area with special educational needs, and
 - (c) the head teachers, governing bodies, proprietors and principals of schools and post-16 institutions in its area.
 
 (9) A local authority in England may take such steps as it thinks appropriate for making the arrangements under this section known to such other persons as it thinks appropriate.
@@ -81,10 +81,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f52c9e46d9c7b88a5f30970d33076263]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2014/6/section/57) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
+[^c-f52c9e46d9c7b88a5f30970d33076263]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2014/6/section/57) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
 
-[^key-df5eeb6109c903fdce557d53a640b66d]: Modification: [S. 57(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/3/b)[(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/5/a)[(8)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/8/b) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)
+[^c-df5eeb6109c903fdce557d53a640b66d]: Modification: [S. 57(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/3/b)[(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/5/a)[(8)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/8/b) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)
 
-[^key-d8fc4ce8e4e8612f8510c3248c7599d0]: Textual amendment: [S. 57(7)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/7/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 206](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/206); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d8fc4ce8e4e8612f8510c3248c7599d0]: Textual amendment: [S. 57(7)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/57/7/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 206](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/206); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-f504896602ef9f5d8de5947480b83356]: Textual amendment: Words in [s. 57](https://www.legislation.gov.uk/ukpga/2014/6/section/57) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f504896602ef9f5d8de5947480b83356]: Textual amendment: Words in [s. 57](https://www.legislation.gov.uk/ukpga/2014/6/section/57) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

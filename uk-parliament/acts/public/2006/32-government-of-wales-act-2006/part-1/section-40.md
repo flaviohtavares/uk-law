@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Presiding Officer or such other person as may be authorised by the standing orders may—
 
-- (a) require any person giving evidence in Senedd[^key-60edd79c70d763519861630d1afb7962] proceedings to take an oath (or make an affirmation), and
+- (a) require any person giving evidence in Senedd[^c-60edd79c70d763519861630d1afb7962] proceedings to take an oath (or make an affirmation), and
 - (b) administer the oath (or affirmation) to the person.
 
 (2) A person commits an offence if the person—
@@ -55,4 +55,4 @@ whether or not in pursuance of a notice under section 38(1).
 
 [^c16526761]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

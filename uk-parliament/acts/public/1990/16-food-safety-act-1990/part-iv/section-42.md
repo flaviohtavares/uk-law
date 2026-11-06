@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Default powers.[^c10205221][^key-aa6993f545f59a41f15149821601f8f8]
+## 42. Default powers.[^c10205221][^c-aa6993f545f59a41f15149821601f8f8]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ he may by order empower another food authority or the Food Standards Agency[^c10
 
 *Extent: S*
 
-(1A)[^key-bcf2fa41e83673c3865ba9a4b6fc50a2] In the application of subsection (1) to Scotland, the reference to the Food Standards Agency is to be read as a reference to Food Standards Scotland.
+(1A)[^c-bcf2fa41e83673c3865ba9a4b6fc50a2] In the application of subsection (1) to Scotland, the reference to the Food Standards Agency is to be read as a reference to Food Standards Scotland.
 
 (2) For the purpose of determining whether the power conferred by subsection (1) above is exercisable, the Minister may cause a local inquiry to be held; and where he does so, the relevant provisions of the Local Government Act shall apply as if the inquiry were a local inquiry held under that Act.
 
@@ -46,7 +46,7 @@ he may by order empower another food authority or the Food Standards Agency[^c10
 
 [^c10205221]: Modification: S. 42 amended (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 18](https://www.legislation.gov.uk/ukpga/1999/28/section/18), [Sch. 3 Pt. I paras. 1](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/I/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/1999/28/schedule/3/part/I/paragraph/6) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-aa6993f545f59a41f15149821601f8f8]: Modification: S. 42 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-aa6993f545f59a41f15149821601f8f8]: Modification: S. 42 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
 [^c10205231]: Textual amendment: Words in s. 42(1)-(4) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/8) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
@@ -56,7 +56,7 @@ he may by order empower another food authority or the Food Standards Agency[^c10
 
 [^c10205261]: Textual amendment: Words in s. 42(1) inserted (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [ss. 76](https://www.legislation.gov.uk/ukpga/1994/40/section/76), [82(2)(f)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2/f), [Sch. 16 para. 17(b)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/17/b)
 
-[^key-bcf2fa41e83673c3865ba9a4b6fc50a2]: Textual amendment: S. 42(1A) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(10)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/10) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-bcf2fa41e83673c3865ba9a4b6fc50a2]: Textual amendment: S. 42(1A) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(10)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/10) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
 [^c10205281]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

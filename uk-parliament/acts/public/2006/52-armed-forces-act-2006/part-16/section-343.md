@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343. Service inquiries[^key-15e8b6f6f0f74d463c47fa9c23b86858]
+## 343. Service inquiries[^c-15e8b6f6f0f74d463c47fa9c23b86858]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,15 +47,15 @@ summary: ''
 
 (5) Where the regulations create an offence they may provide—
 
-- (a) that the offence is a service offence and is punishable by any punishment mentioned in rows 7 to 14[^key-c86dd65b926ee1f154f92238bf488f63] of the Table in section 164; or
-- (b) that the offence is an offence triable summarily by a civilian court in the United Kingdom, the Isle of Man or a British overseas territory other than Gibraltar[^key-a8e12c26abadce0b32238498b495d705] and is punishable by a fine not exceeding level 3 on the standard scale.
+- (a) that the offence is a service offence and is punishable by any punishment mentioned in rows 7 to 14[^c-c86dd65b926ee1f154f92238bf488f63] of the Table in section 164; or
+- (b) that the offence is an offence triable summarily by a civilian court in the United Kingdom, the Isle of Man or a British overseas territory other than Gibraltar[^c-a8e12c26abadce0b32238498b495d705] and is punishable by a fine not exceeding level 3 on the standard scale.
 
 (6) In this section “**prescribed**” means prescribed by regulations under this section.
 
 ## Annotations
 
-[^key-15e8b6f6f0f74d463c47fa9c23b86858]: Commencement: S. 343 in force at 1.10.2008 by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1650/article/2/a)
+[^c-15e8b6f6f0f74d463c47fa9c23b86858]: Commencement: S. 343 in force at 1.10.2008 by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1650/article/2/a)
 
-[^key-c86dd65b926ee1f154f92238bf488f63]: Textual amendment: Word in [s. 343(5)(a)](https://www.legislation.gov.uk/ukpga/2006/52/section/343/5/a) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 6 para. 8(e)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/6/paragraph/8/e); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-c86dd65b926ee1f154f92238bf488f63]: Textual amendment: Word in [s. 343(5)(a)](https://www.legislation.gov.uk/ukpga/2006/52/section/343/5/a) substituted (1.5.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 6 para. 8(e)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/6/paragraph/8/e); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f); [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
 
-[^key-a8e12c26abadce0b32238498b495d705]: Textual amendment: Words in [s. 343(5)(b)](https://www.legislation.gov.uk/ukpga/2006/52/section/343/5/b) inserted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/11)
+[^c-a8e12c26abadce0b32238498b495d705]: Textual amendment: Words in [s. 343(5)(b)](https://www.legislation.gov.uk/ukpga/2006/52/section/343/5/b) inserted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/11)

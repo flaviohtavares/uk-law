@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**59.**[^key-7b3a309654f35f4a1b92821258638ea7] (1) In section 25 (persons serving again after retirement), subsection (1)(a) is amended as follows.
+**59.**[^c-7b3a309654f35f4a1b92821258638ea7] (1) In section 25 (persons serving again after retirement), subsection (1)(a) is amended as follows.
 
 (2) After “marrying” insert “or forming a civil partnership”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b3a309654f35f4a1b92821258638ea7]: Commencement: Art. 59 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-7b3a309654f35f4a1b92821258638ea7]: Commencement: Art. 59 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

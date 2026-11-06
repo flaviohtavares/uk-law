@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Licence conditions: offenders sentenced under repealed armed forces legislation[^key-29074e9d0bb7cdd5b042cbc19e05089d]
+## 28. Licence conditions: offenders sentenced under repealed armed forces legislation[^c-29074e9d0bb7cdd5b042cbc19e05089d]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29074e9d0bb7cdd5b042cbc19e05089d]: Commencement: S. 28 in force at Royal Assent, see [s. 49(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/a)
+[^c-29074e9d0bb7cdd5b042cbc19e05089d]: Commencement: S. 28 in force at Royal Assent, see [s. 49(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/a)

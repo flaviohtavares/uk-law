@@ -36,8 +36,8 @@ summary: ''
 
 and “relevant business" means a business carried on by a relevant person.
 
-(3)[^key-1a00a753c92e76cc3a93d08f1e464fa0] This article is subject to article 4(4).
+(3)[^c-1a00a753c92e76cc3a93d08f1e464fa0] This article is subject to article 4(4).
 
 ## Annotations
 
-[^key-1a00a753c92e76cc3a93d08f1e464fa0]: Textual amendment: Art. 23(3) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [11](https://www.legislation.gov.uk/uksi/2006/3384/article/11)
+[^c-1a00a753c92e76cc3a93d08f1e464fa0]: Textual amendment: Art. 23(3) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [11](https://www.legislation.gov.uk/uksi/2006/3384/article/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Review by judge advocate of certain searches under section 87 or 88[^key-e139c5de4f7c1f17fff80846c4fdbed5][^key-f1e05769677b90ad82226eaac788bbf1]
+## 89. Review by judge advocate of certain searches under section 87 or 88[^c-e139c5de4f7c1f17fff80846c4fdbed5][^c-f1e05769677b90ad82226eaac788bbf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e139c5de4f7c1f17fff80846c4fdbed5]: Commencement: S. 89 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e139c5de4f7c1f17fff80846c4fdbed5]: Commencement: S. 89 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f1e05769677b90ad82226eaac788bbf1]: Commencement: S. 89 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f1e05769677b90ad82226eaac788bbf1]: Commencement: S. 89 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

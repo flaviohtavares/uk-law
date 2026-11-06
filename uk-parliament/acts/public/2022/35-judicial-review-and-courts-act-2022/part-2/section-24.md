@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Power to make certain provision about dispute-resolution services[^key-099a6a2ae3792c419e6230e9ddfb5c21][^key-6d77e9b2ae4f36500fd7fac9b808e8f8]
+## 24. Power to make certain provision about dispute-resolution services[^c-099a6a2ae3792c419e6230e9ddfb5c21][^c-6d77e9b2ae4f36500fd7fac9b808e8f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-099a6a2ae3792c419e6230e9ddfb5c21]: Commencement: S. 24 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-099a6a2ae3792c419e6230e9ddfb5c21]: Commencement: S. 24 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-6d77e9b2ae4f36500fd7fac9b808e8f8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/35/section/24) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-6d77e9b2ae4f36500fd7fac9b808e8f8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/35/section/24) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

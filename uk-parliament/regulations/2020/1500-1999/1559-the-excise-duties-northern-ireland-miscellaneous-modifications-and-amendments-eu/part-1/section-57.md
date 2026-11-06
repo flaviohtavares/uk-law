@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**57.**[^key-7836e40fd01ddbdc9c6adbc4766c2d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-7836e40fd01ddbdc9c6adbc4766c2d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7836e40fd01ddbdc9c6adbc4766c2d95]: Textual amendment: Regs. 55-63 omitted (13.2.2023) by virtue of [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/33)
+[^c-7836e40fd01ddbdc9c6adbc4766c2d95]: Textual amendment: Regs. 55-63 omitted (13.2.2023) by virtue of [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/33)

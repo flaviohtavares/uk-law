@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Condition relating to youth – previous claimants[^key-e469f8323859ecd40ca662801f148f2c]
+## 11. Condition relating to youth – previous claimants[^c-e469f8323859ecd40ca662801f148f2c]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e469f8323859ecd40ca662801f148f2c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/219/regulation/11) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-e469f8323859ecd40ca662801f148f2c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2016/219/regulation/11) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

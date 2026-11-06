@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 207. Recoupment: adjustment between local authorities[^key-2d5d7b4ba86d894199fc44b2f44b93f4][^key-ca7dcaaee167b46743b8d8948f48b47b][^key-0b83dc4852763b67d3e91bf8700f3c44]
+## 207. Recoupment: adjustment between local authorities[^c-2d5d7b4ba86d894199fc44b2f44b93f4][^c-ca7dcaaee167b46743b8d8948f48b47b][^c-0b83dc4852763b67d3e91bf8700f3c44]
 
 *Extent: E+W*
 
-(1) Regulations may provide, in relation to cases where any provision for education to which this section applies is made by a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] (in this section referred to as “**the providing authority**”) in respect of a person who belongs to the area of another local authority, for requiring or authorising the other authority (in this section referred to as the “**home authority**”) to pay to the providing authority—
+(1) Regulations may provide, in relation to cases where any provision for education to which this section applies is made by a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] (in this section referred to as “**the providing authority**”) in respect of a person who belongs to the area of another local authority, for requiring or authorising the other authority (in this section referred to as the “**home authority**”) to pay to the providing authority—
 
 - (a) such amount as the authorities may agree, or
 - (b) failing agreement, such amount as may be determined by or under the regulations.
 
-(2) This section applies to —[^key-0a87bcb555d1c134681925732775e6a0]
+(2) This section applies to —[^c-0a87bcb555d1c134681925732775e6a0]
 
 - (a) primary education;
 - (b) secondary education;
@@ -49,12 +49,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5d7b4ba86d894199fc44b2f44b93f4]: Commencement: S. 207 in force at 1.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
+[^c-2d5d7b4ba86d894199fc44b2f44b93f4]: Commencement: S. 207 in force at 1.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
 
-[^key-ca7dcaaee167b46743b8d8948f48b47b]: Commencement: S. 207 in force at 9.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 7](https://www.legislation.gov.uk/uksi/2003/2961/article/7), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/IV)
+[^c-ca7dcaaee167b46743b8d8948f48b47b]: Commencement: S. 207 in force at 9.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 7](https://www.legislation.gov.uk/uksi/2003/2961/article/7), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/IV)
 
-[^key-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
+[^c-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-0a87bcb555d1c134681925732775e6a0]: Textual amendment: Words in [s. 207(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/207/2) substituted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2009/22/schedule/2/paragraph/14); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5)
+[^c-0a87bcb555d1c134681925732775e6a0]: Textual amendment: Words in [s. 207(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/207/2) substituted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2009/22/schedule/2/paragraph/14); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5)

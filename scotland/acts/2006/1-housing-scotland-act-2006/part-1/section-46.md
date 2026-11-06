@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Approval of maintenance plans[^key-1cabbfe47d9f112d4a7466e1a0151826]
+## 46. Approval of maintenance plans[^c-1cabbfe47d9f112d4a7466e1a0151826]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ and the local authority must be satisfied that any maintenance plan it devises c
 
 ## Annotations
 
-[^key-1cabbfe47d9f112d4a7466e1a0151826]: Commencement: S. 46 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-1cabbfe47d9f112d4a7466e1a0151826]: Commencement: S. 46 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

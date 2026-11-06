@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 122(1)(d), 133(2)(i) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], and now vested in it [^f00003].
 
-## 1. Citation, commencement and interpretation[^key-1e5df0382d1a45fdb9ec6d09065b7bab]
+## 1. Citation, commencement and interpretation[^c-1e5df0382d1a45fdb9ec6d09065b7bab]
 
 (1) These Regulations may be cited as the Housing Benefit (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 21st October 2025.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-723165a1cb8c5828590d0cdc8db199f6]
+## 2. Amendment of the Housing Benefit Regulations[^c-723165a1cb8c5828590d0cdc8db199f6]
 
 In regulation 10(5) of the Housing Benefit Regulations (Northern Ireland) 2006[^f00005] (persons from abroad) for sub-paragraph (l) substitute—
 
@@ -84,10 +84,10 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-1e5df0382d1a45fdb9ec6d09065b7bab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/149/regulation/1) in operation at 21.10.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/149/regulation/1/1)
+[^c-1e5df0382d1a45fdb9ec6d09065b7bab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/149/regulation/1) in operation at 21.10.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/149/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-723165a1cb8c5828590d0cdc8db199f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/149/regulation/2) in operation at 21.10.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/149/regulation/1/1)
+[^c-723165a1cb8c5828590d0cdc8db199f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/149/regulation/2) in operation at 21.10.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/149/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); regulation 10(5)(l) was amended by regulation 3(6) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and regulation 2(3) of [S.R. 2014 No. 98](https://www.legislation.gov.uk/nisr/2014/98)

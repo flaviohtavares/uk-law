@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.3. Interpretation[^key-660b81054b6832e206cf5f1f3316aa09]
+## 1.3. Interpretation[^c-660b81054b6832e206cf5f1f3316aa09]
 
 *Extent: E+W*
 
@@ -89,7 +89,7 @@ summary: ''
 
 ## Annotations
 
-[^key-660b81054b6832e206cf5f1f3316aa09]: Commencement: Rule 1.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-660b81054b6832e206cf5f1f3316aa09]: Commencement: Rule 1.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00003]: Footnote: Schedule B1 was inserted by section 248 of the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
 

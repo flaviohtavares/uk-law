@@ -42,13 +42,13 @@ Coming into operation
 
 27th March 2006
 
-The Department of Enterprise, Trade and Investment[^f00001], with the concurrence of the Department of Finance and Personnel makes the following Order in exercise of the powers conferred by Article 361(1), (3) and (4) of the Insolvency (Northern Ireland) Order 1989[^f00002].[^key-e6395d95c18ab5c015ebf80fc7bd5d7a][^key-2f090c98515d437928d72196b1ff8d39]
+The Department of Enterprise, Trade and Investment[^f00001], with the concurrence of the Department of Finance and Personnel makes the following Order in exercise of the powers conferred by Article 361(1), (3) and (4) of the Insolvency (Northern Ireland) Order 1989[^f00002].[^c-e6395d95c18ab5c015ebf80fc7bd5d7a][^c-2f090c98515d437928d72196b1ff8d39]
 
-## 1. Citation and commencement[^key-0087919b72ef6a05caa8570c3e085787]
+## 1. Citation and commencement[^c-0087919b72ef6a05caa8570c3e085787]
 
 This Order may be cited as the Insolvency (Fees) Order (Northern Ireland) 2006 and shall come into operation on 27 March 2006.
 
-## 2. Interpretation[^key-af74777690be2f2a5c239dd86c89224d]
+## 2. Interpretation[^c-af74777690be2f2a5c239dd86c89224d]
 
 (1) In this Order
 
@@ -59,27 +59,27 @@ This Order may be cited as the Insolvency (Fees) Order (Northern Ireland) 2006 a
 
 (2) A reference to a fee by means of letters and a number is a reference to the fee so designated in the table in Schedule 2.
 
-## 3. Revocations and Transitional Provisions[^key-1ed5b6cd83f617a1dff6972c2d68806f]
+## 3. Revocations and Transitional Provisions[^c-1ed5b6cd83f617a1dff6972c2d68806f]
 
 The statutory provisions listed in Schedule 1 are revoked to the extent set out in that Schedule.
 
-## 4. Fees payable in connection with bankruptcies, debt relief orders, individual voluntary arrangements... and winding up[^key-4d21e9907fe0ce8894332bcfa7c6b7f8][^key-89b6aa8896d10a762a96013cd9b0ae6d][^key-c5a43396937d4c5a01103f152a1b7ffa]
+## 4. Fees payable in connection with bankruptcies, debt relief orders, individual voluntary arrangements... and winding up[^c-4d21e9907fe0ce8894332bcfa7c6b7f8][^c-89b6aa8896d10a762a96013cd9b0ae6d][^c-c5a43396937d4c5a01103f152a1b7ffa]
 
-(1) Subject to paragraphs (2) and (3) and Article 6, the fees payable to the Department in respect of the costs of persons acting as approved intermediaries under Part 7A of the 1989 Order,[^key-0aa3f5d4aa46ac8b066ead1a49b909b0] proceedings under Parts I to X of the 1989 Order and the performance by the official receiver or the Department of functions under those Parts shall be determined in accordance with the provisions of Schedule 2.
+(1) Subject to paragraphs (2) and (3) and Article 6, the fees payable to the Department in respect of the costs of persons acting as approved intermediaries under Part 7A of the 1989 Order,[^c-0aa3f5d4aa46ac8b066ead1a49b909b0] proceedings under Parts I to X of the 1989 Order and the performance by the official receiver or the Department of functions under those Parts shall be determined in accordance with the provisions of Schedule 2.
 
 (2) Paragraph (1) and the provisions of Schedule 2 shall not apply to a bankruptcy where the bankruptcy order was made before the commencement date except insofar as is necessary to enable the charging of fees IVA1, IVA2 or IVA3 in the case of an individual voluntary arrangement proposed by, or entered into by the bankrupt.
 
 (3) Paragraph (1) and the provisions of Schedule 2 shall not apply to a winding up by the High Court where the winding-up order was made before the commencement date.
 
-## 5. Fees payable to an insolvency practitioner appointed under Article 247[^key-e2ede15e9bff2c9580d73fa9bf3d750a]
+## 5. Fees payable to an insolvency practitioner appointed under Article 247[^c-e2ede15e9bff2c9580d73fa9bf3d750a]
 
-Where the High Court appoints an insolvency practitioner under Article 247(2) of the 1989 Order to prepare and submit a report under Article 248 of that Order the Official Receiver shall, on submission of the report, pay to the practitioner a fee of £450[^key-5df5b9dea5333a4020045982cec04224] (that sum being inclusive of Value Added Tax).
+Where the High Court appoints an insolvency practitioner under Article 247(2) of the 1989 Order to prepare and submit a report under Article 248 of that Order the Official Receiver shall, on submission of the report, pay to the practitioner a fee of £450[^c-5df5b9dea5333a4020045982cec04224] (that sum being inclusive of Value Added Tax).
 
-## 6. Reduction and refund of fees – individual voluntary arrangement following bankruptcy[^key-0d087489c724b95c69f71d85a90c3c05]
+## 6. Reduction and refund of fees – individual voluntary arrangement following bankruptcy[^c-0d087489c724b95c69f71d85a90c3c05]
 
-Where proposals made by a bankrupt for an individual voluntary arrangement with the official receiver acting as supervisor are approved by the bankrupt’s creditors, fee B1 shall be reduced to £525[^key-dfa81b0115e04fe9077151813d01f4a9] and any payments made in respect of fee B1 which exceed that amount shall be refunded to the credit of the estate of the bankrupt.
+Where proposals made by a bankrupt for an individual voluntary arrangement with the official receiver acting as supervisor are approved by the bankrupt’s creditors, fee B1 shall be reduced to £525[^c-dfa81b0115e04fe9077151813d01f4a9] and any payments made in respect of fee B1 which exceed that amount shall be refunded to the credit of the estate of the bankrupt.
 
-## 7. Value Added Tax[^key-866d2732ae53b348bdb9fd9eb026624c]
+## 7. Value Added Tax[^c-866d2732ae53b348bdb9fd9eb026624c]
 
 Where Valued Added Tax is chargeable in respect of the provision of a service for which a fee is prescribed by virtue of any provision of this Order (other than Article 5), there shall be payable in addition to that fee the amount of the Value Added Tax.
 
@@ -101,7 +101,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1[^key-8540caddff764f6cf6a629d44525f506]
+## SCHEDULE 1[^c-8540caddff764f6cf6a629d44525f506]
 
 Article 3
 
@@ -117,17 +117,17 @@ Revocations
 
 Article 4
 
-**1.**[^key-b92cac759ef4084ca18f6e3e9e74c5ea] (1) In this Schedule
+**1.**[^c-b92cac759ef4084ca18f6e3e9e74c5ea] (1) In this Schedule
 
 - “the bankruptcy ceiling” means in relation to a bankruptcy, the sum which is arrived at by adding together—
   - (a) the bankruptcy debts required to be paid under the Rules;
-  - (b) any interest payable by virtue of Articles 300(4) and 302(2)(b)[^key-e7560e730ec3323c331513cb503e66e3] of the 1989 Order; and
+  - (b) any interest payable by virtue of Articles 300(4) and 302(2)(b)[^c-e7560e730ec3323c331513cb503e66e3] of the 1989 Order; and
   - (c) the expenses of the bankruptcy as set out in Rule 6.222 other than—
     - (i) any sums spent out of money received in carrying on the business of the bankrupt; and
     - (ii) fee B2 in the Table set out in paragraph 2;
 - “chargeable receipts” means those sums which are paid into the Insolvency Account after first deducting any amounts paid into the Insolvency Account which are subsequently paid out to secured creditors in respect of their securities or in carrying on the business of the company or the bankrupt;
 - “the insolvency legislation” means the Insolvency (Northern Ireland) Order 1989, the Insolvency Rules (Northern Ireland) 1991 and the Insolvency Regulations (Northern Ireland) 1996[^f00007]; and
-- [^key-d39f16f96a361f275905808cac212fab]...
+- [^c-d39f16f96a361f275905808cac212fab]...
 
 (2) In this Schedule, references to the performance of the “general duties” of the official receiver on the making of a winding-up or bankruptcy order—
 
@@ -138,7 +138,7 @@ Article 4
   - (iii) the realisation of assets on behalf of the holder of a fixed or floating charge or both types of those charges; or
   - (iv) the supervision of a special manager.
 
-**2.**[^key-ad95c2f915d869067aa2b933e2ab3be5] Fees payable to the Department in respect of proceedings under Parts I to X of the 1989 Order and the performance by the official receiver and the Department of functions under those Parts shall be determined in accordance with the provisions of the Table of Fees set out below—
+**2.**[^c-ad95c2f915d869067aa2b933e2ab3be5] Fees payable to the Department in respect of proceedings under Parts I to X of the 1989 Order and the performance by the official receiver and the Department of functions under those Parts shall be determined in accordance with the provisions of the Table of Fees set out below—
 
 Table of Fees
 
@@ -178,7 +178,7 @@ Table of Fees
 </tbody>
 </table>
 
-[^key-777b338def2307aa7376dadfb4c837a9][^key-2698edcd7f97de82dca79ebaf6e5da7f][^key-2698edcd7f97de82dca79ebaf6e5da7f][^key-2698edcd7f97de82dca79ebaf6e5da7f][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-f6ffe49f2dbe45486ed00cafdf94fa9e][^key-8148fc47b37e8efeaff53e964cdd7247][^key-daf344fa50dd9d0bfa47cc48a53b8270][^key-6162bd735b071aabbf86673daee6029c][^key-bc3ca0a666cd3a518bbea64d2636d1a5][^key-74302fd20ede80a23d9784cbd1dbde84][^M_F_3ffcdae5-4246-4a16-d531-4d918153fba9][^M_F_359741c2-1396-48bd-cbfc-e2afada1c652][^M_F_d9f656ab-020e-4830-a7a2-0e997cd9104a]
+[^c-777b338def2307aa7376dadfb4c837a9][^c-2698edcd7f97de82dca79ebaf6e5da7f][^c-2698edcd7f97de82dca79ebaf6e5da7f][^c-2698edcd7f97de82dca79ebaf6e5da7f][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-f6ffe49f2dbe45486ed00cafdf94fa9e][^c-8148fc47b37e8efeaff53e964cdd7247][^c-daf344fa50dd9d0bfa47cc48a53b8270][^c-6162bd735b071aabbf86673daee6029c][^c-bc3ca0a666cd3a518bbea64d2636d1a5][^c-74302fd20ede80a23d9784cbd1dbde84][^M_F_3ffcdae5-4246-4a16-d531-4d918153fba9][^M_F_359741c2-1396-48bd-cbfc-e2afada1c652][^M_F_d9f656ab-020e-4830-a7a2-0e997cd9104a]
 
 (This note is not part of the Order)
 
@@ -196,37 +196,37 @@ A Regulatory Impact Assessment was prepared for the Insolvency (Northern Ireland
 
 [^f00002]: Footnote: [S.I.1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-e6395d95c18ab5c015ebf80fc7bd5d7a]: Modification: [Order](https://www.legislation.gov.uk/nisr/2006/54) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [regs. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [8(7)](https://www.legislation.gov.uk/uksi/2011/245/regulation/8/7), [9](https://www.legislation.gov.uk/uksi/2011/245/regulation/9), [15](https://www.legislation.gov.uk/uksi/2011/245/regulation/15), [16-21](https://www.legislation.gov.uk/uksi/2011/245/regulation/16), [24-26](https://www.legislation.gov.uk/uksi/2011/245/regulation/24), [Schs. 1-5](https://www.legislation.gov.uk/uksi/2011/245/schedule/1)
+[^c-e6395d95c18ab5c015ebf80fc7bd5d7a]: Modification: [Order](https://www.legislation.gov.uk/nisr/2006/54) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [regs. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [8(7)](https://www.legislation.gov.uk/uksi/2011/245/regulation/8/7), [9](https://www.legislation.gov.uk/uksi/2011/245/regulation/9), [15](https://www.legislation.gov.uk/uksi/2011/245/regulation/15), [16-21](https://www.legislation.gov.uk/uksi/2011/245/regulation/16), [24-26](https://www.legislation.gov.uk/uksi/2011/245/regulation/24), [Schs. 1-5](https://www.legislation.gov.uk/uksi/2011/245/schedule/1)
 
-[^key-2f090c98515d437928d72196b1ff8d39]: Modification: Order applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 5](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/5) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-2f090c98515d437928d72196b1ff8d39]: Modification: Order applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 5](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/5) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-0087919b72ef6a05caa8570c3e085787]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-0087919b72ef6a05caa8570c3e085787]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-af74777690be2f2a5c239dd86c89224d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/54/article/2) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-af74777690be2f2a5c239dd86c89224d]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/54/article/2) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
 [^f00003]: Footnote: [S.R.1991 No.364](https://www.legislation.gov.uk/nisr/1991/364) as amended by [S.R. 1994 No. 26](https://www.legislation.gov.uk/nisr/1994/26), [S.R. 1995 No. 291](https://www.legislation.gov.uk/nisr/1995/291), [S.R. 2000 No. 247](https://www.legislation.gov.uk/nisr/2000/247), [S.R. 2002 No. 261](https://www.legislation.gov.uk/nisr/2002/261), [S.R. 2003 No. 549](https://www.legislation.gov.uk/nisr/2003/549), S.I. [2004/355](https://www.legislation.gov.uk/uksi/2004/355) and [S.R. 2006 No. 47](https://www.legislation.gov.uk/nisr/2006/47)
 
-[^key-1ed5b6cd83f617a1dff6972c2d68806f]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/54/article/3) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-1ed5b6cd83f617a1dff6972c2d68806f]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/54/article/3) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-4d21e9907fe0ce8894332bcfa7c6b7f8]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/54/article/4) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-4d21e9907fe0ce8894332bcfa7c6b7f8]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/54/article/4) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-89b6aa8896d10a762a96013cd9b0ae6d]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisr/2006/54/article/4) heading inserted (30.6.2011) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/14)](https://www.legislation.gov.uk/nisr/2011/14), [arts. 1](https://www.legislation.gov.uk/nisr/2011/14/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/14/article/3/a)
+[^c-89b6aa8896d10a762a96013cd9b0ae6d]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisr/2006/54/article/4) heading inserted (30.6.2011) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/14)](https://www.legislation.gov.uk/nisr/2011/14), [arts. 1](https://www.legislation.gov.uk/nisr/2011/14/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2011/14/article/3/a)
 
-[^key-c5a43396937d4c5a01103f152a1b7ffa]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisr/2006/54/article/4) heading omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2021/140/article/6/1)
+[^c-c5a43396937d4c5a01103f152a1b7ffa]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/nisr/2006/54/article/4) heading omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2021/140/article/6/1)
 
-[^key-0aa3f5d4aa46ac8b066ead1a49b909b0]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisr/2006/54/article/4/1) inserted (30.6.2011) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/14)](https://www.legislation.gov.uk/nisr/2011/14), [arts. 1](https://www.legislation.gov.uk/nisr/2011/14/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/14/article/3/b)
+[^c-0aa3f5d4aa46ac8b066ead1a49b909b0]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisr/2006/54/article/4/1) inserted (30.6.2011) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/14)](https://www.legislation.gov.uk/nisr/2011/14), [arts. 1](https://www.legislation.gov.uk/nisr/2011/14/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2011/14/article/3/b)
 
-[^key-e2ede15e9bff2c9580d73fa9bf3d750a]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2006/54/article/5) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-e2ede15e9bff2c9580d73fa9bf3d750a]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2006/54/article/5) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-5df5b9dea5333a4020045982cec04224]: Textual amendment: Sum in [art. 5](https://www.legislation.gov.uk/nisr/2006/54/article/5) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [3](https://www.legislation.gov.uk/nisr/2011/390/article/3) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
+[^c-5df5b9dea5333a4020045982cec04224]: Textual amendment: Sum in [art. 5](https://www.legislation.gov.uk/nisr/2006/54/article/5) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [3](https://www.legislation.gov.uk/nisr/2011/390/article/3) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
 
-[^key-0d087489c724b95c69f71d85a90c3c05]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2006/54/article/6) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-0d087489c724b95c69f71d85a90c3c05]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2006/54/article/6) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-dfa81b0115e04fe9077151813d01f4a9]: Textual amendment: Sum in [art. 6](https://www.legislation.gov.uk/nisr/2006/54/article/6) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [4](https://www.legislation.gov.uk/nisr/2011/390/article/4) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
+[^c-dfa81b0115e04fe9077151813d01f4a9]: Textual amendment: Sum in [art. 6](https://www.legislation.gov.uk/nisr/2006/54/article/6) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [4](https://www.legislation.gov.uk/nisr/2011/390/article/4) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
 
-[^key-866d2732ae53b348bdb9fd9eb026624c]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/54/article/7) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-866d2732ae53b348bdb9fd9eb026624c]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/54/article/7) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-8540caddff764f6cf6a629d44525f506]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/54/schedule/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-8540caddff764f6cf6a629d44525f506]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/54/schedule/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
 [^f00004]: Footnote: [S.R. 1991 No. 385](https://www.legislation.gov.uk/nisr/1991/385)
 
@@ -234,31 +234,31 @@ A Regulatory Impact Assessment was prepared for the Insolvency (Northern Ireland
 
 [^f00006]: Footnote: [S.R. 1996 No. 576](https://www.legislation.gov.uk/nisr/1996/576)
 
-[^key-b92cac759ef4084ca18f6e3e9e74c5ea]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-b92cac759ef4084ca18f6e3e9e74c5ea]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-e7560e730ec3323c331513cb503e66e3]: Textual amendment: Words in [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/1/1/b) substituted (1.10.2009) by virtue of [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [4](https://www.legislation.gov.uk/nisr/2009/201/article/4)
+[^c-e7560e730ec3323c331513cb503e66e3]: Textual amendment: Words in [Sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/1/1/b) substituted (1.10.2009) by virtue of [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [4](https://www.legislation.gov.uk/nisr/2009/201/article/4)
 
 [^f00007]: Footnote: [S.R. 1996 No. 574](https://www.legislation.gov.uk/nisr/1996/574) as amended by [S.R. 2006 No. 23](https://www.legislation.gov.uk/nisr/2006/23)
 
-[^key-d39f16f96a361f275905808cac212fab]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/1/1) omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/a)
+[^c-d39f16f96a361f275905808cac212fab]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/1/1) omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/a)
 
-[^key-ad95c2f915d869067aa2b933e2ab3be5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
+[^c-ad95c2f915d869067aa2b933e2ab3be5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/54/article/1)
 
-[^key-777b338def2307aa7376dadfb4c837a9]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/b/iii)
+[^c-777b338def2307aa7376dadfb4c837a9]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/b/iii)
 
-[^key-2698edcd7f97de82dca79ebaf6e5da7f]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) words omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/b/ii)
+[^c-2698edcd7f97de82dca79ebaf6e5da7f]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) words omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/b/ii)
 
-[^key-f6ffe49f2dbe45486ed00cafdf94fa9e]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) words omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(b)(i)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/b/i)
+[^c-f6ffe49f2dbe45486ed00cafdf94fa9e]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) words omitted (30.6.2021) by virtue of [The Insolvency (Amendment) (2016 Act) (Consequential Amendments and Revocation) Order (Northern Ireland) 2021 (S.R. 2021/140)](https://www.legislation.gov.uk/nisr/2021/140), [arts. 1](https://www.legislation.gov.uk/nisr/2021/140/article/1), [6(2)(b)(i)](https://www.legislation.gov.uk/nisr/2021/140/article/6/2/b/i)
 
-[^key-8148fc47b37e8efeaff53e964cdd7247]: Textual amendment: Sum in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (1.10.2009) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [5(a)](https://www.legislation.gov.uk/nisr/2009/201/article/5/a)
+[^c-8148fc47b37e8efeaff53e964cdd7247]: Textual amendment: Sum in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (1.10.2009) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [5(a)](https://www.legislation.gov.uk/nisr/2009/201/article/5/a)
 
-[^key-daf344fa50dd9d0bfa47cc48a53b8270]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (1.10.2009) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [5(b)](https://www.legislation.gov.uk/nisr/2009/201/article/5/b)
+[^c-daf344fa50dd9d0bfa47cc48a53b8270]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (1.10.2009) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [5(b)](https://www.legislation.gov.uk/nisr/2009/201/article/5/b)
 
-[^key-6162bd735b071aabbf86673daee6029c]: Textual amendment: Sum in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [5(a)](https://www.legislation.gov.uk/nisr/2011/390/article/5/a) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
+[^c-6162bd735b071aabbf86673daee6029c]: Textual amendment: Sum in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [5(a)](https://www.legislation.gov.uk/nisr/2011/390/article/5/a) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
 
-[^key-bc3ca0a666cd3a518bbea64d2636d1a5]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [5(b)](https://www.legislation.gov.uk/nisr/2011/390/article/5/b) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
+[^c-bc3ca0a666cd3a518bbea64d2636d1a5]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) substituted (31.1.2012) by [The Insolvency (Fees) (Amendment No. 2) Order (Northern Ireland) 2011 (S.R. 2011/390)](https://www.legislation.gov.uk/nisr/2011/390), [arts. 1](https://www.legislation.gov.uk/nisr/2011/390/article/1), [5(b)](https://www.legislation.gov.uk/nisr/2011/390/article/5/b) (with [art. 6](https://www.legislation.gov.uk/nisr/2011/390/article/6))
 
-[^key-74302fd20ede80a23d9784cbd1dbde84]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) Table inserted (30.6.2011) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/14)](https://www.legislation.gov.uk/nisr/2011/14), [arts. 1](https://www.legislation.gov.uk/nisr/2011/14/article/1), [4](https://www.legislation.gov.uk/nisr/2011/14/article/4)
+[^c-74302fd20ede80a23d9784cbd1dbde84]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/54/schedule/2/paragraph/2) Table inserted (30.6.2011) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/14)](https://www.legislation.gov.uk/nisr/2011/14), [arts. 1](https://www.legislation.gov.uk/nisr/2011/14/article/1), [4](https://www.legislation.gov.uk/nisr/2011/14/article/4)
 
 [^M_F_3ffcdae5-4246-4a16-d531-4d918153fba9]: Textual amendment: Words in Sch. 2 para. 2 substituted (1.10.2009) by [The Insolvency (Fees) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/201)](https://www.legislation.gov.uk/nisr/2009/201), [arts. 1](https://www.legislation.gov.uk/nisr/2009/201/article/1), [5(d)](https://www.legislation.gov.uk/nisr/2009/201/article/5/d)
 

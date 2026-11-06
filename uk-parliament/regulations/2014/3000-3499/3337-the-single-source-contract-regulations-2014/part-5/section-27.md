@@ -40,41 +40,41 @@ summary: ''
   - (i) the date which is 12 months after the last day of the calendar quarter during which the initial reporting date fell; and
   - (ii) the date which is each anniversary of that date.
 
-(3A)[^key-562d4c152a5ea586296c3e95852e2b62] Where the contract contains components—
+(3A)[^c-562d4c152a5ea586296c3e95852e2b62] Where the contract contains components—
 
 - (a) the primary contractor and the Secretary of State may agree different reporting dates for each component in accordance with whichever of paragraph (2)(a) or (3)(a) applies to the contract;
 - (b) where no different reporting dates are agreed in accordance with sub-paragraph (a) in relation to a component, the reporting dates for that component are the same as the reporting dates for the contract under paragraph (2) or (3) (as the case may be).
 
-(4) Subject to paragraphs (4B) to (4E), the report[^key-1ba17918de54bdc4169f19a969741842] must contain the following information—
+(4) Subject to paragraphs (4B) to (4E), the report[^c-1ba17918de54bdc4169f19a969741842] must contain the following information—
 
 - (a) a list of the key deliverables specified in the contract, with a brief description of each;
 - (b) the estimated quantum of those deliverables, expressed using the output metrics set out in the contract reporting plan;
 - (c) an annual profile (or, if the contractor is of the view that it is not possible to express these matters in an annual profile, the total amount) of the following matters which have been, or are expected to be, taken into account in determining the contract price—
   - (i) any risk contingency element included in the allowable costs;
-  - (ii) planned amounts of profit, excluding any amount resulting from an adjustment determined under step 3[^key-71a2249fc9e3712d9f35dd8e79891939] of regulation 11; and
-  - (iii) the maximum amount of profit resulting from an adjustment determined under step 3[^key-396709cd1bd225703cca51296ceec379] of regulation 11;
+  - (ii) planned amounts of profit, excluding any amount resulting from an adjustment determined under step 3[^c-71a2249fc9e3712d9f35dd8e79891939] of regulation 11; and
+  - (iii) the maximum amount of profit resulting from an adjustment determined under step 3[^c-396709cd1bd225703cca51296ceec379] of regulation 11;
 - (d) an annual profile of any estimated costs (split by the defined pricing structure) at the time of agreement;
-- (e)[^key-4f3310b5e099a1edc886b83ac751eb7a] except where the component is priced using a contract pricing method under which costs are indistinguishable from profits, the total amount of non-recurring costs at the time of agreement (split by defined pricing structure);
+- (e)[^c-4f3310b5e099a1edc886b83ac751eb7a] except where the component is priced using a contract pricing method under which costs are indistinguishable from profits, the total amount of non-recurring costs at the time of agreement (split by defined pricing structure);
 - (f) an annual profile of the estimated amount of each cost recovery base set out in the contract reporting plan;
 - (g) an annual profile (or, if the contractor is of the view that it is not possible to express these matters in an annual profile, the total amount) of the following matters—
   - (i) any risk contingency element,
-  - (ii) planned amounts of profit, excluding any amount resulting from an adjustment determined under step 3[^key-4f15f6076333bb670f9e545c421b4243] of regulation 11, and
-  - (iii) the expected amount of profit resulting from an adjustment determined under step 3[^key-b0095d89c0f3c6ec57e6a9e906b43085] of regulation 11,
+  - (ii) planned amounts of profit, excluding any amount resulting from an adjustment determined under step 3[^c-4f15f6076333bb670f9e545c421b4243] of regulation 11, and
+  - (iii) the expected amount of profit resulting from an adjustment determined under step 3[^c-b0095d89c0f3c6ec57e6a9e906b43085] of regulation 11,
 
   that reflect the costs already incurred and the forecast costs which are expected to be incurred, indicating for each year whether those costs have been incurred, are forecast, or a combination of both;
 - (h) an annual profile of the costs already incurred and the forecast costs which are expected to be incurred, split by the defined pricing structure and indicating for each year—
   - (i) whether the costs have been incurred, are forecast, or a combination of both; and
   - (ii) the amount of each cost recovery base set out in the contract reporting plan;
 - (i) a quantified analysis of the causes of variance (explaining not less than 90% of the total variance) between any estimated costs used to determine the contract price and the total actual and forecast costs;
-- (j) a list of all payments exceeding £100,000 or 1% of the contract price[^key-d9ccbe0e5865837876d7a681477b8824] (whichever is the greater) that have been or are expected to be made by the Secretary of State under the contract, including—
+- (j) a list of all payments exceeding £100,000 or 1% of the contract price[^c-d9ccbe0e5865837876d7a681477b8824] (whichever is the greater) that have been or are expected to be made by the Secretary of State under the contract, including—
   - (i) the amount, or expected amount, of each payment;
   - (ii) the date on which each payment did or is expected to fall due; and
   - (iii) if the contract requires the payment to be made in any currency other than sterling, the currency in which the payment was or is to be made;
-- (k) if the contract requires payment to be made in sterling, an annual profile of all such payments made, or which the contractor expects the Secretary of State will make; [^key-1dda5d986dd29a54307c9ba30d6cf554]...
-- (l) if the contract requires payment to be made in any currency other than sterling, an annual profile for each such currency of all payments made, or which the contractor expects the Secretary of State will make; and[^key-0cae9f409f3a1126f6873872e7e1e497]
-- (m)[^key-b4f51d42d5bd1bc1b7a5dee948230d4d] where the report is provided on a reporting date for a component of the contract, the relevant component information in relation to that component.
+- (k) if the contract requires payment to be made in sterling, an annual profile of all such payments made, or which the contractor expects the Secretary of State will make; [^c-1dda5d986dd29a54307c9ba30d6cf554]...
+- (l) if the contract requires payment to be made in any currency other than sterling, an annual profile for each such currency of all payments made, or which the contractor expects the Secretary of State will make; and[^c-0cae9f409f3a1126f6873872e7e1e497]
+- (m)[^c-b4f51d42d5bd1bc1b7a5dee948230d4d] where the report is provided on a reporting date for a component of the contract, the relevant component information in relation to that component.
 
-(4A)[^key-3ac93443ff54e3ac7eeb91d49a7e9670] In paragraph (4)(m), “**relevant component information**” means the following information in relation to the component so far as it is different from the information provided in relation to the contract in accordance with paragraph (4)—
+(4A)[^c-3ac93443ff54e3ac7eeb91d49a7e9670] In paragraph (4)(m), “**relevant component information**” means the following information in relation to the component so far as it is different from the information provided in relation to the contract in accordance with paragraph (4)—
 
 - (a) an explanation of which of the key deliverables specified in the contract relate to the component;
 - (b) an annual profile (or, if the contractor is of the view that it is not possible to express these matters in an annual profile, the total amount) of the following matters which have been, or are expected to be, taken into account in determining the contract price of the component—
@@ -122,7 +122,7 @@ summary: ''
 
 (4E) If the contract price for a contract or component is determined entirely in accordance with regulation 19E (competed rates applied to uncompeted volumes), paragraphs (4)(f) and (h)(ii) (in relation to a contract) and (4B)(e) and (g)(ii) (in relation to a component) have effect as if references to “cost recovery base” were references to “competed rates”.
 
-(5) Subject to paragraphs (7) to (9), if[^key-e59b24d742facb6dda62b2a2cb21d52b] the value of the qualifying defence contract is less than £50,000,000, the report must also contain the following information—
+(5) Subject to paragraphs (7) to (9), if[^c-e59b24d742facb6dda62b2a2cb21d52b] the value of the qualifying defence contract is less than £50,000,000, the report must also contain the following information—
 
 - (a) a forecast of any TCIF adjustment or any final price adjustment (regulation 16) which the contractor expects will be made;
 - (b) a description of any event that has occurred, or circumstances which have arisen, since the contract was entered into, that have had or are likely to have a material effect in relation to the contract, including—
@@ -134,8 +134,8 @@ summary: ''
   - (i) all delivery milestones set out in the contract;
   - (ii) where the contract sets an expected date for a delivery milestone to be completed, that date; and
   - (iii) the actual or expected delivery date for each delivery milestone;
-- (d) a description of any actual or intended sub-contracts which the primary contractor has entered into, or intends to enter into, for the purposes of enabling it to perform its obligations under the qualifying defence contract (including the total proportion of the contract price[^key-2523d00d9e5f7b78bc34f5ce162b143f] which the primary contractor expects to sub-contract); and
-- (e) in relation to each such sub-contract which has or is expected to have a value of not less than £1,000,000 [^key-0dbaacc04da297d410029538f0f35815]...—
+- (d) a description of any actual or intended sub-contracts which the primary contractor has entered into, or intends to enter into, for the purposes of enabling it to perform its obligations under the qualifying defence contract (including the total proportion of the contract price[^c-2523d00d9e5f7b78bc34f5ce162b143f] which the primary contractor expects to sub-contract); and
+- (e) in relation to each such sub-contract which has or is expected to have a value of not less than £1,000,000 [^c-0dbaacc04da297d410029538f0f35815]...—
   - (i) if the sub-contractor is a registered company, its registered name and company number, and the address of its registered office;
   - (ii) if the sub-contractor is not a registered company, its name;
   - (iii) whether the sub-contractor is associated with the primary contractor;
@@ -145,13 +145,13 @@ summary: ''
   - (vii) the contract completion date (or, if that date is not known, the expected contract completion date);
   - (viii) the (actual or estimated) price payable under the sub-contract; and
   - (ix) if an assessment has been made under regulation 61(1) or (4), the outcome of that assessment.
-- (f)[^key-8866dcf14b021ae2cd96263b02eefc99] in relation to each sub-contract which the primary contractor has entered into, or intends to enter into, and which has or is expected to have a value of not less than £15,000,000, if the primary contractor has made an assessment that the contract would not be a qualifying sub-contract—
+- (f)[^c-8866dcf14b021ae2cd96263b02eefc99] in relation to each sub-contract which the primary contractor has entered into, or intends to enter into, and which has or is expected to have a value of not less than £15,000,000, if the primary contractor has made an assessment that the contract would not be a qualifying sub-contract—
   - (i) the outcome of the negative assessment;
   - (ii) confirmation of whether the award of the contract is not, or would not be, the result of a competitive process; and
-  - (iii) confirmation of whether the contract enables the performance of contracts other than a qualifying defence contract or qualifying sub-contract; and[^key-b140584ef8efa1f633c8b18998623166]
-- (g)[^key-1a751713d976b8359518555d0fcc375a] where the report is provided on a reporting date for a component of the contract, the relevant component information in relation to that component.
+  - (iii) confirmation of whether the contract enables the performance of contracts other than a qualifying defence contract or qualifying sub-contract; and[^c-b140584ef8efa1f633c8b18998623166]
+- (g)[^c-1a751713d976b8359518555d0fcc375a] where the report is provided on a reporting date for a component of the contract, the relevant component information in relation to that component.
 
-(6)[^key-cba63740fe75cec7f6e775c77816968c] In paragraph (5)(g), “**the relevant component information**” means, subject to paragraphs (7) to (9), the following information in relation to the component so far as it is different from the information provided in relation to the contract in accordance with paragraph (5)—
+(6)[^c-cba63740fe75cec7f6e775c77816968c] In paragraph (5)(g), “**the relevant component information**” means, subject to paragraphs (7) to (9), the following information in relation to the component so far as it is different from the information provided in relation to the contract in accordance with paragraph (5)—
 
 - (a) a forecast of any TCIF adjustment or final price adjustment (regulation 16) which the contractor expects will be made in relation to the component;
 - (b) a description of any event that has occurred, or circumstances which have arisen, since the component was entered into, that have had or are likely to have a material effect in relation to the component, including—
@@ -191,40 +191,40 @@ summary: ''
 
 ## Annotations
 
-[^key-562d4c152a5ea586296c3e95852e2b62]: Textual amendment: [Reg. 27(3A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/3A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/a)
+[^c-562d4c152a5ea586296c3e95852e2b62]: Textual amendment: [Reg. 27(3A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/3A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/a)
 
-[^key-1ba17918de54bdc4169f19a969741842]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(i)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/i)
+[^c-1ba17918de54bdc4169f19a969741842]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(i)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/i)
 
-[^key-71a2249fc9e3712d9f35dd8e79891939]: Textual amendment: Word in [reg. 27(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/c/ii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
+[^c-71a2249fc9e3712d9f35dd8e79891939]: Textual amendment: Word in [reg. 27(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/c/ii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
 
-[^key-396709cd1bd225703cca51296ceec379]: Textual amendment: Word in [reg. 27(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/c/iii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
+[^c-396709cd1bd225703cca51296ceec379]: Textual amendment: Word in [reg. 27(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/c/iii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
 
-[^key-4f3310b5e099a1edc886b83ac751eb7a]: Textual amendment: [Reg. 27(4)(e)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/e) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(iii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/iii)
+[^c-4f3310b5e099a1edc886b83ac751eb7a]: Textual amendment: [Reg. 27(4)(e)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/e) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(iii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/iii)
 
-[^key-4f15f6076333bb670f9e545c421b4243]: Textual amendment: Word in [reg. 27(4)(g)(ii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/g/ii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
+[^c-4f15f6076333bb670f9e545c421b4243]: Textual amendment: Word in [reg. 27(4)(g)(ii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/g/ii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
 
-[^key-b0095d89c0f3c6ec57e6a9e906b43085]: Textual amendment: Word in [reg. 27(4)(g)(iii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/g/iii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
+[^c-b0095d89c0f3c6ec57e6a9e906b43085]: Textual amendment: Word in [reg. 27(4)(g)(iii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/g/iii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/ii)
 
-[^key-d9ccbe0e5865837876d7a681477b8824]: Textual amendment: Word in reg. 27(4)(j) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/2)
+[^c-d9ccbe0e5865837876d7a681477b8824]: Textual amendment: Word in reg. 27(4)(j) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/2)
 
-[^key-1dda5d986dd29a54307c9ba30d6cf554]: Textual amendment: Word in [reg. 27(4)(k)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/k) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(iv)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/iv)
+[^c-1dda5d986dd29a54307c9ba30d6cf554]: Textual amendment: Word in [reg. 27(4)(k)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/k) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(iv)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/iv)
 
-[^key-0cae9f409f3a1126f6873872e7e1e497]: Textual amendment: Words in [reg. 27(4)(l)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/l) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(v)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/v)
+[^c-0cae9f409f3a1126f6873872e7e1e497]: Textual amendment: Words in [reg. 27(4)(l)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/l) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(v)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/v)
 
-[^key-b4f51d42d5bd1bc1b7a5dee948230d4d]: Textual amendment: [Reg. 27(4)(m)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/m) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(vi)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/vi)
+[^c-b4f51d42d5bd1bc1b7a5dee948230d4d]: Textual amendment: [Reg. 27(4)(m)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4/m) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(b)(vi)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/b/vi)
 
-[^key-3ac93443ff54e3ac7eeb91d49a7e9670]: Textual amendment: [Reg. 27(4A)-(4E)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(c)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/c) (with [reg. 44(3)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/3))
+[^c-3ac93443ff54e3ac7eeb91d49a7e9670]: Textual amendment: [Reg. 27(4A)-(4E)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/4A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(c)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/c) (with [reg. 44(3)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/3))
 
-[^key-e59b24d742facb6dda62b2a2cb21d52b]: Textual amendment: Words in [reg. 27(5)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/5) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(d)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/d)
+[^c-e59b24d742facb6dda62b2a2cb21d52b]: Textual amendment: Words in [reg. 27(5)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/5) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(d)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/d)
 
-[^key-2523d00d9e5f7b78bc34f5ce162b143f]: Textual amendment: Words in reg. 27(5)(d) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/3)
+[^c-2523d00d9e5f7b78bc34f5ce162b143f]: Textual amendment: Words in reg. 27(5)(d) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/3)
 
-[^key-0dbaacc04da297d410029538f0f35815]: Textual amendment: Words in reg. 27(5)(e) omitted (1.9.2019) by virtue of [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/4)
+[^c-0dbaacc04da297d410029538f0f35815]: Textual amendment: Words in reg. 27(5)(e) omitted (1.9.2019) by virtue of [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/4)
 
-[^key-8866dcf14b021ae2cd96263b02eefc99]: Textual amendment: Reg. 27(5)(f) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/5)
+[^c-8866dcf14b021ae2cd96263b02eefc99]: Textual amendment: Reg. 27(5)(f) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/11/5)
 
-[^key-b140584ef8efa1f633c8b18998623166]: Textual amendment: Words in [reg. 27(5)(f)(iii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/5/f/iii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(f)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/f)
+[^c-b140584ef8efa1f633c8b18998623166]: Textual amendment: Words in [reg. 27(5)(f)(iii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/5/f/iii) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(f)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/f)
 
-[^key-1a751713d976b8359518555d0fcc375a]: Textual amendment: [Reg. 27(5)(g)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/5/g) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(g)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/g)
+[^c-1a751713d976b8359518555d0fcc375a]: Textual amendment: [Reg. 27(5)(g)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/5/g) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(g)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/g)
 
-[^key-cba63740fe75cec7f6e775c77816968c]: Textual amendment: [Reg. 27(6)-(9)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/6) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(h)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/h)
+[^c-cba63740fe75cec7f6e775c77816968c]: Textual amendment: [Reg. 27(6)-(9)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/27/6) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [31(h)](https://www.legislation.gov.uk/uksi/2024/420/regulation/31/h)

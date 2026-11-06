@@ -63,9 +63,9 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** (1)[^key-0a1648994f7e09ced593e61a226b1d39] For the purposes of Article 3(9) of Directive 2006/7/EC, standard EN ISO 17994:2014 ‘Water quality — Requirements for the comparison of the relative recovery of microorganisms by two quantitative methods’ shall be specified as the standard on the equivalence of microbiological methods.
+**Article 1.** (1)[^c-0a1648994f7e09ced593e61a226b1d39] For the purposes of Article 3(9) of Directive 2006/7/EC, standard EN ISO 17994:2014 ‘Water quality — Requirements for the comparison of the relative recovery of microorganisms by two quantitative methods’ shall be specified as the standard on the equivalence of microbiological methods.
 
-(2)[^key-994002cf270231055be4921cd5a1be09] The reference in paragraph 1 to Article 3(9) of Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7), is to be read as if any requirements imposed or discretion conferred by that provision on a member State were imposed or conferred on the relevant person.
+(2)[^c-994002cf270231055be4921cd5a1be09] The reference in paragraph 1 to Article 3(9) of Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7), is to be read as if any requirements imposed or discretion conferred by that provision on a member State were imposed or conferred on the relevant person.
 
 (3) In this Article, “**relevant person**” means—
 
@@ -74,9 +74,9 @@ HAS ADOPTED THIS DECISION:
 - (c) in relation to Scotland, the Scottish Environment Protection Agency;
 - (d) in relation to Northern Ireland, the Department for Agriculture, Environment and Rural Affairs.
 
-**Article 2.**[^key-6c8c72185de08c42c5150635b54b54f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6c8c72185de08c42c5150635b54b54f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-39cf1c7e7ede037fa2c1a891716990fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-39cf1c7e7ede037fa2c1a891716990fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 1 September 2017.
 
@@ -92,10 +92,10 @@ Karmenu Vella
 
 [^f00002]: Footnote: Commission Decision 2009/64/EC of 21 January 2009 specifying, pursuant to Directive 2006/7/EC of the European Parliament and of the Council, ISO 17994:2004(E) as the standard on the equivalence of microbiological methods ([OJ L 23, 27.1.2009, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.023.01.0032.01.ENG)).
 
-[^key-0a1648994f7e09ced593e61a226b1d39]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2017/1583/article/1) renumbered as Art. 1(1) (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a1648994f7e09ced593e61a226b1d39]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eudn/2017/1583/article/1) renumbered as Art. 1(1) (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-994002cf270231055be4921cd5a1be09]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2017/1583/article/1/2)[(3)](https://www.legislation.gov.uk/eudn/2017/1583/article/1/3) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-994002cf270231055be4921cd5a1be09]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/2017/1583/article/1/2)[(3)](https://www.legislation.gov.uk/eudn/2017/1583/article/1/3) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c8c72185de08c42c5150635b54b54f6]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2017/1583/article/2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c8c72185de08c42c5150635b54b54f6]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2017/1583/article/2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39cf1c7e7ede037fa2c1a891716990fe]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2017/1583/article/3) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39cf1c7e7ede037fa2c1a891716990fe]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2017/1583/article/3) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2019/558/regulation/24/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

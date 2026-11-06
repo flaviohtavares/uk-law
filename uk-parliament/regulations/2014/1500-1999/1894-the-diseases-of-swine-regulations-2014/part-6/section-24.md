@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Declarations of zones[^key-15a4bcc65396028484364f6f680d123d]
+## 24. Declarations of zones[^c-15a4bcc65396028484364f6f680d123d]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15a4bcc65396028484364f6f680d123d]: Commencement: Reg. 24 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-15a4bcc65396028484364f6f680d123d]: Commencement: Reg. 24 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

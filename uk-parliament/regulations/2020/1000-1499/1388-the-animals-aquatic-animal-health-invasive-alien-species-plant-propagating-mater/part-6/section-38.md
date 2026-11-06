@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Aquatic Animal Health (England and Wales) Regulations 2009[^key-26fba793ef722e8e0a8f7370478feb63]
+## 38. Aquatic Animal Health (England and Wales) Regulations 2009[^c-26fba793ef722e8e0a8f7370478feb63]
 
 *Extent: E+W+S+N.I.*
 
@@ -196,7 +196,7 @@ summary: ''
 
 ## Annotations
 
-[^key-26fba793ef722e8e0a8f7370478feb63]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1388/regulation/38) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-26fba793ef722e8e0a8f7370478feb63]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1388/regulation/38) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00073]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463); amended by [S.I. 2011/981](https://www.legislation.gov.uk/uksi/2011/981) and [2019/1488](https://www.legislation.gov.uk/uksi/2019/1488).
 

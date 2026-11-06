@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Adult Placement Schemes (Wales) (Miscellaneous Amendments) Regulations 2010 (revoked)[^key-4508dc5150fca6216c9fa56ab276c2de]
+The Adult Placement Schemes (Wales) (Miscellaneous Amendments) Regulations 2010 (revoked)[^c-4508dc5150fca6216c9fa56ab276c2de]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 1 December 2010
 
-[^key-4508dc5150fca6216c9fa56ab276c2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4508dc5150fca6216c9fa56ab276c2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-4508dc5150fca6216c9fa56ab276c2de]
+## 1. Title, commencement, interpretation and application[^c-4508dc5150fca6216c9fa56ab276c2de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Principal Regulations[^key-4508dc5150fca6216c9fa56ab276c2de]
+## 2. Amendment of the Principal Regulations[^c-4508dc5150fca6216c9fa56ab276c2de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4508dc5150fca6216c9fa56ab276c2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4508dc5150fca6216c9fa56ab276c2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Care Homes (Wales) Regulations 2002[^key-4508dc5150fca6216c9fa56ab276c2de]
+## 4. Amendment of the Care Homes (Wales) Regulations 2002[^c-4508dc5150fca6216c9fa56ab276c2de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4508dc5150fca6216c9fa56ab276c2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4508dc5150fca6216c9fa56ab276c2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4508dc5150fca6216c9fa56ab276c2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4508dc5150fca6216c9fa56ab276c2de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4508dc5150fca6216c9fa56ab276c2de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2585) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2)
+[^c-4508dc5150fca6216c9fa56ab276c2de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2585) revoked (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2019/237/schedule/2)

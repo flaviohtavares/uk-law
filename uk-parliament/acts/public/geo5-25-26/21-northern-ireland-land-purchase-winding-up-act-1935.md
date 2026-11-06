@@ -61,7 +61,7 @@ The following functions of the Commission shall be transferred to and performed 
 
 - (a) functions under schemes framed under section twenty of the Act of 1903, and the powers to make regulations conferred by section four of the [^c588136]Turbary (Ireland) Act 1891, and by section twenty-one of the Act of 1903, as extended by section twenty-six of the Act of 1925, and subsection (2) of section four of the Act of 1929;
 - (b) the power to determine questions conferred by section twenty-two of the Act of 1903;
-- (c)[^c588137][^key-3368bb290e98327e772e123cf215c132] functions with respect to sporting rights and to rights to, or in relation to, mines or minerals;
+- (c)[^c588137][^c-3368bb290e98327e772e123cf215c132] functions with respect to sporting rights and to rights to, or in relation to, mines or minerals;
 - (d) functions under subsection (2) of section twenty-seven of the Act of 1925;
 - (e) functions in respect of sums lodged with the Irish Land Commission and transferred to the Commission and set apart for the cleansing or maintenance of watercourses, drains, embankments, roads or other works;
 - (f) functions under section two of the [^c588138]Irish Land (Provision for Sailors and Soldiers) Act 1919;
@@ -85,7 +85,7 @@ The functions of the Judicial Commissioner under section thirty-three of the Act
 
 (1) Any functions of the Commission, for the performance of which provision is not made by the foregoing provisions of this Act, shall be transferred to and performed by the Treasury, subject to such provisions as may be made by any Order in Council under this Act.
 
-(2) Arrangements may be made by the Treasury for the performance of any of the said functions by any other Department of the Government of the United Kingdom, or by the Land Purchase Trustee for Northern Ireland \[[^c588139]or by the Registrar of Titles in Northern Ireland\] or by any officers of the Court of Judicature[^key-23951dc099d31a46db8529c2c50cd17b], on such terms and conditions as may be agreed between the Treasury and that Department, or between the Treasury and the Lord Chief Justice of Northern Ireland, as the case may be.
+(2) Arrangements may be made by the Treasury for the performance of any of the said functions by any other Department of the Government of the United Kingdom, or by the Land Purchase Trustee for Northern Ireland \[[^c588139]or by the Registrar of Titles in Northern Ireland\] or by any officers of the Court of Judicature[^c-23951dc099d31a46db8529c2c50cd17b], on such terms and conditions as may be agreed between the Treasury and that Department, or between the Treasury and the Lord Chief Justice of Northern Ireland, as the case may be.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c588140]
 
@@ -255,13 +255,13 @@ Table
 
 [^c588137]: Modification: S. 3(c) transfer of functions (1.12.1999 for specified purposes) by [S.R. 1999/481](https://www.legislation.gov.uk/nisr/1999/481), [art. 3](https://www.legislation.gov.uk/nisr/1999/481/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/481/schedule/1)
 
-[^key-3368bb290e98327e772e123cf215c132]: Modification: S. 3(c) transfer of functions (N.I.) (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-3368bb290e98327e772e123cf215c132]: Modification: S. 3(c) transfer of functions (N.I.) (8.5.2016 for specified purposes) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c588138]: Marginal citation: [1919 c. 82](https://www.legislation.gov.uk/ukpga/1919/82)
 
 [^c588139]: Textual amendment: Words inserted by [Northern Ireland Act 1947 (c. 37, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1947/37), [Sch. 1](https://www.legislation.gov.uk/ukpga/1947/37/schedule/1)
 
-[^key-23951dc099d31a46db8529c2c50cd17b]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Geo5/25-26/21) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-23951dc099d31a46db8529c2c50cd17b]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Geo5/25-26/21) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c588140]: Textual amendment: S. 6(3) repealed by [Superannuation Act 1972 (c. 11, SIF 101A:1)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8) and [Judicature (N.I.) Act 1978 (c. 23, SIF 38)](https://www.legislation.gov.uk/ukpga/1978/23), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1978/23/schedule/7/part/I)
 

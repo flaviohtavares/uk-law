@@ -35,27 +35,27 @@ adopting the specifications of the 2010 *ad hoc* module on reconciliation betwee
 
 (Text with EEA relevance) (revoked)
 
-[^key-af447caf8b5a61f45732646216ae26fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af447caf8b5a61f45732646216ae26fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-af447caf8b5a61f45732646216ae26fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-af447caf8b5a61f45732646216ae26fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-af447caf8b5a61f45732646216ae26fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-af447caf8b5a61f45732646216ae26fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af447caf8b5a61f45732646216ae26fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af447caf8b5a61f45732646216ae26fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-af447caf8b5a61f45732646216ae26fc]
+## ANNEX[^c-af447caf8b5a61f45732646216ae26fc]
 
-[^key-af447caf8b5a61f45732646216ae26fc]LABOUR FORCE SURVEY
+[^c-af447caf8b5a61f45732646216ae26fc]LABOUR FORCE SURVEY
 
 Specifications of the 2010 ad hoc module on reconciliation between work and family life
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af447caf8b5a61f45732646216ae26fc]1.
+[^c-af447caf8b5a61f45732646216ae26fc]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af447caf8b5a61f45732646216ae26fc]2.
+[^c-af447caf8b5a61f45732646216ae26fc]2.
 
 The variables will be coded as follows:
 
@@ -63,4 +63,4 @@ The variables will be coded as follows:
 
 ## Annotations
 
-[^key-af447caf8b5a61f45732646216ae26fc]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 144](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/144); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af447caf8b5a61f45732646216ae26fc]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 144](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/144); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

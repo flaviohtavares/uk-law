@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Broadcasting from outside United Kingdom[^key-eec185190ca276e2e2b3a748fe54835e]
+## 68. Broadcasting from outside United Kingdom[^c-eec185190ca276e2e2b3a748fe54835e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ for the reception and re-transmission of that matter by that body or the holder 
 
 ## Annotations
 
-[^key-eec185190ca276e2e2b3a748fe54835e]: Commencement: Art. 68 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-eec185190ca276e2e2b3a748fe54835e]: Commencement: Art. 68 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

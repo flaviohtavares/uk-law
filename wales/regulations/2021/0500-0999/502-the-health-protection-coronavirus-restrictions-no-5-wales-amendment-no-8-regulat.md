@@ -53,7 +53,7 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 
 In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.
 
-## 1. Title and coming into force[^key-b4bbd1df9224c832b842974c48362385]
+## 1. Title and coming into force[^c-b4bbd1df9224c832b842974c48362385]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2021.
 
@@ -63,47 +63,47 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 (4) Paragraph (15)(f) of regulation 2 comes into force at 6.00 a.m. on 26 April 2021.
 
-## 2. Amendment to the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^key-f8a2e0375539bd137887acfc0178c215][^key-f45332cac4c7ec1a00cecad93d008bc2][^key-6871d460115eccef700f073df0e0182f]
+## 2. Amendment to the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^c-f8a2e0375539bd137887acfc0178c215][^c-f45332cac4c7ec1a00cecad93d008bc2][^c-6871d460115eccef700f073df0e0182f]
 
-(1)[^key-f8a2e0375539bd137887acfc0178c215] The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^f00002] are amended as follows.
+(1)[^c-f8a2e0375539bd137887acfc0178c215] The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^f00002] are amended as follows.
 
-(2)[^key-6871d460115eccef700f073df0e0182f] In regulation 4—
+(2)[^c-6871d460115eccef700f073df0e0182f] In regulation 4—
 
 - (a) in paragraph (1), omit sub-paragraph (c);
 - (b) in paragraph (6A), for “25 April” substitute “2 May”.
 
-(3)[^key-6871d460115eccef700f073df0e0182f] In regulation 17(1)(a), omit “and allocating a limited time period to customers for which they may stay in the premises”.
+(3)[^c-6871d460115eccef700f073df0e0182f] In regulation 17(1)(a), omit “and allocating a limited time period to customers for which they may stay in the premises”.
 
-(4)[^key-6871d460115eccef700f073df0e0182f] In regulation 25(3)(a)—
+(4)[^c-6871d460115eccef700f073df0e0182f] In regulation 25(3)(a)—
 
 - (a) in paragraph (ii), omit “or 8(1) or (2)”;
 - (b) in paragraph (iii), omit “or 8(1) or (2)”;
 - (c) in paragraph (iv), for “(2) or 10(1)” substitute “9(1)”.
 
-(5)[^key-6871d460115eccef700f073df0e0182f] In regulation 27(1)—
+(5)[^c-6871d460115eccef700f073df0e0182f] In regulation 27(1)—
 
 - (a) in sub-paragraph (b), omit “or 8(1) or (2)”;
 - (b) in sub-paragraph (c), omit “or 8(1) or (2)”;
 - (c) in sub-paragraph (d), for “(2) or 10(1)” substitute “9(1)”.
 
-(6)[^key-6871d460115eccef700f073df0e0182f] In regulation 28(3)(c), for “(3)” substitute “3(1)”.
+(6)[^c-6871d460115eccef700f073df0e0182f] In regulation 28(3)(c), for “(3)” substitute “3(1)”.
 
-(7)[^key-6871d460115eccef700f073df0e0182f] In regulation 31—
+(7)[^c-6871d460115eccef700f073df0e0182f] In regulation 31—
 
 - (a) in paragraph (1)(b), for “paragraph 4 of Schedule 3” substitute “paragraph 5 of Schedule 3”;
 - (b) in paragraph (3), after “Schedule 2” insert “, paragraph 6 of Schedule 3”.
 
-(8)[^key-6871d460115eccef700f073df0e0182f] In regulation 37(1)(c), for “or 2(1) or (3)” substitute “2(1) or 3(1)”.
+(8)[^c-6871d460115eccef700f073df0e0182f] In regulation 37(1)(c), for “or 2(1) or (3)” substitute “2(1) or 3(1)”.
 
-(9)[^key-6871d460115eccef700f073df0e0182f] In regulation 39(1)(c), for “paragraph 4” substitute “paragraph 5”.
+(9)[^c-6871d460115eccef700f073df0e0182f] In regulation 39(1)(c), for “paragraph 4” substitute “paragraph 5”.
 
-(10)[^key-6871d460115eccef700f073df0e0182f] In regulation 42(1)—
+(10)[^c-6871d460115eccef700f073df0e0182f] In regulation 42(1)—
 
 - (a) in sub-paragraph (a), for “paragraphs 7(1) or 8(1) or (2)” substitute “paragraph 7(1)”;
 - (b) in sub-paragraph (b), for “paragraphs 7(1) or 8(1) or (2)” substitute “paragraph 7(1)”;
 - (c) in sub-paragraph (c), for “(2) or 10(1)” substitute “9(1)”.
 
-(11)[^key-6871d460115eccef700f073df0e0182f] In regulation 56—
+(11)[^c-6871d460115eccef700f073df0e0182f] In regulation 56—
 
 - (a) in paragraph (1)(c) for “an offence under regulation 42” substitute “an offence mentioned in paragraph (1A)”;
 - (b) after paragraph (1) insert—
@@ -114,7 +114,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
   > - (b) an offence under regulation 43(1) where the person carrying out a function under these Regulations is an enforcement officer designated by a local authority;
   > - (c) an offence under regulation 43(2)(a)(i) or (b) where the enforcement officer giving the direction or compliance notice is a person designated by a local authority.
 
-(12)[^key-6871d460115eccef700f073df0e0182f] In Schedule 1—
+(12)[^c-6871d460115eccef700f073df0e0182f] In Schedule 1—
 
 - (a) in paragraph 1—
   - (i) in sub-paragraph (4), omit paragraph (b);
@@ -141,7 +141,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - (e) in paragraph 5(2), omit “persons under the age of 11 or”;
 - (f) omit paragraph 8.
 
-(13)[^key-6871d460115eccef700f073df0e0182f] In Schedule 2—
+(13)[^c-6871d460115eccef700f073df0e0182f] In Schedule 2—
 
 - (a) in paragraph 1—
   - (i) for sub-paragraph (1) substitute—
@@ -231,7 +231,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
   > **11.** Ice skating rinks.
 
-(14)[^key-6871d460115eccef700f073df0e0182f] For Schedule 3 substitute—
+(14)[^c-6871d460115eccef700f073df0e0182f] For Schedule 3 substitute—
 
 > **SCHEDULE 3 — Alert Level 3 Restrictions**
 >
@@ -682,7 +682,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 (15) In Schedule 3A—
 
 - (a) in paragraph 1—
-  - (i)[^key-f8a2e0375539bd137887acfc0178c215] in sub-paragraph (2), omit “from no more than 2 households”;
+  - (i)[^c-f8a2e0375539bd137887acfc0178c215] in sub-paragraph (2), omit “from no more than 2 households”;
   - (ii) in sub-paragraph (3)(a), after “age of 11” insert “, as long as the persons participating in the gathering (including any children under the age of 11) are from no more than 6 households”;
   - (iii) in sub-paragraph (5), omit paragraph (b);
   - (iv) in sub-paragraph (6), for paragraph (ba) substitute—
@@ -779,12 +779,12 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
   > - (b) consider that it is necessary and proportionate to withdraw the authorisation for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection by coronavirus.
 
   ;
-- (f)[^key-f45332cac4c7ec1a00cecad93d008bc2] in paragraph 7—
+- (f)[^c-f45332cac4c7ec1a00cecad93d008bc2] in paragraph 7—
   - (i) in the heading, after “Closure of” insert “indoor premises of”;
   - (ii) in sub-paragraph (1)—
     - (aa) in paragraph (a), for “premises operated as part of the business” substitute “part of its premises which is indoors and used for the consumption of food or drink”;
     - (bb) omit paragraph (b);
-- (g)[^key-6871d460115eccef700f073df0e0182f] in paragraph 10—
+- (g)[^c-6871d460115eccef700f073df0e0182f] in paragraph 10—
   - (i) after sub-paragraph (1) insert—
 
     > (1A) In its application to a business or service listed in paragraphs 33, 34, 35, 37, 39, 40 and 41, sub-paragraph (1) does not apply to—
@@ -797,30 +797,30 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
     ;
   - (ii) omit sub-paragraph (3)(b);
-- (h)[^key-6871d460115eccef700f073df0e0182f] in paragraph 11, omit sub-paragraphs (2) and (3);
-- (i)[^key-6871d460115eccef700f073df0e0182f] for paragraph 26 substitute—
+- (h)[^c-6871d460115eccef700f073df0e0182f] in paragraph 11, omit sub-paragraphs (2) and (3);
+- (i)[^c-6871d460115eccef700f073df0e0182f] for paragraph 26 substitute—
 
   > **26.** Cinemas, other than drive in cinemas.
 
   ;
-- (j)[^key-6871d460115eccef700f073df0e0182f] for paragraph 27 substitute—
+- (j)[^c-6871d460115eccef700f073df0e0182f] for paragraph 27 substitute—
 
   > **27.** Concert halls and theatres, other than drive in theatres.
 
   ;
-- (k)[^key-6871d460115eccef700f073df0e0182f] in paragraph 36, for “Skating” substitute “Ice skating”;
-- (l)[^key-6871d460115eccef700f073df0e0182f] for paragraph 41 substitute—
+- (k)[^c-6871d460115eccef700f073df0e0182f] in paragraph 36, for “Skating” substitute “Ice skating”;
+- (l)[^c-6871d460115eccef700f073df0e0182f] for paragraph 41 substitute—
 
   > **41.** Visitor attractions.
 
   ;
-- (m)[^key-6871d460115eccef700f073df0e0182f] for paragraph 43 substitute—
+- (m)[^c-6871d460115eccef700f073df0e0182f] for paragraph 43 substitute—
 
   > **43.** Indoor swimming pools.
 
-(16)[^key-6871d460115eccef700f073df0e0182f] In Schedule 4, paragraph 37, for “Skating” substitute “Ice skating”.
+(16)[^c-6871d460115eccef700f073df0e0182f] In Schedule 4, paragraph 37, for “Skating” substitute “Ice skating”.
 
-(17)[^key-6871d460115eccef700f073df0e0182f] In Schedule 5, paragraph 2—
+(17)[^c-6871d460115eccef700f073df0e0182f] In Schedule 5, paragraph 2—
 
 - (a) in the words before paragraph (a), for “25 April” substitute “2 May”;
 - (b) after paragraph (e) insert—
@@ -829,9 +829,9 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
   .
 
-(18)[^key-6871d460115eccef700f073df0e0182f] In Schedule 7, paragraph 30, for “Skating” substitute “Ice skating”.
+(18)[^c-6871d460115eccef700f073df0e0182f] In Schedule 7, paragraph 30, for “Skating” substitute “Ice skating”.
 
-(19)[^key-6871d460115eccef700f073df0e0182f] In Schedule 8, paragraph 7—
+(19)[^c-6871d460115eccef700f073df0e0182f] In Schedule 8, paragraph 7—
 
 - (a) for sub-paragraph (2) substitute—
 
@@ -851,7 +851,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
   > - (a) the copy of the notice or the information about where the notice can be found;
   > - (b) the sign.
 
-(20)[^key-6871d460115eccef700f073df0e0182f] In Schedule 9—
+(20)[^c-6871d460115eccef700f073df0e0182f] In Schedule 9—
 
 - (a) for paragraph 1(1) substitute—
 
@@ -892,13 +892,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Sections 45C, 45F and 45P were inserted by section 129 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The functions under these sections are conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister, as respects Wales, is the Welsh Ministers.
 
-[^key-b4bbd1df9224c832b842974c48362385]: Commencement: Reg. 1 in force at 24.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/3)
+[^c-b4bbd1df9224c832b842974c48362385]: Commencement: Reg. 1 in force at 24.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/3)
 
-[^key-f8a2e0375539bd137887acfc0178c215]: Commencement: [Reg. 2(1)(15)(a)(i)(ii)(b)(i)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/1/15/a/i/ii/b/i) in force at 24.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/3)
+[^c-f8a2e0375539bd137887acfc0178c215]: Commencement: [Reg. 2(1)(15)(a)(i)(ii)(b)(i)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/1/15/a/i/ii/b/i) in force at 24.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/3)
 
-[^key-f45332cac4c7ec1a00cecad93d008bc2]: Commencement: [Reg. 2(15)(f)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/15/f) in force at 26.4.2021 at 6.00 a.m., see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/4)
+[^c-f45332cac4c7ec1a00cecad93d008bc2]: Commencement: [Reg. 2(15)(f)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/15/f) in force at 26.4.2021 at 6.00 a.m., see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/4)
 
-[^key-6871d460115eccef700f073df0e0182f]: Commencement: [Reg. 2(2)-(14)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/2)(15)(a)(iii)(iv)(b)(ii)(iii)(c)-(e)(g)-(m)(16)-(20) in force immediately before the start of the day on 26.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/2)
+[^c-6871d460115eccef700f073df0e0182f]: Commencement: [Reg. 2(2)-(14)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/2)(15)(a)(iii)(iv)(b)(ii)(iii)(c)-(e)(g)-(m)(16)-(20) in force immediately before the start of the day on 26.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2020/1609 (W. 335)](https://www.legislation.gov.uk/wsi/2020/1609) as amended by [S.I. 2020/1610 (W. 336)](https://www.legislation.gov.uk/wsi/2020/1610), [S.I. 2020/1623 (W. 340)](https://www.legislation.gov.uk/wsi/2020/1623), [S.I. 2020/1645 (W. 345)](https://www.legislation.gov.uk/wsi/2020/1645), [S.I. 2021/20 (W. 7)](https://www.legislation.gov.uk/wsi/2021/20), [S.I. 2021/46 (W. 10)](https://www.legislation.gov.uk/wsi/2021/46), [S.I. 2021/57 (W. 13)](https://www.legislation.gov.uk/wsi/2021/57), [S.I. 2021/66 (W. 15)](https://www.legislation.gov.uk/wsi/2021/66), [S.I. 2021/95 (W. 26)](https://www.legislation.gov.uk/wsi/2021/95), [S.I. 2021/103 (W. 28)](https://www.legislation.gov.uk/wsi/2021/103), [S.I. 2021/172 (W. 40)](https://www.legislation.gov.uk/wsi/2021/172), [S.I. 2021/210 (W. 52)](https://www.legislation.gov.uk/wsi/2021/210), [S.I. 2021/307 (W. 79)](https://www.legislation.gov.uk/wsi/2021/307) and [S.I 2021/413 (W. 133)](https://www.legislation.gov.uk/wsi/2021/413).
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If at any time during the period beginning with the relevant date and ending with the time when a binding contract is entered into in pursuance of the initial notice[^key-c951216fefb294814b63ed24b778aea2] —
+(1) If at any time during the period beginning with the relevant date and ending with the time when a binding contract is entered into in pursuance of the initial notice[^c-c951216fefb294814b63ed24b778aea2] —
 
 - (a) there subsists between the nominee purchaser and a person other than a participating tenant any agreement (of whatever nature) providing for the disposal of a relevant interest, or
 - (b) if the nominee purchaser is a company, any person other than a participating tenant holds any share in that company by virtue of which a relevant interest may be acquired,
@@ -40,4 +40,4 @@ the nominee purchaser and the participating tenants shall be jointly and several
 
 ## Annotations
 
-[^key-c951216fefb294814b63ed24b778aea2]: Textual amendment: Words in s. 18(1) substituted (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 126(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/126/2), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/a) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), art. 2); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)
+[^c-c951216fefb294814b63ed24b778aea2]: Textual amendment: Words in s. 18(1) substituted (28.2.2005 for E., 31.5.2005 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 126(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/126/2), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/a) (as amended by [S.I. 2005/193](https://www.legislation.gov.uk/uksi/2005/193), art. 2); [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/j)

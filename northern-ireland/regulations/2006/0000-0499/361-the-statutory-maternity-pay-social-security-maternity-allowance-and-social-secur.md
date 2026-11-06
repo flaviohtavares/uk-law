@@ -43,13 +43,13 @@ The Department for Social Development makes the following Regulations in exercis
 
 These Regulations are made by virtue of, or consequential upon, the coming into operation of the Work and Families (Northern Ireland) Order 2006[^f00005] or, in the case of regulation 2, by virtue of, or consequential upon, the coming into operation of Article 63 of the Social Security (Northern Ireland) Order 1998[^f00006].
 
-## 1. Citation, application and commencement[^key-a7f72ab41057a1034eff44d204a98f6e]
+## 1. Citation, application and commencement[^c-a7f72ab41057a1034eff44d204a98f6e]
 
 (1) These Regulations may be cited as the Statutory Maternity Pay, Social Security (Maternity Allowance) and Social Security (Overlapping Benefits) (Amendment) Regulations (Northern Ireland) 2006.
 
 (2) These Regulations shall apply to women whose expected week of confinement begins on or after 1st April 2007 and shall come into operation on 1st October 2006.
 
-## 2. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-0f04bee52d4cace33e4dc4619e7bedb3]
+## 2. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-0f04bee52d4cace33e4dc4619e7bedb3]
 
 In regulation 14 of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00007] (provisions for adjusting benefit for part of a week) for paragraph (1) substitute—
 
@@ -57,7 +57,7 @@ In regulation 14 of the Social Security (Overlapping Benefits) Regulations (Nort
 
 .
 
-## 3. Amendment of the Statutory Maternity Pay (General) Regulations[^key-7a0f7f04ebc7ef7ba57ba87aa3176baa]
+## 3. Amendment of the Statutory Maternity Pay (General) Regulations[^c-7a0f7f04ebc7ef7ba57ba87aa3176baa]
 
 (1) The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00008] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -113,15 +113,15 @@ In regulation 14 of the Social Security (Overlapping Benefits) Regulations (Nort
 
 .
 
-## 4. Amendment of the Social Security (Maternity Allowance) Regulations[^key-a4be6cb0aaf8c19f74bb260254343d3d]
+## 4. Amendment of the Social Security (Maternity Allowance) Regulations[^c-a4be6cb0aaf8c19f74bb260254343d3d]
 
 (1) The Social Security (Maternity Allowance) Regulations (Northern Ireland) 1987[^f00011] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-23385bc872d5d1552def5a72b969f707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-23385bc872d5d1552def5a72b969f707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 3(2A)[^f00012] (modification of the maternity allowance period) for “26 weeks commencing with the week following that in which she stopped work” substitute “39 weeks commencing no earlier than the day she becomes entitled to maternity allowance and no later than the day following the day on which she is confined”.
 
-## 5. Revocations[^key-d42209e6801ac46f68c13aca282ea58e]
+## 5. Revocations[^c-d42209e6801ac46f68c13aca282ea58e]
 
 The regulations specified in column (1) of the Schedule are revoked to the extent mentioned in column (3).
 
@@ -131,7 +131,7 @@ John O’Neill
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Revocations[^key-a2b3ee0e04485befe99aca75a29e002b]
+## SCHEDULE — Revocations[^c-a2b3ee0e04485befe99aca75a29e002b]
 
 Regulation 5
 
@@ -191,13 +191,13 @@ An assessment of the cost to business was made in accordance with the Work and F
 
 [^f00006]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-a7f72ab41057a1034eff44d204a98f6e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/361/regulation/1) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
+[^c-a7f72ab41057a1034eff44d204a98f6e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/361/regulation/1) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
 
-[^key-0f04bee52d4cace33e4dc4619e7bedb3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/361/regulation/2) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
+[^c-0f04bee52d4cace33e4dc4619e7bedb3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/361/regulation/2) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); paragraph (1) was substituted by regulation 14(7)(a) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and amended by regulation 11(5)(a) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-7a0f7f04ebc7ef7ba57ba87aa3176baa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/361/regulation/3) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
+[^c-7a0f7f04ebc7ef7ba57ba87aa3176baa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/361/regulation/3) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); relevant amending Regulations are [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191) and [S.R. 2002 No. 354](https://www.legislation.gov.uk/nisr/2002/354)
 
@@ -205,14 +205,14 @@ An assessment of the cost to business was made in accordance with the Work and F
 
 [^f00010]: Footnote: Regulation 28 was amended by regulation 2(6) of [S.R. 2002 No. 354](https://www.legislation.gov.uk/nisr/2002/354)
 
-[^key-a4be6cb0aaf8c19f74bb260254343d3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/361/regulation/4) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
+[^c-a4be6cb0aaf8c19f74bb260254343d3d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/361/regulation/4) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
 
 [^f00011]: Footnote: [S.R. 1987 No. 170](https://www.legislation.gov.uk/nisr/1987/170); relevant amending Regulations are [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191) and [S.R. 2002 No. 354](https://www.legislation.gov.uk/nisr/2002/354)
 
-[^key-23385bc872d5d1552def5a72b969f707]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/4/2) revoked (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/140)](https://www.legislation.gov.uk/nisr/2014/140), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/140/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/140/regulation/5)
+[^c-23385bc872d5d1552def5a72b969f707]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/4/2) revoked (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/140)](https://www.legislation.gov.uk/nisr/2014/140), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/140/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/140/regulation/5)
 
 [^f00012]: Footnote: Paragraph (2A) was inserted by regulation 3(2) of [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191) and amended by regulation 5(c) of [S.R. 2002 No. 354](https://www.legislation.gov.uk/nisr/2002/354)
 
-[^key-d42209e6801ac46f68c13aca282ea58e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/361/regulation/5) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
+[^c-d42209e6801ac46f68c13aca282ea58e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/361/regulation/5) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
 
-[^key-a2b3ee0e04485befe99aca75a29e002b]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/361/schedule) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)
+[^c-a2b3ee0e04485befe99aca75a29e002b]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/361/schedule) in operation at 1.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/361/regulation/1/2)

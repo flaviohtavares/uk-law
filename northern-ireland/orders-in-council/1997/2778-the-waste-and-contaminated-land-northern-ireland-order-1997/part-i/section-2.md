@@ -26,7 +26,7 @@ summary: ''
 
 “associated works”, in relation to pipes, means any of the following connected with the pipes, namely, any valve, filter, stopcock, pump, inspection chamber and manhole and such other works as are prescribed;
 
-- “bio-waste” means biodegradable garden and park waste, food and kitchen waste from households, offices, restaurants, wholesale, canteens, caterers and retail premises and comparable waste from food processing plants;[^key-d23bc4f7eaa7c275f70040b6ba3c93ca]
+- “bio-waste” means biodegradable garden and park waste, food and kitchen waste from households, offices, restaurants, wholesale, canteens, caterers and retail premises and comparable waste from food processing plants;[^c-d23bc4f7eaa7c275f70040b6ba3c93ca]
 - “[^c22546551]**broker**” means any person arranging the recovery or disposal of waste on behalf of others, including such brokers who do not take physical possession of the waste;
 
 - “commercial waste” means, subject to paragraph (3), waste from premises used wholly or mainly for the purposes of a trade or business or the purposes of sport, recreation or entertainment excluding—
@@ -34,15 +34,15 @@ summary: ''
   - (b) industrial waste; and[^c19472301]
   - (c) [^c19472521]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (d) waste of any other description prescribed for the purposes of this sub-paragraph;
-- [^key-de42dfa109451e255440d8d5806151df]...
+- [^c-de42dfa109451e255440d8d5806151df]...
 - “controlled waste”[^c20488861]. . . means household, industrial and commercial waste or any such waste;
 
 - “[^c22546571]**dealer**” means any person who acts in the role of principal to purchase and subsequently sell waste, including such dealers who do not take physical possession of the waste;
 
-- “the Department” means the Department of Agriculture, Environment and Rural Affairs[^key-a644f1821fd6e96180d6fd7f3942442a];
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs[^c-a644f1821fd6e96180d6fd7f3942442a];
 - “disposal”, in relation to waste, includes its disposal by way of deposit in or on land;
 - “the environment” consists of all, or any, of the following media, namely, land, water and the air;
-- “food waste” means controlled waste that was at any time food intended for human consumption (even if of no nutritional value) and includes biodegradable waste produced as a consequence of the processing or preparation of food, but does not include drink;[^key-51b5372af676b645485b7dcc57cd5d96]
+- “food waste” means controlled waste that was at any time food intended for human consumption (even if of no nutritional value) and includes biodegradable waste produced as a consequence of the processing or preparation of food, but does not include drink;[^c-51b5372af676b645485b7dcc57cd5d96]
 - “harm” means harm to the health of living organisms or other interference with the ecological systems of which they form part and, in the case of man, includes offence to any of his senses or harm to his property; and “harmless” has a corresponding meaning;
 - “household waste” means, subject to paragraph (3), waste from—
   - (a) domestic property, that is to say, a building or self-contained part of a building which is used wholly for the purposes of living accommodation;
@@ -57,12 +57,12 @@ summary: ''
   - (d) any premises used for the purposes of, or in connection with, the provision to the public of postal or communications services[^c17077131]; or[^c19472941]
   - (e) any mine or quarry or any premises used for agriculture within the meaning of the Agriculture Act (Northern Ireland) 1949;
 - “licence” means a waste management licence;
-- ”List of Wastes” means the list of wastes set out in the Annex to Commission Decision[^key-048c3faf8b11572697b53f64d3741ecb] [2000/532/EC](https://www.legislation.gov.uk/eudn/2000/532), as amended from time to time and as also defined in regulation 5 of the Hazardous Waste Regulations (Northern Ireland) 2005
-- ”List of Wastes” means the list of wastes set out in the Annex to Commission Decision[^key-38847ef950dfacfeed3c272ded273e29] [2000/532/EC](https://www.legislation.gov.uk/eudn/2000/532), as amended from time to time and as also defined in regulation 5 of the Hazardous Waste Regulations (Northern Ireland) 2005
+- ”List of Wastes” means the list of wastes set out in the Annex to Commission Decision[^c-048c3faf8b11572697b53f64d3741ecb] [2000/532/EC](https://www.legislation.gov.uk/eudn/2000/532), as amended from time to time and as also defined in regulation 5 of the Hazardous Waste Regulations (Northern Ireland) 2005
+- ”List of Wastes” means the list of wastes set out in the Annex to Commission Decision[^c-38847ef950dfacfeed3c272ded273e29] [2000/532/EC](https://www.legislation.gov.uk/eudn/2000/532), as amended from time to time and as also defined in regulation 5 of the Hazardous Waste Regulations (Northern Ireland) 2005
 - “mobile plant” means, subject to paragraph (4), plant which is designed to move or be moved on roads or otherwise;
 - “mobile plant licence” means a licence authorising the treatment or disposal of waste by means of mobile plant;
 - “modifications” includes additions, omissions, amendments and substitutions;
-- “municipal waste” means—[^key-71839b1cd26fa38728313527fccb2e9d]
+- “municipal waste” means—[^c-71839b1cd26fa38728313527fccb2e9d]
   - (a) mixed waste and separately collected waste from households, including paper and cardboard, glass, metals, plastics, bio-waste, wood, textiles, packaging, waste electrical and electronic equipment, waste batteries and accumulators, and bulky waste, including mattresses and furniture; and
   - (b) mixed waste and separately collected waste from other sources, where such waste is similar in nature and composition to waste from households,
 
@@ -71,7 +71,7 @@ summary: ''
 - “owner” means the person (other than a mortgagee not in possession) for the time being receiving the rackrent of the land in connection with which the word is used, whether on his own account or as agent or trustee for another person, or who would so receive the rackrent if the land were let at a rackrent; and for the purposes of this definition—
   - “mortgage” includes any charge on property for securing money or money's worth; and
   - “mortgagee” includes any person from time to time deriving title under the original mortgagee;
-- “[^c21428211]**the Packaging Waste Directive**” means the European Parliament and Council Directive of [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) on packaging and packaging waste , as last amended by Directive (EU) 2018/852”; and[^key-c0b94319f70316b7ac79dba2950246e6] ;
+- “[^c21428211]**the Packaging Waste Directive**” means the European Parliament and Council Directive of [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) on packaging and packaging waste , as last amended by Directive (EU) 2018/852”; and[^c-c0b94319f70316b7ac79dba2950246e6] ;
 - “pollution of the environment” means pollution of the environment due to the release or escape (into any environmental medium) from—
   - (a) the land on which controlled waste is treated;
   - (b) the land on which controlled waste is kept;
@@ -81,9 +81,9 @@ summary: ''
   of substances or articles constituting or resulting from the waste and capable (by reason of the quantity or concentrations involved) of causing harm to man or any other living organisms supported by the environment; and this definition applies in relation to mobile plant by means of which controlled waste is treated or disposed of as it applies to plant on land by means of which controlled waste is treated or disposed of;
 - “prescribed” means prescribed by regulations;
 - “preparing for re-use” means checking, cleaning or repairing recovery operations, by which products or components of products that have become waste are prepared so that they can be re-used without any other pre-processing;
-- “[^c21428251]**public consultees**” means the persons to whose attention proposals for the waste management plan[^key-aa843410ec182b66bd846f9d33e5c744] are brought by the Department pursuant to Article 19B(1)(b);
+- “[^c21428251]**public consultees**” means the persons to whose attention proposals for the waste management plan[^c-aa843410ec182b66bd846f9d33e5c744] are brought by the Department pursuant to Article 19B(1)(b);
 - “recover”, in relation to waste, means reduction, reuse and recycling;
-- “recovery” means any operation the principal result of which is the waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that function, in the plant or in the wider economy;[^key-4d2ba7aa361e1f23d497a0fb54605c68]
+- “recovery” means any operation the principal result of which is the waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that function, in the plant or in the wider economy;[^c-4d2ba7aa361e1f23d497a0fb54605c68]
 - “re-use” means any operation by which products or components that are not waste are used again for the same purpose for which they were conceived;
 - “regulations”, except in Article 77, means regulations made by the Department;
 - “road” has the same meaning as in the [^m00004] Roads (Northern Ireland) Order 1993;
@@ -103,7 +103,7 @@ summary: ''
 - [^c22546641]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “waste disposal contractor” means a person who in the course of a business collects, keeps, treats or disposes of waste [^c21428401]. . . .
 
-- “[^c22546591]**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste , as last amended by Directive (EU) 2018/851[^key-7c9b84ae303b3128a66ab89f9094a641] ;
+- “[^c22546591]**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste , as last amended by Directive (EU) 2018/851[^c-7c9b84ae303b3128a66ab89f9094a641] ;
 
 - “[^c21428311]**waste management plan** ” means the plan prepared or modified pursuant to Article 19.
 
@@ -117,9 +117,9 @@ summary: ''
 
 (6) [^c22546661]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) For the purposes of this Order, subject to paragraph (8), waste is “treated” when it is subjected to any process, including making it reusable or reclaiming substances from it and “recycle” (except in Schedule 3)[^key-4263ab63c45e9eca314d1cb527add78c] shall be construed accordingly.
+(7) For the purposes of this Order, subject to paragraph (8), waste is “treated” when it is subjected to any process, including making it reusable or reclaiming substances from it and “recycle” (except in Schedule 3)[^c-4263ab63c45e9eca314d1cb527add78c] shall be construed accordingly.
 
-(7A)[^key-e1968c62590799f4028b931bffd7e354] In Schedule 3—
+(7A)[^c-e1968c62590799f4028b931bffd7e354] In Schedule 3—
 
 - “prevention” means measures taken before a substance, material or product has become waste that reduce—
   - (a) the quantity of waste, including through the re-use of products or the extension of the life span of products;
@@ -137,7 +137,7 @@ summary: ''
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-d23bc4f7eaa7c275f70040b6ba3c93ca]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/b)
+[^c-d23bc4f7eaa7c275f70040b6ba3c93ca]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) substituted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/b)
 
 [^c22546551]: Textual amendment: Art. 2(2): definition of "broker" inserted (8.4.2011) by [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/3/2/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
@@ -145,15 +145,15 @@ summary: ''
 
 [^c19472521]: Textual amendment: Sub-para. (c) in the definition of "commercial waste" in art. 2(2) repealed (31.7.2006) by [S.R. 2006/280](https://www.legislation.gov.uk/nisr/2006/280), [reg. 2(2)(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2006/280/regulation/2/2/a/i/bb)
 
-[^key-de42dfa109451e255440d8d5806151df]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) omitted (18.12.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/d)
+[^c-de42dfa109451e255440d8d5806151df]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) omitted (18.12.2020) by virtue of [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/d)
 
 [^c20488861]: Textual amendment: Art. 2(2): words in the definition of "controlled waste" repealed (25.6.2007) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [20](https://www.legislation.gov.uk/nisi/2007/611/article/20), [Sch.](https://www.legislation.gov.uk/nisi/2007/611/schedule); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 
 [^c22546571]: Textual amendment: Art. 2(2): definition of "dealer" inserted (8.4.2011) by [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/3/2/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-a644f1821fd6e96180d6fd7f3942442a]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) substituted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 71(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/71/1), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/71/2), [144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(m)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/m)
+[^c-a644f1821fd6e96180d6fd7f3942442a]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) substituted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 71(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/71/1), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/71/2), [144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(m)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/m)
 
-[^key-51b5372af676b645485b7dcc57cd5d96]: Textual amendment: Words in art. 2(2) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/2)
+[^c-51b5372af676b645485b7dcc57cd5d96]: Textual amendment: Words in art. 2(2) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/2)
 
 [^m00002]: Marginal citation: 1963 c. 17 (N.I.).
 
@@ -165,21 +165,21 @@ summary: ''
 
 [^c19472941]: Textual amendment: Art. 2(2): para. (e) and preceding word in definition of "industrial waste" inserted (31.7.2006) by [S.R. 2006/280](https://www.legislation.gov.uk/nisr/2006/280), [reg. 2(2)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2006/280/regulation/2/2/a/ii/bb)
 
-[^key-048c3faf8b11572697b53f64d3741ecb]: Textual amendment: Words in art. 2(2) inserted (1.6.2015) by [The Hazardous Waste (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/238)](https://www.legislation.gov.uk/nisr/2015/238), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/238/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/238/regulation/2/2)
+[^c-048c3faf8b11572697b53f64d3741ecb]: Textual amendment: Words in art. 2(2) inserted (1.6.2015) by [The Hazardous Waste (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/238)](https://www.legislation.gov.uk/nisr/2015/238), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/238/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/238/regulation/2/2)
 
-[^key-38847ef950dfacfeed3c272ded273e29]: Textual amendment: Words in art. 2(2) inserted (17.8.2015) by [The Hazardous Waste (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/288)](https://www.legislation.gov.uk/nisr/2015/288), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/288/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/288/regulation/2/2)
+[^c-38847ef950dfacfeed3c272ded273e29]: Textual amendment: Words in art. 2(2) inserted (17.8.2015) by [The Hazardous Waste (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/288)](https://www.legislation.gov.uk/nisr/2015/288), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/288/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2015/288/regulation/2/2)
 
-[^key-71839b1cd26fa38728313527fccb2e9d]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/a)
+[^c-71839b1cd26fa38728313527fccb2e9d]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/a)
 
 [^c21428211]: Textual amendment: Art. 2(2): definition of "the Packaging Waste Directive" inserted (1.7.2009) by [Waste Management Strategy Regulations (Northern Ireland) 2009 (S.R. 2009/178)](https://www.legislation.gov.uk/nisr/2009/178), [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/178/regulation/2/2)
 
-[^key-c0b94319f70316b7ac79dba2950246e6]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/c/i)
+[^c-c0b94319f70316b7ac79dba2950246e6]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/c/i)
 
 [^c21428251]: Textual amendment: Art. 2(2): definition of "public consultees" inserted (1.7.2009) by [Waste Management Strategy Regulations (Northern Ireland) 2009 (S.R. 2009/178)](https://www.legislation.gov.uk/nisr/2009/178), [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/178/regulation/2/2)
 
-[^key-aa843410ec182b66bd846f9d33e5c744]: Textual amendment: Word in art. 2(2) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/240/regulation/4)
+[^c-aa843410ec182b66bd846f9d33e5c744]: Textual amendment: Word in art. 2(2) substituted (16.1.2020) by [The Waste Regulations (Northern Ireland) 2019 (S.R. 2019/240)](https://www.legislation.gov.uk/nisr/2019/240), [regs. 1](https://www.legislation.gov.uk/nisr/2019/240/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/240/regulation/4)
 
-[^key-4d2ba7aa361e1f23d497a0fb54605c68]: Textual amendment: Words in art. 2(2) inserted (15.7.2016) by [The Waste (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/95)](https://www.legislation.gov.uk/nisr/2016/95), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/95/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/95/regulation/2/2)
+[^c-4d2ba7aa361e1f23d497a0fb54605c68]: Textual amendment: Words in art. 2(2) inserted (15.7.2016) by [The Waste (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/95)](https://www.legislation.gov.uk/nisr/2016/95), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/95/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/95/regulation/2/2)
 
 [^m00004]: Marginal citation: 1993 NI 15.
 
@@ -197,7 +197,7 @@ summary: ''
 
 [^c22546591]: Textual amendment: Art. 2(2): definition of "the Waste Framework Directive" inserted (8.4.2011) by [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2011/127/regulation/3/2/a) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-7c9b84ae303b3128a66ab89f9094a641]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/c/ii)
+[^c-7c9b84ae303b3128a66ab89f9094a641]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/2) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/2/c/ii)
 
 [^c21428311]: Textual amendment: Art. 2(2): definition of "waste management strategy" inserted (1.7.2009) by [Waste Management Strategy Regulations (Northern Ireland) 2009 (S.R. 2009/178)](https://www.legislation.gov.uk/nisr/2009/178), [reg. 2(2)](https://www.legislation.gov.uk/nisr/2009/178/regulation/2/2)
 
@@ -209,6 +209,6 @@ summary: ''
 
 [^c22546661]: Textual amendment: Art. 2(6) omitted (8.4.2011) by virtue of [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [3(2)(d)](https://www.legislation.gov.uk/nisr/2011/127/regulation/3/2/d) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
-[^key-4263ab63c45e9eca314d1cb527add78c]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/7) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/3)
+[^c-4263ab63c45e9eca314d1cb527add78c]: Textual amendment: Words in [art. 2(7)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/7) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/3)
 
-[^key-e1968c62590799f4028b931bffd7e354]: Textual amendment: [Art. 2(7A)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/7A)[(7B)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/7B) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/4)
+[^c-e1968c62590799f4028b931bffd7e354]: Textual amendment: [Art. 2(7A)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/7A)[(7B)](https://www.legislation.gov.uk/nisi/1997/2778/article/2/7B) inserted (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/285/regulation/2/4)

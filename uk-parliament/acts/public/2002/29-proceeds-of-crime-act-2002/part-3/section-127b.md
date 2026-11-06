@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127B. Conditions for exercise of powers[^key-5f055d61f195772ac525359146e8e002]
+## 127B. Conditions for exercise of powers[^c-5f055d61f195772ac525359146e8e002]
 
 *Extent: S*
 
@@ -25,15 +25,15 @@ summary: ''
 (2) The first condition is that—
 
 - (a) a criminal investigation has been started in Scotland with regard to an indictable offence,
-- (b)[^key-06b6b1bd1e03bcdff50d6dfb714e06d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-06b6b1bd1e03bcdff50d6dfb714e06d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) proceedings for the offence have not yet been started against the person in Scotland,
-- (d) there are reasonable grounds to suspect[^key-db8a632ac5f8d668e0c311df031c1e35] that the person has benefited from conduct constituting the offence, and
+- (d) there are reasonable grounds to suspect[^c-db8a632ac5f8d668e0c311df031c1e35] that the person has benefited from conduct constituting the offence, and
 - (e) a restraint order is not in force in respect of any realisable property.
 
 (3) The second condition is that—
 
 - (a) a criminal investigation has been started in Scotland with regard to an indictable offence,
-- (b)[^key-fc2278d11aeb3a342ed9989bfd751c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fc2278d11aeb3a342ed9989bfd751c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) proceedings for the offence have not yet been started against the person in Scotland, and
 - (d) a restraint order is in force in respect of any realisable property.
 
@@ -79,10 +79,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5f055d61f195772ac525359146e8e002]: Textual amendment: Ss. 127A-127R and cross-heading inserted (22.11.2014 for the insertion of ss. 127A, 127G, 127R for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-5f055d61f195772ac525359146e8e002]: Textual amendment: Ss. 127A-127R and cross-heading inserted (22.11.2014 for the insertion of ss. 127A, 127G, 127R for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-06b6b1bd1e03bcdff50d6dfb714e06d9]: Textual amendment: [S. 127B(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/127B/2/b) omitted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 20(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/20/a); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-06b6b1bd1e03bcdff50d6dfb714e06d9]: Textual amendment: [S. 127B(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/127B/2/b) omitted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 20(a)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/20/a); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-db8a632ac5f8d668e0c311df031c1e35]: Textual amendment: Words in s. 127B(2)(d) substituted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/22/1), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/g)
+[^c-db8a632ac5f8d668e0c311df031c1e35]: Textual amendment: Words in s. 127B(2)(d) substituted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/22/1), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/g)
 
-[^key-fc2278d11aeb3a342ed9989bfd751c7f]: Textual amendment: [S. 127B(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/127B/3/b) omitted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 20(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/20/b); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-fc2278d11aeb3a342ed9989bfd751c7f]: Textual amendment: [S. 127B(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/127B/3/b) omitted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 20(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/20/b); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)

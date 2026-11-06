@@ -32,7 +32,7 @@ summary: ''
 
 Police
 
-The Police Appeals Tribunals (Scotland) Amendment Rules 2020 (revoked)[^key-936a931b2c07b8cb08c98a679e4ee4c0]
+The Police Appeals Tribunals (Scotland) Amendment Rules 2020 (revoked)[^c-936a931b2c07b8cb08c98a679e4ee4c0]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st March 2021
 
-[^key-936a931b2c07b8cb08c98a679e4ee4c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936a931b2c07b8cb08c98a679e4ee4c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-936a931b2c07b8cb08c98a679e4ee4c0]
+## 1. Citation and commencement[^c-936a931b2c07b8cb08c98a679e4ee4c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-936a931b2c07b8cb08c98a679e4ee4c0]
+## 2. Interpretation[^c-936a931b2c07b8cb08c98a679e4ee4c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the 2013 Rules[^key-936a931b2c07b8cb08c98a679e4ee4c0]
+## 3. Amendment to the 2013 Rules[^c-936a931b2c07b8cb08c98a679e4ee4c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-936a931b2c07b8cb08c98a679e4ee4c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936a931b2c07b8cb08c98a679e4ee4c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-936a931b2c07b8cb08c98a679e4ee4c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-936a931b2c07b8cb08c98a679e4ee4c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-936a931b2c07b8cb08c98a679e4ee4c0]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2020/454) revoked (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 3(b)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/3/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-936a931b2c07b8cb08c98a679e4ee4c0]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2020/454) revoked (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 3(b)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/3/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))

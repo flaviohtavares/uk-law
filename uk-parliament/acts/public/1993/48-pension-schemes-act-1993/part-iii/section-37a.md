@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Transfer of liabilities etc: schemes contracted-out on or after 6 April 1997[^key-8d937ad234ffb9f2c934479606018aa7]
+## 37A. Transfer of liabilities etc: schemes contracted-out on or after 6 April 1997[^c-8d937ad234ffb9f2c934479606018aa7]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ except in prescribed circumstances or on prescribed conditions.
 
 ## Annotations
 
-[^key-8d937ad234ffb9f2c934479606018aa7]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/1993/48/section/37A) inserted (7.7.2015 for specified purposes, 6.4.2016 otherwise) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/25); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/c)
+[^c-8d937ad234ffb9f2c934479606018aa7]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/1993/48/section/37A) inserted (7.7.2015 for specified purposes, 6.4.2016 otherwise) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 25](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/25); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/1/c)

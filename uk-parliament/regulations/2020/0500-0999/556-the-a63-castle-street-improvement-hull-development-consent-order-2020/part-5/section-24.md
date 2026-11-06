@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Private rights over land[^key-0b029b4488ad11f5e9b3258a754f77a3]
+## 24. Private rights over land[^c-0b029b4488ad11f5e9b3258a754f77a3]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-0b029b4488ad11f5e9b3258a754f77a3]: Commencement: Art. 24 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-0b029b4488ad11f5e9b3258a754f77a3]: Commencement: Art. 24 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24104231]: Marginal citation: [Section 11(1)](https://www.legislation.gov.uk/uksi/2020/556/section/11/1) was amended by section 34(1) of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), [section 14](https://www.legislation.gov.uk/ukpga/1981/67/section/14) of, and paragraph 12(1) of Schedule 5 to, the [Church of England (Miscellaneous Provisions) Measure 2006 (2006 No. 1)](https://www.legislation.gov.uk/ukpga/2006) and sections 186(1) and (2), 187 and 188 of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

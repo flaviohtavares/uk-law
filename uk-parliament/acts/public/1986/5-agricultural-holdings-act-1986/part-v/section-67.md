@@ -37,8 +37,8 @@ summary: ''
 
 the approval of the Tribunal shall have effect for the purposes of subsection (1) above as if it were the consent of the landlord, and any terms subject to which the approval was given shall have effect as if they were contained in an agreement in writing between the landlord and the tenant.
 
-(7) In subsection (5) above, “**the prescribed period**” means the period prescribed by the Lord Chancellor by order (where the Tribunal is the Agricultural Land Tribunal) or by Tribunal Procedure Rules (where the Tribunal is the First-tier Tribunal or the Upper Tribunal)[^key-e434b0800828b2194ebed76cfc24c4a0].
+(7) In subsection (5) above, “**the prescribed period**” means the period prescribed by the Lord Chancellor by order (where the Tribunal is the Agricultural Land Tribunal) or by Tribunal Procedure Rules (where the Tribunal is the First-tier Tribunal or the Upper Tribunal)[^c-e434b0800828b2194ebed76cfc24c4a0].
 
 ## Annotations
 
-[^key-e434b0800828b2194ebed76cfc24c4a0]: Textual amendment: Words in s. 67(7) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 208](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/208) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e434b0800828b2194ebed76cfc24c4a0]: Textual amendment: Words in s. 67(7) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 208](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/208) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

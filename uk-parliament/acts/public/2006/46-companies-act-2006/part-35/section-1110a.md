@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1110A. Meaning of “identity is verified”[^key-ae710e1b5ff928bd5ba73c0fc2492dae]
+## 1110A. Meaning of “identity is verified”[^c-ae710e1b5ff928bd5ba73c0fc2492dae]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ and the individual has not, since then, ceased to be an individual whose identit
 
 ## Annotations
 
-[^key-ae710e1b5ff928bd5ba73c0fc2492dae]: Textual amendment: [Ss. 1110A](https://www.legislation.gov.uk/ukpga/2006/46/section/1110A), [1110B](https://www.legislation.gov.uk/ukpga/2006/46/section/1110B) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 65(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/65/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
+[^c-ae710e1b5ff928bd5ba73c0fc2492dae]: Textual amendment: [Ss. 1110A](https://www.legislation.gov.uk/ukpga/2006/46/section/1110A), [1110B](https://www.legislation.gov.uk/ukpga/2006/46/section/1110B) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 65(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/65/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)

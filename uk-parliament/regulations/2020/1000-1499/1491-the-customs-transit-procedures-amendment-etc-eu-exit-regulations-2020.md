@@ -55,15 +55,15 @@ In accordance with section 51(1) of that Act, the Treasury consider it appropria
 
 In accordance with section 52(2) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, for the following Regulations to come into force on such day as the Treasury may by regulations under section 52 of that Act appoint.
 
-## 1. Citation and commencement[^key-1bd43e7ebb5ba5530986982b36a8471e][^key-3ae80d7bdc4dba8883275be03b96cadb]
+## 1. Citation and commencement[^c-1bd43e7ebb5ba5530986982b36a8471e][^c-3ae80d7bdc4dba8883275be03b96cadb]
 
 These Regulations may be cited as the Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 and come into force on such day as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
-## 2. Amendment of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-2687be45bf42d7648bd1e378dc333f64][^key-7579b5496b8603e9b904d239b0440568]
+## 2. Amendment of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-2687be45bf42d7648bd1e378dc333f64][^c-7579b5496b8603e9b904d239b0440568]
 
 In regulation 15 of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24369121] omit paragraphs (2)(a) and (3)(a).
 
-## 3. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^key-8a9a35eedffcadbf8db4abe4b71c689a][^key-2338f8d538c2a92b8838550b65251de4]
+## 3. Amendment of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^c-8a9a35eedffcadbf8db4abe4b71c689a][^c-2338f8d538c2a92b8838550b65251de4]
 
 Regulation 13(2) of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 [^c24369131] is amended as follows—
 
@@ -71,7 +71,7 @@ Regulation 13(2) of the Customs and Excise (Miscellaneous Provisions and Amendme
 - (b) in sub-paragraph (b)(ii)(bb) for “64(6) and (10)(d))” substitute “ 29(1D) and 64(10)(d) ”, and
 - (c) omit sub-paragraphs (d)(i) and (ii).
 
-## 4. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^key-535b58bac6731a3b9fe8153e8d8b368d][^key-b935ab246bd04d4948c926730717636a]
+## 4. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^c-535b58bac6731a3b9fe8153e8d8b368d][^c-b935ab246bd04d4948c926730717636a]
 
 (1) Schedule 1 to the Customs Transit Procedures (EU Exit) Regulations 2018 [^c24369141] is amended as follows.
 
@@ -168,7 +168,7 @@ Regulation 13(2) of the Customs and Excise (Miscellaneous Provisions and Amendme
 
 (8) Omit paragraphs 64(5) to 64(9).
 
-## 5.[^key-96cc7db7bd92919d6bc21a4fa8db6fa0][^key-f4d2db393c8c356faf4a33f480cecb55]
+## 5.[^c-96cc7db7bd92919d6bc21a4fa8db6fa0][^c-f4d2db393c8c356faf4a33f480cecb55]
 
 (1) Schedule 3 to the Customs Transit Procedures (EU Exit) Regulations 2018 is amended as follows.
 
@@ -176,7 +176,7 @@ Regulation 13(2) of the Customs and Excise (Miscellaneous Provisions and Amendme
 
 (3) In paragraph 4(1) for “64(9)(a)” substitute “ 29(1G)(a) ”.
 
-## 6. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-23b0364c951289d8d056bc06962f988c][^key-72f1e522281266157db8ee551f66b6c2]
+## 6. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-23b0364c951289d8d056bc06962f988c][^c-72f1e522281266157db8ee551f66b6c2]
 
 (1) The Customs (Import Duty) (EU Exit) Regulations 2018 [^c24369161] are amended as follows.
 
@@ -222,36 +222,36 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24369111]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); the “**appropriate Minister**” for the purposes of section 51(1) and this instrument is the Treasury as per section 51(4).
 
-[^key-1bd43e7ebb5ba5530986982b36a8471e]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
+[^c-1bd43e7ebb5ba5530986982b36a8471e]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
 
-[^key-3ae80d7bdc4dba8883275be03b96cadb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3ae80d7bdc4dba8883275be03b96cadb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2687be45bf42d7648bd1e378dc333f64]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
+[^c-2687be45bf42d7648bd1e378dc333f64]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
 
-[^key-7579b5496b8603e9b904d239b0440568]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1491/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7579b5496b8603e9b904d239b0440568]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1491/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24369121]: Marginal citation: [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326). Relevant amendments made by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-8a9a35eedffcadbf8db4abe4b71c689a]: Commencement: Reg. 3 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
+[^c-8a9a35eedffcadbf8db4abe4b71c689a]: Commencement: Reg. 3 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
 
-[^key-2338f8d538c2a92b8838550b65251de4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2338f8d538c2a92b8838550b65251de4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24369131]: Marginal citation: [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
-[^key-535b58bac6731a3b9fe8153e8d8b368d]: Commencement: Reg. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
+[^c-535b58bac6731a3b9fe8153e8d8b368d]: Commencement: Reg. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
 
-[^key-b935ab246bd04d4948c926730717636a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1491/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b935ab246bd04d4948c926730717636a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1491/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24369141]: Marginal citation: [S.I. 2018/1258](https://www.legislation.gov.uk/uksi/2018/1258). Relevant amendments made by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326) and [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).
 
 [^c24369151]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248).
 
-[^key-96cc7db7bd92919d6bc21a4fa8db6fa0]: Commencement: Reg. 5 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
+[^c-96cc7db7bd92919d6bc21a4fa8db6fa0]: Commencement: Reg. 5 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
 
-[^key-f4d2db393c8c356faf4a33f480cecb55]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1491/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-f4d2db393c8c356faf4a33f480cecb55]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1491/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-23b0364c951289d8d056bc06962f988c]: Commencement: Reg. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
+[^c-23b0364c951289d8d056bc06962f988c]: Commencement: Reg. 6 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1)
 
-[^key-72f1e522281266157db8ee551f66b6c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1491/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-72f1e522281266157db8ee551f66b6c2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1491/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24369161]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326) and [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215) make relevant amendments.

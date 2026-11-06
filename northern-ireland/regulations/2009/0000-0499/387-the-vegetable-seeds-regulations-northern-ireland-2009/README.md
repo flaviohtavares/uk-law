@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Vegetable Seeds Regulations (Northern Ireland) 2009 (revoked)[^key-f560b62a14f17cca38ddc48a94876bca]
+The Vegetable Seeds Regulations (Northern Ireland) 2009 (revoked)[^c-f560b62a14f17cca38ddc48a94876bca]
 
 Made
 
@@ -42,11 +42,11 @@ Coming into operation
 
 31st December 2009
 
-[^key-f560b62a14f17cca38ddc48a94876bca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f560b62a14f17cca38ddc48a94876bca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-f560b62a14f17cca38ddc48a94876bca]
+### PART 1 — General[^c-f560b62a14f17cca38ddc48a94876bca]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ Coming into operation
 - [Section 4 — Definition of marketing](part-1/section-4.md)
 - [Section 5 — Seeds to which these regulations apply](part-1/section-5.md)
 
-### PART 2 — Procedures relating to the official certification of seed[^key-f560b62a14f17cca38ddc48a94876bca]
+### PART 2 — Procedures relating to the official certification of seed[^c-f560b62a14f17cca38ddc48a94876bca]
 
 *Extent: N.I.*
 
@@ -74,7 +74,7 @@ Coming into operation
 - [Section 13 — Re-grading of seed](part-2/section-13.md)
 - [Section 14 — Withdrawals](part-2/section-14.md)
 
-### PART 3 — Control of vegetable seed[^key-f560b62a14f17cca38ddc48a94876bca]
+### PART 3 — Control of vegetable seed[^c-f560b62a14f17cca38ddc48a94876bca]
 
 *Extent: N.I.*
 
@@ -97,7 +97,7 @@ Coming into operation
 - [Section 26 — Special provisions that apply in connection with the marketing of standard seed](part-3/section-26.md)
 - [Section 27](part-3/section-27.md)
 
-### PART 4 — Miscellaneous and supplemental provisions[^key-f560b62a14f17cca38ddc48a94876bca]
+### PART 4 — Miscellaneous and supplemental provisions[^c-f560b62a14f17cca38ddc48a94876bca]
 
 *Extent: N.I.*
 
@@ -124,12 +124,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-f560b62a14f17cca38ddc48a94876bca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f560b62a14f17cca38ddc48a94876bca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-f560b62a14f17cca38ddc48a94876bca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f560b62a14f17cca38ddc48a94876bca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f560b62a14f17cca38ddc48a94876bca]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(e)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/e)
+[^c-f560b62a14f17cca38ddc48a94876bca]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(e)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/e)

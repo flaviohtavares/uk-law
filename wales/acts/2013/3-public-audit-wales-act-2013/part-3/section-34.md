@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Minor and consequential amendments[^key-8b22398a6a82870f017fd131bcd921c5]
+## 34. Minor and consequential amendments[^c-8b22398a6a82870f017fd131bcd921c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 (minor and consequential amendments) has effect.
 
 ## Annotations
 
-[^key-8b22398a6a82870f017fd131bcd921c5]: Commencement: S. 34 in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-8b22398a6a82870f017fd131bcd921c5]: Commencement: S. 34 in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

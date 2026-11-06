@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Effect of increases under this Chapter for older members[^key-6b0ebc3a905e1a47ddfcaae71a551a8e]
+## 53. Effect of increases under this Chapter for older members[^c-6b0ebc3a905e1a47ddfcaae71a551a8e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ is increased by adding to it an amount which equals–
 
 ## Annotations
 
-[^key-6b0ebc3a905e1a47ddfcaae71a551a8e]: Commencement: Reg. 53 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-6b0ebc3a905e1a47ddfcaae71a551a8e]: Commencement: Reg. 53 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

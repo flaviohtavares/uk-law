@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Powers of entry, etc.: further provision[^key-a7cebcfbb9b341a1bf19b5a9acf493e7]
+## 34. Powers of entry, etc.: further provision[^c-a7cebcfbb9b341a1bf19b5a9acf493e7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cebcfbb9b341a1bf19b5a9acf493e7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2017/282/regulation/34) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-a7cebcfbb9b341a1bf19b5a9acf493e7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2017/282/regulation/34) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

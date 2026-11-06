@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Appeals against refusal to accommodate pending appeal[^key-b79f88eaa038c03fa1d6c98bfee7c78d]
+## 89. Appeals against refusal to accommodate pending appeal[^c-b79f88eaa038c03fa1d6c98bfee7c78d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b79f88eaa038c03fa1d6c98bfee7c78d]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2014/7/section/89) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 40](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/40)
+[^c-b79f88eaa038c03fa1d6c98bfee7c78d]: Commencement: [S. 89](https://www.legislation.gov.uk/anaw/2014/7/section/89) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 40](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/40)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Acting as approved regulator[^key-d50d6b49545252e6592c4bcc4e7805e3]
+## 131. Acting as approved regulator[^c-d50d6b49545252e6592c4bcc4e7805e3]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ After section 1 of the 1980 Act insert—
 
 ## Annotations
 
-[^key-d50d6b49545252e6592c4bcc4e7805e3]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2010/16/section/131) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-d50d6b49545252e6592c4bcc4e7805e3]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2010/16/section/131) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

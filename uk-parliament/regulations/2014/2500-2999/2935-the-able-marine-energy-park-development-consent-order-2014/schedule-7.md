@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-4ed594a928bd9d4269fa67ee3e52efe6]
+## SCHEDULE 7 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-4ed594a928bd9d4269fa67ee3e52efe6]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 46
 
 ## Annotations
 
-[^key-4ed594a928bd9d4269fa67ee3e52efe6]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/2014/2935/schedule/7) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-4ed594a928bd9d4269fa67ee3e52efe6]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/2014/2935/schedule/7) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

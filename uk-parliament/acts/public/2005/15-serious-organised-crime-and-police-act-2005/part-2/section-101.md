@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Appeal in proceedings for forfeiture of cash[^key-356f1c9cf1d39c407aa5fc77f9c6180f]
+## 101. Appeal in proceedings for forfeiture of cash[^c-356f1c9cf1d39c407aa5fc77f9c6180f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-356f1c9cf1d39c407aa5fc77f9c6180f]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/15/section/101) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/d) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/2))
+[^c-356f1c9cf1d39c407aa5fc77f9c6180f]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2005/15/section/101) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/d) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/2))

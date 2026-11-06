@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Duty to consult and plan on delivery of early learning and childcare[^key-781ac33caf5cd02874bd5ff31d5db72a]
+## 50. Duty to consult and plan on delivery of early learning and childcare[^c-781ac33caf5cd02874bd5ff31d5db72a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-781ac33caf5cd02874bd5ff31d5db72a]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/8/section/50) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-781ac33caf5cd02874bd5ff31d5db72a]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/8/section/50) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

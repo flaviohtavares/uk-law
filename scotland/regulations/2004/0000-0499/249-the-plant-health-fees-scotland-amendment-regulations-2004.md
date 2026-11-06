@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health Fees (Scotland) Amendment Regulations 2004 (revoked)[^key-d3c353a5b8f2eabc889906ef3f0bd82c]
+The Plant Health Fees (Scotland) Amendment Regulations 2004 (revoked)[^c-d3c353a5b8f2eabc889906ef3f0bd82c]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 22nd June 2004
 
-[^key-d3c353a5b8f2eabc889906ef3f0bd82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3c353a5b8f2eabc889906ef3f0bd82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d3c353a5b8f2eabc889906ef3f0bd82c]
+## 1. Citation and commencement[^c-d3c353a5b8f2eabc889906ef3f0bd82c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health Fees (Scotland) Regulations 1996[^key-d3c353a5b8f2eabc889906ef3f0bd82c]
+## 2. Amendment of the Plant Health Fees (Scotland) Regulations 1996[^c-d3c353a5b8f2eabc889906ef3f0bd82c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3c353a5b8f2eabc889906ef3f0bd82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3c353a5b8f2eabc889906ef3f0bd82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — New Schedule 3 to the Plant Health Fees (Scotland) Regulations 1996[^key-d3c353a5b8f2eabc889906ef3f0bd82c]
+## SCHEDULE — New Schedule 3 to the Plant Health Fees (Scotland) Regulations 1996[^c-d3c353a5b8f2eabc889906ef3f0bd82c]
 
 Regulation 2(3)
 
-[^key-d3c353a5b8f2eabc889906ef3f0bd82c]
+[^c-d3c353a5b8f2eabc889906ef3f0bd82c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d3c353a5b8f2eabc889906ef3f0bd82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3c353a5b8f2eabc889906ef3f0bd82c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3c353a5b8f2eabc889906ef3f0bd82c]: Textual amendment: Regulations revoked (1.6.2008) by [The Plant Health Fees (Scotland) Regulations 2008 (S.S.I. 2008/153)](https://www.legislation.gov.uk/ssi/2008/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/153/regulation/1), [6](https://www.legislation.gov.uk/ssi/2008/153/regulation/6)
+[^c-d3c353a5b8f2eabc889906ef3f0bd82c]: Textual amendment: Regulations revoked (1.6.2008) by [The Plant Health Fees (Scotland) Regulations 2008 (S.S.I. 2008/153)](https://www.legislation.gov.uk/ssi/2008/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/153/regulation/1), [6](https://www.legislation.gov.uk/ssi/2008/153/regulation/6)

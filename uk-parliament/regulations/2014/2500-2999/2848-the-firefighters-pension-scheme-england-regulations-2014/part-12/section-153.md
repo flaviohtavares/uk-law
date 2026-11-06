@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Review of medical opinion[^key-e7047bcd7e02db5d09f87ebc61544f3d]
+## 153. Review of medical opinion[^c-e7047bcd7e02db5d09f87ebc61544f3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the scheme manager must send a copy of the new evidence to the IQMP and invite t
 
 ## Annotations
 
-[^key-e7047bcd7e02db5d09f87ebc61544f3d]: Commencement: [Reg. 153](https://www.legislation.gov.uk/uksi/2014/2848/regulation/153) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e7047bcd7e02db5d09f87ebc61544f3d]: Commencement: [Reg. 153](https://www.legislation.gov.uk/uksi/2014/2848/regulation/153) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

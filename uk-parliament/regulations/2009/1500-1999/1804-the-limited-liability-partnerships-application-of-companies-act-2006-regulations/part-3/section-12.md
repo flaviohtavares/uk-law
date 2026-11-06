@@ -27,23 +27,23 @@ Sections 69 to 74 apply to LLPs, modified so that they read as follows—
 > (1) A person (“**the applicant**”) may object to an LLP's registered name on the ground—
 >
 > - (a) that it is the same as a name associated with the applicant in which he has goodwill, or
-> - (b) that it is sufficiently similar to such a name that its use in the United Kingdom or elsewhere[^key-d596b409f87f868b3e4c13b616b06fac] would be likely to mislead members of the public in the United Kingdom or elsewhere[^key-514fa5599a82f005d2003d5c074f804d] by suggesting a connection between the LLP and the applicant.
+> - (b) that it is sufficiently similar to such a name that its use in the United Kingdom or elsewhere[^c-d596b409f87f868b3e4c13b616b06fac] would be likely to mislead members of the public in the United Kingdom or elsewhere[^c-514fa5599a82f005d2003d5c074f804d] by suggesting a connection between the LLP and the applicant.
 >
 > (2) The objection must be made by application to a company names adjudicator (see section 70).
 >
-> (3) The LLP concerned shall be the primary respondent to the application. Any member or person who was a member at the time at which the name was registered may be joined as a respondent.[^key-66a3d300cb86f42e74c9d66d515976b2]
+> (3) The LLP concerned shall be the primary respondent to the application. Any member or person who was a member at the time at which the name was registered may be joined as a respondent.[^c-66a3d300cb86f42e74c9d66d515976b2]
 >
 > (4) If the ground specified in subsection (1)(a) or (b) is established, it is for the respondents to show—
 >
 > - (a) that the name was registered before the commencement of the activities on which the applicant relies to show goodwill; or
-> - (b)[^key-dd82ceb8501cdb993aed14d105574401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b)[^c-dd82ceb8501cdb993aed14d105574401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (c) that the name was registered in the ordinary course of an LLP formation business and the LLP is available for sale to the applicant on the standard terms of that business; or
 > - (d) that the name was adopted in good faith; or
 > - (e) that the interests of the applicant are not adversely affected to any significant extent.
 >
 > If none of those is shown, the objection shall be upheld.
 >
-> (5) If the facts mentioned in subsection (4)(a)[^key-29d10640077cbf82e3a1fbe70bdefba4]... or (c) are established, the objection shall nevertheless be upheld if the applicant shows that the main purpose of the respondents (or any of them) in registering the name was to obtain money (or other consideration) from the applicant or prevent him from registering the name.
+> (5) If the facts mentioned in subsection (4)(a)[^c-29d10640077cbf82e3a1fbe70bdefba4]... or (c) are established, the objection shall nevertheless be upheld if the applicant shows that the main purpose of the respondents (or any of them) in registering the name was to obtain money (or other consideration) from the applicant or prevent him from registering the name.
 >
 > (6) If the objection is not upheld under subsection (4) or (5), it shall be dismissed.
 >
@@ -117,7 +117,7 @@ Sections 69 to 74 apply to LLPs, modified so that they read as follows—
 >
 > (6) For the purposes of this section an LLP's name is changed when the change takes effect in accordance with paragraph 5(4) in Part 1 of the Schedule to the Limited Liability Partnerships Act 2000 (c. 12) (on the issue of the certificate of the change of name).
 >
-> (7)[^key-6823acad87d69fd5a2acba01bbc02aad] Where an order is made under subsection (1), the registrar may omit from the material on the register that is available for public inspection any mention of the name to which the order relates.
+> (7)[^c-6823acad87d69fd5a2acba01bbc02aad] Where an order is made under subsection (1), the registrar may omit from the material on the register that is available for public inspection any mention of the name to which the order relates.
 >
 > **74. Appeal from adjudicator's decision**
 >
@@ -143,14 +143,14 @@ Sections 69 to 74 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-d596b409f87f868b3e4c13b616b06fac]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/a/i); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d596b409f87f868b3e4c13b616b06fac]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/a/i); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-514fa5599a82f005d2003d5c074f804d]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/a/ii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-514fa5599a82f005d2003d5c074f804d]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/a/ii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-66a3d300cb86f42e74c9d66d515976b2]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-66a3d300cb86f42e74c9d66d515976b2]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-dd82ceb8501cdb993aed14d105574401]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/c); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-dd82ceb8501cdb993aed14d105574401]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/c); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-29d10640077cbf82e3a1fbe70bdefba4]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/d); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-29d10640077cbf82e3a1fbe70bdefba4]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/2/d); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-6823acad87d69fd5a2acba01bbc02aad]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-6823acad87d69fd5a2acba01bbc02aad]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2009/1804/regulation/12) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/10/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

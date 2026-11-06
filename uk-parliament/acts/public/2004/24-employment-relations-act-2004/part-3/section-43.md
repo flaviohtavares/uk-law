@@ -51,9 +51,9 @@ summary: ''
 - (e) include supplemental, incidental, consequential and transitional provision, including provision amending any enactment;
 - (f) make different provision for different cases or circumstances.
 
-(5)[^key-6b3bcaab87d869e0519c0f09d31f248d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6b3bcaab87d869e0519c0f09d31f248d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Nothing in subsections (2) to (4)[^key-e20f00e4c4370d16e1049ece5900ccef] prejudices the generality of this section.
+(6) Nothing in subsections (2) to (4)[^c-e20f00e4c4370d16e1049ece5900ccef] prejudices the generality of this section.
 
 (7) Power to make regulations under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3bcaab87d869e0519c0f09d31f248d]: Textual amendment: [S. 43(5)](https://www.legislation.gov.uk/ukpga/2004/24/section/43/5) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/4/2) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b3bcaab87d869e0519c0f09d31f248d]: Textual amendment: [S. 43(5)](https://www.legislation.gov.uk/ukpga/2004/24/section/43/5) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/4/2) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e20f00e4c4370d16e1049ece5900ccef]: Textual amendment: Words in [s. 43(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/43/6) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/4/3) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e20f00e4c4370d16e1049ece5900ccef]: Textual amendment: Words in [s. 43(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/43/6) substituted (31.12.2020) by [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/4/3) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

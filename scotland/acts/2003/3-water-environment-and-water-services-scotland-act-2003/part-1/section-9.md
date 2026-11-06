@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Environmental objectives and programmes of measures[^key-2ec2613d2caa6d1ba0aa73f4db51a32a]
+## 9. Environmental objectives and programmes of measures[^c-2ec2613d2caa6d1ba0aa73f4db51a32a]
 
 *Extent: S*
 
 (1) For the purposes of the river basin management plan for a river basin district SEPA must—
 
 - (a) set environmental objectives for
-- (i)[^key-6ae095a8a2cefbe9dbd191d0cdd532fb] each body of water in the district, and
-- (ii)[^key-ae228c2bd699316261da584b5d4a79eb] each shellfish water protected area in the district, and
+- (i)[^c-6ae095a8a2cefbe9dbd191d0cdd532fb] each body of water in the district, and
+- (ii)[^c-ae228c2bd699316261da584b5d4a79eb] each shellfish water protected area in the district, and
 - (b) prepare a programme of measures to be applied to achieve those objectives.
 
 (2) In setting environmental objectives and preparing a programme of measures under this section, SEPA must take account of the characterisation of the river basin district concerned (and any review of it) carried out under section 5.
@@ -49,19 +49,19 @@ summary: ''
 
 (7) In this section, “**environmental objectives**” means the objectives required to comply with Article 4 of the Directive together with any objectives
 
-- (a)[^key-44efa057d9238a65420382a9d3ac9be5] in respect of any body of water, and[^key-11e1aedd8f0126bd26d0df5a586130f9]
+- (a)[^c-44efa057d9238a65420382a9d3ac9be5] in respect of any body of water, and[^c-11e1aedd8f0126bd26d0df5a586130f9]
 - (b) in respect of a shellfish water protected area, includes (without prejudice to the definition in paragraph (a)) such objectives as SEPA considers necessary or desirable to improve or protect that area in order to support shellfish life and growth and to contribute to the high quality of shellfish products suitable for human consumption.
 
 required to comply with paragraphs 2 and 3 of Article 7 of the Directive.
 
 ## Annotations
 
-[^key-2ec2613d2caa6d1ba0aa73f4db51a32a]: Commencement: S. 9 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)
+[^c-2ec2613d2caa6d1ba0aa73f4db51a32a]: Commencement: S. 9 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/235/article/2/a)
 
-[^key-6ae095a8a2cefbe9dbd191d0cdd532fb]: Textual amendment: Words in s. 9(1)(a) renumbered as s. 9(1)(a)(i) (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(a)(i)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/a/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-6ae095a8a2cefbe9dbd191d0cdd532fb]: Textual amendment: Words in s. 9(1)(a) renumbered as s. 9(1)(a)(i) (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(a)(i)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/a/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-ae228c2bd699316261da584b5d4a79eb]: Textual amendment: S. 9(1)(a)(ii) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(a)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/a/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-ae228c2bd699316261da584b5d4a79eb]: Textual amendment: S. 9(1)(a)(ii) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(a)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/a/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-44efa057d9238a65420382a9d3ac9be5]: Textual amendment: S. 9(7)(a) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(b)(i)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/b/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-44efa057d9238a65420382a9d3ac9be5]: Textual amendment: S. 9(7)(a) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(b)(i)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/b/i), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-11e1aedd8f0126bd26d0df5a586130f9]: Textual amendment: S. 9(7)(b) and preceding word inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(b)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/b/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-11e1aedd8f0126bd26d0df5a586130f9]: Textual amendment: S. 9(7)(b) and preceding word inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(4)(b)(ii)](https://www.legislation.gov.uk/asp/2013/7/section/54/4/b/ii), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Publicity requirements for schemes and reimbursement arrangements.[^c19482901][^c19472421][^c10881511][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 95. Publicity requirements for schemes and reimbursement arrangements.[^c19482901][^c19472421][^c10881511][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ in such manner, in either case, as the authority or authorities concerned think 
 - (a) copies of the scheme or (as the case may be) of the arrangements (with any subsequent variations) shall be made available at the principal office of the authority or (as the case may be) of each authority concerned; and
 - (b) a copy shall be supplied to any person on request (whether at that office or by post) either free of charge or at a charge representing the cost of providing the copy.
 
-(4) Where the authority or any of the authorities concerned in establishing a scheme under section 93 of this Act are an Integrated Transport Authority or *(Extent: E+W)*[^key-155504a4ad1602001e674a5c8f7973f8] a Passenger Transport Authority, they shall notify the Passenger Transport Executive for their area of any proposal to publish particulars of the scheme in advance of its coming into operation, giving the proposed date of publication.
+(4) Where the authority or any of the authorities concerned in establishing a scheme under section 93 of this Act are an Integrated Transport Authority or *(Extent: E+W)*[^c-155504a4ad1602001e674a5c8f7973f8] a Passenger Transport Authority, they shall notify the Passenger Transport Executive for their area of any proposal to publish particulars of the scheme in advance of its coming into operation, giving the proposed date of publication.
 
 ## Annotations
 
@@ -57,8 +57,8 @@ in such manner, in either case, as the authority or authorities concerned think 
 
     Ss. 93-102 applied (24.7.2001) by [S.I. 2001/3627](https://www.legislation.gov.uk/uksi/2001/3627), [art. 51](https://www.legislation.gov.uk/uksi/2001/3627/article/51)
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-155504a4ad1602001e674a5c8f7973f8]: Textual amendment: Words in s. 95(4) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/33); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-155504a4ad1602001e674a5c8f7973f8]: Textual amendment: Words in s. 95(4) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/33); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

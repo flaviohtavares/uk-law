@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Horses (Zootechnical Standards) (Wales) Regulations 2006 (revoked)[^key-2fa2f3e06577847b42a955978c368593]
+The Horses (Zootechnical Standards) (Wales) Regulations 2006 (revoked)[^c-2fa2f3e06577847b42a955978c368593]
 
 Made
 
@@ -41,84 +41,84 @@ Coming into force
 
 30 September 2006
 
-[^key-2fa2f3e06577847b42a955978c368593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa2f3e06577847b42a955978c368593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General Provisions[^key-2fa2f3e06577847b42a955978c368593]
+## PART 1 — General Provisions[^c-2fa2f3e06577847b42a955978c368593]
 
-### 1. Title, application and commencement[^key-2fa2f3e06577847b42a955978c368593]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-2fa2f3e06577847b42a955978c368593]
+### 1. Title, application and commencement[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Recognition of Organisations[^key-2fa2f3e06577847b42a955978c368593]
-
-### 3. Criteria for recognition[^key-2fa2f3e06577847b42a955978c368593]
+### 2. Interpretation[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Refusal to recognise and withdrawal of recognition from organisations[^key-2fa2f3e06577847b42a955978c368593]
+## PART 2 — Recognition of Organisations[^c-2fa2f3e06577847b42a955978c368593]
+
+### 3. Criteria for recognition[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Representations to the National Assembly[^key-2fa2f3e06577847b42a955978c368593]
+### 4. Refusal to recognise and withdrawal of recognition from organisations[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Form and Content of Stud Book[^key-2fa2f3e06577847b42a955978c368593]
-
-### 6. Division of main section of stud book[^key-2fa2f3e06577847b42a955978c368593]
+### 5. Representations to the National Assembly[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Compulsory entry in main section of stud book[^key-2fa2f3e06577847b42a955978c368593]
+## PART 3 — Form and Content of Stud Book[^c-2fa2f3e06577847b42a955978c368593]
+
+### 6. Division of main section of stud book[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Entry in supplementary section of stud book[^key-2fa2f3e06577847b42a955978c368593]
+### 7. Compulsory entry in main section of stud book[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Cross breeding programmes[^key-2fa2f3e06577847b42a955978c368593]
+### 8. Entry in supplementary section of stud book[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Entry of horses registered in other stud books[^key-2fa2f3e06577847b42a955978c368593]
+### 9. Cross breeding programmes[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Revocation[^key-2fa2f3e06577847b42a955978c368593]
+### 10. Entry of horses registered in other stud books[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fa2f3e06577847b42a955978c368593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 11. Revocation[^c-2fa2f3e06577847b42a955978c368593]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2fa2f3e06577847b42a955978c368593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Criteria for Recognition[^key-2fa2f3e06577847b42a955978c368593]
+## SCHEDULE — Criteria for Recognition[^c-2fa2f3e06577847b42a955978c368593]
 
 Regulation 3
 
-### 1. Operation of recognised organisations[^key-2fa2f3e06577847b42a955978c368593]
+### 1. Operation of recognised organisations[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Improvement and selection programmes[^key-2fa2f3e06577847b42a955978c368593]
+### 2. Improvement and selection programmes[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Non-discriminatory treatment of breeders[^key-2fa2f3e06577847b42a955978c368593]
+### 3. Non-discriminatory treatment of breeders[^c-2fa2f3e06577847b42a955978c368593]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2fa2f3e06577847b42a955978c368593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fa2f3e06577847b42a955978c368593]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fa2f3e06577847b42a955978c368593]: Textual amendment: Regulations revoked (1.12.2018) by [The Zootechnical Standards (Wales) Regulations 2018 (S.I. 2018/1152)](https://www.legislation.gov.uk/uksi/2018/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1152/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2018/1152/regulation/10/a)
+[^c-2fa2f3e06577847b42a955978c368593]: Textual amendment: Regulations revoked (1.12.2018) by [The Zootechnical Standards (Wales) Regulations 2018 (S.I. 2018/1152)](https://www.legislation.gov.uk/uksi/2018/1152), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1152/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2018/1152/regulation/10/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Application of Partnership Act 1890 (meaning of firm)[^key-488ee7813a9ee55a438eca8ae40eeff3]
+## 150. Application of Partnership Act 1890 (meaning of firm)[^c-488ee7813a9ee55a438eca8ae40eeff3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 4 of the Partnership Act 1890 (meaning of firm), after subsection (2)
 
 ## Annotations
 
-[^key-488ee7813a9ee55a438eca8ae40eeff3]: Commencement: S. 150 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-488ee7813a9ee55a438eca8ae40eeff3]: Commencement: S. 150 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

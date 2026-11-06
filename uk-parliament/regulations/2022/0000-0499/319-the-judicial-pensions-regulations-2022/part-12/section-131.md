@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Amendment to the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^key-53b8c9a71b092cd06fdcd65217882a3b][^key-2206200baa4f703d31e54aaf0df74e3f]
+## 131. Amendment to the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^c-53b8c9a71b092cd06fdcd65217882a3b][^c-2206200baa4f703d31e54aaf0df74e3f]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-53b8c9a71b092cd06fdcd65217882a3b] In article 3 of the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^f00047] (“the Judicial Offices Order”), for “the Schedule” substitute “Schedule 1 or Schedule 2”.
+(1)[^c-53b8c9a71b092cd06fdcd65217882a3b] In article 3 of the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^f00047] (“the Judicial Offices Order”), for “the Schedule” substitute “Schedule 1 or Schedule 2”.
 
-(2)[^key-2206200baa4f703d31e54aaf0df74e3f] The Schedule to the Judicial Offices Order is amended as follows—
+(2)[^c-2206200baa4f703d31e54aaf0df74e3f] The Schedule to the Judicial Offices Order is amended as follows—
 
 - (a) after the entry for “Chair of the Health Service Products (Pricing, Cost Control and Information) Appeals Tribunal holding office on or after 1st April 2021” insert the following entries—
 
@@ -69,14 +69,14 @@ summary: ''
 
   .
 
-(3)[^key-53b8c9a71b092cd06fdcd65217882a3b] The existing Schedule to the Judicial Offices Order is renamed “Schedule 1”.
+(3)[^c-53b8c9a71b092cd06fdcd65217882a3b] The existing Schedule to the Judicial Offices Order is renamed “Schedule 1”.
 
-(4)[^key-53b8c9a71b092cd06fdcd65217882a3b] After Schedule 1 to the Judicial Offices Order, as so renamed, insert the Schedule set out in Schedule 2 to these Regulations.
+(4)[^c-53b8c9a71b092cd06fdcd65217882a3b] After Schedule 1 to the Judicial Offices Order, as so renamed, insert the Schedule set out in Schedule 2 to these Regulations.
 
 ## Annotations
 
-[^key-53b8c9a71b092cd06fdcd65217882a3b]: Commencement: [Reg. 131(1)(3)(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/131/1/3/4) in force at 1.10.2022 by virtue of reg. 1(3)
+[^c-53b8c9a71b092cd06fdcd65217882a3b]: Commencement: [Reg. 131(1)(3)(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/131/1/3/4) in force at 1.10.2022 by virtue of reg. 1(3)
 
-[^key-2206200baa4f703d31e54aaf0df74e3f]: Commencement: Reg. 131(2) in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-2206200baa4f703d31e54aaf0df74e3f]: Commencement: Reg. 131(2) in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00047]: Footnote: [S.I. 2015/580](https://www.legislation.gov.uk/uksi/2015/580). The Public Service Pensions Act 2013 (Judicial Offices) Order 2015 has been amended by [S.I. 2015/1483](https://www.legislation.gov.uk/uksi/2015/1483); [S.I. 2018/186](https://www.legislation.gov.uk/uksi/2018/186); [S.I. 2018/130](https://www.legislation.gov.uk/uksi/2018/130) and [S.I. 2021/36](https://www.legislation.gov.uk/uksi/2021/36).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Examination of application[^key-bd413c8fab1b400538fc7ba4bd615d7e]
+## 16. Examination of application[^c-bd413c8fab1b400538fc7ba4bd615d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The FCA must, within the period of 40 working days beginning with the day on whi
 
 ## Annotations
 
-[^key-bd413c8fab1b400538fc7ba4bd615d7e]: Commencement: Reg. 16 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-bd413c8fab1b400538fc7ba4bd615d7e]: Commencement: Reg. 16 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347. Approval of independent schools.[^key-4df3c2884bb2017641b659c4f6f5d5a8]
+## 347. Approval of independent schools.[^c-4df3c2884bb2017641b659c4f6f5d5a8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4df3c2884bb2017641b659c4f6f5d5a8]: Textual amendment: S. 347 repealed (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [ss. 58](https://www.legislation.gov.uk/anaw/2018/2/section/58), [100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(e)](https://www.legislation.gov.uk/wsi/2021/373/article/8/e)
+[^c-4df3c2884bb2017641b659c4f6f5d5a8]: Textual amendment: S. 347 repealed (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [ss. 58](https://www.legislation.gov.uk/anaw/2018/2/section/58), [100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(e)](https://www.legislation.gov.uk/wsi/2021/373/article/8/e)

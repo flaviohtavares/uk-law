@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279D. Elections under section 279A[^key-5a9451e6f1f141be526fc4af929e24ff]
+## 279D. Elections under section 279A[^c-5a9451e6f1f141be526fc4af929e24ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,9 +41,9 @@ summary: ''
 
 - (a) the eligible year in which the relevant loss is to be treated in accordance with section 279C(2) as accruing to the taxpayer;
 - (b) the first year limit (see section 279C(3) and (4));
-- (c) how much of the relevant loss falls to be deducted in accordance with section 1(3)(a)[^key-d4bb961a788ccae0faede89e0cefdff6] from chargeable gains accruing to the taxpayer in that year.
+- (c) how much of the relevant loss falls to be deducted in accordance with section 1(3)(a)[^c-d4bb961a788ccae0faede89e0cefdff6] from chargeable gains accruing to the taxpayer in that year.
 
-(7) If, in accordance with section 279C, any part of the relevant loss falls to be deducted in accordance with section 1(3)(b)[^key-74b0442f772b855ceb732c48f3ea0014] from chargeable gains accruing to the taxpayer in any later eligible year, the notice must also specify—
+(7) If, in accordance with section 279C, any part of the relevant loss falls to be deducted in accordance with section 1(3)(b)[^c-74b0442f772b855ceb732c48f3ea0014] from chargeable gains accruing to the taxpayer in any later eligible year, the notice must also specify—
 
 - (a) each such year;
 - (b) in the case of each such year, the later year limit (see section 279C(6));
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a9451e6f1f141be526fc4af929e24ff]: Textual amendment: Ss. 279A-279D inserted (with effect in accordance with s. 162(3) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/162/1)
+[^c-5a9451e6f1f141be526fc4af929e24ff]: Textual amendment: Ss. 279A-279D inserted (with effect in accordance with s. 162(3) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/162/1)
 
-[^key-d4bb961a788ccae0faede89e0cefdff6]: Textual amendment: Words in [s. 279D(6)(c)](https://www.legislation.gov.uk/ukpga/1992/12/section/279D/6/c) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 85(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/85/2)
+[^c-d4bb961a788ccae0faede89e0cefdff6]: Textual amendment: Words in [s. 279D(6)(c)](https://www.legislation.gov.uk/ukpga/1992/12/section/279D/6/c) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 85(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/85/2)
 
-[^key-74b0442f772b855ceb732c48f3ea0014]: Textual amendment: Words in [s. 279D(7)](https://www.legislation.gov.uk/ukpga/1992/12/section/279D/7) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 85(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/85/3)
+[^c-74b0442f772b855ceb732c48f3ea0014]: Textual amendment: Words in [s. 279D(7)](https://www.legislation.gov.uk/ukpga/1992/12/section/279D/7) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 85(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/85/3)

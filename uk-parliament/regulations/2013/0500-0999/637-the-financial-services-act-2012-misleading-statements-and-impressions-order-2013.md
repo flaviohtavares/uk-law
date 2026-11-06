@@ -44,7 +44,7 @@ In accordance with section 94(1) of the Financial Services Act 2012[^f00001], a 
 
 The Treasury, in exercise of the powers conferred by sections 93(3) to (5) and 115(2) of the Financial Services Act 2012, makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-122e40f2511f0ca1ac3138d805d0ad2d]
+## 1. Citation, commencement and interpretation[^c-122e40f2511f0ca1ac3138d805d0ad2d]
 
 (1) This Order may be cited as the Financial Services Act 2012 (Misleading Statements and Impressions) Order 2013 and comes into force on 1st April 2013.
 
@@ -57,14 +57,14 @@ The Treasury, in exercise of the powers conferred by sections 93(3) to (5) and 1
 - “the Financial Promotion Order” means the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005;
 - “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001.
 
-## 2. Relevant agreements – specified kinds of activity[^key-e3420ac482c703788539f42797782082]
+## 2. Relevant agreements – specified kinds of activity[^c-e3420ac482c703788539f42797782082]
 
 The following kinds of activity are specified for the purposes of section 93(3)(a) of the Act (interpretation of Part 7)—
 
 - (a) a controlled activity;
 - (b) an activity of the kind specified by any of the following provisions of the Regulated Activities Order—
   - (i) article 45 (sending dematerialised instructions)[^f00005],
-  - (ia)[^key-e20ffbab0b5dd2710a86c3f8988ca9e4] article 51ZA (managing a UCITS),
+  - (ia)[^c-e20ffbab0b5dd2710a86c3f8988ca9e4] article 51ZA (managing a UCITS),
   - (ib) article 51ZB (acting as a trustee or depositary of a UCITS),
   - (ic) article 51ZC (managing an AIF),
   - (id) article 51ZD (acting as a trustee or depositary of an AIF),
@@ -81,7 +81,7 @@ The following kinds of activity are specified for the purposes of section 93(3)(
 
   so far as it relates to a contract of insurance.
 
-## 3. Relevant benchmarks[^key-19062d821aca01d9adfd7266f485c9de]
+## 3. Relevant benchmarks[^c-19062d821aca01d9adfd7266f485c9de]
 
 The benchmarks known by the following names are specified for the purposes of section 93(4) of the Act—
 
@@ -94,7 +94,7 @@ The benchmarks known by the following names are specified for the purposes of se
 - (g) LBMA Silver Price;
 - (h) ICE Brent Index.
 
-## 4. Relevant investments[^key-c870ef14fa07ac06ddd1a6b25ae7ffb8]
+## 4. Relevant investments[^c-c870ef14fa07ac06ddd1a6b25ae7ffb8]
 
 Controlled investments are specified for the purposes of section 93(5) of the Act.
 
@@ -124,7 +124,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00001]: Footnote: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-122e40f2511f0ca1ac3138d805d0ad2d]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/637/article/1/1)
+[^c-122e40f2511f0ca1ac3138d805d0ad2d]: Commencement: Art. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/637/article/1/1)
 
 [^f00002]: Footnote: [SI 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
@@ -132,11 +132,11 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00004]: Footnote: [SI 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529). Amended by [SI 2006/1969](https://www.legislation.gov.uk/uksi/2006/1969), [SI 2006/2383](https://www.legislation.gov.uk/uksi/2006/2383), [SI 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384), [SI 2009/1342](https://www.legislation.gov.uk/uksi/2009/1342), [SI 2010/86](https://www.legislation.gov.uk/uksi/2010/86), [SI 2011/133](https://www.legislation.gov.uk/uksi/2011/133), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
-[^key-e3420ac482c703788539f42797782082]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/637/article/1/1)
+[^c-e3420ac482c703788539f42797782082]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/637/article/1/1)
 
 [^f00005]: Footnote: Amended by [SI 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544) and [SI 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
 
-[^key-e20ffbab0b5dd2710a86c3f8988ca9e4]: Textual amendment: [Art. 2(b)(ia)-(ii)](https://www.legislation.gov.uk/uksi/2013/637/article/2/b/ia) substituted for art. 2(b)(ii) (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/23)
+[^c-e20ffbab0b5dd2710a86c3f8988ca9e4]: Textual amendment: [Art. 2(b)(ia)-(ii)](https://www.legislation.gov.uk/uksi/2013/637/article/2/b/ia) substituted for art. 2(b)(ii) (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/23)
 
 [^f00006]: Footnote: Amended by [SI 2006/1969](https://www.legislation.gov.uk/uksi/2006/1969).
 
@@ -152,6 +152,6 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00012]: Footnote: Amended by [SI 2002/682](https://www.legislation.gov.uk/uksi/2002/682), [SI 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and [SI 2009/1389](https://www.legislation.gov.uk/uksi/2009/1389).
 
-[^key-19062d821aca01d9adfd7266f485c9de]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2013/637/article/3) substituted (1.4.2015) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2015 (S.I. 2015/369)](https://www.legislation.gov.uk/uksi/2015/369), [arts. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1), [9](https://www.legislation.gov.uk/uksi/2015/369/article/9)
+[^c-19062d821aca01d9adfd7266f485c9de]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2013/637/article/3) substituted (1.4.2015) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2015 (S.I. 2015/369)](https://www.legislation.gov.uk/uksi/2015/369), [arts. 1](https://www.legislation.gov.uk/uksi/2015/369/article/1), [9](https://www.legislation.gov.uk/uksi/2015/369/article/9)
 
-[^key-c870ef14fa07ac06ddd1a6b25ae7ffb8]: Commencement: Art. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/637/article/1/1)
+[^c-c870ef14fa07ac06ddd1a6b25ae7ffb8]: Commencement: Art. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/637/article/1/1)

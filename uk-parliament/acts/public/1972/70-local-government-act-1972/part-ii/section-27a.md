@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27A (Extent: W.). Power of community meeting to apply for an order establishing a community council (Extent: W.)[^key-792a7b25cb38c05b813b9d585c0994b7]
+## 27A (Extent: W.). Power of community meeting to apply for an order establishing a community council (Extent: W.)[^c-792a7b25cb38c05b813b9d585c0994b7]
 
 *Extent: E+W.*
 
@@ -41,4 +41,4 @@ are present and voting at the community meeting. *(Extent: W.)*
 
 ## Annotations
 
-[^key-792a7b25cb38c05b813b9d585c0994b7]: Textual amendment: S. 27A inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 101](https://www.legislation.gov.uk/mwa/2011/4/section/101), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-792a7b25cb38c05b813b9d585c0994b7]: Textual amendment: S. 27A inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 101](https://www.legislation.gov.uk/mwa/2011/4/section/101), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

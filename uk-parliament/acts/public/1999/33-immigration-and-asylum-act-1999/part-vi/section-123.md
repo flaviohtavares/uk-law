@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Back-dating of benefits where person recorded as refugee.[^key-3e425e75c8a523a9ab054d057561020f]
+## 123. Back-dating of benefits where person recorded as refugee.[^c-3e425e75c8a523a9ab054d057561020f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e425e75c8a523a9ab054d057561020f]: Textual amendment: [S. 123](https://www.legislation.gov.uk/ukpga/1999/33/section/123) repealed (14.6.2007) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/12/1), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/4))
+[^c-3e425e75c8a523a9ab054d057561020f]: Textual amendment: [S. 123](https://www.legislation.gov.uk/ukpga/1999/33/section/123) repealed (14.6.2007) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2004/19/section/12/1), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/4))

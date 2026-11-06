@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Power to prescribe[^key-46d141339e398608b790deeb0718c6dc]
+## 15. Power to prescribe[^c-46d141339e398608b790deeb0718c6dc]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46d141339e398608b790deeb0718c6dc]: Commencement: Reg. 15 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-46d141339e398608b790deeb0718c6dc]: Commencement: Reg. 15 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).

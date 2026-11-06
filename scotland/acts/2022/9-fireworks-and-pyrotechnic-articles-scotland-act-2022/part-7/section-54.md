@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Crown application: criminal offences[^key-2ed11dbee56abee8e1900f56028d53ce][^key-b1df3f46311b204557f344d5570a8da9]
+## 54. Crown application: criminal offences[^c-2ed11dbee56abee8e1900f56028d53ce][^c-b1df3f46311b204557f344d5570a8da9]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ed11dbee56abee8e1900f56028d53ce]: Commencement: S. 54 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-2ed11dbee56abee8e1900f56028d53ce]: Commencement: S. 54 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-b1df3f46311b204557f344d5570a8da9]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2022/9/section/54) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-b1df3f46311b204557f344d5570a8da9]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2022/9/section/54) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

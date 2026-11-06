@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Employment Rights (Increase of Limits) Order (Northern Ireland) 2006 (revoked)[^key-84089199b3c321e211d3365ad6b93463]
+Employment Rights (Increase of Limits) Order (Northern Ireland) 2006 (revoked)[^c-84089199b3c321e211d3365ad6b93463]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 26th March 2006
 
-[^key-84089199b3c321e211d3365ad6b93463]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84089199b3c321e211d3365ad6b93463]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-84089199b3c321e211d3365ad6b93463]
+## 1. Citation, commencement and interpretation[^c-84089199b3c321e211d3365ad6b93463]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-84089199b3c321e211d3365ad6b93463]
+## 2. Revocation[^c-84089199b3c321e211d3365ad6b93463]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-84089199b3c321e211d3365ad6b93463]
+## 3. Increase of limits[^c-84089199b3c321e211d3365ad6b93463]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-84089199b3c321e211d3365ad6b93463]
+## 4. Transitional provisions[^c-84089199b3c321e211d3365ad6b93463]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84089199b3c321e211d3365ad6b93463]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84089199b3c321e211d3365ad6b93463]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF INCREASE OF LIMITS[^key-84089199b3c321e211d3365ad6b93463]
+## SCHEDULE — TABLE OF INCREASE OF LIMITS[^c-84089199b3c321e211d3365ad6b93463]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84089199b3c321e211d3365ad6b93463]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84089199b3c321e211d3365ad6b93463]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84089199b3c321e211d3365ad6b93463]: Textual amendment: Regulations revoked (4.2.2007) by [Employment Rights (Increase of Limits) Order (Northern Ireland) 2007 (S.R. 2007/22)](https://www.legislation.gov.uk/nisr/2007/22), [art. 2](https://www.legislation.gov.uk/nisr/2007/22/article/2), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/22/regulation/1/1) (with [reg. 4](https://www.legislation.gov.uk/nisr/2007/22/regulation/4))
+[^c-84089199b3c321e211d3365ad6b93463]: Textual amendment: Regulations revoked (4.2.2007) by [Employment Rights (Increase of Limits) Order (Northern Ireland) 2007 (S.R. 2007/22)](https://www.legislation.gov.uk/nisr/2007/22), [art. 2](https://www.legislation.gov.uk/nisr/2007/22/article/2), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/22/regulation/1/1) (with [reg. 4](https://www.legislation.gov.uk/nisr/2007/22/regulation/4))

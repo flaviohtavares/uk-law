@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-9a592f5ccde6e31e30925528ccc3711d]
+## 2. Interpretation[^c-9a592f5ccde6e31e30925528ccc3711d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Order “the Act” means the Financial Services and Markets Act 2000.
 
 ## Annotations
 
-[^key-9a592f5ccde6e31e30925528ccc3711d]: Commencement: Art. 2 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9a592f5ccde6e31e30925528ccc3711d]: Commencement: Art. 2 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

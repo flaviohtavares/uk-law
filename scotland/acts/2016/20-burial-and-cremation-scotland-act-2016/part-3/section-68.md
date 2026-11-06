@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Sections 65 and 66: application to sheriff[^key-d6c947e001642629dab014be6d66a514]
+## 68. Sections 65 and 66: application to sheriff[^c-d6c947e001642629dab014be6d66a514]
 
 *Extent: S*
 
-(1) On the application of any person claiming an interest, the sheriff may make an order declaring that the person specified in the order is entitled to make arrangements for the burial , cremation or hydrolysis[^key-1120c1b8bec3e7f9df5906c61eff1d24] of the remains of the deceased person specified in the order—
+(1) On the application of any person claiming an interest, the sheriff may make an order declaring that the person specified in the order is entitled to make arrangements for the burial , cremation or hydrolysis[^c-1120c1b8bec3e7f9df5906c61eff1d24] of the remains of the deceased person specified in the order—
 
 - (a) by virtue of an arrangements on death declaration made by the deceased, or
 - (b) by virtue of section 65(2) or 66(2).
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6c947e001642629dab014be6d66a514]: Commencement: S. 68 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-d6c947e001642629dab014be6d66a514]: Commencement: S. 68 in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
-[^key-1120c1b8bec3e7f9df5906c61eff1d24]: Textual amendment: Words in [s. 68(1)](https://www.legislation.gov.uk/asp/2016/20/section/68/1) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/6)
+[^c-1120c1b8bec3e7f9df5906c61eff1d24]: Textual amendment: Words in [s. 68(1)](https://www.legislation.gov.uk/asp/2016/20/section/68/1) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/6)

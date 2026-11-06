@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Higher Education Funding Council for England[^key-7bdfaf95b9971bb53d2602335e104d39]
+## 81. Higher Education Funding Council for England[^c-7bdfaf95b9971bb53d2602335e104d39]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Higher Education Funding Council for England ceases to exist.
 
 ## Annotations
 
-[^key-7bdfaf95b9971bb53d2602335e104d39]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/29/section/81) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)
+[^c-7bdfaf95b9971bb53d2602335e104d39]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2017/29/section/81) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)

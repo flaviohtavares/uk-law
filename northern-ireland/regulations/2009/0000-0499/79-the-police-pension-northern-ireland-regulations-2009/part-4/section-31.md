@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Repayment of aggregate pension contributions[^key-3d67e30b1617ae3204a4b101eee880cb]
+## 31. Repayment of aggregate pension contributions[^c-3d67e30b1617ae3204a4b101eee880cb]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d67e30b1617ae3204a4b101eee880cb]: Commencement: Reg. 31 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-3d67e30b1617ae3204a4b101eee880cb]: Commencement: Reg. 31 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

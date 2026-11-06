@@ -24,7 +24,7 @@ summary: ''
 
 ### Debtors (Scotland) Act 1987
 
-**1.**[^key-de9c2435b8c3eec30c1b8282ccb7bd45] (1) The Debtors (Scotland) Act 1987 (c.18) is amended as follows.
+**1.**[^c-de9c2435b8c3eec30c1b8282ccb7bd45] (1) The Debtors (Scotland) Act 1987 (c.18) is amended as follows.
 
 (2) In section 1 (time to pay directions)—
 
@@ -68,7 +68,7 @@ summary: ''
 
 ### Environment Act 1995
 
-**2.**[^key-9535c6c7096523e50d9ff9ab8a422f63] (1) The Environment Act 1995 (c.25) is amended as follows.
+**2.**[^c-9535c6c7096523e50d9ff9ab8a422f63] (1) The Environment Act 1995 (c.25) is amended as follows.
 
 (2) In section 51 (provision of information)—
 
@@ -98,51 +98,51 @@ summary: ''
 
 ### Public Finance and Accountability (Scotland) Act 2000
 
-**3.**[^key-dd36b0a9f674b156891c2853c54f690d] In section 9(1) of the Public Finance and Accountability (Scotland) Act 2000 (asp 1) (Keeper of the Registers of Scotland: financial arrangements), after “Sums” insert “ (other than payments of or in connection with land and buildings transaction tax) ”.
+**3.**[^c-dd36b0a9f674b156891c2853c54f690d] In section 9(1) of the Public Finance and Accountability (Scotland) Act 2000 (asp 1) (Keeper of the Registers of Scotland: financial arrangements), after “Sums” insert “ (other than payments of or in connection with land and buildings transaction tax) ”.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000
 
-**4.**[^key-3872c5d37d8c02313d2dc0b1935b4793] In the Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7), in schedule 3 (devolved public bodies), at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
+**4.**[^c-3872c5d37d8c02313d2dc0b1935b4793] In the Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7), in schedule 3 (devolved public bodies), at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**5.**[^key-da63ebc33eb9846fb3d110fc113d02f7] In the Freedom of Information (Scotland) Act 2002 (asp 13), in Part 2 of schedule 1 (Scottish public authorities), at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
+**5.**[^c-da63ebc33eb9846fb3d110fc113d02f7] In the Freedom of Information (Scotland) Act 2002 (asp 13), in Part 2 of schedule 1 (Scottish public authorities), at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
 
 ### Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
-**6.**[^key-48662396fbd68c0fefc717c9cda32d60] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), in schedule 2 (the specified authorities), under the heading “Executive bodies” at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
+**6.**[^c-48662396fbd68c0fefc717c9cda32d60] In the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4), in schedule 2 (the specified authorities), under the heading “Executive bodies” at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**7.**[^key-2a5222f832aeaa6251e32b6f57e251ff] In the Public Services Reform (Scotland) Act 2010 (asp 8), in schedule 8 (listed public bodies), at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
+**7.**[^c-2a5222f832aeaa6251e32b6f57e251ff] In the Public Services Reform (Scotland) Act 2010 (asp 8), in schedule 8 (listed public bodies), at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
 
 ### Public Records (Scotland) Act 2011
 
-**8.**[^key-6e839e6e1dd60c3e6d757ccf558f3cc0] In the Public Records (Scotland) Act 2011 (asp 12), in the schedule, under the heading “Scottish Administration” at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
+**8.**[^c-6e839e6e1dd60c3e6d757ccf558f3cc0] In the Public Records (Scotland) Act 2011 (asp 12), in the schedule, under the heading “Scottish Administration” at the appropriate place in alphabetical order insert— “ Revenue Scotland ”.
 
 ### Land and Buildings Transaction Tax (Scotland) Act 2013
 
-**9.**[^c22229771] (1)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] The LBTT(S) Act 2013 is amended as follows.
+**9.**[^c22229771] (1)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] The LBTT(S) Act 2013 is amended as follows.
 
-(2)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 10 (substantial performance without completion), after subsection (5) insert—
+(2)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 10 (substantial performance without completion), after subsection (5) insert—
 
 > (5A) For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 .
 
-(3)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 11 (contract providing for conveyance to third party), after subsection (6) insert—
+(3)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 11 (contract providing for conveyance to third party), after subsection (6) insert—
 
 > (6A) For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 .
 
-(4)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 27 (reliefs), after subsection (2) insert—
+(4)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 27 (reliefs), after subsection (2) insert—
 
 > (2A) For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 .
 
-(5)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 32 (contingency ceases or consideration ascertained: less tax payable)—
+(5)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 32 (contingency ceases or consideration ascertained: less tax payable)—
 
 - (a) in subsection (2)(b), after “Authority” insert “ under section 107 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) ”,
 - (b) after subsection (2) insert—
@@ -151,7 +151,7 @@ summary: ''
 
   .
 
-(6)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] In section 35 (form and content of returns), in subsection (1)—
+(6)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] In section 35 (form and content of returns), in subsection (1)—
 
 - (a) the word “and” after paragraph (a) is repealed,
 - (b) after paragraph (b) insert
@@ -162,9 +162,9 @@ summary: ''
 
   .
 
-(7)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] Section 37 (amendment of returns) is repealed.
+(7)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] Section 37 (amendment of returns) is repealed.
 
-(8)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] After section 37 insert—
+(8)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] After section 37 insert—
 
 > **37A. Communications from taxpayers to the Tax Authority**
 >
@@ -180,36 +180,36 @@ summary: ''
 
 .
 
-(9)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] In section 41(2) (application to defer payment in case of contingent or uncertain consideration), subsection (2) is repealed.
+(9)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] In section 41(2) (application to defer payment in case of contingent or uncertain consideration), subsection (2) is repealed.
 
-(10)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 48 (joint buyers), after subsection (3) insert—
+(10)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 48 (joint buyers), after subsection (3) insert—
 
 > (3A) See also section 247 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) (reviews, appeals etc. where joint buyers).
 
 .
 
-(11)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 50 (trusts), after subsection (2) insert—
+(11)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 50 (trusts), after subsection (2) insert—
 
 > (3) See also section 248 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) (reviews, appeals etc.: trustees).
 
 .
 
-(12)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 54 (the Tax Authority)—
+(12)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] In section 54 (the Tax Authority)—
 
 - (a) in subsection (1), for “the Scottish Ministers” substitute “ Revenue Scotland ”,
 - (b) subsection (2) is repealed.
 
-(13)[^key-b2ece25cd258b00a161abf6d2cc28aa2] Section 55 (delegation of functions to Keeper) is repealed.
+(13)[^c-b2ece25cd258b00a161abf6d2cc28aa2] Section 55 (delegation of functions to Keeper) is repealed.
 
-(14)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] Section 56 (review and appeal) is repealed.
+(14)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] Section 56 (review and appeal) is repealed.
 
-(15)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] In section 63(2)(a) (meaning of “effective date” of transaction), for “settlement” substitute “ completion ”.
+(15)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] In section 63(2)(a) (meaning of “effective date” of transaction), for “settlement” substitute “ completion ”.
 
 (16) In section 68 (subordinate legislation)—
 
-- (a)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] in subsection (2), paragraph (h) is repealed,
-- (b)[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f] in subsection (3), paragraph (c) is repealed,
-- (c)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] after subsection (6) insert—
+- (a)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] in subsection (2), paragraph (h) is repealed,
+- (b)[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f] in subsection (3), paragraph (c) is repealed,
+- (c)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] after subsection (6) insert—
 
   > (6A) Subsection (4)(b) is without prejudice to—
   >
@@ -218,13 +218,13 @@ summary: ''
 
   .
 
-(17)[^key-b2ece25cd258b00a161abf6d2cc28aa2] In section 70(1) (commencement), “55,” is repealed.
+(17)[^c-b2ece25cd258b00a161abf6d2cc28aa2] In section 70(1) (commencement), “55,” is repealed.
 
-(18)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] In schedule 2 (chargeable consideration), in paragraph 16(1)(a)(ii), for “1982” substitute “ 1992 ”.
+(18)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] In schedule 2 (chargeable consideration), in paragraph 16(1)(a)(ii), for “1982” substitute “ 1992 ”.
 
-(19)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] In schedule 5 (multiple dwellings relief), in paragraph 18(b), for “effect” substitute “ effective ”.
+(19)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] In schedule 5 (multiple dwellings relief), in paragraph 18(b), for “effect” substitute “ effective ”.
 
-(20)[^key-d4e53c77d4dd16a8611868ab07d11513] In schedule 10 (group relief)—
+(20)[^c-d4e53c77d4dd16a8611868ab07d11513] In schedule 10 (group relief)—
 
 - (a) in paragraph 1(2), after “withdrawn” insert— “ Part 3A provides for recovery of tax where relief is withdrawn, ”,
 - (b) after paragraph 42 insert—
@@ -280,10 +280,10 @@ summary: ''
 
 (21) In schedule 11 (reconstruction relief and acquisition relief)—
 
-- (a)[^key-d4e53c77d4dd16a8611868ab07d11513] in paragraph 1(2), after “withdrawn” insert— “ Part 4A provides for recovery of tax where relief is withdrawn, ”,
-- (b)[^key-b2ece25cd258b00a161abf6d2cc28aa2] in paragraph 5, for “(c) and (d)” substitute “ (b) and (c) ”,
-- (c)[^key-b2ece25cd258b00a161abf6d2cc28aa2] in paragraph 9(a), for second “person” substitute “ persons ”,
-- (d)[^key-d4e53c77d4dd16a8611868ab07d11513] after paragraph 35 insert—
+- (a)[^c-d4e53c77d4dd16a8611868ab07d11513] in paragraph 1(2), after “withdrawn” insert— “ Part 4A provides for recovery of tax where relief is withdrawn, ”,
+- (b)[^c-b2ece25cd258b00a161abf6d2cc28aa2] in paragraph 5, for “(c) and (d)” substitute “ (b) and (c) ”,
+- (c)[^c-b2ece25cd258b00a161abf6d2cc28aa2] in paragraph 9(a), for second “person” substitute “ persons ”,
+- (d)[^c-d4e53c77d4dd16a8611868ab07d11513] after paragraph 35 insert—
 
   > **PART 4A — Recovery of relief**
   >
@@ -336,15 +336,15 @@ summary: ''
 (22) In schedule 17 (partnerships)—
 
 - (a) in paragraph 35 (election by property-investment partnership)—
-  - (i)[^key-c81b36bcd5bf524fb7bf209b9db5fd34] in sub-paragraph (1), for “paragraph” substitute “ Part ”,
-  - (ii)[^key-d4e53c77d4dd16a8611868ab07d11513] after sub-paragraph (3) insert—
+  - (i)[^c-c81b36bcd5bf524fb7bf209b9db5fd34] in sub-paragraph (1), for “paragraph” substitute “ Part ”,
+  - (ii)[^c-d4e53c77d4dd16a8611868ab07d11513] after sub-paragraph (3) insert—
 
     > (3A) For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
     ,
-- (b)[^key-d4e53c77d4dd16a8611868ab07d11513] in paragraph 38 (application of group relief to certain partnership transactions), in sub-paragraph (4), for “42” substitute “ 42K ”.
+- (b)[^c-d4e53c77d4dd16a8611868ab07d11513] in paragraph 38 (application of group relief to certain partnership transactions), in sub-paragraph (4), for “42” substitute “ 42K ”.
 
-(23)[^key-d4e53c77d4dd16a8611868ab07d11513] In schedule 19 (leases), in paragraph 25 (agreement for lease substantially performed etc.), after sub-paragraph (7) insert—
+(23)[^c-d4e53c77d4dd16a8611868ab07d11513] In schedule 19 (leases), in paragraph 25 (agreement for lease substantially performed etc.), after sub-paragraph (7) insert—
 
 > (7A) For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
@@ -352,9 +352,9 @@ summary: ''
 
 ### Landfill Tax (Scotland) Act 2014
 
-**10.**[^c22229781] (1)[^key-c60ea35dfe371e6874622fa77b4452d9] The LT(S) Act 2014 is amended as follows.
+**10.**[^c22229781] (1)[^c-c60ea35dfe371e6874622fa77b4452d9] The LT(S) Act 2014 is amended as follows.
 
-(2)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 15 (weight of materials disposed of)—
+(2)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 15 (weight of materials disposed of)—
 
 - (a) in subsection (2)(c), for “an authorised person” substitute “ a designated officer ”,
 - (b) in subsection (4), for “an authorised person” substitute “ a designated officer ”,
@@ -364,23 +364,23 @@ summary: ''
 
   .
 
-(3)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 18 (credit: general), after subsection (6) insert—
+(3)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 18 (credit: general), after subsection (6) insert—
 
 > (6A) The regulations may provide for section 107 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) to apply (with or without modifications) to a claim under this section by a person who has ceased to be registrable as it applies to a claim under that section.
 
 .
 
-(4)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 22 (registration), in subsection (9), paragraph (b) is repealed.
+(4)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 22 (registration), in subsection (9), paragraph (b) is repealed.
 
-(5)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 23 (information required to keep register up to date), in subsection (2), paragraph (b) is repealed.
+(5)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 23 (information required to keep register up to date), in subsection (2), paragraph (b) is repealed.
 
-(6)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 25 (accounting for tax and time for payment), for paragraph (b) substitute—
+(6)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 25 (accounting for tax and time for payment), for paragraph (b) substitute—
 
 > - (b) make returns in relation to such accounting periods,
 
 .
 
-(7)[^key-c60ea35dfe371e6874622fa77b4452d9] After section 25 insert—
+(7)[^c-c60ea35dfe371e6874622fa77b4452d9] After section 25 insert—
 
 > **25A. Form and content of returns**
 >
@@ -408,31 +408,31 @@ summary: ''
 
 .
 
-(8)[^key-c60ea35dfe371e6874622fa77b4452d9] Section 26 (time of disposal where invoice issued) is repealed.
+(8)[^c-c60ea35dfe371e6874622fa77b4452d9] Section 26 (time of disposal where invoice issued) is repealed.
 
-(9)[^key-698932b712d42408a28f369f0c38d340] Section 28 (evidence about tax status) is repealed.
+(9)[^c-698932b712d42408a28f369f0c38d340] Section 28 (evidence about tax status) is repealed.
 
-(10)[^key-698932b712d42408a28f369f0c38d340] Section 29 (recovery of overpaid tax) is repealed.
+(10)[^c-698932b712d42408a28f369f0c38d340] Section 29 (recovery of overpaid tax) is repealed.
 
-(11)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 30(3)(a) (information: material at landfill sites), for “an authorised person” substitute “ a designated officer ”.
+(11)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 30(3)(a) (information: material at landfill sites), for “an authorised person” substitute “ a designated officer ”.
 
-(12)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 31(1) (information: site restoration)—
+(12)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 31(1) (information: site restoration)—
 
 - (a) in paragraph (a), “in writing” is repealed,
 - (b) in paragraph (b), “written” is repealed.
 
-(13)[^key-698932b712d42408a28f369f0c38d340] Sections 32 and 33 (record keeping) are repealed.
+(13)[^c-698932b712d42408a28f369f0c38d340] Sections 32 and 33 (record keeping) are repealed.
 
-(14)[^key-698932b712d42408a28f369f0c38d340] In section 34 (the Tax Authority)—
+(14)[^c-698932b712d42408a28f369f0c38d340] In section 34 (the Tax Authority)—
 
 - (a) in subsection (1), for “the Scottish Ministers” substitute “ Revenue Scotland ”,
 - (b) subsection (2) is repealed.
 
-(15)[^key-3a8996d935a349af7f58a6f127892960] Section 35 (delegation of functions to SEPA) is repealed.
+(15)[^c-3a8996d935a349af7f58a6f127892960] Section 35 (delegation of functions to SEPA) is repealed.
 
-(16)[^key-698932b712d42408a28f369f0c38d340] Section 36 (review and appeal) is repealed.
+(16)[^c-698932b712d42408a28f369f0c38d340] Section 36 (review and appeal) is repealed.
 
-(17)[^key-c60ea35dfe371e6874622fa77b4452d9] In section 39 (interpretation), for the definition of “authorised person” substitute—
+(17)[^c-c60ea35dfe371e6874622fa77b4452d9] In section 39 (interpretation), for the definition of “authorised person” substitute—
 
 > “**designated officer**” has the meaning given by section 252 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) (general interpretation),
 
@@ -440,20 +440,20 @@ summary: ''
 
 (18) In section 41 (subordinate legislation)—
 
-- (a)[^key-c60ea35dfe371e6874622fa77b4452d9] in subsection (2)—
+- (a)[^c-c60ea35dfe371e6874622fa77b4452d9] in subsection (2)—
   - (i) after paragraph (b) insert—
 
     > - (ba) regulations under section 15 which make provision of the type mentioned in section 15(7),
 
     ,
   - (ii) paragraph (d) is repealed,
-- (b)[^key-698932b712d42408a28f369f0c38d340] in subsection (7), paragraph (c) is repealed (but not the word “and” immediately following it).
+- (b)[^c-698932b712d42408a28f369f0c38d340] in subsection (7), paragraph (c) is repealed (but not the word “and” immediately following it).
 
-(19)[^key-3a8996d935a349af7f58a6f127892960] In section 43 (commencement), “35,” is repealed.
+(19)[^c-3a8996d935a349af7f58a6f127892960] In section 43 (commencement), “35,” is repealed.
 
 ### Tribunals (Scotland) Act 2014
 
-**11.**[^key-fcdefb2be93d62a017b3a3ae2ccdc3f6] (1) The Tribunals (Scotland) Act 2014 (asp 10) is amended as follows.
+**11.**[^c-fcdefb2be93d62a017b3a3ae2ccdc3f6] (1) The Tribunals (Scotland) Act 2014 (asp 10) is amended as follows.
 
 (2) In schedule 1 (listed tribunals), in Part 1, after paragraph 10 (the entry for “A Police Appeals Tribunal”) insert—
 
@@ -471,7 +471,7 @@ summary: ''
 
 ### Procurement Reform (Scotland) Act 2014
 
-**12.**[^key-85856d601f351d4e7bb7058172c57cef] In the Procurement Reform (Scotland) Act 2014 (asp 12), in Part 1 of the schedule (contracting authorities: Scottish Administration and Scottish Parliament), after paragraph 13 (the entry for the Scottish Housing Regulator) insert—
+**12.**[^c-85856d601f351d4e7bb7058172c57cef] In the Procurement Reform (Scotland) Act 2014 (asp 12), in Part 1 of the schedule (contracting authorities: Scottish Administration and Scottish Parliament), after paragraph 13 (the entry for the Scottish Housing Regulator) insert—
 
 > **13A.** Revenue Scotland
 
@@ -479,40 +479,40 @@ summary: ''
 
 ## Annotations
 
-[^key-de9c2435b8c3eec30c1b8282ccb7bd45]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-de9c2435b8c3eec30c1b8282ccb7bd45]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-9535c6c7096523e50d9ff9ab8a422f63]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/2) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-9535c6c7096523e50d9ff9ab8a422f63]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/2) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-dd36b0a9f674b156891c2853c54f690d]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/3) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-dd36b0a9f674b156891c2853c54f690d]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/3) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-3872c5d37d8c02313d2dc0b1935b4793]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/4) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-3872c5d37d8c02313d2dc0b1935b4793]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/4) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-da63ebc33eb9846fb3d110fc113d02f7]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/5) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-da63ebc33eb9846fb3d110fc113d02f7]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/5) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-48662396fbd68c0fefc717c9cda32d60]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/6) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-48662396fbd68c0fefc717c9cda32d60]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/6) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-2a5222f832aeaa6251e32b6f57e251ff]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/7) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-2a5222f832aeaa6251e32b6f57e251ff]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/7) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-6e839e6e1dd60c3e6d757ccf558f3cc0]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/8) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-6e839e6e1dd60c3e6d757ccf558f3cc0]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/8) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
 [^c22229771]: Commencement: Sch. 4 para. 9 not in force at Royal Assent; Sch. 4 para. 9(12) in force at 25.9.2014, see s. 260(1)
 
-[^key-c81b36bcd5bf524fb7bf209b9db5fd34]: Commencement: Sch. 4 para. 9(1) (6) (8) (9) (15) (16)(a) (16)(c) (18) (19) (22)(a)(i) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-c81b36bcd5bf524fb7bf209b9db5fd34]: Commencement: Sch. 4 para. 9(1) (6) (8) (9) (15) (16)(a) (16)(c) (18) (19) (22)(a)(i) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-b97d3d34cb2e8ef2f1e82bfc714aa10f]: Commencement: Sch. 4 para. 9(2)-(5) (7) (10)(11) (14) (16)(b) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-b97d3d34cb2e8ef2f1e82bfc714aa10f]: Commencement: Sch. 4 para. 9(2)-(5) (7) (10)(11) (14) (16)(b) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-b2ece25cd258b00a161abf6d2cc28aa2]: Commencement: Sch. 4 para. 9(13) (17) (21)(b) (21)(c) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-b2ece25cd258b00a161abf6d2cc28aa2]: Commencement: Sch. 4 para. 9(13) (17) (21)(b) (21)(c) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-d4e53c77d4dd16a8611868ab07d11513]: Commencement: Sch. 4 para. 9(20) (21)(a) (21)(d) (22)(a)(ii) (22)(b) (23) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d4e53c77d4dd16a8611868ab07d11513]: Commencement: Sch. 4 para. 9(20) (21)(a) (21)(d) (22)(a)(ii) (22)(b) (23) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
 [^c22229781]: Commencement: Sch. 4 para. 10 not in force at Royal Assent; Sch. 4 para. 10(14) in force at 25.9.2014, see s. 260(1)
 
-[^key-c60ea35dfe371e6874622fa77b4452d9]: Commencement: Sch. 4 para. 10(1)-(8) (11) (12) (17) (18)(a) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-c60ea35dfe371e6874622fa77b4452d9]: Commencement: Sch. 4 para. 10(1)-(8) (11) (12) (17) (18)(a) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-698932b712d42408a28f369f0c38d340]: Commencement: Sch. 4 para. 10(9) (10) (13) (16) (18)(b) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-698932b712d42408a28f369f0c38d340]: Commencement: Sch. 4 para. 10(9) (10) (13) (16) (18)(b) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-3a8996d935a349af7f58a6f127892960]: Commencement: Sch. 4 para. 10(15) (19) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-3a8996d935a349af7f58a6f127892960]: Commencement: Sch. 4 para. 10(15) (19) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-fcdefb2be93d62a017b3a3ae2ccdc3f6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/11) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-fcdefb2be93d62a017b3a3ae2ccdc3f6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/11) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-85856d601f351d4e7bb7058172c57cef]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/12) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-85856d601f351d4e7bb7058172c57cef]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/12) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

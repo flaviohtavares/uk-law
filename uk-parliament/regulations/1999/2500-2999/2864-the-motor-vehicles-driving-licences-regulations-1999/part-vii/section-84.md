@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Review[^key-6ce8f8cdde7fa636e77b869ecca9ca8c]
+## 84. Review[^c-6ce8f8cdde7fa636e77b869ecca9ca8c]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ce8f8cdde7fa636e77b869ecca9ca8c]: Textual amendment: [Reg. 84](https://www.legislation.gov.uk/uksi/1999/2864/regulation/84) and cross-heading added (4.1.2016) by [The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015 (S.I. 2015/2004)](https://www.legislation.gov.uk/uksi/2015/2004), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2004/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/2004/regulation/3/3)
+[^c-6ce8f8cdde7fa636e77b869ecca9ca8c]: Textual amendment: [Reg. 84](https://www.legislation.gov.uk/uksi/1999/2864/regulation/84) and cross-heading added (4.1.2016) by [The Road Traffic Offenders Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2015 (S.I. 2015/2004)](https://www.legislation.gov.uk/uksi/2015/2004), [regs. 1](https://www.legislation.gov.uk/uksi/2015/2004/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/2004/regulation/3/3)

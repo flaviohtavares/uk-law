@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 239. Service of notices and documents[^key-679cfca4c9472b09c50fcadf4bc9dafd][^key-a728b0269174050763d6cd769d95fc86]
+## 239. Service of notices and documents[^c-679cfca4c9472b09c50fcadf4bc9dafd][^c-a728b0269174050763d6cd769d95fc86]
 
 *Extent: N.I.*
 
@@ -52,17 +52,17 @@ and for this purpose “**legible in all material respects**” means that the i
 
 (5) Where a person is no longer willing to accept the use of electronic communications for any purpose of this Act which is capable of being carried out electronically, he or she must give notice in writing—
 
-- (a) withdrawing any address notified to the council, the Department for Communities, the Department for Infrastructure[^key-27d89fa682f3cd04360bd44a197c984c] or the planning appeals commission for that purpose; or
-- (b) revoking any agreement entered into or deemed to have been entered into with the council, the Department for Communities, the Department for Infrastructure[^key-66199be9ef15a784a6f0dc17b7a2c1b6] or the planning appeals commission for that purpose,
+- (a) withdrawing any address notified to the council, the Department for Communities, the Department for Infrastructure[^c-27d89fa682f3cd04360bd44a197c984c] or the planning appeals commission for that purpose; or
+- (b) revoking any agreement entered into or deemed to have been entered into with the council, the Department for Communities, the Department for Infrastructure[^c-66199be9ef15a784a6f0dc17b7a2c1b6] or the planning appeals commission for that purpose,
 
 and such withdrawal or revocation shall be final and shall take effect on a date specified by the person in the notice but not less than 7 days after the date on which the notice is given.
 
 ## Annotations
 
-[^key-679cfca4c9472b09c50fcadf4bc9dafd]: Commencement: S. 239 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-679cfca4c9472b09c50fcadf4bc9dafd]: Commencement: S. 239 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-a728b0269174050763d6cd769d95fc86]: Commencement: S. 239 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-a728b0269174050763d6cd769d95fc86]: Commencement: S. 239 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-27d89fa682f3cd04360bd44a197c984c]: Textual amendment: Words in [s. 239(5)(a)](https://www.legislation.gov.uk/nia/2011/25/section/239/5/a) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 83(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/83/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-27d89fa682f3cd04360bd44a197c984c]: Textual amendment: Words in [s. 239(5)(a)](https://www.legislation.gov.uk/nia/2011/25/section/239/5/a) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 83(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/83/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-66199be9ef15a784a6f0dc17b7a2c1b6]: Textual amendment: Words in [s. 239(5)(b)](https://www.legislation.gov.uk/nia/2011/25/section/239/5/b) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 83(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/83/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-66199be9ef15a784a6f0dc17b7a2c1b6]: Textual amendment: Words in [s. 239(5)(b)](https://www.legislation.gov.uk/nia/2011/25/section/239/5/b) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 83(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/83/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

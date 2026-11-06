@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Termination of membership on ceasing to be member of council[^key-ffa07db0368402e75e11e68021c06015]
+## 18. Termination of membership on ceasing to be member of council[^c-ffa07db0368402e75e11e68021c06015]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa07db0368402e75e11e68021c06015]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2014/8/section/18) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-ffa07db0368402e75e11e68021c06015]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2014/8/section/18) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

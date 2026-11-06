@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Procedure regarding certain approvals, etc.[^key-c6d8a24ed6a05d17dcd6ac8f04f85d31]
+## 38. Procedure regarding certain approvals, etc.[^c-c6d8a24ed6a05d17dcd6ac8f04f85d31]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6d8a24ed6a05d17dcd6ac8f04f85d31]: Commencement: Art. 38 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-c6d8a24ed6a05d17dcd6ac8f04f85d31]: Commencement: Art. 38 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

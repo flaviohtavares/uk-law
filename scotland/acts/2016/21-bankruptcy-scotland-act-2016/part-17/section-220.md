@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 220. Summary proceedings[^key-960806782a8dacd5da1049861c75a873]
+## 220. Summary proceedings[^c-960806782a8dacd5da1049861c75a873]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-960806782a8dacd5da1049861c75a873]: Commencement: S. 220 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-960806782a8dacd5da1049861c75a873]: Commencement: S. 220 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

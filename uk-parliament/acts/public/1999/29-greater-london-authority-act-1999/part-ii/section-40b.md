@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40B. Mayor’s power to convene meetings with local partners[^key-7eeb21aa940d08be20ddfa898e0833ef]
+## 40B. Mayor’s power to convene meetings with local partners[^c-7eeb21aa940d08be20ddfa898e0833ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eeb21aa940d08be20ddfa898e0833ef]: Textual amendment: S. 40B and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 22(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/22/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-7eeb21aa940d08be20ddfa898e0833ef]: Textual amendment: S. 40B and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 22(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/22/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

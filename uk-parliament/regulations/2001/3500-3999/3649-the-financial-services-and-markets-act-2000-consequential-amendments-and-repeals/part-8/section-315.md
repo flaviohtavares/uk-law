@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315. Listing particulars of nominated holding companies[^key-0fbae1b781aacad006b588256deb4030]
+## 315. Listing particulars of nominated holding companies[^c-0fbae1b781aacad006b588256deb4030]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fbae1b781aacad006b588256deb4030]: Commencement: Art. 315 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0fbae1b781aacad006b588256deb4030]: Commencement: Art. 315 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

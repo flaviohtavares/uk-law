@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Bank’s administrative costs[^key-8c0bc49a44d2d03e3b041c6d74206e95][^key-6fd5fc839191b76b64e45da4410fc797]
+## 24. Bank’s administrative costs[^c-8c0bc49a44d2d03e3b041c6d74206e95][^c-6fd5fc839191b76b64e45da4410fc797]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c0bc49a44d2d03e3b041c6d74206e95]: Commencement: S. 24 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-8c0bc49a44d2d03e3b041c6d74206e95]: Commencement: S. 24 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-6fd5fc839191b76b64e45da4410fc797]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/28/section/24) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-6fd5fc839191b76b64e45da4410fc797]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2025/28/section/24) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

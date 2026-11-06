@@ -52,7 +52,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 The Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, that provisions of the following Regulations come into force on such day as the Treasury may by regulations under section 52 of that Act appoint.
 
-## 1. Citation and commencement[^key-10425169b7aaf236a5eee1955e2feccf][^key-10425169b7aaf236a5eee1955e2feccf][^key-b9130c7261e8d0ec35a3c7877259c7cf]
+## 1. Citation and commencement[^c-10425169b7aaf236a5eee1955e2feccf][^c-10425169b7aaf236a5eee1955e2feccf][^c-b9130c7261e8d0ec35a3c7877259c7cf]
 
 (1) These Regulations may be cited as the Taxation Cross-border Trade (Special Procedures Supplementary and General Provision etc.) (EU Exit) Regulations 2020.
 
@@ -67,13 +67,13 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 (4) Regulation 7 (amendment of the Customs (Records) (EU Exit) Regulations 2019) comes into force on 31st December 2020.
 
-## 2. Interpretation[^key-9a35085fdeee4500fdd6edff7777c211][^key-9a35085fdeee4500fdd6edff7777c211][^key-b9130c7261e8d0ec35a3c7877259c7cf]
+## 2. Interpretation[^c-9a35085fdeee4500fdd6edff7777c211][^c-9a35085fdeee4500fdd6edff7777c211][^c-b9130c7261e8d0ec35a3c7877259c7cf]
 
 In these Regulations—
 
 - “**the Act**” means the Taxation (Cross-border Trade) Act 2018;
 - “**the special procedures regulations**” means the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c24455571];
-- “[^key-3699fe3a9e6cbd57550898479e98e830]**agricultural policy measure**” has the same meaning as in regulation 2 of the special procedures regulations;
+- “[^c-3699fe3a9e6cbd57550898479e98e830]**agricultural policy measure**” has the same meaning as in regulation 2 of the special procedures regulations;
 - “**holder of the procedure**” means—
   - (a) the person in whose name, or on whose behalf, goods have been declared for—
     - (i) an inward processing procedure [^c24455591]; or
@@ -81,9 +81,9 @@ In these Regulations—
   - (b) the person to whom rights and obligations in relation to goods declared for such a procedure have been transferred under regulation 42 of the special procedures regulations;
 - “**non-tariff trade policy measure**” means a provision made by or under any enactment relating to government policy in respect of international trade in goods, other than provisions relating to the amount of import duty;
 - “**processed goods**” means goods which have been released to an inward processing procedure and processed in accordance with that procedure;
-- “[^key-736eb0e19bb8aa154e8c46e131806dd1]**the temporary admission document**” has the same meaning as in regulation 2 of the special procedures regulations.
+- “[^c-736eb0e19bb8aa154e8c46e131806dd1]**the temporary admission document**” has the same meaning as in regulation 2 of the special procedures regulations.
 
-## 3. Discharge of an inward processing procedure[^key-7ae588e64473b95e54711963f6e05558][^key-97bdd145d38f9ea1b49a210a21c23fce][^key-b9130c7261e8d0ec35a3c7877259c7cf]
+## 3. Discharge of an inward processing procedure[^c-7ae588e64473b95e54711963f6e05558][^c-97bdd145d38f9ea1b49a210a21c23fce][^c-b9130c7261e8d0ec35a3c7877259c7cf]
 
 (1) This regulation applies to processed goods where the processing was carried out under an inward processing procedure, but does not apply where—
 
@@ -159,7 +159,7 @@ In these Regulations—
 - “**Tariff of the United Kingdom**” has the same meaning as it has in the Customs Tariff (Establishment) (EU Exit) Regulations 2020 [^c24455701];
 - “**UK Reliefs document**” has the same meaning as it has in the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 [^c24455711].
 
-## 4. Discharge of a temporary admission procedure[^key-1a91d57b91074bd77c673aab710beda1][^key-7e9c9207b8e8f272da3efa97ca4da951][^key-b9130c7261e8d0ec35a3c7877259c7cf]
+## 4. Discharge of a temporary admission procedure[^c-1a91d57b91074bd77c673aab710beda1][^c-7e9c9207b8e8f272da3efa97ca4da951][^c-b9130c7261e8d0ec35a3c7877259c7cf]
 
 (1) This regulation applies where goods (“the declared goods”) have been declared for a temporary admission procedure.
 
@@ -222,7 +222,7 @@ In these Regulations—
 
 (9) In paragraph (8) “**the remaining goods**” means goods which are “remaining section 25 goods” or “remaining section 29 goods”, as the case may be.
 
-## 5. Amendment of the Taxation (Cross-border Trade) Act 2018[^key-06233af2def29d988dd33b0791ac1988][^key-06233af2def29d988dd33b0791ac1988]
+## 5. Amendment of the Taxation (Cross-border Trade) Act 2018[^c-06233af2def29d988dd33b0791ac1988][^c-06233af2def29d988dd33b0791ac1988]
 
 (1) The Act is amended as follows.
 
@@ -249,7 +249,7 @@ In these Regulations—
 
 .
 
-## 6. Modification of the Taxation (Cross-border Trade) Act 2018[^key-566a29a5cae54f9a97bcc5c89b3d8f5c][^key-566a29a5cae54f9a97bcc5c89b3d8f5c]
+## 6. Modification of the Taxation (Cross-border Trade) Act 2018[^c-566a29a5cae54f9a97bcc5c89b3d8f5c][^c-566a29a5cae54f9a97bcc5c89b3d8f5c]
 
 (1) This regulation applies where the arrangements mentioned in section 9(1)(a) of the Act are continuity arrangements.
 
@@ -267,7 +267,7 @@ In these Regulations—
   - (b) an international agreement that relates to trade in goods, other than an agreement falling within sub-paragraph (a);
 - “**the WTO Agreement**” means the agreement establishing the WTO signed at Marrakesh on 15 April 1994 [^c24455751].
 
-## 7. Amendment of the Customs (Records) (EU Exit) Regulations 2019[^key-ad9b8f47ef017463491ab5daba921641]
+## 7. Amendment of the Customs (Records) (EU Exit) Regulations 2019[^c-ad9b8f47ef017463491ab5daba921641]
 
 (1) The Customs (Records) (EU Exit) Regulations 2019 [^c24455761] are amended as follows.
 
@@ -345,25 +345,25 @@ A Tax Information and Impact Note (TIIN) covering this instrument will be publis
 
 [^c24455561]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22) (“**the Act**”). The Treasury is the appropriate Minister for the purposes of section 51(1) by virtue of section 51(4)(b).
 
-[^key-10425169b7aaf236a5eee1955e2feccf]: Commencement: Reg. 1 in force at 16.12.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/a)
+[^c-10425169b7aaf236a5eee1955e2feccf]: Commencement: Reg. 1 in force at 16.12.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/a)
 
-[^key-b9130c7261e8d0ec35a3c7877259c7cf]: Modification: Regs. 1-4 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2020/1605/regulation/36); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b9130c7261e8d0ec35a3c7877259c7cf]: Modification: Regs. 1-4 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2020/1605/regulation/36); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9a35085fdeee4500fdd6edff7777c211]: Commencement: Reg. 2 in force at 16.12.2020, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/b)
+[^c-9a35085fdeee4500fdd6edff7777c211]: Commencement: Reg. 2 in force at 16.12.2020, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/b)
 
 [^c24455571]: Marginal citation: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), amended by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486) and 2019/1215; there are other amending instruments, but none is relevant.
 
-[^key-3699fe3a9e6cbd57550898479e98e830]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1439/regulation/2) substituted (8.6.2022) by [The Customs (Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/615)](https://www.legislation.gov.uk/uksi/2022/615), [regs. 1](https://www.legislation.gov.uk/uksi/2022/615/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/615/regulation/5/2/a)
+[^c-3699fe3a9e6cbd57550898479e98e830]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1439/regulation/2) substituted (8.6.2022) by [The Customs (Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/615)](https://www.legislation.gov.uk/uksi/2022/615), [regs. 1](https://www.legislation.gov.uk/uksi/2022/615/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/615/regulation/5/2/a)
 
 [^c24455591]: Marginal citation: The meaning of “an inward processing procedure” is given in paragraphs 8, 9 and 11 of Schedule 2 to the Act.
 
 [^c24455601]: Marginal citation: The meaning of “a temporary admission procedure” is given in paragraph 15 of Schedule 2 to the Act.
 
-[^key-736eb0e19bb8aa154e8c46e131806dd1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1439/regulation/2) substituted (8.6.2022) by [The Customs (Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/615)](https://www.legislation.gov.uk/uksi/2022/615), [regs. 1](https://www.legislation.gov.uk/uksi/2022/615/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/615/regulation/5/2/b)
+[^c-736eb0e19bb8aa154e8c46e131806dd1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1439/regulation/2) substituted (8.6.2022) by [The Customs (Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/615)](https://www.legislation.gov.uk/uksi/2022/615), [regs. 1](https://www.legislation.gov.uk/uksi/2022/615/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/615/regulation/5/2/b)
 
-[^key-7ae588e64473b95e54711963f6e05558]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
+[^c-7ae588e64473b95e54711963f6e05558]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
 
-[^key-97bdd145d38f9ea1b49a210a21c23fce]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-97bdd145d38f9ea1b49a210a21c23fce]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24455621]: Marginal citation: The meaning of “equivalent domestic goods” is given in paragraph 23(2) of Schedule 2 to the Act.
 
@@ -385,23 +385,23 @@ A Tax Information and Impact Note (TIIN) covering this instrument will be publis
 
 [^c24455711]: Marginal citation: [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431).
 
-[^key-1a91d57b91074bd77c673aab710beda1]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/2)
+[^c-1a91d57b91074bd77c673aab710beda1]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/2)
 
-[^key-7e9c9207b8e8f272da3efa97ca4da951]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1439/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7e9c9207b8e8f272da3efa97ca4da951]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1439/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24455721]: Marginal citation: Cm. 6151. Available electronically from: https://www.unece.org/fileadmin/DAM/trans/conventn/poolcon.pdf. A hard copy is available for inspection free of charge at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-06233af2def29d988dd33b0791ac1988]: Commencement: Reg. 5 in force at 16.12.2020, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/c)
+[^c-06233af2def29d988dd33b0791ac1988]: Commencement: Reg. 5 in force at 16.12.2020, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/c)
 
 [^c24455731]: Marginal citation: [Paragraph 33](https://www.legislation.gov.uk/uksi/2020/1439/paragraph/33) has not yet been brought into force.
 
 [^c24455741]: Marginal citation: [Section 39(1)](https://www.legislation.gov.uk/uksi/2020/1439/section/39/1) of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) was substituted by paragraph 2 of Schedule 21 to the [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
-[^key-566a29a5cae54f9a97bcc5c89b3d8f5c]: Commencement: Reg. 6 in force at 16.12.2020, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/d)
+[^c-566a29a5cae54f9a97bcc5c89b3d8f5c]: Commencement: Reg. 6 in force at 16.12.2020, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/d)
 
 [^c24455751]: Marginal citation: Available from: https://www.wto.org/english/docs\_e/legal\_e/legal\_e.htm.
 
-[^key-ad9b8f47ef017463491ab5daba921641]: Commencement: Reg. 7 in force at 31.12.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/4)
+[^c-ad9b8f47ef017463491ab5daba921641]: Commencement: Reg. 7 in force at 31.12.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/4)
 
 [^c24455761]: Marginal citation: [S.I. 2019/113](https://www.legislation.gov.uk/uksi/2019/113).
 

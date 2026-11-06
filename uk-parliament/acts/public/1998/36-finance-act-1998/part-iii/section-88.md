@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Overseas life assurance business.[^key-be44e9ad727c63681e994ed69f2a5c11]
+## 88. Overseas life assurance business.[^c-be44e9ad727c63681e994ed69f2a5c11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be44e9ad727c63681e994ed69f2a5c11]: Textual amendment: [S. 88](https://www.legislation.gov.uk/ukpga/1998/36/section/88) omitted (with effect in accordance with Sch. 14 para. 18 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/g)
+[^c-be44e9ad727c63681e994ed69f2a5c11]: Textual amendment: [S. 88](https://www.legislation.gov.uk/ukpga/1998/36/section/88) omitted (with effect in accordance with Sch. 14 para. 18 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(g)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/g)

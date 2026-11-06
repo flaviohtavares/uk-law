@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Immunity from prosecution[^key-c6afaf2866b5ea743e0d3059316cb223]
+## 19. Immunity from prosecution[^c-c6afaf2866b5ea743e0d3059316cb223]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,10 +88,10 @@ that has been granted to P in accordance with this section.
 
 (16) Section 39 sets out the effects of a grant of immunity from prosecution.
 
-(17)[^key-ad40975d784bff3f77e0a99359d525f6] This section is subject to Schedule 5.
+(17)[^c-ad40975d784bff3f77e0a99359d525f6] This section is subject to Schedule 5.
 
 ## Annotations
 
-[^key-c6afaf2866b5ea743e0d3059316cb223]: Commencement: S. 19 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-c6afaf2866b5ea743e0d3059316cb223]: Commencement: S. 19 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-ad40975d784bff3f77e0a99359d525f6]: Commencement: [S. 19(17)](https://www.legislation.gov.uk/ukpga/2023/41/section/19/17) in force at 1.12.2023 for specified purposes by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/j)
+[^c-ad40975d784bff3f77e0a99359d525f6]: Commencement: [S. 19(17)](https://www.legislation.gov.uk/ukpga/2023/41/section/19/17) in force at 1.12.2023 for specified purposes by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Financial sustainability requirement[^key-55126be245cfd065f73b400ee278cc51]
+## 12. Financial sustainability requirement[^c-55126be245cfd065f73b400ee278cc51]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55126be245cfd065f73b400ee278cc51]: Commencement: Reg. 12 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-55126be245cfd065f73b400ee278cc51]: Commencement: Reg. 12 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

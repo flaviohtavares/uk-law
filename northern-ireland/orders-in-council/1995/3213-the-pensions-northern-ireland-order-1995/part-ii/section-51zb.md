@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51ZB. Meaning of “cash balance benefit”[^key-17563bb194d52101c9c5155433d711aa]
+## 51ZB. Meaning of “cash balance benefit”[^c-17563bb194d52101c9c5155433d711aa]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17563bb194d52101c9c5155433d711aa]: Textual amendment: Art. 51ZB inserted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 21(4)](https://www.legislation.gov.uk/nia/2012/3/section/21/4), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/f)
+[^c-17563bb194d52101c9c5155433d711aa]: Textual amendment: Art. 51ZB inserted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 21(4)](https://www.legislation.gov.uk/nia/2012/3/section/21/4), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/f)

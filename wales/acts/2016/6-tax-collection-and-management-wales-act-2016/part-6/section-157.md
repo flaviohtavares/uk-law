@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Late payment interest on WRA-collected taxes[^key-52e20844581b524e0eeccfefb4426357][^key-a1cf3e9e852f0069b2fdf178935d9d63][^key-fff3af6ed431e746ec4d55fe1114ea14]
+## 157. Late payment interest on WRA-collected taxes[^c-52e20844581b524e0eeccfefb4426357][^c-a1cf3e9e852f0069b2fdf178935d9d63][^c-fff3af6ed431e746ec4d55fe1114ea14]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
   made in place of a tax return which was required to be made.
 
-(1A)[^key-7f8a83f381865e39cd93ee574dc9a188] This section also applies to an amount of landfill disposals tax charged by a charging notice issued under section 49 or 50 of LDTA.
+(1A)[^c-7f8a83f381865e39cd93ee574dc9a188] This section also applies to an amount of landfill disposals tax charged by a charging notice issued under section 49 or 50 of LDTA.
 
 (2) If the amount is not paid before the late payment interest start date, the amount carries interest (referred to in this Part as “**"late payment interest”**”) at the late payment interest rate for the period—
 
@@ -46,18 +46,18 @@ summary: ''
 
 - (a) in the case of an amount falling within subsection (1)(a) or (b), the date after the filing date for the tax return;
 - (b) in the case of an amount falling within subsection (1)(c) the date after the filing date for the tax return which was required to be made.
-- (c)[^key-68fb431f7a2745b7d4825ec266514728] in the case of an amount falling within subsection (1A), the date immediately after the end of the period specified in section 51 of LDTA.
+- (c)[^c-68fb431f7a2745b7d4825ec266514728] in the case of an amount falling within subsection (1A), the date immediately after the end of the period specified in section 51 of LDTA.
 
 (4) But where section 160 applies the late payment interest start date is the date specified in that section.
 
 ## Annotations
 
-[^key-52e20844581b524e0eeccfefb4426357]: Commencement: S. 157 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-52e20844581b524e0eeccfefb4426357]: Commencement: S. 157 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-a1cf3e9e852f0069b2fdf178935d9d63]: Textual amendment: Ss. 157, 157A, 158 substituted (25.1.2018) for ss. 157, 158 by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 58](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/58); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
+[^c-a1cf3e9e852f0069b2fdf178935d9d63]: Textual amendment: Ss. 157, 157A, 158 substituted (25.1.2018) for ss. 157, 158 by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 58](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/58); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-7f8a83f381865e39cd93ee574dc9a188]: Textual amendment: S. 157(1A) inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 53(2)](https://www.legislation.gov.uk/anaw/2017/3/section/53/2), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-7f8a83f381865e39cd93ee574dc9a188]: Textual amendment: S. 157(1A) inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 53(2)](https://www.legislation.gov.uk/anaw/2017/3/section/53/2), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
 
-[^key-68fb431f7a2745b7d4825ec266514728]: Textual amendment: S. 157(3)(c) inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 53(3)](https://www.legislation.gov.uk/anaw/2017/3/section/53/3), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-68fb431f7a2745b7d4825ec266514728]: Textual amendment: S. 157(3)(c) inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 53(3)](https://www.legislation.gov.uk/anaw/2017/3/section/53/3), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

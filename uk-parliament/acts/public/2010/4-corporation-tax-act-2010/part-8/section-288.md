@@ -33,7 +33,7 @@ summary: ''
 
 (5) Subsection (6) applies to so much (if any) of the expenditure incurred by the lessee under the lease as—
 
-- (a)[^key-81c0fbe8251fc6aa757389aaf7dc0666] falls, in accordance with generally accepted accounting practice, to be treated in the accounts of the lessee—
+- (a)[^c-81c0fbe8251fc6aa757389aaf7dc0666] falls, in accordance with generally accepted accounting practice, to be treated in the accounts of the lessee—
   - (i) as a finance charge, or
   - (ii) as an interest expense where any such expenditure would fall to be treated in those accounts as a finance charge if the lessee were required under generally accepted accounting practice to determine whether that expenditure should be so treated,
 - (aa) if the lease is a right-of-use lease which is a long funding finance lease, falls, in accordance with generally accepted accounting practice, to be treated in the accounts of the lessee as an interest expense, or
@@ -57,11 +57,11 @@ the expenditure is to be brought into account for the purposes of Part 5 of CTA 
 
 (9) In this section—
 
-- “long funding finance lease”, “long funding operating lease” and “right-of-use lease” have the meanings given in Part 2 of[^key-5ae34cefce72cb1e18e375fd075c7fde] CAA 2001 (see section 70YI(1) of that Act),
+- “long funding finance lease”, “long funding operating lease” and “right-of-use lease” have the meanings given in Part 2 of[^c-5ae34cefce72cb1e18e375fd075c7fde] CAA 2001 (see section 70YI(1) of that Act),
 - “**lease**”, in relation to an asset, has the same meaning as in Chapter 3 of Part 19 (see section 868).
 
 ## Annotations
 
-[^key-81c0fbe8251fc6aa757389aaf7dc0666]: Textual amendment: S. 288(5)(a)(aa) substituted for s. 288(5)(a) (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/2/a)
+[^c-81c0fbe8251fc6aa757389aaf7dc0666]: Textual amendment: S. 288(5)(a)(aa) substituted for s. 288(5)(a) (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/2/a)
 
-[^key-5ae34cefce72cb1e18e375fd075c7fde]: Textual amendment: Words in s. 288(9) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/2/b)
+[^c-5ae34cefce72cb1e18e375fd075c7fde]: Textual amendment: Words in s. 288(9) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/2/b)

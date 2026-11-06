@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250D. Restriction zone condition[^key-78a72ca6be27d5f195c65361a6864d80]
+## 250D. Restriction zone condition[^c-78a72ca6be27d5f195c65361a6864d80]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a72ca6be27d5f195c65361a6864d80]: Textual amendment: S. 250D inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/7), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-78a72ca6be27d5f195c65361a6864d80]: Textual amendment: S. 250D inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/7), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

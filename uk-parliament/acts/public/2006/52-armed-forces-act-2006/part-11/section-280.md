@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280. Right to elect trial by Court Martial instead of by SCC[^key-2b048e4eed862fc160ffc17a2bb95db7][^key-9c26ba59d98b55d3fa179c206e64f2ab]
+## 280. Right to elect trial by Court Martial instead of by SCC[^c-2b048e4eed862fc160ffc17a2bb95db7][^c-9c26ba59d98b55d3fa179c206e64f2ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b048e4eed862fc160ffc17a2bb95db7]: Commencement: S. 280 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2b048e4eed862fc160ffc17a2bb95db7]: Commencement: S. 280 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9c26ba59d98b55d3fa179c206e64f2ab]: Commencement: S. 280 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9c26ba59d98b55d3fa179c206e64f2ab]: Commencement: S. 280 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

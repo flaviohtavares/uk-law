@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Control of donations to candidates[^key-04a11dd6ab6be98400f828f4fd81136c]
+## SCHEDULE 6 — Control of donations to candidates[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,60 +24,60 @@ summary: ''
 
 Article 41(4)
 
-### PART 1 — General[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 1 — General[^c-04a11dd6ab6be98400f828f4fd81136c]
 
-#### 1. Interpretation[^key-04a11dd6ab6be98400f828f4fd81136c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Donations: general rules[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 1. Interpretation[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Sponsorship[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 2. Donations: general rules[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Payments etc. not to be regarded as donations[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 3. Sponsorship[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Value of donations[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 4. Payments etc. not to be regarded as donations[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Controls on donations[^key-04a11dd6ab6be98400f828f4fd81136c]
-
-#### 6. Prohibition on accepting donations from impermissible donors[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 5. Value of donations[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Acceptance or return of donations[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 2 — Controls on donations[^c-04a11dd6ab6be98400f828f4fd81136c]
+
+#### 6. Prohibition on accepting donations from impermissible donors[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Transfer of donations received by candidate to election agent[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 7. Acceptance or return of donations[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Evasion of restrictions on donations[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 8. Transfer of donations received by candidate to election agent[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Reporting of donations[^key-04a11dd6ab6be98400f828f4fd81136c]
-
-#### 10. Statement of relevant donations[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 9. Evasion of restrictions on donations[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Donations from permissible donors[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 3 — Reporting of donations[^c-04a11dd6ab6be98400f828f4fd81136c]
+
+#### 10. Statement of relevant donations[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Donations from impermissible donors[^key-04a11dd6ab6be98400f828f4fd81136c]
+#### 11. Donations from permissible donors[^c-04a11dd6ab6be98400f828f4fd81136c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Donations from impermissible donors[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04a11dd6ab6be98400f828f4fd81136c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/236) revoked (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 12 para. 1](https://www.legislation.gov.uk/wsi/2025/864/schedule/12/paragraph/1) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4)[(5)](https://www.legislation.gov.uk/wsi/2025/864/article/1/5), [Sch. 5 rule 70(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/70/3))
+[^c-04a11dd6ab6be98400f828f4fd81136c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/236) revoked (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 12 para. 1](https://www.legislation.gov.uk/wsi/2025/864/schedule/12/paragraph/1) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4)[(5)](https://www.legislation.gov.uk/wsi/2025/864/article/1/5), [Sch. 5 rule 70(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/70/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Restriction on contracting out.[^key-dc2fe7f371c873664d92008c2e7da1f8]
+## 288. Restriction on contracting out.[^c-dc2fe7f371c873664d92008c2e7da1f8]
 
 *Extent: E+W+S*
 
@@ -27,9 +27,9 @@ summary: ''
   - (i) proceedings before an employment tribunal[^c14523521] or the Central Arbitration Committee under any provision of this Act, [^c20398091]. . .
   - (ii) [^c20398091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Subsection (1) does not apply to an agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under— any of sections 18A to 18C[^key-24a83db901e70a883903920ae5ecfff2][^c14523541] of the Employment Tribunals Act 1996 (conciliation)
+(2) Subsection (1) does not apply to an agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under— any of sections 18A to 18C[^c-24a83db901e70a883903920ae5ecfff2][^c14523541] of the Employment Tribunals Act 1996 (conciliation)
 
-(2A)[^c14523561] Subsection (1) does not apply to an agreement to refrain from instituting or continuing any proceedings, other than excepted proceedings, specified in subsection (1)(b) of that section[^c14523571] before an employment tribunal if the conditions regulating settlement[^key-022090f9b124110d9b1fd693d6a844f9] agreements under this Act are satisfied in relation to the agreement.
+(2A)[^c14523561] Subsection (1) does not apply to an agreement to refrain from instituting or continuing any proceedings, other than excepted proceedings, specified in subsection (1)(b) of that section[^c14523571] before an employment tribunal if the conditions regulating settlement[^c-022090f9b124110d9b1fd693d6a844f9] agreements under this Act are satisfied in relation to the agreement.
 
 (2B) The conditions regulating settlement agreements under this Act are that—
 
@@ -82,13 +82,13 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2fe7f371c873664d92008c2e7da1f8]: Modification: S. 288 applied (2.3.2010) by [The Employment Relations Act 1999 (Blacklists) Regulations 2010 (S.I. 2010/493)](https://www.legislation.gov.uk/uksi/2010/493), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/article/1/b), [16](https://www.legislation.gov.uk/uksi/2010/493/regulation/16)
+[^c-dc2fe7f371c873664d92008c2e7da1f8]: Modification: S. 288 applied (2.3.2010) by [The Employment Relations Act 1999 (Blacklists) Regulations 2010 (S.I. 2010/493)](https://www.legislation.gov.uk/uksi/2010/493), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2010/493/article/1/b), [16](https://www.legislation.gov.uk/uksi/2010/493/regulation/16)
 
 [^c14523521]: Textual amendment: Words in s. 288 substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)(c)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a/c) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
 [^c20398091]: Textual amendment: S. 288(1)(b)(ii) and preceding word repealed (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/19), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^key-24a83db901e70a883903920ae5ecfff2]: Textual amendment: Words in [s. 288(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/288/2) substituted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/1); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-24a83db901e70a883903920ae5ecfff2]: Textual amendment: Words in [s. 288(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/288/2) substituted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/1); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
 
 [^c14523541]: Textual amendment: Words in s. 288 substituted for paras. (a) and (b) (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17) ss. 43, 46, Sch. 1 para. 8(a) (with s. 38)
 
@@ -96,7 +96,7 @@ summary: ''
 
 [^c14523571]: Textual amendment: Words in s. 288(2A) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 43](https://www.legislation.gov.uk/ukpga/1996/18/section/43), [46](https://www.legislation.gov.uk/ukpga/1996/18/section/46), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/8/b) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/18/section/38))
 
-[^key-022090f9b124110d9b1fd693d6a844f9]: Textual amendment: Word in s. 288(2A)(2B) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(1)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/1/a), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-022090f9b124110d9b1fd693d6a844f9]: Textual amendment: Word in s. 288(2A)(2B) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(1)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/1/a), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
 
 [^c14523591]: Textual amendment: Word in s. 288(2B)(b) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 15](https://www.legislation.gov.uk/ukpga/1998/8/section/15), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1998/8/schedule/1/paragraph/9/2); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 

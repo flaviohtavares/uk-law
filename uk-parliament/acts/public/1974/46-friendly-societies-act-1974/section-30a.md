@@ -60,7 +60,7 @@ summary: ''
 - (a) was an exempt society or an exempt branch in respect of the preceding year of account, and
 - (b) appointed persons who were not qualified auditors to audit its accounts and balance sheet for that year,
 
-subsection (10) above shall, if the year is not one in relation to which the appropriate authority[^key-2d9931a041147fcd6baaa4a55fcf02c9] has given a direction under section 32(2) below, have effect with the omission of paragraph (a).
+subsection (10) above shall, if the year is not one in relation to which the appropriate authority[^c-2d9931a041147fcd6baaa4a55fcf02c9] has given a direction under section 32(2) below, have effect with the omission of paragraph (a).
 
 (12) In this section—
 
@@ -78,4 +78,4 @@ subsection (10) above shall, if the year is not one in relation to which the app
 
 [^c1073079]: Textual amendment: S. 30A inserted (1.9.1996) by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) arts. 1, 11(3)
 
-[^key-2d9931a041147fcd6baaa4a55fcf02c9]: Textual amendment: Words in [s. 30A(11)](https://www.legislation.gov.uk/ukpga/1974/46/section/30A/11) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-2d9931a041147fcd6baaa4a55fcf02c9]: Textual amendment: Words in [s. 30A(11)](https://www.legislation.gov.uk/ukpga/1974/46/section/30A/11) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

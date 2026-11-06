@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Means of meeting expenditure of Strategic Health Authorities out of public funds[^key-fb67fb32b9a074372ad65d01298215b3]
+## 224. Means of meeting expenditure of Strategic Health Authorities out of public funds[^c-fb67fb32b9a074372ad65d01298215b3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb67fb32b9a074372ad65d01298215b3]: Textual amendment: [S. 224](https://www.legislation.gov.uk/ukpga/2006/41/section/224) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 118](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/118); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-fb67fb32b9a074372ad65d01298215b3]: Textual amendment: [S. 224](https://www.legislation.gov.uk/ukpga/2006/41/section/224) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 118](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/118); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

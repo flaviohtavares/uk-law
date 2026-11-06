@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Power of housing ombudsman to issue guidance to scheme members[^key-ea3bc3e4755479cb631bdece7e6b71a1]
+## 41. Power of housing ombudsman to issue guidance to scheme members[^c-ea3bc3e4755479cb631bdece7e6b71a1]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea3bc3e4755479cb631bdece7e6b71a1]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/36/section/41) in force at 20.9.2023, see [s. 46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)
+[^c-ea3bc3e4755479cb631bdece7e6b71a1]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/36/section/41) in force at 20.9.2023, see [s. 46(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/2)

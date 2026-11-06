@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93A. Relationships linked to the value of chargeable assets: guaranteed returns[^key-657c302823d12784432493b727420ab6]
+## 93A. Relationships linked to the value of chargeable assets: guaranteed returns[^c-657c302823d12784432493b727420ab6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-657c302823d12784432493b727420ab6]: Textual amendment: S. 93A repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/11), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-657c302823d12784432493b727420ab6]: Textual amendment: S. 93A repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/11), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Persons who cease to be authorised to carry on a regulated activity before IP completion day[^key-5c81f22d3506b80de5cc397a288a078c]
+## 26. Persons who cease to be authorised to carry on a regulated activity before IP completion day[^c-5c81f22d3506b80de5cc397a288a078c]
 
 *Extent: E+W+S+N.I.*
 
-(1) The modifications specified in paragraphs (2) and (3) apply in respect of a person to whom, before IP completion day[^key-0932ae20932740dc088fcefe144a59e8], regulation 22(1)(a) ceases to apply.
+(1) The modifications specified in paragraphs (2) and (3) apply in respect of a person to whom, before IP completion day[^c-0932ae20932740dc088fcefe144a59e8], regulation 22(1)(a) ceases to apply.
 
 (2) Section 61 of the 2000 Act (determination of applications) has effect as if, for subsection (3A)(a), there were substituted—
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c81f22d3506b80de5cc397a288a078c]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26) heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(q)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/q)
+[^c-5c81f22d3506b80de5cc397a288a078c]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26) heading substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(q)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/q)
 
-[^key-0932ae20932740dc088fcefe144a59e8]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(q)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/q)
+[^c-0932ae20932740dc088fcefe144a59e8]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2018/1149/regulation/26) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(q)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/q)

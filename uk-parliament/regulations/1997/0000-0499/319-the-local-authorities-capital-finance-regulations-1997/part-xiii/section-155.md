@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Use of amounts set aside in respect of certain capital receipts[^key-5b4d6a15c3247925df22429096c30e18]
+## 155. Use of amounts set aside in respect of certain capital receipts[^c-5b4d6a15c3247925df22429096c30e18]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ An amount set aside in respect of a capital receipt to which regulation 71 appli
 
 ## Annotations
 
-[^key-5b4d6a15c3247925df22429096c30e18]: Commencement: Reg. 155 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5b4d6a15c3247925df22429096c30e18]: Commencement: Reg. 155 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00117]: Footnote: [1948 c. 5](https://www.legislation.gov.uk/ukpga/1948/5).

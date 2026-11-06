@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 604A. Amounts recognised in other comprehensive income and not transferred to profit or loss[^key-2bf8f2b6935a8da916e7184648d840b4]
+## 604A. Amounts recognised in other comprehensive income and not transferred to profit or loss[^c-2bf8f2b6935a8da916e7184648d840b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf8f2b6935a8da916e7184648d840b4]: Textual amendment: S. 604A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/66)
+[^c-2bf8f2b6935a8da916e7184648d840b4]: Textual amendment: S. 604A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/66)

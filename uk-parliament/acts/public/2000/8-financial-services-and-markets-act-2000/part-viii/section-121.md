@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Codes: procedure.[^key-bc97dddedb2e2fdc1649a982dd8b17ea]
+## 121. Codes: procedure.[^c-bc97dddedb2e2fdc1649a982dd8b17ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc97dddedb2e2fdc1649a982dd8b17ea]: Textual amendment: Ss. 118-122 and cross-headings omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/3)
+[^c-bc97dddedb2e2fdc1649a982dd8b17ea]: Textual amendment: Ss. 118-122 and cross-headings omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/3)

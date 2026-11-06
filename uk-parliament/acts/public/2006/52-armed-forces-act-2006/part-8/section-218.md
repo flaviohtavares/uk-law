@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Offenders who commit murder etc when under 18: mandatory detention at Her Majesty's pleasure[^key-1f1c35df020fe2fd14e1036bf8b9a5a1][^key-08f3ba70ec1a1cb6dab092d920368d66]
+## 218. Offenders who commit murder etc when under 18: mandatory detention at Her Majesty's pleasure[^c-1f1c35df020fe2fd14e1036bf8b9a5a1][^c-08f3ba70ec1a1cb6dab092d920368d66]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1c35df020fe2fd14e1036bf8b9a5a1]: Commencement: S. 218 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1f1c35df020fe2fd14e1036bf8b9a5a1]: Commencement: S. 218 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-08f3ba70ec1a1cb6dab092d920368d66]: Commencement: S. 218 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-08f3ba70ec1a1cb6dab092d920368d66]: Commencement: S. 218 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. The Online Procedure Rule Committee[^key-cc3dc2d9f9bd544845cfb4da392cf037][^key-c226bec19bb287a1570bf3cc7fb46bbb]
+## 22. The Online Procedure Rule Committee[^c-cc3dc2d9f9bd544845cfb4da392cf037][^c-c226bec19bb287a1570bf3cc7fb46bbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc3dc2d9f9bd544845cfb4da392cf037]: Commencement: S. 22 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-cc3dc2d9f9bd544845cfb4da392cf037]: Commencement: S. 22 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-c226bec19bb287a1570bf3cc7fb46bbb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/35/section/22) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-c226bec19bb287a1570bf3cc7fb46bbb]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/35/section/22) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

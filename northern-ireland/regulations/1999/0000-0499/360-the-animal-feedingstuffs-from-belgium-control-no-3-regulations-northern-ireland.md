@@ -30,7 +30,7 @@ summary: ''
 
 Food
 
-The Animal Feedingstuffs from Belgium (Control) (No. 3) Regulations (Northern Ireland) 1999 (revoked)[^key-08059a3c80a19d78906c5af04d74275d]
+The Animal Feedingstuffs from Belgium (Control) (No. 3) Regulations (Northern Ireland) 1999 (revoked)[^c-08059a3c80a19d78906c5af04d74275d]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 19th August 1999
 
-[^key-08059a3c80a19d78906c5af04d74275d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08059a3c80a19d78906c5af04d74275d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-08059a3c80a19d78906c5af04d74275d]
+## 1. Citation and commencement[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-08059a3c80a19d78906c5af04d74275d]
+## 2. Interpretation[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions[^key-08059a3c80a19d78906c5af04d74275d]
+## 3. Exemptions[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibitions and offences[^key-08059a3c80a19d78906c5af04d74275d]
+## 4. Prohibitions and offences[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-08059a3c80a19d78906c5af04d74275d]
+## 5. Enforcement[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application and modification of various provisions of the Order[^key-08059a3c80a19d78906c5af04d74275d]
+## 6. Application and modification of various provisions of the Order[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-08059a3c80a19d78906c5af04d74275d]
+## 7. Revocation[^c-08059a3c80a19d78906c5af04d74275d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08059a3c80a19d78906c5af04d74275d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08059a3c80a19d78906c5af04d74275d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08059a3c80a19d78906c5af04d74275d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08059a3c80a19d78906c5af04d74275d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08059a3c80a19d78906c5af04d74275d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/360) revoked (14.10.1999) by [The Animal Feedingstuffs from Belgium (Control) (No. 4) Regulations (Northern Ireland) 1999 (S.R. 1999/422)](https://www.legislation.gov.uk/nisr/1999/422), [regs. 1](https://www.legislation.gov.uk/nisr/1999/422/regulation/1), [7](https://www.legislation.gov.uk/nisr/1999/422/regulation/7)
+[^c-08059a3c80a19d78906c5af04d74275d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/360) revoked (14.10.1999) by [The Animal Feedingstuffs from Belgium (Control) (No. 4) Regulations (Northern Ireland) 1999 (S.R. 1999/422)](https://www.legislation.gov.uk/nisr/1999/422), [regs. 1](https://www.legislation.gov.uk/nisr/1999/422/regulation/1), [7](https://www.legislation.gov.uk/nisr/1999/422/regulation/7)

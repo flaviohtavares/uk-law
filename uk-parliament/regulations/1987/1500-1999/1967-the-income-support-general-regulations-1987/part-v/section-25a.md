@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Child support[^key-a5064b285ecaf7a7cb16ac131eb4e21e]
+## 25A. Child support[^c-a5064b285ecaf7a7cb16ac131eb4e21e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5064b285ecaf7a7cb16ac131eb4e21e]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/25A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/4/a)
+[^c-a5064b285ecaf7a7cb16ac131eb4e21e]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/25A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/4/a)

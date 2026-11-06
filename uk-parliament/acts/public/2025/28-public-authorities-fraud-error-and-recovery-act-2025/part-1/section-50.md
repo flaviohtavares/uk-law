@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Appeals[^key-436c881f6af5d56b183f3c5e4dbac19e][^key-7e1ce825bffc3c936fd19fd66b2838bf]
+## 50. Appeals[^c-436c881f6af5d56b183f3c5e4dbac19e][^c-7e1ce825bffc3c936fd19fd66b2838bf]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-436c881f6af5d56b183f3c5e4dbac19e]: Commencement: S. 50 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-436c881f6af5d56b183f3c5e4dbac19e]: Commencement: S. 50 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-7e1ce825bffc3c936fd19fd66b2838bf]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/28/section/50) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-7e1ce825bffc3c936fd19fd66b2838bf]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/28/section/50) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

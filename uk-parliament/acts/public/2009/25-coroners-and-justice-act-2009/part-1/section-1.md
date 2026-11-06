@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duty to investigate certain deaths[^key-685062dff6155cd7fc01ef17fbe2cd75]
+## 1. Duty to investigate certain deaths[^c-685062dff6155cd7fc01ef17fbe2cd75]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ This is subject to section 3.
 
 ## Annotations
 
-[^key-685062dff6155cd7fc01ef17fbe2cd75]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2009/25/section/1) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-685062dff6155cd7fc01ef17fbe2cd75]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2009/25/section/1) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

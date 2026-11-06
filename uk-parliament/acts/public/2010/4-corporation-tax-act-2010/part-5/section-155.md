@@ -27,7 +27,7 @@ summary: ''
 - (a) for an accounting period (“**the current period**”) the trading company or a member of the consortium has surrenderable amounts, and
 - (b) arrangements within subsection (3) are in place.
 
-(3) Arrangements are within this subsection if they have any of the following effects (but see sections[^key-669eca9738e06997399c54eefdcb0c59] 155A[^key-3af7c1a9f656df496e6afcf9842cad3d] and 155B).
+(3) Arrangements are within this subsection if they have any of the following effects (but see sections[^c-669eca9738e06997399c54eefdcb0c59] 155A[^c-3af7c1a9f656df496e6afcf9842cad3d] and 155B).
 
 - *Effect 1*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-669eca9738e06997399c54eefdcb0c59]: Textual amendment: Words in s. 155(3) inserted (with effect in accordance with art. 15 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2012/266/article/13/3)
+[^c-669eca9738e06997399c54eefdcb0c59]: Textual amendment: Words in s. 155(3) inserted (with effect in accordance with art. 15 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2012/266/article/13/3)
 
-[^key-3af7c1a9f656df496e6afcf9842cad3d]: Textual amendment: Word in s. 155(3) substituted (with effect in accordance with s. 31(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/31/2)
+[^c-3af7c1a9f656df496e6afcf9842cad3d]: Textual amendment: Word in s. 155(3) substituted (with effect in accordance with s. 31(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/31/2)

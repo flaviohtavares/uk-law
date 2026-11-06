@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Further information to be supplied by a person to whom regulation 9 or 13 applies[^key-1946ee8b89f64c8aaea616df51c99348]
+## 26. Further information to be supplied by a person to whom regulation 9 or 13 applies[^c-1946ee8b89f64c8aaea616df51c99348]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1946ee8b89f64c8aaea616df51c99348]: Commencement: Reg. 26 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-1946ee8b89f64c8aaea616df51c99348]: Commencement: Reg. 26 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

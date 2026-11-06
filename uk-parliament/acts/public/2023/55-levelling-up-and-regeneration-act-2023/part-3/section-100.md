@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Requirement to assist with certain plan making[^key-f3baa0525c17079467c954f8c565dde6][^key-2755c95b35b534170318361662c8f370][^key-5e4f03c4084c5b8d2f96b8880952df8b]
+## 100. Requirement to assist with certain plan making[^c-f3baa0525c17079467c954f8c565dde6][^c-2755c95b35b534170318361662c8f370][^c-5e4f03c4084c5b8d2f96b8880952df8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,8 +57,8 @@ In Part 3 of PCPA 2004 (development), after section 39 (sustainable development)
 
 ## Annotations
 
-[^key-f3baa0525c17079467c954f8c565dde6]: Commencement: S. 100 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-f3baa0525c17079467c954f8c565dde6]: Commencement: S. 100 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-2755c95b35b534170318361662c8f370]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/55/section/100) in force at 3.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2)
+[^c-2755c95b35b534170318361662c8f370]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/55/section/100) in force at 3.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2)
 
-[^key-5e4f03c4084c5b8d2f96b8880952df8b]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/55/section/100) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/e) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-5e4f03c4084c5b8d2f96b8880952df8b]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2023/55/section/100) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/e) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

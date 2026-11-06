@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Unconnected multiple employer schemes: ability to pursue continuity option 3[^key-b27aa31f15584c954aa027349981e58a]
+## 17A. Unconnected multiple employer schemes: ability to pursue continuity option 3[^c-b27aa31f15584c954aa027349981e58a]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b27aa31f15584c954aa027349981e58a]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/2021/1/section/17A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2025/1313/regulation/12)
+[^c-b27aa31f15584c954aa027349981e58a]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/2021/1/section/17A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2025/1313/regulation/12)

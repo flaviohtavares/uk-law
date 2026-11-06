@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102.[^key-088083061194e46282d27365933b6b2e]
+## 102.[^c-088083061194e46282d27365933b6b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,14 +37,14 @@ Unless otherwise specified in this Part, these Regulations have effect as if—
   - (ix) regulation 64(3)(a) and (4)(a);
   - (x) regulation 67(7)(a);
   - (xi) regulation 78(5)(a);
-  - (xia)[^key-930dde09d4d942dbd92ae82cfb5d2ae7] regulation 88C(1);
-  - (xii)[^key-5cdbe604eb68f3ff5892741d7c8f8018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xia)[^c-930dde09d4d942dbd92ae82cfb5d2ae7] regulation 88C(1);
+  - (xii)[^c-5cdbe604eb68f3ff5892741d7c8f8018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (xiii) paragraphs 7(c) and 9(c), Schedule 2.
 
 ## Annotations
 
-[^key-088083061194e46282d27365933b6b2e]: Commencement: Reg. 102 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-088083061194e46282d27365933b6b2e]: Commencement: Reg. 102 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-930dde09d4d942dbd92ae82cfb5d2ae7]: Textual amendment: Reg. 102(d)(xia) inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/99/regulation/31)
+[^c-930dde09d4d942dbd92ae82cfb5d2ae7]: Textual amendment: Reg. 102(d)(xia) inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [31](https://www.legislation.gov.uk/uksi/2020/99/regulation/31)
 
-[^key-5cdbe604eb68f3ff5892741d7c8f8018]: Textual amendment: Reg. 102(d)(xii) omitted (23.7.2019) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/1)
+[^c-5cdbe604eb68f3ff5892741d7c8f8018]: Textual amendment: Reg. 102(d)(xii) omitted (23.7.2019) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/1)

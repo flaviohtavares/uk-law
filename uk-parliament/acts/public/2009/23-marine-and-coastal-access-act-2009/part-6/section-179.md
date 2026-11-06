@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Supplementary powers[^key-6c40c3f3d3d2588bf47ef225fda874e6]
+## 179. Supplementary powers[^c-6c40c3f3d3d2588bf47ef225fda874e6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c40c3f3d3d2588bf47ef225fda874e6]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2009/23/section/179) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(g)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/g) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2195/article/4))
+[^c-6c40c3f3d3d2588bf47ef225fda874e6]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2009/23/section/179) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(g)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/g) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2195/article/4))

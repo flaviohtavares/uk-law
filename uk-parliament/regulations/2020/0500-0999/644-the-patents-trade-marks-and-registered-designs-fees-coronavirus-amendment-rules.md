@@ -32,7 +32,7 @@ summary: ''
 
 Intellectual Property
 
-The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (revoked)[^key-0252d663e317dd55db925418597bf780]
+The Patents, Trade Marks and Registered Designs (Fees) (Coronavirus) (Amendment) Rules 2020 (revoked)[^c-0252d663e317dd55db925418597bf780]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 30th July 2020
 
-[^key-0252d663e317dd55db925418597bf780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0252d663e317dd55db925418597bf780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0252d663e317dd55db925418597bf780]
+## 1. Citation and commencement[^c-0252d663e317dd55db925418597bf780]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Patents (Fees) Rules 2007[^key-0252d663e317dd55db925418597bf780]
+## 2. Amendments to the Patents (Fees) Rules 2007[^c-0252d663e317dd55db925418597bf780]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to the Trade Marks (Fees) Rules 2008[^key-0252d663e317dd55db925418597bf780]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 12. Amendments to the Registered Designs (Fees) Rules 2016[^key-0252d663e317dd55db925418597bf780]
+## 9. Amendments to the Trade Marks (Fees) Rules 2008[^c-0252d663e317dd55db925418597bf780]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 12. Amendments to the Registered Designs (Fees) Rules 2016[^c-0252d663e317dd55db925418597bf780]
 
-[^key-0252d663e317dd55db925418597bf780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-0252d663e317dd55db925418597bf780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0252d663e317dd55db925418597bf780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0252d663e317dd55db925418597bf780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0252d663e317dd55db925418597bf780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0252d663e317dd55db925418597bf780]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2020/644) revoked (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [33](https://www.legislation.gov.uk/uksi/2026/183/rule/33)
+[^c-0252d663e317dd55db925418597bf780]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2020/644) revoked (1.4.2026) by [The Intellectual Property Fees (Miscellaneous Amendments, Revocation and Transitional Provisions) Rules 2026 (S.I. 2026/183)](https://www.legislation.gov.uk/uksi/2026/183), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/183/rule/1/1), [33](https://www.legislation.gov.uk/uksi/2026/183/rule/33)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Effect of unauthorised borrowing: money purchase arrangements other than collective money purchase arrangements[^key-3a68f1d16ed754d7bdab3573d8a1fee6][^key-23ac6292e2863527ac636450eb43b0ab][^key-274bf44a22dba7b4cdd3f91895920e72][^key-8ad2949299a42497bd64fd4bfaf5673f]
+## 183. Effect of unauthorised borrowing: money purchase arrangements other than collective money purchase arrangements[^c-3a68f1d16ed754d7bdab3573d8a1fee6][^c-23ac6292e2863527ac636450eb43b0ab][^c-274bf44a22dba7b4cdd3f91895920e72][^c-8ad2949299a42497bd64fd4bfaf5673f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3a68f1d16ed754d7bdab3573d8a1fee6]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-3a68f1d16ed754d7bdab3573d8a1fee6]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-23ac6292e2863527ac636450eb43b0ab]: Modification: Ss. 182-185 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/575/regulation/16)
+[^c-23ac6292e2863527ac636450eb43b0ab]: Modification: Ss. 182-185 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/575/regulation/16)
 
-[^key-274bf44a22dba7b4cdd3f91895920e72]: Modification: S. 183 modified (retrospective to 6.4.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/68/2)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/68/6)
+[^c-274bf44a22dba7b4cdd3f91895920e72]: Modification: S. 183 modified (retrospective to 6.4.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/68/2)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/68/6)
 
-[^key-8ad2949299a42497bd64fd4bfaf5673f]: Textual amendment: Words in [s. 183 heading](https://www.legislation.gov.uk/ukpga/2004/12/part/4/chapter/3/crossheading/borrowing) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/7/2), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-8ad2949299a42497bd64fd4bfaf5673f]: Textual amendment: Words in [s. 183 heading](https://www.legislation.gov.uk/ukpga/2004/12/part/4/chapter/3/crossheading/borrowing) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/7/2), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)

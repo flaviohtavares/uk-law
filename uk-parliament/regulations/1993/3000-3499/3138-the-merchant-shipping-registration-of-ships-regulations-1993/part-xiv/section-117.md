@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Registered information[^key-ea367ce5d681a8ab0e840b4b3ee9c447]
+## 117. Registered information[^c-ea367ce5d681a8ab0e840b4b3ee9c447]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedules 4 and 5 shall not apply to any ship until a new certificate of registr
 
 ## Annotations
 
-[^key-ea367ce5d681a8ab0e840b4b3ee9c447]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/1993/3138/regulation/117) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-ea367ce5d681a8ab0e840b4b3ee9c447]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/1993/3138/regulation/117) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

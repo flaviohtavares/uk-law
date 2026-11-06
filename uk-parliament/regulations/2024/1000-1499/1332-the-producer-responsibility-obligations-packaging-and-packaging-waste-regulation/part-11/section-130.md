@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Database of reported information[^key-746a39f5d7d647dcded674a8d4721c71]
+## 130. Database of reported information[^c-746a39f5d7d647dcded674a8d4721c71]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-746a39f5d7d647dcded674a8d4721c71]: Commencement: Reg. 130 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-746a39f5d7d647dcded674a8d4721c71]: Commencement: Reg. 130 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

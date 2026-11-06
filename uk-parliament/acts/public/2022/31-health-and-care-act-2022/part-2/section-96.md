@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Sharing anonymous health and social care information[^key-ae0bbc594b88732bff19e04341eea956]
+## 96. Sharing anonymous health and social care information[^c-ae0bbc594b88732bff19e04341eea956]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ After section 251C of the Health and Social Care Act 2012 insert—
 
 ## Annotations
 
-[^key-ae0bbc594b88732bff19e04341eea956]: Commencement: S. 96 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-ae0bbc594b88732bff19e04341eea956]: Commencement: S. 96 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)

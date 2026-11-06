@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Extension of transitional period for benchmarks with non-UK administrators[^key-4139581c9f45db4b63621aef1d609d1c]
+## 20. Extension of transitional period for benchmarks with non-UK administrators[^c-4139581c9f45db4b63621aef1d609d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4139581c9f45db4b63621aef1d609d1c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/22/section/20) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/m)
+[^c-4139581c9f45db4b63621aef1d609d1c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/22/section/20) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/m)

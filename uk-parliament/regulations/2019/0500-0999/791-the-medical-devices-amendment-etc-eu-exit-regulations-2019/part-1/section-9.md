@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of Part VII of the 2002 Regulations[^key-1cf030550816ea7a6327bfd3c27a00a3]
+## 9. Amendment of Part VII of the 2002 Regulations[^c-1cf030550816ea7a6327bfd3c27a00a3]
 
 *Extent: E+W+S+N.I.*
 
 (1) Part VII of the 2002 Regulations is amended as follows.
 
-(2)[^key-8cc37cee35af8345f4d01f4012bcf02a] In regulation 59 [^c23697531](interpretation of Part VII)—
+(2)[^c-8cc37cee35af8345f4d01f4012bcf02a] In regulation 59 [^c23697531](interpretation of Part VII)—
 
 - (a) omit the definition of “registrable device”;
 - (b) in the definition of “relevant device” after “IV” insert “ or a device for the purposes of Part VIII or IX. ”.
@@ -39,11 +39,11 @@ summary: ''
   > - (b) in relation to the supply of the device to a person within the United Kingdom after it has been placed on the market, may be proceeded against as a person supplying the device after it has been placed on the market.
 
   .
-- (d)[^key-88ddb6dfbb3a54d44ce00162ec6f83b4] in paragraph (4)—
+- (d)[^c-88ddb6dfbb3a54d44ce00162ec6f83b4] in paragraph (4)—
   - (i) for “an authorised representative of a manufacturer of a device” substitute “ a UK responsible person ”;
   - (ii) for “the single authorised representative of the manufacturer” substitute “ a UK responsible person ”.
 
-(4)[^key-c6ad2dcdf24d343841d3ec407af49efc] In regulation 61 (enforcement etc.)—
+(4)[^c-c6ad2dcdf24d343841d3ec407af49efc] In regulation 61 (enforcement etc.)—
 
 - (a) for “CE marking” in both places substitute “UK marking”;
 - (b) in paragraph (8)(a)(i), after “essential requirement” insert “, a general safety and performance requirement”;
@@ -54,14 +54,14 @@ summary: ''
 
 - (i) after “performance evaluation” insert “ or study ”;
 - (ii) for “the manufacturer or his authorised representative” substitute “ any person ”;
-- (iii)[^key-47ed86a64b209cf1d1c6d20e1c06d036] in sub-paragraph (c) omit “and, where applicable any relevant provision of the Medical Devices Directives”.
+- (iii)[^c-47ed86a64b209cf1d1c6d20e1c06d036] in sub-paragraph (c) omit “and, where applicable any relevant provision of the Medical Devices Directives”.
 
 (6) In regulation 63 [^c23697561] (restriction notices) in paragraph (1)—
 
 - (i) in sub-paragraph (a), after “performance evaluation” insert “ or study ”;
 - (ii) in sub-paragraph (b), after “performance evaluation” insert “ or study ”.
 
-(6A)[^key-3b4f343cc24f5682efe3c990937e907d] In regulation 64 (notification of decisions etc)—
+(6A)[^c-3b4f343cc24f5682efe3c990937e907d] In regulation 64 (notification of decisions etc)—
 
 - (a) in paragraph (1)(c), for “him or his authorised representative” substitute “the applicant or the applicant’s UK responsible person”;
 - (b) in paragraph (2)—
@@ -90,23 +90,23 @@ summary: ''
 
 ## Annotations
 
-[^key-1cf030550816ea7a6327bfd3c27a00a3]: Commencement: Reg. 9(1)(3)-(10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1cf030550816ea7a6327bfd3c27a00a3]: Commencement: Reg. 9(1)(3)-(10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-8cc37cee35af8345f4d01f4012bcf02a]: Commencement: Reg. 9(2) in force at 1.5.2021, see reg. 1(2)(e) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2/c))
+[^c-8cc37cee35af8345f4d01f4012bcf02a]: Commencement: Reg. 9(2) in force at 1.5.2021, see reg. 1(2)(e) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2/c))
 
 [^c23697531]: Marginal citation: Regulation 59 was amended by [S.I. 2003/1697](https://www.legislation.gov.uk/uksi/2003/1697).
 
 [^c23697541]: Marginal citation: Regulation 60 was amended by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936).
 
-[^key-88ddb6dfbb3a54d44ce00162ec6f83b4]: Textual amendment: Reg. 9(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/1385/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88ddb6dfbb3a54d44ce00162ec6f83b4]: Textual amendment: Reg. 9(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/1385/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6ad2dcdf24d343841d3ec407af49efc]: Textual amendment: Reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/51)
+[^c-c6ad2dcdf24d343841d3ec407af49efc]: Textual amendment: Reg. 9(4) substituted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/51)
 
-[^key-47ed86a64b209cf1d1c6d20e1c06d036]: Textual amendment: Reg. 9(5)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/52)
+[^c-47ed86a64b209cf1d1c6d20e1c06d036]: Textual amendment: Reg. 9(5)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/52)
 
 [^c23697561]: Marginal citation: Regulation 63 was amended by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936).
 
-[^key-3b4f343cc24f5682efe3c990937e907d]: Textual amendment: Reg. 9(6A) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/53)
+[^c-3b4f343cc24f5682efe3c990937e907d]: Textual amendment: Reg. 9(6A) inserted (31.12.2020 immediately before IP completion day) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/53)
 
 [^c23697571]: Marginal citation: Regulation 67 was inserted by [S.I. 2013/2327](https://www.legislation.gov.uk/uksi/2013/2327).
 

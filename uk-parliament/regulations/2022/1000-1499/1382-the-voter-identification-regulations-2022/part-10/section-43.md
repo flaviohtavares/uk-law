@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amendment of Schedule 1 (mayoral elections rules)[^key-5daecfc4989b06e3306c8152bb83da90]
+## 43. Amendment of Schedule 1 (mayoral elections rules)[^c-5daecfc4989b06e3306c8152bb83da90]
 
 *Extent: E+W+S+N.I.*
 
@@ -323,7 +323,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5daecfc4989b06e3306c8152bb83da90]: Commencement: Reg. 43 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5daecfc4989b06e3306c8152bb83da90]: Commencement: Reg. 43 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00062]: Footnote: Rule 37(1H) was inserted by paragraph 18 of Schedule 1 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 

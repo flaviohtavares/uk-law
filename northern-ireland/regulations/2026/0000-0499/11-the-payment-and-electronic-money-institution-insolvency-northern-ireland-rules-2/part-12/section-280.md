@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 280. Right to copy documents[^key-33723e98456ae6b52dad0427078b31ec]
+## 280. Right to copy documents[^c-33723e98456ae6b52dad0427078b31ec]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ Where the Regulations or these Rules confer a right for any person to inspect do
 
 ## Annotations
 
-[^key-33723e98456ae6b52dad0427078b31ec]: Commencement: [Rule 280](https://www.legislation.gov.uk/nisr/2026/11/rule/280) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-33723e98456ae6b52dad0427078b31ec]: Commencement: [Rule 280](https://www.legislation.gov.uk/nisr/2026/11/rule/280) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00025]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23).

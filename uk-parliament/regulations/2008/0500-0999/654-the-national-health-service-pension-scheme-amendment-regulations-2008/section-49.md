@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Amendment of regulation Q6[^key-38f9a99447220f723850d211d3a94139]
+## 49. Amendment of regulation Q6[^c-38f9a99447220f723850d211d3a94139]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f9a99447220f723850d211d3a94139]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-38f9a99447220f723850d211d3a94139]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

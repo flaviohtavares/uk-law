@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Reporting to the governing body following the exercise of delegated functions[^key-06594ad7666813c12e1460f1e5109974]
+## 64. Reporting to the governing body following the exercise of delegated functions[^c-06594ad7666813c12e1460f1e5109974]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06594ad7666813c12e1460f1e5109974]: Commencement: Reg. 64 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-06594ad7666813c12e1460f1e5109974]: Commencement: Reg. 64 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

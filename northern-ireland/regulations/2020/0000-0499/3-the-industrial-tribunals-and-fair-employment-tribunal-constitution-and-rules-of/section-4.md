@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Industrial Tribunals[^key-de284750d6a0e248bd5c2defd7ff0fcb]
+## 4. Industrial Tribunals[^c-de284750d6a0e248bd5c2defd7ff0fcb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ There shall continue to be tribunals known as industrial tribunals, established 
 
 ## Annotations
 
-[^key-de284750d6a0e248bd5c2defd7ff0fcb]: Commencement: Reg. 4 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-de284750d6a0e248bd5c2defd7ff0fcb]: Commencement: Reg. 4 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

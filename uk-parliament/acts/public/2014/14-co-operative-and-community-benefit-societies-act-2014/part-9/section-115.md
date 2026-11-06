@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Conversion of company into a registered society[^key-bcb328e9dfd7984f25fd4dd21728e64a]
+## 115. Conversion of company into a registered society[^c-bcb328e9dfd7984f25fd4dd21728e64a]
 
 *Extent: E+W+S*
 
 (1) A company registered under the Companies Acts may by special resolution determine to convert itself into a registered society.
 
-(2)[^key-cb686284946ff517e6e6dc38a8578f81] The resolution must—
+(2)[^c-cb686284946ff517e6e6dc38a8578f81] The resolution must—
 
 - (a) be accompanied by a copy of the society's rules, and
 - (b) appoint 3 members of the company (“the appointed members”) to perform the functions mentioned in subsections (3) and (4).
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcb328e9dfd7984f25fd4dd21728e64a]: Modification: S. 115 modified by 1979 c. 34, s. 23(3) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/13/3) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-bcb328e9dfd7984f25fd4dd21728e64a]: Modification: S. 115 modified by 1979 c. 34, s. 23(3) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/13/3) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-cb686284946ff517e6e6dc38a8578f81]: Modification: S. 115(2) modified by 1979 c. 34, s. 6(1A) (as inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/6/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-cb686284946ff517e6e6dc38a8578f81]: Modification: S. 115(2) modified by 1979 c. 34, s. 6(1A) (as inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/6/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

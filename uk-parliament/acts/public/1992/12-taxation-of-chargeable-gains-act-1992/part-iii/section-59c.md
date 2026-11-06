@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59C. Alternative investment managers (2)[^key-e3b3aa19b40a2eb7074870b2d1c42381]
+## 59C. Alternative investment managers (2)[^c-e3b3aa19b40a2eb7074870b2d1c42381]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b3aa19b40a2eb7074870b2d1c42381]: Textual amendment: Ss. 59B, 59C inserted (with effect in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/17)
+[^c-e3b3aa19b40a2eb7074870b2d1c42381]: Textual amendment: Ss. 59B, 59C inserted (with effect in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/17)

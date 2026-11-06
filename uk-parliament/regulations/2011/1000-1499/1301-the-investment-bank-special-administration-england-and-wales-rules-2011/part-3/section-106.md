@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Functions and meetings of the committee[^key-8f84853f152935d682a1a69e4a9ab702]
+## 106. Functions and meetings of the committee[^c-8f84853f152935d682a1a69e4a9ab702]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) Subject to paragraph (8), the administrator shall give 5 business days’ written notice of the venue of any meeting to every member of the committee (or their representative designated for that purpose) unless in any case the requirement of notice has been waived by or on behalf of any member. Waiver may be signified either at or before the meeting.
 
-(6) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-bf8ed8338b05ea31f74162ad013e7a0d] shall also be given the notice in paragraph (5).
+(6) The FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-bf8ed8338b05ea31f74162ad013e7a0d] shall also be given the notice in paragraph (5).
 
 (7) In a special administration (bank administration), if the meeting is to be held before the Bank of England has given the Objective A Achievement Notice, the Bank of England shall be given the notice in paragraph (5).
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f84853f152935d682a1a69e4a9ab702]: Commencement: [Rule 106](https://www.legislation.gov.uk/uksi/2011/1301/rule/106) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8f84853f152935d682a1a69e4a9ab702]: Commencement: [Rule 106](https://www.legislation.gov.uk/uksi/2011/1301/rule/106) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-bf8ed8338b05ea31f74162ad013e7a0d]: Textual amendment: Words in [art. 106(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/106/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(ix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/ix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-bf8ed8338b05ea31f74162ad013e7a0d]: Textual amendment: Words in [art. 106(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/106/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(ix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/ix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

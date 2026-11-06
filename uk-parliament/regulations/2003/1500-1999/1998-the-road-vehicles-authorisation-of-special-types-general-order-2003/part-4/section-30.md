@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Motor vehicles or trailers carrying loads of exceptional width: restrictions on width and speed[^key-5890e26e1f07dd8e787fd4056cbc8b5c]
+## 30. Motor vehicles or trailers carrying loads of exceptional width: restrictions on width and speed[^c-5890e26e1f07dd8e787fd4056cbc8b5c]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5890e26e1f07dd8e787fd4056cbc8b5c]: Commencement: Art. 30 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-5890e26e1f07dd8e787fd4056cbc8b5c]: Commencement: Art. 30 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

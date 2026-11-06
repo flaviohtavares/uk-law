@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Extension of regulation to fixed service charges[^key-a5d83847f1fb6e8a36ee3a0fac954096]
+## 53. Extension of regulation to fixed service charges[^c-a5d83847f1fb6e8a36ee3a0fac954096]
 
 *Extent: E+W*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5d83847f1fb6e8a36ee3a0fac954096]: Commencement: S. 53 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a5d83847f1fb6e8a36ee3a0fac954096]: Commencement: S. 53 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

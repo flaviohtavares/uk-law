@@ -46,11 +46,11 @@ summary: ''
 
 - (a) which provide for the identification and scrutiny of—
   - (i) any case where—
-    - (aa) a transaction is unusually complex or unusually large in each case given the nature of the transaction[^key-9de973a0f6b3d22ce39132fe6d2c2ee5], or there is an unusual pattern of transactions, or[^key-22b0f463975b36a6b2b6d60efcffb012]
+    - (aa) a transaction is unusually complex or unusually large in each case given the nature of the transaction[^c-9de973a0f6b3d22ce39132fe6d2c2ee5], or there is an unusual pattern of transactions, or[^c-22b0f463975b36a6b2b6d60efcffb012]
     - (bb) the transaction or transactions have no apparent economic or legal purpose, and
   - (ii) any other activity or situation which the relevant person regards as particularly likely by its nature to be related to money laundering or terrorist financing;
 - (b) which specify the taking of additional measures, where appropriate, to prevent the use for money laundering or terrorist financing of products and transactions which might favour anonymity;
-- (c) which ensure that when new products, new business practices (including new delivery mechanisms) or new technology are[^key-8af108b896e01ac374ad09a1b8764528] adopted by the relevant person, appropriate measures are taken in preparation for, and during, the adoption of such products, practices or[^key-85b34874ba9ab581472bda6a38343636] technology to assess and if necessary mitigate any money laundering or terrorist financing risks this new product, practice or[^key-a75d5baf1afeaa541c60e547ba27f9a4] technology may cause;
+- (c) which ensure that when new products, new business practices (including new delivery mechanisms) or new technology are[^c-8af108b896e01ac374ad09a1b8764528] adopted by the relevant person, appropriate measures are taken in preparation for, and during, the adoption of such products, practices or[^c-85b34874ba9ab581472bda6a38343636] technology to assess and if necessary mitigate any money laundering or terrorist financing risks this new product, practice or[^c-a75d5baf1afeaa541c60e547ba27f9a4] technology may cause;
 - (d) under which anyone in the relevant person's organisation who knows or suspects (or has reasonable grounds for knowing or suspecting) that a person is engaged in money laundering or terrorist financing as a result of information received in the course of the business or otherwise through carrying on that business is required to comply with—
   - (i) Part 3 of the Terrorism Act 2000 [^c23047991]; or
   - (ii) Part 7 of the Proceeds of Crime Act 2002 [^c23048001];
@@ -67,15 +67,15 @@ summary: ''
 
 ## Annotations
 
-[^key-9de973a0f6b3d22ce39132fe6d2c2ee5]: Textual amendment: Words in [reg. 19(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2017/692/regulation/19/4/a/i/aa) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/621/regulation/11)
+[^c-9de973a0f6b3d22ce39132fe6d2c2ee5]: Textual amendment: Words in [reg. 19(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2017/692/regulation/19/4/a/i/aa) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/621/regulation/11)
 
-[^key-22b0f463975b36a6b2b6d60efcffb012]: Textual amendment: Word in reg. 19(4)(a)(i) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/a)
+[^c-22b0f463975b36a6b2b6d60efcffb012]: Textual amendment: Word in reg. 19(4)(a)(i) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/a)
 
-[^key-8af108b896e01ac374ad09a1b8764528]: Textual amendment: Words in reg. 19(4)(c) substituted (10.1.2020) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/b/i)
+[^c-8af108b896e01ac374ad09a1b8764528]: Textual amendment: Words in reg. 19(4)(c) substituted (10.1.2020) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/b/i)
 
-[^key-85b34874ba9ab581472bda6a38343636]: Textual amendment: Words in reg. 19(4)(c) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/b/ii)
+[^c-85b34874ba9ab581472bda6a38343636]: Textual amendment: Words in reg. 19(4)(c) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/b/ii)
 
-[^key-a75d5baf1afeaa541c60e547ba27f9a4]: Textual amendment: Words in reg. 19(4)(c) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/b/iii)
+[^c-a75d5baf1afeaa541c60e547ba27f9a4]: Textual amendment: Words in reg. 19(4)(c) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/9/b/iii)
 
 [^c23047991]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 

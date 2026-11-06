@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Action which may be taken by a plant health inspector[^key-7f6a4afc1f52fa868d174055a96b5e02]
+## 16. Action which may be taken by a plant health inspector[^c-7f6a4afc1f52fa868d174055a96b5e02]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f6a4afc1f52fa868d174055a96b5e02]: Commencement: Reg. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-7f6a4afc1f52fa868d174055a96b5e02]: Commencement: Reg. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

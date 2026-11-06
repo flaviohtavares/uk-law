@@ -22,20 +22,20 @@ summary: ''
 
 (1) For the tax year 2009-10 the amount specified in—
 
-- (a) section 35 of ITA 2007, [^key-4b0c6a004fe1f13c157f41682057e035]...
-- (b)[^key-4b0c6a004fe1f13c157f41682057e035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 35 of ITA 2007, [^c-4b0c6a004fe1f13c157f41682057e035]...
+- (b)[^c-4b0c6a004fe1f13c157f41682057e035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (personal allowance for those aged under 65) is replaced with “£6,475”.
 
 (2) Accordingly—
 
-- (a) section 57 of ITA 2007, so far as relating to the amount specified in section 35 of that Act, [^key-136105780880aace8f2d07fd5d0b87a2]...
-- (b)[^key-136105780880aace8f2d07fd5d0b87a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 57 of ITA 2007, so far as relating to the amount specified in section 35 of that Act, [^c-136105780880aace8f2d07fd5d0b87a2]...
+- (b)[^c-136105780880aace8f2d07fd5d0b87a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (indexation) do not apply for the tax year 2009-10.
 
 ## Annotations
 
-[^key-4b0c6a004fe1f13c157f41682057e035]: Textual amendment: S. 3(1)(b) omitted (with effect in accordance with Sch. 1 para. 7 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(q)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/q)
+[^c-4b0c6a004fe1f13c157f41682057e035]: Textual amendment: S. 3(1)(b) omitted (with effect in accordance with Sch. 1 para. 7 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(q)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/q)
 
-[^key-136105780880aace8f2d07fd5d0b87a2]: Textual amendment: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/3/2/b) omitted (with effect in accordance with Sch. 1 para. 7 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(q)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/q)
+[^c-136105780880aace8f2d07fd5d0b87a2]: Textual amendment: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/section/3/2/b) omitted (with effect in accordance with Sch. 1 para. 7 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(q)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 195. Moratorium on diligence: notice of intention to make debtor application under section 2(1)(a)[^key-477609bfced297b6276cf599ab6fc5d1]
+## 195. Moratorium on diligence: notice of intention to make debtor application under section 2(1)(a)[^c-477609bfced297b6276cf599ab6fc5d1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-477609bfced297b6276cf599ab6fc5d1]: Commencement: S. 195 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-477609bfced297b6276cf599ab6fc5d1]: Commencement: S. 195 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12C. Qualifying Northern Ireland Goods[^key-bdea43d8d6dbcdef79119ae9d9acbe2f]
+## 12C. Qualifying Northern Ireland Goods[^c-bdea43d8d6dbcdef79119ae9d9acbe2f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdea43d8d6dbcdef79119ae9d9acbe2f]: Textual amendment: Regs. 12A-12C inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 12 para. 9](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/9) (with [Sch. 12 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/22)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 7(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/7/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bdea43d8d6dbcdef79119ae9d9acbe2f]: Textual amendment: Regs. 12A-12C inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 12 para. 9](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/9) (with [Sch. 12 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/12/paragraph/22)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 7(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/7/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

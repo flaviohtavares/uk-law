@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A deduction is allowed from earnings which are relevant taxable earnings[^key-73e9956877d9cb81f0f334c61198504c] if—
+(1) A deduction is allowed from earnings which are relevant taxable earnings[^c-73e9956877d9cb81f0f334c61198504c] if—
 
 - (a) the earnings include an amount in respect of—
   - (i) the provision of travel facilities for a journey made by the employee, or
@@ -56,14 +56,14 @@ summary: ''
 (6)[^M_F_644344b7-9c33-490a-8da2-73fdf0a8d0c2] In this section “relevant taxable earnings” means general earnings for a tax year ... that—
 
 - (a) are taxable earnings under section 15, and
-- (b)[^key-719cde33b8c13b165c78ee5a228c99d5] either—
+- (b)[^c-719cde33b8c13b165c78ee5a228c99d5] either—
   - (i) if the tax year is tax year 2024-2025 or an earlier tax year, would be taxable earnings under section 15 even if the employee made a claim under section 809B of ITA 2007 (claim for remittance basis) for that year, or
   - (ii) if the tax year is tax year 2025-2026 or a later tax year and the employee is a qualifying new resident for the purposes of Chapter 5C of Part 2 for that tax year, are not qualifying foreign general earnings within the meaning of section 41T (qualifying foreign general earnings).
 
 ## Annotations
 
-[^key-73e9956877d9cb81f0f334c61198504c]: Textual amendment: Words in s. 370(1) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 27(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/27/2)
+[^c-73e9956877d9cb81f0f334c61198504c]: Textual amendment: Words in s. 370(1) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 27(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/27/2)
 
 [^M_F_644344b7-9c33-490a-8da2-73fdf0a8d0c2]: Textual amendment: S. 370(6) inserted (with effect in accordance with [Sch. 7 para. 81](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/81) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 27(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/27/3)
 
-[^key-719cde33b8c13b165c78ee5a228c99d5]: Textual amendment: S. 370(6)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(10)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/10) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-719cde33b8c13b165c78ee5a228c99d5]: Textual amendment: S. 370(6)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(10)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/10) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

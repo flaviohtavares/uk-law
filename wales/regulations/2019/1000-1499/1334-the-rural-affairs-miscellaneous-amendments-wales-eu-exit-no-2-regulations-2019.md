@@ -47,23 +47,23 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 In accordance with paragraph 4(a) of Schedule 2 to that Act, the Welsh Ministers have consulted the Secretary of State with regard to the amendment of the Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019 [^c23896501] and the Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 [^c23896511].
 
-## 1. Title and commencement[^key-5e2fd1ad55c8a1f529cb392ba34a1f28]
+## 1. Title and commencement[^c-5e2fd1ad55c8a1f529cb392ba34a1f28]
 
 (1) The title of these Regulations is the Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019.
 
 (2) Save for regulation 2 which comes into force on exit day, these Regulations come into force immediately before exit day.
 
-## 2. Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011[^key-0908eaf0be7fb95940b77e328e5d504e]
+## 2. Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011[^c-0908eaf0be7fb95940b77e328e5d504e]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019[^key-5533213d135d92c0d7f31f6307eb02b6]
+## 3. Amendment of the Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019[^c-5533213d135d92c0d7f31f6307eb02b6]
 
 In the Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019, in regulation 28(c), for “paragraphs (7) and (8)” substitute “ paragraph (8) ”.
 
-## 4. Amendment of the Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019[^key-6b7022bf90d90845b22e59e1a6ad808f]
+## 4. Amendment of the Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019[^c-6b7022bf90d90845b22e59e1a6ad808f]
 
 In the Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019, omit regulation 13.
 
@@ -103,10 +103,10 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23896511]: Marginal citation: [S.I. 2019/463](https://www.legislation.gov.uk/uksi/2019/463) (W. 111).
 
-[^key-5e2fd1ad55c8a1f529cb392ba34a1f28]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5e2fd1ad55c8a1f529cb392ba34a1f28]: Commencement: Reg. 1 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-0908eaf0be7fb95940b77e328e5d504e]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [36](https://www.legislation.gov.uk/wsi/2020/1612/regulation/36)
+[^c-0908eaf0be7fb95940b77e328e5d504e]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [36](https://www.legislation.gov.uk/wsi/2020/1612/regulation/36)
 
-[^key-5533213d135d92c0d7f31f6307eb02b6]: Commencement: Reg. 3 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5533213d135d92c0d7f31f6307eb02b6]: Commencement: Reg. 3 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-6b7022bf90d90845b22e59e1a6ad808f]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6b7022bf90d90845b22e59e1a6ad808f]: Commencement: Reg. 4 in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -22,9 +22,9 @@ summary: ''
 
 Article 37
 
-### 1. Applications made under requirement[^key-ea497d7d5ccf59e61a2396d867d04c73]
+### 1. Applications made under requirement[^c-ea497d7d5ccf59e61a2396d867d04c73]
 
-(1) Where an application has been made to a relevant planning authority for any agreement or approval required by any Requirement[^key-ad9df981771f410ed6de2a1fd9b6da1a] included in this Order, the relevant planning authority must give notice to the undertaker of its decision on the application before the end of the decision period.
+(1) Where an application has been made to a relevant planning authority for any agreement or approval required by any Requirement[^c-ad9df981771f410ed6de2a1fd9b6da1a] included in this Order, the relevant planning authority must give notice to the undertaker of its decision on the application before the end of the decision period.
 
 (2) For the purposes of sub-paragraph (1), the decision period is—
 
@@ -34,27 +34,27 @@ Article 37
 
 (3) For the avoidance of doubt, the relevant planning authority remains seized of the application after the decision period elapses and pending an appeal by the undertaker for non-determination under paragraph 4(1)(b).
 
-### 2. Further information[^key-dcd03c79e325deb0740ce05c0ae537f3]
+### 2. Further information[^c-dcd03c79e325deb0740ce05c0ae537f3]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
-(2) If the relevant planning authority considers such further information to be necessary and the Requirement[^key-a6f7e5e3aa159613a73fa6a777a318d5] does not specify that consultation with a requirement consultee is required, it must, within 7 business days of receipt of the application, notify the undertaker in writing specifying the further information required.
+(2) If the relevant planning authority considers such further information to be necessary and the Requirement[^c-a6f7e5e3aa159613a73fa6a777a318d5] does not specify that consultation with a requirement consultee is required, it must, within 7 business days of receipt of the application, notify the undertaker in writing specifying the further information required.
 
-(3) If the Requirement[^key-2d1c049cf976dd6df92926c05c527b02] specifies that consultation with a requirement consultee is required, the relevant planning authority must issue the consultation to the requirement consultee within 3 business days of receipt of the application, and must notify the undertaker in writing specifying any further information requested by the requirement consultee within 3 business days of receipt of such a request and in any event within 35 days of receipt of the application.
+(3) If the Requirement[^c-2d1c049cf976dd6df92926c05c527b02] specifies that consultation with a requirement consultee is required, the relevant planning authority must issue the consultation to the requirement consultee within 3 business days of receipt of the application, and must notify the undertaker in writing specifying any further information requested by the requirement consultee within 3 business days of receipt of such a request and in any event within 35 days of receipt of the application.
 
 (4) If the relevant planning authority does not give such notification as specified in sub-paragraph (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter be entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Fees[^key-ad7850c72028f7b6216ad1a2c5b6b8f0]
+### 3. Fees[^c-ad7850c72028f7b6216ad1a2c5b6b8f0]
 
-(1) Where an application is made to the relevant planning authority for agreement or approval in respect of a Requirement[^key-7ed23805890da76092727183bc1192e5], a fee of £97, or such greater sum as applies by regulations for the discharge of planning conditions, must be paid to that authority.
+(1) Where an application is made to the relevant planning authority for agreement or approval in respect of a Requirement[^c-7ed23805890da76092727183bc1192e5], a fee of £97, or such greater sum as applies by regulations for the discharge of planning conditions, must be paid to that authority.
 
 (2) Any fee paid under this Schedule must be refunded to the undertaker within 8 weeks of the relevant planning authority failing to determine the application within the decision period as determined under paragraph 1, unless within that period the undertaker agrees, in writing, that the fee may be retained by the relevant planning authority and credited in respect of a future application.
 
-### 4. Appeals[^key-e188d7a2a12ab975a1cfe1bb586a32d1]
+### 4. Appeals[^c-e188d7a2a12ab975a1cfe1bb586a32d1]
 
 (1) The undertaker may appeal in the event that—
 
-- (a) the relevant planning authority refuses an application for any agreement or approval required by a Requirement[^key-b102c60debf17d5ca7fe8efa566571a1] included in this Order or grants it subject to conditions;
+- (a) the relevant planning authority refuses an application for any agreement or approval required by a Requirement[^c-b102c60debf17d5ca7fe8efa566571a1] included in this Order or grants it subject to conditions;
 - (b) the relevant planning authority does not give notice of its decision to the undertaker within the decision period as determined in paragraph 1;
 - (c) on receipt of a request for further information pursuant to paragraph 2 the undertaker considers that either the whole or part of the specified information requested by the relevant planning authority is not necessary for consideration of the application; or
 - (d) on receipt of any further information requested, the relevant planning authority notifies the undertaker that the information provide is inadequate and requests additional information which the undertaker considers is not necessary for consideration of the application.
@@ -90,34 +90,34 @@ and may deal with the application as if it had been made to the appointed person
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Communities and Local Government Circular 03/2009 or any circular or guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 7[^key-c95900a60b16a15e6396d50db2407a74]
+### 5. Interpretation of Schedule 7[^c-c95900a60b16a15e6396d50db2407a74]
 
 In this Schedule—
 
 - “the appeal parties” means the relevant planning authority, the requirement consultee and the undertaker;
 - “business day” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971; and
-- “requirement consultee” means anybody named in a Requirement[^key-dd1bad0f6b07823ba68589280e511ed8] which is the subject of an appeal as a body to be consulted by the relevant planning authority in discharging that Requirement.
+- “requirement consultee” means anybody named in a Requirement[^c-dd1bad0f6b07823ba68589280e511ed8] which is the subject of an appeal as a body to be consulted by the relevant planning authority in discharging that Requirement.
 
 ## Annotations
 
-[^key-ea497d7d5ccf59e61a2396d867d04c73]: Commencement: Sch. 7 para. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-ea497d7d5ccf59e61a2396d867d04c73]: Commencement: Sch. 7 para. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-ad9df981771f410ed6de2a1fd9b6da1a]: Textual amendment: Word in Sch. 7 para. 1(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-ad9df981771f410ed6de2a1fd9b6da1a]: Textual amendment: Word in Sch. 7 para. 1(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-dcd03c79e325deb0740ce05c0ae537f3]: Commencement: Sch. 7 para. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-dcd03c79e325deb0740ce05c0ae537f3]: Commencement: Sch. 7 para. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-a6f7e5e3aa159613a73fa6a777a318d5]: Textual amendment: Word in Sch. 7 para. 2(2) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-a6f7e5e3aa159613a73fa6a777a318d5]: Textual amendment: Word in Sch. 7 para. 2(2) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-2d1c049cf976dd6df92926c05c527b02]: Textual amendment: Word in Sch. 7 para. 2(3) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-2d1c049cf976dd6df92926c05c527b02]: Textual amendment: Word in Sch. 7 para. 2(3) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-ad7850c72028f7b6216ad1a2c5b6b8f0]: Commencement: Sch. 7 para. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-ad7850c72028f7b6216ad1a2c5b6b8f0]: Commencement: Sch. 7 para. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-7ed23805890da76092727183bc1192e5]: Textual amendment: Word in Sch. 7 para. 3(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-7ed23805890da76092727183bc1192e5]: Textual amendment: Word in Sch. 7 para. 3(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-e188d7a2a12ab975a1cfe1bb586a32d1]: Commencement: Sch. 7 para. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-e188d7a2a12ab975a1cfe1bb586a32d1]: Commencement: Sch. 7 para. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-b102c60debf17d5ca7fe8efa566571a1]: Textual amendment: Word in Sch. 7 para. 4(1)(a) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-b102c60debf17d5ca7fe8efa566571a1]: Textual amendment: Word in Sch. 7 para. 4(1)(a) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-c95900a60b16a15e6396d50db2407a74]: Commencement: Sch. 7 para. 5 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-c95900a60b16a15e6396d50db2407a74]: Commencement: Sch. 7 para. 5 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-dd1bad0f6b07823ba68589280e511ed8]: Textual amendment: Word in Sch. 7 para. 5 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-dd1bad0f6b07823ba68589280e511ed8]: Textual amendment: Word in Sch. 7 para. 5 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)

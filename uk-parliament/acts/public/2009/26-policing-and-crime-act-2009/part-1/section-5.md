@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Police collaboration[^key-0e54733ed265654cc2b6a73c250728ec]
+## 5. Police collaboration[^c-0e54733ed265654cc2b6a73c250728ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,4 +190,4 @@ For section 23 of the Police Act 1996 substitute—
 
 ## Annotations
 
-[^key-0e54733ed265654cc2b6a73c250728ec]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/26/section/5) in force at 12.3.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/507/article/4/a)
+[^c-0e54733ed265654cc2b6a73c250728ec]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/26/section/5) in force at 12.3.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/507/article/4/a)

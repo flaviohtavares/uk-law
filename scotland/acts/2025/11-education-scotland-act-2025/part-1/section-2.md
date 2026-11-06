@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. The function of awarding qualifications[^key-2e67bc68ee4c3fe35a502b979d1a57c7][^key-00166a847ff01cb84810a62e2e979fd8]
+## 2. The function of awarding qualifications[^c-2e67bc68ee4c3fe35a502b979d1a57c7][^c-00166a847ff01cb84810a62e2e979fd8]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e67bc68ee4c3fe35a502b979d1a57c7]: Commencement: S. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-2e67bc68ee4c3fe35a502b979d1a57c7]: Commencement: S. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-00166a847ff01cb84810a62e2e979fd8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/11/section/2) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-00166a847ff01cb84810a62e2e979fd8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/11/section/2) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

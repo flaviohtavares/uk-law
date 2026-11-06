@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Visits by registered provider[^key-7abdd4bc96b92802b1068d25f762cf82]
+## 29. Visits by registered provider[^c-7abdd4bc96b92802b1068d25f762cf82]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7abdd4bc96b92802b1068d25f762cf82]: Commencement: Reg. 29 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-7abdd4bc96b92802b1068d25f762cf82]: Commencement: Reg. 29 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

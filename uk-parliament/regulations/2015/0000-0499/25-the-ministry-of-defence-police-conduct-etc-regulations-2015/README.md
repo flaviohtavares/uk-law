@@ -30,25 +30,25 @@ summary: ''
 
 Police
 
-The Ministry of Defence Police (Conduct *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3] etc. *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]) Regulations 2015 *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+The Ministry of Defence Police (Conduct *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3] etc. *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]) Regulations 2015 *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-Made *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Made *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-11th January 2015 *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+11th January 2015 *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-Laid before Parliament *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Laid before Parliament *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-19th January 2015 *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+19th January 2015 *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-Coming into force *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Coming into force *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-23rd February 2015 *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+23rd February 2015 *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1) to (4) and (6) and 4A of the Ministry of Defence Police Act 1987 *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3][^f00001], makes the following Regulations: *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1) to (4) and (6) and 4A of the Ministry of Defence Police Act 1987 *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3][^f00001], makes the following Regulations: *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — Preliminary (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 1 (affected by repeal, see note) — Preliminary (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1)
 - [Section 7 — Written warnings](part-1/section-7.md)
 - [Section 8 — Delegation](part-1/section-8.md)
 
-### PART 2 (affected by repeal, see note) — General (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 2 (affected by repeal, see note) — General (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1)
 - [Section 13 — Outstanding or possible criminal proceedings](part-2/section-13.md)
 - [Section 14 — Suspension](part-2/section-14.md)
 
-### PART 3 (affected by repeal, see note) — Investigations (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 3 (affected by repeal, see note) — Investigations (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1)
 - [Section 21 — Interviews during investigation](part-3/section-21.md)
 - [Section 22 — Report of investigation](part-3/section-22.md)
 
-### PART 4 (affected by repeal, see note) — Misconduct Proceedings (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 4 (affected by repeal, see note) — Misconduct Proceedings (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,7 +115,7 @@ The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1)
 - [Section 43 — Appeal meeting](part-4/section-43.md)
 - [Section 44 — Procedure and finding of the appeal](part-4/section-44.md)
 
-### PART 5 (affected by repeal, see note) — Fast Track Procedure for Special Cases (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 5 (affected by repeal, see note) — Fast Track Procedure for Special Cases (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -140,13 +140,13 @@ The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1)
 - [Section 60A — Publication of information in relation to outcome](part-5/section-60a.md)
 - [Section 61 — Record of special case hearing](part-5/section-61.md)
 
-### PART 6 (affected by repeal, see note) — Record Keeping (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 6 (affected by repeal, see note) — Record Keeping (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 62 — Record of disciplinary proceedings](part-6/section-62.md)
 
-### PART 7 (affected by repeal, see note) — Amendments (affected by repeal, see note)[^key-9405d597f6e4f834f9fa2291f22278c3][^key-9405d597f6e4f834f9fa2291f22278c3]
+### PART 7 (affected by repeal, see note) — Amendments (affected by repeal, see note)[^c-9405d597f6e4f834f9fa2291f22278c3][^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,15 +160,15 @@ The Secretary of State, in exercise of the powers conferred by sections 3A, 4(1)
 
 *Extent: E+W+S+N.I.*
 
-Signed on behalf of the Secretary of State *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Signed on behalf of the Secretary of State *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-Anna Soubry *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Anna Soubry *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-Minister for Defence Personnel, Welfare and Veterans *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Minister for Defence Personnel, Welfare and Veterans *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-Ministry of Defence *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+Ministry of Defence *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
-11th January 2015 *(affected by repeal, see note)*[^key-9405d597f6e4f834f9fa2291f22278c3]
+11th January 2015 *(affected by repeal, see note)*[^c-9405d597f6e4f834f9fa2291f22278c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -210,7 +210,7 @@ The Ministry of Defence Police Statement of Civilian Personnel Policy Extended S
 
 ## Annotations
 
-[^key-9405d597f6e4f834f9fa2291f22278c3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/25) revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/1/a) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/2))
+[^c-9405d597f6e4f834f9fa2291f22278c3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/25) revoked (2.11.2020) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) Regulations 2020 (S.I. 2020/1087)](https://www.legislation.gov.uk/uksi/2020/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/1/a) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1087/regulation/6/2))
 
 [^f00001]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4). Section 3A was inserted by section 79(1) of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and amended by section 126(2) and paragraphs 12 and 14 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and section 6 of the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18); section 4 was substituted by paragraphs 12 and 15 of Schedule 22 to the Criminal Justice and Immigration Act 2008; section 4A was substituted by paragraphs 12 and 15 of Schedule 22 to the Criminal Justice and Immigration Act 2008 and amended by paragraphs 20(1) and (6) of Part 1 of Schedule 2 to the Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 ([S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602)).
 

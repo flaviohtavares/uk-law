@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Disapplication of legislative provisions[^key-28566075b45bb8d4f0a126b4c687b121]
+## 45. Disapplication of legislative provisions[^c-28566075b45bb8d4f0a126b4c687b121]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28566075b45bb8d4f0a126b4c687b121]: Commencement: Art. 45 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-28566075b45bb8d4f0a126b4c687b121]: Commencement: Art. 45 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00092]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 

@@ -29,92 +29,92 @@ Diseases of Fish Act 1983 (repealed)
 
 1983 c. 30
 
-[^key-7e61d38e1a461b751fbf0d6665f6351f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e61d38e1a461b751fbf0d6665f6351f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Amendments of 1937 Act[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-**No longer in force.**
-
-### 1. Importation of live salmon.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Infected waters.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Infected waters: preliminary precautions.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Definitions.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Further amendments of 1937 Act.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Shellfish[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+## Amendments of 1937 Act[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 **No longer in force.**
 
-### 6. Taking of shellfish from certain areas.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+### 1. Importation of live salmon.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Information about fish farming[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+### 2. Infected waters.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Infected waters: preliminary precautions.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Definitions.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Further amendments of 1937 Act.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Shellfish[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 **No longer in force.**
 
-### 7. Power to require information.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+### 6. Taking of shellfish from certain areas.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Information; enforcement.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Disclosure of information.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## General[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+## Information about fish farming[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 **No longer in force.**
 
-### 10. Finance.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+### 7. Power to require information.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Short title, etc.[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+### 8. Information; enforcement.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — FURTHER AMENDMENTS OF 1937 ACT[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87]
+### 9. Disclosure of information.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
 **No longer in force.**
 
-**1.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 10. Finance.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
-**2.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 11. Short title, etc.[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
-**4.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## SCHEDULE — FURTHER AMENDMENTS OF 1937 ACT[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87]
 
-**6.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-**7.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7e61d38e1a461b751fbf0d6665f6351f][^key-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-7e61d38e1a461b751fbf0d6665f6351f][^c-1c64fbdc1e921d5807b63ce90dd54f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e61d38e1a461b751fbf0d6665f6351f]: Textual amendment: Act repealed (27.3.2009) by [Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/6) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2)) and by [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-7e61d38e1a461b751fbf0d6665f6351f]: Textual amendment: Act repealed (27.3.2009) by [Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/6) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2)) and by [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
-[^key-1c64fbdc1e921d5807b63ce90dd54f87]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/30) repealed (S.) (27.3.2009) by [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/6) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-1c64fbdc1e921d5807b63ce90dd54f87]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/30) repealed (S.) (27.3.2009) by [Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/6) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))

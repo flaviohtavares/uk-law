@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where any person, in the course of a trade or profession carried on by him, other than the profession of a barrister, has been concerned with the making of a settlement and knows or has reason to believe—
 
-- (a) that the settlor was a long-term UK resident[^key-41dacfeb08273b28a3e08ac0d7c3f51a], and
+- (a) that the settlor was a long-term UK resident[^c-41dacfeb08273b28a3e08ac0d7c3f51a], and
 - (b) that the trustees of the settlement are not or will not be resident in the United Kingdom,
 
 he shall, within three months of the making of the settlement, make a return to the Board stating the names and addresses of the settlor and of the trustees of the settlement.
@@ -36,4 +36,4 @@ he shall, within three months of the making of the settlement, make a return to 
 
 ## Annotations
 
-[^key-41dacfeb08273b28a3e08ac0d7c3f51a]: Textual amendment: Words in [s. 218(1)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/218/1/a) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 22](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/22), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-41dacfeb08273b28a3e08ac0d7c3f51a]: Textual amendment: Words in [s. 218(1)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/218/1/a) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 22](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/22), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

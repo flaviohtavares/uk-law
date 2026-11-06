@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — List of Waters on which a Coarse Fishing Rod Licence is Valid[^key-0be2107b8f8808a787aec1af6a0c8d0a]
+## SCHEDULE 2 — List of Waters on which a Coarse Fishing Rod Licence is Valid[^c-0be2107b8f8808a787aec1af6a0c8d0a]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ Loughs Augher, Ballynakilly, Ballysaggart, Black, Carrick, Cranslough, Creeve, E
 
 ## Annotations
 
-[^key-0be2107b8f8808a787aec1af6a0c8d0a]: Commencement: Sch. 2 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-0be2107b8f8808a787aec1af6a0c8d0a]: Commencement: Sch. 2 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)

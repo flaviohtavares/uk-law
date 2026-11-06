@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260. Provable debts[^key-3122cdba65c9708c55d2092a8a2dfcdd]
+## 260. Provable debts[^c-3122cdba65c9708c55d2092a8a2dfcdd]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3122cdba65c9708c55d2092a8a2dfcdd]: Commencement: Rule 260 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3122cdba65c9708c55d2092a8a2dfcdd]: Commencement: Rule 260 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00026]: Footnote: [S.I. 1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588).

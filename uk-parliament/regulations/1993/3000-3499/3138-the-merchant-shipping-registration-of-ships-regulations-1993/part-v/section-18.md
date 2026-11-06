@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Appointment of representative persons[^key-fdeb55f2d57c21783df0639bc5b715f9]
+## 18. Appointment of representative persons[^c-fdeb55f2d57c21783df0639bc5b715f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ and the Registrar shall record the new particulars in the Register.
 
 ## Annotations
 
-[^key-fdeb55f2d57c21783df0639bc5b715f9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/3138/regulation/18) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-fdeb55f2d57c21783df0639bc5b715f9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/3138/regulation/18) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

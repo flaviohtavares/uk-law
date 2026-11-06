@@ -46,20 +46,20 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by sections 32, 35A, 35B, 35C and 275 of the Town and Country Planning (Scotland) Act 1997 [^c24451421] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-7df9b33032d9738ac90671267ecec3e3]
+## 1. Citation, commencement and interpretation[^c-7df9b33032d9738ac90671267ecec3e3]
 
-(1) These Regulations may be cited as the Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 and come into force on 1 October 2022[^key-a0195286372c46192191f7006f6e2c5e].
+(1) These Regulations may be cited as the Town and Country Planning (Pre-Application Consultation) (Scotland) Amendment Regulations 2021 and come into force on 1 October 2022[^c-a0195286372c46192191f7006f6e2c5e].
 
 (2) In these Regulations—
 
 - “**the Act**” means the Town and Country Planning (Scotland) Act 1997, and
 - “**the 2013 Regulations**” means the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 [^c24451431].
 
-## 2. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013[^key-6b8de47b1bc8c76d5824b3933260d2f9]
+## 2. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013[^c-6b8de47b1bc8c76d5824b3933260d2f9]
 
 The 2013 Regulations are amended in accordance with regulations 3 to 9.
 
-## 3. Pre-application consultation – exemptions[^key-71299c735b41c0915460df1f936270f2]
+## 3. Pre-application consultation – exemptions[^c-71299c735b41c0915460df1f936270f2]
 
 After regulation 4 (pre-application consultation — classes of development) insert—
 
@@ -81,7 +81,7 @@ After regulation 4 (pre-application consultation — classes of development) ins
 
 .
 
-## 4. Content of pre-application screening notice[^key-f738df36506c356ed8d67579c913d55f]
+## 4. Content of pre-application screening notice[^c-f738df36506c356ed8d67579c913d55f]
 
 In regulation 5 (content of pre-application screening notice) [^c24451441] after paragraph (1) insert—
 
@@ -93,11 +93,11 @@ In regulation 5 (content of pre-application screening notice) [^c24451441] after
 
 .
 
-## 5. Content of proposal of application notice[^key-93c1914d5e9b5a590c1528aa38d7baaf]
+## 5. Content of proposal of application notice[^c-93c1914d5e9b5a590c1528aa38d7baaf]
 
 In regulation 6 (content of proposal of application notice) after “undertake,” insert “ including information as to ”.
 
-## 6. Pre-application consultation[^key-24a3779f828361b0f381dadde730a2bf]
+## 6. Pre-application consultation[^c-24a3779f828361b0f381dadde730a2bf]
 
 In regulation 7 (pre-application consultation) [^c24451451]—
 
@@ -131,7 +131,7 @@ In regulation 7 (pre-application consultation) [^c24451451]—
 
   .
 
-## 7. Form and content of pre-application consultation report[^key-719dae760ee9966b835cf07752a7fe3b]
+## 7. Form and content of pre-application consultation report[^c-719dae760ee9966b835cf07752a7fe3b]
 
 After regulation 7A (temporary relaxation of pre-application consultation requirements during Coronavirus emergency period) [^c24451461] insert—
 
@@ -161,7 +161,7 @@ After regulation 7A (temporary relaxation of pre-application consultation requir
 
 .
 
-## 8. Form and content of an application for planning permission[^key-ce4bce95efb1ab3ae05ca47469e5d2d6]
+## 8. Form and content of an application for planning permission[^c-ce4bce95efb1ab3ae05ca47469e5d2d6]
 
 In regulation 9 (form and content of an application for planning permission)—
 
@@ -172,16 +172,16 @@ In regulation 9 (form and content of an application for planning permission)—
 
   .
 
-## 9. Application for planning permission in principle[^key-7b808f1747bf5a7c097183c4cbe5db20]
+## 9. Application for planning permission in principle[^c-7b808f1747bf5a7c097183c4cbe5db20]
 
 In regulation 10 (application for planning permission in principle) in paragraph (3)(e) after “the application” insert “ is not an exempt application (as defined in regulation 9(4)) and ”.
 
-## 10. Transitional and saving provisions[^key-7b03afb272f527602cc19b37189886b0]
+## 10. Transitional and saving provisions[^c-7b03afb272f527602cc19b37189886b0]
 
-In relation to an application for planning permission where the prospective applicant has before 1[^key-8d8b0b3972ee095fd8bdc5000216dcbe] October 2022 given a proposal of application notice to the planning authority in respect of that application—
+In relation to an application for planning permission where the prospective applicant has before 1[^c-8d8b0b3972ee095fd8bdc5000216dcbe] October 2022 given a proposal of application notice to the planning authority in respect of that application—
 
 - (a) regulation 7 of the 2013 Regulations continues to apply as it did immediately before that date in respect of compliance by a prospective applicant with section 35B of the Act, and
-- (b) regulation 7B of the 2013 Regulations (introduced by regulation 7[^key-a86c4972a948345a4c2b91d067bf2e99] above) does not apply in respect of a pre-application consultation report to be submitted in relation to that application for planning permission.
+- (b) regulation 7B of the 2013 Regulations (introduced by regulation 7[^c-a86c4972a948345a4c2b91d067bf2e99] above) does not apply in respect of a pre-application consultation report to be submitted in relation to that application for planning permission.
 
 AILEEN CAMPBELL
 
@@ -209,36 +209,36 @@ Regulation 10 makes transitional and saving provisions. Regulation 10(a) makes s
 
 [^c24451421]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 32 was substituted by section 7(1) of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (“**the 2006 Act**”). Sections 35A, 35B and 35C were inserted by section 11 of the 2006 Act and were relevantly amended by section 18 of the [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13) (“**the 2019 Act**”). Sections 18(1), 18(2) and 18(4) of the 2019 Act were commenced by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385).
 
-[^key-7df9b33032d9738ac90671267ecec3e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/99/regulation/1) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-7df9b33032d9738ac90671267ecec3e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/99/regulation/1) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-a0195286372c46192191f7006f6e2c5e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1) substituted (30.3.2022) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2022 (S.S.I. 2022/66)](https://www.legislation.gov.uk/ssi/2022/66), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/66/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2022/66/regulation/8/2)
+[^c-a0195286372c46192191f7006f6e2c5e]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1) substituted (30.3.2022) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2022 (S.S.I. 2022/66)](https://www.legislation.gov.uk/ssi/2022/66), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/66/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2022/66/regulation/8/2)
 
 [^c24451431]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155).
 
-[^key-6b8de47b1bc8c76d5824b3933260d2f9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/99/regulation/2) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-6b8de47b1bc8c76d5824b3933260d2f9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/99/regulation/2) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-71299c735b41c0915460df1f936270f2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/99/regulation/3) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-71299c735b41c0915460df1f936270f2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/99/regulation/3) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-f738df36506c356ed8d67579c913d55f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/99/regulation/4) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-f738df36506c356ed8d67579c913d55f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/99/regulation/4) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
 [^c24451441]: Marginal citation: [Regulation 5](https://www.legislation.gov.uk/ssi/2021/99/regulation/5) was amended by [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102).
 
-[^key-93c1914d5e9b5a590c1528aa38d7baaf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/99/regulation/5) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-93c1914d5e9b5a590c1528aa38d7baaf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/99/regulation/5) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-24a3779f828361b0f381dadde730a2bf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/99/regulation/6) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-24a3779f828361b0f381dadde730a2bf]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/99/regulation/6) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
 [^c24451451]: Marginal citation: [Regulation 7](https://www.legislation.gov.uk/ssi/2021/99/regulation/7) was amended by [S.S.I. 2020/124](https://www.legislation.gov.uk/ssi/2020/124).
 
-[^key-719dae760ee9966b835cf07752a7fe3b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/99/regulation/7) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-719dae760ee9966b835cf07752a7fe3b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/99/regulation/7) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
 [^c24451461]: Marginal citation: [Regulation 7A](https://www.legislation.gov.uk/ssi/2021/99/regulation/7A) was inserted by [S.S.I. 2020/124](https://www.legislation.gov.uk/ssi/2020/124).
 
-[^key-ce4bce95efb1ab3ae05ca47469e5d2d6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/99/regulation/8) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-ce4bce95efb1ab3ae05ca47469e5d2d6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/99/regulation/8) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-7b808f1747bf5a7c097183c4cbe5db20]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/99/regulation/9) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-7b808f1747bf5a7c097183c4cbe5db20]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/99/regulation/9) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-7b03afb272f527602cc19b37189886b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/99/regulation/10) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
+[^c-7b03afb272f527602cc19b37189886b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/99/regulation/10) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/99/regulation/1/1)
 
-[^key-8d8b0b3972ee095fd8bdc5000216dcbe]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2021/99/regulation/10) substituted (30.3.2022) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2022 (S.S.I. 2022/66)](https://www.legislation.gov.uk/ssi/2022/66), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/66/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2022/66/regulation/8/3)
+[^c-8d8b0b3972ee095fd8bdc5000216dcbe]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2021/99/regulation/10) substituted (30.3.2022) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2022 (S.S.I. 2022/66)](https://www.legislation.gov.uk/ssi/2022/66), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/66/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2022/66/regulation/8/3)
 
-[^key-a86c4972a948345a4c2b91d067bf2e99]: Textual amendment: Word in reg. 10(b) substituted (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2021/292/regulation/8/3/b)
+[^c-a86c4972a948345a4c2b91d067bf2e99]: Textual amendment: Word in reg. 10(b) substituted (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2021/292/regulation/8/3/b)

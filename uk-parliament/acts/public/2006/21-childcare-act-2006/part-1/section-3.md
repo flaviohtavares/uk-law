@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Specific duties of local authority in relation to early childhood services[^key-3873719441bada62138286841c0d95c2]
+## 3. Specific duties of local authority in relation to early childhood services[^c-3873719441bada62138286841c0d95c2]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 - (b) early years providers in their area, including those in the private and voluntary sectors, and
 - (c) other persons engaged in activities which may improve the well-being of young children in their area.
 
-(4A)[^key-eee947df4219516f6de483e87a347033] In deciding what arrangements to make under this section, an English local authority must in particular have regard to—
+(4A)[^c-eee947df4219516f6de483e87a347033] In deciding what arrangements to make under this section, an English local authority must in particular have regard to—
 
 - (a) the quantity and quality of early childhood services that are provided, or that the authority expect to be provided, in their area, and
 - (b) where in that area those services are provided or are expected to be provided.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3873719441bada62138286841c0d95c2]: Commencement: S. 3 in force at 1.4.2008 by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/785/article/2/b)
+[^c-3873719441bada62138286841c0d95c2]: Commencement: S. 3 in force at 1.4.2008 by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/785/article/2/b)
 
-[^key-eee947df4219516f6de483e87a347033]: Textual amendment: S. 3(4A) inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 201](https://www.legislation.gov.uk/ukpga/2009/22/section/201), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
+[^c-eee947df4219516f6de483e87a347033]: Textual amendment: S. 3(4A) inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 201](https://www.legislation.gov.uk/ukpga/2009/22/section/201), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)

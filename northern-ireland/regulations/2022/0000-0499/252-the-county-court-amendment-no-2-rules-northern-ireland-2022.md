@@ -44,11 +44,11 @@ Coming into operation
 
 The County Court Rules Committee makes and the Department of Justice, after consultation with the Lady Chief Justice, allows the following Rules in exercise of the powers conferred by Article 47 of the County Courts (Northern Ireland) Order 1980[^f00001] and paragraphs 10(2) and 10(5) of Schedule 6 to the Administration of Justice Act 1982[^f00002].
 
-## 1. Citation and commencement[^key-3dcbafe9c6d6dd3487398b993ed1515d]
+## 1. Citation and commencement[^c-3dcbafe9c6d6dd3487398b993ed1515d]
 
 These Rules may be cited as the County Court (Amendment No. 2) Rules (Northern Ireland) 2022 and shall come into operation on 6th January 2023.
 
-## 2. Amendments to the County Court Rules (Northern Ireland) 1981[^key-bedb63ccd38bb8bda0c3bc9ba2ff67e4]
+## 2. Amendments to the County Court Rules (Northern Ireland) 1981[^c-bedb63ccd38bb8bda0c3bc9ba2ff67e4]
 
 The County Court Rules (Northern Ireland) 1981[^f00003] are amended as follows—
 
@@ -71,7 +71,7 @@ Naomi R Long
 
 Minister of Justice
 
-## SCHEDULE 1[^key-c6a1f68827044a3f32b6c17d19c2c7f0]
+## SCHEDULE 1[^c-c6a1f68827044a3f32b6c17d19c2c7f0]
 
 Rule 2(a)
 
@@ -184,7 +184,7 @@ Rule 2(a)
 >
 > Any judgment against a party who does not appear at the hearing of an application may be set aside or varied by the judge on such terms as he thinks just.
 
-## SCHEDULE 2[^key-44c8bfada8462cb57e88e5d19f1f01ea]
+## SCHEDULE 2[^c-44c8bfada8462cb57e88e5d19f1f01ea]
 
 Rule 2(b)
 
@@ -258,14 +258,14 @@ These Rules amend the County Court Rules (Northern Ireland) 1981 ([S.R. 1981 No.
 
 [^f00002]: Footnote: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53)
 
-[^key-3dcbafe9c6d6dd3487398b993ed1515d]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
+[^c-3dcbafe9c6d6dd3487398b993ed1515d]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
 
-[^key-bedb63ccd38bb8bda0c3bc9ba2ff67e4]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2022/252/rule/2) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
+[^c-bedb63ccd38bb8bda0c3bc9ba2ff67e4]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/2022/252/rule/2) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
 
 [^f00003]: Footnote: [S.R. 1981 No 225](https://www.legislation.gov.uk/nisr/1981/225); to which the most recent relevant amendments were made by [S.R. 2016 No. 302](https://www.legislation.gov.uk/nisr/2016/302), [S.R. 2013 No. 140](https://www.legislation.gov.uk/nisr/2013/140) and [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19)
 
-[^key-c6a1f68827044a3f32b6c17d19c2c7f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2022/252/schedule/1) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
+[^c-c6a1f68827044a3f32b6c17d19c2c7f0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2022/252/schedule/1) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
 
-[^key-44c8bfada8462cb57e88e5d19f1f01ea]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2022/252/schedule/2) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
+[^c-44c8bfada8462cb57e88e5d19f1f01ea]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2022/252/schedule/2) in operation at 6.1.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2022/252/rule/1)
 
 [^f00004]: Footnote: [1982 c.53](https://www.legislation.gov.uk/ukpga/1982/53)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Service providers[^key-3d5bf9501ee5aae8c91bd7e77a48c624]
+## 21. Service providers[^c-3d5bf9501ee5aae8c91bd7e77a48c624]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d5bf9501ee5aae8c91bd7e77a48c624]: Commencement: Reg. 21 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-3d5bf9501ee5aae8c91bd7e77a48c624]: Commencement: Reg. 21 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to the Electricity Transmission System Operation Regulation[^key-a81d1c5aedc4f69bcae681a6fb9856c6]
+## 3. Amendments to the Electricity Transmission System Operation Regulation[^c-a81d1c5aedc4f69bcae681a6fb9856c6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Electricity Transmission System Operation Regulation is amended as set out i
 
 ## Annotations
 
-[^key-a81d1c5aedc4f69bcae681a6fb9856c6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a81d1c5aedc4f69bcae681a6fb9856c6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

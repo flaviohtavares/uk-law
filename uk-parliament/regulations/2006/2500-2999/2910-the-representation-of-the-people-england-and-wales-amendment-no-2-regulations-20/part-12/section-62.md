@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Amendments relating to requirement to make notification to absent voters[^key-8e8383f5fee90ddcbc7eeda162bd02f8]
+## 62. Amendments relating to requirement to make notification to absent voters[^c-8e8383f5fee90ddcbc7eeda162bd02f8]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e8383f5fee90ddcbc7eeda162bd02f8]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2006/2910/regulation/62) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-8e8383f5fee90ddcbc7eeda162bd02f8]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2006/2910/regulation/62) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00084]: Footnote: Amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

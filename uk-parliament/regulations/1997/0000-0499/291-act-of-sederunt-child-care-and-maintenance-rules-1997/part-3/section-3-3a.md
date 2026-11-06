@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.3A. Child to attend hearing[^key-1dd883e3f46cb09b9dcdb95bbba79387]
+## 3.3A. Child to attend hearing[^c-1dd883e3f46cb09b9dcdb95bbba79387]
 
 *Extent: S*
 
-(1)[^key-f81b75a2128794e89715fd4d809eee3e] This rule applies where an application is made to the sheriff under—
+(1)[^c-f81b75a2128794e89715fd4d809eee3e] This rule applies where an application is made to the sheriff under—
 
 - (a) the 2011 Act, other than where section 103 or 112 of the 2011 Act applies; or
 - (b) section 44A of the CPSA 1995.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd883e3f46cb09b9dcdb95bbba79387]: Textual amendment: Rules 3.3, 3.3A substituted for rule 3.3 (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/5) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-1dd883e3f46cb09b9dcdb95bbba79387]: Textual amendment: Rules 3.3, 3.3A substituted for rule 3.3 (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/5) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-f81b75a2128794e89715fd4d809eee3e]: Textual amendment: Rule 3.3A(1) substituted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/4)
+[^c-f81b75a2128794e89715fd4d809eee3e]: Textual amendment: Rule 3.3A(1) substituted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/4)

@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Stabilisation and Association Agreement) (Bosnia and Herzegovina) Order 2010 (revoked)[^key-34e22c7f71d86f6adb3f413af3e07a2b]
+The European Union (Definition of Treaties) (Stabilisation and Association Agreement) (Bosnia and Herzegovina) Order 2010 (revoked)[^c-34e22c7f71d86f6adb3f413af3e07a2b]
 
 Made
 
@@ -46,26 +46,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-34e22c7f71d86f6adb3f413af3e07a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34e22c7f71d86f6adb3f413af3e07a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-34e22c7f71d86f6adb3f413af3e07a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-34e22c7f71d86f6adb3f413af3e07a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-34e22c7f71d86f6adb3f413af3e07a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-34e22c7f71d86f6adb3f413af3e07a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-34e22c7f71d86f6adb3f413af3e07a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-34e22c7f71d86f6adb3f413af3e07a2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34e22c7f71d86f6adb3f413af3e07a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34e22c7f71d86f6adb3f413af3e07a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-34e22c7f71d86f6adb3f413af3e07a2b]
+## SCHEDULE[^c-34e22c7f71d86f6adb3f413af3e07a2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34e22c7f71d86f6adb3f413af3e07a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34e22c7f71d86f6adb3f413af3e07a2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34e22c7f71d86f6adb3f413af3e07a2b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/766) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34e22c7f71d86f6adb3f413af3e07a2b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/766) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

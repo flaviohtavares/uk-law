@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Notification of names of applicants and associates[^key-f0f10d7f88d065b77208605c22f8efad]
+## 5. Notification of names of applicants and associates[^c-f0f10d7f88d065b77208605c22f8efad]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0f10d7f88d065b77208605c22f8efad]: Commencement: Reg. 5 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-f0f10d7f88d065b77208605c22f8efad]: Commencement: Reg. 5 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

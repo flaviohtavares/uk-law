@@ -22,11 +22,11 @@ summary: ''
 
 Articles 18 and 19
 
-### PART 1 — SPEED LIMITS[^key-44cc78bbec95174694ae8ad50e7731d6]
+### PART 1 — SPEED LIMITS[^c-44cc78bbec95174694ae8ad50e7731d6]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road* | *(3)*<br>*Extent as shown on the Traffic Regulation Measures – Speed Limits Plans* | *(4)*<br>*Speed Limits* |
 | --- | --- | --- | --- |
-| West Sussex County Council | Gatwick Spur Westbound | Between point 1a and point 1b as shown on[^key-bda1c2fbe9315c44dff0c29551b035e2] Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 1470m. | Speed limit of 50mph |
+| West Sussex County Council | Gatwick Spur Westbound | Between point 1a and point 1b as shown on[^c-bda1c2fbe9315c44dff0c29551b035e2] Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 1470m. | Speed limit of 50mph |
 | West Sussex County Council | Gatwick Spur Eastbound | Between point 2a and point 2b as shown on Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 1530m. | Speed limit of 50mph |
 | West Sussex County Council | Gatwick Spur Westbound Diverge | Between point 3a and point 3b as shown on Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 160m. | Speed limit of 50mph |
 | West Sussex County Council | Gatwick Spur Westbound Diverge | Between point 3b and point 5a as shown on Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 245m. | Speed limit of 40mph |
@@ -48,7 +48,7 @@ Articles 18 and 19
 | West Sussex County Council | Airport Way Westbound Diverge to North Terminal Roundabout | Between point 17b and point 19a as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of 10m. | Speed limit of 30mph |
 | West Sussex County Council | Airport Way Eastbound | Between point 18b and point 2a as shown on Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 245m. | Speed limit of 40mph |
 | West Sussex County Council | A23 London Road Diverge to Airport Way Eastbound | Between point 18a and point 18b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of 610m. | Speed limit of 40mph |
-| West Sussex County Council | Airport Way Westbound Diverge to North Terminal Roundabout | Between point 20a and point 20b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of [^key-fede2b51a379015531d0609ef25310ff]... 155m. | Speed limit of 40mph |
+| West Sussex County Council | Airport Way Westbound Diverge to North Terminal Roundabout | Between point 20a and point 20b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of [^c-fede2b51a379015531d0609ef25310ff]... 155m. | Speed limit of 40mph |
 | West Sussex County Council | North Terminal Roundabout Segregated Lane | Between point 20b and point 21b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of 105m. | Speed limit of 30mph |
 | West Sussex County Council, Gatwick Airport Limited | North Terminal Approach Road | Between point 22a and point 22b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of 140m. | Speed limit of 30mph |
 | West Sussex County Council, Gatwick Airport Limited | Gatwick Way | Between point 23a and point 23b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of 175m. | Speed limit of 30mph |
@@ -77,7 +77,7 @@ Articles 18 and 19
 | West Sussex County Council, Gatwick Airport Limited | Car Park B access road | Between point 46a and point 46b as shown on Sheet 1A of the Traffic Regulation Measures – Speed Limits plans for a length of 125m. | Speed limit of 30mph |
 | West Sussex County Council | Gatwick Spur Westbound | Between point 1c and point 1a as shown on Sheet 2A of the Traffic Regulation Measures – Speed Limits plans for a length of 60m. | Speed limit of 50mph |
 
-### PART 2 — TRAFFIC REGULATION MEASURES (CLEARWAYS, HEIGHT RESTRICTIONS AND PROHIBITIONS)[^key-03038e63f950f808130560b3a46d0f0e]
+### PART 2 — TRAFFIC REGULATION MEASURES (CLEARWAYS, HEIGHT RESTRICTIONS AND PROHIBITIONS)[^c-03038e63f950f808130560b3a46d0f0e]
 
 <table>
 <thead>
@@ -128,9 +128,9 @@ Articles 18 and 19
 </tbody>
 </table>
 
-[^key-74e16cb156cdd0fd989c1834d28dc205]
+[^c-74e16cb156cdd0fd989c1834d28dc205]
 
-### PART 3 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-7d75e9e2351b2a04c360e76151d30b19]
+### PART 3 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-7d75e9e2351b2a04c360e76151d30b19]
 
 <table>
 <thead>
@@ -185,24 +185,24 @@ Articles 18 and 19
 </tbody>
 </table>
 
-[^f00107][^f00108][^key-1211ae18f4f4aa8c962ed0b762321ab7]
+[^f00107][^f00108][^c-1211ae18f4f4aa8c962ed0b762321ab7]
 
 ## Annotations
 
-[^key-44cc78bbec95174694ae8ad50e7731d6]: Commencement: Sch. 6 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-44cc78bbec95174694ae8ad50e7731d6]: Commencement: Sch. 6 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-bda1c2fbe9315c44dff0c29551b035e2]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/1) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-bda1c2fbe9315c44dff0c29551b035e2]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/1) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-fede2b51a379015531d0609ef25310ff]: Textual amendment: Word in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/1) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-fede2b51a379015531d0609ef25310ff]: Textual amendment: Word in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/1) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-03038e63f950f808130560b3a46d0f0e]: Commencement: Sch. 6 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-03038e63f950f808130560b3a46d0f0e]: Commencement: Sch. 6 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-74e16cb156cdd0fd989c1834d28dc205]: Textual amendment: Words in [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/2) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-74e16cb156cdd0fd989c1834d28dc205]: Textual amendment: Words in [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/2) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-7d75e9e2351b2a04c360e76151d30b19]: Commencement: Sch. 6 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-7d75e9e2351b2a04c360e76151d30b19]: Commencement: Sch. 6 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00107]: Footnote: [S.I. 2020/721](https://www.legislation.gov.uk/uksi/2020/721).
 
 [^f00108]: Footnote: [S.I. 2011/2027](https://www.legislation.gov.uk/uksi/2011/2027).
 
-[^key-1211ae18f4f4aa8c962ed0b762321ab7]: Textual amendment: Word in [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/3) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule)
+[^c-1211ae18f4f4aa8c962ed0b762321ab7]: Textual amendment: Word in [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2025/1054/schedule/6/part/3) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule)

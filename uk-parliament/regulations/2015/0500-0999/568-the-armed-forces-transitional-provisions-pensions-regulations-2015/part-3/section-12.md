@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendment of rule H.1 in Schedule 1 to the AFPS Order 2005[^key-00b14d8397fcb258493968c3f8a4f3fa]
+## 12. Amendment of rule H.1 in Schedule 1 to the AFPS Order 2005[^c-00b14d8397fcb258493968c3f8a4f3fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ Rule H.1(application of Part H) in Schedule 1 to the AFPS Order 2005 is amended 
 
 ## Annotations
 
-[^key-00b14d8397fcb258493968c3f8a4f3fa]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-00b14d8397fcb258493968c3f8a4f3fa]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

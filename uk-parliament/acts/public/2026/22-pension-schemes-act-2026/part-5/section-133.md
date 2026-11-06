@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Commencement[^key-9fad535547428140bb048832d2bb8d23]
+## 133. Commencement[^c-9fad535547428140bb048832d2bb8d23]
 
 *Extent: E+W+S*
 
@@ -87,4 +87,4 @@ section 40 is repealed at the end of that year in respect of the insertion of th
 
 ## Annotations
 
-[^key-9fad535547428140bb048832d2bb8d23]: Commencement: S. 133 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)
+[^c-9fad535547428140bb048832d2bb8d23]: Commencement: S. 133 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The contractor must, subject to paragraphs (2) and (3), sufficiently answer any inquiries, whether oral or in writing, from NHS England[^key-9520329cffeb7671913a444ac58ebf84] concerning—
+(1) The contractor must, subject to paragraphs (2) and (3), sufficiently answer any inquiries, whether oral or in writing, from NHS England[^c-9520329cffeb7671913a444ac58ebf84] concerning—
 
 - (a) any prescription form or repeatable prescription form issued or created by a prescriber;
 - (b) the considerations by reference to which prescribers issue such forms;
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

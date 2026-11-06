@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Blends of oil from two or more fields.[^key-e6a3a429c186b2a48a069c7d3b68fe21]
+## 63. Blends of oil from two or more fields.[^c-e6a3a429c186b2a48a069c7d3b68fe21]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6a3a429c186b2a48a069c7d3b68fe21]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/1987/16/section/63) substituted (with effect in accordance with Sch. 39 para. 4 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/39/paragraph/2)
+[^c-e6a3a429c186b2a48a069c7d3b68fe21]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/1987/16/section/63) substituted (with effect in accordance with Sch. 39 para. 4 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/39/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Defective applications[^key-3c358a387c4c392338f756feb3a3910f]
+## 93. Defective applications[^c-3c358a387c4c392338f756feb3a3910f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Director of Savings may refuse to accept an application required by these Re
 
 ## Annotations
 
-[^key-3c358a387c4c392338f756feb3a3910f]: Commencement: Reg. 93 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-3c358a387c4c392338f756feb3a3910f]: Commencement: Reg. 93 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73A. Committees of the Council[^key-df07d72cb9665f91a01d8c931a160f3b][^c17115311]
+## 73A. Committees of the Council[^c-df07d72cb9665f91a01d8c931a160f3b][^c17115311]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) If more than one-third of the members of any committee appointed under this Article are not members of the Council, no resolution of that committee shall be duly passed unless the majority of the members of the Council present vote in favour of it.
 
-(5) Any committee to which any functions exercisable by the Council under Article [^key-befaee885954b4883e9fd736dca8229a]... 41B are delegated in pursuance of paragraph (1) shall include—
+(5) Any committee to which any functions exercisable by the Council under Article [^c-befaee885954b4883e9fd736dca8229a]... 41B are delegated in pursuance of paragraph (1) shall include—
 
 - (a) such number of persons who are solicitors but not members of the Council as the committee may determine; and
 - (b) such number of persons who are neither solicitors nor members of the Bar of Northern Ireland as the Lord Chief Justice may, after consultation with the Council, determine.
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-df07d72cb9665f91a01d8c931a160f3b]: Modification: [Art. 73A](https://www.legislation.gov.uk/nisi/1976/582/article/73A) excluded (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 30(2)](https://www.legislation.gov.uk/nia/2016/14/section/30/2), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-df07d72cb9665f91a01d8c931a160f3b]: Modification: [Art. 73A](https://www.legislation.gov.uk/nisi/1976/582/article/73A) excluded (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [ss. 30(2)](https://www.legislation.gov.uk/nia/2016/14/section/30/2), [55](https://www.legislation.gov.uk/nia/2016/14/section/55); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
 
 [^c17115311]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 
-[^key-befaee885954b4883e9fd736dca8229a]: Textual amendment: Words in [art. 73A(5)](https://www.legislation.gov.uk/nisi/1976/582/article/73A/5) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(9)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/9), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-befaee885954b4883e9fd736dca8229a]: Textual amendment: Words in [art. 73A(5)](https://www.legislation.gov.uk/nisi/1976/582/article/73A/5) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(9)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/9), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)

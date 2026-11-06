@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Landlord's break clause under fixed term standard contract: when notice may be given[^key-b9fcbe978a768b5e6eb2abc127e7e3c0]
+## 5. Landlord's break clause under fixed term standard contract: when notice may be given[^c-b9fcbe978a768b5e6eb2abc127e7e3c0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9fcbe978a768b5e6eb2abc127e7e3c0]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2021/3/section/5) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-b9fcbe978a768b5e6eb2abc127e7e3c0]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2021/3/section/5) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

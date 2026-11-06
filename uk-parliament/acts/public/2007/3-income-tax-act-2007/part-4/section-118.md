@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Carry forward against subsequent property business profits[^key-4d867536785e4fddb9301a9f32e1c59d]
+## 118. Carry forward against subsequent property business profits[^c-4d867536785e4fddb9301a9f32e1c59d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d867536785e4fddb9301a9f32e1c59d]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/2007/3/section/118) excluded (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 20(7)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/20/7)
+[^c-4d867536785e4fddb9301a9f32e1c59d]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/2007/3/section/118) excluded (with effect in accordance with Sch. 18 para. 63 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 18 para. 20(7)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/18/paragraph/20/7)

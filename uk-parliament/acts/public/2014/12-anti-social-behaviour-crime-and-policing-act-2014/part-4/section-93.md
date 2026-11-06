@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Saving and transitional provision[^key-b2af73d0cd0ab275202bfb5f2144a416]
+## 93. Saving and transitional provision[^c-b2af73d0cd0ab275202bfb5f2144a416]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2af73d0cd0ab275202bfb5f2144a416]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2014/12/section/93) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-b2af73d0cd0ab275202bfb5f2144a416]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2014/12/section/93) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

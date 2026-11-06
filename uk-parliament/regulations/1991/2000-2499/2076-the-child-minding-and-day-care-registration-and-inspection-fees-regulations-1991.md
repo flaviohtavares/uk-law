@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Health in relation to England and Wales and the Secretary of State for Scotland in relation to Scotland in exercise of the powers conferred by sections 71(16) and 104(4) of, and paragraphs 1(3), 6(4) and 7 of Schedule 9 to the Children Act 1989[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:–
 
-## 1. Citation and Commencement[^key-faef18fadbcf6781fd9c36a01f495d08]
+## 1. Citation and Commencement[^c-faef18fadbcf6781fd9c36a01f495d08]
 
 These Regulations may be cited as the Child Minding and Day Care (Registration and Inspection Fees) Regulations 1991 and shall come into force on 14th October 1991.
 
-## 2. Interpretation[^key-8d50fd0a148efd22e68d60963b4f0606]
+## 2. Interpretation[^c-8d50fd0a148efd22e68d60963b4f0606]
 
 In these Regulations unless the context otherwise requires–
 
@@ -59,7 +59,7 @@ In these Regulations unless the context otherwise requires–
 - “full day care” means day care provided for children under the age of eight for a full working day on premises other than domestic premises;
 - “sessional day care” means day care provided for children under the age of eight for less than a full working day on premises other than domestic premises.
 
-## 3. Registration[^key-ef33b3bf42e7a4d3084200d8c5389cc6]
+## 3. Registration[^c-ef33b3bf42e7a4d3084200d8c5389cc6]
 
 (1) An application under section 71(1)(a) of the Act for registration as a child minder shall be accompanied by a fee of £10.00.
 
@@ -75,7 +75,7 @@ In these Regulations unless the context otherwise requires–
 
 no fee shall be payable.
 
-## 4. Fee on Annual Inspection[^key-5a02fc9080917af6a59371e04c26416a]
+## 4. Fee on Annual Inspection[^c-5a02fc9080917af6a59371e04c26416a]
 
 The following fees are prescribed for the purposes of paragraph 7 of Schedule 9 to the Act (fees for annual inspection)–
 
@@ -83,7 +83,7 @@ The following fees are prescribed for the purposes of paragraph 7 of Schedule 9 
 - (b) where the person registered under section 71 of the Act is a provider of full day care, whether or not he is also a provider of sessional day care, the sum of £75.00;
 - (c) where the person registered under section 71 of the Act is a provider of sessional day care and is not also a provider of full day care, the sum of £7.50.
 
-## 5. Fee payable for issue of copy certificate[^key-6c577d83e3668690aed5eb4e323dc5d0]
+## 5. Fee payable for issue of copy certificate[^c-6c577d83e3668690aed5eb4e323dc5d0]
 
 A fee of £5.00 is prescribed for the purposes of paragraph 6(4) of Schedule 9 to the Act (issue of copy certificate of registration under section 71 of the Act where certificate been lost or destroyed).
 
@@ -117,14 +117,14 @@ Regulation 4 prescribes the fees that shall be payable in respect of the annual 
 
 [^f00001]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-faef18fadbcf6781fd9c36a01f495d08]: Commencement: Reg. 1 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
+[^c-faef18fadbcf6781fd9c36a01f495d08]: Commencement: Reg. 1 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
 
-[^key-8d50fd0a148efd22e68d60963b4f0606]: Commencement: Reg. 2 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
+[^c-8d50fd0a148efd22e68d60963b4f0606]: Commencement: Reg. 2 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
 
 [^f00002]: Footnote: [1948 c. 53](https://www.legislation.gov.uk/ukpga/1948/53).
 
-[^key-ef33b3bf42e7a4d3084200d8c5389cc6]: Commencement: Reg. 3 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
+[^c-ef33b3bf42e7a4d3084200d8c5389cc6]: Commencement: Reg. 3 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
 
-[^key-5a02fc9080917af6a59371e04c26416a]: Commencement: Reg. 4 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
+[^c-5a02fc9080917af6a59371e04c26416a]: Commencement: Reg. 4 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
 
-[^key-6c577d83e3668690aed5eb4e323dc5d0]: Commencement: Reg. 5 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)
+[^c-6c577d83e3668690aed5eb4e323dc5d0]: Commencement: Reg. 5 in force at 14.10.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2076/regulation/1)

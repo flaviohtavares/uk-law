@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Traffic in prostitution etc.[^key-399df17022a853408ccc36752313357b]
+## 22. Traffic in prostitution etc.[^c-399df17022a853408ccc36752313357b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-399df17022a853408ccc36752313357b]: Textual amendment: [S. 22](https://www.legislation.gov.uk/asp/2003/7/section/22) repealed (17.12.2016) by [Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2015/12/section/45/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2015/12/schedule/paragraph/2) (with [s. 44](https://www.legislation.gov.uk/asp/2015/12/section/44)); [S.S.I. 2016/385](https://www.legislation.gov.uk/ssi/2016/385), [reg. 2](https://www.legislation.gov.uk/ssi/2016/385/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/385/regulation/3))
+[^c-399df17022a853408ccc36752313357b]: Textual amendment: [S. 22](https://www.legislation.gov.uk/asp/2003/7/section/22) repealed (17.12.2016) by [Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2015/12/section/45/2), [sch. para. 2](https://www.legislation.gov.uk/asp/2015/12/schedule/paragraph/2) (with [s. 44](https://www.legislation.gov.uk/asp/2015/12/section/44)); [S.S.I. 2016/385](https://www.legislation.gov.uk/ssi/2016/385), [reg. 2](https://www.legislation.gov.uk/ssi/2016/385/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/385/regulation/3))

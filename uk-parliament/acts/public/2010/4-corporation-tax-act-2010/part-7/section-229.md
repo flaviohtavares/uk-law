@@ -36,8 +36,8 @@ will exceed the limit for that period.
 
 (4) The limit for an accreditation period is—
 
-- (a) £25 million[^key-4daa30def11573655cfdfddcbde93353] if the CDFI is accredited for the period as a retail community development finance institution (see section 340(8) of ITA 2007), and
-- (b) £100 million[^key-dc48d9210a59b5b6a291a17880c8bcd3] in any other case.
+- (a) £25 million[^c-4daa30def11573655cfdfddcbde93353] if the CDFI is accredited for the period as a retail community development finance institution (see section 340(8) of ITA 2007), and
+- (b) £100 million[^c-dc48d9210a59b5b6a291a17880c8bcd3] in any other case.
 
 (5) For the purposes of subsection (2) the value of an investment made in the CDFI is—
 
@@ -58,6 +58,6 @@ will exceed the limit for that period.
 
 ## Annotations
 
-[^key-4daa30def11573655cfdfddcbde93353]: Textual amendment: Sum in s. 229(4)(a) substituted (with effect in relation to accreditation periods ending on or after 1.6.2023) by [The Community Investment Tax Relief (Amendment of Investment Limits) Regulations 2023 (S.I. 2023/518)](https://www.legislation.gov.uk/uksi/2023/518), [regs. 1](https://www.legislation.gov.uk/uksi/2023/518/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/518/regulation/3/a)
+[^c-4daa30def11573655cfdfddcbde93353]: Textual amendment: Sum in s. 229(4)(a) substituted (with effect in relation to accreditation periods ending on or after 1.6.2023) by [The Community Investment Tax Relief (Amendment of Investment Limits) Regulations 2023 (S.I. 2023/518)](https://www.legislation.gov.uk/uksi/2023/518), [regs. 1](https://www.legislation.gov.uk/uksi/2023/518/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/518/regulation/3/a)
 
-[^key-dc48d9210a59b5b6a291a17880c8bcd3]: Textual amendment: Sum in s. 229(4)(b) substituted (with effect in relation to accreditation periods ending on or after 1.6.2023) by [The Community Investment Tax Relief (Amendment of Investment Limits) Regulations 2023 (S.I. 2023/518)](https://www.legislation.gov.uk/uksi/2023/518), [regs. 1](https://www.legislation.gov.uk/uksi/2023/518/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/518/regulation/3/b)
+[^c-dc48d9210a59b5b6a291a17880c8bcd3]: Textual amendment: Sum in s. 229(4)(b) substituted (with effect in relation to accreditation periods ending on or after 1.6.2023) by [The Community Investment Tax Relief (Amendment of Investment Limits) Regulations 2023 (S.I. 2023/518)](https://www.legislation.gov.uk/uksi/2023/518), [regs. 1](https://www.legislation.gov.uk/uksi/2023/518/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/518/regulation/3/b)

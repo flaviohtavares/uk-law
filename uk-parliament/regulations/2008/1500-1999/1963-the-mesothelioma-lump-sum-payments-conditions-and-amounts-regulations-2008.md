@@ -61,7 +61,7 @@ In accordance with section 7(3) of the Pneumoconiosis etc. (Worker's Compensatio
 
 - (a) payment under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 [^c1934957];
 - (b) payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2005 [^c1934958];
-- (c)[^key-6ee7cd2d5ccf304f25dfe68644d4b67f] payment from any government department, authority, body corporate or employer exempted from insurance by or under section 3 of the Employers’ Liability (Compulsory Insurance) Act 1969 or Article 7 of the Employers’ Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972.
+- (c)[^c-6ee7cd2d5ccf304f25dfe68644d4b67f] payment from any government department, authority, body corporate or employer exempted from insurance by or under section 3 of the Employers’ Liability (Compulsory Insurance) Act 1969 or Article 7 of the Employers’ Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972.
 - (d) payment under the UK Asbestos Trust established on 10th October 2006, for the benefit of certain persons suffering from asbestos-related diseases;
 - (e) payment under the EL Scheme Trust established on 23rd November 2006, for the benefit of certain persons suffering from asbestos-related diseases.
 
@@ -118,7 +118,7 @@ Department for Work and Pensions
 
 Regulation 5
 
-Table 1[^key-f676fb4baeb3aa691f2ab5a0b235a17a]
+Table 1[^c-f676fb4baeb3aa691f2ab5a0b235a17a]
 
 Amount of lump sum payment to person with mesothelioma
 
@@ -166,7 +166,7 @@ Amount of lump sum payment to person with mesothelioma
 | 76 | 19,377 |
 | 77 or over | 18,733; |
 
-Table 2[^key-f806c4fbecae9b2f11f58a698d766a5a]
+Table 2[^c-f806c4fbecae9b2f11f58a698d766a5a]
 
 Amount of lump sum payment to dependant
 
@@ -230,10 +230,10 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^c1934958]: Marginal citation: [S.I. 2005/439](https://www.legislation.gov.uk/uksi/2005/439).
 
-[^key-6ee7cd2d5ccf304f25dfe68644d4b67f]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/1963/regulation/2/1/c) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2365/regulation/5)
+[^c-6ee7cd2d5ccf304f25dfe68644d4b67f]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/1963/regulation/2/1/c) substituted (1.10.2008) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2365/regulation/5)
 
 [^c1934960]: Marginal citation: [S.I. 1988/668](https://www.legislation.gov.uk/uksi/1988/668).
 
-[^key-f676fb4baeb3aa691f2ab5a0b235a17a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 1 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2026 (S.I. 2026/377)](https://www.legislation.gov.uk/uksi/2026/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/377/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/2))
+[^c-f676fb4baeb3aa691f2ab5a0b235a17a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 1 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2026 (S.I. 2026/377)](https://www.legislation.gov.uk/uksi/2026/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2026/377/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/2))
 
-[^key-f806c4fbecae9b2f11f58a698d766a5a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 2 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2026 (S.I. 2026/377)](https://www.legislation.gov.uk/uksi/2026/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/377/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/3))
+[^c-f806c4fbecae9b2f11f58a698d766a5a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1963/schedule) Table 2 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations 2026 (S.I. 2026/377)](https://www.legislation.gov.uk/uksi/2026/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2026/377/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/377/regulation/1/3))

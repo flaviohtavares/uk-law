@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**23.**[^key-89f1a1826911e6187434037de8524044] The amendments made by these Regulations to section 1 of the Local Authority Social Services Act 1970 do not affect the operation of any order under section 9(1) of that Act made before the coming into force of those amendments.
+**23.**[^c-89f1a1826911e6187434037de8524044] The amendments made by these Regulations to section 1 of the Local Authority Social Services Act 1970 do not affect the operation of any order under section 9(1) of that Act made before the coming into force of those amendments.
 
 ## Annotations
 
-[^key-89f1a1826911e6187434037de8524044]: Commencement: Reg. 23 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-89f1a1826911e6187434037de8524044]: Commencement: Reg. 23 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

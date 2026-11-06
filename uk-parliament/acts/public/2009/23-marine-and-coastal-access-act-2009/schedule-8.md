@@ -28,7 +28,7 @@ Section 112(1)
 
 *Extent: E+W*
 
-**1.**[^key-d6dd62ec6497ccd50eb39b8fb40c25b7] (1) The Coast Protection Act 1949 (c. 74) is amended as follows.
+**1.**[^c-d6dd62ec6497ccd50eb39b8fb40c25b7] (1) The Coast Protection Act 1949 (c. 74) is amended as follows.
 
 (2) Omit Part 2 (provisions for safety of navigation).
 
@@ -36,7 +36,7 @@ Section 112(1)
 
 #### The Food and Environment Protection Act 1985
 
-**2.**[^key-f33d0d3b34d5f752fd31389b4ff03f55] (1) The Food and Environment Protection Act 1985 (c. 48) is amended as follows.
+**2.**[^c-f33d0d3b34d5f752fd31389b4ff03f55] (1) The Food and Environment Protection Act 1985 (c. 48) is amended as follows.
 
 (2) In section 5 (requirement for licences)—
 
@@ -101,7 +101,7 @@ Section 112(1)
 
 #### The Government of Wales Act 2006
 
-**3.**[^key-6e63dd30cdd263e1b0728305ae248380] (1) In Schedule 3 to the Government of Wales Act 2006 (c. 32) (transfer etc of functions: further provisions) paragraph 4 (power to direct that certain functions exercisable by a Minister of the Crown are exercisable in relation to Welsh controlled waters only after consultation with the Welsh Ministers) is amended as follows.
+**3.**[^c-6e63dd30cdd263e1b0728305ae248380] (1) In Schedule 3 to the Government of Wales Act 2006 (c. 32) (transfer etc of functions: further provisions) paragraph 4 (power to direct that certain functions exercisable by a Minister of the Crown are exercisable in relation to Welsh controlled waters only after consultation with the Welsh Ministers) is amended as follows.
 
 (2) In sub-paragraph (1) (which extends the power conferred by section 58(1)(c) of that Act and specifies the enactments to which it applies)—
 
@@ -127,7 +127,7 @@ Section 112(1)
 
 #### The Planning Act 2008
 
-**4.**[^c2008210][^key-9e33efa05e2baa756eb238b0c81a457d] (1) The Planning Act 2008 (c. 29) is amended as follows.
+**4.**[^c2008210][^c-9e33efa05e2baa756eb238b0c81a457d] (1) The Planning Act 2008 (c. 29) is amended as follows.
 
 (2) After section 149 insert—
 
@@ -183,7 +183,7 @@ for the words from “any of paragraphs” to the end of the sub-paragraph subst
 
 #### The Food and Environment Protection Act 1985 Electronic communications apparatus: operations in tidal waters etc
 
-**5.**[^key-478ff9c6d7ab108c91b3a74d08a219fe] In the Food and Environment Protection Act 1985 after section 8 (licences) insert—
+**5.**[^c-478ff9c6d7ab108c91b3a74d08a219fe] In the Food and Environment Protection Act 1985 after section 8 (licences) insert—
 
 > **8A. Electronic communications apparatus: operations in tidal waters etc**
 >
@@ -198,7 +198,7 @@ for the words from “any of paragraphs” to the end of the sub-paragraph subst
 
 #### Electronic communications: emergency works
 
-**6.**[^key-cb06db4055e9e348eef5e5725228df84] (1) Section 9 of the Food and Environment Protection Act 1985 (offences relating to the licensing system) is amended as follows.
+**6.**[^c-cb06db4055e9e348eef5e5725228df84] (1) Section 9 of the Food and Environment Protection Act 1985 (offences relating to the licensing system) is amended as follows.
 
 (2) In subsection (1) (which is expressed to be subject to certain later subsections) in the words preceding paragraph (a), before “below” insert “ and (8) ”.
 
@@ -215,7 +215,7 @@ for the words from “any of paragraphs” to the end of the sub-paragraph subst
 
 #### The Petroleum Act 1998 Application of Part 3 in relation to submarine pipelines
 
-**7.**[^c2008211][^key-b283fc4cb41719cd33613569b075f5b5] (1) Section 24 of the Petroleum Act 1998 (c. 17) (application of Part 3) is amended as follows.
+**7.**[^c2008211][^c-b283fc4cb41719cd33613569b075f5b5] (1) Section 24 of the Petroleum Act 1998 (c. 17) (application of Part 3) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -252,7 +252,7 @@ for the words from “any of paragraphs” to the end of the sub-paragraph subst
 
 #### Exception of certain pipelines from being “submarine pipelines” for the purposes of Part 4
 
-**8.**[^key-5ddc5d7d640db8221ce8c9375a6cc76f] (1) Section 45 of the Petroleum Act 1998 (interpretation of Part 4) is amended as follows.
+**8.**[^c-5ddc5d7d640db8221ce8c9375a6cc76f] (1) Section 45 of the Petroleum Act 1998 (interpretation of Part 4) is amended as follows.
 
 (2) In the definition of “submarine pipeline”, after the paragraphs, insert—
 
@@ -262,22 +262,22 @@ for the words from “any of paragraphs” to the end of the sub-paragraph subst
 
 ## Annotations
 
-[^key-d6dd62ec6497ccd50eb39b8fb40c25b7]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/1) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-d6dd62ec6497ccd50eb39b8fb40c25b7]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/1) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-f33d0d3b34d5f752fd31389b4ff03f55]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-f33d0d3b34d5f752fd31389b4ff03f55]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/2) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-6e63dd30cdd263e1b0728305ae248380]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/3) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-6e63dd30cdd263e1b0728305ae248380]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/3) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c2008210]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/4) partly in force; [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/4) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-9e33efa05e2baa756eb238b0c81a457d]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/4) in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-9e33efa05e2baa756eb238b0c81a457d]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/4) in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-478ff9c6d7ab108c91b3a74d08a219fe]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/5) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-478ff9c6d7ab108c91b3a74d08a219fe]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/5) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-cb06db4055e9e348eef5e5725228df84]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/6) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-cb06db4055e9e348eef5e5725228df84]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/6) in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
 [^c2008211]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/7) partly in force; [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/7) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-b283fc4cb41719cd33613569b075f5b5]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/7) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/10)
+[^c-b283fc4cb41719cd33613569b075f5b5]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/7) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/10)
 
-[^key-5ddc5d7d640db8221ce8c9375a6cc76f]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/8) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/10)
+[^c-5ddc5d7d640db8221ce8c9375a6cc76f]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/8/paragraph/8) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/10)

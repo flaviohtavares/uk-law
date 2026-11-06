@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 218. Order to permit steps required by maintenance of land notice[^key-db145bf859d0b3b59b19b900eb526d13]
+## 218. Order to permit steps required by maintenance of land notice[^c-db145bf859d0b3b59b19b900eb526d13]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db145bf859d0b3b59b19b900eb526d13]: Commencement: S. 218 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-db145bf859d0b3b59b19b900eb526d13]: Commencement: S. 218 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

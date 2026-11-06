@@ -36,7 +36,7 @@ summary: ''
 
 to be inspected by or on behalf of the licensing authority.
 
-(4A)[^key-3c1f5a786615785e3a86067dce5f1396] If the application for a manufacturing authorisation relates (wholly or partially) to an MM investigational medicinal product, the licensing authority shall take into consideration the arrangements for—
+(4A)[^c-3c1f5a786615785e3a86067dce5f1396] If the application for a manufacturing authorisation relates (wholly or partially) to an MM investigational medicinal product, the licensing authority shall take into consideration the arrangements for—
 
 - (a) supervising and controlling operations at a modular unit specified in the application; and
 - (b) ensuring that manufacture or assembly is under appropriate control so that the MM investigational medicinal product consistently meets the requirements in the MM (IMP) master file when manufactured at that modular unit.
@@ -50,4 +50,4 @@ to be inspected by or on behalf of the licensing authority.
 
 ## Annotations
 
-[^key-3c1f5a786615785e3a86067dce5f1396]: Textual amendment: Reg. 39(4A)(4B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2025/87/regulation/43)
+[^c-3c1f5a786615785e3a86067dce5f1396]: Textual amendment: Reg. 39(4A)(4B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2025/87/regulation/43)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Funding[^key-f93932d2741e57e6b77babef27ba9e32]
+## 39. Funding[^c-f93932d2741e57e6b77babef27ba9e32]
 
 *Extent: E+W+S+N.I.*
 
 (1) The undertaker must not exercise the powers conferred by the provisions referred to in paragraph in relation to any Order land unless it has first put in place either—
 
-- (a) a guarantee and the amount of that guarantee approved by the Secretary of State in respect of the liabilities of the undertaker to pay compensation pursuant to the provisions referred to in paragraph (2) in relation to that land[^key-cae82c143ddee2f579b5c91d3307edb6]; or
-- (b) an alternative form of security and the amount of that security for that purpose approved by the Secretary of State in respect of the liabilities of the undertaker to pay compensation pursuant to the provisions referred to in paragraph (2) in relation to that land[^key-1b7cde6aef9fcdc7a28f3bdbb1043f5f].
+- (a) a guarantee and the amount of that guarantee approved by the Secretary of State in respect of the liabilities of the undertaker to pay compensation pursuant to the provisions referred to in paragraph (2) in relation to that land[^c-cae82c143ddee2f579b5c91d3307edb6]; or
+- (b) an alternative form of security and the amount of that security for that purpose approved by the Secretary of State in respect of the liabilities of the undertaker to pay compensation pursuant to the provisions referred to in paragraph (2) in relation to that land[^c-1b7cde6aef9fcdc7a28f3bdbb1043f5f].
 
 (2) The provisions are—
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f93932d2741e57e6b77babef27ba9e32]: Commencement: Art. 39 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-f93932d2741e57e6b77babef27ba9e32]: Commencement: Art. 39 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-cae82c143ddee2f579b5c91d3307edb6]: Textual amendment: Words in [art. 39(1)(a)](https://www.legislation.gov.uk/uksi/2020/547/article/39/1/a) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-cae82c143ddee2f579b5c91d3307edb6]: Textual amendment: Words in [art. 39(1)(a)](https://www.legislation.gov.uk/uksi/2020/547/article/39/1/a) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
 
-[^key-1b7cde6aef9fcdc7a28f3bdbb1043f5f]: Textual amendment: Words in [art. 39(1)(b)](https://www.legislation.gov.uk/uksi/2020/547/article/39/1/b) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-1b7cde6aef9fcdc7a28f3bdbb1043f5f]: Textual amendment: Words in [art. 39(1)(b)](https://www.legislation.gov.uk/uksi/2020/547/article/39/1/b) inserted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)

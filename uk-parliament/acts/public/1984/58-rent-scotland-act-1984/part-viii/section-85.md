@@ -23,7 +23,7 @@ summary: ''
 (1) The provisions of this section apply in relation to any dwelling-house if
 
 - (a) under Part VII of this Act, a rent is registered for that dwelling-house in the register kept in pursuance of section 67 above; and
-- (b) in a case where the approval, reduction or increase of the rent by the First-tier Tribunal[^key-dcdf2cde73db6926aaca87d2c7e0fabe] is limited to rent payable in respect of a particular period, that period has not expired.
+- (b) in a case where the approval, reduction or increase of the rent by the First-tier Tribunal[^c-dcdf2cde73db6926aaca87d2c7e0fabe] is limited to rent payable in respect of a particular period, that period has not expired.
 
 (2) Subject to subsection (3) below, any person who, as a condition of the grant, renewal, continuance or assignation of rights under a Part VII contract, requires the payment of any premium shall be guilty of an offence under this section.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcdf2cde73db6926aaca87d2c7e0fabe]: Textual amendment: Words in [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/1984/58/section/85/1/b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(26)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/26) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-dcdf2cde73db6926aaca87d2c7e0fabe]: Textual amendment: Words in [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/1984/58/section/85/1/b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(26)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/26) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

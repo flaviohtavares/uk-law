@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Compensation provisions[^key-422f5898637266a4cb5829af53b2e95f]
+## 45. Compensation provisions[^c-422f5898637266a4cb5829af53b2e95f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 (compensation measures) has effect.
 
 ## Annotations
 
-[^key-422f5898637266a4cb5829af53b2e95f]: Commencement: Art. 45 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-422f5898637266a4cb5829af53b2e95f]: Commencement: Art. 45 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Limitation on consolidation[^key-9f10b10343f30138b63f12e3cdf962cd]
+## 42. Limitation on consolidation[^c-9f10b10343f30138b63f12e3cdf962cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f10b10343f30138b63f12e3cdf962cd]: Commencement: Reg. 42 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-9f10b10343f30138b63f12e3cdf962cd]: Commencement: Reg. 42 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

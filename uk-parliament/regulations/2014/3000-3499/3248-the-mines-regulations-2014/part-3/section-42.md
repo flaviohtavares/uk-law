@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Transport rules[^key-9392a79406be3363bf180239c455dcf1]
+## 42. Transport rules[^c-9392a79406be3363bf180239c455dcf1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Rules required by regulation 12 must include rules for the purpose of ensuring t
 
 ## Annotations
 
-[^key-9392a79406be3363bf180239c455dcf1]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/3248/regulation/42) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-9392a79406be3363bf180239c455dcf1]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/3248/regulation/42) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

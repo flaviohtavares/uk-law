@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Licensing of flight information service officers[^key-1488115aca234098b0c302c858031958]
+## 151. Licensing of flight information service officers[^c-1488115aca234098b0c302c858031958]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1488115aca234098b0c302c858031958]: Commencement: [Art. 151](https://www.legislation.gov.uk/uksi/2013/2870/article/151) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-1488115aca234098b0c302c858031958]: Commencement: [Art. 151](https://www.legislation.gov.uk/uksi/2013/2870/article/151) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

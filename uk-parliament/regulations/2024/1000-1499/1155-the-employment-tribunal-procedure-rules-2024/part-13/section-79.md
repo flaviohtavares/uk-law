@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Effect of a wasted costs order[^key-53fb972ba606c0b803fcc02349539813]
+## 79. Effect of a wasted costs order[^c-53fb972ba606c0b803fcc02349539813]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A wasted costs order may order a representative to pay the whole or part of any 
 
 ## Annotations
 
-[^key-53fb972ba606c0b803fcc02349539813]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2024/1155/rule/79) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-53fb972ba606c0b803fcc02349539813]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2024/1155/rule/79) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

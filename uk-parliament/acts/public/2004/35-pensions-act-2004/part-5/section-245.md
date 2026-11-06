@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Power to make regulations governing investment by trustees[^key-0ba54a4f8b3cff2c87af0edcd9e36391]
+## 245. Power to make regulations governing investment by trustees[^c-0ba54a4f8b3cff2c87af0edcd9e36391]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ba54a4f8b3cff2c87af0edcd9e36391]: Commencement: S. 245 in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)
+[^c-0ba54a4f8b3cff2c87af0edcd9e36391]: Commencement: S. 245 in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)

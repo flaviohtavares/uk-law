@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.5. Varying or removing restrictions[^key-d909a0d63e36e338debda5484612b5d6]
+## 6.5. Varying or removing restrictions[^c-d909a0d63e36e338debda5484612b5d6]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d909a0d63e36e338debda5484612b5d6]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/2025/909/rule/6.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d909a0d63e36e338debda5484612b5d6]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/2025/909/rule/6.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00237]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32); section 141F was inserted by section 13 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and amended by paragraph 19 of Schedule 11 to the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).

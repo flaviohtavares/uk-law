@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 390. Revocation of exception of communications by authorised persons or appointed representatives[^key-25102bed4f6a77e615153df5a4ae96ca]
+## 390. Revocation of exception of communications by authorised persons or appointed representatives[^c-25102bed4f6a77e615153df5a4ae96ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Regulation 3[^f00284] of the Control of Misleading Advertisements Regulations 19
 
 ## Annotations
 
-[^key-25102bed4f6a77e615153df5a4ae96ca]: Commencement: Art. 390 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-25102bed4f6a77e615153df5a4ae96ca]: Commencement: Art. 390 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00284]: Footnote: Regulation 3 was amended by [S.I. 1995/1537](https://www.legislation.gov.uk/uksi/1995/1537), regulation 17, Schedule 2, paragraph 11.

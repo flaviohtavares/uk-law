@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46D. Functions to be exercised by CMA groups[^key-7b8884f0f2618f906cb5a70720b5622c][^key-9ab1fd4feb032e59f833eed57026bf62]
+## 46D. Functions to be exercised by CMA groups[^c-7b8884f0f2618f906cb5a70720b5622c][^c-9ab1fd4feb032e59f833eed57026bf62]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ Where a reference is made to the chair of the CMA under section 45 for the const
 
 ## Annotations
 
-[^key-7b8884f0f2618f906cb5a70720b5622c]: Textual amendment: S. 46D inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 88](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/88) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7b8884f0f2618f906cb5a70720b5622c]: Textual amendment: S. 46D inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 88](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/88) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9ab1fd4feb032e59f833eed57026bf62]: Modification: S. 46D modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 47(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/47/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9ab1fd4feb032e59f833eed57026bf62]: Modification: S. 46D modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 47(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/47/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

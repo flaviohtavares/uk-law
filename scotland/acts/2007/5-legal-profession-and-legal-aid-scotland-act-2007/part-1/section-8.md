@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-e2358c64c259b4cdb8f79cc04a8797da] This section applies where the Commission—
+(1)[^c-e2358c64c259b4cdb8f79cc04a8797da] This section applies where the Commission—
 
 - (a) determines under section 2(1A)(a) that a complaint by or on behalf of a person referred to in section 2(2)(b)(i) is a services complaint, and
 - (b) proceeds to determine under section 2(4) whether the complaint is frivolous, vexatious or totally without merit and determines that it is none of these things.
@@ -42,4 +42,4 @@ the Commission may, by notice in writing to the complainer and the practitioner 
 
 ## Annotations
 
-[^key-e2358c64c259b4cdb8f79cc04a8797da]: Textual amendment: [S. 8(1)](https://www.legislation.gov.uk/asp/2007/5/section/8/1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/7) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-e2358c64c259b4cdb8f79cc04a8797da]: Textual amendment: [S. 8(1)](https://www.legislation.gov.uk/asp/2007/5/section/8/1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/7) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

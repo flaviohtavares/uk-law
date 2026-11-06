@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169S. Interpretation of Chapter[^key-62210e0dd95858649d5b0850e81240b3]
+## 169S. Interpretation of Chapter[^c-62210e0dd95858649d5b0850e81240b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) References in this Chapter to a disposal of an interest in shares in a company include a disposal of an interest in shares treated as made by virtue of section 122.
 
-(3)[^key-8658de5fa35a2c0e1616889f7ed0d7ac] For the purposes of this Chapter a company is a “**personal company**” in relation to an individual if—
+(3)[^c-8658de5fa35a2c0e1616889f7ed0d7ac] For the purposes of this Chapter a company is a “**personal company**” in relation to an individual if—
 
 - (a) the individual holds at least 5% of the ordinary share capital of the company,
 - (b) by virtue of that holding, at least 5% of the voting rights in the company are exercisable by the individual, and
@@ -62,7 +62,7 @@ summary: ''
 - “**disposal of business assets**” has the meaning given by section 169I(2),
 - “**disposal of trust business assets**” has the meaning given by section 169J,
 - “**employment**” has the meaning given by section 4 of ITEPA 2003,
-- “**business asset disposal relief[^key-81bc625811da9cbe5b35aca85a72dfb8]**” has the meaning given by section 169H(1),
+- “**business asset disposal relief[^c-81bc625811da9cbe5b35aca85a72dfb8]**” has the meaning given by section 169H(1),
 - “**holding company**” has the same meaning as in section 165 (see section 165A),
 - “**material disposal of business assets**” has the meaning given by section 169I,
 - “**office**” has the meaning given by section 5(3) of ITEPA 2003,
@@ -72,15 +72,15 @@ summary: ''
 - “**rent**”, in relation to an asset, includes any form of consideration given for the use of the asset,
 - “**securities**”, in relation to a company, includes any debentures of the company which are deemed by subsection (6) of section 251 to be securities for the purposes of that section,
 - “**settlement business assets**” has the meaning given by section 169J(2),
-- “**trade**” has the same meaning as in the Income Tax Acts (see section 989 of ITA 2007), [^key-cec4724b1e50bf1dd3df587ae935e0f0]...
-- [^key-cec4724b1e50bf1dd3df587ae935e0f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**trade**” has the same meaning as in the Income Tax Acts (see section 989 of ITA 2007), [^c-cec4724b1e50bf1dd3df587ae935e0f0]...
+- [^c-cec4724b1e50bf1dd3df587ae935e0f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
+[^c-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
 
-[^key-8658de5fa35a2c0e1616889f7ed0d7ac]: Textual amendment: S. 169S(3)-(3E) substituted for s. 169S(3)(4) (with effect in accordance with Sch. 16 para. 4(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 2(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/2/4)
+[^c-8658de5fa35a2c0e1616889f7ed0d7ac]: Textual amendment: S. 169S(3)-(3E) substituted for s. 169S(3)(4) (with effect in accordance with Sch. 16 para. 4(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 2(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/2/4)
 
-[^key-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
+[^c-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
 
-[^key-cec4724b1e50bf1dd3df587ae935e0f0]: Textual amendment: Words in s. 169S(5) omitted (18.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 43(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/3)[(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/5)
+[^c-cec4724b1e50bf1dd3df587ae935e0f0]: Textual amendment: Words in s. 169S(5) omitted (18.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 43(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/3)[(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/5)

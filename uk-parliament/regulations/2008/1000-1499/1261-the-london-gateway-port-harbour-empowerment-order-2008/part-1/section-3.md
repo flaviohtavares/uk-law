@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^key-08928638396f0deebd8998ac81afc09f]
+## 3. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^c-08928638396f0deebd8998ac81afc09f]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08928638396f0deebd8998ac81afc09f]: Commencement: Art. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-08928638396f0deebd8998ac81afc09f]: Commencement: Art. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

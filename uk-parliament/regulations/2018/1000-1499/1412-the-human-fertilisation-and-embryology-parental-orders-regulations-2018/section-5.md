@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. References in enactments to be read as references to parental orders etc[^key-2eb7bba33dd2a5dfb57b4369b691e1da]
+## 5. References in enactments to be read as references to parental orders etc[^c-2eb7bba33dd2a5dfb57b4369b691e1da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 provides that the provisions of the enactments set out in that Schedu
 
 ## Annotations
 
-[^key-2eb7bba33dd2a5dfb57b4369b691e1da]: Commencement: Reg. 5 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-2eb7bba33dd2a5dfb57b4369b691e1da]: Commencement: Reg. 5 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)

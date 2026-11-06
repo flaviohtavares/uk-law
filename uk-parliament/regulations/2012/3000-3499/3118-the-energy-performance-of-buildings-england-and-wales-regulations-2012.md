@@ -64,32 +64,32 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (1) In these Regulations—
 
-- “[^key-e6210f55d77830db920317ccc31c7ae3]Green Deal Framework Regulations” means the Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) Regulations 2012;
+- “[^c-e6210f55d77830db920317ccc31c7ae3]Green Deal Framework Regulations” means the Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) Regulations 2012;
 
 - “**accreditation scheme**” means a scheme approved by the Secretary of State in accordance with—
-  - (a) regulation 22; [^key-8a1a73cffe6f010549d7666f71d812fc]...
-  - (b) [^key-b96ab88772839ccbb1c831d438f27b3f]...
+  - (a) regulation 22; [^c-8a1a73cffe6f010549d7666f71d812fc]...
+  - (b) [^c-b96ab88772839ccbb1c831d438f27b3f]...
 - “**air-conditioning system**” means a combination of all the components required to provide a form of air treatment in which the temperature is controlled or can be lowered, and includes systems which combine such air treatment with the control of ventilation, humidity and air cleanliness;
-- “asset rating” means an energy performance indicator determined from the amount of energy estimated to meet the different needs associated with a standardised use of a building;[^key-32b1f93da5a5de6426d957406b1703da]
-- [^key-ebbd1e0c7f6459c6f85ef8f7fe587915]...
-- “**building**” means a roofed construction having walls, for which energy is used to condition the indoor climate , and (other than in regulations 9(4) and 11) reference to a building includes reference to a building unit in that building[^key-bb0255908cbdd7cc89e04b603a4d0ae6] ;
+- “asset rating” means an energy performance indicator determined from the amount of energy estimated to meet the different needs associated with a standardised use of a building;[^c-32b1f93da5a5de6426d957406b1703da]
+- [^c-ebbd1e0c7f6459c6f85ef8f7fe587915]...
+- “**building**” means a roofed construction having walls, for which energy is used to condition the indoor climate , and (other than in regulations 9(4) and 11) reference to a building includes reference to a building unit in that building[^c-bb0255908cbdd7cc89e04b603a4d0ae6] ;
 - “**building envelope**” means the integrated elements of a building which separate its interior from the outdoor environment;
 - “**building unit**” means a section, floor or apartment within a building which is designed or altered to be used separately;
-- “**bulk access data**” means any data entered onto a register as required by regulation 27(2) , (3) or (4B)[^key-765372d9fd11ccead7dc63afe258048a] ;
-- “display energy certificate” means a certificate which—[^key-1c5b772943bd4b0b4ff59a3222da055b]
+- “**bulk access data**” means any data entered onto a register as required by regulation 27(2) , (3) or (4B)[^c-765372d9fd11ccead7dc63afe258048a] ;
+- “display energy certificate” means a certificate which—[^c-1c5b772943bd4b0b4ff59a3222da055b]
   - (a) complies with regulation 15; or
   - (b) in the case of a certificate issued in respect of an excluded building under regulation 15A, complies with regulation 15A(2);
 - “**dwelling**” means a building or part of a building occupied or intended to be occupied as a separate dwelling;
 - “**energy assessor**” means an individual who is a member of an accreditation scheme;
-- “energy efficiency improvement” has the meaning given in section 2(4) of the Energy Act 2011;[^key-0e91c6cb384c67203455019a6ddfaab4]
+- “energy efficiency improvement” has the meaning given in section 2(4) of the Energy Act 2011;[^c-0e91c6cb384c67203455019a6ddfaab4]
 - “**energy from renewable sources**” means energy from renewable non-fossil sources, namely wind, solar, aerothermal, geothermal, hydrothermal and ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas and biogases;
-- “energy performance” in relation to a building means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;[^key-94d71b3adeb5f183007f4f36d5074719]
+- “energy performance” in relation to a building means the calculated or measured amount of energy needed to meet the energy demand associated with a typical use of the building, which includes, inter alia, energy used for heating, cooling, ventilation, hot water and lighting;[^c-94d71b3adeb5f183007f4f36d5074719]
 - “**energy performance certificate**” means a certificate which—
   - (a) in the case of a certificate entered on the register before 9th January 2013 complied with the requirements of regulation 11(1) of the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 [^c21492011];
-  - (b) in the case of a certificate entered on the register on or after 9th January 2013 complies with the requirements of regulation 9(1) of these Regulations; [^key-ab0db8c8086a1cf173911ae35c523a52]...
-  - (ba) in the case of a certificate issued in respect of an excluded building under regulation 9A, complies with the requirements of regulation 9A(2) of these Regulations; or[^key-bbd360d8ae79da015758b1a0ec3d2252]
-  - (c) in the case of a certificate entered on the register before 6th April 2016[^key-b40947a9773183678367698f56829f87] complies with the requirements of regulation 29 [^c21492021] of the Building Regulations 2010;
-- “excluded building” means a building owned, occupied or used by or for the purposes of—[^key-a3ba6321c7358ea760e4da3fe11ec168]
+  - (b) in the case of a certificate entered on the register on or after 9th January 2013 complies with the requirements of regulation 9(1) of these Regulations; [^c-ab0db8c8086a1cf173911ae35c523a52]...
+  - (ba) in the case of a certificate issued in respect of an excluded building under regulation 9A, complies with the requirements of regulation 9A(2) of these Regulations; or[^c-bbd360d8ae79da015758b1a0ec3d2252]
+  - (c) in the case of a certificate entered on the register before 6th April 2016[^c-b40947a9773183678367698f56829f87] complies with the requirements of regulation 29 [^c21492021] of the Building Regulations 2010;
+- “excluded building” means a building owned, occupied or used by or for the purposes of—[^c-a3ba6321c7358ea760e4da3fe11ec168]
   - (a) the Security Service, the Secret Intelligence Service or the Government Communications Headquarters;
   - (b) any of the armed forces;
   - (c) the Royal Family;
@@ -98,31 +98,31 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (f) a young offender institution;
 
 - “**general access data**” means information that is required by these Regulations to be included in an energy performance certificate, a display energy certificate, an inspection report, or a recommendation report;
-- “green deal disclosure obligations” means the obligations to provide an energy performance certificate in section 12 of the Energy Act 2011 and Part 7 of the[^key-9c4293ed880642f726615a0c95a13d1e] Green Deal Framework Regulations;
+- “green deal disclosure obligations” means the obligations to provide an energy performance certificate in section 12 of the Energy Act 2011 and Part 7 of the[^c-9c4293ed880642f726615a0c95a13d1e] Green Deal Framework Regulations;
 - “green deal information” means the information about a green deal plan that is required by regulation 9(1)(ea) to be included in an energy performance certificate for a green deal property;
 - “**green deal plan**” means an energy plan which is a green deal plan in accordance with section 1(3) of the Energy Act 2011;
-- “green deal property” has the meaning given in section 12(5)(b) of the Energy Act 2011;[^key-eedeedf7c9eb9646fb5d925f18d1b7fa]
-- “green deal relevant person” means a person who is authorised as—[^key-3b586ee2d6aa727279554dd95a32998c]
+- “green deal property” has the meaning given in section 12(5)(b) of the Energy Act 2011;[^c-eedeedf7c9eb9646fb5d925f18d1b7fa]
+- “green deal relevant person” means a person who is authorised as—[^c-3b586ee2d6aa727279554dd95a32998c]
   - (a) a green deal provider; or
   - (b) a green deal assessor certification body,
 
   in accordance with Part 2 of the Green Deal Framework Regulations;.
-- “inspection report” means a report—[^key-c0a96d0b898b03bb05f97bca7713c84a]
+- “inspection report” means a report—[^c-c0a96d0b898b03bb05f97bca7713c84a]
   - (a) issued by an energy assessor in accordance with regulation 19(1); or
   - (b) in the case of a report issued in respect of an excluded building, issued by an energy assessor in accordance with regulation 19A(2);
 - “**keeper of the register**” means the Secretary of State, or the person keeping a register on the Secretary of State's behalf;
 - “**nominated date**”, in relation to a display energy certificate, means a date no later than three months after the end of the period over which the operational rating is calculated, which is nominated by the energy assessor who issued the certificate;
-- “operational rating” means an energy performance indicator determined from the amount of energy consumed during the occupation of a building over a period of time and the energy demand associated with a typical use of the building over that period;[^key-516685d8d8a748158d2091eecaef592f]
-- “payment period” has the meaning given in regulation 2(1) of the[^key-3e2070d259c74a079b66046422f0be29] Green Deal Framework Regulations;
+- “operational rating” means an energy performance indicator determined from the amount of energy consumed during the occupation of a building over a period of time and the energy demand associated with a typical use of the building over that period;[^c-516685d8d8a748158d2091eecaef592f]
+- “payment period” has the meaning given in regulation 2(1) of the[^c-3e2070d259c74a079b66046422f0be29] Green Deal Framework Regulations;
 - “**penalty charge notice**” means a notice given pursuant to regulation 36;
-- [^key-db5127a03a6df750f8d7a54e983cb3e4]...
+- [^c-db5127a03a6df750f8d7a54e983cb3e4]...
 - “**register**” means a register required to be maintained under regulation 27;
 - “relevant person” (other than in the phrase “green deal relevant person”) means—
   - (a) in relation to a building which is to be sold, the seller;
   - (b) in relation to a building which is to be rented out, the prospective landlord;
   - (c) in relation to an air-conditioning system, the person who has control of the operation of the system; and
   - (d) in relation to a building which is constructed, the person who carries out the construction;
-- “**report reference number**” means the unique number assigned by the keeper of the register to each energy performance certificate issued by an energy assessor under regulation 9[^key-4dbe8537f19f1fd3dcb8fc955456db1f] or display energy certificate issued by an energy assessor under regulation 15[^key-a33774c208f9bbee68078105b25331b0];
+- “**report reference number**” means the unique number assigned by the keeper of the register to each energy performance certificate issued by an energy assessor under regulation 9[^c-4dbe8537f19f1fd3dcb8fc955456db1f] or display energy certificate issued by an energy assessor under regulation 15[^c-a33774c208f9bbee68078105b25331b0];
 - “**total useful floor area**” means the gross floor area as measured in accordance with the guidance issued from time to time by the Royal Institution of Chartered Surveyors or by any body replacing that Institution.
 
 ### 3. Meaning of “prospective buyer or tenant”
@@ -135,7 +135,7 @@ A person becomes a prospective buyer or tenant in relation to a building when he
 
 ### 4. Recommendation reports
 
-(1) In these Regulations, a “**recommendation report**” means recommendations made by an energy assessor for the cost-effective improvement of the energy performance of a building [^key-e3fc10d772b875338f344ed40cf72c20]....
+(1) In these Regulations, a “**recommendation report**” means recommendations made by an energy assessor for the cost-effective improvement of the energy performance of a building [^c-e3fc10d772b875338f344ed40cf72c20]....
 
 (2) A recommendation report made on or after 9th January 2013 must include—
 
@@ -150,14 +150,14 @@ A person becomes a prospective buyer or tenant in relation to a building when he
 
 - (a) for a report which is included in an energy performance certificate, ten years from the date of that certificate;
 - (b) for a report which is required to be held in respect of the building under regulation 14(3)(a)—
-  - (i) where the total useful floor area of the building is over 1,000m[^key-68277d2f9844e44cfd33bbbe2680cd7e]<sup>2</sup>, seven years from the nominated date applying to the report; and
-  - (ii) in the case of any other building, ten years from[^key-d4f24729c05b34b71f0e5dfa2ba386c9] the nominated date applying to the report [^key-a37ef0f2215f69f378606a7feb00570f]....
+  - (i) where the total useful floor area of the building is over 1,000m[^c-68277d2f9844e44cfd33bbbe2680cd7e]<sup>2</sup>, seven years from the nominated date applying to the report; and
+  - (ii) in the case of any other building, ten years from[^c-d4f24729c05b34b71f0e5dfa2ba386c9] the nominated date applying to the report [^c-a37ef0f2215f69f378606a7feb00570f]....
 
 (5) In this regulation—
 
-- (a)[^key-a12ae880ee816f55d401eb1e082328e0] “building element” means a controlled service or fitting or a thermal element within the meaning of those expressions in regulation 2(1) and (3) respectively of the Building Regulations 2010.
+- (a)[^c-a12ae880ee816f55d401eb1e082328e0] “building element” means a controlled service or fitting or a thermal element within the meaning of those expressions in regulation 2(1) and (3) respectively of the Building Regulations 2010.
 - (b) “**major renovation**” means the renovation of a building where more than 25% of the surface area of the building envelope undergoes renovation; and
-- (c) “**technical building systems**” means technical equipment for the heating, cooling, ventilation, hot water, lighting (or for any combination thereof) of a building [^key-3b2c80bb851c942f3841fb4fc4c594e8]....
+- (c) “**technical building systems**” means technical equipment for the heating, cooling, ventilation, hot water, lighting (or for any combination thereof) of a building [^c-3b2c80bb851c942f3841fb4fc4c594e8]....
 
 ## PART 2 — Duties relating to Energy Performance Certificates
 
@@ -222,7 +222,7 @@ A person becomes a prospective buyer or tenant in relation to a building when he
   - (i) which is properly addressed to an energy assessor who is accredited to produce energy performance certificates for the category of building in question, and
   - (ii) which is in such form, contains all such information and is accompanied by such payment or undertaking to make such payment as is usually necessary to obtain a certificate.
 
-### 7A. Energy performance certificates on construction[^M_C_2c9be810-ab05-4d80-ed7d-cbdbd28e4976][^key-856f5fdb9d078e1e0b5b9e39795b9abb][^key-4d0a517860d0e11656d7132170bbb580][^key-166a9057d8a58a13a95fbc0028630be7]
+### 7A. Energy performance certificates on construction[^M_C_2c9be810-ab05-4d80-ed7d-cbdbd28e4976][^c-856f5fdb9d078e1e0b5b9e39795b9abb][^c-4d0a517860d0e11656d7132170bbb580][^c-166a9057d8a58a13a95fbc0028630be7]
 
 (1) This regulation applies where—
 
@@ -235,7 +235,7 @@ A person becomes a prospective buyer or tenant in relation to a building when he
 - (b) give to the local authority notice to that effect; and
 - (c) include in that notice the reference number under which the energy performance certificate has been registered in accordance with regulation 27(4), except in the case of an energy performance certificate issued under regulation 9A (energy performance certificates in respect of excluded buildings).
 
-(3)[^key-d92c25f81f962914dc1ee90217fe0da9] The energy performance certificate and notice must be given not later than five days after the building work has been completed.
+(3)[^c-d92c25f81f962914dc1ee90217fe0da9] The energy performance certificate and notice must be given not later than five days after the building work has been completed.
 
 ### 8. Buildings to be demolished
 
@@ -268,26 +268,26 @@ A person becomes a prospective buyer or tenant in relation to a building when he
 
 ### 9. Energy performance certificates
 
-(1) Subject to paragraph (6),[^key-b0226bc07bbfbb709f65e3816ffa0ec6] an energy performance certificate entered on the register on or after 9th January 2013 must—
+(1) Subject to paragraph (6),[^c-b0226bc07bbfbb709f65e3816ffa0ec6] an energy performance certificate entered on the register on or after 9th January 2013 must—
 
-- (a)[^key-3c4f9f3d1e26ca1efa752ddbe166a349] show the asset rating of the building, calculated and expressed in accordance with the methodology approved by the Secretary of State under regulation 24 of the Building Regulations 2010;
-- (b) include a reference value in order to make it possible to compare and assess the energy performance of the building[^key-2bb838e217bdda9ac640a0e3c8258e0c];
+- (a)[^c-3c4f9f3d1e26ca1efa752ddbe166a349] show the asset rating of the building, calculated and expressed in accordance with the methodology approved by the Secretary of State under regulation 24 of the Building Regulations 2010;
+- (b) include a reference value in order to make it possible to compare and assess the energy performance of the building[^c-2bb838e217bdda9ac640a0e3c8258e0c];
 - (c) be issued by an energy assessor who is accredited to produce energy performance certificates for the category of building to which the certificate relates;
 - (d) include a recommendation report [^c21492061] unless there is no reasonable potential for energy performance improvements compared to the energy performance requirements in force;
 - (e) include the following information—
   - (i) the reference number under which the set of data from which the certificate may be produced has been entered onto the register in accordance with regulation 27;
   - (ii) the address of the building;
   - (iii) an estimate of the total useful floor area of the building; and
-  - (iv) the date on which it was issued; [^key-7bef9aa5bb417719b19b82db579c0119]...
-- (ea)[^key-6e777930a3fa932b865aa903058ec623] where it relates to a building or a building unit which is a green deal property, include the information specified in Schedule A1 in connection with each green deal plan that has been entered into in respect of that green deal property and for which payments are still to be made under that plan; and
-- (f) be valid for the purposes of this Part[^key-e01731f780d77cae80ed9828e9967418] in accordance with paragraph (2).
+  - (iv) the date on which it was issued; [^c-7bef9aa5bb417719b19b82db579c0119]...
+- (ea)[^c-6e777930a3fa932b865aa903058ec623] where it relates to a building or a building unit which is a green deal property, include the information specified in Schedule A1 in connection with each green deal plan that has been entered into in respect of that green deal property and for which payments are still to be made under that plan; and
+- (f) be valid for the purposes of this Part[^c-e01731f780d77cae80ed9828e9967418] in accordance with paragraph (2).
 
 (2) An energy performance certificate is only valid for the purposes of this Part if—
 
 - (a) it was entered on the register no more than 10 years before the date on which it is made available; and
 - (b) no other energy performance certificate for the building has since been entered on the register.
 
-(2A)[^key-3cc017275d12de59681c053b96aa55b7] An energy performance certificate is only valid for the purposes of complying with the green deal disclosure obligations if it was—
+(2A)[^c-3cc017275d12de59681c053b96aa55b7] An energy performance certificate is only valid for the purposes of complying with the green deal disclosure obligations if it was—
 
 - (a) issued by an energy assessor; or
 - (b) produced under regulation 30 pursuant to a request for the disclosure of general access data relating to a green deal property,
@@ -296,18 +296,18 @@ no more than twelve months before the date on which the energy performance certi
 
 (3) An energy performance certificate must not contain any information or data (except for the address of the building) from which a living individual (other than the energy assessor or his employer) can be identified.
 
-(3A)[^key-bc92c61df6801c880701ee296e01db22] An energy performance certificate must not contain any information relating to a green deal plan for which the payment period has finished.
+(3A)[^c-bc92c61df6801c880701ee296e01db22] An energy performance certificate must not contain any information relating to a green deal plan for which the payment period has finished.
 
 (4) Certification for building units on or after 9th January 2013 may be based—
 
 - (a) for a non-residential building, on a common certification of the whole building for blocks with a common heating system; or
-- (b) on the assessment of another representative building[^key-92cfb609e3cb94aa1efaaadf1282c71a] or unit in the same block..
+- (b) on the assessment of another representative building[^c-92cfb609e3cb94aa1efaaadf1282c71a] or unit in the same block..
 
 (5) Certification on or after 9th January 2013 for a building which consists of a single dwelling may be based on the assessment of another representative building of similar design and size with a similar actual energy performance quality if such correspondence is guaranteed by the energy assessor issuing the energy performance certificate.
 
-(6)[^key-56ec7cf96713a76307313b01621312f3] This regulation does not apply to an energy performance certificate to which regulation 9A applies.
+(6)[^c-56ec7cf96713a76307313b01621312f3] This regulation does not apply to an energy performance certificate to which regulation 9A applies.
 
-### 9A. Energy performance certificates in respect of excluded buildings[^key-38b4e44f256a0a7c9b4bb4b47c6fbbdf]
+### 9A. Energy performance certificates in respect of excluded buildings[^c-38b4e44f256a0a7c9b4bb4b47c6fbbdf]
 
 (1) This regulation applies where—
 
@@ -344,12 +344,12 @@ no more than twelve months before the date on which the energy performance certi
 - (a) it has a total useful floor area of more than 500m²;
 - (b) it is frequently visited by the public; and
 - (c) an energy performance certificate has been made available in accordance with—
-  - (i) regulation 6 or 7A[^key-6ba523fe4ca5f3f1cc864c27076fe146], or
-  - (ii) in the case of certificate entered on the register before 6th April 2016,[^key-83971cc1fe3dba333c34392bcd0b75fb] regulation 29(2) [^c21492071] of the Building Regulations 2010.
+  - (i) regulation 6 or 7A[^c-6ba523fe4ca5f3f1cc864c27076fe146], or
+  - (ii) in the case of certificate entered on the register before 6th April 2016,[^c-83971cc1fe3dba333c34392bcd0b75fb] regulation 29(2) [^c21492071] of the Building Regulations 2010.
 
 (2) In a building to which this regulation applies, the energy performance certificate must be valid, and must be displayed in a prominent place clearly visible to members of the public who visit the building.
 
-### 11. Statement of energy performance rating[^key-cd10e6c8bce90fef08055c7f1c59b896]
+### 11. Statement of energy performance rating[^c-cd10e6c8bce90fef08055c7f1c59b896]
 
 (1) This regulation applies to—
 
@@ -357,15 +357,15 @@ no more than twelve months before the date on which the energy performance certi
 - (b) a building unit in such a building, and
 - (c) a building unit having a valid energy performance certificate.
 
-(2) Where a building or building unit to which this regulation applies is offered for sale or rent on or after 9th January 2013 the, relevant person, or, where applicable, a person acting on behalf of the relevant person, must ensure that the[^key-41a322569f0940d8f618e8ee4da6f8b3] energy performance[^key-6ed452fc95f9238a0acb24820820e626] rating[^key-d98e74f54618590f6025dedf90867182] of the building expressed in the energy performance certificate is[^key-f77589fe6827f7ed34fb4e4e2a9d770f] stated in any advertisement of the sale or rental in commercial media.
+(2) Where a building or building unit to which this regulation applies is offered for sale or rent on or after 9th January 2013 the, relevant person, or, where applicable, a person acting on behalf of the relevant person, must ensure that the[^c-41a322569f0940d8f618e8ee4da6f8b3] energy performance[^c-6ed452fc95f9238a0acb24820820e626] rating[^c-d98e74f54618590f6025dedf90867182] of the building expressed in the energy performance certificate is[^c-f77589fe6827f7ed34fb4e4e2a9d770f] stated in any advertisement of the sale or rental in commercial media.
 
-(3) In this regulation “energy performance[^key-6b6c759ca4052aa1ca2b2108b560a1ac] rating[^key-bfe869ad0c4d2b10866a42e9a56fb817] ” means an indication of the energy efficiency of a building or building unit, calculated using the methodology approved by the Secretary of State under regulation 24 of the Building Regulations 2010 and expressed on a scale of A+ to G, (or A to G in the case of a building that is a dwelling), with G representing the least energy efficient rating.
+(3) In this regulation “energy performance[^c-6b6c759ca4052aa1ca2b2108b560a1ac] rating[^c-bfe869ad0c4d2b10866a42e9a56fb817] ” means an indication of the energy efficiency of a building or building unit, calculated using the methodology approved by the Secretary of State under regulation 24 of the Building Regulations 2010 and expressed on a scale of A+ to G, (or A to G in the case of a building that is a dwelling), with G representing the least energy efficient rating.
 
 ### 12. Production of copies of energy performance certificates
 
 Where this Part requires a relevant person to give or make available a valid energy performance certificate to any person, it is sufficient for the relevant person to give or make available a copy of a valid certificate.
 
-### 13. Electronic service of energy performance certificates[^key-cda63c6a39047d5fcebfdacaf9dc1022]
+### 13. Electronic service of energy performance certificates[^c-cda63c6a39047d5fcebfdacaf9dc1022]
 
 (1) A document that is made available or given in accordance with the regulations listed in paragraph (2) may be made available or given electronically if the intended recipient consents to receiving it electronically.
 
@@ -385,7 +385,7 @@ Where this Part requires a relevant person to give or make available a valid ene
 (2) In this regulation the specified date is—
 
 - (a) for buildings with a total useful floor area of over 500m², 9th January 2013; and
-- (b) for buildings with a total useful floor area of between 250m² and [^key-f0f3065cae10ddef300387987fd60ca4]... 500m², 9th July 2015.
+- (b) for buildings with a total useful floor area of between 250m² and [^c-f0f3065cae10ddef300387987fd60ca4]... 500m², 9th July 2015.
 
 (3) Every occupier of a building to which this regulation applies must—
 
@@ -399,11 +399,11 @@ Where this Part requires a relevant person to give or make available a valid ene
 
 ### 15. Display energy certificates
 
-(1)[^key-6d7b260134e05a3727b757291a4466a9] Subject to paragraph (2),[^key-5c9543d5aa61ad295397edf10712fdad] a display energy certificate issued under this regulation[^key-bda4cd76514dc2444a9c02a6848c8ad7] must—
+(1)[^c-6d7b260134e05a3727b757291a4466a9] Subject to paragraph (2),[^c-5c9543d5aa61ad295397edf10712fdad] a display energy certificate issued under this regulation[^c-bda4cd76514dc2444a9c02a6848c8ad7] must—
 
-- (a)[^key-7a49776218b148868aeb7ffe0658a794] subject to regulation 16, show the operational rating of the building, calculated and expressed in accordance with the methodology approved by the Secretary of State under regulation 24 of the Building Regulations 2010, relating to the period of 12 months ending no earlier than three months before the nominated date;
-- (b) show the operational ratings for the building which were shown[^key-ead71462a9383a5dc7afa1609a144c6e] in any certificates displayed by the occupier during the two years before the nominated date;
-- (c) include a reference value in order to make it possible to compare and assess the energy performance of the building[^key-50db6562cea774530c9035a3ee5b5fa9];
+- (a)[^c-7a49776218b148868aeb7ffe0658a794] subject to regulation 16, show the operational rating of the building, calculated and expressed in accordance with the methodology approved by the Secretary of State under regulation 24 of the Building Regulations 2010, relating to the period of 12 months ending no earlier than three months before the nominated date;
+- (b) show the operational ratings for the building which were shown[^c-ead71462a9383a5dc7afa1609a144c6e] in any certificates displayed by the occupier during the two years before the nominated date;
+- (c) include a reference value in order to make it possible to compare and assess the energy performance of the building[^c-50db6562cea774530c9035a3ee5b5fa9];
 - (d) be issued by an energy assessor who is accredited to produce display energy certificates for that category of building;
 - (e) include the following information—
   - (i) the reference number under which the set of data from which the certificate may be produced has been entered onto the register in accordance with regulation 27;
@@ -415,9 +415,9 @@ Where this Part requires a relevant person to give or make available a valid ene
   - (vii) the nominated date; and
   - (viii) the name of the approved accreditation scheme of which the energy assessor is a member.
 
-(2)[^key-ff5275992dd39546e79c2b82824620fb] This regulation does not apply to a display energy certificate issued under regulation 15A.
+(2)[^c-ff5275992dd39546e79c2b82824620fb] This regulation does not apply to a display energy certificate issued under regulation 15A.
 
-### 15A. Display energy certificates for excluded buildings[^key-60abf3b854142fc77c38268f77d9caad]
+### 15A. Display energy certificates for excluded buildings[^c-60abf3b854142fc77c38268f77d9caad]
 
 (1) This regulation applies where—
 
@@ -446,9 +446,9 @@ Regulation 15(a) does not apply in relation to a display energy certificate whic
 
 ### 18. Inspections of air-conditioning systems
 
-(1) It is the duty of the relevant person in relation to an air-conditioning system to which this Part applies to ensure that accessible parts of the system are[^key-4e5bac5f9a2cef981ae41c9f5c6a72a2] inspected by an energy assessor at regular intervals not exceeding five years.
+(1) It is the duty of the relevant person in relation to an air-conditioning system to which this Part applies to ensure that accessible parts of the system are[^c-4e5bac5f9a2cef981ae41c9f5c6a72a2] inspected by an energy assessor at regular intervals not exceeding five years.
 
-(2) The first inspection of the accessible parts of the[^key-cc6ede2fd7af6c7eefe2a147a1c5963e] system must take place before the relevant date.
+(2) The first inspection of the accessible parts of the[^c-cc6ede2fd7af6c7eefe2a147a1c5963e] system must take place before the relevant date.
 
 (3) In this regulation, “the relevant date”—
 
@@ -459,11 +459,11 @@ Regulation 15(a) does not apply in relation to a display energy certificate whic
 
 ### 19. Reports
 
-(1) Subject to paragraph (4),[^key-7e2ffb709bfbd3d8057cad877e201af5] where an energy assessor undertakes an inspection of the system under regulation 18[^key-735254658a73133745b69283bbb245ca] he must make a written report of the inspection and give it to the relevant person as soon as practicable after completing the inspection.
+(1) Subject to paragraph (4),[^c-7e2ffb709bfbd3d8057cad877e201af5] where an energy assessor undertakes an inspection of the system under regulation 18[^c-735254658a73133745b69283bbb245ca] he must make a written report of the inspection and give it to the relevant person as soon as practicable after completing the inspection.
 
-(2) The inspection report must include an assessment of the air-conditioning efficiency and the sizing of the system compared to the cooling requirements of the building, and contain appropriate advice on cost-effective improvement to the energy performance of[^key-f38bc42e3f23286384c6235ce87e6486] the system, replacement of the system and alternative solutions.
+(2) The inspection report must include an assessment of the air-conditioning efficiency and the sizing of the system compared to the cooling requirements of the building, and contain appropriate advice on cost-effective improvement to the energy performance of[^c-f38bc42e3f23286384c6235ce87e6486] the system, replacement of the system and alternative solutions.
 
-(2A)[^key-4a2e5011cc3f85385b52f869fb19f457] The inspection report must consider the capabilities of the air-conditioning system to optimise its performance under typical operating conditions for that system.
+(2A)[^c-4a2e5011cc3f85385b52f869fb19f457] The inspection report must consider the capabilities of the air-conditioning system to optimise its performance under typical operating conditions for that system.
 
 (3) The inspection report must be in a form including the following information—
 
@@ -474,9 +474,9 @@ Regulation 15(a) does not apply in relation to a display energy certificate whic
 - (e) the date on which the inspection occurred; and
 - (f) the name of the approved accreditation scheme of which the energy assessor is a member.
 
-(4)[^key-e9a65512b2bd047a96272ac8c4076376] This regulation does not apply to inspection reports issued under regulation 19A.
+(4)[^c-e9a65512b2bd047a96272ac8c4076376] This regulation does not apply to inspection reports issued under regulation 19A.
 
-### 19A. Reports in respect of excluded buildings[^key-b65f1b2cf6ab96801ffad77e1f99366c]
+### 19A. Reports in respect of excluded buildings[^c-b65f1b2cf6ab96801ffad77e1f99366c]
 
 (1) This regulation applies where—
 
@@ -487,7 +487,7 @@ Regulation 15(a) does not apply in relation to a display energy certificate whic
 
 (2) Where an energy assessor undertakes an inspection of the system under regulation 18 he must make a written report of the inspection and give it to the relevant person as soon as practicable after completing the inspection.
 
-(3) An inspection report issued under this regulation must comply with the requirements of paragraphs (2), (2A)[^key-d5893473acfaf801281b9807646dfb9c] and (3) of regulation 19, other than the requirement in paragraph (3)(a) (reference number under which data entered onto register).
+(3) An inspection report issued under this regulation must comply with the requirements of paragraphs (2), (2A)[^c-d5893473acfaf801281b9807646dfb9c] and (3) of regulation 19, other than the requirement in paragraph (3)(a) (reference number under which data entered onto register).
 
 (4) Where this regulation applies, the energy assessor must not enter any data relating to the building onto the register.
 
@@ -525,7 +525,7 @@ the new relevant person must ensure that the system is inspected within three mo
 - (d) for ensuring that a code is produced and published as regards the conduct required of its members;
 - (e) for indemnity arrangements in relation to relevant persons and prospective or actual buyers or tenants;
 - (f) for facilitating the resolution of complaints against members of the scheme;
-- (g)[^key-eda0d1e0f4e31396f47f1f7ea44fe39b] for requiring the sets of data from which there may be produced energy performance certificates (other than data relating to a certificate issued under regulation 9A), display energy certificates (other than data relating to a certificate issued under regulation 15A), recommendation reports (other than one to which regulation 27(7) applies) and inspection reports (other than data relating to a certificate issued under regulation 19A) prepared by members of the scheme to be entered onto the relevant register maintained by the Secretary of State pursuant to regulation 27; and
+- (g)[^c-eda0d1e0f4e31396f47f1f7ea44fe39b] for requiring the sets of data from which there may be produced energy performance certificates (other than data relating to a certificate issued under regulation 9A), display energy certificates (other than data relating to a certificate issued under regulation 15A), recommendation reports (other than one to which regulation 27(7) applies) and inspection reports (other than data relating to a certificate issued under regulation 19A) prepared by members of the scheme to be entered onto the relevant register maintained by the Secretary of State pursuant to regulation 27; and
 - (h) for the keeping of a register of the members of the scheme.
 
 ### 23. Related party disclosures
@@ -568,31 +568,31 @@ In this Part, a reference to “**energy assessment**” includes a reference to
 
 ### 27. Registration of certificates etc
 
-(1) Subject to paragraph (6),[^key-d77dff0a2415231aeec788a8d12a0037] the Secretary of State shall maintain one or more registers of data from which the following documents may be produced—
+(1) Subject to paragraph (6),[^c-d77dff0a2415231aeec788a8d12a0037] the Secretary of State shall maintain one or more registers of data from which the following documents may be produced—
 
 - (a) energy performance certificates;
-- (b) display energy certificates; [^key-c3d0a6dc5344e2ccad493b6de6b78b45]...
-- (c) inspection reports; and[^key-82afb231b46df4a7909783e7a1a7e60f]
+- (b) display energy certificates; [^c-c3d0a6dc5344e2ccad493b6de6b78b45]...
+- (c) inspection reports; and[^c-82afb231b46df4a7909783e7a1a7e60f]
 - (d) recommendation reports
 
 (2) An energy assessor who issues a document referred to in paragraph (1)(a) or (b) must ensure that the data which, in accordance with the methodology of calculation of the energy performance of buildings approved by the Secretary of State under regulation 24 of the Building Regulations 2010 [^c21492091], was used to calculate any asset rating or operational rating, and to produce the document, is entered onto the relevant register before the assessor gives the document to the person who requested that it be issued.
 
-(2A)[^key-43bbba9e0aeb5570d4d08c851a4f0fed] Where an energy assessor issues an energy performance certificate relating to a green deal property, the data which the assessor must ensure is entered onto the relevant register in accordance with paragraph (2) includes the green deal information relating to that property.
+(2A)[^c-43bbba9e0aeb5570d4d08c851a4f0fed] Where an energy assessor issues an energy performance certificate relating to a green deal property, the data which the assessor must ensure is entered onto the relevant register in accordance with paragraph (2) includes the green deal information relating to that property.
 
 (3) An energy assessor who issues an inspection report must ensure that the data required by regulation 19(3) to be included in the report is entered onto the relevant register before the assessor gives the document to the relevant person.
 
 (4) Each set of data entered onto the register from which a particular document may be produced—
 
 - (a) shall be registered under a unique reference number; and
-- (b) subject to paragraph (4A)[^key-ebcfea0efed9f3f13c388adc4621e851] shall not be altered once registered.
+- (b) subject to paragraph (4A)[^c-ebcfea0efed9f3f13c388adc4621e851] shall not be altered once registered.
 
-(4A)[^key-c74648a986d9e1041cb4b9e7ac08e82e] The green deal information entered onto the relevant register in respect of a green deal property may be altered in accordance with provision made under section 11(6) of the Energy Act 2011.
+(4A)[^c-c74648a986d9e1041cb4b9e7ac08e82e] The green deal information entered onto the relevant register in respect of a green deal property may be altered in accordance with provision made under section 11(6) of the Energy Act 2011.
 
-(4B)[^key-95396fbd8aeef890d96e74e40a368350] An energy assessor who issues a recommendation report (whether as part of an energy performance certificate under regulation 9(1)(d) or as a separate document) must ensure that the data that is required to be included in the report by regulation 4(2) (recommendation reports) is entered onto the relevant register before the assessor gives the report to the person who requested that it be issued.
+(4B)[^c-95396fbd8aeef890d96e74e40a368350] An energy assessor who issues a recommendation report (whether as part of an energy performance certificate under regulation 9(1)(d) or as a separate document) must ensure that the data that is required to be included in the report by regulation 4(2) (recommendation reports) is entered onto the relevant register before the assessor gives the report to the person who requested that it be issued.
 
 (5) Any data entered on the register must be kept on the register for a period of at least 20 years beginning on the date on which it is entered onto the register.
 
-(6)[^key-b5d4771c2dcc7500bb8bb1a3c753e757] This regulation does not apply to—
+(6)[^c-b5d4771c2dcc7500bb8bb1a3c753e757] This regulation does not apply to—
 
 - (a) an energy performance certificate issued under regulation 9A (energy performance certificates in respect of excluded buildings);
 - (b) a display energy certificate issued under regulation 15A (display energy certificates in respect of excluded buildings);
@@ -608,23 +608,23 @@ In this Part, a reference to “**energy assessment**” includes a reference to
 
 The keeper of the register may charge the following fees for entering data onto the register on or after 9th January 2013—
 
-- (a) for entering data from which an energy performance certificate which relates to a dwelling may be produced, a fee of£1.50[^key-ee6919baef9fbbf097e4301b73b91dcd];
+- (a) for entering data from which an energy performance certificate which relates to a dwelling may be produced, a fee of£1.50[^c-ee6919baef9fbbf097e4301b73b91dcd];
 - (b) for entering data from which—
   - (i) an energy performance certificate which relates to a building other than a dwelling,
   - (ii) a display energy certificate, or
   - (iii) an inspection report,
 
-  may be produced, a fee of £1.70[^key-d3f37a7ebf45e00ee82fee53225c54ca].
+  may be produced, a fee of £1.70[^c-d3f37a7ebf45e00ee82fee53225c54ca].
 
 ### 29. Disclosure of data: general
 
-(1)[^key-9964c73d3e72c38c82431fd77fb2901f] A person must not disclose data collected under these regulations to any other person unless the disclosure is in accordance with regulation 29A, 30, 30A or 32.
+(1)[^c-9964c73d3e72c38c82431fd77fb2901f] A person must not disclose data collected under these regulations to any other person unless the disclosure is in accordance with regulation 29A, 30, 30A or 32.
 
 (2) It is an offence for a person to disclose, or permit the disclosure of, data otherwise than in accordance with paragraph (1).
 
 (3) A person guilty of an offence under paragraph (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 29A. Disclosure of assessment data[^key-103f742e2c7b70eb5e744fb99fd27abf]
+### 29A. Disclosure of assessment data[^c-103f742e2c7b70eb5e744fb99fd27abf]
 
 (1) The keeper of the register, an accreditation scheme or an energy assessor may disclose assessment data—
 
@@ -644,7 +644,7 @@ The keeper of the register may charge the following fees for entering data onto 
 
 ### 30. Disclosure of general access data
 
-(1) The keeper of the register may disclose general access data which does not relate to a building or a building unit that is a green deal property[^key-7e67b2a9ea25e26ad2718796983b6d95] to any person if the conditions in paragraph (2) are met.
+(1) The keeper of the register may disclose general access data which does not relate to a building or a building unit that is a green deal property[^c-7e67b2a9ea25e26ad2718796983b6d95] to any person if the conditions in paragraph (2) are met.
 
 (2) The conditions are that—
 
@@ -652,39 +652,39 @@ The keeper of the register may charge the following fees for entering data onto 
 - (b) the request includes at least one of the following—
   - (i) the full postcode of that building;
   - (ii) the name of the road or street on which, and the name of the city, town, village or parish in which that building is located; or
-  - (iii) the report reference number of the valid energy performance certificate that relates to the building[^key-de1c75acea4a53071f38295e7549cf33]... ; and[^key-5d6ab273ab82a83f88225665b0417275]
-- (c)[^key-0354e97b8ec8521622a434785561df5d] subject to paragraph (2ZA), no opt-out is in effect in respect of the data.
-- (d)[^key-f43a784f9dcfbd0a490b0059683fb3f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the report reference number of the valid energy performance certificate that relates to the building[^c-de1c75acea4a53071f38295e7549cf33]... ; and[^c-5d6ab273ab82a83f88225665b0417275]
+- (c)[^c-0354e97b8ec8521622a434785561df5d] subject to paragraph (2ZA), no opt-out is in effect in respect of the data.
+- (d)[^c-f43a784f9dcfbd0a490b0059683fb3f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2ZA)[^key-c393fe320a43dbed775de9ddb9bdbb2d] The condition in paragraph (2)(c) does not apply where the request—
+(2ZA)[^c-c393fe320a43dbed775de9ddb9bdbb2d] The condition in paragraph (2)(c) does not apply where the request—
 
 - (a) is for data that is required to be included in a display energy certificate; or
 - (b) includes the report reference number of the valid energy performance certificate that relates to the building.
 
-(2A)[^key-8f223a0ef1e6a2d866c026daf9ebdb52] The keeper of the register may disclose general access data which relates to a building or a building unit which is a green deal property to—
+(2A)[^c-8f223a0ef1e6a2d866c026daf9ebdb52] The keeper of the register may disclose general access data which relates to a building or a building unit which is a green deal property to—
 
-- (a) any person if the conditions in paragraph (2)(a), (b)(iii) and (c)[^key-6d766fe7cd159e97bcc78fbb7177077f] are met;
+- (a) any person if the conditions in paragraph (2)(a), (b)(iii) and (c)[^c-6d766fe7cd159e97bcc78fbb7177077f] are met;
 - (b) a person who is acting on behalf of another person—
   - (i) who is or may be required to comply with the green deal disclosure obligations; or
   - (ii) to whom an energy performance certificate is required to be provided pursuant to the green deal disclosure obligations,
 
-if the conditions in paragraph (2)(a), (b)(i) or (ii) and (c)[^key-4242f36331ec6af2a78f8f609fda3bbf] are met.
+if the conditions in paragraph (2)(a), (b)(i) or (ii) and (c)[^c-4242f36331ec6af2a78f8f609fda3bbf] are met.
 
 (3) In this regulation—
 
 - (a) an opt-out is in effect in respect of data where—
   - (i) the owner or occupier of the building to which the data relates has notified the keeper that the data is not to be disclosed,
   - (ii) the notice was given in writing, or by electronic communication sent to an address or location specified by the keeper for the purpose of the receipt of such notices, and
-  - (iii) the notice has not been withdrawn by the owner or occupier (by the means referred to in this sub-paragraph)[^key-4d5b90536751f63f2632d59086e6ce54]...
-- (b)[^key-243a4f869d8d717427c7e7dcfe6823de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the notice has not been withdrawn by the owner or occupier (by the means referred to in this sub-paragraph)[^c-4d5b90536751f63f2632d59086e6ce54]...
+- (b)[^c-243a4f869d8d717427c7e7dcfe6823de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30A. Publication of bulk access data on a website[^key-81898b0c030f262863aa69b10e051f05][^key-a544f26047ded3fa185631c47431201c]
+### 30A. Publication of bulk access data on a website[^c-81898b0c030f262863aa69b10e051f05][^c-a544f26047ded3fa185631c47431201c]
 
 (1) Subject to paragraph (2), the keeper of the register may publish on a website bulk access data relating to any building appearing on the register.
 
 (2) Under this regulation the keeper of the register may not publish the name of an individual or any data in relation to which an opt-out is in effect in accordance with regulation 30(3).
 
-### 31. Disclosure of bulk access data[^key-f52914c134f6b9024c22b7fd7cffcb5e]
+### 31. Disclosure of bulk access data[^c-f52914c134f6b9024c22b7fd7cffcb5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -693,26 +693,26 @@ if the conditions in paragraph (2)(a), (b)(i) or (ii) and (c)[^key-4242f36331ec6
 (1) The keeper of the register may disclose general access data or bulk access data—
 
 - (a) to an enforcement authority for the purposes of their duty under regulation 34(2);
-- (aa)[^key-1cf9fb95e59542b932e9f81fc9cffa5e] to the building safety regulator for the purposes of its duty under section 91 of the Building Act 1984;
+- (aa)[^c-1cf9fb95e59542b932e9f81fc9cffa5e] to the building safety regulator for the purposes of its duty under section 91 of the Building Act 1984;
 - (b) to a local authority for the purposes of their duty under section 91 of the Building Act 1984 [^c21492111];
-- (c) to a registered building control approver for the purposes of the approver’s *(Extent: E)*[^key-2256b9e82e88f7de244132d92e9d8c62] functions under Part 2 of the Building Act 1984; or
+- (c) to a registered building control approver for the purposes of the approver’s *(Extent: E)*[^c-2256b9e82e88f7de244132d92e9d8c62] functions under Part 2 of the Building Act 1984; or
 - (d) for the purpose of—
   - (i) the prevention or detection of crime;
   - (ii) the apprehension or prosecution of alleged offenders;
   - (iii) any proceedings in a court or tribunal; or
-  - (iv) complying with an order or a court or tribunal.; or[^key-34f42b3ff459ddaea7256ac32fb5fd51]
+  - (iv) complying with an order or a court or tribunal.; or[^c-34f42b3ff459ddaea7256ac32fb5fd51]
 - (e) to the Office for National Statistics for statistical or research purposes
 
-(2) The keeper of the register[^key-ad30691d06b6650b946f379753797252] may disclose general access data or bulk access data to the Secretary of State , or to a person acting on behalf of the Secretary of State,[^key-db46a5c816bbdaab2d96976fe82585e8] for the purpose of enabling the Secretary of State to carry out any function under or in connection with these Regulations, or for statistical or research purposes.
+(2) The keeper of the register[^c-ad30691d06b6650b946f379753797252] may disclose general access data or bulk access data to the Secretary of State , or to a person acting on behalf of the Secretary of State,[^c-db46a5c816bbdaab2d96976fe82585e8] for the purpose of enabling the Secretary of State to carry out any function under or in connection with these Regulations, or for statistical or research purposes.
 
-(2A)[^key-dddd94c3bbf6ad848c62a1e76aab4ebc] Where the keeper of the register discloses general access data or bulk access data to the Secretary of State or to the Office for National Statistics for statistical or research purposes, such data may be published by the Secretary of State or the Office of National Statistics (as the case may be) if—[^key-21a1e70d78de91cd424fbe812f22bfb0]
+(2A)[^c-dddd94c3bbf6ad848c62a1e76aab4ebc] Where the keeper of the register discloses general access data or bulk access data to the Secretary of State or to the Office for National Statistics for statistical or research purposes, such data may be published by the Secretary of State or the Office of National Statistics (as the case may be) if—[^c-21a1e70d78de91cd424fbe812f22bfb0]
 
 - (a) the data is published in anonymised form; and
 - (b) the data does not include any information revealing the report reference number for an energy performance certificate.
 
 (2B) In paragraph (2A) “anonymised form” means that the data is in a form calculated to prevent the data from being identified as relating to a particular person or building.
 
-(3)[^key-9675cd84ebf6ab430868f3bf9a26061b] The keeper of the register may disclose general access data or bulk access data to—
+(3)[^c-9675cd84ebf6ab430868f3bf9a26061b] The keeper of the register may disclose general access data or bulk access data to—
 
 - (a) the Secretary of State;
 - (b) a person acting on behalf of the Secretary of State; or
@@ -722,7 +722,7 @@ for the purpose of enabling that person to carry out any function under or in co
 
 (4) In this regulation, “Green Deal Ombudsman” has the meaning given in regulation 2(1) of the Green Deal Framework Regulations.
 
-(5)[^key-1b8e10ccc12b3119d490f467b4c0fd5e] The keeper of the register may disclose to a person who operates an accreditation scheme approved by the Secretary of State under regulation 22—
+(5)[^c-1b8e10ccc12b3119d490f467b4c0fd5e] The keeper of the register may disclose to a person who operates an accreditation scheme approved by the Secretary of State under regulation 22—
 
 - (a) any document entered onto the register; and
 - (b) any associated data.
@@ -740,7 +740,7 @@ for the purpose of enabling that person to carry out any function under or in co
 
 for the purposes of enabling the Authority or the Secretary of State to carry out any function in relation to a scheme established under section 100 of the Energy Act 2008.
 
-(7A)[^key-fa22b272561306bfde6a51c17b41f740] The keeper of the register may disclose bulk access data which relates to a building to a green deal relevant person if the data is to be used by that person solely for one or more of the following purposes—
+(7A)[^c-fa22b272561306bfde6a51c17b41f740] The keeper of the register may disclose bulk access data which relates to a building to a green deal relevant person if the data is to be used by that person solely for one or more of the following purposes—
 
 - (a) promoting energy efficiency improvements in relation to buildings;
 - (b) promoting and marketing energy efficiency improvements that may be made pursuant to a green deal plan;
@@ -760,12 +760,12 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 - (a) the carrying out of any functions of the Authority under the Electricity and Gas (Energy Company Obligation) Order 2014;
 - (b) promoting energy efficiency improvements in relation to buildings.
 
-(8) Any data disclosed under paragraph (7) , (7A), (7B) or (7C)[^key-bfa0cece4d36d5eae6864fa033d14ebe] shall not include any—
+(8) Any data disclosed under paragraph (7) , (7A), (7B) or (7C)[^c-bfa0cece4d36d5eae6864fa033d14ebe] shall not include any—
 
-- (a)[^key-df21b62f9907b36da20f83e0ec563232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-df21b62f9907b36da20f83e0ec563232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) information revealing the address or postcode of an identifiable person where an opt-out has effect under regulation 30.
 
-### 33. Fee for disclosure of bulk access data[^key-a1679e3b0ebaaf6961d5010f9c18c039]
+### 33. Fee for disclosure of bulk access data[^c-a1679e3b0ebaaf6961d5010f9c18c039]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -775,23 +775,23 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 
 (1) Every local weights and measures authority is an enforcement authority for the purpose of this Part.
 
-(2) It is the duty of each enforcement authority to enforce in their area the duties under regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^key-c60f07b96c6f6c9b693ba8602d086769], 10(2), 11(2)[^key-27906f35904c643e947c269a3b277a1d] 14(3), 18(1), 20, 21 and 35(5)[^key-bb8a38c44ce9ab73e40600483311e3a9]....
+(2) It is the duty of each enforcement authority to enforce in their area the duties under regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^c-c60f07b96c6f6c9b693ba8602d086769], 10(2), 11(2)[^c-27906f35904c643e947c269a3b277a1d] 14(3), 18(1), 20, 21 and 35(5)[^c-bb8a38c44ce9ab73e40600483311e3a9]....
 
-(3)[^key-27c6403c6fced46ca8f2e103939d567c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-27c6403c6fced46ca8f2e103939d567c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-27c6403c6fced46ca8f2e103939d567c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-27c6403c6fced46ca8f2e103939d567c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-27c6403c6fced46ca8f2e103939d567c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-27c6403c6fced46ca8f2e103939d567c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34A. Enforcement and local authority buildings[^key-594fa485dbc408c5b9007f4817a7be51]
+### 34A. Enforcement and local authority buildings[^c-594fa485dbc408c5b9007f4817a7be51]
 
-(1) This regulation applies in relation to all buildings in respect of which a local authority is subject to a duty under any of regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^key-496ba43b29ce2ee7324e1a0cb75fa006], 10(2), 11(2), 14(3), 18(1), 20, 21 and 35(5)[^key-52d55154f0238db2b8a1ef3faf20156b]... (“local authority buildings”).
+(1) This regulation applies in relation to all buildings in respect of which a local authority is subject to a duty under any of regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^c-496ba43b29ce2ee7324e1a0cb75fa006], 10(2), 11(2), 14(3), 18(1), 20, 21 and 35(5)[^c-52d55154f0238db2b8a1ef3faf20156b]... (“local authority buildings”).
 
-(2) The local weights and measures authority for an area (“Authority 1”) must agree in writing with the local weights and measures authority for another area (“Authority 2”) that Authority 2 will enforce regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^key-5e672e193318fef059790fb043c6ad26], 10(2), 11(2), 14(3), 18(1), 20, 21 and 35(5) [^key-20bb335133ea9c136a06b813c21d5772]... in respect of local authority buildings in the area of Authority 1.
+(2) The local weights and measures authority for an area (“Authority 1”) must agree in writing with the local weights and measures authority for another area (“Authority 2”) that Authority 2 will enforce regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^c-5e672e193318fef059790fb043c6ad26], 10(2), 11(2), 14(3), 18(1), 20, 21 and 35(5) [^c-20bb335133ea9c136a06b813c21d5772]... in respect of local authority buildings in the area of Authority 1.
 
 (3) Once an agreement made under paragraph (2) comes into effect—
 
-- (a) it is the duty of Authority 2 to enforce regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^key-e06b172a465996a34d6aecac4a48f07f], 10(2), 11(2), 14(3), 18(1), 20, 21 and 35(5) [^key-0dbbee5b8d5ddd18303ac7bad92e21d1]... in respect of local authority buildings in the area of Authority 1; and
+- (a) it is the duty of Authority 2 to enforce regulations 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^c-e06b172a465996a34d6aecac4a48f07f], 10(2), 11(2), 14(3), 18(1), 20, 21 and 35(5) [^c-0dbbee5b8d5ddd18303ac7bad92e21d1]... in respect of local authority buildings in the area of Authority 1; and
 - (b) Authority 1 must publish that fact.
 
 (4) Authority 1 must notify an agreement made under paragraph (2) to the Secretary of State in writing.
@@ -805,7 +805,7 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 
 (7) Every local weights and measures authority must have complied with paragraphs (2), (3)(b) and (4) by the end of the period of three months beginning on the day after these Regulations come into force, or, if it is not reasonably practicable to do so within that time, as soon as is reasonably practicable after that time.
 
-(8)[^key-188866673b5a6f30cf8c1245b499e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-188866673b5a6f30cf8c1245b499e37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 34B. Enforcement plans
 
@@ -830,7 +830,7 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 
 ### 35. Power to require production of documents
 
-(1) An authorised officer of an enforcement authority may require a person who appears to him to be or to have been subject to any of the duties under regulation 6 , 7A[^key-5afb250d19659d9702b259717b4410f6], 14(3), 18(1) or 20[^key-8b7094c2d7c72bd3d1772188e633a85b]... to produce for inspection a copy of—
+(1) An authorised officer of an enforcement authority may require a person who appears to him to be or to have been subject to any of the duties under regulation 6 , 7A[^c-5afb250d19659d9702b259717b4410f6], 14(3), 18(1) or 20[^c-8b7094c2d7c72bd3d1772188e633a85b]... to produce for inspection a copy of—
 
 - (a) a valid energy performance certificate;
 - (b) a recommendation report; or
@@ -846,15 +846,15 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 
 (6) A person is not required to comply with such a requirement if he has a reasonable excuse for not complying with the requirement.
 
-(7)[^key-294c273203c2d4b8111c3f76183763af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-294c273203c2d4b8111c3f76183763af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-294c273203c2d4b8111c3f76183763af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-294c273203c2d4b8111c3f76183763af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-294c273203c2d4b8111c3f76183763af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-294c273203c2d4b8111c3f76183763af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 36. Penalty charge notices
 
-(1) An authorised officer of an enforcement authority may, if he believes that a person has committed a breach of any duty under regulation 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^key-3b62d76330f56b571605fafa0d614b80], 10(2), 11(2)[^key-42e047e6864c18fe67850b36132b7989] 14(3), 18(1), 20, 21, or 35(5), [^key-f14beff5e7ab5393e8d60a19bb241326]... give a penalty charge notice to that person.
+(1) An authorised officer of an enforcement authority may, if he believes that a person has committed a breach of any duty under regulation 6(2), 6(5), 7(2), 7(3), 7(4), 7(5) , 7A(2), 7A(3)[^c-3b62d76330f56b571605fafa0d614b80], 10(2), 11(2)[^c-42e047e6864c18fe67850b36132b7989] 14(3), 18(1), 20, 21, or 35(5), [^c-f14beff5e7ab5393e8d60a19bb241326]... give a penalty charge notice to that person.
 
 (2) A penalty charge notice may not be given after the end of the period of six months beginning with the day (or in the case of a continuing breach the last day) on which the breach of duty was committed.
 
@@ -880,11 +880,11 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 - (a) he took all reasonable steps and exercised all due diligence to avoid breaching the duty; or
 - (b) regulation 37 (defence) applies.
 
-(8)[^key-ae1f445a33f3dcb72ee638e1e80a745f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ae1f445a33f3dcb72ee638e1e80a745f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-ae1f445a33f3dcb72ee638e1e80a745f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ae1f445a33f3dcb72ee638e1e80a745f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-ae1f445a33f3dcb72ee638e1e80a745f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ae1f445a33f3dcb72ee638e1e80a745f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37. Defence when energy performance certificate unobtainable
 
@@ -911,13 +911,13 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 
 (1) The penalty charge specified in the notice shall be—
 
-- (a) in relation to a breach of a duty under regulation 6(2), 6(5), 7(2), 7(3), 7(4), 7(5), 7A(2), or 7A(3)[^key-f91228089d72862a3d5f770aad546aa3] —
+- (a) in relation to a breach of a duty under regulation 6(2), 6(5), 7(2), 7(3), 7(4), 7(5), 7A(2), or 7A(3)[^c-f91228089d72862a3d5f770aad546aa3] —
   - (i) where the building is a dwelling, £200;
   - (ii) where the building is not a dwelling, calculated in accordance with the formula in paragraph (2);
 - (b) in relation to a breach of a duty under regulation 14(3)(a), £1000;
-- (c) in relation to a breach of a duty under regulation 10(2) or[^key-0e5e284ca46d05e2b1c2e023d07cb388] 14(3)(b), £500;
+- (c) in relation to a breach of a duty under regulation 10(2) or[^c-0e5e284ca46d05e2b1c2e023d07cb388] 14(3)(b), £500;
 - (d) in relation to a breach of a duty under regulation 18(1), 20(1), 20(2) or 21, £300; and
-- (e) in relation to a breach of a duty under regulation 11(2) or[^key-5f163ea4dc63be8511679e726b63f534] 35(5), £200.
+- (e) in relation to a breach of a duty under regulation 11(2) or[^c-5f163ea4dc63be8511679e726b63f534] 35(5), £200.
 
 (2) Subject to the minimum and maximum penalty charges prescribed by paragraph (3), the penalty charge for the purposes of paragraph (1)(a)(ii) shall be—
 
@@ -940,12 +940,12 @@ for the purposes of enabling the Authority or the Secretary of State to carry ou
 
 (3) The minimum and maximum penalty charges for the purposes of paragraph (2) are £500 and £5000 respectively.
 
-(4)[^key-9c9e3d39f682930973fe02d18a216831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9c9e3d39f682930973fe02d18a216831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this regulation the following definitions also apply—
 
 - “**hereditament**” means a hereditament which, pursuant to section 42 of the Local Government Finance Act 1988 [^c21492161], is shown on a local non-domestic rating list in force at the relevant time;
-- “[^key-70b87a2515a797b6954a24ccf52b9ff8]**local non-domestic rating list**” means—
+- “[^c-70b87a2515a797b6954a24ccf52b9ff8]**local non-domestic rating list**” means—
   - (a) in relation to England, a list compiled and maintained under section 41 of the Local Government Finance Act 1988;
   - (b) in relation to Wales, a list compiled and maintained under section 41ZA of the Local Government Finance Act 1988;
 - “**rateable value**” means the rateable value shown for a hereditament on a local non-domestic rating list at the relevant time; and
@@ -1082,7 +1082,7 @@ Parliamentary Under Secretary of State
 
 Department for Communities and Local Government
 
-## SCHEDULE A1 — Green deal information[^key-fd3594f49c3b57d2ad79f3dd9dad50b5]
+## SCHEDULE A1 — Green deal information[^c-fd3594f49c3b57d2ad79f3dd9dad50b5]
 
 Regulation 9(1)(ea)
 
@@ -1215,61 +1215,61 @@ In this Schedule—
 - “non-domestic property” has the meaning given in regulation 2(1) of the Green Deal Framework Regulations; and
 - “regulated consumer credit agreement” has the meaning given in section 8 of the Consumer Credit Act 1974.
 
-## SCHEDULE B1 — Specified data items for online publication[^key-caa7205e81838cc8ded6f2d6a3418533]
+## SCHEDULE B1 — Specified data items for online publication[^c-caa7205e81838cc8ded6f2d6a3418533]
 
 **No longer in force.**
 
 Regulation 30A
 
-**1.**[^key-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-caa7205e81838cc8ded6f2d6a3418533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1[^key-c67f5a4a9bb05780b7c296df4a7a44de]
+## SCHEDULE 1[^c-c67f5a4a9bb05780b7c296df4a7a44de]
 
 **No longer in force.**
 
 Regulation 31
 
-### PART 1[^key-c67f5a4a9bb05780b7c296df4a7a44de]
+### PART 1[^c-c67f5a4a9bb05780b7c296df4a7a44de]
 
-[^key-c67f5a4a9bb05780b7c296df4a7a44de]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2[^key-c67f5a4a9bb05780b7c296df4a7a44de]
-
-[^key-c67f5a4a9bb05780b7c296df4a7a44de]
+[^c-c67f5a4a9bb05780b7c296df4a7a44de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Meanings of regular and large data packs[^key-b6f5bab458b6bf332214379dfbbbdceb]
+### PART 2[^c-c67f5a4a9bb05780b7c296df4a7a44de]
+
+[^c-c67f5a4a9bb05780b7c296df4a7a44de]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Meanings of regular and large data packs[^c-b6f5bab458b6bf332214379dfbbbdceb]
 
 **No longer in force.**
 
 Regulation 33
 
-### PART 1 — Energy Performance Certificates[^key-b6f5bab458b6bf332214379dfbbbdceb]
+### PART 1 — Energy Performance Certificates[^c-b6f5bab458b6bf332214379dfbbbdceb]
 
-**1.**[^key-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Display Energy Certificates[^key-b6f5bab458b6bf332214379dfbbbdceb]
+### PART 2 — Display Energy Certificates[^c-b6f5bab458b6bf332214379dfbbbdceb]
 
-**4.**[^key-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Air-conditioning Inspection Reports[^key-b6f5bab458b6bf332214379dfbbbdceb]
+### PART 3 — Air-conditioning Inspection Reports[^c-b6f5bab458b6bf332214379dfbbbdceb]
 
-**5.**[^key-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b6f5bab458b6bf332214379dfbbbdceb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Revocation of Regulations
 
@@ -1329,300 +1329,300 @@ A transposition note setting out how these Regulations implement the recast Dire
 
 [^c21491901]: Marginal citation: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55). Section 4 was repealed by section 5 of the Sustainable and Secure Buildings Act 2004, c.22, but section 5 of that Act has not yet been commenced. Section 4(1)(a)(i) to (iv) of the Building Act 1984 was substituted by paragraph 59 of Schedule 37 to the [Education Act 1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56); subsection (1)(a)(ii) was substituted by paragraph 6 of Schedule 21 to the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32); subsection (1)(a)(iii) and (iv) was repealed by Schedule 31 to the [School Standards and Framework Act 1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31); subsection (1)(b) was amended by Schedule 6 to the [Airports Act 1986 (c.31)](https://www.legislation.gov.uk/ukpga/1986/31); subsection (1)(b)(ii) was amended by [S.I. 2011/2491](https://www.legislation.gov.uk/uksi/2011/2491); and subsection (1)(c) was amended by [S.I. 2001/4050](https://www.legislation.gov.uk/uksi/2001/4050). There are other amendments to section 4 which are not relevant to these Regulations.
 
-[^key-e6210f55d77830db920317ccc31c7ae3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/2)
+[^c-e6210f55d77830db920317ccc31c7ae3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/2)
 
-[^key-8a1a73cffe6f010549d7666f71d812fc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) omitted (1.10.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/2/a/i)
+[^c-8a1a73cffe6f010549d7666f71d812fc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) omitted (1.10.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/2/a/i)
 
-[^key-b96ab88772839ccbb1c831d438f27b3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) omitted (1.10.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/2/a/ii)
+[^c-b96ab88772839ccbb1c831d438f27b3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) omitted (1.10.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/2/a/ii)
 
-[^key-32b1f93da5a5de6426d957406b1703da]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (1.6.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/a)
+[^c-32b1f93da5a5de6426d957406b1703da]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (1.6.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/a)
 
-[^key-ebbd1e0c7f6459c6f85ef8f7fe587915]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) omitted (1.10.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/4), [3(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/b)
+[^c-ebbd1e0c7f6459c6f85ef8f7fe587915]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) omitted (1.10.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/4), [3(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/b)
 
-[^key-bb0255908cbdd7cc89e04b603a4d0ae6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2013/181/regulation/9)
+[^c-bb0255908cbdd7cc89e04b603a4d0ae6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.2.2013) by [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2013/181/regulation/9)
 
-[^key-765372d9fd11ccead7dc63afe258048a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/c)
+[^c-765372d9fd11ccead7dc63afe258048a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/c)
 
-[^key-1c5b772943bd4b0b4ff59a3222da055b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/d)
+[^c-1c5b772943bd4b0b4ff59a3222da055b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/d)
 
-[^key-0e91c6cb384c67203455019a6ddfaab4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/2/b)
+[^c-0e91c6cb384c67203455019a6ddfaab4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/2/b)
 
-[^key-94d71b3adeb5f183007f4f36d5074719]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/e)
+[^c-94d71b3adeb5f183007f4f36d5074719]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/e)
 
 [^c21492011]: Marginal citation: [S.I. 2007/991](https://www.legislation.gov.uk/uksi/2007/991), revoked by these Regulations (see [regulation 46](https://www.legislation.gov.uk/uksi/2007/991/regulation/46) and Schedule 3).
 
-[^key-ab0db8c8086a1cf173911ae35c523a52]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(f)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/f/i)
+[^c-ab0db8c8086a1cf173911ae35c523a52]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(f)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/f/i)
 
-[^key-bbd360d8ae79da015758b1a0ec3d2252]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/f/ii)
+[^c-bbd360d8ae79da015758b1a0ec3d2252]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/f/ii)
 
-[^key-b40947a9773183678367698f56829f87]: Textual amendment: Words in [reg. 2(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/c) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(f)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/f/iii)
+[^c-b40947a9773183678367698f56829f87]: Textual amendment: Words in [reg. 2(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/c) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(f)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/f/iii)
 
 [^c21492021]: Marginal citation: [Regulation 29](https://www.legislation.gov.uk/uksi/2012/3118/regulation/29) of the Building Regulations 2010 was amended by [S.I. 2012/809](https://www.legislation.gov.uk/uksi/2012/809) and by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119).
 
-[^key-a3ba6321c7358ea760e4da3fe11ec168]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(g)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/g)
+[^c-a3ba6321c7358ea760e4da3fe11ec168]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(g)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/g)
 
-[^key-9c4293ed880642f726615a0c95a13d1e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/3)
+[^c-9c4293ed880642f726615a0c95a13d1e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/3)
 
-[^key-eedeedf7c9eb9646fb5d925f18d1b7fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/4)
+[^c-eedeedf7c9eb9646fb5d925f18d1b7fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/4)
 
-[^key-3b586ee2d6aa727279554dd95a32998c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) substituted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/5)
+[^c-3b586ee2d6aa727279554dd95a32998c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) substituted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/5)
 
-[^key-c0a96d0b898b03bb05f97bca7713c84a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/h)
+[^c-c0a96d0b898b03bb05f97bca7713c84a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/h)
 
-[^key-516685d8d8a748158d2091eecaef592f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/i)
+[^c-516685d8d8a748158d2091eecaef592f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/i)
 
-[^key-3e2070d259c74a079b66046422f0be29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/6)
+[^c-3e2070d259c74a079b66046422f0be29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2013/10/regulation/8/6)
 
-[^key-db5127a03a6df750f8d7a54e983cb3e4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) omitted (6.4.2018) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/362)](https://www.legislation.gov.uk/uksi/2018/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/362/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/362/regulation/3)
+[^c-db5127a03a6df750f8d7a54e983cb3e4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2/1) omitted (6.4.2018) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/362)](https://www.legislation.gov.uk/uksi/2018/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/362/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/362/regulation/3)
 
-[^key-4dbe8537f19f1fd3dcb8fc955456db1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(j)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/j/i)
+[^c-4dbe8537f19f1fd3dcb8fc955456db1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(j)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/j/i)
 
-[^key-a33774c208f9bbee68078105b25331b0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(j)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/j/ii)
+[^c-a33774c208f9bbee68078105b25331b0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3118/regulation/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [3(j)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/3/j/ii)
 
-[^key-e3fc10d772b875338f344ed40cf72c20]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/1) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2013/181/regulation/10)
+[^c-e3fc10d772b875338f344ed40cf72c20]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/1) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2013/181/regulation/10)
 
-[^key-68277d2f9844e44cfd33bbbe2680cd7e]: Textual amendment: Words in [reg. 4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/4/b/i) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/3/a)
+[^c-68277d2f9844e44cfd33bbbe2680cd7e]: Textual amendment: Words in [reg. 4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/4/b/i) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/3/a)
 
-[^key-d4f24729c05b34b71f0e5dfa2ba386c9]: Textual amendment: Words in [reg. 4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/4/b/ii) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/3/b)
+[^c-d4f24729c05b34b71f0e5dfa2ba386c9]: Textual amendment: Words in [reg. 4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/4/b/ii) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/3/b)
 
-[^key-a37ef0f2215f69f378606a7feb00570f]: Textual amendment: Words in [reg. 4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/4/b/ii) omitted (6.4.2014) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/3/b)
+[^c-a37ef0f2215f69f378606a7feb00570f]: Textual amendment: Words in [reg. 4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/4/b/ii) omitted (6.4.2014) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/3/b)
 
-[^key-a12ae880ee816f55d401eb1e082328e0]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/5/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2016/284/regulation/4)
+[^c-a12ae880ee816f55d401eb1e082328e0]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/5/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2016/284/regulation/4)
 
-[^key-3b2c80bb851c942f3841fb4fc4c594e8]: Textual amendment: Words in [reg. 4(5)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/5/c) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2013/181/regulation/10)
+[^c-3b2c80bb851c942f3841fb4fc4c594e8]: Textual amendment: Words in [reg. 4(5)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/4/5/c) omitted (6.2.2013) by virtue of [The Building Regulations &c. (Amendment) Regulations 2013 (S.I. 2013/181)](https://www.legislation.gov.uk/uksi/2013/181), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/181/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2013/181/regulation/10)
 
 [^M_C_2c9be810-ab05-4d80-ed7d-cbdbd28e4976]: Modification: Reg. 7A by applied (with modifications) by [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), [reg. 20(1)(7)](https://www.legislation.gov.uk/uksi/2010/2215/regulation/20) (as amended (6.4.2016) by [The Building Regulations &c. (Amendment) Regulations 2016 (S.I. 2016/285)](https://www.legislation.gov.uk/uksi/2016/285), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/285/regulation/1/4), [3(3)(c)](https://www.legislation.gov.uk/uksi/2016/285/regulation/3/3/c))
 
-[^key-856f5fdb9d078e1e0b5b9e39795b9abb]: Modification: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A) applied (with modifications) by [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), [reg. 20(1)(7)](https://www.legislation.gov.uk/uksi/2010/2215/regulation/20) (as amended (W.) (17.6.2016) by [The Building Regulations &c. (Amendment) (Wales) Regulations 2016 (S.I. 2016/611)](https://www.legislation.gov.uk/wsi/2016/611), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4), [3](https://www.legislation.gov.uk/wsi/2016/611/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/3))) (as amended (W.) (25.4.2024) by [S.I. 2024/447](https://www.legislation.gov.uk/wsi/2024/447), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/447/regulation/1/1), [3(h)](https://www.legislation.gov.uk/wsi/2024/447/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/wsi/2024/447/regulation/6)))
+[^c-856f5fdb9d078e1e0b5b9e39795b9abb]: Modification: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A) applied (with modifications) by [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), [reg. 20(1)(7)](https://www.legislation.gov.uk/uksi/2010/2215/regulation/20) (as amended (W.) (17.6.2016) by [The Building Regulations &c. (Amendment) (Wales) Regulations 2016 (S.I. 2016/611)](https://www.legislation.gov.uk/wsi/2016/611), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4), [3](https://www.legislation.gov.uk/wsi/2016/611/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/3))) (as amended (W.) (25.4.2024) by [S.I. 2024/447](https://www.legislation.gov.uk/wsi/2024/447), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/447/regulation/1/1), [3(h)](https://www.legislation.gov.uk/wsi/2024/447/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/wsi/2024/447/regulation/6)))
 
-[^key-4d0a517860d0e11656d7132170bbb580]: Modification: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A) applied (with modifications) (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2024/110/regulation/5/12) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-4d0a517860d0e11656d7132170bbb580]: Modification: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A) applied (with modifications) (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2024/110/regulation/5/12) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-166a9057d8a58a13a95fbc0028630be7]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2016/284/regulation/5)
+[^c-166a9057d8a58a13a95fbc0028630be7]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2016/284/regulation/5)
 
-[^key-d92c25f81f962914dc1ee90217fe0da9]: Modification: [Reg. 7A(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A/3) applied (with modifications) (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [5(12)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/12)
+[^c-d92c25f81f962914dc1ee90217fe0da9]: Modification: [Reg. 7A(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/7A/3) applied (with modifications) (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [5(12)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/12)
 
-[^key-b0226bc07bbfbb709f65e3816ffa0ec6]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/a/i)
+[^c-b0226bc07bbfbb709f65e3816ffa0ec6]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/a/i)
 
-[^key-3c4f9f3d1e26ca1efa752ddbe166a349]: Textual amendment: [Reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/a/ii)
+[^c-3c4f9f3d1e26ca1efa752ddbe166a349]: Textual amendment: [Reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/a/ii)
 
-[^key-2bb838e217bdda9ac640a0e3c8258e0c]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/b) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/a/iii)
+[^c-2bb838e217bdda9ac640a0e3c8258e0c]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/b) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/a/iii)
 
 [^c21492061]: Marginal citation: “Recommendation report” is defined in regulation 4.
 
-[^key-7bef9aa5bb417719b19b82db579c0119]: Textual amendment: Word in [reg. 9(1)(e)(iv)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/e/iv) omitted (27.1.2013) by virtue of [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/2)
+[^c-7bef9aa5bb417719b19b82db579c0119]: Textual amendment: Word in [reg. 9(1)(e)(iv)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/e/iv) omitted (27.1.2013) by virtue of [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/2)
 
-[^key-6e777930a3fa932b865aa903058ec623]: Textual amendment: [Reg. 9(1)(ea)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/ea) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/3)
+[^c-6e777930a3fa932b865aa903058ec623]: Textual amendment: [Reg. 9(1)(ea)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/ea) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/3)
 
-[^key-e01731f780d77cae80ed9828e9967418]: Textual amendment: Words in [reg. 9(1)(f)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/f) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/4)
+[^c-e01731f780d77cae80ed9828e9967418]: Textual amendment: Words in [reg. 9(1)(f)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/1/f) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/4)
 
-[^key-3cc017275d12de59681c053b96aa55b7]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/2A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/5)
+[^c-3cc017275d12de59681c053b96aa55b7]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/2A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/5)
 
-[^key-bc92c61df6801c880701ee296e01db22]: Textual amendment: [Reg. 9(3A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/3A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/6)
+[^c-bc92c61df6801c880701ee296e01db22]: Textual amendment: [Reg. 9(3A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/3A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2013/10/regulation/9/6)
 
-[^key-92cfb609e3cb94aa1efaaadf1282c71a]: Textual amendment: Word in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/4/b) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2014/880/regulation/4)
+[^c-92cfb609e3cb94aa1efaaadf1282c71a]: Textual amendment: Word in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/4/b) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2014/880/regulation/4)
 
-[^key-56ec7cf96713a76307313b01621312f3]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/6) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/b)
+[^c-56ec7cf96713a76307313b01621312f3]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9/6) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/6/b)
 
-[^key-38b4e44f256a0a7c9b4bb4b47c6fbbdf]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/284/regulation/7)
+[^c-38b4e44f256a0a7c9b4bb4b47c6fbbdf]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/9A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/284/regulation/7)
 
-[^key-6ba523fe4ca5f3f1cc864c27076fe146]: Textual amendment: Words in [reg. 10(1)(c)(i)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/10/1/c/i) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/8/a)
+[^c-6ba523fe4ca5f3f1cc864c27076fe146]: Textual amendment: Words in [reg. 10(1)(c)(i)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/10/1/c/i) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/8/a)
 
-[^key-83971cc1fe3dba333c34392bcd0b75fb]: Textual amendment: Words in [reg. 10(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/10/1/c/ii) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/8/b)
+[^c-83971cc1fe3dba333c34392bcd0b75fb]: Textual amendment: Words in [reg. 10(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/10/1/c/ii) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/8/b)
 
 [^c21492071]: Marginal citation: [Regulation 29](https://www.legislation.gov.uk/uksi/2012/3118/regulation/29) of the Building Regulations 2010 is amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119).
 
-[^key-cd10e6c8bce90fef08055c7f1c59b896]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11) heading substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/9/1/a)
+[^c-cd10e6c8bce90fef08055c7f1c59b896]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11) heading substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/9/1/a)
 
-[^key-41a322569f0940d8f618e8ee4da6f8b3]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) inserted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/2/a)
+[^c-41a322569f0940d8f618e8ee4da6f8b3]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) inserted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/2/a)
 
-[^key-6ed452fc95f9238a0acb24820820e626]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/5/a)
+[^c-6ed452fc95f9238a0acb24820820e626]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) substituted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/5/a)
 
-[^key-d98e74f54618590f6025dedf90867182]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/9/1/b)
+[^c-d98e74f54618590f6025dedf90867182]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/9/1/b)
 
-[^key-f77589fe6827f7ed34fb4e4e2a9d770f]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) substituted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/2/b)
+[^c-f77589fe6827f7ed34fb4e4e2a9d770f]: Textual amendment: Word in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/2) substituted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/2/b)
 
-[^key-6b6c759ca4052aa1ca2b2108b560a1ac]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/3) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/5/b)
+[^c-6b6c759ca4052aa1ca2b2108b560a1ac]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/3) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/5/b)
 
-[^key-bfe869ad0c4d2b10866a42e9a56fb817]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/3) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/9/1/b)
+[^c-bfe869ad0c4d2b10866a42e9a56fb817]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/11/3) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/9/1/b)
 
-[^key-cda63c6a39047d5fcebfdacaf9dc1022]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/3118/regulation/13) substituted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/3)
+[^c-cda63c6a39047d5fcebfdacaf9dc1022]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/3118/regulation/13) substituted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/3)
 
-[^key-f0f3065cae10ddef300387987fd60ca4]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/14/2/b) deleted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2014/880/regulation/6)
+[^c-f0f3065cae10ddef300387987fd60ca4]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/14/2/b) deleted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2014/880/regulation/6)
 
-[^key-6d7b260134e05a3727b757291a4466a9]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1): reg 15 renumbered as 15(1) (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/a)
+[^c-6d7b260134e05a3727b757291a4466a9]: Textual amendment: [Reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1): reg 15 renumbered as 15(1) (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/a)
 
-[^key-5c9543d5aa61ad295397edf10712fdad]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/b)
+[^c-5c9543d5aa61ad295397edf10712fdad]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/b)
 
-[^key-bda4cd76514dc2444a9c02a6848c8ad7]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/c)
+[^c-bda4cd76514dc2444a9c02a6848c8ad7]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/c)
 
-[^key-7a49776218b148868aeb7ffe0658a794]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/d)
+[^c-7a49776218b148868aeb7ffe0658a794]: Textual amendment: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(d)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/d)
 
-[^key-ead71462a9383a5dc7afa1609a144c6e]: Textual amendment: Word in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1/b) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/e)
+[^c-ead71462a9383a5dc7afa1609a144c6e]: Textual amendment: Word in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1/b) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(e)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/e)
 
-[^key-50db6562cea774530c9035a3ee5b5fa9]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1/c) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(f)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/f)
+[^c-50db6562cea774530c9035a3ee5b5fa9]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/1/c) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(f)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/f)
 
-[^key-ff5275992dd39546e79c2b82824620fb]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(g)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/g)
+[^c-ff5275992dd39546e79c2b82824620fb]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [10(g)](https://www.legislation.gov.uk/uksi/2016/284/regulation/10/g)
 
-[^key-60abf3b854142fc77c38268f77d9caad]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2016/284/regulation/11)
+[^c-60abf3b854142fc77c38268f77d9caad]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/15A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2016/284/regulation/11)
 
-[^key-4e5bac5f9a2cef981ae41c9f5c6a72a2]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/18/1) substituted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/3/a)
+[^c-4e5bac5f9a2cef981ae41c9f5c6a72a2]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/18/1) substituted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/3/a)
 
-[^key-cc6ede2fd7af6c7eefe2a147a1c5963e]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/18/2) inserted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/3/b)
+[^c-cc6ede2fd7af6c7eefe2a147a1c5963e]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/18/2) inserted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/3/b)
 
-[^key-7e2ffb709bfbd3d8057cad877e201af5]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/12/a)
+[^c-7e2ffb709bfbd3d8057cad877e201af5]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/12/a)
 
-[^key-735254658a73133745b69283bbb245ca]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/1) inserted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/4/a)
+[^c-735254658a73133745b69283bbb245ca]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/1) inserted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/4/a)
 
-[^key-f38bc42e3f23286384c6235ce87e6486]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/2) substituted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/4/b)
+[^c-f38bc42e3f23286384c6235ce87e6486]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/2) substituted (6.4.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/609)](https://www.legislation.gov.uk/uksi/2015/609), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/609/regulation/2/4/b)
 
-[^key-4a2e5011cc3f85385b52f869fb19f457]: Textual amendment: [Reg. 19(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/2A) inserted (28.12.2020) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/1422)](https://www.legislation.gov.uk/uksi/2020/1422), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1422/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1422/regulation/3)
+[^c-4a2e5011cc3f85385b52f869fb19f457]: Textual amendment: [Reg. 19(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/2A) inserted (28.12.2020) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/1422)](https://www.legislation.gov.uk/uksi/2020/1422), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1422/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1422/regulation/3)
 
-[^key-e9a65512b2bd047a96272ac8c4076376]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/4) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/12/b)
+[^c-e9a65512b2bd047a96272ac8c4076376]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19/4) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/12/b)
 
-[^key-b65f1b2cf6ab96801ffad77e1f99366c]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2016/284/regulation/13)
+[^c-b65f1b2cf6ab96801ffad77e1f99366c]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19A) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2016/284/regulation/13)
 
-[^key-d5893473acfaf801281b9807646dfb9c]: Textual amendment: Word in [reg. 19A(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19A/3) inserted (28.12.2020) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/1422)](https://www.legislation.gov.uk/uksi/2020/1422), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1422/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1422/regulation/4)
+[^c-d5893473acfaf801281b9807646dfb9c]: Textual amendment: Word in [reg. 19A(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/19A/3) inserted (28.12.2020) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/1422)](https://www.legislation.gov.uk/uksi/2020/1422), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1422/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1422/regulation/4)
 
-[^key-eda0d1e0f4e31396f47f1f7ea44fe39b]: Textual amendment: [Reg. 22(3)(g)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/22/3/g) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2016/284/regulation/14)
+[^c-eda0d1e0f4e31396f47f1f7ea44fe39b]: Textual amendment: [Reg. 22(3)(g)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/22/3/g) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2016/284/regulation/14)
 
 [^c21492081]: Marginal citation: [1980 c.58](https://www.legislation.gov.uk/ukpga/1980/58).
 
-[^key-d77dff0a2415231aeec788a8d12a0037]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/a/i)
+[^c-d77dff0a2415231aeec788a8d12a0037]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/a/i)
 
-[^key-c3d0a6dc5344e2ccad493b6de6b78b45]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/1/b) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/a/ii)
+[^c-c3d0a6dc5344e2ccad493b6de6b78b45]: Textual amendment: Word in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/1/b) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/a/ii)
 
-[^key-82afb231b46df4a7909783e7a1a7e60f]: Textual amendment: [Reg. 27(1)(d)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/1/d) and word added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(a)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/a/iii)
+[^c-82afb231b46df4a7909783e7a1a7e60f]: Textual amendment: [Reg. 27(1)(d)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/1/d) and word added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(a)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/a/iii)
 
 [^c21492091]: Marginal citation: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
 
-[^key-43bbba9e0aeb5570d4d08c851a4f0fed]: Textual amendment: [Reg. 27(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/2A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/10/2)
+[^c-43bbba9e0aeb5570d4d08c851a4f0fed]: Textual amendment: [Reg. 27(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/2A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/10/2)
 
-[^key-ebcfea0efed9f3f13c388adc4621e851]: Textual amendment: Words in [reg. 27(4)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/4/b) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/10/3)
+[^c-ebcfea0efed9f3f13c388adc4621e851]: Textual amendment: Words in [reg. 27(4)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/4/b) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/10/3)
 
-[^key-c74648a986d9e1041cb4b9e7ac08e82e]: Textual amendment: [Reg. 27(4A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/4A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2013/10/regulation/10/4)
+[^c-c74648a986d9e1041cb4b9e7ac08e82e]: Textual amendment: [Reg. 27(4A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/4A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2013/10/regulation/10/4)
 
-[^key-95396fbd8aeef890d96e74e40a368350]: Textual amendment: [Reg. 27(4B)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/4B) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/b)
+[^c-95396fbd8aeef890d96e74e40a368350]: Textual amendment: [Reg. 27(4B)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/4B) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/b)
 
-[^key-b5d4771c2dcc7500bb8bb1a3c753e757]: Textual amendment: [Reg. 27(6)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/6)[(7)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/7) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/c)
+[^c-b5d4771c2dcc7500bb8bb1a3c753e757]: Textual amendment: [Reg. 27(6)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/6)[(7)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/27/7) added (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/15/c)
 
-[^key-ee6919baef9fbbf097e4301b73b91dcd]: Textual amendment: Sum in [Reg. 28(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/28/a) substituted (1.4.2022) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/413)](https://www.legislation.gov.uk/uksi/2022/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/413/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/413/regulation/2/2/a)
+[^c-ee6919baef9fbbf097e4301b73b91dcd]: Textual amendment: Sum in [Reg. 28(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/28/a) substituted (1.4.2022) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/413)](https://www.legislation.gov.uk/uksi/2022/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/413/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/413/regulation/2/2/a)
 
-[^key-d3f37a7ebf45e00ee82fee53225c54ca]: Textual amendment: Sum in [Reg. 28(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/28/b) substituted (1.4.2022) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/413)](https://www.legislation.gov.uk/uksi/2022/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/413/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/413/regulation/2/2/b)
+[^c-d3f37a7ebf45e00ee82fee53225c54ca]: Textual amendment: Sum in [Reg. 28(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/28/b) substituted (1.4.2022) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2022 (S.I. 2022/413)](https://www.legislation.gov.uk/uksi/2022/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/413/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/413/regulation/2/2/b)
 
-[^key-9964c73d3e72c38c82431fd77fb2901f]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/29/1) substituted (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/640/regulation/3)
+[^c-9964c73d3e72c38c82431fd77fb2901f]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/29/1) substituted (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/640/regulation/3)
 
-[^key-103f742e2c7b70eb5e744fb99fd27abf]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/29A) inserted (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/640/regulation/4)
+[^c-103f742e2c7b70eb5e744fb99fd27abf]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/29A) inserted (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/640/regulation/4)
 
-[^key-7e67b2a9ea25e26ad2718796983b6d95]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/11/2)
+[^c-7e67b2a9ea25e26ad2718796983b6d95]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/10/regulation/11/2)
 
-[^key-de1c75acea4a53071f38295e7549cf33]: Textual amendment: Word in [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/b) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/i)
+[^c-de1c75acea4a53071f38295e7549cf33]: Textual amendment: Word in [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/b) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/i)
 
-[^key-5d6ab273ab82a83f88225665b0417275]: Textual amendment: Words in [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/b) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/i)
+[^c-5d6ab273ab82a83f88225665b0417275]: Textual amendment: Words in [reg. 30(2)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/b) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/i)
 
-[^key-0354e97b8ec8521622a434785561df5d]: Textual amendment: [Reg. 30(2)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/c) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/ii)
+[^c-0354e97b8ec8521622a434785561df5d]: Textual amendment: [Reg. 30(2)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/c) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/ii)
 
-[^key-f43a784f9dcfbd0a490b0059683fb3f6]: Textual amendment: [Reg. 30(2)(d)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/d) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/iii)
+[^c-f43a784f9dcfbd0a490b0059683fb3f6]: Textual amendment: [Reg. 30(2)(d)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2/d) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(a)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/a/iii)
 
-[^key-c393fe320a43dbed775de9ddb9bdbb2d]: Textual amendment: [Reg. 30(2ZA)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2ZA) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/b)
+[^c-c393fe320a43dbed775de9ddb9bdbb2d]: Textual amendment: [Reg. 30(2ZA)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2ZA) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/b)
 
-[^key-8f223a0ef1e6a2d866c026daf9ebdb52]: Textual amendment: [Reg. 30(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/11/3)
+[^c-8f223a0ef1e6a2d866c026daf9ebdb52]: Textual amendment: [Reg. 30(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2A) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2013/10/regulation/11/3)
 
-[^key-6d766fe7cd159e97bcc78fbb7177077f]: Textual amendment: Words in [reg. 30(2A)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2A/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(c)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/c/i)
+[^c-6d766fe7cd159e97bcc78fbb7177077f]: Textual amendment: Words in [reg. 30(2A)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2A/a) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(c)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/c/i)
 
-[^key-4242f36331ec6af2a78f8f609fda3bbf]: Textual amendment: Words in [reg. 30(2A)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2A/b) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(c)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/c/ii)
+[^c-4242f36331ec6af2a78f8f609fda3bbf]: Textual amendment: Words in [reg. 30(2A)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/2A/b) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(c)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/c/ii)
 
-[^key-4d5b90536751f63f2632d59086e6ce54]: Textual amendment: Words in [reg. 30(3)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/3/a) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(d)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/d/i)
+[^c-4d5b90536751f63f2632d59086e6ce54]: Textual amendment: Words in [reg. 30(3)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/3/a) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(d)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/d/i)
 
-[^key-243a4f869d8d717427c7e7dcfe6823de]: Textual amendment: [Reg. 30(3)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/3/b) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(d)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/d/ii)
+[^c-243a4f869d8d717427c7e7dcfe6823de]: Textual amendment: [Reg. 30(3)(b)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30/3/b) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [17(d)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/17/d/ii)
 
-[^key-81898b0c030f262863aa69b10e051f05]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30A) inserted (1.6.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2016/284/regulation/18)
+[^c-81898b0c030f262863aa69b10e051f05]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30A) inserted (1.6.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2016/284/regulation/18)
 
-[^key-a544f26047ded3fa185631c47431201c]: Textual amendment: [Reg. 30A(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30A/1)[(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30A/2) substituted (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/640/regulation/5)
+[^c-a544f26047ded3fa185631c47431201c]: Textual amendment: [Reg. 30A(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30A/1)[(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/30A/2) substituted (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/640/regulation/5)
 
-[^key-f52914c134f6b9024c22b7fd7cffcb5e]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/3118/regulation/31) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/4), [20](https://www.legislation.gov.uk/uksi/2016/284/regulation/20)
+[^c-f52914c134f6b9024c22b7fd7cffcb5e]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/3118/regulation/31) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/4), [20](https://www.legislation.gov.uk/uksi/2016/284/regulation/20)
 
-[^key-1cf9fb95e59542b932e9f81fc9cffa5e]: Textual amendment: [Reg. 32(1)(aa)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/1/aa) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/19/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-1cf9fb95e59542b932e9f81fc9cffa5e]: Textual amendment: [Reg. 32(1)(aa)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/1/aa) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/19/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
 [^c21492111]: Marginal citation: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55). Section 91 was amended by Schedule 17 to the [Local Government Act 1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-2256b9e82e88f7de244132d92e9d8c62]: Textual amendment: Words in [reg. 32(1)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/1/c) substituted (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [39(1)](https://www.legislation.gov.uk/uksi/2024/110/regulation/39/1) (with [reg. 39(2)](https://www.legislation.gov.uk/uksi/2024/110/regulation/39/2)); and (W.) (25.4.2024) by [The Building Safety Act 2022 (Commencement No. 5 and Consequential Amendments) (Wales) Regulations 2024 (S.I. 2024/447)](https://www.legislation.gov.uk/wsi/2024/447), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/447/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2024/447/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/wsi/2024/447/regulation/6))
+[^c-2256b9e82e88f7de244132d92e9d8c62]: Textual amendment: Words in [reg. 32(1)(c)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/1/c) substituted (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [39(1)](https://www.legislation.gov.uk/uksi/2024/110/regulation/39/1) (with [reg. 39(2)](https://www.legislation.gov.uk/uksi/2024/110/regulation/39/2)); and (W.) (25.4.2024) by [The Building Safety Act 2022 (Commencement No. 5 and Consequential Amendments) (Wales) Regulations 2024 (S.I. 2024/447)](https://www.legislation.gov.uk/wsi/2024/447), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/447/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2024/447/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/wsi/2024/447/regulation/6))
 
-[^key-34f42b3ff459ddaea7256ac32fb5fd51]: Textual amendment: [Reg. 32(1)(e)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/1/e) and word inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/21/a)
+[^c-34f42b3ff459ddaea7256ac32fb5fd51]: Textual amendment: [Reg. 32(1)(e)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/1/e) and word inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2016/284/regulation/21/a)
 
-[^key-ad30691d06b6650b946f379753797252]: Textual amendment: Words in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2) substituted (6.4.2018) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/362)](https://www.legislation.gov.uk/uksi/2018/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/362/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2018/362/regulation/5/a)
+[^c-ad30691d06b6650b946f379753797252]: Textual amendment: Words in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2) substituted (6.4.2018) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/362)](https://www.legislation.gov.uk/uksi/2018/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/362/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2018/362/regulation/5/a)
 
-[^key-db46a5c816bbdaab2d96976fe82585e8]: Textual amendment: Words in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2) inserted (6.4.2018) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/362)](https://www.legislation.gov.uk/uksi/2018/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/362/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2018/362/regulation/5/b)
+[^c-db46a5c816bbdaab2d96976fe82585e8]: Textual amendment: Words in [reg. 32(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2) inserted (6.4.2018) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/362)](https://www.legislation.gov.uk/uksi/2018/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/362/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2018/362/regulation/5/b)
 
-[^key-dddd94c3bbf6ad848c62a1e76aab4ebc]: Textual amendment: [Reg. 32(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2A)[(2B)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2B) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/8/a)
+[^c-dddd94c3bbf6ad848c62a1e76aab4ebc]: Textual amendment: [Reg. 32(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2A)[(2B)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2B) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/8/a)
 
-[^key-21a1e70d78de91cd424fbe812f22bfb0]: Textual amendment: Words in [reg. 32(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2A) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/21/b)
+[^c-21a1e70d78de91cd424fbe812f22bfb0]: Textual amendment: Words in [reg. 32(2A)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/2A) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/21/b)
 
-[^key-9675cd84ebf6ab430868f3bf9a26061b]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/3)[(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/4) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2013/10/regulation/13)
+[^c-9675cd84ebf6ab430868f3bf9a26061b]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/3)[(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/4) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2013/10/regulation/13)
 
-[^key-1b8e10ccc12b3119d490f467b4c0fd5e]: Textual amendment: [Reg. 32(5)-(8)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/5) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/8/b)
+[^c-1b8e10ccc12b3119d490f467b4c0fd5e]: Textual amendment: [Reg. 32(5)-(8)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/5) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/8/b)
 
-[^key-fa22b272561306bfde6a51c17b41f740]: Textual amendment: [Reg. 32(7A)-(7C)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/7A) inserted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/5/a)
+[^c-fa22b272561306bfde6a51c17b41f740]: Textual amendment: [Reg. 32(7A)-(7C)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/7A) inserted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/5/a)
 
-[^key-bfa0cece4d36d5eae6864fa033d14ebe]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/8) inserted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/5/b)
+[^c-bfa0cece4d36d5eae6864fa033d14ebe]: Textual amendment: Words in [reg. 32(8)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/8) inserted (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/888)](https://www.legislation.gov.uk/uksi/2016/888), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/888/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2016/888/regulation/2/5/b)
 
-[^key-df21b62f9907b36da20f83e0ec563232]: Textual amendment: [Reg. 32(8)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/8/a) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/21/c)
+[^c-df21b62f9907b36da20f83e0ec563232]: Textual amendment: [Reg. 32(8)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/32/8/a) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2016/284/regulation/21/c)
 
-[^key-a1679e3b0ebaaf6961d5010f9c18c039]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/3118/regulation/33) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2016/284/regulation/22)
+[^c-a1679e3b0ebaaf6961d5010f9c18c039]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/3118/regulation/33) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2016/284/regulation/22)
 
-[^key-c60f07b96c6f6c9b693ba8602d086769]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [23(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/23/a/i)
+[^c-c60f07b96c6f6c9b693ba8602d086769]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [23(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/23/a/i)
 
-[^key-27906f35904c643e947c269a3b277a1d]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/2) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2014/880/regulation/9)
+[^c-27906f35904c643e947c269a3b277a1d]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/2) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2014/880/regulation/9)
 
-[^key-bb8a38c44ce9ab73e40600483311e3a9]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/2) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/23/a/ii)
+[^c-bb8a38c44ce9ab73e40600483311e3a9]: Textual amendment: Words in [reg. 34(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/2) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/23/a/ii)
 
-[^key-27c6403c6fced46ca8f2e103939d567c]: Textual amendment: [Reg. 34(3)-(5)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/3) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/23/b)
+[^c-27c6403c6fced46ca8f2e103939d567c]: Textual amendment: [Reg. 34(3)-(5)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34/3) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/23/b)
 
-[^key-594fa485dbc408c5b9007f4817a7be51]: Textual amendment: [Regs. 34A-34C](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A) inserted (9.11.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1681)](https://www.legislation.gov.uk/uksi/2015/1681), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1681/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1681/regulation/2/3)
+[^c-594fa485dbc408c5b9007f4817a7be51]: Textual amendment: [Regs. 34A-34C](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A) inserted (9.11.2015) by [The Energy Performance of Buildings (England and Wales) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1681)](https://www.legislation.gov.uk/uksi/2015/1681), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1681/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1681/regulation/2/3)
 
-[^key-496ba43b29ce2ee7324e1a0cb75fa006]: Textual amendment: Words in [reg. 34A(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/a/i)
+[^c-496ba43b29ce2ee7324e1a0cb75fa006]: Textual amendment: Words in [reg. 34A(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/a/i)
 
-[^key-52d55154f0238db2b8a1ef3faf20156b]: Textual amendment: Words in [reg. 34A(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/1) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/a/ii)
+[^c-52d55154f0238db2b8a1ef3faf20156b]: Textual amendment: Words in [reg. 34A(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/1) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/a/ii)
 
-[^key-5e672e193318fef059790fb043c6ad26]: Textual amendment: Words in [reg. 34A(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(b)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/b/i)
+[^c-5e672e193318fef059790fb043c6ad26]: Textual amendment: Words in [reg. 34A(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/2) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(b)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/b/i)
 
-[^key-20bb335133ea9c136a06b813c21d5772]: Textual amendment: Words in [reg. 34A(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/2) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(b)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/b/ii)
+[^c-20bb335133ea9c136a06b813c21d5772]: Textual amendment: Words in [reg. 34A(2)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/2) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(b)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/b/ii)
 
-[^key-e06b172a465996a34d6aecac4a48f07f]: Textual amendment: Words in [reg. 34A(3)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/3/a) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(c)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/c/i)
+[^c-e06b172a465996a34d6aecac4a48f07f]: Textual amendment: Words in [reg. 34A(3)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/3/a) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(c)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/c/i)
 
-[^key-0dbbee5b8d5ddd18303ac7bad92e21d1]: Textual amendment: Words in [reg. 34A(3)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/3/a) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(c)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/c/ii)
+[^c-0dbbee5b8d5ddd18303ac7bad92e21d1]: Textual amendment: Words in [reg. 34A(3)(a)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/3/a) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(c)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/c/ii)
 
-[^key-188866673b5a6f30cf8c1245b499e37e]: Textual amendment: [Reg. 34A(8)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/8) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(c)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/c/iii)
+[^c-188866673b5a6f30cf8c1245b499e37e]: Textual amendment: [Reg. 34A(8)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/34A/8) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [24(c)(iii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/24/c/iii)
 
-[^key-5afb250d19659d9702b259717b4410f6]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/35/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [25(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/25/a/i)
+[^c-5afb250d19659d9702b259717b4410f6]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/35/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [25(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/25/a/i)
 
-[^key-8b7094c2d7c72bd3d1772188e633a85b]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/35/1) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/25/a/ii)
+[^c-8b7094c2d7c72bd3d1772188e633a85b]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/35/1) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/25/a/ii)
 
-[^key-294c273203c2d4b8111c3f76183763af]: Textual amendment: [Reg. 35(7)-(9)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/35/7) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/25/b)
+[^c-294c273203c2d4b8111c3f76183763af]: Textual amendment: [Reg. 35(7)-(9)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/35/7) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/25/b)
 
-[^key-3b62d76330f56b571605fafa0d614b80]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/26/a/i)
+[^c-3b62d76330f56b571605fafa0d614b80]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/1) inserted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/26/a/i)
 
-[^key-42e047e6864c18fe67850b36132b7989]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/1) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/11/a)
+[^c-42e047e6864c18fe67850b36132b7989]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/1) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/11/a)
 
-[^key-f14beff5e7ab5393e8d60a19bb241326]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/1) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/26/a/ii)
+[^c-f14beff5e7ab5393e8d60a19bb241326]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/1) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/26/a/ii)
 
-[^key-ae1f445a33f3dcb72ee638e1e80a745f]: Textual amendment: [Reg. 36(8)-(10)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/8) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/26/b)
+[^c-ae1f445a33f3dcb72ee638e1e80a745f]: Textual amendment: [Reg. 36(8)-(10)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/36/8) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2016/284/regulation/26/b)
 
-[^key-f91228089d72862a3d5f770aad546aa3]: Textual amendment: Words in reg. 38(1) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [27(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/27/a/i)
+[^c-f91228089d72862a3d5f770aad546aa3]: Textual amendment: Words in reg. 38(1) substituted (6.4.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [27(a)(i)](https://www.legislation.gov.uk/uksi/2016/284/regulation/27/a/i)
 
-[^key-0e5e284ca46d05e2b1c2e023d07cb388]: Textual amendment: Words in reg. 38(1)(c) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/12/a)
+[^c-0e5e284ca46d05e2b1c2e023d07cb388]: Textual amendment: Words in reg. 38(1)(c) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2014/880/regulation/12/a)
 
-[^key-5f163ea4dc63be8511679e726b63f534]: Textual amendment: Words in reg. 38(1)(e) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/12/b)
+[^c-5f163ea4dc63be8511679e726b63f534]: Textual amendment: Words in reg. 38(1)(e) inserted (6.4.2014) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/880)](https://www.legislation.gov.uk/uksi/2014/880), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/880/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2014/880/regulation/12/b)
 
-[^key-9c9e3d39f682930973fe02d18a216831]: Textual amendment: Reg. 38(4) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/27/a/ii)
+[^c-9c9e3d39f682930973fe02d18a216831]: Textual amendment: Reg. 38(4) omitted (6.4.2016) by virtue of [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [27(a)(ii)](https://www.legislation.gov.uk/uksi/2016/284/regulation/27/a/ii)
 
 [^c21492161]: Marginal citation: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41). Section 42 was amended by Schedule 5 to the [Local Government and Housing Act 1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-70b87a2515a797b6954a24ccf52b9ff8]: Textual amendment: Words in reg. 38(5) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [16](https://www.legislation.gov.uk/wsi/2024/998/regulation/16)
+[^c-70b87a2515a797b6954a24ccf52b9ff8]: Textual amendment: Words in reg. 38(5) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [16](https://www.legislation.gov.uk/wsi/2024/998/regulation/16)
 
-[^key-fd3594f49c3b57d2ad79f3dd9dad50b5]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2012/3118/schedule/A1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2013/10/regulation/14), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/10/schedule/2)
+[^c-fd3594f49c3b57d2ad79f3dd9dad50b5]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2012/3118/schedule/A1) inserted (27.1.2013) by [The Energy Performance of Buildings (England and Wales) etc. (Amendment) Regulations 2013 (S.I. 2013/10)](https://www.legislation.gov.uk/uksi/2013/10), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/10/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2013/10/regulation/14), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/10/schedule/2)
 
-[^key-caa7205e81838cc8ded6f2d6a3418533]: Textual amendment: [Sch. B1](https://www.legislation.gov.uk/uksi/2012/3118/schedule/B1) revoked (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/640/regulation/6)
+[^c-caa7205e81838cc8ded6f2d6a3418533]: Textual amendment: [Sch. B1](https://www.legislation.gov.uk/uksi/2012/3118/schedule/B1) revoked (24.6.2024) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/640)](https://www.legislation.gov.uk/uksi/2024/640), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/640/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/640/regulation/6)
 
-[^key-c67f5a4a9bb05780b7c296df4a7a44de]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3118/schedule/1) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/4), [20](https://www.legislation.gov.uk/uksi/2016/284/regulation/20)
+[^c-c67f5a4a9bb05780b7c296df4a7a44de]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3118/schedule/1) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/4), [20](https://www.legislation.gov.uk/uksi/2016/284/regulation/20)
 
-[^key-b6f5bab458b6bf332214379dfbbbdceb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3118/schedule/2) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2016/284/regulation/22)
+[^c-b6f5bab458b6bf332214379dfbbbdceb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3118/schedule/2) revoked (1.10.2016) by [The Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/284)](https://www.legislation.gov.uk/uksi/2016/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/284/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2016/284/regulation/22)

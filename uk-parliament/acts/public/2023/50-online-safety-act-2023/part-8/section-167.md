@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Appeals against OFCOM decisions relating to the register under section 95[^key-b16b4a86aff87dc6454fd05eea18b356][^key-33b605601fe4fb64aa27d84691fa2629]
+## 167. Appeals against OFCOM decisions relating to the register under section 95[^c-b16b4a86aff87dc6454fd05eea18b356][^c-33b605601fe4fb64aa27d84691fa2629]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b16b4a86aff87dc6454fd05eea18b356]: Commencement: S. 167 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b16b4a86aff87dc6454fd05eea18b356]: Commencement: S. 167 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-33b605601fe4fb64aa27d84691fa2629]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2023/50/section/167) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z20)
+[^c-33b605601fe4fb64aa27d84691fa2629]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2023/50/section/167) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z20)

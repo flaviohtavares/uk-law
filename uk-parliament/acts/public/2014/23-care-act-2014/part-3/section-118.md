@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Transfer orders[^key-2a81c47b572b18bdc8d6638488edcb38]
+## 118. Transfer orders[^c-2a81c47b572b18bdc8d6638488edcb38]
 
 *Extent: E+W+S+N.I.*
 
-(1) An order under [^key-74c7b3884ec4d862f1d1d9c4311803b7]... section 109 (establishment of the Health Research Authority) (a “transfer order”) may make provision for rights and liabilities relating to an individual's contract of employment.
+(1) An order under [^c-74c7b3884ec4d862f1d1d9c4311803b7]... section 109 (establishment of the Health Research Authority) (a “transfer order”) may make provision for rights and liabilities relating to an individual's contract of employment.
 
 (2) A transfer order may, in particular, make provision the same as or similar to provision in the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a81c47b572b18bdc8d6638488edcb38]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2014/23/section/118) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2014/2473/article/4/2/b)
+[^c-2a81c47b572b18bdc8d6638488edcb38]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2014/23/section/118) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2014/2473/article/4/2/b)
 
-[^key-74c7b3884ec4d862f1d1d9c4311803b7]: Textual amendment: Words in [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/118/1) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(12)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/12) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-74c7b3884ec4d862f1d1d9c4311803b7]: Textual amendment: Words in [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/118/1) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(12)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/12) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

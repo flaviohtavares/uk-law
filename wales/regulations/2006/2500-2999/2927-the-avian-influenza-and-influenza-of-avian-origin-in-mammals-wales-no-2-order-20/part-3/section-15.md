@@ -26,7 +26,7 @@ summary: ''
 - (b) other captive birds;
 - (c) eggs;
 - (d) vehicles used to transport poultry, other captive birds, eggs or anything else likely to transmit avian influenza;
-- (e) kept[^key-fc80355226ade42602df24472931f0f3] mammals.
+- (e) kept[^c-fc80355226ade42602df24472931f0f3] mammals.
 
 (2) If the National Assembly bans or restricts the movement of mammals within a temporary movement restriction zone, it must lift the ban or restriction within 72 hours of it being imposed unless (notwithstanding any continuing restrictions on the movement of other things listed in paragraph (1)) it is satisfied that its continuation is necessary to minimise the risk of the spread of avian influenza.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc80355226ade42602df24472931f0f3]: Textual amendment: Word in [art. 15(1)(e)](https://www.legislation.gov.uk/wsi/2006/2927/article/15/1/e) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [13](https://www.legislation.gov.uk/wsi/2025/1357/article/13)
+[^c-fc80355226ade42602df24472931f0f3]: Textual amendment: Word in [art. 15(1)(e)](https://www.legislation.gov.uk/wsi/2006/2927/article/15/1/e) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [13](https://www.legislation.gov.uk/wsi/2025/1357/article/13)

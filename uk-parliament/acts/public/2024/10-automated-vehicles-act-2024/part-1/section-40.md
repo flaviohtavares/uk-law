@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power to require reports from police and local authorities[^key-2798dfad3456b98052f0f3be7eeb3997]
+## 40. Power to require reports from police and local authorities[^c-2798dfad3456b98052f0f3be7eeb3997]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2798dfad3456b98052f0f3be7eeb3997]: Commencement: S. 40 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-2798dfad3456b98052f0f3be7eeb3997]: Commencement: S. 40 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

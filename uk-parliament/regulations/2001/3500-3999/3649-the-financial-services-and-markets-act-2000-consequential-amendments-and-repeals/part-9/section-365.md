@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 365. Revocation of the 1968 Regulations[^key-e6ade33576b7dc7d4e7505e2ae5088f9]
+## 365. Revocation of the 1968 Regulations[^c-e6ade33576b7dc7d4e7505e2ae5088f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Superannuation and Other Trust Funds (Qualifications of Actuaries) Regulatio
 
 ## Annotations
 
-[^key-e6ade33576b7dc7d4e7505e2ae5088f9]: Commencement: Art. 365 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e6ade33576b7dc7d4e7505e2ae5088f9]: Commencement: Art. 365 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

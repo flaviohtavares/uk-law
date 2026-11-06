@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Feeding Stuffs (Amendment) (No. 2) Regulations (Northern Ireland) 1998 (revoked)[^key-9a373a55f7cdbfe3cb41b3cadbc436df]
+Feeding Stuffs (Amendment) (No. 2) Regulations (Northern Ireland) 1998 (revoked)[^c-9a373a55f7cdbfe3cb41b3cadbc436df]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st December 1998
 
-[^key-9a373a55f7cdbfe3cb41b3cadbc436df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a373a55f7cdbfe3cb41b3cadbc436df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9a373a55f7cdbfe3cb41b3cadbc436df]
+## 1. Citation, commencement and interpretation[^c-9a373a55f7cdbfe3cb41b3cadbc436df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^key-9a373a55f7cdbfe3cb41b3cadbc436df]
+## 2. Amendment of the Feeding Stuffs Regulations (Northern Ireland) 1995[^c-9a373a55f7cdbfe3cb41b3cadbc436df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9a373a55f7cdbfe3cb41b3cadbc436df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9a373a55f7cdbfe3cb41b3cadbc436df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9a373a55f7cdbfe3cb41b3cadbc436df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9a373a55f7cdbfe3cb41b3cadbc436df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a373a55f7cdbfe3cb41b3cadbc436df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a373a55f7cdbfe3cb41b3cadbc436df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9a373a55f7cdbfe3cb41b3cadbc436df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a373a55f7cdbfe3cb41b3cadbc436df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a373a55f7cdbfe3cb41b3cadbc436df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/373) revoked (2.4.2001) by [Feeding Stuffs Regulations (Northern Ireland) 2001 (S.R. 2001/47)](https://www.legislation.gov.uk/nisr/2001/47), [regs. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1), [24](https://www.legislation.gov.uk/nisr/2001/47/regulation/24)
+[^c-9a373a55f7cdbfe3cb41b3cadbc436df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/373) revoked (2.4.2001) by [Feeding Stuffs Regulations (Northern Ireland) 2001 (S.R. 2001/47)](https://www.legislation.gov.uk/nisr/2001/47), [regs. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1), [24](https://www.legislation.gov.uk/nisr/2001/47/regulation/24)

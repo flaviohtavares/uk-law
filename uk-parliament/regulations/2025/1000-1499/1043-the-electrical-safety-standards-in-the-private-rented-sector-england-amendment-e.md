@@ -42,7 +42,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 214(2) of the Housing and Planning Act 2016, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-88c6e176a98a3fcb71fe08dac5635637]
+## 1. Citation, commencement and extent[^c-88c6e176a98a3fcb71fe08dac5635637]
 
 (1) These Regulations may be cited as the Electrical Safety Standards in the Private Rented Sector (England) (Amendment) (Extension to the Social Rented Sector) Regulations 2025.
 
@@ -56,11 +56,11 @@ In accordance with section 214(2) of the Housing and Planning Act 2016, a draft 
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendment of the Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020[^key-3fb1022467bf564d6096fb62bfad9e7c]
+## 2. Amendment of the Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020[^c-3fb1022467bf564d6096fb62bfad9e7c]
 
 The Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020[^f00003] are amended in accordance with regulations 3 to 13.
 
-## 3. Extension to registered providers of social housing[^key-be56db74544c20f69eb2809f2c2f50ed][^key-ecfa5c9c8163fc88826bd3b711264c6f]
+## 3. Extension to registered providers of social housing[^c-be56db74544c20f69eb2809f2c2f50ed][^c-ecfa5c9c8163fc88826bd3b711264c6f]
 
 (1) In the title, after “Private Rented Sector” insert “and Social Rented Sector”.
 
@@ -78,7 +78,7 @@ The Electrical Safety Standards in the Private Rented Sector (England) Regulatio
 - (a) for each reference to “private landlord” substitute “landlord”;
 - (b) for each reference to “private landlords” substitute “landlords”.
 
-## 4. Amendment of regulation 2[^key-e6101f16cfc730dbf2eaeadf8aff6e39][^key-514145c579ed0c2baf7b236597a57ad4]
+## 4. Amendment of regulation 2[^c-e6101f16cfc730dbf2eaeadf8aff6e39][^c-514145c579ed0c2baf7b236597a57ad4]
 
 In regulation 2 (interpretation)—
 
@@ -104,7 +104,7 @@ In regulation 2 (interpretation)—
 
   .
 
-## 5. Amendment of Part 2[^key-df8f0b68542b5b4dfb86e430848d8212][^key-fe57c0ac58d80978fd3f96d9f57087b1]
+## 5. Amendment of Part 2[^c-df8f0b68542b5b4dfb86e430848d8212][^c-fe57c0ac58d80978fd3f96d9f57087b1]
 
 (1) For the heading to Part 2 substitute—
 
@@ -172,7 +172,7 @@ In regulation 2 (interpretation)—
 
   .
 
-## 6. Duties of registered providers in relation to electrical equipment[^key-c8ea0df2cebb08e0dc4660ce6d3c6500][^key-a3054293227cc833e4292b9439617a92]
+## 6. Duties of registered providers in relation to electrical equipment[^c-c8ea0df2cebb08e0dc4660ce6d3c6500][^c-a3054293227cc833e4292b9439617a92]
 
 After regulation 3 (duties of landlords in relation to electrical installations) insert—
 
@@ -264,7 +264,7 @@ After regulation 3 (duties of landlords in relation to electrical installations)
 
 .
 
-## 7. Insertion of transitional provision—certain tenancies granted before 1st December 2025[^key-787ce57ae9084ecf2ea44a8fb493f2a7]
+## 7. Insertion of transitional provision—certain tenancies granted before 1st December 2025[^c-787ce57ae9084ecf2ea44a8fb493f2a7]
 
 After the provision inserted by regulation 6 of these Regulations insert—
 
@@ -285,7 +285,7 @@ After the provision inserted by regulation 6 of these Regulations insert—
 
 .
 
-## 8. Amendment of regulation 4[^key-26ce8d0880b072c652daa790452d21c1][^key-330749fd69819178c8191cabbf56c29c]
+## 8. Amendment of regulation 4[^c-26ce8d0880b072c652daa790452d21c1][^c-330749fd69819178c8191cabbf56c29c]
 
 For regulation 4(1) (service of remedial notices) substitute—
 
@@ -296,7 +296,7 @@ For regulation 4(1) (service of remedial notices) substitute—
 
 .
 
-## 9. Amendment of regulation 5[^key-a9ff40dc1ee1ce77d522bf6e427e1ff5][^key-e75df50bf49a460f2a116fc8d082bf23]
+## 9. Amendment of regulation 5[^c-a9ff40dc1ee1ce77d522bf6e427e1ff5][^c-e75df50bf49a460f2a116fc8d082bf23]
 
 In regulation 5 (duty of landlord to comply with a remedial notice), for paragraphs (2) and (3) substitute—
 
@@ -304,14 +304,14 @@ In regulation 5 (duty of landlord to comply with a remedial notice), for paragra
 
 .
 
-## 10. Amendment of regulation 11[^key-422c32e16436fc0316c4c189b4c5edf7][^key-0b45b3edabaa4a8d09fa8589d95e6f9f]
+## 10. Amendment of regulation 11[^c-422c32e16436fc0316c4c189b4c5edf7][^c-0b45b3edabaa4a8d09fa8589d95e6f9f]
 
 In regulation 11 (financial penalties for breach of duties)—
 
 - (a) in paragraph (1), after “regulation 3” insert “, 3B, 3C or 3D”;
 - (b) in paragraph (2)(b), for “£30,000” substitute “£40,000”.
 
-## 11. Insertion of review provision[^key-df322764b3e4e4da437143fc51609e5c]
+## 11. Insertion of review provision[^c-df322764b3e4e4da437143fc51609e5c]
 
 After regulation 12 insert—
 
@@ -339,7 +339,7 @@ After regulation 12 insert—
 
 .
 
-## 12. Amendment of Schedule 1[^key-37fe414512e67dfceb3d3abb8f63edb9]
+## 12. Amendment of Schedule 1[^c-37fe414512e67dfceb3d3abb8f63edb9]
 
 In Schedule 1 (excluded tenancies)—
 
@@ -352,7 +352,7 @@ In Schedule 1 (excluded tenancies)—
 
   .
 
-## 13. Amendment of Schedule 2[^key-1dbb0950462d5322cacb12df415503bf][^key-2bf477bb9f8f3e25e6a2661c38da7248]
+## 13. Amendment of Schedule 2[^c-1dbb0950462d5322cacb12df415503bf][^c-2bf477bb9f8f3e25e6a2661c38da7248]
 
 In Schedule 2 (procedure for and appeals against financial penalties)—
 
@@ -400,54 +400,54 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2016 c. 22](https://www.legislation.gov.uk/ukpga/2016/22). Section 122 was amended by section 11 of the Social Housing (Regulation) Act [2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36).
 
-[^key-88c6e176a98a3fcb71fe08dac5635637]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
+[^c-88c6e176a98a3fcb71fe08dac5635637]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
 
 [^f00002]: Footnote: See section 80(2)(a) of the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17) for the definition of “registered providers of social housing”.
 
-[^key-3fb1022467bf564d6096fb62bfad9e7c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1043/regulation/2) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
+[^c-3fb1022467bf564d6096fb62bfad9e7c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1043/regulation/2) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
 
 [^f00003]: Footnote: [S.I. 2020/312](https://www.legislation.gov.uk/uksi/2020/312).
 
-[^key-be56db74544c20f69eb2809f2c2f50ed]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1043/regulation/3) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-be56db74544c20f69eb2809f2c2f50ed]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1043/regulation/3) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-ecfa5c9c8163fc88826bd3b711264c6f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1043/regulation/3) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-ecfa5c9c8163fc88826bd3b711264c6f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1043/regulation/3) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
-[^key-e6101f16cfc730dbf2eaeadf8aff6e39]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1043/regulation/4) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-e6101f16cfc730dbf2eaeadf8aff6e39]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1043/regulation/4) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-514145c579ed0c2baf7b236597a57ad4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1043/regulation/4) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-514145c579ed0c2baf7b236597a57ad4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1043/regulation/4) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
-[^key-df8f0b68542b5b4dfb86e430848d8212]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1043/regulation/5) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-df8f0b68542b5b4dfb86e430848d8212]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1043/regulation/5) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-fe57c0ac58d80978fd3f96d9f57087b1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1043/regulation/5) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-fe57c0ac58d80978fd3f96d9f57087b1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1043/regulation/5) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
-[^key-c8ea0df2cebb08e0dc4660ce6d3c6500]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1043/regulation/6) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-c8ea0df2cebb08e0dc4660ce6d3c6500]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1043/regulation/6) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-a3054293227cc833e4292b9439617a92]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1043/regulation/6) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-a3054293227cc833e4292b9439617a92]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1043/regulation/6) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
 [^f00004]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
 
 [^f00005]: Footnote: See section 123(6) of the Housing and Planning Act 2016 for the definition of “local authority authority”.
 
-[^key-787ce57ae9084ecf2ea44a8fb493f2a7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1043/regulation/7) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/c)
+[^c-787ce57ae9084ecf2ea44a8fb493f2a7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1043/regulation/7) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/c)
 
-[^key-26ce8d0880b072c652daa790452d21c1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1043/regulation/8) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-26ce8d0880b072c652daa790452d21c1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1043/regulation/8) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-330749fd69819178c8191cabbf56c29c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1043/regulation/8) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-330749fd69819178c8191cabbf56c29c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1043/regulation/8) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
-[^key-a9ff40dc1ee1ce77d522bf6e427e1ff5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1043/regulation/9) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-a9ff40dc1ee1ce77d522bf6e427e1ff5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1043/regulation/9) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-e75df50bf49a460f2a116fc8d082bf23]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1043/regulation/9) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-e75df50bf49a460f2a116fc8d082bf23]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1043/regulation/9) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
-[^key-422c32e16436fc0316c4c189b4c5edf7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1043/regulation/10) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-422c32e16436fc0316c4c189b4c5edf7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1043/regulation/10) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-0b45b3edabaa4a8d09fa8589d95e6f9f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1043/regulation/10) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-0b45b3edabaa4a8d09fa8589d95e6f9f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1043/regulation/10) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
 
-[^key-df322764b3e4e4da437143fc51609e5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1043/regulation/11) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
+[^c-df322764b3e4e4da437143fc51609e5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1043/regulation/11) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
 
 [^f00006]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-37fe414512e67dfceb3d3abb8f63edb9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1043/regulation/12) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
+[^c-37fe414512e67dfceb3d3abb8f63edb9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1043/regulation/12) in force at 1.11.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/a)
 
-[^key-1dbb0950462d5322cacb12df415503bf]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1043/regulation/13) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
+[^c-1dbb0950462d5322cacb12df415503bf]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1043/regulation/13) in force at 1.11.2025 for all purposes except in relation to tenancies granted before 1st December 2025 under which the landlord is a registered provider of social housing, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/ii)
 
-[^key-2bf477bb9f8f3e25e6a2661c38da7248]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1043/regulation/13) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)
+[^c-2bf477bb9f8f3e25e6a2661c38da7248]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1043/regulation/13) in force at 1.5.2026 in so far as not already in force, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1043/regulation/1/2/b/i)

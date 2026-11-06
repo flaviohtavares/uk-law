@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Forfeiture: offences committed by a member’s beneficiary[^key-1ea414874b9ea296c6d96fc145d5d7ab]
+## 166. Forfeiture: offences committed by a member’s beneficiary[^c-1ea414874b9ea296c6d96fc145d5d7ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea414874b9ea296c6d96fc145d5d7ab]: Commencement: [Reg. 166](https://www.legislation.gov.uk/uksi/2014/1964/regulation/166) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1ea414874b9ea296c6d96fc145d5d7ab]: Commencement: [Reg. 166](https://www.legislation.gov.uk/uksi/2014/1964/regulation/166) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

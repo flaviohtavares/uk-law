@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Composition of crew of aircraft[^key-71a9f6c799e853c9222cce469f77770f]
+## 40. Composition of crew of aircraft[^c-71a9f6c799e853c9222cce469f77770f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71a9f6c799e853c9222cce469f77770f]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2013/2870/article/40) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-71a9f6c799e853c9222cce469f77770f]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2013/2870/article/40) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

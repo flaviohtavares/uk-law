@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Primary Medical Services) (Miscellaneous Amendments) Regulations 2010 (revoked)[^key-bebe7213d30b2e2c51567f52174ab744]
+The National Health Service (Primary Medical Services) (Miscellaneous Amendments) Regulations 2010 (revoked)[^c-bebe7213d30b2e2c51567f52174ab744]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 1st April 2010
 
-[^key-bebe7213d30b2e2c51567f52174ab744]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bebe7213d30b2e2c51567f52174ab744]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-bebe7213d30b2e2c51567f52174ab744]
+## PART 1 — GENERAL[^c-bebe7213d30b2e2c51567f52174ab744]
 
-### 1. Citation, commencement, application and interpretation[^key-bebe7213d30b2e2c51567f52174ab744]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — AMENDMENT OF THE GMS CONTRACTS REGULATIONS[^key-bebe7213d30b2e2c51567f52174ab744]
-
-### 2. Amendment of regulation 2[^key-bebe7213d30b2e2c51567f52174ab744]
+### 1. Citation, commencement, application and interpretation[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 4[^key-bebe7213d30b2e2c51567f52174ab744]
+## PART 2 — AMENDMENT OF THE GMS CONTRACTS REGULATIONS[^c-bebe7213d30b2e2c51567f52174ab744]
+
+### 2. Amendment of regulation 2[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of regulation 5[^key-bebe7213d30b2e2c51567f52174ab744]
+### 3. Amendment of regulation 4[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 21[^key-bebe7213d30b2e2c51567f52174ab744]
+### 4. Amendment of regulation 5[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of Schedule 6[^key-bebe7213d30b2e2c51567f52174ab744]
+### 5. Amendment of regulation 21[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — AMENDMENT OF THE PMS AGREEMENTS REGULATIONS[^key-bebe7213d30b2e2c51567f52174ab744]
-
-### 7. Amendment of regulation 2[^key-bebe7213d30b2e2c51567f52174ab744]
+### 6. Amendment of Schedule 6[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of regulation 5[^key-bebe7213d30b2e2c51567f52174ab744]
+## PART 3 — AMENDMENT OF THE PMS AGREEMENTS REGULATIONS[^c-bebe7213d30b2e2c51567f52174ab744]
+
+### 7. Amendment of regulation 2[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 12[^key-bebe7213d30b2e2c51567f52174ab744]
+### 8. Amendment of regulation 5[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of Schedule 5[^key-bebe7213d30b2e2c51567f52174ab744]
+### 9. Amendment of regulation 12[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — AMENDMENT OF THE NATIONAL HEALTH SERVICE (PERFORMERS LISTS) REGULATIONS 2004[^key-bebe7213d30b2e2c51567f52174ab744]
-
-### 11. Amendment of regulation 23 of the National Health Service (Performers Lists) Regulations 2004[^key-bebe7213d30b2e2c51567f52174ab744]
+### 10. Amendment of Schedule 5[^c-bebe7213d30b2e2c51567f52174ab744]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bebe7213d30b2e2c51567f52174ab744]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — AMENDMENT OF THE NATIONAL HEALTH SERVICE (PERFORMERS LISTS) REGULATIONS 2004[^c-bebe7213d30b2e2c51567f52174ab744]
+
+### 11. Amendment of regulation 23 of the National Health Service (Performers Lists) Regulations 2004[^c-bebe7213d30b2e2c51567f52174ab744]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bebe7213d30b2e2c51567f52174ab744]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bebe7213d30b2e2c51567f52174ab744]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bebe7213d30b2e2c51567f52174ab744]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bebe7213d30b2e2c51567f52174ab744]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/578) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-bebe7213d30b2e2c51567f52174ab744]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/578) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))

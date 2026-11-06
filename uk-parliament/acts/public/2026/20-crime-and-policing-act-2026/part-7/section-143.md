@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Guidance about honour-based abuse[^key-d380d5816f1bb944e20858c5ca2a997d]
+## 143. Guidance about honour-based abuse[^c-d380d5816f1bb944e20858c5ca2a997d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d380d5816f1bb944e20858c5ca2a997d]: Commencement: S. 143 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d380d5816f1bb944e20858c5ca2a997d]: Commencement: S. 143 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

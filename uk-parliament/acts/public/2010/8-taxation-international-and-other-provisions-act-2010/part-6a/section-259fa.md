@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259FA. Circumstances in which the Chapter applies[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259FA. Circumstances in which the Chapter applies[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
   - (ii) is (in substance) treated as being made for corporation tax purposes , and[^M_F_40d6bb64-3446-4dd8-fa90-42307a7b27be]
 - (c) is not in respect of the financing cost of loan capital which the permanent establishment is assumed to have by virtue of section 21(2) of CTA 2009 for the purpose of applying subsection (1) of that section (the separate enterprise principle).
 
-(4A)[^key-6ec750029f8256dc964aeaf6ff5d641b] For the purposes of this section “**the PE deduction**” does not include—
+(4A)[^c-6ec750029f8256dc964aeaf6ff5d641b] For the purposes of this section “**the PE deduction**” does not include—
 
 - (a) a debit in respect of amortisation that is brought into account under section 729 or 731 of CTA 2009 (writing down the capitalised cost of an intangible fixed asset), or
 - (b) an amount that is deductible in respect of amortisation under a provision of the law of a territory outside the United Kingdom that is equivalent to either of those sections.
@@ -61,7 +61,7 @@ summary: ''
 - (a) any increases, resulting from the circumstances giving rise to the PE deduction, in the taxable profits of the company, for a permitted taxable period, for the purposes of a tax charged under the law of the parent jurisdiction, and
 - (b) any amounts by which a loss made by the company, for a permitted taxable period, for the purposes of a tax charged under the law of the parent jurisdiction, is reduced as a result of the circumstances giving rise to the PE deduction.
 
-(7A)[^key-3d7700542bba9bd0f6faefaf04d2fbde] For the purposes of subsections (6) and (7) any increase in taxable profits or reduction of losses is to be ignored in any case where tax is charged at a nil rate under the law of the parent jurisdiction.
+(7A)[^c-3d7700542bba9bd0f6faefaf04d2fbde] For the purposes of subsections (6) and (7) any increase in taxable profits or reduction of losses is to be ignored in any case where tax is charged at a nil rate under the law of the parent jurisdiction.
 
 (8) In this Chapter “**the excessive PE deduction**” means—
 
@@ -79,12 +79,12 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
 [^M_F_9217b39b-12e4-4404-e3ae-1aa994209880]: Textual amendment: Word in s. 259FA(4)(a) omitted (retrospectively) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 17(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/17/2), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
 [^M_F_40d6bb64-3446-4dd8-fa90-42307a7b27be]: Textual amendment: S. 259FA(4)(c) and word inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 17(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/17/2), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
-[^key-6ec750029f8256dc964aeaf6ff5d641b]: Textual amendment: S. 259FA(4A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/6)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
+[^c-6ec750029f8256dc964aeaf6ff5d641b]: Textual amendment: S. 259FA(4A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/6)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
 
-[^key-3d7700542bba9bd0f6faefaf04d2fbde]: Textual amendment: S. 259FA(7A) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/4)
+[^c-3d7700542bba9bd0f6faefaf04d2fbde]: Textual amendment: S. 259FA(7A) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/4)

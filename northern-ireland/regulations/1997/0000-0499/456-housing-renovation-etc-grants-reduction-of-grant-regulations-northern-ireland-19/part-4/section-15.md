@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Income and capital of relevant person[^key-1a57be44f0e6a11ddb668a0de961597b]
+## 15. Income and capital of relevant person[^c-1a57be44f0e6a11ddb668a0de961597b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where a relevant person is a member of a family, the income and capital of any m
 
 ## Annotations
 
-[^key-1a57be44f0e6a11ddb668a0de961597b]: Commencement: Reg. 15 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-1a57be44f0e6a11ddb668a0de961597b]: Commencement: Reg. 15 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

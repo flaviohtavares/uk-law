@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Powers of entry and inspection[^key-f09fe4d7e098b422c1082b3762a539e9]
+## 127. Powers of entry and inspection[^c-f09fe4d7e098b422c1082b3762a539e9]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f09fe4d7e098b422c1082b3762a539e9]: Commencement: [S. 127](https://www.legislation.gov.uk/anaw/2014/7/section/127) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-f09fe4d7e098b422c1082b3762a539e9]: Commencement: [S. 127](https://www.legislation.gov.uk/anaw/2014/7/section/127) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

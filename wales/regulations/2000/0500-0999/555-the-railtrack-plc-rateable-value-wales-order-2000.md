@@ -41,19 +41,19 @@ Coming into force
 
 The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State by sections 143(1) and (2) of, and paragraph 3(2) of Schedule 6 to, the Local Government Finance Act 1988[^f00001], which are now vested in it, so far as exercisable in Wales[^f00002].
 
-## 1. Citation, commencement and application[^key-321b8db46cd1087b2ff5568b986bc85d]
+## 1. Citation, commencement and application[^c-321b8db46cd1087b2ff5568b986bc85d]
 
 (1) This Order may be cited as the Railtrack plc (Rateable Value) (Wales) Order 2000 and shall come into force on 1st April 2000.
 
 (2) This Order applies only to Wales.
 
-## 2. Interpretation[^key-a0c9faf6bd13f0ceb8dd177e6568ae49]
+## 2. Interpretation[^c-a0c9faf6bd13f0ceb8dd177e6568ae49]
 
 In this Order —
 
 - “the Act” (“*y Ddeddf*”) means the Local Government Finance Act 1988;
 - “the Central List Regulations” (“*y Rheoliadau Rhestr Ganolog*”) means the Central Rating List (Wales) Regulations 1999[^f00003];
-- “central list” (“*rhestr ganolog*”) means the central non-domestic rating list for Wales compiled on [^key-ad8668f81fc73ea97a3fd25078df5d45]... 1st April 2000;
+- “central list” (“*rhestr ganolog*”) means the central non-domestic rating list for Wales compiled on [^c-ad8668f81fc73ea97a3fd25078df5d45]... 1st April 2000;
 - “estimated relevant track length” (“*amcangyfrif o hyd y trac perthnasol*”), means the length of track, expressed in kilometres, estimated to be comprised in the railways of Railtrack;
 - “Railtrack” (“*Railtrack*”) means Railtrack plc;
 - “relevant hereditament” (“*hereditament perthnasol*”) means the hereditament described in Part 4 of the Schedule to the Central List Regulations;
@@ -62,23 +62,23 @@ In this Order —
 - “track” (“*trac*”) has the meaning given by section 83 of the Railways Act 1993[^f00004]; and
 - “year” (“*blwyddyn*”) means a chargeable financial year.
 
-## 3. Rounding of numbers[^key-894b1d95d83b19fbdde026f86b854e7d]
+## 3. Rounding of numbers[^c-894b1d95d83b19fbdde026f86b854e7d]
 
 Where (apart from this article) any rateable value determined under this Order would include a fraction of a pound —
 
 - (a) if the fraction would exceed 50p it shall be made up to one pound;
 - (b) if the fraction would be 50p or less it shall be ignored.
 
-## 4. Rateable values[^key-ad50511f4c95034800bed16ad9b159ed]
+## 4. Rateable values[^c-ad50511f4c95034800bed16ad9b159ed]
 
 In the case of the relevant hereditament, paragraphs 2 to 2C of Schedule 6 to the Act[^f00005] shall not apply in any year for which the central list is in force, and the rateable value of that hereditament in any such year —
 
 - (a) in the year beginning on 1st April 2000 shall be £6,240,000 and
 - (b) in any other year beginning on or after 1 April 2001 shall be the amount produced by applying the rules prescribed in Article 5.
 
-## 5. Recalculation factor[^key-eb911923b1f4017d913b15fb48a6a9c6]
+## 5. Recalculation factor[^c-eb911923b1f4017d913b15fb48a6a9c6]
 
-(1) In any year for which the central list is in force[^key-fd6cc84b0938f9d8cedd3845a16dd099] beginning on or after 1st April 2001, the rateable value of the relevant hereditament shall be the amount produced by adding £6,240,000 and the recalculation factor calculated under this Article.
+(1) In any year for which the central list is in force[^c-fd6cc84b0938f9d8cedd3845a16dd099] beginning on or after 1st April 2001, the rateable value of the relevant hereditament shall be the amount produced by adding £6,240,000 and the recalculation factor calculated under this Article.
 
 (2) Subject to paragraph (4), this paragraph applies for the purposes of calculating the recalculation factor where in relation to a relevant year the amount produced by calculating in relation to the relevant hereditament in accordance with the formula —
 
@@ -103,7 +103,7 @@ the recalculation factor is the amount produced by calculating in accordance wit
 - K is the estimated relevant track length as at 31st March 2000;
 - k is the estimated relevant track length as at 31st March in the relevant preceding year.
 
-## 6. Revocations and savings[^key-2b79dd7716edb41d262e9003fc4186df]
+## 6. Revocations and savings[^c-2b79dd7716edb41d262e9003fc4186df]
 
 (1) Subject to paragraph (2), the following are hereby revoked with effect from 1st April 2000 —
 
@@ -137,27 +137,27 @@ Article 6 of this order revokes, subject to certain savings, with effect from 1s
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-321b8db46cd1087b2ff5568b986bc85d]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/555/article/1) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
+[^c-321b8db46cd1087b2ff5568b986bc85d]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/555/article/1) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
 
-[^key-a0c9faf6bd13f0ceb8dd177e6568ae49]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/555/article/2) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
+[^c-a0c9faf6bd13f0ceb8dd177e6568ae49]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/555/article/2) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
 
 [^f00003]: Footnote: S.I. [1999/3453](https://www.legislation.gov.uk/uksi/1999/3453).
 
-[^key-ad8668f81fc73ea97a3fd25078df5d45]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2000/555/article/2) omitted (1.4.2003) by virtue of [The Non-Domestic Rating (Utilities) (Rateable Value) (Amendment) (Wales) Order 2003 (S.I. 2003/944)](https://www.legislation.gov.uk/wsi/2003/944), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/944/article/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2003/944/article/4/a)
+[^c-ad8668f81fc73ea97a3fd25078df5d45]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2000/555/article/2) omitted (1.4.2003) by virtue of [The Non-Domestic Rating (Utilities) (Rateable Value) (Amendment) (Wales) Order 2003 (S.I. 2003/944)](https://www.legislation.gov.uk/wsi/2003/944), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/944/article/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2003/944/article/4/a)
 
 [^f00004]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-894b1d95d83b19fbdde026f86b854e7d]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/555/article/3) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
+[^c-894b1d95d83b19fbdde026f86b854e7d]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/555/article/3) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
 
-[^key-ad50511f4c95034800bed16ad9b159ed]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/555/article/4) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
+[^c-ad50511f4c95034800bed16ad9b159ed]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/555/article/4) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
 
 [^f00005]: Footnote: Paragraph 2 is amended by, and paragraphs 2A and 2B are inserted by, paragraph 38(3) to (11) of Schedule 5 to the Local Government and Housing Act 1989. Paragraph 2C is inserted by section 2 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-eb911923b1f4017d913b15fb48a6a9c6]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2000/555/article/5) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
+[^c-eb911923b1f4017d913b15fb48a6a9c6]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2000/555/article/5) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
 
-[^key-fd6cc84b0938f9d8cedd3845a16dd099]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2000/555/article/5/1) inserted (1.4.2003) by [The Non-Domestic Rating (Utilities) (Rateable Value) (Amendment) (Wales) Order 2003 (S.I. 2003/944)](https://www.legislation.gov.uk/wsi/2003/944), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/944/article/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2003/944/article/4/b)
+[^c-fd6cc84b0938f9d8cedd3845a16dd099]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2000/555/article/5/1) inserted (1.4.2003) by [The Non-Domestic Rating (Utilities) (Rateable Value) (Amendment) (Wales) Order 2003 (S.I. 2003/944)](https://www.legislation.gov.uk/wsi/2003/944), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2003/944/article/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2003/944/article/4/b)
 
-[^key-2b79dd7716edb41d262e9003fc4186df]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2000/555/article/6) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
+[^c-2b79dd7716edb41d262e9003fc4186df]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2000/555/article/6) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/555/article/1/1)
 
 [^f00006]: Footnote: S.I. [1994/3284](https://www.legislation.gov.uk/uksi/1994/3284).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Interim receiving orders: restriction on proceedings and remedies[^key-2079b8982fe383eb8435f5c38b93abb8]
+## 158. Interim receiving orders: restriction on proceedings and remedies[^c-2079b8982fe383eb8435f5c38b93abb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2079b8982fe383eb8435f5c38b93abb8]: Commencement: [Art. 158](https://www.legislation.gov.uk/uksi/2005/3181/article/158) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-2079b8982fe383eb8435f5c38b93abb8]: Commencement: [Art. 158](https://www.legislation.gov.uk/uksi/2005/3181/article/158) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

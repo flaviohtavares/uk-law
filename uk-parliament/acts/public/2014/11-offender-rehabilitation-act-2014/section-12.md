@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Drug appointments[^key-80d743fa54336d9fc6d11c98279fcbd1]
+## 12. Drug appointments[^c-80d743fa54336d9fc6d11c98279fcbd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80d743fa54336d9fc6d11c98279fcbd1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/11/section/12) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(k)](https://www.legislation.gov.uk/uksi/2015/40/article/2/k)
+[^c-80d743fa54336d9fc6d11c98279fcbd1]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2014/11/section/12) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(k)](https://www.legislation.gov.uk/uksi/2015/40/article/2/k)

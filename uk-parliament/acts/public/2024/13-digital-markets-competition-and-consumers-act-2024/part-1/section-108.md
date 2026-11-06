@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Recommendations to the CMA[^key-c99a3eee5a6d3357e2b4343ddfe41535][^key-cedceff52c2c77d38411f2cb31006307]
+## 108. Recommendations to the CMA[^c-c99a3eee5a6d3357e2b4343ddfe41535][^c-cedceff52c2c77d38411f2cb31006307]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c99a3eee5a6d3357e2b4343ddfe41535]: Commencement: S. 108 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c99a3eee5a6d3357e2b4343ddfe41535]: Commencement: S. 108 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-cedceff52c2c77d38411f2cb31006307]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2024/13/section/108) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-cedceff52c2c77d38411f2cb31006307]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2024/13/section/108) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

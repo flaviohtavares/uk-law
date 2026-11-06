@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Instituting proceedings by written charge[^key-90cb52396d154f569616549006a5324e]
+## 46. Instituting proceedings by written charge[^c-90cb52396d154f569616549006a5324e]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ is to be treated after the commencement of this section as authorised to issue r
 
 ## Annotations
 
-[^key-90cb52396d154f569616549006a5324e]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2015/2/section/46) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/37)
+[^c-90cb52396d154f569616549006a5324e]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2015/2/section/46) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/37)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31.[^key-b695ddf70eb24f1555731d4552904d81]
+## 31.[^c-b695ddf70eb24f1555731d4552904d81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b695ddf70eb24f1555731d4552904d81]: Textual amendment: Regs. 20-49 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/13)
+[^c-b695ddf70eb24f1555731d4552904d81]: Textual amendment: Regs. 20-49 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(13)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Detriment for use of union services or refusal of inducement[^key-01941dc820c32c38f07aba9710d38562]
+## 31. Detriment for use of union services or refusal of inducement[^c-01941dc820c32c38f07aba9710d38562]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01941dc820c32c38f07aba9710d38562]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2004/24/section/31) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))
+[^c-01941dc820c32c38f07aba9710d38562]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2004/24/section/31) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))

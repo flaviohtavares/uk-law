@@ -22,7 +22,7 @@ summary: ''
 
 1. All TSOs shall assess what technical infrastructure is necessary to implement and operate the processes referred to in Article 140 and considered critical pursuant to the security plan referred to in Article 26.
 
-2. All TSOs of the GB synchronous area[^key-3e9f7a54fe1e95920c58a9e0375c80ef] shall specify, in the synchronous area operational agreement, minimum requirements for the availability, reliability and redundancy of the technical infrastructure referred to in paragraph 1 including:
+2. All TSOs of the GB synchronous area[^c-3e9f7a54fe1e95920c58a9e0375c80ef] shall specify, in the synchronous area operational agreement, minimum requirements for the availability, reliability and redundancy of the technical infrastructure referred to in paragraph 1 including:
 
 - (a) the accuracy, resolution, availability and redundancy of active power flow and virtual tie-line measurements;
 - (b) the availability and redundancy of digital control systems;
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e9f7a54fe1e95920c58a9e0375c80ef]: Textual amendment: Words in [Art. 151(2)](https://www.legislation.gov.uk/eur/2017/1485/article/151/2) substituted (E.W.S.) (31.12.2020) by [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/97) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e9f7a54fe1e95920c58a9e0375c80ef]: Textual amendment: Words in [Art. 151(2)](https://www.legislation.gov.uk/eur/2017/1485/article/151/2) substituted (E.W.S.) (31.12.2020) by [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/97) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

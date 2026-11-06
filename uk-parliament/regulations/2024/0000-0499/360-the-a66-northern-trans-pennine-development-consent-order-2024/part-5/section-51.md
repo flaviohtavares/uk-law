@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Arbitration[^key-078628ff8fa806ed9bb8b41946a2c26f]
+## 51. Arbitration[^c-078628ff8fa806ed9bb8b41946a2c26f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where otherwise expressly provided for in this Order and unless otherwise
 
 ## Annotations
 
-[^key-078628ff8fa806ed9bb8b41946a2c26f]: Commencement: Art. 51 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-078628ff8fa806ed9bb8b41946a2c26f]: Commencement: Art. 51 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

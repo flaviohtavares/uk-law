@@ -89,7 +89,7 @@ so wish, the commission shall give to each of them, and, in the case of an appli
 
 (4) An inquiry held by a commission under this paragraph shall be treated for the purposes of the [^c950509]Tribunals and Inquiries Act 1992 as one held by a Minister in pursuance of a duty imposed by a statutory provision.
 
-(4A)[^key-03a0fa03ab18384f74f5731037ad0ac2] [^key-f128f67e211000d6fa87fd658ff3a7cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-03a0fa03ab18384f74f5731037ad0ac2] [^c-f128f67e211000d6fa87fd658ff3a7cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsections (4) to (13) of section 265 (power to summon and examine witnesses, and expenses at inquiries) shall apply to an inquiry held under this paragraph as they apply to an inquiry held under that section.
 
@@ -111,6 +111,6 @@ TABLE
 
 [^c950509]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-03a0fa03ab18384f74f5731037ad0ac2]: Textual amendment: Sch. 6 para. 5(4A) inserted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/50); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
+[^c-03a0fa03ab18384f74f5731037ad0ac2]: Textual amendment: Sch. 6 para. 5(4A) inserted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/50); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
 
-[^key-f128f67e211000d6fa87fd658ff3a7cc]: Textual amendment: Sch. 6 para. 5(4A) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/17/a)
+[^c-f128f67e211000d6fa87fd658ff3a7cc]: Textual amendment: Sch. 6 para. 5(4A) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/17/a)

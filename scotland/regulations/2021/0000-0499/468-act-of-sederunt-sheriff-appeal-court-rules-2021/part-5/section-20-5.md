@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20.5. Objections to taxed account[^key-407f7279358fcff3b6a0a9151bb3548f]
+## 20.5. Objections to taxed account[^c-407f7279358fcff3b6a0a9151bb3548f]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-407f7279358fcff3b6a0a9151bb3548f]: Commencement: Para. 20.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-407f7279358fcff3b6a0a9151bb3548f]: Commencement: Para. 20.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

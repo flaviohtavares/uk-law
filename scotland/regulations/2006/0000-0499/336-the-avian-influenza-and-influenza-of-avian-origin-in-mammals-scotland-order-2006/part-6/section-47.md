@@ -24,10 +24,10 @@ summary: ''
 
 (2) The Scottish Ministers may only license the movement of such eggs–
 
-- (a) to a designated packing centre [^key-31320e5633a5a6b3c4922ce4edcbbccc]...;
+- (a) to a designated packing centre [^c-31320e5633a5a6b3c4922ce4edcbbccc]...;
 - (b) to an establishment for the manufacture of egg products; or
 - (c) for disposal.
 
 ## Annotations
 
-[^key-31320e5633a5a6b3c4922ce4edcbbccc]: Textual amendment: Words in art. 47(2)(a) omitted (4.12.2021) by virtue of [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/444/article/2/2)
+[^c-31320e5633a5a6b3c4922ce4edcbbccc]: Textual amendment: Words in art. 47(2)(a) omitted (4.12.2021) by virtue of [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/444/article/2/2)

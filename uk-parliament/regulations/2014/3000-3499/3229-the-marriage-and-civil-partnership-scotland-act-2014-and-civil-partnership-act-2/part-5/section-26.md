@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Armed forces declaration[^key-24a8681df768b6719b50428ebf630ec0]
+## 26. Armed forces declaration[^c-24a8681df768b6719b50428ebf630ec0]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ Before the parties to a civil partnership can change their civil partnership int
 
 ## Annotations
 
-[^key-24a8681df768b6719b50428ebf630ec0]: Commencement: Art. 26 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-24a8681df768b6719b50428ebf630ec0]: Commencement: Art. 26 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

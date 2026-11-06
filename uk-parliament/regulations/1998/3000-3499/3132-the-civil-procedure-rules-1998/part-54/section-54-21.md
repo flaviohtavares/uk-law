@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54.21. General[^key-8f130802f5d5257bf42485e4979dec26][^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
+## 54.21. General[^c-8f130802f5d5257bf42485e4979dec26][^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
 
 *Extent: E+W*
 
@@ -33,15 +33,15 @@ summary: ''
   - (vi) village greens;
   - (vii) European Union environmental legislation and domestic transpositions, including assessments for development consents, habitats, waste and pollution control;
   - (viii) national, regional or other planning policy documents, statutory or otherwise; or
-  - (ix) any other matter the judge appointed under rule 54.22(2) considers appropriate[^key-39c69f584eaa13e4d678812f63dfb456] considers appropriate; and
+  - (ix) any other matter the judge appointed under rule 54.22(2) considers appropriate[^c-39c69f584eaa13e4d678812f63dfb456] considers appropriate; and
 - (b) has been issued or transferred to the Planning Court.
 
 (Part 30 (Transfer) applies to transfers to and from the Planning Court.)
 
 ## Annotations
 
-[^key-8f130802f5d5257bf42485e4979dec26]: Textual amendment: [Pt. 54 Section 2](https://www.legislation.gov.uk/uksi/1998/3132/part/54/section/2) inserted (6.4.2014) by [The Civil Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/610)](https://www.legislation.gov.uk/uksi/2014/610), [rules 2](https://www.legislation.gov.uk/uksi/2014/610/rule/2), [3](https://www.legislation.gov.uk/uksi/2014/610/rule/3) (with [rule 4](https://www.legislation.gov.uk/uksi/2014/610/rule/4))
+[^c-8f130802f5d5257bf42485e4979dec26]: Textual amendment: [Pt. 54 Section 2](https://www.legislation.gov.uk/uksi/1998/3132/part/54/section/2) inserted (6.4.2014) by [The Civil Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/610)](https://www.legislation.gov.uk/uksi/2014/610), [rules 2](https://www.legislation.gov.uk/uksi/2014/610/rule/2), [3](https://www.legislation.gov.uk/uksi/2014/610/rule/3) (with [rule 4](https://www.legislation.gov.uk/uksi/2014/610/rule/4))
 
-[^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))
+[^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))
 
-[^key-39c69f584eaa13e4d678812f63dfb456]: Textual amendment: Words in rule 54.21(2)(a)(ix) inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [9](https://www.legislation.gov.uk/uksi/2014/2044/rule/9)
+[^c-39c69f584eaa13e4d678812f63dfb456]: Textual amendment: Words in rule 54.21(2)(a)(ix) inserted (1.10.2014) by [The Civil Procedure (Amendment No. 6) Rules 2014 (S.I. 2014/2044)](https://www.legislation.gov.uk/uksi/2014/2044), [rules 2](https://www.legislation.gov.uk/uksi/2014/2044/article/2), [9](https://www.legislation.gov.uk/uksi/2014/2044/rule/9)

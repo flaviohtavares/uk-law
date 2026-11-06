@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Passport fees regulations: supplemental[^key-e60862f5845edf3ac9f8e1ca517ba033]
+## 87. Passport fees regulations: supplemental[^c-e60862f5845edf3ac9f8e1ca517ba033]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e60862f5845edf3ac9f8e1ca517ba033]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2016/19/section/87) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/p)
+[^c-e60862f5845edf3ac9f8e1ca517ba033]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2016/19/section/87) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/p)

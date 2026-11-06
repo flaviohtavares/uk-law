@@ -42,7 +42,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Contact with children
 
-#### 1. Contact activity directions and conditions[^key-887e07e1ee3079f92971892c43b3e14b]
+#### 1. Contact activity directions and conditions[^c-887e07e1ee3079f92971892c43b3e14b]
 
 After section 11 of the Children Act 1989 (c. 41) insert—
 
@@ -198,7 +198,7 @@ After section 11 of the Children Act 1989 (c. 41) insert—
 >
 > (3) It shall be the duty of the officer of the Service or Welsh family proceedings officer to comply with any request under subsection (2).
 
-#### 2. Monitoring contact[^key-317b805e9b272c22b1a4200b1ca17c06]
+#### 2. Monitoring contact[^c-317b805e9b272c22b1a4200b1ca17c06]
 
 After section 11G of the Children Act 1989 (c. 41) (as inserted by section 1) insert—
 
@@ -237,7 +237,7 @@ After section 11G of the Children Act 1989 (c. 41) (as inserted by section 1) in
 >
 > (10) A court may not make a request under subsection (2) in relation to a contact order that is an excepted order (within the meaning given by section 11B(4)).
 
-#### 3. Contact orders: warning notices[^key-b5b470d64cabc3ce755c3a91f7079ee2]
+#### 3. Contact orders: warning notices[^c-b5b470d64cabc3ce755c3a91f7079ee2]
 
 After section 11H of the Children Act 1989 (c. 41) (as inserted by section 2) insert—
 
@@ -245,7 +245,7 @@ After section 11H of the Children Act 1989 (c. 41) (as inserted by section 2) in
 >
 > Where the court makes (or varies) a contact order, it is to attach to the contact order (or the order varying the contact order) a notice warning of the consequences of failing to comply with the contact order.
 
-#### 4. Enforcement orders[^key-d0442038218bd0566ce75bad037e729e]
+#### 4. Enforcement orders[^c-d0442038218bd0566ce75bad037e729e]
 
 (1) After section 11I of the Children Act 1989 (as inserted by section 3) insert—
 
@@ -337,7 +337,7 @@ After section 11H of the Children Act 1989 (c. 41) (as inserted by section 2) in
 
 (2) Schedule 1 (which contains a Schedule to be inserted before Schedule 1 to the Children Act 1989 (c. 41)) has effect.
 
-#### 5. Compensation for financial loss[^key-0f6fa477cc7b0dd389991e301cb4a152]
+#### 5. Compensation for financial loss[^c-0f6fa477cc7b0dd389991e301cb4a152]
 
 After section 11N of the Children Act 1989 (as inserted by section 4) insert—
 
@@ -394,7 +394,7 @@ After section 11N of the Children Act 1989 (as inserted by section 4) insert—
 
 ### Family assistance orders
 
-#### 6. Provision as to family assistance orders[^key-2626a53095580e671cc86246751bd507]
+#### 6. Provision as to family assistance orders[^c-2626a53095580e671cc86246751bd507]
 
 (1) Section 16 of the Children Act 1989 (c. 41) (family assistance orders) is amended as follows.
 
@@ -412,7 +412,7 @@ After section 11N of the Children Act 1989 (as inserted by section 4) insert—
 
 ### Risk assessments
 
-#### 7. Risk assessments[^key-e099db4aa0207967a91a83b106b75fa4]
+#### 7. Risk assessments[^c-e099db4aa0207967a91a83b106b75fa4]
 
 After section 16 of the Children Act 1989 (c. 41) insert—
 
@@ -432,7 +432,7 @@ After section 16 of the Children Act 1989 (c. 41) insert—
 
 ### Transitional provision
 
-#### 8. Transitional provision[^key-d20238ca4f8c1d763c26c839ef07684c]
+#### 8. Transitional provision[^c-d20238ca4f8c1d763c26c839ef07684c]
 
 (1) This section applies to any contact order under section 8 of the Children Act 1989 made before, and in force on, the relevant date.
 
@@ -451,37 +451,37 @@ After section 16 of the Children Act 1989 (c. 41) insert—
 
 ### 9. Declaration of special restrictions on adoptions from abroad
 
-(1)[^key-e1a65becbb3b102e1d3d9d787478e243] This section applies if the Secretary of State has reason to believe that, because of practices taking place in a country or territory outside the British Islands (the “other country”) in connection with the adoption of children, it would be contrary to public policy to further the bringing of children into the United Kingdom in the cases mentioned in subsection (2).
+(1)[^c-e1a65becbb3b102e1d3d9d787478e243] This section applies if the Secretary of State has reason to believe that, because of practices taking place in a country or territory outside the British Islands (the “other country”) in connection with the adoption of children, it would be contrary to public policy to further the bringing of children into the United Kingdom in the cases mentioned in subsection (2).
 
-(2)[^key-e1a65becbb3b102e1d3d9d787478e243] The cases are that a British resident—
+(2)[^c-e1a65becbb3b102e1d3d9d787478e243] The cases are that a British resident—
 
 - (a) wishes to bring, or cause another to bring, a child who is not a British resident into the United Kingdom for the purpose of adoption by the British resident, and, in connection with the proposed adoption, there have been, or would have to be, proceedings in the other country or dealings with authorities or agencies there, or
 - (b) wishes to bring, or cause another to bring, into the United Kingdom a child adopted by the British resident under an adoption effected, within the period of twelve months ending with the date of the bringing in, under the law of the other country.
 
-(3)[^key-e1a65becbb3b102e1d3d9d787478e243] It is immaterial whether the other country is a Convention country or not.
+(3)[^c-e1a65becbb3b102e1d3d9d787478e243] It is immaterial whether the other country is a Convention country or not.
 
-(4)[^key-f1078cd3bcfacb4c9999643c02ede147] The Secretary of State may by order declare, in relation to any such country or territory, that special restrictions are to apply for the time being in relation to the bringing in of children in the cases mentioned in subsection (2).
+(4)[^c-f1078cd3bcfacb4c9999643c02ede147] The Secretary of State may by order declare, in relation to any such country or territory, that special restrictions are to apply for the time being in relation to the bringing in of children in the cases mentioned in subsection (2).
 
-(5)[^key-e1a65becbb3b102e1d3d9d787478e243] Before making an order containing such a declaration the Secretary of State must consult—
+(5)[^c-e1a65becbb3b102e1d3d9d787478e243] Before making an order containing such a declaration the Secretary of State must consult—
 
 - (a) the National Assembly for Wales, and
 - (b) the Department of Health, Social Services and Public Safety in Northern Ireland.
 
-(6)[^key-e1a65becbb3b102e1d3d9d787478e243] A country or territory in relation to which such a declaration has effect for the time being is referred to below in this section as a “**restricted country**”.
+(6)[^c-e1a65becbb3b102e1d3d9d787478e243] A country or territory in relation to which such a declaration has effect for the time being is referred to below in this section as a “**restricted country**”.
 
-(7)[^key-e1a65becbb3b102e1d3d9d787478e243] The Secretary of State must publish reasons for making the declaration in relation to each restricted country.
+(7)[^c-e1a65becbb3b102e1d3d9d787478e243] The Secretary of State must publish reasons for making the declaration in relation to each restricted country.
 
-(8)[^key-e1a65becbb3b102e1d3d9d787478e243] The Secretary of State must publish a list of restricted countries (“**the restricted list**”) and keep the list up to date.
+(8)[^c-e1a65becbb3b102e1d3d9d787478e243] The Secretary of State must publish a list of restricted countries (“**the restricted list**”) and keep the list up to date.
 
-(9)[^key-e1a65becbb3b102e1d3d9d787478e243] The restricted list and the reasons are to be published in whatever way the Secretary of State thinks appropriate for bringing them to the attention of adoption agencies and members of the public.
+(9)[^c-e1a65becbb3b102e1d3d9d787478e243] The restricted list and the reasons are to be published in whatever way the Secretary of State thinks appropriate for bringing them to the attention of adoption agencies and members of the public.
 
-(10)[^key-e1a65becbb3b102e1d3d9d787478e243] In this section—
+(10)[^c-e1a65becbb3b102e1d3d9d787478e243] In this section—
 
 - (a) “**British resident**” means a person habitually resident in the British Islands, and the reference to adoption by a British resident includes adoption by a British resident and another person,
 - (b) “**the Convention**” means the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, concluded at The Hague on 29th May 1993,
 - (c) “**Convention country**” means a country or territory in which the Convention is in force.
 
-### 10. Review[^key-72b366fd77edc9d7ebc003a90c2556f7]
+### 10. Review[^c-72b366fd77edc9d7ebc003a90c2556f7]
 
 (1) The Secretary of State must keep under review, in relation to each restricted country, whether it should continue to be a restricted country.
 
@@ -494,7 +494,7 @@ After section 16 of the Children Act 1989 (c. 41) insert—
 
 (4) In this section, “**restricted country**” has the same meaning as in section 9.
 
-### 11. The special restrictions[^key-a2d32f68f37b73d93285bfaac7a95b45][^key-eaac7470d75b7cbcb98088c7a3d2c76f]
+### 11. The special restrictions[^c-a2d32f68f37b73d93285bfaac7a95b45][^c-eaac7470d75b7cbcb98088c7a3d2c76f]
 
 (1) The special restrictions mentioned in section 9(4) are that, except as mentioned in subsection (2) of this section, the appropriate authority is not to take any step which he or it might otherwise have taken in connection with furthering the bringing of a child into the United Kingdom in the cases mentioned in section 9(2) (whether or not that step is provided for by or by virtue of any enactment).
 
@@ -524,37 +524,37 @@ and “**the Convention**” and “**Convention country**” have the meanings 
 
 ### 12. Imposition of extra conditions in certain cases
 
-(1)[^key-1e05823439580139c81f5af887e1fb39][^key-e4c1fde29357932948cc77907e572dc9] The Secretary of State may make regulations providing—
+(1)[^c-1e05823439580139c81f5af887e1fb39][^c-e4c1fde29357932948cc77907e572dc9] The Secretary of State may make regulations providing—
 
 - (a) for him to specify in the restricted list, in relation to any restricted country, a step which is not otherwise provided for by or by virtue of any enactment but which, by virtue of the arrangements between the United Kingdom and that country, the appropriate authority normally takes in connection with the bringing in of a child where that country is concerned, and
 - (b) that, if such a step has been so specified in relation to a restricted country, one or more conditions specified in the regulations are to be met in respect of a child brought into the United Kingdom in either of the cases mentioned in section 9(2) (reading the reference there to the “other country” as being to the restricted country in question).
 
-(2)[^key-d6060ee9a0f9e8fcc6f6a990166fa904] Those conditions are in addition to any provided for by virtue of—
+(2)[^c-d6060ee9a0f9e8fcc6f6a990166fa904] Those conditions are in addition to any provided for by virtue of—
 
 - (a) section 83 of the Adoption and Children Act 2002 (c. 38) (restriction on bringing children in), or
 - (b) Article 58ZA of the Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I. 22)) (restriction on bringing children in),
 
 or under or by virtue of any other enactment.
 
-(3)[^key-d6060ee9a0f9e8fcc6f6a990166fa904] A person who brings, or causes another to bring, a child into the United Kingdom is guilty of an offence if any condition required to be met by virtue of subsection (1)(b) is not met.
+(3)[^c-d6060ee9a0f9e8fcc6f6a990166fa904] A person who brings, or causes another to bring, a child into the United Kingdom is guilty of an offence if any condition required to be met by virtue of subsection (1)(b) is not met.
 
-(4)[^key-d6060ee9a0f9e8fcc6f6a990166fa904] Subsection (3) does not apply if the step specified in the restricted list in relation to any country had already been taken before the publication of the restricted list.
+(4)[^c-d6060ee9a0f9e8fcc6f6a990166fa904] Subsection (3) does not apply if the step specified in the restricted list in relation to any country had already been taken before the publication of the restricted list.
 
-(5)[^key-d6060ee9a0f9e8fcc6f6a990166fa904] A person guilty of an offence under subsection (3) is liable—
+(5)[^c-d6060ee9a0f9e8fcc6f6a990166fa904] A person guilty of an offence under subsection (3) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-67f441f0836177122e56a5485d305af8] (in England and Wales) or 6 months (in Northern Ireland), or a fine not exceeding the statutory maximum, or both,
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-67f441f0836177122e56a5485d305af8] (in England and Wales) or 6 months (in Northern Ireland), or a fine not exceeding the statutory maximum, or both,
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 12 months, or a fine, or both.
 
-(6)[^key-d087ae0e523d106b18f9893db1b67341] In relation to an offence committed before 2 May 2022[^key-1470e129cc26107f8d1c9fc3c1763623], the reference in subsection (5)(a) to the general limit in a magistrates’ court[^key-5276a5d61383b2dae63013943ff450c4] is to be read as a reference to 6 months.
+(6)[^c-d087ae0e523d106b18f9893db1b67341] In relation to an offence committed before 2 May 2022[^c-1470e129cc26107f8d1c9fc3c1763623], the reference in subsection (5)(a) to the general limit in a magistrates’ court[^c-5276a5d61383b2dae63013943ff450c4] is to be read as a reference to 6 months.
 
 This subsection does not extend to Northern Ireland.
 
-(7)[^key-1e05823439580139c81f5af887e1fb39][^key-e4c1fde29357932948cc77907e572dc9] In this section—
+(7)[^c-1e05823439580139c81f5af887e1fb39][^c-e4c1fde29357932948cc77907e572dc9] In this section—
 
 - (a) “**the appropriate authority**” has the meaning given by section 11(4),
 - (b) “**restricted country**” and “**restricted list**” have the same meanings as in section 9.
 
-### 13. Power to charge[^key-d7e2f04d2b069d0d10b6ae74901753b4][^key-d3ab2f1345ee09ddebd04f14318ce61b]
+### 13. Power to charge[^c-d7e2f04d2b069d0d10b6ae74901753b4][^c-d3ab2f1345ee09ddebd04f14318ce61b]
 
 *Extent: E+W*
 
@@ -588,11 +588,11 @@ After section 91 of the Adoption and Children Act 2002 (c. 38) insert—
 
 *Extent: E+W*
 
-(1)[^key-410b3bc88f0dc9bb80ff3ddfa34973b8] In section 83 of the Adoption and Children Act 2002 (restriction on bringing children into the United Kingdom), in subsection (1)(b), for “six” substitute “ twelve ”.
+(1)[^c-410b3bc88f0dc9bb80ff3ddfa34973b8] In section 83 of the Adoption and Children Act 2002 (restriction on bringing children into the United Kingdom), in subsection (1)(b), for “six” substitute “ twelve ”.
 
-(2)[^key-410b3bc88f0dc9bb80ff3ddfa34973b8] The amendment made by subsection (1) applies only in relation to a child adopted under an external adoption (see section 83(3) of the Adoption and Children Act 2002 (c. 38)) effected after subsection (1) comes into force.
+(2)[^c-410b3bc88f0dc9bb80ff3ddfa34973b8] The amendment made by subsection (1) applies only in relation to a child adopted under an external adoption (see section 83(3) of the Adoption and Children Act 2002 (c. 38)) effected after subsection (1) comes into force.
 
-(3)[^key-3e90df38354d03f5376d2ddf820c772d] In Schedule 8 to the Children Act 1989 (c. 41) (privately fostered children), in paragraph 5 (as amended by paragraph 73 of Schedule 3 to the Adoption and Children Act 2002), after sub-paragraph (c) add— “ or while he is a child in respect of whom a local authority have functions by virtue of regulations under section 83(6)(b) of the Adoption and Children Act 2002 (which relates to children brought into the United Kingdom for adoption), or corresponding functions by virtue of regulations under section 1 of the Adoption (Intercountry Aspects) Act 1999 (regulations to give effect to Hague Convention on Protection of Children and Co-operation in respect of Intercountry Adoption). ”
+(3)[^c-3e90df38354d03f5376d2ddf820c772d] In Schedule 8 to the Children Act 1989 (c. 41) (privately fostered children), in paragraph 5 (as amended by paragraph 73 of Schedule 3 to the Adoption and Children Act 2002), after sub-paragraph (c) add— “ or while he is a child in respect of whom a local authority have functions by virtue of regulations under section 83(6)(b) of the Adoption and Children Act 2002 (which relates to children brought into the United Kingdom for adoption), or corresponding functions by virtue of regulations under section 1 of the Adoption (Intercountry Aspects) Act 1999 (regulations to give effect to Hague Convention on Protection of Children and Co-operation in respect of Intercountry Adoption). ”
 
 ## Part 3 — Miscellaneous and final
 
@@ -602,13 +602,13 @@ After section 91 of the Adoption and Children Act 2002 (c. 38) insert—
 
 #### 15. Minor and consequential amendments and repeals
 
-(1)[^key-b826b5cf6fd19717da22d293f924c14e] Schedule 2 (minor and consequential amendments) has effect.
+(1)[^c-b826b5cf6fd19717da22d293f924c14e] Schedule 2 (minor and consequential amendments) has effect.
 
-(2)[^key-5bccd29f114045eb8e60a96569c8538c][^key-526adccbb1a2dfcd84942a002b047a5c] Schedule 3 (repeals) has effect.
+(2)[^c-5bccd29f114045eb8e60a96569c8538c][^c-526adccbb1a2dfcd84942a002b047a5c] Schedule 3 (repeals) has effect.
 
 ### Final provisions
 
-#### 16. Regulations and orders[^key-912d6d7e2083d07672c773ca12c67777]
+#### 16. Regulations and orders[^c-912d6d7e2083d07672c773ca12c67777]
 
 (1) Any power to make regulations conferred by this Act on the Secretary of State is exercisable by statutory instrument.
 
@@ -650,7 +650,7 @@ After section 91 of the Adoption and Children Act 2002 (c. 38) insert—
 
 SCHEDULES
 
-## SCHEDULE 1 — Enforcement orders[^key-71dc420e27d5aaf51f661363bd390485]
+## SCHEDULE 1 — Enforcement orders[^c-71dc420e27d5aaf51f661363bd390485]
 
 Section 4
 
@@ -837,7 +837,7 @@ Section 15
 
 ### Domicile and Matrimonial Proceedings Act 1973 (c. 45)
 
-**1.**[^key-d642b601414c30f445a5c88c398677f5] (1) In Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973 (c. 45) (staying of matrimonial proceedings: England and Wales), paragraph 11 (effect of staying matrimonial proceedings on court's power to make certain orders) is amended as follows.
+**1.**[^c-d642b601414c30f445a5c88c398677f5] (1) In Schedule 1 to the Domicile and Matrimonial Proceedings Act 1973 (c. 45) (staying of matrimonial proceedings: England and Wales), paragraph 11 (effect of staying matrimonial proceedings on court's power to make certain orders) is amended as follows.
 
 (2) After sub-paragraph (4) insert—
 
@@ -855,9 +855,9 @@ Section 15
 
 ### Family Law Act 1986 (c. 55)
 
-**2.**[^key-d8dc975a00f810950faa0326a57178f1] The Family Law Act 1986 (c. 55) is amended as follows.
+**2.**[^c-d8dc975a00f810950faa0326a57178f1] The Family Law Act 1986 (c. 55) is amended as follows.
 
-**3.**[^key-3805929472cfa7adccd26b954d3ef3a4] (1) Section 5 (power of court to refuse application or stay proceedings) is amended as follows.
+**3.**[^c-3805929472cfa7adccd26b954d3ef3a4] (1) Section 5 (power of court to refuse application or stay proceedings) is amended as follows.
 
 (2) After subsection (2) (stay where more appropriate for matters to be determined in proceedings outside England and Wales) insert—
 
@@ -867,21 +867,21 @@ Section 15
 
 > (3B) If the stay removed under subsection (3) or (3A) is a stay in relation to which the court suspended a contact activity direction made under section 11A of the Children Act 1989 (or an enforcement order made under section 11J of that Act), the court may when removing the stay under subsection (3) or (3A) also bring the suspension to an end.
 
-**4.**[^key-46fdf3cad5270ba33dc3e7e1bc5a916a] In section 29 (enforcement), in subsection (1) after “enforcing the order” insert “ (including, where an order with respect to contact is registered in England and Wales, the powers under section 11O of the Children Act 1989) ”.
+**4.**[^c-46fdf3cad5270ba33dc3e7e1bc5a916a] In section 29 (enforcement), in subsection (1) after “enforcing the order” insert “ (including, where an order with respect to contact is registered in England and Wales, the powers under section 11O of the Children Act 1989) ”.
 
-**5.**[^key-e21144d63c5f98efbae4ac929b6f90b7] In section 30 (staying or sisting of enforcement proceedings), after subsection (1) insert—
+**5.**[^c-e21144d63c5f98efbae4ac929b6f90b7] In section 30 (staying or sisting of enforcement proceedings), after subsection (1) insert—
 
 > (1A) No application may be made under subsection (1) for proceedings to be stayed or sisted if the proceedings are proceedings on an application for an order under section 11O(2) of the Children Act 1989.
 
-**6.**[^key-2e07abaa8fb746baff5531d29367dafb] In section 31 (dismissal of enforcement proceedings), after subsection (1) insert—
+**6.**[^c-2e07abaa8fb746baff5531d29367dafb] In section 31 (dismissal of enforcement proceedings), after subsection (1) insert—
 
 > (1A) No application may be made under subsection (1) for proceedings to be dismissed if the proceedings are proceedings on an application for an order under section 11O(2) of the Children Act 1989.
 
 ### Children Act 1989 (c. 41)
 
-**7.**[^key-5553e640000640fbe6708d689dd64d72] The Children Act 1989 (c. 41) is amended as follows.
+**7.**[^c-5553e640000640fbe6708d689dd64d72] The Children Act 1989 (c. 41) is amended as follows.
 
-**8.**[^key-1cff2f5ca38ccaf3b8060f2d1cb91c92] In section 14B (making of special guardianship orders), in subsection (1)—
+**8.**[^c-1cff2f5ca38ccaf3b8060f2d1cb91c92] In section 14B (making of special guardianship orders), in subsection (1)—
 
 - (a) omit the “and” at the end of paragraph (a), and
 - (b) after paragraph (b) insert—
@@ -889,18 +889,18 @@ Section 15
   > - (c) where a contact order made with respect to the child is not discharged, any enforcement order relating to that contact order should be revoked, and
   > - (d) where a contact activity direction has been made as regards contact with the child and is in force, that contact activity direction should be discharged.
 
-**9.**[^key-b3419ed968568e2871ef380e1e9088f1] In section 91 (effect and duration of orders etc) after subsection (2) insert—
+**9.**[^c-b3419ed968568e2871ef380e1e9088f1] In section 91 (effect and duration of orders etc) after subsection (2) insert—
 
 > (2A) Where a contact activity direction has been made as regards contact with a child, the making of a care order with respect to the child discharges the direction.
 
-**10.**[^key-4f1d8c15687d47aef6b27b62082ab576] In section 104 (regulations and orders)—
+**10.**[^c-4f1d8c15687d47aef6b27b62082ab576] In section 104 (regulations and orders)—
 
 - (a) in subsection (1) for “or the Secretary of State” substitute “ , the Secretary of State or the National Assembly for Wales ”;
 - (b) after subsection (2) insert—
 
   > (2A) Subsection (2) does not apply to a statutory instrument made solely by the National Assembly for Wales.
 
-**11.**[^key-c0fe76e929a34101f47749b26338d93c] In section 105 (interpretation), in subsection (1) at the appropriate place insert—
+**11.**[^c-c0fe76e929a34101f47749b26338d93c] In section 105 (interpretation), in subsection (1) at the appropriate place insert—
 
 > “**contact activity condition**” has the meaning given by section 11C;
 
@@ -916,19 +916,19 @@ Section 15
 
 ### Family Law Act 1996 (c. 27)
 
-**12.**[^key-aec083da81c6d89f21c14a36c90a120e][^key-31c8366b504b9b616a45145f74286b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-aec083da81c6d89f21c14a36c90a120e][^c-31c8366b504b9b616a45145f74286b01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adoption and Children Act 2002 (c. 38)
 
-**13.**[^key-dd456d352e1e3978a13e3c29be7ed017] The Adoption and Children Act 2002 (c. 38) is amended as follows.
+**13.**[^c-dd456d352e1e3978a13e3c29be7ed017] The Adoption and Children Act 2002 (c. 38) is amended as follows.
 
-**14.**[^key-81de37d90b5b4157385b08a8c0011abc] (1) Section 26 (effect on contact of placing a child for adoption) is amended as follows.
+**14.**[^c-81de37d90b5b4157385b08a8c0011abc] (1) Section 26 (effect on contact of placing a child for adoption) is amended as follows.
 
 (2) In subsection (1), after “have effect” insert “ and any contact activity direction relating to contact with the child is discharged ”.
 
 (3) In subsection (6), after “In this section,” insert “ “**contact activity direction**” has the meaning given by section 11A of the 1989 Act and ”.
 
-## SCHEDULE 3 — Repeals[^key-73b6f402a4556ab7e4f9d50e02d050ef][^key-32bac86e9bb32999db9552f04140cb5b]
+## SCHEDULE 3 — Repeals[^c-73b6f402a4556ab7e4f9d50e02d050ef][^c-32bac86e9bb32999db9552f04140cb5b]
 
 Section 15
 
@@ -938,94 +938,94 @@ Section 15
 
 ## Annotations
 
-[^key-887e07e1ee3079f92971892c43b3e14b]: Commencement: S. 1 in force at 7.11.2008 for specified purposes by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/1)
+[^c-887e07e1ee3079f92971892c43b3e14b]: Commencement: S. 1 in force at 7.11.2008 for specified purposes by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/1)
 
-[^key-317b805e9b272c22b1a4200b1ca17c06]: Commencement: S. 2 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/b)
+[^c-317b805e9b272c22b1a4200b1ca17c06]: Commencement: S. 2 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/b)
 
-[^key-b5b470d64cabc3ce755c3a91f7079ee2]: Commencement: S. 3 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/b)
+[^c-b5b470d64cabc3ce755c3a91f7079ee2]: Commencement: S. 3 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/b)
 
-[^key-d0442038218bd0566ce75bad037e729e]: Commencement: S. 4 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/c)
+[^c-d0442038218bd0566ce75bad037e729e]: Commencement: S. 4 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/c)
 
-[^key-0f6fa477cc7b0dd389991e301cb4a152]: Commencement: S. 5 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/d)
+[^c-0f6fa477cc7b0dd389991e301cb4a152]: Commencement: S. 5 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/d)
 
-[^key-2626a53095580e671cc86246751bd507]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/20/section/6) in force at 1.10.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/a)
+[^c-2626a53095580e671cc86246751bd507]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2006/20/section/6) in force at 1.10.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/a)
 
-[^key-e099db4aa0207967a91a83b106b75fa4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/20/section/7) in force at 1.10.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/b)
+[^c-e099db4aa0207967a91a83b106b75fa4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/20/section/7) in force at 1.10.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/b)
 
-[^key-d20238ca4f8c1d763c26c839ef07684c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/20/section/8) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/d)
+[^c-d20238ca4f8c1d763c26c839ef07684c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/20/section/8) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/d)
 
-[^key-e1a65becbb3b102e1d3d9d787478e243]: Commencement: S. 9(1)-(3)(5)-(10) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/a)
+[^c-e1a65becbb3b102e1d3d9d787478e243]: Commencement: S. 9(1)-(3)(5)-(10) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/a)
 
-[^key-f1078cd3bcfacb4c9999643c02ede147]: Commencement: S. 9(4) in force at 7.7.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/1/a)
+[^c-f1078cd3bcfacb4c9999643c02ede147]: Commencement: S. 9(4) in force at 7.7.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/1/a)
 
-[^key-72b366fd77edc9d7ebc003a90c2556f7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/20/section/10) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/b)
+[^c-72b366fd77edc9d7ebc003a90c2556f7]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/20/section/10) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/b)
 
-[^key-a2d32f68f37b73d93285bfaac7a95b45]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/20/section/11) in force at 2.8.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/1/a)
+[^c-a2d32f68f37b73d93285bfaac7a95b45]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/20/section/11) in force at 2.8.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/1/a)
 
-[^key-eaac7470d75b7cbcb98088c7a3d2c76f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/20/section/11) in force at 1.8.2008 in so far as not already in force by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
+[^c-eaac7470d75b7cbcb98088c7a3d2c76f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/20/section/11) in force at 1.8.2008 in so far as not already in force by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
 
-[^key-1e05823439580139c81f5af887e1fb39]: Commencement: S. 12(1)(7) in force at 2.8.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/1/b)
+[^c-1e05823439580139c81f5af887e1fb39]: Commencement: S. 12(1)(7) in force at 2.8.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/1/b)
 
-[^key-e4c1fde29357932948cc77907e572dc9]: Commencement: S. 12(1)(7) in force at 1.8.2008 in so far as not already in force by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
+[^c-e4c1fde29357932948cc77907e572dc9]: Commencement: S. 12(1)(7) in force at 1.8.2008 in so far as not already in force by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
 
-[^key-d6060ee9a0f9e8fcc6f6a990166fa904]: Commencement: S. 12(2)-(5) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
+[^c-d6060ee9a0f9e8fcc6f6a990166fa904]: Commencement: S. 12(2)-(5) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
 
-[^key-67f441f0836177122e56a5485d305af8]: Textual amendment: Words in [s. 12(5)(a)](https://www.legislation.gov.uk/ukpga/2006/20/section/12/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-67f441f0836177122e56a5485d305af8]: Textual amendment: Words in [s. 12(5)(a)](https://www.legislation.gov.uk/ukpga/2006/20/section/12/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-d087ae0e523d106b18f9893db1b67341]: Commencement: S. 12(6) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
+[^c-d087ae0e523d106b18f9893db1b67341]: Commencement: S. 12(6) in force at 1.8.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/2/c)
 
-[^key-1470e129cc26107f8d1c9fc3c1763623]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2006/20/section/12/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-1470e129cc26107f8d1c9fc3c1763623]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2006/20/section/12/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-5276a5d61383b2dae63013943ff450c4]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2006/20/section/12/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-5276a5d61383b2dae63013943ff450c4]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2006/20/section/12/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-d7e2f04d2b069d0d10b6ae74901753b4]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/20/section/13) in force at 2.4.2007 for specified purposes for W. by [S.I. 2007/733](https://www.legislation.gov.uk/wsi/2007/733), [art. 2](https://www.legislation.gov.uk/wsi/2007/733/article/2)
+[^c-d7e2f04d2b069d0d10b6ae74901753b4]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/20/section/13) in force at 2.4.2007 for specified purposes for W. by [S.I. 2007/733](https://www.legislation.gov.uk/wsi/2007/733), [art. 2](https://www.legislation.gov.uk/wsi/2007/733/article/2)
 
-[^key-d3ab2f1345ee09ddebd04f14318ce61b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/20/section/13) in force at 28.10.2010 wholly in force for E. and in force for W. in so far as not already in force by [S.I. 2010/2612](https://www.legislation.gov.uk/uksi/2010/2612), [art. 2](https://www.legislation.gov.uk/uksi/2010/2612/article/2)
+[^c-d3ab2f1345ee09ddebd04f14318ce61b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/20/section/13) in force at 28.10.2010 wholly in force for E. and in force for W. in so far as not already in force by [S.I. 2010/2612](https://www.legislation.gov.uk/uksi/2010/2612), [art. 2](https://www.legislation.gov.uk/uksi/2010/2612/article/2)
 
-[^key-410b3bc88f0dc9bb80ff3ddfa34973b8]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2006/20/section/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/14/2) in force at 1.10.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/c)
+[^c-410b3bc88f0dc9bb80ff3ddfa34973b8]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2006/20/section/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/14/2) in force at 1.10.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/c)
 
-[^key-3e90df38354d03f5376d2ddf820c772d]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/ukpga/2006/20/section/14/3) in force at 2.8.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/1/c)
+[^c-3e90df38354d03f5376d2ddf820c772d]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/ukpga/2006/20/section/14/3) in force at 2.8.2007 by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/1/c)
 
-[^key-b826b5cf6fd19717da22d293f924c14e]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2006/20/section/15/1) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-b826b5cf6fd19717da22d293f924c14e]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2006/20/section/15/1) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-5bccd29f114045eb8e60a96569c8538c]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/15/2) in force at 1.10.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/d)
+[^c-5bccd29f114045eb8e60a96569c8538c]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/15/2) in force at 1.10.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/d)
 
-[^key-526adccbb1a2dfcd84942a002b047a5c]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/15/2) in force at 8.12.2008 in so far as not already in force by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/f)
+[^c-526adccbb1a2dfcd84942a002b047a5c]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2006/20/section/15/2) in force at 8.12.2008 in so far as not already in force by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/f)
 
-[^key-912d6d7e2083d07672c773ca12c67777]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/20/section/16) in force at 7.7.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/1/b)
+[^c-912d6d7e2083d07672c773ca12c67777]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/20/section/16) in force at 7.7.2008 by [S.I. 2008/1798](https://www.legislation.gov.uk/uksi/2008/1798), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1798/article/2/1/b)
 
-[^key-71dc420e27d5aaf51f661363bd390485]: Commencement: Sch. 1 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/c)
+[^c-71dc420e27d5aaf51f661363bd390485]: Commencement: Sch. 1 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/c)
 
-[^key-d642b601414c30f445a5c88c398677f5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/1) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-d642b601414c30f445a5c88c398677f5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/1) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-d8dc975a00f810950faa0326a57178f1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/2) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-d8dc975a00f810950faa0326a57178f1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/2) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-3805929472cfa7adccd26b954d3ef3a4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/3) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-3805929472cfa7adccd26b954d3ef3a4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/3) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-46fdf3cad5270ba33dc3e7e1bc5a916a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/4) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-46fdf3cad5270ba33dc3e7e1bc5a916a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/4) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-e21144d63c5f98efbae4ac929b6f90b7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/5) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-e21144d63c5f98efbae4ac929b6f90b7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/5) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-2e07abaa8fb746baff5531d29367dafb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/6) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-2e07abaa8fb746baff5531d29367dafb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/6) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-5553e640000640fbe6708d689dd64d72]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/7) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-5553e640000640fbe6708d689dd64d72]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/7) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-1cff2f5ca38ccaf3b8060f2d1cb91c92]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/8) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-1cff2f5ca38ccaf3b8060f2d1cb91c92]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/8) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-b3419ed968568e2871ef380e1e9088f1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/9) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-b3419ed968568e2871ef380e1e9088f1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/9) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-4f1d8c15687d47aef6b27b62082ab576]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/10) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-4f1d8c15687d47aef6b27b62082ab576]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/10) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-c0fe76e929a34101f47749b26338d93c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/11) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-c0fe76e929a34101f47749b26338d93c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/11) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-aec083da81c6d89f21c14a36c90a120e]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/12) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/d), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-aec083da81c6d89f21c14a36c90a120e]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/12) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/d), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
-[^key-31c8366b504b9b616a45145f74286b01]: Commencement: Sch. 2 para. 12 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-31c8366b504b9b616a45145f74286b01]: Commencement: Sch. 2 para. 12 in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-dd456d352e1e3978a13e3c29be7ed017]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/13) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-dd456d352e1e3978a13e3c29be7ed017]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/13) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-81de37d90b5b4157385b08a8c0011abc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/14) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
+[^c-81de37d90b5b4157385b08a8c0011abc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/20/schedule/2/paragraph/14) in force at 8.12.2008 by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/e)
 
-[^key-73b6f402a4556ab7e4f9d50e02d050ef]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/20/schedule/3) in force at 1.10.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/d)
+[^c-73b6f402a4556ab7e4f9d50e02d050ef]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/20/schedule/3) in force at 1.10.2007 for specified purposes by [S.I. 2007/2287](https://www.legislation.gov.uk/uksi/2007/2287), [art. 1(2)(d)](https://www.legislation.gov.uk/uksi/2007/2287/article/1/2/d)
 
-[^key-32bac86e9bb32999db9552f04140cb5b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/20/schedule/3) in force at 8.12.2008 in so far as not already in force by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/f)
+[^c-32bac86e9bb32999db9552f04140cb5b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/20/schedule/3) in force at 8.12.2008 in so far as not already in force by [S.I. 2008/2870](https://www.legislation.gov.uk/uksi/2008/2870), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2008/2870/article/2/2/f)

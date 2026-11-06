@@ -22,7 +22,7 @@ summary: ''
 
 (1) There shall be included among the matters which are required to be registered in the Statutory Charges Register—
 
-- (za)[^key-cd01dcf17f7842d6adfa97050bd69388] any charge created under Article 9;
+- (za)[^c-cd01dcf17f7842d6adfa97050bd69388] any charge created under Article 9;
 - (a) any clearance order made under Article 33;
 - (b) any notice served under Article 35;
 - (bb)[^c17551961] any closing order made under Article 38;
@@ -34,7 +34,7 @@ summary: ''
 
 (2) An application for registration of—
 
-- (a) any of the matters mentioned in sub-paragraphs (za)[^key-024bc73778b22c94349a40c9d77c5b12] to ( *g*) of paragraph (1) shall be made by the Executive within 2 months after the Executive has advanced the money,[^key-ecd5f4a5d696c01c37d9ac0415c4be45] made the order or declaration, served the notice or paid the grant, as the case may be;
+- (a) any of the matters mentioned in sub-paragraphs (za)[^c-024bc73778b22c94349a40c9d77c5b12] to ( *g*) of paragraph (1) shall be made by the Executive within 2 months after the Executive has advanced the money,[^c-ecd5f4a5d696c01c37d9ac0415c4be45] made the order or declaration, served the notice or paid the grant, as the case may be;
 - (b) the statutory condition attaching to any land mentioned in sub-paragraph ( *h*) of paragraph (1) shall be made by the Department—
   - (i) where land is held by a housing association at the date of the coming into operation of this Order, within one month of that date,
   - (ii) where land is acquired by a housing association after the date of the coming into operation of the Order, as soon as reasonably practicable after the acquisition of the land.
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-cd01dcf17f7842d6adfa97050bd69388]: Textual amendment: [Art. 161(1)(za)](https://www.legislation.gov.uk/nisi/1981/156/article/161/1/za) inserted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(2)(a)](https://www.legislation.gov.uk/nia/2016/17/section/3/2/a), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
+[^c-cd01dcf17f7842d6adfa97050bd69388]: Textual amendment: [Art. 161(1)(za)](https://www.legislation.gov.uk/nisi/1981/156/article/161/1/za) inserted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(2)(a)](https://www.legislation.gov.uk/nia/2016/17/section/3/2/a), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
 
 [^c17551961]: Textual amendment: [1992 NI 15](https://www.legislation.gov.uk/nisi/1992)
 
-[^key-024bc73778b22c94349a40c9d77c5b12]: Textual amendment: Word in [art. 161(2)(a)](https://www.legislation.gov.uk/nisi/1981/156/article/161/2/a) substituted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(2)(b)(i)](https://www.legislation.gov.uk/nia/2016/17/section/3/2/b/i), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
+[^c-024bc73778b22c94349a40c9d77c5b12]: Textual amendment: Word in [art. 161(2)(a)](https://www.legislation.gov.uk/nisi/1981/156/article/161/2/a) substituted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(2)(b)(i)](https://www.legislation.gov.uk/nia/2016/17/section/3/2/b/i), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
 
-[^key-ecd5f4a5d696c01c37d9ac0415c4be45]: Textual amendment: Words in [art. 161(2)(a)](https://www.legislation.gov.uk/nisi/1981/156/article/161/2/a) inserted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(2)(b)(ii)](https://www.legislation.gov.uk/nia/2016/17/section/3/2/b/ii), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
+[^c-ecd5f4a5d696c01c37d9ac0415c4be45]: Textual amendment: Words in [art. 161(2)(a)](https://www.legislation.gov.uk/nisi/1981/156/article/161/2/a) inserted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(2)(b)(ii)](https://www.legislation.gov.uk/nia/2016/17/section/3/2/b/ii), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)

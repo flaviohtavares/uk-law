@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation[^key-28f6f97804665b6733e4a7e185f23671]
+## 3. Interpretation[^c-28f6f97804665b6733e4a7e185f23671]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 - “**originator**”, in relation to a securitisation, means an entity which—
   - (a) itself or through related entities, directly or indirectly, was involved in the original agreement which created the obligations or potential obligations of the debtor or potential debtor giving rise to the exposures being securitised, or
   - (b) purchases a third party’s exposures on its own account and then securitises them;
-- “[^key-3f9396d4ba84fced2c50d291970f86f4]**overseas STS securitisation**” has the meaning given in regulation 12(2);
+- “[^c-3f9396d4ba84fced2c50d291970f86f4]**overseas STS securitisation**” has the meaning given in regulation 12(2);
 - “**PRA-authorised person**” has the meaning given in section 2B(5) of FSMA 2000[^f00021];
 - “**securitisation**” means a transaction or scheme, whereby the credit risk associated with an exposure or a pool of exposures is tranched, having all of the following characteristics—
   - (a) payments in the transaction or scheme are dependent upon the performance of the exposure or of the pool of exposures,
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28f6f97804665b6733e4a7e185f23671]: Commencement: Reg. 3 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/a)
+[^c-28f6f97804665b6733e4a7e185f23671]: Commencement: Reg. 3 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/a)
 
 [^f00006]: Footnote: EUR 2013/575.
 
@@ -122,7 +122,7 @@ summary: ''
 
 [^f00020]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Definition was substituted by section 239 of Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) and amended by [S.I. 2019/192](https://www.legislation.gov.uk/uksi/2019/192).
 
-[^key-3f9396d4ba84fced2c50d291970f86f4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/102/regulation/3/1) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/3)
+[^c-3f9396d4ba84fced2c50d291970f86f4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2024/102/regulation/3/1) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/3)
 
 [^f00021]: Footnote: Section 2B was substituted by section 6(1) of the Financial Services Act 2012; there are amendments which are not relevant.
 

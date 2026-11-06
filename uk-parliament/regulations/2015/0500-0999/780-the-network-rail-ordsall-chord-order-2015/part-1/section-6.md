@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Disapplication of legislative provisions[^key-e3fed94acfddf3b9201b0e82d5fa4c4c]
+## 6. Disapplication of legislative provisions[^c-e3fed94acfddf3b9201b0e82d5fa4c4c]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ The following provisions do not apply in relation to any works executed under th
 
 ## Annotations
 
-[^key-e3fed94acfddf3b9201b0e82d5fa4c4c]: Commencement: Art. 6 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-e3fed94acfddf3b9201b0e82d5fa4c4c]: Commencement: Art. 6 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00021]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).

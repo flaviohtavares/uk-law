@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 324. Setting and publication of standards[^key-7ffd4929ae0aecc6baf50885c44b66fe]
+## 324. Setting and publication of standards[^c-7ffd4929ae0aecc6baf50885c44b66fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,13 +30,13 @@ summary: ''
 
 (3) After publishing the draft code and before setting the standards, OFCOM must also consult—
 
-- (a) S4C[^key-dceee9b8eff59c1f5334533d83f0ca35], about so much of the draft code as relates to television programme services;
+- (a) S4C[^c-dceee9b8eff59c1f5334533d83f0ca35], about so much of the draft code as relates to television programme services;
 - (b) the BBC, about so much of the draft code as contains standards other than those for advertising or sponsorship; and
-- (c) such of the persons mentioned in subsection (4) as OFCOM think fit, about so much of the draft code as contains standards for advertising or sponsorship or for product placement[^key-26dedc5c0f864e266b18214bfe5521c3] .
+- (c) such of the persons mentioned in subsection (4) as OFCOM think fit, about so much of the draft code as contains standards for advertising or sponsorship or for product placement[^c-26dedc5c0f864e266b18214bfe5521c3] .
 
 (4) Those persons are—
 
-- (a) persons appearing to OFCOM to represent the interests of those who will have to take account of the contents of the proposed standards for advertising or sponsorship or for product placement[^key-d926cedd517ff8c8c2704612b7d1bee3] ;
+- (a) persons appearing to OFCOM to represent the interests of those who will have to take account of the contents of the proposed standards for advertising or sponsorship or for product placement[^c-d926cedd517ff8c8c2704612b7d1bee3] ;
 - (b) bodies and associations appearing to OFCOM to be concerned with the application of standards of conduct in advertising; and
 - (c) professional organisations appearing to OFCOM to be qualified to give relevant advice in relation to the advertising of particular products.
 
@@ -57,17 +57,17 @@ summary: ''
 
 - (a) to the Secretary of State;
 - (b) except in the case of a code containing standards for advertising or sponsorship, to the BBC; and
-- (c) if the code relates to television programme services, to S4C[^key-a03e0541f2b04a3f1d374fadc6b6c7a8].
+- (c) if the code relates to television programme services, to S4C[^c-a03e0541f2b04a3f1d374fadc6b6c7a8].
 
 (11) A code (or draft code) contains standards for advertising or sponsorship for the purposes of this section to the extent that it sets standards under section 319 for securing any of the objectives mentioned in any of paragraphs (g) to (k) of subsection (2) of that section.
 
-(11A)[^key-205e913d6157323aa73abbf713e67bb1] A code (or draft code) contains standards for product placement for the purposes of this section to the extent that it sets standards under section 319 for securing the objective mentioned in paragraph (fa) of subsection (2) of that section.
+(11A)[^c-205e913d6157323aa73abbf713e67bb1] A code (or draft code) contains standards for product placement for the purposes of this section to the extent that it sets standards under section 319 for securing the objective mentioned in paragraph (fa) of subsection (2) of that section.
 
 (12) In this section “**relevant licence**”, in relation to a draft code, means—
 
 - (a) to the extent that the draft code relates to
   - (i) television programme services,
-  - (ii)[^key-ceb556ac3c0481f5a05aaf055109260a] ... or
+  - (ii)[^c-ceb556ac3c0481f5a05aaf055109260a] ... or
   - (iii) an additional television service,
 
   a licence under Part 1 of the 1990 Act (independent television services), under section 18 of the 1996 Act (digital television programme services) under section 25 of that Act (digital additional television services) or under section 219 of this Act; and
@@ -75,16 +75,16 @@ summary: ''
 
 ## Annotations
 
-[^key-7ffd4929ae0aecc6baf50885c44b66fe]: Commencement: S. 324 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7ffd4929ae0aecc6baf50885c44b66fe]: Commencement: S. 324 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-dceee9b8eff59c1f5334533d83f0ca35]: Textual amendment: Word in [s. 324(3)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/324/3/a) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-dceee9b8eff59c1f5334533d83f0ca35]: Textual amendment: Word in [s. 324(3)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/324/3/a) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-26dedc5c0f864e266b18214bfe5521c3]: Textual amendment: Words in s. 324(3)(c) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/831/regulation/4/2)
+[^c-26dedc5c0f864e266b18214bfe5521c3]: Textual amendment: Words in s. 324(3)(c) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/831/regulation/4/2)
 
-[^key-d926cedd517ff8c8c2704612b7d1bee3]: Textual amendment: Words in s. 324(4)(a) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/831/regulation/4/2)
+[^c-d926cedd517ff8c8c2704612b7d1bee3]: Textual amendment: Words in s. 324(4)(a) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/831/regulation/4/2)
 
-[^key-a03e0541f2b04a3f1d374fadc6b6c7a8]: Textual amendment: Word in [s. 324(10)(c)](https://www.legislation.gov.uk/ukpga/2003/21/section/324/10/c) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-a03e0541f2b04a3f1d374fadc6b6c7a8]: Textual amendment: Word in [s. 324(10)(c)](https://www.legislation.gov.uk/ukpga/2003/21/section/324/10/c) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-205e913d6157323aa73abbf713e67bb1]: Textual amendment: S. 324(11A) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/831/regulation/4/3)
+[^c-205e913d6157323aa73abbf713e67bb1]: Textual amendment: S. 324(11A) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/831/regulation/4/3)
 
-[^key-ceb556ac3c0481f5a05aaf055109260a]: Textual amendment: [S. 324(12)(a)(ii)](https://www.legislation.gov.uk/ukpga/2003/21/section/324/12/a/ii) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/56); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-ceb556ac3c0481f5a05aaf055109260a]: Textual amendment: [S. 324(12)(a)(ii)](https://www.legislation.gov.uk/ukpga/2003/21/section/324/12/a/ii) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/56); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

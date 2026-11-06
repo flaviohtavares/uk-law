@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Food for Particular Nutritional Uses (Miscellaneous Amendments) (England) Regulations 2010 (revoked)[^key-8ad4f0ac14230bb53a6a93422a85d623]
+The Food for Particular Nutritional Uses (Miscellaneous Amendments) (England) Regulations 2010 (revoked)[^c-8ad4f0ac14230bb53a6a93422a85d623]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 15th March 2010
 
-[^key-8ad4f0ac14230bb53a6a93422a85d623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ad4f0ac14230bb53a6a93422a85d623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-8ad4f0ac14230bb53a6a93422a85d623]
+## 1. Title, application and commencement[^c-8ad4f0ac14230bb53a6a93422a85d623]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-8ad4f0ac14230bb53a6a93422a85d623]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-8ad4f0ac14230bb53a6a93422a85d623]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007[^key-8ad4f0ac14230bb53a6a93422a85d623]
+## 3. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007[^c-8ad4f0ac14230bb53a6a93422a85d623]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ad4f0ac14230bb53a6a93422a85d623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ad4f0ac14230bb53a6a93422a85d623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ad4f0ac14230bb53a6a93422a85d623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ad4f0ac14230bb53a6a93422a85d623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ad4f0ac14230bb53a6a93422a85d623]: Textual amendment: Regulations revoked (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [5(c)](https://www.legislation.gov.uk/uksi/2016/688/regulation/5/c)
+[^c-8ad4f0ac14230bb53a6a93422a85d623]: Textual amendment: Regulations revoked (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [5(c)](https://www.legislation.gov.uk/uksi/2016/688/regulation/5/c)

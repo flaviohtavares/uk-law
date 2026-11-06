@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Disqualification on summary conviction: NI[^key-5bb4323a39969c6f9f4f8c44bd53c412][^key-c136937b9a94ebcd91ff1227270e0812]
+## 34. Disqualification on summary conviction: NI[^c-5bb4323a39969c6f9f4f8c44bd53c412][^c-c136937b9a94ebcd91ff1227270e0812]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5bb4323a39969c6f9f4f8c44bd53c412]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5bb4323a39969c6f9f4f8c44bd53c412]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c136937b9a94ebcd91ff1227270e0812]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/56/section/34) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/f)
+[^c-c136937b9a94ebcd91ff1227270e0812]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/56/section/34) in force at 18.11.2025 in so far as not already in force by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/f)

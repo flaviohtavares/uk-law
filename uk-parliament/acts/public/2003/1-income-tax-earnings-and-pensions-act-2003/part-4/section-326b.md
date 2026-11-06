@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326B. Advice relating to proposed employee shareholder agreements[^key-89a7de5c781dd0093b19808942d7bce5]
+## 326B. Advice relating to proposed employee shareholder agreements[^c-89a7de5c781dd0093b19808942d7bce5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89a7de5c781dd0093b19808942d7bce5]: Textual amendment: S. 326B and cross-heading inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/37), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
+[^c-89a7de5c781dd0093b19808942d7bce5]: Textual amendment: S. 326B and cross-heading inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/37), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)

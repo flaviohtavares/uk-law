@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Amendment of regulation 20[^key-c655dd4a8010237eb740b2dfc98bde56]
+## 119. Amendment of regulation 20[^c-c655dd4a8010237eb740b2dfc98bde56]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 20 (loss of rights to benefit) for “T6 of the 1995” substitute
 
 ## Annotations
 
-[^key-c655dd4a8010237eb740b2dfc98bde56]: Commencement: [Reg. 119](https://www.legislation.gov.uk/ssi/2011/364/regulation/119) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-c655dd4a8010237eb740b2dfc98bde56]: Commencement: [Reg. 119](https://www.legislation.gov.uk/ssi/2011/364/regulation/119) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Additional markings[^key-4085f91c4b59be23d767f2f75b1518a4]
+## 72. Additional markings[^c-4085f91c4b59be23d767f2f75b1518a4]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4085f91c4b59be23d767f2f75b1518a4]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1986/1078/regulation/72) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-4085f91c4b59be23d767f2f75b1518a4]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1986/1078/regulation/72) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

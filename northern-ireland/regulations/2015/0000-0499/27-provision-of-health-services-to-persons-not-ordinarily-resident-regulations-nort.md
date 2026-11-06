@@ -55,7 +55,7 @@ These Regulations may be cited as the Provision of Health Services to Persons No
   - (a) has been granted leave to enter the United Kingdom with a parent or legal guardian for the purpose of the parent or legal guardian receiving a course of treatment in respect of which no charge may be made or recovered under regulation 11; or
   - (b) is a child of an authorised companion;
 - “**authorised companion**” means a person who has been granted leave to enter the United Kingdom to accompany a person who is obtaining a course of treatment in respect of which no charge may be made or recovered under regulation 11;
-  - (a) obtaining a course of treatment in respect of which no charge may be made or recovered under regulation 11;[^key-9f7751e489543716de5736b32ea48c1b] or[^key-5cd3bd200a7ecf7b1316cfe030a42427]
+  - (a) obtaining a course of treatment in respect of which no charge may be made or recovered under regulation 11;[^c-9f7751e489543716de5736b32ea48c1b] or[^c-5cd3bd200a7ecf7b1316cfe030a42427]
   - (b) ordinarily resident in Ukraine and is obtaining a course of treatment;
 - “**Board**” means the Regional Health and Social Care Board established under section 7 of the Health and Social Care (Reform) Act (Northern Ireland) 2009 [^c22339041];
 - “**child**” means a person who is—
@@ -69,15 +69,15 @@ where the submarine area is outside the seaward limits of the territorial limits
 
 - “**core hours**” means the period beginning at 8am and ending at 6.30pm on any day from, and including, Monday to Friday except a public holiday and a local holiday agreed with the Board;
 - “**designated area of the Continental Shelf**” means any area which is for the time being designated by an Order in Council under section 1(7) of the Continental Shelf Act 1964 [^c22339071] as an area within which the rights of the United Kingdom with respect to the sea bed and subsoil and their natural resources may be exercised;
-- [^key-8ad565506774b8c7a90c6cacecbef8cb]...
+- [^c-8ad565506774b8c7a90c6cacecbef8cb]...
 - “**general health services**” means Part VI services being primary medical services, general dental services, general ophthalmic services or pharmaceutical services, provided under the Order;
 - “**GMS Contracts Regulations**” means the Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004 [^c22339091];
 - “**health professional**” means a person other than a social worker who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c22339101], (the Professional Standards Authority for Health and Social Care;
 - “**HSC trust**” means a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991 [^c22339111];
 - “**the Order**” means the Health and Personal Social Services (Northern Ireland) Order 1972”;
-- [^key-05b378d731820cd7936f65fbebe012f5]...
-- [^key-3474346456f2a76ea8e34a585e6fc877]...
-- [^key-1d1754cb5dfbf0fb289bb563f2cdd1b6]...
+- [^c-05b378d731820cd7936f65fbebe012f5]...
+- [^c-3474346456f2a76ea8e34a585e6fc877]...
+- [^c-1d1754cb5dfbf0fb289bb563f2cdd1b6]...
 - “**Personal Dental Services**” means dental services of a kind that may be provided by a general dental practitioner in accordance with Part VI of the Order;
 - “**Primary Medical Services**” means services of a kind that may be provided by a general medical practitioner in accordance with arrangements under Article 57A of the Order;
 - “**reciprocal agreement**” means arrangements mutually agreed between the Government of the United Kingdom and the Government of a country or territory outside the United Kingdom for the provision of health care;
@@ -94,7 +94,7 @@ where the submarine area is outside the seaward limits of the territorial limits
     - (i) arose after the visitor's arrival in the United Kingdom;
     - (ii) became acutely exacerbated after the visitor's arrival; or
     - (iii) but for the treatment would be likely to become acutely exacerbated after the visitor's arrival;
-- [^key-fd988e60e9143c37423dfd2b0666c0c9]...
+- [^c-fd988e60e9143c37423dfd2b0666c0c9]...
 - “**visitor**” means a person not ordinarily resident in Northern Ireland.
 
 (2) In calculating a period of residence in Northern Ireland for the purposes of these Regulations, any interruption by reason of temporary absence of not more than 182 days shall be disregarded. The temporary absence cannot include an absence where the visitor was not lawfully entitled to enter or remain in the United Kingdom.
@@ -217,7 +217,7 @@ No charge may be made or recovered in respect of any services forming part of he
 - (a) any pension or other benefit under a Personal Injuries Scheme or Service Pensions Instrument as defined in regulation 2(1) (interpretation) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland)1979 [^c22339271]; or
 - (b) a payment made under article 15(1)(c) (description of benefits – injury) or article 29(1) (description of benefits – death) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 [^c22339281].
 
-### 15A. Visitors exempt from charges – visitors from Ukraine[^key-0670fe844d8cff3717e3d44ff53d9c23]
+### 15A. Visitors exempt from charges – visitors from Ukraine[^c-0670fe844d8cff3717e3d44ff53d9c23]
 
 (1) No charge may be made or recovered in respect of any services forming part of health services provided to a visitor who—
 
@@ -307,7 +307,7 @@ No charge may be made or recovered in respect of any services forming part of he
 
 - (a) regulation 10 (human trafficking);
 - (b) regulation 13 (NATO forces);
-- (ba)[^key-6d1d877207f2d5924368ae7d8a9a5a19] regulation 15A(1) (visitors from Ukraine);
+- (ba)[^c-6d1d877207f2d5924368ae7d8a9a5a19] regulation 15A(1) (visitors from Ukraine);
 - (c) regulation 16 (Her Majesty's United Kingdom Forces, Crown servants and others);
 - (d) regulation 18 (missionaries).
 
@@ -357,7 +357,7 @@ Notwithstanding any provision in these Regulations, a visitor shall only be exem
 - (h) regulation 13 (NATO forces);
 - (i) regulation 14 (long term visits by United Kingdom pensioners);
 - (j) regulation 15 (war pensioners and armed forces compensation scheme payment recipients);
-- (ja)[^key-429db22c88eb548e5cbe7024262757d9] regulation 15A(1) (visitors from Ukraine);
+- (ja)[^c-429db22c88eb548e5cbe7024262757d9] regulation 15A(1) (visitors from Ukraine);
 - (k) regulation 16 (Her Majesty's United Kingdom Forces, Crown servants and others);
 - (l) regulation 17 (former residents working overseas);
 - (m) regulation 18 (missionaries);
@@ -368,7 +368,7 @@ Notwithstanding any provision in these Regulations, a visitor shall only be exem
 
 (2) Where general health services are provided to a visitor under this regulation no charge may be made or recovered in respect of those services, except to the extent that charges would be payable by a person ordinarily resident in Northern Ireland.
 
-### 25. Visiting patients under Directive 2011/24/EU[^key-61adf58b4ca924d7746aa7da6c867f07]
+### 25. Visiting patients under Directive 2011/24/EU[^c-61adf58b4ca924d7746aa7da6c867f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -413,12 +413,12 @@ Regulation 4(1)(d)
 - Botulism
 - Bruscellosis
 - Cholera
-- Coronavirus Disease (COVID-19)[^key-e24b0a7ab8d8a52ec35c5ca159aafe89]
+- Coronavirus Disease (COVID-19)[^c-e24b0a7ab8d8a52ec35c5ca159aafe89]
 - Diphtheria
 - Enteric fever (typhoid and paratyphoid fever)
 - Food poisoning
 - Haemolytic uraemic syndrome (HUS)
-- Hantavirus diseases, including hantavirus pulmonary or cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS)[^key-89992fb87628d44e35e2ef3e034e19fa]
+- Hantavirus diseases, including hantavirus pulmonary or cardiopulmonary syndrome (HCPS) and haemorrhagic fever with renal syndrome (HFRS)[^c-89992fb87628d44e35e2ef3e034e19fa]
 - Infectious bloody diarrhoea
 - Invasive group A streptococcal disease and scarlet fever
 - Invasive meningococcal disease (meningococcal meningitis, meningococcal septicaemia and other forms of invasive disease)
@@ -427,7 +427,7 @@ Regulation 4(1)(d)
 - Leptospirosis
 - Malaria
 - Measles
-- Monkeypox[^key-7400c864e65969d0c59ec685655b452e]
+- Monkeypox[^c-7400c864e65969d0c59ec685655b452e]
 - Mumps
 - Pandemic Influenza (defined as “phase 6” in the World Health Organisation's (“WHO”) influenza pandemic phrases, or influenza that might become pandemic (defined as “phase 4” or “Phase 5” by WHO)
 - Plague
@@ -448,43 +448,43 @@ Regulation 4(1)(d)
 Regulation 8, 21(1)(b)
 
 - Anguila
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Australia
-- Bailiwick of Guernsey[^key-df8ac50468023c95f2df19cd2f33c2c2]
-- [^key-105572608afc656f908d5ac896938ca2]...
-- [^key-105572608afc656f908d5ac896938ca2]...
-- [^key-105572608afc656f908d5ac896938ca2]...
-- Bosnia and Herzegovina[^key-b7c880f97bd63cd658a487c6a819a4c0]
+- Bailiwick of Guernsey[^c-df8ac50468023c95f2df19cd2f33c2c2]
+- [^c-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
+- Bosnia and Herzegovina[^c-b7c880f97bd63cd658a487c6a819a4c0]
 - British Virgin Islands
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Falkland Islands
 - Faroe Islands[^M_F_22742ff3-040f-40e0-e720-6d8ee179884d]
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Gibraltar
-- Iceland[^key-b9680184517fee73d416c9873858a7e8]
-- Ireland[^key-daf18e7d9b2c2b6db28db819f22a010d]
+- Iceland[^c-b9680184517fee73d416c9873858a7e8]
+- Ireland[^c-daf18e7d9b2c2b6db28db819f22a010d]
 - Isle of Man
 - Israel
 - Jersey
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Kosovo
-- Liechtenstein[^key-10f95c0c705fa92227f96016d45c9b02]
-- [^key-105572608afc656f908d5ac896938ca2]...
+- Liechtenstein[^c-10f95c0c705fa92227f96016d45c9b02]
+- [^c-105572608afc656f908d5ac896938ca2]...
 - North Macedonia
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Montenegro
 - Montserrat
 - New Zealand
 - Norway
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Serbia
 - St. Helena
 - Switzerland
-- [^key-105572608afc656f908d5ac896938ca2]...
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 - Turks & Caicos Islands
-- [^key-105572608afc656f908d5ac896938ca2]...
-- [^key-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
+- [^c-105572608afc656f908d5ac896938ca2]...
 
 *(This note is not part of the Regulations)*
 
@@ -518,9 +518,9 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339031]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-9f7751e489543716de5736b32ea48c1b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/27/regulation/2) renumbered as paragraph (a) (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2022/174/regulation/2/a)
+[^c-9f7751e489543716de5736b32ea48c1b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/27/regulation/2) renumbered as paragraph (a) (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2022/174/regulation/2/a)
 
-[^key-5cd3bd200a7ecf7b1316cfe030a42427]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/27/regulation/2) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/174/regulation/2/b)
+[^c-5cd3bd200a7ecf7b1316cfe030a42427]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/27/regulation/2) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/174/regulation/2/b)
 
 [^c22339041]: Marginal citation: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
 
@@ -530,7 +530,7 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339071]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)
 
-[^key-8ad565506774b8c7a90c6cacecbef8cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ad565506774b8c7a90c6cacecbef8cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22339091]: Marginal citation: S.R. [2004 No. 140](https://www.legislation.gov.uk/ukcm/2004/140) as amended by S.R. [2004 No. 477](https://www.legislation.gov.uk/ukcm/2004/477), S.R. 2005 Nos. 230 and 368, S.R. [2006 No. 319](https://www.legislation.gov.uk/ukcm/2006/319), S.R. 2013 Nos. 59 and 301.
 
@@ -538,11 +538,11 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339111]: Marginal citation: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-05b378d731820cd7936f65fbebe012f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05b378d731820cd7936f65fbebe012f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3474346456f2a76ea8e34a585e6fc877]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/c) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3474346456f2a76ea8e34a585e6fc877]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/c) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d1754cb5dfbf0fb289bb563f2cdd1b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(d)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/d) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d1754cb5dfbf0fb289bb563f2cdd1b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(d)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/d) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22339121]: Marginal citation: Cmd. 9171 of 1954
 
@@ -554,7 +554,7 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339161]: Marginal citation: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-fd988e60e9143c37423dfd2b0666c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd988e60e9143c37423dfd2b0666c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/27/regulation/2/1) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/2/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22339171]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
@@ -580,7 +580,7 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339281]: Marginal citation: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517)
 
-[^key-0670fe844d8cff3717e3d44ff53d9c23]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2015/27/regulation/15A) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/174/regulation/3)
+[^c-0670fe844d8cff3717e3d44ff53d9c23]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2015/27/regulation/15A) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/174/regulation/3)
 
 [^c22339291]: Marginal citation: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
 
@@ -600,11 +600,11 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339371]: Marginal citation: Cmd. 1667. The European Social Charter (CETS No. 35) was opened for signature in Turin on 18th October 1961. Article 13 provides the right to social and medical assistance.
 
-[^key-6d1d877207f2d5924368ae7d8a9a5a19]: Textual amendment: [Reg. 22(1)(ba)](https://www.legislation.gov.uk/nisr/2015/27/regulation/22/1/ba) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2022/174/regulation/4)
+[^c-6d1d877207f2d5924368ae7d8a9a5a19]: Textual amendment: [Reg. 22(1)(ba)](https://www.legislation.gov.uk/nisr/2015/27/regulation/22/1/ba) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2022/174/regulation/4)
 
-[^key-429db22c88eb548e5cbe7024262757d9]: Textual amendment: [Reg. 24(1)(ja)](https://www.legislation.gov.uk/nisr/2015/27/regulation/24/1/ja) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2022/174/regulation/5)
+[^c-429db22c88eb548e5cbe7024262757d9]: Textual amendment: [Reg. 24(1)(ja)](https://www.legislation.gov.uk/nisr/2015/27/regulation/24/1/ja) inserted (12.5.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/174)](https://www.legislation.gov.uk/nisr/2022/174), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/174/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2022/174/regulation/5)
 
-[^key-61adf58b4ca924d7746aa7da6c867f07]: Textual amendment: Reg. 25 omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/3) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61adf58b4ca924d7746aa7da6c867f07]: Textual amendment: Reg. 25 omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/784/regulation/9/3) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22339401]: Marginal citation: S.R. [2005 No. 551](https://www.legislation.gov.uk/ukcm/2005/551)
 
@@ -614,22 +614,22 @@ Regulation 27 provides for the revocation of the Provision of Health Services to
 
 [^c22339431]: Marginal citation: S.R. [2013 No. 302](https://www.legislation.gov.uk/ukcm/2013/302)
 
-[^key-e24b0a7ab8d8a52ec35c5ca159aafe89]: Textual amendment: Words in Sch. 1 inserted (7.3.2020) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/25)](https://www.legislation.gov.uk/nisr/2020/25), [regs. 1](https://www.legislation.gov.uk/nisr/2020/25/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/25/regulation/2)
+[^c-e24b0a7ab8d8a52ec35c5ca159aafe89]: Textual amendment: Words in Sch. 1 inserted (7.3.2020) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/25)](https://www.legislation.gov.uk/nisr/2020/25), [regs. 1](https://www.legislation.gov.uk/nisr/2020/25/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/25/regulation/2)
 
-[^key-89992fb87628d44e35e2ef3e034e19fa]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/27/schedule/1) inserted (19.6.2026) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/122)](https://www.legislation.gov.uk/nisr/2026/122), [regs. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/122/regulation/2)
+[^c-89992fb87628d44e35e2ef3e034e19fa]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/27/schedule/1) inserted (19.6.2026) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/122)](https://www.legislation.gov.uk/nisr/2026/122), [regs. 1](https://www.legislation.gov.uk/nisr/2026/122/regulation/1), [2](https://www.legislation.gov.uk/nisr/2026/122/regulation/2)
 
-[^key-7400c864e65969d0c59ec685655b452e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/27/schedule/1) inserted (7.7.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/195)](https://www.legislation.gov.uk/nisr/2022/195), [regs. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/195/regulation/2) (with [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2022/195/regulation/4/1/d))
+[^c-7400c864e65969d0c59ec685655b452e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/2015/27/schedule/1) inserted (7.7.2022) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/195)](https://www.legislation.gov.uk/nisr/2022/195), [regs. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/195/regulation/2) (with [reg. 4(1)(d)](https://www.legislation.gov.uk/nisr/2022/195/regulation/4/1/d))
 
-[^key-105572608afc656f908d5ac896938ca2]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) omitted (25.10.2021) by virtue of [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/c)
+[^c-105572608afc656f908d5ac896938ca2]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) omitted (25.10.2021) by virtue of [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/c)
 
-[^key-df8ac50468023c95f2df19cd2f33c2c2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/a)
+[^c-df8ac50468023c95f2df19cd2f33c2c2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/a)
 
-[^key-b7c880f97bd63cd658a487c6a819a4c0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) substituted (25.10.2021) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/a)
+[^c-b7c880f97bd63cd658a487c6a819a4c0]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) substituted (25.10.2021) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/a)
 
 [^M_F_22742ff3-040f-40e0-e720-6d8ee179884d]: Textual amendment: Words in Sch. 2 inserted (25.10.2021) by The Provision of Health Services to [Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/2), [2(b)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/b)
 
-[^key-b9680184517fee73d416c9873858a7e8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/b)
+[^c-b9680184517fee73d416c9873858a7e8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/b)
 
-[^key-daf18e7d9b2c2b6db28db819f22a010d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (25.10.2021) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/b)
+[^c-daf18e7d9b2c2b6db28db819f22a010d]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (25.10.2021) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/286)](https://www.legislation.gov.uk/nisr/2021/286), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/286/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/286/regulation/2/b)
 
-[^key-10f95c0c705fa92227f96016d45c9b02]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/c)
+[^c-10f95c0c705fa92227f96016d45c9b02]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/nisr/2015/27/schedule/2) inserted (1.1.2024) by [The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/213)](https://www.legislation.gov.uk/nisr/2023/213), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/213/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2023/213/regulation/2/c)

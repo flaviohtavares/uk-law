@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Implementation: duties of local authority[^key-b0fa43a267c86d5bf247c8a2c9581b02]
+## 8. Implementation: duties of local authority[^c-b0fa43a267c86d5bf247c8a2c9581b02]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0fa43a267c86d5bf247c8a2c9581b02]: Commencement: S. 8 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-b0fa43a267c86d5bf247c8a2c9581b02]: Commencement: S. 8 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Meaning of “sham marriage” and “sham civil partnership”[^key-4c0dd7989a68ce4c6f55523d299929fc][^M_C_bbf7f1cc-01e9-4b94-b74f-f24b46180407]
+## 55. Meaning of “sham marriage” and “sham civil partnership”[^c-4c0dd7989a68ce4c6f55523d299929fc][^M_C_bbf7f1cc-01e9-4b94-b74f-f24b46180407]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c0dd7989a68ce4c6f55523d299929fc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/22/section/55) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/i)
+[^c-4c0dd7989a68ce4c6f55523d299929fc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/22/section/55) in force at 1.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/i)
 
 [^M_C_bbf7f1cc-01e9-4b94-b74f-f24b46180407]: Modification: S. 55 extended (Isle of Man) (with modifications) (31.12.2020) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22(2)](https://www.legislation.gov.uk/uksi/2008/680/article/22/2), [Sch. 9A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A) (as amended by [The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214)](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [5](https://www.legislation.gov.uk/uksi/2020/1214/article/5), [12](https://www.legislation.gov.uk/uksi/2020/1214/article/12) and as further amended (11.11.2021) by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1277/article/6))

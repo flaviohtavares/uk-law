@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Deposits[^key-79a6f10f378b57f2d663e97df2468b4c]
+## 131. Deposits[^c-79a6f10f378b57f2d663e97df2468b4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In determining under these Regulations the amount that an applicant or bidder ha
 
 ## Annotations
 
-[^key-79a6f10f378b57f2d663e97df2468b4c]: Commencement: Reg. 131 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-79a6f10f378b57f2d663e97df2468b4c]: Commencement: Reg. 131 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

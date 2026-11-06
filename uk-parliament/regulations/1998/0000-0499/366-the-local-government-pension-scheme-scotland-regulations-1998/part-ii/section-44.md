@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Children’s short-term pensions[^key-4df8db910baef36246be3503cc172b4c]
+## 44. Children’s short-term pensions[^c-4df8db910baef36246be3503cc172b4c]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ the long-term pension shall be payable instead of the short-term pension.
 
 ## Annotations
 
-[^key-4df8db910baef36246be3503cc172b4c]: Commencement: Reg. 44 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-4df8db910baef36246be3503cc172b4c]: Commencement: Reg. 44 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Ways in which looked after children are to be accommodated and maintained[^key-3ddcdffbe2cae7f1666a2e3592e5eeef][^key-173f0895d5ebb188a30cd9077f9deda2]
+## 81. Ways in which looked after children are to be accommodated and maintained[^c-3ddcdffbe2cae7f1666a2e3592e5eeef][^c-173f0895d5ebb188a30cd9077f9deda2]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) P is a parent of C,
 - (b) P is not a parent of C but has parental responsibility for C, or
-- (c) in a case where C is in the care of the local authority and there was a child arrangements order[^key-94ce75d044c2e7ab22d492d630bb0bf9] in force with respect to C immediately before the care order was made, P was named in the child arrangements order as a person with whom the child was to live[^key-2cb404cebbf91a936731c12885efaa1c].
+- (c) in a case where C is in the care of the local authority and there was a child arrangements order[^c-94ce75d044c2e7ab22d492d630bb0bf9] in force with respect to C immediately before the care order was made, P was named in the child arrangements order as a person with whom the child was to live[^c-2cb404cebbf91a936731c12885efaa1c].
 
 (4) Subsection (2) does not require the local authority to make arrangements of the kind mentioned in that subsection if doing so—
 
@@ -84,10 +84,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3ddcdffbe2cae7f1666a2e3592e5eeef]: Commencement: S. 81 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-3ddcdffbe2cae7f1666a2e3592e5eeef]: Commencement: S. 81 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-173f0895d5ebb188a30cd9077f9deda2]: Modification: S. 81 excluded by S.I. 2012/2813, reg. 2A(a) (as inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 131](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/131))
+[^c-173f0895d5ebb188a30cd9077f9deda2]: Modification: S. 81 excluded by S.I. 2012/2813, reg. 2A(a) (as inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 131](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/131))
 
-[^key-94ce75d044c2e7ab22d492d630bb0bf9]: Textual amendment: Words in s. 81 substituted (1.12.2017) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2017 (S.I. 2017/1025)](https://www.legislation.gov.uk/wsi/2017/1025), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1025/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2017/1025/regulation/4/2)
+[^c-94ce75d044c2e7ab22d492d630bb0bf9]: Textual amendment: Words in s. 81 substituted (1.12.2017) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2017 (S.I. 2017/1025)](https://www.legislation.gov.uk/wsi/2017/1025), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1025/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2017/1025/regulation/4/2)
 
-[^key-2cb404cebbf91a936731c12885efaa1c]: Textual amendment: Words in [s. 81(3)(c)](https://www.legislation.gov.uk/anaw/2014/4/section/81/3/c) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 21(3)](https://www.legislation.gov.uk/asc/2025/1/section/21/3), [29(1)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/i)
+[^c-2cb404cebbf91a936731c12885efaa1c]: Textual amendment: Words in [s. 81(3)(c)](https://www.legislation.gov.uk/anaw/2014/4/section/81/3/c) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 21(3)](https://www.legislation.gov.uk/asc/2025/1/section/21/3), [29(1)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/i)

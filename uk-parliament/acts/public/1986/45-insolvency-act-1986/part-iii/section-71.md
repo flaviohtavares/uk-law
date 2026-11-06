@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Prescription of forms, etc.; regulations.[^c15571441][^key-884ddc24a36ce2a8ecacda75c83697f7]
+## 71. Prescription of forms, etc.; regulations.[^c15571441][^c-884ddc24a36ce2a8ecacda75c83697f7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c15571441]: Modification: S. 71 applied (with modifications) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-884ddc24a36ce2a8ecacda75c83697f7]: Modification: [S. 71](https://www.legislation.gov.uk/ukpga/1986/45/section/71) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-884ddc24a36ce2a8ecacda75c83697f7]: Modification: [S. 71](https://www.legislation.gov.uk/ukpga/1986/45/section/71) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))

@@ -42,15 +42,15 @@ Coming into operation in accordance with Article 1
 
 The Department of Finance[^f00001] makes the following Order in exercise of the powers conferred by Article 42(1G) of the Rates (Northern Ireland) Order 1977[^f00002].
 
-## 1. Citation and commencement[^key-2a6deef5e6f4fdd5fabe223cc8a65c06]
+## 1. Citation and commencement[^c-2a6deef5e6f4fdd5fabe223cc8a65c06]
 
 This Order may be cited as the Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2026 and comes into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
-## 2. Definition of “relevant year”[^key-51c92bfac5ffa943b855204c873c0818]
+## 2. Definition of “relevant year”[^c-51c92bfac5ffa943b855204c873c0818]
 
 For the purposes of the definition of “relevant year” in Article 42(1G) of the Rates (Northern Ireland) Order 1977 the Department of Finance specifies the later date of 1st April 2027.
 
-## 3. Revocation[^key-3c9fe7297388b24b1bf2682896c74eb6]
+## 3. Revocation[^c-3c9fe7297388b24b1bf2682896c74eb6]
 
 The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2025[^f00003] is revoked.
 
@@ -76,10 +76,10 @@ This Order also revokes the Rates (Exemption for Automatic Telling Machines in R
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 42(1G) was inserted by Article 25 of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954))
 
-[^key-2a6deef5e6f4fdd5fabe223cc8a65c06]: Commencement: Art. 1 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/22/article/1)
+[^c-2a6deef5e6f4fdd5fabe223cc8a65c06]: Commencement: Art. 1 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/22/article/1)
 
-[^key-51c92bfac5ffa943b855204c873c0818]: Commencement: Art. 2 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/22/article/1)
+[^c-51c92bfac5ffa943b855204c873c0818]: Commencement: Art. 2 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/22/article/1)
 
-[^key-3c9fe7297388b24b1bf2682896c74eb6]: Commencement: Art. 3 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/22/article/1)
+[^c-3c9fe7297388b24b1bf2682896c74eb6]: Commencement: Art. 3 in operation at 11.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/22/article/1)
 
 [^f00003]: Footnote: [S.R. 2025 No. 28](https://www.legislation.gov.uk/nisr/2025/28)

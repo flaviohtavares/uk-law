@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-7f7af64e17017b59d4f9c33177e5ee7b]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-7f7af64e17017b59d4f9c33177e5ee7b]
 
 | (1) Area | (2) Public rights of way to be temporarily closed | (3) Extent of temporary closure by reference to the identifiers on the access, rights of way and streets plan |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Article 12
 | Horsham District | Footpath 1782 | From 48a to 48b shown on sheet 32 |
 | Horsham District | Footpath 1783 | From 49a to 49b shown on sheet 32 |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND A TEMPORARY SUBSTITUTE PROVIDED[^key-329a614bcca59c7567fbdadbcffd4c97]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND A TEMPORARY SUBSTITUTE PROVIDED[^c-329a614bcca59c7567fbdadbcffd4c97]
 
 | (1) Area | (2) Public rights of way to be temporarily closed | (3) Extent of temporary closure by reference to the identifiers on the access, rights of way and streets plan | (4) Temporary public right of way to be substituted |
 | --- | --- | --- | --- |
@@ -87,7 +87,7 @@ Article 12
 | Horsham District | Footpath 1789 | 53a to 53b | Along a route shown indicatively by a dotted yellow line between identifiers 53a and 53b marked T25 on sheet 33 |
 | Mid-Sussex District | Footpath 36B/1T | 54a to 54b | Along a route shown indicatively by a dotted yellow line between identifiers 54a and 54b marked T26 on sheet 34 |
 
-### PART 3 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND A TEMPORARY SUBSTITUTE TO BE AGREED[^key-850f981ced0b80f2ce569b2cdab6daa0]
+### PART 3 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND A TEMPORARY SUBSTITUTE TO BE AGREED[^c-850f981ced0b80f2ce569b2cdab6daa0]
 
 | (1) Area | (2) Public rights of way to be temporarily closed | (3) Extent of temporary closure by reference to the identifiers on the access, rights of way and streets plan |
 | --- | --- | --- |
@@ -97,8 +97,8 @@ Article 12
 
 ## Annotations
 
-[^key-7f7af64e17017b59d4f9c33177e5ee7b]: Commencement: Sch. 4 Pt. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-7f7af64e17017b59d4f9c33177e5ee7b]: Commencement: Sch. 4 Pt. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-329a614bcca59c7567fbdadbcffd4c97]: Commencement: Sch. 4 Pt. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-329a614bcca59c7567fbdadbcffd4c97]: Commencement: Sch. 4 Pt. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-850f981ced0b80f2ce569b2cdab6daa0]: Commencement: Sch. 4 Pt. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-850f981ced0b80f2ce569b2cdab6daa0]: Commencement: Sch. 4 Pt. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

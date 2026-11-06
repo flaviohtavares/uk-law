@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-9b8fe779aa64ed561a87c73acb4ad806]
+## 1. Citation and commencement[^c-9b8fe779aa64ed561a87c73acb4ad806]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the M20 Junction 10a Development Consent Order 2017 a
 
 ## Annotations
 
-[^key-9b8fe779aa64ed561a87c73acb4ad806]: Commencement: Art. 1 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-9b8fe779aa64ed561a87c73acb4ad806]: Commencement: Art. 1 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

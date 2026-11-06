@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Article 158: supplementary[^key-05ec9a872c9de2a3ddbd6db4d5a11d39]
+## 159. Article 158: supplementary[^c-05ec9a872c9de2a3ddbd6db4d5a11d39]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05ec9a872c9de2a3ddbd6db4d5a11d39]: Textual amendment: [Art. 159](https://www.legislation.gov.uk/nisi/1995/3213/article/159) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [5(6)](https://www.legislation.gov.uk/nisr/2012/124/article/5/6)
+[^c-05ec9a872c9de2a3ddbd6db4d5a11d39]: Textual amendment: [Art. 159](https://www.legislation.gov.uk/nisi/1995/3213/article/159) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [5(6)](https://www.legislation.gov.uk/nisr/2012/124/article/5/6)

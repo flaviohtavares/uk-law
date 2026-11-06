@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Assignment stage bid deposit[^key-e3f524a14120e2ebe65ec79d1d3aad4b]
+## 94. Assignment stage bid deposit[^c-e3f524a14120e2ebe65ec79d1d3aad4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ where—
 
 ## Annotations
 
-[^key-e3f524a14120e2ebe65ec79d1d3aad4b]: Commencement: Reg. 94 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e3f524a14120e2ebe65ec79d1d3aad4b]: Commencement: Reg. 94 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216B. Use of CIL in an area to which section 216A(1) duty does not relate[^key-973b1403d748db510de611886e11e075]
+## 216B. Use of CIL in an area to which section 216A(1) duty does not relate[^c-973b1403d748db510de611886e11e075]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-973b1403d748db510de611886e11e075]: Textual amendment: S. 216A - S. 216B inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 115(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/115/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/g) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6) [7](https://www.legislation.gov.uk/uksi/2012/57/article/7) [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-973b1403d748db510de611886e11e075]: Textual amendment: S. 216A - S. 216B inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 115(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/115/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/g) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6) [7](https://www.legislation.gov.uk/uksi/2012/57/article/7) [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

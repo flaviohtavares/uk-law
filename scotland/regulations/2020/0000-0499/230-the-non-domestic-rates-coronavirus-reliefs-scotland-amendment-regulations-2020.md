@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Amendment Regulations 2020 (revoked)[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
+The Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Amendment Regulations 2020 (revoked)[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 5th September 2020
 
-[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
+## 1. Citation and commencement[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
+## 2. Amendment of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland) Regulations 2020[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential and corrective amendments[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
+## 3. Consequential and corrective amendments[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbc7b0cbb8f0c3ae25367cd7a042f2dd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2020/230) revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [10(1)(b)](https://www.legislation.gov.uk/ssi/2025/38/regulation/10/1/b) (with [reg. 10(2)](https://www.legislation.gov.uk/ssi/2025/38/regulation/10/2))
+[^c-fbc7b0cbb8f0c3ae25367cd7a042f2dd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2020/230) revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [10(1)(b)](https://www.legislation.gov.uk/ssi/2025/38/regulation/10/1/b) (with [reg. 10(2)](https://www.legislation.gov.uk/ssi/2025/38/regulation/10/2))

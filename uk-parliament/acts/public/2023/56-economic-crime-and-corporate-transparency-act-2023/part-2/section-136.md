@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. The register of limited partnerships[^key-d4d795d1ca403ac6c2670570039b8062]
+## 136. The register of limited partnerships[^c-d4d795d1ca403ac6c2670570039b8062]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Limited Partnerships Act 1907 is amended as follows.
 
-(2)[^key-580e11e17ce4d1626378440b116bc909] In section 3 (interpretation of terms), in subsection (1) (created by section 110 of this Act), at the appropriate place insert—
+(2)[^c-580e11e17ce4d1626378440b116bc909] In section 3 (interpretation of terms), in subsection (1) (created by section 110 of this Act), at the appropriate place insert—
 
 > - “**the register of limited partnerships**” means the records kept by the registrar under section 1080 of the Companies Act 2006 relating to limited partnerships;
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4d795d1ca403ac6c2670570039b8062]: Commencement: S. 136 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d4d795d1ca403ac6c2670570039b8062]: Commencement: S. 136 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-580e11e17ce4d1626378440b116bc909]: Commencement: [S. 136(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/136/2) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/d)
+[^c-580e11e17ce4d1626378440b116bc909]: Commencement: [S. 136(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/136/2) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/d)

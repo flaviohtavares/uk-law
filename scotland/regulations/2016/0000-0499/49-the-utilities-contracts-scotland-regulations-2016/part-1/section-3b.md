@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3B. Regulation of procurement under cross-border arrangements[^key-84b1ce2fc423c29146e1679d7d418ca3]
+## 3B. Regulation of procurement under cross-border arrangements[^c-84b1ce2fc423c29146e1679d7d418ca3]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b1ce2fc423c29146e1679d7d418ca3]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2016/49/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2016/49/regulation/3B) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/392/regulation/3/2)
+[^c-84b1ce2fc423c29146e1679d7d418ca3]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2016/49/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2016/49/regulation/3B) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/392/regulation/3/2)

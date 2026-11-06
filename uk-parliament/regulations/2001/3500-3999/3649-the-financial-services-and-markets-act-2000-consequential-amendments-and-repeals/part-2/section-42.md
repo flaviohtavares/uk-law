@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. References to the Companies Orders in certain provisions to include references to the Financial Services and Markets Act 2000[^key-30ecb23eed3ce3f74ee6deaa348f8f99]
+## 42. References to the Companies Orders in certain provisions to include references to the Financial Services and Markets Act 2000[^c-30ecb23eed3ce3f74ee6deaa348f8f99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Article 2B of the 1986 Order (construction of certain references to the Compa
 
 ## Annotations
 
-[^key-30ecb23eed3ce3f74ee6deaa348f8f99]: Commencement: Art. 42 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-30ecb23eed3ce3f74ee6deaa348f8f99]: Commencement: Art. 42 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00046]: Footnote: Inserted by the [Companies (No. 2) (NI) Order 1990 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504), article 62(1).

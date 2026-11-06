@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 353. Interpretation[^key-5f1daf6c9827be8ddf125380b11ef3dc]
+## 353. Interpretation[^c-5f1daf6c9827be8ddf125380b11ef3dc]
 
 *Extent: E+W+S*
 
@@ -39,12 +39,12 @@ summary: ''
 - “**club machine permit**” has the meaning given by section 273,
 - “**commercial club**” has the meaning given by section 267,
 - “**the Commission**” means the Gambling Commission,
-- “director”—[^key-3bb855cb93b591eb9180d6afdc31fceb]
+- “director”—[^c-3bb855cb93b591eb9180d6afdc31fceb]
   - (a) has the meaning given by section 250 of the Companies Act 2006, and
   - (b) includes a shadow director within the meaning of section 251 of that Act,
 - “**dog track**” means premises which are designed, used or adapted for use for dog-racing,
 - “**draw**”, in relation to a lottery, has the meaning given by section 255,
-- [^key-b89ffda6109ed611848c6a2f7be71983]...
+- [^c-b89ffda6109ed611848c6a2f7be71983]...
 - “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament,
 - “**enforcement officer**” means a person designated or appointed as an enforcement officer under section 303,
 - “**equal chance gaming**” has the meaning given by section 8,
@@ -163,8 +163,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5f1daf6c9827be8ddf125380b11ef3dc]: Commencement: S. 353 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-5f1daf6c9827be8ddf125380b11ef3dc]: Commencement: S. 353 in force at 1.1.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-3bb855cb93b591eb9180d6afdc31fceb]: Textual amendment: Words in s. 353(1) substituted (1.10.2007) by [Companies Act 2006 (Commencement No.3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 109](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/109) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-3bb855cb93b591eb9180d6afdc31fceb]: Textual amendment: Words in s. 353(1) substituted (1.10.2007) by [Companies Act 2006 (Commencement No.3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 109](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/109) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-b89ffda6109ed611848c6a2f7be71983]: Textual amendment: Words in s. 353(1) omitted (31.12.2020) by virtue of [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 36(3)](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/36/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b89ffda6109ed611848c6a2f7be71983]: Textual amendment: Words in s. 353(1) omitted (31.12.2020) by virtue of [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 36(3)](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/36/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

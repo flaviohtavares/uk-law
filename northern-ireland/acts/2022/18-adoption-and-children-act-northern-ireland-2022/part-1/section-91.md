@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Modification of section 66 for Hague Convention adoptions[^key-becfea7d08f199ece6773aa49f618fac]
+## 91. Modification of section 66 for Hague Convention adoptions[^c-becfea7d08f199ece6773aa49f618fac]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-becfea7d08f199ece6773aa49f618fac]: Commencement: S. 91 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-becfea7d08f199ece6773aa49f618fac]: Commencement: S. 91 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

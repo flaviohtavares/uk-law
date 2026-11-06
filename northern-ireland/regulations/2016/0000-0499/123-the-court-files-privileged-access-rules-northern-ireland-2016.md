@@ -61,7 +61,7 @@ In these Rules—
   - (b) In the case of a court file which has been transferred to the Office from a Northern Ireland Department, the Northern Ireland Minister who appears to the Minister to be primarily concerned; or
   - (c) In the case of a record transferred to the Office by any other person, the person who appears to the Minister to be primarily concerned.
 - “**Solicitor**” has the same meaning as in article 3 of the Solicitors (Northern Ireland) Order 1976.
-- “[^key-96ec57841a9632e30ab110a14cd7d365]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+- “[^c-96ec57841a9632e30ab110a14cd7d365]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
 
 ## 3. Persons who may apply for court files
 
@@ -96,9 +96,9 @@ In these Rules—
 
 ## 5. Information that may be released
 
-A court file shall be deemed eligible for release under these Rules only to the extent that the release of the information complies with the Data Protection Principles set out in —[^key-749efaf5abb90fb4bf37712579327509]
+A court file shall be deemed eligible for release under these Rules only to the extent that the release of the information complies with the Data Protection Principles set out in —[^c-749efaf5abb90fb4bf37712579327509]
 
-- (a) Article 5(1) of the UK GDPR[^key-060a983b27021fee6000340e2685791f] , and
+- (a) Article 5(1) of the UK GDPR[^c-060a983b27021fee6000340e2685791f] , and
 - (b) section 34(1) of the Data Protection Act 2018.
 
 ## 6. Ministerial decision and duty on the Department to consult
@@ -109,9 +109,9 @@ Prior to the Minister making a decision about the release of a court file under 
 
 (1) An applicant who meets the eligibility criteria set out at rule 3(1) may be provided by the Department with all information deemed eligible for release.
 
-(2) Without prejudice to the generality of rule 7(3), the Department shall review any requested court file to ensure that its release complies with the Data Protection Principles set out in —[^key-c9c8d67f9b8ab2e12b83ee684f9eba49]
+(2) Without prejudice to the generality of rule 7(3), the Department shall review any requested court file to ensure that its release complies with the Data Protection Principles set out in —[^c-c9c8d67f9b8ab2e12b83ee684f9eba49]
 
-- (a) Article 5(1) of the UK GDPR[^key-b9b352b4e3bd6abcac5fbc112b5b95c6] , and
+- (a) Article 5(1) of the UK GDPR[^c-b9b352b4e3bd6abcac5fbc112b5b95c6] , and
 - (b) section 34(1) of the Data Protection Act 2018.
 
 (3) The Minister may withhold the whole or part of any court file and may impose such conditions, as the Minister sees fit, on the release of the whole or part of any court file.
@@ -321,14 +321,14 @@ The Rules set out the criteria a person must fulfil to be eligible to receive in
 
 [^c22845561]: Marginal citation: [2008 c.12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12)
 
-[^key-96ec57841a9632e30ab110a14cd7d365]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2016/123/rule/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 103](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/103) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96ec57841a9632e30ab110a14cd7d365]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/2016/123/rule/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 103](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/103) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-749efaf5abb90fb4bf37712579327509]: Textual amendment: Words in rule 5 substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 408](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/408) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-749efaf5abb90fb4bf37712579327509]: Textual amendment: Words in rule 5 substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 408](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/408) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-060a983b27021fee6000340e2685791f]: Textual amendment: Words in [rule 5(a)](https://www.legislation.gov.uk/nisr/2016/123/rule/5/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 104](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/104) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-060a983b27021fee6000340e2685791f]: Textual amendment: Words in [rule 5(a)](https://www.legislation.gov.uk/nisr/2016/123/rule/5/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 104](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/104) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9c8d67f9b8ab2e12b83ee684f9eba49]: Textual amendment: Words in rule 7(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 409](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/409) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c9c8d67f9b8ab2e12b83ee684f9eba49]: Textual amendment: Words in rule 7(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 409](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/409) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-b9b352b4e3bd6abcac5fbc112b5b95c6]: Textual amendment: Words in [rule 7(2)(a)](https://www.legislation.gov.uk/nisr/2016/123/rule/7/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/105) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9b352b4e3bd6abcac5fbc112b5b95c6]: Textual amendment: Words in [rule 7(2)(a)](https://www.legislation.gov.uk/nisr/2016/123/rule/7/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/105) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22845581]: Marginal citation: [1959 c.15 (N.I.)](https://www.legislation.gov.uk/apni/1959/15)

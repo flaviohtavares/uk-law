@@ -52,7 +52,7 @@ summary: ''
   - (ii) on indictment, with a fine or with imprisonment for a term not exceeding 5 years, or both; and
 - (k) conferring on courts power, on conviction of a person of such an offence, to order the taking by that person of steps by way of remedial action.
 
-(4)[^key-dca54c432c74d2a18254dc78d319b9fb][^key-4ad077cc4fbe1b7030753caa1e21554e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dca54c432c74d2a18254dc78d319b9fb][^c-4ad077cc4fbe1b7030753caa1e21554e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) References in this Article to a waterway shall not include references to any adit or passage constructed in connection with a well, borehole or other similar work for facilitating the collection of water in the well, borehole or work.
 
@@ -72,6 +72,6 @@ at a time when the licence is in force and in circumstances such that, if no suc
 
 [^c19613931]: Textual amendment: Art. 20 substituted (1.8.2006) by [Water and Sewerage Services (Miscellaneous Provisions) (Northern Ireland) Order 2006 (S.I. 2006/1946 (N.I. 15))](https://www.legislation.gov.uk/nisi/2006/1946), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1946/article/1/2), [5(2)](https://www.legislation.gov.uk/nisi/2006/1946/article/5/2)
 
-[^key-dca54c432c74d2a18254dc78d319b9fb]: Textual amendment: [Art. 20(4)](https://www.legislation.gov.uk/nisi/1999/662/article/20/4) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 67](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/67) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-dca54c432c74d2a18254dc78d319b9fb]: Textual amendment: [Art. 20(4)](https://www.legislation.gov.uk/nisi/1999/662/article/20/4) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 67](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/67) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-4ad077cc4fbe1b7030753caa1e21554e]: Modification: Art. 20(4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-4ad077cc4fbe1b7030753caa1e21554e]: Modification: Art. 20(4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

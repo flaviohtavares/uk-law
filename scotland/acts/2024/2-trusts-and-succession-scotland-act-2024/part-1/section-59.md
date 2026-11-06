@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Agreement or approval for purposes of section 58(2)[^key-85a932969607b5cf6df2757a23180c36]
+## 59. Agreement or approval for purposes of section 58(2)[^c-85a932969607b5cf6df2757a23180c36]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85a932969607b5cf6df2757a23180c36]: Commencement: S. 59 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-85a932969607b5cf6df2757a23180c36]: Commencement: S. 59 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

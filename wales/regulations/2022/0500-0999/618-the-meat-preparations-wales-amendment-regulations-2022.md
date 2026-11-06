@@ -31,7 +31,7 @@ summary: ''
 
 Food, Wales
 
-The Meat Preparations (Wales) (Amendment) Regulations 2022 (revoked)[^key-760662c06b347677fd114acc8ca0ee1e]
+The Meat Preparations (Wales) (Amendment) Regulations 2022 (revoked)[^c-760662c06b347677fd114acc8ca0ee1e]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 29 June 2022
 
-[^key-760662c06b347677fd114acc8ca0ee1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-760662c06b347677fd114acc8ca0ee1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-760662c06b347677fd114acc8ca0ee1e]
+## 1. Title and commencement[^c-760662c06b347677fd114acc8ca0ee1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Meat Preparations (Amendment and Transitory Modification) (Wales) (EU Exit) Regulations 2021[^key-760662c06b347677fd114acc8ca0ee1e]
+## 2. Amendment to the Meat Preparations (Amendment and Transitory Modification) (Wales) (EU Exit) Regulations 2021[^c-760662c06b347677fd114acc8ca0ee1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760662c06b347677fd114acc8ca0ee1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-760662c06b347677fd114acc8ca0ee1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-760662c06b347677fd114acc8ca0ee1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-760662c06b347677fd114acc8ca0ee1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-760662c06b347677fd114acc8ca0ee1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/618) revoked (28.4.2024) by [The Meat Preparations (Amendment) (Wales) Regulations 2024 (S.I. 2024/502)](https://www.legislation.gov.uk/wsi/2024/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/502/regulation/1/2), [3(e)](https://www.legislation.gov.uk/wsi/2024/502/regulation/3/e)
+[^c-760662c06b347677fd114acc8ca0ee1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/618) revoked (28.4.2024) by [The Meat Preparations (Amendment) (Wales) Regulations 2024 (S.I. 2024/502)](https://www.legislation.gov.uk/wsi/2024/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/502/regulation/1/2), [3(e)](https://www.legislation.gov.uk/wsi/2024/502/regulation/3/e)

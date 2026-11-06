@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Reporting on breaches of duties[^key-03c407fd91dc93ea22c780edcfb29552]
+## 4. Reporting on breaches of duties[^c-03c407fd91dc93ea22c780edcfb29552]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03c407fd91dc93ea22c780edcfb29552]: Commencement: S. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-03c407fd91dc93ea22c780edcfb29552]: Commencement: S. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

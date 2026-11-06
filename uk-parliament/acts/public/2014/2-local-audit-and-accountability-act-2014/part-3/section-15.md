@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Further provisions about liability limitation agreements[^key-63e84935df61e8d4230cebb9edaa9efe]
+## 15. Further provisions about liability limitation agreements[^c-63e84935df61e8d4230cebb9edaa9efe]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63e84935df61e8d4230cebb9edaa9efe]: Commencement: S. 15 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(l)](https://www.legislation.gov.uk/uksi/2015/841/article/3/l)
+[^c-63e84935df61e8d4230cebb9edaa9efe]: Commencement: S. 15 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(l)](https://www.legislation.gov.uk/uksi/2015/841/article/3/l)

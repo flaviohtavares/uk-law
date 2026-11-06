@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Investigations: procedure etc.[^key-e4e351736c473f3ae8f4f2e7680d6d54]
+## 66. Investigations: procedure etc.[^c-e4e351736c473f3ae8f4f2e7680d6d54]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ After section 41C of the 2006 Act (inserted by section 65), insert—
 
 ## Annotations
 
-[^key-e4e351736c473f3ae8f4f2e7680d6d54]: Commencement: S. 66 in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2012/253/article/6))
+[^c-e4e351736c473f3ae8f4f2e7680d6d54]: Commencement: S. 66 in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2012/253/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 115C. Regulations: the Scottish Ministers[^key-99636b4b3a30e5a060c899bc7ba7511b]
+## Article 115C. Regulations: the Scottish Ministers[^c-99636b4b3a30e5a060c899bc7ba7511b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99636b4b3a30e5a060c899bc7ba7511b]: Textual amendment: Arts. 115-115D substituted for Art. 115 (31.1.2020 in so far as they relate to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/10/2); and Arts. 115-115D substituted for Art. 115 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [27](https://www.legislation.gov.uk/uksi/2019/748/regulation/27) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99636b4b3a30e5a060c899bc7ba7511b]: Textual amendment: Arts. 115-115D substituted for Art. 115 (31.1.2020 in so far as they relate to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/10/2); and Arts. 115-115D substituted for Art. 115 (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [27](https://www.legislation.gov.uk/uksi/2019/748/regulation/27) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

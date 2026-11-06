@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Procedure for issuing Charters[^key-9d785891be84b3bc49e2d10dd1cd6032]
+## 31. Procedure for issuing Charters[^c-9d785891be84b3bc49e2d10dd1cd6032]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d785891be84b3bc49e2d10dd1cd6032]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2015/9/section/31) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/320/article/2/c)
+[^c-9d785891be84b3bc49e2d10dd1cd6032]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2015/9/section/31) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/320/article/2/c)

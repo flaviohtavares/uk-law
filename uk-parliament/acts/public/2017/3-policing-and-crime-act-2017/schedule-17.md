@@ -24,11 +24,11 @@ Section 119
 
 ### Part 1 — Amendments of Part 10 of the Criminal Justice and Public Order Act 1994
 
-**1.**[^c22728431][^key-c932c317a7477c699d851f109c4433d4] Part 10 of the Criminal Justice and Public Order Act 1994 (cross-border enforcement) is amended in accordance with paragraphs 2 to 8.
+**1.**[^c22728431][^c-c932c317a7477c699d851f109c4433d4] Part 10 of the Criminal Justice and Public Order Act 1994 (cross-border enforcement) is amended in accordance with paragraphs 2 to 8.
 
 #### Powers of constables of PSNI etc under section 137
 
-**2.**[^c22728441][^key-a267af82b9d2aa526e0355e7e82790ab] (1) Section 137 (cross-border powers of arrest etc.) is amended as follows.
+**2.**[^c22728441][^c-a267af82b9d2aa526e0355e7e82790ab] (1) Section 137 (cross-border powers of arrest etc.) is amended as follows.
 
 (2) In subsection (3), for “the conditions applicable to this subsection are satisfied” substitute “ the condition applicable to this subsection is satisfied ”.
 
@@ -38,11 +38,11 @@ Section 119
 
 (4) In subsection (9), omit the definition of “arrestable offence”.
 
-**3.**[^c22728461][^key-312d0aa89b5a399bbfbc2fe016bef1ef] In section 138 (powers of arrest: supplementary provisions), omit subsections (3) to (5).
+**3.**[^c22728461][^c-312d0aa89b5a399bbfbc2fe016bef1ef] In section 138 (powers of arrest: supplementary provisions), omit subsections (3) to (5).
 
 #### Powers to search premises under section 139
 
-**4.**[^c22728471][^key-faf33f2d9bcbb7520d5b434f32626e83] (1) Section 139 (search powers available on arrests under sections 136 and 137) is amended as follows.
+**4.**[^c22728471][^c-faf33f2d9bcbb7520d5b434f32626e83] (1) Section 139 (search powers available on arrests under sections 136 and 137) is amended as follows.
 
 (2) In the heading, for “sections 136 and 137” substitute “ sections 136, 137 and 137A ”.
 
@@ -109,14 +109,14 @@ Section 119
 
 #### Reciprocal powers of arrest - minor correction
 
-**5.**[^c22728481][^key-0ea68ebae7db8240020d667d065aedbe] In section 140 (reciprocal powers of arrest)—
+**5.**[^c22728481][^c-0ea68ebae7db8240020d667d065aedbe] In section 140 (reciprocal powers of arrest)—
 
 - (a) in subsection (1), for the words in brackets substitute “ (arrest without warrant) ”;
 - (b) in subsection (5), for the words in the second set of brackets substitute “ (arrest without warrant) ”.
 
 #### References to the British Transport Commission Act 1949 - updating
 
-**6.**[^c22728491][^key-601e07f2a45d31348a4273e48b006cee] In each of the following places, for references to “section 53 of the British Transport Commission Act 1949” substitute “ section 24 of the Railways and Transport Safety Act 2003 ”
+**6.**[^c22728491][^c-601e07f2a45d31348a4273e48b006cee] In each of the following places, for references to “section 53 of the British Transport Commission Act 1949” substitute “ section 24 of the Railways and Transport Safety Act 2003 ”
 
 - (a) section 136(1) and (2);
 - (b) section 137(2A);
@@ -124,7 +124,7 @@ Section 119
 
 #### Other amendments
 
-**7.**[^c22728501][^key-16bc3beaea2a78d608ddf356ecdbf7a6] (1) Section 136 (execution of warrants) is amended as follows.
+**7.**[^c22728501][^c-16bc3beaea2a78d608ddf356ecdbf7a6] (1) Section 136 (execution of warrants) is amended as follows.
 
 (2) After subsection (4) insert—
 
@@ -137,7 +137,7 @@ Section 119
 
 (3) In subsection (5), omit paragraph (a).
 
-**8.**[^c22728511][^key-265dba423aacef7df09595bf6dd4551d] (1) Section 137 (cross-border powers of arrest etc.) is amended as follows.
+**8.**[^c22728511][^c-265dba423aacef7df09595bf6dd4551d] (1) Section 137 (cross-border powers of arrest etc.) is amended as follows.
 
 (2) After subsection (7) insert—
 
@@ -154,7 +154,7 @@ Section 119
 
 #### Finance Act 2007 (c.11)
 
-**9.**[^c22728521][^key-59f3327fbcdcc43c23181781334d85b4] (1) Section 87 of the Finance Act 2007 (cross-border exercise of powers) is amended as follows.
+**9.**[^c22728521][^c-59f3327fbcdcc43c23181781334d85b4] (1) Section 87 of the Finance Act 2007 (cross-border exercise of powers) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -192,7 +192,7 @@ Section 119
 
 #### Crime and Courts Act 2013 (c.22)
 
-**10.**[^c22728531][^key-fcf1f8f8362d6689fc2942cfd869d702] (1) In Schedule 21 to the Crime and Courts Act 2013 (powers of immigration officers), Part 2 (modification of applied enactments) is amended as follows.
+**10.**[^c22728531][^c-fcf1f8f8362d6689fc2942cfd869d702] (1) In Schedule 21 to the Crime and Courts Act 2013 (powers of immigration officers), Part 2 (modification of applied enactments) is amended as follows.
 
 (2) In paragraph 41, for “Paragraphs 42 and 43” substitute “ Paragraphs 42 to 43 ”.
 
@@ -247,40 +247,40 @@ Section 119
 
 [^c22728431]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/1) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c932c317a7477c699d851f109c4433d4]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/1) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-c932c317a7477c699d851f109c4433d4]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/1) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728441]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/2) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a267af82b9d2aa526e0355e7e82790ab]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/2) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-a267af82b9d2aa526e0355e7e82790ab]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/2) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728461]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/3) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-312d0aa89b5a399bbfbc2fe016bef1ef]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/3) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-312d0aa89b5a399bbfbc2fe016bef1ef]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/3) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728471]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/4) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-faf33f2d9bcbb7520d5b434f32626e83]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/4) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-faf33f2d9bcbb7520d5b434f32626e83]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/4) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728481]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/5) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-0ea68ebae7db8240020d667d065aedbe]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/5) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-0ea68ebae7db8240020d667d065aedbe]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/5) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728491]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/6) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-601e07f2a45d31348a4273e48b006cee]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/6) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-601e07f2a45d31348a4273e48b006cee]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/6) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728501]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/7) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-16bc3beaea2a78d608ddf356ecdbf7a6]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/7) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-16bc3beaea2a78d608ddf356ecdbf7a6]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/7) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728511]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/8) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-265dba423aacef7df09595bf6dd4551d]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/8) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-265dba423aacef7df09595bf6dd4551d]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/8) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728521]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/9) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-59f3327fbcdcc43c23181781334d85b4]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/9) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-59f3327fbcdcc43c23181781334d85b4]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/9) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
 [^c22728531]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/10) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-fcf1f8f8362d6689fc2942cfd869d702]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/10) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-fcf1f8f8362d6689fc2942cfd869d702]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/10) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)

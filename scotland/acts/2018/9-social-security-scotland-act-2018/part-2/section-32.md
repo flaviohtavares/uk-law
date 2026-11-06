@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Early years assistance[^key-79e799a171b2e90a4e64dd0f78abf10a]
+## 32. Early years assistance[^c-79e799a171b2e90a4e64dd0f78abf10a]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79e799a171b2e90a4e64dd0f78abf10a]: Commencement: S. 32 in force at 10.12.2018 by [S.S.I. 2018/357](https://www.legislation.gov.uk/ssi/2018/357), [reg. 2](https://www.legislation.gov.uk/ssi/2018/357/regulation/2)
+[^c-79e799a171b2e90a4e64dd0f78abf10a]: Commencement: S. 32 in force at 10.12.2018 by [S.S.I. 2018/357](https://www.legislation.gov.uk/ssi/2018/357), [reg. 2](https://www.legislation.gov.uk/ssi/2018/357/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Definition of “overseas entity” etc[^key-4056cb10aa4177a00b9f514aba91b199][^key-b86ce25614cc37341c3715a3677635ea][^key-372b23be7fa71b5ce45a7ae913f13ecf]
+## 2. Definition of “overseas entity” etc[^c-4056cb10aa4177a00b9f514aba91b199][^c-b86ce25614cc37341c3715a3677635ea][^c-372b23be7fa71b5ce45a7ae913f13ecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4056cb10aa4177a00b9f514aba91b199]: Commencement: S. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-4056cb10aa4177a00b9f514aba91b199]: Commencement: S. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-b86ce25614cc37341c3715a3677635ea]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/10/section/2) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/a)
+[^c-b86ce25614cc37341c3715a3677635ea]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/10/section/2) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/a)
 
-[^key-372b23be7fa71b5ce45a7ae913f13ecf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/10/section/2) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-372b23be7fa71b5ce45a7ae913f13ecf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/10/section/2) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

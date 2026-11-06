@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Collection, sharing and protection of information[^key-f1b4bd26e63f79e9f005efe383f97d07][^key-f1fd6b2519d5deea9495e4499232d125][^key-cc1e8fee273f67302c2f6eeff8ef520a]
+## 88. Collection, sharing and protection of information[^c-f1b4bd26e63f79e9f005efe383f97d07][^c-f1fd6b2519d5deea9495e4499232d125][^c-cc1e8fee273f67302c2f6eeff8ef520a]
 
 *Extent: E+W+S*
 
@@ -65,8 +65,8 @@ except as authorised by regulations under subsection (5) or any other enactment.
 
 ## Annotations
 
-[^key-f1b4bd26e63f79e9f005efe383f97d07]: Commencement: S. 88 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-f1b4bd26e63f79e9f005efe383f97d07]: Commencement: S. 88 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-f1fd6b2519d5deea9495e4499232d125]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2024/10/section/88) in force at 1.1.2026 for specified purposes by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/2/b)
+[^c-f1fd6b2519d5deea9495e4499232d125]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2024/10/section/88) in force at 1.1.2026 for specified purposes by [S.I. 2025/1339](https://www.legislation.gov.uk/uksi/2025/1339), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1339/regulation/2/2/b)
 
-[^key-cc1e8fee273f67302c2f6eeff8ef520a]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2024/10/section/88) in force at 15.5.2026 in so far as not already in force by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)
+[^c-cc1e8fee273f67302c2f6eeff8ef520a]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2024/10/section/88) in force at 15.5.2026 in so far as not already in force by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)

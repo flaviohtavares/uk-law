@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND DIVERTED[^key-ee002c8701f855a78988125c66efb808]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND DIVERTED[^c-ee002c8701f855a78988125c66efb808]
 
 | (1)<br>Area | (2)<br>Public right of way | (3)<br>Measure |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ Article 11
 | Braintree District Council | 113\_25<br>The length of the public right of way shown marked purple and labelled FC-T6 on sheets 7 and 8 of the streets, access and rights of way plan (a distance of 675 metres) to be temporarily closed for a distance of no more than 50 metres at a time. | Temporarily closed and diverted along a route within the corridor shaded green and labelled FD-T6 to facilitate the construction of the authorised development. |
 | Braintree District Council | 113\_33<br>The length of the public right of way shown marked purple and labelled FC-T5 on sheet 9 of the streets, access and rights of way plan (a distance of 340 metres) to be temporarily closed for no more than 50 metres at a time. | Temporarily closed and diverted along a route within the corridor shaded green and labelled FD-T5 to facilitate the construction of the authorised development. |
 
-### PART 2 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^key-bc2e181b5931c1e37decd2b543399d48]
+### PART 2 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^c-bc2e181b5931c1e37decd2b543399d48]
 
 | (1)<br>Area | (2)<br>Public right of way | (3)<br>Measures |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Article 11
 | Braintree District Council | 113\_33<br>Between the points marked green and labelled MV-J1 to MVJ2 on sheet 9 of the streets, access and rights of way plan. | Temporarily manage users of the public right of way whilst in use by motor vehicles under the direction of the undertaker.<br>Motor vehicles under the direction of the undertaker may pass along, or cross, the length of the public right of way. |
 | Braintree District Council | 113\_33<br>Between the points marked green and labelled MV-J3 to MVJ4 on sheet 9 of the streets, access and rights of way plan. | Temporarily manage users of the public right of way whilst in use by motor vehicles under the direction of the undertaker.<br>Motor vehicles under the direction of the undertaker may pass along, or cross, the length of the public right of way. |
 
-### PART 3 — TEMPORARY MANAGEMENT OF PUBLIC RIGHT OF WAY[^key-03de8cc9eb611ed7ddcea3565ab5b2f6]
+### PART 3 — TEMPORARY MANAGEMENT OF PUBLIC RIGHT OF WAY[^c-03de8cc9eb611ed7ddcea3565ab5b2f6]
 
 | (1)<br>Area | (2)<br>Public right of way | (3)<br>Measure |
 | --- | --- | --- |
@@ -74,8 +74,8 @@ Article 11
 
 ## Annotations
 
-[^key-ee002c8701f855a78988125c66efb808]: Commencement: Sch. 6 Pt. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-ee002c8701f855a78988125c66efb808]: Commencement: Sch. 6 Pt. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-bc2e181b5931c1e37decd2b543399d48]: Commencement: Sch. 6 Pt. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-bc2e181b5931c1e37decd2b543399d48]: Commencement: Sch. 6 Pt. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-03de8cc9eb611ed7ddcea3565ab5b2f6]: Commencement: Sch. 6 Pt. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-03de8cc9eb611ed7ddcea3565ab5b2f6]: Commencement: Sch. 6 Pt. 3 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

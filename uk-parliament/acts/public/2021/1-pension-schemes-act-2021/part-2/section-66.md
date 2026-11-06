@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Communication requirement[^c24480741][^key-d9f3ed549e219b65438f0844d2c59643]
+## 66. Communication requirement[^c24480741][^c-d9f3ed549e219b65438f0844d2c59643]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c24480741]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/1/section/66) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-d9f3ed549e219b65438f0844d2c59643]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/1/section/66) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-d9f3ed549e219b65438f0844d2c59643]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/1/section/66) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

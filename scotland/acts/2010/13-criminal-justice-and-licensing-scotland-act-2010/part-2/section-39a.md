@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39A. Offence of stalking committed outside the United Kingdom[^key-50d2696f2e968f4fe1a17338543ceee5]
+## 39A. Offence of stalking committed outside the United Kingdom[^c-50d2696f2e968f4fe1a17338543ceee5]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ then the person commits that offence.
 
 ## Annotations
 
-[^key-50d2696f2e968f4fe1a17338543ceee5]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/asp/2010/13/section/39A) inserted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/6); [S.S.I. 2021/239](https://www.legislation.gov.uk/ssi/2021/239), [reg. 2](https://www.legislation.gov.uk/ssi/2021/239/regulation/2)
+[^c-50d2696f2e968f4fe1a17338543ceee5]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/asp/2010/13/section/39A) inserted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/6); [S.S.I. 2021/239](https://www.legislation.gov.uk/ssi/2021/239), [reg. 2](https://www.legislation.gov.uk/ssi/2021/239/regulation/2)

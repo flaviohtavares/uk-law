@@ -30,7 +30,7 @@ summary: ''
 (2) In the case of a school to which this section applies the Secretary of State shall—
 
 - (a) on a regular basis provide the persons responsible for the management of the school with such information relating to educational developments in England and Wales as he thinks appropriate; and
-- (b) if those persons so request, make arrangements for inspections to be made of the school by Her Majesty's Chief Inspector of Education, Children's Services and Skills[^key-bf32ad40febf4d0bf391cb73af43b6b2].
+- (b) if those persons so request, make arrangements for inspections to be made of the school by Her Majesty's Chief Inspector of Education, Children's Services and Skills[^c-bf32ad40febf4d0bf391cb73af43b6b2].
 
 (3) The Secretary of State shall charge the persons at whose request any inspection of a school is made under this section such fees as will cover the full cost of the inspection.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf32ad40febf4d0bf391cb73af43b6b2]: Textual amendment: Words in s. 226(2)(b) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/8); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
+[^c-bf32ad40febf4d0bf391cb73af43b6b2]: Textual amendment: Words in s. 226(2)(b) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/8); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg)
 
 [^c12681311]: Textual amendment: Words in s. 226(4) substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para.19](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/19) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1).

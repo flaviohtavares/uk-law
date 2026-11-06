@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Company to make good all damage.[^c5588961][^key-463c9c71b31c4f85319ffe25182fed44]
+## 21. Company to make good all damage.[^c5588961][^c-463c9c71b31c4f85319ffe25182fed44]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The company shall make good all damage done to the property of the water or gas 
 
     S. 21 excluded (24.3.1994) by [1994 c. iii](https://www.legislation.gov.uk/ukla/1994/3), [s. 1](https://www.legislation.gov.uk/ukla/1994/3/section/1), [Sch. Pt. I para. 3(2)(b)](https://www.legislation.gov.uk/ukla/1994/3/schedule/part/I/paragraph/3/2/b)
 
-[^key-463c9c71b31c4f85319ffe25182fed44]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/21) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-463c9c71b31c4f85319ffe25182fed44]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/21) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)

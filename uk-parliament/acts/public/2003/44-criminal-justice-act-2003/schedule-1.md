@@ -103,11 +103,11 @@ Section 12
 
 **16.** Schedule 4 to the Police Reform Act 2002 (powers exercisable by police civilians) is amended as follows.
 
-**17.**[^key-d978fc85b5968a538928748798e5ed58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-d978fc85b5968a538928748798e5ed58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-d978fc85b5968a538928748798e5ed58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-d978fc85b5968a538928748798e5ed58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-d978fc85b5968a538928748798e5ed58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-d978fc85b5968a538928748798e5ed58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** In paragraph 34 (powers of escort officer to take arrested person to prison), in sub-paragraph (1)(a), for “subsection (1) of section 30” there is substituted “ subsection (1A) of section 30 ”.
 
@@ -115,4 +115,4 @@ Section 12
 
 [^c19247711]: Textual amendment: Sch. 1 para. 15 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/2), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-d978fc85b5968a538928748798e5ed58]: Textual amendment: Sch. 1 paras. 17-19 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 16(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/16/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-d978fc85b5968a538928748798e5ed58]: Textual amendment: Sch. 1 paras. 17-19 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 16(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/16/3); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)

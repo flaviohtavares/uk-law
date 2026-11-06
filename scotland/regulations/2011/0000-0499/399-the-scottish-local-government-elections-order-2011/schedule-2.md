@@ -22,13 +22,13 @@ summary: ''
 
 Article 3(2)
 
-**1.**[^key-b3ccbeb496e879af27c6fbec0384d8ae] At the end of rule 14(2) (the ballot papers) insert—
+**1.**[^c-b3ccbeb496e879af27c6fbec0384d8ae] At the end of rule 14(2) (the ballot papers) insert—
 
 > - (f) the ballot paper shall be of a different colour from that of any ballot papers used at an election the poll at which is taken together with the poll at the local government election
 
 .
 
-**2.**[^key-97b36fc2c288fdfa7601b169e522162e] At the end of rule 20 (notice of poll) insert—
+**2.**[^c-97b36fc2c288fdfa7601b169e522162e] At the end of rule 20 (notice of poll) insert—
 
 > (5) The notice published under paragraph (4) shall—
 >
@@ -38,25 +38,25 @@ Article 3(2)
 
 .
 
-**3.**[^key-7e7b0b148321350c8d57ad09bd3e7a04] After rule 22(2) insert—
+**3.**[^c-7e7b0b148321350c8d57ad09bd3e7a04] After rule 22(2) insert—
 
 > (2A) The polling station allotted to electors from any parliamentary polling district wholly or partly within the electoral ward shall, in the absence of special circumstances, be in the parliamentary polling place for that district, unless that place is outside the electoral ward.
 
 .
 
-**4.**[^key-4625ef41cdc7d6b60b2b957b04c611be] At the end of rule 24 (issue of official poll cards and notifications) insert—
+**4.**[^c-4625ef41cdc7d6b60b2b957b04c611be] At the end of rule 24 (issue of official poll cards and notifications) insert—
 
 > (6) An official poll card or notification issued under this rule may be combined with the official poll card or notification issued at a parliamentary election or European Parliamentary election.
 
 .
 
-**5.**[^key-f7c362862dc97b11dab4bebfd3cc347b] After rule 25(1) (equipment of polling stations) insert—
+**5.**[^c-f7c362862dc97b11dab4bebfd3cc347b] After rule 25(1) (equipment of polling stations) insert—
 
 > (1A) The same ballot box may be used for the poll at the local government election and the poll at the parliamentary election or European Parliamentary election.
 
 .
 
-**6.**[^key-d100239daee491560e67730d43f84d03] For rule 25(4) (equipment of polling stations) substitute—
+**6.**[^c-d100239daee491560e67730d43f84d03] For rule 25(4) (equipment of polling stations) substitute—
 
 > (4) The following notice shall be printed in conspicuous characters and a graphical format and be exhibited inside and outside every polling station and in every compartment of every polling station—
 >
@@ -74,45 +74,45 @@ Article 3(2)
 
 .
 
-**7.**[^key-1f16922643b087567e12a226888f2c16] After rule 26(3) (appointment of polling and counting agents) insert—
+**7.**[^c-1f16922643b087567e12a226888f2c16] After rule 26(3) (appointment of polling and counting agents) insert—
 
 > (3A) Notices of the appointment of polling agents which are required by paragraph (3) above and paragraphs (4) and (5) to be given to the returning officer shall be given to that returning officer who discharges the functions specified in regulation 96 of the Representation of the People (Scotland) Regulations 1986[^f00029].
 
 .
 
-**8.**[^key-e1d8ae70746ecebcc06e5a6d35822828] In questions 1(a) and (b) and question 4 of rule 31(3) (questions to be put to voters) after “this election” insert “for this local government area”.
+**8.**[^c-e1d8ae70746ecebcc06e5a6d35822828] In questions 1(a) and (b) and question 4 of rule 31(3) (questions to be put to voters) after “this election” insert “for this local government area”.
 
-**9.**[^key-6b38a42df3311b0a08d3879313b267b3] At the end of rule 33 (voting procedure) insert—
+**9.**[^c-6b38a42df3311b0a08d3879313b267b3] At the end of rule 33 (voting procedure) insert—
 
 > (7) The same copy of the register of electors or the notice issued under section 13B(3B) or (3D) of the 1983 Act may be used under paragraph (1) for each election and one mark may be placed in that register under paragraph (1)(c) or in the list of proxies under paragraph (1)(d) to denote that a ballot paper has been issued in respect of each election, except that, where a ballot paper has been issued in respect of one election only, a different mark shall be placed in the register or, as the case may be, list so as to identify the election in respect of which ballot paper was issued.
 
 .
 
-**10.**[^key-2e157fb918b6fb17fb10ace5d46b17d1] After rule 34(3) (votes marked by presiding officer) insert—
+**10.**[^c-2e157fb918b6fb17fb10ace5d46b17d1] After rule 34(3) (votes marked by presiding officer) insert—
 
 > (4) The list referred to in paragraph (2) may be used for each election and, where it is so used, an entry in that list shall be taken to mean that the ballot papers were so marked in respect of each election, unless the list identifies the election at which the ballot paper was so marked.
 
 .
 
-**11.**[^key-707ab308e87c544d198bab5a623846dd] After rule 35(6) (voting by persons with disabilities) insert—
+**11.**[^c-707ab308e87c544d198bab5a623846dd] After rule 35(6) (voting by persons with disabilities) insert—
 
 > (6A) The same list may be used for each election and, where it is so used, an entry in that list shall be taken to mean that the votes were so given in respect of each election, unless the list identifies the election at which the vote was so given.
 
 .
 
-**12.**[^key-fb54ea9de8616f3dea392ac4fa9d00c7] At the end of rule 36(7) (tendered ballot papers) insert—
+**12.**[^c-fb54ea9de8616f3dea392ac4fa9d00c7] At the end of rule 36(7) (tendered ballot papers) insert—
 
 > and the same list may be used for each election and, where it is so used, an entry in that list shall be taken to mean that tendered ballot papers were marked in respect of each election, unless the list identifies the election at which a tendered ballot paper was marked.
 
 .
 
-**13.**[^key-6ccd7c65a7132887b90ff308aec25f22] At the end of rule 39(1) (adjournment of poll in case of riot) insert—
+**13.**[^c-6ccd7c65a7132887b90ff308aec25f22] At the end of rule 39(1) (adjournment of poll in case of riot) insert—
 
 > who discharges the functions specified in regulation 96 of the Representation of the People (Scotland) Regulations 1986.
 
 .
 
-**14.**[^key-42645171f75175db008d5b0a03417bec] After rule 40(1) (procedure on close of poll) insert—
+**14.**[^c-42645171f75175db008d5b0a03417bec] After rule 40(1) (procedure on close of poll) insert—
 
 > (1A) The contents of the packets referred to in sub‑paragraphs (b), (c) and (e) of paragraph (1) shall not be combined with the contents of the packets made under the corresponding rule that applies at a parliamentary election or European Parliamentary election; nor shall the statement prepared under paragraph (3) be so combined.
 >
@@ -120,7 +120,7 @@ Article 3(2)
 
 .
 
-**15.**[^key-b51d3531fba61dc7ca6deb17e9c18ca4] For rule 41(1) (attendance at counting of votes) substitute—
+**15.**[^c-b51d3531fba61dc7ca6deb17e9c18ca4] For rule 41(1) (attendance at counting of votes) substitute—
 
 > (1) Where the returning officer at the local government election discharges the functions specified in regulation 96 of the Representation of the People (Scotland) Regulations 1986, such returning officer shall make arrangements for discharging the functions under rule 43(1) (as substituted by Schedule 2 to this Order) in the presence of the counting agents appointed for the purposes of the local government election as soon as practicable after the close of the poll and for thereafter counting the votes at that election in the presence of those agents; and shall give to those counting agents notice in writing of the time and place at which such returning officer will begin to discharge the functions under rule 43(1) (as so substituted).
 >
@@ -128,11 +128,11 @@ Article 3(2)
 
 .
 
-**16.**[^key-4b6027a338015308b9ef9913deaa3b58] In rule 41(2) before “at the counting of the votes” there shall be inserted “at the proceedings under rule 43(1) (as so substituted) or”.
+**16.**[^c-4b6027a338015308b9ef9913deaa3b58] In rule 41(2) before “at the counting of the votes” there shall be inserted “at the proceedings under rule 43(1) (as so substituted) or”.
 
-**17.**[^key-329dec823a7d284f7fd99678e0be3c8b] In rule 41(3) before the words “counting of the votes” in the first place where they occur, insert “proceedings under rule 43(1) (as so substituted) or the” and before “the efficient” insert “the efficient separating of the ballot papers or, as the case may be,”.
+**17.**[^c-329dec823a7d284f7fd99678e0be3c8b] In rule 41(3) before the words “counting of the votes” in the first place where they occur, insert “proceedings under rule 43(1) (as so substituted) or the” and before “the efficient” insert “the efficient separating of the ballot papers or, as the case may be,”.
 
-**18.**[^key-1e48cdb87121cca837e444da95f49250] For rule 43(1) (the count) substitute—
+**18.**[^c-1e48cdb87121cca837e444da95f49250] For rule 43(1) (the count) substitute—
 
 > (1) Where the returning officer at the local government election discharges the functions specified in regulation 96 of the Representation of the People (Scotland) Regulations 1986, such returning officer shall—
 >
@@ -161,13 +161,13 @@ Article 3(2)
 
 .
 
-**19.**[^key-f3688ab25baa139b58910583c7d23571] At the end of rule 58 (delivery of documents) insert—
+**19.**[^c-f3688ab25baa139b58910583c7d23571] At the end of rule 58 (delivery of documents) insert—
 
 > and at an election where the returning officer does not discharge the functions referred to in regulation 96 of the Representation of the People (Scotland) Regulations 1986[^f00030], this rule shall have effect as if paragraphs (c), (e) and (f) were omitted.
 
 .
 
-**20.**[^key-96fdaaf853389ec87fa696d0d183b00d] In rule 62 (countermand or abandonment of poll on death of independent candidate)—
+**20.**[^c-96fdaaf853389ec87fa696d0d183b00d] In rule 62 (countermand or abandonment of poll on death of independent candidate)—
 
 - (a) at the end of paragraph (1) insert—
 
@@ -180,11 +180,11 @@ Article 3(2)
 
   .
 
-**21.**[^key-58ba89fa4a8e9d9a7ace7c1f42dc776b] In Schedule 1, for Form 6 (the Corresponding Number List), substitute the form set out in Schedule 3 to this Order where the local government election is combined with another election or referendum.
+**21.**[^c-58ba89fa4a8e9d9a7ace7c1f42dc776b] In Schedule 1, for Form 6 (the Corresponding Number List), substitute the form set out in Schedule 3 to this Order where the local government election is combined with another election or referendum.
 
-**22.**[^key-c08ff6bab4e6d16288f7aae244aa9a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-c08ff6bab4e6d16288f7aae244aa9a15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-44442053fe48e38180df79c0fc63911d] In Schedule 1, for Form 13 (the form of directions for the guidance of the voters) substitute—
+**23.**[^c-44442053fe48e38180df79c0fc63911d] In Schedule 1, for Form 13 (the form of directions for the guidance of the voters) substitute—
 
 > **Form 13**
 >
@@ -204,60 +204,60 @@ Article 3(2)
 
 .
 
-**24.**[^key-1ff3d3611dd7161c29342dcef8df9fe9] In Schedule 1, in Form 15 (the form of declaration to be made by the companion of a voter with disabilities) for the word “election” in the three places where it occurs substitute “elections”.
+**24.**[^c-1ff3d3611dd7161c29342dcef8df9fe9] In Schedule 1, in Form 15 (the form of declaration to be made by the companion of a voter with disabilities) for the word “election” in the three places where it occurs substitute “elections”.
 
 ## Annotations
 
 [^f00028]: Footnote: [1985 c.50](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-b3ccbeb496e879af27c6fbec0384d8ae]: Commencement: Sch. 2 para. 1 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-b3ccbeb496e879af27c6fbec0384d8ae]: Commencement: Sch. 2 para. 1 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-97b36fc2c288fdfa7601b169e522162e]: Commencement: Sch. 2 para. 2 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-97b36fc2c288fdfa7601b169e522162e]: Commencement: Sch. 2 para. 2 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-7e7b0b148321350c8d57ad09bd3e7a04]: Commencement: Sch. 2 para. 3 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-7e7b0b148321350c8d57ad09bd3e7a04]: Commencement: Sch. 2 para. 3 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-4625ef41cdc7d6b60b2b957b04c611be]: Commencement: Sch. 2 para. 4 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-4625ef41cdc7d6b60b2b957b04c611be]: Commencement: Sch. 2 para. 4 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-f7c362862dc97b11dab4bebfd3cc347b]: Commencement: Sch. 2 para. 5 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-f7c362862dc97b11dab4bebfd3cc347b]: Commencement: Sch. 2 para. 5 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-d100239daee491560e67730d43f84d03]: Commencement: Sch. 2 para. 6 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d100239daee491560e67730d43f84d03]: Commencement: Sch. 2 para. 6 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1f16922643b087567e12a226888f2c16]: Commencement: Sch. 2 para. 7 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1f16922643b087567e12a226888f2c16]: Commencement: Sch. 2 para. 7 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00029]: Footnote: [S.I. 1986/1111](https://www.legislation.gov.uk/uksi/1986/1111).
 
-[^key-e1d8ae70746ecebcc06e5a6d35822828]: Commencement: Sch. 2 para. 8 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-e1d8ae70746ecebcc06e5a6d35822828]: Commencement: Sch. 2 para. 8 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-6b38a42df3311b0a08d3879313b267b3]: Commencement: Sch. 2 para. 9 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-6b38a42df3311b0a08d3879313b267b3]: Commencement: Sch. 2 para. 9 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-2e157fb918b6fb17fb10ace5d46b17d1]: Commencement: Sch. 2 para. 10 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-2e157fb918b6fb17fb10ace5d46b17d1]: Commencement: Sch. 2 para. 10 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-707ab308e87c544d198bab5a623846dd]: Commencement: Sch. 2 para. 11 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-707ab308e87c544d198bab5a623846dd]: Commencement: Sch. 2 para. 11 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-fb54ea9de8616f3dea392ac4fa9d00c7]: Commencement: Sch. 2 para. 12 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-fb54ea9de8616f3dea392ac4fa9d00c7]: Commencement: Sch. 2 para. 12 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-6ccd7c65a7132887b90ff308aec25f22]: Commencement: Sch. 2 para. 13 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-6ccd7c65a7132887b90ff308aec25f22]: Commencement: Sch. 2 para. 13 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-42645171f75175db008d5b0a03417bec]: Commencement: Sch. 2 para. 14 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-42645171f75175db008d5b0a03417bec]: Commencement: Sch. 2 para. 14 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-b51d3531fba61dc7ca6deb17e9c18ca4]: Commencement: Sch. 2 para. 15 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-b51d3531fba61dc7ca6deb17e9c18ca4]: Commencement: Sch. 2 para. 15 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-4b6027a338015308b9ef9913deaa3b58]: Commencement: Sch. 2 para. 16 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-4b6027a338015308b9ef9913deaa3b58]: Commencement: Sch. 2 para. 16 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-329dec823a7d284f7fd99678e0be3c8b]: Commencement: Sch. 2 para. 17 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-329dec823a7d284f7fd99678e0be3c8b]: Commencement: Sch. 2 para. 17 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1e48cdb87121cca837e444da95f49250]: Commencement: Sch. 2 para. 18 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1e48cdb87121cca837e444da95f49250]: Commencement: Sch. 2 para. 18 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-f3688ab25baa139b58910583c7d23571]: Commencement: Sch. 2 para. 19 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-f3688ab25baa139b58910583c7d23571]: Commencement: Sch. 2 para. 19 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00030]: Footnote: [S.I. 1986/1111](https://www.legislation.gov.uk/uksi/1986/1111).
 
-[^key-96fdaaf853389ec87fa696d0d183b00d]: Commencement: Sch. 2 para. 20 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-96fdaaf853389ec87fa696d0d183b00d]: Commencement: Sch. 2 para. 20 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-58ba89fa4a8e9d9a7ace7c1f42dc776b]: Commencement: Sch. 2 para. 21 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-58ba89fa4a8e9d9a7ace7c1f42dc776b]: Commencement: Sch. 2 para. 21 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-c08ff6bab4e6d16288f7aae244aa9a15]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2011/399/schedule/2/paragraph/22) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [4](https://www.legislation.gov.uk/ssi/2016/354/article/4) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-c08ff6bab4e6d16288f7aae244aa9a15]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2011/399/schedule/2/paragraph/22) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [4](https://www.legislation.gov.uk/ssi/2016/354/article/4) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-44442053fe48e38180df79c0fc63911d]: Commencement: Sch. 2 para. 23 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-44442053fe48e38180df79c0fc63911d]: Commencement: Sch. 2 para. 23 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1ff3d3611dd7161c29342dcef8df9fe9]: Commencement: Sch. 2 para. 24 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1ff3d3611dd7161c29342dcef8df9fe9]: Commencement: Sch. 2 para. 24 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)

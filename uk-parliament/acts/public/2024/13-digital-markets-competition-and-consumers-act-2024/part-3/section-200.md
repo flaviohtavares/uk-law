@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Interconnected bodies corporate[^key-0b289adb07656f6740f08183044f1446][^key-d3bf75d8fc70232a596a8be19dc7e079]
+## 200. Interconnected bodies corporate[^c-0b289adb07656f6740f08183044f1446][^c-d3bf75d8fc70232a596a8be19dc7e079]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b289adb07656f6740f08183044f1446]: Commencement: S. 200 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0b289adb07656f6740f08183044f1446]: Commencement: S. 200 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-d3bf75d8fc70232a596a8be19dc7e079]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2024/13/section/200) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-d3bf75d8fc70232a596a8be19dc7e079]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2024/13/section/200) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

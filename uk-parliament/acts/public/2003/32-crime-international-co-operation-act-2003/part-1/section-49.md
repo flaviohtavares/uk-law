@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Rules of court[^key-eefe69686ac5d4004c3709437377c0c5]
+## 49. Rules of court[^c-eefe69686ac5d4004c3709437377c0c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eefe69686ac5d4004c3709437377c0c5]: Commencement: S. 49 in force at 26.3.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 2](https://www.legislation.gov.uk/uksi/2004/786/article/2)
+[^c-eefe69686ac5d4004c3709437377c0c5]: Commencement: S. 49 in force at 26.3.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 2](https://www.legislation.gov.uk/uksi/2004/786/article/2)

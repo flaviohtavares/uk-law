@@ -59,7 +59,7 @@ Section 8.
 >
 > **100C. Free zone goods: customs duties, etc.**
 >
-> (1) Subject to any contrary provision made by any directly applicable EU[^key-097264584a884a4c2c88801c43c478c0] provision, goods which are chargeable with any customs duty or agricultural levy, or in respect of which any negative monetary compensatory amount is payable, may be moved into a free zone and may remain as free zone goods without payment of that duty, levy or amount.
+> (1) Subject to any contrary provision made by any directly applicable EU[^c-097264584a884a4c2c88801c43c478c0] provision, goods which are chargeable with any customs duty or agricultural levy, or in respect of which any negative monetary compensatory amount is payable, may be moved into a free zone and may remain as free zone goods without payment of that duty, levy or amount.
 >
 > (2) Except in such cases as may be specified in free zone regulations, subsection (1) above shall not apply in relation to goods which are chargeable with any excise duty unless that duty has been paid and not repaid.
 >
@@ -174,6 +174,6 @@ Section 8.
 
 [^c10408641]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-097264584a884a4c2c88801c43c478c0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-097264584a884a4c2c88801c43c478c0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c10408651]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1984/43/schedule/4/paragraph/3) repealed (1.1.1993) by [S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095), [reg. 10(2)](https://www.legislation.gov.uk/uksi/1992/3095/regulation/10/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/3095/schedule/2).

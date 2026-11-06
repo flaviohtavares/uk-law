@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Health, in exercise of the powers in sections 2(5), 10(1) and (2) and 79(3) of the Health Act 2006[^f00001], makes the following Regulations:—
 
-## 1. Citation, commencement, application and interpretation[^key-411507d1fcb4db0e581dffa66f2c5d28]
+## 1. Citation, commencement, application and interpretation[^c-411507d1fcb4db0e581dffa66f2c5d28]
 
 (1) These Regulations may be cited as the Smoke-free (Premises and Enforcement) Regulations 2006 and shall come into force on 1<sup>st</sup> July 2007.
 
@@ -54,7 +54,7 @@ The Secretary of State for Health, in exercise of the powers in sections 2(5), 1
 
 (3) In these Regulations “the Act” means the Health Act 2006.
 
-## 2. Enclosed and substantially enclosed premises[^key-e9e88515bb1fe462e78ca94bcf7c45b9]
+## 2. Enclosed and substantially enclosed premises[^c-e9e88515bb1fe462e78ca94bcf7c45b9]
 
 (1) For the purposes of section 2 of the Act, premises are enclosed if they—
 
@@ -72,7 +72,7 @@ which is less than half of the area of the walls, including other structures tha
 
 (4) In this regulation “roof” includes any fixed or moveable structure or device which is capable of covering all or part of the premises as a roof, including, for example, a canvas awning.
 
-## 3. Enforcement[^key-5144559535afa437ce1e4289811783ed]
+## 3. Enforcement[^c-5144559535afa437ce1e4289811783ed]
 
 (1) Each of the following authorities is designated as an enforcement authority for the purposes of Chapter 1 of Part 1 of the Act—
 
@@ -100,14 +100,14 @@ except to the extent that those functions have been transferred to another enfor
 
 (4) In addition, each enforcement authority has enforcement functions in relation to premises and vehicles to the extent to which functions are transferred to it under paragraph (5).
 
-(5)[^key-510e9a1b047a3de41f02e48fc5171f38] Where more than one enforcement authority is investigating the same person for an offence under section 6(5) (no-smoking signs), 7(2) (smoking in a smoke-free place), 8(4) (failing to prevent smoking in a smoke-free place) or 11(1) (obstruction etc of officers) of the Act, enforcement functions may be transferred from one or more of those enforcement authorities to—
+(5)[^c-510e9a1b047a3de41f02e48fc5171f38] Where more than one enforcement authority is investigating the same person for an offence under section 6(5) (no-smoking signs), 7(2) (smoking in a smoke-free place), 8(4) (failing to prevent smoking in a smoke-free place) or 11(1) (obstruction etc of officers) of the Act, enforcement functions may be transferred from one or more of those enforcement authorities to—
 
 - (a) an enforcement authority that is carrying out any of those investigations; or
 - (b) any other enforcement authority,
 
 under arrangements made between the transferring and receiving authorities.
 
-(6)[^key-d73469a2e39a4de73537c994f98ff3f3] The Chief Officer of each police force is designated as an enforcement authority for the purposes of Chapter 1 of Part 1 of the Act.
+(6)[^c-d73469a2e39a4de73537c994f98ff3f3] The Chief Officer of each police force is designated as an enforcement authority for the purposes of Chapter 1 of Part 1 of the Act.
 
 (7) An enforcement authority designated under paragraph (6) has enforcement functions in relation to vehicles that—
 
@@ -140,14 +140,14 @@ A Regulatory Impact Assessment has been prepared for these Regulations and a cop
 
 [^f00001]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28). As to the meaning of “appropriate national authority” see section 82(1).
 
-[^key-411507d1fcb4db0e581dffa66f2c5d28]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1/1)
+[^c-411507d1fcb4db0e581dffa66f2c5d28]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1/1)
 
-[^key-e9e88515bb1fe462e78ca94bcf7c45b9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/3368/regulation/2) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1/1)
+[^c-e9e88515bb1fe462e78ca94bcf7c45b9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/3368/regulation/2) in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1/1)
 
-[^key-5144559535afa437ce1e4289811783ed]: Commencement: Reg. 3 in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1/1)
+[^c-5144559535afa437ce1e4289811783ed]: Commencement: Reg. 3 in force at 1.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/1/1)
 
 [^f00002]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-510e9a1b047a3de41f02e48fc5171f38]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/3/5): functions made exercisable concurrently (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [18](https://www.legislation.gov.uk/uksi/2017/510/article/18)
+[^c-510e9a1b047a3de41f02e48fc5171f38]: Modification: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/3368/regulation/3/5): functions made exercisable concurrently (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [18](https://www.legislation.gov.uk/uksi/2017/510/article/18)
 
-[^key-d73469a2e39a4de73537c994f98ff3f3]: Textual amendment: Reg. 3(6)(7) added (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/286/regulation/6/2)
+[^c-d73469a2e39a4de73537c994f98ff3f3]: Textual amendment: Reg. 3(6)(7) added (1.10.2015) by [The Smoke-free (Private Vehicles) Regulations 2015 (S.I. 2015/286)](https://www.legislation.gov.uk/uksi/2015/286), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/286/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/286/regulation/6/2)

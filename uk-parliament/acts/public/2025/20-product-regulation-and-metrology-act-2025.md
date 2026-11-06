@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Product regulation
 
-### 1. Product regulations[^key-c08d781c9f1e346a2a26ec9bacfe1a7e]
+### 1. Product regulations[^c-c08d781c9f1e346a2a26ec9bacfe1a7e]
 
 (1) The Secretary of State may by regulations make provision, in relation to the marketing or use of products in the United Kingdom, for the purpose of—
 
@@ -76,7 +76,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (9) Regulations under this section are referred to in this Act as “**product regulations**”.
 
-### 2. Product requirements[^key-2c2a4a7868575864c5688b57caf288b7]
+### 2. Product requirements[^c-2c2a4a7868575864c5688b57caf288b7]
 
 (1) Product regulations may make provision about requirements (“product requirements”) that must be met—
 
@@ -138,7 +138,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (9) In this section, a reference to “intangible” components includes software.
 
-### 3. Enforcement of product regulations[^key-6e95752c75b2db3ab7ff58768adaa303]
+### 3. Enforcement of product regulations[^c-6e95752c75b2db3ab7ff58768adaa303]
 
 (1) Product regulations may designate one or more persons as a relevant authority.
 
@@ -204,7 +204,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum or imprisonment for a term not exceeding 3 months, or to both;
 - (c) a person guilty of the offence is liable on conviction on indictment to a fine or imprisonment for a term not exceeding 2 years, or to both.
 
-### 4. Emergencies[^key-93111f7d55bd19cb5678b1ea6e918ffe]
+### 4. Emergencies[^c-93111f7d55bd19cb5678b1ea6e918ffe]
 
 (1) Product regulations may provide for a provision in product regulations to be disapplied, or to apply with modifications, in cases of emergency.
 
@@ -212,7 +212,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Metrology
 
-### 5. Metrology regulations[^key-8c1efd9b8587d2a723df61775d2f5d69]
+### 5. Metrology regulations[^c-8c1efd9b8587d2a723df61775d2f5d69]
 
 (1) The Secretary of State may by regulations make provision about the units of measurement that are used to express quantities (whether of goods or other things), including provision about—
 
@@ -246,7 +246,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (7) Regulations under this section are referred to in this Act as “**metrology regulations**”.
 
-### 6. Enforcement of metrology regulations[^key-10648553ac993e83dfd19edca8c1f61d]
+### 6. Enforcement of metrology regulations[^c-10648553ac993e83dfd19edca8c1f61d]
 
 (1) Metrology regulations may designate one or more persons as a relevant authority.
 
@@ -309,7 +309,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Supplementary provisions
 
-### 7. Information sharing[^key-db56e3f6d422e50752237f660d8b6079]
+### 7. Information sharing[^c-db56e3f6d422e50752237f660d8b6079]
 
 (1) Product regulations or metrology regulations may make provision for or in connection with the disclosure of information—
 
@@ -343,7 +343,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   - (a) police, fire, rescue and ambulance services, and
   - (b) His Majesty’s Coastguard.
 
-### 8. Cost recovery[^key-b9ed46832c10e8570c95ddd02dded07e]
+### 8. Cost recovery[^c-b9ed46832c10e8570c95ddd02dded07e]
 
 (1) Product regulations or metrology regulations may make provision for a relevant authority to impose fees in respect of any costs incurred by the relevant authority in carrying out functions conferred on the authority by or under such regulations.
 
@@ -360,7 +360,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) Provision under subsection (2)(a) may only provide for a person to be liable if they are capable of being directly affected by the carrying out of functions conferred by product regulations or, as appropriate, metrology regulations.
 
-### 9. Application to existing product and metrology provision[^key-cd15e8d9db28c159847490e046ed28da]
+### 9. Application to existing product and metrology provision[^c-cd15e8d9db28c159847490e046ed28da]
 
 (1) The power to make product regulations includes power to make—
 
@@ -384,7 +384,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**existing product requirements**” means requirements contained in existing product provision that could be product requirements in product regulations;
 - “**subordinate legislation**” has the same meaning as in the [Interpretation Act 1978](https://www.legislation.gov.uk/ukpga/1978/30) (see section 21 of that Act).
 
-### 10. Regulations making provision within devolved competence[^key-19bc9581de63d868f52fa4785b7778f7]
+### 10. Regulations making provision within devolved competence[^c-19bc9581de63d868f52fa4785b7778f7]
 
 (1) The Secretary of State may only make regulations under section 1 which contain provision within Scottish devolved competence with the consent of the Scottish Ministers, unless the provision is merely incidental to, or consequential on, provision outside Scottish devolved competence.
 
@@ -413,22 +413,22 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (7) In this section “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975.
 
-### 11. Consequential amendment of certain Acts[^key-8969d9e79a9978bb4ef118b3259493ff]
+### 11. Consequential amendment of certain Acts[^c-8969d9e79a9978bb4ef118b3259493ff]
 
 (1) In the [Consumer Protection Act 1987](https://www.legislation.gov.uk/ukpga/1987/43) omit Parts 2 and 4.
 
-(2)[^key-8969d9e79a9978bb4ef118b3259493ff] Product regulations or metrology regulations may, in consequence of any provision made by or under this Act, amend or repeal provision made by the Gun Barrel Proof Acts 1868 to 1978.
+(2)[^c-8969d9e79a9978bb4ef118b3259493ff] Product regulations or metrology regulations may, in consequence of any provision made by or under this Act, amend or repeal provision made by the Gun Barrel Proof Acts 1868 to 1978.
 
 (3) In the [Weights and Measures Act 1985](https://www.legislation.gov.uk/ukpga/1985/72) omit sections 1, 8(1)(a) and 25 and Schedule 1.
 
-(4)[^key-8969d9e79a9978bb4ef118b3259493ff] Regulations under this Act may, in consequence of any amendment or repeal made by or under subsection (1), (2) or (3), amend or repeal provision made by or under an Act passed—
+(4)[^c-8969d9e79a9978bb4ef118b3259493ff] Regulations under this Act may, in consequence of any amendment or repeal made by or under subsection (1), (2) or (3), amend or repeal provision made by or under an Act passed—
 
 - (a) before this Act, or
 - (b) later in the same session of Parliament as this Act.
 
 ## Final provisions
 
-### 12. Interpretation[^key-143ffab6d8bedabf7c0a81e1de85ff0d]
+### 12. Interpretation[^c-143ffab6d8bedabf7c0a81e1de85ff0d]
 
 (1) In this Act—
 
@@ -459,7 +459,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) The Secretary of State may by regulations amend this section for the purposes of altering the definition of “online marketplace”.
 
-### 13. Regulations[^key-54e19be6905c35d0f564f7a0f918b489]
+### 13. Regulations[^c-54e19be6905c35d0f564f7a0f918b489]
 
 (1) Regulations under this Act are to be made by statutory instrument.
 
@@ -492,17 +492,17 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (7) Subsections (2) to (6) do not apply to regulations under section 15.
 
-### 14. Extent[^key-adb41567f75301ec30aac3ac820c97be]
+### 14. Extent[^c-adb41567f75301ec30aac3ac820c97be]
 
 This Act extends to England and Wales, Scotland and Northern Ireland.
 
-### 15. Commencement[^key-934f0f31b7959157615225f2f764c87d]
+### 15. Commencement[^c-934f0f31b7959157615225f2f764c87d]
 
 (1) Section 11(1) and (3) comes into force on such day as the Secretary of State may by regulations appoint, and the Secretary of State may appoint different days for different purposes.
 
 (2) The rest of this Act comes into force on the day on which it is passed.
 
-### 16. Short title[^key-0f2b2bafda4b221d5b9ff1107ebd3fe1]
+### 16. Short title[^c-0f2b2bafda4b221d5b9ff1107ebd3fe1]
 
 This Act may be cited as the Product Regulation and Metrology Act 2025.
 
@@ -510,19 +510,19 @@ This Act may be cited as the Product Regulation and Metrology Act 2025.
 
 Section 1(3)
 
-**1.**[^key-c57fdbe98f980792393362cd150ba79a] Food as defined in section 1 of the Food Safety Act 1990.
+**1.**[^c-c57fdbe98f980792393362cd150ba79a] Food as defined in section 1 of the Food Safety Act 1990.
 
-**2.**[^key-8594007a1cee701a9c4b35aef49ab9ee] Feeding stuff and fertiliser as defined in section 66 of the [Agriculture Act 1970](https://www.legislation.gov.uk/ukpga/1970/40).
+**2.**[^c-8594007a1cee701a9c4b35aef49ab9ee] Feeding stuff and fertiliser as defined in section 66 of the [Agriculture Act 1970](https://www.legislation.gov.uk/ukpga/1970/40).
 
-**3.**[^key-3a26bfbfcee8d1f67f0eaae81adad5c1] Plants, fruit and fungi.
+**3.**[^c-3a26bfbfcee8d1f67f0eaae81adad5c1] Plants, fruit and fungi.
 
-**4.**[^key-8732b863000f5ebdde0d1ced27fbd6af] Plant protection products as defined in Article 2(1) of [Regulation (EC) No 1107/2009 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2009/1107) concerning the placing of plant protection products on the market.
+**4.**[^c-8732b863000f5ebdde0d1ced27fbd6af] Plant protection products as defined in Article 2(1) of [Regulation (EC) No 1107/2009 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2009/1107) concerning the placing of plant protection products on the market.
 
-**5.**[^key-be22c6c39f76221412e61948cd65abb2] Animal by-products as defined in Article 3(1) of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption.
+**5.**[^c-be22c6c39f76221412e61948cd65abb2] Animal by-products as defined in Article 3(1) of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption.
 
-**6.**[^key-2cbd265722173c013354875d7c0a0b4f] Products of animal origin as defined in point 8.1 of Annex 1 to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin.
+**6.**[^c-2cbd265722173c013354875d7c0a0b4f] Products of animal origin as defined in point 8.1 of Annex 1 to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin.
 
-**7.**[^key-4e4635ea0050b97615c156ac7beaebd6] Aircraft and components of aircraft.
+**7.**[^c-4e4635ea0050b97615c156ac7beaebd6] Aircraft and components of aircraft.
 
 - This paragraph does not include—
   - (a) unmanned aircraft designed or intended (whether or not exclusively) for use in play by children under 14 years old, and
@@ -531,65 +531,65 @@ Section 1(3)
   - (a) “**aircraft**” and “unmanned aircraft” have the meanings given by Article 3 of [Regulation (EU) 2018/1139](https://www.legislation.gov.uk/european/regulation/2018/1139) of the European Parliament and of the Council on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency;
   - (b) “**radio equipment**” has the meaning given by regulation 2 of the Radio Equipment Regulations 2017 ([S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206)).
 
-**8.**[^key-9c5880a020238da91b60fe8c704a29ca] Products used or specifically designed for the purpose of operating or controlling aircraft, training persons in the operation or control of aircraft or ensuring the safe operation or control of aircraft.
+**8.**[^c-9c5880a020238da91b60fe8c704a29ca] Products used or specifically designed for the purpose of operating or controlling aircraft, training persons in the operation or control of aircraft or ensuring the safe operation or control of aircraft.
 
 - This paragraph does not include radio equipment used or specifically designed for the purpose of operating or controlling unmanned aircraft, training persons in the operation or control of unmanned aircraft or ensuring the safe operation or control of unmanned aircraft.
 - In this paragraph “**aircraft**”, “**unmanned aircraft**” and “**radio equipment**” have the same meanings as in paragraph 7.
 
-**9.**[^key-d80db2b11835fad3016c2faed09db711] Military equipment as defined in section 7(7) of the [Procurement Act 2023](https://www.legislation.gov.uk/ukpga/2023/54).
+**9.**[^c-d80db2b11835fad3016c2faed09db711] Military equipment as defined in section 7(7) of the [Procurement Act 2023](https://www.legislation.gov.uk/ukpga/2023/54).
 
-**10.**[^key-7853c13070aa6f2ad992dfc1e02ac560] Medicines and medical devices as defined in the [Medicines and Medical Devices Act 2021](https://www.legislation.gov.uk/ukpga/2021/3), other than devices designed for weighing or measuring for medical purposes.
+**10.**[^c-7853c13070aa6f2ad992dfc1e02ac560] Medicines and medical devices as defined in the [Medicines and Medical Devices Act 2021](https://www.legislation.gov.uk/ukpga/2021/3), other than devices designed for weighing or measuring for medical purposes.
 
 ## Annotations
 
-[^key-c08d781c9f1e346a2a26ec9bacfe1a7e]: Commencement: S. 1 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-c08d781c9f1e346a2a26ec9bacfe1a7e]: Commencement: S. 1 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-2c2a4a7868575864c5688b57caf288b7]: Commencement: S. 2 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-2c2a4a7868575864c5688b57caf288b7]: Commencement: S. 2 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-6e95752c75b2db3ab7ff58768adaa303]: Commencement: S. 3 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-6e95752c75b2db3ab7ff58768adaa303]: Commencement: S. 3 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-93111f7d55bd19cb5678b1ea6e918ffe]: Commencement: S. 4 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-93111f7d55bd19cb5678b1ea6e918ffe]: Commencement: S. 4 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-8c1efd9b8587d2a723df61775d2f5d69]: Commencement: S. 5 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-8c1efd9b8587d2a723df61775d2f5d69]: Commencement: S. 5 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-10648553ac993e83dfd19edca8c1f61d]: Commencement: S. 6 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-10648553ac993e83dfd19edca8c1f61d]: Commencement: S. 6 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-db56e3f6d422e50752237f660d8b6079]: Commencement: S. 7 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-db56e3f6d422e50752237f660d8b6079]: Commencement: S. 7 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-b9ed46832c10e8570c95ddd02dded07e]: Commencement: S. 8 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-b9ed46832c10e8570c95ddd02dded07e]: Commencement: S. 8 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-cd15e8d9db28c159847490e046ed28da]: Commencement: S. 9 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-cd15e8d9db28c159847490e046ed28da]: Commencement: S. 9 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-19bc9581de63d868f52fa4785b7778f7]: Commencement: S. 10 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-19bc9581de63d868f52fa4785b7778f7]: Commencement: S. 10 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-8969d9e79a9978bb4ef118b3259493ff]: Commencement: [S. 11(2)(4)](https://www.legislation.gov.uk/ukpga/2025/20/section/11/2/4) in force at Royal Assent and s. 11(1)(3) not in force, see [s. 15](https://www.legislation.gov.uk/ukpga/2025/20/section/15)
+[^c-8969d9e79a9978bb4ef118b3259493ff]: Commencement: [S. 11(2)(4)](https://www.legislation.gov.uk/ukpga/2025/20/section/11/2/4) in force at Royal Assent and s. 11(1)(3) not in force, see [s. 15](https://www.legislation.gov.uk/ukpga/2025/20/section/15)
 
-[^key-143ffab6d8bedabf7c0a81e1de85ff0d]: Commencement: S. 12 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-143ffab6d8bedabf7c0a81e1de85ff0d]: Commencement: S. 12 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-54e19be6905c35d0f564f7a0f918b489]: Commencement: S. 13 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-54e19be6905c35d0f564f7a0f918b489]: Commencement: S. 13 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-adb41567f75301ec30aac3ac820c97be]: Commencement: S. 14 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-adb41567f75301ec30aac3ac820c97be]: Commencement: S. 14 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-934f0f31b7959157615225f2f764c87d]: Commencement: S. 15 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-934f0f31b7959157615225f2f764c87d]: Commencement: S. 15 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-0f2b2bafda4b221d5b9ff1107ebd3fe1]: Commencement: S. 16 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-0f2b2bafda4b221d5b9ff1107ebd3fe1]: Commencement: S. 16 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-c57fdbe98f980792393362cd150ba79a]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-c57fdbe98f980792393362cd150ba79a]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-8594007a1cee701a9c4b35aef49ab9ee]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-8594007a1cee701a9c4b35aef49ab9ee]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-3a26bfbfcee8d1f67f0eaae81adad5c1]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-3a26bfbfcee8d1f67f0eaae81adad5c1]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-8732b863000f5ebdde0d1ced27fbd6af]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-8732b863000f5ebdde0d1ced27fbd6af]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-be22c6c39f76221412e61948cd65abb2]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-be22c6c39f76221412e61948cd65abb2]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-2cbd265722173c013354875d7c0a0b4f]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-2cbd265722173c013354875d7c0a0b4f]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-4e4635ea0050b97615c156ac7beaebd6]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-4e4635ea0050b97615c156ac7beaebd6]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-9c5880a020238da91b60fe8c704a29ca]: Commencement: Sch. para. 8 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-9c5880a020238da91b60fe8c704a29ca]: Commencement: Sch. para. 8 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-d80db2b11835fad3016c2faed09db711]: Commencement: Sch. para. 9 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-d80db2b11835fad3016c2faed09db711]: Commencement: Sch. para. 9 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
 
-[^key-7853c13070aa6f2ad992dfc1e02ac560]: Commencement: Sch. para. 10 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)
+[^c-7853c13070aa6f2ad992dfc1e02ac560]: Commencement: Sch. para. 10 in force at Royal Assent, see [s. 15(2)](https://www.legislation.gov.uk/ukpga/2025/20/section/15/2)

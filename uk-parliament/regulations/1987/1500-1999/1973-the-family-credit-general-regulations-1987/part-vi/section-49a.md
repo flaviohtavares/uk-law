@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (3), where an award of working families' tax credit[^key-366eb9a5ff18710715326e180a114ed0] is payable and the claimant or his partner are responsible, or are treated as being responsible for the purposes of regulation 7 (circumstances in which a person is to be treated as responsible or not responsible for another), for a young person and that young person—
+(1) Subject to paragraph (3), where an award of working families' tax credit[^c-366eb9a5ff18710715326e180a114ed0] is payable and the claimant or his partner are responsible, or are treated as being responsible for the purposes of regulation 7 (circumstances in which a person is to be treated as responsible or not responsible for another), for a young person and that young person—
 
 - (a) is, for the purpose of that award, a person of a prescribed description under section 128(1)(d) of the Contributions and Benefits Act; and
 - (b) ceases, or has ceased, to receive full-time education,
 
-that cessation shall be a change of circumstances affecting the award, the award shall be superseded[^key-ba92ee2fb22ac7046abe8d293a3cb3d8] and the award shall cease with effect from the date specified in paragraph (2).
+that cessation shall be a change of circumstances affecting the award, the award shall be superseded[^c-ba92ee2fb22ac7046abe8d293a3cb3d8] and the award shall cease with effect from the date specified in paragraph (2).
 
 (2) The date specified for the purposes of paragraph (1) shall be—
 
@@ -36,7 +36,7 @@ that cessation shall be a change of circumstances affecting the award, the award
 
 (4) For the purposes of paragraphs (1) and (2), “young person” includes a young person who attains the age of 19—
 
-- (a) during the period between the date of claim and the date from which the claimant is awarded working families' tax credit[^key-83e3e95a546e7b7b8c7c614bc07b72c1]; or
+- (a) during the period between the date of claim and the date from which the claimant is awarded working families' tax credit[^c-83e3e95a546e7b7b8c7c614bc07b72c1]; or
 - (b) during the period an award of working families' tax credit is payable.
 
 (5) In this regulation, “full-time education” means full-time education, either by attendance at a recognised educational establishment as defined in section 147(1) of the Contributions and Benefits Act or otherwise, if such education is recognised by the Secretary of State pursuant to section 142(2) of that Act, but is not a course of advanced education for the purposes of Chapter VII of Part IV (income and capital of students).
@@ -45,8 +45,8 @@ that cessation shall be a change of circumstances affecting the award, the award
 
 [^M_F_1ac94d84-e3bb-4fb6-86ba-c23284d1bfe7]: Textual amendment: Reg. 49A inserted (2.7.1996) by [The Family Credit (General) Amendment Regulations 1996 (S.I. 1996/1418)](https://www.legislation.gov.uk/uksi/1996/1418), regs. 1, 2
 
-[^key-366eb9a5ff18710715326e180a114ed0]: Textual amendment: Words in reg. 49A(1) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xix)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xix)
+[^c-366eb9a5ff18710715326e180a114ed0]: Textual amendment: Words in reg. 49A(1) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xix)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xix)
 
-[^key-ba92ee2fb22ac7046abe8d293a3cb3d8]: Textual amendment: Word in reg. 49A(1) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [27(3)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/27/3)
+[^c-ba92ee2fb22ac7046abe8d293a3cb3d8]: Textual amendment: Word in reg. 49A(1) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [27(3)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/27/3)
 
-[^key-83e3e95a546e7b7b8c7c614bc07b72c1]: Textual amendment: Words in reg. 49A(4)(a)(b) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xix)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xix)
+[^c-83e3e95a546e7b7b8c7c614bc07b72c1]: Textual amendment: Words in reg. 49A(4)(a)(b) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/1), [Sch. 1 para. 1(xix)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/1/paragraph/1/xix)

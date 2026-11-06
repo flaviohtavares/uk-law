@@ -55,15 +55,15 @@ The Charities (Northern Ireland) Order 1987 [^c11659891]
 
 ## Extension of powers of trustees of certain charities
 
-### 3. Resolution by trustees of old charity to alter objects[^key-924447093537bd1b0bfbbfceae0928a6]
+### 3. Resolution by trustees of old charity to alter objects[^c-924447093537bd1b0bfbbfceae0928a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Power for trustees of small charities to transfer whole property to another charity[^key-924447093537bd1b0bfbbfceae0928a6]
+### 4. Power for trustees of small charities to transfer whole property to another charity[^c-924447093537bd1b0bfbbfceae0928a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Power for very small charities to spend capital[^key-924447093537bd1b0bfbbfceae0928a6]
+### 5. Power for very small charities to spend capital[^c-924447093537bd1b0bfbbfceae0928a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,7 +107,7 @@ Sections 34 to 36 of the Act of 1964 (annual report by Department, interpretatio
 
 ## Miscellaneous
 
-### 9. Charitable companies: alteration of objects . . .[^key-924447093537bd1b0bfbbfceae0928a6][^c21357081][^c21357031]
+### 9. Charitable companies: alteration of objects . . .[^c-924447093537bd1b0bfbbfceae0928a6][^c21357081][^c21357031]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,15 +115,15 @@ Sections 34 to 36 of the Act of 1964 (annual report by Department, interpretatio
 
 [^c21357111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9B. Requirement to disclose charitable status[^key-924447093537bd1b0bfbbfceae0928a6][^c21124711]
+### 9B. Requirement to disclose charitable status[^c-924447093537bd1b0bfbbfceae0928a6][^c21124711]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9BA. Civil consequences of failure to make required disclosure[^key-924447093537bd1b0bfbbfceae0928a6][^c21124731]
+### 9BA. Civil consequences of failure to make required disclosure[^c-924447093537bd1b0bfbbfceae0928a6][^c21124731]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9BB. Criminal consequences of failure to make required disclosure[^key-924447093537bd1b0bfbbfceae0928a6][^c21124751]
+### 9BB. Criminal consequences of failure to make required disclosure[^c-924447093537bd1b0bfbbfceae0928a6][^c21124751]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -242,7 +242,7 @@ TRUSTEES OF THE.................................................................
 
 [^c21356951]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/nisi/1987/2048/article/2/2): definition of "the Companies Order" omitted (1.10.2009) by virtue of [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 92(2)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/92/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-924447093537bd1b0bfbbfceae0928a6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisi/1987/2048) repealed (24.6.2013 for the repeal of arts. 3-5, 9, 9B-9BB) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-924447093537bd1b0bfbbfceae0928a6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisi/1987/2048) repealed (24.6.2013 for the repeal of arts. 3-5, 9, 9B-9BB) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
 [^c21357081]: Textual amendment: [1990 NI 10](https://www.legislation.gov.uk/nisi/1990)
 

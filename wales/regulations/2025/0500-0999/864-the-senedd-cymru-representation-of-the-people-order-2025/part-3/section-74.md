@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Illegal canvassing by police officers[^key-02fc539428302e0b7a2b32691e74a8cd]
+## 74. Illegal canvassing by police officers[^c-02fc539428302e0b7a2b32691e74a8cd]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ whether as an elector or a proxy at a Senedd election for a constituency, which 
 
 ## Annotations
 
-[^key-02fc539428302e0b7a2b32691e74a8cd]: Commencement: Art. 74 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-02fc539428302e0b7a2b32691e74a8cd]: Commencement: Art. 74 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

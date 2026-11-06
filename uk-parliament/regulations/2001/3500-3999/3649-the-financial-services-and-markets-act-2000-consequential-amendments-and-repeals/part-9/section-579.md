@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 579. Revocation of the 1998 Regulations[^key-a3f1cfc3c2d4b3bc2da20796015e17c2]
+## 579. Revocation of the 1998 Regulations[^c-a3f1cfc3c2d4b3bc2da20796015e17c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Investor Compensation Scheme Regulations 1998 are revoked.
 
 ## Annotations
 
-[^key-a3f1cfc3c2d4b3bc2da20796015e17c2]: Commencement: Art. 579 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a3f1cfc3c2d4b3bc2da20796015e17c2]: Commencement: Art. 579 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

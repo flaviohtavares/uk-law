@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Offences by bodies corporate etc.[^key-fbb0c59cd74384860d0971e8bf0ad63d]
+## 92. Offences by bodies corporate etc.[^c-fbb0c59cd74384860d0971e8bf0ad63d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ that individual (as well as the body corporate, partnership or, as the case may 
 
 ## Annotations
 
-[^key-fbb0c59cd74384860d0971e8bf0ad63d]: Commencement: S. 92 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-fbb0c59cd74384860d0971e8bf0ad63d]: Commencement: S. 92 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

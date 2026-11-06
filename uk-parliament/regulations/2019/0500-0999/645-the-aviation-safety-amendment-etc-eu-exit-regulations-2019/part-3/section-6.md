@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/eur/1991/3922) (technical harmonization)[^key-b26ed8b294772f89e23eec31d4ba27c8]
+## 6. [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/eur/1991/3922) (technical harmonization)[^c-b26ed8b294772f89e23eec31d4ba27c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b26ed8b294772f89e23eec31d4ba27c8]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b26ed8b294772f89e23eec31d4ba27c8]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

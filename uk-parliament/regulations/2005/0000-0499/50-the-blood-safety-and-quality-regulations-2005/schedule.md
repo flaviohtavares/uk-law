@@ -143,7 +143,7 @@ Signature of the donor, on the donor questionnaire, countersigned by the qualifi
 
  
 
-*Under exceptional circumstances, individual donations from donors who do not comply with following criteria may be authorised by a qualified healthcare professional in the blood establishment.* All such cases must be clearly documented and subject to—[^key-430d1850177b6082285601ad1430ee1b]
+*Under exceptional circumstances, individual donations from donors who do not comply with following criteria may be authorised by a qualified healthcare professional in the blood establishment.* All such cases must be clearly documented and subject to—[^c-430d1850177b6082285601ad1430ee1b]
 
 - (a) in relation to Great Britain, the requirements in regulation 7;
 - (b) in relation to Northern Ireland, the quality management provisions in Articles 11, 12, and 13 of [Directive 2002/98/EC](https://www.legislation.gov.uk/european/directive/2002/0098).
@@ -233,7 +233,7 @@ However, the following deferral periods shall apply for the infections listed in
 | — individuals with a history of malaria | 3 years following cessation of treatment and absence of symptoms.<br>Donations may be accepted thereafter only if an immunologic or molecular genomic test is negative |
 | — asymptomic visitors to endemic areas | 6 months after leaving the endemic area unless an immunologic or molecular genomic test is negative |
 | — individuals with a history of undiagnosed febrile illness during or within six months of a visit to an endemic area | 3 years following resolution of symptoms;<br>may be reduced to 4 months if an immunologic or molecular test is negative |
-| West Nile Virus (WNV) (\*)[^key-6574e3f0ef17c2dec27bf8a55dc0e824] | 28 days after leaving a risk area of locally acquired West Nile Virus unless an individual Nucleic Acid Test (NAT) is negative |
+| West Nile Virus (WNV) (\*)[^c-6574e3f0ef17c2dec27bf8a55dc0e824] | 28 days after leaving a risk area of locally acquired West Nile Virus unless an individual Nucleic Acid Test (NAT) is negative |
 
 **2.2.2.** *Exposure to risk of acquiring a transfusion-transmissible infection*
 
@@ -378,7 +378,7 @@ Transport and distribution of blood and blood components at all stages of the tr
 |  | Haemolysis | Less than 0.8% of red cell mass at the end of the shelf life |
 | Platelets, apheresis | Volume | Valid for storage characteristics to maintain product within specifications for pH |
 |  | Platelet content | Variations in platelet content per single donation are permitted within the limits that comply with validated preparation and preservation conditions |
-|  | pH | Minimum 6.4 corrected for 22°C, at the end of the shelf life[^key-5305aa4527cf36380c491955561f0b77] |
+|  | pH | Minimum 6.4 corrected for 22°C, at the end of the shelf life[^c-5305aa4527cf36380c491955561f0b77] |
 | Platelets, apheresis, leucocyte-depleted | Volume | Valid for storage characteristics to maintain product within specifications for pH |
 |  | Platelet content | Variations in platelet content per single donation are permitted within the limits that comply with validated preparation and preservation conditions |
 |  | Leucocyte content | Less than 1 x 10<sup>6</sup> per unit |
@@ -410,7 +410,7 @@ Transport and distribution of blood and blood components at all stages of the tr
 | Granulocytes, apheresis | Volume | Less than 500ml |
 |  | Granulocyte content | Greater than 1 x 10<sup>10</sup> granulocytes per unit |
 
-### PART 6 — RECORD OF DATA ON TRACEABILITY[^key-ceb7275c583a76bc02f0985483fdc2ec]
+### PART 6 — RECORD OF DATA ON TRACEABILITY[^c-ceb7275c583a76bc02f0985483fdc2ec]
 
 #### A. BY BLOOD ESTABLISHMENTS
 
@@ -474,10 +474,10 @@ Transport and distribution of blood and blood components at all stages of the tr
 
 ## Annotations
 
-[^key-430d1850177b6082285601ad1430ee1b]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (31.12.2020) by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [reg. 14](https://www.legislation.gov.uk/uksi/2019/4/regulation/14) (as substituted by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1304/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-430d1850177b6082285601ad1430ee1b]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (31.12.2020) by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [reg. 14](https://www.legislation.gov.uk/uksi/2019/4/regulation/14) (as substituted by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1304/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6574e3f0ef17c2dec27bf8a55dc0e824]: Textual amendment: Words in Sch. Pt. 3 para. 2.2.1 Table substituted (18.7.2016) by [The Blood Safety and Quality (Amendment) Regulations 2016 (S.I. 2016/604)](https://www.legislation.gov.uk/uksi/2016/604), [regs. 1](https://www.legislation.gov.uk/uksi/2016/604/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/604/regulation/2/2)
+[^c-6574e3f0ef17c2dec27bf8a55dc0e824]: Textual amendment: Words in Sch. Pt. 3 para. 2.2.1 Table substituted (18.7.2016) by [The Blood Safety and Quality (Amendment) Regulations 2016 (S.I. 2016/604)](https://www.legislation.gov.uk/uksi/2016/604), [regs. 1](https://www.legislation.gov.uk/uksi/2016/604/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/604/regulation/2/2)
 
-[^key-5305aa4527cf36380c491955561f0b77]: Textual amendment: Words in Sch. Pt. 5 para. 2 Table substituted (18.7.2016) by [The Blood Safety and Quality (Amendment) Regulations 2016 (S.I. 2016/604)](https://www.legislation.gov.uk/uksi/2016/604), [regs. 1](https://www.legislation.gov.uk/uksi/2016/604/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/604/regulation/2/3)
+[^c-5305aa4527cf36380c491955561f0b77]: Textual amendment: Words in Sch. Pt. 5 para. 2 Table substituted (18.7.2016) by [The Blood Safety and Quality (Amendment) Regulations 2016 (S.I. 2016/604)](https://www.legislation.gov.uk/uksi/2016/604), [regs. 1](https://www.legislation.gov.uk/uksi/2016/604/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/604/regulation/2/3)
 
-[^key-ceb7275c583a76bc02f0985483fdc2ec]: Textual amendment: [Sch. Pts. 6-8](https://www.legislation.gov.uk/uksi/2005/50/schedule/part/6) inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2006/2013/regulation/15)
+[^c-ceb7275c583a76bc02f0985483fdc2ec]: Textual amendment: [Sch. Pts. 6-8](https://www.legislation.gov.uk/uksi/2005/50/schedule/part/6) inserted (31.8.2006) by [The Blood Safety and Quality (Amendment) Regulations 2006 (S.I. 2006/2013)](https://www.legislation.gov.uk/uksi/2006/2013), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2013/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2006/2013/regulation/15)

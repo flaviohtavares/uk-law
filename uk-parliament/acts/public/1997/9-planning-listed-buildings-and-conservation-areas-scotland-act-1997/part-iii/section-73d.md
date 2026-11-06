@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73D. Enforcement in relation to the Crown[^key-ff4e202edb6679218320d2aa94dd0ff5]
+## 73D. Enforcement in relation to the Crown[^c-ff4e202edb6679218320d2aa94dd0ff5]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff4e202edb6679218320d2aa94dd0ff5]: Textual amendment: Ss. 73D, 73E inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 94(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/94/4), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
+[^c-ff4e202edb6679218320d2aa94dd0ff5]: Textual amendment: Ss. 73D, 73E inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 94(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/94/4), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)

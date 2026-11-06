@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Provision of Level 1 disclosures[^key-138314113cd20b56b6b1f378c8b8e1fa]
+## 2. Provision of Level 1 disclosures[^c-138314113cd20b56b6b1f378c8b8e1fa]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ if it appears to them from the information contained in the application that it 
 
 ## Annotations
 
-[^key-138314113cd20b56b6b1f378c8b8e1fa]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/13/section/2) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-138314113cd20b56b6b1f378c8b8e1fa]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/13/section/2) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

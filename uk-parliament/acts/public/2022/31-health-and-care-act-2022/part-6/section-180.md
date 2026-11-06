@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Licensing of cosmetic procedures[^key-212f553807e573040dd94893a0cc0563][^key-c35a9939bb47deaf931675e290c87696]
+## 180. Licensing of cosmetic procedures[^c-212f553807e573040dd94893a0cc0563][^c-c35a9939bb47deaf931675e290c87696]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
   - (b) a district council in England;
   - (c) a London borough council;
   - (d) a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
-  - (da) a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;[^key-1787f4ef9896cbe76875e0393360e45a]
+  - (da) a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;[^c-1787f4ef9896cbe76875e0393360e45a]
   - (e) the Common Council of the City of London (in its capacity as a local authority), the Sub-Treasurer of the Inner Temple or the Under Treasurer of the Middle Temple;
   - (f) the Council of the Isles of Scilly;
 - “**personal licence**” means a licence, granted by a specified local authority under the regulations, which authorises an individual to carry out a cosmetic procedure of a description specified in the licence;
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-212f553807e573040dd94893a0cc0563]: Commencement: S. 180 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-212f553807e573040dd94893a0cc0563]: Commencement: S. 180 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-c35a9939bb47deaf931675e290c87696]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2022/31/section/180) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c35a9939bb47deaf931675e290c87696]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2022/31/section/180) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-1787f4ef9896cbe76875e0393360e45a]: Textual amendment: Words in [s. 180(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/180/2) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 225](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/225) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-1787f4ef9896cbe76875e0393360e45a]: Textual amendment: Words in [s. 180(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/180/2) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 225](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/225) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

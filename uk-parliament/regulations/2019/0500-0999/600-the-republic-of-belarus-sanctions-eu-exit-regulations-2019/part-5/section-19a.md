@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Definition of “interception and monitoring services”[^key-c7ddbda683b4a7bc6be3be5a29fe1d35]
+## 19A. Definition of “interception and monitoring services”[^c-c7ddbda683b4a7bc6be3be5a29fe1d35]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ddbda683b4a7bc6be3be5a29fe1d35]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2019/600/regulation/19A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/1146/regulation/12)
+[^c-c7ddbda683b4a7bc6be3be5a29fe1d35]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2019/600/regulation/19A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/1146/regulation/12)

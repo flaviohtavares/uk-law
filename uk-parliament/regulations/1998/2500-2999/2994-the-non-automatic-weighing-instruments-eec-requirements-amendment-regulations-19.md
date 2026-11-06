@@ -44,13 +44,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 15(1) and 86(1) of the Weights and Measures Act 1985[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:–
 
-## 1. Citation, commencement and interpretation[^key-f5024c19efeeb042f8b42f689eb813dd]
+## 1. Citation, commencement and interpretation[^c-f5024c19efeeb042f8b42f689eb813dd]
 
 (1) These Regulations may be cited as the Non-automatic Weighing Instruments (EEC Requirements) (Amendment) Regulations 1998 and shall come into force on 31st December 1998.
 
 (2) In these Regulations, the “principal Regulations” means the Non-automatic Weighing Instruments (EEC Requirements) Regulations 1995[^f00002].
 
-## 2. Amendment of the principal Regulations[^key-5e7e380764f79047fedb5022068f23af]
+## 2. Amendment of the principal Regulations[^c-5e7e380764f79047fedb5022068f23af]
 
 For regulations 28 to 37 inclusive of the principal Regulations there shall be substituted the following–
 
@@ -168,11 +168,11 @@ These Regulations have been notified to the European Commission in draft form pu
 
 [^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-f5024c19efeeb042f8b42f689eb813dd]: Commencement: Reg. 1 in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2994/regulation/1/1)
+[^c-f5024c19efeeb042f8b42f689eb813dd]: Commencement: Reg. 1 in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2994/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1995/1907](https://www.legislation.gov.uk/uksi/1995/1907) as amended by S.I. [1997/3035](https://www.legislation.gov.uk/uksi/1997/3035).
 
-[^key-5e7e380764f79047fedb5022068f23af]: Commencement: Reg. 2 in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2994/regulation/1/1)
+[^c-5e7e380764f79047fedb5022068f23af]: Commencement: Reg. 2 in force at 31.12.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2994/regulation/1/1)
 
 [^f00003]: Footnote: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 

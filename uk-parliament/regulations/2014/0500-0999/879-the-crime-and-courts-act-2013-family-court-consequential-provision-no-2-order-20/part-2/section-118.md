@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Amendments to the Recovery of Maintenance (United States of America) Order 2007[^key-d19d0fea01363673db1b64d25d2e37a0]
+## 118. Amendments to the Recovery of Maintenance (United States of America) Order 2007[^c-d19d0fea01363673db1b64d25d2e37a0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In article 3 of the Recovery of Maintenance (United States of America) Order 200
 
 ## Annotations
 
-[^key-d19d0fea01363673db1b64d25d2e37a0]: Commencement: Art. 118 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d19d0fea01363673db1b64d25d2e37a0]: Commencement: Art. 118 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00034]: Footnote: [S.I. 2007/2006](https://www.legislation.gov.uk/uksi/2007/2006).

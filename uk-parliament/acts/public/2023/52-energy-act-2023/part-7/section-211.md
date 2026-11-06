@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Electricity support payments for energy-intensive industries[^key-610246a5080422a11458cdb08f492b15]
+## 211. Electricity support payments for energy-intensive industries[^c-610246a5080422a11458cdb08f492b15]
 
 *Extent: E+W+S*
 
@@ -80,4 +80,4 @@ to be recoverable from the person as a civil debt due to the Secretary of State 
 
 ## Annotations
 
-[^key-610246a5080422a11458cdb08f492b15]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2023/52/section/211) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-610246a5080422a11458cdb08f492b15]: Commencement: [S. 211](https://www.legislation.gov.uk/ukpga/2023/52/section/211) in force at 26.12.2023, see [s. 334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)

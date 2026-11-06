@@ -108,7 +108,7 @@ Any dispute whether or not the said result has been secured by any regulations m
 - (a) to any referee or to the members of any board of referees appointed by him under this Act, such fees and allowances as he may, with the consent of the Treasury, determine; and
 - (b) to persons giving evidence before any such referee or board, such allowances as he may, with the consent of the Treasury, determine.
 
-(2) Nothing in any of sections 1 to 15 of and schedule 1 to the Arbitration (Scotland) Act 2010 or[^key-fe4b68eced358608bae2c5d6f2014391] Part I of the Arbitration Act 1996[^c598148] shall be construed as applying to any proceedings before a referee or board of referees appointed under this Act by the Minister of Labour and National Service.
+(2) Nothing in any of sections 1 to 15 of and schedule 1 to the Arbitration (Scotland) Act 2010 or[^c-fe4b68eced358608bae2c5d6f2014391] Part I of the Arbitration Act 1996[^c598148] shall be construed as applying to any proceedings before a referee or board of referees appointed under this Act by the Minister of Labour and National Service.
 
 ### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c598149]
 
@@ -160,7 +160,7 @@ This Act may be cited as the Commonwealth Telegraphs Act 1949.
 
 [^c598146]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/39/section/7) repealed by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1969/48/schedule/8/part/I)
 
-[^key-fe4b68eced358608bae2c5d6f2014391]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/39/section/8/2) inserted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (No. 220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 1](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/1)
+[^c-fe4b68eced358608bae2c5d6f2014391]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/39/section/8/2) inserted (S.) (5.6.2010) by [Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (No. 220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [Sch. para. 1](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/1)
 
 [^c598148]: Textual amendment: Words in s. 8(2) substituted (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/5) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [arts. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3), [4](https://www.legislation.gov.uk/uksi/1996/3146/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2))
 

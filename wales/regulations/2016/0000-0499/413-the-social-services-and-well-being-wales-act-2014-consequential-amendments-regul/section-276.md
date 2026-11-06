@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**276.**[^key-a8667c55784d7ffe7551d79c2478e193] Omit Part 3 (integrated family support teams).
+**276.**[^c-a8667c55784d7ffe7551d79c2478e193] Omit Part 3 (integrated family support teams).
 
 ## Annotations
 
-[^key-a8667c55784d7ffe7551d79c2478e193]: Commencement: Reg. 276 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a8667c55784d7ffe7551d79c2478e193]: Commencement: Reg. 276 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

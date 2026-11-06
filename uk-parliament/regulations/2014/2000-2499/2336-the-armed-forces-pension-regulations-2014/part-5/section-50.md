@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Reduction in pension debit member’s benefits[^key-edc6df5fb0d2aedc584998d0bfd18b8e]
+## 50. Reduction in pension debit member’s benefits[^c-edc6df5fb0d2aedc584998d0bfd18b8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled under this scheme are s
 
 ## Annotations
 
-[^key-edc6df5fb0d2aedc584998d0bfd18b8e]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/2336/regulation/50) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-edc6df5fb0d2aedc584998d0bfd18b8e]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/2336/regulation/50) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -37,13 +37,13 @@ summary: ''
 
 (4) A supporting statement, in relation to a detained person, is a statement made by the responsible authority which—
 
-- (a) identifies the establishment where the person is detained, [^key-d9fbae85a0c1e0fc919d6259d1ab644c]...
-- (b) states that the responsible authority has no objection to that establishment being specified in a notice of proposed civil partnership as the place at which the person is to register as a civil partner , and[^key-6c4b92d6dbc22dce07b3fc5934ca17a2]
+- (a) identifies the establishment where the person is detained, [^c-d9fbae85a0c1e0fc919d6259d1ab644c]...
+- (b) states that the responsible authority has no objection to that establishment being specified in a notice of proposed civil partnership as the place at which the person is to register as a civil partner , and[^c-6c4b92d6dbc22dce07b3fc5934ca17a2]
 - (c) states whether the person is serving a life sentence and, if so, whether the person is subject to a whole life order.
 
 (5) A supporting statement must contain such information and must be made in such manner as may be prescribed by regulations.
 
-(5A)[^key-ef13b3bd7e90259a3e481616c3522bac] Where the detained person is serving a life sentence and is subject to a whole life order, each notice of proposed civil partnership must also be accompanied by a statement made by the Secretary of State not more than 21 days before the day on which the notice is recorded stating that the detained person has the permission required by section 3(1A).
+(5A)[^c-ef13b3bd7e90259a3e481616c3522bac] Where the detained person is serving a life sentence and is subject to a whole life order, each notice of proposed civil partnership must also be accompanied by a statement made by the Secretary of State not more than 21 days before the day on which the notice is recorded stating that the detained person has the permission required by section 3(1A).
 
 (5B) The fact that the registration authority to whom a notice of proposed civil partnership is given has received a statement under subsection (5A) must be recorded in the register.
 
@@ -54,7 +54,7 @@ summary: ''
 
 (7) “**Patient**” and “**hospital**” have the same meaning as in Part 2 of the 1983 Act and “**managers**”, in relation to a hospital, has the same meaning as in section 145(1) of the 1983 Act.
 
-(7A)[^key-a418fc01bbed7ace29199c650bac06c7] “Life sentence” and “whole life order” have the meanings given by section 3(3) of this Act and section 3(4) (persons treated as being subject to a whole life order) applies for the purposes of this section.
+(7A)[^c-a418fc01bbed7ace29199c650bac06c7] “Life sentence” and “whole life order” have the meanings given by section 3(3) of this Act and section 3(4) (persons treated as being subject to a whole life order) applies for the purposes of this section.
 
 (8) For the purposes of this Chapter, a detained person is to be treated, if he would not otherwise be so treated, as resident and usually resident at the place where he is for the time being.
 
@@ -62,10 +62,10 @@ summary: ''
 
 [^c20565241]: Commencement: S. 19 wholly in force at 5.12.2005; s. 19 not in force at Royal Assent see s. 263; s. 19(5) in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and otherwise 5.12.2005 insofar as not already in force by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1); s. 19(1)-(4)(6)-(8) in force at 5.12.2005 insofar as not already in force by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-d9fbae85a0c1e0fc919d6259d1ab644c]: Textual amendment: Word in [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/19/4/a) omitted (27.5.2025) by virtue of [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(7)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/7/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/4/b)
+[^c-d9fbae85a0c1e0fc919d6259d1ab644c]: Textual amendment: Word in [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/19/4/a) omitted (27.5.2025) by virtue of [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(7)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/7/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/4/b)
 
-[^key-6c4b92d6dbc22dce07b3fc5934ca17a2]: Textual amendment: [S. 19(4)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/19/4/c) and word inserted (27.5.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(7)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/7/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/4/b)
+[^c-6c4b92d6dbc22dce07b3fc5934ca17a2]: Textual amendment: [S. 19(4)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/19/4/c) and word inserted (27.5.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(7)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/7/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/441/regulation/4/b)
 
-[^key-ef13b3bd7e90259a3e481616c3522bac]: Textual amendment: S. 19(5A)(5B) inserted (2.8.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(8)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/8), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/b)
+[^c-ef13b3bd7e90259a3e481616c3522bac]: Textual amendment: S. 19(5A)(5B) inserted (2.8.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(8)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/8), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/b)
 
-[^key-a418fc01bbed7ace29199c650bac06c7]: Textual amendment: S. 19(7A) inserted (2.8.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(9)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/9), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/b)
+[^c-a418fc01bbed7ace29199c650bac06c7]: Textual amendment: S. 19(7A) inserted (2.8.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 76(9)](https://www.legislation.gov.uk/ukpga/2024/21/section/76/9), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 235. Warrants under section 236[^key-a66085cbd1d7a1eb962813b6a27105f4]
+## 235. Warrants under section 236[^c-a66085cbd1d7a1eb962813b6a27105f4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-a66085cbd1d7a1eb962813b6a27105f4]: Commencement: Rule 235 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-a66085cbd1d7a1eb962813b6a27105f4]: Commencement: Rule 235 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

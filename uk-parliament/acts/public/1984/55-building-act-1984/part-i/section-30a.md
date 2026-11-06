@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30A. Determination of certain applications by appropriate national authority[^key-9251c87f35a95d11640f1e95e13458d5][^key-248d7d9154b45a372461faa49d3d3f53]
+## 30A. Determination of certain applications by appropriate national authority[^c-9251c87f35a95d11640f1e95e13458d5][^c-248d7d9154b45a372461faa49d3d3f53]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9251c87f35a95d11640f1e95e13458d5]: Modification: [S. 30A](https://www.legislation.gov.uk/ukpga/1984/55/section/30A) restricted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [50(2)](https://www.legislation.gov.uk/uksi/2023/909/regulation/50/2) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-9251c87f35a95d11640f1e95e13458d5]: Modification: [S. 30A](https://www.legislation.gov.uk/ukpga/1984/55/section/30A) restricted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [50(2)](https://www.legislation.gov.uk/uksi/2023/909/regulation/50/2) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-248d7d9154b45a372461faa49d3d3f53]: Textual amendment: [S. 30A and cross-heading](https://www.legislation.gov.uk/ukpga/1984/55/part/I/crossheading/determination-by-appropriate-national-authority) inserted (6.4.2023 except in relation to W., 5.9.2023 for W. for specified purposes, 1.7.2026 for W. in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(p)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/p); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/iv); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/c)
+[^c-248d7d9154b45a372461faa49d3d3f53]: Textual amendment: [S. 30A and cross-heading](https://www.legislation.gov.uk/ukpga/1984/55/part/I/crossheading/determination-by-appropriate-national-authority) inserted (6.4.2023 except in relation to W., 5.9.2023 for W. for specified purposes, 1.7.2026 for W. in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(p)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/p); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/iv); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/c)

@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (revoked)[^key-733eb5b6327229d1ceb5172b75be98d2]
+The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (revoked)[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 Made
 
@@ -42,51 +42,51 @@ Coming into operation
 
 16th September 2024
 
-[^key-733eb5b6327229d1ceb5172b75be98d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-733eb5b6327229d1ceb5172b75be98d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 1. Citation, commencement and interpretation[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Entitlement to a Winter Fuel Payment[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 2. Entitlement to a Winter Fuel Payment[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount of Winter Fuel Payment[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 3. Amount of Winter Fuel Payment[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons not entitled to a Winter Fuel Payment[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 4. Persons not entitled to a Winter Fuel Payment[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making a Winter Fuel Payment without a claim[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 5. Making a Winter Fuel Payment without a claim[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 6. Consequential amendment to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-733eb5b6327229d1ceb5172b75be98d2]
+## 7. Revocations[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-733eb5b6327229d1ceb5172b75be98d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-733eb5b6327229d1ceb5172b75be98d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-733eb5b6327229d1ceb5172b75be98d2]SCHEDULES
+[^c-733eb5b6327229d1ceb5172b75be98d2]SCHEDULES
 
-## SCHEDULE 1 — Countries[^key-733eb5b6327229d1ceb5172b75be98d2]
+## SCHEDULE 1 — Countries[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 Regulation 2(3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Regulations and Orders revoked[^key-733eb5b6327229d1ceb5172b75be98d2]
+## SCHEDULE 2 — Regulations and Orders revoked[^c-733eb5b6327229d1ceb5172b75be98d2]
 
 Regulation 7(1)
 
@@ -94,8 +94,8 @@ Regulation 7(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-733eb5b6327229d1ceb5172b75be98d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-733eb5b6327229d1ceb5172b75be98d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-733eb5b6327229d1ceb5172b75be98d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2024/160) revoked (15.9.2025) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2025 (S.R. 2025/142)](https://www.legislation.gov.uk/nisr/2025/142), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2025/142/regulation/7/a)
+[^c-733eb5b6327229d1ceb5172b75be98d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2024/160) revoked (15.9.2025) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2025 (S.R. 2025/142)](https://www.legislation.gov.uk/nisr/2025/142), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2025/142/regulation/7/a)

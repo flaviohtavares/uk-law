@@ -32,7 +32,7 @@ summary: ''
 
 Welfare Of Animals
 
-The Welfare of Animals (Slaughter or Killing) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+The Welfare of Animals (Slaughter or Killing) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 Made
 
@@ -42,82 +42,82 @@ Coming into operation
 
 1st January 2012
 
-[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 1. Citation and commencement[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 2. Interpretation[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 3. Amendments to the Welfare of Animals (Slaughter or Killing) Regulations (Northern Ireland) 1996[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The killing of animals elsewhere than in a slaughterhouse or knacker’s yard[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 4. The killing of animals elsewhere than in a slaughterhouse or knacker’s yard[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 5. Offences and penalties[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Methods of killing animals[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 6. Methods of killing animals[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. The killing of birds by exposure to gas mixtures[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 7. The killing of birds by exposure to gas mixtures[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Construction of the chamber[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 8. Construction of the chamber[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. The operation of the chamber[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 9. The operation of the chamber[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Killing birds by exposure to gas mixtures elsewhere than in a slaughterhouse[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 10. Killing birds by exposure to gas mixtures elsewhere than in a slaughterhouse[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Interpretation[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 11. Interpretation[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Killing birds by exposure to gas mixtures[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 12. Killing birds by exposure to gas mixtures[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. End of lay hens and end of life breeder hens[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 13. End of lay hens and end of life breeder hens[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Killing where there is a restriction on movement[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 14. Killing where there is a restriction on movement[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Construction of the chamber[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 15. Construction of the chamber[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Operation of the chamber[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 16. Operation of the chamber[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Combinations of gas mixtures and chamber[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]
+## 17. Combinations of gas mixtures and chamber[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f01968f812d9a2b1cdc5d6cbdabc5c17]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/407) revoked (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [39](https://www.legislation.gov.uk/nisr/2014/107/regulation/39), [Sch. 9](https://www.legislation.gov.uk/nisr/2014/107/schedule/9)
+[^c-f01968f812d9a2b1cdc5d6cbdabc5c17]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/407) revoked (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [39](https://www.legislation.gov.uk/nisr/2014/107/regulation/39), [Sch. 9](https://www.legislation.gov.uk/nisr/2014/107/schedule/9)

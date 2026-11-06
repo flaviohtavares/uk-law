@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Arrangements for emergency cover[^key-d53a83c5cbef166b7f58b0e599d1c811]
+## 20. Arrangements for emergency cover[^c-d53a83c5cbef166b7f58b0e599d1c811]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ It shall be the responsibility of a Health Board to make any arrangements that m
 
 ## Annotations
 
-[^key-d53a83c5cbef166b7f58b0e599d1c811]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/208/regulation/20) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-d53a83c5cbef166b7f58b0e599d1c811]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/208/regulation/20) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Disclosure periods for particular sentences[^key-1e315cfc35efebc52db1cc61c3e2d854]
+## 19. Disclosure periods for particular sentences[^c-1e315cfc35efebc52db1cc61c3e2d854]
 
 *Extent: S*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e315cfc35efebc52db1cc61c3e2d854]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/14/section/19) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-1e315cfc35efebc52db1cc61c3e2d854]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/14/section/19) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

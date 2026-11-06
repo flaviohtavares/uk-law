@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Updating[^key-1b61ba434ce719ca2a871f583965e21f]
+## 34. Updating[^c-1b61ba434ce719ca2a871f583965e21f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local housing authority must take reasonable steps to keep information in the 
 
 ## Annotations
 
-[^key-1b61ba434ce719ca2a871f583965e21f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2016/22/section/34) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-1b61ba434ce719ca2a871f583965e21f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2016/22/section/34) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

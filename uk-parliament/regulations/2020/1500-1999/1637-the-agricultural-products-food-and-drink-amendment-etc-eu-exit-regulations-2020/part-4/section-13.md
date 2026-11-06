@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. The Spirit Drinks Regulations 2008[^key-0abcec25fb7b9bbed4328f264f9159f6]
+## 13. The Spirit Drinks Regulations 2008[^c-0abcec25fb7b9bbed4328f264f9159f6]
 
 *Extent: N.I.*
 
@@ -114,7 +114,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0abcec25fb7b9bbed4328f264f9159f6]: Commencement: Reg. 13 in force at 31.12.2020, see reg. 1(7)
+[^c-0abcec25fb7b9bbed4328f264f9159f6]: Commencement: Reg. 13 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414071]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 

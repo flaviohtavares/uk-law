@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Bookmakers’ Committee.[^key-59208f07b99aa33cc97286a22ca8bdd5]
+## 26. Bookmakers’ Committee.[^c-59208f07b99aa33cc97286a22ca8bdd5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59208f07b99aa33cc97286a22ca8bdd5]: Textual amendment: S. 26 omitted (25.4.2017) by virtue of [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/589/schedule/paragraph/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))
+[^c-59208f07b99aa33cc97286a22ca8bdd5]: Textual amendment: S. 26 omitted (25.4.2017) by virtue of [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/589/schedule/paragraph/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))

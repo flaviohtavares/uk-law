@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 9
 
-### 1. Disturbance of site[^key-e125add5ef7318222e2c466f31f2a6fa]
+### 1. Disturbance of site[^c-e125add5ef7318222e2c466f31f2a6fa]
 
 (1) In any case where any person, as a result of an accident arising out of or in connection with work at an offshore workplace, dies or suffers a major injury, a person shall not disturb the place where it happened or tamper with anything at that place before—
 
@@ -37,4 +37,4 @@ Regulation 9
 
 ## Annotations
 
-[^key-e125add5ef7318222e2c466f31f2a6fa]: Commencement: Sch. 6 para. 1 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-e125add5ef7318222e2c466f31f2a6fa]: Commencement: Sch. 6 para. 1 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

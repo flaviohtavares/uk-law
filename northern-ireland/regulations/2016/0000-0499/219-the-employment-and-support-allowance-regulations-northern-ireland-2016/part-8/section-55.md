@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Reduction period to continue where an award of an employment and support allowance terminates[^key-a54f21985fa39c6f94e2e1342b1322f3]
+## 55. Reduction period to continue where an award of an employment and support allowance terminates[^c-a54f21985fa39c6f94e2e1342b1322f3]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a54f21985fa39c6f94e2e1342b1322f3]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2016/219/regulation/55) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-a54f21985fa39c6f94e2e1342b1322f3]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2016/219/regulation/55) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

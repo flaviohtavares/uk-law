@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Assured tenancies: pre-action protocol[^key-0210782b434ea6120421466a1fcf6b3e]
+## 47. Assured tenancies: pre-action protocol[^c-0210782b434ea6120421466a1fcf6b3e]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0210782b434ea6120421466a1fcf6b3e]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2022/8/section/47) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-0210782b434ea6120421466a1fcf6b3e]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2022/8/section/47) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

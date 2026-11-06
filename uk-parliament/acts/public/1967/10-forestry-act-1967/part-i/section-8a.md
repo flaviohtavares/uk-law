@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-In performing their functions under this Act the Ministers shall have regard to the national interest in maintaining and expanding the forestry resources *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] of[^c377223] *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] England or (as the case may be) Wales[^key-0a7734ad71088a9076652ec3846fb1af] *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] [^key-b2f1ea71147d2a8c3ff4f4577405ed0f]....
+In performing their functions under this Act the Ministers shall have regard to the national interest in maintaining and expanding the forestry resources *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] of[^c377223] *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] England or (as the case may be) Wales[^c-0a7734ad71088a9076652ec3846fb1af] *(affected by repeal, see note)*[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7] [^c-b2f1ea71147d2a8c3ff4f4577405ed0f]....
 
 ## Annotations
 
@@ -30,6 +30,6 @@ In performing their functions under this Act the Ministers shall have regard to 
 
 [^c377223]: Textual amendment: Words in s. 8A substituted (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [art. 2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para.3](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/3)
 
-[^key-0a7734ad71088a9076652ec3846fb1af]: Textual amendment: Words in s. 8A substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 51](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/51) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0a7734ad71088a9076652ec3846fb1af]: Textual amendment: Words in s. 8A substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 51](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/51) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b2f1ea71147d2a8c3ff4f4577405ed0f]: Textual amendment: Words in [s. 8A](https://www.legislation.gov.uk/ukpga/1967/10/section/8A) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/11); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2
+[^c-b2f1ea71147d2a8c3ff4f4577405ed0f]: Textual amendment: Words in [s. 8A](https://www.legislation.gov.uk/ukpga/1967/10/section/8A) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/11); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2

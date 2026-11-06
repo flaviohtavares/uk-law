@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. No bonus on Children’s Bonds[^key-29594518bff84b99396abe7c52550c26]
+## 62. No bonus on Children’s Bonds[^c-29594518bff84b99396abe7c52550c26]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No bonus is payable in relation to Children’s Bonds.
 
 ## Annotations
 
-[^key-29594518bff84b99396abe7c52550c26]: Commencement: Reg. 62 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-29594518bff84b99396abe7c52550c26]: Commencement: Reg. 62 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

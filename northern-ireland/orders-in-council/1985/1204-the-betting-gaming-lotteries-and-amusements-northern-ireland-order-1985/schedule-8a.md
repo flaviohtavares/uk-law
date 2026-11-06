@@ -24,7 +24,7 @@ summary: ''
 
 **1.** (1) In this Schedule “betting worker” means an employee who, under his contract of employment, is or may be required to do betting work.
 
-(2)[^key-a9f439182e07d5fc034d1eb461ef250d] In this Schedule “**betting work**” means—
+(2)[^c-a9f439182e07d5fc034d1eb461ef250d] In this Schedule “**betting work**” means—
 
 - (a) work at a track for a bookmaker on a day on which the bookmaker acts as such at the track, being work which consists of or includes dealing with betting transactions, and
 - (b) work in a licensed office on a day on which the office is open for use for the effecting of betting transactions.
@@ -36,7 +36,7 @@ summary: ''
 
 (4) In this Schedule—
 
-- “[^key-aa9c39e6ed3b1c0dee51266f5b371393]**commencement date**” means—
+- “[^c-aa9c39e6ed3b1c0dee51266f5b371393]**commencement date**” means—
   - (a) in relation to a person who is a betting worker by virtue of sub-paragraph (2)(a), the day on which Schedule 1 to the Betting and Gaming (Northern Ireland) Order 2004 comes into operation;
   - (b) in relation to a person who is a betting worker by virtue of sub-paragraph (2)(b), the day on which section 3 of the Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 comes into operation.
 - “notice period”, in relation to an opted-out betting worker, has the meaning given by paragraph 7(3);
@@ -163,7 +163,7 @@ paragraph 7(3) has effect in relation to the betting worker with the substitutio
 
 > STATUTORY RIGHTS IN RELATION TO SUNDAY BETTING WORK
 >
-> You have become employed under your contract of employment to do Sunday betting work, that is to say, work at a track on a Sunday on which your employer is taking bets at the track or in a licensed office on a Sunday on which it is open for business[^key-f2822b874b53d25283e5f1972d5dcc97].
+> You have become employed under your contract of employment to do Sunday betting work, that is to say, work at a track on a Sunday on which your employer is taking bets at the track or in a licensed office on a Sunday on which it is open for business[^c-f2822b874b53d25283e5f1972d5dcc97].
 >
 > However, if you wish, you can give a notice, as described in the next paragraph, to your employer and you will then have the right not to do Sunday betting work once three months have passed from the date on which you gave the notice.
 >
@@ -294,8 +294,8 @@ and, in the absence of evidence establishing the contrary, an employer shall be 
 
 [^c17004071]: Textual amendment: [2004 NI 1](https://www.legislation.gov.uk/2004/ni1)
 
-[^key-a9f439182e07d5fc034d1eb461ef250d]: Textual amendment: [Sch. 8A para. 1(2)](https://www.legislation.gov.uk/nisi/1985/1204/schedule/8A/paragraph/1/2) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/14/section/3/2), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-a9f439182e07d5fc034d1eb461ef250d]: Textual amendment: [Sch. 8A para. 1(2)](https://www.legislation.gov.uk/nisi/1985/1204/schedule/8A/paragraph/1/2) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/14/section/3/2), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-aa9c39e6ed3b1c0dee51266f5b371393]: Textual amendment: Words in [Sch. 8A para. 1(4)](https://www.legislation.gov.uk/nisi/1985/1204/schedule/8A/paragraph/1/4) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/14/section/3/3), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-aa9c39e6ed3b1c0dee51266f5b371393]: Textual amendment: Words in [Sch. 8A para. 1(4)](https://www.legislation.gov.uk/nisi/1985/1204/schedule/8A/paragraph/1/4) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/14/section/3/3), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-f2822b874b53d25283e5f1972d5dcc97]: Textual amendment: Words in [Sch. 8A para. 8(4)](https://www.legislation.gov.uk/nisi/1985/1204/schedule/8A/paragraph/8/4) inserted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(4)](https://www.legislation.gov.uk/nia/2022/14/section/3/4), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-f2822b874b53d25283e5f1972d5dcc97]: Textual amendment: Words in [Sch. 8A para. 8(4)](https://www.legislation.gov.uk/nisi/1985/1204/schedule/8A/paragraph/8/4) inserted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 3(4)](https://www.legislation.gov.uk/nia/2022/14/section/3/4), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

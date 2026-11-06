@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Loss of benefit for commission of benefit offences[^key-477aadd2091c32a97a75797e0b275697]
+## 49. Loss of benefit for commission of benefit offences[^c-477aadd2091c32a97a75797e0b275697]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-477aadd2091c32a97a75797e0b275697]: Commencement: S. 49 in force at 1.4.2008 by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/787/article/2/2)
+[^c-477aadd2091c32a97a75797e0b275697]: Commencement: S. 49 in force at 1.4.2008 by [S.I. 2008/787](https://www.legislation.gov.uk/uksi/2008/787), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/787/article/2/2)

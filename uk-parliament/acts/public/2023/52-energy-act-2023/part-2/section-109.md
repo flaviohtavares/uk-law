@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Preparation and agreement of information and samples plans[^key-2acd01646f44144ccee35ed9471b0d39]
+## 109. Preparation and agreement of information and samples plans[^c-2acd01646f44144ccee35ed9471b0d39]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ the plan has effect as if it had been prepared by the responsible person and agr
 
 ## Annotations
 
-[^key-2acd01646f44144ccee35ed9471b0d39]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/52/section/109) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-2acd01646f44144ccee35ed9471b0d39]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2023/52/section/109) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

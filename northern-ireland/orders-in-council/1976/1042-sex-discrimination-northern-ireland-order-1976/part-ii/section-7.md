@@ -22,9 +22,9 @@ summary: ''
 
 Each of the following comparisons, that is—
 
-- (aa)[^key-b3368772390b855674fb3554f1209af8] a comparison of the cases of persons required for the purposes of Article 3,
-- (a) a comparison of the cases of persons of different sex under Article 3A[^key-75b705811b3f7228afde6614ab60ebe9] ,
-- (b) a comparison of the cases of persons required for the purposes of Article 4A or 4B[^key-f78b04bdfa11de704057fcf6ba74ab14] , and
+- (aa)[^c-b3368772390b855674fb3554f1209af8] a comparison of the cases of persons required for the purposes of Article 3,
+- (a) a comparison of the cases of persons of different sex under Article 3A[^c-75b705811b3f7228afde6614ab60ebe9] ,
+- (b) a comparison of the cases of persons required for the purposes of Article 4A or 4B[^c-f78b04bdfa11de704057fcf6ba74ab14] , and
 - (c) a comparison of the cases of persons who do and who do not fulfil the condition in Article 5(2),
 
 must be such that the relevant circumstances in the one case are the same, or not materially different, in the other.
@@ -33,8 +33,8 @@ must be such that the relevant circumstances in the one case are the same, or no
 
 [^c17232461]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-b3368772390b855674fb3554f1209af8]: Textual amendment: Art. 7(aa) inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [8(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/8/a)
+[^c-b3368772390b855674fb3554f1209af8]: Textual amendment: Art. 7(aa) inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [8(a)](https://www.legislation.gov.uk/nisr/2016/191/regulation/8/a)
 
-[^key-75b705811b3f7228afde6614ab60ebe9]: Textual amendment: Words in art. 7(a) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/8/b)
+[^c-75b705811b3f7228afde6614ab60ebe9]: Textual amendment: Words in art. 7(a) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2016/191/regulation/8/b)
 
-[^key-f78b04bdfa11de704057fcf6ba74ab14]: Textual amendment: Words in art. 7(b) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [8(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/8/c)
+[^c-f78b04bdfa11de704057fcf6ba74ab14]: Textual amendment: Words in art. 7(b) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [8(c)](https://www.legislation.gov.uk/nisr/2016/191/regulation/8/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Dual carriageways and roundabouts.[^c16554761][^key-952dae30b26b92174454cfb332444d1f]
+## 64. Dual carriageways and roundabouts.[^c16554761][^c-952dae30b26b92174454cfb332444d1f]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c16554761]: Modification: S. 64 applied (14.3.2002) by [The Chester Guided Busway Order 2002 (S.I. 2002/412)](https://www.legislation.gov.uk/uksi/2002/412), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2002/412/article/3/1/b) (with [art. 38](https://www.legislation.gov.uk/uksi/2002/412/article/38))
 
-[^key-952dae30b26b92174454cfb332444d1f]: Modification: S. 64 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(c)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/c)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-952dae30b26b92174454cfb332444d1f]: Modification: S. 64 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(c)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/c)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
 [^c13420841]: Textual amendment: S. 64(4) repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
 

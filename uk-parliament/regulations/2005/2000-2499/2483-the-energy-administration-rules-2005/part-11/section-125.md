@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Affidavit in support of application[^key-2546bbcbedc1f6bc9197c41639deda01]
+## 125. Affidavit in support of application[^c-2546bbcbedc1f6bc9197c41639deda01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under Rule 124(3) shall be supported by an affidavit of a registe
 
 ## Annotations
 
-[^key-2546bbcbedc1f6bc9197c41639deda01]: Commencement: Rule 125 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-2546bbcbedc1f6bc9197c41639deda01]: Commencement: Rule 125 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

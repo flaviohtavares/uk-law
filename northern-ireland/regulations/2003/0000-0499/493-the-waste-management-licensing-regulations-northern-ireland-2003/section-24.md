@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Amendment of the Special Waste Regulations (Northern Ireland) 1998[^key-332579f8b865f1b1ebadc61fe87a2e90]
+## 24. Amendment of the Special Waste Regulations (Northern Ireland) 1998[^c-332579f8b865f1b1ebadc61fe87a2e90]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-332579f8b865f1b1ebadc61fe87a2e90]: Commencement: Reg. 24 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-332579f8b865f1b1ebadc61fe87a2e90]: Commencement: Reg. 24 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00060]: Footnote: [S.R. 1998 No. 289](https://www.legislation.gov.uk/nisr/1998/289)

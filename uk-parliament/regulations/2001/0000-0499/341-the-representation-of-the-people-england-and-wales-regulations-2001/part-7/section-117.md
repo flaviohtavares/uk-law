@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Supply of marked registers and lists after an election[^key-af8f43b7c7d8493f103f1640ea313879][^key-60e42a3d9d1c4799a10b26dca259c9e4][^key-5110a791f24c0641332ac1d0ee19b8fd]
+## 117. Supply of marked registers and lists after an election[^c-af8f43b7c7d8493f103f1640ea313879][^c-60e42a3d9d1c4799a10b26dca259c9e4][^c-5110a791f24c0641332ac1d0ee19b8fd]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 shall apply to such use.
 
-(7) The conditions in regulations 100(3), 103(3), 105(4), 106(3), 108(5) and 109(3) shall[^key-24e3abdf1fcf4083e4db1101aec51a9f] apply to a person to whom a marked register or list, or any information contained in it (that is not contained in the edited register) has been supplied or disclosed under those paragraphs as they apply to the person to whom those regulations apply.
+(7) The conditions in regulations 100(3), 103(3), 105(4), 106(3), 108(5) and 109(3) shall[^c-24e3abdf1fcf4083e4db1101aec51a9f] apply to a person to whom a marked register or list, or any information contained in it (that is not contained in the edited register) has been supplied or disclosed under those paragraphs as they apply to the person to whom those regulations apply.
 
 (8) Any person who has obtained or is entitled to obtain a copy of the marked register or lists under this regulation may—
 
@@ -55,10 +55,10 @@ for use in respect of the purposes for which that person is entitled to obtain s
 
 ## Annotations
 
-[^key-af8f43b7c7d8493f103f1640ea313879]: Modification: Regs. 116-120 applied (with modifications) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2010/2837/schedule/5/paragraph/1) Table
+[^c-af8f43b7c7d8493f103f1640ea313879]: Modification: Regs. 116-120 applied (with modifications) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2010/2837/schedule/5/paragraph/1) Table
 
-[^key-60e42a3d9d1c4799a10b26dca259c9e4]: Modification: [Reg. 117](https://www.legislation.gov.uk/uksi/2001/341/regulation/117) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 60](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/60)
+[^c-60e42a3d9d1c4799a10b26dca259c9e4]: Modification: [Reg. 117](https://www.legislation.gov.uk/uksi/2001/341/regulation/117) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 60](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/60)
 
-[^key-5110a791f24c0641332ac1d0ee19b8fd]: Textual amendment: Pt. 7 inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2006/2910/regulation/59) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/d))
+[^c-5110a791f24c0641332ac1d0ee19b8fd]: Textual amendment: Pt. 7 inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2006/2910/regulation/59) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/d))
 
-[^key-24e3abdf1fcf4083e4db1101aec51a9f]: Textual amendment: Words in [reg. 117(7)](https://www.legislation.gov.uk/uksi/2001/341/regulation/117/7) substituted (9.4.2007) by [The Representation of the People (England and Wales) and the Representation of the People (Combination of Polls) (England and Wales) (Amendment) Regulations 2007 (S.I. 2007/1025)](https://www.legislation.gov.uk/uksi/2007/1025), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1025/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2007/1025/regulation/2/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1025/regulation/1/3))
+[^c-24e3abdf1fcf4083e4db1101aec51a9f]: Textual amendment: Words in [reg. 117(7)](https://www.legislation.gov.uk/uksi/2001/341/regulation/117/7) substituted (9.4.2007) by [The Representation of the People (England and Wales) and the Representation of the People (Combination of Polls) (England and Wales) (Amendment) Regulations 2007 (S.I. 2007/1025)](https://www.legislation.gov.uk/uksi/2007/1025), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1025/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2007/1025/regulation/2/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1025/regulation/1/3))

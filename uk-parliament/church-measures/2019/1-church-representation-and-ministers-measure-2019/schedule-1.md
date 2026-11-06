@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 1 — New Schedule 3 to the Synodical Government Measure 1969[^key-3285d41d47c71a66349069b82af1726b]
+## SCHEDULE 1 — New Schedule 3 to the Synodical Government Measure 1969[^c-3285d41d47c71a66349069b82af1726b]
 
 *Extent: E*
 
@@ -2638,4 +2638,4 @@ Section 1(1)
 
 ## Annotations
 
-[^key-3285d41d47c71a66349069b82af1726b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukcm/2019/1/schedule/1) in force at 1.1.2020 by [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-3285d41d47c71a66349069b82af1726b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukcm/2019/1/schedule/1) in force at 1.1.2020 by [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)

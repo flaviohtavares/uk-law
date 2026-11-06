@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Powers to make regulations in relation to functions of strategic authorities and mayors[^key-c7ef101bde2ba524eb29b7d2abbd9162][^key-cff4bbd8e0efa3d29e1359a959f81724]
+## 54. Powers to make regulations in relation to functions of strategic authorities and mayors[^c-c7ef101bde2ba524eb29b7d2abbd9162][^c-cff4bbd8e0efa3d29e1359a959f81724]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 27 confers on the Secretary of State powers in relation to the function
 
 ## Annotations
 
-[^key-c7ef101bde2ba524eb29b7d2abbd9162]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-c7ef101bde2ba524eb29b7d2abbd9162]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-cff4bbd8e0efa3d29e1359a959f81724]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2026/23/section/54) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-cff4bbd8e0efa3d29e1359a959f81724]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2026/23/section/54) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

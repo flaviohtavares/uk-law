@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Foyle Area (Rivers Finn and Foyle Angling Permits) Regulations 2000 (revoked)[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+Foyle Area (Rivers Finn and Foyle Angling Permits) Regulations 2000 (revoked)[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 Made
 
@@ -41,49 +41,49 @@ Coming into operation
 
 14th August 2000
 
-[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 1. Citation and commencement[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 2. Interpretation[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. River Finn angling permit[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 3. River Finn angling permit[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. River Foyle angling permit[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 4. River Foyle angling permit[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Conditions relating to issue of angling permits[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 5. Conditions relating to issue of angling permits[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Production of angling permit[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 6. Production of angling permit[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## 7. Revocation[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — River Finn Angling Permits[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## SCHEDULE 1 — River Finn Angling Permits[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 Regulations 2, 3, 5(1) and (2) and 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The River Foyle Angling Permits[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
+## SCHEDULE 2 — The River Foyle Angling Permits[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]
 
 Regulations 2, 4, 5(3) and (4) and 6
 
@@ -91,8 +91,8 @@ Regulations 2, 4, 5(3) and (4) and 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2c3f8c4eeb46d54a6b5b186b3f7eb82]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/248) revoked (1.11.2011) by [The Foyle Area (Angling Permits) Regulations 2011 (S.R. 2011/297)](https://www.legislation.gov.uk/nisr/2011/297), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/297/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/297/regulation/4)
+[^c-b2c3f8c4eeb46d54a6b5b186b3f7eb82]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/248) revoked (1.11.2011) by [The Foyle Area (Angling Permits) Regulations 2011 (S.R. 2011/297)](https://www.legislation.gov.uk/nisr/2011/297), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/297/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/297/regulation/4)

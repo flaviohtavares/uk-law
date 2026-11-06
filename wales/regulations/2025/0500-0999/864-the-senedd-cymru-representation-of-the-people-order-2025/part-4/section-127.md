@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Time limit for prosecutions[^key-3740d6ea5fa0477527e042825f33a08a]
+## 127. Time limit for prosecutions[^c-3740d6ea5fa0477527e042825f33a08a]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3740d6ea5fa0477527e042825f33a08a]: Commencement: Art. 127 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-3740d6ea5fa0477527e042825f33a08a]: Commencement: Art. 127 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00067]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).

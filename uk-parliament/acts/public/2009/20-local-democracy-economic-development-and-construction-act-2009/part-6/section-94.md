@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Change of name[^key-bee7880a5c466ed0cf4d8d7320c97f56]
+## 94. Change of name[^c-bee7880a5c466ed0cf4d8d7320c97f56]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bee7880a5c466ed0cf4d8d7320c97f56]: Commencement: S. 94 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-bee7880a5c466ed0cf4d8d7320c97f56]: Commencement: S. 94 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

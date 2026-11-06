@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C. Statement of methods[^key-2b67353305c5529ec6a42c1e1a1cb570]
+## 33C. Statement of methods[^c-2b67353305c5529ec6a42c1e1a1cb570]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b67353305c5529ec6a42c1e1a1cb570]: Textual amendment: Ss. 33A-33C inserted (6.4.2015 for the insertion of s. 33C, 18.12.2015 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/a); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)
+[^c-2b67353305c5529ec6a42c1e1a1cb570]: Textual amendment: Ss. 33A-33C inserted (6.4.2015 for the insertion of s. 33C, 18.12.2015 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/a); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)

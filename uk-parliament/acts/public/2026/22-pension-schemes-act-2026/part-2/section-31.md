@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Further provision about contents of small pots regulations[^key-77f40440fc7d1fada1b4b07242cadc47]
+## 31. Further provision about contents of small pots regulations[^c-77f40440fc7d1fada1b4b07242cadc47]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77f40440fc7d1fada1b4b07242cadc47]: Commencement: S. 31 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-77f40440fc7d1fada1b4b07242cadc47]: Commencement: S. 31 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

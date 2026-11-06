@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13D. Allegations[^key-972a3774dc0bacc972bd8abfe5f33ba4]
+## 13D. Allegations[^c-972a3774dc0bacc972bd8abfe5f33ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
 
 (7) If the Investigation Committee decide that the allegation ought not to be considered by the Fitness to Practise Committee, they may give a warning to the registrant who, or which, is subject to the allegation regarding his, or its, future conduct or performance.
 
-(7A)[^key-dadd646158b1fa13fe3edb539ea2dc60] In deciding whether to give a warning under subsection (7), the Investigation Committee must have regard to the over-arching objective.
+(7A)[^c-dadd646158b1fa13fe3edb539ea2dc60] In deciding whether to give a warning under subsection (7), the Investigation Committee must have regard to the over-arching objective.
 
 (8) If the Investigation Committee decide that the allegation ought not to be considered by the Fitness to Practise Committee and that no warning is to be given under subsection (7) above—
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-dadd646158b1fa13fe3edb539ea2dc60]: Textual amendment: S. 13D(7A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2/5); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-dadd646158b1fa13fe3edb539ea2dc60]: Textual amendment: S. 13D(7A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2/5); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)

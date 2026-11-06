@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. General provisions relating to determination of appeals.[^c14022551][^key-f409bee88361a1efdab4384dead27093][^key-88e56c3e613439cd01d53748d971c9a2][^c14022541]
+## 176. General provisions relating to determination of appeals.[^c14022551][^c-f409bee88361a1efdab4384dead27093][^c-88e56c3e613439cd01d53748d971c9a2][^c14022541]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
 (5) Where it would otherwise be a ground for determining an appeal under section 174 in favour of the appellant that a person required to be served with a copy of the enforcement notice was not served, the Secretary of State may disregard that fact if neither the appellant nor that person has been substantially prejudiced by the failure to serve him.
 
-(6)[^key-0bc5439911e8a1c86c36237bae52c826] If at any time before or during the determination of an appeal against an enforcement notice issued by a local planning authority in England it appears to the Secretary of State that the appellant is responsible for undue delay in the progress of the appeal, the Secretary of State may—
+(6)[^c-0bc5439911e8a1c86c36237bae52c826] If at any time before or during the determination of an appeal against an enforcement notice issued by a local planning authority in England it appears to the Secretary of State that the appellant is responsible for undue delay in the progress of the appeal, the Secretary of State may—
 
 - (a) give the appellant notice that the appeal will be dismissed unless the appellant takes, within the period specified in the notice, such steps as are so specified for the expedition of the appeal, and
 - (b) if the appellant fails to take those steps within that period, dismiss the appeal accordingly.
@@ -51,9 +51,9 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
     S. 176: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/a); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-f409bee88361a1efdab4384dead27093]: Modification: S. 176 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/1) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-f409bee88361a1efdab4384dead27093]: Modification: S. 176 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/1) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-88e56c3e613439cd01d53748d971c9a2]: Modification: S. 176 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [16](https://www.legislation.gov.uk/wsi/2015/1597/regulation/16), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/1) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-88e56c3e613439cd01d53748d971c9a2]: Modification: S. 176 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [16](https://www.legislation.gov.uk/wsi/2015/1597/regulation/16), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/1) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c14022541]: Modification: Ss. 176, 177: power to apply conferred (11.3.1992 so far as to confer on the Secretary of State a power or impose on him a duty to make regulations, or make provision with respect to the exercise of any such power or duty, 1.6.1992 so far not already in force) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 25(1)(b)](https://www.legislation.gov.uk/ukpga/1990/10/section/25/1/b); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts. 2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3)
 
@@ -63,4 +63,4 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
 [^c19907161]: Textual amendment: Words in s. 176(4) inserted (6.4.2009 for certain purposes and otherwise prosp.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 196](https://www.legislation.gov.uk/ukpga/2008/29/section/196), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241), [Sch. 10 para. 6(b)](https://www.legislation.gov.uk/ukpga/2008/29/schedule/10/paragraph/6/b) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3](https://www.legislation.gov.uk/uksi/2009/400/article/3)
 
-[^key-0bc5439911e8a1c86c36237bae52c826]: Textual amendment: S. 176(6) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 119(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/119/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/452/regulation/8))
+[^c-0bc5439911e8a1c86c36237bae52c826]: Textual amendment: S. 176(6) inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 119(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/119/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/452/regulation/8))

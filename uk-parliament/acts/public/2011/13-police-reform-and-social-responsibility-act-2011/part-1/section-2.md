@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Chief constables[^key-9c0fc6fae465c5bfed8424db118342b6]
+## 2. Chief constables[^c-9c0fc6fae465c5bfed8424db118342b6]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c0fc6fae465c5bfed8424db118342b6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/13/section/2) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-9c0fc6fae465c5bfed8424db118342b6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/13/section/2) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

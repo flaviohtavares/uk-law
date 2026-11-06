@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Scheme requirements in relation to reductions[^key-4023e2c49a17fc4c05cdc589ce09ae27]
+## 15. Scheme requirements in relation to reductions[^c-4023e2c49a17fc4c05cdc589ce09ae27]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4023e2c49a17fc4c05cdc589ce09ae27]: Commencement: Reg. 15 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-4023e2c49a17fc4c05cdc589ce09ae27]: Commencement: Reg. 15 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

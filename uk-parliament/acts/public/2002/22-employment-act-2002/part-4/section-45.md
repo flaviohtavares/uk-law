@@ -45,7 +45,7 @@ summary: ''
   - (iii) the Social Security Contributions and Benefits Act 1992 (c. 4);
 - (e) provide for the provisions of specified agreements to have effect in place of provisions of the regulations to such extent and in such circumstances as may be specified.
 
-(4)[^key-5cd31205ca870660f4e3b018c94decf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5cd31205ca870660f4e3b018c94decf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In its application to this section, section 51(1)(b) includes power to amend an enactment.
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cd31205ca870660f4e3b018c94decf7]: Textual amendment: [S. 45(4)](https://www.legislation.gov.uk/ukpga/2002/22/section/45/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/5) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cd31205ca870660f4e3b018c94decf7]: Textual amendment: [S. 45(4)](https://www.legislation.gov.uk/ukpga/2002/22/section/45/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/5) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

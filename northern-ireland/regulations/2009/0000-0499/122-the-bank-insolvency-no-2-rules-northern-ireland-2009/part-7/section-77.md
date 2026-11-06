@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Debt payable at future time[^key-2006458445d5622d71f40fcc19a1722e]
+## 77. Debt payable at future time[^c-2006458445d5622d71f40fcc19a1722e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2006458445d5622d71f40fcc19a1722e]: Commencement: Rule 77 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2006458445d5622d71f40fcc19a1722e]: Commencement: Rule 77 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Review and cancellation of full retirement pension which came into payment early on grounds of permanent medical unfitness[^key-c1093ad5ea7b65677acb2934795a3b9e]
+## 106. Review and cancellation of full retirement pension which came into payment early on grounds of permanent medical unfitness[^c-c1093ad5ea7b65677acb2934795a3b9e]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1093ad5ea7b65677acb2934795a3b9e]: Commencement: Reg. 106 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-c1093ad5ea7b65677acb2934795a3b9e]: Commencement: Reg. 106 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00056]: Footnote: See regulation 81(3) for when a full retirement pension comes into payment early on grounds of permanent medical unfitness.

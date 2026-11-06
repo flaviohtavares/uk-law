@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Operator determinations[^key-a7f98d3c255423064a6e3fa9a88f3045]
+## 10. Operator determinations[^c-a7f98d3c255423064a6e3fa9a88f3045]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f98d3c255423064a6e3fa9a88f3045]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/19/section/10) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-a7f98d3c255423064a6e3fa9a88f3045]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/19/section/10) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

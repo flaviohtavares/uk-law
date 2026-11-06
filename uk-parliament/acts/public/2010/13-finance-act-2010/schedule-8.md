@@ -65,13 +65,13 @@ Section 32
 
 (3) Omit section 422 (disqualified overseas gifts).
 
-(4)[^key-370daed058dd11e501feb2091ece0b2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-370daed058dd11e501feb2091ece0b2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Gift aid administration: charitable trusts
 
 **4.** (1) Section 42 of TMA 1970 (procedure for making claims etc) is amended as follows.
 
-(2)[^key-6d4773f094f575aaddd783f4521fa1b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6d4773f094f575aaddd783f4521fa1b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (3) insert—
 
@@ -106,7 +106,7 @@ Section 32
 
 ### Gift aid administration: charitable companies
 
-**6.**[^key-3f3af69bc7c96feea1bbb2d762a71c29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3f3af69bc7c96feea1bbb2d762a71c29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In CTA 2010, after section 477 insert—
 
@@ -152,8 +152,8 @@ Section 32
 
 ## Annotations
 
-[^key-370daed058dd11e501feb2091ece0b2b]: Textual amendment: Sch. 8 para. 3(4) repealed (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)
+[^c-370daed058dd11e501feb2091ece0b2b]: Textual amendment: Sch. 8 para. 3(4) repealed (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)
 
-[^key-6d4773f094f575aaddd783f4521fa1b1]: Textual amendment: [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/4/2) omitted (with effect in accordance with Sch. 15 para. 17(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/12)
+[^c-6d4773f094f575aaddd783f4521fa1b1]: Textual amendment: [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/4/2) omitted (with effect in accordance with Sch. 15 para. 17(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/12)
 
-[^key-3f3af69bc7c96feea1bbb2d762a71c29]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/6) omitted (with effect in accordance with Sch. 15 para. 17(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/16)
+[^c-3f3af69bc7c96feea1bbb2d762a71c29]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/6) omitted (with effect in accordance with Sch. 15 para. 17(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/16)

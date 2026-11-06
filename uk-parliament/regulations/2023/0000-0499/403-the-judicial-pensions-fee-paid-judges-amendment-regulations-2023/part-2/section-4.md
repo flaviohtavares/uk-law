@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of regulation 3[^key-ae3ad1611fa54317e5d4e5a99f04755f]
+## 4. Amendment of regulation 3[^c-ae3ad1611fa54317e5d4e5a99f04755f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 3(1)(a), for “the Schedule” substitute “any of the tables in
 
 ## Annotations
 
-[^key-ae3ad1611fa54317e5d4e5a99f04755f]: Commencement: Reg. 4 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-ae3ad1611fa54317e5d4e5a99f04755f]: Commencement: Reg. 4 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

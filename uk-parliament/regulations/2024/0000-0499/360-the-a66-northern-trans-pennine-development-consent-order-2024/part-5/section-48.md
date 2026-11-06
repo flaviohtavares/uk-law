@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Protective provisions[^key-04a9cbfc0e62c7c712a723160edc7bd7]
+## 48. Protective provisions[^c-04a9cbfc0e62c7c712a723160edc7bd7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-04a9cbfc0e62c7c712a723160edc7bd7]: Commencement: Art. 48 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-04a9cbfc0e62c7c712a723160edc7bd7]: Commencement: Art. 48 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

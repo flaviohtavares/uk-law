@@ -29,7 +29,7 @@ Section 393 applies to LLPs, modified so that it reads as follows—
 > - (a) in the case of the LLP's individual accounts, of the LLP;
 > - (b) in the case of the LLP's group accounts, of the undertakings included in the consolidation as a whole, so far as concerns members of the LLP.
 >
-> (1A)[^key-736e078fc819677e581a2dec48357347] Subsection (1B) applies to the members of an LLP which qualifies as a micro-entity in relation to a financial year (see sections 384A and 384B) in their consideration of whether the non-IAS individual accounts of the LLP for that year give a true and fair view as required by subsection (1)(a).
+> (1A)[^c-736e078fc819677e581a2dec48357347] Subsection (1B) applies to the members of an LLP which qualifies as a micro-entity in relation to a financial year (see sections 384A and 384B) in their consideration of whether the non-IAS individual accounts of the LLP for that year give a true and fair view as required by subsection (1)(a).
 >
 > (1B) Where the accounts contain an item of information additional to the micro-entity minimum accounting items, the members must have regard to any provision of an accounting standard which relates to that item.
 >
@@ -37,4 +37,4 @@ Section 393 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-736e078fc819677e581a2dec48357347]: Textual amendment: Words in reg. 8 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/7/2)
+[^c-736e078fc819677e581a2dec48357347]: Textual amendment: Words in reg. 8 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/575/regulation/7/2)

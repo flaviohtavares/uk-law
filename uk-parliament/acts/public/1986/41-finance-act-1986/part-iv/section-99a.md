@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Section 99(4B): “listed” and “recognised growth market”[^key-219f8ef283bd2045b0801bb6299ffbdb]
+## 99A. Section 99(4B): “listed” and “recognised growth market”[^c-219f8ef283bd2045b0801bb6299ffbdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,7 +88,7 @@ where—
 
 ## Annotations
 
-[^key-219f8ef283bd2045b0801bb6299ffbdb]: Textual amendment: S. 99A inserted (28.4.2014 for specified purposes, 17.7.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 24 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/24/paragraph/3), [4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/24/paragraph/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/24/paragraph/4/3)
+[^c-219f8ef283bd2045b0801bb6299ffbdb]: Textual amendment: S. 99A inserted (28.4.2014 for specified purposes, 17.7.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 24 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/24/paragraph/3), [4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/24/paragraph/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/24/paragraph/4/3)
 
 [^M_F_9d471572-4e29-4b7b-a0a5-6b0bc32e9977]: Textual amendment: Words in s. 99A(5) inserted (1.1.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 19(2)(a)(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/19/2/a/5)
 

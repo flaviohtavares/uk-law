@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Notification to bidders following the grant of licences[^key-1138638b845c65e3ef9e3084fce8b29a]
+## 120. Notification to bidders following the grant of licences[^c-1138638b845c65e3ef9e3084fce8b29a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Following the grant of licences and the refund (if any) of deposits, OFCOM shall
 
 ## Annotations
 
-[^key-1138638b845c65e3ef9e3084fce8b29a]: Commencement: Reg. 120 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-1138638b845c65e3ef9e3084fce8b29a]: Commencement: Reg. 120 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Undertakings under section 163: procedural requirements[^key-645137914fbdc47ccffd3cec93402946][^key-61e964fbf9d397d80eb5537968d6495f]
+## 165. Undertakings under section 163: procedural requirements[^c-645137914fbdc47ccffd3cec93402946][^c-61e964fbf9d397d80eb5537968d6495f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ and the proposed variation or release has not been requested by the respondent.
 
 ## Annotations
 
-[^key-645137914fbdc47ccffd3cec93402946]: Commencement: S. 165 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-645137914fbdc47ccffd3cec93402946]: Commencement: S. 165 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-61e964fbf9d397d80eb5537968d6495f]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2024/13/section/165) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-61e964fbf9d397d80eb5537968d6495f]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2024/13/section/165) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

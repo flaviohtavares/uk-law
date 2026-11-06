@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Application to Parliament[^key-f301ab4bd0300c02675fe8c4ff181fae]
+## 60. Application to Parliament[^c-f301ab4bd0300c02675fe8c4ff181fae]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f301ab4bd0300c02675fe8c4ff181fae]: Commencement: S. 60 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)
+[^c-f301ab4bd0300c02675fe8c4ff181fae]: Commencement: S. 60 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)

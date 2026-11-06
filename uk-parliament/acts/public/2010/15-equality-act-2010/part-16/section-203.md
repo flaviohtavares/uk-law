@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Harmonisation[^key-1ac3312671926bd775f9bf5ba688130a]
+## 203. Harmonisation[^c-1ac3312671926bd775f9bf5ba688130a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ac3312671926bd775f9bf5ba688130a]: Textual amendment: [S. 203](https://www.legislation.gov.uk/ukpga/2010/15/section/203) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/305/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ac3312671926bd775f9bf5ba688130a]: Textual amendment: [S. 203](https://www.legislation.gov.uk/ukpga/2010/15/section/203) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/305/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

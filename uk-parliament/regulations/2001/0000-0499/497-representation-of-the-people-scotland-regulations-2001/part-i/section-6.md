@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Electronic signatures and related certificates[^key-01200a0f2f3f96c091ae928ac51064b2][^key-e5e14b977e89ae07bc56ef86089757dd]
+## 6. Electronic signatures and related certificates[^c-01200a0f2f3f96c091ae928ac51064b2][^c-e5e14b977e89ae07bc56ef86089757dd]
 
 *Extent: S*
 
-(1) A requirement in these Regulations for an application, notice or representation[^key-f637a3cadec26aadff5e196a82a0c298] to be signed is satisfied (as an alternative to the signature given by hand) where there is–
+(1) A requirement in these Regulations for an application, notice or representation[^c-f637a3cadec26aadff5e196a82a0c298] to be signed is satisfied (as an alternative to the signature given by hand) where there is–
 
 - (a) an electronic signature incorporated into or logically associated with a particular electronic communication, and
 - (b) the certification by any person of such a signature.
@@ -38,14 +38,14 @@ summary: ''
 
 is (either alone or in combination with other factors) a valid means of establishing the authenticity of the communication, the integrity of the communication or both.
 
-(4)[^key-e2339b73e7b741bd70a89c99e38e616a]  This regulation does not apply in relation to a relevant absent voting application, for which the general requirements are set out in regulation 51.
+(4)[^c-e2339b73e7b741bd70a89c99e38e616a]  This regulation does not apply in relation to a relevant absent voting application, for which the general requirements are set out in regulation 51.
 
 ## Annotations
 
-[^key-01200a0f2f3f96c091ae928ac51064b2]: Commencement: Reg. 6 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-01200a0f2f3f96c091ae928ac51064b2]: Commencement: Reg. 6 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-e5e14b977e89ae07bc56ef86089757dd]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/6) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/c)
+[^c-e5e14b977e89ae07bc56ef86089757dd]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/6) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(c)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/c)
 
-[^key-f637a3cadec26aadff5e196a82a0c298]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/1) substituted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/b), [6](https://www.legislation.gov.uk/uksi/2013/3206/regulation/6)
+[^c-f637a3cadec26aadff5e196a82a0c298]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/1) substituted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/b), [6](https://www.legislation.gov.uk/uksi/2013/3206/regulation/6)
 
-[^key-e2339b73e7b741bd70a89c99e38e616a]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/4) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/8/4)
+[^c-e2339b73e7b741bd70a89c99e38e616a]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/6/4) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/8/4)

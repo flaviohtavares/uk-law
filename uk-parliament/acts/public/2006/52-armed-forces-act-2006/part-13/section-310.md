@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Power to detain before dealing with section 309 offence[^key-d1f21b3e396eb90c7d1db70e56b884ec][^key-8ec40e94bf6b46b45f8473d394f7d1c8]
+## 310. Power to detain before dealing with section 309 offence[^c-d1f21b3e396eb90c7d1db70e56b884ec][^c-8ec40e94bf6b46b45f8473d394f7d1c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ the court may give orders for the further detention of the offender in service c
 
 ## Annotations
 
-[^key-d1f21b3e396eb90c7d1db70e56b884ec]: Commencement: S. 310 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d1f21b3e396eb90c7d1db70e56b884ec]: Commencement: S. 310 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-8ec40e94bf6b46b45f8473d394f7d1c8]: Commencement: S. 310 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8ec40e94bf6b46b45f8473d394f7d1c8]: Commencement: S. 310 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

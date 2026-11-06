@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181.[^key-5a81f0b6126204ab25cc0b29a8fe1f41]
+## 181.[^c-5a81f0b6126204ab25cc0b29a8fe1f41]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 35 (pension schemes etc: minor and consequential amendments), in par
 
 ## Annotations
 
-[^key-5a81f0b6126204ab25cc0b29a8fe1f41]: Commencement: Reg. 181 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-5a81f0b6126204ab25cc0b29a8fe1f41]: Commencement: Reg. 181 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

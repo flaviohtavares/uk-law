@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Verification of applications[^key-afdf031cc2c7cef68b44f4671535459f][^key-9d95b02cb9924896da73b2edd9fa1bb0]
+## 4. Verification of applications[^c-afdf031cc2c7cef68b44f4671535459f][^c-9d95b02cb9924896da73b2edd9fa1bb0]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afdf031cc2c7cef68b44f4671535459f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/10/section/4) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-afdf031cc2c7cef68b44f4671535459f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/10/section/4) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
 
-[^key-9d95b02cb9924896da73b2edd9fa1bb0]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/10/section/4) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-9d95b02cb9924896da73b2edd9fa1bb0]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/10/section/4) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

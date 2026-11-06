@@ -32,7 +32,7 @@ summary: ''
 
 (6) If, on consideration of that evidence, the comptroller is not satisfied that a case for an order under section 28 has been made out, he must notify the applicant accordingly.
 
-(7) The applicant may, before the end of the period of one month beginning immediately after[^key-8eee24f55c197d8378b43a2ded623ce6] the date of that notification, request to be heard by the comptroller.
+(7) The applicant may, before the end of the period of one month beginning immediately after[^c-8eee24f55c197d8378b43a2ded623ce6] the date of that notification, request to be heard by the comptroller.
 
 (8) If the applicant requests a hearing, the comptroller must give the applicant an opportunity to be heard before he determines whether to grant or refuse the application under section 28.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eee24f55c197d8378b43a2ded623ce6]: Textual amendment: Words in [rule 40(7)](https://www.legislation.gov.uk/uksi/2007/3291/rule/40/7) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-8eee24f55c197d8378b43a2ded623ce6]: Textual amendment: Words in [rule 40(7)](https://www.legislation.gov.uk/uksi/2007/3291/rule/40/7) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

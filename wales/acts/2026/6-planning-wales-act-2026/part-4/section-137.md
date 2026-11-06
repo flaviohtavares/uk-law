@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Recovery of costs of compliance with enforcement notice[^key-aeae53716614501edd6370f8c0174251]
+## 137. Recovery of costs of compliance with enforcement notice[^c-aeae53716614501edd6370f8c0174251]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ are to be treated as incurred or paid for the use and at the request of the pers
 
 ## Annotations
 
-[^key-aeae53716614501edd6370f8c0174251]: Commencement: S. 137 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-aeae53716614501edd6370f8c0174251]: Commencement: S. 137 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

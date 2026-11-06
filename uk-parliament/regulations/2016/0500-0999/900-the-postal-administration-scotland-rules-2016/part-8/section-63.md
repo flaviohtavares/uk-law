@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Notice of resignation[^key-afbcc327e287f2f68c6d124d41dff8db]
+## 63. Notice of resignation[^c-afbcc327e287f2f68c6d124d41dff8db]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afbcc327e287f2f68c6d124d41dff8db]: Commencement: Rule 63 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-afbcc327e287f2f68c6d124d41dff8db]: Commencement: Rule 63 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

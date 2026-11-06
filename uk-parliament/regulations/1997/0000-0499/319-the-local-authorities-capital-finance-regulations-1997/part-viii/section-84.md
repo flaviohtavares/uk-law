@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Nature of disposal of interest in land[^key-25e89ede3f63ebd823af42e5f7f991fa]
+## 84. Nature of disposal of interest in land[^c-25e89ede3f63ebd823af42e5f7f991fa]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of this Part, a disposal of an interest in land meets the condi
 
 ## Annotations
 
-[^key-25e89ede3f63ebd823af42e5f7f991fa]: Commencement: Reg. 84 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-25e89ede3f63ebd823af42e5f7f991fa]: Commencement: Reg. 84 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

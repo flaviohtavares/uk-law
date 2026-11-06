@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Criminal procedure: written guilty pleas[^key-259985b6b23d43b237f6bdbc28085b62]
+## 81. Criminal procedure: written guilty pleas[^c-259985b6b23d43b237f6bdbc28085b62]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-259985b6b23d43b237f6bdbc28085b62]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2015/20/section/81) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(n)](https://www.legislation.gov.uk/uksi/2015/994/article/6/n)
+[^c-259985b6b23d43b237f6bdbc28085b62]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2015/20/section/81) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(n)](https://www.legislation.gov.uk/uksi/2015/994/article/6/n)

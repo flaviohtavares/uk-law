@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Report on licences[^key-b7f7da49b42838be1f751b5653daa72f]
+## 55A. Report on licences[^c-b7f7da49b42838be1f751b5653daa72f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7f7da49b42838be1f751b5653daa72f]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/55A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [65](https://www.legislation.gov.uk/uksi/2019/579/regulation/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7f7da49b42838be1f751b5653daa72f]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/55A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [65](https://www.legislation.gov.uk/uksi/2019/579/regulation/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

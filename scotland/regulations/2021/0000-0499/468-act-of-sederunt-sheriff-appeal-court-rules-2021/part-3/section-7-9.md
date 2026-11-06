@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.9. Procedural hearing[^key-b8c7ac3778f7e1d01b07271ff3d3f705]
+## 7.9. Procedural hearing[^c-b8c7ac3778f7e1d01b07271ff3d3f705]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c7ac3778f7e1d01b07271ff3d3f705]: Commencement: Para. 7.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b8c7ac3778f7e1d01b07271ff3d3f705]: Commencement: Para. 7.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

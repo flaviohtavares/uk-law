@@ -36,7 +36,7 @@ An Act to make provision about leave and pay for employees with responsibility f
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Neonatal care leave and pay[^key-06167612f1acd7d2642db76ac1e64740][^key-ea64d9c8bdf37f652ae601a8b5675771][^key-efab6c662b00fc5a1fdfe48552e025bb]
+## 1. Neonatal care leave and pay[^c-06167612f1acd7d2642db76ac1e64740][^c-ea64d9c8bdf37f652ae601a8b5675771][^c-efab6c662b00fc5a1fdfe48552e025bb]
 
 In the Schedule—
 
@@ -44,7 +44,7 @@ In the Schedule—
 - (b) Part 2 creates a statutory entitlement to neonatal care pay, and
 - (c) Part 3 contains related amendments.
 
-## 2. Power to make consequential provision[^key-302184efa6bd5991e99e51319c3866e5][^key-4e904ba344c36e0cb8a67a684b64e644]
+## 2. Power to make consequential provision[^c-302184efa6bd5991e99e51319c3866e5][^c-4e904ba344c36e0cb8a67a684b64e644]
 
 (1) The Secretary of State may by regulations make provision that is consequential on this Act.
 
@@ -52,7 +52,7 @@ In the Schedule—
 
 (3) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 3. Extent, commencement and short title[^key-7de971120ec150d48f4d44c8e2dcee73]
+## 3. Extent, commencement and short title[^c-7de971120ec150d48f4d44c8e2dcee73]
 
 (1) An amendment or repeal made by the Schedule has the same extent as the provision to which it relates.
 
@@ -70,9 +70,9 @@ Section 1
 
 ### PART 1 — Neonatal care leave
 
-**1.**[^key-6272e32f64858034284a0384ed00c1d7][^key-02cdc1f5c371416d849152dbe99cf8b1] The Employment Rights Act 1996 is amended as follows.
+**1.**[^c-6272e32f64858034284a0384ed00c1d7][^c-02cdc1f5c371416d849152dbe99cf8b1] The Employment Rights Act 1996 is amended as follows.
 
-**2.**[^key-462061c806b685c4fa45c147b61e44aa][^key-a6322975b0428df60cf232fbc26132e5] After section 80EE insert—
+**2.**[^c-462061c806b685c4fa45c147b61e44aa][^c-a6322975b0428df60cf232fbc26132e5] After section 80EE insert—
 
 > **CHAPTER 5 — Neonatal care leave**
 >
@@ -165,13 +165,13 @@ Section 1
 >
 > and regulations may, in particular, make special provision regarding the applicability and extent of the entitlement to leave in such circumstances.
 
-**3.**[^key-3f54eb0a1ef3e0e7a34899ff441572e4][^key-cd6090d604d54111dd18e6dcb1b826f9] In section 236(3) (orders and regulations subject to affirmative procedure), after “80EA,” insert “80EF,”.
+**3.**[^c-3f54eb0a1ef3e0e7a34899ff441572e4][^c-cd6090d604d54111dd18e6dcb1b826f9] In section 236(3) (orders and regulations subject to affirmative procedure), after “80EA,” insert “80EF,”.
 
 ### PART 2 — Neonatal care pay
 
-**4.**[^key-52365875a36962cf2808c93264dad163][^key-008b82eadc0781f81e769a5567ba8789] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+**4.**[^c-52365875a36962cf2808c93264dad163][^c-008b82eadc0781f81e769a5567ba8789] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
-**5.**[^key-39be7075e6fcdb14b42051367b4fa48a][^key-5a21352af006f9661479ef880515db4d] After section 171ZZ15 insert—
+**5.**[^c-39be7075e6fcdb14b42051367b4fa48a][^c-5a21352af006f9661479ef880515db4d] After section 171ZZ15 insert—
 
 > **PART 12ZE — Statutory neonatal care pay**
 >
@@ -368,7 +368,7 @@ Section 1
 >
 > (12) Regulations under any of subsections (4) to (10) must be made with the concurrence of the Commissioners for His Majesty’s Revenue and Customs.
 
-**6.**[^key-105adaa9e3a04bb17de4bf2013288ed7][^key-275aa1a3d84d2d675c949b3df3d975c2] In section 176(1) (instruments subject to affirmative procedure), in paragraph (a), at the appropriate place insert—
+**6.**[^c-105adaa9e3a04bb17de4bf2013288ed7][^c-275aa1a3d84d2d675c949b3df3d975c2] In section 176(1) (instruments subject to affirmative procedure), in paragraph (a), at the appropriate place insert—
 
 > - any of sections 171ZZ16 to 171ZZ19;
 
@@ -378,7 +378,7 @@ Section 1
 
 #### Social Security Act 1989
 
-**7.**[^key-58cb7c90cb8b0c7f7103d78a549114b9][^key-68758dc8e7c0061694d4ae70e2c35fba] In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5D insert—
+**7.**[^c-58cb7c90cb8b0c7f7103d78a549114b9][^c-68758dc8e7c0061694d4ae70e2c35fba] In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5D insert—
 
 > **Unfair neonatal care leave provisions**
 >
@@ -416,7 +416,7 @@ Section 1
 
 #### Finance Act 1989
 
-**8.**[^key-0f6ec487f0d42452719fc361ed3bcb1b][^key-f4c17144b17a5f267170b3a74d69031c] (1) Section 182 of the Finance Act 1989 (offences relating to disclosure of information relating to social security functions etc) is amended as follows.
+**8.**[^c-0f6ec487f0d42452719fc361ed3bcb1b][^c-f4c17144b17a5f267170b3a74d69031c] (1) Section 182 of the Finance Act 1989 (offences relating to disclosure of information relating to social security functions etc) is amended as follows.
 
 (2) In subsections (1)(c), (2A)(a), (4)(c)(iii) and (5)(b), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
@@ -427,11 +427,11 @@ Section 1
 
 #### Social Security Contributions and Benefits Act 1992
 
-**9.**[^key-5960ea7de280801a0608d3f59abcfc37][^key-b2431f24ba445a370a6ec0f2c359ab10] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+**9.**[^c-5960ea7de280801a0608d3f59abcfc37][^c-b2431f24ba445a370a6ec0f2c359ab10] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
-**10.**[^key-75536906db48b915adfe5c67ee95f951][^key-bd2384761887af607615bac9d0fd0d2e] In section 1 (outline of contributory system), in subsection (5), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+**10.**[^c-75536906db48b915adfe5c67ee95f951][^c-bd2384761887af607615bac9d0fd0d2e] In section 1 (outline of contributory system), in subsection (5), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
 
-**11.**[^key-4a683fee1fd27b53147e7cf234027662][^key-210419e2ea9739e4f1b4a538d1df68cf] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a)—
+**11.**[^c-4a683fee1fd27b53147e7cf234027662][^c-210419e2ea9739e4f1b4a538d1df68cf] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a)—
 
 - (a) omit “or” at the end of sub-paragraph (vi);
 - (b) at the end of sub-paragraph (vii) (but before the “and”) insert
@@ -442,23 +442,23 @@ Section 1
 
   .
 
-**12.**[^key-b3a8b654859166ba19713cc834941e10][^key-ade99a10dac75ada67609e7997524619] In section 4AA (limited liability partnerships), in subsection (2), for “or 171ZZ14” substitute “, 171ZZ14 or 171ZZ24”.
+**12.**[^c-b3a8b654859166ba19713cc834941e10][^c-ade99a10dac75ada67609e7997524619] In section 4AA (limited liability partnerships), in subsection (2), for “or 171ZZ14” substitute “, 171ZZ14 or 171ZZ24”.
 
-**13.**[^key-803a3689904bc2482bcd7ded2f34cb2f][^key-93384a60a0ceae9d3ee71b131242f310] In section 4C (power to make provision in consequence of provision made by or by virtue of section 4B etc), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**13.**[^c-803a3689904bc2482bcd7ded2f34cb2f][^c-93384a60a0ceae9d3ee71b131242f310] In section 4C (power to make provision in consequence of provision made by or by virtue of section 4B etc), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
 #### Social Security Administration Act 1992
 
-**14.**[^key-f9cc68aa419f21f93e934a297c03d430][^key-95782d9c9ef6c4ea24154a4b9df61245] The Social Security Administration Act 1992 is amended as follows.
+**14.**[^c-f9cc68aa419f21f93e934a297c03d430][^c-95782d9c9ef6c4ea24154a4b9df61245] The Social Security Administration Act 1992 is amended as follows.
 
-**15.**[^key-265ffcfa17e1df4a96560d071c268ed9][^key-41ec853250197dbeae7710a509742f69] In section 5 (regulations about claims for and payments of benefits), in subsection (5), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+**15.**[^c-265ffcfa17e1df4a96560d071c268ed9][^c-41ec853250197dbeae7710a509742f69] In section 5 (regulations about claims for and payments of benefits), in subsection (5), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
 
-**16.**[^key-19a7c7d3a580263786280d02d344733e][^key-0b3070e010f385334aa761b9956b3a56] In section 122AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**16.**[^c-19a7c7d3a580263786280d02d344733e][^c-0b3070e010f385334aa761b9956b3a56] In section 122AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**17.**[^key-93afb8d7449163ca22ad81706d8f5a6c][^key-7aaa8d31ba6c550a5e6ba708d6ed862e] In section 150 (annual up-rating of benefits), in subsection (1)(j), for “or 171ZZ9(1)” substitute “, 171ZZ9(1) or 171ZZ19(1)”.
+**17.**[^c-93afb8d7449163ca22ad81706d8f5a6c][^c-7aaa8d31ba6c550a5e6ba708d6ed862e] In section 150 (annual up-rating of benefits), in subsection (1)(j), for “or 171ZZ9(1)” substitute “, 171ZZ9(1) or 171ZZ19(1)”.
 
-**18.**[^key-3a2ace8d89c4bc677a1741e8325b649f][^key-6a588b474e223bb8524bed66e8081019] In section 163 (general financial arrangements), in subsection (1)(d), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**18.**[^c-3a2ace8d89c4bc677a1741e8325b649f][^c-6a588b474e223bb8524bed66e8081019] In section 163 (general financial arrangements), in subsection (1)(d), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**19.**[^key-3ab006fa1daa98dded0e7f7c62a4c48f][^key-9bbdaa7e3e620159c933392d4f9be05d] (1) Section 165 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
+**19.**[^c-3ab006fa1daa98dded0e7f7c62a4c48f][^c-9bbdaa7e3e620159c933392d4f9be05d] (1) Section 165 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
 
 (2) In subsection (1)(b)—
 
@@ -473,21 +473,21 @@ Section 1
 
 #### Employment Rights Act 1996
 
-**20.**[^key-282f4a8540caa468b553e4a7f78e1778][^key-9b37b2cb9b4ac05d0a03c77d683bf214] The Employment Rights Act 1996 is amended as follows.
+**20.**[^c-282f4a8540caa468b553e4a7f78e1778][^c-9b37b2cb9b4ac05d0a03c77d683bf214] The Employment Rights Act 1996 is amended as follows.
 
-**21.**[^key-2e9a746e99e847afe45cddc2c6a8e98a][^key-9c66130eba292ddc06bba1e328e24a51] In section 27 (meaning of “**wages**”), in subsection (1), after paragraph (cd) insert—
+**21.**[^c-2e9a746e99e847afe45cddc2c6a8e98a][^c-9c66130eba292ddc06bba1e328e24a51] In section 27 (meaning of “**wages**”), in subsection (1), after paragraph (cd) insert—
 
 > - (ce) statutory neonatal care pay under Part 12ZE of that Act,
 
 .
 
-**22.**[^key-df43acd63e984167a837e9e5c08211f7][^key-a41cedf12c8a7fc861226cf90bda68bd] In section 47C (leave for family and domestic reasons), in subsection (2), after paragraph (cb) (but before the “or”), insert—
+**22.**[^c-df43acd63e984167a837e9e5c08211f7][^c-a41cedf12c8a7fc861226cf90bda68bd] In section 47C (leave for family and domestic reasons), in subsection (2), after paragraph (cb) (but before the “or”), insert—
 
 > - (cc) neonatal care leave,
 
 .
 
-**23.**[^key-afed14dd7bba3e2a3965164c01cdd8c8][^key-f781753728f636a261b6c5832e81a5b7] In section 75I (rights during and after shared parental leave), in subsection (3)—
+**23.**[^c-afed14dd7bba3e2a3965164c01cdd8c8][^c-f781753728f636a261b6c5832e81a5b7] In section 75I (rights during and after shared parental leave), in subsection (3)—
 
 - (a) at the end of paragraph (e) omit “and”;
 - (b) at the end of paragraph (f) insert
@@ -496,7 +496,7 @@ Section 1
   >
   > - (g) neonatal care leave.
 
-**24.**[^key-3a24de6fbadc8879d30a4cf7cbd29675][^key-9c62f7c69e8784ee377ff09f14e9d0f2] (1) Section 80C (rights during and after paternity leave) is amended as follows.
+**24.**[^c-3a24de6fbadc8879d30a4cf7cbd29675][^c-9c62f7c69e8784ee377ff09f14e9d0f2] (1) Section 80C (rights during and after paternity leave) is amended as follows.
 
 (2) In subsection (2), after paragraph (bb) (but before the “and”) insert—
 
@@ -510,7 +510,7 @@ Section 1
 
 .
 
-**25.**[^key-41394740fae4b6c0075fef7413a05d17][^key-0619cc87e28e0e39ebcb46da174eaa19] In section 80EB (rights during and after bereavement leave), in subsection (2)—
+**25.**[^c-41394740fae4b6c0075fef7413a05d17][^c-0619cc87e28e0e39ebcb46da174eaa19] In section 80EB (rights during and after bereavement leave), in subsection (2)—
 
 - (a) at the end of paragraph (d) omit “and”;
 - (b) at the end of paragraph (e) insert
@@ -519,25 +519,25 @@ Section 1
   >
   > - (f) neonatal care leave.
 
-**26.**[^key-067a38b6c70869a1010e48c7a2498fcd][^key-6da8618f1e1ef83d1e4a6cad2cb6f4c1] (1) Section 88 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
+**26.**[^c-067a38b6c70869a1010e48c7a2498fcd][^c-6da8618f1e1ef83d1e4a6cad2cb6f4c1] (1) Section 88 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
 
 (2) In subsection (1)(c), after “parental bereavement leave,” insert “neonatal care leave,”.
 
 (3) In subsection (2), after “statutory parental bereavement pay,” insert “neonatal care pay, statutory neonatal care pay,”.
 
-**27.**[^key-da722efac75f7478954116fee9bd59e3][^key-4243d558bac851f60be27326656d7e3b] (1) Section 89 (effect of notice of termination: employments without normal working hours) is amended as follows.
+**27.**[^c-da722efac75f7478954116fee9bd59e3][^c-4243d558bac851f60be27326656d7e3b] (1) Section 89 (effect of notice of termination: employments without normal working hours) is amended as follows.
 
 (2) In subsection (3)(b), after “parental bereavement leave,” insert “neonatal care leave,”.
 
 (3) In subsection (4), after “statutory parental bereavement pay,” insert “neonatal care pay, statutory neonatal care pay,”.
 
-**28.**[^key-a7e3e61774a3c51f50c4c40e88f16bdb][^key-bf90b40b1188f0964e44b0c981985409] In section 99 (leave for family reasons), in subsection (3), after paragraph (cb) (but before the “or”), insert—
+**28.**[^c-a7e3e61774a3c51f50c4c40e88f16bdb][^c-bf90b40b1188f0964e44b0c981985409] In section 99 (leave for family reasons), in subsection (3), after paragraph (cb) (but before the “or”), insert—
 
 > - (cc) neonatal care leave,
 
 .
 
-**29.**[^key-9985001858459541e69c51efa202929e][^key-40a5f3b17c72b715b4a8fd8efc3a6678] In section 235 (definitions), in subsection (1)—
+**29.**[^c-9985001858459541e69c51efa202929e][^c-40a5f3b17c72b715b4a8fd8efc3a6678] In section 235 (definitions), in subsection (1)—
 
 - (a) at the appropriate place insert—
 
@@ -548,9 +548,9 @@ Section 1
 
 #### Social Security Contributions (Transfer of Functions, etc.) Act 1999
 
-**30.**[^key-2cb6d1a5af901469dfd218dc93a66725][^key-5a3843483c9986c05912690eea8de305] The Social Security Contributions (Transfer of Functions, etc.) Act 1999 is amended as follows.
+**30.**[^c-2cb6d1a5af901469dfd218dc93a66725][^c-5a3843483c9986c05912690eea8de305] The Social Security Contributions (Transfer of Functions, etc.) Act 1999 is amended as follows.
 
-**31.**[^key-5957d608cadc171d91f12df8b3a2344f][^key-4f9487b85a6a0847d0f4012b1aedbca4] (1) Section 8 (decisions by officers of Revenue and Customs) is amended as follows.
+**31.**[^c-5957d608cadc171d91f12df8b3a2344f][^c-4f9487b85a6a0847d0f4012b1aedbca4] (1) Section 8 (decisions by officers of Revenue and Customs) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -561,21 +561,21 @@ Section 1
 
 (3) In subsection (3)(b), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**32.**[^key-133613a38bfebd076ad43ab7c70d434a][^key-69b2972527b7ce8828211f2781d8f401] In section 11 (appeals against decisions of officers of Revenue and Customs), in subsection (2)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**32.**[^c-133613a38bfebd076ad43ab7c70d434a][^c-69b2972527b7ce8828211f2781d8f401] In section 11 (appeals against decisions of officers of Revenue and Customs), in subsection (2)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**33.**[^key-34e783bc5d7e8b6fbab524cb9483d825][^key-c09a2d71cc7728b069a39ddb58dc453d] In section 14 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**33.**[^c-34e783bc5d7e8b6fbab524cb9483d825][^c-c09a2d71cc7728b069a39ddb58dc453d] In section 14 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
 #### Finance Act 1999
 
-**34.**[^key-a30d74de3b554fc7eedd0e8ffc6a5f90][^key-472071e586b4164993a11044732cdffe] (1) Sections 132 and 133 of the Finance Act 1999 have effect as if statutory neonatal care pay were a matter which is under the care and management of the Commissioners for Revenue and Customs.
+**34.**[^c-a30d74de3b554fc7eedd0e8ffc6a5f90][^c-472071e586b4164993a11044732cdffe] (1) Sections 132 and 133 of the Finance Act 1999 have effect as if statutory neonatal care pay were a matter which is under the care and management of the Commissioners for Revenue and Customs.
 
 (2) In this paragraph “**statutory neonatal care pay**” includes statutory pay under Northern Ireland legislation corresponding to the provisions of Part 12ZE of the Social Security Contributions and Benefits Act 1992.
 
 #### Employment Act 2002
 
-**35.**[^key-99c8d6c6171be7c80635f57ce093351f][^key-04c7b319f2537c795b296a3efb6c787f] The Employment Act 2002 is amended as follows.
+**35.**[^c-99c8d6c6171be7c80635f57ce093351f][^c-04c7b319f2537c795b296a3efb6c787f] The Employment Act 2002 is amended as follows.
 
-**36.**[^key-7c16299d5989747e226766cffc103d74][^key-da8da32f5b9e487e3947e45313519c36] (1) Section 7 (funding of employers’ liabilities as regards certain statutory pay) is amended as follows.
+**36.**[^c-7c16299d5989747e226766cffc103d74][^c-da8da32f5b9e487e3947e45313519c36] (1) Section 7 (funding of employers’ liabilities as regards certain statutory pay) is amended as follows.
 
 (2) In subsection (1), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
 
@@ -593,19 +593,19 @@ Section 1
 
   .
 
-**37.**[^key-002011a007e694c5d9e9971eb372d7c7][^key-ef89c442d6f975464f4e4108907a807c] In section 8 (regulations about payment), in subsections (1) and (2)(a), (b) and (d), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
+**37.**[^c-002011a007e694c5d9e9971eb372d7c7][^c-ef89c442d6f975464f4e4108907a807c] In section 8 (regulations about payment), in subsections (1) and (2)(a), (b) and (d), for “and statutory parental bereavement pay” substitute “, statutory parental bereavement pay and statutory neonatal care pay”.
 
-**38.**[^key-8dea6b9dfb153269a9121e1626f95401][^key-67b9c6fc6dc5529828796f4c313e4411] In section 10 (powers to require information), in subsections (1) and (2)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**38.**[^c-8dea6b9dfb153269a9121e1626f95401][^c-67b9c6fc6dc5529828796f4c313e4411] In section 10 (powers to require information), in subsections (1) and (2)(a), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**39.**[^key-ffbe105c6b913f2d9ad347e5613d0390][^key-a17bd2dc3d520e51e641187ecc985f70] In section 11 (penalties for failure to comply), in subsection (6), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**39.**[^c-ffbe105c6b913f2d9ad347e5613d0390][^c-a17bd2dc3d520e51e641187ecc985f70] In section 11 (penalties for failure to comply), in subsection (6), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**40.**[^key-50bc5bcd103c906ff4c9b5c809e0f0cc][^key-43b464ab703e9b6588d791a3d83b8b51] In section 12 (penalties for fraud or negligence), in subsections (2)(a), (2)(b) and (4), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory neonatal care pay”.
+**40.**[^c-50bc5bcd103c906ff4c9b5c809e0f0cc][^c-43b464ab703e9b6588d791a3d83b8b51] In section 12 (penalties for fraud or negligence), in subsections (2)(a), (2)(b) and (4), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory neonatal care pay”.
 
-**41.**[^key-b8d5752f61fa89fe86e02c612dfc442d][^key-8d2619ee1a2c2f5b8b71825eb15a56c8] In section 13 (supply of information held by His Majesty’s Revenue and Customs), in subsection (1), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**41.**[^c-b8d5752f61fa89fe86e02c612dfc442d][^c-8d2619ee1a2c2f5b8b71825eb15a56c8] In section 13 (supply of information held by His Majesty’s Revenue and Customs), in subsection (1), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**42.**[^key-4c1e28ee5b24c76e97ccc542066096fa][^key-fd89f2b21c2ea810256378c61c988129] In section 14 (supply of information held by the Secretary of State), in subsections (1) and (2), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
+**42.**[^c-4c1e28ee5b24c76e97ccc542066096fa][^c-fd89f2b21c2ea810256378c61c988129] In section 14 (supply of information held by the Secretary of State), in subsections (1) and (2), for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”.
 
-**43.**[^key-09da8a57ec35b39391d2b11827a10897][^key-7eb4146fc3864af271854bba4827e7ee] In section 15 (use of information by His Majesty’s Revenue and Customs), in subsection (2)—
+**43.**[^c-09da8a57ec35b39391d2b11827a10897][^c-7eb4146fc3864af271854bba4827e7ee] In section 15 (use of information by His Majesty’s Revenue and Customs), in subsection (2)—
 
 - (a) omit “and” at the end of paragraph (bb);
 - (b) after paragraph (bb) insert—
@@ -614,14 +614,14 @@ Section 1
 
   .
 
-**44.**[^key-bf29638f6c26e5385fd29921ea1ab2d2][^key-96f524b59969f2d8063acc6dbb73ec8a] In section 55 (short title etc), in subsection (8)—
+**44.**[^c-bf29638f6c26e5385fd29921ea1ab2d2][^c-96f524b59969f2d8063acc6dbb73ec8a] In section 55 (short title etc), in subsection (8)—
 
 - (a) for “or statutory parental bereavement pay” substitute “, statutory parental bereavement pay or statutory neonatal care pay”;
 - (b) for “or Part 12ZD” substitute “, Part 12ZD or Part 12ZE”.
 
 #### Proceeds of Crime Act 2002
 
-**45.**[^key-260039f106a72db2026c91a1d20f7394][^key-0aa94be1fed5b82610397a7bb0a2aa01] (1) Section 323 of the Proceeds of Crime Act 2002 (Revenue functions) is amended as follows.
+**45.**[^c-260039f106a72db2026c91a1d20f7394][^c-0aa94be1fed5b82610397a7bb0a2aa01] (1) Section 323 of the Proceeds of Crime Act 2002 (Revenue functions) is amended as follows.
 
 (2) In subsection (1), after paragraph (hb) insert—
 
@@ -643,9 +643,9 @@ Section 1
 
 #### Income Tax (Earnings and Pensions) Act 2003
 
-**46.**[^key-55016be86f07cfa77667428583b05f66][^key-55edee9268ee65224c788b2a1f2df0c5] The Income Tax (Earnings and Pensions) Act 2003 is amended as follows.
+**46.**[^c-55016be86f07cfa77667428583b05f66][^c-55edee9268ee65224c788b2a1f2df0c5] The Income Tax (Earnings and Pensions) Act 2003 is amended as follows.
 
-**47.**[^key-a9dea0e06f5c26d887ace9e4e63f618f][^key-f28947f7938acaa4c73f4916f6bbe671] (1) Section 660 (taxable benefits: UK benefits - Table A) is amended as follows.
+**47.**[^c-a9dea0e06f5c26d887ace9e4e63f618f][^c-f28947f7938acaa4c73f4916f6bbe671] (1) Section 660 (taxable benefits: UK benefits - Table A) is amended as follows.
 
 (2) In subsection (1), in Table A, after the entry relating to statutory parental bereavement pay insert—
 
@@ -660,7 +660,7 @@ Section 1
 
 (3) In subsection (2), after the entry relating to statutory parental bereavement pay insert— “statutory neonatal care pay;”.
 
-**48.**[^key-34ecc73d0641c5c37aecdb1f5e26edb9][^key-936afa6ebe75ae5f19f5a48a567866b5] (1) Schedule 5 (enterprise management incentives) is amended as follows.
+**48.**[^c-34ecc73d0641c5c37aecdb1f5e26edb9][^c-936afa6ebe75ae5f19f5a48a567866b5] (1) Schedule 5 (enterprise management incentives) is amended as follows.
 
 (2) In paragraph 12A(4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
 
@@ -668,25 +668,25 @@ Section 1
 
 #### Commissioners for Revenue and Customs Act 2005
 
-**49.**[^key-bdda0de66c09273a0317f28be05154e5][^key-a8a19a9bc4104006cfa7be51ca83a396][^key-91c64463f07b2ca965df8dcae4c7f531] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters where functions vest in officers of Revenue and Customs), after paragraph 26C insert—
+**49.**[^c-bdda0de66c09273a0317f28be05154e5][^c-a8a19a9bc4104006cfa7be51ca83a396][^c-91c64463f07b2ca965df8dcae4c7f531] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters where functions vest in officers of Revenue and Customs), after paragraph 26C insert—
 
 > **26D.** Statutory neonatal care pay.
 
 #### Income Tax Act 2007
 
-**50.**[^key-eb345c3e0162d8d54037325a4e0062f1][^key-ecf66d1eebbb833e3ae1e893d0f7099f] The Income Tax Act 2007 is amended as follows.
+**50.**[^c-eb345c3e0162d8d54037325a4e0062f1][^c-ecf66d1eebbb833e3ae1e893d0f7099f] The Income Tax Act 2007 is amended as follows.
 
-**51.**[^key-b9131b206ba47cda096f0cb8ebe47537][^key-2db40526655d4637b1406939c2932b12] In section 186A (enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+**51.**[^c-b9131b206ba47cda096f0cb8ebe47537][^c-2db40526655d4637b1406939c2932b12] In section 186A (enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
 
-**52.**[^key-253a2b164b4ad999a99834a1f6ede18d][^key-9e79b8e952ba17b93488666fc8105705] In section 257DJ (seed enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+**52.**[^c-253a2b164b4ad999a99834a1f6ede18d][^c-9e79b8e952ba17b93488666fc8105705] In section 257DJ (seed enterprise investment schemes: the number of employees requirement for an issuing company), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
 
-**53.**[^key-2d493a2acb75b5aa830a794bfaae81a6][^key-626ddcf4e7493517f26cbd1eee39435c] In section 257MH (tax relief for social investments: the number of employees requirement), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+**53.**[^c-2d493a2acb75b5aa830a794bfaae81a6][^c-626ddcf4e7493517f26cbd1eee39435c] In section 257MH (tax relief for social investments: the number of employees requirement), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
 
-**54.**[^key-e942e48c5dfc4436cc5bd6810d9c6156][^key-2d94091bdc75f3478ace3c7d255cfb7c] In section 297A (venture capital trusts: the number of employees requirement for a qualifying holding), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
+**54.**[^c-e942e48c5dfc4436cc5bd6810d9c6156][^c-2d94091bdc75f3478ace3c7d255cfb7c] In section 297A (venture capital trusts: the number of employees requirement for a qualifying holding), in subsection (4)(b)(i), for “or parental bereavement” substitute “, parental bereavement or neonatal care”.
 
 #### Welfare Reform Act 2007
 
-**55.**[^key-6c04781b95f15c98a2cb21fb5ce6e859][^key-bf7ec55eaf9beb113252488ab7b5133d] (1) Section 20 of the Welfare Reform Act 2007 (relationship with statutory payments) is amended as follows.
+**55.**[^c-6c04781b95f15c98a2cb21fb5ce6e859][^c-bf7ec55eaf9beb113252488ab7b5133d] (1) Section 20 of the Welfare Reform Act 2007 (relationship with statutory payments) is amended as follows.
 
 (2) After subsection (7) insert—
 
@@ -711,7 +711,7 @@ Section 1
 
 #### Pensions Act 2008
 
-**56.**[^key-6fe2d596270dfb4db99bc0b29c1fb355][^key-62d7ee16fe44810efbe07126233cd444] In section 13 of the Pensions Act 2008 (qualifying earnings), in subsection (3), after paragraph (eb) insert—
+**56.**[^c-6fe2d596270dfb4db99bc0b29c1fb355][^c-62d7ee16fe44810efbe07126233cd444] In section 13 of the Pensions Act 2008 (qualifying earnings), in subsection (3), after paragraph (eb) insert—
 
 > - (ec) statutory neonatal care pay under Part 12ZE of that Act;
 
@@ -719,7 +719,7 @@ Section 1
 
 #### Corporation Tax Act 2009
 
-**57.**[^key-237dad264751bd2152a2141a63a9f14d][^key-f8c7cf8ad848bce1e3d959bdac4a06fe] In section 1058B of the Corporation Tax Act 2009 (PAYE and NIC liabilities), in subsection (5), after paragraph (e) insert—
+**57.**[^c-237dad264751bd2152a2141a63a9f14d][^c-f8c7cf8ad848bce1e3d959bdac4a06fe] In section 1058B of the Corporation Tax Act 2009 (PAYE and NIC liabilities), in subsection (5), after paragraph (e) insert—
 
 > - (ea) statutory neonatal care pay;
 
@@ -727,252 +727,252 @@ Section 1
 
 #### Finance Act 2013
 
-**58.**[^key-b3e0d3d2050793a645bb23a5a48f35aa][^key-f012b280de33401e6e83a3d85fccd5f8] In Schedule 45 to the Finance Act 2013 (statutory residence test), in paragraph 145, in the definition of “parenting leave”, for “or parental bereavement leave” substitute “, parental bereavement leave or neonatal care leave”.
+**58.**[^c-b3e0d3d2050793a645bb23a5a48f35aa][^c-f012b280de33401e6e83a3d85fccd5f8] In Schedule 45 to the Finance Act 2013 (statutory residence test), in paragraph 145, in the definition of “parenting leave”, for “or parental bereavement leave” substitute “, parental bereavement leave or neonatal care leave”.
 
 ## Annotations
 
-[^key-06167612f1acd7d2642db76ac1e64740]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-06167612f1acd7d2642db76ac1e64740]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-ea64d9c8bdf37f652ae601a8b5675771]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/20/section/1) in force at 21.8.2023 for specified purposes by [S.I. 2023/904](https://www.legislation.gov.uk/uksi/2023/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/904/regulation/2/a)
+[^c-ea64d9c8bdf37f652ae601a8b5675771]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/20/section/1) in force at 21.8.2023 for specified purposes by [S.I. 2023/904](https://www.legislation.gov.uk/uksi/2023/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/904/regulation/2/a)
 
-[^key-efab6c662b00fc5a1fdfe48552e025bb]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/20/section/1) in force at 17.1.2025 in so far as not already in force by virtue of [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-efab6c662b00fc5a1fdfe48552e025bb]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/20/section/1) in force at 17.1.2025 in so far as not already in force by virtue of [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-302184efa6bd5991e99e51319c3866e5]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-302184efa6bd5991e99e51319c3866e5]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-4e904ba344c36e0cb8a67a684b64e644]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/20/section/2) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-4e904ba344c36e0cb8a67a684b64e644]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/20/section/2) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-7de971120ec150d48f4d44c8e2dcee73]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/4)
+[^c-7de971120ec150d48f4d44c8e2dcee73]: Commencement: S. 3 in force at Royal Assent, see [s. 3(4)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/4)
 
-[^key-6272e32f64858034284a0384ed00c1d7]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-6272e32f64858034284a0384ed00c1d7]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-02cdc1f5c371416d849152dbe99cf8b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/1) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-02cdc1f5c371416d849152dbe99cf8b1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/1) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-462061c806b685c4fa45c147b61e44aa]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-462061c806b685c4fa45c147b61e44aa]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-a6322975b0428df60cf232fbc26132e5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-a6322975b0428df60cf232fbc26132e5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-3f54eb0a1ef3e0e7a34899ff441572e4]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-3f54eb0a1ef3e0e7a34899ff441572e4]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-cd6090d604d54111dd18e6dcb1b826f9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/3) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-cd6090d604d54111dd18e6dcb1b826f9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/3) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-52365875a36962cf2808c93264dad163]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-52365875a36962cf2808c93264dad163]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-008b82eadc0781f81e769a5567ba8789]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/4) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-008b82eadc0781f81e769a5567ba8789]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/4) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-39be7075e6fcdb14b42051367b4fa48a]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-39be7075e6fcdb14b42051367b4fa48a]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-5a21352af006f9661479ef880515db4d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/5) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-5a21352af006f9661479ef880515db4d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/5) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-105adaa9e3a04bb17de4bf2013288ed7]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-105adaa9e3a04bb17de4bf2013288ed7]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-275aa1a3d84d2d675c949b3df3d975c2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/6) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-275aa1a3d84d2d675c949b3df3d975c2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/6) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-58cb7c90cb8b0c7f7103d78a549114b9]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-58cb7c90cb8b0c7f7103d78a549114b9]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-68758dc8e7c0061694d4ae70e2c35fba]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/7) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-68758dc8e7c0061694d4ae70e2c35fba]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/7) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-0f6ec487f0d42452719fc361ed3bcb1b]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-0f6ec487f0d42452719fc361ed3bcb1b]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-f4c17144b17a5f267170b3a74d69031c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/8) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f4c17144b17a5f267170b3a74d69031c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/8) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-5960ea7de280801a0608d3f59abcfc37]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-5960ea7de280801a0608d3f59abcfc37]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-b2431f24ba445a370a6ec0f2c359ab10]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/9) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-b2431f24ba445a370a6ec0f2c359ab10]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/9) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-75536906db48b915adfe5c67ee95f951]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-75536906db48b915adfe5c67ee95f951]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-bd2384761887af607615bac9d0fd0d2e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/10) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-bd2384761887af607615bac9d0fd0d2e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/10) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-4a683fee1fd27b53147e7cf234027662]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-4a683fee1fd27b53147e7cf234027662]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-210419e2ea9739e4f1b4a538d1df68cf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/11) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-210419e2ea9739e4f1b4a538d1df68cf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/11) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-b3a8b654859166ba19713cc834941e10]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-b3a8b654859166ba19713cc834941e10]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-ade99a10dac75ada67609e7997524619]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/12) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-ade99a10dac75ada67609e7997524619]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/12) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-803a3689904bc2482bcd7ded2f34cb2f]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-803a3689904bc2482bcd7ded2f34cb2f]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-93384a60a0ceae9d3ee71b131242f310]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/13) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-93384a60a0ceae9d3ee71b131242f310]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/13) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-f9cc68aa419f21f93e934a297c03d430]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-f9cc68aa419f21f93e934a297c03d430]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-95782d9c9ef6c4ea24154a4b9df61245]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/14) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-95782d9c9ef6c4ea24154a4b9df61245]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/14) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-265ffcfa17e1df4a96560d071c268ed9]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-265ffcfa17e1df4a96560d071c268ed9]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-41ec853250197dbeae7710a509742f69]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/15) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-41ec853250197dbeae7710a509742f69]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/15) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-19a7c7d3a580263786280d02d344733e]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-19a7c7d3a580263786280d02d344733e]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-0b3070e010f385334aa761b9956b3a56]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/16) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-0b3070e010f385334aa761b9956b3a56]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/16) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-93afb8d7449163ca22ad81706d8f5a6c]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-93afb8d7449163ca22ad81706d8f5a6c]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-7aaa8d31ba6c550a5e6ba708d6ed862e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/17) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-7aaa8d31ba6c550a5e6ba708d6ed862e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/17) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-3a2ace8d89c4bc677a1741e8325b649f]: Commencement: Sch. para. 18 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-3a2ace8d89c4bc677a1741e8325b649f]: Commencement: Sch. para. 18 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-6a588b474e223bb8524bed66e8081019]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/18) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-6a588b474e223bb8524bed66e8081019]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/18) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-3ab006fa1daa98dded0e7f7c62a4c48f]: Commencement: Sch. para. 19 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-3ab006fa1daa98dded0e7f7c62a4c48f]: Commencement: Sch. para. 19 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-9bbdaa7e3e620159c933392d4f9be05d]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/19) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-9bbdaa7e3e620159c933392d4f9be05d]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/19) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-282f4a8540caa468b553e4a7f78e1778]: Commencement: Sch. para. 20 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-282f4a8540caa468b553e4a7f78e1778]: Commencement: Sch. para. 20 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-9b37b2cb9b4ac05d0a03c77d683bf214]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/20) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-9b37b2cb9b4ac05d0a03c77d683bf214]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/20) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-2e9a746e99e847afe45cddc2c6a8e98a]: Commencement: Sch. para. 21 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-2e9a746e99e847afe45cddc2c6a8e98a]: Commencement: Sch. para. 21 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-9c66130eba292ddc06bba1e328e24a51]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/21) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-9c66130eba292ddc06bba1e328e24a51]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/21) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-df43acd63e984167a837e9e5c08211f7]: Commencement: Sch. para. 22 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-df43acd63e984167a837e9e5c08211f7]: Commencement: Sch. para. 22 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-a41cedf12c8a7fc861226cf90bda68bd]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/22) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-a41cedf12c8a7fc861226cf90bda68bd]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/22) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-afed14dd7bba3e2a3965164c01cdd8c8]: Commencement: Sch. para. 23 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-afed14dd7bba3e2a3965164c01cdd8c8]: Commencement: Sch. para. 23 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-f781753728f636a261b6c5832e81a5b7]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/23) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f781753728f636a261b6c5832e81a5b7]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/23) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-3a24de6fbadc8879d30a4cf7cbd29675]: Commencement: Sch. para. 24 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-3a24de6fbadc8879d30a4cf7cbd29675]: Commencement: Sch. para. 24 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-9c62f7c69e8784ee377ff09f14e9d0f2]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/24) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-9c62f7c69e8784ee377ff09f14e9d0f2]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/24) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-41394740fae4b6c0075fef7413a05d17]: Commencement: Sch. para. 25 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-41394740fae4b6c0075fef7413a05d17]: Commencement: Sch. para. 25 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-0619cc87e28e0e39ebcb46da174eaa19]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-0619cc87e28e0e39ebcb46da174eaa19]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-067a38b6c70869a1010e48c7a2498fcd]: Commencement: Sch. para. 26 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-067a38b6c70869a1010e48c7a2498fcd]: Commencement: Sch. para. 26 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-6da8618f1e1ef83d1e4a6cad2cb6f4c1]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/26) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-6da8618f1e1ef83d1e4a6cad2cb6f4c1]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/26) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-da722efac75f7478954116fee9bd59e3]: Commencement: Sch. para. 27 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-da722efac75f7478954116fee9bd59e3]: Commencement: Sch. para. 27 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-4243d558bac851f60be27326656d7e3b]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/27) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-4243d558bac851f60be27326656d7e3b]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/27) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-a7e3e61774a3c51f50c4c40e88f16bdb]: Commencement: Sch. para. 28 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-a7e3e61774a3c51f50c4c40e88f16bdb]: Commencement: Sch. para. 28 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-bf90b40b1188f0964e44b0c981985409]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/28) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-bf90b40b1188f0964e44b0c981985409]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/28) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-9985001858459541e69c51efa202929e]: Commencement: Sch. para. 29 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-9985001858459541e69c51efa202929e]: Commencement: Sch. para. 29 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-40a5f3b17c72b715b4a8fd8efc3a6678]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/29) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-40a5f3b17c72b715b4a8fd8efc3a6678]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/29) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-2cb6d1a5af901469dfd218dc93a66725]: Commencement: Sch. para. 30 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-2cb6d1a5af901469dfd218dc93a66725]: Commencement: Sch. para. 30 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-5a3843483c9986c05912690eea8de305]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/30) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-5a3843483c9986c05912690eea8de305]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/30) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-5957d608cadc171d91f12df8b3a2344f]: Commencement: Sch. para. 31 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-5957d608cadc171d91f12df8b3a2344f]: Commencement: Sch. para. 31 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-4f9487b85a6a0847d0f4012b1aedbca4]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/31) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-4f9487b85a6a0847d0f4012b1aedbca4]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/31) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-133613a38bfebd076ad43ab7c70d434a]: Commencement: Sch. para. 32 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-133613a38bfebd076ad43ab7c70d434a]: Commencement: Sch. para. 32 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-69b2972527b7ce8828211f2781d8f401]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/32) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-69b2972527b7ce8828211f2781d8f401]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/32) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-34e783bc5d7e8b6fbab524cb9483d825]: Commencement: Sch. para. 33 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-34e783bc5d7e8b6fbab524cb9483d825]: Commencement: Sch. para. 33 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-c09a2d71cc7728b069a39ddb58dc453d]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/33) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-c09a2d71cc7728b069a39ddb58dc453d]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/33) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-a30d74de3b554fc7eedd0e8ffc6a5f90]: Commencement: Sch. para. 34 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-a30d74de3b554fc7eedd0e8ffc6a5f90]: Commencement: Sch. para. 34 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-472071e586b4164993a11044732cdffe]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/34) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-472071e586b4164993a11044732cdffe]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/34) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-99c8d6c6171be7c80635f57ce093351f]: Commencement: Sch. para. 35 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-99c8d6c6171be7c80635f57ce093351f]: Commencement: Sch. para. 35 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-04c7b319f2537c795b296a3efb6c787f]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/35) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-04c7b319f2537c795b296a3efb6c787f]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/35) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-7c16299d5989747e226766cffc103d74]: Commencement: Sch. para. 36 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-7c16299d5989747e226766cffc103d74]: Commencement: Sch. para. 36 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-da8da32f5b9e487e3947e45313519c36]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/36) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-da8da32f5b9e487e3947e45313519c36]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/36) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-002011a007e694c5d9e9971eb372d7c7]: Commencement: Sch. para. 37 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-002011a007e694c5d9e9971eb372d7c7]: Commencement: Sch. para. 37 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-ef89c442d6f975464f4e4108907a807c]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/37) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-ef89c442d6f975464f4e4108907a807c]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/37) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-8dea6b9dfb153269a9121e1626f95401]: Commencement: Sch. para. 38 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-8dea6b9dfb153269a9121e1626f95401]: Commencement: Sch. para. 38 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-67b9c6fc6dc5529828796f4c313e4411]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/38) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-67b9c6fc6dc5529828796f4c313e4411]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/38) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-ffbe105c6b913f2d9ad347e5613d0390]: Commencement: Sch. para. 39 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-ffbe105c6b913f2d9ad347e5613d0390]: Commencement: Sch. para. 39 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-a17bd2dc3d520e51e641187ecc985f70]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/39) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-a17bd2dc3d520e51e641187ecc985f70]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/39) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-50bc5bcd103c906ff4c9b5c809e0f0cc]: Commencement: Sch. para. 40 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-50bc5bcd103c906ff4c9b5c809e0f0cc]: Commencement: Sch. para. 40 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-43b464ab703e9b6588d791a3d83b8b51]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/40) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-43b464ab703e9b6588d791a3d83b8b51]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/40) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-b8d5752f61fa89fe86e02c612dfc442d]: Commencement: Sch. para. 41 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-b8d5752f61fa89fe86e02c612dfc442d]: Commencement: Sch. para. 41 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-8d2619ee1a2c2f5b8b71825eb15a56c8]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/41) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-8d2619ee1a2c2f5b8b71825eb15a56c8]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/41) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-4c1e28ee5b24c76e97ccc542066096fa]: Commencement: Sch. para. 42 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-4c1e28ee5b24c76e97ccc542066096fa]: Commencement: Sch. para. 42 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-fd89f2b21c2ea810256378c61c988129]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/42) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-fd89f2b21c2ea810256378c61c988129]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/42) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-09da8a57ec35b39391d2b11827a10897]: Commencement: Sch. para. 43 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-09da8a57ec35b39391d2b11827a10897]: Commencement: Sch. para. 43 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-7eb4146fc3864af271854bba4827e7ee]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/43) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-7eb4146fc3864af271854bba4827e7ee]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/43) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-bf29638f6c26e5385fd29921ea1ab2d2]: Commencement: Sch. para. 44 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-bf29638f6c26e5385fd29921ea1ab2d2]: Commencement: Sch. para. 44 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-96f524b59969f2d8063acc6dbb73ec8a]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/44) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-96f524b59969f2d8063acc6dbb73ec8a]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/44) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-260039f106a72db2026c91a1d20f7394]: Commencement: Sch. para. 45 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-260039f106a72db2026c91a1d20f7394]: Commencement: Sch. para. 45 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-0aa94be1fed5b82610397a7bb0a2aa01]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/45) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-0aa94be1fed5b82610397a7bb0a2aa01]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/45) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-55016be86f07cfa77667428583b05f66]: Commencement: Sch. para. 46 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-55016be86f07cfa77667428583b05f66]: Commencement: Sch. para. 46 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-55edee9268ee65224c788b2a1f2df0c5]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/46) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-55edee9268ee65224c788b2a1f2df0c5]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/46) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-a9dea0e06f5c26d887ace9e4e63f618f]: Commencement: Sch. para. 47 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-a9dea0e06f5c26d887ace9e4e63f618f]: Commencement: Sch. para. 47 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-f28947f7938acaa4c73f4916f6bbe671]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/47) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f28947f7938acaa4c73f4916f6bbe671]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/47) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-34ecc73d0641c5c37aecdb1f5e26edb9]: Commencement: Sch. para. 48 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-34ecc73d0641c5c37aecdb1f5e26edb9]: Commencement: Sch. para. 48 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-936afa6ebe75ae5f19f5a48a567866b5]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/48) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-936afa6ebe75ae5f19f5a48a567866b5]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/48) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-bdda0de66c09273a0317f28be05154e5]: Commencement: Sch. para. 49 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-bdda0de66c09273a0317f28be05154e5]: Commencement: Sch. para. 49 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-a8a19a9bc4104006cfa7be51ca83a396]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/49) in force at 21.8.2023 for specified purposes by [S.I. 2023/904](https://www.legislation.gov.uk/uksi/2023/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/904/regulation/2/b)
+[^c-a8a19a9bc4104006cfa7be51ca83a396]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/49) in force at 21.8.2023 for specified purposes by [S.I. 2023/904](https://www.legislation.gov.uk/uksi/2023/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/904/regulation/2/b)
 
-[^key-91c64463f07b2ca965df8dcae4c7f531]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/49) in force at 17.1.2025 in so far as not already in force by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-91c64463f07b2ca965df8dcae4c7f531]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/49) in force at 17.1.2025 in so far as not already in force by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-eb345c3e0162d8d54037325a4e0062f1]: Commencement: Sch. para. 50 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-eb345c3e0162d8d54037325a4e0062f1]: Commencement: Sch. para. 50 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-ecf66d1eebbb833e3ae1e893d0f7099f]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/50) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-ecf66d1eebbb833e3ae1e893d0f7099f]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/50) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-b9131b206ba47cda096f0cb8ebe47537]: Commencement: Sch. para. 51 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-b9131b206ba47cda096f0cb8ebe47537]: Commencement: Sch. para. 51 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-2db40526655d4637b1406939c2932b12]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/51) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-2db40526655d4637b1406939c2932b12]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/51) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-253a2b164b4ad999a99834a1f6ede18d]: Commencement: Sch. para. 52 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-253a2b164b4ad999a99834a1f6ede18d]: Commencement: Sch. para. 52 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-9e79b8e952ba17b93488666fc8105705]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/52) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-9e79b8e952ba17b93488666fc8105705]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/52) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-2d493a2acb75b5aa830a794bfaae81a6]: Commencement: Sch. para. 53 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-2d493a2acb75b5aa830a794bfaae81a6]: Commencement: Sch. para. 53 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-626ddcf4e7493517f26cbd1eee39435c]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/53) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-626ddcf4e7493517f26cbd1eee39435c]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/53) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-e942e48c5dfc4436cc5bd6810d9c6156]: Commencement: Sch. para. 54 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-e942e48c5dfc4436cc5bd6810d9c6156]: Commencement: Sch. para. 54 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-2d94091bdc75f3478ace3c7d255cfb7c]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/54) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-2d94091bdc75f3478ace3c7d255cfb7c]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/54) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-6c04781b95f15c98a2cb21fb5ce6e859]: Commencement: Sch. para. 55 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-6c04781b95f15c98a2cb21fb5ce6e859]: Commencement: Sch. para. 55 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-bf7ec55eaf9beb113252488ab7b5133d]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/55) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-bf7ec55eaf9beb113252488ab7b5133d]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/55) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-6fe2d596270dfb4db99bc0b29c1fb355]: Commencement: Sch. para. 56 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-6fe2d596270dfb4db99bc0b29c1fb355]: Commencement: Sch. para. 56 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-62d7ee16fe44810efbe07126233cd444]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/56) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-62d7ee16fe44810efbe07126233cd444]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/56) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-237dad264751bd2152a2141a63a9f14d]: Commencement: Sch. para. 57 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-237dad264751bd2152a2141a63a9f14d]: Commencement: Sch. para. 57 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-f8c7cf8ad848bce1e3d959bdac4a06fe]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/57) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f8c7cf8ad848bce1e3d959bdac4a06fe]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/57) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-b3e0d3d2050793a645bb23a5a48f35aa]: Commencement: Sch. para. 58 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
+[^c-b3e0d3d2050793a645bb23a5a48f35aa]: Commencement: Sch. para. 58 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3)
 
-[^key-f012b280de33401e6e83a3d85fccd5f8]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/58) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f012b280de33401e6e83a3d85fccd5f8]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/58) in force at 17.1.2025 by [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

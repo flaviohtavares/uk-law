@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Denotification of sites of special scientific interest[^key-00c5eca597b8073a4f162cba1fafcce7]
+## 9. Denotification of sites of special scientific interest[^c-00c5eca597b8073a4f162cba1fafcce7]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ summary: ''
   - (ii) explains why SNH considers the site of special scientific interest or part no longer to be of special interest by reason of the natural feature specified in the SSSI notification, and
 - (b) a map on which the site of special scientific interest or part is delineated.
 
-(5)[^key-b262d9bcc85d74d78d654b0522d13df8] This subsection applies where—
+(5)[^c-b262d9bcc85d74d78d654b0522d13df8] This subsection applies where—
 
 - (a) a public body or office-holder (after consulting SNH in accordance with any enactment) permits the carrying out of an operation,
 - (b) the carrying out of the operation in pursuance of that permission damages a natural feature specified in an SSSI notification,
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00c5eca597b8073a4f162cba1fafcce7]: Commencement: S. 9 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-00c5eca597b8073a4f162cba1fafcce7]: Commencement: S. 9 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-b262d9bcc85d74d78d654b0522d13df8]: Textual amendment: S. 9(5)(6) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 38](https://www.legislation.gov.uk/asp/2011/6/section/38), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(o)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/o)
+[^c-b262d9bcc85d74d78d654b0522d13df8]: Textual amendment: S. 9(5)(6) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 38](https://www.legislation.gov.uk/asp/2011/6/section/38), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(o)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/o)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Local authorities as relevant public authorities[^key-2f3cae343526860daadfe3c71de49cef]
+## 73. Local authorities as relevant public authorities[^c-2f3cae343526860daadfe3c71de49cef]
 
 *Extent: E+W+S+N.I.*
 
-(1) A local authority is a relevant public authority for the purposes of this Part but only so far as relating to authorisations under section 60A[^key-94e8fa888f5de54f6d32ae34dd35315d].
+(1) A local authority is a relevant public authority for the purposes of this Part but only so far as relating to authorisations under section 60A[^c-94e8fa888f5de54f6d32ae34dd35315d].
 
-(2)[^key-c8208b9f534ed28e2f8d5b5c85083b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c8208b9f534ed28e2f8d5b5c85083b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An authorisation may not be granted under section 60A on the application of a local authority unless—
 
@@ -30,28 +30,28 @@ summary: ''
 - (b) the local authority is a party to a collaboration agreement (whether as a supplying authority or a subscribing authority or both), and
 - (c) that collaboration agreement is certified by the Secretary of State (having regard to guidance given by virtue of section 79(6) and (7)) as being appropriate for the local authority.
 
-(3A)[^key-a93b061b0446afa7bdc3765440ef26cc] In subsection (3)—
+(3A)[^c-a93b061b0446afa7bdc3765440ef26cc] In subsection (3)—
 
 - “collaboration agreement” means an agreement under section 78 that falls within subsection (1)(b)(iii) of that section,
 - “subscribing authority” has the same meaning as in section 78,
 - “supplying authority” has the same meaning as in section 78.
 
-(4)[^key-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5e95370b1ed2ce40b3e94eb10f5e6023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f3cae343526860daadfe3c71de49cef]: Commencement: S. 73 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-2f3cae343526860daadfe3c71de49cef]: Commencement: S. 73 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
 
-[^key-94e8fa888f5de54f6d32ae34dd35315d]: Textual amendment: Words in s. 73(1) inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/13/2) (see S.I. 2019/174, reg. 2(c))
+[^c-94e8fa888f5de54f6d32ae34dd35315d]: Textual amendment: Words in s. 73(1) inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/13/2) (see S.I. 2019/174, reg. 2(c))
 
-[^key-c8208b9f534ed28e2f8d5b5c85083b0d]: Textual amendment: S. 73(2) omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/13/3) (see S.I. 2019/174, reg. 2(c))
+[^c-c8208b9f534ed28e2f8d5b5c85083b0d]: Textual amendment: S. 73(2) omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/13/3) (see S.I. 2019/174, reg. 2(c))
 
-[^key-a93b061b0446afa7bdc3765440ef26cc]: Textual amendment: [S. 73(3A)](https://www.legislation.gov.uk/ukpga/2016/25/section/73/3A) substituted (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/939/regulation/2)
+[^c-a93b061b0446afa7bdc3765440ef26cc]: Textual amendment: [S. 73(3A)](https://www.legislation.gov.uk/ukpga/2016/25/section/73/3A) substituted (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/939/regulation/2)
 
-[^key-5e95370b1ed2ce40b3e94eb10f5e6023]: Textual amendment: S. 73(4)-(7) omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/13/3) (see S.I. 2019/174, reg. 2(c))
+[^c-5e95370b1ed2ce40b3e94eb10f5e6023]: Textual amendment: S. 73(4)-(7) omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/13/3) (see S.I. 2019/174, reg. 2(c))

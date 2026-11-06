@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 410. Information about related undertakings: alternative compliance[^key-dbe01b80e9b92049b2b219c5283289c5]
+## 410. Information about related undertakings: alternative compliance[^c-dbe01b80e9b92049b2b219c5283289c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbe01b80e9b92049b2b219c5283289c5]: Textual amendment: S. 410 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [5(13)](https://www.legislation.gov.uk/uksi/2015/980/regulation/5/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-dbe01b80e9b92049b2b219c5283289c5]: Textual amendment: S. 410 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [5(13)](https://www.legislation.gov.uk/uksi/2015/980/regulation/5/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

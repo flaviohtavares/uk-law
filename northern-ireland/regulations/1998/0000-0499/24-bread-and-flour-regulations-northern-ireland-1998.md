@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services in exercise of the powers conferred on it by Articles 15(1), 17(1)(*c*), 25(1)(*a*) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf and after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to it to be representative of interests likely to be substantially affected by these Regulations, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-6c73ce969da2dcc6ab4a1f1a7f692a80]
+## 1. Citation and commencement[^c-6c73ce969da2dcc6ab4a1f1a7f692a80]
 
 These Regulations may be cited as the Bread and Flour Regulations (Northern Ireland) 1998 and shall come into operation on 9th March 1998.
 
-## 2. Interpretation[^key-e80a8e4bdc4084515a72f9c8ceee7ca1]
+## 2. Interpretation[^c-e80a8e4bdc4084515a72f9c8ceee7ca1]
 
 In these Regulations—
 
@@ -53,28 +53,28 @@ In these Regulations—
   - (b) consists of a dough made from flour and water, with or without other ingredients, which has been fermented by yeast or otherwise leavened and subsequently baked or partly baked,
 
   but does not include buns, bunloaves, chapattis, chollas, pitta bread, potato bread or bread specially prepared for coeliac sufferers;
-- “[^key-acbb667aac62c3bb6b658e69bf3f7d04]**common wheat**” means Triticum aestivum L;
+- “[^c-acbb667aac62c3bb6b658e69bf3f7d04]**common wheat**” means Triticum aestivum L;
 - “EEA Agreement” means the Agreement on the European Economic Area[^f00002] signed at Oporto on 2nd May 1992, as adjusted by the Protocol[^f00003] signed at Brussels on 17th March 1993;
 - “EEA State” means a State which is a Contracting Party to the EEA Agreement;
 - “enzyme preparation” means any food additive which consists of one or more enzymes with or without the addition of supplementary material to facilitate the storage, sale, standardisation, dilution or dissolution of the enzyme or enzymes;
 - “flour” means the product which is derived from, or separated during, the milling or grinding of cleaned cereal whether or not the cereal has been malted or subjected to any other process, and includes meal, but does not include other cereal products, such as separated cereal bran, separated cereal germ, semolina or grits;
 - “flour bleaching agent” means any food additive primarily used to remove colour from flour;
-- [^key-401dcb44162d8c8c200a752fa9934cdb]...
-- [^key-401dcb44162d8c8c200a752fa9934cdb]...
-- “food additive” has the meaning assigned to it by Article 3(2)(a) of Regulation[^key-52c59b3f7afe109054dda0bbf23a6dc8] [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives as last amended by Commission Regulation (EU) 2018/1497
-- “ingredient” has the meaning assigned to it by Article 2(2)(f) of Regulation (EU) No 1169/2011[^key-7fcc0b3084fc45d62823394888bc6a0d];
-- “labelling” has the meaning assigned to it by Article 2(2)(j) of Regulation (EU) No 1169/2011[^key-523b4accba55a17807d0ea5481d674a0];
-- [^key-be8ee992d71b5c79321f896300eaa643]...
+- [^c-401dcb44162d8c8c200a752fa9934cdb]...
+- [^c-401dcb44162d8c8c200a752fa9934cdb]...
+- “food additive” has the meaning assigned to it by Article 3(2)(a) of Regulation[^c-52c59b3f7afe109054dda0bbf23a6dc8] [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives as last amended by Commission Regulation (EU) 2018/1497
+- “ingredient” has the meaning assigned to it by Article 2(2)(f) of Regulation (EU) No 1169/2011[^c-7fcc0b3084fc45d62823394888bc6a0d];
+- “labelling” has the meaning assigned to it by Article 2(2)(j) of Regulation (EU) No 1169/2011[^c-523b4accba55a17807d0ea5481d674a0];
+- [^c-be8ee992d71b5c79321f896300eaa643]...
 - “the Order” means the Food Safety (Northern Ireland) Order 1991;
-- “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^key-b5eb1500f7dc96c6aa6de55f255294e3] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council.[^key-c1510fdd61bb23855f3f5d9ee16f6a13]; [^key-aceb347e1be70b18bd3a49d42c38c653]...
-- “sell” includes offer or expose for sale and includes have in possession for sale ; and[^key-9cb6cc2ad4038180f23fa5717b70ac1c]
-- “[^key-8e1b0074aad91387a9231a9b35118579]**wholemeal flour**” means the flour consisting of the whole of the product obtained from the milling or grinding of cleaned cereals.
+- “Regulation (EU) No 1169/2011” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations[^c-b5eb1500f7dc96c6aa6de55f255294e3] [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council.[^c-c1510fdd61bb23855f3f5d9ee16f6a13]; [^c-aceb347e1be70b18bd3a49d42c38c653]...
+- “sell” includes offer or expose for sale and includes have in possession for sale ; and[^c-9cb6cc2ad4038180f23fa5717b70ac1c]
+- “[^c-8e1b0074aad91387a9231a9b35118579]**wholemeal flour**” means the flour consisting of the whole of the product obtained from the milling or grinding of cleaned cereals.
 
-## 3. Exemptions[^key-7f50365da2200472276e76f0de3aab9f]
+## 3. Exemptions[^c-7f50365da2200472276e76f0de3aab9f]
 
 (1) These Regulations, except insofar as they relate to advertising, shall not apply to any food which is not intended for sale for human consumption.
 
-(2)[^key-f97a3f5ccec43391ae3d57405cd2efa4] These Regulations shall not apply in respect of—
+(2)[^c-f97a3f5ccec43391ae3d57405cd2efa4] These Regulations shall not apply in respect of—
 
 - (a) any bread or flour brought into Northern Ireland from an EEA State in which it was lawfully produced and sold;
 - (b) any bread or flour lawfully produced in another member State and brought into Northern Ireland from a member State in which it was lawfully sold;
@@ -88,11 +88,11 @@ which is suitably labelled to give the nature of the bread or flour.
 
 (3) For the purposes of paragraph (2), “free circulation” has the same meaning as in Article 9.2 of the Treaty establishing the European Community.
 
-## 4. Composition of flour[^key-2d13d28a3341270e36011803d439499e]
+## 4. Composition of flour[^c-2d13d28a3341270e36011803d439499e]
 
-(1) Subject to paragraphs (1A) and (2)[^key-4ac58f4a07c1c3429c9bd9c2cf99e80c], flour derived from common[^key-66f1c8bd41cf32664107d8026640b824] wheat and from no other cereal, whether or not mixed with other flour, shall contain the substances specified in column 1 of Schedule 1 in accordance with the proportions and conditions prescribed in column 2 of that Schedule and with Schedule 2.
+(1) Subject to paragraphs (1A) and (2)[^c-4ac58f4a07c1c3429c9bd9c2cf99e80c], flour derived from common[^c-66f1c8bd41cf32664107d8026640b824] wheat and from no other cereal, whether or not mixed with other flour, shall contain the substances specified in column 1 of Schedule 1 in accordance with the proportions and conditions prescribed in column 2 of that Schedule and with Schedule 2.
 
-(1A)[^key-2cbb54d129eaae794c09064f0f0d3950] The requirements specified in paragraph (1) shall not apply to—
+(1A)[^c-2cbb54d129eaae794c09064f0f0d3950] The requirements specified in paragraph (1) shall not apply to—
 
 - (a) wholemeal flour; or
 - (b) flour produced by a small mill which is a production site which has—
@@ -101,11 +101,11 @@ which is suitably labelled to give the nature of the bread or flour.
 
 (2) The requirements specified for item 1 in column 2 of Schedule 1 shall not apply in the case of—
 
-- (a)[^key-3f903e0c50669088e6149b9e1028437a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3f903e0c50669088e6149b9e1028437a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) self raising flour which has a calcium content of not less than 0.2 per cent, and
 - (c) wheat malt flour.
 
-(3)[^key-628943f2f12e55020e655e42c73a67ce] The substances specified in items 2 to 4 of Schedule 1 shall be added where such addition is necessary in accordance with the conditions prescribed in column 2 of that Schedule.
+(3)[^c-628943f2f12e55020e655e42c73a67ce] The substances specified in items 2 to 4 of Schedule 1 shall be added where such addition is necessary in accordance with the conditions prescribed in column 2 of that Schedule.
 
 (4) Subject to paragraph (5)—
 
@@ -118,13 +118,13 @@ which is suitably labelled to give the nature of the bread or flour.
 
 (5) Paragraph (4) shall not apply as respects any sale or importation into Northern Ireland of flour for use in the manufacture of communion wafers, matzos, gluten, starch or any concentrated preparation for use for the purpose of facilitating the addition to flour of the substances referred to in Schedule 1.
 
-## 5. Additional ingredients[^key-c65239595e5df3d41abc3789b4c17f2d]
+## 5. Additional ingredients[^c-c65239595e5df3d41abc3789b4c17f2d]
 
-(1)[^key-affaf9d4d94a21a2961fa8b315dd5128] No person shall use as an ingredient in the preparation of flour or bread any flour bleaching agent.
+(1)[^c-affaf9d4d94a21a2961fa8b315dd5128] No person shall use as an ingredient in the preparation of flour or bread any flour bleaching agent.
 
-(3)[^key-eedebf902c0542421fd0a81c043661b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eedebf902c0542421fd0a81c043661b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on the use of ‘wholemeal’ and ‘wheat germ’[^key-b75d7c08b11bdf4ea582d4108bd6b452]
+## 6. Restrictions on the use of ‘wholemeal’ and ‘wheat germ’[^c-b75d7c08b11bdf4ea582d4108bd6b452]
 
 (1) There shall not be used in the labelling or advertising of bread, as part of the name of the bread, whether or not qualified by other words—
 
@@ -133,27 +133,27 @@ which is suitably labelled to give the nature of the bread or flour.
 
 (2) No person shall sell or advertise for sale any bread in contravention of this regulation.
 
-## 7. Offences and penalties[^key-75d152f1b44cac276b3154a72da99a55]
+## 7. Offences and penalties[^c-75d152f1b44cac276b3154a72da99a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-1da4a562cf2c4487bd6a8e17081f9dc2]
+## 8. Enforcement[^c-1da4a562cf2c4487bd6a8e17081f9dc2]
 
 Each district council shall enforce and execute these Regulations within its district.
 
-## 9. Defence in relation to exports[^key-3045458ca92ffc0e2e0124849f9e0d8b]
+## 9. Defence in relation to exports[^c-3045458ca92ffc0e2e0124849f9e0d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application and modification of provisions of the Order[^key-935e93b9187d5d49b5270a62f5203953]
+## 10. Application and modification of provisions of the Order[^c-935e93b9187d5d49b5270a62f5203953]
 
 The provisions of the Order specified in column 1 of the table in Schedule 5 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
 
-## 11. Amendments[^key-5bc9a33381623c146bb632c667233ebb]
+## 11. Amendments[^c-5bc9a33381623c146bb632c667233ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocations[^key-97817c2aca95fb1afbb61dff3b48f523]
+## 12. Revocations[^c-97817c2aca95fb1afbb61dff3b48f523]
 
 The Regulations specified in column 1 of Schedule 4 are hereby revoked to the extent specified in column 3 of that Schedule.
 
@@ -165,7 +165,7 @@ Assistant Secretary
 
 28th January 1998.
 
-## SCHEDULE 1 — Essential Ingredients of Flour[^key-d4f748e5f79dd4dcfdc2d3b4c47e25c3]
+## SCHEDULE 1 — Essential Ingredients of Flour[^c-d4f748e5f79dd4dcfdc2d3b4c47e25c3]
 
 Regulation 4(1), (2), (3) and (5)
 
@@ -191,13 +191,13 @@ Regulation 4(1), (2), (3) and (5)
 </tbody>
 </table>
 
-## SCHEDULE 2 — Specification for Iron Powder[^key-ce16fc07ac478c8c3dd707171ea43dca]
+## SCHEDULE 2 — Specification for Iron Powder[^c-ce16fc07ac478c8c3dd707171ea43dca]
 
 Regulation 4(1)
 
 ### Definition
 
-[^key-ce16fc07ac478c8c3dd707171ea43dca]
+[^c-ce16fc07ac478c8c3dd707171ea43dca]
 
 Iron powder shall consist essentially of finely-divided metallic iron containing not less than 90 per cent by weight of iron and conform to the following requirements.
 
@@ -208,25 +208,25 @@ Iron powder shall consist essentially of finely-divided metallic iron containing
 
 ### Description
 
-[^key-ce16fc07ac478c8c3dd707171ea43dca]
+[^c-ce16fc07ac478c8c3dd707171ea43dca]
 
 Fine greyish-black powder of such granularity that not more than 0.1 per cent by weight shall remain on a British Standard 410: 1969 wire sieve nominal aperture size 150μm and not more than 5 per cent by weight on a British Standard 410: 1969 wire sieve nominal aperture size 53μm.
 
 ### Assay
 
-[^key-ce16fc07ac478c8c3dd707171ea43dca]
+[^c-ce16fc07ac478c8c3dd707171ea43dca]
 
 Accurately weigh 0.25 g of sample into a stoppered flask. Add a hot solution of 1.25 g of copper sulphate pentahydrate in 20 ml of water and shake for ten minutes. Filter rapidly and wash the filter with water; acidify the mixed filtrate and washings with sulphuric acid, and titrate with N/10 potassium permanganate. Each ml of N/10 potassium permanganate is equivalent to 0.005585 g of iron.
 
 ### Solubility
 
-[^key-ce16fc07ac478c8c3dd707171ea43dca]
+[^c-ce16fc07ac478c8c3dd707171ea43dca]
 
 Not less than 95 per cent of the iron content when determined by the following method.
 
 Accurately weigh 0.1 g of sample into 750 ml conical flask. Add 450 ml 0.2 per cent weight in weight hydrochloric acid previously warmed to 37°C. Stir continuously for three hours, maintaining the temperature at 37°C. Cool to room temperature and dilute to 500 ml with distilled water. Filter; determine the iron content of the filtrate by a suitable method. Calculate the total iron in solution as a percentage of the metallic iron content of the sample taken.
 
-## SCHEDULE 3 — Ingredients Permitted in Flour and Bread[^key-c11dd715e1fb69753315614971e4fe75]
+## SCHEDULE 3 — Ingredients Permitted in Flour and Bread[^c-c11dd715e1fb69753315614971e4fe75]
 
 **No longer in force.**
 
@@ -234,7 +234,7 @@ Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Revocations[^key-0f3c8456f1e42b59ae05d3dc45f149ec]
+## SCHEDULE 4 — Revocations[^c-0f3c8456f1e42b59ae05d3dc45f149ec]
 
 Regulation 12
 
@@ -250,7 +250,7 @@ Regulation 12
 </tbody>
 </table>
 
-## SCHEDULE 5 — Application and modification of provisions of the Order[^key-c01d202391b467fffb2f128f10e7db74]
+## SCHEDULE 5 — Application and modification of provisions of the Order[^c-c01d202391b467fffb2f128f10e7db74]
 
 Regulation 10
 
@@ -290,78 +290,78 @@ These Regulations were notified in draft to the European Commission pursuant to 
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633). *See* Article 2(2) for the definitions of “regulations” and “the Department concerned”
 
-[^key-6c73ce969da2dcc6ab4a1f1a7f692a80]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-6c73ce969da2dcc6ab4a1f1a7f692a80]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-e80a8e4bdc4084515a72f9c8ceee7ca1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-e80a8e4bdc4084515a72f9c8ceee7ca1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-acbb667aac62c3bb6b658e69bf3f7d04]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/a)
+[^c-acbb667aac62c3bb6b658e69bf3f7d04]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/a)
 
 [^f00002]: Footnote: O.J. No. L1, 3.1.94, p. 1
 
 [^f00003]: Footnote: O.J. No. L1, 3.1.94, p. 571
 
-[^key-401dcb44162d8c8c200a752fa9934cdb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/4/a)
+[^c-401dcb44162d8c8c200a752fa9934cdb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2019/5/regulation/4/a)
 
-[^key-52c59b3f7afe109054dda0bbf23a6dc8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/4/b)
+[^c-52c59b3f7afe109054dda0bbf23a6dc8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2019/5/regulation/4/b)
 
-[^key-7fcc0b3084fc45d62823394888bc6a0d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
+[^c-7fcc0b3084fc45d62823394888bc6a0d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(a)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
 
-[^key-523b4accba55a17807d0ea5481d674a0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
+[^c-523b4accba55a17807d0ea5481d674a0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) substituted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(b)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
 
-[^key-be8ee992d71b5c79321f896300eaa643]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(c)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
+[^c-be8ee992d71b5c79321f896300eaa643]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) omitted (13.12.2014) by virtue of [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(c)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
 
-[^key-b5eb1500f7dc96c6aa6de55f255294e3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(d)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
+[^c-b5eb1500f7dc96c6aa6de55f255294e3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 7 Pt. 2 para. 4(d)](https://www.legislation.gov.uk/nisr/2014/223/schedule/7/part/2/paragraph/4)
 
-[^key-c1510fdd61bb23855f3f5d9ee16f6a13]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2019/5/regulation/4/c)
+[^c-c1510fdd61bb23855f3f5d9ee16f6a13]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2019/5/regulation/4/c)
 
-[^key-aceb347e1be70b18bd3a49d42c38c653]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) omitted (13.12.2024) by virtue of [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/b)
+[^c-aceb347e1be70b18bd3a49d42c38c653]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) omitted (13.12.2024) by virtue of [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/b)
 
-[^key-9cb6cc2ad4038180f23fa5717b70ac1c]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) replaced (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(c)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/c)
+[^c-9cb6cc2ad4038180f23fa5717b70ac1c]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) replaced (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(c)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/c)
 
-[^key-8e1b0074aad91387a9231a9b35118579]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(c)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/c)
+[^c-8e1b0074aad91387a9231a9b35118579]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/24/regulation/2) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(2)(c)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/2/c)
 
-[^key-7f50365da2200472276e76f0de3aab9f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/24/regulation/3) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-7f50365da2200472276e76f0de3aab9f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/24/regulation/3) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-f97a3f5ccec43391ae3d57405cd2efa4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/1998/24/regulation/3/2) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(3)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/3/a)
+[^c-f97a3f5ccec43391ae3d57405cd2efa4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/1998/24/regulation/3/2) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(3)(a)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/3/a)
 
-[^key-2d13d28a3341270e36011803d439499e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/24/regulation/4) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-2d13d28a3341270e36011803d439499e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/24/regulation/4) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-4ac58f4a07c1c3429c9bd9c2cf99e80c]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/1) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/a/i)
+[^c-4ac58f4a07c1c3429c9bd9c2cf99e80c]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/1) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/a/i)
 
-[^key-66f1c8bd41cf32664107d8026640b824]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/1) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/a/ii)
+[^c-66f1c8bd41cf32664107d8026640b824]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/1) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/a/ii)
 
-[^key-2cbb54d129eaae794c09064f0f0d3950]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/1A) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/b)
+[^c-2cbb54d129eaae794c09064f0f0d3950]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/1A) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/b)
 
-[^key-3f903e0c50669088e6149b9e1028437a]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/2/a) omitted (13.12.2024) by virtue of [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(c)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/c)
+[^c-3f903e0c50669088e6149b9e1028437a]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/2/a) omitted (13.12.2024) by virtue of [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(c)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/c)
 
-[^key-628943f2f12e55020e655e42c73a67ce]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/3) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(d)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/d)
+[^c-628943f2f12e55020e655e42c73a67ce]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/1998/24/regulation/4/3) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(4)(d)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/4/d)
 
-[^key-c65239595e5df3d41abc3789b4c17f2d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/24/regulation/5) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-c65239595e5df3d41abc3789b4c17f2d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/24/regulation/5) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-affaf9d4d94a21a2961fa8b315dd5128]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/24/regulation/5/1) substituted for [reg. 5(1)(2)](https://www.legislation.gov.uk/nisr/1998/24/regulation/5/1) (13.7.1999) by [Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/244)](https://www.legislation.gov.uk/nisr/1999/244), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/4/a)
+[^c-affaf9d4d94a21a2961fa8b315dd5128]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/24/regulation/5/1) substituted for [reg. 5(1)(2)](https://www.legislation.gov.uk/nisr/1998/24/regulation/5/1) (13.7.1999) by [Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/244)](https://www.legislation.gov.uk/nisr/1999/244), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/4/a)
 
-[^key-eedebf902c0542421fd0a81c043661b2]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/1998/24/regulation/5/3) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)
+[^c-eedebf902c0542421fd0a81c043661b2]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/1998/24/regulation/5/3) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)
 
-[^key-b75d7c08b11bdf4ea582d4108bd6b452]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/24/regulation/6) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-b75d7c08b11bdf4ea582d4108bd6b452]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/24/regulation/6) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-75d152f1b44cac276b3154a72da99a55]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/24/regulation/7) omitted (13.12.2024) by virtue of [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(5)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/5)
+[^c-75d152f1b44cac276b3154a72da99a55]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/24/regulation/7) omitted (13.12.2024) by virtue of [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(5)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/5)
 
-[^key-1da4a562cf2c4487bd6a8e17081f9dc2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/24/regulation/8) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-1da4a562cf2c4487bd6a8e17081f9dc2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/24/regulation/8) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-3045458ca92ffc0e2e0124849f9e0d8b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/24/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [46](https://www.legislation.gov.uk/nisr/2005/574/regulation/46), [Sch. 6](https://www.legislation.gov.uk/nisr/2005/574/schedule/6)
+[^c-3045458ca92ffc0e2e0124849f9e0d8b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/24/regulation/9) revoked (1.1.2006) by [The Official Feed and Food Controls Regulations (Northern Ireland) 2005 (S.R. 2005/574)](https://www.legislation.gov.uk/nisr/2005/574), [regs. 1](https://www.legislation.gov.uk/nisr/2005/574/regulation/1), [46](https://www.legislation.gov.uk/nisr/2005/574/regulation/46), [Sch. 6](https://www.legislation.gov.uk/nisr/2005/574/schedule/6)
 
-[^key-935e93b9187d5d49b5270a62f5203953]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/24/regulation/10) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(6)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/6)
+[^c-935e93b9187d5d49b5270a62f5203953]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/24/regulation/10) substituted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(6)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/6)
 
-[^key-5bc9a33381623c146bb632c667233ebb]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/24/regulation/11) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)
+[^c-5bc9a33381623c146bb632c667233ebb]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/24/regulation/11) revoked (13.12.2014) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/2), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/1)
 
-[^key-97817c2aca95fb1afbb61dff3b48f523]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/24/regulation/12) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-97817c2aca95fb1afbb61dff3b48f523]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/24/regulation/12) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-d4f748e5f79dd4dcfdc2d3b4c47e25c3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1998/24/schedule/1) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-d4f748e5f79dd4dcfdc2d3b4c47e25c3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1998/24/schedule/1) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-ce16fc07ac478c8c3dd707171ea43dca]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1998/24/schedule/2) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-ce16fc07ac478c8c3dd707171ea43dca]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1998/24/schedule/2) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-c11dd715e1fb69753315614971e4fe75]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/1998/24/schedule/3) omitted (13.7.1999) by virtue of [Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/244)](https://www.legislation.gov.uk/nisr/1999/244), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1), [14(4)(b)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/4/b)
+[^c-c11dd715e1fb69753315614971e4fe75]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/1998/24/schedule/3) omitted (13.7.1999) by virtue of [Miscellaneous Food Additives (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/244)](https://www.legislation.gov.uk/nisr/1999/244), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/244/regulation/1/1), [14(4)(b)](https://www.legislation.gov.uk/nisr/1999/244/regulation/14/4/b)
 
-[^key-0f3c8456f1e42b59ae05d3dc45f149ec]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/1998/24/schedule/4) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
+[^c-0f3c8456f1e42b59ae05d3dc45f149ec]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/1998/24/schedule/4) in operation at 9.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/24/regulation/1)
 
-[^key-c01d202391b467fffb2f128f10e7db74]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/1998/24/schedule/5) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(9)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/9), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/196/schedule/2)
+[^c-c01d202391b467fffb2f128f10e7db74]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/1998/24/schedule/5) inserted (13.12.2024) by [The Bread and Flour (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/196)](https://www.legislation.gov.uk/nisr/2024/196), [regs. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/196/regulation/2/1/b), [3(9)](https://www.legislation.gov.uk/nisr/2024/196/regulation/3/9), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/196/schedule/2)

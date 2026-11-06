@@ -46,17 +46,17 @@ A draft of this Order has been laid before Parliament in accordance with section
 
 Accordingly, the Minister for the Cabinet Office makes the following Order.
 
-## 1. Citation and commencement[^key-e75a3c61088b4d2c546ea4fbac049ee9]
+## 1. Citation and commencement[^c-e75a3c61088b4d2c546ea4fbac049ee9]
 
 (1) This Order may be cited as the Charities Act 2006 (Changes in Exempt Charities) Order 2011.
 
 (2) This Order comes into force on 1st August 2011.
 
-## 2. Changes in exempt charities[^key-b207ece9ea48ba8884a87aa688e98d67]
+## 2. Changes in exempt charities[^c-b207ece9ea48ba8884a87aa688e98d67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments[^key-6c5e7e9d7f66849ce35b324f52ab4f82]
+## 3. Consequential amendments[^c-6c5e7e9d7f66849ce35b324f52ab4f82]
 
 The Schedule (which contains consequential amendments) has effect.
 
@@ -74,32 +74,32 @@ Article 3
 
 ### PART 1 — PRIMARY LEGISLATION
 
-#### 1. Further and Higher Education Act 1992[^key-f74df28983fc9ef7c863b8c606e62089]
+#### 1. Further and Higher Education Act 1992[^c-f74df28983fc9ef7c863b8c606e62089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Charities Act 1993[^key-f74df28983fc9ef7c863b8c606e62089]
+#### 2. Charities Act 1993[^c-f74df28983fc9ef7c863b8c606e62089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. School Standards and Framework Act 1998[^key-f74df28983fc9ef7c863b8c606e62089]
+#### 3. School Standards and Framework Act 1998[^c-f74df28983fc9ef7c863b8c606e62089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Charities Act 2006[^key-f74df28983fc9ef7c863b8c606e62089]
+#### 4. Charities Act 2006[^c-f74df28983fc9ef7c863b8c606e62089]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — SECONDARY LEGISLATION
 
-#### 5. School Governance (Federations) (England) Regulations 2007[^key-2b79eae73e61f8366e75fc913df537af]
+#### 5. School Governance (Federations) (England) Regulations 2007[^c-2b79eae73e61f8366e75fc913df537af]
 
 In regulation 33 of the School Governance (Federations) (England) Regulations 2007[^f00009]—
 
 - (a) in paragraph (1) omit the words “which is an exempt charity for the purposes of the Charities Act 1993”; and
 - (b) omit paragraphs (2) and (3).
 
-#### 6. The Charities Act 2006 (Commencement No. 5, Transitional and Transitory Provisions and Savings) Order 2008[^key-276f4ead131359fc1f78254591ba5ef0]
+#### 6. The Charities Act 2006 (Commencement No. 5, Transitional and Transitory Provisions and Savings) Order 2008[^c-276f4ead131359fc1f78254591ba5ef0]
 
 (1) The Charities Act 2006 (Commencement No. 5, Transitional and Transitory Provisions and Savings) Order 2008[^f00010] is amended as follows.
 
@@ -179,11 +179,11 @@ In regulation 33 of the School Governance (Federations) (England) Regulations 20
 
 (14) In article 27(2)(a) for “relevant educational charity” substitute “Education Action Forum”.
 
-#### 7. The Charities Act 1993 (Exception from Registration) Regulations 2008[^key-fdc1d4053e84466bdbe7ee52015a9580]
+#### 7. The Charities Act 1993 (Exception from Registration) Regulations 2008[^c-fdc1d4053e84466bdbe7ee52015a9580]
 
 In regulation 2(2) of the Charities (Exception from Registration) Regulations 2008[^f00018] omit sub-paragraphs (a) and (c).
 
-#### 8. The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010[^key-1524ca551092db33e528b006c7d44df4]
+#### 8. The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010[^c-1524ca551092db33e528b006c7d44df4]
 
 In regulation 46 of the Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010[^f00019]—
 
@@ -202,19 +202,19 @@ A full impact assessment of the effect that this Order will have on each group o
 
 [^f00001]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50). For the definition of “relevant Minister” see section 74(7) and for “the Minister” see section 78(6).
 
-[^key-e75a3c61088b4d2c546ea4fbac049ee9]: Commencement: Art. 1 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
+[^c-e75a3c61088b4d2c546ea4fbac049ee9]: Commencement: Art. 1 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
 
-[^key-b207ece9ea48ba8884a87aa688e98d67]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1725/article/2) revoked (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-b207ece9ea48ba8884a87aa688e98d67]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1725/article/2) revoked (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-6c5e7e9d7f66849ce35b324f52ab4f82]: Commencement: Art. 3 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
+[^c-6c5e7e9d7f66849ce35b324f52ab4f82]: Commencement: Art. 3 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
 
-[^key-f74df28983fc9ef7c863b8c606e62089]: Textual amendment: [Sch. paras. 1-4](https://www.legislation.gov.uk/uksi/2011/1725/schedule/paragraph/1) revoked (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-f74df28983fc9ef7c863b8c606e62089]: Textual amendment: [Sch. paras. 1-4](https://www.legislation.gov.uk/uksi/2011/1725/schedule/paragraph/1) revoked (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-2b79eae73e61f8366e75fc913df537af]: Commencement: Sch. para. 5 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
+[^c-2b79eae73e61f8366e75fc913df537af]: Commencement: Sch. para. 5 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
 
 [^f00009]: Footnote: [S.I. 2007/960](https://www.legislation.gov.uk/uksi/2007/960).
 
-[^key-276f4ead131359fc1f78254591ba5ef0]: Commencement: Sch. para. 6 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
+[^c-276f4ead131359fc1f78254591ba5ef0]: Commencement: Sch. para. 6 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
 
 [^f00010]: Footnote: [S.I. 2008/3267](https://www.legislation.gov.uk/uksi/2008/3267), amended by [S.I. 2009/2648](https://www.legislation.gov.uk/uksi/2009/2648) and [2010/1942](https://www.legislation.gov.uk/uksi/2010/1942).
 
@@ -232,10 +232,10 @@ A full impact assessment of the effect that this Order will have on each group o
 
 [^f00017]: Footnote: Section 25 was amended by the Charities Act 2006, section 23(2) and (3) and Schedule 8, paragraphs 96 and 117.
 
-[^key-fdc1d4053e84466bdbe7ee52015a9580]: Commencement: Sch. para. 7 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
+[^c-fdc1d4053e84466bdbe7ee52015a9580]: Commencement: Sch. para. 7 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
 
 [^f00018]: Footnote: [S.I. 2008/3268](https://www.legislation.gov.uk/uksi/2008/3268).
 
-[^key-1524ca551092db33e528b006c7d44df4]: Commencement: Sch. para. 8 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
+[^c-1524ca551092db33e528b006c7d44df4]: Commencement: Sch. para. 8 in force at 1.8.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1725/article/1/2)
 
 [^f00019]: Footnote: [S.I. 2010/638](https://www.legislation.gov.uk/uksi/2010/638).

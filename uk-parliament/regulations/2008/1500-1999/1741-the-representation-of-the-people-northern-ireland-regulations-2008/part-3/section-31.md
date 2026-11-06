@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The registration officer shall, unless he allows the application or disallows the objection under regulation 30, send a notice in writing[^key-f6b0e24d28a5d8a812d43118f5689d50]—
+(1) The registration officer shall, unless he allows the application or disallows the objection under regulation 30, send a notice in writing[^c-f6b0e24d28a5d8a812d43118f5689d50]—
 
 - (a) in the case of an application, to the person making the application; and
 - (b) in the case of an objection, to the objector and person against whom an objection is made.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6b0e24d28a5d8a812d43118f5689d50]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/31/1) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/6)
+[^c-f6b0e24d28a5d8a812d43118f5689d50]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/31/1) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2018/699/regulation/11/6)

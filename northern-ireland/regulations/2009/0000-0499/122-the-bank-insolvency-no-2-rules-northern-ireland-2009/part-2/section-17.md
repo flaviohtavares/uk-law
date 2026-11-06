@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Authentication of bank liquidator’s appointment[^key-469e1c86e5e8167e9c613e89cb5033ac]
+## 17. Authentication of bank liquidator’s appointment[^c-469e1c86e5e8167e9c613e89cb5033ac]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A sealed copy of the court’s order may in any proceedings be adduced as proof 
 
 ## Annotations
 
-[^key-469e1c86e5e8167e9c613e89cb5033ac]: Commencement: Rule 17 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-469e1c86e5e8167e9c613e89cb5033ac]: Commencement: Rule 17 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

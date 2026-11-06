@@ -31,7 +31,7 @@ summary: ''
 
 CHILDREN
 
-Inspection of Premises, Children and Records (Children Accommodated in Schools) Regulations (Northern Ireland) 2000 (revoked)[^key-1191c662e5af3139eff64b669e51db40]
+Inspection of Premises, Children and Records (Children Accommodated in Schools) Regulations (Northern Ireland) 2000 (revoked)[^c-1191c662e5af3139eff64b669e51db40]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 4th September 2000
 
-[^key-1191c662e5af3139eff64b669e51db40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1191c662e5af3139eff64b669e51db40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1191c662e5af3139eff64b669e51db40]
+## 1. Citation, commencement and interpretation[^c-1191c662e5af3139eff64b669e51db40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Inspection of premises[^key-1191c662e5af3139eff64b669e51db40]
+## 2. Inspection of premises[^c-1191c662e5af3139eff64b669e51db40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Inspection of children[^key-1191c662e5af3139eff64b669e51db40]
+## 3. Inspection of children[^c-1191c662e5af3139eff64b669e51db40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Inspection of records[^key-1191c662e5af3139eff64b669e51db40]
+## 4. Inspection of records[^c-1191c662e5af3139eff64b669e51db40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1191c662e5af3139eff64b669e51db40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1191c662e5af3139eff64b669e51db40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1191c662e5af3139eff64b669e51db40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1191c662e5af3139eff64b669e51db40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1191c662e5af3139eff64b669e51db40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/179) revoked (14.11.2005) by [The Regulation and Improvement Authority (Inspection of Children, Records and Schools) Regulations (Northern Ireland) 2005 (S.R. 2005/455)](https://www.legislation.gov.uk/nisr/2005/455), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2005/455/regulation/5)
+[^c-1191c662e5af3139eff64b669e51db40]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/179) revoked (14.11.2005) by [The Regulation and Improvement Authority (Inspection of Children, Records and Schools) Regulations (Northern Ireland) 2005 (S.R. 2005/455)](https://www.legislation.gov.uk/nisr/2005/455), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/455/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2005/455/regulation/5)

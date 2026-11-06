@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Duty to transmit a copy of business reorganisation plan[^key-c62d4c715ec780a781becadfbe68b9c2]
+## 166. Duty to transmit a copy of business reorganisation plan[^c-c62d4c715ec780a781becadfbe68b9c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c62d4c715ec780a781becadfbe68b9c2]: Textual amendment: [Art. 166](https://www.legislation.gov.uk/uksi/2014/3348/article/166) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 96](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/96); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c62d4c715ec780a781becadfbe68b9c2]: Textual amendment: [Art. 166](https://www.legislation.gov.uk/uksi/2014/3348/article/166) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 96](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/96); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

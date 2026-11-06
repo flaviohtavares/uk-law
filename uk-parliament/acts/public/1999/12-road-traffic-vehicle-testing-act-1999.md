@@ -37,7 +37,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 1. Tests of satisfactory condition of vehicles.[^c878927]
 
-(1)[^key-b1df2cd16a04589f97a74c5e8116c173] In subsection (3) of section 45 of the [^c878928]Road Traffic Act 1988 (tests of satisfactory condition of vehicles)—
+(1)[^c-b1df2cd16a04589f97a74c5e8116c173] In subsection (3) of section 45 of the [^c878928]Road Traffic Act 1988 (tests of satisfactory condition of vehicles)—
 
 - (a) after paragraph (a) there is inserted—
 
@@ -50,9 +50,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   >   - (i) appointed by any council designated by the Secretary of State for the purposes of this section and section 46 of this Act, being the council of a county, district or London borough or the Common Council of the City of London or a council constituted under section 2 of the [^c878929]Local Government etc. (Scotland) Act 1994, and
   >   - (ii) approved by the Secretary of State.
 
-(2)[^key-b1df2cd16a04589f97a74c5e8116c173] In subsection (4) of that section, for “the examiner or inspector” there is substituted “ the person carrying out the examination ”.
+(2)[^c-b1df2cd16a04589f97a74c5e8116c173] In subsection (4) of that section, for “the examiner or inspector” there is substituted “ the person carrying out the examination ”.
 
-(3)[^key-b49062a4563712fd1c5bb32fbe055e8d] After subsection (6) of that section there is inserted—
+(3)[^c-b49062a4563712fd1c5bb32fbe055e8d] After subsection (6) of that section there is inserted—
 
 > (6A) The Secretary of State may provide, or make arrangements for the provision of, courses of instruction in connection with the carrying out of examinations under this section; and may charge prescribed fees in respect of attendance on such courses.
 >
@@ -61,7 +61,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 > - (a) vehicles submitted for examination under this section, and
 > - (b) the carrying out of and the results of the examinations.
 
-## 2. Regulations under s. 45 of Road Traffic Act 1988.[^key-1d20a3782fa03892e20acfdb525c6e73]
+## 2. Regulations under s. 45 of Road Traffic Act 1988.[^c-1d20a3782fa03892e20acfdb525c6e73]
 
 For section 46 of the [^c878930]Road Traffic Act 1988 there is substituted—
 
@@ -137,7 +137,7 @@ After section 46 of the [^c878931]Road Traffic Act 1988, there is inserted—
 >
 > (4) This section does not limit any powers of the Secretary of State apart from this section.
 
-## 4. Evidence from records of vehicle examinations.[^key-f78e2656c6a6dc9cf58b025159748036]
+## 4. Evidence from records of vehicle examinations.[^c-f78e2656c6a6dc9cf58b025159748036]
 
 After section 46A of the [^c878933]Road Traffic Act 1988 there is inserted—
 
@@ -168,7 +168,7 @@ After section 46A of the [^c878933]Road Traffic Act 1988 there is inserted—
 >
 > (5) Nothing in subsection (4) above limits to civil proceedings the reference to proceedings in subsection (1) above.
 
-## 5. Satisfying conditions for grant of vehicle excise licence.[^key-de5f96a8f047132b563506c6544e28cd]
+## 5. Satisfying conditions for grant of vehicle excise licence.[^c-de5f96a8f047132b563506c6544e28cd]
 
 In section 66 of the [^c878935]Road Traffic Act 1988 (regulations prohibiting the grant of excise licences for certain vehicles except on compliance with certain conditions), after paragraph (a) of subsection (2) there is inserted—
 
@@ -176,11 +176,11 @@ In section 66 of the [^c878935]Road Traffic Act 1988 (regulations prohibiting th
 
 .
 
-## 6. Orders relating to fees chargeable by virtue of s. 46 of Road Traffic Act 1988.[^key-8ca0c1df047f98a9c060776d18be447c]
+## 6. Orders relating to fees chargeable by virtue of s. 46 of Road Traffic Act 1988.[^c-8ca0c1df047f98a9c060776d18be447c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential amendments and repeals.[^key-ff72ad9c5881d422bb75812aa5df3981]
+## 7. Consequential amendments and repeals.[^c-ff72ad9c5881d422bb75812aa5df3981]
 
 (1) The Schedule to this Act (consequential amendments) has effect.
 
@@ -255,15 +255,15 @@ SCHEDULE
 
 [^c878927]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/1999/12/section/1) partly in force; [s. 1](https://www.legislation.gov.uk/ukpga/1999/12/section/1) not in force at Royal Assent see [s. 9](https://www.legislation.gov.uk/ukpga/1999/12/section/9); [s. 1(3)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/3) in force for specified purposes at 1.6.2001 by [S.I. 2001/1896](https://www.legislation.gov.uk/uksi/2001/1896), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/1896/article/2/1)
 
-[^key-b1df2cd16a04589f97a74c5e8116c173]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/2) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
+[^c-b1df2cd16a04589f97a74c5e8116c173]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/2) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
 [^c878928]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
 [^c878929]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-b49062a4563712fd1c5bb32fbe055e8d]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/3) in force at 11.4.2003 in so far as not already in force by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
+[^c-b49062a4563712fd1c5bb32fbe055e8d]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1999/12/section/1/3) in force at 11.4.2003 in so far as not already in force by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
-[^key-1d20a3782fa03892e20acfdb525c6e73]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1999/12/section/2) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
+[^c-1d20a3782fa03892e20acfdb525c6e73]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1999/12/section/2) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
 [^c878930]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -271,19 +271,19 @@ SCHEDULE
 
 [^c878932]: Marginal citation: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-f78e2656c6a6dc9cf58b025159748036]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1999/12/section/4) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
+[^c-f78e2656c6a6dc9cf58b025159748036]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1999/12/section/4) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
 [^c878933]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
 [^c878934]: Marginal citation: [1968 c.70](https://www.legislation.gov.uk/ukpga/1968/70).
 
-[^key-de5f96a8f047132b563506c6544e28cd]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/1999/12/section/5) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
+[^c-de5f96a8f047132b563506c6544e28cd]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/1999/12/section/5) in force at 11.4.2003 by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
 [^c878935]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-8ca0c1df047f98a9c060776d18be447c]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1999/12/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-8ca0c1df047f98a9c060776d18be447c]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1999/12/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-ff72ad9c5881d422bb75812aa5df3981]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1999/12/section/7) in force at 11.4.2003 for specified purposes by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
+[^c-ff72ad9c5881d422bb75812aa5df3981]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1999/12/section/7) in force at 11.4.2003 for specified purposes by [S.I. 2003/1095](https://www.legislation.gov.uk/uksi/2003/1095), [art. 2](https://www.legislation.gov.uk/uksi/2003/1095/article/2)
 
 [^c878937]: Marginal citation: [1988 c.54](https://www.legislation.gov.uk/ukpga/1988/54).
 

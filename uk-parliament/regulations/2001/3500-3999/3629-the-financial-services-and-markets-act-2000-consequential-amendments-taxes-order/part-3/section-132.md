@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Society or institution ceasing to be entitled to operate accounts[^key-deb68a902c5ce0bbdc1cb8e08930b0f2]
+## 132. Society or institution ceasing to be entitled to operate accounts[^c-deb68a902c5ce0bbdc1cb8e08930b0f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 11(a) (society or institution ceasing to be entitled to operate ac
 
 ## Annotations
 
-[^key-deb68a902c5ce0bbdc1cb8e08930b0f2]: Commencement: Art. 132 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-deb68a902c5ce0bbdc1cb8e08930b0f2]: Commencement: Art. 132 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00125]: Footnote: Regulation 11(a) was amended by regulation 10(a) of S.I. [1995/3239](https://www.legislation.gov.uk/uksi/1995/3239).

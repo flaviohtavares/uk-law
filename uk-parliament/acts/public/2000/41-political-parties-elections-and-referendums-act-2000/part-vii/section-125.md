@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Restriction on publication etc. of promotional material by central and local government etc.[^c10575001][^c20061411][^key-8d960026d74c5f16816a2a15602ff656][^key-ce3f421cfea1cf53b15d665fcb0ce8cc]
+## 125. Restriction on publication etc. of promotional material by central and local government etc.[^c10575001][^c20061411][^c-8d960026d74c5f16816a2a15602ff656][^c-ce3f421cfea1cf53b15d665fcb0ce8cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ and subsection (2)(b) shall not be taken as applying to the British Broadcasting
 
 [^c20061411]: Modification: S. 125 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/1)
 
-[^key-8d960026d74c5f16816a2a15602ff656]: Modification: S. 125: power to modify conferred (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [ss. 8](https://www.legislation.gov.uk/ukpga/2015/36/section/8), [13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-8d960026d74c5f16816a2a15602ff656]: Modification: S. 125: power to modify conferred (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [ss. 8](https://www.legislation.gov.uk/ukpga/2015/36/section/8), [13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-ce3f421cfea1cf53b15d665fcb0ce8cc]: Modification: S. 125 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/38); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ce3f421cfea1cf53b15d665fcb0ce8cc]: Modification: S. 125 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/38); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

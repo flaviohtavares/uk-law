@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Seizure notices[^key-22deac039096140315d52f3ef1c40f0a]
+## 40. Seizure notices[^c-22deac039096140315d52f3ef1c40f0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22deac039096140315d52f3ef1c40f0a]: Commencement: Reg. 40 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-22deac039096140315d52f3ef1c40f0a]: Commencement: Reg. 40 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

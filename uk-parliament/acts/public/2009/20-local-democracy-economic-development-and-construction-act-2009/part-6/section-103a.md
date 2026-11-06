@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103A. The functions of combined authorities[^key-7871a85372e81db97b7e2269408f6009]
+## 103A. The functions of combined authorities[^c-7871a85372e81db97b7e2269408f6009]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A combined authority has the functions that are conferred by—
 
 ## Annotations
 
-[^key-7871a85372e81db97b7e2269408f6009]: Textual amendment: [S. 103A](https://www.legislation.gov.uk/ukpga/2009/20/section/103A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/5/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-7871a85372e81db97b7e2269408f6009]: Textual amendment: [S. 103A](https://www.legislation.gov.uk/ukpga/2009/20/section/103A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/5/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

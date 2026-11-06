@@ -50,26 +50,26 @@ These Regulations make provisions for a purpose mentioned in that section and it
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.
 
-## 1. Title and commencement[^key-c2017038b2b83c95385fbf11e967baad]
+## 1. Title and commencement[^c-c2017038b2b83c95385fbf11e967baad]
 
 These Regulations may be cited as the Seal Products Regulations 2010 and come into force on 20th August 2010.
 
-## 2. Interpretation[^key-beddf4846ab927a57279dcbbb475ace7]
+## 2. Interpretation[^c-beddf4846ab927a57279dcbbb475ace7]
 
 In these Regulations—
 
-- “general customs official” means a customs official designated under section 3 of the Borders, Citizenship and Immigration Act 2009 *(affected by repeal, see note)*[^key-10e736715f56502bcdbfaf5bb7afc4b5][^f00004];
-- “the EU *(affected by repeal, see note)*[^key-94edda67cf61acc8f06f8508a89b5ceb] Regulation” means Regulation [(EC) No. 1007/2009](https://www.legislation.gov.uk/european/regulation/2009/1007) of the European Parliament and of the Council on trade in seal products of 16th September 2009 as amended from time to time;
+- “general customs official” means a customs official designated under section 3 of the Borders, Citizenship and Immigration Act 2009 *(affected by repeal, see note)*[^c-10e736715f56502bcdbfaf5bb7afc4b5][^f00004];
+- “the EU *(affected by repeal, see note)*[^c-94edda67cf61acc8f06f8508a89b5ceb] Regulation” means Regulation [(EC) No. 1007/2009](https://www.legislation.gov.uk/european/regulation/2009/1007) of the European Parliament and of the Council on trade in seal products of 16th September 2009 as amended from time to time;
 - “seal products” means all products, either processed or unprocessed, deriving or obtained from seals, including meat, oil, blubber, organs, raw fur skins and fur skins, tanned or dressed, including fur skins assembled in plates, crosses and similar forms, and articles made from fur skins.
 
-## 3. Penalty for breach of the EU (affected by repeal, see note) Regulation[^key-2550bd3fb2fda5d8ab5c60b3f8ae71ef][^key-c793ebd305efe06b354e026e74dfdb4f]
+## 3. Penalty for breach of the EU (affected by repeal, see note) Regulation[^c-2550bd3fb2fda5d8ab5c60b3f8ae71ef][^c-c793ebd305efe06b354e026e74dfdb4f]
 
-(1) A person who breaches Article 3 of the EU *(affected by repeal, see note)*[^key-7af447f96e2232f889adab305c77f80a] Regulation is guilty of an offence and is liable—
+(1) A person who breaches Article 3 of the EU *(affected by repeal, see note)*[^c-7af447f96e2232f889adab305c77f80a] Regulation is guilty of an offence and is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; and
 - (b) on conviction on indictment, to a fine not exceeding £75,000.
 
-## 4. Enforcement authorities[^key-57ff9a27139040d55e6c4b50ab91c118]
+## 4. Enforcement authorities[^c-57ff9a27139040d55e6c4b50ab91c118]
 
 *Extent: N.I.*
 
@@ -77,15 +77,15 @@ In these Regulations—
 
 (2) For the purpose of paragraph (1), goods are subject to customs supervision within the meaning of [Council Regulation (EEC) No 2913/92](https://www.legislation.gov.uk/european/regulation/1992/2913) establishing the Community Customs Code[^f00005].
 
-## 4. Enforcement authorities[^key-d1bf6fc27183f8b190acd075deed0d2d]
+## 4. Enforcement authorities[^c-d1bf6fc27183f8b190acd075deed0d2d]
 
 *Extent: E+W+S*
 
 Enforcement of the Regulation is an assigned matter within the meaning of section 1(1) of the Customs and Excise Management Act 1979.
 
-## 5. Competent Authority[^key-26c775f81fd925d8a5399dd96002a892]
+## 5. Competent Authority[^c-26c775f81fd925d8a5399dd96002a892]
 
-The Secretary of State is the Competent Authority for the purpose of the EU *(affected by repeal, see note)*[^key-c281058644f89175cfa8a2ad95b4ad24] Regulation.
+The Secretary of State is the Competent Authority for the purpose of the EU *(affected by repeal, see note)*[^c-c281058644f89175cfa8a2ad95b4ad24] Regulation.
 
 Jim Paice
 
@@ -115,31 +115,31 @@ A Regulatory Impact Assessment has been prepared and placed in the library of ea
 
 [^f00003]: Footnote: OJ No L 286, 31.10.2009, p 36.
 
-[^key-c2017038b2b83c95385fbf11e967baad]: Commencement: Reg. 1 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
+[^c-c2017038b2b83c95385fbf11e967baad]: Commencement: Reg. 1 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
 
-[^key-beddf4846ab927a57279dcbbb475ace7]: Commencement: Reg. 2 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
+[^c-beddf4846ab927a57279dcbbb475ace7]: Commencement: Reg. 2 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
 
-[^key-10e736715f56502bcdbfaf5bb7afc4b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2068/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/2/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10e736715f56502bcdbfaf5bb7afc4b5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2068/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/2/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
 
-[^key-94edda67cf61acc8f06f8508a89b5ceb]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2068/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/2/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94edda67cf61acc8f06f8508a89b5ceb]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2010/2068/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/2/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2550bd3fb2fda5d8ab5c60b3f8ae71ef]: Commencement: Reg. 3 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
+[^c-2550bd3fb2fda5d8ab5c60b3f8ae71ef]: Commencement: Reg. 3 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
 
-[^key-c793ebd305efe06b354e026e74dfdb4f]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2010/2068/regulation/3) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/3/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c793ebd305efe06b354e026e74dfdb4f]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2010/2068/regulation/3) heading omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/3/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7af447f96e2232f889adab305c77f80a]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/2068/regulation/3/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/3/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7af447f96e2232f889adab305c77f80a]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2010/2068/regulation/3/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/3/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57ff9a27139040d55e6c4b50ab91c118]: Commencement: Reg. 4 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
+[^c-57ff9a27139040d55e6c4b50ab91c118]: Commencement: Reg. 4 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
 
 [^f00005]: Footnote: OJ No L 302, 19.10.1992, p 1, as last amended by Council Regulation [(EC) 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791) (OJ No L 363 20.12.2006, p 1).
 
-[^key-d1bf6fc27183f8b190acd075deed0d2d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2068/regulation/4) substituted (E.W.S.) (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/4) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1bf6fc27183f8b190acd075deed0d2d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2068/regulation/4) substituted (E.W.S.) (31.12.2020) by [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/4) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26c775f81fd925d8a5399dd96002a892]: Commencement: Reg. 5 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
+[^c-26c775f81fd925d8a5399dd96002a892]: Commencement: Reg. 5 in force at 20.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2068/regulation/1)
 
-[^key-c281058644f89175cfa8a2ad95b4ad24]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2010/2068/regulation/5) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/5) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c281058644f89175cfa8a2ad95b4ad24]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2010/2068/regulation/5) omitted (E.W.S.) (31.12.2020) by virtue of [The Seal Products (Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1034)](https://www.legislation.gov.uk/uksi/2018/1034), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1034/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/1034/regulation/2/5) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [23(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/23/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: OJ No L286, 31.10.2009, p.36.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Initial meeting[^key-173e0783e914aa843a448378749c3507]
+## 61. Initial meeting[^c-173e0783e914aa843a448378749c3507]
 
 *Extent: E+W*
 
@@ -32,10 +32,10 @@ summary: ''
 
 (4) In a special administration (bank insolvency) or a special administration (bank administration) the Bank of England and the FSCS shall also be invited to the initial meeting, and where paragraph (3) applies, shall be notified of the extension of the period set out in paragraph 51(2)(b).
 
-(5) This rule shall not apply where the FCA[^key-9d8efb05af220aa2a1e08683740013a0] or, where relevant, the PRA has given a direction under regulation 16 and the direction has not been withdrawn.
+(5) This rule shall not apply where the FCA[^c-9d8efb05af220aa2a1e08683740013a0] or, where relevant, the PRA has given a direction under regulation 16 and the direction has not been withdrawn.
 
 ## Annotations
 
-[^key-173e0783e914aa843a448378749c3507]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2011/1301/rule/61) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-173e0783e914aa843a448378749c3507]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2011/1301/rule/61) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-9d8efb05af220aa2a1e08683740013a0]: Textual amendment: Words in [art. 61(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/61/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(ix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/ix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-9d8efb05af220aa2a1e08683740013a0]: Textual amendment: Words in [art. 61(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/61/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(ix)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/ix) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

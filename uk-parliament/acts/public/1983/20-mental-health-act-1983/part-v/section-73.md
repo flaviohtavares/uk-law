@@ -27,8 +27,8 @@ summary: ''
 
 (2) Where in the case of any such patient as is mentioned in subsection (1) above—
 
-- (a) paragraph (a) of that subsection applies; [^key-c8e14bdaa60e748e80d681747eeab199]...
-- (b) paragraph (b) of that subsection does not apply ; and[^key-225b9d07df3964f485e3da385f04ff64]
+- (a) paragraph (a) of that subsection applies; [^c-c8e14bdaa60e748e80d681747eeab199]...
+- (b) paragraph (b) of that subsection does not apply ; and[^c-225b9d07df3964f485e3da385f04ff64]
 - (c) the tribunal—
   - (i) is not satisfied that conditions amounting to a deprivation of the patient’s liberty would be necessary for the protection of another person from serious harm, if the patient were discharged from hospital; or
   - (ii) is satisfied that conditions amounting to a deprivation of the patient’s liberty would be necessary for the protection of another person from serious harm if the patient were discharged from hospital, and is also satisfied that for the patient to be discharged subject to those conditions would be no less beneficial to their mental health than for them to remain in hospital;
@@ -44,7 +44,7 @@ the tribunal shall direct the conditional discharge of the patient.
 
 (5) The Secretary of State may from time to time vary any condition imposed (whether by the tribunal or by him) under subsection (4) above.
 
-(5A)[^key-07e927a5d04a5c06c9167d3e17e30b6e] Conditions amounting to a deprivation of a patient’s liberty may be imposed by the tribunal under subsection (4)(b) only where the tribunal is satisfied as to the matters mentioned in subsection (2)(c)(ii).
+(5A)[^c-07e927a5d04a5c06c9167d3e17e30b6e] Conditions amounting to a deprivation of a patient’s liberty may be imposed by the tribunal under subsection (4)(b) only where the tribunal is satisfied as to the matters mentioned in subsection (2)(c)(ii).
 
 (5B) Conditions amounting to a deprivation of a patient’s liberty may be imposed by the Secretary of State under subsection (4)(b) or (5) only where the Secretary of State is satisfied that those conditions are necessary for the protection of the public from serious harm.
 
@@ -66,10 +66,10 @@ the tribunal shall direct the conditional discharge of the patient.
 
 [^c19852491]: Textual amendment: Words in s. 73(1)(a) substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 4(9)](https://www.legislation.gov.uk/ukpga/2007/12/section/4/9), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-c8e14bdaa60e748e80d681747eeab199]: Textual amendment: Word in s. 73(2)(a) omitted (18.2.2026) by virtue of [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 35(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/3/a/i), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/5))
+[^c-c8e14bdaa60e748e80d681747eeab199]: Textual amendment: Word in s. 73(2)(a) omitted (18.2.2026) by virtue of [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 35(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/3/a/i), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/5))
 
-[^key-225b9d07df3964f485e3da385f04ff64]: Textual amendment: S. 73(2)(c) and word inserted (18.2.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 35(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/3/a/ii), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/5))
+[^c-225b9d07df3964f485e3da385f04ff64]: Textual amendment: S. 73(2)(c) and word inserted (18.2.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 35(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/3/a/ii), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/5))
 
-[^key-07e927a5d04a5c06c9167d3e17e30b6e]: Textual amendment: S. 73(5A)(5B) inserted (18.2.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 35(3)(b)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/3/b), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/5))
+[^c-07e927a5d04a5c06c9167d3e17e30b6e]: Textual amendment: S. 73(5A)(5B) inserted (18.2.2026) by [Mental Health Act 2025 (c. 33)](https://www.legislation.gov.uk/ukpga/2025/33), [ss. 35(3)(b)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/3/b), [56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1) (with [s. 35(5)](https://www.legislation.gov.uk/ukpga/2025/33/section/35/5))
 
 [^c20394511]: Textual amendment: Words in s. 73(7) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 54(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/54/b)

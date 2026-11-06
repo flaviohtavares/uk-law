@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Publication by OFCOM[^key-fffdec9dac79a29091e3343c31fdaca4]
+## 207. Publication by OFCOM[^c-fffdec9dac79a29091e3343c31fdaca4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Anything required by this Act to be published by OFCOM must be published in such
 
 ## Annotations
 
-[^key-fffdec9dac79a29091e3343c31fdaca4]: Commencement: S. 207 in force at Royal Assent, see [s. 240(4)(z)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/z)
+[^c-fffdec9dac79a29091e3343c31fdaca4]: Commencement: S. 207 in force at Royal Assent, see [s. 240(4)(z)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/z)

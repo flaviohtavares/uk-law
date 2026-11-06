@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Modification of the Feeding Stuffs (Enforcement) Regulations 1999[^key-29b07f8ca035aa5ecbc61b727aabc34a]
+## 27. Modification of the Feeding Stuffs (Enforcement) Regulations 1999[^c-29b07f8ca035aa5ecbc61b727aabc34a]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ In the Feeding Stuffs (Enforcement) Regulations 1999[^f00036]—
 
 ## Annotations
 
-[^key-29b07f8ca035aa5ecbc61b727aabc34a]: Commencement: Reg. 27 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-29b07f8ca035aa5ecbc61b727aabc34a]: Commencement: Reg. 27 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00036]: Footnote: S.I. [1999/2325](https://www.legislation.gov.uk/uksi/1999/2325)

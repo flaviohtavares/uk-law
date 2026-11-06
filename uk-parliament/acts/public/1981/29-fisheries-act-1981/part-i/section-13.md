@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-dd81f64eddd53c762f1573ec19cb0466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dd81f64eddd53c762f1573ec19cb0466] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Schedule 3 to this Act shall have effect [^key-d255ba3e78025c3295cab7706da75011]....
+(2) Schedule 3 to this Act shall have effect [^c-d255ba3e78025c3295cab7706da75011]....
 
 ## Annotations
 
-[^key-dd81f64eddd53c762f1573ec19cb0466]: Textual amendment: S. 13(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 6
+[^c-dd81f64eddd53c762f1573ec19cb0466]: Textual amendment: S. 13(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 6
 
-[^key-d255ba3e78025c3295cab7706da75011]: Textual amendment: Words in s. 13(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 6
+[^c-d255ba3e78025c3295cab7706da75011]: Textual amendment: Words in s. 13(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 6

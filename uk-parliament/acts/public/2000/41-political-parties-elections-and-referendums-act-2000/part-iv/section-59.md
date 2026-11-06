@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Appeal against order under section 58.[^c10574181][^c10574171][^c20066201][^c20066261][^c20069261][^c20660361][^key-9f33813018f7109bbee76e8b307b83b1][^key-e66f53040ce55928b821bdd23438006e][^M_C_0bb36a68-52e5-49b0-d5dd-f52430950e71]
+## 59. Appeal against order under section 58.[^c10574181][^c10574171][^c20066201][^c20066261][^c20069261][^c20660361][^c-9f33813018f7109bbee76e8b307b83b1][^c-e66f53040ce55928b821bdd23438006e][^M_C_0bb36a68-52e5-49b0-d5dd-f52430950e71]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The registered party may, before the end of the period of 30 days beginning with the date on which the forfeiture order is made, appeal to the Crown Court or, in Northern Ireland, to a county court.
 
-(2A)[^key-e0752abb1be5a91c5187d4c9fa5e1caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-e0752abb1be5a91c5187d4c9fa5e1caf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An appeal under subsection (2) shall be by way of a rehearing; and the court hearing such an appeal may make such order as it considers appropriate.
 
@@ -46,10 +46,10 @@ summary: ''
 
 [^c20660361]: Modification: Ss. 56-60 applied (with modifications) (1.2.2007) by [The National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236)](https://www.legislation.gov.uk/uksi/2007/236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/236/article/1/1), [41(4)](https://www.legislation.gov.uk/uksi/2007/236/article/41/4), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2007/236/schedule/6/paragraph/7)
 
-[^key-9f33813018f7109bbee76e8b307b83b1]: Modification: [Ss. 56-59](https://www.legislation.gov.uk/ukpga/2000/41/section/56) applied by [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14), [Sch. 3A para. 7](https://www.legislation.gov.uk/apni/1962/14/schedule/3A/paragraph/7) (as inserted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3)))
+[^c-9f33813018f7109bbee76e8b307b83b1]: Modification: [Ss. 56-59](https://www.legislation.gov.uk/ukpga/2000/41/section/56) applied by [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14), [Sch. 3A para. 7](https://www.legislation.gov.uk/apni/1962/14/schedule/3A/paragraph/7) (as inserted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3)))
 
-[^key-e66f53040ce55928b821bdd23438006e]: Modification: Ss. 56-60 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2012/1917/schedule/5/paragraph/7)
+[^c-e66f53040ce55928b821bdd23438006e]: Modification: Ss. 56-60 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2012/1917/schedule/5/paragraph/7)
 
 [^M_C_0bb36a68-52e5-49b0-d5dd-f52430950e71]: Modification: Ss. 56-60 applied (with modifications) (W.) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2025/864/schedule/6/paragraph/7) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))
 
-[^key-e0752abb1be5a91c5187d4c9fa5e1caf]: Textual amendment: S. 59(2A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-e0752abb1be5a91c5187d4c9fa5e1caf]: Textual amendment: S. 59(2A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

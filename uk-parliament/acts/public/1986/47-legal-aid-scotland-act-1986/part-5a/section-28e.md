@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28E. Availability of children's legal aid: relevant person[^key-b11d80fa18801e4e9485bb4fd2293256]
+## 28E. Availability of children's legal aid: relevant person[^c-b11d80fa18801e4e9485bb4fd2293256]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsection (2) applies in relation to—
 
 - (a) proceedings before the sheriff in relation to an application under section 48 of the 2011 Act (application for variation or termination of child protection order), and
-- (b) proceedings under Part 10 or 15 of the 2011 Act (other than an appeal to the Sheriff Appeal Court[^key-207b23a1ef05b2fd5acebe428afa16f6] or the Court of Session).
+- (b) proceedings under Part 10 or 15 of the 2011 Act (other than an appeal to the Sheriff Appeal Court[^c-207b23a1ef05b2fd5acebe428afa16f6] or the Court of Session).
 
 (2) Children's legal aid is available to a relevant person in relation to the child to whom the proceedings relate if, on an application made to the Board, the Board is satisfied that the conditions in subsection (3) are met.
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) that it is reasonable in the particular circumstances of the case that the relevant person should receive children's legal aid, and
 - (b) that, after consideration of the disposable income and disposable capital of the relevant person, the expenses of the case cannot be met without undue hardship to the relevant person.
 
-(4) Subsection (5) applies in relation to an appeal to the Sheriff Appeal Court[^key-de6e08fae9e92a25c6c624310156e675] or the Court of Session under Part 15 of the 2011 Act.
+(4) Subsection (5) applies in relation to an appeal to the Sheriff Appeal Court[^c-de6e08fae9e92a25c6c624310156e675] or the Court of Session under Part 15 of the 2011 Act.
 
 (5) Children's legal aid is available to a relevant person in relation to the child to whom the appeal relates if, on an application made to the Board, the Board is satisfied that—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b11d80fa18801e4e9485bb4fd2293256]: Textual amendment: Pts. 5A, 5B inserted (31.1.2012 for s. 28B(2), s. 28M(7) for specified purposes and s. 28N) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 191](https://www.legislation.gov.uk/asp/2011/1/section/191), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/1/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2012/1/schedule)
+[^c-b11d80fa18801e4e9485bb4fd2293256]: Textual amendment: Pts. 5A, 5B inserted (31.1.2012 for s. 28B(2), s. 28M(7) for specified purposes and s. 28N) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 191](https://www.legislation.gov.uk/asp/2011/1/section/191), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/1/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2012/1/schedule)
 
-[^key-207b23a1ef05b2fd5acebe428afa16f6]: Textual amendment: Words in s. 28E(1)(b) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-207b23a1ef05b2fd5acebe428afa16f6]: Textual amendment: Words in s. 28E(1)(b) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-de6e08fae9e92a25c6c624310156e675]: Textual amendment: Words in s. 28E(4) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/3/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-de6e08fae9e92a25c6c624310156e675]: Textual amendment: Words in s. 28E(4) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/1/3/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))

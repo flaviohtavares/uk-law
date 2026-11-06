@@ -21,7 +21,7 @@ summary: ''
 - (a) is a microgenerator; and
 - (b) has not had a declared net capacity in excess of 50 kilowatts at any time after 31st March 2009.
 
-(2)[^key-7ae4dda7d844d9e5ab7577e209be600b] The amount of electricity to be stated in each SROC issued in respect of electricity generated—
+(2)[^c-7ae4dda7d844d9e5ab7577e209be600b] The amount of electricity to be stated in each SROC issued in respect of electricity generated—
 
 - (a) by a generating station to which this article applies; and
 - (b) using—
@@ -49,4 +49,4 @@ is [formula: see source](https://www.legislation.gov.uk/ssi/2009/140) of a megaw
 
 ## Annotations
 
-[^key-7ae4dda7d844d9e5ab7577e209be600b]: Textual amendment: Art. 29(2)-(5) substituted for art. 29(2) (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [14](https://www.legislation.gov.uk/ssi/2013/116/article/14) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-7ae4dda7d844d9e5ab7577e209be600b]: Textual amendment: Art. 29(2)-(5) substituted for art. 29(2) (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [14](https://www.legislation.gov.uk/ssi/2013/116/article/14) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

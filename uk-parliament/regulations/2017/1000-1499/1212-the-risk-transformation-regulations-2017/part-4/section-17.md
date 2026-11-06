@@ -32,7 +32,7 @@ summary: ''
 - (b) includes any of the following words or expressions (or, where applicable, their Welsh equivalents)—
   - (i) “unlimited” or “public limited company”;
   - (ii) “insurance”, “insurer”, “insured”, “reinsurance”, “reinsurer”, “reinsured”;
-  - (iii)[^key-972d682f0973256d4e6d2a091821ef08] UK Economic Interest Grouping;
+  - (iii)[^c-972d682f0973256d4e6d2a091821ef08] UK Economic Interest Grouping;
 - (c) includes an abbreviation of any of the words or expressions referred to in sub-paragraph (b);
 - (d) is the same as the name of any other protected cell company registered by the FCA;
 - (e) is the same as the name of any other protected cell company which was registered by the FCA and then dissolved; or
@@ -51,7 +51,7 @@ summary: ''
   - “protected cell company”;
   - “PCC Limited”;
   - “PCC Ltd”;
-  - “UK Economic Interest Grouping”[^key-cc8cd036e413b492e8a02c01aab1f4bf];
+  - “UK Economic Interest Grouping”[^c-cc8cd036e413b492e8a02c01aab1f4bf];
 - (c) abbreviations of the words and expressions referred to in sub-paragraph (b) where they appear at the end of the name; and
 - (d) type and case of letters, accents, spaces between letters and punctuation marks.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-972d682f0973256d4e6d2a091821ef08]: Textual amendment: Reg. 17(2)(b)(iii) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [68(a)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/68/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-972d682f0973256d4e6d2a091821ef08]: Textual amendment: Reg. 17(2)(b)(iii) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [68(a)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/68/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc8cd036e413b492e8a02c01aab1f4bf]: Textual amendment: Words in reg. 17(3)(b) substituted (31.12.2020) by virtue of [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [68(b)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/68/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc8cd036e413b492e8a02c01aab1f4bf]: Textual amendment: Words in reg. 17(3)(b) substituted (31.12.2020) by virtue of [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [68(b)](https://www.legislation.gov.uk/uksi/2018/1299/regulation/68/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

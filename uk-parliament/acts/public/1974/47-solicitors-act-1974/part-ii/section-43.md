@@ -88,7 +88,7 @@ and where in the opinion of the Tribunal no prima facie case for quashing or var
 
 (6)[^c13349481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) For the purposes of this section an order discharging a person absolutely or conditionally in respect of an offence shall, notwithstanding anything in[^c13349491] section 82 of the Sentencing Code[^key-573ff679d0ec0f550be5e0bf7abb47da], be deemed to be a conviction of the offence for which the order was made.
+(7) For the purposes of this section an order discharging a person absolutely or conditionally in respect of an offence shall, notwithstanding anything in[^c13349491] section 82 of the Sentencing Code[^c-573ff679d0ec0f550be5e0bf7abb47da], be deemed to be a conviction of the offence for which the order was made.
 
 ## Annotations
 
@@ -114,4 +114,4 @@ and where in the opinion of the Tribunal no prima facie case for quashing or var
 
 [^c13349491]: Textual amendment: Words in s. 43(7) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/1), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 46](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/46)
 
-[^key-573ff679d0ec0f550be5e0bf7abb47da]: Textual amendment: Words in [s. 43(7)](https://www.legislation.gov.uk/ukpga/1974/47/section/43/7) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 30](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/30) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-573ff679d0ec0f550be5e0bf7abb47da]: Textual amendment: Words in [s. 43(7)](https://www.legislation.gov.uk/ukpga/1974/47/section/43/7) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 30](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/30) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

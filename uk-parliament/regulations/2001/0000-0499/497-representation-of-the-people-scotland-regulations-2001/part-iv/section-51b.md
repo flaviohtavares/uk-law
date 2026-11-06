@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51B. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under paragraph 3(4) or 7(6) of Schedule 4[^key-884a02835b8be9bd3e46b6d71b37e86e][^key-8176f5a99fc1eb115e4fd82123cacdfa]
+## 51B. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under paragraph 3(4) or 7(6) of Schedule 4[^c-884a02835b8be9bd3e46b6d71b37e86e][^c-8176f5a99fc1eb115e4fd82123cacdfa]
 
 *Extent: S*
 
@@ -27,16 +27,16 @@ summary: ''
 
 for his ballot paper to be sent to a different address from that shown in the record shall set out why the applicant’s circumstances will be or are likely to be such that he requires his ballot paper to be sent to that address.
 
-(1A)[^key-77fff236970dead83838b18a6e642814] Paragraph (1) does not apply where an applicant has, or has applied for, an anonymous entry.
+(1A)[^c-77fff236970dead83838b18a6e642814] Paragraph (1) does not apply where an applicant has, or has applied for, an anonymous entry.
 
-(2)[^key-c4446064136ba6470383798b1fa91fa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c4446064136ba6470383798b1fa91fa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-884a02835b8be9bd3e46b6d71b37e86e]: Modification: [Reg. 51B](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/9)
+[^c-884a02835b8be9bd3e46b6d71b37e86e]: Modification: [Reg. 51B](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B) modified (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/9)
 
-[^key-8176f5a99fc1eb115e4fd82123cacdfa]: Textual amendment: [Regs. 51A](https://www.legislation.gov.uk/uksi/2001/497/regulation/51A), [51B](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B) inserted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/834/regulation/4)
+[^c-8176f5a99fc1eb115e4fd82123cacdfa]: Textual amendment: [Regs. 51A](https://www.legislation.gov.uk/uksi/2001/497/regulation/51A), [51B](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B) inserted (23.3.2006) by [The Representation of the People (Scotland) (Amendment) Regulations 2006 (S.I. 2006/834)](https://www.legislation.gov.uk/uksi/2006/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/834/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/834/regulation/4)
 
-[^key-77fff236970dead83838b18a6e642814]: Textual amendment: [Reg. 51B(1A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B/1A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2007/925/regulation/19/2)
+[^c-77fff236970dead83838b18a6e642814]: Textual amendment: [Reg. 51B(1A)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B/1A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2007/925/regulation/19/2)
 
-[^key-c4446064136ba6470383798b1fa91fa2]: Textual amendment: [Reg. 51B(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B/2) omitted (1.4.2007) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2007/925/regulation/19/3)
+[^c-c4446064136ba6470383798b1fa91fa2]: Textual amendment: [Reg. 51B(2)](https://www.legislation.gov.uk/uksi/2001/497/regulation/51B/2) omitted (1.4.2007) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2007/925/regulation/19/3)

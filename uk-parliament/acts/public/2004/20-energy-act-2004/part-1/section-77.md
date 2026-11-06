@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Regulation of equipment, software and information[^key-51fde4911d29aed50384067a93e0f3d3]
+## 77. Regulation of equipment, software and information[^c-51fde4911d29aed50384067a93e0f3d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51fde4911d29aed50384067a93e0f3d3]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2004/20/section/77) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-51fde4911d29aed50384067a93e0f3d3]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2004/20/section/77) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

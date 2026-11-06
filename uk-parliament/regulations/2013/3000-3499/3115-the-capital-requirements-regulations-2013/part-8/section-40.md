@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies to an application to the PRA[^key-ca1b43fd2e98d1e7f9c5d69918b9e450] for—
+(1) This regulation applies to an application to the PRA[^c-ca1b43fd2e98d1e7f9c5d69918b9e450] for—
 
 - (a) the grant of a permission;
 - (b) an amendment to an existing permission;
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca1b43fd2e98d1e7f9c5d69918b9e450]: Textual amendment: Word in [reg. 40](https://www.legislation.gov.uk/uksi/2013/3115/regulation/40) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(17)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/17)
+[^c-ca1b43fd2e98d1e7f9c5d69918b9e450]: Textual amendment: Word in [reg. 40](https://www.legislation.gov.uk/uksi/2013/3115/regulation/40) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(17)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/17)

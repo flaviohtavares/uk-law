@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 173. Application to court to remove administrator from office[^key-8238680e2ee88a8149cba292efa5fb04]
+## 173. Application to court to remove administrator from office[^c-8238680e2ee88a8149cba292efa5fb04]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8238680e2ee88a8149cba292efa5fb04]: Commencement: [Rule 173](https://www.legislation.gov.uk/nisr/2026/11/rule/173) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8238680e2ee88a8149cba292efa5fb04]: Commencement: [Rule 173](https://www.legislation.gov.uk/nisr/2026/11/rule/173) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Commissioner in relation to code[^key-996d5ce3501181522116ea5b3c3fc22c]
+## 34. Commissioner in relation to code[^c-996d5ce3501181522116ea5b3c3fc22c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ as the Secretary of State considers necessary for the carrying out of the Commis
 
 ## Annotations
 
-[^key-996d5ce3501181522116ea5b3c3fc22c]: Commencement: S. 34 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/f)
+[^c-996d5ce3501181522116ea5b3c3fc22c]: Commencement: S. 34 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/f)

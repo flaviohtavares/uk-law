@@ -46,13 +46,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-27e1e818b8f7c9987e5c32db55ea4caa]
+## 1. Citation and commencement[^c-27e1e818b8f7c9987e5c32db55ea4caa]
 
 (1) These Regulations may be cited as the European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019.
 
 (2) These Regulations come into force on exit day.
 
-## 1A. Interpretation: general[^M_I_ac530853-2e2a-43f5-bc38-9f9789a271d6][^key-560c682db7459bf37c0ea1450b891638]
+## 1A. Interpretation: general[^M_I_ac530853-2e2a-43f5-bc38-9f9789a271d6][^c-560c682db7459bf37c0ea1450b891638]
 
 In these Regulations—
 
@@ -70,14 +70,14 @@ In these Regulations—
 - “same profession” means the profession for which the applicant is qualified in the applicant’s home State if the activities covered are comparable;
 - “third country” has the same meaning as in regulation 2(1) of the 2007 Regulations.
 
-## 2. Pharmacists[^key-0c6cec2d39b0f4c7213e4f0186f3912f]
+## 2. Pharmacists[^c-0c6cec2d39b0f4c7213e4f0186f3912f]
 
 The Schedule contains–
 
 - (a) amendments relating to pharmacists in Northern Ireland;
 - (b) transitional and savings provision relating to those amendments.
 
-## 2A. Administrative cooperation under the EEA EFTA citizens’ rights agreement[^key-2238bc61bcf9e793a6384bf5154bb604][^M_I_4c117022-ed9a-4c30-c4d0-dc4c70bc5626]
+## 2A. Administrative cooperation under the EEA EFTA citizens’ rights agreement[^c-2238bc61bcf9e793a6384bf5154bb604][^M_I_4c117022-ed9a-4c30-c4d0-dc4c70bc5626]
 
 (1) Where an individual has, before IP completion day, made an application falling under Article 26 of the EEA EFTA citizens’ rights agreement to a competent authority in Iceland, Norway or Liechtenstein for recognition of a professional qualification awarded or recognised by a competent authority in Northern Ireland, the Council must—
 
@@ -105,11 +105,11 @@ The Schedule contains–
 
 (5) In this paragraph, “competent authority”, in relation to Switzerland, has the meaning given in regulation 2(1) of the 2015 Regulations, as it had effect immediately before IP completion day.
 
-## 3. Review of continued recognition of certain European qualifications[^key-0014d0f71ab7d2d7e039272c304cb1a5]
+## 3. Review of continued recognition of certain European qualifications[^c-0014d0f71ab7d2d7e039272c304cb1a5]
 
 (1) The Secretary of State must, after the end of the period of two years beginning with the day on which these Regulations come into force—
 
-- (a) carry out a review of the operation of the provision contained in Article 8(2)(c), (2B) and (2C) of the Pharmacy (Northern Ireland) Order 1976 (which concerns the recognition to be given to certain European qualifications after IP completion day[^key-e4607befc3ba939764d168ada22dedc3]) as substituted and inserted by these Regulations;
+- (a) carry out a review of the operation of the provision contained in Article 8(2)(c), (2B) and (2C) of the Pharmacy (Northern Ireland) Order 1976 (which concerns the recognition to be given to certain European qualifications after IP completion day[^c-e4607befc3ba939764d168ada22dedc3]) as substituted and inserted by these Regulations;
 - (b) set out the conclusions of the review in a report;
 - (c) publish the report.
 
@@ -129,33 +129,33 @@ Regulation 2
 
 ### PART 1 — Amendment of the 1976 Order
 
-#### 1. Interpretation[^key-0818809d8c7497665c672424bb1e6a18]
+#### 1. Interpretation[^c-0818809d8c7497665c672424bb1e6a18]
 
 (1) In this Schedule, the “**1976 Order**” means the Pharmacy (Northern Ireland) Order 1976 [^c23643401].
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c23643411] applies to Part 3 of this Schedule as it applies to a Part of a Schedule to an Act of the Assembly.
 
-#### 2. Pharmacy (Northern Ireland) Order 1976[^key-deeda43fe493e0198e15cc9feb8aa1b4]
+#### 2. Pharmacy (Northern Ireland) Order 1976[^c-deeda43fe493e0198e15cc9feb8aa1b4]
 
 The 1976 Order is amended as follows.
 
-**3.**[^key-8746271e20e00e922a6692720ceec587] In Article 2(2) (interpretation) [^c23643421]—
+**3.**[^c-8746271e20e00e922a6692720ceec587] In Article 2(2) (interpretation) [^c23643421]—
 
 - (a) omit the definitions of “competent authorities”, “Directive [2002/58/EC](https://www.legislation.gov.uk/eudr/2002/58)”, “the Directive”, “European professional card”, “exempt person”, “General Systems Regulations”; “IMI”, “IMI file”, “national”, “reference date”, “relevant European State” and “third country”;
 - (b) in the definition of “registered”, omit “visiting pharmaceutical chemist from a relevant European State”;
 - (c) in the definition of “registered person”, omit “, visiting pharmaceutical chemist from a relevant European State”.
 
-**4.**[^key-f84d614a07ffcb7e0f33196c8c71f487] In Article 4A (continuing professional development) [^c23643431], omit paragraphs (7)(c), (10)(b) and (14).
+**4.**[^c-f84d614a07ffcb7e0f33196c8c71f487] In Article 4A (continuing professional development) [^c23643431], omit paragraphs (7)(c), (10)(b) and (14).
 
-**5.**[^key-fc4e7eebfe40461f21985e585e7ecc8f] In Article 5 (regulations made by the Council: general) [^c23643441], omit paragraph (1A).
+**5.**[^c-fc4e7eebfe40461f21985e585e7ecc8f] In Article 5 (regulations made by the Council: general) [^c23643441], omit paragraph (1A).
 
-**6.**[^key-6effe92ec7603fd6bc1a0db0cd4615ce] In Article 6 (the registers) [^c23643451]—
+**6.**[^c-6effe92ec7603fd6bc1a0db0cd4615ce] In Article 6 (the registers) [^c23643451]—
 
 - (a) in paragraph (1), omit “, and in relation to the register mentioned in sub-paragraph (d) there shall be kept,”;
 - (b) after paragraph (1)(b), insert “ and ”;
 - (c) omit paragraph (1)(d) and the “and” before it.
 
-**7.**[^key-3f112365ac6659ee595bb9c3df44e6f9] In Article 8 (qualifications for registration) [^c23643461]—
+**7.**[^c-3f112365ac6659ee595bb9c3df44e6f9] In Article 8 (qualifications for registration) [^c23643461]—
 
 - (a) for paragraph (2)(c), substitute—
 
@@ -173,7 +173,7 @@ The 1976 Order is amended as follows.
 
   .
 
-**8.**[^key-82835e46fc3c9157a5340b007921e4cf] For Article 8A (registration by virtue of appropriate European diploma) [^c23643471], including the heading, substitute—
+**8.**[^c-82835e46fc3c9157a5340b007921e4cf] For Article 8A (registration by virtue of appropriate European diploma) [^c23643471], including the heading, substitute—
 
 > **8A. Relevant European qualifications**
 >
@@ -185,7 +185,7 @@ The 1976 Order is amended as follows.
 >
 > (4) In this Article—
 >
-> - (a) “**the Directive**” means Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7th September 2005 on the recognition of professional qualifications (OJ No L255, 30.09.2005, p22); and references in this Article to the Directive or to a provision of the Directive is a reference to the Directive, or to that provision, as it had effect immediately before IP completion day[^key-fd6b145fe922e4f16097bbed800a31a5];
+> - (a) “**the Directive**” means Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7th September 2005 on the recognition of professional qualifications (OJ No L255, 30.09.2005, p22); and references in this Article to the Directive or to a provision of the Directive is a reference to the Directive, or to that provision, as it had effect immediately before IP completion day[^c-fd6b145fe922e4f16097bbed800a31a5];
 > - (b) “**reference date**” means the date listed in relation to the State in which the qualification was awarded in the column entitled “Reference date” in Annex V, point 5.6.2 of the Directive;
 > - (c) “**relevant European State**” means an EEA State or Switzerland.
 >
@@ -195,17 +195,17 @@ The 1976 Order is amended as follows.
 
 .
 
-**9.**[^key-87f73dd206663f1f0b798bbc9d6bd609] In Article 8AA (supplementary provisions as to the necessary knowledge of English) [^c23643481], omit paragraphs (5) and (7).
+**9.**[^c-87f73dd206663f1f0b798bbc9d6bd609] In Article 8AA (supplementary provisions as to the necessary knowledge of English) [^c23643481], omit paragraphs (5) and (7).
 
-**10.**[^key-450cc74e0ca03e87ec0bbe95543056ba] Omit Article 8B (visiting pharmaceutical chemist from a relevant European State) [^c23643491].
+**10.**[^c-450cc74e0ca03e87ec0bbe95543056ba] Omit Article 8B (visiting pharmaceutical chemist from a relevant European State) [^c23643491].
 
-**11.**[^key-97867455f672256899618852f82e700b] Omit Article 8C (professional traineeships carried out in other relevant European States, etc.) [^c23643501].
+**11.**[^c-97867455f672256899618852f82e700b] Omit Article 8C (professional traineeships carried out in other relevant European States, etc.) [^c23643501].
 
-**12.**[^key-f9638cf3f22acdac46391ca080fc6e68] Omit Article 8D (European professional card) [^c23643511].
+**12.**[^c-f9638cf3f22acdac46391ca080fc6e68] Omit Article 8D (European professional card) [^c23643511].
 
-**13.**[^key-cb5ac0e7621bfc7f3bbfc8c876f28525] In Article 9(2) (the registrar) [^c23643521], for “and, (c) and (d)” substitute “ and (c) ”.
+**13.**[^c-cb5ac0e7621bfc7f3bbfc8c876f28525] In Article 9(2) (the registrar) [^c23643521], for “and, (c) and (d)” substitute “ and (c) ”.
 
-**14.**[^key-3ade02302b7b9542f914aa31443a3404] In Article 11 (evidence of qualification to be registered) [^c23643531]—
+**14.**[^c-3ade02302b7b9542f914aa31443a3404] In Article 11 (evidence of qualification to be registered) [^c23643531]—
 
 - (a) after paragraph (1) insert—
 
@@ -214,35 +214,35 @@ The 1976 Order is amended as follows.
   ;
 - (b) omit paragraph (1A).
 
-**15.**[^key-8f5c20cd257210d37154b2999423a01b] Omit Article 11ZZA (appeals: decisions in relation to alerts and European professional cards) [^c23643541].
+**15.**[^c-8f5c20cd257210d37154b2999423a01b] Omit Article 11ZZA (appeals: decisions in relation to alerts and European professional cards) [^c23643541].
 
-**16.**[^key-1cbb0d295435b743924d6a6c8a609579] Omit Article 11ZZB (appeals to the Council under Article 11ZZA) [^c23643551].
+**16.**[^c-1cbb0d295435b743924d6a6c8a609579] Omit Article 11ZZB (appeals to the Council under Article 11ZZA) [^c23643551].
 
-**17.**[^key-141a268ab2d0048a81b932682d7e1d2d] Omit Article 11ZA (recognition of qualification of exempt persons) [^c23643561].
+**17.**[^c-141a268ab2d0048a81b932682d7e1d2d] Omit Article 11ZA (recognition of qualification of exempt persons) [^c23643561].
 
-**18.**[^key-593ce3925ad922800080157e28d0acab] In Article 11A (indemnity arrangements) [^c23643571], omit paragraph (12).
+**18.**[^c-593ce3925ad922800080157e28d0acab] In Article 11A (indemnity arrangements) [^c23643571], omit paragraph (12).
 
-**19.**[^key-0852d0b693f4f0e9062c5c2ee773bc03] In Article 14(2A) (issue of certificates of registration and penalties for failure to surrender, or abuse of, certificates) [^c23643581], for “8A(1)” substitute “ 8ZA ”.
+**19.**[^c-0852d0b693f4f0e9062c5c2ee773bc03] In Article 14(2A) (issue of certificates of registration and penalties for failure to surrender, or abuse of, certificates) [^c23643581], for “8A(1)” substitute “ 8ZA ”.
 
-**20.**[^key-316e1dc914f55783ddb9cfcf1a50fa0f] Omit Article 22A (the Directive: functions of competent authority, etc.) [^c23643591].
+**20.**[^c-316e1dc914f55783ddb9cfcf1a50fa0f] Omit Article 22A (the Directive: functions of competent authority, etc.) [^c23643591].
 
-**21.**[^key-07dbc0e1d636a71c45d2320ca04b71e1] Omit Schedule 2A (table in respect of training in the former Czechoslovakia, the former Soviet Union or the former Yugoslavia) [^c23643601].
+**21.**[^c-07dbc0e1d636a71c45d2320ca04b71e1] Omit Schedule 2A (table in respect of training in the former Czechoslovakia, the former Soviet Union or the former Yugoslavia) [^c23643601].
 
-**22.**[^key-1dae6519386725cd10127d8ee393fb0e] Omit Schedule 2B (visiting pharmaceutical chemist from a relevant European State) [^c23643611].
+**22.**[^c-1dae6519386725cd10127d8ee393fb0e] Omit Schedule 2B (visiting pharmaceutical chemist from a relevant European State) [^c23643611].
 
-**23.**[^key-2a1aadb5fed68bfb9d44a573620e2996] Omit Schedule 2C (Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36): European professional card) [^c23643621].
+**23.**[^c-2a1aadb5fed68bfb9d44a573620e2996] Omit Schedule 2C (Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36): European professional card) [^c23643621].
 
-**24.**[^key-f91bb5dea0601ae41304f42bc168fdbc] Omit Schedule 2D (the Directive: functions of the Society under Article 22A) [^c23643631].
+**24.**[^c-f91bb5dea0601ae41304f42bc168fdbc] Omit Schedule 2D (the Directive: functions of the Society under Article 22A) [^c23643631].
 
 ### PART 2 — Amendment of other legislation
 
-#### 25. Amendments[^key-b22568318e7fb0b872c288376576b200]
+#### 25. Amendments[^c-b22568318e7fb0b872c288376576b200]
 
-In Article 63AA(3)(c) (persons providing pharmaceutical services) of the[^key-c8185e698915e29154d1728cb99aad58] Health and Personal Social Services (Northern Ireland) Order 1972 [^c23643641], for “(qualification by European diploma)” substitute “ (relevant European qualification) ”.
+In Article 63AA(3)(c) (persons providing pharmaceutical services) of the[^c-c8185e698915e29154d1728cb99aad58] Health and Personal Social Services (Northern Ireland) Order 1972 [^c23643641], for “(qualification by European diploma)” substitute “ (relevant European qualification) ”.
 
 **26.** In regulation 6(12) (pharmaceutical list) of the Pharmaceutical Services Regulations (Northern Ireland) 1997 [^c23643651], for “(qualification by European diploma)” substitute “ (relevant European qualification) ”.
 
-**27.**[^key-d7c3e0e29fb6089860ab130e474b5565] (1) The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) Regulations 2012 [^c23643661] are amended as follows.
+**27.**[^c-d7c3e0e29fb6089860ab130e474b5565] (1) The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) Regulations 2012 [^c23643661] are amended as follows.
 
 (2) In regulation 2 (failure to comply with the CPD framework), omit paragraph (7)(b)(ii) and the “or” before it.
 
@@ -250,7 +250,7 @@ In Article 63AA(3)(c) (persons providing pharmaceutical services) of the[^key-c8
 
 (4) In regulation 4 (remedial measures), omit paragraph (1)(f)(ii) and the “or” before it.
 
-#### 28. Revocations[^key-e1158f47f93c55163b407f4b60452d94]
+#### 28. Revocations[^c-e1158f47f93c55163b407f4b60452d94]
 
 The following instruments are revoked—
 
@@ -259,11 +259,11 @@ The following instruments are revoked—
 
 ### PART 3 — Transitional and saving provision relating to the amendments in Parts 1 and 2
 
-#### 29. Pending applications[^key-69480df6dd2a989a5a7dd041ed05079d]
+#### 29. Pending applications[^c-69480df6dd2a989a5a7dd041ed05079d]
 
-Where an application for registration, or retention, in a part of the register kept under the 1976 Order is received before IP completion day[^key-bc56d0efd3cfc46020a4091b68a4c72a], any provision made by or under that Order (except for provision contained in Schedule 2C to the Order) continues to apply in relation to the application (including any appeal arising from it) without the amendments made by Part 1 or 2 of this Schedule.
+Where an application for registration, or retention, in a part of the register kept under the 1976 Order is received before IP completion day[^c-bc56d0efd3cfc46020a4091b68a4c72a], any provision made by or under that Order (except for provision contained in Schedule 2C to the Order) continues to apply in relation to the application (including any appeal arising from it) without the amendments made by Part 1 or 2 of this Schedule.
 
-#### 29A. Swiss pharmacists: saving of old law[^M_I_a751920e-1b73-4ef7-c793-c20a39ef3b1a][^key-4bbf3f7d80b0bd7a2c3c430a95f734d5]
+#### 29A. Swiss pharmacists: saving of old law[^M_I_a751920e-1b73-4ef7-c793-c20a39ef3b1a][^c-4bbf3f7d80b0bd7a2c3c430a95f734d5]
 
 (1) Where an application for registration in the register mentioned in Article 6(1)(a) of the 1976 Order is received from a Swiss pharmacist before the end of the period of four years beginning with the day immediately after IP completion day, any provision made by or under the 1976 Order (except for the provision contained in Schedule 2C to the Order) continues to apply in relation to the application without the amendments Parts 1 and 2 of this Schedule make to the provisions mentioned in sub-paragraph (3) (but subject to the modifications to the 1976 Order and the Registration Regulations specified in sub-paragraphs (4) and (5)).
 
@@ -303,18 +303,18 @@ Where an application for registration, or retention, in a part of the register k
 
 (6) In this paragraph, “the Registration Regulations” means the Registration of Pharmaceutical Chemists (Exempt Persons) Regulations (Northern Ireland) 2008.
 
-#### 30. Visiting practitioners from relevant European States – saving of old law for up to five years[^key-b3ffb15cfe83bc14bd8b402a2d491e4b][^key-6fc3abf868aff180171de9ad4f32f5a2]
+#### 30. Visiting practitioners from relevant European States – saving of old law for up to five years[^c-b3ffb15cfe83bc14bd8b402a2d491e4b][^c-6fc3abf868aff180171de9ad4f32f5a2]
 
-(1) Where, immediately before IP completion day[^key-ab690e9d6fd3de6f56dd4082b51be25c]—
+(1) Where, immediately before IP completion day[^c-ab690e9d6fd3de6f56dd4082b51be25c]—
 
 - (a) a visiting practitioner was entitled under paragraph 4 or 7 of Schedule 2B to the 1976 Order to provide occasional pharmacy services, or
 - (b) the registrar was in receipt of the required documents (within the meaning of paragraph 5 of that Schedule) from a visiting practitioner seeking to acquire that entitlement,
 
-any provision made by an Act or instrument amended by Part 1 or 2 of this Schedule continues to apply in relation to the practitioner without the amendments that Part 1 or 2 of this Schedule makes to the provisions relating to visiting practitioners from relevant European States (but subject, in the case of a Swiss visiting practitioner, to the modifications to the 1976 Order specified in sub-paragraph (4))[^key-203486db2dd9a60879986ae752643070].
+any provision made by an Act or instrument amended by Part 1 or 2 of this Schedule continues to apply in relation to the practitioner without the amendments that Part 1 or 2 of this Schedule makes to the provisions relating to visiting practitioners from relevant European States (but subject, in the case of a Swiss visiting practitioner, to the modifications to the 1976 Order specified in sub-paragraph (4))[^c-203486db2dd9a60879986ae752643070].
 
-(2) But a visiting practitioner's entitlement does not continue (or further continue) under paragraph 7 of Schedule 2B to the 1976 Order on or after IP completion day[^key-dbb57af9f4767d642aa9b290a84b32d9] (and, accordingly, the entitlement lapses at the end of the period mentioned in paragraph 8(1) or (2) of that Schedule).
+(2) But a visiting practitioner's entitlement does not continue (or further continue) under paragraph 7 of Schedule 2B to the 1976 Order on or after IP completion day[^c-dbb57af9f4767d642aa9b290a84b32d9] (and, accordingly, the entitlement lapses at the end of the period mentioned in paragraph 8(1) or (2) of that Schedule).
 
-(2A)[^key-635d1e9ffac6100e95678fa881c6aca5] Sub-paragraph (2) does not apply in the case of a Swiss visiting practitioner.
+(2A)[^c-635d1e9ffac6100e95678fa881c6aca5] Sub-paragraph (2) does not apply in the case of a Swiss visiting practitioner.
 
 (2B) But a Swiss visiting practitioner’s entitlement does not continue (or further continue) under paragraph 7 of Schedule 2B to the 1976 Order after the end of the visiting practitioner transitional period (and, accordingly, the entitlement lapses at the end of the period mentioned in paragraph 8(1) or (2) of that Schedule).
 
@@ -344,7 +344,7 @@ any provision made by an Act or instrument amended by Part 1 or 2 of this Schedu
 |  | Regulation 3(3) |
 |  | Regulation 4(1)(f)(ii) |
 
-(4)[^key-0047bc2e9a86bc3b0bd3eaf80af47ab0] The modifications to the 1976 Order mentioned in sub-paragraph (1) are—
+(4)[^c-0047bc2e9a86bc3b0bd3eaf80af47ab0] The modifications to the 1976 Order mentioned in sub-paragraph (1) are—
 
 - (a) Article 2(2) is to be read as if, in the definition of “competent authorities” for “a relevant European State” there were substituted “Switzerland”;
 - (b) Article 4A(14) is to be read as if for the words from “the relevant” to the end there were substituted “Switzerland”;
@@ -384,9 +384,9 @@ any provision made by an Act or instrument amended by Part 1 or 2 of this Schedu
 
     .
 
-#### 31. European professional card[^key-b204c18a564f00759784d3bcbb5ff755]
+#### 31. European professional card[^c-b204c18a564f00759784d3bcbb5ff755]
 
-(1) Sub-paragraph (2) applies where, immediately before IP completion day[^key-3327a9053e1f6b219d217ddc22c24d6a]—
+(1) Sub-paragraph (2) applies where, immediately before IP completion day[^c-3327a9053e1f6b219d217ddc22c24d6a]—
 
 - (a) a person held a valid European professional card for establishment as a pharmaceutical chemist in Northern Ireland, or
 - (b) the Society was in receipt of a person's application for such a card, the application having been transmitted to it under Article 4d(1) of the Directive.
@@ -395,10 +395,10 @@ any provision made by an Act or instrument amended by Part 1 or 2 of this Schedu
 
 (3) In this paragraph—
 
-- (a) “**the Directive**” means Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7<sup>th</sup> September 2005 on the recognition of professional qualifications (OJ No L255, 30.09.2005, p 22), as it had effect immediately before IP completion day[^key-5f516a5ec43c032244004ffb9d03d24b];
+- (a) “**the Directive**” means Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7<sup>th</sup> September 2005 on the recognition of professional qualifications (OJ No L255, 30.09.2005, p 22), as it had effect immediately before IP completion day[^c-5f516a5ec43c032244004ffb9d03d24b];
 - (b) “**IMI file**” has the meaning given by Article 2 of the 1976 Order as it had effect immediately before IP completion day.
 
-**32.**[^key-3059126fb36a600e4cf52e783f639bf6] (1) Where immediately before IP completion day[^key-20725b92589ed939b00b85e201b56ae7], a person was entitled as mentioned in paragraph 15(2) of Schedule 2C to the 1976 Order, any provision made by or under that Order continues to apply in relation to the person without the amendments made by Part 1 or 2 of this Schedule to the provisions relating to the provision of occasional pharmacy services by holders of a European professional card.
+**32.**[^c-3059126fb36a600e4cf52e783f639bf6] (1) Where immediately before IP completion day[^c-20725b92589ed939b00b85e201b56ae7], a person was entitled as mentioned in paragraph 15(2) of Schedule 2C to the 1976 Order, any provision made by or under that Order continues to apply in relation to the person without the amendments made by Part 1 or 2 of this Schedule to the provisions relating to the provision of occasional pharmacy services by holders of a European professional card.
 
 (2) For the purposes of paragraph 15(4)(a) of Schedule 2C to the 1976 Order as it continues to apply by virtue of sub-paragraph (1), a European professional card that was transmitted as mentioned in paragraph 15(1)(a) of that Schedule is to be treated as becoming invalid on the expiry of the period of 18 months beginning with the day on which it was transmitted.
 
@@ -418,31 +418,31 @@ any provision made by an Act or instrument amended by Part 1 or 2 of this Schedu
 |  | Regulation 3(3) |
 |  | Regulation 4(1)(f)(ii) |
 
-**33.**[^key-8f4c5e94a2cfc45c03f9ca82b81c0dcc] (1) A decision within Article 11ZZA(b) of the 1976 Order taken before exit day, or a failure within Article 11ZZA(c) of that Order arising before IP completion day[^key-8793fbe798865e8f011f94db11aea449], continues to be appealable for the purposes of Article 11ZZB of that Order (subject to the provisions of the Order) despite the revocation of Article 11ZZA(b) and 11ZZA(c).
+**33.**[^c-8f4c5e94a2cfc45c03f9ca82b81c0dcc] (1) A decision within Article 11ZZA(b) of the 1976 Order taken before exit day, or a failure within Article 11ZZA(c) of that Order arising before IP completion day[^c-8793fbe798865e8f011f94db11aea449], continues to be appealable for the purposes of Article 11ZZB of that Order (subject to the provisions of the Order) despite the revocation of Article 11ZZA(b) and 11ZZA(c).
 
 (2) In disposing of such an appeal, the powers of the Council are, instead of those set out in Article 11ZZB(4), to—
 
 - (a) dismiss the appeal;
 - (b) allow the appeal and direct the Society to take such steps as the Council thinks fit to draw the findings of the Council to the European Commission; or
-- (c) direct that the person in respect of whom the decision was taken (or the failure arose) is to be treated, for the purposes of paragraph 31(1)(a), as a person who held a valid European professional card for establishment as a pharmaceutical chemist in Northern Ireland immediately before IP completion day[^key-d1a151ca3e6cbd1a2cd0947a9fcdf77c].
+- (c) direct that the person in respect of whom the decision was taken (or the failure arose) is to be treated, for the purposes of paragraph 31(1)(a), as a person who held a valid European professional card for establishment as a pharmaceutical chemist in Northern Ireland immediately before IP completion day[^c-d1a151ca3e6cbd1a2cd0947a9fcdf77c].
 
-#### 34. IMI Alerts[^key-9823b2f710bc5af46b9bea329bc12791]
+#### 34. IMI Alerts[^c-9823b2f710bc5af46b9bea329bc12791]
 
-(1) Where an alert has been sent by the Society before IP completion day[^key-c62307f97f37d17d9941a97a8a070337] under regulation 67 of the European Union (Recognition of Professional Qualifications) Regulations 2015**(a)** (as they had effect before IP completion day), the decision to send the alert continues to be appealable for the purposes of Article 11ZZA of the 1976 Order (subject to the provisions of that Order) despite the revocation of Article 11ZZB.
+(1) Where an alert has been sent by the Society before IP completion day[^c-c62307f97f37d17d9941a97a8a070337] under regulation 67 of the European Union (Recognition of Professional Qualifications) Regulations 2015**(a)** (as they had effect before IP completion day), the decision to send the alert continues to be appealable for the purposes of Article 11ZZA of the 1976 Order (subject to the provisions of that Order) despite the revocation of Article 11ZZB.
 
 (2) In disposing of such an appeal, the powers of the Council are, instead of those set out in Article 11ZZB(4), to—
 
 - (a) dismiss the appeal, or
 - (b) allow the appeal and direct the Society to take such steps as the Council thinks fit to draw the findings of the Council to the attention of the European Commission.
 
-#### 35. Interpretation of Saved Provisions[^key-ed47f3deb36965352a5f82f8e9a63976]
+#### 35. Interpretation of Saved Provisions[^c-ed47f3deb36965352a5f82f8e9a63976]
 
 Where a provision continues to apply by virtue of this Part, it is to be read as if—
 
 - (a) in Article 2(2) of the 1976 Order—
   - (i) there were substituted for the definition of “the Directive”—
 
-    > “**the Directive**” means Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7<sup>th</sup> September 2005 on the recognition of professional qualifications (OJ L255, 30.09.2005, p 22), and any reference in this Order to the Directive or to any provision of the Directive is a reference to the Directive, or to that provision, as it had effect immediately before IP completion day[^key-609ac68c782f899a967a07aea28e6359];
+    > “**the Directive**” means Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7<sup>th</sup> September 2005 on the recognition of professional qualifications (OJ L255, 30.09.2005, p 22), and any reference in this Order to the Directive or to any provision of the Directive is a reference to the Directive, or to that provision, as it had effect immediately before IP completion day[^c-609ac68c782f899a967a07aea28e6359];
 
     ;
   - (ii) there were inserted at the appropriate place—
@@ -507,182 +507,182 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23643391]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-27e1e818b8f7c9987e5c32db55ea4caa]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-27e1e818b8f7c9987e5c32db55ea4caa]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^M_I_ac530853-2e2a-43f5-bc38-9f9789a271d6]: Commencement: Reg. 1A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-560c682db7459bf37c0ea1450b891638]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2019/585/regulation/1A) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/2)
+[^c-560c682db7459bf37c0ea1450b891638]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2019/585/regulation/1A) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/2)
 
-[^key-0c6cec2d39b0f4c7213e4f0186f3912f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0c6cec2d39b0f4c7213e4f0186f3912f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-2238bc61bcf9e793a6384bf5154bb604]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2019/585/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2019/585/regulation/2B) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/3)
+[^c-2238bc61bcf9e793a6384bf5154bb604]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2019/585/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2019/585/regulation/2B) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/3)
 
 [^M_I_4c117022-ed9a-4c30-c4d0-dc4c70bc5626]: Commencement: Reg. 2A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^M_I_f3ebd77b-d87f-46a5-dc0f-cfd536bd4a44]: Commencement: Reg. 2B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-0014d0f71ab7d2d7e039272c304cb1a5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0014d0f71ab7d2d7e039272c304cb1a5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-e4607befc3ba939764d168ada22dedc3]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2019/585/regulation/3/1/a) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/4)
+[^c-e4607befc3ba939764d168ada22dedc3]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2019/585/regulation/3/1/a) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/4)
 
-[^key-0818809d8c7497665c672424bb1e6a18]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0818809d8c7497665c672424bb1e6a18]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643401]: Marginal citation: [S.R. 1976/1213](https://www.legislation.gov.uk/nisr/1976/1213). (N.I. 22)
 
 [^c23643411]: Marginal citation: [1954 c.33](https://www.legislation.gov.uk/ukpga/1954/33).
 
-[^key-deeda43fe493e0198e15cc9feb8aa1b4]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-deeda43fe493e0198e15cc9feb8aa1b4]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8746271e20e00e922a6692720ceec587]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8746271e20e00e922a6692720ceec587]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643421]: Marginal citation: Relevant amending instruments are [S.R. 1987/457](https://www.legislation.gov.uk/nisr/1987/457) and 2008/192 and [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-f84d614a07ffcb7e0f33196c8c71f487]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f84d614a07ffcb7e0f33196c8c71f487]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643431]: Marginal citation: Article 4A was inserted by [S.R. 2012/308](https://www.legislation.gov.uk/nisr/2012/308).
 
-[^key-fc4e7eebfe40461f21985e585e7ecc8f]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-fc4e7eebfe40461f21985e585e7ecc8f]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643441]: Marginal citation: Paragraph (1A) was inserted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-6effe92ec7603fd6bc1a0db0cd4615ce]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6effe92ec7603fd6bc1a0db0cd4615ce]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643451]: Marginal citation: Paragraph (1) was substituted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-3f112365ac6659ee595bb9c3df44e6f9]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3f112365ac6659ee595bb9c3df44e6f9]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643461]: Marginal citation: Paragraph (2)(c) was substituted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192) and paragraph (2A) was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806). Relevant amending instrument is [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-82835e46fc3c9157a5340b007921e4cf]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-82835e46fc3c9157a5340b007921e4cf]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643471]: Marginal citation: Article 8A was inserted by [S.R. 1987/457](https://www.legislation.gov.uk/nisr/1987/457).
 
-[^key-fd6b145fe922e4f16097bbed800a31a5]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/8) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/5)
+[^c-fd6b145fe922e4f16097bbed800a31a5]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/8) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/5)
 
-[^key-87f73dd206663f1f0b798bbc9d6bd609]: Commencement: Sch. para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-87f73dd206663f1f0b798bbc9d6bd609]: Commencement: Sch. para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643481]: Marginal citation: Article 8AA was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).
 
-[^key-450cc74e0ca03e87ec0bbe95543056ba]: Commencement: Sch. para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-450cc74e0ca03e87ec0bbe95543056ba]: Commencement: Sch. para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643491]: Marginal citation: Article 8B was inserted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-97867455f672256899618852f82e700b]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-97867455f672256899618852f82e700b]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643501]: Marginal citation: Article 8C was inserted by [S.R. 2016/130](https://www.legislation.gov.uk/nisr/2016/130).
 
-[^key-f9638cf3f22acdac46391ca080fc6e68]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f9638cf3f22acdac46391ca080fc6e68]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643511]: Marginal citation: Article 8D was inserted by [S.R. 2016/130](https://www.legislation.gov.uk/nisr/2016/130).
 
-[^key-cb5ac0e7621bfc7f3bbfc8c876f28525]: Commencement: Sch. para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cb5ac0e7621bfc7f3bbfc8c876f28525]: Commencement: Sch. para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643521]: Marginal citation: Relevant amending instrument is [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-3ade02302b7b9542f914aa31443a3404]: Commencement: Sch. para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3ade02302b7b9542f914aa31443a3404]: Commencement: Sch. para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643531]: Marginal citation: Paragraph (1A) was inserted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-8f5c20cd257210d37154b2999423a01b]: Commencement: Sch. para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8f5c20cd257210d37154b2999423a01b]: Commencement: Sch. para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643541]: Marginal citation: Article 11ZZA was inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-1cbb0d295435b743924d6a6c8a609579]: Commencement: Sch. para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1cbb0d295435b743924d6a6c8a609579]: Commencement: Sch. para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643551]: Marginal citation: Article 11ZZB was inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-141a268ab2d0048a81b932682d7e1d2d]: Commencement: Sch. para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-141a268ab2d0048a81b932682d7e1d2d]: Commencement: Sch. para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643561]: Marginal citation: Article 11ZA was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).
 
-[^key-593ce3925ad922800080157e28d0acab]: Commencement: Sch. para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-593ce3925ad922800080157e28d0acab]: Commencement: Sch. para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643571]: Marginal citation: Article 11A was inserted by [S.R. 2013/258](https://www.legislation.gov.uk/nisr/2013/258).
 
-[^key-0852d0b693f4f0e9062c5c2ee773bc03]: Commencement: Sch. para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0852d0b693f4f0e9062c5c2ee773bc03]: Commencement: Sch. para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643581]: Marginal citation: Paragraph (2A) was inserted by [S.R. 1987/457](https://www.legislation.gov.uk/nisr/1987/457). Relevant amending instrument is [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-316e1dc914f55783ddb9cfcf1a50fa0f]: Commencement: Sch. para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-316e1dc914f55783ddb9cfcf1a50fa0f]: Commencement: Sch. para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643591]: Marginal citation: Article 22A was inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-07dbc0e1d636a71c45d2320ca04b71e1]: Commencement: Sch. para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-07dbc0e1d636a71c45d2320ca04b71e1]: Commencement: Sch. para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643601]: Marginal citation: Schedule 2A was substituted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-1dae6519386725cd10127d8ee393fb0e]: Commencement: Sch. para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1dae6519386725cd10127d8ee393fb0e]: Commencement: Sch. para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643611]: Marginal citation: Schedule 2B was substituted by [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
-[^key-2a1aadb5fed68bfb9d44a573620e2996]: Commencement: Sch. para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2a1aadb5fed68bfb9d44a573620e2996]: Commencement: Sch. para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643621]: Marginal citation: Schedule 2C was inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-f91bb5dea0601ae41304f42bc168fdbc]: Commencement: Sch. para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f91bb5dea0601ae41304f42bc168fdbc]: Commencement: Sch. para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643631]: Marginal citation: Schedule 2D was inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030).
 
-[^key-b22568318e7fb0b872c288376576b200]: Commencement: Sch. para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b22568318e7fb0b872c288376576b200]: Commencement: Sch. para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c8185e698915e29154d1728cb99aad58]: Textual amendment: Word in [Sch. para. 25](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/25) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/6)
+[^c-c8185e698915e29154d1728cb99aad58]: Textual amendment: Word in [Sch. para. 25](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/25) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/6)
 
 [^c23643641]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265). Article 63AA was inserted by 2008 (N.I. 2).
 
 [^c23643651]: Marginal citation: [S.R. 1997/381](https://www.legislation.gov.uk/nisr/1997/381). Relevant amending instrument is [S.R. 2001/222](https://www.legislation.gov.uk/nisr/2001/222).
 
-[^key-d7c3e0e29fb6089860ab130e474b5565]: Commencement: Sch. para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d7c3e0e29fb6089860ab130e474b5565]: Commencement: Sch. para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643661]: Marginal citation: [S.R. 2012/312](https://www.legislation.gov.uk/nisr/2012/312).
 
-[^key-e1158f47f93c55163b407f4b60452d94]: Commencement: Sch. para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e1158f47f93c55163b407f4b60452d94]: Commencement: Sch. para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23643671]: Marginal citation: [S.R. 2008/192](https://www.legislation.gov.uk/nisr/2008/192).
 
 [^c23643681]: Marginal citation: [S.R. 2008/193](https://www.legislation.gov.uk/nisr/2008/193).
 
-[^key-69480df6dd2a989a5a7dd041ed05079d]: Commencement: Sch. para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-69480df6dd2a989a5a7dd041ed05079d]: Commencement: Sch. para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-bc56d0efd3cfc46020a4091b68a4c72a]: Textual amendment: Words in [Sch. para. 29](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/29) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/a)
+[^c-bc56d0efd3cfc46020a4091b68a4c72a]: Textual amendment: Words in [Sch. para. 29](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/29) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/a)
 
 [^M_I_a751920e-1b73-4ef7-c793-c20a39ef3b1a]: Commencement: Sch. para. 29A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-4bbf3f7d80b0bd7a2c3c430a95f734d5]: Textual amendment: Sch. para. 29A inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/b)
+[^c-4bbf3f7d80b0bd7a2c3c430a95f734d5]: Textual amendment: Sch. para. 29A inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/b)
 
-[^key-b3ffb15cfe83bc14bd8b402a2d491e4b]: Commencement: Sch. para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b3ffb15cfe83bc14bd8b402a2d491e4b]: Commencement: Sch. para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-6fc3abf868aff180171de9ad4f32f5a2]: Textual amendment: Words in [Sch. para. 30](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30) heading substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/i)
+[^c-6fc3abf868aff180171de9ad4f32f5a2]: Textual amendment: Words in [Sch. para. 30](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30) heading substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/i)
 
-[^key-ab690e9d6fd3de6f56dd4082b51be25c]: Textual amendment: Words in [Sch. para. 30(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/iii)
+[^c-ab690e9d6fd3de6f56dd4082b51be25c]: Textual amendment: Words in [Sch. para. 30(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/iii)
 
-[^key-203486db2dd9a60879986ae752643070]: Textual amendment: Words in [Sch. para. 30(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/1) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/ii)
+[^c-203486db2dd9a60879986ae752643070]: Textual amendment: Words in [Sch. para. 30(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/1) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/ii)
 
-[^key-dbb57af9f4767d642aa9b290a84b32d9]: Textual amendment: Words in [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/2) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/iii)
+[^c-dbb57af9f4767d642aa9b290a84b32d9]: Textual amendment: Words in [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/2) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/iii)
 
-[^key-635d1e9ffac6100e95678fa881c6aca5]: Textual amendment: [Sch. para. 30(2A)-(2C)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/2A) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/iv)
+[^c-635d1e9ffac6100e95678fa881c6aca5]: Textual amendment: [Sch. para. 30(2A)-(2C)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/2A) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/iv)
 
-[^key-0047bc2e9a86bc3b0bd3eaf80af47ab0]: Textual amendment: [Sch. para. 30(4)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/4) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(v)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/v)
+[^c-0047bc2e9a86bc3b0bd3eaf80af47ab0]: Textual amendment: [Sch. para. 30(4)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/30/4) inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(c)(v)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/c/v)
 
-[^key-b204c18a564f00759784d3bcbb5ff755]: Commencement: Sch. para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b204c18a564f00759784d3bcbb5ff755]: Commencement: Sch. para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-3327a9053e1f6b219d217ddc22c24d6a]: Textual amendment: Words in [Sch. para. 31(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/31/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-3327a9053e1f6b219d217ddc22c24d6a]: Textual amendment: Words in [Sch. para. 31(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/31/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
 
-[^key-5f516a5ec43c032244004ffb9d03d24b]: Textual amendment: Words in [Sch. para. 31(3)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/31/3) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-5f516a5ec43c032244004ffb9d03d24b]: Textual amendment: Words in [Sch. para. 31(3)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/31/3) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
 
-[^key-3059126fb36a600e4cf52e783f639bf6]: Commencement: Sch. para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3059126fb36a600e4cf52e783f639bf6]: Commencement: Sch. para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-20725b92589ed939b00b85e201b56ae7]: Textual amendment: Words in [Sch. para. 32(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/32/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-20725b92589ed939b00b85e201b56ae7]: Textual amendment: Words in [Sch. para. 32(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/32/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
 
-[^key-8f4c5e94a2cfc45c03f9ca82b81c0dcc]: Commencement: Sch. para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8f4c5e94a2cfc45c03f9ca82b81c0dcc]: Commencement: Sch. para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8793fbe798865e8f011f94db11aea449]: Textual amendment: Words in [Sch. para. 33(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/33/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-8793fbe798865e8f011f94db11aea449]: Textual amendment: Words in [Sch. para. 33(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/33/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
 
-[^key-d1a151ca3e6cbd1a2cd0947a9fcdf77c]: Textual amendment: Words in [Sch. para. 33(2)(c)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/33/2/c) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-d1a151ca3e6cbd1a2cd0947a9fcdf77c]: Textual amendment: Words in [Sch. para. 33(2)(c)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/33/2/c) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
 
-[^key-9823b2f710bc5af46b9bea329bc12791]: Commencement: Sch. para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9823b2f710bc5af46b9bea329bc12791]: Commencement: Sch. para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c62307f97f37d17d9941a97a8a070337]: Textual amendment: Words in [Sch. para. 34(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/34/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-c62307f97f37d17d9941a97a8a070337]: Textual amendment: Words in [Sch. para. 34(1)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/34/1) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
 
-[^key-ed47f3deb36965352a5f82f8e9a63976]: Commencement: Sch. para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ed47f3deb36965352a5f82f8e9a63976]: Commencement: Sch. para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-609ac68c782f899a967a07aea28e6359]: Textual amendment: Words in [Sch. para. 35(a)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/35/a) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)
+[^c-609ac68c782f899a967a07aea28e6359]: Textual amendment: Words in [Sch. para. 35(a)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/35/a) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7/d)

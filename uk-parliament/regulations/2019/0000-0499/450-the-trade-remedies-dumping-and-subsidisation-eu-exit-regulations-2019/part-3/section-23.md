@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Calculation steps[^key-e06692d65f94f1d6cc99a57f369e5131]
+## 23. Calculation steps[^c-e06692d65f94f1d6cc99a57f369e5131]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e06692d65f94f1d6cc99a57f369e5131]: Commencement: Reg. 23 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-e06692d65f94f1d6cc99a57f369e5131]: Commencement: Reg. 23 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

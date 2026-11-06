@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Transfer of engagements: general business[^key-72e0ec5955c60b8c3818e727d258a623]
+## 207. Transfer of engagements: general business[^c-72e0ec5955c60b8c3818e727d258a623]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72e0ec5955c60b8c3818e727d258a623]: Commencement: Art. 207 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-72e0ec5955c60b8c3818e727d258a623]: Commencement: Art. 207 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00150]: Footnote: Paragraph 15 was substituted by [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984), Schedule 4, paragraph 3 and amended by [S.I. 1997/2849](https://www.legislation.gov.uk/uksi/1997/2849) regulations 3, 5, and Schedule and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).

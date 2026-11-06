@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Consequential amendments to the Building (Restricted Activities and Functions) (Wales) Regulations 2024[^key-167c762db1a758a03306e6d07ca2e9fb]
+## 41. Consequential amendments to the Building (Restricted Activities and Functions) (Wales) Regulations 2024[^c-167c762db1a758a03306e6d07ca2e9fb]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-167c762db1a758a03306e6d07ca2e9fb]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-167c762db1a758a03306e6d07ca2e9fb]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2024/1268/regulation/41) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00047]: Footnote: [S.I. 2024/238 (W. 48)](https://www.legislation.gov.uk/wsi/2024/238).

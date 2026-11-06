@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Access to infrastructure[^key-1b611abf7ae7ebc6aca76ae772ed4478]
+## 128. Access to infrastructure[^c-1b611abf7ae7ebc6aca76ae772ed4478]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ and any associated installations, apparatus or works.
 
 ## Annotations
 
-[^key-1b611abf7ae7ebc6aca76ae772ed4478]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2023/52/section/128) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-1b611abf7ae7ebc6aca76ae772ed4478]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2023/52/section/128) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

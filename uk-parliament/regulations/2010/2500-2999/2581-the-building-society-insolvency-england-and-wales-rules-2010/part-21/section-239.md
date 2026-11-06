@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 239. Preliminary[^key-ef27a5c768f6a277609462c66e7722c3]
+## 239. Preliminary[^c-ef27a5c768f6a277609462c66e7722c3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef27a5c768f6a277609462c66e7722c3]: Commencement: Rule 239 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-ef27a5c768f6a277609462c66e7722c3]: Commencement: Rule 239 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

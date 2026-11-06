@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 44. Entitlement to call evidence[^key-50abdbf1ec539bd4495851c514aa535c]
+## 44. Entitlement to call evidence[^c-50abdbf1ec539bd4495851c514aa535c]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ At the hearing, subject to rules 35, 36 and 39, the complainant and the responde
 
 ## Annotations
 
-[^key-50abdbf1ec539bd4495851c514aa535c]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2005/2022/rule/44) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-50abdbf1ec539bd4495851c514aa535c]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2005/2022/rule/44) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

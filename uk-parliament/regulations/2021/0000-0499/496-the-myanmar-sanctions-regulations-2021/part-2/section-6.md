@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation criteria: meaning of “involved person”[^key-38470aa2ee362ce7fa9a3f78f5afdd3d][^key-eb9e074a7e79c1c658d331ab07dd56b2]
+## 6. Designation criteria: meaning of “involved person”[^c-38470aa2ee362ce7fa9a3f78f5afdd3d][^c-eb9e074a7e79c1c658d331ab07dd56b2]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b566558af18c8fc61caa635cc2d9b166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b566558af18c8fc61caa635cc2d9b166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^key-d86f548b21dc3efe1cdb2bc6f5ae1904], an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^c-d86f548b21dc3efe1cdb2bc6f5ae1904], an “**involved person**” means a person who—
 
 - (a) is or has been involved in—
   - (i) undermining democracy, the rule of law or good governance in Myanmar;
@@ -78,10 +78,10 @@ summary: ''
 
 ## Annotations
 
-[^key-38470aa2ee362ce7fa9a3f78f5afdd3d]: Commencement: Reg. 6 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
+[^c-38470aa2ee362ce7fa9a3f78f5afdd3d]: Commencement: Reg. 6 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
 
-[^key-eb9e074a7e79c1c658d331ab07dd56b2]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/496/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/4/a)
+[^c-eb9e074a7e79c1c658d331ab07dd56b2]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/496/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/4/a)
 
-[^key-b566558af18c8fc61caa635cc2d9b166]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2021/496/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/4/b)
+[^c-b566558af18c8fc61caa635cc2d9b166]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2021/496/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/4/b)
 
-[^key-d86f548b21dc3efe1cdb2bc6f5ae1904]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/4/c)
+[^c-d86f548b21dc3efe1cdb2bc6f5ae1904]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/4/c)

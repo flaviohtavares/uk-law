@@ -93,7 +93,7 @@ but this paragraph shall not apply where the order is made under section 27(1)( 
 
 (5) Paragraphs (3B), (4) and (4AA) of Article 180 of the Road Traffic (Northern Ireland) Order 1981 shall apply for the purposes of paragraph (3) in the same manner as they apply for the purposes of Article 29 of the Road Traffic Offenders (Northern Ireland) Order 1996.
 
-### (not yet in force: 8A). (not yet in force: Extension of disqualification where custodial sentence also imposed)[^key-f9945845ae62b789be00b04e0ef8084b][^c21348921]
+### (not yet in force: 8A). (not yet in force: Extension of disqualification where custodial sentence also imposed)[^c-f9945845ae62b789be00b04e0ef8084b][^c21348921]
 
 **Not yet in force.**
 
@@ -216,7 +216,7 @@ as, with the consent of the Department of Finance and Personnel[^c21946961], he 
 
 [^c11620381]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/1984/ni3)
 
-[^key-f9945845ae62b789be00b04e0ef8084b]: Modification: [Art. 8A](https://www.legislation.gov.uk/nisi/1980/704/article/8A) excluded by 2003 c. 32, s. 54(3B)(a) (as inserted (1.8.2017) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/2/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3))
+[^c-f9945845ae62b789be00b04e0ef8084b]: Modification: [Art. 8A](https://www.legislation.gov.uk/nisi/1980/704/article/8A) excluded by 2003 c. 32, s. 54(3B)(a) (as inserted (1.8.2017) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/2/4) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3))
 
 [^c21348921]: Textual amendment: [Arts. 8A](https://www.legislation.gov.uk/nisi/1980/704/article/8A), [8B](https://www.legislation.gov.uk/nisi/1980/704/article/8B) inserted (prosp.) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 137](https://www.legislation.gov.uk/ukpga/2009/25/section/137), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/16/paragraph/1) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29))
 

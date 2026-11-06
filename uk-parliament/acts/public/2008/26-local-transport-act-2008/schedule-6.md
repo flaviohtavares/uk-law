@@ -24,11 +24,11 @@ Section 121
 
 ### Part 1 — Amendments of Schedule 12 to the Transport Act 2000
 
-**1.**[^key-2762b8b64b8a31dfc3218b40b750a04a][^key-e7b1918389eb2c05b70e821308256af4] Schedule 12 to the TA 2000 (financial provisions relating to road user charging and workplace charging schemes) is amended as follows.
+**1.**[^c-2762b8b64b8a31dfc3218b40b750a04a][^c-e7b1918389eb2c05b70e821308256af4] Schedule 12 to the TA 2000 (financial provisions relating to road user charging and workplace charging schemes) is amended as follows.
 
 #### Application of proceeds by non-metropolitan local traffic authorities
 
-**2.**[^key-6da9a7adfab464db3d01189e6aa9d08c][^key-8c8d559196f8f25bcf1f11cdf97551e2] (1) Paragraph 8 is amended as follows.
+**2.**[^c-6da9a7adfab464db3d01189e6aa9d08c][^c-8c8d559196f8f25bcf1f11cdf97551e2] (1) Paragraph 8 is amended as follows.
 
 (2) In sub-paragraph (1) for “any early relevant scheme during the initial period of the scheme” substitute “any relevant scheme”.
 
@@ -36,11 +36,11 @@ Section 121
 
 #### Application of proceeds where paragraph 8 does not apply
 
-**3.**[^key-acbcf05d0f7889347813d34ea32d0060][^key-f7f89180416fea8697d71ce5f9523c6d] Omit paragraph 9.
+**3.**[^c-acbcf05d0f7889347813d34ea32d0060][^c-f7f89180416fea8697d71ce5f9523c6d] Omit paragraph 9.
 
 #### Plans and programmes for application of proceeds
 
-**4.**[^key-a92aeb946234dd6cda184df74cdf4543][^key-9d841c49d453c1e143436db75f005a32] (1) Paragraph 10 is amended as follows.
+**4.**[^c-a92aeb946234dd6cda184df74cdf4543][^c-9d841c49d453c1e143436db75f005a32] (1) Paragraph 10 is amended as follows.
 
 (2) In sub-paragraph (1)(b) for “the opening transport plan period” substitute “the opening five year period”.
 
@@ -57,7 +57,7 @@ Section 121
 
 #### Programme for application of proceeds after end of opening period
 
-**5.**[^key-e7d37e78ce82a4dfd41b31e3e51f7f66][^key-e9cec3708057f86bc94d872c077f1a12] (1) Paragraph 11 is amended as follows.
+**5.**[^c-e7d37e78ce82a4dfd41b31e3e51f7f66][^c-e9cec3708057f86bc94d872c077f1a12] (1) Paragraph 11 is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -71,7 +71,7 @@ Section 121
 
 #### Application of proceeds by London traffic authorities
 
-**6.**[^key-804d6ce9a9e9ff34e959340a39e445b3][^key-476eb541b1bece0a303644a90d435b51] (1) Paragraph 12 is amended as follows.
+**6.**[^c-804d6ce9a9e9ff34e959340a39e445b3][^c-476eb541b1bece0a303644a90d435b51] (1) Paragraph 12 is amended as follows.
 
 (2) In sub-paragraph (1) for the words from “only for application” to the end substitute—
 
@@ -93,7 +93,7 @@ Section 121
 
 #### Application of proceeds by Secretary of State and Welsh Ministers
 
-**7.**[^key-6c8ef934cb837c3c8868a4473457656f][^key-718b1f16aa84a7fc870080fac34d7a5a] (1) Paragraph 13 is amended as follows.
+**7.**[^c-6c8ef934cb837c3c8868a4473457656f][^c-718b1f16aa84a7fc870080fac34d7a5a] (1) Paragraph 13 is amended as follows.
 
 (2) In sub-paragraph (1)(b) omit the words from “and comes into force” to “the commencement of this Schedule”.
 
@@ -111,7 +111,7 @@ Section 121
 
 #### Regulations and orders
 
-**8.**[^key-61509d5511cae6259ec89ce77041d61a][^key-ed4a7fea867033be74f64f1234580182] (1) In consequence of the amendments made by paragraphs 3 and 7(3), section 197 of the TA 2000 is amended as follows.
+**8.**[^c-61509d5511cae6259ec89ce77041d61a][^c-ed4a7fea867033be74f64f1234580182] (1) In consequence of the amendments made by paragraphs 3 and 7(3), section 197 of the TA 2000 is amended as follows.
 
 (2) In subsections (3) and (4)(b) (regulations not to be made without consent of Treasury and approval of Parliament)—
 
@@ -120,11 +120,11 @@ Section 121
 
 ### Part 2 — Amendments of Schedule 23 to the Greater London Authority Act 1999
 
-**9.**[^key-ea83d25d08aed9862cb4a05401712c1e] Schedule 23 to the GLA Act 1999 (road user charging) is amended as follows.
+**9.**[^c-ea83d25d08aed9862cb4a05401712c1e] Schedule 23 to the GLA Act 1999 (road user charging) is amended as follows.
 
 #### Application of net proceeds
 
-**10.**[^key-71d9d82dfb8104cb00c8024000d88bd9] (1) Paragraph 16 is amended as follows.
+**10.**[^c-71d9d82dfb8104cb00c8024000d88bd9] (1) Paragraph 16 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -143,11 +143,11 @@ Section 121
 
 (6) Omit sub-paragraph (7).
 
-**11.**[^key-177512accc4277487a4084bc9a1e9907] In paragraph 17, omit sub-paragraphs (1), (2) and (6).
+**11.**[^c-177512accc4277487a4084bc9a1e9907] In paragraph 17, omit sub-paragraphs (1), (2) and (6).
 
 #### Apportionment of net proceeds
 
-**12.**[^key-8d94e5de94791c2a4582324c11fe1bae] (1) Paragraph 18 is amended as follows.
+**12.**[^c-8d94e5de94791c2a4582324c11fe1bae] (1) Paragraph 18 is amended as follows.
 
 (2) In sub-paragraph (1) omit “Subject to any provision made by regulations under paragraph 16(2) above,”.
 
@@ -169,42 +169,42 @@ Section 121
 
 ## Annotations
 
-[^key-2762b8b64b8a31dfc3218b40b750a04a]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-2762b8b64b8a31dfc3218b40b750a04a]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-e7b1918389eb2c05b70e821308256af4]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-e7b1918389eb2c05b70e821308256af4]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-6da9a7adfab464db3d01189e6aa9d08c]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/2) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-6da9a7adfab464db3d01189e6aa9d08c]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/2) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-8c8d559196f8f25bcf1f11cdf97551e2]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/2) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-8c8d559196f8f25bcf1f11cdf97551e2]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/2) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-acbcf05d0f7889347813d34ea32d0060]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/3) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-acbcf05d0f7889347813d34ea32d0060]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/3) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-f7f89180416fea8697d71ce5f9523c6d]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/3) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-f7f89180416fea8697d71ce5f9523c6d]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/3) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-a92aeb946234dd6cda184df74cdf4543]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/4) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-a92aeb946234dd6cda184df74cdf4543]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/4) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-9d841c49d453c1e143436db75f005a32]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/4) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-9d841c49d453c1e143436db75f005a32]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/4) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-e7d37e78ce82a4dfd41b31e3e51f7f66]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/5) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-e7d37e78ce82a4dfd41b31e3e51f7f66]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/5) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-e9cec3708057f86bc94d872c077f1a12]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/5) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-e9cec3708057f86bc94d872c077f1a12]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/5) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-804d6ce9a9e9ff34e959340a39e445b3]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/6) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-804d6ce9a9e9ff34e959340a39e445b3]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/6) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-476eb541b1bece0a303644a90d435b51]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/6) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-476eb541b1bece0a303644a90d435b51]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/6) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-6c8ef934cb837c3c8868a4473457656f]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/7) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-6c8ef934cb837c3c8868a4473457656f]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/7) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-718b1f16aa84a7fc870080fac34d7a5a]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/7) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-718b1f16aa84a7fc870080fac34d7a5a]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/7) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-61509d5511cae6259ec89ce77041d61a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/8) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-61509d5511cae6259ec89ce77041d61a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/8) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-ed4a7fea867033be74f64f1234580182]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/8) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
+[^c-ed4a7fea867033be74f64f1234580182]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/8) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/wsi/2009/579), [art. 2(t)](https://www.legislation.gov.uk/wsi/2009/579/article/2/t)
 
-[^key-ea83d25d08aed9862cb4a05401712c1e]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/9) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-ea83d25d08aed9862cb4a05401712c1e]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/9) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-71d9d82dfb8104cb00c8024000d88bd9]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/10) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-71d9d82dfb8104cb00c8024000d88bd9]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/10) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-177512accc4277487a4084bc9a1e9907]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/11) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-177512accc4277487a4084bc9a1e9907]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/11) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-8d94e5de94791c2a4582324c11fe1bae]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/12) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-8d94e5de94791c2a4582324c11fe1bae]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2008/26/schedule/6/paragraph/12) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

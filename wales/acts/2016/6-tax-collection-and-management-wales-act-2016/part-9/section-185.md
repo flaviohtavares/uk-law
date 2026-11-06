@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Powers to investigate criminal offences[^key-a45078a8c07eb25b4e4758e07ee32f16]
+## 185. Powers to investigate criminal offences[^c-a45078a8c07eb25b4e4758e07ee32f16]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a45078a8c07eb25b4e4758e07ee32f16]: Commencement: S. 185 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)
+[^c-a45078a8c07eb25b4e4758e07ee32f16]: Commencement: S. 185 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)

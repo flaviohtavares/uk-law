@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Payments of dividends[^key-7b51c4e316953a292a69043b6066412b]
+## 114. Payments of dividends[^c-7b51c4e316953a292a69043b6066412b]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ must be held by the administrator in an appropriate bank or institution in the n
 
 ## Annotations
 
-[^key-7b51c4e316953a292a69043b6066412b]: Commencement: Rule 114 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-7b51c4e316953a292a69043b6066412b]: Commencement: Rule 114 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

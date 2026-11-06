@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Closure and transfer of added pension account[^key-84971a26ec68487fa0cdf8943f2de78f]
+## 41. Closure and transfer of added pension account[^c-84971a26ec68487fa0cdf8943f2de78f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84971a26ec68487fa0cdf8943f2de78f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/2848/regulation/41) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-84971a26ec68487fa0cdf8943f2de78f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/2848/regulation/41) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury are a government department designated[^c17184311] for the purposes of section 2(2) of the European Communities Act 1972[^c17184321] in relation to investment firms and to the provision of investment services and to the operation of regulated markets and clearing or settlement systems and in relation to credit institutions;
 
-The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of that Act:[^key-c3a106b091073af61979a5bf8441b9cc]
+The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of that Act:[^c-c3a106b091073af61979a5bf8441b9cc]
 
 ## 1. Citation, commencement and interpretation
 
@@ -252,7 +252,7 @@ The Treasury will prepare a transposition note which sets out how the main eleme
 
 [^c17184321]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) made by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting that Agreement signed at Brussels on 17th March 1993 (Cm 2183). For the decision of the EEA Joint Committee in relation to Directive 2004/39/EC, see Decision No 65/2005 of 29th April 2005 (OJ No L 239, 15.9.2005, p.50).
 
-[^key-c3a106b091073af61979a5bf8441b9cc]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-c3a106b091073af61979a5bf8441b9cc]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c17184331]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 

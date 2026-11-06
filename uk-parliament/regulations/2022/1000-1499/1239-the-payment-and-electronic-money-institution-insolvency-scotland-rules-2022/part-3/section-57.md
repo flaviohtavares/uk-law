@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Requisite majorities[^key-2474c2e5dd24a4c4553286593f6a1e68]
+## 57. Requisite majorities[^c-2474c2e5dd24a4c4553286593f6a1e68]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2474c2e5dd24a4c4553286593f6a1e68]: Commencement: Rule 57 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-2474c2e5dd24a4c4553286593f6a1e68]: Commencement: Rule 57 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

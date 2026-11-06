@@ -44,15 +44,15 @@ In accordance with 162(4) of that Act[^f00002] this Order is made with the conse
 
 A draft of this Order has been laid before Parliament in accordance with section 182(3)(b) of that Act and approved by a resolution of each House of Parliament.
 
-## 1. Citation and Commencement[^key-5c2f09035b7b46a1a6c1a2031846f25c]
+## 1. Citation and Commencement[^c-5c2f09035b7b46a1a6c1a2031846f25c]
 
 This Order may be cited as the Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 and comes into force on the thirty-fifth day after the day on which it is made.
 
-## 2. Repeal of section 12 of the Education Act 1996[^key-658ddcb5823c5a52c24342363be27a73]
+## 2. Repeal of section 12 of the Education Act 1996[^c-658ddcb5823c5a52c24342363be27a73]
 
 Section 12 of EA 1996[^f00003] (local education authorities and their areas) is repealed.
 
-## 3. Definitions for the purposes of the Education Act 1996[^key-da4393c891b131d8e65eace85462fe72]
+## 3. Definitions for the purposes of the Education Act 1996[^c-da4393c891b131d8e65eace85462fe72]
 
 (1) Section 579 of EA 1996 (interpretation) is amended in accordance with paragraphs (2) and (3).
 
@@ -86,7 +86,7 @@ Section 12 of EA 1996[^f00003] (local education authorities and their areas) is 
 
 (4) After Schedule 36 to EA 1996 insert the Schedule set out in Schedule 1 to this Order.
 
-## 4. Amendment of section 65 of the Children Act 2004[^key-d801f0ee828a93ae40778e8b749c25ec]
+## 4. Amendment of section 65 of the Children Act 2004[^c-d801f0ee828a93ae40778e8b749c25ec]
 
 (1) Section 65(1) of the Children Act 2004[^f00004] is amended as follows.
 
@@ -110,7 +110,7 @@ Section 12 of EA 1996[^f00003] (local education authorities and their areas) is 
 
 .
 
-## 5. Consequential and connected amendments, repeals and transitional provisions[^key-24fdc32e125223977869d791ee5a1248]
+## 5. Consequential and connected amendments, repeals and transitional provisions[^c-24fdc32e125223977869d791ee5a1248]
 
 (1) Schedule 2 (which contains consequential and connected amendments) has effect.
 
@@ -130,9 +130,9 @@ Department for Children, Schools and Families
 
 Article 3
 
-**1.**[^key-433e3d91cacfeb8efdd4818834d67257] Functions conferred on a local authority under the Education Acts (as defined in section 578).
+**1.**[^c-433e3d91cacfeb8efdd4818834d67257] Functions conferred on a local authority under the Education Acts (as defined in section 578).
 
-**2.**[^key-aab12535394c2bc717f7788adbdca6a7] Functions conferred on a local authority under the enactments specified in the first column of the table below (being the functions which are described in general terms in the second column of that table).
+**2.**[^c-aab12535394c2bc717f7788adbdca6a7] Functions conferred on a local authority under the enactments specified in the first column of the table below (being the functions which are described in general terms in the second column of that table).
 
 Table
 
@@ -197,11 +197,11 @@ Article 5(1)
 
 ### PART 1 — Education Acts
 
-#### 1. Education (Fees and Awards) Act [1983 (c. 40)](https://www.legislation.gov.uk/ukpga/1983/40)[^key-f0af5a5887b3559d20d25c8555e649a4]
+#### 1. Education (Fees and Awards) Act [1983 (c. 40)](https://www.legislation.gov.uk/ukpga/1983/40)[^c-f0af5a5887b3559d20d25c8555e649a4]
 
 In section 1 of the Education (Fees and Awards) Act 1983 for “local education authority” in each place where those words occur substitute “local authority”.
 
-#### 2. Further Education Act [1985 (c. 47)](https://www.legislation.gov.uk/ukpga/1985/47)[^key-e29ce3b837bd4626c09b5a23f99e3e0b]
+#### 2. Further Education Act [1985 (c. 47)](https://www.legislation.gov.uk/ukpga/1985/47)[^c-e29ce3b837bd4626c09b5a23f99e3e0b]
 
 (1) The Further Education Act 1985 is amended as follows.
 
@@ -209,11 +209,11 @@ In section 1 of the Education (Fees and Awards) Act 1983 for “local education 
 
 (3) In section 3(8)(a) and (b) for “functions as a local education authority” substitute “education functions”.
 
-#### 3. Education (No 2) Act [1986 (c. 61)](https://www.legislation.gov.uk/ukpga/1986/61)[^key-d9a595466b1b90fa72ab648726d1a3b5]
+#### 3. Education (No 2) Act [1986 (c. 61)](https://www.legislation.gov.uk/ukpga/1986/61)[^c-d9a595466b1b90fa72ab648726d1a3b5]
 
 In the Education (No 2) Act 1986 for “local education authority” in each place where those words occur substitute “local authority”.
 
-#### 4. Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40)[^key-016c0ed587224954d8d22e6e0f1f541c]
+#### 4. Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40)[^c-016c0ed587224954d8d22e6e0f1f541c]
 
 (1) The Education Reform Act 1988 is amended as follows.
 
@@ -254,7 +254,7 @@ In the Education (No 2) Act 1986 for “local education authority” in each pla
   > - (a) references to a maintained school or a foundation body have the same meanings as in the School Standards and Framework Act 1998;
   > - (b) “local authority” includes a non-metropolitan district council for an area for which there is a county council.
 
-#### 5. Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13)[^key-7f1e7493d44295a8caaf72ca9b61aeef]
+#### 5. Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13)[^c-7f1e7493d44295a8caaf72ca9b61aeef]
 
 (1) The Further and Higher Education Act 1992 is amended as follows.
 
@@ -286,11 +286,11 @@ In the Education (No 2) Act 1986 for “local education authority” in each pla
 
 (9) In paragraph 1 of Schedule 5 at the end of sub-paragraph (4) insert “; and for the purposes of this sub-paragraph “local authority” includes a non-metropolitan district council for an area for which there is a county council.”
 
-#### 6. Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30)[^key-7d648c629bc31e01f04b30e1b1df9653]
+#### 6. Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30)[^c-7d648c629bc31e01f04b30e1b1df9653]
 
 In section 11A of the Education Act 1994[^f00013] for “local education authorities” substitute “local authorities”.
 
-#### 7. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^key-12bb489bfef3393af1cbb70df0faad96]
+#### 7. Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)[^c-12bb489bfef3393af1cbb70df0faad96]
 
 (1) EA 1996 is amended as follows.
 
@@ -385,7 +385,7 @@ In section 11A of the Education Act 1994[^f00013] for “local education authori
 
 (16) In paragraph 44(2)(b) of Schedule 39 for the words from “functions with respect to education conferred” to the end, substitute “of the local authority’s education functions”.
 
-#### 8. [Education Act 1997 (c 44 )](https://www.legislation.gov.uk/ukpga/1997/44)[^key-64589d0f361b721f9a33f162bfa884cc]
+#### 8. [Education Act 1997 (c 44 )](https://www.legislation.gov.uk/ukpga/1997/44)[^c-64589d0f361b721f9a33f162bfa884cc]
 
 (1) The Education Act 1997 is amended as follows.
 
@@ -399,7 +399,7 @@ In section 11A of the Education Act 1994[^f00013] for “local education authori
 
 .
 
-#### 9. Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30)[^key-9ad83eba920e7b4410df35bc492ed56f]
+#### 9. Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30)[^c-9ad83eba920e7b4410df35bc492ed56f]
 
 (1) The Teaching and Higher Education Act 1998 is amended as follows.
 
@@ -413,7 +413,7 @@ In section 11A of the Education Act 1994[^f00013] for “local education authori
 
 .
 
-#### 10. School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)[^key-f133dd75bff1228e383e69cffff8d42d]
+#### 10. School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31)[^c-f133dd75bff1228e383e69cffff8d42d]
 
 (1) SSFA 1998 is amended as follows.
 
@@ -511,7 +511,7 @@ In section 11A of the Education Act 1994[^f00013] for “local education authori
 
   > (7) In this paragraph “local authority” includes a non-metropolitan district council for an area for which there is a county council.
 
-#### 11. Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32)[^key-fb3c16e907c336baa94e541e7dbba244]
+#### 11. Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32)[^c-fb3c16e907c336baa94e541e7dbba244]
 
 (1) EA 2002 is amended as follows.
 
@@ -564,7 +564,7 @@ In section 11A of the Education Act 1994[^f00013] for “local education authori
 
 .
 
-#### 12. Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8)[^key-07e38255fbb98b2e3c693540d54391f9]
+#### 12. Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8)[^c-07e38255fbb98b2e3c693540d54391f9]
 
 Section 41 of the Higher Education Act 2004 is amended as follows—
 
@@ -573,7 +573,7 @@ Section 41 of the Higher Education Act 2004 is amended as follows—
 
   > (4) In subsection (2)(a), “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
 
-#### 13. Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18)[^key-63a52ab0195afbfd77ac5cc0404c3bd9]
+#### 13. Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18)[^c-63a52ab0195afbfd77ac5cc0404c3bd9]
 
 (1) EA 2005 is amended as follows.
 
@@ -607,7 +607,7 @@ Section 41 of the Higher Education Act 2004 is amended as follows—
 
 .
 
-#### 14. Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40)[^key-c185554cedc178cc5aca755fa050eaf6]
+#### 14. Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40)[^c-c185554cedc178cc5aca755fa050eaf6]
 
 (1) The Education and Inspections Act 2006 is amended as follows.
 
@@ -631,7 +631,7 @@ Section 41 of the Higher Education Act 2004 is amended as follows—
 
 .
 
-#### 15. [Education and Skills Act 2008 (c.25 )](https://www.legislation.gov.uk/ukpga/2008/25)[^key-d252f5687bd4993cf5531f08278300d8]
+#### 15. [Education and Skills Act 2008 (c.25 )](https://www.legislation.gov.uk/ukpga/2008/25)[^c-d252f5687bd4993cf5531f08278300d8]
 
 (1) The Education and Skills Act 2008 is amended as follows.
 
@@ -670,7 +670,7 @@ Section 41 of the Higher Education Act 2004 is amended as follows—
   - (ii) for “children’s authorities” substitute “local authorities in England”;
 - (d) in subsection (5) for “children’s services authority in England” in both places where those words occur substitute “local authority”.
 
-#### 16. Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22)[^key-d6cd73b2e3ccef0fd4e36bbe638c342d]
+#### 16. Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22)[^c-d6cd73b2e3ccef0fd4e36bbe638c342d]
 
 (1) The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
 
@@ -730,7 +730,7 @@ Section 41 of the Higher Education Act 2004 is amended as follows—
 
 ### PART 2 — Acts other than the Education Acts
 
-#### 17. Children and Young Persons Act [1933 (c. 12)](https://www.legislation.gov.uk/ukpga/1933/12)[^key-4dbf19df44e48c94a47bed2d50a9dfe4]
+#### 17. Children and Young Persons Act [1933 (c. 12)](https://www.legislation.gov.uk/ukpga/1933/12)[^c-4dbf19df44e48c94a47bed2d50a9dfe4]
 
 (1) The Children and Young Persons Act 1933 is amended as follows.
 
@@ -745,11 +745,11 @@ Section 41 of the Higher Education Act 2004 is amended as follows—
 
 (3) Omit sections 97 and 98.
 
-#### 18. Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49)[^key-5e8acac6c87d766a84a0b567465e5853]
+#### 18. Public Health Act [1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49)[^c-5e8acac6c87d766a84a0b567465e5853]
 
 In section 85(7) of the Public Health Act 1936 for “as a local education authority” substitute “under Chapter 2 of Part 9 of the Education Act 1996”.
 
-#### 19. Reserve and Auxiliary Forces (Protection of Civil Interests) Act [1951 (c. 65)](https://www.legislation.gov.uk/ukpga/1951/65)[^key-105f8ffa497f8d11e42639541778550e]
+#### 19. Reserve and Auxiliary Forces (Protection of Civil Interests) Act [1951 (c. 65)](https://www.legislation.gov.uk/ukpga/1951/65)[^c-105f8ffa497f8d11e42639541778550e]
 
 (1) Part 1 of the Second Schedule to the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 is amended as follows.
 
@@ -765,19 +765,19 @@ In section 85(7) of the Public Health Act 1936 for “as a local education autho
 - (a) in the first column for “local education authority” substitute “local authority”;
 - (b) in the second column for “The local education authority” substitute “The local authority by whom the institution is assisted”.
 
-#### 20. London Government Act [1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33)[^key-a03dc4bf55510c96144e093882ac33f7]
+#### 20. London Government Act [1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33)[^c-a03dc4bf55510c96144e093882ac33f7]
 
 Omit section 30 of the London Government Act 1963.
 
-#### 21. Children and Young Persons Act [1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37)[^key-c33327a92f1b89e2b294c43359b3d12d]
+#### 21. Children and Young Persons Act [1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37)[^c-c33327a92f1b89e2b294c43359b3d12d]
 
 Omit section 56 of the Children and Young Persons Act 1963.
 
-#### 22. Veterinary Surgeons Act [1966 (c. 36)](https://www.legislation.gov.uk/ukpga/1966/36)[^key-9240c89972f0b0eb0d4bdac11cb66d49]
+#### 22. Veterinary Surgeons Act [1966 (c. 36)](https://www.legislation.gov.uk/ukpga/1966/36)[^c-9240c89972f0b0eb0d4bdac11cb66d49]
 
 In paragraph 5 of Schedule 3 to the Veterinary Surgeons Act 1966[^f00027] for “local education authority” substitute “local authority”.
 
-#### 23. Children and Young Persons Act [1969 (c. 54)](https://www.legislation.gov.uk/ukpga/1969/54)[^key-27932fe00db65f9fb1639c68d743e977]
+#### 23. Children and Young Persons Act [1969 (c. 54)](https://www.legislation.gov.uk/ukpga/1969/54)[^c-27932fe00db65f9fb1639c68d743e977]
 
 (1) The Children and Young Persons Act 1969 is amended as follows.
 
@@ -785,11 +785,11 @@ In paragraph 5 of Schedule 3 to the Veterinary Surgeons Act 1966[^f00027] for �
 
 (3) In section 70(1), in the definition of “local authority”, omit “except in relation to proceedings under section 1 of this Act instituted by a local education authority”.
 
-#### 24. Chronically Sick and Disabled Persons Act [1970 (c. 44)](https://www.legislation.gov.uk/ukpga/1970/44)[^key-c089e6e6f90e9c3a6e32efba2f73fca8]
+#### 24. Chronically Sick and Disabled Persons Act [1970 (c. 44)](https://www.legislation.gov.uk/ukpga/1970/44)[^c-c089e6e6f90e9c3a6e32efba2f73fca8]
 
 In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028] for “local education authorities” substitute “local authorities”.
 
-#### 25. Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42)[^key-cf40a98a8e33be22a3eca5c55f9aae84]
+#### 25. Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42)[^c-cf40a98a8e33be22a3eca5c55f9aae84]
 
 (1) Schedule 1 to the Local Authority Social Services Act 1970 is amended as follows.
 
@@ -808,7 +808,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
 (5) In the entry relating to the Education Act 1996[^f00031] for “local education authority” substitute “another local authority”.
 
-#### 26. Local Government Act [1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70)[^key-a8a481393629c35691b69cae2539b223]
+#### 26. Local Government Act [1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70)[^c-a8a481393629c35691b69cae2539b223]
 
 (1) The Local Government Act 1972 is amended as follows.
 
@@ -824,7 +824,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
   > (6) In subsections (1) and (2) “local authority” has the meaning given by section 579(1) of the Education Act 1996.
 
-#### 27. Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11)[^key-676435117305c665903628fd582dcbfd]
+#### 27. Superannuation Act [1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11)[^c-676435117305c665903628fd582dcbfd]
 
 (1) Section 9 of the Superannuation Act 1972 is amended as follows.
 
@@ -840,7 +840,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
 (5) Omit subsection (7).
 
-#### 28. Employment and Training Act [1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50)[^key-a423b83ed62995f509466d87168c659d]
+#### 28. Employment and Training Act [1973 (c. 50)](https://www.legislation.gov.uk/ukpga/1973/50)[^c-a423b83ed62995f509466d87168c659d]
 
 (1) The Employment and Training Act 1973 is amended as follows.
 
@@ -866,7 +866,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
    .
 
-#### 29. Sex Discrimination Act [1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65)[^key-e2b4a9d20e7b0e747b0eac0e2c7644a3]
+#### 29. Sex Discrimination Act [1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65)[^c-e2b4a9d20e7b0e747b0eac0e2c7644a3]
 
 (1) The Sex Discrimination Act 1975 is amended as follows.
 
@@ -880,11 +880,11 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
 .
 
-#### 30. Race Relations Act[^key-cf5846e55f46989820cd3d3580033732]
+#### 30. Race Relations Act[^c-cf5846e55f46989820cd3d3580033732]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Education (Scotland) Act [1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44)[^key-4ae518da554bcaed091060e8df447c0c]
+#### 31. Education (Scotland) Act [1980 (c. 44)](https://www.legislation.gov.uk/ukpga/1980/44)[^c-4ae518da554bcaed091060e8df447c0c]
 
 (1) The Education (Scotland) Act 1980 is amended as follows.
 
@@ -894,7 +894,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
 (4) In section 51(2B) for “local education authority” substituted “local authority (as defined in section 579(1) of the Education Act 1996)”.
 
-#### 32. Public Passenger Vehicles Act [1981 (c. 14)](https://www.legislation.gov.uk/ukpga/1981/14)[^key-d2e059d9d4882f4c05d2a5c65bd86869]
+#### 32. Public Passenger Vehicles Act [1981 (c. 14)](https://www.legislation.gov.uk/ukpga/1981/14)[^c-d2e059d9d4882f4c05d2a5c65bd86869]
 
 (1) Section 46 of the Public Passenger Vehicles Act 1981 is amended as follows.
 
@@ -906,7 +906,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
  .
 
-#### 33. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^key-980fa9fb9033a8bafe3eb8325e308675]
+#### 33. Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2)[^c-980fa9fb9033a8bafe3eb8325e308675]
 
 (1) The Representation of the People Act 1983 is amended as follows.
 
@@ -922,7 +922,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
   ;
 - (c) in paragraph 6(a) for “any reference” substitute the “reference in paragraph 1(1)”.
 
-#### 34. Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)[^key-8e6fb4252e3f95da80bca41c49b7280c]
+#### 34. Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)[^c-8e6fb4252e3f95da80bca41c49b7280c]
 
 (1) The Transport Act 1985 is amended as follows.
 
@@ -955,7 +955,7 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
   .
 
-#### 35. Disabled Persons (Services, Consultation and Representation) Act [1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33)[^key-4f6b3442c126ffa88250260754334d9d]
+#### 35. Disabled Persons (Services, Consultation and Representation) Act [1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33)[^c-4f6b3442c126ffa88250260754334d9d]
 
 (1) The Disabled Persons (Services, Consultation and Representation) Act 1986 is amended as follows.
 
@@ -967,11 +967,11 @@ In section 8(2)(b) of the Chronically Sick and Disabled Persons Act 1970[^f00028
 
 .
 
-#### 36. Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^key-50d769c2b673eee3bf3942489159075d]
+#### 36. Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48)[^c-50d769c2b673eee3bf3942489159075d]
 
 In section 174(2) of the Copyright, Designs and Patents Act 1988 for “local education authority” substitute “local authority (as defined in section 579(1) of the Education Act 1996) or (in Northern Ireland) a local education authority,”.
 
-#### 37. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^key-840e45b93c54c0d10fa803c44bd75cd3]
+#### 37. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^c-840e45b93c54c0d10fa803c44bd75cd3]
 
 (1) The Children Act 1989 is amended as follows.
 
@@ -1052,7 +1052,7 @@ In section 174(2) of the Copyright, Designs and Patents Act 1988 for “local ed
 
 (15) In paragraph 1(1)(b) of Schedule 9A[^f00041] for “local education authority” substitute “local authority”.
 
-#### 38. Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^key-e22bcc004d87bfbb178d8c1732a35a36]
+#### 38. Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^c-e22bcc004d87bfbb178d8c1732a35a36]
 
 (1) The Local Government and Housing Act 1989 is amended as follows.
 
@@ -1075,11 +1075,11 @@ In section 174(2) of the Copyright, Designs and Patents Act 1988 for “local ed
 
   .
 
-#### 39. Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)[^key-d1943e8689946c90a5e3cbe44fd86ef3]
+#### 39. Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43)[^c-d1943e8689946c90a5e3cbe44fd86ef3]
 
 In section 98(2)(c)(iii) of the Environmental Protection Act 1990 for “local education authority” substitute “local authority as defined in section 579(1) of the Education Act 1996”.
 
-#### 40. Disability Discrimination Act [1995 (c. 50)](https://www.legislation.gov.uk/ukpga/1995/50)[^key-a3208bbf031404e51b663b3120aa9e87]
+#### 40. Disability Discrimination Act [1995 (c. 50)](https://www.legislation.gov.uk/ukpga/1995/50)[^c-a3208bbf031404e51b663b3120aa9e87]
 
 (1) The Disability Discrimination Act 1995 is amended as follows.
 
@@ -1145,7 +1145,7 @@ In section 98(2)(c)(iii) of the Environmental Protection Act 1990 for “local e
      ;
   - (iii) in the definition of “recruitment or training facilities” for “local education authorities” in both places where those words occur substitute “local authorities”.
 
-#### 41. Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18)[^key-e65644788d8d6b436edab89680d7dde6]
+#### 41. Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18)[^c-e65644788d8d6b436edab89680d7dde6]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -1172,7 +1172,7 @@ In section 98(2)(c)(iii) of the Environmental Protection Act 1990 for “local e
 
   > (11) In subsection (7) “local authority” has the meaning given by section 579(1) of the Education Act 1996.
 
-#### 42. Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)[^key-1bdf240fd740dd458199c6818bc0ea8c]
+#### 42. Data Protection Act [1998 (c. 29)](https://www.legislation.gov.uk/ukpga/1998/29)[^c-1bdf240fd740dd458199c6818bc0ea8c]
 
 (1) Schedule 11 of the Data Protection Act 1998 is amended as follows.
 
@@ -1182,7 +1182,7 @@ In section 98(2)(c)(iii) of the Environmental Protection Act 1990 for “local e
 
 > **4A.** In paragraphs 3 and 4 “local authority” has the meaning given by section 579(1) of the Education Act 1996.
 
-#### 43. Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37)[^key-69dabda9bb56dee87db5785678522fd9]
+#### 43. Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37)[^c-69dabda9bb56dee87db5785678522fd9]
 
 (1) Section 42 of the Crime and Disorder Act 1998 (sections 37 to 42: supplementary provisions) is amended as follows.
 
@@ -1192,15 +1192,15 @@ In section 98(2)(c)(iii) of the Environmental Protection Act 1990 for “local e
 
 > (2A) So far as relating to the Isles of Scilly, subsection (2) does not apply for the purposes of section 39A.
 
-#### 44. Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29)[^key-ff9874f38fed09f22453230531257de0]
+#### 44. Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29)[^c-ff9874f38fed09f22453230531257de0]
 
 In section 193(3) of the Greater London Authority Act 1999 for “local education authority” in each place where those words occur substitute “local authority”.
 
-#### 45. [Powers of Criminal Courts (Sentencing) Act 2000 ( c. 6)](https://www.legislation.gov.uk/ukpga/2000/6)[^key-ab171e878a06efb3343081d76f02ace1]
+#### 45. [Powers of Criminal Courts (Sentencing) Act 2000 ( c. 6)](https://www.legislation.gov.uk/ukpga/2000/6)[^c-ab171e878a06efb3343081d76f02ace1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21)[^key-a792be2feb1613e30c054ecee3e10f45]
+#### 46. Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21)[^c-a792be2feb1613e30c054ecee3e10f45]
 
 (1) The Learning and Skills Act 2000 is amended as follows.
 
@@ -1244,11 +1244,11 @@ In section 193(3) of the Greater London Authority Act 1999 for “local educatio
 
 > (5A) “Local authority in Wales” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
 
-#### 47. Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22)[^key-ad9af0042d42d1cc2c80959d636e9215]
+#### 47. Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22)[^c-ad9af0042d42d1cc2c80959d636e9215]
 
 (1) Schedule 1 to the Local Government Act 2000 is amended as follows.
 
-(2) In paragraphs [^key-bd45cf98994331fa4833c2edd8a8ef7b]... 8(1) and 9(1) for “which is a local education authority” substitute “which has education functions”.
+(2) In paragraphs [^c-bd45cf98994331fa4833c2edd8a8ef7b]... 8(1) and 9(1) for “which is a local education authority” substitute “which has education functions”.
 
 (3) in paragraph 10—
 
@@ -1259,7 +1259,7 @@ In section 193(3) of the Greater London Authority Act 1999 for “local educatio
 
 > **11A.** In paragraphs 7 to 9 “education functions” has the meaning given by section 579(1) of the Education Act 1996.
 
-#### 48. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^key-0c107f3aff011d256b5edcc471b6b096]
+#### 48. Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41)[^c-0c107f3aff011d256b5edcc471b6b096]
 
 (1) Paragraph 3 of Schedule 12 to the Political Parties, Elections and Referendums Act 2000 is amended as follows.
 
@@ -1269,7 +1269,7 @@ In section 193(3) of the Greater London Authority Act 1999 for “local educatio
 
 > (5) In this paragraph “local authority” has the meaning given by section 579(1) of the Education Act 1996.
 
-#### 49. Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43)[^key-3c7e39e54a259cd5e5739df5e5733ea3]
+#### 49. Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43)[^c-3c7e39e54a259cd5e5739df5e5733ea3]
 
 (1) Section 36 of the Criminal Justice and Court Services Act 2000 is amended as follows.
 
@@ -1281,7 +1281,7 @@ In section 193(3) of the Greater London Authority Act 1999 for “local educatio
 
 .
 
-#### 50. Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38)[^key-3eb292b7630aeb54ee6f46182cf74020]
+#### 50. Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38)[^c-3eb292b7630aeb54ee6f46182cf74020]
 
 (1) The Adoption and Children Act 2002 is amended as follows.
 
@@ -1297,7 +1297,7 @@ In section 193(3) of the Greater London Authority Act 1999 for “local educatio
 
   > (4) In this section “local authority” includes any body that is a local authority as defined in section 579(1) of the Education Act 1996 (in addition to the bodies mentioned in the definition in section 144(1)).
 
-#### 51. Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41)[^key-6daf28d403c94077a557f8c0087b4fe8]
+#### 51. Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41)[^c-6daf28d403c94077a557f8c0087b4fe8]
 
 (1) The Nationality, Immigration and Asylum Act 2002 is amended as follows.
 
@@ -1308,11 +1308,11 @@ In section 193(3) of the Greater London Authority Act 1999 for “local educatio
 
 (3) In section 37 for “local education authority” in each place where those words occur, substitute “local authority”.
 
-#### 52. Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38)[^key-899aa7cd31ec4c7b080286e232cb36ae]
+#### 52. Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38)[^c-899aa7cd31ec4c7b080286e232cb36ae]
 
 In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 for “local education authority” and “local education authorities” in each place where those words occur substitute “local authority” and “local authorities” respectively.
 
-#### 53. Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^key-5a576121873e07bd2e4abea16ca0d6e7]
+#### 53. Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^c-5a576121873e07bd2e4abea16ca0d6e7]
 
 (1) Section 325 of the Criminal Justice Act 2003 is amended as follows.
 
@@ -1343,7 +1343,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
   ;
 - (c) omit the definition of “social services authority”.
 
-#### 54. Carers (Equal Opportunities) Act [2004 (c. 15)](https://www.legislation.gov.uk/ukpga/2004/15)[^key-c9bf525e14487299dc841f555b72cf7a]
+#### 54. Carers (Equal Opportunities) Act [2004 (c. 15)](https://www.legislation.gov.uk/ukpga/2004/15)[^c-c9bf525e14487299dc841f555b72cf7a]
 
 (1) Section 3 of the Carers (Equal Opportunities) Act 2004 is amended as follows.
 
@@ -1351,7 +1351,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 
 (3) In subsection (7) omit the definition of “local education authority”.
 
-#### 55. Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31)[^key-0f0db766c05e27501f9c880157da8c15]
+#### 55. Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31)[^c-0f0db766c05e27501f9c880157da8c15]
 
 (1) The Children Act 2004 is amended as follows.
 
@@ -1396,7 +1396,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 - (d) omit subsection (5);
 - (e) in subsection (6) for “relevant functions of a children’s services authority in England or Wales” substitute “the functions of a local authority which are specified in subsection (2)”.
 
-#### 56. Income Tax (Trading and Other Income) Act [2005 (c.5)](https://www.legislation.gov.uk/ukpga/2005/5)[^key-e0328a116ed33a5d03c8839e8cf533a0]
+#### 56. Income Tax (Trading and Other Income) Act [2005 (c.5)](https://www.legislation.gov.uk/ukpga/2005/5)[^c-e0328a116ed33a5d03c8839e8cf533a0]
 
 (1) Section 71 of the Income Tax (Trading and Other Income) Act 2005 is amended as follows.
 
@@ -1412,7 +1412,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 
 > (4) In subsection (1) “local authority” and “education functions” have the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
 
-#### 57. Equality Act [2006 (c.3)](https://www.legislation.gov.uk/ukpga/2006/3)[^key-0f4802e90dbfae8581dc99c86e74e3f6]
+#### 57. Equality Act [2006 (c.3)](https://www.legislation.gov.uk/ukpga/2006/3)[^c-0f4802e90dbfae8581dc99c86e74e3f6]
 
 (1) The Equality Act 2006 is amended as follows.
 
@@ -1432,7 +1432,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 
 (4) In section 66(2)(a) for “local education authority” substitute “local authority”.
 
-#### 58. Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21)[^key-84e54df6c5be39222ee3fefbdcd132ee]
+#### 58. Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21)[^c-84e54df6c5be39222ee3fefbdcd132ee]
 
 (1) The Childcare Act 2006 is amended as follows.
 
@@ -1464,7 +1464,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 
 (5) In section 101(9), in paragraph (a) of the definition of “funded nursery education” for “local education authority” substitute “local authority” and for “LEA” substitute “local authority”.
 
-#### 59. Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-42c39478d361b81afaa4f88c28ec375b]
+#### 59. Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-42c39478d361b81afaa4f88c28ec375b]
 
 (1) The Government of Wales Act 2006 is amended as follows.
 
@@ -1476,7 +1476,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 - (b) in the description for the entry relating to section 40(3)(a) of the Education Act 2005, for “local education authority” substitute “local authority”;
 - (c) in the description for the entry relating to section 52(5) of the Education Act 2005, for “LEAs” substitute “local authorities”.
 
-#### 60. National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41)[^key-486a9534ad2b6d1e94acf60641d20b6e]
+#### 60. National Health Service Act [2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41)[^c-486a9534ad2b6d1e94acf60641d20b6e]
 
 (1) The National Health Service Act 2006 is amended as follows.
 
@@ -1493,7 +1493,7 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 - (a) in paragraph 1 for “local education authorities” substitute “local authorities”;
 - (b) in paragraphs 2, 4, 5 and 7A[^f00050] for “local education authority” in each place where those words occur substitute “local authority”.
 
-#### 61. National Health Service (Wales) Act [2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42)[^key-94c56c8d3e6c0f34858e66ccb5f65c95]
+#### 61. National Health Service (Wales) Act [2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42)[^c-94c56c8d3e6c0f34858e66ccb5f65c95]
 
 (1) The National Health Service (Wales) Act 2006 is amended as follows.
 
@@ -1510,19 +1510,19 @@ In sections 19 to 21, 22A[^f00048] and 24 of the Anti-social Behaviour Act 2003 
 - (a) in paragraph 1 for “local education authorities” substitute “local authorities”;
 - (b) for “local education authority” in each place where those words occur substitute “local authority”.
 
-#### 62. ...[^key-6619549b19ce7dac530ad604965a6233][^key-6619549b19ce7dac530ad604965a6233]
+#### 62. ...[^c-6619549b19ce7dac530ad604965a6233][^c-6619549b19ce7dac530ad604965a6233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 63. [Criminal Justice and Immigration Act 2008 (c.4 )](https://www.legislation.gov.uk/ukpga/2008/4)[^key-01abc52ce840b41ad4b97fba0477fd4a]
+#### 63. [Criminal Justice and Immigration Act 2008 (c.4 )](https://www.legislation.gov.uk/ukpga/2008/4)[^c-01abc52ce840b41ad4b97fba0477fd4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 64. Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14)[^key-c74c74f6e73877923f4aad99347be67e]
+#### 64. Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14)[^c-c74c74f6e73877923f4aad99347be67e]
 
 In section 144 of the Health and Social Care Act 2008 for “local education authority” in each place where those words occur substitute “local authority”.
 
-#### 65. Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23)[^key-5c9560948018577dc0702fb703ccc43d]
+#### 65. Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23)[^c-5c9560948018577dc0702fb703ccc43d]
 
 (1) Section 31 of the Children and Young Persons Act 2008 is amended as follows.
 
@@ -1533,7 +1533,7 @@ In section 144 of the Health and Social Care Act 2008 for “local education aut
 - (a) in the definition of “the appropriate Local Safeguarding Children Board” for “children’s services authority in England or in Wales” substitute “local authority”;
 - (b) for the words ““children’s services authority in England” and “children’s services authority in Wales” have” substitute ““local authority” has”.
 
-#### 66. Corporation Tax Act [2009 (c.4)](https://www.legislation.gov.uk/ukpga/2009/4)[^key-3391cede340ff68137fd623f719b394c]
+#### 66. Corporation Tax Act [2009 (c.4)](https://www.legislation.gov.uk/ukpga/2009/4)[^c-3391cede340ff68137fd623f719b394c]
 
 (1) Section 71 of the Corporation Tax Act 2009 is amended as follows.
 
@@ -1555,7 +1555,7 @@ In section 144 of the Health and Social Care Act 2008 for “local education aut
 
 Article 5(2)
 
-### Part 1 — Education Acts[^key-82d6494d8f9e0fedf9b43aed4231d5aa]
+### Part 1 — Education Acts[^c-82d6494d8f9e0fedf9b43aed4231d5aa]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -1569,7 +1569,7 @@ Article 5(2)
 | Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25) | In section 77(3) the definition of “local authority”. |
 | Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) | In section 50, in paragraph (a) of the definition of “the home authority” in subsection (1) of the section 562J inserted into the Education Act 1996 the words “the local authority”.<br>In section 194(8)(b), in paragraph (b) of the subsection (10) inserted into section 47A of the School Standards and Framework Act 1998 the words “in their capacity as a children’s services authority within the meaning of that Act”.<br>In section 194(9)(b) in the subsection (10) inserted into section 21 of the Education Act 2002 the words “in their capacity as a children’s services authority(within the meaning of that Act)”.<br>In section 246 in subsection (5)(b) of the section 93A inserted into the Education and Inspection Act 2006 the words “within the meaning of the Children Act 1989”.<br>In section 247 in subsection (5)(b) of the section 85D inserted into the Further and Higher Education Act 1992 the words “(within the meaning of the Children Act 1989)”.<br>In section 252–<br>- (a) subsection (2);<br>- (b) in subsection (3)(c) the words “, in its capacity as a children’s services authority in England,”;<br>- (c) in subsection (5)(a) the words “education functions or”;<br>- (d) in subsection (6) the definition of “children’s services authority in England”. |
 
-### Part 2 — Acts other than Education Acts[^key-a04ccf50477069d3b1ca8c664430b0e4]
+### Part 2 — Acts other than Education Acts[^c-a04ccf50477069d3b1ca8c664430b0e4]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -1595,12 +1595,12 @@ Article 5(2)
 
 Article 5(3)
 
-**1.**[^key-61bf7a9959b7fcf3bb1e2aa12b23fd4d] The table in paragraph 2 of the Schedule inserted into EA 1996 by article 3(4) has effect—
+**1.**[^c-61bf7a9959b7fcf3bb1e2aa12b23fd4d] The table in paragraph 2 of the Schedule inserted into EA 1996 by article 3(4) has effect—
 
 - (a) until the date on which sections 31 to 33 of the Learning and Skills (Wales) Measure 2009 come into force, with the omission of the entries relating to sections 33J to 33L of the Learning and Skills Act 2000, and
 - (b) until the date on which sections 11 to 13 of the Education (Wales) Measure 2009 come into force, with the omission of the entries relating to sections 28IC to 28IE of the Disability Discrimination Act 1995.
 
-**2.**[^key-b489dfcbbc1efc481b38db2746bb9787] (1) If section 194 of the Apprenticeships, Skills, Children and Learning Act 2009 comes into force on or before the day on which this Order comes into force, Schedule 2 to this Order has effect with the omission of —
+**2.**[^c-b489dfcbbc1efc481b38db2746bb9787] (1) If section 194 of the Apprenticeships, Skills, Children and Learning Act 2009 comes into force on or before the day on which this Order comes into force, Schedule 2 to this Order has effect with the omission of —
 
 - (a) paragraph 16(7), and
 - (b) the entries in Schedule 3 relating to section 194(8)(b) and (9)(b) of the Apprenticeships, Skills, Children and Learning Act 2009.
@@ -1612,9 +1612,9 @@ Article 5(3)
   - (i) section 47A(10)(b) of SSFA 1998, and
   - (ii) section 21(10) of EA 2002.
 
-**3.**[^key-0c146ac2eb1685f95d9c34f903dbfc46] Until section 51 of the Apprenticeships, Skills, Children and Learning Act 2009 comes into force, Part 2 of Schedule 2 to this Order has effect with the omission of paragraph 43.
+**3.**[^c-0c146ac2eb1685f95d9c34f903dbfc46] Until section 51 of the Apprenticeships, Skills, Children and Learning Act 2009 comes into force, Part 2 of Schedule 2 to this Order has effect with the omission of paragraph 43.
 
-**4.**[^key-13f60558b4fafe1a23ff94cdbafe2c57] If Schedule 6 and Part 2 of Schedule 16 to the Apprenticeships, Skills, Children and Learning Act 2009 are not in force on the day on which this Order comes into force, this Order has effect as if—
+**4.**[^c-13f60558b4fafe1a23ff94cdbafe2c57] If Schedule 6 and Part 2 of Schedule 16 to the Apprenticeships, Skills, Children and Learning Act 2009 are not in force on the day on which this Order comes into force, this Order has effect as if—
 
 - (a) in Schedule 1, in the entry for sections 96,101 and 102 of the Learning and Skills Act 2000, after “96,” there were inserted “97,”,
 - (b) after paragraph 46(2) of Schedule 2 there were inserted—
@@ -1638,7 +1638,7 @@ Article 5(3)
   , and
 - (c) in paragraph 46(9) of Schedule 2, after “local authority” there were inserted “,“local authority in England””.
 
-**5.**[^key-e6b5b026b65051eb4681760881a24ca8] (1) In the provisions specified in sub-paragraph (2) (to the extent that they continue in force by virtue of any savings made, in connection with their repeal by the Teaching and Higher Education Act 1998, by an order under section 46(4) of that Act) for “local education authority” and “local education authorities” in each place where those words occur substitute “local authority” and “local authorities” respectively.
+**5.**[^c-e6b5b026b65051eb4681760881a24ca8] (1) In the provisions specified in sub-paragraph (2) (to the extent that they continue in force by virtue of any savings made, in connection with their repeal by the Teaching and Higher Education Act 1998, by an order under section 46(4) of that Act) for “local education authority” and “local education authorities” in each place where those words occur substitute “local authority” and “local authorities” respectively.
 
 (2) The provisions are—
 
@@ -1648,7 +1648,7 @@ Article 5(3)
 - (d) section 209 of the Education Reform Act 1988;
 - (e) the Education (Student Loans) Act 1990[^f00053].
 
-**6.**[^key-b85ecf24acc5059c02672b59c1f42c08] In sections 60(4) and 61(4) and (5) of EA 1996 (to the extent that these provisions continue in force by virtue of any savings made, in connection with their repeal by SSFA 1998, by an order under section 145(3) of that Act) for “local education authority” in each place where those words occur substitute “local authority”.
+**6.**[^c-b85ecf24acc5059c02672b59c1f42c08] In sections 60(4) and 61(4) and (5) of EA 1996 (to the extent that these provisions continue in force by virtue of any savings made, in connection with their repeal by SSFA 1998, by an order under section 145(3) of that Act) for “local education authority” in each place where those words occur substitute “local authority”.
 
 EXPLANATORY NOTE
 
@@ -1673,23 +1673,23 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00002]: Footnote: As read with paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5c2f09035b7b46a1a6c1a2031846f25c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-5c2f09035b7b46a1a6c1a2031846f25c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-658ddcb5823c5a52c24342363be27a73]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1158/article/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-658ddcb5823c5a52c24342363be27a73]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1158/article/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00003]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-da4393c891b131d8e65eace85462fe72]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1158/article/3) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-da4393c891b131d8e65eace85462fe72]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1158/article/3) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-d801f0ee828a93ae40778e8b749c25ec]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1158/article/4) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-d801f0ee828a93ae40778e8b749c25ec]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1158/article/4) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00004]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
 
-[^key-24fdc32e125223977869d791ee5a1248]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1158/article/5) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-24fdc32e125223977869d791ee5a1248]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1158/article/5) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-433e3d91cacfeb8efdd4818834d67257]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/1/paragraph/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-433e3d91cacfeb8efdd4818834d67257]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/1/paragraph/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-aab12535394c2bc717f7788adbdca6a7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/1/paragraph/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-aab12535394c2bc717f7788adbdca6a7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/1/paragraph/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00005]: Footnote: Section 9(5A) was inserted by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) section 11.
 
@@ -1707,21 +1707,21 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00012]: Footnote: Schedule 7A was inserted by Schedule 9 to the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) and is amended by paragraph 53 of Schedule 6 to the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) to apply in relation to Wales only.
 
-[^key-f0af5a5887b3559d20d25c8555e649a4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-f0af5a5887b3559d20d25c8555e649a4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-e29ce3b837bd4626c09b5a23f99e3e0b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-e29ce3b837bd4626c09b5a23f99e3e0b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-d9a595466b1b90fa72ab648726d1a3b5]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/3) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-d9a595466b1b90fa72ab648726d1a3b5]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/3) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-016c0ed587224954d8d22e6e0f1f541c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-016c0ed587224954d8d22e6e0f1f541c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-7f1e7493d44295a8caaf72ca9b61aeef]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-7f1e7493d44295a8caaf72ca9b61aeef]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-7d648c629bc31e01f04b30e1b1df9653]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/6) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-7d648c629bc31e01f04b30e1b1df9653]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/6) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00013]: Footnote: Section 11A was inserted by the Education Act 1996, Schedule 37, paragraph 126.
 
-[^key-12bb489bfef3393af1cbb70df0faad96]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-12bb489bfef3393af1cbb70df0faad96]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00014]: Footnote: Section 497A was inserted by section 8 of the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31) and amended by section 60 of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
@@ -1729,13 +1729,13 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00016]: Footnote: Schedule 35A was inserted by Part I of Schedule 7 to the Education Act 2002.
 
-[^key-64589d0f361b721f9a33f162bfa884cc]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-64589d0f361b721f9a33f162bfa884cc]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00017]: Footnote: Section 38 (2A) was inserted by section 51 of the Children Act 2004.
 
-[^key-9ad83eba920e7b4410df35bc492ed56f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/9) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-9ad83eba920e7b4410df35bc492ed56f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/9) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-f133dd75bff1228e383e69cffff8d42d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-f133dd75bff1228e383e69cffff8d42d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00018]: Footnote: Section 23A was inserted by section 33 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
@@ -1753,41 +1753,41 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00025]: Footnote: Part A1 of Schedule 22 was inserted by Schedule 4 to the Education and Inspections Act 2006.
 
-[^key-fb3c16e907c336baa94e541e7dbba244]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-fb3c16e907c336baa94e541e7dbba244]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00026]: Footnote: Subsections (5) to (9) were inserted by section 38(1) of the Education and Inspections Act 2002 and subsection (10) is inserted by section 194(9) of the Apprenticeships, Skills, Children and Learning Act 2009.
 
-[^key-07e38255fbb98b2e3c693540d54391f9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/12) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-07e38255fbb98b2e3c693540d54391f9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/12) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-63a52ab0195afbfd77ac5cc0404c3bd9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-63a52ab0195afbfd77ac5cc0404c3bd9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-c185554cedc178cc5aca755fa050eaf6]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-c185554cedc178cc5aca755fa050eaf6]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-d252f5687bd4993cf5531f08278300d8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-d252f5687bd4993cf5531f08278300d8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-d6cd73b2e3ccef0fd4e36bbe638c342d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-d6cd73b2e3ccef0fd4e36bbe638c342d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-4dbf19df44e48c94a47bed2d50a9dfe4]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-4dbf19df44e48c94a47bed2d50a9dfe4]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-5e8acac6c87d766a84a0b567465e5853]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/18) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-5e8acac6c87d766a84a0b567465e5853]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/18) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-105f8ffa497f8d11e42639541778550e]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/19) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-105f8ffa497f8d11e42639541778550e]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/19) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-a03dc4bf55510c96144e093882ac33f7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/20) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-a03dc4bf55510c96144e093882ac33f7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/20) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-c33327a92f1b89e2b294c43359b3d12d]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/21) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-c33327a92f1b89e2b294c43359b3d12d]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/21) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-9240c89972f0b0eb0d4bdac11cb66d49]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/22) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-9240c89972f0b0eb0d4bdac11cb66d49]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/22) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00027]: Footnote: Paragraph 5 of Schedule 3 was amended by paragraph 66 of Schedule 12 to the Education Reform Act 1988.
 
-[^key-27932fe00db65f9fb1639c68d743e977]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/23) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-27932fe00db65f9fb1639c68d743e977]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/23) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-c089e6e6f90e9c3a6e32efba2f73fca8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/24) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-c089e6e6f90e9c3a6e32efba2f73fca8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/24) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00028]: Footnote: Section 8 (2) (b) was amended by paragraph 69 of Schedule 12 to the Education Reform Act 1988.
 
-[^key-cf40a98a8e33be22a3eca5c55f9aae84]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/25) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-cf40a98a8e33be22a3eca5c55f9aae84]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/25) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00029]: Footnote: The entry for this Act was inserted by paragraph 7 of Schedule 5 to the [Local Government Act 2000 (c..22)](https://www.legislation.gov.uk/ukpga/2000/22).
 
@@ -1795,13 +1795,13 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00031]: Footnote: The entry relating to the Education Act 1996 was inserted by paragraph 18 of Schedule 37 to that Act.
 
-[^key-a8a481393629c35691b69cae2539b223]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/26) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-a8a481393629c35691b69cae2539b223]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/26) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-676435117305c665903628fd582dcbfd]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-676435117305c665903628fd582dcbfd]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00032]: Footnote: Section 9(5A) was inserted by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) section 11.
 
-[^key-a423b83ed62995f509466d87168c659d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-a423b83ed62995f509466d87168c659d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/28) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00033]: Footnote: Section 10A was inserted by Trade Union Reform and Employment Rights Act [1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19) section 46.
 
@@ -1809,25 +1809,25 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00035]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44); section 135(1) was amended by paragraph 118(9) of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-e2b4a9d20e7b0e747b0eac0e2c7644a3]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/29) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-e2b4a9d20e7b0e747b0eac0e2c7644a3]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/29) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-cf5846e55f46989820cd3d3580033732]: Textual amendment: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/30) revoked (4.4.2011) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/3) (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
+[^c-cf5846e55f46989820cd3d3580033732]: Textual amendment: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/30) revoked (4.4.2011) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/3) (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
 
-[^key-4ae518da554bcaed091060e8df447c0c]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/31) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-4ae518da554bcaed091060e8df447c0c]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/31) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-d2e059d9d4882f4c05d2a5c65bd86869]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/32) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-d2e059d9d4882f4c05d2a5c65bd86869]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/32) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-980fa9fb9033a8bafe3eb8325e308675]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-980fa9fb9033a8bafe3eb8325e308675]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-8e6fb4252e3f95da80bca41c49b7280c]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/34) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-8e6fb4252e3f95da80bca41c49b7280c]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/34) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00037]: Footnote: Section 6(1B) was inserted by paragraph 2(3) of Schedule 10 to the Education and Inspections Act 2006.
 
-[^key-4f6b3442c126ffa88250260754334d9d]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/35) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-4f6b3442c126ffa88250260754334d9d]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/35) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-50d769c2b673eee3bf3942489159075d]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/36) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-50d769c2b673eee3bf3942489159075d]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/36) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-840e45b93c54c0d10fa803c44bd75cd3]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/37) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-840e45b93c54c0d10fa803c44bd75cd3]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/37) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00038]: Footnote: Section 24C was inserted by section 4(1) of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35).
 
@@ -1837,11 +1837,11 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00041]: Footnote: Schedule 9A was inserted by Schedule 3 to the Care Standards Act 2000.
 
-[^key-e22bcc004d87bfbb178d8c1732a35a36]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/38) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-e22bcc004d87bfbb178d8c1732a35a36]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/38) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-d1943e8689946c90a5e3cbe44fd86ef3]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/39) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-d1943e8689946c90a5e3cbe44fd86ef3]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/39) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-a3208bbf031404e51b663b3120aa9e87]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/40) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-a3208bbf031404e51b663b3120aa9e87]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/40) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00042]: Footnote: Section 14A was inserted by [SI 2003/1673](https://www.legislation.gov.uk/uksi/2003/1673).
 
@@ -1851,83 +1851,83 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00045]: Footnote: Schedule 4C was substituted by [SI 2006/1721](https://www.legislation.gov.uk/uksi/2006/1721).
 
-[^key-e65644788d8d6b436edab89680d7dde6]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/41) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-e65644788d8d6b436edab89680d7dde6]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/41) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-1bdf240fd740dd458199c6818bc0ea8c]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/42) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-1bdf240fd740dd458199c6818bc0ea8c]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/42) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-69dabda9bb56dee87db5785678522fd9]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/43) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-69dabda9bb56dee87db5785678522fd9]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/43) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-ff9874f38fed09f22453230531257de0]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/44) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-ff9874f38fed09f22453230531257de0]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/44) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-ab171e878a06efb3343081d76f02ace1]: Textual amendment: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/45) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ab171e878a06efb3343081d76f02ace1]: Textual amendment: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/45) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a792be2feb1613e30c054ecee3e10f45]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-a792be2feb1613e30c054ecee3e10f45]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00046]: Footnote: Section 113A was inserted by the Education Act 2002 section 72 and amended by paragraph 49 of Schedule 6 to the Apprenticeships, Skills, Children and Learning Act 2009.
 
 [^f00047]: Footnote: Section 139B was inserted by the Education and Skills Act 2008 section 80.
 
-[^key-ad9af0042d42d1cc2c80959d636e9215]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/47) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-ad9af0042d42d1cc2c80959d636e9215]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/47) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-bd45cf98994331fa4833c2edd8a8ef7b]: Textual amendment: Word in [Sch. 2 para. 47(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/47/2) revoked (4.5.2012 for E.W.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-bd45cf98994331fa4833c2edd8a8ef7b]: Textual amendment: Word in [Sch. 2 para. 47(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/47/2) revoked (4.5.2012 for E.W.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
 
-[^key-0c107f3aff011d256b5edcc471b6b096]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/48) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-0c107f3aff011d256b5edcc471b6b096]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/48) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-3c7e39e54a259cd5e5739df5e5733ea3]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/49) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-3c7e39e54a259cd5e5739df5e5733ea3]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/49) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-3eb292b7630aeb54ee6f46182cf74020]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/50) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-3eb292b7630aeb54ee6f46182cf74020]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/50) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-6daf28d403c94077a557f8c0087b4fe8]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/51) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-6daf28d403c94077a557f8c0087b4fe8]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/51) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-899aa7cd31ec4c7b080286e232cb36ae]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/52) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-899aa7cd31ec4c7b080286e232cb36ae]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/52) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00048]: Footnote: Section 22A was inserted by section 99(3) of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-5a576121873e07bd2e4abea16ca0d6e7]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/53) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-5a576121873e07bd2e4abea16ca0d6e7]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/53) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-c9bf525e14487299dc841f555b72cf7a]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/54) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-c9bf525e14487299dc841f555b72cf7a]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/54) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-0f0db766c05e27501f9c880157da8c15]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/55) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-0f0db766c05e27501f9c880157da8c15]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/55) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00049]: Footnote: Section 10(4)(fa) was inserted by section 193(2)(a) of the Apprenticeships, Skills, Children and Learning Act 2009 .
 
-[^key-e0328a116ed33a5d03c8839e8cf533a0]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/56) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-e0328a116ed33a5d03c8839e8cf533a0]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/56) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-0f4802e90dbfae8581dc99c86e74e3f6]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/57) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-0f4802e90dbfae8581dc99c86e74e3f6]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/57) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-84e54df6c5be39222ee3fefbdcd132ee]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/58) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-84e54df6c5be39222ee3fefbdcd132ee]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/58) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-42c39478d361b81afaa4f88c28ec375b]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/59) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-42c39478d361b81afaa4f88c28ec375b]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/59) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-486a9534ad2b6d1e94acf60641d20b6e]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/60) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-486a9534ad2b6d1e94acf60641d20b6e]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/60) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00050]: Footnote: Paragraph 7A of Schedule 1 was inserted by section 143 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-94c56c8d3e6c0f34858e66ccb5f65c95]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/61) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-94c56c8d3e6c0f34858e66ccb5f65c95]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/61) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-6619549b19ce7dac530ad604965a6233]: Textual amendment: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/62) and heading revoked (10.9.2012 immediately after the coming into force of [S.I. 2012/2157](https://www.legislation.gov.uk/uksi/2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-6619549b19ce7dac530ad604965a6233]: Textual amendment: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/62) and heading revoked (10.9.2012 immediately after the coming into force of [S.I. 2012/2157](https://www.legislation.gov.uk/uksi/2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-01abc52ce840b41ad4b97fba0477fd4a]: Textual amendment: [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/63) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-01abc52ce840b41ad4b97fba0477fd4a]: Textual amendment: [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/63) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c74c74f6e73877923f4aad99347be67e]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/64) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-c74c74f6e73877923f4aad99347be67e]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/64) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-5c9560948018577dc0702fb703ccc43d]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/65) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-5c9560948018577dc0702fb703ccc43d]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/65) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-3391cede340ff68137fd623f719b394c]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/66) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-3391cede340ff68137fd623f719b394c]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/66) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-82d6494d8f9e0fedf9b43aed4231d5aa]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-82d6494d8f9e0fedf9b43aed4231d5aa]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-a04ccf50477069d3b1ca8c664430b0e4]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-a04ccf50477069d3b1ca8c664430b0e4]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-61bf7a9959b7fcf3bb1e2aa12b23fd4d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-61bf7a9959b7fcf3bb1e2aa12b23fd4d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/1) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-b489dfcbbc1efc481b38db2746bb9787]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-b489dfcbbc1efc481b38db2746bb9787]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/2) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-0c146ac2eb1685f95d9c34f903dbfc46]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/3) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-0c146ac2eb1685f95d9c34f903dbfc46]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/3) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-13f60558b4fafe1a23ff94cdbafe2c57]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/4) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-13f60558b4fafe1a23ff94cdbafe2c57]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/4) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
-[^key-e6b5b026b65051eb4681760881a24ca8]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/5) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-e6b5b026b65051eb4681760881a24ca8]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/5) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
 
 [^f00051]: Footnote: [1962 c.12](https://www.legislation.gov.uk/ukpga/1962/12)
 
@@ -1935,4 +1935,4 @@ Schedule 2 (divided into two parts covering Education Acts and Acts other than E
 
 [^f00053]: Footnote: [1990 c.6](https://www.legislation.gov.uk/ukpga/1990/6)
 
-[^key-b85ecf24acc5059c02672b59c1f42c08]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/6) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)
+[^c-b85ecf24acc5059c02672b59c1f42c08]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2010/1158/schedule/4/paragraph/6) in force at 5.5.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1)

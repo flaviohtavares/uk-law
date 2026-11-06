@@ -236,7 +236,7 @@ or to do any ancillary thing.
 
 No stamp duty shall be payable on any conveyance or transfer of property made under section 9 above to any such institution or body as is mentioned in subsection (2) of that section or on any conveyance or transfer made under subsection (4) of that section.
 
-### 11A. Stamp duty land tax[^key-962ea7bc84b7dcffdc8cd36a7757bbae]
+### 11A. Stamp duty land tax[^c-962ea7bc84b7dcffdc8cd36a7757bbae]
 
 (1) A land transaction—
 
@@ -281,7 +281,7 @@ shall include references to interest payable under section 18 of the [^c1151930]
 
 (3) No Order shall be made under this section unless a draft of the Order has been laid before, and approved by a resolution of, each House of Parliament.
 
-### 15. Abolition of National Land Fund.[^key-8856efe0e15fcd743c548f74351dadd1]
+### 15. Abolition of National Land Fund.[^c-8856efe0e15fcd743c548f74351dadd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -365,7 +365,7 @@ Section 1(4).
 
 **1.** The Trustees shall not be regarded as acting on behalf of the Crown and neither they nor their officers or servants shall be regarded as Crown servants.
 
-**2.** Section 40 of the[^c1152003] [^c1152004]General Rate Act 1967 (relief for charities and other organisations)Sections 43(6), *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d18c72b88a4a59e70caea4ea205381b] 45(6) *(Extent: E+W)* *(affected by repeal, see note)*[^key-d9eda9f2646324404530d0def21a852d] *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d18c72b88a4a59e70caea4ea205381b]45A *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d18c72b88a4a59e70caea4ea205381b] and 47 of *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d18c72b88a4a59e70caea4ea205381b] Section 47 of, and *(Extent: E+W)* paragraph 2 *(Extent: E+W)* of *(Extent: E+W)* Schedule 4ZA *(Extent: E+W)*, *(Extent: E+W)* paragraph 2 *(Extent: E+W)* of *(Extent: E+W)* Schedule 4ZB *(Extent: E+W)* and *(Extent: E+W)* paragraph 2 *(Extent: E+W)* of *(Extent: E+W)* Schedule 5A *(Extent: E+W)* to, *(Extent: E+W)* the Local Government Finance Act 1988, section 4 of the [^c1152006]Local Government (Financial Provisions etc.) (Scotland) Act 1962 (corresponding provisions for Scotland) and Article 41 of the [^c1152007]Rates (Northern Ireland) Order 1977 (corresponding provisions for Northern Ireland) shall apply to any hereditament, lands and heritages occupied by the Trustees for the purposes of this Act as they apply to a hereditament, lands and heritages occupied by trustees for a charity.
+**2.** Section 40 of the[^c1152003] [^c1152004]General Rate Act 1967 (relief for charities and other organisations)Sections 43(6), *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d18c72b88a4a59e70caea4ea205381b] 45(6) *(Extent: E+W)* *(affected by repeal, see note)*[^c-d9eda9f2646324404530d0def21a852d] *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d18c72b88a4a59e70caea4ea205381b]45A *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d18c72b88a4a59e70caea4ea205381b] and 47 of *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d18c72b88a4a59e70caea4ea205381b] Section 47 of, and *(Extent: E+W)* paragraph 2 *(Extent: E+W)* of *(Extent: E+W)* Schedule 4ZA *(Extent: E+W)*, *(Extent: E+W)* paragraph 2 *(Extent: E+W)* of *(Extent: E+W)* Schedule 4ZB *(Extent: E+W)* and *(Extent: E+W)* paragraph 2 *(Extent: E+W)* of *(Extent: E+W)* Schedule 5A *(Extent: E+W)* to, *(Extent: E+W)* the Local Government Finance Act 1988, section 4 of the [^c1152006]Local Government (Financial Provisions etc.) (Scotland) Act 1962 (corresponding provisions for Scotland) and Article 41 of the [^c1152007]Rates (Northern Ireland) Order 1977 (corresponding provisions for Northern Ireland) shall apply to any hereditament, lands and heritages occupied by the Trustees for the purposes of this Act as they apply to a hereditament, lands and heritages occupied by trustees for a charity.
 
 ### Tenure of office of trustee
 
@@ -379,7 +379,7 @@ Section 1(4).
 
 - (a) for a period of six months beginning not more than nine months previously he has, without the consent of the other trustees, failed to attend the meetings of the trustees;
 - (b) he is an undischarged bankrupt or has made an arrangement with his creditors or is insolvent within the meaning of paragraph 9(2)(a) of Schedule 3 to the [^c1152009]Conveyancing and Feudal Reform (Scotland) Act 1970;
-- (ba)[^key-452bf84b1b5b1f605f26aad2a710b063] he is a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986);
+- (ba)[^c-452bf84b1b5b1f605f26aad2a710b063] he is a person in relation to whom a moratorium period under a debt relief order applies (under Part 7A of the Insolvency Act 1986);
 - (c) he is by reason of physical or mental illness, or for any other reason, incapable of carrying out his duties; or
 - (d) he has been convicted of such a criminal offence, or his conduct has been such, that it is not in the Prime Minister’s opinion fitting that he should remain a trustee.
 
@@ -498,7 +498,7 @@ Section 1(4).
 
 [^c1151913]: Textual amendment: Words in s. 10(1)-(3) substituted (3. 7. 1992) by [S.I. 1992/1311](https://www.legislation.gov.uk/uksi/1992/1311), [art. 12(2)](https://www.legislation.gov.uk/uksi/1992/1311/article/12/2), [Sch. 2 para. 5(2)(a)(4)](https://www.legislation.gov.uk/uksi/1992/1311/schedule/2/paragraph/5/2/a/4).
 
-[^key-962ea7bc84b7dcffdc8cd36a7757bbae]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1980/17/section/11A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/10)
+[^c-962ea7bc84b7dcffdc8cd36a7757bbae]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/1980/17/section/11A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/10)
 
 [^c1151922]: Textual amendment: S. 12(1) repealed by [Capital Transfer Tax Act 1984 (c. 51, SIF 65)](https://www.legislation.gov.uk/ukpga/1984/51), [s. 277](https://www.legislation.gov.uk/ukpga/1984/51/section/277), [Sch. 9](https://www.legislation.gov.uk/ukpga/1984/51/schedule/9)
 
@@ -522,7 +522,7 @@ Section 1(4).
 
 [^c1151935]: Textual amendment: Words substituted by [Capital Transfer Tax Act 1984 (c. 51, SIF 65)](https://www.legislation.gov.uk/ukpga/1984/51), [s. 276](https://www.legislation.gov.uk/ukpga/1984/51/section/276), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1984/51/schedule/8/paragraph/16)
 
-[^key-8856efe0e15fcd743c548f74351dadd1]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1980/17/section/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 10
+[^c-8856efe0e15fcd743c548f74351dadd1]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1980/17/section/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 10
 
 [^c1151969]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1980/17/section/16): powers transferred (1.7.1999) by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1)
 
@@ -568,9 +568,9 @@ Section 1(4).
 
 [^c1152004]: Marginal citation: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
 
-[^key-0d18c72b88a4a59e70caea4ea205381b]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/17/schedule/1/paragraph/2) substituted (E.W.) (with effect in relation to financial years beginning on or after 1.4.2024) by [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/17)
+[^c-0d18c72b88a4a59e70caea4ea205381b]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/17/schedule/1/paragraph/2) substituted (E.W.) (with effect in relation to financial years beginning on or after 1.4.2024) by [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/17)
 
-[^key-d9eda9f2646324404530d0def21a852d]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/17/schedule/1/paragraph/2) substituted (E.W.) (19.7.2007 with effect in accordance with s. 3(3)) by [Rating (Empty Properties) Act 2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2007/9/section/3/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2007/9/schedule/1/paragraph/7)
+[^c-d9eda9f2646324404530d0def21a852d]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/17/schedule/1/paragraph/2) substituted (E.W.) (19.7.2007 with effect in accordance with s. 3(3)) by [Rating (Empty Properties) Act 2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2007/9/section/3/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2007/9/schedule/1/paragraph/7)
 
 [^c1152006]: Marginal citation: [1962 c. 9](https://www.legislation.gov.uk/ukpga/1962/9).
 
@@ -578,7 +578,7 @@ Section 1(4).
 
 [^c1152009]: Marginal citation: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-452bf84b1b5b1f605f26aad2a710b063]: Textual amendment: [Sch. 1 para. 3(4)(ba)](https://www.legislation.gov.uk/ukpga/1980/17/schedule/1/paragraph/3/4/ba) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/11) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-452bf84b1b5b1f605f26aad2a710b063]: Textual amendment: [Sch. 1 para. 3(4)(ba)](https://www.legislation.gov.uk/ukpga/1980/17/schedule/1/paragraph/3/4/ba) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/11) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c1152010]: Textual amendment: Sch. 1 para. 3(4A) inserted (20.4.2000) by [S.I. 2000/1102](https://www.legislation.gov.uk/uksi/2000/1102), [arts. 4](https://www.legislation.gov.uk/uksi/2000/1102/article/4), [6(2)](https://www.legislation.gov.uk/uksi/2000/1102/article/6/2) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2000/1102/article/6/1))
 

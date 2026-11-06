@@ -42,15 +42,15 @@ Coming into force
 
 A draft of these Regulations was laid before Parliament in accordance with section 236(3) of the Employment Rights Act 1996[^f00001] and approved by a resolution of each House of Parliament.
 
-The Secretary of State, in exercise of the powers conferred by sections 47C(2), 75E, 75F(1), (4), (7) to (14), and (16), 75G(1) to (6), 75H(1), (4), (7) to (14), and (16), 75I(1), (4), and (5), 75J, 75K(1) and (6), and 99 of the Employment Rights Act 1996[^f00002], makes the following Regulations.[^key-ddde574e0a2940daa2e585dd6723ca13][^key-9926588e7c97adbcc79998f43fff50c5]
+The Secretary of State, in exercise of the powers conferred by sections 47C(2), 75E, 75F(1), (4), (7) to (14), and (16), 75G(1) to (6), 75H(1), (4), (7) to (14), and (16), 75I(1), (4), and (5), 75J, 75K(1) and (6), and 99 of the Employment Rights Act 1996[^f00002], makes the following Regulations.[^c-ddde574e0a2940daa2e585dd6723ca13][^c-9926588e7c97adbcc79998f43fff50c5]
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-a1e6a6805b3d98db81d973ba8abafafb]
+### 1. Citation and commencement[^c-a1e6a6805b3d98db81d973ba8abafafb]
 
 These Regulations may be cited as the Shared Parental Leave Regulations 2014 and come into force on 1st December 2014.
 
-### 2. Application[^key-55cf3294480c6acd1c7d373ff920dc3c]
+### 2. Application[^c-55cf3294480c6acd1c7d373ff920dc3c]
 
 (1) The provisions relating to shared parental leave in Part 2 have effect only in relation to children whose expected week of birth begins on or after 5th April 2015.
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 (4) Regulation 43 (unfair dismissal) has effect only in relation to dismissals where the effective date of termination (within the meaning of section 97 of the 1996 Act[^f00003]) falls on or after 1st December 2014.
 
-### 3. Interpretation[^key-ed3c3a1ea25707e5282357335ff28cb2]
+### 3. Interpretation[^c-ed3c3a1ea25707e5282357335ff28cb2]
 
 (1) In these Regulations—
 
@@ -122,7 +122,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 ### CHAPTER 1 — Entitlement to leave – general
 
-#### 4. Mother’s entitlement to shared parental leave[^key-006a35be302d2d097dd983e00d21b611]
+#### 4. Mother’s entitlement to shared parental leave[^c-006a35be302d2d097dd983e00d21b611]
 
 (1) M is entitled to be absent from work to take shared parental leave in accordance with Chapter 2 to care for C if she satisfies the conditions specified in paragraph (2) and P satisfies the conditions specified in paragraph (3).
 
@@ -143,7 +143,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 (4) Entitlement under paragraph (1) is not affected by the number of children born or expected as a result of the same pregnancy.
 
-#### 5. Father’s or partner’s entitlement to shared parental leave[^key-41697288fc221c6d6472236a589d694f]
+#### 5. Father’s or partner’s entitlement to shared parental leave[^c-41697288fc221c6d6472236a589d694f]
 
 (1) P is entitled to be absent from work to take shared parental leave in accordance with Chapter 2 to care for C if P satisfies the conditions specified in paragraph (2) and M satisfies the conditions specified in paragraph (3).
 
@@ -167,7 +167,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 (4) Entitlement under paragraph (1) is not affected by the number of children born or expected as a result of the same pregnancy.
 
-#### 6. Calculation of total amount of shared parental leave available (birth)[^key-13ee1dc8d2102cd2d5b6ffd57256fed7]
+#### 6. Calculation of total amount of shared parental leave available (birth)[^c-13ee1dc8d2102cd2d5b6ffd57256fed7]
 
 (1) Where M is entitled to statutory maternity leave, subject to paragraph (10), the total amount of shared parental leave available to M and P in relation to C is 52 weeks less—
 
@@ -194,7 +194,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 - (a) any shared parental leave which M has notified under regulation 12 (as varied by any notice under regulation 15),
 - (b) any period of leave which is required to be taken in accordance with paragraph (1) of regulation 18, and
-- (c) any weeks of statutory shared parental pay to which M[^key-f95df528a553a5af7451b54cc620a0c7] is entitled and during which M is not absent on shared parental leave.
+- (c) any weeks of statutory shared parental pay to which M[^c-f95df528a553a5af7451b54cc620a0c7] is entitled and during which M is not absent on shared parental leave.
 
 (6) For the purposes of paragraphs (4)(a) and (5)(a), any leave notified but, as a result of M giving a revocation notice, not taken must be disregarded.
 
@@ -227,7 +227,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
   .
 
-#### 7. Periods when shared parental leave may be taken[^key-59cba1ecaf0f0dad29f60c496b50d409]
+#### 7. Periods when shared parental leave may be taken[^c-59cba1ecaf0f0dad29f60c496b50d409]
 
 (1) Shared parental leave may be taken at any time within the period which begins on the date C is born (or, where more than one child is born as the result of the same pregnancy, the date on which the first child is born) and ends the day before C’s first birthday.
 
@@ -242,7 +242,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 - (a) absent on leave provided for in Part 8 of the 1996 Act in relation to C;
 - (b) in receipt of pay under section 35 or Part 12, 12ZA, or 12ZC of the 1992 Act[^f00032] in relation to C.
 
-#### 8. Mother’s notice of entitlement and intention to take shared parental leave[^key-5ef74c87f318ddda6f9399df2037addd]
+#### 8. Mother’s notice of entitlement and intention to take shared parental leave[^c-5ef74c87f318ddda6f9399df2037addd]
 
 (1) M must, not less than eight weeks before the start date of the first period of shared parental leave to be taken by M, give her employer a written notice which contains the information specified in paragraph (2) and is accompanied by the declarations specified in paragraph (3).
 
@@ -275,7 +275,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 (6) The indication provided in accordance with paragraph (2)(g) is non-binding and must not be treated as a period of leave notice unless otherwise indicated in the notice.
 
-#### 9. Father’s or partner’s notice of entitlement and intention to take shared parental leave[^key-57bc782b6b00b28162a269ecc1159f78]
+#### 9. Father’s or partner’s notice of entitlement and intention to take shared parental leave[^c-57bc782b6b00b28162a269ecc1159f78]
 
 (1) P must, not less than eight weeks before the start date of the first period of shared parental leave to be taken by P, give P’s employer a written notice which contains the information specified in paragraph (2) and is accompanied by the declarations specified in paragraph (3).
 
@@ -310,7 +310,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 (5) The indication provided in accordance with paragraph (2)(g) is non-binding and must not be treated as a period of leave notice unless otherwise indicated in the notice.
 
-#### 10. Supplementary evidence requirements (birth)[^key-73644f070f8ce4fc61974aeb7083a76e]
+#### 10. Supplementary evidence requirements (birth)[^c-73644f070f8ce4fc61974aeb7083a76e]
 
 (1) Where M gives a notice under regulation 8 (excluding any notice given under regulation 8(5)), her employer may request within 14 days beginning with the date on which that notice was given—
 
@@ -337,7 +337,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 - (a) the name and address requested, or
 - (b) a declaration that M or P, as the case may be, has no employer.
 
-#### 11. Variation of notice of intention to take shared parental leave (birth)[^key-965473ff8bc83d4665485e9612ea01b6]
+#### 11. Variation of notice of intention to take shared parental leave (birth)[^c-965473ff8bc83d4665485e9612ea01b6]
 
 (1) M may give M’s employer a written notice to vary a notice given under regulation 8 to vary how much shared parental leave M and P each intend to take.
 
@@ -358,7 +358,7 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 
 ### CHAPTER 2 — Entitlement to particular periods of leave
 
-#### 12. Period of leave notice (birth)[^key-0d1d0e8c37c7daf6f4828cc7da1cd183]
+#### 12. Period of leave notice (birth)[^c-0d1d0e8c37c7daf6f4828cc7da1cd183]
 
 (1) M may only be absent from work to take a period of shared parental leave if she gives her employer a written notice which sets out the start and end dates of each period of shared parental leave requested in that notice.
 
@@ -379,11 +379,11 @@ These Regulations may be cited as the Shared Parental Leave Regulations 2014 and
 - (a) be given before a notice is given to the employer under regulation 8 or 9, as the case may be;
 - (b) request leave with a start or end date which is outside of the period in which shared parental leave may be taken (see regulation 7(1)).
 
-#### 13. Continuous period of shared parental leave (birth)[^key-46ba64d7a98b100e576b23615640f907]
+#### 13. Continuous period of shared parental leave (birth)[^c-46ba64d7a98b100e576b23615640f907]
 
 Where an employee gives a notice under regulation 12 which requests one continuous period of shared parental leave, the employee is entitled to take that period of leave.
 
-#### 14. Discontinuous periods of shared parental leave (birth)[^key-57620111c4b73f7ce321f03a2ed08f5c]
+#### 14. Discontinuous periods of shared parental leave (birth)[^c-57620111c4b73f7ce321f03a2ed08f5c]
 
 (1) This regulation applies where an employee gives a notice under regulation 12 which requests discontinuous periods of shared parental leave.
 
@@ -409,7 +409,7 @@ the employee is entitled to take the leave on the dates agreed.
 
 (6) An employee may withdraw a notice which requests discontinuous periods of shared parental leave on or before the 15th day after the notice was given unless the employee and employer have agreed to periods of leave.
 
-#### 15. Variation of period of leave (birth)[^key-a57b74f8b11f5d4073d83dae2c66413f]
+#### 15. Variation of period of leave (birth)[^c-a57b74f8b11f5d4073d83dae2c66413f]
 
 (1) Where an employee is entitled to a period of leave under regulation 13 or 14, the employee may give a written notice to request a variation of that period of leave.
 
@@ -417,15 +417,15 @@ the employee is entitled to take the leave on the dates agreed.
 
 - (a) vary the start date or the end date of any period of shared parental leave provided that the notice is given not less than eight weeks before both the date varied and the new date;
 - (b) request that a single period of leave become discontinuous periods of leave or vice versa;
-- (c)[^key-e6bbb694b64a2880dda1d2cd67c7683f] cancel the leave requested provided that the notice is given not less than eight weeks before the leave cancelled by the notice is due to commence.
+- (c)[^c-e6bbb694b64a2880dda1d2cd67c7683f] cancel the leave requested provided that the notice is given not less than eight weeks before the leave cancelled by the notice is due to commence.
 
 (3) A notice under paragraph (1) must state what periods of shared parental leave the employee is entitled to under regulation 13 or 14.
 
 (4) A notice under paragraph (1) may not request leave with a start or end date which is outside of the period in which shared parental leave may be taken (see regulation 7(1)).
 
-(5)[^key-cec311f9a4118aff59b62de33aa484e8] Regulations 13 and 14 apply to a notice under paragraph (1) as they apply to a period of leave notice given in accordance with regulation 12; and for these purposes a reference in those regulations to a notice under regulation 12 (however expressed) is to be read as a reference to a notice under paragraph (1).
+(5)[^c-cec311f9a4118aff59b62de33aa484e8] Regulations 13 and 14 apply to a notice under paragraph (1) as they apply to a period of leave notice given in accordance with regulation 12; and for these purposes a reference in those regulations to a notice under regulation 12 (however expressed) is to be read as a reference to a notice under paragraph (1).
 
-#### 16. Limit on number of period of leave notices or variations (birth)[^key-db18e11be0bd5ba450b7853f1bb6aa82]
+#### 16. Limit on number of period of leave notices or variations (birth)[^c-db18e11be0bd5ba450b7853f1bb6aa82]
 
 (1) An employee may give a combined total of up to three notices under regulations 12 and 15.
 
@@ -441,7 +441,7 @@ is to be disregarded for the purposes of paragraph (1).
 
 (4) The limit in paragraph (1) may be waived by agreement between the employee and the employer.
 
-#### 17. Modification of eight week requirement for notices where child born early[^key-498eb2688486edad175f3f25bd1a7632]
+#### 17. Modification of eight week requirement for notices where child born early[^c-498eb2688486edad175f3f25bd1a7632]
 
 (1) This paragraph applies where—
 
@@ -506,7 +506,7 @@ is to be disregarded for the purposes of paragraph (1).
 - (b) the requirement in regulation 12 for a notice to be given not less than eight weeks before the start date of a period of leave is to be treated as satisfied if the notice requests a period of leave with a start date in the eight weeks beginning with the date on which C is born and the notice is given as soon as reasonably practicable after C’s date of birth; and
 - (c) regulations 5(2)(d) and 10 do not apply to P.
 
-#### 18. Change of circumstances (birth)[^key-3ea1539b8267f6503e0e43cb4d192e7b]
+#### 18. Change of circumstances (birth)[^c-3ea1539b8267f6503e0e43cb4d192e7b]
 
 (1) Where less than 8 weeks before M is due to take a period of shared parental leave or during a period of such leave—
 
@@ -544,7 +544,7 @@ P’s employer may require P to take a period of leave.
 
   whichever is the earlier.
 
-#### 19. Entitlement to shared parental leave in the event of the death of mother, father or partner, or child[^key-0da7b60fa22af1195f2901fda31817a6]
+#### 19. Entitlement to shared parental leave in the event of the death of mother, father or partner, or child[^c-0da7b60fa22af1195f2901fda31817a6]
 
 Part 1 of the Schedule applies where M, P or C dies before the end of the period during which shared parental leave may be taken (see regulation 7(1)).
 
@@ -552,7 +552,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
 ### CHAPTER 1 — Entitlement to leave – general
 
-#### 20. Adopter’s entitlement to shared parental leave[^key-81ccf047fca018b40327b201df1d4281]
+#### 20. Adopter’s entitlement to shared parental leave[^c-81ccf047fca018b40327b201df1d4281]
 
 (1) A is entitled to be absent from work to take shared parental leave in accordance with Chapter 2 to care for C if A satisfies the conditions specified in paragraph (2) and AP satisfies the conditions specified in paragraph (3).
 
@@ -573,7 +573,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
 (4) The entitlement under paragraph (1) is not affected by the number of children placed for adoption through a single placement.
 
-#### 21. Adopter’s partner’s entitlement to shared parental leave[^key-c5e3147510ec2b86878252d61db6eb35]
+#### 21. Adopter’s partner’s entitlement to shared parental leave[^c-c5e3147510ec2b86878252d61db6eb35]
 
 (1) AP is entitled to be absent from work to take shared parental leave in accordance with Chapter 2 to care for C if AP satisfies the conditions specified in paragraph (2) and A satisfies the conditions specified in paragraph (3).
 
@@ -596,7 +596,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
 (4) The entitlement under paragraph (1) is not affected by the number of children placed for adoption through a single placement.
 
-#### 22. Calculation of total amount of shared parental leave available (adoption)[^key-f790ad12b74921a72afca6fab23c4904]
+#### 22. Calculation of total amount of shared parental leave available (adoption)[^c-f790ad12b74921a72afca6fab23c4904]
 
 (1) Where A is entitled to statutory adoption leave, subject to paragraph (9), the total amount of shared parental leave available to A and AP in relation to C is 52 weeks less—
 
@@ -640,13 +640,13 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 - (a) the first day of statutory adoption leave taken by A in relation to C from any employment; and
 - (b) the later of—
   - (i) the leave curtailment date, or
-  - (ii) the last day of statutory adoption leave taken by A[^key-88f932d6ec63399813a14afc310bbf23] from any employment in relation to C where that leave ends without A curtailing it under section 75A(2A) or section 75B(3) of the 1996 Act.
+  - (ii) the last day of statutory adoption leave taken by A[^c-88f932d6ec63399813a14afc310bbf23] from any employment in relation to C where that leave ends without A curtailing it under section 75A(2A) or section 75B(3) of the 1996 Act.
 
 (10) Where A is not entitled to statutory adoption leave, but has more than one entitlement to statutory adoption pay—
 
 - (a) paragraph (2)(a) is to apply as though it read—
 
-  > - (a) where A returns to work for all of A’s employers without reducing the statutory adoption pay periods under section 171ZN(2A) of the 1992 Act, the number of weeks of statutory adoption pay payable to A[^key-48d7a79bf8d7f10ea235ec2cbc5f0769] in respect of C before the last date on which A returns to work, or
+  > - (a) where A returns to work for all of A’s employers without reducing the statutory adoption pay periods under section 171ZN(2A) of the 1992 Act, the number of weeks of statutory adoption pay payable to A[^c-48d7a79bf8d7f10ea235ec2cbc5f0769] in respect of C before the last date on which A returns to work, or
 
   , and
 - (b) paragraph (2)(b) is to apply as though it read—
@@ -655,7 +655,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
   .
 
-#### 23. Periods when shared parental leave may be taken (adoption)[^key-5d464dd5bf18b22e268f8a0ed4461dce]
+#### 23. Periods when shared parental leave may be taken (adoption)[^c-5d464dd5bf18b22e268f8a0ed4461dce]
 
 (1) Shared parental leave may be taken at any time within the period which begins on the date C is placed for adoption with A (or, where more than one child is placed for adoption through a single placement, the date of the placement of the first child) and ends the day before the first anniversary of the date on which C was placed for adoption.
 
@@ -670,7 +670,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 - (a) absent on leave provided for in Part 8 of the 1996 Act in relation to C;
 - (b) in receipt of pay under section 35 or Part 12, 12ZA, 12ZB, or 12ZC of the 1992 Act[^f00035] in relation to C.
 
-#### 24. Adopter’s notice of entitlement and intention to take shared parental leave[^key-c4ac36f2383c14af47bd5cf9f53ad1ad]
+#### 24. Adopter’s notice of entitlement and intention to take shared parental leave[^c-c4ac36f2383c14af47bd5cf9f53ad1ad]
 
 (1) A must, not less than eight weeks before the start date of the first period of shared parental leave to be taken by A, give A’s employer a written notice which contains the information specified in paragraph (2) and is accompanied by the declarations specified in paragraph (3).
 
@@ -704,7 +704,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
 (6) The indication in the notice provided in accordance with paragraph (2)(h) is non-binding and must not be treated as a period of leave notice unless otherwise indicated in the notice.
 
-#### 25. Adopter’s partner’s notice of entitlement and intention to take shared parental leave[^key-9bbc91b6eb0cb951ae1fd129ae5ebe27]
+#### 25. Adopter’s partner’s notice of entitlement and intention to take shared parental leave[^c-9bbc91b6eb0cb951ae1fd129ae5ebe27]
 
 (1) AP must, not less than eight weeks before the start date of the first period of shared parental leave to be taken by AP, give AP’s employer a written notice which contains the information specified in paragraph (2) and is accompanied by the declarations specified in paragraph (3).
 
@@ -739,7 +739,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
 (5) The indication provided in accordance with paragraph (2)(h) is non-binding and must not be treated as a period of leave notice unless otherwise indicated in the notice.
 
-#### 26. Supplementary evidence (adoption)[^key-f573cc87ceb568f38a04e839fbe25b6c]
+#### 26. Supplementary evidence (adoption)[^c-f573cc87ceb568f38a04e839fbe25b6c]
 
 (1) Where A gives a notice under regulation 24 (excluding any notice given under regulation 24(5)), A’s employer may request within 14 days beginning with the date on which that notice was given—
 
@@ -764,7 +764,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 - (a) the name and address requested, or
 - (b) a declaration that A or AP, as the case may be, has no employer.
 
-#### 27. Variation of notice of intention to take shared parental leave (adoption)[^key-899ea07e153464bf9cef5c8b6b9be654]
+#### 27. Variation of notice of intention to take shared parental leave (adoption)[^c-899ea07e153464bf9cef5c8b6b9be654]
 
 (1) A may give A’s employer a written notice to vary a notice given under regulation 24 to vary how much shared parental leave A and AP each intend to take.
 
@@ -785,7 +785,7 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 
 ### CHAPTER 2 — Entitlement to particular periods of leave
 
-#### 28. Period of leave notice (adoption)[^key-e9044c8ba284eefb2727d9dd31644954]
+#### 28. Period of leave notice (adoption)[^c-e9044c8ba284eefb2727d9dd31644954]
 
 (1) A may only be absent from work to take a period of shared parental leave if A gives A’s employer a written notice which sets out the start and end dates of each period of shared parental leave requested in that notice.
 
@@ -806,11 +806,11 @@ Part 1 of the Schedule applies where M, P or C dies before the end of the period
 - (a) be given before a notice is given to the employer under regulation 24 or 25, as the case may be;
 - (b) request leave with a start or end date which is outside of the period in which shared parental leave may be taken (see regulation 23(1)).
 
-#### 29. Continuous period of shared parental leave (adoption)[^key-285931125017a1dfdaa5d0e24fadc5e1]
+#### 29. Continuous period of shared parental leave (adoption)[^c-285931125017a1dfdaa5d0e24fadc5e1]
 
 Where an employee gives a notice under regulation 28 which requests one continuous period of shared parental leave, the employee is entitled to take that period of leave.
 
-#### 30. Discontinuous periods of shared parental leave (adoption)[^key-214ce59a03b4caf4c60d1d9ab628456d]
+#### 30. Discontinuous periods of shared parental leave (adoption)[^c-214ce59a03b4caf4c60d1d9ab628456d]
 
 (1) This regulation applies where an employee gives a notice under regulation 28 which requests discontinuous periods of shared parental leave.
 
@@ -836,7 +836,7 @@ the employee is entitled to take the leave on the dates agreed.
 
 (6) An employee may withdraw a notice which requests discontinuous periods of shared parental leave on or before the 15th day after the notice was given unless the employee and employer have agreed to periods of leave.
 
-#### 31. Variation of period of leave (adoption)[^key-6223f0996c2742c50e7085dc7e484a6d]
+#### 31. Variation of period of leave (adoption)[^c-6223f0996c2742c50e7085dc7e484a6d]
 
 (1) Where an employee is entitled to a period of leave under regulation 29 or 30, the employee may give a written notice to request a variation of that period of leave.
 
@@ -844,15 +844,15 @@ the employee is entitled to take the leave on the dates agreed.
 
 - (a) vary the start date or end date of any period of shared parental leave provided that the notice is given not less than eight weeks before the date varied and the new date;
 - (b) request that a single period of leave become discontinuous periods of leave or vice versa;
-- (c)[^key-f8d1518032ce04f8cd3483d527443f54] cancel the leave requested provided that the notice is given not less than eight weeks before the leave cancelled by the notice is due to commence.
+- (c)[^c-f8d1518032ce04f8cd3483d527443f54] cancel the leave requested provided that the notice is given not less than eight weeks before the leave cancelled by the notice is due to commence.
 
 (3) A notice under paragraph (1) must state what periods of shared parental leave the employee is entitled to under regulation 29 or 30.
 
 (4) A notice under paragraph (1) may not request leave with a start or end date which is outside of the period in which shared parental leave may be taken (see regulation 23(1)).
 
-(5)[^key-0bc7a9a3504037bc69163bd1ce8ce9cd] Regulations 29 and 30 apply to a notice under paragraph (1) as they apply to a period of leave notice given in accordance with regulation 28; and for these purposes a reference in those regulations to a notice under regulation 28 (however expressed) is to be read as a reference to a notice under paragraph (1).
+(5)[^c-0bc7a9a3504037bc69163bd1ce8ce9cd] Regulations 29 and 30 apply to a notice under paragraph (1) as they apply to a period of leave notice given in accordance with regulation 28; and for these purposes a reference in those regulations to a notice under regulation 28 (however expressed) is to be read as a reference to a notice under paragraph (1).
 
-#### 32. Limit on number of period of leave notices or variations (adoption)[^key-362a7307805833c866350feca33d1134]
+#### 32. Limit on number of period of leave notices or variations (adoption)[^c-362a7307805833c866350feca33d1134]
 
 (1) An employee may give a combined total of up to three notices under regulations 28 and 31.
 
@@ -868,7 +868,7 @@ is to be disregarded for the purposes of paragraph (1).
 
 (4) The limit in paragraph (1) may be waived by agreement between the employee and the employer.
 
-#### 33. Change of circumstances (adoption)[^key-1fecd585622ee45d3b254180455e0d14]
+#### 33. Change of circumstances (adoption)[^c-1fecd585622ee45d3b254180455e0d14]
 
 (1) Where less than 8 weeks before A is due to take a period of shared parental leave or during a period of such leave—
 
@@ -906,7 +906,7 @@ AP’s employer may require AP to take a period of leave.
 
   whichever is the earlier.
 
-#### 34. Entitlement to shared parental leave in the event of a disrupted placement or the death of adopter, adopter’s partner or child[^key-a8b847e354e470abeceae3a945ac76cd]
+#### 34. Entitlement to shared parental leave in the event of a disrupted placement or the death of adopter, adopter’s partner or child[^c-a8b847e354e470abeceae3a945ac76cd]
 
 Part 2 of the Schedule applies where before the end of the period during which shared parental leave may be taken (see regulation 23(1))—
 
@@ -915,7 +915,7 @@ Part 2 of the Schedule applies where before the end of the period during which s
 
 ## PART 4 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS
 
-### 35. Continuity of employment test[^key-d8ec2b3da46ff6f4401f761da8cc2821]
+### 35. Continuity of employment test[^c-d8ec2b3da46ff6f4401f761da8cc2821]
 
 (1) For the purposes of entitlement to shared parental leave (see regulations 4, 5, 20 and 21), an employee satisfies the continuity of employment test if the employee—
 
@@ -930,7 +930,7 @@ Part 2 of the Schedule applies where before the end of the period during which s
   - (a) where Part 2 applies, the week immediately preceding the 14th week before the expected week of birth;
   - (b) where Part 3 applies, the week in which A was notified of having been matched for adoption with C.
 
-### 36. Employment and earnings test[^key-9e2ec6f4d2163d491d3b3fc62070ccd2]
+### 36. Employment and earnings test[^c-9e2ec6f4d2163d491d3b3fc62070ccd2]
 
 (1) An individual satisfies the employment and earnings test if that individual—
 
@@ -962,7 +962,7 @@ Part 2 of the Schedule applies where before the end of the period during which s
 
 ## PART 5 — TAKING SHARED PARENTAL LEAVE
 
-### 37. Work during shared parental leave[^key-90e84eb1e1ad6f9cc3e4d9ef57759239]
+### 37. Work during shared parental leave[^c-90e84eb1e1ad6f9cc3e4d9ef57759239]
 
 (1) An employee may carry out work for the employer during a period of shared parental leave without bringing the period of leave to an end.
 
@@ -978,7 +978,7 @@ Part 2 of the Schedule applies where before the end of the period during which s
 
 (7) Any day’s work carried out under this regulation does not have the effect of extending the total duration of a period of shared parental leave.
 
-### 38. Application of terms and conditions during shared parental leave[^key-9a6101f6c08931cfa68e0554800b9e19]
+### 38. Application of terms and conditions during shared parental leave[^c-9a6101f6c08931cfa68e0554800b9e19]
 
 (1) An employee who takes shared parental leave is, during any period of leave—
 
@@ -991,9 +991,9 @@ Part 2 of the Schedule applies where before the end of the period during which s
 
 (4) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by paragraph 7 of Schedule 5 to the Social Security Act 1989[^f00041], nothing in paragraph (1)(a) above imposes a requirement which exceeds the requirements of paragraph 5C[^f00042] of that Schedule.
 
-### 39. Redundancy : shared parental leave[^key-2657fa5bcbb5dac15dd3096fa8906c23][^key-70fb0f13e9ca4433aae94c3e58ada090][^key-66a5badd4fa3f536dc099eb49a435682]
+### 39. Redundancy : shared parental leave[^c-2657fa5bcbb5dac15dd3096fa8906c23][^c-70fb0f13e9ca4433aae94c3e58ada090][^c-66a5badd4fa3f536dc099eb49a435682]
 
-(1)[^key-c973d84e3b40cffc0aea52d5495ebba8] Subject to paragraph (1C), this regulation applies where it is not practicable by reason of redundancy for an employer to continue to employ an employee under their existing contract of employment during—
+(1)[^c-c973d84e3b40cffc0aea52d5495ebba8] Subject to paragraph (1C), this regulation applies where it is not practicable by reason of redundancy for an employer to continue to employ an employee under their existing contract of employment during—
 
 - (a) a period in which the employee is taking shared parental leave; or
 - (b) where the employee is not on shared parental leave, the additional protected period.
@@ -1021,7 +1021,7 @@ Part 2 of the Schedule applies where before the end of the period during which s
 - (a) the work to be done under it is of a kind which is both suitable in relation to the employee and appropriate for the employee to do in the circumstances, and
 - (b) its provisions as to the capacity and place in which the employee is to be employed, and as to the other terms and conditions of the employee’s employment, are not substantially less favourable to the employee than if the employee had continued to be employed under the previous contract.
 
-### 40. Right to return after shared parental leave[^key-381009e72c413ee727815d07114dbcdb]
+### 40. Right to return after shared parental leave[^c-381009e72c413ee727815d07114dbcdb]
 
 (1) Where an employee returns to work after a period of shared parental leave which, when added to any other period of relevant statutory leave (see paragraph (3)) taken by the employee in relation to C, means that the total amount of relevant statutory leave taken by the employee in relation to C is 26 weeks or less, the employee is entitled to return from leave to the job in which the employee was employed before the absence, except where paragraph (2)(b) applies.
 
@@ -1041,7 +1041,7 @@ the employee is entitled to return from leave to the job in which the employee w
 
 (4) This regulation does not apply where it is not practicable by reason of redundancy for the employer to continue to employ the employee under the existing contract of employment.
 
-### 41. Right to return after shared parental leave: supplementary[^key-a3e2defa8c6529fb55b8541e63c7aad7]
+### 41. Right to return after shared parental leave: supplementary[^c-a3e2defa8c6529fb55b8541e63c7aad7]
 
 (1) For the purposes of regulation 40 a job is—
 
@@ -1060,7 +1060,7 @@ the employee is entitled to return from leave to the job in which the employee w
 
 (4) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by paragraph 7 of Schedule 5 to the Social Security Act 1989, nothing in paragraph (3)(a) above imposes a requirement which exceeds the requirements of paragraphs 5A to 6 of that Schedule[^f00047].
 
-### 42. Protection from detriment[^key-d971d541394b2ad095f1ef0af4154f47]
+### 42. Protection from detriment[^c-d971d541394b2ad095f1ef0af4154f47]
 
 (1) An employee is entitled under section 47C[^f00048] of the 1996 Act not to be subjected to any detriment by any act, or any deliberate failure to act, by an employer because—
 
@@ -1072,7 +1072,7 @@ the employee is entitled to return from leave to the job in which the employee w
 
 (3) Paragraph (1) does not apply where the detriment in question amounts to dismissal within the meaning of Part 10 of the 1996 Act.
 
-### 43. Unfair dismissal[^key-7107dce6f1059c7821e910e4fd22d689]
+### 43. Unfair dismissal[^c-7107dce6f1059c7821e910e4fd22d689]
 
 (1) An employee who is dismissed is entitled under section 99[^f00049] of the 1996 Act to be regarded for the purposes of Part 10 of that Act as unfairly dismissed if—
 
@@ -1093,7 +1093,7 @@ the employee is entitled to return from leave to the job in which the employee w
 
 (4) For the purposes of paragraph (3)(a), the employee makes use of the benefits of shared parental leave if, during a period of shared parental leave, the employee benefits from any of the terms and conditions of employment preserved by regulation 38 during that period.
 
-### 44. Calculation of a week’s pay for the purposes of Chapter 2 of Part 14 of the 1996 Act[^key-30931d73807fbef29b4bbb0bdf049434]
+### 44. Calculation of a week’s pay for the purposes of Chapter 2 of Part 14 of the 1996 Act[^c-30931d73807fbef29b4bbb0bdf049434]
 
 Where—
 
@@ -1105,14 +1105,14 @@ that week shall be disregarded for the purpose of the calculation and account mu
 
 ## PART 6 — Contractual rights and service of notices
 
-### 45. Contractual rights to shared parental leave[^key-bd54f456744cb078699141b178504290]
+### 45. Contractual rights to shared parental leave[^c-bd54f456744cb078699141b178504290]
 
 Where an employee is entitled to shared parental leave (referred to in this regulation as “the statutory right”) and also to a right which corresponds to that right and which arises under the employee’s contract of employment or otherwise—
 
 - (a) the employee may not exercise the statutory right and the corresponding right separately but may, in taking the leave for which the two rights provide, take advantage of whichever right is, in any particular respect, the more favourable, and
 - (b) the provisions of the 1996 Act and of these Regulations relating to the statutory right apply, subject to any modifications necessary to give effect to any more favourable contractual terms, to the exercise of the composite right described in sub-paragraph (a) as they apply to the exercise of the statutory right.
 
-### 46. Service of notices[^key-218a2116075a0dace1472a80b31ebcef]
+### 46. Service of notices[^c-218a2116075a0dace1472a80b31ebcef]
 
 (1) Where a notice is to be given under these Regulations, it may be given—
 
@@ -1142,7 +1142,7 @@ Regulations 19 and 34
 
 ### PART 1 — SHARED PARENTAL LEAVE (BIRTH)
 
-#### 1. Entitlement of father or partner to shared parental leave in the event of death of mother before curtailment[^key-d31509cfcbd323d3d49e05ec5d8fb35b]
+#### 1. Entitlement of father or partner to shared parental leave in the event of death of mother before curtailment[^c-d31509cfcbd323d3d49e05ec5d8fb35b]
 
 (1) Where before P has given a notice under regulation 9 M dies—
 
@@ -1186,11 +1186,11 @@ sub-paragraph (2) applies in relation to the entitlement of P to shared parental
 - (k) regulation 11(3)(d) is omitted;
 - (l) where under regulation 9 or 12 a notice is required to be given not less than eight weeks before a start date and it is not reasonably practicable for P to satisfy that requirement, the notice may be given as soon as is reasonably practicable after the death of M and before the start date of the leave. The modification of regulation 12 applies only to the first notice given under regulation 12 following the death of M.
 
-#### 2. Entitlement of father or partner to shared parental leave in the event of death of mother after curtailment and before notice of entitlement given[^key-ed0c11c687840b8c6946205aee4b0757]
+#### 2. Entitlement of father or partner to shared parental leave in the event of death of mother after curtailment and before notice of entitlement given[^c-ed0c11c687840b8c6946205aee4b0757]
 
 Where M dies after curtailing her statutory maternity leave under section 71(3) or 73(3) of the 1996 Act or her statutory maternity pay period under section 165(3A) of the 1992 Act or her maternity allowance period under section 35(3A) of that Act, or after returning to work, as the case may be, and before P gives a notice under regulation 9, sub-paragraphs (2)(a) to (e) and (g) to (l) in paragraph 1 of this Schedule apply in relation to the entitlement of P to shared parental leave.
 
-#### 3. Entitlement of father or partner to shared parental leave in the event of death of mother after notice of entitlement given[^key-582e72f1d65319ac530f7e9f644df35a]
+#### 3. Entitlement of father or partner to shared parental leave in the event of death of mother after notice of entitlement given[^c-582e72f1d65319ac530f7e9f644df35a]
 
 (1) Where M dies after P has given a notice under regulation 9, the provisions of the Regulations apply in respect of any period after M dies with the modifications in sub-paragraphs (2) (on entitlement), (3) to (6) (on the provision of notices), and (7) (on evidence) in relation to the entitlement of P to shared parental leave.
 
@@ -1211,7 +1211,7 @@ Where M dies after curtailing her statutory maternity leave under section 71(3) 
 
 before M dies, regulation 5(2)(d) does not have effect and regulation 10 is omitted.
 
-#### 4. Entitlement of mother to shared parental leave in the event of death of father or partner[^key-0be8b44b3e34cdd3aef800990b6a5651]
+#### 4. Entitlement of mother to shared parental leave in the event of death of father or partner[^c-0be8b44b3e34cdd3aef800990b6a5651]
 
 (1) Where P dies after M has given a notice under regulation 8, the provisions of the Regulations apply in respect of any period after P dies with the modifications in sub-paragraphs (2) (on entitlement), (3) to (6) (on the provision of notices), and (7) (on evidence) apply.
 
@@ -1236,7 +1236,7 @@ before M dies, regulation 5(2)(d) does not have effect and regulation 10 is omit
 
 before P dies, regulation 4(2)(f) does not have effect and regulation 10 is omitted.
 
-#### 5. Entitlement to shared parental leave in the event of death of child (birth)[^key-658419619abe3933908cd15802ba20d0]
+#### 5. Entitlement to shared parental leave in the event of death of child (birth)[^c-658419619abe3933908cd15802ba20d0]
 
 (1) Where after a notice of entitlement has been given under regulation 8 C dies following birth, the modifications set out in paragraphs (3), (5) and (6) below apply in relation to the entitlement of M to shared parental leave after C’s death.
 
@@ -1263,7 +1263,7 @@ before P dies, regulation 4(2)(f) does not have effect and regulation 10 is omit
 
 ### PART 2 — SHARED PARENTAL LEAVE (ADOPTION)
 
-#### 6. Entitlement of adopter’s partner to shared parental leave in the event of death of adopter before curtailment[^key-8a9a15342a4efe5631fb7857e79afb5d]
+#### 6. Entitlement of adopter’s partner to shared parental leave in the event of death of adopter before curtailment[^c-8a9a15342a4efe5631fb7857e79afb5d]
 
 (1) Where before AP has given a notice under regulation 25 A dies—
 
@@ -1301,11 +1301,11 @@ sub-paragraph (2) applies in relation to the entitlement of AP to shared parenta
 - (k) regulation 27(3)(d) is omitted;
 - (l) where under regulation 25 or 28 a notice is required to be given not less than eight weeks before a start date and it is not reasonably practicable for P to satisfy that requirement, the notice may be given as soon as is reasonably practicable after the death of A and before the start date of the leave. The modification of regulation 28 applies only to the first notice given under regulation 28 following the death of A.
 
-#### 7. Entitlement of adopter’s partner to shared parental leave in the event of death of adopter after curtailment and before notice of entitlement given[^key-7eed45c58480e99f895df044c2a3db1a]
+#### 7. Entitlement of adopter’s partner to shared parental leave in the event of death of adopter after curtailment and before notice of entitlement given[^c-7eed45c58480e99f895df044c2a3db1a]
 
 Where A dies after curtailing A’s statutory adoption leave under section 75A(2A) or 75B(3) of the 1996 Act, or after curtailing the statutory adoption pay period under section 171ZN(2A) of the 1992 Act, or after returning to work, as the case may be, and before AP has given a notice under regulation 25, sub-paragraph (2)(a) to (e) and (g) to (l) in paragraph 6 of this Schedule apply in relation to the entitlement of AP to shared parental leave.
 
-#### 8. Entitlement of adopter’s partner to shared parental leave in the event of death of adopter after notice of entitlement given[^key-b241c6968eef0517a79a75468a25bba9]
+#### 8. Entitlement of adopter’s partner to shared parental leave in the event of death of adopter after notice of entitlement given[^c-b241c6968eef0517a79a75468a25bba9]
 
 (1) Where A dies after AP has given a notice of entitlement under regulation 25, the provisions of the Regulations apply in respect of any period after A dies with the modifications in paragraphs (2) (on entitlement), (3) to (6) (on the provision of notices), and (7) (on evidence) in relation to the entitlement of AP to shared parental leave.
 
@@ -1326,7 +1326,7 @@ Where A dies after curtailing A’s statutory adoption leave under section 75A(2
 
 before A dies, regulation 21(2)(d) does not have effect and regulation 26 is omitted.
 
-#### 9. Entitlement of adopter to shared parental leave in the event of death of adopter’s partner[^key-2dba0008ec2ec868b470ed90a4e597c1]
+#### 9. Entitlement of adopter to shared parental leave in the event of death of adopter’s partner[^c-2dba0008ec2ec868b470ed90a4e597c1]
 
 (1) Where AP dies after A has given a notice of entitlement under regulation 24, the provisions of the Regulations apply in respect of any period after AP dies with the modifications in sub-paragraphs (2) (on entitlement), (3) to (6) (on the provision of notices), and (7) (on evidence) apply.
 
@@ -1351,7 +1351,7 @@ before A dies, regulation 21(2)(d) does not have effect and regulation 26 is omi
 
 before AP dies, regulation 20(2)(f) does not have effect and regulation 26 is omitted.
 
-#### 10. Entitlement to shared parental leave in the event of a disrupted placement or the death of child[^key-c9cfecd2ca4a175cae748b54cc778693]
+#### 10. Entitlement to shared parental leave in the event of a disrupted placement or the death of child[^c-c9cfecd2ca4a175cae748b54cc778693]
 
 (1) Where after a notice of entitlement has been given under regulation 24 C dies or is returned after being placed for adoption, the modifications set out in paragraphs (3), (5) and (6) below apply in relation to the entitlement of A to shared parental leave after C’s return or death.
 
@@ -1410,17 +1410,17 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^f00002]: Footnote: Section 47C was inserted by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), Schedule 4, Part 3, paragraphs 5 and 8, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 31; there are other amending instruments but none is relevant. Sections 75E to 75K were inserted by the Children and Families Act 2014, section 117(1). Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 16, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 39; there are other amending instruments but none is relevant.
 
-[^key-ddde574e0a2940daa2e585dd6723ca13]: Modification: Regulations applied in part (with modifications) (1.12.2014) by [The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014 (S.I. 2014/3096)](https://www.legislation.gov.uk/uksi/2014/3096), [regs. 5](https://www.legislation.gov.uk/uksi/2014/3096/regulation/5), [20-33](https://www.legislation.gov.uk/uksi/2014/3096/regulation/20) (as amended (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9))
+[^c-ddde574e0a2940daa2e585dd6723ca13]: Modification: Regulations applied in part (with modifications) (1.12.2014) by [The Paternity, Adoption and Shared Parental Leave (Parental Order Cases) Regulations 2014 (S.I. 2014/3096)](https://www.legislation.gov.uk/uksi/2014/3096), [regs. 5](https://www.legislation.gov.uk/uksi/2014/3096/regulation/5), [20-33](https://www.legislation.gov.uk/uksi/2014/3096/regulation/20) (as amended (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/9))
 
-[^key-9926588e7c97adbcc79998f43fff50c5]: Modification: Regulations applied (with modifications) (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [7-21](https://www.legislation.gov.uk/uksi/2014/3092/regulation/7)
+[^c-9926588e7c97adbcc79998f43fff50c5]: Modification: Regulations applied (with modifications) (5.4.2015) by [The Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092)](https://www.legislation.gov.uk/uksi/2014/3092), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3092/regulation/1), [7-21](https://www.legislation.gov.uk/uksi/2014/3092/regulation/7)
 
-[^key-a1e6a6805b3d98db81d973ba8abafafb]: Commencement: Reg. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-a1e6a6805b3d98db81d973ba8abafafb]: Commencement: Reg. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-55cf3294480c6acd1c7d373ff920dc3c]: Commencement: Reg. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-55cf3294480c6acd1c7d373ff920dc3c]: Commencement: Reg. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00003]: Footnote: Section 97 was amended by the Employment Relations Act 1999, Schedule 9, paragraph 2, and [S.I. 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034).
 
-[^key-ed3c3a1ea25707e5282357335ff28cb2]: Commencement: Reg. 3 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-ed3c3a1ea25707e5282357335ff28cb2]: Commencement: Reg. 3 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -1474,97 +1474,97 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^f00029]: Footnote: Regulation 30B was inserted by [S.I. 2013/985](https://www.legislation.gov.uk/uksi/2013/985).
 
-[^key-006a35be302d2d097dd983e00d21b611]: Commencement: Reg. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-006a35be302d2d097dd983e00d21b611]: Commencement: Reg. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-41697288fc221c6d6472236a589d694f]: Commencement: Reg. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-41697288fc221c6d6472236a589d694f]: Commencement: Reg. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-13ee1dc8d2102cd2d5b6ffd57256fed7]: Commencement: Reg. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-13ee1dc8d2102cd2d5b6ffd57256fed7]: Commencement: Reg. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-f95df528a553a5af7451b54cc620a0c7]: Textual amendment: Word in [reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/6/5/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/2)
+[^c-f95df528a553a5af7451b54cc620a0c7]: Textual amendment: Word in [reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/6/5/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/2)
 
 [^f00030]: Footnote: Section 165(8) was inserted by the Work and Families Act 2006, Schedule 1, paragraph 7(4).
 
 [^f00031]: Footnote: Section 122(1) was amended by the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6; there are other amending instruments but none is relevant.
 
-[^key-59cba1ecaf0f0dad29f60c496b50d409]: Commencement: Reg. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-59cba1ecaf0f0dad29f60c496b50d409]: Commencement: Reg. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00032]: Footnote: Part 12ZA was inserted by the Employment Act 2002, section 2.
 
-[^key-5ef74c87f318ddda6f9399df2037addd]: Commencement: Reg. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-5ef74c87f318ddda6f9399df2037addd]: Commencement: Reg. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-57bc782b6b00b28162a269ecc1159f78]: Commencement: Reg. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-57bc782b6b00b28162a269ecc1159f78]: Commencement: Reg. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-73644f070f8ce4fc61974aeb7083a76e]: Commencement: Reg. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-73644f070f8ce4fc61974aeb7083a76e]: Commencement: Reg. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-965473ff8bc83d4665485e9612ea01b6]: Commencement: Reg. 11 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-965473ff8bc83d4665485e9612ea01b6]: Commencement: Reg. 11 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-0d1d0e8c37c7daf6f4828cc7da1cd183]: Commencement: Reg. 12 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-0d1d0e8c37c7daf6f4828cc7da1cd183]: Commencement: Reg. 12 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-46ba64d7a98b100e576b23615640f907]: Commencement: Reg. 13 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-46ba64d7a98b100e576b23615640f907]: Commencement: Reg. 13 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-57620111c4b73f7ce321f03a2ed08f5c]: Commencement: Reg. 14 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-57620111c4b73f7ce321f03a2ed08f5c]: Commencement: Reg. 14 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-a57b74f8b11f5d4073d83dae2c66413f]: Commencement: Reg. 15 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-a57b74f8b11f5d4073d83dae2c66413f]: Commencement: Reg. 15 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-e6bbb694b64a2880dda1d2cd67c7683f]: Textual amendment: [Reg. 15(2)(c)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/15/2/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/3/a)
+[^c-e6bbb694b64a2880dda1d2cd67c7683f]: Textual amendment: [Reg. 15(2)(c)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/15/2/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/3/a)
 
-[^key-cec311f9a4118aff59b62de33aa484e8]: Textual amendment: [Reg. 15(5)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/15/5) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/3/b)
+[^c-cec311f9a4118aff59b62de33aa484e8]: Textual amendment: [Reg. 15(5)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/15/5) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/3/b)
 
-[^key-db18e11be0bd5ba450b7853f1bb6aa82]: Commencement: Reg. 16 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-db18e11be0bd5ba450b7853f1bb6aa82]: Commencement: Reg. 16 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-498eb2688486edad175f3f25bd1a7632]: Commencement: Reg. 17 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-498eb2688486edad175f3f25bd1a7632]: Commencement: Reg. 17 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-3ea1539b8267f6503e0e43cb4d192e7b]: Commencement: Reg. 18 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-3ea1539b8267f6503e0e43cb4d192e7b]: Commencement: Reg. 18 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-0da7b60fa22af1195f2901fda31817a6]: Commencement: Reg. 19 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-0da7b60fa22af1195f2901fda31817a6]: Commencement: Reg. 19 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-81ccf047fca018b40327b201df1d4281]: Commencement: Reg. 20 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-81ccf047fca018b40327b201df1d4281]: Commencement: Reg. 20 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00033]: Footnote: Sections 75A and 75B were inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 3. Section 75A(2A) was inserted by the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraph 33. Sections 75A(2A) and 75B(3) were amended by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 118(4) and (5) (respectively).
 
-[^key-c5e3147510ec2b86878252d61db6eb35]: Commencement: Reg. 21 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-c5e3147510ec2b86878252d61db6eb35]: Commencement: Reg. 21 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00034]: Footnote: Section 171ZN was inserted by the Employment Act 2002, section 4. Section 171N(2A) was inserted by the Children and Families Act 2014, section 120(6).
 
-[^key-f790ad12b74921a72afca6fab23c4904]: Commencement: Reg. 22 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-f790ad12b74921a72afca6fab23c4904]: Commencement: Reg. 22 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-88f932d6ec63399813a14afc310bbf23]: Textual amendment: Word in [reg. 22(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/22/9/b/ii) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/4)
+[^c-88f932d6ec63399813a14afc310bbf23]: Textual amendment: Word in [reg. 22(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/22/9/b/ii) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/4)
 
-[^key-48d7a79bf8d7f10ea235ec2cbc5f0769]: Textual amendment: Word in [reg. 22(10)(a)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/22/10/a) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/4)
+[^c-48d7a79bf8d7f10ea235ec2cbc5f0769]: Textual amendment: Word in [reg. 22(10)(a)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/22/10/a) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/4)
 
-[^key-5d464dd5bf18b22e268f8a0ed4461dce]: Commencement: Reg. 23 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-5d464dd5bf18b22e268f8a0ed4461dce]: Commencement: Reg. 23 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00035]: Footnote: Part 12ZA was inserted by the Employment Act 2002, section 2. Part 12ZB was inserted by the Employment Act 2002, section 4.
 
-[^key-c4ac36f2383c14af47bd5cf9f53ad1ad]: Commencement: Reg. 24 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-c4ac36f2383c14af47bd5cf9f53ad1ad]: Commencement: Reg. 24 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-9bbc91b6eb0cb951ae1fd129ae5ebe27]: Commencement: Reg. 25 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-9bbc91b6eb0cb951ae1fd129ae5ebe27]: Commencement: Reg. 25 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-f573cc87ceb568f38a04e839fbe25b6c]: Commencement: Reg. 26 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-f573cc87ceb568f38a04e839fbe25b6c]: Commencement: Reg. 26 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-899ea07e153464bf9cef5c8b6b9be654]: Commencement: Reg. 27 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-899ea07e153464bf9cef5c8b6b9be654]: Commencement: Reg. 27 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-e9044c8ba284eefb2727d9dd31644954]: Commencement: Reg. 28 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-e9044c8ba284eefb2727d9dd31644954]: Commencement: Reg. 28 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-285931125017a1dfdaa5d0e24fadc5e1]: Commencement: Reg. 29 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-285931125017a1dfdaa5d0e24fadc5e1]: Commencement: Reg. 29 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-214ce59a03b4caf4c60d1d9ab628456d]: Commencement: Reg. 30 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-214ce59a03b4caf4c60d1d9ab628456d]: Commencement: Reg. 30 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-6223f0996c2742c50e7085dc7e484a6d]: Commencement: Reg. 31 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-6223f0996c2742c50e7085dc7e484a6d]: Commencement: Reg. 31 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-f8d1518032ce04f8cd3483d527443f54]: Textual amendment: [Reg. 31(2)(c)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/31/2/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/5/a)
+[^c-f8d1518032ce04f8cd3483d527443f54]: Textual amendment: [Reg. 31(2)(c)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/31/2/c) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/5/a)
 
-[^key-0bc7a9a3504037bc69163bd1ce8ce9cd]: Textual amendment: [Reg. 31(5)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/31/5) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/5/b)
+[^c-0bc7a9a3504037bc69163bd1ce8ce9cd]: Textual amendment: [Reg. 31(5)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/31/5) substituted (5.4.2015) by [The Shared Parental Leave and Leave Curtailment (Amendment) Regulations 2015 (S.I. 2015/552)](https://www.legislation.gov.uk/uksi/2015/552), [regs. 1](https://www.legislation.gov.uk/uksi/2015/552/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/552/regulation/2/5/b)
 
-[^key-362a7307805833c866350feca33d1134]: Commencement: Reg. 32 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-362a7307805833c866350feca33d1134]: Commencement: Reg. 32 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-1fecd585622ee45d3b254180455e0d14]: Commencement: Reg. 33 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-1fecd585622ee45d3b254180455e0d14]: Commencement: Reg. 33 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-a8b847e354e470abeceae3a945ac76cd]: Commencement: Reg. 34 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-a8b847e354e470abeceae3a945ac76cd]: Commencement: Reg. 34 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-d8ec2b3da46ff6f4401f761da8cc2821]: Commencement: Reg. 35 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-d8ec2b3da46ff6f4401f761da8cc2821]: Commencement: Reg. 35 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-9e2ec6f4d2163d491d3b3fc62070ccd2]: Commencement: Reg. 36 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-9e2ec6f4d2163d491d3b3fc62070ccd2]: Commencement: Reg. 36 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00036]: Footnote: Section 35(6A) was inserted by the Employment Act 2002, Schedule 7, paragraph 4(4).
 
@@ -1574,9 +1574,9 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^f00039]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-90e84eb1e1ad6f9cc3e4d9ef57759239]: Commencement: Reg. 37 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-90e84eb1e1ad6f9cc3e4d9ef57759239]: Commencement: Reg. 37 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-9a6101f6c08931cfa68e0554800b9e19]: Commencement: Reg. 38 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-9a6101f6c08931cfa68e0554800b9e19]: Commencement: Reg. 38 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00040]: Footnote: Section 75I was inserted by the Children and Families Act 2014, section 117.
 
@@ -1584,15 +1584,15 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^f00042]: Footnote: Paragraph 5C was inserted by the Children and Families Act 2014, Schedule 7, paragraphs 1 and 4.
 
-[^key-2657fa5bcbb5dac15dd3096fa8906c23]: Commencement: Reg. 39 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-2657fa5bcbb5dac15dd3096fa8906c23]: Commencement: Reg. 39 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-70fb0f13e9ca4433aae94c3e58ada090]: Modification: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39) applied (with modifications) (6.4.2024) by [S.I. 2014/3092](https://www.legislation.gov.uk/uksi/2014/3092), [reg. 20A](https://www.legislation.gov.uk/uksi/2014/3092/regulation/20A) (as inserted by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2024/264/regulation/8))
+[^c-70fb0f13e9ca4433aae94c3e58ada090]: Modification: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39) applied (with modifications) (6.4.2024) by [S.I. 2014/3092](https://www.legislation.gov.uk/uksi/2014/3092), [reg. 20A](https://www.legislation.gov.uk/uksi/2014/3092/regulation/20A) (as inserted by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2024/264/regulation/8))
 
-[^key-66a5badd4fa3f536dc099eb49a435682]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39) heading: colon substituted for word (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/264/regulation/7/a) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/5))
+[^c-66a5badd4fa3f536dc099eb49a435682]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39) heading: colon substituted for word (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/264/regulation/7/a) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/5))
 
-[^key-c973d84e3b40cffc0aea52d5495ebba8]: Textual amendment: [Reg. 39(1)-(1C)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39/1) substituted for [reg. 39(1)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39/1) (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/264/regulation/7/b)
+[^c-c973d84e3b40cffc0aea52d5495ebba8]: Textual amendment: [Reg. 39(1)-(1C)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39/1) substituted for [reg. 39(1)](https://www.legislation.gov.uk/uksi/2014/3050/regulation/39/1) (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/264/regulation/7/b)
 
-[^key-381009e72c413ee727815d07114dbcdb]: Commencement: Reg. 40 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-381009e72c413ee727815d07114dbcdb]: Commencement: Reg. 40 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00043]: Footnote: Section 75B was inserted by the Employment Act 2002, (c. 22), section 3.
 
@@ -1602,40 +1602,40 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^f00046]: Footnote: Part 8 was substituted by the Employment Relations Act 1999. Sections 75A to 75D were inserted by the Employment Act 2002, sections 1, and sections 80A to 80E were inserted by section 3 of that Act.
 
-[^key-a3e2defa8c6529fb55b8541e63c7aad7]: Commencement: Reg. 41 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-a3e2defa8c6529fb55b8541e63c7aad7]: Commencement: Reg. 41 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00047]: Footnote: Paragraph 5A was inserted by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), section 265(1), and amended by the Work and Families Act 2006, Schedule 1, paragraph 1. Paragraph 5B was inserted by the Pensions Act 2004, section 265(1).
 
-[^key-d971d541394b2ad095f1ef0af4154f47]: Commencement: Reg. 42 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-d971d541394b2ad095f1ef0af4154f47]: Commencement: Reg. 42 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00048]: Footnote: Section 47C was inserted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 8, and amended by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), Schedule 7, paragraphs 29 and 31; there are other amending instruments but none is relevant.
 
-[^key-7107dce6f1059c7821e910e4fd22d689]: Commencement: Reg. 43 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-7107dce6f1059c7821e910e4fd22d689]: Commencement: Reg. 43 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
 [^f00049]: Footnote: Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 16, and amended by the Children and Families Act 2014, Schedule 7, paragraphs 29 and 39; there are other amending instruments but none is relevant.
 
-[^key-30931d73807fbef29b4bbb0bdf049434]: Commencement: Reg. 44 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-30931d73807fbef29b4bbb0bdf049434]: Commencement: Reg. 44 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-bd54f456744cb078699141b178504290]: Commencement: Reg. 45 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-bd54f456744cb078699141b178504290]: Commencement: Reg. 45 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-218a2116075a0dace1472a80b31ebcef]: Commencement: Reg. 46 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-218a2116075a0dace1472a80b31ebcef]: Commencement: Reg. 46 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-d31509cfcbd323d3d49e05ec5d8fb35b]: Commencement: Sch. para. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-d31509cfcbd323d3d49e05ec5d8fb35b]: Commencement: Sch. para. 1 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-ed0c11c687840b8c6946205aee4b0757]: Commencement: Sch. para. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-ed0c11c687840b8c6946205aee4b0757]: Commencement: Sch. para. 2 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-582e72f1d65319ac530f7e9f644df35a]: Commencement: Sch. para. 3 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-582e72f1d65319ac530f7e9f644df35a]: Commencement: Sch. para. 3 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-0be8b44b3e34cdd3aef800990b6a5651]: Commencement: Sch. para. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-0be8b44b3e34cdd3aef800990b6a5651]: Commencement: Sch. para. 4 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-658419619abe3933908cd15802ba20d0]: Commencement: Sch. para. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-658419619abe3933908cd15802ba20d0]: Commencement: Sch. para. 5 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-8a9a15342a4efe5631fb7857e79afb5d]: Commencement: Sch. para. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-8a9a15342a4efe5631fb7857e79afb5d]: Commencement: Sch. para. 6 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-7eed45c58480e99f895df044c2a3db1a]: Commencement: Sch. para. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-7eed45c58480e99f895df044c2a3db1a]: Commencement: Sch. para. 7 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-b241c6968eef0517a79a75468a25bba9]: Commencement: Sch. para. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-b241c6968eef0517a79a75468a25bba9]: Commencement: Sch. para. 8 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-2dba0008ec2ec868b470ed90a4e597c1]: Commencement: Sch. para. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-2dba0008ec2ec868b470ed90a4e597c1]: Commencement: Sch. para. 9 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
 
-[^key-c9cfecd2ca4a175cae748b54cc778693]: Commencement: Sch. para. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)
+[^c-c9cfecd2ca4a175cae748b54cc778693]: Commencement: Sch. para. 10 in force at 1.12.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/3050/regulation/1)

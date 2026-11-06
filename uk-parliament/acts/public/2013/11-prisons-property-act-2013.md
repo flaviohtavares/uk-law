@@ -36,7 +36,7 @@ An Act to make provision for the destruction of certain property found in prison
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power to destroy or otherwise dispose of property[^key-d7b602761691faf3d2c51f6b6ad28f23]
+## 1. Power to destroy or otherwise dispose of property[^c-d7b602761691faf3d2c51f6b6ad28f23]
 
 (1) After section 42 of the Prison Act 1952 insert—
 
@@ -88,4 +88,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-d7b602761691faf3d2c51f6b6ad28f23]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/11/section/1) in force at 26.3.2015 by [S.I. 2015/771](https://www.legislation.gov.uk/uksi/2015/771), [art. 2](https://www.legislation.gov.uk/uksi/2015/771/article/2)
+[^c-d7b602761691faf3d2c51f6b6ad28f23]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/11/section/1) in force at 26.3.2015 by [S.I. 2015/771](https://www.legislation.gov.uk/uksi/2015/771), [art. 2](https://www.legislation.gov.uk/uksi/2015/771/article/2)

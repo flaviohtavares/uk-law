@@ -50,11 +50,11 @@ The Lord Chancellor[^f00003] concurs in the making of these Regulations in relat
 
 The Scottish Ministers[^f00004] concur in the making of these Regulations in relation to the exercise of the powers in section 13 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999.
 
-## 1. Citation and commencement[^key-3f9cb8c2d4fcbb4bb86b55a8ed5b40f4]
+## 1. Citation and commencement[^c-3f9cb8c2d4fcbb4bb86b55a8ed5b40f4]
 
 These Regulations may be cited as the Social Security Contributions (Decisions and Appeals) (Amendment) Regulations 2020 and come into force on 6th April 2020.
 
-## 2. Amendment of the Social Security Contributions (Decisions and Appeals) Regulations 1999[^key-d7b124ebf876f5fc92ea96776fe29335][^key-062ee5dc98b3733af84322d1e0bca5f9]
+## 2. Amendment of the Social Security Contributions (Decisions and Appeals) Regulations 1999[^c-d7b124ebf876f5fc92ea96776fe29335][^c-062ee5dc98b3733af84322d1e0bca5f9]
 
 (1) The Social Security Contributions (Decisions and Appeals) Regulations 1999[^f00005] are amended as follows.
 
@@ -104,10 +104,10 @@ A Tax Information and Impact Note has not been prepared for these Regulations as
 
 [^f00004]: Footnote: The functions of the Lord Advocate under section 13(1) of the 1999 Act were transferred to the Secretary of State by Article 2(1) of, and the Schedule to, the Transfer of Functions (Lord Advocate and Secretary of State) Order 1999 ([S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678)) with effect from 19th May 1999. Those functions were then treated as being exercisable in or as regards Scotland, for the purposes of section 63 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), by Article 3 of, and paragraph 22 of Schedule 1 to, the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 ([S.I. 1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), and were transferred to the Scottish Ministers, by Article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
 
-[^key-3f9cb8c2d4fcbb4bb86b55a8ed5b40f4]: Commencement: Reg. 1 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1)
+[^c-3f9cb8c2d4fcbb4bb86b55a8ed5b40f4]: Commencement: Reg. 1 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1)
 
-[^key-d7b124ebf876f5fc92ea96776fe29335]: Commencement: Reg. 2 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1)
+[^c-d7b124ebf876f5fc92ea96776fe29335]: Commencement: Reg. 2 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/238/regulation/1)
 
-[^key-062ee5dc98b3733af84322d1e0bca5f9]: Modification: Reg. 2: amendments made by this provision to S.I. 1999/1027 extended to N.I. (6.4.2022) by The Social Security Contributions (Statutory Parental Bereavement Pay) (Amendment of Extent) (Northern Ireland) Regulations 2022 (S.I. 2022/384), [regs. 1](https://www.legislation.gov.uk/uksi/2022/384/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/384/regulation/2)
+[^c-062ee5dc98b3733af84322d1e0bca5f9]: Modification: Reg. 2: amendments made by this provision to S.I. 1999/1027 extended to N.I. (6.4.2022) by The Social Security Contributions (Statutory Parental Bereavement Pay) (Amendment of Extent) (Northern Ireland) Regulations 2022 (S.I. 2022/384), [regs. 1](https://www.legislation.gov.uk/uksi/2022/384/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/384/regulation/2)
 
 [^f00005]: Footnote: [S.I. 1999/1027](https://www.legislation.gov.uk/uksi/1999/1027), amended by [S.I. 2002/3120](https://www.legislation.gov.uk/uksi/2002/3120), [2009/56](https://www.legislation.gov.uk/uksi/2009/56), [2009/777](https://www.legislation.gov.uk/uksi/2009/777), [2010/2451](https://www.legislation.gov.uk/uksi/2010/2451), [2015/174](https://www.legislation.gov.uk/uksi/2015/174) and [2015/521](https://www.legislation.gov.uk/uksi/2015/521).

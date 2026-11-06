@@ -22,7 +22,7 @@ summary: ''
 
 (1) Nothing in any of the following provisions (restrictions on alienation of pension rights) applies in relation to any order or provision falling within section 28(1)—
 
-- (a) section 356 of the Armed Forces Act 2006[^key-3bdd65f06b8bd09a1f3371e78c37eba4] and section 159(4) and (4A) of the [^c1314311]Pension Schemes Act 1993,
+- (a) section 356 of the Armed Forces Act 2006[^c-3bdd65f06b8bd09a1f3371e78c37eba4] and section 159(4) and (4A) of the [^c1314311]Pension Schemes Act 1993,
 - (b) section 91 of the [^c1314312]Pensions Act 1995,
 - (c) any provision of any enactment (whether passed or made before or after this Act is passed) corresponding to any of the enactments mentioned in paragraphs (a) and (b), and
 - (d) any provision of a pension arrangement corresponding to any of those enactments.
@@ -33,7 +33,7 @@ summary: ''
 
 [^c1314307]: Commencement: S. 44 wholly in force at 1.12.2000; s. 44 in force for certain purposes at Royal Assent see s. 89(1); s. 44 in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-3bdd65f06b8bd09a1f3371e78c37eba4]: Textual amendment: Words in s. 44(1)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 162](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/162); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3bdd65f06b8bd09a1f3371e78c37eba4]: Textual amendment: Words in s. 44(1)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 162](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/162); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1314311]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

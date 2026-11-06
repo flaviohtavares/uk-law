@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12D. Further requirement for standard and restricted licences[^key-b2f5a1512931cee9a3bb28ef7c179e1d][^key-cec09dc6376f7e14b758a5ef0630eb0f]
+## 12D. Further requirement for standard and restricted licences[^c-b2f5a1512931cee9a3bb28ef7c179e1d][^c-cec09dc6376f7e14b758a5ef0630eb0f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The requirement of this section is that the provision of the facilities and arra
 
 ## Annotations
 
-[^key-b2f5a1512931cee9a3bb28ef7c179e1d]: Modification: [S. 12D](https://www.legislation.gov.uk/nia/2010/2/section/12D) applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(5)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/5)
+[^c-b2f5a1512931cee9a3bb28ef7c179e1d]: Modification: [S. 12D](https://www.legislation.gov.uk/nia/2010/2/section/12D) applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(5)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/5)
 
-[^key-cec09dc6376f7e14b758a5ef0630eb0f]: Textual amendment: Ss. 12-12E substituted for s. 12 (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(5)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/5)
+[^c-cec09dc6376f7e14b758a5ef0630eb0f]: Textual amendment: Ss. 12-12E substituted for s. 12 (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(5)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/5)

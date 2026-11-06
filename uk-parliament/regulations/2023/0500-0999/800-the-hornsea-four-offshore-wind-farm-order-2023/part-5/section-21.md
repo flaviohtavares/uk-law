@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Compulsory acquisition of rights etc.[^key-d4b61d40917b2efc11927c18804a1bb9]
+## 21. Compulsory acquisition of rights etc.[^c-d4b61d40917b2efc11927c18804a1bb9]
 
 *Extent: E+W+S*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (7) Subject to the modifications set out in Schedule 7 the enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply in the case of a compulsory acquisition under this Order in respect of a right by the creation of a new right or imposition of a restriction as they apply to the compulsory purchase of land and interests in land.
 
-(8) Subject to article 43 (crown rights)[^key-1666c09a56b27f9774047103ef6f4afe], so much of the special category land as is required for the purposes of exercising the powers acquired by the undertaker pursuant to this article is discharged from all rights, trusts and incidents to which it was previously subject, so far as their continuance would be inconsistent with the exercise of those rights.
+(8) Subject to article 43 (crown rights)[^c-1666c09a56b27f9774047103ef6f4afe], so much of the special category land as is required for the purposes of exercising the powers acquired by the undertaker pursuant to this article is discharged from all rights, trusts and incidents to which it was previously subject, so far as their continuance would be inconsistent with the exercise of those rights.
 
 ## Annotations
 
-[^key-d4b61d40917b2efc11927c18804a1bb9]: Commencement: Art. 21 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-d4b61d40917b2efc11927c18804a1bb9]: Commencement: Art. 21 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-1666c09a56b27f9774047103ef6f4afe]: Textual amendment: Words in art. 21(8) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-1666c09a56b27f9774047103ef6f4afe]: Textual amendment: Words in art. 21(8) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

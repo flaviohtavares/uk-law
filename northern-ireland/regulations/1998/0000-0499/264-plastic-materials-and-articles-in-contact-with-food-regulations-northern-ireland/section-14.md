@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Revocations[^key-5785451bd006029a4a523aa6387d1b15]
+## 14. Revocations[^c-5785451bd006029a4a523aa6387d1b15]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ The 1993 Regulations, the Plastic Materials and Articles in Contact with Food (A
 
 ## Annotations
 
-[^key-5785451bd006029a4a523aa6387d1b15]: Commencement: Reg. 14 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-5785451bd006029a4a523aa6387d1b15]: Commencement: Reg. 14 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
 [^f00016]: Footnote: [S.R. 1995 No. 107](https://www.legislation.gov.uk/nisr/1995/107)
 

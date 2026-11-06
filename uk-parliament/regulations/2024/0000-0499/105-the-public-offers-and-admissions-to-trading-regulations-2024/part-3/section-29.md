@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Power to refuse to accept applications or to prohibit validation or publication[^key-0ddeb10e52fc34bbe11ea840a1ee520d]
+## 29. Power to refuse to accept applications or to prohibit validation or publication[^c-0ddeb10e52fc34bbe11ea840a1ee520d]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ddeb10e52fc34bbe11ea840a1ee520d]: Commencement: Reg. 29 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-0ddeb10e52fc34bbe11ea840a1ee520d]: Commencement: Reg. 29 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00034]: Footnote: [2012 c. 21](https://www.legislation.gov.uk/ukpga/2012/21).

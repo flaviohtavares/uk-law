@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 50. Consequential amendments[^key-49c0ad4c10052019655d0d1e203ad2d1]
+## 50. Consequential amendments[^c-49c0ad4c10052019655d0d1e203ad2d1]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49c0ad4c10052019655d0d1e203ad2d1]: Commencement: [S. 50](https://www.legislation.gov.uk/ukcm/2018/8/section/50) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-49c0ad4c10052019655d0d1e203ad2d1]: Commencement: [S. 50](https://www.legislation.gov.uk/ukcm/2018/8/section/50) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

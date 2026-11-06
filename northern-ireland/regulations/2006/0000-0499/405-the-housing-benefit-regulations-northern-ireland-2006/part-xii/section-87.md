@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Time and manner of payment[^key-10ed9dfc1d9be5beceb37bbb34809f8c]
+## 87. Time and manner of payment[^c-10ed9dfc1d9be5beceb37bbb34809f8c]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10ed9dfc1d9be5beceb37bbb34809f8c]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2006/405/regulation/87) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-10ed9dfc1d9be5beceb37bbb34809f8c]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2006/405/regulation/87) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

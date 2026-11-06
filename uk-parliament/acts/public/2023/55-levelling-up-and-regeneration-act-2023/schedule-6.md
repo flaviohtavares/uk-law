@@ -24,13 +24,13 @@ summary: ''
 
 Section 93(5)
 
-### 1. Town and Country Planning Act 1990[^key-9cc51e64610e597f2f502b5f59a9fb1a]
+### 1. Town and Country Planning Act 1990[^c-9cc51e64610e597f2f502b5f59a9fb1a]
 
 TCPA 1990 is amended as follows.
 
-**2.**[^key-bc985a46d77bd3f770e25550a444342a] In section 59A (development orders: permission in principle), in subsection (11), after “development plan” insert “, any national development management policies so far as they are material”.
+**2.**[^c-bc985a46d77bd3f770e25550a444342a] In section 59A (development orders: permission in principle), in subsection (11), after “development plan” insert “, any national development management policies so far as they are material”.
 
-**3.**[^key-337c41951ea0fad8402c6ebc8259b51c] In section 70 (determination of applications for planning permission: general considerations),—
+**3.**[^c-337c41951ea0fad8402c6ebc8259b51c] In section 70 (determination of applications for planning permission: general considerations),—
 
 - (a) in subsection (2), after paragraph (aza) insert—
 
@@ -39,7 +39,7 @@ TCPA 1990 is amended as follows.
   ;
 - (b) in subsection (2A), for “(2)(b)” substitute “(2)(azb) and (b)”.
 
-**4.**[^key-844039d4113b467b5ad12d998d70d8ee] In section 70A (power to decline to determine subsequent application)—
+**4.**[^c-844039d4113b467b5ad12d998d70d8ee] In section 70A (power to decline to determine subsequent application)—
 
 - (a) after subsection (5) insert—
 
@@ -52,7 +52,7 @@ TCPA 1990 is amended as follows.
   ;
 - (b) in subsection (6), after “considerations” insert “, in relation to a local planning authority in Wales,”.
 
-**5.**[^key-cb865a5ba4000e040d9dcb272c75b84a] In section 74 (directions etc as to method of dealing with applications)—
+**5.**[^c-cb865a5ba4000e040d9dcb272c75b84a] In section 74 (directions etc as to method of dealing with applications)—
 
 - (a) in subsection (1)(b), at the end insert “or, in the case of an authority in England, any national development management policy”;
 - (b) in subsection (1C), after paragraph (a) (but before the “and” at the end of that paragraph) insert—
@@ -61,7 +61,7 @@ TCPA 1990 is amended as follows.
 
   .
 
-**6.**[^key-680e226979ff2c89be4437a7ece4784e] In section 91 (general condition limiting duration of planning permission), in subsection (2), for “shall be” substitute
+**6.**[^c-680e226979ff2c89be4437a7ece4784e] In section 91 (general condition limiting duration of planning permission), in subsection (2), for “shall be” substitute
 
 > must be—
 >
@@ -70,7 +70,7 @@ TCPA 1990 is amended as follows.
 
 .
 
-**7.**[^key-e5eaedb8a6dc2c6c5ec511d87af4fe5e] In section 92 (outline planning permission), in subsection (6), for “shall have regard” substitute
+**7.**[^c-e5eaedb8a6dc2c6c5ec511d87af4fe5e] In section 92 (outline planning permission), in subsection (6), for “shall have regard” substitute
 
 > must have regard—
 >
@@ -79,7 +79,7 @@ TCPA 1990 is amended as follows.
 
 .
 
-**8.**[^key-f9b730df40a5cd595d2d2dcb1d6e9391] In section 97 (power to revoke or modify planning permission or permission in principle), in subsection (2), for “shall have regard” substitute
+**8.**[^c-f9b730df40a5cd595d2d2dcb1d6e9391] In section 97 (power to revoke or modify planning permission or permission in principle), in subsection (2), for “shall have regard” substitute
 
 > must have regard—
 >
@@ -88,7 +88,7 @@ TCPA 1990 is amended as follows.
 
 .
 
-**9.**[^key-09ab274aaad5c6388253ca92f8427882] In section 102 (orders requiring discontinuance of use or alteration or removal of buildings or works)—
+**9.**[^c-09ab274aaad5c6388253ca92f8427882] In section 102 (orders requiring discontinuance of use or alteration or removal of buildings or works)—
 
 - (a) in subsection (1), for “the development plan and to any other material considerations” substitute “the relevant considerations”;
 - (b) after that subsection insert—
@@ -98,7 +98,7 @@ TCPA 1990 is amended as follows.
   > - (a) in the case of an authority in England, the development plan, any national development management policies so far as they are material and any other material considerations, or
   > - (b) in the case of an authority in Wales, the development plan and any other material considerations.
 
-**10.**[^key-a0980bd74609c978747bca0c3e418074] In section 172 (issue of enforcement notice), in subsection (1)(b), for “regard” substitute
+**10.**[^c-a0980bd74609c978747bca0c3e418074] In section 172 (issue of enforcement notice), in subsection (1)(b), for “regard” substitute
 
 > regard—
 >
@@ -107,7 +107,7 @@ TCPA 1990 is amended as follows.
 
 .
 
-**11.**[^key-9dd2f29cfb16f3c6f2d8dcc82cf6c154] In section 177 (grant or modification of planning permission on appeals against enforcement notices), for subsection (2) substitute—
+**11.**[^c-9dd2f29cfb16f3c6f2d8dcc82cf6c154] In section 177 (grant or modification of planning permission on appeals against enforcement notices), for subsection (2) substitute—
 
 > (2) In considering whether to grant planning permission under subsection (1)—
 >
@@ -119,7 +119,7 @@ TCPA 1990 is amended as follows.
 >   - (i) to the provisions of the development plan, so far as material to the subject matter of the enforcement notice, and
 >   - (ii) to any other material considerations.
 
-**12.**[^key-f0ff330c4d10423f399e95cf47aaf25e] In Schedule 4B (process for making of neighbourhood development orders)—
+**12.**[^c-f0ff330c4d10423f399e95cf47aaf25e] In Schedule 4B (process for making of neighbourhood development orders)—
 
 - (a) in paragraph 5(5), before paragraph (a) insert—
 
@@ -132,7 +132,7 @@ TCPA 1990 is amended as follows.
 
   .
 
-**13.**[^key-d915d504965b0e7cc3b7d96cc30998f2] In Schedule 9 (requirements relating to discontinuance of mineral working), in paragraph 1—
+**13.**[^c-d915d504965b0e7cc3b7d96cc30998f2] In Schedule 9 (requirements relating to discontinuance of mineral working), in paragraph 1—
 
 - (a) in sub-paragraph (1), for “the development plan and to any other material considerations” substitute “the relevant considerations”;
 - (b) after that sub-paragraph insert—
@@ -142,7 +142,7 @@ TCPA 1990 is amended as follows.
   > - (a) in the case of an authority in England, the development plan, any national development management policies so far as they are material and any other material considerations, or
   > - (b) in the case of an authority in Wales, the development plan and any other material considerations.
 
-### 14. Planning (Hazardous Substances) Act 1990[^key-11040c1d543c5b88bfc230f882c35161]
+### 14. Planning (Hazardous Substances) Act 1990[^c-11040c1d543c5b88bfc230f882c35161]
 
 In section 9 of the Hazardous Substances Act (determination of applications for hazardous substances consent), in subsection (2), after paragraph (c) insert—
 
@@ -150,7 +150,7 @@ In section 9 of the Hazardous Substances Act (determination of applications for 
 
 .
 
-### 15. Greater London Authority Act 1999[^key-2ae8230f2e5ae3a0c4093a895072f981]
+### 15. Greater London Authority Act 1999[^c-2ae8230f2e5ae3a0c4093a895072f981]
 
 In section 337(2) of GLAA 1999 (matters that may give rise to modification of spatial development strategy for London before publication), after paragraph (c) (but before the “or” at the end of that paragraph) insert—
 
@@ -160,32 +160,32 @@ In section 337(2) of GLAA 1999 (matters that may give rise to modification of sp
 
 ## Annotations
 
-[^key-9cc51e64610e597f2f502b5f59a9fb1a]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-9cc51e64610e597f2f502b5f59a9fb1a]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-bc985a46d77bd3f770e25550a444342a]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-bc985a46d77bd3f770e25550a444342a]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-337c41951ea0fad8402c6ebc8259b51c]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-337c41951ea0fad8402c6ebc8259b51c]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-844039d4113b467b5ad12d998d70d8ee]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-844039d4113b467b5ad12d998d70d8ee]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-cb865a5ba4000e040d9dcb272c75b84a]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-cb865a5ba4000e040d9dcb272c75b84a]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-680e226979ff2c89be4437a7ece4784e]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-680e226979ff2c89be4437a7ece4784e]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-e5eaedb8a6dc2c6c5ec511d87af4fe5e]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-e5eaedb8a6dc2c6c5ec511d87af4fe5e]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-f9b730df40a5cd595d2d2dcb1d6e9391]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-f9b730df40a5cd595d2d2dcb1d6e9391]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-09ab274aaad5c6388253ca92f8427882]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-09ab274aaad5c6388253ca92f8427882]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-a0980bd74609c978747bca0c3e418074]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-a0980bd74609c978747bca0c3e418074]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-9dd2f29cfb16f3c6f2d8dcc82cf6c154]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-9dd2f29cfb16f3c6f2d8dcc82cf6c154]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-f0ff330c4d10423f399e95cf47aaf25e]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-f0ff330c4d10423f399e95cf47aaf25e]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-d915d504965b0e7cc3b7d96cc30998f2]: Commencement: Sch. 6 para. 13 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-d915d504965b0e7cc3b7d96cc30998f2]: Commencement: Sch. 6 para. 13 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-11040c1d543c5b88bfc230f882c35161]: Commencement: Sch. 6 para. 14 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-11040c1d543c5b88bfc230f882c35161]: Commencement: Sch. 6 para. 14 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-2ae8230f2e5ae3a0c4093a895072f981]: Commencement: Sch. 6 para. 15 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-2ae8230f2e5ae3a0c4093a895072f981]: Commencement: Sch. 6 para. 15 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

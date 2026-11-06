@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 907. Meaning of “intellectual property”[^key-831b4b9a5407a093423b047c11781b45]
+## 907. Meaning of “intellectual property”[^c-831b4b9a5407a093423b047c11781b45]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-831b4b9a5407a093423b047c11781b45]: Textual amendment: S. 907 substituted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/40/3)
+[^c-831b4b9a5407a093423b047c11781b45]: Textual amendment: S. 907 substituted (with effect in accordance with s. 40(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 40(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/40/3)

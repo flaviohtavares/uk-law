@@ -35,16 +35,16 @@ concerning the non-approval of propolis extract as a basic substance in accordan
 
 (Text with EEA relevance) (revoked)
 
-[^key-aec7e0081bb868908f19f9c969cf24be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aec7e0081bb868908f19f9c969cf24be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-aec7e0081bb868908f19f9c969cf24be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-aec7e0081bb868908f19f9c969cf24be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-aec7e0081bb868908f19f9c969cf24be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-aec7e0081bb868908f19f9c969cf24be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aec7e0081bb868908f19f9c969cf24be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aec7e0081bb868908f19f9c969cf24be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aec7e0081bb868908f19f9c969cf24be]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-aec7e0081bb868908f19f9c969cf24be]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

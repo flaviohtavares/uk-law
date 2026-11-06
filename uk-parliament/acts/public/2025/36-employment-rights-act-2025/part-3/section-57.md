@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. International agreements relating to maritime employment[^key-a99ef189216a277ee78f1c011df9cf2c][^key-eeff8af6ee44abc6cc61c3f7b49a54d7]
+## 57. International agreements relating to maritime employment[^c-a99ef189216a277ee78f1c011df9cf2c][^c-eeff8af6ee44abc6cc61c3f7b49a54d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a99ef189216a277ee78f1c011df9cf2c]: Commencement: S. 57 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a99ef189216a277ee78f1c011df9cf2c]: Commencement: S. 57 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-eeff8af6ee44abc6cc61c3f7b49a54d7]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/36/section/57) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/6)
+[^c-eeff8af6ee44abc6cc61c3f7b49a54d7]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/36/section/57) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/6)

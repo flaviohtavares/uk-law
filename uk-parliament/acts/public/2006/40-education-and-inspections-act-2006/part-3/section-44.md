@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Prohibition on interviews[^key-66a0aad21cd1aa1b93de04c51c6a2c33][^key-8e9f42f1fa48a14659bb01217030ab47]
+## 44. Prohibition on interviews[^c-66a0aad21cd1aa1b93de04c51c6a2c33][^c-8e9f42f1fa48a14659bb01217030ab47]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ After section 88 of SSFA 1998 insert—
 
 ## Annotations
 
-[^key-66a0aad21cd1aa1b93de04c51c6a2c33]: Commencement: S. 44 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/c)
+[^c-66a0aad21cd1aa1b93de04c51c6a2c33]: Commencement: S. 44 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/c)
 
-[^key-8e9f42f1fa48a14659bb01217030ab47]: Commencement: S. 44 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-8e9f42f1fa48a14659bb01217030ab47]: Commencement: S. 44 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)

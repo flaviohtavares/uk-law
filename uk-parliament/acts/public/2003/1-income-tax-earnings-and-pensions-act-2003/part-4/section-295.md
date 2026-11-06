@@ -33,7 +33,7 @@ summary: ''
 - (b) any other office which is one of the offices and positions in respect of which salaries are payable under section 1 of the Ministerial and other Salaries Act 1975 (c. 27), and
 - (c) an office under one of the following Acts which corresponds to an office within paragraph (a) or (b)—
   - (i) the Scotland Act 1998 (c. 46),
-  - (ii) the Government of Wales Act 2006[^key-ca6177c5b901994d11ca6477205bf475], or
+  - (ii) the Government of Wales Act 2006[^c-ca6177c5b901994d11ca6477205bf475], or
   - (iii) the Northern Ireland Act 1998 (c. 47).
 
 (4) In determining whether a particular person holds an office within subsection (3)(b), it is irrelevant whether or not a salary is paid or payable to that person under the Ministerial and other Salaries Act 1975.
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca6177c5b901994d11ca6477205bf475]: Textual amendment: Words in s. 295(3)(c)(ii) substituted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [Sch. 1 para. 105](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/105)
+[^c-ca6177c5b901994d11ca6477205bf475]: Textual amendment: Words in s. 295(3)(c)(ii) substituted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [Sch. 1 para. 105](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/105)

@@ -34,7 +34,7 @@ Environmental Protection
 
 Water
 
-The Water Environment (Controlled Activities) (Scotland) Regulations 2011 (revoked)[^key-f63c80a43c296ab662fc98491d25ecd7]
+The Water Environment (Controlled Activities) (Scotland) Regulations 2011 (revoked)[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 Made
 
@@ -44,11 +44,11 @@ Coming into force
 
 31st March 2011
 
-[^key-f63c80a43c296ab662fc98491d25ecd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f63c80a43c296ab662fc98491d25ecd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — General[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART I — General[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -58,7 +58,7 @@ Coming into force
 - [Section 4 — Prohibition](part-i/section-4.md)
 - [Section 5 — Duty to use water efficiently](part-i/section-5.md)
 
-### PART II — Authorisations[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART II — Authorisations[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -68,7 +68,7 @@ Coming into force
 - [Section 9 — Groundwater Directive](part-ii/section-9.md)
 - [Section 10 — Power of SEPA to impose authorisation](part-ii/section-10.md)
 
-### PART III — Applications and Application Procedure[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART III — Applications and Application Procedure[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -83,7 +83,7 @@ Coming into force
 - [Section 19 — Directions to SEPA regarding accelerated applications, variations and suspensions](part-iii/section-19.md)
 - [Section 20 — Determinations of applications by the Scottish Ministers](part-iii/section-20.md)
 
-### PART IV — Modification and termination of authorisations[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART IV — Modification and termination of authorisations[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 29 — Suspension and revocation of authorisation](part-iv/section-29.md)
 - [Section 30 — Consolidated authorisations](part-iv/section-30.md)
 
-### PART V — Enforcement and other powers[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART V — Enforcement and other powers[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 34 — Enforcement notices — rights of entry, compensation etc.](part-v/section-34.md)
 - [Section 35 — Enforcement by the courts](part-v/section-35.md)
 
-### PART VI — Information and Register[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART VI — Information and Register[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -121,7 +121,7 @@ Coming into force
 - [Section 42 — Effect of determination](part-vi/section-42.md)
 - [Section 43 — Directions to SEPA concerning confidential information](part-vi/section-43.md)
 
-### PART VII — Offences[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART VII — Offences[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -132,7 +132,7 @@ Coming into force
 - [Section 48 — Defence to principal offences](part-vii/section-48.md)
 - [Section 49 — Power of court to order offence to be remedied](part-vii/section-49.md)
 
-### PART VIII — Appeals[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART VIII — Appeals[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -141,7 +141,7 @@ Coming into force
 - [Section 52 — Effect of notices etc. during consideration of appeal](part-viii/section-52.md)
 - [Section 53 — Appeals – miscellaneous](part-viii/section-53.md)
 
-### PART IX — General[^key-f63c80a43c296ab662fc98491d25ecd7]
+### PART IX — General[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 **No longer in force.**
 
@@ -167,14 +167,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-f63c80a43c296ab662fc98491d25ecd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f63c80a43c296ab662fc98491d25ecd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-f63c80a43c296ab662fc98491d25ecd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f63c80a43c296ab662fc98491d25ecd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f63c80a43c296ab662fc98491d25ecd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/209) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f63c80a43c296ab662fc98491d25ecd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/209) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

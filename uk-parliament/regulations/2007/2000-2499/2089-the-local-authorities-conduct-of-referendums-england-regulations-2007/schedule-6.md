@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Application, with further modifications, of the Representation of the People Act 1983 in relation to Referendum Petitions[^key-823e529f3cb9899c6f8a66b0ac68114a]
+## SCHEDULE 6 — Application, with further modifications, of the Representation of the People Act 1983 in relation to Referendum Petitions[^c-823e529f3cb9899c6f8a66b0ac68114a]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ Regulation 15
 
 ## Annotations
 
-[^key-823e529f3cb9899c6f8a66b0ac68114a]: Commencement: Sch. 6 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-823e529f3cb9899c6f8a66b0ac68114a]: Commencement: Sch. 6 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00133]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); section 128 was amended by paragraph 12 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 

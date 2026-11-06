@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Fees and charges[^key-50024d56d89ca5b3338795e4c0eeef9b][^key-ebf0fd7dec4cf38b46f94fdfa13712d0][^key-044422a247a3a6f30ec2763df0ee9221]
+## 57. Fees and charges[^c-50024d56d89ca5b3338795e4c0eeef9b][^c-ebf0fd7dec4cf38b46f94fdfa13712d0][^c-044422a247a3a6f30ec2763df0ee9221]
 
 *Extent: E+W*
 
@@ -52,8 +52,8 @@ In the Building Act 1984 after section 105A (inserted by paragraph 29 of Schedul
 
 ## Annotations
 
-[^key-50024d56d89ca5b3338795e4c0eeef9b]: Commencement: S. 57 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(x)(c)
+[^c-50024d56d89ca5b3338795e4c0eeef9b]: Commencement: S. 57 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(x)(c)
 
-[^key-ebf0fd7dec4cf38b46f94fdfa13712d0]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/30/section/57) in force at 28.6.2022 for E. by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(g)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/g)
+[^c-ebf0fd7dec4cf38b46f94fdfa13712d0]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/30/section/57) in force at 28.6.2022 for E. by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(g)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/g)
 
-[^key-044422a247a3a6f30ec2763df0ee9221]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/30/section/57) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xvi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xvi)
+[^c-044422a247a3a6f30ec2763df0ee9221]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/30/section/57) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xvi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xvi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-d24e005bac5b06e133491b043bf786fa]
+## SCHEDULE 7 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-d24e005bac5b06e133491b043bf786fa]
 
 *Extent: E+W*
 
@@ -113,7 +113,7 @@ Article 40
 | 5/38b | Access and working area for construction of retaining structures on adjoining land. | Work No. 10 |
 | 6/11a | Temporary car park.<br>Temporary roads.<br>Temporary path and footway diversion routes.<br>Construction compound including material storage, laydown areas, temporary buildings, welfare facilities, storage of plant and construction access.<br>Access and working area for construction of temporary soil storage bunds and soil storage area during construction works. | Work No. T13<br>Work No. T14<br>Work No. 18<br>All works |
 | 6/12a | Temporary roads.<br>Temporary path and footway diversion routes.<br>Construction compound including material storage, laydown areas, temporary buildings, welfare facilities, storage of plant and construction access.<br>Construction of temporary soil storage bunds and soil storage area during construction works.<br>Access and working area for repositioning private irrigation pipe. | Work No. U41A<br>Work No. T13<br>Work No. T14<br>Work No. T16<br>All works. |
-| 6/12e | Temporary works [^key-423b1a54be25622d039784a3418b9cd4]... associated with the excavation of a borrow pit including, access routes, temporary diversion of private rights of way, water management, soil storage and material processing.<br>Maintenance of access to adjoining land. | Work No. T17<br>Work No. 17<br>All works |
+| 6/12e | Temporary works [^c-423b1a54be25622d039784a3418b9cd4]... associated with the excavation of a borrow pit including, access routes, temporary diversion of private rights of way, water management, soil storage and material processing.<br>Maintenance of access to adjoining land. | Work No. T17<br>Work No. 17<br>All works |
 | 6/12f | Temporary roads.<br>Temporary path and footway diversion routes.<br>Construction compound including material storage, laydown areas, temporary buildings, welfare facilities, storage of plant and construction access.<br>Construction of temporary soil storage bunds and soil storage area during construction works. | Work No. T14<br>Work No. T18<br>All works |
 | 6/12h | Temporary roads.<br>Temporary path and footway diversion routes.<br>Construction compound including material storage, laydown areas, temporary buildings, welfare facilities, storage of plant and construction access.<br>Construction of temporary soil storage bunds and soil storage area during construction works. | Work No. T14<br>Work No. T16<br>All works |
 | 6/15a | Temporary roads.<br>Temporary path and footway diversion routes. | Work No. T14<br>All works |
@@ -127,7 +127,7 @@ Article 40
 | 7/8a | Access and working area for utility diversion works. | Work No. U44<br>Work No. U56 |
 | 7/8b | Access and working area for utility diversion works. | Work No. U44<br>Work No. U54<br>Work No. U56 |
 | 7/8c | Access and working area for utility diversion works. | Work No. U44<br>Work No. U56 |
-| 7/10b | Haul road and construction access.<br>Temporary works [^key-e59f19613624f597a82e44e8d099d959]... associated with the excavation of a borrow pit including, access routes, temporary diversion of private rights of way, water management, soil storage and material processing.<br>Access and working area for construction of temporary soil storage bunds and soil storage area during construction works. | Work No. T20<br>Work No. T21<br>All works |
+| 7/10b | Haul road and construction access.<br>Temporary works [^c-e59f19613624f597a82e44e8d099d959]... associated with the excavation of a borrow pit including, access routes, temporary diversion of private rights of way, water management, soil storage and material processing.<br>Access and working area for construction of temporary soil storage bunds and soil storage area during construction works. | Work No. T20<br>Work No. T21<br>All works |
 | 7/10g | Construction compound including material storage, laydown areas, temporary buildings, welfare facilities, storage of plant and construction access.<br>Haul road and construction access. | Work No. T23<br>All works |
 | 7/10h | Access and working area for works on adjoining land. | Work No. 25<br>Work No. 29(a)<br>Work No. 29(b) |
 | 7/10l | Haul road and construction access. | Work No. T23<br>All works |
@@ -223,7 +223,7 @@ Article 40
 | 12/9b | Construction material storage, construction access, laydown areas, welfare facilities, working area and storage of plant.<br>Access and working area for construction of temporary soil storage bunds and soil storage area during construction works. | Work No. 52<br>All works |
 | 12/13a | Access and working area for construction of drainage infrastructure. | Work No. 45(a) |
 | 12/14a | Construction material storage, construction access, laydown areas, welfare facilities, working area and storage of plant.<br>Access and working area for construction of drainage infrastructure. | Work No. 45(a)<br>All works |
-| 12/19b | Access and working area for construction of drainage infrastructure.<br>Access and working area for construction of local access road.<br>Temporary storage, laydown areas, access and working space to facilitate the construction of Sniveller’s Lane Bridge.<br>Access and working area for utility diversion works.<br>Temporary works [^key-803138567850ced1086c550c96eb7ee7]... associated with the excavation of a borrow pit including, access routes, temporary diversion of private rights of way, water management, soil storage and material processing.<br>Temporary haul road. | Work No. U123<br>Work No. U124<br>Work No. T32<br>Work No. T34<br>All works |
+| 12/19b | Access and working area for construction of drainage infrastructure.<br>Access and working area for construction of local access road.<br>Temporary storage, laydown areas, access and working space to facilitate the construction of Sniveller’s Lane Bridge.<br>Access and working area for utility diversion works.<br>Temporary works [^c-803138567850ced1086c550c96eb7ee7]... associated with the excavation of a borrow pit including, access routes, temporary diversion of private rights of way, water management, soil storage and material processing.<br>Temporary haul road. | Work No. U123<br>Work No. U124<br>Work No. T32<br>Work No. T34<br>All works |
 | 12/19c | Access and working area for utility diversion works. | Work No. U124A<br>Work No. U128<br>Work No. U128A |
 | 12/28a | Construction material storage, construction access, laydown areas, welfare facilities, working area and storage of plant. | Work No. 45(a) |
 | 13/1f | Construction material storage, construction access, laydown areas, welfare facilities, working area and storage of plant. | Work No. 45(a) |
@@ -287,10 +287,10 @@ Article 40
 
 ## Annotations
 
-[^key-d24e005bac5b06e133491b043bf786fa]: Commencement: Sch. 7 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-d24e005bac5b06e133491b043bf786fa]: Commencement: Sch. 7 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-423b1a54be25622d039784a3418b9cd4]: Textual amendment: Word in Sch. 7 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-423b1a54be25622d039784a3418b9cd4]: Textual amendment: Word in Sch. 7 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-e59f19613624f597a82e44e8d099d959]: Textual amendment: Word in Sch. 7 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-e59f19613624f597a82e44e8d099d959]: Textual amendment: Word in Sch. 7 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-803138567850ced1086c550c96eb7ee7]: Textual amendment: Word in Sch. 7 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-803138567850ced1086c550c96eb7ee7]: Textual amendment: Word in Sch. 7 Table omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

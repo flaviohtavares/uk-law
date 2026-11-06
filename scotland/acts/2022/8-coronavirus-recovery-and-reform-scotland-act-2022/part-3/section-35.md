@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Claim for interim payment of fees and outlays[^key-22b47fcdc1eea57124f6ad8b5b53a1b2]
+## 35. Claim for interim payment of fees and outlays[^c-22b47fcdc1eea57124f6ad8b5b53a1b2]
 
 *Extent: S*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b47fcdc1eea57124f6ad8b5b53a1b2]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2022/8/section/35) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-22b47fcdc1eea57124f6ad8b5b53a1b2]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2022/8/section/35) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

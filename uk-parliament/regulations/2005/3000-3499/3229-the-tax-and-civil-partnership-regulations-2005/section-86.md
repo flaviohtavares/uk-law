@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86.[^key-5fe0507c4a8c196ef77103f7cc54bfb1]
+## 86.[^c-5fe0507c4a8c196ef77103f7cc54bfb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 628 (partnership retirement annuities), in subsection (1), in the wor
 
 ## Annotations
 
-[^key-5fe0507c4a8c196ef77103f7cc54bfb1]: Commencement: Reg. 86 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-5fe0507c4a8c196ef77103f7cc54bfb1]: Commencement: Reg. 86 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

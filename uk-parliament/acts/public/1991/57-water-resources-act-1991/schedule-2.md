@@ -24,7 +24,7 @@ Section 2.
 
 ### Powers to transfer functions or property
 
-**1.** (1) The appropriate agency[^key-0fd372c85530a6f6cef5e69632494034] may at any time apply to the Ministers for an order under this Schedule transferring to the appropriate agency any of the functions or property of a navigation authority, harbour authority or conservancy authority.
+**1.** (1) The appropriate agency[^c-0fd372c85530a6f6cef5e69632494034] may at any time apply to the Ministers for an order under this Schedule transferring to the appropriate agency any of the functions or property of a navigation authority, harbour authority or conservancy authority.
 
 (2) The power to make an order under this Schedule shall be exercisable by statutory instrument.
 
@@ -79,7 +79,7 @@ and, in making the order, the Ministers may make such modifications in the terms
 
 **5.** (1) After making an order under this Schedule, the Ministers, if an objection—
 
-- (a) has been duly made by the appropriate agency[^key-9c09ed556e39aa65921c324445393d83] or any other body on which notice is required to be served under paragraph 3 above; and
+- (a) has been duly made by the appropriate agency[^c-9c09ed556e39aa65921c324445393d83] or any other body on which notice is required to be served under paragraph 3 above; and
 - (b) has not been withdrawn,
 
 shall serve notice of the making of the order and of the effect of the order on the appropriate agency or, as the case may be, that body.
@@ -125,7 +125,7 @@ may quash the order either generally or in so far as it affects the applicant.
 
 ### Effect of order or agreement
 
-**8.** (1) Where, by virtue of an order or agreement under this Schedule, property is transferred to the appropriate agency[^key-67bc30589998ef873725f84a792e9a79] on the terms that—
+**8.** (1) Where, by virtue of an order or agreement under this Schedule, property is transferred to the appropriate agency[^c-67bc30589998ef873725f84a792e9a79] on the terms that—
 
 - (a) the body from which it is transferred shall continue liable for the repayment of, and payment of interest on, any sum borrowed in connection with the property; and
 - (b) the appropriate agency shall make payments to that body in respect of amounts paid by that body by reason of its continuing so liable,
@@ -134,7 +134,7 @@ any payment so made by the shall be deemed to be a capital payment or an annual 
 
 (2) Property vested in the appropriate agency by virtue of an order or agreement under this Schedule shall not be treated as so vested by way of sale for the purpose of section 12 of the [^c18743901]Finance Act 1895 (which provides for charging stamp duty in the case of certain statutory transfers by way of sale).
 
-(3)[^key-fe29b81b0179e8cc7656bf324f208228] A land transaction by which property is vested in the appropriate agency by virtue of an order or agreement under this Schedule is exempt from charge for the purposes of stamp duty land tax.
+(3)[^c-fe29b81b0179e8cc7656bf324f208228] A land transaction by which property is vested in the appropriate agency by virtue of an order or agreement under this Schedule is exempt from charge for the purposes of stamp duty land tax.
 
 (4) Relief under sub-paragraph (3) must be claimed in a land transaction return or an amendment of such a return.
 
@@ -153,7 +153,7 @@ any payment so made by the shall be deemed to be a capital payment or an annual 
 
 ### Compensation for officers and staff
 
-**10.** (1) The Ministers shall by regulations make provision requiring the payment by the appropriate agency[^key-3f01837d86d53b712feb80726633ca27], subject to such exceptions or conditions as may be prescribed, of compensation to or in respect of persons who—
+**10.** (1) The Ministers shall by regulations make provision requiring the payment by the appropriate agency[^c-3f01837d86d53b712feb80726633ca27], subject to such exceptions or conditions as may be prescribed, of compensation to or in respect of persons who—
 
 - (a) are, or but for any military or other designated service of theirs would be, the holders of any such situation, place or employment as may be prescribed; and
 - (b) suffer loss of employment, or loss or diminution of emoluments, in consequence of any order or agreement under this Schedule.
@@ -196,20 +196,20 @@ those Ministers may by order repeal, amend or adapt that enactment to such exten
 
 [^c18743731]: Modification: Sch. 2: Functions transferred (1.4.1996) to the Agency by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 2(1)(a)(vii)](https://www.legislation.gov.uk/ukpga/1995/25/section/2/1/a/vii) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-0fd372c85530a6f6cef5e69632494034]: Textual amendment: Words in [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0fd372c85530a6f6cef5e69632494034]: Textual amendment: Words in [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18743811]: Marginal citation: [1963 c. 38](https://www.legislation.gov.uk/ukpga/1963/38).
 
-[^key-9c09ed556e39aa65921c324445393d83]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9c09ed556e39aa65921c324445393d83]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18743851]: Marginal citation: [1945 c. 18 (9 & 10 Geo 6)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/18).
 
-[^key-67bc30589998ef873725f84a792e9a79]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-67bc30589998ef873725f84a792e9a79]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18743901]: Marginal citation: [1895 c. 16](https://www.legislation.gov.uk/ukpga/1895/16).
 
-[^key-fe29b81b0179e8cc7656bf324f208228]: Textual amendment: Sch. 2 para. 8(3)-(5) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/17)
+[^c-fe29b81b0179e8cc7656bf324f208228]: Textual amendment: Sch. 2 para. 8(3)-(5) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/17)
 
-[^key-3f01837d86d53b712feb80726633ca27]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/10) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3f01837d86d53b712feb80726633ca27]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1991/57/schedule/2/paragraph/10) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 306](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/306) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18743931]: Marginal citation: [1963 c. 38](https://www.legislation.gov.uk/ukpga/1963/38).

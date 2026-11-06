@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Child Support Commissioners.[^key-c1243ebe67fdef29f5e41bcc33db36fd]
+## 22. Child Support Commissioners.[^c-c1243ebe67fdef29f5e41bcc33db36fd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1243ebe67fdef29f5e41bcc33db36fd]: Textual amendment: S. 22 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 82](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/82) (see also as to the transfer of functions [arts. 3(2)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/3), [4](https://www.legislation.gov.uk/uksi/2008/2833/article/4), [5](https://www.legislation.gov.uk/uksi/2008/2833/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2833/schedule/1))
+[^c-c1243ebe67fdef29f5e41bcc33db36fd]: Textual amendment: S. 22 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 82](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/82) (see also as to the transfer of functions [arts. 3(2)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/3), [4](https://www.legislation.gov.uk/uksi/2008/2833/article/4), [5](https://www.legislation.gov.uk/uksi/2008/2833/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2833/schedule/1))

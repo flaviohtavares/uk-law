@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292. Accommodation expenses of MPs[^key-e87ad62eaf1ea8b7258c246c56dfee15]
+## 292. Accommodation expenses of MPs[^c-e87ad62eaf1ea8b7258c246c56dfee15]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 
 (4) Subsection (1) does not apply to a loan for a deposit payable at the commencement of a tenancy.
 
-(5)[^key-4b3c23d8e94d0cbf1e669716439e8672] The reference in subsection (1) to a payment made to a member of the House of Commons under section 5(1) of the Parliamentary Standards Act 2009 includes a payment made under that section to another person at the direction of a member (see section 6(7) of that Act).
+(5)[^c-4b3c23d8e94d0cbf1e669716439e8672] The reference in subsection (1) to a payment made to a member of the House of Commons under section 5(1) of the Parliamentary Standards Act 2009 includes a payment made under that section to another person at the direction of a member (see section 6(7) of that Act).
 
 ## Annotations
 
-[^key-e87ad62eaf1ea8b7258c246c56dfee15]: Textual amendment: S. 292 substituted (with effect in accordance with Sch. 4 para. 1(4)(5) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/1/2)
+[^c-e87ad62eaf1ea8b7258c246c56dfee15]: Textual amendment: S. 292 substituted (with effect in accordance with Sch. 4 para. 1(4)(5) of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/4/paragraph/1/2)
 
-[^key-4b3c23d8e94d0cbf1e669716439e8672]: Textual amendment: S. 292(5) inserted (with effect in accordance with s. 37(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 37(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/37/1)
+[^c-4b3c23d8e94d0cbf1e669716439e8672]: Textual amendment: S. 292(5) inserted (with effect in accordance with s. 37(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 37(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/37/1)

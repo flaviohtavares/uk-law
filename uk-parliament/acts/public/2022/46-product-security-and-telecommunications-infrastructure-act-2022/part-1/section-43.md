@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Further provision about forfeiture[^key-1852c97ab24db556ccd97f06feb13ec2][^key-d1ccbdaf9756432c2dc11f1c2df153f2]
+## 43. Further provision about forfeiture[^c-1852c97ab24db556ccd97f06feb13ec2][^c-d1ccbdaf9756432c2dc11f1c2df153f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ an application under section 42 relating to the compliance failure may be made i
 
 ## Annotations
 
-[^key-1852c97ab24db556ccd97f06feb13ec2]: Commencement: S. 43 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-1852c97ab24db556ccd97f06feb13ec2]: Commencement: S. 43 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-d1ccbdaf9756432c2dc11f1c2df153f2]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/46/section/43) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-d1ccbdaf9756432c2dc11f1c2df153f2]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/46/section/43) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

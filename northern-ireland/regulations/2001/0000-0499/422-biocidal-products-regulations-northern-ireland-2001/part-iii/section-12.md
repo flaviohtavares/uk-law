@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Mutual recognition of registrations[^key-eb91a4342dfd71ed1548313193b475a6]
+## 12. Mutual recognition of registrations[^c-eb91a4342dfd71ed1548313193b475a6]
 
 *Extent: N.I.*
 
@@ -93,4 +93,4 @@ it may propose conditions and restrictions relating to the matters referred to i
 
 ## Annotations
 
-[^key-eb91a4342dfd71ed1548313193b475a6]: Commencement: Reg. 12 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-eb91a4342dfd71ed1548313193b475a6]: Commencement: Reg. 12 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

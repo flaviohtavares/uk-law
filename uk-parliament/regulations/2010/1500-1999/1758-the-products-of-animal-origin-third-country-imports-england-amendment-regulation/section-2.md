@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 2. Amendments to the Products of Animal Origin (Third Country Imports) (England) Regulations[^key-6686a686092b266ab272355d3d84a80e]
+## 2. Amendments to the Products of Animal Origin (Third Country Imports) (England) Regulations[^c-6686a686092b266ab272355d3d84a80e]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6686a686092b266ab272355d3d84a80e]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), regs. 1, [44(g)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-6686a686092b266ab272355d3d84a80e]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), regs. 1, [44(g)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

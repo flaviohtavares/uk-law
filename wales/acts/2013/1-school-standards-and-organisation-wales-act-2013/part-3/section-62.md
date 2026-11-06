@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Adoption of proposals[^key-e1b635ba6b4bf379f3d37df877e11ff3]
+## 62. Adoption of proposals[^c-e1b635ba6b4bf379f3d37df877e11ff3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b635ba6b4bf379f3d37df877e11ff3]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2013/1/section/62) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)
+[^c-e1b635ba6b4bf379f3d37df877e11ff3]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2013/1/section/62) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(b)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/b)

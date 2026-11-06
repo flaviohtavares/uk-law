@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Request for internal review[^key-082de466cee306f1bf9a62eab384d27b][^key-f1b6b186e4c6a81107d96e2fe0057f8d]
+## 82. Request for internal review[^c-082de466cee306f1bf9a62eab384d27b][^c-f1b6b186e4c6a81107d96e2fe0057f8d]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ the Chief Executive Officer may not appoint to the reviewing committee a member 
 
 ## Annotations
 
-[^key-082de466cee306f1bf9a62eab384d27b]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-082de466cee306f1bf9a62eab384d27b]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-f1b6b186e4c6a81107d96e2fe0057f8d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2025/21/section/82) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)
+[^c-f1b6b186e4c6a81107d96e2fe0057f8d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2025/21/section/82) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)

@@ -23,8 +23,8 @@ summary: ''
 Proceedings for an offence under section 134 above shall not be begun—
 
 - (a) in England and Wales, except by, or with the consent of, the Attorney General; or
-- (b) in Northern Ireland, except by, or with the consent of, the Advocate General for Northern Ireland[^key-540d5aebd94ebb93ca233e88ac27213f].
+- (b) in Northern Ireland, except by, or with the consent of, the Advocate General for Northern Ireland[^c-540d5aebd94ebb93ca233e88ac27213f].
 
 ## Annotations
 
-[^key-540d5aebd94ebb93ca233e88ac27213f]: Textual amendment: Words in s. 135 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/31); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
+[^c-540d5aebd94ebb93ca233e88ac27213f]: Textual amendment: Words in s. 135 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/31); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)

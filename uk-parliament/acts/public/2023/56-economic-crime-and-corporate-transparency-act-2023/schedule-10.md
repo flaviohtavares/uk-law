@@ -24,9 +24,9 @@ Section 181
 
 ### PART 1 — Amendments to the Anti-terrorism, Crime and Security Act 2001
 
-**1.**[^key-de4db59c568eb9f6adb09266bc38ea8b][^key-0b70011ac6ea6781df425a02553d7735] Schedule 1 to the Anti-terrorism, Crime and Security Act 2001 (forfeiture of terrorist property) is amended as follows.
+**1.**[^c-de4db59c568eb9f6adb09266bc38ea8b][^c-0b70011ac6ea6781df425a02553d7735] Schedule 1 to the Anti-terrorism, Crime and Security Act 2001 (forfeiture of terrorist property) is amended as follows.
 
-**2.**[^key-d80a34c6182f6aad4401b137d083e17f][^key-906a12d46e97c6d5bb1056ba4804627a] After Part 4B insert—
+**2.**[^c-d80a34c6182f6aad4401b137d083e17f][^c-906a12d46e97c6d5bb1056ba4804627a] After Part 4B insert—
 
 > **PART 4BA — Seizure and detention of terrorist cryptoassets**
 >
@@ -1266,9 +1266,9 @@ Section 181
 >   - (b) in relation to converted cryptoassets detained under paragraph 10Z7DE, the cryptoassets mentioned in sub-paragraph (1) of that paragraph;
 > - “**the relevant crypto wallet freezing order**”, in relation to converted cryptoassets detained under paragraph 10Z7DE, means the crypto wallet freezing order mentioned in sub-paragraph (1) of that paragraph.
 
-**3.**[^key-517c817dad4a27447bb96f7e0c3a3949][^key-819b0c9eea2326f184151d473336b931] In Part 1, in paragraph 1(1) (terrorist cash), for “and 4B” substitute “to 4BD”.
+**3.**[^c-517c817dad4a27447bb96f7e0c3a3949][^c-819b0c9eea2326f184151d473336b931] In Part 1, in paragraph 1(1) (terrorist cash), for “and 4B” substitute “to 4BD”.
 
-**4.**[^key-b8d2c7b09d2349d69541cec74301be17][^key-ff76a37bcc231896f7a66e149d56741f] In Part 4B (forfeiture of terrorist money held in bank and building society accounts), after paragraph 10Z6 insert—
+**4.**[^c-b8d2c7b09d2349d69541cec74301be17][^c-ff76a37bcc231896f7a66e149d56741f] In Part 4B (forfeiture of terrorist money held in bank and building society accounts), after paragraph 10Z6 insert—
 
 > **10Z6A. Victims etc**
 >
@@ -1304,7 +1304,7 @@ Section 181
 >
 > (8) In relation to money held in an account that is subject to an account freezing order, references in this paragraph to a person from whom money was seized include a reference to a person by or for whom the account was operated immediately before the account freezing order was made.
 
-**5.**[^key-09d7fa7e4164b86e7e15c43c61bee34e][^key-55e59d13bce514ca1ae79fc19c3d017a] In Part 6, in paragraph 19(1), at the appropriate places insert—
+**5.**[^c-09d7fa7e4164b86e7e15c43c61bee34e][^c-55e59d13bce514ca1ae79fc19c3d017a] In Part 6, in paragraph 19(1), at the appropriate places insert—
 
 > - “**cryptoasset**” has the meaning given by paragraph 10Z7A(1);
 
@@ -1324,9 +1324,9 @@ Section 181
 
 ### PART 2 — Amendments to the Terrorism Act 2000
 
-**6.**[^key-c516ffd860cb79e4f6d33892c0bc6c7a][^key-4b868642a6b1d156e48ad7bd71c6b660] The Terrorism Act 2000 is amended as follows.
+**6.**[^c-c516ffd860cb79e4f6d33892c0bc6c7a][^c-4b868642a6b1d156e48ad7bd71c6b660] The Terrorism Act 2000 is amended as follows.
 
-**7.**[^key-e3bd5aba9bc52306a157d3d6dd59377f][^key-0c601ed39bc0fb108a5cffe481690d6e] In Schedule 6 (financial information)—
+**7.**[^c-e3bd5aba9bc52306a157d3d6dd59377f][^c-0c601ed39bc0fb108a5cffe481690d6e] In Schedule 6 (financial information)—
 
 - (a) in paragraph 6(1) (meaning of financial institution)—
   - (i) omit the “and” after paragraph (ha), and
@@ -1363,40 +1363,40 @@ Section 181
   >
   > (1AF) The Secretary of State may by regulations amend the definitions in sub-paragraphs (1AB) to (1AE).”
 
-**8.**[^key-61764c837240ecce9492b9624868f651][^key-ef5fe88103af41a1f426d214c9e983ef] In section 123 (orders and regulations), after subsection (6ZE) insert—
+**8.**[^c-61764c837240ecce9492b9624868f651][^c-ef5fe88103af41a1f426d214c9e983ef] In section 123 (orders and regulations), after subsection (6ZE) insert—
 
 > (6ZF) Regulations under paragraph 6(1AF) of Schedule 6 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
 ## Annotations
 
-[^key-de4db59c568eb9f6adb09266bc38ea8b]: Commencement: Sch. 10 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-de4db59c568eb9f6adb09266bc38ea8b]: Commencement: Sch. 10 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0b70011ac6ea6781df425a02553d7735]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/1) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-0b70011ac6ea6781df425a02553d7735]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/1) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-d80a34c6182f6aad4401b137d083e17f]: Commencement: Sch. 10 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-d80a34c6182f6aad4401b137d083e17f]: Commencement: Sch. 10 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-906a12d46e97c6d5bb1056ba4804627a]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/2) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-906a12d46e97c6d5bb1056ba4804627a]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/2) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-517c817dad4a27447bb96f7e0c3a3949]: Commencement: Sch. 10 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-517c817dad4a27447bb96f7e0c3a3949]: Commencement: Sch. 10 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-819b0c9eea2326f184151d473336b931]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/3) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-819b0c9eea2326f184151d473336b931]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/3) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-b8d2c7b09d2349d69541cec74301be17]: Commencement: Sch. 10 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b8d2c7b09d2349d69541cec74301be17]: Commencement: Sch. 10 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-ff76a37bcc231896f7a66e149d56741f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/4) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-ff76a37bcc231896f7a66e149d56741f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/4) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-09d7fa7e4164b86e7e15c43c61bee34e]: Commencement: Sch. 10 para. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-09d7fa7e4164b86e7e15c43c61bee34e]: Commencement: Sch. 10 para. 5 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-55e59d13bce514ca1ae79fc19c3d017a]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/5) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-55e59d13bce514ca1ae79fc19c3d017a]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/5) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-c516ffd860cb79e4f6d33892c0bc6c7a]: Commencement: Sch. 10 para. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c516ffd860cb79e4f6d33892c0bc6c7a]: Commencement: Sch. 10 para. 6 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4b868642a6b1d156e48ad7bd71c6b660]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/6) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-4b868642a6b1d156e48ad7bd71c6b660]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/6) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-e3bd5aba9bc52306a157d3d6dd59377f]: Commencement: Sch. 10 para. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e3bd5aba9bc52306a157d3d6dd59377f]: Commencement: Sch. 10 para. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0c601ed39bc0fb108a5cffe481690d6e]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/7) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-0c601ed39bc0fb108a5cffe481690d6e]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/7) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-61764c837240ecce9492b9624868f651]: Commencement: Sch. 10 para. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-61764c837240ecce9492b9624868f651]: Commencement: Sch. 10 para. 8 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-ef5fe88103af41a1f426d214c9e983ef]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/8) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-ef5fe88103af41a1f426d214c9e983ef]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/8) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)

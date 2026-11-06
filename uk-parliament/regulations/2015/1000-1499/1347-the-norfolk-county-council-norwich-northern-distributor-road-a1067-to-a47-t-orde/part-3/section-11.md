@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Classification of roads[^key-a47c1c0c3a0e9aeb49bd790e016173e0]
+## 11. Classification of roads[^c-a47c1c0c3a0e9aeb49bd790e016173e0]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ as if such classification had been made under section 12(3) of the 1980 Act.
 
 ## Annotations
 
-[^key-a47c1c0c3a0e9aeb49bd790e016173e0]: Commencement: Art. 11 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-a47c1c0c3a0e9aeb49bd790e016173e0]: Commencement: Art. 11 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

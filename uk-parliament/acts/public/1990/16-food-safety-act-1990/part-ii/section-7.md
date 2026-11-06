@@ -29,12 +29,12 @@ summary: ''
 
 with intent that it shall be sold for human consumption, shall be guilty of an offence.
 
-(2)[^key-ca053c972a1c31cc676a08b6f2ec4cdc] In determining for the purposes of this section whether any food is injurious to health, regard shall be had to the matters specified in sub–paragraphs (a) to (c) of Article 14(4) of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178).
+(2)[^c-ca053c972a1c31cc676a08b6f2ec4cdc] In determining for the purposes of this section whether any food is injurious to health, regard shall be had to the matters specified in sub–paragraphs (a) to (c) of Article 14(4) of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178).
 
-(3)[^key-57043b1d7fd566dc15aa9157dd1d5214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-57043b1d7fd566dc15aa9157dd1d5214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca053c972a1c31cc676a08b6f2ec4cdc]: Textual amendment: S. 7(2) substituted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/9/a)
+[^c-ca053c972a1c31cc676a08b6f2ec4cdc]: Textual amendment: S. 7(2) substituted (1.1.2005) by [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/9/a)
 
-[^key-57043b1d7fd566dc15aa9157dd1d5214]: Textual amendment: S. 7(3) omitted (1.1.2005) by virtue of [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/9/b)
+[^c-57043b1d7fd566dc15aa9157dd1d5214]: Textual amendment: S. 7(3) omitted (1.1.2005) by virtue of [General Food Regulations 2004 (S.I. 2004/3279)](https://www.legislation.gov.uk/uksi/2004/3279), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3279/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2004/3279/regulation/9/b)

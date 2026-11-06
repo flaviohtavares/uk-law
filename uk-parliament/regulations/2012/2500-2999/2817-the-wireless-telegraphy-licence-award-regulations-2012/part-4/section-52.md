@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Notice to be given to bidders before primary bid rounds[^key-b656d94bbda052b59dc9fb7370079841]
+## 52. Notice to be given to bidders before primary bid rounds[^c-b656d94bbda052b59dc9fb7370079841]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b656d94bbda052b59dc9fb7370079841]: Commencement: Reg. 52 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-b656d94bbda052b59dc9fb7370079841]: Commencement: Reg. 52 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

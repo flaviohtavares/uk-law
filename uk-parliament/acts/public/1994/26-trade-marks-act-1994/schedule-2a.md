@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — EUROPEAN UNION TRADE MARKS[^key-e65a7f079617bb8cc043527edd824a70]
+## SCHEDULE 2A — EUROPEAN UNION TRADE MARKS[^c-e65a7f079617bb8cc043527edd824a70]
 
 *Extent: E+W+S+N.I.*
 
@@ -544,4 +544,4 @@ the seniority claimed for the relevant mark is to be treated as if it never had 
 
 ## Annotations
 
-[^key-e65a7f079617bb8cc043527edd824a70]: Textual amendment: Sch. 2A inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/3) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/b/i/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e65a7f079617bb8cc043527edd824a70]: Textual amendment: Sch. 2A inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/3) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/b/i/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

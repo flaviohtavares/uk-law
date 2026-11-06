@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Shared ownership low cost rental[^key-244cfa6e36fad1434a99ac55ede831ad][^key-d9eb7209c5924335701b37b1747a2050]
+## 71. Shared ownership low cost rental[^c-244cfa6e36fad1434a99ac55ede831ad][^c-d9eb7209c5924335701b37b1747a2050]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Accommodation which is both low cost rental accommodation and low cost home owne
 
 ## Annotations
 
-[^key-244cfa6e36fad1434a99ac55ede831ad]: Commencement: S. 71 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-244cfa6e36fad1434a99ac55ede831ad]: Commencement: S. 71 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-d9eb7209c5924335701b37b1747a2050]: Commencement: S. 71 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-d9eb7209c5924335701b37b1747a2050]: Commencement: S. 71 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

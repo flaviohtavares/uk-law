@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Effect of work on entitlement to an employment and support allowance where claimant is receiving certain treatment[^key-e4440e894e8cef363ba21b72a8f72974]
+## 40. Effect of work on entitlement to an employment and support allowance where claimant is receiving certain treatment[^c-e4440e894e8cef363ba21b72a8f72974]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant who is entitled to an employment and support allowance and is t
 
 ## Annotations
 
-[^key-e4440e894e8cef363ba21b72a8f72974]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2016/219/regulation/40) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-e4440e894e8cef363ba21b72a8f72974]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2016/219/regulation/40) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

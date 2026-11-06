@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Period of eligibility[^key-d83378d8274fa051853216c78413dae7]
+## 135. Period of eligibility[^c-d83378d8274fa051853216c78413dae7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ the Secretary of State may, at any time, renew or extend the period of eligibili
 
 ## Annotations
 
-[^key-d83378d8274fa051853216c78413dae7]: Commencement: Reg. 135 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-d83378d8274fa051853216c78413dae7]: Commencement: Reg. 135 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

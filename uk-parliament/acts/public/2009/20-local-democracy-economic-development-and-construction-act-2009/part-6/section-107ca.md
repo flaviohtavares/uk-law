@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107CA. Appointment of commissioners by the mayor[^key-419a62a17eff316ea97754e25d9fb15f]
+## 107CA. Appointment of commissioners by the mayor[^c-419a62a17eff316ea97754e25d9fb15f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-419a62a17eff316ea97754e25d9fb15f]: Textual amendment: S. 107CA inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/4), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-419a62a17eff316ea97754e25d9fb15f]: Textual amendment: S. 107CA inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/4), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

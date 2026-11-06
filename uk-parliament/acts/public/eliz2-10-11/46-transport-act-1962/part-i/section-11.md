@@ -35,7 +35,7 @@ with a view to selling or otherwise disposing of any right or interest in the la
 
 Except as provided by the foregoing provisions of this subsection, a Board shall not have power to acquire land for purposes which are not related to any of the activities of the Board other than the development of land.
 
-(5)[^key-2360cd64843b1000a01feda97d70ad02] In the application of this section to the British Waterways Board —
+(5)[^c-2360cd64843b1000a01feda97d70ad02] In the application of this section to the British Waterways Board —
 
 - (a) the references to the Minister are to be read as references to the Scottish Ministers;
 - (b) the power in subsection (4) is limited to the acquisition of adjoining land in Scotland.
@@ -54,4 +54,4 @@ Except as provided by the foregoing provisions of this subsection, a Board shall
 
 [^c4789501]: Textual amendment: Words repealed by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [Sch. 18 Pt. I](https://www.legislation.gov.uk/ukpga/1968/73/schedule/18/part/I)
 
-[^key-2360cd64843b1000a01feda97d70ad02]: Textual amendment: S. 11(5) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-2360cd64843b1000a01feda97d70ad02]: Textual amendment: S. 11(5) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

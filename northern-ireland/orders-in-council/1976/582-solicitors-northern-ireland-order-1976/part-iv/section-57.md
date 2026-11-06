@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Grants in case of hardship[^key-3d2295bb8d68c784c5db61b141ea6e9b]
+## 57. Grants in case of hardship[^c-3d2295bb8d68c784c5db61b141ea6e9b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where the Council, on application for a grant being made to the Society, are sat
 
 ## Annotations
 
-[^key-3d2295bb8d68c784c5db61b141ea6e9b]: Modification: [Art. 57](https://www.legislation.gov.uk/nisi/1976/582/article/57) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(kk)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/kk)
+[^c-3d2295bb8d68c784c5db61b141ea6e9b]: Modification: [Art. 57](https://www.legislation.gov.uk/nisi/1976/582/article/57) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(kk)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/kk)

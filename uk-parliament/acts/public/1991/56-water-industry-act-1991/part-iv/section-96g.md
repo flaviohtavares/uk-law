@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96G. Nutrient pollution standards determined through environmental permitting[^key-c39277865f4d8cd1993150d6eb5ea71a][^key-f8504cfa3717ae6f3ce0d1fd7962e5b8][^key-a8a5e2a2b4a25a09e682382b8ac7078b]
+## 96G. Nutrient pollution standards determined through environmental permitting[^c-c39277865f4d8cd1993150d6eb5ea71a][^c-f8504cfa3717ae6f3ce0d1fd7962e5b8][^c-a8a5e2a2b4a25a09e682382b8ac7078b]
 
 *Extent: E+W*
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c39277865f4d8cd1993150d6eb5ea71a]: Modification: S. 96G(6)(a) applied (26.12.2023) by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 85D](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85D) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
+[^c-c39277865f4d8cd1993150d6eb5ea71a]: Modification: S. 96G(6)(a) applied (26.12.2023) by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 85D](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85D) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
 
-[^key-f8504cfa3717ae6f3ce0d1fd7962e5b8]: Modification: S. 96G(6)(a) applied (26.12.2023) by S.I. 2015/810, reg. 9A(7) (as inserted by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/2), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
+[^c-f8504cfa3717ae6f3ce0d1fd7962e5b8]: Modification: S. 96G(6)(a) applied (26.12.2023) by S.I. 2015/810, reg. 9A(7) (as inserted by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/2), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
 
-[^key-a8a5e2a2b4a25a09e682382b8ac7078b]: Textual amendment: Ss. 96B-96N inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-a8a5e2a2b4a25a09e682382b8ac7078b]: Textual amendment: Ss. 96B-96N inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**74.**[^key-302f72d0bd11f18785e381d918185329] In section 23A[^f00086] (the responsible authority and relevant children)—
+**74.**[^c-302f72d0bd11f18785e381d918185329] In section 23A[^f00086] (the responsible authority and relevant children)—
 
 - (a) in subsection (2)(a) for “by any local authority” substitute “by any local authority in England or by any local authority in Wales”;
 - (b) in subsection (3) for “appropriate national authority” substitute “Secretary of State”;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-302f72d0bd11f18785e381d918185329]: Commencement: Reg. 74 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-302f72d0bd11f18785e381d918185329]: Commencement: Reg. 74 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00086]: Footnote: Section 23A was inserted by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2(1) and (4), and has been amended by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 8.

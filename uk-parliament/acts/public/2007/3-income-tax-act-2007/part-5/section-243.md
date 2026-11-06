@@ -25,8 +25,8 @@ summary: ''
 - (a) section 165 or 182(2) or (4) (no tax avoidance),
 - (b) section 171 (persons subscribing for shares under certain arrangements),
 - (c) section 176(4) or (5), 183(6) or 191(3), (4) or (5) (winding up, administration etc),
-- (d) section 177(1) (no pre-arranged exits), [^key-66ef285492c475c165e02c90b4356784]...
-- (da)[^key-f13df57b0a7e2c4260211543f1df53e8] section 178A (no disqualifying arrangements), or
+- (d) section 177(1) (no pre-arranged exits), [^c-66ef285492c475c165e02c90b4356784]...
+- (da)[^c-f13df57b0a7e2c4260211543f1df53e8] section 178A (no disqualifying arrangements), or
 - (e) section 185(1) or (2), 190(1) or 191(2) (conditions ceasing to be met).
 
 The reference in paragraph (c) to subsections (3), (4) and (5) of section 191 is to be read as including those subsections as applied by section 190(2).
@@ -46,7 +46,7 @@ The reference in paragraph (c) to subsections (3), (4) and (5) of section 191 is
 | Subsection (1)(b) | The claimant |
 | Subsection (1)(c) | The claimant, the company, any other company in question and any person controlling the company or any other company in question |
 | Subsection (1)(d) | The claimant, the company and any person connected with the company |
-| Subsection (1)(da)[^key-00b2ea7a89eb53289685e0d1b4959818] | The claimant, the company, any person controlling the company and any person whom an officer of Revenue and Customs has reason to believe may be a party to the arrangements in question |
+| Subsection (1)(da)[^c-00b2ea7a89eb53289685e0d1b4959818] | The claimant, the company, any person controlling the company and any person whom an officer of Revenue and Customs has reason to believe may be a party to the arrangements in question |
 | Subsection (1)(e) | The company and any person controlling the company |
 
 References in this subsection to the claimant include references to any person to whom the claimant appears to have made such a transfer as is mentioned in section 245 (spouses or civil partners) of any of the shares in question.
@@ -67,8 +67,8 @@ must, if so required by an officer of Revenue and Customs, state whether the sha
 
 ## Annotations
 
-[^key-66ef285492c475c165e02c90b4356784]: Textual amendment: Word in s. 243(1)(d) omitted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 19(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/19/a)
+[^c-66ef285492c475c165e02c90b4356784]: Textual amendment: Word in s. 243(1)(d) omitted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 19(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/19/a)
 
-[^key-f13df57b0a7e2c4260211543f1df53e8]: Textual amendment: S. 243(1)(da) inserted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 19(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/19/a)
+[^c-f13df57b0a7e2c4260211543f1df53e8]: Textual amendment: S. 243(1)(da) inserted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 19(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/19/a)
 
-[^key-00b2ea7a89eb53289685e0d1b4959818]: Textual amendment: Words in s. 243(4) inserted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 19(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/19/b)
+[^c-00b2ea7a89eb53289685e0d1b4959818]: Textual amendment: Words in s. 243(4) inserted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 19(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/19/b)

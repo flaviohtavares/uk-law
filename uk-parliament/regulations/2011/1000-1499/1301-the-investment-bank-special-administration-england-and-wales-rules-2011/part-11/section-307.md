@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 307. Omission of unobtainable information[^key-3e301a27d98591bc5bd66c24c8c95f30]
+## 307. Omission of unobtainable information[^c-3e301a27d98591bc5bd66c24c8c95f30]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Information required under this Chapter to be included in a notice to be gazette
 
 ## Annotations
 
-[^key-3e301a27d98591bc5bd66c24c8c95f30]: Commencement: [Rule 307](https://www.legislation.gov.uk/uksi/2011/1301/rule/307) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3e301a27d98591bc5bd66c24c8c95f30]: Commencement: [Rule 307](https://www.legislation.gov.uk/uksi/2011/1301/rule/307) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

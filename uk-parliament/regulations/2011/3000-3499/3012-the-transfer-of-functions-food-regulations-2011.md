@@ -48,25 +48,25 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 48(4A)[^f00002] of that Act, he has had regard to relevant advice given by the Foods Standards Agency.
 
-## 1. Title, commencement and application[^key-b1d2c350c9c73df13bfc5d0510c80683]
+## 1. Title, commencement and application[^c-b1d2c350c9c73df13bfc5d0510c80683]
 
 (1) These Regulations may be cited as the Transfer of Functions (Food) Regulations 2011, and come into force on 16th January 2012.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Amendment of the Medical Food (England) Regulations 2000[^key-f3c97c7d1ca5155bd866c6b07a5ad279]
+## 2. Amendment of the Medical Food (England) Regulations 2000[^c-f3c97c7d1ca5155bd866c6b07a5ad279]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007[^key-fdaa49cf0cc3b22e160d440285b34c67]
+## 3. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007[^c-fdaa49cf0cc3b22e160d440285b34c67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Nutrition and Health Claims (England) Regulations 2007[^key-a6833e6bffa5e7ca5974eaedbda83edb]
+## 4. Amendment of the Nutrition and Health Claims (England) Regulations 2007[^c-a6833e6bffa5e7ca5974eaedbda83edb]
 
 In regulation 3 (competent authorities) of the Nutrition and Health Claims (England) Regulations 2007[^f00005], in paragraph (a), for “the Food Standards Agency” substitute “the Secretary of State”.
 
-## 5. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^key-465aac80c72144ad0f56ea05a4e30dfc]
+## 5. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^c-465aac80c72144ad0f56ea05a4e30dfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -94,14 +94,14 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-b1d2c350c9c73df13bfc5d0510c80683]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1/1)
+[^c-b1d2c350c9c73df13bfc5d0510c80683]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1/1)
 
-[^key-f3c97c7d1ca5155bd866c6b07a5ad279]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/3012/regulation/2) revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/43/schedule/6) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/8/2))
+[^c-f3c97c7d1ca5155bd866c6b07a5ad279]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/3012/regulation/2) revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/43/schedule/6) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/8/2))
 
-[^key-fdaa49cf0cc3b22e160d440285b34c67]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/3012/regulation/3) revoked (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [5(d)](https://www.legislation.gov.uk/uksi/2016/688/regulation/5/d)
+[^c-fdaa49cf0cc3b22e160d440285b34c67]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/3012/regulation/3) revoked (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [5(d)](https://www.legislation.gov.uk/uksi/2016/688/regulation/5/d)
 
-[^key-a6833e6bffa5e7ca5974eaedbda83edb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/3012/regulation/4) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1/1)
+[^c-a6833e6bffa5e7ca5974eaedbda83edb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/3012/regulation/4) in force at 16.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2007/2080](https://www.legislation.gov.uk/uksi/2007/2080).
 
-[^key-465aac80c72144ad0f56ea05a4e30dfc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/3012/regulation/5) revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/43/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/5/2)) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3))
+[^c-465aac80c72144ad0f56ea05a4e30dfc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/3012/regulation/5) revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/43/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/5/2)) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3))

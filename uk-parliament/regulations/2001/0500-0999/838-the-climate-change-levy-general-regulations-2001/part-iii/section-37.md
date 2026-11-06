@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**37.**[^key-e52005f8609a7d96bc75068558634c99] (1) A certificate delivered under regulation 34, 35 or 36 (a “supplier certificate”) only has effect [^key-ca95ebc547adf1f0bc0b9994d388327f]... on or after the certificate’s implementation date.
+**37.**[^c-e52005f8609a7d96bc75068558634c99] (1) A certificate delivered under regulation 34, 35 or 36 (a “supplier certificate”) only has effect [^c-ca95ebc547adf1f0bc0b9994d388327f]... on or after the certificate’s implementation date.
 
 (2) A supplier certificate and an analysis document shall—
 
@@ -34,7 +34,7 @@ summary: ''
 - (c) a supplier certificate relating to a reference number the supplier uses for him with a supplier certificate relating to another reference number the supplier uses for him; or
 - (d) supplier certificates combined contrary to sub-paragraph (a) with supplier certificates combined contrary to sub-paragraph (b).
 
-(5)[^key-d00a44c7c5032ae33080a3f1c9407c75] A recipient who delivers a supplier certificate to a supplier must deliver to the Commissioners within 30 days of doing so any supporting analysis document.
+(5)[^c-d00a44c7c5032ae33080a3f1c9407c75] A recipient who delivers a supplier certificate to a supplier must deliver to the Commissioners within 30 days of doing so any supporting analysis document.
 
 (6) In this regulation, “implementation date” refers to the earlier of—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e52005f8609a7d96bc75068558634c99]: Commencement: Reg. 37 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-e52005f8609a7d96bc75068558634c99]: Commencement: Reg. 37 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
 
-[^key-ca95ebc547adf1f0bc0b9994d388327f]: Textual amendment: Words in reg. 37(1) omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 17
+[^c-ca95ebc547adf1f0bc0b9994d388327f]: Textual amendment: Words in reg. 37(1) omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 17
 
-[^key-d00a44c7c5032ae33080a3f1c9407c75]: Textual amendment: [Reg. 37(5)](https://www.legislation.gov.uk/uksi/2001/838/regulation/37/5) substituted (1.4.2011) by [The Climate Change Levy (General) (Amendment) Regulations 2011 (S.I. 2011/684)](https://www.legislation.gov.uk/uksi/2011/684), [regs. 1](https://www.legislation.gov.uk/uksi/2011/684/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/684/regulation/4)
+[^c-d00a44c7c5032ae33080a3f1c9407c75]: Textual amendment: [Reg. 37(5)](https://www.legislation.gov.uk/uksi/2001/838/regulation/37/5) substituted (1.4.2011) by [The Climate Change Levy (General) (Amendment) Regulations 2011 (S.I. 2011/684)](https://www.legislation.gov.uk/uksi/2011/684), [regs. 1](https://www.legislation.gov.uk/uksi/2011/684/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/684/regulation/4)

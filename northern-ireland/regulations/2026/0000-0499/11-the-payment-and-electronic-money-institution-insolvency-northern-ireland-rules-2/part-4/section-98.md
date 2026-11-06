@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Expenses to be paid out of the relevant funds[^key-db8da94d25255a7464684704f2979fb4]
+## 98. Expenses to be paid out of the relevant funds[^c-db8da94d25255a7464684704f2979fb4]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db8da94d25255a7464684704f2979fb4]: Commencement: [Rule 98](https://www.legislation.gov.uk/nisr/2026/11/rule/98) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-db8da94d25255a7464684704f2979fb4]: Commencement: [Rule 98](https://www.legislation.gov.uk/nisr/2026/11/rule/98) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In the circumstances described in regulation 56(1), if the premises approval has not taken effect because of an outstanding pharmacy application which has not lapsed, NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] may grant the applicant (D) temporary premises approval—
+(1) In the circumstances described in regulation 56(1), if the premises approval has not taken effect because of an outstanding pharmacy application which has not lapsed, NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] may grant the applicant (D) temporary premises approval—
 
 - (a) if it considers it is desirable to do so in order to secure the adequate provision of pharmaceutical services in the area for which D has outline consent;
 - (b) for a period of not exceeding 12 months, but which may be renewed for a further period not exceeding 3 months (and if the first period granted is less than 12 months, it may be renewed more than once for up to a total aggregate period of 15 months).
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

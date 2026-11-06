@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Criminal procedure: written witness statements[^key-15fffb79659d8cba4ca97d5d11072b49]
+## 80. Criminal procedure: written witness statements[^c-15fffb79659d8cba4ca97d5d11072b49]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15fffb79659d8cba4ca97d5d11072b49]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2015/20/section/80) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-15fffb79659d8cba4ca97d5d11072b49]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2015/20/section/80) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)

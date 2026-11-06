@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Support, training and information for foster parents[^key-436342653a94e0c4e8df184771929fef]
+## 44. Support, training and information for foster parents[^c-436342653a94e0c4e8df184771929fef]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-436342653a94e0c4e8df184771929fef]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2019/169/regulation/44) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-436342653a94e0c4e8df184771929fef]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2019/169/regulation/44) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

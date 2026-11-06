@@ -33,7 +33,7 @@ summary: ''
 
 (5) If a person fails to comply with subsection (3), the sheriff principal shall not require the tenant to pay any sums that, but for the making of the order, would have been due by the tenant.
 
-(6) The Scottish Ministers may by regulations make provision for or in connection with specifying other circumstances in which the Sheriff Appeal Court[^key-cc8ef61c87ab34b7c80f6da875fe580a] shall not require a tenant to pay any sums that, but for the making of the order, would have been due by the tenant.
+(6) The Scottish Ministers may by regulations make provision for or in connection with specifying other circumstances in which the Sheriff Appeal Court[^c-cc8ef61c87ab34b7c80f6da875fe580a] shall not require a tenant to pay any sums that, but for the making of the order, would have been due by the tenant.
 
 (7) Regulations under subsection (6) may in particular include provision—
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c21020151]: Commencement: S. 72 wholly in force at 30.4.2006; s. 72 not in force at Royal Assent see s. 145(2); s. 72 in force for specified purposes at 28.10.2004 and 9.11.2005 and for all other purposes at 30.4.2006 by [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [arts. 2](https://www.legislation.gov.uk/ssi/2004/420/article/2), [3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1), [6](https://www.legislation.gov.uk/ssi/2004/420/schedule/6) (as amended by [S.S.I. 2005/553](https://www.legislation.gov.uk/ssi/2005/553), [art. 2](https://www.legislation.gov.uk/ssi/2005/553/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/553/schedule) and [S.S.I. 2006/104](https://www.legislation.gov.uk/ssi/2006/104), [art. 2](https://www.legislation.gov.uk/ssi/2006/104/article/2))
 
-[^key-cc8ef61c87ab34b7c80f6da875fe580a]: Textual amendment: Words in [s. 72(6)](https://www.legislation.gov.uk/asp/2004/8/section/72/6) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/4) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-cc8ef61c87ab34b7c80f6da875fe580a]: Textual amendment: Words in [s. 72(6)](https://www.legislation.gov.uk/asp/2004/8/section/72/6) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/4) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))

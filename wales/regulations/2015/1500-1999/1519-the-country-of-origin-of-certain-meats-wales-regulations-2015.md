@@ -53,13 +53,13 @@ So far as the following Regulations are made in exercise of powers under the Foo
 
 There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00012], during the preparation and evaluation of the following Regulations.
 
-## 1. Title, commencement and application[^key-76e7752c4cd16ec15239f46dfccc9406]
+## 1. Title, commencement and application[^c-76e7752c4cd16ec15239f46dfccc9406]
 
 (1) The title of these Regulations is the Country of Origin of Certain Meats (Wales) Regulations 2015.
 
 (2) These Regulations come into force on 10 August 2015 and apply in relation to Wales.
 
-## 2. Interpretation[^key-1f14009ca052f9cca9c19c5f0b36e7dd]
+## 2. Interpretation[^c-1f14009ca052f9cca9c19c5f0b36e7dd]
 
 (1) In these Regulations—
 
@@ -73,26 +73,26 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 (3) Any reference in these Regulations to an Article of the Commission Regulation is a reference to that Article as amended from time to time.
 
-## 3. Competent authority[^key-bd2d4ee9e5c411627dac842e3e63f505]
+## 3. Competent authority[^c-bd2d4ee9e5c411627dac842e3e63f505]
 
 Each food authority in its area is the competent authority for the purposes of—
 
-- (a) the third sub-paragraph of Article 5(1) (labelling of meat where specified rearing period not attained in any single[^key-24113145437394accb1ee6f3334952a3] country); and
+- (a) the third sub-paragraph of Article 5(1) (labelling of meat where specified rearing period not attained in any single[^c-24113145437394accb1ee6f3334952a3] country); and
 - (b) Article 5(2) (labelling of meat where “origin” indicated on the label).
 
-## 4. Enforcement authorities[^key-c221e8c4544b95636163babb58000a92]
+## 4. Enforcement authorities[^c-c221e8c4544b95636163babb58000a92]
 
 (1) These Regulations are enforced by each food authority within its area and by each port health authority within its district.
 
 (2) In this regulation “port health authority” (“*awdurdod iechyd porthladd*”) means, in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Diseases) Act 1984[^f00013], the port health authority for that district constituted by order under section 2(4) of that Act.
 
-## 5. Records[^key-af53ce5b3527088464a2c0b568e38be0]
+## 5. Records[^c-af53ce5b3527088464a2c0b568e38be0]
 
 (1) A food business operator must keep a record of information under the identification and registration system required by Article 3 (traceability).
 
 (2) A food business operator must retain each record for a period of 12 months from the end of the calendar year to which the record relates.
 
-## 6. Application of provisions of the Act[^key-16a14f0947cda35663dc22a37169cb4c]
+## 6. Application of provisions of the Act[^c-16a14f0947cda35663dc22a37169cb4c]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies with the modification (in the case of section 10(1)) specified in Part 1 of the Schedule to these Regulations for the purposes of—
 
@@ -113,7 +113,7 @@ Each food authority in its area is the competent authority for the purposes of�
 
 (5) The provisions of the Act specified in the first column of the table in Part 5 of the Schedule to these Regulations apply with the modifications specified in the second column of that table for the purposes of these Regulations.
 
-## 7. Transitional provision: withdrawal from the EU[^key-f41935a641d38fc0cd2dae6ec6892fde]
+## 7. Transitional provision: withdrawal from the EU[^c-f41935a641d38fc0cd2dae6ec6892fde]
 
 (1) An authorised officer must not serve on a person an improvement notice relating to a failure to comply with the second subparagraph of Article 5(1), Article 6 or Article 7 if—
 
@@ -122,7 +122,7 @@ Each food authority in its area is the competent authority for the purposes of�
 
 (2) An authorised officer must not serve on a person an improvement notice relating to a failure to comply with the second subparagraph of Article 5(1), Article 6 or Article 7 if—
 
-- (a) the improvement notice would relate to a product placed on the market before 1 January 2024[^key-5550a21a7f69ec1cb5f4cb271770394f];
+- (a) the improvement notice would relate to a product placed on the market before 1 January 2024[^c-5550a21a7f69ec1cb5f4cb271770394f];
 - (b) the product bears one of the indications provided for in those provisions as they had effect immediately before IP completion day; and
 - (c) the use of the indication would not constitute a failure to comply with those provisions as they had effect immediately before IP completion day.
 
@@ -138,7 +138,7 @@ Regulation 6
 
 ### PART 1 — Modification of section 10(1)
 
-**1.**[^key-dde985e53496d6ae3ba8831a2b7fb7b0] For section 10(1) (improvement notices) substitute—
+**1.**[^c-dde985e53496d6ae3ba8831a2b7fb7b0] For section 10(1) (improvement notices) substitute—
 
 > (1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a person is failing to comply with any of Articles 3 to 6 and 8 of Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry, or regulation 5 of the Country of Origin of Certain Meats (Wales) Regulations 2015, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
 >
@@ -151,14 +151,14 @@ Regulation 6
 
 ### PART 2 — Modification of section 32(1)
 
-**2.**[^key-a720728f04cacbe2cdf1b841b9b71554] In section 32(1) (powers of entry)—
+**2.**[^c-a720728f04cacbe2cdf1b841b9b71554] In section 32(1) (powers of entry)—
 
 - (a) in paragraph (a), for “this Act, or of regulations or orders made under it” substitute “any of Articles 3 to 6 or 8 of Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry”; and
 - (b) omit paragraph (c).
 
 ### PART 3 — Modification of section 37(1) and (6)
 
-**3.**[^key-e6827dfb4a30eceb90a3d8a798379966] (1) For section 37(1) (appeals) substitute—
+**3.**[^c-e6827dfb4a30eceb90a3d8a798379966] (1) For section 37(1) (appeals) substitute—
 
 > (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10(1), as applied and modified by regulation 6(1) of, and Part 1 of the Schedule to, the Country of Origin of Certain Meats (Wales) Regulations 2015, may appeal to a magistrates’ court.
 
@@ -171,7 +171,7 @@ Regulation 6
 
 ### PART 4 — Modification of section 39(1) and (3)
 
-**4.**[^key-0d4119fca0876114392a2455e3b47491] (1) For section 39(1) (appeals against improvement notices) substitute—
+**4.**[^c-0d4119fca0876114392a2455e3b47491] (1) For section 39(1) (appeals against improvement notices) substitute—
 
 > (1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 6(1) of, and Part 1 of the Schedule to, the Country of Origin of Certain Meats (Wales) Regulations 2015, the magistrates’ court may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the court may in the circumstances think fit.
 
@@ -179,7 +179,7 @@ Regulation 6
 
 (2) In section 39(3), omit “for want of prosecution”.
 
-### PART 5 — Modification of other provisions of the Act[^key-97cf29dddd71d19bcdf203cf3cfa58ca]
+### PART 5 — Modification of other provisions of the Act[^c-97cf29dddd71d19bcdf203cf3cfa58ca]
 
 | Provision of the Act | Modifications |
 | --- | --- |
@@ -235,37 +235,37 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: OJ No L 31, 1.2.02, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.14, p 1).
 
-[^key-76e7752c4cd16ec15239f46dfccc9406]: Commencement: Reg. 1 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-76e7752c4cd16ec15239f46dfccc9406]: Commencement: Reg. 1 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-1f14009ca052f9cca9c19c5f0b36e7dd]: Commencement: Reg. 2 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-1f14009ca052f9cca9c19c5f0b36e7dd]: Commencement: Reg. 2 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-bd2d4ee9e5c411627dac842e3e63f505]: Commencement: Reg. 3 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-bd2d4ee9e5c411627dac842e3e63f505]: Commencement: Reg. 3 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-24113145437394accb1ee6f3334952a3]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/3/a) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2019/435/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24113145437394accb1ee6f3334952a3]: Textual amendment: Word in [reg. 3(a)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/3/a) substituted (31.12.2020) by [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [7](https://www.legislation.gov.uk/wsi/2019/435/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c221e8c4544b95636163babb58000a92]: Commencement: Reg. 4 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-c221e8c4544b95636163babb58000a92]: Commencement: Reg. 4 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
 [^f00013]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-af53ce5b3527088464a2c0b568e38be0]: Commencement: Reg. 5 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-af53ce5b3527088464a2c0b568e38be0]: Commencement: Reg. 5 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-16a14f0947cda35663dc22a37169cb4c]: Commencement: Reg. 6 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-16a14f0947cda35663dc22a37169cb4c]: Commencement: Reg. 6 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
 [^f00014]: Footnote: Section 32(5) and (6) were amended by section 70 of, and paragraph 18 of Schedule 2 to, the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-f41935a641d38fc0cd2dae6ec6892fde]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1519/regulation/7) inserted (23.8.2021) by [The Food and Drink (Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/911)](https://www.legislation.gov.uk/wsi/2021/911), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/911/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/911/regulation/3)
+[^c-f41935a641d38fc0cd2dae6ec6892fde]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1519/regulation/7) inserted (23.8.2021) by [The Food and Drink (Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/911)](https://www.legislation.gov.uk/wsi/2021/911), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/911/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/911/regulation/3)
 
-[^key-5550a21a7f69ec1cb5f4cb271770394f]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/7/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2022/939/regulation/9)
+[^c-5550a21a7f69ec1cb5f4cb271770394f]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/7/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2022/939/regulation/9)
 
-[^key-dde985e53496d6ae3ba8831a2b7fb7b0]: Commencement: Sch. para. 1 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-dde985e53496d6ae3ba8831a2b7fb7b0]: Commencement: Sch. para. 1 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-a720728f04cacbe2cdf1b841b9b71554]: Commencement: Sch. para. 2 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-a720728f04cacbe2cdf1b841b9b71554]: Commencement: Sch. para. 2 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-e6827dfb4a30eceb90a3d8a798379966]: Commencement: Sch. para. 3 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-e6827dfb4a30eceb90a3d8a798379966]: Commencement: Sch. para. 3 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-0d4119fca0876114392a2455e3b47491]: Commencement: Sch. para. 4 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-0d4119fca0876114392a2455e3b47491]: Commencement: Sch. para. 4 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
-[^key-97cf29dddd71d19bcdf203cf3cfa58ca]: Commencement: Sch. Pt. 5 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
+[^c-97cf29dddd71d19bcdf203cf3cfa58ca]: Commencement: Sch. Pt. 5 in force at 10.8.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1519/regulation/1/2)
 
 [^f00015]: Footnote: Section 2(1) was amended by section 40(1) of, and paragraph 8 of Schedule 5 to, the 1999 Act.
 

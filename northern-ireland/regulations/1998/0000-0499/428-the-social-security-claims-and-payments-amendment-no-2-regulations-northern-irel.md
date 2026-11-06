@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^key-3daef9933283c228a81a36a50cc80d8d]
+The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked)[^c-3daef9933283c228a81a36a50cc80d8d]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st April 1999
 
-[^key-3daef9933283c228a81a36a50cc80d8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3daef9933283c228a81a36a50cc80d8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3daef9933283c228a81a36a50cc80d8d]
+## 1. Citation, commencement and interpretation[^c-3daef9933283c228a81a36a50cc80d8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-3daef9933283c228a81a36a50cc80d8d]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-3daef9933283c228a81a36a50cc80d8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3daef9933283c228a81a36a50cc80d8d]
+## 3. Revocation[^c-3daef9933283c228a81a36a50cc80d8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3daef9933283c228a81a36a50cc80d8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3daef9933283c228a81a36a50cc80d8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3daef9933283c228a81a36a50cc80d8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3daef9933283c228a81a36a50cc80d8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3daef9933283c228a81a36a50cc80d8d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/428) revoked (14.6.2000) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/181)](https://www.legislation.gov.uk/nisr/2000/181), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2000/181/regulation/3)
+[^c-3daef9933283c228a81a36a50cc80d8d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/428) revoked (14.6.2000) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2000 (S.R. 2000/181)](https://www.legislation.gov.uk/nisr/2000/181), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/181/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2000/181/regulation/3)

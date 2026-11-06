@@ -58,7 +58,7 @@ the clerk of petty sessions shall notify the Commission of such confirmation or 
 
 he shall be guilty of an offence against this Act.
 
-(11) In this section and sections 55A and 55B “**the appropriate court**”, in relation to a river watcher, means a court of summary jurisdiction [^key-c17c88695e66e45dc83234ba40f2309d]....
+(11) In this section and sections 55A and 55B “**the appropriate court**”, in relation to a river watcher, means a court of summary jurisdiction [^c-c17c88695e66e45dc83234ba40f2309d]....
 
 ## Annotations
 
@@ -66,4 +66,4 @@ he shall be guilty of an offence against this Act.
 
 [^c20330911]: Textual amendment: S. 55(2)-(11) substituted (1.6.2008) for s. 55(2)-(4) by [Foyle and Carlingford Fisheries (Northern Ireland) Order 2007 (S.I. 2007/915 (N.I. 9))](https://www.legislation.gov.uk/nisi/2007/915), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/915/article/1/3), [20(1)](https://www.legislation.gov.uk/nisi/2007/915/article/20/1) (with [art. 32](https://www.legislation.gov.uk/nisi/2007/915/article/32)); [S.R. 2008/232](https://www.legislation.gov.uk/nisr/2008/232), [art. 2](https://www.legislation.gov.uk/nisr/2008/232/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/232/schedule)
 
-[^key-c17c88695e66e45dc83234ba40f2309d]: Textual amendment: Words in [s. 55(11)](https://www.legislation.gov.uk/apni/1952/5/section/55/11) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/47/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c17c88695e66e45dc83234ba40f2309d]: Textual amendment: Words in [s. 55(11)](https://www.legislation.gov.uk/apni/1952/5/section/55/11) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/47/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

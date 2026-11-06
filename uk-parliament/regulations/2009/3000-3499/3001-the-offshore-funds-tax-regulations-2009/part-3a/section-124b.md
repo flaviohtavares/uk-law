@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124B. Consequences of reasonable but incorrect belief[^key-72f227c1743a5e2143ff6e5e43a7bd2e]
+## 124B. Consequences of reasonable but incorrect belief[^c-72f227c1743a5e2143ff6e5e43a7bd2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72f227c1743a5e2143ff6e5e43a7bd2e]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/3001/part/3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment No. 3) Regulations 2013 (S.I. 2013/1770)](https://www.legislation.gov.uk/uksi/2013/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/2/3)
+[^c-72f227c1743a5e2143ff6e5e43a7bd2e]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/3001/part/3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment No. 3) Regulations 2013 (S.I. 2013/1770)](https://www.legislation.gov.uk/uksi/2013/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/2/3)

@@ -24,13 +24,13 @@ Section 10
 
 ### Part 1 — Introductory
 
-**1.**[^key-a21dd17a887a12a771cb8f2326e62b41] The Police and Criminal Evidence Act 1984 (c. 60) is amended as follows.
+**1.**[^c-a21dd17a887a12a771cb8f2326e62b41] The Police and Criminal Evidence Act 1984 (c. 60) is amended as follows.
 
 ### Part 2 — Police bail granted elsewhere than at police station
 
 #### Power to impose conditions on granting bail
 
-**2.**[^key-6707bd054700a35403aaa8e5b6d7b744] In section 30A (bail elsewhere than at police station), for subsection (4) (no condition of bail may be imposed other than requirement to attend police station) there is substituted—
+**2.**[^c-6707bd054700a35403aaa8e5b6d7b744] In section 30A (bail elsewhere than at police station), for subsection (4) (no condition of bail may be imposed other than requirement to attend police station) there is substituted—
 
 > (3A) Where a constable releases a person on bail under subsection (1)—
 >
@@ -50,7 +50,7 @@ Section 10
 
 #### Contents of notice given to person released on bail
 
-**3.**[^key-1c2058cedd09ad2d478fd41b8d4b5d4c] In section 30B (bail under section 30A: notices), after subsection (4) there is inserted—
+**3.**[^c-1c2058cedd09ad2d478fd41b8d4b5d4c] In section 30B (bail under section 30A: notices), after subsection (4) there is inserted—
 
 > (4A) If the person is granted bail subject to conditions under section 30A(3B), the notice also—
 >
@@ -60,7 +60,7 @@ Section 10
 
 #### Variation of bail conditions
 
-**4.**[^key-4b7aaf89f34820ce5f772f8e9c31e44a] After section 30C there is inserted—
+**4.**[^c-4b7aaf89f34820ce5f772f8e9c31e44a] After section 30C there is inserted—
 
 > **30CA. Bail under section 30A: variation of conditions by police**
 >
@@ -119,7 +119,7 @@ Section 10
 
 #### Power of arrest for breach of bail conditions
 
-**5.**[^key-a7f43e0e026f5c1db48738be12ab20b7] (1) Section 30D (failure to answer to bail under section 30A) is amended as follows.
+**5.**[^c-a7f43e0e026f5c1db48738be12ab20b7] (1) Section 30D (failure to answer to bail under section 30A) is amended as follows.
 
 (2) After subsection (2) there is inserted—
 
@@ -133,15 +133,15 @@ Section 10
 
 #### Power to impose conditions on bail granted under section 37(2) or (7)(b)
 
-**6.**[^key-8cb7fc653df83fbdf5a5e064735413d7] In section 47(1A) (where person released on bail under Part 4, normal powers to impose conditions of bail are available only where release is under section 37(7)(a) or 38(1)), for “37(7)(a)” there is substituted “ 37 ”.
+**6.**[^c-8cb7fc653df83fbdf5a5e064735413d7] In section 47(1A) (where person released on bail under Part 4, normal powers to impose conditions of bail are available only where release is under section 37(7)(a) or 38(1)), for “37(7)(a)” there is substituted “ 37 ”.
 
 #### Power of arrest for breach of conditions of bail granted under section 37(2) or (7)(b)
 
-**7.**[^key-c6df625d5b65854e621d181b17f93263] In section 46A(1A) (person released on bail under section 37(7)(a) or 37C(2)(b) may be arrested without warrant if suspected of breaking conditions of bail), for “37(7)(a) or 37C(2)(b)” there is substituted “ 37, 37C(2)(b) or 37CA(2)(b) ”.
+**7.**[^c-c6df625d5b65854e621d181b17f93263] In section 46A(1A) (person released on bail under section 37(7)(a) or 37C(2)(b) may be arrested without warrant if suspected of breaking conditions of bail), for “37(7)(a) or 37C(2)(b)” there is substituted “ 37, 37C(2)(b) or 37CA(2)(b) ”.
 
 #### Dealing with person arrested for breach of conditions of bail granted under section 37(7)(b)
 
-**8.**[^key-4e67b6e3be30ef909bd278c674adaba9] (1) After section 37C there is inserted—
+**8.**[^c-4e67b6e3be30ef909bd278c674adaba9] (1) After section 37C there is inserted—
 
 > **37CA. Breach of bail following release under section 37(7)(b)**
 >
@@ -163,13 +163,13 @@ Section 10
 
 #### Time for person to answer bail granted under section 37(2) or (7)(b) or 37CA(2)(b)
 
-**9.**[^key-58e186ff5af51e47f5ce0d8ae9fbb402] (1) In section 37D(1) (release on bail under section 37(7)(a) or 37C(2)(b): appointment of different or additional time to answer bail), for “37(7)(a) or section 37C(2)(b)” there is substituted “ 37, 37C(2)(b) or 37CA(2)(b) ”.
+**9.**[^c-58e186ff5af51e47f5ce0d8ae9fbb402] (1) In section 37D(1) (release on bail under section 37(7)(a) or 37C(2)(b): appointment of different or additional time to answer bail), for “37(7)(a) or section 37C(2)(b)” there is substituted “ 37, 37C(2)(b) or 37CA(2)(b) ”.
 
 (2) In the heading to section 37D, for “**under section 37(7)(a)**” there is substituted “ **on bail under section 37** ”.
 
 #### Dealing with person released on bail under section 37(7)(b) or 37CA(2)(b)
 
-**10.**[^key-fd15f1cf2653f68e8df305808c46c08f] (1) Section 37D (release under section 37(7)(a): further provision) is amended as follows.
+**10.**[^c-fd15f1cf2653f68e8df305808c46c08f] (1) Section 37D (release under section 37(7)(a): further provision) is amended as follows.
 
 (2) For subsection (5) (person not fit to be dealt with as mentioned in subsection (4) to be detained until fit) there is substituted—
 
@@ -184,28 +184,28 @@ Section 10
 
 #### Applications to court where person released on bail under section 37(2) or (7)(b) or 37CA(2)(b)
 
-**11.**[^key-98da42850a7a420e51a3b5cdfc898bd7] In section 47(1B) and (1C) (applications to court where person on bail under section 37(7)(a) or 37C(2)(b)), for “37(7)(a) or 37C(2)(b)” there is substituted “ 37, 37C(2)(b) or 37CA(2)(b) ”.
+**11.**[^c-98da42850a7a420e51a3b5cdfc898bd7] In section 47(1B) and (1C) (applications to court where person on bail under section 37(7)(a) or 37C(2)(b)), for “37(7)(a) or 37C(2)(b)” there is substituted “ 37, 37C(2)(b) or 37CA(2)(b) ”.
 
 ## Annotations
 
-[^key-a21dd17a887a12a771cb8f2326e62b41]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/1) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-a21dd17a887a12a771cb8f2326e62b41]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/1) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-6707bd054700a35403aaa8e5b6d7b744]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/2) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-6707bd054700a35403aaa8e5b6d7b744]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/2) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-1c2058cedd09ad2d478fd41b8d4b5d4c]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/3) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-1c2058cedd09ad2d478fd41b8d4b5d4c]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/3) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-4b7aaf89f34820ce5f772f8e9c31e44a]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/4) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-4b7aaf89f34820ce5f772f8e9c31e44a]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/4) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-a7f43e0e026f5c1db48738be12ab20b7]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/5) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-a7f43e0e026f5c1db48738be12ab20b7]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/5) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-8cb7fc653df83fbdf5a5e064735413d7]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/6) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-8cb7fc653df83fbdf5a5e064735413d7]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/6) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-c6df625d5b65854e621d181b17f93263]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/7) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-c6df625d5b65854e621d181b17f93263]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/7) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-4e67b6e3be30ef909bd278c674adaba9]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/8) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-4e67b6e3be30ef909bd278c674adaba9]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/8) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-58e186ff5af51e47f5ce0d8ae9fbb402]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/9) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-58e186ff5af51e47f5ce0d8ae9fbb402]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/9) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-fd15f1cf2653f68e8df305808c46c08f]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/10) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-fd15f1cf2653f68e8df305808c46c08f]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/10) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-98da42850a7a420e51a3b5cdfc898bd7]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/11) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-98da42850a7a420e51a3b5cdfc898bd7]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2006/48/schedule/6/paragraph/11) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

@@ -32,45 +32,45 @@ summary: ''
 
 FOOD
 
-[^key-9e360f386f9851e7115722d6eb0335df]The Food Labelling Amendment (No. 3) (Scotland) Regulations 2005 (revoked)
+[^c-9e360f386f9851e7115722d6eb0335df]The Food Labelling Amendment (No. 3) (Scotland) Regulations 2005 (revoked)
 
-[^key-9e360f386f9851e7115722d6eb0335df]...
+[^c-9e360f386f9851e7115722d6eb0335df]...
 
-[^key-9e360f386f9851e7115722d6eb0335df]
+[^c-9e360f386f9851e7115722d6eb0335df]
 
-[^key-9e360f386f9851e7115722d6eb0335df]
+[^c-9e360f386f9851e7115722d6eb0335df]
 
-[^key-9e360f386f9851e7115722d6eb0335df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**No longer in force.**
-
-## 1. Citation, commencement and extent[^key-9e360f386f9851e7115722d6eb0335df]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Food Labelling Regulations 1996[^key-9e360f386f9851e7115722d6eb0335df]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Revocation[^key-9e360f386f9851e7115722d6eb0335df]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9e360f386f9851e7115722d6eb0335df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e360f386f9851e7115722d6eb0335df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE 2A TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^key-9e360f386f9851e7115722d6eb0335df]
+## 1. Citation, commencement and extent[^c-9e360f386f9851e7115722d6eb0335df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Amendment of the Food Labelling Regulations 1996[^c-9e360f386f9851e7115722d6eb0335df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-9e360f386f9851e7115722d6eb0335df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Revocation[^c-9e360f386f9851e7115722d6eb0335df]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9e360f386f9851e7115722d6eb0335df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## SCHEDULE — SCHEDULE 2A TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^c-9e360f386f9851e7115722d6eb0335df]
 
 Regulation 7
 
@@ -84,4 +84,4 @@ Regulation 7
 
 ## Annotations
 
-[^key-9e360f386f9851e7115722d6eb0335df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/542) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2008 (S.S.I. 2008/180)](https://www.legislation.gov.uk/ssi/2008/180), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2008/180/regulation/3/2/a)
+[^c-9e360f386f9851e7115722d6eb0335df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2005/542) revoked (31.5.2008) by [The Food Labelling (Declaration of Allergens) (Scotland) Regulations 2008 (S.S.I. 2008/180)](https://www.legislation.gov.uk/ssi/2008/180), [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2008/180/regulation/3/2/a)

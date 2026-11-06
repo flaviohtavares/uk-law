@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Establishment of urban development corporations: procedure[^key-18029171da76199f1ba3cc459a5330f5]
+## 47. Establishment of urban development corporations: procedure[^c-18029171da76199f1ba3cc459a5330f5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18029171da76199f1ba3cc459a5330f5]: Textual amendment: Ss. 46, 47 omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 168](https://www.legislation.gov.uk/ukpga/2016/22/section/168), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)
+[^c-18029171da76199f1ba3cc459a5330f5]: Textual amendment: Ss. 46, 47 omitted (12.5.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 168](https://www.legislation.gov.uk/ukpga/2016/22/section/168), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Bail conditions: remote monitoring of restrictions on movements[^key-5b2200309c576709d69d6d6d2102927b]
+## 17. Bail conditions: remote monitoring of restrictions on movements[^c-5b2200309c576709d69d6d6d2102927b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b2200309c576709d69d6d6d2102927b]: Textual amendment: S. 17 repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 74(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/74/b); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-5b2200309c576709d69d6d6d2102927b]: Textual amendment: S. 17 repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 74(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/74/b); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

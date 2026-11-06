@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Duty to provide written terms of tenancy[^key-5ab55925ced2fd4afa4028a4ba9e9117]
+## 10. Duty to provide written terms of tenancy[^c-5ab55925ced2fd4afa4028a4ba9e9117]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ab55925ced2fd4afa4028a4ba9e9117]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/19/section/10) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-5ab55925ced2fd4afa4028a4ba9e9117]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/19/section/10) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

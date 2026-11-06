@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Duty to report the appointment of manager to SCW and the service regulator[^key-1cac3d4693e29fddf5c40020e98c5c8e]
+## 40. Duty to report the appointment of manager to SCW and the service regulator[^c-1cac3d4693e29fddf5c40020e98c5c8e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cac3d4693e29fddf5c40020e98c5c8e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2019/762/regulation/40) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-1cac3d4693e29fddf5c40020e98c5c8e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2019/762/regulation/40) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

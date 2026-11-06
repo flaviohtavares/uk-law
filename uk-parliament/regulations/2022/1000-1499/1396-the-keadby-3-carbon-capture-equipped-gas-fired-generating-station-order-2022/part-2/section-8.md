@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Application and modification of statutory provisions[^key-fa11df409c9543c8515def030384096a]
+## 8. Application and modification of statutory provisions[^c-fa11df409c9543c8515def030384096a]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa11df409c9543c8515def030384096a]: Commencement: Art. 8 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-fa11df409c9543c8515def030384096a]: Commencement: Art. 8 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00021]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

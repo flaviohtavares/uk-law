@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-7b54a20e90dbb3c409468eb371d75c79]
+Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-7b54a20e90dbb3c409468eb371d75c79]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 5th September 2004
 
-[^key-7b54a20e90dbb3c409468eb371d75c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b54a20e90dbb3c409468eb371d75c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b54a20e90dbb3c409468eb371d75c79]
+## 1. Citation and commencement[^c-7b54a20e90dbb3c409468eb371d75c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7b54a20e90dbb3c409468eb371d75c79]
+## 2. Interpretation[^c-7b54a20e90dbb3c409468eb371d75c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of regulation 4[^key-7b54a20e90dbb3c409468eb371d75c79]
+## 3. Revocation of regulation 4[^c-7b54a20e90dbb3c409468eb371d75c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of rule 7A (special advocate)[^key-7b54a20e90dbb3c409468eb371d75c79]
+## 4. Amendment of rule 7A (special advocate)[^c-7b54a20e90dbb3c409468eb371d75c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b54a20e90dbb3c409468eb371d75c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b54a20e90dbb3c409468eb371d75c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b54a20e90dbb3c409468eb371d75c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b54a20e90dbb3c409468eb371d75c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b54a20e90dbb3c409468eb371d75c79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/317) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-7b54a20e90dbb3c409468eb371d75c79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/317) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

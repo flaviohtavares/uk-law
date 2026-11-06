@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19B. Schools to co-operate with local authority in securing adequate provision (England)[^key-2191e21cbad80b89f2e2eaee6fc104ab]
+## 19B. Schools to co-operate with local authority in securing adequate provision (England)[^c-2191e21cbad80b89f2e2eaee6fc104ab]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2191e21cbad80b89f2e2eaee6fc104ab]: Textual amendment: S. 19B and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/61/2), [78(2)(k)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/k)
+[^c-2191e21cbad80b89f2e2eaee6fc104ab]: Textual amendment: S. 19B and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/61/2), [78(2)(k)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/k)

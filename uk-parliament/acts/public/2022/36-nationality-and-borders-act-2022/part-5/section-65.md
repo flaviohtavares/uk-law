@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Leave to remain for victims of slavery or human trafficking[^key-cd8da40e218007c6af7f7fa0ae83da9e][^key-8b8e36bb9940c775955e23de48ba00da]
+## 65. Leave to remain for victims of slavery or human trafficking[^c-cd8da40e218007c6af7f7fa0ae83da9e][^c-8b8e36bb9940c775955e23de48ba00da]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd8da40e218007c6af7f7fa0ae83da9e]: Commencement: S. 65 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-cd8da40e218007c6af7f7fa0ae83da9e]: Commencement: S. 65 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-8b8e36bb9940c775955e23de48ba00da]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2022/36/section/65) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/f)
+[^c-8b8e36bb9940c775955e23de48ba00da]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2022/36/section/65) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/f)

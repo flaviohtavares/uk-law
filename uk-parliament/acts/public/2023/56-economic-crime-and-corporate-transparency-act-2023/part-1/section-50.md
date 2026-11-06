@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Membership information: one-off statement[^key-86d3183ff8537951593a3ff3ae5e8d06]
+## 50. Membership information: one-off statement[^c-86d3183ff8537951593a3ff3ae5e8d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86d3183ff8537951593a3ff3ae5e8d06]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-86d3183ff8537951593a3ff3ae5e8d06]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -32,7 +32,7 @@ summary: ''
 
 CREDIT UNIONS
 
-The Credit Unions (Deposits and Loans) Order (Northern Ireland) 2006 (revoked)[^key-3fefc6384709353f622ee319111edbb6]
+The Credit Unions (Deposits and Loans) Order (Northern Ireland) 2006 (revoked)[^c-3fefc6384709353f622ee319111edbb6]
 
 Made
 
@@ -44,36 +44,36 @@ Coming into operation
 
 1st April 2006
 
-[^key-3fefc6384709353f622ee319111edbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3fefc6384709353f622ee319111edbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3fefc6384709353f622ee319111edbb6]
+## 1. Citation, commencement and interpretation[^c-3fefc6384709353f622ee319111edbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3fefc6384709353f622ee319111edbb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3fefc6384709353f622ee319111edbb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Limit on deposits by persons too young to be members[^key-3fefc6384709353f622ee319111edbb6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Limit on loan amounts[^key-3fefc6384709353f622ee319111edbb6]
+## 3. Limit on deposits by persons too young to be members[^c-3fefc6384709353f622ee319111edbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum repayment period for unsecured loans[^key-3fefc6384709353f622ee319111edbb6]
+## 4. Limit on loan amounts[^c-3fefc6384709353f622ee319111edbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-3fefc6384709353f622ee319111edbb6]
+## 5. Maximum repayment period for unsecured loans[^c-3fefc6384709353f622ee319111edbb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3fefc6384709353f622ee319111edbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 6. Revocation[^c-3fefc6384709353f622ee319111edbb6]
 
-[^key-3fefc6384709353f622ee319111edbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3fefc6384709353f622ee319111edbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3fefc6384709353f622ee319111edbb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3fefc6384709353f622ee319111edbb6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/78) revoked (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [art. 14(f)](https://www.legislation.gov.uk/uksi/2011/2832/article/14/f)
+[^c-3fefc6384709353f622ee319111edbb6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/78) revoked (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [art. 14(f)](https://www.legislation.gov.uk/uksi/2011/2832/article/14/f)

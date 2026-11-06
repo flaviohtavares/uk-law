@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**95.**[^key-efc92a1d1128979d4b630563ff594dfa] In section 30 (miscellaneous)—
+**95.**[^c-efc92a1d1128979d4b630563ff594dfa] In section 30 (miscellaneous)—
 
 - (a) in subsection (2)[^f00117]—
   - (i) for “determining authority” substitute “Secretary of State”;
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efc92a1d1128979d4b630563ff594dfa]: Commencement: Reg. 95 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-efc92a1d1128979d4b630563ff594dfa]: Commencement: Reg. 95 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00117]: Footnote: Subsection (2) was amended, and subsections (2A) and (2B) were inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 21.

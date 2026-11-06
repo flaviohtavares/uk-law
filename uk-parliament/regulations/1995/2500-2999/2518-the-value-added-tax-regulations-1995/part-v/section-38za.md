@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**38ZA.**[^key-dc395653f7bb1ae0abd0f7d54cc22b28] (1) Where—
+**38ZA.**[^c-dc395653f7bb1ae0abd0f7d54cc22b28] (1) Where—
 
 - (a) there is a decrease in consideration for a supply of goods which includes an amount of VAT and the decrease occurs after the end of the prescribed accounting period in which the original supply took place,
 - (b) the supply is the final supply in a chain of supplies made by taxable persons which relates to the same goods,
@@ -29,7 +29,7 @@ then, in regulation 38(2), the reference to “the taxable person who makes the 
 
 (2) In this regulation—
 
-- “cash refund” includes a payment made by cheque or equivalent but does not include the provision of a face-value voucher falling within Schedule 10A to the Act or a voucher falling within Schedule 10B to the Act[^key-ddb57b4f1eaae232eb7ce87bedb84392];
+- “cash refund” includes a payment made by cheque or equivalent but does not include the provision of a face-value voucher falling within Schedule 10A to the Act or a voucher falling within Schedule 10B to the Act[^c-ddb57b4f1eaae232eb7ce87bedb84392];
 - “final consumer” means the recipient of the supply referred to in paragraph (1)(b);
 - “final supplier” means the person who makes the supply referred to in paragraph (1)(b);
 - “first supplier” means the first person in the chain of supplies that ends with the final consumer;
@@ -46,6 +46,6 @@ then, in regulation 38(2), the reference to “the taxable person who makes the 
 
 ## Annotations
 
-[^key-dc395653f7bb1ae0abd0f7d54cc22b28]: Textual amendment: [Reg. 38ZA](https://www.legislation.gov.uk/uksi/1995/2518/regulation/38ZA) inserted (1.4.2014) by [The Value Added Tax (Amendment) Regulations 2014 (S.I. 2014/548)](https://www.legislation.gov.uk/uksi/2014/548), [regs. 1](https://www.legislation.gov.uk/uksi/2014/548/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/548/regulation/4)
+[^c-dc395653f7bb1ae0abd0f7d54cc22b28]: Textual amendment: [Reg. 38ZA](https://www.legislation.gov.uk/uksi/1995/2518/regulation/38ZA) inserted (1.4.2014) by [The Value Added Tax (Amendment) Regulations 2014 (S.I. 2014/548)](https://www.legislation.gov.uk/uksi/2014/548), [regs. 1](https://www.legislation.gov.uk/uksi/2014/548/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/548/regulation/4)
 
-[^key-ddb57b4f1eaae232eb7ce87bedb84392]: Textual amendment: Words in [reg. 38ZA(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/38ZA/2) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/6)
+[^c-ddb57b4f1eaae232eb7ce87bedb84392]: Textual amendment: Words in [reg. 38ZA(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/38ZA/2) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/6)

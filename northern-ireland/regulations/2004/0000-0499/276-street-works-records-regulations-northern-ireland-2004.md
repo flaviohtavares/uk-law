@@ -41,15 +41,15 @@ Coming into operation
 
 1st October 2004
 
-The Department for Regional Development[^f00001], in exercise of the powers conferred by Article 39(1) and (2) of the Street Works (Northern Ireland) Order 1995[^f00002] and now exercisable by it[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:[^key-f3106462714f671aee422ead9c5366cf]
+The Department for Regional Development[^f00001], in exercise of the powers conferred by Article 39(1) and (2) of the Street Works (Northern Ireland) Order 1995[^f00002] and now exercisable by it[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:[^c-f3106462714f671aee422ead9c5366cf]
 
-## 1. Citation, commencement and application[^key-b531b7be41661677eed749b39cd80733]
+## 1. Citation, commencement and application[^c-b531b7be41661677eed749b39cd80733]
 
 (1) These Regulations may be cited as the Street Works (Records) Regulations (Northern Ireland) 2004 and shall come into operation on 1st October 2004.
 
 (2) These Regulations shall apply to streets for which the Department is the street authority in accordance with Article 7(1)(a) of the Order.
 
-## 2. Interpretation[^key-250073c78fa06c085add9c8434cb9de2]
+## 2. Interpretation[^c-250073c78fa06c085add9c8434cb9de2]
 
 In these Regulations –
 
@@ -63,7 +63,7 @@ In these Regulations –
 
   and includes works which cannot reasonably be severed from such works.
 
-## 3. Form of Records[^key-efeedb14bd4c99915c4b5da0d5c98c6c]
+## 3. Form of Records[^c-efeedb14bd4c99915c4b5da0d5c98c6c]
 
 (1) Subject to regulation 5, a record of every item of apparatus belonging to an undertaker and placed in the street shall be kept by that undertaker on paper, or, subject to regulation 4, in the form of an electronic record, or a combination of both, and shall be prepared in the form of:
 
@@ -76,11 +76,11 @@ In these Regulations –
 
 (3) In preparing the record, the location and route of the apparatus shall be recorded so that the measured position shall be within 300mm of the actual position and the recorded position shall be within 500mm of the actual position.
 
-## 4. Electronic Records[^key-c83c51689b1c973937ca0da97990c91c]
+## 4. Electronic Records[^c-c83c51689b1c973937ca0da97990c91c]
 
 Where an electronic record is kept pursuant to regulation 3, it shall be capable of being reproduced in a sufficiently legible form to comply with the duty imposed by Article 39(3) of the Order (duty to make records available for inspection).
 
-## 5. Exceptions[^key-98d89e00afcad81c60d6a04509bc908b]
+## 5. Exceptions[^c-98d89e00afcad81c60d6a04509bc908b]
 
 The duty in Article 39(1) of the Order to keep a record of the location of every item of apparatus shall not apply –
 
@@ -113,14 +113,14 @@ These Regulations prescribe the form of records of apparatus placed in streets t
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(d) and Schedule 4 Part IV
 
-[^key-f3106462714f671aee422ead9c5366cf]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2004/276) power to amend or revoked conferred by S.I. 1995/3210 (N.I.), art 39(1)(2) (as extended) (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h)
+[^c-f3106462714f671aee422ead9c5366cf]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2004/276) power to amend or revoked conferred by S.I. 1995/3210 (N.I.), art 39(1)(2) (as extended) (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h)
 
-[^key-b531b7be41661677eed749b39cd80733]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/276/regulation/1) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
+[^c-b531b7be41661677eed749b39cd80733]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/276/regulation/1) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
 
-[^key-250073c78fa06c085add9c8434cb9de2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/276/regulation/2) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
+[^c-250073c78fa06c085add9c8434cb9de2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/276/regulation/2) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
 
-[^key-efeedb14bd4c99915c4b5da0d5c98c6c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/276/regulation/3) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
+[^c-efeedb14bd4c99915c4b5da0d5c98c6c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/276/regulation/3) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
 
-[^key-c83c51689b1c973937ca0da97990c91c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/276/regulation/4) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
+[^c-c83c51689b1c973937ca0da97990c91c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/276/regulation/4) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
 
-[^key-98d89e00afcad81c60d6a04509bc908b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/276/regulation/5) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)
+[^c-98d89e00afcad81c60d6a04509bc908b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/276/regulation/5) in operation at 1.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/276/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 700A. Employment-related securities etc: internationally mobile employees[^key-22bc96516a8dbcdbb8a3163fe4f5053b][^key-5635692ac4ff36862d6e9b9185f09a7a]
+## 700A. Employment-related securities etc: internationally mobile employees[^c-22bc96516a8dbcdbb8a3163fe4f5053b][^c-5635692ac4ff36862d6e9b9185f09a7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 - (a) the amount that, on the basis of the best estimate that can reasonably be made, is likely to count as employment income, minus
 - (b) the amount that, on the basis of such an estimate, is likely to be foreign securities income.
 
-(3) References in this section to “foreign securities income” are to income that is foreign securities income for the purposes of section 41F[^key-e7e115b74d15a6227eeae09ee7bac80f].
+(3) References in this section to “foreign securities income” are to income that is foreign securities income for the purposes of section 41F[^c-e7e115b74d15a6227eeae09ee7bac80f].
 
 ## Annotations
 
-[^key-22bc96516a8dbcdbb8a3163fe4f5053b]: Textual amendment: S. 700A inserted (with effect in accordance with Sch. 7 para. 80 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/38)
+[^c-22bc96516a8dbcdbb8a3163fe4f5053b]: Textual amendment: S. 700A inserted (with effect in accordance with Sch. 7 para. 80 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/38)
 
-[^key-5635692ac4ff36862d6e9b9185f09a7a]: Textual amendment: Words in s. 700A heading substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(16)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/16)
+[^c-5635692ac4ff36862d6e9b9185f09a7a]: Textual amendment: Words in s. 700A heading substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(16)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/16)
 
-[^key-e7e115b74d15a6227eeae09ee7bac80f]: Textual amendment: Word in s. 700A(3) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 21](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/21), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-e7e115b74d15a6227eeae09ee7bac80f]: Textual amendment: Word in s. 700A(3) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 21](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/21), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

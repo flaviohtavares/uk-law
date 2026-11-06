@@ -44,13 +44,13 @@ The Department of Agriculture, Environment and Rural Affairs makes these Regulat
 
 Before being laid before the Assembly, the Department requested, and took into account, advice from the Committee on Climate Change, in accordance with section 56(2) of the Act.
 
-## 1. Citation and commencement[^key-6f4dddbfcc5157edf7c528a1aeabb782]
+## 1. Citation and commencement[^c-6f4dddbfcc5157edf7c528a1aeabb782]
 
 (1) These Regulations may be cited as the Climate Change (2040 Emissions Target) Regulations (Northern Ireland) 2024.
 
 (2) These Regulations come into operation on the day after the day on which they are made.
 
-## 2. Setting of the target for 2040[^key-edb476b5fbe5736f91167a65965fd1f0]
+## 2. Setting of the target for 2040[^c-edb476b5fbe5736f91167a65965fd1f0]
 
 In section 3 of the Climate Change Act (Northern Ireland) 2022, for “in line with the target for the year 2050” substitute “at least 77% lower than the baseline”.
 
@@ -76,6 +76,6 @@ A regulatory impact assessment has been produced for this Statutory Rule. Copies
 
 [^f00001]: Footnote: [2022 c. 31 (N.I.)](https://www.legislation.gov.uk/nia/2022/31)
 
-[^key-6f4dddbfcc5157edf7c528a1aeabb782]: Commencement: Reg. 1 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/214/regulation/1/2)
+[^c-6f4dddbfcc5157edf7c528a1aeabb782]: Commencement: Reg. 1 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/214/regulation/1/2)
 
-[^key-edb476b5fbe5736f91167a65965fd1f0]: Commencement: Reg. 2 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/214/regulation/1/2)
+[^c-edb476b5fbe5736f91167a65965fd1f0]: Commencement: Reg. 2 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/214/regulation/1/2)

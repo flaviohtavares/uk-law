@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Application for compulsory treatment order[^key-ff75f1e24aa66ff3ba8c3ddd063b2614]
+## 63. Application for compulsory treatment order[^c-ff75f1e24aa66ff3ba8c3ddd063b2614]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ relating to the patient.
 
 ## Annotations
 
-[^key-ff75f1e24aa66ff3ba8c3ddd063b2614]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2003/13/section/63) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-ff75f1e24aa66ff3ba8c3ddd063b2614]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2003/13/section/63) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

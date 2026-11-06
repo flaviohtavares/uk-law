@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Duties when exercising functions[^key-747920bdd2b403da3b4a645c74c3b5e8][^key-30500cd6feeda7ae42f75590fd9de93f]
+## 43. Duties when exercising functions[^c-747920bdd2b403da3b4a645c74c3b5e8][^c-30500cd6feeda7ae42f75590fd9de93f]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-747920bdd2b403da3b4a645c74c3b5e8]: Commencement: S. 43 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-747920bdd2b403da3b4a645c74c3b5e8]: Commencement: S. 43 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-30500cd6feeda7ae42f75590fd9de93f]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/11/section/43) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-30500cd6feeda7ae42f75590fd9de93f]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/11/section/43) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

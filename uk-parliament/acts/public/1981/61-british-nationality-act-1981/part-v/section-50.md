@@ -135,7 +135,7 @@ and (in either case) at the time of the birth the ship or aircraft was registere
 
 (9A) For the purposes of this Act a child’s father is—
 
-- (a) the husband or male civil partner[^key-7d9211791641b8ca7c7612f8baa5a849], at the time of the child’s birth, of the woman who gives birth to the child, or
+- (a) the husband or male civil partner[^c-7d9211791641b8ca7c7612f8baa5a849], at the time of the child’s birth, of the woman who gives birth to the child, or
 - (b)[^c19873661] where a person is treated as the father of the child under section 28 of the Human Fertilisation and Embryology Act 1990 or section 35 or 36 of the Human Fertilisation and Embryology Act 2008, that person, or
 - (ba) where a person is treated as a parent of the child under section 42 or 43 of the Human Fertilisation and Embryology Act 2008, that person, or
 - (c) where none of paragraphs (a) to (ba) applies, a person who satisfies prescribed requirements as to proof of paternity.
@@ -238,7 +238,7 @@ An Order in Council under this subsection shall be subject to annulment in pursu
 
 [^c19263671]: Textual amendment: S. 50(9)-(9C) substituted (5.6.2006 for certain purposes and otherwise 1.7.2006 with effect as mentioned in [s. 162(5)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/5) of the amending Act) for s. 50(9) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/9/1), [162](https://www.legislation.gov.uk/ukpga/2002/41/section/162) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2006/1498](https://www.legislation.gov.uk/uksi/2006/1498), [arts. 2](https://www.legislation.gov.uk/uksi/2006/1498/article/2), [3](https://www.legislation.gov.uk/uksi/2006/1498/article/3)
 
-[^key-7d9211791641b8ca7c7612f8baa5a849]: Textual amendment: Words in [s. 50(9A)(a)](https://www.legislation.gov.uk/ukpga/1981/61/section/50/9A/a) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2019/1458/regulation/22)
+[^c-7d9211791641b8ca7c7612f8baa5a849]: Textual amendment: Words in [s. 50(9A)(a)](https://www.legislation.gov.uk/ukpga/1981/61/section/50/9A/a) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2019/1458/regulation/22)
 
 [^c19873661]: Textual amendment: S. 50(9A)(b)(ba)(c) substituted (6.4.2009) for s. 50(9A)(b)(c) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68](https://www.legislation.gov.uk/ukpga/2008/22/section/68), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/22); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/d) (with transitional provisions in [art. 7(1)](https://www.legislation.gov.uk/uksi/2009/479/article/7/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 

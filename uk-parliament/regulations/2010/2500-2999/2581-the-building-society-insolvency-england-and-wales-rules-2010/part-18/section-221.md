@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 221. Right of attendance[^key-43754a6c78ff93a3087088f4baf386ec]
+## 221. Right of attendance[^c-43754a6c78ff93a3087088f4baf386ec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.53 of the 1986 Rules. In paragraph (1) for “company insolvency pr
 
 ## Annotations
 
-[^key-43754a6c78ff93a3087088f4baf386ec]: Commencement: Rule 221 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-43754a6c78ff93a3087088f4baf386ec]: Commencement: Rule 221 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

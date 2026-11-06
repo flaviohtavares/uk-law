@@ -36,7 +36,7 @@ An Act to make provision in respect of safe access zones for premises providing 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. Premises where abortion treatments are carried out[^key-31c400b336ea7864b1803badbcbd3bc4]
+## 1. Premises where abortion treatments are carried out[^c-31c400b336ea7864b1803badbcbd3bc4]
 
 (1) In this Act, premises are protected premises if they satisfy conditions 1 and 2.
 
@@ -44,7 +44,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) Condition 2 is that the operator of the premises has given notice to the Department that the operator wishes the premises to be protected premises and that notice has not been withdrawn by the operator.
 
-## 2. Premises where information, advice or counselling about abortion treatments are provided[^key-dbe42a246fefbc471c906ae86ae39664]
+## 2. Premises where information, advice or counselling about abortion treatments are provided[^c-dbe42a246fefbc471c906ae86ae39664]
 
 (1) In this Act, premises are also protected premises if they satisfy conditions 1, 2 and 3.
 
@@ -64,7 +64,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “**HSC hospital**” means a hospital managed by an HSC trust,
 - “**HSC trust**” means a Health and Social Care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991.
 
-## 3. Protected persons[^key-e0115309f701d2b6371cd4c989c0c472]
+## 3. Protected persons[^c-e0115309f701d2b6371cd4c989c0c472]
 
 In this Act, a protected person is a person attending protected premises for the purposes of—
 
@@ -72,7 +72,7 @@ In this Act, a protected person is a person attending protected premises for the
 - (b) accompanying a person described in paragraph (a), at the invitation of that person, or
 - (c) working in, or providing services to, the protected premises.
 
-## 4. Establishment of safe access zone[^key-711176f5019c2d5de3999996b3b21e5d]
+## 4. Establishment of safe access zone[^c-711176f5019c2d5de3999996b3b21e5d]
 
 (1) A safe access zone is established for protected premises in accordance with this section.
 
@@ -89,7 +89,7 @@ In this Act, a protected person is a person attending protected premises for the
 
 (6) In this section “**public area**” means a place to which the public has access, without payment, as of right.
 
-## 5. Offences in respect of a safe access zone[^key-6bfb2977593560805b78b083d1c4199a]
+## 5. Offences in respect of a safe access zone[^c-6bfb2977593560805b78b083d1c4199a]
 
 (1) In this section, D means a person who is not a protected person.
 
@@ -111,7 +111,7 @@ in connection with the protected person attending protected premises for a purpo
 
 (4) An offence under this section is punishable on summary conviction by a fine not exceeding level 2 on the standard scale.
 
-## 6. Enforcement of safe access zone by a constable[^key-f060f8f8ee383a078fb756702d36c285]
+## 6. Enforcement of safe access zone by a constable[^c-f060f8f8ee383a078fb756702d36c285]
 
 (1) Where a constable has reasonable grounds to believe that a person has committed, is committing, or is about to commit an offence under section 5(2), the constable may—
 
@@ -126,7 +126,7 @@ in connection with the protected person attending protected premises for a purpo
 
 (5) An offence under subsection (4) is punishable on summary conviction by a fine not exceeding level 4 on the standard scale.
 
-## 7. Publication of list of protected premises and safe access zones[^key-31df76fb61c3a9723c36483dcfc85210]
+## 7. Publication of list of protected premises and safe access zones[^c-31df76fb61c3a9723c36483dcfc85210]
 
 The Department must —
 
@@ -134,11 +134,11 @@ The Department must —
 - (b) publish that list in such manner as appears to the Department to be appropriate to bring the existence and extent of safe access zones to the attention of members of the public likely to be affected; and
 - (c) ensure (so far as its powers extend) that appropriate steps are taken by an operator of protected premises for bringing the existence and extent of the safe access zone for those premises to the attention of members of the public.
 
-## 8. Monitoring of effectiveness of safe access zones[^key-79144cd737935406416176f0f4ea00ab]
+## 8. Monitoring of effectiveness of safe access zones[^c-79144cd737935406416176f0f4ea00ab]
 
 The Department must publish an annual report, setting out whether, in the opinion of the Department, each safe access zone has been effective in protecting the safety and dignity of protected persons.
 
-## 9. Interpretation[^key-415e2b2ce4c162db592e2929ed963402]
+## 9. Interpretation[^c-415e2b2ce4c162db592e2929ed963402]
 
 (1) In this Act—
 
@@ -159,36 +159,36 @@ The Department must publish an annual report, setting out whether, in the opinio
 
 (3) For the purposes of this Act a person is attending protected premises if the person is accessing or leaving, or attempting to access or leave, those premises.
 
-## 10. Commencement[^key-471e743b697748bc7d27787ccb69492a]
+## 10. Commencement[^c-471e743b697748bc7d27787ccb69492a]
 
 (1) Sections 5 and 6 come into operation at the end of the period of 3 months after the date this Act receives Royal Assent.
 
 (2) The other provisions of this Act come into operation on the day after this Act receives Royal Assent.
 
-## 11. Short title[^key-cfbd6386c2b70f9f53bddb66de4faf1e]
+## 11. Short title[^c-cfbd6386c2b70f9f53bddb66de4faf1e]
 
 This Act may be cited as the Abortion Services (Safe Access Zones) Act (Northern Ireland) 2023.
 
 ## Annotations
 
-[^key-31c400b336ea7864b1803badbcbd3bc4]: Commencement: S. 1 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-31c400b336ea7864b1803badbcbd3bc4]: Commencement: S. 1 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-dbe42a246fefbc471c906ae86ae39664]: Commencement: S. 2 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-dbe42a246fefbc471c906ae86ae39664]: Commencement: S. 2 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-e0115309f701d2b6371cd4c989c0c472]: Commencement: S. 3 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-e0115309f701d2b6371cd4c989c0c472]: Commencement: S. 3 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-711176f5019c2d5de3999996b3b21e5d]: Commencement: S. 4 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-711176f5019c2d5de3999996b3b21e5d]: Commencement: S. 4 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-6bfb2977593560805b78b083d1c4199a]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2023/1/section/5) in operation at 7.5.2023, see [s. 10(1)](https://www.legislation.gov.uk/nia/2023/1/section/10/1)
+[^c-6bfb2977593560805b78b083d1c4199a]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2023/1/section/5) in operation at 7.5.2023, see [s. 10(1)](https://www.legislation.gov.uk/nia/2023/1/section/10/1)
 
-[^key-f060f8f8ee383a078fb756702d36c285]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2023/1/section/6) in operation at 7.5.2023, see [s. 10(1)](https://www.legislation.gov.uk/nia/2023/1/section/10/1)
+[^c-f060f8f8ee383a078fb756702d36c285]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2023/1/section/6) in operation at 7.5.2023, see [s. 10(1)](https://www.legislation.gov.uk/nia/2023/1/section/10/1)
 
-[^key-31df76fb61c3a9723c36483dcfc85210]: Commencement: S. 7 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-31df76fb61c3a9723c36483dcfc85210]: Commencement: S. 7 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-79144cd737935406416176f0f4ea00ab]: Commencement: S. 8 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-79144cd737935406416176f0f4ea00ab]: Commencement: S. 8 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-415e2b2ce4c162db592e2929ed963402]: Commencement: S. 9 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-415e2b2ce4c162db592e2929ed963402]: Commencement: S. 9 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-471e743b697748bc7d27787ccb69492a]: Commencement: S. 10 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-471e743b697748bc7d27787ccb69492a]: Commencement: S. 10 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
 
-[^key-cfbd6386c2b70f9f53bddb66de4faf1e]: Commencement: S. 11 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)
+[^c-cfbd6386c2b70f9f53bddb66de4faf1e]: Commencement: S. 11 in operation at 7.2.2023, see [s. 10(2)](https://www.legislation.gov.uk/nia/2023/1/section/10/2)

@@ -22,20 +22,20 @@ summary: ''
 
 Section 57
 
-### 1. Introductory[^key-7723f531c11ee6a4b527e75ac86166b2][^key-3766447d597eb444064abba9d72bc765]
+### 1. Introductory[^c-7723f531c11ee6a4b527e75ac86166b2][^c-3766447d597eb444064abba9d72bc765]
 
 This Schedule confers powers of entry, search, seizure and retention on constables in connection with the imposition of measures on individuals.
 
-**2.**[^key-117f584e1bf44e1e6a8cb1ef2ea7eedf][^key-2f2d1b33fd1fef33442750227f2561dc] A power conferred on a constable by virtue of this Schedule—
+**2.**[^c-117f584e1bf44e1e6a8cb1ef2ea7eedf][^c-2f2d1b33fd1fef33442750227f2561dc] A power conferred on a constable by virtue of this Schedule—
 
 - (a) is additional to powers which the constable has at common law or by virtue of any other enactment, and
 - (b) is not to be taken as affecting those powers.
 
-**3.**[^key-76f674c3a2107e8428457daa84aeb3ce][^key-e0b6d464ff1b85c8077a83fb9ea3680f] A constable may detain an individual for the purpose of carrying out a search of that individual under a power conferred by virtue of this Schedule.
+**3.**[^c-76f674c3a2107e8428457daa84aeb3ce][^c-e0b6d464ff1b85c8077a83fb9ea3680f] A constable may detain an individual for the purpose of carrying out a search of that individual under a power conferred by virtue of this Schedule.
 
-**4.**[^key-35d86e52b5d4635e8c4122da05d514a4][^key-b07003576b153b0bb232977ad55e653e] A constable may use reasonable force, if necessary, for the purpose of exercising a power conferred on the constable by virtue of this Schedule.
+**4.**[^c-35d86e52b5d4635e8c4122da05d514a4][^c-b07003576b153b0bb232977ad55e653e] A constable may use reasonable force, if necessary, for the purpose of exercising a power conferred on the constable by virtue of this Schedule.
 
-### 5. Entry and search for purposes of serving a Part 2 notice[^key-5de1ec962318fd133713fb203c865433][^key-74f687e0b5e8f2e13ef881450d89304a]
+### 5. Entry and search for purposes of serving a Part 2 notice[^c-5de1ec962318fd133713fb203c865433][^c-74f687e0b5e8f2e13ef881450d89304a]
 
 (1) For the purpose of serving a relevant notice on an individual, a constable may—
 
@@ -49,7 +49,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
 - (c) a notice under section 48(1) varying a Part 2 notice as mentioned in paragraph (c) of that subsection; or
 - (d) a notice under section 49(6) reviving a Part 2 notice.
 
-### 6. Search of individual or premises at time of serving a Part 2 notice[^key-f4d9d9e766b3ed8e44604d10cba020dd][^key-e7a5f77b4c24cb6f1a92bcffc43a70d7]
+### 6. Search of individual or premises at time of serving a Part 2 notice[^c-f4d9d9e766b3ed8e44604d10cba020dd][^c-e7a5f77b4c24cb6f1a92bcffc43a70d7]
 
 (1) This paragraph applies if a Part 2 notice is being, or has just been, served on an individual.
 
@@ -73,7 +73,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
   - (i) the thing is or contains evidence in relation to an offence, and
   - (ii) it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
 
-### 7. Search of premises on suspicion of absconding[^key-031da74acfed684cd79f41eb1eff6e8e][^key-e21a746f524f881d836103364941305c]
+### 7. Search of premises on suspicion of absconding[^c-031da74acfed684cd79f41eb1eff6e8e][^c-e21a746f524f881d836103364941305c]
 
 (1) This paragraph applies if a constable reasonably suspects that an individual in respect of whom a Part 2 notice is in force has absconded.
 
@@ -95,7 +95,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
   - (i) the thing is or contains evidence in relation to an offence, and
   - (ii) it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
 
-### 8. Search for compliance purposes[^key-f03dc18cdb43c788caa9459e55a60218][^key-9f42abd5094bb6891dff1d4622c11d62]
+### 8. Search for compliance purposes[^c-f03dc18cdb43c788caa9459e55a60218][^c-9f42abd5094bb6891dff1d4622c11d62]
 
 (1) A constable may apply for the issue of a warrant under this paragraph for the purpose of determining whether an individual in respect of whom a Part 2 notice is in force is complying with measures specified in the notice.
 
@@ -122,7 +122,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
 - (b) a sheriff, if the application is made in Scotland;
 - (c) a lay magistrate, if the application is made in Northern Ireland.
 
-**9.**[^key-37f9d6298d32d53212f3a231040f79cd][^key-928673a70f579ec0f20dcd802d195bd8] (1) This paragraph applies in relation to a warrant issued in England, Wales or Northern Ireland under paragraph 8 so far as it authorises a constable to search an individual.
+**9.**[^c-37f9d6298d32d53212f3a231040f79cd][^c-928673a70f579ec0f20dcd802d195bd8] (1) This paragraph applies in relation to a warrant issued in England, Wales or Northern Ireland under paragraph 8 so far as it authorises a constable to search an individual.
 
 (2) In relation to warrants issued under that paragraph so far as authorising the entry and search of premises, see—
 
@@ -177,7 +177,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
 - (a) in relation to a warrant issued in England and Wales, the designated officer for the local justice area in which the justice of the peace who issued the warrant was acting when it was issued;
 - (b) in relation to a warrant issued in Northern Ireland, the clerk of petty sessions.
 
-### 10. Search of individual for public safety purposes[^key-e6578d0bb381cd7b04b3fcb274bfa037][^key-5a6b3fde5ae4ae90f5a2e227fb1a7cdd]
+### 10. Search of individual for public safety purposes[^c-e6578d0bb381cd7b04b3fcb274bfa037][^c-5a6b3fde5ae4ae90f5a2e227fb1a7cdd]
 
 (1) A constable may (without a warrant) search an individual in respect of whom a Part 2 notice is in force for the purpose of ascertaining whether the individual is in possession of anything that could be used to threaten or harm any person.
 
@@ -193,7 +193,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
   - (i) the thing is or contains evidence in relation to an offence, and
   - (ii) it is necessary to seize it to prevent it being concealed, lost, damaged, altered or destroyed.
 
-### 11. Power to retain items[^key-17311ac92751dc4b94c5f6a91d97bb46][^key-c59b0ced1ed6f05e2894f184e92a2170]
+### 11. Power to retain items[^c-17311ac92751dc4b94c5f6a91d97bb46][^c-c59b0ced1ed6f05e2894f184e92a2170]
 
 (1) Anything that is seized under a power conferred by virtue of this Schedule may be—
 
@@ -211,7 +211,7 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
 
 (4) Nothing in this paragraph or in paragraph 12 affects any power of a court to make an order under section 1 of the Police (Property) Act 1897.
 
-**12.**[^key-80f98a05bd3e39304767391f7fa13198][^key-0d37dc0fd2876c5c0415aaeb74ec73dc] (1) This paragraph applies if—
+**12.**[^c-80f98a05bd3e39304767391f7fa13198][^c-0d37dc0fd2876c5c0415aaeb74ec73dc] (1) This paragraph applies if—
 
 - (a) a device is surrendered by virtue of a condition of the kind mentioned in paragraph 8(4)(e) of Schedule 7 (surrendering of electronic communication devices for inspection or modification purposes), and
 - (b) a constable has reasonable grounds for believing that the device is or contains evidence in relation to an offence.
@@ -229,50 +229,50 @@ This Schedule confers powers of entry, search, seizure and retention on constabl
 
 ## Annotations
 
-[^key-7723f531c11ee6a4b527e75ac86166b2]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see 100(1)
+[^c-7723f531c11ee6a4b527e75ac86166b2]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-3766447d597eb444064abba9d72bc765]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-3766447d597eb444064abba9d72bc765]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-117f584e1bf44e1e6a8cb1ef2ea7eedf]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see 100(1)
+[^c-117f584e1bf44e1e6a8cb1ef2ea7eedf]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-2f2d1b33fd1fef33442750227f2561dc]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-2f2d1b33fd1fef33442750227f2561dc]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-76f674c3a2107e8428457daa84aeb3ce]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see 100(1)
+[^c-76f674c3a2107e8428457daa84aeb3ce]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-e0b6d464ff1b85c8077a83fb9ea3680f]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-e0b6d464ff1b85c8077a83fb9ea3680f]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-35d86e52b5d4635e8c4122da05d514a4]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see 100(1)
+[^c-35d86e52b5d4635e8c4122da05d514a4]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-b07003576b153b0bb232977ad55e653e]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-b07003576b153b0bb232977ad55e653e]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-5de1ec962318fd133713fb203c865433]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see 100(1)
+[^c-5de1ec962318fd133713fb203c865433]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see 100(1)
 
-[^key-74f687e0b5e8f2e13ef881450d89304a]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-74f687e0b5e8f2e13ef881450d89304a]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-f4d9d9e766b3ed8e44604d10cba020dd]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see 100(1)
+[^c-f4d9d9e766b3ed8e44604d10cba020dd]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see 100(1)
 
-[^key-e7a5f77b4c24cb6f1a92bcffc43a70d7]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-e7a5f77b4c24cb6f1a92bcffc43a70d7]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-031da74acfed684cd79f41eb1eff6e8e]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see 100(1)
+[^c-031da74acfed684cd79f41eb1eff6e8e]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see 100(1)
 
-[^key-e21a746f524f881d836103364941305c]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-e21a746f524f881d836103364941305c]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-f03dc18cdb43c788caa9459e55a60218]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see 100(1)
+[^c-f03dc18cdb43c788caa9459e55a60218]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see 100(1)
 
-[^key-9f42abd5094bb6891dff1d4622c11d62]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-9f42abd5094bb6891dff1d4622c11d62]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-37f9d6298d32d53212f3a231040f79cd]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see 100(1)
+[^c-37f9d6298d32d53212f3a231040f79cd]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see 100(1)
 
-[^key-928673a70f579ec0f20dcd802d195bd8]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-928673a70f579ec0f20dcd802d195bd8]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-e6578d0bb381cd7b04b3fcb274bfa037]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see 100(1)
+[^c-e6578d0bb381cd7b04b3fcb274bfa037]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see 100(1)
 
-[^key-5a6b3fde5ae4ae90f5a2e227fb1a7cdd]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-5a6b3fde5ae4ae90f5a2e227fb1a7cdd]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-17311ac92751dc4b94c5f6a91d97bb46]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see 100(1)
+[^c-17311ac92751dc4b94c5f6a91d97bb46]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see 100(1)
 
-[^key-c59b0ced1ed6f05e2894f184e92a2170]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-c59b0ced1ed6f05e2894f184e92a2170]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-80f98a05bd3e39304767391f7fa13198]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see 100(1)
+[^c-80f98a05bd3e39304767391f7fa13198]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see 100(1)
 
-[^key-0d37dc0fd2876c5c0415aaeb74ec73dc]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-0d37dc0fd2876c5c0415aaeb74ec73dc]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/11/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

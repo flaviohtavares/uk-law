@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 18 of the Criminal Law (Consolidation) (Scotland) Act 1995[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-8611682ff2fed1c2043252f2b5b1c2c6]
+## 1. Citation and commencement[^c-8611682ff2fed1c2043252f2b5b1c2c6]
 
 This Order may be cited as the Sports Grounds and Sporting Events (Designation) (Scotland) Amendment Order 2008 and comes into force on 12th December 2008.
 
-## 2. Amendment of designation of sports grounds[^key-12f3caf4907c09cb3e5a78bcde91a9c2]
+## 2. Amendment of designation of sports grounds[^c-12f3caf4907c09cb3e5a78bcde91a9c2]
 
 In Part I of Schedule 1 (sports grounds) to the Sports Grounds and Sporting Events (Designation) (Scotland) Order 2004[^f00002]–
 
@@ -81,8 +81,8 @@ This Order amends the Sports Grounds and Sporting Events (Designation) (Scotland
 
 [^f00001]: Footnote: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-8611682ff2fed1c2043252f2b5b1c2c6]: Commencement: Art. 1 in force at 12.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/379/article/1)
+[^c-8611682ff2fed1c2043252f2b5b1c2c6]: Commencement: Art. 1 in force at 12.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/379/article/1)
 
-[^key-12f3caf4907c09cb3e5a78bcde91a9c2]: Commencement: Art. 2 in force at 12.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/379/article/1)
+[^c-12f3caf4907c09cb3e5a78bcde91a9c2]: Commencement: Art. 2 in force at 12.12.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/379/article/1)
 
 [^f00002]: Footnote: [S.S.I. 2004/356](https://www.legislation.gov.uk/ssi/2004/356), amended by [S.S.I. 2007/324](https://www.legislation.gov.uk/ssi/2007/324).

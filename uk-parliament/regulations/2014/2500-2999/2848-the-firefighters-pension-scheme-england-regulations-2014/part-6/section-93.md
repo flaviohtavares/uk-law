@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Meaning of “final pay”[^key-c8f569a84d6b7b6b67afaf235e83864e]
+## 93. Meaning of “final pay”[^c-c8f569a84d6b7b6b67afaf235e83864e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,13 +34,13 @@ summary: ''
 
 (4) But if the continuous period of pensionable service includes the day 29th February, paragraphs (1)(a) and (2) have effect with the substitution for “365” of “366”.
 
-(5)[^key-c769dc60456050c2a345ec4f9e309d02] Where the member referred to in paragraph (1) is a transition member and was in pensionable service under the 1992 Scheme or the NFPS, as the case may be, during the period referred to in paragraph (1)(a) or (1)(b) and service from that scheme is included in the qualifying service for the pension account in respect of which the lump sum death benefit is paid—
+(5)[^c-c769dc60456050c2a345ec4f9e309d02] Where the member referred to in paragraph (1) is a transition member and was in pensionable service under the 1992 Scheme or the NFPS, as the case may be, during the period referred to in paragraph (1)(a) or (1)(b) and service from that scheme is included in the qualifying service for the pension account in respect of which the lump sum death benefit is paid—
 
 - (a) pensionable pay in paragraph (1)(a) or (1)(b) includes average pensionable pay construed in accordance with rule G1 where the person was a member of the 1992 Scheme or pensionable pay under rule 1 or rule 2 of Part 11 of the NFPS where the person was a firefighter or special firefighter member of the NFPS, and
 - (b) pensionable service includes pensionable service construed in accordance with rule F1, where the person was a member of the 1992 Scheme or pensionable service construed in accordance with rules 2 to 5 of Part 10 of the NFPS.
 
 ## Annotations
 
-[^key-c8f569a84d6b7b6b67afaf235e83864e]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2014/2848/regulation/93) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c8f569a84d6b7b6b67afaf235e83864e]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2014/2848/regulation/93) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-c769dc60456050c2a345ec4f9e309d02]: Textual amendment: [Reg. 93(5)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/93/5) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/6/c)
+[^c-c769dc60456050c2a345ec4f9e309d02]: Textual amendment: [Reg. 93(5)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/93/5) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/6/c)

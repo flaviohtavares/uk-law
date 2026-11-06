@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Confirmation of plan[^key-f6fd7368484201d40567f8e67c9ebe7a][^key-0dcd077bdb83b3dc3798dcbc237fdb4c]
+## 8. Confirmation of plan[^c-f6fd7368484201d40567f8e67c9ebe7a][^c-0dcd077bdb83b3dc3798dcbc237fdb4c]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6fd7368484201d40567f8e67c9ebe7a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/16/section/8) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-f6fd7368484201d40567f8e67c9ebe7a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/16/section/8) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-0dcd077bdb83b3dc3798dcbc237fdb4c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/16/section/8) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
+[^c-0dcd077bdb83b3dc3798dcbc237fdb4c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2011/16/section/8) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)

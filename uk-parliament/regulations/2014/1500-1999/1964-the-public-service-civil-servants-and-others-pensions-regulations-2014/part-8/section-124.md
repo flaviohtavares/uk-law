@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Payment of lump sum death benefit to nominees or personal representatives[^key-2ca99ae12e648fc94cb5d816fa26a55c]
+## 124. Payment of lump sum death benefit to nominees or personal representatives[^c-2ca99ae12e648fc94cb5d816fa26a55c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ca99ae12e648fc94cb5d816fa26a55c]: Commencement: [Reg. 124](https://www.legislation.gov.uk/uksi/2014/1964/regulation/124) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-2ca99ae12e648fc94cb5d816fa26a55c]: Commencement: [Reg. 124](https://www.legislation.gov.uk/uksi/2014/1964/regulation/124) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

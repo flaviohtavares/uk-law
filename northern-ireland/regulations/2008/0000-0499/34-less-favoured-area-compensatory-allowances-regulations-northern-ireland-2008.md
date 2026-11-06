@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community and in relation to matters relating to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2), hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-cca12aa061bfbbbb7512227dcf084742]
+## 1. Citation and commencement[^c-cca12aa061bfbbbb7512227dcf084742]
 
 These Regulations may be cited as the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2008 and shall come into operation on 25th February 2008.
 
-## 2. Interpretation[^key-ab14e6466471857beaa2ca72db86f559]
+## 2. Interpretation[^c-ab14e6466471857beaa2ca72db86f559]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -119,11 +119,11 @@ These Regulations may be cited as the Less Favoured Area Compensatory Allowances
 
 (4) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication which has been recorded and is capable of being subsequently reproduced.
 
-## 3. Power to make payments[^key-8111e1780ff3b1495067588af6f542bb]
+## 3. Power to make payments[^c-8111e1780ff3b1495067588af6f542bb]
 
 Subject to regulation 5, the Department shall make payments of less favoured area compensatory allowance in respect of the year 2008 to any claimant who is eligible under regulation 4 in respect of any eligible forage area.
 
-## 4. Eligibility of claimants for less favoured area compensatory allowance[^key-91e07e15077224ca5745a6a74191c303]
+## 4. Eligibility of claimants for less favoured area compensatory allowance[^c-91e07e15077224ca5745a6a74191c303]
 
 (1) Subject to Article 51 of Council Regulation 1698/2005, and to regulation 5, a claimant shall be eligible for less favoured area compensatory allowance if, and only if—
 
@@ -142,27 +142,27 @@ Subject to regulation 5, the Department shall make payments of less favoured are
 
 (5) In order to enable it to consider whether to exercise its discretion under paragraph (4), the claimant shall provide the Department with such information as it reasonably may require.
 
-## 5. Conditions as to continued use of eligible land[^key-ae75170a55698054a6224729f4ad9c09][^key-9159a98aeb56feeedc02b8acae129ae9]
+## 5. Conditions as to continued use of eligible land[^c-ae75170a55698054a6224729f4ad9c09][^c-9159a98aeb56feeedc02b8acae129ae9]
 
 Less favoured area compensatory allowance shall not be paid to a claimant unless—
 
 - (a) he has given a written undertaking, in such form as the Department may reasonably require, that he would, for a period of five years from the date of payment of the first compensatory allowance, continue to use for the purposes of agriculture at least three hectares of land which is either eligible land or related less favoured area; and
 - (b) he is not in breach of that undertaking at the date of payment.
 
-## 6. Release from undertaking[^key-429210af2a57e462998a5c296fac2666][^key-9159a98aeb56feeedc02b8acae129ae9]
+## 6. Release from undertaking[^c-429210af2a57e462998a5c296fac2666][^c-9159a98aeb56feeedc02b8acae129ae9]
 
 A claimant shall not be taken to be in breach of the undertaking referred to in regulation 5—
 
 - (a) if he is prevented from continuing to discharge that undertaking by reason of any material circumstance beyond his control; or
 - (b) if he ceases to farm, and at least three hectares of the eligible land, or of any related less favoured area, last used by him for the grazing of animals continue to be used for the purposes of agriculture.
 
-## 7. Amount of payment[^key-1680499f6214fdc88f85ccd3a1cd4309]
+## 7. Amount of payment[^c-1680499f6214fdc88f85ccd3a1cd4309]
 
 (1) Subject to paragraph (2) and regulation 8, payment of less favoured area compensatory allowance in respect of the descriptions of eligible forage area specified in column 1 of Schedule 2 shall be made at the rates specified in column 2 of Schedule 2.
 
 (2) The amount of the payment under paragraph (1) may be increased by an amount determined by the Department if the number of suckler cows and heifers expressed in livestock units kept by a claimant throughout at least the minimum grazing period is at least 25% of the number of the claimant’s relevant animals expressed in livestock units.
 
-## 8. Exclusion of forage area[^key-d9ba7f670642297a9eaca241eb84e4c5]
+## 8. Exclusion of forage area[^c-d9ba7f670642297a9eaca241eb84e4c5]
 
 (1) Subject to paragraph (2), if, on 31st March 2007, a claimant had available to him an individual reference quantity of milk, his relevant forage area shall be reduced by 1 hectare per 10,000 litres of that quantity for the purposes of determining his qualifying forage area.
 
@@ -180,7 +180,7 @@ where:
 
 (3) Where paragraph (1) or (2) applies, the reduction in the relevant forage area shall first be applied to land which is not eligible land, followed by disadvantaged land, and lastly, severely disadvantaged land.
 
-## 9. Powers of authorised persons[^key-de0b8ffdbb7342bbb3e2618c0f91fea5][^key-de1ba98815f737d3c1b617578051aff6]
+## 9. Powers of authorised persons[^c-de0b8ffdbb7342bbb3e2618c0f91fea5][^c-de1ba98815f737d3c1b617578051aff6]
 
 (1) An authorised person may at all reasonable times, on producing, if so required, some duly authenticated document showing his authority, enter on any land, other than land used solely for the purpose of a dwelling-house—
 
@@ -212,7 +212,7 @@ for any of the purposes mentioned in paragraph (2).
 - (a) any official of the Commission, and
 - (b) such other persons as he considers necessary, and paragraphs (3) and (4) shall apply in relation to any person referred to in sub-paragraph (b), when acting under the instructions of an authorised person, as if he were an authorised person.
 
-## 10. Breaches of undertakings[^key-ce8a5573dc12c1b39b43af1bfa83bd2e][^key-de1ba98815f737d3c1b617578051aff6]
+## 10. Breaches of undertakings[^c-ce8a5573dc12c1b39b43af1bfa83bd2e][^c-de1ba98815f737d3c1b617578051aff6]
 
 Where—
 
@@ -220,7 +220,7 @@ Where—
 - (b) a beneficiary is in breach of any of the terms of an undertaking, or
 - (c) a beneficiary is in breach of any requirement to which he is subject under these Regulations, Council Regulation 1257/1999 or Council Regulation 1698/2005, the Department may exercise any of the powers specified in regulation 11.
 
-## 11. Department’s powers of recovery etc.[^key-8c3129b3686a990c4e20872ac86d6495][^key-de1ba98815f737d3c1b617578051aff6]
+## 11. Department’s powers of recovery etc.[^c-8c3129b3686a990c4e20872ac86d6495][^c-de1ba98815f737d3c1b617578051aff6]
 
 (1) The powers conferred by regulation 10 are—
 
@@ -232,7 +232,7 @@ Where—
 
 (3) The powers conferred on the Department by paragraph (2) shall be exercisable by a notice served on the beneficiary by post at his last known address.
 
-## 12. Recovery of interest[^key-2147e26bf823c949805a3d9568100eb7][^key-de1ba98815f737d3c1b617578051aff6]
+## 12. Recovery of interest[^c-2147e26bf823c949805a3d9568100eb7][^c-de1ba98815f737d3c1b617578051aff6]
 
 (1) Where the Department exercises the power conferred by regulation 11(1)(b), it may also recover on demand interest on the sum to be recovered, and the rate of interest shall be one percentage point above LIBOR on a day to day basis.
 
@@ -240,11 +240,11 @@ Where—
 
 (3) In any proceedings relating to this regulation, a certificate of the Department stating the LIBOR applicable during a period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Department of that rate.
 
-## 13. Sums payable to the Department to be recoverable as a debt[^key-e0476c834492d448506cb6d6a61b99b0][^key-de1ba98815f737d3c1b617578051aff6]
+## 13. Sums payable to the Department to be recoverable as a debt[^c-e0476c834492d448506cb6d6a61b99b0][^c-de1ba98815f737d3c1b617578051aff6]
 
 In any case where an amount falls to be paid to the Department by virtue of (or by virtue of action taken under) these Regulations, the amount so falling to be paid shall be recoverable as a debt.
 
-## 14. Offences and penalties[^key-fc2bb0a274d5df8528890654ffe067ff][^key-de1ba98815f737d3c1b617578051aff6]
+## 14. Offences and penalties[^c-fc2bb0a274d5df8528890654ffe067ff][^c-de1ba98815f737d3c1b617578051aff6]
 
 (1) A person is guilty of an offence if—
 
@@ -262,7 +262,7 @@ In any case where an amount falls to be paid to the Department by virtue of (or 
 - (a) a statement of the date on which evidence sufficient in the prosecutor’s opinion to justify the proceedings came to his knowledge is conclusive evidence of its contents if signed by or on behalf of the prosecutor; and
 - (b) such a statement purporting to be so signed shall be treated as being so signed unless the contrary is proved.
 
-## 15. Amendments[^key-a3e2d4ee83c14d63b9ea755528d8bf07]
+## 15. Amendments[^c-a3e2d4ee83c14d63b9ea755528d8bf07]
 
 (1) In regulation 4(b) of the Farm Subsidies (Review of Decisions) Regulations (Northern Ireland) 2001[^f00022] for the words “or the Less Favoured Areas Compensatory Allowances Regulations (Northern Ireland) 2006” there shall be substituted the words, “the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2006, the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2007, the Less Favoured Area Compensatory Allowances (No. 2) Regulations (Northern Ireland) 2007 or the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2008.”.
 
@@ -278,7 +278,7 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — ELIGIBLE LAND USE CODES[^key-b6475f7d461bb114e8aaadd02d04053c]
+## SCHEDULE 1 — ELIGIBLE LAND USE CODES[^c-b6475f7d461bb114e8aaadd02d04053c]
 
 Regulation 2 (2)
 
@@ -287,7 +287,7 @@ Regulation 2 (2)
 | FR1 | Grass (grass for grazing hay and silage, rough grazing, grazed heather, sainfoin, clover, lucerne and forage vetches) |
 | OT3 | Grazed orchards or grazed woodlands (orchards and woodlands which are grazed by livestock and which have been used to support subsidy payments in the past) |
 
-## SCHEDULE 2 — PAYMENT RATES PER HECTARE[^key-0b81dd225b72b09edba999612edf3a0b]
+## SCHEDULE 2 — PAYMENT RATES PER HECTARE[^c-0b81dd225b72b09edba999612edf3a0b]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -321,9 +321,9 @@ The Northern Ireland Rural Development Programme, together with a copy of Commis
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-cca12aa061bfbbbb7512227dcf084742]: Commencement: Reg. 1 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-cca12aa061bfbbbb7512227dcf084742]: Commencement: Reg. 1 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-ab14e6466471857beaa2ca72db86f559]: Commencement: Reg. 2 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-ab14e6466471857beaa2ca72db86f559]: Commencement: Reg. 2 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -363,38 +363,38 @@ The Northern Ireland Rural Development Programme, together with a copy of Commis
 
 [^f00021]: Footnote: [2001 c. 9](https://www.legislation.gov.uk/nia/2001/9); the definition of electronic communication contained in section 4 was amended by section 406(1) of and paragraph 170 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-8111e1780ff3b1495067588af6f542bb]: Commencement: Reg. 3 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-8111e1780ff3b1495067588af6f542bb]: Commencement: Reg. 3 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-91e07e15077224ca5745a6a74191c303]: Commencement: Reg. 4 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-91e07e15077224ca5745a6a74191c303]: Commencement: Reg. 4 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-ae75170a55698054a6224729f4ad9c09]: Commencement: Reg. 5 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-ae75170a55698054a6224729f4ad9c09]: Commencement: Reg. 5 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-9159a98aeb56feeedc02b8acae129ae9]: Modification: [Regs. 5](https://www.legislation.gov.uk/nisr/2008/34/regulation/5), [6](https://www.legislation.gov.uk/nisr/2008/34/regulation/6) applied (1.7.2009) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/206)](https://www.legislation.gov.uk/nisr/2009/206), [regs. 1](https://www.legislation.gov.uk/nisr/2009/206/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2009/206/regulation/7/2)
+[^c-9159a98aeb56feeedc02b8acae129ae9]: Modification: [Regs. 5](https://www.legislation.gov.uk/nisr/2008/34/regulation/5), [6](https://www.legislation.gov.uk/nisr/2008/34/regulation/6) applied (1.7.2009) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/206)](https://www.legislation.gov.uk/nisr/2009/206), [regs. 1](https://www.legislation.gov.uk/nisr/2009/206/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2009/206/regulation/7/2)
 
-[^key-429210af2a57e462998a5c296fac2666]: Commencement: Reg. 6 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-429210af2a57e462998a5c296fac2666]: Commencement: Reg. 6 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-1680499f6214fdc88f85ccd3a1cd4309]: Commencement: Reg. 7 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-1680499f6214fdc88f85ccd3a1cd4309]: Commencement: Reg. 7 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-d9ba7f670642297a9eaca241eb84e4c5]: Commencement: Reg. 8 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-d9ba7f670642297a9eaca241eb84e4c5]: Commencement: Reg. 8 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-de0b8ffdbb7342bbb3e2618c0f91fea5]: Commencement: Reg. 9 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-de0b8ffdbb7342bbb3e2618c0f91fea5]: Commencement: Reg. 9 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-de1ba98815f737d3c1b617578051aff6]: Modification: [Regs. 9-14](https://www.legislation.gov.uk/nisr/2008/34/regulation/9) applied (1.7.2009) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/206)](https://www.legislation.gov.uk/nisr/2009/206), [regs. 1](https://www.legislation.gov.uk/nisr/2009/206/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2009/206/regulation/7/2)
+[^c-de1ba98815f737d3c1b617578051aff6]: Modification: [Regs. 9-14](https://www.legislation.gov.uk/nisr/2008/34/regulation/9) applied (1.7.2009) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/206)](https://www.legislation.gov.uk/nisr/2009/206), [regs. 1](https://www.legislation.gov.uk/nisr/2009/206/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2009/206/regulation/7/2)
 
-[^key-ce8a5573dc12c1b39b43af1bfa83bd2e]: Commencement: Reg. 10 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-ce8a5573dc12c1b39b43af1bfa83bd2e]: Commencement: Reg. 10 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-8c3129b3686a990c4e20872ac86d6495]: Commencement: Reg. 11 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-8c3129b3686a990c4e20872ac86d6495]: Commencement: Reg. 11 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-2147e26bf823c949805a3d9568100eb7]: Commencement: Reg. 12 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-2147e26bf823c949805a3d9568100eb7]: Commencement: Reg. 12 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-e0476c834492d448506cb6d6a61b99b0]: Commencement: Reg. 13 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-e0476c834492d448506cb6d6a61b99b0]: Commencement: Reg. 13 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-fc2bb0a274d5df8528890654ffe067ff]: Commencement: Reg. 14 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-fc2bb0a274d5df8528890654ffe067ff]: Commencement: Reg. 14 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-a3e2d4ee83c14d63b9ea755528d8bf07]: Commencement: Reg. 15 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-a3e2d4ee83c14d63b9ea755528d8bf07]: Commencement: Reg. 15 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
 [^f00022]: Footnote: [S.R. 2001 No. 391](https://www.legislation.gov.uk/nisr/2001/391) as amended by [S.R. 2002 No. 72](https://www.legislation.gov.uk/nisr/2002/72), [S.R. 2003 No. 162](https://www.legislation.gov.uk/nisr/2003/162), [S.R. 2004 No. 495](https://www.legislation.gov.uk/nisr/2004/495), [S.R. 2005 No. 106](https://www.legislation.gov.uk/nisr/2005/106) and [S.R. 2006 No. 52](https://www.legislation.gov.uk/nisr/2006/52)
 
-[^key-b6475f7d461bb114e8aaadd02d04053c]: Commencement: Sch. 1 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
+[^c-b6475f7d461bb114e8aaadd02d04053c]: Commencement: Sch. 1 in operation at 25.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/34/regulation/1)
 
-[^key-0b81dd225b72b09edba999612edf3a0b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/34/schedule/2) substituted (1.7.2009) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/206)](https://www.legislation.gov.uk/nisr/2009/206), [regs. 1](https://www.legislation.gov.uk/nisr/2009/206/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2009/206/regulation/4/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2009/206/schedule/part/II)
+[^c-0b81dd225b72b09edba999612edf3a0b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/34/schedule/2) substituted (1.7.2009) by [The Less Favoured Area Compensatory Allowances (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/206)](https://www.legislation.gov.uk/nisr/2009/206), [regs. 1](https://www.legislation.gov.uk/nisr/2009/206/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2009/206/regulation/4/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2009/206/schedule/part/II)

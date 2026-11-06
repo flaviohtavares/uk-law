@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48A. Requirements in connection with boundary changes or dissolution of CCA[^key-0a73aaa5b028033872b81f54c15f14e5]
+## 48A. Requirements in connection with boundary changes or dissolution of CCA[^c-0a73aaa5b028033872b81f54c15f14e5]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a73aaa5b028033872b81f54c15f14e5]: Textual amendment: Ss. 48A-48C inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/41) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-0a73aaa5b028033872b81f54c15f14e5]: Textual amendment: Ss. 48A-48C inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/41) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))

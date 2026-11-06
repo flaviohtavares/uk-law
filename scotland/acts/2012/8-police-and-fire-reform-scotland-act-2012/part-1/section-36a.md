@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36A. Code of ethics[^key-bdc735ca32fb67a9bec2ef58c2df8a67]
+## 36A. Code of ethics[^c-bdc735ca32fb67a9bec2ef58c2df8a67]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdc735ca32fb67a9bec2ef58c2df8a67]: Textual amendment: [Pt. 1 Ch. 4A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4A) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/5/section/2/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)
+[^c-bdc735ca32fb67a9bec2ef58c2df8a67]: Textual amendment: [Pt. 1 Ch. 4A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4A) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/5/section/2/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)

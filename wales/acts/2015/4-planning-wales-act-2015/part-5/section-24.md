@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Further provision about applications made to Welsh Ministers[^c22542801][^key-c1f6bbadc670f64746830068f599020e]
+## 24. Further provision about applications made to Welsh Ministers[^c22542801][^c-c1f6bbadc670f64746830068f599020e]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ In TCPA 1990, after section 62O (as inserted by section 23) insert—
 
 [^c22542801]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/4/section/24) partly in force; [s. 24](https://www.legislation.gov.uk/anaw/2015/4/section/24) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-c1f6bbadc670f64746830068f599020e]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/4/section/24) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)
+[^c-c1f6bbadc670f64746830068f599020e]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/4/section/24) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)

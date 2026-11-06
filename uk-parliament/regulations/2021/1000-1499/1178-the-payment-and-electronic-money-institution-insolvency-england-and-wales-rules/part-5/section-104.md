@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Costs of making a claim[^key-c7ce017c0deaf652415a202b2455c1ba]
+## 104. Costs of making a claim[^c-c7ce017c0deaf652415a202b2455c1ba]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the court orders otherwise, every claimant under rule 102 bears the cost 
 
 ## Annotations
 
-[^key-c7ce017c0deaf652415a202b2455c1ba]: Commencement: Rule 104 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c7ce017c0deaf652415a202b2455c1ba]: Commencement: Rule 104 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

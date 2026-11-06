@@ -89,9 +89,9 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**polycyclic aromatic hydrocarbons**” (“***hydrocarbonau aromatig polysyclig***”) means those organic compounds composed of at least two fused aromatic rings made entirely from carbon and hydrogen; and
 - “**total deposition rate**” (“***cyfradd llwyr ddyddodiad***”) means the total mass of pollutants which is transferred from the atmosphere to surfaces such as soil, vegetation, water and buildings in a given area within a given time.
 
-(2)[^key-29b3b0bafa613693b28105bab3052776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-29b3b0bafa613693b28105bab3052776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2A. Interpretation[^key-7e0d97646d289f7d06b16546f791ae33]
+### 2A. Interpretation[^c-7e0d97646d289f7d06b16546f791ae33]
 
 (1) When interpreting Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) for the purposes of these Regulations—
 
@@ -304,7 +304,7 @@ The Welsh Ministers are designated as the competent authority for the purposes o
 
 (3) In zones where the level of any pollutant mentioned in paragraph (1) is below the limit value set out in Schedule 1 for that pollutant, the Welsh Ministers must ensure that the level of that pollutant is maintained below that limit value and must endeavour to maintain the best ambient air quality compatible with sustainable development.
 
-(4)[^key-b17674d4a210d756744a3d7e2938e00c] Where the Welsh Ministers consider that a limit value has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
+(4)[^c-b17674d4a210d756744a3d7e2938e00c] Where the Welsh Ministers consider that a limit value has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
 
 (5) Where the Welsh Ministers consider that a limit value has been exceeded for a reason attributable to natural sources in accordance with paragraph (4), the Welsh Ministers must publish information, for the relevant zones and agglomerations, demonstrating that the exceedances are attributable to natural sources.
 
@@ -321,11 +321,11 @@ The Welsh Ministers are designated as the competent authority for the purposes o
 (5) In relation to zones listed under paragraph (4), the Welsh Ministers must—
 
 - (a) identify the areas where the target values are exceeded and the sources contributing to those exceedances; and
-- (b) ensure that the measures taken in accordance with paragraph (1) are directed at the predominant sources of emission which have been identified and that those measures apply, where relevant, the best available techniques in accordance with the Environmental Permitting (England and Wales) Regulations 2016[^key-927f03f86bd8ea069397b4896f48bfb1].
+- (b) ensure that the measures taken in accordance with paragraph (1) are directed at the predominant sources of emission which have been identified and that those measures apply, where relevant, the best available techniques in accordance with the Environmental Permitting (England and Wales) Regulations 2016[^c-927f03f86bd8ea069397b4896f48bfb1].
 
-(6) In zones where the level of ozone exceeds the target value set out in Schedule 2 for that pollutant, the Welsh Ministers must ensure that the programme prepared pursuant to regulation 9 of the National Emission Ceilings Regulations 2018[^key-14026e77044bdc0c491e19bbdf47859b] is implemented to attain the target value, unless this value cannot be achieved other than through measures that would entail disproportionate costs.
+(6) In zones where the level of ozone exceeds the target value set out in Schedule 2 for that pollutant, the Welsh Ministers must ensure that the programme prepared pursuant to regulation 9 of the National Emission Ceilings Regulations 2018[^c-14026e77044bdc0c491e19bbdf47859b] is implemented to attain the target value, unless this value cannot be achieved other than through measures that would entail disproportionate costs.
 
-(7)[^key-446a185ef4f180e160de23d2392c992b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-446a185ef4f180e160de23d2392c992b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Date of application for limit values and target values
 
@@ -334,7 +334,7 @@ The Welsh Ministers are designated as the competent authority for the purposes o
 - (a) from the date specified for each limit value or target value concerned in Schedules 1 or 2, or
 - (b) when these Regulations come into force, if no date is specified in those Schedules.
 
-(2)[^key-346bbce55a6d44b016047e18418a3a6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-346bbce55a6d44b016047e18418a3a6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Duty in relation to long-term objectives for ozone
 
@@ -375,7 +375,7 @@ The Welsh Ministers must ensure that the critical levels set out in Schedule 5 a
 
 (1) Where the level of sulphur dioxide, nitrogen dioxide, benzene, carbon monoxide, lead or PM<sub>10</sub> in ambient air exceeds any of the limit values in Schedule 1 in any zone, or where the level of PM<sub>2·5</sub> in ambient air exceeds the relevant target value in Schedule 2 in any zone, then, subject to paragraph (2), the Welsh Ministers must draw up and implement an air quality plan to achieve the relevant limit value or target value in that zone.
 
-(2) Where the Welsh Ministers have designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting, [^key-f4c7404b77dd94b046f7d4dd4729c920]... the Welsh Ministers' duty under paragraph (1) applies to those zones only in so far as the exceedances of those limit values are attributable to PM<sub>10</sub> sources other than winter sanding or salting.
+(2) Where the Welsh Ministers have designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting, [^c-f4c7404b77dd94b046f7d4dd4729c920]... the Welsh Ministers' duty under paragraph (1) applies to those zones only in so far as the exceedances of those limit values are attributable to PM<sub>10</sub> sources other than winter sanding or salting.
 
 (3) Where the level of ozone in ambient air exceeds any of the target values for ozone in Schedule 2 in any zone, the Welsh Ministers must, if appropriate, draw up and implement an air quality plan to achieve the relevant target value unless the measures necessary to achieve that target value would entail disproportionate cost.
 
@@ -385,7 +385,7 @@ The Welsh Ministers must ensure that the critical levels set out in Schedule 5 a
 
 (6) An air quality plan must include the information listed in Schedule 6.
 
-(7)[^key-ae2b5698cb78fb9d7a0510129d2a11fa] Wherever possible, air quality plans must be consistent with—
+(7)[^c-ae2b5698cb78fb9d7a0510129d2a11fa] Wherever possible, air quality plans must be consistent with—
 
 - (a) the Transitional National Plan, which has the meaning given in regulation 2(1) of the Large Combustion Plants (Transitional National Plan) Regulations 2015;
 - (b) a national air pollution control programme drawn up in accordance with regulation 9 of the National Emission Ceilings Regulations 2018;
@@ -393,7 +393,7 @@ The Welsh Ministers must ensure that the critical levels set out in Schedule 5 a
 
 (8) Where an air quality plan is required in relation to more than one pollutant in any zone, the Welsh Ministers must, where appropriate, draw up and implement an integrated plan for that zone in relation to all pollutants concerned.
 
-(9)[^key-d750455a8afef7243176ea7595ed5827] The air quality plan must include an assessment of the need to apply lower emission limit values for individual medium combustion plants than those set out in [Directive 2015/2193/EU](https://www.legislation.gov.uk/european/directive/2015/2193) of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (“the Medium Combustion Plant Directive”) provided that, in the opinion of the Welsh Ministers, applying such emission limit values would effectively contribute to a noticeable improvement of air quality.
+(9)[^c-d750455a8afef7243176ea7595ed5827] The air quality plan must include an assessment of the need to apply lower emission limit values for individual medium combustion plants than those set out in [Directive 2015/2193/EU](https://www.legislation.gov.uk/european/directive/2015/2193) of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (“the Medium Combustion Plant Directive”) provided that, in the opinion of the Welsh Ministers, applying such emission limit values would effectively contribute to a noticeable improvement of air quality.
 
 (10) In considering whether to impose lower emission limit values, the Welsh Ministers must take into account the results of the information exchange referred to in Article 6(10) of the Medium Combustion Plant Directive.
 
@@ -447,7 +447,7 @@ The Welsh Ministers must ensure that the critical levels set out in Schedule 5 a
 
 (2) The information in paragraph (1)(f) must be made available in accordance with Schedule 7.
 
-(3) Information must be distributed free of charge in a clear and comprehensible manner via any easily accessible media including the internet or other appropriate means of telecommunication and take into account the requirements of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council on establishing an infrastructure for spatial information in the European Community [^c20320431] in so far as it has been transposed into the law that applies in Wales[^key-e42fd93bf8842a6f41f08222610baa51].
+(3) Information must be distributed free of charge in a clear and comprehensible manner via any easily accessible media including the internet or other appropriate means of telecommunication and take into account the requirements of Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council on establishing an infrastructure for spatial information in the European Community [^c20320431] in so far as it has been transposed into the law that applies in Wales[^c-e42fd93bf8842a6f41f08222610baa51].
 
 (4) For the purposes of this Part, “**interested organisations**” includes, in particular, environmental organisations, consumer organisations, organisations representing sensitive populations, relevant healthcare bodies and industrial federations.
 
@@ -724,33 +724,33 @@ A full impact assessment of the effect that this instrument and corresponding in
 
 [^c20320361]: Marginal citation: OJ No L 152, 11.6.08, p 1.
 
-[^key-29b3b0bafa613693b28105bab3052776]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/2/2) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29b3b0bafa613693b28105bab3052776]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/2/2) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e0d97646d289f7d06b16546f791ae33]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2010/1433/regulation/2A) inserted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e0d97646d289f7d06b16546f791ae33]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2010/1433/regulation/2A) inserted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b17674d4a210d756744a3d7e2938e00c]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/13/4)[(5)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/13/5) substituted for [reg. 13(4)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/13/4) (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b17674d4a210d756744a3d7e2938e00c]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/13/4)[(5)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/13/5) substituted for [reg. 13(4)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/13/4) (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-927f03f86bd8ea069397b4896f48bfb1]: Textual amendment: Words in [reg. 14(5)(b)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/14/5/b) substituted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/uksi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/390/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/390/regulation/2/5/a) (as amended by [S.I. 2020/1215](https://www.legislation.gov.uk/uksi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1215/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1215/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-927f03f86bd8ea069397b4896f48bfb1]: Textual amendment: Words in [reg. 14(5)(b)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/14/5/b) substituted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/uksi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/390/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/390/regulation/2/5/a) (as amended by [S.I. 2020/1215](https://www.legislation.gov.uk/uksi/2020/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1215/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1215/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14026e77044bdc0c491e19bbdf47859b]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/14/6) substituted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/uksi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/390/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/390/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14026e77044bdc0c491e19bbdf47859b]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/14/6) substituted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/uksi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/390/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/390/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-446a185ef4f180e160de23d2392c992b]: Textual amendment: [Reg. 14(7)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/14/7) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-446a185ef4f180e160de23d2392c992b]: Textual amendment: [Reg. 14(7)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/14/7) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-346bbce55a6d44b016047e18418a3a6b]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/15/2) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(6)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-346bbce55a6d44b016047e18418a3a6b]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/15/2) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(6)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20320391]: Marginal citation: [S.I. 2010/1001](https://www.legislation.gov.uk/uksi/2010/1001).
 
-[^key-f4c7404b77dd94b046f7d4dd4729c920]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/20/2) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4c7404b77dd94b046f7d4dd4729c920]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/20/2) omitted (31.12.2020) by virtue of [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae2b5698cb78fb9d7a0510129d2a11fa]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/20/7) substituted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae2b5698cb78fb9d7a0510129d2a11fa]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/20/7) substituted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d750455a8afef7243176ea7595ed5827]: Textual amendment: Reg. 20(9)-(11) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2018/110/regulation/19/2)
+[^c-d750455a8afef7243176ea7595ed5827]: Textual amendment: Reg. 20(9)-(11) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2018/110/regulation/19/2)
 
 [^c20320421]: Marginal citation: OJ No. L 87, 25.3.04, p. 50.
 
 [^c20320431]: Marginal citation: OJ No L 108, 25.4.07, p. 1.
 
-[^key-e42fd93bf8842a6f41f08222610baa51]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/23/3) inserted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(8)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e42fd93bf8842a6f41f08222610baa51]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/wsi/2010/1433/regulation/23/3) inserted (31.12.2020) by [The Air Quality Standards (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/390)](https://www.legislation.gov.uk/wsi/2019/390), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/390/regulation/1/1), [2(8)](https://www.legislation.gov.uk/wsi/2019/390/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20320441]: Marginal citation: [S.I. 2007/717](https://www.legislation.gov.uk/uksi/2007/717) (W.63).
 

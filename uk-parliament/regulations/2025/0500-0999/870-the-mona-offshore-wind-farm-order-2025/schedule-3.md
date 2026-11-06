@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Streets subject to street works[^key-2ef50c56103ca83f78df32e24a1ef9f3]
+## SCHEDULE 3 — Streets subject to street works[^c-2ef50c56103ca83f78df32e24a1ef9f3]
 
 *Extent: E+W*
 
 Article 10
 
-[^key-2ef50c56103ca83f78df32e24a1ef9f3]
+[^c-2ef50c56103ca83f78df32e24a1ef9f3]
 
 In the County of Conwy:
 
@@ -42,7 +42,7 @@ In the County of Conwy:
 | B5381 Glascoed Road | Between points 23 and 24, as shown on Sheet 8 of the street works and access to works plan |
 | Public highway unclassified road south of the B5381 Glascoed Road | Between points 25 and 26, as shown on Sheet 8 of the street works and access to works plan |
 
-[^key-2ef50c56103ca83f78df32e24a1ef9f3]
+[^c-2ef50c56103ca83f78df32e24a1ef9f3]
 
 In the County of Denbighshire:
 
@@ -60,4 +60,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-2ef50c56103ca83f78df32e24a1ef9f3]: Commencement: Sch. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-2ef50c56103ca83f78df32e24a1ef9f3]: Commencement: Sch. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

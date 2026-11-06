@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82B. Unappropriated surplus on valuation[^key-0d46b417036b946258e4e2fb88b859b8]
+## 82B. Unappropriated surplus on valuation[^c-0d46b417036b946258e4e2fb88b859b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d46b417036b946258e4e2fb88b859b8]: Textual amendment: S. 82B omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 51](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/51)
+[^c-0d46b417036b946258e4e2fb88b859b8]: Textual amendment: S. 82B omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 51](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/51)

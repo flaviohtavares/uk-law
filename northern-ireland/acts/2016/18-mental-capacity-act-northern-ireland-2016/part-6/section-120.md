@@ -26,7 +26,7 @@ summary: ''
 
 (2) The court may require a report to be made to it by the Public Guardian or by a Court Visitor.
 
-(3) The court may require an HSC trust, the Department[^key-42c1bf0513f6035ac27f3c9e40f17d8b] or RQIA to arrange for a report to be made—
+(3) The court may require an HSC trust, the Department[^c-42c1bf0513f6035ac27f3c9e40f17d8b] or RQIA to arrange for a report to be made—
 
 - (a) by one of its officers or employees; or
 - (b) by such other person (other than the Public Guardian or a Court Visitor) as that body considers appropriate.
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42c1bf0513f6035ac27f3c9e40f17d8b]: Textual amendment: Words in [s. 120(3)](https://www.legislation.gov.uk/nia/2016/18/section/120/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-42c1bf0513f6035ac27f3c9e40f17d8b]: Textual amendment: Words in [s. 120(3)](https://www.legislation.gov.uk/nia/2016/18/section/120/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

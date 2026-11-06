@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Residential addresses[^key-7d335363cf8fa313a0d20d762b711764]
+## 32A. Residential addresses[^c-7d335363cf8fa313a0d20d762b711764]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d335363cf8fa313a0d20d762b711764]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/2011/20/section/32A) inserted (29.6.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 65(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/65/5), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-7d335363cf8fa313a0d20d762b711764]: Textual amendment: [S. 32A](https://www.legislation.gov.uk/ukpga/2011/20/section/32A) inserted (29.6.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 65(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/65/5), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

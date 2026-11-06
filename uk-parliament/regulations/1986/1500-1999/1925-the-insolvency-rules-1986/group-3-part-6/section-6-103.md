@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.103. Transmission of proofs to trustee[^key-eb216ffcead72b9d4ae1f7c58d1fc234]
+## 6.103. Transmission of proofs to trustee[^c-eb216ffcead72b9d4ae1f7c58d1fc234]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb216ffcead72b9d4ae1f7c58d1fc234]: Commencement: [Rule 6.103](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.103) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-eb216ffcead72b9d4ae1f7c58d1fc234]: Commencement: [Rule 6.103](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.103) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

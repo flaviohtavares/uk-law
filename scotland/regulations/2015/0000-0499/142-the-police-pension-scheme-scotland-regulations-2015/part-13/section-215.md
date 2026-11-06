@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 215. Procedure on appeals to tribunal[^key-d779cd4d2acabdf8c908fcdd55881cd2]
+## 215. Procedure on appeals to tribunal[^c-d779cd4d2acabdf8c908fcdd55881cd2]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d779cd4d2acabdf8c908fcdd55881cd2]: Commencement: Reg. 215 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d779cd4d2acabdf8c908fcdd55881cd2]: Commencement: Reg. 215 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

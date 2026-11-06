@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Determination of limited capability for work[^key-88cc5b5ea792f933476c236bb38380f6]
+## 15. Determination of limited capability for work[^c-88cc5b5ea792f933476c236bb38380f6]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ the Department may, if paragraph (8) applies, determine afresh whether the claim
 
 ## Annotations
 
-[^key-88cc5b5ea792f933476c236bb38380f6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/219/regulation/15) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-88cc5b5ea792f933476c236bb38380f6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/219/regulation/15) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

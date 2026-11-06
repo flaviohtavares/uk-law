@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Employment of at least 40 hours per week[^key-503e604b6e8dd3553efa771a5a9029c0]
+## 6. Employment of at least 40 hours per week[^c-503e604b6e8dd3553efa771a5a9029c0]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-503e604b6e8dd3553efa771a5a9029c0]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-503e604b6e8dd3553efa771a5a9029c0]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

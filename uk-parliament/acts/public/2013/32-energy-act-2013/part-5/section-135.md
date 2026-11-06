@@ -32,7 +32,7 @@ summary: ''
 (4) The “required consultees” are—
 
 - (a) the Authority,
-- (aa)[^key-e81a4e907eb3a0ba4c7df9997e254d46] the Independent System Operator and Planner,
+- (aa)[^c-e81a4e907eb3a0ba4c7df9997e254d46] the Independent System Operator and Planner,
 - (b) the Scottish Ministers, and
 - (c) the Welsh Ministers.
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e81a4e907eb3a0ba4c7df9997e254d46]: Textual amendment: [S. 135(4)(aa)](https://www.legislation.gov.uk/ukpga/2013/32/section/135/4/aa) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(11)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/11), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-e81a4e907eb3a0ba4c7df9997e254d46]: Textual amendment: [S. 135(4)(aa)](https://www.legislation.gov.uk/ukpga/2013/32/section/135/4/aa) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(11)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/11), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)

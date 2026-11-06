@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Specialisations: registrants and registered pharmacies[^key-3e64ff1e3a7c284f2685aaaf74677b76][^key-d2eb7dd1412d8ac8349b03a006d8bb34]
+## 27. Specialisations: registrants and registered pharmacies[^c-3e64ff1e3a7c284f2685aaaf74677b76][^c-d2eb7dd1412d8ac8349b03a006d8bb34]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e64ff1e3a7c284f2685aaaf74677b76]: Commencement: Art. 27 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3e64ff1e3a7c284f2685aaaf74677b76]: Commencement: Art. 27 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-d2eb7dd1412d8ac8349b03a006d8bb34]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2010/231/article/27) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-d2eb7dd1412d8ac8349b03a006d8bb34]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2010/231/article/27) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

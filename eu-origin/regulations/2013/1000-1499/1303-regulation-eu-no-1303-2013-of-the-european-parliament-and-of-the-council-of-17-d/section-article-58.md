@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 58. Technical assistance at the initiative of the Commission[^key-6fd4dc4a925e7c225869855ab2493135]
+## Article 58. Technical assistance at the initiative of the Commission[^c-6fd4dc4a925e7c225869855ab2493135]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd4dc4a925e7c225869855ab2493135]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/eur/2013/1303/article/58) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/10/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fd4dc4a925e7c225869855ab2493135]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/eur/2013/1303/article/58) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/10/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

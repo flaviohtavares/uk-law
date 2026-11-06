@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Publication and provision of copies of documents[^key-0dbc4db03759364bf1e2d25b4964d140]
+## 43. Publication and provision of copies of documents[^c-0dbc4db03759364bf1e2d25b4964d140]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dbc4db03759364bf1e2d25b4964d140]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2015/140/regulation/43) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-0dbc4db03759364bf1e2d25b4964d140]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2015/140/regulation/43) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

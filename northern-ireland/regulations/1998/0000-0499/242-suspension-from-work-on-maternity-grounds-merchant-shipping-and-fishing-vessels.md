@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Economic Development, in exercise of the powers conferred on it by Article 98(2) of the Employment Rights (Northern Ireland) Order 1996 (“the 1996 Order”)[^f00001], and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-ee3e09bb3caae6b0127c866496cc9cdd]
+## 1. Citation and commencement[^c-ee3e09bb3caae6b0127c866496cc9cdd]
 
 This Order may be cited as the Suspension from Work on Maternity Grounds (Merchant Shipping and Fishing Vessels) Order (Northern Ireland) 1998 and shall come into operation on 16th August 1998.
 
-## 2. Specified provisions under the 1996 Order[^key-f1ca05f7bf851171edc29506444d0a16]
+## 2. Specified provisions under the 1996 Order[^c-f1ca05f7bf851171edc29506444d0a16]
 
 Regulation 8(3) and regulation 9(2) of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00002] are hereby specified for the purposes of Article 98(2) of the 1996 Order.
 
@@ -70,8 +70,8 @@ In this way, Articles 5(2), 5(3) and 7(2) of Council Directive [92/85/EEC](https
 
 [^f00001]: Footnote: [S.I. 1996/1919 (N.I. 16](https://www.legislation.gov.uk/nisi/1996/1919))
 
-[^key-ee3e09bb3caae6b0127c866496cc9cdd]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/242/article/1) in operation at 16.8.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1998/242/article/1)
+[^c-ee3e09bb3caae6b0127c866496cc9cdd]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/242/article/1) in operation at 16.8.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1998/242/article/1)
 
-[^key-f1ca05f7bf851171edc29506444d0a16]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1998/242/article/2) in operation at 16.8.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1998/242/article/1)
+[^c-f1ca05f7bf851171edc29506444d0a16]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1998/242/article/2) in operation at 16.8.1998, see [art. 1](https://www.legislation.gov.uk/nisr/1998/242/article/1)
 
 [^f00002]: Footnote: [1997/2962](https://www.legislation.gov.uk/uksi/1997/2962)

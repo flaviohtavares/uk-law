@@ -29,27 +29,27 @@ Race Relations (Remedies) Act 1994 (repealed)
 
 1994 c. 10
 
-[^key-aa6a70dc6a00b61acc561a214e83b6fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa6a70dc6a00b61acc561a214e83b6fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Removal of limit on amount of awards.[^key-aa6a70dc6a00b61acc561a214e83b6fe]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Power to make provision as to interest in relation to awards.[^key-aa6a70dc6a00b61acc561a214e83b6fe]
+## 1. Removal of limit on amount of awards.[^c-aa6a70dc6a00b61acc561a214e83b6fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, repeals, commencement and extent.[^key-aa6a70dc6a00b61acc561a214e83b6fe]
+## 2. Power to make provision as to interest in relation to awards.[^c-aa6a70dc6a00b61acc561a214e83b6fe]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — Repeals[^key-aa6a70dc6a00b61acc561a214e83b6fe]
+## 3. Short title, repeals, commencement and extent.[^c-aa6a70dc6a00b61acc561a214e83b6fe]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE — Repeals[^c-aa6a70dc6a00b61acc561a214e83b6fe]
 
 **No longer in force.**
 
@@ -59,4 +59,4 @@ Section 3(2).
 
 ## Annotations
 
-[^key-aa6a70dc6a00b61acc561a214e83b6fe]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1994/10) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-aa6a70dc6a00b61acc561a214e83b6fe]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1994/10) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)

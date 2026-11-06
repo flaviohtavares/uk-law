@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-[^key-1bd064b8937e5457af2873f366b5d17e]The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020
+[^c-1bd064b8937e5457af2873f366b5d17e]The Health Protection (Coronavirus Restrictions) (No. 4) (Wales) Regulations 2020
 
 Approved by Senedd Cymru
 
@@ -57,7 +57,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 ## Contents
 
-### PART 1 — Introduction, review and expiry[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 1 — Introduction, review and expiry[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 2 — Review](part-1/section-2.md)
 - [Section 3 — Expiry](part-1/section-3.md)
 
-### PART 2 — Restrictions on gatherings and events[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 2 — Restrictions on gatherings and events[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -79,7 +79,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 7 — Prohibition on organising events](part-2/section-7.md)
 - [Section 8 — Prohibition on organising certain unlicensed music events](part-2/section-8.md)
 
-### PART 3 — Restrictions on travel[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 3 — Restrictions on travel[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -87,13 +87,13 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 - [Section 9 — Restriction on travel to and from Wales](part-3/section-9.md)
 
-### PART 4 — Requirement to isolate etc.[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 4 — Requirement to isolate etc.[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Requirement to isolate etc. where person tests positive for coronavirus or has close contact with such person[^key-1bd064b8937e5457af2873f366b5d17e]
+#### CHAPTER 1 — Requirement to isolate etc. where person tests positive for coronavirus or has close contact with such person[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 16 — Requirement on persons with responsibility for children](part-4/section-16.md)
 - [Section 17 — Withdrawing a notice which requires isolation](part-4/section-17.md)
 
-#### CHAPTER 2 — Information[^key-1bd064b8937e5457af2873f366b5d17e]
+#### CHAPTER 2 — Information[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -116,7 +116,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 - [Section 18 — Power to use and disclose information](part-4/section-18.md)
 
-#### CHAPTER 3 — Special provision relating to persons who have recently been in Denmark[^key-1bd064b8937e5457af2873f366b5d17e]
+#### CHAPTER 3 — Special provision relating to persons who have recently been in Denmark[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -124,7 +124,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 - [Section 18A — Restrictions relating to persons who have recently been in Denmark](part-4/section-18a.md)
 
-### PART 5 — Restrictions on certain businesses and services[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 5 — Restrictions on certain businesses and services[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -135,7 +135,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 19B — Restrictions on food and drink businesses: exceptions](part-5/section-19b.md)
 - [Section 20 — Restrictions on licensed premises](part-5/section-20.md)
 
-### PART 6 — Minimising risk of exposure to coronavirus[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 6 — Minimising risk of exposure to coronavirus[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -146,7 +146,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 23 — Requirement to wear face covering in certain indoor public places](part-6/section-23.md)
 - [Section 24 — Guidance on minimising exposure](part-6/section-24.md)
 
-### PART 7 — Enforcement[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 7 — Enforcement[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -163,7 +163,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 33 — Power of police to conduct road checks](part-7/section-33.md)
 - [Section 34 — Enforcement: supplemental provision](part-7/section-34.md)
 
-### PART 8 — Offences and penalties[^key-1bd064b8937e5457af2873f366b5d17e]
+### PART 8 — Offences and penalties[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -232,4 +232,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 ## Annotations
 
-[^key-1bd064b8937e5457af2873f366b5d17e]: Textual amendment: Regulations revoked (except reg. 48) (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/wsi/2020/1609), [reg. 58(a)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/58/a) (as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), regs. 1(2), 2(2))
+[^c-1bd064b8937e5457af2873f366b5d17e]: Textual amendment: Regulations revoked (except reg. 48) (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/wsi/2020/1609), [reg. 58(a)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/58/a) (as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), regs. 1(2), 2(2))

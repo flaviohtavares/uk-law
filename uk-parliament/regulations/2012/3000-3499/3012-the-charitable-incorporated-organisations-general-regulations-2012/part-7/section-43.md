@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Records of decisions by sole member[^key-d9a3723a7fc368aac0ad282f2786f786]
+## 43. Records of decisions by sole member[^c-d9a3723a7fc368aac0ad282f2786f786]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the member must provide the CIO with details of that decision.
 
 ## Annotations
 
-[^key-d9a3723a7fc368aac0ad282f2786f786]: Commencement: Reg. 43 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-d9a3723a7fc368aac0ad282f2786f786]: Commencement: Reg. 43 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

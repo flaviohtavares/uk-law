@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Jelly Confectionery) (Emergency Control) (Wales) (Amendment) Regulations 2004 (revoked)[^key-0fafe6e4c2293b67e60e61be57b8cf6d]
+The Food (Jelly Confectionery) (Emergency Control) (Wales) (Amendment) Regulations 2004 (revoked)[^c-0fafe6e4c2293b67e60e61be57b8cf6d]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 5th May 2004
 
-[^key-0fafe6e4c2293b67e60e61be57b8cf6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fafe6e4c2293b67e60e61be57b8cf6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-0fafe6e4c2293b67e60e61be57b8cf6d]
+## 1. Title and commencement[^c-0fafe6e4c2293b67e60e61be57b8cf6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Jelly Confectionery) (Emergency Control) (Wales) Regulations 2002[^key-0fafe6e4c2293b67e60e61be57b8cf6d]
+## 2. Amendments to the Food (Jelly Confectionery) (Emergency Control) (Wales) Regulations 2002[^c-0fafe6e4c2293b67e60e61be57b8cf6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fafe6e4c2293b67e60e61be57b8cf6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fafe6e4c2293b67e60e61be57b8cf6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0fafe6e4c2293b67e60e61be57b8cf6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fafe6e4c2293b67e60e61be57b8cf6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fafe6e4c2293b67e60e61be57b8cf6d]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-0fafe6e4c2293b67e60e61be57b8cf6d]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

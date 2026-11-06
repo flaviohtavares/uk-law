@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13B. Eligible rent and maximum rent[^key-5f56bebf5956e73edb22b70e1374f729]
+## 13B. Eligible rent and maximum rent[^c-5f56bebf5956e73edb22b70e1374f729]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f56bebf5956e73edb22b70e1374f729]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/6)
+[^c-5f56bebf5956e73edb22b70e1374f729]: Textual amendment: [Regs. 13A-13C](https://www.legislation.gov.uk/nisr/2006/405/regulation/13A) inserted (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/6)

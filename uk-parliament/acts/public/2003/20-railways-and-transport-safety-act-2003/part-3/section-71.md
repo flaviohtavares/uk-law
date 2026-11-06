@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Exercise of functions by Secretary of State[^key-7c62be0927fc6da5d2be8e48a0f7abf4]
+## 71. Exercise of functions by Secretary of State[^c-7c62be0927fc6da5d2be8e48a0f7abf4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Secretary of State shall exercise his functions in relation to the Authority
 
 ## Annotations
 
-[^key-7c62be0927fc6da5d2be8e48a0f7abf4]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/20/section/71) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(bbb)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/bbb)
+[^c-7c62be0927fc6da5d2be8e48a0f7abf4]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/20/section/71) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(bbb)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/bbb)

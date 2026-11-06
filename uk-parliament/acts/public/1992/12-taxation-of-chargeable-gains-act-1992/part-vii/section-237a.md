@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237A. Share option schemes: release and replacement of options.[^key-eabfa5db8829270e684146e970001f87]
+## 237A. Share option schemes: release and replacement of options.[^c-eabfa5db8829270e684146e970001f87]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eabfa5db8829270e684146e970001f87]: Textual amendment: S. 237A inserted (with effect in accordance with s. 112(3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 112(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/112/1)
+[^c-eabfa5db8829270e684146e970001f87]: Textual amendment: S. 237A inserted (with effect in accordance with s. 112(3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 112(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/112/1)

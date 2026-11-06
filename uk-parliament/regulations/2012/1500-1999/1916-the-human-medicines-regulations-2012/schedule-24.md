@@ -39,7 +39,7 @@ Regulation 257
 **7.** A list of—
 
 - (a) where the product is injectable or is a topical or eye preparation, all excipients; or
-- (b) in any other case, those excipients known to have a recognized action or effect and included in the guidance published under regulation 257D[^key-b5f11c779efdc4329e934fd21412a9cf] [^key-d9e58e0c101a5a230bac9cac355b7cef]....
+- (b) in any other case, those excipients known to have a recognized action or effect and included in the guidance published under regulation 257D[^c-b5f11c779efdc4329e934fd21412a9cf] [^c-d9e58e0c101a5a230bac9cac355b7cef]....
 
 **8.** The method of administration of the product and if necessary the route of administration.
 
@@ -55,17 +55,17 @@ Regulation 257
 
 **14.** Any special precautions relating to the disposal of an unused product or part of a product, or waste derived from the product, and reference to any appropriate collection system in place.
 
-**15.** The name and address of the holder of the UK marketing authorisation,[^key-19afe303670a681d9d7e7d67f6e86f1e] [^key-807cc23f677eccc91e9ce86f07780c35]... Article 126a authorisation or traditional herbal registration relating to the product and, where applicable, the name of the holder's representative.
+**15.** The name and address of the holder of the UK marketing authorisation,[^c-19afe303670a681d9d7e7d67f6e86f1e] [^c-807cc23f677eccc91e9ce86f07780c35]... Article 126a authorisation or traditional herbal registration relating to the product and, where applicable, the name of the holder's representative.
 
-**16.** The number of the UK marketing authorisation,[^key-c478b698e2a9c7c996f9e4888cef7fda] [^key-9c396ed6c78311b34bddf3f578a85a39]... Article 126a authorisation or traditional herbal registration for placing the medicinal product on the market.
+**16.** The number of the UK marketing authorisation,[^c-c478b698e2a9c7c996f9e4888cef7fda] [^c-9c396ed6c78311b34bddf3f578a85a39]... Article 126a authorisation or traditional herbal registration for placing the medicinal product on the market.
 
 **17.** The manufacturer's batch number.
 
 **18.** In the case of a product that is not a prescription only medicine, instructions for use.
 
-**18A.**[^key-e44f0d2baee47e5b1bc874c10a742c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18A.**[^c-e44f0d2baee47e5b1bc874c10a742c14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18B.**[^key-fbf2504314ac694f24ff594725f0ab6e] The words “UK only”.
+**18B.**[^c-fbf2504314ac694f24ff594725f0ab6e] The words “UK only”.
 
 ### PART 2 — Immediate packaging: blister packs
 
@@ -77,7 +77,7 @@ Regulation 257
 
 **22.** Where the product contains up to three active substances, the common name of each active substance.
 
-**23.** The name of the holder of the UK marketing authorisation,[^key-4a17b588636aae7b5abb9986265d7c75] [^key-7bad1f08b821b9af24192d4197ac439f]..., Article 126a authorisation or traditional herbal registration relating to the product.
+**23.** The name of the holder of the UK marketing authorisation,[^c-4a17b588636aae7b5abb9986265d7c75] [^c-7bad1f08b821b9af24192d4197ac439f]..., Article 126a authorisation or traditional herbal registration relating to the product.
 
 **24.** The product's expiry date (month and year), in clear terms.
 
@@ -101,7 +101,7 @@ Regulation 257
 
 **33.** The contents of the packaging by weight, by volume or by unit.
 
-### PART 4 — Outer and immediate packaging: advanced therapy medicinal products ...[^key-8cc4f680d98c67ff2fb1b22c45e65fbb][^key-d0b540feb61bc28f774715f6fb0d17fa]
+### PART 4 — Outer and immediate packaging: advanced therapy medicinal products ...[^c-8cc4f680d98c67ff2fb1b22c45e65fbb][^c-d0b540feb61bc28f774715f6fb0d17fa]
 
 #### 34.
 
@@ -177,7 +177,7 @@ The unique donation code assigned by a tissue establishment pursuant to—
 
 Where the exempt advanced therapy medicinal product is for autologous use, the unique patient identifier and the words “for autologous use only”.
 
-### PART 5 — Immediate packaging: blister packs and small packaging (advanced therapy medicinal products ...)[^key-91abbab645e8b80c28d9298110e996be]
+### PART 5 — Immediate packaging: blister packs and small packaging (advanced therapy medicinal products ...)[^c-91abbab645e8b80c28d9298110e996be]
 
 #### 51.
 
@@ -194,7 +194,7 @@ The unique donation code assigned by a tissue establishment pursuant to—
 
 Where the exempt advanced therapy medicinal product is for autologous use, the unique patient identifier and the words “for autologous use only”.
 
-### PART 6 — Outer and Immediate Packaging: POC Medicinal Products for sale or supply in Great Britain only[^key-d7d6e2a55a5a67c69661f4cb0b86a4d8]
+### PART 6 — Outer and Immediate Packaging: POC Medicinal Products for sale or supply in Great Britain only[^c-d7d6e2a55a5a67c69661f4cb0b86a4d8]
 
 **54.** The name of the medicinal product.
 
@@ -257,30 +257,30 @@ Where the exempt advanced therapy medicinal product is for autologous use, the u
 
 ## Annotations
 
-[^key-b5f11c779efdc4329e934fd21412a9cf]: Textual amendment: Words in Sch. 24 para. 7(b) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/2) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5f11c779efdc4329e934fd21412a9cf]: Textual amendment: Words in Sch. 24 para. 7(b) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/2) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9e58e0c101a5a230bac9cac355b7cef]: Textual amendment: Words in Sch. 24 para. 7(b) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/a)
+[^c-d9e58e0c101a5a230bac9cac355b7cef]: Textual amendment: Words in Sch. 24 para. 7(b) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/a)
 
-[^key-19afe303670a681d9d7e7d67f6e86f1e]: Textual amendment: Words in Sch. 24 para. 15 substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/3) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19afe303670a681d9d7e7d67f6e86f1e]: Textual amendment: Words in Sch. 24 para. 15 substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/3) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-807cc23f677eccc91e9ce86f07780c35]: Textual amendment: Words in Sch. 24 para. 15 omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/b)
+[^c-807cc23f677eccc91e9ce86f07780c35]: Textual amendment: Words in Sch. 24 para. 15 omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/b)
 
-[^key-c478b698e2a9c7c996f9e4888cef7fda]: Textual amendment: Words in Sch. 24 para. 16 substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/3) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c478b698e2a9c7c996f9e4888cef7fda]: Textual amendment: Words in Sch. 24 para. 16 substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/3) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c396ed6c78311b34bddf3f578a85a39]: Textual amendment: Words in Sch. 24 para. 16 omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/c)
+[^c-9c396ed6c78311b34bddf3f578a85a39]: Textual amendment: Words in Sch. 24 para. 16 omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/c)
 
-[^key-e44f0d2baee47e5b1bc874c10a742c14]: Textual amendment: Sch. 24 para. 18A omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(d)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/d)
+[^c-e44f0d2baee47e5b1bc874c10a742c14]: Textual amendment: Sch. 24 para. 18A omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(d)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/d)
 
-[^key-fbf2504314ac694f24ff594725f0ab6e]: Textual amendment: Sch. 24 para. 18B inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(e)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/e)
+[^c-fbf2504314ac694f24ff594725f0ab6e]: Textual amendment: Sch. 24 para. 18B inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(e)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/e)
 
-[^key-4a17b588636aae7b5abb9986265d7c75]: Textual amendment: Words in Sch. 24 para. 23 substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/3) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a17b588636aae7b5abb9986265d7c75]: Textual amendment: Words in Sch. 24 para. 23 substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/3) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7bad1f08b821b9af24192d4197ac439f]: Textual amendment: Words in [Sch. 24 para. 23](https://www.legislation.gov.uk/uksi/2012/1916/schedule/24/paragraph/23) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(f)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/f)
+[^c-7bad1f08b821b9af24192d4197ac439f]: Textual amendment: Words in [Sch. 24 para. 23](https://www.legislation.gov.uk/uksi/2012/1916/schedule/24/paragraph/23) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(f)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/f)
 
-[^key-8cc4f680d98c67ff2fb1b22c45e65fbb]: Textual amendment: Sch. 24 Pts. 4, 5 inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(5)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/5) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8cc4f680d98c67ff2fb1b22c45e65fbb]: Textual amendment: Sch. 24 Pts. 4, 5 inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [201(5)](https://www.legislation.gov.uk/uksi/2019/775/regulation/201/5) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 155(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/155/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0b540feb61bc28f774715f6fb0d17fa]: Textual amendment: Words in Sch. 24 Pt. 4 heading omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(g)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/g)
+[^c-d0b540feb61bc28f774715f6fb0d17fa]: Textual amendment: Words in Sch. 24 Pt. 4 heading omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(g)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/g)
 
-[^key-91abbab645e8b80c28d9298110e996be]: Textual amendment: Words in Sch. 24 Pt. 5 heading omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(h)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/h)
+[^c-91abbab645e8b80c28d9298110e996be]: Textual amendment: Words in Sch. 24 Pt. 5 heading omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [142(h)](https://www.legislation.gov.uk/uksi/2024/832/regulation/142/h)
 
-[^key-d7d6e2a55a5a67c69661f4cb0b86a4d8]: Textual amendment: [Sch. 24 Pts. 6, 7](https://www.legislation.gov.uk/uksi/2012/1916/schedule/24/part/6) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2025/87/regulation/38)
+[^c-d7d6e2a55a5a67c69661f4cb0b86a4d8]: Textual amendment: [Sch. 24 Pts. 6, 7](https://www.legislation.gov.uk/uksi/2012/1916/schedule/24/part/6) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2025/87/regulation/38)

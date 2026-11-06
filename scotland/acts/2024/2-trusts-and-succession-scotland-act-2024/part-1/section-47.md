@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Application for order requiring fulfilment of purpose of private purpose trust[^key-f68768141cdcae789f7401d293f08d40]
+## 47. Application for order requiring fulfilment of purpose of private purpose trust[^c-f68768141cdcae789f7401d293f08d40]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f68768141cdcae789f7401d293f08d40]: Commencement: S. 47 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-f68768141cdcae789f7401d293f08d40]: Commencement: S. 47 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A qualifying disclosure is made in accordance with this Article if the worker makes the disclosure [^key-ff4b5850fc51a31f2a60953cc1989527]...—
+(1) A qualifying disclosure is made in accordance with this Article if the worker makes the disclosure [^c-ff4b5850fc51a31f2a60953cc1989527]...—
 
 - (a) to his employer, or
 - (b) where the worker reasonably believes that the relevant failure relates solely or mainly to—
@@ -33,4 +33,4 @@ summary: ''
 
 [^c22339971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-ff4b5850fc51a31f2a60953cc1989527]: Textual amendment: Words in [art. 67C(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/67C/1) repealed (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(1)](https://www.legislation.gov.uk/nia/2016/15/section/14/1), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-ff4b5850fc51a31f2a60953cc1989527]: Textual amendment: Words in [art. 67C(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/67C/1) repealed (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(1)](https://www.legislation.gov.uk/nia/2016/15/section/14/1), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)

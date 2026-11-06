@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Accounts of the Council[^key-4cac16bcffa469fe06538e00c011f795]
+## 52. Accounts of the Council[^c-4cac16bcffa469fe06538e00c011f795]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The annual accounts shall be audited by persons the Council appoints.
 
-(3)[^key-b5e1e316d658090d5d443bb92e684da5] The Council shall ensure that the persons it appoints are eligible for appointment as statutory auditors under Part 42 of the Companies Act 2006 (statutory auditors).
+(3)[^c-b5e1e316d658090d5d443bb92e684da5] The Council shall ensure that the persons it appoints are eligible for appointment as statutory auditors under Part 42 of the Companies Act 2006 (statutory auditors).
 
 (4) As soon as is reasonably practicable after the end of the financial year to which the annual accounts relate, the Council shall—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cac16bcffa469fe06538e00c011f795]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2002/253/article/52) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-4cac16bcffa469fe06538e00c011f795]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2002/253/article/52) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
 
-[^key-b5e1e316d658090d5d443bb92e684da5]: Textual amendment: [Art. 52(3)](https://www.legislation.gov.uk/uksi/2002/253/article/52/3) substituted (12.6.2008) by [The Nursing and Midwifery (Amendment) Order 2008 (S.I. 2008/1485)](https://www.legislation.gov.uk/uksi/2008/1485), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1485/article/1/2/b), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/1485/schedule/1/paragraph/9)
+[^c-b5e1e316d658090d5d443bb92e684da5]: Textual amendment: [Art. 52(3)](https://www.legislation.gov.uk/uksi/2002/253/article/52/3) substituted (12.6.2008) by [The Nursing and Midwifery (Amendment) Order 2008 (S.I. 2008/1485)](https://www.legislation.gov.uk/uksi/2008/1485), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1485/article/1/2/b), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/1485/schedule/1/paragraph/9)

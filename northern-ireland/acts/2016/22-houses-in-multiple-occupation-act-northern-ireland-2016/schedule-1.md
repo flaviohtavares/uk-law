@@ -24,13 +24,13 @@ Section 1.
 
 ### Buildings (or parts) which are not houses in multiple occupation
 
-**1.**[^key-89b3edc4e4326b31838efa81cc508983] (1) The following paragraphs list buildings which are not houses in multiple occupation.
+**1.**[^c-89b3edc4e4326b31838efa81cc508983] (1) The following paragraphs list buildings which are not houses in multiple occupation.
 
 (2) In this Schedule “**building**” includes a part of a building.
 
 ### Buildings controlled or managed by public sector bodies etc.
 
-**2.**[^key-e273b5f5a731711375f4d779e7001eb8] (1) A building where the person managing or having control of it is—
+**2.**[^c-e273b5f5a731711375f4d779e7001eb8] (1) A building where the person managing or having control of it is—
 
 - (a) the Northern Ireland Policing Board,
 - (b) the Northern Ireland Fire and Rescue Service Board, or
@@ -43,18 +43,18 @@ Section 1.
 
 ### Establishments regulated by the Regulation and Quality Improvement Authority
 
-**3.**[^key-f72a83e0a2f25751e8639d00d9ec5abb] Any building where—
+**3.**[^c-f72a83e0a2f25751e8639d00d9ec5abb] Any building where—
 
 - (a) the person managing or having control of it is an establishment registered under Article 12 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003, and
 - (b) regulations under Article 23 of that Order impose requirements in relation to that establishment.
 
 ### Buildings regulated otherwise than under this Act
 
-**4.**[^key-f97e49b4975a03176f7d2d57f4b97fa6] Any building whose occupation is regulated otherwise than by or under this Act and which is of a description specified for the purposes of this paragraph in regulations made by the Department.
+**4.**[^c-f97e49b4975a03176f7d2d57f4b97fa6] Any building whose occupation is regulated otherwise than by or under this Act and which is of a description specified for the purposes of this paragraph in regulations made by the Department.
 
 ### Buildings occupied by students and managed by educational establishment
 
-**5.**[^key-1a3f5672ab9f06fa67c5b489b294e601] (1) Any building—
+**5.**[^c-1a3f5672ab9f06fa67c5b489b294e601] (1) Any building—
 
 - (a) which is occupied solely or principally by persons who occupy it for the purpose of undertaking a full-time course of further or higher education at a specified educational establishment or at an educational establishment of a specified description, and
 - (b) where the person managing or having control of it is the educational establishment in question or a specified person or a person of a specified description.
@@ -75,19 +75,19 @@ Section 1.
 
 ### Buildings occupied by religious communities
 
-**6.**[^key-f5b38607117bfc00a3e6119cffdbcd68] Any building which is occupied principally for the purposes of a religious community whose principal occupation is prayer, contemplation, education or the relief of suffering.
+**6.**[^c-f5b38607117bfc00a3e6119cffdbcd68] Any building which is occupied principally for the purposes of a religious community whose principal occupation is prayer, contemplation, education or the relief of suffering.
 
 ### Buildings occupied by members of the armed forces
 
-**7.**[^key-64e2aabb821a4265aa921a8044055ec9] Any building which is owned by the Crown and occupied only by members of the armed forces of the Crown (either alone or together with any persons in the same household as any of those members).
+**7.**[^c-64e2aabb821a4265aa921a8044055ec9] Any building which is owned by the Crown and occupied only by members of the armed forces of the Crown (either alone or together with any persons in the same household as any of those members).
 
 ### Prisons, etc
 
-**8.**[^key-8d029d1b884119f8a7baa793e6ac25ad] A prison, a young offenders centre, a juvenile justice centre or a remand centre.
+**8.**[^c-8d029d1b884119f8a7baa793e6ac25ad] A prison, a young offenders centre, a juvenile justice centre or a remand centre.
 
 ### Buildings occupied by owners
 
-**9.**[^key-0bcacb47290194902e7a9395d3674bd5] Any building which is occupied only by the following persons—
+**9.**[^c-0bcacb47290194902e7a9395d3674bd5] Any building which is occupied only by the following persons—
 
 - (a) one or more persons who have, whether in the whole or any part of it, either a freehold estate or a leasehold interest granted for a term of more than 21 years,
 - (b) any member of the household of such a person or persons, and
@@ -95,20 +95,20 @@ Section 1.
 
 ## Annotations
 
-[^key-89b3edc4e4326b31838efa81cc508983]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-89b3edc4e4326b31838efa81cc508983]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-e273b5f5a731711375f4d779e7001eb8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e273b5f5a731711375f4d779e7001eb8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-f72a83e0a2f25751e8639d00d9ec5abb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f72a83e0a2f25751e8639d00d9ec5abb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-f97e49b4975a03176f7d2d57f4b97fa6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f97e49b4975a03176f7d2d57f4b97fa6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-1a3f5672ab9f06fa67c5b489b294e601]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-1a3f5672ab9f06fa67c5b489b294e601]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-f5b38607117bfc00a3e6119cffdbcd68]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f5b38607117bfc00a3e6119cffdbcd68]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-64e2aabb821a4265aa921a8044055ec9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-64e2aabb821a4265aa921a8044055ec9]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-8d029d1b884119f8a7baa793e6ac25ad]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-8d029d1b884119f8a7baa793e6ac25ad]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-0bcacb47290194902e7a9395d3674bd5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-0bcacb47290194902e7a9395d3674bd5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nia/2016/22/schedule/1/paragraph/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

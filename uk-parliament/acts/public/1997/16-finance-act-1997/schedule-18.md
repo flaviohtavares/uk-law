@@ -170,7 +170,7 @@ These repeals have effect in relation to payments made on or after 6th April 199
 **3.** The repeal of Schedule 8 to the Taxes Act 1988 does not affect the application of any of the provisions of paragraph 7 of that Schedule by any of—
 
 - (a) section 360A(5) and (7) of that Act;
-- (b)[^key-4ceb78a3a95e3e11c3d6f62b51b1ccd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4ceb78a3a95e3e11c3d6f62b51b1ccd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) paragraph 16(4) and (6) of Schedule 5 to the Finance Act 1989.
 
 (4) Work-related training
@@ -384,4 +384,4 @@ These repeals have effect in accordance with paragraph 9(1) of Schedule 15 to th
 
 [^c14711181]: Modification: Sch. 18 Pt. VI(3) extended (31.7.1998) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 4(7)](https://www.legislation.gov.uk/ukpga/1997/58/section/4/7) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/1997/58/section/3/3))
 
-[^key-4ceb78a3a95e3e11c3d6f62b51b1ccd4]: Textual amendment: Words in Sch. 18 Pt. VI(3) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-4ceb78a3a95e3e11c3d6f62b51b1ccd4]: Textual amendment: Words in Sch. 18 Pt. VI(3) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Limited disclosure[^key-b44d14336ebb6304d876995e70ce5f16]
+## 13. Limited disclosure[^c-b44d14336ebb6304d876995e70ce5f16]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b44d14336ebb6304d876995e70ce5f16]: Commencement: Rule 13 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-b44d14336ebb6304d876995e70ce5f16]: Commencement: Rule 13 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

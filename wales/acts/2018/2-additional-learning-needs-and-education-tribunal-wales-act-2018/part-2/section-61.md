@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Designated education clinical lead officer[^key-6ebb0fdf3522417e28b9f7379c2d098c]
+## 61. Designated education clinical lead officer[^c-6ebb0fdf3522417e28b9f7379c2d098c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebb0fdf3522417e28b9f7379c2d098c]: Commencement: S. 61 in force at 4.1.2021 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 4(1)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/4/1)
+[^c-6ebb0fdf3522417e28b9f7379c2d098c]: Commencement: S. 61 in force at 4.1.2021 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 4(1)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/4/1)

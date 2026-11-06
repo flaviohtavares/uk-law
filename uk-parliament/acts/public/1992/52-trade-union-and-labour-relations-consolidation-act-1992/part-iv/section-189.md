@@ -45,15 +45,15 @@ ordering the employer to pay remuneration for the protected period.
 - (a) begins with the date on which the first of the dismissals to which the complaint relates takes effect, or the date of the award, whichever is the earlier, and
 - (b) is of such length as the tribunal determines to be just and equitable in all the circumstances having regard to the seriousness of the employer’s default in complying with any requirement of section 188;
 
-but shall not exceed 180[^key-0d7f57d6d812f0db8d3c712410f7176a] days [^c14519381]....
+but shall not exceed 180[^c-0d7f57d6d812f0db8d3c712410f7176a] days [^c14519381]....
 
 (5) An industrial tribunal shall not consider a complaint under this section unless it is presented to the tribunal—
 
 - (a) before the date on which the last of the dismissals to which the complaint relates[^c14519391] takes effect, or
-- (b) during[^c14519401] the period of six[^key-32607468cecd5954f353d4b16b76236b] months beginning with that date[^c14519411], or
-- (c) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented during the[^c14519421] period of six[^key-21131498a2a3f8d82e9e29f364366c12] months, within such further period as it considers reasonable.
+- (b) during[^c14519401] the period of six[^c-32607468cecd5954f353d4b16b76236b] months beginning with that date[^c14519411], or
+- (c) where the tribunal is satisfied that it was not reasonably practicable for the complaint to be presented during the[^c14519421] period of six[^c-21131498a2a3f8d82e9e29f364366c12] months, within such further period as it considers reasonable.
 
-(5A)[^key-9d571dbe911173c0012a28f9f501f995] Where the complaint concerns a failure to comply with a requirement of section 188 or 188A[^key-00d270f02603a37870b4aac0cb4a7dcb], section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (5)(b).
+(5A)[^c-9d571dbe911173c0012a28f9f501f995] Where the complaint concerns a failure to comply with a requirement of section 188 or 188A[^c-00d270f02603a37870b4aac0cb4a7dcb], section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (5)(b).
 
 (6) If on a complaint under this section a question arises—
 
@@ -70,7 +70,7 @@ it is for the employer to show that there were and that he did.
 
 [^c14519361]: Textual amendment: S. 189(1A)(1B) inserted (28.7.1999 subject to reg. 2(2) of the commencing S.I.) by [S.I. 1999/1925](https://www.legislation.gov.uk/uksi/1999/1925), [regs. 2(2)](https://www.legislation.gov.uk/uksi/1999/1925/regulation/2/2), [5(1)(3)](https://www.legislation.gov.uk/uksi/1999/1925/regulation/5/1/3)
 
-[^key-0d7f57d6d812f0db8d3c712410f7176a]: Textual amendment: Word in s. 189(4) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/30/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/323/regulation/5))
+[^c-0d7f57d6d812f0db8d3c712410f7176a]: Textual amendment: Word in s. 189(4) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/30/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(6)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/323/regulation/5))
 
 [^c14519381]: Textual amendment: Words in s. 189(4) omitted (28.7.1999 subject to reg. 2(2) of commencing S.I.) by virute of [S.I. 1999/1925](https://www.legislation.gov.uk/uksi/1999/1925), [regs. 2(2)](https://www.legislation.gov.uk/uksi/1999/1925/regulation/2/2), [5(1)(4)](https://www.legislation.gov.uk/uksi/1999/1925/regulation/5/1/4)
 
@@ -78,14 +78,14 @@ it is for the employer to show that there were and that he did.
 
 [^c14519401]: Textual amendment: Word in s. 189(5)(b) substituted (26.10.1995) by [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [reg. 4(4)(b)(i)](https://www.legislation.gov.uk/uksi/1995/2587/regulation/4/4/b/i)
 
-[^key-32607468cecd5954f353d4b16b76236b]: Textual amendment: Word in [s. 189(5)(b)](https://www.legislation.gov.uk/ukpga/1992/52/section/189/5/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(10)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/10/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-32607468cecd5954f353d4b16b76236b]: Textual amendment: Word in [s. 189(5)(b)](https://www.legislation.gov.uk/ukpga/1992/52/section/189/5/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(10)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/10/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
 [^c14519411]: Textual amendment: Words in s. 189(5)(b) substituted (26.10.1995) by [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [reg. 4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/2587/regulation/4/4/b/ii)
 
 [^c14519421]: Textual amendment: Words in s. 189(5)(c) substituted (26.10.1995) by [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/1995/2587/regulation/4/4/c)
 
-[^key-21131498a2a3f8d82e9e29f364366c12]: Textual amendment: Word in [s. 189(5)(c)](https://www.legislation.gov.uk/ukpga/1992/52/section/189/5/c) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(10)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/10/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-21131498a2a3f8d82e9e29f364366c12]: Textual amendment: Word in [s. 189(5)(c)](https://www.legislation.gov.uk/ukpga/1992/52/section/189/5/c) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(10)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/10/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-9d571dbe911173c0012a28f9f501f995]: Textual amendment: S. 189(5A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/11); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
+[^c-9d571dbe911173c0012a28f9f501f995]: Textual amendment: S. 189(5A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/11); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
 
-[^key-00d270f02603a37870b4aac0cb4a7dcb]: Textual amendment: Words in s. 189(5A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/1)
+[^c-00d270f02603a37870b4aac0cb4a7dcb]: Textual amendment: Words in s. 189(5A) inserted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/1)

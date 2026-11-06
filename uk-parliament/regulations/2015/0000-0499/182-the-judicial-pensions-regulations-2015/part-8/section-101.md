@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Reduction in pensions in cases of wide age disparity[^key-53dadd939286617fe7d8bb71ac691cc4]
+## 101. Reduction in pensions in cases of wide age disparity[^c-53dadd939286617fe7d8bb71ac691cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ where N is the number of whole years by which the dependant is younger than the 
 
 ## Annotations
 
-[^key-53dadd939286617fe7d8bb71ac691cc4]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2015/182/regulation/101) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-53dadd939286617fe7d8bb71ac691cc4]: Commencement: [Reg. 101](https://www.legislation.gov.uk/uksi/2015/182/regulation/101) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

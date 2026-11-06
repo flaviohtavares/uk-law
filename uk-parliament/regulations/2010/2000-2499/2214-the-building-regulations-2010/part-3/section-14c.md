@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14C. Appeal against the regulator’s rejection of an application for building control approval for work that is not higher-risk building work[^key-15a7527dd48a9f1d185de6df29a52e95]
+## 14C. Appeal against the regulator’s rejection of an application for building control approval for work that is not higher-risk building work[^c-15a7527dd48a9f1d185de6df29a52e95]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15a7527dd48a9f1d185de6df29a52e95]: Textual amendment: [Regs. 14-14C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) substituted for [reg. 14](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/911/regulation/8) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-15a7527dd48a9f1d185de6df29a52e95]: Textual amendment: [Regs. 14-14C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) substituted for [reg. 14](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/911/regulation/8) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

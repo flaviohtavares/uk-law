@@ -22,9 +22,9 @@ summary: ''
 
 Section 160
 
-**1.**[^key-a720d249e231ad41460c60a1f18aca94] The Police Reform Act 2002 (c. 30) has effect subject to the following amendments.
+**1.**[^c-a720d249e231ad41460c60a1f18aca94] The Police Reform Act 2002 (c. 30) has effect subject to the following amendments.
 
-**2.**[^key-ad458ba16dacfdc0c34813f19aa82127] (1) Section 10(2) (general functions of the Commission) is amended as follows.
+**2.**[^c-ad458ba16dacfdc0c34813f19aa82127] (1) Section 10(2) (general functions of the Commission) is amended as follows.
 
 (2) After paragraph (b) insert—
 
@@ -34,7 +34,7 @@ Section 160
 
 (3) In paragraph (c), after “paragraph (b)” insert “ or (ba) ”.
 
-**3.**[^key-104cac7885549e97677454bbee2917ea] In section 12 (matters to which Part 2 applies), after subsection (2) insert—
+**3.**[^c-104cac7885549e97677454bbee2917ea] In section 12 (matters to which Part 2 applies), after subsection (2) insert—
 
 > (2A) In this Part “**death or serious injury matter**” (or “**DSI matter**” for short) means any circumstances (other than those which are or have been the subject of a complaint or which amount to a conduct matter)—
 >
@@ -53,13 +53,13 @@ Section 160
 >
 > (2D) In subsection (2A) the reference to a person includes a person serving with the police, but in relation to such a person “**contact**” in subsection (2C) does not include contact that he has whilst acting in the execution of his duties.
 
-**4.**[^key-4dea85d20656b7238bed89468b0350dc] In the following provisions, for “and conduct matters” substitute “ , conduct matters and DSI matters ”
+**4.**[^c-4dea85d20656b7238bed89468b0350dc] In the following provisions, for “and conduct matters” substitute “ , conduct matters and DSI matters ”
 
 - (a) the cross-heading preceding section 13;
 - (b) the heading for section 13 (handling of complaints and conduct matters); and
 - (c) that section itself.
 
-**5.**[^key-1ca3a108d8188ee83ec0df6fd00a5692] (1) Section 16(2) (assistance for which payment is required) is amended as follows.
+**5.**[^c-1ca3a108d8188ee83ec0df6fd00a5692] (1) Section 16(2) (assistance for which payment is required) is amended as follows.
 
 (2) In paragraph (a), for the words from “an investigation relating to” to the end substitute—
 
@@ -73,9 +73,9 @@ Section 160
 > - (i) an investigation relating to the conduct of a person who, at the time of the conduct, was not a member of that force, or
 > - (ii) an investigation of a DSI matter in relation to which the relevant officer was, at the time of the death or serious injury, not a member of that force.
 
-**6.**[^key-70b7f9bebfce9cabd802d935950c5ec3] In section 18 (inspection of police premises on behalf of the Commission), in subsection (2)(a), after “conduct matters” insert “ or DSI matters ”.
+**6.**[^c-70b7f9bebfce9cabd802d935950c5ec3] In section 18 (inspection of police premises on behalf of the Commission), in subsection (2)(a), after “conduct matters” insert “ or DSI matters ”.
 
-**7.**[^key-3ee2878129dc5a15f5b73969b4de007d] (1) Section 21 (duty to provide information) is amended as follows.
+**7.**[^c-3ee2878129dc5a15f5b73969b4de007d] (1) Section 21 (duty to provide information) is amended as follows.
 
 (2) In subsection (1), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
 
@@ -110,7 +110,7 @@ Section 160
 
 (11) In subsection (10), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
 
-**8.**[^key-9fdeef4528e355c92a4bf2a41dd728af] (1) Section 22 (power of Commission to issue guidance) is amended as follows.
+**8.**[^c-9fdeef4528e355c92a4bf2a41dd728af] (1) Section 22 (power of Commission to issue guidance) is amended as follows.
 
 (2) In subsection (2)(b)(ii), after “recordable conduct matters” insert “ or DSI matters ”.
 
@@ -120,7 +120,7 @@ Section 160
 - (b) in paragraphs (b) and (d)(ii), after “recordable conduct matter” insert “ or DSI matter ”; and
 - (c) in paragraph (e)(i), for “or conduct matter” substitute “ , conduct matter or DSI matter ”.
 
-**9.**[^key-6f44626f719f034e1255a175f13ca43c] (1) Section 23(2) (regulations) is amended as follows.
+**9.**[^c-6f44626f719f034e1255a175f13ca43c] (1) Section 23(2) (regulations) is amended as follows.
 
 (2) In paragraph (b), after “recordable conduct matters” insert “ and DSI matters ”.
 
@@ -139,7 +139,7 @@ Section 160
 
 (5) In paragraph (n)(ii), after “recordable conduct matters” insert “ or DSI matters ”.
 
-**10.**[^key-f0ef39a6dc28c9bc2ce4bef8f9b0e040] (1) Section 29 (interpretation) is amended as follows.
+**10.**[^c-f0ef39a6dc28c9bc2ce4bef8f9b0e040] (1) Section 29 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -173,9 +173,9 @@ Section 160
 >
 > (1B) Where it cannot be determined which of two or more persons serving with the police dealt with a person last before a death or serious injury occurred, the relevant officer is the most senior of them.
 
-**11.**[^key-d0f7c91a87a3c474c9a11bed534e8324] Schedule 3 (handling of complaints and conduct matters) is amended as set out in the following paragraphs.
+**11.**[^c-d0f7c91a87a3c474c9a11bed534e8324] Schedule 3 (handling of complaints and conduct matters) is amended as set out in the following paragraphs.
 
-**12.**[^key-044da3f44e121de33eeb338665a72c7d] After paragraph 14 insert—
+**12.**[^c-044da3f44e121de33eeb338665a72c7d] After paragraph 14 insert—
 
 > **Part 2A — handling of death and serious injury (DSI) matters**
 >
@@ -228,9 +228,9 @@ Section 160
 >
 > (2) Where the Commission determines under this paragraph that it is not necessary for a DSI matter to be investigated, it may if it thinks fit refer the matter back to the appropriate authority to be dealt with by that authority in such manner (if any) as that authority may determine.
 
-**13.**[^key-caa822ed703369c97a31e441261dbcd4] In paragraph 15(1)(a) and (8) (power of the Commission to determine the form of an investigation), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
+**13.**[^c-caa822ed703369c97a31e441261dbcd4] In paragraph 15(1)(a) and (8) (power of the Commission to determine the form of an investigation), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
 
-**14.**[^key-ad86dfa3c6ca1f7f896f9d2f9a15c54e] (1) Paragraph 16 (investigations by the appropriate authority on its own behalf) is amended as follows.
+**14.**[^c-ad86dfa3c6ca1f7f896f9d2f9a15c54e] (1) Paragraph 16 (investigations by the appropriate authority on its own behalf) is amended as follows.
 
 (2) In sub-paragraph (1), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
 
@@ -249,13 +249,13 @@ Section 160
 
 **15.**[^M_F_a07d9eab-496c-43ed-d1b5-80c0f3f42592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-96b68906bed597cc92b91fdee1137e90] (1) Paragraph 18 (investigations managed by the Commission) is amended as follows.
+**16.**[^c-96b68906bed597cc92b91fdee1137e90] (1) Paragraph 18 (investigations managed by the Commission) is amended as follows.
 
 (2) In sub-paragraph (1), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
 
 (3)[^M_F_28732482-5b37-41df-f828-5b32e863e523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-5992394a806106addc278ca3d5f5c1e2] (1) Paragraph 19 (investigations by the Commission itself) is amended as follows.
+**17.**[^c-5992394a806106addc278ca3d5f5c1e2] (1) Paragraph 19 (investigations by the Commission itself) is amended as follows.
 
 (2) In sub-paragraph (1), for “or recordable conduct matter” substitute “ , recordable conduct matter or DSI matter ”.
 
@@ -263,11 +263,11 @@ Section 160
 
 > (3A) The person designated under sub-paragraph (2) to be the person to take charge of an investigation of a DSI matter in relation to which the relevant officer is the Commissioner of Police of the Metropolis or the Deputy Commissioner of Police of the Metropolis must be the person nominated by the Secretary of State to be so designated under that sub-paragraph.
 
-**18.**[^key-aeffd4fca4c60277212df6d6c0351732] In paragraph 20(1) (restrictions on proceedings pending the conclusion of an investigation), after “22” insert “ or 24A ”.
+**18.**[^c-aeffd4fca4c60277212df6d6c0351732] In paragraph 20(1) (restrictions on proceedings pending the conclusion of an investigation), after “22” insert “ or 24A ”.
 
 **19.**[^M_F_410bbbb7-df5f-400d-8808-e4fd7bb42262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-58b2570ebe605bb3848c7ea25d7392af] After paragraph 21 insert—
+**20.**[^c-58b2570ebe605bb3848c7ea25d7392af] After paragraph 21 insert—
 
 > **21A. Procedure where conduct matter is revealed during investigation of DSI matter**
 >
@@ -303,7 +303,7 @@ Section 160
 >
 > it shall record the matter under paragraph 11 as a conduct matter (and the other provisions of this Schedule shall apply in relation to that matter accordingly).
 
-**21.**[^key-a871573020825ad9bafe02f920c47422] For paragraph 22 (final reports on investigations) substitute—
+**21.**[^c-a871573020825ad9bafe02f920c47422] For paragraph 22 (final reports on investigations) substitute—
 
 > **22. Final reports on investigations: complaints, conduct matters and certain DSI matters**
 >
@@ -329,7 +329,7 @@ Section 160
 >
 > (6) A person submitting a report under this paragraph shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as he thinks fit.
 
-**22.**[^key-a7b3e51658880fc21d44e8df014bc2b5] (1) In the heading preceding paragraph 23, after “investigation report” insert “ under paragraph 22 ”.
+**22.**[^c-a7b3e51658880fc21d44e8df014bc2b5] (1) In the heading preceding paragraph 23, after “investigation report” insert “ under paragraph 22 ”.
 
 (2) In paragraph 23(1)—
 
@@ -340,7 +340,7 @@ Section 160
 
 > (13) In relation to a DSI matter in respect of which a determination has been made under paragraph 21A(2) or (4), the references in this paragraph to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
 
-**23.**[^key-adb571fd387b9c97e0601290c3b26576] (1) In the heading preceding paragraph 24, after “investigation report” insert “ under paragraph 22 ”.
+**23.**[^c-adb571fd387b9c97e0601290c3b26576] (1) In the heading preceding paragraph 24, after “investigation report” insert “ under paragraph 22 ”.
 
 (2) In paragraph 24(1)—
 
@@ -351,7 +351,7 @@ Section 160
 
 > (11) In relation to a DSI matter in respect of which a determination has been made under paragraph 21A(2) or (4), the references in this paragraph to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
 
-**24.**[^key-c98077201cbf7ec1aa0d9a09caab5c66] After paragraph 24 insert—
+**24.**[^c-c98077201cbf7ec1aa0d9a09caab5c66] After paragraph 24 insert—
 
 > **24A. Final reports on investigations: other DSI matters**
 >
@@ -391,52 +391,52 @@ Section 160
 
 ## Annotations
 
-[^key-a720d249e231ad41460c60a1f18aca94]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/1) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-a720d249e231ad41460c60a1f18aca94]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/1) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-ad458ba16dacfdc0c34813f19aa82127]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/2) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-ad458ba16dacfdc0c34813f19aa82127]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/2) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-104cac7885549e97677454bbee2917ea]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/3) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-104cac7885549e97677454bbee2917ea]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/3) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-4dea85d20656b7238bed89468b0350dc]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/4) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-4dea85d20656b7238bed89468b0350dc]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/4) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-1ca3a108d8188ee83ec0df6fd00a5692]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/5) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-1ca3a108d8188ee83ec0df6fd00a5692]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/5) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-70b7f9bebfce9cabd802d935950c5ec3]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/6) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-70b7f9bebfce9cabd802d935950c5ec3]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/6) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-3ee2878129dc5a15f5b73969b4de007d]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/7) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-3ee2878129dc5a15f5b73969b4de007d]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/7) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-9fdeef4528e355c92a4bf2a41dd728af]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/8) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-9fdeef4528e355c92a4bf2a41dd728af]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/8) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-6f44626f719f034e1255a175f13ca43c]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/9) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-6f44626f719f034e1255a175f13ca43c]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/9) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-f0ef39a6dc28c9bc2ce4bef8f9b0e040]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/10) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-f0ef39a6dc28c9bc2ce4bef8f9b0e040]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/10) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-d0f7c91a87a3c474c9a11bed534e8324]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/11) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-d0f7c91a87a3c474c9a11bed534e8324]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/11) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-044da3f44e121de33eeb338665a72c7d]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/12) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-044da3f44e121de33eeb338665a72c7d]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/12) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-caa822ed703369c97a31e441261dbcd4]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/13) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-caa822ed703369c97a31e441261dbcd4]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/13) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-ad86dfa3c6ca1f7f896f9d2f9a15c54e]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/14) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-ad86dfa3c6ca1f7f896f9d2f9a15c54e]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/14) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
 [^M_F_a07d9eab-496c-43ed-d1b5-80c0f3f42592]: Textual amendment: Sch. 12 para. 15 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/48/b); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/4))
 
-[^key-96b68906bed597cc92b91fdee1137e90]: Commencement: Sch. 12 para. 16 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-96b68906bed597cc92b91fdee1137e90]: Commencement: Sch. 12 para. 16 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
 [^M_F_28732482-5b37-41df-f828-5b32e863e523]: Textual amendment: Sch. 12 para. 16(3) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/48/b); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/4))
 
-[^key-5992394a806106addc278ca3d5f5c1e2]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/17) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-5992394a806106addc278ca3d5f5c1e2]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/17) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-aeffd4fca4c60277212df6d6c0351732]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/18) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-aeffd4fca4c60277212df6d6c0351732]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/18) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
 [^M_F_410bbbb7-df5f-400d-8808-e4fd7bb42262]: Textual amendment: Sch. 12 para. 19 omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/5/paragraph/48/b); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/n) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/regulation/3/4))
 
-[^key-58b2570ebe605bb3848c7ea25d7392af]: Commencement: [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/20) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-58b2570ebe605bb3848c7ea25d7392af]: Commencement: [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/20) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-a871573020825ad9bafe02f920c47422]: Commencement: [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/21) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-a871573020825ad9bafe02f920c47422]: Commencement: [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/21) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-a7b3e51658880fc21d44e8df014bc2b5]: Commencement: [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/22) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-a7b3e51658880fc21d44e8df014bc2b5]: Commencement: [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/22) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-adb571fd387b9c97e0601290c3b26576]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/23) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-adb571fd387b9c97e0601290c3b26576]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/23) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
 
-[^key-c98077201cbf7ec1aa0d9a09caab5c66]: Commencement: [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/24) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)
+[^c-c98077201cbf7ec1aa0d9a09caab5c66]: Commencement: [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2005/15/schedule/12/paragraph/24) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(w)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/w)

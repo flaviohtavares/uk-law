@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If it appears to a justice of the peace, on complaint on oath made by an officer [^key-d5576ac24e92d93fab50b9143b1af88e]... of an authorised[^c17126341] HSC[^c21355701] trust or a constable, that there is reasonable cause to suspect that a person believed to be suffering from mental disorder—
+(1) If it appears to a justice of the peace, on complaint on oath made by an officer [^c-d5576ac24e92d93fab50b9143b1af88e]... of an authorised[^c17126341] HSC[^c21355701] trust or a constable, that there is reasonable cause to suspect that a person believed to be suffering from mental disorder—
 
 - (a) has been, or is being, ill-treated, neglected or kept otherwise than under proper control; or
 - (b) being unable to care for himself, is living alone,
 
 the justice may issue a warrant authorising any constable[^c17126361]. . . , accompanied by a medical practitioner, to enter, if need be by force, any premises specified in the warrant in which that person is believed to be, and, if thought fit, to remove him to a place of safety with a view to the making of an application under Part II in respect of him, or of other arrangements for his care or treatment.
 
-(2) If it appears to a justice of the peace, on complaint on oath made by an officer [^key-c97c15d700afd3e1c36a31c3bd570934]... of an authorised HSC trust or a constable—
+(2) If it appears to a justice of the peace, on complaint on oath made by an officer [^c-c97c15d700afd3e1c36a31c3bd570934]... of an authorised HSC trust or a constable—
 
 - (a) that there is reasonable cause to believe that a patient who, under this Order, is liable to be taken to any place, or to be taken into custody or to be retaken, is to be found on any premises; and
 - (b) that admission to the premises has been refused or that a refusal of such admission is apprehended,
@@ -54,11 +54,11 @@ the justice may issue a warrant authorising any constable[^c17126361]. . . , acc
 
 (6) It shall not be necessary in any complaint or warrant under paragraph (1) to name the person concerned.
 
-(7) In this Article “place of safety” means any hospital, of which the managing [^key-9840d7d20a6dc3535cda7a2a2dc31c4f]... HSC trust is willing temporarily to receive persons who may be taken there under this Order, any police station, or any other suitable place the occupier of which is willing temporarily to receive such persons.
+(7) In this Article “place of safety” means any hospital, of which the managing [^c-9840d7d20a6dc3535cda7a2a2dc31c4f]... HSC trust is willing temporarily to receive persons who may be taken there under this Order, any police station, or any other suitable place the occupier of which is willing temporarily to receive such persons.
 
 ## Annotations
 
-[^key-d5576ac24e92d93fab50b9143b1af88e]: Textual amendment: Words in [art. 129(1)](https://www.legislation.gov.uk/nisi/1986/595/article/129/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 98(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d5576ac24e92d93fab50b9143b1af88e]: Textual amendment: Words in [art. 129(1)](https://www.legislation.gov.uk/nisi/1986/595/article/129/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 98(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17126341]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 
@@ -66,10 +66,10 @@ the justice may issue a warrant authorising any constable[^c17126361]. . . , acc
 
 [^c17126361]: Textual amendment: [1989 NI 12](https://www.legislation.gov.uk/1989/ni12)
 
-[^key-c97c15d700afd3e1c36a31c3bd570934]: Textual amendment: Words in [art. 129(2)](https://www.legislation.gov.uk/nisi/1986/595/article/129/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 98(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c97c15d700afd3e1c36a31c3bd570934]: Textual amendment: Words in [art. 129(2)](https://www.legislation.gov.uk/nisi/1986/595/article/129/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 98(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^m00023]: Marginal citation: 1983 c. 20
 
 [^c17126401]: Textual amendment: SI 2005/2078
 
-[^key-9840d7d20a6dc3535cda7a2a2dc31c4f]: Textual amendment: Words in [art. 129(7)](https://www.legislation.gov.uk/nisi/1986/595/article/129/7) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 98(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-9840d7d20a6dc3535cda7a2a2dc31c4f]: Textual amendment: Words in [art. 129(7)](https://www.legislation.gov.uk/nisi/1986/595/article/129/7) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 98(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/98/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

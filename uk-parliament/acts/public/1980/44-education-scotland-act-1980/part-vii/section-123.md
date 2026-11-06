@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Subject to subsection (2) below, the enactments relating to the prohibition or regulation of the employment of children shall not apply to the employment of a child to whom this subsection applies[^c9700261] where the employment is in pursuance of arrangements made or approved by the education authority [^key-438b064ccb1a29382c2b848e5149d1ae]... with a view to providing him with work experience as part of his education.
+(1) Subject to subsection (2) below, the enactments relating to the prohibition or regulation of the employment of children shall not apply to the employment of a child to whom this subsection applies[^c9700261] where the employment is in pursuance of arrangements made or approved by the education authority [^c-438b064ccb1a29382c2b848e5149d1ae]... with a view to providing him with work experience as part of his education.
 
 (2) Subsection (1) above shall not be taken to permit the employment of any person in any way contrary to—
 
@@ -35,7 +35,7 @@ summary: ''
 
 [^c9700261]: Textual amendment: Words substituted by Self-[Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1989/39), [s. 82(1)](https://www.legislation.gov.uk/ukpga/1989/39/section/82/1), [Sch. 10 para. 8(21)(a)(i)](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/8/21/a/i)
 
-[^key-438b064ccb1a29382c2b848e5149d1ae]: Textual amendment: Words in [s. 123(1)](https://www.legislation.gov.uk/ukpga/1980/44/section/123/1) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-438b064ccb1a29382c2b848e5149d1ae]: Textual amendment: Words in [s. 123(1)](https://www.legislation.gov.uk/ukpga/1980/44/section/123/1) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
 [^c9700281]: Marginal citation: [1920 c. 65](https://www.legislation.gov.uk/ukpga/1920/65).
 

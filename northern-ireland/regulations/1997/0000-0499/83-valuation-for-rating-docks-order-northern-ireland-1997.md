@@ -30,7 +30,7 @@ summary: ''
 
 RATES
 
-Valuation for Rating (Docks) Order (Northern Ireland) 1997 (revoked)[^key-86babef4470b6bfad48726380fc991d6]
+Valuation for Rating (Docks) Order (Northern Ireland) 1997 (revoked)[^c-86babef4470b6bfad48726380fc991d6]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 1st April 1997
 
-[^key-86babef4470b6bfad48726380fc991d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86babef4470b6bfad48726380fc991d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-86babef4470b6bfad48726380fc991d6]
+## 1. Citation, commencement and interpretation[^c-86babef4470b6bfad48726380fc991d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Part X of Schedule 12 to the Principal Order[^key-86babef4470b6bfad48726380fc991d6]
+## 2. Amendment of Part X of Schedule 12 to the Principal Order[^c-86babef4470b6bfad48726380fc991d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86babef4470b6bfad48726380fc991d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86babef4470b6bfad48726380fc991d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-86babef4470b6bfad48726380fc991d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86babef4470b6bfad48726380fc991d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86babef4470b6bfad48726380fc991d6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/83) revoked (1.4.2003) by [Valuation for Rating (Docks) Order (Northern Ireland) 2003 (S.R. 2003/129)](https://www.legislation.gov.uk/nisr/2003/129), [arts. 1](https://www.legislation.gov.uk/nisr/2003/129/article/1), [3](https://www.legislation.gov.uk/nisr/2003/129/article/3)
+[^c-86babef4470b6bfad48726380fc991d6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/83) revoked (1.4.2003) by [Valuation for Rating (Docks) Order (Northern Ireland) 2003 (S.R. 2003/129)](https://www.legislation.gov.uk/nisr/2003/129), [arts. 1](https://www.legislation.gov.uk/nisr/2003/129/article/1), [3](https://www.legislation.gov.uk/nisr/2003/129/article/3)

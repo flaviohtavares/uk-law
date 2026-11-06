@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 845B. Qualifying new residents[^key-fa6e1a8f7071272a8f9d117519835e5b]
+## 845B. Qualifying new residents[^c-fa6e1a8f7071272a8f9d117519835e5b]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purposes of this Chapter, an individual is a qualifying new resident for a tax year if—
 
 - (a) the individual is UK resident for that tax year,
-- (b) the individual is not disqualified for that tax year, [^key-b76b5e3ac65e52be4ddc7e8ec333564f]...
-- (c) for each of the 10 tax years before that tax year, the individual was not UK resident , and[^key-f101251c33f241a59a1b280df824a3ad]
+- (b) the individual is not disqualified for that tax year, [^c-b76b5e3ac65e52be4ddc7e8ec333564f]...
+- (c) for each of the 10 tax years before that tax year, the individual was not UK resident , and[^c-f101251c33f241a59a1b280df824a3ad]
 - (d) the individual is at least 10 years old at the commencement of that tax year.
 
 (2) An individual is also a qualifying new resident for a tax year if—
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
+[^c-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
 
-[^key-b76b5e3ac65e52be4ddc7e8ec333564f]: Textual amendment: Word in [s. 845B(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/845B/1) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/3/a)
+[^c-b76b5e3ac65e52be4ddc7e8ec333564f]: Textual amendment: Word in [s. 845B(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/845B/1) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/3/a)
 
-[^key-f101251c33f241a59a1b280df824a3ad]: Textual amendment: [S. 845B(1)(d)](https://www.legislation.gov.uk/ukpga/2005/5/section/845B/1/d) and word inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/3/b)
+[^c-f101251c33f241a59a1b280df824a3ad]: Textual amendment: [S. 845B(1)(d)](https://www.legislation.gov.uk/ukpga/2005/5/section/845B/1/d) and word inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/3/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Office of Rail and Road[^key-8bd959a265ed22e6a31ac280ec32e287] shall revoke—
+(1) The Office of Rail and Road[^c-8bd959a265ed22e6a31ac280ec32e287] shall revoke—
 
 - (a) either Part A or Part B of a safety certificate if it is satisfied that the holder is no longer satisfying the conditions of that part of the safety certificate and that there is a significant risk arising as a result;
 - (b) a safety certificate if it is satisfied that the holder—
@@ -53,16 +53,16 @@ except that this paragraph shall not apply in relation to Part A of a safety cer
 
 then the Office of Rail and Road shall notify that safety authority as soon as reasonably possible of that revocation.
 
-(6)[^key-dd966834459dfe5aac6ab0113862f294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-dd966834459dfe5aac6ab0113862f294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3bcad4d4f6f0a43081d8f0d89c06ee54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3bcad4d4f6f0a43081d8f0d89c06ee54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8bd959a265ed22e6a31ac280ec32e287]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2006/599/regulation/15) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(l)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/l)
+[^c-8bd959a265ed22e6a31ac280ec32e287]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2006/599/regulation/15) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(l)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/l)
 
 [^M_F_c76df01a-e0e5-4169-e67a-4da5de9de8a6]: Textual amendment: Words in reg. 15(5)(b) omitted (31.12.2020) by virtue of [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [regs. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/837/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd966834459dfe5aac6ab0113862f294]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2006/599/regulation/15/6) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/127/regulation/3/3)
+[^c-dd966834459dfe5aac6ab0113862f294]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2006/599/regulation/15/6) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/127/regulation/3/3)
 
-[^key-3bcad4d4f6f0a43081d8f0d89c06ee54]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/2006/599/regulation/15/7) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/127/regulation/3/3)
+[^c-3bcad4d4f6f0a43081d8f0d89c06ee54]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/2006/599/regulation/15/7) omitted (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/127/regulation/3/3)

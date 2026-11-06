@@ -22,7 +22,7 @@ summary: ''
 
 Article (2)
 
-### 1. Supply of free copy of full register for electoral purposes[^key-5a6ab917369720b9979c3e8ca73dd686][^key-c33f86f5658a824b53f566e35f4b9ea5]
+### 1. Supply of free copy of full register for electoral purposes[^c-5a6ab917369720b9979c3e8ca73dd686][^c-c33f86f5658a824b53f566e35f4b9ea5]
 
 (1) As soon as practicable after the relevant date, an ERO shall supply free of charge to the returning officer for the local authority or, as the case may be, each local authority for the ERO’s registration area as many printed copies of—
 
@@ -50,7 +50,7 @@ as the returning officer may reasonably require for the purposes of a Scottish P
 
 except for the purposes of an election[^f00061].
 
-### 2. Supply of full register etc under paragraphs 3 and 4: general provisions[^key-d60994bc4c265e3ed4a3f8a5208ee83c]
+### 2. Supply of full register etc under paragraphs 3 and 4: general provisions[^c-d60994bc4c265e3ed4a3f8a5208ee83c]
 
 (1) The persons or organisations falling within paragraph 3 or 4 may request the ERO to supply free of charge the relevant part (within the meaning of those paragraphs) of any of the following—
 
@@ -73,7 +73,7 @@ except for the purposes of an election[^f00061].
 
 (7) A person who obtains a copy of any document under sub-paragraph (4) may use it for any purpose for which that person would be entitled to obtain that document under this Schedule and any restrictions which apply under whichever of paragraph 3 or 4 entitles that person to obtain that document for that purpose shall apply to such use.
 
-### 3. Supply of full register etc to elected representatives for electoral purposes and restrictions on use[^key-7a15aebb120bac10dd0a0d641431f0d2]
+### 3. Supply of full register etc to elected representatives for electoral purposes and restrictions on use[^c-7a15aebb120bac10dd0a0d641431f0d2]
 
 (1) This paragraph applies to—
 
@@ -93,7 +93,7 @@ except for the purposes of an election[^f00061].
 
 except for purposes in connection with the office by virtue of which the person is entitled to the register of electors or for electoral purposes[^f00062].
 
-### 4. Supply of full register etc to certain candidates and restrictions on use[^key-ac0181929463bf261c6a2dc833964ef3]
+### 4. Supply of full register etc to certain candidates and restrictions on use[^c-ac0181929463bf261c6a2dc833964ef3]
 
 (1) This paragraph applies to a candidate at a Scottish parliamentary election where any part of the area in respect of which the candidate stands for election includes the whole or part of the registration area.
 
@@ -111,15 +111,15 @@ except for purposes in connection with the office by virtue of which the person 
 
 except for electoral purposes[^f00063].
 
-### 5. Meaning of “edited register”[^key-b06c8923c8af18f5b84a7f6c3140690f]
+### 5. Meaning of “edited register”[^c-b06c8923c8af18f5b84a7f6c3140690f]
 
 In this Schedule a reference to the edited register is a reference to the version of the register of electors published under regulation 93 of the 2001 Regulations[^f00064].
 
 ## Annotations
 
-[^key-5a6ab917369720b9979c3e8ca73dd686]: Commencement: Sch. 1 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5a6ab917369720b9979c3e8ca73dd686]: Commencement: Sch. 1 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-c33f86f5658a824b53f566e35f4b9ea5]: Modification: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/2999/schedule/1/paragraph/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 55](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/55)
+[^c-c33f86f5658a824b53f566e35f4b9ea5]: Modification: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/2999/schedule/1/paragraph/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 55](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/55)
 
 [^f00059]: Footnote: Section 13 was substituted by the 2000 Act, Schedule 1, paragraph 6.
 
@@ -127,16 +127,16 @@ In this Schedule a reference to the edited register is a reference to the versio
 
 [^f00061]: Footnote: This is the “permitted purpose” for the purposes of regulation 95(2) of the Representation of the People (Scotland) Regulations 2001 (“the 2001 Regulations”). Regulation 115 of the 2001 Regulations makes provision for offences in respect of contraventions of provisions including regulation 95(2).
 
-[^key-d60994bc4c265e3ed4a3f8a5208ee83c]: Commencement: Sch. 1 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d60994bc4c265e3ed4a3f8a5208ee83c]: Commencement: Sch. 1 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-7a15aebb120bac10dd0a0d641431f0d2]: Commencement: Sch. 1 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7a15aebb120bac10dd0a0d641431f0d2]: Commencement: Sch. 1 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00062]: Footnote: This is the “permitted purpose” for the purposes of regulation 95(2) of the 2001 Regulations. Regulation 115 of the 2001 Regulations makes provision for offences in respect of contraventions of provisions including regulation 95(2).
 
-[^key-ac0181929463bf261c6a2dc833964ef3]: Commencement: Sch. 1 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ac0181929463bf261c6a2dc833964ef3]: Commencement: Sch. 1 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00063]: Footnote: This is the “permitted purpose” for the purposes of regulation 95(2) of the 2001 Regulations. Regulation 115 of the 2001 Regulations makes provision for offences in respect of contraventions of provisions including regulation 95(2).
 
-[^key-b06c8923c8af18f5b84a7f6c3140690f]: Commencement: Sch. 1 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b06c8923c8af18f5b84a7f6c3140690f]: Commencement: Sch. 1 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00064]: Footnote: Regulation 93 was inserted by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), regulation 14.

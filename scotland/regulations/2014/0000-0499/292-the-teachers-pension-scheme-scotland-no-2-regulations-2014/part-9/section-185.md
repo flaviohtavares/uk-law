@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Calculation of balance of contributions[^key-c837ade5d7058aff64268a5066372251]
+## 185. Calculation of balance of contributions[^c-c837ade5d7058aff64268a5066372251]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ where—
 
 ## Annotations
 
-[^key-c837ade5d7058aff64268a5066372251]: Commencement: [Reg. 185](https://www.legislation.gov.uk/ssi/2014/292/regulation/185) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-c837ade5d7058aff64268a5066372251]: Commencement: [Reg. 185](https://www.legislation.gov.uk/ssi/2014/292/regulation/185) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

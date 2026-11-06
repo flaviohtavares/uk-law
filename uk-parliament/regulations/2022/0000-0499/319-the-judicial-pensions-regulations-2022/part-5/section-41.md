@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amount of partial retirement pension[^key-e6ca80d2841e32667ff8aad0df2a0148]
+## 41. Amount of partial retirement pension[^c-e6ca80d2841e32667ff8aad0df2a0148]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6ca80d2841e32667ff8aad0df2a0148]: Commencement: Reg. 41 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-e6ca80d2841e32667ff8aad0df2a0148]: Commencement: Reg. 41 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

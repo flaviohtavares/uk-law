@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Powers of inspectors[^key-a2d17b412081d7221f8323a925b41a0f]
+## 79. Powers of inspectors[^c-a2d17b412081d7221f8323a925b41a0f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ An inspector may—
 
 ## Annotations
 
-[^key-a2d17b412081d7221f8323a925b41a0f]: Commencement: Reg. 79 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-a2d17b412081d7221f8323a925b41a0f]: Commencement: Reg. 79 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

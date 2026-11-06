@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 416ZE. Allowance where site restoration undertaken for other participators in oil field[^key-8a875f1150a641d14f9922bf9dfffca7]
+## 416ZE. Allowance where site restoration undertaken for other participators in oil field[^c-8a875f1150a641d14f9922bf9dfffca7]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ has been agreed as, or as part of, an avoidance scheme.
 
 ## Annotations
 
-[^key-8a875f1150a641d14f9922bf9dfffca7]: Textual amendment: [Ss. 416ZC-416ZE](https://www.legislation.gov.uk/ukpga/2001/2/section/416ZC) inserted (with effect in accordance with Sch. 32 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/9)
+[^c-8a875f1150a641d14f9922bf9dfffca7]: Textual amendment: [Ss. 416ZC-416ZE](https://www.legislation.gov.uk/ukpga/2001/2/section/416ZC) inserted (with effect in accordance with Sch. 32 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/9)

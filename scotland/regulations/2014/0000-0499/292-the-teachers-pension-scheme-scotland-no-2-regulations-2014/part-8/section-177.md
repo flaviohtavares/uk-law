@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. General prohibition on unauthorised payments[^key-ccdeea3774c6e57eb7f776dbf22907a5]
+## 177. General prohibition on unauthorised payments[^c-ccdeea3774c6e57eb7f776dbf22907a5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires or authorises the making of any payment wh
 
 ## Annotations
 
-[^key-ccdeea3774c6e57eb7f776dbf22907a5]: Commencement: [Reg. 177](https://www.legislation.gov.uk/ssi/2014/292/regulation/177) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ccdeea3774c6e57eb7f776dbf22907a5]: Commencement: [Reg. 177](https://www.legislation.gov.uk/ssi/2014/292/regulation/177) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

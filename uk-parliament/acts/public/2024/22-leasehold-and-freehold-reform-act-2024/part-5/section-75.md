@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Limitation of estate management charges: consultation requirements[^key-fe10cf492c471ab7a67f1c8d163f1c1c]
+## 75. Limitation of estate management charges: consultation requirements[^c-fe10cf492c471ab7a67f1c8d163f1c1c]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe10cf492c471ab7a67f1c8d163f1c1c]: Commencement: S. 75 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-fe10cf492c471ab7a67f1c8d163f1c1c]: Commencement: S. 75 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32ZG. Payment, enforcement and cancellation of civil penalty[^key-5bec75ee798e93e3a458f97685a9c96e]
+## 32ZG. Payment, enforcement and cancellation of civil penalty[^c-5bec75ee798e93e3a458f97685a9c96e]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) the person makes an application for registration at any time before the time for payment of the civil penalty in paragraph (1) or (2) has elapsed;
 - (b) the registration officer is satisfied that—
-  - (i) the person is not entitled to be registered at the address in respect of which[^key-e23b13a0ede1caa55ac01edbb40080ba] the invitations to register were given; or
+  - (i) the person is not entitled to be registered at the address in respect of which[^c-e23b13a0ede1caa55ac01edbb40080ba] the invitations to register were given; or
   - (ii) the person is registered at a different address; or
 - (c) any of the requirements in regulation 32ZE(2) has not been met.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5bec75ee798e93e3a458f97685a9c96e]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3206/regulation/22) (as amended by [S.I. 2014/1250](https://www.legislation.gov.uk/uksi/2014/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1250/regulation/4))
+[^c-5bec75ee798e93e3a458f97685a9c96e]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3206/regulation/22) (as amended by [S.I. 2014/1250](https://www.legislation.gov.uk/uksi/2014/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1250/regulation/4))
 
-[^key-e23b13a0ede1caa55ac01edbb40080ba]: Textual amendment: Words in [reg. 32ZG(5)(b)(i)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZG/5/b/i) substituted (27.4.2017) by [The Representation of the People (Scotland) (Amendment) Regulations 2017 (S.I. 2017/604)](https://www.legislation.gov.uk/uksi/2017/604), [regs. 1](https://www.legislation.gov.uk/uksi/2017/604/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/604/regulation/11)
+[^c-e23b13a0ede1caa55ac01edbb40080ba]: Textual amendment: Words in [reg. 32ZG(5)(b)(i)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32ZG/5/b/i) substituted (27.4.2017) by [The Representation of the People (Scotland) (Amendment) Regulations 2017 (S.I. 2017/604)](https://www.legislation.gov.uk/uksi/2017/604), [regs. 1](https://www.legislation.gov.uk/uksi/2017/604/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/604/regulation/11)

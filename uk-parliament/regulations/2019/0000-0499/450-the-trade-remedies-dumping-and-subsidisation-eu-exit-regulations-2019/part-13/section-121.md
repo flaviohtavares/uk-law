@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121.[^key-c9ad38adb88497f7c2bfbd3bfd67891a]
+## 121.[^c-c9ad38adb88497f7c2bfbd3bfd67891a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ Regulation 75 (TRA recommendation to the Secretary of State) has effect as if—
 
 ## Annotations
 
-[^key-c9ad38adb88497f7c2bfbd3bfd67891a]: Commencement: Reg. 121 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c9ad38adb88497f7c2bfbd3bfd67891a]: Commencement: Reg. 121 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

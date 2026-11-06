@@ -44,7 +44,7 @@ summary: ''
 - (b) subject to an interim order or voluntary arrangement under Part 8; or
 - (c) subject to a bankruptcy restrictions order or a debt relief restrictions order.
 
-**3.**[^key-b8e55201acc3aef815868ba3a51fc95c] A bankruptcy application under Part 9—
+**3.**[^c-b8e55201acc3aef815868ba3a51fc95c] A bankruptcy application under Part 9—
 
 - (a) has not been made before the determination date; or
 - (b) has been so made, but proceedings on the application have been finally disposed of before that date.
@@ -110,4 +110,4 @@ summary: ''
 
 [^c19790081]: Textual amendment: Sch. 4ZA inserted (24.2.2009 for certain purposes otherwise 6.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/108/2), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 18](https://www.legislation.gov.uk/ukpga/2007/15/schedule/18); [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 
-[^key-b8e55201acc3aef815868ba3a51fc95c]: Textual amendment: Sch. 4ZA para. 3 substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 62](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/62); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-b8e55201acc3aef815868ba3a51fc95c]: Textual amendment: Sch. 4ZA para. 3 substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 62](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/62); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

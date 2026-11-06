@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Temporary use of land for maintaining the authorised development[^key-90c157511c0adceb8f9f1eeb6b8406ce]
+## 39. Temporary use of land for maintaining the authorised development[^c-90c157511c0adceb8f9f1eeb6b8406ce]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90c157511c0adceb8f9f1eeb6b8406ce]: Commencement: Art. 39 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-90c157511c0adceb8f9f1eeb6b8406ce]: Commencement: Art. 39 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

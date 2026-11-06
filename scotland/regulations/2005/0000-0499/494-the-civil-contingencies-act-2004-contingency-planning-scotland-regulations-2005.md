@@ -48,11 +48,11 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-6b7f2e8b94c1880e433b147bc34a9abd]
+### 1. Citation and commencement[^c-6b7f2e8b94c1880e433b147bc34a9abd]
 
 These Regulations may be cited as the Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Regulations 2005 and come into force on 14th November 2005. .
 
-### 2. Interpretation[^key-9214cf5574c366ef3f7cacdd4728eadf]
+### 2. Interpretation[^c-9214cf5574c366ef3f7cacdd4728eadf]
 
 (1) In these Regulations–
 
@@ -61,12 +61,12 @@ These Regulations may be cited as the Civil Contingencies Act 2004 (Contingency 
   - (a) the Security Service;
   - (b) the Secret Intelligence Service;
   - (c) the Government Communications Headquarters;
-  - (d) the Serious Organised Crime Agency[^key-29b714b86391ed25de3bc37d89014595];
+  - (d) the Serious Organised Crime Agency[^c-29b714b86391ed25de3bc37d89014595];
 - “Category 1 responder” means a body or person listed in Part 1 or 2 of Schedule 1;
 - “Category 2 responder” means a general Category 2 responder or a Scottish Category 2 responder;
 - “community risk register” has the meaning given by regulation 12;
-- “co-ordination area” means any of the following areas comprising the local government areas (as defined by section 1 of, and Schedule 1 to, the Local Government[^key-dd090895654a98ff78e16d82303c358f] etc. (Scotland) Act 1994 and as adjusted under section 17 of the Local Government (Scotland) Act 1973)—
-  - (a) Argyll and Bute, City of Glasgow, Dumbarton and Clydebank, Dumfries and Galloway, East Ayrshire, East Dunbartonshire, East Renfrewshire, Inverclyde, North Ayrshire, North Lanarkshire, Renfrewshire, South Ayrshire and South Lanarkshire;[^key-a991ee1a60e3cdc16abd3bc1c3fd6fa8]
+- “co-ordination area” means any of the following areas comprising the local government areas (as defined by section 1 of, and Schedule 1 to, the Local Government[^c-dd090895654a98ff78e16d82303c358f] etc. (Scotland) Act 1994 and as adjusted under section 17 of the Local Government (Scotland) Act 1973)—
+  - (a) Argyll and Bute, City of Glasgow, Dumbarton and Clydebank, Dumfries and Galloway, East Ayrshire, East Dunbartonshire, East Renfrewshire, Inverclyde, North Ayrshire, North Lanarkshire, Renfrewshire, South Ayrshire and South Lanarkshire;[^c-a991ee1a60e3cdc16abd3bc1c3fd6fa8]
   - (b) City of Edinburgh, Clackmannan, East Lothian, Falkirk, Fife, Midlothian, Stirling, The Borders and West Lothian; or
   - (c) Aberdeenshire, Angus, City of Aberdeen, City of Dundee, Highland, Moray, Orkney Islands, Perthshire and Kinross, Shetland Islands and Western Isles;
 - “emergency” has the meaning given by section 1(1);
@@ -78,7 +78,7 @@ These Regulations may be cited as the Civil Contingencies Act 2004 (Contingency 
   - (c) a body or person listed in paragraph 26 of Part 3 of Schedule 1 which is a relevant airport authority; and
   - (d) a person or body listed in paragraph 27 of Part 3 of Schedule 1 which is a relevant harbour authority;
 - “non lead Category 1 responders” has the meaning given in regulation 6(3);
-- “Regional Resilience Partnership” has the meaning given by regulation 3(3);[^key-ed4221be53353b2547b1dbcac5d6ae26]
+- “Regional Resilience Partnership” has the meaning given by regulation 3(3);[^c-ed4221be53353b2547b1dbcac5d6ae26]
 - “relevant airport operator” means an airport operator, within the meaning of section 82(1) of the Airports Act 1986[^f00003], which is responsible for an airport through which, in the most recent year for which data is available, at least 50,000 passengers or 10,000 tonnes of freight and mail were transported;
 - “relevant harbour authority” means a harbour authority, within the meaning of section 46(1) of the Aviation and Maritime Security Act 1990[^f00004], which is responsible for a harbour through which the average annual maritime traffic, calculated by reference to the most recent three years for which data is available, is at least 1.5 million tonnes of cargo or 200,000 passengers;
 - “relevant railway operator” means a person who holds a licence under section 8 of the Railways Act 1993[^f00005] (operation of railway assets) in so far the licence relates to activity in Great Britain and in so far as the licence held is–
@@ -95,16 +95,16 @@ These Regulations may be cited as the Civil Contingencies Act 2004 (Contingency 
   - (ii) a body or person listed in paragraph 36 of Part 4 of Schedule 1 which is a relevant airport operator; and
   - (iii) a body or person listed in paragraph 37 of Part 4 of Schedule 1 which is a relevant harbour authority;
 - “Sensitive information” has the meaning given by regulation 39;
-- [^key-ebfc8bf34247ce3afe4c4070e21a05c6]...
+- [^c-ebfc8bf34247ce3afe4c4070e21a05c6]...
 - “voluntary organisation” means a body (other than a Scottish public or local authority) whose activities are not carried on for profit.
 
 (2) In these Regulations, unless otherwise specified, any reference to a section, Part or Schedule is a reference to that section or Part of, or Schedule to, the Act.
 
 ## PART 2 — General
 
-### 3. Co-operation and Regional Resilience Partnership[^key-15f2e6574ee4f8eef6d615f261d61def][^key-347bfaf8b3e00e3b0a0f09408fb3cee2]
+### 3. Co-operation and Regional Resilience Partnership[^c-15f2e6574ee4f8eef6d615f261d61def][^c-347bfaf8b3e00e3b0a0f09408fb3cee2]
 
-(1) Scottish Category 1 responders which have functions which are exercisable in a particular co-ordination area[^key-c0954edd3089988edd9b302056fc81ea] must co operate with each other and with general Category 1 responders which have functions which are exercisable in that area in connection with the performance of their duties under section 2(1).
+(1) Scottish Category 1 responders which have functions which are exercisable in a particular co-ordination area[^c-c0954edd3089988edd9b302056fc81ea] must co operate with each other and with general Category 1 responders which have functions which are exercisable in that area in connection with the performance of their duties under section 2(1).
 
 (2) The co-operation referred to in paragraph (1)–
 
@@ -131,18 +131,18 @@ These Regulations may be cited as the Civil Contingencies Act 2004 (Contingency 
 - (b) make arrangements for a Scottish or general Category 2 responder to attend any such meetings where the Scottish or general Category 2 responder wishes to do so; and
 - (c) consider whether a Scottish or general Category 2 responder should be asked to attend such a meeting.
 
-### 4. Co operation with general Category 1 responders[^key-d31843c574d52af9e854310e69fd9aae]
+### 4. Co operation with general Category 1 responders[^c-d31843c574d52af9e854310e69fd9aae]
 
 A Scottish Category 1 responder or a Scottish Category 2 responder may co operate with a general Category 1 responder in connection with the performance by that general Category 1 responder of a duty under section 2(1).
 
-### 5. Joint discharge of functions etc.[^key-262e3fa24ffadd4bb428c46add8a831c]
+### 5. Joint discharge of functions etc.[^c-262e3fa24ffadd4bb428c46add8a831c]
 
 Each Scottish Category 1 responder may–
 
 - (a) make arrangements with another responder for the performance of a duty of the Scottish Category 1 responder under section 2(1) jointly with that other responder;
 - (b) make arrangements with another responder for that responder to perform such a duty on behalf of the Scottish Category 1 responder.
 
-### 6. Identification of Category 1 responder with lead responsibility[^key-650b899b5cf0fce837d563fcc76f6fe1]
+### 6. Identification of Category 1 responder with lead responsibility[^c-650b899b5cf0fce837d563fcc76f6fe1]
 
 (1) If more than one Category 1 responder which has functions which are exercisable in a particular co-ordination area is subject to a particular duty under section 2(1)(a) to (f) in relation to an emergency or an emergency of a particular kind, paragraph (2) applies.
 
@@ -150,7 +150,7 @@ Each Scottish Category 1 responder may–
 
 (3) If, pursuant to paragraph (2) and analogous provision in regulations made by a Minister of the Crown under Part 1, one of the Scottish or general Category 1 responders referred to in paragraph (1) is identified as being the Category 1 responder with lead responsibility for performing a duty under section 2(1)(a) to (f) in relation to an emergency or an emergency of a particular kind in a particular co-ordination area, the other Category 1 responders in that co-ordination area which are subject to that duty in relation to that emergency or an emergency of that particular kind are referred to in these regulations as “non-lead Category 1 responders”.
 
-### 7. Role of Scottish Category 1 responder with lead responsibility[^key-4a3e8d4021bee7ec4ff3cd365e07d62a]
+### 7. Role of Scottish Category 1 responder with lead responsibility[^c-4a3e8d4021bee7ec4ff3cd365e07d62a]
 
 If, pursuant to regulation 6, a Scottish Category 1 responder has been identified as the Category 1 responder with lead responsibility in a particular co-ordination area for the performance of a particular duty under section 2(1)(a) to (f) in relation to an emergency or an emergency of a particular kind, that Scottish Category 1 responder must–
 
@@ -163,7 +163,7 @@ If, pursuant to regulation 6, a Scottish Category 1 responder has been identifie
 - (c) ensure that those non lead Category 1 responders are kept informed of how the Scottish Category 1 responder with the lead responsibility is performing the duty; and
 - (d) co-operate with those non lead Category 1 responders (and in particular, co-operate for the purpose of ensuring so far as is reasonably practicable that those non-lead Category 1 responders approve of the way in which the Scottish Category 1 responder with lead responsibility is performing the duty).
 
-### 8. Role of Scottish Category 1 responders which do not have lead responsibility[^key-1e6cc957dca14388f074753bd212c18a]
+### 8. Role of Scottish Category 1 responders which do not have lead responsibility[^c-1e6cc957dca14388f074753bd212c18a]
 
 (1) Paragraph (2) applies if a Scottish Category 1 responder has been identified as the responder with lead responsibility in a co-ordination area for the performance of a particular duty under section 2(1)(a) to (f) in relation to an emergency or an emergency of a particular kind under regulation 6 or, in the case of a general Category 1 responder, under an analogous provision in regulations made by a Minister of the Crown under Part 1.
 
@@ -174,21 +174,21 @@ If, pursuant to regulation 6, a Scottish Category 1 responder has been identifie
 - (c) must assist the Scottish or general Category 1 responder with lead responsibility for performing that duty with any exercises or training that that Scottish or general Category 1 responder wishes to carry out in connection with that duty; and
 - (d) need not perform that duty to the extent that to do so would unnecessarily duplicate the performance of that duty by the Scottish or general Category 1 responder which has lead responsibility for performing that duty in that co-ordination area.
 
-### 9. Existing emergency planning duties[^key-57589f0e54948fb47da08d4d29c0ac41]
+### 9. Existing emergency planning duties[^c-57589f0e54948fb47da08d4d29c0ac41]
 
 Scottish Category 1 responders need not perform a duty under section 2(1) in relation to any emergency which is–
 
-- (a) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^key-8777f7cb58d387fcd6b678f67e96fdea], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
+- (a) a major accident, within the meaning of regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^c-8777f7cb58d387fcd6b678f67e96fdea], resulting from developments in the course of the operation of an establishment to which Part 2 of those Regulations applies;
 - (b) a major accident, within the meaning of regulation 2(1) of the Pipelines Safety Regulations 1996[^f00007], involving a dangerous fluid (within the meaning of those Regulations) which is in, or has been conveyed in, a pipeline to which those Regulations apply; or
-- (c) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-88b27cf31f4d815f0ecc0de2a2edad06], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply.
+- (c) a radiation emergency, within the meaning of regulation 2 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-88b27cf31f4d815f0ecc0de2a2edad06], which results from work with ionising radiation (within the meaning of those Regulations) to which those Regulations apply.
 
 ## PART 3 — Duty to assess risk of emergency occurring
 
-### 10. Kinds of emergency in relation to which risk should be assessed[^key-6e1d21ad1d0441cfd30be98e3ab5ac64]
+### 10. Kinds of emergency in relation to which risk should be assessed[^c-6e1d21ad1d0441cfd30be98e3ab5ac64]
 
 A Scottish Category 1 responder need only perform the duty under section 2(1)(a) (duty to assess risk of emergency occurring) in relation to an emergency which affects or may affect the area in which the functions of the Scottish Category 1 responder are exercisable.
 
-### 11. Guidance and risk assessments issued by Scottish Ministers[^key-7e4e70c3a91c76ad8939f1f142d3ce41]
+### 11. Guidance and risk assessments issued by Scottish Ministers[^c-7e4e70c3a91c76ad8939f1f142d3ce41]
 
 (1) The Scottish Ministers may issue to Scottish Category 1 responders (or any class of Scottish Category 1 responders) guidance as to–
 
@@ -204,7 +204,7 @@ A Scottish Category 1 responder need only perform the duty under section 2(1)(a)
 
 (4) Any guidance issued under paragraph (1) or assessment issued under paragraph (2) must be in writing.
 
-### 12. Community risk register[^key-d055b0c4977f06d8428e5c822892eb72]
+### 12. Community risk register[^c-d055b0c4977f06d8428e5c822892eb72]
 
 (1) As part of the Regional Resilience Partnership, Scottish Category 1 responders which have functions which are exercisable in a particular co-ordination area must co-operate with each other and with general Category 1 responders which have functions which are exercisable in maintaining a register (“the community risk register”) of the assessment carried out by each Scottish Category 1 responder under section 2(1)(a).
 
@@ -219,22 +219,22 @@ A Scottish Category 1 responder need only perform the duty under section 2(1)(a)
 
 ## PART 4 — Duty to maintain plans
 
-### 13. Risk assessment[^key-c9a215b202cf22629f2c1d831d990862]
+### 13. Risk assessment[^c-c9a215b202cf22629f2c1d831d990862]
 
 In performing its duty under section 2(1)(c) and (d) (duty to plan to continue to perform functions or to respond, should an emergency occur), a Scottish Category 1 responder must have regard to any relevant assessment of risk which it has carried out under section 2(1)(a) or (b).
 
-### 14. Arrangements to warn, inform and advise the public[^key-87b5dd705107bcabead9795ef0905afa]
+### 14. Arrangements to warn, inform and advise the public[^c-87b5dd705107bcabead9795ef0905afa]
 
 In performing its duty under section 2(1)(d), a Scottish Category 1 responder must have regard to any relevant arrangements which it maintains under section 2(1)(g) (arrangements to warn the public, and to provide information and advice to the public, if an emergency is likely to occur or has occurred).
 
-### 15. General and specific plans[^key-aa3b741fbcae0faba3950fd437df614b]
+### 15. General and specific plans[^c-aa3b741fbcae0faba3950fd437df614b]
 
 In performing its duties under section 2(1)(c) and (d), a Scottish Category 1 responder–
 
 - (a) may maintain plans which relate to a particular emergency or a particular kind of emergency; and
 - (b) must maintain plans which relate to more than one emergency or more that one kind of emergency.
 
-### 16. Multi-agency plans[^key-94b3bffe6369d1224f90e8689c5491dd]
+### 16. Multi-agency plans[^c-94b3bffe6369d1224f90e8689c5491dd]
 
 (1) Scottish Category 1 responders which have–
 
@@ -245,7 +245,7 @@ must consider whether it would be appropriate to perform that duty in relation t
 
 (2) In paragraph (1), a “multi-agency plan” means a plan maintained by more than one Scottish Category 1 responder acting jointly.
 
-### 17. Voluntary organisations[^key-f2caa37bde0890b290a6310a946702c1]
+### 17. Voluntary organisations[^c-f2caa37bde0890b290a6310a946702c1]
 
 (1) In performing its duty under section 2(1)(c) or (d) (duty to plan to continue to perform functions or to respond, should an emergency occur), a Scottish Category 1 responder must have regard to the activities of voluntary organisations which carry on activities–
 
@@ -260,7 +260,7 @@ must consider whether it would be appropriate to perform that duty in relation t
 
 (3) For the purposes of paragraph (2), it is immaterial if the voluntary organisation also carries on activities for other purposes.
 
-### 18. Procedure for determining whether an emergency has occurred[^key-962585860f845c96935cab4fad29d862]
+### 18. Procedure for determining whether an emergency has occurred[^c-962585860f845c96935cab4fad29d862]
 
 (1) Any plan maintained by a Scottish Category 1 responder by virtue of section 2(1)(c) must include a procedure for determining whether an emergency has occurred which is likely to seriously obstruct the Scottish Category 1 responder in the performance of its functions.
 
@@ -276,7 +276,7 @@ must consider whether it would be appropriate to perform that duty in relation t
 - (c) specify the persons who should be consulted before such a decision is taken; and
 - (d) specify the persons who should be informed once such a decision is taken.
 
-### 19. Training and exercises[^key-05f0b0d672eb32e3b2f653607d7126f5]
+### 19. Training and exercises[^c-05f0b0d672eb32e3b2f653607d7126f5]
 
 Every plan maintained by a Scottish Category 1 responder by virtue of section 2(1)(c) or (d) must include arrangements for–
 
@@ -287,34 +287,34 @@ Every plan maintained by a Scottish Category 1 responder by virtue of section 2(
 
   for the purposes of ensuring that those persons can carry out plans maintained by virtue of section (2)(1)(c) or (d) effectively.
 
-### 20. Plan revision[^key-a3d4bb94d6d74f31d7a4e7b46a27181e]
+### 20. Plan revision[^c-a3d4bb94d6d74f31d7a4e7b46a27181e]
 
 If the Scottish Ministers issue guidance or an assessment under regulation 11 to a Scottish Category 1 responder, that responder must consider whether that guidance or assessment makes it necessary or expedient to add to or modify plans maintained under section 2(1)(c) or (d).
 
 ## PART 5 — Publication of plans and assessments
 
-### 21. Alarming the public unnecessarily[^key-ff9c2a9cb34aaaa253101e5b3a257163]
+### 21. Alarming the public unnecessarily[^c-ff9c2a9cb34aaaa253101e5b3a257163]
 
 In performing its duty under section 2(1)(f) (duty to arrange for the publication of assessments and plans), a Scottish Category 1 responder must have regard to the importance of not alarming the public unnecessarily.
 
 ## PART 6 — Arrangements for warning and provision of information and advice to the public
 
-### 22. Duty to have regard to emergency plans[^key-5e1550c97d286f74971b7d5f76b00dec]
+### 22. Duty to have regard to emergency plans[^c-5e1550c97d286f74971b7d5f76b00dec]
 
 In performing its duty under section 2(1)(g) (duty to maintain arrangements to warn, inform and advise the public in the event of an emergency), a Scottish Category 1 responder must have regard to any relevant plan it maintains by virtue of section 2(1)(d).
 
-### 23. General and specific arrangements to warn etc.[^key-a8363a05e1060071d6f4493678b46483]
+### 23. General and specific arrangements to warn etc.[^c-a8363a05e1060071d6f4493678b46483]
 
 In performing its duty under section 2(1)(g), a Scottish Category 1 responder may–
 
 - (a) maintain arrangements which relate to any emergency; and
 - (b) maintain arrangements which relate to a particular emergency or an emergency of a particular kind.
 
-### 24. Alarming the public unnecessarily[^key-68b330a74a909bf377079ded3ff27ff5]
+### 24. Alarming the public unnecessarily[^c-68b330a74a909bf377079ded3ff27ff5]
 
 In performing its duty under section 2(1)(g), a Scottish Category 1 responder must have regard to the importance of not alarming the public unnecessarily.
 
-### 25. Training and exercises[^key-7220cad16a5fc213e98578416cb0c1e0]
+### 25. Training and exercises[^c-7220cad16a5fc213e98578416cb0c1e0]
 
 The arrangements maintained by a Scottish Category 1 responder under section 2(1)(g) must include arrangements for–
 
@@ -325,7 +325,7 @@ The arrangements maintained by a Scottish Category 1 responder under section 2(1
 
   for the purpose of ensuring that the arrangements can be implemented effectively.
 
-### 26. Identification of Category 1 responder with lead responsibility for warning, informing and advising[^key-6c52748257a03480aba8b50ff286a7b1]
+### 26. Identification of Category 1 responder with lead responsibility for warning, informing and advising[^c-6c52748257a03480aba8b50ff286a7b1]
 
 (1) If more than one Category 1 responder which has functions which are exercisable in a particular co-ordination area is subject to a duty under section 2(1)(g) in relation to an emergency or an emergency of a particular kind, paragraph (2) applies.
 
@@ -337,7 +337,7 @@ The arrangements maintained by a Scottish Category 1 responder under section 2(1
 - (b) may adopt a procedure by virtue of which the Category 1 responder with lead responsibility for warning the public and providing information and advice to the public may be identified when an emergency, or an emergency of a particular kind, is likely to occur or has occurred; and
 - (c) may adopt a procedure by virtue of which the identity of the Category 1 responder with lead responsibility for warning the public and providing information and advice to the public (whether identified by virtue of arrangements of the kind specified in sub paragraph (a) or (b)) may be changed when an emergency is likely to occur or has occurred.
 
-### 27. Arrangements to be maintained by Scottish Category 1 responder with lead responsibility[^key-4aeda54063a52940fd2572a26ac1db5c]
+### 27. Arrangements to be maintained by Scottish Category 1 responder with lead responsibility[^c-4aeda54063a52940fd2572a26ac1db5c]
 
 (1) The arrangements maintained under section 2(1)(g) by a Scottish Category 1 responder which is, pursuant to regulation 26 or any analogous provision of regulations made by the Minister of the Crown under Part 1, identified as the Category 1 responder with lead responsibility for warning the public and providing advice and information to the public in a particular co-ordination area if an emergency or an emergency of a particular kind is likely to occur or has occurred, must ensure so far as reasonably practicable that if such an emergency is likely to occur or occurs that Scottish Category 1 responder–
 
@@ -347,14 +347,14 @@ The arrangements maintained by a Scottish Category 1 responder under section 2(1
 
 (2) Paragraph (1) also applies to a Scottish Category 1 responder which is likely to be identified as the Category 1 responder with lead responsibility for warning the public and providing advice and information to the public in a particular co-ordination area if an emergency or an emergency of a particular kind is likely to occur or has occurred by virtue of procedures adopted pursuant to regulation 26(2) and (3)(b) or (c).
 
-### 28. Arrangements to be maintained by other Scottish Category 1 responders[^key-c65e7a48bcfd7496496e0bd740840f17]
+### 28. Arrangements to be maintained by other Scottish Category 1 responders[^c-c65e7a48bcfd7496496e0bd740840f17]
 
 The arrangements maintained by a Scottish Category 1 responder under section 2(1)(g) in relation to an emergency or an emergency of a particular kind in relation to which it is not the Category 1 responder with lead responsibility for warning the public and providing advice and information to the public must provide for that Scottish Category 1 responder–
 
 - (a) to consult the Scottish or general Category 1 responder with lead responsibility for warning the public and providing advice and information to the public in that co-ordination area in relation to that emergency or an emergency of that particular kind on a regular basis; and
 - (b) to inform the Scottish or general Category 1 responder referred to in paragraph (a) of the actions that it is taking and action that it proposes to take to warn the public, and to provide information and advice to the public.
 
-### 29. Advice etc. provided by other responders and other bodies[^key-407144fe910aac9ba99f18542ae75b9d]
+### 29. Advice etc. provided by other responders and other bodies[^c-407144fe910aac9ba99f18542ae75b9d]
 
 (1) In performing its duty under section 2(1)(g), Scottish Category 1 responders–
 
@@ -364,14 +364,14 @@ The arrangements maintained by a Scottish Category 1 responder under section 2(1
   - (iii) the Meteorological Office;
   - (iv) Scottish Ministers;
   - (v) the Secretary of State;
-  - (vi) the Food Standards Scotland[^key-07f026afadd17b8811a863b638d1a372]; and
+  - (vi) the Food Standards Scotland[^c-07f026afadd17b8811a863b638d1a372]; and
 - (b) need not maintain arrangements to warn the public, and to provide information and advice to the public which would unnecessarily duplicate the warning, information and advice provided by those persons under those arrangements.
 
 (2) For the purposes of paragraph (1), it is immaterial whether the person specified in paragraph (1)(a) maintains the arrangements by virtue of section 2(1)(g), a duty under another enactment or otherwise.
 
 ## PART 7 — Advice and assistance to business and voluntary organisations
 
-### 30. Interpretation of Part 7[^key-29c3a0ff873b32a2bff51347336351e4]
+### 30. Interpretation of Part 7[^c-29c3a0ff873b32a2bff51347336351e4]
 
 In this Part of the Regulations–
 
@@ -379,7 +379,7 @@ In this Part of the Regulations–
 - (b) “advice and assistance to business” means advice and assistance to the public in connection with the making of arrangements for the continuance of the commercial activities by the public in the event of an emergency; and any reference to “a business” means a member of the public who carries on commercial activities; and
 - (c) “advice and assistance to voluntary organisations” means advice and assistance to voluntary organisations in connection with the making of arrangements by voluntary organisations for the continuance of their activities in the event of an emergency.
 
-### 31. Transitional provision[^key-21a417fcd37d3547ee13f48c7c359446]
+### 31. Transitional provision[^c-21a417fcd37d3547ee13f48c7c359446]
 
 Until 15th May 2006, these Regulations shall have effect as if–
 
@@ -387,11 +387,11 @@ Until 15th May 2006, these Regulations shall have effect as if–
 - (b) each reference to the duty under section 4(1) were a reference to the power under section 4(1); and
 - (c) in regulation 33(3)(a), for “must” there were substituted “may”.
 
-### 32. Risk assessment[^key-752db606455ed4534186ce5ac8f7e99a]
+### 32. Risk assessment[^c-752db606455ed4534186ce5ac8f7e99a]
 
 In performing its duty under section 4(1) (duty to give advice and assistance to business and voluntary organisations), a relevant responder must take into account any relevant community risk register maintained by virtue of regulation 12.
 
-### 33. Extent of the duty under section 4(1) in relation to business[^key-7fa3cb81f759af748c5bc7897fe861f7]
+### 33. Extent of the duty under section 4(1) in relation to business[^c-7fa3cb81f759af748c5bc7897fe861f7]
 
 (1) This regulation applies to the duty of a relevant responder under section 4(1) in so far as it relates to advice and assistance to business.
 
@@ -410,7 +410,7 @@ In performing its duty under section 4(1) (duty to give advice and assistance to
 - (a) is competent to provide advice and assistance to business; and
 - (b) has experience of so doing.
 
-### 34. Extent of the duty under section 4(1) in relation to voluntary organisations[^key-eadd63971ef2c040f18b73711abcc8f9]
+### 34. Extent of the duty under section 4(1) in relation to voluntary organisations[^c-eadd63971ef2c040f18b73711abcc8f9]
 
 (1) This regulation applies to the duty of a relevant responder under section 4(1) in so far as it relates to advice and assistance provided to voluntary organisations.
 
@@ -441,7 +441,7 @@ In performing its duty under section 4(1) (duty to give advice and assistance to
 - (d) the turnover of the organisation; and
 - (e) the nature of the organisation, and in particular whether the nature of the organisation is such that the advice and assistance provided by the relevant responder is likely to improve the ability of the organisation to continue to carry on its activities in the event of an emergency.
 
-### 35. Co-operation, relevant responder with lead responsibility etc.[^key-0b895721955a74ac2a674d9da1086dc2]
+### 35. Co-operation, relevant responder with lead responsibility etc.[^c-0b895721955a74ac2a674d9da1086dc2]
 
 (1) Relevant responders which have functions which are exercisable in a particular co-ordination area must co operate with each other in connection with the performance of their duties under section 4(1).
 
@@ -457,11 +457,11 @@ In performing its duty under section 4(1) (duty to give advice and assistance to
 - (a) each reference to a Category 1 responder or a general Category 1 responder were a reference to a relevant responder; and
 - (b) each reference to a duty under section 2(1)(a) to (f) were a reference to the duty under section 4(1) in relation to an emergency or an emergency of a particular kind.
 
-### 36. Cross border co-operation with relevant responders in England and Wales[^key-cda0c7ccfa0131eb35d8ab6c25f0481e]
+### 36. Cross border co-operation with relevant responders in England and Wales[^c-cda0c7ccfa0131eb35d8ab6c25f0481e]
 
 A Scottish Category 1 responder or a Scottish Category 2 responder may co-operate with a body which is listed in paragraph 1 or 2 of Schedule 1 (local authority in England and Wales) in connection with the performance by that body of the duty under section 4(1).
 
-### 37. Activities of other responders[^key-499053379376e57a2a510a232b621336]
+### 37. Activities of other responders[^c-499053379376e57a2a510a232b621336]
 
 (1) In performing its duty under section 4(1), a relevant responder–
 
@@ -470,7 +470,7 @@ A Scottish Category 1 responder or a Scottish Category 2 responder may co-operat
 
 (2) For the purposes of paragraph (1), it is immaterial whether the advice and assistance provided by another responder is provided by virtue of section 4(1), a duty under another enactment or otherwise.
 
-### 38. Charging[^key-2b68cfbfdf2abda7dc35e3d8dac25dec]
+### 38. Charging[^c-2b68cfbfdf2abda7dc35e3d8dac25dec]
 
 Relevant responders may charge for any advice or assistance (including advice and assistance which it is required to provide under regulation 33(3)(a)) provided on request under section 4(1) but that charge must not exceed the aggregate of–
 
@@ -479,51 +479,51 @@ Relevant responders may charge for any advice or assistance (including advice an
 
 ## PART 8 — Information
 
-### 39. Sensitive information[^key-3125307b61e52de97acc9de5d06da8d6]
+### 39. Sensitive information[^c-3125307b61e52de97acc9de5d06da8d6]
 
 (1) In these Regulations, “sensitive information” means information which is not reasonably accessible to the public and which is–
 
 - (a) information the disclosure of which to the public would, or would be likely to, adversely affect national security;
 - (b) information the disclosure of which to the public would, or would be likely to, adversely affect public safety;
 - (c) information, disclosure of which to the public would or would be likely to prejudice the commercial interests of the person to whom that information relates; or
-- (d) information which is personal data[^key-d6e49328883f352d0a7e951279f752f2]... if the condition in paragraph (1A), (1B) or (1C)[^key-5f315e05b4c1f33c19c05cb88b17478d] is satisfied.
+- (d) information which is personal data[^c-d6e49328883f352d0a7e951279f752f2]... if the condition in paragraph (1A), (1B) or (1C)[^c-5f315e05b4c1f33c19c05cb88b17478d] is satisfied.
 
-(1A)[^key-2769bbfe0e5cdcf7e59a216e81a91610] The condition in this paragraph is that the disclosure of the information to a member of the public—
+(1A)[^c-2769bbfe0e5cdcf7e59a216e81a91610] The condition in this paragraph is that the disclosure of the information to a member of the public—
 
 - (a) would contravene any of the data protection principles, or
 - (b) would do so if the exemptions in section 24(1) of the Data Protection Act 2018 (manual unstructured data held by public authorities) were disregarded.
 
 (1B) The condition in this paragraph is that the disclosure of the information to a member of the public would contravene—
 
-- (a) Article 21 of the UK GDPR[^key-54e850843d4775d2ec5c443b0494e09f] (general processing: right to object to processing), or
+- (a) Article 21 of the UK GDPR[^c-54e850843d4775d2ec5c443b0494e09f] (general processing: right to object to processing), or
 - (b) section 99 of the Data Protection Act 2018 (intelligence services processing: right to object to processing).
 
 (1C) The condition in this paragraph is that—
 
-- (a) on a request under Article 15(1) of the UK GDPR[^key-b4358897ec85523455538d4ab50cdd3b] (general processing: right of access by the data subject) for access to personal data, the information would be withheld in reliance on provision made by or under section 15, 16 or 26 of, or Schedule 2, 3 or 4 to, the Data Protection Act 2018,
+- (a) on a request under Article 15(1) of the UK GDPR[^c-b4358897ec85523455538d4ab50cdd3b] (general processing: right of access by the data subject) for access to personal data, the information would be withheld in reliance on provision made by or under section 15, 16 or 26 of, or Schedule 2, 3 or 4 to, the Data Protection Act 2018,
 - (b) on a request under section 45(1)(b) of that Act (law enforcement processing: right of access by the data subject), the information would be withheld in reliance on subsection (4) of that section, or
 - (c) on a request under section 94(1)(b) of that Act (intelligence services processing: rights of access by the data subject), the information would be withheld in reliance on a provision of Chapter 6 of Part 4 of that Act.
 
 (1D) In this regulation—
 
 - “**the data protection principles**” means the principles set out in—
-  - (a) Article 5(1) of the UK GDPR[^key-ff16dd83c2269d51ac1cf249a9dd91ec],
+  - (a) Article 5(1) of the UK GDPR[^c-ff16dd83c2269d51ac1cf249a9dd91ec],
   - (b) section 34(1) of the Data Protection Act 2018, and
   - (c) section 85(1) of that Act;
 - “**data subject**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
-- [^key-c4129926b9ca43f94f75500baac73c8a]...
+- [^c-c4129926b9ca43f94f75500baac73c8a]...
 - “**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
-- “[^key-dadb380ed6a26fa69fa30853f03eaf77]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+- “[^c-dadb380ed6a26fa69fa30853f03eaf77]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
 
-(1E) In determining for the purposes of this regulation whether the lawfulness principle in Article 5(1)(a) of the UK GDPR[^key-f364a3559595269cad5cb4af2345464a] would be contravened by the disclosure of information, Article 6(1) of the UK GDPR (lawfulness) is to be read as if the second sub-paragraph (disapplying the legitimate interests gateways[^key-0d661e1eb37bf61a38d3c7a151c70dd3] in relation to public authorities) disapplied only the gateway in point (ea) (recognised legitimate interests)[^key-6060130a497a70e0201fcbf11e45c388].
+(1E) In determining for the purposes of this regulation whether the lawfulness principle in Article 5(1)(a) of the UK GDPR[^c-f364a3559595269cad5cb4af2345464a] would be contravened by the disclosure of information, Article 6(1) of the UK GDPR (lawfulness) is to be read as if the second sub-paragraph (disapplying the legitimate interests gateways[^c-0d661e1eb37bf61a38d3c7a151c70dd3] in relation to public authorities) disapplied only the gateway in point (ea) (recognised legitimate interests)[^c-6060130a497a70e0201fcbf11e45c388].
 
-(2)[^key-aaa22b7122ef4338fce29d55189574fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aaa22b7122ef4338fce29d55189574fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-aaa22b7122ef4338fce29d55189574fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-aaa22b7122ef4338fce29d55189574fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-aaa22b7122ef4338fce29d55189574fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-aaa22b7122ef4338fce29d55189574fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Sensitive information – certificates in relation to national security[^key-7085c86091f7219cc589756f93fcb576]
+### 40. Sensitive information – certificates in relation to national security[^c-7085c86091f7219cc589756f93fcb576]
 
 (1) A certificate signed by a member of the Scottish Executive certifying that disclosure of information to the public would adversely affect national security is conclusive evidence of that fact.
 
@@ -533,7 +533,7 @@ Relevant responders may charge for any advice or assistance (including advice an
 
 (4) A document which purports to be certified by or on behalf of a member of the Scottish Executive as a true copy of a certificate issued by a member of the Scottish Executive under paragraph (1) shall in any legal proceedings be sufficient evidence (or in England and Wales evidence) of that certificate.
 
-### 41. Information sharing – making a request for information[^key-39fee9ef16836ad12872ddeb0861a9d4]
+### 41. Information sharing – making a request for information[^c-39fee9ef16836ad12872ddeb0861a9d4]
 
 (1) Paragraph (4) applies to a Category 1 responder or a Category 2 responder (referred to in this Part of the Regulations as the “requesting responder”) to the extent that it is satisfied that the conditions in paragraphs (2) and (3) are satisfied.
 
@@ -549,7 +549,7 @@ Relevant responders may charge for any advice or assistance (including advice an
 
 (4) To the extent that this paragraph applies, the requesting responder may make a request for the information to a Scottish Category 1 responder or a Scottish Category 2 responder (referred to in this Part of the Regulations as “the receiving responder”).
 
-### 42. Information sharing – procedure for making a request[^key-21b660299f2331c4a72c5d058ee6a95b]
+### 42. Information sharing – procedure for making a request[^c-21b660299f2331c4a72c5d058ee6a95b]
 
 (1) In this Part of the Regulations, a reference to a “request for information” is a reference to such a request which–
 
@@ -564,7 +564,7 @@ Relevant responders may charge for any advice or assistance (including advice an
 - (b) is received in legible form; and
 - (c) is capable of being used for subsequent reference.
 
-### 43. Information sharing – obligation to provide information[^key-16e7c6f9398013e8e65520a41817cefa]
+### 43. Information sharing – obligation to provide information[^c-16e7c6f9398013e8e65520a41817cefa]
 
 (1) Subject to paragraphs (2) and (4), the receiving responder must comply with a request for information.
 
@@ -579,14 +579,14 @@ the receiving responder must not comply with the request for information.
 
 (4) To the extent that the receiving responder is satisfied that a request for information relates to sensitive information which has been directly or indirectly supplied to the receiving responder by a body which deals with security matters, the receiving responder must not comply with the request unless that body has given its consent to the provision of the information to the requesting responder; such consent may contain conditions.
 
-### 44. Information sharing – response to request[^key-4d4ef3e30b2c0813901e1c96aa50a91c]
+### 44. Information sharing – response to request[^c-4d4ef3e30b2c0813901e1c96aa50a91c]
 
 The receiving responder must respond to the request for information–
 
 - (a) before the end of such reasonable period as may be specified by the requesting responder; and
 - (b) at such place as may be reasonably specified by that responder.
 
-### 45. Disclosure or publication of sensitive information[^key-b42afe2cfae622d91a76b01bff4858e8]
+### 45. Disclosure or publication of sensitive information[^c-b42afe2cfae622d91a76b01bff4858e8]
 
 (1) Except where required to do so under another provision of these Regulations, a general responder must not publish or disclose to any person sensitive information which–
 
@@ -621,7 +621,7 @@ unless paragraph (2) or (6) applies.
 - (c) the responder is satisfied that the public interest in publishing or disclosing the information outweighs the legitimate interests of the person to whom that information relates; and
 - (d) the responder has informed the person to whom the sensitive information relates of its intention to publish or disclose the information and its reasons for being satisfied of the matter specified in sub paragraph (c).
 
-### 46. Use of sensitive information[^key-3d8453a7fafc59c09073b0bf00550418]
+### 46. Use of sensitive information[^c-3d8453a7fafc59c09073b0bf00550418]
 
 (1) Subject to paragraph (2), sensitive information which a general responder has received–
 
@@ -649,7 +649,7 @@ may only be used by that responder for the purpose of performing the function fo
 
 (5) In this regulation, “use” does not include publication or disclosure.
 
-### 47. Security of sensitive information[^key-1687bcf995c6c5766c8ce18ff6d73d89]
+### 47. Security of sensitive information[^c-1687bcf995c6c5766c8ce18ff6d73d89]
 
 (1) This regulation applies to sensitive information–
 
@@ -700,19 +700,19 @@ Part 8 relates to information. Regulation 39 defines “sensitive information”
 
 [^f00001]: Footnote: [2004 c. 36](https://www.legislation.gov.uk/ukpga/2004/36). Section 2(5) has effect in relation to section 2(4) by virtue of subsection (6) of that section and with the modifications specified in subsection (6).
 
-[^key-6b7f2e8b94c1880e433b147bc34a9abd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-6b7f2e8b94c1880e433b147bc34a9abd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-9214cf5574c366ef3f7cacdd4728eadf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/494/regulation/2) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-9214cf5574c366ef3f7cacdd4728eadf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/494/regulation/2) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-29b714b86391ed25de3bc37d89014595]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1/d) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments) (Scotland) Order 2006 (S.S.I. 2006/129)](https://www.legislation.gov.uk/ssi/2006/129), [art. 1](https://www.legislation.gov.uk/ssi/2006/129/article/1), [sch. para. 9](https://www.legislation.gov.uk/ssi/2006/129/schedule/paragraph/9)
+[^c-29b714b86391ed25de3bc37d89014595]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1/d) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments) (Scotland) Order 2006 (S.S.I. 2006/129)](https://www.legislation.gov.uk/ssi/2006/129), [art. 1](https://www.legislation.gov.uk/ssi/2006/129/article/1), [sch. para. 9](https://www.legislation.gov.uk/ssi/2006/129/schedule/paragraph/9)
 
-[^key-dd090895654a98ff78e16d82303c358f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 27(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/27/2)
+[^c-dd090895654a98ff78e16d82303c358f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 27(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/27/2)
 
-[^key-a991ee1a60e3cdc16abd3bc1c3fd6fa8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) substituted (1.11.2013) by [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [regs. 1](https://www.legislation.gov.uk/ssi/2013/247/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/2/a)
+[^c-a991ee1a60e3cdc16abd3bc1c3fd6fa8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) substituted (1.11.2013) by [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [regs. 1](https://www.legislation.gov.uk/ssi/2013/247/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/2/a)
 
 [^f00002]: Footnote: Paragraph 29A was inserted by S.I. [2005/2043](https://www.legislation.gov.uk/uksi/2005/2043).
 
-[^key-ed4221be53353b2547b1dbcac5d6ae26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) inserted (1.11.2013) by [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [regs. 1](https://www.legislation.gov.uk/ssi/2013/247/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/2/b)
+[^c-ed4221be53353b2547b1dbcac5d6ae26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) inserted (1.11.2013) by [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [regs. 1](https://www.legislation.gov.uk/ssi/2013/247/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/2/b)
 
 [^f00003]: Footnote: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
@@ -720,130 +720,130 @@ Part 8 relates to information. Regulation 39 defines “sensitive information”
 
 [^f00005]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-ebfc8bf34247ce3afe4c4070e21a05c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) omitted (1.11.2013) by virtue of [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [regs. 1](https://www.legislation.gov.uk/ssi/2013/247/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/2/c)
+[^c-ebfc8bf34247ce3afe4c4070e21a05c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/494/regulation/2/1) omitted (1.11.2013) by virtue of [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [regs. 1](https://www.legislation.gov.uk/ssi/2013/247/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/2/c)
 
-[^key-15f2e6574ee4f8eef6d615f261d61def]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2005/494/regulation/3) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-15f2e6574ee4f8eef6d615f261d61def]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2005/494/regulation/3) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-347bfaf8b3e00e3b0a0f09408fb3cee2]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/ssi/2005/494) substituted (1.11.2013) by [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/3)
+[^c-347bfaf8b3e00e3b0a0f09408fb3cee2]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/ssi/2005/494) substituted (1.11.2013) by [The Civil Contingencies Act 2004 (Contingency Planning) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/247)](https://www.legislation.gov.uk/ssi/2013/247), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/247/regulation/2/3)
 
-[^key-c0954edd3089988edd9b302056fc81ea]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/ssi/2005/494) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [sch. 1 para. 27(3)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/27/3)
+[^c-c0954edd3089988edd9b302056fc81ea]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/ssi/2005/494) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [sch. 1 para. 27(3)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/27/3)
 
-[^key-d31843c574d52af9e854310e69fd9aae]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/494/regulation/4) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-d31843c574d52af9e854310e69fd9aae]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/494/regulation/4) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-262e3fa24ffadd4bb428c46add8a831c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/494/regulation/5) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-262e3fa24ffadd4bb428c46add8a831c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/494/regulation/5) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-650b899b5cf0fce837d563fcc76f6fe1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/494/regulation/6) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-650b899b5cf0fce837d563fcc76f6fe1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/494/regulation/6) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-4a3e8d4021bee7ec4ff3cd365e07d62a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/494/regulation/7) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-4a3e8d4021bee7ec4ff3cd365e07d62a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/494/regulation/7) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-1e6cc957dca14388f074753bd212c18a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/494/regulation/8) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-1e6cc957dca14388f074753bd212c18a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/494/regulation/8) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-57589f0e54948fb47da08d4d29c0ac41]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/494/regulation/9) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-57589f0e54948fb47da08d4d29c0ac41]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/494/regulation/9) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-8777f7cb58d387fcd6b678f67e96fdea]: Textual amendment: Word in [reg. 9(a)](https://www.legislation.gov.uk/ssi/2005/494/regulation/9/a) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-8777f7cb58d387fcd6b678f67e96fdea]: Textual amendment: Word in [reg. 9(a)](https://www.legislation.gov.uk/ssi/2005/494/regulation/9/a) substituted (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2015/483/schedule/6/paragraph/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
 [^f00007]: Footnote: S.I. [1996/825](https://www.legislation.gov.uk/uksi/1996/825); amended by the Greater London Authority Act 1999 s.328.
 
-[^key-88b27cf31f4d815f0ecc0de2a2edad06]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/ssi/2005/494/regulation/9/c) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-88b27cf31f4d815f0ecc0de2a2edad06]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/ssi/2005/494/regulation/9/c) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 4](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
-[^key-6e1d21ad1d0441cfd30be98e3ab5ac64]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2005/494/regulation/10) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-6e1d21ad1d0441cfd30be98e3ab5ac64]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2005/494/regulation/10) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-7e4e70c3a91c76ad8939f1f142d3ce41]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2005/494/regulation/11) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-7e4e70c3a91c76ad8939f1f142d3ce41]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2005/494/regulation/11) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-d055b0c4977f06d8428e5c822892eb72]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/494/regulation/12) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-d055b0c4977f06d8428e5c822892eb72]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/494/regulation/12) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-c9a215b202cf22629f2c1d831d990862]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2005/494/regulation/13) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-c9a215b202cf22629f2c1d831d990862]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2005/494/regulation/13) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-87b5dd705107bcabead9795ef0905afa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2005/494/regulation/14) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-87b5dd705107bcabead9795ef0905afa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2005/494/regulation/14) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-aa3b741fbcae0faba3950fd437df614b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2005/494/regulation/15) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-aa3b741fbcae0faba3950fd437df614b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2005/494/regulation/15) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-94b3bffe6369d1224f90e8689c5491dd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2005/494/regulation/16) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-94b3bffe6369d1224f90e8689c5491dd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2005/494/regulation/16) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-f2caa37bde0890b290a6310a946702c1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2005/494/regulation/17) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-f2caa37bde0890b290a6310a946702c1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2005/494/regulation/17) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-962585860f845c96935cab4fad29d862]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2005/494/regulation/18) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-962585860f845c96935cab4fad29d862]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2005/494/regulation/18) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-05f0b0d672eb32e3b2f653607d7126f5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2005/494/regulation/19) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-05f0b0d672eb32e3b2f653607d7126f5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2005/494/regulation/19) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-a3d4bb94d6d74f31d7a4e7b46a27181e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2005/494/regulation/20) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-a3d4bb94d6d74f31d7a4e7b46a27181e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2005/494/regulation/20) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-ff9c2a9cb34aaaa253101e5b3a257163]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2005/494/regulation/21) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-ff9c2a9cb34aaaa253101e5b3a257163]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2005/494/regulation/21) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-5e1550c97d286f74971b7d5f76b00dec]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2005/494/regulation/22) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-5e1550c97d286f74971b7d5f76b00dec]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2005/494/regulation/22) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-a8363a05e1060071d6f4493678b46483]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2005/494/regulation/23) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-a8363a05e1060071d6f4493678b46483]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2005/494/regulation/23) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-68b330a74a909bf377079ded3ff27ff5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2005/494/regulation/24) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-68b330a74a909bf377079ded3ff27ff5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2005/494/regulation/24) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-7220cad16a5fc213e98578416cb0c1e0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2005/494/regulation/25) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-7220cad16a5fc213e98578416cb0c1e0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2005/494/regulation/25) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-6c52748257a03480aba8b50ff286a7b1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2005/494/regulation/26) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-6c52748257a03480aba8b50ff286a7b1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2005/494/regulation/26) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-4aeda54063a52940fd2572a26ac1db5c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2005/494/regulation/27) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-4aeda54063a52940fd2572a26ac1db5c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2005/494/regulation/27) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-c65e7a48bcfd7496496e0bd740840f17]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2005/494/regulation/28) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-c65e7a48bcfd7496496e0bd740840f17]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2005/494/regulation/28) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-407144fe910aac9ba99f18542ae75b9d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2005/494/regulation/29) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-407144fe910aac9ba99f18542ae75b9d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2005/494/regulation/29) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-07f026afadd17b8811a863b638d1a372]: Textual amendment: Words in [reg. 29(1)(vi)](https://www.legislation.gov.uk/ssi/2005/494/regulation/29/1/vi) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 12](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/12)
+[^c-07f026afadd17b8811a863b638d1a372]: Textual amendment: Words in [reg. 29(1)(vi)](https://www.legislation.gov.uk/ssi/2005/494/regulation/29/1/vi) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 12](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/12)
 
-[^key-29c3a0ff873b32a2bff51347336351e4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2005/494/regulation/30) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-29c3a0ff873b32a2bff51347336351e4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2005/494/regulation/30) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-21a417fcd37d3547ee13f48c7c359446]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2005/494/regulation/31) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-21a417fcd37d3547ee13f48c7c359446]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2005/494/regulation/31) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-752db606455ed4534186ce5ac8f7e99a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2005/494/regulation/32) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-752db606455ed4534186ce5ac8f7e99a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2005/494/regulation/32) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-7fa3cb81f759af748c5bc7897fe861f7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2005/494/regulation/33) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-7fa3cb81f759af748c5bc7897fe861f7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2005/494/regulation/33) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-eadd63971ef2c040f18b73711abcc8f9]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2005/494/regulation/34) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-eadd63971ef2c040f18b73711abcc8f9]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2005/494/regulation/34) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-0b895721955a74ac2a674d9da1086dc2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2005/494/regulation/35) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-0b895721955a74ac2a674d9da1086dc2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2005/494/regulation/35) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-cda0c7ccfa0131eb35d8ab6c25f0481e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2005/494/regulation/36) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-cda0c7ccfa0131eb35d8ab6c25f0481e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2005/494/regulation/36) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-499053379376e57a2a510a232b621336]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2005/494/regulation/37) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-499053379376e57a2a510a232b621336]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2005/494/regulation/37) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-2b68cfbfdf2abda7dc35e3d8dac25dec]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2005/494/regulation/38) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-2b68cfbfdf2abda7dc35e3d8dac25dec]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2005/494/regulation/38) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-3125307b61e52de97acc9de5d06da8d6]: Commencement: Reg. 39 in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-3125307b61e52de97acc9de5d06da8d6]: Commencement: Reg. 39 in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-d6e49328883f352d0a7e951279f752f2]: Textual amendment: Words in reg. 39(1)(d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d6e49328883f352d0a7e951279f752f2]: Textual amendment: Words in reg. 39(1)(d) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-5f315e05b4c1f33c19c05cb88b17478d]: Textual amendment: Words in reg. 39(1)(d) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-5f315e05b4c1f33c19c05cb88b17478d]: Textual amendment: Words in reg. 39(1)(d) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2769bbfe0e5cdcf7e59a216e81a91610]: Textual amendment: Reg. 39(1A)-(1E) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-2769bbfe0e5cdcf7e59a216e81a91610]: Textual amendment: Reg. 39(1A)-(1E) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-54e850843d4775d2ec5c443b0494e09f]: Textual amendment: Words in reg. 39(1B)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54e850843d4775d2ec5c443b0494e09f]: Textual amendment: Words in reg. 39(1B)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4358897ec85523455538d4ab50cdd3b]: Textual amendment: Words in reg. 39(1C)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4358897ec85523455538d4ab50cdd3b]: Textual amendment: Words in reg. 39(1C)(a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff16dd83c2269d51ac1cf249a9dd91ec]: Textual amendment: Words in reg. 39(1D) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff16dd83c2269d51ac1cf249a9dd91ec]: Textual amendment: Words in reg. 39(1D) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4129926b9ca43f94f75500baac73c8a]: Textual amendment: Words in reg. 39(1D) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4129926b9ca43f94f75500baac73c8a]: Textual amendment: Words in reg. 39(1D) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dadb380ed6a26fa69fa30853f03eaf77]: Textual amendment: Words in reg. 39(1D) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dadb380ed6a26fa69fa30853f03eaf77]: Textual amendment: Words in reg. 39(1D) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f364a3559595269cad5cb4af2345464a]: Textual amendment: Words in reg. 39(1E) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f364a3559595269cad5cb4af2345464a]: Textual amendment: Words in reg. 39(1E) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 61(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/61/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d661e1eb37bf61a38d3c7a151c70dd3]: Textual amendment: Word in reg. 39(1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(a)(9)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/f), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+[^c-0d661e1eb37bf61a38d3c7a151c70dd3]: Textual amendment: Word in reg. 39(1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(a)(9)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/f), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
 
-[^key-6060130a497a70e0201fcbf11e45c388]: Textual amendment: Words in reg. 39(1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(b)(9)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/f), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
+[^c-6060130a497a70e0201fcbf11e45c388]: Textual amendment: Words in reg. 39(1E) substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 70(8)(b)(9)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/70/9/f), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/c)
 
-[^key-aaa22b7122ef4338fce29d55189574fa]: Textual amendment: Reg. 39(2)-(4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-aaa22b7122ef4338fce29d55189574fa]: Textual amendment: Reg. 39(2)-(4) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 320(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/320/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-7085c86091f7219cc589756f93fcb576]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2005/494/regulation/40) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-7085c86091f7219cc589756f93fcb576]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2005/494/regulation/40) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-39fee9ef16836ad12872ddeb0861a9d4]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2005/494/regulation/41) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-39fee9ef16836ad12872ddeb0861a9d4]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2005/494/regulation/41) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-21b660299f2331c4a72c5d058ee6a95b]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2005/494/regulation/42) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-21b660299f2331c4a72c5d058ee6a95b]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2005/494/regulation/42) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-16e7c6f9398013e8e65520a41817cefa]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2005/494/regulation/43) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-16e7c6f9398013e8e65520a41817cefa]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2005/494/regulation/43) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-4d4ef3e30b2c0813901e1c96aa50a91c]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2005/494/regulation/44) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-4d4ef3e30b2c0813901e1c96aa50a91c]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2005/494/regulation/44) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-b42afe2cfae622d91a76b01bff4858e8]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2005/494/regulation/45) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-b42afe2cfae622d91a76b01bff4858e8]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2005/494/regulation/45) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-3d8453a7fafc59c09073b0bf00550418]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2005/494/regulation/46) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-3d8453a7fafc59c09073b0bf00550418]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2005/494/regulation/46) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
 
-[^key-1687bcf995c6c5766c8ce18ff6d73d89]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2005/494/regulation/47) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)
+[^c-1687bcf995c6c5766c8ce18ff6d73d89]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2005/494/regulation/47) in force at 14.11.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/494/regulation/1)

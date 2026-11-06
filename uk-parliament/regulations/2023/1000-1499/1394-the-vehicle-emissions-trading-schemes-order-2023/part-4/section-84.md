@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Manner of provision of information to administrator[^key-f9cf07421ef80692fe605ae9f5d71852]
+## 84. Manner of provision of information to administrator[^c-f9cf07421ef80692fe605ae9f5d71852]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9cf07421ef80692fe605ae9f5d71852]: Commencement: Art. 84 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-f9cf07421ef80692fe605ae9f5d71852]: Commencement: Art. 84 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

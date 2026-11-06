@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019 (revoked)[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2019 (revoked)[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 Made
 
@@ -46,71 +46,71 @@ Coming into force
 
 1st April 2019
 
-[^key-90d5e24f5fdb17cec4012f4376b5f7e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90d5e24f5fdb17cec4012f4376b5f7e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction and interpretation[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+## PART 1 — Introduction and interpretation[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
-### 1. Citation and commencement[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 1. Citation and commencement[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — New property[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
-
-### 3. Availability of relief - new building entered in the roll under section 2(1)(b) of the 1975 Act[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 2. Interpretation[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Relief granted - new building entered in the roll under section 2(1)(b) of the 1975 Act[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+## PART 2 — New property[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
+
+### 3. Availability of relief - new building entered in the roll under section 2(1)(b) of the 1975 Act[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Availability of relief – new building resulting in an alteration to the roll under section 2(1)(d) of the 1975 Act[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 4. Relief granted - new building entered in the roll under section 2(1)(b) of the 1975 Act[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Relief granted – new building resulting in an alteration to the roll under section 2(1)(d) of the 1975 Act[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 5. Availability of relief – new building resulting in an alteration to the roll under section 2(1)(d) of the 1975 Act[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Availability of relief – further works to lands and heritages granted relief under regulation 4 or 6[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 6. Relief granted – new building resulting in an alteration to the roll under section 2(1)(d) of the 1975 Act[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Relief granted – further works to lands and heritages granted relief under regulation 4 or 6[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 7. Availability of relief – further works to lands and heritages granted relief under regulation 4 or 6[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Improved property[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
-
-### 9. Availability of relief – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 8. Relief granted – further works to lands and heritages granted relief under regulation 4 or 6[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+## PART 3 — Improved property[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
+
+### 9. Availability of relief – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Additional relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 10. Relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Applications for relief[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
-
-### 12. Applications for relief[^key-90d5e24f5fdb17cec4012f4376b5f7e0]
+### 11. Additional relief granted – lands and heritages in respect of which a relevant increase has been made within the previous 12 months[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90d5e24f5fdb17cec4012f4376b5f7e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — Applications for relief[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
+
+### 12. Applications for relief[^c-90d5e24f5fdb17cec4012f4376b5f7e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-90d5e24f5fdb17cec4012f4376b5f7e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-90d5e24f5fdb17cec4012f4376b5f7e0]EXPLANATORY NOTE
+[^c-90d5e24f5fdb17cec4012f4376b5f7e0]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -136,4 +136,4 @@ An application must be made to obtain any relief under these Regulations. Regula
 
 ## Annotations
 
-[^key-90d5e24f5fdb17cec4012f4376b5f7e0]: Textual amendment: Regulations revoked (1.4.2022) by [The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 (S.S.I. 2022/49)](https://www.legislation.gov.uk/ssi/2022/49), [regs. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1), [13(1)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/1/a) (with [reg. 13(2)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/2))
+[^c-90d5e24f5fdb17cec4012f4376b5f7e0]: Textual amendment: Regulations revoked (1.4.2022) by [The Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 (S.S.I. 2022/49)](https://www.legislation.gov.uk/ssi/2022/49), [regs. 1](https://www.legislation.gov.uk/ssi/2022/49/regulation/1), [13(1)(a)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/1/a) (with [reg. 13(2)](https://www.legislation.gov.uk/ssi/2022/49/regulation/13/2))

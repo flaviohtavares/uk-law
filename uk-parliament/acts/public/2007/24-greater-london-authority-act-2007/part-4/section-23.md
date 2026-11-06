@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. The general power of the Authority: duty to have regard[^key-cd784069dcc325162ebfa635df84b474]
+## 23. The general power of the Authority: duty to have regard[^c-cd784069dcc325162ebfa635df84b474]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd784069dcc325162ebfa635df84b474]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2007/24/section/23) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-cd784069dcc325162ebfa635df84b474]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2007/24/section/23) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)

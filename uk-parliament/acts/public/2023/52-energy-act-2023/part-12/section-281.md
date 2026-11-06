@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 281. Offences under regulations[^key-530b15db1df09fd33b1e0d5b21248829][^key-b460480fb9132d1cad85414a2e3802e8]
+## 281. Offences under regulations[^c-530b15db1df09fd33b1e0d5b21248829][^c-b460480fb9132d1cad85414a2e3802e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-530b15db1df09fd33b1e0d5b21248829]: Commencement: S. 281 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-530b15db1df09fd33b1e0d5b21248829]: Commencement: S. 281 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-b460480fb9132d1cad85414a2e3802e8]: Commencement: [S. 281](https://www.legislation.gov.uk/ukpga/2023/52/section/281) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)
+[^c-b460480fb9132d1cad85414a2e3802e8]: Commencement: [S. 281](https://www.legislation.gov.uk/ukpga/2023/52/section/281) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)

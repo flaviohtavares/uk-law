@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Interest on unpaid tax[^key-59bb7ce662dd1b7a06416de059c5a0b1]
+## 115. Interest on unpaid tax[^c-59bb7ce662dd1b7a06416de059c5a0b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-59bb7ce662dd1b7a06416de059c5a0b1]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2003/2682/regulation/115) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-59bb7ce662dd1b7a06416de059c5a0b1]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2003/2682/regulation/115) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
 [^f00052]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 92 was amended by sections 3(1) and 4(4) of the Banking and Financial Dealings Act [1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80).
 

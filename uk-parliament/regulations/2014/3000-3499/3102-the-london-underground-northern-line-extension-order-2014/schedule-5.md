@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-2159f5c959faa39c1d3f63782cccbed9]
+## SCHEDULE 5 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-2159f5c959faa39c1d3f63782cccbed9]
 
 *Extent: E+W+S*
 
@@ -101,4 +101,4 @@ Article 30
 
 ## Annotations
 
-[^key-2159f5c959faa39c1d3f63782cccbed9]: Commencement: Sch. 5 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-2159f5c959faa39c1d3f63782cccbed9]: Commencement: Sch. 5 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

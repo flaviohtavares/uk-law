@@ -91,7 +91,7 @@ and include the objects of the first relevant trusts.
 
 ### Third party rights relating to land
 
-**6.** (1)[^key-c7a5c71827f7fe21949a429bf1d232c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.** (1)[^c-c7a5c71827f7fe21949a429bf1d232c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this paragraph “**relevant land right**” means any of the following rights relating to land—
 
@@ -114,11 +114,11 @@ and include the objects of the first relevant trusts.
 
 - (a) an arbitrator appointed by the President of the Royal Institution of Chartered Surveyors (if the proceedings are to be held in England and Wales),
 - (b) an arbiter appointed by the Chairman of the Royal Institution of Chartered Surveyors in Scotland (if the proceedings are to be held in Scotland), or
-- (c) an arbitrator appointed by the Chairman of the Royal Institution of Chartered Surveyors in Northern Ireland[^key-d6104936413eb3d24adc6ed120b09372] (if the proceedings are to be held in Northern Ireland).
+- (c) an arbitrator appointed by the Chairman of the Royal Institution of Chartered Surveyors in Northern Ireland[^c-d6104936413eb3d24adc6ed120b09372] (if the proceedings are to be held in Northern Ireland).
 
 ### Other third party property rights
 
-**7.**[^key-a6fde5e52b61a9352a06e29e56401893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a6fde5e52b61a9352a06e29e56401893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Requisitions on title as to Treasury consent
 
@@ -126,11 +126,11 @@ and include the objects of the first relevant trusts.
 
 ### Vesting of foreign property etc.
 
-**9.**[^key-b8471b6db876f8b1425ceda016e8b539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b8471b6db876f8b1425ceda016e8b539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
-**10.**[^key-fa1c2468ce5fbb8cb35d5924e8d1094b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-fa1c2468ce5fbb8cb35d5924e8d1094b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -144,12 +144,12 @@ and include the objects of the first relevant trusts.
 
 [^c10292511]: Marginal citation: [1969 c. 48](https://www.legislation.gov.uk/ukpga/1969/48).
 
-[^key-c7a5c71827f7fe21949a429bf1d232c1]: Textual amendment: Sch. 3 para. 6(1) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-c7a5c71827f7fe21949a429bf1d232c1]: Textual amendment: Sch. 3 para. 6(1) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-d6104936413eb3d24adc6ed120b09372]: Textual amendment: Words in Sch. 3 para. 6(5)(c) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) , [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1) , [Sch. 4 para. 292(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/292/2) ; [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a) , [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
+[^c-d6104936413eb3d24adc6ed120b09372]: Textual amendment: Words in Sch. 3 para. 6(5)(c) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) , [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1) , [Sch. 4 para. 292(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/292/2) ; [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a) , [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
 
-[^key-a6fde5e52b61a9352a06e29e56401893]: Textual amendment: Sch. 3 para. 7 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a6fde5e52b61a9352a06e29e56401893]: Textual amendment: Sch. 3 para. 7 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-b8471b6db876f8b1425ceda016e8b539]: Textual amendment: Sch. 3 para. 9 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b8471b6db876f8b1425ceda016e8b539]: Textual amendment: Sch. 3 para. 9 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-fa1c2468ce5fbb8cb35d5924e8d1094b]: Textual amendment: Sch. 3 para. 10 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-fa1c2468ce5fbb8cb35d5924e8d1094b]: Textual amendment: Sch. 3 para. 10 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 52(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/52/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

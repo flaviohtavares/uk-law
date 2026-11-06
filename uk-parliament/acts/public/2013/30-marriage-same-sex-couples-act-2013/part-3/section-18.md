@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Orders and regulations[^key-f70c998f9fc8f0fe4907b3973fadbf6a]
+## 18. Orders and regulations[^c-f70c998f9fc8f0fe4907b3973fadbf6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f70c998f9fc8f0fe4907b3973fadbf6a]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/30/section/18) in force at 31.10.2013 by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2789/article/3/c)
+[^c-f70c998f9fc8f0fe4907b3973fadbf6a]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/30/section/18) in force at 31.10.2013 by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2789/article/3/c)

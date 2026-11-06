@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Offences by bodies corporate[^key-64b56685a50c7cf023cacac539a14c05]
+## 74. Offences by bodies corporate[^c-64b56685a50c7cf023cacac539a14c05]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Act, section 20(2) of the Interpretation Act (Northern 
 
 ## Annotations
 
-[^key-64b56685a50c7cf023cacac539a14c05]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2011/23/section/74) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-64b56685a50c7cf023cacac539a14c05]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2011/23/section/74) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

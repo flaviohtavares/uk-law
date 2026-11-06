@@ -36,7 +36,7 @@ then, subject to the following provisions of this Chapter, he may by order (in t
 
 (3) Subject to section 76(3) below, the power to make a drought order in relation to any area shall not be exercisable unless[^c18731781] an application is made to the Secretary of State—
 
-- (a) by the appropriate agency[^key-5f20d3c6a5d5803adb2a387ea41b9a81]; or
+- (a) by the appropriate agency[^c-5f20d3c6a5d5803adb2a387ea41b9a81]; or
 - (b) except in the case of an ordinary drought order by virtue of subsection (1)(b) above,[^c18731801]by a water undertaker which supplies water to premises in that area.
 
 (4) The power to make a drought order shall be exercisable by statutory instrument; and Schedule 8 to this Act shall have effect with respect to the procedure on an application for such an order.
@@ -47,6 +47,6 @@ then, subject to the following provisions of this Chapter, he may by order (in t
 
 [^c18731781]: Textual amendment: Words in s. 73 substituted (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 139(3)(a)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/139/3/a) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)
 
-[^key-5f20d3c6a5d5803adb2a387ea41b9a81]: Textual amendment: Words in ss. 73-75 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(n)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/n) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5f20d3c6a5d5803adb2a387ea41b9a81]: Textual amendment: Words in ss. 73-75 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(n)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/n) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18731801]: Textual amendment: Words in s. 73 inserted (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 139(3)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/139/3/b) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)

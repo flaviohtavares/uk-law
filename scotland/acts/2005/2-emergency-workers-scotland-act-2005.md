@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make it an offence to assault or impede per
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 22nd December 2004 and received Royal Assent on 1st February 2005
 
-## 1. Assaulting or impeding certain providers of emergency services[^key-e51bc0baae76fc26d3d4da889c4f2fc1][^key-2bf883aa9e4f8086dccb53c229094bf4]
+## 1. Assaulting or impeding certain providers of emergency services[^c-e51bc0baae76fc26d3d4da889c4f2fc1][^c-2bf883aa9e4f8086dccb53c229094bf4]
 
 (1) A person who assaults, obstructs or hinders another person acting in a capacity mentioned in subsection (3) below commits an offence.
 
@@ -43,14 +43,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 (3) The capacity referred to in subsection (1) above is—
 
 - (a) that of a constable;
-- (zb)[^key-744a0350641b4eade6a83bc49941f4a2] that of a person employed by the Scottish Fire and Rescue Service while discharging any of the Service's functions[^key-789110d7e44fc9f273453aa728422681] under any of sections 9 to 13 (fire-fighting, road traffic accidents, other emergencies, emergency directions and other eventualities), 25, 27 and 29 (powers of authorised employees in relation to emergencies, obtaining information and investigating fires) of that Act;
-- (b) that of a person providing assistance under arrangements made by virtue of section 35 (assistance other than from relevant authorities) or 36 (arrangements for carrying out of functions by others) of the Fire (Scotland) Act 2005 other than assistance given to the Scottish Fire and Rescue Service for the purpose of carrying out any of the functions conferred on the Service[^key-0d760336f746a203e344651e8f18f873] by section 8 or 61 of that Act; [^key-aff4d80dcbd629160357f0216c29579d]...
+- (zb)[^c-744a0350641b4eade6a83bc49941f4a2] that of a person employed by the Scottish Fire and Rescue Service while discharging any of the Service's functions[^c-789110d7e44fc9f273453aa728422681] under any of sections 9 to 13 (fire-fighting, road traffic accidents, other emergencies, emergency directions and other eventualities), 25, 27 and 29 (powers of authorised employees in relation to emergencies, obtaining information and investigating fires) of that Act;
+- (b) that of a person providing assistance under arrangements made by virtue of section 35 (assistance other than from relevant authorities) or 36 (arrangements for carrying out of functions by others) of the Fire (Scotland) Act 2005 other than assistance given to the Scottish Fire and Rescue Service for the purpose of carrying out any of the functions conferred on the Service[^c-0d760336f746a203e344651e8f18f873] by section 8 or 61 of that Act; [^c-aff4d80dcbd629160357f0216c29579d]...
 - (c) that of a person acting for the Scottish Ambulance Service Board in exercise of the function referred to in article 4(1)(a) of the Scottish Ambulance Service Board Order 1999 (S.I. 1999/686) (exercise by the Board of function of providing ambulances and other means of transport for ill and other persons).
-- (d)[^key-28a4da3a872a7bf0fe7eb25fe67420da] that of a registered medical practitioner;
+- (d)[^c-28a4da3a872a7bf0fe7eb25fe67420da] that of a registered medical practitioner;
 - (e) that of a registered nurse; or
 - (f) that of a registered midwife
 
-## 2. Assaulting or impeding certain emergency workers responding to emergency circumstances[^key-4fdeaf07728d85755fb71d851df731b8]
+## 2. Assaulting or impeding certain emergency workers responding to emergency circumstances[^c-4fdeaf07728d85755fb71d851df731b8]
 
 (1) A person who assaults, obstructs or hinders another while that other person is, in a capacity mentioned in subsection (3) below, responding to emergency circumstances, commits an offence.
 
@@ -72,12 +72,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) any other person or organisation operating a vessel for the purpose of providing a rescue service on a body of water,
 
   or a person who musters the crew of such a vessel or attends to its launch;
-- (d)[^key-5d2e986589c2edb36cc113babfcb6083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-5d2e986589c2edb36cc113babfcb6083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-5d2e986589c2edb36cc113babfcb6083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-5d2e986589c2edb36cc113babfcb6083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-5d2e986589c2edb36cc113babfcb6083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-5d2e986589c2edb36cc113babfcb6083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) that of a social worker, within the meaning given by section 77(1) of the Regulation of Care (Scotland) Act 2001 (asp 8), while taking action required or permitted by—
-  - (i) a child protection order (as defined in section 202(1) of the Children’s Hearings (Scotland) Act[^key-6f35f9c0d8e0c3878b193f067780b432] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1); or
-  - (ii)[^key-2c9aa46eaf5861bdf1818e83ebd515e8] an order under section 55 of that Act of 2011 (emergency order for removal of child),
+  - (i) a child protection order (as defined in section 202(1) of the Children’s Hearings (Scotland) Act[^c-6f35f9c0d8e0c3878b193f067780b432] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1); or
+  - (ii)[^c-2c9aa46eaf5861bdf1818e83ebd515e8] an order under section 55 of that Act of 2011 (emergency order for removal of child),
 - (h) that of a mental health officer, that is to say—
   - (i) a mental health officer within the meaning given by section 32(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13); or
   - (ii) until section 32(1) of that Act (appointment and deemed appointment of mental health officers) comes into force, a mental health officer within the meaning given by section 125 of the Mental Health (Scotland) Act 1984 (c. 36).
@@ -95,7 +95,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iii) a worsening of any such injury, illness or harm; or
 - (b) are likely to cause the death of a person.
 
-## 3. Assaulting or impeding persons assisting emergency workers[^key-93b3efea3d5d105611fce1632ce9ce8e][^key-ecb171d455c410bc26aa1c37a9c7213a]
+## 3. Assaulting or impeding persons assisting emergency workers[^c-93b3efea3d5d105611fce1632ce9ce8e][^c-ecb171d455c410bc26aa1c37a9c7213a]
 
 (1) A person who assaults, obstructs or hinders another in the circumstances described in subsection (2) below commits an offence.
 
@@ -109,7 +109,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) as if there were emergency circumstances; and
 - (c) that the person being assaulted, obstructed or hindered is assisting the person acting in that capacity.
 
-## 4. Provisions supplementary to sections 1 to 3[^key-b9273919beb8bfd101994d958788c5d6][^key-6de06c89e3889c0cb324913d192ef20a]
+## 4. Provisions supplementary to sections 1 to 3[^c-b9273919beb8bfd101994d958788c5d6][^c-6de06c89e3889c0cb324913d192ef20a]
 
 (1) A person may be convicted of the offence under section 1, 2 or 3 of this Act of obstructing or hindering notwithstanding that it is—
 
@@ -126,7 +126,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Evidence from a single source is sufficient evidence to establish, for the purposes of section 1, 2 or 3 of this Act, whether a person is acting in a capacity referred to in that section.
 
-## 5. Assaulting or impeding health workers in hospital premises[^key-ff4463ea5ef0408cc39464ed838a8590]
+## 5. Assaulting or impeding health workers in hospital premises[^c-ff4463ea5ef0408cc39464ed838a8590]
 
 (1) A person who, in a hospital or on land adjacent to and used wholly or mainly for the purposes of a hospital, assaults, obstructs or hinders a person acting in a capacity mentioned in subsection (3) below or a person assisting such a person commits an offence.
 
@@ -146,11 +146,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Evidence from a single source is sufficient to establish, for the purposes of subsection (1) above, whether a person is acting in a capacity referred to in subsection (3) above.
 
-## 6. Penalties[^key-e5eab6a31429a139914bf6b0ad7bbc0c]
+## 6. Penalties[^c-e5eab6a31429a139914bf6b0ad7bbc0c]
 
-A person guilty of an offence under this Act is liable, on summary conviction, to imprisonment for a period not exceeding 12[^key-aac74b5c02280906cec17e9dd1b2d5b1] months or to a fine not exceeding the prescribed sum within the meaning of section 225(8) of the Criminal Procedure (Scotland) Act 1995 (c. 46)[^key-95e66b476253246d6ea154c3fb022612] or to both.
+A person guilty of an offence under this Act is liable, on summary conviction, to imprisonment for a period not exceeding 12[^c-aac74b5c02280906cec17e9dd1b2d5b1] months or to a fine not exceeding the prescribed sum within the meaning of section 225(8) of the Criminal Procedure (Scotland) Act 1995 (c. 46)[^c-95e66b476253246d6ea154c3fb022612] or to both.
 
-## 7. Saving for certain other offences[^key-1fa34936cd45fd2bab2dc6f6f4312c4b]
+## 7. Saving for certain other offences[^c-1fa34936cd45fd2bab2dc6f6f4312c4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,7 +158,7 @@ A person guilty of an offence under this Act is liable, on summary conviction, t
 
 Nothing in this Act affects (or is affected by) section 90(2) of the Police and Fire Reform (Scotland) Act 2012 (asp 8) (assaulting or impeding police).
 
-## 8. Power to modify[^key-63e2a6677f1464ad4ebed370277e1ec2]
+## 8. Power to modify[^c-63e2a6677f1464ad4ebed370277e1ec2]
 
 (1) The Scottish Ministers may by order modify this Act by—
 
@@ -183,44 +183,44 @@ section 1(3), 2(3) or 5(3) of this Act and by making such provision connected wi
 
 ## Annotations
 
-[^key-e51bc0baae76fc26d3d4da889c4f2fc1]: Commencement: S. 1 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-e51bc0baae76fc26d3d4da889c4f2fc1]: Commencement: S. 1 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
 
-[^key-2bf883aa9e4f8086dccb53c229094bf4]: Modification: S. 1 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [24](https://www.legislation.gov.uk/uksi/2013/602/article/24)
+[^c-2bf883aa9e4f8086dccb53c229094bf4]: Modification: S. 1 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [24](https://www.legislation.gov.uk/uksi/2013/602/article/24)
 
-[^key-744a0350641b4eade6a83bc49941f4a2]: Textual amendment: S.1(3)(zb)(b) substituted (2.8.2005) for s 1.(3)(b) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [ss. 38(2)](https://www.legislation.gov.uk/asp/2005/5/section/38/2), [90](https://www.legislation.gov.uk/asp/2005/5/section/90) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(e)](https://www.legislation.gov.uk/ssi/2005/392/article/2/e)
+[^c-744a0350641b4eade6a83bc49941f4a2]: Textual amendment: S.1(3)(zb)(b) substituted (2.8.2005) for s 1.(3)(b) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [ss. 38(2)](https://www.legislation.gov.uk/asp/2005/5/section/38/2), [90](https://www.legislation.gov.uk/asp/2005/5/section/90) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(e)](https://www.legislation.gov.uk/ssi/2005/392/article/2/e)
 
-[^key-789110d7e44fc9f273453aa728422681]: Textual amendment: Words in [s. 1(3)(zb)](https://www.legislation.gov.uk/asp/2005/2/section/1/3/zb) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 67(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/67/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-789110d7e44fc9f273453aa728422681]: Textual amendment: Words in [s. 1(3)(zb)](https://www.legislation.gov.uk/asp/2005/2/section/1/3/zb) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 67(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/67/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-0d760336f746a203e344651e8f18f873]: Textual amendment: Words in [s. 1(3)(b)](https://www.legislation.gov.uk/asp/2005/2/section/1/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 67(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/67/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-0d760336f746a203e344651e8f18f873]: Textual amendment: Words in [s. 1(3)(b)](https://www.legislation.gov.uk/asp/2005/2/section/1/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 67(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/67/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-aff4d80dcbd629160357f0216c29579d]: Textual amendment: Word in s. 1(3)(b) omitted (1.4.2008) by virtue of [Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 (S.S.I. 2008/37)](https://www.legislation.gov.uk/ssi/2008/37), [arts. 1](https://www.legislation.gov.uk/ssi/2008/37/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2008/37/article/2/a)
+[^c-aff4d80dcbd629160357f0216c29579d]: Textual amendment: Word in s. 1(3)(b) omitted (1.4.2008) by virtue of [Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 (S.S.I. 2008/37)](https://www.legislation.gov.uk/ssi/2008/37), [arts. 1](https://www.legislation.gov.uk/ssi/2008/37/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2008/37/article/2/a)
 
-[^key-28a4da3a872a7bf0fe7eb25fe67420da]: Textual amendment: S. 1(3)(d)-(f) added (1.4.2008) by [Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 (S.S.I. 2008/37)](https://www.legislation.gov.uk/ssi/2008/37), [arts. 1](https://www.legislation.gov.uk/ssi/2008/37/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2008/37/article/2/b)
+[^c-28a4da3a872a7bf0fe7eb25fe67420da]: Textual amendment: S. 1(3)(d)-(f) added (1.4.2008) by [Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 (S.S.I. 2008/37)](https://www.legislation.gov.uk/ssi/2008/37), [arts. 1](https://www.legislation.gov.uk/ssi/2008/37/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2008/37/article/2/b)
 
-[^key-4fdeaf07728d85755fb71d851df731b8]: Commencement: S. 2 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-4fdeaf07728d85755fb71d851df731b8]: Commencement: S. 2 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
 
-[^key-5d2e986589c2edb36cc113babfcb6083]: Textual amendment: S. 2(3)(d)-(f) omitted (1.4.2008) by virtue of [Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 (S.S.I. 2008/37)](https://www.legislation.gov.uk/ssi/2008/37), [arts. 1](https://www.legislation.gov.uk/ssi/2008/37/article/1), [3](https://www.legislation.gov.uk/ssi/2008/37/article/3)
+[^c-5d2e986589c2edb36cc113babfcb6083]: Textual amendment: S. 2(3)(d)-(f) omitted (1.4.2008) by virtue of [Emergency Workers (Scotland) Act 2005 (Modification) Order 2008 (S.S.I. 2008/37)](https://www.legislation.gov.uk/ssi/2008/37), [arts. 1](https://www.legislation.gov.uk/ssi/2008/37/article/1), [3](https://www.legislation.gov.uk/ssi/2008/37/article/3)
 
-[^key-6f35f9c0d8e0c3878b193f067780b432]: Textual amendment: Words in [s. 2(3)(g)(i)](https://www.legislation.gov.uk/asp/2005/2/section/2/3/g/i) inserted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 15(a)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/15/a)
+[^c-6f35f9c0d8e0c3878b193f067780b432]: Textual amendment: Words in [s. 2(3)(g)(i)](https://www.legislation.gov.uk/asp/2005/2/section/2/3/g/i) inserted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 15(a)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/15/a)
 
-[^key-2c9aa46eaf5861bdf1818e83ebd515e8]: Textual amendment: [S. 2(3)(g)(ii)](https://www.legislation.gov.uk/asp/2005/2/section/2/3/g/ii) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 15(b)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/15/b)
+[^c-2c9aa46eaf5861bdf1818e83ebd515e8]: Textual amendment: [S. 2(3)(g)(ii)](https://www.legislation.gov.uk/asp/2005/2/section/2/3/g/ii) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 15(b)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/15/b)
 
-[^key-93b3efea3d5d105611fce1632ce9ce8e]: Commencement: S. 3 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-93b3efea3d5d105611fce1632ce9ce8e]: Commencement: S. 3 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
 
-[^key-ecb171d455c410bc26aa1c37a9c7213a]: Modification: S. 3 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [24](https://www.legislation.gov.uk/uksi/2013/602/article/24)
+[^c-ecb171d455c410bc26aa1c37a9c7213a]: Modification: S. 3 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [24](https://www.legislation.gov.uk/uksi/2013/602/article/24)
 
-[^key-b9273919beb8bfd101994d958788c5d6]: Commencement: S. 4 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-b9273919beb8bfd101994d958788c5d6]: Commencement: S. 4 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
 
-[^key-6de06c89e3889c0cb324913d192ef20a]: Modification: S. 4 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [24](https://www.legislation.gov.uk/uksi/2013/602/article/24)
+[^c-6de06c89e3889c0cb324913d192ef20a]: Modification: S. 4 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [24](https://www.legislation.gov.uk/uksi/2013/602/article/24)
 
-[^key-ff4463ea5ef0408cc39464ed838a8590]: Commencement: S. 5 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-ff4463ea5ef0408cc39464ed838a8590]: Commencement: S. 5 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
 
-[^key-e5eab6a31429a139914bf6b0ad7bbc0c]: Commencement: S. 6 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-e5eab6a31429a139914bf6b0ad7bbc0c]: Commencement: S. 6 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
 
-[^key-aac74b5c02280906cec17e9dd1b2d5b1]: Textual amendment: Word in s. 6 substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 44(4)(a)](https://www.legislation.gov.uk/asp/2007/6/section/44/4/a), [84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1) (with [s. 44(6)](https://www.legislation.gov.uk/asp/2007/6/section/44/6)); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
+[^c-aac74b5c02280906cec17e9dd1b2d5b1]: Textual amendment: Word in s. 6 substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 44(4)(a)](https://www.legislation.gov.uk/asp/2007/6/section/44/4/a), [84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1) (with [s. 44(6)](https://www.legislation.gov.uk/asp/2007/6/section/44/6)); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
 
-[^key-95e66b476253246d6ea154c3fb022612]: Textual amendment: Words in s. 6 substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 44(4)(b)](https://www.legislation.gov.uk/asp/2007/6/section/44/4/b), [84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1) (with [s. 44(6)](https://www.legislation.gov.uk/asp/2007/6/section/44/6)); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
+[^c-95e66b476253246d6ea154c3fb022612]: Textual amendment: Words in s. 6 substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 44(4)(b)](https://www.legislation.gov.uk/asp/2007/6/section/44/4/b), [84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1) (with [s. 44(6)](https://www.legislation.gov.uk/asp/2007/6/section/44/6)); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
 
-[^key-1fa34936cd45fd2bab2dc6f6f4312c4b]: Textual amendment: S. 7A substituted for s. 7 (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 25](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/25); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1fa34936cd45fd2bab2dc6f6f4312c4b]: Textual amendment: S. 7A substituted for s. 7 (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 25](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/25); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-63e2a6677f1464ad4ebed370277e1ec2]: Commencement: S. 8 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)
+[^c-63e2a6677f1464ad4ebed370277e1ec2]: Commencement: S. 8 in force at 9.5.2005 by [S.S.I. 2005/229](https://www.legislation.gov.uk/ssi/2005/229), [art. 2](https://www.legislation.gov.uk/ssi/2005/229/article/2)

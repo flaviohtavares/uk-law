@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If an offence under regulation 207(1) (offences) [^key-3498a85a901d026b917e194aeef95c61]... is committed by a person acting as employee or agent, the employer or principal of that person is guilty of the same offence and is liable to be proceeded against and punished accordingly.
+If an offence under regulation 207(1) (offences) [^c-3498a85a901d026b917e194aeef95c61]... is committed by a person acting as employee or agent, the employer or principal of that person is guilty of the same offence and is liable to be proceeded against and punished accordingly.
 
 ## Annotations
 
-[^key-3498a85a901d026b917e194aeef95c61]: Textual amendment: Words in [reg. 211](https://www.legislation.gov.uk/uksi/2012/1916/regulation/211) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [100](https://www.legislation.gov.uk/uksi/2024/832/regulation/100)
+[^c-3498a85a901d026b917e194aeef95c61]: Textual amendment: Words in [reg. 211](https://www.legislation.gov.uk/uksi/2012/1916/regulation/211) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [100](https://www.legislation.gov.uk/uksi/2024/832/regulation/100)

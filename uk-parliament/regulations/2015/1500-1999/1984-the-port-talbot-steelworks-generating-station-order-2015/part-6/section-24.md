@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Procedure in relation to certain approvals, etc.[^key-e2b9db7d998c5150e169b954f21c5627]
+## 24. Procedure in relation to certain approvals, etc.[^c-e2b9db7d998c5150e169b954f21c5627]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2b9db7d998c5150e169b954f21c5627]: Commencement: Art. 24 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-e2b9db7d998c5150e169b954f21c5627]: Commencement: Art. 24 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

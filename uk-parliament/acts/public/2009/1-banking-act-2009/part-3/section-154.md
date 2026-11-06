@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Winding-up or voluntary arrangement[^key-7188754a68505f8a30b2321653a34d6e]
+## 154. Winding-up or voluntary arrangement[^c-7188754a68505f8a30b2321653a34d6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,11 +30,11 @@ summary: ''
 - (a) give a notice under paragraph 84 of Schedule B1 to the Insolvency Act 1986 (no more assets for distribution), or
 - (b) make a proposal in accordance with section 1 of that Act (company voluntary arrangement).
 
-(2A)[^key-a5a7a7b859245e0e593bd38085b5e964] For the purpose of subsection (2)(a), paragraph 84 of Schedule B1 has effect without the amendment made by paragraph 10(33) of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to opted-out creditors).
+(2A)[^c-a5a7a7b859245e0e593bd38085b5e964] For the purpose of subsection (2)(a), paragraph 84 of Schedule B1 has effect without the amendment made by paragraph 10(33) of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to opted-out creditors).
 
-(3) Part 1 of the Insolvency Act 1986[^key-087b630e608e7a9d2cf61648b240470a] shall apply to a proposal made by a bank administrator, with the following modifications.
+(3) Part 1 of the Insolvency Act 1986[^c-087b630e608e7a9d2cf61648b240470a] shall apply to a proposal made by a bank administrator, with the following modifications.
 
-(3A)[^key-187b87c45367535f3662b9726e55af24] Sections 2 to 6 and 7 [^key-559139fe9a691794ec8cb927efbd8125]... have effect without the amendments of those provisions made by paragraphs 2 to 8[^key-c9a8f3847035d2eb61dd5d5dd58f3d02] of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to the abolition of requirements to hold meetings).
+(3A)[^c-187b87c45367535f3662b9726e55af24] Sections 2 to 6 and 7 [^c-559139fe9a691794ec8cb927efbd8125]... have effect without the amendments of those provisions made by paragraphs 2 to 8[^c-c9a8f3847035d2eb61dd5d5dd58f3d02] of Schedule 9 to the Small Business, Enterprise and Employment Act 2015 (further amendments relating to the abolition of requirements to hold meetings).
 
 (4) In section 3 (summoning of meetings) subsection (2) (and not (1)) applies.
 
@@ -46,14 +46,14 @@ summary: ''
 
 ## Annotations
 
-[^key-7188754a68505f8a30b2321653a34d6e]: Commencement: S. 154 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-7188754a68505f8a30b2321653a34d6e]: Commencement: S. 154 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-a5a7a7b859245e0e593bd38085b5e964]: Textual amendment: S. 154(2A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/5/6/a)
+[^c-a5a7a7b859245e0e593bd38085b5e964]: Textual amendment: S. 154(2A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [5(6)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/5/6/a)
 
-[^key-087b630e608e7a9d2cf61648b240470a]: Textual amendment: Words in s. 154(3) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/5/6/b)
+[^c-087b630e608e7a9d2cf61648b240470a]: Textual amendment: Words in s. 154(3) substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/5/6/b)
 
-[^key-187b87c45367535f3662b9726e55af24]: Textual amendment: S. 154(3A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [5(6)(c)](https://www.legislation.gov.uk/uksi/2018/208/regulation/5/6/c)
+[^c-187b87c45367535f3662b9726e55af24]: Textual amendment: S. 154(3A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [5(6)(c)](https://www.legislation.gov.uk/uksi/2018/208/regulation/5/6/c)
 
-[^key-559139fe9a691794ec8cb927efbd8125]: Textual amendment: Words in [s. 154(3A)](https://www.legislation.gov.uk/ukpga/2009/1/section/154/3A) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 42(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/42/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-559139fe9a691794ec8cb927efbd8125]: Textual amendment: Words in [s. 154(3A)](https://www.legislation.gov.uk/ukpga/2009/1/section/154/3A) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 42(a)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/42/a) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-c9a8f3847035d2eb61dd5d5dd58f3d02]: Textual amendment: Word in [s. 154(3A)](https://www.legislation.gov.uk/ukpga/2009/1/section/154/3A) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 42(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/42/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-c9a8f3847035d2eb61dd5d5dd58f3d02]: Textual amendment: Word in [s. 154(3A)](https://www.legislation.gov.uk/ukpga/2009/1/section/154/3A) substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 42(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/42/b) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

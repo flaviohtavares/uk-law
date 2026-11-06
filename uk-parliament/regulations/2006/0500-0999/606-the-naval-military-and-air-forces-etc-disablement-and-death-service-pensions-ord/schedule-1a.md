@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — DIFFUSE MESOTHELIOMA LUMP SUMS[^key-f45dfdedac57d8f7ca1c0b64ea06abc4]
+## SCHEDULE 1A — DIFFUSE MESOTHELIOMA LUMP SUMS[^c-f45dfdedac57d8f7ca1c0b64ea06abc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ A member of the armed forces elects or has elected to receive a diffuse mesothel
 
 ### 5. Calculation of the diffuse mesothelioma lump sum
 
-(1) Subject to sub-paragraph (2), the amount of the diffuse mesothelioma lump sum to which a member is entitled under paragraph 2 is £185,000[^key-57bd888112a9c08ebddd6c679cbd877f].
+(1) Subject to sub-paragraph (2), the amount of the diffuse mesothelioma lump sum to which a member is entitled under paragraph 2 is £185,000[^c-57bd888112a9c08ebddd6c679cbd877f].
 
 (2) The amount of the diffuse mesothelioma lump sum must be reduced by—
 
@@ -104,6 +104,6 @@ The Secretary of State must pay to the member the diffuse mesothelioma lump sum 
 
 ## Annotations
 
-[^key-f45dfdedac57d8f7ca1c0b64ea06abc4]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2006/606/schedule/1A) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [12](https://www.legislation.gov.uk/uksi/2016/374/article/12)
+[^c-f45dfdedac57d8f7ca1c0b64ea06abc4]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2006/606/schedule/1A) inserted (11.4.2016) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2016 (S.I. 2016/374)](https://www.legislation.gov.uk/uksi/2016/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/374/article/1/1), [12](https://www.legislation.gov.uk/uksi/2016/374/article/12)
 
-[^key-57bd888112a9c08ebddd6c679cbd877f]: Textual amendment: Sum in [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/uksi/2006/606/schedule/1A/paragraph/5/1) substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [4](https://www.legislation.gov.uk/uksi/2026/101/article/4)
+[^c-57bd888112a9c08ebddd6c679cbd877f]: Textual amendment: Sum in [Sch. 1A para. 5(1)](https://www.legislation.gov.uk/uksi/2006/606/schedule/1A/paragraph/5/1) substituted (6.4.2026) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2026 (S.I. 2026/101)](https://www.legislation.gov.uk/uksi/2026/101), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/101/article/1/2), [4](https://www.legislation.gov.uk/uksi/2026/101/article/4)

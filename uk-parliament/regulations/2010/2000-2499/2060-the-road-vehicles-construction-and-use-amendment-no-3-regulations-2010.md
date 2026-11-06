@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by section 41(1), (2) and (5) of the Road Traffic Act 1988[^f00001], having, in accordance with section 195(2) of that Act, consulted with such representative organisations as he thinks fit.
 
-## 1. Citation and commencement[^key-82b1049cb0dcad865ab2255e82cb9b00]
+## 1. Citation and commencement[^c-82b1049cb0dcad865ab2255e82cb9b00]
 
 These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2010 and come into force on 9th September 2010.
 
-## 2. Amendment of Regulations[^key-b4bda1b4d6c0a8d59416f1661d2aa0c7]
+## 2. Amendment of Regulations[^c-b4bda1b4d6c0a8d59416f1661d2aa0c7]
 
 (1) The Road Vehicles (Construction and Use) Regulations 1986[^f00002] are amended as follows.
 
@@ -59,7 +59,7 @@ These Regulations may be cited as the Road Vehicles (Construction and Use) (Amen
 
 .
 
-(3)[^key-1ec5ce9e86283339e48abde0451831a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1ec5ce9e86283339e48abde0451831a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State
 
@@ -87,9 +87,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Section 41 was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 50 and Schedule 8.
 
-[^key-82b1049cb0dcad865ab2255e82cb9b00]: Commencement: Reg. 1 in force at 9.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2060/regulation/1)
+[^c-82b1049cb0dcad865ab2255e82cb9b00]: Commencement: Reg. 1 in force at 9.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2060/regulation/1)
 
-[^key-b4bda1b4d6c0a8d59416f1661d2aa0c7]: Commencement: Reg. 2 in force at 9.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2060/regulation/1)
+[^c-b4bda1b4d6c0a8d59416f1661d2aa0c7]: Commencement: Reg. 2 in force at 9.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2060/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078).
 
@@ -99,4 +99,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: [S.I. 2007/1819](https://www.legislation.gov.uk/uksi/2007/1819).
 
-[^key-1ec5ce9e86283339e48abde0451831a4]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2010/2060/regulation/2/3) revoked (25.6.2012) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2012 (S.I. 2012/1404)](https://www.legislation.gov.uk/uksi/2012/1404), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1404/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1404/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1404/schedule)
+[^c-1ec5ce9e86283339e48abde0451831a4]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2010/2060/regulation/2/3) revoked (25.6.2012) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2012 (S.I. 2012/1404)](https://www.legislation.gov.uk/uksi/2012/1404), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1404/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1404/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1404/schedule)

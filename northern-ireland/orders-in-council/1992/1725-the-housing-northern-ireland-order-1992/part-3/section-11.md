@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) In accordance with the provisions of this Article, the Department may issue guidance with respect to the management of housing accommodation by registered housing associations [^key-8fda163fd6d0ddf76c8868f5b236abb4]....
+(1) In accordance with the provisions of this Article, the Department may issue guidance with respect to the management of housing accommodation by registered housing associations [^c-8fda163fd6d0ddf76c8868f5b236abb4]....
 
 (2) Guidance issued under this Article may make different provision in relation to different cases and, in particular, in relation to different areas, different descriptions of housing accommodation and different descriptions of registered housing associations.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fda163fd6d0ddf76c8868f5b236abb4]: Textual amendment: Words in art. 11(1) omitted (29.8.2020) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 3(11)](https://www.legislation.gov.uk/nia/2020/5/section/3/11), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
+[^c-8fda163fd6d0ddf76c8868f5b236abb4]: Textual amendment: Words in art. 11(1) omitted (29.8.2020) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 3(11)](https://www.legislation.gov.uk/nia/2020/5/section/3/11), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)

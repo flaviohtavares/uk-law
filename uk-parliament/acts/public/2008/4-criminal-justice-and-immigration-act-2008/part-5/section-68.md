@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Special rules relating to providers of information society services[^key-c7d6614abf0e60928bc9d71cdbd1444e]
+## 68. Special rules relating to providers of information society services[^c-c7d6614abf0e60928bc9d71cdbd1444e]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 14 makes special provision in connection with the operation of section 
 
 ## Annotations
 
-[^key-c7d6614abf0e60928bc9d71cdbd1444e]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2008/4/section/68) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/f)
+[^c-c7d6614abf0e60928bc9d71cdbd1444e]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2008/4/section/68) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/f)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) In any criminal[^key-dc1d6761a688b5f520acf85ef01ee489] proceedings in the High Court or the sheriff court a person other than the accused may give evidence through a live television link if—
+(1) In any criminal[^c-dc1d6761a688b5f520acf85ef01ee489] proceedings in the High Court or the sheriff court a person other than the accused may give evidence through a live television link if—
 
 - (a) the witness is outside the United Kingdom;
 - (b) an application under subsection (2) below for the issue of a letter of request has been granted; and
@@ -40,10 +40,10 @@ requesting assistance in facilitating the giving of evidence by that witness thr
   - (i) is in the interests of justice; and
   - (ii) in the case of an application by the prosecutor, is not unfair to the accused.
 
-(5)[^key-8ef4963add3f551b2fe06da8fab82a23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8ef4963add3f551b2fe06da8fab82a23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc1d6761a688b5f520acf85ef01ee489]: Textual amendment: Word in s. 273(1) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 91(2)](https://www.legislation.gov.uk/asp/2010/13/section/91/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-dc1d6761a688b5f520acf85ef01ee489]: Textual amendment: Word in s. 273(1) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 91(2)](https://www.legislation.gov.uk/asp/2010/13/section/91/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-8ef4963add3f551b2fe06da8fab82a23]: Textual amendment: [S. 273(5)](https://www.legislation.gov.uk/ukpga/1995/46/section/273/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [77(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/77/5) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ef4963add3f551b2fe06da8fab82a23]: Textual amendment: [S. 273(5)](https://www.legislation.gov.uk/ukpga/1995/46/section/273/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [77(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/77/5) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

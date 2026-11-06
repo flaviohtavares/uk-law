@@ -47,7 +47,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7 to, that Act, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-e591a5c7eb6a6bb506a58975313287d4]
+## 1. Citation, commencement and extent[^c-e591a5c7eb6a6bb506a58975313287d4]
 
 (1) This Order may be cited as the Water Services etc. (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 and shall come into force on the day after the day on which it is made.
 
@@ -55,7 +55,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7 to, t
 
 (3) The modifications specified in the Schedule have the same extent as the provisions being amended or repealed.
 
-## 2. Interpretation[^key-b8019d01267958325b963194a1767853]
+## 2. Interpretation[^c-b8019d01267958325b963194a1767853]
 
 *Extent: S*
 
@@ -65,8 +65,8 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7 to, t
 - “the 2005 Act” means the Water Services etc. (Scotland) Act 2005[^f00003];
 - “article 3(2) or (3) reference” means a reference under article 3 following a request under article 3(2) or (3) and includes any variation of any such reference under article 3(8);
 - “article 3(4) reference” means a reference under article 3 following a request under article 3(4) and includes any variation of any such reference under article 3(8);
-- “[^key-5b6421bfc888284098a7cf18785a1b0d]**the CMA**” means the Competition and Markets Authority;
-- [^key-9faa35c764d8b298bc52cc03363a4934]...
+- “[^c-5b6421bfc888284098a7cf18785a1b0d]**the CMA**” means the Competition and Markets Authority;
+- [^c-9faa35c764d8b298bc52cc03363a4934]...
 - “determination” means the WIC’s determination of maximum amounts of charges under section 29B(1)(a) of the 2002 Act[^f00004];
 - “revised determination” means a determination as revised under section 29F(3)(b) of the 2002 Act[^f00005];
 - “sewerage services licence” means a licence granted under section 6(3) of the 2005 Act;
@@ -77,11 +77,11 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7 to, t
 
 (2) A reference in this Order to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000[^f00006], which has been recorded in written form and is capable of being reproduced in that form.
 
-## 3. References to the CMA[^key-e33c64cac4c2856a0265157726600f6b][^key-e34840ca2829a805f993dcd8533fd37d]
+## 3. References to the CMA[^c-e33c64cac4c2856a0265157726600f6b][^c-e34840ca2829a805f993dcd8533fd37d]
 
 *Extent: S*
 
-(1) Where paragraph (2), (3) or (4) applies, the WIC shall, as soon as practicable, make a reference to the CMA[^key-16a2c9860b147c948fa9035968a310c4] in accordance with this article.
+(1) Where paragraph (2), (3) or (4) applies, the WIC shall, as soon as practicable, make a reference to the CMA[^c-16a2c9860b147c948fa9035968a310c4] in accordance with this article.
 
 (2) This paragraph applies where–
 
@@ -106,7 +106,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7 to, t
 
   requested in writing that the WIC makes a reference.
 
-(5) An article 3(2) or (3) reference shall be so framed as to require the CMA[^key-e6b5670cef46bfe7c2c0764dfa7607b7] to investigate and report on the questions–
+(5) An article 3(2) or (3) reference shall be so framed as to require the CMA[^c-e6b5670cef46bfe7c2c0764dfa7607b7] to investigate and report on the questions–
 
 - (a) whether any matters which–
   - (i) relate to the carrying out of activities authorised or regulated by or under a water services licence or a sewerage services licence, as the case may be; and
@@ -140,12 +140,12 @@ and on receipt of any such notice the CMA shall give effect to the variation.
 
 - (a) serve a copy of the reference or variation of that reference on–
   - (i) all water services providers and sewerage services providers;
-  - (ii) Scottish Water; and[^key-af8aa6c18505117f5e4eea4d793a20cc]
-  - (iii) the Scottish Ministers; [^key-232200e0b2650559048a5c744cea753e]...
-  - (iv)[^key-5cc6b876e780df7fe06c8f584de72cd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) Scottish Water; and[^c-af8aa6c18505117f5e4eea4d793a20cc]
+  - (iii) the Scottish Ministers; [^c-232200e0b2650559048a5c744cea753e]...
+  - (iv)[^c-5cc6b876e780df7fe06c8f584de72cd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) publish particulars of the reference or variation in such manner as it considers appropriate for the purpose of bringing the reference or variation to the attention of persons likely to be affected by it.
 
-(11) The WIC shall, for the purpose of assisting the CMA[^key-b7e776b42ebcaa6ce17ca9f9980a7098] in carrying out an investigation on a reference, give to the CMA–
+(11) The WIC shall, for the purpose of assisting the CMA[^c-b7e776b42ebcaa6ce17ca9f9980a7098] in carrying out an investigation on a reference, give to the CMA–
 
 - (a) any information in its possession which relates to matters falling within the scope of the investigation and which is either–
   - (i) requested by the CMA for that purpose; or
@@ -154,15 +154,15 @@ and on receipt of any such notice the CMA shall give effect to the variation.
 
 (12) The CMA, for the purpose of carrying out any investigation on a reference, shall take account of any information given to it for that purpose under paragraph (11).
 
-(13)[^key-1ad1caf3dbda10d04980b75576c1610e] The functions of the CMA with respect to a reference under this article are to be carried out on behalf of the CMA by a group constituted for the purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (including functions relating to the making of modifications following a report on a reference, and functions under sections 109 to 115 of the Enterprise Act 2002, as applied by articles 5 and 10).
+(13)[^c-1ad1caf3dbda10d04980b75576c1610e] The functions of the CMA with respect to a reference under this article are to be carried out on behalf of the CMA by a group constituted for the purpose by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (including functions relating to the making of modifications following a report on a reference, and functions under sections 109 to 115 of the Enterprise Act 2002, as applied by articles 5 and 10).
 
-## 4. References: Time Limits[^key-cc642cb086c69f01710c16914414db30]
+## 4. References: Time Limits[^c-cc642cb086c69f01710c16914414db30]
 
 *Extent: S*
 
 (1) In respect of every reference, the WIC shall specify a period (not longer than 6 months beginning with the date of receipt of the reference) within which a report on the reference is to be made.
 
-(2) A report of the CMA[^key-edbc2f18d596edcdf015867c0d99a564] on a reference shall not have effect (and no action shall be taken in relation to it under article 8) unless the report is made before the end of the period specified in the reference, or such further period (if any) as may be allowed by the WIC under paragraph (3).
+(2) A report of the CMA[^c-edbc2f18d596edcdf015867c0d99a564] on a reference shall not have effect (and no action shall be taken in relation to it under article 8) unless the report is made before the end of the period specified in the reference, or such further period (if any) as may be allowed by the WIC under paragraph (3).
 
 (3) The WIC may, if it has received representations from the CMA on the matter, and is satisfied that there is good reason why the report cannot be made within the period specified in the reference, extend that period by not more than 6 months; and no more than one extension is possible in respect of the same reference.
 
@@ -170,16 +170,16 @@ and on receipt of any such notice the CMA shall give effect to the variation.
 
 - (a) serve notice of the extension on–
   - (i) all water services providers and sewerage services providers;
-  - (ii) Scottish Water; and[^key-7f262fe66ed926f118f475b520784284]
-  - (iii) the Scottish Ministers; [^key-16a51df15ab52656a2383182c52b2d23]...
-  - (iv)[^key-143133f186dde7244b7fc1d1ac324507] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) Scottish Water; and[^c-7f262fe66ed926f118f475b520784284]
+  - (iii) the Scottish Ministers; [^c-16a51df15ab52656a2383182c52b2d23]...
+  - (iv)[^c-143133f186dde7244b7fc1d1ac324507] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) publish details of the extension in such manner as it considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
 
-## 5. References: powers of investigation[^key-20e8cce6c6849217c8d0671311a1b271]
+## 5. References: powers of investigation[^c-20e8cce6c6849217c8d0671311a1b271]
 
 *Extent: S*
 
-(1) The following sections of Part 3 of the Enterprise Act 2002[^f00008] shall apply, as they had effect immediately before the relevant date and[^key-dc641cd5ab46d12563bd09e1404aaed6] with the modifications referred to in paragraphs (1A)[^key-10da8202bfc72457866e80341c8ee70b] to (4), for the purposes of references under article 3 as they applied immediately before that date[^key-033d37ec6edf90be6811f12127195da2] for the purposes of references under that Part–
+(1) The following sections of Part 3 of the Enterprise Act 2002[^f00008] shall apply, as they had effect immediately before the relevant date and[^c-dc641cd5ab46d12563bd09e1404aaed6] with the modifications referred to in paragraphs (1A)[^c-10da8202bfc72457866e80341c8ee70b] to (4), for the purposes of references under article 3 as they applied immediately before that date[^c-033d37ec6edf90be6811f12127195da2] for the purposes of references under that Part–
 
 - (a) section 109 (attendance of witnesses and production of documents etc.);
 - (b) section 110 (enforcement of powers under section 109: general);
@@ -192,7 +192,7 @@ and on receipt of any such notice the CMA shall give effect to the variation.
 - (i) section 117 (false or misleading information)[^f00009]; and
 - (j) section 125 (offences by bodies corporate).
 
-(1A)[^key-dbd5c2ffc4c2be51e23fd91c0d699090] Section 109 shall, in its application by virtue of paragraph (1), have effect as if—
+(1A)[^c-dbd5c2ffc4c2be51e23fd91c0d699090] Section 109 shall, in its application by virtue of paragraph (1), have effect as if—
 
 - (a) for subsection (A1), there were substituted—
 
@@ -204,7 +204,7 @@ and on receipt of any such notice the CMA shall give effect to the variation.
 (2) Section 110 shall, in its application by virtue of paragraph (1), have effect as if–
 
 - (a) subsection (2) were omitted;
-- (aa)[^key-d2c15e898b40f32424d099e3335ff5de] after subsection (3), there were inserted—
+- (aa)[^c-d2c15e898b40f32424d099e3335ff5de] after subsection (3), there were inserted—
 
   > (3A) No penalty shall be imposed by virtue of subsection (1) or (3) if more than 4 weeks have passed since the publication of the report of the CMA on the reference concerned; but this subsection shall not apply in relation to any variation or substitution of the penalty which is permitted by virtue of this Part.
 
@@ -225,7 +225,7 @@ and on receipt of any such notice the CMA shall give effect to the variation.
   >   - (ii) in respect of an amount calculated by reference to a daily rate, £5,000.
 
   ;
-- (b)[^key-52a9c93a598ad9a328f554301af15aa2] in subsection (5)(b), for sub-paragraph (ii) there were substituted—
+- (b)[^c-52a9c93a598ad9a328f554301af15aa2] in subsection (5)(b), for sub-paragraph (ii) there were substituted—
 
   > - (ii) if earlier, the day on which the report of the CMA on the reference concerned is made or, if no such report is made within the period permitted for that purpose, the latest day on which the report may be made within the permitted period.
 
@@ -239,20 +239,20 @@ and on receipt of any such notice the CMA shall give effect to the variation.
 (4) Section 117 shall, in its application by virtue of paragraph (1), have effect as if–
 
 - (a) in each of subsections (1)(a) and (2)–
-  - (i)[^key-c3a289c9feb940aa63239b09e99eda22] the words “, OFCOM or the Secretary of State” were omitted;
+  - (i)[^c-c3a289c9feb940aa63239b09e99eda22] the words “, OFCOM or the Secretary of State” were omitted;
   - (ii) for “their” there were substituted “its”; and
   - (iii) for “this Part” there were substituted “the Water Services etc. (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005”; and
 - (b) in subsection (3), for the words “statutory maximum” there were substituted “amount specified as level 5 on the standard scale”.
 
-(5) Provisions of Part 3 of the Enterprise Act 2002 which , immediately before the relevant date, had[^key-c86e2f2e4b9bc266f5dc83cca2562ccd] effect for the purposes of sections 109 to 117 and 125 of that Act shall, for the purposes of the application of those sections by virtue of paragraph (1), have effect in relation to those sections as applied by virtue of that paragraph as those provisions had effect immediately before that date[^key-db277f390abb91a458eeb5f4c8072605].
+(5) Provisions of Part 3 of the Enterprise Act 2002 which , immediately before the relevant date, had[^c-c86e2f2e4b9bc266f5dc83cca2562ccd] effect for the purposes of sections 109 to 117 and 125 of that Act shall, for the purposes of the application of those sections by virtue of paragraph (1), have effect in relation to those sections as applied by virtue of that paragraph as those provisions had effect immediately before that date[^c-db277f390abb91a458eeb5f4c8072605].
 
-(6)[^key-9cb7c122371ae29087f2785104b9ddda] In this article “**the relevant date**” means the date on which section 143 of the Digital Markets, Competition and Consumers Act 2024 came into force.
+(6)[^c-9cb7c122371ae29087f2785104b9ddda] In this article “**the relevant date**” means the date on which section 143 of the Digital Markets, Competition and Consumers Act 2024 came into force.
 
-## 6. CMA to consult on proposals[^key-d0a7421fc6115f2598242397b45775db][^key-af044d4a338f92da3e0c1092c9e9a96b]
+## 6. CMA to consult on proposals[^c-d0a7421fc6115f2598242397b45775db][^c-af044d4a338f92da3e0c1092c9e9a96b]
 
 *Extent: S*
 
-(1) Before making its report under article 7, the CMA[^key-a3261caf0c3cabb56e7308f35037be2c] –
+(1) Before making its report under article 7, the CMA[^c-a3261caf0c3cabb56e7308f35037be2c] –
 
 - (a) shall, so far as practicable, consult–
   - (i) as the case may be, the water services provider or sewerage services provider or Scottish Water, who made the request under article 3 to which the reference relates; and
@@ -272,11 +272,11 @@ on the matters the CMA proposes to include in its report.
 
 (3) For the purposes of the law relating to defamation, absolute privilege attaches to any consultation undertaken by the CMA pursuant to this article.
 
-## 7. Reports on References[^key-69bcb98245e8f07003f6ee62e1fccc91]
+## 7. Reports on References[^c-69bcb98245e8f07003f6ee62e1fccc91]
 
 *Extent: S*
 
-(1) A report of the CMA[^key-745a546aabf537db742bcbd023febf87] on a reference shall be made to the WIC.
+(1) A report of the CMA[^c-745a546aabf537db742bcbd023febf87] on a reference shall be made to the WIC.
 
 (2) For the purpose of carrying out any investigation in relation to the making of a report on a reference, and subject to paragraph (3), the CMA may disclose any information held by it for the purpose of facilitating its consideration of the reference.
 
@@ -297,9 +297,9 @@ on the matters the CMA proposes to include in its report.
 
 (5) The CMA shall, at the time it makes its report on a reference, advise the WIC as to the matters, if any, it considers should be excluded from the report on publication, having regard to paragraph (3); and the WIC shall have regard to any advice from the CMA in that regard.
 
-(6) A conclusion contained in a report of the CMA[^key-a377e5456f612ae4b5ebdff6a6063ada] is to be disregarded if the conclusion is not that of at least two thirds of the members of the group constituted by the chair of the CMA for the purpose of carrying out the functions of the CMA with respect to the reference[^key-5f32dddece7d22c222e93164e76dcfaa].
+(6) A conclusion contained in a report of the CMA[^c-a377e5456f612ae4b5ebdff6a6063ada] is to be disregarded if the conclusion is not that of at least two thirds of the members of the group constituted by the chair of the CMA for the purpose of carrying out the functions of the CMA with respect to the reference[^c-5f32dddece7d22c222e93164e76dcfaa].
 
-(7) If a member of a group so constituted disagrees with any conclusions contained in a report made on a reference as the conclusions of the CMA[^key-9b9d31687aa8f00348c0651896c69409], the report shall, if the member so wishes, include a statement of his disagreement and of his reasons for disagreeing.
+(7) If a member of a group so constituted disagrees with any conclusions contained in a report made on a reference as the conclusions of the CMA[^c-9b9d31687aa8f00348c0651896c69409], the report shall, if the member so wishes, include a statement of his disagreement and of his reasons for disagreeing.
 
 (8) For the purposes of the law relating to defamation, absolute privilege attaches to any report made by the CMA on a reference.
 
@@ -307,12 +307,12 @@ on the matters the CMA proposes to include in its report.
 
 - (a) serve a copy of it on–
   - (i) all water services providers and sewerage services providers;
-  - (ii) Scottish Water; and[^key-d6c2970477a3319393e51818e196f469]
-  - (iii) the Scottish Ministers; [^key-6536891bce22aa818a4588fb502cbded]...
-  - (iv)[^key-e0acae57d4f7893c12e8b457ff983898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) Scottish Water; and[^c-d6c2970477a3319393e51818e196f469]
+  - (iii) the Scottish Ministers; [^c-6536891bce22aa818a4588fb502cbded]...
+  - (iv)[^c-e0acae57d4f7893c12e8b457ff983898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) publish a copy of the report in such manner as the WIC considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
 
-(10) Where it appears to the WIC that publication of any matter in the CMA's[^key-c8ea3682ad9b4738ba620d54c8cb990a] report on a reference would be against the public interest or against the interests, including legitimate business interests, of any person to which it relates, the WIC shall, as soon as practicable–
+(10) Where it appears to the WIC that publication of any matter in the CMA's[^c-c8ea3682ad9b4738ba620d54c8cb990a] report on a reference would be against the public interest or against the interests, including legitimate business interests, of any person to which it relates, the WIC shall, as soon as practicable–
 
 - (a) serve a copy of the report on–
   - (i) where appropriate, the water services provider or sewerage services provider who made the request under article 3 to which the reference relates; and
@@ -326,13 +326,13 @@ on the matters the CMA proposes to include in its report.
 
 (11) If the WIC receives any representations within the period specified in paragraph (10), it shall take those representations into account when complying with its duty under paragraph (9).
 
-(12) The WIC shall not publish the report of the CMA[^key-a49b6778b78e5e477c1fcec3f986ab16] on a reference until after the expiry of the period for making representations specified in paragraph (10).
+(12) The WIC shall not publish the report of the CMA[^c-a49b6778b78e5e477c1fcec3f986ab16] on a reference until after the expiry of the period for making representations specified in paragraph (10).
 
-## 8. Modifications following report[^key-e9bbcb17ada2a78df990eb2428a81dda]
+## 8. Modifications following report[^c-e9bbcb17ada2a78df990eb2428a81dda]
 
 *Extent: S*
 
-(1) Where a report of the CMA[^key-09c94d8b8cc35fec0719dfb868fb7975] on an article 3(2) or (3) reference–
+(1) Where a report of the CMA[^c-09c94d8b8cc35fec0719dfb868fb7975] on an article 3(2) or (3) reference–
 
 - (a) includes conclusions to the effect that any of the matters specified in the reference operate, or may be expected to operate, against the public interest;
 - (b) specifies effects adverse to the public interest which those matters have or may be expected to have;
@@ -341,14 +341,14 @@ on the matters the CMA proposes to include in its report.
 
 the WIC shall, subject to paragraphs (3) to (8), make such modifications of those conditions as appear to the WIC to be necessary for the purpose of remedying or preventing the adverse effects specified in the report.
 
-(2) Where a report of the CMA[^key-fdd620cb3b5e9727c88a6d04dd16a0e3] on an article 3(4) reference–
+(2) Where a report of the CMA[^c-fdd620cb3b5e9727c88a6d04dd16a0e3] on an article 3(4) reference–
 
 - (a) includes conclusions to the effect that a different determination or revised determination should be substituted for that of the WIC; and
 - (b) specifies modifications of the determination or revised determination,
 
-the WIC shall, subject to paragraphs (3) to (8), make such modifications of the determination or the revised determination as appear to the WIC to be necessary for the purpose of giving effect to the CMA's[^key-8ccce9bf4248bff66b676e51bd002b1d] conclusions.
+the WIC shall, subject to paragraphs (3) to (8), make such modifications of the determination or the revised determination as appear to the WIC to be necessary for the purpose of giving effect to the CMA's[^c-8ccce9bf4248bff66b676e51bd002b1d] conclusions.
 
-(3) Before making modifications, the WIC shall have regard to the modifications specified in the CMA's[^key-3920dabd6901f291d65981c41a15c467] report.
+(3) Before making modifications, the WIC shall have regard to the modifications specified in the CMA's[^c-3920dabd6901f291d65981c41a15c467] report.
 
 (4) Before making modifications, the WIC shall give notice–
 
@@ -362,12 +362,12 @@ and shall consider any representations or objections which are duly made and not
 
 - (a) by serving a copy of the notice on–
   - (i) all water services providers and sewerage services providers;
-  - (ii) Scottish Water; and[^key-1b3fd9c5815e41f6d8c104d179fdf988]
-  - (iii) the Scottish Ministers; [^key-6b6606b6210b9b015f4f5d036e0019f6]...
-  - (iv)[^key-031e9c380ce786ae0f07ccef9a93ef6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) Scottish Water; and[^c-1b3fd9c5815e41f6d8c104d179fdf988]
+  - (iii) the Scottish Ministers; [^c-6b6606b6210b9b015f4f5d036e0019f6]...
+  - (iv)[^c-031e9c380ce786ae0f07ccef9a93ef6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) by publishing the notice in such manner as the WIC considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by the making of the modifications.
 
-(6) After considering any representations or objections made in response to proposals set out in a notice under paragraph (4), the WIC shall give notice to the CMA[^key-af78fc242d18a21ae6c95ddb5ae7a29f]–
+(6) After considering any representations or objections made in response to proposals set out in a notice under paragraph (4), the WIC shall give notice to the CMA[^c-af78fc242d18a21ae6c95ddb5ae7a29f]–
 
 - (a) setting out the modifications it proposes to make–
   - (i) in respect of an article 3(2) or (3) reference, to remedy or prevent the adverse effects specified in the report; or
@@ -385,11 +385,11 @@ and shall consider any representations or objections which are duly made and not
 
 (10) Modification under this article of part of a determination or revised determination shall not prevent any other part of the determination or revised determination from continuing to have effect for the purposes of sections 29B and 29F of the 2002 Act[^f00011].
 
-## 9. CMA's power of veto following report[^key-98d9186abeccefb18f71cf0821f3bb3b][^key-01095952031c7b53684f3c77f4b7c99f]
+## 9. CMA's power of veto following report[^c-98d9186abeccefb18f71cf0821f3bb3b][^c-01095952031c7b53684f3c77f4b7c99f]
 
 *Extent: S*
 
-(1) Subject to paragraph (2), the CMA[^key-a2e536ee49546aece2062ef549f0c461] may, within the period of 4 weeks after the date on which it is given a notice under article 8(6), direct the WIC–
+(1) Subject to paragraph (2), the CMA[^c-a2e536ee49546aece2062ef549f0c461] may, within the period of 4 weeks after the date on which it is given a notice under article 8(6), direct the WIC–
 
 - (a) not to make the modifications set out in that notice; or
 - (b) not to make such of the modifications set out in that notice as may be specified in the direction,
@@ -403,17 +403,17 @@ and the WIC shall comply with any such direction.
 - (a) in relation to an article 3(2) or (3) reference, for the purpose of remedying or preventing all or any of the adverse effects specified in the report by virtue of article 7(4)(b)(i); or
 - (b) in relation to an article 3(4) reference, for the purpose of giving effect to the modifications specified in the report by virtue of article 7(4)(c).
 
-(4) Where the CMA[^key-7a220938c48544b6917e51103152fdd0] gives a direction, it shall–
+(4) Where the CMA[^c-7a220938c48544b6917e51103152fdd0] gives a direction, it shall–
 
 - (a) give notice setting out the modifications proposed by the WIC, the terms of the direction and the reasons for giving it; and
 - (b) on an article 3(2) or (3) reference, make such modifications of, as the case may be, the conditions of the water services licence or sewerage services licence to which the reference relates as appear to the CMA to be requisite for the purpose of remedying or preventing–
   - (i) where the direction is given under paragraph (1)(a), the adverse effects specified in the report as effects which could be remedied or prevented by modifications; or
   - (ii) where the direction is given under paragraph (1)(b), such of those adverse effects as are not remedied or prevented by the modifications proposed to be made by the WIC; or
 - (c) on an article 3(4) reference, make such modifications of the determination or revised determination to which the reference relates as appear to the CMA to be requisite for the purpose of giving effect to–
-  - (i) where the direction is given under paragraph (1)(a), the conclusions specified in the Commission's[^key-f7b8b06c87973ecc97a4999f55a0be72] report; or
+  - (i) where the direction is given under paragraph (1)(a), the conclusions specified in the Commission's[^c-f7b8b06c87973ecc97a4999f55a0be72] report; or
   - (ii) where the direction is given under paragraph (1)(b), the conclusions specified in the Commission's report which are not given effect by the modifications proposed to be made by the WIC.
 
-(5) In making modifications under paragraph (4)(b) or (c), the CMA[^key-7495f6352ae669db036496d5cc4fc668] shall take into account the matters specified in article 3(7).
+(5) In making modifications under paragraph (4)(b) or (c), the CMA[^c-7495f6352ae669db036496d5cc4fc668] shall take into account the matters specified in article 3(7).
 
 (6) Before making modifications under paragraph (4)(b) or (c), the CMA shall give notice–
 
@@ -428,9 +428,9 @@ and shall consider any representations or objections which are duly made and not
 - (a) by serving a copy of the notice on–
   - (i) the WIC;
   - (ii) all water services providers and sewerage services providers;
-  - (iii) the Scottish Ministers; and[^key-c068cc6fa1fe00d4f8b7e0cadbdbfdf8]
-  - (iv) Scottish Water; [^key-a46ab794f44f35898d030419f707cab5]...
-  - (v)[^key-f171a276d33fb7198ff06625e400a410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the Scottish Ministers; and[^c-c068cc6fa1fe00d4f8b7e0cadbdbfdf8]
+  - (iv) Scottish Water; [^c-a46ab794f44f35898d030419f707cab5]...
+  - (v)[^c-f171a276d33fb7198ff06625e400a410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) by publishing the notice in such a manner as the CMA considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by the making of the modifications.
 
 (8) After making modifications under this article the CMA shall publish a notice stating that the modifications have been made and setting them out, together with the reasons for making them by publishing the notice in such manner as the CMA considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by the making of the modifications.
@@ -439,20 +439,20 @@ and shall consider any representations or objections which are duly made and not
 
 (10) Modification under this article of part of a determination or revised determination shall not prevent any other part of the determination or revised determination from continuing to have effect for the purposes of sections 29B and 29F of the 2002 Act.
 
-## 10. Article 9: supplementary[^key-e094c3695f58d7eca0a456df0a74d582]
+## 10. Article 9: supplementary[^c-e094c3695f58d7eca0a456df0a74d582]
 
 *Extent: S*
 
 (1) For the purposes of the law relating to defamation, absolute privilege attaches to any notice given under article 9(4)(a) or (6), or published under article 9(8).
 
-(2) In giving any notice under article 9(4)(a) or (6), or publishing any notice under article 9(8), the CMA[^key-690c7377217806a8011016fe55a460e0] must have regard to the following considerations before disclosing any information–
+(2) In giving any notice under article 9(4)(a) or (6), or publishing any notice under article 9(8), the CMA[^c-690c7377217806a8011016fe55a460e0] must have regard to the following considerations before disclosing any information–
 
 - (a) the need to exclude from disclosure (so far as practicable) any information whose disclosure the CMA thinks is contrary to the public interest;
 - (b) the need to exclude from disclosure (so far as practicable) any commercial information whose disclosure the CMA thinks might significantly harm the legitimate business interests of the person to which it relates;
 - (c) the need to exclude from disclosure (so far as practicable) any information relating to the private affairs of an individual whose disclosure the CMA thinks might significantly harm the individual’s interests; and
 - (d) the extent to which the disclosure of the information mentioned in sub-paragraph (b) or (c) is necessary for the purposes of the notice.
 
-(3) The following sections of Part 3 of the Enterprise Act 2002[^f00012] shall apply, as they had effect immediately before the relevant date and[^key-87865d17beef4343f0bb7029e628aaae] with the modifications referred to in paragraphs (3A)[^key-b7f04524a0a6c3392b9870d9819c8d6e] to (6), for the purposes of any investigation by the CMA for the purposes of the exercise of its functions under article 9, as they applied immediately before that date[^key-dfd0dc5b18bfae92f54143a500431d66] for the purposes of any investigation on references under that Part–
+(3) The following sections of Part 3 of the Enterprise Act 2002[^f00012] shall apply, as they had effect immediately before the relevant date and[^c-87865d17beef4343f0bb7029e628aaae] with the modifications referred to in paragraphs (3A)[^c-b7f04524a0a6c3392b9870d9819c8d6e] to (6), for the purposes of any investigation by the CMA for the purposes of the exercise of its functions under article 9, as they applied immediately before that date[^c-dfd0dc5b18bfae92f54143a500431d66] for the purposes of any investigation on references under that Part–
 
 - (a) section 109 (attendance of witnesses and production of documents etc.);
 - (b) section 110 (enforcement of powers under section 109: general);
@@ -465,7 +465,7 @@ and shall consider any representations or objections which are duly made and not
 - (i) section 117 (false or misleading information)[^f00013]; and
 - (j) section 125 (offences by bodies corporate).
 
-(3A)[^key-d660c4d81978f11a109f3f9ff4d6a20c] Section 109 shall, in its application by virtue of paragraph (3), have effect as if—
+(3A)[^c-d660c4d81978f11a109f3f9ff4d6a20c] Section 109 shall, in its application by virtue of paragraph (3), have effect as if—
 
 - (a) for subsection (A1), there were substituted—
 
@@ -477,7 +477,7 @@ and shall consider any representations or objections which are duly made and not
 (4) Section 110 shall, in its application by virtue of paragraph (3), have effect as if–
 
 - (a) subsection (2) were omitted;
-- (b)[^key-35b5e668404d78d53c9630864b9b837d] after subsection (3), there were inserted—
+- (b)[^c-35b5e668404d78d53c9630864b9b837d] after subsection (3), there were inserted—
 
   > (3A) No penalty shall be imposed by virtue of subsection (1) or (3) if more than 4 weeks have passed since the publication by the CMA of a notice under article 9(8) of the Water Services etc. (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 in connection with the reference concerned or, if no direction has been given by the CMA under article 9(1) of that Order in connection with the reference concerned and within the period permitted for that purpose, the latest day on which it was possible to give such a direction within the permitted period; but this subsection shall not apply in relation to any variation or substitution of the penalty which is permitted by virtue of this Part.
 
@@ -512,16 +512,16 @@ and shall consider any representations or objections which are duly made and not
 (6) Section 117 shall, in its application by virtue of paragraph (3), have effect as if–
 
 - (a) in each of subsections (1)(a) and (2)–
-  - (i)[^key-9b677a7aa8c0bff2a2457bd2d8a49190] the words “, OFCOM or the Secretary of State” were omitted;
+  - (i)[^c-9b677a7aa8c0bff2a2457bd2d8a49190] the words “, OFCOM or the Secretary of State” were omitted;
   - (ii) for “their” there was substituted “its”; and
   - (iii) for “this Part” there is substituted “the Water Services etc. (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005”; and
 - (b) in subsection (3), for the words “statutory maximum” there were substituted “amount specified as level 5 on the standard scale”.
 
-(7) Provisions of Part 3 of the Enterprise Act 2002 which , immediately before the relevant date, had[^key-9a42bb5d70017a17169cb5b286921c78] effect for the purposes of sections 109 to 117 and 125 of that Act shall, for the purposes of the application of those sections by virtue of paragraph (3), have effect in relation to those sections as applied by virtue of that paragraph as those provisions had effect immediately before that date[^key-5705cc0808458d242a1b97c0b828b757].
+(7) Provisions of Part 3 of the Enterprise Act 2002 which , immediately before the relevant date, had[^c-9a42bb5d70017a17169cb5b286921c78] effect for the purposes of sections 109 to 117 and 125 of that Act shall, for the purposes of the application of those sections by virtue of paragraph (3), have effect in relation to those sections as applied by virtue of that paragraph as those provisions had effect immediately before that date[^c-5705cc0808458d242a1b97c0b828b757].
 
-(8)[^key-d35f80b30e47cb88bee109141165c1ed] In this Article “**the relevant date**” means the date on which section 143 of the Digital Markets, Competition and Consumers Act 2024 came into force.
+(8)[^c-d35f80b30e47cb88bee109141165c1ed] In this Article “**the relevant date**” means the date on which section 143 of the Digital Markets, Competition and Consumers Act 2024 came into force.
 
-## 11. Modifications[^key-cfb8fd0a6b1653235171f16222391339]
+## 11. Modifications[^c-cfb8fd0a6b1653235171f16222391339]
 
 The modifications specified in Parts 1 and 2 of the Schedule shall have effect.
 
@@ -543,7 +543,7 @@ Article 11
 
 #### The House of Commons Disqualification Act [1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)
 
-**1.**[^key-1c092501150c6db0c66927c182a6d144] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified)[^f00014], insert at the appropriate place–
+**1.**[^c-1c092501150c6db0c66927c182a6d144] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified)[^f00014], insert at the appropriate place–
 
 > - The Water Industry Commission for Scotland.
 
@@ -551,11 +551,11 @@ Article 11
 
 #### The Race Relations Act [1976 (c. 74)](https://www.legislation.gov.uk/ukpga/1976/74)
 
-**2.**[^key-fd5a423d0c63414af0eb2a2e8282b67a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd5a423d0c63414af0eb2a2e8282b67a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Competition Act [1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41)
 
-**3.**[^key-f8ea05c831e6e447cd18eb74e0809557] In the Competition Act 1998–
+**3.**[^c-f8ea05c831e6e447cd18eb74e0809557] In the Competition Act 1998–
 
 - (a) in paragraph 19A(9) of Schedule 7 (performance of the Commission’s general functions: procedure)[^f00016], in the definition of “special reference group”–
   - (i) the “or” at the end of paragraph (n) is omitted; and
@@ -570,7 +570,7 @@ Article 11
 
 #### The Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27)
 
-**4.**[^key-ddbe49319f99cb44283392c4058d3f8b] In section 104(1) of the Utilities Act 2000 (appointment of members of the Competition Commission)[^f00018]–
+**4.**[^c-ddbe49319f99cb44283392c4058d3f8b] In section 104(1) of the Utilities Act 2000 (appointment of members of the Competition Commission)[^f00018]–
 
 - (a) the “or” at the end of paragraph (b) is omitted, and
 - (b) after paragraph (c) there is added–
@@ -585,7 +585,7 @@ Article 11
 
 #### The Public Interest Disclosure (Prescribed Persons) Order 1999
 
-**5.**[^key-36ce772f1a06f5c53d4fe94d6b56990d] In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 1999[^f00019], there is inserted in the appropriate place the following entry–
+**5.**[^c-36ce772f1a06f5c53d4fe94d6b56990d] In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 1999[^f00019], there is inserted in the appropriate place the following entry–
 
 > |  |  |
 > | --- | --- |
@@ -612,17 +612,17 @@ Article 11 and the Schedule provide for the modification of primary and subordin
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e591a5c7eb6a6bb506a58975313287d4]: Commencement: Art. 1 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-e591a5c7eb6a6bb506a58975313287d4]: Commencement: Art. 1 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-b8019d01267958325b963194a1767853]: Commencement: Art. 2 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-b8019d01267958325b963194a1767853]: Commencement: Art. 2 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
 [^f00002]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), as amended by the [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3) (“the 2005 Act”).
 
 [^f00003]: Footnote: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3).
 
-[^key-5b6421bfc888284098a7cf18785a1b0d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/2/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 172](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/172); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5b6421bfc888284098a7cf18785a1b0d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/2/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 172](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/172); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9faa35c764d8b298bc52cc03363a4934]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/2/1) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/a)
+[^c-9faa35c764d8b298bc52cc03363a4934]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/2/1) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/a)
 
 [^f00004]: Footnote: Section 29B was inserted by the 2005 Act, section 21.
 
@@ -630,170 +630,170 @@ Article 11 and the Schedule provide for the modification of primary and subordin
 
 [^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-e33c64cac4c2856a0265157726600f6b]: Commencement: Art. 3 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-e33c64cac4c2856a0265157726600f6b]: Commencement: Art. 3 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-e34840ca2829a805f993dcd8533fd37d]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2005/3172/article/3) heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e34840ca2829a805f993dcd8533fd37d]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2005/3172/article/3) heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-16a2c9860b147c948fa9035968a310c4]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-16a2c9860b147c948fa9035968a310c4]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e6b5670cef46bfe7c2c0764dfa7607b7]: Textual amendment: Word in [art. 3(5)-(9)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e6b5670cef46bfe7c2c0764dfa7607b7]: Textual amendment: Word in [art. 3(5)-(9)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^f00007]: Footnote: Section 29C was inserted by the 2005 Act, section 21.
 
-[^key-af8aa6c18505117f5e4eea4d793a20cc]: Textual amendment: Word in [art. 3(10)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/10/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/b/i)
+[^c-af8aa6c18505117f5e4eea4d793a20cc]: Textual amendment: Word in [art. 3(10)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/10/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/b/i)
 
-[^key-232200e0b2650559048a5c744cea753e]: Textual amendment: Word in [art. 3(10)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/10/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/b/ii)
+[^c-232200e0b2650559048a5c744cea753e]: Textual amendment: Word in [art. 3(10)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/10/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/b/ii)
 
-[^key-5cc6b876e780df7fe06c8f584de72cd4]: Textual amendment: [Art. 3(10)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/10/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/b/iii)
+[^c-5cc6b876e780df7fe06c8f584de72cd4]: Textual amendment: [Art. 3(10)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/10/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/b/iii)
 
-[^key-b7e776b42ebcaa6ce17ca9f9980a7098]: Textual amendment: Word in [art. 3(11)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/11)[(12)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/12) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b7e776b42ebcaa6ce17ca9f9980a7098]: Textual amendment: Word in [art. 3(11)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/11)[(12)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/12) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-1ad1caf3dbda10d04980b75576c1610e]: Textual amendment: [Art. 3(13)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/13) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-1ad1caf3dbda10d04980b75576c1610e]: Textual amendment: [Art. 3(13)](https://www.legislation.gov.uk/uksi/2005/3172/article/3/13) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 173(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/173/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-cc642cb086c69f01710c16914414db30]: Commencement: Art. 4 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-cc642cb086c69f01710c16914414db30]: Commencement: Art. 4 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-edbc2f18d596edcdf015867c0d99a564]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 174](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/174); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-edbc2f18d596edcdf015867c0d99a564]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 174](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/174); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-7f262fe66ed926f118f475b520784284]: Textual amendment: Word in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/4/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/c/i)
+[^c-7f262fe66ed926f118f475b520784284]: Textual amendment: Word in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/4/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/c/i)
 
-[^key-16a51df15ab52656a2383182c52b2d23]: Textual amendment: Word in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/4/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/c/ii)
+[^c-16a51df15ab52656a2383182c52b2d23]: Textual amendment: Word in [art. 4(4)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/4/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/c/ii)
 
-[^key-143133f186dde7244b7fc1d1ac324507]: Textual amendment: [Art. 4(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/4/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/c/iii)
+[^c-143133f186dde7244b7fc1d1ac324507]: Textual amendment: [Art. 4(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/4/4/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/c/iii)
 
-[^key-20e8cce6c6849217c8d0671311a1b271]: Commencement: Art. 5 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-20e8cce6c6849217c8d0671311a1b271]: Commencement: Art. 5 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
 [^f00008]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). There have been amendments to Part 3 which are not relevant to this Order.
 
-[^key-dc641cd5ab46d12563bd09e1404aaed6]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/2/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-dc641cd5ab46d12563bd09e1404aaed6]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/2/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-10da8202bfc72457866e80341c8ee70b]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(2)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-10da8202bfc72457866e80341c8ee70b]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(2)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-033d37ec6edf90be6811f12127195da2]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/2/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-033d37ec6edf90be6811f12127195da2]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/2/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
 [^f00009]: Footnote: Section 117 has been amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21) (“the 2003 Act”), section 389 and Schedule 16, paragraph 20.
 
-[^key-dbd5c2ffc4c2be51e23fd91c0d699090]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(3)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-dbd5c2ffc4c2be51e23fd91c0d699090]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/1A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(3)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-d2c15e898b40f32424d099e3335ff5de]: Textual amendment: [Art. 5(2)(aa)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/2/aa) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(4)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-d2c15e898b40f32424d099e3335ff5de]: Textual amendment: [Art. 5(2)(aa)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/2/aa) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(4)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-52a9c93a598ad9a328f554301af15aa2]: Textual amendment: [Art. 5(3)(b)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/3/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(5)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-52a9c93a598ad9a328f554301af15aa2]: Textual amendment: [Art. 5(3)(b)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/3/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 245(5)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/245/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-c3a289c9feb940aa63239b09e99eda22]: Textual amendment: [Art. 5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/4/a/i) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 175](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/175); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c3a289c9feb940aa63239b09e99eda22]: Textual amendment: [Art. 5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/4/a/i) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 175](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/175); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-c86e2f2e4b9bc266f5dc83cca2562ccd]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/5) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/3/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-c86e2f2e4b9bc266f5dc83cca2562ccd]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/5) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/3/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-db277f390abb91a458eeb5f4c8072605]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/5) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/3/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-db277f390abb91a458eeb5f4c8072605]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/5) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/3/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-9cb7c122371ae29087f2785104b9ddda]: Textual amendment: [Art. 5(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/6) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-9cb7c122371ae29087f2785104b9ddda]: Textual amendment: [Art. 5(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/5/6) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 38(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/38/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-d0a7421fc6115f2598242397b45775db]: Commencement: Art. 6 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-d0a7421fc6115f2598242397b45775db]: Commencement: Art. 6 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-af044d4a338f92da3e0c1092c9e9a96b]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/uksi/2005/3172/article/6) heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 176(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/176/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-af044d4a338f92da3e0c1092c9e9a96b]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/uksi/2005/3172/article/6) heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 176(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/176/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a3261caf0c3cabb56e7308f35037be2c]: Textual amendment: Word in [art. 6(1)-(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/6/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 176(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/176/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a3261caf0c3cabb56e7308f35037be2c]: Textual amendment: Word in [art. 6(1)-(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/6/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 176(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/176/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-69bcb98245e8f07003f6ee62e1fccc91]: Commencement: Art. 7 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-69bcb98245e8f07003f6ee62e1fccc91]: Commencement: Art. 7 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-745a546aabf537db742bcbd023febf87]: Textual amendment: Word in [art. 7(1)-(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-745a546aabf537db742bcbd023febf87]: Textual amendment: Word in [art. 7(1)-(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a377e5456f612ae4b5ebdff6a6063ada]: Textual amendment: Word in [art. 7(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/3/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a377e5456f612ae4b5ebdff6a6063ada]: Textual amendment: Word in [art. 7(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/3/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-5f32dddece7d22c222e93164e76dcfaa]: Textual amendment: Words in [art. 7(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/3/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5f32dddece7d22c222e93164e76dcfaa]: Textual amendment: Words in [art. 7(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/3/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9b9d31687aa8f00348c0651896c69409]: Textual amendment: Word in [art. 7(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/7)[(8)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/8) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9b9d31687aa8f00348c0651896c69409]: Textual amendment: Word in [art. 7(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/7)[(8)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/8) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-d6c2970477a3319393e51818e196f469]: Textual amendment: Word in [art. 7(9)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/9/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(d)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/d/i)
+[^c-d6c2970477a3319393e51818e196f469]: Textual amendment: Word in [art. 7(9)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/9/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(d)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/d/i)
 
-[^key-6536891bce22aa818a4588fb502cbded]: Textual amendment: Word in [art. 7(9)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/9/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(d)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/d/ii)
+[^c-6536891bce22aa818a4588fb502cbded]: Textual amendment: Word in [art. 7(9)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/9/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(d)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/d/ii)
 
-[^key-e0acae57d4f7893c12e8b457ff983898]: Textual amendment: [Art. 7(9)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/9/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(d)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/d/iii)
+[^c-e0acae57d4f7893c12e8b457ff983898]: Textual amendment: [Art. 7(9)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/9/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(d)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/d/iii)
 
-[^key-c8ea3682ad9b4738ba620d54c8cb990a]: Textual amendment: Word in [art. 7(10)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/10) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c8ea3682ad9b4738ba620d54c8cb990a]: Textual amendment: Word in [art. 7(10)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/10) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a49b6778b78e5e477c1fcec3f986ab16]: Textual amendment: Word in [art. 7(12)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/12) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(6)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a49b6778b78e5e477c1fcec3f986ab16]: Textual amendment: Word in [art. 7(12)](https://www.legislation.gov.uk/uksi/2005/3172/article/7/12) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 177(6)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/177/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e9bbcb17ada2a78df990eb2428a81dda]: Commencement: Art. 8 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-e9bbcb17ada2a78df990eb2428a81dda]: Commencement: Art. 8 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-09c94d8b8cc35fec0719dfb868fb7975]: Textual amendment: Word in [art. 8(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-09c94d8b8cc35fec0719dfb868fb7975]: Textual amendment: Word in [art. 8(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-fdd620cb3b5e9727c88a6d04dd16a0e3]: Textual amendment: Word in [art. 8(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/3/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-fdd620cb3b5e9727c88a6d04dd16a0e3]: Textual amendment: Word in [art. 8(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/3/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-8ccce9bf4248bff66b676e51bd002b1d]: Textual amendment: Word in [art. 8(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/3/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8ccce9bf4248bff66b676e51bd002b1d]: Textual amendment: Word in [art. 8(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/2) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/3/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-3920dabd6901f291d65981c41a15c467]: Textual amendment: Word in [art. 8(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-3920dabd6901f291d65981c41a15c467]: Textual amendment: Word in [art. 8(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-1b3fd9c5815e41f6d8c104d179fdf988]: Textual amendment: Word in [art. 8(5)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/5/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(e)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/e/i)
+[^c-1b3fd9c5815e41f6d8c104d179fdf988]: Textual amendment: Word in [art. 8(5)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/5/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(e)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/e/i)
 
-[^key-6b6606b6210b9b015f4f5d036e0019f6]: Textual amendment: Word in [art. 8(5)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/5/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/e/ii)
+[^c-6b6606b6210b9b015f4f5d036e0019f6]: Textual amendment: Word in [art. 8(5)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/5/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(e)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/e/ii)
 
-[^key-031e9c380ce786ae0f07ccef9a93ef6b]: Textual amendment: [Art. 8(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/5/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/e/iii)
+[^c-031e9c380ce786ae0f07ccef9a93ef6b]: Textual amendment: [Art. 8(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/5/a/iv) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(e)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/e/iii)
 
-[^key-af78fc242d18a21ae6c95ddb5ae7a29f]: Textual amendment: Word in [art. 8(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-af78fc242d18a21ae6c95ddb5ae7a29f]: Textual amendment: Word in [art. 8(6)](https://www.legislation.gov.uk/uksi/2005/3172/article/8/6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 178(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/178/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^f00011]: Footnote: Sections 29B and 29F were inserted by the 2005 Act, section 21.
 
-[^key-98d9186abeccefb18f71cf0821f3bb3b]: Commencement: Art. 9 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-98d9186abeccefb18f71cf0821f3bb3b]: Commencement: Art. 9 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-01095952031c7b53684f3c77f4b7c99f]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2005/3172/article/9) heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-01095952031c7b53684f3c77f4b7c99f]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2005/3172/article/9) heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(5)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/5); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a2e536ee49546aece2062ef549f0c461]: Textual amendment: Word in [art. 9(1)-(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a2e536ee49546aece2062ef549f0c461]: Textual amendment: Word in [art. 9(1)-(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/1) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-7a220938c48544b6917e51103152fdd0]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/3/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7a220938c48544b6917e51103152fdd0]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/3/a); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-f7b8b06c87973ecc97a4999f55a0be72]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/3/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-f7b8b06c87973ecc97a4999f55a0be72]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/3/b); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-7495f6352ae669db036496d5cc4fc668]: Textual amendment: Word in [art. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7495f6352ae669db036496d5cc4fc668]: Textual amendment: Word in [art. 9(5)-(8)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 179(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/179/4); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-c068cc6fa1fe00d4f8b7e0cadbdbfdf8]: Textual amendment: Word in [art. 9(7)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/7/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(f)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/f/i)
+[^c-c068cc6fa1fe00d4f8b7e0cadbdbfdf8]: Textual amendment: Word in [art. 9(7)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/7/a) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(f)(i)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/f/i)
 
-[^key-a46ab794f44f35898d030419f707cab5]: Textual amendment: Word in [art. 9(7)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/7/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(f)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/f/ii)
+[^c-a46ab794f44f35898d030419f707cab5]: Textual amendment: Word in [art. 9(7)(a)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/7/a) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(f)(ii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/f/ii)
 
-[^key-f171a276d33fb7198ff06625e400a410]: Textual amendment: [Art. 9(7)(a)(v)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/7/a/v) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(f)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/f/iii)
+[^c-f171a276d33fb7198ff06625e400a410]: Textual amendment: [Art. 9(7)(a)(v)](https://www.legislation.gov.uk/uksi/2005/3172/article/9/7/a/v) omitted (28.10.2011) by virtue of [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/c), [Sch. 3 para. 5(f)(iii)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/3/paragraph/5/f/iii)
 
-[^key-e094c3695f58d7eca0a456df0a74d582]: Commencement: Art. 10 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-e094c3695f58d7eca0a456df0a74d582]: Commencement: Art. 10 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-690c7377217806a8011016fe55a460e0]: Textual amendment: Word in [art. 10(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/2)[(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3)[(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 180(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/180/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-690c7377217806a8011016fe55a460e0]: Textual amendment: Word in [art. 10(2)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/2)[(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3)[(5)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 180(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/180/2); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^f00012]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). There have been amendments to Part 3 which are not relevant to this Order.
 
-[^key-87865d17beef4343f0bb7029e628aaae]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/2/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-87865d17beef4343f0bb7029e628aaae]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/2/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-b7f04524a0a6c3392b9870d9819c8d6e]: Textual amendment: Word in [art. 10(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 246(2)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/246/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-b7f04524a0a6c3392b9870d9819c8d6e]: Textual amendment: Word in [art. 10(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 246(2)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/246/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-dfd0dc5b18bfae92f54143a500431d66]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/2/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-dfd0dc5b18bfae92f54143a500431d66]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/2/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
 [^f00013]: Footnote: Section 117 has been amended by the 2003 Act, section 389 and Schedule 16, paragraph 20.
 
-[^key-d660c4d81978f11a109f3f9ff4d6a20c]: Textual amendment: [Art. 10(3A)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 246(3)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/246/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-d660c4d81978f11a109f3f9ff4d6a20c]: Textual amendment: [Art. 10(3A)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3A) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 246(3)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/246/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-35b5e668404d78d53c9630864b9b837d]: Textual amendment: [Art. 10(4)(b)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/4/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 246(4)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/246/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
+[^c-35b5e668404d78d53c9630864b9b837d]: Textual amendment: [Art. 10(4)(b)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/4/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 246(4)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/246/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/892/schedule/2/paragraph/2))
 
-[^key-9b677a7aa8c0bff2a2457bd2d8a49190]: Textual amendment: [Art. 10(6)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/6/a/i) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 180(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/180/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9b677a7aa8c0bff2a2457bd2d8a49190]: Textual amendment: [Art. 10(6)(a)(i)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/6/a/i) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 180(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/180/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9a42bb5d70017a17169cb5b286921c78]: Textual amendment: Words in [art. 10(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/7) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/3/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-9a42bb5d70017a17169cb5b286921c78]: Textual amendment: Words in [art. 10(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/7) substituted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/3/a); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-5705cc0808458d242a1b97c0b828b757]: Textual amendment: Words in [art. 10(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/7) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/3/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-5705cc0808458d242a1b97c0b828b757]: Textual amendment: Words in [art. 10(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/7) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/3/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-d35f80b30e47cb88bee109141165c1ed]: Textual amendment: [Art. 10(8)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/8) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-d35f80b30e47cb88bee109141165c1ed]: Textual amendment: [Art. 10(8)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/8) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-cfb8fd0a6b1653235171f16222391339]: Commencement: Art. 11 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-cfb8fd0a6b1653235171f16222391339]: Commencement: Art. 11 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
-[^key-1c092501150c6db0c66927c182a6d144]: Commencement: Sch. para. 1 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-1c092501150c6db0c66927c182a6d144]: Commencement: Sch. para. 1 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
 [^f00014]: Footnote: There have been amendments to Schedule 1 which are not relevant to this Order.
 
-[^key-fd5a423d0c63414af0eb2a2e8282b67a]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/3172/schedule/paragraph/2) repealed (4.4.2011) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/3) (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
+[^c-fd5a423d0c63414af0eb2a2e8282b67a]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/3172/schedule/paragraph/2) repealed (4.4.2011) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/3) (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
 
-[^key-f8ea05c831e6e447cd18eb74e0809557]: Commencement: Sch. para. 3 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-f8ea05c831e6e447cd18eb74e0809557]: Commencement: Sch. para. 3 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
 [^f00016]: Footnote: Paragraph 19A was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 187(3) and amended by the 2003 Act, section 406 and Schedule 17, paragraph 153.
 
 [^f00017]: Footnote: Schedule 7A was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 187(4) and Schedule 12 and amended by the 2003 Act, section 406 and Schedule 17, paragraph 154.
 
-[^key-ddbe49319f99cb44283392c4058d3f8b]: Commencement: Sch. para. 4 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-ddbe49319f99cb44283392c4058d3f8b]: Commencement: Sch. para. 4 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
 [^f00018]: Footnote: Section 104(1) was amended by the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), section 53.
 
-[^key-36ce772f1a06f5c53d4fe94d6b56990d]: Commencement: Sch. para. 5 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
+[^c-36ce772f1a06f5c53d4fe94d6b56990d]: Commencement: Sch. para. 5 in force at 11.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3172/article/1/1)
 
 [^f00019]: Footnote: [S.I. 1999/1549](https://www.legislation.gov.uk/uksi/1999/1549); the relevant amending instrument is [S.I. 2003/1993](https://www.legislation.gov.uk/uksi/2003/1993).

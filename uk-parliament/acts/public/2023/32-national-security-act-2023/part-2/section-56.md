@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Offence[^key-6e47cf76b42fb0c93d9929c18bba8903][^key-74bcb770e2c19d39ebcdde2aea43a510]
+## 56. Offence[^c-6e47cf76b42fb0c93d9929c18bba8903][^c-74bcb770e2c19d39ebcdde2aea43a510]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ subsection (1)(b) has effect, in relation to that act, with the omission of the 
 
 ## Annotations
 
-[^key-6e47cf76b42fb0c93d9929c18bba8903]: Commencement: S. 56 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-6e47cf76b42fb0c93d9929c18bba8903]: Commencement: S. 56 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-74bcb770e2c19d39ebcdde2aea43a510]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/32/section/56) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-74bcb770e2c19d39ebcdde2aea43a510]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2023/32/section/56) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76A. Time and manner of granting community charge benefit in respect of personal community charges in England and Wales[^key-2157c775550fdfaa3c28f9cf5e39edb9]
+## 76A. Time and manner of granting community charge benefit in respect of personal community charges in England and Wales[^c-2157c775550fdfaa3c28f9cf5e39edb9]
 
 *Extent: E+W+S*
 
 (1) Subject to regulations 80, 81 and 82 (withholding of benefit, payments on death and offsetting), where a person is entitled to community charge benefit in respect of his liability for a charging authority’s personal community charge, in pursuance of the 1988 Act, as it has effect in respect of the relevant or any subsequent chargeable financial year, the appropriate authority shall discharge his entitlement by reducing, so far as possible, the amount of that liability as provided in regulation 16(3) of the Community Charges (Administration and Enforcement) Regulations 1989 (demand notices personal community charges) (the Administration Regulations) or, so far as such reductions are not possible, by making payments to him of the benefit to which he is entitled.
 
-(2) The appropriate authority, in any case to which paragraph (1) applies, shall notify the person entitled to community charge benefit of the amount of that benefit and how his entitlement is to be discharged in pursuance of paragraph (1) , except that where a personal community charge is reduced solely in consequence of the Community Charge (General Reduction) Act 1991 a notice under this regulation in respect of that reduction need not be given[^key-24d72a0e418a5da31554f37e3a56986b].
+(2) The appropriate authority, in any case to which paragraph (1) applies, shall notify the person entitled to community charge benefit of the amount of that benefit and how his entitlement is to be discharged in pursuance of paragraph (1) , except that where a personal community charge is reduced solely in consequence of the Community Charge (General Reduction) Act 1991 a notice under this regulation in respect of that reduction need not be given[^c-24d72a0e418a5da31554f37e3a56986b].
 
 (3) When payments fall to he made in pursuance of paragraph (1) to a person—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2157c775550fdfaa3c28f9cf5e39edb9]: Textual amendment: [Reg. 76A](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76A) inserted (1.4.1991) by [The Community Charge Benefits (General) Amendment Regulations 1991 (S.I. 1991/234)](https://www.legislation.gov.uk/uksi/1991/234), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/234/regulation/1/1/b), [8](https://www.legislation.gov.uk/uksi/1991/234/regulation/8)
+[^c-2157c775550fdfaa3c28f9cf5e39edb9]: Textual amendment: [Reg. 76A](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76A) inserted (1.4.1991) by [The Community Charge Benefits (General) Amendment Regulations 1991 (S.I. 1991/234)](https://www.legislation.gov.uk/uksi/1991/234), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1991/234/regulation/1/1/b), [8](https://www.legislation.gov.uk/uksi/1991/234/regulation/8)
 
-[^key-24d72a0e418a5da31554f37e3a56986b]: Textual amendment: Words in [reg. 76A(2)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76A/2) added (1.4.1991) by [The Community Charge Benefits (General) Amendment (No. 2) Regulations 1991 (S.I. 1991/849)](https://www.legislation.gov.uk/uksi/1991/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/849/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/1991/849/regulation/7)
+[^c-24d72a0e418a5da31554f37e3a56986b]: Textual amendment: Words in [reg. 76A(2)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/76A/2) added (1.4.1991) by [The Community Charge Benefits (General) Amendment (No. 2) Regulations 1991 (S.I. 1991/849)](https://www.legislation.gov.uk/uksi/1991/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/849/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/1991/849/regulation/7)

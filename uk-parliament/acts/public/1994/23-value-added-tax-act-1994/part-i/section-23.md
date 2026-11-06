@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Value of supplies involving relevant machine games[^key-a8a094bc20def916684ae9ae038e99b8]
+## 23. Value of supplies involving relevant machine games[^c-a8a094bc20def916684ae9ae038e99b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8a094bc20def916684ae9ae038e99b8]: Textual amendment: Ss. 23, 23A substituted for s. 23 (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 63](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/63)
+[^c-a8a094bc20def916684ae9ae038e99b8]: Textual amendment: Ss. 23, 23A substituted for s. 23 (with effect in accordance with Sch. 24 para. 66(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 63](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/63)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Calculation of weekly amounts[^key-304a484ec403c82286672c3380c7db31]
+## 56. Calculation of weekly amounts[^c-304a484ec403c82286672c3380c7db31]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-304a484ec403c82286672c3380c7db31]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1988/1890/regulation/56) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-304a484ec403c82286672c3380c7db31]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1988/1890/regulation/56) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

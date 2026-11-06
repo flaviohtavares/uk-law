@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: N.I.*
 
-A person who is responsible for one or more children or qualifying young persons[^key-d0240bae679fdbded3534dd982260e36] in any week shall be entitled, subject to the provisions of this Part of this Act, to a benefit (to be known as “**child benefit**”) for that week in respect of the child or qualifying young person, or each of the children or qualifying young persons,[^key-1d0a14b9ae30b379ae81bfd727598730] for whom he is responsible.
+A person who is responsible for one or more children or qualifying young persons[^c-d0240bae679fdbded3534dd982260e36] in any week shall be entitled, subject to the provisions of this Part of this Act, to a benefit (to be known as “**child benefit**”) for that week in respect of the child or qualifying young person, or each of the children or qualifying young persons,[^c-1d0a14b9ae30b379ae81bfd727598730] for whom he is responsible.
 
 ## Annotations
 
-[^key-d0240bae679fdbded3534dd982260e36]: Textual amendment: Words in [s. 137](https://www.legislation.gov.uk/ukpga/1992/7/section/137) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2005/6/section/2/1/a), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)
+[^c-d0240bae679fdbded3534dd982260e36]: Textual amendment: Words in [s. 137](https://www.legislation.gov.uk/ukpga/1992/7/section/137) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2005/6/section/2/1/a), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)
 
-[^key-1d0a14b9ae30b379ae81bfd727598730]: Textual amendment: Words in [s. 137](https://www.legislation.gov.uk/ukpga/1992/7/section/137) substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2005/6/section/2/1/b), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)
+[^c-1d0a14b9ae30b379ae81bfd727598730]: Textual amendment: Words in [s. 137](https://www.legislation.gov.uk/ukpga/1992/7/section/137) substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2005/6/section/2/1/b), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)

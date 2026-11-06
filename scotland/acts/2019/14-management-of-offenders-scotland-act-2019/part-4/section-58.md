@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Parole Board recommendations: publication of test[^key-4498a52a4d335b22835337ccc31b2546]
+## 58. Parole Board recommendations: publication of test[^c-4498a52a4d335b22835337ccc31b2546]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4498a52a4d335b22835337ccc31b2546]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2019/14/section/58) in force at 3.7.2023 by [S.S.I. 2023/182](https://www.legislation.gov.uk/ssi/2023/182), [reg. 2](https://www.legislation.gov.uk/ssi/2023/182/regulation/2)
+[^c-4498a52a4d335b22835337ccc31b2546]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2019/14/section/58) in force at 3.7.2023 by [S.S.I. 2023/182](https://www.legislation.gov.uk/ssi/2023/182), [reg. 2](https://www.legislation.gov.uk/ssi/2023/182/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Guidance on corporate parenting[^key-fb179bdc1a9eaeb801373f8b3a5b3e5f]
+## 63. Guidance on corporate parenting[^c-fb179bdc1a9eaeb801373f8b3a5b3e5f]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb179bdc1a9eaeb801373f8b3a5b3e5f]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/8/section/63) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-fb179bdc1a9eaeb801373f8b3a5b3e5f]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/8/section/63) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

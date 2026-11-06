@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13B. Validity of proceedings[^key-17a13a9149ee1ec3ef68edb3bf442301]
+## 13B. Validity of proceedings[^c-17a13a9149ee1ec3ef68edb3bf442301]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17a13a9149ee1ec3ef68edb3bf442301]: Textual amendment: Ss. 13A, 13B inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-17a13a9149ee1ec3ef68edb3bf442301]: Textual amendment: Ss. 13A, 13B inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

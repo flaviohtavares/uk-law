@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35.[^key-dcf8cb000a6dfa68ae486b57e91c8302]
+## 35.[^c-dcf8cb000a6dfa68ae486b57e91c8302]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ In Schedule 11A (specified persons, descriptions, disclosures etc for the purpos
 
 ## Annotations
 
-[^key-dcf8cb000a6dfa68ae486b57e91c8302]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-dcf8cb000a6dfa68ae486b57e91c8302]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586711]: Marginal citation: Schedule 11A was inserted by regulation 8(2) and the Schedule to [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494). Paragraph 78 was amended by article 6(1) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 

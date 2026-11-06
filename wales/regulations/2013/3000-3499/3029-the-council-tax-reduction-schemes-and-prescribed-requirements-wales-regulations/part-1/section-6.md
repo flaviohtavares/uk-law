@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Meaning of “family”[^key-b425f3278eef7ab3e477a34bcd8e4dd0]
+## 6. Meaning of “family”[^c-b425f3278eef7ab3e477a34bcd8e4dd0]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b425f3278eef7ab3e477a34bcd8e4dd0]: Commencement: Reg. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-b425f3278eef7ab3e477a34bcd8e4dd0]: Commencement: Reg. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00069]: Footnote: Section 145A was inserted by the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21), section 55(1).
 

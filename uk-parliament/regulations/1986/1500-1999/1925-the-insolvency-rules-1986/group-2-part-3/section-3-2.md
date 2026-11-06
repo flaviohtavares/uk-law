@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.2. Notice and advertisement of appointment[^key-cad66cd27ba29b31731971a7884b2894]
+## 3.2. Notice and advertisement of appointment[^c-cad66cd27ba29b31731971a7884b2894]
 
 *Extent: E+W*
 
 (1) This Rule relates to the notice which a person is required by section 46(1) to send and publish, when appointed as administrative receiver.
 
-(2) The following matters shall be stated in the notices sent to the company and the creditors[^key-d117ae5daf1c145489b062ed1f008fba]—
+(2) The following matters shall be stated in the notices sent to the company and the creditors[^c-d117ae5daf1c145489b062ed1f008fba]—
 
 - (a) the registered name of the company, as at the date of the appointment, and its registered number;
 - (b) any other name with which the company has been registered in the 12 months preceding that date;
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cad66cd27ba29b31731971a7884b2894]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-cad66cd27ba29b31731971a7884b2894]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-d117ae5daf1c145489b062ed1f008fba]: Textual amendment: Words in [rule 3.2(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/3.2/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/24)
+[^c-d117ae5daf1c145489b062ed1f008fba]: Textual amendment: Words in [rule 3.2(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/3.2/2) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/24)

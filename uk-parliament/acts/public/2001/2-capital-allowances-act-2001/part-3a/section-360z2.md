@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360Z2. Apportionment of sums partly referable to non-qualifying assets[^key-e55c9e0cbb84c78796990128c4d86b99]
+## 360Z2. Apportionment of sums partly referable to non-qualifying assets[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ only so much of the sum as on a just and reasonable apportionment is attributabl
 
 ## Annotations
 
-[^key-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)

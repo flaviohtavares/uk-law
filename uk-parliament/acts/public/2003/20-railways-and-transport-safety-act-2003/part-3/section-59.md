@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Statistics[^key-020a2ad672c84937599a8e2b73a260e7]
+## 59. Statistics[^c-020a2ad672c84937599a8e2b73a260e7]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-020a2ad672c84937599a8e2b73a260e7]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2003/20/section/59) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(pp)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/pp)
+[^c-020a2ad672c84937599a8e2b73a260e7]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2003/20/section/59) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(pp)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/pp)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Completion of transfer[^key-c32df2a6551230abb97ddde772c17088]
+## 64. Completion of transfer[^c-c32df2a6551230abb97ddde772c17088]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ the security does not, by virtue of subsection (8), cease to burden that other l
 
 ## Annotations
 
-[^key-c32df2a6551230abb97ddde772c17088]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2016/18/section/64) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-c32df2a6551230abb97ddde772c17088]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2016/18/section/64) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

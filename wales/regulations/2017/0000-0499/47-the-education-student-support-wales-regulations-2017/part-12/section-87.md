@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. New part-time course grant[^key-e553b398736dcb5fb3163db5e78407e8]
+## 87. New part-time course grant[^c-e553b398736dcb5fb3163db5e78407e8]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e553b398736dcb5fb3163db5e78407e8]: Commencement: Reg. 87 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-e553b398736dcb5fb3163db5e78407e8]: Commencement: Reg. 87 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Assistant Commissioners of Police of the Metropolis[^key-a31c2be2ac34e66e361eb20c33b73952]
+## 45. Assistant Commissioners of Police of the Metropolis[^c-a31c2be2ac34e66e361eb20c33b73952]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a31c2be2ac34e66e361eb20c33b73952]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2011/13/section/45) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-a31c2be2ac34e66e361eb20c33b73952]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2011/13/section/45) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2F. Provision of information to Commissioner[^key-97eb5d47e2a0a8180f38ed05c5bfcc1a]
+## 2F. Provision of information to Commissioner[^c-97eb5d47e2a0a8180f38ed05c5bfcc1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97eb5d47e2a0a8180f38ed05c5bfcc1a]: Textual amendment: S. 2F inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 110](https://www.legislation.gov.uk/ukpga/2014/6/section/110), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-97eb5d47e2a0a8180f38ed05c5bfcc1a]: Textual amendment: S. 2F inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 110](https://www.legislation.gov.uk/ukpga/2014/6/section/110), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

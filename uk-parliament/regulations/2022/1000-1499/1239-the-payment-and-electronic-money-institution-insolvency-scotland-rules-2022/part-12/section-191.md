@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 191. Right to copy documents[^key-0a7401a869ed7d116b173df3cddf860a]
+## 191. Right to copy documents[^c-0a7401a869ed7d116b173df3cddf860a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the Regulations or these Rules confer a right for any person to inspect do
 
 ## Annotations
 
-[^key-0a7401a869ed7d116b173df3cddf860a]: Commencement: Rule 191 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0a7401a869ed7d116b173df3cddf860a]: Commencement: Rule 191 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

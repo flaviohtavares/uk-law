@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Crown application[^key-ed9e97a637d7aa7cd58cd559af1790c9]
+## 37. Crown application[^c-ed9e97a637d7aa7cd58cd559af1790c9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed9e97a637d7aa7cd58cd559af1790c9]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2015/10/section/37) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-ed9e97a637d7aa7cd58cd559af1790c9]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2015/10/section/37) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Failure of a pilot in command, flight crew or a remote pilot to remain at stations[^key-4450c389e6cd031794906071ee48639a]
+## 128. Failure of a pilot in command, flight crew or a remote pilot to remain at stations[^c-4450c389e6cd031794906071ee48639a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4450c389e6cd031794906071ee48639a]: Commencement: Reg. 128 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4450c389e6cd031794906071ee48639a]: Commencement: Reg. 128 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

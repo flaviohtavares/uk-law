@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Role of the Mayor of London in relation to action plans.[^key-e7e5bb930aa5ef167f619dcaecbd2829]
+## 86A. Role of the Mayor of London in relation to action plans.[^c-e7e5bb930aa5ef167f619dcaecbd2829]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e5bb930aa5ef167f619dcaecbd2829]: Textual amendment: Ss. 86A, 86B substituted for s. 86A (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/10) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-e7e5bb930aa5ef167f619dcaecbd2829]: Textual amendment: Ss. 86A, 86B substituted for s. 86A (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/10) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^key-3f9b47d73bcaabfedd978eb0c5e1cf1d]
+## 106. Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^c-3f9b47d73bcaabfedd978eb0c5e1cf1d]
 
 *Extent: N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f9b47d73bcaabfedd978eb0c5e1cf1d]: Commencement: Reg. 106 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-3f9b47d73bcaabfedd978eb0c5e1cf1d]: Commencement: Reg. 106 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00169]: Footnote: [S.R. (N.I.) 2006/149](https://www.legislation.gov.uk/nisr/2006/149).

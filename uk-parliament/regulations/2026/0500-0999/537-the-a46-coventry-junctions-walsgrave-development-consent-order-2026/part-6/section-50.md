@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Certification of documents, plans etc.[^key-9efb926bf3f3eb266cb26a2da506eb6f]
+## 50. Certification of documents, plans etc.[^c-9efb926bf3f3eb266cb26a2da506eb6f]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9efb926bf3f3eb266cb26a2da506eb6f]: Commencement: Art. 50 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-9efb926bf3f3eb266cb26a2da506eb6f]: Commencement: Art. 50 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)

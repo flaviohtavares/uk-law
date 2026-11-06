@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.8. Judicial review appeals from the High Court[^key-80838474f749f7ae040b777947f28e75]
+## 52.8. Judicial review appeals from the High Court[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
-(1) Where permission to apply for judicial review has been refused at a hearing in the High Court, an application for permission to appeal may be made to the Court of Appeal except where precluded by section 18(1)[^key-d0046e159e28e3162bee23004315bbda] [^key-ccd77a9ed794010c3beea9c249c21a39]... of the Senior Courts Act 1981.
+(1) Where permission to apply for judicial review has been refused at a hearing in the High Court, an application for permission to appeal may be made to the Court of Appeal except where precluded by section 18(1)[^c-d0046e159e28e3162bee23004315bbda] [^c-ccd77a9ed794010c3beea9c249c21a39]... of the Senior Courts Act 1981.
 
 (2) Where permission to apply for judicial review of a decision of the Upper Tribunal has been refused by the High Court on the papers or where permission to apply for judicial review has been refused on the papers and recorded as being totally without merit in accordance with rule 23.12, an application for permission to appeal may be made to the Court of Appeal.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-d0046e159e28e3162bee23004315bbda]: Textual amendment: Words in rule 52.8(1) inserted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [24(7)](https://www.legislation.gov.uk/uksi/2023/788/rule/24/7)
+[^c-d0046e159e28e3162bee23004315bbda]: Textual amendment: Words in rule 52.8(1) inserted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [24(7)](https://www.legislation.gov.uk/uksi/2023/788/rule/24/7)
 
-[^key-ccd77a9ed794010c3beea9c249c21a39]: Textual amendment: Word in [rule 52.8(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/52.8/1) omitted (1.10.2025) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [9(1)](https://www.legislation.gov.uk/uksi/2025/893/rule/9/1)
+[^c-ccd77a9ed794010c3beea9c249c21a39]: Textual amendment: Word in [rule 52.8(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/52.8/1) omitted (1.10.2025) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [9(1)](https://www.legislation.gov.uk/uksi/2025/893/rule/9/1)

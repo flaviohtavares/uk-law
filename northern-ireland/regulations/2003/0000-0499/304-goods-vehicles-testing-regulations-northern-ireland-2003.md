@@ -43,13 +43,13 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-569a6ef49cc7c0f668319fe223cf4dc8]
+### 1. Citation and commencement[^c-569a6ef49cc7c0f668319fe223cf4dc8]
 
 (1) These Regulations may be cited as the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003.
 
 (2) These Regulations shall come into operation on 1st August 2003.
 
-### 2. Interpretation[^key-bdff6c3ad1a3fe18094c58232f6092d7]
+### 2. Interpretation[^c-bdff6c3ad1a3fe18094c58232f6092d7]
 
 (1) In these Regulations –
 
@@ -96,7 +96,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (3) For the purposes of these Regulations, in determining when a trailer is first sold or supplied by retail the date of such first sale or supply by retail shall in the case of a trailer which is constructed with a chassis be taken to be the date on which the chassis (with or without a body mounted on it) is first sold or supplied by retail and in the case of any other trailer to be taken to be the date the trailer is first sold or supplied by retail.
 
-### 3. Application[^key-35fd1b7cff35b8814278b9fa99efba34]
+### 3. Application[^c-35fd1b7cff35b8814278b9fa99efba34]
 
 (1) Subject to paragraph (2), these Regulations apply to goods vehicles being –
 
@@ -109,13 +109,13 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (2) These Regulations do not apply to goods vehicles of any of the classes of vehicle specified in Schedule 2.
 
-### 4. Prescribed requirements for tests[^key-140c768eeca57e126b99b579b53f36f3]
+### 4. Prescribed requirements for tests[^c-140c768eeca57e126b99b579b53f36f3]
 
 (1) Every vehicle submitted for a goods vehicle test in accordance with these Regulations shall be examined for the purpose of ascertaining whether the prescribed construction and use requirements are complied with.
 
 (2) For the purposes of these Regulations the applicability of any of the prescribed construction and use requirements to a vehicle is not affected by Item 5 in the Table in regulation 3(4) of the Construction and Use Regulations (which exempts vehicles being used in the course of a goods vehicle test from certain construction and use requirements).
 
-### 5. Authority to drive and duties of driver[^key-92e77960c564bf85c06f76d4012d5bab]
+### 5. Authority to drive and duties of driver[^c-92e77960c564bf85c06f76d4012d5bab]
 
 (1) The person who drove the vehicle to an examination shall, except so far as he is permitted to be absent by the person who is carrying out the examination, be present throughout the whole of the examination, and shall drive the vehicle and operate its controls when and in such a manner as he may be directed by the person who is carrying out the examination to do so.
 
@@ -123,7 +123,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (3) A contravention of this regulation is hereby declared to be an offence.
 
-### 6. Conditions of acceptance of vehicle[^key-bf924373dd059017fd2ad7909db4598b]
+### 6. Conditions of acceptance of vehicle[^c-bf924373dd059017fd2ad7909db4598b]
 
 An examiner shall not be under an obligation to accept a vehicle for examination or to proceed with an examination in any case where –
 
@@ -136,7 +136,7 @@ An examiner shall not be under an obligation to accept a vehicle for examination
 - (e) the vehicle is one as respects which it has been stated in the application form that it is to be used on roads to draw a trailer and in the last notice of appointment preceding the examination it was required that the vehicle should be accompanied by a trailer which is to be so drawn, and the vehicle is not accompanied by such a trailer;
 - (f) the vehicle is a trailer and is not accompanied by a motor vehicle suitable for drawing that trailer and capable of operating any braking system with which the trailer is equipped;
 - (g) there is not permanently affixed to the chassis or main structure of the vehicle in a conspicuous and easily accessible position so as to be readily legible either –
-  - (i)[^key-c5a2d7aafb25bd9cbc1efcd63b5fd8b7] in the case of a vehicle which has been registered under the 1994 Act, the chassis or serial number shown in the registration document relating to the vehicle; or
+  - (i)[^c-c5a2d7aafb25bd9cbc1efcd63b5fd8b7] in the case of a vehicle which has been registered under the 1994 Act, the chassis or serial number shown in the registration document relating to the vehicle; or
   - (ii) in the case of a trailer, either—
     - (aa) the identification mark allotted to the vehicle by the Department; or
     - (bb) an identification mark allotted to the vehicle by the Secretary of State for Transport;
@@ -149,7 +149,7 @@ An examiner shall not be under an obligation to accept a vehicle for examination
 
 ## PART II — TIMING AND METHOD OF APPLICATION FOR EXAMINATIONS
 
-### 7. Dates by which vehicles are to be submitted for first tests[^key-d61e8d205982043813a7521a1889f1f4]
+### 7. Dates by which vehicles are to be submitted for first tests[^c-d61e8d205982043813a7521a1889f1f4]
 
 (1) Every motor vehicle having a maximum gross weight over 3,500 kilograms shall be submitted for a first test no later than the end of the month in which falls the first anniversary of the date on which it was registered.
 
@@ -157,7 +157,7 @@ An examiner shall not be under an obligation to accept a vehicle for examination
 
 (3) Every motor vehicle having a maximum gross weight of 3,500 kilograms or under shall be submitted for a first test no later than the end of the month in which falls the third anniversary of the date on which it was registered.
 
-### 8. Dates by which vehicles are to be submitted for periodical tests[^key-4f8c8732f1ec195c2f1da3c3784ca759]
+### 8. Dates by which vehicles are to be submitted for periodical tests[^c-4f8c8732f1ec195c2f1da3c3784ca759]
 
 (1) Every vehicle shall, in each year subsequent to the issue of a first goods vehicle test certificate, be submitted for a periodical test either –
 
@@ -166,7 +166,7 @@ An examiner shall not be under an obligation to accept a vehicle for examination
 
 (2) Every vehicle, for which there is a goods vehicle certificate granted under the Goods Vehicles (Certification) Regulations (Northern Ireland) 1990[^f00007], shall be submitted for a periodical test on the date that the goods vehicle certificate ceases to continue in force and subsequently in each year thereafter not later than the anniversary of that date.
 
-### 9. Period of validity of goods vehicle test certificate[^key-a2ebe318bb095382267734eeaf19efd4]
+### 9. Period of validity of goods vehicle test certificate[^c-a2ebe318bb095382267734eeaf19efd4]
 
 (1) A goods vehicle test certificate issued as a result of a first test, a periodical test, or a re-test following a first test or a periodical test, or an appeal by a person aggrieved by a determination on a first test, a periodical test or on a consequent re-test of a vehicle, shall be valid from the date of its issue for a period of 12 months.
 
@@ -174,24 +174,24 @@ An examiner shall not be under an obligation to accept a vehicle for examination
 
 (3) In this regulation “**appropriate period**” means a period of 12 months.
 
-### 10. Manner of making application for first tests or periodical tests, and fees[^key-2efe6463e14206a1f6aa73ddfe61563e]
+### 10. Manner of making application for first tests or periodical tests, and fees[^c-2efe6463e14206a1f6aa73ddfe61563e]
 
 (1) Any person wishing to have a first test or a periodical test carried out on a vehicle shall make an application for that purpose to the Department.
 
 (2) Every person making an application under paragraph (1) shall provide such particulars as the Department may reasonably require and the appropriate fee as determined in accordance with Part I of Schedule 1.
 
-### 11. Time of application for first tests or periodical tests[^key-1bde000299e45183cce52fcc51e0e86b]
+### 11. Time of application for first tests or periodical tests[^c-1bde000299e45183cce52fcc51e0e86b]
 
 Every application for a first test or periodical test of a vehicle shall be made –
 
 - (a) at least six weeks before the date on which the applicant desires to submit the vehicle for the test, and
-- (b) not more than six months[^key-b5161a7a72ecd8d6b65c8abf18c15a60] before the last day by which the vehicle is required by these Regulations to be submitted for that test.
+- (b) not more than six months[^c-b5161a7a72ecd8d6b65c8abf18c15a60] before the last day by which the vehicle is required by these Regulations to be submitted for that test.
 
-### 12. Notice of place and time of first tests or periodical tests[^key-82fa7712402394a733ac53c7fbe900aa]
+### 12. Notice of place and time of first tests or periodical tests[^c-82fa7712402394a733ac53c7fbe900aa]
 
 As soon as reasonably practicable after the date of the receipt of an application for a first test or periodical test and the appropriate fee for that test the Department shall issue notice to the applicant of the vehicle testing centre at which the test is to take place, and the date and time reserved by the Department for that test.
 
-### 13. Application for re-tests following first tests or periodical tests[^key-fbf0561bdffe824354aab64e35a338ec]
+### 13. Application for re-tests following first tests or periodical tests[^c-fbf0561bdffe824354aab64e35a338ec]
 
 (1) Where, under regulation 14, a notification of the refusal of a goods vehicle test certificate in respect of a vehicle is issued the vehicle may be submitted, if need be on more than one occasion, at a vehicle testing centre for a re-test.
 
@@ -203,14 +203,14 @@ As soon as reasonably practicable after the date of the receipt of an applicatio
 
 ## PART III — REGULATIONS GOVERNING EXAMINATIONS
 
-### 14. First tests or periodical tests, and issue of test certificates (or notices of refusal)[^key-176ce1f9ffdd57f35d5c79ecaf2656b1]
+### 14. First tests or periodical tests, and issue of test certificates (or notices of refusal)[^c-176ce1f9ffdd57f35d5c79ecaf2656b1]
 
 On the submission of a vehicle for a first test or periodical test the Department shall arrange for a vehicle to undergo that test, and when that test has been completed there shall be issued—
 
 - (a) where the vehicle is found to comply with the prescribed construction and use requirements, a goods vehicle test certificate, or
 - (b) where the vehicle is found not to comply with the prescribed construction and use requirements, a notice of the refusal of a goods vehicle test certificate.
 
-### 15. Re-test procedure, and issue of test certificates (or notices of refusal )[^key-ee4684619d8ad11311c511c2b5867f3a]
+### 15. Re-test procedure, and issue of test certificates (or notices of refusal )[^c-ee4684619d8ad11311c511c2b5867f3a]
 
 (1) Where a vehicle is submitted for a re-test in circumstances where the fee for the re-test is payable under paragraph (4) of regulation 13 a vehicle examiner shall in carrying out the test be under an obligation only to examine the vehicle for the purpose of ascertaining whether it complies with the particular items of the prescribed construction and use requirements with which it was shown in the last notice of a refusal of a test certificate not to comply.
 
@@ -223,7 +223,7 @@ On the submission of a vehicle for a first test or periodical test the Departmen
 - (a) where the vehicle is found to comply with the prescribed construction and use requirements, a goods vehicle test certificate;
 - (b) where the vehicle is found not to comply with the prescribed construction and use requirements, a notice of the refusal of a goods vehicle test certificate.
 
-### 16. Form of test certificates and notices of refusal[^key-93597b30efeff8b70211d6c83f6887f2]
+### 16. Form of test certificates and notices of refusal[^c-93597b30efeff8b70211d6c83f6887f2]
 
 (1) Goods vehicle test certificates issued under regulation 14 or 15 shall be in the form specified in Schedule 4 or Schedule 5.
 
@@ -236,7 +236,7 @@ On the submission of a vehicle for a first test or periodical test the Departmen
   - (iv) in the case of a notice issued for a trailer, the identification mark which shall be allotted to the trailer by the Department in the notice of appointment (if any); and
 - (b) state the grounds of such refusal.
 
-### 17. Appeals[^key-c26327a177c8ce5a5176e7e199ef1b2f]
+### 17. Appeals[^c-c26327a177c8ce5a5176e7e199ef1b2f]
 
 (1) Any person aggrieved by a determination made on a first test or periodical test of a vehicle, or on a consequent re-test of a vehicle by the person in charge of that test, may appeal to the Department.
 
@@ -263,7 +263,7 @@ On the submission of a vehicle for a first test or periodical test the Departmen
 
 ## PART IV — MISCELLANEOUS MATTERS
 
-### 18. General provisions as to repayment of fees[^key-ffd2dfd97f373bb3549d70b01306320b]
+### 18. General provisions as to repayment of fees[^c-ffd2dfd97f373bb3549d70b01306320b]
 
 (1) The fees paid in pursuance of regulation 10 or 13 shall be repaid –
 
@@ -274,7 +274,7 @@ On the submission of a vehicle for a first test or periodical test the Departmen
 
 (2) In this regulation “**exceptional circumstances**” means an accident, a fire, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts therefor).
 
-### 19. Fees on appeal[^key-c122937b9158dbd4db46258be91e9a5d]
+### 19. Fees on appeal[^c-c122937b9158dbd4db46258be91e9a5d]
 
 (1) After the completion of a re-examination for the purposes of an appeal under Article 66 of the 1995 Order the Department may repay to the appellant, as it thinks fit, either the whole or part of the fee paid on the appeal where it appears to the Department there were substantial grounds for contesting the whole or part of the determination against which the appeal was made.
 
@@ -282,7 +282,7 @@ On the submission of a vehicle for a first test or periodical test the Departmen
 
 (3) Paragraph (2) shall not apply if the appellant has before the time fixed under regulation 17 for the carrying out of the re-examination given the Department not less than 3 clear days' notice (whether in writing or otherwise) at the vehicle testing centre at which his appeal was lodged that he does not propose to submit the vehicle for re-examination at that time.
 
-### 20. Replacement of certificates[^key-398d6d72fae4367525085c370828f283]
+### 20. Replacement of certificates[^c-398d6d72fae4367525085c370828f283]
 
 (1) If a goods vehicle test certificate has been lost or defaced, an application for the issue of a replacement for the certificate lost or defaced may be made to the Department, and every such application shall be accompanied by the payment of the fee of £10·00.
 
@@ -293,14 +293,14 @@ On the submission of a vehicle for a first test or periodical test the Departmen
 
 (3) A re-examination under paragraph (2)(b) shall be carried out as if it were a test under regulation 14, the appropriate fee shall be paid as if the examination were a test under that regulation, and the appropriate documents shall be issued in accordance with regulation 14.
 
-### 21. Display of certificates[^key-c36b6df508a8fc9771c7dd50e410f9ab]
+### 21. Display of certificates[^c-c36b6df508a8fc9771c7dd50e410f9ab]
 
 Where a goods vehicle test certificate is issued under regulation 14, Part 2 of that certificate shall be attached to the vehicle in a securely fitted weather-proof holder and shall be carried on the vehicle at all times when the vehicle is on the road and shall be displayed –
 
 - (a) in the case of a vehicle fitted with a front windscreen extending across the vehicle to its near side, on the near side of the windscreen so that all particulars are clearly visible by daylight from in front of the vehicle; or
 - (b) in all other cases, on the near side of the vehicle not less than 610 millimetres and not more than 1,830 millimetres above the surface of the road so that all particulars are clearly visible by daylight to a person standing at the near side of the vehicle.
 
-### 22. Revocation or suspension of certificates[^key-cd93a2c08956f19c4b843a5b49d37465]
+### 22. Revocation or suspension of certificates[^c-cd93a2c08956f19c4b843a5b49d37465]
 
 (1) The Department may revoke or suspend a goods vehicle test certificate –
 
@@ -313,14 +313,14 @@ Where a goods vehicle test certificate is issued under regulation 14, Part 2 of 
 - (a) the Department shall serve on the owner written notice of such revocation or suspension and the goods vehicle test certificate shall be deemed to be revoked or suspended as from the date of such service; and
 - (b) the owner shall deliver the certificate to the place specified in the notice within 7 days of the date of service of the notice.
 
-### 22A. Certificates of temporary exemption[^key-bdc818f3b0759249fe8188451ac4d581]
+### 22A. Certificates of temporary exemption[^c-bdc818f3b0759249fe8188451ac4d581]
 
 (1) The Department may issue in respect of a vehicle a certificate of temporary exemption, by virtue of which that vehicle shall not, during the period specified in the certificate be subject to the provisions of Article 69(2) of the 1995 Order, where it is satisfied that –
 
 - (a) by reason of exceptional circumstances, as defined in paragraph (3), affecting either a vehicle testing centre or the vehicle, an examination cannot be completed by a date fixed under these Regulations for carrying out the examination; and
 - (b) the use of the vehicle on or after that date would constitute an offence under Article 69(2) of the 1995 Order.
 
-(2) Every certificate of temporary exemption [^key-439d09c10c87b47d9a9279cc2e64052c]...shall contain –
+(2) Every certificate of temporary exemption [^c-439d09c10c87b47d9a9279cc2e64052c]...shall contain –
 
 - (a) in the case of a certificate issued for a motor vehicle, the registration mark (if any) exhibited on the vehicle or, if no such mark is so exhibited, the chassis or serial number marked on the vehicle or, if no such number is so marked, the identification mark which shall have been allotted to the vehicle by the Department;
 - (b) in the case of a certificate issued for a trailer, the identification mark which shall have been allotted to the trailer by the Department in the notice of appointment (if any) relating to the first examination of the trailer or shall have otherwise been allotted to the trailer by the Department under these Regulations;
@@ -329,11 +329,11 @@ Where a goods vehicle test certificate is issued under regulation 14, Part 2 of 
 
 (3) For the purposes of paragraph (1)(a) “exceptional circumstances” means a failure in the supply of essential services or other unexpected happening, a fire, an accident or industrial action.
 
-### 23. Production of certificate on application for licence[^key-f26ea3b4b316151f62bf405418abee83]
+### 23. Production of certificate on application for licence[^c-f26ea3b4b316151f62bf405418abee83]
 
-Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 69(2) of the 1995 Order applies, the licence shall not be granted unless there is produced an effective goods vehicle test certificate or effective certificate of temporary exemption[^key-934131b9556e4c64f9853bf825214d23] .
+Where an application is made for a licence under the 1994 Act for a motor vehicle to which Article 69(2) of the 1995 Order applies, the licence shall not be granted unless there is produced an effective goods vehicle test certificate or effective certificate of temporary exemption[^c-934131b9556e4c64f9853bf825214d23] .
 
-### 24. Computation of time[^key-3af4e6d10327f08fcaaa9ff4cfc3e529]
+### 24. Computation of time[^c-3af4e6d10327f08fcaaa9ff4cfc3e529]
 
 (1) Save in regulations13(4), 17(2), 18(1)(d) (insofar as it relates to 7 days) and 22(2)(b), no period of time prescribed in these Regulations shall include any day which is a Saturday, Sunday or public holiday.
 
@@ -341,7 +341,7 @@ Where an application is made for a licence under the 1994 Act for a motor vehicl
 
 ## PART V — CROWN VEHICLES
 
-### 25. Provisions as to Crown vehicles[^key-deae554fe355f861e41029b354a693dd]
+### 25. Provisions as to Crown vehicles[^c-deae554fe355f861e41029b354a693dd]
 
 (1) Except as provided in paragraphs (2) and (3), these Regulations apply to goods vehicles which are of a class specified in regulation 3 and which are –
 
@@ -357,7 +357,7 @@ Where an application is made for a licence under the 1994 Act for a motor vehicl
 
 ## PART VI — EXEMPTIONS
 
-### 26. Exemptions from Article 69(2) of the 1995 Order[^key-9899948c32b8680d72845108448cfeec]
+### 26. Exemptions from Article 69(2) of the 1995 Order[^c-9899948c32b8680d72845108448cfeec]
 
 The provisions of Article 69(2) of the 1995 Order do not apply to the use of a vehicle for any of the following purposes –
 
@@ -372,7 +372,7 @@ The provisions of Article 69(2) of the 1995 Order do not apply to the use of a v
 - (g) any purpose connected with its removal, detention, seizure, condemnation or forfeiture under any provision in the Customs and Excise Management Act 1979[^f00009];
 - (h) the purpose of removing it in pursuance of an order made under Article 15(1) of the 1997 Order or removing it under Articles 47, 48 or 49 of that Order or Article 30 of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00010].
 
-### 27. Revocation[^key-971aa9738c131def30fd9ad291269824]
+### 27. Revocation[^c-971aa9738c131def30fd9ad291269824]
 
 The Regulations specified in Schedule 6 are hereby revoked.
 
@@ -384,7 +384,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — FEES[^key-249b151f39ddca8a8147136d2b17de07]
+## SCHEDULE 1 — FEES[^c-249b151f39ddca8a8147136d2b17de07]
 
 Regulations 10(2), 13(3) and (4) and 17(4)
 
@@ -429,17 +429,17 @@ Regulations 10(2), 13(3) and (4) and 17(4)
 
 Regulation 3
 
-**1.**[^key-ab134cc0061362df87b7a6b0caf0570c] Dual-purpose vehicles not constructed or adapted to form part of an articulated vehicle.
+**1.**[^c-ab134cc0061362df87b7a6b0caf0570c] Dual-purpose vehicles not constructed or adapted to form part of an articulated vehicle.
 
-**2.**[^key-880970176c2c9bd824fcbd4b8d5552a1] Mobile cranes.
+**2.**[^c-880970176c2c9bd824fcbd4b8d5552a1] Mobile cranes.
 
-**3.**[^key-3ea130033276f589c7313a9d558717a3] Break-down vehicle.
+**3.**[^c-3ea130033276f589c7313a9d558717a3] Break-down vehicle.
 
-**4.**[^key-bca926cac2d4a7955d2e3c27996d24e7] Engineering plant and plant, not being engineering plant, which is movable plant or equipment being a motor vehicle or trailer (not constructed primarily to carry a load) especially designed and constructed for the special purposes of engineering operations.
+**4.**[^c-bca926cac2d4a7955d2e3c27996d24e7] Engineering plant and plant, not being engineering plant, which is movable plant or equipment being a motor vehicle or trailer (not constructed primarily to carry a load) especially designed and constructed for the special purposes of engineering operations.
 
-**5.**[^key-80ffea9bc1b15d574eaaa8f0a1250a16] Trailers being drying or mixing plant designed for the production of asphalt or of bituminous or tar macadam.
+**5.**[^c-80ffea9bc1b15d574eaaa8f0a1250a16] Trailers being drying or mixing plant designed for the production of asphalt or of bituminous or tar macadam.
 
-**6.**[^key-98c0ef7f85dcdb2701e98fc55ef833cc] Tower wagons either –
+**6.**[^c-98c0ef7f85dcdb2701e98fc55ef833cc] Tower wagons either –
 
 - (a)
   - (i) into which there is built, as part of the vehicle, an expanding or extendible device designed for facilitating the erection, inspection, repair or maintenance of overhead structures or equipment, and
@@ -450,31 +450,31 @@ Regulation 3
     - (A) such a device or articles used in connection with it, or
     - (B) articles used in connection with the installation or maintenance (by means of such a device) of materials or apparatus for lighting streets, roads or public places.
 
-**7.**[^key-4b3daf698a54e7ff407d4e8b3c40d6c2] Road construction vehicles and road rollers.
+**7.**[^c-4b3daf698a54e7ff407d4e8b3c40d6c2] Road construction vehicles and road rollers.
 
-**8.**[^key-0122f7be50389995dbc900f02d827085] Vehicles designed for fire fighting or fire salvage purposes.
+**8.**[^c-0122f7be50389995dbc900f02d827085] Vehicles designed for fire fighting or fire salvage purposes.
 
-**9.**[^key-3a733a645c9ffeab125638f4dd9a0446] Work trucks, straddle carriers used solely as work trucks, and works trailers.
+**9.**[^c-3a733a645c9ffeab125638f4dd9a0446] Work trucks, straddle carriers used solely as work trucks, and works trailers.
 
-**10.**[^key-a171f0512b18b471ccc5c1ad044289c2] Electrically-propelled motor vehicles.
+**10.**[^c-a171f0512b18b471ccc5c1ad044289c2] Electrically-propelled motor vehicles.
 
-**11.**[^key-3a09f76c2aa0be6b44847f87538a2587] Vehicles used solely for one or both of the following purposes –
+**11.**[^c-3a09f76c2aa0be6b44847f87538a2587] Vehicles used solely for one or both of the following purposes –
 
 - (a) clearing frost, ice or snow from roads by means of a snow plough or similar contrivance, whether forming part of the vehicle or not, and
 - (b) spreading material on roads to deal with frost, ice or snow.
 
-**12.**[^key-e9d1d4e933ce48954e6ce0d656cef402] Motor vehicles used for no other purpose than the haulage of lifeboats and the conveyance of the necessary gear of the lifeboats which are being hauled.
+**12.**[^c-e9d1d4e933ce48954e6ce0d656cef402] Motor vehicles used for no other purpose than the haulage of lifeboats and the conveyance of the necessary gear of the lifeboats which are being hauled.
 
-**13.**[^key-4dab14ea29c14511eda0632027250a45] Living vans the maximum gross weight of which does not exceed 3,500 kilograms.
+**13.**[^c-4dab14ea29c14511eda0632027250a45] Living vans the maximum gross weight of which does not exceed 3,500 kilograms.
 
-**14.**[^key-c47f515b6cfed0b5f3fa28e9d8979963] Vehicles constructed or adapted for, and used primarily for the purpose of carrying equipment permanently fixed to the vehicle which equipment is used for medical, dental, veterinary, health, educational, display, clerical or experimental laboratory purposes, such use –
+**14.**[^c-c47f515b6cfed0b5f3fa28e9d8979963] Vehicles constructed or adapted for, and used primarily for the purpose of carrying equipment permanently fixed to the vehicle which equipment is used for medical, dental, veterinary, health, educational, display, clerical or experimental laboratory purposes, such use –
 
 - (a) not directly involving the sale, hire or loan of goods from the vehicle, and
 - (b) not directly or indirectly involving drain cleaning or sewage or refuse collection.
 
-**15.**[^key-1ca3befdf15c580aa974644bebf6d8c1] Trailers which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer.
+**15.**[^c-1ca3befdf15c580aa974644bebf6d8c1] Trailers which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer.
 
-**16.**[^key-c4cb5bbaa95923b690caf768acdc80b3] A motor vehicle at a time when it is being used on a public road during any calendar week if –
+**16.**[^c-c4cb5bbaa95923b690caf768acdc80b3] A motor vehicle at a time when it is being used on a public road during any calendar week if –
 
 - (a) it is being used only in passing from land in the occupation of the person, keeping the vehicle to other land in his occupation, and
 - (b) it has not been used on public roads for distances exceeding an aggregate of six miles in that calendar week,
@@ -483,66 +483,66 @@ and to a trailer drawn by a motor vehicle that is being used on a public road in
 
 - For the purposes of this paragraph “**public road**” means a road which is repairable at the public expense.
 
-**17.**[^key-c6695f32956e52b6cccdb4e2245051a6] Agricultural motor vehicles and agricultural trailed appliances.
+**17.**[^c-c6695f32956e52b6cccdb4e2245051a6] Agricultural motor vehicles and agricultural trailed appliances.
 
-**18.**[^key-9fff2cce724bd68b5c1441d74ff0944f] Agricultural trailers and agricultural trailed appliance conveyors drawn on roads only by an agricultural motor vehicle.
+**18.**[^c-9fff2cce724bd68b5c1441d74ff0944f] Agricultural trailers and agricultural trailed appliance conveyors drawn on roads only by an agricultural motor vehicle.
 
-**19.**[^key-094f2b9e0eedb0ef3e121be1a21bbeb6] Converter dollies used solely for the purposes of agriculture, horticulture and forestry, or for any one or two of those purposes.
+**19.**[^c-094f2b9e0eedb0ef3e121be1a21bbeb6] Converter dollies used solely for the purposes of agriculture, horticulture and forestry, or for any one or two of those purposes.
 
-**20.**[^key-5af0c9c9922c5743c67936ec3dfe2c45] Public service vehicles (as defined in Article 2(2) of the Order of 1981).
+**20.**[^c-5af0c9c9922c5743c67936ec3dfe2c45] Public service vehicles (as defined in Article 2(2) of the Order of 1981).
 
-**21.**[^key-ff28af7808de2ede90dbe717a29c9fea] Taxis (as defined in Article 79A of the Order of 1981)[^f00011].
+**21.**[^c-ff28af7808de2ede90dbe717a29c9fea] Taxis (as defined in Article 79A of the Order of 1981)[^f00011].
 
-**22.**[^key-9f22784f5ad993a3ee49ce9c510c7477] Vehicles used solely for the purposes of funerals.
+**22.**[^c-9f22784f5ad993a3ee49ce9c510c7477] Vehicles used solely for the purposes of funerals.
 
-**23.**[^key-250b91fcc9e9106826e126a69fb3551d] Goods vehicles to which any of the prescribed construction and use requirements do not apply by virtue of either of the following items in the Table in regulation 3(4) of the Construction and Use Regulations namely –
+**23.**[^c-250b91fcc9e9106826e126a69fb3551d] Goods vehicles to which any of the prescribed construction and use requirements do not apply by virtue of either of the following items in the Table in regulation 3(4) of the Construction and Use Regulations namely –
 
 - (a) item 1 (which relates to vehicles proceeding to a port for export);
 - (b) item 4 (which relates to vehicles in the service of a visiting force or of a headquarters).
 
-**24.**[^key-6a8abce21b575b360ce545106fbdae3b] Vehicles equipped with new or improved equipment or types of equipment used, solely by a manufacturer of vehicles or their equipment or by an importer of vehicles, for or in connection with the test or trial of any such equipment.
+**24.**[^c-6a8abce21b575b360ce545106fbdae3b] Vehicles equipped with new or improved equipment or types of equipment used, solely by a manufacturer of vehicles or their equipment or by an importer of vehicles, for or in connection with the test or trial of any such equipment.
 
-**25.**[^key-bfd528412f6f75bcccca46434b90fe6f] Motor vehicles brought into Northern Ireland and displaying a registration mark mentioned in regulation 2(1) of the Motor Vehicles (International Circulation) (Registration and Licensing) Regulations (Northern Ireland) 1963[^f00012], a period of twelve months not having elapsed since the vehicle in question was last brought into Northern Ireland.
+**25.**[^c-bfd528412f6f75bcccca46434b90fe6f] Motor vehicles brought into Northern Ireland and displaying a registration mark mentioned in regulation 2(1) of the Motor Vehicles (International Circulation) (Registration and Licensing) Regulations (Northern Ireland) 1963[^f00012], a period of twelve months not having elapsed since the vehicle in question was last brought into Northern Ireland.
 
-**26.**[^key-96e39be3c110b0460353f4abd5ca4918] Motor vehicles in respect of which a goods vehicle test certificate under section 49 of the Road Traffic Act 1988[^f00013] is in force.
+**26.**[^c-96e39be3c110b0460353f4abd5ca4918] Motor vehicles in respect of which a goods vehicle test certificate under section 49 of the Road Traffic Act 1988[^f00013] is in force.
 
-**27.**[^key-73cf549bce9e12ef332075f7afc099de] Goods vehicles not exceeding 3,500 kilograms in respect of which a vehicle test certificate, under section 45 of the Road Traffic Act 1988, is in force.
+**27.**[^c-73cf549bce9e12ef332075f7afc099de] Goods vehicles not exceeding 3,500 kilograms in respect of which a vehicle test certificate, under section 45 of the Road Traffic Act 1988, is in force.
 
-**28.**[^key-181363fd7423735140536878ba7be9fd] Trailers brought into Northern Ireland and having a base or centre in a country outside Northern Ireland from which the use of the vehicle on a journey is normally commenced, a period of twelve months not having elapsed since the vehicle in question was last brought into Northern Ireland.
+**28.**[^c-181363fd7423735140536878ba7be9fd] Trailers brought into Northern Ireland and having a base or centre in a country outside Northern Ireland from which the use of the vehicle on a journey is normally commenced, a period of twelve months not having elapsed since the vehicle in question was last brought into Northern Ireland.
 
-**29.**[^key-af89e6f17f984cda3275c135e2d0424c] Industrial tractors.
+**29.**[^c-af89e6f17f984cda3275c135e2d0424c] Industrial tractors.
 
-**30.**[^key-3a9e10c11d409c49fe50742fdd5c23db] Track-laying vehicles.
+**30.**[^c-3a9e10c11d409c49fe50742fdd5c23db] Track-laying vehicles.
 
-**31.**[^key-2231736d652bf9aa8a1b0458cb3d9fff] Steam propelled vehicles.
+**31.**[^c-2231736d652bf9aa8a1b0458cb3d9fff] Steam propelled vehicles.
 
-**32.**[^key-145efe2b5994f58a330b49fac077353d] Motor vehicles first used before 1st January 1960, used unladen and not drawing a laden trailer, and trailers manufactured before 1st January 1960 and used unladen.
+**32.**[^c-145efe2b5994f58a330b49fac077353d] Motor vehicles first used before 1st January 1960, used unladen and not drawing a laden trailer, and trailers manufactured before 1st January 1960 and used unladen.
 
 For the purposes of this paragraph any determination as to when a motor vehicle is first used shall be made as provided in regulation 2(4) of the Construction and Use Regulations.
 
-**33.**[^key-eb5e4fc8bdbcbc2b386fd704cc47174e] Motor vehicles constructed and not merely adapted, for the purpose of street cleansing, or the collection or disposal of refuse or the collection or disposal of the contents of gullies and which are either –
+**33.**[^c-eb5e4fc8bdbcbc2b386fd704cc47174e] Motor vehicles constructed and not merely adapted, for the purpose of street cleansing, or the collection or disposal of refuse or the collection or disposal of the contents of gullies and which are either –
 
 - (a) three-wheeled vehicles, or
 - (b) vehicles which –
   - (i) are incapable by reason of their construction of exceeding a speed of 20 miles per hour on the level under their own power, or
   - (ii) have an inside track width of less than 810 millimetres.
 
-**34.**[^key-9b20b398c057b42eddd150bf1c5efc24] Vehicles designed and used for the purpose of servicing or controlling or loading, or unloading aircraft while so used –
+**34.**[^c-9b20b398c057b42eddd150bf1c5efc24] Vehicles designed and used for the purpose of servicing or controlling or loading, or unloading aircraft while so used –
 
 - (a) on an airport as defined in Article 2(2) of the Airports (Northern Ireland) Order 1994[^f00014];
 - (b) on roads outside such an airport if, except when proceeding directly from one part of such an airport to another part thereof, the vehicles are unladen and are not drawing a laden trailer.
 
-**35.**[^key-aff5098483d35c6856c84ea84ddc42e6] Vehicles designed for use and used on an airport mentioned in paragraph 34, solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools.
+**35.**[^c-aff5098483d35c6856c84ea84ddc42e6] Vehicles designed for use and used on an airport mentioned in paragraph 34, solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools.
 
-**36.**[^key-c3283b5d6126b055ec6cce6d6922269c] Vehicles provided for police purposes.
+**36.**[^c-c3283b5d6126b055ec6cce6d6922269c] Vehicles provided for police purposes.
 
-**37.**[^key-2b4afcf8c53eb60b3023aa5e347becf7] Heavy motor cars constructed or adapted for the purpose of forming part of an articulated vehicle and which are used for drawing only a trailer falling within a class of vehicle specified in paragraph 13, 14 or 15 or a trailer being used for or in connection with any purpose for which it is authorised to be used on roads by an order under Article 60(1) of the 1995 Order, being an order authorising that trailer or any class or description of trailers comprising that trailer to be used on roads.
+**37.**[^c-2b4afcf8c53eb60b3023aa5e347becf7] Heavy motor cars constructed or adapted for the purpose of forming part of an articulated vehicle and which are used for drawing only a trailer falling within a class of vehicle specified in paragraph 13, 14 or 15 or a trailer being used for or in connection with any purpose for which it is authorised to be used on roads by an order under Article 60(1) of the 1995 Order, being an order authorising that trailer or any class or description of trailers comprising that trailer to be used on roads.
 
-**38.**[^key-85457ef8cb99d13e53c58d04bdb5e927] Play-buses.
+**38.**[^c-85457ef8cb99d13e53c58d04bdb5e927] Play-buses.
 
-**39.**[^key-103523ceed1b23957e8b97d64e9425af] Pedestrian-controlled vehicles.
+**39.**[^c-103523ceed1b23957e8b97d64e9425af] Pedestrian-controlled vehicles.
 
-**40.**[^key-cbae121895c14f61ae298b01c1049bdb] Trailers, not being converter dollies or semi-trailers, the unladen weight of which does not exceed 1,020 kilograms.
+**40.**[^c-cbae121895c14f61ae298b01c1049bdb] Trailers, not being converter dollies or semi-trailers, the unladen weight of which does not exceed 1,020 kilograms.
 
 ## SCHEDULE 3 — THE PRESCRIBED CONSTRUCTION AND USE REQUIREMENTS
 
@@ -550,7 +550,7 @@ Regulation 2(1)
 
 ### PART I
 
-**1.**[^key-6759c718af1fa95f392f2f8c56a5898c] The requirements contained in the following provisions of the Construction and Use Regulations:
+**1.**[^c-6759c718af1fa95f392f2f8c56a5898c] The requirements contained in the following provisions of the Construction and Use Regulations:
 
 <table>
 <thead>
@@ -580,9 +580,9 @@ Regulation 2(1)
 </tbody>
 </table>
 
-[^key-349518e5541852528877202a92d968b9]
+[^c-349518e5541852528877202a92d968b9]
 
-**2.**[^key-4e3d79558050337095dfe5f4a255e47f] The requirements contained in the following provisions of the Road Vehicles Lighting Regulations (Northern Ireland) 2000[^f00015] set out in column (2) of the Table to the extent shown in column (4) (expressions used in the Table having the same meanings as they have in those regulations).
+**2.**[^c-4e3d79558050337095dfe5f4a255e47f] The requirements contained in the following provisions of the Road Vehicles Lighting Regulations (Northern Ireland) 2000[^f00015] set out in column (2) of the Table to the extent shown in column (4) (expressions used in the Table having the same meanings as they have in those regulations).
 
 <table>
 <thead>
@@ -596,7 +596,7 @@ Regulation 2(1)
 </tbody>
 </table>
 
-**3.**[^key-25918b0165e6c5ec1473a38d29176e58] The requirements contained in the following provisions of the Road Vehicles (Display of Registration Marks) Regulations 2001[^f00016]:
+**3.**[^c-25918b0165e6c5ec1473a38d29176e58] The requirements contained in the following provisions of the Road Vehicles (Display of Registration Marks) Regulations 2001[^f00016]:
 
 <table>
 <thead>
@@ -608,20 +608,20 @@ Regulation 2(1)
 </tbody>
 </table>
 
-**4.**[^key-ca0b3e40ff0d79a19e8f76350ad2ad61] The requirements, in so far as they relate to the installation of recording equipment in Article 3 and the seals to be affixed to such equipment in Article 12 and paragraph 4 of Section V of Annex I of the Community Recording Equipment Regulation (as defined in Article 53 of the 1995 Order).
+**4.**[^c-ca0b3e40ff0d79a19e8f76350ad2ad61] The requirements, in so far as they relate to the installation of recording equipment in Article 3 and the seals to be affixed to such equipment in Article 12 and paragraph 4 of Section V of Annex I of the Community Recording Equipment Regulation (as defined in Article 53 of the 1995 Order).
 
 ### PART II
 
-**5.**[^key-b12500080637e2da6802a5502eb22e22]
+**5.**[^c-b12500080637e2da6802a5502eb22e22]
 
-- (a) The construction and use requirements specified in items 1, 2, 3, 4, 5, 6, 7, 8,[^key-c5f01c06c2565eba888a2a58c79e73fc] 10, 11, 14, 15, 16 and 18 of the Table in paragraph 1.
+- (a) The construction and use requirements specified in items 1, 2, 3, 4, 5, 6, 7, 8,[^c-c5f01c06c2565eba888a2a58c79e73fc] 10, 11, 14, 15, 16 and 18 of the Table in paragraph 1.
 - (b) The requirements of the Road Vehicles Lighting Regulations (Northern Ireland) 2000 specified in items 20 and 22 of the Table in paragraph 2.
 - (c) The requirements of the Road Vehicles (Display of Registration Marks) Regulations 2001 specified in paragraph 3.
-- (d)[^key-f0d1011b2017e902eb765de48388e989] The requirements, in so far as they relate to the installation of recording equipment in Article 3 and the seals to be affixed to such equipment in Article 12 and paragraph 4 of Section V of Annex I of the Community Recording Equipment Regulation (as defined in Article 53 of the 1995 Order).
+- (d)[^c-f0d1011b2017e902eb765de48388e989] The requirements, in so far as they relate to the installation of recording equipment in Article 3 and the seals to be affixed to such equipment in Article 12 and paragraph 4 of Section V of Annex I of the Community Recording Equipment Regulation (as defined in Article 53 of the 1995 Order).
 
 ### PART III
 
-**6.**[^key-c3d92aedefa96763dfcd77516d8076cd] The requirements of this Part, in relation to a vehicle, are that the condition of the vehicle is such that its use on a road would not involve a danger of injury, to any person having regard in particular to items of the following descriptions –
+**6.**[^c-c3d92aedefa96763dfcd77516d8076cd] The requirements of this Part, in relation to a vehicle, are that the condition of the vehicle is such that its use on a road would not involve a danger of injury, to any person having regard in particular to items of the following descriptions –
 
 - spare wheel carrier;
 - trailer coupling on a motor vehicle;
@@ -641,18 +641,18 @@ Regulation 2(1)
 - bumpers;
 - wings;
 - the cab;
-- seats[^key-01c2942a538dbd602ae6e36bc102d06c] ;
+- seats[^c-01c2942a538dbd602ae6e36bc102d06c] ;
 - the body;
 - driver’s controls;
 - cab step or step rings;
 - glass or other transparent material in windscreen or windows;
-- doors, locks and hinges;[^key-d83125ec63dc5254f5328e5136838569]
+- doors, locks and hinges;[^c-d83125ec63dc5254f5328e5136838569]
 
   supplementary restraint systems;
 
   electronic stability control systems.
 
-## SCHEDULE 4[^key-f975e0f2a11418755bb260c9346cb597]
+## SCHEDULE 4[^c-f975e0f2a11418755bb260c9346cb597]
 
 Regulation 16(1)
 
@@ -666,7 +666,7 @@ Road Traffic (Northern Ireland) Order 1995
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/304/images/nisr_20030304_en_002)
 
-## SCHEDULE 5[^key-3f64c1ab4a24ce96e1bf78dfb94a0776]
+## SCHEDULE 5[^c-3f64c1ab4a24ce96e1bf78dfb94a0776]
 
 Regulation 16(1)
 
@@ -674,7 +674,7 @@ FORM OF GOODS VEHICLE TEST CERTIFICATE
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/304/images/nisr_20030304_en_003) [image: see source](https://www.legislation.gov.uk/nisr/2003/304/images/nisr_20030304_en_004)
 
-## SCHEDULE 6 — REGULATIONS REVOKED[^key-4c1b6ea3b61fad79f9c442b32d06436d]
+## SCHEDULE 6 — REGULATIONS REVOKED[^c-4c1b6ea3b61fad79f9c442b32d06436d]
 
 Regulation 27
 
@@ -699,9 +699,9 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00001]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); *see* Article 2(2) for the definition of “the Department” and “prescribed”
 
-[^key-569a6ef49cc7c0f668319fe223cf4dc8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/304/regulation/1) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-569a6ef49cc7c0f668319fe223cf4dc8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/304/regulation/1) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-bdff6c3ad1a3fe18094c58232f6092d7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-bdff6c3ad1a3fe18094c58232f6092d7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
@@ -713,192 +713,192 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00006]: Footnote: Article 2(3A) was inserted by [S.R. 1990 No.224](https://www.legislation.gov.uk/nisr/1990/224), regulation 17(a)
 
-[^key-35fd1b7cff35b8814278b9fa99efba34]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/304/regulation/3) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-35fd1b7cff35b8814278b9fa99efba34]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/304/regulation/3) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-140c768eeca57e126b99b579b53f36f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/304/regulation/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-140c768eeca57e126b99b579b53f36f3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/304/regulation/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-92e77960c564bf85c06f76d4012d5bab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/304/regulation/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-92e77960c564bf85c06f76d4012d5bab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/304/regulation/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-bf924373dd059017fd2ad7909db4598b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/304/regulation/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-bf924373dd059017fd2ad7909db4598b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/304/regulation/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c5a2d7aafb25bd9cbc1efcd63b5fd8b7]: Textual amendment: [Reg. 6(g)(i)](https://www.legislation.gov.uk/nisr/2003/304/regulation/6/g/i)[(ii)](https://www.legislation.gov.uk/nisr/2003/304/regulation/6/g/ii) substituted (6.1.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/416)](https://www.legislation.gov.uk/nisr/2011/416), [regs. 1](https://www.legislation.gov.uk/nisr/2011/416/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/416/regulation/2)
+[^c-c5a2d7aafb25bd9cbc1efcd63b5fd8b7]: Textual amendment: [Reg. 6(g)(i)](https://www.legislation.gov.uk/nisr/2003/304/regulation/6/g/i)[(ii)](https://www.legislation.gov.uk/nisr/2003/304/regulation/6/g/ii) substituted (6.1.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/416)](https://www.legislation.gov.uk/nisr/2011/416), [regs. 1](https://www.legislation.gov.uk/nisr/2011/416/regulation/1), [2](https://www.legislation.gov.uk/nisr/2011/416/regulation/2)
 
-[^key-d61e8d205982043813a7521a1889f1f4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/304/regulation/7) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-d61e8d205982043813a7521a1889f1f4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/304/regulation/7) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-4f8c8732f1ec195c2f1da3c3784ca759]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/304/regulation/8) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-4f8c8732f1ec195c2f1da3c3784ca759]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2003/304/regulation/8) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00007]: Footnote: [S.R. 1990 No. 224](https://www.legislation.gov.uk/nisr/1990/224) to which there are amendments not relevant to these Regulations
 
-[^key-a2ebe318bb095382267734eeaf19efd4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/304/regulation/9) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-a2ebe318bb095382267734eeaf19efd4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/304/regulation/9) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-2efe6463e14206a1f6aa73ddfe61563e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/304/regulation/10) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-2efe6463e14206a1f6aa73ddfe61563e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2003/304/regulation/10) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-1bde000299e45183cce52fcc51e0e86b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/304/regulation/11) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-1bde000299e45183cce52fcc51e0e86b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2003/304/regulation/11) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-b5161a7a72ecd8d6b65c8abf18c15a60]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/nisr/2003/304/regulation/11/b) substituted (28.6.2004) by [Goods Vehicles (Testing) (Amendment No. 2) Regulations (Northern Ireland) 2004 (S.R. 2004/269)](https://www.legislation.gov.uk/nisr/2004/269), [regs. 1](https://www.legislation.gov.uk/nisr/2004/269/regulation/1), [2](https://www.legislation.gov.uk/nisr/2004/269/regulation/2)
+[^c-b5161a7a72ecd8d6b65c8abf18c15a60]: Textual amendment: Words in [reg. 11(b)](https://www.legislation.gov.uk/nisr/2003/304/regulation/11/b) substituted (28.6.2004) by [Goods Vehicles (Testing) (Amendment No. 2) Regulations (Northern Ireland) 2004 (S.R. 2004/269)](https://www.legislation.gov.uk/nisr/2004/269), [regs. 1](https://www.legislation.gov.uk/nisr/2004/269/regulation/1), [2](https://www.legislation.gov.uk/nisr/2004/269/regulation/2)
 
-[^key-82fa7712402394a733ac53c7fbe900aa]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/304/regulation/12) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-82fa7712402394a733ac53c7fbe900aa]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2003/304/regulation/12) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-fbf0561bdffe824354aab64e35a338ec]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/304/regulation/13) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-fbf0561bdffe824354aab64e35a338ec]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/304/regulation/13) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-176ce1f9ffdd57f35d5c79ecaf2656b1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/304/regulation/14) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-176ce1f9ffdd57f35d5c79ecaf2656b1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2003/304/regulation/14) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-ee4684619d8ad11311c511c2b5867f3a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/304/regulation/15) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-ee4684619d8ad11311c511c2b5867f3a]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2003/304/regulation/15) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-93597b30efeff8b70211d6c83f6887f2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/304/regulation/16) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-93597b30efeff8b70211d6c83f6887f2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/304/regulation/16) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c26327a177c8ce5a5176e7e199ef1b2f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/304/regulation/17) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c26327a177c8ce5a5176e7e199ef1b2f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/304/regulation/17) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-ffd2dfd97f373bb3549d70b01306320b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/304/regulation/18) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-ffd2dfd97f373bb3549d70b01306320b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2003/304/regulation/18) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c122937b9158dbd4db46258be91e9a5d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/304/regulation/19) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c122937b9158dbd4db46258be91e9a5d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2003/304/regulation/19) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-398d6d72fae4367525085c370828f283]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/304/regulation/20) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-398d6d72fae4367525085c370828f283]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/304/regulation/20) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c36b6df508a8fc9771c7dd50e410f9ab]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/304/regulation/21) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c36b6df508a8fc9771c7dd50e410f9ab]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/304/regulation/21) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-cd93a2c08956f19c4b843a5b49d37465]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/304/regulation/22) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-cd93a2c08956f19c4b843a5b49d37465]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2003/304/regulation/22) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00008]: Footnote: [1967 c. 37](https://www.legislation.gov.uk/apni/1967/37); section 18(1) was amended by Article 220(1) and paragraph 6(a) of Schedule 7 to the Road Traffic (Northern Ireland) Order 1981
 
-[^key-bdc818f3b0759249fe8188451ac4d581]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/nisr/2003/304/regulation/22A) inserted (3.6.2004) by [Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/247)](https://www.legislation.gov.uk/nisr/2004/247), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/247/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2004/247/regulation/2)
+[^c-bdc818f3b0759249fe8188451ac4d581]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/nisr/2003/304/regulation/22A) inserted (3.6.2004) by [Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/247)](https://www.legislation.gov.uk/nisr/2004/247), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/247/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2004/247/regulation/2)
 
-[^key-439d09c10c87b47d9a9279cc2e64052c]: Textual amendment: Words in [reg. 22A(2)](https://www.legislation.gov.uk/nisr/2003/304/regulation/22A/2) deleted (31.8.2004) by [Goods Vehicles (Testing) (Amendment No. 3) Regulations (Northern Ireland) 2004 (S.R. 2004/355)](https://www.legislation.gov.uk/nisr/2004/355), [regs. 1](https://www.legislation.gov.uk/nisr/2004/355/regulation/1), [2](https://www.legislation.gov.uk/nisr/2004/355/regulation/2)
+[^c-439d09c10c87b47d9a9279cc2e64052c]: Textual amendment: Words in [reg. 22A(2)](https://www.legislation.gov.uk/nisr/2003/304/regulation/22A/2) deleted (31.8.2004) by [Goods Vehicles (Testing) (Amendment No. 3) Regulations (Northern Ireland) 2004 (S.R. 2004/355)](https://www.legislation.gov.uk/nisr/2004/355), [regs. 1](https://www.legislation.gov.uk/nisr/2004/355/regulation/1), [2](https://www.legislation.gov.uk/nisr/2004/355/regulation/2)
 
-[^key-f26ea3b4b316151f62bf405418abee83]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/304/regulation/23) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-f26ea3b4b316151f62bf405418abee83]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/304/regulation/23) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-934131b9556e4c64f9853bf825214d23]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2003/304/regulation/23) inserted (3.6.2004) by [Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/247)](https://www.legislation.gov.uk/nisr/2004/247), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/247/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2004/247/regulation/3)
+[^c-934131b9556e4c64f9853bf825214d23]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2003/304/regulation/23) inserted (3.6.2004) by [Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/247)](https://www.legislation.gov.uk/nisr/2004/247), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/247/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2004/247/regulation/3)
 
-[^key-3af4e6d10327f08fcaaa9ff4cfc3e529]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2003/304/regulation/24) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-3af4e6d10327f08fcaaa9ff4cfc3e529]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2003/304/regulation/24) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-deae554fe355f861e41029b354a693dd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2003/304/regulation/25) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-deae554fe355f861e41029b354a693dd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2003/304/regulation/25) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-9899948c32b8680d72845108448cfeec]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2003/304/regulation/26) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-9899948c32b8680d72845108448cfeec]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2003/304/regulation/26) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00009]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2)
 
 [^f00010]: Footnote: [S.I. 1978/1049 (N.I. 19)](https://www.legislation.gov.uk/nisi/1978/1049)
 
-[^key-971aa9738c131def30fd9ad291269824]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2003/304/regulation/27) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-971aa9738c131def30fd9ad291269824]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2003/304/regulation/27) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-249b151f39ddca8a8147136d2b17de07]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/304/schedule/1) substituted (1.10.2005) by [The Goods Vehicles (Testing) (Fees) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/406)](https://www.legislation.gov.uk/nisr/2005/406), [regs. 1](https://www.legislation.gov.uk/nisr/2005/406/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/406/regulation/2)
+[^c-249b151f39ddca8a8147136d2b17de07]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/304/schedule/1) substituted (1.10.2005) by [The Goods Vehicles (Testing) (Fees) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/406)](https://www.legislation.gov.uk/nisr/2005/406), [regs. 1](https://www.legislation.gov.uk/nisr/2005/406/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/406/regulation/2)
 
-[^key-ab134cc0061362df87b7a6b0caf0570c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/1) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-ab134cc0061362df87b7a6b0caf0570c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/1) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-880970176c2c9bd824fcbd4b8d5552a1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/2) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-880970176c2c9bd824fcbd4b8d5552a1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/2) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-3ea130033276f589c7313a9d558717a3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/3) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-3ea130033276f589c7313a9d558717a3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/3) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-bca926cac2d4a7955d2e3c27996d24e7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-bca926cac2d4a7955d2e3c27996d24e7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-80ffea9bc1b15d574eaaa8f0a1250a16]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-80ffea9bc1b15d574eaaa8f0a1250a16]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-98c0ef7f85dcdb2701e98fc55ef833cc]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-98c0ef7f85dcdb2701e98fc55ef833cc]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-4b3daf698a54e7ff407d4e8b3c40d6c2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/7) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-4b3daf698a54e7ff407d4e8b3c40d6c2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/7) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-0122f7be50389995dbc900f02d827085]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/8) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-0122f7be50389995dbc900f02d827085]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/8) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-3a733a645c9ffeab125638f4dd9a0446]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/9) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-3a733a645c9ffeab125638f4dd9a0446]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/9) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-a171f0512b18b471ccc5c1ad044289c2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/10) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-a171f0512b18b471ccc5c1ad044289c2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/10) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-3a09f76c2aa0be6b44847f87538a2587]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/11) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-3a09f76c2aa0be6b44847f87538a2587]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/11) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-e9d1d4e933ce48954e6ce0d656cef402]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/12) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-e9d1d4e933ce48954e6ce0d656cef402]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/12) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-4dab14ea29c14511eda0632027250a45]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/13) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-4dab14ea29c14511eda0632027250a45]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/13) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c47f515b6cfed0b5f3fa28e9d8979963]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/14) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c47f515b6cfed0b5f3fa28e9d8979963]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/14) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-1ca3befdf15c580aa974644bebf6d8c1]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/15) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-1ca3befdf15c580aa974644bebf6d8c1]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/15) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c4cb5bbaa95923b690caf768acdc80b3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/16) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c4cb5bbaa95923b690caf768acdc80b3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/16) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c6695f32956e52b6cccdb4e2245051a6]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/17) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c6695f32956e52b6cccdb4e2245051a6]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/17) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-9fff2cce724bd68b5c1441d74ff0944f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/18) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-9fff2cce724bd68b5c1441d74ff0944f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/18) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-094f2b9e0eedb0ef3e121be1a21bbeb6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/19) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-094f2b9e0eedb0ef3e121be1a21bbeb6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/19) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-5af0c9c9922c5743c67936ec3dfe2c45]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/20) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-5af0c9c9922c5743c67936ec3dfe2c45]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/20) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-ff28af7808de2ede90dbe717a29c9fea]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/21) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-ff28af7808de2ede90dbe717a29c9fea]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/21) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00011]: Footnote: Article 79A was inserted by Part II of Schedule 3 to [S.I. 1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
 
-[^key-9f22784f5ad993a3ee49ce9c510c7477]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/22) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-9f22784f5ad993a3ee49ce9c510c7477]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/22) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-250b91fcc9e9106826e126a69fb3551d]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/23) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-250b91fcc9e9106826e126a69fb3551d]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/23) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-6a8abce21b575b360ce545106fbdae3b]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/24) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-6a8abce21b575b360ce545106fbdae3b]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/24) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-bfd528412f6f75bcccca46434b90fe6f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/25) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-bfd528412f6f75bcccca46434b90fe6f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/25) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00012]: Footnote: [S.R. & 0. 1963 No. 79](https://www.legislation.gov.uk/nisr/1963/79)
 
-[^key-96e39be3c110b0460353f4abd5ca4918]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/26) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-96e39be3c110b0460353f4abd5ca4918]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/26) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00013]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52)
 
-[^key-73cf549bce9e12ef332075f7afc099de]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/27) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-73cf549bce9e12ef332075f7afc099de]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/27) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-181363fd7423735140536878ba7be9fd]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/28) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-181363fd7423735140536878ba7be9fd]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/28) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-af89e6f17f984cda3275c135e2d0424c]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/29) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-af89e6f17f984cda3275c135e2d0424c]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/29) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-3a9e10c11d409c49fe50742fdd5c23db]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/30) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-3a9e10c11d409c49fe50742fdd5c23db]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/30) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-2231736d652bf9aa8a1b0458cb3d9fff]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/31) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-2231736d652bf9aa8a1b0458cb3d9fff]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/31) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-145efe2b5994f58a330b49fac077353d]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/32) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-145efe2b5994f58a330b49fac077353d]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/32) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-eb5e4fc8bdbcbc2b386fd704cc47174e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/33) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-eb5e4fc8bdbcbc2b386fd704cc47174e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/33) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-9b20b398c057b42eddd150bf1c5efc24]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/34) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-9b20b398c057b42eddd150bf1c5efc24]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/34) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00014]: Footnote: [S.I. 1994/426 (N.I. 1)](https://www.legislation.gov.uk/nisi/1994/426)
 
-[^key-aff5098483d35c6856c84ea84ddc42e6]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/35) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-aff5098483d35c6856c84ea84ddc42e6]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/35) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c3283b5d6126b055ec6cce6d6922269c]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/36) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c3283b5d6126b055ec6cce6d6922269c]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/36) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-2b4afcf8c53eb60b3023aa5e347becf7]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/37) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-2b4afcf8c53eb60b3023aa5e347becf7]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/37) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-85457ef8cb99d13e53c58d04bdb5e927]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/38) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-85457ef8cb99d13e53c58d04bdb5e927]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/38) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-103523ceed1b23957e8b97d64e9425af]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/39) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-103523ceed1b23957e8b97d64e9425af]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/39) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-cbae121895c14f61ae298b01c1049bdb]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/40) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-cbae121895c14f61ae298b01c1049bdb]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2003/304/schedule/2/paragraph/40) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-6759c718af1fa95f392f2f8c56a5898c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/1) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-6759c718af1fa95f392f2f8c56a5898c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/1) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-349518e5541852528877202a92d968b9]: Textual amendment: [Sch. 3 para. 1 Item 05](https://www.legislation.gov.uk/nisr/2003/304/article/I) substituted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/2)
+[^c-349518e5541852528877202a92d968b9]: Textual amendment: [Sch. 3 para. 1 Item 05](https://www.legislation.gov.uk/nisr/2003/304/article/I) substituted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/2)
 
-[^key-4e3d79558050337095dfe5f4a255e47f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/2) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-4e3d79558050337095dfe5f4a255e47f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/2) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00015]: Footnote: [S.R. 2000 No. 169](https://www.legislation.gov.uk/nisr/2000/169)
 
-[^key-25918b0165e6c5ec1473a38d29176e58]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/3) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-25918b0165e6c5ec1473a38d29176e58]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/3) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
 [^f00016]: Footnote: [S.I. 2001 No. 561](https://www.legislation.gov.uk/uksi/2001/561)
 
-[^key-ca0b3e40ff0d79a19e8f76350ad2ad61]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-ca0b3e40ff0d79a19e8f76350ad2ad61]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-b12500080637e2da6802a5502eb22e22]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-b12500080637e2da6802a5502eb22e22]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-c5f01c06c2565eba888a2a58c79e73fc]: Textual amendment: Word in [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) inserted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/3/a)
+[^c-c5f01c06c2565eba888a2a58c79e73fc]: Textual amendment: Word in [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) inserted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/3/a)
 
-[^key-f0d1011b2017e902eb765de48388e989]: Textual amendment: [Sch. 3 para. 5(d)](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) inserted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/3/b)
+[^c-f0d1011b2017e902eb765de48388e989]: Textual amendment: [Sch. 3 para. 5(d)](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) inserted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/3/b)
 
-[^key-c3d92aedefa96763dfcd77516d8076cd]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-c3d92aedefa96763dfcd77516d8076cd]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/3/paragraph/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-01c2942a538dbd602ae6e36bc102d06c]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) substituted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/4/a)
+[^c-01c2942a538dbd602ae6e36bc102d06c]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) substituted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/4/a)
 
-[^key-d83125ec63dc5254f5328e5136838569]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) substituted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/4/b)
+[^c-d83125ec63dc5254f5328e5136838569]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/3) substituted (1.5.2012) by [The Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/149)](https://www.legislation.gov.uk/nisr/2012/149), [regs. 1](https://www.legislation.gov.uk/nisr/2012/149/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2012/149/regulation/2/4/b)
 
-[^key-f975e0f2a11418755bb260c9346cb597]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/304/schedule/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-f975e0f2a11418755bb260c9346cb597]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/304/schedule/4) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-3f64c1ab4a24ce96e1bf78dfb94a0776]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2003/304/schedule/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-3f64c1ab4a24ce96e1bf78dfb94a0776]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2003/304/schedule/5) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
 
-[^key-4c1b6ea3b61fad79f9c442b32d06436d]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)
+[^c-4c1b6ea3b61fad79f9c442b32d06436d]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/304/schedule/6) in operation at 1.8.2003, see [reg. 2](https://www.legislation.gov.uk/nisr/2003/304/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Minor and consequential amendments and repeals[^key-b7852d9801761668c2ba8797eb27dd47]
+## 70. Minor and consequential amendments and repeals[^c-b7852d9801761668c2ba8797eb27dd47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 3 of Schedule 2 contains minor and consequential amendments and repeals rel
 
 ## Annotations
 
-[^key-b7852d9801761668c2ba8797eb27dd47]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2016/3/section/70) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-b7852d9801761668c2ba8797eb27dd47]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2016/3/section/70) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)

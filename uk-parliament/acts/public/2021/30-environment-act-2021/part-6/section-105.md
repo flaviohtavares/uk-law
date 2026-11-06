@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Preparation of local nature recovery strategies[^key-4bd3db6654f570e2e60dbd1ecb1e48a5][^key-b97fe0b56caaf6fcc26ade628504bfca]
+## 105. Preparation of local nature recovery strategies[^c-4bd3db6654f570e2e60dbd1ecb1e48a5][^c-b97fe0b56caaf6fcc26ade628504bfca]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4bd3db6654f570e2e60dbd1ecb1e48a5]: Commencement: S. 105 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-4bd3db6654f570e2e60dbd1ecb1e48a5]: Commencement: S. 105 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-b97fe0b56caaf6fcc26ade628504bfca]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2021/30/section/105) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/n)
+[^c-b97fe0b56caaf6fcc26ade628504bfca]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2021/30/section/105) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/n)

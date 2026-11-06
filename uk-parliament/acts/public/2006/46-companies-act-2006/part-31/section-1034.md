@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1034. Effect of restoration to the register where property has vested as bona vacantia[^c20591951][^c20592031][^c20603491][^key-359a8c7f6e3a9ee1e85bd3bbaa452a1d]
+## 1034. Effect of restoration to the register where property has vested as bona vacantia[^c20591951][^c20592031][^c20603491][^c-359a8c7f6e3a9ee1e85bd3bbaa452a1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c20603491]: Modification: S. 1034 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [58](https://www.legislation.gov.uk/uksi/2009/1804/regulation/58) (with [Sch. 1 paras. 26](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/26), [34](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/34), [35](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/35))
 
-[^key-359a8c7f6e3a9ee1e85bd3bbaa452a1d]: Modification: [S. 1034](https://www.legislation.gov.uk/ukpga/2006/46/section/1034) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [185(5)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/185/5) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-359a8c7f6e3a9ee1e85bd3bbaa452a1d]: Modification: [S. 1034](https://www.legislation.gov.uk/ukpga/2006/46/section/1034) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [185(5)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/185/5) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

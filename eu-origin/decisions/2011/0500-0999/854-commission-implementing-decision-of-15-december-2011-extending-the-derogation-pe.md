@@ -39,16 +39,16 @@ extending the derogation period for Romania to raise objections to shipments of 
 
 (2011/854/EU) (revoked)
 
-[^key-ef9d01429542e4b1da94bc31d2c06d3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef9d01429542e4b1da94bc31d2c06d3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ef9d01429542e4b1da94bc31d2c06d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ef9d01429542e4b1da94bc31d2c06d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ef9d01429542e4b1da94bc31d2c06d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ef9d01429542e4b1da94bc31d2c06d3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef9d01429542e4b1da94bc31d2c06d3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef9d01429542e4b1da94bc31d2c06d3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef9d01429542e4b1da94bc31d2c06d3e]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-ef9d01429542e4b1da94bc31d2c06d3e]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

@@ -37,45 +37,45 @@ adopting guidelines for the implementation of specific conditions for health cla
 
 (2013/63/EU) (revoked)
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-bdd649dd1c7c8e3861a3d73acb17ca1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bdd649dd1c7c8e3861a3d73acb17ca1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bdd649dd1c7c8e3861a3d73acb17ca1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bdd649dd1c7c8e3861a3d73acb17ca1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Guidelines for the implementation of specific conditions for health claims laid down in Article 10 of Regulation (EC) No 1924/2006[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]
+## ANNEX — Guidelines for the implementation of specific conditions for health claims laid down in Article 10 of Regulation (EC) No 1924/2006[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e] Introduction
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e] Introduction
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]1.
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]1.
 
 **Prohibition of unauthorised health claims and of health claims the use of which does not comply with the Regulation – Article 10(1)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]2.
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]2.
 
 **Mandatory information accompanying authorised health claims – Article 10(2)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]2.1.
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]2.1.
 
 *Distinction of three cases for the implementation of Article 10(2)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]2.2.
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]2.2.
 
 *Four pieces of mandatory information*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]3.
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]3.
 
 **Reference to general, non-specific health benefits – Article 10(3)**
 
@@ -83,4 +83,4 @@ adopting guidelines for the implementation of specific conditions for health cla
 
 ## Annotations
 
-[^key-bdd649dd1c7c8e3861a3d73acb17ca1e]: Textual amendment: Decision revoked (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [49](https://www.legislation.gov.uk/uksi/2019/651/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bdd649dd1c7c8e3861a3d73acb17ca1e]: Textual amendment: Decision revoked (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [49](https://www.legislation.gov.uk/uksi/2019/651/regulation/49); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

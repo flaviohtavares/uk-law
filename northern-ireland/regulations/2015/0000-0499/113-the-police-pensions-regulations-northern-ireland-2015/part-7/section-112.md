@@ -27,7 +27,7 @@ summary: ''
 
 (2) The scheme manager may periodically review whether the person's medical unfitness has ceased or significantly improved.
 
-(3)[^key-c529bb609f39c2056a9a4cd506f7784d] A review may be carried out at intervals of no less than 5 years as the scheme manager in its discretion determines.
+(3)[^c-c529bb609f39c2056a9a4cd506f7784d] A review may be carried out at intervals of no less than 5 years as the scheme manager in its discretion determines.
 
 (4) The scheme manager must refer the questions in regulation 115(3) (referral of medical questions – enhanced upper tier ill-health pension) to a selected medical practitioner for decision.
 
@@ -43,12 +43,12 @@ summary: ''
 (8) P remains entitled to the payment for life of the lower tier ill-health pension unless—
 
 - (a) the scheme manager, on a review under another regulation in this Chapter, refers the questions under regulation 115(2) (referral of medical questions - lower tier ill-health pension) to the selected medical practitioner for decision; and
-- (b) the selected medical practitioner gives a report and certificate[^key-875eef9d4c9abad4801b282a981ae933] on those questions containing the decision that P has ceased to be medically unfit for performing the ordinary duties of a member of the police service.
+- (b) the selected medical practitioner gives a report and certificate[^c-875eef9d4c9abad4801b282a981ae933] on those questions containing the decision that P has ceased to be medically unfit for performing the ordinary duties of a member of the police service.
 
 (9) In paragraph (2), “**medical unfitness**” means inability occasioned by infirmity of mind or body to engage in any regular employment.
 
 ## Annotations
 
-[^key-c529bb609f39c2056a9a4cd506f7784d]: Textual amendment: [Reg. 112(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/112/3) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [30(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/30/2)
+[^c-c529bb609f39c2056a9a4cd506f7784d]: Textual amendment: [Reg. 112(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/112/3) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [30(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/30/2)
 
-[^key-875eef9d4c9abad4801b282a981ae933]: Textual amendment: Words in [reg. 112(8)(b)](https://www.legislation.gov.uk/nisr/2015/113/regulation/112/8/b) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [30(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/30/3)
+[^c-875eef9d4c9abad4801b282a981ae933]: Textual amendment: Words in [reg. 112(8)(b)](https://www.legislation.gov.uk/nisr/2015/113/regulation/112/8/b) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [30(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/30/3)

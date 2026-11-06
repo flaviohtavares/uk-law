@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120A. Procedure for setting, modifying and revoking premium rate services conditions[^M_C_d5beaca7-2778-4e3e-95ec-50a67d7c10a9][^key-f796615172fc4f3bd81e5f056848801e]
+## 120A. Procedure for setting, modifying and revoking premium rate services conditions[^M_C_d5beaca7-2778-4e3e-95ec-50a67d7c10a9][^c-f796615172fc4f3bd81e5f056848801e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^M_C_d5beaca7-2778-4e3e-95ec-50a67d7c10a9]: Modification: Ss. 120-124 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-f796615172fc4f3bd81e5f056848801e]: Textual amendment: S. 120A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/77) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [16](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/16))
+[^c-f796615172fc4f3bd81e5f056848801e]: Textual amendment: S. 120A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/77) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [16](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/16))

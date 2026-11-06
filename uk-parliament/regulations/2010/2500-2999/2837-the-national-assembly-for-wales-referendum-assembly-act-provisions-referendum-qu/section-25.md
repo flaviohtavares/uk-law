@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Loan of equipment for referendum[^key-d0db8026d0a204cc4f36751ba9c3b1dc]
+## 25. Loan of equipment for referendum[^c-d0db8026d0a204cc4f36751ba9c3b1dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0db8026d0a204cc4f36751ba9c3b1dc]: Commencement: Art. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-d0db8026d0a204cc4f36751ba9c3b1dc]: Commencement: Art. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

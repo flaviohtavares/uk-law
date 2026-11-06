@@ -31,11 +31,11 @@ summary: ''
 - (b) to invest money;
 - (c) to promote or assist in the promotion of publicity relating to the functions of the Board;
 - (d) to undertake any inquiry or investigation which the Board considers necessary or expedient in relation to the discharge of its functions; and
-- (da)[^key-d898a4f05717c06f753d6ff6d3e6b5dc] to give the Scottish Ministers such advice as it may consider appropriate in relation to the availability and accessibility of legal services in Scotland;
+- (da)[^c-d898a4f05717c06f753d6ff6d3e6b5dc] to give the Scottish Ministers such advice as it may consider appropriate in relation to the availability and accessibility of legal services in Scotland;
 - (e) to give to the Secretary of State such advice as it may consider appropriate in relation to the provision of legal aid and advice and assistance in accordance with this Act.
 
 (3) The power under subsection (2)(a) above to enter into any contract or agreement to acquire or dispose of land shall not be exercised without the approval in writing of the Secretary of State.
 
 ## Annotations
 
-[^key-d898a4f05717c06f753d6ff6d3e6b5dc]: Textual amendment: S. 2(2)(da) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 141(b)](https://www.legislation.gov.uk/asp/2010/16/section/141/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-d898a4f05717c06f753d6ff6d3e6b5dc]: Textual amendment: S. 2(2)(da) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 141(b)](https://www.legislation.gov.uk/asp/2010/16/section/141/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

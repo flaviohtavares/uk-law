@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Automated decision-making[^key-1e854d113049f86aaf68cc82ca5b64c4][^key-771e00b67b80bba987df21569a39c1ec]
+## 80. Automated decision-making[^c-1e854d113049f86aaf68cc82ca5b64c4][^c-771e00b67b80bba987df21569a39c1ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,6 +171,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e854d113049f86aaf68cc82ca5b64c4]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-1e854d113049f86aaf68cc82ca5b64c4]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-771e00b67b80bba987df21569a39c1ec]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2025/18/section/80) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
+[^c-771e00b67b80bba987df21569a39c1ec]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2025/18/section/80) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))

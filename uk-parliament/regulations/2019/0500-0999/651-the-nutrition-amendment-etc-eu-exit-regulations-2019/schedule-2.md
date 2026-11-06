@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Vitamin and mineral substances which may be used in the manufacture of food supplements[^key-1571f58caa032a6266af0eb8dddb175c]
+## SCHEDULE 2 — Vitamin and mineral substances which may be used in the manufacture of food supplements[^c-1571f58caa032a6266af0eb8dddb175c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ Regulation 2(1)(b)
 | (a) nicotinic acid |
 | (b) nicotinamide |
 | (c) inositol hexanicotinate (inositol hexaniacinate) |
-| (d) nicotinamide riboside chloride[^key-454a5d19e7cc3271fea13dfc3e025f34] |
+| (d) nicotinamide riboside chloride[^c-454a5d19e7cc3271fea13dfc3e025f34] |
 | 8\. PANTOTHENIC ACID |
 | (a) D-pantothenate, calcium |
 | (b) D-pantothenate, sodium |
@@ -127,9 +127,9 @@ Regulation 2(1)(b)
 | magnesium sulphate |
 | magnesium taurate |
 | magnesium acetyl taurate |
-| magnesium citrate malate[^key-c22d640ff1ba88cf25f7726f79ef9143] |
-| magnesium L-threonate monohydrate[^key-ae246750bed15e505d70e1e4b4531766] |
-| magnesium L-threonate monohydrate (in relation to Wales)[^key-bef3b48d46e8f31426734bf96dbac675] |
+| magnesium citrate malate[^c-c22d640ff1ba88cf25f7726f79ef9143] |
+| magnesium L-threonate monohydrate[^c-ae246750bed15e505d70e1e4b4531766] |
+| magnesium L-threonate monohydrate (in relation to Wales)[^c-bef3b48d46e8f31426734bf96dbac675] |
 | ferrous carbonate |
 | ferrous citrate |
 | ferric ammonium citrate |
@@ -234,12 +234,12 @@ Regulation 2(1)(b)
 
 ## Annotations
 
-[^key-1571f58caa032a6266af0eb8dddb175c]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1571f58caa032a6266af0eb8dddb175c]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-454a5d19e7cc3271fea13dfc3e025f34]: Textual amendment: Words in Sch. 2 table Pt. A inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/28/regulation/6/3/a) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-454a5d19e7cc3271fea13dfc3e025f34]: Textual amendment: Words in Sch. 2 table Pt. A inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2023/28/regulation/6/3/a) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-c22d640ff1ba88cf25f7726f79ef9143]: Textual amendment: Words in Sch. 2 table Pt. B inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2023/28/regulation/6/3/b) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-c22d640ff1ba88cf25f7726f79ef9143]: Textual amendment: Words in Sch. 2 table Pt. B inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2023/28/regulation/6/3/b) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-ae246750bed15e505d70e1e4b4531766]: Textual amendment: Words in Sch. 2 table Pt. B inserted (S.) (5.3.2026) by [The Food Supplements (Magnesium L-threonate monohydrate) (Scotland) Regulations 2026 (S.S.I. 2026/123)](https://www.legislation.gov.uk/ssi/2026/123), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/123/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/123/regulation/2/2); and inserted (E.) (12.8.2026) by [The Nutrition (Amendment etc.) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/412)](https://www.legislation.gov.uk/uksi/2026/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/412/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/412/regulation/2)
+[^c-ae246750bed15e505d70e1e4b4531766]: Textual amendment: Words in Sch. 2 table Pt. B inserted (S.) (5.3.2026) by [The Food Supplements (Magnesium L-threonate monohydrate) (Scotland) Regulations 2026 (S.S.I. 2026/123)](https://www.legislation.gov.uk/ssi/2026/123), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/123/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/123/regulation/2/2); and inserted (E.) (12.8.2026) by [The Nutrition (Amendment etc.) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/412)](https://www.legislation.gov.uk/uksi/2026/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/412/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/412/regulation/2)
 
-[^key-bef3b48d46e8f31426734bf96dbac675]: Textual amendment: Words in Sch. 2 table Pt. B inserted (W.) (5.3.2026) by [The Food Supplements (Magnesium L-threonate monohydrate) (Wales) Regulations 2026 (W.S.I. 2026/56)](https://www.legislation.gov.uk/wsi/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/56/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/56/regulation/2)
+[^c-bef3b48d46e8f31426734bf96dbac675]: Textual amendment: Words in Sch. 2 table Pt. B inserted (W.) (5.3.2026) by [The Food Supplements (Magnesium L-threonate monohydrate) (Wales) Regulations 2026 (W.S.I. 2026/56)](https://www.legislation.gov.uk/wsi/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/56/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/56/regulation/2)

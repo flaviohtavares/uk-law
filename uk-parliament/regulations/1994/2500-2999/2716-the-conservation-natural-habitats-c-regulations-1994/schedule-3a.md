@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3A — PROHIBITED METHODS OF TAKING OR KILLING WILD ANIMALS[^key-94de2c41876d1e737d24f6f1942f9737]
+## SCHEDULE 3A — PROHIBITED METHODS OF TAKING OR KILLING WILD ANIMALS[^c-94de2c41876d1e737d24f6f1942f9737]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ Regulation 41
 
 ## Annotations
 
-[^key-94de2c41876d1e737d24f6f1942f9737]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/1994/2716/schedule/3A) inserted (31.12.2020) by [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [reg. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/113/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94de2c41876d1e737d24f6f1942f9737]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/1994/2716/schedule/3A) inserted (31.12.2020) by [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [reg. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/113/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1179AA. Qualifying companies and productions[^key-2f0eac37ba158de991604259402344ab]
+## 1179AA. Qualifying companies and productions[^c-2f0eac37ba158de991604259402344ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,9 +35,9 @@ summary: ''
 
 (6) So far as future events are relevant to the assessment, it is to be made by reference to the reasonable expectations of the company at that time.
 
-(7) Subsections (5) and (6) are subject to any provision of this Part that provides for—[^key-fdcfdaab224d1e71868c258cdf32f03a]
+(7) Subsections (5) and (6) are subject to any provision of this Part that provides for—[^c-fdcfdaab224d1e71868c258cdf32f03a]
 
-- (a)[^key-39637eb64f2b02d1c0629777b197385f] a production no longer to be regarded as a qualifying production in an accounting period as a result of events after the end of that period ;[^key-6848800ba86e456db01786a4879b03f7]
+- (a)[^c-39637eb64f2b02d1c0629777b197385f] a production no longer to be regarded as a qualifying production in an accounting period as a result of events after the end of that period ;[^c-6848800ba86e456db01786a4879b03f7]
 - (b) the submission of a film, television programme or video game certificate after the end of an accounting period.
 
 (8) Once a qualifying company has made an election under section 1179B(1) in respect of a qualifying production, no other company can subsequently be the qualifying company for that production.
@@ -50,10 +50,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0eac37ba158de991604259402344ab]: Textual amendment: Pt. 14A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/1) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
+[^c-2f0eac37ba158de991604259402344ab]: Textual amendment: Pt. 14A inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/1) (with [Sch. 2 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/16/1), [17-25](https://www.legislation.gov.uk/ukpga/2024/3/schedule/2/paragraph/17))
 
-[^key-fdcfdaab224d1e71868c258cdf32f03a]: Textual amendment: [S. 1179AA(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179AA/7) punctuation mark inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(1)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/1/a) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))
+[^c-fdcfdaab224d1e71868c258cdf32f03a]: Textual amendment: [S. 1179AA(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179AA/7) punctuation mark inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(1)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/1/a) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))
 
-[^key-39637eb64f2b02d1c0629777b197385f]: Textual amendment: Words in [s. 1179AA(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179AA/7) renumbered as s. 1179AA(7)(a) (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/1/b) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))
+[^c-39637eb64f2b02d1c0629777b197385f]: Textual amendment: Words in [s. 1179AA(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179AA/7) renumbered as s. 1179AA(7)(a) (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/1/b) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))
 
-[^key-6848800ba86e456db01786a4879b03f7]: Textual amendment: [S. 1179AA(7)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179AA/7/b) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(1)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/1/c) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))
+[^c-6848800ba86e456db01786a4879b03f7]: Textual amendment: [S. 1179AA(7)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179AA/7/b) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 27(1)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/1/c) (with [s. 27(14)](https://www.legislation.gov.uk/ukpga/2025/8/section/27/14))

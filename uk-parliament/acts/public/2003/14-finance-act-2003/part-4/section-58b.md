@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58B. Relief for new zero-carbon homes[^key-0b45f952e800b8ee33e257b91798a44a]
+## 58B. Relief for new zero-carbon homes[^c-0b45f952e800b8ee33e257b91798a44a]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Treasury may make regulations granting relief on the first acquisition of a dwelling which is a “zero-carbon home”.
 
-(2)[^key-a4ae1960e517d768aafe19e95d1660f7] For the purposes of this section—
+(2)[^c-a4ae1960e517d768aafe19e95d1660f7] For the purposes of this section—
 
 - (a) a building, or a part of a building, is a dwelling if it is constructed for use as a single dwelling, and
 - (b) “**first acquisition**”, in relation to a dwelling, means its acquisition when it has not previously been occupied.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b45f952e800b8ee33e257b91798a44a]: Textual amendment: Ss. 58B, 58C inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/19/1)
+[^c-0b45f952e800b8ee33e257b91798a44a]: Textual amendment: Ss. 58B, 58C inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/19/1)
 
-[^key-a4ae1960e517d768aafe19e95d1660f7]: Textual amendment: S. 58B(2) substituted (retrospective to 19.7.2007) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/93/2)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/93/7)
+[^c-a4ae1960e517d768aafe19e95d1660f7]: Textual amendment: S. 58B(2) substituted (retrospective to 19.7.2007) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/93/2)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/93/7)

@@ -24,13 +24,13 @@ summary: ''
 
 Regulation 4(a)
 
-**1.**[^key-d647d5ebc3fddbf0a3c074e4a19be3e6] The period to which the statement relates.
+**1.**[^c-d647d5ebc3fddbf0a3c074e4a19be3e6] The period to which the statement relates.
 
-**2.**[^key-ca936d564f2b5a9a71526627ff7aeba9] (1) The name, telephone number or numbers, postal address and, where appropriate, any other address of the creditor.
+**2.**[^c-ca936d564f2b5a9a71526627ff7aeba9] (1) The name, telephone number or numbers, postal address and, where appropriate, any other address of the creditor.
 
 (2) Where the creditor and the debtor have entered into an arrangement under which the creditor has given the debtor details of a particular employee or category of employee of the creditor whom the debtor is entitled to contact in relation to all his dealings with the creditor, the creditor may, instead of including the telephone number or numbers referred to in sub-paragraph (1), refer to that arrangement.
 
-**3.**[^key-3be26fc760563705c86beb4252b221d3] Information specific to the agreement—
+**3.**[^c-3be26fc760563705c86beb4252b221d3] Information specific to the agreement—
 
 - (a) a description of the agreement sufficient to identify it;
 - (b) the amount of credit provided and, where applicable, to be provided under the agreement (shown as one figure);
@@ -53,7 +53,7 @@ Regulation 4(a)
 - (i) the amount and date of any movement in the account during the period to which the statement relates which is not required to be included in the statement under sub-paragraphs (g) and (h); and
 - (j) the balance under the agreement at the end of the period to which the statement relates.
 
-**3A.**[^key-b6a765886a82616aaa851d91b6e44540] In this Part, where a statement relates to a green deal consumer credit agreement, a payment made into the account of the current bill payer with the relevant energy supplier, is to be treated as made into the account of the current bill payer with the creditor relating to the agreement.
+**3A.**[^c-b6a765886a82616aaa851d91b6e44540] In this Part, where a statement relates to a green deal consumer credit agreement, a payment made into the account of the current bill payer with the relevant energy supplier, is to be treated as made into the account of the current bill payer with the creditor relating to the agreement.
 
 ### PART 1A — ADDITIONAL INFORMATION TO BE INCLUDED IN STATEMENTS RELATING TO GREEN DEAL PLANS MADE BEFORE 28TH FEBRUARY 2014[^M_F_76f1174f-186f-49f2-9c2c-272be3c3e616]
 
@@ -65,7 +65,7 @@ Regulation 4(aa)
 
 Regulation 4(b)
 
-**4.**[^key-e6a4ef28a6d56331fca22133f6773ded] Each of the following forms of wording shall be contained in a statement under this Part:
+**4.**[^c-e6a4ef28a6d56331fca22133f6773ded] Each of the following forms of wording shall be contained in a statement under this Part:
 
 > **Settling your credit agreement early**
 >
@@ -87,7 +87,7 @@ Regulation 4(b)
 
 .
 
-### PART 2A — ADDITIONAL INFORMATION TO BE INCLUDED IN STATEMENTS RELATING TO GREEN DEAL PLANS MADE BEFORE 28TH FEBRUARY 2014 AND GREEN DEAL CONSUMER CREDIT AGREEMENTS[^key-9edad7340ae77af4147e241803660dfb][^key-e558c0f19722da80471f7424e367982f]
+### PART 2A — ADDITIONAL INFORMATION TO BE INCLUDED IN STATEMENTS RELATING TO GREEN DEAL PLANS MADE BEFORE 28TH FEBRUARY 2014 AND GREEN DEAL CONSUMER CREDIT AGREEMENTS[^c-9edad7340ae77af4147e241803660dfb][^c-e558c0f19722da80471f7424e367982f]
 
 Regulation 4(ba)
 
@@ -99,7 +99,7 @@ Regulation 4(ba)
 
 Regulation 4(c)
 
-**5.**[^key-6b0ad1c6c83fffff473e3012c4a32f8c] The following forms of wording shall be included, as appropriate, in a statement under this Part:
+**5.**[^c-6b0ad1c6c83fffff473e3012c4a32f8c] The following forms of wording shall be included, as appropriate, in a statement under this Part:
 
 > **Termination: Your rights**
 >
@@ -115,21 +115,21 @@ NOTE 1: Delete as applicable.
 
 ## Annotations
 
-[^key-d647d5ebc3fddbf0a3c074e4a19be3e6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/1) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-d647d5ebc3fddbf0a3c074e4a19be3e6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/1) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-ca936d564f2b5a9a71526627ff7aeba9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/2) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-ca936d564f2b5a9a71526627ff7aeba9]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/2) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-3be26fc760563705c86beb4252b221d3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/3) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-3be26fc760563705c86beb4252b221d3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/3) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-b6a765886a82616aaa851d91b6e44540]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/3A) inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/a)
+[^c-b6a765886a82616aaa851d91b6e44540]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/3A) inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/a)
 
 [^M_F_76f1174f-186f-49f2-9c2c-272be3c3e616]: Textual amendment: Sch. 1 Pt. 1A inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/a)
 
-[^key-e6a4ef28a6d56331fca22133f6773ded]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/4) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-e6a4ef28a6d56331fca22133f6773ded]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/4) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
-[^key-9edad7340ae77af4147e241803660dfb]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/part/2A) inserted (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/4/5)
+[^c-9edad7340ae77af4147e241803660dfb]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/part/2A) inserted (28.1.2013) by [The Consumer Credit (Green Deal) Regulations 2012 (S.I. 2012/2798)](https://www.legislation.gov.uk/uksi/2012/2798), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/2798/regulation/1/b), [Sch. para. 4(5)](https://www.legislation.gov.uk/uksi/2012/2798/schedule/paragraph/4/5)
 
-[^key-e558c0f19722da80471f7424e367982f]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/part/2A) heading substituted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/b)
+[^c-e558c0f19722da80471f7424e367982f]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/part/2A) heading substituted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/b)
 
 [^M_F_1bc92656-c12e-4eef-f455-d88cfacde1b1]: Textual amendment: Words "“Your Green Deal Plan This credit agreement is part of a Green Deal Plan. Regular instalments are therefore collected through the electricity bill for this property. To keep this credit agreement up to date, it is important that your electricity bill is paid on time and as agreed with your electricity supplier. The bill payer or bill payers remain free to change the payment method and payment schedule of the electricity bill in line with the electricity supplier’s policies, without any penalty or extra charges. If you wish to change payment frequency, you are advised to contact the electricity supplier directly.” inserted after “Each of the following forms of wording shall be contained in a statement under this Part—” (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(c)(i)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/c/i)
 
@@ -139,4 +139,4 @@ NOTE 1: Delete as applicable.
 
 [^M_F_e3fd84a3-f653-4065-91e2-25ade4646514]: Textual amendment: Words "“Payments This statement may not include a payment, or payments, made recently to the electricity supplier which has not yet been passed on to us.”;“Previous bill payers’ payments and arrears This statement does not contain information about payments made and arrears incurred by previous bill payers before the date on which the current bill payer or bill payers became liable for payments.”" inserted after “Citizens Advice service.” (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(7)(c)(iv)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/7/c/iv)
 
-[^key-6b0ad1c6c83fffff473e3012c4a32f8c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/5) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-6b0ad1c6c83fffff473e3012c4a32f8c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2007/1167/schedule/1/paragraph/5) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)

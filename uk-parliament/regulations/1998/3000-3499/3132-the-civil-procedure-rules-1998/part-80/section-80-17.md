@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80.17. Hearings[^key-b0028ea3ea761f9d3071a1825db0843b]
+## 80.17. Hearings[^c-b0028ea3ea761f9d3071a1825db0843b]
 
 *Extent: E+W*
 
 (1) The following proceedings must be determined at a hearing—
 
-- (a) a review hearing under section 9(1) of the TPIM Act or section 45(1) of the National Security Act[^key-c69e28df267b9c5444954a163a0a5f93] (review hearing);
-- (b) an appeal under section 16 of the TPIM[^key-8cf9ced0e82c9435516328d842ca767d] Act (appeals relating to a TPIM notice) or section 52 of the National Security Act (appeals relating to a Part 2 notice)[^key-92f5a8bfbeebad662e99e534e9328b0d];
+- (a) a review hearing under section 9(1) of the TPIM Act or section 45(1) of the National Security Act[^c-c69e28df267b9c5444954a163a0a5f93] (review hearing);
+- (b) an appeal under section 16 of the TPIM[^c-8cf9ced0e82c9435516328d842ca767d] Act (appeals relating to a TPIM notice) or section 52 of the National Security Act (appeals relating to a Part 2 notice)[^c-92f5a8bfbeebad662e99e534e9328b0d];
 - (c) an appeal to the Court of Appeal from an order of the High Court made in the proceedings mentioned in sub-paragraph (a) or (b) above; and
 - (d) a hearing under rule 80.25(2) (consideration of the Secretary of State’s objection or application).
 
-(2) Paragraph (1)(a) does not apply where the court discontinues the review hearing in accordance with section 9(3) of the TPIM Act or section 45(3) of the National Security Act[^key-97a0321916c717d6451517b9a8873df1].
+(2) Paragraph (1)(a) does not apply where the court discontinues the review hearing in accordance with section 9(3) of the TPIM Act or section 45(3) of the National Security Act[^c-97a0321916c717d6451517b9a8873df1].
 
 (3) Paragraph (1)(b) does not apply where—
 
-- (a) the appeal is withdrawn by the TPIM or Part 2[^key-8e2b1509af1381d4f8b67ca174cae97d] subject;
+- (a) the appeal is withdrawn by the TPIM or Part 2[^c-8e2b1509af1381d4f8b67ca174cae97d] subject;
 - (b) the Secretary of State consents to the appeal being allowed; or
 - (c) the TPIM or Part 2 subject is outside the United Kingdom or it is impracticable to give the TPIM or Part 2 subject notice of a hearing and, in either case, the TPIM or Part 2 subject is unrepresented.
 
@@ -43,14 +43,14 @@ summary: ''
 
 ## Annotations
 
-[^key-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
+[^c-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
 
-[^key-c69e28df267b9c5444954a163a0a5f93]: Textual amendment: Words in rule 80.17(1)(a) substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(a)(i)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/a/i)
+[^c-c69e28df267b9c5444954a163a0a5f93]: Textual amendment: Words in rule 80.17(1)(a) substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(a)(i)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/a/i)
 
-[^key-8cf9ced0e82c9435516328d842ca767d]: Textual amendment: Word in rule 80.17(1)(b) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/a/ii/aa)
+[^c-8cf9ced0e82c9435516328d842ca767d]: Textual amendment: Word in rule 80.17(1)(b) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/a/ii/aa)
 
-[^key-92f5a8bfbeebad662e99e534e9328b0d]: Textual amendment: Words in rule 80.17(1)(b) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/a/ii/bb)
+[^c-92f5a8bfbeebad662e99e534e9328b0d]: Textual amendment: Words in rule 80.17(1)(b) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/a/ii/bb)
 
-[^key-97a0321916c717d6451517b9a8873df1]: Textual amendment: Words in rule 80.17(2) substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(b)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/b)
+[^c-97a0321916c717d6451517b9a8873df1]: Textual amendment: Words in rule 80.17(2) substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(b)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/b)
 
-[^key-8e2b1509af1381d4f8b67ca174cae97d]: Textual amendment: Words in rule 80.17(3) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(c)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/c)
+[^c-8e2b1509af1381d4f8b67ca174cae97d]: Textual amendment: Words in rule 80.17(3) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [21(c)](https://www.legislation.gov.uk/uksi/2023/1397/rule/21/c)

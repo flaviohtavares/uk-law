@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Local polls[^key-1b721d468c330511844465f0ac27577e]
+## 116. Local polls[^c-1b721d468c330511844465f0ac27577e]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) any matter relating to—
   - (i) services provided in pursuance of the authority’s functions, or
-  - (ii) the authority’s expenditure on such services.[^key-7f44cc06df96a811d70d90a1c2499ed8]
-- (b)[^key-e1ba2840cbc971be022b0e2e12912bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) the authority’s expenditure on such services.[^c-7f44cc06df96a811d70d90a1c2499ed8]
+- (b)[^c-e1ba2840cbc971be022b0e2e12912bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) It shall be for the local authority concerned to decide—
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1b721d468c330511844465f0ac27577e]: Modification: S. 116 modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/395/regulation/11)
+[^c-1b721d468c330511844465f0ac27577e]: Modification: S. 116 modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/395/regulation/11)
 
-[^key-7f44cc06df96a811d70d90a1c2499ed8]: Textual amendment: Word in s. 116(1)(a)(ii) substituted (W.) (1.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/2/a); [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/uksi/2021/231/article/4/c)
+[^c-7f44cc06df96a811d70d90a1c2499ed8]: Textual amendment: Word in s. 116(1)(a)(ii) substituted (W.) (1.11.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/2/a); [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/uksi/2021/231/article/4/c)
 
-[^key-e1ba2840cbc971be022b0e2e12912bab]: Textual amendment: S. 116(1)(b) omitted (W.) (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/2/b); [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/uksi/2021/231/article/4/c)
+[^c-e1ba2840cbc971be022b0e2e12912bab]: Textual amendment: S. 116(1)(b) omitted (W.) (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/2/b); [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/uksi/2021/231/article/4/c)

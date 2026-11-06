@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Aircraft: exceptions from prohibitions[^key-2fdc5983efc229876b9be7deaf4e7f9c]
+## 59. Aircraft: exceptions from prohibitions[^c-2fdc5983efc229876b9be7deaf4e7f9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fdc5983efc229876b9be7deaf4e7f9c]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/uksi/2019/792/regulation/59) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(s)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/s)
+[^c-2fdc5983efc229876b9be7deaf4e7f9c]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/uksi/2019/792/regulation/59) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(s)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Temporary use of land for construction of works[^key-a60d6531c61dbd52261bb037808a203d]
+## 30. Temporary use of land for construction of works[^c-a60d6531c61dbd52261bb037808a203d]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a60d6531c61dbd52261bb037808a203d]: Commencement: Art. 30 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-a60d6531c61dbd52261bb037808a203d]: Commencement: Art. 30 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

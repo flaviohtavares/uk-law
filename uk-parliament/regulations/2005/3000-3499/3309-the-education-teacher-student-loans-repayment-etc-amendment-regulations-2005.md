@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State for Education and Skills makes the following Regulations, in exercise of the powers conferred upon her by sections 186 and 210 of the Education Act 2002[^f00001]:
 
-**1.**[^key-61acf83106decf7ef67e046c861ef9e4] These Regulations may be cited as the Education (Teacher Student Loans) (Repayment etc.) (Amendment) Regulations 2005 and shall come into force on 30th December 2005.
+**1.**[^c-61acf83106decf7ef67e046c861ef9e4] These Regulations may be cited as the Education (Teacher Student Loans) (Repayment etc.) (Amendment) Regulations 2005 and shall come into force on 30th December 2005.
 
-**2.**[^key-88b81a9c46b0a31db0c99fa9bc63279f] The Education (Teacher Student Loans) (Repayment etc.) Regulations 2003[^f00002] are amended as follows.
+**2.**[^c-88b81a9c46b0a31db0c99fa9bc63279f] The Education (Teacher Student Loans) (Repayment etc.) Regulations 2003[^f00002] are amended as follows.
 
-**3.**[^key-7d41a5a9f13ca357f2e0bb7596e57c82] After paragraph (1) of regulation 4 insert the following—
+**3.**[^c-7d41a5a9f13ca357f2e0bb7596e57c82] After paragraph (1) of regulation 4 insert the following—
 
 > (1A) Where due to pregnancy or childbirth a woman has not entered into a contract of employment which commenced before 1st July 2005, the reference in paragraph (1)(c) to 2005 must be read as a reference to 2006.
 
@@ -74,10 +74,10 @@ These Regulations amend the 2003 Regulations. The amendment provides that in the
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-61acf83106decf7ef67e046c861ef9e4]: Commencement: Reg. 1 in force at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3309/regulation/1)
+[^c-61acf83106decf7ef67e046c861ef9e4]: Commencement: Reg. 1 in force at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3309/regulation/1)
 
-[^key-88b81a9c46b0a31db0c99fa9bc63279f]: Commencement: Reg. 2 in force at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3309/regulation/1)
+[^c-88b81a9c46b0a31db0c99fa9bc63279f]: Commencement: Reg. 2 in force at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3309/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2003/1917](https://www.legislation.gov.uk/uksi/2003/1917)
 
-[^key-7d41a5a9f13ca357f2e0bb7596e57c82]: Commencement: Reg. 3 in force at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3309/regulation/1)
+[^c-7d41a5a9f13ca357f2e0bb7596e57c82]: Commencement: Reg. 3 in force at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3309/regulation/1)

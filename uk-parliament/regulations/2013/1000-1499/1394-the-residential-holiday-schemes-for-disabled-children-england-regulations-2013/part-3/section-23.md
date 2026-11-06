@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Employment of staff[^key-ae2016f19ba37fc101afc106cd85b103]
+## 23. Employment of staff[^c-ae2016f19ba37fc101afc106cd85b103]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The registered person must—
 
 ## Annotations
 
-[^key-ae2016f19ba37fc101afc106cd85b103]: Commencement: Reg. 23 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-ae2016f19ba37fc101afc106cd85b103]: Commencement: Reg. 23 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 152. Amount of transferred pension[^key-e25d83d82dd0e01bf87a5384ffaae02b]
+## 152. Amount of transferred pension[^c-e25d83d82dd0e01bf87a5384ffaae02b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e25d83d82dd0e01bf87a5384ffaae02b]: Commencement: [Reg. 152](https://www.legislation.gov.uk/nisr/2014/290/regulation/152) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e25d83d82dd0e01bf87a5384ffaae02b]: Commencement: [Reg. 152](https://www.legislation.gov.uk/nisr/2014/290/regulation/152) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Power of governing body: educational provision for improving behaviour[^key-124f9a7cbb5e9f7c92ac975d3bbc839c][^key-5e06bfb71070a8a12ba317bedad51013]
+## 154. Power of governing body: educational provision for improving behaviour[^c-124f9a7cbb5e9f7c92ac975d3bbc839c][^c-5e06bfb71070a8a12ba317bedad51013]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ After section 29 of the Education Act 2002 (c. 32) insert—
 
 ## Annotations
 
-[^key-124f9a7cbb5e9f7c92ac975d3bbc839c]: Commencement: S. 154 in force at 30.3.2010 for specified purposes by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/d)
+[^c-124f9a7cbb5e9f7c92ac975d3bbc839c]: Commencement: S. 154 in force at 30.3.2010 for specified purposes by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/d)
 
-[^key-5e06bfb71070a8a12ba317bedad51013]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2008/25/section/154) in force at 1.9.2010 in so far as not already in force by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 3](https://www.legislation.gov.uk/uksi/2010/1093/article/3)
+[^c-5e06bfb71070a8a12ba317bedad51013]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2008/25/section/154) in force at 1.9.2010 in so far as not already in force by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 3](https://www.legislation.gov.uk/uksi/2010/1093/article/3)

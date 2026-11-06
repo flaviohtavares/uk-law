@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Continuity of civil partnership or marriage on change of gender[^key-e69cbc26d25bf534facc2a0c0f710774]
+## 45. Continuity of civil partnership or marriage on change of gender[^c-e69cbc26d25bf534facc2a0c0f710774]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e69cbc26d25bf534facc2a0c0f710774]: Commencement: Reg. 45 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e69cbc26d25bf534facc2a0c0f710774]: Commencement: Reg. 45 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00062]: Footnote: Section 11B was inserted (with UK extent) by Part 1 of Schedule 5 to the Marriage (Same Sex Couples) Act 2013 and is substituted (as it extends to England & Wales) by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 

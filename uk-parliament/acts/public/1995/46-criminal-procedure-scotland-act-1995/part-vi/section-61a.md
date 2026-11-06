@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Transfer of person to suitable hospital[^key-6370fd2ca4c25ab3cfa47a3b4bd1a867]
+## 61A. Transfer of person to suitable hospital[^c-6370fd2ca4c25ab3cfa47a3b4bd1a867]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6370fd2ca4c25ab3cfa47a3b4bd1a867]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/ukpga/1995/46/section/61A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 46(3)](https://www.legislation.gov.uk/asp/2015/9/section/46/3), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-6370fd2ca4c25ab3cfa47a3b4bd1a867]: Textual amendment: [S. 61A](https://www.legislation.gov.uk/ukpga/1995/46/section/61A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 46(3)](https://www.legislation.gov.uk/asp/2015/9/section/46/3), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

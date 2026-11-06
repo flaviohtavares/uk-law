@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Displays of products or prices in England[^key-de8bbe78f148d0dfb394bfd8eb243228][^key-a471f0387ab620d1a0f0e466c656b83a]
+## 13. Displays of products or prices in England[^c-de8bbe78f148d0dfb394bfd8eb243228][^c-a471f0387ab620d1a0f0e466c656b83a]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de8bbe78f148d0dfb394bfd8eb243228]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-de8bbe78f148d0dfb394bfd8eb243228]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-a471f0387ab620d1a0f0e466c656b83a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2026/18/section/13) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-a471f0387ab620d1a0f0e466c656b83a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2026/18/section/13) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

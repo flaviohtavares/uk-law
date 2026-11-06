@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371RG. Companies in which a UK resident company has more than a 50% investment[^key-0347a8c427e4b3ba624cbf53e9866bbf][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371RG. Companies in which a UK resident company has more than a 50% investment[^c-0347a8c427e4b3ba624cbf53e9866bbf][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ and, accordingly, references in section 259ND to “X%” are to be read as refe
 
 ## Annotations
 
-[^key-0347a8c427e4b3ba624cbf53e9866bbf]: Textual amendment: [S. 371RG](https://www.legislation.gov.uk/ukpga/2010/8/section/371RG) inserted (with effect in accordance with s. 20(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/20/4)
+[^c-0347a8c427e4b3ba624cbf53e9866bbf]: Textual amendment: [S. 371RG](https://www.legislation.gov.uk/ukpga/2010/8/section/371RG) inserted (with effect in accordance with s. 20(5)(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/20/4)
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Flying Displays[^key-eda833371470463a5e0f07d36da99719]
+## 69. Flying Displays[^c-eda833371470463a5e0f07d36da99719]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eda833371470463a5e0f07d36da99719]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2013/2870/article/69) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-eda833371470463a5e0f07d36da99719]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2013/2870/article/69) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

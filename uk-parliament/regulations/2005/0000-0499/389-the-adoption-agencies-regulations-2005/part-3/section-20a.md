@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20A.[^key-f27dfb17e757e782e2435de185aec922]
+## 20A.[^c-f27dfb17e757e782e2435de185aec922]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f27dfb17e757e782e2435de185aec922]: Textual amendment: Reg. 20A inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(i)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/i)
+[^c-f27dfb17e757e782e2435de185aec922]: Textual amendment: Reg. 20A inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(i)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/i)

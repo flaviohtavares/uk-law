@@ -52,7 +52,7 @@ In these Regulations:—
 
 - “**the register**” means the register of landlords of dwelling-houses let under a private tenancy;
 - “**the registrar**” means the person appointed by the Department to establish and maintain the register;
-- “authorised officer” means an officer of the district council, the Department of Finance, the Northern Ireland Housing Executive or the Department for Communities authorised in writing for the purpose of regulation 9 of the Landlord Registration Scheme Regulations (Northern Ireland) 2014.[^key-ee9a714258607da04e47c782304658fa]
+- “authorised officer” means an officer of the district council, the Department of Finance, the Northern Ireland Housing Executive or the Department for Communities authorised in writing for the purpose of regulation 9 of the Landlord Registration Scheme Regulations (Northern Ireland) 2014.[^c-ee9a714258607da04e47c782304658fa]
 - “**landlord**” includes a person acting on behalf of the landlord in relation to a tenancy.
 
 ## 3. Requirement to register
@@ -105,7 +105,7 @@ The registrar must:—
 
 Where a landlord is registered in accordance with regulation 3, the landlord must include his registration number in correspondence, in so far as the correspondence relates to the discharge of his functions as a landlord.
 
-## 9. Disclosure of information to certain bodies[^key-f8c2b3aa62001ea73dc25af04358757b]
+## 9. Disclosure of information to certain bodies[^c-f8c2b3aa62001ea73dc25af04358757b]
 
 Information held by the registrar and not included in the register shall, on request from an authorised officer be disclosed to:—
 
@@ -200,6 +200,6 @@ Schedule 2 prescribes the information which is included in and excluded from the
 
 [^c21997531]: Marginal citation: [S.I. 2006/1459 (N.I. 10)](https://www.legislation.gov.uk/nisi/2006/1459) as amended by [2011 c.22 (N.I.)](https://www.legislation.gov.uk/nia/2011/22)
 
-[^key-ee9a714258607da04e47c782304658fa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2014/9/regulation/2) substituted (1.9.2016) by [The Landlord Registration Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/257)](https://www.legislation.gov.uk/nisr/2016/257), [regs. 1](https://www.legislation.gov.uk/nisr/2016/257/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/257/regulation/2)
+[^c-ee9a714258607da04e47c782304658fa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2014/9/regulation/2) substituted (1.9.2016) by [The Landlord Registration Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/257)](https://www.legislation.gov.uk/nisr/2016/257), [regs. 1](https://www.legislation.gov.uk/nisr/2016/257/regulation/1), [2](https://www.legislation.gov.uk/nisr/2016/257/regulation/2)
 
-[^key-f8c2b3aa62001ea73dc25af04358757b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/9/regulation/9) substituted (1.9.2016) by [The Landlord Registration Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/257)](https://www.legislation.gov.uk/nisr/2016/257), [regs. 1](https://www.legislation.gov.uk/nisr/2016/257/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/257/regulation/3)
+[^c-f8c2b3aa62001ea73dc25af04358757b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/9/regulation/9) substituted (1.9.2016) by [The Landlord Registration Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/257)](https://www.legislation.gov.uk/nisr/2016/257), [regs. 1](https://www.legislation.gov.uk/nisr/2016/257/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/257/regulation/3)

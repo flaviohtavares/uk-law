@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 146. Interdicts restraining breaches of planning control.[^c950161][^key-525ea2a5bf0d39daff4aa1bbfa7caff8]
+## 146. Interdicts restraining breaches of planning control.[^c950161][^c-525ea2a5bf0d39daff4aa1bbfa7caff8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c950161]: Modification: S. 146 extended (27.5.1997) by [1997 c. 9](https://www.legislation.gov.uk/ukpga/1997/9), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/1997/9/section/79/1), [83(2)](https://www.legislation.gov.uk/ukpga/1997/9/section/83/2) (with [s. 45(4)](https://www.legislation.gov.uk/ukpga/1997/9/section/45/4))
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-e1dc4072b652e6bc122465f2957d069e]
+## 106. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-e1dc4072b652e6bc122465f2957d069e]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ In regulation 2 (interpretation) (as amended by regulations 100 and 103 of these
   - (ii) at the end of paragraph (a)(iii), for “or” substitute “and”;
   - (iii) omit paragraph (a)(iv).
 
-**107.**[^key-c28d409ea6e24a501601c701dde9c5f8] In regulation 6(2) (qualifying person: effect of event during academic year)[^f00084]—
+**107.**[^c-c28d409ea6e24a501601c701dde9c5f8] In regulation 6(2) (qualifying person: effect of event during academic year)[^f00084]—
 
 - (a) in sub-paragraph (m), after “the student” insert “or the student’s spouse, civil partner or parent”;
 - (b) in sub-paragraph (n), after “the student” insert “or the student’s spouse, civil partner or parent”.
 
-**108.**[^key-6b1e5956ad698b4ff6f551037ac010ff] In Part 2 of the Schedule (qualifying persons: categories)—
+**108.**[^c-6b1e5956ad698b4ff6f551037ac010ff] In Part 2 of the Schedule (qualifying persons: categories)—
 
 - (a) in paragraph 5F (as amended by regulation 104(8) of these Regulations)—
   - (i) for the heading substitute—
@@ -99,12 +99,12 @@ In regulation 2 (interpretation) (as amended by regulations 100 and 103 of these
 
 ## Annotations
 
-[^key-e1dc4072b652e6bc122465f2957d069e]: Commencement: Reg. 106 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-e1dc4072b652e6bc122465f2957d069e]: Commencement: Reg. 106 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-c28d409ea6e24a501601c701dde9c5f8]: Commencement: Reg. 107 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c28d409ea6e24a501601c701dde9c5f8]: Commencement: Reg. 107 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00084]: Footnote: Sub-paragraph (m) was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Sub-paragraph (n) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-6b1e5956ad698b4ff6f551037ac010ff]: Commencement: Reg. 108 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-6b1e5956ad698b4ff6f551037ac010ff]: Commencement: Reg. 108 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00085]: Footnote: Paragraph 5H was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

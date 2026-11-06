@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90B. Prohibition on disclosure of information[^key-979a086d18db4b40aa216cff757ae4e0]
+## 90B. Prohibition on disclosure of information[^c-979a086d18db4b40aa216cff757ae4e0]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ is information that is held by the Agency in connection with the provision of a 
 
 ## Annotations
 
-[^key-979a086d18db4b40aa216cff757ae4e0]: Textual amendment: [Art. 90B](https://www.legislation.gov.uk/nisi/1992/807/article/90B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 23](https://www.legislation.gov.uk/nia/2016/15/section/23), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2) (as amended (25.5.2018) by Data Protection Act 2018 (C. 12), s. 212(1), Sch. 19 para. 42 (with ss. 117, 209, 210); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), reg. 2(1)(g)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(i)](https://www.legislation.gov.uk/nisr/2020/1/article/2/i)
+[^c-979a086d18db4b40aa216cff757ae4e0]: Textual amendment: [Art. 90B](https://www.legislation.gov.uk/nisi/1992/807/article/90B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 23](https://www.legislation.gov.uk/nia/2016/15/section/23), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2) (as amended (25.5.2018) by Data Protection Act 2018 (C. 12), s. 212(1), Sch. 19 para. 42 (with ss. 117, 209, 210); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), reg. 2(1)(g)); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(i)](https://www.legislation.gov.uk/nisr/2020/1/article/2/i)

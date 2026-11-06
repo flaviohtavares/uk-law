@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Requirements: complaints made to the Ombudsman[^key-be3fb04c5fba81d7962cb8d3896d1a0c]
+## 48. Requirements: complaints made to the Ombudsman[^c-be3fb04c5fba81d7962cb8d3896d1a0c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be3fb04c5fba81d7962cb8d3896d1a0c]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2019/3/section/48) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-be3fb04c5fba81d7962cb8d3896d1a0c]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2019/3/section/48) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

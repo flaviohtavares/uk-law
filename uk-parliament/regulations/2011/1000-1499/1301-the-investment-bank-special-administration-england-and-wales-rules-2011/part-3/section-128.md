@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Right of inspection[^key-d176a6c85dbcea07dc447e8fcdf4187f]
+## 128. Right of inspection[^c-d176a6c85dbcea07dc447e8fcdf4187f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d176a6c85dbcea07dc447e8fcdf4187f]: Commencement: [Rule 128](https://www.legislation.gov.uk/uksi/2011/1301/rule/128) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d176a6c85dbcea07dc447e8fcdf4187f]: Commencement: [Rule 128](https://www.legislation.gov.uk/uksi/2011/1301/rule/128) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

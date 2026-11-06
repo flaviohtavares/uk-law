@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Part of this Act applies—
 
-- (a)[^c12923791][^key-b66ab6017c7a895d178e2a1a234de757] to—
+- (a)[^c12923791][^c-b66ab6017c7a895d178e2a1a234de757] to—
   - (i) persons on whom detention in a young offenders institution has been imposed under section 205ZA(6) of the 1995 Act,
   - (ii) persons on whom detention in a young offenders institution has been imposed under section 205ZC(4) of that Act, and
   - (iii) persons on whom detention in a young offenders institution (other than detention without limit of time or for life) has been imposed under section 207(2) of that Act,
@@ -49,7 +49,7 @@ and references in the Part (except in this section, sections 1(8) and 5(1) and p
 
     Ss. 1, 1A, 2(4), 3A, 5, 6(1)(a)(b)(i)(iii), 7, 9, 16, 20, 21, 26A, 27, Schs. 2, 6 extended (30.9.1998) by [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43), [ss. 41](https://www.legislation.gov.uk/ukpga/1997/43/section/41), [56(1)](https://www.legislation.gov.uk/ukpga/1997/43/section/56/1), [Sch. 1 Pt. II paras. 10(2)(a)(5)(a)(6)(7)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/part/II/paragraph/10/2/a/5/a/6/7), [11(2)(a)(4)(a)(6)](https://www.legislation.gov.uk/ukpga/1997/43/schedule/1/part/II/paragraph/11/2/a/4/a/6) (subject to [art. 5](https://www.legislation.gov.uk/ukpga/1997/43/article/5)) (as amended (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [Sch. 8 paras. 135(5)(a)(d)(f)(6)(a)(b)](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/135/5/a/d/f/6/a/b); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(y)(2)(oo)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/y/2/oo) (subject to [arts. 5-8](https://www.legislation.gov.uk/uksi/1998/2327/article/5)))
 
-[^key-b66ab6017c7a895d178e2a1a234de757]: Textual amendment: S. 6(1)(a) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(12)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/12)
+[^c-b66ab6017c7a895d178e2a1a234de757]: Textual amendment: S. 6(1)(a) substituted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 52(12)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/52/12)
 
 [^c12923831]: Textual amendment: Words in s. 6(1)(b)(i) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 86(4)(b)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/86/4/b)
 

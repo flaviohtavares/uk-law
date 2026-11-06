@@ -24,7 +24,7 @@ summary: ''
 
 ### Interpretation
 
-**1.**[^key-2f045f9c8325049d64fb98a960833458] In this schedule—
+**1.**[^c-2f045f9c8325049d64fb98a960833458] In this schedule—
 
 - “**recognised**” has the meaning given by section 178(3) of the Trade Union and Labour Relations (Consolidation) Act 1992 (c.52),
 - “**trade union**” has the meaning given by section 1 of that Act, and
@@ -32,7 +32,7 @@ summary: ''
 
 ### Staff transfer orders
 
-**2.**[^key-52403b045b9ebe1a91252151095af08a] (1) The Scottish Ministers may by order (a “staff transfer order”) make provision for or in connection with—
+**2.**[^c-52403b045b9ebe1a91252151095af08a] (1) The Scottish Ministers may by order (a “staff transfer order”) make provision for or in connection with—
 
 - (a) the transfer of persons employed by SCRA to CHS,
 - (b) the transfer of persons employed by local authorities from authorities to CHS.
@@ -57,7 +57,7 @@ summary: ''
 
 ### Schemes for transfer of staff: consultation
 
-**3.**[^key-9e8c299a49119bea891f18615288ad76] (1) Sub-paragraph (2) applies where a staff transfer order includes a requirement of the type mentioned in paragraph 2(2)(b)(i).
+**3.**[^c-9e8c299a49119bea891f18615288ad76] (1) Sub-paragraph (2) applies where a staff transfer order includes a requirement of the type mentioned in paragraph 2(2)(b)(i).
 
 (2) SCRA must consult the persons mentioned in sub-paragraph (3) about the content of the scheme.
 
@@ -78,7 +78,7 @@ summary: ''
 
 ### Effect on existing contracts of employment
 
-**4.**[^key-8ca2be43390c40e49ccf8485e0184d91] (1) This paragraph applies where—
+**4.**[^c-8ca2be43390c40e49ccf8485e0184d91] (1) This paragraph applies where—
 
 - (a) a person is to be transferred by virtue of a staff transfer order, and
 - (b) immediately before the transfer day the person has a contract of employment with the relevant employer.
@@ -108,7 +108,7 @@ summary: ''
 
 ### Transfer of property etc. to CHS
 
-**5.**[^key-4fddfbd9ad8c8c60bd2febfb50ff3467] (1) The Scottish Ministers may make a transfer scheme.
+**5.**[^c-4fddfbd9ad8c8c60bd2febfb50ff3467] (1) The Scottish Ministers may make a transfer scheme.
 
 (2) A transfer scheme is a scheme making provision for or in connection with the transfer to CHS of property, rights, liabilities and obligations of any of the following—
 
@@ -149,12 +149,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2f045f9c8325049d64fb98a960833458]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/1) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2f045f9c8325049d64fb98a960833458]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/1) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-52403b045b9ebe1a91252151095af08a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/2) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-52403b045b9ebe1a91252151095af08a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/2) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-9e8c299a49119bea891f18615288ad76]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/3) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9e8c299a49119bea891f18615288ad76]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/3) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-8ca2be43390c40e49ccf8485e0184d91]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/4) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-8ca2be43390c40e49ccf8485e0184d91]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/4) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-4fddfbd9ad8c8c60bd2febfb50ff3467]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/5) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4fddfbd9ad8c8c60bd2febfb50ff3467]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2011/1/schedule/4/paragraph/5) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

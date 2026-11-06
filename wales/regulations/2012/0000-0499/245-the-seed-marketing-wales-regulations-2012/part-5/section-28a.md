@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28A. Arrangements for official measures[^key-da258624e38edb9e608e9bb14db34ed3]
+## 28A. Arrangements for official measures[^c-da258624e38edb9e608e9bb14db34ed3]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da258624e38edb9e608e9bb14db34ed3]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/wsi/2012/245/regulation/28A) inserted (11.1.2017) by [The Seed Marketing (Wales) (Amendment) Regulations 2016 (S.I. 2016/1242)](https://www.legislation.gov.uk/wsi/2016/1242), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1242/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2016/1242/regulation/5)
+[^c-da258624e38edb9e608e9bb14db34ed3]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/wsi/2012/245/regulation/28A) inserted (11.1.2017) by [The Seed Marketing (Wales) (Amendment) Regulations 2016 (S.I. 2016/1242)](https://www.legislation.gov.uk/wsi/2016/1242), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/1242/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2016/1242/regulation/5)

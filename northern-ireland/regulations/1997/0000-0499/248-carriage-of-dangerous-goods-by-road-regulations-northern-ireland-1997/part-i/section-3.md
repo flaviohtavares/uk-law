@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Application[^key-0068933c1c1a787f2b4156e74471cce5]
+## 3. Application[^c-0068933c1c1a787f2b4156e74471cce5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Subject to the provisions of Schedule 2, these Regulations shall apply to and in
 
 ## Annotations
 
-[^key-0068933c1c1a787f2b4156e74471cce5]: Commencement: Reg. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-0068933c1c1a787f2b4156e74471cce5]: Commencement: Reg. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

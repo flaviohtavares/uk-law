@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order 2019 (revoked)[^key-a5f5bc5eccdcdad537624dd7d938cabb]
+The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order 2019 (revoked)[^c-a5f5bc5eccdcdad537624dd7d938cabb]
 
 Made
 
@@ -45,23 +45,23 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-a5f5bc5eccdcdad537624dd7d938cabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5f5bc5eccdcdad537624dd7d938cabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a5f5bc5eccdcdad537624dd7d938cabb]
+## 1. Citation and commencement[^c-a5f5bc5eccdcdad537624dd7d938cabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of legislation[^key-a5f5bc5eccdcdad537624dd7d938cabb]
+## 2. Modification of legislation[^c-a5f5bc5eccdcdad537624dd7d938cabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5f5bc5eccdcdad537624dd7d938cabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5f5bc5eccdcdad537624dd7d938cabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Governments of Iceland, Liechtenstein and Norway regarding arrangements for citizens' rights following the withdrawal of the United Kingdom from the European Union and the EEA Agreement[^key-a5f5bc5eccdcdad537624dd7d938cabb]
+## SCHEDULE — Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Governments of Iceland, Liechtenstein and Norway regarding arrangements for citizens' rights following the withdrawal of the United Kingdom from the European Union and the EEA Agreement[^c-a5f5bc5eccdcdad537624dd7d938cabb]
 
 Articles 1 and 2
 
@@ -69,8 +69,8 @@ Articles 1 and 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5f5bc5eccdcdad537624dd7d938cabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5f5bc5eccdcdad537624dd7d938cabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5f5bc5eccdcdad537624dd7d938cabb]: Textual amendment: Order revoked (17.12.2020) by [The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order 2020 (S.I. 2020/1569)](https://www.legislation.gov.uk/uksi/2020/1569), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1569/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1569/article/2)
+[^c-a5f5bc5eccdcdad537624dd7d938cabb]: Textual amendment: Order revoked (17.12.2020) by [The Social Security (Iceland, Liechtenstein and Norway) (Citizens’ Rights Agreement) (Revocation) Order 2020 (S.I. 2020/1569)](https://www.legislation.gov.uk/uksi/2020/1569), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1569/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1569/article/2)

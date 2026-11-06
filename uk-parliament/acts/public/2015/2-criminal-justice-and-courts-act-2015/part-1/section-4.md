@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Parole Board release when serving extended sentences[^key-3169691a23f123291708d73530b42b0f]
+## 4. Parole Board release when serving extended sentences[^c-3169691a23f123291708d73530b42b0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3169691a23f123291708d73530b42b0f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/2/section/4) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/4)
+[^c-3169691a23f123291708d73530b42b0f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2015/2/section/4) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/4)

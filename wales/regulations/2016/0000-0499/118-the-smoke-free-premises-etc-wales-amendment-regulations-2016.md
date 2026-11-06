@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Smoke-free Premises etc. (Wales) (Amendment) Regulations 2016 (revoked)[^key-c114b06d195675f67b7a09677c0702b4]
+The Smoke-free Premises etc. (Wales) (Amendment) Regulations 2016 (revoked)[^c-c114b06d195675f67b7a09677c0702b4]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 4 February 2016
 
-[^key-c114b06d195675f67b7a09677c0702b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c114b06d195675f67b7a09677c0702b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-c114b06d195675f67b7a09677c0702b4]
+## 1. Title, commencement and application[^c-c114b06d195675f67b7a09677c0702b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Smoke-free Premises etc. (Wales) Regulations 2007[^key-c114b06d195675f67b7a09677c0702b4]
+## 2. Amendment to the Smoke-free Premises etc. (Wales) Regulations 2007[^c-c114b06d195675f67b7a09677c0702b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c114b06d195675f67b7a09677c0702b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c114b06d195675f67b7a09677c0702b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c114b06d195675f67b7a09677c0702b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c114b06d195675f67b7a09677c0702b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c114b06d195675f67b7a09677c0702b4]: Textual amendment: Regulations revoked (1.3.2021) by The Smoke-free [Premises and Vehicles (Wales) Regulations 2020 (S.I. 2020/1211)](https://www.legislation.gov.uk/uksi/2020/1211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/25/c)
+[^c-c114b06d195675f67b7a09677c0702b4]: Textual amendment: Regulations revoked (1.3.2021) by The Smoke-free [Premises and Vehicles (Wales) Regulations 2020 (S.I. 2020/1211)](https://www.legislation.gov.uk/uksi/2020/1211), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2020/1211/regulation/25/c)

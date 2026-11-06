@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007 (revoked)[^key-ad4ddf9cca0966fdae67d260fad7a548]
+The Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007 (revoked)[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into force
 
 1 April 2007
 
-[^key-ad4ddf9cca0966fdae67d260fad7a548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad4ddf9cca0966fdae67d260fad7a548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 1. Title, commencement and application[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 2. Interpretation[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on sale[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 3. Restriction on sale[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Declaration[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 4. Declaration[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 5. Enforcement[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 6. Offences and penalties[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various provisions of the Food Safety Act 1990[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 7. Application of various provisions of the Food Safety Act 1990[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-ad4ddf9cca0966fdae67d260fad7a548]
+## 8. Revocation[^c-ad4ddf9cca0966fdae67d260fad7a548]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad4ddf9cca0966fdae67d260fad7a548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad4ddf9cca0966fdae67d260fad7a548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad4ddf9cca0966fdae67d260fad7a548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad4ddf9cca0966fdae67d260fad7a548]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad4ddf9cca0966fdae67d260fad7a548]: Textual amendment: Regulations revoked (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [5(a)](https://www.legislation.gov.uk/wsi/2016/639/regulation/5/a)
+[^c-ad4ddf9cca0966fdae67d260fad7a548]: Textual amendment: Regulations revoked (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [5(a)](https://www.legislation.gov.uk/wsi/2016/639/regulation/5/a)

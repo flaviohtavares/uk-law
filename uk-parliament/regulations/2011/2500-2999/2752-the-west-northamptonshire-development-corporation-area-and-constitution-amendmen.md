@@ -32,7 +32,7 @@ summary: ''
 
 Urban Development, England
 
-The West Northamptonshire Development Corporation (Area and Constitution) (Amendment) Order 2011 (revoked)[^key-8ff606576bea8db3d25dc441ee659443]
+The West Northamptonshire Development Corporation (Area and Constitution) (Amendment) Order 2011 (revoked)[^c-8ff606576bea8db3d25dc441ee659443]
 
 Approved by both Houses of Parliament
 
@@ -48,24 +48,24 @@ Coming into force
 
 17th November 2011
 
-[^key-8ff606576bea8db3d25dc441ee659443]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ff606576bea8db3d25dc441ee659443]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8ff606576bea8db3d25dc441ee659443]
+## 1. Citation and commencement[^c-8ff606576bea8db3d25dc441ee659443]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the West Northamptonshire Development Corporation (Area and Constitution) Order 2004[^key-8ff606576bea8db3d25dc441ee659443]
+## 2. Amendment of the West Northamptonshire Development Corporation (Area and Constitution) Order 2004[^c-8ff606576bea8db3d25dc441ee659443]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ff606576bea8db3d25dc441ee659443]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ff606576bea8db3d25dc441ee659443]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ff606576bea8db3d25dc441ee659443]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ff606576bea8db3d25dc441ee659443]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ff606576bea8db3d25dc441ee659443]: Textual amendment: Order revoked (with effect in accordance with art. 2(2) of the amending S.I.) by [The Urban Development Corporations in England (Area and Constitution) Order 2014 (S.I. 2014/1181)](https://www.legislation.gov.uk/uksi/2014/1181), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1181/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1181/article/2/2)
+[^c-8ff606576bea8db3d25dc441ee659443]: Textual amendment: Order revoked (with effect in accordance with art. 2(2) of the amending S.I.) by [The Urban Development Corporations in England (Area and Constitution) Order 2014 (S.I. 2014/1181)](https://www.legislation.gov.uk/uksi/2014/1181), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1181/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1181/article/2/2)

@@ -35,22 +35,22 @@ on the equivalence of designated contract markets in the United States of Americ
 
 (Text with EEA relevance) (revoked)
 
-[^key-0f5de6d1b608054f2ae09576720269e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f5de6d1b608054f2ae09576720269e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0f5de6d1b608054f2ae09576720269e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0f5de6d1b608054f2ae09576720269e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0f5de6d1b608054f2ae09576720269e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0f5de6d1b608054f2ae09576720269e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f5de6d1b608054f2ae09576720269e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f5de6d1b608054f2ae09576720269e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-0f5de6d1b608054f2ae09576720269e2]
+## ANNEX[^c-0f5de6d1b608054f2ae09576720269e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f5de6d1b608054f2ae09576720269e2]: Textual amendment: Decision revoked (20.4.2022) by [The European Market Infrastructure Regulation (United States of America Regulated Market Equivalence) Regulations 2022 (S.I. 2022/406)](https://www.legislation.gov.uk/uksi/2022/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/406/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/406/regulation/3)
+[^c-0f5de6d1b608054f2ae09576720269e2]: Textual amendment: Decision revoked (20.4.2022) by [The European Market Infrastructure Regulation (United States of America Regulated Market Equivalence) Regulations 2022 (S.I. 2022/406)](https://www.legislation.gov.uk/uksi/2022/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/406/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/406/regulation/3)

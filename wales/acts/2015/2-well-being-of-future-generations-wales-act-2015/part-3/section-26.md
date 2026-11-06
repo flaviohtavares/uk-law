@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Advisory panel[^key-dba45b059803eec8dab9099173284ae0]
+## 26. Advisory panel[^c-dba45b059803eec8dab9099173284ae0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dba45b059803eec8dab9099173284ae0]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/2/section/26) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/h)
+[^c-dba45b059803eec8dab9099173284ae0]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/2/section/26) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/h)

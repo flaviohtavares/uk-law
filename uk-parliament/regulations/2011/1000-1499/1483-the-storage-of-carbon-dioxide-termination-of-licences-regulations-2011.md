@@ -48,7 +48,7 @@ The Secretary of State is designated [^c20896741] for the purposes of section 2(
 
 These Regulations make provision for a purpose mentioned in section 2(2) of that Act, and it appears to the Secretary of State that it is necessary or expedient for certain references to EU instruments, or provisions of those instruments, in these Regulations to be construed as references to those instruments or provisions as amended from time to time.
 
-Accordingly the Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, that Act, and by section 31 of the Energy Act 2008 [^c20896761].[^key-3752b80524589e01bfa6b1d34d9b04b9]
+Accordingly the Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, that Act, and by section 31 of the Energy Act 2008 [^c20896761].[^c-3752b80524589e01bfa6b1d34d9b04b9]
 
 ## General
 
@@ -92,11 +92,11 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Termination of 
 
 - “abandonment programme”, in respect of a licence, means the abandonment programme (within the meaning of section 29(1) of the Petroleum Act 1998 [^c20896771]) applicable to an installation established or maintained in accordance with that licence for the purposes of an activity mentioned in section 17(2)(a), (b) or (c);
 - “**applicant**” means a licence holder who has made a termination application;
-- “appropriate Minister” means either—[^key-549785ce65d21a3a29a3cc8b3ecd2887]
+- “appropriate Minister” means either—[^c-549785ce65d21a3a29a3cc8b3ecd2887]
   - (a) the Secretary of State, where the OGA is the licensing authority in accordance with section 18(2); or
   - (b) the Scottish Ministers, where the Scottish Ministers are the licensing authority in accordance with section 18(2);
 - “**authority**” means either—
-  - (a) the OGA[^key-5240f928656611928bc07035c5c49301]; or
+  - (a) the OGA[^c-5240f928656611928bc07035c5c49301]; or
   - (b) the Scottish Ministers,
 
   as licensing authority in accordance with section 18(2);
@@ -143,7 +143,7 @@ the authority may request the operator to provide a transfer report within the p
 - (a) a transfer report; or
 - (b) a statement of the reasons why the operator is unable to provide a transfer report.
 
-### 6. Information to be provided to the European Commission[^key-178e9bcf8a02fbc00e57c8f7a93745c9]
+### 6. Information to be provided to the European Commission[^c-178e9bcf8a02fbc00e57c8f7a93745c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -183,7 +183,7 @@ For the purposes of regulations 9 to 11, the transfer conditions are that—
 - (a) the method by which the authority will determine whether or not the conditions listed in regulation 8(d) and (e) have been met; and
 - (b) whether any part of the abandonment programme remains to be carried out.
 
-(4)[^key-deb23aadb2f773e85be49e80ce7c9a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-deb23aadb2f773e85be49e80ce7c9a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where the authority is not satisfied under paragraph (2), the authority must as soon as reasonably practicable notify the licence holder of the reasons for its decision.
 
@@ -204,17 +204,17 @@ For the purposes of regulations 9 to 11, the transfer conditions are that—
 (4) The authority must notify the operator of—
 
 - (a) the authority's determination of the amount and form of the financial contribution; and
-- (b) the date by which the financial contribution must be provided to the appropriate Minister[^key-66d1a1f9b093d6abc5b66fbed18651e3].
+- (b) the date by which the financial contribution must be provided to the appropriate Minister[^c-66d1a1f9b093d6abc5b66fbed18651e3].
 
-(4A)[^key-b8cd521ca2924b04efc3220ad34d95d8] Where the OGA is the licensing authority in accordance with section 18(2), it must provide to the Secretary of State a copy of any notification given under paragraph (4).
+(4A)[^c-b8cd521ca2924b04efc3220ad34d95d8] Where the OGA is the licensing authority in accordance with section 18(2), it must provide to the Secretary of State a copy of any notification given under paragraph (4).
 
-(5) The operator must provide the financial contribution to the appropriate Minister[^key-d785747c3f9a4b9067e1ab0188b27c34] in accordance with the notification made under paragraph (4).
+(5) The operator must provide the financial contribution to the appropriate Minister[^c-d785747c3f9a4b9067e1ab0188b27c34] in accordance with the notification made under paragraph (4).
 
 ### 11. Serving a termination notice
 
 (1) Where the authority has prepared a draft termination notice under regulation 9(2), it must—
 
-- (a)[^key-385c5a52c0ffb81a3f723bff1aca63b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-385c5a52c0ffb81a3f723bff1aca63b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) determine whether or not each transfer condition set out in regulation 8 has been met.
 
 (2) Where the authority determines that each transfer condition set out in regulation 8—
@@ -222,17 +222,17 @@ For the purposes of regulations 9 to 11, the transfer conditions are that—
 - (a) has been met, it must serve a termination notice in accordance with regulation 13(1); or
 - (b) has not been met, it must notify the licence-holder of that determination and the reasons for it.
 
-(2A)[^key-aa3d9ebe6d692d0f35417a0f10e3a693] Where the OGA is the licensing authority in accordance with section 18(2), it must provide to the Secretary of State a copy of any notification given under paragraph (2)(b).
+(2A)[^c-aa3d9ebe6d692d0f35417a0f10e3a693] Where the OGA is the licensing authority in accordance with section 18(2), it must provide to the Secretary of State a copy of any notification given under paragraph (2)(b).
 
-(3)[^key-4750fc9d1bc88fd8ce3a75208e7844d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4750fc9d1bc88fd8ce3a75208e7844d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where—
 
 - (a) paragraph (2)(b) applies;
 - (b) the operator has provided the financial contribution notified to it under regulation 10(4); and
-- (c) the operator requests the return or release of that contribution from the appropriate Minister[^key-3ec2bb0097c19eff43f9c95f59405029],
+- (c) the operator requests the return or release of that contribution from the appropriate Minister[^c-3ec2bb0097c19eff43f9c95f59405029],
 
-the appropriate Minister[^key-7ef1d675785f101395e328f8e1290c59] must comply with that request within 90 days of receipt of the request.
+the appropriate Minister[^c-7ef1d675785f101395e328f8e1290c59] must comply with that request within 90 days of receipt of the request.
 
 ## Termination where a storage site has been closed after the revocation of a storage permit
 
@@ -251,39 +251,39 @@ the appropriate Minister[^key-7ef1d675785f101395e328f8e1290c59] must comply with
 
 (1) A termination notice must be served on the licence holder and must specify the time and date when the licence terminates.
 
-(1A)[^key-3ac29adbe99587d6837e00fd6b845869] Where the OGA is the licensing authority in accordance with section 18(2), it must provide to the Secretary of State a copy of any termination notification served under paragraph (1).
+(1A)[^c-3ac29adbe99587d6837e00fd6b845869] Where the OGA is the licensing authority in accordance with section 18(2), it must provide to the Secretary of State a copy of any termination notification served under paragraph (1).
 
-(2) Where the authority serves a termination notice, the appropriate Minister[^key-dbad2a067b0a2827acac57b4ff599c57] may by written notice to the licence holder require the licence holder to provide the appropriate Minister with all records, returns, plans, maps, samples, data and other information that the licence holder holds in respect of the storage site.
+(2) Where the authority serves a termination notice, the appropriate Minister[^c-dbad2a067b0a2827acac57b4ff599c57] may by written notice to the licence holder require the licence holder to provide the appropriate Minister with all records, returns, plans, maps, samples, data and other information that the licence holder holds in respect of the storage site.
 
-(3) The appropriate Minister[^key-e7efabc7c385b7d330da8e56561cd2a0] may use any information provided [^key-e38ce5c99a0d06f495dd2a163914f6eb]... under paragraph (2) for the purposes of carrying out the obligations transferred [^key-e38ce5c99a0d06f495dd2a163914f6eb]... under regulation 14 or discharging the liabilities transferred [^key-e38ce5c99a0d06f495dd2a163914f6eb]... under regulation 15, or such [^key-28a6ecace4b38aa7a2d48662dd2d43cc]... other functions as the appropriate Minister considers appropriate.
+(3) The appropriate Minister[^c-e7efabc7c385b7d330da8e56561cd2a0] may use any information provided [^c-e38ce5c99a0d06f495dd2a163914f6eb]... under paragraph (2) for the purposes of carrying out the obligations transferred [^c-e38ce5c99a0d06f495dd2a163914f6eb]... under regulation 14 or discharging the liabilities transferred [^c-e38ce5c99a0d06f495dd2a163914f6eb]... under regulation 15, or such [^c-28a6ecace4b38aa7a2d48662dd2d43cc]... other functions as the appropriate Minister considers appropriate.
 
 ### 14. Transfer of obligations
 
 (1) Except as provided in paragraph (2) and regulation 15, the termination of a licence does not affect any obligation imposed upon, or liability incurred by, the licence holder.
 
-(2) Immediately on the termination of a licence, there are transferred from the licence holder to the appropriate Minister[^key-b77ef901776358ba6476623150e44349] the licence holder's obligations in relation to—
+(2) Immediately on the termination of a licence, there are transferred from the licence holder to the appropriate Minister[^c-b77ef901776358ba6476623150e44349] the licence holder's obligations in relation to—
 
 - (a) monitoring, pursuant to Articles 13 and 18(6) and Annex II of the Directive;
 - (b) corrective measures;
-- (c)[^key-116ac0ef9597b684cf0ec0ba63eacf20] the offset of emissions which are leakage under climate change legislation (if any); and
-- (d) preventive and remedial action under legislation which before[^key-58905652edd22da8de802bb319f91171] IP completion day[^key-f2b6a846235fdacc9175dc7fa2a43a6d] implemented Articles 5(1) and 6(1) of Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage [^c20896831].
+- (c)[^c-116ac0ef9597b684cf0ec0ba63eacf20] the offset of emissions which are leakage under climate change legislation (if any); and
+- (d) preventive and remedial action under legislation which before[^c-58905652edd22da8de802bb319f91171] IP completion day[^c-f2b6a846235fdacc9175dc7fa2a43a6d] implemented Articles 5(1) and 6(1) of Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage [^c20896831].
 
-(3)[^key-5d0c1234692e7b32a4eb89b04c37e571] In this regulation—
+(3)[^c-5d0c1234692e7b32a4eb89b04c37e571] In this regulation—
 
 - (a) “**climate change legislation**” means—
-  - (i) the Greenhouse Gas Emissions Trading Scheme Regulations 2012;[^key-448a42a66cfcdb23a97337977ff8ea61]
+  - (i) the Greenhouse Gas Emissions Trading Scheme Regulations 2012;[^c-448a42a66cfcdb23a97337977ff8ea61]
   - (ii) the Greenhouse Gas Emissions Trading Scheme Order 2020; or
   - (iii) legislation which levies a tax in relation to greenhouse gas emissions attributable to a person;
 - (b) “**corrective measures**” has the meaning given to it by Article 3 of the Directive;
 - (c) “emissions” (except in sub-paragraphs (d) and (g)) has the meaning given to it by section 97 of the Climate Change Act 2008;
 - (d) “**ETS Directive**” means Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61);
 - (e) “greenhouse gas” (except in sub-paragraphs (d) and (g)) has the meaning given to it by section 92 of the Climate Change Act 2008;
-- (f) “legislation” [^key-33601524ece27744ef6137e41f96cf56]... means legislation in force in the United Kingdom (whether passed, or made, before or after the commencement of these Regulations);
+- (f) “legislation” [^c-33601524ece27744ef6137e41f96cf56]... means legislation in force in the United Kingdom (whether passed, or made, before or after the commencement of these Regulations);
 - (g) for the purposes of the references to Article 13 of the Directive and Annex II to the Directive in paragraph (2)(a), Article 13(2) shall be read as if for the words “guidelines established pursuant to Article 14 and Article 23(2) of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “Commission Regulation (EU) No 601/2012 of 21 June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) of the European Parliament and of the Council”.
 
 ### 15. Transfer of liabilities
 
-(1) Immediately on the termination of a licence, there are transferred from the licence holder to the appropriate Minister[^key-b1785defbef7936d9962811988e175a8] any leakage liabilities incurred by the licence holder prior to termination of the licence, subject to paragraph (2).
+(1) Immediately on the termination of a licence, there are transferred from the licence holder to the appropriate Minister[^c-b1785defbef7936d9962811988e175a8] any leakage liabilities incurred by the licence holder prior to termination of the licence, subject to paragraph (2).
 
 (2) There is no transfer to the appropriate Minister of any leakage liabilities that, on the termination of the licence, constitute a debt or a judgment debt for a liquidated sum where that debt—
 
@@ -298,7 +298,7 @@ the appropriate Minister[^key-7ef1d675785f101395e328f8e1290c59] must comply with
 
 ### 16. Recovery of costs
 
-(1) The appropriate Minister[^key-48582c5168e06b96694972fb32e48c5c] may recover from the operator any costs which the appropriate Minister incurs in consequence of the transfer of obligations or liabilities under regulation 14 or 15, to the extent that such costs arise due to fault on the part of the operator.
+(1) The appropriate Minister[^c-48582c5168e06b96694972fb32e48c5c] may recover from the operator any costs which the appropriate Minister incurs in consequence of the transfer of obligations or liabilities under regulation 14 or 15, to the extent that such costs arise due to fault on the part of the operator.
 
 (2) For the purposes of paragraph (1), fault includes negligence, deceit, or a failure to exercise due diligence.
 
@@ -306,7 +306,7 @@ the appropriate Minister[^key-7ef1d675785f101395e328f8e1290c59] must comply with
 
 ## Compliance
 
-### 17. Information[^key-6d9394ac935f2076dc6dd265b4a816cb]
+### 17. Information[^c-6d9394ac935f2076dc6dd265b4a816cb]
 
 The licence holder must—
 
@@ -417,13 +417,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c20896761]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-3752b80524589e01bfa6b1d34d9b04b9]: Modification: Regulations: power to amend conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 93(10)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/93/10/c), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-3752b80524589e01bfa6b1d34d9b04b9]: Modification: Regulations: power to amend conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 93(10)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/93/10/c), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
 [^c20896771]: Marginal citation: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-549785ce65d21a3a29a3cc8b3ecd2887]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2011/1483/regulation/3) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/2/a)
+[^c-549785ce65d21a3a29a3cc8b3ecd2887]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2011/1483/regulation/3) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/2/a)
 
-[^key-5240f928656611928bc07035c5c49301]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2011/1483/regulation/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/2/b)
+[^c-5240f928656611928bc07035c5c49301]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2011/1483/regulation/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/2/b)
 
 [^c20896781]: Marginal citation: OJ No L 140, 5.6.2009, p 114.
 
@@ -431,58 +431,58 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c20896801]: Marginal citation: [S.S.I. 2011/24](https://www.legislation.gov.uk/ssi/2011/24).
 
-[^key-178e9bcf8a02fbc00e57c8f7a93745c9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1483/regulation/6) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-178e9bcf8a02fbc00e57c8f7a93745c9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1483/regulation/6) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20896811]: Marginal citation: [Section 30](https://www.legislation.gov.uk/uksi/2011/1483/section/30) of the [Energy Act 2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32) applies Part 4 of the Petroleum Act 1998 to carbon storage installations (as defined by section 30(5)).
 
-[^key-deb23aadb2f773e85be49e80ce7c9a68]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/9/4) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-deb23aadb2f773e85be49e80ce7c9a68]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/9/4) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66d1a1f9b093d6abc5b66fbed18651e3]: Textual amendment: Words in reg. 10(4)(b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/3/a)
+[^c-66d1a1f9b093d6abc5b66fbed18651e3]: Textual amendment: Words in reg. 10(4)(b) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/3/a)
 
-[^key-b8cd521ca2924b04efc3220ad34d95d8]: Textual amendment: Reg. 10(4A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/3/b)
+[^c-b8cd521ca2924b04efc3220ad34d95d8]: Textual amendment: Reg. 10(4A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/3/b)
 
-[^key-d785747c3f9a4b9067e1ab0188b27c34]: Textual amendment: Words in reg. 10(5) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(3)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/3/c)
+[^c-d785747c3f9a4b9067e1ab0188b27c34]: Textual amendment: Words in reg. 10(5) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(3)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/3/c)
 
-[^key-385c5a52c0ffb81a3f723bff1aca63b3]: Textual amendment: [Reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/11/1/a) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-385c5a52c0ffb81a3f723bff1aca63b3]: Textual amendment: [Reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/11/1/a) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa3d9ebe6d692d0f35417a0f10e3a693]: Textual amendment: Reg. 11(2A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/4/a)
+[^c-aa3d9ebe6d692d0f35417a0f10e3a693]: Textual amendment: Reg. 11(2A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/4/a)
 
-[^key-4750fc9d1bc88fd8ce3a75208e7844d2]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/11/3) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4750fc9d1bc88fd8ce3a75208e7844d2]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/11/3) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ec2bb0097c19eff43f9c95f59405029]: Textual amendment: Words in reg. 11(4)(c) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(4)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/4/b)
+[^c-3ec2bb0097c19eff43f9c95f59405029]: Textual amendment: Words in reg. 11(4)(c) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(4)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/4/b)
 
-[^key-7ef1d675785f101395e328f8e1290c59]: Textual amendment: Words in reg. 11(4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(4)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/4/c)
+[^c-7ef1d675785f101395e328f8e1290c59]: Textual amendment: Words in reg. 11(4) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(4)(c)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/4/c)
 
-[^key-3ac29adbe99587d6837e00fd6b845869]: Textual amendment: Reg. 13(1A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/a)
+[^c-3ac29adbe99587d6837e00fd6b845869]: Textual amendment: Reg. 13(1A) inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/a)
 
-[^key-dbad2a067b0a2827acac57b4ff599c57]: Textual amendment: Words in reg. 13(2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/b)
+[^c-dbad2a067b0a2827acac57b4ff599c57]: Textual amendment: Words in reg. 13(2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/b)
 
-[^key-e7efabc7c385b7d330da8e56561cd2a0]: Textual amendment: Words in reg. 13(3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(c)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/c/i)
+[^c-e7efabc7c385b7d330da8e56561cd2a0]: Textual amendment: Words in reg. 13(3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(c)(i)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/c/i)
 
-[^key-e38ce5c99a0d06f495dd2a163914f6eb]: Textual amendment: Words in reg. 13(3) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/c/ii)
+[^c-e38ce5c99a0d06f495dd2a163914f6eb]: Textual amendment: Words in reg. 13(3) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/c/ii)
 
-[^key-28a6ecace4b38aa7a2d48662dd2d43cc]: Textual amendment: Words in reg. 13(3) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/c/iii)
+[^c-28a6ecace4b38aa7a2d48662dd2d43cc]: Textual amendment: Words in reg. 13(3) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/5/c/iii)
 
-[^key-b77ef901776358ba6476623150e44349]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/6)
+[^c-b77ef901776358ba6476623150e44349]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(6)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/6)
 
-[^key-116ac0ef9597b684cf0ec0ba63eacf20]: Textual amendment: [Reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2/c) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-116ac0ef9597b684cf0ec0ba63eacf20]: Textual amendment: [Reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2/c) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(5)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58905652edd22da8de802bb319f91171]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2/d) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58905652edd22da8de802bb319f91171]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2/d) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(5)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2b6a846235fdacc9175dc7fa2a43a6d]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2/d) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [9](https://www.legislation.gov.uk/uksi/2022/1190/regulation/9)
+[^c-f2b6a846235fdacc9175dc7fa2a43a6d]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/2/d) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [9](https://www.legislation.gov.uk/uksi/2022/1190/regulation/9)
 
 [^c20896831]: Marginal citation: OJ No L 143, 30.4.2004, p 56; amended by European Parliament and Council Directives 2006/21/EC (OJ No L 102, 11.4.2006, p 15) and 2009/31/EC.
 
-[^key-5d0c1234692e7b32a4eb89b04c37e571]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(5)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d0c1234692e7b32a4eb89b04c37e571]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [3(5)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/3/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-448a42a66cfcdb23a97337977ff8ea61]: Textual amendment: [Reg. 14(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3/a/ii) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [10](https://www.legislation.gov.uk/uksi/2022/1190/regulation/10)
+[^c-448a42a66cfcdb23a97337977ff8ea61]: Textual amendment: [Reg. 14(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3/a/i)[(ii)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3/a/ii) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [10](https://www.legislation.gov.uk/uksi/2022/1190/regulation/10)
 
-[^key-33601524ece27744ef6137e41f96cf56]: Textual amendment: Words in [reg. 14(3)(f)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3/f) omitted (12.12.2022) by virtue of [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [11](https://www.legislation.gov.uk/uksi/2022/1190/regulation/11)
+[^c-33601524ece27744ef6137e41f96cf56]: Textual amendment: Words in [reg. 14(3)(f)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/14/3/f) omitted (12.12.2022) by virtue of [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [11](https://www.legislation.gov.uk/uksi/2022/1190/regulation/11)
 
-[^key-b1785defbef7936d9962811988e175a8]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2011/1483/regulation/15) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/7)
+[^c-b1785defbef7936d9962811988e175a8]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2011/1483/regulation/15) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(7)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/7)
 
 [^c20896841]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-48582c5168e06b96694972fb32e48c5c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/16/1)[(3)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/16/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(8)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/8)
+[^c-48582c5168e06b96694972fb32e48c5c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/16/1)[(3)](https://www.legislation.gov.uk/uksi/2011/1483/regulation/16/3) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(8)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/8)
 
-[^key-6d9394ac935f2076dc6dd265b4a816cb]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/1483/regulation/17) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(9)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/9)
+[^c-6d9394ac935f2076dc6dd265b4a816cb]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/1483/regulation/17) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [19(9)](https://www.legislation.gov.uk/uksi/2016/912/regulation/19/9)

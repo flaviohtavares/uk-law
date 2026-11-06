@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Payments for persons incapable of managing their affairs[^key-c1dd0bcc4927ff1d0c49dc4d7f3655fb]
+## 168. Payments for persons incapable of managing their affairs[^c-c1dd0bcc4927ff1d0c49dc4d7f3655fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If it appears to the scheme manager that a person other than an eligible child i
 
 ## Annotations
 
-[^key-c1dd0bcc4927ff1d0c49dc4d7f3655fb]: Commencement: [Reg. 168](https://www.legislation.gov.uk/uksi/2014/2848/regulation/168) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c1dd0bcc4927ff1d0c49dc4d7f3655fb]: Commencement: [Reg. 168](https://www.legislation.gov.uk/uksi/2014/2848/regulation/168) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

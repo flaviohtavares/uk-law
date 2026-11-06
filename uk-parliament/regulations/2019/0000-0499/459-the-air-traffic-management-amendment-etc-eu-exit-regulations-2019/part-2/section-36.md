@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Article 15a of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^key-0f47d094c94c6792afbdc548a28c6f8e]
+## 36. Article 15a of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^c-0f47d094c94c6792afbdc548a28c6f8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ For Article 15a (common projects) substitute—
 
 ## Annotations
 
-[^key-0f47d094c94c6792afbdc548a28c6f8e]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0f47d094c94c6792afbdc548a28c6f8e]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460641]: Marginal citation: OJ L 96, 31.3.2004, p. 10.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360L. Grants affecting entitlement to allowances[^key-cbf4e66b98601de3bdb7396a7e5e260b][^key-e55c9e0cbb84c78796990128c4d86b99]
+## 360L. Grants affecting entitlement to allowances[^c-cbf4e66b98601de3bdb7396a7e5e260b][^c-e55c9e0cbb84c78796990128c4d86b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) In this section—
 
-- “**General Block Exemption Regulation**” means Commission Regulation (EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^key-37b2e29470f37cada19d99d7d8ed7502];
+- “**General Block Exemption Regulation**” means Commission Regulation (EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^c-37b2e29470f37cada19d99d7d8ed7502];
 - “**relevant grant or relevant payment**” means a grant or payment which is—
   - (a) a State aid, other than an allowance under this Part, or
   - (b) a grant or subsidy, other than a State aid, which the Treasury by order declares to be relevant for the purposes of the withholding of allowances under this Part;
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cbf4e66b98601de3bdb7396a7e5e260b]: Textual amendment: S. 360L substituted (with effect in accordance with s. 66(10)-(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 66(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/66/8)
+[^c-cbf4e66b98601de3bdb7396a7e5e260b]: Textual amendment: S. 360L substituted (with effect in accordance with s. 66(10)-(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 66(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/66/8)
 
-[^key-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-37b2e29470f37cada19d99d7d8ed7502]: Textual amendment: Words in s. 360L(6) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/3/6)
+[^c-37b2e29470f37cada19d99d7d8ed7502]: Textual amendment: Words in s. 360L(6) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/3/6)

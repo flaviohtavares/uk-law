@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Closure of active member’s account[^key-6ba1fd2ac9d14840b46c729cc58fba40]
+## 45. Closure of active member’s account[^c-6ba1fd2ac9d14840b46c729cc58fba40]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ba1fd2ac9d14840b46c729cc58fba40]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2014/1964/regulation/45) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-6ba1fd2ac9d14840b46c729cc58fba40]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2014/1964/regulation/45) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

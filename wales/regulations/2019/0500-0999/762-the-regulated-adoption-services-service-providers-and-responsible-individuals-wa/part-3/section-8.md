@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Requirements in relation to the responsible individual where the service provider is an individual[^key-3bbee9e9800b2a3ef77a1df986dbf7f7]
+## 8. Requirements in relation to the responsible individual where the service provider is an individual[^c-3bbee9e9800b2a3ef77a1df986dbf7f7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bbee9e9800b2a3ef77a1df986dbf7f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/762/regulation/8) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-3bbee9e9800b2a3ef77a1df986dbf7f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/762/regulation/8) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

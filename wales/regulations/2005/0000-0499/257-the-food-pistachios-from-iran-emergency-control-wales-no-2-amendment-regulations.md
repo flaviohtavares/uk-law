@@ -41,11 +41,11 @@ Coming into force
 
 The National Assembly for Wales being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to food (including drink) including the primary production of food, in exercise of the powers conferred by that section, makes the following Regulations:
 
-## 1. Title and commencement[^key-542c6c577c79c109987a1ad7eee3be70]
+## 1. Title and commencement[^c-542c6c577c79c109987a1ad7eee3be70]
 
 These Regulations may be cited as the Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) (Amendment) Regulations 2005 and come into force on 10 February 2005.
 
-## 2. Amendments to the Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) Regulations 2003[^key-9f8bd5c794601a01107bbbb4e74e565f]
+## 2. Amendments to the Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) Regulations 2003[^c-9f8bd5c794601a01107bbbb4e74e565f]
 
 (1) The Food (Pistachios from Iran) (Emergency Control) (Wales) (No.2) Regulations 2003[^f00003] are amended in accordance with paragraphs (2) to (5).
 
@@ -144,9 +144,9 @@ The Presiding Officer of the National Assembly
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-542c6c577c79c109987a1ad7eee3be70]: Commencement: Reg. 1 in force at 10.2.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1)
+[^c-542c6c577c79c109987a1ad7eee3be70]: Commencement: Reg. 1 in force at 10.2.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1)
 
-[^key-9f8bd5c794601a01107bbbb4e74e565f]: Commencement: Reg. 2 in force at 10.2.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1)
+[^c-9f8bd5c794601a01107bbbb4e74e565f]: Commencement: Reg. 2 in force at 10.2.2005, see [reg. 1](https://www.legislation.gov.uk/wsi/2005/257/regulation/1)
 
 [^f00003]: Footnote: S.I. [2003/2288 (W.227)](https://www.legislation.gov.uk/wsi/2003/2288), amended by S.I. [2004/245 (W.24)](https://www.legislation.gov.uk/wsi/2004/245) and S.I. [2004/1804 (W.192)](https://www.legislation.gov.uk/wsi/2004/1804).
 

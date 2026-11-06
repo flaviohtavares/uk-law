@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Payment of lump sum death benefit to nominees or personal representatives[^key-0cb8a007e9736e7cb720f45e897371df]
+## 124. Payment of lump sum death benefit to nominees or personal representatives[^c-0cb8a007e9736e7cb720f45e897371df]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cb8a007e9736e7cb720f45e897371df]: Commencement: [Reg. 124](https://www.legislation.gov.uk/nisr/2014/290/regulation/124) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-0cb8a007e9736e7cb720f45e897371df]: Commencement: [Reg. 124](https://www.legislation.gov.uk/nisr/2014/290/regulation/124) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. FCA to exercise functions under Part 6 of FSMA 2000[^key-da84deaf8ea4695a648af72babc1f05e][^key-9fc2bfb1ba51b22acb18eda1422553df]
+## 16. FCA to exercise functions under Part 6 of FSMA 2000[^c-da84deaf8ea4695a648af72babc1f05e][^c-9fc2bfb1ba51b22acb18eda1422553df]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) Those provisions are—
 
 - (a) sections 73A to 84;
-- (b)[^key-9deeab33fd761cc7d4c2d026508b6224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9deeab33fd761cc7d4c2d026508b6224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) sections 87B to 87D;
 - (d) section 87G;
 - (e) sections 87J to 87O (including the italic heading before section 87J);
@@ -46,16 +46,16 @@ summary: ''
 (6) In section 87A (criteria for approval of prospectus)—
 
 - (a) in subsection (1), for “competent authority” substitute “ “FCA”,
-- (b)[^key-163349669bef62881ea90c8aa377486c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-163349669bef62881ea90c8aa377486c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the heading, for “competent authority” substitute “ FCA ”.
 
-(7)[^key-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-faef0eab17d1bf9b738a7121caa44c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 87P (exercise of powers at request of competent authority of another EEA State)—
 
@@ -88,12 +88,12 @@ summary: ''
 
 ## Annotations
 
-[^key-da84deaf8ea4695a648af72babc1f05e]: Commencement: S. 16 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-da84deaf8ea4695a648af72babc1f05e]: Commencement: S. 16 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-9fc2bfb1ba51b22acb18eda1422553df]: Commencement: S. 16 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9fc2bfb1ba51b22acb18eda1422553df]: Commencement: S. 16 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-9deeab33fd761cc7d4c2d026508b6224]: Textual amendment: [S. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/b) omitted (21.7.2019) by virtue of [The Financial Services and Markets Act 2000 (Prospectus) Regulations 2019 (S.I. 2019/1043)](https://www.legislation.gov.uk/uksi/2019/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1043/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/1043/regulation/36)
+[^c-9deeab33fd761cc7d4c2d026508b6224]: Textual amendment: [S. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/b) omitted (21.7.2019) by virtue of [The Financial Services and Markets Act 2000 (Prospectus) Regulations 2019 (S.I. 2019/1043)](https://www.legislation.gov.uk/uksi/2019/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1043/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/1043/regulation/36)
 
-[^key-163349669bef62881ea90c8aa377486c]: Textual amendment: [S. 16(6)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/6/b) omitted (21.7.2019) by virtue of [The Financial Services and Markets Act 2000 (Prospectus) Regulations 2019 (S.I. 2019/1043)](https://www.legislation.gov.uk/uksi/2019/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1043/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/1043/regulation/36)
+[^c-163349669bef62881ea90c8aa377486c]: Textual amendment: [S. 16(6)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/6/b) omitted (21.7.2019) by virtue of [The Financial Services and Markets Act 2000 (Prospectus) Regulations 2019 (S.I. 2019/1043)](https://www.legislation.gov.uk/uksi/2019/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1043/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/1043/regulation/36)
 
-[^key-faef0eab17d1bf9b738a7121caa44c33]: Textual amendment: [S. 16(7)-(10)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/7) omitted (21.7.2019) by virtue of [The Financial Services and Markets Act 2000 (Prospectus) Regulations 2019 (S.I. 2019/1043)](https://www.legislation.gov.uk/uksi/2019/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1043/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/1043/regulation/36)
+[^c-faef0eab17d1bf9b738a7121caa44c33]: Textual amendment: [S. 16(7)-(10)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/7) omitted (21.7.2019) by virtue of [The Financial Services and Markets Act 2000 (Prospectus) Regulations 2019 (S.I. 2019/1043)](https://www.legislation.gov.uk/uksi/2019/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1043/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/1043/regulation/36)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78B. Powers of entry under section 78A: requirement for consent[^key-8d21d2760d6d3192ffde6449852f8d78][^key-135d96904659ea617bdcb713eb482bb1]
+## 78B. Powers of entry under section 78A: requirement for consent[^c-8d21d2760d6d3192ffde6449852f8d78][^c-135d96904659ea617bdcb713eb482bb1]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ the authorised person may not enter the premises without the consent of an adult
 
 ## Annotations
 
-[^key-8d21d2760d6d3192ffde6449852f8d78]: Textual amendment: [Ss. 78A](https://www.legislation.gov.uk/ukpga/2006/21/section/78A), [78B](https://www.legislation.gov.uk/ukpga/2006/21/section/78B) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/49); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-8d21d2760d6d3192ffde6449852f8d78]: Textual amendment: [Ss. 78A](https://www.legislation.gov.uk/ukpga/2006/21/section/78A), [78B](https://www.legislation.gov.uk/ukpga/2006/21/section/78B) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/49); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
 
-[^key-135d96904659ea617bdcb713eb482bb1]: Textual amendment: Ss. 78A, 78B inserted (1.4.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/49); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m)
+[^c-135d96904659ea617bdcb713eb482bb1]: Textual amendment: Ss. 78A, 78B inserted (1.4.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/49); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m)

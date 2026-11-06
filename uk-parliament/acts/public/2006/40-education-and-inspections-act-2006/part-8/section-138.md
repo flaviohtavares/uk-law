@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Annual reviews of local authorities in England[^key-b94c7d1145b37f51d9c1d70dccafc263]
+## 138. Annual reviews of local authorities in England[^c-b94c7d1145b37f51d9c1d70dccafc263]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b94c7d1145b37f51d9c1d70dccafc263]: Textual amendment: S. 138 repealed (18.7.2012) by [The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879)](https://www.legislation.gov.uk/uksi/2012/1879), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1879/article/1), [3](https://www.legislation.gov.uk/uksi/2012/1879/article/3)
+[^c-b94c7d1145b37f51d9c1d70dccafc263]: Textual amendment: S. 138 repealed (18.7.2012) by [The Legislative Reform (Annual Review of Local Authorities) Order 2012 (S.I. 2012/1879)](https://www.legislation.gov.uk/uksi/2012/1879), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1879/article/1), [3](https://www.legislation.gov.uk/uksi/2012/1879/article/3)

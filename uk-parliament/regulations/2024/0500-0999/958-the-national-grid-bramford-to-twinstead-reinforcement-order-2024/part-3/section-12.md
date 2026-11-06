@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Application of the permit schemes[^key-0fdae2cc75dbed10f8dd0266c4999130][^key-c1e7260ceaceeec045e66b37f547cff5]
+## 12. Application of the permit schemes[^c-0fdae2cc75dbed10f8dd0266c4999130][^c-c1e7260ceaceeec045e66b37f547cff5]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (5) Any alternative permit conditions provided by a relevant highway authority in accordance with paragraph (3) must comply with paragraph (1)(b).
 
-(6) References to moratoria in paragraph (1) mean restrictions imposed under section 58 (restriction[^key-bf11e13af537931b06a6d3ea9c4b6861] on works following substantial road works) or section 58A (restriction on works following substantial street works) of the 1991 Act.
+(6) References to moratoria in paragraph (1) mean restrictions imposed under section 58 (restriction[^c-bf11e13af537931b06a6d3ea9c4b6861] on works following substantial road works) or section 58A (restriction on works following substantial street works) of the 1991 Act.
 
 (7) Reference to immediate works in paragraph (1)(d) means emergency works as that term is defined in section 52 of the 1991 Act and urgent works as that term is defined in regulation 3(1) of the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007[^f00022].
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0fdae2cc75dbed10f8dd0266c4999130]: Commencement: Art. 12 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-0fdae2cc75dbed10f8dd0266c4999130]: Commencement: Art. 12 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-c1e7260ceaceeec045e66b37f547cff5]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2024/958/article/12) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-c1e7260ceaceeec045e66b37f547cff5]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2024/958/article/12) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-bf11e13af537931b06a6d3ea9c4b6861]: Textual amendment: Word in [art. 12(6)](https://www.legislation.gov.uk/uksi/2024/958/article/12/6) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-bf11e13af537931b06a6d3ea9c4b6861]: Textual amendment: Word in [art. 12(6)](https://www.legislation.gov.uk/uksi/2024/958/article/12/6) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
 [^f00022]: Footnote: [S.I. 2007/1951](https://www.legislation.gov.uk/uksi/2007/1951).

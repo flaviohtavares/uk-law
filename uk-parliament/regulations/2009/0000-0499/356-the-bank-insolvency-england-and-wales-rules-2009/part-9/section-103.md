@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Recourse to the court[^key-edca23751e4c21206fa671064f27170a]
+## 103. Recourse to the court[^c-edca23751e4c21206fa671064f27170a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.130 of the 1986 Rules[^f00043].
 
 ## Annotations
 
-[^key-edca23751e4c21206fa671064f27170a]: Commencement: Rule 103 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-edca23751e4c21206fa671064f27170a]: Commencement: Rule 103 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00043]: Footnote: Paragraph (4) was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919) and [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

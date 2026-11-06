@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Mid-year delivery report requirements[^key-1228db47c3c0739ce5565a0a60bc51e5]
+## 21. Mid-year delivery report requirements[^c-1228db47c3c0739ce5565a0a60bc51e5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1228db47c3c0739ce5565a0a60bc51e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2026/37/regulation/21) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-1228db47c3c0739ce5565a0a60bc51e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2026/37/regulation/21) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

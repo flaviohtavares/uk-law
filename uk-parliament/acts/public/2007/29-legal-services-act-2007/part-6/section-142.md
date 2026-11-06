@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 142. Reporting court orders made against authorised persons[^key-29410ee837863b322086318ba1a12bc2]
+## 142. Reporting court orders made against authorised persons[^c-29410ee837863b322086318ba1a12bc2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the ombudsman may make a report to that effect to the Board.
 
 ## Annotations
 
-[^key-29410ee837863b322086318ba1a12bc2]: Commencement: S. 142 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-29410ee837863b322086318ba1a12bc2]: Commencement: S. 142 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

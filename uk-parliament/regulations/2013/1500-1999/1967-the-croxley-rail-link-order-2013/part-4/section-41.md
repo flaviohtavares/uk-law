@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Statutory undertakers etc.[^key-54958c966e34062db31b8a5722f7e3d8]
+## 41. Statutory undertakers etc.[^c-54958c966e34062db31b8a5722f7e3d8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 8 (provisions relating to statutory undertakers etc.)
 
 ## Annotations
 
-[^key-54958c966e34062db31b8a5722f7e3d8]: Commencement: Art. 41 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-54958c966e34062db31b8a5722f7e3d8]: Commencement: Art. 41 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

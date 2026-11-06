@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Price adjustments for qualifying sub-contracts[^key-f3fb937cd83746b27087caf6a9f30618]
+## 66. Price adjustments for qualifying sub-contracts[^c-f3fb937cd83746b27087caf6a9f30618]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where the amount of an adjustment to the contract price of a qualifying sub-cont
 
 ## Annotations
 
-[^key-f3fb937cd83746b27087caf6a9f30618]: Textual amendment: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/3337/regulation/66) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/1106/regulation/22)
+[^c-f3fb937cd83746b27087caf6a9f30618]: Textual amendment: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/3337/regulation/66) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/1106/regulation/22)

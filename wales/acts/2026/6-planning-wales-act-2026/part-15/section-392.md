@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 392. Determination of compensation claims by Upper Tribunal[^key-dfca301b32d729f8352ac68de55c378f]
+## 392. Determination of compensation claims by Upper Tribunal[^c-dfca301b32d729f8352ac68de55c378f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfca301b32d729f8352ac68de55c378f]: Commencement: S. 392 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-dfca301b32d729f8352ac68de55c378f]: Commencement: S. 392 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

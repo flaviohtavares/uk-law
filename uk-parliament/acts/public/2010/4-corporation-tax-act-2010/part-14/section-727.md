@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If the operation of any provision in Chapters 2 to 6 depends on circumstances or events at a time or times after (but not more than 5[^key-8f17945b6d74b6181fbfd89beb2d2cfc] years after) a change in the ownership of a company, an assessment to give effect to that provision is not out of time if made within 6 years from that time, or the latest of those times.
+If the operation of any provision in Chapters 2 to 6 depends on circumstances or events at a time or times after (but not more than 5[^c-8f17945b6d74b6181fbfd89beb2d2cfc] years after) a change in the ownership of a company, an assessment to give effect to that provision is not out of time if made within 6 years from that time, or the latest of those times.
 
 ## Annotations
 
-[^key-8f17945b6d74b6181fbfd89beb2d2cfc]: Textual amendment: Word in [s. 727](https://www.legislation.gov.uk/ukpga/2010/4/section/727) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 91](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/91)
+[^c-8f17945b6d74b6181fbfd89beb2d2cfc]: Textual amendment: Word in [s. 727](https://www.legislation.gov.uk/ukpga/2010/4/section/727) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 91](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/91)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Application of landlord and tenant law[^key-e8f55f1bdbfbee8313c10a34d24ea93f]
+## 30. Application of landlord and tenant law[^c-e8f55f1bdbfbee8313c10a34d24ea93f]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f55f1bdbfbee8313c10a34d24ea93f]: Commencement: Art. 30 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-e8f55f1bdbfbee8313c10a34d24ea93f]: Commencement: Art. 30 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

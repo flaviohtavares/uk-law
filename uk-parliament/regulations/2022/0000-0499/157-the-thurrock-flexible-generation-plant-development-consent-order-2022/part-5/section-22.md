@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Compulsory acquisition of rights[^key-63b94d15807a448790d55d413d95a0af]
+## 22. Compulsory acquisition of rights[^c-63b94d15807a448790d55d413d95a0af]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ where the undertaker serves notice to treat under section 5 of the 1965 Act or m
 
 ## Annotations
 
-[^key-63b94d15807a448790d55d413d95a0af]: Commencement: Art. 22 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-63b94d15807a448790d55d413d95a0af]: Commencement: Art. 22 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

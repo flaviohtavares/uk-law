@@ -22,14 +22,14 @@ summary: ''
 
 (1) The owner of a storage facility to which this section applies (a “relevant facility”)—
 
-- (a) shall publish at least once in every year the main commercial conditions relating to the grant to another person of a right to have gas or liquid gas[^key-f187bf74aef0036ace7885feba5c34f0] stored in the facility on that person’s behalf; and
+- (a) shall publish at least once in every year the main commercial conditions relating to the grant to another person of a right to have gas or liquid gas[^c-f187bf74aef0036ace7885feba5c34f0] stored in the facility on that person’s behalf; and
 - (b) shall publish any changes to the published conditions as soon as they become effective.
 
 (2) In subsection (1) “year” means any year ending with 9th August.
 
 (3) The owner of a relevant facility shall ensure that the conditions which he is required to publish under subsection (1) do not discriminate against any applicants or descriptions of applicants, or any potential applicants or descriptions of potential applicants, for a right to have gas or liquid gas stored in the facility.
 
-(3A)[^key-9caf8a4ed555c3a52b7b4c30f20989a4] At least 2 months before publishing the main commercial conditions, or any changes to the published conditions, under subsection (1), the owner of a relevant facility must—
+(3A)[^c-9caf8a4ed555c3a52b7b4c30f20989a4] At least 2 months before publishing the main commercial conditions, or any changes to the published conditions, under subsection (1), the owner of a relevant facility must—
 
 - (a) publish a draft of the proposed conditions or changes; and
 - (b) inform any person who has a right to have gas stored in the facility that the draft has been published.
@@ -79,6 +79,6 @@ the Director may give such directions to the owner of the facility.
 
 [^c14415231]: Textual amendment: Ss. 19A-19E inserted (10.8.2000) by [S.I. 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/1937/regulation/2/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2000/1937/schedule/2/paragraph/1)
 
-[^key-f187bf74aef0036ace7885feba5c34f0]: Textual amendment: Words in s. 19B inserted (26.8.2004) by [The Gas (Third Party Access) Regulations 2004 (S.I. 2004/2043)](https://www.legislation.gov.uk/uksi/2004/2043), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2043/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2004/2043/schedule/2/paragraph/2)
+[^c-f187bf74aef0036ace7885feba5c34f0]: Textual amendment: Words in s. 19B inserted (26.8.2004) by [The Gas (Third Party Access) Regulations 2004 (S.I. 2004/2043)](https://www.legislation.gov.uk/uksi/2004/2043), [reg. 1](https://www.legislation.gov.uk/uksi/2004/2043/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2004/2043/schedule/2/paragraph/2)
 
-[^key-9caf8a4ed555c3a52b7b4c30f20989a4]: Textual amendment: S. 19B(3A)(3B) inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2011/2704/regulation/10)
+[^c-9caf8a4ed555c3a52b7b4c30f20989a4]: Textual amendment: S. 19B(3A)(3B) inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2011/2704/regulation/10)

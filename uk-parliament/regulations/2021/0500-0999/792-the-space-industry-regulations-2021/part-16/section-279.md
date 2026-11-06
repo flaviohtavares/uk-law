@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279. Providing false information[^key-1878dbce6097cf95d52ba448bb655fb1]
+## 279. Providing false information[^c-1878dbce6097cf95d52ba448bb655fb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any person who, in purported compliance with regulation 271, makes a statement t
 
 ## Annotations
 
-[^key-1878dbce6097cf95d52ba448bb655fb1]: Commencement: Reg. 279 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-1878dbce6097cf95d52ba448bb655fb1]: Commencement: Reg. 279 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to modify statutory provisions[^key-31e7b1b79782754bb4987a6fa9ea7ca8]
+## 23. Power to modify statutory provisions[^c-31e7b1b79782754bb4987a6fa9ea7ca8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) The power conferred by subsection (1) is exercisable by the Scottish Ministers (rather than the Secretary of State) where the provision to be made is within the legislative competence of the Scottish Parliament.
 
-(3)[^key-1e163bcd9a59402a6108a32cabc37f0f] The appropriate Northern Ireland department may by order make provision for modifying the operation of any enactment or subordinate legislation which deals with a transferred matter in relation to—
+(3)[^c-1e163bcd9a59402a6108a32cabc37f0f] The appropriate Northern Ireland department may by order make provision for modifying the operation of any enactment or subordinate legislation which deals with a transferred matter in relation to—
 
 - (a) persons whose gender has become the acquired gender under this Act, or
 - (b) any description of such persons.
 
-(4)[^key-1e163bcd9a59402a6108a32cabc37f0f] In subsection (3)—
+(4)[^c-1e163bcd9a59402a6108a32cabc37f0f] In subsection (3)—
 
 - “**the appropriate Northern Ireland department**”, in relation to any enactment or subordinate legislation which deals with a transferred matter, means the Northern Ireland department which has responsibility for that matter,
 - “**deals with**” is to be construed in accordance with section 98(2) and (3) of the Northern Ireland Act 1998 (c. 47), and
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31e7b1b79782754bb4987a6fa9ea7ca8]: Modification: S. 23 modified (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4)[(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/47)
+[^c-31e7b1b79782754bb4987a6fa9ea7ca8]: Modification: S. 23 modified (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4)[(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/47)
 
-[^key-1e163bcd9a59402a6108a32cabc37f0f]: Modification: S. 23(3)(4) modified (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 42](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/42)
+[^c-1e163bcd9a59402a6108a32cabc37f0f]: Modification: S. 23(3)(4) modified (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 42](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/42)

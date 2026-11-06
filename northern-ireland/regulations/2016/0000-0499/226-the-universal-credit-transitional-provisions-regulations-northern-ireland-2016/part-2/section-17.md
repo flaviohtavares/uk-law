@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Advance payments of universal credit[^key-556092614b7e2c3f252f6f4973c34d26]
+## 17. Advance payments of universal credit[^c-556092614b7e2c3f252f6f4973c34d26]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ at any time during the first assessment period for universal credit.
 
 ## Annotations
 
-[^key-556092614b7e2c3f252f6f4973c34d26]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/226/regulation/17) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-556092614b7e2c3f252f6f4973c34d26]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/226/regulation/17) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

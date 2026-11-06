@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 859P. Companies to keep copies of instruments creating and amending charges[^c22574221][^key-a997b4c38a0d241a4a9809bf75830b75][^c22573541]
+## 859P. Companies to keep copies of instruments creating and amending charges[^c22574221][^c-a997b4c38a0d241a4a9809bf75830b75][^c22573541]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c22574221]: Modification: Ss. 859A-859Q applied (with modifications) (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2013/618/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/618/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/618/regulation/8))
 
-[^key-a997b4c38a0d241a4a9809bf75830b75]: Modification: [S. 859P](https://www.legislation.gov.uk/ukpga/2006/46/section/859P) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-a997b4c38a0d241a4a9809bf75830b75]: Modification: [S. 859P](https://www.legislation.gov.uk/ukpga/2006/46/section/859P) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
 [^c22573541]: Textual amendment: Pt. 25 Ch. A1 inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [regs. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/600/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/600/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30.[^key-94ac518f296cab5cca6d5adf72d43f4e]
+## 30.[^c-94ac518f296cab5cca6d5adf72d43f4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 18 (enforcement of UK judgments in other parts of the UK), in subsect
 
 ## Annotations
 
-[^key-94ac518f296cab5cca6d5adf72d43f4e]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-94ac518f296cab5cca6d5adf72d43f4e]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

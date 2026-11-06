@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Power to invest[^key-7131ffb98fa78fd4ab1868f541304b39]
+## 44. Power to invest[^c-7131ffb98fa78fd4ab1868f541304b39]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Commissioners may invest in any manner in which they are for the time being 
 
 ## Annotations
 
-[^key-7131ffb98fa78fd4ab1868f541304b39]: Commencement: Art. 44 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-7131ffb98fa78fd4ab1868f541304b39]: Commencement: Art. 44 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

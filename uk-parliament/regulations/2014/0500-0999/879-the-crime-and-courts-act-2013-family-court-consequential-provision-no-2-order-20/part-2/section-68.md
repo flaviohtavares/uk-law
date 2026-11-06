@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**68.**[^key-84bcbd1ae99b9eee51092ce7ebee88f8] In section 9—
+**68.**[^c-84bcbd1ae99b9eee51092ce7ebee88f8] In section 9—
 
 - (a) in subsection (1)(b), for “a magistrates’ court” substitute “the family court in England and Wales or a magistrates’ court in Northern Ireland”; and
 - (b) omit subsection (1ZA).
 
 ## Annotations
 
-[^key-84bcbd1ae99b9eee51092ce7ebee88f8]: Commencement: Art. 68 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-84bcbd1ae99b9eee51092ce7ebee88f8]: Commencement: Art. 68 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

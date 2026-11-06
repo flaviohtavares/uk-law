@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Provision of immediately necessary treatment[^key-92728d2587add95026e35cd8ccc2dbba]
+## 45. Provision of immediately necessary treatment[^c-92728d2587add95026e35cd8ccc2dbba]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where, on the date on which the default contract ceases to have effect, a defaul
 
 ## Annotations
 
-[^key-92728d2587add95026e35cd8ccc2dbba]: Commencement: Art. 45 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-92728d2587add95026e35cd8ccc2dbba]: Commencement: Art. 45 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

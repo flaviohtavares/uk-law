@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Forfeiture of Children’s Bonds[^key-3d24383a5ccf3940b3ce3f3255f6cc6f]
+## 60. Forfeiture of Children’s Bonds[^c-3d24383a5ccf3940b3ce3f3255f6cc6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d24383a5ccf3940b3ce3f3255f6cc6f]: Commencement: Reg. 60 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-3d24383a5ccf3940b3ce3f3255f6cc6f]: Commencement: Reg. 60 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

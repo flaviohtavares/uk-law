@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Rates (Transitional Relief) Order (Northern Ireland) 2003 (revoked)[^key-a9948267773017f1c9d73f64ba2ae044]
+Rates (Transitional Relief) Order (Northern Ireland) 2003 (revoked)[^c-a9948267773017f1c9d73f64ba2ae044]
 
 Made
 
@@ -41,54 +41,54 @@ Coming into operation
 
 1st April 2003
 
-[^key-a9948267773017f1c9d73f64ba2ae044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9948267773017f1c9d73f64ba2ae044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a9948267773017f1c9d73f64ba2ae044]
+## 1. Citation, commencement and interpretation[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of Order[^key-a9948267773017f1c9d73f64ba2ae044]
+## 2. Application of Order[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Hereditaments excluded from transitional relief[^key-a9948267773017f1c9d73f64ba2ae044]
+## 3. Hereditaments excluded from transitional relief[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of rates[^key-a9948267773017f1c9d73f64ba2ae044]
+## 4. Amount of rates[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional relief[^key-a9948267773017f1c9d73f64ba2ae044]
+## 5. Transitional relief[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary provisions as to transitional relief[^key-a9948267773017f1c9d73f64ba2ae044]
+## 6. Supplementary provisions as to transitional relief[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Occupation[^key-a9948267773017f1c9d73f64ba2ae044]
+## 7. Occupation[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-a9948267773017f1c9d73f64ba2ae044]
+## 8. Revocation[^c-a9948267773017f1c9d73f64ba2ae044]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9948267773017f1c9d73f64ba2ae044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9948267773017f1c9d73f64ba2ae044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — HEREDITAMENTS TO BE EXCLUDED FROM TRANSITIONAL RELIEF[^key-a9948267773017f1c9d73f64ba2ae044]
+## SCHEDULE — HEREDITAMENTS TO BE EXCLUDED FROM TRANSITIONAL RELIEF[^c-a9948267773017f1c9d73f64ba2ae044]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9948267773017f1c9d73f64ba2ae044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9948267773017f1c9d73f64ba2ae044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9948267773017f1c9d73f64ba2ae044]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/143) revoked (1.4.2007) by [The Rates (Transitional Relief) Order (Northern Ireland) 2007 (S.R. 2007/90)](https://www.legislation.gov.uk/nisr/2007/90), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/90/article/1/1), [9](https://www.legislation.gov.uk/nisr/2007/90/article/9)
+[^c-a9948267773017f1c9d73f64ba2ae044]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/143) revoked (1.4.2007) by [The Rates (Transitional Relief) Order (Northern Ireland) 2007 (S.R. 2007/90)](https://www.legislation.gov.uk/nisr/2007/90), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/90/article/1/1), [9](https://www.legislation.gov.uk/nisr/2007/90/article/9)

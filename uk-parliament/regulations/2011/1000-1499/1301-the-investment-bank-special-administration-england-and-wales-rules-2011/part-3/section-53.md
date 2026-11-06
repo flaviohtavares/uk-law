@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Details of the client assets held by the investment bank[^key-9662d554cdb7e03c31fea4f5a3458a8b]
+## 53. Details of the client assets held by the investment bank[^c-9662d554cdb7e03c31fea4f5a3458a8b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9662d554cdb7e03c31fea4f5a3458a8b]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2011/1301/rule/53) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9662d554cdb7e03c31fea4f5a3458a8b]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2011/1301/rule/53) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Consequential repeal[^key-222c86973ea9fc248ef1cd008dbdcd8a]
+## 87. Consequential repeal[^c-222c86973ea9fc248ef1cd008dbdcd8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 117 of the Merchant Shipping Act 1995 (c. 21) (drunkenness on duty) shal
 
 ## Annotations
 
-[^key-222c86973ea9fc248ef1cd008dbdcd8a]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2003/20/section/87) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/827/article/3/j)
+[^c-222c86973ea9fc248ef1cd008dbdcd8a]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2003/20/section/87) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/827/article/3/j)

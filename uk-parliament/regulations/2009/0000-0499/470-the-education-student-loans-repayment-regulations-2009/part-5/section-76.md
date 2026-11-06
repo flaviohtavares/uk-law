@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Calculation of fixed instalment and applicable threshold[^key-b9877031d035c3e676f781408c0cfc8f]
+## 76. Calculation of fixed instalment and applicable threshold[^c-b9877031d035c3e676f781408c0cfc8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9877031d035c3e676f781408c0cfc8f]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/uksi/2009/470/regulation/76) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [61](https://www.legislation.gov.uk/uksi/2022/1335/regulation/61)
+[^c-b9877031d035c3e676f781408c0cfc8f]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/uksi/2009/470/regulation/76) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [61](https://www.legislation.gov.uk/uksi/2022/1335/regulation/61)

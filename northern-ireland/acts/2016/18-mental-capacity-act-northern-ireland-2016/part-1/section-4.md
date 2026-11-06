@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Meaning of “unable to make a decision”[^key-fe81e570c3c68b79cb49d1f80b6a50cf][^key-f0d13bc0fe80ab24839fc6ae5d337d84]
+## 4. Meaning of “unable to make a decision”[^c-fe81e570c3c68b79cb49d1f80b6a50cf][^c-f0d13bc0fe80ab24839fc6ae5d337d84]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ and references to enabling or helping a person to make a decision about a matter
 
 ## Annotations
 
-[^key-fe81e570c3c68b79cb49d1f80b6a50cf]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/18/section/4) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-fe81e570c3c68b79cb49d1f80b6a50cf]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/18/section/4) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-f0d13bc0fe80ab24839fc6ae5d337d84]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/18/section/4) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)
+[^c-f0d13bc0fe80ab24839fc6ae5d337d84]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/18/section/4) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)

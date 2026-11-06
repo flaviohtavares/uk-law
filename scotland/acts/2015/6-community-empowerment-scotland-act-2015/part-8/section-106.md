@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Interpretation of Part 8[^key-25971f37c9921b74018576d5fc971c31]
+## 106. Interpretation of Part 8[^c-25971f37c9921b74018576d5fc971c31]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-25971f37c9921b74018576d5fc971c31]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2015/6/section/106) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-25971f37c9921b74018576d5fc971c31]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2015/6/section/106) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

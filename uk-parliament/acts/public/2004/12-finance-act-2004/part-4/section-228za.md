@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228ZA. Tapered reduction of annual allowance: high-income individual[^key-0e054296bac9487ae9fd3da7bd862080]
+## 228ZA. Tapered reduction of annual allowance: high-income individual[^c-0e054296bac9487ae9fd3da7bd862080]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bb99eccb5d058aa9df8de7044dc6acdc] If the individual is a high-income individual for the tax year, the amount of the annual allowance for the tax year in the case of the individual is the amount specified for the tax year by or under section 228 reduced (but not below £10,000[^M_F_f4c9e879-8fa3-40d5-a99c-dbc87f090241]) by—[^M_F_22350837-20cc-401c-8c46-837125640d20]
+(1)[^c-bb99eccb5d058aa9df8de7044dc6acdc] If the individual is a high-income individual for the tax year, the amount of the annual allowance for the tax year in the case of the individual is the amount specified for the tax year by or under section 228 reduced (but not below £10,000[^M_F_f4c9e879-8fa3-40d5-a99c-dbc87f090241]) by—[^M_F_22350837-20cc-401c-8c46-837125640d20]
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2004/12)
 
@@ -31,7 +31,7 @@ where AI is the individual's adjusted income for the tax year.
 (3) The individual is a “high-income individual” for the tax year if—
 
 - (a) the individual's adjusted income for the tax year is more than £260,000[^M_F_3069fae8-bcbf-4037-d2fb-3aa799c3299b] and
-- (b) the individual's threshold income for the tax year is more than the amount given by £260,000[^M_F_8dc491f1-7be2-4083-9e8c-cb8213bf6c61][^key-a87bccdab5d7e174b9c0eefe2cf3ec00] minus the amount specified for the tax year by or under section 228.
+- (b) the individual's threshold income for the tax year is more than the amount given by £260,000[^M_F_8dc491f1-7be2-4083-9e8c-cb8213bf6c61][^c-a87bccdab5d7e174b9c0eefe2cf3ec00] minus the amount specified for the tax year by or under section 228.
 
 (4) The individual's “adjusted income” for the tax year is—
 
@@ -43,14 +43,14 @@ where AI is the individual's adjusted income for the tax year.
 - (d) an amount equal to—
   - (i) the total pension input amount calculated in accordance with section 229(1), less
   - (ii) the amount of any contributions paid by or on behalf of the individual during the year under registered pension schemes of which the individual is a member, less
-- (e)[^key-fb72bf7e008605f04340d32aa2d98128] the amount of any lump sum death benefit which is subject to the charge to tax on pension income under Part 9 of ITEPA 2003 (pension income) in the tax year.
+- (e)[^c-fb72bf7e008605f04340d32aa2d98128] the amount of any lump sum death benefit which is subject to the charge to tax on pension income under Part 9 of ITEPA 2003 (pension income) in the tax year.
 
 (5) The individual's “threshold income” for the tax year is—
 
 - (a) the individual's net income for the year (see Step 2 of the calculation in section 23 of ITA 2007), plus
 - (b) any amount by which what would otherwise be general earnings or specific employment income of the individual for the year has been reduced by relevant salary sacrifice arrangements or relevant flexible remuneration arrangements, less
 - (c) the amount (before any deduction under section 192(1)) of any contribution paid in the year in respect of which the individual is entitled to be given relief under section 192 (relief at source), less
-- (d)[^key-06e3bc18683e3232f6f9ff5b5e5167fb] the amount of any lump sum death benefit which is subject to the charge to tax on pension income under Part 9 of ITEPA 2003 (pension income) in the tax year.
+- (d)[^c-06e3bc18683e3232f6f9ff5b5e5167fb] the amount of any lump sum death benefit which is subject to the charge to tax on pension income under Part 9 of ITEPA 2003 (pension income) in the tax year.
 
 (6) In subsection (5)—
 
@@ -69,9 +69,9 @@ where AI is the individual's adjusted income for the tax year.
 
 ## Annotations
 
-[^key-0e054296bac9487ae9fd3da7bd862080]: Textual amendment: Ss. 228ZA, 228ZB inserted (with effect in accordance with Sch. 4 para. 10(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/10/1)
+[^c-0e054296bac9487ae9fd3da7bd862080]: Textual amendment: Ss. 228ZA, 228ZB inserted (with effect in accordance with Sch. 4 para. 10(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/10/1)
 
-[^key-bb99eccb5d058aa9df8de7044dc6acdc]: Textual amendment: S. 228ZA(1) substituted (6.4.2020 for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/22/2)[(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/22/4)
+[^c-bb99eccb5d058aa9df8de7044dc6acdc]: Textual amendment: S. 228ZA(1) substituted (6.4.2020 for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/22/2)[(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/22/4)
 
 [^M_F_f4c9e879-8fa3-40d5-a99c-dbc87f090241]: Textual amendment: Sum in s. 228ZA(1) substituted (for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 22(2)(a)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/22/2/a/4)
 
@@ -81,8 +81,8 @@ where AI is the individual's adjusted income for the tax year.
 
 [^M_F_8dc491f1-7be2-4083-9e8c-cb8213bf6c61]: Textual amendment: Sum in s. 228ZA(3)(b) substituted (for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 22(3)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/22/3/4)
 
-[^key-a87bccdab5d7e174b9c0eefe2cf3ec00]: Textual amendment: Words in [s. 228ZA(3)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/228ZA/3/b) substituted (for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 22(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/22/3/b/4)
+[^c-a87bccdab5d7e174b9c0eefe2cf3ec00]: Textual amendment: Words in [s. 228ZA(3)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/228ZA/3/b) substituted (for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 22(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/22/3/b/4)
 
-[^key-fb72bf7e008605f04340d32aa2d98128]: Textual amendment: [S. 228ZA(4)(e)](https://www.legislation.gov.uk/ukpga/2004/12/section/228ZA/4/e) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 20(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/20/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-fb72bf7e008605f04340d32aa2d98128]: Textual amendment: [S. 228ZA(4)(e)](https://www.legislation.gov.uk/ukpga/2004/12/section/228ZA/4/e) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 20(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/20/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
 
-[^key-06e3bc18683e3232f6f9ff5b5e5167fb]: Textual amendment: [S. 228ZA(5)(d)](https://www.legislation.gov.uk/ukpga/2004/12/section/228ZA/5/d) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 20(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/20/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))
+[^c-06e3bc18683e3232f6f9ff5b5e5167fb]: Textual amendment: [S. 228ZA(5)(d)](https://www.legislation.gov.uk/ukpga/2004/12/section/228ZA/5/d) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 20(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/20/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Financing, borrowing and guarantees[^key-10e81294654515fdc0023994bc0c3651]
+## 14. Financing, borrowing and guarantees[^c-10e81294654515fdc0023994bc0c3651]
 
 *Extent: S*
 
 (1) In such circumstances as the Scottish Ministers may by order specify, the Scottish Ministers may, with the consent of Scottish Water, make grants to the business undertaking established under section 13(1) of such amounts as the Scottish Ministers may determine.
 
-(2)[^key-5091254b7184662e42328baeb65300f8] In such circumstances as the Scottish Ministers may by order specify, the undertaking may borrow—
+(2)[^c-5091254b7184662e42328baeb65300f8] In such circumstances as the Scottish Ministers may by order specify, the undertaking may borrow—
 
 - (a) from the Scottish Ministers (and they may lend to it) sums of such amounts as they may determine,
 - (b) money from any other person, whether—
@@ -31,7 +31,7 @@ summary: ''
 
 (2A) Borrowing may be made in pursuance of subsection (2) only with the consent of Scottish Water (except where it is the lender).
 
-(3) In any financial year, the net amount of sums borrowed under subsection (2)[^key-79600e9d34e90758d1a068df0dc23ba0] must not exceed the amount specified for that year for the purposes of this subsection in a Budget Act.
+(3) In any financial year, the net amount of sums borrowed under subsection (2)[^c-79600e9d34e90758d1a068df0dc23ba0] must not exceed the amount specified for that year for the purposes of this subsection in a Budget Act.
 
 (4) In subsection (3), “**net amount**” means the amount of sums borrowed in the financial year less—
 
@@ -40,7 +40,7 @@ summary: ''
 
 (5) Any loans made under subsection (2)(a) are to be repaid to the Scottish Ministers at such times and by such methods, and interest on the loans is to be paid to them at such times and at such rates, as they may from time to time specify.
 
-(6) In such circumstances as the Scottish Ministers may by order specify, the Scottish Ministers may guarantee, in such manner as they consider appropriate, the discharge of any financial obligation in connection with any sums borrowed as described in subsection (2)(b) or[^key-3d267c3b4b88f90eac3ece73fce80046] (4)(b).
+(6) In such circumstances as the Scottish Ministers may by order specify, the Scottish Ministers may guarantee, in such manner as they consider appropriate, the discharge of any financial obligation in connection with any sums borrowed as described in subsection (2)(b) or[^c-3d267c3b4b88f90eac3ece73fce80046] (4)(b).
 
 (7) Immediately after a guarantee is given under subsection (6), the Scottish Ministers must lay a statement of the guarantee before the Parliament.
 
@@ -62,10 +62,10 @@ subject to such conditions as the Scottish Ministers consider it appropriate to 
 
 ## Annotations
 
-[^key-10e81294654515fdc0023994bc0c3651]: Commencement: S. 14 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-10e81294654515fdc0023994bc0c3651]: Commencement: S. 14 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-5091254b7184662e42328baeb65300f8]: Textual amendment: S. 14(2)(2A) substituted for s. 14(2) (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 28(2)](https://www.legislation.gov.uk/asp/2013/5/section/28/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1), [56(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-5091254b7184662e42328baeb65300f8]: Textual amendment: S. 14(2)(2A) substituted for s. 14(2) (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 28(2)](https://www.legislation.gov.uk/asp/2013/5/section/28/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1), [56(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
 
-[^key-79600e9d34e90758d1a068df0dc23ba0]: Textual amendment: Word in s. 14(3) substituted (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 28(3)](https://www.legislation.gov.uk/asp/2013/5/section/28/3), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1), [56(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-79600e9d34e90758d1a068df0dc23ba0]: Textual amendment: Word in s. 14(3) substituted (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 28(3)](https://www.legislation.gov.uk/asp/2013/5/section/28/3), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1), [56(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
 
-[^key-3d267c3b4b88f90eac3ece73fce80046]: Textual amendment: Words in s. 14(6) inserted (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 28(4)](https://www.legislation.gov.uk/asp/2013/5/section/28/4), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1), [56(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-3d267c3b4b88f90eac3ece73fce80046]: Textual amendment: Words in s. 14(6) inserted (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 28(4)](https://www.legislation.gov.uk/asp/2013/5/section/28/4), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1), [56(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

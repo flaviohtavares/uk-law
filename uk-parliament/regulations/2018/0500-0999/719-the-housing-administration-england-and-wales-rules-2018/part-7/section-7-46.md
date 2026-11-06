@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.46. Non-Gazette notices relating to a registered provider[^key-d5d209e4f373c8c7f18b30768808a922]
+## 7.46. Non-Gazette notices relating to a registered provider[^c-d5d209e4f373c8c7f18b30768808a922]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ A notice relating to a registered provider must also identify the registered pro
 
 ## Annotations
 
-[^key-d5d209e4f373c8c7f18b30768808a922]: Commencement: Rule 7.46 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-d5d209e4f373c8c7f18b30768808a922]: Commencement: Rule 7.46 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

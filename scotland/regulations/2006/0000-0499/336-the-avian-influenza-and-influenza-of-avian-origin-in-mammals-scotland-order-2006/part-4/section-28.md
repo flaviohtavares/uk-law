@@ -25,7 +25,7 @@ summary: ''
 (2) The Scottish Ministers may, in their declaration of a protection zone, if they have carried out a risk assessment and do not believe that to do so would endanger disease control–
 
 - (a) disapply one or more of those measures to movements of racing pigeons into, from and within the zone;
-- (b)[^key-7e43ca0f8973dbf8f2a7b19f5c1a06fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7e43ca0f8973dbf8f2a7b19f5c1a06fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Scottish Ministers must (subject to paragraph (4)), ensure that–
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e43ca0f8973dbf8f2a7b19f5c1a06fd]: Textual amendment: [Art. 28(2)(b)](https://www.legislation.gov.uk/ssi/2006/336/article/28/2/b) omitted (19.12.2023) by virtue of [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/361/article/2/6)
+[^c-7e43ca0f8973dbf8f2a7b19f5c1a06fd]: Textual amendment: [Art. 28(2)(b)](https://www.legislation.gov.uk/ssi/2006/336/article/28/2/b) omitted (19.12.2023) by virtue of [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2023/361/article/2/6)

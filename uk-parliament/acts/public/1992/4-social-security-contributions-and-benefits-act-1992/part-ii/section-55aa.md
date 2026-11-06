@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55AA. Shared additional pension because of a new state scheme pension credit[^key-0c96853bcb3fdab3cdca64707b135c5e][^key-7bff64fd4a83693fbbadb678a446fd2a][^key-d15c698f3bbcc1416d6bd9ab7441b8cb]
+## 55AA. Shared additional pension because of a new state scheme pension credit[^c-0c96853bcb3fdab3cdca64707b135c5e][^c-7bff64fd4a83693fbbadb678a446fd2a][^c-d15c698f3bbcc1416d6bd9ab7441b8cb]
 
 *Extent: E+W+S*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0c96853bcb3fdab3cdca64707b135c5e]: Modification: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/4/section/55AA): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/4/4/a)
+[^c-0c96853bcb3fdab3cdca64707b135c5e]: Modification: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/4/section/55AA): sums amended (coming into force in accordance with arts. 1(4)(5), 7 of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/4/4/a)
 
-[^key-7bff64fd4a83693fbbadb678a446fd2a]: Textual amendment: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/4/section/55AA) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/6)
+[^c-7bff64fd4a83693fbbadb678a446fd2a]: Textual amendment: [S. 55AA](https://www.legislation.gov.uk/ukpga/1992/4/section/55AA) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/6)
 
-[^key-d15c698f3bbcc1416d6bd9ab7441b8cb]: Textual amendment: Ss. 55A-55C inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/89/5/a), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2000/19/schedule/6/paragraph/3); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/2666/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/2666/schedule/part/IV)
+[^c-d15c698f3bbcc1416d6bd9ab7441b8cb]: Textual amendment: Ss. 55A-55C inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(5)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/89/5/a), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2000/19/schedule/6/paragraph/3); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/2666/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/2666/schedule/part/IV)

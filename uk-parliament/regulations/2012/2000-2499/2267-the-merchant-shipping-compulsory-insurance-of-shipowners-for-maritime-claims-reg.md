@@ -46,13 +46,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State is a Minister designated [^f00003] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to maritime transport.
 
-## 1. Citation and commencement[^key-949f595303a4ba92b7aba003c6abb94c]
+## 1. Citation and commencement[^c-949f595303a4ba92b7aba003c6abb94c]
 
 (1) These Regulations may be cited as the Merchant Shipping (Compulsory Insurance of Shipowners for Maritime Claims) Regulations 2012.
 
 (2) These Regulations come into force on 5th October 2012 except for regulation 3(3)(b) which comes into force on the date of commencement of Part 9A and Schedule 11ZA[^f00004] of the Merchant Shipping Act 1995.
 
-## 2. Interpretation[^key-af9733f8c4c27022c503db85ae2c594f]
+## 2. Interpretation[^c-af9733f8c4c27022c503db85ae2c594f]
 
 (1) In these Regulations—
 
@@ -62,7 +62,7 @@ The Secretary of State is a Minister designated [^f00003] for the purposes of se
 
 (2) Expressions used in these Regulations and in the Directive have the same meaning as in the Directive.
 
-## 3. Application[^key-c82d8962e861235df7a5ef4b853ada49][^key-ca436395b28d6da41c0ae769cd065901]
+## 3. Application[^c-c82d8962e861235df7a5ef4b853ada49][^c-ca436395b28d6da41c0ae769cd065901]
 
 (1) These Regulations apply to seagoing ships of 300 gross tonnes or more.
 
@@ -71,11 +71,11 @@ The Secretary of State is a Minister designated [^f00003] for the purposes of se
 (3) Regulation 4 is without prejudice to the provisions of—
 
 - (a) sections 163 and 163A of the Act[^f00006];
-- (b)[^key-ca436395b28d6da41c0ae769cd065901] Part 9A of, and Schedule 11ZA to, the Act;
+- (b)[^c-ca436395b28d6da41c0ae769cd065901] Part 9A of, and Schedule 11ZA to, the Act;
 - (c) Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/european/regulation/2009/0392) of the European Union and of the Council of 23rd April 2009 on the liability of carriers of passengers by sea in the event of accidents[^f00007]; and
 - (d) the Merchant Shipping (Compulsory Insurance: Ships Receiving Trans-shipped Fish) Regulations 1998[^f00008].
 
-## 4. Insurance[^key-aff0d6095f9b903f49969350eaa8c807]
+## 4. Insurance[^c-aff0d6095f9b903f49969350eaa8c807]
 
 (1) A United Kingdom ship may not enter or leave a port in the United Kingdom or elsewhere unless the shipowner has insurance in respect of that ship.
 
@@ -97,14 +97,14 @@ The Secretary of State is a Minister designated [^f00003] for the purposes of se
 
 (7) In this regulation the “Hague Visby Rules” means the International Convention for the Unification of certain rules of law relating to bills of lading signed at Brussels on 25th August 1924[^f00009], as amended by the Protocol signed at Brussels on 23rd February 1968[^f00010] and by the Protocol signed at Brussels on 21st December 1979[^f00011].
 
-## 5. Insurance other than contracts of insurance[^key-487da375caf038b5227fc293267461f4]
+## 5. Insurance other than contracts of insurance[^c-487da375caf038b5227fc293267461f4]
 
 Where, to comply with regulation 4, a shipowner relies on insurance consisting of proved self insurance or financial security offering similar conditions of cover in respect of a ship—
 
 - (a) the shipowner must provide documentary evidence of the existence of that insurance to the Secretary of State, and
 - (b) that ship must not enter or leave a port in the United Kingdom unless the Secretary of State has confirmed in writing that the arrangements for self insurance or financial security offering similar conditions of cover are adequate.
 
-## 6. Insurance certificates and documentation[^key-6734e4924306f91ab5b6bde6729fee24]
+## 6. Insurance certificates and documentation[^c-6734e4924306f91ab5b6bde6729fee24]
 
 (1) The existence of the insurance referred to in regulation 4 is to be proved by—
 
@@ -127,7 +127,7 @@ Where, to comply with regulation 4, a shipowner relies on insurance consisting o
   - (i) the Secretary of State or any proper officer[^f00012] where the ship is a United Kingdom ship; or
   - (ii) the Secretary of State in the case of any other ship.
 
-## 7. Penalties[^key-2ca34e9b1d2e4abaf45fbcf56122f5c4]
+## 7. Penalties[^c-2ca34e9b1d2e4abaf45fbcf56122f5c4]
 
 (1) A shipowner is guilty of an offence if—
 
@@ -145,11 +145,11 @@ Where, to comply with regulation 4, a shipowner relies on insurance consisting o
 
 (5) In this regulation “foreign company” means a company or body which is not one to which section 1139 of the Companies Act 2006[^f00013] applies so as to authorise the service of the document in question.
 
-## 8. Expulsion order[^key-644065439811f1cf73d45fd59ea314ee]
+## 8. Expulsion order[^c-644065439811f1cf73d45fd59ea314ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Power to detain[^key-4ea02b256dd29be14cc71a81d2404473]
+## 9. Power to detain[^c-4ea02b256dd29be14cc71a81d2404473]
 
 (1) A ship may be detained if anyone attempts to navigate it out of a port in contravention of regulation 4.
 
@@ -180,7 +180,7 @@ responsible for the issue of classification certificates.
 
 (7) In this regulation “competent authority” means any officer mentioned in section 284(1) of the Act.
 
-## 10. Arbitration[^key-eda686f589cc037af2d82ff059184053]
+## 10. Arbitration[^c-eda686f589cc037af2d82ff059184053]
 
 (1) Any question as to whether any of the matters specified in relation to a ship in a detention notice constituted a valid basis for the officer’s opinion must, if the master or shipowner so requires by a notice given to the officer within 21 days from the service of the detention notice, be referred to a single arbitrator appointed by agreement between the parties for that question to be decided by the arbitrator.
 
@@ -212,7 +212,7 @@ responsible for the issue of classification certificates.
 
 (9) In the application of this regulation to Scotland any reference to an arbitrator is to be construed as a reference to an arbiter, and the reference in paragraph (1) to a single arbitrator appointed by agreement between the parties is to be construed as a reference to a single arbiter so appointed or, in default of agreement, appointed by the sheriff.
 
-## 11. Compensation for unjustified detention[^key-e9b02fc11273d519a641709278c92b9f]
+## 11. Compensation for unjustified detention[^c-e9b02fc11273d519a641709278c92b9f]
 
 (1) If on a reference under regulation 10 relating to a detention notice, the arbitrator decides that the shipowner has proved—
 
@@ -225,7 +225,7 @@ the arbitrator must award the shipowner such compensation in respect of any loss
 
 (3) In the application of this regulation to Scotland any reference to an arbitrator is to be construed as a reference to an arbiter.
 
-## 12. Review[^key-3e32238935f3b236c5c25d222e874266]
+## 12. Review[^c-3e32238935f3b236c5c25d222e874266]
 
 (1) The Secretary of State must from time to time—
 
@@ -277,17 +277,17 @@ International Maritime Organisation publications can be purchased from the IMO P
 
 [^f00003]: Footnote: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
 
-[^key-949f595303a4ba92b7aba003c6abb94c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-949f595303a4ba92b7aba003c6abb94c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00004]: Footnote: Part 9A and Schedule 11 were inserted by the Wreck Removal Convention Act [2011 (c.8)](https://www.legislation.gov.uk/ukpga/2011/8).
 
-[^key-af9733f8c4c27022c503db85ae2c594f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2267/regulation/2) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-af9733f8c4c27022c503db85ae2c594f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2267/regulation/2) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00005]: Footnote: O.J. L. 131, 28.5.2009, p.128.
 
-[^key-c82d8962e861235df7a5ef4b853ada49]: Commencement: Reg. 3(1)(2)(3)(a)(c)(d) in force at 5.10.2012, see reg. 1(2)
+[^c-c82d8962e861235df7a5ef4b853ada49]: Commencement: Reg. 3(1)(2)(3)(a)(c)(d) in force at 5.10.2012, see reg. 1(2)
 
-[^key-ca436395b28d6da41c0ae769cd065901]: Commencement: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/3/3/b) in force at 14.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-ca436395b28d6da41c0ae769cd065901]: Commencement: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/3/3/b) in force at 14.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00006]: Footnote: [S.I 1997/1820](https://www.legislation.gov.uk/uksi/1997/1820) defines “oil” for the purposes of section 163 of the Act; section 163(5) was amended by [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244). Section 163A was inserted by [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244) and sub-section (8) was amended by [S.I 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
@@ -295,7 +295,7 @@ International Maritime Organisation publications can be purchased from the IMO P
 
 [^f00008]: Footnote: [S.I. 1998/209](https://www.legislation.gov.uk/uksi/1998/209).
 
-[^key-aff0d6095f9b903f49969350eaa8c807]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2267/regulation/4) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-aff0d6095f9b903f49969350eaa8c807]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2267/regulation/4) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00009]: Footnote: Cmnd 3806. The Hague Visby Rules are given effect by the Carriage of Goods by Sea Act [1971 (c.19)](https://www.legislation.gov.uk/ukpga/1971/19), as amended by the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21), section 314(2) and Schedule 13.
 
@@ -303,26 +303,26 @@ International Maritime Organisation publications can be purchased from the IMO P
 
 [^f00011]: Footnote: Cmnd 9197.
 
-[^key-487da375caf038b5227fc293267461f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/2267/regulation/5) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-487da375caf038b5227fc293267461f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/2267/regulation/5) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
-[^key-6734e4924306f91ab5b6bde6729fee24]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2267/regulation/6) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-6734e4924306f91ab5b6bde6729fee24]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2267/regulation/6) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00012]: Footnote: Proper officer is defined in section 313 of the Act.
 
-[^key-2ca34e9b1d2e4abaf45fbcf56122f5c4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2267/regulation/7) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-2ca34e9b1d2e4abaf45fbcf56122f5c4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2267/regulation/7) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00013]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-644065439811f1cf73d45fd59ea314ee]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2267/regulation/8) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-644065439811f1cf73d45fd59ea314ee]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2267/regulation/8) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ea02b256dd29be14cc71a81d2404473]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2267/regulation/9) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-4ea02b256dd29be14cc71a81d2404473]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2267/regulation/9) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00014]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1.
 
-[^key-eda686f589cc037af2d82ff059184053]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2267/regulation/10) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-eda686f589cc037af2d82ff059184053]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2267/regulation/10) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
 [^f00015]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-e9b02fc11273d519a641709278c92b9f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2267/regulation/11) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-e9b02fc11273d519a641709278c92b9f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2267/regulation/11) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
 
-[^key-3e32238935f3b236c5c25d222e874266]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2267/regulation/12) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)
+[^c-3e32238935f3b236c5c25d222e874266]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2267/regulation/12) in force at 5.10.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2267/regulation/1/2)

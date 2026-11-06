@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37QA. Procedure Rules[^key-8fad43bc152ac194eb886a2911212c3d]
+## 37QA. Procedure Rules[^c-8fad43bc152ac194eb886a2911212c3d]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fad43bc152ac194eb886a2911212c3d]: Textual amendment: S. 37QA and cross-heading inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 34(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/34/4), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/a)
+[^c-8fad43bc152ac194eb886a2911212c3d]: Textual amendment: S. 37QA and cross-heading inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 34(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/34/4), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/a)

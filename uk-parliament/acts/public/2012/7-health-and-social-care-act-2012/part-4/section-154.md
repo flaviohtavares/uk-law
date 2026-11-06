@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Accounts: initial arrangements[^key-e24325ab9d2973eb173d999dd79c11d7][^c2191328]
+## 154. Accounts: initial arrangements[^c-e24325ab9d2973eb173d999dd79c11d7][^c2191328]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e24325ab9d2973eb173d999dd79c11d7]: Commencement: S. 154 in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-e24325ab9d2973eb173d999dd79c11d7]: Commencement: S. 154 in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
 [^c2191328]: Commencement: S. 154 partly in force; s. 154 in force for specified purposes at Royal Assent, see s. 306(1)(d)

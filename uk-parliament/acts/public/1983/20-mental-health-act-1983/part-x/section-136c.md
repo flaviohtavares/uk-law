@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136C. Protective searches[^key-56f7024b769a202a9bfdb2e88d7dd9cc]
+## 136C. Protective searches[^c-56f7024b769a202a9bfdb2e88d7dd9cc]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56f7024b769a202a9bfdb2e88d7dd9cc]: Textual amendment: S. 136C inserted (31.1.2017 for specified purposes, 11.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 83](https://www.legislation.gov.uk/ukpga/2017/3/section/83), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-56f7024b769a202a9bfdb2e88d7dd9cc]: Textual amendment: S. 136C inserted (31.1.2017 for specified purposes, 11.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 83](https://www.legislation.gov.uk/ukpga/2017/3/section/83), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

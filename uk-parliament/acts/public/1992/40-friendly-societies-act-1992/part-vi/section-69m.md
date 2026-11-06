@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69M. Disclosure of auditor remuneration[^key-25a7ba3f58113b8d54b04b69d03c02f8]
+## 69M. Disclosure of auditor remuneration[^c-25a7ba3f58113b8d54b04b69d03c02f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25a7ba3f58113b8d54b04b69d03c02f8]: Textual amendment: [S. 69M](https://www.legislation.gov.uk/ukpga/1992/40/section/69M) inserted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2008/1140/article/4/1)
+[^c-25a7ba3f58113b8d54b04b69d03c02f8]: Textual amendment: [S. 69M](https://www.legislation.gov.uk/ukpga/1992/40/section/69M) inserted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2008/1140/article/4/1)

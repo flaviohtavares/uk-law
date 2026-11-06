@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Finance: exceptions from prohibitions[^key-198d764a087ce84afa09b0e4ceae824b]
+## 55. Finance: exceptions from prohibitions[^c-198d764a087ce84afa09b0e4ceae824b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,13 +50,13 @@ summary: ''
 
 (8) The definition of “relevant institution” in paragraph (7) is to be read with section 22 of the Financial Services and Markets Act 2000[^f00014], any relevant order under that section[^f00015] and Schedule 2 to that Act[^f00016].
 
-(9)[^key-8ea897d5009edb62a08951b9bb14faf5] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by the designated person.
+(9)[^c-8ea897d5009edb62a08951b9bb14faf5] For the purposes of paragraphs (1)(b), (5) and (6) and the definition of “frozen account” in paragraph (7), references to a designated person are to be read as including a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by the designated person.
 
 (10) When determining for the purposes of paragraph (5) when a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 9) by the designated person (“**D**”) became a designated person, C is to be treated as having become a designated person at the same time as D.
 
 ## Annotations
 
-[^key-198d764a087ce84afa09b0e4ceae824b]: Commencement: Reg. 55 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-198d764a087ce84afa09b0e4ceae824b]: Commencement: Reg. 55 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00011]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 142D was inserted by the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), section 4(1).
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^f00016]: Footnote: Schedule 2 was amended by the Regulation of Financial Services (Land Transactions) Act [2003 (c. 24)](https://www.legislation.gov.uk/ukpga/2003/24), section 1; the Dormant Bank and Building Society Accounts Act [2008 (c. 31)](https://www.legislation.gov.uk/ukpga/2008/31), section 15 and Schedule 2, paragraph 1; the Financial Services Act 2012, sections 7(2) to (5) and 8; the Financial Guidance and Claims Act [2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), section 27(13); [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881); [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135); and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-8ea897d5009edb62a08951b9bb14faf5]: Textual amendment: [Reg. 55(9)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/55/9)[(10)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/55/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [35(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/35/4)
+[^c-8ea897d5009edb62a08951b9bb14faf5]: Textual amendment: [Reg. 55(9)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/55/9)[(10)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/55/10) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [35(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/35/4)

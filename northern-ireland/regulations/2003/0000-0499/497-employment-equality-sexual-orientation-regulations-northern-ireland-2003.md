@@ -39,15 +39,15 @@ Coming into operation
 
 2nd December 2003
 
-The Office of the First Minister and deputy First Minister, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to discrimination[^f00002], in exercise of the powers conferred on it by that section, and of every other power enabling it in that behalf, hereby makes the following Regulations:[^key-f4f613c3f3e800fece014910b7f16258]
+The Office of the First Minister and deputy First Minister, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to discrimination[^f00002], in exercise of the powers conferred on it by that section, and of every other power enabling it in that behalf, hereby makes the following Regulations:[^c-f4f613c3f3e800fece014910b7f16258]
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-1ff349ff5e463ae9811c5d129712b935]
+### 1. Citation and commencement[^c-1ff349ff5e463ae9811c5d129712b935]
 
 These Regulations may be cited as the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003, and shall come into operation on 2nd December 2003.
 
-### 2. Interpretation[^key-fb7e7b29d38be36b2678697fc5fa0023]
+### 2. Interpretation[^c-fb7e7b29d38be36b2678697fc5fa0023]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Employment Equality (Sexual Orientation) R
 - “Northern Ireland Minister” includes the First Minister and deputy First Minister acting jointly; and
 - “school” has the same meaning as in the Education and Libraries (Northern Ireland) Order 1986[^f00005].
 
-### 3. Discrimination on grounds of sexual orientation[^key-0079fe9fa861a97d3a824cffac17234f]
+### 3. Discrimination on grounds of sexual orientation[^c-0079fe9fa861a97d3a824cffac17234f]
 
 (1) For the purposes of these Regulations, a person (“A”) discriminates against another person (“B”) if –
 
@@ -85,11 +85,11 @@ These Regulations may be cited as the Employment Equality (Sexual Orientation) R
 
 (2) A comparison of B’s case with that of another person under paragraph (1) must be such that the relevant circumstances in the one case are the same, or not materially different, in the other.
 
-(3)[^key-00dcb6b35f102c2b790c690e17d419ff] For the purposes of paragraph (2), in a comparison of B’s case with that of another person the fact that one of the persons (whether B or not) is a civil partner while the other is married shall not be treated as a material difference between their respective circumstances.
+(3)[^c-00dcb6b35f102c2b790c690e17d419ff] For the purposes of paragraph (2), in a comparison of B’s case with that of another person the fact that one of the persons (whether B or not) is a civil partner while the other is married shall not be treated as a material difference between their respective circumstances.
 
-(4)[^key-c9c26a86888d9ae4ee295c78c26c9700] For the purposes of paragraph (2), in a comparison of B’s case with that of another person the fact that one of the persons (whether B or not) is married to, or the civil partner of, a person of the same sex while the other is married to, or the civil partner of, a person of the opposite sex shall not be treated as a material difference between their respective circumstances.
+(4)[^c-c9c26a86888d9ae4ee295c78c26c9700] For the purposes of paragraph (2), in a comparison of B’s case with that of another person the fact that one of the persons (whether B or not) is married to, or the civil partner of, a person of the same sex while the other is married to, or the civil partner of, a person of the opposite sex shall not be treated as a material difference between their respective circumstances.
 
-### 4. Discrimination by way of victimisation[^key-d1ece7a2d2b8de1f09b0744e41628448]
+### 4. Discrimination by way of victimisation[^c-d1ece7a2d2b8de1f09b0744e41628448]
 
 (1) For the purposes of these Regulations, a person (“A”) discriminates against another person (“B”) if he treats B less favourably than he treats or would treat other persons in the same circumstances, and does so by reason that B has –
 
@@ -102,7 +102,7 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 
 (2) Paragraph (1) does not apply to treatment of B by reason of any allegation made by him, or evidence or information given by him, if the allegation, evidence or information was false and not made (or, as the case may be, given) in good faith.
 
-### 5. Harassment on grounds of sexual orientation[^key-4e312836e7e8db3e63cb03039aa14d07]
+### 5. Harassment on grounds of sexual orientation[^c-4e312836e7e8db3e63cb03039aa14d07]
 
 (1) For the purposes of these Regulations, a person (“A”) subjects another person (“B”) to harassment where, on grounds of sexual orientation, A engages in unwanted conduct which has the purpose or effect of –
 
@@ -113,7 +113,7 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 
 ## PART II — DISCRIMINATION IN EMPLOYMENT AND VOCATIONAL TRAINING
 
-### 6. Applicants and employees[^key-3c0e6b55d2c098a7fa326dec29f80e9d]
+### 6. Applicants and employees[^c-3c0e6b55d2c098a7fa326dec29f80e9d]
 
 (1) It is unlawful for an employer, in relation to employment by him at an establishment in Northern Ireland, to discriminate against a person –
 
@@ -141,7 +141,7 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 - (a) to the termination of that person’s employment by the expiration of any period (including a period expiring by reference to an event or circumstance), not being a termination immediately after which the employment is renewed on the same terms; and
 - (b) to the termination of that person’s employment by any act of his (including the giving of notice) in circumstances such that he is entitled to terminate it without notice by reason of the conduct of the employer.
 
-### 7. Discrimination by persons with statutory power to select employees for others[^key-32f6072949555958df098b3a4861cc75]
+### 7. Discrimination by persons with statutory power to select employees for others[^c-32f6072949555958df098b3a4861cc75]
 
 (1) It is unlawful for a person who is empowered by virtue of a statutory provision to select or nominate another person for employment by a third person to discriminate against a person –
 
@@ -150,7 +150,7 @@ or by reason that A knows that B intends to do any of those things, or suspects 
 
 (2) It is unlawful for a person who is empowered by virtue of a statutory provision to select or nominate another person for employment by a third person to subject that other to harassment in relation to employment at an establishment in Northern Ireland.
 
-### 8. Exception for genuine occupational requirement etc[^key-6dba89b4f53667f614d4475c635e6064]
+### 8. Exception for genuine occupational requirement etc[^c-6dba89b4f53667f614d4475c635e6064]
 
 (1) In relation to discrimination falling within regulation 3 (discrimination on grounds of sexual orientation) –
 
@@ -180,12 +180,12 @@ where paragraph (2) or (3) applies.
   - (i) the person to whom that requirement is applied does not meet it, or
   - (ii) the employer is not satisfied, and in all the circumstances it is reasonable for him not to be satisfied, that that person meets it.
 
-(4)[^key-f8ef41e3dfe9086ddef7b1eb1831ff2b] In paragraph (3)(b) “a requirement related to sexual orientation” includes (without prejudice to the generality of that expression)—
+(4)[^c-f8ef41e3dfe9086ddef7b1eb1831ff2b] In paragraph (3)(b) “a requirement related to sexual orientation” includes (without prejudice to the generality of that expression)—
 
 - (a) a requirement not to be married to, or the civil partner of, a person of the same sex; and
 - (b) a requirement not to be the civil partner of a person of the opposite sex.
 
-### 9. Contract workers[^key-7d0a235877294560b55ed2b559c42536]
+### 9. Contract workers[^c-7d0a235877294560b55ed2b559c42536]
 
 (1) It is unlawful for a principal, in relation to contract work at an establishment in Northern Ireland, to discriminate against a contract worker –
 
@@ -206,7 +206,7 @@ where paragraph (2) or (3) applies.
 - “contract work” means work so made available; and
 - “contract worker” means any individual who is supplied to the principal under such a contract.
 
-### 10. Meaning of employment and contract work at establishment in Northern Ireland[^key-e32142c825c48307d41f12b163ed7bf8]
+### 10. Meaning of employment and contract work at establishment in Northern Ireland[^c-e32142c825c48307d41f12b163ed7bf8]
 
 (1) For the purposes of this Part (“the relevant purposes”), employment is to be regarded as being at an establishment in Northern Ireland if the employee –
 
@@ -230,7 +230,7 @@ where paragraph (2) or (3) applies.
 
 (5) This regulation applies in relation to contract work within the meaning of regulation 9 as it applies in relation to employment; and, in its application to contract work, references to “employee”, “employer” and “employment” are references to (respectively) “contract worker”, “principal” and “contract work” within the meaning of regulation 9.
 
-### 11. Trustees and managers of occupational pension schemes[^key-9b76d0311d7898d78fcb07695a71675b]
+### 11. Trustees and managers of occupational pension schemes[^c-9b76d0311d7898d78fcb07695a71675b]
 
 (1) It is unlawful, except in relation to rights accrued or benefits payable in respect of periods of service prior to 2nd December 2003, for the trustees or managers of an occupational pension scheme to discriminate against a member or prospective member of the scheme in carrying out any of their functions in relation to it (including in particular their functions relating to the admission of members to the scheme and the treatment of members of it).
 
@@ -243,7 +243,7 @@ where paragraph (2) or (3) applies.
 - (c) giving trustees or managers of an occupational pension scheme power to alter the scheme so as to secure conformity with the non-discrimination rule;
 - (d) making provision in relation to the procedures, and remedies which may be granted, on certain complaints relating to occupational pension schemes presented to an industrial tribunal under regulation 34 (jurisdiction of industrial tribunals).
 
-### 12. Office-holders etc[^key-61a83a4b5280e1df46677dc3652f82de]
+### 12. Office-holders etc[^c-61a83a4b5280e1df46677dc3652f82de]
 
 (1) It is unlawful for a relevant person, in relation to an appointment to an office or post to which this regulation applies, to discriminate against a person –
 
@@ -312,14 +312,14 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 - (d) references to making a recommendation include references to making a negative recommendation; and
 - (e) references to refusal include references to deliberate omission.
 
-### 13. Police Service of Northern Ireland and the Police Service of Northern Ireland Reserve[^key-04a92095fc6347d4f1dc2f8e52cf8f70]
+### 13. Police Service of Northern Ireland and the Police Service of Northern Ireland Reserve[^c-04a92095fc6347d4f1dc2f8e52cf8f70]
 
-(1) Subject to regulation 14A,[^key-40a75a191c3ac4319af3efce6fce6b99] for the purposes of this Part, the holding of the office of constable as a police officer shall be treated as employment –
+(1) Subject to regulation 14A,[^c-40a75a191c3ac4319af3efce6fce6b99] for the purposes of this Part, the holding of the office of constable as a police officer shall be treated as employment –
 
 - (a) by the Chief Constable as respects any act done by him in relation to that office or a holder of it;
 - (b) by the Policing Board as respects any act done by it in relation to that office or the holder of it.
 
-(2) Subject to regulation 14A,[^key-d539ee1b207a87a022312c57bcd3d444] for the purposes of regulation 24 (liability of employers and principals) –
+(2) Subject to regulation 14A,[^c-d539ee1b207a87a022312c57bcd3d444] for the purposes of regulation 24 (liability of employers and principals) –
 
 - (a) the holding of the office of constable as a police officer shall be treated as employment by the Chief Constable (and as not being employment by any other person); and
 - (b) anything done by a person holding such an office in the performance, or purported performance, of his functions shall be treated as done in the course of that employment.
@@ -339,19 +339,19 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 
 (6) This regulation –
 
-- (a) applies in relation to a person serving with the Police Service of Northern Ireland by virtue of section 98 of the Police Act 1996[^f00009] or paragraph 4, Schedule 4 to the Crime and Courts Act 2013[^key-b347d8f5c0982851e0d86df649002498] [^f00010] as it applies in relation to a police officer;
+- (a) applies in relation to a person serving with the Police Service of Northern Ireland by virtue of section 98 of the Police Act 1996[^f00009] or paragraph 4, Schedule 4 to the Crime and Courts Act 2013[^c-b347d8f5c0982851e0d86df649002498] [^f00010] as it applies in relation to a police officer;
 - (b) applies in relation to a police officer who by virtue of paragraph 7(2)(a) or 8(4)(a) of Schedule 3 to the Police (Northern Ireland) Act 1998[^f00011] is under the direction and control of the Police Ombudsman for Northern Ireland as if –
   - (i) in paragraph (1) the reference to the Chief Constable included a reference to the Ombudsman;
   - (ii) in paragraphs (2), (4) and (5) the references to the Chief Constable were references to the Ombudsman.
 
-### 14. Other police bodies[^key-40d738594b76d1fca5593064c76cd8c6]
+### 14. Other police bodies[^c-40d738594b76d1fca5593064c76cd8c6]
 
-(1) Subject to regulation 14A,[^key-9fd62ee9fe9a7c5281f0b2ec09f01e61] for the purposes of this Part, the holding of the office of constable otherwise than as a police officer shall be treated as employment –
+(1) Subject to regulation 14A,[^c-9fd62ee9fe9a7c5281f0b2ec09f01e61] for the purposes of this Part, the holding of the office of constable otherwise than as a police officer shall be treated as employment –
 
 - (a) by the chief officer of police as respects any act done by him in relation to that office or a holder of it;
 - (b) by the police authority as respects any act done by it in relation to that office or the holder of it.
 
-(2) Subject to regulation 14A,[^key-525c01ab7510e6f037960b364f69ce98] for the purposes of regulation 24 (liability of employers and principals) –
+(2) Subject to regulation 14A,[^c-525c01ab7510e6f037960b364f69ce98] for the purposes of regulation 24 (liability of employers and principals) –
 
 - (a) the holding of the office of constable otherwise than as a police officer shall be treated as employment by the chief officer of police (and as not being employment by any other person); and
 - (b) anything done by a person holding such an office in the performance, or purported performance, of his functions shall be treated as done in the course of that employment.
@@ -369,7 +369,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 
 (5) A police authority may make arrangements for the legal representation of any person under the direction and control of the chief officer of police in any proceedings mentioned in paragraph (4).
 
-(6)[^key-941a118b19ec35b358303f23633746a2] Subject to paragraph (8), in this regulation—
+(6)[^c-941a118b19ec35b358303f23633746a2] Subject to paragraph (8), in this regulation—
 
 - “chief officer of police” means the person who has the direction and control of the body of constables in question;
 - “police authority” means the authority by which members of the body of constables are paid;
@@ -379,18 +379,18 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 
 (8) In relation to a constable of a force who is not under the direction and control of the chief officer of police for that force, references in this regulation to the chief officer of police are references to the chief officer of the force under whose direction and control he is, and references in this regulation to the police authority are references to the relevant police authority for that force.
 
-### 14A. The National Crime Agency[^key-5dfe8cc4ded020006aefe0350d5b4299]
+### 14A. The National Crime Agency[^c-5dfe8cc4ded020006aefe0350d5b4299]
 
-(1) For the purposes of this Part, any constable or other person who has been seconded to the[^key-5843b669f6a0c435354d169dd1914506] NCA to serve as an NCA officer shall be treated as being employed by that Agency[^key-09d6ca078ad5b016bf7243b2961aaf35] .
+(1) For the purposes of this Part, any constable or other person who has been seconded to the[^c-5843b669f6a0c435354d169dd1914506] NCA to serve as an NCA officer shall be treated as being employed by that Agency[^c-09d6ca078ad5b016bf7243b2961aaf35] .
 
 (2) For the purposes of regulation 24 (liability of employers and principals)—
 
-- (a) the secondment of any constable or other person to the[^key-328c06415f3d98bee9c0249d58cf97a9] NCA to serve as an NCA officer shall be treated as employment by that Agency[^key-ac1cc82b6c79e438fed6f6cccf20787f] (and not as being employment by any other person); and
+- (a) the secondment of any constable or other person to the[^c-328c06415f3d98bee9c0249d58cf97a9] NCA to serve as an NCA officer shall be treated as employment by that Agency[^c-ac1cc82b6c79e438fed6f6cccf20787f] (and not as being employment by any other person); and
 - (b) anything done by a person so seconded in the performance, or purported performance, of his functions shall be treated as done in the course of that employment.
 
-(3) In this regulation “[^key-74388bb58ec5961fd36e26e563a82535]NCA” means the National Crime Agency ”
+(3) In this regulation “[^c-74388bb58ec5961fd36e26e563a82535]NCA” means the National Crime Agency ”
 
-### 15. Barristers[^key-91a3a6b4fc86bc77deb89d7106e18eb2]
+### 15. Barristers[^c-91a3a6b4fc86bc77deb89d7106e18eb2]
 
 (1) It is unlawful for a barrister, in relation to taking any person as his pupil, to discriminate against a person –
 
@@ -413,7 +413,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 
 - “pupil” has the meaning commonly associated with its use in the context of a person training as a barrister.
 
-### 16. Partnerships[^key-32596d30ae3e427d62848582ced77197]
+### 16. Partnerships[^c-32596d30ae3e427d62848582ced77197]
 
 (1) It is unlawful for a firm, in relation to a position as partner in the firm, to discriminate against a person –
 
@@ -441,7 +441,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 - (a) to the termination of that person’s partnership by the expiration of any period (including a period expiring by reference to an event or circumstance), not being a termination immediately after which the partnership is renewed on the same terms; and
 - (b) to the termination of that person’s partnership by any act of his (including the giving of notice) in circumstances such that he is entitled to terminate it without notice by reason of the conduct of the other partners.
 
-### 17. Trade organisations[^key-d8cc09ab95ee27cf7bf9db6d4ec5e719]
+### 17. Trade organisations[^c-d8cc09ab95ee27cf7bf9db6d4ec5e719]
 
 (1) It is unlawful for a trade organisation to discriminate against a person –
 
@@ -462,7 +462,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 - “profession” includes any vocation or occupation; and
 - “trade” includes any business.
 
-### 18. Qualifications bodies[^key-4da439ec2d1767508ffb9eed2291850f]
+### 18. Qualifications bodies[^c-4da439ec2d1767508ffb9eed2291850f]
 
 (1) It is unlawful for a qualifications body to discriminate against a person –
 
@@ -483,7 +483,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 - “professional or trade qualification” means any authorisation, qualification, recognition, registration, enrolment, approval or certification which is needed for, or facilitates engagement in, a particular profession or trade; and
 - “profession” and “trade” have the same meaning as in regulation 17.
 
-### 19. Providers of vocational training[^key-e34bafc27a79f3157decf054ed24c142]
+### 19. Providers of vocational training[^c-e34bafc27a79f3157decf054ed24c142]
 
 (1) It is unlawful, in relation to a person seeking or undergoing training which would help fit him for any employment, for any training provider to discriminate against him –
 
@@ -506,7 +506,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
   - (b) an educational establishment to which regulation 22 (institutions of further and higher education) applies, or would apply but for the operation of any other provision of these Regulations; or
   - (c) a school.
 
-### 20. Employment agencies, careers guidance etc[^key-a83ae49591d335884942747ee70d6958]
+### 20. Employment agencies, careers guidance etc[^c-a83ae49591d335884942747ee70d6958]
 
 (1) It is unlawful for an employment agency to discriminate against a person –
 
@@ -532,16 +532,16 @@ but not to a political office or a case where regulation 6 (applicants and emplo
   - (ii) a school; and
 - (b) references to the services of an employment agency include guidance on careers and any other services related to employment.
 
-### 21. Assisting persons to obtain employment etc[^key-4e3b565d630eb44097a8f680c7cc1a74][^key-2760b0d26f35a57eafb69ec9bd6d40fb]
+### 21. Assisting persons to obtain employment etc[^c-4e3b565d630eb44097a8f680c7cc1a74][^c-2760b0d26f35a57eafb69ec9bd6d40fb]
 
-(1) It is unlawful for the Department for Communities or the Department for the Economy[^key-5400f4ff63a911fd9c4dbb30d20b14bd] to discriminate against any person by subjecting him to a detriment, or to subject a person to harassment, in the provision of facilities or services under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00014] (general functions of the Department for Communities or the Department for the Economy[^key-2fd20e196d5565ce21191b5da17727e8] as to employment and training for employment).
+(1) It is unlawful for the Department for Communities or the Department for the Economy[^c-5400f4ff63a911fd9c4dbb30d20b14bd] to discriminate against any person by subjecting him to a detriment, or to subject a person to harassment, in the provision of facilities or services under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00014] (general functions of the Department for Communities or the Department for the Economy[^c-2fd20e196d5565ce21191b5da17727e8] as to employment and training for employment).
 
 (2) This regulation does not apply in a case where –
 
 - (a) regulation 19 (providers of vocational training) applies, or would apply but for the operation of any other provision of these Regulations, or
-- (b) the Department for Communities or the Department for the Economy[^key-b7d2797d9fd3eabd16d0b0c1c227966e] is acting as an employment agency within the meaning of regulation 20.
+- (b) the Department for Communities or the Department for the Economy[^c-b7d2797d9fd3eabd16d0b0c1c227966e] is acting as an employment agency within the meaning of regulation 20.
 
-### 22. Institutions of further and higher education[^key-cd74b7bbb0b1185f7efaf60746cad201]
+### 22. Institutions of further and higher education[^c-cd74b7bbb0b1185f7efaf60746cad201]
 
 (1) It is unlawful, in relation to an educational establishment to which this regulation applies, for the governing body of that establishment to discriminate against a person –
 
@@ -565,7 +565,7 @@ but not to a political office or a case where regulation 6 (applicants and emplo
 
 - “student” means any person who receives education at an educational establishment to which this regulation applies.
 
-### 23. Relationships which have come to an end[^key-646693fedf26d6cad4a9ad36cb61ab88]
+### 23. Relationships which have come to an end[^c-646693fedf26d6cad4a9ad36cb61ab88]
 
 (1) In this regulation a “relevant relationship” is a relationship during the course of which an act of discrimination against, or harassment of, one party to the relationship (“B”) by the other party to it (“A”) is unlawful by virtue of any preceding provision of this Part.
 
@@ -580,7 +580,7 @@ where the discrimination or harassment arises out of and is closely connected to
 
 ## PART III — OTHER UNLAWFUL ACTS
 
-### 24. Liability of employers and principals[^key-39657ada18f3d2057c5b68f01d7c1665]
+### 24. Liability of employers and principals[^c-39657ada18f3d2057c5b68f01d7c1665]
 
 (1) Anything done by a person in the course of his employment shall be treated for the purposes of these Regulations as done by his employer as well as by him, whether or not it was done with the employer’s knowledge or approval.
 
@@ -588,7 +588,7 @@ where the discrimination or harassment arises out of and is closely connected to
 
 (3) In proceedings brought under these Regulations against any person in respect of an act alleged to have been done by an employee of his it shall be a defence for that person to prove that he took such steps as were reasonably practicable to prevent the employee from doing that act, or from doing in the course of his employment acts of that description.
 
-### 25. Aiding unlawful acts[^key-90c5f1ce46157c8b939a81f2afe2eb42]
+### 25. Aiding unlawful acts[^c-90c5f1ce46157c8b939a81f2afe2eb42]
 
 (1) A person who knowingly aids another person to do an act made unlawful by these Regulations shall be treated for the purpose of these Regulations as himself doing an unlawful act of the like description.
 
@@ -603,14 +603,14 @@ where the discrimination or harassment arises out of and is closely connected to
 
 ## PART IV — GENERAL EXCEPTIONS FROM PARTS II AND III
 
-### 26. Exception for national security etc[^key-92b05a3333a1aa69c980083e5cab73e9]
+### 26. Exception for national security etc[^c-92b05a3333a1aa69c980083e5cab73e9]
 
 No act done by any person shall be treated for the purposes of any provision of Part II or III as unlawfully discriminating if –
 
 - (a) the act is done for the purpose of safeguarding national security or protecting public safety or public order; and
 - (b) the doing of the act is justified by that purpose.
 
-### 27. Effect of certificates by Secretary of State[^key-2b6665fd526636b7dfa8cdb61afc99c2]
+### 27. Effect of certificates by Secretary of State[^c-2b6665fd526636b7dfa8cdb61afc99c2]
 
 (1) This regulation applies where in any proceedings –
 
@@ -642,14 +642,14 @@ the certificate shall be conclusive evidence of the matters certified by it.
 - “claim” includes complaint; and
 - “claimant” includes complainant.
 
-### 28. Exception for benefits dependent on a person’s status[^key-d23b505f64c2ccbfac72e9f033f53d1e]
+### 28. Exception for benefits dependent on a person’s status[^c-d23b505f64c2ccbfac72e9f033f53d1e]
 
-(1)[^key-75f050e0c8a23e3e87f399b4e2b03226] Nothing in Part II or III shall render unlawful—
+(1)[^c-75f050e0c8a23e3e87f399b4e2b03226] Nothing in Part II or III shall render unlawful—
 
 - (a) anything which prevents or restricts access to a benefit by reference to marital status where the right to the benefit accrued or the benefit is payable in respect of periods of service prior to the coming into force of the Civil Partnership Act 2004;
 - (b) the conferring of a benefit on married persons and civil partners to the exclusion of all other persons.
 
-(2)[^key-e0934925fa1b68399fa6eef524064f4d] Paragraph (1)(a) does not apply in relation to access to a benefit payable under an occupational pension scheme to the surviving spouse or surviving civil partner of a deceased member or deceased pension credit member of the scheme.
+(2)[^c-e0934925fa1b68399fa6eef524064f4d] Paragraph (1)(a) does not apply in relation to access to a benefit payable under an occupational pension scheme to the surviving spouse or surviving civil partner of a deceased member or deceased pension credit member of the scheme.
 
 (3) In paragraph (2), in relation to an occupational pension scheme—
 
@@ -663,7 +663,7 @@ and “deceased member” and “deceased pension credit member” mean a person
 - “active member”, “deferred member” and “pensioner member” each has the meaning given by Article 121(1) of the Pensions (Northern Ireland) Order 1995;
 - “**occupational pension scheme**” has the meaning given by section 1(1) of the Pension Schemes (Northern Ireland) Act 1993.
 
-### 29. Exceptions for positive action[^key-c25e277b48803ed3a6832bbd1797d54f]
+### 29. Exceptions for positive action[^c-c25e277b48803ed3a6832bbd1797d54f]
 
 (1) Nothing in Part II or III shall render unlawful any act done in or in connection with –
 
@@ -683,7 +683,7 @@ where it reasonably appears to the organisation that the act prevents or compens
 
 ## PART V — FUNCTIONS OF THE EQUALITY COMMISSION
 
-### 30. General duty of Commission[^key-6307bdf039c94f5d1be2d7e19500e8d9]
+### 30. General duty of Commission[^c-6307bdf039c94f5d1be2d7e19500e8d9]
 
 It shall be the duty of the Commission –
 
@@ -691,13 +691,13 @@ It shall be the duty of the Commission –
 - (b) to promote equality of opportunity between persons of differing sexual orientations; and
 - (c) to keep under review the working of these Regulations and, when it is so required by the Department or otherwise thinks it necessary, draw up and submit to the Department proposals for amending these Regulations.
 
-### 31. Research and education[^key-2819f8eb058798c96a0bdbb502eb6474]
+### 31. Research and education[^c-2819f8eb058798c96a0bdbb502eb6474]
 
 (1) The Commission may undertake or assist (financially or otherwise) the undertaking by other persons of any research, and any educational activities, which appear to the Commission necessary or expedient for the purposes of regulation 30.
 
 (2) The Commission may make charges for educational or other facilities or services made available by it.
 
-### 32. Codes of practice[^key-45f967440ac3ad0e18d67e1f0522de13]
+### 32. Codes of practice[^c-45f967440ac3ad0e18d67e1f0522de13]
 
 (1) The Commission may issue codes of practice containing such practical guidance as the Commission thinks fit for all or any of the following purposes, namely –
 
@@ -719,13 +719,13 @@ as appear to the Commission to be appropriate.
 
 ## PART VI — ENFORCEMENT
 
-### 33. Restriction of proceedings for breach of Regulations[^key-25ca8cacdbe9656f985949ba6131a06b]
+### 33. Restriction of proceedings for breach of Regulations[^c-25ca8cacdbe9656f985949ba6131a06b]
 
 (1) Except as provided by these Regulations no proceedings, whether civil or criminal, shall lie against any person in respect of an act by reason that the act is unlawful by virtue of a provision of these Regulations.
 
 (2) Paragraph (1) does not prevent the making of an application for judicial review or the investigation or determination of any matter in accordance with Part X (investigations: the Pensions Ombudsman) of the Pension Schemes (Northern Ireland) Act 1993[^f00018] by the Pensions Ombudsman.
 
-### 34. Jurisdiction of industrial tribunals[^key-8347549f254e7d854708363332c71059]
+### 34. Jurisdiction of industrial tribunals[^c-8347549f254e7d854708363332c71059]
 
 (1) A complaint by any person (“the complainant”) that another person (“the respondent”) –
 
@@ -749,7 +749,7 @@ may be presented to an industrial tribunal.
 
 the tribunal shall not proceed further under these Regulations in relation to the complaint unless all proceedings which can be taken under the Fair Employment and Treatment (Northern Ireland) Order 1998 in respect of the act have been disposed of.
 
-### 35. Burden of proof: industrial tribunals[^key-ebd9ab3c2a24b00aa6cca0b1baf57575]
+### 35. Burden of proof: industrial tribunals[^c-ebd9ab3c2a24b00aa6cca0b1baf57575]
 
 (1) This regulation applies to any complaint presented under regulation 34 to an industrial tribunal.
 
@@ -760,7 +760,7 @@ the tribunal shall not proceed further under these Regulations in relation to th
 
 the tribunal shall uphold the complaint unless the respondent proves that he did not commit, or as the case may be, is not to be treated as having committed, that act.
 
-### 36. Remedies on complaints in industrial tribunals[^key-aeb96fa0a0403c7cb60de4255c9909b6]
+### 36. Remedies on complaints in industrial tribunals[^c-aeb96fa0a0403c7cb60de4255c9909b6]
 
 (1) Where an industrial tribunal finds that a complaint presented to it under regulation 34 is well-founded, the tribunal shall make such of the following as it considers just and equitable –
 
@@ -782,7 +782,7 @@ the tribunal shall uphold the complaint unless the respondent proves that he did
 
 (5) This regulation has effect subject to paragraph 7 of Schedule 1 (occupational pension schemes).
 
-### 37. Jurisdiction of county courts[^key-cd0a492efe0edbd942d6a99fdb93719d]
+### 37. Jurisdiction of county courts[^c-cd0a492efe0edbd942d6a99fdb93719d]
 
 (1) A claim by any person (“the claimant”) that another person (“the respondent”) –
 
@@ -802,7 +802,7 @@ may be made the subject of civil proceedings in like manner as any other claim i
 
 (5) In paragraph (4)(b), reference to an act of discrimination or harassment which would have been unlawful includes, in the case of a relationship which has come to an end before 2 December 2003, reference to an act of discrimination or harassment which would, after that date, have been unlawful.
 
-### 38. Burden of proof: county courts[^key-e027b26e85aa70e7838973b828bb3b50]
+### 38. Burden of proof: county courts[^c-e027b26e85aa70e7838973b828bb3b50]
 
 (1) This regulation applies to any claim brought under regulation 37(1) in a county court.
 
@@ -813,7 +813,7 @@ may be made the subject of civil proceedings in like manner as any other claim i
 
 the court shall uphold the claim unless the respondent proves that he did not commit, or as the case may be, is not to be treated as having committed, that act.
 
-### 39. Help for persons in obtaining information etc[^key-2f42712756879b0b9060e5570fdc90c7]
+### 39. Help for persons in obtaining information etc[^c-2f42712756879b0b9060e5570fdc90c7]
 
 (1) In accordance with this regulation, a person (“the person aggrieved”) who considers he may have been discriminated against, or subjected to harassment, in contravention of these Regulations may serve on the respondent to a complaint presented under regulation 34 (jurisdiction of industrial tribunals) or a claim brought under regulation 37 (jurisdiction of county courts) questions in the form set out in Schedule 2 or forms to the like effect with such variation as the circumstances require; and the respondent may if he so wishes reply to such questions by way of the form set out in Schedule 3 or forms to the like effect with such variation as the circumstances require.
 
@@ -829,7 +829,7 @@ the court shall uphold the claim unless the respondent proves that he did not co
 
 (4) In proceedings before an industrial tribunal, a question shall only be admissible as evidence in pursuance of paragraph (2)(a) –
 
-- (a)[^key-c8706ba845c8e0263e67a9d8ab88c089] where it was served before a complaint had been presented to a tribunal, if it was so served –
+- (a)[^c-c8706ba845c8e0263e67a9d8ab88c089] where it was served before a complaint had been presented to a tribunal, if it was so served –
   - (i) within the period of three months beginning when the act complained of was done; or
   - (ii) where paragraph (1A) of regulation 41 applies, within the extended period;
 - (b) where it was served when a complaint had been presented to the tribunal, either –
@@ -848,7 +848,7 @@ the court shall uphold the claim unless the respondent proves that he did not co
 
 (7) In this regulation “respondent” includes a prospective respondent.
 
-### 40. Assistance by Commission[^key-dec33ed62abffe9d2f603e5359de6410]
+### 40. Assistance by Commission[^c-dec33ed62abffe9d2f603e5359de6410]
 
 (1) Where, in relation to proceedings or prospective proceedings under these Regulations, an individual who is an actual or prospective complainant applies to the Commission for assistance under this regulation, the Commission shall consider the application and may grant it if it thinks fit to do so –
 
@@ -878,16 +878,16 @@ but sub-paragraph (d) shall not affect the law and practice regulating the descr
 - (a) in relation to county court proceedings, means county court rules;
 - (b) in relation to industrial tribunal proceedings, means industrial tribunal procedure regulations under the Industrial Tribunals (Northern Ireland) Order 1996[^f00023].
 
-### 41. Period within which proceedings to be brought[^key-c4ad71d38381188bb77ac3be8bd135c7]
+### 41. Period within which proceedings to be brought[^c-c4ad71d38381188bb77ac3be8bd135c7]
 
 (1) An industrial tribunal shall not consider a complaint under regulation 34 (jurisdiction of industrial tribunals) unless it is presented to the tribunal before the end of –
 
 - (a) the period of three months beginning when the act complained of was done; or
 - (b) in a case to which regulation 43(6) (armed forces) applies, the period of six months so beginning.
 
-(1A)[^key-1d155c6d56acb0ce76ea213b7e1c59e2] Where the period within which a complaint must be presented in accordance with paragraph (1) is extended by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004, the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (1).
+(1A)[^c-1d155c6d56acb0ce76ea213b7e1c59e2] Where the period within which a complaint must be presented in accordance with paragraph (1) is extended by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004, the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (1).
 
-(1B)[^key-c47ae6e1d43c551ace5835e2d4364db7] Regulation 41A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
+(1B)[^c-c47ae6e1d43c551ace5835e2d4364db7] Regulation 41A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
 
 (2) A county court shall not consider a claim brought under regulation 37 (jurisdiction of county courts) unless proceedings in respect of the claim are instituted before the end of the period of six months beginning when the act complained of was done.
 
@@ -901,7 +901,7 @@ but sub-paragraph (d) shall not affect the law and practice regulating the descr
 
 and in the absence of evidence establishing the contrary a person shall be taken for the purposes of this regulation to decide upon an omission when he does an act inconsistent with doing the omitted act or, if he has done no such inconsistent act, when the period expires within which he might reasonably have been expected to do the omitted act if it was to be done.
 
-### 41A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-21d5dd7a0cf5be21e62fb66417ca9c8c]
+### 41A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-21d5dd7a0cf5be21e62fb66417ca9c8c]
 
 (1) In this regulation—
 
@@ -916,11 +916,11 @@ and in the absence of evidence establishing the contrary a person shall be taken
 
 ## PART VII — SUPPLEMENTAL
 
-### 42. Validity of contracts, collective agreements and rules of undertakings[^key-8c22464cfc4faf2dbc8c30f86135880e]
+### 42. Validity of contracts, collective agreements and rules of undertakings[^c-8c22464cfc4faf2dbc8c30f86135880e]
 
 Schedule 4 (validity of contracts, collective agreements and rules of undertakings) shall have effect.
 
-### 43. Application to the Crown etc[^key-c02e00ee11811ee4873c86252ec5c1ef]
+### 43. Application to the Crown etc[^c-c02e00ee11811ee4873c86252ec5c1ef]
 
 (1) These Regulations apply –
 
@@ -952,28 +952,28 @@ if at the time when the act complained of was done the complainant was serving i
 
 (7) A complainant may present a complaint to which paragraph (6) applies to an industrial tribunal under regulation 34 (jurisdiction of industrial tribunals) only if –
 
-- (a)[^key-fe4513c0628afe3a40d5be06a58d9990] the complainant has made a service complaint about the matter; and
+- (a)[^c-fe4513c0628afe3a40d5be06a58d9990] the complainant has made a service complaint about the matter; and
 - (b) that complaint has not been withdrawn.
 
-(8)[^key-5e27a74748c11cf35de3bb8354a30064] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (7)(b) as withdrawn if—
+(8)[^c-5e27a74748c11cf35de3bb8354a30064] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (7)(b) as withdrawn if—
 
 - (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person's or panel's decision expires;
 - (b) there are grounds (of which the complainant is aware) on which the complainant is entitled to bring such an appeal; and
 - (c) either—
-  - (i) the complainant does not apply to the Armed Forces Commissioner[^key-e3589bfb8f2524d1068c9f5ecbe1ea6c] for a review by virtue of section 340D(6) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed); or
-  - (ii) the complainant does apply for such a review and the Commissioner[^key-e46a2f06c93c85ccd39b12a358997e7f] decides that an appeal against the person's or panel's decision cannot be proceeded with.
+  - (i) the complainant does not apply to the Armed Forces Commissioner[^c-e3589bfb8f2524d1068c9f5ecbe1ea6c] for a review by virtue of section 340D(6) of the Armed Forces Act 2006 (review of decision that appeal brought out of time cannot proceed); or
+  - (ii) the complainant does apply for such a review and the Commissioner[^c-e46a2f06c93c85ccd39b12a358997e7f] decides that an appeal against the person's or panel's decision cannot be proceeded with.
 
-(9) Where a complaint is presented to an industrial tribunal under regulation 34 (jurisdiction of industrial tribunals) by virtue of paragraph (7), the procedures set out in service complaints regulations[^key-4e3d4cf58d3251490bb50dd4f2b078f0] may continue after the complaint is so presented.
+(9) Where a complaint is presented to an industrial tribunal under regulation 34 (jurisdiction of industrial tribunals) by virtue of paragraph (7), the procedures set out in service complaints regulations[^c-4e3d4cf58d3251490bb50dd4f2b078f0] may continue after the complaint is so presented.
 
 (10) In this regulation –
 
 - “armed forces” means any of the naval, military or air forces of the Crown;
 - “service for purposes of a Minister of the Crown, a Northern Ireland Minister or government department” does not include service in any office mentioned in Schedule 2 (Ministerial offices) to the House of Commons Disqualification Act 1975[^f00025];
-- “[^key-83264451b89b94bbcd72c385554e363f]**service complaint**” means a complaint under section 340A of the Armed Forces Act 2006;
-- “[^key-968046f4e5faf01def03ace5979a5e70]**service complaints regulations**” means regulations made under section 340B(1) of the Armed Forces Act 2006; and
+- “[^c-83264451b89b94bbcd72c385554e363f]**service complaint**” means a complaint under section 340A of the Armed Forces Act 2006;
+- “[^c-968046f4e5faf01def03ace5979a5e70]**service complaints regulations**” means regulations made under section 340B(1) of the Armed Forces Act 2006; and
 - “statutory body” means a body set up by or in pursuance of a statutory provision, and “statutory office” means an office so set up.
 
-### 44. Amendments to legislation[^key-5d16a630db7eb2f06ee378362455df13]
+### 44. Amendments to legislation[^c-5d16a630db7eb2f06ee378362455df13]
 
 Schedule 5 (amendments to legislation) shall have effect.
 
@@ -989,7 +989,7 @@ Regulation 11(3)
 
 ### Interpretation
 
-**1.**[^key-22c433c4d8cd85eeb83aa161eb640a67] (1) In this Schedule –
+**1.**[^c-22c433c4d8cd85eeb83aa161eb640a67] (1) In this Schedule –
 
 - “active member”, “deferred member”, “managers”, “pensioner member” and “trustees or managers”, in relation to an occupational pension scheme, have the meanings given by Article 121(1) of the Pensions (Northern Ireland) Order 1995[^f00029] as at 2nd December 2003;
 - “member” means any active member, deferred member or pensioner member;
@@ -1007,11 +1007,11 @@ Regulation 11(3)
 
 ### Non-discrimination rule
 
-**2.**[^key-6a3c548bca8c766135930cdad58f88c8] Every occupational pension scheme shall be treated as including a provision (“the non-discrimination rule”) containing a requirement that the trustees or managers of the scheme refrain from doing any act which is unlawful by virtue of regulation 11.
+**2.**[^c-6a3c548bca8c766135930cdad58f88c8] Every occupational pension scheme shall be treated as including a provision (“the non-discrimination rule”) containing a requirement that the trustees or managers of the scheme refrain from doing any act which is unlawful by virtue of regulation 11.
 
-**3.**[^key-3adfcfe6e89e420991c224d13b7fac99] The other provisions of the scheme are to have effect subject to the non-discrimination rule.
+**3.**[^c-3adfcfe6e89e420991c224d13b7fac99] The other provisions of the scheme are to have effect subject to the non-discrimination rule.
 
-**4.**[^key-47e3a942c2ff80813ee054c4e8549239] The trustees or managers of an occupational pension scheme may –
+**4.**[^c-47e3a942c2ff80813ee054c4e8549239] The trustees or managers of an occupational pension scheme may –
 
 - (a) if they do not (apart from this paragraph) have power to make such alterations to the scheme as may be required to secure conformity with the non-discrimination rule, or
 - (b) if they have such power but the procedure for doing so –
@@ -1020,11 +1020,11 @@ Regulation 11(3)
 
   by resolution make such alterations to the scheme.
 
-**5.**[^key-e021be5aba3eb1bf54eb2f71c9d79522] Alterations made by a resolution such as is referred to in paragraph 4 may have effect in relation to a period before the alterations are made (but may not have effect in relation to any time before 2nd December 2003).
+**5.**[^c-e021be5aba3eb1bf54eb2f71c9d79522] Alterations made by a resolution such as is referred to in paragraph 4 may have effect in relation to a period before the alterations are made (but may not have effect in relation to any time before 2nd December 2003).
 
 ### Procedure in industrial tribunals
 
-**6.**[^key-52049c0aa446297ade250a248fb9f371] Where under regulation 34 (jurisdiction of industrial tribunals) a member or prospective member of an occupational pension scheme presents to an employment tribunal a complaint that the trustees or managers of the scheme –
+**6.**[^c-52049c0aa446297ade250a248fb9f371] Where under regulation 34 (jurisdiction of industrial tribunals) a member or prospective member of an occupational pension scheme presents to an employment tribunal a complaint that the trustees or managers of the scheme –
 
 - (a) have committed against him an act which is unlawful by virtue of regulation 11 (trustees and managers of occupational pension schemes) or 23 (relationships which have come to an end); or
 - (b) are by virtue of regulation 24 (liability of employers and principals) or 25 (aiding unlawful acts) to be treated as having committed against him such an act,
@@ -1033,7 +1033,7 @@ the employer in relation to the scheme shall, for the purposes of the rules gove
 
 ### Remedies in industrial tribunals
 
-**7.**[^key-6125c74b9d96ca9774dee4f23440f9a7] (1) This paragraph applies where –
+**7.**[^c-6125c74b9d96ca9774dee4f23440f9a7] (1) This paragraph applies where –
 
 - (a) under regulation 34 (jurisdiction of industrial tribunals) a member or prospective member of an occupational pension scheme (“the complainant”) presents to an industrial tribunal a complaint against the trustees or managers of the scheme or his employer;
 - (b) the complainant is not a pensioner member of the scheme;
@@ -1055,7 +1055,7 @@ the employer in relation to the scheme shall, for the purposes of the rules gove
 - (a) for injury to feelings;
 - (b) by virtue of regulation 36(3).
 
-## SCHEDULE 2[^key-27dff56dfc13db098ebe35c76c778bcb]
+## SCHEDULE 2[^c-27dff56dfc13db098ebe35c76c778bcb]
 
 Regulation 39(1)
 
@@ -1063,7 +1063,7 @@ QUESTIONNAIRE OF PERSON AGGRIEVED
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/497/images/nisr_20030497_en_001)
 
-## SCHEDULE 3[^key-69357c166095487e4c178de7d047d89d]
+## SCHEDULE 3[^c-69357c166095487e4c178de7d047d89d]
 
 Regulation 39(1)
 
@@ -1077,7 +1077,7 @@ Regulation 42
 
 ### PART I — validity and revision of contracts
 
-**1.**[^key-471c90c8fac5c1f7a2627332184b98cb] (1) A term of a contract is void where –
+**1.**[^c-471c90c8fac5c1f7a2627332184b98cb] (1) A term of a contract is void where –
 
 - (a) the making of the contract is, by reason of the inclusion of the term, unlawful by virtue of these Regulations;
 - (b) it is included in furtherance of an act which is unlawful by virtue of these Regulations; or
@@ -1089,7 +1089,7 @@ Regulation 42
 
 (4) Sub-paragraphs (1), (2) and (3) shall apply whether the contract was entered into before or after 2 December 2003; but in the case of a contract made before that date, those sub-paragraphs do not apply in relation to any period before that date.
 
-**2.**[^key-2db272fd4cf26b395b85136d7a77c319] (1) Paragraph 1(3) does not apply –
+**2.**[^c-2db272fd4cf26b395b85136d7a77c319] (1) Paragraph 1(3) does not apply –
 
 - (a) to a contract settling a complaint to which regulation 34(1) (jurisdiction of industrial tribunals) applies where the contract is made with the assistance of the Labour Relations Agency;
 - (b) to a contract settling a complaint to which regulation 34(1) applies if the conditions regulating compromise contracts under this Schedule are satisfied in relation to the contract; or
@@ -1132,7 +1132,7 @@ Regulation 42
   - (ii) the agreement is to submit it to arbitration in accordance with the scheme, but
 - (b) shall be regarded as neither being nor including such a contract in any other case.
 
-**3.**[^key-8ca412493e3ce2456d5c8e9d5122c924] (1) On the application of a person interested in a contract to which paragraph 1(1) or (2) applies, a county court may make such order as it thinks fit for –
+**3.**[^c-8ca412493e3ce2456d5c8e9d5122c924] (1) On the application of a person interested in a contract to which paragraph 1(1) or (2) applies, a county court may make such order as it thinks fit for –
 
 - (a) removing or modifying any term rendered void by paragraph 1(1), or
 - (b) removing or modifying any term made unenforceable by paragraph 1(2);
@@ -1143,7 +1143,7 @@ but such an order shall not be made unless all persons affected have been given 
 
 ### PART II — collective agreements and rules of undertakings
 
-**4.**[^key-7056dcc4585847b0c0ba213a57f83860] (1) This Part of this Schedule applies to –
+**4.**[^c-7056dcc4585847b0c0ba213a57f83860] (1) This Part of this Schedule applies to –
 
 - (a) any term of a collective agreement, including an agreement which was not intended, or is presumed not to have been intended, to be a legally enforceable contract;
 - (b) any rule made by an employer for application to all or any of the persons who are employed by him or who apply to be, or are, considered by him for employment;
@@ -1159,14 +1159,14 @@ but such an order shall not be made unless all persons affected have been given 
 
 (3) Sub-paragraph (2) shall apply whether the agreement was entered into, or the rule made, before or after 2nd December 2003; but in the case of an agreement entered into, or a rule made, before 2nd December 2003, that sub-paragraph does not apply in relation to any period before that date.
 
-**5.**[^key-fdfd56500161346221717c10c83b56ba] A person to whom this paragraph applies may present a complaint to an industrial tribunal that a term or rule is void by virtue of paragraph 4 if he has reason to believe –
+**5.**[^c-fdfd56500161346221717c10c83b56ba] A person to whom this paragraph applies may present a complaint to an industrial tribunal that a term or rule is void by virtue of paragraph 4 if he has reason to believe –
 
 - (a) that the term or rule may at some future time have effect in relation to him; and
 - (b) where he alleges that it is void by virtue of paragraph 4(2)(c), that –
   - (i) an act for the doing of which it provides, may at some such time be done in relation to him, and
   - (ii) the act would be unlawful by virtue of these Regulations if done in relation to him in present circumstances.
 
-**6.**[^key-f3d74c6b1a80068c30d72d84729c48f0] In the case of a complaint about –
+**6.**[^c-f3d74c6b1a80068c30d72d84729c48f0] In the case of a complaint about –
 
 - (a) a term of a collective agreement made by or on behalf of –
   - (i) an employer,
@@ -1176,30 +1176,30 @@ but such an order shall not be made unless all persons affected have been given 
 
 paragraph 5 applies to any person who is, or is genuinely and actively seeking to become, one of his employees.
 
-**7.**[^key-fdda030aa99554e91de4a4113d1fcff8] In the case of a complaint about a rule made by an organisation or body to which paragraph 4(1)(c) applies, paragraph 5 applies to any person –
+**7.**[^c-fdda030aa99554e91de4a4113d1fcff8] In the case of a complaint about a rule made by an organisation or body to which paragraph 4(1)(c) applies, paragraph 5 applies to any person –
 
 - (a) who is, or is genuinely and actively seeking to become, a member of the organisation or body;
 - (b) on whom the organisation or body has conferred a professional or trade qualification (within the meaning of regulation 18); or
 - (c) who is genuinely and actively seeking such a professional or trade qualification which the organisation or body has power to confer.
 
-**8.**[^key-460bc0bd9409ff79f39ac991f1089f3a] (1) When an industrial tribunal finds that a complaint presented to it under paragraph 5 is well-founded the tribunal shall make an order declaring that the term or rule is void.
+**8.**[^c-460bc0bd9409ff79f39ac991f1089f3a] (1) When an industrial tribunal finds that a complaint presented to it under paragraph 5 is well-founded the tribunal shall make an order declaring that the term or rule is void.
 
 (2) An order under sub-paragraph (1) may include provision as respects any period before the making of the order (but after 2nd December 2003).
 
-**9.**[^key-a9cad21c5340bd390d21b6e10e0423f3] The avoidance by virtue of paragraph 4(2) of any term or rule which provides for any person to be discriminated against shall be without prejudice to the following rights (except in so far as they enable any person to require another person to be treated less favourably than himself), namely –
+**9.**[^c-a9cad21c5340bd390d21b6e10e0423f3] The avoidance by virtue of paragraph 4(2) of any term or rule which provides for any person to be discriminated against shall be without prejudice to the following rights (except in so far as they enable any person to require another person to be treated less favourably than himself), namely –
 
 - (a) such of the rights of the person to be discriminated against; and
 - (b) such of the rights of any person who will be treated more favourably in direct or indirect consequence of the discrimination,
 
 as are conferred by or in respect of a contract made or modified wholly or partly in pursuance of, or by reference to, that term or rule.
 
-**10.**[^key-5ec02f6563b0773808e0c8fea8d4366f] In this Schedule “collective agreement” means any agreement relating to one or more of the matters mentioned in Article 96(1) of the Industrial Relations (Northern Ireland) Order 1992 (meaning of trade dispute), being an agreement made by or on behalf of one or more employers or one or more organisations of employers or associations of such organisations with one or more organisations of workers or associations of such organisations.
+**10.**[^c-5ec02f6563b0773808e0c8fea8d4366f] In this Schedule “collective agreement” means any agreement relating to one or more of the matters mentioned in Article 96(1) of the Industrial Relations (Northern Ireland) Order 1992 (meaning of trade dispute), being an agreement made by or on behalf of one or more employers or one or more organisations of employers or associations of such organisations with one or more organisations of workers or associations of such organisations.
 
 ## SCHEDULE 5 — AMENDMENTS TO LEGISLATION
 
 Regulation 44
 
-**1.**[^key-ae5908493fb3a8fe0e55d887ca028897] The Industrial Tribunals (Northern Ireland) Order 1996[^f00033] is amended as follows.
+**1.**[^c-ae5908493fb3a8fe0e55d887ca028897] The Industrial Tribunals (Northern Ireland) Order 1996[^f00033] is amended as follows.
 
 In Article 20(1)(a) (cases where conciliation provisions apply) –
 
@@ -1212,14 +1212,14 @@ In Article 20(1)(a) (cases where conciliation provisions apply) –
 
   .
 
-**2.**[^key-90f4737c0e28b179be13ca6ea930bd4e] Article 160 (compensation for acts which are both unfair dismissal and discrimination) of the Employment Rights (Northern Ireland) Order 1996[^f00034] is amended as follows –
+**2.**[^c-90f4737c0e28b179be13ca6ea930bd4e] Article 160 (compensation for acts which are both unfair dismissal and discrimination) of the Employment Rights (Northern Ireland) Order 1996[^f00034] is amended as follows –
 
 - (a) in sub-paragraph (b) of paragraph (1) –
   - (i) after “Disability Discrimination Act 1995” there is omitted “and”;
   - (ii) after “Race Relations (Northern Ireland) 1997” there is inserted “and the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003”;
 - (b) after “those Orders” insert “or Regulations”.
 
-**3.**[^key-1520e20409176f4cd8297adeed4de20e] (1) In Article 85(1) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00035] (procedure for matters within jurisdiction of industrial tribunal) –
+**3.**[^c-1520e20409176f4cd8297adeed4de20e] (1) In Article 85(1) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00035] (procedure for matters within jurisdiction of industrial tribunal) –
 
 - (a) in sub-paragraph (a) after head (iv) add –
 
@@ -1234,7 +1234,7 @@ In Article 20(1)(a) (cases where conciliation provisions apply) –
 
 .
 
-**4.**[^key-80c1ea7d8e1a94de5d33dcf988c3fda5] In the Employment Order (Northern Ireland) 2003[^f00036] at the end of each of the following Schedules –
+**4.**[^c-80c1ea7d8e1a94de5d33dcf988c3fda5] In the Employment Order (Northern Ireland) 2003[^f00036] at the end of each of the following Schedules –
 
 - (a) Schedule 2 (tribunal jurisdictions to which Article 17 applies);
 - (b) Schedule 3 (tribunal jurisdictions to which Article 19 applies); and
@@ -1270,11 +1270,11 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00002]: Footnote: *See* the European Communities (Designation) (No. 3) Order 2002 (S.I. [2002/1819](https://www.legislation.gov.uk/uksi/2002/1819))
 
-[^key-f4f613c3f3e800fece014910b7f16258]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/497): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-f4f613c3f3e800fece014910b7f16258]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/497): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-1ff349ff5e463ae9811c5d129712b935]: Commencement: Reg. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-1ff349ff5e463ae9811c5d129712b935]: Commencement: Reg. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-fb7e7b29d38be36b2678697fc5fa0023]: Commencement: Reg. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-fb7e7b29d38be36b2678697fc5fa0023]: Commencement: Reg. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -1282,252 +1282,252 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00005]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-0079fe9fa861a97d3a824cffac17234f]: Commencement: Reg. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-0079fe9fa861a97d3a824cffac17234f]: Commencement: Reg. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-00dcb6b35f102c2b790c690e17d419ff]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2003/497/regulation/3/3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order (Northern Ireland) 2005 (S.R. 2005/520)](https://www.legislation.gov.uk/nisr/2005/520), [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/520/article/1/1), [Sch. para. 18(1)](https://www.legislation.gov.uk/nisr/2005/520/schedule/paragraph/18/1)
+[^c-00dcb6b35f102c2b790c690e17d419ff]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2003/497/regulation/3/3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order (Northern Ireland) 2005 (S.R. 2005/520)](https://www.legislation.gov.uk/nisr/2005/520), [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/520/article/1/1), [Sch. para. 18(1)](https://www.legislation.gov.uk/nisr/2005/520/schedule/paragraph/18/1)
 
-[^key-c9c26a86888d9ae4ee295c78c26c9700]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2003/497/regulation/3/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [155](https://www.legislation.gov.uk/uksi/2019/1514/regulation/155) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c9c26a86888d9ae4ee295c78c26c9700]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2003/497/regulation/3/4) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [155](https://www.legislation.gov.uk/uksi/2019/1514/regulation/155) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-d1ece7a2d2b8de1f09b0744e41628448]: Commencement: Reg. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-d1ece7a2d2b8de1f09b0744e41628448]: Commencement: Reg. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-4e312836e7e8db3e63cb03039aa14d07]: Commencement: Reg. 5 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-4e312836e7e8db3e63cb03039aa14d07]: Commencement: Reg. 5 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-3c0e6b55d2c098a7fa326dec29f80e9d]: Commencement: Reg. 6 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-3c0e6b55d2c098a7fa326dec29f80e9d]: Commencement: Reg. 6 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-32f6072949555958df098b3a4861cc75]: Commencement: Reg. 7 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-32f6072949555958df098b3a4861cc75]: Commencement: Reg. 7 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-6dba89b4f53667f614d4475c635e6064]: Commencement: Reg. 8 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-6dba89b4f53667f614d4475c635e6064]: Commencement: Reg. 8 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-f8ef41e3dfe9086ddef7b1eb1831ff2b]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/nisr/2003/497/regulation/8/4) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2020/1143/regulation/42)
+[^c-f8ef41e3dfe9086ddef7b1eb1831ff2b]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/nisr/2003/497/regulation/8/4) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2020/1143/regulation/42)
 
-[^key-7d0a235877294560b55ed2b559c42536]: Commencement: Reg. 9 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-7d0a235877294560b55ed2b559c42536]: Commencement: Reg. 9 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-e32142c825c48307d41f12b163ed7bf8]: Commencement: Reg. 10 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-e32142c825c48307d41f12b163ed7bf8]: Commencement: Reg. 10 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00006]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)
 
-[^key-9b76d0311d7898d78fcb07695a71675b]: Commencement: Reg. 11 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-9b76d0311d7898d78fcb07695a71675b]: Commencement: Reg. 11 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-61a83a4b5280e1df46677dc3652f82de]: Commencement: Reg. 12 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-61a83a4b5280e1df46677dc3652f82de]: Commencement: Reg. 12 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00007]: Footnote: [1958 c. 21](https://www.legislation.gov.uk/ukpga/1958/21)
 
-[^key-04a92095fc6347d4f1dc2f8e52cf8f70]: Commencement: Reg. 13 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-04a92095fc6347d4f1dc2f8e52cf8f70]: Commencement: Reg. 13 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-40a75a191c3ac4319af3efce6fce6b99]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/13/1) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/2)
+[^c-40a75a191c3ac4319af3efce6fce6b99]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/13/1) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(2)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/2)
 
-[^key-d539ee1b207a87a022312c57bcd3d444]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2003/497/regulation/13/2) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/3)
+[^c-d539ee1b207a87a022312c57bcd3d444]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2003/497/regulation/13/2) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(3)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/3)
 
 [^f00008]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
 [^f00009]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
 
-[^key-b347d8f5c0982851e0d86df649002498]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/13/6/a) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/38)
+[^c-b347d8f5c0982851e0d86df649002498]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/13/6/a) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/38)
 
 [^f00010]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
 [^f00011]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-40d738594b76d1fca5593064c76cd8c6]: Commencement: Reg. 14 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-40d738594b76d1fca5593064c76cd8c6]: Commencement: Reg. 14 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-9fd62ee9fe9a7c5281f0b2ec09f01e61]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14/1) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(5)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/5)
+[^c-9fd62ee9fe9a7c5281f0b2ec09f01e61]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14/1) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(5)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/5)
 
-[^key-525c01ab7510e6f037960b364f69ce98]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14/2) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(6)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/6)
+[^c-525c01ab7510e6f037960b364f69ce98]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14/2) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(6)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/6)
 
-[^key-941a118b19ec35b358303f23633746a2]: Textual amendment: [Reg. 14(6)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14/6) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(7)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/7)
+[^c-941a118b19ec35b358303f23633746a2]: Textual amendment: [Reg. 14(6)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14/6) substituted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 42(7)](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/42/7)
 
-[^key-5dfe8cc4ded020006aefe0350d5b4299]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A) heading substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(2)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/2)
+[^c-5dfe8cc4ded020006aefe0350d5b4299]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A) heading substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(2)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/2)
 
-[^key-5843b669f6a0c435354d169dd1914506]: Textual amendment: Words in [reg. 14A(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/1) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(3)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/3/a)
+[^c-5843b669f6a0c435354d169dd1914506]: Textual amendment: Words in [reg. 14A(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/1) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(3)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/3/a)
 
-[^key-09d6ca078ad5b016bf7243b2961aaf35]: Textual amendment: Words in [reg. 14A(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/1) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/3/b)
+[^c-09d6ca078ad5b016bf7243b2961aaf35]: Textual amendment: Words in [reg. 14A(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/1) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/3/b)
 
-[^key-328c06415f3d98bee9c0249d58cf97a9]: Textual amendment: Words in [reg. 14A(2)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/2/a) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(4)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/4/a)
+[^c-328c06415f3d98bee9c0249d58cf97a9]: Textual amendment: Words in [reg. 14A(2)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/2/a) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(4)(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/4/a)
 
-[^key-ac1cc82b6c79e438fed6f6cccf20787f]: Textual amendment: Words in [reg. 14A(2)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/2/a) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(4)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/4/b)
+[^c-ac1cc82b6c79e438fed6f6cccf20787f]: Textual amendment: Words in [reg. 14A(2)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/2/a) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(4)(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/4/b)
 
-[^key-74388bb58ec5961fd36e26e563a82535]: Textual amendment: Words in [reg. 14A(3)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/3) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(5)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/5)
+[^c-74388bb58ec5961fd36e26e563a82535]: Textual amendment: Words in [reg. 14A(3)](https://www.legislation.gov.uk/nisr/2003/497/regulation/14A/3) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 39(5)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/39/5)
 
-[^key-91a3a6b4fc86bc77deb89d7106e18eb2]: Commencement: Reg. 15 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-91a3a6b4fc86bc77deb89d7106e18eb2]: Commencement: Reg. 15 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-32596d30ae3e427d62848582ced77197]: Commencement: Reg. 16 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-32596d30ae3e427d62848582ced77197]: Commencement: Reg. 16 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00012]: Footnote: [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24)
 
 [^f00013]: Footnote: [1890 c. 39](https://www.legislation.gov.uk/ukpga/1890/39)
 
-[^key-d8cc09ab95ee27cf7bf9db6d4ec5e719]: Commencement: Reg. 17 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-d8cc09ab95ee27cf7bf9db6d4ec5e719]: Commencement: Reg. 17 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-4da439ec2d1767508ffb9eed2291850f]: Commencement: Reg. 18 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-4da439ec2d1767508ffb9eed2291850f]: Commencement: Reg. 18 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-e34bafc27a79f3157decf054ed24c142]: Commencement: Reg. 19 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-e34bafc27a79f3157decf054ed24c142]: Commencement: Reg. 19 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-a83ae49591d335884942747ee70d6958]: Commencement: Reg. 20 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-a83ae49591d335884942747ee70d6958]: Commencement: Reg. 20 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-4e3b565d630eb44097a8f680c7cc1a74]: Commencement: Reg. 21 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-4e3b565d630eb44097a8f680c7cc1a74]: Commencement: Reg. 21 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-2760b0d26f35a57eafb69ec9bd6d40fb]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/497/regulation/21): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-2760b0d26f35a57eafb69ec9bd6d40fb]: Modification: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/497/regulation/21): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-5400f4ff63a911fd9c4dbb30d20b14bd]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/21/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 50(a)(i)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/50/a/i) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5400f4ff63a911fd9c4dbb30d20b14bd]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/21/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 50(a)(i)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/50/a/i) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^f00014]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29) as amended by S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087) Art.3; *see also* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999, Art. 4 and Schedule 2, Part II.
 
-[^key-2fd20e196d5565ce21191b5da17727e8]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/21/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 50(a)(ii)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/50/a/ii) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-2fd20e196d5565ce21191b5da17727e8]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/21/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 50(a)(ii)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/50/a/ii) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b7d2797d9fd3eabd16d0b0c1c227966e]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2003/497/regulation/21/2/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 50(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/50/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b7d2797d9fd3eabd16d0b0c1c227966e]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2003/497/regulation/21/2/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 50(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/50/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-cd74b7bbb0b1185f7efaf60746cad201]: Commencement: Reg. 22 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-cd74b7bbb0b1185f7efaf60746cad201]: Commencement: Reg. 22 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00015]: Footnote: S.I. [1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772)
 
 [^f00016]: Footnote: S.I. [1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810)
 
-[^key-646693fedf26d6cad4a9ad36cb61ab88]: Commencement: Reg. 23 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-646693fedf26d6cad4a9ad36cb61ab88]: Commencement: Reg. 23 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-39657ada18f3d2057c5b68f01d7c1665]: Commencement: Reg. 24 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-39657ada18f3d2057c5b68f01d7c1665]: Commencement: Reg. 24 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-90c5f1ce46157c8b939a81f2afe2eb42]: Commencement: Reg. 25 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-90c5f1ce46157c8b939a81f2afe2eb42]: Commencement: Reg. 25 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-92b05a3333a1aa69c980083e5cab73e9]: Commencement: Reg. 26 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-92b05a3333a1aa69c980083e5cab73e9]: Commencement: Reg. 26 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-2b6665fd526636b7dfa8cdb61afc99c2]: Commencement: Reg. 27 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-2b6665fd526636b7dfa8cdb61afc99c2]: Commencement: Reg. 27 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00017]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
 
-[^key-d23b505f64c2ccbfac72e9f033f53d1e]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/nisr/2003/497/regulation/28) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order (Northern Ireland) 2005 (S.R. 2005/520)](https://www.legislation.gov.uk/nisr/2005/520), [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/520/article/1/1), [Sch. para. 18(2)](https://www.legislation.gov.uk/nisr/2005/520/schedule/paragraph/18/2)
+[^c-d23b505f64c2ccbfac72e9f033f53d1e]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/nisr/2003/497/regulation/28) substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order (Northern Ireland) 2005 (S.R. 2005/520)](https://www.legislation.gov.uk/nisr/2005/520), [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/520/article/1/1), [Sch. para. 18(2)](https://www.legislation.gov.uk/nisr/2005/520/schedule/paragraph/18/2)
 
-[^key-75f050e0c8a23e3e87f399b4e2b03226]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/28/1): reg. 28 renumbered as reg. 28(1) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/5/2)
+[^c-75f050e0c8a23e3e87f399b4e2b03226]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/nisr/2003/497/regulation/28/1): reg. 28 renumbered as reg. 28(1) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/5/2)
 
-[^key-e0934925fa1b68399fa6eef524064f4d]: Textual amendment: [Reg. 28(2)-(4)](https://www.legislation.gov.uk/nisr/2003/497/regulation/28/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/5/3)
+[^c-e0934925fa1b68399fa6eef524064f4d]: Textual amendment: [Reg. 28(2)-(4)](https://www.legislation.gov.uk/nisr/2003/497/regulation/28/2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/5/3)
 
-[^key-c25e277b48803ed3a6832bbd1797d54f]: Commencement: Reg. 29 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-c25e277b48803ed3a6832bbd1797d54f]: Commencement: Reg. 29 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-6307bdf039c94f5d1be2d7e19500e8d9]: Commencement: Reg. 30 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-6307bdf039c94f5d1be2d7e19500e8d9]: Commencement: Reg. 30 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-2819f8eb058798c96a0bdbb502eb6474]: Commencement: Reg. 31 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-2819f8eb058798c96a0bdbb502eb6474]: Commencement: Reg. 31 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-45f967440ac3ad0e18d67e1f0522de13]: Commencement: Reg. 32 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-45f967440ac3ad0e18d67e1f0522de13]: Commencement: Reg. 32 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-25ca8cacdbe9656f985949ba6131a06b]: Commencement: Reg. 33 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-25ca8cacdbe9656f985949ba6131a06b]: Commencement: Reg. 33 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00018]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-8347549f254e7d854708363332c71059]: Commencement: Reg. 34 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-8347549f254e7d854708363332c71059]: Commencement: Reg. 34 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00019]: Footnote: S.I. [1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
 
-[^key-ebd9ab3c2a24b00aa6cca0b1baf57575]: Commencement: Reg. 35 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-ebd9ab3c2a24b00aa6cca0b1baf57575]: Commencement: Reg. 35 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-aeb96fa0a0403c7cb60de4255c9909b6]: Commencement: Reg. 36 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-aeb96fa0a0403c7cb60de4255c9909b6]: Commencement: Reg. 36 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00020]: Footnote: [S.R. 2003 No. 498](https://www.legislation.gov.uk/nisr/2003/498)
 
-[^key-cd0a492efe0edbd942d6a99fdb93719d]: Commencement: Reg. 37 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-cd0a492efe0edbd942d6a99fdb93719d]: Commencement: Reg. 37 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-e027b26e85aa70e7838973b828bb3b50]: Commencement: Reg. 38 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-e027b26e85aa70e7838973b828bb3b50]: Commencement: Reg. 38 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-2f42712756879b0b9060e5570fdc90c7]: Commencement: Reg. 39 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-2f42712756879b0b9060e5570fdc90c7]: Commencement: Reg. 39 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-c8706ba845c8e0263e67a9d8ab88c089]: Textual amendment: [Reg. 39(4)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/39/4/a) substituted (3.4.2005) by [Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 (S.R. 2004/521)](https://www.legislation.gov.uk/nisr/2004/521), [regs. 1](https://www.legislation.gov.uk/nisr/2004/521/regulation/1), [17(g)(i)](https://www.legislation.gov.uk/nisr/2004/521/regulation/17/g/i) (with [reg. 18](https://www.legislation.gov.uk/nisr/2004/521/regulation/18))
+[^c-c8706ba845c8e0263e67a9d8ab88c089]: Textual amendment: [Reg. 39(4)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/39/4/a) substituted (3.4.2005) by [Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 (S.R. 2004/521)](https://www.legislation.gov.uk/nisr/2004/521), [regs. 1](https://www.legislation.gov.uk/nisr/2004/521/regulation/1), [17(g)(i)](https://www.legislation.gov.uk/nisr/2004/521/regulation/17/g/i) (with [reg. 18](https://www.legislation.gov.uk/nisr/2004/521/regulation/18))
 
 [^f00021]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
-[^key-dec33ed62abffe9d2f603e5359de6410]: Commencement: Reg. 40 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-dec33ed62abffe9d2f603e5359de6410]: Commencement: Reg. 40 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00022]: Footnote: S.I. [1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
 [^f00023]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-c4ad71d38381188bb77ac3be8bd135c7]: Commencement: Reg. 41 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-c4ad71d38381188bb77ac3be8bd135c7]: Commencement: Reg. 41 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-1d155c6d56acb0ce76ea213b7e1c59e2]: Textual amendment: [Reg. 41(1A)](https://www.legislation.gov.uk/nisr/2003/497/regulation/41/1A) inserted (3.4.2005) by [Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 (S.R. 2004/521)](https://www.legislation.gov.uk/nisr/2004/521), [regs. 1](https://www.legislation.gov.uk/nisr/2004/521/regulation/1), [17(g)(ii)](https://www.legislation.gov.uk/nisr/2004/521/regulation/17/g/ii) (with [reg. 18](https://www.legislation.gov.uk/nisr/2004/521/regulation/18))
+[^c-1d155c6d56acb0ce76ea213b7e1c59e2]: Textual amendment: [Reg. 41(1A)](https://www.legislation.gov.uk/nisr/2003/497/regulation/41/1A) inserted (3.4.2005) by [Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004 (S.R. 2004/521)](https://www.legislation.gov.uk/nisr/2004/521), [regs. 1](https://www.legislation.gov.uk/nisr/2004/521/regulation/1), [17(g)(ii)](https://www.legislation.gov.uk/nisr/2004/521/regulation/17/g/ii) (with [reg. 18](https://www.legislation.gov.uk/nisr/2004/521/regulation/18))
 
-[^key-c47ae6e1d43c551ace5835e2d4364db7]: Textual amendment: [Reg. 41(1B)](https://www.legislation.gov.uk/nisr/2003/497/regulation/41/1B) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 26](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/26)
+[^c-c47ae6e1d43c551ace5835e2d4364db7]: Textual amendment: [Reg. 41(1B)](https://www.legislation.gov.uk/nisr/2003/497/regulation/41/1B) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 26](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/26)
 
-[^key-21d5dd7a0cf5be21e62fb66417ca9c8c]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/nisr/2003/497/regulation/41A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 27](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/27)
+[^c-21d5dd7a0cf5be21e62fb66417ca9c8c]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/nisr/2003/497/regulation/41A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 27](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/27)
 
-[^key-8c22464cfc4faf2dbc8c30f86135880e]: Commencement: Reg. 42 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-8c22464cfc4faf2dbc8c30f86135880e]: Commencement: Reg. 42 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-c02e00ee11811ee4873c86252ec5c1ef]: Commencement: Reg. 43 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-c02e00ee11811ee4873c86252ec5c1ef]: Commencement: Reg. 43 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00024]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44)
 
-[^key-fe4513c0628afe3a40d5be06a58d9990]: Textual amendment: [Reg. 43(7)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/7/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-fe4513c0628afe3a40d5be06a58d9990]: Textual amendment: [Reg. 43(7)(a)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/7/a) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-5e27a74748c11cf35de3bb8354a30064]: Textual amendment: [Reg. 43(8)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/8) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-5e27a74748c11cf35de3bb8354a30064]: Textual amendment: [Reg. 43(8)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/8) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-e3589bfb8f2524d1068c9f5ecbe1ea6c]: Textual amendment: Words in [reg. 43(8)(c)(i)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/8/c/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/7/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-e3589bfb8f2524d1068c9f5ecbe1ea6c]: Textual amendment: Words in [reg. 43(8)(c)(i)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/8/c/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/7/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-e46a2f06c93c85ccd39b12a358997e7f]: Textual amendment: Word in [reg. 43(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/8/c/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/7/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-e46a2f06c93c85ccd39b12a358997e7f]: Textual amendment: Word in [reg. 43(8)(c)(ii)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/8/c/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/7/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-4e3d4cf58d3251490bb50dd4f2b078f0]: Textual amendment: Words in [reg. 43(9)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/9) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-4e3d4cf58d3251490bb50dd4f2b078f0]: Textual amendment: Words in [reg. 43(9)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/9) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
 [^f00025]: Footnote: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24)
 
-[^key-83264451b89b94bbcd72c385554e363f]: Textual amendment: Words in [reg. 43(10)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/10) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(d)(i)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/d/i); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-83264451b89b94bbcd72c385554e363f]: Textual amendment: Words in [reg. 43(10)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/10) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(d)(i)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/d/i); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-968046f4e5faf01def03ace5979a5e70]: Textual amendment: Words in [reg. 43(10)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/10) inserted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/d/ii); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-968046f4e5faf01def03ace5979a5e70]: Textual amendment: Words in [reg. 43(10)](https://www.legislation.gov.uk/nisr/2003/497/regulation/43/10) inserted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 7(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/7/d/ii); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-5d16a630db7eb2f06ee378362455df13]: Commencement: Reg. 44 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-5d16a630db7eb2f06ee378362455df13]: Commencement: Reg. 44 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-22c433c4d8cd85eeb83aa161eb640a67]: Commencement: Sch. 1 para. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-22c433c4d8cd85eeb83aa161eb640a67]: Commencement: Sch. 1 para. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00029]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
 [^f00030]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-6a3c548bca8c766135930cdad58f88c8]: Commencement: Sch. 1 para. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-6a3c548bca8c766135930cdad58f88c8]: Commencement: Sch. 1 para. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-3adfcfe6e89e420991c224d13b7fac99]: Commencement: Sch. 1 para. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-3adfcfe6e89e420991c224d13b7fac99]: Commencement: Sch. 1 para. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-47e3a942c2ff80813ee054c4e8549239]: Commencement: Sch. 1 para. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-47e3a942c2ff80813ee054c4e8549239]: Commencement: Sch. 1 para. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-e021be5aba3eb1bf54eb2f71c9d79522]: Commencement: Sch. 1 para. 5 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-e021be5aba3eb1bf54eb2f71c9d79522]: Commencement: Sch. 1 para. 5 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-52049c0aa446297ade250a248fb9f371]: Commencement: Sch. 1 para. 6 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-52049c0aa446297ade250a248fb9f371]: Commencement: Sch. 1 para. 6 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-6125c74b9d96ca9774dee4f23440f9a7]: Commencement: Sch. 1 para. 7 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-6125c74b9d96ca9774dee4f23440f9a7]: Commencement: Sch. 1 para. 7 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-27dff56dfc13db098ebe35c76c778bcb]: Commencement: Sch. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-27dff56dfc13db098ebe35c76c778bcb]: Commencement: Sch. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-69357c166095487e4c178de7d047d89d]: Commencement: Sch. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-69357c166095487e4c178de7d047d89d]: Commencement: Sch. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-471c90c8fac5c1f7a2627332184b98cb]: Commencement: Sch. 4 para. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-471c90c8fac5c1f7a2627332184b98cb]: Commencement: Sch. 4 para. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-2db272fd4cf26b395b85136d7a77c319]: Commencement: Sch. 4 para. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-2db272fd4cf26b395b85136d7a77c319]: Commencement: Sch. 4 para. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00031]: Footnote: S.I. [1992/807 (N.I.5)](https://www.legislation.gov.uk/nisi/1992/807)
 
 [^f00032]: Footnote: Article 84A was inserted by Article 8 of the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998 (S.I. [1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265))
 
-[^key-8ca412493e3ce2456d5c8e9d5122c924]: Commencement: Sch. 4 para. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-8ca412493e3ce2456d5c8e9d5122c924]: Commencement: Sch. 4 para. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-7056dcc4585847b0c0ba213a57f83860]: Commencement: Sch. 4 para. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-7056dcc4585847b0c0ba213a57f83860]: Commencement: Sch. 4 para. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-fdfd56500161346221717c10c83b56ba]: Commencement: Sch. 4 para. 5 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-fdfd56500161346221717c10c83b56ba]: Commencement: Sch. 4 para. 5 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-f3d74c6b1a80068c30d72d84729c48f0]: Commencement: Sch. 4 para. 6 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-f3d74c6b1a80068c30d72d84729c48f0]: Commencement: Sch. 4 para. 6 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-fdda030aa99554e91de4a4113d1fcff8]: Commencement: Sch. 4 para. 7 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-fdda030aa99554e91de4a4113d1fcff8]: Commencement: Sch. 4 para. 7 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-460bc0bd9409ff79f39ac991f1089f3a]: Commencement: Sch. 4 para. 8 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-460bc0bd9409ff79f39ac991f1089f3a]: Commencement: Sch. 4 para. 8 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-a9cad21c5340bd390d21b6e10e0423f3]: Commencement: Sch. 4 para. 9 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-a9cad21c5340bd390d21b6e10e0423f3]: Commencement: Sch. 4 para. 9 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-5ec02f6563b0773808e0c8fea8d4366f]: Commencement: Sch. 4 para. 10 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-5ec02f6563b0773808e0c8fea8d4366f]: Commencement: Sch. 4 para. 10 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
-[^key-ae5908493fb3a8fe0e55d887ca028897]: Commencement: Sch. 5 para. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-ae5908493fb3a8fe0e55d887ca028897]: Commencement: Sch. 5 para. 1 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00033]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-90f4737c0e28b179be13ca6ea930bd4e]: Commencement: Sch. 5 para. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-90f4737c0e28b179be13ca6ea930bd4e]: Commencement: Sch. 5 para. 2 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00034]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-1520e20409176f4cd8297adeed4de20e]: Commencement: Sch. 5 para. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-1520e20409176f4cd8297adeed4de20e]: Commencement: Sch. 5 para. 3 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00035]: Footnote: S.I. [1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
 
-[^key-80c1ea7d8e1a94de5d33dcf988c3fda5]: Commencement: Sch. 5 para. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
+[^c-80c1ea7d8e1a94de5d33dcf988c3fda5]: Commencement: Sch. 5 para. 4 in operation at 2.12.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/497/regulation/1)
 
 [^f00036]: Footnote: S.I. [2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902)

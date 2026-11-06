@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Where a dismissal is unfair by virtue of section 152(1) or 153, the amount of the basic award of compensation, before any reduction is made under section 122 of the Employment Rights Act 1996[^c14517081], shall be not less than £9,157[^key-80895aeabeeae428c4828095ff7535d3].
+(1) Where a dismissal is unfair by virtue of section 152(1) or 153, the amount of the basic award of compensation, before any reduction is made under section 122 of the Employment Rights Act 1996[^c14517081], shall be not less than £9,157[^c-80895aeabeeae428c4828095ff7535d3].
 
 (2) But where the dismissal is unfair by virtue of section 153, subsection (2)[^c14517101] of that section (reduction for contributory fault) applies in relation to so much of the basic award as is payable because of subsection (1) above.
 
@@ -30,6 +30,6 @@ summary: ''
 
 [^c14517081]: Textual amendment: Words in s. 156(1) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 56(9)(a)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/56/9/a) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-80895aeabeeae428c4828095ff7535d3]: Textual amendment: Sum in s. 156(1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-80895aeabeeae428c4828095ff7535d3]: Textual amendment: Sum in s. 156(1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
 
 [^c14517101]: Textual amendment: Words in s. 156(2) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 56(9)(b)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/56/9/b) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))

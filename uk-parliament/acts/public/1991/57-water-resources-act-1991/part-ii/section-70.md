@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-Except in so far as this Act otherwise expressly provides and subject to the provisions of section 18 of the [^c18731701]Interpretation Act 1978 (which relates to offences under two or more laws), the restrictions imposed by sections 24 and 25[^key-f1066931a6a0041ac9d99b478c3b7326] above shall not be construed as—
+Except in so far as this Act otherwise expressly provides and subject to the provisions of section 18 of the [^c18731701]Interpretation Act 1978 (which relates to offences under two or more laws), the restrictions imposed by sections 24 and 25[^c-f1066931a6a0041ac9d99b478c3b7326] above shall not be construed as—
 
 - (a) conferring a right of action in any civil proceedings (other than proceedings for the recovery of a fine) in respect of any contravention of those restrictions;
 - (b) affecting any restriction imposed by or under any other enactment, whether contained in a public general Act or in a local or private Act; or
@@ -30,4 +30,4 @@ Except in so far as this Act otherwise expressly provides and subject to the pro
 
 [^c18731701]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f1066931a6a0041ac9d99b478c3b7326]: Textual amendment: Words in s. 70 substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/984/article/2/e) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/5))
+[^c-f1066931a6a0041ac9d99b478c3b7326]: Textual amendment: Words in s. 70 substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/984/article/2/e) (with [Sch. paras. 4](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/4), [5](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/5))

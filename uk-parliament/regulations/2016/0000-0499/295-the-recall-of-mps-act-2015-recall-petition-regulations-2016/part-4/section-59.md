@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. The personal identifiers record: England and Wales and Scotland[^key-a01fc071bc4fa1d69cd76a3f171bcf45]
+## 59. The personal identifiers record: England and Wales and Scotland[^c-a01fc071bc4fa1d69cd76a3f171bcf45]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a01fc071bc4fa1d69cd76a3f171bcf45]: Commencement: Reg. 59 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a01fc071bc4fa1d69cd76a3f171bcf45]: Commencement: Reg. 59 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

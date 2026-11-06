@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.1. Stay[^key-db59b634f705f202b3dc6dfcc2737d84]
+## 27.1. Stay[^c-db59b634f705f202b3dc6dfcc2737d84]
 
 *Extent: E*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db59b634f705f202b3dc6dfcc2737d84]: Commencement: [Rule 27.1](https://www.legislation.gov.uk/uksi/2015/1568/article/27.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-db59b634f705f202b3dc6dfcc2737d84]: Commencement: [Rule 27.1](https://www.legislation.gov.uk/uksi/2015/1568/article/27.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Application to the Crown and to the Houses of Parliament[^key-d31893f6573594fce10ec17e44882f46]
+## 49. Application to the Crown and to the Houses of Parliament[^c-d31893f6573594fce10ec17e44882f46]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d31893f6573594fce10ec17e44882f46]: Modification: [Art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49) modified (3.5.2007) by [The National Assembly for Wales Commission (Crown Status) Order 2007 (S.I. 2007/1118)](https://www.legislation.gov.uk/uksi/2007/1118), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1118/article/1/2), [8](https://www.legislation.gov.uk/uksi/2007/1118/article/8)
+[^c-d31893f6573594fce10ec17e44882f46]: Modification: [Art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49) modified (3.5.2007) by [The National Assembly for Wales Commission (Crown Status) Order 2007 (S.I. 2007/1118)](https://www.legislation.gov.uk/uksi/2007/1118), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/1118/article/1/2), [8](https://www.legislation.gov.uk/uksi/2007/1118/article/8)
 
 [^c12250401]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

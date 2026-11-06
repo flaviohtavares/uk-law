@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the words “ invested under section 38 of the Administration of Justice Act 1982 ” shall be substituted for the words “dealt with under section 6 of the Administration of Justice Act 1965” in each case where they occur in the followng enactments—
   - (i) section 46 of the [^c2571951]Chelsea and Kilmainham Hospitals Act 1826;
-  - (ii)[^key-ccef3f9c7b9f190c7f5fc5e11a5651fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-ccef3f9c7b9f190c7f5fc5e11a5651fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) sections 70, 78 and 86 of the [^c2571971]Land Clauses Consolidation Act 1845; and
   - (iv)[^c20820121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the words “ section 42 of the Administration of Justice Act 1982 ” shall be substituted for the words “section 1 of the Administration of Justice Act 1965”—
@@ -54,7 +54,7 @@ summary: ''
 
 [^c2571951]: Marginal citation: [1826 c. 16](https://www.legislation.gov.uk/ukpga/1826/16).
 
-[^key-ccef3f9c7b9f190c7f5fc5e11a5651fd]: Textual amendment: S. 46(2)(a)(ii) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-ccef3f9c7b9f190c7f5fc5e11a5651fd]: Textual amendment: S. 46(2)(a)(ii) repealed (E.) (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c2571971]: Marginal citation: [1845 c. 18](https://www.legislation.gov.uk/ukpga/1845/18).
 

@@ -24,11 +24,11 @@ Section 153
 
 ### PART 1 — Amendments to the Sentencing Code
 
-#### 1. Introductory[^key-9e4126d2472d6e749dc9eef621287072]
+#### 1. Introductory[^c-9e4126d2472d6e749dc9eef621287072]
 
 The Sentencing Code is amended as specified in this Part of this Schedule.
 
-#### 2. Orders that qualify for special procedures[^key-376654315b37ac4f74df0742f3f36d78]
+#### 2. Orders that qualify for special procedures[^c-376654315b37ac4f74df0742f3f36d78]
 
 After section 395 insert—
 
@@ -61,7 +61,7 @@ After section 395 insert—
 > - (a) the negative resolution procedure, where under subsection (1)(b) the regulations specify a period, and
 > - (b) the affirmative resolution procedure, in any other case.
 
-#### 3. Review of community orders[^key-ffbc5b871b8977aec7deef2f1515c3c4]
+#### 3. Review of community orders[^c-ffbc5b871b8977aec7deef2f1515c3c4]
 
 (1) Section 211 (power of Crown Court to direct magistrates’ court supervision) is amended as follows.
 
@@ -71,11 +71,11 @@ After section 395 insert—
 
 > (2) Subsection (1) does not apply to a community order that qualifies for special procedures for the purposes of section 217A.
 
-**4.**[^key-b2f0f466b34f97ad269e4a46349cf212] In section 217 (power to provide for court review of community orders), after subsection (2) insert—
+**4.**[^c-b2f0f466b34f97ad269e4a46349cf212] In section 217 (power to provide for court review of community orders), after subsection (2) insert—
 
 > (2A) Regulations under this section may not make provision in respect of community orders which for the purposes of section 217A qualify for special procedures.
 
-**5.**[^key-1022ba8384efe8ec3526e2f3f716be79] After section 217 insert—
+**5.**[^c-1022ba8384efe8ec3526e2f3f716be79] After section 217 insert—
 
 > **217A. Review of community order qualifying for special procedures**
 >
@@ -168,13 +168,13 @@ After section 395 insert—
 >
 > have the same meanings as in section 217A.
 
-#### 6. Review of suspended sentence orders[^key-9e6a33c02379fbaa8b7ddf71642a92ef]
+#### 6. Review of suspended sentence orders[^c-9e6a33c02379fbaa8b7ddf71642a92ef]
 
 In section 293 (review of suspended sentence orders), at the end insert—
 
 > (7) Nothing in this section applies in relation to suspended sentence orders which qualify for special procedures for the purposes of section 293A.
 
-**7.**[^key-6a2b211a29c6ad5ea1448525aab7aebd] After section 293 insert—
+**7.**[^c-6a2b211a29c6ad5ea1448525aab7aebd] After section 293 insert—
 
 > **293A. Review of suspended sentence order qualifying for special procedures**
 >
@@ -196,7 +196,7 @@ In section 293 (review of suspended sentence orders), at the end insert—
 >
 > (4) For more about suspended sentence orders that qualify for special procedures, see section 395A.
 
-**8.**[^key-df54d4dc8c5d31a0ff331ceab7895e46] (1) Section 294 (review hearings) is amended as follows.
+**8.**[^c-df54d4dc8c5d31a0ff331ceab7895e46] (1) Section 294 (review hearings) is amended as follows.
 
 (2) In subsection (1), after “293” insert “or 293A”.
 
@@ -208,7 +208,7 @@ In section 293 (review of suspended sentence orders), at the end insert—
 
 (5) In subsection (6), after “293(2)” insert “(or, as the case may be, section 293A(2))”.
 
-**9.**[^key-a6b96c40bdc0de2da4b1b8f30d5642fc] (1) Section 295 (alteration of review arrangements) is amended as follows.
+**9.**[^c-a6b96c40bdc0de2da4b1b8f30d5642fc] (1) Section 295 (alteration of review arrangements) is amended as follows.
 
 (2) In subsection (1), after “a review” insert “under section 293 or 293A”.
 
@@ -216,7 +216,7 @@ In section 293 (review of suspended sentence orders), at the end insert—
 
 (4) In subsection (7), after “293(2)” insert “(or, as the case may be, section 293A(2))”.
 
-**10.**[^key-4432c1fdbef612c2215d1cc6fdbc93e3] (1) Section 297 (power to direct magistrates’ court supervision) is amended as follows.
+**10.**[^c-4432c1fdbef612c2215d1cc6fdbc93e3] (1) Section 297 (power to direct magistrates’ court supervision) is amended as follows.
 
 (2) The existing provision becomes subsection (1).
 
@@ -224,7 +224,7 @@ In section 293 (review of suspended sentence orders), at the end insert—
 
 > (2) Subsection (1) does not apply to a suspended sentence order that qualifies for special procedures for the purposes of section 293A.
 
-#### 11. Review of drug rehabilitation requirements[^key-7fde6d63aca91e8cf15cd852697691b5]
+#### 11. Review of drug rehabilitation requirements[^c-7fde6d63aca91e8cf15cd852697691b5]
 
 In Schedule 9 (community orders and suspended sentence orders: community requirements), in paragraph 21 (review of drug rehabilitation requirements), at the end insert—
 
@@ -233,7 +233,7 @@ In Schedule 9 (community orders and suspended sentence orders: community require
 > - (a) a community order that qualifies for special procedures for the purposes of section 217A, or
 > - (b) a suspended sentence order that qualifies for special procedures for the purposes of section 293A.
 
-#### 12. Breach of community order: power to commit to custody[^key-3946c081b0984d299006ceba0f0b03d0]
+#### 12. Breach of community order: power to commit to custody[^c-3946c081b0984d299006ceba0f0b03d0]
 
 (1) Schedule 10 (breach etc of community order) is amended as follows.
 
@@ -321,7 +321,7 @@ In Schedule 9 (community orders and suspended sentence orders: community require
 
   .
 
-#### 13. Breach of suspended sentence order: power to commit to custody[^key-dc00e7c771b7ea2882e84130de0f973e]
+#### 13. Breach of suspended sentence order: power to commit to custody[^c-dc00e7c771b7ea2882e84130de0f973e]
 
 (1) Schedule 16 (breach etc of suspended sentence order) is amended as follows.
 
@@ -388,7 +388,7 @@ In Schedule 9 (community orders and suspended sentence orders: community require
 
 ### PART 2 — Prospective amendments
 
-#### 14. Prospective amendments relating to abolition of detention in a young offender institution[^key-b8f1629cc4c59245260e0576bf44c083]
+#### 14. Prospective amendments relating to abolition of detention in a young offender institution[^c-b8f1629cc4c59245260e0576bf44c083]
 
 (1) Schedule 22 of the Sentencing Act 2020 (prospective amendments) is amended as follows.
 
@@ -421,30 +421,30 @@ In Schedule 9 (community orders and suspended sentence orders: community require
 
 ## Annotations
 
-[^key-9e4126d2472d6e749dc9eef621287072]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/1) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-9e4126d2472d6e749dc9eef621287072]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/1) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-376654315b37ac4f74df0742f3f36d78]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/2) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-376654315b37ac4f74df0742f3f36d78]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/2) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-ffbc5b871b8977aec7deef2f1515c3c4]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/3) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-ffbc5b871b8977aec7deef2f1515c3c4]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/3) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-b2f0f466b34f97ad269e4a46349cf212]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/4) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-b2f0f466b34f97ad269e4a46349cf212]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/4) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-1022ba8384efe8ec3526e2f3f716be79]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/5) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-1022ba8384efe8ec3526e2f3f716be79]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/5) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-9e6a33c02379fbaa8b7ddf71642a92ef]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/6) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-9e6a33c02379fbaa8b7ddf71642a92ef]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/6) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-6a2b211a29c6ad5ea1448525aab7aebd]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/7) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-6a2b211a29c6ad5ea1448525aab7aebd]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/7) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-df54d4dc8c5d31a0ff331ceab7895e46]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/8) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-df54d4dc8c5d31a0ff331ceab7895e46]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/8) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-a6b96c40bdc0de2da4b1b8f30d5642fc]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/9) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-a6b96c40bdc0de2da4b1b8f30d5642fc]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/9) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-4432c1fdbef612c2215d1cc6fdbc93e3]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/10) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-4432c1fdbef612c2215d1cc6fdbc93e3]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/10) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-7fde6d63aca91e8cf15cd852697691b5]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/11) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-7fde6d63aca91e8cf15cd852697691b5]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/11) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-3946c081b0984d299006ceba0f0b03d0]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/12) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-3946c081b0984d299006ceba0f0b03d0]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/12) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-dc00e7c771b7ea2882e84130de0f973e]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/13) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-dc00e7c771b7ea2882e84130de0f973e]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/13) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
 
-[^key-b8f1629cc4c59245260e0576bf44c083]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/14) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)
+[^c-b8f1629cc4c59245260e0576bf44c083]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2022/32/schedule/14/paragraph/14) in force at 28.6.2022, see [s. 208(5)(r)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/r)

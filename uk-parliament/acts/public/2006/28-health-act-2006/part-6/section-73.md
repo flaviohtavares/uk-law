@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. NHS costs recovery[^key-71bd8a3f47b559bc89f3169319a04cbe][^key-9853d2cb881968d9cb44c4a01d0dea8c]
+## 73. NHS costs recovery[^c-71bd8a3f47b559bc89f3169319a04cbe][^c-9853d2cb881968d9cb44c4a01d0dea8c]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In section 153 of the 2003 Act (information contained in certificates relating t
 
 ## Annotations
 
-[^key-71bd8a3f47b559bc89f3169319a04cbe]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2006/28/section/73) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/9](https://www.legislation.gov.uk/ssi/2007/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/9/article/2/a)
+[^c-71bd8a3f47b559bc89f3169319a04cbe]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2006/28/section/73) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/9](https://www.legislation.gov.uk/ssi/2007/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/9/article/2/a)
 
-[^key-9853d2cb881968d9cb44c4a01d0dea8c]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2006/28/section/73) in force at 29.1.2007 except in so far as it extends to S. by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 4](https://www.legislation.gov.uk/uksi/2006/3125/article/4)
+[^c-9853d2cb881968d9cb44c4a01d0dea8c]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2006/28/section/73) in force at 29.1.2007 except in so far as it extends to S. by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 4](https://www.legislation.gov.uk/uksi/2006/3125/article/4)

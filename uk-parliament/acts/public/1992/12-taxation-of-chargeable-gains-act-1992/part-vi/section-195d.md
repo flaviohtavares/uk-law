@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195D. Company that receives mixed consideration: N does not exceed C[^key-0d2aae42ff4cc78a885c59f888b1be86]
+## 195D. Company that receives mixed consideration: N does not exceed C[^c-0d2aae42ff4cc78a885c59f888b1be86]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ TD is total value of all the licences disposed of.
 
 ## Annotations
 
-[^key-0d2aae42ff4cc78a885c59f888b1be86]: Textual amendment: Ss. 195A-195E inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/5)
+[^c-0d2aae42ff4cc78a885c59f888b1be86]: Textual amendment: Ss. 195A-195E inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/5)

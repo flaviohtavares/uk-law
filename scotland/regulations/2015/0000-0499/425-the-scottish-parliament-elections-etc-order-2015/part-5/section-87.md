@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Sending of applications, notices etc.[^key-f9b1f4a8786450b3237c0d6b148676f3]
+## 87. Sending of applications, notices etc.[^c-f9b1f4a8786450b3237c0d6b148676f3]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9b1f4a8786450b3237c0d6b148676f3]: Commencement: Art. 87 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f9b1f4a8786450b3237c0d6b148676f3]: Commencement: Art. 87 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00051]: Footnote: Section 59(3B) was inserted by the 2006 Act, section 13.

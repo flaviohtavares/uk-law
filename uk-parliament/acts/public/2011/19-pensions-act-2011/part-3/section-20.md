@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Pension compensation: annual increases in periodic compensation[^key-ea53fed8ea6be3d59d8f74ffec7438e5]
+## 20. Pension compensation: annual increases in periodic compensation[^c-ea53fed8ea6be3d59d8f74ffec7438e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea53fed8ea6be3d59d8f74ffec7438e5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2011/19/section/20) in force at 1.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 2](https://www.legislation.gov.uk/uksi/2011/3034/article/2)
+[^c-ea53fed8ea6be3d59d8f74ffec7438e5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2011/19/section/20) in force at 1.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 2](https://www.legislation.gov.uk/uksi/2011/3034/article/2)

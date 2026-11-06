@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Meaning of “honour-based abuse”[^key-5201bb944b67f5f44b98f0daccdb0e0d]
+## 144. Meaning of “honour-based abuse”[^c-5201bb944b67f5f44b98f0daccdb0e0d]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ and it does not matter whether the behaviour consists of a single incident or a 
 
 ## Annotations
 
-[^key-5201bb944b67f5f44b98f0daccdb0e0d]: Commencement: S. 144 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5201bb944b67f5f44b98f0daccdb0e0d]: Commencement: S. 144 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

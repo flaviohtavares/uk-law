@@ -28,11 +28,11 @@ summary: ''
 
 - (a) the provisions of every exemption;
 - (b) the provisions of every licence;
-- (c) every modification of the licence conditions[^key-bc6d5e7143e555e8ad58bef4cd9ea5fb];
+- (c) every modification of the licence conditions[^c-bc6d5e7143e555e8ad58bef4cd9ea5fb];
 - (d) every revocation or surrender of a licence;
 - (e) the provisions of every requirement or determination made or direction, consent or approval given under a licence;
 - (f) the terms of every notice given under section 9;
-- (g)[^key-0639bbf2220de29b345db68013ac1ad9] the terms of every contravention notice;
+- (g)[^c-0639bbf2220de29b345db68013ac1ad9] the terms of every contravention notice;
 - (h) the terms of every withdrawal of a contravention notice;
 - (i) the terms of every enforcement order;
 - (j) the terms of every urgent enforcement order that has been confirmed;
@@ -54,8 +54,8 @@ summary: ''
 
 [^c14879121]: Commencement: S. 35 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-bc6d5e7143e555e8ad58bef4cd9ea5fb]: Textual amendment: Words in s. 35(3)(c) substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/6/2); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-bc6d5e7143e555e8ad58bef4cd9ea5fb]: Textual amendment: Words in s. 35(3)(c) substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/6/2); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
-[^key-0639bbf2220de29b345db68013ac1ad9]: Textual amendment: S. 35(3)(g)-(k) substituted for s. 35(3)(g) (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/6/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-0639bbf2220de29b345db68013ac1ad9]: Textual amendment: S. 35(3)(g)-(k) substituted for s. 35(3)(g) (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 6(3)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/6/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
 [^c14879131]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).

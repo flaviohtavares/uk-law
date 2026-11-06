@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6730304ccc09cfadd140a8f462b8339e] If the deposited plans or the book of reference to those plans are inaccurate in their description of any land, or in their statement or description of the ownership or occupation of any land, the Secretary of State, after giving not less than 10 days' notice to the owners and occupiers of the land in question, may apply to two justices having jurisdiction in the place where the land is situated for the correction of the plans or book of reference.
+(1)[^c-6730304ccc09cfadd140a8f462b8339e] If the deposited plans or the book of reference to those plans are inaccurate in their description of any land, or in their statement or description of the ownership or occupation of any land, the Secretary of State, after giving not less than 10 days' notice to the owners and occupiers of the land in question, may apply to two justices having jurisdiction in the place where the land is situated for the correction of the plans or book of reference.
 
 (2) If on such application it appears to the justices that the misstatement or wrong description arose from mistake or inadvertence, the justices shall certify accordingly and shall in their certificate state in what respect a matter is misstated or wrongly described.
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) in the Private Bill Office of the House of Commons, and
 - (b) with the proper officer of each local authority in whose area the land to which the certificate relates is situated.
 
-(4)[^key-fee47d23cf7ad0b29f558760a6aa1e73] Upon deposit of a certificate in accordance with subsection (3), the deposited plans or the book of reference shall be deemed to be corrected according to the certificate and it shall be lawful for the Secretary of State, in accordance with the certificate, to proceed under this Act as if the deposited plans or book of reference had always been in the corrected form.
+(4)[^c-fee47d23cf7ad0b29f558760a6aa1e73] Upon deposit of a certificate in accordance with subsection (3), the deposited plans or the book of reference shall be deemed to be corrected according to the certificate and it shall be lawful for the Secretary of State, in accordance with the certificate, to proceed under this Act as if the deposited plans or book of reference had always been in the corrected form.
 
 (5) A copy certificate deposited under subsection (3) shall be kept with the documents to which it relates.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6730304ccc09cfadd140a8f462b8339e]: Modification: S. 52(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-6730304ccc09cfadd140a8f462b8339e]: Modification: S. 52(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
 
-[^key-fee47d23cf7ad0b29f558760a6aa1e73]: Modification: S. 52(4) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-fee47d23cf7ad0b29f558760a6aa1e73]: Modification: S. 52(4) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))

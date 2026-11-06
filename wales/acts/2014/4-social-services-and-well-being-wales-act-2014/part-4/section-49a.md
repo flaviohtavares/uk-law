@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Direct payments[^key-bf9e2479296179b11ff940fa69bada31]
+## 49A. Direct payments[^c-bf9e2479296179b11ff940fa69bada31]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf9e2479296179b11ff940fa69bada31]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/anaw/2014/4/section/49A) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(a)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/a), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/ii)
+[^c-bf9e2479296179b11ff940fa69bada31]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/anaw/2014/4/section/49A) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(a)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/a), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/ii)

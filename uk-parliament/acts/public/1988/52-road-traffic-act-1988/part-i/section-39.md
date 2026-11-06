@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Powers of Secretary of State and local authorities as to giving road safety information and training.[^c13972591][^key-73e6ff760a1e322c405b6f93e7eb8362]
+## 39. Powers of Secretary of State and local authorities as to giving road safety information and training.[^c13972591][^c-73e6ff760a1e322c405b6f93e7eb8362]
 
 *Extent: E+W+S*
 
-(1)[^c13972601][^key-d979480a2eed30f92978dd4f10c6b796] The Secretary of State may, with the approval of the Treasury, provide for promoting road safety by disseminating information or advice relating to the use of roads.
+(1)[^c13972601][^c-d979480a2eed30f92978dd4f10c6b796] The Secretary of State may, with the approval of the Treasury, provide for promoting road safety by disseminating information or advice relating to the use of roads.
 
-(2)[^key-efd65448ce20896ebc32b311bb2d699e][^key-83376696fe75affcde36b3c36695c8a8][^key-a978747b1277290e9e92b502ee4f5276][^key-2371f4680c0f74f1f8b32cdc0a37af39][^c13972611] Each relevant authority—
+(2)[^c-efd65448ce20896ebc32b311bb2d699e][^c-83376696fe75affcde36b3c36695c8a8][^c-a978747b1277290e9e92b502ee4f5276][^c-2371f4680c0f74f1f8b32cdc0a37af39][^c13972611] Each relevant authority—
 
 - (a) if it is a local authority, must prepare and carry out a programme of measures designed to promote road safety, or
 - (b) if it is Transport for London, may prepare and carry out such a programme,
 
 and may contribute towards the cost of measures for promoting road safety taken by other authorities or bodies.
 
-(3)[^key-efd65448ce20896ebc32b311bb2d699e][^key-83376696fe75affcde36b3c36695c8a8][^key-a978747b1277290e9e92b502ee4f5276][^key-2371f4680c0f74f1f8b32cdc0a37af39] Each relevant authority—[^c13972621]—
+(3)[^c-efd65448ce20896ebc32b311bb2d699e][^c-83376696fe75affcde36b3c36695c8a8][^c-a978747b1277290e9e92b502ee4f5276][^c-2371f4680c0f74f1f8b32cdc0a37af39] Each relevant authority—[^c13972621]—
 
 - (a) must carry out studies into accidents arising out of the use of vehicles
   - (i)[^c13972631] if it is a local authority, on roads or parts of roads, other than GLA[^c13972641] roads or roads for which the Secretary of state is highway authority (in Scotland, roads authority)[^c13972651] within their area or[^c13972661]
@@ -54,19 +54,19 @@ and may contribute towards the cost of measures for promoting road safety taken 
 
 [^c13972591]: Modification: S. 39: transfer of functions (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)(i)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1/i) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1)
 
-[^key-73e6ff760a1e322c405b6f93e7eb8362]: Modification: S. 39 modified (E.W.) (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2018/103/regulation/17)
+[^c-73e6ff760a1e322c405b6f93e7eb8362]: Modification: S. 39 modified (E.W.) (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2018/103/regulation/17)
 
 [^c13972601]: Modification: S. 39(1): functions exercisable by the Assembly are to run concurrently with the Secretary of state (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1)
 
-[^key-d979480a2eed30f92978dd4f10c6b796]: Modification: S. 39(1): functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-d979480a2eed30f92978dd4f10c6b796]: Modification: S. 39(1): functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-efd65448ce20896ebc32b311bb2d699e]: Modification: S. 39(2)(3): functions made exercisable concurrently (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [10](https://www.legislation.gov.uk/uksi/2016/1267/article/10)
+[^c-efd65448ce20896ebc32b311bb2d699e]: Modification: S. 39(2)(3): functions made exercisable concurrently (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [10](https://www.legislation.gov.uk/uksi/2016/1267/article/10)
 
-[^key-83376696fe75affcde36b3c36695c8a8]: Modification: S. 39(2)(3): functions made exercisable concurrently (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [5](https://www.legislation.gov.uk/uksi/2017/510/article/5)
+[^c-83376696fe75affcde36b3c36695c8a8]: Modification: S. 39(2)(3): functions made exercisable concurrently (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [5](https://www.legislation.gov.uk/uksi/2017/510/article/5)
 
-[^key-a978747b1277290e9e92b502ee4f5276]: Modification: S. 39(2)(3): functions made exercisable concurrently (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [16](https://www.legislation.gov.uk/uksi/2017/430/article/16)
+[^c-a978747b1277290e9e92b502ee4f5276]: Modification: S. 39(2)(3): functions made exercisable concurrently (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [16](https://www.legislation.gov.uk/uksi/2017/430/article/16)
 
-[^key-2371f4680c0f74f1f8b32cdc0a37af39]: Modification: [S. 39(2)](https://www.legislation.gov.uk/ukpga/1988/52/section/39/2)[(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/39/3): functions made exercisable concurrently (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [23](https://www.legislation.gov.uk/uksi/2024/402/article/23) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-2371f4680c0f74f1f8b32cdc0a37af39]: Modification: [S. 39(2)](https://www.legislation.gov.uk/ukpga/1988/52/section/39/2)[(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/39/3): functions made exercisable concurrently (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [23](https://www.legislation.gov.uk/uksi/2024/402/article/23) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
 [^c13972611]: Textual amendment: S. 39(2) substituted (3.7.2000) [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 279(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/279/2), (with Sch. 12 para. 9(1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/III)
 

@@ -22,7 +22,7 @@ summary: ''
 
 Section 175
 
-### 1. Introductory[^key-bfe270bd0be4b9c03ec6636e9686dd2b]
+### 1. Introductory[^c-bfe270bd0be4b9c03ec6636e9686dd2b]
 
 (1) In this Schedule—
 
@@ -47,7 +47,7 @@ Section 175
 
 (3) In the event that a section of a qualifying pension scheme is constituted as a separate pension scheme the members of which consist of or include persons who are qualifying members of the qualifying pension scheme, any reference in this Schedule to the qualifying pension scheme includes a reference to that separate pension scheme.
 
-### 2. Participation in qualifying pension schemes and transfer of assets and rights[^key-ccac661c22e7e4a15724b28422d15b07]
+### 2. Participation in qualifying pension schemes and transfer of assets and rights[^c-ccac661c22e7e4a15724b28422d15b07]
 
 (1) The Secretary of State may by regulations make such pensions provision as the Secretary of State considers appropriate—
 
@@ -79,7 +79,7 @@ Section 175
 - (a) the trustee of the qualifying pension scheme or schemes in question, and
 - (b) the person who is the principal employer in relation to that scheme or those schemes.
 
-### 3. Amendment of qualifying pension schemes[^key-40ea7a8017803929b363832ab47d24b9]
+### 3. Amendment of qualifying pension schemes[^c-40ea7a8017803929b363832ab47d24b9]
 
 (1) The Secretary of State may by regulations make such amendments of a qualifying pension scheme as the Secretary of State considers appropriate—
 
@@ -106,7 +106,7 @@ Section 175
 - (b) references to a “new” section of a qualifying pension scheme are to one of the sections into which the scheme is divided by regulations under paragraph 2(1);
 - (c) “**pensionable service**” has the same meaning as in section 124(1) of the Pensions Act 1995.
 
-### 4. Protection against adverse treatment[^key-96aab23e0a3da2d3fd50dd73e8bb95e7]
+### 4. Protection against adverse treatment[^c-96aab23e0a3da2d3fd50dd73e8bb95e7]
 
 (1) When exercising the power to make regulations under paragraph 2 or 3, the Secretary of State must ensure that the following requirements are met in respect of each person who is or has been a qualifying member of a qualifying pension scheme—
 
@@ -130,7 +130,7 @@ Section 175
 
 (6) The applicable consent requirements are the requirements that apply in relation to obtaining the consent of members of the scheme to its amendment (including any such requirements set out in the trust deed or rules of the scheme).
 
-### 5. Information and assistance[^key-659352715a0705acbdd75bc06de4734b]
+### 5. Information and assistance[^c-659352715a0705acbdd75bc06de4734b]
 
 (1) The Secretary of State may direct a person within sub-paragraph (3) to provide the Secretary of State with—
 
@@ -170,26 +170,26 @@ as the Secretary of State may reasonably require in preparation for or in connec
 
 (8) In this paragraph, “**specified**” means specified in the direction.
 
-### 6. Consultation[^key-43006ce74c21872eebc6745872d9e631]
+### 6. Consultation[^c-43006ce74c21872eebc6745872d9e631]
 
 Any requirement imposed by this Schedule to carry out consultation may be satisfied by consultation before the passing of this Act (as well as by consultation after that time).
 
-### 7. National Security and Investment Act 2021[^key-bcffa77b01001334cd2dd809f95acc98]
+### 7. National Security and Investment Act 2021[^c-bcffa77b01001334cd2dd809f95acc98]
 
 The exercise by the Secretary of State of a power conferred on the Secretary of State by any provision of this Schedule is not a trigger event for the purposes of the National Security and Investment Act 2021.
 
 ## Annotations
 
-[^key-bfe270bd0be4b9c03ec6636e9686dd2b]: Commencement: Sch. 10 para. 1 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-bfe270bd0be4b9c03ec6636e9686dd2b]: Commencement: Sch. 10 para. 1 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-ccac661c22e7e4a15724b28422d15b07]: Commencement: Sch. 10 para. 2 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-ccac661c22e7e4a15724b28422d15b07]: Commencement: Sch. 10 para. 2 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-40ea7a8017803929b363832ab47d24b9]: Commencement: Sch. 10 para. 3 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-40ea7a8017803929b363832ab47d24b9]: Commencement: Sch. 10 para. 3 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-96aab23e0a3da2d3fd50dd73e8bb95e7]: Commencement: Sch. 10 para. 4 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-96aab23e0a3da2d3fd50dd73e8bb95e7]: Commencement: Sch. 10 para. 4 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-659352715a0705acbdd75bc06de4734b]: Commencement: Sch. 10 para. 5 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-659352715a0705acbdd75bc06de4734b]: Commencement: Sch. 10 para. 5 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-43006ce74c21872eebc6745872d9e631]: Commencement: Sch. 10 para. 6 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-43006ce74c21872eebc6745872d9e631]: Commencement: Sch. 10 para. 6 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
 
-[^key-bcffa77b01001334cd2dd809f95acc98]: Commencement: Sch. 10 para. 7 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-bcffa77b01001334cd2dd809f95acc98]: Commencement: Sch. 10 para. 7 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

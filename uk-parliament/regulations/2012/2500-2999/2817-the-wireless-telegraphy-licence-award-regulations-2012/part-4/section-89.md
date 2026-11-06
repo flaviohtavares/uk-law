@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Preparing an assignment stage option list for each bidder[^key-9913dc6ab741b6c41df27533845a61d9]
+## 89. Preparing an assignment stage option list for each bidder[^c-9913dc6ab741b6c41df27533845a61d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9913dc6ab741b6c41df27533845a61d9]: Commencement: Reg. 89 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-9913dc6ab741b6c41df27533845a61d9]: Commencement: Reg. 89 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

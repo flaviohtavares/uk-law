@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Contravention of orders prohibiting inshore sea fishing[^key-e50453289015307194b015144f00d644]
+## 49. Contravention of orders prohibiting inshore sea fishing[^c-e50453289015307194b015144f00d644]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e50453289015307194b015144f00d644]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2013/7/section/49) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-e50453289015307194b015144f00d644]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2013/7/section/49) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

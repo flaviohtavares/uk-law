@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZH. Powers to amend Chapter[^key-be3329172140d2b2dd1606d8d16f11da]
+## 809EZH. Powers to amend Chapter[^c-be3329172140d2b2dd1606d8d16f11da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) so as to change the definition of “**investment scheme**” for the purposes of this Chapter;
 - (b) so as to change the definition of “participant” for those purposes;
-- (c)[^key-0d6a37276d79e61d8140b3d2401f0073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0d6a37276d79e61d8140b3d2401f0073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulations under this section may—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
+[^c-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
 
-[^key-0d6a37276d79e61d8140b3d2401f0073]: Textual amendment: S. 809EZH(1)(c) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(8)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/8)
+[^c-0d6a37276d79e61d8140b3d2401f0073]: Textual amendment: S. 809EZH(1)(c) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(8)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/8)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 37
 
-### 1. Primary objective[^key-fbd7f2372352f166ef47ff2f664b18e3]
+### 1. Primary objective[^c-fbd7f2372352f166ef47ff2f664b18e3]
 
 (1) The primary objective of these Arbitration Rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within four months from the date the Arbitrator is appointed pursuant to article 37 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 37
 
 (3) The Arbitration shall be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-0a9e0d4c70a99c711e6a2d76b7e77e6a]
+### 2. Time periods[^c-0a9e0d4c70a99c711e6a2d76b7e77e6a]
 
 (1) All time periods in these Arbitration Rules are measured in days and this will include weekends but not bank holidays in England and Wales as defined in the Banking and Financial Dealings Act 1971.
 
@@ -39,7 +39,7 @@ Article 37
 - (a) the date the Arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the Arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-b5bf725090ac28c1ded64d389e9ee5ad]
+### 3. Timetable[^c-b5bf725090ac28c1ded64d389e9ee5ad]
 
 (1) The timetable for the Arbitration is set out in sub–paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 37
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent;
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-ce6869dc68b7d44c8ee299613392152a]
+### 4. Procedure[^c-ce6869dc68b7d44c8ee299613392152a]
 
 (1) The seat, or place, of the arbitration shall be London, England, the governing law shall be the laws of England and Wales and the language of the arbitration proceedings shall be English. The proceedings shall be conducted in accordance with the Arbitration Act 1996[^f00050], save where modified by these Rules.
 
@@ -84,7 +84,7 @@ Article 37
 
 (8) Within 14 days of a Hearing or a decision by the Arbitrator that no hearing is to be held the Parties may by way of exchange provide the Arbitrator with a final submission in connection with the matters in dispute and any submissions on costs. The Arbitrator must take these submissions into account in the award.
 
-(9) Where a party requests an expedited procedure, accompanied by an evidenced reason for expedition, the Arbitrator may vary the timescales in sub-paragraphs[^key-a374e544b62f94566bdde9a01e5b62b2] (3), (4), (5) and (7), but where a party does so, the Arbitrator must provide an opportunity for parties objecting to the effects of an expedited procedure to provide written submissions on that point and may decide to revert to standard timescales in response to such submissions. Where an expedited procedure is sustained, the Arbitrator must set out their reasons for acceding to an expedited timetable in writing, to be given alongside their award.
+(9) Where a party requests an expedited procedure, accompanied by an evidenced reason for expedition, the Arbitrator may vary the timescales in sub-paragraphs[^c-a374e544b62f94566bdde9a01e5b62b2] (3), (4), (5) and (7), but where a party does so, the Arbitrator must provide an opportunity for parties objecting to the effects of an expedited procedure to provide written submissions on that point and may decide to revert to standard timescales in response to such submissions. Where an expedited procedure is sustained, the Arbitrator must set out their reasons for acceding to an expedited timetable in writing, to be given alongside their award.
 
 (10) The Arbitrator may make other directions or rulings as considered appropriate in order to ensure that the parties comply with the timetable and procedures to achieve an award on the substantive difference within four months of the date on which they are appointed, unless both parties otherwise agree to an extension to the date for the award.
 
@@ -92,7 +92,7 @@ Article 37
 
 (12) The Arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given shall be proportionate to the issues in dispute and the time available to the Arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-a77c1cd5dcfac8d060c85342dde31837]
+### 5. Arbitrator’s powers[^c-a77c1cd5dcfac8d060c85342dde31837]
 
 (1) The Arbitrator has all the powers of the Arbitration Act 1996, including the non-mandatory sections, save where modified by these Rules.
 
@@ -105,7 +105,7 @@ Article 37
 
 (4) On the date the award is made, the Arbitrator must notify the parties that the award is completed, signed and dated, and that it is to be issued to the parties on receipt of cleared funds for the Arbitrator’s fees and expenses.
 
-### 6. Costs[^key-ba6633a375eafbd02656eeb85cae5e65]
+### 6. Costs[^c-ba6633a375eafbd02656eeb85cae5e65]
 
 (1) The costs of the Arbitration must include the fees and expenses of the Arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -113,7 +113,7 @@ Article 37
 
 (3) The Arbitrator may depart from the general principle in sub-paragraph (2) and make such other costs award as it considers reasonable where a party has behaved unreasonably as defined within the National Planning Practice Guidance or such other guidance as may replace it.
 
-### 7. Confidentiality[^key-463fa8b56cc13fba82f36da886e895d8]
+### 7. Confidentiality[^c-463fa8b56cc13fba82f36da886e895d8]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), any arbitration hearing and documentation shall be open to and accessible by the public.
 
@@ -123,7 +123,7 @@ Article 37
 
 (4) Nothing in this paragraph shall prevent any disclosure of a document by a party pursuant to an order of a court in England and Wales or where disclosure is required under any enactment.
 
-### 8. Conservatory and Interim Measures[^key-2a4c0b7727016f43d15c21814d974b3a]
+### 8. Conservatory and Interim Measures[^c-2a4c0b7727016f43d15c21814d974b3a]
 
 (1) Unless the parties have otherwise agreed, after the arbitration has commenced, the Arbitrator may, at the request of either party, order any conservatory or interim measure it deems appropriate. Any conservatory or interim measure shall be in the form of an order, giving reasons, or of an award, as the Arbitrator considers appropriate.
 
@@ -133,22 +133,22 @@ Article 37
 
 ## Annotations
 
-[^key-fbd7f2372352f166ef47ff2f664b18e3]: Commencement: Sch. 15 para. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-fbd7f2372352f166ef47ff2f664b18e3]: Commencement: Sch. 15 para. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-0a9e0d4c70a99c711e6a2d76b7e77e6a]: Commencement: Sch. 15 para. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-0a9e0d4c70a99c711e6a2d76b7e77e6a]: Commencement: Sch. 15 para. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-b5bf725090ac28c1ded64d389e9ee5ad]: Commencement: Sch. 15 para. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-b5bf725090ac28c1ded64d389e9ee5ad]: Commencement: Sch. 15 para. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-ce6869dc68b7d44c8ee299613392152a]: Commencement: Sch. 15 para. 4 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-ce6869dc68b7d44c8ee299613392152a]: Commencement: Sch. 15 para. 4 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
 [^f00050]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-a374e544b62f94566bdde9a01e5b62b2]: Textual amendment: Word in [Sch. 15 para. 4(9)](https://www.legislation.gov.uk/uksi/2022/433/schedule/15/paragraph/4/9) substituted (22.12.2022) by [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)
+[^c-a374e544b62f94566bdde9a01e5b62b2]: Textual amendment: Word in [Sch. 15 para. 4(9)](https://www.legislation.gov.uk/uksi/2022/433/schedule/15/paragraph/4/9) substituted (22.12.2022) by [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)
 
-[^key-a77c1cd5dcfac8d060c85342dde31837]: Commencement: Sch. 15 para. 5 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-a77c1cd5dcfac8d060c85342dde31837]: Commencement: Sch. 15 para. 5 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-ba6633a375eafbd02656eeb85cae5e65]: Commencement: Sch. 15 para. 6 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-ba6633a375eafbd02656eeb85cae5e65]: Commencement: Sch. 15 para. 6 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-463fa8b56cc13fba82f36da886e895d8]: Commencement: Sch. 15 para. 7 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-463fa8b56cc13fba82f36da886e895d8]: Commencement: Sch. 15 para. 7 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-2a4c0b7727016f43d15c21814d974b3a]: Commencement: Sch. 15 para. 8 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-2a4c0b7727016f43d15c21814d974b3a]: Commencement: Sch. 15 para. 8 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

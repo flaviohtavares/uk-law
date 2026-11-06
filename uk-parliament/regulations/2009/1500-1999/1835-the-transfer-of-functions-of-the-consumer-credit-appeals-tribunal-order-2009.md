@@ -44,17 +44,17 @@ The Lord Chancellor makes the following Order in exercise of the powers conferre
 
 A draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament in accordance with section 49(5) of that Act.
 
-## 1. Citation and commencement[^key-0e3602f65a03e4fcd8772adc9008a73d]
+## 1. Citation and commencement[^c-0e3602f65a03e4fcd8772adc9008a73d]
 
 This Order may be cited as the Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 and comes into force on 1st September 2009.
 
-## 2. Transfer of functions and abolition of tribunal[^key-344bf559d3d298d40fc7b70fde165dc3]
+## 2. Transfer of functions and abolition of tribunal[^c-344bf559d3d298d40fc7b70fde165dc3]
 
 (1) The functions of the Consumer Credit Appeals Tribunal are transferred to the First-tier Tribunal.
 
 (2) The Consumer Credit Appeals Tribunal is abolished.
 
-## 3. Transfer of persons into the First-tier Tribunal and the Upper Tribunal[^key-7d948e42cc36281d4e10f99ffd993b22]
+## 3. Transfer of persons into the First-tier Tribunal and the Upper Tribunal[^c-7d948e42cc36281d4e10f99ffd993b22]
 
 A person who, immediately before this Order comes into force, holds an office listed in column (1) of the following table is to hold the office or offices listed in the corresponding entry in column (2) of the table.
 
@@ -65,7 +65,7 @@ A person who, immediately before this Order comes into force, holds an office li
 | Member of the panel of chairmen of the Consumer Credit Appeals Tribunal appointed under paragraph 3(1) of Schedule A1 to the Consumer Credit Tribunal 1974 | Transferred-in judge of the First-tier Tribunal |
 | Other member of the Consumer Credit Appeals Tribunal appointed under paragraph 3(3) of Schedule A1 to the Consumer Credit Act 1974 | Transferred-in other member of the First-tier Tribunal |
 
-## 4. Consequential and transitional provisions[^key-e46330af4f05150ae07d2c6b743560b6]
+## 4. Consequential and transitional provisions[^c-e46330af4f05150ae07d2c6b743560b6]
 
 (1) Schedule 1 contains amendments to primary legislation as a consequence of the transfer effected by this Order.
 
@@ -89,19 +89,19 @@ Ministry of Justice
 
 Article 4(1)
 
-### 1. Consumer Credit Act 1974[^key-aa7f906f7327f2d7183ccfc69756f0ac]
+### 1. Consumer Credit Act 1974[^c-aa7f906f7327f2d7183ccfc69756f0ac]
 
 The Consumer Credit Act 1974[^f00003] is amended as follows.
 
-### 2.[^key-203db993e26859205cd11fc0bd6e5ae5]
+### 2.[^c-203db993e26859205cd11fc0bd6e5ae5]
 
 In section 2(7) (powers of Secretary of State) for “Tribunal” substitute “First-tier Tribunal”.
 
-### 3.[^key-1779108a152ea98ebb1bea918b9c0a25]
+### 3.[^c-1779108a152ea98ebb1bea918b9c0a25]
 
 Omit section 40A (the Consumer Credit Appeals Tribunal).
 
-### 4.[^key-00fd60bbaf29897476973509ca1fe3ae]
+### 4.[^c-00fd60bbaf29897476973509ca1fe3ae]
 
 In section 41 (appeals to the Secretary of State under Part 3)—
 
@@ -109,7 +109,7 @@ In section 41 (appeals to the Secretary of State under Part 3)—
 - (b) in subsection (1) for “Tribunal” substitute “First-tier Tribunal”; and
 - (c) omit subsections (1A) to (1D).
 
-### 5.[^key-9d0fb9e1901e8874968c8f87133b3f5b]
+### 5.[^c-9d0fb9e1901e8874968c8f87133b3f5b]
 
 After section 41 insert—
 
@@ -158,11 +158,11 @@ After section 41 insert—
 
 .
 
-### 6.[^key-d49ca47614f4ba1b5bdbe70dbd5fbfed]
+### 6.[^c-d49ca47614f4ba1b5bdbe70dbd5fbfed]
 
 Omit section 41A (appeals from the Consumer Credit Appeals Tribunal).
 
-### 7.[^key-51286d03b5baa8393941aa26881fda6d]
+### 7.[^c-51286d03b5baa8393941aa26881fda6d]
 
 In section 182 (regulations and orders)—
 
@@ -172,7 +172,7 @@ In section 182 (regulations and orders)—
   - (ii) omit “or by the Lord Chancellor”; and
   - (iii) in paragraph (c), for “person making them” substitute “Secretary of State”.
 
-### 8.[^key-caeb2cc2058b1fdfbbcd8fd159c27100]
+### 8.[^c-caeb2cc2058b1fdfbbcd8fd159c27100]
 
 In section 189 (definitions)—
 
@@ -181,15 +181,15 @@ In section 189 (definitions)—
   - (ii) omit the definition of “the Tribunal”; and
 - (b) in subsection (1A) omit “and paragraphs 14 and 15 of Schedule A1”.
 
-### 9.[^key-5a46d661a64a87d1c0a2ff0678d5cb6b]
+### 9.[^c-5a46d661a64a87d1c0a2ff0678d5cb6b]
 
 Omit Schedule A1 (the Consumer Credit Appeals Tribunal).
 
-### 10. Tribunals and Inquiries Act 1992[^key-e992b83f05950684c2594c121c528d9d]
+### 10. Tribunals and Inquiries Act 1992[^c-e992b83f05950684c2594c121c528d9d]
 
 In Part 1 of Schedule 1 to the Tribunals and Inquiries Act 1992[^f00004] (tribunals under direct supervision of the Council on Tribunals) omit the entry at paragraph 9B relating to consumer credit.
 
-### 11. Counter-Terrorism Act 2008[^key-8ab224d4ecebb240ec05ef956a446e69]
+### 11. Counter-Terrorism Act 2008[^c-8ab224d4ecebb240ec05ef956a446e69]
 
 In paragraph 28 of part 6 of Schedule 7 to the Counter-Terrorism Act 2008[^f00005] (appeal against imposition of civil penalty)—
 
@@ -200,18 +200,18 @@ In paragraph 28 of part 6 of Schedule 7 to the Counter-Terrorism Act 2008[^f0000
 
 Article 4(2)
 
-### 1. Money Laundering Regulations 2007[^key-c4dfeb5eff2aeb56881ec69a6c5af3c8]
+### 1. Money Laundering Regulations 2007[^c-c4dfeb5eff2aeb56881ec69a6c5af3c8]
 
 In regulation 44 (appeals) of the Money Laundering Regulations 2007[^f00006]—
 
 - (a) in paragraph (2)(c) for “Consumer Credit Appeals Tribunal” substitute “First-tier Tribunal”; and
 - (b) omit paragraph (5).
 
-### 2. Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007[^key-7acdb4e1b265dec7c3e984a634d4c4e6]
+### 2. Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007[^c-7acdb4e1b265dec7c3e984a634d4c4e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Repeals and revocations[^key-46087f110cc041d1600593ff67e08551]
+## SCHEDULE 3 — Repeals and revocations[^c-46087f110cc041d1600593ff67e08551]
 
 Article 4(3)
 
@@ -225,11 +225,11 @@ Article 4(3)
 
 Article 4(4)
 
-### 1. Transitional and saving provisions[^key-60a6d9d66f21afc179deb67199bf2141]
+### 1. Transitional and saving provisions[^c-60a6d9d66f21afc179deb67199bf2141]
 
 Any proceedings before the Consumer Credit Appeals Tribunal which are pending immediately before 1st September 2009 shall continue on and after 1st September 2009 as proceedings before the First-tier Tribunal.
 
-### 2.[^key-15ae62ce8032b1fded47e02272091161]
+### 2.[^c-15ae62ce8032b1fded47e02272091161]
 
 (1) The following sub-paragraphs apply where proceedings are continued in the First-tier Tribunal by virtue of paragraph 1.
 
@@ -248,19 +248,19 @@ Any proceedings before the Consumer Credit Appeals Tribunal which are pending im
 
 (7) An order for costs may only be made if, and to the extent that, an order could have been made before 1st September 2009.
 
-### 3.[^key-a2aff4a31cb5ff22b8e0ee2d779444a5]
+### 3.[^c-a2aff4a31cb5ff22b8e0ee2d779444a5]
 
 Where an appeal lies to a court from any decision made by the Consumer Credit Appeals Tribunal before 1st September 2009, that right of appeal has not been exercised, and the time to exercise that right of appeal has not expired prior to 1st September 2009, section 11 of the Tribunals, Courts and Enforcement Act 2007[^f00008] (right to appeal to Upper Tribunal) shall apply as if the decision were a decision made on or after 1st September 2009 by the First-tier Tribunal, and any reference to the Consumer Credit Appeals Tribunal in an enactment relating to such an appeal, express or otherwise, is to be taken as a reference to the First-tier Tribunal.
 
-### 4.[^key-451faa0d8db5e7b6824d48048b21a946]
+### 4.[^c-451faa0d8db5e7b6824d48048b21a946]
 
 Any case to be remitted by a court on or after 1st September 2009 and which, if it had been remitted before 1st September 2009, would have been remitted to the Consumer Credit Appeals Tribunal, shall be remitted to the First-tier Tribunal.
 
-### 5.[^key-2dd31f49694233fd996dc657631ff37b]
+### 5.[^c-2dd31f49694233fd996dc657631ff37b]
 
 Staff appointed to the Consumer Credit Appeals Tribunal before 1st September 2009 are to be treated on and after that date, for the purpose of any enactment, as if they had been appointed by the Lord Chancellor under section 40(1) of the Tribunals, Courts and Enforcement Act 2007 (tribunal staff and services).
 
-### 6.[^key-3032e7ba95118d33a6ea8330fb579a5b]
+### 6.[^c-3032e7ba95118d33a6ea8330fb579a5b]
 
 A decision made by the Consumer Credit Appeals Tribunal before 1st September 2009 is to be treated as a decision of the First-tier Tribunal on or after 1st September 2009.
 
@@ -304,62 +304,62 @@ http://www.justice.gov.uk/publications/tribunalscourtsandenforcementact.htm
 
 [^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-0e3602f65a03e4fcd8772adc9008a73d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-0e3602f65a03e4fcd8772adc9008a73d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-344bf559d3d298d40fc7b70fde165dc3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1835/article/2) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-344bf559d3d298d40fc7b70fde165dc3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1835/article/2) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-7d948e42cc36281d4e10f99ffd993b22]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1835/article/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-7d948e42cc36281d4e10f99ffd993b22]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1835/article/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39). Schedule A1 was inserted by section 55(2) of, and Schedule 1 to, the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14) and amended by paragraph 11 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-e46330af4f05150ae07d2c6b743560b6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/1835/article/4) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-e46330af4f05150ae07d2c6b743560b6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/1835/article/4) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-aa7f906f7327f2d7183ccfc69756f0ac]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-aa7f906f7327f2d7183ccfc69756f0ac]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
 [^f00003]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39). Section 2(7) was amended by section 58(1) of the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14). Sections 40A, 41(1A) to (1D), 41A and 182(1A) were inserted by sections 55, 56(2), 57 and 58(2) of the 2006 Act respectively and section 41(1) was amended by section 56(1) of that Act. Section 182(2) was amended by section 58(3) of the 2006 Act. In section 189(1) the definition of “the Tribunal” was inserted by, and the definition of “appeal period” was amended by, section 58(4) of the 2006 Act and subsection (1A) was inserted by section 27(3) of the 2006 Act. Schedule A1 was inserted by section 55(2) of, and Schedule 1 to, the 2006 Act and amended by paragraph 11 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-203db993e26859205cd11fc0bd6e5ae5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/2) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-203db993e26859205cd11fc0bd6e5ae5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/2) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-1779108a152ea98ebb1bea918b9c0a25]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-1779108a152ea98ebb1bea918b9c0a25]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-00fd60bbaf29897476973509ca1fe3ae]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/4) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-00fd60bbaf29897476973509ca1fe3ae]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/4) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-9d0fb9e1901e8874968c8f87133b3f5b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/5) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-9d0fb9e1901e8874968c8f87133b3f5b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/5) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-d49ca47614f4ba1b5bdbe70dbd5fbfed]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/6) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-d49ca47614f4ba1b5bdbe70dbd5fbfed]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/6) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-51286d03b5baa8393941aa26881fda6d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/7) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-51286d03b5baa8393941aa26881fda6d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/7) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-caeb2cc2058b1fdfbbcd8fd159c27100]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/8) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-caeb2cc2058b1fdfbbcd8fd159c27100]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/8) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-5a46d661a64a87d1c0a2ff0678d5cb6b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/9) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-5a46d661a64a87d1c0a2ff0678d5cb6b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/9) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-e992b83f05950684c2594c121c528d9d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/10) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-e992b83f05950684c2594c121c528d9d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/10) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
 [^f00004]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53). The entry in relation to the Consumer Credit Appeals Tribunal was inserted by section 58(5) of the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14).
 
-[^key-8ab224d4ecebb240ec05ef956a446e69]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/11) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-8ab224d4ecebb240ec05ef956a446e69]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/11) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
 [^f00005]: Footnote: [2008 c. 28](https://www.legislation.gov.uk/ukpga/2008/28). As amended by paragraph 4 of the Schedule to the Revenue and Customs Appeals Order 2009 ([S.I. 2009/777](https://www.legislation.gov.uk/uksi/2009/777))
 
-[^key-c4dfeb5eff2aeb56881ec69a6c5af3c8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1835/schedule/2/paragraph/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-c4dfeb5eff2aeb56881ec69a6c5af3c8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1835/schedule/2/paragraph/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
 [^f00006]: Footnote: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-7acdb4e1b265dec7c3e984a634d4c4e6]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/1835/schedule/2/paragraph/2) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 77](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/77)
+[^c-7acdb4e1b265dec7c3e984a634d4c4e6]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/1835/schedule/2/paragraph/2) omitted (19.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 77](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/77)
 
-[^key-46087f110cc041d1600593ff67e08551]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-46087f110cc041d1600593ff67e08551]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-60a6d9d66f21afc179deb67199bf2141]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-60a6d9d66f21afc179deb67199bf2141]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/1) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-15ae62ce8032b1fded47e02272091161]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/2) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-15ae62ce8032b1fded47e02272091161]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/2) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-a2aff4a31cb5ff22b8e0ee2d779444a5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-a2aff4a31cb5ff22b8e0ee2d779444a5]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/3) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
 [^f00008]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-451faa0d8db5e7b6824d48048b21a946]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/4) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-451faa0d8db5e7b6824d48048b21a946]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/4) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-2dd31f49694233fd996dc657631ff37b]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/5) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-2dd31f49694233fd996dc657631ff37b]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/5) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
 
-[^key-3032e7ba95118d33a6ea8330fb579a5b]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/6) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)
+[^c-3032e7ba95118d33a6ea8330fb579a5b]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4/paragraph/6) in force at 1.9.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1)

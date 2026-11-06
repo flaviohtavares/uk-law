@@ -45,7 +45,7 @@ In accordance with section 26(7) of that Act, a draft of these Regulations was l
 
 ## PART 1 — GENERAL
 
-### 1. Title, coming into force and application[^key-d77077ef2f426401662fc8fdf6f5246e]
+### 1. Title, coming into force and application[^c-d77077ef2f426401662fc8fdf6f5246e]
 
 (1) The title of these Regulations is the Welsh Elections Information Platform Regulations 2025.
 
@@ -58,20 +58,20 @@ In accordance with section 26(7) of that Act, a draft of these Regulations was l
 - (a) an election to Senedd Cymru, the poll for which is held on or before 6 April 2026;
 - (b) ordinary elections to principal councils in Wales, the polls for which are held on or before 5 May 2027.
 
-### 2. Interpretation[^key-0a1c24372f240b11839ab0a475abaf9c]
+### 2. Interpretation[^c-0a1c24372f240b11839ab0a475abaf9c]
 
 In these Regulations—
 
 - “**the 2006 Act**” (“***Deddf 2006***”) means the Government of Wales Act 2006[^f00002];
 - “**the 2021 Rules**” (“***Rheolau 2021***”) means the Local Elections (Principal Areas) (Wales) Rules 2021[^f00003];
-- “[^key-8dc9387e22ec25c533db10a62e1ee514]**the 2025 Order**” (“***Gorchymyn 2025***”) means the Senedd Cymru (Representation of the People) Order 2025;
+- “[^c-8dc9387e22ec25c533db10a62e1ee514]**the 2025 Order**” (“***Gorchymyn 2025***”) means the Senedd Cymru (Representation of the People) Order 2025;
 - “**candidate**” (“***ymgeisydd***”) means (as the context requires)—
-  - (a) an individual [^key-5121db7a13a9d752c66a89cc101dd106]... candidate to be a Member of the Senedd;
+  - (a) an individual [^c-5121db7a13a9d752c66a89cc101dd106]... candidate to be a Member of the Senedd;
   - (b) a candidate on a list of candidates to be Members of the Senedd submitted by a registered political party under section 7 of the 2006 Act;
   - (c) a candidate at an ordinary election to a principal council in Wales;
 - “**candidate statement**” (“***datganiad ymgeisydd***”) means a statement that has been prepared for publication on the platform and which is in support of candidacy, for an ordinary election to a principal council in Wales, at which the candidate is standing;
-- “**election address**” (“***anerchiad etholiadol***”) means a final approved postal communication which, under article 67 of the 2025 Order,[^key-cc4c35c32c96d6cb6a7b98b4d431bf24] may be sent free of any charge for postage and which is to be or has been submitted for publication on the platform;
-- “[^key-79920344c0b773994b12fa33c1c3e70d]**individual candidate**” (“***ymgeisydd unigol***”) means a candidate at a Senedd election other than a party list candidate;
+- “**election address**” (“***anerchiad etholiadol***”) means a final approved postal communication which, under article 67 of the 2025 Order,[^c-cc4c35c32c96d6cb6a7b98b4d431bf24] may be sent free of any charge for postage and which is to be or has been submitted for publication on the platform;
+- “[^c-79920344c0b773994b12fa33c1c3e70d]**individual candidate**” (“***ymgeisydd unigol***”) means a candidate at a Senedd election other than a party list candidate;
 - “**the platform**” (“***y platfform***”) means the electronic facility, known as the Welsh elections information platform, established by these Regulations and which is to provide electors with up-to-date information, or access to up-to-date information from other electronic sources, about specified elections;
 - “**the platform operator**” (“***gweithredwr y platfform***”) means the person specified in regulation 3;
 - “**registered political party**” (“***plaid wleidyddol gofrestredig***”) means a party registered under Part 2 of the Political Parties, Elections and Referendums Act 2000[^f00005];
@@ -85,11 +85,11 @@ In these Regulations—
 
 ## PART 2 — ESTABLISHMENT AND OPERATION OF THE PLATFORM
 
-### 3. The Platform operator[^key-5d478a44eb1de62daf8683165a164758]
+### 3. The Platform operator[^c-5d478a44eb1de62daf8683165a164758]
 
 The Electoral Management Board established under section 20E of the Democracy and Boundary Commission Cymru etc. Act 2013[^f00006] is specified as the platform operator.
 
-### 4. Functions of the platform operator[^key-ef9685d53600e8a7db76bf77acfc6fb1]
+### 4. Functions of the platform operator[^c-ef9685d53600e8a7db76bf77acfc6fb1]
 
 (1) The platform operator must establish and operate the platform in accordance with these Regulations.
 
@@ -104,7 +104,7 @@ The Electoral Management Board established under section 20E of the Democracy an
 - (d) ensure, as far as reasonably practicable, that appropriate security measures are in place to protect the platform’s electronic facilities and content from unauthorised access, interference, or use;
 - (e) deliver a system to check that election addresses and candidate statements, submitted to the platform for publication, comply with the relevant requirements prior to them being published on the platform.
 
-### 5. Guidance[^key-630386ec7206e0b2a4a4341643fc9417]
+### 5. Guidance[^c-630386ec7206e0b2a4a4341643fc9417]
 
 (1) The platform operator must provide guidance about the operation of the platform.
 
@@ -122,31 +122,31 @@ The Electoral Management Board established under section 20E of the Democracy an
 
 ## PART 3 — INFORMATION AND ACCESSIBILITY
 
-### 6. Information to be published on the platform[^key-90ccb4f3d3d514bd8a30be31fd54806d]
+### 6. Information to be published on the platform[^c-90ccb4f3d3d514bd8a30be31fd54806d]
 
 (1) The platform operator must publish, or arrange to be published, the following in relation to each specified election—
 
 - (a) notice of election required by (as the case may be)—
-  - (i)[^key-b983ae071b1ddc19e86845379f5c0c71] rule 3 of Schedule 5 to the 2025 Order;
+  - (i)[^c-b983ae071b1ddc19e86845379f5c0c71] rule 3 of Schedule 5 to the 2025 Order;
   - (ii) rule 3 of Schedule 1 to the 2021 Rules;
   - (iii) rule 3 of Schedule 2 to the 2021 Rules;
 - (b) statements of those nominated required by (as the case may be)—
-  - (i)[^key-40a3723186963d800af2d931e1297180] rule 17 of Schedule 5 to the 2025 Order;
+  - (i)[^c-40a3723186963d800af2d931e1297180] rule 17 of Schedule 5 to the 2025 Order;
   - (ii) rule 13 of Schedule 1 to the 2021 Rules;
   - (iii) rule 13 of Schedule 2 to the 2021 Rules;
 - (c) notice of poll required by (as the case may be)—
-  - (i)[^key-e441872d5dde049571a825700ecf9188] rule 31(1) of Schedule 5 to the 2025 Order;
+  - (i)[^c-e441872d5dde049571a825700ecf9188] rule 31(1) of Schedule 5 to the 2025 Order;
   - (ii) rule 27(1) of Schedule 1 to the 2021 Rules;
   - (iii) rule 27(1) of Schedule 2 to the 2021 Rules;
 - (d) an election address, in accordance with regulation 14;
 - (e) a candidate statement, in accordance with regulation 14;
 - (f) notice of the situation of each polling station and the description of voters entitled to vote there required by (as the case may be)—
-  - (i)[^key-21b11ce78e5a5d146a5d8adda462ae5a] rule 31(2) of Schedule 5 to the 2025 Order;
+  - (i)[^c-21b11ce78e5a5d146a5d8adda462ae5a] rule 31(2) of Schedule 5 to the 2025 Order;
   - (ii) rule 27(3) of Schedule 1 to the 2021 Rules;
   - (iii) rule 27(3) of Schedule 2 to the 2021 Rules;
 - (g) accessibility arrangements in place at polling stations;
 - (h) declaration of results required by (as the case may be)—
-  - (i)[^key-ce533844183668d870e683034240ed05] rule 64 of Schedule 5 to the 2025 Order;
+  - (i)[^c-ce533844183668d870e683034240ed05] rule 64 of Schedule 5 to the 2025 Order;
   - (ii) rule 60(3) or 60W(3) of Schedule 1 to the 2021 Rules;
   - (iii) rule 64(3) or 64Z1(3) of Schedule 2 to the 2021 Rules.
 
@@ -170,7 +170,7 @@ The Electoral Management Board established under section 20E of the Democracy an
 - (a) factual information produced by the platform operator;
 - (b) links or signposts to other relevant web locations.
 
-### 7. Information accessibility[^key-08bdfdc821c8ecbe1574b472895bbfe1]
+### 7. Information accessibility[^c-08bdfdc821c8ecbe1574b472895bbfe1]
 
 The platform operator must take reasonable steps to ensure that—
 
@@ -179,7 +179,7 @@ The platform operator must take reasonable steps to ensure that—
 
 ## PART 4 — ELECTION ADDRESSES AND CANDIDATE STATEMENTS
 
-### 8. Election address for Senedd Cymru elections[^key-5a870ebe489022f6620bc1d5999a50e4]
+### 8. Election address for Senedd Cymru elections[^c-5a870ebe489022f6620bc1d5999a50e4]
 
 (1) During a Senedd Cymru election, an election address may be submitted to the platform operator by—
 
@@ -199,19 +199,19 @@ The platform operator must take reasonable steps to ensure that—
 - “**evidence of final approval**” (“***tystiolaeth o gymeradwyaeth derfynol***”) means the approval and artwork checking code that is sent from the universal service provider to the candidate or registered political party.
 - “**universal service provider**” (“***darparwr gwasanaeth cyffredinol***”) has the same meaning as in Part 3 of the Postal Services Act 2011[^f00012].
 
-**9.**[^key-3ec4ce4c702cc733f731f40b20769eaa] An election address must not contain any material that—
+**9.**[^c-3ec4ce4c702cc733f731f40b20769eaa] An election address must not contain any material that—
 
 - (a) is obscene, offensive, or indecent, or
 - (b) the publication of which would likely amount to the commission of an offence.
 
-### 10. Candidate statement for ordinary elections of principal councils[^key-7828abe5902db18eb6a6450aff84263f]
+### 10. Candidate statement for ordinary elections of principal councils[^c-7828abe5902db18eb6a6450aff84263f]
 
 During an ordinary election to a principal council in Wales, a candidate, or candidate’s agent, may send to the platform operator a candidate statement to be published on the platform.
 
-**11.**[^key-c4022fcbc31bf063c20621afade31225] (1) A candidate statement must—
+**11.**[^c-c4022fcbc31bf063c20621afade31225] (1) A candidate statement must—
 
 - (a) be in Welsh, English or both languages,
-- (b)[^key-199b5b3197b7aa1a24995872eb7da9d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-199b5b3197b7aa1a24995872eb7da9d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) be no more than 180 words, and
 - (d) be about the candidate and the reasons why the candidate is seeking election.
 
@@ -232,7 +232,7 @@ During an ordinary election to a principal council in Wales, a candidate, or can
 - (a) be recent, and
 - (b) show no other person.
 
-**12.**[^key-36fc32febf7fcf2f9a99f7b7dc8f45e6] A candidate statement must be submitted—
+**12.**[^c-36fc32febf7fcf2f9a99f7b7dc8f45e6] A candidate statement must be submitted—
 
 - (a) to the platform operator as specified in the notice of the submission process published under regulation 13;
 - (b) with a statement by the candidate or candidate’s agent confirming that—
@@ -240,7 +240,7 @@ During an ordinary election to a principal council in Wales, a candidate, or can
   - (ii) the candidate statement complies with the relevant requirements, and
   - (iii) the information within the candidate statement is the responsibility of the candidate or the candidate’s agent.
 
-### 13. Notice of submission process[^key-689cbff5834fd69d368cea0cf156274b]
+### 13. Notice of submission process[^c-689cbff5834fd69d368cea0cf156274b]
 
 (1) For each specified election, the platform operator must publish on the platform a notice of the submission process for election addresses or candidate statements.
 
@@ -252,7 +252,7 @@ During an ordinary election to a principal council in Wales, a candidate, or can
 - (b) the process for submitting an election address or candidate statement, including instructions about how to send the document to the platform operator and the electronic format required if submitted electronically, and
 - (c) any other information the platform operator considers appropriate to assist candidates, their agents, and registered political parties when submitting an election address or candidate statement.
 
-### 14. Publication of election addresses or candidate statements[^key-1d5c06586816f7c13f2f623350d0b59f]
+### 14. Publication of election addresses or candidate statements[^c-1d5c06586816f7c13f2f623350d0b59f]
 
 (1) The platform operator must publish, or arrange to be published, on the platform, an election address or candidate statement that—
 
@@ -271,11 +271,11 @@ During an ordinary election to a principal council in Wales, a candidate, or can
 - (f) a day that is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00013];
 - (g) a day appointed for public thanksgiving or mourning.
 
-### 15. General[^key-c24a3004f7bd3fd30cd4db5ef8e56306]
+### 15. General[^c-c24a3004f7bd3fd30cd4db5ef8e56306]
 
 The platform operator must ensure that arrangements are in place to enable an election address or candidate statement to be submitted electronically or in hardcopy.
 
-### 16. Liability for election addresses and candidate statements[^key-e2b3066e36035e2c467a3e603f396efd]
+### 16. Liability for election addresses and candidate statements[^c-e2b3066e36035e2c467a3e603f396efd]
 
 (1) No person is to incur any civil or criminal liability in respect of the publication of the content of an election address or candidate statement on the platform, other than—
 
@@ -284,7 +284,7 @@ The platform operator must ensure that arrangements are in place to enable an el
 
 ## PART 5 — REPORTS
 
-### 17. Reports by Welsh Ministers on functions exercised in relation to the platform[^key-77bca7056c2538fef81381678f4d1530]
+### 17. Reports by Welsh Ministers on functions exercised in relation to the platform[^c-77bca7056c2538fef81381678f4d1530]
 
 (1) The Welsh Ministers must publish a report for each specified election that sets out how functions conferred on the platform operator by these Regulations have been exercised in relation to that election.
 
@@ -300,9 +300,9 @@ The platform operator must ensure that arrangements are in place to enable an el
 - (c) an evaluation as to the usage of the platform, including the extent to which parts of the platform have been accessed by users;
 - (d) an assessment of the cost of operating the platform, including maintenance costs.
 
-**18.**[^key-047e7c4966c885d0f1a51d6e92205bbf] The platform operator must give the Welsh Ministers such assistance and information as the Welsh Ministers may reasonably require in connection with the preparation of a report under regulation 17(1).
+**18.**[^c-047e7c4966c885d0f1a51d6e92205bbf] The platform operator must give the Welsh Ministers such assistance and information as the Welsh Ministers may reasonably require in connection with the preparation of a report under regulation 17(1).
 
-**19.**[^key-cc7b760e60732d85d1338e4f133e93a2] A report published by the Welsh Ministers under regulation 17(1) must be laid before Senedd Cymru.
+**19.**[^c-cc7b760e60732d85d1338e4f133e93a2] A report published by the Welsh Ministers under regulation 17(1) must be laid before Senedd Cymru.
 
 Jayne Bryant
 
@@ -342,72 +342,72 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2024 asc 5](https://www.legislation.gov.uk/asc/2024/5). Section 26(9) defines “specified” to mean specified in regulations under subsection (1).
 
-[^key-d77077ef2f426401662fc8fdf6f5246e]: Commencement: Reg. 1 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-d77077ef2f426401662fc8fdf6f5246e]: Commencement: Reg. 1 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-0a1c24372f240b11839ab0a475abaf9c]: Commencement: Reg. 2 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-0a1c24372f240b11839ab0a475abaf9c]: Commencement: Reg. 2 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
 [^f00002]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Relevant amendments are made by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), section 5(1), the Senedd and Elections (Wales) [Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), Schedule 1, paragraph 2(1), (15), (16), (17) and (19) and the Senedd Cymru (Members and Elections) Act [2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), section 8.
 
 [^f00003]: Footnote: [S.I. 2021/1459 (W. 374)](https://www.legislation.gov.uk/wsi/2021/1459). Relevant amendments are made by [S.I. 2023/1064 (W. 180)](https://www.legislation.gov.uk/wsi/2023/1064) rules 4 and 8.
 
-[^key-8dc9387e22ec25c533db10a62e1ee514]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) inserted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(a)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/a)
+[^c-8dc9387e22ec25c533db10a62e1ee514]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) inserted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(a)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/a)
 
-[^key-5121db7a13a9d752c66a89cc101dd106]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) omitted (11.2.2026) by virtue of [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(b)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/b)
+[^c-5121db7a13a9d752c66a89cc101dd106]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) omitted (11.2.2026) by virtue of [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(b)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/b)
 
-[^key-cc4c35c32c96d6cb6a7b98b4d431bf24]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(c)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/c)
+[^c-cc4c35c32c96d6cb6a7b98b4d431bf24]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(c)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/c)
 
-[^key-79920344c0b773994b12fa33c1c3e70d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) inserted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(d)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/d)
+[^c-79920344c0b773994b12fa33c1c3e70d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2025/331/regulation/2) inserted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [5(d)](https://www.legislation.gov.uk/wsi/2026/9/regulation/5/d)
 
 [^f00005]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-5d478a44eb1de62daf8683165a164758]: Commencement: Reg. 3 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-5d478a44eb1de62daf8683165a164758]: Commencement: Reg. 3 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
 [^f00006]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4). Section 20E was inserted by section 1(2) of the Elections and Elected Bodies (Wales) Act 2024. The short title of the Democracy and Boundary Commission Cymru etc. Act 2013 was changed to that title from the Local Government (Democracy) (Wales) Act 2013 by section 11 of the Senedd Cymru (Members and Elections) Act [2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4).
 
-[^key-ef9685d53600e8a7db76bf77acfc6fb1]: Commencement: Reg. 4 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-ef9685d53600e8a7db76bf77acfc6fb1]: Commencement: Reg. 4 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-630386ec7206e0b2a4a4341643fc9417]: Commencement: Reg. 5 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-630386ec7206e0b2a4a4341643fc9417]: Commencement: Reg. 5 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-90ccb4f3d3d514bd8a30be31fd54806d]: Commencement: Reg. 6 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-90ccb4f3d3d514bd8a30be31fd54806d]: Commencement: Reg. 6 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-b983ae071b1ddc19e86845379f5c0c71]: Textual amendment: [Reg. 6(1)(a)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/a/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(a)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/a)
+[^c-b983ae071b1ddc19e86845379f5c0c71]: Textual amendment: [Reg. 6(1)(a)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/a/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(a)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/a)
 
-[^key-40a3723186963d800af2d931e1297180]: Textual amendment: [Reg. 6(1)(b)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/b/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(b)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/b)
+[^c-40a3723186963d800af2d931e1297180]: Textual amendment: [Reg. 6(1)(b)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/b/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(b)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/b)
 
-[^key-e441872d5dde049571a825700ecf9188]: Textual amendment: [Reg. 6(1)(c)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/c/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(c)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/c)
+[^c-e441872d5dde049571a825700ecf9188]: Textual amendment: [Reg. 6(1)(c)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/c/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(c)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/c)
 
-[^key-21b11ce78e5a5d146a5d8adda462ae5a]: Textual amendment: [Reg. 6(1)(f)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/f/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(d)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/d)
+[^c-21b11ce78e5a5d146a5d8adda462ae5a]: Textual amendment: [Reg. 6(1)(f)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/f/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(d)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/d)
 
-[^key-ce533844183668d870e683034240ed05]: Textual amendment: [Reg. 6(1)(h)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/h/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(e)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/e)
+[^c-ce533844183668d870e683034240ed05]: Textual amendment: [Reg. 6(1)(h)(i)](https://www.legislation.gov.uk/wsi/2025/331/regulation/6/1/h/i) substituted (11.2.2026) by [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [6(e)](https://www.legislation.gov.uk/wsi/2026/9/regulation/6/e)
 
-[^key-08bdfdc821c8ecbe1574b472895bbfe1]: Commencement: Reg. 7 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-08bdfdc821c8ecbe1574b472895bbfe1]: Commencement: Reg. 7 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-5a870ebe489022f6620bc1d5999a50e4]: Commencement: Reg. 8 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-5a870ebe489022f6620bc1d5999a50e4]: Commencement: Reg. 8 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
 [^f00012]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5), see section 65.
 
-[^key-3ec4ce4c702cc733f731f40b20769eaa]: Commencement: Reg. 9 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-3ec4ce4c702cc733f731f40b20769eaa]: Commencement: Reg. 9 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-7828abe5902db18eb6a6450aff84263f]: Commencement: Reg. 10 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-7828abe5902db18eb6a6450aff84263f]: Commencement: Reg. 10 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-c4022fcbc31bf063c20621afade31225]: Commencement: Reg. 11 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-c4022fcbc31bf063c20621afade31225]: Commencement: Reg. 11 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-199b5b3197b7aa1a24995872eb7da9d0]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/wsi/2025/331/regulation/11/1/b) omitted (11.2.2026) by virtue of [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [7](https://www.legislation.gov.uk/wsi/2026/9/regulation/7)
+[^c-199b5b3197b7aa1a24995872eb7da9d0]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/wsi/2025/331/regulation/11/1/b) omitted (11.2.2026) by virtue of [The Welsh Elections Information Platform (Amendments) Regulations 2026 (W.S.I. 2026/9)](https://www.legislation.gov.uk/wsi/2026/9), [regs. 2](https://www.legislation.gov.uk/wsi/2026/9/regulation/2), [7](https://www.legislation.gov.uk/wsi/2026/9/regulation/7)
 
-[^key-36fc32febf7fcf2f9a99f7b7dc8f45e6]: Commencement: Reg. 12 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-36fc32febf7fcf2f9a99f7b7dc8f45e6]: Commencement: Reg. 12 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-689cbff5834fd69d368cea0cf156274b]: Commencement: Reg. 13 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-689cbff5834fd69d368cea0cf156274b]: Commencement: Reg. 13 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-1d5c06586816f7c13f2f623350d0b59f]: Commencement: Reg. 14 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-1d5c06586816f7c13f2f623350d0b59f]: Commencement: Reg. 14 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
 [^f00013]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c24a3004f7bd3fd30cd4db5ef8e56306]: Commencement: Reg. 15 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-c24a3004f7bd3fd30cd4db5ef8e56306]: Commencement: Reg. 15 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-e2b3066e36035e2c467a3e603f396efd]: Commencement: Reg. 16 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-e2b3066e36035e2c467a3e603f396efd]: Commencement: Reg. 16 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-77bca7056c2538fef81381678f4d1530]: Commencement: Reg. 17 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-77bca7056c2538fef81381678f4d1530]: Commencement: Reg. 17 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-047e7c4966c885d0f1a51d6e92205bbf]: Commencement: Reg. 18 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-047e7c4966c885d0f1a51d6e92205bbf]: Commencement: Reg. 18 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
 
-[^key-cc7b760e60732d85d1338e4f133e93a2]: Commencement: Reg. 19 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)
+[^c-cc7b760e60732d85d1338e4f133e93a2]: Commencement: Reg. 19 in force at 14.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/331/regulation/1/2)

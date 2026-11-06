@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Flood risk management plans: approval and publication[^key-fa9d594edf03479d25283ffc6952fa5a]
+## 32. Flood risk management plans: approval and publication[^c-fa9d594edf03479d25283ffc6952fa5a]
 
 *Extent: S*
 
@@ -45,10 +45,10 @@ by such date as the direction may specify.
 
 (6) In making copies of the plan available to the public under subsection (5)(c), SEPA may charge a reasonable price for each copy.
 
-(7)[^key-f5ddf1c111a38738eb4a7cf8567f2c0e] In relation to a Scottish cross border area, subsection (5) applies as if the duties on SEPA in relation to the plan in paragraphs (a), (b), (c) and (d) included similar duties in relation to the flood risk management plans prepared by the Environment Agency and the lead local flood authority under regulations 25 and 26 of the Flood Risk Regulations for an adjacent English cross border area.
+(7)[^c-f5ddf1c111a38738eb4a7cf8567f2c0e] In relation to a Scottish cross border area, subsection (5) applies as if the duties on SEPA in relation to the plan in paragraphs (a), (b), (c) and (d) included similar duties in relation to the flood risk management plans prepared by the Environment Agency and the lead local flood authority under regulations 25 and 26 of the Flood Risk Regulations for an adjacent English cross border area.
 
 ## Annotations
 
-[^key-fa9d594edf03479d25283ffc6952fa5a]: Commencement: S. 32 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-fa9d594edf03479d25283ffc6952fa5a]: Commencement: S. 32 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
 
-[^key-f5ddf1c111a38738eb4a7cf8567f2c0e]: Textual amendment: [S. 32(7)](https://www.legislation.gov.uk/asp/2009/6/section/32/7) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2010/1102/regulation/32)
+[^c-f5ddf1c111a38738eb4a7cf8567f2c0e]: Textual amendment: [S. 32(7)](https://www.legislation.gov.uk/asp/2009/6/section/32/7) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2010/1102/regulation/32)

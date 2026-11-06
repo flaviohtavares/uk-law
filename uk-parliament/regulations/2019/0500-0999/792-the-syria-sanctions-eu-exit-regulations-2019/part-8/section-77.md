@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Disclosure of information[^key-dbdba708207486459518c41b15472b5d]
+## 77. Disclosure of information[^c-dbdba708207486459518c41b15472b5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any information obtained under or by virtue of Part 7 (Exceptions and licences), this Part or Part 10 (Maritime enforcement), or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions[^key-9c2e30f79d3af6c371b9991eaf61e717]) or Part 5 (Trade)[^key-e940056429dd48dec2fb12ad6a2514db], or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions[^c-9c2e30f79d3af6c371b9991eaf61e717]) or Part 5 (Trade)[^c-e940056429dd48dec2fb12ad6a2514db], or
   - (ii) any exception or licence under Part 7 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -73,10 +73,10 @@ summary: ''
 
 ## Annotations
 
-[^key-dbdba708207486459518c41b15472b5d]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-dbdba708207486459518c41b15472b5d]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9c2e30f79d3af6c371b9991eaf61e717]: Textual amendment: Words in [reg. 77(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/792/regulation/77/1/b/i) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2024/643/regulation/7/8)
+[^c-9c2e30f79d3af6c371b9991eaf61e717]: Textual amendment: Words in [reg. 77(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/792/regulation/77/1/b/i) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2024/643/regulation/7/8)
 
-[^key-e940056429dd48dec2fb12ad6a2514db]: Textual amendment: Words in [reg. 77(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/792/regulation/77/1/b/i) substituted (25.4.2025) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2025/507/regulation/21)
+[^c-e940056429dd48dec2fb12ad6a2514db]: Textual amendment: Words in [reg. 77(1)(b)(i)](https://www.legislation.gov.uk/uksi/2019/792/regulation/77/1/b/i) substituted (25.4.2025) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2025/507/regulation/21)
 
 [^c23698221]: Marginal citation: Section 1(8) of the Act defines an “international obligation” as an obligation of the United Kingdom created or arising by or under any international agreement.

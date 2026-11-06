@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-07de526e536771303b6dd63b3ddc4d4e]
+## 1. Citation and commencement[^c-07de526e536771303b6dd63b3ddc4d4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Climate Change Levy (General) Regulations 
 
 ## Annotations
 
-[^key-07de526e536771303b6dd63b3ddc4d4e]: Commencement: Reg. 1 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-07de526e536771303b6dd63b3ddc4d4e]: Commencement: Reg. 1 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

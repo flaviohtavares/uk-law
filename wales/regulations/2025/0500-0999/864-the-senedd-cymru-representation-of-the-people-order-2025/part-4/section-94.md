@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Security for costs[^key-f862fc1648769ac6320607baba7ab7cb]
+## 94. Security for costs[^c-f862fc1648769ac6320607baba7ab7cb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f862fc1648769ac6320607baba7ab7cb]: Commencement: Art. 94 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f862fc1648769ac6320607baba7ab7cb]: Commencement: Art. 94 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

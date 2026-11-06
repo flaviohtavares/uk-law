@@ -35,29 +35,29 @@ authorising the placing on the market of nicotinamide riboside chloride as a nov
 
 (Text with EEA relevance) (revoked)
 
-[^key-5fb7e447e5b7ec5ca01b2d923d86564b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fb7e447e5b7ec5ca01b2d923d86564b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-5fb7e447e5b7ec5ca01b2d923d86564b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fb7e447e5b7ec5ca01b2d923d86564b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fb7e447e5b7ec5ca01b2d923d86564b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-5fb7e447e5b7ec5ca01b2d923d86564b]
+## ANNEX[^c-5fb7e447e5b7ec5ca01b2d923d86564b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fb7e447e5b7ec5ca01b2d923d86564b](1)
+[^c-5fb7e447e5b7ec5ca01b2d923d86564b](1)
 
 the following entry is inserted in Table 1 (Authorised novel foods) in alphabetical order:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fb7e447e5b7ec5ca01b2d923d86564b](2)
+[^c-5fb7e447e5b7ec5ca01b2d923d86564b](2)
 
 the following entry is inserted in Table 2 (Specifications) in alphabetical order:
 
@@ -65,4 +65,4 @@ the following entry is inserted in Table 2 (Specifications) in alphabetical orde
 
 ## Annotations
 
-[^key-5fb7e447e5b7ec5ca01b2d923d86564b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 39](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/39) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-5fb7e447e5b7ec5ca01b2d923d86564b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 39](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/39) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

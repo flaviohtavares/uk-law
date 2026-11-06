@@ -54,16 +54,16 @@ summary: ''
 
 (5) In this regulation—
 
-- (a) “company” has the meaning given by section 832(1) [^key-6b3100484b269365b246fbd75210d0ab]... of the Taxes Act (interpretation of the Tax Acts) and Part 2 of Schedule 1 to[^key-dbbc9bba27a799bc63c58facc33f0129] ITEPA 2003;
+- (a) “company” has the meaning given by section 832(1) [^c-6b3100484b269365b246fbd75210d0ab]... of the Taxes Act (interpretation of the Tax Acts) and Part 2 of Schedule 1 to[^c-dbbc9bba27a799bc63c58facc33f0129] ITEPA 2003;
 - (b) “the director” means the director to or for the benefit of whom the payment referred to in paragraph (1) is made; and
 - (c) in paragraph (4)(d)—
   - (i) “control” has the same meaning as in section 840 of the Taxes Act,
-  - (ii) “any person connected with the director” means any of the following, namely the spouse, civil partner,[^key-613eafb45305fd3900232db98a9ad2a6] parent, child, son-in-law or daughter-in-law of the director.
+  - (ii) “any person connected with the director” means any of the following, namely the spouse, civil partner,[^c-613eafb45305fd3900232db98a9ad2a6] parent, child, son-in-law or daughter-in-law of the director.
 
 ## Annotations
 
-[^key-6b3100484b269365b246fbd75210d0ab]: Textual amendment: Words in reg. 27(5)(a) omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/5/a)
+[^c-6b3100484b269365b246fbd75210d0ab]: Textual amendment: Words in reg. 27(5)(a) omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/5/a)
 
-[^key-dbbc9bba27a799bc63c58facc33f0129]: Textual amendment: Words in reg. 27(5)(a) added (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/5/b)
+[^c-dbbc9bba27a799bc63c58facc33f0129]: Textual amendment: Words in reg. 27(5)(a) added (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/5/b)
 
-[^key-613eafb45305fd3900232db98a9ad2a6]: Textual amendment: Words in reg. 27(5)(c)(ii) inserted (5.12.2005) by [The Social Security (Contributions) (Amendment No. 6) Regulations 2005 (S.I. 2005/3130)](https://www.legislation.gov.uk/uksi/2005/3130), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3130/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/3130/regulation/4/2)
+[^c-613eafb45305fd3900232db98a9ad2a6]: Textual amendment: Words in reg. 27(5)(c)(ii) inserted (5.12.2005) by [The Social Security (Contributions) (Amendment No. 6) Regulations 2005 (S.I. 2005/3130)](https://www.legislation.gov.uk/uksi/2005/3130), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3130/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/3130/regulation/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5BA — Commissioners[^key-b99ab33b9051a1a26165234f13173e36]
+## Schedule 5BA — Commissioners[^c-b99ab33b9051a1a26165234f13173e36]
 
 *Extent: E+W*
 
@@ -229,4 +229,4 @@ The appointment of a person as a commissioner ends if—
 
 ## Annotations
 
-[^key-b99ab33b9051a1a26165234f13173e36]: Textual amendment: [Sch. 5BA](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5BA) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/3/paragraph/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-b99ab33b9051a1a26165234f13173e36]: Textual amendment: [Sch. 5BA](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5BA) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/3/paragraph/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

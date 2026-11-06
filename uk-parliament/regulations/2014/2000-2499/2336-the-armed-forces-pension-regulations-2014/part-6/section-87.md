@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Recovery of lump sum payments made to nominees[^key-c37337d79774e56aa3e2725de58fa71b]
+## 87. Recovery of lump sum payments made to nominees[^c-c37337d79774e56aa3e2725de58fa71b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c37337d79774e56aa3e2725de58fa71b]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2014/2336/regulation/87) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-c37337d79774e56aa3e2725de58fa71b]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2014/2336/regulation/87) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

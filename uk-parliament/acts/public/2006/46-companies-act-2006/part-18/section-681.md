@@ -30,10 +30,10 @@ summary: ''
 - (b) an allotment of bonus shares;
 - (c) a reduction of capital under Chapter 10 of Part 17;
 - (d) a redemption of shares under Chapter 3 or a purchase of shares under Chapter 4 of this Part;
-- (e) anything done in pursuance of an order of the court under Part 26 or 26A[^key-9fdfc436256221318b39ba991bb00627] (order sanctioning compromise or arrangement with members or creditors);
+- (e) anything done in pursuance of an order of the court under Part 26 or 26A[^c-9fdfc436256221318b39ba991bb00627] (order sanctioning compromise or arrangement with members or creditors);
 - (f) anything done under an arrangement made in pursuance of section 110 of the Insolvency Act 1986 (c. 45) or Article 96 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) (liquidator in winding up accepting shares as consideration for sale of company's property);
 - (g) anything done under an arrangement made between a company and its creditors that is binding on the creditors by virtue of Part 1 of the Insolvency Act 1986 or Part 2 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)).
 
 ## Annotations
 
-[^key-9fdfc436256221318b39ba991bb00627]: Textual amendment: Words in [s. 681(2)(e)](https://www.legislation.gov.uk/ukpga/2006/46/section/681/2/e) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/34) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-9fdfc436256221318b39ba991bb00627]: Textual amendment: Words in [s. 681(2)(e)](https://www.legislation.gov.uk/ukpga/2006/46/section/681/2/e) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/34) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

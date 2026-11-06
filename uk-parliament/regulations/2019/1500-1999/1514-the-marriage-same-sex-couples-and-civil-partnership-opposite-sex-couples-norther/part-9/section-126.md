@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Administration of Estates Act (Northern Ireland) 1955[^key-4a6ef029c42411bb0135ef063202d7d8]
+## 126. Administration of Estates Act (Northern Ireland) 1955[^c-4a6ef029c42411bb0135ef063202d7d8]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4a6ef029c42411bb0135ef063202d7d8]: Commencement: Reg. 126 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-4a6ef029c42411bb0135ef063202d7d8]: Commencement: Reg. 126 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00208]: Footnote: [1955 c.24 (N.I.)](https://www.legislation.gov.uk/apni/1955/24).
 

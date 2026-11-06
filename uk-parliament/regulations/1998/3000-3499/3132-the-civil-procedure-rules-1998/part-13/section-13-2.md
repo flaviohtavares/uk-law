@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.2. Cases where the court must set aside judgment entered under Part 12[^key-6c5f73110ac46cdb6dc43ecb4c88e8db]
+## 13.2. Cases where the court must set aside judgment entered under Part 12[^c-6c5f73110ac46cdb6dc43ecb4c88e8db]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The court must set aside<sup>(GL)</sup> a judgment entered under Part 12 if judg
 
 ## Annotations
 
-[^key-6c5f73110ac46cdb6dc43ecb4c88e8db]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/13.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-6c5f73110ac46cdb6dc43ecb4c88e8db]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/13.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

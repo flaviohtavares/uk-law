@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Variation and discharge of CCE prevention orders[^key-f01d86bebaaeb71cb8f4d16847c080eb]
+## 57. Variation and discharge of CCE prevention orders[^c-f01d86bebaaeb71cb8f4d16847c080eb]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ of that application.
 
 ## Annotations
 
-[^key-f01d86bebaaeb71cb8f4d16847c080eb]: Commencement: S. 57 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f01d86bebaaeb71cb8f4d16847c080eb]: Commencement: S. 57 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

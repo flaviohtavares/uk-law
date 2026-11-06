@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Advisory committee on disinformation and misinformation[^key-602743a7cfdf937c6a30aa3009beda4b][^key-25341a62fff0f5d44abef95dbdfd77c9]
+## 152. Advisory committee on disinformation and misinformation[^c-602743a7cfdf937c6a30aa3009beda4b][^c-25341a62fff0f5d44abef95dbdfd77c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-602743a7cfdf937c6a30aa3009beda4b]: Commencement: S. 152 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-602743a7cfdf937c6a30aa3009beda4b]: Commencement: S. 152 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-25341a62fff0f5d44abef95dbdfd77c9]: Commencement: S. 152 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-25341a62fff0f5d44abef95dbdfd77c9]: Commencement: S. 152 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

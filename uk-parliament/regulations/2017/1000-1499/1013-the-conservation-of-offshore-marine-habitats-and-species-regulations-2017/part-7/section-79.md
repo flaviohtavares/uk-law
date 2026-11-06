@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Reports to the Commission[^key-1dbe4321ad49e9d401af85bfd0ed362b]
+## 79. Reports to the Commission[^c-1dbe4321ad49e9d401af85bfd0ed362b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dbe4321ad49e9d401af85bfd0ed362b]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/uksi/2017/1013/regulation/79) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [68](https://www.legislation.gov.uk/uksi/2019/579/regulation/68); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1dbe4321ad49e9d401af85bfd0ed362b]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/uksi/2017/1013/regulation/79) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [68](https://www.legislation.gov.uk/uksi/2019/579/regulation/68); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

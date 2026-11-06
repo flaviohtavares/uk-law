@@ -42,7 +42,7 @@ summary: ''
 (6) In subsection (4)(b) or (5)(b), the reference to distributable profits of preceding periods does not include—
 
 - (a) profits previously distributed, or
-- (b) profits previously treated as relevant profits for the purposes of section 58 or 61 of this Act[^key-0a19d9e28ec42365745c28e830c65fd3], section 799 of ICTA or section 506 of the Income and Corporation Taxes Act 1970.
+- (b) profits previously treated as relevant profits for the purposes of section 58 or 61 of this Act[^c-0a19d9e28ec42365745c28e830c65fd3], section 799 of ICTA or section 506 of the Income and Corporation Taxes Act 1970.
 
 (7) For the purposes of subsection (4)(b) or (5)(b), the profits of the most recent preceding period are to be taken into account first, then the profits of the next most recent preceding period, and so on.
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a19d9e28ec42365745c28e830c65fd3]: Textual amendment: Words in s. 59(6)(b) substituted (retrospectively and with effect in accordance with art. 1(2) of the amending S.I.) by [Taxation (International and Other Provisions) Act 2010 (Amendment) Order 2010 (S.I. 2010/2901)](https://www.legislation.gov.uk/uksi/2010/2901), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2901/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/2901/article/4/2)
+[^c-0a19d9e28ec42365745c28e830c65fd3]: Textual amendment: Words in s. 59(6)(b) substituted (retrospectively and with effect in accordance with art. 1(2) of the amending S.I.) by [Taxation (International and Other Provisions) Act 2010 (Amendment) Order 2010 (S.I. 2010/2901)](https://www.legislation.gov.uk/uksi/2010/2901), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2901/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/2901/article/4/2)

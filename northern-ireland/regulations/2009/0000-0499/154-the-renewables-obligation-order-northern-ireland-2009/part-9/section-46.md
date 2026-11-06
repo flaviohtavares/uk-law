@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Information to be provided to the Authority where electricity is generated from biomass ...[^key-44967a2ac80e030c6497c367dfe8c056]
+## 46. Information to be provided to the Authority where electricity is generated from biomass ...[^c-44967a2ac80e030c6497c367dfe8c056]
 
 *Extent: N.I.*
 
@@ -54,14 +54,14 @@ summary: ''
 - (c) where the biomass was gas, its volume (in cubic metres) when measured at 25 degrees Celsius and 0.1 megapascals;
 - (d) where the biomass was an energy crop and was not a bioliquid—
   - (i) the type of energy crop in question; and
-  - (ii) the use of the land on which the biomass was grown in the year before the land was first used to grow energy crops; [^key-58e72cd5a7b70f15cc2e87eb07d42f32]...
+  - (ii) the use of the land on which the biomass was grown in the year before the land was first used to grow energy crops; [^c-58e72cd5a7b70f15cc2e87eb07d42f32]...
 - (e) where the biomass was, or was derived from, wood and was not waste or bioliquid—
   - (i) the name of the forest or other location where that wood was grown;
   - (ii) a description of the forestry management practices or land management practices used in the forest or other location where that wood was grown;
   - (iii) where any of the wood was likely to be a protected or threatened species, the name of that species and the proportion of the biomass that is likely to be composed of, or derived from, that species;
   - (iv) the proportion of the biomass that was, or was derived from, a saw log, and the specification adopted by the operator in accordance with paragraph (6) for the purpose of determining the proportion of the biomass that was, or was derived from, a saw log; and
-  - (v) the proportion of the biomass that was, or was derived from, hardwood and the proportion that was, or was derived from, softwood; and[^key-e78d9b41489eeb3adef8253338586ef0]
-- (f)[^key-6bda2b2769005a94b05697843f22aeba] where the biomass was bioliquid used in a generating station on or after 1st January 2018, its energy content produced from each of the following categories of crop—
+  - (v) the proportion of the biomass that was, or was derived from, hardwood and the proportion that was, or was derived from, softwood; and[^c-e78d9b41489eeb3adef8253338586ef0]
+- (f)[^c-6bda2b2769005a94b05697843f22aeba] where the biomass was bioliquid used in a generating station on or after 1st January 2018, its energy content produced from each of the following categories of crop—
   - (i) starch-rich crops;
   - (ii) sugars;
   - (iii) oil crops;
@@ -95,25 +95,25 @@ summary: ''
 - “Forestry Commission Field Book 9” means Forestry Commission Field Book 9, 2nd edition 1993, entitled “Classification and Presentation of Softwood Sawlogs”;
 - “protected or threatened species” means—
   - (a) a species listed in Appendices I, II or III of the Convention on International Trade in Endangered Species of Wild Fauna and Flora; or
-  - (b) a species which is at risk of extinction; [^key-b308d5ca2b5dbd11f1c93f9ef57ed359]...
-- “saw log” means wood which is suitable for processing at a sawmill; and[^key-b2ee6399360981a64590ee1136a4707a]
-- “starch-rich crops” includes—[^key-0e443d5f68ca05307fe64dbc971f34dd]
+  - (b) a species which is at risk of extinction; [^c-b308d5ca2b5dbd11f1c93f9ef57ed359]...
+- “saw log” means wood which is suitable for processing at a sawmill; and[^c-b2ee6399360981a64590ee1136a4707a]
+- “starch-rich crops” includes—[^c-0e443d5f68ca05307fe64dbc971f34dd]
   - (a) cereals (regardless of whether only the grains are used or the whole plant (such as in the case of green maize) is used);
   - (b) tubers and root crops (such as potatoes, Jerusalem artichokes, sweet potatoes, cassava and yams); and
   - (c) corm crops (such as taro and cocoyam).
 
 ## Annotations
 
-[^key-44967a2ac80e030c6497c367dfe8c056]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/nisr/2009/154/article/46) substituted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [7](https://www.legislation.gov.uk/nisr/2016/84/article/7) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
+[^c-44967a2ac80e030c6497c367dfe8c056]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/nisr/2009/154/article/46) substituted (1.3.2016) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/84)](https://www.legislation.gov.uk/nisr/2016/84), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/84/article/1/1), [7](https://www.legislation.gov.uk/nisr/2016/84/article/7) (with [art. 12](https://www.legislation.gov.uk/nisr/2016/84/article/12))
 
-[^key-58e72cd5a7b70f15cc2e87eb07d42f32]: Textual amendment: Word in [art. 46(4)(d)](https://www.legislation.gov.uk/nisr/2009/154/article/46/4/d) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/2/a)
+[^c-58e72cd5a7b70f15cc2e87eb07d42f32]: Textual amendment: Word in [art. 46(4)(d)](https://www.legislation.gov.uk/nisr/2009/154/article/46/4/d) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/2/a)
 
-[^key-e78d9b41489eeb3adef8253338586ef0]: Textual amendment: Words in [art. 46(4)(e)(v)](https://www.legislation.gov.uk/nisr/2009/154/article/46/4/e/v) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/2/b)
+[^c-e78d9b41489eeb3adef8253338586ef0]: Textual amendment: Words in [art. 46(4)(e)(v)](https://www.legislation.gov.uk/nisr/2009/154/article/46/4/e/v) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/2/b)
 
-[^key-6bda2b2769005a94b05697843f22aeba]: Textual amendment: [Art. 46(4)(f)](https://www.legislation.gov.uk/nisr/2009/154/article/46/4/f) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(2)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/2/c)
+[^c-6bda2b2769005a94b05697843f22aeba]: Textual amendment: [Art. 46(4)(f)](https://www.legislation.gov.uk/nisr/2009/154/article/46/4/f) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(2)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/2/c)
 
-[^key-b308d5ca2b5dbd11f1c93f9ef57ed359]: Textual amendment: Word in [art. 46(10)](https://www.legislation.gov.uk/nisr/2009/154/article/46/10) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/3/a)
+[^c-b308d5ca2b5dbd11f1c93f9ef57ed359]: Textual amendment: Word in [art. 46(10)](https://www.legislation.gov.uk/nisr/2009/154/article/46/10) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/3/a)
 
-[^key-b2ee6399360981a64590ee1136a4707a]: Textual amendment: Words in [art. 46(10)](https://www.legislation.gov.uk/nisr/2009/154/article/46/10) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/3/b)
+[^c-b2ee6399360981a64590ee1136a4707a]: Textual amendment: Words in [art. 46(10)](https://www.legislation.gov.uk/nisr/2009/154/article/46/10) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/3/b)
 
-[^key-0e443d5f68ca05307fe64dbc971f34dd]: Textual amendment: Words in [art. 46(10)](https://www.legislation.gov.uk/nisr/2009/154/article/46/10) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(3)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/3/c)
+[^c-0e443d5f68ca05307fe64dbc971f34dd]: Textual amendment: Words in [art. 46(10)](https://www.legislation.gov.uk/nisr/2009/154/article/46/10) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [14(3)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/14/3/c)

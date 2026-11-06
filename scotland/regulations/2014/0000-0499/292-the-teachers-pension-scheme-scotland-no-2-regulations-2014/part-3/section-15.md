@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Meaning of “full-time” and “part-time” employment[^key-9601917bedaa23c5a73d5acb9ebe256f]
+## 15. Meaning of “full-time” and “part-time” employment[^c-9601917bedaa23c5a73d5acb9ebe256f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purpose of these Regulations—
 
 ## Annotations
 
-[^key-9601917bedaa23c5a73d5acb9ebe256f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/292/regulation/15) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9601917bedaa23c5a73d5acb9ebe256f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/292/regulation/15) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -48,22 +48,22 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has consulted in accordance with section 53(2) of that Act and considers that these Regulations are necessary for the purpose of promoting the efficiency and effectiveness of one or more police forces in accordance with section 53(1B) of that Act.
 
-## 1. Citation and commencement[^key-ac1c028cc9ef9c7f8113bc3650df91b7]
+## 1. Citation and commencement[^c-ac1c028cc9ef9c7f8113bc3650df91b7]
 
 These Regulations may be cited as the Police Act 1996 (Equipment) Regulations 2011 and shall come into force on 4th March 2011.
 
-## 2. Requirements as to design and performance of equipment[^key-e2d60ae1f4a4eddfe62d43e1bb00bdb0]
+## 2. Requirements as to design and performance of equipment[^c-e2d60ae1f4a4eddfe62d43e1bb00bdb0]
 
-Subject to regulations 3 and 4[^key-16399e9549f2c27bbcd8a87dd3f5d84a] —
+Subject to regulations 3 and 4[^c-16399e9549f2c27bbcd8a87dd3f5d84a] —
 
 - (a) the design and performance standards of equipment provided or used for police purposes which falls within the scope of the relevant national framework arrangement referred to in the Schedule to these Regulations shall comply with the specifications for that equipment contained in that agreement;
 - (b) a police force shall use equipment which falls within the scope of the relevant national framework arrangement referred to in the Schedule to the Regulations only if it has been acquired in accordance with the procedures set out in that agreement.
 
-## 3. Transitional provision[^key-48f7561e7f1f7b966bea91990332d01b]
+## 3. Transitional provision[^c-48f7561e7f1f7b966bea91990332d01b]
 
 Where on the date these Regulations come into force a contractual commitment has already been entered into to acquire the specified equipment for police purposes, regulation 2 shall not apply until the contractual arrangements in question expire or are otherwise terminated in accordance with their terms.
 
-## 4. Expiry of relevant national framework arrangement[^key-a49e95e8e601802a87194cb01d3c431b]
+## 4. Expiry of relevant national framework arrangement[^c-a49e95e8e601802a87194cb01d3c431b]
 
 Regulation 2 shall not apply where the relevant national framework arrangement has expired or has otherwise terminated.
 
@@ -75,7 +75,7 @@ Home Office
 
 9th February 2011
 
-## SCHEDULE[^key-6791be4f971f0db21268d0d60980ce84]
+## SCHEDULE[^c-6791be4f971f0db21268d0d60980ce84]
 
 Regulation 2
 
@@ -102,17 +102,17 @@ Where binding contractual arrangements are already in existence for the supply o
 
 [^f00001]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Subsection (1) was re-numbered as such, and subsection (2) inserted, by section 134(1) of and paragraph 75 of Schedule 9 to the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50). Subsections (1A) and (1B) were substituted by section 6 of the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) and were amended by section 11 of the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26).
 
-[^key-ac1c028cc9ef9c7f8113bc3650df91b7]: Commencement: Reg. 1 in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
+[^c-ac1c028cc9ef9c7f8113bc3650df91b7]: Commencement: Reg. 1 in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
 
-[^key-e2d60ae1f4a4eddfe62d43e1bb00bdb0]: Commencement: Reg. 2 in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
+[^c-e2d60ae1f4a4eddfe62d43e1bb00bdb0]: Commencement: Reg. 2 in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
 
-[^key-16399e9549f2c27bbcd8a87dd3f5d84a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/300/regulation/2) substituted (19.3.2014) by [The Police Act 1996 (Equipment) (Amendment) Regulations 2014 (S.I. 2014/395)](https://www.legislation.gov.uk/uksi/2014/395), [regs. 1](https://www.legislation.gov.uk/uksi/2014/395/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/395/regulation/2/2)
+[^c-16399e9549f2c27bbcd8a87dd3f5d84a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2011/300/regulation/2) substituted (19.3.2014) by [The Police Act 1996 (Equipment) (Amendment) Regulations 2014 (S.I. 2014/395)](https://www.legislation.gov.uk/uksi/2014/395), [regs. 1](https://www.legislation.gov.uk/uksi/2014/395/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/395/regulation/2/2)
 
-[^key-48f7561e7f1f7b966bea91990332d01b]: Commencement: Reg. 3 in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
+[^c-48f7561e7f1f7b966bea91990332d01b]: Commencement: Reg. 3 in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
 
-[^key-a49e95e8e601802a87194cb01d3c431b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/300/regulation/4) inserted (19.3.2014) by [The Police Act 1996 (Equipment) (Amendment) Regulations 2014 (S.I. 2014/395)](https://www.legislation.gov.uk/uksi/2014/395), [regs. 1](https://www.legislation.gov.uk/uksi/2014/395/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/395/regulation/2/3)
+[^c-a49e95e8e601802a87194cb01d3c431b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/300/regulation/4) inserted (19.3.2014) by [The Police Act 1996 (Equipment) (Amendment) Regulations 2014 (S.I. 2014/395)](https://www.legislation.gov.uk/uksi/2014/395), [regs. 1](https://www.legislation.gov.uk/uksi/2014/395/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/395/regulation/2/3)
 
-[^key-6791be4f971f0db21268d0d60980ce84]: Commencement: Sch. in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
+[^c-6791be4f971f0db21268d0d60980ce84]: Commencement: Sch. in force at 4.3.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/300/regulation/1)
 
 [^f00002]: Footnote: This Framework Agreement is entitled “Supply and Delivery of Body Armour to protection level HG1A/KR1 and associated covers.” It was published by the Metropolitan Police Authority in 2010.
 

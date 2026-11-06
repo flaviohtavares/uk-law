@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Section 53(7): prescribed provision[^key-1bb6bbb4e8e55280ce141bf47da8eaa9]
+## 19. Section 53(7): prescribed provision[^c-1bb6bbb4e8e55280ce141bf47da8eaa9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of section 53(7)(a)(iii) of the 1984 Act, section 52(1)(a) of t
 
 ## Annotations
 
-[^key-1bb6bbb4e8e55280ce141bf47da8eaa9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/1268/regulation/19) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-1bb6bbb4e8e55280ce141bf47da8eaa9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/1268/regulation/19) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

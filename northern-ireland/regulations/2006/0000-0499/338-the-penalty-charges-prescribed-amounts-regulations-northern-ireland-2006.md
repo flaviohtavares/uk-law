@@ -41,17 +41,17 @@ Coming into operation -
 
 The Department for Regional Development makes the following Regulations in exercise of the powers conferred on it by Article 4(4) of the Traffic Management (Northern Ireland) Order 2005[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-dbc472f27e1706b330679f02ba88e13c]
+## 1. Citation, commencement and interpretation[^c-dbc472f27e1706b330679f02ba88e13c]
 
 (1) These Regulations may be cited as The Penalty Charges (Prescribed Amounts) Regulations (Northern Ireland) 2006 and shall come into operation on 30th October 2006.
 
 (2) In these Regulations “the Order” means the Traffic Management (Northern Ireland) Order 2005.
 
-## 2. Penalty Charges[^key-857a536a9e7f6173ffa28eefb049339e]
+## 2. Penalty Charges[^c-857a536a9e7f6173ffa28eefb049339e]
 
-The penalty charge payable for each of the contraventions specified in Schedule 1 to the Order shall be £90.00[^key-10e29f897685d30da9df0c1981d4a233].
+The penalty charge payable for each of the contraventions specified in Schedule 1 to the Order shall be £90.00[^c-10e29f897685d30da9df0c1981d4a233].
 
-## 3. Reductions and Increases[^key-884a59315256236361eb1699c06515cb]
+## 3. Reductions and Increases[^c-884a59315256236361eb1699c06515cb]
 
 (1) The percentage reduction for the purposes of Articles 5(3)(d) and 7(3)(d) of the Order shall be 50%.
 
@@ -75,10 +75,10 @@ The penalty charge to be applied in these cases is £60. Percentage reductions o
 
 [^f00001]: Footnote: [S.I. 2005/1964 (N.I. 14)](https://www.legislation.gov.uk/nisi/2005/1964); see Article 2(2) for the definition of “prescribed”
 
-[^key-dbc472f27e1706b330679f02ba88e13c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/338/regulation/1) in operation at 30.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/338/regulation/1/1)
+[^c-dbc472f27e1706b330679f02ba88e13c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/338/regulation/1) in operation at 30.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/338/regulation/1/1)
 
-[^key-857a536a9e7f6173ffa28eefb049339e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/338/regulation/2) in operation at 30.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/338/regulation/1/1)
+[^c-857a536a9e7f6173ffa28eefb049339e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/338/regulation/2) in operation at 30.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/338/regulation/1/1)
 
-[^key-10e29f897685d30da9df0c1981d4a233]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2006/338/regulation/2) substituted (4.7.2012) by [The Penalty Charges (Prescribed Amounts) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/203)](https://www.legislation.gov.uk/nisr/2012/203), [regs. 1](https://www.legislation.gov.uk/nisr/2012/203/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/203/regulation/2)
+[^c-10e29f897685d30da9df0c1981d4a233]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2006/338/regulation/2) substituted (4.7.2012) by [The Penalty Charges (Prescribed Amounts) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/203)](https://www.legislation.gov.uk/nisr/2012/203), [regs. 1](https://www.legislation.gov.uk/nisr/2012/203/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/203/regulation/2)
 
-[^key-884a59315256236361eb1699c06515cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/338/regulation/3) in operation at 30.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/338/regulation/1/1)
+[^c-884a59315256236361eb1699c06515cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/338/regulation/3) in operation at 30.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/338/regulation/1/1)

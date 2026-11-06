@@ -24,7 +24,7 @@ summary: ''
 
 Section 64(2)
 
-### 1. Power to make CCE prevention order[^key-fbcf2dbc92dfc6c5c6a03498b7696374]
+### 1. Power to make CCE prevention order[^c-fbcf2dbc92dfc6c5c6a03498b7696374]
 
 (1) This paragraph applies if—
 
@@ -59,7 +59,7 @@ Section 64(2)
   - (ii) doing anything in England and Wales or Scotland that would constitute an offence under section 48 (as it has effect in Northern Ireland) if done in Northern Ireland;
 - (b) a reference to the defendant “engaging in conduct associated with child criminal exploitation” is to the adult doing anything, in any part of the United Kingdom, that is associated with the doing of anything within paragraph (a)(i) or (ii).
 
-### 2. CCE prevention orders[^key-c585220e92d159d60778b287c0ca0200]
+### 2. CCE prevention orders[^c-c585220e92d159d60778b287c0ca0200]
 
 (1) A CCE prevention order is an order which—
 
@@ -96,11 +96,11 @@ a CCE prevention order may provide that it does not take effect until the defend
 
 (8) Where a court makes a CCE prevention order in respect of a defendant who is already subject to such an order, the earlier order ceases to have effect.
 
-### 3. Applications for CCE prevention orders[^key-37a90452400e5f357b092b96b6d718c3]
+### 3. Applications for CCE prevention orders[^c-37a90452400e5f357b092b96b6d718c3]
 
 An application for a CCE prevention order may be made by the Chief Constable of the Police Service of Northern Ireland.
 
-### 4. Applications without notice[^key-edd60fa6f18e8972637e43e5a8adb6e5]
+### 4. Applications without notice[^c-edd60fa6f18e8972637e43e5a8adb6e5]
 
 (1) An application for a CCE prevention order may be made without notice to the defendant.
 
@@ -110,7 +110,7 @@ An application for a CCE prevention order may be made by the Chief Constable of 
 - (b) adjourn the proceedings without making an interim order;
 - (c) dismiss the application.
 
-### 5. Interim CCE prevention orders[^key-efe89eb43c569e3128f31dcd4677544e]
+### 5. Interim CCE prevention orders[^c-efe89eb43c569e3128f31dcd4677544e]
 
 (1) This paragraph applies where the court adjourns the hearing of an application (whether made with or without notice) for a CCE prevention order.
 
@@ -126,7 +126,7 @@ Paragraph 2(5) does not apply in relation to an interim CCE prevention order.
 
 (6) Nothing in sub-paragraph (2) prevents the variation of the duration of an interim CCE prevention order, or the discharge of such an order, under paragraph 8.
 
-### 6. Procedural powers where no application made[^key-fc946324a80248bef9fbf1ba3f97c507]
+### 6. Procedural powers where no application made[^c-fc946324a80248bef9fbf1ba3f97c507]
 
 (1) This paragraph applies in the circumstances mentioned in sub-paragraph (1)(b), (c), (d) or (e) of paragraph 1.
 
@@ -151,7 +151,7 @@ Paragraph 2(5) does not apply in relation to an interim CCE prevention order.
 
 (8) Nothing in this paragraph limits any other powers of the court.
 
-### 7. Notification requirements[^key-68d69d399440878613edd9f65ed403b4]
+### 7. Notification requirements[^c-68d69d399440878613edd9f65ed403b4]
 
 (1) This paragraph applies where a CCE prevention order requires the defendant to comply with this paragraph.
 
@@ -186,7 +186,7 @@ the defendant must notify, to the police, the new name or the new home address.
 - (a) lawfully detained or otherwise lawfully deprived of their liberty, in the United Kingdom, or
 - (b) outside the United Kingdom.
 
-### 8. Variation and discharge of CCE prevention orders[^key-2ab5240ba86e6cfa79fb0d16345aaee7]
+### 8. Variation and discharge of CCE prevention orders[^c-2ab5240ba86e6cfa79fb0d16345aaee7]
 
 (1) This paragraph applies where a person mentioned in sub-paragraph (2) applies to a relevant court for the variation or discharge of a CCE prevention order.
 
@@ -221,7 +221,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
 - (a) where the Crown Court or Court of Appeal made the order, the Crown Court;
 - (b) in any other case, the magistrates’ court.
 
-### 9. Appeals[^key-988b8a23804e4d8b2cec0fb3da4df9d3]
+### 9. Appeals[^c-988b8a23804e4d8b2cec0fb3da4df9d3]
 
 (1) The defendant or the Chief Constable of the Police Service of Northern Ireland may appeal to the relevant court against a decision made—
 
@@ -252,7 +252,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
 
 may be made without notice being given to the defendant.
 
-### 10. Offence of breaching CCE prevention order[^key-a5ab975bd0f0df5c6e0d0a04c9dea202]
+### 10. Offence of breaching CCE prevention order[^c-a5ab975bd0f0df5c6e0d0a04c9dea202]
 
 (1) A person who, without reasonable excuse, fails to comply with an order mentioned in sub-paragraph (2) commits an offence.
 
@@ -278,7 +278,7 @@ may be made without notice being given to the defendant.
 
 (8) In Article 4(1) of the Criminal Justice (Northern Ireland) Order 1996 ([S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160)) after “2015” insert “or paragraph 10 of Schedule 8 to the Crime and Policing Act 2026”.
 
-### 11. Offences relating to notifications[^key-33c5d452025ea6b249fe1f1cf9fb637c]
+### 11. Offences relating to notifications[^c-33c5d452025ea6b249fe1f1cf9fb637c]
 
 (1) This paragraph applies where a CCE prevention order requires a person to comply with paragraph 7 (notification requirements).
 
@@ -300,7 +300,7 @@ may be made without notice being given to the defendant.
 
 (7) Paragraph 10(5) applies for the purposes of this paragraph.
 
-### 12. Special measures for witnesses[^key-c5cc609c8e1fbd38f7ffc75b498bb9df]
+### 12. Special measures for witnesses[^c-c5cc609c8e1fbd38f7ffc75b498bb9df]
 
 (1) Part 2 of the Criminal Evidence (Northern Ireland) Order 1999 ([S.I. 1999/2789 (N.I. 8)](https://www.legislation.gov.uk/nisi/1999/2789)) (special measures directions in the case of vulnerable and intimidated witnesses) applies to relevant proceedings under this Schedule as it applies to criminal proceedings, but with—
 
@@ -314,7 +314,7 @@ may be made without notice being given to the defendant.
 
 (3) In this paragraph “**relevant proceedings under this Schedule**” means any proceedings under this Schedule except proceedings relating to an offence under paragraph 10 or 11.
 
-### 13. Interpretation and supplementary provision[^key-7f7248aed4dd45ed5329057c3ac9d686]
+### 13. Interpretation and supplementary provision[^c-7f7248aed4dd45ed5329057c3ac9d686]
 
 (1) In this Schedule—
 
@@ -333,28 +333,28 @@ may be made without notice being given to the defendant.
 
 ## Annotations
 
-[^key-fbcf2dbc92dfc6c5c6a03498b7696374]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-fbcf2dbc92dfc6c5c6a03498b7696374]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-c585220e92d159d60778b287c0ca0200]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-c585220e92d159d60778b287c0ca0200]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-37a90452400e5f357b092b96b6d718c3]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-37a90452400e5f357b092b96b6d718c3]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-edd60fa6f18e8972637e43e5a8adb6e5]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-edd60fa6f18e8972637e43e5a8adb6e5]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-efe89eb43c569e3128f31dcd4677544e]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-efe89eb43c569e3128f31dcd4677544e]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-fc946324a80248bef9fbf1ba3f97c507]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-fc946324a80248bef9fbf1ba3f97c507]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-68d69d399440878613edd9f65ed403b4]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-68d69d399440878613edd9f65ed403b4]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-2ab5240ba86e6cfa79fb0d16345aaee7]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-2ab5240ba86e6cfa79fb0d16345aaee7]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-988b8a23804e4d8b2cec0fb3da4df9d3]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-988b8a23804e4d8b2cec0fb3da4df9d3]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-a5ab975bd0f0df5c6e0d0a04c9dea202]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-a5ab975bd0f0df5c6e0d0a04c9dea202]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-33c5d452025ea6b249fe1f1cf9fb637c]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-33c5d452025ea6b249fe1f1cf9fb637c]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-c5cc609c8e1fbd38f7ffc75b498bb9df]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-c5cc609c8e1fbd38f7ffc75b498bb9df]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
 
-[^key-7f7248aed4dd45ed5329057c3ac9d686]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)
+[^c-7f7248aed4dd45ed5329057c3ac9d686]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8)

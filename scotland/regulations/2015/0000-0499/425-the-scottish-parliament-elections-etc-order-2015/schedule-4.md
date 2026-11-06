@@ -22,7 +22,7 @@ summary: ''
 
 Article 12(3)
 
-### 1. Interpretation[^key-95eb42c35796e529ce47c2e818bc313f]
+### 1. Interpretation[^c-95eb42c35796e529ce47c2e818bc313f]
 
 For the purposes of this Schedule, unless the context otherwise requires—
 
@@ -36,11 +36,11 @@ For the purposes of this Schedule, unless the context otherwise requires—
 - “spoilt ballot paper” means a ballot paper referred to in paragraph 13(1); and
 - “valid postal voting statement” means a postal voting statement which, in accordance with paragraph 22, the CRO is satisfied has been duly completed.
 
-### 2. Combination of polls[^key-a7637d92a7e2dee3b8f393bf79bed390]
+### 2. Combination of polls[^c-a7637d92a7e2dee3b8f393bf79bed390]
 
 Where the polls at elections are taken together under article 13(1) or (2) the proceedings on the issue and receipt of postal ballot papers in respect of each election may, if the returning officers concerned agree, be taken together.
 
-### 3. Form of postal voting statement[^key-e74c21b9316ad72376276b15d15fca1d]
+### 3. Form of postal voting statement[^c-e74c21b9316ad72376276b15d15fca1d]
 
 The postal voting statement sent with the postal ballot paper to a postal voter shall be—
 
@@ -48,13 +48,13 @@ The postal voting statement sent with the postal ballot paper to a postal voter 
 - (b) in the form T set out in the Appendix at a Scottish parliamentary election where the proceedings on the issue and receipt of ballot papers are taken together with those proceedings at another election under paragraph 2; and
 - (c) in the form U set out in the Appendix at a Scottish parliamentary election the poll at which is taken together with a poll at another election under article 13(1) or (2) in any part of the constituency but where the proceedings on the issue and receipt of postal ballot papers are not taken together under paragraph 2, for use in that part of the constituency in which polls at more than one election are taken together.
 
-### 4. Persons entitled to be present at proceedings on issue of postal ballot papers[^key-db7f0df70e934001eac55c9245c321ef]
+### 4. Persons entitled to be present at proceedings on issue of postal ballot papers[^c-db7f0df70e934001eac55c9245c321ef]
 
 (1) Without prejudice to the provisions of section 6A, 6B, 6C or 6D of the 2000 Political Parties Act[^f00099] (representatives of the Electoral Commission and accredited observers), no person may be present at the proceedings on the issue of postal ballot papers other than the CRO and members of the CRO’s staff.
 
 (2) The CRO shall be the relevant officer for the purposes of section 6E of that Act (powers of a relevant officer to limit attendance and the conduct of observers).
 
-### 5. Persons entitled to be present at receipt of postal ballot papers[^key-6c505ae4b3ca7a8c386ee869f56f45dc]
+### 5. Persons entitled to be present at receipt of postal ballot papers[^c-6c505ae4b3ca7a8c386ee869f56f45dc]
 
 (1) Without prejudice to the provisions of section 6A, 6B, 6C, or 6D of the 2000 Political Parties Act, no person may be present at the proceedings on the receipt of postal ballot papers other than—
 
@@ -97,15 +97,15 @@ may do any act or thing which any of that person’s agents, if appointed, would
 
 (11) Where in this Schedule any act or thing is required or authorised to be done in the presence of the candidates or their agents, the non-attendance of any such person at the time and place appointed for the purpose shall not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-### 6. Notification of requirement of secrecy[^key-c609c61bf49c340c8805177e60320d37]
+### 6. Notification of requirement of secrecy[^c-c609c61bf49c340c8805177e60320d37]
 
 The CRO shall make arrangements to ensure that every person attending the proceedings in connection with the issue or receipt of postal ballot papers has been given a copy in writing of the provisions of article 31(5), (7) and (8).
 
-### 7. Time when postal ballot papers are to be issued[^key-223a9e94fd91356f386d48efeffbd17e]
+### 7. Time when postal ballot papers are to be issued[^c-223a9e94fd91356f386d48efeffbd17e]
 
 Postal ballot papers (and postal voting statements) must be issued by the CRO as soon as it is practicable to do so.
 
-### 8. Procedures on the issue of postal ballot papers[^key-ab22309a96844c6170da596443e4217f]
+### 8. Procedures on the issue of postal ballot papers[^c-ab22309a96844c6170da596443e4217f]
 
 (1) Each postal ballot paper issued shall bear the official mark and the name and number of the elector as stated in the polling register shall be called out, and such number shall be marked on the corresponding number list, next to the ballot paper number of the ballot paper issued to that elector, and a mark shall be placed in the postal voters list or the proxy postal voters list against the number of the elector to denote that a ballot paper has been issued to the elector or the elector’s proxy but without showing the particular ballot paper issued.
 
@@ -128,11 +128,11 @@ Postal ballot papers (and postal voting statements) must be issued by the CRO as
 - (a) as shown in the record kept under article 8(4); or
 - (b) as given in pursuance of an application made under article 9(1) or (2).
 
-### 9. Refusal to issue postal ballot paper[^key-f5ac63846d4a40886e78e2f3ee660994]
+### 9. Refusal to issue postal ballot paper[^c-f5ac63846d4a40886e78e2f3ee660994]
 
 Where a CRO is satisfied that two or more entries in either the postal voters list, the list of proxies or the proxy postal voters list, or in each of those lists relate to the same elector the CRO shall not issue more than one constituency ballot paper or, as the case may be, more than one regional ballot paper in respect of the same elector in respect of the same election.
 
-### 10. Envelopes[^key-b7ea5077750e60dd3506720cf326c456]
+### 10. Envelopes[^c-b7ea5077750e60dd3506720cf326c456]
 
 (1) The envelope which the CRO is required by rule 34 of the Scottish Parliamentary Election Rules to send to a postal voter for the return of postal ballot papers (or, as the case may be, a postal ballot paper) and the postal voting statement (referred to as a “covering envelope”) shall be marked with the letter “B”.
 
@@ -147,7 +147,7 @@ Where a CRO is satisfied that two or more entries in either the postal voters li
 - (a) the envelope referred to in sub-paragraph (1) shall also be marked “Covering envelope for the \[insert colour of ballot paper(s)\] coloured ballot paper(s)”; and
 - (b) on the envelope referred to in sub-paragraph (2), after the words “Ballot paper envelope” there shall be added the words “for the \[insert colour of ballot paper(s)\] coloured ballot paper(s)”.
 
-### 11. Delivery of postal ballot papers[^key-168b85140c55d269dd08773b667d1c00]
+### 11. Delivery of postal ballot papers[^c-168b85140c55d269dd08773b667d1c00]
 
 (1) For the purpose of delivering postal ballot papers, the CRO may use—
 
@@ -161,13 +161,13 @@ Where a CRO is satisfied that two or more entries in either the postal voters li
 
 (4) Return postage shall be prepaid on all covering envelopes where the address provided by the postal voter for the receipt of the postal ballot paper is within the United Kingdom.
 
-### 12. Security of marked lists[^key-8e29c4cb29233408f6c64e7acdfa2f25]
+### 12. Security of marked lists[^c-8e29c4cb29233408f6c64e7acdfa2f25]
 
 (1) As soon as practicable after the issue of each batch of postal ballot papers, the CRO shall make up into a packet the corresponding number list of those ballot papers which have been issued and shall seal such a packet.
 
 (2) Until the time referred to in paragraph 20(9) for the opening of covering envelopes, the CRO shall take proper precautions for the security of the marked copy of the postal voters list and the postal proxy voters list.
 
-### 13. Spoilt ballot paper[^key-9a970bcd9eb6e011f74147fb10896c4a]
+### 13. Spoilt ballot paper[^c-9a970bcd9eb6e011f74147fb10896c4a]
 
 (1) If a postal voter has inadvertently dealt with that voter’s postal ballot paper or postal voting statement in such a manner that it cannot be conveniently used as a ballot paper (referred to as “a spoilt ballot paper”) or, as the case may be, a postal voting statement (referred to as “a spoilt postal voting statement”) the postal voter may return (either by hand or by post) to the CRO the spoilt ballot paper or, as the case may be, the spoilt postal voting statement.
 
@@ -177,7 +177,7 @@ Where a CRO is satisfied that two or more entries in either the postal voters li
 - (b) where two or more postal ballot papers have been issued together to the postal voter (whether at a Scottish parliamentary general election or under paragraph 2), all other ballot papers so issued, whether spoilt or not; and
 - (c) the envelopes supplied for the return of the documents mentioned in sub-paragraph (1) or paragraph (a) or (b).
 
-(3) Subject to sub-paragraph (4), on receipt of the documents referred to in sub-paragraphs (1) and (2) the CRO shall issue a replacement ballot paper or, as the case may be, papers except where those documents are received after 5 pm[^key-425195b78eb53108bbe1dee89727819e] on the day of the poll.
+(3) Subject to sub-paragraph (4), on receipt of the documents referred to in sub-paragraphs (1) and (2) the CRO shall issue a replacement ballot paper or, as the case may be, papers except where those documents are received after 5 pm[^c-425195b78eb53108bbe1dee89727819e] on the day of the poll.
 
 (4) Where the CRO receives the documents referred to in sub-paragraphs (1) and (2) after 5 pm on the day before the day of the poll, the CRO shall only issue another postal ballot paper or, as the case may be, ballot papers if the postal voter returns the documents by hand.
 
@@ -200,7 +200,7 @@ instead of delivering it in accordance with paragraph 11.
 - (b) the number of the postal ballot paper (or papers) issued under this paragraph; and
 - (c) where the postal voter whose ballot paper is spoilt is a proxy, the proxy’s name and address.
 
-### 14. Lost postal ballot paper[^key-f0df0b68930fc91811813b1c0e89c3ef]
+### 14. Lost postal ballot paper[^c-f0df0b68930fc91811813b1c0e89c3ef]
 
 (1) Where a postal voter claims either to have lost or not to have received—
 
@@ -223,7 +223,7 @@ which the postal voter has received and which have not been lost.
 
 (5) The CRO, as soon as practicable after cancelling those documents, shall make up those documents in a separate packet and shall seal the packet; and if on any subsequent occasion documents are cancelled as mentioned above, the sealed packet shall be opened and the additional cancelled documents included in it and the packet shall be again made up and sealed.
 
-(6) Subject to sub-paragraphs (7) and (8), where the CRO is satisfied as to the voter’s identity, the CRO shall issue another postal ballot paper or, as the case may be, postal ballot papers except where those documents are received after[^key-0eb6107358eef8368c51000014f4cbaf] 5 pm[^key-cd05c41bf964c2c7b3be11a96faade97] on the day of the poll.
+(6) Subject to sub-paragraphs (7) and (8), where the CRO is satisfied as to the voter’s identity, the CRO shall issue another postal ballot paper or, as the case may be, postal ballot papers except where those documents are received after[^c-0eb6107358eef8368c51000014f4cbaf] 5 pm[^c-cd05c41bf964c2c7b3be11a96faade97] on the day of the poll.
 
 (7) The CRO may refuse to issue another postal ballot paper if the CRO—
 
@@ -249,7 +249,7 @@ instead of delivering it in accordance with paragraph 11.
 
 (12) Where the CRO issues another postal ballot paper or, as the case may be, postal ballot papers under sub-paragraph (6), the lost or unreceived ballot paper shall be void and of no effect.
 
-### 15. Cancellation of postal ballot papers[^key-9c2feda3fc2b1b51aba92b43fd1a40a0]
+### 15. Cancellation of postal ballot papers[^c-9c2feda3fc2b1b51aba92b43fd1a40a0]
 
 (1) Where, after the latest time for delivery of nomination papers for candidature for a Scottish parliamentary election, an application is granted that—
 
@@ -273,7 +273,7 @@ and the grant of that application is not to be disregarded for the purposes of t
 
 (4) Paragraphs 8 (except sub-paragraph (3)(a)), 10, 11 and 12 apply to a replacement postal ballot paper issued under paragraph (1).
 
-### 16. Notice of opening of postal ballot paper envelopes[^key-e8d064b2718f6d68d20bf20bda122ace]
+### 16. Notice of opening of postal ballot paper envelopes[^c-e8d064b2718f6d68d20bf20bda122ace]
 
 (1) The CRO shall give not less than 48 hours’ notice in writing of each occasion on which a postal voters’ ballot box and the envelopes contained in it are to be opened, to—
 
@@ -285,7 +285,7 @@ and the grant of that application is not to be disregarded for the purposes of t
 - (a) the time and place at which such an opening is to take place, and
 - (b) the number of agents a candidate may appoint under paragraph 5(3) to attend the opening.
 
-### 17. Postal ballot boxes and receptacles[^key-3f68060a49ee8ad417112a4fe5d6987c]
+### 17. Postal ballot boxes and receptacles[^c-3f68060a49ee8ad417112a4fe5d6987c]
 
 (1) The CRO shall provide a separate ballot box for the reception of—
 
@@ -308,7 +308,7 @@ and the grant of that application is not to be disregarded for the purposes of t
 
 (6) The CRO shall take proper precautions for the safe custody of every ballot box and receptacle referred to in this paragraph.
 
-### 18. Receipt of covering envelope and collection of postal votes[^key-7f50d57b4d6d30b7c2ba8df4ff615162]
+### 18. Receipt of covering envelope and collection of postal votes[^c-7f50d57b4d6d30b7c2ba8df4ff615162]
 
 (1) The CRO shall, immediately on receipt (whether by hand or by post) of a covering envelope (or an envelope which is stated to include a postal vote) before the close of the poll, place it unopened in a postal voters’ ballot box.
 
@@ -323,7 +323,7 @@ the first–mentioned envelope, together with its contents, shall be placed in a
 
 (4) Where the CRO collects, or causes to be collected, any postal ballot paper or postal voting statement in accordance with sub-paragraph (3) the presiding officer shall first make it (or them) up into a packet (or packets) sealed with the presiding officer’s own seal and the seals of such polling agents as are present and desire to affix their seals.
 
-### 19. Opening of postal voters’ ballot box[^key-10f92e41e769947eb300b49009bda3ec]
+### 19. Opening of postal voters’ ballot box[^c-10f92e41e769947eb300b49009bda3ec]
 
 (1) So long as the CRO ensures that there is at least one sealed postal voters’ ballot box for the reception of covering envelopes up to the time of the close of the poll, the CRO may open the other postal voters’ ballot boxes prior to that time.
 
@@ -331,7 +331,7 @@ the first–mentioned envelope, together with its contents, shall be placed in a
 
 (3) The last postal voters’ ballot box and the postal ballot box shall be opened at the counting of the votes under rule 55 of the Scottish Parliamentary Election Rules.
 
-### 20. Opening of covering envelopes[^key-35f4657ab6b121d827dcf676ceff9441]
+### 20. Opening of covering envelopes[^c-35f4657ab6b121d827dcf676ceff9441]
 
 (1) When a postal voters’ ballot box is opened, the CRO shall count and record the number of covering envelopes (including any envelope which is stated to include a postal vote and any envelope described in paragraph 18(2)).
 
@@ -354,7 +354,7 @@ the first–mentioned envelope, together with its contents, shall be placed in a
 
 (9) As soon as practicable after the last covering envelope has been opened, the CRO shall make up into a packet the copy of the postal voters list and proxy postal voters list that have been marked in accordance with sub-paragraph (7) and shall seal the packet.
 
-### 21. Confirming receipt of postal votes and postal voting statements[^key-745737651c1b776af2a459a63388a8be]
+### 21. Confirming receipt of postal votes and postal voting statements[^c-745737651c1b776af2a459a63388a8be]
 
 (1) An elector or a proxy voter who is shown in the postal voters list or proxy postal voters list may request, at any time before the close of the poll, that the CRO confirm—
 
@@ -363,7 +363,7 @@ the first–mentioned envelope, together with its contents, shall be placed in a
 
 (2) The CRO shall establish whether any such request has been made by the elector or their proxy, and if it is so established shall provide confirmation of the matters specified in sub-paragraph (1).
 
-### 22. Procedure in relation to postal voting statements: personal identifier verification[^key-c4d3ac46e7c1bd2ec13f9b8de7cd858a]
+### 22. Procedure in relation to postal voting statements: personal identifier verification[^c-c4d3ac46e7c1bd2ec13f9b8de7cd858a]
 
 (1) This paragraph applies in the circumstances described in paragraph 20(3).
 
@@ -400,7 +400,7 @@ the CRO shall open the envelope.
   - (ii) in the case of a statement on which the number of more than one ballot paper appears, there is not a sufficient number of ballot papers and, in such a case, shall mark the statement to indicate which ballot paper is missing;
 - (d) in the receptacle for postal voting statements (verification procedure), any valid statement not disposed of under paragraph (b) or (c).
 
-### 23. Opening of ballot paper envelopes[^key-abc3726bcb2f3cba755b5f77622d5b41]
+### 23. Opening of ballot paper envelopes[^c-abc3726bcb2f3cba755b5f77622d5b41]
 
 (1) The CRO shall open separately each ballot paper envelope placed in the receptacle for ballot paper envelopes.
 
@@ -410,7 +410,7 @@ the CRO shall open the envelope.
 - (b) in the receptacle for rejected votes, any other ballot paper which shall be marked “provisionally rejected” and to which shall be attached the ballot paper envelope; and
 - (c) in the receptacle for rejected ballot paper envelopes, any ballot paper envelope which shall be marked “provisionally rejected” because it does not contain either a ballot paper or, where more than one number appears on the ballot paper envelope, a sufficient number of ballot papers (and indicating, in such a case, the missing ballot paper or papers).
 
-### 24. Retrieval of cancelled postal ballot papers[^key-7bb30f43b8715df3b4dc462d817cfbad]
+### 24. Retrieval of cancelled postal ballot papers[^c-7bb30f43b8715df3b4dc462d817cfbad]
 
 (1) Where it appears to the returning officer that a cancelled postal ballot paper has been placed—
 
@@ -429,7 +429,7 @@ the CRO shall proceed as follows.
 - (e) place the cancelled documents in a separate packet and deal with that packet in the manner provided for by paragraph 13(7); and
 - (f) unless the postal ballot box has been opened for the purposes of the counting of votes under rule 55 of the Scottish Parliamentary Election Rules, re-seal the postal ballot box in the presence of the agents.
 
-### 25. Lists of rejected postal ballot papers[^key-405a1db4ae48d7bdd139fa15449f81cf]
+### 25. Lists of rejected postal ballot papers[^c-405a1db4ae48d7bdd139fa15449f81cf]
 
 (1) In respect of any election, the CRO shall keep three separate lists relating to rejected postal ballot papers.
 
@@ -451,7 +451,7 @@ the CRO shall proceed as follows.
 - (c) the signature field is blank; or
 - (d) the date of birth field is blank.
 
-### 26. Checking of lists kept under paragraph 25[^key-b4754cfface979aa508603a751ffc306]
+### 26. Checking of lists kept under paragraph 25[^c-b4754cfface979aa508603a751ffc306]
 
 (1) Where the CRO receives a valid postal voting statement without the postal ballot paper (or papers or, as the case may be, all of the papers) to which it relates, the CRO shall from time to time prior to the close of the poll, check the list kept under paragraph 25(2) to see whether the number (or numbers) of a postal ballot paper to which the statement relates is (or are) entered in that list.
 
@@ -463,7 +463,7 @@ the CRO shall proceed as follows.
 
 (5) The CRO shall then take the appropriate steps under this Schedule as though any document earlier marked “provisionally rejected” had not been so marked and shall amend the document accordingly.
 
-### 27. Sealing of receptacles[^key-28bc73c497c6e2cc5a8e5a188b427056]
+### 27. Sealing of receptacles[^c-28bc73c497c6e2cc5a8e5a188b427056]
 
 (1) As soon as practicable after the completion of the procedure under paragraph 26(3) and (4), the CRO shall make up into separate packets the contents of—
 
@@ -477,7 +477,7 @@ and shall seal up such packets.
 
 (2) Any document in those packets marked “provisionally rejected” shall be deemed to be marked “rejected”.
 
-### 28. Abandoned poll[^key-6a77c4e6cf20ddd77a8410053fd988b8]
+### 28. Abandoned poll[^c-6a77c4e6cf20ddd77a8410053fd988b8]
 
 (1) Where a poll is abandoned or countermanded after postal ballot papers have been issued, by reason of the death of a candidate, the CRO—
 
@@ -486,7 +486,7 @@ and shall seal up such packets.
 
 (2) Sub-paragraph (1) shall not apply where postal ballot papers for more than one election have been issued together under paragraph 2.
 
-### 29. Retention of documents by CRO[^key-cc3add6deae896b3a51e1e9a7707f85f]
+### 29. Retention of documents by CRO[^c-cc3add6deae896b3a51e1e9a7707f85f]
 
 (1) The CRO shall retain together with the documents specified in rule 68(1) of the Scottish Parliamentary Election Rules—
 
@@ -506,76 +506,76 @@ the CRO shall put them unopened in a separate packet, seal up such packet and en
 
 (4) A copy of the statement referred to in sub-paragraph (1)(b) shall be provided by the CRO to the Scottish Ministers and the Electoral Commission in the period which starts 10 days after the day of the poll and ends 15 days after the day of the poll.
 
-### 30. Forwarding of a rejected ballot paper list by CRO[^key-893e4f03d1ed3a8ae23bd1345434acb6]
+### 30. Forwarding of a rejected ballot paper list by CRO[^c-893e4f03d1ed3a8ae23bd1345434acb6]
 
 Before the CRO seals up the counted and rejected ballot papers as provided for by rule 67 of the Scottish Parliamentary Election Rules, the CRO must send a copy of the list compiled under paragraph 25(4) to the ERO.
 
 ## Annotations
 
-[^key-95eb42c35796e529ce47c2e818bc313f]: Commencement: Sch. 4 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-95eb42c35796e529ce47c2e818bc313f]: Commencement: Sch. 4 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-a7637d92a7e2dee3b8f393bf79bed390]: Commencement: Sch. 4 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a7637d92a7e2dee3b8f393bf79bed390]: Commencement: Sch. 4 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-e74c21b9316ad72376276b15d15fca1d]: Commencement: Sch. 4 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e74c21b9316ad72376276b15d15fca1d]: Commencement: Sch. 4 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-db7f0df70e934001eac55c9245c321ef]: Commencement: Sch. 4 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-db7f0df70e934001eac55c9245c321ef]: Commencement: Sch. 4 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00099]: Footnote: These sections and section 6E were inserted by the 2006 Act, section 29.
 
-[^key-6c505ae4b3ca7a8c386ee869f56f45dc]: Commencement: Sch. 4 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6c505ae4b3ca7a8c386ee869f56f45dc]: Commencement: Sch. 4 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-c609c61bf49c340c8805177e60320d37]: Commencement: Sch. 4 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c609c61bf49c340c8805177e60320d37]: Commencement: Sch. 4 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-223a9e94fd91356f386d48efeffbd17e]: Commencement: Sch. 4 para. 7 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-223a9e94fd91356f386d48efeffbd17e]: Commencement: Sch. 4 para. 7 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-ab22309a96844c6170da596443e4217f]: Commencement: Sch. 4 para. 8 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-ab22309a96844c6170da596443e4217f]: Commencement: Sch. 4 para. 8 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-f5ac63846d4a40886e78e2f3ee660994]: Commencement: Sch. 4 para. 9 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f5ac63846d4a40886e78e2f3ee660994]: Commencement: Sch. 4 para. 9 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-b7ea5077750e60dd3506720cf326c456]: Commencement: Sch. 4 para. 10 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-b7ea5077750e60dd3506720cf326c456]: Commencement: Sch. 4 para. 10 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-168b85140c55d269dd08773b667d1c00]: Commencement: Sch. 4 para. 11 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-168b85140c55d269dd08773b667d1c00]: Commencement: Sch. 4 para. 11 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-8e29c4cb29233408f6c64e7acdfa2f25]: Commencement: Sch. 4 para. 12 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-8e29c4cb29233408f6c64e7acdfa2f25]: Commencement: Sch. 4 para. 12 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-9a970bcd9eb6e011f74147fb10896c4a]: Commencement: Sch. 4 para. 13 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-9a970bcd9eb6e011f74147fb10896c4a]: Commencement: Sch. 4 para. 13 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-425195b78eb53108bbe1dee89727819e]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2015/425/schedule/4/paragraph/13/3) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [16(1)(a)](https://www.legislation.gov.uk/ssi/2025/313/article/16/1/a)
+[^c-425195b78eb53108bbe1dee89727819e]: Textual amendment: Words in [sch. 4 para. 13(3)](https://www.legislation.gov.uk/ssi/2015/425/schedule/4/paragraph/13/3) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [16(1)(a)](https://www.legislation.gov.uk/ssi/2025/313/article/16/1/a)
 
-[^key-f0df0b68930fc91811813b1c0e89c3ef]: Commencement: Sch. 4 para. 14 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f0df0b68930fc91811813b1c0e89c3ef]: Commencement: Sch. 4 para. 14 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-0eb6107358eef8368c51000014f4cbaf]: Textual amendment: Words in [sch. 4 para. 14(6)](https://www.legislation.gov.uk/ssi/2015/425/schedule/4/paragraph/14/6) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2020/426/article/17/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-0eb6107358eef8368c51000014f4cbaf]: Textual amendment: Words in [sch. 4 para. 14(6)](https://www.legislation.gov.uk/ssi/2015/425/schedule/4/paragraph/14/6) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2020/426/article/17/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-cd05c41bf964c2c7b3be11a96faade97]: Textual amendment: Words in [sch. 4 para. 14(6)](https://www.legislation.gov.uk/ssi/2015/425/schedule/4/paragraph/14/6) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [16(1)(b)](https://www.legislation.gov.uk/ssi/2025/313/article/16/1/b)
+[^c-cd05c41bf964c2c7b3be11a96faade97]: Textual amendment: Words in [sch. 4 para. 14(6)](https://www.legislation.gov.uk/ssi/2015/425/schedule/4/paragraph/14/6) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2025 (S.S.I. 2025/313)](https://www.legislation.gov.uk/ssi/2025/313), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/313/article/1/1), [16(1)(b)](https://www.legislation.gov.uk/ssi/2025/313/article/16/1/b)
 
-[^key-9c2feda3fc2b1b51aba92b43fd1a40a0]: Commencement: Sch. 4 para. 15 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-9c2feda3fc2b1b51aba92b43fd1a40a0]: Commencement: Sch. 4 para. 15 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-e8d064b2718f6d68d20bf20bda122ace]: Commencement: Sch. 4 para. 16 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e8d064b2718f6d68d20bf20bda122ace]: Commencement: Sch. 4 para. 16 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-3f68060a49ee8ad417112a4fe5d6987c]: Commencement: Sch. 4 para. 17 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-3f68060a49ee8ad417112a4fe5d6987c]: Commencement: Sch. 4 para. 17 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-7f50d57b4d6d30b7c2ba8df4ff615162]: Commencement: Sch. 4 para. 18 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7f50d57b4d6d30b7c2ba8df4ff615162]: Commencement: Sch. 4 para. 18 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-10f92e41e769947eb300b49009bda3ec]: Commencement: Sch. 4 para. 19 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-10f92e41e769947eb300b49009bda3ec]: Commencement: Sch. 4 para. 19 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-35f4657ab6b121d827dcf676ceff9441]: Commencement: Sch. 4 para. 20 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-35f4657ab6b121d827dcf676ceff9441]: Commencement: Sch. 4 para. 20 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-745737651c1b776af2a459a63388a8be]: Commencement: Sch. 4 para. 21 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-745737651c1b776af2a459a63388a8be]: Commencement: Sch. 4 para. 21 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-c4d3ac46e7c1bd2ec13f9b8de7cd858a]: Commencement: Sch. 4 para. 22 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c4d3ac46e7c1bd2ec13f9b8de7cd858a]: Commencement: Sch. 4 para. 22 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-abc3726bcb2f3cba755b5f77622d5b41]: Commencement: Sch. 4 para. 23 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-abc3726bcb2f3cba755b5f77622d5b41]: Commencement: Sch. 4 para. 23 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-7bb30f43b8715df3b4dc462d817cfbad]: Commencement: Sch. 4 para. 24 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7bb30f43b8715df3b4dc462d817cfbad]: Commencement: Sch. 4 para. 24 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-405a1db4ae48d7bdd139fa15449f81cf]: Commencement: Sch. 4 para. 25 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-405a1db4ae48d7bdd139fa15449f81cf]: Commencement: Sch. 4 para. 25 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-b4754cfface979aa508603a751ffc306]: Commencement: Sch. 4 para. 26 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-b4754cfface979aa508603a751ffc306]: Commencement: Sch. 4 para. 26 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-28bc73c497c6e2cc5a8e5a188b427056]: Commencement: Sch. 4 para. 27 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-28bc73c497c6e2cc5a8e5a188b427056]: Commencement: Sch. 4 para. 27 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-6a77c4e6cf20ddd77a8410053fd988b8]: Commencement: Sch. 4 para. 28 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6a77c4e6cf20ddd77a8410053fd988b8]: Commencement: Sch. 4 para. 28 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-cc3add6deae896b3a51e1e9a7707f85f]: Commencement: Sch. 4 para. 29 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-cc3add6deae896b3a51e1e9a7707f85f]: Commencement: Sch. 4 para. 29 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-893e4f03d1ed3a8ae23bd1345434acb6]: Commencement: Sch. 4 para. 30 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-893e4f03d1ed3a8ae23bd1345434acb6]: Commencement: Sch. 4 para. 30 in force at 16.12.2015 in accordance with art. 1(1)

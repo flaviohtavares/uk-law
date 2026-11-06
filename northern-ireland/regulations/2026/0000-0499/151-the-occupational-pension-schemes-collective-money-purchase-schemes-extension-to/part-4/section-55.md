@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Periodic reporting requirement[^key-5fe665caa152c6f0c41b9d6f19d4fd16]
+## 55. Periodic reporting requirement[^c-5fe665caa152c6f0c41b9d6f19d4fd16]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fe665caa152c6f0c41b9d6f19d4fd16]: Commencement: Reg. 55 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-5fe665caa152c6f0c41b9d6f19d4fd16]: Commencement: Reg. 55 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00052]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))

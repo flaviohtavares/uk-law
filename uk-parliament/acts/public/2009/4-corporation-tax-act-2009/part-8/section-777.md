@@ -30,7 +30,7 @@ summary: ''
 - (b) at the time of the realisation A is a member of a group,
 - (c) the expenditure on other assets is by B,
 - (d) B is a member of the same group as A at the time the expenditure is incurred (“the expenditure time”),
-- (e) B is not a dual resident investing company within the meaning of section 949 of CTA 2010 (dual resident investing companies)[^key-2ea6a7daa55e0364ee67f9a5f3ecdf9a] at the expenditure time,
+- (e) B is not a dual resident investing company within the meaning of section 949 of CTA 2010 (dual resident investing companies)[^c-2ea6a7daa55e0364ee67f9a5f3ecdf9a] at the expenditure time,
 - (f) immediately after the expenditure time the other assets are chargeable intangible assets in relation to B, and
 - (g) both A and B make a claim for relief under Chapter 7.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ea6a7daa55e0364ee67f9a5f3ecdf9a]: Textual amendment: Words in s. 777(3)(e) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 649](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/649) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2ea6a7daa55e0364ee67f9a5f3ecdf9a]: Textual amendment: Words in s. 777(3)(e) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 649](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/649) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Giving notice etc. under this Part[^key-5ea345ee62ed42206004925b9dc0a491][^key-1d3e66ca592de971d2ca7cc8f00d54ab]
+## 88. Giving notice etc. under this Part[^c-5ea345ee62ed42206004925b9dc0a491][^c-1d3e66ca592de971d2ca7cc8f00d54ab]
 
 *Extent: E+W*
 
@@ -43,12 +43,12 @@ summary: ''
 
 (5) A notification or document given to a person by leaving it at the person's proper address is to be treated for the purposes of this Part as having been given at the time at which it was left at that address.
 
-(6)[^key-b807d339db19cba5d4f3e3d9a2201faf] A notification or document given to a person by sending it electronically in accordance with this section is to be treated for the purposes of this Part as having been given, unless the contrary is proved, on the day on which the electronic communication was sent.
+(6)[^c-b807d339db19cba5d4f3e3d9a2201faf] A notification or document given to a person by sending it electronically in accordance with this section is to be treated for the purposes of this Part as having been given, unless the contrary is proved, on the day on which the electronic communication was sent.
 
 ## Annotations
 
-[^key-5ea345ee62ed42206004925b9dc0a491]: Commencement: S. 88 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-5ea345ee62ed42206004925b9dc0a491]: Commencement: S. 88 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
 
-[^key-1d3e66ca592de971d2ca7cc8f00d54ab]: Modification: S. 88 applied (with modifications) (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/401/regulation/3)
+[^c-1d3e66ca592de971d2ca7cc8f00d54ab]: Modification: S. 88 applied (with modifications) (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/401/regulation/3)
 
-[^key-b807d339db19cba5d4f3e3d9a2201faf]: Textual amendment: [S. 88(6)](https://www.legislation.gov.uk/anaw/2018/2/section/88/6) inserted (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2021/401/regulation/4)
+[^c-b807d339db19cba5d4f3e3d9a2201faf]: Textual amendment: [S. 88(6)](https://www.legislation.gov.uk/anaw/2018/2/section/88/6) inserted (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2021/401/regulation/4)

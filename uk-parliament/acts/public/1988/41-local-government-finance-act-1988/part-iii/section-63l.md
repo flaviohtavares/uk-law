@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63L. Appeals to valuation tribunal[^key-9eac80814827efb9843636c34651633c]
+## 63L. Appeals to valuation tribunal[^c-9eac80814827efb9843636c34651633c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eac80814827efb9843636c34651633c]: Textual amendment: [Ss. 63F-63M](https://www.legislation.gov.uk/ukpga/1988/41/section/63F) and cross-heading inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 13](https://www.legislation.gov.uk/asc/2024/6/section/13), [23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
+[^c-9eac80814827efb9843636c34651633c]: Textual amendment: [Ss. 63F-63M](https://www.legislation.gov.uk/ukpga/1988/41/section/63F) and cross-heading inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 13](https://www.legislation.gov.uk/asc/2024/6/section/13), [23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)

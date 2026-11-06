@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110) of the European Parliament and of the Council: new Articles 25 to 25c[^key-02d06fa4adc9fa35cbf32c919b485292]
+## SCHEDULE 1 — Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110) of the European Parliament and of the Council: new Articles 25 to 25c[^c-02d06fa4adc9fa35cbf32c919b485292]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,7 +122,7 @@ Regulation 17
 
 ## Annotations
 
-[^key-02d06fa4adc9fa35cbf32c919b485292]: Commencement: Sch. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-02d06fa4adc9fa35cbf32c919b485292]: Commencement: Sch. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
 [^c24414661]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46); [section 29](https://www.legislation.gov.uk/uksi/2020/1637/section/29) was amended by the [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 9(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/9/2) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). It is prospectively amended, from a day to be appointed, by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [section 12(1)](https://www.legislation.gov.uk/ukpga/2018/16/section/12/1).
 

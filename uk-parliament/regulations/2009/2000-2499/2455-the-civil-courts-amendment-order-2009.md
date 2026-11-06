@@ -31,7 +31,7 @@ summary: ''
 
 County Courts, England And Wales
 
-The Civil Courts (Amendment) Order 2009 (revoked)[^key-f6be7c54455d1e39063b1de722980731]
+The Civil Courts (Amendment) Order 2009 (revoked)[^c-f6be7c54455d1e39063b1de722980731]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st October 2009
 
-[^key-f6be7c54455d1e39063b1de722980731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6be7c54455d1e39063b1de722980731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f6be7c54455d1e39063b1de722980731]
+## 1. Citation, commencement and interpretation[^c-f6be7c54455d1e39063b1de722980731]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Civil Courts Order 1983[^key-f6be7c54455d1e39063b1de722980731]
+## 2. Amendments to the Civil Courts Order 1983[^c-f6be7c54455d1e39063b1de722980731]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f6be7c54455d1e39063b1de722980731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f6be7c54455d1e39063b1de722980731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f6be7c54455d1e39063b1de722980731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f6be7c54455d1e39063b1de722980731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6be7c54455d1e39063b1de722980731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6be7c54455d1e39063b1de722980731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f6be7c54455d1e39063b1de722980731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6be7c54455d1e39063b1de722980731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6be7c54455d1e39063b1de722980731]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2455) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)
+[^c-f6be7c54455d1e39063b1de722980731]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2455) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)

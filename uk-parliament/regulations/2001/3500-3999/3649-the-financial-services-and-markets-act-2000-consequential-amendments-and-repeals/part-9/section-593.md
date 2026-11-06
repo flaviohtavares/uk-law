@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 593. Means of assuring pension credit benefit[^key-a245f33843967c998d13dde5b2d4a433]
+## 593. Means of assuring pension credit benefit[^c-a245f33843967c998d13dde5b2d4a433]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a245f33843967c998d13dde5b2d4a433]: Commencement: Art. 593 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a245f33843967c998d13dde5b2d4a433]: Commencement: Art. 593 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

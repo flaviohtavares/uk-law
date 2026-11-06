@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24B. Definitions of “C” and “I” for the purposes of section 24A(14)[^key-7dbd8e8320c8c86ac05893a2eb4ee603]
+## 24B. Definitions of “C” and “I” for the purposes of section 24A(14)[^c-7dbd8e8320c8c86ac05893a2eb4ee603]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dbd8e8320c8c86ac05893a2eb4ee603]: Textual amendment: Ss. 24A, 24B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/3/paragraph/3)
+[^c-7dbd8e8320c8c86ac05893a2eb4ee603]: Textual amendment: Ss. 24A, 24B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/3/paragraph/3)

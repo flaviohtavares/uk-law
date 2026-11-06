@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Deductions from the grant for travel[^key-f46083230bc0d9dbaeb732303547ba10]
+## 56. Deductions from the grant for travel[^c-f46083230bc0d9dbaeb732303547ba10]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A deduction may be made from any grant under this Chapter in accordance with Par
 
 ## Annotations
 
-[^key-f46083230bc0d9dbaeb732303547ba10]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2007/195/regulation/56) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-f46083230bc0d9dbaeb732303547ba10]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2007/195/regulation/56) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

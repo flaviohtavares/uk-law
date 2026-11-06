@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Relevant restriction imposed by justice of the peace: supplementary[^key-d79eaa41ac48d4d52faeb267ca958da2]
+## 121. Relevant restriction imposed by justice of the peace: supplementary[^c-d79eaa41ac48d4d52faeb267ca958da2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d79eaa41ac48d4d52faeb267ca958da2]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2008/25/section/121) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(p)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/p)
+[^c-d79eaa41ac48d4d52faeb267ca958da2]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2008/25/section/121) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(p)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/p)

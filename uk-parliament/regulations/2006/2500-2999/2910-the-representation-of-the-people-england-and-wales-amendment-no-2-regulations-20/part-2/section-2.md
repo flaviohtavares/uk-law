@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Amendment to interpretation regulation[^key-33fb2030d144a73d548a0c729e452400]
+## 2. Amendment to interpretation regulation[^c-33fb2030d144a73d548a0c729e452400]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ In regulation 3(1)[^f00006] after the definition of “candidate” insert—
 
 ## Annotations
 
-[^key-33fb2030d144a73d548a0c729e452400]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2910/regulation/2) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-33fb2030d144a73d548a0c729e452400]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/2910/regulation/2) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00006]: Footnote: There are amendments to regulation 3, but none are relevant.
 

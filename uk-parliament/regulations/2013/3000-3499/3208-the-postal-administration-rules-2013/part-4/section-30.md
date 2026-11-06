@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Hire-purchase, conditional sale and chattel leasing agreements[^key-e4b26dd9ae3f6d8f152e5af67895fe51]
+## 30. Hire-purchase, conditional sale and chattel leasing agreements[^c-e4b26dd9ae3f6d8f152e5af67895fe51]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b26dd9ae3f6d8f152e5af67895fe51]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2013/3208/rule/30) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e4b26dd9ae3f6d8f152e5af67895fe51]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2013/3208/rule/30) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

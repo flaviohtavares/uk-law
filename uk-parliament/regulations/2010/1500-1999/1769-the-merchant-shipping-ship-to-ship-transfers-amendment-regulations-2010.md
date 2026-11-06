@@ -32,7 +32,7 @@ summary: ''
 
 Marine Pollution
 
-The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) Regulations 2010 (revoked)[^key-3df40167bd7135702e91044bad27eca9]
+The Merchant Shipping (Ship-to-Ship Transfers) (Amendment) Regulations 2010 (revoked)[^c-3df40167bd7135702e91044bad27eca9]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 16th August 2010
 
-[^key-3df40167bd7135702e91044bad27eca9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3df40167bd7135702e91044bad27eca9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3df40167bd7135702e91044bad27eca9]
+## 1. Citation and commencement[^c-3df40167bd7135702e91044bad27eca9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^key-3df40167bd7135702e91044bad27eca9]
+## 2. Amendment of the Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^c-3df40167bd7135702e91044bad27eca9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3df40167bd7135702e91044bad27eca9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3df40167bd7135702e91044bad27eca9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3df40167bd7135702e91044bad27eca9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3df40167bd7135702e91044bad27eca9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3df40167bd7135702e91044bad27eca9]: Textual amendment: Regulations revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-3df40167bd7135702e91044bad27eca9]: Textual amendment: Regulations revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)

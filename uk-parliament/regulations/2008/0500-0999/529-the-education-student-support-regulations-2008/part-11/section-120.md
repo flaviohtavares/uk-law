@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Amount of support[^key-32693270bec4252688d97f5f2389a2dd]
+## 120. Amount of support[^c-32693270bec4252688d97f5f2389a2dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-32693270bec4252688d97f5f2389a2dd]: Commencement: Reg. 120 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-32693270bec4252688d97f5f2389a2dd]: Commencement: Reg. 120 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00067]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); Part VII was amended by the Housing Act [1991 (c. 52)](https://www.legislation.gov.uk/ukpga/1991/52), Schedule 19; the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 9 and Schedule 14; the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2 and Schedule 3; the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), Schedule 19 Part 6; the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 8; the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), Schedule 6 Part 3; the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), Schedule 2 and Schedule 3, the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 6; the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6, paragraphs 169 and 179, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 24 and the Welfare Reform Act [2007 (c. 40)](https://www.legislation.gov.uk/ukpga/2007/40), Sections 30(2) and 31(1), Schedule 3, Schedule 5 and Schedule 8.
 

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-If the Authority considers that an electronic money issuer has contravened a requirement imposed on it by or under these Regulations or, in the case of an electronic money institution, section 312R of the 2000 Act[^key-0862950f8f18ec6fde39f860db962a00] the Authority may publish a statement to that effect.
+If the Authority considers that an electronic money issuer has contravened a requirement imposed on it by or under these Regulations or, in the case of an electronic money institution, section 312R of the 2000 Act[^c-0862950f8f18ec6fde39f860db962a00] the Authority may publish a statement to that effect.
 
 ## Annotations
 
-[^key-0862950f8f18ec6fde39f860db962a00]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/uksi/2011/99/regulation/50) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/55) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)
+[^c-0862950f8f18ec6fde39f860db962a00]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/uksi/2011/99/regulation/50) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/55) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/iv)

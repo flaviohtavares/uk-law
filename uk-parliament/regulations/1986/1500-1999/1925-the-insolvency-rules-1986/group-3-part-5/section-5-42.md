@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.42. Procedure for admission of creditors' claims for voting purposes[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+## 5.42. Procedure for admission of creditors' claims for voting purposes[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ The court’s power to make an order under this paragraph is exercisable only if
 
 ## Annotations
 
-[^key-8d65eb9d3bcd19d0fe8fff34f33d3479]: Textual amendment: Pt. 5 Chs. 7-12 substituted for Pt. 5 Ch. 7 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/31)
+[^c-8d65eb9d3bcd19d0fe8fff34f33d3479]: Textual amendment: Pt. 5 Chs. 7-12 substituted for Pt. 5 Ch. 7 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/31)
 
 [^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]: Textual amendment: Pt. 5 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/24) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))

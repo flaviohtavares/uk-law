@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Monitoring programmes[^key-75c7aed32cb5e006447ccbb673356310]
+## 6. Monitoring programmes[^c-75c7aed32cb5e006447ccbb673356310]
 
 *Extent: S*
 
@@ -49,13 +49,13 @@ summary: ''
 
 (6) Scottish Water may modify a monitoring programme which has been approved under paragraph (4) to include additional monitoring for any parameter, micro-organism, parasite or substance, provided that the programme, as modified, complies with paragraphs (2) and (3).
 
-(7) Scottish Water may modify a monitoring programme which has been approved under paragraph (4) to remove or reduce the monitoring of any parameter, micro-organism, parasite or substance required by that programme[^key-8c63c901bc7d801007d9b070385c46e1] only—
+(7) Scottish Water may modify a monitoring programme which has been approved under paragraph (4) to remove or reduce the monitoring of any parameter, micro-organism, parasite or substance required by that programme[^c-8c63c901bc7d801007d9b070385c46e1] only—
 
 - (a) in accordance with conditions as are specified for those purposes in directions given under regulation 15A; or
 - (b) where no such conditions are specified in directions given under regulation 15A, with the consent of the Drinking Water Quality Regulator for Scotland.
 
 ## Annotations
 
-[^key-75c7aed32cb5e006447ccbb673356310]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/364/regulation/6) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/3)
+[^c-75c7aed32cb5e006447ccbb673356310]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/364/regulation/6) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/3)
 
-[^key-8c63c901bc7d801007d9b070385c46e1]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/ssi/2014/364/regulation/6/7) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2022/387/regulation/4)
+[^c-8c63c901bc7d801007d9b070385c46e1]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/ssi/2014/364/regulation/6/7) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2022/387/regulation/4)

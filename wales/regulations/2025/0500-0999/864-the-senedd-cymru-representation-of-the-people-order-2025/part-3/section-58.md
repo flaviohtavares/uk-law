@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Penalty for failure as respects return or declarations[^key-254a06edd095a7a4969a08d3d821f395]
+## 58. Penalty for failure as respects return or declarations[^c-254a06edd095a7a4969a08d3d821f395]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to the provisions of article 60, if any candidate or election agent fail
 
 ## Annotations
 
-[^key-254a06edd095a7a4969a08d3d821f395]: Commencement: Art. 58 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-254a06edd095a7a4969a08d3d821f395]: Commencement: Art. 58 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

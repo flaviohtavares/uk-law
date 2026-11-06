@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Discontinuance of federated schools where federation not dissolved[^key-4811f6ef953b4cc8a173b52fde874c47]
+## 44. Discontinuance of federated schools where federation not dissolved[^c-4811f6ef953b4cc8a173b52fde874c47]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4811f6ef953b4cc8a173b52fde874c47]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2012/1035/regulation/44) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-4811f6ef953b4cc8a173b52fde874c47]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2012/1035/regulation/44) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

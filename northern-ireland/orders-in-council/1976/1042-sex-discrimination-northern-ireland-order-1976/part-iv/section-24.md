@@ -41,7 +41,7 @@ summary: ''
     </tbody>
     </table>
 
-    [^key-359a6980b31805b7de16b9bb45cd878d][^c17233611][^c17233621][^c17233661][^c17233661][^c17233681]
+    [^c-359a6980b31805b7de16b9bb45cd878d][^c17233611][^c17233621][^c17233661][^c17233661][^c17233681]
 
 (2) It is unlawful for the governing body of an institution of further or higher education to discriminate against a woman in the arrangements it makes for the purpose of selecting people for admission to the institution.
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c17233551]: Textual amendment: SR 2005/426
 
-[^key-359a6980b31805b7de16b9bb45cd878d]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/nisi/1976/1042/article/24/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/7/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-359a6980b31805b7de16b9bb45cd878d]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/nisi/1976/1042/article/24/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/7/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17233611]: Textual amendment: [1986 NI 3](https://www.legislation.gov.uk/nisi/1986)
 

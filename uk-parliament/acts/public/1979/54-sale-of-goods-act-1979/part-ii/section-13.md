@@ -30,7 +30,7 @@ summary: ''
 
 (4) Paragraph 4 of Schedule 1 below applies in relation to a contract made before 18 May 1973.
 
-(5)[^key-8659aaad59e944db19602f923b774b95] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 11 of that Act).
+(5)[^c-8659aaad59e944db19602f923b774b95] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 11 of that Act).
 
 ## Annotations
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c1108896]: Textual amendment: S. 13(1A) inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/7/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/5/4/b) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-8659aaad59e944db19602f923b774b95]: Textual amendment: [S. 13(5)](https://www.legislation.gov.uk/ukpga/1979/54/section/13/5) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/12); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-8659aaad59e944db19602f923b774b95]: Textual amendment: [S. 13(5)](https://www.legislation.gov.uk/ukpga/1979/54/section/13/5) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/12); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

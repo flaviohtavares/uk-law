@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32ZAB. Specified offences[^key-0b8bdae35707ac80e69b8d3722384d33]
+## 32ZAB. Specified offences[^c-0b8bdae35707ac80e69b8d3722384d33]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b8bdae35707ac80e69b8d3722384d33]: Textual amendment: Ss. 32ZAA-32ZAC and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/61/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)
+[^c-0b8bdae35707ac80e69b8d3722384d33]: Textual amendment: Ss. 32ZAA-32ZAC and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/61/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)

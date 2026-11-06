@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. The available amount[^key-ee64dd1a03a84c7bcc6de1f924ef6dc9]
+## 164. The available amount[^c-ee64dd1a03a84c7bcc6de1f924ef6dc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) section 27 of the Misuse of Drugs Act 1971 (c. 38) (forfeiture orders);
 - (b) Article 11 of the Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15)) (deprivation orders);
 - (c) Part 2 of the Proceeds of Crime (Scotland) Act 1995 (c. 43) (forfeiture of property used in crime);
-- (d) section 143 of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) or Chapter 4 of Part 7 of the Sentencing Code[^key-1babc004b17be62dd5477730872ff7a8] (deprivation orders);
+- (d) section 143 of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) or Chapter 4 of Part 7 of the Sentencing Code[^c-1babc004b17be62dd5477730872ff7a8] (deprivation orders);
 - (e) section 23, 23A or 111 of the Terrorism Act 2000 (c. 11) (forfeiture orders);
 - (f) section 245A, 246, 255A, 256, 266, 295(2) or 298(2) of the Proceeds of Crime Act 2002 (c. 29) (freezing, interim receiving, prohibitory, interim administration, recovery, detention and forfeiture orders);
 - (g) section 297A of the Proceeds of Crime Act 2002 (c. 29) (forfeiture notices).
@@ -48,13 +48,13 @@ summary: ''
 (6) In this section—
 
 - “**preferential debts**” has the meaning given by section 386 of the Insolvency Act 1986 (c. 45);
-- “preferred debts” has the meaning given by section 129(2) of the Bankruptcy (Scotland) Act 2016;[^key-f5053e4e60b65c44f30e745f20cdfd00]
+- “preferred debts” has the meaning given by section 129(2) of the Bankruptcy (Scotland) Act 2016;[^c-f5053e4e60b65c44f30e745f20cdfd00]
 - “**relevant gift**”, in relation to an exploitation proceeds order, means a gift made by the respondent on or after the day on which the respondent first derived any of the benefits identified in the order under section 155(4)(b).
 
 ## Annotations
 
-[^key-ee64dd1a03a84c7bcc6de1f924ef6dc9]: Commencement: S. 164 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-ee64dd1a03a84c7bcc6de1f924ef6dc9]: Commencement: S. 164 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
 
-[^key-1babc004b17be62dd5477730872ff7a8]: Textual amendment: Words in [s. 164(3)(d)](https://www.legislation.gov.uk/ukpga/2009/25/section/164/3/d) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 282](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/282) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1babc004b17be62dd5477730872ff7a8]: Textual amendment: Words in [s. 164(3)(d)](https://www.legislation.gov.uk/ukpga/2009/25/section/164/3/d) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 282](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/282) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-f5053e4e60b65c44f30e745f20cdfd00]: Textual amendment: Words in s. 164(6) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/34/2)
+[^c-f5053e4e60b65c44f30e745f20cdfd00]: Textual amendment: Words in s. 164(6) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/34/2)

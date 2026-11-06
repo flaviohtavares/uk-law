@@ -137,14 +137,14 @@ In regulation 1(2) of the Pension Protection Fund (Multi-employer Schemes) (Modi
     ;
   - (iii) after sub-paragraph (b)(vi) add—
 
-    > - (vii) the extent (if at all) to which non-financial matters are taken into account in the selection, retention and realisation of investments;[^key-bb38bb1e79a1aacec800d54adb7be253]
+    > - (vii) the extent (if at all) to which non-financial matters are taken into account in the selection, retention and realisation of investments;[^c-bb38bb1e79a1aacec800d54adb7be253]
 
     ;
   - (iv) for sub-paragraph (c) substitute—
 
     > - (c) their policy in relation to—
     >   - (i) the exercise of the rights (including voting rights) attaching to the investments, and
-    >   - (ii) undertaking engagement activities in respect of the investments (including the methods by which, and the circumstances under which, trustees would monitor and engage with relevant persons about relevant matters), and[^key-79dcf4163f9dc07811ea59ad1067bc8f]
+    >   - (ii) undertaking engagement activities in respect of the investments (including the methods by which, and the circumstances under which, trustees would monitor and engage with relevant persons about relevant matters), and[^c-79dcf4163f9dc07811ea59ad1067bc8f]
 
     ;
 - (b) after paragraph (3) add—
@@ -155,12 +155,12 @@ In regulation 1(2) of the Pension Protection Fund (Multi-employer Schemes) (Modi
   > - “**beneficiaries**” means a person, other than a member of the trust scheme, who is entitled to the payment of benefits under the scheme;
   > - “**financially material considerations**” includes (but is not limited to) environmental, social and governance considerations (including but not limited to climate change), which the trustees of the trust scheme consider financially material;
   > - “**non-financial matters**” means the views of the members and beneficiaries including (but not limited to) their ethical views and their views in relation to social and environmental impact and present and future quality of life of the members and beneficiaries of the trust scheme;
-  > - “**relevant matters**” includes (but is not limited to) matters concerning an issuer of debt or equity, including their performance, strategy, capital structure, management of actual or potential conflicts of interest,[^key-86cf25e3848036eabf34b03ebbecee81] risks, social and environmental impact and corporate governance, and
-  > - “**relevant persons**” includes (but is not limited to) an issuer of debt or equity, an investment manager , another stakeholder[^key-baa7fbd73edd55f1905eba9007ab971f] or another holder of debt or equity.
+  > - “**relevant matters**” includes (but is not limited to) matters concerning an issuer of debt or equity, including their performance, strategy, capital structure, management of actual or potential conflicts of interest,[^c-86cf25e3848036eabf34b03ebbecee81] risks, social and environmental impact and corporate governance, and
+  > - “**relevant persons**” includes (but is not limited to) an issuer of debt or equity, an investment manager , another stakeholder[^c-baa7fbd73edd55f1905eba9007ab971f] or another holder of debt or equity.
 
   .
 
-(3)[^key-d52ae94c51c61b156868b99b44ae98dc] In regulation 2A(1)(b) (additional requirements in relation to default arrangement) after “regulation 2(3)(b)” insert “and, if that scheme has 100 or more members, regulation 2(3)(c) and (d)”.
+(3)[^c-d52ae94c51c61b156868b99b44ae98dc] In regulation 2A(1)(b) (additional requirements in relation to default arrangement) after “regulation 2(3)(b)” insert “and, if that scheme has 100 or more members, regulation 2(3)(c) and (d)”.
 
 ## 5. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations
 
@@ -171,7 +171,7 @@ In regulation 1(2) of the Pension Protection Fund (Multi-employer Schemes) (Modi
 - (a) in paragraph (1) after “year and” insert “ (subject to paragraph (5)) ”;
 - (b) after paragraph (4) add—
 
-  > (5)[^key-8636a3170ed86f429a4b54936c91a271] Where Article 35 of the 1995 Order (investment principles) applies to a scheme the following information must be made publicly available free of charge in accordance with regulation 29A—
+  > (5)[^c-8636a3170ed86f429a4b54936c91a271] Where Article 35 of the 1995 Order (investment principles) applies to a scheme the following information must be made publicly available free of charge in accordance with regulation 29A—
   >
   > - (a) the information listed in paragraph 30(ca) of Schedule 3 but only if the scheme is not a relevant scheme within the meaning of regulation 1(2) of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (interpretation), or
   > - (b) the information listed in paragraph 30(f) of that Schedule but only if the scheme is a relevant scheme within the meaning of that regulation.
@@ -191,7 +191,7 @@ In regulation 1(2) of the Pension Protection Fund (Multi-employer Schemes) (Modi
   > - (b) the information which must be included in the most recent document prepared under regulation 12 in accordance with paragraph 30(f) of Schedule 3.
 
   ;
-- (c)[^key-af4f424f312701513e17a4909b20e4bc] in paragraph (4) after “paragraph (2)” insert “, (2A) or (2B)”.
+- (c)[^c-af4f424f312701513e17a4909b20e4bc] in paragraph (4) after “paragraph (2)” insert “, (2A) or (2B)”.
 
 (5) In paragraph 30 of Schedule 3 (information to be given on request)—
 
@@ -199,9 +199,9 @@ In regulation 1(2) of the Pension Protection Fund (Multi-employer Schemes) (Modi
 
   > - (d) the policies specified in the following paragraphs of regulation 2 of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 (statement of investment principles) (“**the Investment Regulations**”)—
   >   - (i) paragraph (3)(b)(vi) [^c23386511];
-  >   - (ii) paragraph (3)(b) (vii);[^key-7220a411a02b66afdb34c0c10a700890]
+  >   - (ii) paragraph (3)(b) (vii);[^c-7220a411a02b66afdb34c0c10a700890]
   >   - (iii) paragraph (3)(c) [^c23386531], and
-  >   - (iv)[^key-96c380508da13793cb557346a007a778] paragraph (3)(d), and
+  >   - (iv)[^c-96c380508da13793cb557346a007a778] paragraph (3)(d), and
 
   ;
 - (b) omit sub-paragraph (e);
@@ -210,9 +210,9 @@ In regulation 1(2) of the Pension Protection Fund (Multi-employer Schemes) (Modi
   > - (f) where the scheme is a relevant scheme within the meaning of the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997, a statement which must—
   >   - (i) set out how, and the extent to which, in the opinion of the trustees, the statement of investment principles required under Article 35 of the 1995 Order has been followed during the year;
   >   - (ii) describe any review of the statement of investment principles undertaken during the year in accordance with regulation 2(1) of the Investment Regulations and any other review of how the statement of investment principles has been met;
-  >   - (iii) explain any change made to the statement of investment principles during the year and the reason for the change;[^key-89f5ef878eb4c2cf300d33b6b22c5120]
-  >   - (iv) where no such review was undertaken during the year in accordance with regulation 2(1) of the Investment Regulations, give the date of the last review, and[^key-e6654643837df857e4e427ea96f6852c]
-  >   - (v)[^key-d2745703350baedc2dee0fe5cbd4f728] describe the voting behaviour by, or on behalf of, trustees (including the most significant votes cast by trustees or on their behalf) during the year and state any use of the services of a proxy voter during that year.
+  >   - (iii) explain any change made to the statement of investment principles during the year and the reason for the change;[^c-89f5ef878eb4c2cf300d33b6b22c5120]
+  >   - (iv) where no such review was undertaken during the year in accordance with regulation 2(1) of the Investment Regulations, give the date of the last review, and[^c-e6654643837df857e4e427ea96f6852c]
+  >   - (v)[^c-d2745703350baedc2dee0fe5cbd4f728] describe the voting behaviour by, or on behalf of, trustees (including the most significant votes cast by trustees or on their behalf) during the year and state any use of the services of a proxy voter during that year.
 
   .
 
@@ -284,33 +284,33 @@ An assessment of the impact of regulations 4 and 5 of these Regulations is detai
 
 [^c23386471]: Marginal citation: S.R. [2005 No. 569](https://www.legislation.gov.uk/ukcm/2005/569); relevant amending Regulations are S.R. [2015 No. 309](https://www.legislation.gov.uk/ukcm/2015/309)
 
-[^key-bb38bb1e79a1aacec800d54adb7be253]: Textual amendment: Words in [reg. 4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/iii) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/i/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-bb38bb1e79a1aacec800d54adb7be253]: Textual amendment: Words in [reg. 4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/iii) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/i/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-79dcf4163f9dc07811ea59ad1067bc8f]: Textual amendment: Words in [reg. 4(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/iv) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/i/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-79dcf4163f9dc07811ea59ad1067bc8f]: Textual amendment: Words in [reg. 4(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/a/iv) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/i/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-86cf25e3848036eabf34b03ebbecee81]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/ii/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-86cf25e3848036eabf34b03ebbecee81]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(ii)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/ii/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-baa7fbd73edd55f1905eba9007ab971f]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/ii/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-baa7fbd73edd55f1905eba9007ab971f]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/2/b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(a)(ii)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/a/ii/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-d52ae94c51c61b156868b99b44ae98dc]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/3) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-d52ae94c51c61b156868b99b44ae98dc]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2018/165/regulation/4/3) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-8636a3170ed86f429a4b54936c91a271]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/2/b) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/a) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-8636a3170ed86f429a4b54936c91a271]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/2/b) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/a) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-af4f424f312701513e17a4909b20e4bc]: Textual amendment: [Reg. 5(4)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/4/c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-af4f424f312701513e17a4909b20e4bc]: Textual amendment: [Reg. 5(4)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/4/c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
 [^c23386511]: Marginal citation: Sub-paragraph (b)(vi) is substituted by regulation 4(2)(a)(ii) of these Regulations
 
-[^key-7220a411a02b66afdb34c0c10a700890]: Textual amendment: Word in [reg. 5(5)(a)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/a) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/i/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-7220a411a02b66afdb34c0c10a700890]: Textual amendment: Word in [reg. 5(5)(a)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/a) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(i)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/i/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
 [^c23386531]: Marginal citation: Sub-paragraph (c) is substituted by regulation 4(2)(a)(iv) of these Regulations
 
-[^key-96c380508da13793cb557346a007a778]: Textual amendment: Words in [reg. 5(5)(a)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/a) added (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/i/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-96c380508da13793cb557346a007a778]: Textual amendment: Words in [reg. 5(5)(a)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/a) added (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(i)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/i/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-89f5ef878eb4c2cf300d33b6b22c5120]: Textual amendment: Word in [reg. 5(5)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/ii/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-89f5ef878eb4c2cf300d33b6b22c5120]: Textual amendment: Word in [reg. 5(5)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(ii)(aa)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/ii/aa) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-e6654643837df857e4e427ea96f6852c]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/ii/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-e6654643837df857e4e427ea96f6852c]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(ii)(bb)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/ii/bb) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
-[^key-d2745703350baedc2dee0fe5cbd4f728]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/c) added (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(ii)(cc)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/ii/cc) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
+[^c-d2745703350baedc2dee0fe5cbd4f728]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/nisr/2018/165/regulation/5/5/c) added (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/115)](https://www.legislation.gov.uk/nisr/2019/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1), [4(3)(c)(ii)(cc)](https://www.legislation.gov.uk/nisr/2019/115/regulation/4/3/c/ii/cc) (with [reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5))
 
 [^c23386541]: Marginal citation: [Paragraph 5B](https://www.legislation.gov.uk/nisr/2018/165/paragraph/5B) was inserted by regulation 3(8) of S.R. [2018 No. 53](https://www.legislation.gov.uk/ukcm/2018/53)
 

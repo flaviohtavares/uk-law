@@ -52,9 +52,9 @@ and section 83 of the Housing (Scotland) Act [^c981141]1987 shall apply to deter
 - (f) a registered housing association, within the meaning of the Housing Associations Act [^c981201]1985; or
 - (g) any other person who is, or who belongs to a class of person which is, specified in an order made by the Secretary of State.
 
-(5A)[^c981211] Nothing in section 23 of this Act applies to a tenancy or right of occupancy if it is granted in order to provide accommodation under section 4 or Part VI of the Immigration and Asylum Act 1999[^key-04bf2ecd3b98c0d6573e6a536d5e49df].
+(5A)[^c981211] Nothing in section 23 of this Act applies to a tenancy or right of occupancy if it is granted in order to provide accommodation under section 4 or Part VI of the Immigration and Asylum Act 1999[^c-04bf2ecd3b98c0d6573e6a536d5e49df].
 
-(5B)[^key-10a9c8daa6f660bc26484c4a5deb49ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5B)[^c-10a9c8daa6f660bc26484c4a5deb49ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The power to make an order under subsection (5)(g) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -78,6 +78,6 @@ and section 83 of the Housing (Scotland) Act [^c981141]1987 shall apply to deter
 
 [^c981211]: Textual amendment: S. 5A inserted (11.11.1999) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 169(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1), [170(3)(s)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/3/s), [Sch. 14 para. 79](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/79)
 
-[^key-04bf2ecd3b98c0d6573e6a536d5e49df]: Textual amendment: Words in s. 23A(5A) substituted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 43(4)(c)](https://www.legislation.gov.uk/ukpga/2006/13/section/43/4/c), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1), [(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
+[^c-04bf2ecd3b98c0d6573e6a536d5e49df]: Textual amendment: Words in s. 23A(5A) substituted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 43(4)(c)](https://www.legislation.gov.uk/ukpga/2006/13/section/43/4/c), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1), [(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
 
-[^key-10a9c8daa6f660bc26484c4a5deb49ab]: Textual amendment: S. 23A(5B) repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10a9c8daa6f660bc26484c4a5deb49ab]: Textual amendment: S. 23A(5B) repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

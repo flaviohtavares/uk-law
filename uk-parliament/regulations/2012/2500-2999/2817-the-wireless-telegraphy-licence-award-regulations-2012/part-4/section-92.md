@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Assignment stage options for 2.6 GHz individual frequency lots[^key-4c82cdc9e2f13e0c989dbe2754e33903]
+## 92. Assignment stage options for 2.6 GHz individual frequency lots[^c-4c82cdc9e2f13e0c989dbe2754e33903]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ The assignment stage options for a bidder eligible to bid under regulation 88(1)
 
 ## Annotations
 
-[^key-4c82cdc9e2f13e0c989dbe2754e33903]: Commencement: Reg. 92 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4c82cdc9e2f13e0c989dbe2754e33903]: Commencement: Reg. 92 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

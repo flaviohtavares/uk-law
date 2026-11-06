@@ -25,10 +25,10 @@ summary: ''
 - (a) the time for making an application for a review pursuant to regulation 65 (review of decisions of competent authorities) has expired without such an application having been made; or
 - (b) an application has been made by the economic operator and determined without an instruction for the withdrawal of the notice being given and a period of 21 days has elapsed beginning with the day after notice of the outcome of the review has been served on the economic operator.
 
-(2) Where this paragraph (1) applies, if the economic operator on whom the enforcement notice[^key-d15b27f44cb9247d0476b789b97ecd13] has been served, fails to comply with the requirements of that notice, that economic operator is guilty of an offence.
+(2) Where this paragraph (1) applies, if the economic operator on whom the enforcement notice[^c-d15b27f44cb9247d0476b789b97ecd13] has been served, fails to comply with the requirements of that notice, that economic operator is guilty of an offence.
 
 (3) An economic operator that fails to comply with an enforcement notice served on the economic operator by the Secretary of State is guilty of an offence.
 
 ## Annotations
 
-[^key-d15b27f44cb9247d0476b789b97ecd13]: Textual amendment: Words in reg. 66(2) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/5/regulation/7/3)
+[^c-d15b27f44cb9247d0476b789b97ecd13]: Textual amendment: Words in reg. 66(2) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/5/regulation/7/3)

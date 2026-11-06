@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Power to modify section 735 to take account of recognised investment exchanges[^key-87bb924b849363e623e3d1b3bfebd48b]
+## 43. Power to modify section 735 to take account of recognised investment exchanges[^c-87bb924b849363e623e3d1b3bfebd48b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 738(5) (power to modify section 735 to take account of recognised inv
 
 ## Annotations
 
-[^key-87bb924b849363e623e3d1b3bfebd48b]: Commencement: Art. 43 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-87bb924b849363e623e3d1b3bfebd48b]: Commencement: Art. 43 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

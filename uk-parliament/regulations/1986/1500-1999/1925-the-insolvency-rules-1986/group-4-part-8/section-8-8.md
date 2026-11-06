@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.8. Interpretation of creditor[^key-476f5cbe56cfa1c8cc6a247cdc94017d]
+## 8.8. Interpretation of creditor[^c-476f5cbe56cfa1c8cc6a247cdc94017d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-476f5cbe56cfa1c8cc6a247cdc94017d]: Textual amendment: Rule 8.8 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [9(2)](https://www.legislation.gov.uk/uksi/2002/1307/rule/9/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-476f5cbe56cfa1c8cc6a247cdc94017d]: Textual amendment: Rule 8.8 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [9(2)](https://www.legislation.gov.uk/uksi/2002/1307/rule/9/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

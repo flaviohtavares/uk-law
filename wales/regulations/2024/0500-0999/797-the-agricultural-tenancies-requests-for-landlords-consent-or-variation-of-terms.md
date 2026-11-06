@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 8A(7) of the
 
 ## PART 1 — Introductory
 
-### 1. Title and coming into force[^key-c6fdb61fe70bb3eb83955d699cc2a521]
+### 1. Title and coming into force[^c-c6fdb61fe70bb3eb83955d699cc2a521]
 
 (1) The title of these Regulations is the Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) Regulations 2024.
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 8A(7) of the
 
 ## PART 2 — Requests for Landlord’s Consent or Variation of Terms
 
-### 2. Interpretation[^key-385c85b36f975d43bac198079c936023]
+### 2. Interpretation[^c-385c85b36f975d43bac198079c936023]
 
 In these Regulations—
 
@@ -75,11 +75,11 @@ In these Regulations—
 - “**statutory duty**” (“***dyletswydd statudol***”) means a duty imposed by or under—
   - (a) an Act of Parliament,
   - (b) an Act of Senedd Cymru or an Assembly Measure, or
-  - (c) assimilated direct legislation[^key-996c8756d89f180f0ceefee75f33e921];
+  - (c) assimilated direct legislation[^c-996c8756d89f180f0ceefee75f33e921];
 - “**tenancy**” (“***tenantiaeth***”) has the meaning given in section 38 of the 1995 Act;
 - “**tenant**” (“***tenant***”) has the meaning given in section 38 of the 1995 Act.
 
-### 3. Request for landlord’s consent or variation of terms[^key-4e59f6c5874ddd5986bff3d3b7092f6a]
+### 3. Request for landlord’s consent or variation of terms[^c-4e59f6c5874ddd5986bff3d3b7092f6a]
 
 (1) A tenant of a farm business tenancy may refer a qualifying request to arbitration under the 1995 Act.
 
@@ -123,13 +123,13 @@ In these Regulations—
 - (b) consents to the request subject to conditions which are set out in the counter-notice, or
 - (c) refuses the request.
 
-(8) The tenant may refer the request to arbitration within the period of 4 months[^key-b5d70cf9e7f27c027f454f826c247248] from the service of the tenant’s notice if the landlord—
+(8) The tenant may refer the request to arbitration within the period of 4 months[^c-b5d70cf9e7f27c027f454f826c247248] from the service of the tenant’s notice if the landlord—
 
 - (a) does not serve a counter-notice;
 - (b) serves a counter-notice which consents to the request subject to conditions which are not acceptable to the tenant;
 - (c) serves a counter-notice refusing the request.
 
-### 4. Awards or determinations by the arbitrator[^key-91c02979ce38d8896a4aea811d9e1524]
+### 4. Awards or determinations by the arbitrator[^c-91c02979ce38d8896a4aea811d9e1524]
 
 (1) When a reference is made to an arbitrator to determine a request in accordance with regulation 3, the arbitrator may order the landlord to comply with the request (either in full or to the extent specified in the award or the determination) or make such other award or determination as the arbitrator considers reasonable and just between the landlord and the tenant.
 
@@ -138,7 +138,7 @@ In these Regulations—
 - (a) the payment of costs;
 - (b) where a request is made for the purposes of enabling the tenant to request or apply for relevant financial support, conditions relating to the making of a successful application;
 - (c) conditions restricting a tenant’s ability to make any subsequent reference to arbitration under this Part in respect of the same request and in relation to the same tenancy;
-- (d) conditions relating to other matters including the time at which the award or determination[^key-dc0196edbe2cb1b1acaeaf47d6926847] takes effect.
+- (d) conditions relating to other matters including the time at which the award or determination[^c-dc0196edbe2cb1b1acaeaf47d6926847] takes effect.
 
 (3) The arbitrator must not make any award or determination which includes a variation to the rent of the holding as part of any award or determination made under paragraph (1).
 
@@ -148,7 +148,7 @@ In these Regulations—
 
 ## PART 3 — Review
 
-### 5. Review[^key-b783837ddb65e29e43cf7d8d0a5d1339]
+### 5. Review[^c-b783837ddb65e29e43cf7d8d0a5d1339]
 
 (1) The Welsh Ministers must from time to time—
 
@@ -190,20 +190,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8).
 
-[^key-c6fdb61fe70bb3eb83955d699cc2a521]: Commencement: Reg. 1 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
+[^c-c6fdb61fe70bb3eb83955d699cc2a521]: Commencement: Reg. 1 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
 
-[^key-385c85b36f975d43bac198079c936023]: Commencement: Reg. 2 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
+[^c-385c85b36f975d43bac198079c936023]: Commencement: Reg. 2 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
 
 [^f00002]: Footnote: [2023 asc. 4](https://www.legislation.gov.uk/asc/2023/4).
 
-[^key-996c8756d89f180f0ceefee75f33e921]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2024/797/regulation/2) substituted (21.3.2025) by [The Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) (Amendment) Regulations 2025 (S.I. 2025/230)](https://www.legislation.gov.uk/wsi/2025/230), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/230/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2025/230/regulation/2/2/b)
+[^c-996c8756d89f180f0ceefee75f33e921]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2024/797/regulation/2) substituted (21.3.2025) by [The Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) (Amendment) Regulations 2025 (S.I. 2025/230)](https://www.legislation.gov.uk/wsi/2025/230), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/230/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2025/230/regulation/2/2/b)
 
-[^key-4e59f6c5874ddd5986bff3d3b7092f6a]: Commencement: Reg. 3 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
+[^c-4e59f6c5874ddd5986bff3d3b7092f6a]: Commencement: Reg. 3 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
 
-[^key-b5d70cf9e7f27c027f454f826c247248]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/wsi/2024/797/regulation/3/8) substituted (21.3.2025) by [The Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) (Amendment) Regulations 2025 (S.I. 2025/230)](https://www.legislation.gov.uk/wsi/2025/230), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/230/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/230/regulation/2/3)
+[^c-b5d70cf9e7f27c027f454f826c247248]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/wsi/2024/797/regulation/3/8) substituted (21.3.2025) by [The Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) (Amendment) Regulations 2025 (S.I. 2025/230)](https://www.legislation.gov.uk/wsi/2025/230), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/230/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/230/regulation/2/3)
 
-[^key-91c02979ce38d8896a4aea811d9e1524]: Commencement: Reg. 4 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
+[^c-91c02979ce38d8896a4aea811d9e1524]: Commencement: Reg. 4 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
 
-[^key-dc0196edbe2cb1b1acaeaf47d6926847]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/wsi/2024/797/regulation/4/2/d) inserted (21.3.2025) by [The Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) (Amendment) Regulations 2025 (S.I. 2025/230)](https://www.legislation.gov.uk/wsi/2025/230), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/230/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2025/230/regulation/2/4)
+[^c-dc0196edbe2cb1b1acaeaf47d6926847]: Textual amendment: Words in [reg. 4(2)(d)](https://www.legislation.gov.uk/wsi/2024/797/regulation/4/2/d) inserted (21.3.2025) by [The Agricultural Tenancies (Requests for Landlord’s Consent or Variation of Terms) (Wales) (Amendment) Regulations 2025 (S.I. 2025/230)](https://www.legislation.gov.uk/wsi/2025/230), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/230/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2025/230/regulation/2/4)
 
-[^key-b783837ddb65e29e43cf7d8d0a5d1339]: Commencement: Reg. 5 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)
+[^c-b783837ddb65e29e43cf7d8d0a5d1339]: Commencement: Reg. 5 in force at 8.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/797/regulation/1/2)

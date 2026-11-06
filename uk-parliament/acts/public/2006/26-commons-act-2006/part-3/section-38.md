@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Prohibition on works without consent[^c1912143][^c1967870][^c1968671][^key-c791d2255f9537c954413d1693ecea84][^key-3cfc121d20e478351cfafea7b26bc147]
+## 38. Prohibition on works without consent[^c1912143][^c1967870][^c1968671][^c-c791d2255f9537c954413d1693ecea84][^c-3cfc121d20e478351cfafea7b26bc147]
 
 *Extent: E+W*
 
-(1)[^key-27de972732721263bb02893502aaae7c] A person may not, except with the consent of the appropriate national authority, carry out any restricted works on land to which this section applies.
+(1)[^c-27de972732721263bb02893502aaae7c] A person may not, except with the consent of the appropriate national authority, carry out any restricted works on land to which this section applies.
 
 (2) In subsection (1) “**restricted works**” are—
 
@@ -68,8 +68,8 @@ summary: ''
 
 [^c1968671]: Commencement: S. 38 not in force at Royal Assent see s. 56(1); s. 38 in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3))
 
-[^key-c791d2255f9537c954413d1693ecea84]: Commencement: S. 38 in force at 1.4.2012 for W. by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/739/article/2/c) (with [art. 4(1)](https://www.legislation.gov.uk/wsi/2012/739/article/4/1)[(3)](https://www.legislation.gov.uk/wsi/2012/739/article/4/3))
+[^c-c791d2255f9537c954413d1693ecea84]: Commencement: S. 38 in force at 1.4.2012 for W. by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/739/article/2/c) (with [art. 4(1)](https://www.legislation.gov.uk/wsi/2012/739/article/4/1)[(3)](https://www.legislation.gov.uk/wsi/2012/739/article/4/3))
 
-[^key-3cfc121d20e478351cfafea7b26bc147]: Modification: S. 38 excluded by 1971 c. vi s. 23(2C) (as inserted (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2006/26/schedule/4/paragraph/4/3) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/i); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(i)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/i) (with [art. 4(5)](https://www.legislation.gov.uk/wsi/2012/739/article/4/5)))
+[^c-3cfc121d20e478351cfafea7b26bc147]: Modification: S. 38 excluded by 1971 c. vi s. 23(2C) (as inserted (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2006/26/schedule/4/paragraph/4/3) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/i); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(i)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/i) (with [art. 4(5)](https://www.legislation.gov.uk/wsi/2012/739/article/4/5)))
 
-[^key-27de972732721263bb02893502aaae7c]: Modification: [S. 38(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/38/1) modified (coming into force in accordance with s. 13 of the amending Act) by [Monken Hadley Common Act 2022 (c. ii)](https://www.legislation.gov.uk/ukla/2022/2), [s. 7(3)](https://www.legislation.gov.uk/ukla/2022/2/section/7/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukla/2022/2/section/8/3))
+[^c-27de972732721263bb02893502aaae7c]: Modification: [S. 38(1)](https://www.legislation.gov.uk/ukpga/2006/26/section/38/1) modified (coming into force in accordance with s. 13 of the amending Act) by [Monken Hadley Common Act 2022 (c. ii)](https://www.legislation.gov.uk/ukla/2022/2), [s. 7(3)](https://www.legislation.gov.uk/ukla/2022/2/section/7/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukla/2022/2/section/8/3))

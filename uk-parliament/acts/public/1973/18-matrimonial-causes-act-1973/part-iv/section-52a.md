@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders[^key-1b02551aab396080fb22c1bd1fab2cd4]
+## 52A. Interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders[^c-1b02551aab396080fb22c1bd1fab2cd4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b02551aab396080fb22c1bd1fab2cd4]: Textual amendment: [S. 52A](https://www.legislation.gov.uk/ukpga/1973/18/section/52A) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/32); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1b02551aab396080fb22c1bd1fab2cd4]: Textual amendment: [S. 52A](https://www.legislation.gov.uk/ukpga/1973/18/section/52A) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/32); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

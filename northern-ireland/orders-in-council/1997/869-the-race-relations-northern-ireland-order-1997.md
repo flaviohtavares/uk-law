@@ -272,7 +272,7 @@ where paragraph (2) applies.
 
 (5) Paragraph (2)(c) does not apply to benefits, facilities or services of any description if the principal is concerned with the provision (for payment or not) of benefits, facilities or services of that description to the public, or to a section of the public to which the contract worker in question belongs, unless that provision differs in a material respect from the provision of the benefits, facilities or services by the principal to his contract workers.
 
-(6) This Article applies only in relation to work done at an establishment in Northern Ireland; and Articles 10 and 11 apply[^key-63939ada811308d80076bec49ecf9b89] for the purposes of this paragraph with appropriate modifications.
+(6) This Article applies only in relation to work done at an establishment in Northern Ireland; and Articles 10 and 11 apply[^c-63939ada811308d80076bec49ecf9b89] for the purposes of this paragraph with appropriate modifications.
 
 #### 10. Meaning of employment at establishment in Northern Ireland
 
@@ -291,10 +291,10 @@ where paragraph (2) applies.
 
 (2)[^c17078381] The reference to “employment” in paragraph (1) includes—
 
-- (a)[^key-2d5af8e04ba5e25f2953c2d541f4093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) employment on aircraft [^key-d75858f35f925b785bd8ffacf32c725e]... registered in the United Kingdom and operated by a person who has his principal place of business, or is ordinarily resident, in Northern Ireland.
+- (a)[^c-2d5af8e04ba5e25f2953c2d541f4093c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) employment on aircraft [^c-d75858f35f925b785bd8ffacf32c725e]... registered in the United Kingdom and operated by a person who has his principal place of business, or is ordinarily resident, in Northern Ireland.
 
-(2A)[^key-3aa1cce94db00015cc4fa8f5e22b9a66] Except as provided by Article 11, paragraph (1) does not apply to employment as a seafarer (within the meaning of that Article).
+(2A)[^c-3aa1cce94db00015cc4fa8f5e22b9a66] Except as provided by Article 11, paragraph (1) does not apply to employment as a seafarer (within the meaning of that Article).
 
 *Para.3 rep. by SR 2000/8*
 
@@ -306,7 +306,7 @@ where paragraph (2) applies.
 
 (7) The Department shall not make an order under paragraph (5) unless a draft of the order has been laid before and approved by resolution of the Assembly.
 
-#### 11. Seafarers[^key-e1aefb2a834be0c0926bb403bac7a389]
+#### 11. Seafarers[^c-e1aefb2a834be0c0926bb403bac7a389]
 
 (1) If paragraph (2), (3) or (4) applies to a seafarer, this Part applies to the seafarer as if the seafarer were employed at an establishment in Northern Ireland.
 
@@ -317,15 +317,15 @@ where paragraph (2) applies.
 
 (3) This paragraph applies to a seafarer who works wholly or partly within Northern Ireland if—
 
-- (a) the seafarer is on a ship registered in or entitled to fly the flag of an EEA State other than the United Kingdom, or a hovercraft registered in an EEA State [^key-a3c644611306ad3fb6d62f0afbf0aac4]...,
+- (a) the seafarer is on a ship registered in or entitled to fly the flag of an EEA State other than the United Kingdom, or a hovercraft registered in an EEA State [^c-a3c644611306ad3fb6d62f0afbf0aac4]...,
 - (b) the ship or hovercraft is in United Kingdom waters adjacent to Northern Ireland,
-- (c) the seafarer is a British citizen, or a national of an EEA State [^key-a3c644611306ad3fb6d62f0afbf0aac4]... or of a designated state; and
+- (c) the seafarer is a British citizen, or a national of an EEA State [^c-a3c644611306ad3fb6d62f0afbf0aac4]... or of a designated state; and
 - (d) the legal relationship of the seafarer’s employment is located within Northern Ireland or retains a sufficiently close link to Northern Ireland.
 
 (4) This paragraph applies to a seafarer who works wholly outside Northern Ireland if—
 
 - (a) the seafarer is on a UK ship registered at a port of registry in Northern Ireland or a UK hovercraft operated by a person whose principal place of business, or ordinary residence, is in Northern Ireland,
-- (b) the seafarer is a British citizen, or a national of an EEA State [^key-3abbb26c8846fcb1a6fa0528da96d84c]...or of a designated state; and
+- (b) the seafarer is a British citizen, or a national of an EEA State [^c-3abbb26c8846fcb1a6fa0528da96d84c]...or of a designated state; and
 - (c) the legal relationship of the seafarer’s employment is located within Northern Ireland or retains a sufficiently close link to Northern Ireland.
 
 (5) It is not a contravention of Article 6 or 9 for an employer or principal to offer to pay, or to pay, a person (A) at a lower rate than that at which the employer or principal offers to pay or pays another person (B) because A is of a different nationality from B, if—
@@ -337,7 +337,7 @@ where paragraph (2) applies.
   outside Northern Ireland, and
 - (b) A is not—
   - (i) a British citizen,
-  - (ii) a national of an[^key-f051e7c10ef8e1f5efe79855c5d930ae] EEA State, or
+  - (ii) a national of an[^c-f051e7c10ef8e1f5efe79855c5d930ae] EEA State, or
   - (iii) a national of a designated state.
 
 (6) For the purposes of this Article—
@@ -489,7 +489,7 @@ where paragraph (2) applies.
 
     | *Establishment* | *Responsible body* |
     | --- | --- |
-    | 1\. Educational establishment which is grant-aided. | Education Authority[^key-d9d2be1e3aa55844a16e710c49bd564a] or managers or governing body according to which of them has the function in question. |
+    | 1\. Educational establishment which is grant-aided. | Education Authority[^c-d9d2be1e3aa55844a16e710c49bd564a] or managers or governing body according to which of them has the function in question. |
     | 2\. Independent school. | Proprietor. |
     | 3\. University. | Governing body. |
     | 4\. An establishment providing further education in respect of which grants are paid under Article 5(1)(b) of the Further Education (Northern Ireland) Order 1997[^c17078711] | Governing body. |
@@ -504,11 +504,11 @@ where paragraph (2) applies.
 
 (3) In this Article “pupil” includes any person who receives education at an establishment to which this Article applies.
 
-#### 19. Other discrimination etc. by the Education Authority[^c17078811][^key-602a72b3b9535e8a4106ced983b6e164]
+#### 19. Other discrimination etc. by the Education Authority[^c17078811][^c-602a72b3b9535e8a4106ced983b6e164]
 
 It is unlawful for—
 
-- (a) the Education Authority[^key-a7b5bb6c01f8daa46e8acf251d33f466] , in carrying out such of its functions under the Education Orders as do not fall under Article 18; and
+- (a) the Education Authority[^c-a7b5bb6c01f8daa46e8acf251d33f466] , in carrying out such of its functions under the Education Orders as do not fall under Article 18; and
 - (b) the Council for Catholic Maintained Schools, in carrying out its functions under the Education Orders,
 
 to do any act which constitutes racial discrimination or harassment.
@@ -517,13 +517,13 @@ to do any act which constitutes racial discrimination or harassment.
 
 (1) Without prejudice to its obligation to comply with any other provision of this Order, a body to which this paragraph applies shall be under a general duty to secure that facilities for education provided by it, and any ancillary benefits or services, are provided without racial discrimination.
 
-(2) Article 101 of the Education and Libraries (Northern Ireland) Order 1986 (power of Department of Education to give directions) shall apply to the performance by a body to which paragraph (1) applies of the duties imposed by Articles 18 and 19 and shall also apply to the performance of the general duty imposed by paragraph (1), as it applies to the performance by the Education Authority[^key-c88e5b398330241f7996c246e7769270] of a duty imposed by the Education Orders.
+(2) Article 101 of the Education and Libraries (Northern Ireland) Order 1986 (power of Department of Education to give directions) shall apply to the performance by a body to which paragraph (1) applies of the duties imposed by Articles 18 and 19 and shall also apply to the performance of the general duty imposed by paragraph (1), as it applies to the performance by the Education Authority[^c-c88e5b398330241f7996c246e7769270] of a duty imposed by the Education Orders.
 
 (3) The sanctions in paragraph (2) shall be the only sanctions for breach of the general duty in paragraph (1), but without prejudice to the enforcement of Articles 18 and 19 under Article 54 or otherwise (where the breach is also a contravention of either of those Articles).
 
 (4) Paragraph (1) applies to—
 
-- (a) the Education Authority[^key-380d35d2c7d02137f667438327ef85e3] ; and
+- (a) the Education Authority[^c-380d35d2c7d02137f667438327ef85e3] ; and
 - (b) any other body which is a responsible body in relation to an establishment falling within paragraph 1, 4 or 5(b) of the table in Article 18(1).
 
 #### 20A. Public authorities[^c20346491]
@@ -986,7 +986,7 @@ where either of the conditions in paragraph (7) was satisfied at any time within
 - (a) no persons of that group were members of the organisation; or
 - (b) the proportion of persons of that group among members of the organisation was small in comparison with the proportion of persons of that group among those eligible for membership of the organisation.
 
-(9) Articles 10 and 11 apply[^key-bdee4fc98aaa4f849067e5d587245355] (meaning of employment at establishment in Northern Ireland) shall apply for the purposes of this Article as if this Article were contained in Part II.
+(9) Articles 10 and 11 apply[^c-bdee4fc98aaa4f849067e5d587245355] (meaning of employment at establishment in Northern Ireland) shall apply for the purposes of this Article as if this Article were contained in Part II.
 
 ### 38. Sports and competitions
 
@@ -1340,7 +1340,7 @@ may be made the subject of civil proceedings in like manner as any other claim i
 - (a) Article 33(1) (power of judge to appoint assessors) of the [^m00007] County Courts (Northern Ireland) Order 1980 shall apply with the omission of the words “on the application of any party”, and
 - (b) the remuneration of assessors appointed under that Article shall be at such rate as may be determined by the Lord Chancellor with the approval of the Treasury and may be defrayed as part of the expenses of the Lord Chancellor.
 
-(8) A county court shall have jurisdiction to entertain proceedings under paragraph (1) with respect to an act done on a ship, aircraft or hovercraft [^key-06dcb6dded292804e14bf209b3d6265c]..., including such an act done outside Northern Ireland.
+(8) A county court shall have jurisdiction to entertain proceedings under paragraph (1) with respect to an act done on a ship, aircraft or hovercraft [^c-06dcb6dded292804e14bf209b3d6265c]..., including such an act done outside Northern Ireland.
 
 (9) A county court shall have jurisdiction to entertain proceedings under this Order with respect to an act done outside the United Kingdom where Article 20A applies in relation to such an act by virtue of Article 27(1A).
 
@@ -1378,7 +1378,7 @@ may be made the subject of civil proceedings in like manner as any other claim i
 - “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002;
 - and for the purposes of paragraph (1)(a), any power to grant leave to appeal out of time shall be disregarded.
 
-(6)[^key-05ae5d5c113921542f4ab4af4d75c2b4] This Article applies in relation to reviews under section 2D of the 1997 Act as it applies in relation to appeals under that Act.
+(6)[^c-05ae5d5c113921542f4ab4af4d75c2b4] This Article applies in relation to reviews under section 2D of the 1997 Act as it applies in relation to appeals under that Act.
 
 #### 54B. Burden of proof: county court[^c17079711]
 
@@ -1630,7 +1630,7 @@ paragraph (3) and Article 65(3) shall have effect accordingly.
 - (a) the period of 3 months beginning when the act complained of was done; or
 - (b) in a case to which Article 71(7) applies, the period of 6 months so beginning.
 
-(1A)[^key-65ebcc23af757a855334b6dee8e8ba21] Article 249B of the Employment Rights (Northern Ireland) Order 1996 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
+(1A)[^c-65ebcc23af757a855334b6dee8e8ba21] Article 249B of the Employment Rights (Northern Ireland) Order 1996 (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1)(a).
 
 (1B) Paragraphs (1) and (1A) shall be treated as provisions of the Employment Rights (Northern Ireland) Order 1996 for the purposes of Article 249B of that Order.
 
@@ -1816,7 +1816,7 @@ as are conferred by or in respect of a contract made or modified wholly or partl
 - (c) amend Part II, III or IV so as to render lawful an act which, apart from the amendment, would be unlawful by reason of Article 6(1) or (2), 21(1), 22 or 25;
 - (d) amend Article 12(1) or 25(1)(a) so as to alter the number of partners or members specified in that provision.
 
-(2) The Department may by order provide that Article 10(5)[^key-3557c11849390e26d9523409dd8d40e8] shall have effect—
+(2) The Department may by order provide that Article 10(5)[^c-3557c11849390e26d9523409dd8d40e8] shall have effect—
 
 - (a) with the substitution for the words from “exploration” to “natural resources” of the words “ any activity falling within section 11(2) of the Petroleum Act 1998[^c17080281] ”; and
 - (b) with the insertion after “1964” of the words “ or specified under section 10(8) of the Petroleum Act 1998 ”.
@@ -1863,7 +1863,7 @@ as they apply to employment by a private person, and shall so apply as if refere
 
 (3) Paragraphs (1) to (2B) have effect subject to Articles 72A and 72B[^c17080361].
 
-(4)[^key-a82ab2fd60bb323100d7134b744069ab] Paragraph (2) of Article 10 shall have effect in relation to any aircraft belonging to or possessed by Her Majesty in right of the Government of the United Kingdom as it has effect in relation to an aircraft such as is mentioned in that paragraph.
+(4)[^c-a82ab2fd60bb323100d7134b744069ab] Paragraph (2) of Article 10 shall have effect in relation to any aircraft belonging to or possessed by Her Majesty in right of the Government of the United Kingdom as it has effect in relation to an aircraft such as is mentioned in that paragraph.
 
 (4A) Article 11 shall have effect in relation to any ship or hovercraft belonging to or possessed by Her Majesty in right of the Government of the United Kingdom as it has effect in relation to a ship or hovercraft such as is mentioned in that Article.
 
@@ -1888,29 +1888,29 @@ if at the time when the act complained of was done the complainant was serving i
 (8)[^c21424071] No complaint to which paragraph (7) applies shall be presented to an industrial tribunal under Article 52 unless—
 
 - (a) the complainant has made a service complaint in respect of the act complained of[^c19452291] ; and
-- (b)[^key-8289202f6b53842b4fcfc92e2361d8ae] the complaint has not been withdrawn.
+- (b)[^c-8289202f6b53842b4fcfc92e2361d8ae] the complaint has not been withdrawn.
 
-(8A)[^key-447207488cd3a4f3a541b27b1fcdc9ef] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (8)(b) as withdrawn if—
+(8A)[^c-447207488cd3a4f3a541b27b1fcdc9ef] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of paragraph (8)(b) as withdrawn if—
 
-- (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person's or panel's decision expires, [^key-27d51e9b58d09f9ad0d31d78b6e58c3a]...
-- (aa)[^key-7feb4ded80a309e5e108673a4f80105e] there are grounds (of which the complainant is aware) on which the complainant is entitled to bring such an appeal, and
+- (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person's or panel's decision expires, [^c-27d51e9b58d09f9ad0d31d78b6e58c3a]...
+- (aa)[^c-7feb4ded80a309e5e108673a4f80105e] there are grounds (of which the complainant is aware) on which the complainant is entitled to bring such an appeal, and
 - (b) either—
-  - (i) the complainant does not apply to the Armed Forces Commissioner[^key-8f5d2027204945539e9dcefe68084de5] for a review by virtue of section 340D(6)(a)[^key-941a97987aaabe94b4df66b35189ca36] of that Act (review of decision that appeal brought out of time cannot proceed), or
-  - (ii) the complainant does apply for such a review and the Commissioner[^key-d5b3587c1d1c078550d7c3125c071e9d] decides that an appeal against the person's or panel's decision cannot be proceeded with.
+  - (i) the complainant does not apply to the Armed Forces Commissioner[^c-8f5d2027204945539e9dcefe68084de5] for a review by virtue of section 340D(6)(a)[^c-941a97987aaabe94b4df66b35189ca36] of that Act (review of decision that appeal brought out of time cannot proceed), or
+  - (ii) the complainant does apply for such a review and the Commissioner[^c-d5b3587c1d1c078550d7c3125c071e9d] decides that an appeal against the person's or panel's decision cannot be proceeded with.
 
-(9)[^key-feefeb50f9ac2749a2ba6241b2be738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-feefeb50f9ac2749a2ba6241b2be738d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^c21424081][^key-343c9332539e9245ba8cfaad0c6e7c48] The presentation of a complaint to an industrial tribunal in reliance on paragraph (8) does not affect the continuation of the procedures set out in service complaints regulations.
+(10)[^c21424081][^c-343c9332539e9245ba8cfaad0c6e7c48] The presentation of a complaint to an industrial tribunal in reliance on paragraph (8) does not affect the continuation of the procedures set out in service complaints regulations.
 
-(11)[^key-efdf8eda936523686f4692c90054d668] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-efdf8eda936523686f4692c90054d668] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In this Article—
 
 - “armed forces” means any of the naval, military or air forces of the Crown;
 - “service for purposes of a Minister of the Crown or government department” does not include service in any office for the time being mentioned in Schedule 2 (Ministerial offices) to the[^m00012]House of Commons Disqualification Act 1975;
-- “[^c19461441] **service complaint** ” means a complaint under section 340A[^key-bce083d4fb9521f8e3caba2dc6e290dd] of the Armed Forces Act 2006;
-- “[^key-8f0473402531651dd33825c9afe52111]**service complaints regulations**” means regulations made under section 340B(1) of that Act;
-- [^key-7f3cfffc98185d7aa08b606240381f37]...
+- “[^c19461441] **service complaint** ” means a complaint under section 340A[^c-bce083d4fb9521f8e3caba2dc6e290dd] of the Armed Forces Act 2006;
+- “[^c-8f0473402531651dd33825c9afe52111]**service complaints regulations**” means regulations made under section 340B(1) of that Act;
+- [^c-7f3cfffc98185d7aa08b606240381f37]...
 - “statutory body” means a body set up by or in pursuance of a statutory provision and “statutory office” means an office so set up.
 
 ### 72. Government appointments outside Article 6
@@ -2097,27 +2097,27 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c17078231]: Textual amendment: SR 2003/341
 
-[^key-63939ada811308d80076bec49ecf9b89]: Textual amendment: Words in art. 9(6) substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [3](https://www.legislation.gov.uk/nisr/2012/263/article/3)
+[^c-63939ada811308d80076bec49ecf9b89]: Textual amendment: Words in art. 9(6) substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [3](https://www.legislation.gov.uk/nisr/2012/263/article/3)
 
 [^c17078341]: Textual amendment: SR 2003/341
 
 [^c17078381]: Textual amendment: SR 2000/8
 
-[^key-2d5af8e04ba5e25f2953c2d541f4093c]: Textual amendment: Art. 10(2)(a) omitted (9.7.2012) by virtue of [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [4(a)](https://www.legislation.gov.uk/nisr/2012/263/article/4/a)
+[^c-2d5af8e04ba5e25f2953c2d541f4093c]: Textual amendment: Art. 10(2)(a) omitted (9.7.2012) by virtue of [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [4(a)](https://www.legislation.gov.uk/nisr/2012/263/article/4/a)
 
-[^key-d75858f35f925b785bd8ffacf32c725e]: Textual amendment: Words in art. 10(2)(b) omitted (9.7.2012) by virtue of [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [4(a)](https://www.legislation.gov.uk/nisr/2012/263/article/4/a)
+[^c-d75858f35f925b785bd8ffacf32c725e]: Textual amendment: Words in art. 10(2)(b) omitted (9.7.2012) by virtue of [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [4(a)](https://www.legislation.gov.uk/nisr/2012/263/article/4/a)
 
-[^key-3aa1cce94db00015cc4fa8f5e22b9a66]: Textual amendment: Art. 10(2A) inserted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [4(b)](https://www.legislation.gov.uk/nisr/2012/263/article/4/b)
+[^c-3aa1cce94db00015cc4fa8f5e22b9a66]: Textual amendment: Art. 10(2A) inserted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [4(b)](https://www.legislation.gov.uk/nisr/2012/263/article/4/b)
 
 [^m00003]: Marginal citation: 1964 c. 29.
 
-[^key-e1aefb2a834be0c0926bb403bac7a389]: Textual amendment: Art. 11 substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [5](https://www.legislation.gov.uk/nisr/2012/263/article/5)
+[^c-e1aefb2a834be0c0926bb403bac7a389]: Textual amendment: Art. 11 substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [5](https://www.legislation.gov.uk/nisr/2012/263/article/5)
 
-[^key-a3c644611306ad3fb6d62f0afbf0aac4]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/nisi/1997/869/article/11/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3c644611306ad3fb6d62f0afbf0aac4]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/nisi/1997/869/article/11/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3abbb26c8846fcb1a6fa0528da96d84c]: Textual amendment: Words in [art. 11(4)(b)](https://www.legislation.gov.uk/nisi/1997/869/article/11/4/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3abbb26c8846fcb1a6fa0528da96d84c]: Textual amendment: Words in [art. 11(4)(b)](https://www.legislation.gov.uk/nisi/1997/869/article/11/4/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f051e7c10ef8e1f5efe79855c5d930ae]: Textual amendment: Word in [art. 11(5)(b)(ii)](https://www.legislation.gov.uk/nisi/1997/869/article/11/5/b/ii) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f051e7c10ef8e1f5efe79855c5d930ae]: Textual amendment: Word in [art. 11(5)(b)(ii)](https://www.legislation.gov.uk/nisi/1997/869/article/11/5/b/ii) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17078481]: Textual amendment: [S.R. 2003/341](https://www.legislation.gov.uk/nisr/2003/341)
 
@@ -2137,7 +2137,7 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c17078701]: Textual amendment: SR 2003/341
 
-[^key-d9d2be1e3aa55844a16e710c49bd564a]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/nisi/1997/869/article/18/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d9d2be1e3aa55844a16e710c49bd564a]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/nisi/1997/869/article/18/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17078711]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 
@@ -2145,13 +2145,13 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c17078811]: Textual amendment: SR 2003/341
 
-[^key-602a72b3b9535e8a4106ced983b6e164]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/nisi/1997/869/article/19) heading substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(2)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/2/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-602a72b3b9535e8a4106ced983b6e164]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/nisi/1997/869/article/19) heading substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(2)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/2/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-a7b5bb6c01f8daa46e8acf251d33f466]: Textual amendment: Words in [art. 19(a)](https://www.legislation.gov.uk/nisi/1997/869/article/19/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(2)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/2/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a7b5bb6c01f8daa46e8acf251d33f466]: Textual amendment: Words in [art. 19(a)](https://www.legislation.gov.uk/nisi/1997/869/article/19/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(2)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/2/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-c88e5b398330241f7996c246e7769270]: Textual amendment: Words in [art. 20(2)](https://www.legislation.gov.uk/nisi/1997/869/article/20/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c88e5b398330241f7996c246e7769270]: Textual amendment: Words in [art. 20(2)](https://www.legislation.gov.uk/nisi/1997/869/article/20/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-380d35d2c7d02137f667438327ef85e3]: Textual amendment: Words in [art. 20(4)(a)](https://www.legislation.gov.uk/nisi/1997/869/article/20/4/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-380d35d2c7d02137f667438327ef85e3]: Textual amendment: Words in [art. 20(4)(a)](https://www.legislation.gov.uk/nisi/1997/869/article/20/4/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c20346491]: Textual amendment: SR 2003/341
 
@@ -2193,7 +2193,7 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c17079381]: Textual amendment: SR 2003/341
 
-[^key-bdee4fc98aaa4f849067e5d587245355]: Textual amendment: Words in [art. 37(9)](https://www.legislation.gov.uk/nisi/1997/869/article/37/9) substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [6](https://www.legislation.gov.uk/nisr/2012/263/article/6)
+[^c-bdee4fc98aaa4f849067e5d587245355]: Textual amendment: Words in [art. 37(9)](https://www.legislation.gov.uk/nisi/1997/869/article/37/9) substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [6](https://www.legislation.gov.uk/nisr/2012/263/article/6)
 
 [^c17079401]: Textual amendment: SR 2003/341
 
@@ -2231,11 +2231,11 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^m00007]: Marginal citation: 1980 NI 3.
 
-[^key-06dcb6dded292804e14bf209b3d6265c]: Textual amendment: Words in [art. 54(8)](https://www.legislation.gov.uk/nisi/1997/869/article/54/8) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 113](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/113), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-06dcb6dded292804e14bf209b3d6265c]: Textual amendment: Words in [art. 54(8)](https://www.legislation.gov.uk/nisi/1997/869/article/54/8) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 113](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/113), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17079691]: Textual amendment: SR 2003/341
 
-[^key-05ae5d5c113921542f4ab4af4d75c2b4]: Textual amendment: Art. 54A(6) inserted (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/10); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-05ae5d5c113921542f4ab4af4d75c2b4]: Textual amendment: Art. 54A(6) inserted (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/10); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
 [^c17079711]: Textual amendment: SR 2003/341
 
@@ -2259,7 +2259,7 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c17080021]: Textual amendment: SR 2003/341
 
-[^key-65ebcc23af757a855334b6dee8e8ba21]: Textual amendment: [Art. 65(1A)](https://www.legislation.gov.uk/nisi/1997/869/article/65/1A)[(1B)](https://www.legislation.gov.uk/nisi/1997/869/article/65/1B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/42); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-65ebcc23af757a855334b6dee8e8ba21]: Textual amendment: [Art. 65(1A)](https://www.legislation.gov.uk/nisi/1997/869/article/65/1A)[(1B)](https://www.legislation.gov.uk/nisi/1997/869/article/65/1B) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/42); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
 [^c17080041]: Textual amendment: SR 2003/341
 
@@ -2283,7 +2283,7 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c20346671]: Textual amendment: SR 2003/341
 
-[^key-3557c11849390e26d9523409dd8d40e8]: Textual amendment: Words in [art. 69(2)](https://www.legislation.gov.uk/nisi/1997/869/article/69/2) substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [7](https://www.legislation.gov.uk/nisr/2012/263/article/7)
+[^c-3557c11849390e26d9523409dd8d40e8]: Textual amendment: Words in [art. 69(2)](https://www.legislation.gov.uk/nisi/1997/869/article/69/2) substituted (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [7](https://www.legislation.gov.uk/nisr/2012/263/article/7)
 
 [^c17080281]: Textual amendment: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17)
 
@@ -2291,7 +2291,7 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c17080361]: Textual amendment: [2000 c.32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-a82ab2fd60bb323100d7134b744069ab]: Textual amendment: Art. 71(4)(4A)(4B) substituted for art. 71(4) (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [8](https://www.legislation.gov.uk/nisr/2012/263/regulation/8)
+[^c-a82ab2fd60bb323100d7134b744069ab]: Textual amendment: Art. 71(4)(4A)(4B) substituted for art. 71(4) (9.7.2012) by [The Race Relations Order 1997 (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/263)](https://www.legislation.gov.uk/nisr/2012/263), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2012/263/article/1/3), [8](https://www.legislation.gov.uk/nisr/2012/263/regulation/8)
 
 [^m00010]: Marginal citation: 1947 c. 44.
 
@@ -2299,37 +2299,37 @@ but not a political office or a case where Article 6 (applicants and employees),
 
 [^c19452291]: Textual amendment: Words in art. 71(8)(a) substituted (1.1.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 150(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/150/2/a); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3)
 
-[^key-8289202f6b53842b4fcfc92e2361d8ae]: Textual amendment: [Art. 71(8)(b)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8/b) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/2); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-8289202f6b53842b4fcfc92e2361d8ae]: Textual amendment: [Art. 71(8)(b)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8/b) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/2); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-447207488cd3a4f3a541b27b1fcdc9ef]: Textual amendment: [Art. 71(8A)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/3); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-447207488cd3a4f3a541b27b1fcdc9ef]: Textual amendment: [Art. 71(8A)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/3); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-27d51e9b58d09f9ad0d31d78b6e58c3a]: Textual amendment: Word in [art. 71(8A)(a)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/a) omitted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/3/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-27d51e9b58d09f9ad0d31d78b6e58c3a]: Textual amendment: Word in [art. 71(8A)(a)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/a) omitted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/3/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-7feb4ded80a309e5e108673a4f80105e]: Textual amendment: [Art. 71(8A)(aa)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/aa) inserted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/3/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-7feb4ded80a309e5e108673a4f80105e]: Textual amendment: [Art. 71(8A)(aa)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/aa) inserted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/3/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-8f5d2027204945539e9dcefe68084de5]: Textual amendment: Words in [art. 71(8A)(b)(i)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/b/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/4/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-8f5d2027204945539e9dcefe68084de5]: Textual amendment: Words in [art. 71(8A)(b)(i)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/b/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/4/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-941a97987aaabe94b4df66b35189ca36]: Textual amendment: Word in [art. 71(8A)(b)(i)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/b/i) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/3/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-941a97987aaabe94b4df66b35189ca36]: Textual amendment: Word in [art. 71(8A)(b)(i)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/b/i) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in operation) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/3/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-d5b3587c1d1c078550d7c3125c071e9d]: Textual amendment: Word in [art. 71(8A)(b)(ii)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/b/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/4/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-d5b3587c1d1c078550d7c3125c071e9d]: Textual amendment: Word in [art. 71(8A)(b)(ii)](https://www.legislation.gov.uk/nisi/1997/869/article/71/8A/b/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/4/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-feefeb50f9ac2749a2ba6241b2be738d]: Textual amendment: [Art. 71(9)](https://www.legislation.gov.uk/nisi/1997/869/article/71/9) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/4); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-feefeb50f9ac2749a2ba6241b2be738d]: Textual amendment: [Art. 71(9)](https://www.legislation.gov.uk/nisi/1997/869/article/71/9) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(4)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/4); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^c21424081]: Modification: Art. 71(10) modified (24.4.2009) by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/2/b), [196(2)(g)](https://www.legislation.gov.uk/uksi/2009/1059/article/196/2/g)
 
-[^key-343c9332539e9245ba8cfaad0c6e7c48]: Textual amendment: [Art. 71(10)](https://www.legislation.gov.uk/nisi/1997/869/article/71/10) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/5); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-343c9332539e9245ba8cfaad0c6e7c48]: Textual amendment: [Art. 71(10)](https://www.legislation.gov.uk/nisi/1997/869/article/71/10) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(5)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/5); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-efdf8eda936523686f4692c90054d668]: Textual amendment: [Art. 71(11)](https://www.legislation.gov.uk/nisi/1997/869/article/71/11) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/6); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-efdf8eda936523686f4692c90054d668]: Textual amendment: [Art. 71(11)](https://www.legislation.gov.uk/nisi/1997/869/article/71/11) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(6)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/6); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^m00012]: Marginal citation: 1975 c. 24.
 
 [^c19461441]: Textual amendment: In art. 71(12) definitions of "service complaint" and "the service complaint procedures" substituted (1.1.2008) for the definition of "the service redress procedures" by [Armed Forces Act 2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 150(4)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/150/4); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3)
 
-[^key-bce083d4fb9521f8e3caba2dc6e290dd]: Textual amendment: Words in [art. 71(12)](https://www.legislation.gov.uk/nisi/1997/869/article/71/12) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/7/a); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-bce083d4fb9521f8e3caba2dc6e290dd]: Textual amendment: Words in [art. 71(12)](https://www.legislation.gov.uk/nisi/1997/869/article/71/12) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/7/a); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-8f0473402531651dd33825c9afe52111]: Textual amendment: Words in [art. 71(12)](https://www.legislation.gov.uk/nisi/1997/869/article/71/12) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(7)(b)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/7/b); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-8f0473402531651dd33825c9afe52111]: Textual amendment: Words in [art. 71(12)](https://www.legislation.gov.uk/nisi/1997/869/article/71/12) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(7)(b)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/7/b); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-7f3cfffc98185d7aa08b606240381f37]: Textual amendment: Words in [art. 71(12)](https://www.legislation.gov.uk/nisi/1997/869/article/71/12) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(7)(c)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/7/c); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-7f3cfffc98185d7aa08b606240381f37]: Textual amendment: Words in [art. 71(12)](https://www.legislation.gov.uk/nisi/1997/869/article/71/12) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 8(7)(c)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8/7/c); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^c17080381]: Textual amendment: SR 2003/341
 

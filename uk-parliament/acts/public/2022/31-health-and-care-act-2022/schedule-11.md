@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Patient choice: undertakings by integrated care boards[^key-51324efbd99ffa2be5c6e07bc927a3e0][^key-d212171baa434c086508095c9384eb8f]
+## SCHEDULE 11 — Patient choice: undertakings by integrated care boards[^c-51324efbd99ffa2be5c6e07bc927a3e0][^c-d212171baa434c086508095c9384eb8f]
 
 *Extent: E+W*
 
 Section 78
 
-[^key-d212171baa434c086508095c9384eb8f]After Schedule 1 to the National Health Service Act 2006 insert—
+[^c-d212171baa434c086508095c9384eb8f]After Schedule 1 to the National Health Service Act 2006 insert—
 
 > **SCHEDULE 1ZA — Patient choice: undertakings by integrated care boards**
 >
@@ -80,6 +80,6 @@ Section 78
 
 ## Annotations
 
-[^key-51324efbd99ffa2be5c6e07bc927a3e0]: Commencement: Sch. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-51324efbd99ffa2be5c6e07bc927a3e0]: Commencement: Sch. 11 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-d212171baa434c086508095c9384eb8f]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/11) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/d)
+[^c-d212171baa434c086508095c9384eb8f]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2022/31/schedule/11) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/d)

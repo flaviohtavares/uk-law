@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6B — Designated activities[^key-ca709ac6eddd49783213f0fffa890810]
+## SCHEDULE 6B — Designated activities[^c-ca709ac6eddd49783213f0fffa890810]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ Acting as a “benchmark contributor” including persons in the United Kingdom 
 
 ## Annotations
 
-[^key-ca709ac6eddd49783213f0fffa890810]: Textual amendment: [Sch. 6B](https://www.legislation.gov.uk/ukpga/2000/8/schedule/6B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(aaa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/aaa)
+[^c-ca709ac6eddd49783213f0fffa890810]: Textual amendment: [Sch. 6B](https://www.legislation.gov.uk/ukpga/2000/8/schedule/6B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(aaa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/aaa)

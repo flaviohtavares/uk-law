@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Recovery of unpaid amounts[^key-6ccfa7f79f803173c15b0e64cf3d128d]
+## 22. Recovery of unpaid amounts[^c-6ccfa7f79f803173c15b0e64cf3d128d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
-- (a) the SSRO determines by virtue of section 16(4),[^key-4e94fb32cc05cd8026ac8adeabdf0abd] 18(3)(b), 20(6) or 21(3)(b) that the price payable under a qualifying defence contract is to be adjusted, and
+- (a) the SSRO determines by virtue of section 16(4),[^c-4e94fb32cc05cd8026ac8adeabdf0abd] 18(3)(b), 20(6) or 21(3)(b) that the price payable under a qualifying defence contract is to be adjusted, and
 - (b) as a result of the adjustment—
   - (i) the Secretary of State is required to pay an amount to the primary contractor, or
   - (ii) the primary contractor is required to repay an amount to the Secretary of State.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ccfa7f79f803173c15b0e64cf3d128d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/20/section/22) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-6ccfa7f79f803173c15b0e64cf3d128d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/20/section/22) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
 
-[^key-4e94fb32cc05cd8026ac8adeabdf0abd]: Textual amendment: Word in [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/22/1/a) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/6); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-4e94fb32cc05cd8026ac8adeabdf0abd]: Textual amendment: Word in [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/22/1/a) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/6); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

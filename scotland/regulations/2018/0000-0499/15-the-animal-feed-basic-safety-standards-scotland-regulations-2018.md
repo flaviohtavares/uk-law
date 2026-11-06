@@ -56,7 +56,7 @@ These Regulations may be cited as the Animal Feed (Basic Safety Standards) (Scot
 
 (1) In these Regulations—
 
-- “[^key-5a3afbd4c0927bfe9c817d0731a747ce]**the feed authority**” means Food Standards Scotland;
+- “[^c-5a3afbd4c0927bfe9c817d0731a747ce]**the feed authority**” means Food Standards Scotland;
 - “**radioactive substance**” means any substance that contains one or more radionuclides the activity or activity concentration of which cannot be disregarded from a radiation protection point of view.
 
 (2) For the purposes of these Regulations, “import” and “export” are to be construed in accordance with the meanings that “time of importation” and “time of exportation” bear for the purposes of the Customs and Excise Management Act 1979 [^c22969761].
@@ -148,7 +148,7 @@ Regulation 9 amends the Feed (Hygiene and Enforcement) (Scotland) Regulations 20
 
 [^c22969751]: Marginal citation: OJ L 31, 1.2.2002, p.1, as last amended by Regulation (EU) 652/2014 of the European Parliament and of the Council (OJ L 189, 27.6.2014, p.1).
 
-[^key-5a3afbd4c0927bfe9c817d0731a747ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/15/regulation/2/1) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/9/2)
+[^c-5a3afbd4c0927bfe9c817d0731a747ce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/15/regulation/2/1) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/9/2)
 
 [^c22969761]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2), [section 5](https://www.legislation.gov.uk/ukpga/1979/2/section/5).
 

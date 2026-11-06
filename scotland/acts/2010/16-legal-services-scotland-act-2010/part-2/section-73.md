@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Concealing disqualification[^key-d8a4f3f60143fc151ed888f598704c47]
+## 73. Concealing disqualification[^c-d8a4f3f60143fc151ed888f598704c47]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8a4f3f60143fc151ed888f598704c47]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2010/16/section/73) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-d8a4f3f60143fc151ed888f598704c47]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2010/16/section/73) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Scottish secure tenancies etc.: duty to consider delay to eviction[^key-58e03097738001ff253e324b0f06c09c]
+## 29. Scottish secure tenancies etc.: duty to consider delay to eviction[^c-58e03097738001ff253e324b0f06c09c]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58e03097738001ff253e324b0f06c09c]: Commencement: S. 29 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-58e03097738001ff253e324b0f06c09c]: Commencement: S. 29 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

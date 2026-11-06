@@ -22,7 +22,7 @@ summary: ''
 
 Rule 4.9
 
-### 1. Interpretation and application of this schedule[^key-fbb22fa124f686b6b9a463d17717c1f5]
+### 1. Interpretation and application of this schedule[^c-fbb22fa124f686b6b9a463d17717c1f5]
 
 (1) This schedule applies where a witness is to present information orally at an inquiry.
 
@@ -33,7 +33,7 @@ Rule 4.9
 - “**review application**” means an application under section 13 of the 2004 Act; and
 - “**vulnerable witness application**” has the meaning given by section 12(6) of the 2004 Act.
 
-### 2. Form of notices and applications[^key-dcc028c4a797c7e7851a95a3595911a1]
+### 2. Form of notices and applications[^c-dcc028c4a797c7e7851a95a3595911a1]
 
 (1) A child witness notice is to be made in Form S6.2A.
 
@@ -44,7 +44,7 @@ Rule 4.9
 - (a) in Form S6.2C; or
 - (b) orally, with the leave of the sheriff.
 
-### 3. Determination of notices and applications[^key-24f6b1ac13a0d284a184f082711de001]
+### 3. Determination of notices and applications[^c-24f6b1ac13a0d284a184f082711de001]
 
 (1) When a notice or application under this schedule is lodged, the sheriff may require any of the participants to provide further information before determining the notice or application.
 
@@ -55,11 +55,11 @@ Rule 4.9
 
 (3) The sheriff may make an order altering the date of any hearing at which information is to be presented in order that the notice or application may be determined.
 
-### 4. Determination of notices and applications: supplementary orders[^key-d4c3b8729b7ab413f3d085639b4547b9]
+### 4. Determination of notices and applications: supplementary orders[^c-d4c3b8729b7ab413f3d085639b4547b9]
 
 Where the sheriff determines a notice or application under this schedule and makes an order under section 12(1) or (6) or 13(2) of the 2004 Act, the sheriff may make further orders to further the purpose of the inquiry.
 
-### 5. Intimation of orders[^key-034cbcfbabf4c285b09ed51a15360f43]
+### 5. Intimation of orders[^c-034cbcfbabf4c285b09ed51a15360f43]
 
 (1) Where the sheriff makes an order—
 
@@ -79,7 +79,7 @@ the sheriff clerk is to intimate the order in accordance with this paragraph.
 - (a) on the day that the hearing is fixed or the order is made; and
 - (b) in the manner ordered by the sheriff.
 
-### 6. Testimony by commissioner: preparatory steps[^key-8ffa5692f74ff5cdc0b26dcca5df6fb4]
+### 6. Testimony by commissioner: preparatory steps[^c-8ffa5692f74ff5cdc0b26dcca5df6fb4]
 
 (1) This paragraph applies where the sheriff authorises the special measure of taking evidence by a commissioner under section 19(1) of the 2004 Act.
 
@@ -102,7 +102,7 @@ the sheriff clerk is to intimate the order in accordance with this paragraph.
 
 (7) An application by a participant for leave to be present in the room where the commission is carried out is to be made by application.
 
-### 7. Testimony by commissioner: interrogatories[^key-939e32ba132ba931d7eed23a240d055b]
+### 7. Testimony by commissioner: interrogatories[^c-939e32ba132ba931d7eed23a240d055b]
 
 (1) This paragraph applies where the sheriff—
 
@@ -121,13 +121,13 @@ the sheriff clerk is to intimate the order in accordance with this paragraph.
 
 (7) The sheriff is to resolve any dispute as to the content of the interrogatories and cross-interrogatories, and approve them.
 
-### 8. Testimony by commissioner: conduct of commission[^key-017531dbfa585147570b51a05e642de9]
+### 8. Testimony by commissioner: conduct of commission[^c-017531dbfa585147570b51a05e642de9]
 
 (1) The commissioner must administer the oath *de fideli administratione* to the clerk.
 
 (2) The commissioner must administer either the oath or affirmation to a witness.
 
-### 9. Testimony by commissioner: lodging and custody of video record and documents[^key-cd32b4e982be339ef957506eb34b24a4]
+### 9. Testimony by commissioner: lodging and custody of video record and documents[^c-cd32b4e982be339ef957506eb34b24a4]
 
 (1) The commissioner is to lodge the video record of the commission and any relevant documents with the sheriff clerk.
 
@@ -148,22 +148,22 @@ the sheriff clerk is to intimate the order in accordance with this paragraph.
 
 ## Annotations
 
-[^key-fbb22fa124f686b6b9a463d17717c1f5]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-fbb22fa124f686b6b9a463d17717c1f5]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
 [^f00017]: Footnote: [2004 asp 3](https://www.legislation.gov.uk/asp/2004/3).
 
-[^key-dcc028c4a797c7e7851a95a3595911a1]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-dcc028c4a797c7e7851a95a3595911a1]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-24f6b1ac13a0d284a184f082711de001]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-24f6b1ac13a0d284a184f082711de001]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-d4c3b8729b7ab413f3d085639b4547b9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-d4c3b8729b7ab413f3d085639b4547b9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-034cbcfbabf4c285b09ed51a15360f43]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-034cbcfbabf4c285b09ed51a15360f43]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-8ffa5692f74ff5cdc0b26dcca5df6fb4]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-8ffa5692f74ff5cdc0b26dcca5df6fb4]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-939e32ba132ba931d7eed23a240d055b]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-939e32ba132ba931d7eed23a240d055b]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-017531dbfa585147570b51a05e642de9]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-017531dbfa585147570b51a05e642de9]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-cd32b4e982be339ef957506eb34b24a4]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-cd32b4e982be339ef957506eb34b24a4]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ssi/2017/103/schedule/6/paragraph/9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

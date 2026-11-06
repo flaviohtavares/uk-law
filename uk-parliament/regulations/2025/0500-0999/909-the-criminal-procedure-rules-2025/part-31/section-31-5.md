@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.5. Application to vary, renew, discharge or revoke behaviour order[^key-bb115e639b0143027e624574a1445fef]
+## 31.5. Application to vary, renew, discharge or revoke behaviour order[^c-bb115e639b0143027e624574a1445fef]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 - (c) in every case, serve the application on—
   - (i) the court officer, and
   - (ii) the prosecutor (unless the prosecutor is the person applying under this rule);
-- (d) unless the order was a restraining order , a stalking protection order[^key-2c27ae76ba162462f4f1257262c258fb] or a domestic abuse protection order, serve the application on, as appropriate—
+- (d) unless the order was a restraining order , a stalking protection order[^c-2c27ae76ba162462f4f1257262c258fb] or a domestic abuse protection order, serve the application on, as appropriate—
   - (i) the person to whom the order was directed, and
   - (ii) any other person protected or affected by the order; and
 - (e) serve the application on any other person if the court so directs.
@@ -92,9 +92,9 @@ summary: ''
 
 ## Annotations
 
-[^key-bb115e639b0143027e624574a1445fef]: Commencement: [Rule 31.5](https://www.legislation.gov.uk/uksi/2025/909/rule/31.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bb115e639b0143027e624574a1445fef]: Commencement: [Rule 31.5](https://www.legislation.gov.uk/uksi/2025/909/rule/31.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-2c27ae76ba162462f4f1257262c258fb]: Textual amendment: Words in [rule 31.5](https://www.legislation.gov.uk/uksi/2025/909/rule/31.5) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [14(d)](https://www.legislation.gov.uk/uksi/2026/721/rule/14/d)
+[^c-2c27ae76ba162462f4f1257262c258fb]: Textual amendment: Words in [rule 31.5](https://www.legislation.gov.uk/uksi/2025/909/rule/31.5) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [14(d)](https://www.legislation.gov.uk/uksi/2026/721/rule/14/d)
 
 [^f00770]: Footnote: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27); section 22E was inserted by section 49 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 

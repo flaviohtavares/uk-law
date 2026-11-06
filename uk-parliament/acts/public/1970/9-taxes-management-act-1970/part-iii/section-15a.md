@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Non-resident's staff are UK client's employees for section 15 purposes[^key-5b56896fb9ba56ec14c879193d8ace69]
+## 15A. Non-resident's staff are UK client's employees for section 15 purposes[^c-5b56896fb9ba56ec14c879193d8ace69]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b56896fb9ba56ec14c879193d8ace69]: Textual amendment: S. 15A omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/d), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-5b56896fb9ba56ec14c879193d8ace69]: Textual amendment: S. 15A omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/d), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

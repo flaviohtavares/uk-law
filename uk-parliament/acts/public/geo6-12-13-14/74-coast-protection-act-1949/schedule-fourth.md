@@ -32,13 +32,13 @@ summary: ''
 
 **6.** The River Tyne, above a line drawn across the Narrows from Lloyd’s Hailing Station to the Commissioners’ Staiths.
 
-**7.**[^key-61b233233665018ee1a0e7b72f815f36] The River Wear, above a line drawn from the junction of Marine Walk and the old North Pier at Ordnance Survey national grid reference point NZ4098258342 to the north-western corner of the old South Pier at Ordnance Survey national grid reference point NZ4104058242.
+**7.**[^c-61b233233665018ee1a0e7b72f815f36] The River Wear, above a line drawn from the junction of Marine Walk and the old North Pier at Ordnance Survey national grid reference point NZ4098258342 to the north-western corner of the old South Pier at Ordnance Survey national grid reference point NZ4104058242.
 
 **8.** The River Tees, above a line drawn from the seaward end of the North Gare breakwater to the seaward end of the South Gare breakwater.
 
 *Extent: E+W+S*
 
-**9.**[^key-3e6442cea80a12f8f4d5eac045613bc8] The River Esk (Yorkshire) above a line drawn from the southern edge of Tate Hill Pier to the southern edge of Scotch Head at Whitby.
+**9.**[^c-3e6442cea80a12f8f4d5eac045613bc8] The River Esk (Yorkshire) above a line drawn from the southern edge of Tate Hill Pier to the southern edge of Scotch Head at Whitby.
 
 **10.** The River Humber, above a line drawn from Hawkins Point to the point where the north-western boundary of the Borough of Cleethorpes crosses high water mark of ordinary spring tides.
 
@@ -56,15 +56,15 @@ summary: ''
 
 **17.** The Rivers Orwell and Stour, above the ferry between Felixstowe Pier and Harwich Landing Stage.
 
-**17A.**[^key-491d342de0e69d2fd6b2e7cb6a7c9d8a] The Brightlingsea Creek, above a line drawn between St. Osyth Point and the shoreward end of the ferry landing stage.
+**17A.**[^c-491d342de0e69d2fd6b2e7cb6a7c9d8a] The Brightlingsea Creek, above a line drawn between St. Osyth Point and the shoreward end of the ferry landing stage.
 
-**18.**[^key-c02d947cdf0471b92defb59c46a4e0f1] The River Colne, above a line drawn between Viaduct Sluice, to the west of Bateman’s Tower, and Mersea Stone.
+**18.**[^c-c02d947cdf0471b92defb59c46a4e0f1] The River Colne, above a line drawn between Viaduct Sluice, to the west of Bateman’s Tower, and Mersea Stone.
 
 **19.** The River Blackwater, above Longitude 0° 55’ East.
 
 **20.** The Rivers Crouch and Roach, above Longitude 0° 47’ East.
 
-**21.**[^key-812613cfeb9000282317cef88a85f035] The River Thames, above a line drawn from the westernmost point of Dagnam Saltings in the parish of Allhallows in the County of Kent, to Canvey Point, and then to the westernmost point of the boundary of the Borough of Southend-on-Sea, and the whole of the waters of Yantlet Creek.
+**21.**[^c-812613cfeb9000282317cef88a85f035] The River Thames, above a line drawn from the westernmost point of Dagnam Saltings in the parish of Allhallows in the County of Kent, to Canvey Point, and then to the westernmost point of the boundary of the Borough of Southend-on-Sea, and the whole of the waters of Yantlet Creek.
 
 **22.** The River Medway, above a line drawn from the fixed green navigation light at the extreme north-west corner of Queenborough Railway Pier to Horseshoe Point, Isle of Grain.
 
@@ -82,13 +82,13 @@ summary: ''
 
 **29.** The River Arun, above a line drawn from the seaward end of the eastern pier to the seaward end of the western pier at Littlehampton.
 
-**30.**[^key-4dd8651d3c80f83b7c1a43dca002f7aa] Chichester Harbour, above the Chichester to Southampton railway line.
+**30.**[^c-4dd8651d3c80f83b7c1a43dca002f7aa] Chichester Harbour, above the Chichester to Southampton railway line.
 
 **31.** Langstone Harbour, above the Chichester to Southampton railway line.
 
 **32.** Portsmouth Harbour, above the Chichester to Southampton railway line.
 
-**33.**[^key-17687d17ed12915bd6203d9370987398] The Rivers Test and Blackwater above the railway bridge at Totton.
+**33.**[^c-17687d17ed12915bd6203d9370987398] The Rivers Test and Blackwater above the railway bridge at Totton.
 
 *Extent: E+W+S+NI*
 
@@ -104,7 +104,7 @@ summary: ''
 
 **34.** The Beaulieu River, above Latitude 50° 47’ 30” North.
 
-**35.**[^key-464da29d1670ec148aeadc49594b1021] The Lymington River, above the road bridge between Lymington and Portmore.
+**35.**[^c-464da29d1670ec148aeadc49594b1021] The Lymington River, above the road bridge between Lymington and Portmore.
 
 **36.** The River Yar (Eastern), above the road bridge on the Toll Road at the west end of Brading Harbour in the Isle of Wight.
 
@@ -124,13 +124,13 @@ summary: ''
 
 **44.** The River Otter, above the road bridge south of “The Warren”.
 
-**45.**[^key-17389fe1931606c4f695f39eeae1f23f] The River Exe, above latitude 50° 39′ 50″ North.
+**45.**[^c-17389fe1931606c4f695f39eeae1f23f] The River Exe, above latitude 50° 39′ 50″ North.
 
 **46.** The River Teign, above the road bridge at the west end of “The Salty”.
 
 **47.** The River Dart, above a line drawn from the Kingswear Station ferry landing stage to the ferry pier at Dartmouth.
 
-**48.**[^key-a9fc10a78af2c0e42e40af4f7eefd43b] At Salcombe—
+**48.**[^c-a9fc10a78af2c0e42e40af4f7eefd43b] At Salcombe—
 
 - (a) Batson Creek, above latitude 50° 14′ 23″ North;
 - (b) Kingsbridge Estuary, above latitude 50° 14′ 25″ North; and
@@ -204,7 +204,7 @@ summary: ''
 
 **82.** The River Nevern, above the road bridge between Newport and Berry Hill.
 
-**83.** The River Teifi, above the ferry north of *(Extent: W)* *(affected by repeal, see note)*[^key-9bc2bb9c82282b28abade12c2948b140] St. *(Extent: W)* *(affected by repeal, see note)*[^key-9bc2bb9c82282b28abade12c2948b140] Dogmells *(Extent: W)* *(affected by repeal, see note)*[^key-9bc2bb9c82282b28abade12c2948b140]above Priory Bridge at Cardigan *(Extent: W)* *(Extent: W)* *(affected by repeal, see note)*[^key-9bc2bb9c82282b28abade12c2948b140].
+**83.** The River Teifi, above the ferry north of *(Extent: W)* *(affected by repeal, see note)*[^c-9bc2bb9c82282b28abade12c2948b140] St. *(Extent: W)* *(affected by repeal, see note)*[^c-9bc2bb9c82282b28abade12c2948b140] Dogmells *(Extent: W)* *(affected by repeal, see note)*[^c-9bc2bb9c82282b28abade12c2948b140]above Priory Bridge at Cardigan *(Extent: W)* *(Extent: W)* *(affected by repeal, see note)*[^c-9bc2bb9c82282b28abade12c2948b140].
 
 **84.** The River Aeron, above the westernmost road bridge at Aberayron.
 
@@ -220,7 +220,7 @@ summary: ''
 
 **90.** The River Dee, above a line drawn through the points where the southern boundary of the Borough of Flint and the north-western boundary of the Neston Urban District cross high-water mark of ordinary spring tides.
 
-**91.**[^key-a083ee934e088df329216ab88e30077c] The River Mersey, above a line drawn from the south corner of Royal Seaforth Dock to the point where the north side of the Seacombe Ferry Landing Stage meets the Mersey River Wall.
+**91.**[^c-a083ee934e088df329216ab88e30077c] The River Mersey, above a line drawn from the south corner of Royal Seaforth Dock to the point where the north side of the Seacombe Ferry Landing Stage meets the Mersey River Wall.
 
 **92.** The Rivers Ribble and Douglas, above a line drawn due south from the Naze.
 
@@ -268,26 +268,26 @@ summary: ''
 
 ## Annotations
 
-[^key-61b233233665018ee1a0e7b72f815f36]: Textual amendment: Sch. 4 para. 7 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/2)
+[^c-61b233233665018ee1a0e7b72f815f36]: Textual amendment: Sch. 4 para. 7 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/2)
 
-[^key-3e6442cea80a12f8f4d5eac045613bc8]: Textual amendment: Sch. 4 para. 9 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/3)
+[^c-3e6442cea80a12f8f4d5eac045613bc8]: Textual amendment: Sch. 4 para. 9 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/3)
 
-[^key-491d342de0e69d2fd6b2e7cb6a7c9d8a]: Textual amendment: Sch. 4 para. 17A substituted for sch. 4 para. 17a (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/4)
+[^c-491d342de0e69d2fd6b2e7cb6a7c9d8a]: Textual amendment: Sch. 4 para. 17A substituted for sch. 4 para. 17a (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/4)
 
-[^key-c02d947cdf0471b92defb59c46a4e0f1]: Textual amendment: Sch. 4 para. 18 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/5)
+[^c-c02d947cdf0471b92defb59c46a4e0f1]: Textual amendment: Sch. 4 para. 18 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/5)
 
-[^key-812613cfeb9000282317cef88a85f035]: Textual amendment: Sch. 4 para. 21 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/6)
+[^c-812613cfeb9000282317cef88a85f035]: Textual amendment: Sch. 4 para. 21 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/6)
 
-[^key-4dd8651d3c80f83b7c1a43dca002f7aa]: Textual amendment: Sch. 4 paras. 30-32 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/7)
+[^c-4dd8651d3c80f83b7c1a43dca002f7aa]: Textual amendment: Sch. 4 paras. 30-32 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/7)
 
-[^key-17687d17ed12915bd6203d9370987398]: Textual amendment: Sch. 4 paras. 33-33C substituted for Sch. 4 para. 33 (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/8)
+[^c-17687d17ed12915bd6203d9370987398]: Textual amendment: Sch. 4 paras. 33-33C substituted for Sch. 4 para. 33 (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/8)
 
-[^key-464da29d1670ec148aeadc49594b1021]: Textual amendment: Sch. 4 para. 35 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/9)
+[^c-464da29d1670ec148aeadc49594b1021]: Textual amendment: Sch. 4 para. 35 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/9)
 
-[^key-17389fe1931606c4f695f39eeae1f23f]: Textual amendment: Sch. 4 para. 45 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/10)
+[^c-17389fe1931606c4f695f39eeae1f23f]: Textual amendment: Sch. 4 para. 45 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/10)
 
-[^key-a9fc10a78af2c0e42e40af4f7eefd43b]: Textual amendment: Sch. 4 para. 48 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/11)
+[^c-a9fc10a78af2c0e42e40af4f7eefd43b]: Textual amendment: Sch. 4 para. 48 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/11)
 
-[^key-9bc2bb9c82282b28abade12c2948b140]: Textual amendment: Words in Sch. FOURTH para. 83 substituted (W.) (1.8.2003) by [Coast Protection (Variation of Excluded Waters) (River Teifi) (Wales) Regulations 2003 (S.I. 2003/1915)](https://www.legislation.gov.uk/uksi/2003/1915), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1915/article/1/1)[reg. 2](https://www.legislation.gov.uk/uksi/2003/1915/regulation/2)
+[^c-9bc2bb9c82282b28abade12c2948b140]: Textual amendment: Words in Sch. FOURTH para. 83 substituted (W.) (1.8.2003) by [Coast Protection (Variation of Excluded Waters) (River Teifi) (Wales) Regulations 2003 (S.I. 2003/1915)](https://www.legislation.gov.uk/uksi/2003/1915), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1915/article/1/1)[reg. 2](https://www.legislation.gov.uk/uksi/2003/1915/regulation/2)
 
-[^key-a083ee934e088df329216ab88e30077c]: Textual amendment: Sch. 4 para. 91 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/12)
+[^c-a083ee934e088df329216ab88e30077c]: Textual amendment: Sch. 4 para. 91 substituted (6.4.2015) by [The Coast Protection (Variation of Excluded Waters) (England) Regulations 2015 (S.I. 2015/523)](https://www.legislation.gov.uk/uksi/2015/523), [regs. 1](https://www.legislation.gov.uk/uksi/2015/523/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2015/523/regulation/2/12)

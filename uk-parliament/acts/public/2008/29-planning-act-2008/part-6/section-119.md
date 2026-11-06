@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Correction of errors in development consent decisions[^key-5215534c14153e0f8a2451a319557a05]
+## 119. Correction of errors in development consent decisions[^c-5215534c14153e0f8a2451a319557a05]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 4 (correction of errors in development consent decisions) has effect.
 
 ## Annotations
 
-[^key-5215534c14153e0f8a2451a319557a05]: Commencement: S. 119 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-5215534c14153e0f8a2451a319557a05]: Commencement: S. 119 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

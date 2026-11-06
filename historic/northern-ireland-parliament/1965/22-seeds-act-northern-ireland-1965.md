@@ -137,7 +137,7 @@ For the purposes of this Act and of any seeds regulations, any statutory stateme
 
 ### Official testing stations
 
-#### 7. Official testing stations and certificates of test.[^c11586711][^c11586721][^c22553611][^key-71bf9f50f11c98a5e10fa7a3026ab9f4]
+#### 7. Official testing stations and certificates of test.[^c11586711][^c11586721][^c22553611][^c-71bf9f50f11c98a5e10fa7a3026ab9f4]
 
 (1) For the purposes of this Act, the Ministry shall maintain an official seed testing station and any such station may be established or maintained in conjunction with any other authority, body or person.
 
@@ -156,7 +156,7 @@ unless, in either case, either party to the proceedings requires that the person
 
 ### Supplemental
 
-#### 8. Powers of entry.[^key-bf64d7f85003ddeeb2d4fe679834fcfc]
+#### 8. Powers of entry.[^c-bf64d7f85003ddeeb2d4fe679834fcfc]
 
 (1)[^c11586731] This section shall not authorise entry into any premises which are used exclusively as a private dwelling.
 
@@ -177,29 +177,29 @@ or for the purpose of ascertaining whether there is, or has been, on or in conne
 
 (7) A person who wilfully obstructs or impedes any person acting in the exercise of the powers conferred by this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £200.
 
-#### 9. Use of samples in criminal proceedings.[^c11586791][^c11586801][^c22553641][^key-eb2670824de42435b416258a43b18a99]
+#### 9. Use of samples in criminal proceedings.[^c11586791][^c11586801][^c22553641][^c-eb2670824de42435b416258a43b18a99]
 
 (1) Evidence shall not be adduced in proceedings for an offence under this Act respecting a sample taken by an authorised officer unless the sample was taken in the manner prescribed by seeds regulations.
 
-(2)[^key-33bcb7e0e13cbc1594589e4666829b09] Seeds regulations shall provide for the sample being divided into at least three parts, and for one of the parts being given to the owner of the seeds or to such other person as may be prescribed by seeds regulations, and shall also provide for a third part of the sample to be retained for production in all cases where use of it may be made by the court under this section.
+(2)[^c-33bcb7e0e13cbc1594589e4666829b09] Seeds regulations shall provide for the sample being divided into at least three parts, and for one of the parts being given to the owner of the seeds or to such other person as may be prescribed by seeds regulations, and shall also provide for a third part of the sample to be retained for production in all cases where use of it may be made by the court under this section.
 
 (3) A certificate in the form prescribed by seeds regulations purporting to be issued by an authorised officer and stating that a sample was taken in the prescribed manner shall be sufficient evidence of the facts stated in the certificate.
 
-(4)[^key-01dda52c456a4241b44f7a3a9f73bdd8] If part of a sample taken by an authorised officer is sent to the chief officer of an official testing station, it shall be so sent as soon as practicable after the sample is taken, and the person to whom any other part of the sample is given shall be informed before the first-mentioned part is sent.
+(4)[^c-01dda52c456a4241b44f7a3a9f73bdd8] If part of a sample taken by an authorised officer is sent to the chief officer of an official testing station, it shall be so sent as soon as practicable after the sample is taken, and the person to whom any other part of the sample is given shall be informed before the first-mentioned part is sent.
 
-(5)[^key-255967ba0afd1124fc30e815cbd0a9a8] A copy of a certificate issued by an official testing station stating the result of a test or part of a sample taken by an authorised officer shall be sent to the person to whom any other part of the sample is given.
+(5)[^c-255967ba0afd1124fc30e815cbd0a9a8] A copy of a certificate issued by an official testing station stating the result of a test or part of a sample taken by an authorised officer shall be sent to the person to whom any other part of the sample is given.
 
-(6)[^key-1e3ccb78e1b878fd9412206a795346b3] In any proceedings for an offence under this Act in respect of seeds which have been sampled by an authorised officer, the summons shall not be made returnable less than fourteen days from the day on which the summons or complaint is served and a copy of any certificate of an official testing station which the prosecutor intends to adduce as evidence shall be served with the summons or complaint.
+(6)[^c-1e3ccb78e1b878fd9412206a795346b3] In any proceedings for an offence under this Act in respect of seeds which have been sampled by an authorised officer, the summons shall not be made returnable less than fourteen days from the day on which the summons or complaint is served and a copy of any certificate of an official testing station which the prosecutor intends to adduce as evidence shall be served with the summons or complaint.
 
-(7)[^key-139691ef4e380f7157fb39ce081f26aa] In proceedings for including in a statutory statement false particulars concerning matters which are under seeds regulations to be ascertained, for the purpose of the statement, by a test of the seeds, if any sample of the seeds has been taken by an authorised officer, the third part of that sample required by seeds regulations to be retained as mentioned in subsection (2) shall be produced at the hearing.
+(7)[^c-139691ef4e380f7157fb39ce081f26aa] In proceedings for including in a statutory statement false particulars concerning matters which are under seeds regulations to be ascertained, for the purpose of the statement, by a test of the seeds, if any sample of the seeds has been taken by an authorised officer, the third part of that sample required by seeds regulations to be retained as mentioned in subsection (2) shall be produced at the hearing.
 
-(8)[^key-3294b43c4748575fec1cfa0072ce0168] The court may, if it thinks fit, on the request of either party, cause the part so produced to be sent to the chief officer of an official testing station, in order to obtain, for the information of the court, a certificate of the result of a test of that part of the sample.
+(8)[^c-3294b43c4748575fec1cfa0072ce0168] The court may, if it thinks fit, on the request of either party, cause the part so produced to be sent to the chief officer of an official testing station, in order to obtain, for the information of the court, a certificate of the result of a test of that part of the sample.
 
-(9)[^key-159f6f97a15688f2d2b803ee1f0075e7] If, in a case where an appeal is brought, no action has been taken under subsection (8) the provisions of that subsection shall apply also to the court by which the appeal is heard.
+(9)[^c-159f6f97a15688f2d2b803ee1f0075e7] If, in a case where an appeal is brought, no action has been taken under subsection (8) the provisions of that subsection shall apply also to the court by which the appeal is heard.
 
 (10) A sample taken before the coming into force of this Act in accordance with section 4 of the Seeds Act 1920 [^m00003] shall be regarded as taken in the prescribed manner for the purposes of subsection (1).
 
-#### 10. Tampering with samples.[^key-d9f18ca8597304a8f4fcb5e272c0a810]
+#### 10. Tampering with samples.[^c-d9f18ca8597304a8f4fcb5e272c0a810]
 
 If any person—
 
@@ -209,7 +209,7 @@ If any person—
 
 he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £1,000[^c11586811] or to imprisonment for a term not exceeding three months, or to both.
 
-#### 11. Institution of criminal proceedings.[^key-395b98de4626d7e0e74841e952d40c64]
+#### 11. Institution of criminal proceedings.[^c-395b98de4626d7e0e74841e952d40c64]
 
 (1) Where a part of a sample has been tested at an official testing station, proceedings for including in a statutory statement false particulars concerning the matters which are under seeds regulations to be ascertained, for the purposes of the statement, by a test of the seeds, being proceedings relating to the seeds from which the sample was taken, may, notwithstanding anything to the contrary in the Summary Jurisdiction Acts (Northern Ireland), be brought at any time not more than six months from the time when the sample was taken.
 
@@ -221,7 +221,7 @@ A certificate purporting to be issued by an authorised officer and stating that 
 
 #### 12. Application of this Act to seed potatoes.
 
-(1)[^key-62435a32f6de528ea6ca46c020b804e3] This Act applies to seed potatoes \[[^c11586831] to any other vegetative propagating material and to silvicultural planting material\] as it applies to seeds, and accordingly, except where the context otherwise requires, references in this Act to seeds include references to seed potatoes \[[^c11586831] to any other vegetative propagating material and to silvicultural planting material\].
+(1)[^c-62435a32f6de528ea6ca46c020b804e3] This Act applies to seed potatoes \[[^c11586831] to any other vegetative propagating material and to silvicultural planting material\] as it applies to seeds, and accordingly, except where the context otherwise requires, references in this Act to seeds include references to seed potatoes \[[^c11586831] to any other vegetative propagating material and to silvicultural planting material\].
 
 [(2)[^c11586851] The Ministry may establish and maintain an official seed testing station for silvicultural propagating and planting material.\]
 
@@ -239,7 +239,7 @@ A certificate purporting to be issued by an authorised officer and stating that 
 - “seeds” includes agricultural and horticultural seeds, vegetable seeds, flower seeds, seeds of grasses, whether used for agricultural purposes or other purposes, and seeds of trees;
 - “statutory statement” means a statement given in pursuance of seeds regulations, whether the statement be in the form of a notice or other document, or in the form of particulars given on any label or container or package, or in any other form, and a statement delivered under section 8(4).
 
-(2)[^key-761c9b91d23f8f862c71ce8851daf805] In this Act references to a contravention of any provision contained in this Act or in seeds regulations include references to anything which, by the regulations, is expressed to be an offence against a provision contained in the regulations and also include references to any failure to comply with a condition subject to which an exemption is granted by or under seeds regulations.
+(2)[^c-761c9b91d23f8f862c71ce8851daf805] In this Act references to a contravention of any provision contained in this Act or in seeds regulations include references to anything which, by the regulations, is expressed to be an offence against a provision contained in the regulations and also include references to any failure to comply with a condition subject to which an exemption is granted by or under seeds regulations.
 
 (3) In this Act any reference to an offence under this Act includes, unless the context otherwise requires, a reference to a contravention of any provision contained in seeds regulations.
 
@@ -305,9 +305,9 @@ A certificate purporting to be issued by an authorised officer and stating that 
 
 [^c22553611]: Modification: [S. 7](https://www.legislation.gov.uk/apni/1965/22/section/7) modified (1.11.2010) by [Seed Potatoes Regulations (Northern Ireland) 2010 (S.R. 2010/350)](https://www.legislation.gov.uk/nisr/2010/350), [reg. 25(a)](https://www.legislation.gov.uk/nisr/2010/350/regulation/25/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/350/regulation/3))
 
-[^key-71bf9f50f11c98a5e10fa7a3026ab9f4]: Modification: [S. 7](https://www.legislation.gov.uk/apni/1965/22/section/7) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(a)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/a)
+[^c-71bf9f50f11c98a5e10fa7a3026ab9f4]: Modification: [S. 7](https://www.legislation.gov.uk/apni/1965/22/section/7) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(a)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/a)
 
-[^key-bf64d7f85003ddeeb2d4fe679834fcfc]: Modification: [S. 8](https://www.legislation.gov.uk/apni/1965/22/section/8) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
+[^c-bf64d7f85003ddeeb2d4fe679834fcfc]: Modification: [S. 8](https://www.legislation.gov.uk/apni/1965/22/section/8) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
 
 [^c11586731]: Textual amendment: SI 1972/971
 
@@ -321,34 +321,34 @@ A certificate purporting to be issued by an authorised officer and stating that 
 
 [^c22553641]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1965/22/section/9) modified (1.11.2010) by [Seed Potatoes Regulations (Northern Ireland) 2010 (S.R. 2010/350)](https://www.legislation.gov.uk/nisr/2010/350), [reg. 25(b)](https://www.legislation.gov.uk/nisr/2010/350/regulation/25/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/350/regulation/3))
 
-[^key-eb2670824de42435b416258a43b18a99]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1965/22/section/9) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
+[^c-eb2670824de42435b416258a43b18a99]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1965/22/section/9) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
 
-[^key-33bcb7e0e13cbc1594589e4666829b09]: Modification: [S. 9(2)](https://www.legislation.gov.uk/apni/1965/22/section/9/2) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-33bcb7e0e13cbc1594589e4666829b09]: Modification: [S. 9(2)](https://www.legislation.gov.uk/apni/1965/22/section/9/2) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
-[^key-01dda52c456a4241b44f7a3a9f73bdd8]: Modification: [S. 9(4)](https://www.legislation.gov.uk/apni/1965/22/section/9/4) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-01dda52c456a4241b44f7a3a9f73bdd8]: Modification: [S. 9(4)](https://www.legislation.gov.uk/apni/1965/22/section/9/4) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
-[^key-255967ba0afd1124fc30e815cbd0a9a8]: Modification: [S. 9(5)](https://www.legislation.gov.uk/apni/1965/22/section/9/5) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-255967ba0afd1124fc30e815cbd0a9a8]: Modification: [S. 9(5)](https://www.legislation.gov.uk/apni/1965/22/section/9/5) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
-[^key-1e3ccb78e1b878fd9412206a795346b3]: Modification: [S. 9(6)](https://www.legislation.gov.uk/apni/1965/22/section/9/6) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-1e3ccb78e1b878fd9412206a795346b3]: Modification: [S. 9(6)](https://www.legislation.gov.uk/apni/1965/22/section/9/6) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
-[^key-139691ef4e380f7157fb39ce081f26aa]: Modification: [S. 9(7)](https://www.legislation.gov.uk/apni/1965/22/section/9/7) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-139691ef4e380f7157fb39ce081f26aa]: Modification: [S. 9(7)](https://www.legislation.gov.uk/apni/1965/22/section/9/7) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
-[^key-3294b43c4748575fec1cfa0072ce0168]: Modification: [S. 9(8)](https://www.legislation.gov.uk/apni/1965/22/section/9/8) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-3294b43c4748575fec1cfa0072ce0168]: Modification: [S. 9(8)](https://www.legislation.gov.uk/apni/1965/22/section/9/8) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
-[^key-159f6f97a15688f2d2b803ee1f0075e7]: Modification: [S. 9(9)](https://www.legislation.gov.uk/apni/1965/22/section/9/9) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
+[^c-159f6f97a15688f2d2b803ee1f0075e7]: Modification: [S. 9(9)](https://www.legislation.gov.uk/apni/1965/22/section/9/9) excluded (14.4.2016) by [The Seed Potatoes Regulations (Northern Ireland) 2016 (S.R. 2016/190)](https://www.legislation.gov.uk/nisr/2016/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/190/regulation/1/1), [23(b)](https://www.legislation.gov.uk/nisr/2016/190/regulation/23/b)
 
 [^m00003]: Marginal citation: 1920 c.54
 
-[^key-d9f18ca8597304a8f4fcb5e272c0a810]: Modification: [S. 10](https://www.legislation.gov.uk/apni/1965/22/section/10) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
+[^c-d9f18ca8597304a8f4fcb5e272c0a810]: Modification: [S. 10](https://www.legislation.gov.uk/apni/1965/22/section/10) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
 
 [^c11586811]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/1984/ni3)
 
-[^key-395b98de4626d7e0e74841e952d40c64]: Modification: [S. 11](https://www.legislation.gov.uk/apni/1965/22/section/11) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
+[^c-395b98de4626d7e0e74841e952d40c64]: Modification: [S. 11](https://www.legislation.gov.uk/apni/1965/22/section/11) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
 
-[^key-62435a32f6de528ea6ca46c020b804e3]: Modification: [S. 12(1)](https://www.legislation.gov.uk/apni/1965/22/section/12/1) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
+[^c-62435a32f6de528ea6ca46c020b804e3]: Modification: [S. 12(1)](https://www.legislation.gov.uk/apni/1965/22/section/12/1) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
 
 [^c11586831]: Textual amendment: SRO (NI) 1972/351
 
 [^c11586851]: Textual amendment: SRO (NI) 1972/351
 
-[^key-761c9b91d23f8f862c71ce8851daf805]: Modification: [S. 14(2)](https://www.legislation.gov.uk/apni/1965/22/section/14/2) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)
+[^c-761c9b91d23f8f862c71ce8851daf805]: Modification: [S. 14(2)](https://www.legislation.gov.uk/apni/1965/22/section/14/2) applied (with modifications) (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [22](https://www.legislation.gov.uk/nisr/2020/302/regulation/22)

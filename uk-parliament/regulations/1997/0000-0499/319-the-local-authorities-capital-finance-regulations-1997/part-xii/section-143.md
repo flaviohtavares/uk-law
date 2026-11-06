@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Determining the housing component[^key-214200e79d193e76b998bf2348747bcf]
+## 143. Determining the housing component[^c-214200e79d193e76b998bf2348747bcf]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-214200e79d193e76b998bf2348747bcf]: Commencement: Reg. 143 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-214200e79d193e76b998bf2348747bcf]: Commencement: Reg. 143 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

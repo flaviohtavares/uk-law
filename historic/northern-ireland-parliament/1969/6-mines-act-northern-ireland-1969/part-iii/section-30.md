@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Securing of shafts and staple-pits.[^key-b28d2e3339eee3d9c9d425bb922a3a03]
+## 30. Securing of shafts and staple-pits.[^c-b28d2e3339eee3d9c9d425bb922a3a03]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b28d2e3339eee3d9c9d425bb922a3a03]: Textual amendment: [S. 30](https://www.legislation.gov.uk/apni/1969/6/section/30) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-b28d2e3339eee3d9c9d425bb922a3a03]: Textual amendment: [S. 30](https://www.legislation.gov.uk/apni/1969/6/section/30) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

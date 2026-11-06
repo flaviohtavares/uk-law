@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Determination of applications to be included in or to make amendment to a pharmaceutical list[^key-8b89f97fe3c8cf879ab3b68110e48216]
+## 16. Determination of applications to be included in or to make amendment to a pharmaceutical list[^c-8b89f97fe3c8cf879ab3b68110e48216]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b89f97fe3c8cf879ab3b68110e48216]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2020/1073/regulation/16) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-8b89f97fe3c8cf879ab3b68110e48216]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2020/1073/regulation/16) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

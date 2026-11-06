@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-c4218d3e6d2976c848422af6b8deabf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c4218d3e6d2976c848422af6b8deabf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 63 of the 1998 Act (restriction on disclosure of information), after subsection (2) there shall be inserted—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4218d3e6d2976c848422af6b8deabf5]: Textual amendment: S. 63(1) repealed (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4)
+[^c-c4218d3e6d2976c848422af6b8deabf5]: Textual amendment: S. 63(1) repealed (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4)

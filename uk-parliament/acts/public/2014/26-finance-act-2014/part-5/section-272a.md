@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272A. Application of Schedule 36 FA 2008 powers[^key-abd8213e748e5589e76b5a338d9e2d59]
+## 272A. Application of Schedule 36 FA 2008 powers[^c-abd8213e748e5589e76b5a338d9e2d59]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abd8213e748e5589e76b5a338d9e2d59]: Textual amendment: [S. 272A](https://www.legislation.gov.uk/ukpga/2014/26/section/272A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/4)
+[^c-abd8213e748e5589e76b5a338d9e2d59]: Textual amendment: [S. 272A](https://www.legislation.gov.uk/ukpga/2014/26/section/272A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/4)

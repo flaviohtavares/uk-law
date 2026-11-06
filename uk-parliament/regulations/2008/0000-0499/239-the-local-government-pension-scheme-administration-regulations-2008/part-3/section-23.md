@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Payment of additional regular contributions (ARCs)[^key-a7810befe132b65dfaeb43721a4f67b0]
+## 23. Payment of additional regular contributions (ARCs)[^c-a7810befe132b65dfaeb43721a4f67b0]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ it may refuse his request.
 
 ## Annotations
 
-[^key-a7810befe132b65dfaeb43721a4f67b0]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-a7810befe132b65dfaeb43721a4f67b0]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

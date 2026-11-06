@@ -118,12 +118,12 @@ The enactments relating to excess profits tax and the national defence contribut
 - (d)[^c5910811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) for any incidental, supplementary or transitional matters relating to such stock and bonds, and to transactions connected therewith, for which it appears to the Treasury to be necessary or expedient to provide.
 
-(1ZA)[^c5910821] Regulations under subsection (1) of this section may make provision with respect to the purchase and sale of such stock and bonds by any person, or any description of person, through the person or persons appointed in accordance with regulations under subsection (1)(b)[^key-a51d8b2f91702652781e95211d7eb7c7] and, in relation to purchase or sale under the regulations, may—
+(1ZA)[^c5910821] Regulations under subsection (1) of this section may make provision with respect to the purchase and sale of such stock and bonds by any person, or any description of person, through the person or persons appointed in accordance with regulations under subsection (1)(b)[^c-a51d8b2f91702652781e95211d7eb7c7] and, in relation to purchase or sale under the regulations, may—
 
 - (a) make provision with respect to the commission and fees payable, and
 - (b) make provision limiting the amount which any person, or any description of person, may purchase or sell on any day.
 
-(1A)[^c5910061] Regulations under subsection (1) of this section may make provision authorising the person or persons appointed in accordance with regulations under subsection (1)(b)[^key-5e898d6b706487aabed8c211f75fb13b] , in such circumstances and subject to such conditions as may be prescribed in the regulations, to transfer stock and bonds [^key-b0cf9149efeed2779c373877afd4ce79] ... in the name of a deceased person into the name of another person without requiring the production of probate, confirmation or letters of administration.
+(1A)[^c5910061] Regulations under subsection (1) of this section may make provision authorising the person or persons appointed in accordance with regulations under subsection (1)(b)[^c-5e898d6b706487aabed8c211f75fb13b] , in such circumstances and subject to such conditions as may be prescribed in the regulations, to transfer stock and bonds [^c-b0cf9149efeed2779c373877afd4ce79] ... in the name of a deceased person into the name of another person without requiring the production of probate, confirmation or letters of administration.
 
 (1B)[^c5910841] In this section “ **strip** ”, in relation to any stock or bond, means a security issued under the [^c5910851] National Loans Act 1968 which—
 
@@ -143,7 +143,7 @@ The enactments relating to excess profits tax and the national defence contribut
 
 (1E) Regulations made by virtue of subsection (1)(bc) or (bd) of this section shall not make provision for the exchange of any stock or bonds, or of any strips, in any cases other than those where the exchange is at the request of the holder or in accordance with an order made by a court.
 
-(1EA)[^key-7f6405bfc4e0b5fce4e0af8a1fe51dd3][^c5910881][^c5910871] Persons appointed in accordance with regulations under subsection (1)(b) shall be appointed on such terms (including terms as to the making of payments by the Treasury) as the Treasury consider appropriate, and the persons who may be so appointed include the Bank of England.
+(1EA)[^c-7f6405bfc4e0b5fce4e0af8a1fe51dd3][^c5910881][^c5910871] Persons appointed in accordance with regulations under subsection (1)(b) shall be appointed on such terms (including terms as to the making of payments by the Treasury) as the Treasury consider appropriate, and the persons who may be so appointed include the Bank of England.
 
 (1F) Regulations under this section may make different provision for different cases and contain such exceptions and exclusions as the Treasury think fit; and the powers of the Treasury to make regulations under this section are without prejudice to any of their powers under the [^c5910891] National Loans Act 1968.
 
@@ -159,7 +159,7 @@ In reckoning any such period of forty days as aforesaid no account shall be take
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5910921]
 - (c)[^c5910931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Amendment of ss. 53 and 55 of National Debt Act 1870.[^key-374a96cb79604cd201d2973231ccfd8c]
+### 48. Amendment of ss. 53 and 55 of National Debt Act 1870.[^c-374a96cb79604cd201d2973231ccfd8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -367,13 +367,13 @@ Stock and registered bonds issued, or deemed to be issued, under the National Lo
 
 [^c5910821]: Textual amendment: S. 47(1ZA) inserted (1.6.1998) by [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11), [s. 34](https://www.legislation.gov.uk/ukpga/1998/11/section/34); [S.I. 1998/1120](https://www.legislation.gov.uk/uksi/1998/1120), [art. 2](https://www.legislation.gov.uk/uksi/1998/1120/article/2)
 
-[^key-a51d8b2f91702652781e95211d7eb7c7]: Textual amendment: Words in s. 47(1ZA) substituted (29.6.2004 for specified purposes, 1.7.2004 in so far as not already in force) by [Government Stock (Consequential and Transitional Provision) Order 2004 (S.I. 2004/1486)](https://www.legislation.gov.uk/uksi/2004/1486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1486/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2004/1486/article/1/3) [2(a)](https://www.legislation.gov.uk/uksi/2004/1486/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1486/article/3))
+[^c-a51d8b2f91702652781e95211d7eb7c7]: Textual amendment: Words in s. 47(1ZA) substituted (29.6.2004 for specified purposes, 1.7.2004 in so far as not already in force) by [Government Stock (Consequential and Transitional Provision) Order 2004 (S.I. 2004/1486)](https://www.legislation.gov.uk/uksi/2004/1486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1486/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2004/1486/article/1/3) [2(a)](https://www.legislation.gov.uk/uksi/2004/1486/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1486/article/3))
 
 [^c5910061]: Textual amendment: S. 47(1A) inserted by [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 183(1)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/183/1/b)
 
-[^key-5e898d6b706487aabed8c211f75fb13b]: Textual amendment: Words in s. 47(1A) substituted (29.6.2004 for specified purposes, 1.7.2004 in so far as not already in force) by [Government Stock (Consequential and Transitional Provision) Order 2004 (S.I. 2004/1486)](https://www.legislation.gov.uk/uksi/2004/1486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1486/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2004/1486/article/1/3) [2(b)(i)](https://www.legislation.gov.uk/uksi/2004/1486/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1486/article/3))
+[^c-5e898d6b706487aabed8c211f75fb13b]: Textual amendment: Words in s. 47(1A) substituted (29.6.2004 for specified purposes, 1.7.2004 in so far as not already in force) by [Government Stock (Consequential and Transitional Provision) Order 2004 (S.I. 2004/1486)](https://www.legislation.gov.uk/uksi/2004/1486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1486/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2004/1486/article/1/3) [2(b)(i)](https://www.legislation.gov.uk/uksi/2004/1486/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1486/article/3))
 
-[^key-b0cf9149efeed2779c373877afd4ce79]: Textual amendment: Words in s. 47(1A) omitted (29.6.2004 for specified purposes, 1.7.2004 in so far as not already in force) by virtue of [Government Stock (Consequential and Transitional Provision) Order 2004 (S.I. 2004/1486)](https://www.legislation.gov.uk/uksi/2004/1486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1486/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2004/1486/article/1/3) [2(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1486/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1486/article/3))
+[^c-b0cf9149efeed2779c373877afd4ce79]: Textual amendment: Words in s. 47(1A) omitted (29.6.2004 for specified purposes, 1.7.2004 in so far as not already in force) by virtue of [Government Stock (Consequential and Transitional Provision) Order 2004 (S.I. 2004/1486)](https://www.legislation.gov.uk/uksi/2004/1486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1486/article/1/2)[(3),](https://www.legislation.gov.uk/uksi/2004/1486/article/1/3) [2(b)(ii)](https://www.legislation.gov.uk/uksi/2004/1486/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1486/article/3))
 
 [^c5910841]: Textual amendment: S. 47(1B)-(1F) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 202(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/202/2)
 
@@ -381,7 +381,7 @@ Stock and registered bonds issued, or deemed to be issued, under the National Lo
 
 [^c5910861]: Modification: S. 47(1C): power to modify conferred (29.4.1996) by [1892 c. 39](https://www.legislation.gov.uk/ukpga/1892/39), [s. 2A](https://www.legislation.gov.uk/ukpga/1892/39/section/2A) as inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 202(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/202/3)
 
-[^key-7f6405bfc4e0b5fce4e0af8a1fe51dd3]: Modification: S. 47(1EA) modified (11.3.2004) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 140(5)](https://www.legislation.gov.uk/ukpga/2002/23/section/140/5)[(6)](https://www.legislation.gov.uk/ukpga/2002/23/section/140/6); [S.I. 2004/689](https://www.legislation.gov.uk/uksi/2004/689), [art. 2](https://www.legislation.gov.uk/uksi/2004/689/article/2)
+[^c-7f6405bfc4e0b5fce4e0af8a1fe51dd3]: Modification: S. 47(1EA) modified (11.3.2004) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 140(5)](https://www.legislation.gov.uk/ukpga/2002/23/section/140/5)[(6)](https://www.legislation.gov.uk/ukpga/2002/23/section/140/6); [S.I. 2004/689](https://www.legislation.gov.uk/uksi/2004/689), [art. 2](https://www.legislation.gov.uk/uksi/2004/689/article/2)
 
 [^c5910881]: Textual amendment: S. 47(1EA) inserted (11.3.2004) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 140(1)(b)(6)](https://www.legislation.gov.uk/ukpga/2002/23/section/140/1/b/6) (with transitional provisions in S.I. 2004/1662, arts. 1, 3); [S.I. 2014/689](https://www.legislation.gov.uk/uksi/2014/689), [art. 2](https://www.legislation.gov.uk/uksi/2014/689/article/2)
 
@@ -397,7 +397,7 @@ Stock and registered bonds issued, or deemed to be issued, under the National Lo
 
 [^c5910931]: Textual amendment: S. 47(4)(c) repealed (20.7.1998) by [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446), [art. 30(2)](https://www.legislation.gov.uk/uksi/1998/1446/article/30/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1998/1446/schedule/2/part/I)
 
-[^key-374a96cb79604cd201d2973231ccfd8c]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/Geo6/5-6/21/section/48) omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [12](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/12) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-374a96cb79604cd201d2973231ccfd8c]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/Geo6/5-6/21/section/48) omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [12](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/12) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5910961]: Modification: Unreliable marginal note
 

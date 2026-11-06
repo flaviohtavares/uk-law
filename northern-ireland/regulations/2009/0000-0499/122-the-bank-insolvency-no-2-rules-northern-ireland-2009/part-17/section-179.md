@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 179. Department’s directions under section 116 of the 2009 Act[^key-8aa72aefc46f5d2dd84d2118f54ef6fc]
+## 179. Department’s directions under section 116 of the 2009 Act[^c-8aa72aefc46f5d2dd84d2118f54ef6fc]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa72aefc46f5d2dd84d2118f54ef6fc]: Commencement: Rule 179 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8aa72aefc46f5d2dd84d2118f54ef6fc]: Commencement: Rule 179 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Information notices[^key-bd2048c3c3c043bfa8db7b63b791930f][^key-6f7b42b6a7200f114c3e789b2014cf95]
+## 35. Information notices[^c-bd2048c3c3c043bfa8db7b63b791930f][^c-6f7b42b6a7200f114c3e789b2014cf95]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd2048c3c3c043bfa8db7b63b791930f]: Commencement: S. 35 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-bd2048c3c3c043bfa8db7b63b791930f]: Commencement: S. 35 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-6f7b42b6a7200f114c3e789b2014cf95]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/30/section/35) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-6f7b42b6a7200f114c3e789b2014cf95]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/30/section/35) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

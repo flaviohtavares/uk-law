@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Section 425C (“qualifying EU provision”)[^key-41a32b9970e2494608ebd31d7984e957]
+## 92. Section 425C (“qualifying EU provision”)[^c-41a32b9970e2494608ebd31d7984e957]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ For section 425C [^c23658671] (“qualifying EU provision”) substitute—
 
 ## Annotations
 
-[^key-41a32b9970e2494608ebd31d7984e957]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-41a32b9970e2494608ebd31d7984e957]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658671]: Marginal citation: Section 425C was inserted by section 48(3) of the Financial Services Act 2012.

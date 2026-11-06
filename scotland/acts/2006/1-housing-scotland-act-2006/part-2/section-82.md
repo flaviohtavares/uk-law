@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Payment of grants and loans[^key-08cf53b4349ac07aa8645b09dd8ae5ca]
+## 82. Payment of grants and loans[^c-08cf53b4349ac07aa8645b09dd8ae5ca]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ W is the amount of the approved expense referable to the work carried out up to 
 
 ## Annotations
 
-[^key-08cf53b4349ac07aa8645b09dd8ae5ca]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2006/1/section/82) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-08cf53b4349ac07aa8645b09dd8ae5ca]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2006/1/section/82) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Procedure in relation to approvals etc under requirements[^key-ac78aa9736e6e256a1fb25c157bc66ea]
+## 32. Procedure in relation to approvals etc under requirements[^c-ac78aa9736e6e256a1fb25c157bc66ea]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ insofar as those provisions are not inconsistent with the Infrastructure Plannin
 
 ## Annotations
 
-[^key-ac78aa9736e6e256a1fb25c157bc66ea]: Commencement: Art. 32 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-ac78aa9736e6e256a1fb25c157bc66ea]: Commencement: Art. 32 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
 [^f00024]: Footnote: [S.I. 2009/2263](https://www.legislation.gov.uk/uksi/2009/2263), as amended by [S.I. 20011/2741](https://www.legislation.gov.uk/uksi/2011/2741), [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), and [S.I. 2012/787](https://www.legislation.gov.uk/uksi/2012/787).

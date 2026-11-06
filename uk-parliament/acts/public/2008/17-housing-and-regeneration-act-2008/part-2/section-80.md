@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Provider of social housing[^key-bf9e69f0b107623f82590b33e0b8acf6][^key-644b50f57bbc8019ff00d98daf75e3ae]
+## 80. Provider of social housing[^c-bf9e69f0b107623f82590b33e0b8acf6][^c-644b50f57bbc8019ff00d98daf75e3ae]
 
 *Extent: E+W*
 
@@ -34,15 +34,15 @@ summary: ''
 - (a) may be referred to in an enactment or other instrument as “registered providers of social housing”, and
 - (b) are referred to in this Part as “**registered providers**”.
 
-(3)[^key-55a8f393bc72259c5cd42ace9656dc50] Persons listed in the register who are not local authorities—
+(3)[^c-55a8f393bc72259c5cd42ace9656dc50] Persons listed in the register who are not local authorities—
 
 - (a) may be referred to in an enactment or other instrument as “private registered providers of social housing”, and
 - (b) are referred to in this Part as “private registered providers”.
 
 ## Annotations
 
-[^key-bf9e69f0b107623f82590b33e0b8acf6]: Commencement: S. 80 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-bf9e69f0b107623f82590b33e0b8acf6]: Commencement: S. 80 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-644b50f57bbc8019ff00d98daf75e3ae]: Commencement: S. 80 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-644b50f57bbc8019ff00d98daf75e3ae]: Commencement: S. 80 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-55a8f393bc72259c5cd42ace9656dc50]: Textual amendment: S. 80(3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/5)
+[^c-55a8f393bc72259c5cd42ace9656dc50]: Textual amendment: S. 80(3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/5)

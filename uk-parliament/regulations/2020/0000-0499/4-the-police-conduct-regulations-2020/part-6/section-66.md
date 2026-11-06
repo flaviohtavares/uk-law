@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. General[^key-52865776271b06982046458d4dccc0f2]
+## 66. General[^c-52865776271b06982046458d4dccc0f2]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52865776271b06982046458d4dccc0f2]: Commencement: Reg. 66 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-52865776271b06982046458d4dccc0f2]: Commencement: Reg. 66 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Supplementary, incidental, consequential &c. provision[^key-6a995a59779d2fbcd7a7b1b223f1d76a]
+## 64. Supplementary, incidental, consequential &c. provision[^c-6a995a59779d2fbcd7a7b1b223f1d76a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ as the person making the subordinate legislation thinks necessary or expedient.
 
 ## Annotations
 
-[^key-6a995a59779d2fbcd7a7b1b223f1d76a]: Commencement: S. 64 in force at 31.12.2007 by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/i)
+[^c-6a995a59779d2fbcd7a7b1b223f1d76a]: Commencement: S. 64 in force at 31.12.2007 by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/i)

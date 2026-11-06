@@ -29,9 +29,9 @@ summary: ''
 - (a) a returning officer at—
   - (i) local government elections; or
   - (ii) elections for the Scottish Parliament; or
-  - (iii)[^key-964db8db58bfce61473f7a0287791822] UK Parliamentary elections;
+  - (iii)[^c-964db8db58bfce61473f7a0287791822] UK Parliamentary elections;
 - (b) an acting returning officer (including as a regional or local returning officer at a European Parliamentary election).
 
 ## Annotations
 
-[^key-964db8db58bfce61473f7a0287791822]: Textual amendment: [Reg. 99(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/141/regulation/99/3/a/iii) added (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(25)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/25)
+[^c-964db8db58bfce61473f7a0287791822]: Textual amendment: [Reg. 99(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/141/regulation/99/3/a/iii) added (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(25)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/25)

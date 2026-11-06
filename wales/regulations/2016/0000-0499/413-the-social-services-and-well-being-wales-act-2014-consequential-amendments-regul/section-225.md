@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**225.**[^key-1191cee3757bc594ff3c2166b9788d16] In section 806 (meaning of providing foster care)—
+**225.**[^c-1191cee3757bc594ff3c2166b9788d16] In section 806 (meaning of providing foster care)—
 
 - (a) in subsection (3) after paragraph (a) insert—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1191cee3757bc594ff3c2166b9788d16]: Commencement: Reg. 225 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-1191cee3757bc594ff3c2166b9788d16]: Commencement: Reg. 225 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

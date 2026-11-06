@@ -62,7 +62,7 @@ The National Assembly for Wales, being designated for the purposes of section 2(
 - “**carcase**” means the carcase of an animal and includes part of a carcase, and the meat, bones, hide, skin, hooves, offal or other part of an animal, separately or otherwise, or any portion thereof;
 - “**disease**” means foot-and-mouth disease;
 - “**fresh meat**” means meat (including offal and any meat preparation) that has not undergone any preserving process other than chilling, freezing or quick-freezing, including meat that is vacuum wrapped or wrapped in a controlled atmosphere;
-- “[^key-118f98a1b38119ab1400f060b075280f]**health marked**” (“***yn dwyn marc iechyd***”) means bearing the health mark as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
+- “[^c-118f98a1b38119ab1400f060b075280f]**health marked**” (“***yn dwyn marc iechyd***”) means bearing the health mark as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
 - “**identification marked**” means bearing the identification mark required by article 5(1) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and the Council laying down specific hygiene rules for food of animal original [^c15478991];
 - “**infected premises**” means any premises declared to be infected premises under the Order;
 - “**keeper**” means any person responsible for animals, whether on a permanent or temporary basis, but does not include a person who is responsible for animals solely because he or she is transporting them;
@@ -192,7 +192,7 @@ Disinfection under these Regulations must be carried out with a disinfectant whi
 
 (3) If the National Assembly decides to undertake a vaccination programme it will grant one or more licences permitting suppressive or protective vaccination.
 
-(4)[^key-941d7447e6d9085f054249889f482dac] For the purposes of paragraph (1)(c), point 3.2 of Annex X of Council [Directive 2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) is to be read as if—
+(4)[^c-941d7447e6d9085f054249889f482dac] For the purposes of paragraph (1)(c), point 3.2 of Annex X of Council [Directive 2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) is to be read as if—
 
 - (a) the reference to “Member States” were a reference to “the Welsh Ministers”;
 - (b) Article 2(u) of [Directive 2001/89/EC](https://www.legislation.gov.uk/european/directive/2001/0089) as it applies to point 3.2 were modified so that—
@@ -362,7 +362,7 @@ No person is permitted to sell a vaccinated animal or send such an animal for sl
 
 ### 23. Failure to vaccinate animals specified for vaccination
 
-(1) Any person who knows or suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been must immediately notify the keeper of that animal and the Welsh Ministers[^key-be20d16f6527349ae483cfe64f94c5b2].
+(1) Any person who knows or suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been must immediately notify the keeper of that animal and the Welsh Ministers[^c-be20d16f6527349ae483cfe64f94c5b2].
 
 (2) If an inspector suspects that an animal has been specified for vaccination but was not vaccinated on the date it should have been he or she must arrange for that animal to be vaccinated as soon as is reasonably practicable (but not sooner than 21 days after the date it should have been vaccinated).
 
@@ -398,9 +398,9 @@ No person is permitted to sell a vaccinated animal or send such an animal for sl
 
 The local authority must ensure that the boundaries of every vaccination zone and vaccination surveillance zone are indicated by signs erected in a conspicuous position on all roads entering the zones on which it considers susceptible animals are likely to be moved.
 
-### 27. Trade in vaccinated animals[^key-aa36d66d86c64413f96ae390f66a11d6]
+### 27. Trade in vaccinated animals[^c-aa36d66d86c64413f96ae390f66a11d6]
 
-No person is permitted to send any vaccinated animal for trade with a member State, Norway, Iceland or Liechtenstein[^key-1d97ba9714fbb90b0572d633fc576a5d].
+No person is permitted to send any vaccinated animal for trade with a member State, Norway, Iceland or Liechtenstein[^c-1d97ba9714fbb90b0572d633fc576a5d].
 
 ## PART 3 — General and supplementary provisions
 
@@ -459,7 +459,7 @@ No person is to furnish information which he or she knows to be false or mislead
 
 (2) The following provisions of the Act apply as if these Regulations were an Order made under the Act and as if the definition of animal in section 87 of the Act was extended to include every susceptible animal—
 
-- (a) section 64A (powers of inspectors relating to retained[^key-c4beb4533b9f5ea015681d8e5bb3f050] EU law), and
+- (a) section 64A (powers of inspectors relating to retained[^c-c4beb4533b9f5ea015681d8e5bb3f050] EU law), and
 - (b) section 65(1) to (3) (power to detain vessels and aircraft).
 
 (3) Section 65A of the Act (inspection of vehicles) applies as if—
@@ -933,7 +933,7 @@ Regulation 16(1)
 
 (3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus under the authority of a licence granted by the National Assembly.
 
-(4)[^key-9b8ef5e124f7fbcf8cc9bbd926781ed1] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with—
+(4)[^c-9b8ef5e124f7fbcf8cc9bbd926781ed1] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with—
 
 - (a) Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council; and
 - (b) Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council.
@@ -1017,7 +1017,7 @@ A Regulatory Appraisal has been prepared in respect of these Regulations and is 
 
 [^c15478971]: Marginal citation: [S.I. 2005/1158](https://www.legislation.gov.uk/uksi/2005/1158) (W.75)..
 
-[^key-118f98a1b38119ab1400f060b075280f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/180/regulation/2/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2020/44/regulation/18)
+[^c-118f98a1b38119ab1400f060b075280f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/180/regulation/2/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2020/44/regulation/18)
 
 [^c15478991]: Marginal citation: OJ No. L139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (OJ No. L226, 25.6.2004, p.22).
 
@@ -1033,7 +1033,7 @@ A Regulatory Appraisal has been prepared in respect of these Regulations and is 
 
 [^c15479051]: Marginal citation: OJ No. L306, 22.11.2003, pl.
 
-[^key-941d7447e6d9085f054249889f482dac]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/wsi/2006/180/regulation/9/4) inserted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-941d7447e6d9085f054249889f482dac]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/wsi/2006/180/regulation/9/4) inserted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15479061]: Marginal citation: [S.I. 1996/1686](https://www.legislation.gov.uk/uksi/1996/1686).
 
@@ -1041,13 +1041,13 @@ A Regulatory Appraisal has been prepared in respect of these Regulations and is 
 
 [^c15479081]: Marginal citation: [S.I. 2000/3339](https://www.legislation.gov.uk/uksi/2000/3339), to which there are amendments not relevant to these Regulations.
 
-[^key-be20d16f6527349ae483cfe64f94c5b2]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/wsi/2006/180/regulation/23/1) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/wsi/2010/619), [regs. 1](https://www.legislation.gov.uk/wsi/2010/619/regulation/1), [3](https://www.legislation.gov.uk/wsi/2010/619/regulation/3)
+[^c-be20d16f6527349ae483cfe64f94c5b2]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/wsi/2006/180/regulation/23/1) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/wsi/2010/619), [regs. 1](https://www.legislation.gov.uk/wsi/2010/619/regulation/1), [3](https://www.legislation.gov.uk/wsi/2010/619/regulation/3)
 
-[^key-aa36d66d86c64413f96ae390f66a11d6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/wsi/2006/180/regulation/27) heading substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa36d66d86c64413f96ae390f66a11d6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/wsi/2006/180/regulation/27) heading substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d97ba9714fbb90b0572d633fc576a5d]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/wsi/2006/180/regulation/27) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d97ba9714fbb90b0572d633fc576a5d]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/wsi/2006/180/regulation/27) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4beb4533b9f5ea015681d8e5bb3f050]: Textual amendment: Words in [reg. 35(2)(a)](https://www.legislation.gov.uk/wsi/2006/180/regulation/35/2/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4beb4533b9f5ea015681d8e5bb3f050]: Textual amendment: Words in [reg. 35(2)(a)](https://www.legislation.gov.uk/wsi/2006/180/regulation/35/2/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/371/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c15479091]: Marginal citation: [S.I. 1972/1509](https://www.legislation.gov.uk/uksi/1972/1509)
 
@@ -1059,4 +1059,4 @@ A Regulatory Appraisal has been prepared in respect of these Regulations and is 
 
 [^c15479131]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
-[^key-9b8ef5e124f7fbcf8cc9bbd926781ed1]: Textual amendment: [Sch. para. 18(4)](https://www.legislation.gov.uk/wsi/2006/180/schedule/paragraph/18/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/2)
+[^c-9b8ef5e124f7fbcf8cc9bbd926781ed1]: Textual amendment: [Sch. para. 18(4)](https://www.legislation.gov.uk/wsi/2006/180/schedule/paragraph/18/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/2)

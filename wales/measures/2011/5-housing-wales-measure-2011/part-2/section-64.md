@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Grounds for award[^key-d002aedbe882895bf432f420ec6a948b][^key-3c23b470cf9903dc6aa5bb1d8a6a342d]
+## 64. Grounds for award[^c-d002aedbe882895bf432f420ec6a948b][^c-3c23b470cf9903dc6aa5bb1d8a6a342d]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ After section 50N of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-d002aedbe882895bf432f420ec6a948b]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(m)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/m)
+[^c-d002aedbe882895bf432f420ec6a948b]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(m)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/m)
 
-[^key-3c23b470cf9903dc6aa5bb1d8a6a342d]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/g)
+[^c-3c23b470cf9903dc6aa5bb1d8a6a342d]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/5/section/64) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/g)

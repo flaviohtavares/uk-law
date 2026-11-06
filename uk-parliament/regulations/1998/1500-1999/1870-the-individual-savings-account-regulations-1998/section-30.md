@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Information to be given to account investor by account manager in relation to an account that is not a junior ISA account[^key-9ef2b49a072b5e07bad261b40626a905]
+## 30. Information to be given to account investor by account manager in relation to an account that is not a junior ISA account[^c-9ef2b49a072b5e07bad261b40626a905]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6ed55f57a4436000c685b812d1bf3d5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6ed55f57a4436000c685b812d1bf3d5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An account manager who makes a payment to an account investor out of or in respect of which tax, or a sum representing tax, has been deducted shall, if the account investor so requests in writing, furnish the account investor with a statement in writing showing the gross amount of the payment, the amount deducted and the amount actually paid.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ef2b49a072b5e07bad261b40626a905]: Textual amendment: Words in reg. 30 heading added (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2011/1780/regulation/30/a)
+[^c-9ef2b49a072b5e07bad261b40626a905]: Textual amendment: Words in reg. 30 heading added (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2011/1780/regulation/30/a)
 
-[^key-6ed55f57a4436000c685b812d1bf3d5e]: Textual amendment: [Reg. 30(1)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/30/1) omitted (5.4.2013) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2013 (S.I. 2013/623)](https://www.legislation.gov.uk/uksi/2013/623), [regs. 1](https://www.legislation.gov.uk/uksi/2013/623/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/623/regulation/2/3)
+[^c-6ed55f57a4436000c685b812d1bf3d5e]: Textual amendment: [Reg. 30(1)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/30/1) omitted (5.4.2013) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2013 (S.I. 2013/623)](https://www.legislation.gov.uk/uksi/2013/623), [regs. 1](https://www.legislation.gov.uk/uksi/2013/623/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/623/regulation/2/3)

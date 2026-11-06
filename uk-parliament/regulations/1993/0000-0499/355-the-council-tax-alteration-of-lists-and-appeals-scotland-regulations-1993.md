@@ -46,28 +46,28 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-0b8140b9d3e1626db78ef7346236146a]
+### 1. Citation and commencement[^c-0b8140b9d3e1626db78ef7346236146a]
 
 These Regulations may be cited as the Council Tax (Alteration of Lists and Appeals) (Scotland) Regulations 1993 and shall come into force on 1st April 1993.
 
-### 2. Interpretation[^key-6131f008f34f67f561d7b2841e741e65]
+### 2. Interpretation[^c-6131f008f34f67f561d7b2841e741e65]
 
 In these Regulations—
 
 - “the Act” means the Local Government Finance Act 1992;
 - “the Administration Regulations” means the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992[^f00003];
 - “assessor”, in relation to a list, means the local assessor charged with its maintenance under section 84(1) of the Act;
-- “[^key-3ff9441b8a9eb2119b7b95f3ddc011a1]**First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;
-- “levying authority”, in relation to a dwelling, means the local[^key-54fcf5670b355026b4add4d75e8c0900] authority in whose area the dwelling is situated;
+- “[^c-3ff9441b8a9eb2119b7b95f3ddc011a1]**First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;
+- “levying authority”, in relation to a dwelling, means the local[^c-54fcf5670b355026b4add4d75e8c0900] authority in whose area the dwelling is situated;
 - “list” means a valuation list compiled under section 84 of the Act;
-- [^key-2b4071a7fe664aa5edc2517e6bd048c9]...
+- [^c-2b4071a7fe664aa5edc2517e6bd048c9]...
 - “proposal” means a proposal for the alteration of a list;
-- [^key-2b4071a7fe664aa5edc2517e6bd048c9]...
-- “[^key-27d0bc01405e796df46bb9c87bfa3391]**Upper Tribunal for Scotland**” means the Upper Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014.
+- [^c-2b4071a7fe664aa5edc2517e6bd048c9]...
+- “[^c-27d0bc01405e796df46bb9c87bfa3391]**Upper Tribunal for Scotland**” means the Upper Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014.
 
 ## PART II — ALTERATION OF VALUATION LISTS
 
-### 3. Interpretation of Part II[^key-0def07f43a507e47259a6029150725de]
+### 3. Interpretation of Part II[^c-0def07f43a507e47259a6029150725de]
 
 (1) In this Part—
 
@@ -82,24 +82,24 @@ In these Regulations—
 - “proposer”, in relation to a proposal, means—
   - (a) the person who made the proposal; and
   - (b) any person who is, in terms of regulation 11(3) or 12(2), to be treated as having made the proposal;
-- [^key-633fab3afbaf41a3604ea76f440b2722]...
+- [^c-633fab3afbaf41a3604ea76f440b2722]...
 - “taxpayer”, in relation to a dwelling and a day, means—
   - (a) a person who is liable (whether solely or jointly and severally) to pay council tax in respect of the dwelling and the day; or
   - (b) a person who would be so liable if the dwelling were not—
     - (i) an exempt dwelling; or
-    - (ii) a dwelling in respect of which the amount [^key-41c4a325dc9469f534c18332844ed5b6]... set under section 93 of the Act for the financial year in which the day falls was[^key-be2d87a30b28a4645a9b2fd3c165b798] nil.
+    - (ii) a dwelling in respect of which the amount [^c-41c4a325dc9469f534c18332844ed5b6]... set under section 93 of the Act for the financial year in which the day falls was[^c-be2d87a30b28a4645a9b2fd3c165b798] nil.
 
 (2) For the purposes of this Part, an appeal decision is a “relevant decision” in respect of a dwelling if—
 
-- (a) it was made [^key-1481f59f622557b33bd105f020dabeb3]...—
-  - (i)[^key-bc08c3c75563442e6ce82a13c1e47e99] after 31st March 1996 but before 31st March 2023[^key-89c989049f2fa3fd90d90c2295bd7032] by a valuation appeal committee drawn from the local valuation panel for the area in which the dwelling is situated;
-  - (ia) on or before 31st March 1996[^key-7869575af4e53de209f243da3cd6c98b] by a valuation appeal committee for the valuation area within which the dwelling was then situated;
-  - (ib)[^key-ccac2d99e4e555e43a4fdca3180282ac] after 31st March 2023 by the First-tier Tribunal for Scotland or the Upper Tribunal for Scotland;
-  - (ii) by[^key-c2b9b4a893450fad68cf4c5088c7111c] the Court of Session; or
-  - (iii) by[^key-9ad1fbb04f5b5859c3a67dfed9c21e94] the House of Lords; and
+- (a) it was made [^c-1481f59f622557b33bd105f020dabeb3]...—
+  - (i)[^c-bc08c3c75563442e6ce82a13c1e47e99] after 31st March 1996 but before 31st March 2023[^c-89c989049f2fa3fd90d90c2295bd7032] by a valuation appeal committee drawn from the local valuation panel for the area in which the dwelling is situated;
+  - (ia) on or before 31st March 1996[^c-7869575af4e53de209f243da3cd6c98b] by a valuation appeal committee for the valuation area within which the dwelling was then situated;
+  - (ib)[^c-ccac2d99e4e555e43a4fdca3180282ac] after 31st March 2023 by the First-tier Tribunal for Scotland or the Upper Tribunal for Scotland;
+  - (ii) by[^c-c2b9b4a893450fad68cf4c5088c7111c] the Court of Session; or
+  - (iii) by[^c-9ad1fbb04f5b5859c3a67dfed9c21e94] the House of Lords; and
 - (b) either because of a general principle stated in it or because it relates to a comparable dwelling, the decision provides reasonable grounds for contending that the valuation band shown on the list in respect of the dwelling is not the one which should be shown.
 
-### 4. Restrictions on alteration of valuation bands[^key-68d0dc3bbae86d251125f19c3437c936]
+### 4. Restrictions on alteration of valuation bands[^c-68d0dc3bbae86d251125f19c3437c936]
 
 (1) No alteration shall be made of a valuation band shown in the list as applicable to any dwelling unless—
 
@@ -127,7 +127,7 @@ In these Regulations—
 - “market value” means the amount which the dwelling might reasonably have been expected to realise if it had been sold in the open market by a willing seller; and
 - “relevant works” means the works of demolition and the building, engineering or other operation of which those works of demolition are part or with which they are connected.
 
-### 5. Circumstances and periods in which proposals may be made[^key-1246c33e243f8eb75a29608e934d77e0]
+### 5. Circumstances and periods in which proposals may be made[^c-1246c33e243f8eb75a29608e934d77e0]
 
 (1) Subject to paragraphs (2), (7), (8) and (10), an interested person may at any time on or after 1st April 1993 make a proposal for alteration of the list so as to—
 
@@ -174,7 +174,7 @@ a proposal in relation to that dwelling may be made within 6 months of issue by 
 
 (9) The circumstances referred to in paragraphs (5), (7)(c) and (8)(c) are that—
 
-- (a) a proposal to alter the list in relation to the same dwelling and arising from the same facts has been considered and determined by the First-tier Tribunal for Scotland[^key-b62afe1119ea978f8fba6ed0e9f3d1fd] or on appeal from that Tribunal[^key-fc6e08d5aa3c09a8ca27c7881c6a85dc];
+- (a) a proposal to alter the list in relation to the same dwelling and arising from the same facts has been considered and determined by the First-tier Tribunal for Scotland[^c-b62afe1119ea978f8fba6ed0e9f3d1fd] or on appeal from that Tribunal[^c-fc6e08d5aa3c09a8ca27c7881c6a85dc];
 - (b) the new taxpayer is a company which is a subsidiary of the immediately preceding taxpayer;
 - (c) the immediately preceding taxpayer was a company which is a subsidiary of the new taxpayer;
 - (d) both the new and immediately preceding taxpayers are companies which are subsidiaries of the same company; or
@@ -182,7 +182,7 @@ a proposal in relation to that dwelling may be made within 6 months of issue by 
 
 (10) No proposal may be made at any time to alter the valuation band shown in the list in respect of a dwelling falling within either of the classes of lands and heritages specified in paragraphs (2) and (3) of regulation 2 of the Council Tax (Dwellings) (Scotland) Regulations 1992[^f00006].
 
-### 6. Manner of making proposals and information to be included[^key-ff468df08885c076ce0a8c9329a828d7]
+### 6. Manner of making proposals and information to be included[^c-ff468df08885c076ce0a8c9329a828d7]
 
 (1) A proposal shall—
 
@@ -195,26 +195,26 @@ a proposal in relation to that dwelling may be made within 6 months of issue by 
 
 (2) Every proposal shall be served on the assessor.
 
-### 7. Acknowledgement of proposals[^key-79ce92e788bb2e289114a3e3a22e1fb2]
+### 7. Acknowledgement of proposals[^c-79ce92e788bb2e289114a3e3a22e1fb2]
 
 (1) Within the period of 14 days beginning on the day on which he receives a proposal, the assessor shall acknowledge its receipt by notice served on the proposer.
 
 (2) A notice under paragraph (1) shall specify the date of receipt of the proposal and shall be accompanied by a statement of the effect of regulations 11, 12, 14 and 15.
 
-### 8. Proposals treated as invalid—lack of title or out of time[^key-cd0403614733da530495837f6f648edf]
+### 8. Proposals treated as invalid—lack of title or out of time[^c-cd0403614733da530495837f6f648edf]
 
 (1) Where the assessor is of the opinion that a proposal has not been validly made because the proposer is not a person who, at the time of making the proposal, is entitled to do so in terms of regulation 5, he may within six weeks of its service on him serve notice on the proposer that he is of that opinion, and stating—
 
 - (a) his reasons for that opinion; and
 - (b) the effect of paragraphs (2) and (3).
 
-(2) If the proposer disagrees with the opinion of the assessor stated in a notice under paragraph (1), the proposer may appeal against the notice to the First-tier Tribunal for Scotland[^key-e816754cd4461239444a6fedb46346b1] within 28 days of the date of service[^key-2328dea497cfcc21e2161fb6883faa78].
+(2) If the proposer disagrees with the opinion of the assessor stated in a notice under paragraph (1), the proposer may appeal against the notice to the First-tier Tribunal for Scotland[^c-e816754cd4461239444a6fedb46346b1] within 28 days of the date of service[^c-2328dea497cfcc21e2161fb6883faa78].
 
 (3) Where the assessor has served a notice under paragraph (1) and the proposer has not timeously appealed against it under paragraph (2), the assessor shall be entitled to treat the proposal as invalidly made and shall not require to take any further action in relation to it.
 
 (4) Failure by the assessor to serve a notice under paragraph (1) in respect of a proposal shall not preclude him from contending in any appeal following a referral under regulation 15 that the proposal was not validly made for the reason mentioned in that paragraph.
 
-### 9. Proposals treated as invalid—lack of information[^key-a799395b0083439b5a1de77a5e239bd5]
+### 9. Proposals treated as invalid—lack of information[^c-a799395b0083439b5a1de77a5e239bd5]
 
 (1) Where the assessor is of the opinion that a proposal has not been validly made because it does not include all the information specified in paragraph (1) of regulation 6, he may within six weeks of the date of service of the proposal on him serve on the proposer a notice complying with paragraph (2).
 
@@ -223,9 +223,9 @@ a proposal in relation to that dwelling may be made within 6 months of issue by 
 - (a) state the opinion of the assessor that the proposal has not been validly made;
 - (b) specify which of the information required by paragraph (1) of regulation 6 has not been supplied to him;
 - (c) state that that information must be supplied to him no later than four weeks after the date of service of the notice; and
-- (d) advise the proposer of his right of appeal to the First-tier Tribunal for Scotland[^key-509d2605830fe37cb4016c345d755001] under paragraph (3) and of the effect of paragraph (4).
+- (d) advise the proposer of his right of appeal to the First-tier Tribunal for Scotland[^c-509d2605830fe37cb4016c345d755001] under paragraph (3) and of the effect of paragraph (4).
 
-(3) If the proposer disagrees with the opinion of the assessor stated in a notice under paragraph (1), the proposer may appeal against the notice within 28 days of the date of service[^key-bd0d5fdc3c8534720a239e9b9bf01f48] to the First-tier Tribunal for Scotland[^key-5c922778c2ba187aa1e03989a9b016e1].
+(3) If the proposer disagrees with the opinion of the assessor stated in a notice under paragraph (1), the proposer may appeal against the notice within 28 days of the date of service[^c-bd0d5fdc3c8534720a239e9b9bf01f48] to the First-tier Tribunal for Scotland[^c-5c922778c2ba187aa1e03989a9b016e1].
 
 (4) Where the assessor has served a notice under paragraph (1) and the proposer has not—
 
@@ -234,13 +234,13 @@ a proposal in relation to that dwelling may be made within 6 months of issue by 
 
 the assessor shall be entitled to treat the proposal as invalidly made and shall not require to take any further action in relation to it.
 
-### 10. Proposals treated as invalid—appeals[^key-f5287dda1eaa44b61438f1a1084dc246]
+### 10. Proposals treated as invalid—appeals[^c-f5287dda1eaa44b61438f1a1084dc246]
 
-(1) An appeal under regulation 8(2) or 9(3) is to be made by giving written notice to the First-tier Tribunal for Scotland in accordance with the procedural rules of that Tribunal[^key-2757e0733cbe450a8cc37b24246d6900].
+(1) An appeal under regulation 8(2) or 9(3) is to be made by giving written notice to the First-tier Tribunal for Scotland in accordance with the procedural rules of that Tribunal[^c-2757e0733cbe450a8cc37b24246d6900].
 
-(2)[^key-aff3a42ad6e0cbc45510495a417575eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aff3a42ad6e0cbc45510495a417575eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Withdrawal of proposals[^key-dda4a4c7a6e580a8665b3724f0e6427b]
+### 11. Withdrawal of proposals[^c-dda4a4c7a6e580a8665b3724f0e6427b]
 
 (1) Subject to paragraphs (2) and (3), a proposal may be withdrawn by notice in writing served on the assessor by or on behalf of each proposer.
 
@@ -248,24 +248,24 @@ the assessor shall be entitled to treat the proposal as invalidly made and shall
 
 (3) Where, within the period of six weeks beginning on the day on which a notice under paragraph (2) is served, an interested person intimates to the assessor that he wishes to adopt the proposal, the proposal shall from the date of that intimation be treated for the purposes of these Regulations as having been made by that person.
 
-### 12. Joint proposals[^key-98077c12d9d0d6abc6410bfe7eda0272]
+### 12. Joint proposals[^c-98077c12d9d0d6abc6410bfe7eda0272]
 
 (1) Where a person has made a proposal to the assessor, any other person who is an interested person in respect of that proposal may, so long as the proposal has not been withdrawn nor a referral in respect of it made under regulation 15, by notice indicate to the assessor that he wishes to support the proposal.
 
 (2) Where a person has served notice under paragraph (1), the proposal shall from the date of service of the notice be treated for the purposes of these Regulations as having been made jointly by the original proposer and that person.
 
-### 13. Valuations in connection with proposals[^key-e500f6943396218f22c1f88371447d7c]
+### 13. Valuations in connection with proposals[^c-e500f6943396218f22c1f88371447d7c]
 
 Any valuation of a dwelling carried out in connection with a proposal for the alteration of the list shall be carried out in accordance with section 86(2) of the Act[^f00007].
 
-### 14. Alterations agreed by assessor[^key-8a2c5c727ca91e48578c39b184d26014]
+### 14. Alterations agreed by assessor[^c-8a2c5c727ca91e48578c39b184d26014]
 
 Where the assessor is of the opinion that a proposal is well-founded, he shall—
 
 - (a) serve notice on each proposer that he intends to alter the list accordingly; and
 - (b) within six weeks of the date of the notice so alter the list.
 
-### 15. Appeal in the event of disagreement as to proposed alteration[^key-77af785691b198349c58e44230b590ba]
+### 15. Appeal in the event of disagreement as to proposed alteration[^c-77af785691b198349c58e44230b590ba]
 
 (1) Where the assessor is of the opinion that a proposal is not well-founded and it is not withdrawn they must, in accordance with the time periods specified in paragraph (3), serve on the proposer a notice complying with paragraph (2).
 
@@ -277,7 +277,7 @@ Where the assessor is of the opinion that a proposal is well-founded, he shall�
 
 (3) A notice under paragraph (1) must be served on the proposer—
 
-- (a) where no notice in respect of the proposal has been served on the proposer under regulation 8(1) or 9(1), before the end of the period of six months[^key-f1418fef2769af832d58d44e4ab3245c] beginning with the date on which the proposal was served on the assessor;
+- (a) where no notice in respect of the proposal has been served on the proposer under regulation 8(1) or 9(1), before the end of the period of six months[^c-f1418fef2769af832d58d44e4ab3245c] beginning with the date on which the proposal was served on the assessor;
 - (b) where the assessor has served a notice under regulation 8(1) in respect of a proposal, before the end of the period of six months beginning with the date on which—
   - (i) the assessor withdrew that notice; or
   - (ii) the proposer’s appeal against that notice was finally resolved in their favour;
@@ -302,7 +302,7 @@ Where the assessor is of the opinion that a proposal is well-founded, he shall�
     whichever is the later, and
 - (b) in accordance with the procedural rules of that Tribunal.
 
-### 16. Notification of alteration[^key-59f99d57b3e388ce13327ab7fa693fcc]
+### 16. Notification of alteration[^c-59f99d57b3e388ce13327ab7fa693fcc]
 
 (1) Within six weeks of altering a list, an assessor shall notify the levying authority stating the effect of the alteration, and the levying authority shall as soon as is reasonably practicable alter the copy of the list deposited by them at their principal office under section 85(5) of the Act.
 
@@ -320,7 +320,7 @@ Where the assessor is of the opinion that a proposal is well-founded, he shall�
 - (a) serve with any notice under paragraph (2), (3) or (4), as the case may be, a statement of the effect of regulation 5 as it relates to the alteration in question; and
 - (b) take such steps as are reasonably practicable to secure that any such notice is served not later than notification is given under paragraph (1).
 
-### 17. Effective date for alterations—additions or deletions of dwellings[^key-e0a55ee685932ec46c2f9bf7a5f4ec68]
+### 17. Effective date for alterations—additions or deletions of dwellings[^c-e0a55ee685932ec46c2f9bf7a5f4ec68]
 
 (1) Any alteration of the list effected so as to show a dwelling which is not or was not shown on the list shall have effect from the later of—
 
@@ -332,7 +332,7 @@ Where the assessor is of the opinion that a proposal is well-founded, he shall�
 - (a) the day on which the property ceased to exist as a dwelling; and
 - (b) 1st April 1993.
 
-### 18. Effective date for alterations—corrections[^key-9fea6c8c51e2cd3cb9c0fba7ad82ed8c]
+### 18. Effective date for alterations—corrections[^c-9fea6c8c51e2cd3cb9c0fba7ad82ed8c]
 
 (1) Any alteration of the list effected so as to show, in respect of a dwelling, the correct valuation band applicable to the dwelling on the day on which the dwelling was first shown on the list shall have effect from that day.
 
@@ -343,7 +343,7 @@ Where the assessor is of the opinion that a proposal is well-founded, he shall�
 
 shall have effect from the effective date of that earlier alteration.
 
-### 19. Effective date for alterations—other cases[^key-4889e88fb94741c39ceb373aa338ef54]
+### 19. Effective date for alterations—other cases[^c-4889e88fb94741c39ceb373aa338ef54]
 
 (1) Any alteration of the list effected so as to reflect a material increase in the value of a dwelling shall have effect from the day on which the first sale of the dwelling, or any part of it, subsequent to the material increase was completed.
 
@@ -373,84 +373,84 @@ shall have effect from the later of—
 
 (6) Any alteration of the list effected as a consequence of the assessor, under Schedule 5 to the Act, adding, amending or deleting an apportionment note relating to any lands and heritages included in the valuation roll shall have effect from the same date as that addition, amendment or deletion, as the case may be.
 
-### 20. Service of notices[^key-586a908880710aa3efc183caac801355]
+### 20. Service of notices[^c-586a908880710aa3efc183caac801355]
 
 If the assessor has not, after reasonable inquiry, been able to ascertain the identity of any person upon whom a notice under this Part requires to be served by him, he may serve that notice by addressing it to “The Council Tax Payer” or “The Owner” (as the case may be) of the dwelling concerned (naming the dwelling) without further name or designation.
 
 ## PART III — NON-LIST APPEALS
 
-### 21. Appeals in relation to estimates or benefit matters[^key-b423c3ea06e5af803fd2f647756d246b]
+### 21. Appeals in relation to estimates or benefit matters[^c-b423c3ea06e5af803fd2f647756d246b]
 
 Section 81(1) of the Act shall not apply where the grounds on which the person concerned is aggrieved are that—
 
-- (a) any assumption as to the future that is required by Part V of the Administration Regulations to be made in the calculation of an amount payable as council tax [^key-9c671bbc7d1837f4f7d1e3f556de304d]... may prove to be inaccurate [^key-a48f6886d02f5109a881a178336a2565]...
-- (b)[^key-a48f6886d02f5109a881a178336a2565] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any assumption as to the future that is required by Part V of the Administration Regulations to be made in the calculation of an amount payable as council tax [^c-9c671bbc7d1837f4f7d1e3f556de304d]... may prove to be inaccurate [^c-a48f6886d02f5109a881a178336a2565]...
+- (b)[^c-a48f6886d02f5109a881a178336a2565] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Appeals against levying authority decisions and calculations[^key-701d3a1670d1ef83fb7942d755e25a76]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 23. Appeals against penalties[^key-701d3a1670d1ef83fb7942d755e25a76]
+### 22. Appeals against levying authority decisions and calculations[^c-701d3a1670d1ef83fb7942d755e25a76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Appeals against completion notices[^key-701d3a1670d1ef83fb7942d755e25a76]
+### 23. Appeals against penalties[^c-701d3a1670d1ef83fb7942d755e25a76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — APPEAL PROCEDURE[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 24. Appeals against completion notices[^c-701d3a1670d1ef83fb7942d755e25a76]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IV — APPEAL PROCEDURE[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 **No longer in force.**
 
-### 25. Interpretation of Part IV[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 25. Interpretation of Part IV[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Withdrawal of appeals[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 26. Withdrawal of appeals[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Disposal by written representations[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 27. Disposal by written representations[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Notice of hearing[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 28. Notice of hearing[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Statement of evidence[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 29. Statement of evidence[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Power to require attendance of witnesses and to order recovery of documents[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 30. Power to require attendance of witnesses and to order recovery of documents[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Failure to appear or be represented at hearing[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 31. Failure to appear or be represented at hearing[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Arrangements at hearing[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 32. Arrangements at hearing[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Procedure at hearing[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 33. Procedure at hearing[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Representation at hearing[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 34. Representation at hearing[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Record of evidence[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 35. Record of evidence[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Decisions[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 36. Decisions[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Orders[^key-3df33036214dbdc55b5683e7671c7b6f]
+### 37. Orders[^c-3df33036214dbdc55b5683e7671c7b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -480,110 +480,110 @@ Part IV sets down the procedures to be followed before valuation appeal committe
 
 [^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-0b8140b9d3e1626db78ef7346236146a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-0b8140b9d3e1626db78ef7346236146a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-6131f008f34f67f561d7b2841e741e65]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-6131f008f34f67f561d7b2841e741e65]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1992/1332](https://www.legislation.gov.uk/uksi/1992/1332), as amended by [S.I. 1992/3290](https://www.legislation.gov.uk/uksi/1992/3290).
 
-[^key-3ff9441b8a9eb2119b7b95f3ddc011a1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/2/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-3ff9441b8a9eb2119b7b95f3ddc011a1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/2/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-54fcf5670b355026b4add4d75e8c0900]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) substituted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/1996/580/article/9/2/a)
+[^c-54fcf5670b355026b4add4d75e8c0900]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) substituted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/1996/580/article/9/2/a)
 
-[^key-2b4071a7fe664aa5edc2517e6bd048c9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/2/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-2b4071a7fe664aa5edc2517e6bd048c9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/2/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-27d0bc01405e796df46bb9c87bfa3391]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/2/c) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-27d0bc01405e796df46bb9c87bfa3391]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1993/355/regulation/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/2/c) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-0def07f43a507e47259a6029150725de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/355/regulation/3) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-0def07f43a507e47259a6029150725de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/355/regulation/3) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
 [^f00005]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); section 736 was substituted, and section 736A inserted, by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 144.
 
-[^key-633fab3afbaf41a3604ea76f440b2722]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/1) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-633fab3afbaf41a3604ea76f440b2722]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/1) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-41c4a325dc9469f534c18332844ed5b6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/1) omitted (1.4.1996) by virtue of [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/a/i)
+[^c-41c4a325dc9469f534c18332844ed5b6]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/1) omitted (1.4.1996) by virtue of [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/a/i)
 
-[^key-be2d87a30b28a4645a9b2fd3c165b798]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/1) substituted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/a/ii)
+[^c-be2d87a30b28a4645a9b2fd3c165b798]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/1) substituted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/a/ii)
 
-[^key-1481f59f622557b33bd105f020dabeb3]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a) omitted (1.4.1996) by virtue of [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/i)
+[^c-1481f59f622557b33bd105f020dabeb3]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a) omitted (1.4.1996) by virtue of [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/i)
 
-[^key-bc08c3c75563442e6ce82a13c1e47e99]: Textual amendment: [Reg. 3(2)(a)(i)(ia)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/i/ia) substituted for [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/i) (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/ii)
+[^c-bc08c3c75563442e6ce82a13c1e47e99]: Textual amendment: [Reg. 3(2)(a)(i)(ia)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/i/ia) substituted for [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/i) (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/ii)
 
-[^key-89c989049f2fa3fd90d90c2295bd7032]: Textual amendment: Words in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/i) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(b)(i)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/b/i) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-89c989049f2fa3fd90d90c2295bd7032]: Textual amendment: Words in [reg. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/i) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(b)(i)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/b/i) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-7869575af4e53de209f243da3cd6c98b]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a)[(ia)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/ia) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/b/ii) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-7869575af4e53de209f243da3cd6c98b]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a)[(ia)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/ia) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/b/ii) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-ccac2d99e4e555e43a4fdca3180282ac]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a)[(ib)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/ib) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/b/iii) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-ccac2d99e4e555e43a4fdca3180282ac]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a)[(ib)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/ib) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/3/b/iii) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-c2b9b4a893450fad68cf4c5088c7111c]: Textual amendment: Word in [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/ii) inserted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/iii)
+[^c-c2b9b4a893450fad68cf4c5088c7111c]: Textual amendment: Word in [reg. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/ii) inserted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/iii)
 
-[^key-9ad1fbb04f5b5859c3a67dfed9c21e94]: Textual amendment: Word in [reg. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/iii) inserted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/iii)
+[^c-9ad1fbb04f5b5859c3a67dfed9c21e94]: Textual amendment: Word in [reg. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1993/355/regulation/3/2/a/iii) inserted (1.4.1996) by [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/1996/580/article/9/3/b/iii)
 
-[^key-68d0dc3bbae86d251125f19c3437c936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/355/regulation/4) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-68d0dc3bbae86d251125f19c3437c936]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/355/regulation/4) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-1246c33e243f8eb75a29608e934d77e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/355/regulation/5) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-1246c33e243f8eb75a29608e934d77e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/355/regulation/5) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-b62afe1119ea978f8fba6ed0e9f3d1fd]: Textual amendment: Words in [reg. 5(9)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/5/9/a) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(4)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/4/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-b62afe1119ea978f8fba6ed0e9f3d1fd]: Textual amendment: Words in [reg. 5(9)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/5/9/a) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(4)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/4/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-fc6e08d5aa3c09a8ca27c7881c6a85dc]: Textual amendment: Words in [reg. 5(9)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/5/9/a) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(4)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/4/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-fc6e08d5aa3c09a8ca27c7881c6a85dc]: Textual amendment: Words in [reg. 5(9)(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/5/9/a) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(4)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/4/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^f00006]: Footnote: [S.I. 1992/1334](https://www.legislation.gov.uk/uksi/1992/1334), as amended by [S.I. 1992/2955](https://www.legislation.gov.uk/uksi/1992/2955).
 
-[^key-ff468df08885c076ce0a8c9329a828d7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/355/regulation/6) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-ff468df08885c076ce0a8c9329a828d7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/355/regulation/6) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-79ce92e788bb2e289114a3e3a22e1fb2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/355/regulation/7) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-79ce92e788bb2e289114a3e3a22e1fb2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/355/regulation/7) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-cd0403614733da530495837f6f648edf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/355/regulation/8) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-cd0403614733da530495837f6f648edf]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/355/regulation/8) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-e816754cd4461239444a6fedb46346b1]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1993/355/regulation/8/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(5)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/5/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-e816754cd4461239444a6fedb46346b1]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1993/355/regulation/8/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(5)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/5/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-2328dea497cfcc21e2161fb6883faa78]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1993/355/regulation/8/2) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(5)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/5/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-2328dea497cfcc21e2161fb6883faa78]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1993/355/regulation/8/2) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(5)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/5/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-a799395b0083439b5a1de77a5e239bd5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/355/regulation/9) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-a799395b0083439b5a1de77a5e239bd5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/355/regulation/9) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-509d2605830fe37cb4016c345d755001]: Textual amendment: Words in [reg. 9(2)(d)](https://www.legislation.gov.uk/uksi/1993/355/regulation/9/2/d) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(6)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/6/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-509d2605830fe37cb4016c345d755001]: Textual amendment: Words in [reg. 9(2)(d)](https://www.legislation.gov.uk/uksi/1993/355/regulation/9/2/d) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(6)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/6/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-bd0d5fdc3c8534720a239e9b9bf01f48]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1993/355/regulation/9/3) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/6/b/ii) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-bd0d5fdc3c8534720a239e9b9bf01f48]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1993/355/regulation/9/3) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/6/b/ii) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-5c922778c2ba187aa1e03989a9b016e1]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1993/355/regulation/9/3) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(6)(b)(i)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/6/b/i) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-5c922778c2ba187aa1e03989a9b016e1]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/1993/355/regulation/9/3) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(6)(b)(i)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/6/b/i) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-f5287dda1eaa44b61438f1a1084dc246]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/355/regulation/10) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-f5287dda1eaa44b61438f1a1084dc246]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/355/regulation/10) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-2757e0733cbe450a8cc37b24246d6900]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/10/1) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(7)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/7/a) (with [sch. 1 paras. 1-5](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-2757e0733cbe450a8cc37b24246d6900]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1993/355/regulation/10/1) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(7)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/7/a) (with [sch. 1 paras. 1-5](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-aff3a42ad6e0cbc45510495a417575eb]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1993/355/regulation/10/2) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(7)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/7/b) (with [sch. 1 paras. 1-5](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-aff3a42ad6e0cbc45510495a417575eb]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1993/355/regulation/10/2) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(7)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/7/b) (with [sch. 1 paras. 1-5](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-dda4a4c7a6e580a8665b3724f0e6427b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/355/regulation/11) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-dda4a4c7a6e580a8665b3724f0e6427b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/355/regulation/11) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-98077c12d9d0d6abc6410bfe7eda0272]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/355/regulation/12) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-98077c12d9d0d6abc6410bfe7eda0272]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/355/regulation/12) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-e500f6943396218f22c1f88371447d7c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/355/regulation/13) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-e500f6943396218f22c1f88371447d7c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/355/regulation/13) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
 [^f00007]: Footnote: Regulations under section 86(2) are [S.I. 1992/1329](https://www.legislation.gov.uk/uksi/1992/1329), as amended by [S.I. 1993/354](https://www.legislation.gov.uk/uksi/1993/354).
 
-[^key-8a2c5c727ca91e48578c39b184d26014]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/355/regulation/14) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-8a2c5c727ca91e48578c39b184d26014]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/355/regulation/14) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-77af785691b198349c58e44230b590ba]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/355/regulation/15) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(8)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/8) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [6](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/6), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-77af785691b198349c58e44230b590ba]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/355/regulation/15) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(8)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/8) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [6](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/6), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-f1418fef2769af832d58d44e4ab3245c]: Textual amendment: Word in [reg. 15(3)(a)-(d)](https://www.legislation.gov.uk/uksi/1993/355/regulation/15/3/a) substituted (1.7.2023) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/200)](https://www.legislation.gov.uk/ssi/2023/200), [regs. 1](https://www.legislation.gov.uk/ssi/2023/200/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/200/regulation/3/2)
+[^c-f1418fef2769af832d58d44e4ab3245c]: Textual amendment: Word in [reg. 15(3)(a)-(d)](https://www.legislation.gov.uk/uksi/1993/355/regulation/15/3/a) substituted (1.7.2023) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/200)](https://www.legislation.gov.uk/ssi/2023/200), [regs. 1](https://www.legislation.gov.uk/ssi/2023/200/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/200/regulation/3/2)
 
-[^key-59f99d57b3e388ce13327ab7fa693fcc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/355/regulation/16) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-59f99d57b3e388ce13327ab7fa693fcc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/355/regulation/16) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-e0a55ee685932ec46c2f9bf7a5f4ec68]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/355/regulation/17) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-e0a55ee685932ec46c2f9bf7a5f4ec68]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/355/regulation/17) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-9fea6c8c51e2cd3cb9c0fba7ad82ed8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/355/regulation/18) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-9fea6c8c51e2cd3cb9c0fba7ad82ed8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/355/regulation/18) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-4889e88fb94741c39ceb373aa338ef54]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/355/regulation/19) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-4889e88fb94741c39ceb373aa338ef54]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/355/regulation/19) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
 [^f00008]: Footnote: See [S.I. 1992/1329](https://www.legislation.gov.uk/uksi/1992/1329); amendments relative to valuations in connection with proposals are contained in [S.I. 1993/354](https://www.legislation.gov.uk/uksi/1993/354).
 
-[^key-586a908880710aa3efc183caac801355]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/355/regulation/20) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-586a908880710aa3efc183caac801355]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/355/regulation/20) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-b423c3ea06e5af803fd2f647756d246b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1993/355/regulation/21) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
+[^c-b423c3ea06e5af803fd2f647756d246b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1993/355/regulation/21) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/355/regulation/1)
 
-[^key-9c671bbc7d1837f4f7d1e3f556de304d]: Textual amendment: Words in [reg. 21(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/21/a) omitted (1.4.1996) by virtue of [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/1996/580/article/9/4)
+[^c-9c671bbc7d1837f4f7d1e3f556de304d]: Textual amendment: Words in [reg. 21(a)](https://www.legislation.gov.uk/uksi/1993/355/regulation/21/a) omitted (1.4.1996) by virtue of [The Rating, Valuation and Council Tax (Miscellaneous Provisions) (Scotland) Order 1996 (S.I. 1996/580)](https://www.legislation.gov.uk/uksi/1996/580), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1996/580/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/1996/580/article/9/4)
 
-[^key-a48f6886d02f5109a881a178336a2565]: Textual amendment: [Reg. 21(b)](https://www.legislation.gov.uk/uksi/1993/355/regulation/21/b) and word omitted (28.1.2013) by virtue of [The Council Tax Reduction (Scotland) Regulations 2012 (S.S.I. 2012/303)](https://www.legislation.gov.uk/ssi/2012/303), [reg. 1](https://www.legislation.gov.uk/ssi/2012/303/regulation/1), [sch. 7 para. 3](https://www.legislation.gov.uk/ssi/2012/303/schedule/7/paragraph/3) (with [regs. 12](https://www.legislation.gov.uk/ssi/2012/303/regulation/12), [13](https://www.legislation.gov.uk/ssi/2012/303/regulation/13))
+[^c-a48f6886d02f5109a881a178336a2565]: Textual amendment: [Reg. 21(b)](https://www.legislation.gov.uk/uksi/1993/355/regulation/21/b) and word omitted (28.1.2013) by virtue of [The Council Tax Reduction (Scotland) Regulations 2012 (S.S.I. 2012/303)](https://www.legislation.gov.uk/ssi/2012/303), [reg. 1](https://www.legislation.gov.uk/ssi/2012/303/regulation/1), [sch. 7 para. 3](https://www.legislation.gov.uk/ssi/2012/303/schedule/7/paragraph/3) (with [regs. 12](https://www.legislation.gov.uk/ssi/2012/303/regulation/12), [13](https://www.legislation.gov.uk/ssi/2012/303/regulation/13))
 
-[^key-701d3a1670d1ef83fb7942d755e25a76]: Textual amendment: [Regs. 22-24](https://www.legislation.gov.uk/uksi/1993/355/regulation/22) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(9)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/9) (with [sch. 1 paras. 1-5](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-701d3a1670d1ef83fb7942d755e25a76]: Textual amendment: [Regs. 22-24](https://www.legislation.gov.uk/uksi/1993/355/regulation/22) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(9)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/9) (with [sch. 1 paras. 1-5](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-3df33036214dbdc55b5683e7671c7b6f]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/1993/355/part/4) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(9)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/9) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-3df33036214dbdc55b5683e7671c7b6f]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/1993/355/part/4) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 15(9)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/15/9) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))

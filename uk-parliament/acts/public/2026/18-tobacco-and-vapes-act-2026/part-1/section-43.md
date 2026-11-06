@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Handing over tobacco etc to underage people in Wales[^key-1342a23d2a8150147a05f1080429171a]
+## 43. Handing over tobacco etc to underage people in Wales[^c-1342a23d2a8150147a05f1080429171a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Schedule 5 contains amendments to Chapter 4 of Part 3 of the Public Health (Wale
 
 ## Annotations
 
-[^key-1342a23d2a8150147a05f1080429171a]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-1342a23d2a8150147a05f1080429171a]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)

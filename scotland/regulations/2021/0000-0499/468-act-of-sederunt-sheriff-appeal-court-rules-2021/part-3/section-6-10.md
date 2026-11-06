@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.10. Questions about competency: determination[^key-f3fce3611c91e2806b35f7eefb300a16]
+## 6.10. Questions about competency: determination[^c-f3fce3611c91e2806b35f7eefb300a16]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3fce3611c91e2806b35f7eefb300a16]: Commencement: Para. 6.10 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-f3fce3611c91e2806b35f7eefb300a16]: Commencement: Para. 6.10 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

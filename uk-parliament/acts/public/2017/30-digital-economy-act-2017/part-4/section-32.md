@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Offences: infringing copyright and making available right[^key-29c48cceeac5b0b0f821ace3b37bc338]
+## 32. Offences: infringing copyright and making available right[^c-29c48cceeac5b0b0f821ace3b37bc338]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29c48cceeac5b0b0f821ace3b37bc338]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/30/section/32) in force at 1.10.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)
+[^c-29c48cceeac5b0b0f821ace3b37bc338]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/30/section/32) in force at 1.10.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/a)

@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Transitional periods for money purchase and personal pension schemes[^c19558021][^key-1f2e9af8a2d38d83746f33b77f5a4317]
+## 29. Transitional periods for money purchase and personal pension schemes[^c19558021][^c-1f2e9af8a2d38d83746f33b77f5a4317]
 
 *Extent: N.I.*
 
-(1) During the first transitional period [^key-88ae026a21319faa46cb2a1cfcc1b323]...—
+(1) During the first transitional period [^c-88ae026a21319faa46cb2a1cfcc1b323]...—
 
 - (a) sections 20(1)(b) and 26(4)(b) have effect as if for “3%” there were substituted “ 1% ”;
 - (b) sections 20(1)(c) and 26(5)(b) have effect as if for “8%” there were substituted “ 2% ”.
 
 (2) The first transitional period is a prescribed period of at least one year, beginning with the coming into operation of section 20.
 
-(3) During the second transitional period [^key-1b175da344a1869f77fa80ad6c42630c]...—
+(3) During the second transitional period [^c-1b175da344a1869f77fa80ad6c42630c]...—
 
 - (a) sections 20(1)(b) and 26(4)(b) have effect as if for “3%” there were substituted “ 2% ”;
 - (b) sections 20(1)(c) and 26(5)(b) have effect as if for “8%” there were substituted “ 5% ”.
@@ -38,8 +38,8 @@ summary: ''
 
 [^c19558021]: Commencement: S. 29 partly in force; s. 29 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-1f2e9af8a2d38d83746f33b77f5a4317]: Commencement: S. 29 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-1f2e9af8a2d38d83746f33b77f5a4317]: Commencement: S. 29 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
 
-[^key-88ae026a21319faa46cb2a1cfcc1b323]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/nia/2008/13/section/29/1) omitted (16.7.2015) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 38(5)](https://www.legislation.gov.uk/nia/2015/5/section/38/5), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/d)
+[^c-88ae026a21319faa46cb2a1cfcc1b323]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/nia/2008/13/section/29/1) omitted (16.7.2015) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 38(5)](https://www.legislation.gov.uk/nia/2015/5/section/38/5), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/d)
 
-[^key-1b175da344a1869f77fa80ad6c42630c]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/nia/2008/13/section/29/3) omitted (16.7.2015) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 38(5)](https://www.legislation.gov.uk/nia/2015/5/section/38/5), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/d)
+[^c-1b175da344a1869f77fa80ad6c42630c]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/nia/2008/13/section/29/3) omitted (16.7.2015) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 38(5)](https://www.legislation.gov.uk/nia/2015/5/section/38/5), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/d)

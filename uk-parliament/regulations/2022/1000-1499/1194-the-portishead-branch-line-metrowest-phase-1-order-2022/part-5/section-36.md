@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Set-off for enhancement in value of retained land[^key-00678681aad011e83079ed6eea7dee1d]
+## 36. Set-off for enhancement in value of retained land[^c-00678681aad011e83079ed6eea7dee1d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-00678681aad011e83079ed6eea7dee1d]: Commencement: Art. 36 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-00678681aad011e83079ed6eea7dee1d]: Commencement: Art. 36 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

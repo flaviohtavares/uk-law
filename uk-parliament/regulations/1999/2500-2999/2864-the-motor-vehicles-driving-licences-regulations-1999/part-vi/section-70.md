@@ -23,7 +23,7 @@ summary: ''
 (1) In this Part of these Regulations—
 
 - “Group 1 licence" means a licence in so far as it authorises its holder to drive classes of motor vehicle included in—
-  - (a) categories AM, A, B, B+E, F, G, H, K and L,[^key-f7cb8ff28d8eb5ba73fd22e8fc23e423]
+  - (a) categories AM, A, B, B+E, F, G, H, K and L,[^c-f7cb8ff28d8eb5ba73fd22e8fc23e423]
   - (b) the former category N,
 - “Group 2 licence" means, subject to paragraphs (2) and (3), a licence in so far as it authorises its holder to drive classes of motor vehicle included in any other category, and
 - “licence" includes, unless the context otherwise requires, a Northern Ireland licence and a Community licence.
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7cb8ff28d8eb5ba73fd22e8fc23e423]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/70/1) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/42)
+[^c-f7cb8ff28d8eb5ba73fd22e8fc23e423]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/70/1) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/42)

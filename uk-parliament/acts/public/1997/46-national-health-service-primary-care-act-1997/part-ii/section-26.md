@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1)[^key-c9561c6d5aa4714e4cb0e2a864532acf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c9561c6d5aa4714e4cb0e2a864532acf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the 1978 Act, after section 70, insert—
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9561c6d5aa4714e4cb0e2a864532acf]: Textual amendment: [S. 26(1)](https://www.legislation.gov.uk/ukpga/1997/46/section/26/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-c9561c6d5aa4714e4cb0e2a864532acf]: Textual amendment: [S. 26(1)](https://www.legislation.gov.uk/ukpga/1997/46/section/26/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

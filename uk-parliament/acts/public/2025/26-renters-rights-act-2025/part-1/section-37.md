@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Terms in mortgages relating to children or benefits status[^key-abf605ff91a7df6d8566e77a8394a85b][^key-4c723135aab58dc60e2f3ae4c7b74e1c]
+## 37. Terms in mortgages relating to children or benefits status[^c-abf605ff91a7df6d8566e77a8394a85b][^c-4c723135aab58dc60e2f3ae4c7b74e1c]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abf605ff91a7df6d8566e77a8394a85b]: Commencement: S. 37 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-abf605ff91a7df6d8566e77a8394a85b]: Commencement: S. 37 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4c723135aab58dc60e2f3ae4c7b74e1c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/26/section/37) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-4c723135aab58dc60e2f3ae4c7b74e1c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/26/section/37) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

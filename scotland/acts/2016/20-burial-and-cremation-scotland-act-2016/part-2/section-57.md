@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Cremation register[^key-74bb2fcc8be1362df79e0d2c4a5f1b9d]
+## 57. Cremation register[^c-74bb2fcc8be1362df79e0d2c4a5f1b9d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74bb2fcc8be1362df79e0d2c4a5f1b9d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2016/20/section/57) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 6](https://www.legislation.gov.uk/ssi/2018/380/regulation/6), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-74bb2fcc8be1362df79e0d2c4a5f1b9d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2016/20/section/57) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 6](https://www.legislation.gov.uk/ssi/2018/380/regulation/6), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

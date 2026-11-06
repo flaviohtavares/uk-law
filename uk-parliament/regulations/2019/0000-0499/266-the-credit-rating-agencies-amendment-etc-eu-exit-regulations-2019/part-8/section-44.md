@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. FCA's response[^key-9a4c30142e2af3faaf5f46ba1b57a211]
+## 44. FCA's response[^c-9a4c30142e2af3faaf5f46ba1b57a211]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The FCA must, before the end of a period of 20 working days beginning with the d
 
 ## Annotations
 
-[^key-9a4c30142e2af3faaf5f46ba1b57a211]: Commencement: Reg. 44 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-9a4c30142e2af3faaf5f46ba1b57a211]: Commencement: Reg. 44 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Reports on reviews[^c18941581][^key-ff27e241070deec98d9325b19d19008d][^key-815d06b6a2d58d404528f95ed77ca32e]
+## 112. Reports on reviews[^c18941581][^c-ff27e241070deec98d9325b19d19008d][^c-815d06b6a2d58d404528f95ed77ca32e]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c18941581]: Modification: S. 112 applied (3.4.2006) by [The Judicial Discipline (Prescribed Procedures) Regulations 2006 (S.I. 2006/676)](https://www.legislation.gov.uk/uksi/2006/676), [reg. 44](https://www.legislation.gov.uk/uksi/2006/676/regulation/44) (with [reg. 45](https://www.legislation.gov.uk/uksi/2006/676/regulation/45))
 
-[^key-ff27e241070deec98d9325b19d19008d]: Modification: [Ss. 110-113](https://www.legislation.gov.uk/ukpga/2005/4/section/110) applied (with modifications) (18.8.2014) by [The Judicial Discipline (Prescribed Procedures) Regulations 2014 (S.I. 2014/1919)](https://www.legislation.gov.uk/uksi/2014/1919), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1919/regulation/1), [22](https://www.legislation.gov.uk/uksi/2014/1919/regulation/22) (with [reg. 24](https://www.legislation.gov.uk/uksi/2014/1919/regulation/24))
+[^c-ff27e241070deec98d9325b19d19008d]: Modification: [Ss. 110-113](https://www.legislation.gov.uk/ukpga/2005/4/section/110) applied (with modifications) (18.8.2014) by [The Judicial Discipline (Prescribed Procedures) Regulations 2014 (S.I. 2014/1919)](https://www.legislation.gov.uk/uksi/2014/1919), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1919/regulation/1), [22](https://www.legislation.gov.uk/uksi/2014/1919/regulation/22) (with [reg. 24](https://www.legislation.gov.uk/uksi/2014/1919/regulation/24))
 
-[^key-815d06b6a2d58d404528f95ed77ca32e]: Modification: [Ss. 110-113](https://www.legislation.gov.uk/ukpga/2005/4/section/110) applied (with modifications) (13.10.2023) by [The Judicial Discipline (Prescribed Procedures) Regulations 2023 (S.I. 2023/1005)](https://www.legislation.gov.uk/uksi/2023/1005), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1005/regulation/1), [21](https://www.legislation.gov.uk/uksi/2023/1005/regulation/21) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1005/regulation/3))
+[^c-815d06b6a2d58d404528f95ed77ca32e]: Modification: [Ss. 110-113](https://www.legislation.gov.uk/ukpga/2005/4/section/110) applied (with modifications) (13.10.2023) by [The Judicial Discipline (Prescribed Procedures) Regulations 2023 (S.I. 2023/1005)](https://www.legislation.gov.uk/uksi/2023/1005), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1005/regulation/1), [21](https://www.legislation.gov.uk/uksi/2023/1005/regulation/21) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1005/regulation/3))

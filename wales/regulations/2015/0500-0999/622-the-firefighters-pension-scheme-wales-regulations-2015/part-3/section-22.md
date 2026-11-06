@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Automatic re-enrolment[^key-ae75cee641457029ec8e207ca0be44e7]
+## 22. Automatic re-enrolment[^c-ae75cee641457029ec8e207ca0be44e7]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae75cee641457029ec8e207ca0be44e7]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-ae75cee641457029ec8e207ca0be44e7]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00050]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30).

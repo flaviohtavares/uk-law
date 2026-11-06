@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 385. Other general functions of OFCOM in relation to media mergers[^key-294bcc06178b23d915d7806996532bae]
+## 385. Other general functions of OFCOM in relation to media mergers[^c-294bcc06178b23d915d7806996532bae]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ After section 119 of the Enterprise Act 2002 (c. 40) there shall be inserted—
 
 ## Annotations
 
-[^key-294bcc06178b23d915d7806996532bae]: Commencement: S. 385 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-294bcc06178b23d915d7806996532bae]: Commencement: S. 385 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

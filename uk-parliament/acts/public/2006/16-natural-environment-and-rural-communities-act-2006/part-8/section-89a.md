@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Identification and traceability of animals[^key-87c91b5f002a9eb3bec0a4b60abdb83e]
+## 89A. Identification and traceability of animals[^c-87c91b5f002a9eb3bec0a4b60abdb83e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c91b5f002a9eb3bec0a4b60abdb83e]: Textual amendment: [S. 89A](https://www.legislation.gov.uk/ukpga/2006/16/section/89A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 34(1)](https://www.legislation.gov.uk/ukpga/2020/21/section/34/1), [57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6)
+[^c-87c91b5f002a9eb3bec0a4b60abdb83e]: Textual amendment: [S. 89A](https://www.legislation.gov.uk/ukpga/2006/16/section/89A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 34(1)](https://www.legislation.gov.uk/ukpga/2020/21/section/34/1), [57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6)

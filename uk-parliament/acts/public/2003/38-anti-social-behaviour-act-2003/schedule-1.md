@@ -22,7 +22,7 @@ summary: ''
 
 Section 14
 
-**1.**[^key-07e19125734ab6fe7b1116e6c835d82e][^key-32497803aba14ab584221e21b1b815f7][^key-c5bd8fd54f4988a3f15072df408d2856] In the Housing Act 1996 (c. 52) after section 143 the following sections are inserted as Chapter 1A of Part 5—
+**1.**[^c-07e19125734ab6fe7b1116e6c835d82e][^c-32497803aba14ab584221e21b1b815f7][^c-c5bd8fd54f4988a3f15072df408d2856] In the Housing Act 1996 (c. 52) after section 143 the following sections are inserted as Chapter 1A of Part 5—
 
 > **General provisions**
 >
@@ -338,7 +338,7 @@ Section 14
 > - (b) a relationship of the half-blood must be treated as a relationship of the whole blood;
 > - (c) a stepchild of a person must be treated as his child.
 
-**2.**[^key-88dcac47ea866d8152c387e9449c796e][^key-28282531eb6581f030d8a9abe5f7b1c9][^key-543e3531b0894bb44cae858495a961c2] (1) The Housing Act 1985 (c. 68) is amended as follows.
+**2.**[^c-88dcac47ea866d8152c387e9449c796e][^c-28282531eb6581f030d8a9abe5f7b1c9][^c-543e3531b0894bb44cae858495a961c2] (1) The Housing Act 1985 (c. 68) is amended as follows.
 
 (2) In section 105 (requirement to consult secure tenants on certain housing management matters) after subsection (6) there is inserted the following subsection—
 
@@ -347,9 +347,9 @@ Section 14
 > - (a) secure tenants include demoted tenants within the meaning of section 143A of the Housing Act 1996;
 > - (b) secure tenancies include demoted tenancies within the meaning of that section.
 
-(3)[^key-58d28698461cc0940862b2a2a5da10f5] In section 171B (extent of preserved right to buy) after subsection (1) there is inserted the following subsection— *(affected by repeal, see note)*[^key-58d28698461cc0940862b2a2a5da10f5]
+(3)[^c-58d28698461cc0940862b2a2a5da10f5] In section 171B (extent of preserved right to buy) after subsection (1) there is inserted the following subsection— *(affected by repeal, see note)*[^c-58d28698461cc0940862b2a2a5da10f5]
 
-> (1A) A person to whom this section applies ceases to have the preserved right to buy if the tenancy of a relevant dwelling-house becomes a demoted tenancy by virtue of a demotion order under section 6A of the Housing Act 1988. *(affected by repeal, see note)*[^key-58d28698461cc0940862b2a2a5da10f5]
+> (1A) A person to whom this section applies ceases to have the preserved right to buy if the tenancy of a relevant dwelling-house becomes a demoted tenancy by virtue of a demotion order under section 6A of the Housing Act 1988. *(affected by repeal, see note)*[^c-58d28698461cc0940862b2a2a5da10f5]
 
 (4) In Schedule 1 (tenancies which are not secure tenancies) after paragraph 1A (introductory tenancies) there is inserted the following paragraph—
 
@@ -361,16 +361,16 @@ Section 14
 
 ## Annotations
 
-[^key-07e19125734ab6fe7b1116e6c835d82e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1) in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/iii)
+[^c-07e19125734ab6fe7b1116e6c835d82e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1) in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/iii)
 
-[^key-32497803aba14ab584221e21b1b815f7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1) in force at 30.9.2004 for specified purposes for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/wsi/2004/2557), [art. 2(a)(ii)](https://www.legislation.gov.uk/wsi/2004/2557/article/2/a/ii)
+[^c-32497803aba14ab584221e21b1b815f7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1) in force at 30.9.2004 for specified purposes for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/wsi/2004/2557), [art. 2(a)(ii)](https://www.legislation.gov.uk/wsi/2004/2557/article/2/a/ii)
 
-[^key-c5bd8fd54f4988a3f15072df408d2856]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1) in force at 30.4.2005 for W. insofar as not already in force by [S.I. 2005/1225](https://www.legislation.gov.uk/wsi/2005/1225), [art. 2(b)](https://www.legislation.gov.uk/wsi/2005/1225/article/2/b)
+[^c-c5bd8fd54f4988a3f15072df408d2856]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/38/schedule/1/paragraph/1) in force at 30.4.2005 for W. insofar as not already in force by [S.I. 2005/1225](https://www.legislation.gov.uk/wsi/2005/1225), [art. 2(b)](https://www.legislation.gov.uk/wsi/2005/1225/article/2/b)
 
-[^key-88dcac47ea866d8152c387e9449c796e]: Commencement: Sch. 1 para. 2 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/iii)
+[^c-88dcac47ea866d8152c387e9449c796e]: Commencement: Sch. 1 para. 2 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/iii)
 
-[^key-28282531eb6581f030d8a9abe5f7b1c9]: Commencement: Sch. 1 para. 2 in force at 30.9.2004 for specified purposes for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/wsi/2004/2557), [art. 2(a)(ii)](https://www.legislation.gov.uk/wsi/2004/2557/article/2/a/ii)
+[^c-28282531eb6581f030d8a9abe5f7b1c9]: Commencement: Sch. 1 para. 2 in force at 30.9.2004 for specified purposes for W. by [S.I. 2004/2557](https://www.legislation.gov.uk/wsi/2004/2557), [art. 2(a)(ii)](https://www.legislation.gov.uk/wsi/2004/2557/article/2/a/ii)
 
-[^key-543e3531b0894bb44cae858495a961c2]: Commencement: Sch. 1 para. 2 in force at 30.4.2005 for W. insofar as not already in force by [S.I. 2005/1225](https://www.legislation.gov.uk/wsi/2005/1225), [art. 2(b)](https://www.legislation.gov.uk/wsi/2005/1225/article/2/b)
+[^c-543e3531b0894bb44cae858495a961c2]: Commencement: Sch. 1 para. 2 in force at 30.4.2005 for W. insofar as not already in force by [S.I. 2005/1225](https://www.legislation.gov.uk/wsi/2005/1225), [art. 2(b)](https://www.legislation.gov.uk/wsi/2005/1225/article/2/b)
 
-[^key-58d28698461cc0940862b2a2a5da10f5]: Textual amendment: Sch. 1 para. 2(3) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 60(c)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/60/c) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-58d28698461cc0940862b2a2a5da10f5]: Textual amendment: Sch. 1 para. 2(3) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 60(c)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/60/c) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)

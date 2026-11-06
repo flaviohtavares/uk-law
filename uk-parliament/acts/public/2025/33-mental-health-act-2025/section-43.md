@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Information for conditionally discharged patients[^key-e24cc7e55f148ef6d4d0438ce32fc245]
+## 43. Information for conditionally discharged patients[^c-e24cc7e55f148ef6d4d0438ce32fc245]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ After section 132A of the Mental Health Act 1983 insert—
 
 ## Annotations
 
-[^key-e24cc7e55f148ef6d4d0438ce32fc245]: Commencement: S. 43 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-e24cc7e55f148ef6d4d0438ce32fc245]: Commencement: S. 43 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Appointments to regulatory bodies[^key-9e1bee42329183071e8d465a21478318]
+## 227. Appointments to regulatory bodies[^c-9e1bee42329183071e8d465a21478318]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ After section 25B of the National Health Service Reform and Health Care Professi
 
 ## Annotations
 
-[^key-9e1bee42329183071e8d465a21478318]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2012/7/section/227) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1319/article/3))
+[^c-9e1bee42329183071e8d465a21478318]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2012/7/section/227) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/1319/article/3))

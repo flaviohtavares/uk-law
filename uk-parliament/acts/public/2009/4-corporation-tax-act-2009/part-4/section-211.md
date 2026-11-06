@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8a4454990ec1078af2e7799f41568f89] The profits of a property business are calculated without regard to items giving rise to—
+(1)[^c-8a4454990ec1078af2e7799f41568f89] The profits of a property business are calculated without regard to items giving rise to—
 
 - (a) credits or debits within Part 5 (loan relationships), or
 - (b) credits or debits within Part 7 (derivative contracts).
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a4454990ec1078af2e7799f41568f89]: Modification: S. 211(1) restricted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 599(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/599/3), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8a4454990ec1078af2e7799f41568f89]: Modification: S. 211(1) restricted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 599(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/599/3), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

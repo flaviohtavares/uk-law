@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Increase in rate of certain workmen’s compensation in respect of employment before 5th July 1948[^key-42607c0dcc2b47dc030b901178d4507d]
+## 7. Increase in rate of certain workmen’s compensation in respect of employment before 5th July 1948[^c-42607c0dcc2b47dc030b901178d4507d]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ In paragraph 2(6)(c) of Schedule 8 to the Contributions and Benefits Act[^f00015
 
 ## Annotations
 
-[^key-42607c0dcc2b47dc030b901178d4507d]: Commencement: Art. 7 in operation at 10.4.1996, see [art. 1(1)(f)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/f)
+[^c-42607c0dcc2b47dc030b901178d4507d]: Commencement: Art. 7 in operation at 10.4.1996, see [art. 1(1)(f)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/f)
 
 [^f00015]: Footnote: Paragraph 2(6)(c) was amended by Article 7 of [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

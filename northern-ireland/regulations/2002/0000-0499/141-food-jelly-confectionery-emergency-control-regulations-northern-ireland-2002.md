@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Jelly Confectionery) (Emergency Control) Regulations (Northern Ireland) 2002 (revoked)[^key-8c4f5d0e35e342f6838b6eeab5c302a2]
+Food (Jelly Confectionery) (Emergency Control) Regulations (Northern Ireland) 2002 (revoked)[^c-8c4f5d0e35e342f6838b6eeab5c302a2]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 11th April 2002
 
-[^key-8c4f5d0e35e342f6838b6eeab5c302a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c4f5d0e35e342f6838b6eeab5c302a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8c4f5d0e35e342f6838b6eeab5c302a2]
+## 1. Citation and commencement[^c-8c4f5d0e35e342f6838b6eeab5c302a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8c4f5d0e35e342f6838b6eeab5c302a2]
+## 2. Interpretation[^c-8c4f5d0e35e342f6838b6eeab5c302a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions[^key-8c4f5d0e35e342f6838b6eeab5c302a2]
+## 3. Prohibitions[^c-8c4f5d0e35e342f6838b6eeab5c302a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-8c4f5d0e35e342f6838b6eeab5c302a2]
+## 4. Enforcement[^c-8c4f5d0e35e342f6838b6eeab5c302a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Order[^key-8c4f5d0e35e342f6838b6eeab5c302a2]
+## 5. Application of various provisions of the Order[^c-8c4f5d0e35e342f6838b6eeab5c302a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c4f5d0e35e342f6838b6eeab5c302a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c4f5d0e35e342f6838b6eeab5c302a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8c4f5d0e35e342f6838b6eeab5c302a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c4f5d0e35e342f6838b6eeab5c302a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c4f5d0e35e342f6838b6eeab5c302a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/141) revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/417)](https://www.legislation.gov.uk/nisr/2009/417), [regs. 1](https://www.legislation.gov.uk/nisr/2009/417/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/417/regulation/6)
+[^c-8c4f5d0e35e342f6838b6eeab5c302a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/141) revoked (20.1.2010) by [The Food (Jelly Mini-Cups) (Emergency Control) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/417)](https://www.legislation.gov.uk/nisr/2009/417), [regs. 1](https://www.legislation.gov.uk/nisr/2009/417/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/417/regulation/6)

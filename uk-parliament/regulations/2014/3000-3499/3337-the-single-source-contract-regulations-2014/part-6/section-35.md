@@ -53,8 +53,8 @@ summary: ''
 (8) If a QBU estimated cost analysis report (regulation 37) was required for the QBU in relation to the financial year immediately preceding the relevant financial year, the report must contain—
 
 - (a) the costs analysis information as estimated in the previous report; and
-- (b) an explanation of any material[^key-e1e9c33e7ed2854b3f80d96da9a93396] difference between the costs analysis information as estimated in the previous report and the costs analysis information in this report.
+- (b) an explanation of any material[^c-e1e9c33e7ed2854b3f80d96da9a93396] difference between the costs analysis information as estimated in the previous report and the costs analysis information in this report.
 
 ## Annotations
 
-[^key-e1e9c33e7ed2854b3f80d96da9a93396]: Textual amendment: Word in [reg. 35(8)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/35/8/b) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/1106/regulation/13)
+[^c-e1e9c33e7ed2854b3f80d96da9a93396]: Textual amendment: Word in [reg. 35(8)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/35/8/b) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/1106/regulation/13)

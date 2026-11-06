@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. When a child or young person has special educational needs[^key-e263e992f2aa9851f5a3c50c3fa92ff8]
+## 20. When a child or young person has special educational needs[^c-e263e992f2aa9851f5a3c50c3fa92ff8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e263e992f2aa9851f5a3c50c3fa92ff8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/6/section/20) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-e263e992f2aa9851f5a3c50c3fa92ff8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/6/section/20) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

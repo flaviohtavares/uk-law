@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-69d78d0a99230c134383cb7ab97a1471]
+## 7.[^c-69d78d0a99230c134383cb7ab97a1471]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69d78d0a99230c134383cb7ab97a1471]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1980/48/section/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-69d78d0a99230c134383cb7ab97a1471]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1980/48/section/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)

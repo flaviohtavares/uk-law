@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amendments to Part 3 (form and content of group accounts)[^key-cda01d7361c62ff4a524cf8da099c67c]
+## 33. Amendments to Part 3 (form and content of group accounts)[^c-cda01d7361c62ff4a524cf8da099c67c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 6 (non-IAS group accounts), in the modified form of regulation 8 o
 
 ## Annotations
 
-[^key-cda01d7361c62ff4a524cf8da099c67c]: Commencement: Reg. 33 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-cda01d7361c62ff4a524cf8da099c67c]: Commencement: Reg. 33 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Interpretation[^key-ca402fbe45f1150a0020c59f09ab1df7]
+## 98. Interpretation[^c-ca402fbe45f1150a0020c59f09ab1df7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca402fbe45f1150a0020c59f09ab1df7]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2014/2336/regulation/98) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-ca402fbe45f1150a0020c59f09ab1df7]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2014/2336/regulation/98) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

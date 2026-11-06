@@ -38,30 +38,30 @@ providing for a derogation from Article 13(1)(ii) of Council Directive 2000/29/E
 
 (2013/780/EU) (revoked)
 
-[^key-643c72d6b465a7026b42c2a786cff3dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-643c72d6b465a7026b42c2a786cff3dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-643c72d6b465a7026b42c2a786cff3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-643c72d6b465a7026b42c2a786cff3dc]
+## ANNEX[^c-643c72d6b465a7026b42c2a786cff3dc]
 
-### PART I — Conditions referred to in Article 1[^key-643c72d6b465a7026b42c2a786cff3dc]
+### PART I — Conditions referred to in Article 1[^c-643c72d6b465a7026b42c2a786cff3dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Model of Certificate of Kiln Drying[^key-643c72d6b465a7026b42c2a786cff3dc]
+### PART II — Model of Certificate of Kiln Drying[^c-643c72d6b465a7026b42c2a786cff3dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-643c72d6b465a7026b42c2a786cff3dc]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/17) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-643c72d6b465a7026b42c2a786cff3dc]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/17) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-861d333c4eea67ab1629d74132f91bef]
+## 23. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-861d333c4eea67ab1629d74132f91bef]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-861d333c4eea67ab1629d74132f91bef]: Commencement: Art. 23 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-861d333c4eea67ab1629d74132f91bef]: Commencement: Art. 23 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

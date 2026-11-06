@@ -46,13 +46,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 Having consulted the Disabled Persons Transport Advisory Committee[^f00002] in accordance with section 67A(1)[^f00003] of that Act, the Secretary of State has decided that the Parliamentary procedure to be adopted is that a draft statutory instrument containing the order will be laid before Parliament for approval by each House of Parliament.
 
-In accordance with section 67(5A)[^f00004] of that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-0ce02f770610fd720f3a8141400d56bc]
+In accordance with section 67(5A)[^f00004] of that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-0ce02f770610fd720f3a8141400d56bc]
 
-## 1. Citation and commencement[^key-1a59fccc5409346b6a81f7e6e20d43e4]
+## 1. Citation and commencement[^c-1a59fccc5409346b6a81f7e6e20d43e4]
 
 This Order may be cited as the Rail Vehicle Accessibility (Networks) Exemption Order 2010 and comes into force on the fifteenth day after the day on which it is made.
 
-## 2. Interpretation[^key-38d2d3a0dc5137f333e37178f4ff1f83]
+## 2. Interpretation[^c-38d2d3a0dc5137f333e37178f4ff1f83]
 
 In this Order—
 
@@ -65,7 +65,7 @@ In this Order—
 - “quarry” has the same meaning as in regulation 3 of the Quarries Regulations 1999[^f00007];
 - “traffic day” means a period of 24 hours starting at 3am.
 
-## 3. Authorised use of heritage or tourist rail vehicles[^key-cda3fa66d4ba487f6ed43ebe17612006]
+## 3. Authorised use of heritage or tourist rail vehicles[^c-cda3fa66d4ba487f6ed43ebe17612006]
 
 (1) A rail vehicle first brought into use before 1st January 1999 is authorised to be used for carriage as indicated in paragraph (2) even though—
 
@@ -99,7 +99,7 @@ but this is subject to paragraphs (3) and (4).
 
   when it is used for carriage on the first of the 20 permitted traffic days in a calendar year it is being used for the first time after being restored.
 
-## 4. Authorised use of rail vehicles on a miscellaneous network[^key-7e21792ba5741d7c6d35eb34bd6a4649]
+## 4. Authorised use of rail vehicles on a miscellaneous network[^c-7e21792ba5741d7c6d35eb34bd6a4649]
 
 (1) A rail vehicle is authorised to be used for carriage as indicated in paragraph (2) even though—
 
@@ -138,7 +138,7 @@ Department for Transport
 
 22nd March 2010
 
-## SCHEDULE — Heritage or Tourist Networks[^key-75e74f2bd8981db888c6a7dd0c257bc7]
+## SCHEDULE — Heritage or Tourist Networks[^c-75e74f2bd8981db888c6a7dd0c257bc7]
 
 Article 2
 
@@ -418,11 +418,11 @@ An impact assessment has not been produced for this instrument because no additi
 
 [^f00004]: Footnote: Section 67(5A) was inserted by section 19(1) and Schedule 1, Part 1, paragraph 33(5) of the Disability Discrimination Act 2005.
 
-[^key-0ce02f770610fd720f3a8141400d56bc]: Modification: [Order](https://www.legislation.gov.uk/uksi/2010/904) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+[^c-0ce02f770610fd720f3a8141400d56bc]: Modification: [Order](https://www.legislation.gov.uk/uksi/2010/904) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
 
-[^key-1a59fccc5409346b6a81f7e6e20d43e4]: Commencement: Art. 1 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
+[^c-1a59fccc5409346b6a81f7e6e20d43e4]: Commencement: Art. 1 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
 
-[^key-38d2d3a0dc5137f333e37178f4ff1f83]: Commencement: Art. 2 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
+[^c-38d2d3a0dc5137f333e37178f4ff1f83]: Commencement: Art. 2 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
 
 [^f00005]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70); see section 180 which was amended by [S.I. 1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), [1993/1897](https://www.legislation.gov.uk/uksi/1993/1897) and [1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).
 
@@ -430,10 +430,10 @@ An impact assessment has not been produced for this instrument because no additi
 
 [^f00007]: Footnote: [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024), to which there are amendments not relevant to this Order; see regulation 3. Regulation 3(2)(c) provides that “quarry” does not include certain types of railway line.
 
-[^key-cda3fa66d4ba487f6ed43ebe17612006]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
+[^c-cda3fa66d4ba487f6ed43ebe17612006]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
 
 [^f00008]: Footnote: “rail vehicle accessibility regulations” is defined in section 68(1) of the Disability Discrimination Act 1995.
 
-[^key-7e21792ba5741d7c6d35eb34bd6a4649]: Commencement: Art. 4 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
+[^c-7e21792ba5741d7c6d35eb34bd6a4649]: Commencement: Art. 4 in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
 
-[^key-75e74f2bd8981db888c6a7dd0c257bc7]: Commencement: Sch. in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)
+[^c-75e74f2bd8981db888c6a7dd0c257bc7]: Commencement: Sch. in force at 6.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/904/article/1)

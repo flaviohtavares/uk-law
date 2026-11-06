@@ -26,7 +26,7 @@ Section 42
 
 #### Requests for extradition of persons unlawfully at large
 
-**1.**[^key-4c3b0a5c75f226d8aa4a76e2bf08359c] (1) In section 2 (Part 1 warrant and certificate), in subsection (5)(a), for “is alleged to be unlawfully at large after conviction” there is substituted “ has been convicted ”.
+**1.**[^c-4c3b0a5c75f226d8aa4a76e2bf08359c] (1) In section 2 (Part 1 warrant and certificate), in subsection (5)(a), for “is alleged to be unlawfully at large after conviction” there is substituted “ has been convicted ”.
 
 (2) In section 70 (request and certificate for extradition to category 2 territory)—
 
@@ -45,7 +45,7 @@ Section 42
 
 (3) In section 142 (issue of Part 3 warrant), in subsection (5)(a), for “is alleged to be unlawfully at large after conviction” there is substituted “ has been convicted ”.
 
-**2.**[^key-79ad9302e28e114b130178e21b4422b6] (1) In section 14 (passage of time), for the words from “since” to the end there is substituted
+**2.**[^c-79ad9302e28e114b130178e21b4422b6] (1) In section 14 (passage of time), for the words from “since” to the end there is substituted
 
 > since he is alleged to have—
 >
@@ -102,7 +102,7 @@ Section 42
 
 #### Restriction on extradition following transfer from International Criminal Court
 
-**3.**[^key-0b90d0f0f0dde1652d33d3205d8355f4] (1) In section 11 (bars to extradition)—
+**3.**[^c-0b90d0f0f0dde1652d33d3205d8355f4] (1) In section 11 (bars to extradition)—
 
 - (a) after paragraph (h) of subsection (1) there is inserted—
 
@@ -145,21 +145,21 @@ Section 42
 > - (a) remained voluntarily in the United Kingdom for more than 30 days, or
 > - (b) left the United Kingdom and returned to it.
 
-#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2e8170145f2f0ffca400264bd5c8783e]
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2e8170145f2f0ffca400264bd5c8783e]
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-2e8170145f2f0ffca400264bd5c8783e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2e8170145f2f0ffca400264bd5c8783e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-2e8170145f2f0ffca400264bd5c8783e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2e8170145f2f0ffca400264bd5c8783e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2e8170145f2f0ffca400264bd5c8783e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2e8170145f2f0ffca400264bd5c8783e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Remand of person serving sentence in United Kingdom
 
-**7.**[^key-30f60384f9b4c6c1e50ea0c975180aec] In sections 23 and 89 (person serving sentence in United Kingdom), after subsection (2) there is inserted—
+**7.**[^c-30f60384f9b4c6c1e50ea0c975180aec] In sections 23 and 89 (person serving sentence in United Kingdom), after subsection (2) there is inserted—
 
 > (3) In a case where an extradition hearing is adjourned under subsection (2)—
 >
@@ -172,7 +172,7 @@ Section 42
 
 #### Remands in connection with appeal proceedings
 
-**8.**[^key-38b5ebdbb1abe6ed8811b8b19bfa47bb] (1) In section 29 (court's powers on appeal under section 28), after subsection (6) there is inserted—
+**8.**[^c-38b5ebdbb1abe6ed8811b8b19bfa47bb] (1) In section 29 (court's powers on appeal under section 28), after subsection (6) there is inserted—
 
 > (7) If the court allows the appeal it must remand the person in custody or on bail.
 >
@@ -325,7 +325,7 @@ Section 42
 
 #### Time for extradition
 
-**9.**[^key-0d8f376b681f43f90a08386cf2454dd4] (1) In section 35 (extradition where no appeal), in paragraph (a) of subsection (4) (period within which person must be extradited), for “the day on which the judge makes the order” there is substituted “ the first day after the period permitted under section 26 for giving notice of appeal against the judge's order ”.
+**9.**[^c-0d8f376b681f43f90a08386cf2454dd4] (1) In section 35 (extradition where no appeal), in paragraph (a) of subsection (4) (period within which person must be extradited), for “the day on which the judge makes the order” there is substituted “ the first day after the period permitted under section 26 for giving notice of appeal against the judge's order ”.
 
 (2) In section 37 (undertaking in relation to person serving sentence in United Kingdom), after paragraph (b) of subsection (8) there is inserted— “ Paragraph (a) applies only if the day mentioned in that paragraph is later than the day mentioned in section 35(4)(a). ”
 
@@ -333,7 +333,7 @@ Section 42
 
 #### Extradition of person serving sentence in United Kingdom
 
-**10.**[^key-298d45aeec3eddfcb2e0c9122477333d] (1) Section 37 (undertaking in relation to person serving sentence in United Kingdom) is amended as follows.
+**10.**[^c-298d45aeec3eddfcb2e0c9122477333d] (1) Section 37 (undertaking in relation to person serving sentence in United Kingdom) is amended as follows.
 
 (2) In subsection (1), at the end of paragraph (b) there is inserted
 
@@ -353,7 +353,7 @@ Section 42
 > - (a) the offence, and
 > - (b) any other offence in respect of which he is permitted to be dealt with in the category 1 territory.
 
-**11.**[^key-b2950f1a42ed1a97e31c4b5991a1418f] (1) Section 52 (undertaking in relation to person serving sentence in consent cases) is amended as follows.
+**11.**[^c-b2950f1a42ed1a97e31c4b5991a1418f] (1) Section 52 (undertaking in relation to person serving sentence in consent cases) is amended as follows.
 
 (2) In subsection (1), at the end of paragraph (b) there is inserted
 
@@ -373,11 +373,11 @@ Section 42
 > - (a) the offence, and
 > - (b) any other offence in respect of which he is permitted to be dealt with in the category 1 territory.
 
-**12.**[^key-2acef2df734a8378a72e505332518463] In section 59 (return of person to serve remainder of sentence), after paragraph (b) of subsection (1) there is inserted—
+**12.**[^c-2acef2df734a8378a72e505332518463] In section 59 (return of person to serve remainder of sentence), after paragraph (b) of subsection (1) there is inserted—
 
 > - (c) the person is not yet entitled to be released from detention pursuant to his sentence (whether on licence or otherwise).
 
-**13.**[^key-25815afa016df8a9c977d2439e43c864] (1) Section 119 (undertaking in relation to person serving sentence in United Kingdom) is amended as follows.
+**13.**[^c-25815afa016df8a9c977d2439e43c864] (1) Section 119 (undertaking in relation to person serving sentence in United Kingdom) is amended as follows.
 
 (2) In subsection (1), at the end of paragraph (b) there is inserted
 
@@ -397,13 +397,13 @@ Section 42
 > - (a) the offence, and
 > - (b) any other offence in respect of which he is permitted to be dealt with in the category 2 territory.
 
-**14.**[^key-d6c74c93f9da715eac7c291cf64564c6] In section 132 (return of person to serve remainder of sentence), after paragraph (b) of subsection (1) there is inserted—
+**14.**[^c-d6c74c93f9da715eac7c291cf64564c6] In section 132 (return of person to serve remainder of sentence), after paragraph (b) of subsection (1) there is inserted—
 
 > - (c) the person is not yet entitled to be released from detention pursuant to his sentence (whether on licence or otherwise).
 
 #### “The appropriate judge”
 
-**15.**[^key-c0ac5181daa7dfd82da1406969842d11] (1) In sections 67 and 139 (the appropriate judge), after subsection (3) there is inserted—
+**15.**[^c-c0ac5181daa7dfd82da1406969842d11] (1) In sections 67 and 139 (the appropriate judge), after subsection (3) there is inserted—
 
 > (3A) The use of the expression “the judge” in a section containing a previous reference to “the appropriate judge” or “the judge” does not in itself require both references to be read as referring to the same individual.
 
@@ -411,7 +411,7 @@ Section 42
 
 > (10) Section 139 applies for the purposes of this section as it applies for the purposes of Part 2.
 
-**16.**[^key-9169c0cb738637388d3c9c666cc6983f] (1) In the provisions listed in sub-paragraph (2), for “If the judge remands the person in custody he may” there is substituted “ If the person is remanded in custody, the appropriate judge may ”.
+**16.**[^c-9169c0cb738637388d3c9c666cc6983f] (1) In the provisions listed in sub-paragraph (2), for “If the judge remands the person in custody he may” there is substituted “ If the person is remanded in custody, the appropriate judge may ”.
 
 (2) The provisions are—
 
@@ -438,7 +438,7 @@ Section 42
 
 #### Extradition to category 2 territories: requests and certificates
 
-**17.**[^key-7f82e9f9995be1e5081b3d8f7c78064c] (1) Section 70 (extradition request and certificate) is amended as follows.
+**17.**[^c-7f82e9f9995be1e5081b3d8f7c78064c] (1) Section 70 (extradition request and certificate) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -471,7 +471,7 @@ Section 42
 
 #### Time for representations and consideration of case under Part 2
 
-**18.**[^key-121cd05c65fc50c99268efbb1659b01e] (1) Section 93 (Secretary of State's consideration of case) is amended as follows.
+**18.**[^c-121cd05c65fc50c99268efbb1659b01e] (1) Section 93 (Secretary of State's consideration of case) is amended as follows.
 
 (2) In subsection (6) (length of permitted period for representations), for “6 weeks” there is substituted “ 4 weeks ”.
 
@@ -484,7 +484,7 @@ Section 42
 
 #### Applications for discharge or for extension of time limit
 
-**19.**[^key-1f52d072fbb9cdc6a6de3782e4cde449] (1) Section 99 (time limit for order for extradition or discharge) is amended as follows.
+**19.**[^c-1f52d072fbb9cdc6a6de3782e4cde449] (1) Section 99 (time limit for order for extradition or discharge) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -498,11 +498,11 @@ Section 42
 
 #### Scotland: references to Secretary of State
 
-**20.**[^key-b0ec4a56e58951f4dcb717512fa9904c] In section 141 (Scotland: references to Secretary of State), in subsection (2), after “Secretary of State” there is inserted “ in paragraph (b) of section 70(2), in paragraph (c) of section 93(4) and ”.
+**20.**[^c-b0ec4a56e58951f4dcb717512fa9904c] In section 141 (Scotland: references to Secretary of State), in subsection (2), after “Secretary of State” there is inserted “ in paragraph (b) of section 70(2), in paragraph (c) of section 93(4) and ”.
 
 #### Issue of Part 3 warrant: persons unlawfully at large who may be arrested without domestic warrant
 
-**21.**[^key-bbb1a1bb678f3b5292620f38cdd54e4a] (1) In section 142 (issue of Part 3 warrant), in subsection (1)(b), after “subsection (2)” there is inserted “ , or the condition in subsection (2A), ”.
+**21.**[^c-bbb1a1bb678f3b5292620f38cdd54e4a] (1) In section 142 (issue of Part 3 warrant), in subsection (1)(b), after “subsection (2)” there is inserted “ , or the condition in subsection (2A), ”.
 
 (2) For subsection (2) of that section there is substituted—
 
@@ -518,7 +518,7 @@ Section 42
 
 #### Issue of Part 3 warrant: domestic warrant issued at common law by judge in Northern Ireland
 
-**22.**[^key-8c972bfea03cf6cd58d43d934c8aaaa1] For subsection (8) of section 142 there is substituted—
+**22.**[^c-8c972bfea03cf6cd58d43d934c8aaaa1] For subsection (8) of section 142 there is substituted—
 
 > (8) A domestic warrant is a warrant for the arrest or apprehension of a person which is issued under any of the provisions referred to in subsection (8A), or at common law by a Crown Court judge in Northern Ireland.
 >
@@ -533,11 +533,11 @@ Section 42
 
 #### Dealing with person for pre-extradition offences following extradition to UK
 
-**23.**[^key-2414f7c68f6b236300f1d7bf22114a75] In section 146(3)(c) (consent of category 1 territory to person being dealt with for other offence), after “given on behalf of the territory” there is inserted “ in response to a request made by the appropriate judge ”.
+**23.**[^c-2414f7c68f6b236300f1d7bf22114a75] In section 146(3)(c) (consent of category 1 territory to person being dealt with for other offence), after “given on behalf of the territory” there is inserted “ in response to a request made by the appropriate judge ”.
 
 #### Extradition requests to territories not applying European framework decision to old cases
 
-**24.**[^key-61b2af3a576b9a545d8fcba6e43bbc7c] After section 155 there is inserted—
+**24.**[^c-61b2af3a576b9a545d8fcba6e43bbc7c] After section 155 there is inserted—
 
 > **155A. Category 1 territories not applying framework decision to old cases**
 >
@@ -560,7 +560,7 @@ Section 42
 
 #### Extradition of serving prisoner
 
-**25.**[^key-0783dc146740f14654d7b738c32f256a] After section 197 there is inserted—
+**25.**[^c-0783dc146740f14654d7b738c32f256a] After section 197 there is inserted—
 
 > **197A. Extradition of serving prisoner**
 >
@@ -568,7 +568,7 @@ Section 42
 
 #### Authentication of receivable documents
 
-**26.**[^key-c05aec29126b2418f3841bc2f0dde0f4] In section 202 (receivable documents), in subsection (4) (persons who may authenticate documents)—
+**26.**[^c-c05aec29126b2418f3841bc2f0dde0f4] In section 202 (receivable documents), in subsection (4) (persons who may authenticate documents)—
 
 - (a) in paragraph (a), for “other judicial authority” there is substituted “ officer ”;
 - (b) after that paragraph there is inserted—
@@ -581,7 +581,7 @@ Section 42
 
 #### Powers of High Court in relation to bail decisions by magistrates' court etc
 
-**27.**[^key-43c63cfcf8547fb65a3b9263e5b76957] (1) Section 22 of the Criminal Justice Act 1967 (c. 80) (power of High Court to grant, or vary conditions of, bail) is amended as follows.
+**27.**[^c-43c63cfcf8547fb65a3b9263e5b76957] (1) Section 22 of the Criminal Justice Act 1967 (c. 80) (power of High Court to grant, or vary conditions of, bail) is amended as follows.
 
 (2) After subsection (1) (application to grant bail etc where case stated to High Court) there is inserted—
 
@@ -589,9 +589,9 @@ Section 42
 
 (3) In subsection (4) (which defines certain terms used in section 22), after “ “bail in criminal proceedings”” there is inserted “ , “extradition proceedings” .
 
-**28.**[^key-d02bd0210f13b1075997bfec136a30a8] In section 1(1A) of the Bail (Amendment) Act 1993 (c. 26) (right of prosecution to appeal to Crown Court against granting of bail in extradition proceedings), for “a judge of the Crown Court” there is substituted “ the High Court ”.
+**28.**[^c-d02bd0210f13b1075997bfec136a30a8] In section 1(1A) of the Bail (Amendment) Act 1993 (c. 26) (right of prosecution to appeal to Crown Court against granting of bail in extradition proceedings), for “a judge of the Crown Court” there is substituted “ the High Court ”.
 
-**29.**[^key-ee70e3fbe0c9a55cfd6f20a4a0a213f2] (1) Section 10 of the Justice (Northern Ireland) Act 2004 (c. 4) (prosecution right of appeal against grant of bail by magistrates' court) is amended as follows.
+**29.**[^c-ee70e3fbe0c9a55cfd6f20a4a0a213f2] (1) Section 10 of the Justice (Northern Ireland) Act 2004 (c. 4) (prosecution right of appeal against grant of bail by magistrates' court) is amended as follows.
 
 (2) After subsection (1) there is inserted—
 
@@ -619,7 +619,7 @@ Section 42
 > - “magistrates' court” and “**court**”, in relation to extradition proceedings, mean a resident magistrate designated in accordance with section 67 or section 139 of the Extradition Act 2003;
 > - “**prosecution**”, in relation to extradition proceedings, means the person acting on behalf of the territory to which extradition is sought.
 
-**30.**[^key-d0a1570878c0faa60f72687d0b144fb8] After section 10 of the Justice (Northern Ireland) Act 2004 there is inserted—
+**30.**[^c-d0a1570878c0faa60f72687d0b144fb8] After section 10 of the Justice (Northern Ireland) Act 2004 there is inserted—
 
 > **10A. Prosecution right of appeal against grant of bail by county court judge in extradition proceedings**
 >
@@ -629,17 +629,17 @@ Section 42
 
 #### Credit against sentence for periods of remand in custody of persons extradited to UK
 
-**31.**[^key-84ce1379221a6ddd16b0c6ceb09fd2ce] In section 243 of the Criminal Justice Act 2003 (c. 44) (persons extradited to the United Kingdom), in subsection (1), after “imposed” there is inserted “ or he received that sentence ”.
+**31.**[^c-84ce1379221a6ddd16b0c6ceb09fd2ce] In section 243 of the Criminal Justice Act 2003 (c. 44) (persons extradited to the United Kingdom), in subsection (1), after “imposed” there is inserted “ or he received that sentence ”.
 
-**32.**[^key-4a53f6a6602ad34836000e723939b551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-4a53f6a6602ad34836000e723939b551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-48eb1bd94cf2a2ba7c173bafe3fff452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-48eb1bd94cf2a2ba7c173bafe3fff452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Amendments consequential on amendments in Part 1
 
-**34.**[^key-d6d23ba5661ee74d9944657b93fcd9ea] In section 4(2B) of the Bail Act 1976 (c. 63) (no right to bail in certain extradition proceedings), for “to be unlawfully at large after conviction” there is substituted “ to have been convicted ”.
+**34.**[^c-d6d23ba5661ee74d9944657b93fcd9ea] In section 4(2B) of the Bail Act 1976 (c. 63) (no right to bail in certain extradition proceedings), for “to be unlawfully at large after conviction” there is substituted “ to have been convicted ”.
 
-**35.**[^key-85245582270f21b561a85419e0486435] In paragraph 81(4) of Schedule 9 to the Constitutional Reform Act 2005 (c. 4) (amendments substituting “Supreme Court” for “House of Lords” in provisions of the Extradition Act 2003)—
+**35.**[^c-85245582270f21b561a85419e0486435] In paragraph 81(4) of Schedule 9 to the Constitutional Reform Act 2005 (c. 4) (amendments substituting “Supreme Court” for “House of Lords” in provisions of the Extradition Act 2003)—
 
 - (a) after paragraph (b) there is inserted—
 
@@ -654,68 +654,68 @@ Section 42
 
 ## Annotations
 
-[^key-4c3b0a5c75f226d8aa4a76e2bf08359c]: Commencement: Sch. 13 para. 1 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-4c3b0a5c75f226d8aa4a76e2bf08359c]: Commencement: Sch. 13 para. 1 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-79ad9302e28e114b130178e21b4422b6]: Commencement: Sch. 13 para. 2 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-79ad9302e28e114b130178e21b4422b6]: Commencement: Sch. 13 para. 2 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-0b90d0f0f0dde1652d33d3205d8355f4]: Commencement: Sch. 13 para. 3 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-0b90d0f0f0dde1652d33d3205d8355f4]: Commencement: Sch. 13 para. 3 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-2e8170145f2f0ffca400264bd5c8783e]: Textual amendment: [Sch. 13 paras. 4-6 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/part/1/crossheading/restriction-on-extradition-in-cases-where-trial-in-united-kingdom-more-appropriate) omitted (14.10.2013 for E.W.N.I., 17.9.2021 for S.) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/9); [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3); [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
+[^c-2e8170145f2f0ffca400264bd5c8783e]: Textual amendment: [Sch. 13 paras. 4-6 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/part/1/crossheading/restriction-on-extradition-in-cases-where-trial-in-united-kingdom-more-appropriate) omitted (14.10.2013 for E.W.N.I., 17.9.2021 for S.) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/9); [S.I. 2013/2349](https://www.legislation.gov.uk/uksi/2013/2349), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/2349/article/2/3); [S.I. 2021/1018](https://www.legislation.gov.uk/uksi/2021/1018), [art. 3](https://www.legislation.gov.uk/uksi/2021/1018/article/3)
 
-[^key-30f60384f9b4c6c1e50ea0c975180aec]: Commencement: Sch. 13 para. 7 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-30f60384f9b4c6c1e50ea0c975180aec]: Commencement: Sch. 13 para. 7 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-38b5ebdbb1abe6ed8811b8b19bfa47bb]: Commencement: Sch. 13 para. 8 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-38b5ebdbb1abe6ed8811b8b19bfa47bb]: Commencement: Sch. 13 para. 8 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-0d8f376b681f43f90a08386cf2454dd4]: Commencement: Sch. 13 para. 9 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-0d8f376b681f43f90a08386cf2454dd4]: Commencement: Sch. 13 para. 9 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-298d45aeec3eddfcb2e0c9122477333d]: Commencement: Sch. 13 para. 10 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-298d45aeec3eddfcb2e0c9122477333d]: Commencement: Sch. 13 para. 10 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-b2950f1a42ed1a97e31c4b5991a1418f]: Commencement: Sch. 13 para. 11 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-b2950f1a42ed1a97e31c4b5991a1418f]: Commencement: Sch. 13 para. 11 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-2acef2df734a8378a72e505332518463]: Commencement: Sch. 13 para. 12 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-2acef2df734a8378a72e505332518463]: Commencement: Sch. 13 para. 12 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-25815afa016df8a9c977d2439e43c864]: Commencement: Sch. 13 para. 13 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-25815afa016df8a9c977d2439e43c864]: Commencement: Sch. 13 para. 13 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-d6c74c93f9da715eac7c291cf64564c6]: Commencement: Sch. 13 para. 14 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-d6c74c93f9da715eac7c291cf64564c6]: Commencement: Sch. 13 para. 14 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-c0ac5181daa7dfd82da1406969842d11]: Commencement: Sch. 13 para. 15 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-c0ac5181daa7dfd82da1406969842d11]: Commencement: Sch. 13 para. 15 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-9169c0cb738637388d3c9c666cc6983f]: Commencement: Sch. 13 para. 16 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-9169c0cb738637388d3c9c666cc6983f]: Commencement: Sch. 13 para. 16 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-7f82e9f9995be1e5081b3d8f7c78064c]: Commencement: Sch. 13 para. 17 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-7f82e9f9995be1e5081b3d8f7c78064c]: Commencement: Sch. 13 para. 17 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-121cd05c65fc50c99268efbb1659b01e]: Commencement: Sch. 13 para. 18 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-121cd05c65fc50c99268efbb1659b01e]: Commencement: Sch. 13 para. 18 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-1f52d072fbb9cdc6a6de3782e4cde449]: Commencement: Sch. 13 para. 19 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-1f52d072fbb9cdc6a6de3782e4cde449]: Commencement: Sch. 13 para. 19 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-b0ec4a56e58951f4dcb717512fa9904c]: Commencement: Sch. 13 para. 20 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-b0ec4a56e58951f4dcb717512fa9904c]: Commencement: Sch. 13 para. 20 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-bbb1a1bb678f3b5292620f38cdd54e4a]: Commencement: Sch. 13 para. 21 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-bbb1a1bb678f3b5292620f38cdd54e4a]: Commencement: Sch. 13 para. 21 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-8c972bfea03cf6cd58d43d934c8aaaa1]: Commencement: Sch. 13 para. 22 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-8c972bfea03cf6cd58d43d934c8aaaa1]: Commencement: Sch. 13 para. 22 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-2414f7c68f6b236300f1d7bf22114a75]: Commencement: Sch. 13 para. 23 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-2414f7c68f6b236300f1d7bf22114a75]: Commencement: Sch. 13 para. 23 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-61b2af3a576b9a545d8fcba6e43bbc7c]: Commencement: Sch. 13 para. 24 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-61b2af3a576b9a545d8fcba6e43bbc7c]: Commencement: Sch. 13 para. 24 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-0783dc146740f14654d7b738c32f256a]: Commencement: Sch. 13 para. 25 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-0783dc146740f14654d7b738c32f256a]: Commencement: Sch. 13 para. 25 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-c05aec29126b2418f3841bc2f0dde0f4]: Commencement: Sch. 13 para. 26 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-c05aec29126b2418f3841bc2f0dde0f4]: Commencement: Sch. 13 para. 26 in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-43c63cfcf8547fb65a3b9263e5b76957]: Commencement: [Sch. 13 para. 27](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/27) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-43c63cfcf8547fb65a3b9263e5b76957]: Commencement: [Sch. 13 para. 27](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/27) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-d02bd0210f13b1075997bfec136a30a8]: Commencement: [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/28) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-d02bd0210f13b1075997bfec136a30a8]: Commencement: [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/28) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-ee70e3fbe0c9a55cfd6f20a4a0a213f2]: Commencement: [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/29) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-ee70e3fbe0c9a55cfd6f20a4a0a213f2]: Commencement: [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/29) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-d0a1570878c0faa60f72687d0b144fb8]: Commencement: [Sch. 13 para. 30](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/30) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-d0a1570878c0faa60f72687d0b144fb8]: Commencement: [Sch. 13 para. 30](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/30) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-84ce1379221a6ddd16b0c6ceb09fd2ce]: Commencement: [Sch. 13 para. 31](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/31) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-84ce1379221a6ddd16b0c6ceb09fd2ce]: Commencement: [Sch. 13 para. 31](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/31) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-4a53f6a6602ad34836000e723939b551]: Textual amendment: [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/32) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4a53f6a6602ad34836000e723939b551]: Textual amendment: [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/32) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-48eb1bd94cf2a2ba7c173bafe3fff452]: Textual amendment: Sch. 13 para. 33 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/19); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-48eb1bd94cf2a2ba7c173bafe3fff452]: Textual amendment: Sch. 13 para. 33 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/19); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
 
-[^key-d6d23ba5661ee74d9944657b93fcd9ea]: Commencement: [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/34) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-d6d23ba5661ee74d9944657b93fcd9ea]: Commencement: [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/34) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
-[^key-85245582270f21b561a85419e0486435]: Commencement: [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/35) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
+[^c-85245582270f21b561a85419e0486435]: Commencement: [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/35) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)

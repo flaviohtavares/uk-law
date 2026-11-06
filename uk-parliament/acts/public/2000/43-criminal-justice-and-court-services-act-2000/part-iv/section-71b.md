@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71B. Code of practice about access to driver licensing information[^key-52b05019b912b1766eecf97331e9c6fa]
+## 71B. Code of practice about access to driver licensing information[^c-52b05019b912b1766eecf97331e9c6fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52b05019b912b1766eecf97331e9c6fa]: Textual amendment: Ss. 71-71C substituted for s. 71 (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 181(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/181/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/e); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/u) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/689/regulation/3))
+[^c-52b05019b912b1766eecf97331e9c6fa]: Textual amendment: Ss. 71-71C substituted for s. 71 (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 181(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/181/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/e); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/u) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/689/regulation/3))

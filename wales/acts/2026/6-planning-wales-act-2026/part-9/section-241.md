@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 241. Consent for prohibited activities and appeals[^key-00d4677db17073de45ef876e8313938f]
+## 241. Consent for prohibited activities and appeals[^c-00d4677db17073de45ef876e8313938f]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00d4677db17073de45ef876e8313938f]: Commencement: S. 241 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-00d4677db17073de45ef876e8313938f]: Commencement: S. 241 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

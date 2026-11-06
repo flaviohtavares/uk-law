@@ -45,14 +45,14 @@ Section 273.
 
 (2) Where there has been a death in relation to which the value of any property has been left out of account under section 40 of the Finance Act 1930 and, before any estate duty has become chargeable under the provisions of that section or of section 48 of the [^c13616411]Finance Act 1950, there is a conditionally exempt transfer of that property, then, on the occurrence of a chargeable event in respect of that property—
 
-- (a)[^key-c0da428f41c002c75b10c4139a0352ee] tax shall be chargeable under section 32 or 32A of this Act (as the case may be), or
+- (a)[^c-c0da428f41c002c75b10c4139a0352ee] tax shall be chargeable under section 32 or 32A of this Act (as the case may be), or
 - (b) estate duty shall be chargeable under those provisions,
 
 as the Board may elect, and in this sub-paragraph “**conditionally exempt transfer**” includes a conditionally exempt occasion within the meaning of section 78(2) of this Act.
 
 (3) In sections 33(7) and 8[^c13616431] and 79(1) of this Act, references to a conditionally exempt transfer of any property include references to a death in relation to which the value of any property has been left out of account under section 40 of the Finance Act 1930 and, in relation to such property, references to a chargeable event or to the tax chargeable in accordance with section 33 of this Act by reference to a chargeable event include references to an event on the occurrence of which estate duty becomes chargeable under section 40 of the Finance Act 1930 or section 48 of the Finance Act 1950 or to the estate duty so chargeable.
 
-(4) In determining for the purposes of section 40(2) or (2A)[^key-e6c1ae39438319a3895a81a82a717870] of the Finance Act 1930 what is the last death on which the objects passed, there shall be disregarded any death after 6th April 1976.
+(4) In determining for the purposes of section 40(2) or (2A)[^c-e6c1ae39438319a3895a81a82a717870] of the Finance Act 1930 what is the last death on which the objects passed, there shall be disregarded any death after 6th April 1976.
 
 (5) In the application of this paragraph to Northern Ireland for references to section 40 of the Finance Act 1930 and section 48 of the Finance Act 1950 there shall be substituted references to section 2 of the [^c13616441]Finance Act (Northern Ireland) 1931 and Article 6 of the [^c13616451]Finance (Northern Ireland) Order 1972 respectively.
 
@@ -68,11 +68,11 @@ as the Board may elect, and in this sub-paragraph “**conditionally exempt tran
 
 [^c13616411]: Marginal citation: [1950 c. 15](https://www.legislation.gov.uk/ukpga/1950/15).
 
-[^key-c0da428f41c002c75b10c4139a0352ee]: Textual amendment: Sch. 6 para. 4(2)(a)(b) and words substituted for Sch. 6 para. 4(2)(a)(b) (with effect in accordance with s. 97(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 97(7)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/97/7/a)
+[^c-c0da428f41c002c75b10c4139a0352ee]: Textual amendment: Sch. 6 para. 4(2)(a)(b) and words substituted for Sch. 6 para. 4(2)(a)(b) (with effect in accordance with s. 97(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 97(7)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/97/7/a)
 
 [^c13616431]: Textual amendment: Finance Act 1986 Sch. 19, para. 39,*with effect from* 18*March* 1986.
 
-[^key-e6c1ae39438319a3895a81a82a717870]: Textual amendment: Words in Sch. 6 para. 4(4) inserted (with effect in accordance with s. 97(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 97(7)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/97/7/b)
+[^c-e6c1ae39438319a3895a81a82a717870]: Textual amendment: Words in Sch. 6 para. 4(4) inserted (with effect in accordance with s. 97(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 97(7)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/97/7/b)
 
 [^c13616441]: Marginal citation: [1931 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1931/24).
 

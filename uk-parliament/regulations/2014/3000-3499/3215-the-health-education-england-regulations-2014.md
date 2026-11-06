@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The Health Education England Regulations 2014 (revoked)[^key-46584bd5da8c447585dcac0a31a38de9]
+The Health Education England Regulations 2014 (revoked)[^c-46584bd5da8c447585dcac0a31a38de9]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 1st April 2015
 
-[^key-46584bd5da8c447585dcac0a31a38de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46584bd5da8c447585dcac0a31a38de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-46584bd5da8c447585dcac0a31a38de9]
+## 1. Citation, commencement and interpretation[^c-46584bd5da8c447585dcac0a31a38de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Health Education England: clinical expertise of members[^key-46584bd5da8c447585dcac0a31a38de9]
+## 2. Health Education England: clinical expertise of members[^c-46584bd5da8c447585dcac0a31a38de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Local Education and Training Boards: clinical expertise of members[^key-46584bd5da8c447585dcac0a31a38de9]
+## 3. Local Education and Training Boards: clinical expertise of members[^c-46584bd5da8c447585dcac0a31a38de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Health Education England ...: clinical expertise of members – supplementary[^key-46584bd5da8c447585dcac0a31a38de9]
+## 4. Health Education England ...: clinical expertise of members – supplementary[^c-46584bd5da8c447585dcac0a31a38de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Local Education and Training Board: co-operation[^key-46584bd5da8c447585dcac0a31a38de9]
+## 5. Local Education and Training Board: co-operation[^c-46584bd5da8c447585dcac0a31a38de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46584bd5da8c447585dcac0a31a38de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46584bd5da8c447585dcac0a31a38de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46584bd5da8c447585dcac0a31a38de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46584bd5da8c447585dcac0a31a38de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46584bd5da8c447585dcac0a31a38de9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3215) revoked (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/15) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-46584bd5da8c447585dcac0a31a38de9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3215) revoked (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/15) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

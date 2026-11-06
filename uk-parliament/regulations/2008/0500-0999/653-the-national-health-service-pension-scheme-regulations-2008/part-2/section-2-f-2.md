@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A member who requires a transfer value payment to be made must apply in writing to the Secretary of State for a statement of the amount of the cash equivalent of the member’s accrued benefits under this Section of[^key-9513cf878601ffe40c44ff1402e48280] the Scheme at the guarantee date (a “statement of entitlement”).
+(1) A member who requires a transfer value payment to be made must apply in writing to the Secretary of State for a statement of the amount of the cash equivalent of the member’s accrued benefits under this Section of[^c-9513cf878601ffe40c44ff1402e48280] the Scheme at the guarantee date (a “statement of entitlement”).
 
 (2) In this Part, “the guarantee date” means any date that—
 
@@ -40,4 +40,4 @@ In counting the period of 10 days referred to in sub-paragraph (d), Saturdays, S
 
 ## Annotations
 
-[^key-9513cf878601ffe40c44ff1402e48280]: Textual amendment: Words in [reg. 2.F.2(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.2/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-9513cf878601ffe40c44ff1402e48280]: Textual amendment: Words in [reg. 2.F.2(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.2/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

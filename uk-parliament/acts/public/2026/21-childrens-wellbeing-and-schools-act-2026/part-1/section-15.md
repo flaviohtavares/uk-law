@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power of CIECSS to impose monetary penalties[^key-1433c3a60882d8b1f03b94b9c8316122]
+## 15. Power of CIECSS to impose monetary penalties[^c-1433c3a60882d8b1f03b94b9c8316122]
 
 *Extent: E+W*
 
-(1)[^key-30d0978d89860bce4b414fd49c1448c2] The [Care Standards Act 2000](https://www.legislation.gov.uk/ukpga/2000/14/contents) is amended as follows.
+(1)[^c-30d0978d89860bce4b414fd49c1448c2] The [Care Standards Act 2000](https://www.legislation.gov.uk/ukpga/2000/14/contents) is amended as follows.
 
-(2)[^key-81368c6cabe29e32999bea1220b70835] After [section 30ZB](https://www.legislation.gov.uk/ukpga/2000/14/section/30ZB) insert—
+(2)[^c-81368c6cabe29e32999bea1220b70835] After [section 30ZB](https://www.legislation.gov.uk/ukpga/2000/14/section/30ZB) insert—
 
 > **Power of CIECSS to impose monetary penalties**
 >
@@ -60,24 +60,24 @@ summary: ''
 > - (c) the grounds for imposing them, and
 > - (d) their amounts.
 
-(3)[^key-93d88c0ef1ea7d05feb657a25c62bc5d] In [section 14](https://www.legislation.gov.uk/ukpga/2000/14/section/14)[(1)](https://www.legislation.gov.uk/ukpga/2000/14/section/14) (grounds for cancelling registration) after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2000/14/section/14) insert—
+(3)[^c-93d88c0ef1ea7d05feb657a25c62bc5d] In [section 14](https://www.legislation.gov.uk/ukpga/2000/14/section/14)[(1)](https://www.legislation.gov.uk/ukpga/2000/14/section/14) (grounds for cancelling registration) after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2000/14/section/14) insert—
 
 > - (ba) on the ground that a monetary penalty has been imposed on the person under section 30ZC;
 
 .
 
-(4)[^key-93d88c0ef1ea7d05feb657a25c62bc5d] In [section 21](https://www.legislation.gov.uk/ukpga/2000/14/section/21) (appeals to Tribunal) after [subsection (6)](https://www.legislation.gov.uk/ukpga/2000/14/section/21) insert—
+(4)[^c-93d88c0ef1ea7d05feb657a25c62bc5d] In [section 21](https://www.legislation.gov.uk/ukpga/2000/14/section/21) (appeals to Tribunal) after [subsection (6)](https://www.legislation.gov.uk/ukpga/2000/14/section/21) insert—
 
 > (7) Subsection (1) does not apply to a decision of the CIECSS—
 >
 > - (a) to impose a monetary penalty under section 30ZC;
 > - (b) as to the amount of such a penalty.
 
-(5)[^key-93d88c0ef1ea7d05feb657a25c62bc5d] In the italic heading before [section 30ZA](https://www.legislation.gov.uk/ukpga/2000/14/section/30ZA), after “notices” insert “(Wales)”.
+(5)[^c-93d88c0ef1ea7d05feb657a25c62bc5d] In the italic heading before [section 30ZA](https://www.legislation.gov.uk/ukpga/2000/14/section/30ZA), after “notices” insert “(Wales)”.
 
 (6) In [section 30A](https://www.legislation.gov.uk/ukpga/2000/14/section/30A) (matters of which the CIECSS must notify local authorities)—
 
-- (a)[^key-93d88c0ef1ea7d05feb657a25c62bc5d] in [subsection (2)](https://www.legislation.gov.uk/ukpga/2000/14/section/30A), after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2000/14/section/30A) insert—
+- (a)[^c-93d88c0ef1ea7d05feb657a25c62bc5d] in [subsection (2)](https://www.legislation.gov.uk/ukpga/2000/14/section/30A), after [paragraph (b)](https://www.legislation.gov.uk/ukpga/2000/14/section/30A) insert—
 
   > - (ba) has served on P, or a parent undertaking of P, a penalty notice under paragraph 3 of Schedule 1A (monetary penalties);
 
@@ -90,10 +90,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1433c3a60882d8b1f03b94b9c8316122]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-1433c3a60882d8b1f03b94b9c8316122]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-30d0978d89860bce4b414fd49c1448c2]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/iii)
+[^c-30d0978d89860bce4b414fd49c1448c2]: Commencement: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/iii)
 
-[^key-81368c6cabe29e32999bea1220b70835]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/2) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/i)
+[^c-81368c6cabe29e32999bea1220b70835]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/2) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/i)
 
-[^key-93d88c0ef1ea7d05feb657a25c62bc5d]: Commencement: [S. 15(3)-(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/3), [(6)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/6/a) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/ii)
+[^c-93d88c0ef1ea7d05feb657a25c62bc5d]: Commencement: [S. 15(3)-(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/3), [(6)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/15/6/a) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/d/ii)

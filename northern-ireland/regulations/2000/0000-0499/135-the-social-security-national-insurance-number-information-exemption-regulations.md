@@ -41,21 +41,21 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 1(1C), 11(1C) and 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made consequential upon Article 66 of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-86de829cc0e9e4693c21424dbfb5b5ba]
+## 1. Citation, commencement and interpretation[^c-86de829cc0e9e4693c21424dbfb5b5ba]
 
 (1) These Regulations may be cited as the Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2000 and shall come into operation on 15th May 2000.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## ...[^key-3fc0ce9dd173f162da664eb8a9f62bc2][^key-3fc0ce9dd173f162da664eb8a9f62bc2]
+## ...[^c-3fc0ce9dd173f162da664eb8a9f62bc2][^c-3fc0ce9dd173f162da664eb8a9f62bc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Guardian’s Allowances) Regulations[^key-97bae23f50c30def8e3a9ea34537f029]
+## 3. Amendment of the Social Security (Guardian’s Allowances) Regulations[^c-97bae23f50c30def8e3a9ea34537f029]
 
 In the Social Security (Guardian’s Allowances) Regulations (Northern Ireland) 1975[^f00006] regulation 1A (disapplication of section 1(1A) of the Administration Act) shall be omitted.
 
-## 4. Revocation[^key-39624ba168c61d3a8ff4bd5a96e7d3a0]
+## 4. Revocation[^c-39624ba168c61d3a8ff4bd5a96e7d3a0]
 
 Regulation 2 of the Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 1997[^f00007] is hereby revoked.
 
@@ -85,16 +85,16 @@ These Regulations are made in consequence of Article 66 of the Order which inser
 
 [^f00003]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)
 
-[^key-86de829cc0e9e4693c21424dbfb5b5ba]: Commencement: Reg. 1 in operation at 15.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1)
+[^c-86de829cc0e9e4693c21424dbfb5b5ba]: Commencement: Reg. 1 in operation at 15.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3fc0ce9dd173f162da664eb8a9f62bc2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/135/regulation/2) revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (revoked) 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
+[^c-3fc0ce9dd173f162da664eb8a9f62bc2]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/135/regulation/2) revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (revoked) 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
 
-[^key-97bae23f50c30def8e3a9ea34537f029]: Commencement: Reg. 3 in operation at 15.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1)
+[^c-97bae23f50c30def8e3a9ea34537f029]: Commencement: Reg. 3 in operation at 15.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1975 No. 98](https://www.legislation.gov.uk/nisr/1975/98); regulation 1A was inserted by regulation 2 of [S.R. 1997 No. 483](https://www.legislation.gov.uk/nisr/1997/483)
 
-[^key-39624ba168c61d3a8ff4bd5a96e7d3a0]: Commencement: Reg. 4 in operation at 15.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1)
+[^c-39624ba168c61d3a8ff4bd5a96e7d3a0]: Commencement: Reg. 4 in operation at 15.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1997 No. 483](https://www.legislation.gov.uk/nisr/1997/483)

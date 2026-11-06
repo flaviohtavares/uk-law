@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Safety equipment[^key-6a6abb9a23a13f6964d6246a38a7524b]
+## 162. Safety equipment[^c-6a6abb9a23a13f6964d6246a38a7524b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If a spaceport licensee owns, manages or controls any system or ground equipment
 
 ## Annotations
 
-[^key-6a6abb9a23a13f6964d6246a38a7524b]: Commencement: Reg. 162 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6a6abb9a23a13f6964d6246a38a7524b]: Commencement: Reg. 162 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

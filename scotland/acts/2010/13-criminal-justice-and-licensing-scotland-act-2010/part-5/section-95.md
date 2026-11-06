@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Excusal from jury service[^key-a804a8e9a180a300df9af35e361fed3e]
+## 95. Excusal from jury service[^c-a804a8e9a180a300df9af35e361fed3e]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a804a8e9a180a300df9af35e361fed3e]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/13/section/95) in force at 10.1.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-a804a8e9a180a300df9af35e361fed3e]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/13/section/95) in force at 10.1.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

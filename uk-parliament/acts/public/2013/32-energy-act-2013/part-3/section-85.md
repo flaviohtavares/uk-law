@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Inquiries[^key-1accb79fdcc1227e8a8f57b90b7d2105]
+## 85. Inquiries[^c-1accb79fdcc1227e8a8f57b90b7d2105]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,14 +49,14 @@ summary: ''
 - (a) in England and Wales, a fine (or a fine not exceeding an amount specified, which must not exceed level 4 on the standard scale), or
 - (b) in Scotland or Northern Ireland, a fine not exceeding the amount specified, which must not exceed level 5 on the standard scale.
 
-(7)[^key-4e53d8e8cf5e058f9ff184f0051a682c][^key-f28d88c2b2b3ed6888eb1fc3f7dfaba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4e53d8e8cf5e058f9ff184f0051a682c][^c-f28d88c2b2b3ed6888eb1fc3f7dfaba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-4e53d8e8cf5e058f9ff184f0051a682c][^key-f28d88c2b2b3ed6888eb1fc3f7dfaba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4e53d8e8cf5e058f9ff184f0051a682c][^c-f28d88c2b2b3ed6888eb1fc3f7dfaba1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1accb79fdcc1227e8a8f57b90b7d2105]: Commencement: S. 85 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-1accb79fdcc1227e8a8f57b90b7d2105]: Commencement: S. 85 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-4e53d8e8cf5e058f9ff184f0051a682c]: Textual amendment: S. 85(7)(8) repealed (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/9/2) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
+[^c-4e53d8e8cf5e058f9ff184f0051a682c]: Textual amendment: S. 85(7)(8) repealed (E.W.N.I.) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/9/2) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
 
-[^key-f28d88c2b2b3ed6888eb1fc3f7dfaba1]: Textual amendment: S. 85(7)(8) repealed (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 15(2)](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/15/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-f28d88c2b2b3ed6888eb1fc3f7dfaba1]: Textual amendment: S. 85(7)(8) repealed (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 15(2)](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/15/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))

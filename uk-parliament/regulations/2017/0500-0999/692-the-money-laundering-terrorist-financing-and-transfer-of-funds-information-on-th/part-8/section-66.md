@@ -26,7 +26,7 @@ summary: ''
 - (b) produce specified documents, or documents of a specified description; or
 - (c) attend before an officer of the supervisory authority (or of a supervisory authority which is acting on behalf of that authority) at a time and place specified in the notice and answer questions.
 
-(1A)[^key-d74a2e4ab45b2b7467fd0a757d77206e] The power in paragraph (1) includes power to require P to provide a copy of any suspicious activity disclosure made to the NCA.
+(1A)[^c-d74a2e4ab45b2b7467fd0a757d77206e] The power in paragraph (1) includes power to require P to provide a copy of any suspicious activity disclosure made to the NCA.
 
 (2) The information or documents must be provided or produced—
 
@@ -51,10 +51,10 @@ summary: ''
 
 (8) If a supervisory authority has power under this regulation to require a person to produce a document but it appears that the document is in the possession of a third person, that power may be exercised by the supervisory authority in relation to the third person.
 
-(9)[^key-4b5c915de25c000aa3c501485c3a3ff0] In this regulation, “**suspicious activity disclosure**” has the meaning given in regulation 104(4).
+(9)[^c-4b5c915de25c000aa3c501485c3a3ff0] In this regulation, “**suspicious activity disclosure**” has the meaning given in regulation 104(4).
 
 ## Annotations
 
-[^key-d74a2e4ab45b2b7467fd0a757d77206e]: Textual amendment: [Reg. 66(1A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/66/1A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [13(1)(a)](https://www.legislation.gov.uk/uksi/2022/860/regulation/13/1/a)
+[^c-d74a2e4ab45b2b7467fd0a757d77206e]: Textual amendment: [Reg. 66(1A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/66/1A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [13(1)(a)](https://www.legislation.gov.uk/uksi/2022/860/regulation/13/1/a)
 
-[^key-4b5c915de25c000aa3c501485c3a3ff0]: Textual amendment: [Reg. 66(9)](https://www.legislation.gov.uk/uksi/2017/692/regulation/66/9) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [13(1)(b)](https://www.legislation.gov.uk/uksi/2022/860/regulation/13/1/b)
+[^c-4b5c915de25c000aa3c501485c3a3ff0]: Textual amendment: [Reg. 66(9)](https://www.legislation.gov.uk/uksi/2017/692/regulation/66/9) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [13(1)(b)](https://www.legislation.gov.uk/uksi/2022/860/regulation/13/1/b)

@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries
 
-The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Amendment Order 2011 (revoked)[^key-156d817df7e514f417b6f975bf39889d]
+The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Amendment Order 2011 (revoked)[^c-156d817df7e514f417b6f975bf39889d]
 
 Made
 
@@ -46,58 +46,58 @@ Coming into force
 
 7th March 2011
 
-[^key-156d817df7e514f417b6f975bf39889d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-156d817df7e514f417b6f975bf39889d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-156d817df7e514f417b6f975bf39889d]
+## 1. Citation and commencement[^c-156d817df7e514f417b6f975bf39889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^key-156d817df7e514f417b6f975bf39889d]
+## 2. Amendment of the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^c-156d817df7e514f417b6f975bf39889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 5 (address at which and method by which fixed penalty is payable)[^key-156d817df7e514f417b6f975bf39889d]
+## 3. Amendment of article 5 (address at which and method by which fixed penalty is payable)[^c-156d817df7e514f417b6f975bf39889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of article 6 (person to whom and address to which intimation of non payment of fixed penalty to be sent)[^key-156d817df7e514f417b6f975bf39889d]
+## 4. Amendment of article 6 (person to whom and address to which intimation of non payment of fixed penalty to be sent)[^c-156d817df7e514f417b6f975bf39889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Substitution of Schedule 1 (relevant offences for the purposes of section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007)[^key-156d817df7e514f417b6f975bf39889d]
+## 5. Substitution of Schedule 1 (relevant offences for the purposes of section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007)[^c-156d817df7e514f417b6f975bf39889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-156d817df7e514f417b6f975bf39889d]
+## 6. Revocation[^c-156d817df7e514f417b6f975bf39889d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-156d817df7e514f417b6f975bf39889d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-156d817df7e514f417b6f975bf39889d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Substitution of Schedule 1 to the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^key-156d817df7e514f417b6f975bf39889d]
+## SCHEDULE — Substitution of Schedule 1 to the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^c-156d817df7e514f417b6f975bf39889d]
 
 Article 5
 
-> **SCHEDULE 1 — Relevant offences for the purposes of section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007[^key-156d817df7e514f417b6f975bf39889d]**
+> **SCHEDULE 1 — Relevant offences for the purposes of section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007[^c-156d817df7e514f417b6f975bf39889d]**
 >
 > Article 2
 >
-> **PART 1 — Enactments under or by virtue of which relevant offences are created[^key-156d817df7e514f417b6f975bf39889d]**
+> **PART 1 — Enactments under or by virtue of which relevant offences are created[^c-156d817df7e514f417b6f975bf39889d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Enactments under or by virtue of which relevant offences are created, proceedings in respect of which may be taken in Scotland by virtue of section 30(2A) of the Fisheries Act 1981[^key-156d817df7e514f417b6f975bf39889d]**
+> **PART 2 — Enactments under or by virtue of which relevant offences are created, proceedings in respect of which may be taken in Scotland by virtue of section 30(2A) of the Fisheries Act 1981[^c-156d817df7e514f417b6f975bf39889d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-156d817df7e514f417b6f975bf39889d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-156d817df7e514f417b6f975bf39889d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-156d817df7e514f417b6f975bf39889d]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/60) revoked (27.4.2015) by [The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015 (S.S.I. 2015/113)](https://www.legislation.gov.uk/ssi/2015/113), [art. 6(b)](https://www.legislation.gov.uk/ssi/2015/113/article/6/b)
+[^c-156d817df7e514f417b6f975bf39889d]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2011/60) revoked (27.4.2015) by [The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015 (S.S.I. 2015/113)](https://www.legislation.gov.uk/ssi/2015/113), [art. 6(b)](https://www.legislation.gov.uk/ssi/2015/113/article/6/b)

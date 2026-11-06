@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Arrest to facilitate questioning[^key-4dfd690fd35b991804c0799dcc399fe2]
+## 37. Arrest to facilitate questioning[^c-4dfd690fd35b991804c0799dcc399fe2]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dfd690fd35b991804c0799dcc399fe2]: Commencement: S. 37 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))
+[^c-4dfd690fd35b991804c0799dcc399fe2]: Commencement: S. 37 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))

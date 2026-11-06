@@ -44,32 +44,32 @@ Coming into force in accordance with section 2
 
 The Secretary of State for Education and Skills makes the following regulations in exercise of the powers in sections 1(1), (2) and (7) of and paragraph 1(1) of Schedule 1 to the Education (Student Loans) Act 1990[^f00001]:
 
-## 1. Citation, commencement, application and interpretation[^key-259b8cb5cd687076f8a13db781165e8f]
+## 1. Citation, commencement, application and interpretation[^c-259b8cb5cd687076f8a13db781165e8f]
 
 These Regulations may be cited as the Education (Student Loans) (Amendment) (England and Wales) Regulations 2006.
 
-**2.**[^key-c020b4d71b16430514a45f0a863af83e] (1) Except as provided for in paragraph (2) these Regulations shall come into force on 30th April 2006.
+**2.**[^c-c020b4d71b16430514a45f0a863af83e] (1) Except as provided for in paragraph (2) these Regulations shall come into force on 30th April 2006.
 
 (2) Regulations 5 and 10 shall come into force on 1st August 2006.
 
-**3.**[^key-dcc83a83a0bd30836a8889758082aa53] These Regulations do not apply in or as regards Scotland[^f00002].
+**3.**[^c-dcc83a83a0bd30836a8889758082aa53] These Regulations do not apply in or as regards Scotland[^f00002].
 
-**4.**[^key-f1cc0ac5406e0741cf605dda35215d1f] In these Regulations “the Principal Regulations” means the Education (Student Loans) Regulations 1998[^f00003].
+**4.**[^c-f1cc0ac5406e0741cf605dda35215d1f] In these Regulations “the Principal Regulations” means the Education (Student Loans) Regulations 1998[^f00003].
 
-## 5. Revocation[^key-4412b199aee2207fdb214f983cb1d4f4]
+## 5. Revocation[^c-4412b199aee2207fdb214f983cb1d4f4]
 
 Regulation 5 of the Education (Student Loans) (Amendment) (England and Wales) Regulations 2005 is revoked[^f00004].
 
-**6.**[^key-6b627d17647a823272c1addbf3b36c24] The following provisions of the Education (Student Loans) (Amendment) (No. 2) (England and Wales) Regulations 2005[^f00005] are revoked—
+**6.**[^c-6b627d17647a823272c1addbf3b36c24] The following provisions of the Education (Student Loans) (Amendment) (No. 2) (England and Wales) Regulations 2005[^f00005] are revoked—
 
 - (a) regulation 7; and
 - (b) regulation 8(2) and (3).
 
-## 7. Amendment of the Principal Regulations[^key-7f4a9584d60842b03e2e89a37b3a2d61]
+## 7. Amendment of the Principal Regulations[^c-7f4a9584d60842b03e2e89a37b3a2d61]
 
 The Principal Regulations are amended in accordance with these Regulations.
 
-**8.**[^key-6fd83c6ce023b6978db8333e8da04af0] (1) Regulation 3 is amended as follows.
+**8.**[^c-6fd83c6ce023b6978db8333e8da04af0] (1) Regulation 3 is amended as follows.
 
 (2) Before the definition of “accelerated course”, insert—
 
@@ -96,7 +96,7 @@ The Principal Regulations are amended in accordance with these Regulations.
 
 (6) Omit paragraphs (4), (5) and (6).
 
-**9.**[^key-9f836ce1b33ae00fc918d9a51fca0131] (1) Regulation 4 is amended as follows.
+**9.**[^c-9f836ce1b33ae00fc918d9a51fca0131] (1) Regulation 4 is amended as follows.
 
 (2) In paragraphs (1A) and (1B) for “6A” wherever it appears, substitute “9”.
 
@@ -130,13 +130,13 @@ The Principal Regulations are amended in accordance with these Regulations.
 
 **10.**[^M_F_19459d68-5069-43e0-9119-60cb3b0fa6bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ee04d96266276d0b73771d89824d4dc0] For regulation 7(1), substitute—
+**11.**[^c-ee04d96266276d0b73771d89824d4dc0] For regulation 7(1), substitute—
 
 > (1) Every agreement for a loan made on or after 30th April 2006 shall include the terms set out in Part 1 of Schedule 2.
 
 .
 
-**12.**[^key-e047f96b74bfa20f9a502de1d4e4841a] For Schedule 1, substitute—
+**12.**[^c-e047f96b74bfa20f9a502de1d4e4841a] For Schedule 1, substitute—
 
 > **SCHEDULE 1 — ELIGIBLE STUDENTS**
 >
@@ -147,7 +147,7 @@ The Principal Regulations are amended in accordance with these Regulations.
 > **1.** (1) For the purposes of this Schedule—
 >
 > - “Directive 2004/38” means Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29th April 2004[^f00006] on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
-> - “EC national” means a national of a Member State of the European Union[^key-38eea799c171c1b53f3b97b564ff3add];
+> - “EC national” means a national of a Member State of the European Union[^c-38eea799c171c1b53f3b97b564ff3add];
 > - “EEA frontier self-employed person” means an EEA national who—
 >   - (a) is self-employed in the United Kingdom; and
 >   - (b) resides in Switzerland or the territory of an EEA State other than the United Kingdom and returns to his residence in Switzerland or that EEA State, as the case may be, daily or at least once a week;
@@ -319,7 +319,7 @@ The Principal Regulations are amended in accordance with these Regulations.
 
 .
 
-**13.**[^key-d804fc005058bab30ccc9c06df6722bc] (1) Schedule 2 is amended as follows.
+**13.**[^c-d804fc005058bab30ccc9c06df6722bc] (1) Schedule 2 is amended as follows.
 
 (2) In paragraph 1—
 
@@ -384,44 +384,44 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6), amended by the Education (Student Loans) Act [1996 (c. 9)](https://www.legislation.gov.uk/ukpga/1996/9), section 1(1) and the Schedule, by the Education Act 1996, Schedule 37 paragraph 98 and Schedule 38, and by the Education (Student Loans) Act [1998 (c. 1)](https://www.legislation.gov.uk/ukpga/1998/1), sections 1 to 3. The entire Act was repealed on 13th August 1998 by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to transitional and saving provisions in the Teaching and Higher Education Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998 (S.I. [1998/2004](https://www.legislation.gov.uk/uksi/1998/2004)). The saving provisions include provision for making subordinate legislation after the date of repeal.
 
-[^key-259b8cb5cd687076f8a13db781165e8f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/929/regulation/1) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-259b8cb5cd687076f8a13db781165e8f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/929/regulation/1) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
-[^key-c020b4d71b16430514a45f0a863af83e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/929/regulation/2) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-c020b4d71b16430514a45f0a863af83e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/929/regulation/2) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
-[^key-dcc83a83a0bd30836a8889758082aa53]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/929/regulation/3) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-dcc83a83a0bd30836a8889758082aa53]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/929/regulation/3) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
 [^f00002]: Footnote: The Secretary of State’s functions under the Education (Student Loans) Act 1990 were transferred, in or as regards Scotland, to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), read with article 3 and paragraph 11 of Schedule 1 to the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)).
 
-[^key-f1cc0ac5406e0741cf605dda35215d1f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/929/regulation/4) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-f1cc0ac5406e0741cf605dda35215d1f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/929/regulation/4) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
 [^f00003]: Footnote: S.I. [1998/211](https://www.legislation.gov.uk/uksi/1998/211), as amended, in relation to England and Wales, by S.I. [1998/1676](https://www.legislation.gov.uk/uksi/1998/1676), S.I. [2000/1804](https://www.legislation.gov.uk/uksi/2000/1804), S.I. [2001/1627](https://www.legislation.gov.uk/uksi/2001/1627), S.I. [2002/1329](https://www.legislation.gov.uk/uksi/2002/1329), S.I. [2005/1718](https://www.legislation.gov.uk/uksi/2005/1718) and S.I. [2005/2119](https://www.legislation.gov.uk/uksi/2005/2119).
 
-[^key-4412b199aee2207fdb214f983cb1d4f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/929/regulation/5) in force at 1.8.2006, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/2)
+[^c-4412b199aee2207fdb214f983cb1d4f4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/929/regulation/5) in force at 1.8.2006, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/2)
 
 [^f00004]: Footnote: S.I. [2005/1718](https://www.legislation.gov.uk/uksi/2005/1718).
 
-[^key-6b627d17647a823272c1addbf3b36c24]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/929/regulation/6) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-6b627d17647a823272c1addbf3b36c24]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2006/929/regulation/6) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
 [^f00005]: Footnote: S.I. [2006/2119](https://www.legislation.gov.uk/uksi/2006/2119).
 
-[^key-7f4a9584d60842b03e2e89a37b3a2d61]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/929/regulation/7) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-7f4a9584d60842b03e2e89a37b3a2d61]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/929/regulation/7) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
-[^key-6fd83c6ce023b6978db8333e8da04af0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/929/regulation/8) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-6fd83c6ce023b6978db8333e8da04af0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/929/regulation/8) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
-[^key-9f836ce1b33ae00fc918d9a51fca0131]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/929/regulation/9) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-9f836ce1b33ae00fc918d9a51fca0131]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2006/929/regulation/9) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
 [^M_F_19459d68-5069-43e0-9119-60cb3b0fa6bd]: Textual amendment: Reg. 10 revoked (1.8.2007) by [The Education (Student Loans) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1630)](https://www.legislation.gov.uk/uksi/2007/1630), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2007/1630/regulation/2/2), [5](https://www.legislation.gov.uk/uksi/2007/1630/regulation/5)
 
-[^key-ee04d96266276d0b73771d89824d4dc0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/929/regulation/11) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-ee04d96266276d0b73771d89824d4dc0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/929/regulation/11) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
-[^key-e047f96b74bfa20f9a502de1d4e4841a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/929/regulation/12) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-e047f96b74bfa20f9a502de1d4e4841a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/929/regulation/12) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
 
 [^f00006]: Footnote: OJ L158, 30.04.2004, p77-123.
 
-[^key-38eea799c171c1b53f3b97b564ff3add]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-38eea799c171c1b53f3b97b564ff3add]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^f00007]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
 [^f00008]: Footnote: Cm. 4904.
 
-[^key-d804fc005058bab30ccc9c06df6722bc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/929/regulation/13) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)
+[^c-d804fc005058bab30ccc9c06df6722bc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/929/regulation/13) in force at 30.4.2006, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/929/regulation/2/1)

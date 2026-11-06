@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Third party compensation: mandatory provision[^M_I_f736e501-c3bd-457d-b832-b28afd7a803e][^key-33a951fbe5d985c8ee6b6899e510682e]
+## 60. Third party compensation: mandatory provision[^M_I_f736e501-c3bd-457d-b832-b28afd7a803e][^c-33a951fbe5d985c8ee6b6899e510682e]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Treasury may make regulations about third party compensation arrangements in the case of partial property transfers.
 
-(2) In making regulations the Treasury shall, in particular, have regard to the desirability of ensuring that if a residual bank enters insolvency after transfer, pre-transfer shareholders or[^key-a5a06a74dfc80fc77be4340e9a53946a] creditors do not receive less favourable treatment than they would have received had it entered insolvency immediately before transfer.
+(2) In making regulations the Treasury shall, in particular, have regard to the desirability of ensuring that if a residual bank enters insolvency after transfer, pre-transfer shareholders or[^c-a5a06a74dfc80fc77be4340e9a53946a] creditors do not receive less favourable treatment than they would have received had it entered insolvency immediately before transfer.
 
 (3) In subsection (2)—
 
 - (a) “**residual bank**” means a bank that is a transferor under a property transfer instrument,
-- (b) “**pre-transfer shareholder or[^key-3b87fd5fa591b424ac3816c35f248ade] creditor**” means a person who—
-  - (i) holds securities issued by, or is a creditor of, a[^key-7c331cb214577c5ec3b057b3f720448b] residual bank immediately before a property transfer instrument takes effect, and
+- (b) “**pre-transfer shareholder or[^c-3b87fd5fa591b424ac3816c35f248ade] creditor**” means a person who—
+  - (i) holds securities issued by, or is a creditor of, a[^c-7c331cb214577c5ec3b057b3f720448b] residual bank immediately before a property transfer instrument takes effect, and
   - (ii) satisfies conditions specified by the regulations, and
 - (c) the reference to insolvency includes a reference to (i) liquidation, (ii) bank insolvency, (iii) administration, (iv) bank administration, (v) receivership, (vi) a composition with creditors, and (vii) a scheme of arrangement.
 
@@ -58,10 +58,10 @@ summary: ''
 
 [^M_I_f736e501-c3bd-457d-b832-b28afd7a803e]: Commencement: S. 60 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-33a951fbe5d985c8ee6b6899e510682e]: Commencement: S. 60 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-33a951fbe5d985c8ee6b6899e510682e]: Commencement: S. 60 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-a5a06a74dfc80fc77be4340e9a53946a]: Textual amendment: Words in s. 60(2) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [67(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/67/2)
+[^c-a5a06a74dfc80fc77be4340e9a53946a]: Textual amendment: Words in s. 60(2) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [67(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/67/2)
 
-[^key-3b87fd5fa591b424ac3816c35f248ade]: Textual amendment: Words in s. 60(3)(b) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [67(3)(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/67/3/a)
+[^c-3b87fd5fa591b424ac3816c35f248ade]: Textual amendment: Words in s. 60(3)(b) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [67(3)(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/67/3/a)
 
-[^key-7c331cb214577c5ec3b057b3f720448b]: Textual amendment: Words in s. 60(3)(b)(i) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [67(3)(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/67/3/b)
+[^c-7c331cb214577c5ec3b057b3f720448b]: Textual amendment: Words in s. 60(3)(b)(i) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [67(3)(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/67/3/b)

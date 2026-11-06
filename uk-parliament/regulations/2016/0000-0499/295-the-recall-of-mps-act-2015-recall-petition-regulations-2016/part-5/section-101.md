@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Postal ballot boxes and receptacles[^key-6cb442d2fb6d1c1d5eadf075083f4644]
+## 101. Postal ballot boxes and receptacles[^c-6cb442d2fb6d1c1d5eadf075083f4644]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cb442d2fb6d1c1d5eadf075083f4644]: Commencement: Reg. 101 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6cb442d2fb6d1c1d5eadf075083f4644]: Commencement: Reg. 101 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

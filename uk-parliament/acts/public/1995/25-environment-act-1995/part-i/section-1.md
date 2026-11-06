@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Environment Agency.[^key-de013a65491ceaeab7cb7d923131252f]
+## 1. The Environment Agency.[^c-de013a65491ceaeab7cb7d923131252f]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ and the Agency’s property shall not be regarded as property of, or property he
 
 ## Annotations
 
-[^key-de013a65491ceaeab7cb7d923131252f]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1995/25/section/1): transfer of functions (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/1821/article/5) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-de013a65491ceaeab7cb7d923131252f]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1995/25/section/1): transfer of functions (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/1821/article/5) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))

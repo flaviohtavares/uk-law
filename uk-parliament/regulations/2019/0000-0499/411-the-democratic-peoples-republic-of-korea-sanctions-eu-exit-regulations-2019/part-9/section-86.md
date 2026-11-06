@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Ships: exceptions from prohibitions on port entry[^key-855784ed0165c06f11e1c68285f89805][^key-dea29fe7adc693d04852fdb8f5f3e306]
+## 86. Ships: exceptions from prohibitions on port entry[^c-855784ed0165c06f11e1c68285f89805][^c-dea29fe7adc693d04852fdb8f5f3e306]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-855784ed0165c06f11e1c68285f89805]: Commencement: Reg. 86 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-855784ed0165c06f11e1c68285f89805]: Commencement: Reg. 86 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-dea29fe7adc693d04852fdb8f5f3e306]: Commencement: Reg. 86 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dea29fe7adc693d04852fdb8f5f3e306]: Commencement: Reg. 86 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

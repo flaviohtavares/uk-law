@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Anonymous registration: amendments relating to list of spoilt postal ballot papers and list of lost postal ballot papers[^key-208d2e73ff7f9823a14238d5b29de33c]
+## 22. Anonymous registration: amendments relating to list of spoilt postal ballot papers and list of lost postal ballot papers[^c-208d2e73ff7f9823a14238d5b29de33c]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ At the end of regulations 77(8)(a)[^f00044] and 78(4)(a)[^f00045] insert “(or,
 
 ## Annotations
 
-[^key-208d2e73ff7f9823a14238d5b29de33c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2006/2910/regulation/22) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-208d2e73ff7f9823a14238d5b29de33c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2006/2910/regulation/22) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00044]: Footnote: Regulation 77 was amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 

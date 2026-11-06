@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Penalty fares[^key-e3cfa412f2f673f45e357c98459cd4ce]
+## SCHEDULE 17 — Penalty fares[^c-e3cfa412f2f673f45e357c98459cd4ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,7 +127,7 @@ Section 245.
 
 *Extent: E+W+S*
 
-**5.** (1)[^key-7f71552e1d77e86f29188a408155a989] Subject to sub-paragraph (2) below, a penalty fare shall be—
+**5.** (1)[^c-7f71552e1d77e86f29188a408155a989] Subject to sub-paragraph (2) below, a penalty fare shall be—
 
 - (a) in respect of any journey on a local service—
   - (i) £50 except where sub-paragraph (ii) below applies, or
@@ -138,7 +138,7 @@ Section 245.
 
 and shall in all cases be payable to the person providing the service on which the requirement to pay the relevant fare is made.
 
-(2) The Mayor may by order prescribe that the amount of the penalty fare in any case[^key-c996a36f6b3b99359a76a58c457224c3] set out in sub-paragraph (1) above shall be different (whether higher or lower).
+(2) The Mayor may by order prescribe that the amount of the penalty fare in any case[^c-c996a36f6b3b99359a76a58c457224c3] set out in sub-paragraph (1) above shall be different (whether higher or lower).
 
 (3) No order may be made by the Mayor under sub-paragraph (2) above unless he has consulted the Secretary of State and—
 
@@ -162,7 +162,7 @@ as the Mayor considers it appropriate to consult.
 
 *Extent: E+W+S*
 
-**7.** (1)[^key-2de27ab52efdd37039f33118807f9214] A person shall, if required to do so by an authorised person, give his name and address to him if—
+**7.** (1)[^c-2de27ab52efdd37039f33118807f9214] A person shall, if required to do so by an authorised person, give his name and address to him if—
 
 - (a) he is required by the authorised person to pay a penalty fare, or
 - (b) he would be liable to pay a penalty fare if so required by the authorised person.
@@ -209,7 +209,7 @@ as the Mayor considers it appropriate to consult.
 
 *Extent: E+W+S*
 
-**9.**[^c12810371] (1)[^key-05c08fc6d6bf4f31cae8014c36790c13] This paragraph applies to any services for the carriage of passengers by railway which do not fall within paragraph 2(1) above but which—
+**9.**[^c12810371] (1)[^c-05c08fc6d6bf4f31cae8014c36790c13] This paragraph applies to any services for the carriage of passengers by railway which do not fall within paragraph 2(1) above but which—
 
 - (a) are provided wholly within Greater London; and
 - (b) are services, or services of a class or description, designated in an order made by the Secretary of State as services in relation to which this paragraph is to apply;
@@ -251,7 +251,7 @@ may, so far as relating to those services, be revoked under this paragraph as if
 
 *Extent: E+W+S*
 
-**10.**[^key-3b4a2445355ee359db0cd907e70e3208][^key-e3cfa412f2f673f45e357c98459cd4ce] (1) If requested to do so by the Mayor, the Secretary of State shall by regulations make provision enabling a person required to pay a penalty fare to appeal against that requirement.
+**10.**[^c-3b4a2445355ee359db0cd907e70e3208][^c-e3cfa412f2f673f45e357c98459cd4ce] (1) If requested to do so by the Mayor, the Secretary of State shall by regulations make provision enabling a person required to pay a penalty fare to appeal against that requirement.
 
 (2) Regulations under this paragraph may include provision—
 
@@ -262,21 +262,21 @@ may, so far as relating to those services, be revoked under this paragraph as if
 
 ### Repeal of London Regional Transport (Penalty Fares) Act 1992
 
-**11.**[^key-33f7edb39dd3b3d803c6facf217590e1][^key-e3cfa412f2f673f45e357c98459cd4ce] The [^c12810391]London Regional Transport (Penalty Fares) Act 1992 shall cease to have effect.
+**11.**[^c-33f7edb39dd3b3d803c6facf217590e1][^c-e3cfa412f2f673f45e357c98459cd4ce] The [^c12810391]London Regional Transport (Penalty Fares) Act 1992 shall cease to have effect.
 
 ## Annotations
 
-[^key-e3cfa412f2f673f45e357c98459cd4ce]: Modification: Sch. 17 applied (with modifications) (15.7.2003) by [The Croydon Tramlink (Penalty Fares) Order 2003 (S.I. 2003/1614)](https://www.legislation.gov.uk/uksi/2003/1614), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1614/article/1), [2](https://www.legislation.gov.uk/uksi/2003/1614/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1614/schedule/1)
+[^c-e3cfa412f2f673f45e357c98459cd4ce]: Modification: Sch. 17 applied (with modifications) (15.7.2003) by [The Croydon Tramlink (Penalty Fares) Order 2003 (S.I. 2003/1614)](https://www.legislation.gov.uk/uksi/2003/1614), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1614/article/1), [2](https://www.legislation.gov.uk/uksi/2003/1614/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1614/schedule/1)
 
 [^c12810321]: Marginal citation: [1992 c. xvi](https://www.legislation.gov.uk/ukla/1992/16).
 
 [^c12810331]: Marginal citation: [1984 c. 32](https://www.legislation.gov.uk/ukpga/1984/32).
 
-[^key-7f71552e1d77e86f29188a408155a989]: Textual amendment: Sch. 17 para. 5(1) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 27(2)](https://www.legislation.gov.uk/ukla/2008/1/section/27/2) (with [s. 27(4)](https://www.legislation.gov.uk/ukla/2008/1/section/27/4)[(5)](https://www.legislation.gov.uk/ukla/2008/1/section/27/5))
+[^c-7f71552e1d77e86f29188a408155a989]: Textual amendment: Sch. 17 para. 5(1) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 27(2)](https://www.legislation.gov.uk/ukla/2008/1/section/27/2) (with [s. 27(4)](https://www.legislation.gov.uk/ukla/2008/1/section/27/4)[(5)](https://www.legislation.gov.uk/ukla/2008/1/section/27/5))
 
-[^key-c996a36f6b3b99359a76a58c457224c3]: Textual amendment: Words in Sch. 17 para. 5(2) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 27(3)](https://www.legislation.gov.uk/ukla/2008/1/section/27/3) (with [s. 27(4)](https://www.legislation.gov.uk/ukla/2008/1/section/27/4)[(5)](https://www.legislation.gov.uk/ukla/2008/1/section/27/5))
+[^c-c996a36f6b3b99359a76a58c457224c3]: Textual amendment: Words in Sch. 17 para. 5(2) substituted (coming into force in accordance with ss. 1(2), 3 of the amending Act) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [s. 27(3)](https://www.legislation.gov.uk/ukla/2008/1/section/27/3) (with [s. 27(4)](https://www.legislation.gov.uk/ukla/2008/1/section/27/4)[(5)](https://www.legislation.gov.uk/ukla/2008/1/section/27/5))
 
-[^key-2de27ab52efdd37039f33118807f9214]: Textual amendment: Sch. 17 para. 7(1) substituted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [28(2)](https://www.legislation.gov.uk/ukla/2008/1/section/28/2)
+[^c-2de27ab52efdd37039f33118807f9214]: Textual amendment: Sch. 17 para. 7(1) substituted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [28(2)](https://www.legislation.gov.uk/ukla/2008/1/section/28/2)
 
 [^c12810341]: Marginal citation: [1889 c. 57](https://www.legislation.gov.uk/ukpga/1889/57).
 
@@ -286,12 +286,12 @@ may, so far as relating to those services, be revoked under this paragraph as if
 
 [^c12810371]: Commencement: Sch. 17 para. 9 wholly in force at 3.7.2000: Sch. 17 para. 9 in force at Royal Assent for certain purposes see s.425(2); Sch. 17 para. 9 in force (3.7.2000) in so far as not already in force by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-05c08fc6d6bf4f31cae8014c36790c13]: Modification: Sch. 17 para. 9(1) applied (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [7](https://www.legislation.gov.uk/uksi/2012/472/article/7)
+[^c-05c08fc6d6bf4f31cae8014c36790c13]: Modification: Sch. 17 para. 9(1) applied (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [7](https://www.legislation.gov.uk/uksi/2012/472/article/7)
 
 [^c12810381]: Marginal citation: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-3b4a2445355ee359db0cd907e70e3208]: Commencement: Sch. 17 para. 10 in force at 15.7.2003 in so far as not already in force by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/g)
+[^c-3b4a2445355ee359db0cd907e70e3208]: Commencement: Sch. 17 para. 10 in force at 15.7.2003 in so far as not already in force by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/g)
 
-[^key-33f7edb39dd3b3d803c6facf217590e1]: Commencement: Sch. 17 para. 11 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/g)
+[^c-33f7edb39dd3b3d803c6facf217590e1]: Commencement: Sch. 17 para. 11 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(g)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/g)
 
 [^c12810391]: Marginal citation: [1992 c. xvi](https://www.legislation.gov.uk/ukla/1992/16)

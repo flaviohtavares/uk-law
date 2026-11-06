@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Competitive award by reference to dynamic markets[^key-597d4921be2186ea56259ae284b8777d][^key-bad08419d9a03b1ca9b49da7d84a4b0e][^key-c82e951716704ddda5aabb3e81b63003]
+## 34. Competitive award by reference to dynamic markets[^c-597d4921be2186ea56259ae284b8777d][^c-bad08419d9a03b1ca9b49da7d84a4b0e][^c-c82e951716704ddda5aabb3e81b63003]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-597d4921be2186ea56259ae284b8777d]: Commencement: S. 34 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-597d4921be2186ea56259ae284b8777d]: Commencement: S. 34 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-bad08419d9a03b1ca9b49da7d84a4b0e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/54/section/34) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-bad08419d9a03b1ca9b49da7d84a4b0e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/54/section/34) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-c82e951716704ddda5aabb3e81b63003]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2023/54/section/34) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-c82e951716704ddda5aabb3e81b63003]: Modification: [S. 34](https://www.legislation.gov.uk/ukpga/2023/54/section/34) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

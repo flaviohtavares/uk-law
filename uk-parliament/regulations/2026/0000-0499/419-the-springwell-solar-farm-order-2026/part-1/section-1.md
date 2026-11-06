@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-0df34614f59c554d5c36b57d8c20588e]
+## 1. Citation and commencement[^c-0df34614f59c554d5c36b57d8c20588e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Springwell Solar Farm Order 2026 and comes into f
 
 ## Annotations
 
-[^key-0df34614f59c554d5c36b57d8c20588e]: Commencement: Art. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-0df34614f59c554d5c36b57d8c20588e]: Commencement: Art. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

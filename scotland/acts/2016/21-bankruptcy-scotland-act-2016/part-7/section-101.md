@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Recovery of excessive pension contributions[^key-ca45040358aacae95e227ffd23c2f5eb]
+## 101. Recovery of excessive pension contributions[^c-ca45040358aacae95e227ffd23c2f5eb]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ having at any time become subject to a debit under section 29(1)(a) of the 1999 
 
 ## Annotations
 
-[^key-ca45040358aacae95e227ffd23c2f5eb]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/21/section/101) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ca45040358aacae95e227ffd23c2f5eb]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/21/section/101) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

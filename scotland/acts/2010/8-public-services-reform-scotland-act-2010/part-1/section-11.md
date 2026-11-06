@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Delegation of certain functions of Forestry Commissioners under Forestry Act 1967[^key-8b453778c4efa2667631db4e0cfc7b16]
+## 11. Delegation of certain functions of Forestry Commissioners under Forestry Act 1967[^c-8b453778c4efa2667631db4e0cfc7b16]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ In the Forestry Act 1967 (c. 10), after section 7A insert—
 
 ## Annotations
 
-[^key-8b453778c4efa2667631db4e0cfc7b16]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/8/section/11) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-8b453778c4efa2667631db4e0cfc7b16]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/8/section/11) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

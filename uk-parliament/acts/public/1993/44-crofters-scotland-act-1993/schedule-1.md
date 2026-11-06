@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — THE CROFTING COMMISSION[^key-786d8aacaa35e7ec7969e55d4cc82245]
+## SCHEDULE 1 — THE CROFTING COMMISSION[^c-786d8aacaa35e7ec7969e55d4cc82245]
 
 *Extent: S*
 
@@ -371,4 +371,4 @@ to the Commission of such amounts as Ministers may determine.
 
 ## Annotations
 
-[^key-786d8aacaa35e7ec7969e55d4cc82245]: Textual amendment: Sch. 1 substituted (1.10.2011 for specified purposes, 1.4.2012 in force in so far as not already in force) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 1](https://www.legislation.gov.uk/asp/2010/14/schedule/1) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4) [5(1)](https://www.legislation.gov.uk/ssi/2011/334/article/5/1) [8](https://www.legislation.gov.uk/ssi/2011/334/article/8)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4) [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
+[^c-786d8aacaa35e7ec7969e55d4cc82245]: Textual amendment: Sch. 1 substituted (1.10.2011 for specified purposes, 1.4.2012 in force in so far as not already in force) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 1](https://www.legislation.gov.uk/asp/2010/14/schedule/1) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4) [5(1)](https://www.legislation.gov.uk/ssi/2011/334/article/5/1) [8](https://www.legislation.gov.uk/ssi/2011/334/article/8)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4) [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Orders under section 20: appeals[^key-568535f283db03836ca61d6931e126c9][^key-e8f30fb1ea6b01e2855940d9cae5bdcc]
+## 21. Orders under section 20: appeals[^c-568535f283db03836ca61d6931e126c9][^c-e8f30fb1ea6b01e2855940d9cae5bdcc]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-568535f283db03836ca61d6931e126c9]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/45/section/21) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-568535f283db03836ca61d6931e126c9]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/45/section/21) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-e8f30fb1ea6b01e2855940d9cae5bdcc]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/45/section/21) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-e8f30fb1ea6b01e2855940d9cae5bdcc]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/45/section/21) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

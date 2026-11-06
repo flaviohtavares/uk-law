@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-82be84b13b2a95dec13851573add8b94]
+## 1. Citation and commencement[^c-82be84b13b2a95dec13851573add8b94]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Education (Student Support) Regulations (N
 
 ## Annotations
 
-[^key-82be84b13b2a95dec13851573add8b94]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-82be84b13b2a95dec13851573add8b94]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

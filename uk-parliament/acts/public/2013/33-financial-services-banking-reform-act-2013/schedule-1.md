@@ -22,11 +22,11 @@ summary: ''
 
 Section 6
 
-**1.**[^key-020758c95583b5121df4b0780b3c1be3] Part 7 of FSMA 2000 (control of business transfer schemes) is amended as follows.
+**1.**[^c-020758c95583b5121df4b0780b3c1be3] Part 7 of FSMA 2000 (control of business transfer schemes) is amended as follows.
 
-**2.**[^key-4655402096ca93170da90dab520f257c] For “the authorised person concerned”, wherever occurring in Part 7 (including Schedule 12), substitute “ the transferor concerned ”.
+**2.**[^c-4655402096ca93170da90dab520f257c] For “the authorised person concerned”, wherever occurring in Part 7 (including Schedule 12), substitute “ the transferor concerned ”.
 
-**3.**[^key-892f201a785b08d11f766bbefeddd135] (1) Section 103A (meaning of “the appropriate regulator”) is amended as follows.
+**3.**[^c-892f201a785b08d11f766bbefeddd135] (1) Section 103A (meaning of “the appropriate regulator”) is amended as follows.
 
 (2) In subsection (1), in paragraph (a), for “a scheme” substitute “ a ring-fencing transfer scheme or a scheme (other than a ring-fencing transfer scheme) ”.
 
@@ -34,9 +34,9 @@ Section 6
 
 > - (d) in the case of a ring-fencing transfer scheme, means the body to whose business the scheme relates.
 
-**4.**[^key-b9ada26739a0cf1938bfa14647983155] In section 106 (banking business transfer schemes), at the end of subsection (1)(c) insert “ or a ring-fencing transfer scheme ”.
+**4.**[^c-b9ada26739a0cf1938bfa14647983155] In section 106 (banking business transfer schemes), at the end of subsection (1)(c) insert “ or a ring-fencing transfer scheme ”.
 
-**5.**[^key-00b10e196d53a6f8ca3f7f73e8037f6e] After section 106A insert—
+**5.**[^c-00b10e196d53a6f8ca3f7f73e8037f6e] After section 106A insert—
 
 > **106B. Ring-fencing transfer scheme**
 >
@@ -76,7 +76,7 @@ Section 6
 >
 > (8) “**The ring-fencing provisions**” means ring-fencing rules and the duty imposed as a result of section 142G.
 
-**6.**[^key-2891448b0edd3abfccf78d0c527529c9] (1) Section 107 (application for order sanctioning transfer scheme) is amended as follows.
+**6.**[^c-2891448b0edd3abfccf78d0c527529c9] (1) Section 107 (application for order sanctioning transfer scheme) is amended as follows.
 
 (2) In subsection (1), for “or a reclaim fund business transfer scheme” substitute “ , a reclaim fund business transfer scheme or a ring-fencing transfer scheme ”.
 
@@ -86,9 +86,9 @@ Section 6
 >
 > (2B) In deciding whether to give consent, the PRA must have regard to the scheme report prepared under section 109A in relation to the ring-fencing transfer scheme.
 
-**7.**[^key-6856fb5f8e70a340ec8a9cc3267510b4] For the heading to section 109 substitute “ Scheme reports: insurance business transfer schemes ”.
+**7.**[^c-6856fb5f8e70a340ec8a9cc3267510b4] For the heading to section 109 substitute “ Scheme reports: insurance business transfer schemes ”.
 
-**8.**[^key-138aa2e7a62e97f6be0711ca902a66f2] After section 109 insert—
+**8.**[^c-138aa2e7a62e97f6be0711ca902a66f2] After section 109 insert—
 
 > **109A. Scheme reports: ring-fencing transfer schemes**
 >
@@ -111,7 +111,7 @@ Section 6
 > - (a) nominating or approving a person under subsection (2)(b), or
 > - (b) approving a form under subsection (3).
 
-**9.**[^key-3e76d19524f0709aaa99b8a3240ca78c] (1) Section 110 (right to participate in proceedings) is amended as follows.
+**9.**[^c-3e76d19524f0709aaa99b8a3240ca78c] (1) Section 110 (right to participate in proceedings) is amended as follows.
 
 (2) In subsection (1), after “section 107” insert “ relating to an insurance business transfer scheme, a banking business transfer scheme or a reclaim fund business transfer scheme ”.
 
@@ -130,7 +130,7 @@ Section 6
 > - (a) filed (in Scotland, lodged) with the court a written statement of the representations that P wishes the court to consider, and
 > - (b) served copies of the statement on the PRA and the transferor concerned.
 
-**10.**[^key-496f5bbf5e051d4860a62a1e035a76dc] (1) Section 111 (sanction of court for business transfer schemes) is amended as follows.
+**10.**[^c-496f5bbf5e051d4860a62a1e035a76dc] (1) Section 111 (sanction of court for business transfer schemes) is amended as follows.
 
 (2) In subsection (1), for “or a reclaim fund business transfer scheme” substitute “ , a reclaim fund business transfer scheme or a ring-fencing transfer scheme ”.
 
@@ -138,11 +138,11 @@ Section 6
 
 > - (ab) in the case of a ring-fencing transfer scheme, the appropriate certificates have been obtained (as to which see Part 2B of that Schedule);
 
-**11.**[^key-0302d148c9e3fa1eef7eafe06d0bba35] In section 112 (effect of order sanctioning business transfer scheme), in subsection (10), after “transfer scheme” insert “ or ring-fencing transfer scheme ”.
+**11.**[^c-0302d148c9e3fa1eef7eafe06d0bba35] In section 112 (effect of order sanctioning business transfer scheme), in subsection (10), after “transfer scheme” insert “ or ring-fencing transfer scheme ”.
 
-**12.**[^key-02dc7d3b34d45012d338ce0230eaf906] In section 112A (rights to terminate etc.), in subsection (1), for “or a banking business transfer scheme” substitute “ , a banking business transfer scheme or a ring-fencing transfer scheme ”.
+**12.**[^c-02dc7d3b34d45012d338ce0230eaf906] In section 112A (rights to terminate etc.), in subsection (1), for “or a banking business transfer scheme” substitute “ , a banking business transfer scheme or a ring-fencing transfer scheme ”.
 
-**13.**[^key-58bc7c3fed1d1147ea297c6d18f660a1] In Schedule 12 (transfer schemes: certificates) after Part 2A insert—
+**13.**[^c-58bc7c3fed1d1147ea297c6d18f660a1] In Schedule 12 (transfer schemes: certificates) after Part 2A insert—
 
 > **PART 2B — Ring-fencing transfer schemes**
 >
@@ -178,28 +178,28 @@ Section 6
 
 ## Annotations
 
-[^key-020758c95583b5121df4b0780b3c1be3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/1) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-020758c95583b5121df4b0780b3c1be3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/1) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-4655402096ca93170da90dab520f257c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/2) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-4655402096ca93170da90dab520f257c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/2) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-892f201a785b08d11f766bbefeddd135]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/3) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-892f201a785b08d11f766bbefeddd135]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/3) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-b9ada26739a0cf1938bfa14647983155]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/4) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-b9ada26739a0cf1938bfa14647983155]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/4) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-00b10e196d53a6f8ca3f7f73e8037f6e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/5) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-00b10e196d53a6f8ca3f7f73e8037f6e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/5) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-2891448b0edd3abfccf78d0c527529c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/6) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-2891448b0edd3abfccf78d0c527529c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/6) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-6856fb5f8e70a340ec8a9cc3267510b4]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/7) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-6856fb5f8e70a340ec8a9cc3267510b4]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/7) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-138aa2e7a62e97f6be0711ca902a66f2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/8) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-138aa2e7a62e97f6be0711ca902a66f2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/8) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-3e76d19524f0709aaa99b8a3240ca78c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/9) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-3e76d19524f0709aaa99b8a3240ca78c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/9) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-496f5bbf5e051d4860a62a1e035a76dc]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/10) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-496f5bbf5e051d4860a62a1e035a76dc]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/10) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-0302d148c9e3fa1eef7eafe06d0bba35]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/11) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-0302d148c9e3fa1eef7eafe06d0bba35]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/11) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-02dc7d3b34d45012d338ce0230eaf906]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/12) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-02dc7d3b34d45012d338ce0230eaf906]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/12) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-58bc7c3fed1d1147ea297c6d18f660a1]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/13) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-58bc7c3fed1d1147ea297c6d18f660a1]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/1/paragraph/13) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

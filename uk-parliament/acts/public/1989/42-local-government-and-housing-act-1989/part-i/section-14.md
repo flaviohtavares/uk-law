@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Voting rights of members of certain committees: Scotland.[^key-5f6f1cce943f89380cd502934432040e]
+## 14. Voting rights of members of certain committees: Scotland.[^c-5f6f1cce943f89380cd502934432040e]
 
 *Extent: E+W+S*
 
@@ -44,9 +44,9 @@ a person who is a member of a sub-committee falling within that subsection shall
 - (a) a committee established in accordance with any regulations made by virtue of section 7 of the [^c15266031]Superannuation Act 1972 (regulations making provision for the superannuation of persons employed in local government service etc.);
 - (b) a committee appointed under section 57(4) of the [^c15266041]Local Government (Scotland) Act 1973 (appointment of advisory committees by local authorities);
 - (c) a committee constituted in accordance with Schedule A1 to the [^c15266051]Education (Scotland) Act 1980 (appeal committees for hearing placing and other appeals);
-- (d)[^key-bc2a3d40ca6f6e9c244bcaf3bebeff2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-bc2a3d40ca6f6e9c244bcaf3bebeff2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a committee established exclusively for the purpose of discharging such functions of a relevant authority as may be prescribed by regulations made by the Secretary of State;
-- (f) a sub-committee appointed by a committee falling within any of paragraphs (a) to (c) or[^key-c2427806490d3b52f5891bd8c68395d3] (e) above or such a sub-committee as is so prescribed.
+- (f) a sub-committee appointed by a committee falling within any of paragraphs (a) to (c) or[^c-c2427806490d3b52f5891bd8c68395d3] (e) above or such a sub-committee as is so prescribed.
 
 (6)[^c15266071] Nothing in this section shall prevent the appointment as a voting member of—
 
@@ -72,7 +72,7 @@ shall be omitted.
 
 ## Annotations
 
-[^key-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
+[^c-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
 
 [^c15265981]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
@@ -86,9 +86,9 @@ shall be omitted.
 
 [^c15266051]: Marginal citation: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-bc2a3d40ca6f6e9c244bcaf3bebeff2e]: Textual amendment: S. 14(5)(d) repealed (24.6.2013) by The Children’s [Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-bc2a3d40ca6f6e9c244bcaf3bebeff2e]: Textual amendment: S. 14(5)(d) repealed (24.6.2013) by The Children’s [Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
 
-[^key-c2427806490d3b52f5891bd8c68395d3]: Textual amendment: Words in s. 14(5)(f) inserted (24.6.2013) by The Children’s [Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/7)
+[^c-c2427806490d3b52f5891bd8c68395d3]: Textual amendment: Words in s. 14(5)(f) inserted (24.6.2013) by The Children’s [Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/7)
 
 [^c15266071]: Textual amendment: S. 14(6) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 161(1)(7)(d)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/161/1/7/d) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 

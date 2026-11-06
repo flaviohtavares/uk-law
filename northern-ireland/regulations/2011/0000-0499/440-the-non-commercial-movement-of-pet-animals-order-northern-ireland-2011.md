@@ -53,30 +53,30 @@ The Department makes this Order in exercise of the powers conferred by Articles 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-7707575ad53f419cc4914bcd63128211]
+### 1. Citation and commencement[^c-7707575ad53f419cc4914bcd63128211]
 
 This Order may be cited as the Non Commercial Movement of Pet Animals Order (Northern Ireland) 2011 and shall come into operation on 1st January 2012.
 
-### 2. Interpretation[^key-1f572743d36c796a45de7c03ec38e402]
+### 2. Interpretation[^c-1f572743d36c796a45de7c03ec38e402]
 
 (1) In this Order—
 
 - “carrier” means any undertaking carrying goods or passengers for hire by land, sea or air;
-- “the Commission Implementing Regulation” means Commission Implementing Regulation ([^key-2f674b96d72e1f784fc5d0c93320645e]EU) No 577/2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in Regulation (EU) No 576/2013 of the European Parliament and of the Council , as amended by Commission Implementing Regulation (EU) 2016/561[^key-3748ebd1f1110a475935f58df5f97329] [^f00007];
+- “the Commission Implementing Regulation” means Commission Implementing Regulation ([^c-2f674b96d72e1f784fc5d0c93320645e]EU) No 577/2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in Regulation (EU) No 576/2013 of the European Parliament and of the Council , as amended by Commission Implementing Regulation (EU) 2016/561[^c-3748ebd1f1110a475935f58df5f97329] [^f00007];
 - “Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459)” means Commission Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459) on certain protection measures with regard to monkey pox virus[^f00007];
 - “Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146)” means Commission Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146) on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia[^f00008];
 - “Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025)” means Commission Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) as regards certain protection measures in relation to highly pathogenic avian influenza and movements of pet birds accompanying their owners into the EU[^f00009];
-- “declaration” means a declaration given in accordance with Article 12(1)(c), Article 25(3) or Article 30(3) of the Pets Regulation;[^key-5afe07a5a6d76b98f4158a6164805d2b]
+- “declaration” means a declaration given in accordance with Article 12(1)(c), Article 25(3) or Article 30(3) of the Pets Regulation;[^c-5afe07a5a6d76b98f4158a6164805d2b]
 - “the Department” means the Department of Agriculture and Rural Development;
-- “health certificate” means a certificate issued in accordance with Article 26 or Article 31[^key-3b1e077f8db5f10c2957d27a0670e29c] of the Pets Regulation;
+- “health certificate” means a certificate issued in accordance with Article 26 or Article 31[^c-3b1e077f8db5f10c2957d27a0670e29c] of the Pets Regulation;
 - “inspector” means a person appointed by the Department for the purposes of this Order or the Diseases of Animals (Northern Ireland) Order 1981 and includes a veterinary inspector;
 - “pet bird” has the same meaning as in Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025);
-- “the Pets Regulation” means Regulation ([^key-3bd44c321c88b0e4722235aa33664fab]EU) No 576/2013 of the European Parliament and of the Council on the non-commercial movement of pet animals and repealing Regulation [(EC) 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998)[^f00008];
+- “the Pets Regulation” means Regulation ([^c-3bd44c321c88b0e4722235aa33664fab]EU) No 576/2013 of the European Parliament and of the Council on the non-commercial movement of pet animals and repealing Regulation [(EC) 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998)[^f00008];
 - “premises” means—
   - (a) any land, building, shed, pen or other place;
   - (b) any receptacle or container;
   - (c) any ship, vessel, boat, aircraft, hovercraft or vehicle of any other description;
-- “the supplementary Regulation” means Commission Delegated Regulation (EU) 2018/772 supplementing Regulation[^key-9bfc4b5c839a8ca8dcc26a1bde76d39d] [(EC) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576) of the European Parliament and of the Council with regard to preventive health measures for the control of *Echinococcus multilocularis* infection in dogs.
+- “the supplementary Regulation” means Commission Delegated Regulation (EU) 2018/772 supplementing Regulation[^c-9bfc4b5c839a8ca8dcc26a1bde76d39d] [(EC) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576) of the European Parliament and of the Council with regard to preventive health measures for the control of *Echinococcus multilocularis* infection in dogs.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to this Order as it applies to an Act of the Northern Ireland Assembly.
 
@@ -84,10 +84,10 @@ This Order may be cited as the Non Commercial Movement of Pet Animals Order (Nor
 
 (4) In this Order—
 
-- (a) any reference to Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) is a reference to that Decision as amended from time to time[^key-320cc0d43eb369c72765d953bd00dcbd]...
-- (b)[^key-fe8d5ca8b71145737138bc95605f669f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any reference to Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) is a reference to that Decision as amended from time to time[^c-320cc0d43eb369c72765d953bd00dcbd]...
+- (b)[^c-fe8d5ca8b71145737138bc95605f669f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Designation[^key-a984ac88b2f2f576579631339faa8146][^key-12d88c4e1fb78d73f5c723aa02971a02]
+### 3. Designation[^c-a984ac88b2f2f576579631339faa8146][^c-12d88c4e1fb78d73f5c723aa02971a02]
 
 The Department is the competent authority for the purposes of—
 
@@ -95,7 +95,7 @@ The Department is the competent authority for the purposes of—
 - (b) Article 2(1) of Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025), and
 - (c) article 10 of this Order
 
-### 4. Notices[^key-4a206463f337aa236a7dfda405f5219f]
+### 4. Notices[^c-4a206463f337aa236a7dfda405f5219f]
 
 Any notice issued by the Department under this Order—
 
@@ -105,28 +105,28 @@ Any notice issued by the Department under this Order—
 
 ## PART 2 — CONTROLS ON DISEASES
 
-### 5. Controls on rabies and certain other diseases of mammals[^key-0c4a8964daa05420a728cbaaf3e73c7c]
+### 5. Controls on rabies and certain other diseases of mammals[^c-0c4a8964daa05420a728cbaaf3e73c7c]
 
 (1) The Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977[^f00013] does not apply to the landing of a pet animal in Northern Ireland which—
 
-- (a) is an animal of a species listed in Part A [^key-3fdca7f40551a31787039ebc7ff4aff9]... of Annex I to the Pets Regulation and is brought into Northern Ireland and satisfies—
+- (a) is an animal of a species listed in Part A [^c-3fdca7f40551a31787039ebc7ff4aff9]... of Annex I to the Pets Regulation and is brought into Northern Ireland and satisfies—
   - (i) the requirement in respect of Rabies in Article 6
   - (ii) the requirement in respect of Nipah disease in Article 7 (where applicable);
   - (iii) the requirement in respect of Hendra disease in Article 8 (where applicable); and
   - (iv) the requirement in respect of *Echinococcus multilocularis)* in Article 9 (where applicable),
 - (b) is brought into Northern Ireland directly from Great Britain, the Channel Islands or the Isle of Man; or
-- (c)[^key-9710b875a9e44860c3b6ebf201089ab6] is an animal of a species listed in Part B of Annex I to the Pets Regulation and is brought into Northern Ireland from a[^key-79175fab379ef7a236a6171cf72f5009] member State.
+- (c)[^c-9710b875a9e44860c3b6ebf201089ab6] is an animal of a species listed in Part B of Annex I to the Pets Regulation and is brought into Northern Ireland from a[^c-79175fab379ef7a236a6171cf72f5009] member State.
 
 (2) The Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977 does apply to the importation into Northern Ireland of a pet animal which is—
 
 - (a) a prairie dog originating in, or coming from, the United States of America; or
 - (b) a rodent of non-domestic species or a squirrel originating in or coming from a third country of the African sub-Saharan region.
 
-### 6. Rabies[^key-89201828894df84af2b3b2395c87f8fb]
+### 6. Rabies[^c-89201828894df84af2b3b2395c87f8fb]
 
-The requirement in respect of rabies is that the animal complies with Article 6 or 10[^key-fa564c2872c11e3ae883afb38e00ffd1] of the Pets Regulation (as the case may be).
+The requirement in respect of rabies is that the animal complies with Article 6 or 10[^c-fa564c2872c11e3ae883afb38e00ffd1] of the Pets Regulation (as the case may be).
 
-### 7. Nipah disease[^key-507e04b5782de079103885b1061b565d]
+### 7. Nipah disease[^c-507e04b5782de079103885b1061b565d]
 
 The requirement in respect of Nipah disease is that a dog or cat imported from Malaysia (Peninsula) must be accompanied by a certificate which—
 
@@ -134,7 +134,7 @@ The requirement in respect of Nipah disease is that a dog or cat imported from M
 - (b) states the number of the microchip implanted in the dog or cat; and
 - (c) certifies that the conditions in Article 2(2) of Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146) have been met.
 
-### 8. Hendra disease[^key-436896e5a29909c02445b94d2b2eff1b]
+### 8. Hendra disease[^c-436896e5a29909c02445b94d2b2eff1b]
 
 The requirement in respect of Hendra disease is that a cat imported from Australia must be accompanied by a certificate which—
 
@@ -142,11 +142,11 @@ The requirement in respect of Hendra disease is that a cat imported from Austral
 - (b) states the number of the microchip implanted in the cat; and
 - (c) certifies that the condition in Article 3(2) of Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146) has been met.
 
-### 9. Echinococcus multilocularis[^key-c18c8fa69681542401938644605d3c51]
+### 9. Echinococcus multilocularis[^c-c18c8fa69681542401938644605d3c51]
 
-The requirement in respect of *Echinococcus multilocularis* is that a dog complies with any preventive health measures in Article 6[^key-47c4dc359fb0d4160935da09194856f0] of the supplementary Regulation except where those measures do not apply by virtue of Article 7(1)(b)[^key-5c2f600f0a538b7c7e6d68bb666f38b3] of that Regulation.
+The requirement in respect of *Echinococcus multilocularis* is that a dog complies with any preventive health measures in Article 6[^c-47c4dc359fb0d4160935da09194856f0] of the supplementary Regulation except where those measures do not apply by virtue of Article 7(1)(b)[^c-5c2f600f0a538b7c7e6d68bb666f38b3] of that Regulation.
 
-### 10. Controls on highly pathogenic avian influenza[^key-f92717bb7b46c94d255022fdf4ca69d9]
+### 10. Controls on highly pathogenic avian influenza[^c-f92717bb7b46c94d255022fdf4ca69d9]
 
 (1) This Article applies where a pet bird is part of a movement into Northern Ireland which does not comply with Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025).
 
@@ -160,7 +160,7 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 (4) Where a notice is not complied with, an officer of the competent authority may seize the bird, detain it and arrange for it to be treated as required by the notice at the expense of the person on whom the notice is served.
 
-## PART 2A — Microchipping of Pet Animals[^key-c74b5e2f4fc06d0764153295b52ea0ca]
+## PART 2A — Microchipping of Pet Animals[^c-c74b5e2f4fc06d0764153295b52ea0ca]
 
 ### 10A. Minimum qualifications for microchipping of pet animals
 
@@ -180,23 +180,23 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 ## PART 3 — ASSISTANCE DOGS
 
-### 11. Landing of assistance dogs[^key-a7bb99ed05e497e3d32850154c6fb438]
+### 11. Landing of assistance dogs[^c-a7bb99ed05e497e3d32850154c6fb438]
 
-(1) A Community air carrier[^key-484b7677c58dfacc0a37c736c7c2421e] , a UK air carrier, a United Kingdom carrier[^key-f42f84341346aff26800759420d2d1ea] or a Union carrier, may land a recognised assistance dog in Northern Ireland provided the recognised assistance dog complies with the Pets Regulation.
+(1) A Community air carrier[^c-484b7677c58dfacc0a37c736c7c2421e] , a UK air carrier, a United Kingdom carrier[^c-f42f84341346aff26800759420d2d1ea] or a Union carrier, may land a recognised assistance dog in Northern Ireland provided the recognised assistance dog complies with the Pets Regulation.
 
-(2)[^key-2116d75c1851404968a8a09e57dd06e5] In this article—
+(2)[^c-2116d75c1851404968a8a09e57dd06e5] In this article—
 
-- “Community air carrier” and UK air carrier have[^key-da0d23e8d2cab1cea32c950e40bd1a90] the meaning given by Article 2 of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/european/regulation/2006/1107) of the European Parliament and of the Council concerning the rights of disabled persons and persons with reduced mobility when travelling by air, and for the purposes of travelling by air “recognised assistance dog” shall be interpreted in accordance with that Regulation;
-- “Union carrier” has the meaning given by Article 3 of Regulation (EU) No 1177/2010 of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway as it applies in the European Union as amended from time to time[^key-d82a5deee4c00bded757fd44cc76ed0c]
-- “[^key-fd21d56db1689531a6eaf8bdf198aa5a]**United Kingdom carrier**” means a carrier established within the territory of the United Kingdom or offering transport by a passenger service operated to or from the territory of the United Kingdom, and for the purposes of travelling by sea and inland waterway, “recognised assistance dog” shall be interpreted in accordance with Regulation (EU) No 1177/2010 of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway.
+- “Community air carrier” and UK air carrier have[^c-da0d23e8d2cab1cea32c950e40bd1a90] the meaning given by Article 2 of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/european/regulation/2006/1107) of the European Parliament and of the Council concerning the rights of disabled persons and persons with reduced mobility when travelling by air, and for the purposes of travelling by air “recognised assistance dog” shall be interpreted in accordance with that Regulation;
+- “Union carrier” has the meaning given by Article 3 of Regulation (EU) No 1177/2010 of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway as it applies in the European Union as amended from time to time[^c-d82a5deee4c00bded757fd44cc76ed0c]
+- “[^c-fd21d56db1689531a6eaf8bdf198aa5a]**United Kingdom carrier**” means a carrier established within the territory of the United Kingdom or offering transport by a passenger service operated to or from the territory of the United Kingdom, and for the purposes of travelling by sea and inland waterway, “recognised assistance dog” shall be interpreted in accordance with Regulation (EU) No 1177/2010 of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway.
 
 ## PART 4 — ENFORCEMENT
 
-### 12. Powers of inspectors[^key-e3b2eac35c057ee5ae5fadc46664854a]
+### 12. Powers of inspectors[^c-e3b2eac35c057ee5ae5fadc46664854a]
 
-(1) An inspector may, on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purpose of enforcing the relevant instruments. In this Part the “relevant instruments” are the Pets Regulation, the Commission Implementing Regulation,[^key-fb88bafff3e5169211095e1cca859d67] Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459), Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146), Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025), the supplementary Regulation and this Order.
+(1) An inspector may, on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purpose of enforcing the relevant instruments. In this Part the “relevant instruments” are the Pets Regulation, the Commission Implementing Regulation,[^c-fb88bafff3e5169211095e1cca859d67] Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459), Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146), Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025), the supplementary Regulation and this Order.
 
-(2) The inspector may be accompanied by such other persons as the inspector considers necessary.[^key-15a6ef1fad9bf8cedf507b9bdc7286a6]....
+(2) The inspector may be accompanied by such other persons as the inspector considers necessary.[^c-15a6ef1fad9bf8cedf507b9bdc7286a6]....
 
 (3) Admission to any premises used wholly or mainly as a private dwelling house may not be demanded as of right unless the entry is in accordance with a warrant granted under paragraph (4).
 
@@ -224,17 +224,17 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 - (d) require any person to provide such assistance, information or facilities as is reasonable;
 - (e) seize and detain a pet animal or bird.
 
-### 13. Offences[^key-415d39437ffabd083d98707f399a5349]
+### 13. Offences[^c-415d39437ffabd083d98707f399a5349]
 
 It is an offence—
 
 - (a) to fail to comply with a notice served under Article 10(2);
 - (b) intentionally to obstruct any person acting in the execution of the relevant instruments;
 - (c) without reasonable cause, to fail to give to any such person any assistance or information that that person may reasonably require;
-- (d) to furnish to any such person any information knowing it to be false or misleading (including information contained in a passport, health certificate or declaration)[^key-36c6b5eac0f3e1ce7611c617e6f411df] ; or
-- (e) to fail to produce a document or record (including a passport, health certificate or declaration)[^key-7251fd4464f33e61de61140b4d17d98d] to any such person when required to do so.
+- (d) to furnish to any such person any information knowing it to be false or misleading (including information contained in a passport, health certificate or declaration)[^c-36c6b5eac0f3e1ce7611c617e6f411df] ; or
+- (e) to fail to produce a document or record (including a passport, health certificate or declaration)[^c-7251fd4464f33e61de61140b4d17d98d] to any such person when required to do so.
 
-### 14. Penalties[^key-ae9a5f8464566b70815d6304e5efe21d]
+### 14. Penalties[^c-ae9a5f8464566b70815d6304e5efe21d]
 
 (1) A person found guilty of an offence under Article 13(a) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -242,15 +242,15 @@ It is an offence—
 
 ## PART 5 — TRANSITIONAL, AMENDMENTS AND REVOCATIONS
 
-### 15. Transitional[^key-768643a44afbad17972f229625c7ba35]
+### 15. Transitional[^c-768643a44afbad17972f229625c7ba35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendments[^key-bbf48fca1a22446018dd2d77127eb3b8]
+### 16. Amendments[^c-bbf48fca1a22446018dd2d77127eb3b8]
 
 The Schedule (amendments) has effect.
 
-### 17. Revocations[^key-1775b7d2bfc4e03d67f039e3c2394dab]
+### 17. Revocations[^c-1775b7d2bfc4e03d67f039e3c2394dab]
 
 The Rabies (Importation of Dogs, Cats and Other Mammals) (Amendment) Order (Northern Ireland) 2005[^f00015] is hereby revoked.
 
@@ -264,11 +264,11 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Article 16
 
-### 1. Amendments to the Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977[^key-e6fa73d74b4e2a847e32cc6ed619a327]
+### 1. Amendments to the Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977[^c-e6fa73d74b4e2a847e32cc6ed619a327]
 
 The Rabies (Importation of Dogs, Cats and Other Mammals) Order (Northern Ireland) 1977 is amended in accordance with the following paragraphs.
 
-### 2. Amendment of Article 3[^key-22a1e8b9692f4991a76c0653bec8b95f]
+### 2. Amendment of Article 3[^c-22a1e8b9692f4991a76c0653bec8b95f]
 
 In Article 3(1) (*interpretation*)—
 
@@ -288,7 +288,7 @@ In Article 3(1) (*interpretation*)—
   , and
 - (b) in paragraph (2), after the words “leaves or escapes from, a vessel” insert “, vehicle”.
 
-### 3. Amendment of Article 4[^key-a8dd91d22071e4ec50c7230232a669d5]
+### 3. Amendment of Article 4[^c-a8dd91d22071e4ec50c7230232a669d5]
 
 (1) For Article 4 (*prohibition on landing of animals*) substitute—
 
@@ -356,7 +356,7 @@ In Article 3(1) (*interpretation*)—
 
 (2) Articles 4B and 4C are revoked.
 
-### 4. Amendment of Article 5[^key-6be0daf2d8bd1a35a82f77424365e5c3]
+### 4. Amendment of Article 5[^c-6be0daf2d8bd1a35a82f77424365e5c3]
 
 In Article 5(detention and isolation in quarantine)—
 
@@ -383,7 +383,7 @@ In Article 5(detention and isolation in quarantine)—
   .
 - (b) in the second paragraph of paragraph (3) for “referred to in that paragraph shall, unless the Department” substitute “referred to in paragraph (2B) shall, unless the animals are subject to Article 5 or Article 8 of the Pets Regulation or the Department”.
 
-### 5. Amendment of Article 6[^key-55e405c72b6f7f543e0550c970179ca2]
+### 5. Amendment of Article 6[^c-55e405c72b6f7f543e0550c970179ca2]
 
 In Article 6 (vaccination of dogs and cats in quarantine)—
 
@@ -396,7 +396,7 @@ In Article 6 (vaccination of dogs and cats in quarantine)—
 
   .
 
-### 6. Amendment of Article 7[^key-ce1dd4dec3e75fd6f1270a5effbe40a6]
+### 6. Amendment of Article 7[^c-ce1dd4dec3e75fd6f1270a5effbe40a6]
 
 In Article 7 (control of movement after landing)—
 
@@ -407,7 +407,7 @@ In Article 7 (control of movement after landing)—
   .
 - (b) in paragraph (2), after “vessel” insert, “,vehicle”.
 
-### 7. Amendment of Article 8[^key-d090453f1c7e9f6469982eade8c0a2eb]
+### 7. Amendment of Article 8[^c-d090453f1c7e9f6469982eade8c0a2eb]
 
 In Article 8 (control of animals passing through Northern Ireland), insert—
 
@@ -420,7 +420,7 @@ In Article 8 (control of animals passing through Northern Ireland), insert—
 
   .
 
-### 8. Amendment of Article 12[^key-2fb4916790de7cada2c23ca7028856d8]
+### 8. Amendment of Article 12[^c-2fb4916790de7cada2c23ca7028856d8]
 
 In Article 12 (detention of animals on board vessels in harbour)—
 
@@ -451,7 +451,7 @@ In Article 12 (detention of animals on board vessels in harbour)—
 
   .
 
-### 9. Amendment of Article 13[^key-9d0ba8cab79db8271482ce646d0a9b93]
+### 9. Amendment of Article 13[^c-9d0ba8cab79db8271482ce646d0a9b93]
 
 In Article 13 (action in case of illegal landing or breach of quarantine)—
 
@@ -471,7 +471,7 @@ In Article 13 (action in case of illegal landing or breach of quarantine)—
 
   .
 
-### 10. Amendment of Article 14[^key-cdf2fb50b19a9465d729a4cfc37aaf85]
+### 10. Amendment of Article 14[^c-cdf2fb50b19a9465d729a4cfc37aaf85]
 
 In Article 14 (power to destroy imported animals)—
 
@@ -482,7 +482,7 @@ In Article 14 (power to destroy imported animals)—
 
   .
 
-### 11. Amendment of the Schedule[^key-c8b51f5b3260bbbe669e6d455f66e93e]
+### 11. Amendment of the Schedule[^c-c8b51f5b3260bbbe669e6d455f66e93e]
 
 In the heading of Part II of the Schedule 2 for “6” substitute “4”.
 
@@ -530,13 +530,13 @@ The Schedule amends the 1977 Order to reduce the quarantine period for rabies-su
 
 [^f00006]: Footnote: Paragraph 1A was inserted into Schedule 2 by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) as amended by [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7)
 
-[^key-7707575ad53f419cc4914bcd63128211]: Commencement: Art. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-7707575ad53f419cc4914bcd63128211]: Commencement: Art. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-1f572743d36c796a45de7c03ec38e402]: Commencement: Art. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-1f572743d36c796a45de7c03ec38e402]: Commencement: Art. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-2f674b96d72e1f784fc5d0c93320645e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/a)
+[^c-2f674b96d72e1f784fc5d0c93320645e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/a)
 
-[^key-3748ebd1f1110a475935f58df5f97329]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 29(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/29/a)
+[^c-3748ebd1f1110a475935f58df5f97329]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 29(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/29/a)
 
 [^f00007]: Footnote: O.J. No L 154, 21.6.2003, p112.
 
@@ -544,112 +544,112 @@ The Schedule amends the 1977 Order to reduce the quarantine period for rabies-su
 
 [^f00009]: Footnote: O.J. No. L 8, 13.1.2007, p.29, which was last amended by Commission Decision [2009/818/EC](https://www.legislation.gov.uk/european/decision/2009/0818) (O.J. No. L 291, 7.11.2009, p.27)
 
-[^key-5afe07a5a6d76b98f4158a6164805d2b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/b)
+[^c-5afe07a5a6d76b98f4158a6164805d2b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/b)
 
-[^key-3b1e077f8db5f10c2957d27a0670e29c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(c)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/c)
+[^c-3b1e077f8db5f10c2957d27a0670e29c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(c)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/c)
 
-[^key-3bd44c321c88b0e4722235aa33664fab]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(d)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/d)
+[^c-3bd44c321c88b0e4722235aa33664fab]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(1)(d)](https://www.legislation.gov.uk/nisr/2015/282/article/4/1/d)
 
-[^key-9bfc4b5c839a8ca8dcc26a1bde76d39d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 29(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/29/b)
+[^c-9bfc4b5c839a8ca8dcc26a1bde76d39d]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/440/article/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 29(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/29/b)
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-320cc0d43eb369c72765d953bd00dcbd]: Textual amendment: Word in [art. 2(4)](https://www.legislation.gov.uk/nisr/2011/440/article/2/4/b) omitted (23.7.2015) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/282/article/4/2/a)
+[^c-320cc0d43eb369c72765d953bd00dcbd]: Textual amendment: Word in [art. 2(4)](https://www.legislation.gov.uk/nisr/2011/440/article/2/4/b) omitted (23.7.2015) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/282/article/4/2/a)
 
-[^key-fe8d5ca8b71145737138bc95605f669f]: Textual amendment: [Art. 2(4)(b)](https://www.legislation.gov.uk/nisr/2011/440/article/2/4/b) omitted (23.7.2015) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2015/282/article/4/2/b)
+[^c-fe8d5ca8b71145737138bc95605f669f]: Textual amendment: [Art. 2(4)(b)](https://www.legislation.gov.uk/nisr/2011/440/article/2/4/b) omitted (23.7.2015) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2015/282/article/4/2/b)
 
-[^key-a984ac88b2f2f576579631339faa8146]: Commencement: Art. 3 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-a984ac88b2f2f576579631339faa8146]: Commencement: Art. 3 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-12d88c4e1fb78d73f5c723aa02971a02]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2011/440/article/3) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [5](https://www.legislation.gov.uk/nisr/2015/282/article/5)
+[^c-12d88c4e1fb78d73f5c723aa02971a02]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2011/440/article/3) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [5](https://www.legislation.gov.uk/nisr/2015/282/article/5)
 
-[^key-4a206463f337aa236a7dfda405f5219f]: Commencement: Art. 4 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-4a206463f337aa236a7dfda405f5219f]: Commencement: Art. 4 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-0c4a8964daa05420a728cbaaf3e73c7c]: Commencement: Art. 5 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-0c4a8964daa05420a728cbaaf3e73c7c]: Commencement: Art. 5 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
 [^f00013]: Footnote: [S.R 1977 No. 113](https://www.legislation.gov.uk/nisr/1977/113) as amended by [S.R. 1977 No. 256](https://www.legislation.gov.uk/nisr/1977/256), [S.R.1994 No. 402](https://www.legislation.gov.uk/nisr/1994/402), [S.R. 2000 No.10](https://www.legislation.gov.uk/nisr/2000/10) and [S.R. 2005 No. 275](https://www.legislation.gov.uk/nisr/2005/275) and disapplied by [S.R. 2006 No. 401](https://www.legislation.gov.uk/nisr/2006/401)
 
-[^key-3fdca7f40551a31787039ebc7ff4aff9]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/nisr/2011/440/article/5/1/a) omitted (23.7.2015) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/282/article/6/1)
+[^c-3fdca7f40551a31787039ebc7ff4aff9]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/nisr/2011/440/article/5/1/a) omitted (23.7.2015) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2015/282/article/6/1)
 
-[^key-9710b875a9e44860c3b6ebf201089ab6]: Textual amendment: [Art. 5(1)(c)](https://www.legislation.gov.uk/nisr/2011/440/article/5/1/c) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [6(2)](https://www.legislation.gov.uk/nisr/2015/282/article/6/2)
+[^c-9710b875a9e44860c3b6ebf201089ab6]: Textual amendment: [Art. 5(1)(c)](https://www.legislation.gov.uk/nisr/2011/440/article/5/1/c) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [6(2)](https://www.legislation.gov.uk/nisr/2015/282/article/6/2)
 
-[^key-79175fab379ef7a236a6171cf72f5009]: Textual amendment: Word in [art. 5(1)(c)](https://www.legislation.gov.uk/nisr/2011/440/article/5/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79175fab379ef7a236a6171cf72f5009]: Textual amendment: Word in [art. 5(1)(c)](https://www.legislation.gov.uk/nisr/2011/440/article/5/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89201828894df84af2b3b2395c87f8fb]: Commencement: Art. 6 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-89201828894df84af2b3b2395c87f8fb]: Commencement: Art. 6 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-fa564c2872c11e3ae883afb38e00ffd1]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/nisr/2011/440/article/6) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [7](https://www.legislation.gov.uk/nisr/2015/282/article/7)
+[^c-fa564c2872c11e3ae883afb38e00ffd1]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/nisr/2011/440/article/6) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [7](https://www.legislation.gov.uk/nisr/2015/282/article/7)
 
-[^key-507e04b5782de079103885b1061b565d]: Commencement: Art. 7 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-507e04b5782de079103885b1061b565d]: Commencement: Art. 7 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-436896e5a29909c02445b94d2b2eff1b]: Commencement: Art. 8 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-436896e5a29909c02445b94d2b2eff1b]: Commencement: Art. 8 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-c18c8fa69681542401938644605d3c51]: Commencement: Art. 9 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-c18c8fa69681542401938644605d3c51]: Commencement: Art. 9 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-47c4dc359fb0d4160935da09194856f0]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/nisr/2011/440/article/9) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 30(a)](https://editorial.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/30)
+[^c-47c4dc359fb0d4160935da09194856f0]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/nisr/2011/440/article/9) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 30(a)](https://editorial.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/30)
 
-[^key-5c2f600f0a538b7c7e6d68bb666f38b3]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/nisr/2011/440/article/9) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 30(b)](https://editorial.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/30)
+[^c-5c2f600f0a538b7c7e6d68bb666f38b3]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/nisr/2011/440/article/9) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 30(b)](https://editorial.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/30)
 
-[^key-f92717bb7b46c94d255022fdf4ca69d9]: Commencement: Art. 10 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-f92717bb7b46c94d255022fdf4ca69d9]: Commencement: Art. 10 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-c74b5e2f4fc06d0764153295b52ea0ca]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/nisr/2011/440/part/2A) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [8](https://www.legislation.gov.uk/nisr/2015/282/article/8)
+[^c-c74b5e2f4fc06d0764153295b52ea0ca]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/nisr/2011/440/part/2A) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [8](https://www.legislation.gov.uk/nisr/2015/282/article/8)
 
 [^f00010]: Footnote: O.J. No. L 146, 13.6.2003, p.1 which was last amended by Regulation (EU) No. 438/2010 (O.J. No. L 132, 29.5.2010, p.3)
 
-[^key-a7bb99ed05e497e3d32850154c6fb438]: Commencement: Art. 11 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-a7bb99ed05e497e3d32850154c6fb438]: Commencement: Art. 11 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-484b7677c58dfacc0a37c736c7c2421e]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisr/2011/440/article/11/1) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [9(1)](https://www.legislation.gov.uk/nisr/2015/282/article/9/1)
+[^c-484b7677c58dfacc0a37c736c7c2421e]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisr/2011/440/article/11/1) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [9(1)](https://www.legislation.gov.uk/nisr/2015/282/article/9/1)
 
-[^key-f42f84341346aff26800759420d2d1ea]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisr/2011/440/article/11/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f42f84341346aff26800759420d2d1ea]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisr/2011/440/article/11/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2116d75c1851404968a8a09e57dd06e5]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [9(2)](https://www.legislation.gov.uk/nisr/2015/282/article/9/2)
+[^c-2116d75c1851404968a8a09e57dd06e5]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [9(2)](https://www.legislation.gov.uk/nisr/2015/282/article/9/2)
 
-[^key-da0d23e8d2cab1cea32c950e40bd1a90]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da0d23e8d2cab1cea32c950e40bd1a90]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d82a5deee4c00bded757fd44cc76ed0c]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d82a5deee4c00bded757fd44cc76ed0c]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd21d56db1689531a6eaf8bdf198aa5a]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd21d56db1689531a6eaf8bdf198aa5a]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisr/2011/440/article/11/2) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3b2eac35c057ee5ae5fadc46664854a]: Commencement: Art. 12 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-e3b2eac35c057ee5ae5fadc46664854a]: Commencement: Art. 12 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-fb88bafff3e5169211095e1cca859d67]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/nisr/2011/440/article/12/1) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [10](https://www.legislation.gov.uk/nisr/2015/282/article/10)
+[^c-fb88bafff3e5169211095e1cca859d67]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/nisr/2011/440/article/12/1) inserted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [10](https://www.legislation.gov.uk/nisr/2015/282/article/10)
 
-[^key-15a6ef1fad9bf8cedf507b9bdc7286a6]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/nisr/2011/440/article/12/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(4)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15a6ef1fad9bf8cedf507b9bdc7286a6]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/nisr/2011/440/article/12/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(4)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-415d39437ffabd083d98707f399a5349]: Commencement: Art. 13 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-415d39437ffabd083d98707f399a5349]: Commencement: Art. 13 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-36c6b5eac0f3e1ce7611c617e6f411df]: Textual amendment: Words in [art. 13(d)](https://www.legislation.gov.uk/nisr/2011/440/article/13/d) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [11(1)](https://www.legislation.gov.uk/nisr/2015/282/article/11/1)
+[^c-36c6b5eac0f3e1ce7611c617e6f411df]: Textual amendment: Words in [art. 13(d)](https://www.legislation.gov.uk/nisr/2011/440/article/13/d) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [11(1)](https://www.legislation.gov.uk/nisr/2015/282/article/11/1)
 
-[^key-7251fd4464f33e61de61140b4d17d98d]: Textual amendment: Words in [art. 13(e)](https://www.legislation.gov.uk/nisr/2011/440/article/13/e) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [11(2)](https://www.legislation.gov.uk/nisr/2015/282/article/11/2)
+[^c-7251fd4464f33e61de61140b4d17d98d]: Textual amendment: Words in [art. 13(e)](https://www.legislation.gov.uk/nisr/2011/440/article/13/e) substituted (23.7.2015) by [The Non-Commercial Movement of Pet Animals (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/282)](https://www.legislation.gov.uk/nisr/2015/282), [arts. 1](https://www.legislation.gov.uk/nisr/2015/282/article/1), [11(2)](https://www.legislation.gov.uk/nisr/2015/282/article/11/2)
 
-[^key-ae9a5f8464566b70815d6304e5efe21d]: Commencement: Art. 14 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-ae9a5f8464566b70815d6304e5efe21d]: Commencement: Art. 14 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-768643a44afbad17972f229625c7ba35]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/nisr/2011/440/article/15) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-768643a44afbad17972f229625c7ba35]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/nisr/2011/440/article/15) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/811)](https://www.legislation.gov.uk/uksi/2019/811), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/811/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2019/811/regulation/13/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bbf48fca1a22446018dd2d77127eb3b8]: Commencement: Art. 16 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-bbf48fca1a22446018dd2d77127eb3b8]: Commencement: Art. 16 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-1775b7d2bfc4e03d67f039e3c2394dab]: Commencement: Art. 17 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-1775b7d2bfc4e03d67f039e3c2394dab]: Commencement: Art. 17 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
 [^f00015]: Footnote: [S.R. 2005 No. 275](https://www.legislation.gov.uk/nisr/2005/275)
 
-[^key-e6fa73d74b4e2a847e32cc6ed619a327]: Commencement: Sch. para. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-e6fa73d74b4e2a847e32cc6ed619a327]: Commencement: Sch. para. 1 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-22a1e8b9692f4991a76c0653bec8b95f]: Commencement: Sch. para. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-22a1e8b9692f4991a76c0653bec8b95f]: Commencement: Sch. para. 2 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
 [^f00016]: Footnote: O.J. No L 296, 15.11.2011, p.6.
 
-[^key-a8dd91d22071e4ec50c7230232a669d5]: Commencement: Sch. para. 3 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-a8dd91d22071e4ec50c7230232a669d5]: Commencement: Sch. para. 3 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-6be0daf2d8bd1a35a82f77424365e5c3]: Commencement: Sch. para. 4 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-6be0daf2d8bd1a35a82f77424365e5c3]: Commencement: Sch. para. 4 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-55e405c72b6f7f543e0550c970179ca2]: Commencement: Sch. para. 5 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-55e405c72b6f7f543e0550c970179ca2]: Commencement: Sch. para. 5 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-ce1dd4dec3e75fd6f1270a5effbe40a6]: Commencement: Sch. para. 6 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-ce1dd4dec3e75fd6f1270a5effbe40a6]: Commencement: Sch. para. 6 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-d090453f1c7e9f6469982eade8c0a2eb]: Commencement: Sch. para. 7 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-d090453f1c7e9f6469982eade8c0a2eb]: Commencement: Sch. para. 7 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-2fb4916790de7cada2c23ca7028856d8]: Commencement: Sch. para. 8 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-2fb4916790de7cada2c23ca7028856d8]: Commencement: Sch. para. 8 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-9d0ba8cab79db8271482ce646d0a9b93]: Commencement: Sch. para. 9 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-9d0ba8cab79db8271482ce646d0a9b93]: Commencement: Sch. para. 9 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-cdf2fb50b19a9465d729a4cfc37aaf85]: Commencement: Sch. para. 10 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-cdf2fb50b19a9465d729a4cfc37aaf85]: Commencement: Sch. para. 10 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
 
-[^key-c8b51f5b3260bbbe669e6d455f66e93e]: Commencement: Sch. para. 11 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)
+[^c-c8b51f5b3260bbbe669e6d455f66e93e]: Commencement: Sch. para. 11 in operation at 1.1.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2011/440/article/1)

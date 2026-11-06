@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73.12. Application for stop order[^key-2c19800aed515831ce1f85e551322f5f]
+## 73.12. Application for stop order[^c-2c19800aed515831ce1f85e551322f5f]
 
 *Extent: E+W*
 
@@ -38,10 +38,10 @@ summary: ''
 - (a) every person whose interest may be affected by the order applied for; and
 - (b) either—
   - (i) the Accountant General at the Court Funds Office, if the application relates to funds in court; or
-  - (ii) the person specified in rule 73.7(7)(f)[^key-6be63193f8cfa1890183a7e4c5793c9a], if the application relates to securities other than securities held in court.
+  - (ii) the person specified in rule 73.7(7)(f)[^c-6be63193f8cfa1890183a7e4c5793c9a], if the application relates to securities other than securities held in court.
 
 ## Annotations
 
-[^key-2c19800aed515831ce1f85e551322f5f]: Textual amendment: Pt. 73 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2792/schedule/4) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
+[^c-2c19800aed515831ce1f85e551322f5f]: Textual amendment: Pt. 73 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2792/schedule/4) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
 
-[^key-6be63193f8cfa1890183a7e4c5793c9a]: Textual amendment: Word in [rule 73.12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/73.12/3/b/ii) substituted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [16](https://www.legislation.gov.uk/uksi/2016/234/rule/16) (with [rule 24](https://www.legislation.gov.uk/uksi/2016/234/rule/24))
+[^c-6be63193f8cfa1890183a7e4c5793c9a]: Textual amendment: Word in [rule 73.12(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/73.12/3/b/ii) substituted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [16](https://www.legislation.gov.uk/uksi/2016/234/rule/16) (with [rule 24](https://www.legislation.gov.uk/uksi/2016/234/rule/24))

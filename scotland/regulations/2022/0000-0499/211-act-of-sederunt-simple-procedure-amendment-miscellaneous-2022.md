@@ -47,15 +47,15 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 104(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-53b629344dcf9e913a9a708ea0c99629]
+## 1. Citation and commencement, etc.[^c-53b629344dcf9e913a9a708ea0c99629]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Simple Procedure Amendment) (Miscellaneous) 2022.
 
-(2) It comes into force on 31st May 2023[^key-bb6e02411a259577d438c8496d1656af].
+(2) It comes into force on 31st May 2023[^c-bb6e02411a259577d438c8496d1656af].
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Act of Sederunt (Simple Procedure) 2016[^key-43518ef7eeeeca036365f025861c02ec]
+## 2. Amendment of the Act of Sederunt (Simple Procedure) 2016[^c-43518ef7eeeeca036365f025861c02ec]
 
 (1) The Act of Sederunt (Simple Procedure) 2016[^f00003] is amended in accordance with this paragraph.
 
@@ -297,7 +297,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
   - (iii) for “**Refusal of Recovery of Documents Application**” substitute “**Refusal of Additional Orders Application to recover documents**”;
 - (j) after standard order SO13, insert standard order SO14 in schedule 11 of this Act of Sederunt.
 
-## 3. Saving[^key-d9b23267d033128dc869aeedf3ea8e6f]
+## 3. Saving[^c-d9b23267d033128dc869aeedf3ea8e6f]
 
 The amendments made by paragraph 2 are of no effect in relation to proceedings commenced before the date on which this Act of Sederunt comes into force.
 
@@ -309,67 +309,67 @@ I.P.D.
 
 Edinburgh
 
-## SCHEDULE 1[^key-18ecf0a36ededf5e556fc59ac7587dc6]
+## SCHEDULE 1[^c-18ecf0a36ededf5e556fc59ac7587dc6]
 
 Paragraph 2(3)(a)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_001)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_002)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_003)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_004)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_005)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_006)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_007)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_008)
 
-## SCHEDULE 2[^key-05e959b1d5fb020cd7fb79071091221c]
+## SCHEDULE 2[^c-05e959b1d5fb020cd7fb79071091221c]
 
 Paragraph 2(3)(e)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_009)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_010)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_011)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_012)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_013)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_014)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_015)
 
-## SCHEDULE 3[^key-b92ce6ec5a5ce04ece1cec7c0e7b9999]
+## SCHEDULE 3[^c-b92ce6ec5a5ce04ece1cec7c0e7b9999]
 
 Paragraph 2(3)(f)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_016)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_017)
 
-## SCHEDULE 4[^key-6a74a27f1e171e1d29532a469d63fb13]
+## SCHEDULE 4[^c-6a74a27f1e171e1d29532a469d63fb13]
 
 Paragraph 2(3)(g)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_018)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_019)
 
-## SCHEDULE 5[^key-8fcd83e025ed0b1518c9d55033dbbf61]
+## SCHEDULE 5[^c-8fcd83e025ed0b1518c9d55033dbbf61]
 
 Paragraph 2(3)(h)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_020)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_021)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_022)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_023)
 
-## SCHEDULE 6[^key-c5e31142bd516a9de3c5eeb5a9fe7a93]
+## SCHEDULE 6[^c-c5e31142bd516a9de3c5eeb5a9fe7a93]
 
 Paragraph 2(3)(j)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_024)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_025)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_026)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_027)
 
-## SCHEDULE 7[^key-5455f40caca181cf883a88f4de3537b7]
+## SCHEDULE 7[^c-5455f40caca181cf883a88f4de3537b7]
 
 Paragraph 2(3)(l)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_028)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_029)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_030)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_031)
 
-## SCHEDULE 8[^key-0d932557cb69bbcb86e494c0af4470e1]
+## SCHEDULE 8[^c-0d932557cb69bbcb86e494c0af4470e1]
 
 Paragraph 2(3)(m)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_032)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_033)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_034)
 
-## SCHEDULE 9[^key-ceb619c1085b9020484878c677fdb50b]
+## SCHEDULE 9[^c-ceb619c1085b9020484878c677fdb50b]
 
 Paragraph 2(3)(n)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_035)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_036)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_037)
 
-## SCHEDULE 10[^key-c8eca3cc84769e4e041791bf198343a5]
+## SCHEDULE 10[^c-c8eca3cc84769e4e041791bf198343a5]
 
 Paragraph 2(4)(c)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_038)[image: see source](https://www.legislation.gov.uk/ssi/2022/211/images/ssi_20220211_en_039)
 
-## SCHEDULE 11[^key-418ddf6510c181b4328cb622a3943108]
+## SCHEDULE 11[^c-418ddf6510c181b4328cb622a3943108]
 
 Paragraph 2(4)(j)
 
@@ -395,11 +395,11 @@ Paragraph 3 is a saving provision, the effect of which is that certain amendment
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-53b629344dcf9e913a9a708ea0c99629]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-53b629344dcf9e913a9a708ea0c99629]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-bb6e02411a259577d438c8496d1656af]: Textual amendment: Words in [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) substituted (11.11.2022) by [Act of Sederunt (Simple Procedure Amendment) (Miscellaneous) (No. 2) 2022 (S.S.I. 2022/295)](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/section/2/2)
+[^c-bb6e02411a259577d438c8496d1656af]: Textual amendment: Words in [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) substituted (11.11.2022) by [Act of Sederunt (Simple Procedure Amendment) (Miscellaneous) (No. 2) 2022 (S.S.I. 2022/295)](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/section/2/2)
 
-[^key-43518ef7eeeeca036365f025861c02ec]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2022/211/paragraph/2) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-43518ef7eeeeca036365f025861c02ec]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2022/211/paragraph/2) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
 [^f00003]: Footnote: [S.S.I. 2016/200](https://www.legislation.gov.uk/ssi/2016/200), last amended by [S.S.I. 2022/81](https://www.legislation.gov.uk/ssi/2022/81).
 
@@ -447,26 +447,26 @@ Paragraph 3 is a saving provision, the effect of which is that certain amendment
 
 [^f00025]: Footnote: Schedule 3 was substituted by [S.S.I. 2016/315](https://www.legislation.gov.uk/ssi/2016/315) and last amended by [S.S.I. 2018/191](https://www.legislation.gov.uk/ssi/2018/191).
 
-[^key-d9b23267d033128dc869aeedf3ea8e6f]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2022/211/paragraph/3) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-d9b23267d033128dc869aeedf3ea8e6f]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2022/211/paragraph/3) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-18ecf0a36ededf5e556fc59ac7587dc6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2022/211/schedule/1) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-18ecf0a36ededf5e556fc59ac7587dc6]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2022/211/schedule/1) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-05e959b1d5fb020cd7fb79071091221c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2022/211/schedule/2) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-05e959b1d5fb020cd7fb79071091221c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2022/211/schedule/2) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-b92ce6ec5a5ce04ece1cec7c0e7b9999]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2022/211/schedule/3) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-b92ce6ec5a5ce04ece1cec7c0e7b9999]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2022/211/schedule/3) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-6a74a27f1e171e1d29532a469d63fb13]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2022/211/schedule/4) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-6a74a27f1e171e1d29532a469d63fb13]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2022/211/schedule/4) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-8fcd83e025ed0b1518c9d55033dbbf61]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2022/211/schedule/5) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-8fcd83e025ed0b1518c9d55033dbbf61]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2022/211/schedule/5) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-c5e31142bd516a9de3c5eeb5a9fe7a93]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2022/211/schedule/6) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-c5e31142bd516a9de3c5eeb5a9fe7a93]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2022/211/schedule/6) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-5455f40caca181cf883a88f4de3537b7]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2022/211/schedule/7) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-5455f40caca181cf883a88f4de3537b7]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2022/211/schedule/7) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-0d932557cb69bbcb86e494c0af4470e1]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ssi/2022/211/schedule/8) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-0d932557cb69bbcb86e494c0af4470e1]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ssi/2022/211/schedule/8) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-ceb619c1085b9020484878c677fdb50b]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ssi/2022/211/schedule/9) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-ceb619c1085b9020484878c677fdb50b]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ssi/2022/211/schedule/9) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-c8eca3cc84769e4e041791bf198343a5]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ssi/2022/211/schedule/10) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-c8eca3cc84769e4e041791bf198343a5]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ssi/2022/211/schedule/10) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
 
-[^key-418ddf6510c181b4328cb622a3943108]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2022/211/schedule/11) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))
+[^c-418ddf6510c181b4328cb622a3943108]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ssi/2022/211/schedule/11) in force at 31.5.2023, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2022/211/paragraph/1/2) (as amended by [S.S.I. 2022/295](https://www.legislation.gov.uk/ssi/2022/295), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/295/paragraph/2/2))

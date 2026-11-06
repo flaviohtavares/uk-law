@@ -50,14 +50,14 @@ Coming into force
 
 In exercise of the powers conferred by sections 67(2), (3) and 316(1)(b) of the Marine and Coastal Access Act 2009[^f00001], the Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of that Act[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-a609619c6dc6941a24b051798cd2d745]
+## 1. Citation and commencement[^c-a609619c6dc6941a24b051798cd2d745]
 
 These Regulations—
 
 - (a) may be cited as the Marine Licensing (Application Fees) Regulations 2014; and
 - (b) come into force on 6th April 2014.
 
-## 2. Interpretation[^key-ee2130aafb04f5fc9f87759c4799bab1]
+## 2. Interpretation[^c-ee2130aafb04f5fc9f87759c4799bab1]
 
 In these Regulations—
 
@@ -66,14 +66,14 @@ In these Regulations—
 - “activity” means a licensable marine activity; and
 - “licence” means a marine licence granted under section 71(1)(a) or (b) of the Act.
 
-## 3. Application[^key-ae1bde4ded9179cd393370c50b19a7c0]
+## 3. Application[^c-ae1bde4ded9179cd393370c50b19a7c0]
 
 These Regulations apply in relation to any application for a licence in relation to which the Secretary of State is the appropriate licensing authority under section 113 of the Act, other than any activity relating to an activity falling within the subject-matter of—
 
 - (a) the Petroleum Act 1998[^f00004]; or
 - (b) Part 1 (gas importation or storage), 4 (provisions relating to oil and gas) or 4A (works detrimental to navigation) of the Energy Act 2008[^f00005].
 
-## 4. Fees for applications for licences[^key-278870272456ac00e35c8d6a3abf613e]
+## 4. Fees for applications for licences[^c-278870272456ac00e35c8d6a3abf613e]
 
 (1) The fee payable for determining an application for a licence is comprised of—
 
@@ -98,7 +98,7 @@ These Regulations apply in relation to any application for a licence in relation
 
 (7) In paragraph (5), “relevant person” means a person acting on behalf of the Secretary of State in relation to an application.
 
-## 5. Payment of fees[^key-0574490bdd5ea5fbe76922b98c9d1752]
+## 5. Payment of fees[^c-0574490bdd5ea5fbe76922b98c9d1752]
 
 (1) All fees are payable on demand to the Secretary of State.
 
@@ -108,30 +108,30 @@ These Regulations apply in relation to any application for a licence in relation
 
 (4) Any unpaid fee may be recovered by the Secretary of State as a civil debt.
 
-## 6. Deposits in cases where fee payable at hourly rate[^key-6ec5056feeb77e04df3680b764d39f0c]
+## 6. Deposits in cases where fee payable at hourly rate[^c-6ec5056feeb77e04df3680b764d39f0c]
 
-(1) In relation to an application which falls within Band 2 or Band 3 in the Schedule, the Secretary of State may require an applicant[^key-18f9404ae9d2509cb5b559c5f997b584] to pay a deposit of such amount as the Secretary of State may determine on account of the fee payable.
+(1) In relation to an application which falls within Band 2 or Band 3 in the Schedule, the Secretary of State may require an applicant[^c-18f9404ae9d2509cb5b559c5f997b584] to pay a deposit of such amount as the Secretary of State may determine on account of the fee payable.
 
 (2) Subject to paragraph (3), the amount of the deposit must be calculated by reference to the estimated duration of the work likely to be required in relation to the application and the hourly rate payable.
 
 (3) In relation to any application which falls within Band 3 in the Schedule, the amount of the deposit may not exceed £10,000.
 
-(4) If an applicant[^key-28277ab3b691d82cbd14e14c7c649f50] fails to comply with a requirement to pay a deposit made under paragraph (1), the Secretary of State may—
+(4) If an applicant[^c-28277ab3b691d82cbd14e14c7c649f50] fails to comply with a requirement to pay a deposit made under paragraph (1), the Secretary of State may—
 
 - (a) refuse to proceed with the application, or
 - (b) refuse to proceed with it until the deposit is paid in full.
 
-## 7. Repayment, waiver or reduction of fee[^key-703807d773ab05128942df8ab0f2f099]
+## 7. Repayment, waiver or reduction of fee[^c-703807d773ab05128942df8ab0f2f099]
 
 (1) The Secretary of State must refund any payment made in excess of the fee payable, but fees paid are not otherwise refundable.
 
 (2) The Secretary of State may waive or reduce any fee if the Secretary of State sees fit.
 
-## 8. Revocation of the 2011 Regulations[^key-b5a5ebf4a214bade2d5223b3979e9e39]
+## 8. Revocation of the 2011 Regulations[^c-b5a5ebf4a214bade2d5223b3979e9e39]
 
 Subject to regulation 9, the 2011 Regulations are revoked.
 
-## 9. Transitional and saving provisions[^key-6e5c7bdca36a5d435e78970f90a63368]
+## 9. Transitional and saving provisions[^c-6e5c7bdca36a5d435e78970f90a63368]
 
 (1) Paragraph (2) applies in respect of any licence application that was received by the Secretary of State before 6th April 2014 but which was not determined by the Secretary of State before that date.
 
@@ -151,11 +151,11 @@ Department for Environmental, Food and Rural Affairs
 
 13th March 2014
 
-## SCHEDULE — APPLICATION BANDS AND MAXIMUM FEES ...[^key-8cc46ba42c8b0140bfd83d5160a03234]
+## SCHEDULE — APPLICATION BANDS AND MAXIMUM FEES ...[^c-8cc46ba42c8b0140bfd83d5160a03234]
 
 Regulation 4(2)[^M_F_4a60cd7d-a983-4868-c8af-0e5ed219496b]
 
-**1.**[^key-a11354052830d6cd94abe3b1c86edef2] The bands and (where applicable) maximum fees are as follows—
+**1.**[^c-a11354052830d6cd94abe3b1c86edef2] The bands and (where applicable) maximum fees are as follows—
 
 | Band | Description of application | Maximum fee |
 | --- | --- | --- |
@@ -165,7 +165,7 @@ Regulation 4(2)[^M_F_4a60cd7d-a983-4868-c8af-0e5ed219496b]
 | Band 2B | £50,000 or more, but less than £1,000,000 | £2,200 |
 | Band 3 | Any application which does not fall, or does not fall exclusively, within the description in Band 1 and does not fall within the description in Band 2A or 2B | None |
 
-**2.**[^key-92c4faba98da8b4a99213a7a5c15aa60] (1) In paragraph 1, “specified activity” means any activity falling within item 1 (deposits within the UK marine licensing area etc), 7 (construction, alteration or improvement of works etc) or 8 (use of vehicle to remove substances etc) of section 66(1) of the Act, but does not include any such activity where it is—
+**2.**[^c-92c4faba98da8b4a99213a7a5c15aa60] (1) In paragraph 1, “specified activity” means any activity falling within item 1 (deposits within the UK marine licensing area etc), 7 (construction, alteration or improvement of works etc) or 8 (use of vehicle to remove substances etc) of section 66(1) of the Act, but does not include any such activity where it is—
 
 - (a) to be carried out in the course of an Annex I project;
 - (b) to be carried out in the course of an Annex II project, if it is likely because of its size, nature or location to have significant effects on the environment;
@@ -183,7 +183,7 @@ Regulation 4(2)[^M_F_4a60cd7d-a983-4868-c8af-0e5ed219496b]
 
 (3) In paragraph 2(1)(c)—
 
-- “European site” means a European site within the meaning of regulation 8(1) of the Conservation of Habitats and Species Regulations 2017[^key-5662707b30251e31361183f018e3981d] or a European offshore marine site within the meaning of regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-0874c410bdf5b27c5ef2945132f7ac79]; and
+- “European site” means a European site within the meaning of regulation 8(1) of the Conservation of Habitats and Species Regulations 2017[^c-5662707b30251e31361183f018e3981d] or a European offshore marine site within the meaning of regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-0874c410bdf5b27c5ef2945132f7ac79]; and
 - “plan or project” has the same meaning as in Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00009].
 
 (4) In paragraph 2(1)(d)—
@@ -222,47 +222,47 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: By virtue of section 113(2)(a), 4(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region and Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsection (2), (4) or (6). See section 322(1) for the definition of those regions.
 
-[^key-a609619c6dc6941a24b051798cd2d745]: Commencement: Reg. 1 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-a609619c6dc6941a24b051798cd2d745]: Commencement: Reg. 1 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
-[^key-ee2130aafb04f5fc9f87759c4799bab1]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-ee2130aafb04f5fc9f87759c4799bab1]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
 [^f00003]: Footnote: [S.I. 2011/564](https://www.legislation.gov.uk/uksi/2011/564).
 
-[^key-ae1bde4ded9179cd393370c50b19a7c0]: Commencement: Reg. 3 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-ae1bde4ded9179cd393370c50b19a7c0]: Commencement: Reg. 3 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
 [^f00004]: Footnote: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17). Relevant amending instruments are the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32), the Act and the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16), and [S.I.s 2000/1937](https://www.legislation.gov.uk/uksi/2000/1937), [2004/2043](https://www.legislation.gov.uk/uksi/2004/2043), [2007/290](https://www.legislation.gov.uk/uksi/2007/290) and [2011/2305](https://www.legislation.gov.uk/uksi/2011/2305), [2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
 [^f00005]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32). In Part 1, sections 1 and 35(1) were amended by section 41(8) of, and paragraph 5 of Schedule 4 to, the Act. Part 4A was inserted by section 314(1) of the Act. Section 30 was amended, and sections 30A and 30B were inserted, by section 107 of the Energy Act 2011; section 46 was amended by section 106 of that Act; and section 88 was amended by section 73 of that Act. Sections 41, 46, 49, 50, 54, 59, 63, 65 and 66 were amended by sections 116, 146 and 149 of the Energy Act 2013 and section 45A was inserted by section 149 of that Act. Sections 17 to 19, 21 to 23, 26 to 28, 30, 31 and 35 were amended by [S.I. 2011/2453](https://www.legislation.gov.uk/uksi/2011/2453) and [SSI 2011/224](https://www.legislation.gov.uk/ssi/2011/224). Section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
 
-[^key-278870272456ac00e35c8d6a3abf613e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/615/regulation/4) substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/850/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
+[^c-278870272456ac00e35c8d6a3abf613e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/615/regulation/4) substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/850/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
 
-[^key-0574490bdd5ea5fbe76922b98c9d1752]: Commencement: Reg. 5 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-0574490bdd5ea5fbe76922b98c9d1752]: Commencement: Reg. 5 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
-[^key-6ec5056feeb77e04df3680b764d39f0c]: Commencement: Reg. 6 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-6ec5056feeb77e04df3680b764d39f0c]: Commencement: Reg. 6 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
-[^key-18f9404ae9d2509cb5b559c5f997b584]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2014/615/regulation/6/1) substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/850/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
+[^c-18f9404ae9d2509cb5b559c5f997b584]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2014/615/regulation/6/1) substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/850/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
 
-[^key-28277ab3b691d82cbd14e14c7c649f50]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2014/615/regulation/6/4) substituted (1.5.2014) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2014 (S.I. 2014/950)](https://www.legislation.gov.uk/uksi/2014/950), [regs. 1](https://www.legislation.gov.uk/uksi/2014/950/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/950/regulation/2/b)
+[^c-28277ab3b691d82cbd14e14c7c649f50]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2014/615/regulation/6/4) substituted (1.5.2014) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2014 (S.I. 2014/950)](https://www.legislation.gov.uk/uksi/2014/950), [regs. 1](https://www.legislation.gov.uk/uksi/2014/950/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/950/regulation/2/b)
 
-[^key-703807d773ab05128942df8ab0f2f099]: Commencement: Reg. 7 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-703807d773ab05128942df8ab0f2f099]: Commencement: Reg. 7 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
-[^key-b5a5ebf4a214bade2d5223b3979e9e39]: Commencement: Reg. 8 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-b5a5ebf4a214bade2d5223b3979e9e39]: Commencement: Reg. 8 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
-[^key-6e5c7bdca36a5d435e78970f90a63368]: Commencement: Reg. 9 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-6e5c7bdca36a5d435e78970f90a63368]: Commencement: Reg. 9 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
-[^key-8cc46ba42c8b0140bfd83d5160a03234]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/615/schedule) heading revoked (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/850/regulation/5/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
+[^c-8cc46ba42c8b0140bfd83d5160a03234]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2014/615/schedule) heading revoked (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/850/regulation/5/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
 
 [^M_F_4a60cd7d-a983-4868-c8af-0e5ed219496b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/615/schedule): shoulder note substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/850/regulation/5/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
 
-[^key-a11354052830d6cd94abe3b1c86edef2]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/615/schedule/paragraph/1) substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/850/regulation/5/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
+[^c-a11354052830d6cd94abe3b1c86edef2]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2014/615/schedule/paragraph/1) substituted (1.9.2018) by [The Marine Licensing (Application Fees) (Amendment) Regulations 2018 (S.I. 2018/850)](https://www.legislation.gov.uk/uksi/2018/850), [regs. 1](https://www.legislation.gov.uk/uksi/2018/850/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/850/regulation/5/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/850/regulation/6))
 
-[^key-92c4faba98da8b4a99213a7a5c15aa60]: Commencement: Sch. para. 2 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
+[^c-92c4faba98da8b4a99213a7a5c15aa60]: Commencement: Sch. para. 2 in force at 6.4.2014, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/615/regulation/1/b)
 
 [^f00006]: Footnote: OJ L 26, 28.1.2012, p.1.
 
-[^key-5662707b30251e31361183f018e3981d]: Textual amendment: Words in [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2014/615/schedule/paragraph/2/3) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/34)
+[^c-5662707b30251e31361183f018e3981d]: Textual amendment: Words in [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2014/615/schedule/paragraph/2/3) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/34)
 
-[^key-0874c410bdf5b27c5ef2945132f7ac79]: Textual amendment: Words in [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2014/615/schedule/paragraph/2/3) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 14(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/14/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-0874c410bdf5b27c5ef2945132f7ac79]: Textual amendment: Words in [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2014/615/schedule/paragraph/2/3) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 14(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/14/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
 [^f00009]: Footnote: OJ No. L 206, 22.7.1992, p.7, last amended by Council Directive 2013/17/EU (OJ No. L 158, 10.06.2013, p. 193).
 

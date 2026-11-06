@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Removal of certain vehicles by traffic officers[^key-61bc24132aabfc4a053aaf06ac541690][^key-6e5748e4d406f31f181b7ba7053073ce]
+## 9. Removal of certain vehicles by traffic officers[^c-61bc24132aabfc4a053aaf06ac541690][^c-6e5748e4d406f31f181b7ba7053073ce]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ any provision of sections 100 to 102 of that Act (disposal of vehicles removed u
 
 ## Annotations
 
-[^key-61bc24132aabfc4a053aaf06ac541690]: Commencement: S. 9 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-61bc24132aabfc4a053aaf06ac541690]: Commencement: S. 9 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-6e5748e4d406f31f181b7ba7053073ce]: Commencement: S. 9 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
+[^c-6e5748e4d406f31f181b7ba7053073ce]: Commencement: S. 9 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)

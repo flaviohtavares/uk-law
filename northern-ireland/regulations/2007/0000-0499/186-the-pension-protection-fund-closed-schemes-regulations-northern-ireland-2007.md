@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 137(4) and (7), 140(1), (2) and (6), 141(1) and (7) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-18726424d0879460b90ff4b9f6d50ed3]
+## 1. Citation, commencement and interpretation[^c-18726424d0879460b90ff4b9f6d50ed3]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Closed Schemes) Regulations (Northern Ireland) 2007 and shall come into operation on 6th April 2007.
 
@@ -61,7 +61,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (4) In these Regulations, any reference to a numbered Article is a reference to the Article of the Order bearing that number.
 
-## 2. Applications and determination notices under Article 137[^key-da77afa97c1f2a39bed0d6072a96621c]
+## 2. Applications and determination notices under Article 137[^c-da77afa97c1f2a39bed0d6072a96621c]
 
 (1) An application to the Board for the purposes of Article 137(2) (closed schemes) shall be in writing and shall contain the following information—
 
@@ -95,7 +95,7 @@ The Department for Social Development makes the following Regulations in exercis
   - (ii) Article 140 (valuations of closed schemes) in so far as they will operate while that scheme is a closed scheme, and
   - (iii) Article 141 (applications and notifications where closed schemes have insufficient assets) in so far as they will operate if at any time the trustees or managers of that scheme while it is a closed scheme become aware that the value of the assets of the scheme is less than the amount of the protected liabilities in relation to the scheme.
 
-## 3. Obtaining of actuarial valuations of closed schemes[^key-883d87df7efb32ab0f5ebbf9fa8504a4]
+## 3. Obtaining of actuarial valuations of closed schemes[^c-883d87df7efb32ab0f5ebbf9fa8504a4]
 
 (1) In this regulation—
 
@@ -107,7 +107,7 @@ The Department for Social Development makes the following Regulations in exercis
     - (iii) any appeal against his determination or directions,
 
     has been finally disposed of and the notice has not been revoked, varied or substituted;
-- “the relevant period” is the period of three years beginning immediately after the relevant time of the Board’s determination under Article 127(2)(a) or actuarial valuation of the scheme under Article 127(2)(b)[^key-73e616dc7b85316b8e2b13dbe5c976ce] (Board’s obligation to obtain valuation of assets and protected liabilities);
+- “the relevant period” is the period of three years beginning immediately after the relevant time of the Board’s determination under Article 127(2)(a) or actuarial valuation of the scheme under Article 127(2)(b)[^c-73e616dc7b85316b8e2b13dbe5c976ce] (Board’s obligation to obtain valuation of assets and protected liabilities);
 - “the relevant time” shall be construed in accordance with Article 127(11)(c).
 
 (2) The effective date of the first Article 140 valuation shall—
@@ -119,7 +119,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (4) The trustees or managers of a closed scheme shall obtain any Article 140 valuation of the scheme within the period of 15 months after its effective date.
 
-## 4. Valuation of the assets and liabilities of closed schemes[^key-3ffd8b69a26fc5a0861226ce70aa2e15]
+## 4. Valuation of the assets and liabilities of closed schemes[^c-3ffd8b69a26fc5a0861226ce70aa2e15]
 
 For the purposes of Article 140—
 
@@ -128,11 +128,11 @@ For the purposes of Article 140—
 
 shall be determined, calculated and verified in accordance with the provisions of the Schedule.
 
-## 5. Prescribed qualifications for the purposes of Article 140[^key-84ec126da925e45d3d28de4469b9b9e0]
+## 5. Prescribed qualifications for the purposes of Article 140[^c-84ec126da925e45d3d28de4469b9b9e0]
 
-For the purposes of the definition of “the actuary” contained in Article 140(6), a person with prescribed qualifications is a Fellow of the Institute and Faculty of Actuaries.[^key-659f2679fa3bc111e868169e288cffa7]
+For the purposes of the definition of “the actuary” contained in Article 140(6), a person with prescribed qualifications is a Fellow of the Institute and Faculty of Actuaries.[^c-659f2679fa3bc111e868169e288cffa7]
 
-## 6. Applications and notifications where closed schemes have insufficient assets[^key-a6811ba61677bf2aff427abe75b163d8]
+## 6. Applications and notifications where closed schemes have insufficient assets[^c-a6811ba61677bf2aff427abe75b163d8]
 
 (1) Where the trustees or managers of a closed scheme are required under Article 141(1) to make an application to the Board for it to assume responsibility for the scheme, they must do so within six months of the time when they become aware that the value of the assets of the scheme is less than the amount of the protected liabilities in relation to the scheme.
 
@@ -175,7 +175,7 @@ For the purposes of the definition of “the actuary” contained in Article 140
 - (f) the address for communications at which the Board may be contacted in respect of the giving of the notice, and
 - (g) whether the notice given by the Board contains any information which is restricted information under Article 179 (restricted information), and, if so, the nature of the restrictions.
 
-## 7. Transitional provision for schemes with an assessment date before 1st April 2007[^key-099da47b3a0bd65b73522d7e4f930cca]
+## 7. Transitional provision for schemes with an assessment date before 1st April 2007[^c-099da47b3a0bd65b73522d7e4f930cca]
 
 (1) In this regulation, “assessment date” means the date on which the assessment period in relation to a scheme or closed scheme, or (where there has been more than one such assessment period) the last one, began.
 
@@ -202,7 +202,7 @@ Regulation 4
 
 ### PART 1
 
-**1.**[^key-7348e8fab5f0699a710230e2e9025c63] In this Schedule—
+**1.**[^c-7348e8fab5f0699a710230e2e9025c63] In this Schedule—
 
 - “Article 75 debt” means so much of the amount treated by Article 75[^f00005] of the 1995 Order (deficiencies in the assets) as a debt due from the employer to the trustees or managers at the applicable time;
 - “contribution notice” means a notice issued under Article 34 (contribution notices where avoidance of employer debt), 43 (contribution notices where non-compliance with financial support direction) or 51 (contribution notice where failure to comply with restoration order);
@@ -214,7 +214,7 @@ Regulation 4
   - (c) the trustees or managers are, or should reasonably be aware of;
 - “relevant accounts” for the purposes of identifying and valuing the assets of a scheme, means audited accounts for the scheme which—
   - (a) contain the information specified in Part 2 of this Schedule;
-  - (b) show a true and fair view[^key-7d16577cf17ca1813b05a5450de54857] of—
+  - (b) show a true and fair view[^c-7d16577cf17ca1813b05a5450de54857] of—
     - (i) the financial transactions of the scheme during the period to which the accounts relate (“the accounting period”);
     - (ii) the amount and disposition of the assets at the end of the accounting period, and
     - (iii) the liabilities of the scheme, other than the liabilities to pay pensions and benefits, after the end of the accounting period;
@@ -222,22 +222,22 @@ Regulation 4
   - (d) are prepared in respect of a period ending with the effective date of the valuation;
 - “restoration order” has the meaning given by Article 48 (restoration orders where transactions at an undervalue).
 
-**2.**[^key-93c8eb4d3acef5fcab3d03e502890ab9] There shall be excluded from the value of the closed scheme’s assets—
+**2.**[^c-93c8eb4d3acef5fcab3d03e502890ab9] There shall be excluded from the value of the closed scheme’s assets—
 
 - (a) any amounts treated as a debt due to the trustees or managers which are unlikely to be recouped without disproportionate cost or unlikely to be recovered within a reasonable time, and
 - (b) an amount in respect of the value of any pre-6th April 1997 contract of insurance if—
   - (i) the trustees or managers have taken all reasonable steps to obtain information concerning that contract of insurance (whether by searching the records of the scheme or otherwise), and
   - (ii) the information they provide concerning that contract of insurance is insufficient, in the opinion of the appropriate person, to conduct a valuation.
 
-**3.**[^key-0cb5e6914859a3428cdc19253381c9d6] Subject to paragraph 6(3) and (4), where the Regulator issues a contribution notice or a financial support direction or makes a restoration order in relation to a scheme prior to the effective date of the valuation, any amount due under such a notice, direction or order shall be regarded as an asset of the scheme.
+**3.**[^c-0cb5e6914859a3428cdc19253381c9d6] Subject to paragraph 6(3) and (4), where the Regulator issues a contribution notice or a financial support direction or makes a restoration order in relation to a scheme prior to the effective date of the valuation, any amount due under such a notice, direction or order shall be regarded as an asset of the scheme.
 
-**4.**[^key-5533b1edb35fb309792fc23a7952bf3f] Subject to paragraphs 2 and 6, in determining the value of the assets of a closed scheme for the purposes of an Article 140 valuation, the appropriate person shall adopt the value given of the assets of the scheme stated in the relevant accounts and that value shall be taken to be the value of those assets at the effective date.
+**4.**[^c-5533b1edb35fb309792fc23a7952bf3f] Subject to paragraphs 2 and 6, in determining the value of the assets of a closed scheme for the purposes of an Article 140 valuation, the appropriate person shall adopt the value given of the assets of the scheme stated in the relevant accounts and that value shall be taken to be the value of those assets at the effective date.
 
-**5.**[^key-d12a758d8a6ad13ba00d125fcd6f91b3] (1) Subject to paragraph 6, in the case of protected liabilities the amount of a protected liability shall be the estimated cost of securing scheme benefits calculated in accordance with Schedule 6 to the Order (pension compensation provisions) to the member by means of an annuity purchased at the market rate at the effective date.
+**5.**[^c-d12a758d8a6ad13ba00d125fcd6f91b3] (1) Subject to paragraph 6, in the case of protected liabilities the amount of a protected liability shall be the estimated cost of securing scheme benefits calculated in accordance with Schedule 6 to the Order (pension compensation provisions) to the member by means of an annuity purchased at the market rate at the effective date.
 
 (2) Where paragraph 2(b) applies, the amount representing the value of a protected liability in respect of the benefits secured by a pre-6th April 1997 contract of insurance shall be excluded from the valuation of the scheme’s protected liabilities.
 
-**6.**[^key-921a0745b60b7dc2c1a1a020a5a690fe] (1) For the purposes of an Article 140 valuation, where for the purpose of giving effect to a pension sharing order or provision, arrangements are being made by the closed scheme for the transfer from it of any pension credit rights, until such time as the trustees or managers of the scheme to which the transfer is being made (“the receiving scheme”) have received assets of the full amount agreed by them as consideration for the transfer, it shall be assumed—
+**6.**[^c-921a0745b60b7dc2c1a1a020a5a690fe] (1) For the purposes of an Article 140 valuation, where for the purpose of giving effect to a pension sharing order or provision, arrangements are being made by the closed scheme for the transfer from it of any pension credit rights, until such time as the trustees or managers of the scheme to which the transfer is being made (“the receiving scheme”) have received assets of the full amount agreed by them as consideration for the transfer, it shall be assumed—
 
 - (a) that the rights have not been transferred, and
 - (b) that any assets transferred in respect of the transfer of those rights are assets of the scheme making the transfer and not of the receiving scheme.
@@ -271,13 +271,13 @@ Regulation 4
 
 (5) The appropriate person shall not make an adjustment to the value of an interest in real property unless the adjustment reflects a more recent valuation given by a chartered surveyor in accordance with any relevant practice statements and guidance issued by the Royal Institution of Chartered Surveyors[^f00007] current on the date the valuation is signed.
 
-**7.**[^key-bffd533c12e496be67906f71778dc801] An Article 140 valuation shall be verified by the Board if it is satisfied that the valuation was prepared in accordance with these Regulations and any guidance issued by the Board in accordance with Article 140(3).
+**7.**[^c-bffd533c12e496be67906f71778dc801] An Article 140 valuation shall be verified by the Board if it is satisfied that the valuation was prepared in accordance with these Regulations and any guidance issued by the Board in accordance with Article 140(3).
 
 ### PART 2 — Contents of Accounts Audited by the Auditor of the Scheme
 
-**1.**[^key-1df6bc63445fe24b6103f8337f64122f] An account of the financial additions to, withdrawals from, and changes to, the value of the fund during the accounting period.
+**1.**[^c-1df6bc63445fe24b6103f8337f64122f] An account of the financial additions to, withdrawals from, and changes to, the value of the fund during the accounting period.
 
-**2.**[^key-5af5fb79e25e6d7143c78c667a3b78ec] (1) A statement, as at the end of the accounting period, of the assets at market value, or the trustees’ or managers’ estimate thereof where the market value is not readily ascertainable, and liabilities of the scheme, other than liabilities to pay pensions and benefits after the end of the accounting period—
+**2.**[^c-5af5fb79e25e6d7143c78c667a3b78ec] (1) A statement, as at the end of the accounting period, of the assets at market value, or the trustees’ or managers’ estimate thereof where the market value is not readily ascertainable, and liabilities of the scheme, other than liabilities to pay pensions and benefits after the end of the accounting period—
 
 - (a) giving, in the case of any assets which are stated as an estimate of their market value, the reason why the valuation is an estimate;
 - (b) showing the distribution of the investments and other assets of the scheme between each of the following categories (where none of the investments falls within a particular category, that fact is not required to be stated), namely—
@@ -305,20 +305,20 @@ Regulation 4
 
 a note that heads (a) and (b) apply must be included in the statement, but that entry need not include the market value or an estimate of value of those assets.
 
-**3.**[^key-33a9773990cc32fbe5973e27f77ef598] Where any assets or liabilities are denominated in currencies other than sterling, a conversion of those assets into sterling and an explanation of the basis on which they have been converted.
+**3.**[^c-33a9773990cc32fbe5973e27f77ef598] Where any assets or liabilities are denominated in currencies other than sterling, a conversion of those assets into sterling and an explanation of the basis on which they have been converted.
 
-**4.**[^key-1f883f1d790cbd8654180b6cc2eff009] Particulars of any investment (other than in UK Government securities) in which more than 5 per cent. of the total value of the net assets of the scheme is invested, and if any such investment is an insurance policy, a statement of its main characteristics.
+**4.**[^c-1f883f1d790cbd8654180b6cc2eff009] Particulars of any investment (other than in UK Government securities) in which more than 5 per cent. of the total value of the net assets of the scheme is invested, and if any such investment is an insurance policy, a statement of its main characteristics.
 
-**5.**[^key-bf94872ab73cfe95cdb7ed465a42c2eb] Where the scheme has employer-related investments, within the meaning of Article 40(2)[^f00008] of the 1995 Order (restriction on employer-related investments), a statement—
+**5.**[^c-bf94872ab73cfe95cdb7ed465a42c2eb] Where the scheme has employer-related investments, within the meaning of Article 40(2)[^f00008] of the 1995 Order (restriction on employer-related investments), a statement—
 
 - (a) as to the percentage of the scheme’s resources invested in such investments at the end of the accounting period, and
 - (b) if that percentage exceeds 5 per cent., as to the percentage of the scheme’s resources which are investments to which regulation 13 of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00009] (investments to which restrictions do not apply) applies.
 
-**6.**[^key-3b860b2975665843d3750204a3e75484] In respect of every other amount shown in the accounts other than the amounts referred to in paragraph 7, a statement of the corresponding amount for the scheme year previous to the accounting period, except in a case where regulation 2 of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00010] (requirement of trustees or managers to obtain documents) is complied with by the trustees or managers of a scheme for the first time.
+**6.**[^c-3b860b2975665843d3750204a3e75484] In respect of every other amount shown in the accounts other than the amounts referred to in paragraph 7, a statement of the corresponding amount for the scheme year previous to the accounting period, except in a case where regulation 2 of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00010] (requirement of trustees or managers to obtain documents) is complied with by the trustees or managers of a scheme for the first time.
 
-**7.**[^key-1e31cea2e96d100032e731c482533c67] The total amount of the purchases and the total amount of the sales of investments during the accounting period.
+**7.**[^c-1e31cea2e96d100032e731c482533c67] The total amount of the purchases and the total amount of the sales of investments during the accounting period.
 
-**8.**[^key-36af35e07e2997d6b1c06ff1fcd8d089] A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines “Financial Reports of Pension Schemes” published by the Pensions Research Accountants Group[^f00011] or another organisation approved for this purpose by the Financial Reporting Council Limited[^key-d957c58cfc0917e60a3759e8b7e36e03] , current at the end of the accounting period and, if not, an indication of where there are any material departures from those guidelines.
+**8.**[^c-36af35e07e2997d6b1c06ff1fcd8d089] A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines “Financial Reports of Pension Schemes” published by the Pensions Research Accountants Group[^f00011] or another organisation approved for this purpose by the Financial Reporting Council Limited[^c-d957c58cfc0917e60a3759e8b7e36e03] , current at the end of the accounting period and, if not, an indication of where there are any material departures from those guidelines.
 
 EXPLANATORY NOTE
 
@@ -344,70 +344,70 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); *see* the definition of “determination notice” in Article 137(7) and paragraph (b)(i) of the definition of “the actuary” in Article 140(6)
 
-[^key-18726424d0879460b90ff4b9f6d50ed3]: Commencement: Reg. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-18726424d0879460b90ff4b9f6d50ed3]: Commencement: Reg. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
 [^f00002]: Footnote: Part III is modified in its application to multi-employer schemes by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) as amended by [S.R. 2005 Nos. 194](https://www.legislation.gov.uk/nisr/2005/194) and [357](https://www.legislation.gov.uk/nisr/2005/357)
 
-[^key-da77afa97c1f2a39bed0d6072a96621c]: Commencement: Reg. 2 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-da77afa97c1f2a39bed0d6072a96621c]: Commencement: Reg. 2 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-883d87df7efb32ab0f5ebbf9fa8504a4]: Commencement: Reg. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-883d87df7efb32ab0f5ebbf9fa8504a4]: Commencement: Reg. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-73e616dc7b85316b8e2b13dbe5c976ce]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/3/1) substituted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [9](https://www.legislation.gov.uk/nisr/2012/270/regulation/9)
+[^c-73e616dc7b85316b8e2b13dbe5c976ce]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/3/1) substituted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [9](https://www.legislation.gov.uk/nisr/2012/270/regulation/9)
 
-[^key-3ffd8b69a26fc5a0861226ce70aa2e15]: Commencement: Reg. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-3ffd8b69a26fc5a0861226ce70aa2e15]: Commencement: Reg. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-84ec126da925e45d3d28de4469b9b9e0]: Commencement: Reg. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-84ec126da925e45d3d28de4469b9b9e0]: Commencement: Reg. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-659f2679fa3bc111e868169e288cffa7]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2007/186/regulation/5) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [14](https://www.legislation.gov.uk/nisr/2012/113/regulation/14)
+[^c-659f2679fa3bc111e868169e288cffa7]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2007/186/regulation/5) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [14](https://www.legislation.gov.uk/nisr/2012/113/regulation/14)
 
-[^key-a6811ba61677bf2aff427abe75b163d8]: Commencement: Reg. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-a6811ba61677bf2aff427abe75b163d8]: Commencement: Reg. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-099da47b3a0bd65b73522d7e4f930cca]: Commencement: Reg. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-099da47b3a0bd65b73522d7e4f930cca]: Commencement: Reg. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-7348e8fab5f0699a710230e2e9025c63]: Commencement: Sch. Pt. 1 para. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-7348e8fab5f0699a710230e2e9025c63]: Commencement: Sch. Pt. 1 para. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
 [^f00005]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005 and is modified in its application to multi-employer schemes by [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168) as amended by [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
 [^f00006]: Footnote: The definition of “pension credit rights” was inserted by paragraphs 50(3) of Schedule 9 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-7d16577cf17ca1813b05a5450de54857]: Textual amendment: Words in [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/186/schedule/part/1/paragraph/1) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/78/regulation/6)
+[^c-7d16577cf17ca1813b05a5450de54857]: Textual amendment: Words in [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/186/schedule/part/1/paragraph/1) substituted (1.4.2009) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/78)](https://www.legislation.gov.uk/nisr/2009/78), [regs. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1), [6](https://www.legislation.gov.uk/nisr/2009/78/regulation/6)
 
-[^key-93c8eb4d3acef5fcab3d03e502890ab9]: Commencement: Sch. Pt. 1 para. 2 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-93c8eb4d3acef5fcab3d03e502890ab9]: Commencement: Sch. Pt. 1 para. 2 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-0cb5e6914859a3428cdc19253381c9d6]: Commencement: Sch. Pt. 1 para. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-0cb5e6914859a3428cdc19253381c9d6]: Commencement: Sch. Pt. 1 para. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-5533b1edb35fb309792fc23a7952bf3f]: Commencement: Sch. Pt. 1 para. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-5533b1edb35fb309792fc23a7952bf3f]: Commencement: Sch. Pt. 1 para. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-d12a758d8a6ad13ba00d125fcd6f91b3]: Commencement: Sch. Pt. 1 para. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-d12a758d8a6ad13ba00d125fcd6f91b3]: Commencement: Sch. Pt. 1 para. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-921a0745b60b7dc2c1a1a020a5a690fe]: Commencement: Sch. Pt. 1 para. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-921a0745b60b7dc2c1a1a020a5a690fe]: Commencement: Sch. Pt. 1 para. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
 [^f00007]: Footnote: The Royal Institution of Chartered Surveyors can be contacted at RICS Contact Centre, Surveyor Court, Westwood Way, Coventry CV4 8JE
 
-[^key-bffd533c12e496be67906f71778dc801]: Commencement: Sch. Pt. 1 para. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-bffd533c12e496be67906f71778dc801]: Commencement: Sch. Pt. 1 para. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-1df6bc63445fe24b6103f8337f64122f]: Commencement: Sch. Pt. 2 para. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-1df6bc63445fe24b6103f8337f64122f]: Commencement: Sch. Pt. 2 para. 1 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-5af5fb79e25e6d7143c78c667a3b78ec]: Commencement: Sch. Pt. 2 para. 2 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-5af5fb79e25e6d7143c78c667a3b78ec]: Commencement: Sch. Pt. 2 para. 2 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-33a9773990cc32fbe5973e27f77ef598]: Commencement: Sch. Pt. 2 para. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-33a9773990cc32fbe5973e27f77ef598]: Commencement: Sch. Pt. 2 para. 3 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-1f883f1d790cbd8654180b6cc2eff009]: Commencement: Sch. Pt. 2 para. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-1f883f1d790cbd8654180b6cc2eff009]: Commencement: Sch. Pt. 2 para. 4 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-bf94872ab73cfe95cdb7ed465a42c2eb]: Commencement: Sch. Pt. 2 para. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-bf94872ab73cfe95cdb7ed465a42c2eb]: Commencement: Sch. Pt. 2 para. 5 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
 [^f00008]: Footnote: Article 40 was amended by paragraph 45 of Schedule 10 to the Pensions (Northern Ireland) Order 2005, Article 152(2) of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and Article 26 of [S.I. 2004/355](https://www.legislation.gov.uk/uksi/2004/355)
 
 [^f00009]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569); regulation 13 was amended by regulation 7(3) of [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
 
-[^key-3b860b2975665843d3750204a3e75484]: Commencement: Sch. Pt. 2 para. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-3b860b2975665843d3750204a3e75484]: Commencement: Sch. Pt. 2 para. 6 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); relevant amending Regulations are [S.R. 2000 No. 107](https://www.legislation.gov.uk/nisr/2000/107) and [S.R. 2005 No. 421](https://www.legislation.gov.uk/nisr/2005/421)
 
-[^key-1e31cea2e96d100032e731c482533c67]: Commencement: Sch. Pt. 2 para. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-1e31cea2e96d100032e731c482533c67]: Commencement: Sch. Pt. 2 para. 7 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
-[^key-36af35e07e2997d6b1c06ff1fcd8d089]: Commencement: Sch. para. 8 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
+[^c-36af35e07e2997d6b1c06ff1fcd8d089]: Commencement: Sch. para. 8 in operation at 6.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/186/regulation/1/1)
 
 [^f00011]: Footnote: Copies of this guidance can be obtained from Croner CCH Group Limited, 145 London Road, Kingston-upon-Thames, Surrey KT2 6SR
 
-[^key-d957c58cfc0917e60a3759e8b7e36e03]: Textual amendment: Words in [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/186/schedule/Pt/paragraph/8) substituted (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2012/294/regulation/2), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/13)
+[^c-d957c58cfc0917e60a3759e8b7e36e03]: Textual amendment: Words in [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/186/schedule/Pt/paragraph/8) substituted (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2012/294/regulation/2), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2012/294/schedule/paragraph/13)

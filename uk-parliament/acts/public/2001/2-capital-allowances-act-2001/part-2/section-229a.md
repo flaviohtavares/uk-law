@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229A. Transfer followed by hire-purchase etc: restrictions on hirer's allowances[^key-08b9aaeb1be07dbbc144e455cd6a2348]
+## 229A. Transfer followed by hire-purchase etc: restrictions on hirer's allowances[^c-08b9aaeb1be07dbbc144e455cd6a2348]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (5) If S is required to bring a disposal value into account under this Part because of the transfer referred to in subsection (1)(a), D is that disposal value.
 
-(5A)[^key-681e0b33d8cfe37a3180d9d2d0bdb1c6] D is nil if—
+(5A)[^c-681e0b33d8cfe37a3180d9d2d0bdb1c6] D is nil if—
 
 - (a) S is not required to bring a disposal value into account under this Part because of the transfer referred to in subsection (1)(a), and
 - (b) at any time before that transfer S or a linked person became owner of the plant or machinery without incurring either capital expenditure or qualifying revenue expenditure on its provision.
@@ -52,7 +52,7 @@ summary: ''
 
 (9) For the purposes of this section a transfer involving the grant of a lease takes place on the commencement of the term of the lease.
 
-(10)[^key-3905dbc0ea2478b088003e17df36d220] Linked person”, in relation to plant or machinery, means a person—
+(10)[^c-3905dbc0ea2478b088003e17df36d220] Linked person”, in relation to plant or machinery, means a person—
 
 - (a) who owned the plant or machinery at any time before the transfer referred to in subsection (1)(a), and
 - (b) who was connected with S at any time between—
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-08b9aaeb1be07dbbc144e455cd6a2348]: Textual amendment: S. 229A inserted (with effect in accordance with Sch. 32 para. 22 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/21)
+[^c-08b9aaeb1be07dbbc144e455cd6a2348]: Textual amendment: S. 229A inserted (with effect in accordance with Sch. 32 para. 22 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/21)
 
-[^key-681e0b33d8cfe37a3180d9d2d0bdb1c6]: Textual amendment: S. 229A(5A) inserted (with effect in accordance with Sch. 10 para. 4(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/4/2)
+[^c-681e0b33d8cfe37a3180d9d2d0bdb1c6]: Textual amendment: S. 229A(5A) inserted (with effect in accordance with Sch. 10 para. 4(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/4/2)
 
-[^key-3905dbc0ea2478b088003e17df36d220]: Textual amendment: S. 229A(10)(11) inserted (with effect in accordance with Sch. 10 para. 4(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/4/3)
+[^c-3905dbc0ea2478b088003e17df36d220]: Textual amendment: S. 229A(10)(11) inserted (with effect in accordance with Sch. 10 para. 4(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/10/paragraph/4/3)

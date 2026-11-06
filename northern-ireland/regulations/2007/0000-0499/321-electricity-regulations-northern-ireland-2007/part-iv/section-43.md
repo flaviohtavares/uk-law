@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Applications for licences[^key-d7093001c7ab7f832508feb65afd9c51]
+## 43. Applications for licences[^c-d7093001c7ab7f832508feb65afd9c51]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ and in each of sub-paragraphs (a) to (b) the reference to Article 10 of the 1992
 
 ## Annotations
 
-[^key-d7093001c7ab7f832508feb65afd9c51]: Commencement: Reg. 43 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-d7093001c7ab7f832508feb65afd9c51]: Commencement: Reg. 43 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

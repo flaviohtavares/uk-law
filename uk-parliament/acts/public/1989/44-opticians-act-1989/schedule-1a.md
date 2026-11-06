@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — REGISTRATION APPEALS[^key-a986e5a85748a7a25216415ad50a13d4]
+## SCHEDULE 1A — REGISTRATION APPEALS[^c-a986e5a85748a7a25216415ad50a13d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ In this Schedule—
 (1) The following are appealable registration decisions for the purposes of this Schedule—
 
 - (a) a decision by the Council on an application made under section 8 above not to register the applicant in the appropriate register;
-- (aa)[^key-baea56d5605ca5182eda384f99ab41b7] a decision by the Council under Part 3 of the General Systems Regulations on an application made under section 8 above to require an exempt person to complete an adaptation period, or pass an aptitude test, in connection with becoming entitled by virtue of that Part of those Regulations to pursue in the United Kingdom the profession of optometrist or dispensing optician;
+- (aa)[^c-baea56d5605ca5182eda384f99ab41b7] a decision by the Council under Part 3 of the General Systems Regulations on an application made under section 8 above to require an exempt person to complete an adaptation period, or pass an aptitude test, in connection with becoming entitled by virtue of that Part of those Regulations to pursue in the United Kingdom the profession of optometrist or dispensing optician;
 - (b) a decision by the Council on an application made under section 8A above not to register the applicant in the appropriate register;
 - (c) a decision of the Council under rules made in accordance with section 8A(5) above to remove a registrant from the register maintained under section 8A above;
-- (ca)[^key-2365ff57f846e72dfdef02aca76bb8a2] a decision by the Council not to register an individual in the register of visiting optometrists from relevant European States or the register of visiting dispensing opticians from relevant European States maintained under section 8B above;
+- (ca)[^c-2365ff57f846e72dfdef02aca76bb8a2] a decision by the Council not to register an individual in the register of visiting optometrists from relevant European States or the register of visiting dispensing opticians from relevant European States maintained under section 8B above;
 - (d) a decision by the Council on an application made by a body corporate under section 9 above not to register that body in the register of bodies corporate;
 - (e) a decision of the registrar under rules made in accordance with section 10(1A) above—
   - (i) refusing an application for an entry or refusing to retain an entry in the appropriate register; or
@@ -105,8 +105,8 @@ the registrar may, if he thinks fit, by authorisation in writing extend the time
 
 ## Annotations
 
-[^key-a986e5a85748a7a25216415ad50a13d4]: Textual amendment: Sch. 1A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 27](https://www.legislation.gov.uk/uksi/2005/848/article/27) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-a986e5a85748a7a25216415ad50a13d4]: Textual amendment: Sch. 1A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 27](https://www.legislation.gov.uk/uksi/2005/848/article/27) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-baea56d5605ca5182eda384f99ab41b7]: Textual amendment: Sch. 1A para. 2(1)(aa) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [188(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/188/a)
+[^c-baea56d5605ca5182eda384f99ab41b7]: Textual amendment: Sch. 1A para. 2(1)(aa) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [188(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/188/a)
 
-[^key-2365ff57f846e72dfdef02aca76bb8a2]: Textual amendment: Sch. 1A para. 2(1)(ca) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [188(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/188/b)
+[^c-2365ff57f846e72dfdef02aca76bb8a2]: Textual amendment: Sch. 1A para. 2(1)(ca) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [188(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/188/b)

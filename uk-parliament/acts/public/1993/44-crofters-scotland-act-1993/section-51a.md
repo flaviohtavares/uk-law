@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51A. New common grazing[^key-42f22880f68a184149cf59206947cc85]
+## 51A. New common grazing[^c-42f22880f68a184149cf59206947cc85]
 
 *Extent: S*
 
-(1) The Commission shall have power, on the application of the owner of any eligible land, to constitute the land as a common grazing [^key-341b3e8fb0f9fbf7196a92a808b7080b]....
+(1) The Commission shall have power, on the application of the owner of any eligible land, to constitute the land as a common grazing [^c-341b3e8fb0f9fbf7196a92a808b7080b]....
 
 (2) The Commission shall, on receipt of any such application, give public notification of it; and such notification shall specify a period within which comments as regards the application, being comments of the description given in subsection (10) below, may be made.
 
@@ -71,6 +71,6 @@ and in the agreement different provision may be made for different parts of the 
 
 ## Annotations
 
-[^key-42f22880f68a184149cf59206947cc85]: Textual amendment: S. 51A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 27](https://www.legislation.gov.uk/asp/2007/7/section/27), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-42f22880f68a184149cf59206947cc85]: Textual amendment: S. 51A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 27](https://www.legislation.gov.uk/asp/2007/7/section/27), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-341b3e8fb0f9fbf7196a92a808b7080b]: Textual amendment: Words in [s. 51A(1)](https://www.legislation.gov.uk/ukpga/1993/44/section/51A/1) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 27(1)](https://www.legislation.gov.uk/asp/2010/14/section/27/1), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/3))
+[^c-341b3e8fb0f9fbf7196a92a808b7080b]: Textual amendment: Words in [s. 51A(1)](https://www.legislation.gov.uk/ukpga/1993/44/section/51A/1) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 27(1)](https://www.legislation.gov.uk/asp/2010/14/section/27/1), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/3))

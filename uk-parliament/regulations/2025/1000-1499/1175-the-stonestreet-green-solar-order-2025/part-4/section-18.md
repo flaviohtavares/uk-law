@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Status of public rights of way created or improved[^key-89ddc71247a855e3827b43d15d3d5243]
+## 18. Status of public rights of way created or improved[^c-89ddc71247a855e3827b43d15d3d5243]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ With effect from the date on which the highway authority has confirmed that the 
 
 ## Annotations
 
-[^key-89ddc71247a855e3827b43d15d3d5243]: Commencement: Art. 18 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-89ddc71247a855e3827b43d15d3d5243]: Commencement: Art. 18 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

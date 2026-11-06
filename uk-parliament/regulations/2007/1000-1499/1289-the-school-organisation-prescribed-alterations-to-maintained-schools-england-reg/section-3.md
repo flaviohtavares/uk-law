@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Alterations to maintained schools by governing bodies: foundation proposals[^key-6ae76002b20ef40e25e6f7df529f6a0f]
+## 3. Alterations to maintained schools by governing bodies: foundation proposals[^c-6ae76002b20ef40e25e6f7df529f6a0f]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae76002b20ef40e25e6f7df529f6a0f]: Commencement: Reg. 3 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-6ae76002b20ef40e25e6f7df529f6a0f]: Commencement: Reg. 3 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

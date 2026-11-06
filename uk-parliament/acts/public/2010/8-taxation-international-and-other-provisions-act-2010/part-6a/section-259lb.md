@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259LB. Adjustments in light of later treatment for accounting purposes[^key-1dbe7e4755b32254b366fcbb9d81daff][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259LB. Adjustments in light of later treatment for accounting purposes[^c-1dbe7e4755b32254b366fcbb9d81daff][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dbe7e4755b32254b366fcbb9d81daff]: Textual amendment: S. 259LB inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/18), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-1dbe7e4755b32254b366fcbb9d81daff]: Textual amendment: S. 259LB inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/18), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

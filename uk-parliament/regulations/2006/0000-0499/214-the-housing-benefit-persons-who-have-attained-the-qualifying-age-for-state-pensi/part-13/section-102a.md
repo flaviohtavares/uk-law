@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 102A. Supply of benefit administration information between authorities[^key-fa8aef9b17d4b4540330a1b18728695c]
+## 102A. Supply of benefit administration information between authorities[^c-fa8aef9b17d4b4540330a1b18728695c]
 
 (1) For the purpose of section 122E(3) of the Administration Act (supply of information between authorities administering benefit) the circumstances in which information is to be supplied and the information to be supplied are set out in paragraph (2).
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa8aef9b17d4b4540330a1b18728695c]: Textual amendment: Reg. 102A inserted (1.10.2008) by [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/3/10)
+[^c-fa8aef9b17d4b4540330a1b18728695c]: Textual amendment: Reg. 102A inserted (1.10.2008) by [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/3/10)

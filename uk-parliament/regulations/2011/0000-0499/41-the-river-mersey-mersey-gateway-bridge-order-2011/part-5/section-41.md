@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Power to charge tolls[^key-95a54ec9be24c74cbf9b9f5428ce048e]
+## 41. Power to charge tolls[^c-95a54ec9be24c74cbf9b9f5428ce048e]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-95a54ec9be24c74cbf9b9f5428ce048e]: Commencement: Art. 41 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-95a54ec9be24c74cbf9b9f5428ce048e]: Commencement: Art. 41 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00023]: Footnote: OJL 187, 20.7.1999, p 42.
 

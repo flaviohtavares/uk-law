@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. Charging for development[^key-f5d835a5480950ff24957872d2845855]
+## 172. Charging for development[^c-f5d835a5480950ff24957872d2845855]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5d835a5480950ff24957872d2845855]: Commencement: S. 172 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f5d835a5480950ff24957872d2845855]: Commencement: S. 172 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Female genital mutilation protection orders[^key-d285d5c98a72a571339719dabf5f013b]
+## 73. Female genital mutilation protection orders[^c-d285d5c98a72a571339719dabf5f013b]
 
 *Extent: E+W+N.I.*
 
@@ -526,4 +526,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d285d5c98a72a571339719dabf5f013b]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2015/9/section/73) in force at 17.7.2015 by [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/a)
+[^c-d285d5c98a72a571339719dabf5f013b]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2015/9/section/73) in force at 17.7.2015 by [S.I. 2015/1428](https://www.legislation.gov.uk/uksi/2015/1428), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1428/article/2/a)

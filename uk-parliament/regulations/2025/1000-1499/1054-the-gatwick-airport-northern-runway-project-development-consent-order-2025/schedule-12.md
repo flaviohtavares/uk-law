@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^key-88c22b6d83f42510cdabf97042234b6b]
+## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^c-88c22b6d83f42510cdabf97042234b6b]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ Article 50
 | flood resilience statement | Annex 6 to ES Appendix 11.9.6: Flood Risk Assessment (Doc Ref. 5.3) | 3 |
 | forecast data book | ES Appendix 4.3.1: Forecast Data Book (Doc Ref. 5.3) | 1 |
 | land plans | Land Plans - For Approval (Doc Ref. 4.2) | 5 |
-| noise insulation scheme document[^key-a93f79ed1fc6c3737414b563b9c33301] | Appendix 2 to Annex 2 of the submission by Gatwick Airport Limited to the Secretary of State dated 24 April 2025 | 1 |
+| noise insulation scheme document[^c-a93f79ed1fc6c3737414b563b9c33301] | Appendix 2 to Annex 2 of the submission by Gatwick Airport Limited to the Secretary of State dated 24 April 2025 | 1 |
 | North and South Terminal roundabouts BAU improvement scheme plans | North and South Terminal Roundabouts BAU Improvement Scheme Plans (Doc Ref. 4.10) | 2 |
 | odour monitoring and management plan | Odour Monitoring and Management Plan (Doc Ref. 10.57) | 3 |
 | operational waste management strategy | Operational Waste Management Strategy (Doc Ref. 10.12) | 1 |
@@ -49,7 +49,7 @@ Article 50
 | soil management strategy | ES Appendix 5.3.2: CoCP Annex 4 – Soil Management Strategy (Doc Ref. 5.3) | 1 |
 | special category land plans | Special Category Land Plans - For Approval (Doc Ref. 4.4) | 4 |
 | surface access commitments | ES Appendix 5.4.1: Surface Access Commitments (Doc Ref. 5.3) | 6 |
-| surface access drainage strategy | Annex 2 to ES Appendix 11.9.6: Flood Risk Assessment (Doc Ref. 5.3) | 3[^key-8d083812b8546f0ab21bb3dada0d0019] |
+| surface access drainage strategy | Annex 2 to ES Appendix 11.9.6: Flood Risk Assessment (Doc Ref. 5.3) | 3[^c-8d083812b8546f0ab21bb3dada0d0019] |
 | surface access general arrangements | Surface Access Highways Plans – General Arrangements - For Approval (Doc Ref. 4.8.1) | 2 |
 | surface access engineering section drawings | Surface Access Highways Plans – Engineering Section Drawings - For Approval (Doc Ref. 4.8.2) | 3 |
 | surface access structure section drawings | Surface Access Highways Plans – Structure Section Drawings - For Approval (Doc Ref. 4.8.3) | 3 |
@@ -64,8 +64,8 @@ Article 50
 
 ## Annotations
 
-[^key-88c22b6d83f42510cdabf97042234b6b]: Commencement: Sch. 12 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-88c22b6d83f42510cdabf97042234b6b]: Commencement: Sch. 12 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-a93f79ed1fc6c3737414b563b9c33301]: Textual amendment: Words in [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1054/schedule/12) inserted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-a93f79ed1fc6c3737414b563b9c33301]: Textual amendment: Words in [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1054/schedule/12) inserted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-8d083812b8546f0ab21bb3dada0d0019]: Textual amendment: Word in [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1054/schedule/12) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-8d083812b8546f0ab21bb3dada0d0019]: Textual amendment: Word in [Sch. 12](https://www.legislation.gov.uk/uksi/2025/1054/schedule/12) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)

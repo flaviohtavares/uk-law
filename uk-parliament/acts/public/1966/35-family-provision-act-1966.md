@@ -29,25 +29,25 @@ Family Provision Act 1966 (repealed)
 
 1966 c. 35
 
-[^key-c60d8d9b091bfb2975b9458a6c7d3407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c60d8d9b091bfb2975b9458a6c7d3407]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Increase of net sum payable to surviving husband or wife on intestacy.[^key-c60d8d9b091bfb2975b9458a6c7d3407][^key-c60d8d9b091bfb2975b9458a6c7d3407]
+## 1. Increase of net sum payable to surviving husband or wife on intestacy.[^c-c60d8d9b091bfb2975b9458a6c7d3407][^c-c60d8d9b091bfb2975b9458a6c7d3407]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-c60d8d9b091bfb2975b9458a6c7d3407][^key-c60d8d9b091bfb2975b9458a6c7d3407]
+## 2—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-c60d8d9b091bfb2975b9458a6c7d3407][^c-c60d8d9b091bfb2975b9458a6c7d3407]
 
 **May not be in force at this date. Check the source.**
 
-## 10. †Short title, repeal, et ceteralaetc.[^key-c60d8d9b091bfb2975b9458a6c7d3407][^key-c60d8d9b091bfb2975b9458a6c7d3407]
+## 10. †Short title, repeal, et ceteralaetc.[^c-c60d8d9b091bfb2975b9458a6c7d3407][^c-c60d8d9b091bfb2975b9458a6c7d3407]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULES 1–3[^key-c60d8d9b091bfb2975b9458a6c7d3407]
+## SCHEDULES 1–3[^c-c60d8d9b091bfb2975b9458a6c7d3407]
 
 **No longer in force.**
 
@@ -55,4 +55,4 @@ Family Provision Act 1966 (repealed)
 
 ## Annotations
 
-[^key-c60d8d9b091bfb2975b9458a6c7d3407]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1966/35) repealed (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/2/2), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-c60d8d9b091bfb2975b9458a6c7d3407]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1966/35) repealed (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/2/2), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)

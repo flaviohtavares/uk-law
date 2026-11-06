@@ -33,7 +33,7 @@ summary: ''
 
 (5) The references in subsections (3) and (4) to compensation are references to the compensation payable in respect of the purchase exclusive of any compensation for disturbance or for severance or for injurious affection.
 
-(6)[^key-8c740e0fc668ba36de9ffcb01f9bb9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8c740e0fc668ba36de9ffcb01f9bb9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c12776371]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).
 
-[^key-8c740e0fc668ba36de9ffcb01f9bb9b1]: Textual amendment: [S. 120(6)](https://www.legislation.gov.uk/ukpga/1987/26/section/120/6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-8c740e0fc668ba36de9ffcb01f9bb9b1]: Textual amendment: [S. 120(6)](https://www.legislation.gov.uk/ukpga/1987/26/section/120/6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Adjustment of allocated benefit[^key-71d3c1b45b67a671898e496336d73cd1]
+## 75. Adjustment of allocated benefit[^c-71d3c1b45b67a671898e496336d73cd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71d3c1b45b67a671898e496336d73cd1]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/2848/regulation/75) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-71d3c1b45b67a671898e496336d73cd1]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/2848/regulation/75) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00046]: Footnote: Section 167 was amended by the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) Schedule 20 paragraph 22 and the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11) Schedule 16 paragraph 11. See also Part 2 of Schedule 28 to that Act for the meaning of expressions used in section 167.

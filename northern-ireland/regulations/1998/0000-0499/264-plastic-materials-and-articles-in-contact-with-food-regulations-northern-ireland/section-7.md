@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Transfer of constituents[^key-194a2d72974ff070342e469b242e395d]
+## 7. Transfer of constituents[^c-194a2d72974ff070342e469b242e395d]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-194a2d72974ff070342e469b242e395d]: Commencement: Reg. 7 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-194a2d72974ff070342e469b242e395d]: Commencement: Reg. 7 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Measures in relation to mammals on premises where disease is suspected or confirmed[^key-f63bfb6ce10a387c4f9140c60e085676]
+## 59. Measures in relation to mammals on premises where disease is suspected or confirmed[^c-f63bfb6ce10a387c4f9140c60e085676]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f63bfb6ce10a387c4f9140c60e085676]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/uksi/2006/2702/article/59) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(33)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/33)
+[^c-f63bfb6ce10a387c4f9140c60e085676]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/uksi/2006/2702/article/59) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(33)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/33)

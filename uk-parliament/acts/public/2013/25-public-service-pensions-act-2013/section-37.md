@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. General interpretation[^key-911d2a941ecf3bbf5369da6e471bdf3f]
+## 37. General interpretation[^c-911d2a941ecf3bbf5369da6e471bdf3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ In this Act—
 - “**pensionable earnings**”, in relation to a pension scheme and a member of it, means earnings by reference to which a pension or other benefits under the scheme are calculated;
 - “**pensionable service**”, in relation to a pension scheme, means service which qualifies a person to a pension or other benefits under that scheme;
 - “**primary legislation**” means an Act, Act of the Scottish Parliament, Act or Measure of the National Assembly for Wales or Northern Ireland legislation;
-- “[^key-7ccf60099060c85c72559eb056affd9d]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “[^c-7ccf60099060c85c72559eb056affd9d]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “**public authority**” means—
   - (a) a Minister of the Crown (as defined by section 8 of the Ministers of the Crown Act 1975),
   - (b) a statutory body or the holder of a statutory office, or
@@ -87,6 +87,6 @@ In this Act—
 
 ## Annotations
 
-[^key-911d2a941ecf3bbf5369da6e471bdf3f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2013/25/section/37) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/433/article/2/l)
+[^c-911d2a941ecf3bbf5369da6e471bdf3f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2013/25/section/37) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/433/article/2/l)
 
-[^key-7ccf60099060c85c72559eb056affd9d]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/2013/25/section/37) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 94(10)](https://www.legislation.gov.uk/ukpga/2022/7/section/94/10), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-7ccf60099060c85c72559eb056affd9d]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/2013/25/section/37) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 94(10)](https://www.legislation.gov.uk/ukpga/2022/7/section/94/10), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

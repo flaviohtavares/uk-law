@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Regulations[^key-2e51a8844ba694b9aa6e75bde9d5a8fa][^key-404e655c2ca10839044aa6dc2e72c2b1][^key-469a62b9d55a3a2abfb4e208c186572b][^key-469a62b9d55a3a2abfb4e208c186572b]
+## 84. Regulations[^c-2e51a8844ba694b9aa6e75bde9d5a8fa][^c-404e655c2ca10839044aa6dc2e72c2b1][^c-469a62b9d55a3a2abfb4e208c186572b][^c-469a62b9d55a3a2abfb4e208c186572b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,8 +37,8 @@ summary: ''
 (5) A statutory instrument containing regulations under the following provisions is subject to the made affirmative procedure—
 
 - (a) section 48(5) (meaning of “packaging component”);
-- (b) section 49(8) (meaning of “**plastic**” and “ *(affected by repeal, see note)*[^key-a91baf45280600e1acf197dfdf97f1bf]**recycled plastic *(affected by repeal, see note)*[^key-a91baf45280600e1acf197dfdf97f1bf]**” , “recycled plastic” and “attributed recycled plastic”);
-- (ba)[^key-51c69e2b634d52689e13fd1ebc80014e] section 50(3) (timing of importation);
+- (b) section 49(8) (meaning of “**plastic**” and “ *(affected by repeal, see note)*[^c-a91baf45280600e1acf197dfdf97f1bf]**recycled plastic *(affected by repeal, see note)*[^c-a91baf45280600e1acf197dfdf97f1bf]**” , “recycled plastic” and “attributed recycled plastic”);
+- (ba)[^c-51c69e2b634d52689e13fd1ebc80014e] section 50(3) (timing of importation);
 - (c) section 52 (exempt plastic packaging components);
 - (d) section 80(8) or (9) (penalties for contravening relevant requirements).
 
@@ -62,12 +62,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2e51a8844ba694b9aa6e75bde9d5a8fa]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2021/26/section/84) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
+[^c-2e51a8844ba694b9aa6e75bde9d5a8fa]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2021/26/section/84) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
 
-[^key-404e655c2ca10839044aa6dc2e72c2b1]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2021/26/section/84) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
+[^c-404e655c2ca10839044aa6dc2e72c2b1]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2021/26/section/84) in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
+[^c-469a62b9d55a3a2abfb4e208c186572b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2021/26/part/2) modified (1.4.2022) by [The Plastic Packaging Tax (Descriptions of Products) Regulations 2021 (S.I. 2021/1417)](https://www.legislation.gov.uk/uksi/2021/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1417/regulation/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1417/regulation/3)
 
-[^key-a91baf45280600e1acf197dfdf97f1bf]: Textual amendment: Words in [s. 84(5)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/84/5/b) substituted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/6), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-a91baf45280600e1acf197dfdf97f1bf]: Textual amendment: Words in [s. 84(5)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/84/5/b) substituted (18.3.2026 for specified purposes) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/105/6), [107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
 
-[^key-51c69e2b634d52689e13fd1ebc80014e]: Textual amendment: [S. 84(5)(ba)](https://www.legislation.gov.uk/ukpga/2021/26/section/84/5/ba) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/3/2)
+[^c-51c69e2b634d52689e13fd1ebc80014e]: Textual amendment: [S. 84(5)(ba)](https://www.legislation.gov.uk/ukpga/2021/26/section/84/5/ba) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 3(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Disclaimer presumed valid and effective[^key-bc7a804b7139575572c460d391e62029]
+## 152. Disclaimer presumed valid and effective[^c-bc7a804b7139575572c460d391e62029]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.193 of the 1986 Rules. For “Chapter” substitute “Part”.
 
 ## Annotations
 
-[^key-bc7a804b7139575572c460d391e62029]: Commencement: Rule 152 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bc7a804b7139575572c460d391e62029]: Commencement: Rule 152 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

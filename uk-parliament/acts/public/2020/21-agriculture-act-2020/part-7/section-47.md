@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Duration of provision in relation to Wales[^key-babb21329d2d2233b156b0ead65fe695]
+## 47. Duration of provision in relation to Wales[^c-babb21329d2d2233b156b0ead65fe695]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-babb21329d2d2233b156b0ead65fe695]: Textual amendment: S. 47 repealed (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/3); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-babb21329d2d2233b156b0ead65fe695]: Textual amendment: S. 47 repealed (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/3); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)

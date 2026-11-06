@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to reform the law on education and tra
 
 \[24 January 2018\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^key-f0e182681cbdedacc664327b598b68c3][^key-fe6d3d51c5e1dedb9c85d4be52c26851][^key-350680397db551ccb76db2dadaf31852][^key-19aea00fdb132a5c566abc4fc3556168]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^c-f0e182681cbdedacc664327b598b68c3][^c-fe6d3d51c5e1dedb9c85d4be52c26851][^c-350680397db551ccb76db2dadaf31852][^c-19aea00fdb132a5c566abc4fc3556168]
 
 ## Contents
 
@@ -295,10 +295,10 @@ An Act of the National Assembly for Wales to reform the law on education and tra
 
 ## Annotations
 
-[^key-f0e182681cbdedacc664327b598b68c3]: Modification: Act excluded (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 5](https://www.legislation.gov.uk/wsi/2021/401/regulation/5)
+[^c-f0e182681cbdedacc664327b598b68c3]: Modification: Act excluded (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 5](https://www.legislation.gov.uk/wsi/2021/401/regulation/5)
 
-[^key-fe6d3d51c5e1dedb9c85d4be52c26851]: Modification: Act applied (with modifications) (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 22(4)](https://www.legislation.gov.uk/wsi/2021/401/regulation/22/4), [Sch. 2](https://www.legislation.gov.uk/wsi/2021/401/schedule/2)
+[^c-fe6d3d51c5e1dedb9c85d4be52c26851]: Modification: Act applied (with modifications) (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 22(4)](https://www.legislation.gov.uk/wsi/2021/401/regulation/22/4), [Sch. 2](https://www.legislation.gov.uk/wsi/2021/401/schedule/2)
 
-[^key-350680397db551ccb76db2dadaf31852]: Modification: Act restricted (1.9.2021) by 1996 (c. 56), s. 569(2BA) (as inserted by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 4(30)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/30/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(x)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/x))
+[^c-350680397db551ccb76db2dadaf31852]: Modification: Act restricted (1.9.2021) by 1996 (c. 56), s. 569(2BA) (as inserted by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 4(30)(b)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/30/b); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(x)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/x))
 
-[^key-19aea00fdb132a5c566abc4fc3556168]: Modification: Act applied (with modifications) (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 23(3)](https://www.legislation.gov.uk/wsi/2021/401/regulation/23/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2021/401/schedule/2)
+[^c-19aea00fdb132a5c566abc4fc3556168]: Modification: Act applied (with modifications) (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [reg. 23(3)](https://www.legislation.gov.uk/wsi/2021/401/regulation/23/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2021/401/schedule/2)

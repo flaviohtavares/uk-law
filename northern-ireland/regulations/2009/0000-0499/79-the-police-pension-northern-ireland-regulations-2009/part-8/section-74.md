@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Transfer values payable on leaving the police service or ceasing to make pension contributions[^key-fca8661729b8719d44a788c079563872]
+## 74. Transfer values payable on leaving the police service or ceasing to make pension contributions[^c-fca8661729b8719d44a788c079563872]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ whichever ends later.
 
 ## Annotations
 
-[^key-fca8661729b8719d44a788c079563872]: Commencement: Reg. 74 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-fca8661729b8719d44a788c079563872]: Commencement: Reg. 74 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00027]: Footnote: Subsection (1) of section 1 was so numbered by the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35), section 293(1) and (2) and the definition of “public service pension scheme” was amended by the Scotland Act 1998 (Consequential Modifications) (No.2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820); article 4, Schedule 2, Part I, paragraph 113(a) and (b))
 

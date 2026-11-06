@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42A. Transfer of energy-related technology[^key-76a24473307070f4a75f4e819694ee58]
+## 42A. Transfer of energy-related technology[^c-76a24473307070f4a75f4e819694ee58]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76a24473307070f4a75f4e819694ee58]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2019/855/regulation/42A) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2025/504/regulation/4/8) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-76a24473307070f4a75f4e819694ee58]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2019/855/regulation/42A) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2025/504/regulation/4/8) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

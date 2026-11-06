@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Amendment of regulation 173 (exemption for certain radiopharmaceuticals)[^key-77f0e3f23d43b56ce10cee218ac55157]
+## 138. Amendment of regulation 173 (exemption for certain radiopharmaceuticals)[^c-77f0e3f23d43b56ce10cee218ac55157]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 173(c), for “marketing authorisation” substitute “UK marketing authorisation or EU marketing authorisation”[^key-cead9daa750db20a4e8f02c4f23b5de3] .
+In regulation 173(c), for “marketing authorisation” substitute “UK marketing authorisation or EU marketing authorisation”[^c-cead9daa750db20a4e8f02c4f23b5de3] .
 
 ## Annotations
 
-[^key-77f0e3f23d43b56ce10cee218ac55157]: Commencement: Reg. 138 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-77f0e3f23d43b56ce10cee218ac55157]: Commencement: Reg. 138 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cead9daa750db20a4e8f02c4f23b5de3]: Textual amendment: Words in reg. 138 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 106](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/106)
+[^c-cead9daa750db20a4e8f02c4f23b5de3]: Textual amendment: Words in reg. 138 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 106](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/106)

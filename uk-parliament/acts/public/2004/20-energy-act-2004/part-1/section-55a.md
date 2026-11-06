@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. Provision of additional police services[^key-75e814e21f4e9d027bc553bb2e84d9ff]
+## 55A. Provision of additional police services[^c-75e814e21f4e9d027bc553bb2e84d9ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e814e21f4e9d027bc553bb2e84d9ff]: Textual amendment: [S. 55A](https://www.legislation.gov.uk/ukpga/2004/20/section/55A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/1), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-75e814e21f4e9d027bc553bb2e84d9ff]: Textual amendment: [S. 55A](https://www.legislation.gov.uk/ukpga/2004/20/section/55A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/1), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

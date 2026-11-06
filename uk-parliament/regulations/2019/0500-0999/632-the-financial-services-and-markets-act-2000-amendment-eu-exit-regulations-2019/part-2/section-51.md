@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Section 188 (assessment: consultation with EC competent authorities)[^key-6396b86a69ca28fd84d92d6e6dbd49c8]
+## 51. Section 188 (assessment: consultation with EC competent authorities)[^c-6396b86a69ca28fd84d92d6e6dbd49c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit section 188 (assessment: consultation with EC competent authorities) [^c236
 
 ## Annotations
 
-[^key-6396b86a69ca28fd84d92d6e6dbd49c8]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6396b86a69ca28fd84d92d6e6dbd49c8]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657861]: Marginal citation: Section 188(1) was substituted by section 26(2) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534) and 2013/3115.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.25. Delivery by document exchange[^key-38f94ce0d0de326cc3363fd0dc30fd5e]
+## 7.25. Delivery by document exchange[^c-38f94ce0d0de326cc3363fd0dc30fd5e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38f94ce0d0de326cc3363fd0dc30fd5e]: Commencement: Rule 7.25 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-38f94ce0d0de326cc3363fd0dc30fd5e]: Commencement: Rule 7.25 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

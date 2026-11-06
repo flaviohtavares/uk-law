@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Statement of affairs: content[^key-511f1218c889ce862b9c6b5b35fb865a]
+## 19. Statement of affairs: content[^c-511f1218c889ce862b9c6b5b35fb865a]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-511f1218c889ce862b9c6b5b35fb865a]: Commencement: Rule 19 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-511f1218c889ce862b9c6b5b35fb865a]: Commencement: Rule 19 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

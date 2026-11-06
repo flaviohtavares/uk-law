@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Personal licences: relevant offences[^key-8df28aa55ef2661d31c8388b455c6cc8]
+## 123. Personal licences: relevant offences[^c-8df28aa55ef2661d31c8388b455c6cc8]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8df28aa55ef2661d31c8388b455c6cc8]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2011/13/section/123) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-8df28aa55ef2661d31c8388b455c6cc8]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2011/13/section/123) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

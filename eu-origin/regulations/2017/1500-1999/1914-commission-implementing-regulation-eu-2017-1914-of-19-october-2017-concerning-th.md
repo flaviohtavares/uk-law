@@ -35,34 +35,34 @@ concerning the authorisation of salinomycin sodium (Sacox 120 microGranulate and
 
 (Text with EEA relevance) (revoked)
 
-[^key-e3bcf3fc05610ddc5b9bc982ee829541]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3bcf3fc05610ddc5b9bc982ee829541]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-e3bcf3fc05610ddc5b9bc982ee829541]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Repeal of Regulation (EC) No 1852/2003[^key-e3bcf3fc05610ddc5b9bc982ee829541]
+## Article 1. Authorisation[^c-e3bcf3fc05610ddc5b9bc982ee829541]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Repeal of Regulation (EC) No 1463/2004[^key-e3bcf3fc05610ddc5b9bc982ee829541]
+## Article 2. Repeal of Regulation (EC) No 1852/2003[^c-e3bcf3fc05610ddc5b9bc982ee829541]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-e3bcf3fc05610ddc5b9bc982ee829541]
+## Article 3. Repeal of Regulation (EC) No 1463/2004[^c-e3bcf3fc05610ddc5b9bc982ee829541]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-e3bcf3fc05610ddc5b9bc982ee829541]
+## Article 4. Transitional measures[^c-e3bcf3fc05610ddc5b9bc982ee829541]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3bcf3fc05610ddc5b9bc982ee829541]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-e3bcf3fc05610ddc5b9bc982ee829541]
 
-## ANNEX[^key-e3bcf3fc05610ddc5b9bc982ee829541]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e3bcf3fc05610ddc5b9bc982ee829541]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-e3bcf3fc05610ddc5b9bc982ee829541]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3bcf3fc05610ddc5b9bc982ee829541]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 259](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/259) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e3bcf3fc05610ddc5b9bc982ee829541]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 259](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/259) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -42,11 +42,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, the Secretary ofState for Scotland and the Secretary of State for Wales, acting jointly,in exercise of the powers conferred on them by sections 1, 15(4) and83(2) of the Animal Health Act 1981[^f00001] and of all other powers enabling them in that behalf,hereby make the following Order:
 
-## 1. Title and commencement[^key-9b999eda6d10390870dcd2ff69e22593]
+## 1. Title and commencement[^c-9b999eda6d10390870dcd2ff69e22593]
 
 This Order may be cited as the Swine Fever (Amendment) Order 1991and shall come into force on 12th May 1991.
 
-## 2. Amendment[^key-0f0143ef5785c9d802d2ba2ab5fcdbfe]
+## 2. Amendment[^c-0f0143ef5785c9d802d2ba2ab5fcdbfe]
 
 In article 3 of the Swine Fever Order 1963[^f00002] for paragraph (4) there shall be substituted thefollowing—
 
@@ -78,9 +78,9 @@ This Order amends article 3(4) of the Swine Fever Order 1963 whichwas defectivel
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1)for the definition of“the Ministers”.
 
-[^key-9b999eda6d10390870dcd2ff69e22593]: Commencement: Art. 1 in force at 12.5.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1991/1030/article/1)
+[^c-9b999eda6d10390870dcd2ff69e22593]: Commencement: Art. 1 in force at 12.5.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1991/1030/article/1)
 
-[^key-0f0143ef5785c9d802d2ba2ab5fcdbfe]: Commencement: Art. 2 in force at 12.5.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1991/1030/article/1)
+[^c-0f0143ef5785c9d802d2ba2ab5fcdbfe]: Commencement: Art. 2 in force at 12.5.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1991/1030/article/1)
 
 [^f00002]: Footnote: [S.I. 1963/286](https://www.legislation.gov.uk/uksi/1963/286); the relevant amending instrument is [S.I. 1990/2487](https://www.legislation.gov.uk/uksi/1990/2487).
 

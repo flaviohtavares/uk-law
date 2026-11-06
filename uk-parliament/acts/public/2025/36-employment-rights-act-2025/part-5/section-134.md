@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Information relating to the intelligence services, etc[^key-fe44058635791b213a41eecd3948e765][^key-56c605d356d90ff90261c74a433012e0]
+## 134. Information relating to the intelligence services, etc[^c-fe44058635791b213a41eecd3948e765][^c-56c605d356d90ff90261c74a433012e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe44058635791b213a41eecd3948e765]: Commencement: S. 134 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-fe44058635791b213a41eecd3948e765]: Commencement: S. 134 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-56c605d356d90ff90261c74a433012e0]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2025/36/section/134) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(35)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/35)
+[^c-56c605d356d90ff90261c74a433012e0]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2025/36/section/134) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(35)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/35)

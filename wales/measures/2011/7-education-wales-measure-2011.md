@@ -40,7 +40,7 @@ A Measure of the National Assembly for Wales to make provision for collaboration
 
 ## PART 1 — COLLABORATION BY EDUCATION BODIES
 
-### 1. Education bodies[^key-f2d6aa2d488b3b45c298cb3b66e2612f]
+### 1. Education bodies[^c-f2d6aa2d488b3b45c298cb3b66e2612f]
 
 For the purposes of this Part, an “**education body**” means—
 
@@ -51,13 +51,13 @@ For the purposes of this Part, an “**education body**” means—
   - (i) is a body incorporated by virtue of section 143(5) of the Learning and Skills Act 2000, and
   - (ii) is exclusively or mainly providing full-time education for persons who are above compulsory school age but who have not attained the age of 19.
 
-### 2. The collaboration objective[^key-ec29e47ef720be6f5b6cb36e299caf2e]
+### 2. The collaboration objective[^c-ec29e47ef720be6f5b6cb36e299caf2e]
 
 (1) The objective of this Part is the effective and efficient use of public resources by an education body in respect of the provision of education and training suitable to the requirements of persons who have not attained the age of 19.
 
 (2) This objective is referred to in this Part as “**the collaboration objective**”.
 
-### 3. Duty of education body to collaborate[^key-a2d182d6c3789f59fa5ad8e30a7e9338]
+### 3. Duty of education body to collaborate[^c-a2d182d6c3789f59fa5ad8e30a7e9338]
 
 (1) An education body must consider from time to time whether the exercise of its powers of collaboration would further the collaboration objective in the exercise of its other functions.
 
@@ -68,11 +68,11 @@ For the purposes of this Part, an “**education body**” means—
 (4) The duty in subsection (1) is without prejudice to the duties in—
 
 - (a) section 33K of the Learning and Skills Act 2000 (delivery of local curriculum entitlements for students aged 16 to 18: joint working);
-- (b)[^key-4d18cc35cb0e8507fade21e737fe748a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-83021172c8aa23aae6c5cf1c04ae51cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-1809920ff2ab6cc9e7d77de6d781cd1c] section 65 of the Curriculum and Assessment (Wales) Act 2021.
+- (b)[^c-4d18cc35cb0e8507fade21e737fe748a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-83021172c8aa23aae6c5cf1c04ae51cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1809920ff2ab6cc9e7d77de6d781cd1c] section 65 of the Curriculum and Assessment (Wales) Act 2021.
 
-### 4. Meaning of “powers of collaboration”[^key-fb66967abdc969ab8ec2cbc28a4a55fd]
+### 4. Meaning of “powers of collaboration”[^c-fb66967abdc969ab8ec2cbc28a4a55fd]
 
 For the purposes of this Part, “**powers of collaboration**” means—
 
@@ -83,13 +83,13 @@ For the purposes of this Part, “**powers of collaboration**” means—
   - (iii) a power of the executive of the authority (or a committee or specified member of the executive) to make arrangements for the discharge of their functions under regulations made under section 19(1) of the Local Government Act 2000 (arrangements for the discharge of functions of the executive of a local authority by another local authority etc);
   - (iv) a power of the authority to make arrangements for the discharge of its functions under regulations made under section 19(2) of the Local Government Act 2000 (arrangements for the discharge of functions of a local authority by the executive etc of another local authority).
 
-### 5. Powers to collaborate[^key-2504fc3c31eac50e1edcc6cd4a0b5cd0]
+### 5. Powers to collaborate[^c-2504fc3c31eac50e1edcc6cd4a0b5cd0]
 
 (1) An education body has the powers in subsection (2) for the purpose of discharging or facilitating the discharge of—
 
 - (a) its duty under section 3,
 - (b) its duty under section 33K of the Learning and Skills Act 2000,
-- (c) its duty under section 65 of the Curriculum and Assessment (Wales) Act 2021,[^key-bddfb105ad7866905b32dcbaff83b474]
+- (c) its duty under section 65 of the Curriculum and Assessment (Wales) Act 2021,[^c-bddfb105ad7866905b32dcbaff83b474]
 - (d) the duty of another education body under those provisions.
 
 (2) The powers are—
@@ -108,7 +108,7 @@ For the purposes of this Part, “**powers of collaboration**” means—
 - (a) without prejudice to any other powers of an education body, and
 - (b) subject to provision made under section 6.
 
-### 6. Regulations about the power to collaborate[^key-bb8ddb4f70a855c3a52457e94c9dcab3]
+### 6. Regulations about the power to collaborate[^c-bb8ddb4f70a855c3a52457e94c9dcab3]
 
 (1) Regulations may provide for—
 
@@ -138,11 +138,11 @@ For the purposes of this Part, “**powers of collaboration**” means—
 
 (4) Regulations may provide that any enactment is to have effect subject to all necessary modifications in its application in relation to those functions and the bodies by whom they are to be discharged.
 
-### 7. Guidance[^key-4f77f27a955a69fd8dac9b60463242e6]
+### 7. Guidance[^c-4f77f27a955a69fd8dac9b60463242e6]
 
 In exercising its functions under this Part, an education body must have regard to guidance given from time to time by the Welsh Ministers.
 
-### 8. Interpretation of this Part[^key-63469ccbd4175fac3f74a9454bbbb4ff]
+### 8. Interpretation of this Part[^c-63469ccbd4175fac3f74a9454bbbb4ff]
 
 In this Part—
 
@@ -150,10 +150,10 @@ In this Part—
 - “**collaboration objective**” (“***amcan y cydlafurio***”) has the meaning given by section 2;
 - “**education body**” (“***corff addysg***”) has the meaning given by section 1;
 - “**functions**” (“***swyddogaethau***”) means powers and duties, and in the case of a local authority means powers and duties that are education functions;
-- “**maintained school**” (“***ysgol a gynhelir***”) means a community, foundation or voluntary school, a community [^key-b7006f4ec4b5d2d92370485121e11de5]... special school, a maintained nursery school or a pupil referral unit;
+- “**maintained school**” (“***ysgol a gynhelir***”) means a community, foundation or voluntary school, a community [^c-b7006f4ec4b5d2d92370485121e11de5]... special school, a maintained nursery school or a pupil referral unit;
 - “**powers of collaboration**” (“***pwerau cydlafurio***”) has the meaning given by section 4.
 
-### 9. Minor and consequential amendments[^key-5ed5a4daee55833618a92740fd6ac681]
+### 9. Minor and consequential amendments[^c-5ed5a4daee55833618a92740fd6ac681]
 
 (1) In section 57(5A) of the Further and Higher Education Act 1992, for “make collaboration arrangements (within the meaning of section 166 of the Education and Inspections Act 2006) with such bodies” substitute “ exercise powers under section 5(2)(b) to (f) and (h) of the Education (Wales) Measure 2011 to collaborate with such persons ”.
 
@@ -169,7 +169,7 @@ In this Part—
 (3) In the Education Act 2002—
 
 - (a) in section 26(a), after “schools” insert “ in England ”;
-- (b)[^key-b8a057cce3ed5eae1f881b65d8d1a38a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b8a057cce3ed5eae1f881b65d8d1a38a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 166(6) of the Education and Inspections Act 2006—
 
@@ -183,7 +183,7 @@ In this Part—
 
 ### CHAPTER 1 — FEDERATION OF MAINTAINED SCHOOLS
 
-#### 10. Federation of schools by governing bodies[^key-4c43f37ba4ccf8f9a119b5754e6f4e3d]
+#### 10. Federation of schools by governing bodies[^c-4c43f37ba4ccf8f9a119b5754e6f4e3d]
 
 (1) This section applies to the governing bodies—
 
@@ -198,7 +198,7 @@ In this Part—
 - (a) compliance with any prescribed conditions, and
 - (b) the exercise of the power in accordance with any prescribed procedure.
 
-#### 11. Proposals by local authorities to federate schools[^key-f673ccaa8806a54aa7bbd97b49e762e8]
+#### 11. Proposals by local authorities to federate schools[^c-f673ccaa8806a54aa7bbd97b49e762e8]
 
 (1) A local authority may make proposals for the federation—
 
@@ -243,7 +243,7 @@ In this Part—
 - (f) withdrawal or modification of the proposals;
 - (g) confirmation of the proposals by the local authority.
 
-#### 12. Implementation of proposals under section 11[^key-856cc52b8ae3d49b54e40a780a55d74a]
+#### 12. Implementation of proposals under section 11[^c-856cc52b8ae3d49b54e40a780a55d74a]
 
 (1) This section applies to proposals under section 11.
 
@@ -269,14 +269,14 @@ In this Part—
 
 (7) If required to do so by regulations, a local authority must consult or obtain the consent of such persons as may be prescribed before making a determination under subsection (6).
 
-#### 13. Single governing body for federations[^key-3140359f63c3b25141532f5bb4f31391]
+#### 13. Single governing body for federations[^c-3140359f63c3b25141532f5bb4f31391]
 
 A federation must—
 
 - (a) have a single governing body constituted under a single instrument of government;
-- (b) in prescribed cases, be treated as a single school for the purposes of such enactments as may be prescribed, other than any enactment contained in Part 3 of the School Standards and Organisation (Wales) Act 2013 (school organisation) or in Part 3 of the School Standards and Framework Act 1998 (school admissions)[^key-c2993cd9135d8589affdc1704b8a30e6].
+- (b) in prescribed cases, be treated as a single school for the purposes of such enactments as may be prescribed, other than any enactment contained in Part 3 of the School Standards and Organisation (Wales) Act 2013 (school organisation) or in Part 3 of the School Standards and Framework Act 1998 (school admissions)[^c-c2993cd9135d8589affdc1704b8a30e6].
 
-#### 14. Regulations in relation to federations[^key-251c1ea55f11c6570f5a7ee8bee615db]
+#### 14. Regulations in relation to federations[^c-251c1ea55f11c6570f5a7ee8bee615db]
 
 (1) Regulations may make provision—
 
@@ -294,7 +294,7 @@ A federation must—
 - (b) apply with modifications any provision of Schedule 10 to the Education Reform Act 1988 (supplementary provisions with respect to transfers under that Act), or
 - (c) make provision equivalent to that made by any provision of that Schedule.
 
-#### 15. Identification of small maintained schools in Wales for the purposes of this Chapter[^key-e7b2c4d6b062c49e90e854c839daefa5]
+#### 15. Identification of small maintained schools in Wales for the purposes of this Chapter[^c-e7b2c4d6b062c49e90e854c839daefa5]
 
 (1) The Welsh Ministers may make provision by order for the definition of a small maintained school by reference to a specified number of pupils registered at a school on a specified date in any year.
 
@@ -302,22 +302,22 @@ A federation must—
 
 (3) In this section, “**specified**” means specified in an order made by the Welsh Ministers.
 
-#### 16. Federation of schools causing concern by direction of the Welsh Ministers[^key-d2a10a14b959299da3a8491c91b03219]
+#### 16. Federation of schools causing concern by direction of the Welsh Ministers[^c-d2a10a14b959299da3a8491c91b03219]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Guidance given by the Welsh Ministers[^key-e31f7c0d6856a28995d027d24eef85e4]
+#### 17. Guidance given by the Welsh Ministers[^c-e31f7c0d6856a28995d027d24eef85e4]
 
 In exercising their functions under this Chapter, a local authority and a governing body of a maintained school must have regard to guidance given from time to time by the Welsh Ministers.
 
-#### 18. Federations: supplementary provisions[^key-f14b881cdafee1c6da6cef51d25914be]
+#### 18. Federations: supplementary provisions[^c-f14b881cdafee1c6da6cef51d25914be]
 
 (1) Regulations may make provision for the purposes of this Chapter modifying any provision contained in—
 
-- (a)[^key-d963c6be91167123154e7e27b2d02f50] Chapter 1 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (intervention in conduct of maintained schools), or
-- (b) sections 49 to 51 of, and Schedule 15 to, the School Standards and Framework Act 1998[^key-119cde8db74f96ad48d5618ce40fdd57] (financial delegation),
+- (a)[^c-d963c6be91167123154e7e27b2d02f50] Chapter 1 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (intervention in conduct of maintained schools), or
+- (b) sections 49 to 51 of, and Schedule 15 to, the School Standards and Framework Act 1998[^c-119cde8db74f96ad48d5618ce40fdd57] (financial delegation),
 
 in the application of the provision to federated schools or their governing bodies.
 
@@ -330,7 +330,7 @@ in the application of the provision to federated schools or their governing bodi
 
 (4) In subsection (3), references to categories of maintained schools are references to the categories set out in section 20(1) of the School Standards and Framework Act 1998.
 
-#### 19. Minor and consequential amendments to the Education Act 2002[^key-d60d7402472b2a19a20b73ed16a0e78a]
+#### 19. Minor and consequential amendments to the Education Act 2002[^c-d60d7402472b2a19a20b73ed16a0e78a]
 
 (1) The Education Act 2002 is amended as follows.
 
@@ -372,17 +372,17 @@ in the application of the provision to federated schools or their governing bodi
 >
 > (1B) “Federation” in sub-paragraph (1A) means a group of schools that are federated by virtue of Chapter 1 of Part 2 of the Education (Wales) Measure 2011 or were federated by virtue of section 24 before the coming into force of that Chapter, and “**federated school**” means a school forming part of a federation.
 
-#### 20. Minor and consequential amendments to the Education Act 2005[^key-adeff9371b64d68642cc7c490ad20e47][^key-86e6e63aa1e49b63e27d224e143aefd2]
+#### 20. Minor and consequential amendments to the Education Act 2005[^c-adeff9371b64d68642cc7c490ad20e47][^c-86e6e63aa1e49b63e27d224e143aefd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Interpretation of this Chapter[^key-d8683705ea9191e9bd6c3f956fe1a65e]
+#### 21. Interpretation of this Chapter[^c-d8683705ea9191e9bd6c3f956fe1a65e]
 
 (1) In this Chapter—
 
 - “**federation**” (“***ffederasiwn***”) means a group of schools in Wales that are federated by virtue of this Chapter or were federated by virtue of section 24 of the Education Act 2002 before the coming into force of this Chapter, and “**federated school**” (“***ysgol ffederal***”) means a school forming part of a federation;
 - “**local authority**” (“***awdurdod lleol***”) means a local authority in Wales;
-- “**maintained school**” (“***ysgol a gynhelir***”) means a school in Wales which is a community, foundation or voluntary school, a community [^key-eba6d81cd0c2a206c72e5493324494a4]... special school or a maintained nursery school.
+- “**maintained school**” (“***ysgol a gynhelir***”) means a school in Wales which is a community, foundation or voluntary school, a community [^c-eba6d81cd0c2a206c72e5493324494a4]... special school or a maintained nursery school.
 
 (2) In any enactment—
 
@@ -391,7 +391,7 @@ in the application of the provision to federated schools or their governing bodi
 
 ### CHAPTER 2 — TRAINING FOR GOVERNORS AND CLERKS AND PROVISION OF CLERKS
 
-#### 22. Information and training for governors of maintained schools[^key-fbee186bdf5e4249d4b4778c2a843209]
+#### 22. Information and training for governors of maintained schools[^c-fbee186bdf5e4249d4b4778c2a843209]
 
 (1) A local authority in Wales must secure that every governor is provided, free of charge, with such information as it considers appropriate in connection with the discharge of a governor's functions.
 
@@ -409,7 +409,7 @@ in the application of the provision to federated schools or their governing bodi
 
 (8) In section 22 of the Education Act 2002, after “authority” insert “ in England ”.
 
-#### 23. Duty of local authorities to provide clerks to the governing bodies of maintained schools[^key-69a9d2ae6466f3ce4b64e44ba0e1c621]
+#### 23. Duty of local authorities to provide clerks to the governing bodies of maintained schools[^c-69a9d2ae6466f3ce4b64e44ba0e1c621]
 
 (1) A local authority in Wales must inform, from time to time, each body that is required to appoint a clerk to the governing body of a maintained school in the local authority's area under section 23 of the Education Act 2002 that the body may request the authority to provide a person for appointment as a clerk.
 
@@ -421,7 +421,7 @@ in the application of the provision to federated schools or their governing bodi
 - (b) prescribe the person by whom the fee must be paid;
 - (c) provide for exceptions and exemptions.
 
-#### 24. Training for clerks to the governing bodies of maintained schools[^key-20932df3059a9f11695a44695a942552]
+#### 24. Training for clerks to the governing bodies of maintained schools[^c-20932df3059a9f11695a44695a942552]
 
 (1) Subsection (2) applies in relation to a body that is required to appoint a clerk to the governing body of a maintained school in Wales under section 23 of the Education Act 2002.
 
@@ -435,7 +435,7 @@ in the application of the provision to federated schools or their governing bodi
 - (d) prescribe training and standards by reference to a document published, as specified in the regulations, by the Welsh Ministers;
 - (e) provide for exceptions and exemptions.
 
-#### 25. Duty of local authorities to secure availability of training for clerks[^key-c88e6f5f3e2cc3b220eeec1d68bfaf27]
+#### 25. Duty of local authorities to secure availability of training for clerks[^c-c88e6f5f3e2cc3b220eeec1d68bfaf27]
 
 (1) A local authority in Wales must secure that there is made available to every person appointed as a clerk such training as the authority considers necessary to enable the body that appointed the clerk under section 23 of the Education Act 2002 to comply with any requirement under section 24 of this Measure.
 
@@ -445,23 +445,23 @@ in the application of the provision to federated schools or their governing bodi
 
 ## PART 3 — FOUNDATION SCHOOLS
 
-### 26. Prohibition of establishment of new foundation schools[^key-4b2985482d92645b77f7735ad9e9c7f9]
+### 26. Prohibition of establishment of new foundation schools[^c-4b2985482d92645b77f7735ad9e9c7f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Prohibition of change of category to foundation school[^key-4b2985482d92645b77f7735ad9e9c7f9]
+### 27. Prohibition of change of category to foundation school[^c-4b2985482d92645b77f7735ad9e9c7f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Savings: proposals to establish new foundation schools[^key-4b2985482d92645b77f7735ad9e9c7f9]
+### 28. Savings: proposals to establish new foundation schools[^c-4b2985482d92645b77f7735ad9e9c7f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Savings: proposals to change category to foundation school[^key-4b2985482d92645b77f7735ad9e9c7f9]
+### 29. Savings: proposals to change category to foundation school[^c-4b2985482d92645b77f7735ad9e9c7f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Supplementary powers[^key-4b2985482d92645b77f7735ad9e9c7f9]
+### 30. Supplementary powers[^c-4b2985482d92645b77f7735ad9e9c7f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -513,76 +513,76 @@ in the application of the provision to federated schools or their governing bodi
 
 ## Annotations
 
-[^key-f2d6aa2d488b3b45c298cb3b66e2612f]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2011/7/section/1) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-f2d6aa2d488b3b45c298cb3b66e2612f]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2011/7/section/1) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-ec29e47ef720be6f5b6cb36e299caf2e]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2011/7/section/2) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-ec29e47ef720be6f5b6cb36e299caf2e]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2011/7/section/2) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-a2d182d6c3789f59fa5ad8e30a7e9338]: Commencement: S. 3 in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-a2d182d6c3789f59fa5ad8e30a7e9338]: Commencement: S. 3 in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-4d18cc35cb0e8507fade21e737fe748a]: Textual amendment: [S. 3(4)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/3/4/b) omitted (1.9.2022 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 12(2)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12/2/a)
+[^c-4d18cc35cb0e8507fade21e737fe748a]: Textual amendment: [S. 3(4)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/3/4/b) omitted (1.9.2022 for specified purposes) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 12(2)(a)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12/2/a)
 
-[^key-83021172c8aa23aae6c5cf1c04ae51cb]: Textual amendment: [S. 3(4)(c)](https://www.legislation.gov.uk/mwa/2011/7/section/3/4/c) omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2021/296/regulation/8)
+[^c-83021172c8aa23aae6c5cf1c04ae51cb]: Textual amendment: [S. 3(4)(c)](https://www.legislation.gov.uk/mwa/2011/7/section/3/4/c) omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2021/296/regulation/8)
 
-[^key-1809920ff2ab6cc9e7d77de6d781cd1c]: Textual amendment: [S. 3(4)(d)](https://www.legislation.gov.uk/mwa/2011/7/section/3/4/d) inserted (1.9.2022 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12/2/b)
+[^c-1809920ff2ab6cc9e7d77de6d781cd1c]: Textual amendment: [S. 3(4)(d)](https://www.legislation.gov.uk/mwa/2011/7/section/3/4/d) inserted (1.9.2022 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12/2/b)
 
-[^key-fb66967abdc969ab8ec2cbc28a4a55fd]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2011/7/section/4) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-fb66967abdc969ab8ec2cbc28a4a55fd]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2011/7/section/4) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-2504fc3c31eac50e1edcc6cd4a0b5cd0]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/7/section/5) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-2504fc3c31eac50e1edcc6cd4a0b5cd0]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/7/section/5) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-bddfb105ad7866905b32dcbaff83b474]: Textual amendment: Words in [s. 5(1)(c)](https://www.legislation.gov.uk/mwa/2011/7/section/5/1/c) substituted (1.9.2022 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12/3)
+[^c-bddfb105ad7866905b32dcbaff83b474]: Textual amendment: Words in [s. 5(1)(c)](https://www.legislation.gov.uk/mwa/2011/7/section/5/1/c) substituted (1.9.2022 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/12/3)
 
-[^key-bb8ddb4f70a855c3a52457e94c9dcab3]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/7/section/6) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-bb8ddb4f70a855c3a52457e94c9dcab3]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/7/section/6) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-4f77f27a955a69fd8dac9b60463242e6]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2011/7/section/7) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-4f77f27a955a69fd8dac9b60463242e6]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2011/7/section/7) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-63469ccbd4175fac3f74a9454bbbb4ff]: Commencement: S. 8 in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-63469ccbd4175fac3f74a9454bbbb4ff]: Commencement: S. 8 in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-b7006f4ec4b5d2d92370485121e11de5]: Textual amendment: Words in s. 8 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/2); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-b7006f4ec4b5d2d92370485121e11de5]: Textual amendment: Words in s. 8 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/2); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-5ed5a4daee55833618a92740fd6ac681]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2011/7/section/9) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
+[^c-5ed5a4daee55833618a92740fd6ac681]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2011/7/section/9) in force at 16.11.2012 by [S.I. 2012/2656](https://www.legislation.gov.uk/wsi/2012/2656), [art. 2](https://www.legislation.gov.uk/wsi/2012/2656/article/2)
 
-[^key-b8a057cce3ed5eae1f881b65d8d1a38a]: Textual amendment: [S. 9(3)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/9/3/b) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/67) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-b8a057cce3ed5eae1f881b65d8d1a38a]: Textual amendment: [S. 9(3)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/9/3/b) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/67) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-4c43f37ba4ccf8f9a119b5754e6f4e3d]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2011/7/section/10) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-4c43f37ba4ccf8f9a119b5754e6f4e3d]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2011/7/section/10) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-f673ccaa8806a54aa7bbd97b49e762e8]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2011/7/section/11) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-f673ccaa8806a54aa7bbd97b49e762e8]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2011/7/section/11) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-856cc52b8ae3d49b54e40a780a55d74a]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/7/section/12) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-856cc52b8ae3d49b54e40a780a55d74a]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/7/section/12) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-3140359f63c3b25141532f5bb4f31391]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2011/7/section/13) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-3140359f63c3b25141532f5bb4f31391]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2011/7/section/13) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-c2993cd9135d8589affdc1704b8a30e6]: Textual amendment: Words in s. 13(b) substituted (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/3); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-c2993cd9135d8589affdc1704b8a30e6]: Textual amendment: Words in s. 13(b) substituted (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/3); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-251c1ea55f11c6570f5a7ee8bee615db]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2011/7/section/14) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-251c1ea55f11c6570f5a7ee8bee615db]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2011/7/section/14) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-e7b2c4d6b062c49e90e854c839daefa5]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2011/7/section/15) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-e7b2c4d6b062c49e90e854c839daefa5]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2011/7/section/15) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-d2a10a14b959299da3a8491c91b03219]: Textual amendment: S. 16 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-d2a10a14b959299da3a8491c91b03219]: Textual amendment: S. 16 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 13(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-e31f7c0d6856a28995d027d24eef85e4]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2011/7/section/17) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-e31f7c0d6856a28995d027d24eef85e4]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2011/7/section/17) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-f14b881cdafee1c6da6cef51d25914be]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2011/7/section/18) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-f14b881cdafee1c6da6cef51d25914be]: Commencement: [S. 18](https://www.legislation.gov.uk/mwa/2011/7/section/18) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-d963c6be91167123154e7e27b2d02f50]: Textual amendment: S. 18(1)(a) substituted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 13(3)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13/3/a); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-d963c6be91167123154e7e27b2d02f50]: Textual amendment: S. 18(1)(a) substituted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 13(3)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13/3/a); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-119cde8db74f96ad48d5618ce40fdd57]: Textual amendment: Words in s. 18(1)(b) substituted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 13(3)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13/3/b); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-119cde8db74f96ad48d5618ce40fdd57]: Textual amendment: Words in s. 18(1)(b) substituted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 13(3)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13/3/b); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-d60d7402472b2a19a20b73ed16a0e78a]: Commencement: [S. 19](https://www.legislation.gov.uk/mwa/2011/7/section/19) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-d60d7402472b2a19a20b73ed16a0e78a]: Commencement: [S. 19](https://www.legislation.gov.uk/mwa/2011/7/section/19) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-adeff9371b64d68642cc7c490ad20e47]: Textual amendment: S. 20 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(4)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-adeff9371b64d68642cc7c490ad20e47]: Textual amendment: S. 20 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(4)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-86e6e63aa1e49b63e27d224e143aefd2]: Commencement: [S. 20](https://www.legislation.gov.uk/mwa/2011/7/section/20) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-86e6e63aa1e49b63e27d224e143aefd2]: Commencement: [S. 20](https://www.legislation.gov.uk/mwa/2011/7/section/20) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-d8683705ea9191e9bd6c3f956fe1a65e]: Commencement: [S. 21](https://www.legislation.gov.uk/mwa/2011/7/section/21) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-d8683705ea9191e9bd6c3f956fe1a65e]: Commencement: [S. 21](https://www.legislation.gov.uk/mwa/2011/7/section/21) in force at 28.4.2014 by [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-eba6d81cd0c2a206c72e5493324494a4]: Textual amendment: Words in s. 21(1) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(5)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/5); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-eba6d81cd0c2a206c72e5493324494a4]: Textual amendment: Words in s. 21(1) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(5)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/5); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-fbee186bdf5e4249d4b4778c2a843209]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2011/7/section/22) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
+[^c-fbee186bdf5e4249d4b4778c2a843209]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2011/7/section/22) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
 
-[^key-69a9d2ae6466f3ce4b64e44ba0e1c621]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2011/7/section/23) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
+[^c-69a9d2ae6466f3ce4b64e44ba0e1c621]: Commencement: [S. 23](https://www.legislation.gov.uk/mwa/2011/7/section/23) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
 
-[^key-20932df3059a9f11695a44695a942552]: Commencement: [S. 24](https://www.legislation.gov.uk/mwa/2011/7/section/24) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
+[^c-20932df3059a9f11695a44695a942552]: Commencement: [S. 24](https://www.legislation.gov.uk/mwa/2011/7/section/24) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
 
-[^key-c88e6f5f3e2cc3b220eeec1d68bfaf27]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2011/7/section/25) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
+[^c-c88e6f5f3e2cc3b220eeec1d68bfaf27]: Commencement: [S. 25](https://www.legislation.gov.uk/mwa/2011/7/section/25) in force at 22.8.2013 by [S.I. 2013/2090](https://www.legislation.gov.uk/wsi/2013/2090), [art. 2](https://www.legislation.gov.uk/wsi/2013/2090/article/2)
 
-[^key-4b2985482d92645b77f7735ad9e9c7f9]: Textual amendment: Ss. 26-30 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(6)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/6); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-4b2985482d92645b77f7735ad9e9c7f9]: Textual amendment: Ss. 26-30 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 29(6)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/29/6); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

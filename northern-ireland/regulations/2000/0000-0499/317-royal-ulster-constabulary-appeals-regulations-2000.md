@@ -27,252 +27,252 @@ summary: ''
 
 2000 No. 317
 
-POLICE *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+POLICE *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-Royal Ulster Constabulary (Appeals) Regulations 2000 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+Royal Ulster Constabulary (Appeals) Regulations 2000 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-Made *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+Made *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-23rd October 2000 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+23rd October 2000 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-To be laid before Parliament *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+To be laid before Parliament *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-Coming into operation *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+Coming into operation *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-6th November 2000 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+6th November 2000 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-The Secretary of State, in pursuance of Sections 25 and 26 of the Police Act (Northern Ireland) 1998 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^f00001] [^M_F_c424e603-71c5-410e-d8da-653bda04a5df]... *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72], hereby makes the following regulations:— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^key-ad48ca8cfd409ffbabdc2cb4263ab08c]
+The Secretary of State, in pursuance of Sections 25 and 26 of the Police Act (Northern Ireland) 1998 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^f00001] [^M_F_c424e603-71c5-410e-d8da-653bda04a5df]... *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72], hereby makes the following regulations:— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^c-ad48ca8cfd409ffbabdc2cb4263ab08c]
 
-## Part I (affected by repeal, see note) — General (affected by repeal, see note)[^key-01c90d6dab1bc6b606f45cee74585e72][^key-01c90d6dab1bc6b606f45cee74585e72]
+## Part I (affected by repeal, see note) — General (affected by repeal, see note)[^c-01c90d6dab1bc6b606f45cee74585e72][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 1. Citation and commencement (affected by repeal, see note)[^key-9e84984b8e05d4f4fc4793115ba0c409][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 1. Citation and commencement (affected by repeal, see note)[^c-9e84984b8e05d4f4fc4793115ba0c409][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-These Regulations may be cited as the Royal Ulster Constabulary (Appeals) Regulations 2000 and shall come into operation on 6th November 2000. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+These Regulations may be cited as the Royal Ulster Constabulary (Appeals) Regulations 2000 and shall come into operation on 6th November 2000. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 2. Revocation and transitional provisions (affected by repeal, see note)[^key-a4ddfc9383415ed7a5afd2f44d6eac0f][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 2. Revocation and transitional provisions (affected by repeal, see note)[^c-a4ddfc9383415ed7a5afd2f44d6eac0f][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) Subject to the following provisions of this regulation the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988 Part IV and Schedule 5 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^f00002] (hereinafter referred to as the Regulations of 1988) are hereby revoked. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) Subject to the following provisions of this regulation the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988 Part IV and Schedule 5 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^f00002] (hereinafter referred to as the Regulations of 1988) are hereby revoked. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) In relation to an appeal against a decision made in accordance with the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) In relation to an appeal against a decision made in accordance with the Royal Ulster Constabulary (Discipline and Disciplinary Appeals) Regulations 1988— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) nothing in these regulations shall apply, and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) the Regulations of 1988 shall, so far as applicable, continue to have effect. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) nothing in these regulations shall apply, and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) the Regulations of 1988 shall, so far as applicable, continue to have effect. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 3. Interpretation and application (affected by repeal, see note)[^key-e45ab51f386565308df9967ff9dd31f3][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 3. Interpretation and application (affected by repeal, see note)[^c-e45ab51f386565308df9967ff9dd31f3][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) In these Regulations, the following expressions have the meanings hereby respectively assigned to them, that is to say:— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) In these Regulations, the following expressions have the meanings hereby respectively assigned to them, that is to say:— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- “appeal tribunal” means the person or persons appointed under regulation 8(1) or (3); *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “appellant” means any member who has been dealt with by way of a conduct or unsatisfactory performance hearing and who wishes to appeal the decision, where that decision has been dismissal, a requirement to resign or a reduction in rank; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “Chief Constable” shall be construed as including a reference to a person discharging the functions of the Chief Constable; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “chief officer” means a chief constable of a police force other than the Royal Ulster Constabulary or a commissioner of the police of the Metropolis; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “Code of Conduct” means the code of conduct contained in Schedule 4 of the Royal Ulster Constabulary (Conduct) Regulations 2000; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “complaint” means a complaint to which section 50 of the *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72] Act of 1998 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72] applies; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “force” means the Royal Ulster Constabulary and the Royal Ulster Constabulary Reserve; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “hearing” has the meaning assigned thereto by regulation 12; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “inspector” includes chief inspector; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “inspector of constabulary” means one of Her Majesty’s Inspectors of Constabulary; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “member” means a member of the Police Service of Northern Ireland; or a member of the Police Service of Northern Ireland Reserve;[^key-b762c03c434376c69a1046a37e22d813] *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “original hearing” means the conduct or unsatisfactory performance hearing at the conclusion of which the appellant was found to have failed to meet the appropriate standard or, as the case may be, the appellant’s performance was found to have been unsatisfactory; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “police force in the United Kingdom” has the meaning assigned to a police force in the Police Act 1996 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^f00003] or a police force in the Police (Scotland) Act 1967 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^f00004] as the case may be; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “Regulations of 1988” has the meaning assigned thereto by regulation 2(1); *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “respondent” has the same meaning as in regulation 4; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “retired officer of appropriate rank” means; where the appellant is of superintendent rank, a retired officer of chief superintendent or superintendent rank and in all other cases, a retired officer of chief inspector rank or below;[^key-15fbdf78fb1261fa7385197644cdc5fc] *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “senior officer” means a police officer of the rank of chief constable, deputy chief constable or assistant chief constable; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “supporting documents” has the meaning assigned thereto by regulation 6(3)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*b*);
-- “the *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72] Act of 1998 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]” means the Police (Northern Ireland) Act 1998; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- “tribunal” means such a tribunal as is mentioned in regulation 8(1) and (3). *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- “appeal tribunal” means the person or persons appointed under regulation 8(1) or (3); *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “appellant” means any member who has been dealt with by way of a conduct or unsatisfactory performance hearing and who wishes to appeal the decision, where that decision has been dismissal, a requirement to resign or a reduction in rank; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “Chief Constable” shall be construed as including a reference to a person discharging the functions of the Chief Constable; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “chief officer” means a chief constable of a police force other than the Royal Ulster Constabulary or a commissioner of the police of the Metropolis; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “Code of Conduct” means the code of conduct contained in Schedule 4 of the Royal Ulster Constabulary (Conduct) Regulations 2000; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “complaint” means a complaint to which section 50 of the *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72] Act of 1998 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72] applies; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “force” means the Royal Ulster Constabulary and the Royal Ulster Constabulary Reserve; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “hearing” has the meaning assigned thereto by regulation 12; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “inspector” includes chief inspector; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “inspector of constabulary” means one of Her Majesty’s Inspectors of Constabulary; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “member” means a member of the Police Service of Northern Ireland; or a member of the Police Service of Northern Ireland Reserve;[^c-b762c03c434376c69a1046a37e22d813] *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “original hearing” means the conduct or unsatisfactory performance hearing at the conclusion of which the appellant was found to have failed to meet the appropriate standard or, as the case may be, the appellant’s performance was found to have been unsatisfactory; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “police force in the United Kingdom” has the meaning assigned to a police force in the Police Act 1996 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^f00003] or a police force in the Police (Scotland) Act 1967 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^f00004] as the case may be; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “Regulations of 1988” has the meaning assigned thereto by regulation 2(1); *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “respondent” has the same meaning as in regulation 4; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “retired officer of appropriate rank” means; where the appellant is of superintendent rank, a retired officer of chief superintendent or superintendent rank and in all other cases, a retired officer of chief inspector rank or below;[^c-15fbdf78fb1261fa7385197644cdc5fc] *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “senior officer” means a police officer of the rank of chief constable, deputy chief constable or assistant chief constable; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “supporting documents” has the meaning assigned thereto by regulation 6(3)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*b*);
+- “the *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72] Act of 1998 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]” means the Police (Northern Ireland) Act 1998; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- “tribunal” means such a tribunal as is mentioned in regulation 8(1) and (3). *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) In these Regulations, any expression which appears also in the Royal Ulster Constabulary (Conduct) Regulations 2000, the Royal Ulster Constabulary (Conduct) (Senior Officer) Regulations 2000 and the Royal Ulster Constabulary (Unsatisfactory Performance) Regulations 2000 shall, unless the contrary intention appears, have the same meaning as in those regulations. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) In these Regulations, any expression which appears also in the Royal Ulster Constabulary (Conduct) Regulations 2000, the Royal Ulster Constabulary (Conduct) (Senior Officer) Regulations 2000 and the Royal Ulster Constabulary (Unsatisfactory Performance) Regulations 2000 shall, unless the contrary intention appears, have the same meaning as in those regulations. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-## Part II (affected by repeal, see note) — Appeals to an appeals tribunal (affected by repeal, see note)[^key-01c90d6dab1bc6b606f45cee74585e72][^key-01c90d6dab1bc6b606f45cee74585e72]
+## Part II (affected by repeal, see note) — Appeals to an appeals tribunal (affected by repeal, see note)[^c-01c90d6dab1bc6b606f45cee74585e72][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 4. Respondent (affected by repeal, see note)[^key-027eba3c301bdf85a62838ccf7d38ff8][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 4. Respondent (affected by repeal, see note)[^c-027eba3c301bdf85a62838ccf7d38ff8][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) On any appeal by a senior officer under these regulations against the decision of the Police Authority, the respondent shall be the Authority. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) On any appeal by a senior officer under these regulations against the decision of the Police Authority, the respondent shall be the Authority. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) On an appeal by a member of the force who is not a senior officer the respondent shall be the Chief Constable. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) On an appeal by a member of the force who is not a senior officer the respondent shall be the Chief Constable. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 5. Notice of appeal (affected by repeal, see note)[^key-2244881a1f9d008c0a8d35e880eb334d][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 5. Notice of appeal (affected by repeal, see note)[^c-2244881a1f9d008c0a8d35e880eb334d][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) An appeal under these regulations shall be instituted by the appellant giving the Police Authority written notice of appeal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) An appeal under these regulations shall be instituted by the appellant giving the Police Authority written notice of appeal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) Subject to regulation 7, the time within which the notice of appeal under Regulation 36(4) of the Royal Ulster Constabulary (Conduct) Regulations 2000, Regulation 15(6) of the Royal Ulster Constabulary (Conduct) (Senior Officer) Regulations 2000 or regulation 21(4) of the Royal Ulster Constabulary (Unsatisfactory performance) Regulations 2000 shall be given is 21 days. This period begins from the date on which the appellant was notified in writing of the decision appealed against in pursuance of regulations made in accordance with Sections 25(3) or 26(3) of the *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72] Act of 1998 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72].
+(2) Subject to regulation 7, the time within which the notice of appeal under Regulation 36(4) of the Royal Ulster Constabulary (Conduct) Regulations 2000, Regulation 15(6) of the Royal Ulster Constabulary (Conduct) (Senior Officer) Regulations 2000 or regulation 21(4) of the Royal Ulster Constabulary (Unsatisfactory performance) Regulations 2000 shall be given is 21 days. This period begins from the date on which the appellant was notified in writing of the decision appealed against in pursuance of regulations made in accordance with Sections 25(3) or 26(3) of the *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72] Act of 1998 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72].
 
-(3) In a case to which regulation 39 of the Royal Ulster Constabulary (Conduct) Regulations 2000 or regulation 25 of the Royal Ulster Constabulary (Conduct) (Senior Officer) Regulations 2000 applies where the decision appealed against was given in pursuance of those Regulations as modified by Part II of Schedule 3 or, as the case may be, by Part II of Schedule 2 to those Regulations, the time within which the notice of appeal under regulation 36(4) or 15(6) of those regulations, respectively, shall be given is 28 days from— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) In a case to which regulation 39 of the Royal Ulster Constabulary (Conduct) Regulations 2000 or regulation 25 of the Royal Ulster Constabulary (Conduct) (Senior Officer) Regulations 2000 applies where the decision appealed against was given in pursuance of those Regulations as modified by Part II of Schedule 3 or, as the case may be, by Part II of Schedule 2 to those Regulations, the time within which the notice of appeal under regulation 36(4) or 15(6) of those regulations, respectively, shall be given is 28 days from— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) the conclusion of any criminal proceeding in which the appellant is charged with an offence in respect of the conduct to which the decision appealed against related; or *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) a decision that no such criminal proceedings will be instituted or taken by the Director of Public Prosecutions has been communicated to the appellant. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) the conclusion of any criminal proceeding in which the appellant is charged with an offence in respect of the conduct to which the decision appealed against related; or *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) a decision that no such criminal proceedings will be instituted or taken by the Director of Public Prosecutions has been communicated to the appellant. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) The notice of appeal shall be given in writing to the Police Authority and a copy of the notice shall be sent to the respondent. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) The notice of appeal shall be given in writing to the Police Authority and a copy of the notice shall be sent to the respondent. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 6. Procedure on notice of appeal (affected by repeal, see note)[^key-6a0f36933cc73bf1a30f244b54d0f4a9][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 6. Procedure on notice of appeal (affected by repeal, see note)[^c-6a0f36933cc73bf1a30f244b54d0f4a9][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) As soon as practicable after receipt of a copy of the notice of appeal, the respondent shall provide to the Police Authority— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) As soon as practicable after receipt of a copy of the notice of appeal, the respondent shall provide to the Police Authority— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) a copy of the report of the person who made the decision appealed against; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) the transcript of the proceedings at the original hearing; and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (c) any documents which were made available to the person conducting the original hearing. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) a copy of the report of the person who made the decision appealed against; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) the transcript of the proceedings at the original hearing; and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (c) any documents which were made available to the person conducting the original hearing. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) A copy of the transcript mentioned in paragraph (1)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*b*) shall at the same time be sent to the appellant. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) A copy of the transcript mentioned in paragraph (1)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*b*) shall at the same time be sent to the appellant. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) Subject to regulation 7(1), the appellant shall, within 28 days of the date on which he receives a copy of the transcript mentioned in paragraph (1)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*b*), submit to the Police Authority— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) Subject to regulation 7(1), the appellant shall, within 28 days of the date on which he receives a copy of the transcript mentioned in paragraph (1)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*b*), submit to the Police Authority— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) a statement of the grounds of appeal; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) any supporting documents; and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (c) either— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-  - (i) any written representations which the appellant wishes to make under regulation 9 or, as the case may be, any request to make oral representations under that regulation, or *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-  - (ii (affected by repeal, see note))[^key-01c90d6dab1bc6b606f45cee74585e72] a statement that he does not wish to make any such representations as are mentioned in sub-paragraph (3)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*c*)(i):
+- (a) a statement of the grounds of appeal; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) any supporting documents; and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (c) either— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+  - (i) any written representations which the appellant wishes to make under regulation 9 or, as the case may be, any request to make oral representations under that regulation, or *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+  - (ii (affected by repeal, see note))[^c-01c90d6dab1bc6b606f45cee74585e72] a statement that he does not wish to make any such representations as are mentioned in sub-paragraph (3)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*c*)(i):
 
-  Provided that, in a case where the appellant submits a statement under sub-paragraph (3)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*c*)(ii), nothing in paragraph (3)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*c*) shall prevent representations under regulation 9 being made by him to the chairman of the tribunal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+  Provided that, in a case where the appellant submits a statement under sub-paragraph (3)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*c*)(ii), nothing in paragraph (3)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*c*) shall prevent representations under regulation 9 being made by him to the chairman of the tribunal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) The documents submitted to the Police Authority under paragraph (3) shall, as soon as practicable, be copied to the members of the tribunal and to the respondent. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) The documents submitted to the Police Authority under paragraph (3) shall, as soon as practicable, be copied to the members of the tribunal and to the respondent. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(5) The respondent shall, not later than 21 days from the date on which he receives the copy documents sent to him under paragraph (4), submit to the Police Authority— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(5) The respondent shall, not later than 21 days from the date on which he receives the copy documents sent to him under paragraph (4), submit to the Police Authority— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) a statement of his response to the appeal; *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) any supporting documents; and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (c) either— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-  - (i) any written representations which the respondent wishes to make under regulation 9 or, as the case may be, any request to make oral representations under that regulation; or *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-  - (ii (affected by repeal, see note))[^key-01c90d6dab1bc6b606f45cee74585e72] a statement that he does not wish to make any such representations as are mentioned in sub-paragraph (5)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*c*)(i):
+- (a) a statement of his response to the appeal; *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) any supporting documents; and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (c) either— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+  - (i) any written representations which the respondent wishes to make under regulation 9 or, as the case may be, any request to make oral representations under that regulation; or *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+  - (ii (affected by repeal, see note))[^c-01c90d6dab1bc6b606f45cee74585e72] a statement that he does not wish to make any such representations as are mentioned in sub-paragraph (5)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*c*)(i):
 
-  Provided that, in a case where the respondent submits a statement under sub-paragraph (5)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*c*)(ii), nothing in paragraph (5)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*c*) shall prevent representations under regulation 9 being made by him to the chairman of the tribunal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+  Provided that, in a case where the respondent submits a statement under sub-paragraph (5)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*c*)(ii), nothing in paragraph (5)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*c*) shall prevent representations under regulation 9 being made by him to the chairman of the tribunal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(6)[^key-f19f5d0be2623e3d5b80ef6500c0f98f] The respondent shall at the same time send a copy of the documents referred to in paragraph 5 to the appellant *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(6)[^c-f19f5d0be2623e3d5b80ef6500c0f98f] The respondent shall at the same time send a copy of the documents referred to in paragraph 5 to the appellant *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(7) The documents submitted to the Police Authority under *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72] paragraphs (1) and (5)[^key-6c09c6201f942621c895d48abf843732] *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72] shall, as soon as practicable, be copied to members of the tribunal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(7) The documents submitted to the Police Authority under *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72] paragraphs (1) and (5)[^c-6c09c6201f942621c895d48abf843732] *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72] shall, as soon as practicable, be copied to members of the tribunal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(8) So far as applicable, regulations 14 and 15 shall apply in relation to the hearing of any oral representations under regulation 9, and the appellant and the respondent shall be entitled to be represented at the hearing of such oral representations as if it were the hearing of such an appeal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(8) So far as applicable, regulations 14 and 15 shall apply in relation to the hearing of any oral representations under regulation 9, and the appellant and the respondent shall be entitled to be represented at the hearing of such oral representations as if it were the hearing of such an appeal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 7. Extension of time limits and withdrawal of appeal (affected by repeal, see note)[^key-be249e5fd6ec48e929b05c64a45b15ba][^key-3152c3c0afcedc0aa6b58c7a5a4090a0][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 7. Extension of time limits and withdrawal of appeal (affected by repeal, see note)[^c-be249e5fd6ec48e929b05c64a45b15ba][^c-3152c3c0afcedc0aa6b58c7a5a4090a0][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) The Police Authority may extend the period referred to in regulation 5(2) or (3) or 6(3) in any case where they are satisfied, on the application of the appellant, that by reason of special circumstances of the case it is just and proper to do so; and in such a case regulations 5 and 6 shall have effect as if for that period there were substituted such extended period as the authority may specify. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) The Police Authority may extend the period referred to in regulation 5(2) or (3) or 6(3) in any case where they are satisfied, on the application of the appellant, that by reason of special circumstances of the case it is just and proper to do so; and in such a case regulations 5 and 6 shall have effect as if for that period there were substituted such extended period as the authority may specify. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) Where the Police Authority refuses an application by the appellant under paragraph (1), it shall give the appellant notice in writing of the reasons for the decision and of the right of appeal conferred by paragraph (3). *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) Where the Police Authority refuses an application by the appellant under paragraph (1), it shall give the appellant notice in writing of the reasons for the decision and of the right of appeal conferred by paragraph (3). *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) An appellant whose application under paragraph (1) is refused may, not later than 14 days after receiving notice under paragraph (2), appeal in writing to the chairman of the tribunal against the decision of the Police Authority. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) An appellant whose application under paragraph (1) is refused may, not later than 14 days after receiving notice under paragraph (2), appeal in writing to the chairman of the tribunal against the decision of the Police Authority. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) The chairman may, on such an appeal, make any decision which the Police Authority had power to make under paragraph (1); and, where he extends the period referred to in regulation 5(2) or (3) or 6(3), regulations 5 and 6 shall have effect as if for that period there were substituted such extended period as the chairman may specify. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) The chairman may, on such an appeal, make any decision which the Police Authority had power to make under paragraph (1); and, where he extends the period referred to in regulation 5(2) or (3) or 6(3), regulations 5 and 6 shall have effect as if for that period there were substituted such extended period as the chairman may specify. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(5)[^key-c146e263ba31804a4501b658e1181fa0] At anytime before an appeal is decided by an Appeals Tribunal the Chairman of that tribunal may, on written application in that behalf, allow the appellant to withdraw his notice of appeal and, accordingly, where he so allows no further action in connection with the appeal shall be taken *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(5)[^c-c146e263ba31804a4501b658e1181fa0] At anytime before an appeal is decided by an Appeals Tribunal the Chairman of that tribunal may, on written application in that behalf, allow the appellant to withdraw his notice of appeal and, accordingly, where he so allows no further action in connection with the appeal shall be taken *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 8. Appeals tribunal (affected by repeal, see note)[^key-1e7854603c0aeee669b7e5518a5e406b][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 8. Appeals tribunal (affected by repeal, see note)[^c-1e7854603c0aeee669b7e5518a5e406b][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) In the case of an appeal by a senior officer, the police appeals tribunal shall consist of three members appointed by the Secretary of State, of whom— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) In the case of an appeal by a senior officer, the police appeals tribunal shall consist of three members appointed by the Secretary of State, of whom— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) one shall be a person chosen from a list of persons who have a seven year general qualification within the meaning of Section 71 of the Courts and Legal Services Act 1990 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^f00005] and have been nominated by the Lord Chief Justice in accordance with section 6(9) of the Tribunals and Inquires Act 1992 *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72][^f00006], Appointment of chairmen of certain tribunals, for the purposes of this regulation. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) one shall be a member of a police authority of the United Kingdom other than the Police Authority for Northern Ireland, and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (c) one shall be a person who— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-  - (i) is (or has within the previous five years been) an Inspector of Constabulary, or *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-  - (ii (affected by repeal, see note))[^key-01c90d6dab1bc6b606f45cee74585e72] has within the previous five years been (and is no longer) the chief officer of police of a force other than the Royal Ulster Constabulary. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) one shall be a person chosen from a list of persons who have a seven year general qualification within the meaning of Section 71 of the Courts and Legal Services Act 1990 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^f00005] and have been nominated by the Lord Chief Justice in accordance with section 6(9) of the Tribunals and Inquires Act 1992 *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72][^f00006], Appointment of chairmen of certain tribunals, for the purposes of this regulation. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) one shall be a member of a police authority of the United Kingdom other than the Police Authority for Northern Ireland, and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (c) one shall be a person who— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+  - (i) is (or has within the previous five years been) an Inspector of Constabulary, or *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+  - (ii (affected by repeal, see note))[^c-01c90d6dab1bc6b606f45cee74585e72] has within the previous five years been (and is no longer) the chief officer of police of a force other than the Royal Ulster Constabulary. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) The member of the police appeals tribunal to whom paragraph (1)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*a*) applies shall be the chairman. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) The member of the police appeals tribunal to whom paragraph (1)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*a*) applies shall be the chairman. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) In the case of an appeal by a member of the police who is not a senior officer, the police appeals tribunal shall consist of four members appointed by the Police Authority, of whom— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) In the case of an appeal by a member of the police who is not a senior officer, the police appeals tribunal shall consist of four members appointed by the Police Authority, of whom— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) one shall be a person chosen from the list referred to in paragraph (1)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*a*),
-- (b) one shall be a member of the Police Authority, *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (c) one shall be a person chosen from a list maintained by the Secretary of State of persons who are (or have within the last five years been) chief officers of police, other than a person who is (or has at any time been) the Chief Constable, and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (d) one shall be a retired officer of appropriate rank. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) one shall be a person chosen from the list referred to in paragraph (1)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*a*),
+- (b) one shall be a member of the Police Authority, *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (c) one shall be a person chosen from a list maintained by the Secretary of State of persons who are (or have within the last five years been) chief officers of police, other than a person who is (or has at any time been) the Chief Constable, and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (d) one shall be a retired officer of appropriate rank. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) The member of the police appeals tribunal to whom paragraph (1)( *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]*a*) applies shall be the chairman. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) The member of the police appeals tribunal to whom paragraph (1)( *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]*a*) applies shall be the chairman. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 9. Decision of the Appeals Tribunal (affected by repeal, see note)[^key-8d5ded0dfafd7b5698b4437b459f0dd5][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 9. Decision of the Appeals Tribunal (affected by repeal, see note)[^c-8d5ded0dfafd7b5698b4437b459f0dd5][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) On an appeal the Appeals Tribunal may make an order allowing or dismissing the appeal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) On an appeal the Appeals Tribunal may make an order allowing or dismissing the appeal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) Where an Appeals Tribunal allows an appeal it may if it considers it appropriate to do so, make an order dealing with the appellant in a way— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) Where an Appeals Tribunal allows an appeal it may if it considers it appropriate to do so, make an order dealing with the appellant in a way— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) which appears to the tribunal to be less severe than the way in which it was dealt with by the decision appealed against, and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) in which he could have been dealt with by the person who made that decision. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) which appears to the tribunal to be less severe than the way in which it was dealt with by the decision appealed against, and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) in which he could have been dealt with by the person who made that decision. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) An appeals tribunal may determine a case without a hearing provided both the appellant and respondent have had the opportunity to make written or, if either requests, oral representations and any such representations have been considered. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) An appeals tribunal may determine a case without a hearing provided both the appellant and respondent have had the opportunity to make written or, if either requests, oral representations and any such representations have been considered. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 10. Effect of orders (affected by repeal, see note)[^key-615705974b053438476b1e0368c464bd][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 10. Effect of orders (affected by repeal, see note)[^c-615705974b053438476b1e0368c464bd][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) Where an appeal is allowed, the order shall take effect by way of substitution for the decision appealed against, and as from the date of that decision or, where the decision was itself a decision on appeal, the date of the original decision appealed against. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) Where an appeal is allowed, the order shall take effect by way of substitution for the decision appealed against, and as from the date of that decision or, where the decision was itself a decision on appeal, the date of the original decision appealed against. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) Where the effect of the order made by the police appeals tribunal is to reinstate the appellant in the force or in his rank, he shall, for the purpose of reckoning service for pension, and, to such extent (if any) as may be determined by the order, for the purpose of pay, be deemed to have served in the force or in his rank continuously from the date of the original decision to the date of his reinstatement. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) Where the effect of the order made by the police appeals tribunal is to reinstate the appellant in the force or in his rank, he shall, for the purpose of reckoning service for pension, and, to such extent (if any) as may be determined by the order, for the purpose of pay, be deemed to have served in the force or in his rank continuously from the date of the original decision to the date of his reinstatement. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) Where the effect of the order made by the police appeals tribunal is to reinstate the appellant in the force and he was suspended for a period immediately preceding the date of the original or any subsequent decision, the order shall deal with the suspension. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) Where the effect of the order made by the police appeals tribunal is to reinstate the appellant in the force and he was suspended for a period immediately preceding the date of the original or any subsequent decision, the order shall deal with the suspension. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 11. Representation at hearing (affected by repeal, see note)[^key-29d201272fd7a1d7b35b4ce1b63d1a9e][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 11. Representation at hearing (affected by repeal, see note)[^c-29d201272fd7a1d7b35b4ce1b63d1a9e][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-Where a hearing is held— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+Where a hearing is held— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) the appellant shall have the right to appear at the hearing in person, and be represented by a serving member or a serving member of a police force in the United Kingdom or by counsel or a solicitor; and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) the respondent shall have the right to appear at the hearing and be represented by a serving member or by counsel or a solicitor or by the secretary or other officer of the Police Authority. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) the appellant shall have the right to appear at the hearing in person, and be represented by a serving member or a serving member of a police force in the United Kingdom or by counsel or a solicitor; and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) the respondent shall have the right to appear at the hearing and be represented by a serving member or by counsel or a solicitor or by the secretary or other officer of the Police Authority. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 12. Procedure at hearing (affected by repeal, see note)[^key-8aa352de0303110654b9a88a7e2faee2][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 12. Procedure at hearing (affected by repeal, see note)[^c-8aa352de0303110654b9a88a7e2faee2][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) Where a case is to be determined at a hearing, the chairman of the tribunal shall cause the appellant and respondent to be given notice of the date of the hearing not less than 28 days, or such shorter period as may with the agreement of both parties be determined, before the hearing begins. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) Where a case is to be determined at a hearing, the chairman of the tribunal shall cause the appellant and respondent to be given notice of the date of the hearing not less than 28 days, or such shorter period as may with the agreement of both parties be determined, before the hearing begins. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) It shall be within the discretion of the tribunal to proceed with the hearing in the absence of either party, whether represented or not, if it appears proper to do so, and may adjourn it from time to time as may appear necessary for the due hearing of the case. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) It shall be within the discretion of the tribunal to proceed with the hearing in the absence of either party, whether represented or not, if it appears proper to do so, and may adjourn it from time to time as may appear necessary for the due hearing of the case. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) Any decision of the Tribunal shall be based on a simple majority and where the Tribunal finds itself equally divided the Chairman shall have a second or casting vote, but the Tribunal shall not indicate whether it was taken unanimously or by a majority. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) Any decision of the Tribunal shall be based on a simple majority and where the Tribunal finds itself equally divided the Chairman shall have a second or casting vote, but the Tribunal shall not indicate whether it was taken unanimously or by a majority. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) Subject to the regulations, the procedure at a hearing shall be determined by the tribunal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) Subject to the regulations, the procedure at a hearing shall be determined by the tribunal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 13. Hearing to be in private (affected by repeal, see note)[^key-c6e67a7fb0df547f052a3554707e2643][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 13. Hearing to be in private (affected by repeal, see note)[^c-c6e67a7fb0df547f052a3554707e2643][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) Subject to regulation 16 paragraph (3), the hearing shall be held in private: provided that it shall be within the discretion of the tribunal to allow such person or persons as it considers desirable to attend the whole or such part of the hearing as it may think fit. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) Subject to regulation 16 paragraph (3), the hearing shall be held in private: provided that it shall be within the discretion of the tribunal to allow such person or persons as it considers desirable to attend the whole or such part of the hearing as it may think fit. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) Notwithstanding that the tribunal has allowed a person to attend the hearing, where it appears to the tribunal that a witness may in giving evidence disclose information which, in the public interest, ought not to be disclosed publicly, the tribunal shall require any member of the public present to withdraw while the evidence is given. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) Notwithstanding that the tribunal has allowed a person to attend the hearing, where it appears to the tribunal that a witness may in giving evidence disclose information which, in the public interest, ought not to be disclosed publicly, the tribunal shall require any member of the public present to withdraw while the evidence is given. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) A member of the Council of Tribunals shall be entitled to attend the hearing. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) A member of the Council of Tribunals shall be entitled to attend the hearing. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 14. Evidence at hearing (affected by repeal, see note)[^key-19a16a0a8f9388182e89d9a5f26a8370][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 14. Evidence at hearing (affected by repeal, see note)[^c-19a16a0a8f9388182e89d9a5f26a8370][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) Unless the tribunal otherwise determines, the evidence adduced by the respondent shall be given first. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) Unless the tribunal otherwise determines, the evidence adduced by the respondent shall be given first. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) All oral evidence given at the hearing shall be given on oath. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) All oral evidence given at the hearing shall be given on oath. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) All witnesses giving evidence at the hearing shall be subject to examination and cross-examination. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) All witnesses giving evidence at the hearing shall be subject to examination and cross-examination. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) Any question as to whether any evidence is admissible, or whether any question should or should not be put to a witness, shall be determined by the tribunal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) Any question as to whether any evidence is admissible, or whether any question should or should not be put to a witness, shall be determined by the tribunal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(5) A verbatim record of the evidence given at the hearing shall be taken and kept for a period of not less than 7 years from the date of the end of the hearing unless the chairman of the tribunal requests that a transcription of the record be made. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(5) A verbatim record of the evidence given at the hearing shall be taken and kept for a period of not less than 7 years from the date of the end of the hearing unless the chairman of the tribunal requests that a transcription of the record be made. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 15. Statements in lieu of oral evidence (affected by repeal, see note)[^key-82a5f9c9abe87b66fe80eb25feb8c98a][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 15. Statements in lieu of oral evidence (affected by repeal, see note)[^c-82a5f9c9abe87b66fe80eb25feb8c98a][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) Subject to the provisions of this regulation, the tribunal may admit evidence by way of a written statement made by a person, notwithstanding that he may not be called as a witness, so, however that evidence shall not be admissible under this regulation if it would not have been admissible had it been given orally. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) Subject to the provisions of this regulation, the tribunal may admit evidence by way of a written statement made by a person, notwithstanding that he may not be called as a witness, so, however that evidence shall not be admissible under this regulation if it would not have been admissible had it been given orally. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) For the purposes of this regulation, a written statement purporting to be made and signed by a person and witnessed by another person shall be presumed to have been made by that person unless the contrary be shown. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) For the purposes of this regulation, a written statement purporting to be made and signed by a person and witnessed by another person shall be presumed to have been made by that person unless the contrary be shown. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) Nothing in this regulation shall prejudice the admission of written evidence which would be admissible apart from the provisions of this regulation. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) Nothing in this regulation shall prejudice the admission of written evidence which would be admissible apart from the provisions of this regulation. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 16. Attendance of complainant at hearing (affected by repeal, see note)[^key-b8699bb9cefb45cdf19a42de817729f6][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 16. Attendance of complainant at hearing (affected by repeal, see note)[^c-b8699bb9cefb45cdf19a42de817729f6][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) This regulation shall apply in relation to a hearing where the decision appealed against arose from a complaint and the appeal is not against sanction only. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) This regulation shall apply in relation to a hearing where the decision appealed against arose from a complaint and the appeal is not against sanction only. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) The chairman of the tribunal shall cause notice of the date of the hearing to be sent to the complainant, at the same time as such notice is sent to the appellant and the respondent in pursuance of regulation 12(1). *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) The chairman of the tribunal shall cause notice of the date of the hearing to be sent to the complainant, at the same time as such notice is sent to the appellant and the respondent in pursuance of regulation 12(1). *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) Notwithstanding anything in regulation 13(1) but subject to paragraph (5), the tribunal shall allow the complainant to attend the hearing while witnesses are being examined, or cross-examined, on the facts alleged and, if the tribunal considers it appropriate so to do on account of the age of the complainant, or otherwise, shall allow him to be accompanied by a personal friend or relative who is not to be called as a witness at the hearing: *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) Notwithstanding anything in regulation 13(1) but subject to paragraph (5), the tribunal shall allow the complainant to attend the hearing while witnesses are being examined, or cross-examined, on the facts alleged and, if the tribunal considers it appropriate so to do on account of the age of the complainant, or otherwise, shall allow him to be accompanied by a personal friend or relative who is not to be called as a witness at the hearing: *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-Provided that— *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+Provided that— *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-- (a) where the complainant is to be called as a witness at the hearing he and any person allowed to accompany him shall not be allowed to attend before he gives evidence; and *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
-- (b) where it appears to the tribunal that a witness may in giving evidence disclose information which, in the public interest, ought not to be disclosed to a member of the public, it shall require the complainant and any person allowed to accompany him to withdraw while that evidence is given. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+- (a) where the complainant is to be called as a witness at the hearing he and any person allowed to accompany him shall not be allowed to attend before he gives evidence; and *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
+- (b) where it appears to the tribunal that a witness may in giving evidence disclose information which, in the public interest, ought not to be disclosed to a member of the public, it shall require the complainant and any person allowed to accompany him to withdraw while that evidence is given. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) Where the appellant gives evidence then, after the person representing the respondent has had an opportunity of cross-examining him, the chairman of the tribunal shall put to him any questions which the complainant requests should be so put and might have been properly so put by way of cross-examination and, at his discretion, may allow the complainant himself to put such questions to the appellant. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) Where the appellant gives evidence then, after the person representing the respondent has had an opportunity of cross-examining him, the chairman of the tribunal shall put to him any questions which the complainant requests should be so put and might have been properly so put by way of cross-examination and, at his discretion, may allow the complainant himself to put such questions to the appellant. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(5) Subject as aforesaid, the complainant and any person allowed to accompany him shall neither intervene in, nor interrupt the hearing; and if he or such a person should behave in a disorderly or abusive manner, or otherwise misconduct himself, the chairman of the tribunal may exclude him from the remainder of the hearing. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(5) Subject as aforesaid, the complainant and any person allowed to accompany him shall neither intervene in, nor interrupt the hearing; and if he or such a person should behave in a disorderly or abusive manner, or otherwise misconduct himself, the chairman of the tribunal may exclude him from the remainder of the hearing. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 17. Statement of tribunal’s determination (affected by repeal, see note)[^key-96b12334941a7f1cd5ec1753eede3d44][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 17. Statement of tribunal’s determination (affected by repeal, see note)[^c-96b12334941a7f1cd5ec1753eede3d44][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) The chairman of the tribunal shall prepare a written statement of the tribunal’s determination of the appeal and the reasons for the decision. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) The chairman of the tribunal shall prepare a written statement of the tribunal’s determination of the appeal and the reasons for the decision. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) The statement prepared under paragraph (1) and a record of any order made under regulation 9(2) shall be submitted to the Police Authority and, in the case of an appeal by a senior officer, to the Secretary of State within a reasonable period after the determination of the appeal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) The statement prepared under paragraph (1) and a record of any order made under regulation 9(2) shall be submitted to the Police Authority and, in the case of an appeal by a senior officer, to the Secretary of State within a reasonable period after the determination of the appeal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(3) The Police Authority shall, as soon as practicable, copy the statement and any record of an order submitted to it under paragraph (2) to the appellant and the respondent. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(3) The Police Authority shall, as soon as practicable, copy the statement and any record of an order submitted to it under paragraph (2) to the appellant and the respondent. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(4) In a case where the decision appealed against arose from a complaint, the Police Authority shall notify the complainant and Ombudsman of the outcome of the appeal. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(4) In a case where the decision appealed against arose from a complaint, the Police Authority shall notify the complainant and Ombudsman of the outcome of the appeal. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-### 18. Costs and expenses of appeal (affected by repeal, see note)[^key-6331bae10315aad19cbcc827ce0e13a7][^key-01c90d6dab1bc6b606f45cee74585e72]
+### 18. Costs and expenses of appeal (affected by repeal, see note)[^c-6331bae10315aad19cbcc827ce0e13a7][^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(1) An appellant shall pay the whole of his own costs unless the police appeals tribunal directs that the whole or any part of his costs are to be defrayed out of the police fund. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(1) An appellant shall pay the whole of his own costs unless the police appeals tribunal directs that the whole or any part of his costs are to be defrayed out of the police fund. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
-(2) Subject to paragraph (1), all the costs and expenses of an appeal in pursuance of these regulations, including the costs of the respondent and, as the Secretary of State determines, any remuneration or expenses paid to members of a police appeals tribunal, shall be defrayed out of the police fund. *(affected by repeal, see note)*[^key-01c90d6dab1bc6b606f45cee74585e72]
+(2) Subject to paragraph (1), all the costs and expenses of an appeal in pursuance of these regulations, including the costs of the respondent and, as the Secretary of State determines, any remuneration or expenses paid to members of a police appeals tribunal, shall be defrayed out of the police fund. *(affected by repeal, see note)*[^c-01c90d6dab1bc6b606f45cee74585e72]
 
 Peter Mandelson
 
@@ -300,68 +300,68 @@ Regulation 18 provides for the costs and expenses of the hearing.
 
 ## Annotations
 
-[^key-01c90d6dab1bc6b606f45cee74585e72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/317) revoked with savings (1.6.2016) by [The Police Appeals Tribunals Regulations (Northern Ireland) 2016 (S.R. 2016/43)](https://www.legislation.gov.uk/nisr/2016/43), [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/43/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/43/regulation/2/2))
+[^c-01c90d6dab1bc6b606f45cee74585e72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/317) revoked with savings (1.6.2016) by [The Police Appeals Tribunals Regulations (Northern Ireland) 2016 (S.R. 2016/43)](https://www.legislation.gov.uk/nisr/2016/43), [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/43/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/43/regulation/2/2))
 
 [^f00001]: Footnote: [1998 c. 32 (N.I.)](https://www.legislation.gov.uk/ukpga/1998/32)
 
 [^M_F_c424e603-71c5-410e-d8da-653bda04a5df]: Textual amendment: Words repealed (14.03.2003) by [Police Service of Northern Ireland (Conduct) Regulations 2003 (S.R. 2003/68)](https://www.legislation.gov.uk/nisr/2003/68), [regs. 1](https://www.legislation.gov.uk/nisr/2003/68/regulation/1), [7](https://www.legislation.gov.uk/nisr/2003/68/regulation/7)
 
-[^key-ad48ca8cfd409ffbabdc2cb4263ab08c]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2000/317) excluded (30.4.2004) by [The Police Service of Northern Ireland (Secondment) (Garda Síochána) Regulations 2004 (S.R. 2004/122)](https://www.legislation.gov.uk/nisr/2004/122), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/8/2)
+[^c-ad48ca8cfd409ffbabdc2cb4263ab08c]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2000/317) excluded (30.4.2004) by [The Police Service of Northern Ireland (Secondment) (Garda Síochána) Regulations 2004 (S.R. 2004/122)](https://www.legislation.gov.uk/nisr/2004/122), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2004/122/regulation/8/2)
 
-[^key-9e84984b8e05d4f4fc4793115ba0c409]: Commencement: Reg. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-9e84984b8e05d4f4fc4793115ba0c409]: Commencement: Reg. 1 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-a4ddfc9383415ed7a5afd2f44d6eac0f]: Commencement: Reg. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-a4ddfc9383415ed7a5afd2f44d6eac0f]: Commencement: Reg. 2 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1988 No. 9](https://www.legislation.gov.uk/nisr/1988/9)
 
-[^key-e45ab51f386565308df9967ff9dd31f3]: Commencement: Reg. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-e45ab51f386565308df9967ff9dd31f3]: Commencement: Reg. 3 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-b762c03c434376c69a1046a37e22d813]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2000/317/regulation/3/1) substituted (30.11.2015) by [The Police (Appeals, Conduct and Unsatisfactory Performance and Attendance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/360)](https://www.legislation.gov.uk/nisr/2015/360), [regs. 1](https://www.legislation.gov.uk/nisr/2015/360/regulation/1), [2](https://www.legislation.gov.uk/nisr/2015/360/regulation/2)
+[^c-b762c03c434376c69a1046a37e22d813]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2000/317/regulation/3/1) substituted (30.11.2015) by [The Police (Appeals, Conduct and Unsatisfactory Performance and Attendance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/360)](https://www.legislation.gov.uk/nisr/2015/360), [regs. 1](https://www.legislation.gov.uk/nisr/2015/360/regulation/1), [2](https://www.legislation.gov.uk/nisr/2015/360/regulation/2)
 
 [^f00003]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
 
 [^f00004]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77)
 
-[^key-15fbdf78fb1261fa7385197644cdc5fc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/317/regulation/3) added (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/b)
+[^c-15fbdf78fb1261fa7385197644cdc5fc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2000/317/regulation/3) added (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(b)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/b)
 
-[^key-027eba3c301bdf85a62838ccf7d38ff8]: Commencement: Reg. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-027eba3c301bdf85a62838ccf7d38ff8]: Commencement: Reg. 4 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-2244881a1f9d008c0a8d35e880eb334d]: Commencement: Reg. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-2244881a1f9d008c0a8d35e880eb334d]: Commencement: Reg. 5 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-6a0f36933cc73bf1a30f244b54d0f4a9]: Commencement: Reg. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-6a0f36933cc73bf1a30f244b54d0f4a9]: Commencement: Reg. 6 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-f19f5d0be2623e3d5b80ef6500c0f98f]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2000/317/regulation/6/6) substituted (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/a)
+[^c-f19f5d0be2623e3d5b80ef6500c0f98f]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2000/317/regulation/6/6) substituted (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/a)
 
-[^key-6c09c6201f942621c895d48abf843732]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/nisr/2000/317/regulation/6/7) substituted (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/c)
+[^c-6c09c6201f942621c895d48abf843732]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/nisr/2000/317/regulation/6/7) substituted (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/c)
 
-[^key-be249e5fd6ec48e929b05c64a45b15ba]: Commencement: Reg. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-be249e5fd6ec48e929b05c64a45b15ba]: Commencement: Reg. 7 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-3152c3c0afcedc0aa6b58c7a5a4090a0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/317/regulation/7) heading substituted (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(d)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/d)
+[^c-3152c3c0afcedc0aa6b58c7a5a4090a0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/317/regulation/7) heading substituted (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(d)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/d)
 
-[^key-c146e263ba31804a4501b658e1181fa0]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2000/317/regulation/7/5) added (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(d)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/d)
+[^c-c146e263ba31804a4501b658e1181fa0]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/nisr/2000/317/regulation/7/5) added (10.9.2004) by [Police Service of Northern Ireland (Conduct etc) (Amendment) Regulations 2004 (S.R. 2004/315)](https://www.legislation.gov.uk/nisr/2004/315), [regs. 1](https://www.legislation.gov.uk/nisr/2004/315/regulation/1), [5(d)](https://www.legislation.gov.uk/nisr/2004/315/regulation/5/d)
 
-[^key-1e7854603c0aeee669b7e5518a5e406b]: Commencement: Reg. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-1e7854603c0aeee669b7e5518a5e406b]: Commencement: Reg. 8 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
 [^f00005]: Footnote: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41)
 
 [^f00006]: Footnote: [1992 c. 35](https://www.legislation.gov.uk/ukpga/1992/35)
 
-[^key-8d5ded0dfafd7b5698b4437b459f0dd5]: Commencement: Reg. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-8d5ded0dfafd7b5698b4437b459f0dd5]: Commencement: Reg. 9 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-615705974b053438476b1e0368c464bd]: Commencement: Reg. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-615705974b053438476b1e0368c464bd]: Commencement: Reg. 10 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-29d201272fd7a1d7b35b4ce1b63d1a9e]: Commencement: Reg. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-29d201272fd7a1d7b35b4ce1b63d1a9e]: Commencement: Reg. 11 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-8aa352de0303110654b9a88a7e2faee2]: Commencement: Reg. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-8aa352de0303110654b9a88a7e2faee2]: Commencement: Reg. 12 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-c6e67a7fb0df547f052a3554707e2643]: Commencement: Reg. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-c6e67a7fb0df547f052a3554707e2643]: Commencement: Reg. 13 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-19a16a0a8f9388182e89d9a5f26a8370]: Commencement: Reg. 14 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-19a16a0a8f9388182e89d9a5f26a8370]: Commencement: Reg. 14 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-82a5f9c9abe87b66fe80eb25feb8c98a]: Commencement: Reg. 15 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-82a5f9c9abe87b66fe80eb25feb8c98a]: Commencement: Reg. 15 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-b8699bb9cefb45cdf19a42de817729f6]: Commencement: Reg. 16 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-b8699bb9cefb45cdf19a42de817729f6]: Commencement: Reg. 16 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-96b12334941a7f1cd5ec1753eede3d44]: Commencement: Reg. 17 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-96b12334941a7f1cd5ec1753eede3d44]: Commencement: Reg. 17 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
 
-[^key-6331bae10315aad19cbcc827ce0e13a7]: Commencement: Reg. 18 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)
+[^c-6331bae10315aad19cbcc827ce0e13a7]: Commencement: Reg. 18 in operation at 6.11.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/317/regulation/1)

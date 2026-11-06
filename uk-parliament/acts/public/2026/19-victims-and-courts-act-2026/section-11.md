@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Appointment of Crown Prosecutors[^key-83db81f8523dbb46b2fc3b8f57604db8]
+## 11. Appointment of Crown Prosecutors[^c-83db81f8523dbb46b2fc3b8f57604db8]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83db81f8523dbb46b2fc3b8f57604db8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/19/section/11) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-83db81f8523dbb46b2fc3b8f57604db8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/19/section/11) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)

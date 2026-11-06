@@ -62,7 +62,7 @@ then, for the purposes of section 1(4)(d) of that Measure (requirement to vacate
 
 (1)[^c922475] As from such year as the Board of Governors of the Church Commissioners may determine the financial year of the Church Commissioners shall commence on 1st January instead of 1st April and, accordingly, on and after the making of a determination under this subsection, section 10(1) of the Church Commissioners Measure 1947 shall have effect as if for the word “April” there were substituted the word “January”.
 
-(2)[^key-536d288551c29dbc00adcfc65b3a0811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-536d288551c29dbc00adcfc65b3a0811] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendments relating to constitution of Church Commissioners.
 
@@ -98,11 +98,11 @@ In section 20(2) of the [^c922482]Parochial Registers and Records Measure 1978 (
 
 and at the end of subsection (5) of the said section 20 there shall be inserted the words “and nothing in subsections (2) and (3) above shall be taken as affecting the powers of local authorities under section 1 of the [^c922483]Local Government (Records) Act 1962 (power to promote adequate use of records)”.
 
-## 7. Extension of power to dispose of land no longer required for purpose for which acquired.[^key-2b859eb0aa384a7f9d2de6e8496491ae]
+## 7. Extension of power to dispose of land no longer required for purpose for which acquired.[^c-2b859eb0aa384a7f9d2de6e8496491ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Church, etc. to be vested in Diocesan Board of Finance for certain purposes where fee simple is in abeyance.[^key-f378c3797986fb65e1ef5995257bc87a]
+## 8. Church, etc. to be vested in Diocesan Board of Finance for certain purposes where fee simple is in abeyance.[^c-f378c3797986fb65e1ef5995257bc87a]
 
 (1) Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant, it shall for the purposes of a compulsory acquisition of the property under any enactment be treated as being vested in the Diocesan Board of Finance for the diocese in which the land is situated , and any notice to treat shall be served, or be deemed to have been served, accordingly.
 
@@ -135,7 +135,7 @@ and at the end of subsection (5) of the said section 20 there shall be inserted 
 
 (2) . . . [^c922492]
 
-## 12. Abolition of requirement to enrol certain deeds etc. in High Court.[^key-c722cda8a84c90491d99d02d48ef906e]
+## 12. Abolition of requirement to enrol certain deeds etc. in High Court.[^c-c722cda8a84c90491d99d02d48ef906e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,7 +147,7 @@ and at the end of subsection (5) of the said section 20 there shall be inserted 
 
 (3) Any reference in this Measure to any enactment shall be construed as a reference to that enactment as amended by any subsequent enactment.
 
-(4)[^key-d063286216a21add10cb09ea9402dbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d063286216a21add10cb09ea9402dbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This Measure shall extend to the provinces of Canterbury and York except the Channel Islands and the Isle of Man, but sections 2, 7 and 11 thereof may be applied to the Channel Islands as defined in the [^c922495]Channel Islands (Church Legislation) Measures 1931 and [^c922496]1957, or either of them, in accordance with those Measures.
 
@@ -165,7 +165,7 @@ and at the end of subsection (5) of the said section 20 there shall be inserted 
 
 [^c922475]: Modification: The text of s. 3(1) is in the form in which it was originally enacted: part of the text was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-536d288551c29dbc00adcfc65b3a0811]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukcm/1978/3/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-536d288551c29dbc00adcfc65b3a0811]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukcm/1978/3/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c922476]: Modification: The text of ss. 1, 4, 6, 10, 11(1) and 12 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -179,9 +179,9 @@ and at the end of subsection (5) of the said section 20 there shall be inserted 
 
 [^c922483]: Marginal citation: [1962 c. 56](https://www.legislation.gov.uk/ukpga/1962/56).
 
-[^key-2b859eb0aa384a7f9d2de6e8496491ae]: Textual amendment: S. 7 repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-2b859eb0aa384a7f9d2de6e8496491ae]: Textual amendment: S. 7 repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-f378c3797986fb65e1ef5995257bc87a]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukcm/1978/3/section/8) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 11](https://www.legislation.gov.uk/ukcm/2006/1/section/11), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-f378c3797986fb65e1ef5995257bc87a]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukcm/1978/3/section/8) substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [ss. 11](https://www.legislation.gov.uk/ukcm/2006/1/section/11), [16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c922487]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukcm/1978/3/section/9) repealed (1.3.1993) by [Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (No. 1, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1991/1), [ss. 32(2)](https://www.legislation.gov.uk/ukcm/1991/1/section/32/2), [33(2)](https://www.legislation.gov.uk/ukcm/1991/1/section/33/2), [Sch.8](https://www.legislation.gov.uk/ukcm/1991/1/schedule/8);[Instrument dated 16.2.1993 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1993-02-16)
 
@@ -195,9 +195,9 @@ and at the end of subsection (5) of the said section 20 there shall be inserted 
 
 [^c922492]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukcm/1978/3/section/11/2) repealed by [Church of England (Miscellaneous Provisions) Measure 1983 (No. 2, SIF 21:3)](https://www.legislation.gov.uk/ukcm/1983/2), [s. 8(11)](https://www.legislation.gov.uk/ukcm/1983/2/section/8/11)
 
-[^key-c722cda8a84c90491d99d02d48ef906e]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukcm/1978/3/section/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-c722cda8a84c90491d99d02d48ef906e]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukcm/1978/3/section/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
-[^key-d063286216a21add10cb09ea9402dbc9]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukcm/1978/3/section/13/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-d063286216a21add10cb09ea9402dbc9]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukcm/1978/3/section/13/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c922495]: Marginal citation: [1931 No. 5](https://www.legislation.gov.uk/ukcm/1931/5).
 

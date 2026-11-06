@@ -46,19 +46,19 @@ Coming into force
 
 The Secretary of State for Education, in exercise of the powers conferred by sections 207(1) and 210(7) of the Education Act 2002[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-89056bc77435abc63f712ff22abb723b]
+## 1. Citation, commencement and application[^c-89056bc77435abc63f712ff22abb723b]
 
 (1) These Regulations may be cited as the Inter-authority Recoupment (England) Regulations 2013 and come into force on 1st April 2013.
 
-(2) Regulations 4, [^key-2d04f59f97fef6dd01099f8488b4cbff]... 7 and 8 apply in relation to education provided on or after 1st April 2013.
+(2) Regulations 4, [^c-2d04f59f97fef6dd01099f8488b4cbff]... 7 and 8 apply in relation to education provided on or after 1st April 2013.
 
-(2A)[^key-cda220cf1d74cc410c876a183481a31a] Regulation 5 applies in relation to education provided during the period beginning with 1st April 2013 and ending immediately before 1st September 2026.
+(2A)[^c-cda220cf1d74cc410c876a183481a31a] Regulation 5 applies in relation to education provided during the period beginning with 1st April 2013 and ending immediately before 1st September 2026.
 
 (2B) Regulation 5A applies in relation to education provided on or after 1st September 2026.
 
 (3) These Regulations apply only in relation to provision for education which is made by a providing authority[^f00002] in England or Wales in respect of a person who belongs to the area of a home authority[^f00003] in England.
 
-## 2. Amendments to the Education (Inter-authority) Recoupment Regulations 1994[^key-0e641f6b04a05ffcfb3c20511ae2ba75]
+## 2. Amendments to the Education (Inter-authority) Recoupment Regulations 1994[^c-0e641f6b04a05ffcfb3c20511ae2ba75]
 
 (1) The Education (Inter-authority) Recoupment Regulations 1994[^f00004] are amended as follows—
 
@@ -70,19 +70,19 @@ The Secretary of State for Education, in exercise of the powers conferred by sec
 >
 > **4B.** Regulation 5 applies to claims for recoupment by providing authorities in Wales.
 
-## 3. Interpretation[^key-c9ac1a987372805a92a641c6607263bb]
+## 3. Interpretation[^c-c9ac1a987372805a92a641c6607263bb]
 
 In these Regulations—
 
 - “EA 1996” means the Education Act 1996[^f00005];
 - “looked after child” means a person who, for the purposes of section 22(1) of the Children Act 1989[^f00006], is a child looked after by a local authority; and
-- [^key-8460b5d41163aa3c52a7736ce197d65e]...
+- [^c-8460b5d41163aa3c52a7736ce197d65e]...
 
-## 4. Cases in which recoupment is required: English home authority, Welsh providing authority[^key-c81333dd85183b5b2c73d1da6bccc376]
+## 4. Cases in which recoupment is required: English home authority, Welsh providing authority[^c-c81333dd85183b5b2c73d1da6bccc376]
 
 (1) This regulation applies to education provided to—
 
-- (a)[^key-6580677ac70f58c08ad9bcaffa6e0b35] a child for whom an EHC plan is maintained under section 37(1) of the Children and Families Act 2014;
+- (a)[^c-6580677ac70f58c08ad9bcaffa6e0b35] a child for whom an EHC plan is maintained under section 37(1) of the Children and Families Act 2014;
 - (b) a person attending a special school;
 - (c) a person who has not attained the age of nineteen years who—
   - (i) is a patient in a hospital; and
@@ -90,11 +90,11 @@ In these Regulations—
 
 (2) Where provision for any education to which this regulation applies is made by a providing authority in Wales in respect of a person who belongs to the area of a home authority in England, the home authority must pay to the providing authority such amount as the authorities may agree.
 
-## 5. Cases in which recoupment is required for education provided before 1st September 2026: English home authority, English providing authority[^key-bfbea71952b828041f60f7ad4d3baa34][^key-29c9f84092a81ac8a06b504b58b15a62]
+## 5. Cases in which recoupment is required for education provided before 1st September 2026: English home authority, English providing authority[^c-bfbea71952b828041f60f7ad4d3baa34][^c-29c9f84092a81ac8a06b504b58b15a62]
 
 (1) This regulation applies to education provided to a looked after child who is—
 
-- (a)[^key-b26b9c81b2622e16fd59ea9c84d68c80] a child for whom an EHC plan is maintained under section 37(1) of the Children and Families Act 2014;
+- (a)[^c-b26b9c81b2622e16fd59ea9c84d68c80] a child for whom an EHC plan is maintained under section 37(1) of the Children and Families Act 2014;
 - (b) a person attending a special school.
 
 (2) Where—
@@ -104,7 +104,7 @@ In these Regulations—
 
 the home authority must pay to the providing authority such amount as the home authority and the providing authority may agree.
 
-## 5A. Cases in which recoupment is required for education provided from 1st September 2026: English home authority, English providing authority[^key-3bcdb02c40463c58565723b8d5568206]
+## 5A. Cases in which recoupment is required for education provided from 1st September 2026: English home authority, English providing authority[^c-3bcdb02c40463c58565723b8d5568206]
 
 (1) This regulation applies to education provided to a looked after child—
 
@@ -123,7 +123,7 @@ the home authority must pay to the providing authority such amount as the home a
 
 (4) In paragraph (3)(b), “**Dedicated Schools Grant**” means the grant of that name paid to a local authority by the Secretary of State under section 14 of the Education Act 2002 (power of Secretary of State and National Assembly for Wales to give financial assistance for purposes related to education or children etc).
 
-## 6. Cases in which recoupment is required: transitional provision[^key-348829569ee86e9def4b8c6c2f753d12]
+## 6. Cases in which recoupment is required: transitional provision[^c-348829569ee86e9def4b8c6c2f753d12]
 
 (1) This regulation applies to education provided before 1st April 2013 to—
 
@@ -135,13 +135,13 @@ the home authority must pay to the providing authority such amount as the home a
 
 (2) Where provision for any education to which this regulation applies is made by a providing authority in England or Wales in respect of a person who belongs to the area of the home authority in England, the home authority must pay to the providing authority such amount as the authorities may agree.
 
-## 7. Cases in which recoupment is permitted: English home authority, Welsh providing authority[^key-ed9a275432f6200c40dd9466d64b1241]
+## 7. Cases in which recoupment is permitted: English home authority, Welsh providing authority[^c-ed9a275432f6200c40dd9466d64b1241]
 
 (1) This regulation applies to primary and secondary education, and part-time education for those who have not attained the age of five years, but it does not apply to education to which regulation 4 or 5 applies.
 
 (2) Where provision for any education to which this regulation applies is made by a providing authority in Wales in respect of a person who belongs to the area of a home authority in England, the home authority may pay to the providing authority such amount as the authorities may agree.
 
-## 8. Cases in which recoupment is permitted: English home authority, English providing authority[^key-55f9cf9f11e680ebad0e74bcd4b040d8]
+## 8. Cases in which recoupment is permitted: English home authority, English providing authority[^c-55f9cf9f11e680ebad0e74bcd4b040d8]
 
 (1) This regulation applies to the following types of education when provided to a looked after child, subject to paragraph (2)—
 
@@ -149,11 +149,11 @@ the home authority must pay to the providing authority such amount as the home a
 - (b) secondary education;
 - (c) part-time education where the child has not attained the age of five years.
 
-(2) This regulation does not apply to education to which regulation 4, 5 or 5A[^key-ecada36a46a43512e5a701bb87ae12a9] applies.
+(2) This regulation does not apply to education to which regulation 4, 5 or 5A[^c-ecada36a46a43512e5a701bb87ae12a9] applies.
 
 (3) Where provision for any education to which this regulation applies is made by a providing authority in England in respect of a person who belongs to the area of a home authority in England, the home authority may pay to the providing authority such amount as the authorities may agree.
 
-## 9. Cases in which recoupment is permitted: transitional provision[^key-fec4376f25dd3c9363fc50044ab97ecd]
+## 9. Cases in which recoupment is permitted: transitional provision[^c-fec4376f25dd3c9363fc50044ab97ecd]
 
 (1) This regulation applies to the following types of education provided before 1st April 2013, subject to paragraph (2)—
 
@@ -165,7 +165,7 @@ the home authority must pay to the providing authority such amount as the home a
 
 (3) Where provision for any education to which this regulation applies is made by a providing authority in England or Wales in respect of a person who belongs to the area of a home authority in England, the home authority may pay to the providing authority such amount as the authorities may agree.
 
-## 10. Claims for recoupment[^key-e38a8d24a7f48f9af91f8a8417d604e7]
+## 10. Claims for recoupment[^c-e38a8d24a7f48f9af91f8a8417d604e7]
 
 Any claim for payment which a providing authority in England makes to a home authority in England or Wales by virtue of these Regulations must—
 
@@ -207,48 +207,48 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-89056bc77435abc63f712ff22abb723b]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-89056bc77435abc63f712ff22abb723b]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-2d04f59f97fef6dd01099f8488b4cbff]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/2) omitted (1.9.2026) by virtue of [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/2/a)
+[^c-2d04f59f97fef6dd01099f8488b4cbff]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/2) omitted (1.9.2026) by virtue of [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/2/a)
 
-[^key-cda220cf1d74cc410c876a183481a31a]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/2A)[(2B)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/2B) inserted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/2/b)
+[^c-cda220cf1d74cc410c876a183481a31a]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/2A)[(2B)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/2B) inserted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/2/b)
 
 [^f00002]: Footnote: “Providing authority” is defined in section 207(1) of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
 [^f00003]: Footnote: “Home authority” is defined in section 207(1) of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-0e641f6b04a05ffcfb3c20511ae2ba75]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-0e641f6b04a05ffcfb3c20511ae2ba75]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1994/3251](https://www.legislation.gov.uk/uksi/1994/3251).
 
-[^key-c9ac1a987372805a92a641c6607263bb]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-c9ac1a987372805a92a641c6607263bb]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
 [^f00005]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00006]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-8460b5d41163aa3c52a7736ce197d65e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2013/492/regulation/3) omitted (1.9.2026) by virtue of [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/3)
+[^c-8460b5d41163aa3c52a7736ce197d65e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2013/492/regulation/3) omitted (1.9.2026) by virtue of [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/3)
 
-[^key-c81333dd85183b5b2c73d1da6bccc376]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-c81333dd85183b5b2c73d1da6bccc376]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-6580677ac70f58c08ad9bcaffa6e0b35]: Textual amendment: [Reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2013/492/regulation/4/1/a) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [44(2)](https://www.legislation.gov.uk/uksi/2014/2103/article/44/2)
+[^c-6580677ac70f58c08ad9bcaffa6e0b35]: Textual amendment: [Reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2013/492/regulation/4/1/a) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [44(2)](https://www.legislation.gov.uk/uksi/2014/2103/article/44/2)
 
-[^key-bfbea71952b828041f60f7ad4d3baa34]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-bfbea71952b828041f60f7ad4d3baa34]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-29c9f84092a81ac8a06b504b58b15a62]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2013/492/regulation/5) heading substituted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/4)
+[^c-29c9f84092a81ac8a06b504b58b15a62]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2013/492/regulation/5) heading substituted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/4)
 
-[^key-b26b9c81b2622e16fd59ea9c84d68c80]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2013/492/regulation/5/1/a) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [44(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/44/3)
+[^c-b26b9c81b2622e16fd59ea9c84d68c80]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2013/492/regulation/5/1/a) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [44(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/44/3)
 
-[^key-3bcdb02c40463c58565723b8d5568206]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2013/492/regulation/5A) inserted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/5)
+[^c-3bcdb02c40463c58565723b8d5568206]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2013/492/regulation/5A) inserted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/5)
 
-[^key-348829569ee86e9def4b8c6c2f753d12]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-348829569ee86e9def4b8c6c2f753d12]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-ed9a275432f6200c40dd9466d64b1241]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-ed9a275432f6200c40dd9466d64b1241]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-55f9cf9f11e680ebad0e74bcd4b040d8]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-55f9cf9f11e680ebad0e74bcd4b040d8]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-ecada36a46a43512e5a701bb87ae12a9]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/492/regulation/8/2) substituted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/6)
+[^c-ecada36a46a43512e5a701bb87ae12a9]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/492/regulation/8/2) substituted (1.9.2026) by [The Inter-authority Recoupment (England) (Amendment) Regulations 2026 (S.I. 2026/686)](https://www.legislation.gov.uk/uksi/2026/686), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/686/regulation/1/b), [2(6)](https://www.legislation.gov.uk/uksi/2026/686/regulation/2/6)
 
-[^key-fec4376f25dd3c9363fc50044ab97ecd]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-fec4376f25dd3c9363fc50044ab97ecd]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
 
-[^key-e38a8d24a7f48f9af91f8a8417d604e7]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)
+[^c-e38a8d24a7f48f9af91f8a8417d604e7]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/492/regulation/1/1)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) A toll order relating to a special road to be provided by the Secretary of State shall be made by the Secretary of State; and a toll order relating to a special road to be provided by a local roads authority shall be made by the authority and confirmed by the Secretary of State.
 
-(3) Part IIA and paragraphs 15 and 18 of Part III[^key-caa13127a554b87c9969c030be28ac91] of Schedule 1 to the [^c14148561]Roads (Scotland) Act 1984 apply to the making or confirmation of a toll order and Schedule 2 to that Act applies to a toll order with regard to its validity and date of operation.
+(3) Part IIA and paragraphs 15 and 18 of Part III[^c-caa13127a554b87c9969c030be28ac91] of Schedule 1 to the [^c14148561]Roads (Scotland) Act 1984 apply to the making or confirmation of a toll order and Schedule 2 to that Act applies to a toll order with regard to its validity and date of operation.
 
 (4) The proceedings required by Part IIA of Schedule 1 to that Act to be taken for the purposes of a toll order shall (so far as practicable) be taken concurrently with the proceedings required to be taken for the purposes of the special road scheme authorising the provision of the road to which the order relates.
 
@@ -54,7 +54,7 @@ are exempt from rating and shall not be included in any valuation roll.
 
 ## Annotations
 
-[^key-caa13127a554b87c9969c030be28ac91]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/27/3) substituted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-caa13127a554b87c9969c030be28ac91]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/27/3) substituted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [s. 30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2007/8/schedule/2/paragraph/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
 [^c14148561]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 

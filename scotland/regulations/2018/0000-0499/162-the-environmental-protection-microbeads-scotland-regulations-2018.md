@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 140(6) of that Act[^f00002], they have published notices in the London Gazette and in the Edinburgh Gazette and have considered the representations made to them in accordance with those notices.
 
-## 1. Citation, commencement and extent[^key-19494d5df420dc9e0eea7f52bce43807]
+## 1. Citation, commencement and extent[^c-19494d5df420dc9e0eea7f52bce43807]
 
 (1) These Regulations may be cited as the Environmental Protection (Microbeads) (Scotland) Regulations 2018 and come into force on 19th June 2018.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-66e7e5b947a176dec456f29f280d25d2]
+## 2. Interpretation[^c-66e7e5b947a176dec456f29f280d25d2]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
     - (iii) mucous membranes of the oral cavity;
 - “supply”, in relation to a rinse-off personal care product, means supply by way of sale or its presentation as a promotional prize or gift in the course of a business.
 
-## 3. Offences[^key-709d3ea8dd98ab4c0a044b8be4f92d05]
+## 3. Offences[^c-709d3ea8dd98ab4c0a044b8be4f92d05]
 
 (1) A person who, in the manufacture of any rinse-off personal care product, uses microbeads as an ingredient of that product commits an offence.
 
@@ -85,7 +85,7 @@ In these Regulations—
 - (a) on summary conviction, to a fine not exceeding £5,000;
 - (b) on conviction on indictment, to a term of imprisonment not exceeding 2 years or a fine not exceeding £5,000 or both.
 
-## 4. Offences by bodies corporate[^key-19aeb2cd16887cd84eaea4184e335c07]
+## 4. Offences by bodies corporate[^c-19aeb2cd16887cd84eaea4184e335c07]
 
 (1) Where—
 
@@ -104,13 +104,13 @@ In these Regulations—
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-## 5. Enforcement[^key-486f74d462ed6a0814acac76f0f34387]
+## 5. Enforcement[^c-486f74d462ed6a0814acac76f0f34387]
 
 (1) A local authority may authorise any person to exercise in its area, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 6, if that person appears suitable to exercise them.
 
 (2) An authorisation under paragraph (1) must be in writing.
 
-## 6. Powers of entry and examination etc.[^key-146bea20d2e3e32ba81192d5db121705]
+## 6. Powers of entry and examination etc.[^c-146bea20d2e3e32ba81192d5db121705]
 
 (1) The powers which an enforcement officer may be authorised to exercise are—
 
@@ -172,7 +172,7 @@ the sheriff, summary sheriff or justice of the peace may by warrant authorise th
 
 and that immediate entry to any premises is necessary to verify the existence of that risk or those circumstances or to ascertain the cause of that risk or those circumstances or effect a remedy.
 
-## 7. Power to give a fixed penalty notice[^key-f984bf039496fa9f2164dfc6565646c5]
+## 7. Power to give a fixed penalty notice[^c-f984bf039496fa9f2164dfc6565646c5]
 
 (1) An enforcement officer may, if having reason to believe that a person is committing or has committed an offence under regulation 3(1) or (2) of these Regulations, give that person a fixed penalty notice.
 
@@ -259,18 +259,18 @@ Regulation 6 gives enforcement officers powers of entry to carry out the necessa
 
 [^f00002]: Footnote: The requirement to consult the Advisory Committee on Hazardous Substances formerly established under section 140(5) of the 1990 Act was removed by [S.I. 2012/1923](https://www.legislation.gov.uk/uksi/2012/1923).
 
-[^key-19494d5df420dc9e0eea7f52bce43807]: Commencement: Reg. 1 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
+[^c-19494d5df420dc9e0eea7f52bce43807]: Commencement: Reg. 1 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
 
-[^key-66e7e5b947a176dec456f29f280d25d2]: Commencement: Reg. 2 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
+[^c-66e7e5b947a176dec456f29f280d25d2]: Commencement: Reg. 2 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
 
 [^f00003]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by the Environment Act [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), schedule 27, paragraph 232(1).
 
-[^key-709d3ea8dd98ab4c0a044b8be4f92d05]: Commencement: Reg. 3 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
+[^c-709d3ea8dd98ab4c0a044b8be4f92d05]: Commencement: Reg. 3 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
 
-[^key-19aeb2cd16887cd84eaea4184e335c07]: Commencement: Reg. 4 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
+[^c-19aeb2cd16887cd84eaea4184e335c07]: Commencement: Reg. 4 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
 
-[^key-486f74d462ed6a0814acac76f0f34387]: Commencement: Reg. 5 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
+[^c-486f74d462ed6a0814acac76f0f34387]: Commencement: Reg. 5 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
 
-[^key-146bea20d2e3e32ba81192d5db121705]: Commencement: Reg. 6 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
+[^c-146bea20d2e3e32ba81192d5db121705]: Commencement: Reg. 6 in force at 19.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/162/regulation/1/1)
 
-[^key-f984bf039496fa9f2164dfc6565646c5]: Textual amendment: Regs. 7-9 inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/28/regulation/3/2)
+[^c-f984bf039496fa9f2164dfc6565646c5]: Textual amendment: Regs. 7-9 inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/28/regulation/3/2)

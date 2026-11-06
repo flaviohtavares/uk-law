@@ -57,7 +57,7 @@ For the purposes of this sub-paragraph—
 
 (2) Every elector or proxy who corruptly accepts or takes any such food, drink, entertainment or provision shall also be guilty of treating.
 
-**3.**[^key-b138606cf00f8904552de51b6a8488ca] *Undue influence*
+**3.**[^c-b138606cf00f8904552de51b6a8488ca] *Undue influence*
 
 (1) A person is guilty of undue influence if the person carries out an activity falling within sub-paragraph (3) for the purpose of—
 
@@ -130,7 +130,7 @@ Except at a local election[^c18661981] A person shall be guilty of a misdemeanou
   - (i) is no longer entitled to vote at that election; or
   - (ii) is no longer entitled to vote by proxy at that election.
 
-#### 5ZA. Handling of postal voting documents by political campaigners[^key-4c6cb80532edfffd19c5930662051efb]
+#### 5ZA. Handling of postal voting documents by political campaigners[^c-4c6cb80532edfffd19c5930662051efb]
 
 (1) A person who is a political campaigner in respect of a local election is guilty of a corrupt practice if the person handles a postal voting document that has been issued to another person for use in that election.
 
@@ -259,7 +259,7 @@ A person shall be guilty of a corrupt practice if he aids, abets, counsels or pr
 
 For the purposes of this sub-paragraph references to a person being subject to a legal incapacity to vote do not, in relation to things done before polling day at the election or first election at which or for which they are done, include his being below voting age if he will be of voting age on that day.
 
-(1A)[^key-a547882c29f373ec5be368efb7207838] A person (“P”) is guilty of an illegal practice if P applies for the appointment of a proxy to vote for P—
+(1A)[^c-a547882c29f373ec5be368efb7207838] A person (“P”) is guilty of an illegal practice if P applies for the appointment of a proxy to vote for P—
 
 - (a) at a local election, where P knows that the person to be appointed is already appointed as proxy to vote at that election, or at local elections, for four or more other electors;
 - (b) at a local election where—
@@ -287,7 +287,7 @@ For the purposes of this sub-paragraph references to a person being subject to a
 - (b) he votes in person as proxy for an elector at a local election at which he is entitled to vote by post as proxy for that elector; or
 - (c) he votes in person as proxy for an elector at a local election knowing that the elector has already voted in person at the election.
 
-(4)[^key-afefd00c2be2ab87017cfdc1976a0064][^key-7131f47c8685caed3f639aa5571d0647] A person is also guilty of an illegal practice if the person votes as proxy—
+(4)[^c-afefd00c2be2ab87017cfdc1976a0064][^c-7131f47c8685caed3f639aa5571d0647] A person is also guilty of an illegal practice if the person votes as proxy—
 
 - (a) for more than four electors—
   - (i) at a local election, or
@@ -300,9 +300,9 @@ For the purposes of this sub-paragraph references to a person being subject to a
 
 (5) A person shall also be guilty of an illegal practice if he knowingly induces or procures some other person to do an act which is, or but for that other person's want of knowledge would be, an offence by that other person under the foregoing provisions of this paragraph.
 
-(6) For the purposes of this paragraph a person who has applied for a ballot paper for the purpose of voting in person, or who has marked, whether validly or not, and returned a ballot paper issued for the purpose of voting by post, shall be deemed to have voted (but see sub-paragraph (6A))[^key-41d188d277b36f12461182b6143ab3ea], but for the purpose of determining whether an application for a ballot paper constitutes an offence under sub-paragraph (4), a previous application made in circumstances which entitle the applicant only to mark a tendered ballot paper shall, if he does not exercise that right, be disregarded.
+(6) For the purposes of this paragraph a person who has applied for a ballot paper for the purpose of voting in person, or who has marked, whether validly or not, and returned a ballot paper issued for the purpose of voting by post, shall be deemed to have voted (but see sub-paragraph (6A))[^c-41d188d277b36f12461182b6143ab3ea], but for the purpose of determining whether an application for a ballot paper constitutes an offence under sub-paragraph (4), a previous application made in circumstances which entitle the applicant only to mark a tendered ballot paper shall, if he does not exercise that right, be disregarded.
 
-(6A)[^key-5107fd0825be059aabb5257dd7866eed] For the purpose of determining whether an application for a ballot paper constitutes an offence under sub-paragraph (2)(a)(i) or (3)(a)(i), a previous application is to be disregarded if the applicant’s failure to vote on that occasion resulted only from a failure to produce satisfactory proof of identity.
+(6A)[^c-5107fd0825be059aabb5257dd7866eed] For the purpose of determining whether an application for a ballot paper constitutes an offence under sub-paragraph (2)(a)(i) or (3)(a)(i), a previous application is to be disregarded if the applicant’s failure to vote on that occasion resulted only from a failure to produce satisfactory proof of identity.
 
 (7) Where a person is alleged to have committed an offence under sub-paragraph (2)(a)(i) or (3)(a)(i) by voting on a second or subsequent occasion, he shall not be deemed by sub-paragraph (6) to have voted by applying on a previous occasion for a ballot paper for the purpose of voting in person unless he then marked a tendered ballot paper under rule 37(4) of the local elections rules.
 
@@ -388,7 +388,7 @@ R shall not be guilty of an electoral offence under sub-paragraph (1).
   - (ii) any sealed or other packet of papers or documents of any kind then in use or intended to be used for the purposes of the election; or
   - (iii) any ballot paper account or marked copy of a register prepared or used for the purposes of the election or any unused ballot papers.
 
-**26A.**[^key-c95c9e8a8d1822490f8a45c8e36f9cfd] (1) A person who—
+**26A.**[^c-c95c9e8a8d1822490f8a45c8e36f9cfd] (1) A person who—
 
 - (a) is with another person at a polling booth, and
 - (b) intends to influence that other person to vote in a particular way or to refrain from voting,
@@ -424,10 +424,10 @@ commits an offence.
 - (a) interferes with or attempts to interfere with a voter when recording his vote; or
 - (b) otherwise obtains or attempts to obtain in a polling station information as to the candidate for whom a voter in that station is about to vote or has voted; or
 - (c) communicates at any time to any person any information obtained in a polling station as to the candidate for whom a voter in that station is about to vote or has voted, or as to the number or other unique identifying mark[^c19677841] on the back of the ballot paper issued to a voter at that station; or
-- (d) directly or indirectly induces a voter to display his ballot paper after he has marked it so as to make known to any person the name of the candidate for whom he has or has not voted; [^key-028427fd9fbcb395a4963e40817e8963]...
-- (e)[^key-125c38ef1f8a3ac78bac7de810f8a8eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) directly or indirectly induces a voter to display his ballot paper after he has marked it so as to make known to any person the name of the candidate for whom he has or has not voted; [^c-028427fd9fbcb395a4963e40817e8963]...
+- (e)[^c-125c38ef1f8a3ac78bac7de810f8a8eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-b21610d88a2b19bb83b9b1b1ae2df751] A person is guilty of an electoral offence if the person—
+(3A)[^c-b21610d88a2b19bb83b9b1b1ae2df751] A person is guilty of an electoral offence if the person—
 
 - (a) except for some purpose authorised by law, obtains or attempts to obtain information, or communicates at any time to any other person any information, as to the number or other unique identifying mark on the back of a ballot paper sent to a person for voting by post at a local election;
 - (b) except for some purpose authorised by law, obtains or attempts to obtain information, or communicates at any time to any other person any information, as to the official mark on a ballot paper sent to a person for voting by post at a local election;
@@ -464,7 +464,7 @@ commits an offence.
 - (c) except for some purpose authorised by law, attempts to ascertain at the proceedings in connection with the receipt of ballot papers the number or other unique identifying mark[^c19677931] on the back of any ballot paper; or
 - (d) attempts to ascertain at the proceedings in connection with the receipt of the ballot papers the candidate for whom any vote is given in any particular ballot paper or communicates any information with respect thereto obtained at those proceedings.
 
-(5)[^key-d7636cb49a161e7ebb084d9e752e95eb] A person who has undertaken to assist a relevant voter to vote at a local election is guilty of an electoral offence if the person communicates at any time to any person except that voter any information as to—
+(5)[^c-d7636cb49a161e7ebb084d9e752e95eb] A person who has undertaken to assist a relevant voter to vote at a local election is guilty of an electoral offence if the person communicates at any time to any person except that voter any information as to—
 
 - (a) the candidate for whom the voter intends to vote or has voted, or
 - (b) the number or other unique identifying mark on the back of the ballot paper given for the use of the voter.
@@ -487,7 +487,7 @@ is guilty of an electoral offence.
 
 and any reference to the result of an election is a reference to the result of the election either as a whole or so far as any particular candidate or candidates at the election is or are concerned.
 
-**28.**[^key-58afefbf18b3e66ad9db82b2c23133d6] (1) This paragraph applies to any material—
+**28.**[^c-58afefbf18b3e66ad9db82b2c23133d6] (1) This paragraph applies to any material—
 
 - (a) which can reasonably be regarded as intended to promote or procure the election of a candidate at an election (whether or not it can be so regarded as intended to achieve any other purpose as well), and
 - (b) which is, or is contained in, such a document as is mentioned in sub-paragraph (4), (5) or (6).
@@ -583,13 +583,13 @@ R shall not be guilty of an electoral offence under sub-paragraph (1).
 
 [^c18661951]: Textual amendment: mod. SI 2003/1557
 
-[^key-b138606cf00f8904552de51b6a8488ca]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/3) substituted (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/24); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(h)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/h/iv)
+[^c-b138606cf00f8904552de51b6a8488ca]: Textual amendment: [Sch. 9 para. 3](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/3) substituted (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/24); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(h)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/h/iv)
 
 [^c21928421]: Textual amendment: [Sch. 9 para. 4A](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/4A) inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/30) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
 [^c18661981]: Textual amendment: SI 1987/168
 
-[^key-4c6cb80532edfffd19c5930662051efb]: Textual amendment: [Sch. 9 para. 5ZA](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/5ZA) and cross-heading inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/25); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-4c6cb80532edfffd19c5930662051efb]: Textual amendment: [Sch. 9 para. 5ZA](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/5ZA) and cross-heading inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/25); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
 [^c21928511]: Textual amendment: SI 2001/417
 
@@ -615,15 +615,15 @@ R shall not be guilty of an electoral offence under sub-paragraph (1).
 
 [^c21928761]: Textual amendment: SI 1987/168
 
-[^key-a547882c29f373ec5be368efb7207838]: Textual amendment: [Sch. 9 para. 12A(1A)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/1A) inserted (31.10.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/2); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(g)(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/g/iii)
+[^c-a547882c29f373ec5be368efb7207838]: Textual amendment: [Sch. 9 para. 12A(1A)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/1A) inserted (31.10.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/2); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(g)(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/g/iii)
 
-[^key-afefd00c2be2ab87017cfdc1976a0064]: Modification: [Sch. 9 para. 12A(4)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/4) restricted (31.10.2023) by [The Elections Act 2022 (Commencement No. 9, Transitional and Savings Provisions and Appointed and Specified Days) and Ballot Secrecy Act 2023 (Commencement) Regulations 2023 (S.I. 2023/1145)](https://www.legislation.gov.uk/uksi/2023/1145), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4)
+[^c-afefd00c2be2ab87017cfdc1976a0064]: Modification: [Sch. 9 para. 12A(4)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/4) restricted (31.10.2023) by [The Elections Act 2022 (Commencement No. 9, Transitional and Savings Provisions and Appointed and Specified Days) and Ballot Secrecy Act 2023 (Commencement) Regulations 2023 (S.I. 2023/1145)](https://www.legislation.gov.uk/uksi/2023/1145), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4)
 
-[^key-7131f47c8685caed3f639aa5571d0647]: Textual amendment: [Sch. 9 para. 12A(4)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/4) substituted (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(vii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/vii) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
+[^c-7131f47c8685caed3f639aa5571d0647]: Textual amendment: [Sch. 9 para. 12A(4)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/4) substituted (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(vii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/vii) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
 
-[^key-41d188d277b36f12461182b6143ab3ea]: Textual amendment: Words in [Sch. 9 para. 12A(6)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/6) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/4); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(f)(ix)(bb)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/f/ix/bb) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/3))
+[^c-41d188d277b36f12461182b6143ab3ea]: Textual amendment: Words in [Sch. 9 para. 12A(6)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/6) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/4); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(f)(ix)(bb)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/f/ix/bb) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/3))
 
-[^key-5107fd0825be059aabb5257dd7866eed]: Textual amendment: [Sch. 9 para. 12A(6A)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/6A) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/5); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(f)(ix)(bb)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/f/ix/bb) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/3))
+[^c-5107fd0825be059aabb5257dd7866eed]: Textual amendment: [Sch. 9 para. 12A(6A)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/12A/6A) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 26(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/26/5); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(f)(ix)(bb)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/f/ix/bb) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/3))
 
 [^c21928741]: Textual amendment: [Sch. 9 para. 12A(7A)](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/12A/7A) inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/32) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
@@ -653,27 +653,27 @@ R shall not be guilty of an electoral offence under sub-paragraph (1).
 
 [^c21928951]: Textual amendment: [Sch. 9 para. 25(2)(3)](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/25/2/3) inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/37) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-c95c9e8a8d1822490f8a45c8e36f9cfd]: Textual amendment: [Sch. 9 para. 26A](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/26A) inserted (2.5.2024) by [Ballot Secrecy Act 2023 (c. 12)](https://www.legislation.gov.uk/ukpga/2023/12), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2023/12/section/2/1/b), [3(4)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/4); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1145/regulation/8)
+[^c-c95c9e8a8d1822490f8a45c8e36f9cfd]: Textual amendment: [Sch. 9 para. 26A](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/26A) inserted (2.5.2024) by [Ballot Secrecy Act 2023 (c. 12)](https://www.legislation.gov.uk/ukpga/2023/12), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2023/12/section/2/1/b), [3(4)](https://www.legislation.gov.uk/ukpga/2023/12/section/3/4); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 8](https://www.legislation.gov.uk/uksi/2023/1145/regulation/8)
 
 [^c19677781]: Textual amendment: Words in [Sch. 9 para. 27(2)(a)](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/27/2/a) inserted (1.7.2008) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/22/section/47), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 62(2)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/62/2); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/3), [5(f)(iii)](https://www.legislation.gov.uk/uksi/2008/1316/article/5/f/iii)
 
 [^c19677841]: Textual amendment: Words in [Sch. 9 para. 27(3)(c)](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/27/3/c) inserted (1.7.2008) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/22/section/47), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 62(3)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/62/3); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/3), [5(f)(iii)](https://www.legislation.gov.uk/uksi/2008/1316/article/5/f/iii)
 
-[^key-028427fd9fbcb395a4963e40817e8963]: Textual amendment: Word in [Sch. 9 para. 27(3)(d)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/3/d) omitted (12.12.2023) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/2/a); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-028427fd9fbcb395a4963e40817e8963]: Textual amendment: Word in [Sch. 9 para. 27(3)(d)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/3/d) omitted (12.12.2023) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/2/a); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
-[^key-125c38ef1f8a3ac78bac7de810f8a8eb]: Textual amendment: [Sch. 9 para. 27(3)(e)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/3/e) omitted (12.12.2023) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/2/b); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-125c38ef1f8a3ac78bac7de810f8a8eb]: Textual amendment: [Sch. 9 para. 27(3)(e)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/3/e) omitted (12.12.2023) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/2/b); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
-[^key-b21610d88a2b19bb83b9b1b1ae2df751]: Textual amendment: [Sch. 9 para. 27(3A)-(3F)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH) inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/3); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-b21610d88a2b19bb83b9b1b1ae2df751]: Textual amendment: [Sch. 9 para. 27(3A)-(3F)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH) inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/3); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
 [^c19677871]: Textual amendment: Words in [Sch. 9 para. 27(4)(b)](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/27/4/b) inserted (1.7.2008) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/22/section/47), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 62(4)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/62/4); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/3), [5(f)(iii)](https://www.legislation.gov.uk/uksi/2008/1316/article/5/f/iii)
 
 [^c19677931]: Textual amendment: Words in [Sch. 9 para. 27(4)(c)](https://www.legislation.gov.uk/apni/1962/14/schedule/9/paragraph/27/4/c) inserted (1.7.2008) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/22/section/47), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 62(4)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/62/4); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/3), [5(f)(iii)](https://www.legislation.gov.uk/uksi/2008/1316/article/5/f/iii)
 
-[^key-d7636cb49a161e7ebb084d9e752e95eb]: Textual amendment: [Sch. 9 para. 27(5)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/5)[(6)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/6) inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/4); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-d7636cb49a161e7ebb084d9e752e95eb]: Textual amendment: [Sch. 9 para. 27(5)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/5)[(6)](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/27/6) inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 27(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/27/4); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
 [^c18662231]: Textual amendment: SI 2001/417
 
-[^key-58afefbf18b3e66ad9db82b2c23133d6]: Textual amendment: [Sch. 9 para. 28](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/28) substituted (11.8.2021) by [The Local Elections (Northern Ireland) (Amendment) Order 2021 (S.I. 2021/880)](https://www.legislation.gov.uk/uksi/2021/880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/880/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/880/article/2)
+[^c-58afefbf18b3e66ad9db82b2c23133d6]: Textual amendment: [Sch. 9 para. 28](https://www.legislation.gov.uk/apni/1962/14/schedule/NINTH/paragraph/28) substituted (11.8.2021) by [The Local Elections (Northern Ireland) (Amendment) Order 2021 (S.I. 2021/880)](https://www.legislation.gov.uk/uksi/2021/880), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/880/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/880/article/2)
 
 [^c18662281]: Textual amendment: SI 1987/168
 

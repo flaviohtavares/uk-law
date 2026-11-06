@@ -38,9 +38,9 @@ summary: ''
 - (c) section 22(4),
 - (d) section 54(1) or 55(1),
 - (e) section 69(7),
-- (f) section 73(1)[^key-b3a910155d6f1c10511ff6a0381f3453]..., 82(1) or 107,
+- (f) section 73(1)[^c-b3a910155d6f1c10511ff6a0381f3453]..., 82(1) or 107,
 - (g) section 113(1) (if the order contains supplemental provision or provision which adds to, replaces or omits any part of the text of an Act).
 
 ## Annotations
 
-[^key-b3a910155d6f1c10511ff6a0381f3453]: Textual amendment: Words in [s. 114(4)(f)](https://www.legislation.gov.uk/asp/2011/9/section/114/4/f) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(12)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/12); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b3a910155d6f1c10511ff6a0381f3453]: Textual amendment: Words in [s. 114(4)(f)](https://www.legislation.gov.uk/asp/2011/9/section/114/4/f) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(12)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/12); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

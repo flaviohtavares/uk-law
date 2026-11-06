@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26A. Liability of officers of bodies corporate[^key-187c638d504cb4124ecdde3bbdf37b4c]
+## 26A. Liability of officers of bodies corporate[^c-187c638d504cb4124ecdde3bbdf37b4c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the officer, as well as the body corporate, is guilty of the offence and is liab
 
 ## Annotations
 
-[^key-187c638d504cb4124ecdde3bbdf37b4c]: Textual amendment: S. 26A inserted (E.W.) (1.4.2014 for E.) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 14](https://www.legislation.gov.uk/ukpga/2013/14/section/14), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2); [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))
+[^c-187c638d504cb4124ecdde3bbdf37b4c]: Textual amendment: S. 26A inserted (E.W.) (1.4.2014 for E.) by [Mobile Homes Act 2013 (c. 14)](https://www.legislation.gov.uk/ukpga/2013/14), [ss. 14](https://www.legislation.gov.uk/ukpga/2013/14/section/14), [15(2)](https://www.legislation.gov.uk/ukpga/2013/14/section/15/2); [S.I. 2014/816](https://www.legislation.gov.uk/uksi/2014/816), [art. 2](https://www.legislation.gov.uk/uksi/2014/816/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/816/article/3))

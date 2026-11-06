@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Jurisdiction of courts[^key-6cb10037d59712e67c318a4bb7038789]
+## 115. Jurisdiction of courts[^c-6cb10037d59712e67c318a4bb7038789]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cb10037d59712e67c318a4bb7038789]: Commencement: S. 115 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6cb10037d59712e67c318a4bb7038789]: Commencement: S. 115 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -156,7 +156,7 @@ Subject to regulation 12, the master of a bulk carrier to which these Regulation
 (2) The Regulations referred to in paragraph (1) are—
 
 - (a) the Shipbuilding and Ship Repairing (Northern Ireland) Regulations 1971 [^c5070391],
-- (b)[^key-4bbc625c83d81941d4aa80792e17c3fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4bbc625c83d81941d4aa80792e17c3fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Working Time Regulations (Northern Ireland) 1988 [^c5070411],
 - (d) the Docks Regulations (Northern Ireland) 1989 [^c5070421],
 - (e) the Personal Protective Equipment at Work Regulations 1992 [^c5070431],
@@ -169,9 +169,9 @@ Subject to regulation 12, the master of a bulk carrier to which these Regulation
 - (l) the Lifting Operations and Lifting Equipment Regulations (Northern Ireland) 1999 [^c5070501],
 - (m) the Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 [^c5070511],
 - (n) the Provision and Use of Work Equipment Regulations (Northern Ireland) 1999 [^c5070521],
-- (o)[^key-382bf319b727f9e02b19546936107368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (p) the Dangerous Substances and Explosive Atmospheres Regulations 2002, [^key-65ac4c6d582e32f5f030067d6ee039e6]...
-- (q) the Dangerous Substances and Explosive Atmospheres Regulations (Northern Ireland) 2003 [^c5070551] , and[^key-695525d7d7c892348dff1499f6b290d9]
+- (o)[^c-382bf319b727f9e02b19546936107368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p) the Dangerous Substances and Explosive Atmospheres Regulations 2002, [^c-65ac4c6d582e32f5f030067d6ee039e6]...
+- (q) the Dangerous Substances and Explosive Atmospheres Regulations (Northern Ireland) 2003 [^c5070551] , and[^c-695525d7d7c892348dff1499f6b290d9]
 - (r) the Merchant Shipping (Carriage of Cargoes) Regulations 2024.
 
 ## 13. Offences and penalties
@@ -232,7 +232,7 @@ Copies of the International Convention for the Safety of Life at Sea, 1974, toge
 
 [^c5070391]: Marginal citation: S.R. & O. (N.I.) [1971 No. 372](https://www.legislation.gov.uk/ukcm/1971/372).
 
-[^key-4bbc625c83d81941d4aa80792e17c3fa]: Textual amendment: Reg. 12(2)(b) revoked (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2013/1512/schedule)
+[^c-4bbc625c83d81941d4aa80792e17c3fa]: Textual amendment: Reg. 12(2)(b) revoked (6.4.2014) by [The Health and Safety (Miscellaneous Revocations and Amendments) Regulations 2013 (S.I. 2013/1512)](https://www.legislation.gov.uk/uksi/2013/1512), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1512/regulation/1/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2013/1512/schedule)
 
 [^c5070411]: Marginal citation: S.R. [1988 No. 386](https://www.legislation.gov.uk/ukcm/1988/386).
 
@@ -258,10 +258,10 @@ Copies of the International Convention for the Safety of Life at Sea, 1974, toge
 
 [^c5070521]: Marginal citation: S.R. [1999 No. 305](https://www.legislation.gov.uk/ukcm/1999/305).
 
-[^key-382bf319b727f9e02b19546936107368]: Textual amendment: Reg. 12(2)(o) omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Cargoes) Regulations 2024 (S.I. 2024/637)](https://www.legislation.gov.uk/uksi/2024/637), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2024/637/schedule/paragraph/1/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/637/regulation/4))
+[^c-382bf319b727f9e02b19546936107368]: Textual amendment: Reg. 12(2)(o) omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Cargoes) Regulations 2024 (S.I. 2024/637)](https://www.legislation.gov.uk/uksi/2024/637), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1), [Sch. para. 1(a)(i)](https://www.legislation.gov.uk/uksi/2024/637/schedule/paragraph/1/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/637/regulation/4))
 
-[^key-65ac4c6d582e32f5f030067d6ee039e6]: Textual amendment: Word in reg. 12(2)(p) omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Cargoes) Regulations 2024 (S.I. 2024/637)](https://www.legislation.gov.uk/uksi/2024/637), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2024/637/schedule/paragraph/1/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/637/regulation/4))
+[^c-65ac4c6d582e32f5f030067d6ee039e6]: Textual amendment: Word in reg. 12(2)(p) omitted (11.6.2024) by virtue of [The Merchant Shipping (Carriage of Cargoes) Regulations 2024 (S.I. 2024/637)](https://www.legislation.gov.uk/uksi/2024/637), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1), [Sch. para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2024/637/schedule/paragraph/1/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/637/regulation/4))
 
 [^c5070551]: Marginal citation: S.R. [2003 No. 152](https://www.legislation.gov.uk/ukcm/2003/152).
 
-[^key-695525d7d7c892348dff1499f6b290d9]: Textual amendment: Reg. 12(2)(r) and word inserted (11.6.2024) by [The Merchant Shipping (Carriage of Cargoes) Regulations 2024 (S.I. 2024/637)](https://www.legislation.gov.uk/uksi/2024/637), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2024/637/schedule/paragraph/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/637/regulation/4))
+[^c-695525d7d7c892348dff1499f6b290d9]: Textual amendment: Reg. 12(2)(r) and word inserted (11.6.2024) by [The Merchant Shipping (Carriage of Cargoes) Regulations 2024 (S.I. 2024/637)](https://www.legislation.gov.uk/uksi/2024/637), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2024/637/schedule/paragraph/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/637/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.7. Introducing evidence[^key-57a788806ef1b52c73433c55931f8606]
+## 39.7. Introducing evidence[^c-57a788806ef1b52c73433c55931f8606]
 
 *Extent: E+W*
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57a788806ef1b52c73433c55931f8606]: Commencement: [Rule 39.7](https://www.legislation.gov.uk/uksi/2025/909/rule/39.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-57a788806ef1b52c73433c55931f8606]: Commencement: [Rule 39.7](https://www.legislation.gov.uk/uksi/2025/909/rule/39.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00961]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 23 was amended by sections 4 and 29 of, and paragraph 4 of Schedule 2 to, the Criminal Appeal Act [1995 (c. 35)](https://www.legislation.gov.uk/ukpga/1995/35), section 48 of the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and section 47 of, and paragraphs 1 and 10 of Schedule 8 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).

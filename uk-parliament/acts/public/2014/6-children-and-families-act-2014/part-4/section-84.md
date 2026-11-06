@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Childminder agencies[^key-1f11620efdfa2adef407205d14bc1d35][^key-34eec7cd50bb870b68eb563117721dd4]
+## 84. Childminder agencies[^c-1f11620efdfa2adef407205d14bc1d35][^c-34eec7cd50bb870b68eb563117721dd4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 4 (amendments to the Childcare Act 2006 to provide for the registration
 
 ## Annotations
 
-[^key-1f11620efdfa2adef407205d14bc1d35]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/6/section/84) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(l)](https://www.legislation.gov.uk/uksi/2014/889/article/3/l)
+[^c-1f11620efdfa2adef407205d14bc1d35]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/6/section/84) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(l)](https://www.legislation.gov.uk/uksi/2014/889/article/3/l)
 
-[^key-34eec7cd50bb870b68eb563117721dd4]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/6/section/84) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/889/article/7/b)
+[^c-34eec7cd50bb870b68eb563117721dd4]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/6/section/84) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/889/article/7/b)

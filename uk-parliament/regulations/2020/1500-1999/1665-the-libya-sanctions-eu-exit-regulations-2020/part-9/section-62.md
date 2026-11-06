@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. General trade licences: records[^key-0789403ac8961f942936f42935a24a35]
+## 62. General trade licences: records[^c-0789403ac8961f942936f42935a24a35]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0789403ac8961f942936f42935a24a35]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-0789403ac8961f942936f42935a24a35]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

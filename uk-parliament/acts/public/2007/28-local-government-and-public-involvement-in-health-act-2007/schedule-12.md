@@ -24,11 +24,11 @@ Section 182
 
 ### Part 1 — Amendments of Part 3 of Local Government Act 1974
 
-**1.**[^key-e1823399acfe44a5564ff740a9e441dd] Part 3 of the Local Government Act 1974 (c. 7) (Commission for Local Administration in England) is amended in accordance with this Part of this Schedule.
+**1.**[^c-e1823399acfe44a5564ff740a9e441dd] Part 3 of the Local Government Act 1974 (c. 7) (Commission for Local Administration in England) is amended in accordance with this Part of this Schedule.
 
-**2.**[^key-7146ce97a2d050d6fb97055982e86c11] In section 23(12) (three-yearly reviews by the Commission), for “complaints” substitute “ matters ”.
+**2.**[^c-7146ce97a2d050d6fb97055982e86c11] In section 23(12) (three-yearly reviews by the Commission), for “complaints” substitute “ matters ”.
 
-**3.**[^key-784118f96b0aeaac116aa1e27fc9db46] (1) Section 26 (matters subject to investigation) is amended as follows.
+**3.**[^c-784118f96b0aeaac116aa1e27fc9db46] (1) Section 26 (matters subject to investigation) is amended as follows.
 
 (2) In subsection (5)—
 
@@ -57,7 +57,7 @@ Section 182
 
 (8) Omit subsections (12) and (13) (restrictions on investigating matters arising before specified dates).
 
-**4.**[^key-77bed1f750d7d2db89d0abb511ed7f76] (1) Section 28 (payments to complainants and persons assisting with investigations) is amended as follows.
+**4.**[^c-77bed1f750d7d2db89d0abb511ed7f76] (1) Section 28 (payments to complainants and persons assisting with investigations) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -78,13 +78,13 @@ Section 182
 - (a) after “the authority concerned” insert “ or any other person ”;
 - (b) for “that authority” substitute “ the authority concerned or any other person ”.
 
-**5.**[^key-3bd8c5bb45b52e3471a1033a0d8344cf] (1) Section 29 (further provisions about investigations) is amended as follows.
+**5.**[^c-3bd8c5bb45b52e3471a1033a0d8344cf] (1) Section 29 (further provisions about investigations) is amended as follows.
 
 (2) In subsection (6), omit “with the approval of the Minister for the Civil Service”.
 
 (3) In subsection (8), for “or any officer of the Commission assisting in the performance” substitute “ or any person discharging or assisting in the discharge ”.
 
-**6.**[^key-2fa49fd97aed2ead3ec7c6fae134aebf] (1) Section 31A (consideration of adverse reports) is amended as follows.
+**6.**[^c-2fa49fd97aed2ead3ec7c6fae134aebf] (1) Section 31A (consideration of adverse reports) is amended as follows.
 
 (2) For subsections (1) to (2A) substitute—
 
@@ -123,7 +123,7 @@ Section 182
 - (b) for “the Authority” substitute “ the Greater London Authority ”;
 - (c) for “the authority concerned (other than references to a member of the authority concerned)” substitute “ an authority ”.
 
-**7.**[^key-dce42c0de4b9d1f1c50b9eb0850afc32] (1) Section 32 (law of defamation and disclosure of information) is amended as follows.
+**7.**[^c-dce42c0de4b9d1f1c50b9eb0850afc32] (1) Section 32 (law of defamation and disclosure of information) is amended as follows.
 
 (2) In subsection (1)(a), for “any officer of the Commission” substitute “ any person discharging or assisting in the discharge of a function of a Local Commissioner ”.
 
@@ -156,7 +156,7 @@ Section 182
 
 > (3B) Section 25(4), (4A) and (5) do not apply for the purpose of subsection (3).
 
-**8.**[^key-b1fe5ac9e0e9506ccfa8cd550033460b] (1) Section 33 (consultation with other Commissioners etc) is amended as follows.
+**8.**[^c-b1fe5ac9e0e9506ccfa8cd550033460b] (1) Section 33 (consultation with other Commissioners etc) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -169,7 +169,7 @@ Section 182
 - (b) for “any matter relating to the complaint” substitute “ anything relating to the matter ”;
 - (c) in paragraph (a), for “complaint” substitute “ matter ”.
 
-**9.**[^key-1d1c1a14fa47724447f224866ea31b7f] (1) Section 33ZA (collaborative working between Local Commissioners and other Commissioners) is amended as follows.
+**9.**[^c-1d1c1a14fa47724447f224866ea31b7f] (1) Section 33ZA (collaborative working between Local Commissioners and other Commissioners) is amended as follows.
 
 (2) In subsection (1), for “the complaint relates partly to” substitute “ the matters which are the subject of the investigation include ”.
 
@@ -180,7 +180,7 @@ Section 182
 
 (4) In subsection (4), omit “of a complaint”.
 
-**10.**[^key-ff955679a406232dd39556c3af84e837] In section 34(1) (interpretation of Part)—
+**10.**[^c-ff955679a406232dd39556c3af84e837] In section 34(1) (interpretation of Part)—
 
 - (a) in the definition of “member”, omit paragraphs (b) and (c);
 - (b) for the definition of “person aggrieved” substitute—
@@ -192,7 +192,7 @@ Section 182
 
   .
 
-**11.**[^key-70171c4db45e003aba6c4cf7c1d4baad] (1) Schedule 4 (the Commission) is amended as follows.
+**11.**[^c-70171c4db45e003aba6c4cf7c1d4baad] (1) Schedule 4 (the Commission) is amended as follows.
 
 (2) In paragraph 3 (remuneration etc of Commissioners and their officers)—
 
@@ -204,13 +204,13 @@ Section 182
 - (a) in sub-paragraph (2), for “complaints” substitute “ matters ”;
 - (b) omit sub-paragraphs (5) and (6).
 
-**12.**[^key-f88b7acfe3f8feac491ccb1ff3a3488a] In Schedule 5 (matters not subject to investigation), in paragraphs 2, 6, 7 and 8, after “taken by” insert “ or on behalf of ”.
+**12.**[^c-f88b7acfe3f8feac491ccb1ff3a3488a] In Schedule 5 (matters not subject to investigation), in paragraphs 2, 6, 7 and 8, after “taken by” insert “ or on behalf of ”.
 
 ### Part 2 — Other amendments
 
 #### Parliamentary Commissioner Act 1967 (c. 13)
 
-**13.**[^key-d57b0575ac0554e97b67925b1c0e3bc0] (1) The Parliamentary Commissioner Act 1967 is amended as follows.
+**13.**[^c-d57b0575ac0554e97b67925b1c0e3bc0] (1) The Parliamentary Commissioner Act 1967 is amended as follows.
 
 (2) In section 3(2A) (administrative provisions) for “any officer or member of staff of the Commission for Local Administration in England” substitute “ any person discharging or assisting in the discharge of a function of a Local Commissioner, but only if the person is ”.
 
@@ -229,7 +229,7 @@ Section 182
 
 #### Local Government and Housing Act 1989 (c. 42)
 
-**14.**[^key-27cbda5eb6feb37bc4525ca07e456a5d] (1) The Local Government and Housing Act 1989 is amended as follows.
+**14.**[^c-27cbda5eb6feb37bc4525ca07e456a5d] (1) The Local Government and Housing Act 1989 is amended as follows.
 
 (2) In section 5 (reports of monitoring officer), in subsection (2)—
 
@@ -244,7 +244,7 @@ Section 182
 
 #### Health Service Commissioners Act 1993 (c. 46)
 
-**15.**[^key-352262aff96134cd33e4ef1693786f4e] (1) The Health Service Commissioners Act 1993 is amended as follows.
+**15.**[^c-352262aff96134cd33e4ef1693786f4e] (1) The Health Service Commissioners Act 1993 is amended as follows.
 
 (2) In section 15 (confidentiality of information), in subsection (1)(aa) for “a complaint” substitute “ a matter ”.
 
@@ -276,50 +276,50 @@ Section 182
 
 #### Greater London Authority Act 1999 (c. 29)
 
-**16.**[^key-6e591e26094d623af79aca07fe9f46bf] In section 73(6) of the Greater London Authority Act 1999 (monitoring officer), for “injustice” substitute “ failure ”.
+**16.**[^c-6e591e26094d623af79aca07fe9f46bf] In section 73(6) of the Greater London Authority Act 1999 (monitoring officer), for “injustice” substitute “ failure ”.
 
 #### Local Government Act 2000 (c. 22)
 
-**17.**[^key-843ceb2720ba8fc140b84324619b7c92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-843ceb2720ba8fc140b84324619b7c92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
 
-**18.**[^key-b8674c1d316a0076356659b8fbc14699] In section 114 of the Health and Social Care (Community Health and Standards) Act 2003 (complaints about social services), in subsection (5)(a) for “(and to be treated as if it had been duly made under section 26 of that Act)” substitute “ (and for the complaint to be treated as satisfying sections 26A and 26B of that Act) ”.
+**18.**[^c-b8674c1d316a0076356659b8fbc14699] In section 114 of the Health and Social Care (Community Health and Standards) Act 2003 (complaints about social services), in subsection (5)(a) for “(and to be treated as if it had been duly made under section 26 of that Act)” substitute “ (and for the complaint to be treated as satisfying sections 26A and 26B of that Act) ”.
 
 ## Annotations
 
-[^key-e1823399acfe44a5564ff740a9e441dd]: Commencement: Sch. 12 para. 1 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-e1823399acfe44a5564ff740a9e441dd]: Commencement: Sch. 12 para. 1 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-7146ce97a2d050d6fb97055982e86c11]: Commencement: Sch. 12 para. 2 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-7146ce97a2d050d6fb97055982e86c11]: Commencement: Sch. 12 para. 2 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-784118f96b0aeaac116aa1e27fc9db46]: Commencement: Sch. 12 para. 3 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-784118f96b0aeaac116aa1e27fc9db46]: Commencement: Sch. 12 para. 3 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-77bed1f750d7d2db89d0abb511ed7f76]: Commencement: Sch. 12 para. 4 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-77bed1f750d7d2db89d0abb511ed7f76]: Commencement: Sch. 12 para. 4 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-3bd8c5bb45b52e3471a1033a0d8344cf]: Commencement: Sch. 12 para. 5 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-3bd8c5bb45b52e3471a1033a0d8344cf]: Commencement: Sch. 12 para. 5 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-2fa49fd97aed2ead3ec7c6fae134aebf]: Commencement: Sch. 12 para. 6 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-2fa49fd97aed2ead3ec7c6fae134aebf]: Commencement: Sch. 12 para. 6 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-dce42c0de4b9d1f1c50b9eb0850afc32]: Commencement: Sch. 12 para. 7 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-dce42c0de4b9d1f1c50b9eb0850afc32]: Commencement: Sch. 12 para. 7 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-b1fe5ac9e0e9506ccfa8cd550033460b]: Commencement: Sch. 12 para. 8 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-b1fe5ac9e0e9506ccfa8cd550033460b]: Commencement: Sch. 12 para. 8 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-1d1c1a14fa47724447f224866ea31b7f]: Commencement: Sch. 12 para. 9 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-1d1c1a14fa47724447f224866ea31b7f]: Commencement: Sch. 12 para. 9 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-ff955679a406232dd39556c3af84e837]: Commencement: Sch. 12 para. 10 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-ff955679a406232dd39556c3af84e837]: Commencement: Sch. 12 para. 10 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-70171c4db45e003aba6c4cf7c1d4baad]: Commencement: Sch. 12 para. 11 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-70171c4db45e003aba6c4cf7c1d4baad]: Commencement: Sch. 12 para. 11 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-f88b7acfe3f8feac491ccb1ff3a3488a]: Commencement: Sch. 12 para. 12 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-f88b7acfe3f8feac491ccb1ff3a3488a]: Commencement: Sch. 12 para. 12 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-d57b0575ac0554e97b67925b1c0e3bc0]: Commencement: Sch. 12 para. 13 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-d57b0575ac0554e97b67925b1c0e3bc0]: Commencement: Sch. 12 para. 13 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-27cbda5eb6feb37bc4525ca07e456a5d]: Commencement: Sch. 12 para. 14 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-27cbda5eb6feb37bc4525ca07e456a5d]: Commencement: Sch. 12 para. 14 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-352262aff96134cd33e4ef1693786f4e]: Commencement: Sch. 12 para. 15 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-352262aff96134cd33e4ef1693786f4e]: Commencement: Sch. 12 para. 15 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-6e591e26094d623af79aca07fe9f46bf]: Commencement: Sch. 12 para. 16 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-6e591e26094d623af79aca07fe9f46bf]: Commencement: Sch. 12 para. 16 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
 
-[^key-843ceb2720ba8fc140b84324619b7c92]: Textual amendment: Sch. 12 para. 17 repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
+[^c-843ceb2720ba8fc140b84324619b7c92]: Textual amendment: Sch. 12 para. 17 repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
 
-[^key-b8674c1d316a0076356659b8fbc14699]: Commencement: Sch. 12 para. 18 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-b8674c1d316a0076356659b8fbc14699]: Commencement: Sch. 12 para. 18 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/n) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

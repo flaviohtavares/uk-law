@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280C. The permitted maximum age condition[^key-05d3afc148a0797ee3c651c7097e4b85]
+## 280C. The permitted maximum age condition[^c-05d3afc148a0797ee3c651c7097e4b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) “**The initial investing period**” means—
 
-- (a) where the relevant company is a knowledge-intensive company on the investment date, the period of 10 years beginning with—[^key-5c3397adcc3c67686a4c2e592d0b4c5e]
+- (a) where the relevant company is a knowledge-intensive company on the investment date, the period of 10 years beginning with—[^c-5c3397adcc3c67686a4c2e592d0b4c5e]
   - (i) the relevant first commercial sale, or
   - (ii) if the relevant company so elects, the date by reference to which that company is treated as reaching an annual turnover of £200,000 (see section 331B), and
 - (b) in any other case, the period of 7 years beginning with that sale.
@@ -66,16 +66,16 @@ summary: ''
 - (e) the first commercial sale made by any person who previously (at any time) carried on a trade which was subsequently carried on by a company mentioned in paragraph (d) (including a trade carried on by such a company before it became such a subsidiary);
 - (f) if the money raised by the current investment or any part of it is employed for the purposes of a trade which has been transferred after the investment date to the relevant company or a 51% subsidiary of that company (or to a partnership of which the relevant company or such a subsidiary is a member), having previously been carried on (at any time) by another person, the first commercial sale made by that other person.
 
-(8) “**The average turnover amount**” means one fifth of the total relevant turnover amount for the relevant five year period.[^key-6eb0efaa0175a9fa7b04bd5fd3f9e70f]
+(8) “**The average turnover amount**” means one fifth of the total relevant turnover amount for the relevant five year period.[^c-6eb0efaa0175a9fa7b04bd5fd3f9e70f]
 
-(8A)[^key-7850dba50fda6128d7545d2de5fbc759] Subject to subsection (8B), the relevant five year period is the five year period which ends immediately before the beginning of the last accounts filing period.
+(8A)[^c-7850dba50fda6128d7545d2de5fbc759] Subject to subsection (8B), the relevant five year period is the five year period which ends immediately before the beginning of the last accounts filing period.
 
 (8B) If the last accounts filing period ends more than 12 months before the investment date, the relevant five year period is the five year period which ends 12 months before the investment date.
 
 (9) In this section—
 
-- “**entering a new product or geographical market**” has the same meaning as in Commission Regulation (EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^key-4a0f681b40e8eda7d2e300690a4a685d];
-- “**first commercial sale**” has the same meaning as in the European Commission's Guidelines on State aid to promote risk finance investments (as those guidelines had effect in the United Kingdom immediately before IP completion day)[^key-55188014e853b860f5d8779159e34e58];
+- “**entering a new product or geographical market**” has the same meaning as in Commission Regulation (EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^c-4a0f681b40e8eda7d2e300690a4a685d];
+- “**first commercial sale**” has the same meaning as in the European Commission's Guidelines on State aid to promote risk finance investments (as those guidelines had effect in the United Kingdom immediately before IP completion day)[^c-55188014e853b860f5d8779159e34e58];
 - “**the investment date**” means the day on which the current investment is made;
 - “**the last accounts filing period**” means the last period for filing (within the meaning of section 442 of the Companies Act 2006) for the relevant company which ends before the date on which the current investment is made;
 - “**relevant investment**” has the meaning given by section 280B(4) (and section 280B(5) and (6) apply for the purposes of this section as they apply for section 280B(2) to (3E));
@@ -99,14 +99,14 @@ and section 280B(8) and (9) (meaning of “trade” etc) applies for the purpose
 
 ## Annotations
 
-[^key-05d3afc148a0797ee3c651c7097e4b85]: Textual amendment: Ss. 280C, 280D inserted (with effect in accordance with Sch. 6 para. 23(1) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/5)
+[^c-05d3afc148a0797ee3c651c7097e4b85]: Textual amendment: Ss. 280C, 280D inserted (with effect in accordance with Sch. 6 para. 23(1) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/5)
 
-[^key-5c3397adcc3c67686a4c2e592d0b4c5e]: Textual amendment: Words in s. 280C(3)(a) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/7), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-5c3397adcc3c67686a4c2e592d0b4c5e]: Textual amendment: Words in s. 280C(3)(a) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/7), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
 
-[^key-6eb0efaa0175a9fa7b04bd5fd3f9e70f]: Textual amendment: Words in s. 280C(8) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/3/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-6eb0efaa0175a9fa7b04bd5fd3f9e70f]: Textual amendment: Words in s. 280C(8) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/3/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
 
-[^key-7850dba50fda6128d7545d2de5fbc759]: Textual amendment: S. 280C(8A)(8B) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/3/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-7850dba50fda6128d7545d2de5fbc759]: Textual amendment: S. 280C(8A)(8B) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/3/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
 
-[^key-4a0f681b40e8eda7d2e300690a4a685d]: Textual amendment: Words in [s. 280C(9)](https://www.legislation.gov.uk/ukpga/2007/3/section/280C/9) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(9)(a)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/9/a)
+[^c-4a0f681b40e8eda7d2e300690a4a685d]: Textual amendment: Words in [s. 280C(9)](https://www.legislation.gov.uk/ukpga/2007/3/section/280C/9) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(9)(a)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/9/a)
 
-[^key-55188014e853b860f5d8779159e34e58]: Textual amendment: Words in [s. 280C(9)](https://www.legislation.gov.uk/ukpga/2007/3/section/280C/9) substituted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(9)(b)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/9/b)
+[^c-55188014e853b860f5d8779159e34e58]: Textual amendment: Words in [s. 280C(9)](https://www.legislation.gov.uk/ukpga/2007/3/section/280C/9) substituted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(9)(b)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/9/b)

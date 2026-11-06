@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Armed forces covenant report[^key-1bc52e487a9c6dc5dad52d50bc505cde]
+## 2. Armed forces covenant report[^c-1bc52e487a9c6dc5dad52d50bc505cde]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ After section 343 of AFA 2006 insert—
 
 ## Annotations
 
-[^key-1bc52e487a9c6dc5dad52d50bc505cde]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-1bc52e487a9c6dc5dad52d50bc505cde]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

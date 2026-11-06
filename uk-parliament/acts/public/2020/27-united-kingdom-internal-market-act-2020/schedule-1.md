@@ -24,7 +24,7 @@ Section 10
 
 ### Threats to human, animal or plant health
 
-**1.**[^key-dffbc154752fda4d220e91bfcfc4c7ce] (1) The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) legislation so far as it satisfies the conditions set out in this paragraph.
+**1.**[^c-dffbc154752fda4d220e91bfcfc4c7ce] (1) The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) legislation so far as it satisfies the conditions set out in this paragraph.
 
 (2) The first condition is that the aim of the legislation is to prevent or reduce the movement of a pest or disease into the part of the United Kingdom in which the legislation applies (“the restricting part”) from another part of the United Kingdom (“the affected part”).
 
@@ -46,7 +46,7 @@ Section 10
 
 (8) In this paragraph “**pest or disease**” includes any organism or agent that is liable to cause a disease or other harm to the health of humans, animals or plants.
 
-**2.**[^key-41893203a56184e7d2ee947709299386] (1) The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of) legislation so far as it satisfies the conditions set out in this paragraph.
+**2.**[^c-41893203a56184e7d2ee947709299386] (1) The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of) legislation so far as it satisfies the conditions set out in this paragraph.
 
 (2) The first condition is that the aim of the legislation is to prevent or reduce the movement of unsafe food or feed into the part of the United Kingdom in which the legislation applies (“the restricting part”) from another part of the United Kingdom (“the affected part”).
 
@@ -69,9 +69,9 @@ Section 10
   - (b) in relation to feed, means “unsafe for its intended use” within the meaning given by Article 15(2) of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178);
 - “**Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)**” means Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law (etc), as it forms part of retained EU law on IP completion day.
 
-**3.**[^key-f192545ca0c3e67d1b967b87637bfe4b] Where a decision is taken to exercise powers conferred by legislation in a particular way for the purpose referred to in paragraph 1(2) or 2(2), references to “legislation” in paragraph 1 or 2 (except in paragraph 1(1) or 2(1)) are to be read as references to the use of the legislation in that way.
+**3.**[^c-f192545ca0c3e67d1b967b87637bfe4b] Where a decision is taken to exercise powers conferred by legislation in a particular way for the purpose referred to in paragraph 1(2) or 2(2), references to “legislation” in paragraph 1 or 2 (except in paragraph 1(1) or 2(1)) are to be read as references to the use of the legislation in that way.
 
-**4.**[^key-946e0363a803986806032f75dca73f26] (1) In paragraphs 1 and 2, “responsible administration” is to be interpreted in accordance with sub-paragraphs (2) to (5).
+**4.**[^c-946e0363a803986806032f75dca73f26] (1) In paragraphs 1 and 2, “responsible administration” is to be interpreted in accordance with sub-paragraphs (2) to (5).
 
 (2) The responsible administration is the Scottish Ministers if—
 
@@ -99,7 +99,7 @@ Section 10
 
 (6) In paragraphs 1 and 2, “**the other administrations**” means each of the Scottish Ministers, the Welsh Ministers, a Northern Ireland department and the Secretary of State, other than the responsible administration.
 
-**5.**[^key-2f4c03175bd947819dab14fc08414422] (1) A relevant requirement is not to be taken to directly discriminate against incoming goods for the purposes of section 7 to the extent that it can reasonably be justified as a response to a public health emergency.
+**5.**[^c-2f4c03175bd947819dab14fc08414422] (1) A relevant requirement is not to be taken to directly discriminate against incoming goods for the purposes of section 7 to the extent that it can reasonably be justified as a response to a public health emergency.
 
 (2) In this paragraph—
 
@@ -108,37 +108,37 @@ Section 10
 
 ### Chemicals
 
-**6.**[^key-62e65353163c2bedfa221df963253248] An authorisation under Chapter 2 of Title 7 of the REACH Regulation is to be disregarded in determining (for the purposes of the mutual recognition principle for goods) whether goods can be sold as mentioned in section 2(1)(b).
+**6.**[^c-62e65353163c2bedfa221df963253248] An authorisation under Chapter 2 of Title 7 of the REACH Regulation is to be disregarded in determining (for the purposes of the mutual recognition principle for goods) whether goods can be sold as mentioned in section 2(1)(b).
 
-**7.**[^key-2d946a7118c2486309f1c29f31db3a4e] The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of)—
+**7.**[^c-2d946a7118c2486309f1c29f31db3a4e] The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of)—
 
 - (a) Article 67 of the REACH Regulation, or
 - (b) a restriction imposed in accordance with Article 129 of that Regulation.
 
-**8.**[^key-e420bd14139e367376d20941c3cbf843] In paragraphs 6 and 7, “**the REACH Regulation**” means Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (etc), as it forms part of assimilated[^key-6d2bd731ba7300c7dc95e08ce9093c86] law.
+**8.**[^c-e420bd14139e367376d20941c3cbf843] In paragraphs 6 and 7, “**the REACH Regulation**” means Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (etc), as it forms part of assimilated[^c-6d2bd731ba7300c7dc95e08ce9093c86] law.
 
 ### Fertilisers and pesticides
 
-**9.**[^key-be349125d61094f37c218fe17525a90f] The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of) any of the following—
+**9.**[^c-be349125d61094f37c218fe17525a90f] The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of) any of the following—
 
-- (a) a prohibition or condition imposed in accordance with Article 15(1) of Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and of the Council of 13 October 2003 relating to fertilisers, as it forms part of assimilated[^key-7c381512f5c3df864449848e4fe0db09] law;
+- (a) a prohibition or condition imposed in accordance with Article 15(1) of Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and of the Council of 13 October 2003 relating to fertilisers, as it forms part of assimilated[^c-7c381512f5c3df864449848e4fe0db09] law;
 - (b) regulations under section 74A(1) of the Agriculture Act 1970, to the extent that such regulations can reasonably be justified as a response to a risk to—
   - (i) the health or safety of humans, animals or plants, or
   - (ii) the environment.
 
-**10.**[^key-685d1b357b5dfe36f664518ed5e54fce] The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of) any of the following—
+**10.**[^c-685d1b357b5dfe36f664518ed5e54fce] The mutual recognition principle for goods does not apply to (and section 2(3) does not affect the operation of) any of the following—
 
-- (a) Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market (etc), as it forms part of assimilated[^key-19302fe55ea13fc6952c07fdef36f642] law;
+- (a) Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market (etc), as it forms part of assimilated[^c-19302fe55ea13fc6952c07fdef36f642] law;
 - (b) the Plant Protection Products Regulations 2011 (S.I. 2011/2131);
 - (c) the Plant Protection Products Regulations (Northern Ireland) 2011 (S.R. (N.I.) 2011 No. 295).
 
 ### Taxation
 
-**11.**[^key-33935ec9ec6abb4594461f1365691abd] The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) any legislation so far as it imposes, or relates to the imposition of, any tax, rate, duty or similar charge.
+**11.**[^c-33935ec9ec6abb4594461f1365691abd] The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) any legislation so far as it imposes, or relates to the imposition of, any tax, rate, duty or similar charge.
 
 ### Provision having effect in more than one part of the United Kingdom
 
-**12.**[^key-3d13c5868e32e9d8f2b3ea33c154933a] (1) A relevant requirement is not to be taken indirectly to discriminate against goods for the purposes of section 8 if—
+**12.**[^c-3d13c5868e32e9d8f2b3ea33c154933a] (1) A relevant requirement is not to be taken indirectly to discriminate against goods for the purposes of section 8 if—
 
 - (a) it is statutory provision contained in, or in subordinate legislation made under, an Act of Parliament,
 - (b) the same, or substantially the same, statutory provision applies in the originating part,
@@ -149,7 +149,7 @@ Section 10
 
 (2) In sub-paragraph (1), “relevant requirement”, “**statutory provision**”, “**originating part**” and “**destination part**” have the meanings they have in relation to the non-discrimination principle for goods (see sections 5 and 6).
 
-### Single-use plastic items[^key-86c9445040830ed1e8218e09ad0e88ca]
+### Single-use plastic items[^c-86c9445040830ed1e8218e09ad0e88ca]
 
 **13.** (1) The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) legislation so far as it prohibits the sale of—
 
@@ -166,7 +166,7 @@ Section 10
 - (a) a “single-use” item means an item which is not designed or intended to be re-used;
 - (b) a “single-use plastic” item means a single-use item which is made wholly or partly from plastic.
 
-### Glue traps[^key-0f4add82dbd54263224dab54e6d673a2]
+### Glue traps[^c-0f4add82dbd54263224dab54e6d673a2]
 
 **14.** (1) The United Kingdom market access principles do not apply to (and sections 2(3) and 5(3) do not affect the operation of) legislation so far as it prohibits the sale of glue traps.
 
@@ -174,36 +174,36 @@ Section 10
 
 ## Annotations
 
-[^key-dffbc154752fda4d220e91bfcfc4c7ce]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-dffbc154752fda4d220e91bfcfc4c7ce]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-41893203a56184e7d2ee947709299386]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-41893203a56184e7d2ee947709299386]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-f192545ca0c3e67d1b967b87637bfe4b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-f192545ca0c3e67d1b967b87637bfe4b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-946e0363a803986806032f75dca73f26]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-946e0363a803986806032f75dca73f26]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-2f4c03175bd947819dab14fc08414422]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-2f4c03175bd947819dab14fc08414422]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-62e65353163c2bedfa221df963253248]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-62e65353163c2bedfa221df963253248]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-2d946a7118c2486309f1c29f31db3a4e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-2d946a7118c2486309f1c29f31db3a4e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-e420bd14139e367376d20941c3cbf843]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-e420bd14139e367376d20941c3cbf843]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-6d2bd731ba7300c7dc95e08ce9093c86]: Textual amendment: Word in [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 96(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/96/3)
+[^c-6d2bd731ba7300c7dc95e08ce9093c86]: Textual amendment: Word in [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 96(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/96/3)
 
-[^key-be349125d61094f37c218fe17525a90f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/9) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-be349125d61094f37c218fe17525a90f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/9) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-7c381512f5c3df864449848e4fe0db09]: Textual amendment: Word in [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 96(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/96/3)
+[^c-7c381512f5c3df864449848e4fe0db09]: Textual amendment: Word in [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 96(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/96/3)
 
-[^key-685d1b357b5dfe36f664518ed5e54fce]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-685d1b357b5dfe36f664518ed5e54fce]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-19302fe55ea13fc6952c07fdef36f642]: Textual amendment: Word in [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 96(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/96/3)
+[^c-19302fe55ea13fc6952c07fdef36f642]: Textual amendment: Word in [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 96(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/96/3)
 
-[^key-33935ec9ec6abb4594461f1365691abd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/11) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-33935ec9ec6abb4594461f1365691abd]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/11) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-3d13c5868e32e9d8f2b3ea33c154933a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/12) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
+[^c-3d13c5868e32e9d8f2b3ea33c154933a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/12) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/p)
 
-[^key-86c9445040830ed1e8218e09ad0e88ca]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/13) and cross-heading inserted (11.8.2022) by [The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022 (S.I. 2022/857)](https://www.legislation.gov.uk/uksi/2022/857), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/857/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/857/regulation/2)
+[^c-86c9445040830ed1e8218e09ad0e88ca]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2020/27/schedule/1/paragraph/13) and cross-heading inserted (11.8.2022) by [The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Single-Use Plastics) Regulations 2022 (S.I. 2022/857)](https://www.legislation.gov.uk/uksi/2022/857), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/857/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/857/regulation/2)
 
-[^key-0f4add82dbd54263224dab54e6d673a2]: Textual amendment: Sch. 1 para. 14 and cross-heading inserted (19.2.2026) by [The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Glue Traps) Regulations 2026 (S.I. 2026/79)](https://www.legislation.gov.uk/uksi/2026/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/79/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/79/regulation/2)
+[^c-0f4add82dbd54263224dab54e6d673a2]: Textual amendment: Sch. 1 para. 14 and cross-heading inserted (19.2.2026) by [The United Kingdom Internal Market Act 2020 (Exclusions from Market Access Principles: Glue Traps) Regulations 2026 (S.I. 2026/79)](https://www.legislation.gov.uk/uksi/2026/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/79/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/79/regulation/2)

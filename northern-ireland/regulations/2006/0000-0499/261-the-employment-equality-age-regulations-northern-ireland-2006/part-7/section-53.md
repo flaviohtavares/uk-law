@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Amendments, transitionals, repeals and revocations[^key-2d42033fc2582f89258291bf8a42ea1d]
+## 53. Amendments, transitionals, repeals and revocations[^c-2d42033fc2582f89258291bf8a42ea1d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d42033fc2582f89258291bf8a42ea1d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2006/261/regulation/53) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-2d42033fc2582f89258291bf8a42ea1d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2006/261/regulation/53) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

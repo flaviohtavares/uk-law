@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Nominations which also apply to stock held in the books of the Bank of England[^key-33d9b90a27e15b01c85461b0f5430e0c]
+## 86. Nominations which also apply to stock held in the books of the Bank of England[^c-33d9b90a27e15b01c85461b0f5430e0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-33d9b90a27e15b01c85461b0f5430e0c]: Commencement: Reg. 86 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-33d9b90a27e15b01c85461b0f5430e0c]: Commencement: Reg. 86 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446); article 18 was amended by [S.I. 2004/1662](https://www.legislation.gov.uk/uksi/2004/1662).
 

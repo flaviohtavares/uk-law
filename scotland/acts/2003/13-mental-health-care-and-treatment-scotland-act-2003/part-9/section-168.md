@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 168. Interim extension etc. of order: application under section 149 or 158[^key-33c44cae2634b4c32900b27a2aee9797][^key-af1ab07e45a512f4d903192aab44c820]
+## 168. Interim extension etc. of order: application under section 149 or 158[^c-33c44cae2634b4c32900b27a2aee9797][^c-af1ab07e45a512f4d903192aab44c820]
 
 *Extent: S*
 
-(1) This section applies where an application is made under section 149 or 158[^key-de6d61669498444fa6a99ecf8892559e] of this Act.
+(1) This section applies where an application is made under section 149 or 158[^c-de6d61669498444fa6a99ecf8892559e] of this Act.
 
 (2) Subject to section 170 of this Act, on the application of any person having an interest in the proceedings, or *ex proprio motu*, the Tribunal may, if it considers—
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-33c44cae2634b4c32900b27a2aee9797]: Commencement: S. 168 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-33c44cae2634b4c32900b27a2aee9797]: Commencement: S. 168 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-af1ab07e45a512f4d903192aab44c820]: Textual amendment: Words in s. 168 inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(16)(a)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/16/a)
+[^c-af1ab07e45a512f4d903192aab44c820]: Textual amendment: Words in s. 168 inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(16)(a)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/16/a)
 
-[^key-de6d61669498444fa6a99ecf8892559e]: Textual amendment: Words in s. 168(1) inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(16)(b)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/16/b)
+[^c-de6d61669498444fa6a99ecf8892559e]: Textual amendment: Words in s. 168(1) inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(16)(b)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/16/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 521D. Excepted shares[^key-596eba3b2e03b2e5eb5b680e98204f9d]
+## 521D. Excepted shares[^c-596eba3b2e03b2e5eb5b680e98204f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,10 +43,10 @@ summary: ''
 - (b) company A, companies BB and companies CC are associated companies (see subsection (5)), and
 - (c) the total nominal value of the second-level mirroring shares does not exceed the nominal value of the public issue.
 
-(5) For the purposes of subsections (3) and (4) companies are associated companies if they are members of the same group of companies for the purposes of Part 5 of CTA 2010 (group relief) (see section 152 of that Act)[^key-c136dda5a03d4de030567f7875674ea7].
+(5) For the purposes of subsections (3) and (4) companies are associated companies if they are members of the same group of companies for the purposes of Part 5 of CTA 2010 (group relief) (see section 152 of that Act)[^c-c136dda5a03d4de030567f7875674ea7].
 
 ## Annotations
 
-[^key-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
 
-[^key-c136dda5a03d4de030567f7875674ea7]: Textual amendment: Words in s. 521D(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 634](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/634) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c136dda5a03d4de030567f7875674ea7]: Textual amendment: Words in s. 521D(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 634](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/634) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

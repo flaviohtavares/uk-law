@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Competent authorities for receipt of information[^key-5bd11cb781657634eaea581f52665638]
+## 228. Competent authorities for receipt of information[^c-5bd11cb781657634eaea581f52665638]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ For paragraphs (e) to (l) of section 54(5) of the Criminal Justice (Scotland) Ac
 
 ## Annotations
 
-[^key-5bd11cb781657634eaea581f52665638]: Commencement: Art. 228 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5bd11cb781657634eaea581f52665638]: Commencement: Art. 228 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

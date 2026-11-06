@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Short title, commencement and extent.[^key-41d51d73513612c4bb2242a1fc834e59]
+## 194. Short title, commencement and extent.[^c-41d51d73513612c4bb2242a1fc834e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-41d51d73513612c4bb2242a1fc834e59]: Modification: S. 194 applied (Isles of Scilly) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/d)
+[^c-41d51d73513612c4bb2242a1fc834e59]: Modification: S. 194 applied (Isles of Scilly) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/d)
 
 [^c3800181]: Marginal citation: [1951 c. 26](https://www.legislation.gov.uk/ukpga/1951/26).
 

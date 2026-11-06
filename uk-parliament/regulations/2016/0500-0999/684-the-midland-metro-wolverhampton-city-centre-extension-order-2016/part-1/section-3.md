@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Incorporation of the Railways Clauses Consolidation Act 1845[^key-d113c283c14419e4405110529312d5d3]
+## 3. Incorporation of the Railways Clauses Consolidation Act 1845[^c-d113c283c14419e4405110529312d5d3]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d113c283c14419e4405110529312d5d3]: Commencement: Art. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-d113c283c14419e4405110529312d5d3]: Commencement: Art. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00013]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 

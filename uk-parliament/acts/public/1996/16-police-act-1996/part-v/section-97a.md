@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Power to amend section 97[^key-ce668fede4f5bd693ea9b67636c62df3]
+## 97A. Power to amend section 97[^c-ce668fede4f5bd693ea9b67636c62df3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce668fede4f5bd693ea9b67636c62df3]: Textual amendment: S. 97A inserted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/10/1), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/125/article/2/a)
+[^c-ce668fede4f5bd693ea9b67636c62df3]: Textual amendment: S. 97A inserted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/10/1), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/125/article/2/a)

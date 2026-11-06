@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 278. Compensation to individuals for damage resulting from exercise of powers under Act.[^key-e78afea88d03d4ec7e67c722cdc65870][^key-a14ce3aaadd142ccb34364ed9d1132ac][^key-a28fc1143fa7f63332386c45d128200e][^c611736]
+## 278. Compensation to individuals for damage resulting from exercise of powers under Act.[^c-e78afea88d03d4ec7e67c722cdc65870][^c-a14ce3aaadd142ccb34364ed9d1132ac][^c-a28fc1143fa7f63332386c45d128200e][^c611736]
 
 *Extent: E+W*
 
@@ -32,11 +32,11 @@ Provided that, if the compensation claimed does not exceed fifty pounds, all que
 
 ## Annotations
 
-[^key-e78afea88d03d4ec7e67c722cdc65870]: Modification: S. 278 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
+[^c-e78afea88d03d4ec7e67c722cdc65870]: Modification: S. 278 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
 
-[^key-a14ce3aaadd142ccb34364ed9d1132ac]: Modification: S. 278 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
+[^c-a14ce3aaadd142ccb34364ed9d1132ac]: Modification: S. 278 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
 
-[^key-a28fc1143fa7f63332386c45d128200e]: Modification: S. 278 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
+[^c-a28fc1143fa7f63332386c45d128200e]: Modification: S. 278 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
 
 [^c611736]: Modification: S. 278 amended by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 69](https://www.legislation.gov.uk/ukpga/1989/15/section/69), [Sch. 8 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/8/paragraph/1/2/b) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [13(3)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/13/3), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58))
 

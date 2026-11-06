@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Prohibition of management, etc. of aerodromes by CAA[^key-41eb9bc30469d3244221cf6b893ef040]
+## 28. Prohibition of management, etc. of aerodromes by CAA[^c-41eb9bc30469d3244221cf6b893ef040]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The CAA may not own, manage or operate an aerodrome.
 
 ## Annotations
 
-[^key-41eb9bc30469d3244221cf6b893ef040]: Textual amendment: S. 28 substituted (10.11.2011) by [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [29(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/29/1)
+[^c-41eb9bc30469d3244221cf6b893ef040]: Textual amendment: S. 28 substituted (10.11.2011) by [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [29(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/29/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Sharing of information between councils[^key-a7cb5b6b2b54362d113af7f7e88c6b0f]
+## 74. Sharing of information between councils[^c-a7cb5b6b2b54362d113af7f7e88c6b0f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cb5b6b2b54362d113af7f7e88c6b0f]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2016/22/section/74) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a7cb5b6b2b54362d113af7f7e88c6b0f]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2016/22/section/74) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 9(2)
 
-**1.** The number of the EU- *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-dc1a6c657b500352c54a6593e8157a87]type examination certificate, where appropriate.
+**1.** The number of the EU- *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-dc1a6c657b500352c54a6593e8157a87]type examination certificate, where appropriate.
 
 **2.** The manufacturer's name, registered trade name or registered trade mark.
 
@@ -49,7 +49,7 @@ Regulation 9(2)
 
 *Extent: E+W+S*
 
-**9.**[^M_E_9e6ebb91-b049-4445-c835-29b0890230f6] The requirements of points 1.2 to 1.5 of Schedule 8[^key-02d0370cd3de011d47b1808cc2d4427c] must be complied with.
+**9.**[^M_E_9e6ebb91-b049-4445-c835-29b0890230f6] The requirements of points 1.2 to 1.5 of Schedule 8[^c-02d0370cd3de011d47b1808cc2d4427c] must be complied with.
 
 *Extent: N.I.*
 
@@ -57,10 +57,10 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-dc1a6c657b500352c54a6593e8157a87]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/1152/schedule/1/paragraph/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 41(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/41/a) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc1a6c657b500352c54a6593e8157a87]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/1152/schedule/1/paragraph/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 41(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/41/a) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_9e6ebb91-b049-4445-c835-29b0890230f6]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-02d0370cd3de011d47b1808cc2d4427c]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/1152/schedule/1/paragraph/9) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 41(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/41/b) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02d0370cd3de011d47b1808cc2d4427c]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/1152/schedule/1/paragraph/9) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 41(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/41/b) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_0144290a-79ad-4625-ba6c-390e4927bd31]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

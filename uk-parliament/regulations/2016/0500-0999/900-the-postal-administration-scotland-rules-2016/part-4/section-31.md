@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Hire-purchase, conditional sale and hiring agreements[^key-0c6fe2616abab62be4a0e4510d5614a1]
+## 31. Hire-purchase, conditional sale and hiring agreements[^c-0c6fe2616abab62be4a0e4510d5614a1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c6fe2616abab62be4a0e4510d5614a1]: Commencement: Rule 31 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-0c6fe2616abab62be4a0e4510d5614a1]: Commencement: Rule 31 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

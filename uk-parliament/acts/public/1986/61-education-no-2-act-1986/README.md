@@ -33,7 +33,7 @@ An Act to amend the law relating to education.
 
 \[7th November 1986\]
 
-[^c4596141][^c4596151][^c4596161][^c4596171][^c4596181][^c4596191][^c4596201][^c4596211]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a23c6281b04fbe587e1a13a9050c9dd4][^key-a810d9b41c6012a8d75a44a2fc48b087][^key-9904bfc987441c1007540c268c6e0ed1]
+[^c4596141][^c4596151][^c4596161][^c4596171][^c4596181][^c4596191][^c4596201][^c4596211]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a23c6281b04fbe587e1a13a9050c9dd4][^c-a810d9b41c6012a8d75a44a2fc48b087][^c-9904bfc987441c1007540c268c6e0ed1]
 
 ## Contents
 
@@ -264,11 +264,11 @@ SCHEDULES
 
 [^c4596211]: Modification: Act applied (1.6.2001) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 art. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/article/2)
 
-[^key-a23c6281b04fbe587e1a13a9050c9dd4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/61) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-a23c6281b04fbe587e1a13a9050c9dd4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/61) applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-a810d9b41c6012a8d75a44a2fc48b087]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/61) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-a810d9b41c6012a8d75a44a2fc48b087]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/61) modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-9904bfc987441c1007540c268c6e0ed1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/61) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-9904bfc987441c1007540c268c6e0ed1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/61) Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
 [^c4596221]: Textual amendment: [Ss. 1-42](https://www.legislation.gov.uk/ukpga/1986/61/section/1) (Pts. I-III) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I), [Sch.39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
 

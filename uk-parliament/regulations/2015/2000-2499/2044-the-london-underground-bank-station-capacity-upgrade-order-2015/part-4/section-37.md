@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Planning permission[^key-863389ecfe28838cbf4e528ff26d1311]
+## 37. Planning permission[^c-863389ecfe28838cbf4e528ff26d1311]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Planning permission which is deemed by a direction under section 90(2A)[^f00044]
 
 ## Annotations
 
-[^key-863389ecfe28838cbf4e528ff26d1311]: Commencement: Art. 37 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-863389ecfe28838cbf4e528ff26d1311]: Commencement: Art. 37 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00044]: Footnote: Section 90(2A) was inserted by section 16(1) of the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).

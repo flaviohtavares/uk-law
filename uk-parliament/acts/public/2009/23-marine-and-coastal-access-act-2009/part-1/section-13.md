@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Safety zones: functions under section 95 of the Energy Act 2004[^key-0ac7f62103a0420bf1dedc56f212e7e4]
+## 13. Safety zones: functions under section 95 of the Energy Act 2004[^c-0ac7f62103a0420bf1dedc56f212e7e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 
 (3) The renewable energy installation must be in waters subject to regulation under section 95 of the Energy Act 2004, other than—
 
-- (a) any area of Scottish waters,[^key-b36be71ba82fd6b5c1a30247fcaa4c24]...
+- (a) any area of Scottish waters,[^c-b36be71ba82fd6b5c1a30247fcaa4c24]...
 - (b) any area of waters in a Scottish part of a Renewable Energy Zone.
-- (c)[^key-3224236c9baa9cfedb2fdc8559a33a28] any area of the Welsh inshore region, or
+- (c)[^c-3224236c9baa9cfedb2fdc8559a33a28] any area of the Welsh inshore region, or
 - (d) any area of the Welsh offshore region.
 
 (4) The renewable energy installation must have a capacity such that the construction or extension of the installation would not be a nationally significant infrastructure project (within the meaning given by sections 14 and 15 of the Planning Act 2008 (c. 29)).
@@ -63,8 +63,8 @@ but this is subject to the exceptions in subsection (6).
 
 ## Annotations
 
-[^key-0ac7f62103a0420bf1dedc56f212e7e4]: Commencement: S. 13 in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/5) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/298/article/4/2))
+[^c-0ac7f62103a0420bf1dedc56f212e7e4]: Commencement: S. 13 in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/5) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/298/article/4/2))
 
-[^key-b36be71ba82fd6b5c1a30247fcaa4c24]: Textual amendment: Word in [s. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2009/23/section/13/3/a) omitted (1.4.2019) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 78(a)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/78/a) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/b)
+[^c-b36be71ba82fd6b5c1a30247fcaa4c24]: Textual amendment: Word in [s. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2009/23/section/13/3/a) omitted (1.4.2019) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 78(a)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/78/a) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/b)
 
-[^key-3224236c9baa9cfedb2fdc8559a33a28]: Textual amendment: [S. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/13/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/13/3/d) inserted (1.4.2019) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 78(b)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/78/b) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/b)
+[^c-3224236c9baa9cfedb2fdc8559a33a28]: Textual amendment: [S. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/13/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/13/3/d) inserted (1.4.2019) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 78(b)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/78/b) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/b)

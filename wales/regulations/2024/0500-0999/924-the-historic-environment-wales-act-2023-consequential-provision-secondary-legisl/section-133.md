@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**133.**[^key-13683fee1e0e357ccf4ac5a76f03c944] In regulation 14, for “paragraph 4(1)(a) of Schedule 1B to the 1990 Act” substitute “paragraph 3(2)(a) of Schedule 2 to the 2023 Act”.
+**133.**[^c-13683fee1e0e357ccf4ac5a76f03c944] In regulation 14, for “paragraph 4(1)(a) of Schedule 1B to the 1990 Act” substitute “paragraph 3(2)(a) of Schedule 2 to the 2023 Act”.
 
 ## Annotations
 
-[^key-13683fee1e0e357ccf4ac5a76f03c944]: Commencement: [Reg. 133](https://www.legislation.gov.uk/wsi/2024/924/regulation/133) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-13683fee1e0e357ccf4ac5a76f03c944]: Commencement: [Reg. 133](https://www.legislation.gov.uk/wsi/2024/924/regulation/133) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

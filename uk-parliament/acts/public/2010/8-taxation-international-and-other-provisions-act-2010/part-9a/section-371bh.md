@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371BH. Companies carrying on BLAGAB[^key-7b049a94ce4f5f61325bd811779f8cd2][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371BH. Companies carrying on BLAGAB[^c-7b049a94ce4f5f61325bd811779f8cd2][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b049a94ce4f5f61325bd811779f8cd2]: Modification: S. 371BH modified (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Insurance Companies and CFCs (Avoidance of Double Charge) Regulations 2012 (S.I. 2012/3044)](https://www.legislation.gov.uk/uksi/2012/3044), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3044/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/3044/regulation/5)
+[^c-7b049a94ce4f5f61325bd811779f8cd2]: Modification: S. 371BH modified (with effect in accordance with reg. 2(2) of the amending S.I.) by [The Insurance Companies and CFCs (Avoidance of Double Charge) Regulations 2012 (S.I. 2012/3044)](https://www.legislation.gov.uk/uksi/2012/3044), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3044/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/3044/regulation/5)
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Operation and use of the authorised development[^key-4d1aff49ed93c86350f3a666999935ce]
+## 4. Operation and use of the authorised development[^c-4d1aff49ed93c86350f3a666999935ce]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d1aff49ed93c86350f3a666999935ce]: Commencement: Art. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-4d1aff49ed93c86350f3a666999935ce]: Commencement: Art. 4 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00018]: Footnote: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825).

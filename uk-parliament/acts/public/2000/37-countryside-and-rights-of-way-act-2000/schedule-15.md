@@ -26,7 +26,7 @@ Section 93.
 
 #### National Parks and Access to the Countryside Act 1949 (c. 97)
 
-**1.**[^key-1daaec815b095c48dab7836eacce2b4a][^c1057234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1daaec815b095c48dab7836eacce2b4a][^c1057234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^c1057235] In section 112(2) of that Act (provisions not applying to Epping Forest and Burnham Beeches), for “eighty-seven” there is substituted “ eighty-nine ”.
 
@@ -94,7 +94,7 @@ Section 93.
 
 ## Annotations
 
-[^key-1daaec815b095c48dab7836eacce2b4a]: Textual amendment: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/15/paragraph/1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+[^c-1daaec815b095c48dab7836eacce2b4a]: Textual amendment: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2000/37/schedule/15/paragraph/1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
 [^c1057234]: Commencement: Sch. 15 para. 1 wholly in force at 1.5.2001; Sch. 15 para. 1 not in force at Royal Assent see s. 103(3); Sch. 15 para. 1 in force for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); Sch. 15 para. 1 in force for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 

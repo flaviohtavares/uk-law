@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279D. The ring fence amount[^key-1ef3ee755b0a762d132ac36869e8ff08]
+## 279D. The ring fence amount[^c-1ef3ee755b0a762d132ac36869e8ff08]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ A is the amount of the augmented profits of the accounting period.
 
 ## Annotations
 
-[^key-1ef3ee755b0a762d132ac36869e8ff08]: Textual amendment: Pt. 8 Ch. 3A inserted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/5/3)
+[^c-1ef3ee755b0a762d132ac36869e8ff08]: Textual amendment: Pt. 8 Ch. 3A inserted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/5/3)

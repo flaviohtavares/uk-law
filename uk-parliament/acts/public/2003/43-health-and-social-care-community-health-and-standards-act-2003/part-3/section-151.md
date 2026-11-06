@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Applications for certificates of NHS charges[^c552125][^key-a388ad28903f1b6dce8493ba7eef925b][^key-b58527fc5d0b7dd19c831ff825d49784]
+## 151. Applications for certificates of NHS charges[^c552125][^c-a388ad28903f1b6dce8493ba7eef925b][^c-b58527fc5d0b7dd19c831ff825d49784]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 [^c552125]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2003/43/section/151) partly in force; [s. 151](https://www.legislation.gov.uk/ukpga/2003/43/section/151) in force at Royal Assent for certain purposes, see [s. 199(1)(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1/4)
 
-[^key-a388ad28903f1b6dce8493ba7eef925b]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2003/43/section/151) in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-a388ad28903f1b6dce8493ba7eef925b]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2003/43/section/151) in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
 
-[^key-b58527fc5d0b7dd19c831ff825d49784]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2003/43/section/151) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-b58527fc5d0b7dd19c831ff825d49784]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2003/43/section/151) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Restriction of unlicensed carriage by air for reward.[^key-9cb93ab3cec4b61d6b7d2d1b22c1bd50]
+## 64. Restriction of unlicensed carriage by air for reward.[^c-9cb93ab3cec4b61d6b7d2d1b22c1bd50]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a45c23c53abea5f430c8e0a4fbd13303] No aircraft shall be used for the carriage for reward of passengers or cargo on a flight to which this subsection applies unless—
+(1)[^c-a45c23c53abea5f430c8e0a4fbd13303] No aircraft shall be used for the carriage for reward of passengers or cargo on a flight to which this subsection applies unless—
 
 - (a) the operator of the aircraft holds a licence granted to him by the CAA in pursuance of section 65 below (in this Act referred to as an “air transport licence”) authorising him to operate aircraft on such flights as the flight in question; and
 - (b) the terms of the licence are complied with so far as they relate to that flight and fall to be complied with before or during the flight.
 
-(2)[^key-a45c23c53abea5f430c8e0a4fbd13303] Subsection (1) above applies to any flight in any part of the world by an aircraft registered in the United Kingdom and to any flight beginning or ending in the United Kingdom by an aircraft registered in a relevant overseas territory [^c2541541]. . ., except that it does not apply to—
+(2)[^c-a45c23c53abea5f430c8e0a4fbd13303] Subsection (1) above applies to any flight in any part of the world by an aircraft registered in the United Kingdom and to any flight beginning or ending in the United Kingdom by an aircraft registered in a relevant overseas territory [^c2541541]. . ., except that it does not apply to—
 
 - (a) a flight of a description specified in an instrument made by the CAA for the purposes of this paragraph and in force in accordance with subsection (3) below;
 - (b) a particular flight or series of flights specified in an instrument made by the CAA for the purposes of this paragraph;
 - (c) a flight by an aircraft of which the CAA is the operator.
-- (d)[^c2541551] a flight for the undertaking of carriage by air for which a valid operating licence issued in accordance with the Operation of Air Services in the Community Regulation[^key-73a2ee6454383ea244a6f257f7c22466] is required.
+- (d)[^c2541551] a flight for the undertaking of carriage by air for which a valid operating licence issued in accordance with the Operation of Air Services in the Community Regulation[^c-73a2ee6454383ea244a6f257f7c22466] is required.
 
 (3) An instrument made in pursuance of paragraph (a) of subsection (2) above shall not come into force until it is published in the prescribed manner, and it shall be the duty of the CAA forthwith after making an instrument in pursuance of paragraph (b) of that subsection to publish the instrument in the prescribed manner; and an instrument made in pursuance of paragraph (a) or (b) of that subsection may be revoked or varied by a subsequent instrument made in pursuance of that paragraph.
 
@@ -65,12 +65,12 @@ and a person who fails to comply with a direction given to him in pursuance of t
 
 ## Annotations
 
-[^key-9cb93ab3cec4b61d6b7d2d1b22c1bd50]: Modification: [S. 64](https://www.legislation.gov.uk/ukpga/1982/16/section/64) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
+[^c-9cb93ab3cec4b61d6b7d2d1b22c1bd50]: Modification: [S. 64](https://www.legislation.gov.uk/ukpga/1982/16/section/64) extended (overseas territories) (with modifications) (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/477/article/1/1), [2](https://www.legislation.gov.uk/uksi/2021/477/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/477/schedule)
 
-[^key-a45c23c53abea5f430c8e0a4fbd13303]: Modification: [S. 64(1)](https://www.legislation.gov.uk/ukpga/1982/16/section/64/1)[(2)](https://www.legislation.gov.uk/ukpga/1982/16/section/64/2) extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
+[^c-a45c23c53abea5f430c8e0a4fbd13303]: Modification: [S. 64(1)](https://www.legislation.gov.uk/ukpga/1982/16/section/64/1)[(2)](https://www.legislation.gov.uk/ukpga/1982/16/section/64/2) extended (Anguilla) (with modifications) (8.5.2019) by [The Civil Aviation Act 1982 (Anguilla) Order 2019 (S.I. 2019/756)](https://www.legislation.gov.uk/uksi/2019/756), [arts. 1](https://www.legislation.gov.uk/uksi/2019/756/article/1), [2](https://www.legislation.gov.uk/uksi/2019/756/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/756/schedule)
 
 [^c2541541]: Textual amendment: Words in s. 64(2)(6)(b) repealed (8.11.1995) by [1995 c. 44](https://www.legislation.gov.uk/ukpga/1995/44), [s. 1](https://www.legislation.gov.uk/ukpga/1995/44/section/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1995/44/schedule/1/part/II)
 
 [^c2541551]: Textual amendment: S. 64(2)(d) inserted (1.1.1993) by [S.I. 1992/2992](https://www.legislation.gov.uk/uksi/1992/2992), [reg. 20](https://www.legislation.gov.uk/uksi/1992/2992/regulation/20).
 
-[^key-73a2ee6454383ea244a6f257f7c22466]: Textual amendment: Words in [s. 64(2)(d)](https://www.legislation.gov.uk/ukpga/1982/16/section/64/2/d) substituted (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [regs. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/41/regulation/33)
+[^c-73a2ee6454383ea244a6f257f7c22466]: Textual amendment: Words in [s. 64(2)(d)](https://www.legislation.gov.uk/ukpga/1982/16/section/64/2/d) substituted (26.1.2009) by [The Operation of Air Services in the Community Regulations 2009 (S.I. 2009/41)](https://www.legislation.gov.uk/uksi/2009/41), [regs. 1](https://www.legislation.gov.uk/uksi/2009/41/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/41/regulation/33)

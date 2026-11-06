@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Database of rogue landlords and property agents[^key-e35fbd8949b9d43d11d8aa0c8e26abca]
+## 28. Database of rogue landlords and property agents[^c-e35fbd8949b9d43d11d8aa0c8e26abca]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35fbd8949b9d43d11d8aa0c8e26abca]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/22/section/28) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-e35fbd8949b9d43d11d8aa0c8e26abca]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/22/section/28) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

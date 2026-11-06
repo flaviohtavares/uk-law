@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Acquisition by local authorities for purposes of regeneration[^key-69b9c18924715939d08078afa3a0b6c0][^key-d8a861bba7f6fdcf21a88053b11d5511]
+## 180. Acquisition by local authorities for purposes of regeneration[^c-69b9c18924715939d08078afa3a0b6c0][^c-d8a861bba7f6fdcf21a88053b11d5511]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In section 226 of TCPA 1990 (power of local authority to acquire land compulsori
 
 ## Annotations
 
-[^key-69b9c18924715939d08078afa3a0b6c0]: Commencement: S. 180 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-69b9c18924715939d08078afa3a0b6c0]: Commencement: S. 180 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-d8a861bba7f6fdcf21a88053b11d5511]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2023/55/section/180) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/i)
+[^c-d8a861bba7f6fdcf21a88053b11d5511]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2023/55/section/180) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/i)

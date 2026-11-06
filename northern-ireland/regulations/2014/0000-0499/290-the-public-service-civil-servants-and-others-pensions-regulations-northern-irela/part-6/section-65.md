@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Partial retirement option notice[^key-bbf4843bbc3d40eade5b130f1d066a0c]
+## 65. Partial retirement option notice[^c-bbf4843bbc3d40eade5b130f1d066a0c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf4843bbc3d40eade5b130f1d066a0c]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2014/290/regulation/65) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-bbf4843bbc3d40eade5b130f1d066a0c]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2014/290/regulation/65) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

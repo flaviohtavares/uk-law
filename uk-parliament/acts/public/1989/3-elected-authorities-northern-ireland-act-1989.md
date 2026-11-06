@@ -47,7 +47,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - (a) is registered in the register of local electors for that area;
 - (b) is not subject to any legal incapacity to vote (age apart);
-- (c) is a Commonwealth citizen, a citizen of the Republic of Ireland , a qualifying EU citizen or an EU citizen with retained rights[^key-e27108650fe13bf5c995e8c76c0ebece], and
+- (c) is a Commonwealth citizen, a citizen of the Republic of Ireland , a qualifying EU citizen or an EU citizen with retained rights[^c-e27108650fe13bf5c995e8c76c0ebece], and
 - (d) is of the age of eighteen or over.
 
 (3) A person is not entitled to vote as an elector—
@@ -73,9 +73,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) In Schedule 5 to the [^c3859841]Electoral Law Act (Northern Ireland) 1962, in the Appendix of Forms, in the form headed “Candidate’s consent to nomination”, after the paragraph beginning “I further declare” there is inserted the paragraph set out in Part I of Schedule 2 to this Act.
 
-### 4. Declaration against terrorism: councillors returned to fill casual vacancies.[^key-99d7d7565dc2b70f1e0674cfa54f2af7]
+### 4. Declaration against terrorism: councillors returned to fill casual vacancies.[^c-99d7d7565dc2b70f1e0674cfa54f2af7]
 
-(1) A person is not eligible to be returned to[^key-2e8ff4a9c54e7fef38acc3052a0b04fa] a district council to fill a casual vacancy in the council unless he has made, and served on the clerk of the council, a declaration in the form set out in Part II of Schedule 2 to this Act.
+(1) A person is not eligible to be returned to[^c-2e8ff4a9c54e7fef38acc3052a0b04fa] a district council to fill a casual vacancy in the council unless he has made, and served on the clerk of the council, a declaration in the form set out in Part II of Schedule 2 to this Act.
 
 (2) In section 11(4B) of the Electoral Law Act (Northern Ireland) 1962 (procedure for filling casual vacancy) in paragraph (c) for the words from “any person” to “meeting” there is substituted—
 
@@ -93,9 +93,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 A person is not validly nominated as a candidate at an election to the Northern Ireland Assembly unless his consent to nomination includes a declaration in the form set out in Part I of Schedule 2 to this Act.
 
-### 6. Breach of terms of declaration.[^c20060421][^key-516af6570e265a24ac8a1d834b37f8dd]
+### 6. Breach of terms of declaration.[^c20060421][^c-516af6570e265a24ac8a1d834b37f8dd]
 
-(1) A person who has made a declaration required for the purposes of section 3, 4 or 5 of this Act in connection with a local election, an election to the Northern Ireland Assembly or the filling of a casual vacancy in a district council acts in breach of the terms of the declaration if at any time after he is declared to be elected at that election or is declared to be returned[^key-fdc523b34cd61081eaf386af7b914899] to fill that vacancy and while he remains a member of the district council or of the Assembly—
+(1) A person who has made a declaration required for the purposes of section 3, 4 or 5 of this Act in connection with a local election, an election to the Northern Ireland Assembly or the filling of a casual vacancy in a district council acts in breach of the terms of the declaration if at any time after he is declared to be elected at that election or is declared to be returned[^c-fdc523b34cd61081eaf386af7b914899] to fill that vacancy and while he remains a member of the district council or of the Assembly—
 
 - (a) he expresses support for or approval of—
   - (i) a proscribed organisation, or
@@ -146,7 +146,7 @@ A person is not validly nominated as a candidate at an election to the Northern 
 
 shall be conclusively presumed to have made a declaration in the form set out in Part I of Schedule 2 to this Act at the time of the nomination.
 
-(4) For the purposes of this section, a person who was returned to[^key-07053ac63a77d495fca5f26bf50c4be5] a district council after the passing of this Act to fill a casual vacancy in the council shall be conclusively presumed to have made a declaration in the form set out in Part II of Schedule 2 of this Act in relation to that vacancy before he was so returned[^key-458f27cb7029f114531e1a883ca50eb7].
+(4) For the purposes of this section, a person who was returned to[^c-07053ac63a77d495fca5f26bf50c4be5] a district council after the passing of this Act to fill a casual vacancy in the council shall be conclusively presumed to have made a declaration in the form set out in Part II of Schedule 2 of this Act in relation to that vacancy before he was so returned[^c-458f27cb7029f114531e1a883ca50eb7].
 
 (5) Where on an application under this section the High Court is satisfied that the person to whom the application relates has acted in breach of the terms of a declaration against terrorism made by him, the court may make a determination accordingly.
 
@@ -204,12 +204,12 @@ shall be conclusively presumed to have made a declaration in the form set out in
 
 (1) In this Act—
 
-[^key-153df3300a7f2756abbf95bae3b38ef9]...
+[^c-153df3300a7f2756abbf95bae3b38ef9]...
 
 - “**district council**” has the meaning given by section 44 of the [^c3860001]Interpretation Act (Northern Ireland) 1954,
 - “**legal incapacity**” includes (in addition to any incapacity by virtue of age [^c20060601]. . . ) any disqualification imposed by any statutory provision,
 - “**local election**”, “**local elector**” and “**local general election**” have the same meaning as in the [^c3860011]Electoral Law Act (Northern Ireland) 1962, and
-- “[^key-18158daa7b459714ae83d2b0bd6356c1]**qualifying EU citizen**” and “EU citizen with retained rights” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act);
+- “[^c-18158daa7b459714ae83d2b0bd6356c1]**qualifying EU citizen**” and “EU citizen with retained rights” have the same meaning as in the Representation of the People Act 1983 (see sections 203A and 203B of that Act);
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
 (2) Any reference in any statutory provision to any provision repealed or revoked by this Act is to be read as a reference to the corresponding provision of this Act or of the Representation of the [^c3860021]People Act 1983 as applied by section 2 of this Act.
@@ -304,19 +304,19 @@ Section 3(1) and (2) (disfranchisement of offenders in prison, etc.).
 
 Section 3A(1) and (4) to (7) (disfranchisement of offenders detained in mental hospitals).[^c3860271]
 
-[^c3860281] Section 4(3)[^key-7bd3c6439fb49d26786c26f1925938df] to (6) (entitlement to be registered).
+[^c3860281] Section 4(3)[^c-7bd3c6439fb49d26786c26f1925938df] to (6) (entitlement to be registered).
 
 [^c3860281] Sections 5 and 6 (residence (general) and residence of merchant seamen).
 
 Sections 7 to 7C (residence of mental patients, and of persons remanded in custody, and declarations of local connection).
 
-[^c3860281] Sections 9, 9B, 9C,[^key-89d3bd597dd25ebfeb94e1f88d655073]9A,[^key-75e36d30bb9e7f7322649ed0069e41dc]10, 10ZA, 10ZB,[^c20068011] 10ZF,[^key-60ef3d95824bfbe48bc997405786c04c] 10A ,[^c4187131] 10B,[^key-be646e82a10462dc3f7ddb46ed223ca9] 13 , 13A, 13BA[^c20068021] and 13D (preparation, publication and alteration of registers and related offences[^c4187151] ).
+[^c3860281] Sections 9, 9B, 9C,[^c-89d3bd597dd25ebfeb94e1f88d655073]9A,[^c-75e36d30bb9e7f7322649ed0069e41dc]10, 10ZA, 10ZB,[^c20068011] 10ZF,[^c-60ef3d95824bfbe48bc997405786c04c] 10A ,[^c4187131] 10B,[^c-be646e82a10462dc3f7ddb46ed223ca9] 13 , 13A, 13BA[^c20068021] and 13D (preparation, publication and alteration of registers and related offences[^c4187151] ).
 
 Sections 14 to 17 (service qualifications and service declarations).
 
 Sections 49 and 50 (effect of registers and of misdescription).
 
-[^c3860281] Section 53 and, in Schedule 2, paragraphs 1(2) to (5), 1A,[^key-8724a18478619761470b8cbd5843ce89] 2B,[^key-5f3b532212bafc56979865f3d4311b77] 3, 3A,3B,[^key-6bdf9266db5ceeadc3908243aefc649b] 4 to 11A and 13 (regulations as to registration).
+[^c3860281] Section 53 and, in Schedule 2, paragraphs 1(2) to (5), 1A,[^c-8724a18478619761470b8cbd5843ce89] 2B,[^c-5f3b532212bafc56979865f3d4311b77] 3, 3A,3B,[^c-6bdf9266db5ceeadc3908243aefc649b] 4 to 11A and 13 (regulations as to registration).
 
 Section 54(2) to (4) (expenses of registration).
 
@@ -328,9 +328,9 @@ Section 62 (offences as to declarations).
 
 Section 180A (evidence by certificate of electoral registration).
 
-Section 201 (regulations) and, in section 202(1), the definitions of[^c3860341]“anonymous entry”,[^key-789ab3005e200a8ef108f7b48727fcba] “**dwelling**”, “prescribed” and “**qualifying address**”.
+Section 201 (regulations) and, in section 202(1), the definitions of[^c3860341]“anonymous entry”,[^c-789ab3005e200a8ef108f7b48727fcba] “**dwelling**”, “prescribed” and “**qualifying address**”.
 
-Sections 203A and 203B (meaning of “[^key-9889ad77d82c1dfd97b647ba66012b09]**qualifying EU citizen**” and “**EU citizen with retained rights**”).
+Sections 203A and 203B (meaning of “[^c-9889ad77d82c1dfd97b647ba66012b09]**qualifying EU citizen**” and “**EU citizen with retained rights**”).
 
 Schedule 6A (list of countries for the purposes of section 203A).
 
@@ -352,16 +352,16 @@ Schedule 6A (list of countries for the purposes of section 203A).
 
 #### Specific
 
-**7.**[^c3860351] (1)[^key-dcbc765043acdb2e65f38844e6c1c799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c3860351] (1)[^c-dcbc765043acdb2e65f38844e6c1c799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-8aeb1edd15a8db95bca110325589d9ea] In section 4(3)(c)—
+(1A)[^c-8aeb1edd15a8db95bca110325589d9ea] In section 4(3)(c)—
 
 - (a) in sub-paragraph (i), omit “in relation to a local government election in England,”, and
 - (b) omit sub-paragraph (ii) (and the “or” preceding it).
 
 (2) In section 4(4)(a), the reference to any enactment includes an enactment comprised in Northern Ireland legislation.
 
-**7A.**[^key-8f05a3e1628a4af340175cb0d7e07021] In section 7B—
+**7A.**[^c-8f05a3e1628a4af340175cb0d7e07021] In section 7B—
 
 - (a) references to the United Kingdom are to be read as references to Northern Ireland;
 - (b) in subsection (3)(e)—
@@ -377,7 +377,7 @@ Schedule 6A (list of countries for the purposes of section 203A).
 
 **Not yet in force.**
 
-**8A.**[^key-da7f9317bb2b5d0f06766554bba9088b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8A.**[^c-da7f9317bb2b5d0f06766554bba9088b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c3860401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -385,7 +385,7 @@ Schedule 6A (list of countries for the purposes of section 203A).
 
 **11.**[^c3860441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11A.**[^key-eade3d1047d16fc8955f3dc5f90458e5] In section 15(5)(a)—
+**11A.**[^c-eade3d1047d16fc8955f3dc5f90458e5] In section 15(5)(a)—
 
 - (a) in sub-paragraph (i), omit “in England,”, and
 - (b) omit sub-paragraph (ii) (and the “or” preceding it).
@@ -402,7 +402,7 @@ Schedule 6A (list of countries for the purposes of section 203A).
   > - (c) whether or not a person registered as an elector in a district was during the whole of the period of three months ending on the qualifying date resident in Northern Ireland
 
   , and
-- (b)[^key-765c044ecae7e2343468d101d6930424] in subsection (5)—
+- (b)[^c-765c044ecae7e2343468d101d6930424] in subsection (5)—
   - (i) in the first sentence, omit “, or entered in the list of proxies,”,
   - (ii) in paragraph (b)(iiia), omit “in England or entered in the list of proxies”, and
   - (iii) omit paragraph (b)(iv).
@@ -420,12 +420,12 @@ Schedule 6A (list of countries for the purposes of section 203A).
 - “(b) with respect to—
   - (i) the procedure to be followed in the preparation of the register, and
   - (ii) the place and manner of its publication; and;”.
-- (ba)[^key-67b4cd573b09e65c7b2325c5c09a18de] subsection (1)(ba) is omitted;
+- (ba)[^c-67b4cd573b09e65c7b2325c5c09a18de] subsection (1)(ba) is omitted;
 - (c) in subsection (1)(c) “**or to voting by post or proxy**” is omitted.
 
 **15.** In section 54, in subsections (3) and (4) paragraph (a) is omitted.
 
-**16.**[^c20068101] In section 58, omit subsection (1)(bb) and (c)[^key-d408b92e2d0332db150bb8c9ecc05a98] and after subsection (2) insert—
+**16.**[^c20068101] In section 58, omit subsection (1)(bb) and (c)[^c-d408b92e2d0332db150bb8c9ecc05a98] and after subsection (2) insert—
 
 > (2A) No appeal lies from the decision of the Court of Appeal on appeal from a decision of the county court under this section.
 
@@ -433,7 +433,7 @@ Schedule 6A (list of countries for the purposes of section 203A).
 
 **17.** In section 59, in subsection (3)(a) the words from “and of” to the end are omitted.
 
-**18.**[^key-44abad932fb6a592c98fa58b388577aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-44abad932fb6a592c98fa58b388577aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18A.** In Schedule 2, references to applications under sections 13BD, 13BE and 13C and documents or cards issued under any of those sections are to be disregarded, and the following are omitted—
 
@@ -456,7 +456,7 @@ I declare that, if elected, I will not by word or deed express support for or ap
 - (a) any organisation that is for the time being a proscribed organisation specified in Schedule 2 to the Terrorism Act 2000[^c3860491]; or
 - (b) acts of terrorism (that is to say, violence for political ends) connected with the affairs of Northern Ireland.
 
-### Part II — Form for use in case of district councillor returned to fill casual vacancy[^key-72d487b8d1109f23a6d501916b1de951]
+### Part II — Form for use in case of district councillor returned to fill casual vacancy[^c-72d487b8d1109f23a6d501916b1de951]
 
 I, (name in full) , of (home address in full) declare that, if I am returned to be a councillor for the District of (name of district) , I will not by word or deed express support for or approval of—
 
@@ -508,7 +508,7 @@ Section 11.
 
 [^c3859821]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1989/3/section/1/1) substituted for s. 1(1)(2) (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/2); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
-[^key-e27108650fe13bf5c995e8c76c0ebece]: Textual amendment: Words in [s. 1(1)(c)](https://www.legislation.gov.uk/ukpga/1989/3/section/1/1/c) substituted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/2); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-e27108650fe13bf5c995e8c76c0ebece]: Textual amendment: Words in [s. 1(1)(c)](https://www.legislation.gov.uk/ukpga/1989/3/section/1/1/c) substituted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/2); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^c20060331]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1989/3/section/2) applied (9.7.2003) by [The Local and European Parliamentary Elections (Registration of Citizens of Accession States) Regulations 2003 (S.I. 2003/1557)](https://www.legislation.gov.uk/uksi/2003/1557), [reg. 4](https://www.legislation.gov.uk/uksi/2003/1557/regulation/4) (subject to [reg. 2](https://www.legislation.gov.uk/uksi/2003/1557/regulation/2))
 
@@ -516,23 +516,23 @@ Section 11.
 
 [^c3859841]: Marginal citation: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
-[^key-99d7d7565dc2b70f1e0674cfa54f2af7]: Textual amendment: Word in [s. 4 heading](https://www.legislation.gov.uk/ukpga/1989/3/section/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/6/b)
+[^c-99d7d7565dc2b70f1e0674cfa54f2af7]: Textual amendment: Word in [s. 4 heading](https://www.legislation.gov.uk/ukpga/1989/3/section/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/6/b)
 
-[^key-2e8ff4a9c54e7fef38acc3052a0b04fa]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/ukpga/1989/3/section/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/6/a)
+[^c-2e8ff4a9c54e7fef38acc3052a0b04fa]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/ukpga/1989/3/section/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/6/a)
 
 [^c20060421]: Modification: S. 6 applied (with modifications) (4.9.2007) by [Police (Northern Ireland) Act 2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), [Sch. 3A para. 7(3)(4)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/3A/paragraph/7/3/4) (as inserted by [Police (Northern Ireland) Act 2003 (c.6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/13)); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2](https://www.legislation.gov.uk/nisr/2007/371/article/2)
 
-[^key-516af6570e265a24ac8a1d834b37f8dd]: Modification: S. 6 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/3)[Sch. 2 para. 8(4)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/4); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-516af6570e265a24ac8a1d834b37f8dd]: Modification: S. 6 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/3)[Sch. 2 para. 8(4)](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/8/4); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-fdc523b34cd61081eaf386af7b914899]: Textual amendment: Words in s. 6(1) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/7)
+[^c-fdc523b34cd61081eaf386af7b914899]: Textual amendment: Words in s. 6(1) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/7)
 
 [^c3859911]: Marginal citation: [1973 c. 36](https://www.legislation.gov.uk/ukpga/1973/36).
 
 [^c3859921]: Textual amendment: Words in definition of “proscribed organisation” in s. 6(5) substituted (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 15 para. 7(2)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/7/2); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
-[^key-07053ac63a77d495fca5f26bf50c4be5]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1989/3/section/7/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/8/a)
+[^c-07053ac63a77d495fca5f26bf50c4be5]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1989/3/section/7/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/8/a)
 
-[^key-458f27cb7029f114531e1a883ca50eb7]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1989/3/section/7/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/8/b)
+[^c-458f27cb7029f114531e1a883ca50eb7]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/1989/3/section/7/4) substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/8/b)
 
 [^c3859931]: Marginal citation: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9).
 
@@ -540,7 +540,7 @@ Section 11.
 
 [^c3859951]: Marginal citation: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9).
 
-[^key-153df3300a7f2756abbf95bae3b38ef9]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1989/3/section/10/1) omitted (7.5.2024) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/3/a); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-153df3300a7f2756abbf95bae3b38ef9]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1989/3/section/10/1) omitted (7.5.2024) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/3/a); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^c3860001]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
@@ -548,7 +548,7 @@ Section 11.
 
 [^c3860011]: Marginal citation: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
-[^key-18158daa7b459714ae83d2b0bd6356c1]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1989/3/section/10/1) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/3/b); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-18158daa7b459714ae83d2b0bd6356c1]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/1989/3/section/10/1) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/3/b); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^c3860021]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -574,47 +574,47 @@ Section 11.
 
 [^c3860281]: Textual amendment: Entries in Sch. 1 Pt. I substituted (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 3(3)-(6)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/3/3); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
-[^key-7bd3c6439fb49d26786c26f1925938df]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (1.10.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/2/a/i), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
+[^c-7bd3c6439fb49d26786c26f1925938df]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (1.10.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/2/a/i), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
 
-[^key-89d3bd597dd25ebfeb94e1f88d655073]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/2)
+[^c-89d3bd597dd25ebfeb94e1f88d655073]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/2)
 
-[^key-75e36d30bb9e7f7322649ed0069e41dc]: Textual amendment: Word in Sch. 1 Pt. I inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/18/4), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-75e36d30bb9e7f7322649ed0069e41dc]: Textual amendment: Word in Sch. 1 Pt. I inserted (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/18/4), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
 
 [^c20068011]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (1.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/30/1), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/7/2/a); [S.I. 2006/2688](https://www.legislation.gov.uk/uksi/2006/2688), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2006/2688/article/3/2/c)
 
-[^key-60ef3d95824bfbe48bc997405786c04c]: Textual amendment: Word in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/I) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2018/699/regulation/6/a)
+[^c-60ef3d95824bfbe48bc997405786c04c]: Textual amendment: Word in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/I) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2018/699/regulation/6/a)
 
 [^c4187131]: Textual amendment: Words in entry in Sch. 1 Pt. I substituted (1.9.2002) by [Electoral Fraud (Northern Ireland) Act 2002 (c. 13)](https://www.legislation.gov.uk/ukpga/2002/13), [s. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2002/13/section/7/2/a); [S.I. 2002/1648](https://www.legislation.gov.uk/uksi/2002/1648), [art. 3](https://www.legislation.gov.uk/uksi/2002/1648/article/3)
 
-[^key-be646e82a10462dc3f7ddb46ed223ca9]: Textual amendment: Word in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/I) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/699/regulation/6/b)
+[^c-be646e82a10462dc3f7ddb46ed223ca9]: Textual amendment: Word in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/I) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2018/699/regulation/6/b)
 
 [^c20068021]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (14.5.2008) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/30/1), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/7/2/b); [S.I. 2008/1318](https://www.legislation.gov.uk/uksi/2008/1318), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1318/article/2/2/b)
 
 [^c4187151]: Textual amendment: Words in entry in Sch. 1 Pt. I inserted (1.9.2002) by [Electoral Fraud (Northern Ireland) Act 2002 (c. 13)](https://www.legislation.gov.uk/ukpga/2002/13), [s. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2002/13/section/7/2/b); [S.I. 2002/1648](https://www.legislation.gov.uk/uksi/2002/1648), [art. 3](https://www.legislation.gov.uk/uksi/2002/1648/article/3)
 
-[^key-8724a18478619761470b8cbd5843ce89]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/3), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
+[^c-8724a18478619761470b8cbd5843ce89]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/3), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
 
-[^key-5f3b532212bafc56979865f3d4311b77]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/3/a)
+[^c-5f3b532212bafc56979865f3d4311b77]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/3/a)
 
-[^key-6bdf9266db5ceeadc3908243aefc649b]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/3/b)
+[^c-6bdf9266db5ceeadc3908243aefc649b]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/3/b)
 
 [^c20068041]: Textual amendment: Sch. 1 Pt. 1: entry substituted (14.5.2008) for entries by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/10/2), [30(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/30/1), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/7/3); [S.I. 2008/1318](https://www.legislation.gov.uk/uksi/2008/1318), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1318/article/2/2/b)
 
 [^c3860341]: Textual amendment: Words in entry in Sch. 1 Pt. I substituted (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 3(9)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/3/9); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
-[^key-789ab3005e200a8ef108f7b48727fcba]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/4)
+[^c-789ab3005e200a8ef108f7b48727fcba]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2014/1116/article/8/4)
 
-[^key-9889ad77d82c1dfd97b647ba66012b09]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/1) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/4); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-9889ad77d82c1dfd97b647ba66012b09]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/1) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/4); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^c3860351]: Textual amendment: Sch. 1 Pt. 2 paras. 7, 7A substituted for para. 7 (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/4/2); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
-[^key-dcbc765043acdb2e65f38844e6c1c799]: Textual amendment: [Sch. 1 Pt. 2 para. 7(1)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/paragraph/7/1) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/2/a/ii), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
+[^c-dcbc765043acdb2e65f38844e6c1c799]: Textual amendment: [Sch. 1 Pt. 2 para. 7(1)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/paragraph/7/1) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/2/a/ii), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
 
-[^key-8aeb1edd15a8db95bca110325589d9ea]: Textual amendment: [Sch. 1 Pt. 2 para. 7(1A)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/7/1A) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/a); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-8aeb1edd15a8db95bca110325589d9ea]: Textual amendment: [Sch. 1 Pt. 2 para. 7(1A)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/7/1A) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/a); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-8f05a3e1628a4af340175cb0d7e07021]: Textual amendment: [Sch. 1 Pt. 2 para. 7A](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/7A) substituted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/b); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-8f05a3e1628a4af340175cb0d7e07021]: Textual amendment: [Sch. 1 Pt. 2 para. 7A](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/7A) substituted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/b); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-da7f9317bb2b5d0f06766554bba9088b]: Textual amendment: [Sch. 1 Pt. 2 para. 8A](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/paragraph/8A) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/16/2/a), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/c)
+[^c-da7f9317bb2b5d0f06766554bba9088b]: Textual amendment: [Sch. 1 Pt. 2 para. 8A](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/paragraph/8A) omitted (1.10.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/16/2/a), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/c)
 
 [^c3860401]: Textual amendment: [Sch. 1 Pt. 2 paras. 9-11](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/II/paragraph/9) repealed (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [ss. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [15](https://www.legislation.gov.uk/ukpga/2000/2/section/15), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/4/3), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/III); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
@@ -622,22 +622,22 @@ Section 11.
 
 [^c3860441]: Textual amendment: [Sch. 1 Pt. 2 paras. 9-11](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/II/paragraph/9) repealed (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [ss. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [15](https://www.legislation.gov.uk/ukpga/2000/2/section/15), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/4/3), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/III); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
-[^key-eade3d1047d16fc8955f3dc5f90458e5]: Textual amendment: [Sch. 1 Pt. 2 paras. 11A](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/11A), [11B](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/11B) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/c); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-eade3d1047d16fc8955f3dc5f90458e5]: Textual amendment: [Sch. 1 Pt. 2 paras. 11A](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/11A), [11B](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/11B) inserted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/c); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-765c044ecae7e2343468d101d6930424]: Textual amendment: [Sch. 1 Pt. 2 para. 12(b)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/12/b) substituted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(d)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/d); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-765c044ecae7e2343468d101d6930424]: Textual amendment: [Sch. 1 Pt. 2 para. 12(b)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/12/b) substituted (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(d)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/d); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
 [^c3860451]: Textual amendment: [Sch. 1 Pt. 2 para. 14(a)(b)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/II/paragraph/14/a/b) substituted (29.1.2001 for specified purposes and otherwise 16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8](https://www.legislation.gov.uk/ukpga/2000/2/section/8), [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/3/paragraph/4/4); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2)
 
-[^key-67b4cd573b09e65c7b2325c5c09a18de]: Textual amendment: [Sch. 1 Pt. 2 para. 14(ba)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/II/paragraph/14/ba) inserted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 30(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/30/2); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2022/916/article/2/f/ii)
+[^c-67b4cd573b09e65c7b2325c5c09a18de]: Textual amendment: [Sch. 1 Pt. 2 para. 14(ba)](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/II/paragraph/14/ba) inserted (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 30(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/30/2); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2022/916/article/2/f/ii)
 
 [^c20068101]: Textual amendment: [Sch. 1 Pt. 2 para. 16](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/16) substituted (14.5.2008) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/10/2), [30(1)](https://www.legislation.gov.uk/ukpga/2006/33/section/30/1), [31](https://www.legislation.gov.uk/ukpga/2006/33/section/31), [Sch. 4 para. 7(5)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/7/5); [S.I. 2008/1318](https://www.legislation.gov.uk/uksi/2008/1318), [art. 2](https://www.legislation.gov.uk/uksi/2008/1318/article/2)
 
-[^key-d408b92e2d0332db150bb8c9ecc05a98]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 16](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/16) substituted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 30(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/30/3); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(f)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/f/x) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/3))
+[^c-d408b92e2d0332db150bb8c9ecc05a98]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 16](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/16) substituted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 30(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/30/3); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(f)(x)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/f/x) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/3))
 
-[^key-44abad932fb6a592c98fa58b388577aa]: Textual amendment: Sch. 1 Pt. 2 para. 18A substituted for Sch. 1 Pt. 2 para. 18 (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 30(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/30/4); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2022/916/article/2/f/ii)
+[^c-44abad932fb6a592c98fa58b388577aa]: Textual amendment: Sch. 1 Pt. 2 para. 18A substituted for Sch. 1 Pt. 2 para. 18 (27.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 30(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/30/4); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2022/916/article/2/f/ii)
 
 [^c3860491]: Textual amendment: Words in [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/2/part/I) substituted (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 15 para. 7(3)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/7/3); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
-[^key-72d487b8d1109f23a6d501916b1de951]: Textual amendment: Word in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/9)
+[^c-72d487b8d1109f23a6d501916b1de951]: Textual amendment: Word in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Electoral Law Act (Northern Ireland) 1962 (Amendment) Order 2010 (S.I. 2010/1178)](https://www.legislation.gov.uk/uksi/2010/1178), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1178/article/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2010/1178/article/5/9)
 
 [^c3860521]: Textual amendment: Words in Sch. 2 Pt. II substituted (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 15 para. 7(3)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/7/3); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)

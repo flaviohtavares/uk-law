@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Exemption from offences relating to service charges for social housing[^key-1650cc3fcdfad7fe2f5c617634342e75]
+## 128. Exemption from offences relating to service charges for social housing[^c-1650cc3fcdfad7fe2f5c617634342e75]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 25 of the Landlord and Tenant Act 1985, after subsection (2) insertâ€
 
 ## Annotations
 
-[^key-1650cc3fcdfad7fe2f5c617634342e75]: Commencement: [S. 128](https://www.legislation.gov.uk/anaw/2014/7/section/128) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-1650cc3fcdfad7fe2f5c617634342e75]: Commencement: [S. 128](https://www.legislation.gov.uk/anaw/2014/7/section/128) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C. Technical assistance relating to certain tankers and cargo vessels[^key-db7f3e7e8e25298b2313fe4e7c4a4013]
+## 33C. Technical assistance relating to certain tankers and cargo vessels[^c-db7f3e7e8e25298b2313fe4e7c4a4013]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ in pursuance of or in connection with an arrangement whose object or effect is t
 
 ## Annotations
 
-[^key-db7f3e7e8e25298b2313fe4e7c4a4013]: Textual amendment: [Regs. 33A-33F](https://www.legislation.gov.uk/uksi/2019/461/regulation/33A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(n)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/n)
+[^c-db7f3e7e8e25298b2313fe4e7c4a4013]: Textual amendment: [Regs. 33A-33F](https://www.legislation.gov.uk/uksi/2019/461/regulation/33A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(n)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/n)

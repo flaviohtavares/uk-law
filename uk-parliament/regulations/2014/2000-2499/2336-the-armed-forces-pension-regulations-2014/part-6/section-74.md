@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Annual rate of children’s pensions[^key-31e3db570fb4d978ce89a1828ee72308]
+## 74. Annual rate of children’s pensions[^c-31e3db570fb4d978ce89a1828ee72308]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (5) The annual rate of the child’s added pension is determined by—
 
-- (a) where an adult dependant’s added pension is payable under regulation 65 or 67 (surviving spouses’ and civil partners’ pensions and other adult dependants’ pensions) after taking the actions under paragraph (6)[^key-4654a2291a53b1aec7d0f5faa111a245]—
+- (a) where an adult dependant’s added pension is payable under regulation 65 or 67 (surviving spouses’ and civil partners’ pensions and other adult dependants’ pensions) after taking the actions under paragraph (6)[^c-4654a2291a53b1aec7d0f5faa111a245]—
   - (i) for one eligible child only, an amount equal to 25% of the annual rate of the member’s added pension at the point of the member’s death;
   - (ii) for two or more eligible children, an equal share of 37.5% of the annual rate of the member’s added pension at the point of the member’s death; or
 - (b) where an adult dependant’s added pension is not payable under regulation 65 or 67 (surviving spouses’ and civil partners’ pensions and other adult dependants’ pensions) or no longer payable under regulation 65 or 67 after taking the actions under paragraph (6)—
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31e3db570fb4d978ce89a1828ee72308]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/2336/regulation/74) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-31e3db570fb4d978ce89a1828ee72308]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/2336/regulation/74) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-4654a2291a53b1aec7d0f5faa111a245]: Textual amendment: Word in [reg. 74(5)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/74/5/a) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2015/466/regulation/12)
+[^c-4654a2291a53b1aec7d0f5faa111a245]: Textual amendment: Word in [reg. 74(5)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/74/5/a) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2015/466/regulation/12)

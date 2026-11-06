@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Crown application[^key-03f7b5ef497065342c3d87c677bef52f]
+## 84. Crown application[^c-03f7b5ef497065342c3d87c677bef52f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part binds the Crown.
 
 ## Annotations
 
-[^key-03f7b5ef497065342c3d87c677bef52f]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2016/19/section/84) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-03f7b5ef497065342c3d87c677bef52f]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2016/19/section/84) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)

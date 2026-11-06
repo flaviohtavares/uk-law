@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Amendment of 1995 Act: probation for treatment of mental disorder[^key-6788b6173bc309f5d5678400a4a05336]
+## 135. Amendment of 1995 Act: probation for treatment of mental disorder[^c-6788b6173bc309f5d5678400a4a05336]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6788b6173bc309f5d5678400a4a05336]: Textual amendment: [S. 135](https://www.legislation.gov.uk/asp/2003/13/section/135) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 48(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/48/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-6788b6173bc309f5d5678400a4a05336]: Textual amendment: [S. 135](https://www.legislation.gov.uk/asp/2003/13/section/135) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 48(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/48/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

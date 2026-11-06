@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of Schedule 1 (further provisions for classification of medicinal products)[^key-f1b0166d6bb2a85759bab7c21585b768]
+## 8. Amendment of Schedule 1 (further provisions for classification of medicinal products)[^c-f1b0166d6bb2a85759bab7c21585b768]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Schedule 1—
 
 ## Annotations
 
-[^key-f1b0166d6bb2a85759bab7c21585b768]: Textual amendment: Reg. 8 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/5)
+[^c-f1b0166d6bb2a85759bab7c21585b768]: Textual amendment: Reg. 8 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/5)

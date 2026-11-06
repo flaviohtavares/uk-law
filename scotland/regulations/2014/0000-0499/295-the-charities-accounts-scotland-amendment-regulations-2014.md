@@ -32,7 +32,7 @@ summary: ''
 
 Charities
 
-The Charities Accounts (Scotland) Amendment Regulations 2014 (revoked)[^key-62b12844a3ccd9e6f0ae7d666d463865]
+The Charities Accounts (Scotland) Amendment Regulations 2014 (revoked)[^c-62b12844a3ccd9e6f0ae7d666d463865]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st January 2015
 
-[^key-62b12844a3ccd9e6f0ae7d666d463865]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62b12844a3ccd9e6f0ae7d666d463865]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-62b12844a3ccd9e6f0ae7d666d463865]
+## 1. Citation, commencement and application[^c-62b12844a3ccd9e6f0ae7d666d463865]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Charities Accounts (Scotland) Regulations 2006[^key-62b12844a3ccd9e6f0ae7d666d463865]
+## 2. Amendments to the Charities Accounts (Scotland) Regulations 2006[^c-62b12844a3ccd9e6f0ae7d666d463865]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-62b12844a3ccd9e6f0ae7d666d463865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-62b12844a3ccd9e6f0ae7d666d463865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-62b12844a3ccd9e6f0ae7d666d463865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-62b12844a3ccd9e6f0ae7d666d463865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-62b12844a3ccd9e6f0ae7d666d463865]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62b12844a3ccd9e6f0ae7d666d463865]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-62b12844a3ccd9e6f0ae7d666d463865]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62b12844a3ccd9e6f0ae7d666d463865]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62b12844a3ccd9e6f0ae7d666d463865]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/295) revoked (1.1.2015) by [The Charities Accounts (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/335)](https://www.legislation.gov.uk/ssi/2014/335), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/335/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2014/335/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/335/regulation/1/2))
+[^c-62b12844a3ccd9e6f0ae7d666d463865]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/295) revoked (1.1.2015) by [The Charities Accounts (Scotland) Amendment (No. 2) Regulations 2014 (S.S.I. 2014/335)](https://www.legislation.gov.uk/ssi/2014/335), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/335/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2014/335/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/335/regulation/1/2))

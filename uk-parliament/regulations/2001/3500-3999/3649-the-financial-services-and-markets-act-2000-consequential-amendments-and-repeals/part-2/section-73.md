@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Share dealing by directors etc.: supplementary provision[^key-4b0b4c5b4ee19ac2a144d72ad74057a0]
+## 73. Share dealing by directors etc.: supplementary provision[^c-4b0b4c5b4ee19ac2a144d72ad74057a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b0b4c5b4ee19ac2a144d72ad74057a0]: Commencement: Art. 73 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4b0b4c5b4ee19ac2a144d72ad74057a0]: Commencement: Art. 73 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

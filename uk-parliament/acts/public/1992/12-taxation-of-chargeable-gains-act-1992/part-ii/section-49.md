@@ -26,10 +26,10 @@ summary: ''
 - (b) for any contingent liability of the person making the disposal in respect of any covenant for quiet enjoyment or other obligation assumed as vendor of land, or of any estate or interest in land, or as a lessor,
 - (c) for any contingent liability in respect of a warranty or representation made on a disposal by way of sale or lease of any property other than land.
 
-(2)[^key-a72c8ab617058d644ee5f889e44a6839] If any such contingent liability subsequently becomes enforceable and is being or has been enforced, there shall be made, on a claim being made to that effect, such adjustment, whether by way of discharge or repayment of tax or otherwise, as is required in consequence.
+(2)[^c-a72c8ab617058d644ee5f889e44a6839] If any such contingent liability subsequently becomes enforceable and is being or has been enforced, there shall be made, on a claim being made to that effect, such adjustment, whether by way of discharge or repayment of tax or otherwise, as is required in consequence.
 
 (3) Subsection (2) above also applies where the disposal in question was before the commencement of this section.
 
 ## Annotations
 
-[^key-a72c8ab617058d644ee5f889e44a6839]: Textual amendment: S. 49(2) substituted (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 49](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/49)
+[^c-a72c8ab617058d644ee5f889e44a6839]: Textual amendment: S. 49(2) substituted (with effect in accordance with s. 134(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 20 para. 49](https://www.legislation.gov.uk/ukpga/1996/8/schedule/20/paragraph/49)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 211. Power of court to cure defects in procedure[^key-4b5eb0c3dc8f886c3d6a47ba3f844395]
+## 211. Power of court to cure defects in procedure[^c-4b5eb0c3dc8f886c3d6a47ba3f844395]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b5eb0c3dc8f886c3d6a47ba3f844395]: Commencement: S. 211 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-4b5eb0c3dc8f886c3d6a47ba3f844395]: Commencement: S. 211 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

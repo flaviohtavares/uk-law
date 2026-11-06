@@ -31,7 +31,7 @@ Allotments Act 1922
 
 An Act to amend the law relating to allotments,
 
-\[4th August 1922\][^c582648][^c582649][^c582650][^c582651][^c582652][^c582653][^c582654][^key-347dac47733316a192a3cdcaa4fb6a19][^key-1fcdccc827fd1f8bb5cf3838278ce56b]
+\[4th August 1922\][^c582648][^c582649][^c582650][^c582651][^c582652][^c582653][^c582654][^c-347dac47733316a192a3cdcaa4fb6a19][^c-1fcdccc827fd1f8bb5cf3838278ce56b]
 
 ## 1. Determination of tenancies of allotment gardens.
 
@@ -102,7 +102,7 @@ Where a tenant of an allotment has paid compensation to an outgoing tenant for a
 
 ## 6. Assessment and recovery of compensation.[^c582693]
 
-(1) The compensation under the foregoing provisions of this Act, and such further compensation (if any) as is recoverable under the contract of tenancy (not being a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995)[^c582694] shall, in default of agreement, be determined by a valuation made by a person appointed in default of agreement by the county court[^key-ac08a9b8f4ed148c0369216a9d5ce40e] , on an application in writing being made for the purpose by the landlord or tenant, and, if not paid within fourteen days after the amount is agreed or determined, shall be recoverable upon order made by the county court as money ordered to be paid by the county court under its ordinary jurisdiction, is recoverable.
+(1) The compensation under the foregoing provisions of this Act, and such further compensation (if any) as is recoverable under the contract of tenancy (not being a farm business tenancy within the meaning of the Agricultural Tenancies Act 1995)[^c582694] shall, in default of agreement, be determined by a valuation made by a person appointed in default of agreement by the county court[^c-ac08a9b8f4ed148c0369216a9d5ce40e] , on an application in writing being made for the purpose by the landlord or tenant, and, if not paid within fourteen days after the amount is agreed or determined, shall be recoverable upon order made by the county court as money ordered to be paid by the county court under its ordinary jurisdiction, is recoverable.
 
 (2)[^c582695] The proper charges of the valuer for the valuation shall be borne by the landlord and tenant in such proportion as the valuer shall direct, but be recoverable by the valuer from either of the parties and any amount paid by either of the parties in excess of the amount (if any) directed by the valuer to be borne by him shall be recoverable from the other party and may be deducted from any compensation payable to such party.
 
@@ -261,9 +261,9 @@ Provided that, if at any time any land so let is used for any purpose other than
 
 [^c582654]: Commencement: Act wholly in force at Royal Assent
 
-[^key-347dac47733316a192a3cdcaa4fb6a19]: Modification: Act excluded (15.10.2020) by [The Great Yarmouth Third River Crossing Development Consent Order 2020 (S.I. 2020/1075)](https://www.legislation.gov.uk/uksi/2020/1075), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1075/article/3/3)
+[^c-347dac47733316a192a3cdcaa4fb6a19]: Modification: Act excluded (15.10.2020) by [The Great Yarmouth Third River Crossing Development Consent Order 2020 (S.I. 2020/1075)](https://www.legislation.gov.uk/uksi/2020/1075), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1075/article/3/3)
 
-[^key-1fcdccc827fd1f8bb5cf3838278ce56b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/12-13/51) excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(5)](https://www.legislation.gov.uk/uksi/2025/462/article/53/5) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+[^c-1fcdccc827fd1f8bb5cf3838278ce56b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/12-13/51) excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(5)](https://www.legislation.gov.uk/uksi/2025/462/article/53/5) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
 
 [^c582659]: Modification: [S. 1(1)(a)](https://www.legislation.gov.uk/ukpga/Geo5/12-13/51/section/1/1/a) amended with the substitution of “twelve months” for “six months” by [Allotments Act 1950 (c. 31)](https://www.legislation.gov.uk/ukpga/1950/31), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1950/31/section/1/1)
 
@@ -303,7 +303,7 @@ Provided that, if at any time any land so let is used for any purpose other than
 
 [^c582694]: Textual amendment: Words in s. 6(1) inserted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/4) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)).
 
-[^key-ac08a9b8f4ed148c0369216a9d5ce40e]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/Geo5/12-13/51/section/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 59](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/59); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ac08a9b8f4ed148c0369216a9d5ce40e]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/Geo5/12-13/51/section/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 59](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/59); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c582695]: Modification: S. 6(2) applied by [Opencast Coal Act 1958 (c. 69)](https://www.legislation.gov.uk/ukpga/1958/69), [s. 41](https://www.legislation.gov.uk/ukpga/1958/69/section/41), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/1958/69/schedule/8/paragraph/8)
 

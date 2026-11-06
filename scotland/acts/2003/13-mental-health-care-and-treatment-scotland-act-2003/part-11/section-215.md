@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 215. Powers of Tribunal on reference under section 210(3), 211(2) or 213(2) or on application under section 214(2)[^key-d3977d7bf8d999503b53a91ae20c4bc5]
+## 215. Powers of Tribunal on reference under section 210(3), 211(2) or 213(2) or on application under section 214(2)[^c-d3977d7bf8d999503b53a91ae20c4bc5]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ it shall make no direction to the Scottish Ministers under this section.
 - (a) is satisfied that the patient has a mental disorder; but
 - (b) is not satisfied—
   - (i) that, as a result of the patient’s mental disorder, it is necessary, in order to protect any other person from serious harm, for the patient to be detained in hospital, whether or not for medical treatment; and
-  - (ii)[^key-6c9f231fbf4631fd43e23ed3e17b71a0] either—
+  - (ii)[^c-6c9f231fbf4631fd43e23ed3e17b71a0] either—
     - (A) that the conditions mentioned in paragraph (b) and (c) of section 206(4) of this Act continue to apply in respect of the patient; or
     - (B) that it continues to be necessary for the patient to be subject to the direction,
 
@@ -71,6 +71,6 @@ it shall make no direction to the Scottish Ministers under this section.
 
 ## Annotations
 
-[^key-d3977d7bf8d999503b53a91ae20c4bc5]: Commencement: S. 215 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-d3977d7bf8d999503b53a91ae20c4bc5]: Commencement: S. 215 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-6c9f231fbf4631fd43e23ed3e17b71a0]: Textual amendment: S. 215(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 70(5)](https://www.legislation.gov.uk/asp/2007/10/section/70/5), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-6c9f231fbf4631fd43e23ed3e17b71a0]: Textual amendment: S. 215(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 70(5)](https://www.legislation.gov.uk/asp/2007/10/section/70/5), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)

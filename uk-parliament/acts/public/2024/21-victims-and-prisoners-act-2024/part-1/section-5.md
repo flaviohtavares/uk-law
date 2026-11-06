@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Code compliance[^key-cadfc99738fba12e5eda316d0f5951bf][^key-2ffdab7d718f420e6a4e0ad0919c4071]
+## 5. Code compliance[^c-cadfc99738fba12e5eda316d0f5951bf][^c-2ffdab7d718f420e6a4e0ad0919c4071]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cadfc99738fba12e5eda316d0f5951bf]: Commencement: S. 5 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-cadfc99738fba12e5eda316d0f5951bf]: Commencement: S. 5 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-2ffdab7d718f420e6a4e0ad0919c4071]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/21/section/5) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/c)
+[^c-2ffdab7d718f420e6a4e0ad0919c4071]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/21/section/5) in force at 29.1.2025 by [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/95/regulation/2/c)

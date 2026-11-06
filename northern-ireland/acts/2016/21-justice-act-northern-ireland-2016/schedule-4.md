@@ -69,15 +69,15 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for hosting
 
-**3.** (1) A service provider is not capable of committing an offence under section 51 in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if sub-paragraph (2) , (2A)[^key-7c7f51699883f22d546d330f2c15fb9b] or (3) is satisfied.
+**3.** (1) A service provider is not capable of committing an offence under section 51 in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if sub-paragraph (2) , (2A)[^c-7c7f51699883f22d546d330f2c15fb9b] or (3) is satisfied.
 
-(2) This sub-paragraph is satisfied if , in the case of information which consists of or includes a private sexual photograph or film,[^key-8f7a36ee1a8aa0be53ac1fee9858c996] the service provider had no actual knowledge when the information was provided—
+(2) This sub-paragraph is satisfied if , in the case of information which consists of or includes a private sexual photograph or film,[^c-8f7a36ee1a8aa0be53ac1fee9858c996] the service provider had no actual knowledge when the information was provided—
 
 - (a) that it consisted of or included a private sexual photograph or film,
 - (b) that it was provided without the consent of an individual who appears in the photograph or film, or
 - (c) that the photograph or film was provided with the intention of causing distress to that individual.
 
-(2A)[^key-ef3d57cc001280e378b4b6ef94e8a9b9] This sub-paragraph is satisfied if, in the case of information which consists of or includes a threat to disclose a private sexual photograph or film, the service provider had no actual knowledge when the information was provided—
+(2A)[^c-ef3d57cc001280e378b4b6ef94e8a9b9] This sub-paragraph is satisfied if, in the case of information which consists of or includes a threat to disclose a private sexual photograph or film, the service provider had no actual knowledge when the information was provided—
 
 - (a) that it consisted of or included a threat to disclose a private sexual photograph or film in which another individual appears,
 - (b) that the threat was made with the intention of causing distress to that individual, or
@@ -91,9 +91,9 @@ includes the automatic, intermediate and transient storage of the information tr
 
 **4.** (1) This paragraph applies for the purposes of this Schedule.
 
-(2) “**Photograph or film**” has the meaning given in section 52[^key-cb62ccb83c5db7b298e8f54f1a6ef917].
+(2) “**Photograph or film**” has the meaning given in section 52[^c-cb62ccb83c5db7b298e8f54f1a6ef917].
 
-(3)[^key-00d439c4d349c78f5a574257e41e4b73] “**Information society service**” means any service normally provided—
+(3)[^c-00d439c4d349c78f5a574257e41e4b73] “**Information society service**” means any service normally provided—
 
 - (a) for remuneration,
 - (b) at a distance (namely, the service is provided without the parties being simultaneously present),
@@ -108,12 +108,12 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ## Annotations
 
-[^key-7c7f51699883f22d546d330f2c15fb9b]: Textual amendment: Word in [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/3/1) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(a)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/a), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-7c7f51699883f22d546d330f2c15fb9b]: Textual amendment: Word in [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/3/1) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(a)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/a), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-8f7a36ee1a8aa0be53ac1fee9858c996]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/3/2) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(b)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/b), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-8f7a36ee1a8aa0be53ac1fee9858c996]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/3/2) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(b)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/b), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-ef3d57cc001280e378b4b6ef94e8a9b9]: Textual amendment: [Sch. 4 para. 3(2A)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/3/2A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(c)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/c), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-ef3d57cc001280e378b4b6ef94e8a9b9]: Textual amendment: [Sch. 4 para. 3(2A)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/3/2A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(c)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/c), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-cb62ccb83c5db7b298e8f54f1a6ef917]: Textual amendment: Words in [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/4/2) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(d)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/d), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-cb62ccb83c5db7b298e8f54f1a6ef917]: Textual amendment: Words in [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/4/2) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(d)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/d), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
-[^key-00d439c4d349c78f5a574257e41e4b73]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/4/3) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(e)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/e), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-00d439c4d349c78f5a574257e41e4b73]: Textual amendment: [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/4/paragraph/4/3) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 6(4)(e)](https://www.legislation.gov.uk/nia/2022/19/section/6/4/e), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)

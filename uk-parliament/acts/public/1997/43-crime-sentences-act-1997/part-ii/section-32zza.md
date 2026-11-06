@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32ZZA. Imprisonment or detention for public protection: powers in relation to release of recalled prisoners[^key-862d44b7f939c37204ef8424f403f0fc]
+## 32ZZA. Imprisonment or detention for public protection: powers in relation to release of recalled prisoners[^c-862d44b7f939c37204ef8424f403f0fc]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The Secretary of State must not release the prisoner under subsection (2) unless satisfied that it is no longer necessary for the protection of the public that the prisoner should remain in prison.
 
-(4) Where the prisoner is released under subsection (2), the Secretary of State may determine that, for the purposes of paragraph (c) of section 31A(3A) (referral to Parole Board) or[^key-84e7da94a2528553c33b75b0a41167aa] paragraph (c) of section 31A(4H) (automatic licence termination), the prisoner’s licence is to be treated as having remained in force as if it had not been revoked under section 32.
+(4) Where the prisoner is released under subsection (2), the Secretary of State may determine that, for the purposes of paragraph (c) of section 31A(3A) (referral to Parole Board) or[^c-84e7da94a2528553c33b75b0a41167aa] paragraph (c) of section 31A(4H) (automatic licence termination), the prisoner’s licence is to be treated as having remained in force as if it had not been revoked under section 32.
 
 (5) The Secretary of State may only make a determination under subsection (4) if the Secretary of State considers that it is in the interests of justice to do so.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-862d44b7f939c37204ef8424f403f0fc]: Textual amendment: [S. 32ZZA](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZZA) inserted (1.11.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 66(5)](https://www.legislation.gov.uk/ukpga/2024/21/section/66/5), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/1/a)
+[^c-862d44b7f939c37204ef8424f403f0fc]: Textual amendment: [S. 32ZZA](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZZA) inserted (1.11.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 66(5)](https://www.legislation.gov.uk/ukpga/2024/21/section/66/5), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/1/a)
 
-[^key-84e7da94a2528553c33b75b0a41167aa]: Textual amendment: Words in [s. 32ZZA(4)](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZZA/4) inserted (1.6.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/42/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 3](https://www.legislation.gov.uk/uksi/2026/402/regulation/3)
+[^c-84e7da94a2528553c33b75b0a41167aa]: Textual amendment: Words in [s. 32ZZA(4)](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZZA/4) inserted (1.6.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/42/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 3](https://www.legislation.gov.uk/uksi/2026/402/regulation/3)

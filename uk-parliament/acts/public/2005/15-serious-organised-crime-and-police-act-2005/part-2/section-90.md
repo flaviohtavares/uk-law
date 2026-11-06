@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Protection from liability[^key-f081b98204217544d3359636e27466ef][^key-1d024d0895af45de7d15f85040e9bc74]
+## 90. Protection from liability[^c-f081b98204217544d3359636e27466ef][^c-1d024d0895af45de7d15f85040e9bc74]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f081b98204217544d3359636e27466ef]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2005/15/section/90) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-f081b98204217544d3359636e27466ef]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2005/15/section/90) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-1d024d0895af45de7d15f85040e9bc74]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2005/15/section/90) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
+[^c-1d024d0895af45de7d15f85040e9bc74]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2005/15/section/90) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)

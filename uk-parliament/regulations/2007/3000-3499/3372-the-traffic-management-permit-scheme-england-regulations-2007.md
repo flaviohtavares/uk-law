@@ -46,13 +46,13 @@ In accordance with section 39(4) of that Act, a draft of this instrument was lai
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, and application[^key-0118eeb2c01777f484ab8216fc034b67]
+### 1. Citation, commencement, and application[^c-0118eeb2c01777f484ab8216fc034b67]
 
 (1) These Regulations may be cited as the Traffic Management Permit Scheme (England) Regulations 2007 and shall come into force on 1st April 2008.
 
 (2) These Regulations apply as respects England only.
 
-### 2. Interpretation[^key-445407be1a5a268ad8b545ed2d81dee5]
+### 2. Interpretation[^c-445407be1a5a268ad8b545ed2d81dee5]
 
 (1) In these Regulations—
 
@@ -85,7 +85,7 @@ In accordance with section 39(4) of that Act, a draft of this instrument was lai
 
 ## PART 2 — Application for scheme
 
-### 3. Consultation for new permit schemes[^key-c09809514094f34d1c24c73d9d8eeea1]
+### 3. Consultation for new permit schemes[^c-c09809514094f34d1c24c73d9d8eeea1]
 
 (1) Prior to submitting a permit scheme to the Secretary of State under section 33 of the 2004 Act, the Permit Authority shall consult—
 
@@ -100,7 +100,7 @@ and such other persons as the Permit Authority considers appropriate.
 
 (2) If, before the day on which these Regulations come into force, the Permit Authority has undertaken any consultation which, had it been undertaken after that day, would to any extent have satisfied the requirements in paragraph (1), those requirements shall to that extent be taken to have been satisfied.
 
-### 4. Procedural requirements for submitting new permit schemes[^key-a42dd2b09794406513fce04e1c17ed38]
+### 4. Procedural requirements for submitting new permit schemes[^c-a42dd2b09794406513fce04e1c17ed38]
 
 When submitting a permit scheme under section 33(1) or (2) of the 2004 Act, the Permit Authority shall provide the Secretary of State with the following information—
 
@@ -114,13 +114,13 @@ When submitting a permit scheme under section 33(1) or (2) of the 2004 Act, the 
 - (h) details of any transitional arrangements which the Permit Authority would wish to apply in relation to the permit scheme coming into effect; and
 - (i) a summary of the responses received to the consultation undertaken under regulation 3 and of the changes made to the permit scheme following that consultation.
 
-### 5. Varying and revoking permit schemes at the Permit Authority’s request[^key-b0df5099c453626936925d346da6bb3a]
+### 5. Varying and revoking permit schemes at the Permit Authority’s request[^c-b0df5099c453626936925d346da6bb3a]
 
 Before asking the Secretary of State to vary or revoke a permit scheme the Permit Authority shall consult the persons referred to in regulation 3(1).
 
 ## PART 3 — Permit Scheme Content
 
-### 6. Specified works[^key-555e72e8abf967950cdd8982d13c49c8]
+### 6. Specified works[^c-555e72e8abf967950cdd8982d13c49c8]
 
 (1) A permit scheme shall specify the works (or types of works) which that permit scheme is designed to control (which shall be the “specified works” for the purposes of that permit scheme).
 
@@ -128,11 +128,11 @@ Before asking the Secretary of State to vary or revoke a permit scheme the Permi
 
 (3) Specified works for a permit scheme shall not include works executed in a street pursuant to a street works licence issued under section 50 of the 1991 Act (street works licences).
 
-### 7. Specified area[^key-6f90fc0c4ee8ff3b549e6e10e44c4bfc]
+### 7. Specified area[^c-6f90fc0c4ee8ff3b549e6e10e44c4bfc]
 
 (1) A permit scheme shall specify the area within which the carrying out of specified works is to be controlled (which shall be the “specified area” for the purposes of that permit scheme).
 
-### 8. Specified streets[^key-bc0b63b589e67be6df63e4de5054352e]
+### 8. Specified streets[^c-bc0b63b589e67be6df63e4de5054352e]
 
 (1) Subject to the following paragraphs of this regulation, a permit scheme shall specify the streets (or types of streets) within its specified area to which controls on the carrying out of specified works are to apply (which shall be the “specified streets” for the purposes of that permit scheme).
 
@@ -145,7 +145,7 @@ Before asking the Secretary of State to vary or revoke a permit scheme the Permi
 
 (4) A permit scheme may specify streets as being streets to which controls on the carrying out of specified works are to apply notwithstanding that the Permit Authority is not the highway authority for those streets.
 
-### 9. Permits[^key-2873242d5d965a57d38cf17ead7452e2]
+### 9. Permits[^c-2873242d5d965a57d38cf17ead7452e2]
 
 (1) Subject to paragraph (2), a permit scheme shall include provision requiring a permit to be obtained from the Permit Authority before specified works are carried out in a specified street.
 
@@ -165,7 +165,7 @@ Before asking the Secretary of State to vary or revoke a permit scheme the Permi
 
 (9) A permit scheme shall include provision requiring a copy of each application for a permit to be provided by the applicant upon request to any relevant authority and to any other person having apparatus in the street to which the application relates.
 
-### 10. Conditions attached to permits[^key-fad1ee843a0060f5d4e988b9a19c122a]
+### 10. Conditions attached to permits[^c-fad1ee843a0060f5d4e988b9a19c122a]
 
 (1) A permit scheme shall include provision for the Permit Authority to attach conditions to permits, and shall specify the types of condition which the Permit Authority may attach.
 
@@ -189,7 +189,7 @@ Before asking the Secretary of State to vary or revoke a permit scheme the Permi
 
 (5) In this regulation, “traffic management arrangements” includes signs, signals, road markings, barriers and other measures which are intended to secure the expeditious, convenient and safe movement of vehicular and other traffic (including pedestrians).
 
-### 11. Provisional advance authorisations[^key-5e79d9e6df3a47d950fb6738483a5bda]
+### 11. Provisional advance authorisations[^c-5e79d9e6df3a47d950fb6738483a5bda]
 
 (1) A permit scheme may include provision requiring a provisional advance authorisation for certain specified works in specified streets to be obtained as part of the application for certain classes of permit.
 
@@ -203,11 +203,11 @@ Before asking the Secretary of State to vary or revoke a permit scheme the Permi
 
 (6) A permit scheme shall include provision requiring a copy of each application for a provisional advance authorisation to be provided by the applicant upon request made by a relevant authority and to any other person having apparatus in the street to which the application relates.
 
-### 12. Permit reference numbers[^key-bcfe2f40f109f69e0d92d29590af0c33]
+### 12. Permit reference numbers[^c-bcfe2f40f109f69e0d92d29590af0c33]
 
 The Permit Authority shall allocate a unique reference number to each permit it issues.
 
-### 13. Conditions on works to which requirement to obtain permit does not apply[^key-4070a3be12a716795598e1628299e90c]
+### 13. Conditions on works to which requirement to obtain permit does not apply[^c-4070a3be12a716795598e1628299e90c]
 
 (1) A permit scheme may—
 
@@ -225,7 +225,7 @@ which are to apply to specified works which are carried out in specified streets
 
 (4) Such conditions shall cease to apply once any required permit is issued.
 
-### 14. Criteria to be taken into account by Permit Authority[^key-b2625099f7129e31e89e00af773a415b]
+### 14. Criteria to be taken into account by Permit Authority[^c-b2625099f7129e31e89e00af773a415b]
 
 (1) Where a notice has been issued under section 58(1) of the 1991 Act (restriction of works following substantial road works)[^f00006] in respect of a specified street, and an application for a permit or a provisional advance authorisation is made in respect of works to be carried out during the prescribed period, the Permit Authority shall, when considering such application, have regard to—
 
@@ -234,7 +234,7 @@ which are to apply to specified works which are carried out in specified streets
 
 (2) In this regulation, “the prescribed period” means the period specified in regulation 11(2) of the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007[^f00007].
 
-### 15. Review, variation and revocation of permits and permit conditions[^key-0c2b0823a8bf0719f3789744b3f85d81]
+### 15. Review, variation and revocation of permits and permit conditions[^c-0c2b0823a8bf0719f3789744b3f85d81]
 
 (1) A permit scheme shall include provision for the Permit Authority to have power to vary and revoke permits and permit conditions.
 
@@ -242,7 +242,7 @@ which are to apply to specified works which are carried out in specified streets
 
 (3) A permit scheme shall include a statement of the Permit Authority’s policy as to the circumstances in which it will review, vary or revoke a permit and permit conditions on its own initiative.
 
-### 16. Time limits on Permit Authority[^key-253e421a8be31398f21da31391644e2c]
+### 16. Time limits on Permit Authority[^c-253e421a8be31398f21da31391644e2c]
 
 (1) A permit scheme shall set time limits within which the Permit Authority shall respond to applications for permits, provisional advance authorisations, variations of permits and variations to permit conditions.
 
@@ -252,7 +252,7 @@ which are to apply to specified works which are carried out in specified streets
 
 ## PART 4 — Publicity
 
-### 17. Notification of permit scheme[^key-be6d14f25f7329392215722b5a35f5cf]
+### 17. Notification of permit scheme[^c-be6d14f25f7329392215722b5a35f5cf]
 
 (1) Where the Secretary of State has made an order under section 34(4) of the 2004 Act (implementation of local highway authority permit schemes) giving effect to a permit scheme, the Permit Authority shall notify the persons referred to in regulation 3(1) that such order has been made not less than four weeks before the date on which the scheme is to come into effect.
 
@@ -260,7 +260,7 @@ which are to apply to specified works which are carried out in specified streets
 
 ## PART 5 — Sanctions
 
-### 18. Action which may be taken for unauthorised works[^key-395c24a6e39d9cb2c0ad4915bcb1f93d]
+### 18. Action which may be taken for unauthorised works[^c-395c24a6e39d9cb2c0ad4915bcb1f93d]
 
 (1) Where a person—
 
@@ -273,29 +273,29 @@ the Permit Authority may by notice require that person to take such reasonable s
 
 (3) If a statutory undertaker fails to comply with such a notice within such reasonable period as is specified in the notice, the Permit Authority may take the steps specified in the notice and such reasonable steps as it considers appropriate having regard to the works or breach falling within paragraph (1)(a) or (b) to which the notice relates and recover from him the costs reasonably incurred by it in doing so.
 
-### 19. Offence to undertake works without a required permit[^key-de47e235143e95826f67388655cd2f06]
+### 19. Offence to undertake works without a required permit[^c-de47e235143e95826f67388655cd2f06]
 
 (1) It is an offence for a statutory undertaker or a person contracted to act on its behalf to undertake specified works in a specified street in the absence of a permit, except to the extent that a permit scheme provides that this requirement does not apply.
 
 (2) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 20. Offence to breach a permit condition[^key-07712317df6cc99612d626e09608ac05]
+### 20. Offence to breach a permit condition[^c-07712317df6cc99612d626e09608ac05]
 
 (1) It is an offence for a statutory undertaker or a person contracted to act on his behalf to breach a permit condition.
 
 (2) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 21. Giving Fixed Penalty Notices[^key-af8544eb2738b363583d2b694aff876f]
+### 21. Giving Fixed Penalty Notices[^c-af8544eb2738b363583d2b694aff876f]
 
 (1) An authorised officer of a Permit Authority may, if he has reason to believe that a person is committing or has committed an offence under regulation 19(1) or 20(1), give him a fixed penalty notice in relation to that offence.
 
 (2) In this Part “fixed penalty notice” means a notice offering a person the opportunity of discharging any liability to conviction for a fixed penalty offence by payment of a penalty.
 
-### 22. Time limit for giving fixed penalty notice[^key-163e7f7cbea478e3d4136803c6001ce9]
+### 22. Time limit for giving fixed penalty notice[^c-163e7f7cbea478e3d4136803c6001ce9]
 
 A fixed penalty notice may not be given more than 91 days after the commission of the offence beginning with the day of its commission.
 
-### 23. Form of fixed penalty notice[^key-fd357f778bece2f7cb4ab337b5b2165e]
+### 23. Form of fixed penalty notice[^c-fd357f778bece2f7cb4ab337b5b2165e]
 
 (1) A fixed penalty notice shall be in the form set out in Schedule 1 or in a form to substantially the like effect.
 
@@ -312,7 +312,7 @@ A fixed penalty notice may not be given more than 91 days after the commission o
 
 (4) The person specified under paragraph (3)(c) shall be the Permit Authority or a person contracted to act on its behalf.
 
-### 24. Penalties payable when fixed penalty notice given[^key-1d3ea1c487221f1693f67da8cdc97fa2]
+### 24. Penalties payable when fixed penalty notice given[^c-1d3ea1c487221f1693f67da8cdc97fa2]
 
 (1) Where a fixed penalty notice has been given under regulation 21 in relation to an offence, the penalty payable in order to discharge liability to conviction for that offence is—
 
@@ -323,7 +323,7 @@ A fixed penalty notice may not be given more than 91 days after the commission o
 
 (3) The Permit Authority may extend the period for paying the penalty in any particular case if they consider it appropriate to do so.
 
-### 25. Discounts for early payment[^key-2bd20592cedb8bf7a64229b82bd5b54c]
+### 25. Discounts for early payment[^c-2bd20592cedb8bf7a64229b82bd5b54c]
 
 (1) A discounted amount is payable instead of the amount prescribed under regulation 24(1) if payment is made before the end of the period of 29 days beginning with the day on which the notice is given.
 
@@ -334,7 +334,7 @@ A fixed penalty notice may not be given more than 91 days after the commission o
 
 (3) If the last day of the period specified in paragraph (1) does not fall on a working day, the period for payment of the discounted amount is extended until the end of the next working day.
 
-### 26. Saving from proceedings where fixed penalty notice given[^key-dd222fa4603fa8e3b674c6e90e15d1c3]
+### 26. Saving from proceedings where fixed penalty notice given[^c-dd222fa4603fa8e3b674c6e90e15d1c3]
 
 (1) This regulation applies where a person is given a fixed penalty notice in respect of a fixed penalty offence.
 
@@ -356,7 +356,7 @@ is evidence of the facts stated.
 - (a) where the Permit Authority is a single highway authority, the person having responsibility for the financial affairs of that authority; and
 - (b) where the Permit Authority is more than one highway authority, the person appointed by the participating authorities as being responsible for financial accounting in relation to the permit scheme.
 
-### 27. Withdrawal of fixed penalty notice[^key-93a5e76c8ccb2472e32ed0a957f7a0b8]
+### 27. Withdrawal of fixed penalty notice[^c-93a5e76c8ccb2472e32ed0a957f7a0b8]
 
 (1) If the Permit Authority considers that a fixed penalty notice which has been given ought not to have been given, it shall give to the person to whom that notice was given a notice withdrawing the fixed penalty notice.
 
@@ -366,17 +366,17 @@ is evidence of the facts stated.
 
 (4) The Permit Authority shall consider any representations made by or on behalf of the recipient of a fixed penalty notice and decide in all the circumstances whether to withdraw the notice.
 
-### 28. Application of sums received from fixed penalties[^key-e1931b2637761e87e704e7fbfe1e61e2]
+### 28. Application of sums received from fixed penalties[^c-e1931b2637761e87e704e7fbfe1e61e2]
 
 A Permit Authority may deduct from fixed penalties received under these Regulations any costs of operating its permit scheme which remain following the application of fee income to those costs under regulation 32, and shall apply the net proceeds for the purpose of developing or implementing policies for the promotion and encouragement of safe, integrated, efficient and economic transport facilities and services to, from and within the specified area.
 
 ## PART 6 — Fees
 
-### 29. Prescribed costs[^key-b63f621996ea7d98f79bb873ab7dcbdf]
+### 29. Prescribed costs[^c-b63f621996ea7d98f79bb873ab7dcbdf]
 
 For the purposes of section 37(9) of the 2004 Act (permit regulations) and regulation 32 the prescribed costs in any financial year are that proportion of the total costs incurred by the Permit Authority in connection with operating a permit scheme in that year attributable to the costs of operating that scheme in relation to statutory undertakers.
 
-### 30. Power to charge a fee and discounts[^key-12a9a27c35e74e05c39a0893315e57fc]
+### 30. Power to charge a fee and discounts[^c-12a9a27c35e74e05c39a0893315e57fc]
 
 (1) Subject to regulations 31 and 32, a Permit Authority may charge a fee in respect of each of the following—
 
@@ -397,7 +397,7 @@ For the purposes of section 37(9) of the 2004 Act (permit regulations) and regul
 
 (6) The maximum fee which may be charged in respect of each occasion on which there is a variation of a permit or a condition attached to a permit is £45.
 
-### 31. Savings from the payment of fees and discounts[^key-acde3506735d7feca9f85d01378a623f]
+### 31. Savings from the payment of fees and discounts[^c-acde3506735d7feca9f85d01378a623f]
 
 (1) Highway authorities shall not be liable to pay fees under a permit scheme.
 
@@ -409,13 +409,13 @@ For the purposes of section 37(9) of the 2004 Act (permit regulations) and regul
 
 (5) In a case where this paragraph applies the Permit Authority shall allow a minimum 30% discount for each of the applications.
 
-### 32. Application of sums received as fees[^key-47927434d2393a10280f39c320bbaa98]
+### 32. Application of sums received as fees[^c-47927434d2393a10280f39c320bbaa98]
 
 A Permit Authority shall apply sums paid by way of fees under these Regulations towards those costs of operating its permit scheme which are prescribed costs.
 
 ## PART 7 — Registers
 
-### 33. Duty to maintain register[^key-e23149b76643b391c9ffe1d5e325a364]
+### 33. Duty to maintain register[^c-e23149b76643b391c9ffe1d5e325a364]
 
 (1) The Permit Authority shall create and maintain or cause to be created and maintained a register of permits in respect of any permit scheme submitted by it under section 33 of the 2004 Act that is in effect under section 34(4) of that Act.
 
@@ -459,7 +459,7 @@ relating to a specified street within that permit scheme.
 
 (5) Two or more Permit Authorities may cause their registers to be combined.
 
-### 34. Access to register[^key-c1db06d542f2cf36603207a971c65885]
+### 34. Access to register[^c-c1db06d542f2cf36603207a971c65885]
 
 (1) The Permit Authority shall make the register available for inspection, at all reasonable hours and free of charge—
 
@@ -471,13 +471,13 @@ relating to a specified street within that permit scheme.
 - (a) information certified by, or with the authorisation of, the Secretary of State as being restricted information for the purpose of safeguarding national security; or
 - (b) information certified by, or with the authorisation of, an undertaker as being restricted information because its disclosure would, or would be likely to, prejudice the commercial interests of that undertaker.
 
-## PART 8 — Other Enactments[^key-43cdd468909faa9603ed0c5e31c9d84d][^key-a50ae4551df1fd73593233302ff73e59][^key-5ec9bc51950e6f2d4d9c4cdb6421c38c][^key-306391ad1c100741300b380d87c0c029][^key-2b963350d70f1896ff9805f6a55babc3][^key-e6c88b624b0ad784738b9ee823469cbe][^key-592bc54af432cc94834c3863f699b72d][^key-9e0d8e01886e3036112288563a18a6c9][^key-951e6e56fea1d061e963347920674366][^key-6013ac2ee146ffd43dded8d891d850fc][^key-db0e0ccf47231a99affa4fdb9c0f6752][^key-aa8c860100b2f670685a213dcc28f28a][^key-072f3d3522e89f736194190611f9ea9b][^key-fb7a63f9231cdf99bd3b47c6c56ad915][^key-80b8599854c82c6628c92b2f02b6aa53][^key-1a2b890fa805f6b80c00419f580c5260][^key-771d78b62f65106f493038462ce5459b][^key-b8b7a44432cff4579d31002520cd50aa][^key-29160412b7a9e8020375debb20c2d1b2][^key-a00d4de848821f07c2c1bf88c9cfdeb2][^key-32c272f8dfe83d0ba38a34febdaf386b][^key-87cde168dc0e36e03201a5481b5e520e][^key-9b343112f140f467a85b70fb375a6b6c][^key-5263e92bc18601d69a21e51084e7deae][^key-9dbd7a6e0cabe5b4fd3cfacba8eeb885][^key-245c439f7b5dcd8d0b82dcad36bc6274][^key-91a3b1b7ff72690812d8999a482f34c2][^key-4cea408839e42e0085148046fcf3f45b][^key-fe858e9b8a8ed021b80cd476ae486dad][^key-fb923099ccd95d576b9fb7a7b2c96508][^key-4af6b6333f4cd082205267daf0201017][^key-b276a4f73fb69b0569083ecffd2013a3][^key-4d6c06987a9d6e95d81749eb08aa6346][^key-94dacd689182776458694d94597c2912][^key-e4484ba9051f70679602a6e0f50852a8][^key-bce231b24894cd59c23f7fc3c9fa5f06][^key-6a980a8347860c5ba4d8377f58e65b5f][^key-e005501bb79753591211bcd8152a080c][^key-0b76c5782beed1519457efa14ef0f0bc][^key-231d8109efa5e07ce9437a34b8a8240a][^key-c6aa0580b018277c7574824606f6c638][^key-79582a2a2ee9068147dc50df8d1983c5][^key-bd62592e01e0a376094690f45ceafd6a][^key-656d25c88c227a0fb8706d6ce47a62ef][^key-798ffd4dc35b78dbe1d82fbf0cbb2728][^key-ee138fb54759a9ae4aba8262dd527ff1][^key-d58103b8e68acc00f2df1ea43eb68011][^key-7d9b5abcd6a4fd1f18868257f4cbc70a][^key-16a3be75e7c25bc6ee933b83cc8e43e9][^key-14d2aa1f582f09f2921ba9bfee3e2acd][^key-2851ac33491f902207d3781cccc38306][^key-a62f7c63002167efd8254b418c07782b][^key-4f43d99e1e124ed86779579b08474113][^key-60fa08263149880835844f6f59d46cf8][^key-3ebc62c7be2dd6eb6a50190919a56b81][^key-e33fd90a99de9defb27a23db24e63de0][^key-10c362c54eeeb3b84e34f0b4bd09d517][^key-21a1142eda0e03cf4f3f29218dc0d66e][^key-06b62986dd9bcee794a84cb92b617861][^key-b99774a8a46b93f3f5ddf2369feb8306][^key-44f2abbe54a75e42fecc4038b575cbb3][^key-876971570abeccdc4aa893bcfe62e361][^key-de3f1e2c0d6499ae83c48d6f480cb67e][^key-d77d096726d53ff95e94dda07c9fecf5][^key-f81aa4bb808c120f691d4ff57aea246e][^key-a84393e0e77ac28be2db87a31ad2e09d][^key-52bc450f994f481592d8c90baf2f03a9][^key-1685489cd46500848dc8b35eb4d36432][^key-8b9ca5e2a41fcef34a19b4e9df3a5b1c][^key-d3fc0a51d7cf6a4dd2dfbbe64e90df8f][^key-9892bf85daaa4f4abf40b67774306536][^key-e4dfa195f7a573fb4897d7bd925a0cdf][^key-1f2ce7e4d87b79fcb974e6e253605a69][^key-fae7fd540328a54b6278dbbf9834c4b3][^key-15c655df30535c9895c52b5c95a4e1f0][^key-a7773c3dbe4e9acc1dbb6e6a2cd60822][^key-bc8cf803c4cad5aaf493119461725703][^key-187ab481ef475459e18268671f13535d][^key-959da20b95b387ba48c2765a42b3b776][^key-bec2ff3b943ca0dd27abe10507258b7b][^key-2aba1612274ba7f087df7e3419a31701]
+## PART 8 — Other Enactments[^c-43cdd468909faa9603ed0c5e31c9d84d][^c-a50ae4551df1fd73593233302ff73e59][^c-5ec9bc51950e6f2d4d9c4cdb6421c38c][^c-306391ad1c100741300b380d87c0c029][^c-2b963350d70f1896ff9805f6a55babc3][^c-e6c88b624b0ad784738b9ee823469cbe][^c-592bc54af432cc94834c3863f699b72d][^c-9e0d8e01886e3036112288563a18a6c9][^c-951e6e56fea1d061e963347920674366][^c-6013ac2ee146ffd43dded8d891d850fc][^c-db0e0ccf47231a99affa4fdb9c0f6752][^c-aa8c860100b2f670685a213dcc28f28a][^c-072f3d3522e89f736194190611f9ea9b][^c-fb7a63f9231cdf99bd3b47c6c56ad915][^c-80b8599854c82c6628c92b2f02b6aa53][^c-1a2b890fa805f6b80c00419f580c5260][^c-771d78b62f65106f493038462ce5459b][^c-b8b7a44432cff4579d31002520cd50aa][^c-29160412b7a9e8020375debb20c2d1b2][^c-a00d4de848821f07c2c1bf88c9cfdeb2][^c-32c272f8dfe83d0ba38a34febdaf386b][^c-87cde168dc0e36e03201a5481b5e520e][^c-9b343112f140f467a85b70fb375a6b6c][^c-5263e92bc18601d69a21e51084e7deae][^c-9dbd7a6e0cabe5b4fd3cfacba8eeb885][^c-245c439f7b5dcd8d0b82dcad36bc6274][^c-91a3b1b7ff72690812d8999a482f34c2][^c-4cea408839e42e0085148046fcf3f45b][^c-fe858e9b8a8ed021b80cd476ae486dad][^c-fb923099ccd95d576b9fb7a7b2c96508][^c-4af6b6333f4cd082205267daf0201017][^c-b276a4f73fb69b0569083ecffd2013a3][^c-4d6c06987a9d6e95d81749eb08aa6346][^c-94dacd689182776458694d94597c2912][^c-e4484ba9051f70679602a6e0f50852a8][^c-bce231b24894cd59c23f7fc3c9fa5f06][^c-6a980a8347860c5ba4d8377f58e65b5f][^c-e005501bb79753591211bcd8152a080c][^c-0b76c5782beed1519457efa14ef0f0bc][^c-231d8109efa5e07ce9437a34b8a8240a][^c-c6aa0580b018277c7574824606f6c638][^c-79582a2a2ee9068147dc50df8d1983c5][^c-bd62592e01e0a376094690f45ceafd6a][^c-656d25c88c227a0fb8706d6ce47a62ef][^c-798ffd4dc35b78dbe1d82fbf0cbb2728][^c-ee138fb54759a9ae4aba8262dd527ff1][^c-d58103b8e68acc00f2df1ea43eb68011][^c-7d9b5abcd6a4fd1f18868257f4cbc70a][^c-16a3be75e7c25bc6ee933b83cc8e43e9][^c-14d2aa1f582f09f2921ba9bfee3e2acd][^c-2851ac33491f902207d3781cccc38306][^c-a62f7c63002167efd8254b418c07782b][^c-4f43d99e1e124ed86779579b08474113][^c-60fa08263149880835844f6f59d46cf8][^c-3ebc62c7be2dd6eb6a50190919a56b81][^c-e33fd90a99de9defb27a23db24e63de0][^c-10c362c54eeeb3b84e34f0b4bd09d517][^c-21a1142eda0e03cf4f3f29218dc0d66e][^c-06b62986dd9bcee794a84cb92b617861][^c-b99774a8a46b93f3f5ddf2369feb8306][^c-44f2abbe54a75e42fecc4038b575cbb3][^c-876971570abeccdc4aa893bcfe62e361][^c-de3f1e2c0d6499ae83c48d6f480cb67e][^c-d77d096726d53ff95e94dda07c9fecf5][^c-f81aa4bb808c120f691d4ff57aea246e][^c-a84393e0e77ac28be2db87a31ad2e09d][^c-52bc450f994f481592d8c90baf2f03a9][^c-1685489cd46500848dc8b35eb4d36432][^c-8b9ca5e2a41fcef34a19b4e9df3a5b1c][^c-d3fc0a51d7cf6a4dd2dfbbe64e90df8f][^c-9892bf85daaa4f4abf40b67774306536][^c-e4dfa195f7a573fb4897d7bd925a0cdf][^c-1f2ce7e4d87b79fcb974e6e253605a69][^c-fae7fd540328a54b6278dbbf9834c4b3][^c-15c655df30535c9895c52b5c95a4e1f0][^c-a7773c3dbe4e9acc1dbb6e6a2cd60822][^c-bc8cf803c4cad5aaf493119461725703][^c-187ab481ef475459e18268671f13535d][^c-959da20b95b387ba48c2765a42b3b776][^c-bec2ff3b943ca0dd27abe10507258b7b][^c-2aba1612274ba7f087df7e3419a31701]
 
-### 35. Application of Part[^key-300a50fd8beb0b400c4aa425c13a0b19]
+### 35. Application of Part[^c-300a50fd8beb0b400c4aa425c13a0b19]
 
 This Part applies to the specified streets within a permit scheme to the extent specified in the order made under section 34(4) of the 2004 Act in respect of that permit scheme.
 
-### 36. Disapplication of enactments[^key-8f1f407fcc1202ba5150027034c0b354]
+### 36. Disapplication of enactments[^c-8f1f407fcc1202ba5150027034c0b354]
 
 The following provisions of the 1991 Act are disapplied in relation to specified works in specified streets—
 
@@ -488,7 +488,7 @@ The following provisions of the 1991 Act are disapplied in relation to specified
 - (e) section 57 (notice of emergency works)[^f00020]; and
 - (f) section 66 (avoidance of unnecessary delay or obstruction)[^f00021].
 
-### 37. Modification of enactments[^key-0c193a082df550071cda77cddc37306f]
+### 37. Modification of enactments[^c-0c193a082df550071cda77cddc37306f]
 
 (1) The following provisions of the 1991 Act shall be modified as follows in relation to specified works in specified streets.
 
@@ -578,13 +578,13 @@ The following provisions of the 1991 Act are disapplied in relation to specified
 
   .
 
-### 38. Modification of Regulations[^key-7712fbba8a6302f38e81d3cf7ab05ea1]
+### 38. Modification of Regulations[^c-7712fbba8a6302f38e81d3cf7ab05ea1]
 
 Paragraph 7(a) of the Schedule to the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007[^f00027] shall have effect in relation to specified works on specified streets as if for “given notice under section 54 or section 55 of its intention to execute street” there were substituted “applied for a permit or for a provisional advance application in respect of specified”.
 
 ## PART 9 — Miscellaneous
 
-### 39. Service of documents, etc[^key-548da75f9f228e36a4af2990b3d379cc]
+### 39. Service of documents, etc[^c-548da75f9f228e36a4af2990b3d379cc]
 
 (1) Subject to paragraph (5), any requirement or power in these Regulations or in a permit scheme to send a document or information other than a fixed penalty notice shall be discharged by sending that document or information using electronic communication.
 
@@ -623,7 +623,7 @@ a fixed penalty notice shall be given by sending it to him at that address by th
 
 (9) In paragraph (8), “business hours” means the period from 08.00 hours to 16.30 hours on a working day.
 
-### 40. Non-discrimination[^key-21b813836604211dc26b4c5e84a2a645]
+### 40. Non-discrimination[^c-21b813836604211dc26b4c5e84a2a645]
 
 Without prejudice to the operation of Parts 5 and 6 of these Regulations, a Permit Authority shall operate a permit scheme made by it without discrimination between different classes of applicant for permits or for provisional advance authorisations.
 
@@ -637,11 +637,11 @@ Department for Transport
 
 28th November 2007
 
-## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE[^key-28df3b4cf5488a7f21f6af9e0ab1f460]
+## SCHEDULE 1 — FORM OF FIXED PENALTY NOTICE[^c-28df3b4cf5488a7f21f6af9e0ab1f460]
 
 Regulation 23
 
-## SCHEDULE 2 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE[^key-3ad67d61f23fce9f70322bc3dc490ed6]
+## SCHEDULE 2 — FORM OF NOTICE WITHDRAWING A FIXED PENALTY NOTICE[^c-3ad67d61f23fce9f70322bc3dc490ed6]
 
 Regulation 27
 
@@ -695,9 +695,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-0118eeb2c01777f484ab8216fc034b67]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-0118eeb2c01777f484ab8216fc034b67]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-445407be1a5a268ad8b545ed2d81dee5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3372/regulation/2) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-445407be1a5a268ad8b545ed2d81dee5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3372/regulation/2) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00002]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22).
 
@@ -705,73 +705,73 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c09809514094f34d1c24c73d9d8eeea1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3372/regulation/3) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-c09809514094f34d1c24c73d9d8eeea1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3372/regulation/3) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-a42dd2b09794406513fce04e1c17ed38]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3372/regulation/4) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-a42dd2b09794406513fce04e1c17ed38]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3372/regulation/4) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-b0df5099c453626936925d346da6bb3a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3372/regulation/5) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-b0df5099c453626936925d346da6bb3a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3372/regulation/5) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-555e72e8abf967950cdd8982d13c49c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3372/regulation/6) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-555e72e8abf967950cdd8982d13c49c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3372/regulation/6) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-6f90fc0c4ee8ff3b549e6e10e44c4bfc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3372/regulation/7) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-6f90fc0c4ee8ff3b549e6e10e44c4bfc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3372/regulation/7) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-bc0b63b589e67be6df63e4de5054352e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3372/regulation/8) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-bc0b63b589e67be6df63e4de5054352e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3372/regulation/8) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-2873242d5d965a57d38cf17ead7452e2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3372/regulation/9) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-2873242d5d965a57d38cf17ead7452e2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3372/regulation/9) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-fad1ee843a0060f5d4e988b9a19c122a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/3372/regulation/10) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-fad1ee843a0060f5d4e988b9a19c122a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/3372/regulation/10) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00005]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 14 was substituted by the Road Traffic (Temporary Restrictions) Act [1991 (c. 26)](https://www.legislation.gov.uk/ukpga/1991/26) section 1 and Schedule 1.
 
-[^key-5e79d9e6df3a47d950fb6738483a5bda]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3372/regulation/11) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-5e79d9e6df3a47d950fb6738483a5bda]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3372/regulation/11) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-bcfe2f40f109f69e0d92d29590af0c33]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/3372/regulation/12) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-bcfe2f40f109f69e0d92d29590af0c33]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/3372/regulation/12) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-4070a3be12a716795598e1628299e90c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/3372/regulation/13) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-4070a3be12a716795598e1628299e90c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/3372/regulation/13) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-b2625099f7129e31e89e00af773a415b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/3372/regulation/14) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-b2625099f7129e31e89e00af773a415b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/3372/regulation/14) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00006]: Footnote: Section 58(1) was amended by the Traffic Management Act 2004, section 51(1) and (2).
 
 [^f00007]: Footnote: [S.I. 2007/1951](https://www.legislation.gov.uk/uksi/2007/1951)*.*
 
-[^key-0c2b0823a8bf0719f3789744b3f85d81]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/3372/regulation/15) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-0c2b0823a8bf0719f3789744b3f85d81]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/3372/regulation/15) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-253e421a8be31398f21da31391644e2c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/3372/regulation/16) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-253e421a8be31398f21da31391644e2c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/3372/regulation/16) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-be6d14f25f7329392215722b5a35f5cf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/3372/regulation/17) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-be6d14f25f7329392215722b5a35f5cf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/3372/regulation/17) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-395c24a6e39d9cb2c0ad4915bcb1f93d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/3372/regulation/18) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-395c24a6e39d9cb2c0ad4915bcb1f93d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/3372/regulation/18) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-de47e235143e95826f67388655cd2f06]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/3372/regulation/19) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-de47e235143e95826f67388655cd2f06]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/3372/regulation/19) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-07712317df6cc99612d626e09608ac05]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/3372/regulation/20) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-07712317df6cc99612d626e09608ac05]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/3372/regulation/20) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-af8544eb2738b363583d2b694aff876f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/3372/regulation/21) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-af8544eb2738b363583d2b694aff876f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/3372/regulation/21) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-163e7f7cbea478e3d4136803c6001ce9]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/3372/regulation/22) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-163e7f7cbea478e3d4136803c6001ce9]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/3372/regulation/22) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-fd357f778bece2f7cb4ab337b5b2165e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/3372/regulation/23) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-fd357f778bece2f7cb4ab337b5b2165e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/3372/regulation/23) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-1d3ea1c487221f1693f67da8cdc97fa2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/3372/regulation/24) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-1d3ea1c487221f1693f67da8cdc97fa2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/3372/regulation/24) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-2bd20592cedb8bf7a64229b82bd5b54c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2007/3372/regulation/25) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-2bd20592cedb8bf7a64229b82bd5b54c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2007/3372/regulation/25) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-dd222fa4603fa8e3b674c6e90e15d1c3]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2007/3372/regulation/26) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-dd222fa4603fa8e3b674c6e90e15d1c3]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2007/3372/regulation/26) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-93a5e76c8ccb2472e32ed0a957f7a0b8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2007/3372/regulation/27) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-93a5e76c8ccb2472e32ed0a957f7a0b8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2007/3372/regulation/27) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-e1931b2637761e87e704e7fbfe1e61e2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2007/3372/regulation/28) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-e1931b2637761e87e704e7fbfe1e61e2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2007/3372/regulation/28) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-b63f621996ea7d98f79bb873ab7dcbdf]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2007/3372/regulation/29) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-b63f621996ea7d98f79bb873ab7dcbdf]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2007/3372/regulation/29) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-12a9a27c35e74e05c39a0893315e57fc]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2007/3372/regulation/30) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-12a9a27c35e74e05c39a0893315e57fc]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2007/3372/regulation/30) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-acde3506735d7feca9f85d01378a623f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2007/3372/regulation/31) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-acde3506735d7feca9f85d01378a623f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2007/3372/regulation/31) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-47927434d2393a10280f39c320bbaa98]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2007/3372/regulation/32) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-47927434d2393a10280f39c320bbaa98]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2007/3372/regulation/32) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-e23149b76643b391c9ffe1d5e325a364]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2007/3372/regulation/33) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-e23149b76643b391c9ffe1d5e325a364]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2007/3372/regulation/33) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00008]: Footnote: Section 64 was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), section 81 and Schedule 7, paragraph 12 and by the Traffic Management Act 2004, section 52(4).
 
@@ -789,173 +789,173 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00015]: Footnote: [S.I. 2000/3314](https://www.legislation.gov.uk/uksi/2000/3314).
 
-[^key-c1db06d542f2cf36603207a971c65885]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2007/3372/regulation/34) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-c1db06d542f2cf36603207a971c65885]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2007/3372/regulation/34) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-43cdd468909faa9603ed0c5e31c9d84d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (Royal Borough of Kensington and Chelsea) Permit Scheme Order 2009 (S.I. 2009/3170)](https://www.legislation.gov.uk/uksi/2009/3170), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3170/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3170/article/4)
+[^c-43cdd468909faa9603ed0c5e31c9d84d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (Royal Borough of Kensington and Chelsea) Permit Scheme Order 2009 (S.I. 2009/3170)](https://www.legislation.gov.uk/uksi/2009/3170), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3170/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3170/article/4)
 
-[^key-a50ae4551df1fd73593233302ff73e59]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Redbridge) Permit Scheme Order 2009 (S.I. 2009/3179)](https://www.legislation.gov.uk/uksi/2009/3179), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3179/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3179/article/4)
+[^c-a50ae4551df1fd73593233302ff73e59]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Redbridge) Permit Scheme Order 2009 (S.I. 2009/3179)](https://www.legislation.gov.uk/uksi/2009/3179), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3179/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3179/article/4)
 
-[^key-5ec9bc51950e6f2d4d9c4cdb6421c38c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Enfield) Permit Scheme Order 2009 (S.I. 2009/3165)](https://www.legislation.gov.uk/uksi/2009/3165), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3165/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3165/article/4)
+[^c-5ec9bc51950e6f2d4d9c4cdb6421c38c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Enfield) Permit Scheme Order 2009 (S.I. 2009/3165)](https://www.legislation.gov.uk/uksi/2009/3165), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3165/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3165/article/4)
 
-[^key-306391ad1c100741300b380d87c0c029]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Brent) Permit Scheme Order 2009 (S.I. 2009/3142)](https://www.legislation.gov.uk/uksi/2009/3142), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3142/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3142/article/4)
+[^c-306391ad1c100741300b380d87c0c029]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Brent) Permit Scheme Order 2009 (S.I. 2009/3142)](https://www.legislation.gov.uk/uksi/2009/3142), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3142/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3142/article/4)
 
-[^key-2b963350d70f1896ff9805f6a55babc3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Ealing) Permit Scheme Order 2009 (S.I. 2009/3163)](https://www.legislation.gov.uk/uksi/2009/3163), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3163/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3163/article/4)
+[^c-2b963350d70f1896ff9805f6a55babc3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Ealing) Permit Scheme Order 2009 (S.I. 2009/3163)](https://www.legislation.gov.uk/uksi/2009/3163), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3163/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3163/article/4)
 
-[^key-e6c88b624b0ad784738b9ee823469cbe]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (Transport for London) Permit Scheme Order 2009 (S.I. 2009/3186)](https://www.legislation.gov.uk/uksi/2009/3186), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3186/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3186/article/4)
+[^c-e6c88b624b0ad784738b9ee823469cbe]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (Transport for London) Permit Scheme Order 2009 (S.I. 2009/3186)](https://www.legislation.gov.uk/uksi/2009/3186), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3186/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3186/article/4)
 
-[^key-592bc54af432cc94834c3863f699b72d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Wandsworth) Permit Scheme Order 2009 (S.I. 2009/3189)](https://www.legislation.gov.uk/uksi/2009/3189), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3189/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3189/article/4)
+[^c-592bc54af432cc94834c3863f699b72d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Wandsworth) Permit Scheme Order 2009 (S.I. 2009/3189)](https://www.legislation.gov.uk/uksi/2009/3189), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3189/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3189/article/4)
 
-[^key-9e0d8e01886e3036112288563a18a6c9]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Camden) Permit Scheme Order 2009 (S.I. 2009/3149)](https://www.legislation.gov.uk/uksi/2009/3149), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3149/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3149/article/4)
+[^c-9e0d8e01886e3036112288563a18a6c9]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Camden) Permit Scheme Order 2009 (S.I. 2009/3149)](https://www.legislation.gov.uk/uksi/2009/3149), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3149/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3149/article/4)
 
-[^key-951e6e56fea1d061e963347920674366]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Barnet) Permit Scheme Order 2009 (S.I. 2009/3141)](https://www.legislation.gov.uk/uksi/2009/3141), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3141/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3141/article/4)
+[^c-951e6e56fea1d061e963347920674366]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Barnet) Permit Scheme Order 2009 (S.I. 2009/3141)](https://www.legislation.gov.uk/uksi/2009/3141), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3141/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3141/article/4)
 
-[^key-6013ac2ee146ffd43dded8d891d850fc]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Hounslow) Permit Scheme Order 2009 (S.I. 2009/3178)](https://www.legislation.gov.uk/uksi/2009/3178), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3178/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3178/article/4)
+[^c-6013ac2ee146ffd43dded8d891d850fc]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Hounslow) Permit Scheme Order 2009 (S.I. 2009/3178)](https://www.legislation.gov.uk/uksi/2009/3178), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3178/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3178/article/4)
 
-[^key-db0e0ccf47231a99affa4fdb9c0f6752]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (City of Westminster) Permit Scheme Order 2009 (S.I. 2009/3187)](https://www.legislation.gov.uk/uksi/2009/3187), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3187/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3187/article/4)
+[^c-db0e0ccf47231a99affa4fdb9c0f6752]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (City of Westminster) Permit Scheme Order 2009 (S.I. 2009/3187)](https://www.legislation.gov.uk/uksi/2009/3187), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3187/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3187/article/4)
 
-[^key-aa8c860100b2f670685a213dcc28f28a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Hackney) Permit Scheme Order 2009 (S.I. 2009/3167)](https://www.legislation.gov.uk/uksi/2009/3167), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3167/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3167/article/4)
+[^c-aa8c860100b2f670685a213dcc28f28a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Hackney) Permit Scheme Order 2009 (S.I. 2009/3167)](https://www.legislation.gov.uk/uksi/2009/3167), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3167/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3167/article/4)
 
-[^key-072f3d3522e89f736194190611f9ea9b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Hammersmith and Fulham) Permit Scheme Order 2009 (S.I. 2009/3168)](https://www.legislation.gov.uk/uksi/2009/3168), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3168/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3168/article/4)
+[^c-072f3d3522e89f736194190611f9ea9b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Hammersmith and Fulham) Permit Scheme Order 2009 (S.I. 2009/3168)](https://www.legislation.gov.uk/uksi/2009/3168), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3168/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3168/article/4)
 
-[^key-fb7a63f9231cdf99bd3b47c6c56ad915]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (City of London Corporation) Permit Scheme Order 2009 (S.I. 2009/3162)](https://www.legislation.gov.uk/uksi/2009/3162), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3162/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3162/article/4)
+[^c-fb7a63f9231cdf99bd3b47c6c56ad915]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (City of London Corporation) Permit Scheme Order 2009 (S.I. 2009/3162)](https://www.legislation.gov.uk/uksi/2009/3162), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3162/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3162/article/4)
 
-[^key-80b8599854c82c6628c92b2f02b6aa53]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Lewisham) Permit Scheme Order 2009 (S.I. 2009/3171)](https://www.legislation.gov.uk/uksi/2009/3171), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3171/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3171/article/4)
+[^c-80b8599854c82c6628c92b2f02b6aa53]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Lewisham) Permit Scheme Order 2009 (S.I. 2009/3171)](https://www.legislation.gov.uk/uksi/2009/3171), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3171/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3171/article/4)
 
-[^key-1a2b890fa805f6b80c00419f580c5260]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Islington) Permit Scheme Order 2009 (S.I. 2009/3180)](https://www.legislation.gov.uk/uksi/2009/3180), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3180/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3180/article/4)
+[^c-1a2b890fa805f6b80c00419f580c5260]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Islington) Permit Scheme Order 2009 (S.I. 2009/3180)](https://www.legislation.gov.uk/uksi/2009/3180), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3180/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3180/article/4)
 
-[^key-771d78b62f65106f493038462ce5459b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Haringey) Permit Scheme Order 2009 (S.I. 2009/3169)](https://www.legislation.gov.uk/uksi/2009/3169), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3169/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3169/article/4)
+[^c-771d78b62f65106f493038462ce5459b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.1.2010) by [The Traffic Management (London Borough of Haringey) Permit Scheme Order 2009 (S.I. 2009/3169)](https://www.legislation.gov.uk/uksi/2009/3169), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3169/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3169/article/4)
 
-[^key-b8b7a44432cff4579d31002520cd50aa]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (25.1.2010) by [The Traffic Management (Kent County Council) Permit Scheme Order 2009 (S.I. 2009/3188)](https://www.legislation.gov.uk/uksi/2009/3188), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3188/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3188/article/4)
+[^c-b8b7a44432cff4579d31002520cd50aa]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (25.1.2010) by [The Traffic Management (Kent County Council) Permit Scheme Order 2009 (S.I. 2009/3188)](https://www.legislation.gov.uk/uksi/2009/3188), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3188/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3188/article/4)
 
-[^key-29160412b7a9e8020375debb20c2d1b2]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.4.2010) by [The Traffic Management (London Borough of Bromley) Permit Scheme Order 2009 (S.I. 2009/3148)](https://www.legislation.gov.uk/uksi/2009/3148), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3148/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3148/article/4)
+[^c-29160412b7a9e8020375debb20c2d1b2]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.4.2010) by [The Traffic Management (London Borough of Bromley) Permit Scheme Order 2009 (S.I. 2009/3148)](https://www.legislation.gov.uk/uksi/2009/3148), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3148/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3148/article/4)
 
-[^key-a00d4de848821f07c2c1bf88c9cfdeb2]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.4.2010) by [The Traffic Management (London Borough of Croydon) Permit Scheme Order 2009 (S.I. 2009/3158)](https://www.legislation.gov.uk/uksi/2009/3158), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3158/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3158/article/4)
+[^c-a00d4de848821f07c2c1bf88c9cfdeb2]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.4.2010) by [The Traffic Management (London Borough of Croydon) Permit Scheme Order 2009 (S.I. 2009/3158)](https://www.legislation.gov.uk/uksi/2009/3158), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3158/article/1), [4](https://www.legislation.gov.uk/uksi/2009/3158/article/4)
 
-[^key-32c272f8dfe83d0ba38a34febdaf386b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (10.1.2011) by [The Traffic Management (Northamptonshire County Council) Permit Scheme Order 2010 (S.I. 2010/2823)](https://www.legislation.gov.uk/uksi/2010/2823), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2823/article/1), [4](https://www.legislation.gov.uk/uksi/2010/2823/article/4)
+[^c-32c272f8dfe83d0ba38a34febdaf386b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (10.1.2011) by [The Traffic Management (Northamptonshire County Council) Permit Scheme Order 2010 (S.I. 2010/2823)](https://www.legislation.gov.uk/uksi/2010/2823), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2823/article/1), [4](https://www.legislation.gov.uk/uksi/2010/2823/article/4)
 
-[^key-87cde168dc0e36e03201a5481b5e520e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Harrow) Permit Scheme Order 2011 (S.I. 2011/1961)](https://www.legislation.gov.uk/uksi/2011/1961), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1961/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1961/article/4)
+[^c-87cde168dc0e36e03201a5481b5e520e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Harrow) Permit Scheme Order 2011 (S.I. 2011/1961)](https://www.legislation.gov.uk/uksi/2011/1961), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1961/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1961/article/4)
 
-[^key-9b343112f140f467a85b70fb375a6b6c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Richmond upon Thames) Permit Scheme Order 2011 (S.I. 2011/1960)](https://www.legislation.gov.uk/uksi/2011/1960), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1960/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1960/article/4)
+[^c-9b343112f140f467a85b70fb375a6b6c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Richmond upon Thames) Permit Scheme Order 2011 (S.I. 2011/1960)](https://www.legislation.gov.uk/uksi/2011/1960), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1960/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1960/article/4)
 
-[^key-5263e92bc18601d69a21e51084e7deae]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Waltham Forest) Permit Scheme Order 2011 (S.I. 2011/1959)](https://www.legislation.gov.uk/uksi/2011/1959), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1959/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1959/article/4)
+[^c-5263e92bc18601d69a21e51084e7deae]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Waltham Forest) Permit Scheme Order 2011 (S.I. 2011/1959)](https://www.legislation.gov.uk/uksi/2011/1959), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1959/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1959/article/4)
 
-[^key-9dbd7a6e0cabe5b4fd3cfacba8eeb885]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Greenwich) Permit Scheme Order 2011 (S.I. 2011/1956)](https://www.legislation.gov.uk/uksi/2011/1956), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1956/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1956/article/4)
+[^c-9dbd7a6e0cabe5b4fd3cfacba8eeb885]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Greenwich) Permit Scheme Order 2011 (S.I. 2011/1956)](https://www.legislation.gov.uk/uksi/2011/1956), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1956/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1956/article/4)
 
-[^key-245c439f7b5dcd8d0b82dcad36bc6274]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Newham) Permit Scheme Order 2011 (S.I. 2011/1962)](https://www.legislation.gov.uk/uksi/2011/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1962/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1962/article/4)
+[^c-245c439f7b5dcd8d0b82dcad36bc6274]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Newham) Permit Scheme Order 2011 (S.I. 2011/1962)](https://www.legislation.gov.uk/uksi/2011/1962), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1962/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1962/article/4)
 
-[^key-91a3b1b7ff72690812d8999a482f34c2]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Southwark) Permit Scheme Order 2011 (S.I. 2011/1957)](https://www.legislation.gov.uk/uksi/2011/1957), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1957/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1957/article/4)
+[^c-91a3b1b7ff72690812d8999a482f34c2]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Southwark) Permit Scheme Order 2011 (S.I. 2011/1957)](https://www.legislation.gov.uk/uksi/2011/1957), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1957/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1957/article/4)
 
-[^key-4cea408839e42e0085148046fcf3f45b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Lambeth) Permit Scheme Order 2011 (S.I. 2011/1958)](https://www.legislation.gov.uk/uksi/2011/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1958/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1958/article/4)
+[^c-4cea408839e42e0085148046fcf3f45b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.9.2011) by [The Traffic Management (London Borough of Lambeth) Permit Scheme Order 2011 (S.I. 2011/1958)](https://www.legislation.gov.uk/uksi/2011/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1958/article/1), [4](https://www.legislation.gov.uk/uksi/2011/1958/article/4)
 
-[^key-fe858e9b8a8ed021b80cd476ae486dad]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (28.11.2011) by [The Traffic Management (London Borough of Barking and Dagenham) Permit Scheme Order 2011 (S.I. 2011/2599)](https://www.legislation.gov.uk/uksi/2011/2599), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2599/article/1), [4](https://www.legislation.gov.uk/uksi/2011/2599/article/4)
+[^c-fe858e9b8a8ed021b80cd476ae486dad]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (28.11.2011) by [The Traffic Management (London Borough of Barking and Dagenham) Permit Scheme Order 2011 (S.I. 2011/2599)](https://www.legislation.gov.uk/uksi/2011/2599), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2599/article/1), [4](https://www.legislation.gov.uk/uksi/2011/2599/article/4)
 
-[^key-fb923099ccd95d576b9fb7a7b2c96508]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (28.11.2011) by [The Traffic Management (London Borough of Hillingdon) Permit Scheme Order 2011 (S.I. 2011/2600)](https://www.legislation.gov.uk/uksi/2011/2600), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2600/article/1), [4](https://www.legislation.gov.uk/uksi/2011/2600/article/4)
+[^c-fb923099ccd95d576b9fb7a7b2c96508]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (28.11.2011) by [The Traffic Management (London Borough of Hillingdon) Permit Scheme Order 2011 (S.I. 2011/2600)](https://www.legislation.gov.uk/uksi/2011/2600), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2600/article/1), [4](https://www.legislation.gov.uk/uksi/2011/2600/article/4)
 
-[^key-4af6b6333f4cd082205267daf0201017]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (10.4.2012) by [The Traffic Management (St Helens Borough Council) Permit Scheme Order 2012 (S.I. 2012/785)](https://www.legislation.gov.uk/uksi/2012/785), [arts. 1](https://www.legislation.gov.uk/uksi/2012/785/article/1), [4](https://www.legislation.gov.uk/uksi/2012/785/article/4)
+[^c-4af6b6333f4cd082205267daf0201017]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (10.4.2012) by [The Traffic Management (St Helens Borough Council) Permit Scheme Order 2012 (S.I. 2012/785)](https://www.legislation.gov.uk/uksi/2012/785), [arts. 1](https://www.legislation.gov.uk/uksi/2012/785/article/1), [4](https://www.legislation.gov.uk/uksi/2012/785/article/4)
 
-[^key-b276a4f73fb69b0569083ecffd2013a3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Barnsley Metropolitan Borough Council) Permit Scheme Order 2012 (S.I. 2012/1289)](https://www.legislation.gov.uk/uksi/2012/1289), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1289/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1289/article/4)
+[^c-b276a4f73fb69b0569083ecffd2013a3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Barnsley Metropolitan Borough Council) Permit Scheme Order 2012 (S.I. 2012/1289)](https://www.legislation.gov.uk/uksi/2012/1289), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1289/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1289/article/4)
 
-[^key-4d6c06987a9d6e95d81749eb08aa6346]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Leeds City Council) Permit Scheme Order 2012 (S.I. 2012/1295)](https://www.legislation.gov.uk/uksi/2012/1295), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1295/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1295/article/4)
+[^c-4d6c06987a9d6e95d81749eb08aa6346]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Leeds City Council) Permit Scheme Order 2012 (S.I. 2012/1295)](https://www.legislation.gov.uk/uksi/2012/1295), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1295/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1295/article/4)
 
-[^key-94dacd689182776458694d94597c2912]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Doncaster Borough Council) Permit Scheme Order 2012 (S.I. 2012/1282)](https://www.legislation.gov.uk/uksi/2012/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1282/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1282/article/4)
+[^c-94dacd689182776458694d94597c2912]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Doncaster Borough Council) Permit Scheme Order 2012 (S.I. 2012/1282)](https://www.legislation.gov.uk/uksi/2012/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1282/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1282/article/4)
 
-[^key-e4484ba9051f70679602a6e0f50852a8]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (The Council of the Borough of Kirklees) Permit Scheme Order 2012 (S.I. 2012/1286)](https://www.legislation.gov.uk/uksi/2012/1286), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1286/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1286/article/4)
+[^c-e4484ba9051f70679602a6e0f50852a8]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (The Council of the Borough of Kirklees) Permit Scheme Order 2012 (S.I. 2012/1286)](https://www.legislation.gov.uk/uksi/2012/1286), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1286/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1286/article/4)
 
-[^key-bce231b24894cd59c23f7fc3c9fa5f06]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Sheffield City Council) Permit Scheme Order 2012 (S.I. 2012/1294)](https://www.legislation.gov.uk/uksi/2012/1294), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1294/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1294/article/4)
+[^c-bce231b24894cd59c23f7fc3c9fa5f06]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Sheffield City Council) Permit Scheme Order 2012 (S.I. 2012/1294)](https://www.legislation.gov.uk/uksi/2012/1294), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1294/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1294/article/4)
 
-[^key-6a980a8347860c5ba4d8377f58e65b5f]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Rotherham Borough Council) Permit Scheme Order 2012 (S.I. 2012/1284)](https://www.legislation.gov.uk/uksi/2012/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1284/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1284/article/4)
+[^c-6a980a8347860c5ba4d8377f58e65b5f]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (12.6.2012) by [The Traffic Management (Rotherham Borough Council) Permit Scheme Order 2012 (S.I. 2012/1284)](https://www.legislation.gov.uk/uksi/2012/1284), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1284/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1284/article/4)
 
-[^key-e005501bb79753591211bcd8152a080c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Southend-On-Sea Borough Council) Permit Scheme Order 2012 (S.I. 2012/2548)](https://www.legislation.gov.uk/uksi/2012/2548), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2548/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2548/article/4)
+[^c-e005501bb79753591211bcd8152a080c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Southend-On-Sea Borough Council) Permit Scheme Order 2012 (S.I. 2012/2548)](https://www.legislation.gov.uk/uksi/2012/2548), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2548/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2548/article/4)
 
-[^key-0b76c5782beed1519457efa14ef0f0bc]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Hertfordshire County Council) Permit Scheme Order 2012 (S.I. 2012/2549)](https://www.legislation.gov.uk/uksi/2012/2549), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2549/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2549/article/4)
+[^c-0b76c5782beed1519457efa14ef0f0bc]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Hertfordshire County Council) Permit Scheme Order 2012 (S.I. 2012/2549)](https://www.legislation.gov.uk/uksi/2012/2549), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2549/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2549/article/4)
 
-[^key-231d8109efa5e07ce9437a34b8a8240a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Bedford Borough Council) Permit Scheme Order 2012 (S.I. 2012/2541)](https://www.legislation.gov.uk/uksi/2012/2541), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2541/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2541/article/4)
+[^c-231d8109efa5e07ce9437a34b8a8240a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Bedford Borough Council) Permit Scheme Order 2012 (S.I. 2012/2541)](https://www.legislation.gov.uk/uksi/2012/2541), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2541/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2541/article/4)
 
-[^key-c6aa0580b018277c7574824606f6c638]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Luton Borough Council) Permit Scheme Order 2012 (S.I. 2012/2547)](https://www.legislation.gov.uk/uksi/2012/2547), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2547/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2547/article/4)
+[^c-c6aa0580b018277c7574824606f6c638]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2012) by [The Traffic Management (Luton Borough Council) Permit Scheme Order 2012 (S.I. 2012/2547)](https://www.legislation.gov.uk/uksi/2012/2547), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2547/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2547/article/4)
 
-[^key-79582a2a2ee9068147dc50df8d1983c5]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (14.1.2013) by [The Traffic Management (London Borough of Tower Hamlets) Permit Scheme Order 2012 (S.I. 2012/3107)](https://www.legislation.gov.uk/uksi/2012/3107), [arts. 1](https://www.legislation.gov.uk/uksi/2012/3107/article/1), [4](https://www.legislation.gov.uk/uksi/2012/3107/article/4)
+[^c-79582a2a2ee9068147dc50df8d1983c5]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (14.1.2013) by [The Traffic Management (London Borough of Tower Hamlets) Permit Scheme Order 2012 (S.I. 2012/3107)](https://www.legislation.gov.uk/uksi/2012/3107), [arts. 1](https://www.legislation.gov.uk/uksi/2012/3107/article/1), [4](https://www.legislation.gov.uk/uksi/2012/3107/article/4)
 
-[^key-bd62592e01e0a376094690f45ceafd6a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.3.2013) by [The Traffic Management (Royal Borough of Kingston upon Thames) Permit Scheme Order 2012 (S.I. 2012/3104)](https://www.legislation.gov.uk/uksi/2012/3104), [arts. 1](https://www.legislation.gov.uk/uksi/2012/3104/article/1), [4](https://www.legislation.gov.uk/uksi/2012/3104/article/4)
+[^c-bd62592e01e0a376094690f45ceafd6a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.3.2013) by [The Traffic Management (Royal Borough of Kingston upon Thames) Permit Scheme Order 2012 (S.I. 2012/3104)](https://www.legislation.gov.uk/uksi/2012/3104), [arts. 1](https://www.legislation.gov.uk/uksi/2012/3104/article/1), [4](https://www.legislation.gov.uk/uksi/2012/3104/article/4)
 
-[^key-656d25c88c227a0fb8706d6ce47a62ef]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Oldham Borough Council) Permit Scheme Order 2013 (S.I. 2013/808)](https://www.legislation.gov.uk/uksi/2013/808), [arts. 1](https://www.legislation.gov.uk/uksi/2013/808/article/1), [4](https://www.legislation.gov.uk/uksi/2013/808/article/4)
+[^c-656d25c88c227a0fb8706d6ce47a62ef]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Oldham Borough Council) Permit Scheme Order 2013 (S.I. 2013/808)](https://www.legislation.gov.uk/uksi/2013/808), [arts. 1](https://www.legislation.gov.uk/uksi/2013/808/article/1), [4](https://www.legislation.gov.uk/uksi/2013/808/article/4)
 
-[^key-798ffd4dc35b78dbe1d82fbf0cbb2728]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Wigan Borough Council) Permit Scheme Order 2013 (S.I. 2013/812)](https://www.legislation.gov.uk/uksi/2013/812), [arts. 1](https://www.legislation.gov.uk/uksi/2013/812/article/1), [4](https://www.legislation.gov.uk/uksi/2013/812/article/4)
+[^c-798ffd4dc35b78dbe1d82fbf0cbb2728]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Wigan Borough Council) Permit Scheme Order 2013 (S.I. 2013/812)](https://www.legislation.gov.uk/uksi/2013/812), [arts. 1](https://www.legislation.gov.uk/uksi/2013/812/article/1), [4](https://www.legislation.gov.uk/uksi/2013/812/article/4)
 
-[^key-ee138fb54759a9ae4aba8262dd527ff1]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Rochdale Metropolitan Borough Council) Permit Scheme Order 2013 (S.I. 2013/809)](https://www.legislation.gov.uk/uksi/2013/809), [arts. 1](https://www.legislation.gov.uk/uksi/2013/809/article/1), [4](https://www.legislation.gov.uk/uksi/2013/809/article/4)
+[^c-ee138fb54759a9ae4aba8262dd527ff1]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Rochdale Metropolitan Borough Council) Permit Scheme Order 2013 (S.I. 2013/809)](https://www.legislation.gov.uk/uksi/2013/809), [arts. 1](https://www.legislation.gov.uk/uksi/2013/809/article/1), [4](https://www.legislation.gov.uk/uksi/2013/809/article/4)
 
-[^key-d58103b8e68acc00f2df1ea43eb68011]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Tameside Metropolitan Borough Council) Permit Scheme Order 2013 (S.I. 2013/806)](https://www.legislation.gov.uk/uksi/2013/806), [arts. 1](https://www.legislation.gov.uk/uksi/2013/806/article/1), [4](https://www.legislation.gov.uk/uksi/2013/806/article/4)
+[^c-d58103b8e68acc00f2df1ea43eb68011]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Tameside Metropolitan Borough Council) Permit Scheme Order 2013 (S.I. 2013/806)](https://www.legislation.gov.uk/uksi/2013/806), [arts. 1](https://www.legislation.gov.uk/uksi/2013/806/article/1), [4](https://www.legislation.gov.uk/uksi/2013/806/article/4)
 
-[^key-7d9b5abcd6a4fd1f18868257f4cbc70a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Bury Metropolitan Borough Council) Permit Scheme Order 2013 (S.I. 2013/814)](https://www.legislation.gov.uk/uksi/2013/814), [arts. 1](https://www.legislation.gov.uk/uksi/2013/814/article/1), [4](https://www.legislation.gov.uk/uksi/2013/814/article/4)
+[^c-7d9b5abcd6a4fd1f18868257f4cbc70a]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Bury Metropolitan Borough Council) Permit Scheme Order 2013 (S.I. 2013/814)](https://www.legislation.gov.uk/uksi/2013/814), [arts. 1](https://www.legislation.gov.uk/uksi/2013/814/article/1), [4](https://www.legislation.gov.uk/uksi/2013/814/article/4)
 
-[^key-16a3be75e7c25bc6ee933b83cc8e43e9]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (The Council of the City of Manchester) Permit Scheme Order 2013 (S.I. 2013/811)](https://www.legislation.gov.uk/uksi/2013/811), [arts. 1](https://www.legislation.gov.uk/uksi/2013/811/article/1), [4](https://www.legislation.gov.uk/uksi/2013/811/article/4)
+[^c-16a3be75e7c25bc6ee933b83cc8e43e9]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (The Council of the City of Manchester) Permit Scheme Order 2013 (S.I. 2013/811)](https://www.legislation.gov.uk/uksi/2013/811), [arts. 1](https://www.legislation.gov.uk/uksi/2013/811/article/1), [4](https://www.legislation.gov.uk/uksi/2013/811/article/4)
 
-[^key-14d2aa1f582f09f2921ba9bfee3e2acd]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (The Borough Council of Bolton) Permit Scheme Order 2013 (S.I. 2013/813)](https://www.legislation.gov.uk/uksi/2013/813), [arts. 1](https://www.legislation.gov.uk/uksi/2013/813/article/1), [4](https://www.legislation.gov.uk/uksi/2013/813/article/4)
+[^c-14d2aa1f582f09f2921ba9bfee3e2acd]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (The Borough Council of Bolton) Permit Scheme Order 2013 (S.I. 2013/813)](https://www.legislation.gov.uk/uksi/2013/813), [arts. 1](https://www.legislation.gov.uk/uksi/2013/813/article/1), [4](https://www.legislation.gov.uk/uksi/2013/813/article/4)
 
-[^key-2851ac33491f902207d3781cccc38306]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Salford City Council) Permit Scheme Order 2013 (S.I. 2013/810)](https://www.legislation.gov.uk/uksi/2013/810), [arts. 1](https://www.legislation.gov.uk/uksi/2013/810/article/1), [4](https://www.legislation.gov.uk/uksi/2013/810/article/4)
+[^c-2851ac33491f902207d3781cccc38306]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Salford City Council) Permit Scheme Order 2013 (S.I. 2013/810)](https://www.legislation.gov.uk/uksi/2013/810), [arts. 1](https://www.legislation.gov.uk/uksi/2013/810/article/1), [4](https://www.legislation.gov.uk/uksi/2013/810/article/4)
 
-[^key-a62f7c63002167efd8254b418c07782b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Trafford Borough Council) Permit Scheme Order 2013 (S.I. 2013/807)](https://www.legislation.gov.uk/uksi/2013/807), [arts. 1](https://www.legislation.gov.uk/uksi/2013/807/article/1), [4](https://www.legislation.gov.uk/uksi/2013/807/article/4)
+[^c-a62f7c63002167efd8254b418c07782b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (Trafford Borough Council) Permit Scheme Order 2013 (S.I. 2013/807)](https://www.legislation.gov.uk/uksi/2013/807), [arts. 1](https://www.legislation.gov.uk/uksi/2013/807/article/1), [4](https://www.legislation.gov.uk/uksi/2013/807/article/4)
 
-[^key-4f43d99e1e124ed86779579b08474113]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (The Metropolitan Borough Council of Stockport) Permit Scheme Order 2013 (S.I. 2013/805)](https://www.legislation.gov.uk/uksi/2013/805), [arts. 1](https://www.legislation.gov.uk/uksi/2013/805/article/1), [4](https://www.legislation.gov.uk/uksi/2013/805/article/4)
+[^c-4f43d99e1e124ed86779579b08474113]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (29.4.2013) by [The Traffic Management (The Metropolitan Borough Council of Stockport) Permit Scheme Order 2013 (S.I. 2013/805)](https://www.legislation.gov.uk/uksi/2013/805), [arts. 1](https://www.legislation.gov.uk/uksi/2013/805/article/1), [4](https://www.legislation.gov.uk/uksi/2013/805/article/4)
 
-[^key-60fa08263149880835844f6f59d46cf8]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.10.2013) by [The Traffic Management (Derby City Council) Permit Scheme Order 2013 (S.I. 2013/1781)](https://www.legislation.gov.uk/uksi/2013/1781), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1781/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1781/article/4)
+[^c-60fa08263149880835844f6f59d46cf8]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.10.2013) by [The Traffic Management (Derby City Council) Permit Scheme Order 2013 (S.I. 2013/1781)](https://www.legislation.gov.uk/uksi/2013/1781), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1781/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1781/article/4)
 
-[^key-3ebc62c7be2dd6eb6a50190919a56b81]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (4.11.2013) by [The Traffic Management (Buckinghamshire County Council) Permit Scheme Order 2013 (S.I. 2013/2398)](https://www.legislation.gov.uk/uksi/2013/2398), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2398/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2398/article/4)
+[^c-3ebc62c7be2dd6eb6a50190919a56b81]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (4.11.2013) by [The Traffic Management (Buckinghamshire County Council) Permit Scheme Order 2013 (S.I. 2013/2398)](https://www.legislation.gov.uk/uksi/2013/2398), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2398/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2398/article/4)
 
-[^key-e33fd90a99de9defb27a23db24e63de0]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.11.2013) by [The Traffic Management (East Sussex County Council) Permit Scheme Order 2013 (S.I. 2013/2399)](https://www.legislation.gov.uk/uksi/2013/2399), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2399/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2399/article/4)
+[^c-e33fd90a99de9defb27a23db24e63de0]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.11.2013) by [The Traffic Management (East Sussex County Council) Permit Scheme Order 2013 (S.I. 2013/2399)](https://www.legislation.gov.uk/uksi/2013/2399), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2399/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2399/article/4)
 
-[^key-10c362c54eeeb3b84e34f0b4bd09d517]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.11.2013) by [The Traffic Management (Surrey County Council) Permit Scheme Order 2013 (S.I. 2013/2389)](https://www.legislation.gov.uk/uksi/2013/2389), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2389/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2389/article/4)
+[^c-10c362c54eeeb3b84e34f0b4bd09d517]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (11.11.2013) by [The Traffic Management (Surrey County Council) Permit Scheme Order 2013 (S.I. 2013/2389)](https://www.legislation.gov.uk/uksi/2013/2389), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2389/article/1), [4](https://www.legislation.gov.uk/uksi/2013/2389/article/4)
 
-[^key-21a1142eda0e03cf4f3f29218dc0d66e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.4.2014) by [The Traffic Management (Shropshire Council) Permit Scheme Order 2014 (S.I. 2014/466)](https://www.legislation.gov.uk/uksi/2014/466), [arts. 1](https://www.legislation.gov.uk/uksi/2014/466/article/1), [4](https://www.legislation.gov.uk/uksi/2014/466/article/4)
+[^c-21a1142eda0e03cf4f3f29218dc0d66e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.4.2014) by [The Traffic Management (Shropshire Council) Permit Scheme Order 2014 (S.I. 2014/466)](https://www.legislation.gov.uk/uksi/2014/466), [arts. 1](https://www.legislation.gov.uk/uksi/2014/466/article/1), [4](https://www.legislation.gov.uk/uksi/2014/466/article/4)
 
-[^key-06b62986dd9bcee794a84cb92b617861]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (6.5.2014) by [The Traffic Management (Norfolk County Council) Permit Scheme Order 2014 (S.I. 2014/941)](https://www.legislation.gov.uk/uksi/2014/941), [arts. 1](https://www.legislation.gov.uk/uksi/2014/941/article/1), [4](https://www.legislation.gov.uk/uksi/2014/941/article/4)
+[^c-06b62986dd9bcee794a84cb92b617861]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (6.5.2014) by [The Traffic Management (Norfolk County Council) Permit Scheme Order 2014 (S.I. 2014/941)](https://www.legislation.gov.uk/uksi/2014/941), [arts. 1](https://www.legislation.gov.uk/uksi/2014/941/article/1), [4](https://www.legislation.gov.uk/uksi/2014/941/article/4)
 
-[^key-b99774a8a46b93f3f5ddf2369feb8306]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (3.11.2014) by [The Traffic Management (Cheshire East Borough Council) Permit Scheme Order 2014 (S.I. 2014/2460)](https://www.legislation.gov.uk/uksi/2014/2460), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2460/article/1), [4](https://www.legislation.gov.uk/uksi/2014/2460/article/4)
+[^c-b99774a8a46b93f3f5ddf2369feb8306]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (3.11.2014) by [The Traffic Management (Cheshire East Borough Council) Permit Scheme Order 2014 (S.I. 2014/2460)](https://www.legislation.gov.uk/uksi/2014/2460), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2460/article/1), [4](https://www.legislation.gov.uk/uksi/2014/2460/article/4)
 
-[^key-44f2abbe54a75e42fecc4038b575cbb3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2014) by [The Traffic Management (Bracknell Forest Borough Council) Permit Scheme Order 2014 (S.I. 2014/2462)](https://www.legislation.gov.uk/uksi/2014/2462), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2462/article/1), [4](https://www.legislation.gov.uk/uksi/2014/2462/article/4)
+[^c-44f2abbe54a75e42fecc4038b575cbb3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (5.11.2014) by [The Traffic Management (Bracknell Forest Borough Council) Permit Scheme Order 2014 (S.I. 2014/2462)](https://www.legislation.gov.uk/uksi/2014/2462), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2462/article/1), [4](https://www.legislation.gov.uk/uksi/2014/2462/article/4)
 
-[^key-876971570abeccdc4aa893bcfe62e361]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (19.1.2015) by [The Traffic Management (Wokingham Borough Council) Permit Scheme Order 2014 (S.I. 2014/3105)](https://www.legislation.gov.uk/uksi/2014/3105), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3105/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3105/article/4)
+[^c-876971570abeccdc4aa893bcfe62e361]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (19.1.2015) by [The Traffic Management (Wokingham Borough Council) Permit Scheme Order 2014 (S.I. 2014/3105)](https://www.legislation.gov.uk/uksi/2014/3105), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3105/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3105/article/4)
 
-[^key-de3f1e2c0d6499ae83c48d6f480cb67e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.2.2015) by [The Traffic Management (Warrington Borough Council) Permit Scheme Order 2014 (S.I. 2014/3108)](https://www.legislation.gov.uk/uksi/2014/3108), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3108/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3108/article/4)
+[^c-de3f1e2c0d6499ae83c48d6f480cb67e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.2.2015) by [The Traffic Management (Warrington Borough Council) Permit Scheme Order 2014 (S.I. 2014/3108)](https://www.legislation.gov.uk/uksi/2014/3108), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3108/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3108/article/4)
 
-[^key-d77d096726d53ff95e94dda07c9fecf5]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.2.2015) by [The Traffic Management (Cheshire West and Chester Borough Council) Permit Scheme Order 2014 (S.I. 2014/3106)](https://www.legislation.gov.uk/uksi/2014/3106), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3106/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3106/article/4)
+[^c-d77d096726d53ff95e94dda07c9fecf5]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.2.2015) by [The Traffic Management (Cheshire West and Chester Borough Council) Permit Scheme Order 2014 (S.I. 2014/3106)](https://www.legislation.gov.uk/uksi/2014/3106), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3106/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3106/article/4)
 
-[^key-f81aa4bb808c120f691d4ff57aea246e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.2.2015) by [The Traffic Management (Sefton Metropolitan Borough Council) Permit Scheme Order 2014 (S.I. 2014/3107)](https://www.legislation.gov.uk/uksi/2014/3107), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3107/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3107/article/4)
+[^c-f81aa4bb808c120f691d4ff57aea246e]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.2.2015) by [The Traffic Management (Sefton Metropolitan Borough Council) Permit Scheme Order 2014 (S.I. 2014/3107)](https://www.legislation.gov.uk/uksi/2014/3107), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3107/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3107/article/4)
 
-[^key-a84393e0e77ac28be2db87a31ad2e09d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (9.2.2015) by [The Traffic Management (North Tyneside Council) Permit Scheme Order 2014 (S.I. 2014/3109)](https://www.legislation.gov.uk/uksi/2014/3109), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3109/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3109/article/4)
+[^c-a84393e0e77ac28be2db87a31ad2e09d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (9.2.2015) by [The Traffic Management (North Tyneside Council) Permit Scheme Order 2014 (S.I. 2014/3109)](https://www.legislation.gov.uk/uksi/2014/3109), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3109/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3109/article/4)
 
-[^key-52bc450f994f481592d8c90baf2f03a9]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.3.2015) by [The Traffic Management (West Berkshire Council) Permit Scheme Order 2014 (S.I. 2014/3110)](https://www.legislation.gov.uk/uksi/2014/3110), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3110/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3110/article/4)
+[^c-52bc450f994f481592d8c90baf2f03a9]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (1.3.2015) by [The Traffic Management (West Berkshire Council) Permit Scheme Order 2014 (S.I. 2014/3110)](https://www.legislation.gov.uk/uksi/2014/3110), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3110/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3110/article/4)
 
-[^key-1685489cd46500848dc8b35eb4d36432]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.3.2015) by [The Traffic Management (Knowsley Metropolitan Borough Council) Permit Scheme Order 2015 (S.I. 2015/34)](https://www.legislation.gov.uk/uksi/2015/34), [arts. 1](https://www.legislation.gov.uk/uksi/2015/34/article/1), [4](https://www.legislation.gov.uk/uksi/2015/34/article/4)
+[^c-1685489cd46500848dc8b35eb4d36432]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (2.3.2015) by [The Traffic Management (Knowsley Metropolitan Borough Council) Permit Scheme Order 2015 (S.I. 2015/34)](https://www.legislation.gov.uk/uksi/2015/34), [arts. 1](https://www.legislation.gov.uk/uksi/2015/34/article/1), [4](https://www.legislation.gov.uk/uksi/2015/34/article/4)
 
-[^key-8b9ca5e2a41fcef34a19b4e9df3a5b1c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (4.3.2015) by [The Traffic Management (Slough Borough Council) Permit Scheme Order 2014 (S.I. 2014/3112)](https://www.legislation.gov.uk/uksi/2014/3112), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3112/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3112/article/4)
+[^c-8b9ca5e2a41fcef34a19b4e9df3a5b1c]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (4.3.2015) by [The Traffic Management (Slough Borough Council) Permit Scheme Order 2014 (S.I. 2014/3112)](https://www.legislation.gov.uk/uksi/2014/3112), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3112/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3112/article/4)
 
-[^key-d3fc0a51d7cf6a4dd2dfbbe64e90df8f]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (9.3.2015) by [The Traffic Management (Lancashire County Council) Permit Scheme Order 2015 (S.I. 2015/38)](https://www.legislation.gov.uk/uksi/2015/38), [arts. 1](https://www.legislation.gov.uk/uksi/2015/38/article/1), [4](https://www.legislation.gov.uk/uksi/2015/38/article/4)
+[^c-d3fc0a51d7cf6a4dd2dfbbe64e90df8f]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (9.3.2015) by [The Traffic Management (Lancashire County Council) Permit Scheme Order 2015 (S.I. 2015/38)](https://www.legislation.gov.uk/uksi/2015/38), [arts. 1](https://www.legislation.gov.uk/uksi/2015/38/article/1), [4](https://www.legislation.gov.uk/uksi/2015/38/article/4)
 
-[^key-9892bf85daaa4f4abf40b67774306536]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Essex County Council) Permit Scheme Order 2015 (S.I. 2015/37)](https://www.legislation.gov.uk/uksi/2015/37), [arts. 1](https://www.legislation.gov.uk/uksi/2015/37/article/1), [4](https://www.legislation.gov.uk/uksi/2015/37/article/4)
+[^c-9892bf85daaa4f4abf40b67774306536]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Essex County Council) Permit Scheme Order 2015 (S.I. 2015/37)](https://www.legislation.gov.uk/uksi/2015/37), [arts. 1](https://www.legislation.gov.uk/uksi/2015/37/article/1), [4](https://www.legislation.gov.uk/uksi/2015/37/article/4)
 
-[^key-e4dfa195f7a573fb4897d7bd925a0cdf]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Coventry City Council) Permit Scheme Order 2014 (S.I. 2014/3311)](https://www.legislation.gov.uk/uksi/2014/3311), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3311/article/4)
+[^c-e4dfa195f7a573fb4897d7bd925a0cdf]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Coventry City Council) Permit Scheme Order 2014 (S.I. 2014/3311)](https://www.legislation.gov.uk/uksi/2014/3311), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3311/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3311/article/4)
 
-[^key-1f2ce7e4d87b79fcb974e6e253605a69]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Nottingham City Council) Permit Scheme Order 2015 (S.I. 2015/39)](https://www.legislation.gov.uk/uksi/2015/39), [arts. 1](https://www.legislation.gov.uk/uksi/2015/39/article/1), [4](https://www.legislation.gov.uk/uksi/2015/39/article/4)
+[^c-1f2ce7e4d87b79fcb974e6e253605a69]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Nottingham City Council) Permit Scheme Order 2015 (S.I. 2015/39)](https://www.legislation.gov.uk/uksi/2015/39), [arts. 1](https://www.legislation.gov.uk/uksi/2015/39/article/1), [4](https://www.legislation.gov.uk/uksi/2015/39/article/4)
 
-[^key-fae7fd540328a54b6278dbbf9834c4b3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Warwickshire County Council) Permit Scheme Order 2014 (S.I. 2014/3310)](https://www.legislation.gov.uk/uksi/2014/3310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3310/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3310/article/4)
+[^c-fae7fd540328a54b6278dbbf9834c4b3]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (16.3.2015) by [The Traffic Management (Warwickshire County Council) Permit Scheme Order 2014 (S.I. 2014/3310)](https://www.legislation.gov.uk/uksi/2014/3310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3310/article/1), [4](https://www.legislation.gov.uk/uksi/2014/3310/article/4)
 
-[^key-15c655df30535c9895c52b5c95a4e1f0]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (30.3.2015) by [The Traffic Management (Brighton and Hove City Council) Permit Scheme Order 2015 (S.I. 2015/90)](https://www.legislation.gov.uk/uksi/2015/90), [arts. 1](https://www.legislation.gov.uk/uksi/2015/90/article/1), [4](https://www.legislation.gov.uk/uksi/2015/90/article/4)
+[^c-15c655df30535c9895c52b5c95a4e1f0]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (30.3.2015) by [The Traffic Management (Brighton and Hove City Council) Permit Scheme Order 2015 (S.I. 2015/90)](https://www.legislation.gov.uk/uksi/2015/90), [arts. 1](https://www.legislation.gov.uk/uksi/2015/90/article/1), [4](https://www.legislation.gov.uk/uksi/2015/90/article/4)
 
-[^key-a7773c3dbe4e9acc1dbb6e6a2cd60822]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (30.3.2015) by [The Traffic Management (Southampton City Council) Permit Scheme Order 2015 (S.I. 2015/105)](https://www.legislation.gov.uk/uksi/2015/105), [arts. 1](https://www.legislation.gov.uk/uksi/2015/105/article/1), [4](https://www.legislation.gov.uk/uksi/2015/105/article/4)
+[^c-a7773c3dbe4e9acc1dbb6e6a2cd60822]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (30.3.2015) by [The Traffic Management (Southampton City Council) Permit Scheme Order 2015 (S.I. 2015/105)](https://www.legislation.gov.uk/uksi/2015/105), [arts. 1](https://www.legislation.gov.uk/uksi/2015/105/article/1), [4](https://www.legislation.gov.uk/uksi/2015/105/article/4)
 
-[^key-bc8cf803c4cad5aaf493119461725703]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (30.3.2015) by [The Traffic Management (Milton Keynes Council) Permit Scheme Order 2015 (S.I. 2015/91)](https://www.legislation.gov.uk/uksi/2015/91), [arts. 1](https://www.legislation.gov.uk/uksi/2015/91/article/1), [4](https://www.legislation.gov.uk/uksi/2015/91/article/4)
+[^c-bc8cf803c4cad5aaf493119461725703]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (30.3.2015) by [The Traffic Management (Milton Keynes Council) Permit Scheme Order 2015 (S.I. 2015/91)](https://www.legislation.gov.uk/uksi/2015/91), [arts. 1](https://www.legislation.gov.uk/uksi/2015/91/article/1), [4](https://www.legislation.gov.uk/uksi/2015/91/article/4)
 
-[^key-187ab481ef475459e18268671f13535d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (Council of the City of Wakefield MDC) Permit Scheme Order 2015 (S.I. 2015/293)](https://www.legislation.gov.uk/uksi/2015/293), [arts. 1](https://www.legislation.gov.uk/uksi/2015/293/article/1), [4](https://www.legislation.gov.uk/uksi/2015/293/article/4)
+[^c-187ab481ef475459e18268671f13535d]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (Council of the City of Wakefield MDC) Permit Scheme Order 2015 (S.I. 2015/293)](https://www.legislation.gov.uk/uksi/2015/293), [arts. 1](https://www.legislation.gov.uk/uksi/2015/293/article/1), [4](https://www.legislation.gov.uk/uksi/2015/293/article/4)
 
-[^key-959da20b95b387ba48c2765a42b3b776]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (Borough Council of Calderdale) Permit Scheme Order 2015 (S.I. 2015/328)](https://www.legislation.gov.uk/uksi/2015/328), [arts. 1](https://www.legislation.gov.uk/uksi/2015/328/article/1), [4](https://www.legislation.gov.uk/uksi/2015/328/article/4)
+[^c-959da20b95b387ba48c2765a42b3b776]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (Borough Council of Calderdale) Permit Scheme Order 2015 (S.I. 2015/328)](https://www.legislation.gov.uk/uksi/2015/328), [arts. 1](https://www.legislation.gov.uk/uksi/2015/328/article/1), [4](https://www.legislation.gov.uk/uksi/2015/328/article/4)
 
-[^key-bec2ff3b943ca0dd27abe10507258b7b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (Derbyshire County Council) Permit Scheme Order 2015 (S.I. 2015/107)](https://www.legislation.gov.uk/uksi/2015/107), [arts. 1](https://www.legislation.gov.uk/uksi/2015/107/article/1), [4](https://www.legislation.gov.uk/uksi/2015/107/article/4)
+[^c-bec2ff3b943ca0dd27abe10507258b7b]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (Derbyshire County Council) Permit Scheme Order 2015 (S.I. 2015/107)](https://www.legislation.gov.uk/uksi/2015/107), [arts. 1](https://www.legislation.gov.uk/uksi/2015/107/article/1), [4](https://www.legislation.gov.uk/uksi/2015/107/article/4)
 
-[^key-2aba1612274ba7f087df7e3419a31701]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (City of Bradford Metropolitan District Council) Permit Scheme Order 2015 (S.I. 2015/330)](https://www.legislation.gov.uk/uksi/2015/330), [arts. 1](https://www.legislation.gov.uk/uksi/2015/330/article/1), [4](https://www.legislation.gov.uk/uksi/2015/330/article/4)
+[^c-2aba1612274ba7f087df7e3419a31701]: Modification: [Pt. 8](https://www.legislation.gov.uk/uksi/2007/3372/part/8) applied (31.3.2015) by [The Traffic Management (City of Bradford Metropolitan District Council) Permit Scheme Order 2015 (S.I. 2015/330)](https://www.legislation.gov.uk/uksi/2015/330), [arts. 1](https://www.legislation.gov.uk/uksi/2015/330/article/1), [4](https://www.legislation.gov.uk/uksi/2015/330/article/4)
 
-[^key-300a50fd8beb0b400c4aa425c13a0b19]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2007/3372/regulation/35) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-300a50fd8beb0b400c4aa425c13a0b19]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2007/3372/regulation/35) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-8f1f407fcc1202ba5150027034c0b354]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2007/3372/regulation/36) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-8f1f407fcc1202ba5150027034c0b354]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2007/3372/regulation/36) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00016]: Footnote: Section 53 is prospectively amended by the Traffic Management Act 2004, section 45.
 
@@ -969,7 +969,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00021]: Footnote: Section 66 was amended by the Traffic Management Act 2004, section 40 and Schedule 1.
 
-[^key-0c193a082df550071cda77cddc37306f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2007/3372/regulation/37) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-0c193a082df550071cda77cddc37306f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2007/3372/regulation/37) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00022]: Footnote: Section 73A is prospectively inserted by the Traffic Management Act 2004, section 55(1).
 
@@ -981,14 +981,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00026]: Footnote: Section 93(2) was amended by the Traffic Management Act 2004, section 49(3).
 
-[^key-7712fbba8a6302f38e81d3cf7ab05ea1]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2007/3372/regulation/38) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-7712fbba8a6302f38e81d3cf7ab05ea1]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2007/3372/regulation/38) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2007/1951](https://www.legislation.gov.uk/uksi/2007/1951)
 
-[^key-548da75f9f228e36a4af2990b3d379cc]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2007/3372/regulation/39) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-548da75f9f228e36a4af2990b3d379cc]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2007/3372/regulation/39) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-21b813836604211dc26b4c5e84a2a645]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2007/3372/regulation/40) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-21b813836604211dc26b4c5e84a2a645]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2007/3372/regulation/40) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-28df3b4cf5488a7f21f6af9e0ab1f460]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3372/schedule/1) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-28df3b4cf5488a7f21f6af9e0ab1f460]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3372/schedule/1) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
 
-[^key-3ad67d61f23fce9f70322bc3dc490ed6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3372/schedule/2) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)
+[^c-3ad67d61f23fce9f70322bc3dc490ed6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3372/schedule/2) in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3372/regulation/1/1)

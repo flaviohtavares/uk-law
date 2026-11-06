@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Powers of court[^key-730234554deb28f05333a3aeaa80d13d]
+## 100. Powers of court[^c-730234554deb28f05333a3aeaa80d13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-730234554deb28f05333a3aeaa80d13d]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2016/22/section/100) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-730234554deb28f05333a3aeaa80d13d]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2016/22/section/100) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
 
 [^M_F_dda7d0b4-0170-4338-b156-23ba004caf85]: Textual amendment: S. 100(8) omitted (21.3.2024) by [The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399)](https://www.legislation.gov.uk/uksi/2024/399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/399/regulation/1/2), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2024/399/schedule/1/paragraph/4/4)

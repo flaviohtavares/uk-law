@@ -45,11 +45,11 @@ The Welsh Ministers, in exercise of the powers conferred by sections 9(1)(a) and
 
 ## Part 1 — GENERAL
 
-### 1. Title and commencement[^key-d243a94e44737512985a325330418e5e]
+### 1. Title and commencement[^c-d243a94e44737512985a325330418e5e]
 
 The title of these Regulations is the Independent Review of Determinations (Adoption and Fostering) (Wales) Regulations 2026 and they come into force on 1 April 2026.
 
-### 2. Interpretation[^key-764f51e3c0a75035f47a00c331473779]
+### 2. Interpretation[^c-764f51e3c0a75035f47a00c331473779]
 
 In these Regulations—
 
@@ -57,7 +57,7 @@ In these Regulations—
 - “**the 2014 Act**” (“***Deddf 2014***”) means the Social Services and Well-being (Wales) Act 2014;
 - “**the 2016 Act**” (“***Deddf 2016***”) means the Regulation and Inspection of Social Care (Wales) Act 2016[^f00004];
 - “**adoption agency**” (“***asiantaeth fabwysiadu***”) has the meaning given in section 2(1) of the 2002 Act;
-- “**adoption panel**” (“***panel mabwysiadu***”) means a panel that an adoption agency is required to constitute in accordance with regulation 4[^key-5ecf39f2faeb175db00fa86b8681b7e6] of the Agencies Regulations;
+- “**adoption panel**” (“***panel mabwysiadu***”) means a panel that an adoption agency is required to constitute in accordance with regulation 4[^c-5ecf39f2faeb175db00fa86b8681b7e6] of the Agencies Regulations;
 - “**adoption suitability determination**” (“***dyfarniad ar addasrwydd i fabwysiadu***”) means a qualifying determination described in regulation 3(a);
 - “**the Agencies Regulations**” (“***y Rheoliadau Asiantaethau***”) means the Adoption Agencies (Wales) Regulations 2005[^f00005];
 - “**applicant**” (“***ceisydd***”) means—
@@ -87,16 +87,16 @@ In these Regulations—
   - (c) the social worker part of the register maintained by the Scottish Social Services Council under section 44 of the Regulation of Care (Scotland) Act 2001[^f00011], or
   - (d) in the social worker part of the register maintained by the Northern Ireland Social Care Council under section 3 of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00012].
 
-### 3. Qualifying determination — prescribed description for the purposes of section 12(2) of the 2002 Act[^key-e5f108a4344f5855751896ac2978f399]
+### 3. Qualifying determination — prescribed description for the purposes of section 12(2) of the 2002 Act[^c-e5f108a4344f5855751896ac2978f399]
 
 For the purposes of section 12(2) of the 2002 Act, a qualifying determination is—
 
 - (a) a determination made by an adoption agency—
   - (i) under regulation 30B(5) of the Agencies Regulations that the agency does not propose to approve a prospective adopter as suitable to adopt a child,
-  - (ii) under regulation 30D(6)[^key-edf5117564bdbb66da2e2e5499b90fa3] of the Agencies Regulations that a prospective adopter is no longer suitable to adopt a child following a review, or
+  - (ii) under regulation 30D(6)[^c-edf5117564bdbb66da2e2e5499b90fa3] of the Agencies Regulations that a prospective adopter is no longer suitable to adopt a child following a review, or
 - (b) a determination described in regulation 13A(1) of the Disclosure Regulations.
 
-### 4. Qualifying determination — prescribed descriptions for the purposes of section 93(2)(b) of the 2014 Act[^key-9fecae0e5597811389c3b73e0689e70e]
+### 4. Qualifying determination — prescribed descriptions for the purposes of section 93(2)(b) of the 2014 Act[^c-9fecae0e5597811389c3b73e0689e70e]
 
 For the purposes of section 93(2)(b) of the 2014 Act the following descriptions of determinations are prescribed—
 
@@ -105,7 +105,7 @@ For the purposes of section 93(2)(b) of the 2014 Act the following descriptions 
 
 ## Part 2 — PANELS
 
-### 5. Constitution of panels[^key-55c50afadaa8b432e862257f8306b1b6]
+### 5. Constitution of panels[^c-55c50afadaa8b432e862257f8306b1b6]
 
 (1) The Welsh Ministers must, on receipt of an application made by an applicant in accordance with regulation 18, constitute a panel in accordance with regulation 6, 7 or 8, as the case may be, for the purpose of reviewing the qualifying determination.
 
@@ -118,7 +118,7 @@ For the purposes of section 93(2)(b) of the 2014 Act the following descriptions 
 - (c) registered medical practitioners, and
 - (d) other persons who are considered by the Welsh Ministers to be suitable as members including, where reasonably practicable, persons with personal experience of adoption and persons who are, or within the previous two years have been, a local authority foster parent.
 
-### 6. Membership of a panel to review an adoption suitability determination[^key-655ae617842a6e71941bd89827600075]
+### 6. Membership of a panel to review an adoption suitability determination[^c-655ae617842a6e71941bd89827600075]
 
 Where the qualifying determination to be reviewed is an adoption suitability determination, the number of people who must be appointed to a panel is five and the panel must include—
 
@@ -126,21 +126,21 @@ Where the qualifying determination to be reviewed is an adoption suitability det
 - (b) one person falling within regulation 5(3)(c), and
 - (c) two other persons from the central list, including, where reasonably practicable, at least one person with personal experience of adoption.
 
-### 7. Membership of a panel to review a disclosure determination[^key-dc84b71c01199e609be4b0d493782198]
+### 7. Membership of a panel to review a disclosure determination[^c-dc84b71c01199e609be4b0d493782198]
 
 Where the qualifying determination to be reviewed is a disclosure determination, the number of people who must be appointed to a panel is five and the panel must include—
 
 - (a) two persons falling within regulation 5(3)(a), and
 - (b) three persons from the central list.
 
-### 8. Membership of a panel to review a fostering determination[^key-6486e1e51234faacde9600316b3ba93e]
+### 8. Membership of a panel to review a fostering determination[^c-6486e1e51234faacde9600316b3ba93e]
 
 Where the qualifying determination to be reviewed is a fostering determination, the number of people who must be appointed to a panel is five and the panel must include—
 
 - (a) two persons falling within regulation 5(3)(b), and
 - (b) three other persons from the central list, including, where reasonably practicable, at least one person who is, or within the previous two years has been, a local authority foster parent.
 
-### 9. Panel advisers[^key-28d78606732468e1970237aa151ac77a]
+### 9. Panel advisers[^c-28d78606732468e1970237aa151ac77a]
 
 (1) A panel must be advised by a social worker with appropriate qualifications, skills and experience.
 
@@ -152,11 +152,11 @@ Where the qualifying determination to be reviewed is a fostering determination, 
 
 (3) The panel advisers referred to in paragraphs (1) and (2) must be members of the central list.
 
-### 10. Appointment of a panel chair[^key-cbdbeccb3f715c81fde655d05361aaac]
+### 10. Appointment of a panel chair[^c-cbdbeccb3f715c81fde655d05361aaac]
 
 The Welsh Ministers must appoint a person who has the necessary skills and experience to chair a panel.
 
-### 11. Disqualification of panel members[^key-a1f965e0954177a77be35583626a82e2]
+### 11. Disqualification of panel members[^c-a1f965e0954177a77be35583626a82e2]
 
 (1) A person (“**P**”) must not be appointed to a panel if—
 
@@ -178,7 +178,7 @@ The Welsh Ministers must appoint a person who has the necessary skills and exper
   - (ii) the son, daughter, mother, father, sister or brother of A, or
   - (iii) the son, daughter, mother, father, sister, or brother of the person to whom A is married or with whom A has formed a civil partnership.
 
-### 12. Functions of a panel constituted to review an adoption suitability determination[^key-3671c696083f64e8ca00e90a29da1d28]
+### 12. Functions of a panel constituted to review an adoption suitability determination[^c-3671c696083f64e8ca00e90a29da1d28]
 
 (1) This regulation applies where the qualifying determination being reviewed is an adoption suitability determination.
 
@@ -201,7 +201,7 @@ The Welsh Ministers must appoint a person who has the necessary skills and exper
 
 (6) Where the panel makes a recommendation that the applicant is suitable to adopt a child, the panel may give advice to the adoption agency on the number, age range, sex, likely needs, and background of children the applicant may be suitable to adopt.
 
-### 13. Functions of a panel constituted to review a disclosure determination[^key-0615338adab3582d9c5d43dd6f1a0357]
+### 13. Functions of a panel constituted to review a disclosure determination[^c-0615338adab3582d9c5d43dd6f1a0357]
 
 (1) This regulation applies where the qualifying determination being reviewed is a disclosure determination.
 
@@ -215,7 +215,7 @@ The Welsh Ministers must appoint a person who has the necessary skills and exper
 - (d) must consider the impact on any person who may be affected by the disclosure of the information, and
 - (e) must consider the welfare of any adopted person and if the person is an adopted child, that child’s welfare must be paramount.
 
-### 14. Functions of a panel constituted to review a fostering determination[^key-56332b8352c33e6eee90815a1c433092]
+### 14. Functions of a panel constituted to review a fostering determination[^c-56332b8352c33e6eee90815a1c433092]
 
 (1) This regulation applies where the qualifying determination being reviewed is a fostering determination.
 
@@ -239,7 +239,7 @@ The Welsh Ministers must appoint a person who has the necessary skills and exper
 
 (6) Where the panel makes a recommendation that the applicant is suitable to act as a foster parent, the panel may also make a recommendation to the fostering service provider as to the terms of any approval.
 
-### 15. Power to adjourn panels[^key-3ae2ff644f97cd1de4da191a21962656]
+### 15. Power to adjourn panels[^c-3ae2ff644f97cd1de4da191a21962656]
 
 (1) The panel may adjourn the panel hearing where—
 
@@ -248,24 +248,24 @@ The Welsh Ministers must appoint a person who has the necessary skills and exper
 
 (2) The panel must be reconvened as soon as reasonably practicable when the information referred to in paragraph (1)(b) is available, but in any event no later than 28 calendar days from the date of the adjourned panel hearing.
 
-### 16. Fees of panel members[^key-c24b4b5e27e1e32892ba1e86b12dbe59]
+### 16. Fees of panel members[^c-c24b4b5e27e1e32892ba1e86b12dbe59]
 
 The Welsh Ministers may pay to any member of a panel such fees as the Welsh Ministers consider to be reasonable.
 
-### 17. Records[^key-3db6b962f0c892812bea87cd7c682630]
+### 17. Records[^c-3db6b962f0c892812bea87cd7c682630]
 
 The Welsh Ministers must ensure that a written record of a panel’s review of the qualifying determination, including the reasons for its recommendation and whether the recommendation was unanimous or that of a majority, is retained for a period of 5 years from the date on which the recommendation is made.
 
 ## Part 3 — PROCEDURE
 
-### 18. Application for review of qualifying determination[^key-52e2ef7cbc6d56c8a196b3ee0b849767]
+### 18. Application for review of qualifying determination[^c-52e2ef7cbc6d56c8a196b3ee0b849767]
 
 An application to the Welsh Ministers for a review of a qualifying determination must—
 
 - (a) be made by the applicant in writing within 40 working days beginning with the date on which a notification of the qualifying determination was sent by the organisation to the applicant, and
 - (b) include the grounds of the application.
 
-### 19. Appointment of panel and conduct of review[^key-a3cb1f32cf18ba2a91beff28d879213f]
+### 19. Appointment of panel and conduct of review[^c-a3cb1f32cf18ba2a91beff28d879213f]
 
 (1) Upon receipt of an application which has been made in accordance with regulation 18, the Welsh Ministers must—
 
@@ -280,11 +280,11 @@ An application to the Welsh Ministers for a review of a qualifying determination
 
 (3) The Welsh Ministers must ensure that the panel receives all relevant papers relating to the review as soon as possible but no less than 5 working days before the date fixed for the review meeting.
 
-### 20. Duty to provide information and assistance[^key-8a4dc48cf05a3637d1ecbc840e3e5727]
+### 20. Duty to provide information and assistance[^c-8a4dc48cf05a3637d1ecbc840e3e5727]
 
 The organisation which made the qualifying determination must provide, as far as is reasonably practicable, any information or assistance requested by the panel under regulation 12, 13, 14 or 15.
 
-### 21. Recommendation of panel[^key-efa62dd78ffb709c8439a786ac7c0654]
+### 21. Recommendation of panel[^c-efa62dd78ffb709c8439a786ac7c0654]
 
 (1) Where the panel’s recommendation is not unanimous the recommendation must be that of the majority.
 
@@ -294,13 +294,13 @@ The organisation which made the qualifying determination must provide, as far as
 
 (4) The Welsh Ministers must without delay, and in any event no later than 10 working days after the date on which the recommendation is made, send a copy of the recommendation and the reasons for it to the applicant and to the organisation which made the qualifying determination.
 
-### 22. Duty to pay costs in connection with a review[^key-2e75fd084211a0193d4be0d4d5b76e2a]
+### 22. Duty to pay costs in connection with a review[^c-2e75fd084211a0193d4be0d4d5b76e2a]
 
 The organisation which made the qualifying determination must pay to the Welsh Ministers such costs in connection with the review of that qualifying determination as the Welsh Ministers consider reasonable.
 
 ## Part 4 — REVOCATION
 
-### 23. Revocation[^key-3c47ffb284d649163338fe896c9e4b33]
+### 23. Revocation[^c-3c47ffb284d649163338fe896c9e4b33]
 
 The Independent Review of Determinations (Adoption and Fostering) (Wales) Regulations 2010[^f00013]are revoked[^f00014].
 
@@ -342,13 +342,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). Section 93 was amended by regulation 302 of the Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 ([S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413)).
 
-[^key-d243a94e44737512985a325330418e5e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-d243a94e44737512985a325330418e5e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-764f51e3c0a75035f47a00c331473779]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/31/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-764f51e3c0a75035f47a00c331473779]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/31/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
 [^f00004]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-5ecf39f2faeb175db00fa86b8681b7e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2026/31/regulation/2) substituted (1.4.2026) by [The Independent Review of Determinations (Adoption and Fostering) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/59)](https://www.legislation.gov.uk/wsi/2026/59), [regs. 1](https://www.legislation.gov.uk/wsi/2026/59/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2026/59/regulation/2/2)
+[^c-5ecf39f2faeb175db00fa86b8681b7e6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2026/31/regulation/2) substituted (1.4.2026) by [The Independent Review of Determinations (Adoption and Fostering) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/59)](https://www.legislation.gov.uk/wsi/2026/59), [regs. 1](https://www.legislation.gov.uk/wsi/2026/59/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2026/59/regulation/2/2)
 
 [^f00005]: Footnote: [S.I. 2005/1313 (W. 95)](https://www.legislation.gov.uk/wsi/2005/1313), amended by the [S.I. 2014/567 (W. 68)](https://www.legislation.gov.uk/wsi/2014/567), [S.I. 2020/163](https://www.legislation.gov.uk/uksi/2020/163), [S.I. 2020/319 (W. 72)](https://www.legislation.gov.uk/wsi/2020/319) and [S.I. 2020/1082 (W. 244)](https://www.legislation.gov.uk/wsi/2020/1082). There are other amending instruments, but none is relevant.
 
@@ -366,49 +366,49 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3).
 
-[^key-e5f108a4344f5855751896ac2978f399]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/31/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-e5f108a4344f5855751896ac2978f399]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2026/31/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-edf5117564bdbb66da2e2e5499b90fa3]: Textual amendment: Words in [reg. 3(a)(ii)](https://www.legislation.gov.uk/wsi/2026/31/regulation/3/a/ii) substituted (1.4.2026) by [The Independent Review of Determinations (Adoption and Fostering) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/59)](https://www.legislation.gov.uk/wsi/2026/59), [regs. 1](https://www.legislation.gov.uk/wsi/2026/59/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2026/59/regulation/2/3)
+[^c-edf5117564bdbb66da2e2e5499b90fa3]: Textual amendment: Words in [reg. 3(a)(ii)](https://www.legislation.gov.uk/wsi/2026/31/regulation/3/a/ii) substituted (1.4.2026) by [The Independent Review of Determinations (Adoption and Fostering) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/59)](https://www.legislation.gov.uk/wsi/2026/59), [regs. 1](https://www.legislation.gov.uk/wsi/2026/59/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2026/59/regulation/2/3)
 
-[^key-9fecae0e5597811389c3b73e0689e70e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/31/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-9fecae0e5597811389c3b73e0689e70e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2026/31/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-55c50afadaa8b432e862257f8306b1b6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2026/31/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-55c50afadaa8b432e862257f8306b1b6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2026/31/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-655ae617842a6e71941bd89827600075]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2026/31/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-655ae617842a6e71941bd89827600075]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2026/31/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-dc84b71c01199e609be4b0d493782198]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2026/31/regulation/7) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-dc84b71c01199e609be4b0d493782198]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2026/31/regulation/7) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-6486e1e51234faacde9600316b3ba93e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2026/31/regulation/8) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-6486e1e51234faacde9600316b3ba93e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2026/31/regulation/8) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-28d78606732468e1970237aa151ac77a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2026/31/regulation/9) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-28d78606732468e1970237aa151ac77a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2026/31/regulation/9) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-cbdbeccb3f715c81fde655d05361aaac]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2026/31/regulation/10) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-cbdbeccb3f715c81fde655d05361aaac]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2026/31/regulation/10) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-a1f965e0954177a77be35583626a82e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2026/31/regulation/11) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-a1f965e0954177a77be35583626a82e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2026/31/regulation/11) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-3671c696083f64e8ca00e90a29da1d28]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2026/31/regulation/12) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-3671c696083f64e8ca00e90a29da1d28]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2026/31/regulation/12) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-0615338adab3582d9c5d43dd6f1a0357]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2026/31/regulation/13) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-0615338adab3582d9c5d43dd6f1a0357]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2026/31/regulation/13) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-56332b8352c33e6eee90815a1c433092]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2026/31/regulation/14) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-56332b8352c33e6eee90815a1c433092]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2026/31/regulation/14) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-3ae2ff644f97cd1de4da191a21962656]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2026/31/regulation/15) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-3ae2ff644f97cd1de4da191a21962656]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2026/31/regulation/15) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-c24b4b5e27e1e32892ba1e86b12dbe59]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2026/31/regulation/16) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-c24b4b5e27e1e32892ba1e86b12dbe59]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2026/31/regulation/16) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-3db6b962f0c892812bea87cd7c682630]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2026/31/regulation/17) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-3db6b962f0c892812bea87cd7c682630]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2026/31/regulation/17) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-52e2ef7cbc6d56c8a196b3ee0b849767]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2026/31/regulation/18) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-52e2ef7cbc6d56c8a196b3ee0b849767]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2026/31/regulation/18) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-a3cb1f32cf18ba2a91beff28d879213f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2026/31/regulation/19) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-a3cb1f32cf18ba2a91beff28d879213f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2026/31/regulation/19) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-8a4dc48cf05a3637d1ecbc840e3e5727]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2026/31/regulation/20) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-8a4dc48cf05a3637d1ecbc840e3e5727]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2026/31/regulation/20) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-efa62dd78ffb709c8439a786ac7c0654]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2026/31/regulation/21) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-efa62dd78ffb709c8439a786ac7c0654]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2026/31/regulation/21) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-2e75fd084211a0193d4be0d4d5b76e2a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2026/31/regulation/22) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-2e75fd084211a0193d4be0d4d5b76e2a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2026/31/regulation/22) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
-[^key-3c47ffb284d649163338fe896c9e4b33]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2026/31/regulation/23) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
+[^c-3c47ffb284d649163338fe896c9e4b33]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2026/31/regulation/23) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/wsi/2026/31/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2010/746 (W. 75)](https://www.legislation.gov.uk/wsi/2010/746).
 

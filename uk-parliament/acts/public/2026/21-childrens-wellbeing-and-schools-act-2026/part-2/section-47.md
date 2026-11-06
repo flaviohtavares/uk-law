@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Deregistration by agreement[^key-b09c18bd4a0f53bcafa81a87439ea452][^key-3698fa299f4c69cfd0e4a2f2b66fff0f]
+## 47. Deregistration by agreement[^c-b09c18bd4a0f53bcafa81a87439ea452][^c-3698fa299f4c69cfd0e4a2f2b66fff0f]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b09c18bd4a0f53bcafa81a87439ea452]: Commencement: S. 47 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-b09c18bd4a0f53bcafa81a87439ea452]: Commencement: S. 47 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-3698fa299f4c69cfd0e4a2f2b66fff0f]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2026/21/section/47) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/k)
+[^c-3698fa299f4c69cfd0e4a2f2b66fff0f]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2026/21/section/47) in force at 15.7.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/k)

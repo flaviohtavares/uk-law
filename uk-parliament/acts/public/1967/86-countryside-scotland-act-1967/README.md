@@ -49,7 +49,7 @@ An Act to make provision for the better enjoyment of the Scottish countryside, f
 - [Section 8 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-8.md)
 - [Section 9 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-9.md)
 
-### Part II — Access to Open Country[^key-77fdb88ae8e9f276f0476bfaf71aaf04]
+### Part II — Access to Open Country[^c-77fdb88ae8e9f276f0476bfaf71aaf04]
 
 *Extent: S*
 
@@ -174,4 +174,4 @@ SCHEDULES
 
 [^c1423061]: Textual amendment: Part I repealed (1.4.1992) by [Natural Heritage (Scotland) Act 1991 (c. 28, SIF 46:1)](https://www.legislation.gov.uk/ukpga/1991/28), [s. 27](https://www.legislation.gov.uk/ukpga/1991/28/section/27), [Sch.11](https://www.legislation.gov.uk/ukpga/1991/28/schedule/11); [S.I. 1991/2633](https://www.legislation.gov.uk/uksi/1991/2633), [art.4](https://www.legislation.gov.uk/uksi/1991/2633/article/4)
 
-[^key-77fdb88ae8e9f276f0476bfaf71aaf04]: Textual amendment: Pt. 2 repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/4/a) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2) and subject to [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/6)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
+[^c-77fdb88ae8e9f276f0476bfaf71aaf04]: Textual amendment: Pt. 2 repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/4/a) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2) and subject to [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/6)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)

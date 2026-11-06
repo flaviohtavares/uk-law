@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Requirement to obtain information (including health information) about the child[^key-49bb5da930a72e38cbb9a11d6777243f]
+## 15. Requirement to obtain information (including health information) about the child[^c-49bb5da930a72e38cbb9a11d6777243f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ unless the agency has received advice from the medical adviser that such an exam
 
 ## Annotations
 
-[^key-49bb5da930a72e38cbb9a11d6777243f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2005/1313/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-49bb5da930a72e38cbb9a11d6777243f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2005/1313/regulation/15) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 41
 
-### 1. Primary objective[^key-1cfe2db93ac507a06e1811cf06e163e0]
+### 1. Primary objective[^c-1cfe2db93ac507a06e1811cf06e163e0]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties to the dispute (save as to costs) within four months from the date the arbitrator is appointed pursuant to article 40 of this Order.
 
@@ -30,7 +30,7 @@ Article 41
 
 (3) The arbitration will be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-735181e5f83d0139264e9724894bf181]
+### 2. Time periods[^c-735181e5f83d0139264e9724894bf181]
 
 (1) All time periods in these arbitration rules will be measured in days and this will include weekends, but not bank or public holidays.
 
@@ -39,7 +39,7 @@ Article 41
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-2be62752ecc39aca0e1ba46a493ba6a5]
+### 3. Timetable[^c-2be62752ecc39aca0e1ba46a493ba6a5]
 
 (1) The timetable for the arbitration will be that set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 41
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent;
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-7fab0eb22de58e3b3dd835fc44504403]
+### 4. Procedure[^c-7fab0eb22de58e3b3dd835fc44504403]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) will be concise. No single pleading will exceed 30 single sided A4 pages using 10pt Arial font.
 
@@ -90,7 +90,7 @@ Article 41
 
 (11) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-75abf97aece734d0ad592a12311d7552]
+### 5. Arbitrator’s powers[^c-75abf97aece734d0ad592a12311d7552]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996[^f00044], including the non-mandatory sections, save where modified by this Schedule.
 
@@ -103,7 +103,7 @@ Article 41
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-458a77162322d3bbc94f17d1a486087b]
+### 6. Costs[^c-458a77162322d3bbc94f17d1a486087b]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -113,7 +113,7 @@ Article 41
 
 (4) The arbitrator will award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-511b971d41ae5c7e4665393e3edab7c5]
+### 7. Confidentiality[^c-511b971d41ae5c7e4665393e3edab7c5]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation will be open to and accessible by the public.
 
@@ -123,18 +123,18 @@ Article 41
 
 ## Annotations
 
-[^key-1cfe2db93ac507a06e1811cf06e163e0]: Commencement: Sch. 12 para. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-1cfe2db93ac507a06e1811cf06e163e0]: Commencement: Sch. 12 para. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-735181e5f83d0139264e9724894bf181]: Commencement: Sch. 12 para. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-735181e5f83d0139264e9724894bf181]: Commencement: Sch. 12 para. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-2be62752ecc39aca0e1ba46a493ba6a5]: Commencement: Sch. 12 para. 3 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-2be62752ecc39aca0e1ba46a493ba6a5]: Commencement: Sch. 12 para. 3 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-7fab0eb22de58e3b3dd835fc44504403]: Commencement: Sch. 12 para. 4 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-7fab0eb22de58e3b3dd835fc44504403]: Commencement: Sch. 12 para. 4 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-75abf97aece734d0ad592a12311d7552]: Commencement: Sch. 12 para. 5 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-75abf97aece734d0ad592a12311d7552]: Commencement: Sch. 12 para. 5 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
 [^f00044]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-458a77162322d3bbc94f17d1a486087b]: Commencement: Sch. 12 para. 6 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-458a77162322d3bbc94f17d1a486087b]: Commencement: Sch. 12 para. 6 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-511b971d41ae5c7e4665393e3edab7c5]: Commencement: Sch. 12 para. 7 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-511b971d41ae5c7e4665393e3edab7c5]: Commencement: Sch. 12 para. 7 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

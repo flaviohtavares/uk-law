@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Offences in relation to documents and records[^key-45b2fbb7f67e6538b217653a2924558f]
+## 173. Offences in relation to documents and records[^c-45b2fbb7f67e6538b217653a2924558f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and in this paragraph a reference to a certificate, licence, approval, permissio
 
 ## Annotations
 
-[^key-45b2fbb7f67e6538b217653a2924558f]: Commencement: [Art. 173](https://www.legislation.gov.uk/uksi/2013/2870/article/173) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-45b2fbb7f67e6538b217653a2924558f]: Commencement: [Art. 173](https://www.legislation.gov.uk/uksi/2013/2870/article/173) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

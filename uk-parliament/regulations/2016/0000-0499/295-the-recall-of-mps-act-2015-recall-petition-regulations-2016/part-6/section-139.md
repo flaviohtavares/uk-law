@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Corrupt and illegal practices[^key-816106f4052c37f1734832434dea49f1]
+## 139. Corrupt and illegal practices[^c-816106f4052c37f1734832434dea49f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Paragraph 25 of Schedule 3 to the Act (corrupt and illegal practices) applies to
 
 ## Annotations
 
-[^key-816106f4052c37f1734832434dea49f1]: Commencement: Reg. 139 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-816106f4052c37f1734832434dea49f1]: Commencement: Reg. 139 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

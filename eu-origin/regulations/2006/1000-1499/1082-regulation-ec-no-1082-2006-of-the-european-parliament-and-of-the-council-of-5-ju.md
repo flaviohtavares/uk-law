@@ -34,96 +34,96 @@ of 5 July 2006
 
 on a European grouping of territorial cooperation (EGTC) (revoked)
 
-[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Nature of an EGTC[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 1. Nature of an EGTC[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Applicable law[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 2. Applicable law[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Composition of an EGTC[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 3. Composition of an EGTC[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Accession of members from third countries or overseas countries or territories (OCTs)[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 3a. Accession of members from third countries or overseas countries or territories (OCTs)[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Establishment of an EGTC[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 4. Establishment of an EGTC[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4a. Participation of members from an OCT[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 4a. Participation of members from an OCT[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Acquisition of legal personality and publication in the Official Journal[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 5. Acquisition of legal personality and publication in the Official Journal[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Control of management of public funds[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 6. Control of management of public funds[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Tasks[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 7. Tasks[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Convention[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 8. Convention[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Statutes[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 9. Statutes[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Organisation of an EGTC[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 10. Organisation of an EGTC[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Budget[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 11. Budget[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Liquidation, insolvency, cessation of payments and liability[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 12. Liquidation, insolvency, cessation of payments and liability[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Public interest[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 13. Public interest[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Dissolution[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 14. Dissolution[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Jurisdiction[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 15. Jurisdiction[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Final provisions[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 16. Final provisions[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Report[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 17. Report[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17a. Exercise of the delegation[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 17a. Exercise of the delegation[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Entry into force[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]
+## Article 18. Entry into force[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46c2e26b7608c02e4ce1e4cb5398eb1c]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)
+[^c-46c2e26b7608c02e4ce1e4cb5398eb1c]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)

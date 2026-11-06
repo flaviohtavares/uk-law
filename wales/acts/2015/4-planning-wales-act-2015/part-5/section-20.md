@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Developments of national significance: secondary consents[^key-802ae45b4be4bc56aba0165eca574c0d]
+## 20. Developments of national significance: secondary consents[^c-802ae45b4be4bc56aba0165eca574c0d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-802ae45b4be4bc56aba0165eca574c0d]: Textual amendment: [Ss. 19-22](https://www.legislation.gov.uk/anaw/2015/4/section/19) omitted (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/12/3) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-802ae45b4be4bc56aba0165eca574c0d]: Textual amendment: [Ss. 19-22](https://www.legislation.gov.uk/anaw/2015/4/section/19) omitted (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/12/3) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)

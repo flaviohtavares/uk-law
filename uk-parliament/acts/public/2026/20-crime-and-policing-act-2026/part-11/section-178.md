@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Extraction of online information: ports and border security[^key-0700a2cf3d2d77e07f15b64f46fed776]
+## 178. Extraction of online information: ports and border security[^c-0700a2cf3d2d77e07f15b64f46fed776]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0700a2cf3d2d77e07f15b64f46fed776]: Commencement: S. 178 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0700a2cf3d2d77e07f15b64f46fed776]: Commencement: S. 178 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

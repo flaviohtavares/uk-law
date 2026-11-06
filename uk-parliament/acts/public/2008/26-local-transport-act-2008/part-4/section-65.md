@@ -20,21 +20,21 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-38fe6b128fff52f209d104c740a644d0][^key-45aaea61b63318eb013e00850175cb21] In section 155(1) of the TA 2000 (penalties) after paragraph (a) insert—
+(1)[^c-38fe6b128fff52f209d104c740a644d0][^c-45aaea61b63318eb013e00850175cb21] In section 155(1) of the TA 2000 (penalties) after paragraph (a) insert—
 
 > - (aa) failed to comply with the requirements of regulations made under section 6(9)(i), (j) or (k) of that Act,
 
 .
 
-(2)[^key-650a9cfeee6858c088e3ad124c5a69dd] Section 6 of the TA 1985 (registration of local services) is amended as follows.
+(2)[^c-650a9cfeee6858c088e3ad124c5a69dd] Section 6 of the TA 1985 (registration of local services) is amended as follows.
 
-(3)[^key-650a9cfeee6858c088e3ad124c5a69dd] In subsection (9) (regulations) after paragraph (k) insert—
+(3)[^c-650a9cfeee6858c088e3ad124c5a69dd] In subsection (9) (regulations) after paragraph (k) insert—
 
 > - (ka) for imposing restrictions on the use that may be made of records made available as mentioned in paragraph (j) above or information given as mentioned in paragraph (k) above;
 
 .
 
-(4)[^key-650a9cfeee6858c088e3ad124c5a69dd] After subsection (9) insert—
+(4)[^c-650a9cfeee6858c088e3ad124c5a69dd] After subsection (9) insert—
 
 > (10) Regulations made by virtue of paragraph (ka) of subsection (9) above—
 >
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-38fe6b128fff52f209d104c740a644d0]: Commencement: S. 65(1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-38fe6b128fff52f209d104c740a644d0]: Commencement: S. 65(1) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-45aaea61b63318eb013e00850175cb21]: Commencement: S. 65(1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/579/article/2/f)
+[^c-45aaea61b63318eb013e00850175cb21]: Commencement: S. 65(1) in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(f)](https://www.legislation.gov.uk/uksi/2009/579/article/2/f)
 
-[^key-650a9cfeee6858c088e3ad124c5a69dd]: Commencement: S. 65(2)-(4) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-650a9cfeee6858c088e3ad124c5a69dd]: Commencement: S. 65(2)-(4) in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

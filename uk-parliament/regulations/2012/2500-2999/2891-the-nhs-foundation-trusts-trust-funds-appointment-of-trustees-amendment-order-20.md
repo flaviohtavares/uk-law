@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment Order 2012 (revoked)[^key-b4775de82f0d092235580fc04eec22b1]
+The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment Order 2012 (revoked)[^c-b4775de82f0d092235580fc04eec22b1]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st December 2012
 
-[^key-b4775de82f0d092235580fc04eec22b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4775de82f0d092235580fc04eec22b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b4775de82f0d092235580fc04eec22b1]
+## 1. Citation, commencement and interpretation[^c-b4775de82f0d092235580fc04eec22b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^key-b4775de82f0d092235580fc04eec22b1]
+## 2. Amendment of the NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Order 2007[^c-b4775de82f0d092235580fc04eec22b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4775de82f0d092235580fc04eec22b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4775de82f0d092235580fc04eec22b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b4775de82f0d092235580fc04eec22b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4775de82f0d092235580fc04eec22b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4775de82f0d092235580fc04eec22b1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2891) revoked (1.12.2012) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment (No. 2) Order 2012 (S.I. 2012/2950)](https://www.legislation.gov.uk/uksi/2012/2950), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2950/article/1), [3](https://www.legislation.gov.uk/uksi/2012/2950/article/3)
+[^c-b4775de82f0d092235580fc04eec22b1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/2891) revoked (1.12.2012) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment (No. 2) Order 2012 (S.I. 2012/2950)](https://www.legislation.gov.uk/uksi/2012/2950), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2950/article/1), [3](https://www.legislation.gov.uk/uksi/2012/2950/article/3)

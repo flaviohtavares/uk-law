@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Section 91: Supplementary Provisions[^key-8e47dbe40e9d3b3ee88fb896a030c76c]
+## SCHEDULE 15 — Section 91: Supplementary Provisions[^c-8e47dbe40e9d3b3ee88fb896a030c76c]
 
 *Extent: E+W*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 91.
 
-### Part I — Relevant Assistance[^key-8e47dbe40e9d3b3ee88fb896a030c76c]
+### Part I — Relevant Assistance[^c-8e47dbe40e9d3b3ee88fb896a030c76c]
 
-**1.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Consequences of Contravention[^key-8e47dbe40e9d3b3ee88fb896a030c76c]
+### Part II — Consequences of Contravention[^c-8e47dbe40e9d3b3ee88fb896a030c76c]
 
-**2.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Failure to Furnish Information[^key-8e47dbe40e9d3b3ee88fb896a030c76c]
+### Part III — Failure to Furnish Information[^c-8e47dbe40e9d3b3ee88fb896a030c76c]
 
-**7.**[^key-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8e47dbe40e9d3b3ee88fb896a030c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e47dbe40e9d3b3ee88fb896a030c76c]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ukpga/1985/51/schedule/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-8e47dbe40e9d3b3ee88fb896a030c76c]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ukpga/1985/51/schedule/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

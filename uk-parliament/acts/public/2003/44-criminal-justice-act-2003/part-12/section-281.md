@@ -47,12 +47,12 @@ summary: ''
 
 affects the penalty for any offence committed before the commencement of that order or subsection (as the case may be).
 
-(7)[^key-9c195b599fdafbd5d2097a8ba74046d5] In this section and section 282 “**relevant enactment**” means any enactment contained in—
+(7)[^c-9c195b599fdafbd5d2097a8ba74046d5] In this section and section 282 “**relevant enactment**” means any enactment contained in—
 
 - (a) an Act passed before or in the same Session as this Act, or
 - (b) any subordinate legislation made before the passing of this Act.
 
-(8)[^key-9c195b599fdafbd5d2097a8ba74046d5] In subsection (7) “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30).
+(8)[^c-9c195b599fdafbd5d2097a8ba74046d5] In subsection (7) “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30).
 
 ## Annotations
 
@@ -60,4 +60,4 @@ affects the penalty for any offence committed before the commencement of that or
 
 [^c20974181]: Modification: S. 281(5) modified (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/uksi/2010/2837/schedule/4/paragraph/1/6)
 
-[^key-9c195b599fdafbd5d2097a8ba74046d5]: Commencement: [S. 281(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/281/7)[(8)](https://www.legislation.gov.uk/ukpga/2003/44/section/281/8) in force at 14.7.2022 for specified purposes by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/816/regulation/2/a)
+[^c-9c195b599fdafbd5d2097a8ba74046d5]: Commencement: [S. 281(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/281/7)[(8)](https://www.legislation.gov.uk/ukpga/2003/44/section/281/8) in force at 14.7.2022 for specified purposes by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2022/816/regulation/2/a)

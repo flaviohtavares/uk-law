@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## U5. Benefit information statements[^key-059434ccbf560141b8fd08ade0ed68ed]
+## U5. Benefit information statements[^c-059434ccbf560141b8fd08ade0ed68ed]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059434ccbf560141b8fd08ade0ed68ed]: Textual amendment: [Reg. U5](https://www.legislation.gov.uk/uksi/1995/300/regulation/U5) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/7)
+[^c-059434ccbf560141b8fd08ade0ed68ed]: Textual amendment: [Reg. U5](https://www.legislation.gov.uk/uksi/1995/300/regulation/U5) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/7)

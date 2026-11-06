@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Duties about regulated provider pornographic content[^key-964903769c7a602b42c00d8d22bf4d50][^key-3ccadce4c878785a51c521081268380f]
+## 81. Duties about regulated provider pornographic content[^c-964903769c7a602b42c00d8d22bf4d50][^c-3ccadce4c878785a51c521081268380f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-964903769c7a602b42c00d8d22bf4d50]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/50/section/81) not in force at Royal Assent, see [s. 240](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
+[^c-964903769c7a602b42c00d8d22bf4d50]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/50/section/81) not in force at Royal Assent, see [s. 240](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
 
-[^key-3ccadce4c878785a51c521081268380f]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/50/section/81) in force at 17.1.2025 by [S.I. 2024/1333](https://www.legislation.gov.uk/uksi/2024/1333), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1333/regulation/2/1/a)
+[^c-3ccadce4c878785a51c521081268380f]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/50/section/81) in force at 17.1.2025 by [S.I. 2024/1333](https://www.legislation.gov.uk/uksi/2024/1333), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1333/regulation/2/1/a)

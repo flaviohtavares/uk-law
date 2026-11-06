@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Relationship with amounts to be disregarded under Schedule 3[^key-28f5978e52d0c243a7be86885dc47956]
+## 45. Relationship with amounts to be disregarded under Schedule 3[^c-28f5978e52d0c243a7be86885dc47956]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ No part of a student’s grant income shall be disregarded under paragraph 12 of
 
 ## Annotations
 
-[^key-28f5978e52d0c243a7be86885dc47956]: Commencement: Reg. 45 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-28f5978e52d0c243a7be86885dc47956]: Commencement: Reg. 45 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

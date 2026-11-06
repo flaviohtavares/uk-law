@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 15A — Lotteries and competitions: requirement to pay in order to participate[^key-91e6a49762324873ac231ac6f0442107]
+## SCHEDULE 15A — Lotteries and competitions: requirement to pay in order to participate[^c-91e6a49762324873ac231ac6f0442107]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e6a49762324873ac231ac6f0442107]: Textual amendment: [Sch. 15A](https://www.legislation.gov.uk/nisi/1985/1204/schedule/15A) inserted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 9(2)](https://www.legislation.gov.uk/nia/2022/14/section/9/2), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2), [Sch.](https://www.legislation.gov.uk/nia/2022/14/schedule)
+[^c-91e6a49762324873ac231ac6f0442107]: Textual amendment: [Sch. 15A](https://www.legislation.gov.uk/nisi/1985/1204/schedule/15A) inserted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 9(2)](https://www.legislation.gov.uk/nia/2022/14/section/9/2), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2), [Sch.](https://www.legislation.gov.uk/nia/2022/14/schedule)

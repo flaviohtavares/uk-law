@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Application of landlord and tenant law[^key-d2cea03bd40adeddb7d38b73daac7971]
+## 39. Application of landlord and tenant law[^c-d2cea03bd40adeddb7d38b73daac7971]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-d2cea03bd40adeddb7d38b73daac7971]: Commencement: Art. 39 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-d2cea03bd40adeddb7d38b73daac7971]: Commencement: Art. 39 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

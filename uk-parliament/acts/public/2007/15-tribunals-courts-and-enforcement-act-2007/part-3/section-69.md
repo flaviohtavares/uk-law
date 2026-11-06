@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. County court warrants of control etc.[^key-3327e99b7f5f408483f6c173cfe18615]
+## 69. County court warrants of control etc.[^c-3327e99b7f5f408483f6c173cfe18615]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ For section 99 of the County Courts Act 1984 substitute—
 
 ## Annotations
 
-[^key-3327e99b7f5f408483f6c173cfe18615]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2007/15/section/69) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-3327e99b7f5f408483f6c173cfe18615]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2007/15/section/69) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

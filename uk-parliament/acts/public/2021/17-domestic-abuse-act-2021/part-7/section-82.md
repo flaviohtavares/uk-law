@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Code of practice[^key-17e23a7ee0e450694b6d91c438120c1e]
+## 82. Code of practice[^c-17e23a7ee0e450694b6d91c438120c1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17e23a7ee0e450694b6d91c438120c1e]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2021/17/section/82) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/c)
+[^c-17e23a7ee0e450694b6d91c438120c1e]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2021/17/section/82) in force at 5.4.2023 by [S.I. 2023/406](https://www.legislation.gov.uk/uksi/2023/406), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/406/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.18.2. Appeals[^key-0e8159cec0543401d782d71da3b4d9de]
+## 3.18.2. Appeals[^c-0e8159cec0543401d782d71da3b4d9de]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ and shall be accompanied by a copy of such finding, sanction or suspension.
 
 ## Annotations
 
-[^key-0e8159cec0543401d782d71da3b4d9de]: Textual amendment: Ch. 3 Pt. 18 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 2) (Local Government (Scotland) Act 1973) 2002 (S.S.I. 2002/130)](https://www.legislation.gov.uk/ssi/2002/130), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/2/3)
+[^c-0e8159cec0543401d782d71da3b4d9de]: Textual amendment: Ch. 3 Pt. 18 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 2) (Local Government (Scotland) Act 1973) 2002 (S.S.I. 2002/130)](https://www.legislation.gov.uk/ssi/2002/130), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2002/130/paragraph/2/3)

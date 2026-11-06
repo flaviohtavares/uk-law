@@ -92,7 +92,7 @@ Having consulted in accordance with section 15(1) of the Enterprise Act 2002 [^c
 
 - [Section 24 — Power to make interim orders and to take interim measures](part-2/section-24.md)
 
-### PART 3 — REVIEW AND APPEAL PROCEEDINGS UNDER THE 2002 AND 2024 ACTS[^key-2ad5f34881f41371a9be2bfbe407b8b2][^key-83ffb4e3d5bff2a8110b4dd5031477d3]
+### PART 3 — REVIEW AND APPEAL PROCEEDINGS UNDER THE 2002 AND 2024 ACTS[^c-2ad5f34881f41371a9be2bfbe407b8b2][^c-83ffb4e3d5bff2a8110b4dd5031477d3]
 
 - [Section 25 — Time for commencing proceedings for a review under the 2002 and 2024 Acts](part-3/section-25.md)
 - [Section 26 — Supplementary provisions concerning reviews](part-3/section-26.md)
@@ -185,7 +185,7 @@ Having consulted in accordance with section 15(1) of the Enterprise Act 2002 [^c
 - [Section 71 — Transfer of claims from the Tribunal](part-4/section-71.md)
 - [Section 72 — Transfer of claims to the Tribunal](part-4/section-72.md)
 
-### Part 4A — CLAIMS UNDER SECTION 101 OF THE 2024 ACT[^key-cc7750a4cecdbd8f7ffe358cf96d7af4]
+### Part 4A — CLAIMS UNDER SECTION 101 OF THE 2024 ACT[^c-cc7750a4cecdbd8f7ffe358cf96d7af4]
 
 - [Section 72A — Scope and interpretation](part-4a/section-72a.md)
 - [Section 72B — General](part-4a/section-72b.md)
@@ -232,11 +232,11 @@ Having consulted in accordance with section 15(1) of the Enterprise Act 2002 [^c
 
 - [Section 98 — Costs](part-5/section-98.md)
 
-### PART 5A — Applications under section 70 of the Subsidy Control Act 2022[^key-2df9ad7506a0fefb5f9814a355d07bef]
+### PART 5A — Applications under section 70 of the Subsidy Control Act 2022[^c-2df9ad7506a0fefb5f9814a355d07bef]
 
 - [Section 98A — Time limits for applications](part-5a/section-98a.md)
 
-### Part 5B — Appeals under section 84 of the Football Governance Act 2025[^key-7f3bdcc9c89d51e9ed6a7b70fb3f0441]
+### Part 5B — Appeals under section 84 of the Football Governance Act 2025[^c-7f3bdcc9c89d51e9ed6a7b70fb3f0441]
 
 - [Section 98B — Time limits for appeals](part-5b/section-98b.md)
 
@@ -331,12 +331,12 @@ An impact assessment of the impact that these Rules will have on the costs of bu
 
 [^c22671421]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21); [section 193](https://www.legislation.gov.uk/uksi/2015/1648/section/193) was amended by paragraph 98 of Schedule 6 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-2ad5f34881f41371a9be2bfbe407b8b2]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1648/part/3) heading inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2025/999/rule/5)
+[^c-2ad5f34881f41371a9be2bfbe407b8b2]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1648/part/3) heading inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2025/999/rule/5)
 
-[^key-83ffb4e3d5bff2a8110b4dd5031477d3]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1648/part/3) heading substituted (1.1.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1233)](https://www.legislation.gov.uk/uksi/2024/1233), [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1233/rule/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2024/1233/schedule/paragraph/3)
+[^c-83ffb4e3d5bff2a8110b4dd5031477d3]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2015/1648/part/3) heading substituted (1.1.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2024 (S.I. 2024/1233)](https://www.legislation.gov.uk/uksi/2024/1233), [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1233/rule/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2024/1233/schedule/paragraph/3)
 
-[^key-cc7750a4cecdbd8f7ffe358cf96d7af4]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2015/1648/part/4A) inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2025/999/rule/6)
+[^c-cc7750a4cecdbd8f7ffe358cf96d7af4]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2015/1648/part/4A) inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2025/999/rule/6)
 
-[^key-2df9ad7506a0fefb5f9814a355d07bef]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2015/1648/part/5A) inserted (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2022/23/section/71/3), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2) (with [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2022/23/section/76/4), [78(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/78/2), [85](https://www.legislation.gov.uk/ukpga/2022/23/section/85)); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-2df9ad7506a0fefb5f9814a355d07bef]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2015/1648/part/5A) inserted (4.1.2023) by [Subsidy Control Act 2022 (c. 23)](https://www.legislation.gov.uk/ukpga/2022/23), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2022/23/section/71/3), [91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2) (with [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2022/23/section/76/4), [78(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/78/2), [85](https://www.legislation.gov.uk/ukpga/2022/23/section/85)); [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-7f3bdcc9c89d51e9ed6a7b70fb3f0441]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2015/1648/part/5B) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by [Football Governance Act 2025 (c. 21)](https://www.legislation.gov.uk/ukpga/2025/21), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/1)[(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g), [Sch. 12 para. 10(3)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/3) (with [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/4)); [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-7f3bdcc9c89d51e9ed6a7b70fb3f0441]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2015/1648/part/5B) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by [Football Governance Act 2025 (c. 21)](https://www.legislation.gov.uk/ukpga/2025/21), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/1)[(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g), [Sch. 12 para. 10(3)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/3) (with [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/4)); [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)

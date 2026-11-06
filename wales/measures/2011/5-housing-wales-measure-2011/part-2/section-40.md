@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Consultation[^key-b1b9695553d2ac8452f5708b02558da5]
+## 40. Consultation[^c-b1b9695553d2ac8452f5708b02558da5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ After section 35A of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-b1b9695553d2ac8452f5708b02558da5]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2011/5/section/40) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/e)
+[^c-b1b9695553d2ac8452f5708b02558da5]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2011/5/section/40) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/e)

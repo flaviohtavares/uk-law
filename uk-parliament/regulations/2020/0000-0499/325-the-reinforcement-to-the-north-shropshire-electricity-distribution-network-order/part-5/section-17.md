@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Compulsory acquisition of rights: incorporation of the mineral code[^key-e4304c90be1a0bd8bd37665b0442ab05]
+## 17. Compulsory acquisition of rights: incorporation of the mineral code[^c-e4304c90be1a0bd8bd37665b0442ab05]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981 [^c24030521] (mi
 
 ## Annotations
 
-[^key-e4304c90be1a0bd8bd37665b0442ab05]: Commencement: Art. 17 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e4304c90be1a0bd8bd37665b0442ab05]: Commencement: Art. 17 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030521]: Marginal citation: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67), amended by [S.I. 2019/1307](https://www.legislation.gov.uk/uksi/2019/1307).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Expenditure for individual technologies[^key-0e7a4fb9be786a82bec5ace4b2ad19d2]
+## SCHEDULE 6 — Expenditure for individual technologies[^c-0e7a4fb9be786a82bec5ace4b2ad19d2]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Regulation 36
 
 ### PART 1 — Biomass plants
 
-Table 1[^key-af205864cdf7fca25385e7e07f923fb4]
+Table 1[^c-af205864cdf7fca25385e7e07f923fb4]
 
 | Assessment date | *Expenditure*<br>*threshold* | *Growth*<br>*threshold* | *Super expenditure*<br>*threshold* | *Super growth*<br>*threshold* |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Table 1[^key-af205864cdf7fca25385e7e07f923fb4]
 
 ### PART 2 — Air source heat pumps
 
-Table 2[^key-8f4c39903c8bd801083ee9b342501e2e]
+Table 2[^c-8f4c39903c8bd801083ee9b342501e2e]
 
 | Assessment date | Expenditure threshold | Growth threshold | *Super expenditure*<br>*threshold* | *Super growth*<br>*threshold* |
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Table 2[^key-8f4c39903c8bd801083ee9b342501e2e]
 
 ### PART 3 — Ground source heat pumps
 
-Table 3[^key-a1a9897c828532d695bea628221f2ca7]
+Table 3[^c-a1a9897c828532d695bea628221f2ca7]
 
 | Assessment date | *Expenditure*<br>*threshold* | Growth threshold | Super expenditure threshold | Super growth threshold |
 | --- | --- | --- | --- | --- |
@@ -58,9 +58,9 @@ Table 3[^key-a1a9897c828532d695bea628221f2ca7]
 | 31st October 2021 | £43.20m | £1.68m | £61.54m | £2.55m |
 | Any date after 30th January 2022 | £43.49m | £1.68m | £62.70m | £2.55m |
 
-### PART 4 — Solar thermal plants[^key-f532a87aac363c986b4df99ac22bff0d]
+### PART 4 — Solar thermal plants[^c-f532a87aac363c986b4df99ac22bff0d]
 
-Table 4[^key-bc80c3540da5d4e880c0ebad230a2ac9]
+Table 4[^c-bc80c3540da5d4e880c0ebad230a2ac9]
 
 | Assessment date | Expenditure threshold | Growth threshold | Super expenditure threshold | Super growth threshold |
 | --- | --- | --- | --- | --- |
@@ -72,14 +72,14 @@ Table 4[^key-bc80c3540da5d4e880c0ebad230a2ac9]
 
 ## Annotations
 
-[^key-0e7a4fb9be786a82bec5ace4b2ad19d2]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2014/928/schedule/6) substituted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [28](https://www.legislation.gov.uk/uksi/2016/257/regulation/28)
+[^c-0e7a4fb9be786a82bec5ace4b2ad19d2]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2014/928/schedule/6) substituted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [28](https://www.legislation.gov.uk/uksi/2016/257/regulation/28)
 
-[^key-af205864cdf7fca25385e7e07f923fb4]: Textual amendment: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/1) Table 1 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(2)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/2)
+[^c-af205864cdf7fca25385e7e07f923fb4]: Textual amendment: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/1) Table 1 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(2)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/2)
 
-[^key-8f4c39903c8bd801083ee9b342501e2e]: Textual amendment: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/2) Table 2 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(3)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/3)
+[^c-8f4c39903c8bd801083ee9b342501e2e]: Textual amendment: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/2) Table 2 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(3)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/3)
 
-[^key-a1a9897c828532d695bea628221f2ca7]: Textual amendment: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/3) Table 3 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(4)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/4)
+[^c-a1a9897c828532d695bea628221f2ca7]: Textual amendment: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/3) Table 3 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(4)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/4)
 
-[^key-f532a87aac363c986b4df99ac22bff0d]: Textual amendment: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/3) Table 3 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/3/4)
+[^c-f532a87aac363c986b4df99ac22bff0d]: Textual amendment: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/3) Table 3 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/3/4)
 
-[^key-bc80c3540da5d4e880c0ebad230a2ac9]: Textual amendment: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/4) Table 4 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(5)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/5)
+[^c-bc80c3540da5d4e880c0ebad230a2ac9]: Textual amendment: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2014/928/schedule/6/part/4) Table 4 substituted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/a), [6(5)](https://www.legislation.gov.uk/uksi/2021/76/regulation/6/5)

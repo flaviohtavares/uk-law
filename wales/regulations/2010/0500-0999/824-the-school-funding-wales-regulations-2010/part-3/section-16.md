@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Schools of a particular description[^key-d4a7adec38ed6e3b54accff18d3ec082]
+## 16. Schools of a particular description[^c-d4a7adec38ed6e3b54accff18d3ec082]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a local authority deduct from their schools budget planned expenditure whi
 
 ## Annotations
 
-[^key-d4a7adec38ed6e3b54accff18d3ec082]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2010/824/regulation/16) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-d4a7adec38ed6e3b54accff18d3ec082]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2010/824/regulation/16) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

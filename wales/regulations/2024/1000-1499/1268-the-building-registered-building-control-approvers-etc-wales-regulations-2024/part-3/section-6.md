@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Form, grounds and period for rejecting initial notice[^key-813ce629530632e2a736eaa956b52cd2]
+## 6. Form, grounds and period for rejecting initial notice[^c-813ce629530632e2a736eaa956b52cd2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-813ce629530632e2a736eaa956b52cd2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/1268/regulation/6) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-813ce629530632e2a736eaa956b52cd2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/1268/regulation/6) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

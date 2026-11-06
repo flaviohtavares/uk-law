@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27. Disputes about glebe land etc.[^key-09e0253b81c1ca4389811fa010e7db93]
+## 27. Disputes about glebe land etc.[^c-09e0253b81c1ca4389811fa010e7db93]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09e0253b81c1ca4389811fa010e7db93]: Commencement: [S. 27](https://www.legislation.gov.uk/ukcm/2018/8/section/27) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-09e0253b81c1ca4389811fa010e7db93]: Commencement: [S. 27](https://www.legislation.gov.uk/ukcm/2018/8/section/27) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

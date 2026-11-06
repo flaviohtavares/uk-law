@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Railways policing plan[^key-da17652051da46235f5dc5aaaf763f61]
+## 52. Railways policing plan[^c-da17652051da46235f5dc5aaaf763f61]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 (6) Before issuing a plan which differs from the Chief Constable’s draft the Authority shall consult him.
 
-(7)[^key-cc2ac913642d0b948dffa67395468078] In preparing a plan the Chief Constable and the Authority shall have regard to any guidance given by the Secretary of State about railways policing plans.
+(7)[^c-cc2ac913642d0b948dffa67395468078] In preparing a plan the Chief Constable and the Authority shall have regard to any guidance given by the Secretary of State about railways policing plans.
 
 (7A) Before issuing or revising any guidance under subsection (7) the Secretary of State shall consult—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da17652051da46235f5dc5aaaf763f61]: Commencement: S. 52 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ii)
+[^c-da17652051da46235f5dc5aaaf763f61]: Commencement: S. 52 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ii)
 
-[^key-cc2ac913642d0b948dffa67395468078]: Textual amendment: [S. 52(7)](https://www.legislation.gov.uk/ukpga/2003/20/section/52/7)[(7A)](https://www.legislation.gov.uk/ukpga/2003/20/section/52/7A) substituted for [s. 52(7)](https://www.legislation.gov.uk/ukpga/2003/20/section/52/7) (14.11.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 50](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/50); [S.I. 2008/2785](https://www.legislation.gov.uk/uksi/2008/2785), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/2785/article/3/b)
+[^c-cc2ac913642d0b948dffa67395468078]: Textual amendment: [S. 52(7)](https://www.legislation.gov.uk/ukpga/2003/20/section/52/7)[(7A)](https://www.legislation.gov.uk/ukpga/2003/20/section/52/7A) substituted for [s. 52(7)](https://www.legislation.gov.uk/ukpga/2003/20/section/52/7) (14.11.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 50](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/50); [S.I. 2008/2785](https://www.legislation.gov.uk/uksi/2008/2785), [art. 3(b)](https://www.legislation.gov.uk/uksi/2008/2785/article/3/b)

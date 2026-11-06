@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Interpretation[^key-cf181e403718a09a4f6d7ce69cb89a69]
+## 56. Interpretation[^c-cf181e403718a09a4f6d7ce69cb89a69]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - “**building**” is to be construed in accordance with section 55,
 - “**building regulations**” means regulations under section 1(1); and references to building regulations in relation to a building of a particular description are references to so much of the regulations as apply to a building of that description,
 - “**building regulations compliance notice**” has the meaning given by section 25(3),
-- [^key-66a1141d11618616e44c17daaa38109e]...
+- [^c-66a1141d11618616e44c17daaa38109e]...
 - “**building standards register**” has the meaning given in section 24(1),
 - “**building warrant**” has the meaning given in section 8(1) and includes, in the case of a warrant which has been granted, any conditions to which it is subject and any amendment which has been made to it,
 - “**building warrant enforcement notice**” has the meaning given by section 27(2),
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf181e403718a09a4f6d7ce69cb89a69]: Commencement: S. 56 in force at 22.9.2004 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
+[^c-cf181e403718a09a4f6d7ce69cb89a69]: Commencement: S. 56 in force at 22.9.2004 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
 
-[^key-66a1141d11618616e44c17daaa38109e]: Textual amendment: Words in s. 56(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(d)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-66a1141d11618616e44c17daaa38109e]: Textual amendment: Words in s. 56(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(d)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

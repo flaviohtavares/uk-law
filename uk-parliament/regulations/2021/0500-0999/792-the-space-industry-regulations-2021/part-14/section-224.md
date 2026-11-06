@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Penalty for obstructing inspector or regulator[^key-ab1d2ccc9aa25a1a569b40a438523eca]
+## 224. Penalty for obstructing inspector or regulator[^c-ab1d2ccc9aa25a1a569b40a438523eca]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person guilty of an offence under regulation 223 is liable—
 
 ## Annotations
 
-[^key-ab1d2ccc9aa25a1a569b40a438523eca]: Commencement: Reg. 224 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ab1d2ccc9aa25a1a569b40a438523eca]: Commencement: Reg. 224 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

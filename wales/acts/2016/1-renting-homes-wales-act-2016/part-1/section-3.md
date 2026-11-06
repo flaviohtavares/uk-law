@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Fundamental provisions and supplementary provisions of occupation contracts[^key-6e54ae22a608775b0c3275f98b1298d9]
+## 3. Fundamental provisions and supplementary provisions of occupation contracts[^c-6e54ae22a608775b0c3275f98b1298d9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e54ae22a608775b0c3275f98b1298d9]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2016/1/section/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6e54ae22a608775b0c3275f98b1298d9]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2016/1/section/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

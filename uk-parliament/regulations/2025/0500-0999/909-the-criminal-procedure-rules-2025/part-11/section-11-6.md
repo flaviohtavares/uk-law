@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.6. Application to approve a variation of the terms of an agreement[^key-604c77d0bd07d250ce4a0e7b98b21f33]
+## 11.6. Application to approve a variation of the terms of an agreement[^c-604c77d0bd07d250ce4a0e7b98b21f33]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-604c77d0bd07d250ce4a0e7b98b21f33]: Commencement: [Rule 11.6](https://www.legislation.gov.uk/uksi/2025/909/rule/11.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-604c77d0bd07d250ce4a0e7b98b21f33]: Commencement: [Rule 11.6](https://www.legislation.gov.uk/uksi/2025/909/rule/11.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

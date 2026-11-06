@@ -57,7 +57,7 @@ summary: ''
 - (a) if the appeal is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal, or
 - (b) if and when the appeal is dismissed, and not otherwise.
 
-(7)[^key-245097de87796d5c5a84e9010c66f97f] The Registrar may suspend a person's licence if the Registrar—
+(7)[^c-245097de87796d5c5a84e9010c66f97f] The Registrar may suspend a person's licence if the Registrar—
 
 - (a) has given, or is about to give, the person notice under subsection (3),
 - (b) is considering whether to revoke the licence, or has decided to revoke the licence but the decision is not yet in effect, and
@@ -111,4 +111,4 @@ summary: ''
 
 [^c13989451]: Textual amendment: S. 130(5A)(6) substituted (1.4.2002) for s. 130(6) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 259(3)](https://www.legislation.gov.uk/ukpga/2000/38/section/259/3); [S.I. 2002/658](https://www.legislation.gov.uk/uksi/2002/658), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/658/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/658/schedule/part/2)
 
-[^key-245097de87796d5c5a84e9010c66f97f]: Textual amendment: S. 130(7)-(13) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/5); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-245097de87796d5c5a84e9010c66f97f]: Textual amendment: S. 130(7)-(13) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/5); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)

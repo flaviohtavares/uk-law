@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Report to creditors[^key-3b3251504f51128071cbccbbd88ee756]
+## 31. Report to creditors[^c-3b3251504f51128071cbccbbd88ee756]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3251504f51128071cbccbbd88ee756]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2007/3141/rule/31) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-3b3251504f51128071cbccbbd88ee756]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2007/3141/rule/31) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

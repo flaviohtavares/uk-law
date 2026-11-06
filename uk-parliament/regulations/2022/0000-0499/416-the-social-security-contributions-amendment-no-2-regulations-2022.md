@@ -44,13 +44,13 @@ These Regulations are made by the Treasury in exercise of the powers conferred b
 
 A draft of this instrument was laid before Parliament in accordance with section 176(1)(a)[^f00003] of the Contributions Act and section 172(11A)[^f00004] of the Northern Ireland Contributions Act and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and effect[^key-af486deb705f4e3c876ab9f0ab874894]
+## 1. Citation, commencement and effect[^c-af486deb705f4e3c876ab9f0ab874894]
 
 (1) These Regulations may be cited as the Social Security (Contributions) (Amendment No. 2) Regulations 2022 and come into force on 6th April 2022.
 
-(2) These Regulations have effect in relation to payments of earnings made before 6 November in[^key-9d99db60028e1475f60a5f54633bb199] the tax year 2022-23.
+(2) These Regulations have effect in relation to payments of earnings made before 6 November in[^c-9d99db60028e1475f60a5f54633bb199] the tax year 2022-23.
 
-## 2. Modification of the Social Security (Contributions) Regulations 2001[^key-53e429747e0ddf7e4f9749a259248ef0]
+## 2. Modification of the Social Security (Contributions) Regulations 2001[^c-53e429747e0ddf7e4f9749a259248ef0]
 
 Regulation 131 of the Social Security (Contributions) Regulations 2001[^f00005] is to have effect as if for “5.85” there were substituted “7.1”.
 
@@ -82,10 +82,10 @@ A Tax Information and Impact Note covering this instrument was published on 9th 
 
 [^f00004]: Footnote: Section 172(11A) was inserted by paragraph 29(5) of Schedule 3 to the Transfer Order.
 
-[^key-af486deb705f4e3c876ab9f0ab874894]: Commencement: Reg. 1 in force at 6.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/416/regulation/1/1)
+[^c-af486deb705f4e3c876ab9f0ab874894]: Commencement: Reg. 1 in force at 6.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/416/regulation/1/1)
 
-[^key-9d99db60028e1475f60a5f54633bb199]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/416/regulation/1/2) substituted (25.10.2022) by [Health and Social Care Levy (Repeal) Act 2022 (c. 43)](https://www.legislation.gov.uk/ukpga/2022/43), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/4) (with [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/8))
+[^c-9d99db60028e1475f60a5f54633bb199]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/416/regulation/1/2) substituted (25.10.2022) by [Health and Social Care Levy (Repeal) Act 2022 (c. 43)](https://www.legislation.gov.uk/ukpga/2022/43), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/4) (with [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/8))
 
-[^key-53e429747e0ddf7e4f9749a259248ef0]: Commencement: Reg. 2 in force at 6.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/416/regulation/1/1)
+[^c-53e429747e0ddf7e4f9749a259248ef0]: Commencement: Reg. 2 in force at 6.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/416/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004); relevant amending instruments are [S.I. 2003/964](https://www.legislation.gov.uk/uksi/2003/964) and [2011/940](https://www.legislation.gov.uk/uksi/2011/940).

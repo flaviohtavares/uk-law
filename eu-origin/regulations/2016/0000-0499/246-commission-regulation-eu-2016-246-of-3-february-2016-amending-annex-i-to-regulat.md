@@ -33,18 +33,18 @@ of 3 February 2016
 
 amending Annex I to Regulation (EC) No 794/2004 as regards the forms to be used for the notification of State aid in the agricultural and forestry sectors and in rural areas (revoked)
 
-[^key-74b385fd6990a7a7ea85c7efb64b555c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b385fd6990a7a7ea85c7efb64b555c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-74b385fd6990a7a7ea85c7efb64b555c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-74b385fd6990a7a7ea85c7efb64b555c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-74b385fd6990a7a7ea85c7efb64b555c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-74b385fd6990a7a7ea85c7efb64b555c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74b385fd6990a7a7ea85c7efb64b555c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74b385fd6990a7a7ea85c7efb64b555c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-74b385fd6990a7a7ea85c7efb64b555c]
+## ANNEX[^c-74b385fd6990a7a7ea85c7efb64b555c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74b385fd6990a7a7ea85c7efb64b555c]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(s)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/s) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-74b385fd6990a7a7ea85c7efb64b555c]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(s)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/s) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

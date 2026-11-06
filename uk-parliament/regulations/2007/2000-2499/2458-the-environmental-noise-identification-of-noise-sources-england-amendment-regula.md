@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND
 
-The Environmental Noise (Identification of Noise Sources) (England) (Amendment) Regulations 2007 (revoked)[^key-c9154886bd8054a9f9938094fc0df0a2]
+The Environmental Noise (Identification of Noise Sources) (England) (Amendment) Regulations 2007 (revoked)[^c-c9154886bd8054a9f9938094fc0df0a2]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 20th September 2007
 
-[^key-c9154886bd8054a9f9938094fc0df0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9154886bd8054a9f9938094fc0df0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-c9154886bd8054a9f9938094fc0df0a2]
+## 1. Citation, commencement and application[^c-c9154886bd8054a9f9938094fc0df0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Environmental Noise (Identification of Noise Sources) (England) Regulations 2007[^key-c9154886bd8054a9f9938094fc0df0a2]
+## 2. Amendment of the Environmental Noise (Identification of Noise Sources) (England) Regulations 2007[^c-c9154886bd8054a9f9938094fc0df0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9154886bd8054a9f9938094fc0df0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9154886bd8054a9f9938094fc0df0a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c9154886bd8054a9f9938094fc0df0a2]EXPLANATORY NOTE
+[^c-c9154886bd8054a9f9938094fc0df0a2]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-c9154886bd8054a9f9938094fc0df0a2]: Textual amendment: Regulations revoked (1.12.2013) by [The Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 (S.I. 2013/2854)](https://www.legislation.gov.uk/uksi/2013/2854), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2013/2854/regulation/2/b)
+[^c-c9154886bd8054a9f9938094fc0df0a2]: Textual amendment: Regulations revoked (1.12.2013) by [The Environmental Noise, Site Waste Management Plans and Spreadable Fats etc. (Revocations and Amendments) Regulations 2013 (S.I. 2013/2854)](https://www.legislation.gov.uk/uksi/2013/2854), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2013/2854/regulation/2/b)

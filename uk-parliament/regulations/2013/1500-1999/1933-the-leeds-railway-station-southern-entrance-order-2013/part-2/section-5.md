@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Power to deviate[^key-716aec07571d7fa56acce151ad1dd88b]
+## 5. Power to deviate[^c-716aec07571d7fa56acce151ad1dd88b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-716aec07571d7fa56acce151ad1dd88b]: Commencement: Art. 5 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-716aec07571d7fa56acce151ad1dd88b]: Commencement: Art. 5 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

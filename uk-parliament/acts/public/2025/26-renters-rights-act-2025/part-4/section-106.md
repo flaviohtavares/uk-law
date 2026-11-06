@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Service of improvement notices on landlords and licensors[^key-33850eeb4111c436aeb610ece5d4d5dd][^key-6847f285dadd6f8c312b54453746b3ef]
+## 106. Service of improvement notices on landlords and licensors[^c-33850eeb4111c436aeb610ece5d4d5dd][^c-6847f285dadd6f8c312b54453746b3ef]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In Schedule 1 to the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/200
 
 ## Annotations
 
-[^key-33850eeb4111c436aeb610ece5d4d5dd]: Commencement: S. 106 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-33850eeb4111c436aeb610ece5d4d5dd]: Commencement: S. 106 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-6847f285dadd6f8c312b54453746b3ef]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/26/section/106) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
+[^c-6847f285dadd6f8c312b54453746b3ef]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2025/26/section/106) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)

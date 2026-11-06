@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE   3 — Further requirements for meeting the statutory standard[^key-96d6248b9d4841bfbb3022e18bd246e9]
+## SCHEDULE   3 — Further requirements for meeting the statutory standard[^c-96d6248b9d4841bfbb3022e18bd246e9]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ Regulation 23(i)
 
 **4.** Where the actuary is sending the first reference scheme test certificate for a scheme, the actuary must also inform—
 
-- (a) the trustees or managers of the scheme[^key-b46128ba20fa6163e17a58b8e0bddc55] and the employer that Her Majesty’s Revenue and Customs provide guidance on contracting-out, including guidance on what changes need to be notified to Her Majesty’s Revenue and Customs,
+- (a) the trustees or managers of the scheme[^c-b46128ba20fa6163e17a58b8e0bddc55] and the employer that Her Majesty’s Revenue and Customs provide guidance on contracting-out, including guidance on what changes need to be notified to Her Majesty’s Revenue and Customs,
 - (b) the employer that it should provide a copy of the completed certificate to the trustees or managers of the scheme, and
 - (c) the employer that it should keep a record of any subsidiary or associated employers.
 
@@ -196,6 +196,6 @@ the actuary must inform in writing the trustees or managers of the scheme, Her M
 
 ## Annotations
 
-[^key-96d6248b9d4841bfbb3022e18bd246e9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1996/1172/schedule/3) added (1.10.2011) by [The Occupational Pension Schemes (Contracting-out) Amendment Regulations 2011 (S.I. 2011/1294)](https://www.legislation.gov.uk/uksi/2011/1294), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1294/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2011/1294/regulation/2/3), [Schs.](https://www.legislation.gov.uk/uksi/2011/1294/schedule)
+[^c-96d6248b9d4841bfbb3022e18bd246e9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1996/1172/schedule/3) added (1.10.2011) by [The Occupational Pension Schemes (Contracting-out) Amendment Regulations 2011 (S.I. 2011/1294)](https://www.legislation.gov.uk/uksi/2011/1294), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1294/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2011/1294/regulation/2/3), [Schs.](https://www.legislation.gov.uk/uksi/2011/1294/schedule)
 
-[^key-b46128ba20fa6163e17a58b8e0bddc55]: Textual amendment: Words in Sch. 3 para. 4(a)(b) substituted (6.4.2012) by [The Occupational Pension Schemes (Contracting-out and Modification of Schemes) (Amendment) Regulations 2012 (S.I. 2012/542)](https://www.legislation.gov.uk/uksi/2012/542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/542/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/542/regulation/2/3)
+[^c-b46128ba20fa6163e17a58b8e0bddc55]: Textual amendment: Words in Sch. 3 para. 4(a)(b) substituted (6.4.2012) by [The Occupational Pension Schemes (Contracting-out and Modification of Schemes) (Amendment) Regulations 2012 (S.I. 2012/542)](https://www.legislation.gov.uk/uksi/2012/542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/542/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/542/regulation/2/3)

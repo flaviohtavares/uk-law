@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 1(1) and 18(2) of the Safety of Sports Grounds Act 1975[^f00001]. In accordance with section 18(4) of that Act he has consulted with such persons as appear to him to be requisite.
 
-## 1. Citation and Commencement[^key-857a490f13623f90a22db55625e9c874]
+## 1. Citation and Commencement[^c-857a490f13623f90a22db55625e9c874]
 
 This Order may be cited as the Safety of Sports Grounds (Designation) Order 2008 and shall come into force on 5<sup>th</sup> February 2008.
 
-## 2. Designation[^key-722fda402bec488b091475f484c56fff]
+## 2. Designation[^c-722fda402bec488b091475f484c56fff]
 
 The sports grounds specified in the Schedule which, in the opinion of the Secretary of State, have accommodation for more than 10,000 spectators are designated as sports grounds requiring a safety certificate under the Safety of Sports Grounds Act 1975.
 
-## 3. Amendment to the Safety of Sports Grounds (Rugby Football Grounds) (Designation) Order 1985[^key-b6b1b8486c72ceb5040f7da96818c864]
+## 3. Amendment to the Safety of Sports Grounds (Rugby Football Grounds) (Designation) Order 1985[^c-b6b1b8486c72ceb5040f7da96818c864]
 
 In the Schedule to the Safety of Sports Grounds (Rugby Football Grounds) (Designation) Order 1985[^f00002], the entry in respect of The Boulevard shall be omitted.
 
@@ -64,7 +64,7 @@ Secretary of State for Culture, Media and Sport
 
 14th January 2008
 
-## SCHEDULE[^key-0cbb59c74af2bdf708f574516f980e2a]
+## SCHEDULE[^c-0cbb59c74af2bdf708f574516f980e2a]
 
 Article 2
 
@@ -84,12 +84,12 @@ This Order designates the Leigh Stadium in Leigh, occupied by Leigh RMI Football
 
 [^f00001]: Footnote: [1975 c.52](https://www.legislation.gov.uk/ukpga/1975/52); section 1 was amended by section 19 of, and Schedule 2 to, the Fire Safety and Safety of Places of Sport Act [1987 c.27](https://www.legislation.gov.uk/ukpga/1987/27); see also the Safety of Sports Grounds (Accommodation of Spectators) Order 1996 ([S.I. 1996/499](https://www.legislation.gov.uk/uksi/1996/499)).
 
-[^key-857a490f13623f90a22db55625e9c874]: Commencement: Art. 1 in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
+[^c-857a490f13623f90a22db55625e9c874]: Commencement: Art. 1 in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
 
-[^key-722fda402bec488b091475f484c56fff]: Commencement: Art. 2 in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
+[^c-722fda402bec488b091475f484c56fff]: Commencement: Art. 2 in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
 
-[^key-b6b1b8486c72ceb5040f7da96818c864]: Commencement: Art. 3 in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
+[^c-b6b1b8486c72ceb5040f7da96818c864]: Commencement: Art. 3 in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
 
 [^f00002]: Footnote: [S.I. 1985/1064](https://www.legislation.gov.uk/uksi/1985/1064).
 
-[^key-0cbb59c74af2bdf708f574516f980e2a]: Commencement: Sch. in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)
+[^c-0cbb59c74af2bdf708f574516f980e2a]: Commencement: Sch. in force at 5.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/55/article/1)

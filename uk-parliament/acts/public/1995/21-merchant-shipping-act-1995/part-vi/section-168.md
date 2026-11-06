@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Limitation of liability under section 153A or 154.[^c14527331][^key-e37bcf715e16d181e2aa2ecb1faa97ad]
+## 168. Limitation of liability under section 153A or 154.[^c14527331][^c-e37bcf715e16d181e2aa2ecb1faa97ad]
 
 *Extent: E+W+S+N.I.*
 
-For the purposes of section 185 any liability incurred under section 153A or 154[^key-0904746b13ea2e762b144d7175ca1560] shall be deemed to be a liability to damages in respect of such damage to property as is mentioned in paragraph 1(a) of Article 2 of the Convention in Part I of Schedule 7.
+For the purposes of section 185 any liability incurred under section 153A or 154[^c-0904746b13ea2e762b144d7175ca1560] shall be deemed to be a liability to damages in respect of such damage to property as is mentioned in paragraph 1(a) of Article 2 of the Convention in Part I of Schedule 7.
 
 ## Annotations
 
@@ -54,6 +54,6 @@ For the purposes of section 185 any liability incurred under section 153A or 154
 
     S. 168 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-e37bcf715e16d181e2aa2ecb1faa97ad]: Textual amendment: Words in [s. 168 heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/supplementary) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/22/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-e37bcf715e16d181e2aa2ecb1faa97ad]: Textual amendment: Words in [s. 168 heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/supplementary) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/22/a) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-0904746b13ea2e762b144d7175ca1560]: Textual amendment: Words in [s. 168](https://www.legislation.gov.uk/ukpga/1995/21/section/168) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/22/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-0904746b13ea2e762b144d7175ca1560]: Textual amendment: Words in [s. 168](https://www.legislation.gov.uk/ukpga/1995/21/section/168) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/22/b) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

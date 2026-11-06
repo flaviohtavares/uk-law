@@ -41,7 +41,7 @@ Laid before Parliament
 
 Coming into force in accordance with rule 1
 
-[^key-b0c600d6dc36eddb36df197fba4425e6]The Lord Chancellor, with the advice and assistance of the Rule Committee appointed in pursuance of section 127 of the Land Registration Act 2002 [^c10309881], in exercise of the powers conferred on him by sections 1(2), 6(6), 13(a), (b), 14(a), (b), 16(2), 18(1)(b), (2), (4), 19(2), 20(3)(a), (b), (c), 21(2)(a), (b), (c), (d), 22, 25(1), 27(6), 34(2), 35(3), 36(3), (4), 37(2), 39, 43(2)(a), (b), (c), (d), 44(2), 45(2), 46(4), 47(a), (b), 48(2)(a), (b), 49(2), (3)(b), (4)(b), 50, 57, 60(3), (4), 61(2), 64(2), 66(2), 67(3), 68(1)(d), (2)(a), (b), 69(2), 70, 71(a), (b), 72(6)(a), (b), 73(2), (3), (4), 75(2), 76(2), 81(2), 82, 86(3), 87(4), 89, 95(a) and 98(7) of, and paragraphs 2(2) and 7(3) of Schedule 2, paragraphs 4(a), (b), (c), and 7(a), (b), (c), (d) of Schedule 4, paragraphs 2(1)(d), 3(2), 14, and 15 of Schedule 6, paragraph 9 of Schedule 8, paragraphs 1(1)(a), (b), 3(a), (b), (c), 5, 6(a), (b), (c), (d), (e), 7, and 8 of Schedule 10, and paragraphs 2(4) and 18(5) of Schedule 12 to, the Land Registration Act 2002, sections 37(7) and 39(1) and (1A) of the Charities Act 1993 [^c10309891], sections 34(10) and 57(11) of the Leasehold Reform, Housing and Urban Development Act 1993 [^c10309901], paragraph 4(4) of Schedule 4 to the Family Law Act 1996 [^c10309911], and of all other powers enabling him in that behalf, hereby makes the following rules:[^key-c646fc91a2177d01175bde31d1071bff]
+[^c-b0c600d6dc36eddb36df197fba4425e6]The Lord Chancellor, with the advice and assistance of the Rule Committee appointed in pursuance of section 127 of the Land Registration Act 2002 [^c10309881], in exercise of the powers conferred on him by sections 1(2), 6(6), 13(a), (b), 14(a), (b), 16(2), 18(1)(b), (2), (4), 19(2), 20(3)(a), (b), (c), 21(2)(a), (b), (c), (d), 22, 25(1), 27(6), 34(2), 35(3), 36(3), (4), 37(2), 39, 43(2)(a), (b), (c), (d), 44(2), 45(2), 46(4), 47(a), (b), 48(2)(a), (b), 49(2), (3)(b), (4)(b), 50, 57, 60(3), (4), 61(2), 64(2), 66(2), 67(3), 68(1)(d), (2)(a), (b), 69(2), 70, 71(a), (b), 72(6)(a), (b), 73(2), (3), (4), 75(2), 76(2), 81(2), 82, 86(3), 87(4), 89, 95(a) and 98(7) of, and paragraphs 2(2) and 7(3) of Schedule 2, paragraphs 4(a), (b), (c), and 7(a), (b), (c), (d) of Schedule 4, paragraphs 2(1)(d), 3(2), 14, and 15 of Schedule 6, paragraph 9 of Schedule 8, paragraphs 1(1)(a), (b), 3(a), (b), (c), 5, 6(a), (b), (c), (d), (e), 7, and 8 of Schedule 10, and paragraphs 2(4) and 18(5) of Schedule 12 to, the Land Registration Act 2002, sections 37(7) and 39(1) and (1A) of the Charities Act 1993 [^c10309891], sections 34(10) and 57(11) of the Leasehold Reform, Housing and Urban Development Act 1993 [^c10309901], paragraph 4(4) of Schedule 4 to the Family Law Act 1996 [^c10309911], and of all other powers enabling him in that behalf, hereby makes the following rules:[^c-c646fc91a2177d01175bde31d1071bff]
 
 ## Contents
 
@@ -66,7 +66,7 @@ Coming into force in accordance with rule 1
 - [Section 11 — Index of proprietors' names](part-2/section-11.md)
 - [Section 12 — The day list](part-2/section-12.md)
 
-### PART 3 — APPLICATIONS: GENERAL PROVISIONS[^key-55ae8eac4b0afddfbd55d46172514759]
+### PART 3 — APPLICATIONS: GENERAL PROVISIONS[^c-55ae8eac4b0afddfbd55d46172514759]
 
 - [Section A13 — Application for a network access agreement](part-3/section-a13.md)
 - [Section 13 — Form AP1](part-3/section-13.md)
@@ -100,7 +100,7 @@ Coming into force in accordance with rule 1
 - [Section 37 — First registration–notice of lease](part-4/section-37.md)
 - [Section 38 — Application of the Act to dealings prior to first registration](part-4/section-38.md)
 
-### PART 5 — CAUTIONS AGAINST FIRST REGISTRATION[^key-b741d05be1b36c7b09d23c2dc046dcb0]
+### PART 5 — CAUTIONS AGAINST FIRST REGISTRATION[^c-b741d05be1b36c7b09d23c2dc046dcb0]
 
 - [Section 39 — Definitions](part-5/section-39.md)
 - [Section 40 — Form and arrangement of the cautions register](part-5/section-40.md)
@@ -437,7 +437,7 @@ Coming into force in accordance with rule 1
 
 - [Section 196 — Statements in transfers or conveyances and leases under the Leasehold Reform, Housing and Urban Development Act 1993](part-14/section-196.md)
 
-#### Modification of Parts 2 and 3 of the Act in their application to incorporeal hereditaments[^key-5df7c7448e34e260b167554289ff7474]
+#### Modification of Parts 2 and 3 of the Act in their application to incorporeal hereditaments[^c-5df7c7448e34e260b167554289ff7474]
 
 - [Section 196A — Possessory titles to rentcharges](part-14/section-196a.md)
 - [Section 196B — Application of sections 11, 12 and 29 of the Act to franchises](part-14/section-196b.md)
@@ -483,7 +483,7 @@ Coming into force in accordance with rule 1
 - [Section 215 — Documents and other evidence in support of an application](part-15/section-215.md)
 - [Section 215A — Statements of truth](part-15/section-215a.md)
 
-#### Land Registry – when open for business[^key-f1bba2d52bf1373b98ca34f2717c9633]
+#### Land Registry – when open for business[^c-f1bba2d52bf1373b98ca34f2717c9633]
 
 - [Section 216 — Days on which the Land Registry is open for business](part-15/section-216.md)
 - [Section 216A — Interrupted day](part-15/section-216a.md)
@@ -551,7 +551,7 @@ A Regulatory Impact Assessment has been prepared and placed in the library of ea
 
 ## Annotations
 
-[^key-b0c600d6dc36eddb36df197fba4425e6]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2003/1417) applied (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [art. 5(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/5/1)
+[^c-b0c600d6dc36eddb36df197fba4425e6]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2003/1417) applied (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [art. 5(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/5/1)
 
 [^c10309881]: Marginal citation: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
 
@@ -561,14 +561,14 @@ A Regulatory Impact Assessment has been prepared and placed in the library of ea
 
 [^c10309911]: Marginal citation: [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27).
 
-[^key-c646fc91a2177d01175bde31d1071bff]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2003/1417) applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-c646fc91a2177d01175bde31d1071bff]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2003/1417) applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-55ae8eac4b0afddfbd55d46172514759]: Modification: Pt. 3 excluded (4.8.2008) by [The Land Registration (Electronic Conveyancing) Rules 2008 (S.I. 2008/1750)](https://www.legislation.gov.uk/uksi/2008/1750), [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1), [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/1750/schedule/2/part/2/paragraph/1)
+[^c-55ae8eac4b0afddfbd55d46172514759]: Modification: Pt. 3 excluded (4.8.2008) by [The Land Registration (Electronic Conveyancing) Rules 2008 (S.I. 2008/1750)](https://www.legislation.gov.uk/uksi/2008/1750), [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1), [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/1750/schedule/2/part/2/paragraph/1)
 
-[^key-b741d05be1b36c7b09d23c2dc046dcb0]: Modification: Pt. 5 applied (with modifications) (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [14](https://www.legislation.gov.uk/uksi/2003/1953/article/14)
+[^c-b741d05be1b36c7b09d23c2dc046dcb0]: Modification: Pt. 5 applied (with modifications) (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [14](https://www.legislation.gov.uk/uksi/2003/1953/article/14)
 
 [^M_F_5757c266-0537-475e-d819-1610769a7e8e]: Textual amendment: [Rule 140](https://www.legislation.gov.uk/uksi/2003/1417/rule/140) cross-heading substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 24(1)](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/24/1)
 
-[^key-5df7c7448e34e260b167554289ff7474]: Textual amendment: Rules 196A, 196B and cross-heading inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/63) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-5df7c7448e34e260b167554289ff7474]: Textual amendment: Rules 196A, 196B and cross-heading inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/63) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
 
-[^key-f1bba2d52bf1373b98ca34f2717c9633]: Textual amendment: Rule 216 and cross-heading substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/35)
+[^c-f1bba2d52bf1373b98ca34f2717c9633]: Textual amendment: Rule 216 and cross-heading substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/35)

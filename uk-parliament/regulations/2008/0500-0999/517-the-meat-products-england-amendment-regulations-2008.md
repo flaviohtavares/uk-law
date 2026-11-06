@@ -34,7 +34,7 @@ Food, England
 
 Composition And Labelling
 
-The Meat Products (England) (Amendment) Regulations 2008 (revoked)[^key-35b88a5bd41c67bad5146458d8820852]
+The Meat Products (England) (Amendment) Regulations 2008 (revoked)[^c-35b88a5bd41c67bad5146458d8820852]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 6th April 2008
 
-[^key-35b88a5bd41c67bad5146458d8820852]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35b88a5bd41c67bad5146458d8820852]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-35b88a5bd41c67bad5146458d8820852]
+## 1. Title and commencement[^c-35b88a5bd41c67bad5146458d8820852]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Meat Products (England) Regulations 2003[^key-35b88a5bd41c67bad5146458d8820852]
+## 2. Amendment of the Meat Products (England) Regulations 2003[^c-35b88a5bd41c67bad5146458d8820852]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35b88a5bd41c67bad5146458d8820852]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35b88a5bd41c67bad5146458d8820852]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-35b88a5bd41c67bad5146458d8820852]EXPLANATORY NOTE
+[^c-35b88a5bd41c67bad5146458d8820852]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
-**1.**[^key-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-35b88a5bd41c67bad5146458d8820852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35b88a5bd41c67bad5146458d8820852]: Textual amendment: Regulations revoked (13.12.2014) by [The Products Containing Meat etc. (England) Regulations 2014 (S.I. 2014/3001)](https://www.legislation.gov.uk/uksi/2014/3001), [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/8/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3001/regulation/3))
+[^c-35b88a5bd41c67bad5146458d8820852]: Textual amendment: Regulations revoked (13.12.2014) by [The Products Containing Meat etc. (England) Regulations 2014 (S.I. 2014/3001)](https://www.legislation.gov.uk/uksi/2014/3001), [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2014/3001/regulation/8/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3001/regulation/3))

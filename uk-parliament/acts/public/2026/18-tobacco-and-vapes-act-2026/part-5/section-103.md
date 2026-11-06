@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Testing[^key-f2db5a346f6c2d253aebbe9790feaa1d]
+## 103. Testing[^c-f2db5a346f6c2d253aebbe9790feaa1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2db5a346f6c2d253aebbe9790feaa1d]: Commencement: S. 103 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-f2db5a346f6c2d253aebbe9790feaa1d]: Commencement: S. 103 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

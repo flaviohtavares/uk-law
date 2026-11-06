@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234C. Work notices relating to minimum service levels[^key-5067a489d172cc913aa8152ac43e3da7]
+## 234C. Work notices relating to minimum service levels[^c-5067a489d172cc913aa8152ac43e3da7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5067a489d172cc913aa8152ac43e3da7]: Textual amendment: [Ss. 234B-234G](https://www.legislation.gov.uk/ukpga/1992/52/section/234B) omitted (18.12.2025) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/1), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-5067a489d172cc913aa8152ac43e3da7]: Textual amendment: [Ss. 234B-234G](https://www.legislation.gov.uk/ukpga/1992/52/section/234B) omitted (18.12.2025) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/1), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)

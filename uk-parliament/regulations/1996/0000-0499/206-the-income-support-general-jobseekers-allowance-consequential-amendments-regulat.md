@@ -320,7 +320,7 @@ In regulation 6 of the Income Support (General) Amendment No. 6 Regulations 1991
 
 ## 32. Continuity with jobseeker’s allowance
 
-In determining whether a person is entitled to or is to be treated as being in receipt of income support or whether any amount is applicable or payable—[^key-5a19fb07c9fbb6de3d44e9f53fd0c85a]
+In determining whether a person is entitled to or is to be treated as being in receipt of income support or whether any amount is applicable or payable—[^c-5a19fb07c9fbb6de3d44e9f53fd0c85a]
 
 - (a) entitlement to an income-based jobseeker’s allowance shall be treated as entitlement to income support for the purposes of any requirement that a person is or has been entitled to income support for any period of time; and
 - (b) a person who is treated as being in receipt of income-based jobseeker’s allowance shall be treated as being in receipt of income support for the purposes of any requirement that he is or has been treated as being in receipt of income support for any period of time.
@@ -655,7 +655,7 @@ These Regulations do not impose a charge on businesses.
 
 [^c1764236]: Marginal citation: [S.I. 1991/2334](https://www.legislation.gov.uk/uksi/1991/2334).
 
-[^key-5a19fb07c9fbb6de3d44e9f53fd0c85a]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1996/206/regulation/32) substituted (7.10.1996) by [The Income-related Benefits Schemes and Social Fund (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/1944)](https://www.legislation.gov.uk/uksi/1996/1944), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1996/1944/regulation/1/a), [12](https://www.legislation.gov.uk/uksi/1996/1944/regulation/12) (with [reg. 13](https://www.legislation.gov.uk/uksi/1996/1944/regulation/13))
+[^c-5a19fb07c9fbb6de3d44e9f53fd0c85a]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1996/206/regulation/32) substituted (7.10.1996) by [The Income-related Benefits Schemes and Social Fund (Miscellaneous Amendments) Regulations 1996 (S.I. 1996/1944)](https://www.legislation.gov.uk/uksi/1996/1944), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1996/1944/regulation/1/a), [12](https://www.legislation.gov.uk/uksi/1996/1944/regulation/12) (with [reg. 13](https://www.legislation.gov.uk/uksi/1996/1944/regulation/13))
 
 [^c1764237]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 

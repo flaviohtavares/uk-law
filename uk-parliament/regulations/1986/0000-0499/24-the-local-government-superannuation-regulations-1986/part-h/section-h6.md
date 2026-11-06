@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H6. Persons transferred to scheduled bodies under section 18(4)(a) of the National Health Service Reorganisation Act 1973[^key-46390df299f369fc83e3f64a970b871a]
+## H6. Persons transferred to scheduled bodies under section 18(4)(a) of the National Health Service Reorganisation Act 1973[^c-46390df299f369fc83e3f64a970b871a]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46390df299f369fc83e3f64a970b871a]: Commencement: [Reg. H6](https://www.legislation.gov.uk/uksi/1986/24/regulation/H6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-46390df299f369fc83e3f64a970b871a]: Commencement: [Reg. H6](https://www.legislation.gov.uk/uksi/1986/24/regulation/H6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and interpretation[^key-65d6322b9466596aa41d0787921625ab]
+## 1. Citation and interpretation[^c-65d6322b9466596aa41d0787921625ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65d6322b9466596aa41d0787921625ab]: Commencement: Art. 1 in force at made date
+[^c-65d6322b9466596aa41d0787921625ab]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).

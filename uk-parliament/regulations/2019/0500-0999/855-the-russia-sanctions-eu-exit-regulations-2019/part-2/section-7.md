@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Meaning of “owned or controlled directly or indirectly”[^key-87e57f7adc106d802a9a7b994c1b9398]
+## 7. Meaning of “owned or controlled directly or indirectly”[^c-87e57f7adc106d802a9a7b994c1b9398]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87e57f7adc106d802a9a7b994c1b9398]: Commencement: Reg. 7 in force at 11.4.2019, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2019/855/regulation/1/3/d)
+[^c-87e57f7adc106d802a9a7b994c1b9398]: Commencement: Reg. 7 in force at 11.4.2019, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2019/855/regulation/1/3/d)

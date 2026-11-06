@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Returning officers: discharge of functions[^key-f08aff616ca42c443d303a24b9f60517]
+## 20. Returning officers: discharge of functions[^c-f08aff616ca42c443d303a24b9f60517]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A returning officer at a Senedd election may, in writing, appoint one or more pe
 
 ## Annotations
 
-[^key-f08aff616ca42c443d303a24b9f60517]: Commencement: Art. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f08aff616ca42c443d303a24b9f60517]: Commencement: Art. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

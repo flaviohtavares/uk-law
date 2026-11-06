@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.210. Termination of appointment[^key-ef47cd722b6ad1c73eb584752092a0cd]
+## 4.210. Termination of appointment[^c-ef47cd722b6ad1c73eb584752092a0cd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef47cd722b6ad1c73eb584752092a0cd]: Commencement: [Rule 4.210](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.210) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ef47cd722b6ad1c73eb584752092a0cd]: Commencement: [Rule 4.210](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.210) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 404A. Distributions in a winding up[^key-33bb85ca0acc644876858d93426f3c82]
+## 404A. Distributions in a winding up[^c-33bb85ca0acc644876858d93426f3c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33bb85ca0acc644876858d93426f3c82]: Textual amendment: [S. 404A](https://www.legislation.gov.uk/ukpga/2005/5/section/404A) inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/35/2)
+[^c-33bb85ca0acc644876858d93426f3c82]: Textual amendment: [S. 404A](https://www.legislation.gov.uk/ukpga/2005/5/section/404A) inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/35/2)

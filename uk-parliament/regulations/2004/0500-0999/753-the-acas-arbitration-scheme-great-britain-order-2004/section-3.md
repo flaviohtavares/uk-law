@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Revocation[^key-88b4e0bdf92b583dd8b033bef30fbd91]
+## 3. Revocation[^c-88b4e0bdf92b583dd8b033bef30fbd91]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Subject to article 8, the ACAS Arbitration Scheme (England and Wales) Order 2001
 
 ## Annotations
 
-[^key-88b4e0bdf92b583dd8b033bef30fbd91]: Commencement: Art. 3 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-88b4e0bdf92b583dd8b033bef30fbd91]: Commencement: Art. 3 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2001/1185](https://www.legislation.gov.uk/uksi/2001/1185).

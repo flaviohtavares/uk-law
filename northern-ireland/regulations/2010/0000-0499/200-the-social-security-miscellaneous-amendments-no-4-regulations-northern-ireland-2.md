@@ -42,27 +42,27 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 86A(1), 167A(2), 167D and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 1(1), 5(1)(l) and (s), 5B(3) and (5) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], Articles 10(1), 11(3) and (6), 12(1), 17(2), 22(2) and 74(1) and (3) to (5) of the Social Security (Northern Ireland) Order 1998[^f00003], and now vested in it[^f00004], and sections 2(4)(a), 4(2)(a) and (6)(a), 8(1) and (4) to (6), 11(2)(d) and (g), 12(2)(i), 17(3)(b), 24(1), (2)(b) and (3), 25(2) and 28(2) of, and paragraph 3(2) of Schedule 1 and paragraphs 1(a), 6, 8, 9(a) and 10 of Schedule 2 to, the Welfare Reform Act (Northern Ireland) 2007[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-23ab51b00947c867a62c6b171ceb4141]
+## 1. Citation, commencement and interpretation[^c-23ab51b00947c867a62c6b171ceb4141]
 
 These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 and shall come into operation on 28th June 2010.
 
-## 2. Amendment of the Social Security Contributions and Benefits Act[^key-9148d7b0ebd51aecc7a1b27fdf20e105]
+## 2. Amendment of the Social Security Contributions and Benefits Act[^c-9148d7b0ebd51aecc7a1b27fdf20e105]
 
 In section 44A(2)(d)(i) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006] (deemed earnings factors) for “paragraph 1” substitute “in paragraphs 1 and 2”.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-187525aa37ff68bf737f1367d94bfd33]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^c-187525aa37ff68bf737f1367d94bfd33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-d555f8307d122028cf9577099da76791]
+## 4. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-d555f8307d122028cf9577099da76791]
 
 In regulation 5(2) of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00008] (offsetting prior payment against subsequent award) in Case 3 after “severe disablement allowance”, wherever it occurs, insert “, employment and support allowance for those persons with limited capability for work in relation to youth in accordance with paragraph 4 of Schedule 1 to the Welfare Reform Act”.
 
-## 5. Amendment of the Social Security (Incapacity Benefit – Increases for Dependants) Regulations[^key-c40e0be363421af434c0699df3d0f2b1]
+## 5. Amendment of the Social Security (Incapacity Benefit – Increases for Dependants) Regulations[^c-c40e0be363421af434c0699df3d0f2b1]
 
 In regulation 9(1)(a)(i) and (b) of the Social Security (Incapacity Benefit – Increases for Dependants) Regulations (Northern Ireland) 1994[^f00009] (increase of incapacity benefit for adult dependants and persons having the care of children) for “is aged at least 60” substitute “has reached the qualifying age referred to in section 1(6) of the State Pension Credit Act (Northern Ireland) 2002[^f00010]”.
 
-## 6. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-c56df9110ffb7d3795c9d903aa7cadba]
+## 6. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-c56df9110ffb7d3795c9d903aa7cadba]
 
 (1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00011] are amended in accordance with paragraphs (2) to (4).
 
@@ -100,7 +100,7 @@ In regulation 9(1)(a)(i) and (b) of the Social Security (Incapacity Benefit – 
 
   .
 
-## 7. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-f160659d430056401c21d1c419186d3d]
+## 7. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-f160659d430056401c21d1c419186d3d]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00016] are amended in accordance with paragraphs (2) to (5).
 
@@ -153,7 +153,7 @@ In regulation 9(1)(a)(i) and (b) of the Social Security (Incapacity Benefit – 
 
 (5) In regulation 17(5) (provision of information or evidence) for “(e)” substitute “(f)”.
 
-## 8. Amendment of the Social Security (Claims and Information) Regulations[^key-ea79d5aa82c08062bbfb5e8f0c088061]
+## 8. Amendment of the Social Security (Claims and Information) Regulations[^c-ea79d5aa82c08062bbfb5e8f0c088061]
 
 In regulation 1(3) of the Social Security (Claims and Information) Regulations (Northern Ireland) 2007[^f00020] (interpretation) in the definition of “specified benefit” after paragraph (e) insert—
 
@@ -161,7 +161,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations (
 
 .
 
-## 9. Amendment of the Employment and Support Allowance Regulations[^key-1d19ea3945344009d1e06f4cb3f926fa]
+## 9. Amendment of the Employment and Support Allowance Regulations[^c-1d19ea3945344009d1e06f4cb3f926fa]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00021] are amended in accordance with paragraphs (2) to (20).
 
@@ -180,7 +180,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations (
 
   .
 
-(3)[^key-d9956184d8795edffb58f292e042c714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d9956184d8795edffb58f292e042c714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 5 (the assessment phase – previous claimants)—
 
@@ -214,7 +214,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations (
 
 (6) In regulation 7[^f00022] (circumstances where the condition that the assessment phase has ended before entitlement to the support component or the work-related activity component arises does not apply)—
 
-- (a)[^key-a31594e39b5649a313d59478f7798657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a31594e39b5649a313d59478f7798657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (2) for “where the claimant is appealing a decision which embodies a determination that the claimant does not have limited capability for work” substitute “to any period of limited capability for work to which regulation 147A(2) applies until the determination of limited capability for work has been made following the determination of the appeal by the appeal tribunal”.
 
 (7) For regulation 13 (modification of the relevant benefit year) substitute—
@@ -233,7 +233,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations (
 
 .
 
-(8)[^key-1b16eb49f39706a1677d6442be16db20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1b16eb49f39706a1677d6442be16db20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) After regulation 32[^f00024] (certain claimants to be treated as not having limited capability for work) insert—
 
@@ -359,7 +359,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations (
 - (a)[^M_F_d8febb0c-eaa3-4bcd-dd99-0a0f276e98e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 14(1)(a) after “allowance” add “or a jobseeker’s allowance”.
 
-## 10. Revocations[^key-3992bc4796f8c9137b1c4bf3ed805a84]
+## 10. Revocations[^c-3992bc4796f8c9137b1c4bf3ed805a84]
 
 Regulation 13(3)(b) of the Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008[^f00029] and regulation 8(3) of the Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009[^f00030] are revoked.
 
@@ -432,25 +432,25 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00005]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-23ab51b00947c867a62c6b171ceb4141]: Commencement: Reg. 1 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-23ab51b00947c867a62c6b171ceb4141]: Commencement: Reg. 1 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
-[^key-9148d7b0ebd51aecc7a1b27fdf20e105]: Commencement: Reg. 2 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-9148d7b0ebd51aecc7a1b27fdf20e105]: Commencement: Reg. 2 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00006]: Footnote: Section 44A was inserted by section 29(3) of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4) and amended by Article 2(2)(a)(i) of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321), paragraph 30 of Schedule 1 to the National Insurance Contributions Act [2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), paragraph 31 of Schedule 1 to the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1), regulation 2(2) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and paragraph 4 of Schedule 7 to the [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-187525aa37ff68bf737f1367d94bfd33]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/200/regulation/3) revoked (30.3.2015) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/185)](https://www.legislation.gov.uk/nisr/2015/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/185/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/185/regulation/6)
+[^c-187525aa37ff68bf737f1367d94bfd33]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/200/regulation/3) revoked (30.3.2015) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/185)](https://www.legislation.gov.uk/nisr/2015/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/185/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/185/regulation/6)
 
-[^key-d555f8307d122028cf9577099da76791]: Commencement: Reg. 4 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-d555f8307d122028cf9577099da76791]: Commencement: Reg. 4 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); regulation 5(2) was amended by Article 11(4) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 5 of [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404) and regulation 7 of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299); see also regulation 15(2)(c) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-c40e0be363421af434c0699df3d0f2b1]: Commencement: Reg. 5 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-c40e0be363421af434c0699df3d0f2b1]: Commencement: Reg. 5 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485)
 
 [^f00010]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-c56df9110ffb7d3795c9d903aa7cadba]: Commencement: Reg. 6 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-c56df9110ffb7d3795c9d903aa7cadba]: Commencement: Reg. 6 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending Regulations are [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601), [S.R. 2006 No. 150](https://www.legislation.gov.uk/nisr/2006/150), [S.R. 2008 No. 375](https://www.legislation.gov.uk/nisr/2008/375) and [S.R. 2009 No. 318](https://www.legislation.gov.uk/nisr/2009/318)
 
@@ -462,7 +462,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00015]: Footnote: *See* Part 2 of the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27) and section 1284 of the Companies Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49)
 
-[^key-f160659d430056401c21d1c419186d3d]: Commencement: Reg. 7 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-f160659d430056401c21d1c419186d3d]: Commencement: Reg. 7 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00016]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365) and [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
@@ -472,21 +472,21 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00019]: Footnote: Paragraphs (37) and (38) were added by regulation 22(5)(h) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-ea79d5aa82c08062bbfb5e8f0c088061]: Commencement: Reg. 8 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-ea79d5aa82c08062bbfb5e8f0c088061]: Commencement: Reg. 8 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00020]: Footnote: [S.R. 2007 No. 467](https://www.legislation.gov.uk/nisr/2007/467)
 
-[^key-1d19ea3945344009d1e06f4cb3f926fa]: Commencement: Reg. 9 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-1d19ea3945344009d1e06f4cb3f926fa]: Commencement: Reg. 9 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00021]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); relevant amending Regulations are [S.R. 2008 Nos. 413](https://www.legislation.gov.uk/nisr/2008/413) and [478](https://www.legislation.gov.uk/nisr/2008/478) and [S.R. 2009 Nos. 318](https://www.legislation.gov.uk/nisr/2009/318) and [338](https://www.legislation.gov.uk/nisr/2009/338)
 
-[^key-d9956184d8795edffb58f292e042c714]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/3) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
+[^c-d9956184d8795edffb58f292e042c714]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/3) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
 
 [^f00022]: Footnote: Regulation 7 was amended by regulation 12 of [S.R. 2008 No. 478](https://www.legislation.gov.uk/nisr/2008/478)
 
-[^key-a31594e39b5649a313d59478f7798657]: Textual amendment: [Reg. 9(6)(a)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/6/a) revoked (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2012 (S.R. 2012/160)](https://www.legislation.gov.uk/nisr/2012/160), [regs. 1](https://www.legislation.gov.uk/nisr/2012/160/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/160/regulation/4)
+[^c-a31594e39b5649a313d59478f7798657]: Textual amendment: [Reg. 9(6)(a)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/6/a) revoked (1.5.2012) by [The Employment and Support Allowance (Amendment of Linking Rules) Regulations (Northern Ireland) 2012 (S.R. 2012/160)](https://www.legislation.gov.uk/nisr/2012/160), [regs. 1](https://www.legislation.gov.uk/nisr/2012/160/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/160/regulation/4)
 
-[^key-1b16eb49f39706a1677d6442be16db20]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/8) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
+[^c-1b16eb49f39706a1677d6442be16db20]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/8) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
 
 [^f00024]: Footnote: Regulation 32 was substituted by regulation 3(5) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413)
 
@@ -500,7 +500,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^M_F_d8febb0c-eaa3-4bcd-dd99-0a0f276e98e1]: Textual amendment: Reg. 9(20)(a) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
 
-[^key-3992bc4796f8c9137b1c4bf3ed805a84]: Commencement: Reg. 10 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
+[^c-3992bc4796f8c9137b1c4bf3ed805a84]: Commencement: Reg. 10 in operation at 28.6.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1)
 
 [^f00029]: Footnote: [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 

@@ -39,28 +39,28 @@ amending Decisions 2006/799/EC, 2007/64/EC, 2009/300/EC, 2009/894/EC, 2011/330/E
 
 (2014/336/EU) (revoked)
 
-[^key-cf980cad407e609dcfe7d4dc2f88263a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf980cad407e609dcfe7d4dc2f88263a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-cf980cad407e609dcfe7d4dc2f88263a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf980cad407e609dcfe7d4dc2f88263a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf980cad407e609dcfe7d4dc2f88263a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf980cad407e609dcfe7d4dc2f88263a]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf980cad407e609dcfe7d4dc2f88263a]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

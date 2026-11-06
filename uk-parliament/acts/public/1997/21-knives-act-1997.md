@@ -58,7 +58,7 @@ An Act to create new criminal offences in relation to the possession or marketin
 - (b) he offers, or exposes, it for sale or hire; or
 - (c) he has it in his possession for the purpose of sale or hire.
 
-(5)[^key-fa86e32e1efeb389fc5594bfc5fdeb3b] A person guilty of an offence under this section shall be liable—
+(5)[^c-fa86e32e1efeb389fc5594bfc5fdeb3b] A person guilty of an offence under this section shall be liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 4 years, or to a fine, or to both.
@@ -70,7 +70,7 @@ An Act to create new criminal offences in relation to the possession or marketin
 - (a) indicates, or suggests, that the knife is suitable for combat; or
 - (b) is otherwise likely to stimulate or encourage violent behaviour involving the use of the knife as a weapon.
 
-(2)[^key-6abb04cdef306a1e5129075d8b46128c] A person guilty of an offence under this section shall be liable—
+(2)[^c-6abb04cdef306a1e5129075d8b46128c] A person guilty of an offence under this section shall be liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 4 years, or to a fine, or to both.
@@ -124,7 +124,7 @@ An Act to create new criminal offences in relation to the possession or marketin
 
 the justice or sheriff may issue a warrant authorising a constable to enter those premises, search for the knives and seize and remove any that he finds.
 
-(2)[^key-9a10c86c1870269b9c7aa45e21356240] If, on an application made by a constable, a justice of the peace or sheriff is satisfied that there are reasonable grounds for suspecting—
+(2)[^c-9a10c86c1870269b9c7aa45e21356240] If, on an application made by a constable, a justice of the peace or sheriff is satisfied that there are reasonable grounds for suspecting—
 
 - (a) that a person (“**the suspect**”) has committed an offence under section 2 in relation to particular material, and
 - (b) that publications consisting of or containing that material and in the suspect’s possession or under his control are to be found on particular premises,
@@ -133,7 +133,7 @@ the justice or sheriff may issue a warrant authorising a constable to enter thos
 
 (3) A constable, in the exercise of his powers under a warrant issued under this section, may if necessary use reasonable force.
 
-(4)[^key-ab798dfb3ca0f1525a5a86a288db9964] Any knives or publications which have been seized and removed by a constable under a warrant issued under this section may be retained until the conclusion of proceedings against the suspect.
+(4)[^c-ab798dfb3ca0f1525a5a86a288db9964] Any knives or publications which have been seized and removed by a constable under a warrant issued under this section may be retained until the conclusion of proceedings against the suspect.
 
 (5) For the purposes of this section, proceedings in relation to a suspect are concluded if—
 
@@ -308,7 +308,7 @@ is exercisable by statutory instrument.
 
 (7) Except for section 8, this Act extends to Northern Ireland.
 
-(8)[^key-3f9147a6ef76d094208f973c32ab90a2] In its application to Northern Ireland, this Act has effect with the following modifications—
+(8)[^c-3f9147a6ef76d094208f973c32ab90a2] In its application to Northern Ireland, this Act has effect with the following modifications—
 
 - (a) any reference in section 3 or 7 to the Secretary of State must be read as a reference to the Department of Justice in Northern Ireland;
 - (b) any power of the Department of Justice to make regulations under section 3 or 7 is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (and not by statutory instrument); and
@@ -318,13 +318,13 @@ is exercisable by statutory instrument.
 
 [^c863237]: Extent: Act extends to Northern Ireland but for exception see [s. 11(7)](https://www.legislation.gov.uk/ukpga/1997/21/section/11/7).
 
-[^key-fa86e32e1efeb389fc5594bfc5fdeb3b]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1997/21/section/1/5) substituted (16.7.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [90(8)](https://www.legislation.gov.uk/nisi/2008/1216/article/90/8); [S.R. 2008/293](https://www.legislation.gov.uk/nisr/2008/293), [art. 2](https://www.legislation.gov.uk/nisr/2008/293/article/2), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2008/293/schedule/paragraph/14)
+[^c-fa86e32e1efeb389fc5594bfc5fdeb3b]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1997/21/section/1/5) substituted (16.7.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [90(8)](https://www.legislation.gov.uk/nisi/2008/1216/article/90/8); [S.R. 2008/293](https://www.legislation.gov.uk/nisr/2008/293), [art. 2](https://www.legislation.gov.uk/nisr/2008/293/article/2), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2008/293/schedule/paragraph/14)
 
-[^key-6abb04cdef306a1e5129075d8b46128c]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1997/21/section/2/2) substituted (16.7.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [90(9)](https://www.legislation.gov.uk/nisi/2008/1216/article/90/9); [S.R. 2008/293](https://www.legislation.gov.uk/nisr/2008/293), [art. 2](https://www.legislation.gov.uk/nisr/2008/293/article/2), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2008/293/schedule/paragraph/14)
+[^c-6abb04cdef306a1e5129075d8b46128c]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1997/21/section/2/2) substituted (16.7.2008) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216)](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [90(9)](https://www.legislation.gov.uk/nisi/2008/1216/article/90/9); [S.R. 2008/293](https://www.legislation.gov.uk/nisr/2008/293), [art. 2](https://www.legislation.gov.uk/nisr/2008/293/article/2), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2008/293/schedule/paragraph/14)
 
-[^key-9a10c86c1870269b9c7aa45e21356240]: Modification: S. 5(2) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 paras. 63](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/63) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+[^c-9a10c86c1870269b9c7aa45e21356240]: Modification: S. 5(2) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 paras. 63](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/63) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
 
-[^key-ab798dfb3ca0f1525a5a86a288db9964]: Modification: S. 5(4) applied (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 57(1)(l)](https://www.legislation.gov.uk/ukpga/2001/16/section/57/1/l), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/57/4)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+[^c-ab798dfb3ca0f1525a5a86a288db9964]: Modification: S. 5(4) applied (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 57(1)(l)](https://www.legislation.gov.uk/ukpga/2001/16/section/57/1/l), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/2001/16/section/57/4)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
 
 [^c863240]: Marginal citation: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
@@ -334,4 +334,4 @@ is exercisable by statutory instrument.
 
     S. 11(3) power partly exercised (8.1.1999): 1.3.1999 appointed for specified provision by [S.I. 1999/5](https://www.legislation.gov.uk/uksi/1999/5), [art. 2](https://www.legislation.gov.uk/uksi/1999/5/article/2)
 
-[^key-3f9147a6ef76d094208f973c32ab90a2]: Textual amendment: S. 11(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 35(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/35/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3f9147a6ef76d094208f973c32ab90a2]: Textual amendment: S. 11(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 35(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/35/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

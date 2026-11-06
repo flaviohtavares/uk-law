@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Amount payable on death of deferred member or pensioner member (death out of service)[^key-771949e8e5e42391248f37de7f90c802]
+## 103. Amount payable on death of deferred member or pensioner member (death out of service)[^c-771949e8e5e42391248f37de7f90c802]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-771949e8e5e42391248f37de7f90c802]: Commencement: Reg. 103 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-771949e8e5e42391248f37de7f90c802]: Commencement: Reg. 103 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00035]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) section 1(5) and the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 39(1) and (4).

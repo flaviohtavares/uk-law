@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Compulsory acquisition of land: minerals[^key-304f0cd57259c3fe8ea12891444dd2f6]
+## 14. Compulsory acquisition of land: minerals[^c-304f0cd57259c3fe8ea12891444dd2f6]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-304f0cd57259c3fe8ea12891444dd2f6]: Commencement: Art. 14 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-304f0cd57259c3fe8ea12891444dd2f6]: Commencement: Art. 14 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

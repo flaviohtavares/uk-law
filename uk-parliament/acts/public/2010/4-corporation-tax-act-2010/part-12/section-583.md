@@ -32,9 +32,9 @@ summary: ''
 (4) The remainder of the Chapter contains—
 
 - (a) specific modifications and other provision relevant to the application of this Part (see sections 591 to 594),
-- (b)[^key-ae11f1b5f2e585321c9816775e525a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ae11f1b5f2e585321c9816775e525a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) provision about the interpretation of this Chapter (see section 598).
 
 ## Annotations
 
-[^key-ae11f1b5f2e585321c9816775e525a70]: Textual amendment: S. 583(4)(b) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/38)
+[^c-ae11f1b5f2e585321c9816775e525a70]: Textual amendment: S. 583(4)(b) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/38)

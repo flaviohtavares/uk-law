@@ -41,7 +41,7 @@ This Order may be cited as the Defective Premises (Northern Ireland) Order 1975 
 
 (2) In this Order—
 
-**the Department[^key-ecb38cb877550aae9b7d57e54ced53b5]**” means the Department for Communities;
+**the Department[^c-ecb38cb877550aae9b7d57e54ced53b5]**” means the Department for Communities;
 
 “disposal”, in relation to premises, includes a letting, a grant in fee farm, and an assignment or surrender of a tenancy, of the premises and the creation by contract of any other right to occupy the premises;
 
@@ -107,7 +107,7 @@ no action shall be brought by any person having or acquiring an estate in the dw
 - (a) no action shall be brought by the acquiring authority for breach of the duty imposed by Article 3 in respect of the dwelling; and
 - (b) if any work for or in connection with the provision of the dwelling was done otherwise than in the course of a business by the person in occupation of the dwelling at the time of the compulsory acquisition, the acquiring authority and not that person shall be treated as the person who took on the work and accordingly as owing that duty.
 
-## 4A. Duties relating to work to dwellings[^key-25f670d7dcd0f20d0ea691e07f46e462]
+## 4A. Duties relating to work to dwellings[^c-25f670d7dcd0f20d0ea691e07f46e462]
 
 (1) This Article applies where a person, in the course of a business, takes on work in relation to any part of a building consisting of or containing one or more dwellings.
 
@@ -149,10 +149,10 @@ This Order shall bind the Crown to the full extent authorised or permitted by th
 
 [^m00001]: Marginal citation: 1954 c.33
 
-[^key-ecb38cb877550aae9b7d57e54ced53b5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1975/1039/article/2/2) substituted (21.9.2024) by [Defective Premises Act (Northern Ireland) 2024 (c. 3)](https://www.legislation.gov.uk/nia/2024/3), [ss. 3(2)](https://www.legislation.gov.uk/nia/2024/3/section/3/2), [4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
+[^c-ecb38cb877550aae9b7d57e54ced53b5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1975/1039/article/2/2) substituted (21.9.2024) by [Defective Premises Act (Northern Ireland) 2024 (c. 3)](https://www.legislation.gov.uk/nia/2024/3), [ss. 3(2)](https://www.legislation.gov.uk/nia/2024/3/section/3/2), [4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2)
 
 [^c545714]: Textual amendment: [1989 NI 11](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-25f670d7dcd0f20d0ea691e07f46e462]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/nisi/1975/1039/article/4A) inserted (21.9.2024) by [Defective Premises Act (Northern Ireland) 2024 (c. 3)](https://www.legislation.gov.uk/nia/2024/3), [ss. 1(1)](https://www.legislation.gov.uk/nia/2024/3/section/1/1), [4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2) (with [s. 1(2)](https://www.legislation.gov.uk/nia/2024/3/section/1/2))
+[^c-25f670d7dcd0f20d0ea691e07f46e462]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/nisi/1975/1039/article/4A) inserted (21.9.2024) by [Defective Premises Act (Northern Ireland) 2024 (c. 3)](https://www.legislation.gov.uk/nia/2024/3), [ss. 1(1)](https://www.legislation.gov.uk/nia/2024/3/section/1/1), [4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2) (with [s. 1(2)](https://www.legislation.gov.uk/nia/2024/3/section/1/2))
 
 [^m00002]: Marginal citation: 1947 c.44

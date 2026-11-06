@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Imposition of civil penalties[^key-92707755579c38ecfb3e2cd831aa526a]
+## 129. Imposition of civil penalties[^c-92707755579c38ecfb3e2cd831aa526a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,13 +50,13 @@ summary: ''
 - (a) by the date set out in the civil penalty notice by which it is imposed; and
 - (b) in a manner described in that notice.
 
-(7)[^key-ab1a0b5874085e7ef998e092c51f8c69] Sums received by the Administrator by virtue of this section—
+(7)[^c-ab1a0b5874085e7ef998e092c51f8c69] Sums received by the Administrator by virtue of this section—
 
 - (a) where the Administrator is the Secretary of State, must be paid into the Consolidated Fund, and
 - (b) otherwise, must be paid to the Secretary of State, who must pay them into the Consolidated Fund.
 
 ## Annotations
 
-[^key-92707755579c38ecfb3e2cd831aa526a]: Commencement: S. 129 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-92707755579c38ecfb3e2cd831aa526a]: Commencement: S. 129 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-ab1a0b5874085e7ef998e092c51f8c69]: Textual amendment: [S. 129(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/129/7) substituted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/5)
+[^c-ab1a0b5874085e7ef998e092c51f8c69]: Textual amendment: [S. 129(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/129/7) substituted (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/5)

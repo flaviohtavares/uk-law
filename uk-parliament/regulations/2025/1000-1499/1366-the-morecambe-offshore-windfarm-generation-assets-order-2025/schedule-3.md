@@ -24,9 +24,9 @@ Article 11
 
 ### PART 1 — For the protection of offshore cables
 
-**1.**[^key-99d7a4b51cb18fb21d1b01ebd5cbbb38] The provisions of this Part have effect unless otherwise agreed between the undertaker and the Company in question.
+**1.**[^c-99d7a4b51cb18fb21d1b01ebd5cbbb38] The provisions of this Part have effect unless otherwise agreed between the undertaker and the Company in question.
 
-**2.**[^key-36ae2134ef4ee1040c5924aff2d13282] (1) In this Part—
+**2.**[^c-36ae2134ef4ee1040c5924aff2d13282] (1) In this Part—
 
 - “**cables**” means the whole or any part of the Lanis-1 cable or the Hibernia A cable;
 - “**Company**” means—
@@ -39,51 +39,51 @@ Article 11
 - “**Hibernia A cable**” means the submarine telecommunications cable laid between the United Kingdom and Canada;
 - “**plans**” includes sections, drawings, calculations, methods of construction, particulars and specifications;
 - “**protected property**” means the cables—
-  - (a) any part of which is situated within the Order limits[^key-c4e965a9c6c0c439398bc55db695b5f0] for the authorised development; and
+  - (a) any part of which is situated within the Order limits[^c-c4e965a9c6c0c439398bc55db695b5f0] for the authorised development; and
   - (b) in respect of which a Company has an interest for the time being;
 - “**protective works**” has the meaning given in paragraph 10; and
 - “**works**” means Work No. 1 and Work No. 2.
 
-**3.**[^key-3e83795389c6b661cae120c45c1535f2] No wind turbine generators or offshore substation platforms shall be erected within 500 metres of the protected property unless otherwise agreed between the Company and the undertaker.
+**3.**[^c-3e83795389c6b661cae120c45c1535f2] No wind turbine generators or offshore substation platforms shall be erected within 500 metres of the protected property unless otherwise agreed between the Company and the undertaker.
 
-**4.**[^key-37b3325a5e57dc22e1d1fef26f1f5bb7] Despite anything in this Order or shown on the offshore works plan, the undertaker must not pursuant to the powers conferred by this Order appropriate and remove any protected property otherwise than by agreement with the Company.
+**4.**[^c-37b3325a5e57dc22e1d1fef26f1f5bb7] Despite anything in this Order or shown on the offshore works plan, the undertaker must not pursuant to the powers conferred by this Order appropriate and remove any protected property otherwise than by agreement with the Company.
 
-**5.**[^key-cb0da703c6af6df6b1c3352855ccbef8] Despite anything in this Order, except in the case of any part of the protected property that the Company certifies in writing is permanently disused, the undertaker must not exercise the powers conferred by this Order to relocate any protected property until suitable alternative facilities have been provided by the undertaker and are available for use to the reasonable satisfaction of the Company.
+**5.**[^c-cb0da703c6af6df6b1c3352855ccbef8] Despite anything in this Order, except in the case of any part of the protected property that the Company certifies in writing is permanently disused, the undertaker must not exercise the powers conferred by this Order to relocate any protected property until suitable alternative facilities have been provided by the undertaker and are available for use to the reasonable satisfaction of the Company.
 
-**6.**[^key-2a6b82d127b1e54d2bde38bd8b25080b] The undertaker must use reasonable endeavours—
+**6.**[^c-2a6b82d127b1e54d2bde38bd8b25080b] The undertaker must use reasonable endeavours—
 
 - (a) in exercising any of the powers conferred by this Order to avoid or (failing avoidance) to minimise any damage or disruption to the protected property; and
 - (b) without limiting sub-paragraph (a), to ensure that the works do not at any time fall into such a condition as to compromise the integrity or operation of the protected property.
 
-**7.**[^key-b7c3047198f60c36612b6686026fcb6d] Not less than four calendar months before commencing construction of the works, the undertaker must furnish to the Company a programme for the works proposed and a general indication of the nature and location of the works and, if within 28 days after receipt by a Company of that programme and general indication the Company gives notice to the undertaker that any part of the authorised development indicated in the programme may in any way affect protected property, paragraphs 8 and 9 apply with respect to that part of those works.
+**7.**[^c-b7c3047198f60c36612b6686026fcb6d] Not less than four calendar months before commencing construction of the works, the undertaker must furnish to the Company a programme for the works proposed and a general indication of the nature and location of the works and, if within 28 days after receipt by a Company of that programme and general indication the Company gives notice to the undertaker that any part of the authorised development indicated in the programme may in any way affect protected property, paragraphs 8 and 9 apply with respect to that part of those works.
 
-**8.**[^key-921efbd187e91caff17d731e0a256005] On giving any notice to the undertaker under paragraph 7, the Company must furnish existing drawings showing to the best of its knowledge the position and depth of the relevant part of the protected property.
+**8.**[^c-921efbd187e91caff17d731e0a256005] On giving any notice to the undertaker under paragraph 7, the Company must furnish existing drawings showing to the best of its knowledge the position and depth of the relevant part of the protected property.
 
-**9.**[^key-d8f05f5471103e7bb6bbe0f09d700409] Not less than two calendar months before commencing construction of any part of the authorised development that may significantly affect the protected property, the undertaker must furnish to the Company detailed plans and specifications of the relevant part of the authorised development and must have due regard to any representations made by the Company relating to such plans or to the programme for the works and make reasonable changes required to avoid risk of harm to the protected property by the construction of the relevant part of the authorised development.
+**9.**[^c-d8f05f5471103e7bb6bbe0f09d700409] Not less than two calendar months before commencing construction of any part of the authorised development that may significantly affect the protected property, the undertaker must furnish to the Company detailed plans and specifications of the relevant part of the authorised development and must have due regard to any representations made by the Company relating to such plans or to the programme for the works and make reasonable changes required to avoid risk of harm to the protected property by the construction of the relevant part of the authorised development.
 
-**10.**[^key-4708c50d4ad039e0d1d227cf83873779] At any time within one calendar month after the receipt by the Company of the plans referred to in paragraph 9 the Company may by notice to the undertaker specify any reasonable temporary or permanent works or measures (the “protective works”) which in its reasonable opinion should be carried out or taken by the undertaker before the commencement of or during the construction of the works in order to ensure the stability of the protected property (shown on the drawings furnished by the Company under paragraph 8) or to protect them from injury and such protective works must be constructed by the undertaker at its own expense and under the inspection (if any) of the Company.
+**10.**[^c-4708c50d4ad039e0d1d227cf83873779] At any time within one calendar month after the receipt by the Company of the plans referred to in paragraph 9 the Company may by notice to the undertaker specify any reasonable temporary or permanent works or measures (the “protective works”) which in its reasonable opinion should be carried out or taken by the undertaker before the commencement of or during the construction of the works in order to ensure the stability of the protected property (shown on the drawings furnished by the Company under paragraph 8) or to protect them from injury and such protective works must be constructed by the undertaker at its own expense and under the inspection (if any) of the Company.
 
-**11.**[^key-1ade2b0e57d203215be92154c73d8215] Except in the case of protective works that the Company has informed the undertaker in writing may be carried out during the construction of the works, the undertaker must not commence the construction of any works within 50 metres of, or which may in any way affect, the protected property until the protective works relating to the works have been completed to the reasonable satisfaction of the Company.
+**11.**[^c-1ade2b0e57d203215be92154c73d8215] Except in the case of protective works that the Company has informed the undertaker in writing may be carried out during the construction of the works, the undertaker must not commence the construction of any works within 50 metres of, or which may in any way affect, the protected property until the protective works relating to the works have been completed to the reasonable satisfaction of the Company.
 
-**12.**[^key-23858a2e9fe6dfa12c88a9a133a787b6] In the case of protective works of which the Company has informed the undertaker in writing as mentioned in paragraph 11, the undertaker must comply with all reasonable requirements of the Company arising from its inspection under paragraph 10 as promptly as practicable after the undertaker has been notified of such requirements.
+**12.**[^c-23858a2e9fe6dfa12c88a9a133a787b6] In the case of protective works of which the Company has informed the undertaker in writing as mentioned in paragraph 11, the undertaker must comply with all reasonable requirements of the Company arising from its inspection under paragraph 10 as promptly as practicable after the undertaker has been notified of such requirements.
 
-**13.**[^key-cb854f5ae0ab9c5d1359f1efb56ae78d] Except in an emergency (when it must give such notice as may be reasonably practicable), the undertaker must give the Company not less than 28 days’ notice of its intention to carry out any works for the repair or maintenance of the works in so far as such works may affect or interfere with the protected property.
+**13.**[^c-cb854f5ae0ab9c5d1359f1efb56ae78d] Except in an emergency (when it must give such notice as may be reasonably practicable), the undertaker must give the Company not less than 28 days’ notice of its intention to carry out any works for the repair or maintenance of the works in so far as such works may affect or interfere with the protected property.
 
-**14.**[^key-483f9323af72b83cc4098f25b6761b68] The undertaker must pay to the Company the reasonable expenses properly incurred by the Company in or in connection with the removal, relaying or replacing of any part of the protected property, including the provision, laying down or placing of any alternative facilities.
+**14.**[^c-483f9323af72b83cc4098f25b6761b68] The undertaker must pay to the Company the reasonable expenses properly incurred by the Company in or in connection with the removal, relaying or replacing of any part of the protected property, including the provision, laying down or placing of any alternative facilities.
 
-**15.**[^key-bba71d238ccce23290d004766a19855d] The undertaker must pay to the Company the reasonable expenses properly incurred by the Company in or in connection with the preparation of drawings or notices referred to in paragraph 8 or 9 and by the Company in the watching and inspecting of any protective works relating to protected property.
+**15.**[^c-bba71d238ccce23290d004766a19855d] The undertaker must pay to the Company the reasonable expenses properly incurred by the Company in or in connection with the preparation of drawings or notices referred to in paragraph 8 or 9 and by the Company in the watching and inspecting of any protective works relating to protected property.
 
-**16.**[^key-545dc4177dd1ee5328d1645d11f62bfe] This Part does not apply in relation to any protected property laid by or for the use of the Company after this Order comes into force.
+**16.**[^c-545dc4177dd1ee5328d1645d11f62bfe] This Part does not apply in relation to any protected property laid by or for the use of the Company after this Order comes into force.
 
-**17.**[^key-ce5f146a20bee22128a5b4331203db26] Nothing in this Part affects any enactment or any regulations made under any enactment or any agreement regulating the relations between the undertaker and the Company in respect of any protected property laid within the Order limits[^key-6ad6c64e11cd6fc76ba89a1199ee7080] for the authorised development in force on the date on which this Order comes into force.
+**17.**[^c-ce5f146a20bee22128a5b4331203db26] Nothing in this Part affects any enactment or any regulations made under any enactment or any agreement regulating the relations between the undertaker and the Company in respect of any protected property laid within the Order limits[^c-6ad6c64e11cd6fc76ba89a1199ee7080] for the authorised development in force on the date on which this Order comes into force.
 
 ### PART 2 — For the protection of Harbour Energy
 
-#### 1. Application[^key-4452fcc382634239edfe54d4f99c40f3]
+#### 1. Application[^c-4452fcc382634239edfe54d4f99c40f3]
 
 For the protection of the owners from time to time of the Calder Field which at the date stated in article 1 (citation and commencement) of this Order is Harbour Energy, unless otherwise agreed in writing between the undertaker and the owner the provisions of this Part of this Schedule shall have effect until completion of all activities required under any statutory decommissioning plan required under the Petroleum Act 1998 in relation to the Calder Field.
 
-#### 2. Interpretation[^key-b57bdb4b06fca47a7afad82be1f8eb85]
+#### 2. Interpretation[^c-b57bdb4b06fca47a7afad82be1f8eb85]
 
 In this Part of this Schedule—
 
@@ -102,7 +102,7 @@ In this Part of this Schedule—
 - “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable, shown edged pink and annotated as the pipeline and cable proximity area on the Harbour Protective Provisions Plan;
 - “**pipeline**” means—
   - (a) the 3″ Rivers onshore terminal to Calder chemical pipeline with pipeline reference number PL1965; and
-  - (b) the 24″ Calder to Rivers onshore terminal gas[^key-5b1ba4d190ce06be5fb3fa4dcdeb1f77] pipeline with pipeline reference number PL1966,
+  - (b) the 24″ Calder to Rivers onshore terminal gas[^c-5b1ba4d190ce06be5fb3fa4dcdeb1f77] pipeline with pipeline reference number PL1966,
 
   shown green and annotated as the Calder to Rivers Onshore Terminal (PL1966) and Rivers Onshore Terminal to Calder (PL1965) on the Harbour Protective Provisions Plan, together with any associated umbilicals, plant and equipment serving those pipelines;
 - “**relevant activities**” means all development activity relating to the carrying on of the undertaker’s and owner’s businesses within or adjacent to—
@@ -114,48 +114,48 @@ In this Part of this Schedule—
   as the case may be, including (but not limited to) the preparation of development proposals, the submission of applications for statutory consents associated with those proposals and consultation in respect thereof, or the acquisition of or application for new oil or gas blocks;
 - “**temporary surface infrastructure**” means any fixed temporary infrastructure to be used in the construction, operation and maintenance, and decommissioning of the authorised development including, but not limited to, jack up barges and buoys, but does not include temporary surface infrastructure in transit;
 - “**WTG and OSP aviation buffer zone**” means—
-  - (a) a circular area of three point seven six nautical miles (3.76 nm) of clear airspace measured from the nearest outer extremity edge of the Calder Platform to any tip from any wind turbine generator located within the Order limits[^key-dbe5ec9fa99d84d32cc247c36abb2aa8] and extending vertically from mean sea level; and
+  - (a) a circular area of three point seven six nautical miles (3.76 nm) of clear airspace measured from the nearest outer extremity edge of the Calder Platform to any tip from any wind turbine generator located within the Order limits[^c-dbe5ec9fa99d84d32cc247c36abb2aa8] and extending vertically from mean sea level; and
   - (b) a circular area three point seven six nautical miles (3.76 nm) of clear airspace measured from the nearest outer extremity edge of CPP1 to any tip from any wind turbine generator located within the Order limits;
 
   each as shown edged dashed purple annotated as the WTG and OSP aviation buffer zone on the Harbour Protective Provisions Plan;
 - “**WTG and OSP marine buffer zone**” means an area of one nautical mile (1 nm) measured from the outer extremity edge of the Calder Platform and extending vertically from mean sea level shown edged in light green and annotated and shown as the WTG and OSP marine buffer zone on the Harbour Protective Provisions Plan;
 - “**WTG marine corridor**” means a one nautical mile (1 nm) wide corridor of clear sea space between the Calder Platform and CPP1 edged in dark green and annotated and shown as the WTG marine corridor on the Harbour Protective Provisions Plan.
 
-#### 3. Restriction on authorised development[^key-30492b2cbbbe247a3dd90543ce4cae50]
+#### 3. Restriction on authorised development[^c-30492b2cbbbe247a3dd90543ce4cae50]
 
 (1) No wind turbine generator, offshore substation platform or temporary surface infrastructure shall be erected in the pipeline and cable proximity area, the WTG and OSP marine buffer zone or the WTG marine corridor unless otherwise agreed in writing between the owner and the undertaker.
 
 (2) In the case of temporary surface infrastructure the owner may not unreasonably withhold consent where the undertaker has been reasonably requested to place temporary infrastructure in the pipeline and cable proximity area, the WTG and OSP marine buffer zone or the WTG marine corridor by a statutory consultee.
 
-**4.**[^key-ef79237bd0dc1b6de92ab4f37c4f3d72] Prior to 1st January 2029, no wind turbine generator or offshore substation platform shall be erected in the WTG and OSP aviation buffer zone unless otherwise agreed in writing between the owner and the undertaker.
+**4.**[^c-ef79237bd0dc1b6de92ab4f37c4f3d72] Prior to 1st January 2029, no wind turbine generator or offshore substation platform shall be erected in the WTG and OSP aviation buffer zone unless otherwise agreed in writing between the owner and the undertaker.
 
-**5.**[^key-9d1d5e11a22f705d890b3ae0a439cc40] The restrictions in paragraphs 3 and 4 in the WTG and OSP aviation buffer zone, WTG and OSP marine buffer zone, and WTG marine corridor shall cease to have effect if the Secretary of State, having consulted with the owner, has confirmed in writing that the Calder Field Facilities have been decommissioned.
+**5.**[^c-9d1d5e11a22f705d890b3ae0a439cc40] The restrictions in paragraphs 3 and 4 in the WTG and OSP aviation buffer zone, WTG and OSP marine buffer zone, and WTG marine corridor shall cease to have effect if the Secretary of State, having consulted with the owner, has confirmed in writing that the Calder Field Facilities have been decommissioned.
 
-#### 6. Coexistence agreement[^key-e54ed17735334c2eec83c19dd6123dbd]
+#### 6. Coexistence agreement[^c-e54ed17735334c2eec83c19dd6123dbd]
 
 Prior to the commencement of construction of the authorised development, the undertaker and the owner shall use reasonable endeavours to enter into a coexistence agreement (which includes provision for proximity agreements on standard UK oil and gas industry terms and arrangements for coordinating marine access and simultaneous operations).
 
-#### 7. Provision of information[^key-09237b8e1bd09057a452756c65de3ea6]
+#### 7. Provision of information[^c-09237b8e1bd09057a452756c65de3ea6]
 
 Without prejudice to any other rights or obligations under this Part of this Schedule the owner and the undertaker shall from time to time keep each other informed of relevant activities such that the owner and the undertaker may seek to agree solutions to allow those activities to successfully co-exist as far as reasonably practicable until completion of activities required under any statutory decommissioning plan required under the Petroleum Act 1998 in relation to the Calder Field Facilities.
 
-#### 8. Cooperation[^key-521737bdecd1e4badc527126227284e5]
+#### 8. Cooperation[^c-521737bdecd1e4badc527126227284e5]
 
 The undertaker and the owner must each act in good faith and use reasonable endeavours to cooperate with, and provide assistance to, each other as may be required to give effect to the provisions of this Schedule.
 
-**9.**[^key-11208be1a0f44fa799d0af2aa7f4a900] Nothing in this Part of this Schedule shall affect any rights or obligations or assessment of compensation in accordance with the ministerial statement and any associated guidance.
+**9.**[^c-11208be1a0f44fa799d0af2aa7f4a900] Nothing in this Part of this Schedule shall affect any rights or obligations or assessment of compensation in accordance with the ministerial statement and any associated guidance.
 
-#### 10. Arbitration[^key-dd4fb362f6e2753a405421d4e07ff458]
+#### 10. Arbitration[^c-dd4fb362f6e2753a405421d4e07ff458]
 
 Any difference arising between the undertaker and the owner under this Part shall be referred to and settled by arbitration under article 15 (arbitration).
 
 ### PART 3 — For the protection of Spirit Energy Production UK Limited
 
-#### 1. Application[^key-57eccf3024e3afd3bf4bad942884da87]
+#### 1. Application[^c-57eccf3024e3afd3bf4bad942884da87]
 
 For the protection of the licensee from time to time of the United Kingdom petroleum production licenses with references P.251, P.1483 and P.153 (as the same may be assigned, amended or replaced from time to time) which at the date stated in article 1 (citation and commencement) of this Order is Spirit Energy Production UK Limited, the provisions of this Part of this Schedule shall have effect for so long as any of the said licences shall remain extant unless otherwise agreed in writing between the undertaker and the licensee.
 
-#### 2. Interpretation[^key-b2acca755e90d0a18081ff51e318f21c]
+#### 2. Interpretation[^c-b2acca755e90d0a18081ff51e318f21c]
 
 In this Part of this Schedule—
 
@@ -219,8 +219,8 @@ In this Part of this Schedule—
   - (a) the decommissioned 24” gas Morecambe DP3 to CPC pipeline with pipeline reference number PL195; and
   - (b) the decommissioned 2” Morecambe CPC to DP3 pipeline with pipeline reference number PL205;
 
-  shown purple and annotated as PL195 and PL205 on the Spirit Protective Provisions Plan, together with any associated umbilicals, plant and equipment serving those pipelines; [^key-3dbe5c89d7b6735f6d62f25a1e178dd3]
-- “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable measured from the centre line of the pipeline and cable, which is partially shown (insofar as the pipeline and cable are located within the Order limits[^key-f49a4ef1cc2ce1c6d6e8445071365919]) edged pink and annotated as the pipeline and cable proximity area on the Spirit Protective Provisions Plan;
+  shown purple and annotated as PL195 and PL205 on the Spirit Protective Provisions Plan, together with any associated umbilicals, plant and equipment serving those pipelines; [^c-3dbe5c89d7b6735f6d62f25a1e178dd3]
+- “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable measured from the centre line of the pipeline and cable, which is partially shown (insofar as the pipeline and cable are located within the Order limits[^c-f49a4ef1cc2ce1c6d6e8445071365919]) edged pink and annotated as the pipeline and cable proximity area on the Spirit Protective Provisions Plan;
 - “**Spirit Protective Provisions Plan**” means the plan dated 3 November 2025 with reference FLO-MOR-GIS-MAP038a-V3-Protective Provisions-Rev001 and certified as the Spirit Protective Provisions Plan by the Secretary of State under article 12 (certification of documents and plans, etc.) of this Order;
 - “**temporary surface infrastructure**” means any fixed temporary infrastructure to be used in the construction, operation and maintenance, and decommissioning of the authorised development including, but not limited to, jack-up barges and buoys, but does not include—
   - (a) temporary surface infrastructure in transit;
@@ -237,7 +237,7 @@ In this Part of this Schedule—
 - “**WTG and OSP marine buffer zone**” means an area of one point five nautical miles (1.5 nm) of unobstructed sea space measured from each of the AP-1 helideck and DP-1 helideck in all directions shown to its southern extent edged in orange and annotated as the WTG and OSP marine buffer zone on the Spirit Protective Provisions Plan; and
 - “**WTG marine corridor**” means a one nautical mile (1 nm) wide corridor of unobstructed sea space between the Calder Platform and the AP-1 helideck shown edged in dashed dark green and annotated as the WTG marine corridor on the Spirit Protective Provisions Plan.
 
-#### 3. Restriction on authorised development[^key-16ad95ad388f9079ce16a0519dd5fe49]
+#### 3. Restriction on authorised development[^c-16ad95ad388f9079ce16a0519dd5fe49]
 
 (1) No wind turbine generator, inter-array cables (other than crossings by inter-array cables of the pipeline and cable proximity area that are the subject of a crossing agreement between the undertaker and the licensee which the parties shall use reasonable endeavours to agree), offshore substation platform, transition piece or temporary surface infrastructure shall be erected in the pipeline and cable proximity area, the WTG and OSP marine buffer zone or the WTG marine corridor unless otherwise agreed in writing between the licensee and the undertaker until (in the case of the WTG and OSP marine buffer zone and the WTG marine corridor only) after the O&G Decommissioning Date (the pipeline and cable proximity area remains for so long as the provisions of this Part of this Schedule shall have effect).
 
@@ -255,7 +255,7 @@ In this Part of this Schedule—
 
 (8) No wind turbine generator, inter-array cables, offshore substation platform, transition piece or temporary surface infrastructure shall be erected in any well buffer zone unless otherwise agreed in writing between the licensee and the undertaker.
 
-#### 4. Simultaneous Operations[^key-cefd8c2e18c9c7d85710a860c3a19662]
+#### 4. Simultaneous Operations[^c-cefd8c2e18c9c7d85710a860c3a19662]
 
 Prior to commencement of construction of the authorised development, the undertaker and the licensee shall use reasonable endeavours to agree arrangements in a co-existence agreement incorporating relevant standard UK oil and gas industry proximity agreement terms for the coordination of access and simultaneous operations to include (but not be limited to) the provision of—
 
@@ -266,13 +266,13 @@ Prior to commencement of construction of the authorised development, the underta
 - (e) navigation routes; and
 - (f) a notifications procedure.
 
-#### 5. Cooperation[^key-fbe88f4d7cfaf2fa72ecefd77c8802e2]
+#### 5. Cooperation[^c-fbe88f4d7cfaf2fa72ecefd77c8802e2]
 
 The undertaker and the licensee must each act in good faith and use reasonable endeavours to cooperate with, and provide assistance to, each other as may be required to give effect to the provisions of this Part of this Schedule.
 
-**6.**[^key-75f4435c9e38f47b2cf922b14f03cb59] Without prejudice to any other rights or obligations under this Part of this Schedule the licensee and the undertaker shall (to the extent not already shared prior to the date of this Order coming into force) as soon as reasonably practicable following a request provide to the other programme information in relation to their development and decommissioning proposals and activities within or adjacent to the Order limits[^key-84f19e9085f6ec80c99e942e03d0e536] or any buffer zone (including in the case of the licensee the anticipated date of COP in respect of all fields/reservoirs supported by CPC and the date CPC is hydrocarbon free) and from time to time keep each other informed of any revisions to the previously provided programme such that the licensee and the undertaker may seek to agree solutions to allow those activities to successfully co-exist as far as reasonably practicable until the O&G Decommissioning Date.
+**6.**[^c-75f4435c9e38f47b2cf922b14f03cb59] Without prejudice to any other rights or obligations under this Part of this Schedule the licensee and the undertaker shall (to the extent not already shared prior to the date of this Order coming into force) as soon as reasonably practicable following a request provide to the other programme information in relation to their development and decommissioning proposals and activities within or adjacent to the Order limits[^c-84f19e9085f6ec80c99e942e03d0e536] or any buffer zone (including in the case of the licensee the anticipated date of COP in respect of all fields/reservoirs supported by CPC and the date CPC is hydrocarbon free) and from time to time keep each other informed of any revisions to the previously provided programme such that the licensee and the undertaker may seek to agree solutions to allow those activities to successfully co-exist as far as reasonably practicable until the O&G Decommissioning Date.
 
-#### 7. Costs[^key-111f57addee312bf81b5319eea33a755]
+#### 7. Costs[^c-111f57addee312bf81b5319eea33a755]
 
 (1) Subject to the terms of this paragraph, the undertaker must reimburse the licensee for any additional costs.
 
@@ -281,23 +281,23 @@ The undertaker and the licensee must each act in good faith and use reasonable e
 (3) Within 14 days of receipt of an itemised invoice or claim, the undertaker must—
 
 - (a) approve the amount of additional costs specified in the itemised invoice or claim; or
-- (b) dispute the amount of additional costs specified in the itemised invoice or claim (or that the licensee has not used reasonable endeavours to mitigate or minimise any such additional costs) [^key-6d97eb177c8024d7af468a2321a77ad5]and notify the licensee that the undertaker will (if not resolved amicably pursuant to paragraph 1(2) of Schedule 5 to this Order) refer the matter to arbitration pursuant to paragraph 8 of this Part of this Schedule.
+- (b) dispute the amount of additional costs specified in the itemised invoice or claim (or that the licensee has not used reasonable endeavours to mitigate or minimise any such additional costs) [^c-6d97eb177c8024d7af468a2321a77ad5]and notify the licensee that the undertaker will (if not resolved amicably pursuant to paragraph 1(2) of Schedule 5 to this Order) refer the matter to arbitration pursuant to paragraph 8 of this Part of this Schedule.
 
 (4) Save where otherwise agreed in writing between the undertaker and the licensee, the undertaker must thereafter pay to the licensee the additional costs within 28 days of approving the amount of additional costs pursuant to sub-paragraph (3)(a) above or final decision and award of additional costs pursuant to arbitration.
 
 (5) The licensee must use reasonable endeavours to mitigate in whole or in part and to minimise any additional costs.
 
-#### 8. Arbitration[^key-67348d34312c1a86f81ef5836f1a280d]
+#### 8. Arbitration[^c-67348d34312c1a86f81ef5836f1a280d]
 
 Any difference arising between the undertaker and the licensee under this Part shall be referred to and settled by arbitration under article 15 (arbitration) of this Order.
 
 ### PART 4 — For the protection of the Calder duty holder
 
-#### 1. Application[^key-4ac4fcef99e0b120655da9742da9e115]
+#### 1. Application[^c-4ac4fcef99e0b120655da9742da9e115]
 
 For the protection of Spirit Energy Production UK Limited as the duty holder of the Calder Platform, the provisions of this Part of this Schedule shall have effect for so long as the licence shall remain extant and Spirit Energy Production UK Limited remains duty holder of the Calder Platform unless otherwise agreed in writing between the undertaker and the duty holder.
 
-#### 2. Interpretation[^key-608cb7090a689c5ccef67f4f8806346d]
+#### 2. Interpretation[^c-608cb7090a689c5ccef67f4f8806346d]
 
 In this Part of this Schedule—
 
@@ -344,7 +344,7 @@ In this Part of this Schedule—
   - (b) the 24” Calder to Rivers onshore terminal gas pipeline with pipeline reference number PL1966
 
   shown purple and annotated as the Calder to Rivers Onshore Terminal (PL1966) and Rivers Onshore Terminal to Calder (PL1965) on the Spirit Protective Provisions Plan, together with any associated umbilicals, plant and equipment serving those pipelines;
-- “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable measured from the centre line of the pipeline and cable, which is partially shown (insofar as the pipeline and cable are located within the Order limits[^key-a897cba0f1d8ccd8ba1801ed14ecf7d2]) edged pink and annotated as the pipeline and cable proximity area on the Spirit Protective Provisions Plan;
+- “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable measured from the centre line of the pipeline and cable, which is partially shown (insofar as the pipeline and cable are located within the Order limits[^c-a897cba0f1d8ccd8ba1801ed14ecf7d2]) edged pink and annotated as the pipeline and cable proximity area on the Spirit Protective Provisions Plan;
 - “**Spirit Protective Provisions Plan**” means the plan dated 3 November 2025 with reference FLO-MOR-GIS-MAP038a-V3-Protective Provisions-Rev001 and certified as the Spirit Protective Provisions Plan by the Secretary of State under article 12 (certification of documents and plans, etc.) of this Order;
 - “**temporary surface infrastructure**” means any fixed temporary infrastructure to be used in the construction, operation and maintenance, and decommissioning of the authorised development including, but not limited to, jack-up barges and buoys, but does not include—
   - (a) temporary surface infrastructure in transit;
@@ -357,7 +357,7 @@ In this Part of this Schedule—
 - “**WTG and OSP marine (Calder) buffer zone**” means an area of one point five nautical miles (1.5 nm) of unobstructed sea space measured from the North East corner of the Calder Platform in all directions shown edged in dashed orange and annotated as the WTG and OSP marine (Calder) buffer zone on the Spirit Protective Provisions Plan; and
 - “**WTG marine corridor**” means a one nautical mile (1 nm) wide corridor of unobstructed sea space between the Calder Platform and the AP-1 helideck shown edged in dashed dark green and annotated as the WTG marine corridor on the Spirit Protective Provisions Plan.
 
-#### 3. Restriction on authorised development[^key-5680af98b70963e8f6ee5ff62e9ec6ab]
+#### 3. Restriction on authorised development[^c-5680af98b70963e8f6ee5ff62e9ec6ab]
 
 (1) No wind turbine generator, inter-array cables (other than crossings by inter-array cables in the pipeline and cable proximity area that are the subject of a crossing agreement between the undertaker and the licensee or duty holder (as relevant) which the parties shall use reasonable endeavours to agree), offshore substation platform, transition piece or temporary surface infrastructure shall be erected in the pipeline and cable proximity area, the WTG and OSP marine (Calder) buffer zone, the WTG and OSP aviation enduring (Calder) buffer zone, or the WTG marine corridor unless otherwise agreed in writing between the duty holder and the undertaker until (only in the case of the WTG and OSP marine (Calder) buffer zone and the WTG marine corridor) after the earlier of either the duty holdership termination date or 1 January 2031 (the WTG and OSP aviation enduring (Calder) buffer zone and pipeline and cable proximity area remain for so long as the provisions of this Part of this Schedule shall have effect).
 
@@ -369,7 +369,7 @@ In this Part of this Schedule—
 
 (5) No vessel or surface infrastructure or temporary surface infrastructure in transit by or attributable to the undertaker or its agents or contractors in exercising the power of this Order shall pass within five hundred metres (500m) of the North East corner of the Calder Platform unless otherwise agreed in writing between the duty holder and the undertaker.
 
-#### 4. Simultaneous operations[^key-9de097e331671c1d161c5aecb18587c0]
+#### 4. Simultaneous operations[^c-9de097e331671c1d161c5aecb18587c0]
 
 Prior to commencement of construction of the authorised development, the undertaker and the duty holder shall use reasonable endeavours to agree arrangements in a co-existence agreement incorporating relevant standard UK oil and gas industry proximity agreement terms for the coordination of access and simultaneous operations to include (but not be limited to) the provision of—
 
@@ -380,11 +380,11 @@ Prior to commencement of construction of the authorised development, the underta
 - (e) navigation routes; and
 - (f) a notifications procedure.
 
-#### 5. Cooperation[^key-da64c369485bc205fd9409fe47cf2343]
+#### 5. Cooperation[^c-da64c369485bc205fd9409fe47cf2343]
 
 The undertaker and the duty holder must each act in good faith and use reasonable endeavours to cooperate with, and provide assistance to, each other as may be required to give effect to the provisions of this Part of this Schedule.
 
-#### 6. Costs[^key-bc79408d07af98ea33ca312f895d25cb]
+#### 6. Costs[^c-bc79408d07af98ea33ca312f895d25cb]
 
 (1) Subject to the terms of this paragraph, the undertaker must reimburse the duty holder for any additional costs.
 
@@ -399,17 +399,17 @@ The undertaker and the duty holder must each act in good faith and use reasonabl
 
 (5) The duty holder must use reasonable endeavours to mitigate in whole or in part and to minimise any additional costs.
 
-#### 7. Arbitration[^key-fe00b3cf289c2e8a7e41aacc88d7d5a2]
+#### 7. Arbitration[^c-fe00b3cf289c2e8a7e41aacc88d7d5a2]
 
 Any difference arising between the undertaker and the duty holder under this Part shall be referred to and settled by arbitration under article 15 (arbitration) of this Order.
 
 ### PART 5 — For the protection of the MNZ licence holder
 
-#### 1. Application[^key-9ea5f058695226804f77e9c69aa55b66]
+#### 1. Application[^c-9ea5f058695226804f77e9c69aa55b66]
 
 For the protection of the licensee from time to time of Carbon Capture Appraisal and Storage licence CS010 which at the date stated in article 1 (citation and commencement) of this Order is Spirit Energy Production UK Limited, the provisions of this Part of this Schedule shall have effect for so long as the licence remains extant unless otherwise agreed in writing between the undertaker and the licensee.
 
-#### 2. Interpretation[^key-05eba879cc665cdaae1b8bcc0c224a2d]
+#### 2. Interpretation[^c-05eba879cc665cdaae1b8bcc0c224a2d]
 
 In this Part of this Schedule—
 
@@ -436,7 +436,7 @@ In this Part of this Schedule—
 - (b) the decommissioned 2” CPC to DP3 pipeline with pipeline reference number PL205;
 
   shown purple and annotated as PL195 & PL205 on the MNZ Protective Provisions Plan, together with any associated umbilicals, plant and equipment serving those pipelines;
-- “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable measured from the centre line of the pipeline and cable, which is partially shown (insofar as the pipeline and cable are located within the Order limits[^key-f15535f141ea93579d13a730ce5c9928]) edged pink and annotated as the pipeline and cable proximity area on the MNZ Protective Provisions Plan;
+- “**pipeline and cable proximity area**” means the area five hundred meters (500m) either side and directly above the pipeline and cable measured from the centre line of the pipeline and cable, which is partially shown (insofar as the pipeline and cable are located within the Order limits[^c-f15535f141ea93579d13a730ce5c9928]) edged pink and annotated as the pipeline and cable proximity area on the MNZ Protective Provisions Plan;
 - “**proposed CCS injection platform**” means the licensee’s proposed injection platform, to be located in the position marked “SM W 2” shown with a red circle edged black and annotated as SM W 2 on the MNZ Protective Provisions Plan;
 - “**temporary surface infrastructure**” means any fixed temporary infrastructure to be used in the construction, operation and maintenance, and decommissioning of the authorised development including, but not limited to, jack-up barges and buoys, but does not include—
   - (a) temporary surface infrastructure in transit;
@@ -451,7 +451,7 @@ In this Part of this Schedule—
 - “**WTG and OSP aviation CCS enduring buffer zone**” means an area of one point nine nautical miles (1.9 nm) of unobstructed airspace measured from the proposed CCS injection platform in all directions and extending vertically from mean sea level shown edged blue and annotated as the WTG and OSP aviation CCS enduring buffer zone on the MNZ Protective Provisions Plan;
 - “**WTG and OSP marine CCS buffer zone**” means an area of one point five nautical miles (1.5 nm) of unobstructed sea space measured from the proposed CCS injection platform in all directions and shown edged in light green and annotated as the WTG and OSP marine CCS buffer zone on the MNZ Protective Provisions Plan.
 
-#### 3. Restriction on authorised development[^key-3498a053505f7c0da98b951892b74d80]
+#### 3. Restriction on authorised development[^c-3498a053505f7c0da98b951892b74d80]
 
 (1) No wind turbine generator, inter-array cables (other than crossings by inter-array cables of the pipeline and cable proximity area that are the subject of a crossing agreement between the undertaker and licensee), offshore substation platform, transition piece or temporary surface infrastructure shall be erected in the pipeline and cable proximity area or the WTG and OSP marine CCS buffer zone unless otherwise agreed in writing between the licensee and the undertaker.
 
@@ -465,27 +465,27 @@ In this Part of this Schedule—
 
 (6) No new cable associated with the authorised development shall be laid within the well cable buffer zone.
 
-#### 4. Simultaneous operations[^key-813236afafca3cd8c4fb5687bf15a012]
+#### 4. Simultaneous operations[^c-813236afafca3cd8c4fb5687bf15a012]
 
 Prior to commencement of construction of the authorised development, the undertaker and the licensee shall use reasonable endeavours to agree arrangements in a co-existence agreement incorporating relevant standard UK oil and gas industry proximity agreement terms for the coordination of access and simultaneous operations to include (but not be limited to) the provision of; schedules of and scope of works; design specifications; proposed timing of the execution of works; methods of working; navigation routes; and a notifications procedure.
 
-#### 5. Cooperation[^key-fb3206b15fe593d9e90adede7fcbf7c9]
+#### 5. Cooperation[^c-fb3206b15fe593d9e90adede7fcbf7c9]
 
 The undertaker and the licensee must each act in good faith and use reasonable endeavours to cooperate with and provide assistance to each other as may be required to give effect to the provisions of this Part of this Schedule.
 
-**6.**[^key-000ecf8bcfedcce9e52a7227bbca4813] Without prejudice to any other rights or obligations under this Part of this Schedule the licensee and the undertaker shall as soon as reasonably practicable following a request provide to the other programme information in relation to their development proposals and activities within or adjacent to the Order limits[^key-3fdd7d27efc4f5352579213767c0bda4] or any buffer zone and from time to time keep each other informed of any revisions to the previously provided programme such that the licensee and the undertaker may seek to agree solutions to allow those activities to successfully co-exist as far as reasonably practicable.
+**6.**[^c-000ecf8bcfedcce9e52a7227bbca4813] Without prejudice to any other rights or obligations under this Part of this Schedule the licensee and the undertaker shall as soon as reasonably practicable following a request provide to the other programme information in relation to their development proposals and activities within or adjacent to the Order limits[^c-3fdd7d27efc4f5352579213767c0bda4] or any buffer zone and from time to time keep each other informed of any revisions to the previously provided programme such that the licensee and the undertaker may seek to agree solutions to allow those activities to successfully co-exist as far as reasonably practicable.
 
-#### 7. Arbitration[^key-5cfecbdf872afa69de4d3d6540b4c915]
+#### 7. Arbitration[^c-5cfecbdf872afa69de4d3d6540b4c915]
 
 Any difference arising between the undertaker and the licensee under this Part shall be referred to and settled by arbitration under article 15 (arbitration) of this Order.
 
 ### PART 6 — For the protection of Stena Line Limited
 
-#### 1. Application[^key-01aefe88a4ba95795b3f0b201cb9f9fe]
+#### 1. Application[^c-01aefe88a4ba95795b3f0b201cb9f9fe]
 
 For the protection of Stena Line the following provisions, unless otherwise agreed at any time between the undertaker and Stena Line, have effect.
 
-#### 2. Interpretation[^key-c814eb0056ef77a3b32817be46dc4de3]
+#### 2. Interpretation[^c-c814eb0056ef77a3b32817be46dc4de3]
 
 In this Part of this Schedule—
 
@@ -496,160 +496,160 @@ In this Part of this Schedule—
 - “**Stena Line**” means Stena Line Limited, a limited company registered in England & Wales under Company No. 01402237 and having its registered office at First Floor, 6 Arlington Street, London, England, SW1A 1RE; and
 - “**vessel traffic management plan**” means the vessel traffic management plan that is submitted in accordance with the outline vessel traffic management plan as required by condition 9(j) of Schedule 6 of this Order.
 
-#### 3. Consultation and notification[^key-66da5d91d003444183fa8c54a774b3a8]
+#### 3. Consultation and notification[^c-66da5d91d003444183fa8c54a774b3a8]
 
 The undertaker must notify Stena Line of the intended start date and the likely duration of the carrying out of any specified work at least 28 days prior to the commencement of any specified work and have regard to any response received from Stena Line.
 
-**4.**[^key-e6e46215fad677337669bf680770fc41] The undertaker must notify Stena Line at least 28 days prior to the commencement of any specified works that involve the installation of subsea cable circuits and subsea cable ducts, such written notice to include full details of the location of any subsea cable circuits and subsea cable ducts and any other apparatus, equipment or infrastructure that is to be inserted in the underwater environment.
+**4.**[^c-e6e46215fad677337669bf680770fc41] The undertaker must notify Stena Line at least 28 days prior to the commencement of any specified works that involve the installation of subsea cable circuits and subsea cable ducts, such written notice to include full details of the location of any subsea cable circuits and subsea cable ducts and any other apparatus, equipment or infrastructure that is to be inserted in the underwater environment.
 
-#### 5. Vessel Traffic Management Plan[^key-d9e89b1b58dd25b250ddb9636b4b18ab]
+#### 5. Vessel Traffic Management Plan[^c-d9e89b1b58dd25b250ddb9636b4b18ab]
 
 The undertaker must consult Stena Line before submitting the vessel traffic management plan to any licensing authority and the undertaker must have regard to any response received from Stena Line in respect of the vessel traffic management plan.
 
-#### 6. Co-operation and reasonableness[^key-8778af98a0defe840d5ff4319a59230c]
+#### 6. Co-operation and reasonableness[^c-8778af98a0defe840d5ff4319a59230c]
 
 The undertaker and Stena Line must act reasonably in respect of any given term of this Part of this Schedule and, in particular, (without prejudice to generality) where any consent or expression of satisfaction is required by this Part of this Schedule it must not be unreasonably withheld or delayed.
 
-#### 7. Miscellaneous[^key-93937f50ef3437637c9feaccc23b3ea2]
+#### 7. Miscellaneous[^c-93937f50ef3437637c9feaccc23b3ea2]
 
 Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and Stena Line in respect of the authorised development provided that the terms of the relevant enactment or agreement are not inconsistent with the provisions of this Order, including this Part of this Schedule. In the case of any inconsistency, the provisions of this Order, including this Part of this Schedule, prevail.
 
-**8.**[^key-a86d22fac8cf80aadeba44c693a7b47d] Any dispute arising between the undertaker and Stena Line under this Part of this Schedule is to be determined by arbitration in accordance with article 15 (arbitration).
+**8.**[^c-a86d22fac8cf80aadeba44c693a7b47d] Any dispute arising between the undertaker and Stena Line under this Part of this Schedule is to be determined by arbitration in accordance with article 15 (arbitration).
 
 ## Annotations
 
-[^key-99d7a4b51cb18fb21d1b01ebd5cbbb38]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-99d7a4b51cb18fb21d1b01ebd5cbbb38]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-36ae2134ef4ee1040c5924aff2d13282]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-36ae2134ef4ee1040c5924aff2d13282]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-c4e965a9c6c0c439398bc55db695b5f0]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/1/paragraph/2/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-c4e965a9c6c0c439398bc55db695b5f0]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/1/paragraph/2/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-3e83795389c6b661cae120c45c1535f2]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-3e83795389c6b661cae120c45c1535f2]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-37b3325a5e57dc22e1d1fef26f1f5bb7]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-37b3325a5e57dc22e1d1fef26f1f5bb7]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-cb0da703c6af6df6b1c3352855ccbef8]: Commencement: Sch. 3 Pt. 1 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-cb0da703c6af6df6b1c3352855ccbef8]: Commencement: Sch. 3 Pt. 1 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-2a6b82d127b1e54d2bde38bd8b25080b]: Commencement: Sch. 3 Pt. 1 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-2a6b82d127b1e54d2bde38bd8b25080b]: Commencement: Sch. 3 Pt. 1 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-b7c3047198f60c36612b6686026fcb6d]: Commencement: Sch. 3 Pt. 1 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-b7c3047198f60c36612b6686026fcb6d]: Commencement: Sch. 3 Pt. 1 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-921efbd187e91caff17d731e0a256005]: Commencement: Sch. 3 Pt. 1 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-921efbd187e91caff17d731e0a256005]: Commencement: Sch. 3 Pt. 1 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-d8f05f5471103e7bb6bbe0f09d700409]: Commencement: Sch. 3 Pt. 1 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-d8f05f5471103e7bb6bbe0f09d700409]: Commencement: Sch. 3 Pt. 1 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-4708c50d4ad039e0d1d227cf83873779]: Commencement: Sch. 3 Pt. 1 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-4708c50d4ad039e0d1d227cf83873779]: Commencement: Sch. 3 Pt. 1 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-1ade2b0e57d203215be92154c73d8215]: Commencement: Sch. 3 Pt. 1 para. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-1ade2b0e57d203215be92154c73d8215]: Commencement: Sch. 3 Pt. 1 para. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-23858a2e9fe6dfa12c88a9a133a787b6]: Commencement: Sch. 3 Pt. 1 para. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-23858a2e9fe6dfa12c88a9a133a787b6]: Commencement: Sch. 3 Pt. 1 para. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-cb854f5ae0ab9c5d1359f1efb56ae78d]: Commencement: Sch. 3 Pt. 1 para. 13 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-cb854f5ae0ab9c5d1359f1efb56ae78d]: Commencement: Sch. 3 Pt. 1 para. 13 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-483f9323af72b83cc4098f25b6761b68]: Commencement: Sch. 3 Pt. 1 para. 14 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-483f9323af72b83cc4098f25b6761b68]: Commencement: Sch. 3 Pt. 1 para. 14 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-bba71d238ccce23290d004766a19855d]: Commencement: Sch. 3 Pt. 1 para. 15 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-bba71d238ccce23290d004766a19855d]: Commencement: Sch. 3 Pt. 1 para. 15 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-545dc4177dd1ee5328d1645d11f62bfe]: Commencement: Sch. 3 Pt. 1 para. 16 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-545dc4177dd1ee5328d1645d11f62bfe]: Commencement: Sch. 3 Pt. 1 para. 16 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-ce5f146a20bee22128a5b4331203db26]: Commencement: Sch. 3 Pt. 1 para. 17 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-ce5f146a20bee22128a5b4331203db26]: Commencement: Sch. 3 Pt. 1 para. 17 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-6ad6c64e11cd6fc76ba89a1199ee7080]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 17](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/1/paragraph/17) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-6ad6c64e11cd6fc76ba89a1199ee7080]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 17](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/1/paragraph/17) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-4452fcc382634239edfe54d4f99c40f3]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-4452fcc382634239edfe54d4f99c40f3]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-b57bdb4b06fca47a7afad82be1f8eb85]: Commencement: Sch. 3 Pt. 2 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-b57bdb4b06fca47a7afad82be1f8eb85]: Commencement: Sch. 3 Pt. 2 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-5b1ba4d190ce06be5fb3fa4dcdeb1f77]: Textual amendment: Word in [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/2/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-5b1ba4d190ce06be5fb3fa4dcdeb1f77]: Textual amendment: Word in [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/2/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-dbe5ec9fa99d84d32cc247c36abb2aa8]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/2/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-dbe5ec9fa99d84d32cc247c36abb2aa8]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/2/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-30492b2cbbbe247a3dd90543ce4cae50]: Commencement: Sch. 3 Pt. 2 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-30492b2cbbbe247a3dd90543ce4cae50]: Commencement: Sch. 3 Pt. 2 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-ef79237bd0dc1b6de92ab4f37c4f3d72]: Commencement: Sch. 3 Pt. 2 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-ef79237bd0dc1b6de92ab4f37c4f3d72]: Commencement: Sch. 3 Pt. 2 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-9d1d5e11a22f705d890b3ae0a439cc40]: Commencement: Sch. 3 Pt. 2 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-9d1d5e11a22f705d890b3ae0a439cc40]: Commencement: Sch. 3 Pt. 2 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-e54ed17735334c2eec83c19dd6123dbd]: Commencement: Sch. 3 Pt. 2 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-e54ed17735334c2eec83c19dd6123dbd]: Commencement: Sch. 3 Pt. 2 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-09237b8e1bd09057a452756c65de3ea6]: Commencement: Sch. 3 Pt. 2 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-09237b8e1bd09057a452756c65de3ea6]: Commencement: Sch. 3 Pt. 2 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-521737bdecd1e4badc527126227284e5]: Commencement: Sch. 3 Pt. 2 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-521737bdecd1e4badc527126227284e5]: Commencement: Sch. 3 Pt. 2 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-11208be1a0f44fa799d0af2aa7f4a900]: Commencement: Sch. 3 Pt. 2 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-11208be1a0f44fa799d0af2aa7f4a900]: Commencement: Sch. 3 Pt. 2 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-dd4fb362f6e2753a405421d4e07ff458]: Commencement: Sch. 3 Pt. 2 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-dd4fb362f6e2753a405421d4e07ff458]: Commencement: Sch. 3 Pt. 2 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-57eccf3024e3afd3bf4bad942884da87]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-57eccf3024e3afd3bf4bad942884da87]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-b2acca755e90d0a18081ff51e318f21c]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-b2acca755e90d0a18081ff51e318f21c]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-3dbe5c89d7b6735f6d62f25a1e178dd3]: Textual amendment: [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/2): in the definition of “pipeline” after “serving those pipelines;” a paragraph break is inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-3dbe5c89d7b6735f6d62f25a1e178dd3]: Textual amendment: [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/2): in the definition of “pipeline” after “serving those pipelines;” a paragraph break is inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-f49a4ef1cc2ce1c6d6e8445071365919]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-f49a4ef1cc2ce1c6d6e8445071365919]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-16ad95ad388f9079ce16a0519dd5fe49]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-16ad95ad388f9079ce16a0519dd5fe49]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-cefd8c2e18c9c7d85710a860c3a19662]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-cefd8c2e18c9c7d85710a860c3a19662]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-fbe88f4d7cfaf2fa72ecefd77c8802e2]: Commencement: Sch. 3 Pt. 3 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-fbe88f4d7cfaf2fa72ecefd77c8802e2]: Commencement: Sch. 3 Pt. 3 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-75f4435c9e38f47b2cf922b14f03cb59]: Commencement: Sch. 3 Pt. 3 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-75f4435c9e38f47b2cf922b14f03cb59]: Commencement: Sch. 3 Pt. 3 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-84f19e9085f6ec80c99e942e03d0e536]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/6) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-84f19e9085f6ec80c99e942e03d0e536]: Textual amendment: Words in [Sch. 3 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/6) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-111f57addee312bf81b5319eea33a755]: Commencement: Sch. 3 Pt. 3 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-111f57addee312bf81b5319eea33a755]: Commencement: Sch. 3 Pt. 3 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-6d97eb177c8024d7af468a2321a77ad5]: Textual amendment: [Sch. 3 Pt. 3 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/7/3/b): the paragraph break after “any such additional costs)” is omitted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-6d97eb177c8024d7af468a2321a77ad5]: Textual amendment: [Sch. 3 Pt. 3 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/3/paragraph/7/3/b): the paragraph break after “any such additional costs)” is omitted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-67348d34312c1a86f81ef5836f1a280d]: Commencement: Sch. 3 Pt. 3 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-67348d34312c1a86f81ef5836f1a280d]: Commencement: Sch. 3 Pt. 3 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-4ac4fcef99e0b120655da9742da9e115]: Commencement: Sch. 3 Pt. 4 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-4ac4fcef99e0b120655da9742da9e115]: Commencement: Sch. 3 Pt. 4 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-608cb7090a689c5ccef67f4f8806346d]: Commencement: Sch. 3 Pt. 4 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-608cb7090a689c5ccef67f4f8806346d]: Commencement: Sch. 3 Pt. 4 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-a897cba0f1d8ccd8ba1801ed14ecf7d2]: Textual amendment: Words in [Sch. 3 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/4/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-a897cba0f1d8ccd8ba1801ed14ecf7d2]: Textual amendment: Words in [Sch. 3 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/4/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-5680af98b70963e8f6ee5ff62e9ec6ab]: Commencement: Sch. 3 Pt. 4 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-5680af98b70963e8f6ee5ff62e9ec6ab]: Commencement: Sch. 3 Pt. 4 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-9de097e331671c1d161c5aecb18587c0]: Commencement: Sch. 3 Pt. 4 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-9de097e331671c1d161c5aecb18587c0]: Commencement: Sch. 3 Pt. 4 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-da64c369485bc205fd9409fe47cf2343]: Commencement: Sch. 3 Pt. 4 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-da64c369485bc205fd9409fe47cf2343]: Commencement: Sch. 3 Pt. 4 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-bc79408d07af98ea33ca312f895d25cb]: Commencement: Sch. 3 Pt. 4 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-bc79408d07af98ea33ca312f895d25cb]: Commencement: Sch. 3 Pt. 4 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-fe00b3cf289c2e8a7e41aacc88d7d5a2]: Commencement: Sch. 3 Pt. 4 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-fe00b3cf289c2e8a7e41aacc88d7d5a2]: Commencement: Sch. 3 Pt. 4 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-9ea5f058695226804f77e9c69aa55b66]: Commencement: Sch. 3 Pt. 5 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-9ea5f058695226804f77e9c69aa55b66]: Commencement: Sch. 3 Pt. 5 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-05eba879cc665cdaae1b8bcc0c224a2d]: Commencement: Sch. 3 Pt. 5 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-05eba879cc665cdaae1b8bcc0c224a2d]: Commencement: Sch. 3 Pt. 5 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-f15535f141ea93579d13a730ce5c9928]: Textual amendment: Words in [Sch. 3 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/5/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-f15535f141ea93579d13a730ce5c9928]: Textual amendment: Words in [Sch. 3 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/5/paragraph/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-3498a053505f7c0da98b951892b74d80]: Commencement: Sch. 3 Pt. 5 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-3498a053505f7c0da98b951892b74d80]: Commencement: Sch. 3 Pt. 5 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-813236afafca3cd8c4fb5687bf15a012]: Commencement: Sch. 3 Pt. 5 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-813236afafca3cd8c4fb5687bf15a012]: Commencement: Sch. 3 Pt. 5 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-fb3206b15fe593d9e90adede7fcbf7c9]: Commencement: Sch. 3 Pt. 5 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-fb3206b15fe593d9e90adede7fcbf7c9]: Commencement: Sch. 3 Pt. 5 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-000ecf8bcfedcce9e52a7227bbca4813]: Commencement: Sch. 3 Pt. 5 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-000ecf8bcfedcce9e52a7227bbca4813]: Commencement: Sch. 3 Pt. 5 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-3fdd7d27efc4f5352579213767c0bda4]: Textual amendment: Words in [Sch. 3 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/5/paragraph/6) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-3fdd7d27efc4f5352579213767c0bda4]: Textual amendment: Words in [Sch. 3 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/2025/1366/schedule/3/part/5/paragraph/6) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-5cfecbdf872afa69de4d3d6540b4c915]: Commencement: Sch. 3 Pt. 5 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-5cfecbdf872afa69de4d3d6540b4c915]: Commencement: Sch. 3 Pt. 5 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-01aefe88a4ba95795b3f0b201cb9f9fe]: Commencement: Sch. 3 Pt. 6 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-01aefe88a4ba95795b3f0b201cb9f9fe]: Commencement: Sch. 3 Pt. 6 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-c814eb0056ef77a3b32817be46dc4de3]: Commencement: Sch. 3 Pt. 6 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-c814eb0056ef77a3b32817be46dc4de3]: Commencement: Sch. 3 Pt. 6 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-66da5d91d003444183fa8c54a774b3a8]: Commencement: Sch. 3 Pt. 6 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-66da5d91d003444183fa8c54a774b3a8]: Commencement: Sch. 3 Pt. 6 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-e6e46215fad677337669bf680770fc41]: Commencement: Sch. 3 Pt. 6 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-e6e46215fad677337669bf680770fc41]: Commencement: Sch. 3 Pt. 6 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-d9e89b1b58dd25b250ddb9636b4b18ab]: Commencement: Sch. 3 Pt. 6 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-d9e89b1b58dd25b250ddb9636b4b18ab]: Commencement: Sch. 3 Pt. 6 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-8778af98a0defe840d5ff4319a59230c]: Commencement: Sch. 3 Pt. 6 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-8778af98a0defe840d5ff4319a59230c]: Commencement: Sch. 3 Pt. 6 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-93937f50ef3437637c9feaccc23b3ea2]: Commencement: Sch. 3 Pt. 6 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-93937f50ef3437637c9feaccc23b3ea2]: Commencement: Sch. 3 Pt. 6 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-a86d22fac8cf80aadeba44c693a7b47d]: Commencement: Sch. 3 Pt. 6 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-a86d22fac8cf80aadeba44c693a7b47d]: Commencement: Sch. 3 Pt. 6 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

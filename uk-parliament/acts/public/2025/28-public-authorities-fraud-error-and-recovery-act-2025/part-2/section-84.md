@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Disposal of property[^key-d961635644622f5dca75ffb67274e120]
+## 84. Disposal of property[^c-d961635644622f5dca75ffb67274e120]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ In the Social Security Administration Act 1992, after section 109F (inserted by 
 
 ## Annotations
 
-[^key-d961635644622f5dca75ffb67274e120]: Commencement: S. 84 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-d961635644622f5dca75ffb67274e120]: Commencement: S. 84 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

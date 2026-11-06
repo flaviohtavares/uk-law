@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Notice of conditions not being met and reasons[^key-ecd2a3d850821fec747fe569d7adfd62]
+## 7. Notice of conditions not being met and reasons[^c-ecd2a3d850821fec747fe569d7adfd62]
 
 *Extent: E+W*
 
-(1) Where the Local Health Board considers that the conditions specified in regulations[^key-46ab8ece80f41fdde4b75fa72c4968eb] 5 and 6 for entering into a contract are not met, it must give notice in writing to the person or persons intending to enter into the contract of—
+(1) Where the Local Health Board considers that the conditions specified in regulations[^c-46ab8ece80f41fdde4b75fa72c4968eb] 5 and 6 for entering into a contract are not met, it must give notice in writing to the person or persons intending to enter into the contract of—
 
 - (a) its view and the reasons for that view, and
 - (b) the right of appeal under regulation 8.
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ecd2a3d850821fec747fe569d7adfd62]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/953/regulation/7) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-ecd2a3d850821fec747fe569d7adfd62]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/953/regulation/7) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-46ab8ece80f41fdde4b75fa72c4968eb]: Textual amendment: Word in reg. 7(1) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [7](https://www.legislation.gov.uk/wsi/2023/1421/regulation/7)
+[^c-46ab8ece80f41fdde4b75fa72c4968eb]: Textual amendment: Word in reg. 7(1) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [7](https://www.legislation.gov.uk/wsi/2023/1421/regulation/7)

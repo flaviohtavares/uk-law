@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Application for grant or renewal of air weapon certificate[^key-1ec9991cf427fba5392882ca603b70f8][^key-362bd1057933c2ce67e2f1ba8c12d05e]
+## 3. Application for grant or renewal of air weapon certificate[^c-1ec9991cf427fba5392882ca603b70f8][^c-362bd1057933c2ce67e2f1ba8c12d05e]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ec9991cf427fba5392882ca603b70f8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/10/section/3) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-1ec9991cf427fba5392882ca603b70f8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/10/section/3) in force at 1.7.2016 for specified purposes by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
 
-[^key-362bd1057933c2ce67e2f1ba8c12d05e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/10/section/3) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-362bd1057933c2ce67e2f1ba8c12d05e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/10/section/3) in force at 31.12.2016 in so far as not already in force by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

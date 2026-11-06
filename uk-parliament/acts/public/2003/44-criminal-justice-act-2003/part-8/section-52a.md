@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Further provision about the effect of live-link directions[^key-da8c188d5fbd84a68979de6eedba2afd]
+## 52A. Further provision about the effect of live-link directions[^c-da8c188d5fbd84a68979de6eedba2afd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da8c188d5fbd84a68979de6eedba2afd]: Textual amendment: [Ss. 52, 52A](https://www.legislation.gov.uk/ukpga/2003/44/section/52) substituted for [s. 52](https://www.legislation.gov.uk/ukpga/2003/44/section/52) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y), [Sch. 20 para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/1/2)
+[^c-da8c188d5fbd84a68979de6eedba2afd]: Textual amendment: [Ss. 52, 52A](https://www.legislation.gov.uk/ukpga/2003/44/section/52) substituted for [s. 52](https://www.legislation.gov.uk/ukpga/2003/44/section/52) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y), [Sch. 20 para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/1/2)

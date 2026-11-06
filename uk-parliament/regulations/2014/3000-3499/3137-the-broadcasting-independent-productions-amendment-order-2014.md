@@ -32,7 +32,7 @@ summary: ''
 
 Broadcasting
 
-The Broadcasting (Independent Productions) (Amendment) Order 2014 (revoked)[^key-3d68661d93421e364b5f95168e884e6c]
+The Broadcasting (Independent Productions) (Amendment) Order 2014 (revoked)[^c-3d68661d93421e364b5f95168e884e6c]
 
 Made
 
@@ -40,34 +40,34 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-3d68661d93421e364b5f95168e884e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d68661d93421e364b5f95168e884e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3d68661d93421e364b5f95168e884e6c]
+## 1. Citation and commencement[^c-3d68661d93421e364b5f95168e884e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Broadcasting (Independent Productions) Order 1991[^key-3d68661d93421e364b5f95168e884e6c]
+## 2. Amendment of the Broadcasting (Independent Productions) Order 1991[^c-3d68661d93421e364b5f95168e884e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3d68661d93421e364b5f95168e884e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d68661d93421e364b5f95168e884e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d68661d93421e364b5f95168e884e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d68661d93421e364b5f95168e884e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d68661d93421e364b5f95168e884e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d68661d93421e364b5f95168e884e6c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3137) revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(g)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/g)
+[^c-3d68661d93421e364b5f95168e884e6c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3137) revoked (1.1.2026) by [The Broadcasting (Independent Productions) Regulations 2025 (S.I. 2025/1235)](https://www.legislation.gov.uk/uksi/2025/1235), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/1/1), [8(g)](https://www.legislation.gov.uk/uksi/2025/1235/regulation/8/g)

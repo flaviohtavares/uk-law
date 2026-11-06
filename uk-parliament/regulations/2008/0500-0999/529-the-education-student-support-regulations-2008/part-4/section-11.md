@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Current system students[^key-a2e6c238d6fdd38a9675d30c2d98d791]
+## 11. Current system students[^c-a2e6c238d6fdd38a9675d30c2d98d791]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ A current system student qualifies for a fee loan in respect of the fees payable
 
 ## Annotations
 
-[^key-a2e6c238d6fdd38a9675d30c2d98d791]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a2e6c238d6fdd38a9675d30c2d98d791]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

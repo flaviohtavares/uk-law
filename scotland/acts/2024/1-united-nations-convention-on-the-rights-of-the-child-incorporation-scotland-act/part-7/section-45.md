@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Regulations[^key-3175f0dea2fc8a61559c0d3cb324ad7a][^key-3175f0dea2fc8a61559c0d3cb324ad7a]
+## 45. Regulations[^c-3175f0dea2fc8a61559c0d3cb324ad7a][^c-3175f0dea2fc8a61559c0d3cb324ad7a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3175f0dea2fc8a61559c0d3cb324ad7a]: Commencement: S. 45 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)
+[^c-3175f0dea2fc8a61559c0d3cb324ad7a]: Commencement: S. 45 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)

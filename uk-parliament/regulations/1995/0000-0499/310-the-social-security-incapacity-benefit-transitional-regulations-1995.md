@@ -42,7 +42,7 @@ Coming into force
 
 Whereas a draft of these Regulations was laid before Parliament in accordance with the provisions of sections 4(12) and 7(5) of the Social Security (Incapacity for Work) Act 1994[^c1788898] and approved by resolution of each House of Parliament:
 
-Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 4, 7 and 12(1) of the Social Security (Incapacity for Work) Act 1994[^c1788899] and of all other powers enabling him in that behalf, by this instrument, which is made before the end of the period of 6 months beginning with the coming into force of those enactments[^c1788900], hereby makes the following Regulations:[^key-83e7553737178ada77de3c64d13fc7c0]
+Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 4, 7 and 12(1) of the Social Security (Incapacity for Work) Act 1994[^c1788899] and of all other powers enabling him in that behalf, by this instrument, which is made before the end of the period of 6 months beginning with the coming into force of those enactments[^c1788900], hereby makes the following Regulations:[^c-83e7553737178ada77de3c64d13fc7c0]
 
 ## PART I — INTRODUCTION
 
@@ -57,7 +57,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 - “the Administration Act" means the Social Security Administration Act 1992 [^c1788903];
 - “the appointed day" means 13th April 1995;
 - “the Increases for Dependants Regulations" means the Social Security (Incapacity Benefit—Increases for Dependants) Regulations 1994 [^c1788904];
-- “pensionable age” has the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995[^key-f04859d092f3ba548e7a7f41047477ef];
+- “pensionable age” has the meaning given by the rules in paragraph 1 of Schedule 4 to the Pensions Act 1995[^c-f04859d092f3ba548e7a7f41047477ef];
 - “the Unemployment, Sickness and Invalidity Benefit Regulations" means the Social Security (Unemployment, Sickness and Invalidity Benefit) Regulations 1983 [^c1788905].
 
 (3) In these Regulations, unless the context otherwise requires, a reference—
@@ -107,7 +107,7 @@ Where a claim for sickness benefit or invalidity benefit is made on or after the
 
 Where a claim for sickness benefit, invalidity benefit, severe disablement allowance or maternity allowance is made in respect of a period before the appointed day, the provisions in regulation 9 of, and Part I of Schedule 1 to, the Social Security (Claims and Payments) Regulations 1987 (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) [^c1788908] in force on the appointed day shall be read as if regulation 10(1), (2), (4) and (6) to (9) of the Social Security (Claims and Payments) Amendment (No. 2) Regulations 1994 had not come into force.
 
-### 7. Persons deemed to be incapable of work[^key-5f1ed6c8428b980c197fd0cd1aea5926]
+### 7. Persons deemed to be incapable of work[^c-5f1ed6c8428b980c197fd0cd1aea5926]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,9 +139,9 @@ whichever first occurs.
 
 (3) Subject to the provisions in Part VI, a person’s entitlement to a transitional award of short-term incapacity benefit shall be subject to him being incapable of work as determined in accordance with Part XIIA of the 1992 Act (incapacity for work) [^c1788911].
 
-(4) Subject to paragraph (5), where[^key-6033740b1c205e966f7c34e9cf5074fc] a person ceases by virtue of paragraph (2)(b) to be entitled to a transitional award of short-term incapacity benefit he is, subject to him being incapable of work as determined in accordance with Part XIIA of the 1992 Act (incapacity for work), entitled to long-term incapacity benefit in the same period of incapacity for work in which he is not over pensionable age.
+(4) Subject to paragraph (5), where[^c-6033740b1c205e966f7c34e9cf5074fc] a person ceases by virtue of paragraph (2)(b) to be entitled to a transitional award of short-term incapacity benefit he is, subject to him being incapable of work as determined in accordance with Part XIIA of the 1992 Act (incapacity for work), entitled to long-term incapacity benefit in the same period of incapacity for work in which he is not over pensionable age.
 
-(5)[^key-be5700eb22aed90e000920164b61eea0] Where paragraph (4) applies to a person whose transitional award of short-term incapacity benefit was in respect of a personal injury of a kind mentioned in section 94(1) of the 1992 Act, he shall be entitled to the long-term incapacity benefit only if his incapacity for work continues to result from that personal injury.
+(5)[^c-be5700eb22aed90e000920164b61eea0] Where paragraph (4) applies to a person whose transitional award of short-term incapacity benefit was in respect of a personal injury of a kind mentioned in section 94(1) of the 1992 Act, he shall be entitled to the long-term incapacity benefit only if his incapacity for work continues to result from that personal injury.
 
 ### 12. Special provision for persons entitled to short-term incapacity benefit on termination of employment after a period of entitlement to disability working allowance
 
@@ -160,7 +160,7 @@ whichever first occurs.
 (2) Where a person—
 
 - (a) at any time in a period of not more than 57 days immediately before the appointed day or at any time in a period of not more than 57 days immediately after the appointed day attends a training course of the type specified in regulation 7(1)(f) of the Unemployment, Sickness and Invalidity Benefit Regulations (days when a person is attending a training course not to be treated as days of incapacity for work) [^c1788916]; and
-- (b) had been entitled to sickness benefit in a period of interruption of employment occurring in whole or in part in a period[^key-ac4622e81ee42efc1be480f08c17349b] not exceeding 57 days prior to the first day of attendance on the training course; and
+- (b) had been entitled to sickness benefit in a period of interruption of employment occurring in whole or in part in a period[^c-ac4622e81ee42efc1be480f08c17349b] not exceeding 57 days prior to the first day of attendance on the training course; and
 - (c) within a period not exceeding 57 days beginning on the day after the last day of attendance on the training course he becomes entitled to incapacity benefit by virtue of sections 30A, 40 or 41 of the 1992 Act [^c1788917]; and
 - (d) the rate of short-term incapacity benefit is less than the rate at which a transitional award of short-term incapacity benefit would have been payable had the period of entitlement to sickness benefit referred to in sub-paragraph (b) been running at the appointed day,
 
@@ -227,17 +227,17 @@ a payment of an increase shall be made as if the provisions in the 1992 Act in f
 
 (2) Subject to the provisions in Part VI, a person’s entitlement to a transitional award of long-term incapacity benefit shall be subject to him being incapable of work as determined in accordance with Part XIIA of the 1992 Act (incapacity for work) [^c1788922].
 
-(3) A person who reaches pensionable age before the appointed day and who is entitled to a transitional award of long-term incapacity benefit under paragraph (1) shall continue to be entitled to that award on any day that he is incapable of work as determined in accordance with Part XIIA of the 1992 Act for as long as he is not more than 5 years over pensionable age or until the first day on which he is entitled to retirement pension, whichever date is the earlier[^key-a6981f5c46d9e414f31fae3ddd436188].
+(3) A person who reaches pensionable age before the appointed day and who is entitled to a transitional award of long-term incapacity benefit under paragraph (1) shall continue to be entitled to that award on any day that he is incapable of work as determined in accordance with Part XIIA of the 1992 Act for as long as he is not more than 5 years over pensionable age or until the first day on which he is entitled to retirement pension, whichever date is the earlier[^c-a6981f5c46d9e414f31fae3ddd436188].
 
 (4) Where a person reaches pensionable age on or after the appointed day, entitlement to a transitional award of long-term incapacity benefit shall terminate on his attaining pensionable age.
 
-### 17A. Awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link[^key-cbf2bf630b9324740df3dd93678af44f]
+### 17A. Awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link[^c-cbf2bf630b9324740df3dd93678af44f]
 
 Where a person had been entitled to invalidity benefit in a period of interruption of employment occurring in whole or in part in a period not exceeding 57 days immediately before the appointed day and becomes entitled to an award of incapacity benefit on the basis that a day of incapacity for work on or after the appointed day forms part of a period of incapacity for work beginning before the appointed day, that award shall have effect as if it were an award of long-term incapacity benefit.
 
-### 17B. Calculating periods of incapacity for work for welfare to work beneficiaries in long-term incapacity benefit transitional cases[^key-15379249a9c367380a9bac2234923672]
+### 17B. Calculating periods of incapacity for work for welfare to work beneficiaries in long-term incapacity benefit transitional cases[^c-15379249a9c367380a9bac2234923672]
 
-For the purposes of transitional cases, where a person, to whom regulation 17(1) (transitional awards of long-term incapacity benefit) or regulation 17A (awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link) applies, has been determined in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995 to have become a welfare to work beneficiary, section 30C(1)(c) of the 1992 Act (any two periods of incapacity for work not separated by a period of more than 8 weeks shall be treated as one period of incapacity for work) shall have effect as if for the reference to 8 weeks there were substituted a reference to 104 weeks[^key-ba03fe3db6b6d9e27138b9ccf6190bb3].
+For the purposes of transitional cases, where a person, to whom regulation 17(1) (transitional awards of long-term incapacity benefit) or regulation 17A (awards of incapacity benefit in cases where periods of interruption of employment and periods of incapacity for work link) applies, has been determined in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995 to have become a welfare to work beneficiary, section 30C(1)(c) of the 1992 Act (any two periods of incapacity for work not separated by a period of more than 8 weeks shall be treated as one period of incapacity for work) shall have effect as if for the reference to 8 weeks there were substituted a reference to 104 weeks[^c-ba03fe3db6b6d9e27138b9ccf6190bb3].
 
 ### 18. Rate of long-term incapacity benefit in transitional cases
 
@@ -245,23 +245,23 @@ For the purposes of transitional cases, where a person, to whom regulation 17(1)
 
 - (a) a basic rate of an amount equal to the rate of long-term incapacity benefit specified in Schedule 4, Part I, paragraph 2A, of the 1992 Act[^c1788923];
 - (b) where an additional pension was paid or payable with invalidity benefit immediately before the appointed day, an additional rate of an amount equal to the rate paid or payable as an additional pension with invalidity benefit immediately before the appointed day; and that amount shall be referred to as the additional rate;
-- (c) where an invalidity allowance was payable pursuant to subsection (3) of section 34[^key-0c67d3175ca621fe1d36c6beae7a7704] of the 1992 Act immediately before the appointed day, an amount equal to the appropriate rate specified in paragraph (2); and that amount shall be referred to as a transitional invalidity allowance.
+- (c) where an invalidity allowance was payable pursuant to subsection (3) of section 34[^c-0c67d3175ca621fe1d36c6beae7a7704] of the 1992 Act immediately before the appointed day, an amount equal to the appropriate rate specified in paragraph (2); and that amount shall be referred to as a transitional invalidity allowance.
 
 (2) The appropriate rate referred to in paragraph (1)(c) is—
 
-- (a) where the higher rate of invalidity allowance was payable immediately before the appointed day, £30.00[^key-37ca2aa56b8426e6f16d12f75bc7838f];
-- (b) where the middle rate of invalidity allowance was payable immediately before the appointed day, £19.20[^key-a15d4026c574960411fd7194dc2dc36f];
-- (c) where the lower rate of invalidity allowance was payable immediately before the appointed day, £9.60[^key-f4ce895bc3c7eb87941fd393bfb5b1c0].
+- (a) where the higher rate of invalidity allowance was payable immediately before the appointed day, £30.00[^c-37ca2aa56b8426e6f16d12f75bc7838f];
+- (b) where the middle rate of invalidity allowance was payable immediately before the appointed day, £19.20[^c-a15d4026c574960411fd7194dc2dc36f];
+- (c) where the lower rate of invalidity allowance was payable immediately before the appointed day, £9.60[^c-f4ce895bc3c7eb87941fd393bfb5b1c0].
 
 (3) The transitional invalidity allowance shall be up-rated in accordance with the provisions of Part X of the Administration Act (review and alteration) as if that allowance were a sum specified in section 150(1)(a)(i), (2)(a) and (3)(a) of that Act.
 
-(4) In a transitional case, where for any period a person is entitled to an award of long-term incapacity benefit which includes the additional rate and a transitional invalidity allowance, for that period the relevant amount shall be deducted from the appropriate weekly rate of the transitional invalidity allowance [^key-f90afbde54dbdba487188170fc9faa05]....
+(4) In a transitional case, where for any period a person is entitled to an award of long-term incapacity benefit which includes the additional rate and a transitional invalidity allowance, for that period the relevant amount shall be deducted from the appropriate weekly rate of the transitional invalidity allowance [^c-f90afbde54dbdba487188170fc9faa05]....
 
 (5) In paragraph (4) “the relevant amount" means an amount equal to the additional rate reduced by the amount of any reduction in the weekly rate of incapacity benefit made by virtue of regulation 22.
 
 (6) Where the rate of long-term incapacity benefit includes a transitional invalidity allowance no increase shall become payable by virtue of regulations made under section 30B(7) of the 1992 Act[^c1788924].
 
-(7) In a transitional case where a person attained pensionable age before the appointed day and is not more than 5 years over that age, he shall continue to be entitled to long-term incapacity benefit until he reaches 5 years over pensionable age or until the first day on which he is entitled to retirement pension, whichever date is the earlier,[^key-6591c2d6b4adc2e123f32c0959d7d47e] payable at the rate at which the basic pension referred to in section 44(4) of the 1992 Act [^c1788925] is payable.
+(7) In a transitional case where a person attained pensionable age before the appointed day and is not more than 5 years over that age, he shall continue to be entitled to long-term incapacity benefit until he reaches 5 years over pensionable age or until the first day on which he is entitled to retirement pension, whichever date is the earlier,[^c-6591c2d6b4adc2e123f32c0959d7d47e] payable at the rate at which the basic pension referred to in section 44(4) of the 1992 Act [^c1788925] is payable.
 
 (8) In determining the rate of long-term incapacity benefit in a transitional case where paragraph (7) applies, any increase of the following descriptions shall be disregarded—
 
@@ -270,7 +270,7 @@ For the purposes of transitional cases, where a person, to whom regulation 17(1)
 - (c) any increase (for dependants) under section 80, 83 or 85 of the 1992 Act; and
 - (d) any increase (for Category A or Category B pensioners) under section 150 of the Administration Act (annual up-rating) of the sums mentioned in subsection (1)(e) of that section.
 
-(9)[^key-e9d3165ee4b77eeecce268a9d14189d4] For the purposes of Part IV a “transitional case” means a case where a person is entitled to an award of long-term incapacity benefit by virtue of regulation 17 or 17A.
+(9)[^c-e9d3165ee4b77eeecce268a9d14189d4] For the purposes of Part IV a “transitional case” means a case where a person is entitled to an award of long-term incapacity benefit by virtue of regulation 17 or 17A.
 
 ### 19. Special provisions for persons entitled to long-term incapacity benefit on termination of a period of entitlement to disability working allowance
 
@@ -299,7 +299,7 @@ incapacity benefit shall be payable at the latter rate until, in the case where 
 (2) Where a person—
 
 - (a) at any time in a period of not more than 57 days immediately before the appointed day or at any time in a period of not more than 57 days immediately after the appointed day attends a training course of the type specified in regulation 7(1)(f) of the Unemployment, Sickness and Invalidity Benefit Regulations (days when a person is attending a training course not to be treated as days of incapacity for work) [^c1788933]; and
-- (b) had been entitled to invalidity benefit in a period of interruption of employment occurring in whole or in part in a period[^key-b6c347e6567a4ae90b5f3a285aa406ea] not exceeding 57 days prior to the first day of attendance on the training course; and
+- (b) had been entitled to invalidity benefit in a period of interruption of employment occurring in whole or in part in a period[^c-b6c347e6567a4ae90b5f3a285aa406ea] not exceeding 57 days prior to the first day of attendance on the training course; and
 - (c) within a period not exceeding 57 days beginning on the day after the last day of attendance on the training course becomes entitled to incapacity benefit by virtue of sections 30A, 40 or 41 of the 1992 Act [^c1788934]; and
 - (d) the rate of incapacity benefit is less than the rate at which a transitional award of long-term incapacity benefit would have been payable had the period of entitlement to invalidity benefit referred to in sub-paragraph (b) been running at the appointed day,
 
@@ -320,7 +320,7 @@ incapacity benefit shall be payable at the latter rate until, in the case where 
 - (a) an award of long-term incapacity benefit which includes the additional rate; and
 - (b) to one or more guaranteed minimum pensions, and had been entitled to an invalidity pension under section 41 of the 1992 Act immediately before the appointed day, the weekly rate of the award of long-term incapacity benefit shall be reduced by an amount equal—
   - (i) to the additional rate; or
-  - (ii) to the weekly rate of the pension mentioned in paragraph (b) or if there is more than one such guaranteed minimum pension[^key-66d9896ee4ea59b5fb0f6faa34c093e8], their aggregate weekly rates,
+  - (ii) to the weekly rate of the pension mentioned in paragraph (b) or if there is more than one such guaranteed minimum pension[^c-66d9896ee4ea59b5fb0f6faa34c093e8], their aggregate weekly rates,
 
   whichever is less.
 
@@ -358,9 +358,9 @@ whichever is the less.
 
 ### 23. Increase of Category A retirement pension for incapacity
 
-(1)[^key-f25f27245970bde5a94f608219ec1fd1] Where a person has been entitled to invalidity allowance or transitional invalidity allowance at any time during a period of 57 days before attaining pensionable age, sections 47 and 61 of the 1992 Act shall continue to have effect as though section 11 of, and paragraph 13 of Schedule 1 to, the 1994 Act had not come into force and as though any reference to invalidity allowance in section 47 were a reference to transitional invalidity allowance or invalidity allowance.
+(1)[^c-f25f27245970bde5a94f608219ec1fd1] Where a person has been entitled to invalidity allowance or transitional invalidity allowance at any time during a period of 57 days before attaining pensionable age, sections 47 and 61 of the 1992 Act shall continue to have effect as though section 11 of, and paragraph 13 of Schedule 1 to, the 1994 Act had not come into force and as though any reference to invalidity allowance in section 47 were a reference to transitional invalidity allowance or invalidity allowance.
 
-(2)[^key-dd9bf832f86acd0ee1510735331716d1] In the case of a person who is a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995, the reference in paragraph (1) to a period of 57 days shall be treated as a reference to a period of 104 weeks[^key-0656567796dee9f146c401aac5261257].
+(2)[^c-dd9bf832f86acd0ee1510735331716d1] In the case of a person who is a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995, the reference in paragraph (1) to a period of 57 days shall be treated as a reference to a period of 104 weeks[^c-0656567796dee9f146c401aac5261257].
 
 ### 24. Increase of rate of long-term incapacity benefit for dependants in transitional cases
 
@@ -384,12 +384,12 @@ an amount equal to that increase shall be payable.
 
 (6) Where a person becomes entitled to an increase under paragraph (1), he shall not be entitled to an adult dependency increase to which he would, but for this provision, be entitled under the Increases for Dependants Regulations.
 
-(7) Except in a case where paragraph (7A) applies, a person[^key-a518f106527b147cf93c2b05264caa45] shall cease to be entitled to an increase under paragraph (1) when either—
+(7) Except in a case where paragraph (7A) applies, a person[^c-a518f106527b147cf93c2b05264caa45] shall cease to be entitled to an increase under paragraph (1) when either—
 
 - (a) no invalidity benefit or long-term incapacity benefit has been paid for at least 57 continuous days;
 - (b) no increase of invalidity benefit or long-term incapacity benefit is paid or payable for at least 57 continuous days in a period of incapacity for work.
 
-(7A)[^key-e8c355af5abd3c931c66557b80d132f9] The exception referred to in paragraph (7) applies only if the person–
+(7A)[^c-e8c355af5abd3c931c66557b80d132f9] The exception referred to in paragraph (7) applies only if the person–
 
 - (a) has been determined to be a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995; and
 - (b) is not entitled to incapacity benefit on any day in a period falling within a linking term within the meaning of regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995.
@@ -404,25 +404,25 @@ an amount equal to that increase shall be payable.
 
 - (a) regulation 15 of the Social Security Benefit (Dependency) Regulations 1977 [^c1788938];
 - (b) regulation 2 of the Social Security (Savings for Existing Beneficiaries) Regulations 1984 [^c1788939];
-- (c) regulation 3 of the Social Security Benefit[^key-04f7c8d4b72ac5a51961c9b6f52a18cf] (Dependency) Amendment Regulations 1984 [^c1788940];
+- (c) regulation 3 of the Social Security Benefit[^c-04f7c8d4b72ac5a51961c9b6f52a18cf] (Dependency) Amendment Regulations 1984 [^c1788940];
 - (d) regulation 3 of the Social Security Benefit (Dependency) Amendment Regulations 1985 [^c1788941];
 - (e) regulation 4 of the Social Security Benefit (Dependency and Computation of Earnings) Amendment Regulations 1989 [^c1788942];
 - (f) regulation 4 of the Social Security Benefit (Dependency) Amendment Regulations 1992 [^c1788943]; and
 - (g) any administrative provision which before the appointed day enabled a concessionary payment to be made to compensate for non-payment of an increase under Part IV of the 1992 Act as a consequence of any one of the regulations referred to in sub-paragraphs (a) to (f) ceasing to apply to an increase due to attendance on a training course.
 
-(3) Except in a case where paragraph (3A) applies, the old saving provisions[^key-29c45250514ebef2b0b3cfa73e6fc51f] referred to in paragraph (2) shall cease to have effect when—
+(3) Except in a case where paragraph (3A) applies, the old saving provisions[^c-29c45250514ebef2b0b3cfa73e6fc51f] referred to in paragraph (2) shall cease to have effect when—
 
 - (a) no invalidity benefit or long-term incapacity benefit has been paid for at least 57 continuous days; or
 - (b) no increase is paid for a dependant for a continuous period of at least 57 days in a period of incapacity for work; or
-- (c) in a case where regulation 4 of the Social Security Benefit[^key-6a9bd3a44a224b41b1a35162e281640e] (Dependency) Amendment Regulations 1992 applies, when the increase is not adjusted as a result of earnings for a continuous period of at least 57 days; or
+- (c) in a case where regulation 4 of the Social Security Benefit[^c-6a9bd3a44a224b41b1a35162e281640e] (Dependency) Amendment Regulations 1992 applies, when the increase is not adjusted as a result of earnings for a continuous period of at least 57 days; or
 - (d) in a case where a concessionary payment was made to compensate for non-payment of an increase under Part IV of the 1992 Act as a consequence of regulation 4 of the Social Security Benefit (Dependency) Amendment Regulations 1992 ceasing to apply due to attendance on a training course, when the increase is not adjusted as a result of earnings for a continuous period of at least 57 days.
 
-(3A)[^key-45bf133830bbb02523efee35f01cedee] The exception referred to in paragraph (3) applies only if the person–
+(3A)[^c-45bf133830bbb02523efee35f01cedee] The exception referred to in paragraph (3) applies only if the person–
 
 - (a) has been determined to be a welfare to work beneficiary in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995; and
 - (b) is not entitled to incapacity benefit on any day in a period falling within a linking term within the meaning of regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995.
 
-(4) Regulation 4 of the Social Security Benefit[^key-b469eba58f4ea70dc7c96f8954ce75b4] (Dependency) Amendment Regulations 1992 shall not apply in any week to a case where a dependant has earnings which exceed £81.50 per week.
+(4) Regulation 4 of the Social Security Benefit[^c-b469eba58f4ea70dc7c96f8954ce75b4] (Dependency) Amendment Regulations 1992 shall not apply in any week to a case where a dependant has earnings which exceed £81.50 per week.
 
 (5) Where an increase is payable as a consequence of a concessionary payment made to compensate for non-payment of an increase under Part IV of the 1992 Act as a consequence of regulation 4 of the Social Security Benefit (Dependency) Amendment Regulations 1992 ceasing to apply due to attendance on a training course, no payment shall be made in any week where a dependant has earnings which exceed £81.50 per week.
 
@@ -447,7 +447,7 @@ Where a payment of an award of sickness benefit, invalidity benefit or severe di
 
 ### 28. Transitional provisions for an increase of severe disablement allowance for adult dependants
 
-(1) Subject to paragraph (2), where an increase of severe disablement allowance is payable for an adult dependant at any time during a period of 56 days immediately before the appointed day by virtue of section 90 of the 1992 Act, that increase shall continue to be payable and the provisions in regulation 24(2) to (7A)[^key-83c6fcc807d303eb23f66c41fd4baae9] shall apply to that increase as if that increase were an increase of long-term incapacity benefit in a transitional case.
+(1) Subject to paragraph (2), where an increase of severe disablement allowance is payable for an adult dependant at any time during a period of 56 days immediately before the appointed day by virtue of section 90 of the 1992 Act, that increase shall continue to be payable and the provisions in regulation 24(2) to (7A)[^c-83c6fcc807d303eb23f66c41fd4baae9] shall apply to that increase as if that increase were an increase of long-term incapacity benefit in a transitional case.
 
 (2) Where a person becomes entitled to severe disablement allowance by virtue of—
 
@@ -456,7 +456,7 @@ Where a payment of an award of sickness benefit, invalidity benefit or severe di
 
 and an increase had been payable under section 90 of the 1992 Act or paragraph (1) when he was last entitled to that allowance, he shall be entitled to an amount equal to the amount of an increase payable under paragraph (1) if, by reason only of the fact that there is no child for whom he is entitled to an increase under section 80 of the 1992 Act, he would not be entitled to an increase for an adult dependant under the Increases for Dependants Regulations; and the amount payable shall be treated as if it were an increase under paragraph (1).
 
-### 28A. Transitional provision for entitlement to severe disablement allowance where a person has been engaged in training for work[^key-9ebc88a99991b80353827e7886ae6794]
+### 28A. Transitional provision for entitlement to severe disablement allowance where a person has been engaged in training for work[^c-9ebc88a99991b80353827e7886ae6794]
 
 For the purposes of entitlement to severe disablement allowance where a person—
 
@@ -478,19 +478,19 @@ A person’s continued enjoyment on or after the appointed day of severe disable
 
 ### 31. Application of the new tests of incapacity for work
 
-(1) Where it has been determined that a person is incapable of work for any purpose of the 1992 Act immediately before the appointed day and he continues to be incapable of work on or after the appointed day,[^key-33c6632f99a7fda748c3218035ffcbac] the question of whether he is capable or incapable of work shall fall to be determined in accordance with the personal capability assessment[^key-fc6d1cd100a6a497acd28d22512570bc], but he shall not be required to satisfy or be treated as having satisfied the condition of entitlement that he is incapable of work in accordance with that assessment[^key-9d7cc9e7a4e155fe52182f89fd4e20db] until he has been assessed as to incapacity for work in accordance with regulations made under section 171C of the 1992 Act (the personal capability assessment)[^key-727e43ae5745898e54e1d04848895a2c] [^c1788946] or until it is determined that he falls within one of the cases mentioned in paragraph (5), so long as he satisfies the condition in paragraph (2).
+(1) Where it has been determined that a person is incapable of work for any purpose of the 1992 Act immediately before the appointed day and he continues to be incapable of work on or after the appointed day,[^c-33c6632f99a7fda748c3218035ffcbac] the question of whether he is capable or incapable of work shall fall to be determined in accordance with the personal capability assessment[^c-fc6d1cd100a6a497acd28d22512570bc], but he shall not be required to satisfy or be treated as having satisfied the condition of entitlement that he is incapable of work in accordance with that assessment[^c-9d7cc9e7a4e155fe52182f89fd4e20db] until he has been assessed as to incapacity for work in accordance with regulations made under section 171C of the 1992 Act (the personal capability assessment)[^c-727e43ae5745898e54e1d04848895a2c] [^c1788946] or until it is determined that he falls within one of the cases mentioned in paragraph (5), so long as he satisfies the condition in paragraph (2).
 
 (2) The condition referred to in paragraph (1) is that, in respect of each day, a person shall be required to provide evidence of his incapacity for work in accordance with the Socal Security (Medical Evidence) Regulations 1976 (which prescribe the form of doctor’s statement or other evidence in each case) [^c1788947].
 
-(3) Subject to paragraph (4), a person who falls within one of the cases mentioned in paragraph (5) shall be treated as being incapable of work in accordance with regulations made under section 171C of the 1992 Act (the personal capability assessment)[^key-459ebac54ad1961ab4dcba2379078cd8].
+(3) Subject to paragraph (4), a person who falls within one of the cases mentioned in paragraph (5) shall be treated as being incapable of work in accordance with regulations made under section 171C of the 1992 Act (the personal capability assessment)[^c-459ebac54ad1961ab4dcba2379078cd8].
 
-(4) Where it is determined that a person falls within one of the cases mentioned in paragraph (5)(a) to (c) and paragraphs (d) to (k)[^key-b32e579e579c8f4c78aeaaa6b51d24b6] do not apply, that person shall continue to provide evidence of his incapacity for work in accordance with the Social Security (Medical Evidence) Regulations 1976; and provided that such evidence is furnished he shall be treated as incapable of work in accordance with the personal capability assessment[^key-fd467aee07f3ac4caa3acdc2445d76c9] in accordance with regulations made under section 171C of the 1992 Act.
+(4) Where it is determined that a person falls within one of the cases mentioned in paragraph (5)(a) to (c) and paragraphs (d) to (k)[^c-b32e579e579c8f4c78aeaaa6b51d24b6] do not apply, that person shall continue to provide evidence of his incapacity for work in accordance with the Social Security (Medical Evidence) Regulations 1976; and provided that such evidence is furnished he shall be treated as incapable of work in accordance with the personal capability assessment[^c-fd467aee07f3ac4caa3acdc2445d76c9] in accordance with regulations made under section 171C of the 1992 Act.
 
 (5) The cases referred to in paragraph (3) are—
 
 - (a) a person—
   - (i) entitled to invalidity benefit on 1 December 1993 and on 12 April 1995; and
-  - (ii) between a period beginning on 1 December 1993 and ending on 13 April 1995, was incapable[^key-48a09423db2215a8ebd0295544cf6cdc] of work for that period or for two or more periods not separated by a period of more than 56 continuous days; and
+  - (ii) between a period beginning on 1 December 1993 and ending on 13 April 1995, was incapable[^c-48a09423db2215a8ebd0295544cf6cdc] of work for that period or for two or more periods not separated by a period of more than 56 continuous days; and
   - (iii) is aged 58 or over on the appointed day;
 - (b) a person—
   - (i) entitled to income support, housing benefit or council tax benefit on 1 December 1993; and
@@ -498,7 +498,7 @@ A person’s continued enjoyment on or after the appointed day of severe disable
   - (iii) whose applicable amount included the disability premium on account of his own incapacity on 12 April 1995; and
   - (iv) between the period beginning on 1 December 1993 and ending on 13 April 1995, was incapable of work for that period or for two or more periods not separated by a period of more than 56 continuous days; and
   - (v) is aged 58 or over on the appointed day;
-- (c) a person in receipt of a payment of an award of severe disablement allowance under section 68 of the 1992 Act immediately before the appointed day and the spell[^key-7acd502738a40657617cefc84efcb6dc] or period[^key-12c23a11ac17fd33e36f182dc290f71f] of incapacity for work which is running at the appointed day continues;
+- (c) a person in receipt of a payment of an award of severe disablement allowance under section 68 of the 1992 Act immediately before the appointed day and the spell[^c-7acd502738a40657617cefc84efcb6dc] or period[^c-12c23a11ac17fd33e36f182dc290f71f] of incapacity for work which is running at the appointed day continues;
 - (d) a person who was in receipt of a payment of an award of the highest rate of the care component of disability living allowance immediately before the appointed day and continues to be in receipt of such payment;
 - (e) a person who is suffering from a progressive disease and his death in consequence of that disease can reasonably be expected within 6 months;
 - (f) a blind person whose name is on a register compiled and maintained by a local authority in accordance with section 29 of the National Assistance Act 1948 [^c1788948] (welfare services) or, in Scotland, has been certified as blind and in consequence he is registered as blind in a register maintained by or on behalf of a regional or islands council;
@@ -507,20 +507,20 @@ A person’s continued enjoyment on or after the appointed day of severe disable
   - (ii) persistent vegetative state;
   - (iii) dementia;
   - (iv) paraplegia or uncontrollable involuntary movements or ataxia which effectively renders the sufferer functionally paraplegic;
-- (h) a person is suffering from any of the following conditions, and there exists medical evidence that he is suffering from any of them—[^key-594d16f5ba0251e4fba9f510f2418adc]
+- (h) a person is suffering from any of the following conditions, and there exists medical evidence that he is suffering from any of them—[^c-594d16f5ba0251e4fba9f510f2418adc]
   - (i) a severe learning disability (which, for the purposes of this regulation, means a condition which results from the arrested or incomplete physical development of the brain, or severe damage to the brain, and which involves severe impairment of intelligence and social functioning);
   - (ii) a severe and progressive neurological or muscle wasting disease;
   - (iii) an active and progressive form of inflammatory polyarthritis;
   - (iv) a progressive impairment of cardio-respiratory function which severely and persistently limits effort tolerance;
   - (v) dense paralysis of the upper limb, trunk and lower limb on one side of the body;
   - (vi) multiple effects of impairment of function of the brain or nervous system causing severe and irreversible motor, sensory and intellectual deficits;
-  - (vii)[^key-832b26811862657ec43b6608d21c9ef0] manifestations of severe and progressive immune deficiency states characterised by the occurrence of severe constitutional disease or opportunistic infections or tumour formation;
-  - (viii)[^key-25320318ab5a4ac6428f74dc4600c9d7] a severe mental illness, involving the presence of mental disease, which severely and adversely affects a person’s mood or behaviour, and which severely restricts his social functioning, or his awareness of his immediate environment.
-- (i)[^key-227a2f661993f8823c5be48a4626bc61] a person who was in receipt of a payment of an increase of disablement pension by virtue of section 104 of the 1992 Act and regulation 19 of the Social Security (General Benefit) Regulations 1982 (increase of disablement pension for constant attendance) at a rate greater than that specified in paragraph 2(a) or at the rate specified in paragraph 2(b) of Part V of Schedule 4 to the 1992 Ac immediately before the appointed day and continues to be in receipt of such payment;
+  - (vii)[^c-832b26811862657ec43b6608d21c9ef0] manifestations of severe and progressive immune deficiency states characterised by the occurrence of severe constitutional disease or opportunistic infections or tumour formation;
+  - (viii)[^c-25320318ab5a4ac6428f74dc4600c9d7] a severe mental illness, involving the presence of mental disease, which severely and adversely affects a person’s mood or behaviour, and which severely restricts his social functioning, or his awareness of his immediate environment.
+- (i)[^c-227a2f661993f8823c5be48a4626bc61] a person who was in receipt of a payment of an increase of disablement pension by virtue of section 104 of the 1992 Act and regulation 19 of the Social Security (General Benefit) Regulations 1982 (increase of disablement pension for constant attendance) at a rate greater than that specified in paragraph 2(a) or at the rate specified in paragraph 2(b) of Part V of Schedule 4 to the 1992 Ac immediately before the appointed day and continues to be in receipt of such payment;
 - (j) a person who was in receipt of a payment of constant attendance allowance by virtue of article 14(1)(b) of the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983 immediately before the appointed day and continues to be in receipt of such payment;
 - (k) a person who was in receipt of a payment of an increase of constant attendance allowance at a rate payable by virtue of article 14 of, and paragraph 3(a) of Schedule 3 to, the Personal Injuries (Civilians) Scheme 1983 immediately before the appointed day and continues to be in receipt of such payment.
 
-(6)[^key-079a67b88b501c1a548c8727e443def8] In sub-paragraph (h) of paragraph (5), “medical evidence” means—
+(6)[^c-079a67b88b501c1a548c8727e443def8] In sub-paragraph (h) of paragraph (5), “medical evidence” means—
 
 - (a) evidence from a doctor approved by the Secretary of State; and
 - (b) evidence (if any) from any other doctor, or a hospital or similar institution,
@@ -529,7 +529,7 @@ or such part of such evidence as constitutes the most reliable evidence availabl
 
 ### 32. Treatment of days of incapacity arising before the appointed day
 
-The days of incapacity for work before the appointed day and the days which are treated as days of incapacity for work in accordance with regulation 2 shall be taken into account for the purposes of calculating the days of incapacity referred to in section 171B(3) and (4) of the 1992 Act [^c1788949] [^key-a6138990e0ba0dd7427d03a247ff5c84]....
+The days of incapacity for work before the appointed day and the days which are treated as days of incapacity for work in accordance with regulation 2 shall be taken into account for the purposes of calculating the days of incapacity referred to in section 171B(3) and (4) of the 1992 Act [^c1788949] [^c-a6138990e0ba0dd7427d03a247ff5c84]....
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -567,7 +567,7 @@ These Regulations do not impose a charge on business.
 
 [^c1788900]: Marginal citation: See section 173(5)(a) of the Social Security Administration Act 1992 (c. 5.). This provides that regulations made before the end of six months from the coming into force of the enactment under which they are made are not required to be referred to the Social Security Advisory Committee.
 
-[^key-83e7553737178ada77de3c64d13fc7c0]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1995/310) excluded (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [22(e)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-83e7553737178ada77de3c64d13fc7c0]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1995/310) excluded (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [22(e)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
 [^c1788901]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -577,7 +577,7 @@ These Regulations do not impose a charge on business.
 
 [^c1788904]: Marginal citation: [S.I. 1994/2945](https://www.legislation.gov.uk/uksi/1994/2945).
 
-[^key-f04859d092f3ba548e7a7f41047477ef]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/310/regulation/1/2) substituted (6.4.2010) by [Social Security (Equalisation of State Pension Age) Regulations 2009 (S.I. 2009/1488)](https://www.legislation.gov.uk/uksi/2009/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/1488/regulation/8/2)
+[^c-f04859d092f3ba548e7a7f41047477ef]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/310/regulation/1/2) substituted (6.4.2010) by [Social Security (Equalisation of State Pension Age) Regulations 2009 (S.I. 2009/1488)](https://www.legislation.gov.uk/uksi/2009/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/1488/regulation/8/2)
 
 [^c1788905]: Marginal citation: [S.I. 1983/1598](https://www.legislation.gov.uk/uksi/1983/1598); relevant amending instruments are [S.I. 1986/484](https://www.legislation.gov.uk/uksi/1986/484), 1989/872 and 1994/1107.
 
@@ -587,15 +587,15 @@ These Regulations do not impose a charge on business.
 
 [^c1788908]: Marginal citation: [Regulation 10](https://www.legislation.gov.uk/uksi/1995/310/regulation/10) of the [Social Security (Claims and Payments) Amendment (No. 2) Regulations 1994 (S.I. 1994/2943)](https://www.legislation.gov.uk/uksi/1994/2943) amends regulation 9 and Part I of Schedule 1 to the [Social Security (Claims and Payments) Regulations 1987 (S.I. 1987/1968)](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-5f1ed6c8428b980c197fd0cd1aea5926]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/310/regulation/7) revoked with transitional provisions (8.4.2002) by [Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/491)](https://www.legislation.gov.uk/uksi/2002/491), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/491/regulation/1/1/b), [5](https://www.legislation.gov.uk/uksi/2002/491/regulation/5) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2002/491/regulation/6/2))
+[^c-5f1ed6c8428b980c197fd0cd1aea5926]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/310/regulation/7) revoked with transitional provisions (8.4.2002) by [Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/491)](https://www.legislation.gov.uk/uksi/2002/491), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/491/regulation/1/1/b), [5](https://www.legislation.gov.uk/uksi/2002/491/regulation/5) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2002/491/regulation/6/2))
 
 [^c1788910]: Marginal citation: [S.I. 1987/1986](https://www.legislation.gov.uk/uksi/1987/1986); relevant amending instruments are [S.I. 1992/247](https://www.legislation.gov.uk/uksi/1992/247) and 1993/1113.
 
 [^c1788911]: Marginal citation: Part XIIA was inserted into the Social Security Contributions and Benefits Act 1992 by section 5 of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-6033740b1c205e966f7c34e9cf5074fc]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1995/310/regulation/11/4) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/2/a)
+[^c-6033740b1c205e966f7c34e9cf5074fc]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/1995/310/regulation/11/4) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/2/a)
 
-[^key-be5700eb22aed90e000920164b61eea0]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/1995/310/regulation/11/5) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/2/b)
+[^c-be5700eb22aed90e000920164b61eea0]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/1995/310/regulation/11/5) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/2/b)
 
 [^c1788912]: Marginal citation: [Section 30C(5)](https://www.legislation.gov.uk/uksi/1995/310/section/30C/5) was inserted into the Social Security Contributions and Benefits Act 1992 by section 3(1) of the Social Security (Incapacity for Work) Act 1994.
 
@@ -607,7 +607,7 @@ These Regulations do not impose a charge on business.
 
 [^c1788916]: Marginal citation: [S. I. 1983/1598](https://www.legislation.gov.uk/uksi/1983/1598); regulation 7(1)(f) was amended by the [Employment Act 1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), [Schedule 5 paragraphs 1](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/1) and 4 and [S.I. 1991/387](https://www.legislation.gov.uk/uksi/1991/387).
 
-[^key-ac4622e81ee42efc1be480f08c17349b]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1995/310/regulation/13/2/b) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/2)
+[^c-ac4622e81ee42efc1be480f08c17349b]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1995/310/regulation/13/2/b) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/2)
 
 [^c1788917]: Marginal citation: Section 30A was inserted into the Social Security Contributions and Benefits Act 1992 by section 1(1) of the Social Security (Incapacity for Work) Act 1994. Sections 40 and 41 of the Social Security Contributions and Benefits Act 1992 were amended by section 11 of, Schedule 1, paragraphs 9 and 10 to, the Social Security (Incapacity for Work) Act 1994.
 
@@ -621,35 +621,35 @@ These Regulations do not impose a charge on business.
 
 [^c1788922]: Marginal citation: Part XIIA was inserted into the Social Security Contributions and Benefits Act 1992 by section 5 of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-a6981f5c46d9e414f31fae3ddd436188]: Textual amendment: Words in reg. 17(3) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/3)
+[^c-a6981f5c46d9e414f31fae3ddd436188]: Textual amendment: Words in reg. 17(3) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/3)
 
-[^key-cbf2bf630b9324740df3dd93678af44f]: Textual amendment: Reg. 17A inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/3)
+[^c-cbf2bf630b9324740df3dd93678af44f]: Textual amendment: Reg. 17A inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/3)
 
-[^key-15379249a9c367380a9bac2234923672]: Textual amendment: Reg. 17B inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/2)
+[^c-15379249a9c367380a9bac2234923672]: Textual amendment: Reg. 17B inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/2)
 
-[^key-ba03fe3db6b6d9e27138b9ccf6190bb3]: Textual amendment: Words in [reg. 17B](https://www.legislation.gov.uk/uksi/1995/310/regulation/17B) substituted (9.10.2006) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/7), [11(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/11/2)
+[^c-ba03fe3db6b6d9e27138b9ccf6190bb3]: Textual amendment: Words in [reg. 17B](https://www.legislation.gov.uk/uksi/1995/310/regulation/17B) substituted (9.10.2006) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/7), [11(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/11/2)
 
 [^c1788923]: Marginal citation: Paragraph 2A in Part I of Schedule 4 was inserted into the Social Security Contributions and Benefits Act 1992 by section 2(2) of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-0c67d3175ca621fe1d36c6beae7a7704]: Textual amendment: Words in reg. 18(1)(c) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/4/a)
+[^c-0c67d3175ca621fe1d36c6beae7a7704]: Textual amendment: Words in reg. 18(1)(c) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/4/a)
 
-[^key-37ca2aa56b8426e6f16d12f75bc7838f]: Textual amendment: Sum in [Reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/1995/310/regulation/18/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [17(1)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/17/1/a) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2026/148/article/17/2))
+[^c-37ca2aa56b8426e6f16d12f75bc7838f]: Textual amendment: Sum in [Reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/1995/310/regulation/18/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [17(1)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/17/1/a) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2026/148/article/17/2))
 
-[^key-a15d4026c574960411fd7194dc2dc36f]: Textual amendment: Sum in [Reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/1995/310/regulation/18/2/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [17(1)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/17/1/b) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2026/148/article/17/2))
+[^c-a15d4026c574960411fd7194dc2dc36f]: Textual amendment: Sum in [Reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/1995/310/regulation/18/2/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [17(1)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/17/1/b) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2026/148/article/17/2))
 
-[^key-f4ce895bc3c7eb87941fd393bfb5b1c0]: Textual amendment: Sum in [Reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/1995/310/regulation/18/2/c) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [17(1)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/17/1/c) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2026/148/article/17/2))
+[^c-f4ce895bc3c7eb87941fd393bfb5b1c0]: Textual amendment: Sum in [Reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/1995/310/regulation/18/2/c) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [17(1)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/17/1/c) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2026/148/article/17/2))
 
-[^key-f90afbde54dbdba487188170fc9faa05]: Textual amendment: Word in reg. 18(4) omitted (6.1.1997) by virtue of [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/4/b)
+[^c-f90afbde54dbdba487188170fc9faa05]: Textual amendment: Word in reg. 18(4) omitted (6.1.1997) by virtue of [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/4/b)
 
 [^c1788924]: Marginal citation: Section 30B(7) was inserted into the Social Security Contributions and Benefits Act 1992 by section 2(1) of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-6591c2d6b4adc2e123f32c0959d7d47e]: Textual amendment: Words in reg. 18(7) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/4/c)
+[^c-6591c2d6b4adc2e123f32c0959d7d47e]: Textual amendment: Words in reg. 18(7) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/4/c)
 
 [^c1788925]: Marginal citation: Section 44(4) of the Social Security Contributions and Benefits Act 1992 was amended by section 11 of, and Schedule 1, paragraph 11 to, the Social Security (Incapacity for Work) Act 1994.
 
 [^c1788926]: Marginal citation: Section 47 of the Social Security Contributions and Benefits Act 1992 was amended by section 11 of, and paragraph 13 of Schedule 1 to, the Social Security (Incapacity for Work) Act 1994.
 
-[^key-e9d3165ee4b77eeecce268a9d14189d4]: Textual amendment: Reg. 18(9) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/4)
+[^c-e9d3165ee4b77eeecce268a9d14189d4]: Textual amendment: Reg. 18(9) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/4)
 
 [^c1788927]: Marginal citation: Section 30C(5) was inserted into the Social Security Contributions and Benefits Act 1992 by section 3(1) of the Social Security (Incapacity for Work) Act 1994.
 
@@ -665,25 +665,25 @@ These Regulations do not impose a charge on business.
 
 [^c1788933]: Marginal citation: [S.I. 1983/1598](https://www.legislation.gov.uk/uksi/1983/1598); regulation 7(1)(f) was amended by the [Employment Act 1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), [Schedule 5 paragraphs 1](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/1) and 4 and [S.I. 1991/387](https://www.legislation.gov.uk/uksi/1991/387).
 
-[^key-b6c347e6567a4ae90b5f3a285aa406ea]: Textual amendment: Words in reg. 20(2)(b) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/5)
+[^c-b6c347e6567a4ae90b5f3a285aa406ea]: Textual amendment: Words in reg. 20(2)(b) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/5)
 
 [^c1788934]: Marginal citation: Section 30A was inserted into the Social Security Contributions and Benefits Act 1992 by section 1(1) of the Social Security (Incapacity for Work) Act 1994. Sections 40 and 41 of the Social Security Contributions and Benefits Act 1992 was amended by section 11 of, paragraphs 8 and 9 of Schedule 1 to, the Social Security (Incapacity for Work) Act 1994.
 
-[^key-66d9896ee4ea59b5fb0f6faa34c093e8]: Textual amendment: Words in reg. 22(1)(b)(ii) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/6)
+[^c-66d9896ee4ea59b5fb0f6faa34c093e8]: Textual amendment: Words in reg. 22(1)(b)(ii) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/6)
 
-[^key-f25f27245970bde5a94f608219ec1fd1]: Textual amendment: Reg. 23(1): reg. 23 renumbered as reg. 23(1) (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/3)
+[^c-f25f27245970bde5a94f608219ec1fd1]: Textual amendment: Reg. 23(1): reg. 23 renumbered as reg. 23(1) (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/3)
 
-[^key-dd9bf832f86acd0ee1510735331716d1]: Textual amendment: Reg. 23(2) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/3)
+[^c-dd9bf832f86acd0ee1510735331716d1]: Textual amendment: Reg. 23(2) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/3)
 
-[^key-0656567796dee9f146c401aac5261257]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/1995/310/regulation/23/2) substituted (9.10.2006) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/7), [11(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/11/3)
+[^c-0656567796dee9f146c401aac5261257]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/1995/310/regulation/23/2) substituted (9.10.2006) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/7), [11(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/11/3)
 
 [^c1788935]: Marginal citation: Paragraph 2 of Part IV of Schedule 4 to the Social Security Contributions and Benefits Act 1992 was amended by section 2(6) of the Social Security (Incapacity for Work) Act 1994.
 
 [^c1788936]: Marginal citation: Section 86A was inserted into the Social Security Contributions and Benefits Act 1992 by section 2(5) of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-a518f106527b147cf93c2b05264caa45]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/uksi/1995/310/regulation/24/7) substituted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/4/a)
+[^c-a518f106527b147cf93c2b05264caa45]: Textual amendment: Words in [reg. 24(7)](https://www.legislation.gov.uk/uksi/1995/310/regulation/24/7) substituted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/4/a)
 
-[^key-e8c355af5abd3c931c66557b80d132f9]: Textual amendment: [Reg. 24(7A)](https://www.legislation.gov.uk/uksi/1995/310/regulation/24/7A) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/4/b)
+[^c-e8c355af5abd3c931c66557b80d132f9]: Textual amendment: [Reg. 24(7A)](https://www.legislation.gov.uk/uksi/1995/310/regulation/24/7A) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/4/b)
 
 [^c1788937]: Marginal citation: Section 30C(6) was inserted into the Social Security Contributions and Benefits Act 1992 by section 3(1) of the Social Security (Incapacity for Work) Act 1994.
 
@@ -691,7 +691,7 @@ These Regulations do not impose a charge on business.
 
 [^c1788939]: Marginal citation: [S.I. 1984/1696](https://www.legislation.gov.uk/uksi/1984/1696).
 
-[^key-04f7c8d4b72ac5a51961c9b6f52a18cf]: Textual amendment: Word in reg. 25(2)(c)(d)(f) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/7)
+[^c-04f7c8d4b72ac5a51961c9b6f52a18cf]: Textual amendment: Word in reg. 25(2)(c)(d)(f) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/7)
 
 [^c1788940]: Marginal citation: [S.I. 1984/1698](https://www.legislation.gov.uk/uksi/1984/1698).
 
@@ -701,58 +701,58 @@ These Regulations do not impose a charge on business.
 
 [^c1788943]: Marginal citation: [S.I. 1992/3041](https://www.legislation.gov.uk/uksi/1992/3041).
 
-[^key-29c45250514ebef2b0b3cfa73e6fc51f]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/1995/310/regulation/25/3) substituted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/5/a)
+[^c-29c45250514ebef2b0b3cfa73e6fc51f]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/uksi/1995/310/regulation/25/3) substituted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/5/a)
 
-[^key-6a9bd3a44a224b41b1a35162e281640e]: Textual amendment: Word in reg. 25(3)(c)(d) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/7)
+[^c-6a9bd3a44a224b41b1a35162e281640e]: Textual amendment: Word in reg. 25(3)(c)(d) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/7)
 
-[^key-45bf133830bbb02523efee35f01cedee]: Textual amendment: [Reg. 25(3A)](https://www.legislation.gov.uk/uksi/1995/310/regulation/25/3A) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/5/b)
+[^c-45bf133830bbb02523efee35f01cedee]: Textual amendment: [Reg. 25(3A)](https://www.legislation.gov.uk/uksi/1995/310/regulation/25/3A) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/5/b)
 
-[^key-b469eba58f4ea70dc7c96f8954ce75b4]: Textual amendment: Word in reg. 25(4)(5) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/7)
+[^c-b469eba58f4ea70dc7c96f8954ce75b4]: Textual amendment: Word in reg. 25(4)(5) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/7)
 
-[^key-83c6fcc807d303eb23f66c41fd4baae9]: Textual amendment: Words in reg. 28(1) substituted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/6)
+[^c-83c6fcc807d303eb23f66c41fd4baae9]: Textual amendment: Words in reg. 28(1) substituted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/6)
 
 [^c1788944]: Marginal citation: Section 68(10A) was inserted into the Social Security Contributions and Benefits Act 1992 by section 9(2) of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-9ebc88a99991b80353827e7886ae6794]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/1995/310/regulation/28A) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/8)
+[^c-9ebc88a99991b80353827e7886ae6794]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/1995/310/regulation/28A) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/8)
 
 [^c1788945]: Marginal citation: Part XIIA was inserted into the Social Security Contributions and Benefits Act 1992 by sections 5 and 6 of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-33c6632f99a7fda748c3218035ffcbac]: Textual amendment: Words in reg. 31(1) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/a)
+[^c-33c6632f99a7fda748c3218035ffcbac]: Textual amendment: Words in reg. 31(1) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/a)
 
-[^key-fc6d1cd100a6a497acd28d22512570bc]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/1) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/a/i)
+[^c-fc6d1cd100a6a497acd28d22512570bc]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/1) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/a/i)
 
-[^key-9d7cc9e7a4e155fe52182f89fd4e20db]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/1) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/a/ii)
+[^c-9d7cc9e7a4e155fe52182f89fd4e20db]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/1) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/a/ii)
 
-[^key-727e43ae5745898e54e1d04848895a2c]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/1) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(a)(iii)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/a/iii)
+[^c-727e43ae5745898e54e1d04848895a2c]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/1) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(a)(iii)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/a/iii)
 
 [^c1788946]: Marginal citation: Section 171C was inserted into the Social Security Contributions and Benefits Act 1992 by section 5 of the Social Security (Incapacity for Work) Act 1994.
 
 [^c1788947]: Marginal citation: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615); relevant amending instruments are [S.I. 1982/699](https://www.legislation.gov.uk/uksi/1982/699), 1987/409, 1991/2284, 1992/247 and 1994/2975.
 
-[^key-459ebac54ad1961ab4dcba2379078cd8]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/3) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/b)
+[^c-459ebac54ad1961ab4dcba2379078cd8]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/3) substituted (3.4.2000) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/b)
 
-[^key-b32e579e579c8f4c78aeaaa6b51d24b6]: Textual amendment: Word in reg. 31(4) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/a)
+[^c-b32e579e579c8f4c78aeaaa6b51d24b6]: Textual amendment: Word in reg. 31(4) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/a)
 
-[^key-fd467aee07f3ac4caa3acdc2445d76c9]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/4) substituted (3.4.2000) by [The Social Security (Incapacity) Miscellaneous Amendments Regulations 2000 (S.I. 2000/590)](https://www.legislation.gov.uk/uksi/2000/590), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2000/590/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2000/590/regulation/2)
+[^c-fd467aee07f3ac4caa3acdc2445d76c9]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/1995/310/regulation/31/4) substituted (3.4.2000) by [The Social Security (Incapacity) Miscellaneous Amendments Regulations 2000 (S.I. 2000/590)](https://www.legislation.gov.uk/uksi/2000/590), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2000/590/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2000/590/regulation/2)
 
-[^key-48a09423db2215a8ebd0295544cf6cdc]: Textual amendment: Words in reg. 31(5)(a)(ii) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(i)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/i)
+[^c-48a09423db2215a8ebd0295544cf6cdc]: Textual amendment: Words in reg. 31(5)(a)(ii) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(i)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/i)
 
-[^key-7acd502738a40657617cefc84efcb6dc]: Textual amendment: Words in reg. 31(5)(c) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/ii)
+[^c-7acd502738a40657617cefc84efcb6dc]: Textual amendment: Words in reg. 31(5)(c) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(ii)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/ii)
 
-[^key-12c23a11ac17fd33e36f182dc290f71f]: Textual amendment: Words in reg. 31(5)(c) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/7)
+[^c-12c23a11ac17fd33e36f182dc290f71f]: Textual amendment: Words in reg. 31(5)(c) inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/1998/2231/regulation/3/7)
 
 [^c1788948]: Marginal citation: [1948 c. 29](https://www.legislation.gov.uk/ukpga/1948/29); the relevant amendments to section 29 are in the Local Government Act 1972 section 195, Schedule 23 paragraph 25.
 
-[^key-594d16f5ba0251e4fba9f510f2418adc]: Textual amendment: Words in reg. 31(5)(h) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/b/i)
+[^c-594d16f5ba0251e4fba9f510f2418adc]: Textual amendment: Words in reg. 31(5)(h) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/b/i)
 
-[^key-832b26811862657ec43b6608d21c9ef0]: Textual amendment: Reg. 31(5)(h)(vii) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(iii)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/iii)
+[^c-832b26811862657ec43b6608d21c9ef0]: Textual amendment: Reg. 31(5)(h)(vii) substituted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(iii)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/iii)
 
-[^key-25320318ab5a4ac6428f74dc4600c9d7]: Textual amendment: Reg. 31(5)(h)(viii) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/b/ii)
+[^c-25320318ab5a4ac6428f74dc4600c9d7]: Textual amendment: Reg. 31(5)(h)(viii) substituted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/b/ii)
 
-[^key-227a2f661993f8823c5be48a4626bc61]: Textual amendment: Reg. 31(5)(i), Reg. 31(5)(j), Reg. 31(5)(k) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(iv)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/iv)
+[^c-227a2f661993f8823c5be48a4626bc61]: Textual amendment: Reg. 31(5)(i), Reg. 31(5)(j), Reg. 31(5)(k) inserted (3.4.1995) by [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1995 (S.I. 1995/987)](https://www.legislation.gov.uk/uksi/1995/987), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/987/regulation/1/2), [3(9)(b)(iv)](https://www.legislation.gov.uk/uksi/1995/987/regulation/3/9/b/iv)
 
-[^key-079a67b88b501c1a548c8727e443def8]: Textual amendment: Reg. 31(6) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/c)
+[^c-079a67b88b501c1a548c8727e443def8]: Textual amendment: Reg. 31(6) inserted (6.1.1997) by [The Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations 1996 (S.I. 1996/3207)](https://www.legislation.gov.uk/uksi/1996/3207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/1996/3207/regulation/3/5/c)
 
 [^c1788949]: Marginal citation: Section 171B was inserted into the Social Security Contributions and Benefits Act 1992 by section 5 of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-a6138990e0ba0dd7427d03a247ff5c84]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1995/310/regulation/32) omitted (3.4.2000) by virtue of [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/c)
+[^c-a6138990e0ba0dd7427d03a247ff5c84]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/1995/310/regulation/32) omitted (3.4.2000) by virtue of [The Social Security (Incapacity for Work) Miscellaneous Amendments Regulations 1999 (S.I. 1999/3109)](https://www.legislation.gov.uk/uksi/1999/3109), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/1999/3109/regulation/7/c)

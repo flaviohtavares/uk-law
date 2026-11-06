@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1)[^M_F_ac8e5867-d528-41d1-b7c2-56310b6f76ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-455a87043b1bab992fcc15870706c68d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-455a87043b1bab992fcc15870706c68d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following shall be inserted after section 82(3) of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (aviation security: arrest in Scotland without warrant)—
 
@@ -73,4 +73,4 @@ This Act may be cited as the Aviation (Offences) Act 2003.
 
 [^M_F_ac8e5867-d528-41d1-b7c2-56310b6f76ac]: Textual amendment: S. 1(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-455a87043b1bab992fcc15870706c68d]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2003/19/section/1/2) repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
+[^c-455a87043b1bab992fcc15870706c68d]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2003/19/section/1/2) repealed (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)

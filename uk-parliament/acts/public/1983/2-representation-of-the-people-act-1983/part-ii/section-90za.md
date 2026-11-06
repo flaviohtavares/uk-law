@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90ZA. Meaning of “election expenses”[^c19430021][^key-a74e98e474fb049a86157667748ff177][^c19428691][^c14479931]
+## 90ZA. Meaning of “election expenses”[^c19430021][^c-a74e98e474fb049a86157667748ff177][^c19428691][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 [^c19430021]: Modification: S. 90ZA applied (with modifications) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as amended (7.2.2007) by [S.I. 2007/308](https://www.legislation.gov.uk/uksi/2007/308), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/308/article/2/2) and as substituted (10.2.2009) by [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/256/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/256/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/256/schedule/1))
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c19428691]: Textual amendment: S. 90ZA inserted (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/27/2), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/5) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))
 

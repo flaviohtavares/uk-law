@@ -49,11 +49,11 @@ The Secretary of State, having considered the report and recommendation of the P
 
 The Secretary of State in exercise of the powers conferred by sections 114, 115, 120 and 149A of the 2008 Act makes the following Order:
 
-## 1. Citation and commencement[^key-4f8ce678496a34c872753adf7cca5fd1]
+## 1. Citation and commencement[^c-4f8ce678496a34c872753adf7cca5fd1]
 
 This Order may be cited as the Triton Knoll Offshore Wind Farm Order 2013 and shall come into force on 12th July 2013.
 
-## 2. Interpretation[^key-4c0dd14cafcfe54b7a59610ab41dca35]
+## 2. Interpretation[^c-4c0dd14cafcfe54b7a59610ab41dca35]
 
 (1) Except for Schedule 2 (Deemed Licence under the Marine and Coastal Access Act 2009), which is subject to the definitions in that Schedule, in this Order—
 
@@ -64,26 +64,26 @@ This Order may be cited as the Triton Knoll Offshore Wind Farm Order 2013 and sh
 - “ancillary works” means the ancillary works described in Part 2 of Schedule 1 and which are not development within the meaning of section 32 of the 2008 Act;
 - “authorised development” means the development and associated development described in Part 1 of Schedule 1, which is development within the meaning of section 32 of the 2008 Act;
 - “authorised project” means the authorised development and the ancillary works authorised by this Order;
-- “collector substation” means a platform [^key-fcc9878609d28b2b64a0d4653f3b9259]... with one or more decks or housing or incorporating high voltage alternating current electrical switchgear and/or electrical transformers and other equipment to enable power from multiple WTGs to be collected and electrically converted for transmission including permanent accommodation for operations and maintenance staff, helicopter landing facilities, craneage, access equipment, J-tubes, marking and lighting, and other associated equipment and facilities;
-- [^key-2a66ec3f5ca41d1dcac106a1b7076779]...
+- “collector substation” means a platform [^c-fcc9878609d28b2b64a0d4653f3b9259]... with one or more decks or housing or incorporating high voltage alternating current electrical switchgear and/or electrical transformers and other equipment to enable power from multiple WTGs to be collected and electrically converted for transmission including permanent accommodation for operations and maintenance staff, helicopter landing facilities, craneage, access equipment, J-tubes, marking and lighting, and other associated equipment and facilities;
+- [^c-2a66ec3f5ca41d1dcac106a1b7076779]...
 - “concrete monopile foundation” means a concrete or steel reinforced concrete pile, typically cylindrical, drilled into the seabed, and associated equipment including scour protection, J-tube, corrosion protection systems and access platforms and equipment;
 - “the deemed marine licence” means the licence set out in Schedule 2 and deemed by article 8 to have been granted under Part 4 of the 2009 Act, by virtue of section 149A of the 2008 Act;
 - “environmental statement” means the document (Reference 05/01) certified as the environmental statement by the Secretary of State for the purposes of this Order and submitted with the application on 31 January 2012;
 - “gravity base foundation” means a structure principally of steel, concrete or steel and concrete which rests on the seabed either due to its own weight with or without added ballast or additional steel skirts and associated equipment including scour protection, J-tube, corrosion protection systems and access platforms and equipment;
-- [^key-975645ba22e99153ad57a308895d6510]...
+- [^c-975645ba22e99153ad57a308895d6510]...
 - “jacket foundation” means a metal jacket/lattice type structure constructed of steel or reinforced concrete which is fixed to the seabed at two or more points with driven or pre-installed piles or with suction cans and associated equipment including scour protection, J-tube, corrosion protection systems with access platforms and equipment;
 - “the land plan” means the plan submitted with the application (02/02/v2 dated 6 September 2012) and certified as the land plan by the Secretary of State for the purposes of the Order;
-- [^key-5cb3bab7fda10b67c6bcc943e3b4e0af]...
-- “maintain” includes inspect, repair, adjust and alter, and further includes remove, reconstruct and replace any of the ancillary works and any component part of any wind turbine generator or collector substation[^key-266f2a3c48bd91f16c5ede9d32e0c73b] described in Part 1 of Schedule 1 (including replacement of defective subsea cables to the extent assessed in the environmental statement but not including the alteration removal or replacement of foundations) and “maintenance” shall be construed accordingly;
+- [^c-5cb3bab7fda10b67c6bcc943e3b4e0af]...
+- “maintain” includes inspect, repair, adjust and alter, and further includes remove, reconstruct and replace any of the ancillary works and any component part of any wind turbine generator or collector substation[^c-266f2a3c48bd91f16c5ede9d32e0c73b] described in Part 1 of Schedule 1 (including replacement of defective subsea cables to the extent assessed in the environmental statement but not including the alteration removal or replacement of foundations) and “maintenance” shall be construed accordingly;
 - “MCA” means the Maritime and Coastguard Agency;
-- [^key-15ff176cce2476fcbb5d026d687bbf3d]...
+- [^c-15ff176cce2476fcbb5d026d687bbf3d]...
 - “MMO” means the Marine Management Organisation;
 - “monopile foundation” means a concrete monopile foundation or a steel monopile foundation;
 - “the Order limits” means the limits shown on the Works plan as the limits within which the authorised development may be carried out, whose grid coordinates are set out in Part 1 of Schedule 1 (authorised development) of this Order;
-- [^key-f26e236e267d1d932573f3b7c889a0ac]...
+- [^c-f26e236e267d1d932573f3b7c889a0ac]...
 - “Renewable Energy Zone” means the areas of the sea designated under the Renewable Energy Zone (Designation of Area) Order 2004[^f00008];
 - “the Requirements” means the requirements set out in Part 3 of Schedule 1 (Requirements) to this Order;
-- “scheduled works” means the works numbered 1 [^key-94536503227bb92bb64fe35ddc7bb149]... specified in Part 1 of Schedule 1 to this Order, or any part of them;
+- “scheduled works” means the works numbered 1 [^c-94536503227bb92bb64fe35ddc7bb149]... specified in Part 1 of Schedule 1 to this Order, or any part of them;
 - “scour protection” means measures to prevent loss of seabed sediment around foundation bases by use of protective aprons, mattresses, flow energy dissipation (frond) devices or rock and gravel dumping;
 - “steel monopile foundation” means a steel pile, typically cylindrical, driven and/or drilled into the seabed and associated equipment including scour protection, bracing J-tube, corrosion protection systems and access platforms and equipment;
 - “suction bucket monopod foundation” means a tubular metal structure which partially penetrates the seabed and remains in place using its own weight and a hydrostatic pressure differential and associated equipment, including scour protection, bracing, J-tube, corrosion protection systems and access platforms and equipment;
@@ -103,7 +103,7 @@ This Order may be cited as the Triton Knoll Offshore Wind Farm Order 2013 and sh
 
 (5) References in this Order to rights over land include references to rights to do or to place and maintain anything in, on or under land or in the air-space above its surface.
 
-## 3. Development consent etc granted by the Order[^key-b1538ad33efa60472b05c5212429d320]
+## 3. Development consent etc granted by the Order[^c-b1538ad33efa60472b05c5212429d320]
 
 Subject to the provisions of Part 3 of Schedule 1 (Requirements), Schedule 2 (deemed marine licence) and the other provisions of this Order, the undertaker is granted—
 
@@ -112,17 +112,17 @@ Subject to the provisions of Part 3 of Schedule 1 (Requirements), Schedule 2 (de
 
 to be carried out within the Order limits.
 
-## 4. Maintenance of authorised project[^key-aaa8be1a9509f370acea1bacc6e32a4d]
+## 4. Maintenance of authorised project[^c-aaa8be1a9509f370acea1bacc6e32a4d]
 
 The undertaker may at any time maintain the authorised project, except to the extent that this Order or an agreement made under this Order provides otherwise.
 
-## 5. Operation of electricity generating station[^key-ff27b331c1c6ac8d96893747ce816bdc]
+## 5. Operation of electricity generating station[^c-ff27b331c1c6ac8d96893747ce816bdc]
 
 (1) The undertaker is authorised to operate the generating station comprised in the authorised development.
 
 (2) This article does not relieve the undertaker of any requirement to obtain any permit or licence under any other legislation that may be required from time to time to authorise the operation of an electricity generating station.
 
-## 6. Benefit of the Order[^key-24e1e9b9cc8a694d061ba0bfc8ddbee6]
+## 6. Benefit of the Order[^c-24e1e9b9cc8a694d061ba0bfc8ddbee6]
 
 (1) Subject to paragraphs (2) and (3) the undertaker may with the written consent of the Secretary of State—
 
@@ -135,19 +135,19 @@ The undertaker may at any time maintain the authorised project, except to the ex
 
 (4) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (1) shall be subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
-## 7. Abatement of works abandoned or decayed[^key-60ec3a48e184c7a3a6fb94ee5a672ab0]
+## 7. Abatement of works abandoned or decayed[^c-60ec3a48e184c7a3a6fb94ee5a672ab0]
 
-Where Work No.1[^key-707ac9d04545750790a21e17ec05cb80] or any part of it or any part of the ancillary works is abandoned or allowed to fall into decay the Secretary of State may, following consultation with the undertaker, issue a written notice requiring the undertaker at its own expense to repair and restore or remove any part of Work No.1 or the ancillary works, without prejudice to any notice served under section 105(2) of the 2004 Act. The notice may also require the restoration of the site of the relevant parts of Work No.1 to a safe and proper condition within an area and to such an extent as may be specified in the notice.
+Where Work No.1[^c-707ac9d04545750790a21e17ec05cb80] or any part of it or any part of the ancillary works is abandoned or allowed to fall into decay the Secretary of State may, following consultation with the undertaker, issue a written notice requiring the undertaker at its own expense to repair and restore or remove any part of Work No.1 or the ancillary works, without prejudice to any notice served under section 105(2) of the 2004 Act. The notice may also require the restoration of the site of the relevant parts of Work No.1 to a safe and proper condition within an area and to such an extent as may be specified in the notice.
 
-## 8. Deemed licence under the Marine and Coastal Access Act 2009[^key-134a63702227a43cffb8f23907fb47b5]
+## 8. Deemed licence under the Marine and Coastal Access Act 2009[^c-134a63702227a43cffb8f23907fb47b5]
 
 The undertaker is granted a deemed licence under Part 4 Chapter 1 of the 2009 Act to carry out the works and make the deposits specified in Part 1 of Schedule 2, subject to the licence conditions set out in Part 2 of that Schedule.
 
-## 9. Saving for Trinity House[^key-420ac53a4e8a3a121abe43c15191e4bc]
+## 9. Saving for Trinity House[^c-420ac53a4e8a3a121abe43c15191e4bc]
 
 Nothing in this Order prejudices or derogates from any of the rights, duties or privileges of Trinity House.
 
-## 10. Crown rights[^key-159906df0433a9cdbd6efbadc4e38292]
+## 10. Crown rights[^c-159906df0433a9cdbd6efbadc4e38292]
 
 (1) Nothing in this Order shall—
 
@@ -158,7 +158,7 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 (2) A consent under paragraph (1)(b) may be given unconditionally or may be subject to such conditions or upon such terms as may be considered necessary or appropriate.
 
-## 11. Certification of plans etc[^key-307f4cb6907240319238c15e1f2b7304]
+## 11. Certification of plans etc[^c-307f4cb6907240319238c15e1f2b7304]
 
 (1) The undertaker shall, as soon as practicable after the making of this Order, submit to the Secretary of State copies of—
 
@@ -170,7 +170,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-## 12. Arbitration[^key-57bd15855bbec5569c948f3e269d712b]
+## 12. Arbitration[^c-57bd15855bbec5569c948f3e269d712b]
 
 Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled by a single arbitrator to be agreed between the parties, or failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the Secretary of State.
 
@@ -188,11 +188,11 @@ Department of Energy and Climate Change
 
 Article 2
 
-### PART 1 — Authorised Development[^key-db4409b1c5e39f85b19cdabea217a235]
+### PART 1 — Authorised Development[^c-db4409b1c5e39f85b19cdabea217a235]
 
 A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act on the bed of the North Sea approximately 33 kilometres off the coast of Lincolnshire and 46 kilometres off the coast of North Norfolk within the Renewable Energy Zone, comprising—
 
-- *Work No. 1* — an offshore wind turbine generating station with a gross electrical output capacity of up to 900 MW[^key-c5c63470ee92df8d960d95d12c844cf6] comprising up to 90 wind turbine generators[^key-1247fdd609fa8860532281619443ceb5] each fixed to the seabed by one of five foundation types (namely, monopile, jacket, tripod, suction bucket monopod or gravity base foundation), fitted with rotating blades and situated within the coordinates for the Order limits shown on the Works plan and specified below, and including the further works comprising (a) to (c) below;
+- *Work No. 1* — an offshore wind turbine generating station with a gross electrical output capacity of up to 900 MW[^c-c5c63470ee92df8d960d95d12c844cf6] comprising up to 90 wind turbine generators[^c-1247fdd609fa8860532281619443ceb5] each fixed to the seabed by one of five foundation types (namely, monopile, jacket, tripod, suction bucket monopod or gravity base foundation), fitted with rotating blades and situated within the coordinates for the Order limits shown on the Works plan and specified below, and including the further works comprising (a) to (c) below;
 
   Coordinates for the Order limits (Datum: WGS 84)
 
@@ -202,16 +202,16 @@ A nationally significant infrastructure project as defined in sections 14 and 15
   | 3 | 53° 32′ 16.234″ N | 0° 51′ 40.692″ E | 4 | 53° 24′ 31.248″ N | 0° 59′ 39.385″ E |
   | 5 | 53° 24′ 31.234″ N | 0° 56′ 1.766″ E |  |  |  |
 
-  - (a) up to 2 collector substations[^key-507731ddc63895934d32e72df3d59261] fixed to the seabed by jacket or monopile foundations within the Order limits;
-  - (b) [^key-f2558b68be5786afcd98d64452701872]...
-  - (c) a network of cables laid underground within the Order limits between the wind turbine generators and any collector substation[^key-4739161a17e66ecc8b80e54c31c8fac0] for the transmission of electricity and electronic communications between these different structures, including one or more cable crossings;
+  - (a) up to 2 collector substations[^c-507731ddc63895934d32e72df3d59261] fixed to the seabed by jacket or monopile foundations within the Order limits;
+  - (b) [^c-f2558b68be5786afcd98d64452701872]...
+  - (c) a network of cables laid underground within the Order limits between the wind turbine generators and any collector substation[^c-4739161a17e66ecc8b80e54c31c8fac0] for the transmission of electricity and electronic communications between these different structures, including one or more cable crossings;
 
-  [^key-b5174e9b431f2751151d4b593d25324b]...
-- *[^key-891bca22fd52bfcbb71281c035370c99]...*
+  [^c-b5174e9b431f2751151d4b593d25324b]...
+- *[^c-891bca22fd52bfcbb71281c035370c99]...*
 
-and in connection with such Work No. 1[^key-5855cf36acc5ed5ca3ecb1cacc978427], and to the extent that they do not otherwise form part of any such work, [^key-8868a438abc0afa3a81142730a9a5b78]... associated development within the Order limits comprising such other works as may be necessary or expedient for the purposes of or in connection with the relevant part of the authorised project and which fall within the scope of the work assessed by the environmental statement.
+and in connection with such Work No. 1[^c-5855cf36acc5ed5ca3ecb1cacc978427], and to the extent that they do not otherwise form part of any such work, [^c-8868a438abc0afa3a81142730a9a5b78]... associated development within the Order limits comprising such other works as may be necessary or expedient for the purposes of or in connection with the relevant part of the authorised project and which fall within the scope of the work assessed by the environmental statement.
 
-### PART 2 — Ancillary Works[^key-5cd176dd5c21076000eee21207d364c8]
+### PART 2 — Ancillary Works[^c-5cd176dd5c21076000eee21207d364c8]
 
 Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
 
@@ -220,7 +220,7 @@ Works within the Order limits which have been subject to an environmental impact
 
 ### PART 3 — Requirements
 
-#### 1. Interpretation[^key-8cf029c7e188458c30f809c4d48a565e]
+#### 1. Interpretation[^c-8cf029c7e188458c30f809c4d48a565e]
 
 In this Part of this Schedule—
 
@@ -232,11 +232,11 @@ In this Part of this Schedule—
 - “notice to mariners” includes any notice to mariners which may be issued by the Admiralty, Trinity House, Queen’s harbourmasters, government departments and harbour and pilotage authorities;
 - “the UK Hydrographic Office” means the UK Hydrographic Office of Admiralty Way, Taunton, Somerset, TA1 2DN or any replacement body or successor to its functions.
 
-#### 2. Time limits[^key-d66e9f36d0df0dbfc022a4b6d2b3595f]
+#### 2. Time limits[^c-d66e9f36d0df0dbfc022a4b6d2b3595f]
 
 The authorised development shall commence no later than the expiration of seven years beginning with the date this Order comes into force or such longer period as the Secretary of State may hereafter direct in writing.
 
-#### 3. Detailed design parameters[^key-c82c27b36ca6a79e4a628e33bdc06c98]
+#### 3. Detailed design parameters[^c-c82c27b36ca6a79e4a628e33bdc06c98]
 
 (1) No wind turbine generator forming part of the authorised development shall—
 
@@ -248,41 +248,41 @@ The authorised development shall commence no later than the expiration of seven 
 
 (2) In sub-paragraph (1), references to the location of a wind turbine generator are references to the centre point of that turbine.
 
-#### 4. Further offshore design requirements[^key-101a8b779b73d4d5fd6169008bc02c21]
+#### 4. Further offshore design requirements[^c-101a8b779b73d4d5fd6169008bc02c21]
 
-No wind turbine generator or collector substation[^key-7067c32eb070c88982c18cf49afb30f4] forming part of the authorised development shall be erected within the areas hatched black on the Works plan, whose coordinates are specified below—
+No wind turbine generator or collector substation[^c-7067c32eb070c88982c18cf49afb30f4] forming part of the authorised development shall be erected within the areas hatched black on the Works plan, whose coordinates are specified below—
 
 | Point | Latitude (DMS) | Longitude (DMS) | Point | Latitude (DMS) | Longitude (DMS) |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 53° 26′ 33.465″ N | 0° 49′ 43.804″ E | 2 | 53° 26′ 50.747″ N | 0° 48′ 50.232″ E |
 | 3 | 53° 29′ 53.970″ N | 0° 54′ 07.524″ E | 4 | 53° 29′ 24.316″ N | 0° 54′ 38.088″ E |
 
-**5.**[^key-2b9cdd7be8864c97db9dcf3794125b7c] (1)[^key-880ab11f206f0066ca747194437e35bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2b9cdd7be8864c97db9dcf3794125b7c] (1)[^c-880ab11f206f0066ca747194437e35bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The dimensions of any collector substation forming part of the authorised development (excluding towers, helipads, masts and cranes) shall not exceed 60 metres in height when measured from LAT and shall not exceed 45 metres in length and 45 metres in width.
 
-(3)[^key-f434461983804e1f91b8e4060d5534ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f434461983804e1f91b8e4060d5534ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ae1285061f9e2cadb6e389e335c72459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ae1285061f9e2cadb6e389e335c72459] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5028c29235142d0e96ce461f6f5647b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5028c29235142d0e96ce461f6f5647b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Each collector substation[^key-adb15741beb50aeab243b8b947a6ddb9] shall have no more than one supporting foundation.
+(6) Each collector substation[^c-adb15741beb50aeab243b8b947a6ddb9] shall have no more than one supporting foundation.
 
-(7)[^key-5c769cdaa49bc7f69a432fdd78749ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5c769cdaa49bc7f69a432fdd78749ce6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-00c9516213322fcd03e700ba0228fe5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-00c9516213322fcd03e700ba0228fe5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e0ab305dadbe4ffb4c6000b996f45b09] The total length of the cables comprising Work No. 1(c) shall not exceed 475 kilometres.
+**6.**[^c-e0ab305dadbe4ffb4c6000b996f45b09] The total length of the cables comprising Work No. 1(c) shall not exceed 475 kilometres.
 
-**7.**[^key-32f0162b29b8af13382cfba89ee71b24] (1) No monopile foundation forming part of the authorised development shall—
+**7.**[^c-32f0162b29b8af13382cfba89ee71b24] (1) No monopile foundation forming part of the authorised development shall—
 
-- (a) in the case of a steel monopile foundation have a diameter of more than [^key-040792aa751a3606247b7af391b1671c]... 8.5 metres; and
-- (b) in the case of a concrete monopile foundation have a diameter of more than [^key-0d44850882765c1db904b1d55304ea7c]... 10.5 metres.
+- (a) in the case of a steel monopile foundation have a diameter of more than [^c-040792aa751a3606247b7af391b1671c]... 8.5 metres; and
+- (b) in the case of a concrete monopile foundation have a diameter of more than [^c-0d44850882765c1db904b1d55304ea7c]... 10.5 metres.
 
 (2) No gravity base foundation forming part of the authorised development shall have—
 
-- (a) [^key-cebf78305cef5e02fe5c387b44cbaa0a]... a diameter at the level of the seabed of more than 45 metres;
+- (a) [^c-cebf78305cef5e02fe5c387b44cbaa0a]... a diameter at the level of the seabed of more than 45 metres;
 - (b) a base height, where there is a flat base, of more than 7 metres above the level of the seabed;
 - (c) a cone/column intersect which is higher than 32 metres above the top of the base;
 - (d) a cone diameter of more than 45 metres at its base;
@@ -293,7 +293,7 @@ No wind turbine generator or collector substation[^key-7067c32eb070c88982c18cf49
 - (a) for use with wind turbine generators a width spacing between each leg at the level of the seabed of more than 30 metres and more than 4 legs;
 - (b) a pile diameter of more than 3 metres;
 - (c) more than one pile per leg or more than one suction can per leg;
-- (d)[^key-59ec6e8094c661ae44fad635c9814b11] for use with collector substations more than 8 legs;
+- (d)[^c-59ec6e8094c661ae44fad635c9814b11] for use with collector substations more than 8 legs;
 - (e) a suction can which is more than 14 metres in diameter.
 
 (4) No suction bucket monopod foundation forming part of the authorised development shall have—
@@ -310,33 +310,33 @@ No wind turbine generator or collector substation[^key-7067c32eb070c88982c18cf49
 - (e) a column diameter of more than 8 metres;
 - (f) a suction can which is more than 14 metres in diameter.
 
-#### 8. Offshore safety management[^key-162f103ace61a138f7dc98629f6f4897]
+#### 8. Offshore safety management[^c-162f103ace61a138f7dc98629f6f4897]
 
 (1) No authorised development shall commence until the Secretary of State, in consultation with the MCA, has confirmed in writing that the undertaker has taken into account and adequately addressed all MCA recommendations contained within MGN371 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues” and its annexes including full details of the Emergency Co-operation Plans (ERCoP) for the construction, operation and decommissioning as appropriate to the authorised development.
 
 (2) The undertaker will prepare and implement a project-specific Active Safety Management System, taking account of safety and mitigation measures as referred to in the navigation risk assessment in the environmental statement.
 
-#### 9. Aids to navigation[^key-3fd86a0bedb257e2245a338abc4997c3]
+#### 9. Aids to navigation[^c-3fd86a0bedb257e2245a338abc4997c3]
 
 The undertaker shall at or near the authorised development during the whole period of the construction, operation, alteration, replacement or decommissioning of the authorised development exhibit such lights, marks, sounds, signals and other aids to navigation as Trinity House may from time to time direct.
 
-**10.**[^key-4183105c6acfa52e95929dc20610e305] The undertaker shall ensure that timely and efficient notices to mariners and other navigational warnings of the position and nature of the authorised development, are issued during and after the period of construction, alteration, replacement or decommissioning of the authorised development, such information to be promulgated to mariners in the shipping and fishing industry as well as to recreational mariners.
+**10.**[^c-4183105c6acfa52e95929dc20610e305] The undertaker shall ensure that timely and efficient notices to mariners and other navigational warnings of the position and nature of the authorised development, are issued during and after the period of construction, alteration, replacement or decommissioning of the authorised development, such information to be promulgated to mariners in the shipping and fishing industry as well as to recreational mariners.
 
-**11.**[^key-96639c7c7e5b7180c79656cb3be70840] The undertaker shall notify Trinity House as soon as reasonably practicable of both the progress and completion of the authorised development and any aids for navigation established from time to time.
+**11.**[^c-96639c7c7e5b7180c79656cb3be70840] The undertaker shall notify Trinity House as soon as reasonably practicable of both the progress and completion of the authorised development and any aids for navigation established from time to time.
 
-**12.**[^key-2246b09b69de0457e35cc77357176812] The undertaker shall provide reports on the availability of aids to navigation periodically as requested by Trinity House.
+**12.**[^c-2246b09b69de0457e35cc77357176812] The undertaker shall provide reports on the availability of aids to navigation periodically as requested by Trinity House.
 
-**13.**[^key-580953aaf3a34a7e0020b5028b6fa52f] The undertaker shall notify the UK Hydrographic Office of the progress and completion of the authorised development.
+**13.**[^c-580953aaf3a34a7e0020b5028b6fa52f] The undertaker shall notify the UK Hydrographic Office of the progress and completion of the authorised development.
 
-**14.**[^key-dd96e34019d3bd82d78b6578726d36c8] (1) The undertaker shall colour all structures yellow from at least highest astronomical tide to a height directed by Trinity House, or shall colour the structure as directed by Trinity House from time to time.
+**14.**[^c-dd96e34019d3bd82d78b6578726d36c8] (1) The undertaker shall colour all structures yellow from at least highest astronomical tide to a height directed by Trinity House, or shall colour the structure as directed by Trinity House from time to time.
 
 (2) Subject to sub-paragraph (1), unless the Secretary of State otherwise directs, the undertaker shall ensure that the wind turbine generators shall be painted submarine grey (colour code RAL 7035).
 
-#### 15. Provision against danger to navigation[^key-cbf0c7cf047aa161028354e51604cef7]
+#### 15. Provision against danger to navigation[^c-cbf0c7cf047aa161028354e51604cef7]
 
 In case of injury to, or destruction or decay of, the authorised development or any part thereof the undertaker shall as soon as reasonably practicable notify Trinity House and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House may from time to time direct.
 
-#### 16. Air traffic[^key-443e10dfa9ba5315507db4a946be206f]
+#### 16. Air traffic[^c-443e10dfa9ba5315507db4a946be206f]
 
 (1) No construction of any wind turbine generator forming part of the authorised development shall commence until the Secretary of State having consulted with the Operator is satisfied that appropriate mitigation will be implemented and maintained for the life of the authorised development and that arrangements have been put in place with the Operator to ensure that such appropriate mitigation is implemented before the authorised development gives rise to any adverse impact on air traffic services.
 
@@ -345,15 +345,15 @@ In case of injury to, or destruction or decay of, the authorised development or 
 - “appropriate mitigation” means measures to prevent or remove any adverse impacts which the operation of the authorised development will have on the Operator’s ability to provide safe and efficient air traffic services during the lifetime of the authorised development in respect of which all necessary stakeholder consultation has been completed by the Operator and all necessary approvals and regulatory consents have been obtained;
 - “Operator” means NATS (En Route) plc incorporated under the Companies Act (4129273) whose registered office is 5th Floor, Brettenden House South, Lancaster Place, London, WC2E 7EN or such other organisation as is licensed from time to time under sections 5 and 6 of the Transport Act 2000 to provide air traffic services in an area which include the authorised development.
 
-#### 17. Lighting[^key-faa7a359c86661717a572b1b20f27527]
+#### 17. Lighting[^c-faa7a359c86661717a572b1b20f27527]
 
 The undertaker shall exhibit such lights, with such shape, colour and character as are required by Air Navigation Order 2009[^f00010], or as directed by the CAA.
 
-**18.**[^key-e39a602dd9d74fbbabb2782f3bb55f53] (1) Each wind turbine generator forming part of the authorised development shall exhibit day and night a light with a luminous intensity of a maximum of 2000 candela and not less than 200 candela.
+**18.**[^c-e39a602dd9d74fbbabb2782f3bb55f53] (1) Each wind turbine generator forming part of the authorised development shall exhibit day and night a light with a luminous intensity of a maximum of 2000 candela and not less than 200 candela.
 
 (2) The Requirement in sub-paragraph (1) shall not apply to the illumination of any wind turbine generator in respect of which the Secretary of State following consultation with the Ministry of Defence shall have dispensed with such requirement or shall have specified alternative lighting requirements in writing.
 
-#### 19. Onshore traffic management[^key-f930ae6016d445e3f16c332fd9f9da06]
+#### 19. Onshore traffic management[^c-f930ae6016d445e3f16c332fd9f9da06]
 
 (1) No authorised development or part of the authorised development shall commence until a traffic management plan for the onshore port-related traffic to and from the selected port or ports for construction and/or operation of the authorised development, and relating to the authorised development, has been submitted to and approved in writing by the relevant planning authority in consultation with the relevant highway authority. The traffic management plans shall be implemented as approved at all times specified within the traffic management plan during the construction and/or operation of the authorised development, unless otherwise agreed by the relevant planning authority.
 
@@ -361,7 +361,7 @@ The undertaker shall exhibit such lights, with such shape, colour and character 
 
 (3) For the purposes of this requirement “selected port” or “ports” means a port or ports situated in England and/or Wales.
 
-#### 20. Aggregates dredging[^key-c972a3b3b47b3ace14bfdc0bd227122b]
+#### 20. Aggregates dredging[^c-c972a3b3b47b3ace14bfdc0bd227122b]
 
 (1) No part of the authorised development shall commence south of a line shown on the Works plan proceeding from point 1 to point 4 in sequence and lying 1,000 metres from the boundary of the active dredging area within the Humber Region Licensed Marine Aggregates Dredging Area 440 unless the Secretary of State has first approved a scheme of mitigation of impacts on aggregates dredging activity. Points 1 to 4 are specified below—
 
@@ -375,19 +375,19 @@ The undertaker shall exhibit such lights, with such shape, colour and character 
 (3) In this requirement—
 
 - “scheme of mitigation” means measures to maintain a construction restriction zone of 500 metres from the nearest wind farm structure where no aggregate dredging activity or aggregate dredging vessel manoeuvring will take place; and operational restriction zones extending 500 metres from the nearest wind farm structure where dredging vessel manoeuvring must not take place or extending 1,000 metres from the nearest wind farm structure where aggregate dredging activity may take place at some or all tidal states dependent on the aggregate dredging vessel hopper capacity;
-- “Wind farm structure” means any wind turbine generator, high-voltage, direct current[^key-e72d862eabda118389370c6643226ed6]... collector substation, [^key-e72d862eabda118389370c6643226ed6]... [^key-e72d862eabda118389370c6643226ed6]... or cabling or other works comprised in the authorised development.
+- “Wind farm structure” means any wind turbine generator, high-voltage, direct current[^c-e72d862eabda118389370c6643226ed6]... collector substation, [^c-e72d862eabda118389370c6643226ed6]... [^c-e72d862eabda118389370c6643226ed6]... or cabling or other works comprised in the authorised development.
 
-#### 21. Pipeline or cable crossings[^key-010ef0db473f9662c499331817835638]
+#### 21. Pipeline or cable crossings[^c-010ef0db473f9662c499331817835638]
 
 (1) No part of the authorised development involving any pipeline and/or cable crossings shall commence unless and until the undertaker has ensured beforehand that the proposals and specifications for the pipeline and cable crossings meet the relevant statutory undertakers’ safety standards in respect of that pipeline or cable crossing.
 
 (2) On written request from the MMO the undertaker shall provide to the MMO copies of any documents and/or correspondence in relation to steps the undertaker has taken in compliance with sub-paragraph (1), subject to no more than four requests per calendar year.
 
-#### 22. Offshore decommissioning[^key-a007819e412ed576aee31cb9a4ab6379]
+#### 22. Offshore decommissioning[^c-a007819e412ed576aee31cb9a4ab6379]
 
 No authorised development shall commence until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) of the 2004 Act has been submitted to the Secretary of State for approval.
 
-#### 23. Requirement for written approval[^key-62606705fc74a04a82d4706cd106f4b6]
+#### 23. Requirement for written approval[^c-62606705fc74a04a82d4706cd106f4b6]
 
 Where under any of the above Requirements the approval or agreement of the Secretary of State, the relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
@@ -397,7 +397,7 @@ Article 8
 
 ### PART 1 — Licensed Marine Activities
 
-#### 1. Interpretation[^key-a509e6c3576f1fe2aef7a78494565724]
+#### 1. Interpretation[^c-a509e6c3576f1fe2aef7a78494565724]
 
 (1) In this licence—
 
@@ -563,7 +563,7 @@ NR33 0HT
 
 Tel: 01502 573 149.
 
-#### 2. Details of licensed marine activities[^key-bcd8cd0af169a2a08c6e2a3986c57601]
+#### 2. Details of licensed marine activities[^c-bcd8cd0af169a2a08c6e2a3986c57601]
 
 (1) Subject to the licence conditions, this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) of the 2009 Act,—
 
@@ -608,11 +608,11 @@ and in connection with such Work Nos. 1 to 2, to the extent that they do not oth
 - (f) material extracted from within the offshore Order limits during construction drilling; and
 - (g) marine coatings, other chemicals and timber.
 
-**3.**[^key-c363699ab392de18f17b3f067547c162] This licence shall remain in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the 2004 Act, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
+**3.**[^c-c363699ab392de18f17b3f067547c162] This licence shall remain in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the 2004 Act, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
 ### PART 2 — Conditions
 
-#### 1. Design parameters for wind turbines[^key-181d98d8ff9abb2db73f5da571248fa2]
+#### 1. Design parameters for wind turbines[^c-181d98d8ff9abb2db73f5da571248fa2]
 
 (1) No wind turbine generator forming part of the authorised scheme shall—
 
@@ -624,7 +624,7 @@ and in connection with such Work Nos. 1 to 2, to the extent that they do not oth
 
 (2) In sub-paragraph (1),references to the location of a wind turbine generator are references to the centre point of that turbine.
 
-#### 2. Further offshore design requirements[^key-06808b4ef693afa2a19d1e1f48371e02]
+#### 2. Further offshore design requirements[^c-06808b4ef693afa2a19d1e1f48371e02]
 
 No wind turbine generator, HVDC substation, large HVDC substation, collector substation, combined substation or meteorological station forming part of the authorised development shall be erected within the areas hatched black on the Works plan, whose coordinates are specified below—
 
@@ -635,7 +635,7 @@ Coordinates for restricted build area
 | 1 | 53° 26′ 33.465″ N | 0° 49′ 43.804″ E | 2 | 53° 26′ 50.747″ N | 0° 48′ 50.232″ E |
 | 3 | 53° 29′ 53.970″ N | 0° 54′ 07.524″ E | 4 | 53° 29′ 24.316″ N | 0° 54′ 38.088″ E |
 
-**3.**[^key-cdafc6ef368d90403d9efcb8234a9c08] (1) The total number of offshore substations forming part of the authorised development shall not exceed eight, comprising either—
+**3.**[^c-cdafc6ef368d90403d9efcb8234a9c08] (1) The total number of offshore substations forming part of the authorised development shall not exceed eight, comprising either—
 
 - (a) up to four collector stations and up to four HVDC substations, or
 - (b) up to four collector stations and up to two large HVDC substations, or
@@ -655,11 +655,11 @@ Coordinates for restricted build area
 
 (8) No meteorological station shall have more than one supporting foundation.
 
-**4.**[^key-8f8f298b612c0a42e81baad9fda2d1b9] (1) The total length of the cables comprising Work No. 1(c) shall not exceed 475 kilometres.
+**4.**[^c-8f8f298b612c0a42e81baad9fda2d1b9] (1) The total length of the cables comprising Work No. 1(c) shall not exceed 475 kilometres.
 
 (2) The total length of cables comprising Work No. 1(c) which may be armoured with rock or stone shall not exceed 4,750 metres and such armouring shall not exceed 10,000 metres<sup>3</sup>.
 
-**5.**[^key-ccc9cf1b3e54718d2fc8a6e3e87c0c8e] (1) No steel monopile foundation forming part of the authorised scheme shall—
+**5.**[^c-ccc9cf1b3e54718d2fc8a6e3e87c0c8e] (1) No steel monopile foundation forming part of the authorised scheme shall—
 
 - (a) in the case of a steel monopile foundation have a diameter of more than 7 metres for use with meteorological stations and for use in all other instances a diameter of more than 8.5 metres; and
 - (b) in the case of a concrete monopile foundation have a diameter of more than 8.5 metres for use with meteorological stations and for use in all other instances a diameter of more than 10.5 metres.
@@ -694,7 +694,7 @@ Coordinates for restricted build area
 - (e) a column diameter of more than 8 metres;
 - (f) a suction can which is more than 14 metres in diameter.
 
-#### 6. Notifications and inspections[^key-d948b068a78add42abc6f3944a592e52]
+#### 6. Notifications and inspections[^c-d948b068a78add42abc6f3944a592e52]
 
 (1) The undertaker shall ensure that—
 
@@ -728,7 +728,7 @@ Coordinates for restricted build area
 - (a) the Hydrographic Office of both the progress and completion of the authorised scheme in order that all necessary amendments to nautical charts are made; and
 - (b) the MMO, MCA and Trinity House once the authorised scheme is completed and any required lighting or marking has been established.
 
-#### 7. Chemicals, drilling and debris[^key-101fa5a56f7449108edc3f0b1a86b25d]
+#### 7. Chemicals, drilling and debris[^c-101fa5a56f7449108edc3f0b1a86b25d]
 
 (1) Unless otherwise agreed in writing by the MMO, all chemicals used in the construction of the authorised scheme, including any chemical agents placed within any monopile void, shall be selected from the List of Notified Chemicals approved for use by the offshore oil and gas industry under the Offshore Chemicals Regulations 2002[^f00015] unless otherwise agreed in writing by the MMO.
 
@@ -759,11 +759,11 @@ Coordinates for restricted build area
 
 (11) The undertaker shall ensure that only inert material of natural origin, produced during the drilling installation of monopiles or jacket pin foundations, and drilling mud shall be disposed of within the Order Limits. Any other materials shall be screened out before disposal at this site.
 
-#### 8. Force majeure[^key-7136236d81dd022c75a6aa31aa3875b0]
+#### 8. Force majeure[^c-7136236d81dd022c75a6aa31aa3875b0]
 
 If, due to stress of weather or any other cause the master of a vessel determines that it is necessary to deposit the authorised deposits outside of the Order limits because the safety of human life and/or of the vessel is threatened, within 48 hours full details of the circumstances of the deposit shall be notified to the MMO. The unauthorised deposits shall be removed at the expense of the undertaker unless written approval is obtained from the MMO.
 
-#### 9. Pre-construction plans and documentation[^key-5725ec3327a2155d10165029e37ff9c3]
+#### 9. Pre-construction plans and documentation[^c-5725ec3327a2155d10165029e37ff9c3]
 
 (1) The licensed activities shall not commence until the following have been submitted to and approved in writing by the MMO.
 
@@ -835,13 +835,13 @@ to ensure conformity with the description of Work Nos. 1 and 2 and compliance wi
 - (f) archiving of archaeological material, inclusive of any completed and agreed archaeological reports produced through the WSI which are to be deposited by the undertaker within a public archive in accordance with the OASIS (Online AccesS to the Index of archaeological investigationS’) system; and
 - (g) a reporting and recording protocol, including reporting of any wreck or wreck material during construction, operation and decommissioning of the authorised scheme.
 
-**10.**[^key-5b0e713b45797bbca8dd32ccc05248cc] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 9 shall be submitted for approval at least four months prior to the intended start of construction, except where otherwise stated or unless otherwise agreed in writing by the MMO.
+**10.**[^c-5b0e713b45797bbca8dd32ccc05248cc] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 9 shall be submitted for approval at least four months prior to the intended start of construction, except where otherwise stated or unless otherwise agreed in writing by the MMO.
 
 (2) The licensed activities shall be carried out in accordance with the approved plans, protocols, statements, schemes and details approved under condition 9, unless otherwise agreed in writing by the MMO.
 
 (3) No part of this licence authorises any part of the authorised scheme extending beyond the detailed design parameters at conditions 1 to 5.
 
-#### 11. Reporting of engaged agents, contractors and vessels[^key-9afb41dd9776c4db9af9e44aa8a75f7a]
+#### 11. Reporting of engaged agents, contractors and vessels[^c-9afb41dd9776c4db9af9e44aa8a75f7a]
 
 (1) The undertaker shall provide the following information to the MMO—
 
@@ -850,7 +850,7 @@ to ensure conformity with the description of Work Nos. 1 and 2 and compliance wi
 
 (2) Any changes to the supplied details must be notified to the MMO in writing prior to the agent, contractor or vessel engaging in the licensed activities. All agents, contractors and/or vessel operators will abide by the conditions set out in this licence.
 
-#### 12. Equipment and operation of vessels engaged in licensed activities[^key-b48c6f17e2cd83613155d2e12585d82f]
+#### 12. Equipment and operation of vessels engaged in licensed activities[^c-b48c6f17e2cd83613155d2e12585d82f]
 
 (1) All vessels employed to perform the licensed activities shall be constructed and equipped to be capable of the proper performance of such activities in accordance with the conditions of this licence and (save in the case of remotely operated vehicles or vessels) shall comply with sub-paragraphs (2) to (7).
 
@@ -871,7 +871,7 @@ to ensure conformity with the description of Work Nos. 1 and 2 and compliance wi
 
 (7) No vessel shall engage in the licensed activities until all the equipment specified in sub-paragraph (2) is fully operational.
 
-#### 13. Pre-construction monitoring[^key-9872d6cb92dab3db9c4b2f51fd24d68e]
+#### 13. Pre-construction monitoring[^c-9872d6cb92dab3db9c4b2f51fd24d68e]
 
 (1) The undertaker shall, in discharging condition 9(3), submit details for written approval by the MMO, in consultation with Natural England and JNCC, of proposed pre-construction surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report. The survey proposals shall specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the post-construction position and/or will enable the validation or otherwise of key predictions in the environmental statement. The baseline report proposals shall ensure that the outcome of the agreed surveys together with existing data and reports are drawn together to present a valid statement of the pre-construction position, with any limitations, and shall make clear what post-construction comparison is intended and the justification for this being required.
 
@@ -885,13 +885,13 @@ to ensure conformity with the description of Work Nos. 1 and 2 and compliance wi
 
 (3) The undertaker shall carry out the surveys approved under sub-paragraph (1) and provide the baseline report to the MMO in the agreed format in accordance within the agreed timetable, unless otherwise agreed in writing by the MMO, in consultation with Natural England and JNCC.
 
-#### 14. Construction monitoring[^key-c72a2cb9077426bf4f6462fb323acca6]
+#### 14. Construction monitoring[^c-c72a2cb9077426bf4f6462fb323acca6]
 
 (1) Unless otherwise agreed, the undertaker shall, in discharging condition 9(3), submit details for approval by the MMO in consultation with Natural England and JNCC of any proposed surveys or monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme. The details of the construction monitoring shall be submitted at least four months prior to the commencement of any survey works and provide the agreed reports in the agreed format in accordance within the agreed timetable, unless otherwise agreed in writing with the MMO in consultation with Natural England and JNCC. The survey proposals shall specify each survey’s objectives. In any event, such monitoring shall, where driven or part-driven pile foundations are proposed to be used, include monitored background noise measurements (during periods when piling is not being undertaken) and measurements of noise generated by the installation of the first four monopile foundations. The results of the initial noise measurements shall be provided to the MMO within four weeks of the installation of the last of the four piles. The assessment of this report by the MMO shall determine whether any further noise monitoring is required.
 
 (2) The construction surveys referred to in sub-paragraph (1) shall also have due regard to, but not be limited to, the need to undertake monitoring of marine mammals as part of a marine mammal mitigation protocol under condition 9(7)(g).
 
-#### 15. Post construction surveys[^key-abb0536643e541e32e356aadaf8a5fdf]
+#### 15. Post construction surveys[^c-abb0536643e541e32e356aadaf8a5fdf]
 
 (1) The undertaker shall, in discharging condition 9(3) submit details for written approval by the MMO in consultation with Natural England and JNCC of proposed post-construction surveys, including methodologies and timings, and a proposed format, content and timings for providing reports on the results at least four months prior to the commencement of any survey works detailed within. The survey proposals shall specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the environmental statement.
 
@@ -905,7 +905,7 @@ to ensure conformity with the description of Work Nos. 1 and 2 and compliance wi
 
 (3) The undertaker shall carry out the surveys approved under sub-paragraph (1) for a period of 3 years post-construction and provide the agreed reports in the agreed format in accordance with the agreed timetable, unless otherwise agreed in writing with the MMO in consultation with Natural England and JNCC.
 
-#### 16. Herring spawning[^key-2582eb8f3af158fddf289de0ef2b2dbf]
+#### 16. Herring spawning[^c-2582eb8f3af158fddf289de0ef2b2dbf]
 
 No pile driving works shall be carried out by or on behalf of the undertaker as part of or in relation to the authorised scheme between 1st September and 16th October each year unless the MMO provides written confirmation to the undertaker beforehand that such works can take place, in all or in a specified part of the site, during this period or a part of this period.
 
@@ -927,9 +927,9 @@ The Order also grants a deemed marine licence for the marine licensable activiti
 
 [^f00004]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103), amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635).
 
-[^key-4f8ce678496a34c872753adf7cca5fd1]: Commencement: Art. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-4f8ce678496a34c872753adf7cca5fd1]: Commencement: Art. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-4c0dd14cafcfe54b7a59610ab41dca35]: Commencement: Art. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-4c0dd14cafcfe54b7a59610ab41dca35]: Commencement: Art. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
 [^f00005]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). There are amendments to the 1990 Act which are not relevant to this Order.
 
@@ -937,145 +937,145 @@ The Order also grants a deemed marine licence for the marine licensable activiti
 
 [^f00007]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-fcc9878609d28b2b64a0d4653f3b9259]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/929/article/3/3)
+[^c-fcc9878609d28b2b64a0d4653f3b9259]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/929/article/3/3)
 
-[^key-2a66ec3f5ca41d1dcac106a1b7076779]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/a)
+[^c-2a66ec3f5ca41d1dcac106a1b7076779]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/a)
 
-[^key-975645ba22e99153ad57a308895d6510]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/b)
+[^c-975645ba22e99153ad57a308895d6510]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/b)
 
-[^key-5cb3bab7fda10b67c6bcc943e3b4e0af]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/c)
+[^c-5cb3bab7fda10b67c6bcc943e3b4e0af]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/c)
 
-[^key-266f2a3c48bd91f16c5ede9d32e0c73b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/929/article/3/4)
+[^c-266f2a3c48bd91f16c5ede9d32e0c73b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/929/article/3/4)
 
-[^key-15ff176cce2476fcbb5d026d687bbf3d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/d)
+[^c-15ff176cce2476fcbb5d026d687bbf3d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/d)
 
-[^key-f26e236e267d1d932573f3b7c889a0ac]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/e)
+[^c-f26e236e267d1d932573f3b7c889a0ac]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2018/929/article/3/2/e)
 
 [^f00008]: Footnote: [S.I. 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668).
 
-[^key-94536503227bb92bb64fe35ddc7bb149]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/929/article/3/5)
+[^c-94536503227bb92bb64fe35ddc7bb149]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2013/1734/article/2) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/929/article/3/5)
 
-[^key-b1538ad33efa60472b05c5212429d320]: Commencement: Art. 3 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-b1538ad33efa60472b05c5212429d320]: Commencement: Art. 3 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-aaa8be1a9509f370acea1bacc6e32a4d]: Commencement: Art. 4 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-aaa8be1a9509f370acea1bacc6e32a4d]: Commencement: Art. 4 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-ff27b331c1c6ac8d96893747ce816bdc]: Commencement: Art. 5 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-ff27b331c1c6ac8d96893747ce816bdc]: Commencement: Art. 5 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-24e1e9b9cc8a694d061ba0bfc8ddbee6]: Commencement: Art. 6 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-24e1e9b9cc8a694d061ba0bfc8ddbee6]: Commencement: Art. 6 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-60ec3a48e184c7a3a6fb94ee5a672ab0]: Commencement: Art. 7 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-60ec3a48e184c7a3a6fb94ee5a672ab0]: Commencement: Art. 7 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-707ac9d04545750790a21e17ec05cb80]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2013/1734/article/7) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [4](https://www.legislation.gov.uk/uksi/2018/929/article/4)
+[^c-707ac9d04545750790a21e17ec05cb80]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2013/1734/article/7) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [4](https://www.legislation.gov.uk/uksi/2018/929/article/4)
 
-[^key-134a63702227a43cffb8f23907fb47b5]: Commencement: Art. 8 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-134a63702227a43cffb8f23907fb47b5]: Commencement: Art. 8 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-420ac53a4e8a3a121abe43c15191e4bc]: Commencement: Art. 9 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-420ac53a4e8a3a121abe43c15191e4bc]: Commencement: Art. 9 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-159906df0433a9cdbd6efbadc4e38292]: Commencement: Art. 10 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-159906df0433a9cdbd6efbadc4e38292]: Commencement: Art. 10 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-307f4cb6907240319238c15e1f2b7304]: Commencement: Art. 11 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-307f4cb6907240319238c15e1f2b7304]: Commencement: Art. 11 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-57bd15855bbec5569c948f3e269d712b]: Commencement: Art. 12 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-57bd15855bbec5569c948f3e269d712b]: Commencement: Art. 12 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-db4409b1c5e39f85b19cdabea217a235]: Commencement: Sch. 1 Pt. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-db4409b1c5e39f85b19cdabea217a235]: Commencement: Sch. 1 Pt. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-c5c63470ee92df8d960d95d12c844cf6]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/929/article/5/2)
+[^c-c5c63470ee92df8d960d95d12c844cf6]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/929/article/5/2)
 
-[^key-1247fdd609fa8860532281619443ceb5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/929/article/5/3)
+[^c-1247fdd609fa8860532281619443ceb5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/929/article/5/3)
 
-[^key-507731ddc63895934d32e72df3d59261]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/929/article/5/4)
+[^c-507731ddc63895934d32e72df3d59261]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/929/article/5/4)
 
-[^key-f2558b68be5786afcd98d64452701872]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/929/article/5/5)
+[^c-f2558b68be5786afcd98d64452701872]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/929/article/5/5)
 
-[^key-4739161a17e66ecc8b80e54c31c8fac0]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2018/929/article/5/6)
+[^c-4739161a17e66ecc8b80e54c31c8fac0]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2018/929/article/5/6)
 
-[^key-b5174e9b431f2751151d4b593d25324b]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2018/929/article/5/7/a)
+[^c-b5174e9b431f2751151d4b593d25324b]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(7)(a)](https://www.legislation.gov.uk/uksi/2018/929/article/5/7/a)
 
-[^key-891bca22fd52bfcbb71281c035370c99]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2018/929/article/5/7/b)
+[^c-891bca22fd52bfcbb71281c035370c99]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(7)(b)](https://www.legislation.gov.uk/uksi/2018/929/article/5/7/b)
 
-[^key-5855cf36acc5ed5ca3ecb1cacc978427]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/929/article/5/8)
+[^c-5855cf36acc5ed5ca3ecb1cacc978427]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(8)](https://www.legislation.gov.uk/uksi/2018/929/article/5/8)
 
-[^key-8868a438abc0afa3a81142730a9a5b78]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(9)](https://www.legislation.gov.uk/uksi/2018/929/article/5/9)
+[^c-8868a438abc0afa3a81142730a9a5b78]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [5(9)](https://www.legislation.gov.uk/uksi/2018/929/article/5/9)
 
-[^key-5cd176dd5c21076000eee21207d364c8]: Commencement: Sch. 1 Pt. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-5cd176dd5c21076000eee21207d364c8]: Commencement: Sch. 1 Pt. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-8cf029c7e188458c30f809c4d48a565e]: Commencement: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/1) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-8cf029c7e188458c30f809c4d48a565e]: Commencement: [Sch. 1 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/1) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
 [^f00009]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-d66e9f36d0df0dbfc022a4b6d2b3595f]: Commencement: [Sch. 1 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/2) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-d66e9f36d0df0dbfc022a4b6d2b3595f]: Commencement: [Sch. 1 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/2) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-c82c27b36ca6a79e4a628e33bdc06c98]: Commencement: [Sch. 1 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/3) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-c82c27b36ca6a79e4a628e33bdc06c98]: Commencement: [Sch. 1 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/3) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-101a8b779b73d4d5fd6169008bc02c21]: Commencement: [Sch. 1 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/4) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-101a8b779b73d4d5fd6169008bc02c21]: Commencement: [Sch. 1 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/part/3/paragraph/4) in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-7067c32eb070c88982c18cf49afb30f4]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/4) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/929/article/6/2)
+[^c-7067c32eb070c88982c18cf49afb30f4]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/4) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/929/article/6/2)
 
-[^key-2b9cdd7be8864c97db9dcf3794125b7c]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-2b9cdd7be8864c97db9dcf3794125b7c]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-880ab11f206f0066ca747194437e35bb]: Textual amendment: [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
+[^c-880ab11f206f0066ca747194437e35bb]: Textual amendment: [Sch. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/1) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
 
-[^key-f434461983804e1f91b8e4060d5534ef]: Textual amendment: [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/3) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
+[^c-f434461983804e1f91b8e4060d5534ef]: Textual amendment: [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/3) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
 
-[^key-ae1285061f9e2cadb6e389e335c72459]: Textual amendment: [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/4) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
+[^c-ae1285061f9e2cadb6e389e335c72459]: Textual amendment: [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/4) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
 
-[^key-5028c29235142d0e96ce461f6f5647b9]: Textual amendment: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/5) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
+[^c-5028c29235142d0e96ce461f6f5647b9]: Textual amendment: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/5) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
 
-[^key-adb15741beb50aeab243b8b947a6ddb9]: Textual amendment: Words in [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/6) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/929/article/6/4)
+[^c-adb15741beb50aeab243b8b947a6ddb9]: Textual amendment: Words in [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/6) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/929/article/6/4)
 
-[^key-5c769cdaa49bc7f69a432fdd78749ce6]: Textual amendment: [Sch. 1 para. 5(7)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/7) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
+[^c-5c769cdaa49bc7f69a432fdd78749ce6]: Textual amendment: [Sch. 1 para. 5(7)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/7) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
 
-[^key-00c9516213322fcd03e700ba0228fe5c]: Textual amendment: [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/8) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
+[^c-00c9516213322fcd03e700ba0228fe5c]: Textual amendment: [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/5/8) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/929/article/6/3)
 
-[^key-e0ab305dadbe4ffb4c6000b996f45b09]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-e0ab305dadbe4ffb4c6000b996f45b09]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-32f0162b29b8af13382cfba89ee71b24]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-32f0162b29b8af13382cfba89ee71b24]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-040792aa751a3606247b7af391b1671c]: Textual amendment: Words in [Sch. 1 para. 7(1)(a)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/1/a) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/929/article/6/5)
+[^c-040792aa751a3606247b7af391b1671c]: Textual amendment: Words in [Sch. 1 para. 7(1)(a)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/1/a) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/929/article/6/5)
 
-[^key-0d44850882765c1db904b1d55304ea7c]: Textual amendment: Words in [Sch. 1 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/1/b) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2018/929/article/6/6)
+[^c-0d44850882765c1db904b1d55304ea7c]: Textual amendment: Words in [Sch. 1 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/1/b) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(6)](https://www.legislation.gov.uk/uksi/2018/929/article/6/6)
 
-[^key-cebf78305cef5e02fe5c387b44cbaa0a]: Textual amendment: Words in [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/2/a) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(7)](https://www.legislation.gov.uk/uksi/2018/929/article/6/7)
+[^c-cebf78305cef5e02fe5c387b44cbaa0a]: Textual amendment: Words in [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/2/a) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(7)](https://www.legislation.gov.uk/uksi/2018/929/article/6/7)
 
-[^key-59ec6e8094c661ae44fad635c9814b11]: Textual amendment: [Sch. 1 para. 7(3)(d)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/3/d) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2018/929/article/6/8)
+[^c-59ec6e8094c661ae44fad635c9814b11]: Textual amendment: [Sch. 1 para. 7(3)(d)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/7/3/d) substituted (6.8.2018) by [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2018/929/article/6/8)
 
-[^key-162f103ace61a138f7dc98629f6f4897]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-162f103ace61a138f7dc98629f6f4897]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-3fd86a0bedb257e2245a338abc4997c3]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-3fd86a0bedb257e2245a338abc4997c3]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-4183105c6acfa52e95929dc20610e305]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-4183105c6acfa52e95929dc20610e305]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-96639c7c7e5b7180c79656cb3be70840]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-96639c7c7e5b7180c79656cb3be70840]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-2246b09b69de0457e35cc77357176812]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-2246b09b69de0457e35cc77357176812]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-580953aaf3a34a7e0020b5028b6fa52f]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-580953aaf3a34a7e0020b5028b6fa52f]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-dd96e34019d3bd82d78b6578726d36c8]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-dd96e34019d3bd82d78b6578726d36c8]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-cbf0c7cf047aa161028354e51604cef7]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-cbf0c7cf047aa161028354e51604cef7]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-443e10dfa9ba5315507db4a946be206f]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-443e10dfa9ba5315507db4a946be206f]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-faa7a359c86661717a572b1b20f27527]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-faa7a359c86661717a572b1b20f27527]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
 [^f00010]: Footnote: [S.I. 2009/3015](https://www.legislation.gov.uk/uksi/2009/3015), to which there are amendments not relevant to this Order.
 
-[^key-e39a602dd9d74fbbabb2782f3bb55f53]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-e39a602dd9d74fbbabb2782f3bb55f53]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-f930ae6016d445e3f16c332fd9f9da06]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-f930ae6016d445e3f16c332fd9f9da06]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-c972a3b3b47b3ace14bfdc0bd227122b]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-c972a3b3b47b3ace14bfdc0bd227122b]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-e72d862eabda118389370c6643226ed6]: Textual amendment: Words in [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/20/3) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(9)](https://www.legislation.gov.uk/uksi/2018/929/article/6/9)
+[^c-e72d862eabda118389370c6643226ed6]: Textual amendment: Words in [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/uksi/2013/1734/schedule/1/paragraph/20/3) omitted (6.8.2018) by virtue of [The Triton Knoll Offshore Wind Farm (Amendment) Order 2018 (S.I. 2018/929)](https://www.legislation.gov.uk/uksi/2018/929), [arts. 1](https://www.legislation.gov.uk/uksi/2018/929/article/1), [6(9)](https://www.legislation.gov.uk/uksi/2018/929/article/6/9)
 
-[^key-010ef0db473f9662c499331817835638]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-010ef0db473f9662c499331817835638]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-a007819e412ed576aee31cb9a4ab6379]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-a007819e412ed576aee31cb9a4ab6379]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-62606705fc74a04a82d4706cd106f4b6]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-62606705fc74a04a82d4706cd106f4b6]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-a509e6c3576f1fe2aef7a78494565724]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-a509e6c3576f1fe2aef7a78494565724]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
 [^f00011]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -1085,40 +1085,40 @@ The Order also grants a deemed marine licence for the marine licensable activiti
 
 [^f00014]: Footnote: OJ No L 206, 22.7.93, p7.
 
-[^key-bcd8cd0af169a2a08c6e2a3986c57601]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-bcd8cd0af169a2a08c6e2a3986c57601]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-c363699ab392de18f17b3f067547c162]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-c363699ab392de18f17b3f067547c162]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-181d98d8ff9abb2db73f5da571248fa2]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-181d98d8ff9abb2db73f5da571248fa2]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-06808b4ef693afa2a19d1e1f48371e02]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-06808b4ef693afa2a19d1e1f48371e02]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-cdafc6ef368d90403d9efcb8234a9c08]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-cdafc6ef368d90403d9efcb8234a9c08]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-8f8f298b612c0a42e81baad9fda2d1b9]: Commencement: Sch. 2 para. 4 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-8f8f298b612c0a42e81baad9fda2d1b9]: Commencement: Sch. 2 para. 4 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-ccc9cf1b3e54718d2fc8a6e3e87c0c8e]: Commencement: Sch. 2 para. 5 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-ccc9cf1b3e54718d2fc8a6e3e87c0c8e]: Commencement: Sch. 2 para. 5 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-d948b068a78add42abc6f3944a592e52]: Commencement: Sch. 2 para. 6 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-d948b068a78add42abc6f3944a592e52]: Commencement: Sch. 2 para. 6 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-101fa5a56f7449108edc3f0b1a86b25d]: Commencement: Sch. 2 para. 7 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-101fa5a56f7449108edc3f0b1a86b25d]: Commencement: Sch. 2 para. 7 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
 [^f00015]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355) as amended by [S.I. 2011/982](https://www.legislation.gov.uk/uksi/2011/982).
 
-[^key-7136236d81dd022c75a6aa31aa3875b0]: Commencement: Sch. 2 para. 8 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-7136236d81dd022c75a6aa31aa3875b0]: Commencement: Sch. 2 para. 8 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-5725ec3327a2155d10165029e37ff9c3]: Commencement: Sch. 2 para. 9 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-5725ec3327a2155d10165029e37ff9c3]: Commencement: Sch. 2 para. 9 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-5b0e713b45797bbca8dd32ccc05248cc]: Commencement: Sch. 2 para. 10 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-5b0e713b45797bbca8dd32ccc05248cc]: Commencement: Sch. 2 para. 10 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-9afb41dd9776c4db9af9e44aa8a75f7a]: Commencement: Sch. 2 para. 11 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-9afb41dd9776c4db9af9e44aa8a75f7a]: Commencement: Sch. 2 para. 11 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-b48c6f17e2cd83613155d2e12585d82f]: Commencement: Sch. 2 para. 12 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-b48c6f17e2cd83613155d2e12585d82f]: Commencement: Sch. 2 para. 12 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-9872d6cb92dab3db9c4b2f51fd24d68e]: Commencement: Sch. 2 para. 13 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-9872d6cb92dab3db9c4b2f51fd24d68e]: Commencement: Sch. 2 para. 13 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-c72a2cb9077426bf4f6462fb323acca6]: Commencement: Sch. 2 para. 14 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-c72a2cb9077426bf4f6462fb323acca6]: Commencement: Sch. 2 para. 14 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-abb0536643e541e32e356aadaf8a5fdf]: Commencement: Sch. 2 para. 15 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-abb0536643e541e32e356aadaf8a5fdf]: Commencement: Sch. 2 para. 15 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
 
-[^key-2582eb8f3af158fddf289de0ef2b2dbf]: Commencement: Sch. 2 para. 16 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)
+[^c-2582eb8f3af158fddf289de0ef2b2dbf]: Commencement: Sch. 2 para. 16 in force at 12.7.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1734/article/1)

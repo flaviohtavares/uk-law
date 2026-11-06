@@ -24,9 +24,9 @@ summary: ''
 
 (2) In that Schedule—
 
-- [^key-be596851e3c8d13d3399a27c5809dfda]...
+- [^c-be596851e3c8d13d3399a27c5809dfda]...
 - Part 2 makes amendments relating to the corporate venturing scheme.
 
 ## Annotations
 
-[^key-be596851e3c8d13d3399a27c5809dfda]: Textual amendment: Words in s. 64(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-be596851e3c8d13d3399a27c5809dfda]: Textual amendment: Words in s. 64(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

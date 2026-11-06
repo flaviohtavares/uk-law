@@ -45,11 +45,11 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 36C(2) and (6) and 60 of the Electricity Act 1989 [^c23593341], make the following Regulations:
 
-## 1. Title and commencement[^key-44013047ae2d137436e5e2731cf73830]
+## 1. Title and commencement[^c-44013047ae2d137436e5e2731cf73830]
 
 The title of these Regulations is the Electricity (Offshore Generating Stations) (Variation of Consents) (Wales) Regulations 2019 and they come into force on 1 April 2019.
 
-## 2. Interpretation[^key-d21502af1efc1f443c48a9be9ca47617]
+## 2. Interpretation[^c-d21502af1efc1f443c48a9be9ca47617]
 
 In these Regulations—
 
@@ -59,17 +59,17 @@ In these Regulations—
 - “**applicant**” (“***ceisydd***”) means a person who has the benefit of a section 36 consent and makes a variation application in respect of it;
 - “**development**” (“***datblygiad***”) has the meaning given in section 55 of the 1990 Act [^c23593371] (meaning of “**development**” and “**new development**”);
 - “**generating station**” (“***gorsaf gynhyrchu***”) includes a proposed generating station [^c23593381];
-- “[^key-b47f98c365986026af91dde008d9a80c]**infrastructure consent development**” (“***datblygiad cydsyniad seilwaith***”) means any development associated with the relevant section 36 consent in respect of which—
+- “[^c-b47f98c365986026af91dde008d9a80c]**infrastructure consent development**” (“***datblygiad cydsyniad seilwaith***”) means any development associated with the relevant section 36 consent in respect of which—
   - (a) an order under section 60(1) or 90(1) of the Infrastructure (Wales) Act 2024 has been granted; or
   - (b) the applicant, on making a variation application, is making an application for consent under the provisions of the Infrastructure (Wales) Act 2024;
 - “**proposed development**” (“***datblygiad arfaethedig***”) means—
   - (a) the generating station, or extension of a generating station, which the applicant would be authorised to construct under a relevant section 36 consent if that consent were varied as requested in a variation application;
-  - (b) the way in which a generating station so constructed or extended would be authorised to be operated under the relevant section 36 consent as so varied; [^key-d68089c5a1ab5cb99aaf474d69d69c54]...
-  - (c) any section 90 development in respect of which section 36 consent is not required; ; and[^key-77aa20777b9fff0d43f4561188c2ef28]
+  - (b) the way in which a generating station so constructed or extended would be authorised to be operated under the relevant section 36 consent as so varied; [^c-d68089c5a1ab5cb99aaf474d69d69c54]...
+  - (c) any section 90 development in respect of which section 36 consent is not required; ; and[^c-77aa20777b9fff0d43f4561188c2ef28]
   - (d) any infrastructure consent development in respect for which section 36 consent is not required;
 - “**relevant planning authority**” (“***awdurdod cynllunio perthnasol***”) means in the case of a variation application, or a request for a section 90 direction which accompanies the variation application, any of the following bodies—
   - (a) a local planning authority (within the meaning of Part 1 of the 1990 Act (local planning authorities: general)) in England and Wales;
-  - (b) a district council[^key-4a38d6629c75b212bf403bea8faeae41] in Northern Ireland,
+  - (b) a district council[^c-4a38d6629c75b212bf403bea8faeae41] in Northern Ireland,
 
   which are identified by the applicant under regulation 3(1)(e) or by the Welsh Ministers under regulation 4(7);
 - “**relevant section 36 consent**” (“***cydsyniad adran 36 perthnasol***”) means the section 36 consent in respect of which a variation application is made;
@@ -80,7 +80,7 @@ In these Regulations—
 - “**section 90 direction**” (“***cyfarwyddyd adran 90***”) means a direction under section 90(2) or (2ZA) of the 1990 Act [^c23593401] (deemed planning permission for development with government authorisation);
 - “**variation application**” (“***cais amrywio***”) means an application to the Welsh Ministers to vary a section 36 consent made under section 36C(1) of the Act.
 
-## 3. Content of variation applications[^key-369576ddea04a1e072734b32b0ae6072]
+## 3. Content of variation applications[^c-369576ddea04a1e072734b32b0ae6072]
 
 (1) A variation application must—
 
@@ -98,9 +98,9 @@ In these Regulations—
 
 - (a) the relevant section 36 consent, and, if that consent was not granted to the applicant, how the applicant has the benefit of that consent;
 - (b) any section 90 direction given on granting the relevant section 36 consent;
-- (c) any permit, licence, consent or other authorisation (other than the relevant section 36 consent) given in connection with the construction or operation of the proposed development (a “relevant authorisation”), including any variation or replacement of a relevant authorisation; [^key-c6e3d8eb1395f2f56657a195ebf12903]...
+- (c) any permit, licence, consent or other authorisation (other than the relevant section 36 consent) given in connection with the construction or operation of the proposed development (a “relevant authorisation”), including any variation or replacement of a relevant authorisation; [^c-c6e3d8eb1395f2f56657a195ebf12903]...
 - (d) any application that has been made for a relevant authorisation or variation of a relevant authorisation;
-- (e)[^key-39ca2d215e92ff173677a4e65171e0bb] any order granted under section 60(1) or 90(1) of the Infrastructure (Wales) Act 2024 associated with the relevant section 36 consent; and
+- (e)[^c-39ca2d215e92ff173677a4e65171e0bb] any order granted under section 60(1) or 90(1) of the Infrastructure (Wales) Act 2024 associated with the relevant section 36 consent; and
 - (f) any application submitted for, or for variation of, an infrastructure consent associated with the relevant section 36 consent, made in accordance with the provisions of the Infrastructure (Wales) Act 2024.
 
 (3) Where the applicant requests the Welsh Ministers to give a section 90 direction on varying the relevant section 36 consent, the application must—
@@ -115,7 +115,7 @@ In these Regulations—
     - (aa) referred to in the relevant section 36 consent or any section 90 direction given on granting the relevant section 36 consent; or
     - (bb) included in the application in accordance with paragraph (1)(d)(ii).
 
-## 4. Assessment of suitability for publication[^key-f456ba281c2d25360b1ced830fad0917]
+## 4. Assessment of suitability for publication[^c-f456ba281c2d25360b1ced830fad0917]
 
 (1) Where the Welsh Ministers receive a variation application, they must—
 
@@ -165,7 +165,7 @@ the Welsh Ministers must identify those bodies in the notice given under paragra
 - (a) “**EIA report**” has the meaning given in the EIA Regulations;
 - (b) a “refusal notice” is a notice that the Welsh Ministers have decided under section 36C(4) of the Act that it would not be appropriate to make any variation to the relevant section 36 consent.
 
-## 5. Publication[^key-87f7a2e20de42fc75687cbc9281e5e69]
+## 5. Publication[^c-87f7a2e20de42fc75687cbc9281e5e69]
 
 (1) Where an applicant has received a notice under regulation 4(6), the variation application must be published, and its publication advertised, in accordance with this regulation.
 
@@ -183,7 +183,7 @@ the Welsh Ministers must identify those bodies in the notice given under paragra
 
 - (a) in two successive weeks in one or more local newspapers which are likely to come to the attention of those likely to be affected by the proposed development;
 - (b) in the London Gazette;
-- (c) in Lloyd's List and in one or more newspapers circulating in Wales, England and Northern Ireland[^key-40a0e9564a3d26ab3ec8e7a49d70be9a]; and
+- (c) in Lloyd's List and in one or more newspapers circulating in Wales, England and Northern Ireland[^c-40a0e9564a3d26ab3ec8e7a49d70be9a]; and
 - (d) if there are in circulation one or more appropriate fishing trade journals which are published at intervals not exceeding one month, in at least one such trade journal.
 
 and serve a copy of the notice on the relevant planning authority (if any).
@@ -202,7 +202,7 @@ and serve a copy of the notice on the relevant planning authority (if any).
   - (iii) the generating station to which it relates; and
   - (iv) a place which is reasonably accessible to those likely to be affected by the proposed development where copies of the variation application may be inspected.
 
-## 6. Public inquiries into variation applications[^key-11f914231f542c8f95ad47f89012ed2a]
+## 6. Public inquiries into variation applications[^c-11f914231f542c8f95ad47f89012ed2a]
 
 (1) The Welsh Ministers may cause a public inquiry to be held into a variation application if they consider it appropriate to do so having considered—
 
@@ -215,17 +215,17 @@ and serve a copy of the notice on the relevant planning authority (if any).
 
 (2) If the Welsh Ministers cause a public inquiry to be held into a variation application they may do so in addition to or instead of any other hearing or opportunity to make representations about the application.
 
-## 7. Withdrawal of variation applications[^key-94ef4569e62be094adc6b67896a883d1]
+## 7. Withdrawal of variation applications[^c-94ef4569e62be094adc6b67896a883d1]
 
 (1) An applicant may withdraw a variation application at any time by notice in writing to the Welsh Ministers.
 
 (2) If a variation application is withdrawn after it has been published in accordance with regulation 5, the Welsh Ministers must notify the relevant planning authority and the consultation bodies within the meaning of the EIA Regulations that it has been withdrawn.
 
-## 8. Allowing further time[^key-d48412bdf23d001a30cc44bbc54fc42b]
+## 8. Allowing further time[^c-d48412bdf23d001a30cc44bbc54fc42b]
 
 The Welsh Ministers may in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these Regulations, and references in these Regulations to a day by which, or a period within which, any step is required or enabled to be taken are to be construed accordingly.
 
-## 9. Revocation[^key-342e63da976a0b3adf6e66f761ffab5d]
+## 9. Revocation[^c-342e63da976a0b3adf6e66f761ffab5d]
 
 The Electricity Generating Stations (Variation of Consents) (England and Wales) Regulations 2013 [^c23593441] are revoked so far as they apply to a variation application.
 
@@ -257,9 +257,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23593341]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 36C was inserted by section 20(1) and (2) of the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) (“**the 2013 Act**”) and was amended by section 39(12) of, and paragraph 48 of Schedule 6 to, the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) (“**the 2017 Act**”). Amendments to section 60 are not relevant to these Regulations.
 
-[^key-44013047ae2d137436e5e2731cf73830]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-44013047ae2d137436e5e2731cf73830]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
-[^key-d21502af1efc1f443c48a9be9ca47617]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-d21502af1efc1f443c48a9be9ca47617]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
 [^c23593351]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -269,42 +269,42 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23593381]: Marginal citation: *See* section 64(1) of the Electricity Act 1989 (“**the 1989 Act**”) for the interpretation of “generating station”.
 
-[^key-b47f98c365986026af91dde008d9a80c]: Textual amendment: Words in reg. 2 inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/2/a)
+[^c-b47f98c365986026af91dde008d9a80c]: Textual amendment: Words in reg. 2 inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/2/a)
 
-[^key-d68089c5a1ab5cb99aaf474d69d69c54]: Textual amendment: Word in reg. 2 omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/2/b/i)
+[^c-d68089c5a1ab5cb99aaf474d69d69c54]: Textual amendment: Word in reg. 2 omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/2/b/i)
 
-[^key-77aa20777b9fff0d43f4561188c2ef28]: Textual amendment: Words in reg. 2 inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/2/b/ii)
+[^c-77aa20777b9fff0d43f4561188c2ef28]: Textual amendment: Words in reg. 2 inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/2/b/ii)
 
-[^key-4a38d6629c75b212bf403bea8faeae41]: Textual amendment: Words in reg. 2 substituted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/3/2)
+[^c-4a38d6629c75b212bf403bea8faeae41]: Textual amendment: Words in reg. 2 substituted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/3/2)
 
 [^c23593391]: Marginal citation: Section 36 was amended by section 93 of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [paragraphs 31](https://www.legislation.gov.uk/ukpga/2004/20/paragraph/31) and 32 of Schedule 2 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [section 12(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/12/7) and (8) of the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [section 78](https://www.legislation.gov.uk/ukpga/2009/23/section/78) of the [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20) and section 39(7) to (11) of, and paragraph 47 of Schedule 6 to, the 2017 Act. Other amendments are not relevant to these Regulations.
 
 [^c23593401]: Marginal citation: Section 90(2) and (2ZA) were substituted by section 21(2) of the 2013 Act and were amended by section 39(13) of the 2017 Act.
 
-[^key-369576ddea04a1e072734b32b0ae6072]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-369576ddea04a1e072734b32b0ae6072]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
-[^key-c6e3d8eb1395f2f56657a195ebf12903]: Textual amendment: Word in reg. 3(2)(c) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(3)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/3/a)
+[^c-c6e3d8eb1395f2f56657a195ebf12903]: Textual amendment: Word in reg. 3(2)(c) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(3)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/3/a)
 
-[^key-39ca2d215e92ff173677a4e65171e0bb]: Textual amendment: Reg. 3(2)(e)(f) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(3)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/3/b)
+[^c-39ca2d215e92ff173677a4e65171e0bb]: Textual amendment: Reg. 3(2)(e)(f) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [15(3)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/15/3/b)
 
-[^key-f456ba281c2d25360b1ced830fad0917]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/297/regulation/4) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-f456ba281c2d25360b1ced830fad0917]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/297/regulation/4) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
 [^c23593411]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-87f7a2e20de42fc75687cbc9281e5e69]: Commencement: Reg. 5 in force at 1.4.2019, see reg. 1
+[^c-87f7a2e20de42fc75687cbc9281e5e69]: Commencement: Reg. 5 in force at 1.4.2019, see reg. 1
 
 [^c23593421]: Marginal citation: *See* section 36C(6) of the 1989 Act for the meaning of “appropriate authority”.
 
 [^c23593431]: Marginal citation: [S.I. 2000/1927](https://www.legislation.gov.uk/uksi/2000/1927) which was amended by [S.I. 2007/1977](https://www.legislation.gov.uk/uksi/2007/1977) and revoked by [S.I. 2017/580](https://www.legislation.gov.uk/uksi/2017/580) subject to the transitional provision as specified in regulation 42 of that instrument.
 
-[^key-40a0e9564a3d26ab3ec8e7a49d70be9a]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/wsi/2019/297/regulation/5/5/c) substituted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [3(3)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/3/3)
+[^c-40a0e9564a3d26ab3ec8e7a49d70be9a]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/wsi/2019/297/regulation/5/5/c) substituted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [3(3)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/3/3)
 
-[^key-11f914231f542c8f95ad47f89012ed2a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2019/297/regulation/6) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-11f914231f542c8f95ad47f89012ed2a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2019/297/regulation/6) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
-[^key-94ef4569e62be094adc6b67896a883d1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2019/297/regulation/7) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-94ef4569e62be094adc6b67896a883d1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2019/297/regulation/7) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
-[^key-d48412bdf23d001a30cc44bbc54fc42b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/297/regulation/8) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-d48412bdf23d001a30cc44bbc54fc42b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/297/regulation/8) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
-[^key-342e63da976a0b3adf6e66f761ffab5d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/297/regulation/9) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
+[^c-342e63da976a0b3adf6e66f761ffab5d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/297/regulation/9) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/wsi/2019/297/regulation/1)
 
 [^c23593441]: Marginal citation: [S.I. 2013/1570](https://www.legislation.gov.uk/uksi/2013/1570) which was amended by [S.I. 2017/580](https://www.legislation.gov.uk/uksi/2017/580).

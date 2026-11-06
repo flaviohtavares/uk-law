@@ -36,9 +36,9 @@ Coming into force in accordance with regulation 1(2)
 
 [^M_F_d40f73f6-63ab-463b-92d7-8e427f411400]The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.
 
-The Treasury in exercise of the powers conferred by section 2(2) of that Act make the following Regulations.[^key-e191e06365dd61f8cfe4c372b858d28e]
+The Treasury in exercise of the powers conferred by section 2(2) of that Act make the following Regulations.[^c-e191e06365dd61f8cfe4c372b858d28e]
 
-A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to that Act.[^key-e191e06365dd61f8cfe4c372b858d28e]
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to that Act.[^c-e191e06365dd61f8cfe4c372b858d28e]
 
 ## PART 1 — Introductory provisions
 
@@ -66,14 +66,14 @@ A draft of these Regulations has been laid before and approved by a resolution o
 - “direct debit” has the same meaning as in the Payment Services Regulations;
 - “designation notice” means a notice given under regulation 21(1);
 - “designated credit institution” means a credit institution that has been designated under regulation 21(1);
-- [^key-99a152636b2f4ee92eaa1c77949ffc14]...
-- [^key-ade408bbbac89c90d812f59cd1233e57]...
+- [^c-99a152636b2f4ee92eaa1c77949ffc14]...
+- [^c-ade408bbbac89c90d812f59cd1233e57]...
 - “Financial Ombudsman Service” means the ombudsman scheme referred to in section 225 of the Act;
-- [^key-2e819a245fbf4dd57d7b1c540b7270a2]...
+- [^c-2e819a245fbf4dd57d7b1c540b7270a2]...
 - “framework contract” has the same meaning as in the Payment Services Regulations;
-- [^key-8a432d504936535c4bcb33f07c53d522]...
-- [^key-b8b0437787e2ccf6511f8423908d7fad]...
-- “Money and Pensions Service” means the body established under section 1 of the Financial Guidance and Claims Act 2018;[^key-acc31df900e1e085d1906cb674a1c22d]
+- [^c-8a432d504936535c4bcb33f07c53d522]...
+- [^c-b8b0437787e2ccf6511f8423908d7fad]...
+- “Money and Pensions Service” means the body established under section 1 of the Financial Guidance and Claims Act 2018;[^c-acc31df900e1e085d1906cb674a1c22d]
 - “overdraft facility” means an explicit credit agreement whereby a payment service provider makes available to a consumer funds which exceed the current balance in the consumer’s payment account;
 - “payment account” means an account held in the name of one or more consumers through which consumers are able to place funds, withdraw cash and execute and receive payment transactions to and from third parties, including the execution of credit transfers, but does not include any of the following types of account provided that the account is not used for day-to-day payment transactions: savings accounts; credit card accounts where funds are usually paid in for the sole purpose of repaying a credit card debt; current account mortgages or e-money accounts;
 - “payment account with basic features” has the meaning given in regulation 19(1);
@@ -84,10 +84,10 @@ A draft of these Regulations has been laid before and approved by a resolution o
     - (ii) the Credit Unions (Northern Ireland) Order 1985;
   - (b) National Savings and Investments; and
   - (c) the Bank of England;
-- “Payment Services Regulations” means the Payment Services Regulations 2017[^key-1ab8dcfbcf4cafb491e4eea0f8a8e7b9];
+- “Payment Services Regulations” means the Payment Services Regulations 2017[^c-1ab8dcfbcf4cafb491e4eea0f8a8e7b9];
 - “Payment Systems Regulator” means the body established pursuant to section 39 of the Financial Services (Banking Reform) Act 2013[^f00009];
 - “payment transaction” has the same meaning as in the Payment Services Regulations;
-- [^key-100a8364992c2df5531dc7d4d5c2a35d]...
+- [^c-100a8364992c2df5531dc7d4d5c2a35d]...
 - “switching” or “switching service” means, upon a consumer’s request, transferring from one payment service provider to another either the information about all or some standing orders for credit transfers, recurring direct debits and recurring incoming credit transfers executed on a payment account, or any positive payment account balance from one payment account to the other, or both, with or without closing the former payment account;
 - “the Tribunal” means the Upper Tribunal;
 - “United Kingdom credit institution” means a credit institution which is incorporated in, or formed under the law of any part of, the United Kingdom.
@@ -98,24 +98,24 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 ### 3. Publication of the linked services list
 
-(1) The Authority must maintain a published[^key-144583ad25f9a46c7b06929a09c450ff] list of the most representative services linked to a payment account and subject to a fee (“the linked services list”).
+(1) The Authority must maintain a published[^c-144583ad25f9a46c7b06929a09c450ff] list of the most representative services linked to a payment account and subject to a fee (“the linked services list”).
 
 (2) The linked services list must—
 
-- (a) feature at least 10 and no more than 20 of the most representative services linked to a payment account offered by at least one payment service provider and subject to a fee; and[^key-131a4d3768d083f129df22fb1d50dcc7]
-- (b) contain terms and definitions for each of the services featured; [^key-7df7d7fa0b843064ce495b12cf03e170]...
-- (c)[^key-7df7d7fa0b843064ce495b12cf03e170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) feature at least 10 and no more than 20 of the most representative services linked to a payment account offered by at least one payment service provider and subject to a fee; and[^c-131a4d3768d083f129df22fb1d50dcc7]
+- (b) contain terms and definitions for each of the services featured; [^c-7df7d7fa0b843064ce495b12cf03e170]...
+- (c)[^c-7df7d7fa0b843064ce495b12cf03e170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Periodic review of the linked services list
 
-(1)[^key-c1bf715ff002e150b03d72036d1ad309] The Authority must assess and, where appropriate, update the linked services list—
+(1)[^c-c1bf715ff002e150b03d72036d1ad309] The Authority must assess and, where appropriate, update the linked services list—
 
 - (a) on or before 30th April 2022; and
 - (b) at least every 4 years after that date.
 
-(2)[^key-89e78f0a1a7adeb32e33ff37391653b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-89e78f0a1a7adeb32e33ff37391653b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Revision of the linked services list[^key-6f85885943b32cd7802c5f3b47d0161a]
+### 5. Revision of the linked services list[^c-6f85885943b32cd7802c5f3b47d0161a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,8 +133,8 @@ Where applicable, any payment service provider that offers a payment account mus
 
 (1) Without affecting the requirements of—
 
-- (a) Part 6 (information requirements for payment services)[^key-7332e9f480d40446cb1e2baf191a04da] of the Payment Services Regulations;
-- (b) any rules made by the Authority under Part 9A[^f00010] (rules and guidance) of the Act for the purposes of implementing Article 12 of Directive [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) of the European Parliament and of the Council on credit agreements for consumers[^f00011]; as amended immediately before IP completion day[^key-8c9094a4cf432f6198da9a419929f8a6]
+- (a) Part 6 (information requirements for payment services)[^c-7332e9f480d40446cb1e2baf191a04da] of the Payment Services Regulations;
+- (b) any rules made by the Authority under Part 9A[^f00010] (rules and guidance) of the Act for the purposes of implementing Article 12 of Directive [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) of the European Parliament and of the Council on credit agreements for consumers[^f00011]; as amended immediately before IP completion day[^c-8c9094a4cf432f6198da9a419929f8a6]
 - (c) regulations 3[^f00012] (information to be disclosed: agreements other than telephone contracts, non-telephone distance contracts, excluded pawn agreements and overdraft agreements), 4 (information to be disclosed: telephone contracts), 5 (information to be disclosed: non-telephone distance contracts), 10[^f00013] and 11(information to be disclosed: overdraft agreements) of the Consumer Credit (Disclosure of Information) Regulations 2010[^f00014]; and
 - (d) sections 55C[^f00015] (copy of draft consumer credit agreement) and 61B(2)[^f00016] (duty to supply copy of overdraft agreement) of the Consumer Credit Act 1974[^f00017],
 
@@ -155,7 +155,7 @@ any payment service provider that offers a payment account must ensure that, in 
 
 ### 10. Statement of fees
 
-(1) Without affecting the requirements of Part 6[^key-e1d6ac43f4ececfa1b71f00ac7e303e0] of the Payment Services Regulations, the Consumer Credit (Running-Account Credit Information) Regulations 1983[^f00018] and sections 78(4) (duty to give information to debtor under running-account credit agreement) and 78A[^f00019] (duty to give information to debtor on change of rate of interest) of the Consumer Credit Act 1974, any payment service provider that offers a payment account must provide an annual statement of fees (“statement of fees”) free of charge to all consumers holding a payment account with it.
+(1) Without affecting the requirements of Part 6[^c-e1d6ac43f4ececfa1b71f00ac7e303e0] of the Payment Services Regulations, the Consumer Credit (Running-Account Credit Information) Regulations 1983[^f00018] and sections 78(4) (duty to give information to debtor under running-account credit agreement) and 78A[^f00019] (duty to give information to debtor on change of rate of interest) of the Consumer Credit Act 1974, any payment service provider that offers a payment account must provide an annual statement of fees (“statement of fees”) free of charge to all consumers holding a payment account with it.
 
 (2) The method of communication used to provide the statement of fees must be agreed with the consumer and the statement of fees must be provided on paper upon the request of the consumer.
 
@@ -171,7 +171,7 @@ any payment service provider that offers a payment account must ensure that, in 
 
 ### 12. The comparison website
 
-(1) The Money and Pensions Service[^key-6e1a409129067992a743dc112e68b858] must provide consumers with access, free of charge, to a website comparing fees charged by payment service providers for at least the services featured in the linked services list (“the comparison website”).
+(1) The Money and Pensions Service[^c-6e1a409129067992a743dc112e68b858] must provide consumers with access, free of charge, to a website comparing fees charged by payment service providers for at least the services featured in the linked services list (“the comparison website”).
 
 (2) The comparison website must—
 
@@ -223,7 +223,7 @@ any payment service provider that offers a payment account must ensure that, in 
 - (b) compensation for financial losses incurred by consumers switching accounts under an alternative arrangement; and
 - (c) information relating to an alternative arrangement that a payment service provider must make available to consumers.
 
-### 17. Facilitation of cross-border account opening for consumers[^key-58e3419dbe9fed33fc4a4d087053c47b]
+### 17. Facilitation of cross-border account opening for consumers[^c-58e3419dbe9fed33fc4a4d087053c47b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,7 +231,7 @@ any payment service provider that offers a payment account must ensure that, in 
 
 ### 18. Non-discrimination in the provision of payment accounts
 
-(1) A credit institution must not discriminate against consumers legally resident in the United Kingdom by reason of their nationality or place of residence or by reason of sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation[^key-1de2b2f97e31474811f28ad80bed5fa8] when those consumers apply for or access a payment account.
+(1) A credit institution must not discriminate against consumers legally resident in the United Kingdom by reason of their nationality or place of residence or by reason of sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation[^c-1de2b2f97e31474811f28ad80bed5fa8] when those consumers apply for or access a payment account.
 
 (2) The conditions applicable to holding a payment account with basic features must not be discriminatory.
 
@@ -243,12 +243,12 @@ any payment service provider that offers a payment account must ensure that, in 
 - (b) place funds in the account at the counter of the publicly accessible premises of—
   - (i) the credit institution offering the payment account with basic features (“A”); and
   - (ii) any other credit institution with which A has agreed arrangements that allow any consumer who holds a payment account with A which is not a payment account with basic features to place funds with that institution;
-- (c) withdraw cash from the account within the United Kingdom in sterling[^key-37e81419916e375760bd8b3136babdb7]—
+- (c) withdraw cash from the account within the United Kingdom in sterling[^c-37e81419916e375760bd8b3136babdb7]—
   - (i) at the counter of the publicly accessible premises of—
     - (aa) the credit institution offering the payment account with basic features; and
     - (bb) any relevant third party;
   - (ii) at automated teller machines operated by the credit institution offering the payment account with basic features and any relevant third party during or outside the credit institution’s or relevant third party’s opening hours;
-- (d) execute the following payment transactions within the United Kingdom in sterling[^key-7458a0ff154f05d28fc60399b61be65a] —
+- (d) execute the following payment transactions within the United Kingdom in sterling[^c-7458a0ff154f05d28fc60399b61be65a] —
   - (i) direct debits;
   - (ii) payment transactions through a payment card, including online payments;
   - (iii) credit transfers, including standing orders, at, where available, terminals and counters and via the online facilities of the credit institution.
@@ -260,7 +260,7 @@ any payment service provider that offers a payment account must ensure that, in 
 
 (3) A payment account with basic features must allow consumers to execute an unlimited number of operations in relation to the services set out in paragraph (1).
 
-(3A)[^key-06d70cf84be2d137b4298f67a8c4fa89] A payment account with basic features may allow consumers to—
+(3A)[^c-06d70cf84be2d137b4298f67a8c4fa89] A payment account with basic features may allow consumers to—
 
 - (a) withdraw cash from the account in a country other than the United Kingdom or in a currency other than sterling in the manner specified in paragraph (1)(c)(i) or (ii);
 - (b) execute a payment transaction specified in paragraph (1)(d)(i), (ii) or (iii) in a country other than the United Kingdom or in a currency other than sterling.
@@ -281,7 +281,7 @@ any payment service provider that offers a payment account must ensure that, in 
 
 ### 20. Fees
 
-(1) Subject to paragraph (2), a credit institution must not charge any fee for a service set out in regulation 19(1) when that service is provided in sterling[^key-a7be652eed2658243c84c1e0c185763b] as part of a payment account with basic features.
+(1) Subject to paragraph (2), a credit institution must not charge any fee for a service set out in regulation 19(1) when that service is provided in sterling[^c-a7be652eed2658243c84c1e0c185763b] as part of a payment account with basic features.
 
 (2) Where a credit institution provides any service set out in regulation 19(1) to a consumer in a currency other than sterling, the credit institution may charge a fee for that service provided that the fee charged is reasonable.
 
@@ -319,14 +319,14 @@ the credit institution must not charge the consumer any fee.
 
 ### 23. Eligibility criteria
 
-(1) In order to be eligible for a payment account with basic features offered by a designated credit institution (“B”), a consumer must be legally resident in the United Kingdom[^key-9759b94a3bb8f17fd7c43bbf3f4f1ab8], and must either—
+(1) In order to be eligible for a payment account with basic features offered by a designated credit institution (“B”), a consumer must be legally resident in the United Kingdom[^c-9759b94a3bb8f17fd7c43bbf3f4f1ab8], and must either—
 
 - (a) not hold a payment account with any United Kingdom credit institution that has at least the features set out in regulation 19(1); or
 - (b) be ineligible for all payment accounts offered by B that are not payment accounts with basic features.
 
 (2) For the purposes of paragraph (1)—
 
-- (a) consumers legally resident within the United Kingdom[^key-5faebb0b22f2953b54b96dbb7c260c4e] include—
+- (a) consumers legally resident within the United Kingdom[^c-5faebb0b22f2953b54b96dbb7c260c4e] include—
   - (i) consumers with no fixed address;
   - (ii) asylum seekers within the meaning of section 94 of the Immigration and Asylum Act 1999[^f00021] (interpretation); and
   - (iii) consumers who have not been granted a residence permit but whose expulsion is impossible for legal or practical reasons;
@@ -343,7 +343,7 @@ Where an application for a payment account with basic features is made by a cons
 (1) A designated credit institution must refuse to open a payment account with basic features for a consumer where it would be unlawful for it to do so, including where opening the account —
 
 - (a) would be contrary to the Fraud Act 2006[^f00022]
-- (b) would be contrary to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-2b3dd12d7c48f39f2784dd3b72e298f7];
+- (b) would be contrary to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-2b3dd12d7c48f39f2784dd3b72e298f7];
 - (c) would be contrary to section 40[^f00024] of the Immigration Act 2014 (prohibition on opening current accounts for disqualified persons)[^f00025];
 - (d) would breach a requirement or limitation imposed by the Authority on the designated credit institution under Part 4A[^f00026] (permission to carry on regulated activities) of the Act that prevents it from accepting new customers.
 
@@ -357,7 +357,7 @@ Where an application for a payment account with basic features is made by a cons
 
 (3) Where an application for a payment account with basic features is refused, the designated credit institution must without delay inform the consumer in writing and free of charge of the reason for the refusal if it may lawfully do so.
 
-(4)[^key-20c11e8258a9f604b0ea5a87af8f3a7f] Where a reason is given under paragraph (3), it must be sufficiently detailed and specific to enable the consumer to understand why the application has been refused, unless providing that information would be unlawful.
+(4)[^c-20c11e8258a9f604b0ea5a87af8f3a7f] Where a reason is given under paragraph (3), it must be sufficiently detailed and specific to enable the consumer to understand why the application has been refused, unless providing that information would be unlawful.
 
 (5) Where notification of the refusal is given, the designated credit institution must advise the consumer of—
 
@@ -366,14 +366,14 @@ Where an application for a payment account with basic features is made by a cons
 
 ### 26. Framework contracts and termination
 
-(1) Subject to paragraphs (2) to (9) below[^key-f5e3c941baf368dfa755c983e020b15b], framework contracts for the provision of a payment account with basic features must comply with the requirements of the Payment Service Regulations.
+(1) Subject to paragraphs (2) to (9) below[^c-f5e3c941baf368dfa755c983e020b15b], framework contracts for the provision of a payment account with basic features must comply with the requirements of the Payment Service Regulations.
 
 (2) A designated credit institution may only close a payment account with basic features where at least one of the following conditions is met—
 
 - (a) the consumer has knowingly used, or attempted to use, the payment account for illegal purposes;
 - (b) there has been no transaction on the account for more than 24 consecutive months;
 - (c) the consumer provided incorrect information when applying for the account, and had the correct information been provided, the application would have been refused;
-- (d) the consumer is no longer legally resident in the United Kingdom[^key-884457318dcf07f20e4cadef0135d996];
+- (d) the consumer is no longer legally resident in the United Kingdom[^c-884457318dcf07f20e4cadef0135d996];
 - (e) the consumer has access to another payment account in the United Kingdom which—
   - (I) allows the consumer to make use of the services listed in regulation 19(1); and
   - (ii) was opened after the payment account with basic features;
@@ -383,15 +383,15 @@ Where an application for a payment account with basic features is made by a cons
   - (iii) section 38 of the Criminal Justice and Licensing (Scotland) Act 2010 (threatening or abusive behaviour);
   - (iv) Article 9 of the Public Order (Northern Ireland) Order 1987 (use of words or behaviour or display of written material);
   - (v) the Protection from Harassment (Northern Ireland) Order 1997.
-- (g)[^key-0a49ae0e3f569d46afa080669e5b7cbd] the payment account is required to be closed in accordance with section 40G of the Immigration Act 2014.
+- (g)[^c-0a49ae0e3f569d46afa080669e5b7cbd] the payment account is required to be closed in accordance with section 40G of the Immigration Act 2014.
 
 (3) Subject to paragraph (4), where a designated credit institution terminates a framework contract for a payment account with basic features on one or more of the grounds mentioned in paragraph (2)(b), (d) or (e), the designated credit institution must inform the consumer of the grounds and the justification for termination—
 
-- (a)[^key-c1ec91670dd37ae634147394407826c6] in accordance with the relevant notice period specified in paragraph (3A);
+- (a)[^c-c1ec91670dd37ae634147394407826c6] in accordance with the relevant notice period specified in paragraph (3A);
 - (b) in writing; and
 - (c) free of charge.
 
-(3A)[^key-3bf938fc1e733cd4a81942f8878ead7c] For the purposes of paragraph (3)(a), the notice period is—
+(3A)[^c-3bf938fc1e733cd4a81942f8878ead7c] For the purposes of paragraph (3)(a), the notice period is—
 
 - (a) for a framework contract entered into before 28th April 2026, at least two months before the termination enters into force;
 - (b) for a framework contract entered into on or after 28th April 2026, at least 90 days before the termination enters into force.
@@ -402,7 +402,7 @@ Where an application for a payment account with basic features is made by a cons
 
 (6) Where a designated credit institution terminates a framework contract in accordance with paragraph 2(a), (c) or (f), the credit institution must inform the consumer of the grounds and justification for termination without delay except where it would be unlawful to do so.
 
-(7)[^key-d7f3577fbee77e3a339f6a42b7b05ed9] Any notification given by the designated credit institution under paragraph (3) must advise the consumer of—
+(7)[^c-d7f3577fbee77e3a339f6a42b7b05ed9] Any notification given by the designated credit institution under paragraph (3) must advise the consumer of—
 
 - (a) how a complaint against the termination may be made to it; and
 - (b) the right to make a complaint to the Financial Ombudsman Service.
@@ -413,7 +413,7 @@ Where an application for a payment account with basic features is made by a cons
 
 ### 27. General information on payment accounts with basic features
 
-(1) The Money and Pensions Service[^key-d3f1394877408ea15e22ffc541730dc3] must endeavour to raise awareness among consumers about—
+(1) The Money and Pensions Service[^c-d3f1394877408ea15e22ffc541730dc3] must endeavour to raise awareness among consumers about—
 
 - (a) the availability of payment accounts with basic features;
 - (b) their general pricing conditions;
@@ -433,7 +433,7 @@ Where an application for a payment account with basic features is made by a cons
 
 (1) The Authority must maintain arrangements for the purpose of enabling it to determine whether payment service providers upon which requirements are imposed by or under—
 
-- (a) Part [^key-9b55c4c001049560356c320f87ee314a]... 3 or 4; or
+- (a) Part [^c-9b55c4c001049560356c320f87ee314a]... 3 or 4; or
 - (b) regulation 30,
 
 are complying with those requirements.
@@ -447,13 +447,13 @@ are complying with those requirements.
 
 ### 29. Reporting requirements
 
-(1) A payment service provider must give the Authority such information in respect of its compliance with the requirements imposed on it by or under Part [^key-de2af18b305991c6427dbc8384c2ad3a]... 3 or 4 or regulation 30 as the Authority may direct.
+(1) A payment service provider must give the Authority such information in respect of its compliance with the requirements imposed on it by or under Part [^c-de2af18b305991c6427dbc8384c2ad3a]... 3 or 4 or regulation 30 as the Authority may direct.
 
 (2) Information required under this regulation must be given at such time and in such form, and verified in such manner, as the Authority may direct.
 
 ### 30. Power to direct payment service providers
 
-(1) The Authority may direct a payment service provider to take such steps as are necessary for the purposes of securing compliance with the requirements of Part [^key-52d9dec699cef2a1d84e4be5ae3bd9c8]... 3 or 4.
+(1) The Authority may direct a payment service provider to take such steps as are necessary for the purposes of securing compliance with the requirements of Part [^c-52d9dec699cef2a1d84e4be5ae3bd9c8]... 3 or 4.
 
 (2) A direction under paragraph (1) may, in particular, require the payment service provider to—
 
@@ -619,7 +619,7 @@ the court may make an order requiring that person, and any other person who appe
 - (b) offer copies of its published guidance for sale at a reasonable price;
 - (c) if it provides guidance in response to request made by any person, make a reasonable charge for that guidance.
 
-### 40A. Technical standards[^key-c8133f0b82501e68c1ccd37ef5c126c3]
+### 40A. Technical standards[^c-c8133f0b82501e68c1ccd37ef5c126c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -635,19 +635,19 @@ Schedule 7 applies primary and secondary legislation with modifications.
 
 ### 43. Evaluation
 
-(1) The Authority must gather information on the following, and supply it to the Treasury on or before 18th July 2020 and at least every 2 years after that date[^key-104b898dd122261c965fd2fa00cf8e70]:
+(1) The Authority must gather information on the following, and supply it to the Treasury on or before 18th July 2020 and at least every 2 years after that date[^c-104b898dd122261c965fd2fa00cf8e70]:
 
 - (a) compliance by payment service providers with regulations 6 to 11;
-- (b)[^key-aab58050edc0ca62e511f086d279aa9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aab58050edc0ca62e511f086d279aa9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the number of payment accounts that have been switched;
 - (d) the proportion of applications for switching that have been refused;
 - (e) the number of credit institutions offering payment accounts with basic features;
 - (f) the number of payment accounts with basic features that have been opened; and
 - (g) the proportion of applications for payment accounts with basic features that have been refused.
 
-(2)[^key-efbc83885e14bf35c7d98762e9971b7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-efbc83885e14bf35c7d98762e9971b7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Review[^key-55e158f8b1ede88433c01df655c7e4d4]
+### 44. Review[^c-55e158f8b1ede88433c01df655c7e4d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -661,7 +661,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 8(2)
 
-### 1. Compliance with implementing technical standards[^key-0ebedf2c2eadeab1b8c84fbc9e5fc9de]
+### 1. Compliance with implementing technical standards[^c-0ebedf2c2eadeab1b8c84fbc9e5fc9de]
 
 The fee information document must comply with the requirements of—
 
@@ -691,7 +691,7 @@ The fee information document must—
 - (b) be presented and laid out in a way that is clear and easy to read using characters of a readable size;
 - (c) be no less comprehensible in the event that, having been originally produced in colour, it is printed or photocopied in black and white;
 - (d) be written in English or, if agreed by the consumer and payment service provider, in another language;
-- (e) be accurate, not misleading, and expressed in the currency of the payment account or, if agreed by the consumer and the payment service provider, in another currency [^key-55762a247979c638384d731bee7f5bfd]...;
+- (e) be accurate, not misleading, and expressed in the currency of the payment account or, if agreed by the consumer and the payment service provider, in another currency [^c-55762a247979c638384d731bee7f5bfd]...;
 - (f) contain the title “fee information document” at the top of the first page next to the common symbol referred to in paragraph 1 to distinguish the fee information document from other documentation;
 - (g) include a statement that it contains fees for the most representative services related to the payment account and that complete pre-contractual and contractual information on all the services is provided in other documents.
 
@@ -699,7 +699,7 @@ The fee information document must—
 
 Regulation 10(4)
 
-### 1. Compliance with implementing technical standards[^key-cb2f95f2c79278031afda307c67f22de]
+### 1. Compliance with implementing technical standards[^c-cb2f95f2c79278031afda307c67f22de]
 
 The statement of fees must comply with the requirements of—
 
@@ -793,7 +793,7 @@ Within two business days from receipt of the authorisation referred to in paragr
 - (b) where the transferring payment service provider does not provide a system for automated redirection of incoming credit transfers and direct debits to the payment account held or opened by the consumer with the receiving payment service provider, stop accepting incoming credit transfers and direct debits on the payment account with effect from the date specified in the authorisation;
 - (c) cancel standing orders from the date specified in the authorisation;
 - (d) transfer any remaining positive balance from the payment account to the payment account opened or held with the receiving payment service provider on the date specified in the authorisation;
-- (e) without affecting regulations 51 to 51D (termination of framework contract and exceptions to termination requirements)[^key-d8d8f13d42fe3bb38d84fb1a863ae728] of the Payment Services Regulations, close the payment account on the date specified in the authorisation if—
+- (e) without affecting regulations 51 to 51D (termination of framework contract and exceptions to termination requirements)[^c-d8d8f13d42fe3bb38d84fb1a863ae728] of the Payment Services Regulations, close the payment account on the date specified in the authorisation if—
   - (i) the consumer has no outstanding obligations on that payment account; and
   - (ii) the actions described in paragraphs (a), (b) and (d) have been completed.
 
@@ -820,7 +820,7 @@ Within two business days from receipt of the authorisation referred to in paragr
 
 within the deadline referred to in sub-paragraph (1).
 
-(3) Except where regulation 71(2)[^key-4885e4c2f4e1eb44dc18bfd429e206a6] of the Payment Services Regulations applies, the transferring payment service provider must not block any payment instrument before the date specified in the consumer’s authorisation.
+(3) Except where regulation 71(2)[^c-4885e4c2f4e1eb44dc18bfd429e206a6] of the Payment Services Regulations applies, the transferring payment service provider must not block any payment instrument before the date specified in the consumer’s authorisation.
 
 (4) For the purposes of sub-paragraph (3), “payment instrument” has the same meaning as in the Payment Services Regulations.
 
@@ -830,7 +830,7 @@ within the deadline referred to in sub-paragraph (1).
 
 (2) The transferring payment service provider must not charge the consumer or the receiving payment service provider for the provision of information requested from it by the receiving payment service provider pursuant to paragraph 3(a) and (b).
 
-(3) Any fee payable by the consumer applied by the transferring payment service provider in respect of the termination of the framework contract for the payment account held with the transferring payment service provider must be determined in accordance with regulation 51[^key-f04dbb5d118dab1944d99301f3dd91f8] (termination of framework contract) of the Payment Services Regulations.
+(3) Any fee payable by the consumer applied by the transferring payment service provider in respect of the termination of the framework contract for the payment account held with the transferring payment service provider must be determined in accordance with regulation 51[^c-f04dbb5d118dab1944d99301f3dd91f8] (termination of framework contract) of the Payment Services Regulations.
 
 (4) Transferring or receiving payment service providers may charge the consumer a fee for any task referred to in paragraphs 3 to 5 that is not subject to the provisions in sub-paragraphs (1) to (3) provided that any such fee is—
 
@@ -1062,7 +1062,7 @@ Any duty imposed upon a participating payment service provider by this Schedule 
 
 (1) At the request of a consumer, a participating payment service provider must provide the consumer free of charge with details of any standing orders and direct debits applicable to the accounts that the consumer holds with it.
 
-(2) Any fee payable by the consumer applied by a participating payment service provider in respect of the termination of a framework contract for the payment account held with that participating payment service provider must be determined in accordance with regulation 51[^key-4fa6716e3f6cf206bd6aa2632ec3b11f] (termination of framework contract) of the Payment Services Regulations.
+(2) Any fee payable by the consumer applied by a participating payment service provider in respect of the termination of a framework contract for the payment account held with that participating payment service provider must be determined in accordance with regulation 51[^c-4fa6716e3f6cf206bd6aa2632ec3b11f] (termination of framework contract) of the Payment Services Regulations.
 
 (3) Any fee charged to a consumer by a participating payment service provider for any service provided in connection with the switching of a payment account must be—
 
@@ -1174,7 +1174,7 @@ Regulation 42
   - (ii) an appointed representative;
 
   were omitted;
-- (c) in subsection (5) for “regulated activities” there were substituted “payment services as defined in regulation 2(1) of the Payment Services Regulations 2017, as amended from time to time[^key-f45ccef282a7fa475ebede71e82edd49]”; and
+- (c) in subsection (5) for “regulated activities” there were substituted “payment services as defined in regulation 2(1) of the Payment Services Regulations 2017, as amended from time to time[^c-f45ccef282a7fa475ebede71e82edd49]”; and
 - (d) subsections (5A) and (6) were omitted.
 
 (9) Section 168[^f00054] (appointment of persons to carry out investigations in particular cases) applies as if—
@@ -1191,7 +1191,7 @@ Regulation 42
 
 (10) Section 169[^f00055] (investigations etc in support of overseas regulator) applies as if—
 
-- (a) references to an overseas regulator were references to a competent authority [^key-b080b06ea2ce37590fc9fa1664ae3d87]... designated in accordance with Article 21 of the Payment Accounts Directive , as it has effect in EU law[^key-8067616b2e7f127c5b414885fb8d0001];
+- (a) references to an overseas regulator were references to a competent authority [^c-b080b06ea2ce37590fc9fa1664ae3d87]... designated in accordance with Article 21 of the Payment Accounts Directive , as it has effect in EU law[^c-8067616b2e7f127c5b414885fb8d0001];
 - (b) in subsection (8) for “Part XXIII” there were substituted “sections 348, 349 and 352”; and
 - (c) subsection (13) were omitted.
 
@@ -1273,7 +1273,7 @@ Regulation 42
   > (1ZB) A warning notice falls within this subsection if it is given under regulation 36 of the Payment Accounts Regulations 2015.
 
   ; and
-- (b) subsections (4A), (5A), (6A), [^key-beb0d10fea2828a61681eec0eaa9808e]... (7B), (8A) , (8AA)[^key-d76f96361d948a668d2c3c013d70dddd] and (11) were omitted.
+- (b) subsections (4A), (5A), (6A), [^c-beb0d10fea2828a61681eec0eaa9808e]... (7B), (8A) , (8AA)[^c-d76f96361d948a668d2c3c013d70dddd] and (11) were omitted.
 
 (7) Section 392[^f00068] (application of sections 393 and 394) applies as if for paragraphs (a) and (b) there were substituted—
 
@@ -1369,7 +1369,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1. By virtue of the amendment of section 1(2) by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17<sup>th</sup> March 1993 (Cm 2183).
 
-[^key-e191e06365dd61f8cfe4c372b858d28e]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-e191e06365dd61f8cfe4c372b858d28e]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -1377,45 +1377,45 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00005]: Footnote: [S.I. 1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205).
 
-[^key-99a152636b2f4ee92eaa1c77949ffc14]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99a152636b2f4ee92eaa1c77949ffc14]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/5/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ade408bbbac89c90d812f59cd1233e57]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ade408bbbac89c90d812f59cd1233e57]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/5/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e819a245fbf4dd57d7b1c540b7270a2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/2/a)
+[^c-2e819a245fbf4dd57d7b1c540b7270a2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/2/a)
 
-[^key-8a432d504936535c4bcb33f07c53d522]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/2/b)
+[^c-8a432d504936535c4bcb33f07c53d522]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/2/b)
 
-[^key-b8b0437787e2ccf6511f8423908d7fad]: Textual amendment: Words in reg. 2(1) omitted (6.4.2019) by virtue of [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(a)(i)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/a/i)
+[^c-b8b0437787e2ccf6511f8423908d7fad]: Textual amendment: Words in reg. 2(1) omitted (6.4.2019) by virtue of [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(a)(i)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/a/i)
 
-[^key-acc31df900e1e085d1906cb674a1c22d]: Textual amendment: Words in reg. 2(1) inserted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(a)(ii)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/a/ii)
+[^c-acc31df900e1e085d1906cb674a1c22d]: Textual amendment: Words in reg. 2(1) inserted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(a)(ii)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/a/ii)
 
 [^f00007]: Footnote: OJ No L 257, 28.8.2014, p214.
 
-[^key-1ab8dcfbcf4cafb491e4eea0f8a8e7b9]: Textual amendment: Word in reg. 2(1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-1ab8dcfbcf4cafb491e4eea0f8a8e7b9]: Textual amendment: Word in reg. 2(1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00009]: Footnote: [2013 c.33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-100a8364992c2df5531dc7d4d5c2a35d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(2)(c)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/2/c)
+[^c-100a8364992c2df5531dc7d4d5c2a35d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/2/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(2)(c)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/2/c)
 
-[^key-144583ad25f9a46c7b06929a09c450ff]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/3/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/6/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-144583ad25f9a46c7b06929a09c450ff]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/3/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/6/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-131a4d3768d083f129df22fb1d50dcc7]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/3/2) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [6(b)(i)](https://www.legislation.gov.uk/uksi/2019/661/regulation/6/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-131a4d3768d083f129df22fb1d50dcc7]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/3/2) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [6(b)(i)](https://www.legislation.gov.uk/uksi/2019/661/regulation/6/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7df7d7fa0b843064ce495b12cf03e170]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/3/2/c) and word omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2019/661/regulation/6/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7df7d7fa0b843064ce495b12cf03e170]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/3/2/c) and word omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2019/661/regulation/6/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1bf715ff002e150b03d72036d1ad309]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/4/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/7/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1bf715ff002e150b03d72036d1ad309]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/4/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [7(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/7/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89e78f0a1a7adeb32e33ff37391653b7]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/4/2) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/7/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89e78f0a1a7adeb32e33ff37391653b7]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/4/2) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [7(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/7/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f85885943b32cd7802c5f3b47d0161a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/2038/regulation/5) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/4/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f85885943b32cd7802c5f3b47d0161a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/2038/regulation/5) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/4/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7332e9f480d40446cb1e2baf191a04da]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/8/1/a) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-7332e9f480d40446cb1e2baf191a04da]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/8/1/a) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00010]: Footnote: Part 9A was substituted for the original Part 10 (sections 138-164) by section 24(1) of the Financial Services Act 2012.
 
 [^f00011]: Footnote: OJ No L 133, 22.5.2008, p66.
 
-[^key-8c9094a4cf432f6198da9a419929f8a6]: Textual amendment: Words in reg. 8(1)(b) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/661/regulation/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3) Sch. para. 36)
+[^c-8c9094a4cf432f6198da9a419929f8a6]: Textual amendment: Words in reg. 8(1)(b) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/661/regulation/8) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3) Sch. para. 36)
 
 [^f00012]: Footnote: Regulation 3 was amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
@@ -1429,35 +1429,35 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00017]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-e1d6ac43f4ececfa1b71f00ac7e303e0]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/10/1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(c)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-e1d6ac43f4ececfa1b71f00ac7e303e0]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/10/1) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(c)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00018]: Footnote: [S.I. 1983/1570](https://www.legislation.gov.uk/uksi/1983/1570).
 
 [^f00019]: Footnote: Section 78A was inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
 
-[^key-6e1a409129067992a743dc112e68b858]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2015/2038/regulation/12) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/b)
+[^c-6e1a409129067992a743dc112e68b858]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2015/2038/regulation/12) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/b)
 
-[^key-58e3419dbe9fed33fc4a4d087053c47b]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/2038/regulation/17) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/4/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58e3419dbe9fed33fc4a4d087053c47b]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/2038/regulation/17) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/4/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1de2b2f97e31474811f28ad80bed5fa8]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/18/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/661/regulation/9) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1de2b2f97e31474811f28ad80bed5fa8]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/18/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2019/661/regulation/9) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37e81419916e375760bd8b3136babdb7]: Textual amendment: Words in [reg. 19(1)(c)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/19/1/c) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/10/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37e81419916e375760bd8b3136babdb7]: Textual amendment: Words in [reg. 19(1)(c)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/19/1/c) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/10/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7458a0ff154f05d28fc60399b61be65a]: Textual amendment: Words in [reg. 19(1)(d)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/19/1/d) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/10/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7458a0ff154f05d28fc60399b61be65a]: Textual amendment: Words in [reg. 19(1)(d)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/19/1/d) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/10/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06d70cf84be2d137b4298f67a8c4fa89]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/19/3A) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/10/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06d70cf84be2d137b4298f67a8c4fa89]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/19/3A) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/10/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a7be652eed2658243c84c1e0c185763b]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/20/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2019/661/regulation/11) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7be652eed2658243c84c1e0c185763b]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/20/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2019/661/regulation/11) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9759b94a3bb8f17fd7c43bbf3f4f1ab8]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/23/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9759b94a3bb8f17fd7c43bbf3f4f1ab8]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/23/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5faebb0b22f2953b54b96dbb7c260c4e]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/23/2/a) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5faebb0b22f2953b54b96dbb7c260c4e]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/23/2/a) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33); section 94 was amended by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833) and sections 44, 60(2) and 161 of, and Schedule 9 to, the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41) (of the amendments made to section 94 by the 2002 Act, only the amendment given effect by section 60(2) has entered in to force to date).
 
 [^f00022]: Footnote: [2006 c.35](https://www.legislation.gov.uk/ukpga/2006/35).
 
-[^key-2b3dd12d7c48f39f2784dd3b72e298f7]: Textual amendment: Words in reg. 25(1)(b) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/33) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-2b3dd12d7c48f39f2784dd3b72e298f7]: Textual amendment: Words in reg. 25(1)(b) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 33](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/33) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
 [^f00024]: Footnote: Section 40 was amended by [S.I. 2014/3074](https://www.legislation.gov.uk/uksi/2014/3074).
 
@@ -1481,27 +1481,27 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00034]: Footnote: [S.I. 1997/1180 (N.I.9)](https://www.legislation.gov.uk/nisi/1997/1180).
 
-[^key-20c11e8258a9f604b0ea5a87af8f3a7f]: Textual amendment: Reg. 25(4)(5) substituted for reg. 25(4) (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/2)
+[^c-20c11e8258a9f604b0ea5a87af8f3a7f]: Textual amendment: Reg. 25(4)(5) substituted for reg. 25(4) (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/2)
 
-[^key-f5e3c941baf368dfa755c983e020b15b]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/1) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/a)
+[^c-f5e3c941baf368dfa755c983e020b15b]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/1) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/a)
 
-[^key-884457318dcf07f20e4cadef0135d996]: Textual amendment: Words in [reg. 26(2)(d)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/2/d) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-884457318dcf07f20e4cadef0135d996]: Textual amendment: Words in [reg. 26(2)(d)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/2/d) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a49ae0e3f569d46afa080669e5b7cbd]: Textual amendment: [Reg. 26(2)(g)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/2/g) inserted (30.10.2017) by [The Immigration Act 2016 (Consequential Amendments) Regulations 2017 (S.I. 2017/931)](https://www.legislation.gov.uk/uksi/2017/931), [regs. 1](https://www.legislation.gov.uk/uksi/2017/931/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/931/regulation/2/2)
+[^c-0a49ae0e3f569d46afa080669e5b7cbd]: Textual amendment: [Reg. 26(2)(g)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/2/g) inserted (30.10.2017) by [The Immigration Act 2016 (Consequential Amendments) Regulations 2017 (S.I. 2017/931)](https://www.legislation.gov.uk/uksi/2017/931), [regs. 1](https://www.legislation.gov.uk/uksi/2017/931/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/931/regulation/2/2)
 
-[^key-c1ec91670dd37ae634147394407826c6]: Textual amendment: [Reg. 26(3)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/3/a) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/b)
+[^c-c1ec91670dd37ae634147394407826c6]: Textual amendment: [Reg. 26(3)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/3/a) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/b)
 
-[^key-3bf938fc1e733cd4a81942f8878ead7c]: Textual amendment: [Reg. 26(3A)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/3A) inserted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/c)
+[^c-3bf938fc1e733cd4a81942f8878ead7c]: Textual amendment: [Reg. 26(3A)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/3A) inserted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/c)
 
-[^key-d7f3577fbee77e3a339f6a42b7b05ed9]: Textual amendment: [Reg. 26(7)-(9)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/7) substituted for [reg. 26(7)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/7) (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/d)
+[^c-d7f3577fbee77e3a339f6a42b7b05ed9]: Textual amendment: [Reg. 26(7)-(9)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/7) substituted for [reg. 26(7)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/26/7) (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/3/d)
 
-[^key-d3f1394877408ea15e22ffc541730dc3]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/27/1) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/c)
+[^c-d3f1394877408ea15e22ffc541730dc3]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/27/1) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 27(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/27/c)
 
-[^key-9b55c4c001049560356c320f87ee314a]: Textual amendment: Word in [reg. 28(1)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/28/1/a) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/3)
+[^c-9b55c4c001049560356c320f87ee314a]: Textual amendment: Word in [reg. 28(1)(a)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/28/1/a) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/3)
 
-[^key-de2af18b305991c6427dbc8384c2ad3a]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/29/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/4)
+[^c-de2af18b305991c6427dbc8384c2ad3a]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/29/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/4)
 
-[^key-52d9dec699cef2a1d84e4be5ae3bd9c8]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/30/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/5)
+[^c-52d9dec699cef2a1d84e4be5ae3bd9c8]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/30/1) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/5)
 
 [^f00035]: Footnote: Section 393 was amended by section 37(1) of, and paragraphs 1 and 32 of Schedule 9 to the Financial Services Act 2012.
 
@@ -1513,35 +1513,35 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00039]: Footnote: Paragraph 23 of Part 3 of Schedule 1ZA was amended by section 47 of, and paragraphs 1 and 16 of Schedule 3 to, the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8) and by section 129 of, and paragraphs 7(1) and (3) of Part 1 of Schedule 8 to, the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33) and by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-c8133f0b82501e68c1ccd37ef5c126c3]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2015/2038/regulation/40A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/6)
+[^c-c8133f0b82501e68c1ccd37ef5c126c3]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2015/2038/regulation/40A) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/11/6)
 
 [^f00040]: Footnote: Paragraph 25 of Part 4 of Schedule 1ZA was amended by section 109(1) of the Financial Services (Banking Reform) Act 2013.
 
-[^key-104b898dd122261c965fd2fa00cf8e70]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/43/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [13(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/13/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-104b898dd122261c965fd2fa00cf8e70]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/43/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [13(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/13/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aab58050edc0ca62e511f086d279aa9c]: Textual amendment: [Reg. 43(1)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/43/1/b) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/13/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aab58050edc0ca62e511f086d279aa9c]: Textual amendment: [Reg. 43(1)(b)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/43/1/b) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/13/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-efbc83885e14bf35c7d98762e9971b7c]: Textual amendment: [Reg. 43(2)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/43/2) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/13/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efbc83885e14bf35c7d98762e9971b7c]: Textual amendment: [Reg. 43(2)](https://www.legislation.gov.uk/uksi/2015/2038/regulation/43/2) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/13/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55e158f8b1ede88433c01df655c7e4d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/2038) revoked (14.12.2023 for the revocation of reg. 44) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xiv)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xiv)
+[^c-55e158f8b1ede88433c01df655c7e4d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/2038) revoked (14.12.2023 for the revocation of reg. 44) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xiv)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xiv)
 
-[^key-0ebedf2c2eadeab1b8c84fbc9e5fc9de]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/2038/schedule/1/paragraph/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [14(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/14/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ebedf2c2eadeab1b8c84fbc9e5fc9de]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/2038/schedule/1/paragraph/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [14(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/14/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55762a247979c638384d731bee7f5bfd]: Textual amendment: Words in [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/1/paragraph/4/e) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [14(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/14/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55762a247979c638384d731bee7f5bfd]: Textual amendment: Words in [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/1/paragraph/4/e) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [14(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/14/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb2f95f2c79278031afda307c67f22de]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/2038/schedule/2/paragraph/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2019/661/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb2f95f2c79278031afda307c67f22de]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/2038/schedule/2/paragraph/1) substituted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [15](https://www.legislation.gov.uk/uksi/2019/661/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8d8f13d42fe3bb38d84fb1a863ae728]: Textual amendment: Words in [Sch. 3 para. 4(1)(e)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/3/paragraph/4/1/e) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/4)
+[^c-d8d8f13d42fe3bb38d84fb1a863ae728]: Textual amendment: Words in [Sch. 3 para. 4(1)(e)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/3/paragraph/4/1/e) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/688/regulation/2/4)
 
 [^f00041]: Footnote: OJ No L 94, 30.3.2012, p.22.
 
-[^key-4885e4c2f4e1eb44dc18bfd429e206a6]: Textual amendment: Words in [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/3/paragraph/5/3) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(d)(ii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-4885e4c2f4e1eb44dc18bfd429e206a6]: Textual amendment: Words in [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/3/paragraph/5/3) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(d)(ii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/d/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-f04dbb5d118dab1944d99301f3dd91f8]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/3/paragraph/6/3) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(d)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/d/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-f04dbb5d118dab1944d99301f3dd91f8]: Textual amendment: Words in [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/3/paragraph/6/3) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(d)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/d/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00042]: Footnote: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-4fa6716e3f6cf206bd6aa2632ec3b11f]: Textual amendment: Words in [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/5/paragraph/3/2) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(e)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-4fa6716e3f6cf206bd6aa2632ec3b11f]: Textual amendment: Words in [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/5/paragraph/3/2) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 25(e)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/25/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00043]: Footnote: Section 234I was inserted by section 129 of, and paragraphs 1 and 3 of Part 1 of Schedule 8 to, the Financial Services (Banking Reform) Act 2013.
 
@@ -1565,15 +1565,15 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00053]: Footnote: Section 167 was amended by section 41 of, and paragraph 7(1), (2) and (3) of Part 1 of Schedule 12 to, the Financial Services Act 2012, and by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
 
-[^key-f45ccef282a7fa475ebede71e82edd49]: Textual amendment: Words in [Sch. 7 para. 2(8)(c)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2/8/c) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(2)(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f45ccef282a7fa475ebede71e82edd49]: Textual amendment: Words in [Sch. 7 para. 2(8)(c)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2/8/c) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(2)(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00054]: Footnote: Section 168 was amended by section 41 of, and paragraphs 8(1), 8(2)(a) and (b), 8(3)(a) and (b), 8(4)(a)-(g), 8(5) and 8(6) of Part 1 of Schedule 12 to, the Financial Services Act 2012, by section 47 of, and paragraph 1 and 11 of Schedule 3 to, the Pension Schemes Act [2015 (c.8)](https://www.legislation.gov.uk/ukpga/2015/8), and by section 62 of, and paragraph 33 of Part 7 of Schedule 7 to, the Counter-Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), and by section 24(1) and (2) of, and paragraphs 1 and 16(1), (2) and (3) of Part 1 of Schedule 2 to, the Financial Services Act 2010, and by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554) and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
 [^f00055]: Footnote: Section 169 was amended by section 41 of, and paragraph 9(1), (2) and (6) of Part 1 of Schedule 12 to, the Financial Services Act 2012.
 
-[^key-b080b06ea2ce37590fc9fa1664ae3d87]: Textual amendment: Words in [Sch. 7 para. 2(10)(a)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2/10/a) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/2/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b080b06ea2ce37590fc9fa1664ae3d87]: Textual amendment: Words in [Sch. 7 para. 2(10)(a)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2/10/a) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/2/b/i) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8067616b2e7f127c5b414885fb8d0001]: Textual amendment: Words in [Sch. 7 para. 2(10)(a)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2/10/a) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/2/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8067616b2e7f127c5b414885fb8d0001]: Textual amendment: Words in [Sch. 7 para. 2(10)(a)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/2/10/a) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/2/b/ii) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00056]: Footnote: Section 170 was amended by section 41 of, and paragraph 10 of Part 1 of Schedule 12 to, the Financial Services Act 2012.
 
@@ -1599,9 +1599,9 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00067]: Footnote: Section 391 was amended by sections 24(2) and 37(1) of, and paragraph 1 of Part 1 and paragraph 30 (1) to (8) of Part 6 of Schedule 9 to, the Financial Services Act 2012, and by sections 13(1) and (3) and 24(1) and (2) of, and paragraphs 1 and 28 of Part 1 of Schedule 2 to, the Financial Services Act 2010 and by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916), [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), and [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
 
-[^key-beb0d10fea2828a61681eec0eaa9808e]: Textual amendment: Word in [Sch. 7 para. 4(6)(b)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/4/6/b) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(3)(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-beb0d10fea2828a61681eec0eaa9808e]: Textual amendment: Word in [Sch. 7 para. 4(6)(b)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/4/6/b) omitted (31.12.2020) by virtue of [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(3)(a)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/3/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d76f96361d948a668d2c3c013d70dddd]: Textual amendment: Word in [Sch. 7 para. 4(6)(b)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/4/6/b) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(3)(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d76f96361d948a668d2c3c013d70dddd]: Textual amendment: Word in [Sch. 7 para. 4(6)(b)](https://www.legislation.gov.uk/uksi/2015/2038/schedule/7/paragraph/4/6/b) inserted (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [16(3)(b)](https://www.legislation.gov.uk/uksi/2019/661/regulation/16/3/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00068]: Footnote: Section 392 was amended by sections 18(1) and (5), section 35, section 37(1) and section 42 of, and paragraphs 1 and 37 of Schedule 8, and paragraph 1 of Part 1 and paragraph 31 of Part 6 of Schedule 9 and paragraph 8 of Schedule 13 to, the Financial Services Act 2012, and by section 24(1) and (2) of, and paragraphs 1 and 29 of Part 1 of Schedule 2 to, the Financial Services Act 2010, and by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 

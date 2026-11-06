@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Power to amend definition of Gypsies and Travellers[^key-4d25ad4509e265ba283761ee0855cc87]
+## 109. Power to amend definition of Gypsies and Travellers[^c-4d25ad4509e265ba283761ee0855cc87]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d25ad4509e265ba283761ee0855cc87]: Commencement: [S. 109](https://www.legislation.gov.uk/anaw/2014/7/section/109) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/380/article/2/g)
+[^c-4d25ad4509e265ba283761ee0855cc87]: Commencement: [S. 109](https://www.legislation.gov.uk/anaw/2014/7/section/109) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/380/article/2/g)

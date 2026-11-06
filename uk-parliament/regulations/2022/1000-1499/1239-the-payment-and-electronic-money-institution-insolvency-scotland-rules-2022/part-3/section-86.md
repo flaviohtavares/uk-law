@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Sending a progress report[^key-db9eecef6ba496d0ce711a2ce31b39aa]
+## 86. Sending a progress report[^c-db9eecef6ba496d0ce711a2ce31b39aa]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db9eecef6ba496d0ce711a2ce31b39aa]: Commencement: Rule 86 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-db9eecef6ba496d0ce711a2ce31b39aa]: Commencement: Rule 86 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

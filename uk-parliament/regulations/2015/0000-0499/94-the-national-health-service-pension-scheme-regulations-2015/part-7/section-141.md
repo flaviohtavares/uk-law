@@ -45,7 +45,7 @@ summary: ''
 - (b) a corresponding 1995 scheme; or
 - (c) a corresponding 2008 scheme.
 
-(5) In paragraph (1), “**buy-out policy**” means a policy of insurance or annuity contract that is appropriate for the purposes of section 19 of the 1993 Act [^c22361771] (discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts)[^key-a57a69b66d57b68f277d04804c306026].
+(5) In paragraph (1), “**buy-out policy**” means a policy of insurance or annuity contract that is appropriate for the purposes of section 19 of the 1993 Act [^c22361771] (discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts)[^c-a57a69b66d57b68f277d04804c306026].
 
 (6) In paragraph (4)—
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c22361771]: Marginal citation: Section 19 has been amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), 2005/2050 and 2007/3014.
 
-[^key-a57a69b66d57b68f277d04804c306026]: Textual amendment: Words in [reg. 141(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/141/5) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [78](https://www.legislation.gov.uk/uksi/2016/245/regulation/78) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-a57a69b66d57b68f277d04804c306026]: Textual amendment: Words in [reg. 141(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/141/5) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [78](https://www.legislation.gov.uk/uksi/2016/245/regulation/78) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
 [^c22361781]: Marginal citation: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). Section 10 has been amended by sections 4(2) and 8(5) and (6) of the [Pensions (Miscellaneous Provisions) Act 1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7), [section 190](https://www.legislation.gov.uk/ukpga/1990/7/section/190) of, and paragraph 7 of Schedule 8 to, the [Pension Schemes Act 1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), [section 27](https://www.legislation.gov.uk/ukpga/1993/48/section/27) of, and paragraphs 6 and 10 of Schedule 8 to, the [Public Service Pensions Act 2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25) and article 108 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). Functions under section 10 in relation to Scotland were transferred to the Scottish Ministers by article 2 and Schedule 1 of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750).
 

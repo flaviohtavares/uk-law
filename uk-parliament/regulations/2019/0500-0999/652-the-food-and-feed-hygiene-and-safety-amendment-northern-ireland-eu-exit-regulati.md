@@ -34,7 +34,7 @@ Exiting The European Union, Northern Ireland
 
 Food, Northern Ireland
 
-The Food and Feed Hygiene and Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^key-167c8547cdec6a10330e786d6b7bcf98]
+The Food and Feed Hygiene and Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 Sift requirements satisfied
 
@@ -50,57 +50,57 @@ Laid before Parliament-
 
 Coming into force in accordance with regulation 1
 
-[^key-167c8547cdec6a10330e786d6b7bcf98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-167c8547cdec6a10330e786d6b7bcf98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — PRELIMINARY[^key-167c8547cdec6a10330e786d6b7bcf98]
+## PART 1 — PRELIMINARY[^c-167c8547cdec6a10330e786d6b7bcf98]
 
-### 1. Citation and commencement[^key-167c8547cdec6a10330e786d6b7bcf98]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of subordinate legislation[^key-167c8547cdec6a10330e786d6b7bcf98]
-
-### 2. Amendment of the General Food Regulations (Northern Ireland) 2004[^key-167c8547cdec6a10330e786d6b7bcf98]
+### 1. Citation and commencement[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Food Hygiene Regulations (Northern Ireland) 2006[^key-167c8547cdec6a10330e786d6b7bcf98]
+## PART 2 — Amendment of subordinate legislation[^c-167c8547cdec6a10330e786d6b7bcf98]
+
+### 2. Amendment of the General Food Regulations (Northern Ireland) 2004[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of the Quick-frozen Foodstuffs (No. 2) Regulations (Northern Ireland) 2007[^key-167c8547cdec6a10330e786d6b7bcf98]
+### 3. Amendment of the Food Hygiene Regulations (Northern Ireland) 2006[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the Meat (Official Controls Charges) Regulations (Northern Ireland) 2009[^key-167c8547cdec6a10330e786d6b7bcf98]
+### 4. Amendment of the Quick-frozen Foodstuffs (No. 2) Regulations (Northern Ireland) 2007[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of the Official Feed and Food Controls Regulations (Northern Ireland) 2009[^key-167c8547cdec6a10330e786d6b7bcf98]
+### 5. Amendment of the Meat (Official Controls Charges) Regulations (Northern Ireland) 2009[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Plastic Kitchenware (Conditions on Imports from China) Regulations (Northern Ireland) 2011[^key-167c8547cdec6a10330e786d6b7bcf98]
+### 6. Amendment of the Official Feed and Food Controls Regulations (Northern Ireland) 2009[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016[^key-167c8547cdec6a10330e786d6b7bcf98]
+### 7. Amendment of the Plastic Kitchenware (Conditions on Imports from China) Regulations (Northern Ireland) 2011[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-167c8547cdec6a10330e786d6b7bcf98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 8. Amendment of the Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016[^c-167c8547cdec6a10330e786d6b7bcf98]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-167c8547cdec6a10330e786d6b7bcf98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SPECIFIED COMMUNITY PROVISIONS[^key-167c8547cdec6a10330e786d6b7bcf98]
+## SCHEDULE 1 — SPECIFIED COMMUNITY PROVISIONS[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Specified Provisions of Regulation 767/2009[^key-167c8547cdec6a10330e786d6b7bcf98]
+## SCHEDULE 2 — Specified Provisions of Regulation 767/2009[^c-167c8547cdec6a10330e786d6b7bcf98]
 
 Regulation 8
 
@@ -108,8 +108,8 @@ Regulation 8
 
 **May not be in force at this date. Check the source.**
 
-[^key-167c8547cdec6a10330e786d6b7bcf98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-167c8547cdec6a10330e786d6b7bcf98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-167c8547cdec6a10330e786d6b7bcf98]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/a)
+[^c-167c8547cdec6a10330e786d6b7bcf98]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/a)

@@ -24,11 +24,11 @@ Article 68
 
 ### PART 1 — Primary legislation
 
-#### 1. Amendment of the Medicines Act 1968[^key-7598db8e0440aebdf296730c4f68dcab]
+#### 1. Amendment of the Medicines Act 1968[^c-7598db8e0440aebdf296730c4f68dcab]
 
-(1)[^key-3b01cfdea4cb424f008b4e55e3e84d66] The Medicines Act 1968[^f00060] is amended as follows.
+(1)[^c-3b01cfdea4cb424f008b4e55e3e84d66] The Medicines Act 1968[^f00060] is amended as follows.
 
-(2)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 69[^f00061] (general provisions for Part 4)—
+(2)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 69[^f00061] (general provisions for Part 4)—
 
 - (a) in subsection (1ZA), for “registered in Part 3 of the Register of Pharmacists maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007 (visiting pharmacists from relevant European States)” substitute “registered in Part 4 of the register maintained under article 19 of the Pharmacy Order 2010 (visiting pharmacists from relevant European States)”;
 - (b) in subsection (3)—
@@ -55,7 +55,7 @@ Article 68
 
     .
 
-(3)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 70[^f00062] (business carried on by individual pharmacist or by partners)—
+(3)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 70[^f00062] (business carried on by individual pharmacist or by partners)—
 
 - (a) in subsection (3), for paragraph (b) substitute—
 
@@ -75,7 +75,7 @@ Article 68
 
   .
 
-(4)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 71[^f00063] (business carried on by body corporate)—
+(4)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 71[^f00063] (business carried on by body corporate)—
 
 - (a) in subsection (3), for paragraph (b) substitute—
 
@@ -105,13 +105,13 @@ Article 68
 
   .
 
-(5)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 72[^f00064] (representative of a pharmacist in case of death or disability) for paragraph (b) of subsection (2B) substitute—
+(5)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 72[^f00064] (representative of a pharmacist in case of death or disability) for paragraph (b) of subsection (2B) substitute—
 
 > - (b) the number of his registration under Part 4 of the Pharmacy Order 2010 or, in relation to Northern Ireland, under the Pharmacy (Northern Ireland) Order 1976, and
 
 .
 
-(6)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In subsection 72B[^f00065] (section 72A: supplementary), for subsection (1) substitute—
+(6)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In subsection 72B[^f00065] (section 72A: supplementary), for subsection (1) substitute—
 
 > (1) The failure by a person to comply with any requirements of section 72A of this Act, or of regulations made under that section, may constitute misconduct for the purposes of section 80 of this Act, article 51(1)(a) of the Pharmacy Order 2010 and Article 20 of the Pharmacy (Northern Ireland) Order 1976 and the relevant disciplinary committee may deal with such a failure accordingly.
 
@@ -119,8 +119,8 @@ Article 68
 
 (7) In section 74[^f00066] (meaning of “registered pharmacy”)—
 
-- (a)[^key-3b01cfdea4cb424f008b4e55e3e84d66] in subsection (1), omit “required to be kept under section 75 of this Act”;
-- (b)[^key-aada8ae65d2dc6b53b38e1a9cbe4060c] after subsection (1) insert—
+- (a)[^c-3b01cfdea4cb424f008b4e55e3e84d66] in subsection (1), omit “required to be kept under section 75 of this Act”;
+- (b)[^c-aada8ae65d2dc6b53b38e1a9cbe4060c] after subsection (1) insert—
 
   > (1A) If the entry of a registered pharmacy in the register is suspended under paragraph (4)(b) of article 14 of the Pharmacy Order 2010 then, except for such purposes of that Order as the General Pharmaceutical Council may prescribe by rules, that registered pharmacy must be treated as not being entered in the register notwithstanding that the register still includes the address of that pharmacy.
   >
@@ -129,7 +129,7 @@ Article 68
   ; and
 - (c) omit subsection (3).
 
-(8)[^key-aada8ae65d2dc6b53b38e1a9cbe4060c] After section 74 insert—
+(8)[^c-aada8ae65d2dc6b53b38e1a9cbe4060c] After section 74 insert—
 
 > **74A. Registration of premises: Great Britain**
 >
@@ -448,7 +448,7 @@ Article 68
 
 .
 
-(9)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 75[^f00067] (registration of premises)—
+(9)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 75[^f00067] (registration of premises)—
 
 - (a) in the heading, after “premises” insert “: Northern Ireland”;
 - (b) before subsection (1), insert—
@@ -462,7 +462,7 @@ Article 68
   - (ii) “and” at the end of paragraph (b), and
   - (iii) “in relation to premises in Northern Ireland,” in paragraph (c).
 
-(10)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 76[^f00068] (supplementary provisions as to the registration of premises)—
+(10)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 76[^f00068] (supplementary provisions as to the registration of premises)—
 
 - (a) in the heading, after “premises” insert “: Northern Ireland”;
 - (b) in subsection (1), after “entered in the register” insert “under section 75”;
@@ -481,12 +481,12 @@ Article 68
 
   .
 
-(11)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 77[^f00069] (annual return of premises to the registrar)—
+(11)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 77[^f00069] (annual return of premises to the registrar)—
 
 - (a) after “carries on a retail pharmacy business” insert “at premises in Northern Ireland”;
 - (b) in paragraph (a), before “premises” insert “such”.
 
-(12)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 78[^f00070] (restrictions on use of titles, descriptions and emblems), for subsection (5) substitute—
+(12)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 78[^f00070] (restrictions on use of titles, descriptions and emblems), for subsection (5) substitute—
 
 > (5) A person who is not registered in the register of pharmaceutical chemists for Northern Ireland or in the register of visiting pharmaceutical chemists from a relevant European State made out and maintained under Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976 may not—
 >
@@ -499,9 +499,9 @@ Article 68
 
 .
 
-(13)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 79[^f00071] (provision for modifying or extending restrictions under section 78), in subsection (3), for “the Council” substitute “the General Pharmaceutical Council and the Council of the Pharmaceutical Society of Northern Ireland”.
+(13)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 79[^f00071] (provision for modifying or extending restrictions under section 78), in subsection (3), for “the Council” substitute “the General Pharmaceutical Council and the Council of the Pharmaceutical Society of Northern Ireland”.
 
-(14)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 80[^f00072] (power for relevant disciplinary committee to disqualify and direct removal from register)—
+(14)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 80[^f00072] (power for relevant disciplinary committee to disqualify and direct removal from register)—
 
 - (a) for subsection (1) substitute—
 
@@ -516,7 +516,7 @@ Article 68
   ; and
 - (b) in subsection (5), for the words from “the Pharmacy Act 1954” to “the Misuse of Drugs Act 1971” substitute “the Pharmacy Act 1954, this Act, the Misuse of Drugs Act 1971, the Pharmacy (Northern Ireland) Order 1976, the Pharmacists and Pharmacy Technicians Order 2007 and the Pharmacy Order 2010”.
 
-(15)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 81[^f00073] (grounds for disqualification in certain cases)—
+(15)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 81[^f00073] (grounds for disqualification in certain cases)—
 
 - (a) for subsection (1) substitute—
 
@@ -543,7 +543,7 @@ Article 68
     , and
   - (iv) in sub-paragraph (d), for “offence or misconduct in question is a continuing offence or continuing misconduct” substitute “offence, misconduct or failure in question is a continuing offence or failure or is continuing misconduct”.
 
-(16)[^key-3b01cfdea4cb424f008b4e55e3e84d66] After section 84 (offences under Part 4) insert the following section—
+(16)[^c-3b01cfdea4cb424f008b4e55e3e84d66] After section 84 (offences under Part 4) insert the following section—
 
 > **84A. Rules by the General Pharmaceutical Council**
 >
@@ -553,20 +553,20 @@ Article 68
 
 .
 
-(17)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 108[^f00074] (enforcement in England and Wales), in subsection (6)(c), for “sections 77 and 78” substitute “section 78”.
+(17)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 108[^f00074] (enforcement in England and Wales), in subsection (6)(c), for “sections 77 and 78” substitute “section 78”.
 
-(18)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 132(1)[^f00075] (general interpretation provisions)—
+(18)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 132(1)[^f00075] (general interpretation provisions)—
 
 - (a) in the definition of “Pharmaceutical Society”, for “the Pharmaceutical Society of Great Britain” substitute “the General Pharmaceutical Council”; and
 - (b) in the definition of “pharmacist”, for “a person registered in Part 1 or 3 of the Register of Pharmacists maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “a person registered as a pharmacist in the register maintained under article 19 of the Pharmacy Order 2010”.
 
-(19)[^key-3b01cfdea4cb424f008b4e55e3e84d66] In section 136 (short title, extent and commencement), for subsection (2) substitute—
+(19)[^c-3b01cfdea4cb424f008b4e55e3e84d66] In section 136 (short title, extent and commencement), for subsection (2) substitute—
 
 > (2) Except as provided by section 78(5B), this Act extends to Northern Ireland.
 
 .
 
-#### 2. Amendment of the Poisons Act 1972[^key-baa8179f30dd745d3414992a82a59309][^key-61955f012746427c6b3d1db7c13e14ee]
+#### 2. Amendment of the Poisons Act 1972[^c-baa8179f30dd745d3414992a82a59309][^c-61955f012746427c6b3d1db7c13e14ee]
 
 (1) The Poisons Act 1972[^f00076] is amended as follows.
 
@@ -596,14 +596,14 @@ Article 68
 
 .
 
-#### 3. Amendment of the Race Relations Act 1976[^key-9ca8e1d4012c12e37008853c21d281ed][^key-a510705e9f78ee7941c31d1fc36e8eed]
+#### 3. Amendment of the Race Relations Act 1976[^c-9ca8e1d4012c12e37008853c21d281ed][^c-a510705e9f78ee7941c31d1fc36e8eed]
 
 In Part 2 of Schedule 1A to the Race Relations Act 1976[^f00077] (bodies and other persons subject to general statutory duty), under the heading “Regulatory, audit and inspection”—
 
 - (a) at the appropriate place insert “The General Pharmaceutical Council.”; and
 - (b) omit “The Royal Pharmaceutical Society of Great Britain, in respect of its statutory functions and the regulation of the pharmacy profession.”.
 
-#### 4. Amendment of the National Health Service (Scotland) Act 1978[^key-67ee690ffab964368213b5f0b1f42710][^key-fc9748fd24b351f8dacccb8698eb02c4]
+#### 4. Amendment of the National Health Service (Scotland) Act 1978[^c-67ee690ffab964368213b5f0b1f42710][^c-fc9748fd24b351f8dacccb8698eb02c4]
 
 (1) The National Health Service (Scotland) Act 1978[^f00078] is amended as follows.
 
@@ -626,7 +626,7 @@ In Part 2 of Schedule 1A to the Race Relations Act 1976[^f00077] (bodies and oth
 
 .
 
-#### 5. Amendment of the Value Added Tax Act 1994[^key-4e5cd1edbe78c94aa1c36f7f172561bb][^key-36a9a27b91577a3c1b6969262daead23]
+#### 5. Amendment of the Value Added Tax Act 1994[^c-4e5cd1edbe78c94aa1c36f7f172561bb][^c-36a9a27b91577a3c1b6969262daead23]
 
 (1) The Value Added Tax Act 1994[^f00082] is amended as follows.
 
@@ -634,15 +634,15 @@ In Part 2 of Schedule 1A to the Race Relations Act 1976[^f00077] (bodies and oth
 
 (3) In Part 2 of Schedule 9 (exemptions – the Groups), in group 7, in item 3, for “the Register of Pharmacists maintained under the Pharmacists and Pharmacy Technicians Order 2007 or in the register of pharmaceutical chemists kept under” substitute “the register maintained under article 19 of the Pharmacy Order 2010 or in the register of pharmaceutical chemists kept under”.
 
-#### 6. Amendment of the Data Protection Act 1998[^key-ebf70ebf443f0b4a3cba7ed886e9a427][^key-809e67b57cbaca48456117871075ee49]
+#### 6. Amendment of the Data Protection Act 1998[^c-ebf70ebf443f0b4a3cba7ed886e9a427][^c-809e67b57cbaca48456117871075ee49]
 
 In section 69(1)(d) of the Data Protection Act 1998[^f00083] (meaning of “health professional”), for “a registered pharmacist or registered pharmacy technician within the meaning of the Pharmacists and Pharmacy Technicians Order 2007” substitute “a registered pharmacist or a registered pharmacy technician within the meaning of article 3(1) of the Pharmacy Order 2010”.
 
-#### 7. Amendment of the Health Act 1999[^key-778588f12c3fdcfc37a4cf738044435e][^key-368896fc783f04b98a684d8bf354611c]
+#### 7. Amendment of the Health Act 1999[^c-778588f12c3fdcfc37a4cf738044435e][^c-368896fc783f04b98a684d8bf354611c]
 
 In section 60(2) of the Health Act 1999[^f00084] (regulation of health care and associated professions) for “the Pharmacists and Pharmacy Technicians Order 2007” in paragraph (aa)[^f00085] substitute “the Pharmacy Order 2010”.
 
-#### 8. Amendment of the Regulation of Investigatory Powers Act 2000[^key-506903abe017ef01f546ba8019509cd8][^key-7e81e8b4de1d3669b38d1a22abfb275a]
+#### 8. Amendment of the Regulation of Investigatory Powers Act 2000[^c-506903abe017ef01f546ba8019509cd8][^c-7e81e8b4de1d3669b38d1a22abfb275a]
 
 In Part 2 of Schedule 1 to the Regulation of Investigatory Powers Act 2000[^f00086] (relevant authorities for the purposes only of section 28), for paragraph 28 and the heading preceding it substitute—
 
@@ -652,18 +652,18 @@ In Part 2 of Schedule 1 to the Regulation of Investigatory Powers Act 2000[^f000
 
 .
 
-#### 9. Amendment of the Freedom of Information Act 2000[^key-72c57ed4ef8d6d6b609a60b6732e67df][^key-314a4d50a18d864dac0b3fbaf7f592d9]
+#### 9. Amendment of the Freedom of Information Act 2000[^c-72c57ed4ef8d6d6b609a60b6732e67df][^c-314a4d50a18d864dac0b3fbaf7f592d9]
 
 In Part 6 of Schedule 1 to the Freedom of Information Act 2000[^f00087] (public authorities for the purposes of that Act)—
 
 - (a) at the appropriate place insert “The General Pharmaceutical Council.”; and
 - (b) omit “The Royal Pharmaceutical Society of Great Britain, in respect of information held by it otherwise than as a tribunal.”.
 
-#### 10. Amendment of the National Health Service Reform and Health Care Professions Act 2002[^key-21ba321a5b6f721e7f877af3d7cfcb6b][^key-75535705592b4322fa3030b8bb27ec1e]
+#### 10. Amendment of the National Health Service Reform and Health Care Professions Act 2002[^c-21ba321a5b6f721e7f877af3d7cfcb6b][^c-75535705592b4322fa3030b8bb27ec1e]
 
 (1) The National Health Service Reform and Health Care Professions Act 2002[^f00088] is amended as follows.
 
-(2) In section 25[^f00089] (the Professional Standards Authority for Health and Social Care[^key-802ad5c1c685defd12bc56441e233d10]), in subsection (3), for paragraph (f) substitute—
+(2) In section 25[^f00089] (the Professional Standards Authority for Health and Social Care[^c-802ad5c1c685defd12bc56441e233d10]), in subsection (3), for paragraph (f) substitute—
 
 > - (f) the General Pharmaceutical Council,
 
@@ -677,7 +677,7 @@ In Part 6 of Schedule 1 to the Freedom of Information Act 2000[^f00087] (public 
 
 .
 
-#### 11. Amendment of the Income Tax (Earnings and Pensions) Act 2003[^key-4b19de7f03b401a880f8e8dfa93cedb8][^key-33944294491dffece659f917514b1be2]
+#### 11. Amendment of the Income Tax (Earnings and Pensions) Act 2003[^c-4b19de7f03b401a880f8e8dfa93cedb8][^c-33944294491dffece659f917514b1be2]
 
 In section 343 of the Income Tax (Earnings and Pensions) Act 2003[^f00092] (deduction for professional membership fees), in the Table in subsection (2), in paragraph 1, for sub-paragraphs (l) and (m) substitute—
 
@@ -685,14 +685,14 @@ In section 343 of the Income Tax (Earnings and Pensions) Act 2003[^f00092] (dedu
 
 .
 
-#### 12. Amendment of the Health Act 2006[^key-8832e622a1b1ddd3525f84a9bff0f989]
+#### 12. Amendment of the Health Act 2006[^c-8832e622a1b1ddd3525f84a9bff0f989]
 
 In the Health Act 2006[^f00093]—
 
-- (a)[^key-8f8cdb09317bf5c37f5834967457ab7d] in section 60 (Commission to exercise Privy Council’s appointment functions), omit subsection (2); and
-- (b)[^key-156209fc4dd453b155b8763ace8e6ae1] in Schedule 6 (the Appointments Commission: list of regulatory bodies), after “The General Osteopathic Council.” insert “The General Pharmaceutical Council.”.
+- (a)[^c-8f8cdb09317bf5c37f5834967457ab7d] in section 60 (Commission to exercise Privy Council’s appointment functions), omit subsection (2); and
+- (b)[^c-156209fc4dd453b155b8763ace8e6ae1] in Schedule 6 (the Appointments Commission: list of regulatory bodies), after “The General Osteopathic Council.” insert “The General Pharmaceutical Council.”.
 
-#### 13. Amendment of the National Health Service Act 2006[^key-48a9658e0d516db6f46aafdb2f72b708][^key-25f07bf6484200b1d49afe86e2294a37]
+#### 13. Amendment of the National Health Service Act 2006[^c-48a9658e0d516db6f46aafdb2f72b708][^c-25f07bf6484200b1d49afe86e2294a37]
 
 (1) The National Health Service Act 2006[^f00094] is amended as follows.
 
@@ -710,7 +710,7 @@ In the Health Act 2006[^f00093]—
 
 .
 
-#### 14. Amendment of the National Health Service (Wales) Act 2006[^key-23b54372f52ba5229981176c70480544][^key-4b5bcb31dc583f14cf9d82465af92730]
+#### 14. Amendment of the National Health Service (Wales) Act 2006[^c-23b54372f52ba5229981176c70480544][^c-4b5bcb31dc583f14cf9d82465af92730]
 
 (1) The National Health Service (Wales) Act 2006[^f00098] is amended as follows.
 
@@ -728,7 +728,7 @@ In the Health Act 2006[^f00093]—
 
 .
 
-#### 15. Amendment of the Safeguarding Vulnerable Groups Act 2006[^key-01710125be398583e714d4f689ca3e74][^key-438812bf815a0735927ab8519482d3d9]
+#### 15. Amendment of the Safeguarding Vulnerable Groups Act 2006[^c-01710125be398583e714d4f689ca3e74][^c-438812bf815a0735927ab8519482d3d9]
 
 In the table in section 41(7) of the Safeguarding Vulnerable Groups Act 2006[^f00102] (registers: duty to refer)—
 
@@ -743,7 +743,7 @@ In the table in section 41(7) of the Safeguarding Vulnerable Groups Act 2006[^f0
 
   .
 
-#### 16. Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007[^key-7ca5dd8c70f7f0f28b23fbfd0932334c][^key-fc14c6ec571497d842a1af3e4de2c06d]
+#### 16. Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007[^c-7ca5dd8c70f7f0f28b23fbfd0932334c][^c-fc14c6ec571497d842a1af3e4de2c06d]
 
 In the Protection of Vulnerable Groups (Scotland) Act 2007[^f00103]—
 
@@ -758,11 +758,11 @@ In the Protection of Vulnerable Groups (Scotland) Act 2007[^f00103]—
 
 ### PART 2 — Secondary legislation
 
-#### 17. Amendment of the Medicines (Pharmacies) (Applications for Registration and Fees) Regulations 1973[^key-8e1b027da3e75d229be538c549db718d][^key-1947696bf1f8c36caa6e9bb625d53035]
+#### 17. Amendment of the Medicines (Pharmacies) (Applications for Registration and Fees) Regulations 1973[^c-8e1b027da3e75d229be538c549db718d][^c-1947696bf1f8c36caa6e9bb625d53035]
 
 The Medicines (Pharmacies) (Applications for Registration and Fees) Regulations 1973[^f00104] are hereby revoked.
 
-#### 18. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-976854505a7caff608c847ff9818e86c][^key-ab41dd4b9c152f2ec4a4f48652df940c]
+#### 18. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-976854505a7caff608c847ff9818e86c][^c-ab41dd4b9c152f2ec4a4f48652df940c]
 
 (1) In Part 4 of Schedule 1 to the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00105] (excepted professions, offices, employments, work and occupations: interpretation)—
 
@@ -783,7 +783,7 @@ The Medicines (Pharmacies) (Applications for Registration and Fees) Regulations 
 
 .
 
-#### 19. Amendment of the Medicines (Bal Jivan Chamcho Prohibition) (No 2) Order 1977[^key-12b5473136bf238cda43e2fd2f0bde35][^key-b627c8585402d8fa178f966985f0f275]
+#### 19. Amendment of the Medicines (Bal Jivan Chamcho Prohibition) (No 2) Order 1977[^c-12b5473136bf238cda43e2fd2f0bde35][^c-b627c8585402d8fa178f966985f0f275]
 
 In regulation 2(3) of the Medicines (Bal Jivan Chamcho Prohibition) (No 2) Order 1977[^f00107] (prohibition of sale, supply and importation of Bal Jivan Chamcho), for sub-paragraph (e) substitute—
 
@@ -791,7 +791,7 @@ In regulation 2(3) of the Medicines (Bal Jivan Chamcho Prohibition) (No 2) Order
 
 .
 
-#### 20. Amendment of the Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980[^key-ed3de451676b88b1c07478fa78bfa8c8][^key-d41d5b7d3ff87426472ba4fed0da3c4e]
+#### 20. Amendment of the Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980[^c-ed3de451676b88b1c07478fa78bfa8c8][^c-d41d5b7d3ff87426472ba4fed0da3c4e]
 
 (1) The Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980[^f00108] are amended as follows.
 
@@ -799,22 +799,22 @@ In regulation 2(3) of the Medicines (Bal Jivan Chamcho Prohibition) (No 2) Order
 
 (3) In regulation 2(3)[^f00110] (enforcement) for “The Pharmaceutical Society shall continue to have power and be” substitute “The General Pharmaceutical Council has power and is”.
 
-#### 21. Amendment of the Medicines (Pharmacy and General Sale – Exemption) Order 1980[^key-f99d24b67c2d771b2fd2281e88274ec1][^key-eb30c3b413fd75365d1b49872ad6aaff]
+#### 21. Amendment of the Medicines (Pharmacy and General Sale – Exemption) Order 1980[^c-f99d24b67c2d771b2fd2281e88274ec1][^c-eb30c3b413fd75365d1b49872ad6aaff]
 
 In regulation 1(2) of the Medicines (Pharmacy and General Sale – Exemption) Order 1980[^f00111] (citation, commencement and interpretation), in paragraph (b) of the definition of “relevant register” for “Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “Part 1 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 22. Amendment of the Employment Agencies Act 1973 (Exemption) (No 2) Regulations 1984[^key-dcb73239bd70ffa3317fa46e33e0f135][^key-2ec64e5d1438cc805117595e8f1e5d24]
+#### 22. Amendment of the Employment Agencies Act 1973 (Exemption) (No 2) Regulations 1984[^c-dcb73239bd70ffa3317fa46e33e0f135][^c-2ec64e5d1438cc805117595e8f1e5d24]
 
 In the Schedule to the Employment Agencies Act 1973 (Exemption) (No 2) Regulations 1984[^f00112] (exempt organisations)—
 
 - (a) after “the Faculty of Actuaries in Scotland” insert “The General Pharmaceutical Council”; and
 - (b) omit “The Pharmaceutical Society of Great Britain”.
 
-#### 23. Amendment of the Medicines (Fixing of Fees Relating to Medicinal Products for Human Use) Order 1989[^key-c15ce08f332174c761ecd2e79cff259e][^key-a119bf8482206edfcc478545d2529172]
+#### 23. Amendment of the Medicines (Fixing of Fees Relating to Medicinal Products for Human Use) Order 1989[^c-c15ce08f332174c761ecd2e79cff259e][^c-a119bf8482206edfcc478545d2529172]
 
 Omit paragraph 9 of Schedule 1 and paragraph 1 of Schedule 2 to the Medicines (Fixing of Fees Relating to Medicinal Products for Human Use) Order 1989[^f00113].
 
-#### 24. Amendment of the National Health Service (Pharmaceutical Services) Regulations 1992[^key-4fe7c0196fe1e55410dde0d2c58c17f8][^key-de2cdf9c9a7e1c454558828e78dd8c7f]
+#### 24. Amendment of the National Health Service (Pharmaceutical Services) Regulations 1992[^c-4fe7c0196fe1e55410dde0d2c58c17f8][^c-de2cdf9c9a7e1c454558828e78dd8c7f]
 
 In regulation 2(1) of the National Health Service (Pharmaceutical Services) Regulations 1992[^f00114] (interpretation)—
 
@@ -825,27 +825,27 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) Regu
 
   .
 
-#### 25. Amendment of the National Health Service (Service Committees and Tribunal) Regulations 1992[^key-dc9d860c0cc2f7509058c2dce18312da]
+#### 25. Amendment of the National Health Service (Service Committees and Tribunal) Regulations 1992[^c-dc9d860c0cc2f7509058c2dce18312da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Amendment of the Medicines for Human Use (Marketing Authorisations Etc.) Regulations 1994[^key-be21bda28487a87b3f6c01263d70c729][^key-b2b63442d0b3ddf14ca2977a869c7956]
+#### 26. Amendment of the Medicines for Human Use (Marketing Authorisations Etc.) Regulations 1994[^c-be21bda28487a87b3f6c01263d70c729][^c-b2b63442d0b3ddf14ca2977a869c7956]
 
 In regulation 1(2) of the Medicines for Human Use (Marketing Authorisations Etc.) Regulations 1994[^f00116] (citation, commencement and interpretation), in paragraph (b) of the definition of “relevant register” for “Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007”, substitute “Part 1 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 27. Amendment of the Prescription Only Medicines (Human Use) Order 1997[^key-4ec3b8f82981e10be839973f65732e76][^key-b6643f1d6b232c597118d696e2dbe89a]
+#### 27. Amendment of the Prescription Only Medicines (Human Use) Order 1997[^c-4ec3b8f82981e10be839973f65732e76][^c-b6643f1d6b232c597118d696e2dbe89a]
 
 In article 1(2) of the Prescription Only Medicines (Human Use) Order 1997[^f00117] (citation, commencement and interpretation), in paragraph (b) of the definition of “relevant register” for “Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “Part 1 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 28. Amendment of the Building Societies (Business Names) Regulations 1998[^key-a45410af316fd42ef83d1119608a2936][^key-94e780eace10eaaa8b2b54342d2926bc]
+#### 28. Amendment of the Building Societies (Business Names) Regulations 1998[^c-a45410af316fd42ef83d1119608a2936][^c-94e780eace10eaaa8b2b54342d2926bc]
 
 In the Schedule to the Building Societies (Business Names) Regulations 1998[^f00118] (specification of words, expressions and relevant bodies), in Column (2) of the entry for “apothecary”, for “Worshipful Society of Apothecaries of London or Pharmaceutical Society of Great Britain” substitute “Worshipful Society of Apothecaries of London or General Pharmaceutical Council”.
 
-#### 29. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-00a557b7ea6f19051c54a1ee53e03ca7][^key-b444cebce74afb99d8797ad033957a3d]
+#### 29. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-00a557b7ea6f19051c54a1ee53e03ca7][^c-b444cebce74afb99d8797ad033957a3d]
 
 In regulation 2(1) of the Feeding Stuffs (Enforcement) Regulations 1999[^f00119] (interpretation), in paragraph (a)(i) of the definition of “the competent authority”, for “the Royal Pharmaceutical Society of Great Britain” substitute “the General Pharmaceutical Council”.
 
-#### 30. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-3832d4937ebf698b918a7ebf1f1e95bf][^key-b6434de5b8657aa9f2a77a46bd5b1cb1]
+#### 30. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-3832d4937ebf698b918a7ebf1f1e95bf][^c-b6434de5b8657aa9f2a77a46bd5b1cb1]
 
 In regulation 2(1) of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^f00120] (interpretation)—
 
@@ -856,7 +856,7 @@ In regulation 2(1) of the National Health Service (Charges for Drugs and Applian
 
   .
 
-#### 31. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-0ddd4906347df38be614d7320f26fbe2][^key-a952ccc4b99f1c920f0aba3c1d0566c4]
+#### 31. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-0ddd4906347df38be614d7320f26fbe2][^c-a952ccc4b99f1c920f0aba3c1d0566c4]
 
 In regulation 53(2) of the Representation of the People (England and Wales) Regulations 2001[^f00121] (additional requirements for applications for a proxy vote for a definite or indefinite period on grounds of blindness or any other disability), for sub-paragraph (e) substitute—
 
@@ -864,7 +864,7 @@ In regulation 53(2) of the Representation of the People (England and Wales) Regu
 
 .
 
-#### 32. Amendment of the Representation of the People (Scotland) Regulations 2001[^key-6e34e30fff95505b92b517586600b86e][^key-a64bb04eda9dce9c3388e3b2650d13ae]
+#### 32. Amendment of the Representation of the People (Scotland) Regulations 2001[^c-6e34e30fff95505b92b517586600b86e][^c-a64bb04eda9dce9c3388e3b2650d13ae]
 
 In regulation 53(2) of the Representation of the People (Scotland) Regulations 2001[^f00122] (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or any other disability), for sub-paragraph (e) substitute—
 
@@ -872,11 +872,11 @@ In regulation 53(2) of the Representation of the People (Scotland) Regulations 2
 
 .
 
-#### 33. Amendment of the Family Health Services Appeal Authority (Procedure) Rules 2001[^key-7e508268794d8b1d41175733ca2d4d94][^key-0fb4486956592bf883558716bf369196]
+#### 33. Amendment of the Family Health Services Appeal Authority (Procedure) Rules 2001[^c-7e508268794d8b1d41175733ca2d4d94][^c-0fb4486956592bf883558716bf369196]
 
 In regulation 2(1) of the Family Health Services Appeal Authority (Procedure) Rules 2001[^f00123] (interpretation), in the definition of “appropriate professional registration body”, for “the Royal Pharmaceutical Society of Great Britain” substitute “the General Pharmaceutical Council”.
 
-#### 34. Amendment of the Misuse of Drugs Regulations 2001[^key-fd956ff4323ce63ef32dd9fa9b9b0c60][^key-bdd62ae1fa0a5bc80b7b702ce4ba9dae]
+#### 34. Amendment of the Misuse of Drugs Regulations 2001[^c-fd956ff4323ce63ef32dd9fa9b9b0c60][^c-bdd62ae1fa0a5bc80b7b702ce4ba9dae]
 
 (1) The Misuse of Drugs Regulations 2001[^f00124] are amended as follows.
 
@@ -884,26 +884,26 @@ In regulation 2(1) of the Family Health Services Appeal Authority (Procedure) Ru
 
 (3) In regulation 9(2)[^f00126] (production and supply of drugs in Schedules 3 and 4), in sub-paragraph (h), for “a person authorised by the Royal Pharmaceutical Society of Great Britain” substitute “a person authorised by the General Pharmaceutical Council”.
 
-#### 35. Amendment of the Adults with Incapacity (Ethics Committee) (Scotland) Regulations 2002[^key-b70143d15e0596f83dbe5a3090593d5f][^key-84a8c7eca55259361c2470960bccfbda]
+#### 35. Amendment of the Adults with Incapacity (Ethics Committee) (Scotland) Regulations 2002[^c-b70143d15e0596f83dbe5a3090593d5f][^c-84a8c7eca55259361c2470960bccfbda]
 
 In regulation 3(3) of the Adults with Incapacity (Ethics Committee) (Scotland) Regulations 2002[^f00127] (membership of the Committee), in sub-paragraph (e), for “pharmacist registered in Part 1 of one of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “pharmacist registered in Part 1 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 36. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002[^key-2c02176cd97eeb91ccbe364e9d7ba636][^key-2eb197b0c4249cb2162f0fe4f3683fc5]
+#### 36. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002[^c-2c02176cd97eeb91ccbe364e9d7ba636][^c-2eb197b0c4249cb2162f0fe4f3683fc5]
 
 In regulation 14 of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002[^f00128] (enforcement)—
 
 - (a) in paragraph (4), for “the Royal Pharmaceutical Society” substitute “the General Pharmaceutical Council”; and
 - (b) in paragraph (6), for “the Royal Pharmaceutical Society” substitute “the General Pharmaceutical Council”.
 
-#### 37. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-a28f9520996f686f1d1a50c6fce989db]
+#### 37. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-a28f9520996f686f1d1a50c6fce989db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 38. Amendment of the Medicines (Child Safety) Regulations 2003[^key-54e39a3b6004d8eda3e409e59f0b7bcd][^key-15a3d6b533a24badb67ae2dece3cfc05]
+#### 38. Amendment of the Medicines (Child Safety) Regulations 2003[^c-54e39a3b6004d8eda3e409e59f0b7bcd][^c-15a3d6b533a24badb67ae2dece3cfc05]
 
 In regulation 1(2) of the Medicines (Child Safety) Regulations 2003[^f00130], (citation, commencement and interpretation), in paragraph (b) of the definition of “relevant register”, for “Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “Part 1 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 39. Amendment of the National Health Service (Tribunal) (Scotland) Regulations 2004[^key-31f231737ca88543ee1ffab3e7f2ecc8][^key-72b1a4ee2d12446a07eec4844c7778d5]
+#### 39. Amendment of the National Health Service (Tribunal) (Scotland) Regulations 2004[^c-31f231737ca88543ee1ffab3e7f2ecc8][^c-72b1a4ee2d12446a07eec4844c7778d5]
 
 In regulation 2(1) of the National Health Service (Tribunal) (Scotland) Regulations 2004[^f00131] (interpretation and forms)—
 
@@ -918,11 +918,11 @@ In regulation 2(1) of the National Health Service (Tribunal) (Scotland) Regulati
 
   .
 
-#### 40. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2004[^key-2f5ddc0a006f3c3d0606816da3e544e9]
+#### 40. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2004[^c-2f5ddc0a006f3c3d0606816da3e544e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 41. Amendment of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^key-fb2a23074f5687ec96755d1cbdc07106][^key-c24ae5c86bae535531cf4e7e002b2929]
+#### 41. Amendment of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^c-fb2a23074f5687ec96755d1cbdc07106][^c-c24ae5c86bae535531cf4e7e002b2929]
 
 In regulation 2(1) of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^f00133] (interpretation)—
 
@@ -933,11 +933,11 @@ In regulation 2(1) of the National Health Service (General Medical Services Cont
 
   .
 
-#### 42. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^key-b8d4cd7ecff9cb15c2779968289fa0f9]
+#### 42. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2004[^c-b8d4cd7ecff9cb15c2779968289fa0f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 43. Amendment of the Medicines for Human Use (Clinical Trials) Regulations 2004[^key-d4c6d9dd33e4012d849ccd68f17803b7][^key-85f2d19ccc2dec5a1f7d91f353175f15]
+#### 43. Amendment of the Medicines for Human Use (Clinical Trials) Regulations 2004[^c-d4c6d9dd33e4012d849ccd68f17803b7][^c-85f2d19ccc2dec5a1f7d91f353175f15]
 
 In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 2004[^f00135] (interpretation), for paragraph (a) of the definition of “pharmacist” substitute—
 
@@ -945,7 +945,7 @@ In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 
 
 .
 
-#### 44. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^key-0167362565d7189afc4d6772c0da7b32][^key-ad1a09a880da08e32a93c120e3b2ad5e]
+#### 44. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^c-0167362565d7189afc4d6772c0da7b32][^c-ad1a09a880da08e32a93c120e3b2ad5e]
 
 In regulation 2(1) of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^f00136] (interpretation)—
 
@@ -957,7 +957,7 @@ In regulation 2(1) of the National Health Service (General Medical Services Cont
 
   .
 
-#### 45. Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^key-55d78afe297d434bbc4eef410addbbe6][^key-c7e6d7c69b2f97152981abf5510b1634]
+#### 45. Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^c-55d78afe297d434bbc4eef410addbbe6][^c-c7e6d7c69b2f97152981abf5510b1634]
 
 In regulation 2(1) of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^f00137] (interpretation)—
 
@@ -969,7 +969,7 @@ In regulation 2(1) of the National Health Service (Primary Medical Services Sect
 
   .
 
-#### 46. Amendment of the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^key-5d81475e23b6acccc4c0d3bfec5e36e9][^key-20d363804672824df8e4f42a7d672e2f]
+#### 46. Amendment of the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^c-5d81475e23b6acccc4c0d3bfec5e36e9][^c-20d363804672824df8e4f42a7d672e2f]
 
 In article 3(1) of the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^f00138] (excluded persons), for sub-paragraph (l) substitute—
 
@@ -977,27 +977,27 @@ In article 3(1) of the Regulation of Care (Social Service Workers) (Scotland) Or
 
 .
 
-#### 47. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^key-72ddb716d63d34109bf9d27c8ab52a79]
+#### 47. Amendment of the National Health Service (Pharmaceutical Services) Regulations 2005[^c-72ddb716d63d34109bf9d27c8ab52a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 48. Amendment of the Medicines for Human Use (Prescribing) Order 2005[^key-35341e085ca8ba221a048fa8288f43d5][^key-09be2d22a4424939e0cbe148dd9de8b1]
+#### 48. Amendment of the Medicines for Human Use (Prescribing) Order 2005[^c-35341e085ca8ba221a048fa8288f43d5][^c-09be2d22a4424939e0cbe148dd9de8b1]
 
 In article 1(4) of the Medicines for Human Use (Prescribing) Order 2005[^f00140] (citation, commencement, extent and interpretation), in paragraph (b) of the definition of “relevant register” for “Part 1 of the register maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “Part 1 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 49. Amendment of the Gender Recognition (Disclosure of Information) (England, Wales and Northern Ireland) (No. 2) Order 2005[^key-5c42229658b6c7082b6fe3ac6c1d27d8][^key-b7fa79d19f771d43b0fc39dbe82d65ca]
+#### 49. Amendment of the Gender Recognition (Disclosure of Information) (England, Wales and Northern Ireland) (No. 2) Order 2005[^c-5c42229658b6c7082b6fe3ac6c1d27d8][^c-b7fa79d19f771d43b0fc39dbe82d65ca]
 
 In article 5(3)(c) of the Gender Recognition (Disclosure of Information) (England, Wales and Northern Ireland) (No. 2) Order 2005[^f00141] (disclosure for medical purposes), for “a pharmacist or pharmacy technician registered in Part 1 or 3 of one of the registers maintained under articles 10(1) and 21(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “a pharmacist or a pharmacy technician registered in Part 1, 2, 4 or 5 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 50. Amendment of the Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005[^key-be1bdd7bee1458fb22e76b2185cb2309][^key-bddd69db7e7122d46588e37490789e27]
+#### 50. Amendment of the Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005[^c-be1bdd7bee1458fb22e76b2185cb2309][^c-bddd69db7e7122d46588e37490789e27]
 
 In Schedule 1 to the Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005[^f00142] (exemptions and exceptions from the provisions of regulation 4), in paragraph (b) of the definition of “relevant register” in paragraph 1, for “the register maintained in pursuance of section 2(1) of the Pharmacy Act 1954” substitute “the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 51. Amendment of the Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^key-454e171c89eb5c3446325ec905f58bfb][^key-936a0567134dce8ddc25933be2351a8d]
+#### 51. Amendment of the Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^c-454e171c89eb5c3446325ec905f58bfb][^c-936a0567134dce8ddc25933be2351a8d]
 
 In article 5(2)(b)(iii) of the Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^f00143] (disclosure for medical purposes), for “a pharmacist or pharmacy technician registered in Part 1 or 3 of one of the registers maintained under article 10(1) and 21(1) of the Pharmacists and Pharmacy Technicians Order 2007” substitute “a pharmacist registered in Part 1 or 4 of the register maintained under article 19 of the Pharmacy Order 2010 or a pharmacy technician registered in Part 2 or 5 of that register”.
 
-#### 52. Amendment of the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^key-3967f62846880b9b8a78fd795483f2c2][^key-ea653deb1a91542e81998b6f43ee3d41]
+#### 52. Amendment of the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^c-3967f62846880b9b8a78fd795483f2c2][^c-ea653deb1a91542e81998b6f43ee3d41]
 
 In regulation 4(6) of the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^f00144] (provisions relating to the start of disciplinary proceedings), for sub-paragraph (iv) of the definition of “relevant professional body” substitute—
 
@@ -1005,11 +1005,11 @@ In regulation 4(6) of the National Health Service (Discipline Committees) (Scotl
 
 .
 
-#### 53. Amendment of the National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^key-f36e184fea1841561c4f21293043cb3f]
+#### 53. Amendment of the National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^c-f36e184fea1841561c4f21293043cb3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 54. Amendment of the Controlled Drugs (Supervision of Management and Use) Regulations 2006[^key-7f5b4300b8dc18f3f619ca7c5173328a][^key-9c022aafe4ed8a8e4045c8cb3e7b2875]
+#### 54. Amendment of the Controlled Drugs (Supervision of Management and Use) Regulations 2006[^c-7f5b4300b8dc18f3f619ca7c5173328a][^c-9c022aafe4ed8a8e4045c8cb3e7b2875]
 
 (1) The Controlled Drugs (Supervision of Management and Use) Regulations 2006[^f00146] are amended as follows.
 
@@ -1025,7 +1025,7 @@ In regulation 4(6) of the National Health Service (Discipline Committees) (Scotl
 
 (5) In regulation 21(b) (inspections of private dwellings not requiring the presence of a constable), for “the Royal Pharmaceutical Society of Great Britain” substitute “the General Pharmaceutical Council”.
 
-#### 55. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007[^key-742a3a994fea81137131e340f8c284a3][^key-48405d41d7bf153cb1303659c3eb6d11]
+#### 55. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007[^c-742a3a994fea81137131e340f8c284a3][^c-48405d41d7bf153cb1303659c3eb6d11]
 
 In regulation 2(1) of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007[^f00149] (interpretation), for paragraph (b) of the definition of “relevant register” (“cofrestr berthnasol”) substitute—
 
@@ -1033,7 +1033,7 @@ In regulation 2(1) of the National Health Service (Free Prescriptions and Charge
 
 .
 
-#### 56. Diwygio Rheoliadau’r Gwasanaeth Iechyd Gwladol (Presgripsiynau am Ddim a Ffioedd am Gyffuriau a Chyfarpar) (Cymru) 2007[^key-8f1a6f5705859e88ac9c5bce2688870c][^key-f4e0d5495441f13d3dbaa7a57aa3431e]
+#### 56. Diwygio Rheoliadau’r Gwasanaeth Iechyd Gwladol (Presgripsiynau am Ddim a Ffioedd am Gyffuriau a Chyfarpar) (Cymru) 2007[^c-8f1a6f5705859e88ac9c5bce2688870c][^c-f4e0d5495441f13d3dbaa7a57aa3431e]
 
 Yn rheoliad 2(1) o Reoliadau’r Gwasanaeth Iechyd Gwladol (Presgripsiynau am Ddim a Ffioedd am Gyffuriau a Chyfarpar) (Cymru) 2007[^f00150] (dehongli), yn lle paragraff (b) yn y diffiniad o “cofrestr berthnasol” (“relevant register”) rhodder—
 
@@ -1041,7 +1041,7 @@ Yn rheoliad 2(1) o Reoliadau’r Gwasanaeth Iechyd Gwladol (Presgripsiynau am Dd
 
 .
 
-#### 57. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^key-105a2a0a93d8cdc59b993505b83c9c54][^key-2ad7cf216047c85345178a3479c0ab3b]
+#### 57. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^c-105a2a0a93d8cdc59b993505b83c9c54][^c-2ad7cf216047c85345178a3479c0ab3b]
 
 In paragraph 4(2) of Schedule 1 to the National Assembly for Wales (Representation of the People) Order 2007[^f00151] (additional requirements for applications on grounds of blindness or other disability), for paragraph (e) substitute—
 
@@ -1049,19 +1049,19 @@ In paragraph 4(2) of Schedule 1 to the National Assembly for Wales (Representati
 
 .
 
-#### 58. Revocation of the Pharmacists and Pharmacy Technicians Order 2007[^key-2c23c0d2840c81aa730c2f724f9a8a24][^key-c3dc9d78748e5592f2a445b5ee47f62d]
+#### 58. Revocation of the Pharmacists and Pharmacy Technicians Order 2007[^c-2c23c0d2840c81aa730c2f724f9a8a24][^c-c3dc9d78748e5592f2a445b5ee47f62d]
 
 The Pharmacists and Pharmacy Technicians Order 2007[^f00152] is hereby revoked subject to the savings made in Schedule 5 to this Order.
 
-#### 59. Amendment of the Licensing (Relevant Offences) (Scotland) Regulations 2007[^key-cb05561732f7281f1d0a9fb553b782ce][^key-67eaaf482fa4ae84941598087c4056d7]
+#### 59. Amendment of the Licensing (Relevant Offences) (Scotland) Regulations 2007[^c-cb05561732f7281f1d0a9fb553b782ce][^c-67eaaf482fa4ae84941598087c4056d7]
 
 In paragraph 3 of Part 2 of the Schedule to the Licensing (Relevant Offences) (Scotland) Regulations 2007[^f00153] (other statutory offences), for “An offence under the Pharmacy Act 1954” substitute “An offence under article 38 of the Pharmacy Order 2010”.
 
-#### 60. Amendment of the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007[^key-4e75ed34aa709fe83b3d3d82ace2bb0f][^key-91e1d8e9744c68893401ed4622a43e4a]
+#### 60. Amendment of the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007[^c-4e75ed34aa709fe83b3d3d82ace2bb0f][^c-91e1d8e9744c68893401ed4622a43e4a]
 
 In Column 1 of the Schedule to the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007[^f00154], for “The Royal Pharmaceutical Society of Great Britain” substitute “The General Pharmaceutical Council”.
 
-#### 61. Amendment of the Scottish Parliament (Elections etc.) Order 2007[^key-7ad6e7c6653fa9d69a0452115d7c01a2][^key-8c35e7f727e64ab01b854cd41e9322fb]
+#### 61. Amendment of the Scottish Parliament (Elections etc.) Order 2007[^c-7ad6e7c6653fa9d69a0452115d7c01a2][^c-8c35e7f727e64ab01b854cd41e9322fb]
 
 In paragraph 3(2) of Schedule 3 to the Scottish Parliament (Elections etc.) Order 2007[^f00155] (additional requirements for applications on grounds of disability), for paragraph (e) substitute—
 
@@ -1069,14 +1069,14 @@ In paragraph 3(2) of Schedule 3 to the Scottish Parliament (Elections etc.) Orde
 
 .
 
-#### 62. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^key-74606ab9205f6399091176c183a18276][^key-34b198631c4393471add6990498ae531]
+#### 62. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^c-74606ab9205f6399091176c183a18276][^c-34b198631c4393471add6990498ae531]
 
 In the European Communities (Recognition of Professional Qualifications) Regulations 2007[^f00156] (sectoral professions)—
 
-- (a)[^key-6bfd462d0a87b27b164b8513a82bfe19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-6bfd462d0a87b27b164b8513a82bfe19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6bfd462d0a87b27b164b8513a82bfe19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6bfd462d0a87b27b164b8513a82bfe19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 63. Amendment of the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008[^key-6e79d8464e3b9b48928483e1bf6bd859][^key-141fc53f41f97eb14c64e1a83339794c]
+#### 63. Amendment of the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008[^c-6e79d8464e3b9b48928483e1bf6bd859][^c-141fc53f41f97eb14c64e1a83339794c]
 
 In regulation 2(1) of the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008[^f00157] (interpretation)—
 
@@ -1087,19 +1087,19 @@ In regulation 2(1) of the National Health Service (Charges for Drugs and Applian
 
   .
 
-#### 64. Amendment of the Controlled Drugs (Drug Precursors) (Intra-Community Trade) Regulations 2008[^key-932a66cd20ff39632b2ca2f47ba28df1][^key-99f00fb1e4b59e4ec6062c79b3126ad5]
+#### 64. Amendment of the Controlled Drugs (Drug Precursors) (Intra-Community Trade) Regulations 2008[^c-932a66cd20ff39632b2ca2f47ba28df1][^c-99f00fb1e4b59e4ec6062c79b3126ad5]
 
 In regulation 5(3) of the Controlled Drugs (Drug Precursors) (Intra-Community Trade) Regulations 2008[^f00158], in sub-paragraph (a) for “a person registered in the register of pharmaceutical chemists established in pursuance of the Pharmacy Act 1852 and maintained in pursuance of regulation 10 of the Pharmacists and Pharmacy Technicians Order 2007” substitute “a person registered as a pharmacist in Part 1 or 4 of the register maintained under article 19 of the Pharmacy Order 2010”.
 
-#### 65. Amendment of the Cosmetic Products (Safety) Regulations 2008[^key-9e7ff594e30365fc7c7059490115ff10]
+#### 65. Amendment of the Cosmetic Products (Safety) Regulations 2008[^c-9e7ff594e30365fc7c7059490115ff10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 66. Amendment of the Medicines (Pharmacies) (Responsible Pharmacist) Regulations 2008[^key-8ad046cda0f097a5a31788e2ca73f7b1]
+#### 66. Amendment of the Medicines (Pharmacies) (Responsible Pharmacist) Regulations 2008[^c-8ad046cda0f097a5a31788e2ca73f7b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 67. Amendment of the Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008[^key-5b6cc77b14b71864c5218edc70b99a82][^key-bf3c12b88b478e66fa082a2ac9ee098f]
+#### 67. Amendment of the Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008[^c-5b6cc77b14b71864c5218edc70b99a82][^c-bf3c12b88b478e66fa082a2ac9ee098f]
 
 In regulation 2(2) of the Council for Healthcare Regulatory Excellence (Appointment, Procedure etc.) Regulations 2008[^f00161] (conditions of appointment for chair and non-executive members of the Council), for sub-paragraph (j)(viii) substitute—
 
@@ -1107,7 +1107,7 @@ In regulation 2(2) of the Council for Healthcare Regulatory Excellence (Appointm
 
 .
 
-#### 68. Amendment of the Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008[^key-e7a2042d3679b8c91314978c81670675][^key-cba77efd39fb76c021feec68f4fd073d]
+#### 68. Amendment of the Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008[^c-e7a2042d3679b8c91314978c81670675][^c-cba77efd39fb76c021feec68f4fd073d]
 
 In regulation 2 of the Controlled Drugs (Supervision of Management and Use) (Wales) Regulations 2008[^f00162] (interpretation)—
 
@@ -1122,7 +1122,7 @@ In regulation 2 of the Controlled Drugs (Supervision of Management and Use) (Wal
 
   .
 
-#### 69. Diwygio Rheoliadau Cyffuriau a Reolir (Goruchwylio Rheolaeth a Defnydd) (Cymru) 2008[^key-a4853f703ea6b4adb4e6d90b19699a54][^key-cac2bbb5cea50a1ed87c626d21dc9aed]
+#### 69. Diwygio Rheoliadau Cyffuriau a Reolir (Goruchwylio Rheolaeth a Defnydd) (Cymru) 2008[^c-a4853f703ea6b4adb4e6d90b19699a54][^c-cac2bbb5cea50a1ed87c626d21dc9aed]
 
 Yn rheoliad 2 o Reoliadau Cyffuriau a Reolir (Goruchwylio Rheolaeth a Defnydd) (Cymru) 2008[^f00163] (dehongli)—
 
@@ -1137,7 +1137,7 @@ Yn rheoliad 2 o Reoliadau Cyffuriau a Reolir (Goruchwylio Rheolaeth a Defnydd) (
 
   .
 
-#### 70. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-bae627e65e727c56e23457e44e8a0298][^key-cf907c5a2835986214554ff697603bad]
+#### 70. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^c-bae627e65e727c56e23457e44e8a0298][^c-cf907c5a2835986214554ff697603bad]
 
 In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00164] (interpretation and application)—
 
@@ -1148,15 +1148,15 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
   .
 
-#### 71. Amendment of the Veterinary Medicines Regulations 2009[^key-9c17721e917b09b6b9c8625bf67b8c8c]
+#### 71. Amendment of the Veterinary Medicines Regulations 2009[^c-9c17721e917b09b6b9c8625bf67b8c8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7598db8e0440aebdf296730c4f68dcab]: Commencement: Sch. 4 para. 1 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7598db8e0440aebdf296730c4f68dcab]: Commencement: Sch. 4 para. 1 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-3b01cfdea4cb424f008b4e55e3e84d66]: Commencement: [Sch. 4 para. 1(1)-(6)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/1), [(7)(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/7/a), [(9)-(19)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/9) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-3b01cfdea4cb424f008b4e55e3e84d66]: Commencement: [Sch. 4 para. 1(1)-(6)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/1), [(7)(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/7/a), [(9)-(19)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/9) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00060]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67).
 
@@ -1172,7 +1172,7 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00066]: Footnote: Section 74(1), (2), (4) and (6) were amended, and section 74(2) and (4) repealed, by the Statute Law (Repeals) Act [1993 (c.50)](https://www.legislation.gov.uk/ukpga/1993/50) and [S.I.2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
 
-[^key-aada8ae65d2dc6b53b38e1a9cbe4060c]: Commencement: [Sch. 4 para. 1(7)(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/7/b)[(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-aada8ae65d2dc6b53b38e1a9cbe4060c]: Commencement: [Sch. 4 para. 1(7)(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/7/b)[(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00067]: Footnote: Section 75 was amended by [S.I.1968/1699](https://www.legislation.gov.uk/uksi/1968/1699).
 
@@ -1192,21 +1192,21 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00075]: Footnote: The definition of “pharmacist” in section 132(1) was amended by [S.I.1976/1213](https://www.legislation.gov.uk/uksi/1976/1213) and [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [3101](https://www.legislation.gov.uk/uksi/2007/3101) and by the European Qualifications (Pharmacy) Regulations (Northern Ireland) 2008 ([S.R.2008/192](https://www.legislation.gov.uk/nisr/2008/192)).
 
-[^key-baa8179f30dd745d3414992a82a59309]: Commencement: Sch. 4 para. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-baa8179f30dd745d3414992a82a59309]: Commencement: Sch. 4 para. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-61955f012746427c6b3d1db7c13e14ee]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-61955f012746427c6b3d1db7c13e14ee]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/2) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00076]: Footnote: [1972 c.66](https://www.legislation.gov.uk/ukpga/1972/66). Section 9(1) to (4), and the definition of pharmacist in section 11(2), were amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-9ca8e1d4012c12e37008853c21d281ed]: Commencement: Sch. 4 para. 3 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-9ca8e1d4012c12e37008853c21d281ed]: Commencement: Sch. 4 para. 3 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-a510705e9f78ee7941c31d1fc36e8eed]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/3) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-a510705e9f78ee7941c31d1fc36e8eed]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/3) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00077]: Footnote: [1976 c.74](https://www.legislation.gov.uk/ukpga/1976/74). Schedule 1A was inserted by [S.I.2001/3457](https://www.legislation.gov.uk/uksi/2001/3457).
 
-[^key-67ee690ffab964368213b5f0b1f42710]: Commencement: Sch. 4 para. 4 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-67ee690ffab964368213b5f0b1f42710]: Commencement: Sch. 4 para. 4 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-fc9748fd24b351f8dacccb8698eb02c4]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/4) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-fc9748fd24b351f8dacccb8698eb02c4]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/4) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00078]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -1216,69 +1216,69 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00081]: Footnote: There are no relevant amendments to section 108(1).
 
-[^key-4e5cd1edbe78c94aa1c36f7f172561bb]: Commencement: Sch. 4 para. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-4e5cd1edbe78c94aa1c36f7f172561bb]: Commencement: Sch. 4 para. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-36a9a27b91577a3c1b6969262daead23]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/5) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-36a9a27b91577a3c1b6969262daead23]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/5) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00082]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23); item 1 in group 12 in Part 2 of Schedule 8 was amended by [S.I.1997/2744](https://www.legislation.gov.uk/uksi/1997/2744), [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289). Item 3 in group 7 in Part 2 of Schedule 9 was amended by [S.I.2007/206](https://www.legislation.gov.uk/uksi/2007/206) and [289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-ebf70ebf443f0b4a3cba7ed886e9a427]: Commencement: Sch. 4 para. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-ebf70ebf443f0b4a3cba7ed886e9a427]: Commencement: Sch. 4 para. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-809e67b57cbaca48456117871075ee49]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/6) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-809e67b57cbaca48456117871075ee49]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/6) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00083]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29). Section 69(1) was amended by [S.I.2002/253](https://www.legislation.gov.uk/uksi/2002/253) and [254](https://www.legislation.gov.uk/uksi/2002/254), [2003/1590](https://www.legislation.gov.uk/uksi/2003/1590), [2005/848](https://www.legislation.gov.uk/uksi/2005/848) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-778588f12c3fdcfc37a4cf738044435e]: Commencement: Sch. 4 para. 7 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-778588f12c3fdcfc37a4cf738044435e]: Commencement: Sch. 4 para. 7 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-368896fc783f04b98a684d8bf354611c]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/7) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-368896fc783f04b98a684d8bf354611c]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/7) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00084]: Footnote: [1999 c.8](https://www.legislation.gov.uk/ukpga/1999/8). Subsection (2) was amended by the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), sections 111, 166 and Schedule 8 and by [S.I.2002/253](https://www.legislation.gov.uk/uksi/2002/253) and [254](https://www.legislation.gov.uk/uksi/2002/254).
 
 [^f00085]: Footnote: Paragraph (aa) of subsection (2) was inserted into section 60 by section 111 of, and Schedule 8 to, the Health and Social Care Act 2008.
 
-[^key-506903abe017ef01f546ba8019509cd8]: Commencement: Sch. 4 para. 8 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-506903abe017ef01f546ba8019509cd8]: Commencement: Sch. 4 para. 8 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-7e81e8b4de1d3669b38d1a22abfb275a]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/8) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-7e81e8b4de1d3669b38d1a22abfb275a]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/8) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00086]: Footnote: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-72c57ed4ef8d6d6b609a60b6732e67df]: Commencement: Sch. 4 para. 9 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-72c57ed4ef8d6d6b609a60b6732e67df]: Commencement: Sch. 4 para. 9 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-314a4d50a18d864dac0b3fbaf7f592d9]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/9) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-314a4d50a18d864dac0b3fbaf7f592d9]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/9) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00087]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36). The words to be omitted by virtue of paragraph 9(b) of this Schedule were inserted by [S.I.2005/3593](https://www.legislation.gov.uk/uksi/2005/3593).
 
-[^key-21ba321a5b6f721e7f877af3d7cfcb6b]: Commencement: Sch. 4 para. 10 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-21ba321a5b6f721e7f877af3d7cfcb6b]: Commencement: Sch. 4 para. 10 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-75535705592b4322fa3030b8bb27ec1e]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/10) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-75535705592b4322fa3030b8bb27ec1e]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/10) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00088]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17)
 
 [^f00089]: Footnote: The name of the Council was changed by section 113 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14). The section heading to section 25 was substituted by paragraph 16 of Schedule 10 to that Act and other amendments to section 25 were made by paragraph 17 of that Schedule.
 
-[^key-802ad5c1c685defd12bc56441e233d10]: Textual amendment: Words in [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/10/2) substituted (1.12.2012) by [The Health and Social Care Act 2012 (Consequential Amendments – the Professional Standards Authority for Health and Social Care) Order 2012 (S.I. 2012/2672)](https://www.legislation.gov.uk/uksi/2012/2672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2672/article/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2012/2672/article/2/d)
+[^c-802ad5c1c685defd12bc56441e233d10]: Textual amendment: Words in [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/10/2) substituted (1.12.2012) by [The Health and Social Care Act 2012 (Consequential Amendments – the Professional Standards Authority for Health and Social Care) Order 2012 (S.I. 2012/2672)](https://www.legislation.gov.uk/uksi/2012/2672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2672/article/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2012/2672/article/2/d)
 
 [^f00090]: Footnote: Section 26(5) was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
 [^f00091]: Footnote: Section 29(1) was amended by the Health and Social Care Act 2008, section 118(2) and by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/848](https://www.legislation.gov.uk/uksi/2005/848) and [2011](https://www.legislation.gov.uk/uksi/2005/2011) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-4b19de7f03b401a880f8e8dfa93cedb8]: Commencement: Sch. 4 para. 11 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-4b19de7f03b401a880f8e8dfa93cedb8]: Commencement: Sch. 4 para. 11 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-33944294491dffece659f917514b1be2]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/11) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-33944294491dffece659f917514b1be2]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/11) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00092]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). The list of fees in paragraph 1 of the Table in section 343(2) was amended by the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 15 and by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [2008/836](https://www.legislation.gov.uk/uksi/2008/836).
 
-[^key-8832e622a1b1ddd3525f84a9bff0f989]: Commencement: Sch. 4 para. 12 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-8832e622a1b1ddd3525f84a9bff0f989]: Commencement: Sch. 4 para. 12 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
 [^f00093]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28).
 
-[^key-8f8cdb09317bf5c37f5834967457ab7d]: Commencement: [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/12/a) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-8f8cdb09317bf5c37f5834967457ab7d]: Commencement: [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/12/a) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-156209fc4dd453b155b8763ace8e6ae1]: Commencement: [Sch. 4 para. 12(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/12/b) in force at 12.3.2010 in so far as not already in force by [S.I. 2010/299](https://www.legislation.gov.uk/uksi/2010/299), [art. 2](https://www.legislation.gov.uk/uksi/2010/299/article/2)
+[^c-156209fc4dd453b155b8763ace8e6ae1]: Commencement: [Sch. 4 para. 12(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/12/b) in force at 12.3.2010 in so far as not already in force by [S.I. 2010/299](https://www.legislation.gov.uk/uksi/2010/299), [art. 2](https://www.legislation.gov.uk/uksi/2010/299/article/2)
 
-[^key-48a9658e0d516db6f46aafdb2f72b708]: Commencement: Sch. 4 para. 13 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-48a9658e0d516db6f46aafdb2f72b708]: Commencement: Sch. 4 para. 13 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-25f07bf6484200b1d49afe86e2294a37]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/13) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-25f07bf6484200b1d49afe86e2294a37]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/13) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00094]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -1288,9 +1288,9 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00097]: Footnote: The definition of “registered pharmacist” was substituted by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-23b54372f52ba5229981176c70480544]: Commencement: Sch. 4 para. 14 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-23b54372f52ba5229981176c70480544]: Commencement: Sch. 4 para. 14 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-4b5bcb31dc583f14cf9d82465af92730]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/14) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-4b5bcb31dc583f14cf9d82465af92730]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/14) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00098]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
 
@@ -1300,41 +1300,41 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00101]: Footnote: The definition of “registered pharmacist” in section 206(1) was substituted by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-01710125be398583e714d4f689ca3e74]: Commencement: Sch. 4 para. 15 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-01710125be398583e714d4f689ca3e74]: Commencement: Sch. 4 para. 15 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-438812bf815a0735927ab8519482d3d9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/15) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-438812bf815a0735927ab8519482d3d9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/15) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00102]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-7ca5dd8c70f7f0f28b23fbfd0932334c]: Commencement: Sch. 4 para. 16 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7ca5dd8c70f7f0f28b23fbfd0932334c]: Commencement: Sch. 4 para. 16 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-fc14c6ec571497d842a1af3e4de2c06d]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/16) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-fc14c6ec571497d842a1af3e4de2c06d]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/16) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00103]: Footnote: [2007 asp. 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-8e1b027da3e75d229be538c549db718d]: Commencement: Sch. 4 para. 17 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-8e1b027da3e75d229be538c549db718d]: Commencement: Sch. 4 para. 17 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-1947696bf1f8c36caa6e9bb625d53035]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/17) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-1947696bf1f8c36caa6e9bb625d53035]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/17) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00104]: Footnote: [S.I.1973/1822](https://www.legislation.gov.uk/uksi/1973/1822); amended by [S.I.2007/3282](https://www.legislation.gov.uk/uksi/2007/3282), regulation 1.
 
-[^key-976854505a7caff608c847ff9818e86c]: Commencement: Sch. 4 para. 18 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-976854505a7caff608c847ff9818e86c]: Commencement: Sch. 4 para. 18 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ab41dd4b9c152f2ec4a4f48652df940c]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/18) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ab41dd4b9c152f2ec4a4f48652df940c]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/18) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00105]: Footnote: [S.I.1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). The definitions of “registered pharmacist” and “registered pharmacy technician” were inserted by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
 [^f00106]: Footnote: The definition of “registered pharmacy technician” was inserted by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-12b5473136bf238cda43e2fd2f0bde35]: Commencement: Sch. 4 para. 19 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-12b5473136bf238cda43e2fd2f0bde35]: Commencement: Sch. 4 para. 19 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b627c8585402d8fa178f966985f0f275]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/19) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b627c8585402d8fa178f966985f0f275]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/19) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00107]: Footnote: [S.I.1977/670](https://www.legislation.gov.uk/uksi/1977/670). Regulation 2(3) was amended by [S.I.1990/2487](https://www.legislation.gov.uk/uksi/1990/2487).
 
-[^key-ed3de451676b88b1c07478fa78bfa8c8]: Commencement: Sch. 4 para. 20 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-ed3de451676b88b1c07478fa78bfa8c8]: Commencement: Sch. 4 para. 20 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-d41d5b7d3ff87426472ba4fed0da3c4e]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/20) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-d41d5b7d3ff87426472ba4fed0da3c4e]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/20) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00108]: Footnote: [S.I.1980/1923](https://www.legislation.gov.uk/uksi/1980/1923).
 
@@ -1342,83 +1342,83 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00110]: Footnote: Regulation 2(3) was amended by [S.I.2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
 
-[^key-f99d24b67c2d771b2fd2281e88274ec1]: Commencement: Sch. 4 para. 21 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-f99d24b67c2d771b2fd2281e88274ec1]: Commencement: Sch. 4 para. 21 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-eb30c3b413fd75365d1b49872ad6aaff]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/21) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-eb30c3b413fd75365d1b49872ad6aaff]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/21) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00111]: Footnote: [S.I.1980/1924](https://www.legislation.gov.uk/uksi/1980/1924). The definition of “relevant register” was inserted by [S.I.2004/1](https://www.legislation.gov.uk/uksi/2004/1) and amended by [S.I.2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/766](https://www.legislation.gov.uk/uksi/2005/766) and [1507](https://www.legislation.gov.uk/uksi/2005/1507), [2006/915](https://www.legislation.gov.uk/uksi/2006/915) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-dcb73239bd70ffa3317fa46e33e0f135]: Commencement: Sch. 4 para. 22 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-dcb73239bd70ffa3317fa46e33e0f135]: Commencement: Sch. 4 para. 22 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-2ec64e5d1438cc805117595e8f1e5d24]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/22) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2ec64e5d1438cc805117595e8f1e5d24]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/22) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00112]: Footnote: [S.I.1984/978](https://www.legislation.gov.uk/uksi/1984/978).
 
-[^key-c15ce08f332174c761ecd2e79cff259e]: Commencement: Sch. 4 para. 23 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-c15ce08f332174c761ecd2e79cff259e]: Commencement: Sch. 4 para. 23 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-a119bf8482206edfcc478545d2529172]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/23) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-a119bf8482206edfcc478545d2529172]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/23) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00113]: Footnote: [S.I.1989/684](https://www.legislation.gov.uk/uksi/1989/684). Paragraph 1 of Schedule 2 was amended by [S.I.2005/2754](https://www.legislation.gov.uk/uksi/2005/2754).
 
-[^key-4fe7c0196fe1e55410dde0d2c58c17f8]: Commencement: Sch. 4 para. 24 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-4fe7c0196fe1e55410dde0d2c58c17f8]: Commencement: Sch. 4 para. 24 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-de2cdf9c9a7e1c454558828e78dd8c7f]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/24) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-de2cdf9c9a7e1c454558828e78dd8c7f]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/24) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00114]: Footnote: [S.I.1992/662](https://www.legislation.gov.uk/uksi/1992/662). These Regulations have been revoked in relation to England and now apply only to Wales (see [S.I.2005/641](https://www.legislation.gov.uk/uksi/2005/641)). The definition of “relevant register” was inserted by [S.I.2007/205](https://www.legislation.gov.uk/uksi/2007/205) and amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289). The definition of “supplementary prescriber” was inserted by [S.I.2003/2624](https://www.legislation.gov.uk/uksi/2003/2624), substituted by [S.I.2007/205](https://www.legislation.gov.uk/uksi/2007/205) and amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-dc9d860c0cc2f7509058c2dce18312da]: Textual amendment: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/25) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(3)(l)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/3/l) (with [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/7/paragraph/14/2))
+[^c-dc9d860c0cc2f7509058c2dce18312da]: Textual amendment: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/25) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(3)(l)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/3/l) (with [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/7/paragraph/14/2))
 
-[^key-be21bda28487a87b3f6c01263d70c729]: Commencement: Sch. 4 para. 26 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-be21bda28487a87b3f6c01263d70c729]: Commencement: Sch. 4 para. 26 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b2b63442d0b3ddf14ca2977a869c7956]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/26) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b2b63442d0b3ddf14ca2977a869c7956]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/26) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00116]: Footnote: [S.I.1994/3144](https://www.legislation.gov.uk/uksi/1994/3144). The definition of “relevant register” was inserted by [S.I.2005/768](https://www.legislation.gov.uk/uksi/2005/768) and amended by [S.I.2005/1520](https://www.legislation.gov.uk/uksi/2005/1520), [2006/914](https://www.legislation.gov.uk/uksi/2006/914) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-4ec3b8f82981e10be839973f65732e76]: Commencement: Sch. 4 para. 27 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-4ec3b8f82981e10be839973f65732e76]: Commencement: Sch. 4 para. 27 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b6643f1d6b232c597118d696e2dbe89a]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/27) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b6643f1d6b232c597118d696e2dbe89a]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/27) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00117]: Footnote: [S.I.1997/1830](https://www.legislation.gov.uk/uksi/1997/1830). The definition of “relevant register” was inserted by [S.I.2003/696](https://www.legislation.gov.uk/uksi/2003/696) and amended by [S.I.2004/1711](https://www.legislation.gov.uk/uksi/2004/1711), [2005/765](https://www.legislation.gov.uk/uksi/2005/765) and [1507](https://www.legislation.gov.uk/uksi/2005/1507), [2006/915](https://www.legislation.gov.uk/uksi/2006/915) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-a45410af316fd42ef83d1119608a2936]: Commencement: Sch. 4 para. 28 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-a45410af316fd42ef83d1119608a2936]: Commencement: Sch. 4 para. 28 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-94e780eace10eaaa8b2b54342d2926bc]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/28) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-94e780eace10eaaa8b2b54342d2926bc]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/28) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00118]: Footnote: [S.I.1998/3186](https://www.legislation.gov.uk/uksi/1998/3186).
 
-[^key-00a557b7ea6f19051c54a1ee53e03ca7]: Commencement: Sch. 4 para. 29 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-00a557b7ea6f19051c54a1ee53e03ca7]: Commencement: Sch. 4 para. 29 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b444cebce74afb99d8797ad033957a3d]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/29) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b444cebce74afb99d8797ad033957a3d]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/29) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00119]: Footnote: [S.I.1999/2325](https://www.legislation.gov.uk/uksi/1999/2325). These Regulations were revoked in relation to England by [S.I.2005/280](https://www.legislation.gov.uk/uksi/2005/280) and in relation to Wales by [S.I.2005/3368](https://www.legislation.gov.uk/uksi/2005/3368). They were revoked in relation to Scotland by [S.I.2005/608](https://www.legislation.gov.uk/uksi/2005/608), except for certain purposes.
 
-[^key-3832d4937ebf698b918a7ebf1f1e95bf]: Commencement: Sch. 4 para. 30 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3832d4937ebf698b918a7ebf1f1e95bf]: Commencement: Sch. 4 para. 30 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b6434de5b8657aa9f2a77a46bd5b1cb1]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/30) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b6434de5b8657aa9f2a77a46bd5b1cb1]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/30) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00120]: Footnote: [S.I.2000/620](https://www.legislation.gov.uk/uksi/2000/620). The definition of “pharmacist independent prescriber” was inserted by [S.I. 2006/913](https://www.legislation.gov.uk/uksi/2006/913) and amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289). The definition of “supplementary prescriber” was inserted by [S.I.2003/699](https://www.legislation.gov.uk/uksi/2003/699), substituted by [S.I.2005/578](https://www.legislation.gov.uk/uksi/2005/578) and [2006/913](https://www.legislation.gov.uk/uksi/2006/913), and amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-0ddd4906347df38be614d7320f26fbe2]: Commencement: Sch. 4 para. 31 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-0ddd4906347df38be614d7320f26fbe2]: Commencement: Sch. 4 para. 31 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-a952ccc4b99f1c920f0aba3c1d0566c4]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/31) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-a952ccc4b99f1c920f0aba3c1d0566c4]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/31) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00121]: Footnote: [S.I.2001/341](https://www.legislation.gov.uk/uksi/2001/341). Regulation 53(2) was substituted by [S.I.2006/2910](https://www.legislation.gov.uk/uksi/2006/2910). Sub-paragraph (e) was substituted by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-6e34e30fff95505b92b517586600b86e]: Commencement: Sch. 4 para. 32 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-6e34e30fff95505b92b517586600b86e]: Commencement: Sch. 4 para. 32 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-a64bb04eda9dce9c3388e3b2650d13ae]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/32) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-a64bb04eda9dce9c3388e3b2650d13ae]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/32) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00122]: Footnote: [S.I.2001/497](https://www.legislation.gov.uk/uksi/2001/497). Regulation 53(2) was substituted by [S.I.2007/925](https://www.legislation.gov.uk/uksi/2007/925). Sub-paragraph (e) was substituted by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-7e508268794d8b1d41175733ca2d4d94]: Commencement: Sch. 4 para. 33 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7e508268794d8b1d41175733ca2d4d94]: Commencement: Sch. 4 para. 33 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-0fb4486956592bf883558716bf369196]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/33) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-0fb4486956592bf883558716bf369196]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/33) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00123]: Footnote: [S.I.2001/3750](https://www.legislation.gov.uk/uksi/2001/3750).
 
-[^key-fd956ff4323ce63ef32dd9fa9b9b0c60]: Commencement: Sch. 4 para. 34 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-fd956ff4323ce63ef32dd9fa9b9b0c60]: Commencement: Sch. 4 para. 34 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-bdd62ae1fa0a5bc80b7b702ce4ba9dae]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/34) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-bdd62ae1fa0a5bc80b7b702ce4ba9dae]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/34) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00124]: Footnote: [S.I.2001/3998](https://www.legislation.gov.uk/uksi/2001/3998).
 
@@ -1426,103 +1426,103 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00126]: Footnote: Regulation 9(2) was amended by [S.I.2005/271](https://www.legislation.gov.uk/uksi/2005/271).
 
-[^key-b70143d15e0596f83dbe5a3090593d5f]: Commencement: Sch. 4 para. 35 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-b70143d15e0596f83dbe5a3090593d5f]: Commencement: Sch. 4 para. 35 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-84a8c7eca55259361c2470960bccfbda]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/35) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-84a8c7eca55259361c2470960bccfbda]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/35) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00127]: Footnote: [S.S.I.2002/190](https://www.legislation.gov.uk/ssi/2002/190). Regulation 3(3)(e) was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-2c02176cd97eeb91ccbe364e9d7ba636]: Commencement: Sch. 4 para. 36 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-2c02176cd97eeb91ccbe364e9d7ba636]: Commencement: Sch. 4 para. 36 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-2eb197b0c4249cb2162f0fe4f3683fc5]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/36) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2eb197b0c4249cb2162f0fe4f3683fc5]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/36) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00128]: Footnote: [S.I.2002/1689](https://www.legislation.gov.uk/uksi/2002/1689).
 
-[^key-a28f9520996f686f1d1a50c6fce989db]: Textual amendment: [Sch. 4 para. 37](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/part/2/paragraph/37) revoked (S.) (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
+[^c-a28f9520996f686f1d1a50c6fce989db]: Textual amendment: [Sch. 4 para. 37](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/part/2/paragraph/37) revoked (S.) (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
 
-[^key-54e39a3b6004d8eda3e409e59f0b7bcd]: Commencement: Sch. 4 para. 38 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-54e39a3b6004d8eda3e409e59f0b7bcd]: Commencement: Sch. 4 para. 38 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-15a3d6b533a24badb67ae2dece3cfc05]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/38) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-15a3d6b533a24badb67ae2dece3cfc05]: Commencement: [Sch. 4 para. 38](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/38) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00130]: Footnote: [S.I.2003/2317](https://www.legislation.gov.uk/uksi/2003/2317). The definition of “relevant register” was amended by [S.I.2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/1520](https://www.legislation.gov.uk/uksi/2005/1520), [2006/914](https://www.legislation.gov.uk/uksi/2006/914) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-31f231737ca88543ee1ffab3e7f2ecc8]: Commencement: Sch. 4 para. 39 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-31f231737ca88543ee1ffab3e7f2ecc8]: Commencement: Sch. 4 para. 39 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-72b1a4ee2d12446a07eec4844c7778d5]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/39) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-72b1a4ee2d12446a07eec4844c7778d5]: Commencement: [Sch. 4 para. 39](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/39) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00131]: Footnote: [S.S.I.2004/38](https://www.legislation.gov.uk/ssi/2004/38).
 
-[^key-2f5ddc0a006f3c3d0606816da3e544e9]: Textual amendment: [Sch. 4 para. 40](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/40) revoked (E.) (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-2f5ddc0a006f3c3d0606816da3e544e9]: Textual amendment: [Sch. 4 para. 40](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/40) revoked (E.) (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-fb2a23074f5687ec96755d1cbdc07106]: Commencement: Sch. 4 para. 41 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-fb2a23074f5687ec96755d1cbdc07106]: Commencement: Sch. 4 para. 41 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-c24ae5c86bae535531cf4e7e002b2929]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/41) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-c24ae5c86bae535531cf4e7e002b2929]: Commencement: [Sch. 4 para. 41](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/41) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00133]: Footnote: [S.I.2004/478](https://www.legislation.gov.uk/uksi/2004/478). The definition of “relevant register” was amended by [S.I.2007/205](https://www.legislation.gov.uk/uksi/2007/205) and [289](https://www.legislation.gov.uk/uksi/2007/289) and the definition of “supplementary prescriber” was amended by [S.I.2006/358](https://www.legislation.gov.uk/uksi/2006/358) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-b8d4cd7ecff9cb15c2779968289fa0f9]: Textual amendment: [Sch. 4 para. 42](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/42) revoked (E.) (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
+[^c-b8d4cd7ecff9cb15c2779968289fa0f9]: Textual amendment: [Sch. 4 para. 42](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/42) revoked (E.) (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
-[^key-d4c6d9dd33e4012d849ccd68f17803b7]: Commencement: Sch. 4 para. 43 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-d4c6d9dd33e4012d849ccd68f17803b7]: Commencement: Sch. 4 para. 43 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-85f2d19ccc2dec5a1f7d91f353175f15]: Commencement: [Sch. 4 para. 43](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/43) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-85f2d19ccc2dec5a1f7d91f353175f15]: Commencement: [Sch. 4 para. 43](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/43) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00135]: Footnote: [S.I.2004/1031](https://www.legislation.gov.uk/uksi/2004/1031). The definition of “Pharmacist” in regulation 2(1) was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [3101](https://www.legislation.gov.uk/uksi/2007/3101) and by the European Qualifications (Pharmacy) Regulations (Northern Ireland) 2008 ([S.R.2008/192](https://www.legislation.gov.uk/nisr/2008/192)).
 
-[^key-0167362565d7189afc4d6772c0da7b32]: Commencement: Sch. 4 para. 44 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-0167362565d7189afc4d6772c0da7b32]: Commencement: Sch. 4 para. 44 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ad1a09a880da08e32a93c120e3b2ad5e]: Commencement: [Sch. 4 para. 44](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/44) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ad1a09a880da08e32a93c120e3b2ad5e]: Commencement: [Sch. 4 para. 44](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/44) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00136]: Footnote: [S.S.I.2004/115](https://www.legislation.gov.uk/ssi/2004/115). The definition of “pharmacist independent prescriber” was inserted by [S.S.I.2007/501](https://www.legislation.gov.uk/ssi/2007/501); the definition of “relevant register” was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289); and the definition of “supplementary prescriber” was amended by [S.S.I.2006/247](https://www.legislation.gov.uk/ssi/2006/247) and by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-55d78afe297d434bbc4eef410addbbe6]: Commencement: Sch. 4 para. 45 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-55d78afe297d434bbc4eef410addbbe6]: Commencement: Sch. 4 para. 45 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-c7e6d7c69b2f97152981abf5510b1634]: Commencement: [Sch. 4 para. 45](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/45) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-c7e6d7c69b2f97152981abf5510b1634]: Commencement: [Sch. 4 para. 45](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/45) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00137]: Footnote: [S.S.I.2004/116](https://www.legislation.gov.uk/ssi/2004/116). The definition of “pharmacist independent prescriber” was inserted by [S.S.I.2007/502](https://www.legislation.gov.uk/ssi/2007/502); the definition of “relevant register” was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289) and the definition of “supplementary prescriber” was amended by [S.S.I.2006/248](https://www.legislation.gov.uk/ssi/2006/248) and by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-5d81475e23b6acccc4c0d3bfec5e36e9]: Commencement: Sch. 4 para. 46 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-5d81475e23b6acccc4c0d3bfec5e36e9]: Commencement: Sch. 4 para. 46 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-20d363804672824df8e4f42a7d672e2f]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/46) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-20d363804672824df8e4f42a7d672e2f]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/46) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00138]: Footnote: [S.I.2005/318](https://www.legislation.gov.uk/uksi/2005/318).
 
-[^key-72ddb716d63d34109bf9d27c8ab52a79]: Textual amendment: [Sch. 4 para. 47](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/47) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(p)(i)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/p/i)
+[^c-72ddb716d63d34109bf9d27c8ab52a79]: Textual amendment: [Sch. 4 para. 47](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/47) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(p)(i)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/p/i)
 
-[^key-35341e085ca8ba221a048fa8288f43d5]: Commencement: Sch. 4 para. 48 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-35341e085ca8ba221a048fa8288f43d5]: Commencement: Sch. 4 para. 48 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-09be2d22a4424939e0cbe148dd9de8b1]: Commencement: [Sch. 4 para. 48](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/48) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-09be2d22a4424939e0cbe148dd9de8b1]: Commencement: [Sch. 4 para. 48](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/48) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00140]: Footnote: [S.I.2005/765](https://www.legislation.gov.uk/uksi/2005/765).The definition of “relevant register” was amended by [S.I.2005/1507](https://www.legislation.gov.uk/uksi/2005/1507) and [2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-5c42229658b6c7082b6fe3ac6c1d27d8]: Commencement: Sch. 4 para. 49 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-5c42229658b6c7082b6fe3ac6c1d27d8]: Commencement: Sch. 4 para. 49 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b7fa79d19f771d43b0fc39dbe82d65ca]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/49) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b7fa79d19f771d43b0fc39dbe82d65ca]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/49) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00141]: Footnote: [S.I.2005/916](https://www.legislation.gov.uk/uksi/2005/916). Article 5(3)(c) was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-be1bdd7bee1458fb22e76b2185cb2309]: Commencement: Sch. 4 para. 50 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-be1bdd7bee1458fb22e76b2185cb2309]: Commencement: Sch. 4 para. 50 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-bddd69db7e7122d46588e37490789e27]: Commencement: [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/50) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-bddd69db7e7122d46588e37490789e27]: Commencement: [Sch. 4 para. 50](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/50) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00142]: Footnote: [S.I.2005/2750](https://www.legislation.gov.uk/uksi/2005/2750). The definition of “relevant register” was amended by [S.I.2006/914](https://www.legislation.gov.uk/uksi/2006/914).
 
-[^key-454e171c89eb5c3446325ec905f58bfb]: Commencement: Sch. 4 para. 51 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-454e171c89eb5c3446325ec905f58bfb]: Commencement: Sch. 4 para. 51 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-936a0567134dce8ddc25933be2351a8d]: Commencement: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/51) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-936a0567134dce8ddc25933be2351a8d]: Commencement: [Sch. 4 para. 51](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/51) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00143]: Footnote: [S.S.I.2005/125](https://www.legislation.gov.uk/ssi/2005/125). Article 5(2)(b)(iii) was amended by [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [3101](https://www.legislation.gov.uk/uksi/2007/3101) and by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-3967f62846880b9b8a78fd795483f2c2]: Commencement: Sch. 4 para. 52 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3967f62846880b9b8a78fd795483f2c2]: Commencement: Sch. 4 para. 52 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ea653deb1a91542e81998b6f43ee3d41]: Commencement: [Sch. 4 para. 52](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/52) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ea653deb1a91542e81998b6f43ee3d41]: Commencement: [Sch. 4 para. 52](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/52) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00144]: Footnote: [S.S.I.2006/330](https://www.legislation.gov.uk/ssi/2006/330).
 
-[^key-f36e184fea1841561c4f21293043cb3f]: Textual amendment: [Sch. 4 para. 53](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/53) revoked (E.W.) (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 5(2)(e)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/5/2/e)
+[^c-f36e184fea1841561c4f21293043cb3f]: Textual amendment: [Sch. 4 para. 53](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/53) revoked (E.W.) (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 5(2)(e)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/5/2/e)
 
-[^key-7f5b4300b8dc18f3f619ca7c5173328a]: Commencement: Sch. 4 para. 54 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7f5b4300b8dc18f3f619ca7c5173328a]: Commencement: Sch. 4 para. 54 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-9c022aafe4ed8a8e4045c8cb3e7b2875]: Commencement: [Sch. 4 para. 54](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/54) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-9c022aafe4ed8a8e4045c8cb3e7b2875]: Commencement: [Sch. 4 para. 54](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/54) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00146]: Footnote: [S.I.2006/3148](https://www.legislation.gov.uk/uksi/2006/3148).
 
@@ -1530,94 +1530,94 @@ In regulation 2(1) of the National Health Service (Pharmaceutical Services) (Sco
 
 [^f00148]: Footnote: Regulation 19(b)(i) is amended by the Health and Social Care Act (Commencement No. 9, Consequential Amendments and Transitory, Transitional and Savings Provisions) Order 2009 ([S.I.2009/462](https://www.legislation.gov.uk/uksi/2009/462)).
 
-[^key-742a3a994fea81137131e340f8c284a3]: Commencement: Sch. 4 para. 55 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-742a3a994fea81137131e340f8c284a3]: Commencement: Sch. 4 para. 55 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-48405d41d7bf153cb1303659c3eb6d11]: Commencement: [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/55) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-48405d41d7bf153cb1303659c3eb6d11]: Commencement: [Sch. 4 para. 55](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/55) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00149]: Footnote: [S.I.2007/121 (W.11)](https://www.legislation.gov.uk/wsi/2007/121).
 
-[^key-8f1a6f5705859e88ac9c5bce2688870c]: Commencement: Sch. 4 para. 56 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-8f1a6f5705859e88ac9c5bce2688870c]: Commencement: Sch. 4 para. 56 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-f4e0d5495441f13d3dbaa7a57aa3431e]: Commencement: [Sch. 4 para. 56](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/56) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-f4e0d5495441f13d3dbaa7a57aa3431e]: Commencement: [Sch. 4 para. 56](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/56) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00150]: Footnote: [O.S.2007/121 (Cy.11)](https://www.legislation.gov.uk/wsi/2007/121).
 
-[^key-105a2a0a93d8cdc59b993505b83c9c54]: Commencement: Sch. 4 para. 57 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-105a2a0a93d8cdc59b993505b83c9c54]: Commencement: Sch. 4 para. 57 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-2ad7cf216047c85345178a3479c0ab3b]: Commencement: [Sch. 4 para. 57](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/57) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2ad7cf216047c85345178a3479c0ab3b]: Commencement: [Sch. 4 para. 57](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/57) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00151]: Footnote: [S.I.2007/236](https://www.legislation.gov.uk/uksi/2007/236). Paragraph (e) was substituted by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-2c23c0d2840c81aa730c2f724f9a8a24]: Commencement: Sch. 4 para. 58 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-2c23c0d2840c81aa730c2f724f9a8a24]: Commencement: Sch. 4 para. 58 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-c3dc9d78748e5592f2a445b5ee47f62d]: Commencement: [Sch. 4 para. 58](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/58) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-c3dc9d78748e5592f2a445b5ee47f62d]: Commencement: [Sch. 4 para. 58](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/58) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00152]: Footnote: [S.I.2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-cb05561732f7281f1d0a9fb553b782ce]: Commencement: Sch. 4 para. 59 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-cb05561732f7281f1d0a9fb553b782ce]: Commencement: Sch. 4 para. 59 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-67eaaf482fa4ae84941598087c4056d7]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/59) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-67eaaf482fa4ae84941598087c4056d7]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/59) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00153]: Footnote: [S.S.I.2007/513](https://www.legislation.gov.uk/ssi/2007/513).
 
-[^key-4e75ed34aa709fe83b3d3d82ace2bb0f]: Commencement: Sch. 4 para. 60 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-4e75ed34aa709fe83b3d3d82ace2bb0f]: Commencement: Sch. 4 para. 60 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-91e1d8e9744c68893401ed4622a43e4a]: Commencement: [Sch. 4 para. 60](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/60) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-91e1d8e9744c68893401ed4622a43e4a]: Commencement: [Sch. 4 para. 60](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/60) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00154]: Footnote: [S.I.2007/934](https://www.legislation.gov.uk/uksi/2007/934).
 
-[^key-7ad6e7c6653fa9d69a0452115d7c01a2]: Commencement: Sch. 4 para. 61 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7ad6e7c6653fa9d69a0452115d7c01a2]: Commencement: Sch. 4 para. 61 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-8c35e7f727e64ab01b854cd41e9322fb]: Commencement: [Sch. 4 para. 61](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/61) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-8c35e7f727e64ab01b854cd41e9322fb]: Commencement: [Sch. 4 para. 61](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/61) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00155]: Footnote: [S.I.2007/937](https://www.legislation.gov.uk/uksi/2007/937). Paragraph (e) was substituted by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-74606ab9205f6399091176c183a18276]: Commencement: Sch. 4 para. 62 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-74606ab9205f6399091176c183a18276]: Commencement: Sch. 4 para. 62 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-34b198631c4393471add6990498ae531]: Commencement: [Sch. 4 para. 62](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/62) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-34b198631c4393471add6990498ae531]: Commencement: [Sch. 4 para. 62](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/62) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00156]: Footnote: [S.I.2007/2781](https://www.legislation.gov.uk/uksi/2007/2781); as amended by [S.I.2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 
-[^key-6bfd462d0a87b27b164b8513a82bfe19]: Textual amendment: [Sch. 4 para. 62(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/62/a)[(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/62/b) revoked (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [reg. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/2059/schedule/6) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))
+[^c-6bfd462d0a87b27b164b8513a82bfe19]: Textual amendment: [Sch. 4 para. 62(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/62/a)[(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/62/b) revoked (18.1.2016) by [The European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)](https://www.legislation.gov.uk/uksi/2015/2059), [reg. 1](https://www.legislation.gov.uk/uksi/2015/2059/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/2059/schedule/6) (with [reg. 78](https://www.legislation.gov.uk/uksi/2015/2059/regulation/78))
 
-[^key-6e79d8464e3b9b48928483e1bf6bd859]: Commencement: Sch. 4 para. 63 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-6e79d8464e3b9b48928483e1bf6bd859]: Commencement: Sch. 4 para. 63 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-141fc53f41f97eb14c64e1a83339794c]: Commencement: [Sch. 4 para. 63](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/63) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-141fc53f41f97eb14c64e1a83339794c]: Commencement: [Sch. 4 para. 63](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/63) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00157]: Footnote: [S.S.I.2008/27](https://www.legislation.gov.uk/ssi/2008/27).
 
-[^key-932a66cd20ff39632b2ca2f47ba28df1]: Commencement: Sch. 4 para. 64 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-932a66cd20ff39632b2ca2f47ba28df1]: Commencement: Sch. 4 para. 64 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-99f00fb1e4b59e4ec6062c79b3126ad5]: Commencement: [Sch. 4 para. 64](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/64) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-99f00fb1e4b59e4ec6062c79b3126ad5]: Commencement: [Sch. 4 para. 64](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/64) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00158]: Footnote: [S.I.2008/295](https://www.legislation.gov.uk/uksi/2008/295).
 
-[^key-9e7ff594e30365fc7c7059490115ff10]: Textual amendment: [Sch. 4 para. 65](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/65) omitted (11.7.2013) by virtue of [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 28](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/28) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-9e7ff594e30365fc7c7059490115ff10]: Textual amendment: [Sch. 4 para. 65](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/65) omitted (11.7.2013) by virtue of [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 28](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/28) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-8ad046cda0f097a5a31788e2ca73f7b1]: Textual amendment: [Sch. 4 para. 66](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/66) revoked (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/11); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-8ad046cda0f097a5a31788e2ca73f7b1]: Textual amendment: [Sch. 4 para. 66](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/66) revoked (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/11); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
 
-[^key-5b6cc77b14b71864c5218edc70b99a82]: Commencement: Sch. 4 para. 67 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-5b6cc77b14b71864c5218edc70b99a82]: Commencement: Sch. 4 para. 67 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-bf3c12b88b478e66fa082a2ac9ee098f]: Commencement: [Sch. 4 para. 67](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/67) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-bf3c12b88b478e66fa082a2ac9ee098f]: Commencement: [Sch. 4 para. 67](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/67) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00161]: Footnote: [S.I.2008/2927](https://www.legislation.gov.uk/uksi/2008/2927).
 
-[^key-e7a2042d3679b8c91314978c81670675]: Commencement: Sch. 4 para. 68 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-e7a2042d3679b8c91314978c81670675]: Commencement: Sch. 4 para. 68 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-cba77efd39fb76c021feec68f4fd073d]: Commencement: [Sch. 4 para. 68](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/68) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-cba77efd39fb76c021feec68f4fd073d]: Commencement: [Sch. 4 para. 68](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/68) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00162]: Footnote: [S.I.2008/3239 (W.286)](https://www.legislation.gov.uk/wsi/2008/3239).
 
-[^key-a4853f703ea6b4adb4e6d90b19699a54]: Commencement: Sch. 4 para. 69 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-a4853f703ea6b4adb4e6d90b19699a54]: Commencement: Sch. 4 para. 69 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-cac2bbb5cea50a1ed87c626d21dc9aed]: Commencement: [Sch. 4 para. 69](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/69) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-cac2bbb5cea50a1ed87c626d21dc9aed]: Commencement: [Sch. 4 para. 69](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/69) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00163]: Footnote: [O.S.2008/3239 (Cy.286)](https://www.legislation.gov.uk/wsi/2008/3239).
 
-[^key-bae627e65e727c56e23457e44e8a0298]: Commencement: Sch. 4 para. 70 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-bae627e65e727c56e23457e44e8a0298]: Commencement: Sch. 4 para. 70 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-cf907c5a2835986214554ff697603bad]: Commencement: [Sch. 4 para. 70](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/70) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-cf907c5a2835986214554ff697603bad]: Commencement: [Sch. 4 para. 70](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/70) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00164]: Footnote: [S.S.I.2009/183](https://www.legislation.gov.uk/ssi/2009/183).
 
-[^key-9c17721e917b09b6b9c8625bf67b8c8c]: Textual amendment: [Sch. 4 para. 71](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/71) revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2159/regulation/1), [46(3)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46)
+[^c-9c17721e917b09b6b9c8625bf67b8c8c]: Textual amendment: [Sch. 4 para. 71](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/71) revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2159/regulation/1), [46(3)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46)

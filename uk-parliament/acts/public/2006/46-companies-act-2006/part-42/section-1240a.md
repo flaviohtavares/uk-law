@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1240A. Power to approve third countries as equivalent or transitional third countries[^key-ce470e0dea68034376ec3d749c3d8b19]
+## 1240A. Power to approve third countries as equivalent or transitional third countries[^c-ce470e0dea68034376ec3d749c3d8b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ in relation to the comparability of the third country’s audit regulatory regim
 
 ## Annotations
 
-[^key-ce470e0dea68034376ec3d749c3d8b19]: Textual amendment: Pt. 42 Chs. 4A, 4B inserted (13.11.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/2/a), [14](https://www.legislation.gov.uk/uksi/2019/177/regulation/14) (as amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), regs. 1(2), 3)
+[^c-ce470e0dea68034376ec3d749c3d8b19]: Textual amendment: Pt. 42 Chs. 4A, 4B inserted (13.11.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/2/a), [14](https://www.legislation.gov.uk/uksi/2019/177/regulation/14) (as amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), regs. 1(2), 3)

@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Transmissible Spongiform Encephalopathies (Wales) (Amendment) (No.2) Regulations 2008 (revoked)[^key-2af015b44d61b085b398ed31b1f93515]
+The Transmissible Spongiform Encephalopathies (Wales) (Amendment) (No.2) Regulations 2008 (revoked)[^c-2af015b44d61b085b398ed31b1f93515]
 
 Made
 
@@ -45,47 +45,47 @@ Coming into force
 
 12 January 2009
 
-[^key-2af015b44d61b085b398ed31b1f93515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2af015b44d61b085b398ed31b1f93515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2af015b44d61b085b398ed31b1f93515]
+## 1. Citation and commencement[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2008[^key-2af015b44d61b085b398ed31b1f93515]
+## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2008[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (interpretation)[^key-2af015b44d61b085b398ed31b1f93515]
+## 3. Amendment of regulation 2 (interpretation)[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 20 (enforcement)[^key-2af015b44d61b085b398ed31b1f93515]
+## 4. Amendment of regulation 20 (enforcement)[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 2[^key-2af015b44d61b085b398ed31b1f93515]
+## 5. Amendment of Schedule 2[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 3[^key-2af015b44d61b085b398ed31b1f93515]
+## 6. Amendment of Schedule 3[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Substitution of Schedule 8[^key-2af015b44d61b085b398ed31b1f93515]
+## 7. Substitution of Schedule 8[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to regulation 12 (appointment of inspectors)[^key-2af015b44d61b085b398ed31b1f93515]
+## 8. Amendment to regulation 12 (appointment of inspectors)[^c-2af015b44d61b085b398ed31b1f93515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2af015b44d61b085b398ed31b1f93515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2af015b44d61b085b398ed31b1f93515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Replacement Schedule 8[^key-2af015b44d61b085b398ed31b1f93515]
+## SCHEDULE — Replacement Schedule 8[^c-2af015b44d61b085b398ed31b1f93515]
 
 Regulation 7
 
@@ -93,8 +93,8 @@ Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-2af015b44d61b085b398ed31b1f93515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2af015b44d61b085b398ed31b1f93515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2af015b44d61b085b398ed31b1f93515]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/3266) revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [24(b)](https://www.legislation.gov.uk/wsi/2018/968/regulation/24/b)
+[^c-2af015b44d61b085b398ed31b1f93515]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/3266) revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1/3), [24(b)](https://www.legislation.gov.uk/wsi/2018/968/regulation/24/b)

@@ -16,32 +16,32 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 *Extent: E+W+S*
 
 Article 3
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 In the County of Staffordshire and the Borough of Stafford—
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act, and associated development under section 115(1)(b) of that Act—
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
-***Work No. 1A*** a generating station [^key-d6e761cf26df9f8e3bd3ff46dcf8e658]... with a combined rated electrical output of up to 299 MWe comprising—
+***Work No. 1A*** a generating station [^c-d6e761cf26df9f8e3bd3ff46dcf8e658]... with a combined rated electrical output of up to 299 MWe comprising—
 
-- (a)[^key-59a137014ad7dacdabe4211b35e0d67c] one gas turbine building with up to two gas turbines and up to two associated generating units;
+- (a)[^c-59a137014ad7dacdabe4211b35e0d67c] one gas turbine building with up to two gas turbines and up to two associated generating units;
 - (b) one steam turbine building with one steam turbine and associated generating unit;
 - (c) up to two exhaust gas emission flue stacks;
 - (d) up to two Heat Recovery Steam Generator buildings with up to two Heat Recovery Steam Generators;
 - (e) air cooled condenser; and
 - (f) switchgear room.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 1B*** development comprising—
 
@@ -63,21 +63,21 @@ A nationally significant infrastructure project as defined in sections 14 and 15
   - (x) a section of isolated pipe suitable for receiving a pressure inspection gauge (PIG) (also known as PIG launching/receiving facility); and
   - (xi) high pressure steel pipeline with a nominal bore of 450mm.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 1C*** development comprising—
 
 - (a) an administration/control building; and
 - (b) heat network interface building.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 1D*** development comprising—
 
 - (a) a 132kV switchyard containing plant required to manage the transmission of electricity to the distribution network; and
 - (b) up to three transformer compounds with up to three transformers.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 1E*** development comprising—
 
@@ -94,7 +94,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (k) other ancillary equipment; and
 - (l) construction compound.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 2A*** development comprising site preparation and an above ground installation (AGI) (also referred to as a minimum off-take connection compound) containing—
 
@@ -110,7 +110,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (j) construction compound; and
 - (k) a high pressure steel pipeline connection of approximately 30m in length with a nominal bore of 450mm.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 2B*** development comprising—
 
@@ -126,18 +126,18 @@ A nationally significant infrastructure project as defined in sections 14 and 15
   - (viii) any necessary control or telemetry cables;
 - (c) repair of the northern bridge parapet of canal bridge 101 (Malkin’s Bridge) as marked on the works plans by replacing coping stones.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 3*** development comprising a 132kV underground electricity connection of up to 200m in length for the import and export of electricity from/to the existing Barlaston substation boundary comprising up to three underground high voltage electrical cables and associated telemetry and electrical protection auxiliary cabling.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 4*** development comprising—
 
 - (a) alteration of the existing site access (known as the northern access road) off the east side of Meaford Road; and
 - (b) resurfacing of the northern access road between the existing site access off Meaford Road and Work No. 1, including road widening, infilling, lighting infrastructure including lighting columns and lights and drainage.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 5A*** development comprising temporary construction laydown and car parking area comprising—
 
@@ -149,7 +149,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (f) weighbridge; and
 - (g) staff welfare cabins.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 5B*** development comprising—
 
@@ -168,7 +168,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
   - (iii) lighting columns and lights; and
   - (iv) fencing.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 6*** development comprising—
 
@@ -182,7 +182,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (e) foul, surface water and trade effluent drainage; and
 - (f) a below ground foul water pump station.
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]
 
 ***Work No. 7*** development comprising 10 metre screening vegetation buffer including tree planting, other boundary treatments and ecological mitigation,
 
@@ -190,8 +190,8 @@ such other works or operations as may be necessary or expedient for the purposes
 
 ## Annotations
 
-[^key-60e809e7327d7b4d98fa8b31cab8e94d]: Commencement: Sch. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-60e809e7327d7b4d98fa8b31cab8e94d]: Commencement: Sch. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
 
-[^key-d6e761cf26df9f8e3bd3ff46dcf8e658]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/779/schedule/1) omitted (22.11.2016) by virtue of [The Meaford Gas Fired Generating Station (Correction) Order 2016 (S.I. 2016/1046)](https://www.legislation.gov.uk/uksi/2016/1046), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1046/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1046/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1046/schedule)
+[^c-d6e761cf26df9f8e3bd3ff46dcf8e658]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/779/schedule/1) omitted (22.11.2016) by virtue of [The Meaford Gas Fired Generating Station (Correction) Order 2016 (S.I. 2016/1046)](https://www.legislation.gov.uk/uksi/2016/1046), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1046/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1046/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1046/schedule)
 
-[^key-59a137014ad7dacdabe4211b35e0d67c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/779/schedule/1) substituted (22.11.2016) by [The Meaford Gas Fired Generating Station (Correction) Order 2016 (S.I. 2016/1046)](https://www.legislation.gov.uk/uksi/2016/1046), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1046/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1046/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1046/schedule)
+[^c-59a137014ad7dacdabe4211b35e0d67c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/779/schedule/1) substituted (22.11.2016) by [The Meaford Gas Fired Generating Station (Correction) Order 2016 (S.I. 2016/1046)](https://www.legislation.gov.uk/uksi/2016/1046), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1046/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1046/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1046/schedule)

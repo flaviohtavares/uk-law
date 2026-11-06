@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Officers of general partners: transitional provision[^key-9d790be77b5a705184f6980cf4fb1229]
+## 120. Officers of general partners: transitional provision[^c-9d790be77b5a705184f6980cf4fb1229]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d790be77b5a705184f6980cf4fb1229]: Commencement: S. 120 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9d790be77b5a705184f6980cf4fb1229]: Commencement: S. 120 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 22 and 42(6) of the Teaching and Higher Education Act 1998[^f00001], and now exercisable by them[^f00002], make the following Regulations:
 
-## 1. Title, commencement and application[^key-1e4d756622a0f5d831137812f83ea2db]
+## 1. Title, commencement and application[^c-1e4d756622a0f5d831137812f83ea2db]
 
 (1) The title of these Regulations is the Education (Student Support) (Wales) (Amendment) Regulations 2016.
 
@@ -58,11 +58,11 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 (4) These regulations apply in relation to Wales.
 
-## 2. Amendment of the Education (Student Support) (Wales) Regulations 2015[^key-175733a1181e142c6c79d61bfc2077af]
+## 2. Amendment of the Education (Student Support) (Wales) Regulations 2015[^c-175733a1181e142c6c79d61bfc2077af]
 
 The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in accordance with regulations 3 to 18.
 
-**3.**[^key-08604b4b9a12c6ea3a8b3eca8d1a3b92] In regulation 2 (interpretation), in paragraph (1)—
+**3.**[^c-08604b4b9a12c6ea3a8b3eca8d1a3b92] In regulation 2 (interpretation), in paragraph (1)—
 
 (1) after the definition of “end-on course” insert—
 
@@ -72,13 +72,13 @@ The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in
 
 > - “valid declaration of eligibility” (“*datganiad cymhwystra dilys*”) has the meaning given in regulation 28(3A).
 
-**4.**[^key-3317a472742709df324f0d7cdc9a0860] In regulation 5 (designated courses) after paragraph (8) insert—
+**4.**[^c-3317a472742709df324f0d7cdc9a0860] In regulation 5 (designated courses) after paragraph (8) insert—
 
 > (9) The Welsh Ministers may revoke or suspend the designation of a course which is designated under paragraph (8).
 
-**5.**[^key-ca8fa56e2f30146e0f0f5fcf0dd2ae85] In regulation 10 (time limits), in paragraph (2)(e) for “22(4)” substitute “22(7)”.
+**5.**[^c-ca8fa56e2f30146e0f0f5fcf0dd2ae85] In regulation 10 (time limits), in paragraph (2)(e) for “22(4)” substitute “22(7)”.
 
-**6.**[^key-e4917b5f53c912a0549f1f41c6df126c] For regulation 12 (requirement to enter into a contract for a loan), substitute—
+**6.**[^c-e4917b5f53c912a0549f1f41c6df126c] For regulation 12 (requirement to enter into a contract for a loan), substitute—
 
 > **12. Requirement to enter into a contract for a loan**
 >
@@ -86,7 +86,7 @@ The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in
 >
 > (2) The Welsh Ministers may require an eligible student to sign a contract by means of an electronic signature in such form as the Welsh Ministers may specify.
 
-**7.**[^key-08bcf7adcf00bc04a1baca7f6b1fd030] In regulation 28 (grants for dependants – childcare grant)—
+**7.**[^c-08bcf7adcf00bc04a1baca7f6b1fd030] In regulation 28 (grants for dependants – childcare grant)—
 
 (1) In paragraph (2), after “paragraphs 3” insert “, (3B)”.
 
@@ -96,31 +96,31 @@ The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in
 >
 > (3B) An eligible student does not qualify for a grant under this regulation during any entitlement period for which an eligible student or an eligible student’s partner has made a valid declaration of eligibility under the Childcare Payments Act 2014 in relation to any child.
 
-**8.**[^key-1fe44b2928b9a359c4d6d59fbbee8b40] In the English text in regulation 37 (maintenance grant – new system eligible students who are not new cohort students), in paragraph (3)(a) after “£3,000” omit the comma.
+**8.**[^c-1fe44b2928b9a359c4d6d59fbbee8b40] In the English text in regulation 37 (maintenance grant – new system eligible students who are not new cohort students), in paragraph (3)(a) after “£3,000” omit the comma.
 
-**9.**[^key-9bf5dbc98a7bd1611dcbd22c3068da2a] In regulation 67 (overpayments), after paragraph (13) insert—
+**9.**[^c-9bf5dbc98a7bd1611dcbd22c3068da2a] In regulation 67 (overpayments), after paragraph (13) insert—
 
 > (14) For the purpose of this regulation reference to an eligible student includes a person who has received support under Part 5 or 6 but who does not satisfy the requirements of regulation 4 (eligible students).
 
-**10.**[^key-7f2815401e29576cd2f0de938fe9f470] In regulation 71 (designated distance learning courses), after paragraph (5) insert—
+**10.**[^c-7f2815401e29576cd2f0de938fe9f470] In regulation 71 (designated distance learning courses), after paragraph (5) insert—
 
 > (6) The Welsh Ministers may revoke or suspend the designation of a course which is designated under this regulation.
 
-**11.**[^key-689895d22d226d39cec5f49edc1b52c4] In regulation 85 (overpayments), after paragraph (10) insert—
+**11.**[^c-689895d22d226d39cec5f49edc1b52c4] In regulation 85 (overpayments), after paragraph (10) insert—
 
 > (11) For the purpose of this regulation reference to an eligible distance learning student includes a person who has received support under this Part but who does not satisfy the requirements of regulation 69 (eligible distance learning student).
 
-**12.**[^key-9e8b2487af426bbbe8af2e562b778f75][^key-e5d1c62d7505ef75391330897c601346] In regulation 88 (designated part-time courses)—
+**12.**[^c-9e8b2487af426bbbe8af2e562b778f75][^c-e5d1c62d7505ef75391330897c601346] In regulation 88 (designated part-time courses)—
 
-(1)[^key-9e8b2487af426bbbe8af2e562b778f75] after paragraph (1)(d) insert—
+(1)[^c-9e8b2487af426bbbe8af2e562b778f75] after paragraph (1)(d) insert—
 
 > - (dd) for a course beginning on or after 1 September 2016 which falls within paragraph 1, 2, 4, 6, 7 or 8 of Schedule 2, it is a course leading to an award granted or to be granted by a body falling within section 214(2)(a) or (b) of the Education Reform Act 1988[^f00005].
 
-(2)[^key-e5d1c62d7505ef75391330897c601346] after paragraph (7) insert—
+(2)[^c-e5d1c62d7505ef75391330897c601346] after paragraph (7) insert—
 
 > (8) The Welsh Ministers may revoke or suspend the designation of a course which is designated under paragraph (6).
 
-**13.**[^key-f1669b13539e1998b4db29c7413b108c] In regulation 97 (part-time childcare grant)—
+**13.**[^c-f1669b13539e1998b4db29c7413b108c] In regulation 97 (part-time childcare grant)—
 
 (1) In paragraph (2), after “paragraphs (3)” insert “, (3A)”.
 
@@ -128,7 +128,7 @@ The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in
 
 > (3A) An eligible student does not qualify for a grant under this regulation during any entitlement period for which an eligible student or an eligible student’s partner has made a valid declaration of eligibility under the Childcare Payments Act 2014 in relation to any child.
 
-**14.**[^key-f26b3052ffcd90e4e29029ebdbb0698e] In regulation 100 (part-time grants for dependants – interpretation)—
+**14.**[^c-f26b3052ffcd90e4e29029ebdbb0698e] In regulation 100 (part-time grants for dependants – interpretation)—
 
 (1) in paragraph (1)(j) for “(i), (j), (k)” substitute “(p), (q), (r)”;
 
@@ -142,11 +142,11 @@ The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in
 
 (6) in paragraph (6) for “(4)” substitute “(5)”.
 
-**15.**[^key-70c698d106881038b206cd63a8380121] In regulation 114 (overpayments), after paragraph (10) insert—
+**15.**[^c-70c698d106881038b206cd63a8380121] In regulation 114 (overpayments), after paragraph (10) insert—
 
 > (11) For the purpose of this regulation reference to an eligible part-time student includes a person who has received support under this Part but who does not satisfy the requirements of regulation 86 (eligible part-time students).
 
-**16.**[^key-58cdfe258a5504d9e9c098a17924761a] In regulation 117 (designated postgraduate courses)—
+**16.**[^c-58cdfe258a5504d9e9c098a17924761a] In regulation 117 (designated postgraduate courses)—
 
 (1) in the English text in paragraph (1)(c) after “institution” in the second place it occurs, insert “in”;
 
@@ -154,11 +154,11 @@ The Education (Student Support) (Wales) Regulations 2015[^f00003] are amended in
 
 > (5) The Welsh Ministers may revoke or suspend the designation of a course which is designated under paragraph (4).
 
-**17.**[^key-9000aceeeb7219772106111fd16d709a] In regulation 124 (overpayments), after paragraph (9) insert—
+**17.**[^c-9000aceeeb7219772106111fd16d709a] In regulation 124 (overpayments), after paragraph (9) insert—
 
 > (10) For the purpose of this regulation reference to an eligible postgraduate student includes a person who has received support under this Part but who does not satisfy the requirements of regulation 115 (eligible postgraduate students).
 
-**18.**[^key-76fedb72b18f006bcc8d43efec416ec8] The Schedule to these Regulations has effect to substitute the figure in the third column of the table for the figure in the second column where it appears in the regulation of the Education (Student Support) (Wales) Regulations 2015 set out in the first column.
+**18.**[^c-76fedb72b18f006bcc8d43efec416ec8] The Schedule to these Regulations has effect to substitute the figure in the third column of the table for the figure in the second column where it appears in the regulation of the Education (Student Support) (Wales) Regulations 2015 set out in the first column.
 
 Huw Lewis
 
@@ -166,7 +166,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 26 January 2016
 
-## SCHEDULE — Amendment to figures[^key-08c1624cb2b2b0f9015daa30265edd2d]
+## SCHEDULE — Amendment to figures[^c-08c1624cb2b2b0f9015daa30265edd2d]
 
 Regulation 18
 
@@ -323,48 +323,48 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 (except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22) were transferred to the National Assembly for Wales by section 44 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8) and the Higher Education Act 2004 (Commencement No. 2 and Transitional Provision) (Wales) Order 2005 ([S.I. 2005/1833 (W. 149) (C. 79)](https://www.legislation.gov.uk/wsi/2005/1833)) as amended by [S.I. 2006/1660 (W. 159) (C. 56)](https://www.legislation.gov.uk/wsi/2006/1660). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-1e4d756622a0f5d831137812f83ea2db]: Commencement: Reg. 1 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-1e4d756622a0f5d831137812f83ea2db]: Commencement: Reg. 1 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-175733a1181e142c6c79d61bfc2077af]: Commencement: Reg. 2 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-175733a1181e142c6c79d61bfc2077af]: Commencement: Reg. 2 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2015/54 (W. 5)](https://www.legislation.gov.uk/wsi/2015/54), amended by [S.I. 2015/1505 (W. 173)](https://www.legislation.gov.uk/wsi/2015/1505).
 
-[^key-08604b4b9a12c6ea3a8b3eca8d1a3b92]: Commencement: Reg. 3 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-08604b4b9a12c6ea3a8b3eca8d1a3b92]: Commencement: Reg. 3 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-3317a472742709df324f0d7cdc9a0860]: Commencement: Reg. 4 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-3317a472742709df324f0d7cdc9a0860]: Commencement: Reg. 4 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-ca8fa56e2f30146e0f0f5fcf0dd2ae85]: Commencement: Reg. 5 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-ca8fa56e2f30146e0f0f5fcf0dd2ae85]: Commencement: Reg. 5 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-e4917b5f53c912a0549f1f41c6df126c]: Commencement: Reg. 6 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-e4917b5f53c912a0549f1f41c6df126c]: Commencement: Reg. 6 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-08bcf7adcf00bc04a1baca7f6b1fd030]: Commencement: Reg. 7 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-08bcf7adcf00bc04a1baca7f6b1fd030]: Commencement: Reg. 7 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
 [^f00004]: Footnote: [2014 c. 28](https://www.legislation.gov.uk/ukpga/2014/28).
 
-[^key-1fe44b2928b9a359c4d6d59fbbee8b40]: Commencement: Reg. 8 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-1fe44b2928b9a359c4d6d59fbbee8b40]: Commencement: Reg. 8 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-9bf5dbc98a7bd1611dcbd22c3068da2a]: Commencement: Reg. 9 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-9bf5dbc98a7bd1611dcbd22c3068da2a]: Commencement: Reg. 9 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-7f2815401e29576cd2f0de938fe9f470]: Commencement: Reg. 10 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-7f2815401e29576cd2f0de938fe9f470]: Commencement: Reg. 10 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-689895d22d226d39cec5f49edc1b52c4]: Commencement: Reg. 11 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-689895d22d226d39cec5f49edc1b52c4]: Commencement: Reg. 11 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-9e8b2487af426bbbe8af2e562b778f75]: Commencement: Reg. 12(1) in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-9e8b2487af426bbbe8af2e562b778f75]: Commencement: Reg. 12(1) in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-e5d1c62d7505ef75391330897c601346]: Commencement: Reg. 12(2) in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-e5d1c62d7505ef75391330897c601346]: Commencement: Reg. 12(2) in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
 [^f00005]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); section 214(2) was amended by the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8.
 
-[^key-f1669b13539e1998b4db29c7413b108c]: Commencement: Reg. 13 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-f1669b13539e1998b4db29c7413b108c]: Commencement: Reg. 13 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-f26b3052ffcd90e4e29029ebdbb0698e]: Commencement: Reg. 14 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-f26b3052ffcd90e4e29029ebdbb0698e]: Commencement: Reg. 14 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-70c698d106881038b206cd63a8380121]: Commencement: Reg. 15 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-70c698d106881038b206cd63a8380121]: Commencement: Reg. 15 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-58cdfe258a5504d9e9c098a17924761a]: Commencement: Reg. 16 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
+[^c-58cdfe258a5504d9e9c098a17924761a]: Commencement: Reg. 16 in force at 22.2.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/2)
 
-[^key-9000aceeeb7219772106111fd16d709a]: Commencement: Reg. 17 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-9000aceeeb7219772106111fd16d709a]: Commencement: Reg. 17 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-76fedb72b18f006bcc8d43efec416ec8]: Commencement: Reg. 18 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-76fedb72b18f006bcc8d43efec416ec8]: Commencement: Reg. 18 in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
 
-[^key-08c1624cb2b2b0f9015daa30265edd2d]: Commencement: Sch. in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)
+[^c-08c1624cb2b2b0f9015daa30265edd2d]: Commencement: Sch. in force at 22.2.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/77/regulation/1/3)

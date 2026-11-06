@@ -32,12 +32,12 @@ summary: ''
 
 (6) Condition E is that at that time the transferor controlled that company with other persons to whom securities of the same kind were also issued.
 
-(7)[^key-4af4f16f7db627b82e664711e4681dd1] Chapter 2 of Part 10 of CTA 2010 (meaning of “close company”) applies for the purposes of this section but with the omission of section 442(a) (exclusion of non-UK resident companies).
+(7)[^c-4af4f16f7db627b82e664711e4681dd1] Chapter 2 of Part 10 of CTA 2010 (meaning of “close company”) applies for the purposes of this section but with the omission of section 442(a) (exclusion of non-UK resident companies).
 
-(8) In this section “**control**” has the meaning given by sections 450 and 451 of CTA 2010[^key-7d7bcc67471548c06685968c95216980].
+(8) In this section “**control**” has the meaning given by sections 450 and 451 of CTA 2010[^c-7d7bcc67471548c06685968c95216980].
 
 ## Annotations
 
-[^key-4af4f16f7db627b82e664711e4681dd1]: Textual amendment: S. 456(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 466(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/466/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4af4f16f7db627b82e664711e4681dd1]: Textual amendment: S. 456(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 466(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/466/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-7d7bcc67471548c06685968c95216980]: Textual amendment: Words in s. 456(8) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 466(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/466/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7d7bcc67471548c06685968c95216980]: Textual amendment: Words in s. 456(8) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 466(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/466/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

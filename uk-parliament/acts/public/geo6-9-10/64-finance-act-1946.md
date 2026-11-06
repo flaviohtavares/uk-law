@@ -257,7 +257,7 @@ The provisions of Part III of this Act providing for deductions for income tax p
 
 ## Part VII — Stamp Duty[^c632521][^c632522][^c632523]
 
-### 52. Exemption from stamp duty of documents connected with nationalisation schemes.[^key-d6e290fa8e19ea17a8810b27d9a36144]
+### 52. Exemption from stamp duty of documents connected with nationalisation schemes.[^c-d6e290fa8e19ea17a8810b27d9a36144]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -310,9 +310,9 @@ The provisions of Part III of this Act providing for deductions for income tax p
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c632557]
 
-(2)[^key-9de35e0921c90da83595ff709ceec3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9de35e0921c90da83595ff709ceec3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b38cd8eea1c3f9f60daf53c85215e86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b38cd8eea1c3f9f60daf53c85215e86f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4), (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c632557]
 
@@ -324,7 +324,7 @@ The provisions of Part III of this Act providing for deductions for income tax p
 
 ### 66. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c632564]
 
-### 67. Short title, construction extent and repeals.[^key-ff03d87fc04d88a95adfcc3cda390f1a]
+### 67. Short title, construction extent and repeals.[^c-ff03d87fc04d88a95adfcc3cda390f1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -530,7 +530,7 @@ Section 39.
 
 [^c632523]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/part/VII) (ss. 52–57) excluded by [S.I. 1988/268](https://www.legislation.gov.uk/uksi/1988/268), [reg. 3](https://www.legislation.gov.uk/uksi/1988/268/regulation/3)
 
-[^key-d6e290fa8e19ea17a8810b27d9a36144]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/52) repealed (with effect in accordance with Sch. 39 para. 10(1) of the commencing Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/1/1) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-d6e290fa8e19ea17a8810b27d9a36144]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/52) repealed (with effect in accordance with Sch. 39 para. 10(1) of the commencing Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/1/1) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c632526]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/53) repealed by [Finance Act 1988 (c. 39, SIF 114)](https://www.legislation.gov.uk/ukpga/1988/39), [ss. 140(1)(a)(2)(6)](https://www.legislation.gov.uk/ukpga/1988/39/section/140/1/a/2/6), [148](https://www.legislation.gov.uk/ukpga/1988/39/section/148), [Sch. 14 Pt. XI](https://www.legislation.gov.uk/ukpga/1988/39/schedule/14/part/XI)
 
@@ -570,9 +570,9 @@ Section 39.
 
 [^c632557]: Textual amendment: S. 62(1)(4)(5) repealed by [Income Tax Act 1952 (c. 10)](https://www.legislation.gov.uk/ukpga/1952/10), [Sch. 25](https://www.legislation.gov.uk/ukpga/1952/10/schedule/25)
 
-[^key-9de35e0921c90da83595ff709ceec3c7]: Textual amendment: S. 62(2) repealed (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 54(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/3)
+[^c-9de35e0921c90da83595ff709ceec3c7]: Textual amendment: S. 62(2) repealed (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 54(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/3)
 
-[^key-b38cd8eea1c3f9f60daf53c85215e86f]: Textual amendment: [S. 62(3)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/62/3) repealed (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 54(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/3)
+[^c-b38cd8eea1c3f9f60daf53c85215e86f]: Textual amendment: [S. 62(3)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/62/3) repealed (6.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 54(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/1)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/54/3)
 
 [^c632559]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/63) repealed by [Exchange Equalisation Account Act 1979 (c. 30)](https://www.legislation.gov.uk/ukpga/1979/30), [Sch.](https://www.legislation.gov.uk/ukpga/1979/30/schedule)
 
@@ -582,7 +582,7 @@ Section 39.
 
 [^c632564]: Textual amendment: [S. 66](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/section/66) repealed (20.7.1998) by [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446), [reg. 30(2)](https://www.legislation.gov.uk/uksi/1998/1446/regulation/30/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/1446/schedule/2), [Pt. I](https://www.legislation.gov.uk/uksi/1998/1446/part/I)
 
-[^key-ff03d87fc04d88a95adfcc3cda390f1a]: Textual amendment: S. 67 repealed (with effect in accordance with Sch. 39 para. 10(1) of the commencing Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/1/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-ff03d87fc04d88a95adfcc3cda390f1a]: Textual amendment: S. 67 repealed (with effect in accordance with Sch. 39 para. 10(1) of the commencing Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/1/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c632573]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo6/9-10/64/schedule/1) repealed by [Licensing Act 1953 (c. 46)](https://www.legislation.gov.uk/ukpga/1953/46), [s. 168](https://www.legislation.gov.uk/ukpga/1953/46/section/168), [Sch. 10](https://www.legislation.gov.uk/ukpga/1953/46/schedule/10)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Protective work to buildings[^key-4d1f5e79ce4a6ba307afb10d177ac077]
+## 18. Protective work to buildings[^c-4d1f5e79ce4a6ba307afb10d177ac077]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-4d1f5e79ce4a6ba307afb10d177ac077]: Commencement: Art. 18 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-4d1f5e79ce4a6ba307afb10d177ac077]: Commencement: Art. 18 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00032]: Footnote: Section 125 is amended by section 216 and paragraph 17 of Schedule 16 to the Housing and Planning Act 2016.

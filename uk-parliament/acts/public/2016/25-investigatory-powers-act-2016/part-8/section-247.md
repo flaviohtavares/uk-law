@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Members of the Panel[^key-f79344257e839b0ab0b96a62a9a70f01]
+## 247. Members of the Panel[^c-f79344257e839b0ab0b96a62a9a70f01]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f79344257e839b0ab0b96a62a9a70f01]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2016/25/section/247) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/p)
+[^c-f79344257e839b0ab0b96a62a9a70f01]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2016/25/section/247) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/p)

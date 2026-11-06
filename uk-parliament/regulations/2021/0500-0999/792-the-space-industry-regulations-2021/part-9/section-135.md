@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Authorisation and prohibition on exposure[^key-b6b4f1dbaf15815c2b63e9cc59682792]
+## 135. Authorisation and prohibition on exposure[^c-b6b4f1dbaf15815c2b63e9cc59682792]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b4f1dbaf15815c2b63e9cc59682792]: Commencement: Reg. 135 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b6b4f1dbaf15815c2b63e9cc59682792]: Commencement: Reg. 135 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Information relating to food supply chains: financial penalties[^key-7502c0f29718d9845f0c6dd28983d575]
+## SCHEDULE 15 — Information relating to food supply chains: financial penalties[^c-7502c0f29718d9845f0c6dd28983d575]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,36 +26,36 @@ Section 28
 
 ### Notice of intent
 
-**1.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amount of penalty
 
-**2.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Right to make representations
 
-**3.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Final notice
 
-**4.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Late payment
 
-**5.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Withdrawal or amendment of notice
 
-**6.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Appeals
 
-**7.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Enforcement
 
-**8.**[^key-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7502c0f29718d9845f0c6dd28983d575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7502c0f29718d9845f0c6dd28983d575]: Textual amendment: Sch. 15 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/e)
+[^c-7502c0f29718d9845f0c6dd28983d575]: Textual amendment: Sch. 15 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/e)

@@ -45,24 +45,24 @@ Coming into force
 
 In exercise of the powers conferred on me by sections 22(1) and (2) and 29(2) of the Prosecution of Offences Act 1985[^f00001], I hereby make the following Regulations:–
 
-## 1. Citation and commencement[^key-82331e48d199f66572a5b1d883b28a8a]
+## 1. Citation and commencement[^c-82331e48d199f66572a5b1d883b28a8a]
 
 These Regulations may be cited as the Prosecution of Offences (Custody Time Limits) Regulations 1987 and shall cone into force on 1st April 1987.
 
-## 2. Interpretation[^key-30b8322e78e9534404a9196773692190]
+## 2. Interpretation[^c-30b8322e78e9534404a9196773692190]
 
 (1) In these Regulations–
 
 - “the 1980 Act” means the Magistrates' Courts Act 1980[^f00002];
 - “the 1985 Act” means the Prosecution of Offences Act 1985.
 
-(2)[^key-0758385a609a5a926c0de125b05d7fcd] In these Regulations, a reference to a person’s first appearance in relation to proceedings in a magistrates' court for an offence is—
+(2)[^c-0758385a609a5a926c0de125b05d7fcd] In these Regulations, a reference to a person’s first appearance in relation to proceedings in a magistrates' court for an offence is—
 
 - (a) in a case where that person has made an application under section 43B of the 1980 Act, a reference to the time when he appears before the court on the hearing of that application;
 - (b) in a case where that person appears or is brought before the court in pursuance of section 5B of the Bail Act 1976 and the decision which is to be, or has been, reconsidered under that section is the decision of a constable, a reference to the time when he so appears or is brought; and
 - (c) in any other case, a reference to the time when first he appears or is brought before the court on an information charging him with that offence.
 
-(3)[^key-a5368fbc8f7be0be3ec8d1636a20434e] In these Regulations any reference to the start of the trial shall be construed in accordance with section 22(11A) and (11B) of the 1985 Act.
+(3)[^c-a5368fbc8f7be0be3ec8d1636a20434e] In these Regulations any reference to the start of the trial shall be construed in accordance with section 22(11A) and (11B) of the 1985 Act.
 
 (4) Any maximum period set by these Regulations during which a person may be in the custody of a court does not include the day on which the custody commenced.
 
@@ -70,32 +70,32 @@ These Regulations may be cited as the Prosecution of Offences (Custody Time Limi
 
 The days to which this paragraph applies are Saturday, Sunday, Christmas Day, Good Friday and any day which under the Banking and Financial Dealings Act 1971[^f00003] is a bank holiday in England and Wales.
 
-## 3. Application[^key-c81dcb028db367597fd94a246c30411f][^key-7f00e95d9cccf95f6583fc546c6ae28b]
+## 3. Application[^c-c81dcb028db367597fd94a246c30411f][^c-7f00e95d9cccf95f6583fc546c6ae28b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Custody time limits in magistrates' courts[^key-37aaeb2ff7eec503ecb97289c9c44af9]
+## 4. Custody time limits in magistrates' courts[^c-37aaeb2ff7eec503ecb97289c9c44af9]
 
-(1) [^key-a9df4aa77d53b3d9f88b456375117760]... The maximum period during which a person accused of an indictable offence other than treason may be in the custody of a magistrates' court in relation to that offence while awaiting completion of any preliminary stage of the proceedings specified in the following provisions of this Regulation shall be as stated in those provisions.
+(1) [^c-a9df4aa77d53b3d9f88b456375117760]... The maximum period during which a person accused of an indictable offence other than treason may be in the custody of a magistrates' court in relation to that offence while awaiting completion of any preliminary stage of the proceedings specified in the following provisions of this Regulation shall be as stated in those provisions.
 
-(2) Except as provided in paragraph (3) below, in the case of an offence triable either way the maximum period of custody between the accused’s first appearance and the start[^key-fd48a494836fe54851461a025912a4ae] of summary trial or, as the case may be, the time when the court decides whether or not to commit the accused to the Crown Court for trial shall be 70 days[^key-c5d0172810063fa65f4a51a34274af71] [^key-e1fb17fdb127ad19c7f1c9d20972cc1f]....
+(2) Except as provided in paragraph (3) below, in the case of an offence triable either way the maximum period of custody between the accused’s first appearance and the start[^c-fd48a494836fe54851461a025912a4ae] of summary trial or, as the case may be, the time when the court decides whether or not to commit the accused to the Crown Court for trial shall be 70 days[^c-c5d0172810063fa65f4a51a34274af71] [^c-e1fb17fdb127ad19c7f1c9d20972cc1f]....
 
-(3) In the case of an offence triable either way if, before the expiry of 56 days following the day of the accused’s first appearance, the court decides to proceed to summary trial in pursuance of sections 19 to 24 of the 1980 Act the maximum period of custody between the accused’s first appearance and the start[^key-59968beb3c0eb712b6af5948f3439075] of the summary trial shall be 56 days.
+(3) In the case of an offence triable either way if, before the expiry of 56 days following the day of the accused’s first appearance, the court decides to proceed to summary trial in pursuance of sections 19 to 24 of the 1980 Act the maximum period of custody between the accused’s first appearance and the start[^c-59968beb3c0eb712b6af5948f3439075] of the summary trial shall be 56 days.
 
-(4) In the case of an offence triable on indictment exclusively the maximum period of custody between the accused’s first appearance and the time when the court decides whether or not to commit the accused to the Crown Court for trial, shall be 70 days[^key-5421a952a713229001022ea04f9e79c0] [^key-65526f2afc40002329625331b7ce4f64]....
+(4) In the case of an offence triable on indictment exclusively the maximum period of custody between the accused’s first appearance and the time when the court decides whether or not to commit the accused to the Crown Court for trial, shall be 70 days[^c-5421a952a713229001022ea04f9e79c0] [^c-65526f2afc40002329625331b7ce4f64]....
 
-(4A)[^key-6401bac37966ba803248cafdf0b81d33] In the case of a summary offence, the maximum period of custody beginning with the date of the accused’s first appearance and ending with the date of the start of the summary trial shall be 56 days.
+(4A)[^c-6401bac37966ba803248cafdf0b81d33] In the case of a summary offence, the maximum period of custody beginning with the date of the accused’s first appearance and ending with the date of the start of the summary trial shall be 56 days.
 
-(5)[^key-d7a0798436da361c9744097ef0d4ca45] The foregoing provisions of this regulation shall have effect as if any reference therein to the time when the court decides whether or not to commit the accused to the Crown Court for trial were a reference–
+(5)[^c-d7a0798436da361c9744097ef0d4ca45] The foregoing provisions of this regulation shall have effect as if any reference therein to the time when the court decides whether or not to commit the accused to the Crown Court for trial were a reference–
 
 - (a) where a court proceeds to inquire into an information as examining justices in pursuance of section 6(1) of the 1980 Act, to the time when it begins to hear evidence for the prosecution at the inquiry;
 - (b) where a notice has been given under section 4(1)(c) of the Criminal Justice Act 1987 (in these Regulations referred to as a “notice of transfer”), to the date on which notice of transfer was given.
 
-## 5. Custody time limits in the Crown Court[^key-d3668fabc1036d88b8ef61e63b93180f]
+## 5. Custody time limits in the Crown Court[^c-d3668fabc1036d88b8ef61e63b93180f]
 
-(1)[^key-de23679e429cc3b0bccc0328aafeafc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-de23679e429cc3b0bccc0328aafeafc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where—[^key-164d6b5ffbc5851f5a635554978d1055]
+(2) Where—[^c-164d6b5ffbc5851f5a635554978d1055]
 
 - (a) a person accused of an indictable offence other than treason is committed to the Crown Court for trial; or
 - (b) a bill of indictment is preferred against a person under section 2(2)(b) of the Administration of Justice (Miscellaneous Provisions) Act 1933,
@@ -104,38 +104,38 @@ the maximum period during which he may be in the custody of the Crown Court in r
 
 (3) The maximum period of custody–
 
-- (a) between the time when the accused is committed for trial and the start of the trial[^key-3117f02d499304d72bae6fee29433cba]; or
-- (b) where a bill of indictment is preferred against him under the said section 2(2)(b), between the preferment of the bill and the start of the trial[^key-cadbad28fa6f836216cb3798c690cafa],
+- (a) between the time when the accused is committed for trial and the start of the trial[^c-3117f02d499304d72bae6fee29433cba]; or
+- (b) where a bill of indictment is preferred against him under the said section 2(2)(b), between the preferment of the bill and the start of the trial[^c-cadbad28fa6f836216cb3798c690cafa],
 
 shall, subject to the following provisions of this Regulation, be 112 days.
 
 (4) Where, following a committal for trial, the bill of indictment preferred against the accused (not being a bill preferred under the said section 2(2)(b)) contains a count charging an offence for which he was committed for trial on a different occasion, paragraph (3) above applies in relation to each offence separately.
 
-(5) Where, following a committal for trial, a bill of indictment is preferred under the said section 2(2)(b) and the bill does not contain a count charging an offence for which he was not committed for trial, the maximum period of custody between the preferment of the bill and the start of the trial[^key-c3ab3782e7c996c50551785d312a324e] shall be 112 days less any period, or the aggregate of any periods, during which the accused has, since the committal, been in the custody of the Crown Court in relation to an offence for which he was committed for trial.
+(5) Where, following a committal for trial, a bill of indictment is preferred under the said section 2(2)(b) and the bill does not contain a count charging an offence for which he was not committed for trial, the maximum period of custody between the preferment of the bill and the start of the trial[^c-c3ab3782e7c996c50551785d312a324e] shall be 112 days less any period, or the aggregate of any periods, during which the accused has, since the committal, been in the custody of the Crown Court in relation to an offence for which he was committed for trial.
 
 (6) Where, following a committal for trial, the bill of indictment preferred against the accused (not being a bill preferred under the said section 2(2)(b)) contains a count charging an offence for which he was not committed for trial, the maximum period of custody –
 
-- (a) between the preferment of the bill and the start of the trial[^key-6eb4606cc916bdd7dc0703b6a24beb89], or
-- (b) if the count was added to the bill after its preferment, between that addition and the start of the trial[^key-763127253911b6453e672ba2e032a9d0],
+- (a) between the preferment of the bill and the start of the trial[^c-6eb4606cc916bdd7dc0703b6a24beb89], or
+- (b) if the count was added to the bill after its preferment, between that addition and the start of the trial[^c-763127253911b6453e672ba2e032a9d0],
 
 shall be 112 days less any period, or the aggregate of any periods, during which he has, since the committal, been in the custody of the Crown Court in relation to an offence for which he was committed for trial.
 
-(6A)[^key-98527b086a1218bda6b1a1cac6098d7a] The foregoing provisions of this regulation shall have effect, where notice of transfer is given in respect of a case, as if references to committal for trial and to offences for which a person was or was not committed for trial included references to the giving of notice of transfer and to charges contained or not contained in the notice of transfer.
+(6A)[^c-98527b086a1218bda6b1a1cac6098d7a] The foregoing provisions of this regulation shall have effect, where notice of transfer is given in respect of a case, as if references to committal for trial and to offences for which a person was or was not committed for trial included references to the giving of notice of transfer and to charges contained or not contained in the notice of transfer.
 
-(6B)[^key-a3b37839c48c480fc9d5c78870957745] Where an accused is sent for trial [^key-2cdbbd5536cce2d5978927fc7e59addc]..., the maximum period of custody between the accused being sent to the Crown Court by a magistrates' court for an offence and the start of the trial in relation to it, shall be 182 days less any period, or the aggregate of any periods, during which the accused has, since that first appearance for the offence, been in the custody of the magistrates' court.
+(6B)[^c-a3b37839c48c480fc9d5c78870957745] Where an accused is sent for trial [^c-2cdbbd5536cce2d5978927fc7e59addc]..., the maximum period of custody between the accused being sent to the Crown Court by a magistrates' court for an offence and the start of the trial in relation to it, shall be 182 days less any period, or the aggregate of any periods, during which the accused has, since that first appearance for the offence, been in the custody of the magistrates' court.
 
-(6C) Where, following a sending for trial [^key-15819dd5413adcf9e848020fe1493280]..., a bill of indictment is preferred under the said section 2(2)(b) and the bill does not contain a count charging an offence for which he was not sent for trial, the maximum period of custody between the preferment of the bill and the start of the trial shall be the maximum period of custody as provided for in paragraph (6B) above (after making any deductions required by that paragraph) less any period, or the aggregate of any periods, during which the accused has, since he was sent for trial, been in the custody of the Crown Court in relation to an offence for which he was sent for trial.
+(6C) Where, following a sending for trial [^c-15819dd5413adcf9e848020fe1493280]..., a bill of indictment is preferred under the said section 2(2)(b) and the bill does not contain a count charging an offence for which he was not sent for trial, the maximum period of custody between the preferment of the bill and the start of the trial shall be the maximum period of custody as provided for in paragraph (6B) above (after making any deductions required by that paragraph) less any period, or the aggregate of any periods, during which the accused has, since he was sent for trial, been in the custody of the Crown Court in relation to an offence for which he was sent for trial.
 
-(6D) Where, following a sending for trial [^key-b515c436a8555020dfea15bb1390514e]..., the bill of indictment preferred against the accused (not being a bill preferred under the said section 2(2)(b)) contains a count charging an offence for which he was not sent for trial, the maximum period of custody—
+(6D) Where, following a sending for trial [^c-b515c436a8555020dfea15bb1390514e]..., the bill of indictment preferred against the accused (not being a bill preferred under the said section 2(2)(b)) contains a count charging an offence for which he was not sent for trial, the maximum period of custody—
 
 - (a) between the preferment of the bill and the start of the trial, or
 - (b) if the count was added to the bill after its preferment, between that addition and the start of the trial,
 
 shall be the maximum period of custody as provided for in paragraph (6B) above (after making any deductions required by that paragraph) less any period, or the aggregate of any periods, during which he has, since being sent for trial, been in the custody of the Crown Court in relaton to the offence for which he was previously sent for trial.
 
-(7)[^key-3866eb0be0e251a7a41c0c96f4ced1c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3866eb0be0e251a7a41c0c96f4ced1c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Bail on expiry of Crown Court custody time limit[^key-4a5c00538f6dfcfe5e0f09b9b5dd9181]
+## 6. Bail on expiry of Crown Court custody time limit[^c-4a5c00538f6dfcfe5e0f09b9b5dd9181]
 
 (1) Subject to the following provisions of this Regulation where an accused who is in custody pending trial in the Crown Court has the benefit of a custody time limit under Regulation 5 above the prosecution shall –
 
@@ -154,9 +154,9 @@ shall be the maximum period of custody as provided for in paragraph (6B) above (
 
 (5) The Crown Court may direct that the prosecution need not comply with paragraph (1)(b) above.
 
-(6) The Crown Court, on being notified that an accused who is in custody pending trial there has the benefit of a custody time limit under Regulation 5 above and that the time limit is about to expire, shall , subject to section 25 of the Criminal Justice and Public Order Act 1994 (exclusion of bail in cases of homicide and rape),[^key-68f7b34561777862ecc55aa596347bed] grant him bail in accordance with the Bail Act 1976[^f00005], as from the expiry of the time limit, subject to a duty to appear before the Crown Court for trial.
+(6) The Crown Court, on being notified that an accused who is in custody pending trial there has the benefit of a custody time limit under Regulation 5 above and that the time limit is about to expire, shall , subject to section 25 of the Criminal Justice and Public Order Act 1994 (exclusion of bail in cases of homicide and rape),[^c-68f7b34561777862ecc55aa596347bed] grant him bail in accordance with the Bail Act 1976[^f00005], as from the expiry of the time limit, subject to a duty to appear before the Crown Court for trial.
 
-## 7. Application for extension of custody time limit[^key-b0c77a8db22674bb2339cf124d6246bf]
+## 7. Application for extension of custody time limit[^c-b0c77a8db22674bb2339cf124d6246bf]
 
 (1) An application to a court for the extension or further extension of a custody time limit under section 22(3) of the 1985 Act may be made orally or in writing.
 
@@ -165,15 +165,15 @@ shall be the maximum period of custody as provided for in paragraph (6B) above (
 - (a) not less than 5 days before making such an application in the Crown Court; and
 - (b) not less than 2 days before making such an application in a magistrates' court,
 
-give notice in writing to the accused or his representative and to the proper officer of the court[^key-3c3509b2e0f947f154354b95a3ac4ec0] stating that it intends to make such an application.
+give notice in writing to the accused or his representative and to the proper officer of the court[^c-3c3509b2e0f947f154354b95a3ac4ec0] stating that it intends to make such an application.
 
-(2A)[^key-c1b9ba99765daaa35c96223751abaf42] In paragraph (2) above, “the proper officer of the court” means in relation to an application in the Crown Court the appropriate officer of the court and in relation to an application in a magistrates' court the clerk of the court.
+(2A)[^c-c1b9ba99765daaa35c96223751abaf42] In paragraph (2) above, “the proper officer of the court” means in relation to an application in the Crown Court the appropriate officer of the court and in relation to an application in a magistrates' court the clerk of the court.
 
 (3) It shall not be necessary for the prosecution to comply with paragraph (2) above if the accused or his representative has informed the prosecution that he does not require such notice.
 
 (4) If the court is satisfied that it is not practicable in all the circumstances for the prosecution to comply with paragraph (2) above, the court may direct that the prosecution need not comply with that paragraph or that the minimum period of notice required by that paragraph to be given shall be such lesser minimum period as the court may specify.
 
-## 8. Application of Bail Act 1976[^key-f4544921efbf40d753cddf7bea70a89c]
+## 8. Application of Bail Act 1976[^c-f4544921efbf40d753cddf7bea70a89c]
 
 (1) The Bail Act 1976 shall apply in relation to cases to which a custody time limit applies subject to the modifications specified in paragraph (2) below, being modifications necessary in consequence of the foregoing provisions of these Regulations.
 
@@ -181,7 +181,7 @@ give notice in writing to the accused or his representative and to the proper of
 
 - (a) in section 3 (general provisions) at the end there were inserted the following suvbsections:–
 
-  > (10A)[^key-80579dc39f3d8f1b8a329142697f60cf] Where a custody time limit has expired this section shall have effect as if–
+  > (10A)[^c-80579dc39f3d8f1b8a329142697f60cf] Where a custody time limit has expired this section shall have effect as if–
   >
   > - (a) subsections (4) and (5) (sureties and security for his surrender to custody) were omitted;
   > - (b) in subsection (6) (conditions of bail) for the words “before release on bail or later” there were substituted the words “after release on bail”
@@ -189,7 +189,7 @@ give notice in writing to the accused or his representative and to the proper of
   ;
 - (b) in section 4 (general right to bail of accused persons and others) at the end there were inserted the following subsection:–
 
-  > (8A)[^key-4ffe164ad959d783916b78785022fd8f] Where a custody time limit has expired this section shall have effect as if, in subsection (1), the words “except as provided in Schedule 1 to this Act” were omitted.
+  > (8A)[^c-4ffe164ad959d783916b78785022fd8f] Where a custody time limit has expired this section shall have effect as if, in subsection (1), the words “except as provided in Schedule 1 to this Act” were omitted.
 
   ;
 - (c) in section 7 (liability to arrest for absconding or breaking conditions of bail) at the end there were inserted the following subsection:–
@@ -222,84 +222,84 @@ Regulation 8 makes consequential modifications in the application of the Bail Ac
 
 [^f00001]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23).
 
-[^key-82331e48d199f66572a5b1d883b28a8a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-82331e48d199f66572a5b1d883b28a8a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-30b8322e78e9534404a9196773692190]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/299/regulation/2) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-30b8322e78e9534404a9196773692190]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/299/regulation/2) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
 [^f00002]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-0758385a609a5a926c0de125b05d7fcd]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/2/2) substituted (10.4.1995) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/2)
+[^c-0758385a609a5a926c0de125b05d7fcd]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/2/2) substituted (10.4.1995) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/2)
 
-[^key-a5368fbc8f7be0be3ec8d1636a20434e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1987/299/regulation/2/3) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(a)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/a)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-a5368fbc8f7be0be3ec8d1636a20434e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1987/299/regulation/2/3) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(a)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/a)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c81dcb028db367597fd94a246c30411f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/299/regulation/3) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/a) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/a))
+[^c-c81dcb028db367597fd94a246c30411f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/299/regulation/3) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/a) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/a))
 
-[^key-7f00e95d9cccf95f6583fc546c6ae28b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/299/regulation/3) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-7f00e95d9cccf95f6583fc546c6ae28b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/299/regulation/3) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-37aaeb2ff7eec503ecb97289c9c44af9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/299/regulation/4) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-37aaeb2ff7eec503ecb97289c9c44af9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/299/regulation/4) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-a9df4aa77d53b3d9f88b456375117760]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/1) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/b))
+[^c-a9df4aa77d53b3d9f88b456375117760]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/1) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/b))
 
-[^key-fd48a494836fe54851461a025912a4ae]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/2) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(b)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/b)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-fd48a494836fe54851461a025912a4ae]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/2) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(b)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/b)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-c5d0172810063fa65f4a51a34274af71]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/2) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/1989/767/regulation/3/a) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
+[^c-c5d0172810063fa65f4a51a34274af71]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/2) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/1989/767/regulation/3/a) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
 
-[^key-e1fb17fdb127ad19c7f1c9d20972cc1f]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/2) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/b))
+[^c-e1fb17fdb127ad19c7f1c9d20972cc1f]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/2) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/b))
 
-[^key-59968beb3c0eb712b6af5948f3439075]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/3) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(b)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/b)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-59968beb3c0eb712b6af5948f3439075]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/3) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(b)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/b)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-5421a952a713229001022ea04f9e79c0]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/4) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/1989/767/regulation/3/a) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
+[^c-5421a952a713229001022ea04f9e79c0]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/4) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/1989/767/regulation/3/a) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
 
-[^key-65526f2afc40002329625331b7ce4f64]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/4) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/b))
+[^c-65526f2afc40002329625331b7ce4f64]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/4) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/b))
 
-[^key-6401bac37966ba803248cafdf0b81d33]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/4A) inserted (with saving) (1.11.1999) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1999 (S.I. 1999/2744)](https://www.legislation.gov.uk/uksi/1999/2744), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2744/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/2744/regulation/2/2)
+[^c-6401bac37966ba803248cafdf0b81d33]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/4A) inserted (with saving) (1.11.1999) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1999 (S.I. 1999/2744)](https://www.legislation.gov.uk/uksi/1999/2744), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2744/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/2744/regulation/2/2)
 
-[^key-d7a0798436da361c9744097ef0d4ca45]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/5) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/3/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
+[^c-d7a0798436da361c9744097ef0d4ca45]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/1987/299/regulation/4/5) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/3/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
 
-[^key-d3668fabc1036d88b8ef61e63b93180f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/299/regulation/5) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-d3668fabc1036d88b8ef61e63b93180f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/299/regulation/5) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-de23679e429cc3b0bccc0328aafeafc4]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/1) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/c) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/a))
+[^c-de23679e429cc3b0bccc0328aafeafc4]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/1) omitted (1.10.1991) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/c) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/a))
 
-[^key-164d6b5ffbc5851f5a635554978d1055]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/2) substituted (1.10.1991) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/c) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/a))
+[^c-164d6b5ffbc5851f5a635554978d1055]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/2) substituted (1.10.1991) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1991 (S.I. 1991/1515)](https://www.legislation.gov.uk/uksi/1991/1515), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3), [2(c)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/2/c) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/1991/1515/regulation/1/3/a))
 
-[^key-3117f02d499304d72bae6fee29433cba]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/3/a) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-3117f02d499304d72bae6fee29433cba]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/3/a) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-cadbad28fa6f836216cb3798c690cafa]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/3/b) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-cadbad28fa6f836216cb3798c690cafa]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/3/b) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-c3ab3782e7c996c50551785d312a324e]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/5) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-c3ab3782e7c996c50551785d312a324e]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/5) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-6eb4606cc916bdd7dc0703b6a24beb89]: Textual amendment: Words in [reg. 5(6)(a)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6/a) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-6eb4606cc916bdd7dc0703b6a24beb89]: Textual amendment: Words in [reg. 5(6)(a)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6/a) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-763127253911b6453e672ba2e032a9d0]: Textual amendment: Words in [reg. 5(6)(b)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6/b) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-763127253911b6453e672ba2e032a9d0]: Textual amendment: Words in [reg. 5(6)(b)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6/b) substituted (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(c)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/c)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-98527b086a1218bda6b1a1cac6098d7a]: Textual amendment: [Reg. 5(6A)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6A) inserted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/4/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
+[^c-98527b086a1218bda6b1a1cac6098d7a]: Textual amendment: [Reg. 5(6A)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6A) inserted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/4/b) (with [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3/b))
 
-[^key-a3b37839c48c480fc9d5c78870957745]: Textual amendment: [Reg. 5(6B)-(6D)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6B) inserted (15.1.2001) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2000 (S.I. 2000/3284)](https://www.legislation.gov.uk/uksi/2000/3284), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3284/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/3284/regulation/2/2)
+[^c-a3b37839c48c480fc9d5c78870957745]: Textual amendment: [Reg. 5(6B)-(6D)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6B) inserted (15.1.2001) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2000 (S.I. 2000/3284)](https://www.legislation.gov.uk/uksi/2000/3284), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3284/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/3284/regulation/2/2)
 
-[^key-2cdbbd5536cce2d5978927fc7e59addc]: Textual amendment: Words in [reg. 5(6B)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6B) omitted (18.6.2012) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2012 (S.I. 2012/1344)](https://www.legislation.gov.uk/uksi/2012/1344), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1344/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1344/regulation/2/2/a)
+[^c-2cdbbd5536cce2d5978927fc7e59addc]: Textual amendment: Words in [reg. 5(6B)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6B) omitted (18.6.2012) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2012 (S.I. 2012/1344)](https://www.legislation.gov.uk/uksi/2012/1344), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1344/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1344/regulation/2/2/a)
 
-[^key-15819dd5413adcf9e848020fe1493280]: Textual amendment: Words in [reg. 5(6C)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6C) omitted (18.6.2012) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2012 (S.I. 2012/1344)](https://www.legislation.gov.uk/uksi/2012/1344), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1344/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1344/regulation/2/2/b)
+[^c-15819dd5413adcf9e848020fe1493280]: Textual amendment: Words in [reg. 5(6C)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6C) omitted (18.6.2012) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2012 (S.I. 2012/1344)](https://www.legislation.gov.uk/uksi/2012/1344), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1344/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1344/regulation/2/2/b)
 
-[^key-b515c436a8555020dfea15bb1390514e]: Textual amendment: Words in [reg. 5(6D)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6D) omitted (18.6.2012) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2012 (S.I. 2012/1344)](https://www.legislation.gov.uk/uksi/2012/1344), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1344/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/1344/regulation/2/2/c)
+[^c-b515c436a8555020dfea15bb1390514e]: Textual amendment: Words in [reg. 5(6D)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/6D) omitted (18.6.2012) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 2012 (S.I. 2012/1344)](https://www.legislation.gov.uk/uksi/2012/1344), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1344/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/1344/regulation/2/2/c)
 
-[^key-3866eb0be0e251a7a41c0c96f4ced1c0]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/7) revoked (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(d)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/d)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6), [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
+[^c-3866eb0be0e251a7a41c0c96f4ced1c0]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/1987/299/regulation/5/7) revoked (1.10.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 71(4)(d)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/4/d)[(6)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/6), [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5) (with [s. 71(5)](https://www.legislation.gov.uk/ukpga/1996/25/section/71/5)); [S.I. 1996/2343](https://www.legislation.gov.uk/uksi/1996/2343), [art. 2](https://www.legislation.gov.uk/uksi/1996/2343/article/2)
 
-[^key-4a5c00538f6dfcfe5e0f09b9b5dd9181]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/299/regulation/6) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-4a5c00538f6dfcfe5e0f09b9b5dd9181]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/299/regulation/6) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-68f7b34561777862ecc55aa596347bed]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/1987/299/regulation/6/6) inserted (10.4.1995) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/3)
+[^c-68f7b34561777862ecc55aa596347bed]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/1987/299/regulation/6/6) inserted (10.4.1995) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/3)
 
 [^f00005]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63).
 
-[^key-b0c77a8db22674bb2339cf124d6246bf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/299/regulation/7) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-b0c77a8db22674bb2339cf124d6246bf]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/299/regulation/7) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-3c3509b2e0f947f154354b95a3ac4ec0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/7/2) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/1989/767/regulation/5/a)
+[^c-3c3509b2e0f947f154354b95a3ac4ec0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1987/299/regulation/7/2) substituted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/1989/767/regulation/5/a)
 
-[^key-c1b9ba99765daaa35c96223751abaf42]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/1987/299/regulation/7/2A) inserted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/5/b)
+[^c-c1b9ba99765daaa35c96223751abaf42]: Textual amendment: [Reg. 7(2A)](https://www.legislation.gov.uk/uksi/1987/299/regulation/7/2A) inserted (1.6.1989) by [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1989 (S.I. 1989/767)](https://www.legislation.gov.uk/uksi/1989/767), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/767/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/1989/767/regulation/5/b)
 
-[^key-f4544921efbf40d753cddf7bea70a89c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/299/regulation/8) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
+[^c-f4544921efbf40d753cddf7bea70a89c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/299/regulation/8) in force at 1.4.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/299/regulation/1)
 
-[^key-80579dc39f3d8f1b8a329142697f60cf]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/1987/299/regulation/8/2/a) substituted (10.4.1995) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/4/a)
+[^c-80579dc39f3d8f1b8a329142697f60cf]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/1987/299/regulation/8/2/a) substituted (10.4.1995) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/4/a)
 
-[^key-4ffe164ad959d783916b78785022fd8f]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1987/299/regulation/8/2/b) substituted (10.4.1995) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/4/b)
+[^c-4ffe164ad959d783916b78785022fd8f]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1987/299/regulation/8/2/b) substituted (10.4.1995) by virtue of [The Prosecution of Offences (Custody Time Limits) (Amendment) Regulations 1995 (S.I. 1995/555)](https://www.legislation.gov.uk/uksi/1995/555), [regs. 1](https://www.legislation.gov.uk/uksi/1995/555/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1995/555/regulation/2/4/b)

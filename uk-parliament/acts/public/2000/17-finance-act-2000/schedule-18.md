@@ -26,7 +26,7 @@ Section 65.
 
 #### Relief from income tax
 
-**1.**[^key-6552bfe0fb2aac31cbdc6e2c45c35b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6552bfe0fb2aac31cbdc6e2c45c35b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Deferred CGT charge on reinvestment
 
@@ -36,34 +36,34 @@ Section 65.
 
 **3.** The amendments made by this Part of this Schedule have effect in relation to shares issued on or after 6th April 2000.
 
-### Part II — Qualifying holdings[^key-cbe888e06594fe4ea68161427b5b1c8c]
+### Part II — Qualifying holdings[^c-cbe888e06594fe4ea68161427b5b1c8c]
 
 **No longer in force.**
 
-#### Introductory[^key-cbe888e06594fe4ea68161427b5b1c8c]
+#### Introductory[^c-cbe888e06594fe4ea68161427b5b1c8c]
 
-**4.**[^key-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Qualifying trade: receipt of royalties or licence fees[^key-cbe888e06594fe4ea68161427b5b1c8c]
+#### Qualifying trade: receipt of royalties or licence fees[^c-cbe888e06594fe4ea68161427b5b1c8c]
 
-**5.**[^key-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Meaning of “research and development"[^key-cbe888e06594fe4ea68161427b5b1c8c]
+#### Meaning of “research and development"[^c-cbe888e06594fe4ea68161427b5b1c8c]
 
-**6.**[^key-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Company in administration or receivership[^key-cbe888e06594fe4ea68161427b5b1c8c]
+#### Company in administration or receivership[^c-cbe888e06594fe4ea68161427b5b1c8c]
 
-**7.**[^key-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Company reorganisations et ceteralaetc. involving exchange of shares[^key-cbe888e06594fe4ea68161427b5b1c8c]
+#### Company reorganisations et ceteralaetc. involving exchange of shares[^c-cbe888e06594fe4ea68161427b5b1c8c]
 
-**8.**[^key-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cbe888e06594fe4ea68161427b5b1c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6552bfe0fb2aac31cbdc6e2c45c35b05]: Textual amendment: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2000/17/schedule/18/paragraph/1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-6552bfe0fb2aac31cbdc6e2c45c35b05]: Textual amendment: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2000/17/schedule/18/paragraph/1) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14058271]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-cbe888e06594fe4ea68161427b5b1c8c]: Textual amendment: [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/2000/17/schedule/18/part/II) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-cbe888e06594fe4ea68161427b5b1c8c]: Textual amendment: [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/2000/17/schedule/18/part/II) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

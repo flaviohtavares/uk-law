@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Further curriculum requirements[^key-bf8880be31ea35976942c889680d73b9]
+## 62. Further curriculum requirements[^c-bf8880be31ea35976942c889680d73b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ See sections 33A to 33O of the Learning and Skills Act 2000 (c. 21) (local curri
 
 ## Annotations
 
-[^key-bf8880be31ea35976942c889680d73b9]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2021/4/section/62) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)
+[^c-bf8880be31ea35976942c889680d73b9]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2021/4/section/62) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)

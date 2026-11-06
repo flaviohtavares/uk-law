@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 100. Additional reporting requirements[^key-e81e4456767694a3cc53550be671d2b6]
+## Article 100. Additional reporting requirements[^c-e81e4456767694a3cc53550be671d2b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e81e4456767694a3cc53550be671d2b6]: Textual amendment: [Pt. 3 Title 1 Ch. 2](https://www.legislation.gov.uk/eur/2013/575/part/THREE/title/I/chapter/2) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/b)
+[^c-e81e4456767694a3cc53550be671d2b6]: Textual amendment: [Pt. 3 Title 1 Ch. 2](https://www.legislation.gov.uk/eur/2013/575/part/THREE/title/I/chapter/2) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/b)

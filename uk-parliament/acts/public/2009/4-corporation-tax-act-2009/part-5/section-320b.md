@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320B. Hybrid capital instruments: amounts recognised in equity[^key-921f3785ab99f6352d1df37b9932ea5e]
+## 320B. Hybrid capital instruments: amounts recognised in equity[^c-921f3785ab99f6352d1df37b9932ea5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-921f3785ab99f6352d1df37b9932ea5e]: Textual amendment: S. 320B inserted (with effect in accordance with Sch. 20 para. 10(b) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/5)
+[^c-921f3785ab99f6352d1df37b9932ea5e]: Textual amendment: S. 320B inserted (with effect in accordance with Sch. 20 para. 10(b) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/5)

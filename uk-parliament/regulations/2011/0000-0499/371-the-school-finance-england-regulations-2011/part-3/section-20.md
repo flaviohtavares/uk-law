@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Sixth form funding[^key-1222d15a40e3f125efe0921070c2ec13]
+## 20. Sixth form funding[^c-1222d15a40e3f125efe0921070c2ec13]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1222d15a40e3f125efe0921070c2ec13]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/371/regulation/20) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-1222d15a40e3f125efe0921070c2ec13]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/371/regulation/20) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

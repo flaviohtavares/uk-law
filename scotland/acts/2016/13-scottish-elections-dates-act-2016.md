@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about the determination of t
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 25th February 2016 and received Royal Assent on 30th March 2016
 
-## 1. Date of general election for Scottish Parliament[^key-1c0b01c70411c01fb60ce6748c210cd9]
+## 1. Date of general election for Scottish Parliament[^c-1c0b01c70411c01fb60ce6748c210cd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -60,4 +60,4 @@ The short title of this Act is the Scottish Elections (Dates) Act 2016.
 
 ## Annotations
 
-[^key-1c0b01c70411c01fb60ce6748c210cd9]: Textual amendment: S. 1 repealed (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 1(2)](https://www.legislation.gov.uk/asp/2020/12/section/1/2), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-1c0b01c70411c01fb60ce6748c210cd9]: Textual amendment: S. 1 repealed (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 1(2)](https://www.legislation.gov.uk/asp/2020/12/section/1/2), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)

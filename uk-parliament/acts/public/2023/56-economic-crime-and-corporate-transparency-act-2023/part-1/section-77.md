@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Delivery of statutory declaration of solvency[^key-25ecbfb4bc21a5c301a7a562a662e667][^key-0d7a81cf3c532019ea9bd490fa115d95]
+## 77. Delivery of statutory declaration of solvency[^c-25ecbfb4bc21a5c301a7a562a662e667][^c-0d7a81cf3c532019ea9bd490fa115d95]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25ecbfb4bc21a5c301a7a562a662e667]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-25ecbfb4bc21a5c301a7a562a662e667]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0d7a81cf3c532019ea9bd490fa115d95]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/56/section/77) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z19)
+[^c-0d7a81cf3c532019ea9bd490fa115d95]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/56/section/77) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z19)

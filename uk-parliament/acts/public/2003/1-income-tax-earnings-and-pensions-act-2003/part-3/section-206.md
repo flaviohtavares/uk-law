@@ -29,7 +29,7 @@ summary: ''
 
 (3) But the cost of the benefit (“the current benefit”) is the higher of the market value of the asset at the time of the transfer and the amount calculated in accordance with subsection (5) if—
 
-- (a) the asset is not an excluded asset (see subsection (6))[^key-45c38e49b793fb342577c49ec89d6097] ,
+- (a) the asset is not an excluded asset (see subsection (6))[^c-45c38e49b793fb342577c49ec89d6097] ,
 - (b) the asset has previously been applied in the provision of a relevant employment-related benefit (whether or not the person provided with that benefit is also the transferee), and
 - (c) the transferor first applied the asset in the provision of an employment-related benefit after 5th April 1980.
 
@@ -59,7 +59,7 @@ Deduct the total calculated under step 3 from the market value calculated under 
 
 The result is the amount referred to in subsection (3).
 
-(6)[^key-8433da75cb861926addef8e0ee1616b3] An excluded asset is—
+(6)[^c-8433da75cb861926addef8e0ee1616b3] An excluded asset is—
 
 - (a) a car (within the meaning of Chapter 6),
 - (b) computer equipment that has previously been applied as mentioned in subsection (3)(b) in circumstances in which the conditions set out in section 320 were met, or
@@ -67,6 +67,6 @@ The result is the amount referred to in subsection (3).
 
 ## Annotations
 
-[^key-45c38e49b793fb342577c49ec89d6097]: Textual amendment: Words in s. 206(3)(a) substituted (with effect in accordance with s. 17(4) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2005/7/section/17/2)
+[^c-45c38e49b793fb342577c49ec89d6097]: Textual amendment: Words in s. 206(3)(a) substituted (with effect in accordance with s. 17(4) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2005/7/section/17/2)
 
-[^key-8433da75cb861926addef8e0ee1616b3]: Textual amendment: S. 206(6) inserted (with effect in accordance with s. 17(4) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/17/3)
+[^c-8433da75cb861926addef8e0ee1616b3]: Textual amendment: S. 206(6) inserted (with effect in accordance with s. 17(4) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/17/3)

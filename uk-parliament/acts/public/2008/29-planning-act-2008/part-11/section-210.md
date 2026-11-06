@@ -23,7 +23,7 @@ summary: ''
 (1) CIL regulations must provide for an exemption from liability to pay CIL in respect of a development where—
 
 - (a) the person who would otherwise be liable to pay CIL in respect of the development is a relevant charity in England and Wales, and
-- (b) the building or structure in respect of which CIL liability would otherwise arise is to be used wholly or mainly for a charitable purpose of the charity within the meaning of section 2 of the Charities Act 2011[^key-3e1cfc496d2c94365748c48df6db0fde].
+- (b) the building or structure in respect of which CIL liability would otherwise arise is to be used wholly or mainly for a charitable purpose of the charity within the meaning of section 2 of the Charities Act 2011[^c-3e1cfc496d2c94365748c48df6db0fde].
 
 (2) CIL regulations may—
 
@@ -34,17 +34,17 @@ summary: ''
 
 (4) For the purposes of subsection (1), a relevant charity in England and Wales is an institution which—
 
-- (a) is registered in the register of charities kept by the Charity Commission under section 29 of the Charities Act 2011,[^key-2136e031e020bf72639a47479f266cef] or
-- (b) is a charity within the meaning of section 1(1) of the Charities Act 2011 but is not required to be registered in the register kept under section 29 of that Act[^key-14344b29edfb40df640d2621a063357f] .
+- (a) is registered in the register of charities kept by the Charity Commission under section 29 of the Charities Act 2011,[^c-2136e031e020bf72639a47479f266cef] or
+- (b) is a charity within the meaning of section 1(1) of the Charities Act 2011 but is not required to be registered in the register kept under section 29 of that Act[^c-14344b29edfb40df640d2621a063357f] .
 
-(5) In subsection (2), a charitable purpose is a purpose falling within section 3(1) of the Charities Act 2011;[^key-a7ca1cb428e7a1e6e6253d1e34799f76] but CIL regulations may provide for an institution of a specified kind to be, or not to be, treated as an institution established for a charitable purpose.
+(5) In subsection (2), a charitable purpose is a purpose falling within section 3(1) of the Charities Act 2011;[^c-a7ca1cb428e7a1e6e6253d1e34799f76] but CIL regulations may provide for an institution of a specified kind to be, or not to be, treated as an institution established for a charitable purpose.
 
 ## Annotations
 
-[^key-3e1cfc496d2c94365748c48df6db0fde]: Textual amendment: Words in s. 210(1)(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-3e1cfc496d2c94365748c48df6db0fde]: Textual amendment: Words in s. 210(1)(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-2136e031e020bf72639a47479f266cef]: Textual amendment: Words in s. 210(4)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(3)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/3/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-2136e031e020bf72639a47479f266cef]: Textual amendment: Words in s. 210(4)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(3)(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/3/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-14344b29edfb40df640d2621a063357f]: Textual amendment: Words in s. 210(4)(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(3)(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/3/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-14344b29edfb40df640d2621a063357f]: Textual amendment: Words in s. 210(4)(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(3)(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/3/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-a7ca1cb428e7a1e6e6253d1e34799f76]: Textual amendment: Words in s. 210(5) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(4)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/4) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-a7ca1cb428e7a1e6e6253d1e34799f76]: Textual amendment: Words in s. 210(5) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 136(4)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/136/4) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

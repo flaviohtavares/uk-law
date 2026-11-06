@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Private functions[^key-56d803caf5dcd7f94973a7187ae3cc4e][^key-b560b96125b5f47095dedae285f2838c]
+## 15. Private functions[^c-56d803caf5dcd7f94973a7187ae3cc4e][^c-b560b96125b5f47095dedae285f2838c]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56d803caf5dcd7f94973a7187ae3cc4e]: Commencement: S. 15 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-56d803caf5dcd7f94973a7187ae3cc4e]: Commencement: S. 15 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-b560b96125b5f47095dedae285f2838c]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/7/section/15) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-b560b96125b5f47095dedae285f2838c]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/7/section/15) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

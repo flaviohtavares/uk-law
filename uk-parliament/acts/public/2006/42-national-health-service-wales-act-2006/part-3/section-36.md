@@ -36,8 +36,8 @@ the Welsh Ministers may direct those bodies to enter into such delegation arrang
 
 (3) The bodies to which this section applies are—
 
-- (a)[^key-c762987361328b863ec5243136576378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-71ecd3ec24ff12ce27ee51c53a6c4a36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c762987361328b863ec5243136576378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-71ecd3ec24ff12ce27ee51c53a6c4a36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) NHS trusts,
 - (d) Local Health Boards, and
 - (e) local authorities,
@@ -51,12 +51,12 @@ but in subsections (1) and (2) any reference to functions is, in relation to a l
 - “**delegation arrangements**” means arrangements falling within section 33(2)(b) or (2)(c), whether or not made in conjunction with any pooled fund arrangements,
 - “**health-related functions**” has the meaning given by section 33(8),
 - “**pooled fund arrangements**” means arrangements falling within section 33(2)(a),
-- “relevant social services functions” means health-related functions of local authorities in England within the meaning of the Local Authority Social Services Act[^key-a450b55ccb99e4e8731739408e650679] [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42) or of local authorities in Wales for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
+- “relevant social services functions” means health-related functions of local authorities in England within the meaning of the Local Authority Social Services Act[^c-a450b55ccb99e4e8731739408e650679] [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42) or of local authorities in Wales for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
 
 ## Annotations
 
-[^key-c762987361328b863ec5243136576378]: Textual amendment: S. 36(3)(a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 23(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/23/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c762987361328b863ec5243136576378]: Textual amendment: S. 36(3)(a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 23(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/23/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-71ecd3ec24ff12ce27ee51c53a6c4a36]: Textual amendment: S. 36(3)(b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 23(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/23/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-71ecd3ec24ff12ce27ee51c53a6c4a36]: Textual amendment: S. 36(3)(b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 23(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/23/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-a450b55ccb99e4e8731739408e650679]: Textual amendment: Words in [s. 36(5)](https://www.legislation.gov.uk/ukpga/2006/42/section/36/5) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [247](https://www.legislation.gov.uk/wsi/2016/413/regulation/247)
+[^c-a450b55ccb99e4e8731739408e650679]: Textual amendment: Words in [s. 36(5)](https://www.legislation.gov.uk/ukpga/2006/42/section/36/5) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [247](https://www.legislation.gov.uk/wsi/2016/413/regulation/247)

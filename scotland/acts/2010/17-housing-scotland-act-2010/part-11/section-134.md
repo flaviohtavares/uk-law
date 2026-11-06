@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Reference to Lands Tribunal[^key-26db040b3cbf45e96af076deabb4a214]
+## 134. Reference to Lands Tribunal[^c-26db040b3cbf45e96af076deabb4a214]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ Anything done by the Lands Tribunal under this subsection has effect as if done 
 
 ## Annotations
 
-[^key-26db040b3cbf45e96af076deabb4a214]: Commencement: S. 134 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-26db040b3cbf45e96af076deabb4a214]: Commencement: S. 134 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

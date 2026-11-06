@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Restriction on which third parties may incur controlled expenditure[^key-0698644ee37607d8a8bdab5ff5d6edac][^key-8012ccd6f9b88fa53e08d671b26b1dc9]
+## 26. Restriction on which third parties may incur controlled expenditure[^c-0698644ee37607d8a8bdab5ff5d6edac][^c-8012ccd6f9b88fa53e08d671b26b1dc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0698644ee37607d8a8bdab5ff5d6edac]: Commencement: S. 26 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-0698644ee37607d8a8bdab5ff5d6edac]: Commencement: S. 26 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8012ccd6f9b88fa53e08d671b26b1dc9]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/37/section/26) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-8012ccd6f9b88fa53e08d671b26b1dc9]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/37/section/26) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Finance: production of documents[^key-d8e5d79273013956ffe38ab2add7f728][^key-f820cb68fb9ce8ed914f8a28313611fc]
+## 42. Finance: production of documents[^c-d8e5d79273013956ffe38ab2add7f728][^c-f820cb68fb9ce8ed914f8a28313611fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e5d79273013956ffe38ab2add7f728]: Commencement: Reg. 42 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-d8e5d79273013956ffe38ab2add7f728]: Commencement: Reg. 42 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-f820cb68fb9ce8ed914f8a28313611fc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2020/1278/regulation/42) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-f820cb68fb9ce8ed914f8a28313611fc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2020/1278/regulation/42) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

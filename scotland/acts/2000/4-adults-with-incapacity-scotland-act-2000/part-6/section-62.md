@@ -37,7 +37,7 @@ summary: ''
 (5) Where the sheriff appoints an additional guardian under this section, the sheriff clerk shall send a copy of the order appointing him to the Public Guardian who shall—
 
 - (a) enter prescribed particulars in the register maintained by him under section 6(2) (b)(iv) of this Act;
-- (b) when satisfied that the additional guardian has found caution or given other security[^key-56ecf22141ce55ae4689d1c6dfc0e17f] if so required, issue a certificate of appointment to the additional guardian and a new certificate of appointment to the existing guardian;
+- (b) when satisfied that the additional guardian has found caution or given other security[^c-56ecf22141ce55ae4689d1c6dfc0e17f] if so required, issue a certificate of appointment to the additional guardian and a new certificate of appointment to the existing guardian;
 - (c) notify the adult and the local authority and (in a case where the adult’s incapacity is by reason of, or reasons which include, mental disorder and the guardianship order relates to the adult’s personal welfare or factors which include it) the Mental Welfare Commission.
 
 (6) Joint guardians may, subject to subsection (7), exercise their functions individually, and each guardian shall be liable for any loss or injury caused to the adult arising out of—
@@ -58,4 +58,4 @@ and where more than one such guardian is so liable they shall be liable jointly 
 
 ## Annotations
 
-[^key-56ecf22141ce55ae4689d1c6dfc0e17f]: Textual amendment: Words in s. 62(5)(b) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(5)](https://www.legislation.gov.uk/asp/2007/10/section/60/5), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-56ecf22141ce55ae4689d1c6dfc0e17f]: Textual amendment: Words in s. 62(5)(b) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(5)](https://www.legislation.gov.uk/asp/2007/10/section/60/5), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

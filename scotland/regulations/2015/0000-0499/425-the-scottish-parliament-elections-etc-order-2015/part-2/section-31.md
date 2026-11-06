@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Requirement of secrecy[^key-c5fd44e4820ba282335a0422ee538d12]
+## 31. Requirement of secrecy[^c-c5fd44e4820ba282335a0422ee538d12]
 
 *Extent: S*
 
@@ -74,6 +74,6 @@ shall maintain and aid in maintaining the secrecy of voting and shall not, excep
 
 ## Annotations
 
-[^key-c5fd44e4820ba282335a0422ee538d12]: Commencement: Art. 31 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c5fd44e4820ba282335a0422ee538d12]: Commencement: Art. 31 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00030]: Footnote: Sections 6A to 6D were inserted by the 2006 Act, section 29.

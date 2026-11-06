@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Making available or acquiring certain goods and technology[^key-36e78f0c3f3056d8842d82a400c13ddd]
+## 26. Making available or acquiring certain goods and technology[^c-36e78f0c3f3056d8842d82a400c13ddd]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36e78f0c3f3056d8842d82a400c13ddd]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-36e78f0c3f3056d8842d82a400c13ddd]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

@@ -87,7 +87,7 @@ must have regard to all the circumstances of the case, giving first consideratio
   including, in the case of earning capacity, any increase in that capacity which it would in the opinion of the court be reasonable to expect the civil partner to take steps to acquire;
 - (b) the financial needs, obligations and responsibilities which each civil partner has or is likely to have in the foreseeable future;
 - (c) the standard of living enjoyed by the civil partners before the occurrence of the conduct which is alleged as the ground of the application;
-- (d)[^c20592001][^key-1faf9f24f345c7e94ee940020bf584fe] the age of each civil partner and the duration of the civil partnership;
+- (d)[^c20592001][^c-1faf9f24f345c7e94ee940020bf584fe] the age of each civil partner and the duration of the civil partnership;
 - (e) any physical or mental disability of either civil partner;
 - (f) the contributions which each civil partner has made or is likely in the foreseeable future to make to the welfare of the family, including any contribution by looking after the home or caring for the family;
 - (g) the conduct of each civil partner, if that conduct is such that it would in the opinion of the court be inequitable to disregard it.
@@ -138,7 +138,7 @@ should attempt to effect a reconciliation between the civil partners.
 
 (2) No appeal lies from a refusal under sub-paragraph (1).
 
-(3) But, in any proceedings in the High Court relating to or comprising the same subject matter as an application in respect of which a court of summary jurisdiction has refused to make any order, the High Court may order the application to be reheard and determined by a court of summary jurisdiction [^key-2d7d24d3eeb8db4db166105d1f37a1f2]....
+(3) But, in any proceedings in the High Court relating to or comprising the same subject matter as an application in respect of which a court of summary jurisdiction has refused to make any order, the High Court may order the application to be reheard and determined by a court of summary jurisdiction [^c-2d7d24d3eeb8db4db166105d1f37a1f2]....
 
 ### Part 2 — Orders for agreed financial provision
 
@@ -735,9 +735,9 @@ the court must not dismiss or make a final order on the application until it has
 
 [^c20592001]: Modification: Sch. 16 para. 5(2)(d) applied (with modifications) (N.I.) (5.12.2005) by [The Civil Partnership (Treatment of Overseas Relationships) Order (Northern Ireland) 2005 (S.R. 2005/531)](https://www.legislation.gov.uk/nisr/2005/531), [art. 3(3)](https://www.legislation.gov.uk/nisr/2005/531/article/3/3)
 
-[^key-1faf9f24f345c7e94ee940020bf584fe]: Modification: Sch. 16 para. 5(2)(d) applied (with modifications) (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [171(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/171/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-1faf9f24f345c7e94ee940020bf584fe]: Modification: Sch. 16 para. 5(2)(d) applied (with modifications) (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [171(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/171/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2d7d24d3eeb8db4db166105d1f37a1f2]: Textual amendment: Words in [Sch. 16 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/16/paragraph/8/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 124(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/124/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-2d7d24d3eeb8db4db166105d1f37a1f2]: Textual amendment: Words in [Sch. 16 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/16/paragraph/8/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 124(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/124/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20877361]: Commencement: Sch. 16 para. 10 wholly in force at 5.12.2005; Sch. 16 para. 10 not in force at Royal Assent see s. 263; Sch. 16 para. 10 in force for certain purposes at 5.9.2005 by [S.I. 2005/2399](https://www.legislation.gov.uk/uksi/2005/2399), [art. 2](https://www.legislation.gov.uk/uksi/2005/2399/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/2399/schedule) and Sch. 16 para. 10 in force otherwise at 5.12.2005 by [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
 

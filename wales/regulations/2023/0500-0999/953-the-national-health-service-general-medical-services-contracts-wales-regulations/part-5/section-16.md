@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Duration[^key-b67cf8c71b61ba98cd77f506b20205d8]
+## 16. Duration[^c-b67cf8c71b61ba98cd77f506b20205d8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b67cf8c71b61ba98cd77f506b20205d8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2023/953/regulation/16) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-b67cf8c71b61ba98cd77f506b20205d8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2023/953/regulation/16) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Notice to interested persons[^key-1ac7864c4a8fded1ba91bee2a6c3b9a1]
+## 17. Notice to interested persons[^c-1ac7864c4a8fded1ba91bee2a6c3b9a1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ac7864c4a8fded1ba91bee2a6c3b9a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2017/544/regulation/17) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-1ac7864c4a8fded1ba91bee2a6c3b9a1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2017/544/regulation/17) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

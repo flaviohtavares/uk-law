@@ -32,12 +32,12 @@ summary: ''
 - (a) be examined by an independent examiner, that is to say an independent person who is reasonably believed by the trustees to have the requisite ability and practical experience to carry out a competent examination of the accounts, or
 - (b) be audited by such a person as is mentioned in subsection (2).
 
-This is subject to the requirements of subsection (4) where the gross income exceeds £250,000[^key-5030e2972229ac78dc6c8d24ecc1097b], and to any order under subsection (6).
+This is subject to the requirements of subsection (4) where the gross income exceeds £250,000[^c-5030e2972229ac78dc6c8d24ecc1097b], and to any order under subsection (6).
 
 (4) If subsection (3) applies to the accounts of a charity for a year and the charity's gross income in that year exceeds £250,000, a person qualifies as an independent examiner for the purposes of paragraph (a) of that subsection if (and only if) that person is an independent person who is—
 
 - (a) a member of one of the bodies listed in subsection (5); or
-- (b) a full member[^key-fe5c3fb747cec33d2796b4a256fa1615] of the Association of Charity Independent Examiners.
+- (b) a full member[^c-fe5c3fb747cec33d2796b4a256fa1615] of the Association of Charity Independent Examiners.
 
 (5) The bodies referred to in subsection (4)(a) are—
 
@@ -51,7 +51,7 @@ This is subject to the requirements of subsection (4) where the gross income exc
 - (h) the Chartered Institute of Management Accountants;
 - (i) the Institute of Chartered Secretaries and Administrators;
 - (j) the Chartered Institute of Public Finance and Accountancy.
-- (k)[^key-c524aa10ebaf7f458b77867d3e685890] the Institute of Financial Accountants;
+- (k)[^c-c524aa10ebaf7f458b77867d3e685890] the Institute of Financial Accountants;
 - (l) the Certified Public Accountants Association.
 
 (6) Where it appears to the Commission—
@@ -85,14 +85,14 @@ and any such guidance or directions may either be of general application or appl
 - (a) amend subsection (1), (3) or (4) by substituting a different sum for any sum for the time being specified there;
 - (b) amend subsection (4) or (5) by adding or removing a body to or from the list in that subsection or by varying any entry for the time being included in that list.
 
-(11) Nothing in this section applies in relation to the accounts for a financial year of a charity which is a company[^key-fa30bcd03bdf317575e12d838a35efcb] if those accounts are required to be audited in accordance with Part 16 of the Companies Act 2006 (c. 46).
+(11) Nothing in this section applies in relation to the accounts for a financial year of a charity which is a company[^c-fa30bcd03bdf317575e12d838a35efcb] if those accounts are required to be audited in accordance with Part 16 of the Companies Act 2006 (c. 46).
 
 ## Annotations
 
-[^key-5030e2972229ac78dc6c8d24ecc1097b]: Textual amendment: Sum in [s. 65(3)](https://www.legislation.gov.uk/nia/2008/12/section/65/3)[(4)](https://www.legislation.gov.uk/nia/2008/12/section/65/4) substituted (1.1.2016) by [The Charities Act 2008 (Substitution of Sums) Order (Northern Ireland) 2015 (S.R. 2015/385)](https://www.legislation.gov.uk/nisr/2015/385), [arts. 1](https://www.legislation.gov.uk/nisr/2015/385/article/1), [2](https://www.legislation.gov.uk/nisr/2015/385/article/2)
+[^c-5030e2972229ac78dc6c8d24ecc1097b]: Textual amendment: Sum in [s. 65(3)](https://www.legislation.gov.uk/nia/2008/12/section/65/3)[(4)](https://www.legislation.gov.uk/nia/2008/12/section/65/4) substituted (1.1.2016) by [The Charities Act 2008 (Substitution of Sums) Order (Northern Ireland) 2015 (S.R. 2015/385)](https://www.legislation.gov.uk/nisr/2015/385), [arts. 1](https://www.legislation.gov.uk/nisr/2015/385/article/1), [2](https://www.legislation.gov.uk/nisr/2015/385/article/2)
 
-[^key-fe5c3fb747cec33d2796b4a256fa1615]: Textual amendment: Words in [s. 65(4)(b)](https://www.legislation.gov.uk/nia/2008/12/section/65/4/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/14/a)
+[^c-fe5c3fb747cec33d2796b4a256fa1615]: Textual amendment: Words in [s. 65(4)(b)](https://www.legislation.gov.uk/nia/2008/12/section/65/4/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/14/a)
 
-[^key-c524aa10ebaf7f458b77867d3e685890]: Textual amendment: [S. 65(5)(k)](https://www.legislation.gov.uk/nia/2008/12/section/65/5/k)[(l)](https://www.legislation.gov.uk/nia/2008/12/section/65/5/l) added (7.12.2015) by [The Charities Act 2008 (Examination of Accounts) Order (Northern Ireland) 2015 (S.R. 2015/364)](https://www.legislation.gov.uk/nisr/2015/364), [arts. 1](https://www.legislation.gov.uk/nisr/2015/364/article/1), [2](https://www.legislation.gov.uk/nisr/2015/364/article/2)
+[^c-c524aa10ebaf7f458b77867d3e685890]: Textual amendment: [S. 65(5)(k)](https://www.legislation.gov.uk/nia/2008/12/section/65/5/k)[(l)](https://www.legislation.gov.uk/nia/2008/12/section/65/5/l) added (7.12.2015) by [The Charities Act 2008 (Examination of Accounts) Order (Northern Ireland) 2015 (S.R. 2015/364)](https://www.legislation.gov.uk/nisr/2015/364), [arts. 1](https://www.legislation.gov.uk/nisr/2015/364/article/1), [2](https://www.legislation.gov.uk/nisr/2015/364/article/2)
 
-[^key-fa30bcd03bdf317575e12d838a35efcb]: Textual amendment: Words in [s. 65(11)](https://www.legislation.gov.uk/nia/2008/12/section/65/11) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/14/b)
+[^c-fa30bcd03bdf317575e12d838a35efcb]: Textual amendment: Words in [s. 65(11)](https://www.legislation.gov.uk/nia/2008/12/section/65/11) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/14/b)

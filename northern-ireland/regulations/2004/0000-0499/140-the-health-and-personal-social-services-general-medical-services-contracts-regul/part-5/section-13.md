@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Contracts with individuals practising in partnership[^key-24cc8697a028dbd121f099a24be02ea8]
+## 13. Contracts with individuals practising in partnership[^c-24cc8697a028dbd121f099a24be02ea8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24cc8697a028dbd121f099a24be02ea8]: Commencement: Reg. 13 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-24cc8697a028dbd121f099a24be02ea8]: Commencement: Reg. 13 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Consent of adult at risk[^key-5a5be06a1079e111be142715c07599c5]
+## 35. Consent of adult at risk[^c-5a5be06a1079e111be142715c07599c5]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ and “**affected adult at risk**”, in relation to a protection order, means t
 
 ## Annotations
 
-[^key-5a5be06a1079e111be142715c07599c5]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2007/10/section/35) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-5a5be06a1079e111be142715c07599c5]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2007/10/section/35) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

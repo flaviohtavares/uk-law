@@ -22,7 +22,7 @@ summary: ''
 
 Articles 8(2), (3), (4)(a) and (5) and 187(1).
 
-**1.**[^key-def97fa923f4803104785bfbad53bf3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-def97fa923f4803104785bfbad53bf3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** (1) A person who intends to make an application for the grant of a bookmaker's licence shall—
 
@@ -58,6 +58,6 @@ Articles 8(2), (3), (4)(a) and (5) and 187(1).
 
 ## Annotations
 
-[^key-def97fa923f4803104785bfbad53bf3b]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisi/1985/1204/schedule/1/paragraph/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(12)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/12), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-def97fa923f4803104785bfbad53bf3b]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisi/1985/1204/schedule/1/paragraph/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(12)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/12), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17004091]: Textual amendment: [1990 NI 12](https://www.legislation.gov.uk/1990/ni12)

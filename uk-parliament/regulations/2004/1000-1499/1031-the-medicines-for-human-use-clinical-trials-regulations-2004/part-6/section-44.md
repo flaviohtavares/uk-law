@@ -24,13 +24,13 @@ summary: ''
 
 (2) Subject to the following provisions of this regulation, if the holder of a manufacturing authorisation makes a valid application to vary the manufacturing authorisation the licensing authority shall consider the application and—
 
-- (a) in a case where the effect of the variation would be to change—[^key-903a64112d074c645708ba41feaeeae3]
+- (a) in a case where the effect of the variation would be to change—[^c-903a64112d074c645708ba41feaeeae3]
   - (i) the types of investigational medicinal products,
   - (ii) the manufacturing, assembling or importation operations,
-  - (iia)[^key-bf7f91ed95833211ee808c1ecc6ee66f] the manufacturing process,
+  - (iia)[^c-bf7f91ed95833211ee808c1ecc6ee66f] the manufacturing process,
   - (iii) the premises,
-  - (iv) the technical equipment and control facilities, or[^key-29c583cf8a75ea6a55903941ae52417f]
-  - (v)[^key-9f0b3f29c572c036e887f31f59b60090] the staff, including the qualified person,
+  - (iv) the technical equipment and control facilities, or[^c-29c583cf8a75ea6a55903941ae52417f]
+  - (v)[^c-9f0b3f29c572c036e887f31f59b60090] the staff, including the qualified person,
 
   in respect of which the authorisation has been granted, may vary or refuse to vary the authorisation within a period not exceeding 30 days from the date the application is received;
 - (b) in any other case, may vary or refuse to vary the authorisation within such period as the licensing authority consider appropriate.
@@ -50,9 +50,9 @@ summary: ''
 
 the licensing authority shall notify the holder of that authorisation in writing, stating the reasons for their decision.
 
-(8)[^key-3db49fe9b41ed7fb012ae7ea41be29ec] In this regulation—
+(8)[^c-3db49fe9b41ed7fb012ae7ea41be29ec] In this regulation—
 
-- “any relevant fee” means, in relation to an application to vary a manufacturing authorisation, any fee which may be payable in connection with that application under the Medicines (Products for Human Use) (Fees) Regulations 2016[^key-240f60816b6d5be2fc1538002da575a6]; and
+- “any relevant fee” means, in relation to an application to vary a manufacturing authorisation, any fee which may be payable in connection with that application under the Medicines (Products for Human Use) (Fees) Regulations 2016[^c-240f60816b6d5be2fc1538002da575a6]; and
 - “valid application” means an application—
   - (a) made to the licensing authority,
   - (b) in writing and signed by or on behalf of the applicants,
@@ -62,7 +62,7 @@ the licensing authority shall notify the holder of that authorisation in writing
     - (ii) unless arrangements have been made with the licensing authority for the payment of any relevant fee other than at the time of the application, any such fee, and
   - (e) where the application, and any accompanying material, is in the English language.
 
-(9)[^key-db6b875334d83e45af162d6fef3e3d82] In the case of an application of a type specified in paragraph (11), the information to be provided under sub-paragraph (d) in the definition of “valid application” in paragraph (8) shall include the information specified in paragraph 10 of Schedule 6.
+(9)[^c-db6b875334d83e45af162d6fef3e3d82] In the case of an application of a type specified in paragraph (11), the information to be provided under sub-paragraph (d) in the definition of “valid application” in paragraph (8) shall include the information specified in paragraph 10 of Schedule 6.
 
 (10) In the case of an application of a type specified in paragraph (12), the information to be provided under sub-paragraph (d) in the definition of “valid application” in paragraph (8) shall include the information specified in paragraph 11 of Schedule 6.
 
@@ -88,16 +88,16 @@ the licensing authority shall notify the holder of that authorisation in writing
 
 ## Annotations
 
-[^key-903a64112d074c645708ba41feaeeae3]: Textual amendment: Words in reg. 44(2)(a) substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(i)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/i)
+[^c-903a64112d074c645708ba41feaeeae3]: Textual amendment: Words in reg. 44(2)(a) substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(i)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/i)
 
-[^key-bf7f91ed95833211ee808c1ecc6ee66f]: Textual amendment: Reg. 44(2)(a)(iia) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/ii)
+[^c-bf7f91ed95833211ee808c1ecc6ee66f]: Textual amendment: Reg. 44(2)(a)(iia) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/ii)
 
-[^key-29c583cf8a75ea6a55903941ae52417f]: Textual amendment: Word in reg. 44(2)(a)(iv) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(iii)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/iii)
+[^c-29c583cf8a75ea6a55903941ae52417f]: Textual amendment: Word in reg. 44(2)(a)(iv) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(iii)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/iii)
 
-[^key-9f0b3f29c572c036e887f31f59b60090]: Textual amendment: Reg. 44(2)(a)(v) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(iv)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/iv)
+[^c-9f0b3f29c572c036e887f31f59b60090]: Textual amendment: Reg. 44(2)(a)(v) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(a)(iv)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/a/iv)
 
-[^key-3db49fe9b41ed7fb012ae7ea41be29ec]: Textual amendment: Reg. 44(8) substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/b)
+[^c-3db49fe9b41ed7fb012ae7ea41be29ec]: Textual amendment: Reg. 44(8) substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/23/b)
 
-[^key-240f60816b6d5be2fc1538002da575a6]: Textual amendment: Words in reg. 44(8) substituted (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [regs. 1](https://www.legislation.gov.uk/uksi/2016/190/regulation/1), [61(2)(d)](https://www.legislation.gov.uk/uksi/2016/190/regulation/61/2/d)
+[^c-240f60816b6d5be2fc1538002da575a6]: Textual amendment: Words in reg. 44(8) substituted (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [regs. 1](https://www.legislation.gov.uk/uksi/2016/190/regulation/1), [61(2)(d)](https://www.legislation.gov.uk/uksi/2016/190/regulation/61/2/d)
 
-[^key-db6b875334d83e45af162d6fef3e3d82]: Textual amendment: Reg. 44(9)-(14) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2025/87/regulation/45)
+[^c-db6b875334d83e45af162d6fef3e3d82]: Textual amendment: Reg. 44(9)-(14) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2025/87/regulation/45)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17A — Serious terrorism offences[^key-02c55e35b73cf6ca6a67d6998a8a3dea]
+## SCHEDULE 17A — Serious terrorism offences[^c-02c55e35b73cf6ca6a67d6998a8a3dea]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,4 +184,4 @@ Section 306
 
 ## Annotations
 
-[^key-02c55e35b73cf6ca6a67d6998a8a3dea]: Textual amendment: Sch. 17A inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/b), [Sch. 2](https://www.legislation.gov.uk/ukpga/2021/11/schedule/2)
+[^c-02c55e35b73cf6ca6a67d6998a8a3dea]: Textual amendment: Sch. 17A inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/b), [Sch. 2](https://www.legislation.gov.uk/ukpga/2021/11/schedule/2)

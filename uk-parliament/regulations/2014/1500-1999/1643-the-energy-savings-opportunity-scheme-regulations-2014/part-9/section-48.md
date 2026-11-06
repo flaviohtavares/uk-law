@@ -28,7 +28,7 @@ summary: ''
 
 (2) The relevant appeal body—
 
-- (a) in the case of an appeal against a determination made, or an enforcement notice or a penalty notice issued, by the scheme administrator, the Natural Resources Body for Wales, or the Secretary of State for Energy Security and Net Zero[^key-38a4f54215fa6b486be960ebb206d25a], is the First-tier Tribunal,
+- (a) in the case of an appeal against a determination made, or an enforcement notice or a penalty notice issued, by the scheme administrator, the Natural Resources Body for Wales, or the Secretary of State for Energy Security and Net Zero[^c-38a4f54215fa6b486be960ebb206d25a], is the First-tier Tribunal,
 - (b) in the case of an appeal against determination made, or an enforcement notice or a penalty notice issued by the Scottish Environment Protection Agency, is the Scottish Ministers,
 - (c) in the case of an appeal against a determination made, or an enforcement notice or a penalty notice issued by the Chief Inspector, is the Planning Appeals Commission.
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-38a4f54215fa6b486be960ebb206d25a]: Textual amendment: Words in [reg. 48(2)(a)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/48/2/a) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 57(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/57/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-38a4f54215fa6b486be960ebb206d25a]: Textual amendment: Words in [reg. 48(2)(a)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/48/2/a) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 57(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/57/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c22147241]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). Such appeals are assigned to the General Regulatory Chamber of the First-tier Tribunal by virtue of article 3(a) of the First-tier [Tribunal and Upper Tribunal (Chamber) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655).
 

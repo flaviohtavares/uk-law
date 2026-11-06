@@ -988,7 +988,7 @@ This Act may be cited as the Debt Relief Act (Northern Ireland) 2010.
   > - (aa) a moratorium period under a debt relief order applies in relation to him,
 
   ;
-- (b)[^key-60b56713591ca4fdbb40ee94a0d68b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-60b56713591ca4fdbb40ee94a0d68b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In Article 361 (fees orders) in paragraph (1) before sub-paragraph (a) insert—
 
@@ -1100,4 +1100,4 @@ This Act may be cited as the Debt Relief Act (Northern Ireland) 2010.
 
 [^c22526341]: Subordinate legislation: [S. 7(1)](https://www.legislation.gov.uk/nia/2010/16/section/7/1) power fully exercised: 30.6.2011 appointed by [S.R. 2011/13](https://www.legislation.gov.uk/nisr/2011/13), [art. 2](https://www.legislation.gov.uk/nisr/2011/13/article/2)
 
-[^key-60b56713591ca4fdbb40ee94a0d68b0b]: Textual amendment: [Sch. para. 4(9)(b)](https://www.legislation.gov.uk/nia/2010/16/schedule/paragraph/4/9/b) omitted (1.10.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 116(4)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/116/4/b), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/14))
+[^c-60b56713591ca4fdbb40ee94a0d68b0b]: Textual amendment: [Sch. para. 4(9)(b)](https://www.legislation.gov.uk/nia/2010/16/schedule/paragraph/4/9/b) omitted (1.10.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 116(4)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/116/4/b), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/14))

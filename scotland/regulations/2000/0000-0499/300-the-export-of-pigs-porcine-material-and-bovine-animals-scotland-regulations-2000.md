@@ -68,7 +68,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 2
 
 .
 
-## 3. Amendment of the Animals and Animal Products (Import and Export) (Scotland) Regulations 2000[^key-1ce2f29244c7c0da183ca59c3451285c]
+## 3. Amendment of the Animals and Animal Products (Import and Export) (Scotland) Regulations 2000[^c-1ce2f29244c7c0da183ca59c3451285c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -94,4 +94,4 @@ The Regulations also insert a reference to Directive [2000/20/EC](https://www.le
 
 [^c16203021]: Marginal citation: [S.I. 1995/11](https://www.legislation.gov.uk/uksi/1995/11), as amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
 
-[^key-1ce2f29244c7c0da183ca59c3451285c]: Textual amendment: Reg. 3 revoked (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2007/194/schedule/10)
+[^c-1ce2f29244c7c0da183ca59c3451285c]: Textual amendment: Reg. 3 revoked (2.4.2007) by [The Animals and Animal Products (Import and Export) (Scotland) Regulations 2007 (S.S.I. 2007/194)](https://www.legislation.gov.uk/ssi/2007/194), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/194/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2007/194/schedule/10)

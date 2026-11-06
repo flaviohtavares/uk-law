@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.11. Publication of information about court hearings, etc.[^key-ddc69e4d7edbe8f336e24ee39d8d1559]
+## 5.11. Publication of information about court hearings, etc.[^c-ddc69e4d7edbe8f336e24ee39d8d1559]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc69e4d7edbe8f336e24ee39d8d1559]: Commencement: [Rule 5.11](https://www.legislation.gov.uk/uksi/2025/909/rule/5.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ddc69e4d7edbe8f336e24ee39d8d1559]: Commencement: [Rule 5.11](https://www.legislation.gov.uk/uksi/2025/909/rule/5.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

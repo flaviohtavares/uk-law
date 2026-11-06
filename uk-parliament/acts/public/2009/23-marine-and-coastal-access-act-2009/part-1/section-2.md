@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. General objective[^key-a77a102c3d4c77d65fa27b7bd67643f3]
+## 2. General objective[^c-a77a102c3d4c77d65fa27b7bd67643f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ See also section 24 (powers of MMO in relation to research).
 
 ## Annotations
 
-[^key-a77a102c3d4c77d65fa27b7bd67643f3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/23/section/2) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-a77a102c3d4c77d65fa27b7bd67643f3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/23/section/2) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)

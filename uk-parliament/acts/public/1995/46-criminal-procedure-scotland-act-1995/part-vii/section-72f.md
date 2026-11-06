@@ -45,7 +45,7 @@ is so notified or, as the case may be, informed of the fact.
 
 (6) This subsection applies to any case—
 
-- (a) where the accused is charged with an offence to which section 288C or 288DC[^key-6f2ed69f24acacf7c7c4ba6db4fcbd02] of this Act applies;
+- (a) where the accused is charged with an offence to which section 288C or 288DC[^c-6f2ed69f24acacf7c7c4ba6db4fcbd02] of this Act applies;
 - (b) in respect of which section 288E of this Act applies; or
 - (c) in which an order has been made under section 288F(2) of this Act.
 
@@ -77,4 +77,4 @@ is so notified or, as the case may be, informed of the fact.
 
 [^c19799641]: Textual amendment: Words in s. 72F(4)(b) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80), [84](https://www.legislation.gov.uk/asp/2007/6/section/84), [Sch. para. 13(1)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/13/1); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-6f2ed69f24acacf7c7c4ba6db4fcbd02]: Textual amendment: Words in [s. 72F(6)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/72F/6/a) inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(6)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/6); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-6f2ed69f24acacf7c7c4ba6db4fcbd02]: Textual amendment: Words in [s. 72F(6)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/72F/6/a) inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(6)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/6); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Procedure[^key-42ce50bb73fbb67122245084d8320ebd]
+## 10. Procedure[^c-42ce50bb73fbb67122245084d8320ebd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42ce50bb73fbb67122245084d8320ebd]: Commencement: S. 10 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-42ce50bb73fbb67122245084d8320ebd]: Commencement: S. 10 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

@@ -46,7 +46,7 @@ In accordance with section 28(3) of that Act, the Scottish Ministers have consul
 
 In accordance with section 101(2) of that Act, a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-496b06af173afd159ade1a4694b199fc]
+## 1. Citation, commencement and interpretation[^c-496b06af173afd159ade1a4694b199fc]
 
 (1) These Regulations may be cited as the Enhanced Enforcement Areas Scheme (Scotland) Regulations 2015 and come into force on the day after the day on which they are made.
 
@@ -56,7 +56,7 @@ In accordance with section 101(2) of that Act, a draft of these Regulations has 
 - “house” means any house which is specified in an application in terms of section 83(1) of the 2004 Act or which the local authority considers should be so specified;
 - “landlord” and “tenant” include the persons who are to be the landlord and the tenant under a tenancy that is being created.
 
-## 2. Local authority which may apply for approval[^key-961260efe1ea6f001ce35843402afbc1]
+## 2. Local authority which may apply for approval[^c-961260efe1ea6f001ce35843402afbc1]
 
 A local authority may apply to the Scottish Ministers for an area to be designated as an EEA where it considers that the area is characterised by—
 
@@ -65,7 +65,7 @@ A local authority may apply to the Scottish Ministers for an area to be designat
   - (ii) overcrowded; and
 - (b) a prevalence of antisocial behaviour, as defined by section 81(4) of the 2004 Act.
 
-## 3. Application for approval[^key-c02b78ba2637dc52d02e2c0335bfa2a7]
+## 3. Application for approval[^c-c02b78ba2637dc52d02e2c0335bfa2a7]
 
 An application under regulation 2 must be made in writing and include—
 
@@ -76,13 +76,13 @@ An application under regulation 2 must be made in writing and include—
 - (e) information about which of the powers specified in regulation 4 are being sought, how they will be used and how they will enhance that general strategy; and
 - (f) an indication of the steps that will be taken, should the application be successful, to advertise to relevant persons that the area has been designated as an EEA.
 
-## 4. Additional discretionary powers[^key-36bfac5ed6dbb5f262ba30465fe3b40a]
+## 4. Additional discretionary powers[^c-36bfac5ed6dbb5f262ba30465fe3b40a]
 
 (1) Where the Scottish Ministers agree to designate an area as an EEA the local authority will acquire such of the additional discretionary powers as the Scottish Ministers consider necessary or expedient, to be exercised for prescribed purposes.
 
 (2) The additional discretionary powers referred to in paragraph (1) are that—
 
-- (a) the local authority may require a relevant person in terms of section 83(8) of the 2004 Act to provide the local authority with a Level 2 Disclosure within the meaning of section 8(1) of the Disclosure (Scotland) Act 2020[^key-8665557c1cd511cc1ca1370f9010fb92];
+- (a) the local authority may require a relevant person in terms of section 83(8) of the 2004 Act to provide the local authority with a Level 2 Disclosure within the meaning of section 8(1) of the Disclosure (Scotland) Act 2020[^c-8665557c1cd511cc1ca1370f9010fb92];
 - (b) the local authority may require any person appearing to it to fall within paragraph (4) to provide it with, or make available for inspection, any of the following documents or evidence—
   - (i) evidence of the policy in respect of any contract of insurance which the landlord is required to have or effect in terms of section 18 of the Tenements (Scotland) Act 2004[^f00003] and evidence of the payment of the premium for any such policy; and
   - (ii) a copy of the acknowledgement from the tenant in terms of article 5 of the Tenant Information Packs (Assured Tenancies) (Scotland) Order 2013[^f00004] or other evidence to confirm that the landlord has complied with section 30A of the Housing (Scotland) Act 1988[^f00005];
@@ -108,7 +108,7 @@ An application under regulation 2 must be made in writing and include—
 
 (6) A person authorised to exercise any right conferred under paragraph (2)(c) must, if required to do so, produce written evidence of the person’s authorisation by the local authority.
 
-## 5. Warrants for entry[^key-dc87363c6da3d0d58036f6a8a3cd1377]
+## 5. Warrants for entry[^c-dc87363c6da3d0d58036f6a8a3cd1377]
 
 (1) Where the Scottish Ministers have designated an area as an EEA, a sheriff, justice of the peace or stipendiary magistrate may by warrant authorise any person entitled to exercise a right conferred by regulation 4(2)(c) to do so, if necessary using reasonable force, in accordance with the warrant.
 
@@ -122,13 +122,13 @@ An application under regulation 2 must be made in writing and include—
   - (iv) the occupier is temporarily absent; or
   - (v) the case is one of urgency.
 
-## 6. Notification of approval or rejection[^key-2fd91a9272fc22db1f982f0e22d023aa]
+## 6. Notification of approval or rejection[^c-2fd91a9272fc22db1f982f0e22d023aa]
 
 (1) The Scottish Ministers must notify the local authority of the approval or rejection of an application for the designation of an area as an EEA.
 
 (2) Where the application is rejected the Scottish Ministers must specify the reason for the rejection.
 
-## 7. Advertisement and duration of designation[^key-fe977fed69079a803ca48994f23d8da0]
+## 7. Advertisement and duration of designation[^c-fe977fed69079a803ca48994f23d8da0]
 
 Where the Scottish Ministers have designated an area as an EEA—
 
@@ -139,7 +139,7 @@ Where the Scottish Ministers have designated an area as an EEA—
   - (ii) the impacts those powers have had on the local authority’s general strategy for promoting compliance with legislation and good practice by landlords in the area;
 - (d) the local authority may make a further application for the area to be designated as an EEA before the expiry of its first designation.
 
-## 8. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^key-d79c52208d60b7da9f66b4704e34220d]
+## 8. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^c-d79c52208d60b7da9f66b4704e34220d]
 
 After regulation 9(2)(d) of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^f00008] insert—
 
@@ -183,15 +183,15 @@ Regulation 8 amends the Police Act 1997 (Criminal Records) (Scotland) Regulation
 
 [^f00001]: Footnote: [2014 asp 14](https://www.legislation.gov.uk/asp/2014/14).
 
-[^key-496b06af173afd159ade1a4694b199fc]: Commencement: Reg. 1 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-496b06af173afd159ade1a4694b199fc]: Commencement: Reg. 1 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-961260efe1ea6f001ce35843402afbc1]: Commencement: Reg. 2 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-961260efe1ea6f001ce35843402afbc1]: Commencement: Reg. 2 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-c02b78ba2637dc52d02e2c0335bfa2a7]: Commencement: Reg. 3 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-c02b78ba2637dc52d02e2c0335bfa2a7]: Commencement: Reg. 3 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-36bfac5ed6dbb5f262ba30465fe3b40a]: Commencement: Reg. 4 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-36bfac5ed6dbb5f262ba30465fe3b40a]: Commencement: Reg. 4 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-8665557c1cd511cc1ca1370f9010fb92]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/ssi/2015/252/regulation/4/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/18) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-8665557c1cd511cc1ca1370f9010fb92]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/ssi/2015/252/regulation/4/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/18) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
 
 [^f00003]: Footnote: [2004 asp 11](https://www.legislation.gov.uk/asp/2004/11).
 
@@ -203,13 +203,13 @@ Regulation 8 amends the Police Act 1997 (Criminal Records) (Scotland) Regulation
 
 [^f00007]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
-[^key-dc87363c6da3d0d58036f6a8a3cd1377]: Commencement: Reg. 5 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-dc87363c6da3d0d58036f6a8a3cd1377]: Commencement: Reg. 5 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-2fd91a9272fc22db1f982f0e22d023aa]: Commencement: Reg. 6 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-2fd91a9272fc22db1f982f0e22d023aa]: Commencement: Reg. 6 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-fe977fed69079a803ca48994f23d8da0]: Commencement: Reg. 7 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-fe977fed69079a803ca48994f23d8da0]: Commencement: Reg. 7 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
-[^key-d79c52208d60b7da9f66b4704e34220d]: Commencement: Reg. 8 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+[^c-d79c52208d60b7da9f66b4704e34220d]: Commencement: Reg. 8 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
 
 [^f00008]: Footnote: [S.S.I. 2010/168](https://www.legislation.gov.uk/ssi/2010/168).
 

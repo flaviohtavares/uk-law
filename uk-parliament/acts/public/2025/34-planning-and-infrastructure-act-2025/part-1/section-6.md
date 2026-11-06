@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Applications for development consent: changes related to section 5[^key-01d3b815b5a1b3bb343dc215a9241be6][^key-60ea6a1e7ed881ba871e32421e3930cc]
+## 6. Applications for development consent: changes related to section 5[^c-01d3b815b5a1b3bb343dc215a9241be6][^c-60ea6a1e7ed881ba871e32421e3930cc]
 
 *Extent: E+W*
 
@@ -124,6 +124,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01d3b815b5a1b3bb343dc215a9241be6]: Commencement: S. 6 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
+[^c-01d3b815b5a1b3bb343dc215a9241be6]: Commencement: S. 6 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
 
-[^key-60ea6a1e7ed881ba871e32421e3930cc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/34/section/6) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-60ea6a1e7ed881ba871e32421e3930cc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/34/section/6) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

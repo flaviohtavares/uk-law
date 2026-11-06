@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Decision under a landlord redress scheme may be made enforceable as if it were a court order[^key-6b342c938ff960bed6937ed3e60e2cd5]
+## 68. Decision under a landlord redress scheme may be made enforceable as if it were a court order[^c-6b342c938ff960bed6937ed3e60e2cd5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b342c938ff960bed6937ed3e60e2cd5]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-6b342c938ff960bed6937ed3e60e2cd5]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

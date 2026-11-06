@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68C. Variation of will or intestacy, etc: identification of settlor[^key-906fb38b6cb0486f680dc35141d33598]
+## 68C. Variation of will or intestacy, etc: identification of settlor[^c-906fb38b6cb0486f680dc35141d33598]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ the deceased person shall be treated for the purposes of this Act, except where 
 
 ## Annotations
 
-[^key-906fb38b6cb0486f680dc35141d33598]: Textual amendment: S. 68C inserted (with effect in accordance with Sch. 12 para. 1(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/2)
+[^c-906fb38b6cb0486f680dc35141d33598]: Textual amendment: S. 68C inserted (with effect in accordance with Sch. 12 para. 1(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Loss relief surrenderable by non-UK resident established in EEA state[^key-36851915aa6f9e1ab3bc01a14dea9c5e]
+## 30. Loss relief surrenderable by non-UK resident established in EEA state[^c-36851915aa6f9e1ab3bc01a14dea9c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36851915aa6f9e1ab3bc01a14dea9c5e]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2013/29/section/30) omitted (with effect in accordance with Sch. 4 para. 5(1) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/4/paragraph/2)
+[^c-36851915aa6f9e1ab3bc01a14dea9c5e]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2013/29/section/30) omitted (with effect in accordance with Sch. 4 para. 5(1) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/4/paragraph/2)

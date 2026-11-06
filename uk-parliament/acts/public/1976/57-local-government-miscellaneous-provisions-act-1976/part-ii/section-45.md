@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Application of Part II.[^key-0fefcf78f4725e24e7c6cf086529fed1]
+## 45. Application of Part II.[^c-0fefcf78f4725e24e7c6cf086529fed1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ In this subsection “**the relevant area**”, in relation to a council, means�
 
 ## Annotations
 
-[^key-0fefcf78f4725e24e7c6cf086529fed1]: Modification: S. 45 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-0fefcf78f4725e24e7c6cf086529fed1]: Modification: S. 45 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))

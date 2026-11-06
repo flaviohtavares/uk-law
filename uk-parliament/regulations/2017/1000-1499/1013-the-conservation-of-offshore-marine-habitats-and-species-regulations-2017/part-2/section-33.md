@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Review of existing decisions and consents[^key-cccde549f7236b2e8470317b4fb84c31]
+## 33. Review of existing decisions and consents[^c-cccde549f7236b2e8470317b4fb84c31]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 (6) Nothing in this regulation—
 
-- (a)[^key-01ea4076e033a30789f1c58c0531aaa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-757c9de02960c1c7750e4a389671d356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-01ea4076e033a30789f1c58c0531aaa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-757c9de02960c1c7750e4a389671d356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) requires a review by the Secretary of State of a Petroleum Act approval, Petroleum Act authorisation, Petroleum or Energy Act consent, Petroleum Act licence or Energy Act licence;
 - (d) requires a review of any plan or project in relation to which a review has been carried out under regulation 27 of the Offshore Marine Conservation (Natural Habitats, &c. Regulations 2007 [^c23068071];
 - (e) affects anything done in pursuance of the decision, or the consent, permission or other authorisation, before the date mentioned in paragraph (1) or (2) (as the case may be).
@@ -74,11 +74,11 @@ summary: ''
 
 ## Annotations
 
-[^key-cccde549f7236b2e8470317b4fb84c31]: Modification: [Regs. 30-37](https://www.legislation.gov.uk/uksi/2017/1013/regulation/30): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-cccde549f7236b2e8470317b4fb84c31]: Modification: [Regs. 30-37](https://www.legislation.gov.uk/uksi/2017/1013/regulation/30): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
-[^key-01ea4076e033a30789f1c58c0531aaa2]: Textual amendment: [Reg. 33(6)(a)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/6/a) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/579/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01ea4076e033a30789f1c58c0531aaa2]: Textual amendment: [Reg. 33(6)(a)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/6/a) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/579/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-757c9de02960c1c7750e4a389671d356]: Textual amendment: [Reg. 33(6)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/6/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/579/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-757c9de02960c1c7750e4a389671d356]: Textual amendment: [Reg. 33(6)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/6/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [51](https://www.legislation.gov.uk/uksi/2019/579/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23068071]: Marginal citation: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842), amended by [S.I. 2009/7](https://www.legislation.gov.uk/uksi/2009/7), 2010/491 and 2012/1928, and revoked by these Regulations.
 

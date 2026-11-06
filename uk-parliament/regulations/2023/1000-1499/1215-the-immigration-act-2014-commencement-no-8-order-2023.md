@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration Act 2014 (Commencement No. 8) Order 2023 (revoked)[^key-22bc8112685c293df1809aa4d23b3265]
+The Immigration Act 2014 (Commencement No. 8) Order 2023 (revoked)[^c-22bc8112685c293df1809aa4d23b3265]
 
 Made
 
@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by section 75(3) of the Immigration Act 2014.
 
-## 1. Citation and extent[^key-22bc8112685c293df1809aa4d23b3265]
+## 1. Citation and extent[^c-22bc8112685c293df1809aa4d23b3265]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provisions coming into force on 6th December 2023[^key-22bc8112685c293df1809aa4d23b3265]
+## 2. Provisions coming into force on 6th December 2023[^c-22bc8112685c293df1809aa4d23b3265]
 
 **Not yet in force.**
 
@@ -62,14 +62,14 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 **May not be in force at this date. Check the source.**
 
-[^key-22bc8112685c293df1809aa4d23b3265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22bc8112685c293df1809aa4d23b3265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-22bc8112685c293df1809aa4d23b3265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22bc8112685c293df1809aa4d23b3265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-22bc8112685c293df1809aa4d23b3265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22bc8112685c293df1809aa4d23b3265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22bc8112685c293df1809aa4d23b3265]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/1215) revoked (28.11.2023) by [The Immigration Act 2014 (Commencement No. 9) and Immigration Act 2014 (Commencement No. 8) (Revocation) Order 2023 (S.I. 2023/1245)](https://www.legislation.gov.uk/uksi/2023/1245), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1245/article/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1245/article/3)
+[^c-22bc8112685c293df1809aa4d23b3265]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/1215) revoked (28.11.2023) by [The Immigration Act 2014 (Commencement No. 9) and Immigration Act 2014 (Commencement No. 8) (Revocation) Order 2023 (S.I. 2023/1245)](https://www.legislation.gov.uk/uksi/2023/1245), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1245/article/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1245/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Contracting out[^key-585dc1e6a4521a55422bed4af640c43e]
+## 239. Contracting out[^c-585dc1e6a4521a55422bed4af640c43e]
 
 *Extent: E+W*
 
@@ -102,4 +102,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585dc1e6a4521a55422bed4af640c43e]: Commencement: S. 239 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/u) (with [art. 6(6)](https://www.legislation.gov.uk/uksi/2008/917/article/6/6))
+[^c-585dc1e6a4521a55422bed4af640c43e]: Commencement: S. 239 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/u) (with [art. 6(6)](https://www.legislation.gov.uk/uksi/2008/917/article/6/6))

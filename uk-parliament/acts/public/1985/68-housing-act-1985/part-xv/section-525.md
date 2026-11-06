@@ -28,7 +28,7 @@ In this Part—
 
 and for this purpose “ **agriculture** ” includes dairy-farming and poultry-farming and the use of land as grazing, meadow or pasture land, or orchard or osier land or woodland, or for market gardens or nursery grounds;
 
-- “ **charity trustees** ” has the same meaning as in the the Charities Act 2011[^key-128f98fedcf71717beeac6a26697360d] ;
+- “ **charity trustees** ” has the same meaning as in the the Charities Act 2011[^c-128f98fedcf71717beeac6a26697360d] ;
 - “ **dwelling** ” means a building or part of a building occupied or intended to be ocupied as a separate dwelling, together with any yard, garden, outhouses and appurtenances belonging to it or usually enjoyed with it;
 - “ **house in multiple occupation** ” means a house which is occupied by persons who do not form a single household, exclusive of any part of the house which is occupied as a separate dwelling by persons who form a single household;
 - “ **improvement** ” includes alteration and enlargement;
@@ -40,4 +40,4 @@ and for this purpose “ **agriculture** ” includes dairy-farming and poultry-
 
 [^c15080391]: Textual amendment: Ss. 524, 525 repealed and superseded (*prosp.*) by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [ss. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-128f98fedcf71717beeac6a26697360d]: Textual amendment: Words in s. 525 substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/44) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-128f98fedcf71717beeac6a26697360d]: Textual amendment: Words in s. 525 substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/44) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

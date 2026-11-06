@@ -26,11 +26,11 @@ Section 20
 
 #### Introductory
 
-**1.**[^key-7081d3bc9e238c3e0dd445205bd1d193] The Constitutional Reform Act 2005 is amended as follows.
+**1.**[^c-7081d3bc9e238c3e0dd445205bd1d193] The Constitutional Reform Act 2005 is amended as follows.
 
 #### Number of judges to become maximum full-time equivalent number
 
-**2.**[^key-4934d9be869e809261507238c3a69014] (1) Section 23 (establishment of the Supreme Court) is amended as follows.
+**2.**[^c-4934d9be869e809261507238c3a69014] (1) Section 23 (establishment of the Supreme Court) is amended as follows.
 
 (2) In subsection (2) (Supreme Court consists of 12 judges)—
 
@@ -45,7 +45,7 @@ Section 20
 
 > (8) For the purposes of this section, the full-time equivalent number of judges of the Court is to be calculated by taking the number of full-time judges and adding, for each judge who is not a full-time judge, such fraction as is reasonable.
 
-**3.**[^key-97bf785ccd901c1787bb8634ec60017d] (1) Section 26 (selection of members of the Supreme Court) is amended as follows.
+**3.**[^c-97bf785ccd901c1787bb8634ec60017d] (1) Section 26 (selection of members of the Supreme Court) is amended as follows.
 
 (2) In subsection (5) (Lord Chancellor to convene selection commission to fill any vacancy among the members, or in the presiding offices, of the Court) for “one of the offices mentioned in subsection (1),” substitute “ the office of President of the Court or in the office of Deputy President of the Court, ”.
 
@@ -66,7 +66,7 @@ Section 20
 
 #### Selection of persons to be recommended for appointment to the Court
 
-**4.**[^key-c27cb1488c4177eee03205437a11f7c1] (1) In section 27 (selection process) after subsection (1) insert—
+**4.**[^c-c27cb1488c4177eee03205437a11f7c1] (1) In section 27 (selection process) after subsection (1) insert—
 
 > (1A) The commission must have an odd number of members not less than five.
 >
@@ -94,7 +94,7 @@ Section 20
 > - (a) does not hold, and has never held, any of the offices listed in Schedule 1 to the House of Commons Disqualification Act 1975 (judicial offices disqualifying for membership of the House of Commons), and
 > - (b) is not practising or employed as a lawyer, and never has practised or been employed as a lawyer.
 
-**5.**[^key-4b879c5ebde085f92c6d34fb22dff6ab] After section 27 insert—
+**5.**[^c-4b879c5ebde085f92c6d34fb22dff6ab] After section 27 insert—
 
 > **27A. Regulations about selection process**
 >
@@ -141,7 +141,7 @@ Section 20
 
 #### Lord Chancellor's guidance about selection process: procedure
 
-**6.**[^key-6679d84e0e7de4a90f8ae570cbfa2585] After that section 27A insert—
+**6.**[^c-6679d84e0e7de4a90f8ae570cbfa2585] After that section 27A insert—
 
 > **27B. Selection guidance: supplementary**
 >
@@ -175,7 +175,7 @@ Section 20
 
 #### Consequential amendments, repeals and revocations
 
-**7.**[^key-b1f7d8a961c47ef4bda10734717147f7] (1) Omit—
+**7.**[^c-b1f7d8a961c47ef4bda10734717147f7] (1) Omit—
 
 - (a) section 27(2) and (3) and Parts 1 and 2 of Schedule 8 (selection commissions), and
 - (b) sections 28 to 31 and 60(5) (detailed provision about selection process).
@@ -213,20 +213,20 @@ Section 20
 
 (12) In paragraph 14(2) of that Schedule (end of suspension of duty to convene selection commission for office of judge) for “the Lord Chancellor notifies a selection made by” substitute “ a person has been selected as a result of the convening of ”.
 
-**8.**[^key-719e562380d89848c472489b45b08f10] In the Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388) in Schedule 1 omit paragraph 110(a) and (b).
+**8.**[^c-719e562380d89848c472489b45b08f10] In the Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388) in Schedule 1 omit paragraph 110(a) and (b).
 
 ### Part 2 — Diversity
 
 #### Diversity considerations where candidates for judicial office are of equal merit
 
-**9.**[^key-c924be0d826a4aecc2398d80c05df405] In section 27 of the Constitutional Reform Act 2005 (selection for appointment to Supreme Court to be on merit etc) after subsection (5) insert—
+**9.**[^c-c924be0d826a4aecc2398d80c05df405] In section 27 of the Constitutional Reform Act 2005 (selection for appointment to Supreme Court to be on merit etc) after subsection (5) insert—
 
 > (5A) Where two persons are of equal merit—
 >
 > - (a) section 159 of the Equality Act 2010 (positive action: recruitment etc) does not apply in relation to choosing between them, but
 > - (b) Part 5 of that Act (public appointments etc) does not prevent the commission from preferring one of them over the other for the purpose of increasing diversity within the group of persons who are the judges of the Court.
 
-**10.**[^key-f959fecb1e9da8615e728fab92fa405a] (1) Section 63 of the Constitutional Reform Act 2005 (judicial appointments to be solely on merit) is amended as follows.
+**10.**[^c-f959fecb1e9da8615e728fab92fa405a] (1) Section 63 of the Constitutional Reform Act 2005 (judicial appointments to be solely on merit) is amended as follows.
 
 (2) In subsection (1) (selections to which subsections (2) and (3) apply) for “and (3)” substitute “ to (4) ”.
 
@@ -239,7 +239,7 @@ Section 20
 
 #### Encouraging diversity
 
-**11.**[^key-d9255da10c1899b28d4ffaca3bba71b8] In Part 6 of the Constitutional Reform Act 2005 (other provisions relating to the judiciary) after section 137 insert—
+**11.**[^c-d9255da10c1899b28d4ffaca3bba71b8] In Part 6 of the Constitutional Reform Act 2005 (other provisions relating to the judiciary) after section 137 insert—
 
 > **137A. Encouragement of diversity**
 >
@@ -247,9 +247,9 @@ Section 20
 
 #### Maximum numbers of judges to be by reference to full-time equivalent numbers
 
-**12.**[^key-07c55b590e6be16c607d5c8a3c5cb2b5] The Senior Courts Act 1981 is amended as follows.
+**12.**[^c-07c55b590e6be16c607d5c8a3c5cb2b5] The Senior Courts Act 1981 is amended as follows.
 
-**13.**[^key-11069a0f0dd64a2e3da1879121de9cf9] (1) Section 2 (the Court of Appeal) is amended as follows.
+**13.**[^c-11069a0f0dd64a2e3da1879121de9cf9] (1) Section 2 (the Court of Appeal) is amended as follows.
 
 (2) In subsection (1) (composition of the Court of Appeal) for “of ex-officio judges and not more than 38 ordinary judges” substitute
 
@@ -266,7 +266,7 @@ Section 20
 
 > (7) For the purposes of this section the full-time equivalent number of ordinary judges is to be calculated by taking the number of full-time ordinary judges and adding, for each ordinary judge who is not a full-time ordinary judge, such fraction as is reasonable.
 
-**14.**[^key-a722d2eaaa02df3cf9a4890a691ec35c] (1) Section 4 (the High Court) is amended as follows.
+**14.**[^c-a722d2eaaa02df3cf9a4890a691ec35c] (1) Section 4 (the High Court) is amended as follows.
 
 (2) In subsection (1) (High Court to consist of ex-officio judges and not more than 108 puisne judges) for paragraph (e) substitute—
 
@@ -278,25 +278,25 @@ Section 20
 
 > (7) For the purposes of this section the full-time equivalent number of puisne judges is to be calculated by taking the number of full-time puisne judges and adding, for each puisne judge who is not a full-time puisne judge, such fraction as is reasonable.
 
-**15.**[^key-10e5252974a3f7a559deef43096c26c2] In section 10(2) (power to appoint judges is subject to maximum numbers in sections 2(1) and 4(1)) before “numbers” insert “ full-time equivalent ”.
+**15.**[^c-10e5252974a3f7a559deef43096c26c2] In section 10(2) (power to appoint judges is subject to maximum numbers in sections 2(1) and 4(1)) before “numbers” insert “ full-time equivalent ”.
 
 ### Part 3 — Judicial Appointments Commission
 
 #### Introductory
 
-**16.**[^key-91374c059197651f23474076bd0efa24] Part 1 of Schedule 12 to the Constitutional Reform Act 2005 (the members of the Judicial Appointments Commission) is amended as follows.
+**16.**[^c-91374c059197651f23474076bd0efa24] Part 1 of Schedule 12 to the Constitutional Reform Act 2005 (the members of the Judicial Appointments Commission) is amended as follows.
 
 #### Composition of the Judicial Appointments Commission
 
-**17.**[^key-fb6caf26e1e3055fd8f3c7ffe632508c] In paragraph 1 (Commission consists of lay chairman and 14 other Commissioners) for paragraph (b) substitute—
+**17.**[^c-fb6caf26e1e3055fd8f3c7ffe632508c] In paragraph 1 (Commission consists of lay chairman and 14 other Commissioners) for paragraph (b) substitute—
 
 > - (b) such number of other Commissioners as the Lord Chancellor may specify by regulations made with the agreement of the Lord Chief Justice,
 
 .
 
-**18.**[^key-4d5dccc0a55d01e1c535b80e9f764281] Omit paragraphs 2(2) to (5) and 4 to 6 (Commissioners other than the lay chairman are to be drawn in specified proportions from among judicial office holders, practising lawyers and lay persons).
+**18.**[^c-4d5dccc0a55d01e1c535b80e9f764281] Omit paragraphs 2(2) to (5) and 4 to 6 (Commissioners other than the lay chairman are to be drawn in specified proportions from among judicial office holders, practising lawyers and lay persons).
 
-**19.**[^key-f5217a4d370efda4b2432efc4d1443cb] After paragraph 3 (civil servants may not be appointed as Commissioners) insert—
+**19.**[^c-f5217a4d370efda4b2432efc4d1443cb] After paragraph 3 (civil servants may not be appointed as Commissioners) insert—
 
 > **3A.** The number of Commissioners who are holders of judicial office must be less than the number of Commissioners (including the chairman) who are not holders of judicial office.
 >
@@ -320,7 +320,7 @@ Section 20
 
 #### Selection of Commissioners
 
-**20.**[^key-dd5eae433d74079a3cec1fee4621aee1] For paragraphs 7 to 10 (selection of Commissioners) substitute—
+**20.**[^c-dd5eae433d74079a3cec1fee4621aee1] For paragraphs 7 to 10 (selection of Commissioners) substitute—
 
 > **6A.** (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision for or in connection with the selection or nomination of persons to be recommended for appointment under paragraph 1.
 >
@@ -335,7 +335,7 @@ Section 20
 >
 > **6B.** The powers to make regulations under this Part of this Schedule are to be exercised with a view to ensuring, so far as may be practicable, that the Commissioners who are lay members include at any time at least one person who appears to have special knowledge of Wales.
 
-**21.**[^key-c988c9bb0dac565dd1807aadba1ff652] (1) Paragraph 11 (vice-chairman) is amended as follows.
+**21.**[^c-c988c9bb0dac565dd1807aadba1ff652] (1) Paragraph 11 (vice-chairman) is amended as follows.
 
 (2) In sub-paragraph (1) (most senior judicial member is vice-chairman) for “Commissioner who is the most senior of the persons appointed as judicial members” substitute “ most senior of the holders of judicial office who are Commissioners ”.
 
@@ -350,7 +350,7 @@ Section 20
 
 #### Commissioners' terms of office
 
-**22.**[^key-c8b9c891fd2188cf2b9a700fb13e2776] For paragraph 13 (maximum term of office for a Commissioner) substitute—
+**22.**[^c-c8b9c891fd2188cf2b9a700fb13e2776] For paragraph 13 (maximum term of office for a Commissioner) substitute—
 
 > **13.** (1) The Lord Chancellor may, by regulations made with the agreement of the Lord Chief Justice, make provision about the periods for which a Commissioner may be appointed or hold office.
 >
@@ -360,7 +360,7 @@ Section 20
 > - (b) the length of any particular appointment;
 > - (c) the total length of a person's appointments or the total period for which a person may hold office as a Commissioner.
 
-**23.**[^key-5e26aed070aea90546a6fa9cc06bdf60] For sub-paragraphs (1) and (2) of paragraph 14 (person ceases to be a Commissioner on ceasing, for certain reasons, to be eligible for appointment) substitute—
+**23.**[^c-5e26aed070aea90546a6fa9cc06bdf60] For sub-paragraphs (1) and (2) of paragraph 14 (person ceases to be a Commissioner on ceasing, for certain reasons, to be eligible for appointment) substitute—
 
 > (1) The Lord Chancellor may by regulations made with the agreement of the Lord Chief Justice—
 >
@@ -375,7 +375,7 @@ Section 20
 
 #### Supplementary amendments
 
-**24.**[^key-94830e6fcec838a3057f49607cfb0878] After paragraph 17 insert—
+**24.**[^c-94830e6fcec838a3057f49607cfb0878] After paragraph 17 insert—
 
 > **Regulations**
 >
@@ -384,25 +384,25 @@ Section 20
 > - (a) make different provision for different purposes;
 > - (b) include transitional or transitory provision or savings.
 
-**25.**[^key-776cd242139366a774ea17ad5e4808c7] In Part 2 of Schedule 12 to the Constitutional Reform Act 2005 (Judicial Appointments Commission) in paragraph 20(5) (committee to which Commission delegates a selection function must include at least one judicial member and one lay member) for “judicial member and” substitute “ who is a holder of judicial office and at least ”.
+**25.**[^c-776cd242139366a774ea17ad5e4808c7] In Part 2 of Schedule 12 to the Constitutional Reform Act 2005 (Judicial Appointments Commission) in paragraph 20(5) (committee to which Commission delegates a selection function must include at least one judicial member and one lay member) for “judicial member and” substitute “ who is a holder of judicial office and at least ”.
 
-**26.**[^key-f1120ea4a7badab860195983a5ffc8e7] In section 122 of that Act (interpretation of Part 4) for the definition of “lay member” substitute—
+**26.**[^c-f1120ea4a7badab860195983a5ffc8e7] In section 122 of that Act (interpretation of Part 4) for the definition of “lay member” substitute—
 
 > “**lay member**”, in relation to the Commission, has such meaning as may be given by regulations under paragraph 3C(a) of Schedule 12;
 
 .
 
-**27.**[^key-4cc93294f09545fa4439c2997769ce3f] In section 144(5)(e) of that Act (orders under paragraph 5 of Schedule 12 are subject to affirmative parliamentary procedure) for “an order under paragraph 5” substitute “ regulations under Part 1 ”.
+**27.**[^c-4cc93294f09545fa4439c2997769ce3f] In section 144(5)(e) of that Act (orders under paragraph 5 of Schedule 12 are subject to affirmative parliamentary procedure) for “an order under paragraph 5” substitute “ regulations under Part 1 ”.
 
 #### Consequential repeal of other legislation
 
-**28.**[^key-689b66afb58ca2048df13ed8c62a1366] In Schedule 8 to the Tribunals, Courts and Enforcement Act 2007 omit paragraph 65 (which amended paragraph 2 of Schedule 12 to the Constitutional Reform Act 2005).
+**28.**[^c-689b66afb58ca2048df13ed8c62a1366] In Schedule 8 to the Tribunals, Courts and Enforcement Act 2007 omit paragraph 65 (which amended paragraph 2 of Schedule 12 to the Constitutional Reform Act 2005).
 
 ### Part 4 — Judicial appointments: selection, and transfer of powers of Lord Chancellor
 
 #### Appointments by Her Majesty on Lord Chancellor's recommendation but where selection is to be reported to Lord Chief Justice or Senior President of Tribunals
 
-**29.**[^key-df3fd524ebfb01ad397d977a0db34aa3] (1) Schedule 14 to the Constitutional Reform Act 2005 (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
+**29.**[^c-df3fd524ebfb01ad397d977a0db34aa3] (1) Schedule 14 to the Constitutional Reform Act 2005 (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
 
 (2) The table in Part 1 (appointments by Her Majesty on the Lord Chancellor's recommendation) becomes Table 1 of that Part called “ Appointments where the Commission reports to the Lord Chancellor ”.
 
@@ -436,7 +436,7 @@ Section 20
 
 Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to the Tribunals, Courts and Enforcement Act 2007
 
-**30.**[^key-bdc8842a94f0979ac3af8f343c71dcfa] (1) Schedule 3 to the Tribunals, Courts and Enforcement Act 2007 (judges and other members of the Upper Tribunal) is amended as follows.
+**30.**[^c-bdc8842a94f0979ac3af8f343c71dcfa] (1) Schedule 3 to the Tribunals, Courts and Enforcement Act 2007 (judges and other members of the Upper Tribunal) is amended as follows.
 
 (2) In paragraph 1(2)(d) (eligibility for appointment as judge based on experience gained in law) for “Lord Chancellor's opinion” substitute “ opinion of the Senior President of Tribunals ”.
 
@@ -444,9 +444,9 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 #### Recommended appointments: further provisions
 
-**31.**[^key-16a196ff586d6df361168e7ff71b0277] In section 16 of the Courts Act 1971 (appointment of Circuit judges) omit subsection (4) (health).
+**31.**[^c-16a196ff586d6df361168e7ff71b0277] In section 16 of the Courts Act 1971 (appointment of Circuit judges) omit subsection (4) (health).
 
-**32.**[^key-ee6fc0088b9012611019b281718592ec] (1) Section 21 of the Courts Act 1971 (appointment of Recorders) is amended as follows.
+**32.**[^c-ee6fc0088b9012611019b281718592ec] (1) Section 21 of the Courts Act 1971 (appointment of Recorders) is amended as follows.
 
 (2) In subsection (5) (neither initial term nor extension under subsection (4) may extend appointment beyond judicial retirement age) for “(4)” substitute “ (4A) ”.
 
@@ -458,11 +458,11 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 (4) In list A in paragraph 4 of Schedule 7 to the Constitutional Reform Act 2005 (protected functions of Lord Chancellor) in the entries for the Courts Act 1971 for “Section 21(2), (4) and (7)” substitute “ Section 21 ”.
 
-**33.**[^key-a7b5544dcc05471505f25dddcd29d592] In section 89(4) of the Senior Courts Act 1981 (additional offices and duties of Senior Master appointed under subsection (3)(a)) for “under subsection (3)(a)” substitute “ of the Queen's Bench Division ”.
+**33.**[^c-a7b5544dcc05471505f25dddcd29d592] In section 89(4) of the Senior Courts Act 1981 (additional offices and duties of Senior Master appointed under subsection (3)(a)) for “under subsection (3)(a)” substitute “ of the Queen's Bench Division ”.
 
 #### Deputy Circuit judges to be appointed by Lord Chief Justice
 
-**34.**[^key-7d3da6974115e3f8189615a8a3ff0697] (1) Section 24 of the Courts Act 1971 (deputy Circuit judges and assistant Recorders) is amended as follows.
+**34.**[^c-7d3da6974115e3f8189615a8a3ff0697] (1) Section 24 of the Courts Act 1971 (deputy Circuit judges and assistant Recorders) is amended as follows.
 
 (2) In subsection (1) (appointment to facilitate disposal of certain business) for “a county court” substitute “ county court or any other court or tribunal to which a person appointed under this subsection may be deployed ”.
 
@@ -502,7 +502,7 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 #### Deputy and temporary Masters etc to be appointed by Lord Chief Justice
 
-**35.**[^key-3626c9f5a157110984cc93dadbfd00bc] (1) Section 91 of the Senior Courts Act 1981 (deputy and temporary Masters, Registrars etc of the High Court) is amended as follows.
+**35.**[^c-3626c9f5a157110984cc93dadbfd00bc] (1) Section 91 of the Senior Courts Act 1981 (deputy and temporary Masters, Registrars etc of the High Court) is amended as follows.
 
 (2) In subsection (1) (Lord Chancellor's power of appointment)—
 
@@ -547,7 +547,7 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 #### Deputy district judges to be appointed by Lord Chief Justice
 
-**36.**[^key-c5fcbcf3f9efdccb5b0cd1d0d376c685] (1) Section 102 of the Senior Courts Act 1981 (deputy district judges for the High Court) is amended as follows.
+**36.**[^c-c5fcbcf3f9efdccb5b0cd1d0d376c685] (1) Section 102 of the Senior Courts Act 1981 (deputy district judges for the High Court) is amended as follows.
 
 (2) In subsection (1) (Lord Chancellor's power of appointment)—
 
@@ -585,7 +585,7 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 (6) In list A in paragraph 4 of Schedule 7 to the Constitutional Reform Act 2005 (protected functions of Lord Chancellor) in the entries for the Senior Courts Act 1981 for “Section 102(1)” substitute “ Section 102 ”.
 
-**37.**[^key-30f9b3017e26ace709ac5cbeb1fa5625] (1) Section 8 of the County Courts Act 1984 (deputy district judges for the county court) is amended as follows.
+**37.**[^c-30f9b3017e26ace709ac5cbeb1fa5625] (1) Section 8 of the County Courts Act 1984 (deputy district judges for the county court) is amended as follows.
 
 (2) In subsection (1) (Lord Chancellor's power of appointment) for “Lord Chancellor” substitute “ Lord Chief Justice ”.
 
@@ -624,7 +624,7 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 #### Deputy District Judges (Magistrates' Courts) to be appointed by Lord Chief Justice
 
-**38.**[^key-702ffdec0fe6375c28208117f44bb074] (1) Section 24 of the Courts Act 2003 (Deputy District Judges (Magistrates' Courts)) is amended as follows.
+**38.**[^c-702ffdec0fe6375c28208117f44bb074] (1) Section 24 of the Courts Act 2003 (Deputy District Judges (Magistrates' Courts)) is amended as follows.
 
 (2) In subsection (1) (Lord Chancellor's power of appointment) for “Lord Chancellor”, in the first place, substitute “ Lord Chief Justice ”.
 
@@ -657,7 +657,7 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 #### Lay justices to be appointed by Lord Chief Justice
 
-**39.**[^key-97c145c1cc8597cbc698931da63045a8] (1) Section 10 of the Courts Act 2003 (justices of the peace who are not District Judges (Magistrates' Courts)) is amended as follows.
+**39.**[^c-97c145c1cc8597cbc698931da63045a8] (1) Section 10 of the Courts Act 2003 (justices of the peace who are not District Judges (Magistrates' Courts)) is amended as follows.
 
 (2) In subsection (1) (Lord Chancellor's power of appointment) for “Lord Chancellor” substitute “ Lord Chief Justice ”.
 
@@ -679,9 +679,9 @@ Judge of the Upper Tribunal by appointment under paragraph 1(1) of Schedule 3 to
 
 #### Transfer of appointment powers to Lord Chief Justice: further provisions
 
-**40.**[^key-ff246eea8f09e61ac5cb9185cc88683d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-ff246eea8f09e61ac5cb9185cc88683d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-262d34c345d136a20f19c76b1c905a92] (1) Schedule 14 to that Act (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
+**41.**[^c-262d34c345d136a20f19c76b1c905a92] (1) Schedule 14 to that Act (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
 
 (2) For the title of Part 2 substitute “Court-related appointments”.
 
@@ -703,11 +703,11 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 #### Senior President of Tribunals to make certain appointments to First-tier and Upper Tribunals
 
-**42.**[^key-1b9bf48cc4453aae1ef2858f0364fcc3] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
+**42.**[^c-1b9bf48cc4453aae1ef2858f0364fcc3] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
 
-**43.**[^key-b28c9579cc91b0869d8a8e508ad0557d] In section 7(7) (Lord Chancellor's power to appoint Chamber Presidents for the First-tier Tribunal or the Upper Tribunal) for “Lord Chancellor” substitute “ Senior President of Tribunals ”.
+**43.**[^c-b28c9579cc91b0869d8a8e508ad0557d] In section 7(7) (Lord Chancellor's power to appoint Chamber Presidents for the First-tier Tribunal or the Upper Tribunal) for “Lord Chancellor” substitute “ Senior President of Tribunals ”.
 
-**44.**[^key-34af90e99f0e45ee7ceb1f662cae8955] (1) In section 8 (power of Senior President of Tribunals to delegate) after subsection (1) insert—
+**44.**[^c-34af90e99f0e45ee7ceb1f662cae8955] (1) In section 8 (power of Senior President of Tribunals to delegate) after subsection (1) insert—
 
 > (1A) A function under paragraph 1(1) or 2(1) of Schedule 2 may be delegated under subsection (1) only to a Chamber President of a chamber of the Upper Tribunal.
 
@@ -742,7 +742,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 > - (c) the Lord Chief Justice of Northern Ireland, or
 > - (d) the Senior President of Tribunals.
 
-**45.**[^key-58834d2a1733f8a9f2cbb0aa8b7eecaf] (1) Schedule 2 (judges and other members of the First-tier Tribunal) is amended as follows.
+**45.**[^c-58834d2a1733f8a9f2cbb0aa8b7eecaf] (1) Schedule 2 (judges and other members of the First-tier Tribunal) is amended as follows.
 
 (2) In paragraphs 1(1) and 2(1) (Lord Chancellor's power to appoint) for “Lord Chancellor” substitute “ Senior President of Tribunals ”.
 
@@ -781,7 +781,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 - (a) for “sub-paragraph (2) (and” substitute “ the preceding provisions of this paragraph (but subject in the first place ”, and
 - (b) after “appointment” insert “ , which are to be such as the Lord Chancellor may determine ”.
 
-**46.**[^key-778c85eef425557280fd054755522bbc] (1) Schedule 3 (judges and other members of the Upper Tribunal) is amended as follows.
+**46.**[^c-778c85eef425557280fd054755522bbc] (1) Schedule 3 (judges and other members of the Upper Tribunal) is amended as follows.
 
 (2) In paragraph 2(1) (Lord Chancellor's power to appoint other members of the Upper Tribunal) for “Lord Chancellor” substitute “ Senior President of Tribunals ”.
 
@@ -854,7 +854,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 >
 > (4) Subject to the previous provisions of this paragraph (but subject in the first place to the Judicial Pensions and Retirement Act 1993), a person is to hold and vacate office as a deputy judge of the Upper Tribunal in accordance with the person's terms of appointment, which are to be such as the Lord Chancellor may determine.
 
-**47.**[^key-61162d23c873901d972c309af0b64001] (1) Schedule 4 (chambers, and chamber presidents, for the First-tier Tribunal or the Upper Tribunal) is amended as follows.
+**47.**[^c-61162d23c873901d972c309af0b64001] (1) Schedule 4 (chambers, and chamber presidents, for the First-tier Tribunal or the Upper Tribunal) is amended as follows.
 
 (2) In the italic headings before each of paragraphs 1 and 2 for “by Lord Chancellor” substitute “ under section 7(7) ”.
 
@@ -928,15 +928,15 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 >
 >   but only with any agreement of a senior judge (see section 46(7)), or a nominee of a senior judge, that may be required by those terms.
 
-**48.**[^key-8c258b5afde47d85f1b246e49f1b181c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-8c258b5afde47d85f1b246e49f1b181c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.** (1)[^key-16db8ab9f3f09a3e19cb02a58b88da3c] Schedule 14 to that Act (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
+**49.** (1)[^c-16db8ab9f3f09a3e19cb02a58b88da3c] Schedule 14 to that Act (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
 
-(2)[^key-16db8ab9f3f09a3e19cb02a58b88da3c] For the title of Part 3 substitute “Tribunal-related and other appointments”.
+(2)[^c-16db8ab9f3f09a3e19cb02a58b88da3c] For the title of Part 3 substitute “Tribunal-related and other appointments”.
 
-(3)[^key-16db8ab9f3f09a3e19cb02a58b88da3c] The table in Part 3 (appointments by the Lord Chancellor) becomes Table 1 of that Part called “ Appointments by the Lord Chancellor ”.
+(3)[^c-16db8ab9f3f09a3e19cb02a58b88da3c] The table in Part 3 (appointments by the Lord Chancellor) becomes Table 1 of that Part called “ Appointments by the Lord Chancellor ”.
 
-(4)[^key-16db8ab9f3f09a3e19cb02a58b88da3c] Move the entries for the following offices from Table 1 of Part 3 to form Table 2 of that Part called “Appointments by the Senior President of Tribunals” (and with the same column headings)—
+(4)[^c-16db8ab9f3f09a3e19cb02a58b88da3c] Move the entries for the following offices from Table 1 of Part 3 to form Table 2 of that Part called “Appointments by the Senior President of Tribunals” (and with the same column headings)—
 
 - Chamber President of a chamber of the First-tier Tribunal, or of a chamber of the Upper Tribunal, by appointment under section 7(7) of the Tribunals, Courts and Enforcement Act 2007, but not where appointed in accordance with paragraph 2(2) to (5) of Schedule 4 to that Act
 - Judge of the First-tier Tribunal by appointment under paragraph 1(1) of Schedule 2 to that Act
@@ -945,18 +945,18 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 - Deputy judge of the Upper Tribunal by appointment under paragraph 7(1) of that Schedule
 - Deputy Chamber President of a chamber of the First-tier Tribunal, or of a chamber of the Upper Tribunal, but not where appointed in accordance with paragraph 5(5) to (8) of Schedule 4 to that Act
 
-(5)[^key-16db8ab9f3f09a3e19cb02a58b88da3c] In the entry in Part 3 for Deputy Chief Coroner appointed under paragraph 2(5) of Schedule 8 to the Coroners and Justice Act 2009, for “2(5)” substitute “ 2(6) ”.
+(5)[^c-16db8ab9f3f09a3e19cb02a58b88da3c] In the entry in Part 3 for Deputy Chief Coroner appointed under paragraph 2(5) of Schedule 8 to the Coroners and Justice Act 2009, for “2(5)” substitute “ 2(6) ”.
 
 (6) In paragraph 51 of Schedule 21 to the Coroners and Justice Act 2009 (which inserts entries at the end of Part 3 of Schedule 14 to the 2005 Act)—
 
-- (a)[^key-994f4c82126b7dc0165d6bd16f305567] after “at the end of” insert “ Table 1 of ”, and
-- (b)[^key-16db8ab9f3f09a3e19cb02a58b88da3c] for “2(5)” substitute “ 2(6) ”.
+- (a)[^c-994f4c82126b7dc0165d6bd16f305567] after “at the end of” insert “ Table 1 of ”, and
+- (b)[^c-16db8ab9f3f09a3e19cb02a58b88da3c] for “2(5)” substitute “ 2(6) ”.
 
 (Accordingly, the power to commence that paragraph 51 becomes a power to commence it as amended by this sub-paragraph.)
 
 #### Appointments by Lord Chief Justice or Senior President of Tribunals: equalities provisions
 
-**50.**[^key-19c9cd0ad2678ce9ce8bf6cb8e3e7257] (1) Section 50 of the Equality Act 2010 (public offices: appointments, etc) is amended as follows.
+**50.**[^c-19c9cd0ad2678ce9ce8bf6cb8e3e7257] (1) Section 50 of the Equality Act 2010 (public offices: appointments, etc) is amended as follows.
 
 (2) In subsection (2) (meaning of “public office”) after paragraph (c) insert—
 
@@ -964,7 +964,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 (3) In each of subsections (3) to (6), (9) and (11)(b) (offices within subsection (2)(a) or (b)) for “or (b)” substitute “ , (b) or (d) ”.
 
-**51.**[^key-fd9684808e45f2f4b7b6ee99200d47ee] (1) Section 51 of the Equality Act 2010 (public offices: recommendations for appointments, etc) is amended as follows.
+**51.**[^c-fd9684808e45f2f4b7b6ee99200d47ee] (1) Section 51 of the Equality Act 2010 (public offices: recommendations for appointments, etc) is amended as follows.
 
 (2) In subsections (1) to (4) (which apply to an office within section 50(2)(a) or (b)) for “or (b)” substitute “ , (b) or (d) ”.
 
@@ -972,13 +972,13 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 #### Certain deployments to the High Court to be made from pool of selected judges
 
-**52.**[^key-739875cfa4d4e9688cc1efc355ae96c6] In section 9 of the Senior Courts Act 1981 (which includes provision for requesting certain judges to act as judges of other courts) after subsection (2C) insert—
+**52.**[^c-739875cfa4d4e9688cc1efc355ae96c6] In section 9 of the Senior Courts Act 1981 (which includes provision for requesting certain judges to act as judges of other courts) after subsection (2C) insert—
 
 > (2CA) In the case of a request to a person within entry 5 or 6 in column 1 of the Table to act as a judge of the High Court, the appropriate authority may make the request only if the person is a member of the pool for requests under subsection (1) to persons within that entry.
 
 #### Main change in selection process
 
-**53.**[^key-05471b580694e17086fc204205b3bf79] (1) The Constitutional Reform Act 2005 is amended as follows.
+**53.**[^c-05471b580694e17086fc204205b3bf79] (1) The Constitutional Reform Act 2005 is amended as follows.
 
 (2) Omit—
 
@@ -1052,21 +1052,21 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 #### Other changes in relation to selection process and complaints
 
-**54.**[^key-483a02417ba3880491bf6ff19e28ba8f] The Constitutional Reform Act 2005 is amended as follows.
+**54.**[^c-483a02417ba3880491bf6ff19e28ba8f] The Constitutional Reform Act 2005 is amended as follows.
 
-**55.**[^key-33181520614dca47f7d979aeab35ba94] In section 66(1)(a) (Lord Chancellor to consult Lord Chief Justice before issuing guidance about selection procedures) for “consult” substitute “ obtain the agreement of ”.
+**55.**[^c-33181520614dca47f7d979aeab35ba94] In section 66(1)(a) (Lord Chancellor to consult Lord Chief Justice before issuing guidance about selection procedures) for “consult” substitute “ obtain the agreement of ”.
 
-**56.**[^key-c48260fbbc3fbe761504f67cbd14613a] In section 67 (sections 68 to 75 apply in relation to appointment of Lord Chief Justice or Head of Division)—
+**56.**[^c-c48260fbbc3fbe761504f67cbd14613a] In section 67 (sections 68 to 75 apply in relation to appointment of Lord Chief Justice or Head of Division)—
 
 - (a) in subsection (1) for “75” substitute “ 70 ”, and
 - (b) in subsection (2) for “96” substitute “ 94C and regulations made under it ”.
 
-**57.**[^key-d0942819f93c382bb315209ff19b0748] In section 69 (sections 70 to 75 apply where request made under section 69)—
+**57.**[^c-d0942819f93c382bb315209ff19b0748] In section 69 (sections 70 to 75 apply where request made under section 69)—
 
 - (a) in subsection (4) for “Sections 70 to 75 apply” substitute “ Section 70 applies ”, and
 - (b) in subsection (5) for “Those sections are” substitute “ That section is ”.
 
-**58.**[^key-a83ddb9cabe02597ad329f880a1c5274] (1) Section 70 (process for selecting person to be recommended for appointment as Lord Chief Justice or Head of Division) is amended as follows.
+**58.**[^c-a83ddb9cabe02597ad329f880a1c5274] (1) Section 70 (process for selecting person to be recommended for appointment as Lord Chief Justice or Head of Division) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -1092,12 +1092,12 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 (6) Omit subsection (5) (if practicable, panel to consult current holder of office).
 
-**59.**[^key-ddaf85e29359c57210f030d5be0e41d1] In section 75A (sections 75B to 75G apply where request made under paragraph 2(5) of Schedule 1 to the Tribunals, Courts and Enforcement Act 2007)—
+**59.**[^c-ddaf85e29359c57210f030d5be0e41d1] In section 75A (sections 75B to 75G apply where request made under paragraph 2(5) of Schedule 1 to the Tribunals, Courts and Enforcement Act 2007)—
 
 - (a) in subsection (1) for “Sections 75B to 75G apply” substitute “ Section 75B applies ”, and
 - (b) in subsection (2) for “Those sections are” substitute “ That section is ”.
 
-**60.**[^key-82e420f2546ec6b7d03c4bdee0ac871e] (1) Section 75B (process for selecting person to be recommended for appointment as Senior President of Tribunals) is amended as follows.
+**60.**[^c-82e420f2546ec6b7d03c4bdee0ac871e] (1) Section 75B (process for selecting person to be recommended for appointment as Senior President of Tribunals) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -1117,17 +1117,17 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 (4) In subsection (5) (subsection (4) applies to selection under section 75B or 75G) for “section 75G” substitute “ regulations under section 94C ”.
 
-**61.**[^key-660e24678cb16a7a90d9f79eb3d548e3] In section 76 (sections 77 to 84 apply in relation to appointment of ordinary judges of the Court of Appeal)—
+**61.**[^c-660e24678cb16a7a90d9f79eb3d548e3] In section 76 (sections 77 to 84 apply in relation to appointment of ordinary judges of the Court of Appeal)—
 
 - (a) in subsection (1) for “84” substitute “ 79 ”, and
 - (b) in subsection (2) for “96” substitute “ 94C and regulations made under it ”.
 
-**62.**[^key-94f6159d53cc95353d2d6e37aca2d14f] In section 78 (sections 79 to 84 apply where request made under section 78)—
+**62.**[^c-94f6159d53cc95353d2d6e37aca2d14f] In section 78 (sections 79 to 84 apply where request made under section 78)—
 
 - (a) in subsection (4) for “Sections 79 to 84 apply” substitute “ Section 79 applies ”, and
 - (b) in subsection (5) for “Those sections are” substitute “ That section is ”.
 
-**63.**[^key-f438bb4daa386e293ed8b3fe936dce9e] (1) Section 79 (process for selecting person to be recommended for appointment as ordinary judge of Court of Appeal) is amended as follows.
+**63.**[^c-f438bb4daa386e293ed8b3fe936dce9e] (1) Section 79 (process for selecting person to be recommended for appointment as ordinary judge of Court of Appeal) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -1145,7 +1145,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 (4) In subsection (4) (subsection (3) applies to selection under section 79 or 84) for “section 84” substitute “ regulations under section 94C ”.
 
-**64.**[^key-51086aa565c990fa6af6f4ea3bed8e10] (1) Section 85 (sections 86 to 93 apply in relation to appointment of puisne judges of the High Court or to offices listed in Schedule 14) is amended as follows.
+**64.**[^c-51086aa565c990fa6af6f4ea3bed8e10] (1) Section 85 (sections 86 to 93 apply in relation to appointment of puisne judges of the High Court or to offices listed in Schedule 14) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1187,7 +1187,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 > - (a) may make different provision for different purposes;
 > - (b) may make consequential, transitory, transitional or saving provision.
 
-**65.**[^key-06dd609f4bfd1323ac1b1d3a65a0cbaa] (1) Section 86 (duty to fill vacancies) is amended as follows.
+**65.**[^c-06dd609f4bfd1323ac1b1d3a65a0cbaa] (1) Section 86 (duty to fill vacancies) is amended as follows.
 
 (2) After subsection (1) (duty to make a recommendation to fill vacancy for a puisne judge of the High Court or in an office listed in Part 1 of Schedule 14) insert—
 
@@ -1207,7 +1207,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 > (4) Subsections (2A) and (2B) do not apply to a vacancy while the Lord Chancellor agrees that it may remain unfilled.
 
-**66.**[^key-b5ab21592472981dff2d852f781690f5] (1) Section 87 (request for selection of person to fill vacancy for High Court judge or in an office listed in Schedule 14) is amended as follows.
+**66.**[^c-b5ab21592472981dff2d852f781690f5] (1) Section 87 (request for selection of person to fill vacancy for High Court judge or in an office listed in Schedule 14) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -1217,14 +1217,14 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 (4) In subsection (5) for “Those sections are” substitute “ That section is ”.
 
-**67.**[^key-3613eff5598e22448f615298c1c098b7] In section 88 (selection process: puisne judges of High Court and other office holders)—
+**67.**[^c-3613eff5598e22448f615298c1c098b7] In section 88 (selection process: puisne judges of High Court and other office holders)—
 
 - (a) omit subsection (2) (insufficient candidates of merit),
 - (b) omit subsection (3) (required elements of selection process),
 - (c) in subsection (4) (duty to arrange selection of one person for each recommendation or appointment to which a request relates) for “or appointment” substitute “ , appointment or pool membership ”, and
 - (d) in subsection (5) (subsection (4) applies to selection under section 88, 92 or 93) for “section 92 or 93” substitute “ regulations under section 94C ”.
 
-**68.**[^key-3cf7ad3f51d19afd08d05437aa830fa7] For section 94 (Commission's duty to identify persons suitable for selection on a future request) substitute—
+**68.**[^c-3cf7ad3f51d19afd08d05437aa830fa7] For section 94 (Commission's duty to identify persons suitable for selection on a future request) substitute—
 
 > **94. Power to require persons to be identified for future requests**
 >
@@ -1244,7 +1244,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 > - (a) may make different provision for different purposes;
 > - (b) may make consequential, supplementary, transitory, transitional or saving provision.
 
-**69.**[^key-46b31efaf0058d35e45b79c2f63d027d] (1) Section 95 (Lord Chancellor's power to withdraw or modify a request) is amended as follows.
+**69.**[^c-46b31efaf0058d35e45b79c2f63d027d] (1) Section 95 (Lord Chancellor's power to withdraw or modify a request) is amended as follows.
 
 (2) In subsection (2) before paragraph (a) insert—
 
@@ -1272,7 +1272,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 > - (a) has been accepted unconditionally or subject only to matters such as the selected person's willingness and availability, or
 > - (b) in exercise of power conferred by regulations under section 94C, has been rejected or required to be reconsidered.
 
-**70.**[^key-cf4a64247f9581e5e75b7d9e8097e5c0] (1) Section 97 (consultation under certain provisions to be with head of the judiciary in Scotland or Northern Ireland instead of with Lord Chief Justice of England and Wales) is amended as follows.
+**70.**[^c-cf4a64247f9581e5e75b7d9e8097e5c0] (1) Section 97 (consultation under certain provisions to be with head of the judiciary in Scotland or Northern Ireland instead of with Lord Chief Justice of England and Wales) is amended as follows.
 
 (2) In subsection (1) (list of provisions requiring consultation)—
 
@@ -1281,7 +1281,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 (3) In subsection (4) (modification where requirement is to obtain concurrence rather than to consult) after “section 94A(1)” insert “ or 95(2)(a) ”.
 
-**71.**[^key-abe423c4a63e331985d8a6c7b5e0d5cd] (1) In section 99 (judicial appointments: complaints) after subsection (3) insert—
+**71.**[^c-abe423c4a63e331985d8a6c7b5e0d5cd] (1) In section 99 (judicial appointments: complaints) after subsection (3) insert—
 
 > (3A) An LCJ complaint is a complaint by a qualifying complainant of maladministration by the Lord Chief Justice or the Lord Chief Justice's nominee, or anyone acting on behalf of either of them, in connection with—
 >
@@ -1296,24 +1296,24 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 > - (a) selection under this Part for an office listed in Table 3 of Part 1 of Schedule 14 or in Table 2 of Part 3 of that Schedule, or
 > - (b) appointment to an office listed in Table 2 of Part 3 of that Schedule.
 
-**72.**[^key-8e2c3bcb9b1ea50c446ec33a68400c3e] In section 100 (duty to make arrangements to investigate complaints) after subsection (2) insert—
+**72.**[^c-8e2c3bcb9b1ea50c446ec33a68400c3e] In section 100 (duty to make arrangements to investigate complaints) after subsection (2) insert—
 
 > (2A) The Lord Chief Justice must make arrangements for investigating any LCJ complaint made to the Lord Chief Justice.
 >
 > (2B) The Senior President of Tribunals must make arrangements for investigating any SPT complaint made to the Senior President of Tribunals.
 
-**73.**[^key-6a7ff57e7a839b27769652deb885df58] (1) Section 101 (complaints to the Judicial Conduct and Appointments Ombudsman) is amended as follows.
+**73.**[^c-6a7ff57e7a839b27769652deb885df58] (1) Section 101 (complaints to the Judicial Conduct and Appointments Ombudsman) is amended as follows.
 
 (2) In subsections (1)(a) and (4)(a) (investigation of complaints previously made to Judicial Appointments Commission or Lord Chancellor) for “or the Lord Chancellor” substitute “ , the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals ”.
 
 (3) In subsection (1)(b) for “Commission's or Lord Chancellor's decision” substitute “ decision of the Commission, the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals ”.
 
-**74.**[^key-c9c3357a1bdd12fca10aa02b6bed6f8b] In section 102 (Ombudsman's reports and recommendations)—
+**74.**[^c-c9c3357a1bdd12fca10aa02b6bed6f8b] In section 102 (Ombudsman's reports and recommendations)—
 
 - (a) in subsection (2)(c) (recommended action) for “or the Lord Chancellor” substitute “ , the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals ”, and
 - (b) in subsection (4) (compensation not to be recommended for failure to be appointed to an office) after “office” insert “ , or selected for membership of a pool, ”.
 
-**75.**[^key-c7a134c47c755376760b779016929a7a] (1) Section 103 (Ombudsman's reports) is amended as follows.
+**75.**[^c-c7a134c47c755376760b779016929a7a] (1) Section 103 (Ombudsman's reports) is amended as follows.
 
 (2) For subsection (2) (drafts of reports) substitute—
 
@@ -1331,22 +1331,22 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 >
 > (5B) If the complaint was an SPT complaint the Ombudsman must send the report in duplicate to the Lord Chancellor and the Senior President of Tribunals.
 
-**76.**[^key-cbfb49bb32176f1537033e49f54d2bd1] (1) Section 104 (referrals to Judicial Conduct and Appointments Ombudsman of matters relating to Judicial Appointments Commission) is amended as follows.
+**76.**[^c-cbfb49bb32176f1537033e49f54d2bd1] (1) Section 104 (referrals to Judicial Conduct and Appointments Ombudsman of matters relating to Judicial Appointments Commission) is amended as follows.
 
 (2) In subsection (1) (duty to investigate matter referred by Lord Chancellor) after “Lord Chancellor” insert “ , the Lord Chief Justice or the Senior President of Tribunals ”.
 
 (3) In subsection (3) (report on referred matter) after “Lord Chancellor” insert “ , the Lord Chief Justice and the Senior President of Tribunals ”.
 
-**77.**[^key-acd9faa949b7d757d43df683aba1b9db] In section 105 (provision of information to Ombudsman) after “The Commission” insert “ , the Lord Chief Justice, the Senior President of Tribunals ”.
+**77.**[^c-acd9faa949b7d757d43df683aba1b9db] In section 105 (provision of information to Ombudsman) after “The Commission” insert “ , the Lord Chief Justice, the Senior President of Tribunals ”.
 
-**78.**[^key-a4ef31eb4ff4fd0f65e81c28952038a2] In section 144(5) (orders and regulations subject to affirmative procedure) after paragraph (a) insert—
+**78.**[^c-a4ef31eb4ff4fd0f65e81c28952038a2] In section 144(5) (orders and regulations subject to affirmative procedure) after paragraph (a) insert—
 
 > - (aa) an order under section 85(5);
 > - (ab) regulations under section 94 or 94C;
 
 .
 
-**79.**[^key-e6272015c21d1165d196a982ac31054e] In paragraph 2 of Schedule 7 (functions of Lord Chancellor under the Act are protected from transfer to other Ministers etc) after “under this Act” insert
+**79.**[^c-e6272015c21d1165d196a982ac31054e] In paragraph 2 of Schedule 7 (functions of Lord Chancellor under the Act are protected from transfer to other Ministers etc) after “under this Act” insert
 
 > , including any function under provision inserted into this Act by—
 >
@@ -1355,27 +1355,27 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 .
 
-**80.**[^key-ab77db52505efa2093703f803ed3b39f] In Schedule 12 (the Judicial Appointments Commission) in paragraphs 20(6) and 27(3) (selection panels under section 70 or 79) after “70” insert “ , 75B ”.
+**80.**[^c-ab77db52505efa2093703f803ed3b39f] In Schedule 12 (the Judicial Appointments Commission) in paragraphs 20(6) and 27(3) (selection panels under section 70 or 79) after “70” insert “ , 75B ”.
 
 #### Changes in relation to selection process: consequential repeals
 
-**81.**[^key-4e8e9e66f6fe6754b40a9902984b1bbb] Omit Part 5 of this Schedule (amendments which come into force on the passing of this Act, but which are superseded on amendments made by this Part of this Schedule being brought into force).
+**81.**[^c-4e8e9e66f6fe6754b40a9902984b1bbb] Omit Part 5 of this Schedule (amendments which come into force on the passing of this Act, but which are superseded on amendments made by this Part of this Schedule being brought into force).
 
 ### Part 5
 
-**....**[^key-e5a5ae5159e7c116b73424f834924b73][^key-e5a5ae5159e7c116b73424f834924b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-e5a5ae5159e7c116b73424f834924b73][^c-e5a5ae5159e7c116b73424f834924b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 6 — Appointment of judge to exercise functions of a Head of Division in case of incapacity or a vacancy etc
 
-**83.**[^key-2ea3a33ccae75e061bec77fd3bf393cd] Where a Head of Division is incapable of exercising relevant functions, or the office of a Head of Division is vacant, the Lord Chief Justice may, with the concurrence of the Lord Chancellor, appoint a judge of the Senior Courts to exercise relevant functions of the Head of Division.
+**83.**[^c-2ea3a33ccae75e061bec77fd3bf393cd] Where a Head of Division is incapable of exercising relevant functions, or the office of a Head of Division is vacant, the Lord Chief Justice may, with the concurrence of the Lord Chancellor, appoint a judge of the Senior Courts to exercise relevant functions of the Head of Division.
 
-**84.**[^key-8d592f93578f46658dea8f90c9698e6c] An appointment under paragraph 83—
+**84.**[^c-8d592f93578f46658dea8f90c9698e6c] An appointment under paragraph 83—
 
 - (a) must be in writing,
 - (b) must specify the functions that may be exercised by the appointed judge, and
 - (c) must set out the duration of the appointment.
 
-**85.**[^key-afdf38f2b1d23a5aac761092fba23673] In paragraph 83—
+**85.**[^c-afdf38f2b1d23a5aac761092fba23673] In paragraph 83—
 
 - “**Head of Division**” means—
   - (a) the Master of the Rolls,
@@ -1385,7 +1385,7 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 - “**the Lord Chief Justice**” means the Lord Chief Justice of England and Wales;
 - “**the Senior Courts**” means the Senior Courts of England and Wales.
 
-**86.**[^key-3d33ffeb05e6ac2f39c9f5a723753db3] In this Part of this Schedule “**relevant functions**” means functions under any of the following—
+**86.**[^c-3d33ffeb05e6ac2f39c9f5a723753db3] In this Part of this Schedule “**relevant functions**” means functions under any of the following—
 
 - section 5 of the Public Notaries Act 1843 (functions of Chancellor of the High Court in relation to refusal of master of the faculties to grant a faculty to practise as a public notary);
 - section 8(5) of the Public Records Act 1958 (President of the Family Division to be consulted in relation to transfer of certain records);
@@ -1419,19 +1419,19 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 - section 183(7)(b) of the Legal Services Act 2007 (consent of Master of the Rolls etc in relation to fees for administration of an oath or taking of an affidavit);
 - paragraph 1(10) of Schedule 3 to the Legal Services Act 2007 (concurrence of President of the Family Division etc with meaning of “reserved family proceedings” prescribed for the purposes of that paragraph).
 
-**87.**[^key-d83e4aef0703090c0484b7eca26049af] The Lord Chancellor may by order amend the list in paragraph 86 so as to—
+**87.**[^c-d83e4aef0703090c0484b7eca26049af] The Lord Chancellor may by order amend the list in paragraph 86 so as to—
 
 - (a) add an entry,
 - (b) remove an entry, or
 - (c) vary an entry.
 
-**88.**[^key-afac235eedab140c2d0e8e3db34e6f80] After section 10(6) of the Senior Courts Act 1981 (where there is a vacancy in one or more of the offices of the Heads of Division, a newly-appointed Lord Chief Justice is to take the required oaths in the presence of the holders of such of the offices as are not vacant) insert—
+**88.**[^c-afac235eedab140c2d0e8e3db34e6f80] After section 10(6) of the Senior Courts Act 1981 (where there is a vacancy in one or more of the offices of the Heads of Division, a newly-appointed Lord Chief Justice is to take the required oaths in the presence of the holders of such of the offices as are not vacant) insert—
 
 > (6A) Where the holder of an office mentioned in subsection (5) is incapable of exercising the functions of the office, the office is to be treated as vacant for the purposes of subsection (6).
 
 ### Part 7 — Abolition of office of assistant Recorder
 
-**89.**[^key-0499ddf5e540426187e129150d804bb0] (1) In section 24 of the Courts Act 1971 (deputy Circuit judges and assistant Recorders) in subsection (1) omit paragraph (b) (power to appoint assistant Recorders).
+**89.**[^c-0499ddf5e540426187e129150d804bb0] (1) In section 24 of the Courts Act 1971 (deputy Circuit judges and assistant Recorders) in subsection (1) omit paragraph (b) (power to appoint assistant Recorders).
 
 (2) In consequence of that repeal—
 
@@ -1454,182 +1454,182 @@ Justice of the Peace appointed under section 5 of the Justices of the Peace Act 
 
 ## Annotations
 
-[^key-7081d3bc9e238c3e0dd445205bd1d193]: Commencement: Sch. 13 para. 1 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-7081d3bc9e238c3e0dd445205bd1d193]: Commencement: Sch. 13 para. 1 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-4934d9be869e809261507238c3a69014]: Commencement: Sch. 13 para. 2 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-4934d9be869e809261507238c3a69014]: Commencement: Sch. 13 para. 2 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-97bf785ccd901c1787bb8634ec60017d]: Commencement: Sch. 13 para. 3 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-97bf785ccd901c1787bb8634ec60017d]: Commencement: Sch. 13 para. 3 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-c27cb1488c4177eee03205437a11f7c1]: Commencement: Sch. 13 para. 4 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-c27cb1488c4177eee03205437a11f7c1]: Commencement: Sch. 13 para. 4 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-4b879c5ebde085f92c6d34fb22dff6ab]: Commencement: Sch. 13 para. 5 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-4b879c5ebde085f92c6d34fb22dff6ab]: Commencement: Sch. 13 para. 5 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-6679d84e0e7de4a90f8ae570cbfa2585]: Commencement: Sch. 13 para. 6 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-6679d84e0e7de4a90f8ae570cbfa2585]: Commencement: Sch. 13 para. 6 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-b1f7d8a961c47ef4bda10734717147f7]: Commencement: Sch. 13 para. 7 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-b1f7d8a961c47ef4bda10734717147f7]: Commencement: Sch. 13 para. 7 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-719e562380d89848c472489b45b08f10]: Commencement: Sch. 13 para. 8 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-719e562380d89848c472489b45b08f10]: Commencement: Sch. 13 para. 8 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-c924be0d826a4aecc2398d80c05df405]: Commencement: Sch. 13 para. 9 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-c924be0d826a4aecc2398d80c05df405]: Commencement: Sch. 13 para. 9 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-f959fecb1e9da8615e728fab92fa405a]: Commencement: Sch. 13 para. 10 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-f959fecb1e9da8615e728fab92fa405a]: Commencement: Sch. 13 para. 10 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-d9255da10c1899b28d4ffaca3bba71b8]: Commencement: Sch. 13 para. 11 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-d9255da10c1899b28d4ffaca3bba71b8]: Commencement: Sch. 13 para. 11 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-07c55b590e6be16c607d5c8a3c5cb2b5]: Commencement: Sch. 13 para. 12 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-07c55b590e6be16c607d5c8a3c5cb2b5]: Commencement: Sch. 13 para. 12 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-11069a0f0dd64a2e3da1879121de9cf9]: Commencement: Sch. 13 para. 13 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-11069a0f0dd64a2e3da1879121de9cf9]: Commencement: Sch. 13 para. 13 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-a722d2eaaa02df3cf9a4890a691ec35c]: Commencement: Sch. 13 para. 14 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-a722d2eaaa02df3cf9a4890a691ec35c]: Commencement: Sch. 13 para. 14 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-10e5252974a3f7a559deef43096c26c2]: Commencement: Sch. 13 para. 15 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-10e5252974a3f7a559deef43096c26c2]: Commencement: Sch. 13 para. 15 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-91374c059197651f23474076bd0efa24]: Commencement: Sch. 13 para. 16 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-91374c059197651f23474076bd0efa24]: Commencement: Sch. 13 para. 16 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-fb6caf26e1e3055fd8f3c7ffe632508c]: Commencement: Sch. 13 para. 17 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-fb6caf26e1e3055fd8f3c7ffe632508c]: Commencement: Sch. 13 para. 17 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-4d5dccc0a55d01e1c535b80e9f764281]: Commencement: Sch. 13 para. 18 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-4d5dccc0a55d01e1c535b80e9f764281]: Commencement: Sch. 13 para. 18 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-f5217a4d370efda4b2432efc4d1443cb]: Commencement: Sch. 13 para. 19 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-f5217a4d370efda4b2432efc4d1443cb]: Commencement: Sch. 13 para. 19 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-dd5eae433d74079a3cec1fee4621aee1]: Commencement: Sch. 13 para. 20 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-dd5eae433d74079a3cec1fee4621aee1]: Commencement: Sch. 13 para. 20 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-c988c9bb0dac565dd1807aadba1ff652]: Commencement: Sch. 13 para. 21 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-c988c9bb0dac565dd1807aadba1ff652]: Commencement: Sch. 13 para. 21 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-c8b9c891fd2188cf2b9a700fb13e2776]: Commencement: Sch. 13 para. 22 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-c8b9c891fd2188cf2b9a700fb13e2776]: Commencement: Sch. 13 para. 22 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-5e26aed070aea90546a6fa9cc06bdf60]: Commencement: Sch. 13 para. 23 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-5e26aed070aea90546a6fa9cc06bdf60]: Commencement: Sch. 13 para. 23 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-94830e6fcec838a3057f49607cfb0878]: Commencement: Sch. 13 para. 24 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-94830e6fcec838a3057f49607cfb0878]: Commencement: Sch. 13 para. 24 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-776cd242139366a774ea17ad5e4808c7]: Commencement: Sch. 13 para. 25 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-776cd242139366a774ea17ad5e4808c7]: Commencement: Sch. 13 para. 25 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-f1120ea4a7badab860195983a5ffc8e7]: Commencement: Sch. 13 para. 26 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-f1120ea4a7badab860195983a5ffc8e7]: Commencement: Sch. 13 para. 26 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-4cc93294f09545fa4439c2997769ce3f]: Commencement: Sch. 13 para. 27 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-4cc93294f09545fa4439c2997769ce3f]: Commencement: Sch. 13 para. 27 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-689b66afb58ca2048df13ed8c62a1366]: Commencement: Sch. 13 para. 28 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-689b66afb58ca2048df13ed8c62a1366]: Commencement: Sch. 13 para. 28 in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
-[^key-df3fd524ebfb01ad397d977a0db34aa3]: Commencement: Sch. 13 para. 29 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-df3fd524ebfb01ad397d977a0db34aa3]: Commencement: Sch. 13 para. 29 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-bdc8842a94f0979ac3af8f343c71dcfa]: Commencement: Sch. 13 para. 30 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-bdc8842a94f0979ac3af8f343c71dcfa]: Commencement: Sch. 13 para. 30 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-16a196ff586d6df361168e7ff71b0277]: Commencement: Sch. 13 para. 31 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-16a196ff586d6df361168e7ff71b0277]: Commencement: Sch. 13 para. 31 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-ee6fc0088b9012611019b281718592ec]: Commencement: Sch. 13 para. 32 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-ee6fc0088b9012611019b281718592ec]: Commencement: Sch. 13 para. 32 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-a7b5544dcc05471505f25dddcd29d592]: Commencement: Sch. 13 para. 33 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-a7b5544dcc05471505f25dddcd29d592]: Commencement: Sch. 13 para. 33 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-7d3da6974115e3f8189615a8a3ff0697]: Commencement: Sch. 13 para. 34 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-7d3da6974115e3f8189615a8a3ff0697]: Commencement: Sch. 13 para. 34 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-3626c9f5a157110984cc93dadbfd00bc]: Commencement: Sch. 13 para. 35 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-3626c9f5a157110984cc93dadbfd00bc]: Commencement: Sch. 13 para. 35 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-c5fcbcf3f9efdccb5b0cd1d0d376c685]: Commencement: Sch. 13 para. 36 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-c5fcbcf3f9efdccb5b0cd1d0d376c685]: Commencement: Sch. 13 para. 36 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-30f9b3017e26ace709ac5cbeb1fa5625]: Commencement: Sch. 13 para. 37 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-30f9b3017e26ace709ac5cbeb1fa5625]: Commencement: Sch. 13 para. 37 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-702ffdec0fe6375c28208117f44bb074]: Commencement: Sch. 13 para. 38 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-702ffdec0fe6375c28208117f44bb074]: Commencement: Sch. 13 para. 38 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-97c145c1cc8597cbc698931da63045a8]: Commencement: Sch. 13 para. 39 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-97c145c1cc8597cbc698931da63045a8]: Commencement: Sch. 13 para. 39 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-ff246eea8f09e61ac5cb9185cc88683d]: Textual amendment: [Sch. 13 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/40) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/15); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-ff246eea8f09e61ac5cb9185cc88683d]: Textual amendment: [Sch. 13 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/40) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/15); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
 
-[^key-262d34c345d136a20f19c76b1c905a92]: Commencement: Sch. 13 para. 41 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/2200/article/4)) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-262d34c345d136a20f19c76b1c905a92]: Commencement: Sch. 13 para. 41 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/2200/article/4)) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-1b9bf48cc4453aae1ef2858f0364fcc3]: Commencement: Sch. 13 para. 42 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-1b9bf48cc4453aae1ef2858f0364fcc3]: Commencement: Sch. 13 para. 42 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-b28c9579cc91b0869d8a8e508ad0557d]: Commencement: Sch. 13 para. 43 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-b28c9579cc91b0869d8a8e508ad0557d]: Commencement: Sch. 13 para. 43 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-34af90e99f0e45ee7ceb1f662cae8955]: Commencement: Sch. 13 para. 44 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-34af90e99f0e45ee7ceb1f662cae8955]: Commencement: Sch. 13 para. 44 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-58834d2a1733f8a9f2cbb0aa8b7eecaf]: Commencement: Sch. 13 para. 45 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-58834d2a1733f8a9f2cbb0aa8b7eecaf]: Commencement: Sch. 13 para. 45 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-778c85eef425557280fd054755522bbc]: Commencement: Sch. 13 para. 46 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-778c85eef425557280fd054755522bbc]: Commencement: Sch. 13 para. 46 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-61162d23c873901d972c309af0b64001]: Commencement: Sch. 13 para. 47 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-61162d23c873901d972c309af0b64001]: Commencement: Sch. 13 para. 47 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-8c258b5afde47d85f1b246e49f1b181c]: Textual amendment: [Sch. 13 para. 48](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/48) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/15); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
+[^c-8c258b5afde47d85f1b246e49f1b181c]: Textual amendment: [Sch. 13 para. 48](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/48) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/c), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2022/7/schedule/4/paragraph/15); [S.I. 2022/1014](https://www.legislation.gov.uk/uksi/2022/1014), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1014/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1014/regulation/3))
 
-[^key-16db8ab9f3f09a3e19cb02a58b88da3c]: Commencement: Sch. 13 para. 49(1)-(5) (6)(b) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-16db8ab9f3f09a3e19cb02a58b88da3c]: Commencement: Sch. 13 para. 49(1)-(5) (6)(b) in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-994f4c82126b7dc0165d6bd16f305567]: Commencement: Sch. 13 para. 49(6)(a) in force at 1.10.2013 for specified purposes by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(f)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/f)
+[^c-994f4c82126b7dc0165d6bd16f305567]: Commencement: Sch. 13 para. 49(6)(a) in force at 1.10.2013 for specified purposes by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(f)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/f)
 
-[^key-19c9cd0ad2678ce9ce8bf6cb8e3e7257]: Commencement: Sch. 13 para. 50 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-19c9cd0ad2678ce9ce8bf6cb8e3e7257]: Commencement: Sch. 13 para. 50 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-fd9684808e45f2f4b7b6ee99200d47ee]: Commencement: Sch. 13 para. 51 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-fd9684808e45f2f4b7b6ee99200d47ee]: Commencement: Sch. 13 para. 51 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-739875cfa4d4e9688cc1efc355ae96c6]: Commencement: Sch. 13 para. 52 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-739875cfa4d4e9688cc1efc355ae96c6]: Commencement: Sch. 13 para. 52 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-05471b580694e17086fc204205b3bf79]: Commencement: Sch. 13 para. 53 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-05471b580694e17086fc204205b3bf79]: Commencement: Sch. 13 para. 53 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-483a02417ba3880491bf6ff19e28ba8f]: Commencement: Sch. 13 para. 54 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-483a02417ba3880491bf6ff19e28ba8f]: Commencement: Sch. 13 para. 54 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-33181520614dca47f7d979aeab35ba94]: Commencement: Sch. 13 para. 55 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-33181520614dca47f7d979aeab35ba94]: Commencement: Sch. 13 para. 55 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-c48260fbbc3fbe761504f67cbd14613a]: Commencement: Sch. 13 para. 56 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-c48260fbbc3fbe761504f67cbd14613a]: Commencement: Sch. 13 para. 56 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-d0942819f93c382bb315209ff19b0748]: Commencement: Sch. 13 para. 57 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-d0942819f93c382bb315209ff19b0748]: Commencement: Sch. 13 para. 57 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-a83ddb9cabe02597ad329f880a1c5274]: Commencement: Sch. 13 para. 58 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-a83ddb9cabe02597ad329f880a1c5274]: Commencement: Sch. 13 para. 58 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-ddaf85e29359c57210f030d5be0e41d1]: Commencement: Sch. 13 para. 59 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-ddaf85e29359c57210f030d5be0e41d1]: Commencement: Sch. 13 para. 59 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-82e420f2546ec6b7d03c4bdee0ac871e]: Commencement: Sch. 13 para. 60 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-82e420f2546ec6b7d03c4bdee0ac871e]: Commencement: Sch. 13 para. 60 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-660e24678cb16a7a90d9f79eb3d548e3]: Commencement: Sch. 13 para. 61 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-660e24678cb16a7a90d9f79eb3d548e3]: Commencement: Sch. 13 para. 61 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-94f6159d53cc95353d2d6e37aca2d14f]: Commencement: Sch. 13 para. 62 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-94f6159d53cc95353d2d6e37aca2d14f]: Commencement: Sch. 13 para. 62 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-f438bb4daa386e293ed8b3fe936dce9e]: Commencement: Sch. 13 para. 63 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-f438bb4daa386e293ed8b3fe936dce9e]: Commencement: Sch. 13 para. 63 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-51086aa565c990fa6af6f4ea3bed8e10]: Commencement: Sch. 13 para. 64 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-51086aa565c990fa6af6f4ea3bed8e10]: Commencement: Sch. 13 para. 64 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-06dd609f4bfd1323ac1b1d3a65a0cbaa]: Commencement: Sch. 13 para. 65 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-06dd609f4bfd1323ac1b1d3a65a0cbaa]: Commencement: Sch. 13 para. 65 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-b5ab21592472981dff2d852f781690f5]: Commencement: Sch. 13 para. 66 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-b5ab21592472981dff2d852f781690f5]: Commencement: Sch. 13 para. 66 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-3613eff5598e22448f615298c1c098b7]: Commencement: Sch. 13 para. 67 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-3613eff5598e22448f615298c1c098b7]: Commencement: Sch. 13 para. 67 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-3cf7ad3f51d19afd08d05437aa830fa7]: Commencement: Sch. 13 para. 68 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-3cf7ad3f51d19afd08d05437aa830fa7]: Commencement: Sch. 13 para. 68 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-46b31efaf0058d35e45b79c2f63d027d]: Commencement: Sch. 13 para. 69 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-46b31efaf0058d35e45b79c2f63d027d]: Commencement: Sch. 13 para. 69 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-cf4a64247f9581e5e75b7d9e8097e5c0]: Commencement: Sch. 13 para. 70 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-cf4a64247f9581e5e75b7d9e8097e5c0]: Commencement: Sch. 13 para. 70 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-abe423c4a63e331985d8a6c7b5e0d5cd]: Commencement: Sch. 13 para. 71 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-abe423c4a63e331985d8a6c7b5e0d5cd]: Commencement: Sch. 13 para. 71 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-8e2c3bcb9b1ea50c446ec33a68400c3e]: Commencement: Sch. 13 para. 72 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-8e2c3bcb9b1ea50c446ec33a68400c3e]: Commencement: Sch. 13 para. 72 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-6a7ff57e7a839b27769652deb885df58]: Commencement: Sch. 13 para. 73 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-6a7ff57e7a839b27769652deb885df58]: Commencement: Sch. 13 para. 73 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-c9c3357a1bdd12fca10aa02b6bed6f8b]: Commencement: Sch. 13 para. 74 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-c9c3357a1bdd12fca10aa02b6bed6f8b]: Commencement: Sch. 13 para. 74 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-c7a134c47c755376760b779016929a7a]: Commencement: Sch. 13 para. 75 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-c7a134c47c755376760b779016929a7a]: Commencement: Sch. 13 para. 75 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-cbfb49bb32176f1537033e49f54d2bd1]: Commencement: Sch. 13 para. 76 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-cbfb49bb32176f1537033e49f54d2bd1]: Commencement: Sch. 13 para. 76 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-acd9faa949b7d757d43df683aba1b9db]: Commencement: Sch. 13 para. 77 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-acd9faa949b7d757d43df683aba1b9db]: Commencement: Sch. 13 para. 77 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-a4ef31eb4ff4fd0f65e81c28952038a2]: Commencement: Sch. 13 para. 78 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-a4ef31eb4ff4fd0f65e81c28952038a2]: Commencement: Sch. 13 para. 78 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-e6272015c21d1165d196a982ac31054e]: Commencement: Sch. 13 para. 79 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-e6272015c21d1165d196a982ac31054e]: Commencement: Sch. 13 para. 79 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-ab77db52505efa2093703f803ed3b39f]: Commencement: Sch. 13 para. 80 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-ab77db52505efa2093703f803ed3b39f]: Commencement: Sch. 13 para. 80 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-4e8e9e66f6fe6754b40a9902984b1bbb]: Commencement: Sch. 13 para. 81 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-4e8e9e66f6fe6754b40a9902984b1bbb]: Commencement: Sch. 13 para. 81 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-e5a5ae5159e7c116b73424f834924b73]: Textual amendment: [Sch. 13 Pt. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/part/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 81](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/81); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-e5a5ae5159e7c116b73424f834924b73]: Textual amendment: [Sch. 13 Pt. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/part/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 81](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/81); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-2ea3a33ccae75e061bec77fd3bf393cd]: Commencement: Sch. 13 para. 83 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-2ea3a33ccae75e061bec77fd3bf393cd]: Commencement: Sch. 13 para. 83 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-8d592f93578f46658dea8f90c9698e6c]: Commencement: Sch. 13 para. 84 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-8d592f93578f46658dea8f90c9698e6c]: Commencement: Sch. 13 para. 84 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-afdf38f2b1d23a5aac761092fba23673]: Commencement: Sch. 13 para. 85 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-afdf38f2b1d23a5aac761092fba23673]: Commencement: Sch. 13 para. 85 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-3d33ffeb05e6ac2f39c9f5a723753db3]: Commencement: Sch. 13 para. 86 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-3d33ffeb05e6ac2f39c9f5a723753db3]: Commencement: Sch. 13 para. 86 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-d83e4aef0703090c0484b7eca26049af]: Commencement: Sch. 13 para. 87 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-d83e4aef0703090c0484b7eca26049af]: Commencement: Sch. 13 para. 87 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-afac235eedab140c2d0e8e3db34e6f80]: Commencement: Sch. 13 para. 88 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-afac235eedab140c2d0e8e3db34e6f80]: Commencement: Sch. 13 para. 88 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
 
-[^key-0499ddf5e540426187e129150d804bb0]: Commencement: Sch. 13 para. 89 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)
+[^c-0499ddf5e540426187e129150d804bb0]: Commencement: Sch. 13 para. 89 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/g)

@@ -36,72 +36,72 @@ on the application of Article 81(3) of the Treaty to certain categories of agree
 
 (Text with EEA relevance) (revoked)
 
-[^key-c085159dd946dd9e0d445ce89e79b9a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c085159dd946dd9e0d445ce89e79b9a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — EXEMPTION AND DEFINITIONS[^key-c085159dd946dd9e0d445ce89e79b9a3]
+## CHAPTER I — EXEMPTION AND DEFINITIONS[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
-### Article 1. Exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 1. Exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — JOINT CALCULATIONS, TABLES, AND STUDIES[^key-c085159dd946dd9e0d445ce89e79b9a3]
-
-### Article 3. Conditions for exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 2. Definitions[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Agreements not covered by the exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
+## CHAPTER II — JOINT CALCULATIONS, TABLES, AND STUDIES[^c-c085159dd946dd9e0d445ce89e79b9a3]
+
+### Article 3. Conditions for exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — STANDARD POLICY CONDITIONS AND MODELS[^key-c085159dd946dd9e0d445ce89e79b9a3]
-
-### Article 5. Conditions for exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 4. Agreements not covered by the exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Agreements not covered by the exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
+## CHAPTER III — STANDARD POLICY CONDITIONS AND MODELS[^c-c085159dd946dd9e0d445ce89e79b9a3]
+
+### Article 5. Conditions for exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — COMMON COVERAGE OF CERTAIN TYPES OF RISKS[^key-c085159dd946dd9e0d445ce89e79b9a3]
-
-### Article 7. Application of exemption and market share thresholds[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 6. Agreements not covered by the exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Conditions for exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
+## CHAPTER IV — COMMON COVERAGE OF CERTAIN TYPES OF RISKS[^c-c085159dd946dd9e0d445ce89e79b9a3]
+
+### Article 7. Application of exemption and market share thresholds[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — SECURITY DEVICES[^key-c085159dd946dd9e0d445ce89e79b9a3]
-
-### Article 9. Conditions for exemption[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 8. Conditions for exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — MISCELLANEOUS PROVISIONS[^key-c085159dd946dd9e0d445ce89e79b9a3]
+## CHAPTER V — SECURITY DEVICES[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
-### Article 10. Withdrawal[^key-c085159dd946dd9e0d445ce89e79b9a3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 11. Transitional period[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 9. Conditions for exemption[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11a.**[^key-c085159dd946dd9e0d445ce89e79b9a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## CHAPTER VI — MISCELLANEOUS PROVISIONS[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
-### Article 12. Period of validity[^key-c085159dd946dd9e0d445ce89e79b9a3]
+### Article 10. Withdrawal[^c-c085159dd946dd9e0d445ce89e79b9a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c085159dd946dd9e0d445ce89e79b9a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 11. Transitional period[^c-c085159dd946dd9e0d445ce89e79b9a3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 11a.**[^c-c085159dd946dd9e0d445ce89e79b9a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 12. Period of validity[^c-c085159dd946dd9e0d445ce89e79b9a3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c085159dd946dd9e0d445ce89e79b9a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c085159dd946dd9e0d445ce89e79b9a3]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c085159dd946dd9e0d445ce89e79b9a3]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

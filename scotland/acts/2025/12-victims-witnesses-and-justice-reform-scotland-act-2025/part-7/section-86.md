@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Clerk of the Sexual Offences Court[^key-8b6c1e5cd26fb546578345143817a27e]
+## 86. Clerk of the Sexual Offences Court[^c-8b6c1e5cd26fb546578345143817a27e]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ as the Scottish Courts and Tribunals Service may determine.
 
 ## Annotations
 
-[^key-8b6c1e5cd26fb546578345143817a27e]: Commencement: S. 86 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-8b6c1e5cd26fb546578345143817a27e]: Commencement: S. 86 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

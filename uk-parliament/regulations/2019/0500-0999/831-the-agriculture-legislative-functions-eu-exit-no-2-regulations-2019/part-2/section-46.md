@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46.[^key-c4fd32778f4409be03e2ec8681e130c8]
+## 46.[^c-c4fd32778f4409be03e2ec8681e130c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In Article 1, in the second subparagraph [^c23706631], after point (b) insert—
 
 ## Annotations
 
-[^key-c4fd32778f4409be03e2ec8681e130c8]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-c4fd32778f4409be03e2ec8681e130c8]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
 [^c23706631]: Marginal citation: The Common Organisation of Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821) insert a second subparagraph into Article 1.

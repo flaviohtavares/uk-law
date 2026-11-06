@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Deemed marine licence[^key-20ea96fc893016c6e3e55b0037e7bb7f]
+## 56. Deemed marine licence[^c-20ea96fc893016c6e3e55b0037e7bb7f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker is deemed to have been granted a marine licence under Part 4 (mar
 
 ## Annotations
 
-[^key-20ea96fc893016c6e3e55b0037e7bb7f]: Commencement: Art. 56 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-20ea96fc893016c6e3e55b0037e7bb7f]: Commencement: Art. 56 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

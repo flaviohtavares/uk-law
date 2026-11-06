@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Transfer of restricted technology[^key-916a1cd9df5de3fad03abd4c6ba07e6e]
+## 31. Transfer of restricted technology[^c-916a1cd9df5de3fad03abd4c6ba07e6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-916a1cd9df5de3fad03abd4c6ba07e6e]: Commencement: Reg. 31 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-916a1cd9df5de3fad03abd4c6ba07e6e]: Commencement: Reg. 31 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

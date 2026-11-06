@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 94. Accessing accounts in the Registry[^key-1da1d9a97de2d151b638f34cb14a7710]
+## Article 94. Accessing accounts in the Registry[^c-1da1d9a97de2d151b638f34cb14a7710]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If the security of the credentials of an authorised representative has been comp
 
 ## Annotations
 
-[^key-1da1d9a97de2d151b638f34cb14a7710]: Textual amendment: [Art. 94](https://www.legislation.gov.uk/eur/2013/389/article/94) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/5)
+[^c-1da1d9a97de2d151b638f34cb14a7710]: Textual amendment: [Art. 94](https://www.legislation.gov.uk/eur/2013/389/article/94) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/5)

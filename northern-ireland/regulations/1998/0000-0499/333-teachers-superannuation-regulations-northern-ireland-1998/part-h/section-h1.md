@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H1. Modified application in case of employment at reduced salary[^key-4e09db43c91e891e8fe82970ef93508e]
+## H1. Modified application in case of employment at reduced salary[^c-4e09db43c91e891e8fe82970ef93508e]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ these Regulations have effect in relation to him with the modifications set out 
 
 ## Annotations
 
-[^key-4e09db43c91e891e8fe82970ef93508e]: Commencement: Reg. H1 in operation at 2.11.1998, see reg. A1
+[^c-4e09db43c91e891e8fe82970ef93508e]: Commencement: Reg. H1 in operation at 2.11.1998, see reg. A1

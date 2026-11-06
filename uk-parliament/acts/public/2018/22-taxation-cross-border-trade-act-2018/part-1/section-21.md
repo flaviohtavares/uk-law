@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Customs agents[^c23439211][^key-7dddd46a1b66a1b7f138f5d549ca317e][^key-9c71f267179e163891797bdd5c68a049][^key-88fc681a43dfe161e68140d4adc68b99]
+## 21. Customs agents[^c23439211][^c-7dddd46a1b66a1b7f138f5d549ca317e][^c-9c71f267179e163891797bdd5c68a049][^c-88fc681a43dfe161e68140d4adc68b99]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-867da4c14d5ef2c157623ea4c9431413] A person (“**the principal**”) may appoint any other person (a “Customs agent”) to act on the principal's behalf for the purposes of this Part, and—
+(1)[^c-867da4c14d5ef2c157623ea4c9431413] A person (“**the principal**”) may appoint any other person (a “Customs agent”) to act on the principal's behalf for the purposes of this Part, and—
 
 - (a) the agent may make Customs declarations in the name of the principal (and in that case the agent acts as a “direct agent”), or
 - (b) the agent may make Customs declarations in the agent's own name (and in that case the agent acts as an “indirect agent”).
 
-(2)[^key-867da4c14d5ef2c157623ea4c9431413] The appointment of a person as a Customs agent, and the withdrawal of an appointment of a person as a Customs agent, must be disclosed to HMRC in accordance with regulations made by HMRC Commissioners.
+(2)[^c-867da4c14d5ef2c157623ea4c9431413] The appointment of a person as a Customs agent, and the withdrawal of an appointment of a person as a Customs agent, must be disclosed to HMRC in accordance with regulations made by HMRC Commissioners.
 
-(3)[^key-867da4c14d5ef2c157623ea4c9431413] The effect of an appointment of a person as a Customs agent is that anything done under, or otherwise for the purposes of, this Part by, or in relation to, the agent is regarded as done under, or otherwise for the purposes of, this Part by, or in relation to, the principal (and not by the agent).
+(3)[^c-867da4c14d5ef2c157623ea4c9431413] The effect of an appointment of a person as a Customs agent is that anything done under, or otherwise for the purposes of, this Part by, or in relation to, the agent is regarded as done under, or otherwise for the purposes of, this Part by, or in relation to, the principal (and not by the agent).
 
-(4)[^key-867da4c14d5ef2c157623ea4c9431413] There is an exception to this rule if a Customs agent acts as an indirect agent (and see also section 37(8)(b)).
+(4)[^c-867da4c14d5ef2c157623ea4c9431413] There is an exception to this rule if a Customs agent acts as an indirect agent (and see also section 37(8)(b)).
 
 (5) In that case, the indirect agent is liable to import duty in accordance with section 6(1) (and the principal is also liable to import duty in accordance with section 6(3)(a)).
 
@@ -51,10 +51,10 @@ summary: ''
 
 [^c23439211]: Commencement: S. 21 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-7dddd46a1b66a1b7f138f5d549ca317e]: Commencement: S. 21 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7dddd46a1b66a1b7f138f5d549ca317e]: Commencement: S. 21 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-9c71f267179e163891797bdd5c68a049]: Modification: S. 21 applied in part (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2020/1605/regulation/20); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9c71f267179e163891797bdd5c68a049]: Modification: S. 21 applied in part (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2020/1605/regulation/20); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-88fc681a43dfe161e68140d4adc68b99]: Modification: S. 21 applied in part (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2020/1605/regulation/27); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-88fc681a43dfe161e68140d4adc68b99]: Modification: S. 21 applied in part (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2020/1605/regulation/27); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-867da4c14d5ef2c157623ea4c9431413]: Modification: S. 21(1)-(4) applied (with modifications) (31.12.2020) by [The Customs (Export) (EU Exit) Regulations 2019 (S.I. 2019/108)](https://www.legislation.gov.uk/uksi/2019/108), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2019/108/regulation/1/5), [55(1)](https://www.legislation.gov.uk/uksi/2019/108/regulation/55/1) (with [reg. 64](https://www.legislation.gov.uk/uksi/2019/108/regulation/64)) (as amended by [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 13(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/13/3)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-867da4c14d5ef2c157623ea4c9431413]: Modification: S. 21(1)-(4) applied (with modifications) (31.12.2020) by [The Customs (Export) (EU Exit) Regulations 2019 (S.I. 2019/108)](https://www.legislation.gov.uk/uksi/2019/108), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2019/108/regulation/1/5), [55(1)](https://www.legislation.gov.uk/uksi/2019/108/regulation/55/1) (with [reg. 64](https://www.legislation.gov.uk/uksi/2019/108/regulation/64)) (as amended by [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 13(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/13/3)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

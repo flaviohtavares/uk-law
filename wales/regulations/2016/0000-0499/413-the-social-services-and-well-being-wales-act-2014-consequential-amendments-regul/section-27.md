@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**27.**[^key-9dc7910c075f1e0a87ee9ccd9867f731] In section 2 (provision of welfare services) omit subsection (1).
+**27.**[^c-9dc7910c075f1e0a87ee9ccd9867f731] In section 2 (provision of welfare services) omit subsection (1).
 
 ## Annotations
 
-[^key-9dc7910c075f1e0a87ee9ccd9867f731]: Commencement: Reg. 27 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-9dc7910c075f1e0a87ee9ccd9867f731]: Commencement: Reg. 27 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

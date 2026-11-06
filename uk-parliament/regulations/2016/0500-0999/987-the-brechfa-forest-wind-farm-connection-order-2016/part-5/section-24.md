@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Extinguishment of private rights and restrictive covenants relating to Western Power Distribution (South Wales) Plc’s apparatus removed from land subject to temporary possession[^key-5efa56c8ef743a4b2cb745e02487ec2a]
+## 24. Extinguishment of private rights and restrictive covenants relating to Western Power Distribution (South Wales) Plc’s apparatus removed from land subject to temporary possession[^c-5efa56c8ef743a4b2cb745e02487ec2a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5efa56c8ef743a4b2cb745e02487ec2a]: Commencement: Art. 24 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-5efa56c8ef743a4b2cb745e02487ec2a]: Commencement: Art. 24 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

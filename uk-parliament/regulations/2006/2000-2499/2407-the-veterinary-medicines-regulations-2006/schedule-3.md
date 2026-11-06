@@ -130,7 +130,7 @@ Use of sheep dip
 
 ### PART 1 — Classification and supply of authorised veterinary medicinal products
 
-#### 1. Classification of veterinary medicinal products[^key-70475377a278f8ae59005d065110964c]
+#### 1. Classification of veterinary medicinal products[^c-70475377a278f8ae59005d065110964c]
 
 (1) There shall be the following categories of authorised veterinary medicinal products—
 
@@ -158,7 +158,7 @@ Use of sheep dip
 - (c) products that may cause effects that impede or interfere with subsequent diagnostic or therapeutic measures; and
 - (d) new veterinary medicinal products containing an active substance that has not been included in an authorised veterinary medicinal product for five years.
 
-#### 2. Wholesale supply of veterinary medicinal products[^key-6981ef0ffa57733e1edc93450b45281a]
+#### 2. Wholesale supply of veterinary medicinal products[^c-6981ef0ffa57733e1edc93450b45281a]
 
 (1) Only a holder of a marketing authorisation, the holder of a manufacturing authorisation or the holder of a wholesale dealer’s authorisation granted by the Secretary of State may supply a veterinary medicinal product wholesale, or be in possession of it for that purpose.
 
@@ -172,7 +172,7 @@ Use of sheep dip
 
 (6) It is an offence to fail to comply with this paragraph.
 
-#### 3. Retail supply of veterinary medicinal products[^key-a83f5972305cfac14697a4c20772e866]
+#### 3. Retail supply of veterinary medicinal products[^c-a83f5972305cfac14697a4c20772e866]
 
 (1) This paragraph applies in relation to retail supply of veterinary medicinal products.
 
@@ -201,11 +201,11 @@ and must be in accordance with a prescription from one of those persons.
 
 (7) It is an offence to fail to comply with this paragraph.
 
-#### 4. Prescriptions by a veterinary surgeon[^key-e80476af66fd424702a596f8a4f2eff9]
+#### 4. Prescriptions by a veterinary surgeon[^c-e80476af66fd424702a596f8a4f2eff9]
 
 A veterinary surgeon who prescribes a veterinary medicinal product classified as POM-V must first carry out a clinical assessment of the animal, and the animal must be under his care, and failure to do so is an offence.
 
-#### 5. Prescriptions[^key-1d82c3e12aea0f2ba781e9bc4b4345fd]
+#### 5. Prescriptions[^c-1d82c3e12aea0f2ba781e9bc4b4345fd]
 
 (1) A prescription may be oral or written, but a veterinary medicinal product classified as POM-V or POM-VPS may only be supplied—
 
@@ -220,7 +220,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 6. Written prescriptions[^key-4eb178ee05bf2c65ba48eb95631e89b4]
+#### 6. Written prescriptions[^c-4eb178ee05bf2c65ba48eb95631e89b4]
 
 (1) A written prescription must include—
 
@@ -242,7 +242,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (4) If the prescription is a repeatable prescription that does not specify the number of times the product may be supplied, the prescription may only be repeated once.
 
-#### 7. Duties when a product is prescribed or supplied[^key-ba79c4f577f8be8158a3d10cf055d82b]
+#### 7. Duties when a product is prescribed or supplied[^c-ba79c4f577f8be8158a3d10cf055d82b]
 
 (1) When a person prescribes a product classified as POM-V or POM-VPS, or supplies a product classified as NFA-VPS—
 
@@ -255,7 +255,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 8. Supply by a pharmacist[^key-672facba7de5a4e429423ccc3b094fdf]
+#### 8. Supply by a pharmacist[^c-672facba7de5a4e429423ccc3b094fdf]
 
 (1) A pharmacist may only supply a veterinary medicinal product classified as POM-V, POM-VPS or NFA-VPS from premises registered as a pharmacy with the Royal Pharmaceutical Society of Great Britain or with the Pharmaceutical Society of Northern Ireland, or (in the case of a veterinary medicinal product classified as POM-VPS or NFA-VPS) from premises registered under paragraph 13.
 
@@ -263,7 +263,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 9. Supply by a veterinary surgeon when he is not present[^key-b9fa643c69581140bfa85a61d990c562]
+#### 9. Supply by a veterinary surgeon when he is not present[^c-b9fa643c69581140bfa85a61d990c562]
 
 (1) A veterinary surgeon supplying a veterinary medicinal product need not be present when it is handed over, but if he is not present—
 
@@ -272,7 +272,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (2) It is an offence to fail to comply with this paragraph.
 
-#### 10. Supply of products for incorporation into feedingstuffs[^key-315a86f0a92eaa3729427448c2a42c3c]
+#### 10. Supply of products for incorporation into feedingstuffs[^c-315a86f0a92eaa3729427448c2a42c3c]
 
 (1) In the case of a veterinary medicinal product where the marketing authorisation specifies that it must be incorporated into feedingstuffs, the marketing authorisation holder, an authorised manufacturer of that product or an authorised wholesale dealer may supply it to—
 
@@ -285,7 +285,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (4) It is an offence to fail to comply with this paragraph.
 
-#### 11. Labelling at the time of retail supply[^key-fd54c6cd2d509636d0370483965127d4]
+#### 11. Labelling at the time of retail supply[^c-fd54c6cd2d509636d0370483965127d4]
 
 (1) If a veterinary medicinal product is supplied in a container specified in the marketing authorisation, it is an offence to supply it if any information on the outer packaging (or, if there is no outer packaging, the immediate packaging) is not clearly visible at the time of supply or has been changed in any way.
 
@@ -293,7 +293,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (3) If a veterinary medicinal product is supplied in a container other than that specified in the marketing authorisation, the person supplying the veterinary medicinal product must supply sufficient written information (which may include a copy of the summary of product characteristics or the package leaflet) to enable the product to be used safely, and failure to do so is an offence.
 
-#### 12. Supply of veterinary medicinal products for use under the cascade[^key-b00b2beda8173f2db7bf949bcced9811]
+#### 12. Supply of veterinary medicinal products for use under the cascade[^c-b00b2beda8173f2db7bf949bcced9811]
 
 (1) A veterinary medicinal product supplied for administration under the cascade may only be supplied in accordance with a prescription from a veterinary surgeon.
 
@@ -312,7 +312,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (3) It is an offence to fail to comply with this paragraph.
 
-#### 13. Supply by a suitably qualified person[^key-da3c1e57c4403b07923ae7fdfff04b98]
+#### 13. Supply by a suitably qualified person[^c-da3c1e57c4403b07923ae7fdfff04b98]
 
 (1) The Secretary of State shall recognise bodies that are suitable to maintain a register for suitably qualified persons to prescribe and supply veterinary medicinal products classified as POM-VPS and NFA-VPS.
 
@@ -344,7 +344,7 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 (9) The procedure for the suspension or revocation of the authorisation of the premises is the same as for the holder of a manufacturing authorisation.
 
-#### 14. Annual audit[^key-b603b544b16a2e62edf3c84ed5864769]
+#### 14. Annual audit[^c-b603b544b16a2e62edf3c84ed5864769]
 
 (1) At least once a year every person entitled to supply a veterinary medicinal product on prescription must carry out a detailed audit, and incoming and outgoing veterinary medicinal products shall be reconciled with products currently held in stock, any discrepancies being recorded.
 
@@ -352,15 +352,15 @@ A veterinary surgeon who prescribes a veterinary medicinal product classified as
 
 ### PART 2 — Requirements for a wholesale dealer’s authorisation
 
-#### 15. Application[^key-87e52e43be6e420bde28ba76cb7bdc87]
+#### 15. Application[^c-87e52e43be6e420bde28ba76cb7bdc87]
 
 An application for a wholesale dealer’s authorisation shall be made to the Secretary of State.
 
-#### 16. Time limits[^key-3f50a10263290a66a31f1e17d83009f2]
+#### 16. Time limits[^c-3f50a10263290a66a31f1e17d83009f2]
 
 The Secretary of State shall process an application for a wholesale dealer’s authorisation within 90 days of receiving it.
 
-#### 17. Granting the authorisation[^key-e544545524ab15d4aa937a82ff01ecd2]
+#### 17. Granting the authorisation[^c-e544545524ab15d4aa937a82ff01ecd2]
 
 (1) The Secretary of State shall grant a wholesale dealer’s authorisation if he is satisfied that this paragraph is complied with.
 
@@ -378,7 +378,7 @@ The Secretary of State shall process an application for a wholesale dealer’s a
 - (a) have at his disposal the services of technically competent staff; and
 - (b) have an effective emergency recall plan.
 
-#### 18. The authorisation[^key-c16f4fdb22a68101ccee4242cd417ac8]
+#### 18. The authorisation[^c-c16f4fdb22a68101ccee4242cd417ac8]
 
 (1) The wholesale dealer’s authorisation shall specify—
 
@@ -392,14 +392,14 @@ The Secretary of State shall process an application for a wholesale dealer’s a
 
 (3) It shall lapse if the holder does not deal in veterinary medicinal products for five years.
 
-#### 19. Suspension or revocation of the authorisation[^key-bae9f40f0a19f67eed7aa490afe8023e]
+#### 19. Suspension or revocation of the authorisation[^c-bae9f40f0a19f67eed7aa490afe8023e]
 
 The Secretary of State may suspend or revoke a wholesale dealer’s authorisation if the holder—
 
 - (a) has not complied with these Regulations; or
 - (b) no longer has suitable premises or equipment.
 
-#### 20. Representations[^key-2839b3b95605140e2d020f75d11fd239]
+#### 20. Representations[^c-2839b3b95605140e2d020f75d11fd239]
 
 (1) A person may make representations against a refusal, suspension or revocation of a wholesale dealer’s authorisation to a person appointed for the purpose by the Secretary of State.
 
@@ -407,7 +407,7 @@ The Secretary of State may suspend or revoke a wholesale dealer’s authorisatio
 
 (3) The Secretary of State shall give written notification of his final determination and the reasons for it.
 
-#### 21. Duties on the holder of a wholesale dealer’s authorisation[^key-26fa3942b8839ca197db760956b6894b]
+#### 21. Duties on the holder of a wholesale dealer’s authorisation[^c-26fa3942b8839ca197db760956b6894b]
 
 (1) The holder of a wholesale dealer’s authorisation must store veterinary medicinal products in accordance with the terms of the marketing authorisation for each product.
 
@@ -423,7 +423,7 @@ The Secretary of State may suspend or revoke a wholesale dealer’s authorisatio
 
 ### PART 3 — Sheep dip
 
-#### 22. Supply of sheep dip[^key-203390c1cd3104205e838a3e5632e4b1]
+#### 22. Supply of sheep dip[^c-203390c1cd3104205e838a3e5632e4b1]
 
 (1) If the veterinary medicinal product is a sheep dip of any type the provisions of this paragraph apply, and it is an offence to supply the product by retail other than in accordance with this paragraph.
 
@@ -443,7 +443,7 @@ The Secretary of State may suspend or revoke a wholesale dealer’s authorisatio
 
 [image: see source](https://www.legislation.gov.uk/uksi/2006/2407/images/uksi_20062407_en_001) [image: see source](https://www.legislation.gov.uk/uksi/2006/2407/images/uksi_20062407_en_002)
 
-#### 23. Use of sheep dip[^key-287267c98a7343db5938f063d22e7f3c]
+#### 23. Use of sheep dip[^c-287267c98a7343db5938f063d22e7f3c]
 
 (1) It is an offence to use sheep dip unless this is done by, or under the supervision and in the presence of, a person who holds a Certificate of Competence in the Safe Use of Sheep Dips showing that Parts 1 and 2 or units 1 and 2 of the assessment referred to in the Certificate have been satisfactorily completed and issued by—
 
@@ -454,52 +454,52 @@ The Secretary of State may suspend or revoke a wholesale dealer’s authorisatio
 
 ## Annotations
 
-[^key-70475377a278f8ae59005d065110964c]: Commencement: Sch. 3 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-70475377a278f8ae59005d065110964c]: Commencement: Sch. 3 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6981ef0ffa57733e1edc93450b45281a]: Commencement: Sch. 3 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6981ef0ffa57733e1edc93450b45281a]: Commencement: Sch. 3 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a83f5972305cfac14697a4c20772e866]: Commencement: Sch. 3 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a83f5972305cfac14697a4c20772e866]: Commencement: Sch. 3 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e80476af66fd424702a596f8a4f2eff9]: Commencement: Sch. 3 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e80476af66fd424702a596f8a4f2eff9]: Commencement: Sch. 3 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1d82c3e12aea0f2ba781e9bc4b4345fd]: Commencement: Sch. 3 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1d82c3e12aea0f2ba781e9bc4b4345fd]: Commencement: Sch. 3 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-4eb178ee05bf2c65ba48eb95631e89b4]: Commencement: Sch. 3 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-4eb178ee05bf2c65ba48eb95631e89b4]: Commencement: Sch. 3 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00026]: Footnote: [S. I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998); relevant amending instruments are S.I. [2003/1432](https://www.legislation.gov.uk/uksi/2003/1432) and [2005/1653](https://www.legislation.gov.uk/uksi/2005/1653).
 
-[^key-ba79c4f577f8be8158a3d10cf055d82b]: Commencement: Sch. 3 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ba79c4f577f8be8158a3d10cf055d82b]: Commencement: Sch. 3 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-672facba7de5a4e429423ccc3b094fdf]: Commencement: Sch. 3 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-672facba7de5a4e429423ccc3b094fdf]: Commencement: Sch. 3 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b9fa643c69581140bfa85a61d990c562]: Commencement: Sch. 3 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b9fa643c69581140bfa85a61d990c562]: Commencement: Sch. 3 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-315a86f0a92eaa3729427448c2a42c3c]: Commencement: Sch. 3 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-315a86f0a92eaa3729427448c2a42c3c]: Commencement: Sch. 3 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-fd54c6cd2d509636d0370483965127d4]: Commencement: Sch. 3 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fd54c6cd2d509636d0370483965127d4]: Commencement: Sch. 3 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b00b2beda8173f2db7bf949bcced9811]: Commencement: Sch. 3 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b00b2beda8173f2db7bf949bcced9811]: Commencement: Sch. 3 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-da3c1e57c4403b07923ae7fdfff04b98]: Commencement: Sch. 3 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-da3c1e57c4403b07923ae7fdfff04b98]: Commencement: Sch. 3 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-b603b544b16a2e62edf3c84ed5864769]: Commencement: Sch. 3 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b603b544b16a2e62edf3c84ed5864769]: Commencement: Sch. 3 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-87e52e43be6e420bde28ba76cb7bdc87]: Commencement: Sch. 3 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-87e52e43be6e420bde28ba76cb7bdc87]: Commencement: Sch. 3 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-3f50a10263290a66a31f1e17d83009f2]: Commencement: Sch. 3 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3f50a10263290a66a31f1e17d83009f2]: Commencement: Sch. 3 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e544545524ab15d4aa937a82ff01ecd2]: Commencement: Sch. 3 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e544545524ab15d4aa937a82ff01ecd2]: Commencement: Sch. 3 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-c16f4fdb22a68101ccee4242cd417ac8]: Commencement: Sch. 3 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-c16f4fdb22a68101ccee4242cd417ac8]: Commencement: Sch. 3 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-bae9f40f0a19f67eed7aa490afe8023e]: Commencement: Sch. 3 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bae9f40f0a19f67eed7aa490afe8023e]: Commencement: Sch. 3 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-2839b3b95605140e2d020f75d11fd239]: Commencement: Sch. 3 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-2839b3b95605140e2d020f75d11fd239]: Commencement: Sch. 3 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-26fa3942b8839ca197db760956b6894b]: Commencement: Sch. 3 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-26fa3942b8839ca197db760956b6894b]: Commencement: Sch. 3 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00027]: Footnote: OJ No. C 63, 1.3.94, p. 4.
 
-[^key-203390c1cd3104205e838a3e5632e4b1]: Commencement: Sch. 3 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-203390c1cd3104205e838a3e5632e4b1]: Commencement: Sch. 3 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-287267c98a7343db5938f063d22e7f3c]: Commencement: Sch. 3 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-287267c98a7343db5938f063d22e7f3c]: Commencement: Sch. 3 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

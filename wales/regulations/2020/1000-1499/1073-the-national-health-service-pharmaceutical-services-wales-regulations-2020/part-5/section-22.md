@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Applications involving a change of ownership[^key-1a882b94e7a95988a77b4cd52c7b639c]
+## 22. Applications involving a change of ownership[^c-1a882b94e7a95988a77b4cd52c7b639c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a882b94e7a95988a77b4cd52c7b639c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2020/1073/regulation/22) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-1a882b94e7a95988a77b4cd52c7b639c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2020/1073/regulation/22) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

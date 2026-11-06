@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Discharge of water[^key-735fa750c8ff82265334f6f7279f7b13]
+## 17. Discharge of water[^c-735fa750c8ff82265334f6f7279f7b13]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The promoter must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-e12fd67aecff47ee83cb21b94a3c731b].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-e12fd67aecff47ee83cb21b94a3c731b].
 
 (8) In this article—
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-735fa750c8ff82265334f6f7279f7b13]: Commencement: Art. 17 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-735fa750c8ff82265334f6f7279f7b13]: Commencement: Art. 17 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00015]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-e12fd67aecff47ee83cb21b94a3c731b]: Textual amendment: Words in [art. 17(7)](https://www.legislation.gov.uk/uksi/2013/3244/article/17/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 59](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/59) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e12fd67aecff47ee83cb21b94a3c731b]: Textual amendment: Words in [art. 17(7)](https://www.legislation.gov.uk/uksi/2013/3244/article/17/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 59](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/59) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00017]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).

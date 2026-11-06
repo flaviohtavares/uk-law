@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Fee for pharmacovigilance advice[^key-4133048ccd61ba6557e088f984167f97]
+## 7. Fee for pharmacovigilance advice[^c-4133048ccd61ba6557e088f984167f97]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4133048ccd61ba6557e088f984167f97]: Textual amendment: Reg. 7 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/317/regulation/7)
+[^c-4133048ccd61ba6557e088f984167f97]: Textual amendment: Reg. 7 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/317/regulation/7)

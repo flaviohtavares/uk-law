@@ -63,7 +63,7 @@ and references to sections and Schedules are references to sections of, and Sche
 
 ## 3. Savings
 
-(1) Notwithstanding the coming into force of section 39(3) (Part II of the Administration Act to cease to have effect), section 86(2) and Schedule 8 (repeals)[^key-4fc11a18dcec1a5822b9492bad2189b5]) or regulation 59 (revocations) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c1643878]—
+(1) Notwithstanding the coming into force of section 39(3) (Part II of the Administration Act to cease to have effect), section 86(2) and Schedule 8 (repeals)[^c-4fc11a18dcec1a5822b9492bad2189b5]) or regulation 59 (revocations) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 [^c1643878]—
 
 - (a) sections 18 and 19 of the Administration Act (appeals on questions of law, and review of decisions);
 - (b) sections 59 to 61 of, and Schedule 3 to, that Act (regulations about procedural and supplementary matters) as they relate to regulations made in relation to those sections; and
@@ -77,13 +77,13 @@ shall continue to have effect with respect to any decision given before 1st Apri
 
 (1) The amendments and modifications made by the following paragraphs of this article shall take effect on 5th July 1999.
 
-(2)[^key-4eedd990f2dee024f9c31a967e4925fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4eedd990f2dee024f9c31a967e4925fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Child Benefit (General) Regulations 1976 [^c1643880] shall be amended in accordance with Schedule 3 to this Order.
 
 (4) The Social Security (Claims and Payments) Regulations 1979 [^c1643881] shall be amended in accordance with Schedule 4 to this Order.
 
-(5)[^key-021ecd9c2b60bb78abd67115c578b1bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-021ecd9c2b60bb78abd67115c578b1bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The Workmen’s Compensation (Supplementation) Scheme 1982 [^c1643883] shall be amended in accordance with Schedule 6 to this Order.
 
@@ -91,13 +91,13 @@ shall continue to have effect with respect to any decision given before 1st Apri
 
 (8) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985 [^c1643885] shall be amended in accordance with Schedule 8 to this Order.
 
-(9)[^key-44f8954b0b7477d29a7f6ba31aaefa5e][^key-814cc98412a334d93e6fb2e99f30bbc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-44f8954b0b7477d29a7f6ba31aaefa5e][^c-814cc98412a334d93e6fb2e99f30bbc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-44f8954b0b7477d29a7f6ba31aaefa5e][^key-814cc98412a334d93e6fb2e99f30bbc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-44f8954b0b7477d29a7f6ba31aaefa5e][^c-814cc98412a334d93e6fb2e99f30bbc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-44f8954b0b7477d29a7f6ba31aaefa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-44f8954b0b7477d29a7f6ba31aaefa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-44f8954b0b7477d29a7f6ba31aaefa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-44f8954b0b7477d29a7f6ba31aaefa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Transitional provisions
 
@@ -163,15 +163,15 @@ Article 2
 
 Article 4(2)
 
-[^key-e688fb2d96a5b63f047cecefbd0f3985]...
+[^c-e688fb2d96a5b63f047cecefbd0f3985]...
 
 ## SCHEDULE 3 — AMENDMENT OF THE CHILD BENEFIT (GENERAL) REGULATIONS 1976
 
 Article 4(3)
 
-[^key-be6e0ab4ed6fd181207190eca50c7250] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be6e0ab4ed6fd181207190eca50c7250] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be6e0ab4ed6fd181207190eca50c7250] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be6e0ab4ed6fd181207190eca50c7250] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — AMENDMENT OF THE SOCIAL SECURITY (CLAIMS AND PAYMENTS) REGULATIONS 1979
 
@@ -187,21 +187,21 @@ Article 4(4)
 - (b) in paragraph (2) for the words from “to examination" to the end of the paragraph there shall be substituted the words “ to examination before the expiration of the period of 6 days beginning with the date of the notice or such shorter period as may be reasonable in the circumstances ”; and
 - (c) paragraph (4) shall be omitted.
 
-## SCHEDULE 5 — MODIFICATION OF THE SOCIAL SECURITY (GENERAL BENEFIT) REGULATIONS 1982[^key-c0b58373d63eafd170a953e19e514bc9]
+## SCHEDULE 5 — MODIFICATION OF THE SOCIAL SECURITY (GENERAL BENEFIT) REGULATIONS 1982[^c-c0b58373d63eafd170a953e19e514bc9]
 
 Article 4(5)
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0b58373d63eafd170a953e19e514bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0b58373d63eafd170a953e19e514bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0b58373d63eafd170a953e19e514bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0b58373d63eafd170a953e19e514bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0b58373d63eafd170a953e19e514bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0b58373d63eafd170a953e19e514bc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 6 — AMENDMENT OF THE WORKMEN’S COMPENSATION (SUPPLEMENTATION) SCHEME 1982
 
@@ -730,35 +730,35 @@ Article 4(8)
 
 Article 4(9)
 
-[^key-a8b731c5f7800a9c4ed7a09929898d13][^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8b731c5f7800a9c4ed7a09929898d13][^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 10 — MODIFICATION OF THE SOCIAL SECURITY (PAYMENTS ON ACCOUNT, OVERPAYMENTS AND RECOVERY) REGULATIONS 1988
 
 Article 4(10)
 
-[^key-a8b731c5f7800a9c4ed7a09929898d13][^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8b731c5f7800a9c4ed7a09929898d13][^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df63bef9ede42ea59c96ee67ba3f619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 11 — MODIFICATION OF THE SOCIAL SECURITY BENEFIT (DEPENDENCY) REGULATIONS 1977
 
 Article 4(11)
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b]...
+[^c-df63bef9ede42ea59c96ee67ba3f619b]...
 
 ## SCHEDULE 12 — TRANSITIONAL PROVISIONS
 
@@ -1019,17 +1019,17 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1643877]: Marginal citation: [1999 c.2](https://www.legislation.gov.uk/ukpga/1999/2).*See*[S.I. 1999/1662](https://www.legislation.gov.uk/uksi/1999/1662) (C.47).
 
-[^key-4fc11a18dcec1a5822b9492bad2189b5]: Textual amendment: Words in art. 3(1) inserted (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 2(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/2/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-4fc11a18dcec1a5822b9492bad2189b5]: Textual amendment: Words in art. 3(1) inserted (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 2(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/2/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c1643878]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
-[^key-4eedd990f2dee024f9c31a967e4925fd]: Textual amendment: Art. 4(2) revoked (7.4.2003) by [The Guardians Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [regs. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1)
+[^c-4eedd990f2dee024f9c31a967e4925fd]: Textual amendment: Art. 4(2) revoked (7.4.2003) by [The Guardians Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [regs. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1)
 
 [^c1643880]: Marginal citation: [S.I. 1976/965](https://www.legislation.gov.uk/uksi/1976/965); relevant amending instruments are [S.I. 1988/1227](https://www.legislation.gov.uk/uksi/1988/1227), 1996/2327, 2530 and 1998/563.
 
 [^c1643881]: Marginal citation: [S.I. 1979/628](https://www.legislation.gov.uk/uksi/1979/628); relevant amending instruments are [S.I. 1983/186](https://www.legislation.gov.uk/uksi/1983/186) and 1994/458.
 
-[^key-021ecd9c2b60bb78abd67115c578b1bd]: Textual amendment: Art. 4(5) revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-021ecd9c2b60bb78abd67115c578b1bd]: Textual amendment: Art. 4(5) revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c1643883]: Marginal citation: [S.I. 1982/1489](https://www.legislation.gov.uk/uksi/1982/1489); relevant amending instruments are [S.I. 1987/419](https://www.legislation.gov.uk/uksi/1987/419), 1990/2538, 1997/371, 1998/571 and 1999/720.
 
@@ -1037,9 +1037,9 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1643885]: Marginal citation: [S.I. 1985/967](https://www.legislation.gov.uk/uksi/1985/967), as amended by [S.I. 1986/1374](https://www.legislation.gov.uk/uksi/1986/1374), 1561, 1987/335, 2112, 1988/553, 1989/1207, 1990/2269, 1991/1938, 1993/861, 862, 1985, 1994/2343, 1996/425 and 1997/810.
 
-[^key-44f8954b0b7477d29a7f6ba31aaefa5e]: Textual amendment: Art. 4(9)-(12) revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-44f8954b0b7477d29a7f6ba31aaefa5e]: Textual amendment: Art. 4(9)-(12) revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
-[^key-814cc98412a334d93e6fb2e99f30bbc6]: Modification: Art. 4(9)(10) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-814cc98412a334d93e6fb2e99f30bbc6]: Modification: Art. 4(9)(10) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1643889]: Marginal citation: Sections 8 and 10 are amended by paragraphs 22 and 23 respectively of Schedule 7 to the Transfer Act.
 
@@ -1061,19 +1061,19 @@ The following provisions have been brought into force by the Social Security Act
 
 [^c1643903]: Marginal citation: Certain provisions of Schedule 7 are repealed by Schedule 10 to the Transfer Act.
 
-[^key-e688fb2d96a5b63f047cecefbd0f3985]: Textual amendment: Sch. 2 revoked (7.4.2003) by [The Guardians Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [regs. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1)
+[^c-e688fb2d96a5b63f047cecefbd0f3985]: Textual amendment: Sch. 2 revoked (7.4.2003) by [The Guardians Allowance (General) Regulations 2003 (S.I. 2003/495)](https://www.legislation.gov.uk/uksi/2003/495), [regs. 1](https://www.legislation.gov.uk/uksi/2003/495/regulation/1), [11](https://www.legislation.gov.uk/uksi/2003/495/regulation/11), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/495/schedule/part/1)
 
-[^key-be6e0ab4ed6fd181207190eca50c7250]: Textual amendment: Sch. 3 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
+[^c-be6e0ab4ed6fd181207190eca50c7250]: Textual amendment: Sch. 3 revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
 
 [^c1643904]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
-[^key-c0b58373d63eafd170a953e19e514bc9]: Textual amendment: Sch. 5 revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-c0b58373d63eafd170a953e19e514bc9]: Textual amendment: Sch. 5 revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c1643905]: Marginal citation: [S.I. 1999/1495](https://www.legislation.gov.uk/uksi/1999/1495).
 
-[^key-a8b731c5f7800a9c4ed7a09929898d13]: Modification: Sch. 9 Sch. 10 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-a8b731c5f7800a9c4ed7a09929898d13]: Modification: Sch. 9 Sch. 10 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-df63bef9ede42ea59c96ee67ba3f619b]: Textual amendment: Schs. 9-11 revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-df63bef9ede42ea59c96ee67ba3f619b]: Textual amendment: Schs. 9-11 revoked (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/a), [Sch. 20 para. 1(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/20/paragraph/1/a) (with [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1999/3178/regulation/3/1/b), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
 
 [^c1643906]: Marginal citation: [S.I. 1995/1801](https://www.legislation.gov.uk/uksi/1995/1801); regulations 3 and 10 have been amended by [S.I. 1996/182](https://www.legislation.gov.uk/uksi/1996/182) and 2450.
 

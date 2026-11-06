@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Regulator tasks[^key-839e881662911a4108e365aa835a32e9]
+## 11. Regulator tasks[^c-839e881662911a4108e365aa835a32e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-839e881662911a4108e365aa835a32e9]: Commencement: Art. 11 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-839e881662911a4108e365aa835a32e9]: Commencement: Art. 11 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

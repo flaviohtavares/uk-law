@@ -24,7 +24,7 @@ Section 292(1).
 
 ### Night Poaching Act 1828 (c. 69)
 
-**1.**[^key-92e5d3670f297a5f71bc78f036b470fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-92e5d3670f297a5f71bc78f036b470fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Meeting Act 1908 (c.66)
 
@@ -56,6 +56,6 @@ Section 292(1).
 
 ## Annotations
 
-[^key-92e5d3670f297a5f71bc78f036b470fc]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/ukpga/1995/46/schedule/10) repealed (2.7.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Consequential Modifications) Order 2012 (S.S.I. 2012/215)](https://www.legislation.gov.uk/ssi/2012/215), [reg. 1](https://www.legislation.gov.uk/ssi/2012/215/regulation/1), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2012/215/schedule/part/3)
+[^c-92e5d3670f297a5f71bc78f036b470fc]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/ukpga/1995/46/schedule/10) repealed (2.7.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Consequential Modifications) Order 2012 (S.S.I. 2012/215)](https://www.legislation.gov.uk/ssi/2012/215), [reg. 1](https://www.legislation.gov.uk/ssi/2012/215/regulation/1), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2012/215/schedule/part/3)
 
 [^c14477841]: Textual amendment: Sch. 10 para. 3 repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2)

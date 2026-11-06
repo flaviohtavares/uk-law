@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27C. Provisions relating to section 1(5) marriages.[^key-fc1b2746a051d5e172345b6f83e0a361][^key-c898f7a5800b3f42e0c6454cec446a45]
+## 27C. Provisions relating to section 1(5) marriages.[^c-fc1b2746a051d5e172345b6f83e0a361][^c-c898f7a5800b3f42e0c6454cec446a45]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc1b2746a051d5e172345b6f83e0a361]: Textual amendment: S. 27C repealed (1.3.2007) by [The Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2007/438/article/3/a/ii) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))
+[^c-fc1b2746a051d5e172345b6f83e0a361]: Textual amendment: S. 27C repealed (1.3.2007) by [The Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2007/438/article/3/a/ii) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))
 
-[^key-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-c898f7a5800b3f42e0c6454cec446a45]: Modification: Pt. 3 applied (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/2/a), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)

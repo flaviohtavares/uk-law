@@ -43,7 +43,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 15, 80, 104 and 203(9) and (10) of the National Health Service (Wales) Act 2006[^f00001], make the following Regulations.
 
-## 1. Title and coming into force[^key-fa41722551b6b8e0439efc282932dd68][^key-fa41722551b6b8e0439efc282932dd68]
+## 1. Title and coming into force[^c-fa41722551b6b8e0439efc282932dd68][^c-fa41722551b6b8e0439efc282932dd68]
 
 (1) The title of these Regulations is the National Health Service (Pharmaceutical Services) (Wales) (Miscellaneous Amendments) Regulations 2025.
 
@@ -51,7 +51,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 15,
 
 (3) Regulation 2 comes into force at 12:01 a.m. on 1 April 2025.
 
-## 2. Amendments to the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^key-dc656ce43b8a36f5dbecfe42bf6bb579]
+## 2. Amendments to the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^c-dc656ce43b8a36f5dbecfe42bf6bb579]
 
 (1) The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020[^f00002] are amended as follows.
 
@@ -81,7 +81,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 15,
   ;
 - (e) in Part 3, in paragraph 23(6B)[^f00006], for “paragraph” substitute “sub-paragraph”.
 
-## 3. Amendments to the National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024[^key-ae3cdcb0f01d552f6008cc844f709653][^key-ae3cdcb0f01d552f6008cc844f709653]
+## 3. Amendments to the National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024[^c-ae3cdcb0f01d552f6008cc844f709653][^c-ae3cdcb0f01d552f6008cc844f709653]
 
 (1) The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024[^f00007] are amended as follows.
 
@@ -117,9 +117,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-fa41722551b6b8e0439efc282932dd68]: Commencement: Reg. 1 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2)
+[^c-fa41722551b6b8e0439efc282932dd68]: Commencement: Reg. 1 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2)
 
-[^key-dc656ce43b8a36f5dbecfe42bf6bb579]: Commencement: Reg. 2 in force at 1.4.2025 at 12.01 a.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3)
+[^c-dc656ce43b8a36f5dbecfe42bf6bb579]: Commencement: Reg. 2 in force at 1.4.2025 at 12.01 a.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2020/1073 (W. 241)](https://www.legislation.gov.uk/wsi/2020/1073), amended by [S.I. 2024/1196 (W. 196)](https://www.legislation.gov.uk/wsi/2024/1196); there are other amending instruments, but none are relevant.
 
@@ -131,6 +131,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: Paragraph 23(6B) inserted by [S.I. 2024/1196 (W. 196)](https://www.legislation.gov.uk/wsi/2024/1196).
 
-[^key-ae3cdcb0f01d552f6008cc844f709653]: Commencement: Reg. 3 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2)
+[^c-ae3cdcb0f01d552f6008cc844f709653]: Commencement: Reg. 3 in force at 31.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/285/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2024/1196 (W. 196)](https://www.legislation.gov.uk/wsi/2024/1196).

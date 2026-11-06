@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Time orders.[^c2431881][^key-12f892c4c9eacd7da70ec0529dda59d0]
+## 129. Time orders.[^c2431881][^c-12f892c4c9eacd7da70ec0529dda59d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) on an application made by a debtor or hirer under this paragraph after service on him of—
   - (i) a default notice, or
   - (ii) a notice under section 76(1) or 98(1); or
-- (bza)[^key-c59af5f012580dc5fa5ded4580376d65] on an application made by a debtor under this paragraph after the creditor has informed the debtor of the creditor’s intention—
+- (bza)[^c-c59af5f012580dc5fa5ded4580376d65] on an application made by a debtor under this paragraph after the creditor has informed the debtor of the creditor’s intention—
   - (i) to enforce a term of a regulated deferred payment credit agreement by—
     - (aa) demanding earlier payment of any sum,
     - (bb) treating any right conferred on the debtor by the agreement as terminated, restricted or deferred, or
@@ -47,11 +47,11 @@ the court may make an order under this section (a “time order ”).
 
 [^c2431881]: Modification: S. 129 excluded (1.4.1999) by [S.I. 1997/687](https://www.legislation.gov.uk/uksi/1997/687), [art. 9(1)(a)(iv)](https://www.legislation.gov.uk/uksi/1997/687/article/9/1/a/iv) (as inserted (1.4.1999) by [S.I. 1999/754](https://www.legislation.gov.uk/uksi/1999/754), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/754/article/2/2))
 
-[^key-12f892c4c9eacd7da70ec0529dda59d0]: Modification: [Ss. 129-130](https://www.legislation.gov.uk/ukpga/1974/39/section/129) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-12f892c4c9eacd7da70ec0529dda59d0]: Modification: [Ss. 129-130](https://www.legislation.gov.uk/ukpga/1974/39/section/129) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c2431891]: Textual amendment: Words added (S.) by [Debtors (Scotland) Act 1987 (c. 18, SIF 45:2)](https://www.legislation.gov.uk/ukpga/1987/18), [ss. 108(1)](https://www.legislation.gov.uk/ukpga/1987/18/section/108/1) (2), 109(3), Sch. 6 para. 17(a), Sch. 7 para. 5
 
-[^key-c59af5f012580dc5fa5ded4580376d65]: Textual amendment: [S. 129(1)(bza)](https://www.legislation.gov.uk/ukpga/1974/39/section/129/1/bza) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(20)](https://www.legislation.gov.uk/uksi/2025/859/article/2/20)
+[^c-c59af5f012580dc5fa5ded4580376d65]: Textual amendment: [S. 129(1)(bza)](https://www.legislation.gov.uk/ukpga/1974/39/section/129/1/bza) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(20)](https://www.legislation.gov.uk/uksi/2025/859/article/2/20)
 
 [^c18853261]: Textual amendment: S. 129(1)(ba) inserted (1.10.2008) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {16(1)}, 71(2) (with Sch. 3 para. 12); [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Money laundering: miscellaneous amendments[^key-8bc1817b8e5ece8b0b245b113f952d06]
+## 106. Money laundering: miscellaneous amendments[^c-8bc1817b8e5ece8b0b245b113f952d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bc1817b8e5ece8b0b245b113f952d06]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2005/15/section/106) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)
+[^c-8bc1817b8e5ece8b0b245b113f952d06]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2005/15/section/106) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/c)

@@ -69,7 +69,7 @@ In accordance with section 17(4) and (5)(b) of the Limited Liability Partnership
 
 - [Section 8 — General interpretation](part-4/section-8.md)
 
-### PART 5 — REVIEW[^key-f87cac543ac981ca3709c3b06f6e42a4]
+### PART 5 — REVIEW[^c-f87cac543ac981ca3709c3b06f6e42a4]
 
 - [Section 9 — Review](part-5/section-9.md)
 
@@ -117,4 +117,4 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 [^c19348891]: Marginal citation: 2000 c 12.
 
-[^key-f87cac543ac981ca3709c3b06f6e42a4]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2008/1912/part/5) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [46](https://www.legislation.gov.uk/uksi/2016/575/regulation/46)
+[^c-f87cac543ac981ca3709c3b06f6e42a4]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2008/1912/part/5) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [46](https://www.legislation.gov.uk/uksi/2016/575/regulation/46)

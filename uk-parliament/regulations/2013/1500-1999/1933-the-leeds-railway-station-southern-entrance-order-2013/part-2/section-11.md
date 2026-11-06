@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Construction and maintenance of new or altered streets[^key-049b4a9f104b33d73ad88507d5912ea2]
+## 11. Construction and maintenance of new or altered streets[^c-049b4a9f104b33d73ad88507d5912ea2]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ but for the purposes of such a defence it is not relevant to prove that the prom
 
 ## Annotations
 
-[^key-049b4a9f104b33d73ad88507d5912ea2]: Commencement: Art. 11 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-049b4a9f104b33d73ad88507d5912ea2]: Commencement: Art. 11 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

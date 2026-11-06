@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5A — FEES FOR THE MANOEUVRES TEST AND THE PRACTICAL TEST FOR VEHICLES OF CATEGORY AM or A[^key-91295f65e48c4073b64855da48fe6bf6][^key-d5314a8666132d4120229abdf3171b52]
+## SCHEDULE 5A — FEES FOR THE MANOEUVRES TEST AND THE PRACTICAL TEST FOR VEHICLES OF CATEGORY AM or A[^c-91295f65e48c4073b64855da48fe6bf6][^c-d5314a8666132d4120229abdf3171b52]
 
 *Extent: E+W+S*
 
 Regulation 35
 
-### PART 1 — TESTS CONDUCTED BEFORE 5TH OCTOBER 2009[^key-413865092502d52bd460589d54e95625]
+### PART 1 — TESTS CONDUCTED BEFORE 5TH OCTOBER 2009[^c-413865092502d52bd460589d54e95625]
 
 <table>
 <thead>
@@ -35,9 +35,9 @@ Regulation 35
 </tbody>
 </table>
 
-[^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625][^key-413865092502d52bd460589d54e95625]
+[^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625][^c-413865092502d52bd460589d54e95625]
 
-### PART 2 — ...[^key-08147cc2465b3af39a82798c8368c441]
+### PART 2 — ...[^c-08147cc2465b3af39a82798c8368c441]
 
 <table>
 <thead>
@@ -50,16 +50,16 @@ Regulation 35
 </tbody>
 </table>
 
-[^key-01fd3626157bc4bf1f675289cb672834]
+[^c-01fd3626157bc4bf1f675289cb672834]
 
 ## Annotations
 
-[^key-91295f65e48c4073b64855da48fe6bf6]: Textual amendment: Schs. 5, 5A substituted for Sch. 5 (30.3.2009) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2009 (S.I. 2009/788)](https://www.legislation.gov.uk/uksi/2009/788), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/788/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/788/schedule/1) (with [reg. 33](https://www.legislation.gov.uk/uksi/2009/788/regulation/33))
+[^c-91295f65e48c4073b64855da48fe6bf6]: Textual amendment: Schs. 5, 5A substituted for Sch. 5 (30.3.2009) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2009 (S.I. 2009/788)](https://www.legislation.gov.uk/uksi/2009/788), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/788/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/788/schedule/1) (with [reg. 33](https://www.legislation.gov.uk/uksi/2009/788/regulation/33))
 
-[^key-d5314a8666132d4120229abdf3171b52]: Textual amendment: Words in Sch. 5A heading substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/a)
+[^c-d5314a8666132d4120229abdf3171b52]: Textual amendment: Words in Sch. 5A heading substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/a)
 
-[^key-413865092502d52bd460589d54e95625]: Textual amendment: Sch. 5A Pt. 1 omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/b)
+[^c-413865092502d52bd460589d54e95625]: Textual amendment: Sch. 5A Pt. 1 omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(b)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/b)
 
-[^key-08147cc2465b3af39a82798c8368c441]: Textual amendment: [Sch. 5A Pt. 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5A) heading omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(c)(i)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/c/i)
+[^c-08147cc2465b3af39a82798c8368c441]: Textual amendment: [Sch. 5A Pt. 2](https://www.legislation.gov.uk/uksi/1999/2864/schedule/5A) heading omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(c)(i)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/c/i)
 
-[^key-01fd3626157bc4bf1f675289cb672834]: Textual amendment: Word in Sch. 5A Pt. 2 substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(c)(ii)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/c/ii)
+[^c-01fd3626157bc4bf1f675289cb672834]: Textual amendment: Word in Sch. 5A Pt. 2 substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 49(c)(ii)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/49/c/ii)

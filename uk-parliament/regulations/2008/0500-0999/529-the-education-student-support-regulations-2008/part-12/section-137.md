@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Amount of assistance[^key-57afa9c9de83e14d2a0b06b2035f14cd]
+## 137. Amount of assistance[^c-57afa9c9de83e14d2a0b06b2035f14cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ where
 
 ## Annotations
 
-[^key-57afa9c9de83e14d2a0b06b2035f14cd]: Commencement: Reg. 137 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-57afa9c9de83e14d2a0b06b2035f14cd]: Commencement: Reg. 137 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

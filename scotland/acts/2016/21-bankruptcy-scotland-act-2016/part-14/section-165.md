@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Protected status: the trustee[^key-f3d721185097958f7910dc170ca78ec9]
+## 165. Protected status: the trustee[^c-f3d721185097958f7910dc170ca78ec9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The trustee under the trust deed must be a person who would not be disqualified 
 
 ## Annotations
 
-[^key-f3d721185097958f7910dc170ca78ec9]: Commencement: [S. 165](https://www.legislation.gov.uk/asp/2016/21/section/165) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f3d721185097958f7910dc170ca78ec9]: Commencement: [S. 165](https://www.legislation.gov.uk/asp/2016/21/section/165) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

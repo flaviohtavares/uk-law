@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 8 — Wild Game Bird Products[^key-5839a71b21628fa9145dcf848f0190ee]
+## Schedule 8 — Wild Game Bird Products[^c-5839a71b21628fa9145dcf848f0190ee]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ Articles 31A and 34
 
 ## Annotations
 
-[^key-5839a71b21628fa9145dcf848f0190ee]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/wsi/2006/2927/schedule/8) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [23](https://www.legislation.gov.uk/wsi/2022/280/article/23)
+[^c-5839a71b21628fa9145dcf848f0190ee]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/wsi/2006/2927/schedule/8) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [23](https://www.legislation.gov.uk/wsi/2022/280/article/23)

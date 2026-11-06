@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Notification by society or institution of intention to operate accounts[^key-e83b7b36e6629c7824ed22cfd9804220]
+## 131. Notification by society or institution of intention to operate accounts[^c-e83b7b36e6629c7824ed22cfd9804220]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 5(3) (notification by society or institution of intention to opera
 
 ## Annotations
 
-[^key-e83b7b36e6629c7824ed22cfd9804220]: Commencement: Art. 131 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-e83b7b36e6629c7824ed22cfd9804220]: Commencement: Art. 131 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00124]: Footnote: Regulation 5 was amended by regulation 9 of S.I. [1995/3239](https://www.legislation.gov.uk/uksi/1995/3239).

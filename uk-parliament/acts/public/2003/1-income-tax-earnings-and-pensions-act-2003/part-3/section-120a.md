@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120A. Benefit of car treated as earnings: optional remuneration arrangements[^key-84bbe767caf32ef661ec19f70288fa1e]
+## 120A. Benefit of car treated as earnings: optional remuneration arrangements[^c-84bbe767caf32ef661ec19f70288fa1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,10 +30,10 @@ summary: ''
 (3) The conditions are that—
 
 - (a) the car is made available to the employee or member of the employee's household pursuant to optional remuneration arrangements,
-- (b) the total foregone amount in connection with the car for the tax year is[^key-8ff6fd4de4c21a1a7f0387cae507cc14] is greater than the modified cash equivalent of the benefit of the car for the tax year (see section 121B), and
+- (b) the total foregone amount in connection with the car for the tax year is[^c-8ff6fd4de4c21a1a7f0387cae507cc14] is greater than the modified cash equivalent of the benefit of the car for the tax year (see section 121B), and
 - (c) the car's CO<sub>2</sub> emissions figure (see sections 133 to 138) exceeds 75 grams per kilometre.
 
-(4)[^key-b9b66bfbf5403cf4b3863a866f64543c] In this section, and in section 121A, the total foregone amount in connection with the car for a tax year is the total of—
+(4)[^c-b9b66bfbf5403cf4b3863a866f64543c] In this section, and in section 121A, the total foregone amount in connection with the car for a tax year is the total of—
 
 - (a) the amount foregone (see section 69B) with respect to the benefit of the car for that year, and
 - (b) the amount foregone (see section 69B) with respect to each other benefit that—
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-84bbe767caf32ef661ec19f70288fa1e]: Textual amendment: S. 120A inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/22)
+[^c-84bbe767caf32ef661ec19f70288fa1e]: Textual amendment: S. 120A inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/22)
 
-[^key-8ff6fd4de4c21a1a7f0387cae507cc14]: Textual amendment: Words in [s. 120A(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/120A/3/b) substituted (with effect in accordance with s. 7(7) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/7/2/a)
+[^c-8ff6fd4de4c21a1a7f0387cae507cc14]: Textual amendment: Words in [s. 120A(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/120A/3/b) substituted (with effect in accordance with s. 7(7) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/7/2/a)
 
-[^key-b9b66bfbf5403cf4b3863a866f64543c]: Textual amendment: [S. 120A(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/120A/4) inserted (with effect in accordance with s. 7(7) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/7/2/b)
+[^c-b9b66bfbf5403cf4b3863a866f64543c]: Textual amendment: [S. 120A(4)](https://www.legislation.gov.uk/ukpga/2003/1/section/120A/4) inserted (with effect in accordance with s. 7(7) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/7/2/b)

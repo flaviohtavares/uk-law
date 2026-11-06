@@ -58,8 +58,8 @@ summary: ''
 
 (10) Regulations under subsection (8) are subject to the negative resolution procedure.
 
-(11) References in assimilated direct[^key-930cc37db275c753b46a7b35d9be6651] legislation to fishing opportunities (however expressed) are, in relation to British fishing boats, references to catch quotas and effort quotas or (as the context requires) to either.
+(11) References in assimilated direct[^c-930cc37db275c753b46a7b35d9be6651] legislation to fishing opportunities (however expressed) are, in relation to British fishing boats, references to catch quotas and effort quotas or (as the context requires) to either.
 
 ## Annotations
 
-[^key-930cc37db275c753b46a7b35d9be6651]: Textual amendment: Words in [s. 23(11)](https://www.legislation.gov.uk/ukpga/2020/22/section/23/11) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 94(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/94/2/a)
+[^c-930cc37db275c753b46a7b35d9be6651]: Textual amendment: Words in [s. 23(11)](https://www.legislation.gov.uk/ukpga/2020/22/section/23/11) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 94(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/94/2/a)

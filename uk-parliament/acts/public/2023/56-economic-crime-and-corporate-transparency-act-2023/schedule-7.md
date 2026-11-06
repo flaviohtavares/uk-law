@@ -22,19 +22,19 @@ summary: ''
 
 Section 174
 
-**1.**[^key-840a52569f6a7bd50e96ca5502ef1eff] The Economic Crime (Transparency and Enforcement) Act 2022 is amended as follows.
+**1.**[^c-840a52569f6a7bd50e96ca5502ef1eff] The Economic Crime (Transparency and Enforcement) Act 2022 is amended as follows.
 
-**2.**[^key-66a8c3f097efee2874d912da39706a05] In section 16 (verification of registrable beneficial owners and managing officers), in subsection (1), after paragraph (c) insert—
+**2.**[^c-66a8c3f097efee2874d912da39706a05] In section 16 (verification of registrable beneficial owners and managing officers), in subsection (1), after paragraph (c) insert—
 
 > - (d) complies with the duty under Schedule 6 (duty to deliver further information about transitional period).
 
-**3.**[^key-e1e138ddf665855d6400257959502573] After section 43 insert—
+**3.**[^c-e1e138ddf665855d6400257959502573] After section 43 insert—
 
 > **43A. Duty to deliver further information for transitional cases**
 >
 > Schedule 6 (duty to deliver further information for transitional cases) imposes further duties on overseas entities to deliver information.
 
-**4.**[^key-87bc900125bdd6be4d591d06241a372b] After Schedule 5 insert—
+**4.**[^c-87bc900125bdd6be4d591d06241a372b] After Schedule 5 insert—
 
 > **SCHEDULE 6 — Duty to deliver further information for transitional cases**
 >
@@ -203,10 +203,10 @@ Section 174
 
 ## Annotations
 
-[^key-840a52569f6a7bd50e96ca5502ef1eff]: Commencement: Sch. 7 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-840a52569f6a7bd50e96ca5502ef1eff]: Commencement: Sch. 7 para. 1 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-66a8c3f097efee2874d912da39706a05]: Commencement: Sch. 7 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-66a8c3f097efee2874d912da39706a05]: Commencement: Sch. 7 para. 2 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e1e138ddf665855d6400257959502573]: Commencement: Sch. 7 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e1e138ddf665855d6400257959502573]: Commencement: Sch. 7 para. 3 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-87bc900125bdd6be4d591d06241a372b]: Commencement: Sch. 7 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-87bc900125bdd6be4d591d06241a372b]: Commencement: Sch. 7 para. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

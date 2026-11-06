@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16.5. Terms of injunction or restoration order etc.[^key-08f8485b665ba75edfd9770e7f6977e7]
+## 16.5. Terms of injunction or restoration order etc.[^c-08f8485b665ba75edfd9770e7f6977e7]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08f8485b665ba75edfd9770e7f6977e7]: Commencement: [Rule 16.5](https://www.legislation.gov.uk/uksi/2015/1568/article/16.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-08f8485b665ba75edfd9770e7f6977e7]: Commencement: [Rule 16.5](https://www.legislation.gov.uk/uksi/2015/1568/article/16.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

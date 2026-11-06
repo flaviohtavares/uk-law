@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Regulation [^key-5418f16890976ace044d43929ff62541]... 6(4)(a)
+Regulation [^c-5418f16890976ace044d43929ff62541]... 6(4)(a)
 
 ### INFORMATION TO BE INCLUDED IN A SAFETY VERIFICATION SCHEME
 
@@ -48,4 +48,4 @@ Regulation [^key-5418f16890976ace044d43929ff62541]... 6(4)(a)
 
 ## Annotations
 
-[^key-5418f16890976ace044d43929ff62541]: Textual amendment: Words in Sch. 4 heading omitted (21.5.2013) by virtue of [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(15)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/15)
+[^c-5418f16890976ace044d43929ff62541]: Textual amendment: Words in Sch. 4 heading omitted (21.5.2013) by virtue of [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(15)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/15)

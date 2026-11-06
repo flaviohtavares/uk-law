@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) If, on the application of the local authority that served an antisocial behaviour notice on a landlord under section 68(1) or (1A)[^key-4cd153f6a1b28f95b8f7701748b97e3c], the sheriff is satisfied as to the matters mentioned in subsection (2), the sheriff may make a management control order in respect of the house to which the notice relates.
+(1) If, on the application of the local authority that served an antisocial behaviour notice on a landlord under section 68(1) or (1A)[^c-4cd153f6a1b28f95b8f7701748b97e3c], the sheriff is satisfied as to the matters mentioned in subsection (2), the sheriff may make a management control order in respect of the house to which the notice relates.
 
 (2) Those matters are—
 
@@ -47,4 +47,4 @@ the authority may recover those sums from the landlord.
 
 [^c21020191]: Commencement: S. 74 wholly in force at 30.4.2006; s. 74 not in force at Royal Assent see s. 145(2); s. 74 in force for specified purposes at 28.10.2004 and 9.11.2005 and for all other purposes at 30.4.2006 by [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [arts. 2](https://www.legislation.gov.uk/ssi/2004/420/article/2), [3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1), [6](https://www.legislation.gov.uk/ssi/2004/420/schedule/6) (as amended by [S.S.I. 2005/553](https://www.legislation.gov.uk/ssi/2005/553), [art. 2](https://www.legislation.gov.uk/ssi/2005/553/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/553/schedule) and [S.S.I. 2006/104](https://www.legislation.gov.uk/ssi/2006/104), [art. 2](https://www.legislation.gov.uk/ssi/2006/104/article/2))
 
-[^key-4cd153f6a1b28f95b8f7701748b97e3c]: Textual amendment: Words in s. 74(1) inserted (12.3.2011) by [The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201)](https://www.legislation.gov.uk/ssi/2011/201), [arts. 1](https://www.legislation.gov.uk/ssi/2011/201/article/1), [6](https://www.legislation.gov.uk/ssi/2011/201/article/6)
+[^c-4cd153f6a1b28f95b8f7701748b97e3c]: Textual amendment: Words in s. 74(1) inserted (12.3.2011) by [The Antisocial Behaviour Notices (Houses Used for Holiday Purposes) (Scotland) Order 2011 (S.S.I. 2011/201)](https://www.legislation.gov.uk/ssi/2011/201), [arts. 1](https://www.legislation.gov.uk/ssi/2011/201/article/1), [6](https://www.legislation.gov.uk/ssi/2011/201/article/6)

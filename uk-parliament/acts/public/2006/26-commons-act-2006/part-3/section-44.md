@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Supplementary[^c1912191][^key-686f88ab84b576bd30f0a1da0ddb5eb0]
+## 44. Supplementary[^c1912191][^c-686f88ab84b576bd30f0a1da0ddb5eb0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c1912191]: Commencement: S. 44 not in force at Royal Assent, see s. 56(1); s. 44(1) in force for certain purposes for E. at 1.10.2006 by [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/f); s. 44 in force for certain purposes for W. at 12.8.2007 and 6.9.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2386/article/3); s. 44(2)-(4) in force for E. and s. 44(1) in force in so far as not already in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3))
 
-[^key-686f88ab84b576bd30f0a1da0ddb5eb0]: Commencement: S. 44 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 3(f)](https://www.legislation.gov.uk/wsi/2012/739/article/3/f) (with [art. 4(1)](https://www.legislation.gov.uk/wsi/2012/739/article/4/1)[(5)](https://www.legislation.gov.uk/wsi/2012/739/article/4/5))
+[^c-686f88ab84b576bd30f0a1da0ddb5eb0]: Commencement: S. 44 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 3(f)](https://www.legislation.gov.uk/wsi/2012/739/article/3/f) (with [art. 4(1)](https://www.legislation.gov.uk/wsi/2012/739/article/4/1)[(5)](https://www.legislation.gov.uk/wsi/2012/739/article/4/5))

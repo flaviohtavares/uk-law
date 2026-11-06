@@ -35,7 +35,7 @@ summary: ''
 (4) But if—
 
 - (a) the individual has previously been married or in a civil partnership in the same tax year, and
-- (b) the conditions in section 45(2) or (2A)[^key-03c642a3a2edaaaf2a19a66913b65f98] or 46(2) are met in relation to the earlier marriage or civil partnership,
+- (b) the conditions in section 45(2) or (2A)[^c-03c642a3a2edaaaf2a19a66913b65f98] or 46(2) are met in relation to the earlier marriage or civil partnership,
 
 subsection (2) applies only if the claim is in respect of the later marriage or civil partnership.
 
@@ -48,4 +48,4 @@ subsection (2) applies only if the claim is in respect of the later marriage or 
 
 ## Annotations
 
-[^key-03c642a3a2edaaaf2a19a66913b65f98]: Textual amendment: Words in [s. 54(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/54/4/b) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [45(7)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/45/7)
+[^c-03c642a3a2edaaaf2a19a66913b65f98]: Textual amendment: Words in [s. 54(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/54/4/b) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [45(7)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/45/7)

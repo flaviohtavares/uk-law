@@ -44,11 +44,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 254(3)(f) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-34c4e80ffeeb169da525f8dacc032f71]
+## 1. Citation and commencement[^c-34c4e80ffeeb169da525f8dacc032f71]
 
 These Regulations may be cited as the Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 and come into force on 1st April 2015.
 
-## 2. Interpretation[^key-cd7fb44e39cc09f7d48fc9db263f0638]
+## 2. Interpretation[^c-cd7fb44e39cc09f7d48fc9db263f0638]
 
 In these Regulations—
 
@@ -58,7 +58,7 @@ In these Regulations—
 - “relevant transaction” means a disposal of anything that would be a disposal but for the fact that the material is not disposed of as waste; and
 - “transfer note” has the meaning given in regulation 2(1) of the Administration Regulations.
 
-## 3. Records in respect of landfill tax[^key-fa13a6df6bf84cea750ccb038d778624]
+## 3. Records in respect of landfill tax[^c-fa13a6df6bf84cea750ccb038d778624]
 
 (1) Every person referred to in section 74(1) and (3) of the Act shall, for the purpose of accounting for landfill tax under the LT(S) Act 2014, preserve the following—
 
@@ -73,7 +73,7 @@ In these Regulations—
 
 (3) The evidence required in support of a claim detailed in regulation 21 of the Administration Regulations and records required to be kept detailed in regulation 22 of those Regulations are supporting documents specified as required to be kept under paragraph 3 of schedule 3 to the Act or, as the case may be, records included in records required to be kept and preserved under that paragraph.
 
-## 4. Records in respect of land and buildings transaction tax[^key-6eac294e0a8fda37d4c0e64899ce8528]
+## 4. Records in respect of land and buildings transaction tax[^c-6eac294e0a8fda37d4c0e64899ce8528]
 
 (1) The buyer in a land transaction which is not notifiable must keep such records as may be needed to enable the buyer to demonstrate that the transaction is not notifiable.
 
@@ -85,7 +85,7 @@ In these Regulations—
 
 .
 
-## 5. Records in respect of Scottish aggregates tax[^key-b5a7cc4a9663750003f90bfa6c09213e]
+## 5. Records in respect of Scottish aggregates tax[^c-b5a7cc4a9663750003f90bfa6c09213e]
 
 A registrable person (as defined in section 18(7) of the Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024) is obliged to keep the following records—
 
@@ -125,14 +125,14 @@ These Regulations make provisions about records which must be kept in relation t
 
 [^f00001]: Footnote: [2014 asp 16](https://www.legislation.gov.uk/asp/2014/16).
 
-[^key-34c4e80ffeeb169da525f8dacc032f71]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+[^c-34c4e80ffeeb169da525f8dacc032f71]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
 
-[^key-cd7fb44e39cc09f7d48fc9db263f0638]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+[^c-cd7fb44e39cc09f7d48fc9db263f0638]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2015/3](https://www.legislation.gov.uk/ssi/2015/3).
 
-[^key-fa13a6df6bf84cea750ccb038d778624]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+[^c-fa13a6df6bf84cea750ccb038d778624]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
 
-[^key-6eac294e0a8fda37d4c0e64899ce8528]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+[^c-6eac294e0a8fda37d4c0e64899ce8528]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
 
-[^key-b5a7cc4a9663750003f90bfa6c09213e]: Textual amendment: [Regs. 5](https://www.legislation.gov.uk/ssi/2015/130/regulation/5), [6](https://www.legislation.gov.uk/ssi/2015/130/regulation/6) inserted (1.12.2025) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Amendment Regulations 2025 (S.S.I. 2025/375)](https://www.legislation.gov.uk/ssi/2025/375), [regs. 1](https://www.legislation.gov.uk/ssi/2025/375/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/375/regulation/3)
+[^c-b5a7cc4a9663750003f90bfa6c09213e]: Textual amendment: [Regs. 5](https://www.legislation.gov.uk/ssi/2015/130/regulation/5), [6](https://www.legislation.gov.uk/ssi/2015/130/regulation/6) inserted (1.12.2025) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Amendment Regulations 2025 (S.S.I. 2025/375)](https://www.legislation.gov.uk/ssi/2025/375), [regs. 1](https://www.legislation.gov.uk/ssi/2025/375/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/375/regulation/3)

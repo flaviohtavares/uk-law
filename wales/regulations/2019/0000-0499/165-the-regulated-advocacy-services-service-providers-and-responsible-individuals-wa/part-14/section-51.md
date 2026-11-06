@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Statement of compliance with the requirements as to standards of advocacy[^key-4ed2a770c6bfb4babbd076b4dd6bc385]
+## 51. Statement of compliance with the requirements as to standards of advocacy[^c-4ed2a770c6bfb4babbd076b4dd6bc385]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed2a770c6bfb4babbd076b4dd6bc385]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2019/165/regulation/51) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-4ed2a770c6bfb4babbd076b4dd6bc385]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2019/165/regulation/51) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

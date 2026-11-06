@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Forfeiture: other amendments[^key-a7bae033e67eb5ebcbf68446e07d0b6f]
+## 38. Forfeiture: other amendments[^c-a7bae033e67eb5ebcbf68446e07d0b6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7bae033e67eb5ebcbf68446e07d0b6f]: Commencement: S. 38 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-a7bae033e67eb5ebcbf68446e07d0b6f]: Commencement: S. 38 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)

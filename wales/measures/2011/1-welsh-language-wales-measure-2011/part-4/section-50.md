@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Revoking compliance notices[^key-bb0eda83e9fefe446944385a9ed082b6]
+## 50. Revoking compliance notices[^c-bb0eda83e9fefe446944385a9ed082b6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0eda83e9fefe446944385a9ed082b6]: Commencement: [S. 50](https://www.legislation.gov.uk/mwa/2011/1/section/50) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-bb0eda83e9fefe446944385a9ed082b6]: Commencement: [S. 50](https://www.legislation.gov.uk/mwa/2011/1/section/50) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Protection for personal records[^key-3e0d5a709c76dbb2c4c578f03287b496]
+## 99. Protection for personal records[^c-3e0d5a709c76dbb2c4c578f03287b496]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e0d5a709c76dbb2c4c578f03287b496]: Commencement: S. 99 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-3e0d5a709c76dbb2c4c578f03287b496]: Commencement: S. 99 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Payment of pensions under this Part[^key-c6da05c241540c97cb1eb03f0cc2eabe]
+## 116. Payment of pensions under this Part[^c-c6da05c241540c97cb1eb03f0cc2eabe]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6da05c241540c97cb1eb03f0cc2eabe]: Commencement: [Reg. 116](https://www.legislation.gov.uk/nisr/2014/290/regulation/116) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c6da05c241540c97cb1eb03f0cc2eabe]: Commencement: [Reg. 116](https://www.legislation.gov.uk/nisr/2014/290/regulation/116) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

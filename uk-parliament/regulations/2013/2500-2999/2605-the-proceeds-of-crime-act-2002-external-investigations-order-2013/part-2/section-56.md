@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Customer information orders[^key-9350acbe6e15807af1721db898e7c04f]
+## 56. Customer information orders[^c-9350acbe6e15807af1721db898e7c04f]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In making a customer information order the sheriff shall act in the sheriff’s civil jurisdiction.
 
-(3)[^key-ded1cf5af58040d5f1643d4567ddd90a] The application for a customer information order must state that—
+(3)[^c-ded1cf5af58040d5f1643d4567ddd90a] The application for a customer information order must state that—
 
 - (a) a person specified in the application is subject to an external investigation; and
 - (b) the condition in article 37(2) is met in respect of the person.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9350acbe6e15807af1721db898e7c04f]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2013/2605/article/56) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-9350acbe6e15807af1721db898e7c04f]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2013/2605/article/56) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-ded1cf5af58040d5f1643d4567ddd90a]: Textual amendment: [Art. 56(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/56/3) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [22](https://www.legislation.gov.uk/uksi/2015/1751/article/22)
+[^c-ded1cf5af58040d5f1643d4567ddd90a]: Textual amendment: [Art. 56(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/56/3) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [22](https://www.legislation.gov.uk/uksi/2015/1751/article/22)

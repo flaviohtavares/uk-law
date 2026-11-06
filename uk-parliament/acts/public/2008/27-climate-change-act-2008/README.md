@@ -200,7 +200,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 76 — Collection of household waste](part-5/section-76.md)
 
-#### Charges for single use carrier bags (Extent: N.I.) (affected by repeal, see note)carrier bags (Extent: N.I.)[^key-2c34b23b8118b1e8a2763ba07943ad2e]
+#### Charges for single use carrier bags (Extent: N.I.) (affected by repeal, see note)carrier bags (Extent: N.I.)[^c-2c34b23b8118b1e8a2763ba07943ad2e]
 
 *Extent: E+W+N.I.*
 
@@ -268,4 +268,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)
+[^c-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)

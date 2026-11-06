@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendments of retained direct EU legislation[^key-b4675cf79eaf16c88cf7656e030ac7ff]
+## 4. Amendments of retained direct EU legislation[^c-b4675cf79eaf16c88cf7656e030ac7ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 contains amendments of retained direct EU legislation.
 
 ## Annotations
 
-[^key-b4675cf79eaf16c88cf7656e030ac7ff]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(3)(c)
+[^c-b4675cf79eaf16c88cf7656e030ac7ff]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(3)(c)

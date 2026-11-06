@@ -33,16 +33,16 @@ of 12 February 2016
 
 approving the conclusion by the European Commission, on behalf of the European Atomic Energy Community, of the Agreement extending the Framework Agreement for International Collaboration on Research and Development of Generation IV nuclearenergy systems (revoked)
 
-[^key-4e774fbc64c112da77c98073b7372871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e774fbc64c112da77c98073b7372871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4e774fbc64c112da77c98073b7372871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4e774fbc64c112da77c98073b7372871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4e774fbc64c112da77c98073b7372871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4e774fbc64c112da77c98073b7372871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e774fbc64c112da77c98073b7372871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e774fbc64c112da77c98073b7372871]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e774fbc64c112da77c98073b7372871]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-4e774fbc64c112da77c98073b7372871]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

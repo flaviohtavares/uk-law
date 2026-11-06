@@ -25,7 +25,7 @@ summary: ''
 - (a) under a single tenancy or licence that is not an exempt tenancy or licence under section 79(3) or (4), or
 - (b) under two or more tenancies or licences in respect of different dwellings contained in it, none of which is an exempt tenancy or licence under section 79(3) or (4).
 
-(2) The appropriate tribunal[^key-44632e9c39d0306bb9b309bfeeff2c43] may only authorise the authority to make an interim management order in respect of such a house under section 102(7) if it considers that both of the following conditions are satisfied.
+(2) The appropriate tribunal[^c-44632e9c39d0306bb9b309bfeeff2c43] may only authorise the authority to make an interim management order in respect of such a house under section 102(7) if it considers that both of the following conditions are satisfied.
 
 (3) The first condition is that the circumstances relating to the house fall within any category of circumstances prescribed for the purposes of this subsection by an order under subsection (5).
 
@@ -54,4 +54,4 @@ but (in each case) with such modifications as the appropriate national authority
 
 [^c691025]: Commencement: S. 103 wholly in force at 16.6.2006; s. 103 in force for certain purposes at Royal Assent see s. 270(2)(b); s. 103 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 103 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-44632e9c39d0306bb9b309bfeeff2c43]: Textual amendment: Words in [s. 103(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/103/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 160](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/160) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-44632e9c39d0306bb9b309bfeeff2c43]: Textual amendment: Words in [s. 103(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/103/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 160](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/160) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

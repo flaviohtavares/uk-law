@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — New permanent means of access from the public highway[^key-b0fee78a6ed47aee4e743517b9e7a8ae]
+### PART 1 — New permanent means of access from the public highway[^c-b0fee78a6ed47aee4e743517b9e7a8ae]
 
 | (1) Area | (2) Street | (3) Description of relevant part of access |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Article 14
 | In the borough of North East Lincolnshire | Thoroughfare | Works for the installation and maintenance of a new access to Work No. 21, point 16-AB as shown on sheet 16 of the access and rights of way plans. |
 | In the district of East Lindsey | Louth Road | Works for the installation and maintenance of a new access to Work No. 31, point 25-AA as shown on sheet 26 of the access and rights of way plans. |
 
-### PART 2 — New temporary means of access from the public highway[^key-bbe8e95f07db874c57d6ff73ca94a10f]
+### PART 2 — New temporary means of access from the public highway[^c-bbe8e95f07db874c57d6ff73ca94a10f]
 
 | (1) Area | (2) Street | (3) Description of relevant part of access |
 | --- | --- | --- |
@@ -73,6 +73,6 @@ Article 14
 
 ## Annotations
 
-[^key-b0fee78a6ed47aee4e743517b9e7a8ae]: Commencement: Sch. 4 Pt. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-b0fee78a6ed47aee4e743517b9e7a8ae]: Commencement: Sch. 4 Pt. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-bbe8e95f07db874c57d6ff73ca94a10f]: Commencement: Sch. 4 Pt. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-bbe8e95f07db874c57d6ff73ca94a10f]: Commencement: Sch. 4 Pt. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Storage of gametes and embryos[^key-e826424c3ac6e20022045c9de9d2e39b]
+## 171. Storage of gametes and embryos[^c-e826424c3ac6e20022045c9de9d2e39b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Schedule 17—
 
 ## Annotations
 
-[^key-e826424c3ac6e20022045c9de9d2e39b]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2022/31/section/171) in force at 1.7.2022, see [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3)
+[^c-e826424c3ac6e20022045c9de9d2e39b]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2022/31/section/171) in force at 1.7.2022, see [s. 186(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/3)

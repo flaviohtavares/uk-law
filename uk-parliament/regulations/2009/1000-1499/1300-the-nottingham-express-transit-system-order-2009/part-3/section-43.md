@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Open space in the Borough of Broxtowe[^key-1418c0b020db84dc64d02d7d23ea2326]
+## 43. Open space in the Borough of Broxtowe[^c-1418c0b020db84dc64d02d7d23ea2326]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1418c0b020db84dc64d02d7d23ea2326]: Textual amendment: Art. 43 substituted (4.7.2011) by [The Nottingham Express Transit System (Amendment) Order 2011 (S.I. 2011/1491)](https://www.legislation.gov.uk/uksi/2011/1491), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1491/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1491/article/2/3)
+[^c-1418c0b020db84dc64d02d7d23ea2326]: Textual amendment: Art. 43 substituted (4.7.2011) by [The Nottingham Express Transit System (Amendment) Order 2011 (S.I. 2011/1491)](https://www.legislation.gov.uk/uksi/2011/1491), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1491/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1491/article/2/3)

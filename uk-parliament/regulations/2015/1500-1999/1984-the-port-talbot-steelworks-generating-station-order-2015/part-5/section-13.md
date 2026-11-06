@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^key-b5b7040619ac1b91b3757347e2b46120]
+## 13. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^c-b5b7040619ac1b91b3757347e2b46120]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b7040619ac1b91b3757347e2b46120]: Commencement: Art. 13 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-b5b7040619ac1b91b3757347e2b46120]: Commencement: Art. 13 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
 [^f00024]: Footnote: [1981 c.66](https://www.legislation.gov.uk/ukpga/1981/66). Section 3(4) was amended by paragraph 37 of Schedule 5 to the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7).

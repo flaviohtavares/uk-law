@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Hearing inappropriate[^key-5008efa1ed639cfed240510dc3e0fba7]
+## 34. Hearing inappropriate[^c-5008efa1ed639cfed240510dc3e0fba7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5008efa1ed639cfed240510dc3e0fba7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2017/544/regulation/34) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-5008efa1ed639cfed240510dc3e0fba7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2017/544/regulation/34) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

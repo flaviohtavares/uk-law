@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule A1A — Certain requirements relating to electronic voting and hybrid voting[^key-c9750fc2d7efed6b704d19c392f73272]
+## Schedule A1A — Certain requirements relating to electronic voting and hybrid voting[^c-c9750fc2d7efed6b704d19c392f73272]
 
 *Extent: E+W+S+N.I.*
 
@@ -358,4 +358,4 @@ In this Part, “**hybrid voting materials**” means—
 
 ## Annotations
 
-[^key-c9750fc2d7efed6b704d19c392f73272]: Textual amendment: [Sch. A1A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/881/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-c9750fc2d7efed6b704d19c392f73272]: Textual amendment: [Sch. A1A](https://www.legislation.gov.uk/ukpga/1992/52/schedule/A1A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/881/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

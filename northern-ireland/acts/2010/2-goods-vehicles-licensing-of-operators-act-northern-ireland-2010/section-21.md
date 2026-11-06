@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Interim operators' licences[^key-6c17c8050ec9e67f9fa721a2b6da5dc5]
+## 21. Interim operators' licences[^c-6c17c8050ec9e67f9fa721a2b6da5dc5]
 
 *Extent: N.I.*
 
@@ -42,12 +42,12 @@ the interim licence shall terminate on the date on which the full licence comes 
 
 (7) Where, in a case within subsection (6), the application is granted, the full licence issued to the applicant shall be of no effect before the interim licence terminates (notwithstanding any statement in it to the contrary).
 
-(7A)[^key-4268f7d80438201b78ca5cdbe4bef95b] A request for the issuing of an interim standard licence—
+(7A)[^c-4268f7d80438201b78ca5cdbe4bef95b] A request for the issuing of an interim standard licence—
 
 - (a) shall not be treated as an application for an operator’s licence for the purposes of section 9,10,11,13,14(1) to (4), 34 or 35 or Schedule 1, but
 - (b) shall be treated as such an application for the purposes of any other provision of this Act.
 
-(8) A request for the issuing of an interim restricted[^key-4e7f0d53051580a8c2a3609183e42344] licence—
+(8) A request for the issuing of an interim restricted[^c-4e7f0d53051580a8c2a3609183e42344] licence—
 
 - (a) shall not be treated as an application for an operator's licence for the purposes of sections 9 to 13, 14(1) to (4), 34 or 35 or Schedule 1, but
 - (b) shall be treated as such an application for the purposes of any other provision of this Act.
@@ -59,8 +59,8 @@ the interim licence shall terminate on the date on which the full licence comes 
 
 ## Annotations
 
-[^key-6c17c8050ec9e67f9fa721a2b6da5dc5]: Commencement: S. 21 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-6c17c8050ec9e67f9fa721a2b6da5dc5]: Commencement: S. 21 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-4268f7d80438201b78ca5cdbe4bef95b]: Textual amendment: [S. 21(7A)](https://www.legislation.gov.uk/nia/2010/2/section/21/7A) inserted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(8)(a)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/8/a)
+[^c-4268f7d80438201b78ca5cdbe4bef95b]: Textual amendment: [S. 21(7A)](https://www.legislation.gov.uk/nia/2010/2/section/21/7A) inserted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(8)(a)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/8/a)
 
-[^key-4e7f0d53051580a8c2a3609183e42344]: Textual amendment: Word in [s. 21(8)](https://www.legislation.gov.uk/nia/2010/2/section/21/8) inserted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(8)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/8/b)
+[^c-4e7f0d53051580a8c2a3609183e42344]: Textual amendment: Word in [s. 21(8)](https://www.legislation.gov.uk/nia/2010/2/section/21/8) inserted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(8)(b)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/8/b)

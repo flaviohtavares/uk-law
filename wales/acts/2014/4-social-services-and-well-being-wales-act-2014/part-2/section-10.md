@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Local authorities and the code[^key-8d13952850e200a2b18dd63a3bc158c1]
+## 10. Local authorities and the code[^c-8d13952850e200a2b18dd63a3bc158c1]
 
 *Extent: E+W*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) act in accordance with any relevant requirements imposed upon it by a code issued under section 9, and
 - (b) have regard to any relevant guidance contained in that code.
 
-(2)[^key-6d69b5da69a0d946044d76c0478ef618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6d69b5da69a0d946044d76c0478ef618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d13952850e200a2b18dd63a3bc158c1]: Commencement: S. 10 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-8d13952850e200a2b18dd63a3bc158c1]: Commencement: S. 10 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-6d69b5da69a0d946044d76c0478ef618]: Textual amendment: [S. 10(2)](https://www.legislation.gov.uk/anaw/2014/4/section/10/2) omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2021/296/regulation/9)
+[^c-6d69b5da69a0d946044d76c0478ef618]: Textual amendment: [S. 10(2)](https://www.legislation.gov.uk/anaw/2014/4/section/10/2) omitted (1.4.2021) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2021/296/regulation/9)

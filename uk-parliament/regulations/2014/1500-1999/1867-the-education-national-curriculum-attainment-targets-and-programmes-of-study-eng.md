@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England)(Amendment) Order 2014 (revoked)[^key-46f3d9bbd00ac9767b53dc13213b3085]
+The Education (National Curriculum)(Attainment Targets and Programmes of Study)(England)(Amendment) Order 2014 (revoked)[^c-46f3d9bbd00ac9767b53dc13213b3085]
 
 Made
 
@@ -44,32 +44,32 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-46f3d9bbd00ac9767b53dc13213b3085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46f3d9bbd00ac9767b53dc13213b3085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-46f3d9bbd00ac9767b53dc13213b3085]
+## 1. Citation, commencement and application[^c-46f3d9bbd00ac9767b53dc13213b3085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013[^key-46f3d9bbd00ac9767b53dc13213b3085]
+## 2. Amendments to the Education (National Curriculum)(Attainment Targets and Programmes of Study)(England) Order 2013[^c-46f3d9bbd00ac9767b53dc13213b3085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-46f3d9bbd00ac9767b53dc13213b3085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46f3d9bbd00ac9767b53dc13213b3085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46f3d9bbd00ac9767b53dc13213b3085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-46f3d9bbd00ac9767b53dc13213b3085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46f3d9bbd00ac9767b53dc13213b3085]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46f3d9bbd00ac9767b53dc13213b3085]: Textual amendment: Order revoked (1.9.2014) by [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 2) Order 2014 (S.I. 2014/1941)](https://www.legislation.gov.uk/uksi/2014/1941), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1941/article/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1941/article/7)
+[^c-46f3d9bbd00ac9767b53dc13213b3085]: Textual amendment: Order revoked (1.9.2014) by [The Education (National Curriculum) (Attainment Targets and Programmes of Study) (England) (Amendment) (No. 2) Order 2014 (S.I. 2014/1941)](https://www.legislation.gov.uk/uksi/2014/1941), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1941/article/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1941/article/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112B. Entitlement to paternity leave : adoption[^key-039d9d5835f57be860d354830de5b385][^key-aedc2e1b852f0e7b0d6fa3f595398462][^c17623781][^c20289071][^c22340171][^key-4895298aedc0837c9970e67b0bbc3fac]
+## 112B. Entitlement to paternity leave : adoption[^c-039d9d5835f57be860d354830de5b385][^c-aedc2e1b852f0e7b0d6fa3f595398462][^c17623781][^c20289071][^c22340171][^c-4895298aedc0837c9970e67b0bbc3fac]
 
 *Extent: N.I.*
 
@@ -37,14 +37,14 @@ to be absent from work on leave under this Article for the purpose of caring for
 
 (4) Provision under paragraph (2)(b) shall secure that leave under this Article must be taken before the end of a period of at least 56 days beginning with the date of the child's placement for adoption.
 
-(4A)[^key-cbcf308da209e95018a12cbc316008f5] Provision under paragraph (2)(b) must secure that, once an employee takes shared parental leave under Article 107G in respect of a child, the employee may not take leave under this Article in respect of the child.
+(4A)[^c-cbcf308da209e95018a12cbc316008f5] Provision under paragraph (2)(b) must secure that, once an employee takes shared parental leave under Article 107G in respect of a child, the employee may not take leave under this Article in respect of the child.
 
 (5) Regulations under paragraph (1) may—
 
 - (a) specify things which are, or are not, to be taken as done for the purpose of caring for a child or supporting a person with whom a child is placed for adoption;
-- (aa)[^key-3d51fbea3e50408d186effac82c8e860] make provision excluding the right to be absent on leave under this Article in the case of an employee who, by virtue of provision under Article 112BA(1), has already exercised a right to be absent on leave under this Article in connection with the same child;
+- (aa)[^c-3d51fbea3e50408d186effac82c8e860] make provision excluding the right to be absent on leave under this Article in the case of an employee who, by virtue of provision under Article 112BA(1), has already exercised a right to be absent on leave under this Article in connection with the same child;
 - (b) make provision excluding the right to be absent on leave under this Article in the case of an employee who exercises a right to be absent from work on adoption leave;
-- (ba)[^key-cf7af617feb418ff0dda3aa28e424396] make provision excluding the right to be absent on leave under this Article in the case of an employee who has exercised a right to take time off under Article 85ZJ;
+- (ba)[^c-cf7af617feb418ff0dda3aa28e424396] make provision excluding the right to be absent on leave under this Article in the case of an employee who has exercised a right to take time off under Article 85ZJ;
 - (c) make provision excluding the right to be absent on leave under this Article in respect of a child where more than one child is placed for adoption as part of the same arrangement;
 - (d) make provision about how leave under this Article may be taken.
 
@@ -56,9 +56,9 @@ to be absent from work on leave under this Article for the purpose of caring for
 
 ## Annotations
 
-[^key-039d9d5835f57be860d354830de5b385]: Modification: Art. 112B applied (with modifications) (15.3.2015) by [The Employment Rights (Northern Ireland) Order 1996 (Application of Articles 107A, 107B, 107G, 107I, 112A and 112B to Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/100)](https://www.legislation.gov.uk/nisr/2015/100), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/100/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/100/schedule/2)
+[^c-039d9d5835f57be860d354830de5b385]: Modification: Art. 112B applied (with modifications) (15.3.2015) by [The Employment Rights (Northern Ireland) Order 1996 (Application of Articles 107A, 107B, 107G, 107I, 112A and 112B to Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/100)](https://www.legislation.gov.uk/nisr/2015/100), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/100/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/100/schedule/2)
 
-[^key-aedc2e1b852f0e7b0d6fa3f595398462]: Modification: [Art. 112B](https://www.legislation.gov.uk/nisi/1996/1919/article/112B) amendment to earlier affecting provision S.R. 2015/100, reg. 4, Sch. 2 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/12)
+[^c-aedc2e1b852f0e7b0d6fa3f595398462]: Modification: [Art. 112B](https://www.legislation.gov.uk/nisi/1996/1919/article/112B) amendment to earlier affecting provision S.R. 2015/100, reg. 4, Sch. 2 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/12)
 
 [^c17623781]: Textual amendment: mod. by SR 2003/220
 
@@ -66,10 +66,10 @@ to be absent from work on leave under this Article for the purpose of caring for
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-4895298aedc0837c9970e67b0bbc3fac]: Textual amendment: Words in art. 112B title substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/10); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-4895298aedc0837c9970e67b0bbc3fac]: Textual amendment: Words in art. 112B title substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/10); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-cbcf308da209e95018a12cbc316008f5]: Textual amendment: Art. 112B(4A) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 3(7)](https://www.legislation.gov.uk/nia/2015/1/section/3/7), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/c)
+[^c-cbcf308da209e95018a12cbc316008f5]: Textual amendment: Art. 112B(4A) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 3(7)](https://www.legislation.gov.uk/nia/2015/1/section/3/7), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/c)
 
-[^key-3d51fbea3e50408d186effac82c8e860]: Textual amendment: Art. 112B(5)(aa) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 8(4)](https://www.legislation.gov.uk/nia/2015/1/section/8/4), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
+[^c-3d51fbea3e50408d186effac82c8e860]: Textual amendment: Art. 112B(5)(aa) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 8(4)](https://www.legislation.gov.uk/nia/2015/1/section/8/4), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
 
-[^key-cf7af617feb418ff0dda3aa28e424396]: Textual amendment: Art. 112B(5)(ba) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(5)](https://www.legislation.gov.uk/nia/2015/1/section/17/5), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(n)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/n)
+[^c-cf7af617feb418ff0dda3aa28e424396]: Textual amendment: Art. 112B(5)(ba) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 17(5)](https://www.legislation.gov.uk/nia/2015/1/section/17/5), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(n)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/n)

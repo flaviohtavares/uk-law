@@ -31,34 +31,34 @@ summary: ''
 
 Education, Wales
 
-The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 3 and No. 4 and Transitional and Saving Provisions) (Amendment) Order 2021 (revoked)[^key-13f9d11c7a0f94c7d8003d666fd61a85]
+The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 3 and No. 4 and Transitional and Saving Provisions) (Amendment) Order 2021 (revoked)[^c-13f9d11c7a0f94c7d8003d666fd61a85]
 
 Made
 
 28 April 2021
 
-[^key-13f9d11c7a0f94c7d8003d666fd61a85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13f9d11c7a0f94c7d8003d666fd61a85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title[^key-13f9d11c7a0f94c7d8003d666fd61a85]
+## 1. Title[^c-13f9d11c7a0f94c7d8003d666fd61a85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 3 and Transitional and Saving Provisions) Order 2021[^key-13f9d11c7a0f94c7d8003d666fd61a85]
+## 2. Amendment of Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 3 and Transitional and Saving Provisions) Order 2021[^c-13f9d11c7a0f94c7d8003d666fd61a85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 4 and Transitional and Saving Provisions) Order 2021[^key-13f9d11c7a0f94c7d8003d666fd61a85]
+## 3. Amendment of Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 4 and Transitional and Saving Provisions) Order 2021[^c-13f9d11c7a0f94c7d8003d666fd61a85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13f9d11c7a0f94c7d8003d666fd61a85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13f9d11c7a0f94c7d8003d666fd61a85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-13f9d11c7a0f94c7d8003d666fd61a85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13f9d11c7a0f94c7d8003d666fd61a85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13f9d11c7a0f94c7d8003d666fd61a85]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2021/516) revoked (12.8.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Order No. 2 and Revocation of Commencement Order No. 3 and Commencement Order No. 4) Order 2021 (S.I. 2021/938)](https://www.legislation.gov.uk/wsi/2021/938), [art. 5](https://www.legislation.gov.uk/wsi/2021/938/article/5)
+[^c-13f9d11c7a0f94c7d8003d666fd61a85]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2021/516) revoked (12.8.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Order No. 2 and Revocation of Commencement Order No. 3 and Commencement Order No. 4) Order 2021 (S.I. 2021/938)](https://www.legislation.gov.uk/wsi/2021/938), [art. 5](https://www.legislation.gov.uk/wsi/2021/938/article/5)

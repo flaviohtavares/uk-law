@@ -29,7 +29,7 @@ summary: ''
 
 direct that such a transcript be made and sent to the person who requested it.
 
-(2ZA)[^key-4b1aeb75c62dcf7868c78ee26f9154f5] The Clerk of Justiciary must direct that such a transcript be made and sent to a complainer that has requested it, if the complainer was a complainer in a trial that—
+(2ZA)[^c-4b1aeb75c62dcf7868c78ee26f9154f5] The Clerk of Justiciary must direct that such a transcript be made and sent to a complainer that has requested it, if the complainer was a complainer in a trial that—
 
 - (a) was of an offence as described in section 288C(2) (certain sexual offences),
 - (b) was in the High Court or the Sexual Offences Court, and
@@ -38,16 +38,16 @@ direct that such a transcript be made and sent to the person who requested it.
 (2A)[^c18924021] If—
 
 - (a) on the written application of a person convicted at the trial and granted leave to appeal; and
-- (b)[^key-22a42ef1c0cb29a129572b48ab8210e0] either of the conditions in subsection (2AZA) is met or it is otherwise in the interests of justice to do so,
+- (b)[^c-22a42ef1c0cb29a129572b48ab8210e0] either of the conditions in subsection (2AZA) is met or it is otherwise in the interests of justice to do so,
 
-a judge of the High Court may order, and in that event[^key-368aa8dbd74407d940de454090363742] the Clerk of Justiciary shall direct, on payment of such charges as are mentioned in paragraph (b) of subsection (2) above, that such a transcript be made and sent to that person.
+a judge of the High Court may order, and in that event[^c-368aa8dbd74407d940de454090363742] the Clerk of Justiciary shall direct, on payment of such charges as are mentioned in paragraph (b) of subsection (2) above, that such a transcript be made and sent to that person.
 
-(2AZA)[^key-69796c748e86fbac134f7df247914907] The conditions mentioned in subsection (2A)(b) are that—
+(2AZA)[^c-69796c748e86fbac134f7df247914907] The conditions mentioned in subsection (2A)(b) are that—
 
 - (a) a ground of appeal, for which leave to appeal has been granted, reveals a significant dispute between that ground and the report of the trial judge on the nature and extent of the evidence, speech or other part of the record to which the application relates; or
 - (b) the trial judge’s report does not, in relation to a ground of appeal for which leave to appeal has been granted, provide a sufficient narrative of the nature and extent of the evidence, speech or other part of the record to which the application relates.
 
-(2AA)[^key-2286bcd51dcc39259e64e589011e2152] Subsection (2A) applies to a person mentioned in subsection (2AB) as it applies to a person convicted at the trial, with the modification that the reference to the transcript in subsection (2A) is to be construed as a reference to the transcript of the record made of proceedings at the trial resulting in the acquittal mentioned in subsection (2AB)(b).
+(2AA)[^c-2286bcd51dcc39259e64e589011e2152] Subsection (2A) applies to a person mentioned in subsection (2AB) as it applies to a person convicted at the trial, with the modification that the reference to the transcript in subsection (2A) is to be construed as a reference to the transcript of the record made of proceedings at the trial resulting in the acquittal mentioned in subsection (2AB)(b).
 
 (2AB) The person mentioned in subsection (2AA) is a person who—
 
@@ -60,7 +60,7 @@ a judge of the High Court may order, and in that event[^key-368aa8dbd74407d940de
 (2C) Any application under subsection (2A) above shall—
 
 - (a) be made within 14 days after the date on which leave to appeal was granted or within such longer period after that date as a judge of the High Court may, on written application and on cause shown, allow; and
-- (aa)[^key-6500b425e3c3c4ef9211ef9a793c212d] set out, for each ground of appeal to which the application relates, the particular evidence, speech or other part of the record required; and
+- (aa)[^c-6500b425e3c3c4ef9211ef9a793c212d] set out, for each ground of appeal to which the application relates, the particular evidence, speech or other part of the record required; and
 - (b) be intimated forthwith by the applicant to the prosecutor.
 
 (2D) The prosecutor may, within 7 days after receiving intimation under subsection (2C)(b) above, make written representations to the court as respects the application under subsection (2A) above (the application being determined without a hearing).
@@ -94,7 +94,7 @@ a judge of the High Court may order, and in that event[^key-368aa8dbd74407d940de
 - (c) any other person named in, or immediately affected by, any order made in the proceedings; and
 - (d) any person authorised to act on behalf of any of the persons mentioned in paragraphs (a) to (c) above.
 
-(10)[^key-81125a1bb2a635da0d7b3f56429e7c0c] In this section, “**complainer**” means a person against whom an offence to which the trial related was alleged to have been committed.
+(10)[^c-81125a1bb2a635da0d7b3f56429e7c0c] In this section, “**complainer**” means a person against whom an offence to which the trial related was alleged to have been committed.
 
 ## Annotations
 
@@ -102,18 +102,18 @@ a judge of the High Court may order, and in that event[^key-368aa8dbd74407d940de
 
 [^c18924001]: Textual amendment: Words s. 94(2)(b) inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 65(a)(ii)](https://www.legislation.gov.uk/asp/2003/7/section/65/a/ii), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-4b1aeb75c62dcf7868c78ee26f9154f5]: Textual amendment: [S. 94(2ZA)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2ZA) inserted (1.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 51(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/51/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-4b1aeb75c62dcf7868c78ee26f9154f5]: Textual amendment: [S. 94(2ZA)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2ZA) inserted (1.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 51(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/51/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
 [^c18924021]: Textual amendment: S. 94(2A)-(2F) inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 65(b)](https://www.legislation.gov.uk/asp/2003/7/section/65/b), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-22a42ef1c0cb29a129572b48ab8210e0]: Textual amendment: [S. 94(2A)(b)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2A/b) substituted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/2/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
+[^c-22a42ef1c0cb29a129572b48ab8210e0]: Textual amendment: [S. 94(2A)(b)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2A/b) substituted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/2/a) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
 
-[^key-368aa8dbd74407d940de454090363742]: Textual amendment: Words in [s. 94(2A)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2A) substituted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/2/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
+[^c-368aa8dbd74407d940de454090363742]: Textual amendment: Words in [s. 94(2A)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2A) substituted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/2/b) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
 
-[^key-69796c748e86fbac134f7df247914907]: Textual amendment: [S. 94(2AZA)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2AZA) inserted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/3) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
+[^c-69796c748e86fbac134f7df247914907]: Textual amendment: [S. 94(2AZA)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2AZA) inserted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/3) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
 
-[^key-2286bcd51dcc39259e64e589011e2152]: Textual amendment: S. 94(2AA)(2AB) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 7](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/7); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-2286bcd51dcc39259e64e589011e2152]: Textual amendment: S. 94(2AA)(2AB) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [sch. para. 7](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/7); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-6500b425e3c3c4ef9211ef9a793c212d]: Textual amendment: [S. 94(2C)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2C/aa) inserted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/4) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
+[^c-6500b425e3c3c4ef9211ef9a793c212d]: Textual amendment: [S. 94(2C)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/2C/aa) inserted (12.11.2012) by [Act of Adjournal (Amendment of the Criminal Procedure (Scotland) Act 1995) (Transcripts) 2012 (S.S.I. 2012/272)](https://www.legislation.gov.uk/ssi/2012/272), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2012/272/paragraph/2/4) (with [para. 3](https://www.legislation.gov.uk/ssi/2012/272/paragraph/3))
 
-[^key-81125a1bb2a635da0d7b3f56429e7c0c]: Textual amendment: [S. 94(10)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/10) inserted (1.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 51(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/51/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-81125a1bb2a635da0d7b3f56429e7c0c]: Textual amendment: [S. 94(10)](https://www.legislation.gov.uk/ukpga/1995/46/section/94/10) inserted (1.4.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 51(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/51/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

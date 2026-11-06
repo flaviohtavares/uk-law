@@ -31,7 +31,7 @@ summary: ''
 
 UNITED NATIONS
 
-The Iraq (United Nations Sanctions) Order 2003 (revoked)[^key-fc5863a3e4aaa1dcca2ad85163365077]
+The Iraq (United Nations Sanctions) Order 2003 (revoked)[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 Made
 
@@ -51,164 +51,164 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-fc5863a3e4aaa1dcca2ad85163365077]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc5863a3e4aaa1dcca2ad85163365077]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, operation and extent[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## 1. Citation, commencement, operation and extent[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## 2. Revocation[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## 3. Amendment[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Interpretation[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## 4. Interpretation[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## RESTRICTED GOODS[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## RESTRICTED GOODS[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
-### 5. Supply of restricted goods[^key-fc5863a3e4aaa1dcca2ad85163365077]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Exportation of restricted goods to Iraq[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 5. Supply of restricted goods[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Use of ships, aircraft and vehicles: restricted goods[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 6. Exportation of restricted goods to Iraq[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ILLEGALLY REMOVED IRAQI CULTURAL PROPERTY[^key-fc5863a3e4aaa1dcca2ad85163365077]
-
-### 8. Illegally removed Iraqi cultural property[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 7. Use of ships, aircraft and vehicles: restricted goods[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PRIVILEGES AND IMMUNITIES[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## ILLEGALLY REMOVED IRAQI CULTURAL PROPERTY[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
-### 9. Development Fund for Iraq[^key-fc5863a3e4aaa1dcca2ad85163365077]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Petroleum, petroleum products and natural gas[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 8. Illegally removed Iraqi cultural property[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## GENERAL[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## PRIVILEGES AND IMMUNITIES[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
-### 11. Customs powers to demand evidence of destination which goods reach[^key-fc5863a3e4aaa1dcca2ad85163365077]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. Offences in connection with applications for licences, conditions attaching to licences, etc.[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 9. Development Fund for Iraq[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Declaration as to goods: powers of search[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 10. Petroleum, petroleum products and natural gas[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Investigation, etc. of suspected ships[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## GENERAL[^c-fc5863a3e4aaa1dcca2ad85163365077]
+
+### 11. Customs powers to demand evidence of destination which goods reach[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Investigation, etc. of suspected aircraft[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 12. Offences in connection with applications for licences, conditions attaching to licences, etc.[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Investigation, etc. of suspected vehicles[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 13. Declaration as to goods: powers of search[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Provisions supplementary to articles 14 to 16[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 14. Investigation, etc. of suspected ships[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Obtaining of evidence and information[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 15. Investigation, etc. of suspected aircraft[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Investigations by the Commissioners of Customs and Excise[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 16. Investigation, etc. of suspected vehicles[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Penalties and proceedings[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 17. Provisions supplementary to articles 14 to 16[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Exercise of the powers of the Secretary of State[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 18. Obtaining of evidence and information[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc5863a3e4aaa1dcca2ad85163365077]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Investigations by the Commissioners of Customs and Excise[^c-fc5863a3e4aaa1dcca2ad85163365077]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Penalties and proceedings[^c-fc5863a3e4aaa1dcca2ad85163365077]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Exercise of the powers of the Secretary of State[^c-fc5863a3e4aaa1dcca2ad85163365077]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fc5863a3e4aaa1dcca2ad85163365077]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — AMENDMENT OF THE IRAQ (UNITED NATIONS SANCTIONS) ORDER 2000[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## SCHEDULE 1 — AMENDMENT OF THE IRAQ (UNITED NATIONS SANCTIONS) ORDER 2000[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 Article 3
 
-### 1. Interpretation[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 1. Interpretation[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Making funds available to designated persons[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 2. Making funds available to designated persons[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Freezing funds[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 3. Freezing funds[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Licences[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 4. Licences[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Transfer of designated funds[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 5. Transfer of designated funds[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Facilitation of offences under article 3[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 6. Facilitation of offences under article 3[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Failure to disclose knowledge or suspicion of sanctions offences[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 7. Failure to disclose knowledge or suspicion of sanctions offences[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Penalties and proceedings[^key-fc5863a3e4aaa1dcca2ad85163365077]
+### 8. Penalties and proceedings[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — DISCLOSURE OF INFORMATION—LISTED TERRITORIES[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## SCHEDULE 2 — DISCLOSURE OF INFORMATION—LISTED TERRITORIES[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 Article 17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — EVIDENCE AND INFORMATION[^key-fc5863a3e4aaa1dcca2ad85163365077]
+## SCHEDULE 3 — EVIDENCE AND INFORMATION[^c-fc5863a3e4aaa1dcca2ad85163365077]
 
 Article 18
 
-**1.**[^key-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fc5863a3e4aaa1dcca2ad85163365077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc5863a3e4aaa1dcca2ad85163365077]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc5863a3e4aaa1dcca2ad85163365077]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc5863a3e4aaa1dcca2ad85163365077]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1519) revoked (31.12.2020) by [The Iraq (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/707)](https://www.legislation.gov.uk/uksi/2020/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/707/regulation/1/2), [68(3)](https://www.legislation.gov.uk/uksi/2020/707/regulation/68/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/14/2)
+[^c-fc5863a3e4aaa1dcca2ad85163365077]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1519) revoked (31.12.2020) by [The Iraq (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/707)](https://www.legislation.gov.uk/uksi/2020/707), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/707/regulation/1/2), [68(3)](https://www.legislation.gov.uk/uksi/2020/707/regulation/68/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/14/2)

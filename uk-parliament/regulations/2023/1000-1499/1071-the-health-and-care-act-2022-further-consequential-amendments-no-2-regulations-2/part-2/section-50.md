@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment of the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^key-cd4b671cc01d0efb96d88d316b5a6b03]
+## 50. Amendment of the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^c-cd4b671cc01d0efb96d88d316b5a6b03]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd4b671cc01d0efb96d88d316b5a6b03]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2023/1071/regulation/50) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-cd4b671cc01d0efb96d88d316b5a6b03]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2023/1071/regulation/50) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 2011/2055](https://www.legislation.gov.uk/uksi/2011/2055), amended by [S.I. 2013/522](https://www.legislation.gov.uk/uksi/2013/522); there are other amending instruments but none is relevant.

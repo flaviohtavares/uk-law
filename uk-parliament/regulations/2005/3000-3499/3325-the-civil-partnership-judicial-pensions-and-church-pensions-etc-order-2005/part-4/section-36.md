@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: N.I.*
 
-**36.**[^key-dd0d5819d71f483d292a05d027573d8b] In section 4A (as inserted by paragraph (3) of Schedule 3 to the Personal Pension Option (No.1) Regulations (Northern Ireland) 1989[^f00013]), after “widow's” insert “, surviving civil partner's”.
+**36.**[^c-dd0d5819d71f483d292a05d027573d8b] In section 4A (as inserted by paragraph (3) of Schedule 3 to the Personal Pension Option (No.1) Regulations (Northern Ireland) 1989[^f00013]), after “widow's” insert “, surviving civil partner's”.
 
 ## Annotations
 
-[^key-dd0d5819d71f483d292a05d027573d8b]: Commencement: Art. 36 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-dd0d5819d71f483d292a05d027573d8b]: Commencement: Art. 36 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00013]: Footnote: [S.R. (NI) 1989/100](https://www.legislation.gov.uk/nisr/1989/100).

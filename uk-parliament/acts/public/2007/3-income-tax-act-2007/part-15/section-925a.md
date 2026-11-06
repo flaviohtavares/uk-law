@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 925A. Creditor repos[^key-7920ff4a5607779c7ac914e0c1fae59a]
+## 925A. Creditor repos[^c-7920ff4a5607779c7ac914e0c1fae59a]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsection (2) applies if a company (“**the lender**”) has a creditor repo for the purposes of Chapter 10 of Part 6 of CTA 2009 (see section 543 of that Act).
 
-(2) Sections 918 , 919 and 921[^key-49c943e9c4002ea1445b0feb84f8828d] have effect in relation to the lender while the arrangement is in force as if—
+(2) Sections 918 , 919 and 921[^c-49c943e9c4002ea1445b0feb84f8828d] have effect in relation to the lender while the arrangement is in force as if—
 
 - (a) the lender paid the borrower amounts which are representative of the income payable on the securities that are initially sold,
 - (b) the payments were made under requirements of the arrangement, and
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7920ff4a5607779c7ac914e0c1fae59a]: Textual amendment: Ss. 925A-925F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/112) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-7920ff4a5607779c7ac914e0c1fae59a]: Textual amendment: Ss. 925A-925F and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 112](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/112) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-49c943e9c4002ea1445b0feb84f8828d]: Textual amendment: Words in s. 925A(2) substituted (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 26](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/26)
+[^c-49c943e9c4002ea1445b0feb84f8828d]: Textual amendment: Words in s. 925A(2) substituted (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 26](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/26)

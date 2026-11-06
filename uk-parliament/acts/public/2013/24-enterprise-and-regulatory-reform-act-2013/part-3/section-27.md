@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Transfer schemes[^key-d9ce710ce961d3c5607e86337f93bc05]
+## 27. Transfer schemes[^c-d9ce710ce961d3c5607e86337f93bc05]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9ce710ce961d3c5607e86337f93bc05]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/24/section/27) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/b)
+[^c-d9ce710ce961d3c5607e86337f93bc05]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/24/section/27) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Summary reviews of premises licences: review of interim steps[^c22719761][^key-397d7613cba7590ce5cd914cc9413a56]
+## 137. Summary reviews of premises licences: review of interim steps[^c22719761][^c-397d7613cba7590ce5cd914cc9413a56]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ summary: ''
 
 [^c22719761]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2017/3/section/137) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-397d7613cba7590ce5cd914cc9413a56]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2017/3/section/137) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/c)
+[^c-397d7613cba7590ce5cd914cc9413a56]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2017/3/section/137) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/c)

@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2008 (revoked)[^key-06ccd577e3c3297ea1151bd7422314e7]
+The Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2008 (revoked)[^c-06ccd577e3c3297ea1151bd7422314e7]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 15th September 2008
 
-[^key-06ccd577e3c3297ea1151bd7422314e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06ccd577e3c3297ea1151bd7422314e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-06ccd577e3c3297ea1151bd7422314e7]
+## 1. Citation and commencement[^c-06ccd577e3c3297ea1151bd7422314e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Social Fund Winter Fuel Payment Regulations 2000[^key-06ccd577e3c3297ea1151bd7422314e7]
+## 2. Modification of the Social Fund Winter Fuel Payment Regulations 2000[^c-06ccd577e3c3297ea1151bd7422314e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06ccd577e3c3297ea1151bd7422314e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06ccd577e3c3297ea1151bd7422314e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06ccd577e3c3297ea1151bd7422314e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06ccd577e3c3297ea1151bd7422314e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06ccd577e3c3297ea1151bd7422314e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1778) revoked (21.9.2009) by [The Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2009 (S.I. 2009/1489)](https://www.legislation.gov.uk/uksi/2009/1489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1489/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/1489/regulation/3)
+[^c-06ccd577e3c3297ea1151bd7422314e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1778) revoked (21.9.2009) by [The Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2009 (S.I. 2009/1489)](https://www.legislation.gov.uk/uksi/2009/1489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1489/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/1489/regulation/3)

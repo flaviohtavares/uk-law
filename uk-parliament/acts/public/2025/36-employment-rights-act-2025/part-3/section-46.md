@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Power to ratify agreements[^key-ff3912f606aefae958e7828a5b997f5b][^key-99bb623c4412eefa55bc921c4b20fde0]
+## 46. Power to ratify agreements[^c-ff3912f606aefae958e7828a5b997f5b][^c-99bb623c4412eefa55bc921c4b20fde0]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3912f606aefae958e7828a5b997f5b]: Commencement: S. 46 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ff3912f606aefae958e7828a5b997f5b]: Commencement: S. 46 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-99bb623c4412eefa55bc921c4b20fde0]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2025/36/section/46) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(16)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/16)
+[^c-99bb623c4412eefa55bc921c4b20fde0]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2025/36/section/46) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(16)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/16)

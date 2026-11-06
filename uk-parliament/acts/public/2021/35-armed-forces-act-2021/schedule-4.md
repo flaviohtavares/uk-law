@@ -22,7 +22,7 @@ summary: ''
 
 Section 11
 
-### 1. Service Police Complaints Commissioner[^key-4bd776f819e7ed3d9cc9f42ee9bffa37][^key-d33c43774df393fc7ad5c0b6c48cd4f8][^key-1fe119834bf65938ab39917b8c254957]
+### 1. Service Police Complaints Commissioner[^c-4bd776f819e7ed3d9cc9f42ee9bffa37][^c-d33c43774df393fc7ad5c0b6c48cd4f8][^c-1fe119834bf65938ab39917b8c254957]
 
 After Schedule 14 to AFA 2006 insert—
 
@@ -80,7 +80,7 @@ After Schedule 14 to AFA 2006 insert—
 >
 > (3) In sub-paragraph (1) the reference to secondment to serve as a member of the Commissioner’s staff is to serving as a member of the Commissioner’s staff without being employed by the Commissioner.
 
-### 2. Investigatory Powers[^key-3033c031cd8ae0c1d216340fd6649255][^key-bcfcadb31fa9b10d0a7f597142a4bb8a][^key-f49393e303ed491a6d91b6011d7c3351]
+### 2. Investigatory Powers[^c-3033c031cd8ae0c1d216340fd6649255][^c-bcfcadb31fa9b10d0a7f597142a4bb8a][^c-f49393e303ed491a6d91b6011d7c3351]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -122,25 +122,25 @@ After Schedule 14 to AFA 2006 insert—
 
 .
 
-### 3. Other amendments[^key-8e47ed55f9baf12ed58e4ca903d92e90][^key-699a09d75ef71a2d5f48028e2d407227][^key-eae8bdc7f3c14abd93fbc67887943791]
+### 3. Other amendments[^c-8e47ed55f9baf12ed58e4ca903d92e90][^c-699a09d75ef71a2d5f48028e2d407227][^c-eae8bdc7f3c14abd93fbc67887943791]
 
 In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (definition of public records), at the appropriate place insert—
 
 > - Service Police Complaints Commissioner.
 
-**4.**[^key-e3eafd4ae11a8b5f9b02b7922f93b411][^key-6292e5e5f7e37b355063391c9bee0352][^key-c38fe30751e42aa953bfb543c1f88b31] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert—
+**4.**[^c-e3eafd4ae11a8b5f9b02b7922f93b411][^c-6292e5e5f7e37b355063391c9bee0352][^c-c38fe30751e42aa953bfb543c1f88b31] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert—
 
 > - Service Police Complaints Commissioner.
 
-**5.**[^key-e544ee76d9ed14cae9ea5be135b150ad][^key-e780bca46bf513cbe3d5ffe4147babfe][^key-25d3db4e062ac1f98f26428e5c4cad75] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert—
+**5.**[^c-e544ee76d9ed14cae9ea5be135b150ad][^c-e780bca46bf513cbe3d5ffe4147babfe][^c-25d3db4e062ac1f98f26428e5c4cad75] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert—
 
 > - Service Police Complaints Commissioner.
 
-**6.**[^key-d2dbb0683e3828e30cb0b553f2f9b854][^key-99820487b72e0675b16fd6947254d5b4][^key-0e77c790b0aedc4a5ee25b0989ea1ee2] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities), at the appropriate place insert—
+**6.**[^c-d2dbb0683e3828e30cb0b553f2f9b854][^c-99820487b72e0675b16fd6947254d5b4][^c-0e77c790b0aedc4a5ee25b0989ea1ee2] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities), at the appropriate place insert—
 
 > - Service Police Complaints Commissioner.
 
-**7.**[^key-a48680b55e42f9ba6fbeff1b4aef3b7e][^key-96b54fb9008957c76e7c83f1a11a3e8e][^key-fef5c9cff0bf58e229b0df054cb5396e] In section 47 of the Coroners and Justice Act 2009 (interested person)—
+**7.**[^c-a48680b55e42f9ba6fbeff1b4aef3b7e][^c-96b54fb9008957c76e7c83f1a11a3e8e][^c-fef5c9cff0bf58e229b0df054cb5396e] In section 47 of the Coroners and Justice Act 2009 (interested person)—
 
 - (a) in subsection (2), after paragraph (k) insert—
 
@@ -151,66 +151,66 @@ In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 19
 
   > (5A) This subsection applies where the death of the deceased is or has been the subject of an investigation directed or carried out by the Service Police Complaints Commissioner in accordance with provision made under section 340P of the Armed Forces Act 2006.
 
-**8.**[^key-a67b631580ead3d6ad52508056893f75][^key-568b39f06c737fb7467a2f4ac778e1e4][^key-70105ce7b35510da23a84471f1edef15] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities, general), under the heading “Armed forces”, at the appropriate place insert—
+**8.**[^c-a67b631580ead3d6ad52508056893f75][^c-568b39f06c737fb7467a2f4ac778e1e4][^c-70105ce7b35510da23a84471f1edef15] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities, general), under the heading “Armed forces”, at the appropriate place insert—
 
 > - Service Police Complaints Commissioner.
 
-**9.**[^key-77904547718af94cbb23ccb00bcfdc02][^key-3aa9a46dbe03fed45566b502d5ab0529][^key-ec8d9cb3896f40b0cecf292c630e04d0] In Schedule 7 to the Data Protection Act 2018 (competent authorities), after paragraph 18 insert—
+**9.**[^c-77904547718af94cbb23ccb00bcfdc02][^c-3aa9a46dbe03fed45566b502d5ab0529][^c-ec8d9cb3896f40b0cecf292c630e04d0] In Schedule 7 to the Data Protection Act 2018 (competent authorities), after paragraph 18 insert—
 
 > **18A.** The Service Police Complaints Commissioner.
 
 ## Annotations
 
-[^key-4bd776f819e7ed3d9cc9f42ee9bffa37]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-4bd776f819e7ed3d9cc9f42ee9bffa37]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-d33c43774df393fc7ad5c0b6c48cd4f8]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/1) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-d33c43774df393fc7ad5c0b6c48cd4f8]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/1) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-1fe119834bf65938ab39917b8c254957]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/1) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-1fe119834bf65938ab39917b8c254957]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/1) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-3033c031cd8ae0c1d216340fd6649255]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-3033c031cd8ae0c1d216340fd6649255]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-bcfcadb31fa9b10d0a7f597142a4bb8a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/2) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-bcfcadb31fa9b10d0a7f597142a4bb8a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/2) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-f49393e303ed491a6d91b6011d7c3351]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/2) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-f49393e303ed491a6d91b6011d7c3351]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/2) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-8e47ed55f9baf12ed58e4ca903d92e90]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-8e47ed55f9baf12ed58e4ca903d92e90]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-699a09d75ef71a2d5f48028e2d407227]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/3) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-699a09d75ef71a2d5f48028e2d407227]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/3) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-eae8bdc7f3c14abd93fbc67887943791]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/3) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-eae8bdc7f3c14abd93fbc67887943791]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/3) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-e3eafd4ae11a8b5f9b02b7922f93b411]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-e3eafd4ae11a8b5f9b02b7922f93b411]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-6292e5e5f7e37b355063391c9bee0352]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/4) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-6292e5e5f7e37b355063391c9bee0352]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/4) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-c38fe30751e42aa953bfb543c1f88b31]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/4) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-c38fe30751e42aa953bfb543c1f88b31]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/4) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-e544ee76d9ed14cae9ea5be135b150ad]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-e544ee76d9ed14cae9ea5be135b150ad]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-e780bca46bf513cbe3d5ffe4147babfe]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/5) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-e780bca46bf513cbe3d5ffe4147babfe]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/5) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-25d3db4e062ac1f98f26428e5c4cad75]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/5) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-25d3db4e062ac1f98f26428e5c4cad75]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/5) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-d2dbb0683e3828e30cb0b553f2f9b854]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-d2dbb0683e3828e30cb0b553f2f9b854]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-99820487b72e0675b16fd6947254d5b4]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/6) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-99820487b72e0675b16fd6947254d5b4]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/6) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-0e77c790b0aedc4a5ee25b0989ea1ee2]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/6) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-0e77c790b0aedc4a5ee25b0989ea1ee2]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/6) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-a48680b55e42f9ba6fbeff1b4aef3b7e]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-a48680b55e42f9ba6fbeff1b4aef3b7e]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-96b54fb9008957c76e7c83f1a11a3e8e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/7) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-96b54fb9008957c76e7c83f1a11a3e8e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/7) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-fef5c9cff0bf58e229b0df054cb5396e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/7) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-fef5c9cff0bf58e229b0df054cb5396e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/7) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-a67b631580ead3d6ad52508056893f75]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-a67b631580ead3d6ad52508056893f75]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-568b39f06c737fb7467a2f4ac778e1e4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/8) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-568b39f06c737fb7467a2f4ac778e1e4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/8) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-70105ce7b35510da23a84471f1edef15]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/8) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-70105ce7b35510da23a84471f1edef15]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/8) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
 
-[^key-77904547718af94cbb23ccb00bcfdc02]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-77904547718af94cbb23ccb00bcfdc02]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-3aa9a46dbe03fed45566b502d5ab0529]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/9) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
+[^c-3aa9a46dbe03fed45566b502d5ab0529]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/9) in force at 1.11.2022 for specified purposes by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3)
 
-[^key-ec8d9cb3896f40b0cecf292c630e04d0]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/9) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-ec8d9cb3896f40b0cecf292c630e04d0]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/9) in force at 19.6.2023 in so far as not already in force by [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)

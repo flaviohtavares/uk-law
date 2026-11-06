@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Refund of excess contributions[^key-f8fc78176f434e86da11540e204b9050]
+## 31. Refund of excess contributions[^c-f8fc78176f434e86da11540e204b9050]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ After Part 7 insert—
 
 ## Annotations
 
-[^key-f8fc78176f434e86da11540e204b9050]: Commencement: Reg. 31 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-f8fc78176f434e86da11540e204b9050]: Commencement: Reg. 31 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1995/639](https://www.legislation.gov.uk/uksi/1995/639); regulation 4.6 was amended by [S.I. 2006/747](https://www.legislation.gov.uk/uksi/2006/747).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Special provision for rural school closure proposals[^key-766cc938a73583d3acab2c657260f823]
+## 80. Special provision for rural school closure proposals[^c-766cc938a73583d3acab2c657260f823]
 
 *Extent: S*
 
@@ -118,4 +118,4 @@ summary: ''
 
 ## Annotations
 
-[^key-766cc938a73583d3acab2c657260f823]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/8/section/80) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-766cc938a73583d3acab2c657260f823]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2014/8/section/80) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))

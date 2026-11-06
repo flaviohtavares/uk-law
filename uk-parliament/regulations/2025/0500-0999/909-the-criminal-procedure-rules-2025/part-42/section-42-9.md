@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.9. Record of proceedings and transcripts[^key-b19eaa632b726b95db61342ffe06fae1]
+## 42.9. Record of proceedings and transcripts[^c-b19eaa632b726b95db61342ffe06fae1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 5.5 (Recording and transcription of proceedings in the Crown Court) and rul
 
 ## Annotations
 
-[^key-b19eaa632b726b95db61342ffe06fae1]: Commencement: [Rule 42.9](https://www.legislation.gov.uk/uksi/2025/909/rule/42.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b19eaa632b726b95db61342ffe06fae1]: Commencement: [Rule 42.9](https://www.legislation.gov.uk/uksi/2025/909/rule/42.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

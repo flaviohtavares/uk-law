@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Modifying proposals or specifying a later date for a conditional approval[^key-805e8d5483d7521f61112b77cda5dca1]
+## 22. Modifying proposals or specifying a later date for a conditional approval[^c-805e8d5483d7521f61112b77cda5dca1]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where proposals are modified under paragraph 21(2)(a) of Schedule 2 to the Act, the local authority or the adjudicator (as the case may be) must notify the Secretary of State within one week of the date of the proposals being modified.
 
-(3)[^key-c3e79e1f0a9bbb89dbc504ddba28b67c] In relation to paragraph 21(2) of Schedule 2 to the Act, the local authority must refer to the Secretary of State cases—
+(3)[^c-c3e79e1f0a9bbb89dbc504ddba28b67c] In relation to paragraph 21(2) of Schedule 2 to the Act, the local authority must refer to the Secretary of State cases—
 
 - (a) where the initial decision in relation to the original proposals was made by the Secretary of State, within two weeks of receipt of the request from the proposers;
 - (b) where the original proposal was made by the local authority, within two weeks of the decision that a determination under paragraph 21(2) of Schedule 2 to the Act should be made.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-805e8d5483d7521f61112b77cda5dca1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/3109/regulation/22) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)
+[^c-805e8d5483d7521f61112b77cda5dca1]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2013/3109/regulation/22) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)
 
-[^key-c3e79e1f0a9bbb89dbc504ddba28b67c]: Textual amendment: [Reg. 22(3)-(5)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/22/3) inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/528/regulation/23) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-c3e79e1f0a9bbb89dbc504ddba28b67c]: Textual amendment: [Reg. 22(3)-(5)](https://www.legislation.gov.uk/uksi/2013/3109/regulation/22/3) inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/528/regulation/23) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))

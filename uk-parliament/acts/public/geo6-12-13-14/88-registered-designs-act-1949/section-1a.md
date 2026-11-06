@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Substantive grounds for refusal of registration.[^key-dcd1969a6baff475153abb92061cb2cf]
+## 1A. Substantive grounds for refusal of registration.[^c-dcd1969a6baff475153abb92061cb2cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcd1969a6baff475153abb92061cb2cf]: Textual amendment: S. 1A omitted (1.10.2006) by virtue of [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1974/article/3)
+[^c-dcd1969a6baff475153abb92061cb2cf]: Textual amendment: S. 1A omitted (1.10.2006) by virtue of [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1974/article/3)

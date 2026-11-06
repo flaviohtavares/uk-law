@@ -101,7 +101,7 @@ Section 209.
 
 ### The Pet Animals Act 1951[^c9689371]
 
-**26.**[^key-7ef8e5cd7058d115ec2bf560da6b3c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-7ef8e5cd7058d115ec2bf560da6b3c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Food and Drugs (Scotland) Act 1956[^c9689381]
 
@@ -187,7 +187,7 @@ Section 209.
 
 [^c9689371]: Marginal citation: [1951 c. 35](https://www.legislation.gov.uk/ukpga/1951/35).
 
-[^key-7ef8e5cd7058d115ec2bf560da6b3c2f]: Textual amendment: [Sch. 25 para. 26](https://www.legislation.gov.uk/ukpga/1973/65/schedule/25/paragraph/26) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
+[^c-7ef8e5cd7058d115ec2bf560da6b3c2f]: Textual amendment: [Sch. 25 para. 26](https://www.legislation.gov.uk/ukpga/1973/65/schedule/25/paragraph/26) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
 
 [^c9689381]: Marginal citation: [1956 c. 30](https://www.legislation.gov.uk/ukpga/1956/30).
 

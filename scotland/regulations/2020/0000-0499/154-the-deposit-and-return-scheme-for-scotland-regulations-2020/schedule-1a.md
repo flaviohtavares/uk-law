@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1A — Information to be contained in an application for registration of a groceries retailer operating a return point[^key-8e9f222e301a6b018975861a0d84702a]
+## SCHEDULE 1A — Information to be contained in an application for registration of a groceries retailer operating a return point[^c-8e9f222e301a6b018975861a0d84702a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ Regulation 20ZA(2)
 
 ## Annotations
 
-[^key-8e9f222e301a6b018975861a0d84702a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ssi/2020/154/schedule/1A) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [31](https://www.legislation.gov.uk/ssi/2025/188/regulation/31)
+[^c-8e9f222e301a6b018975861a0d84702a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ssi/2020/154/schedule/1A) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [31](https://www.legislation.gov.uk/ssi/2025/188/regulation/31)

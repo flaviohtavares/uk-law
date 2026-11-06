@@ -24,17 +24,17 @@ Section 61
 
 ### Domestic service providers: extension of liability
 
-**1.**[^key-e9324d032c2a1c674b926afd71b65d97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e9324d032c2a1c674b926afd71b65d97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f31ea8ef81e0e6869d37c2ecf6b5ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f31ea8ef81e0e6869d37c2ecf6b5ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-UK service providers: restriction on institution of proceedings
 
-**3.**[^key-bdd331e938ac5d30520c2086e31361e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bdd331e938ac5d30520c2086e31361e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exceptions for mere conduits
 
-**4.**[^key-b0a9f23164c4ca75a6b5b0818699c18c] (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in—
+**4.**[^c-b0a9f23164c4ca75a6b5b0818699c18c] (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in—
 
 - (a) the provision of access to a communication network, or
 - (b) the transmission in a communication network of information provided by a recipient of the service,
@@ -58,7 +58,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for caching
 
-**5.**[^key-e2ee75bdd8048a6d5b611067e7e4cdfe] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
+**5.**[^c-e2ee75bdd8048a6d5b611067e7e4cdfe] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
 
 (2) The service provider is not capable of being guilty of a relevant offence in respect of the automatic, intermediate and temporary storage of information so provided, if—
 
@@ -79,7 +79,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for hosting
 
-**6.**[^key-fc999aadd269247390130b7b7f3d04c1] (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
+**6.**[^c-fc999aadd269247390130b7b7f3d04c1] (1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
 
 - (a) the service provider had no actual knowledge when the information was provided that the information was capable of, and provided with the intention of, encouraging or assisting suicide or an attempt at suicide, or
 - (b) on obtaining such knowledge, the service provider expeditiously removed the information or disabled access to the information.
@@ -88,9 +88,9 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Interpretation
 
-**7.**[^key-1177f66feccfec6559dd33008970fa44] (1) This paragraph applies for the purposes of this Schedule.
+**7.**[^c-1177f66feccfec6559dd33008970fa44] (1) This paragraph applies for the purposes of this Schedule.
 
-(2)[^key-bd82116ac7419f36aeac706753d4f2d5] “Relevant offence” means an offence under—
+(2)[^c-bd82116ac7419f36aeac706753d4f2d5] “Relevant offence” means an offence under—
 
 - (a) section 2 of the Suicide Act [1961 (c.60)](https://www.legislation.gov.uk/ukpga/1961/60) (criminal liability for complicity in another’s suicide), or
 - (b) section 13 of the Criminal Justice Act (Northern Ireland) 1966 (c. 20 (N.I.)) (criminal liability for complicity in another’s suicide).
@@ -106,24 +106,24 @@ and “**the E-Commerce Directive**” means Directive [2000/31/EC](https://www.
 
 (5) “**Service provider**” means a person providing an information society service.
 
-(6)[^key-c87fc52ba7554bdccdd9e3a1466ca457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c87fc52ba7554bdccdd9e3a1466ca457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9324d032c2a1c674b926afd71b65d97]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/1) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/a)
+[^c-e9324d032c2a1c674b926afd71b65d97]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/1) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/a)
 
-[^key-f31ea8ef81e0e6869d37c2ecf6b5ca6e]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/2) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/b)
+[^c-f31ea8ef81e0e6869d37c2ecf6b5ca6e]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/2) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/b)
 
-[^key-bdd331e938ac5d30520c2086e31361e2]: Textual amendment: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/3) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/c)
+[^c-bdd331e938ac5d30520c2086e31361e2]: Textual amendment: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/3) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/c)
 
-[^key-b0a9f23164c4ca75a6b5b0818699c18c]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/4) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
+[^c-b0a9f23164c4ca75a6b5b0818699c18c]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/4) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
 
-[^key-e2ee75bdd8048a6d5b611067e7e4cdfe]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/5) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
+[^c-e2ee75bdd8048a6d5b611067e7e4cdfe]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/5) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
 
-[^key-fc999aadd269247390130b7b7f3d04c1]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/6) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
+[^c-fc999aadd269247390130b7b7f3d04c1]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/12/paragraph/6) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
 
-[^key-1177f66feccfec6559dd33008970fa44]: Commencement: Sch. 12 para. 7 in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
+[^c-1177f66feccfec6559dd33008970fa44]: Commencement: Sch. 12 para. 7 in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/22)
 
-[^key-bd82116ac7419f36aeac706753d4f2d5]: Textual amendment: Sch. 12 para. 7(2) substituted (29.7.2021) by [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(d)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/d)
+[^c-bd82116ac7419f36aeac706753d4f2d5]: Textual amendment: Sch. 12 para. 7(2) substituted (29.7.2021) by [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(d)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/d)
 
-[^key-c87fc52ba7554bdccdd9e3a1466ca457]: Textual amendment: Sch. 12 para. 7(6) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(e)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/e)
+[^c-c87fc52ba7554bdccdd9e3a1466ca457]: Textual amendment: Sch. 12 para. 7(6) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [7(1)(e)](https://www.legislation.gov.uk/uksi/2021/835/regulation/7/1/e)

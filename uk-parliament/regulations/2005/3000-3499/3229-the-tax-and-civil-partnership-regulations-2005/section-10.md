@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10.[^key-d079edf669b0165e5899dc0f42543474]
+## 10.[^c-d079edf669b0165e5899dc0f42543474]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 29A(6) (abatement of exemption where claim settled out of beneficiary
 
 ## Annotations
 
-[^key-d079edf669b0165e5899dc0f42543474]: Commencement: Reg. 10 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-d079edf669b0165e5899dc0f42543474]: Commencement: Reg. 10 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Determination of appropriate bargaining unit[^key-c1d987645055110044358dc831e1a709]
+## 4. Determination of appropriate bargaining unit[^c-c1d987645055110044358dc831e1a709]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ For paragraph 19 of Schedule A1 to the 1992 Act substitute—
 
 ## Annotations
 
-[^key-c1d987645055110044358dc831e1a709]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/24/section/4) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-c1d987645055110044358dc831e1a709]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/24/section/4) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))

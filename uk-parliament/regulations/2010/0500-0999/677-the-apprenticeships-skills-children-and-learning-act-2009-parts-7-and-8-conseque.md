@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 265(1) and (2) of the Apprenticeships, Skills, Children and Learning Act 2009[^f00001].
 
-## 1. Citation and commencement[^key-11c5bfed8f237eecb2d3975bccb6ca15]
+## 1. Citation and commencement[^c-11c5bfed8f237eecb2d3975bccb6ca15]
 
 This Order may be cited as the Apprenticeships, Skills, Children and Learning Act 2009, Parts 7 and 8 (Consequential Amendments) Order 2010 and comes into force on 1st April 2010.
 
-## 2. Amendment of the Council Tax (Discount Disregards) Order 1992[^key-0210ee5e2c104cd08a5533725dbce0ca]
+## 2. Amendment of the Council Tax (Discount Disregards) Order 1992[^c-0210ee5e2c104cd08a5533725dbce0ca]
 
 In paragraph 1(1)(b) of Part 1 of Schedule 1 to the Council Tax (Discount Disregards) Order 1992[^f00002] (apprentices), as it applies to England, for the words “accredited by” to the end substitute—
 
@@ -61,11 +61,11 @@ In paragraph 1(1)(b) of Part 1 of Schedule 1 to the Council Tax (Discount Disreg
 
 .
 
-## 3. Amendment of the Employers’ Liability (Compulsory Insurance) Regulations 1998[^key-392fbb27e97a441393ce63c720f97da7][^key-cf256b1f613b880bf0a014baa7ec69c5]
+## 3. Amendment of the Employers’ Liability (Compulsory Insurance) Regulations 1998[^c-392fbb27e97a441393ce63c720f97da7][^c-cf256b1f613b880bf0a014baa7ec69c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the National Minimum Wage Regulations 1999[^key-926da099001bd6dcc88b98b4ce0f33b1]
+## 4. Amendment of the National Minimum Wage Regulations 1999[^c-926da099001bd6dcc88b98b4ce0f33b1]
 
 For regulation 12(9B)(a)(iii) of the National Minimum Wage Regulations 1999[^f00004] (workers who do not qualify for the national minimum wage) substitute—
 
@@ -73,11 +73,11 @@ For regulation 12(9B)(a)(iii) of the National Minimum Wage Regulations 1999[^f00
 
 .
 
-## 5. Amendment to the Education (Non-Maintained Special Schools) (England) Regulations 1999[^key-8ffb2ac1fc67a8f81b124e439e41b780]
+## 5. Amendment to the Education (Non-Maintained Special Schools) (England) Regulations 1999[^c-8ffb2ac1fc67a8f81b124e439e41b780]
 
 In paragraph 21(6)(a) of Part 3 of the Schedule to the Education (Non-Maintained Special Schools) (England) Regulations 1999[^f00006] (information to be published by the Governing Body) for “external” substitute “relevant”.
 
-## 6. Amendment of the Northern Ireland Act 1998 (Designation of Public Authorities) Order 2001[^key-6afb25fc2039024732f24a980040fe64]
+## 6. Amendment of the Northern Ireland Act 1998 (Designation of Public Authorities) Order 2001[^c-6afb25fc2039024732f24a980040fe64]
 
 In Schedule 1 to the Northern Ireland Act 1998 (Designation of Public Authorities) Order 2001[^f00007] for “Qualifications and Curriculum Authority” substitute—
 
@@ -85,14 +85,14 @@ In Schedule 1 to the Northern Ireland Act 1998 (Designation of Public Authoritie
 
 .
 
-## 7. Amendment of the British Nationality (General) Regulations 2003[^key-0cb17546a4415fa91a3cbafcd7649116]
+## 7. Amendment of the British Nationality (General) Regulations 2003[^c-0cb17546a4415fa91a3cbafcd7649116]
 
 In regulation 5A of the British Nationality (General) Regulations 2003[^f00008] (knowledge of language and life in the United Kingdom), as it applies to the United Kingdom,—
 
 - (a) omit “accredited” in both places it occurs; and
 - (b) in paragraph (2)(a) for “approved by the Qualifications and Curriculum Authority” substitute “which is awarded or authenticated by a body which is recognised by the Office of Qualifications and Examinations Regulation under section 132 of the Apprenticeships, Skills, Children and Learning Act 2009b in respect of the qualification”.
 
-## 8. Amendment of the Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003[^key-f0377d92c167cf19e0088436ba0b4d3c]
+## 8. Amendment of the Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003[^c-f0377d92c167cf19e0088436ba0b4d3c]
 
 (1) The Education (National Curriculum) (Key Stage 2 Assessment Arrangements) (England) Order 2003[^f00009] is amended as follows.
 
@@ -123,11 +123,11 @@ In regulation 5A of the British Nationality (General) Regulations 2003[^f00008] 
 - (b) for “them” substitute “it”; and
 - (c) for “their” in both places it occurs substitute “its”.
 
-(6)[^key-3582e2896b3f25b7b746c1588368adc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3582e2896b3f25b7b746c1588368adc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In article 11(2) (supplementary powers of the Secretary of State) for “Authority” substitute “QCDA”.
 
-## 9. Amendment of the Education (National Curriculum) (Key Stage 3 Assessment Arrangements) (England) Order 2003[^key-f1b59a96739d05f68b98c4677a6aef9f]
+## 9. Amendment of the Education (National Curriculum) (Key Stage 3 Assessment Arrangements) (England) Order 2003[^c-f1b59a96739d05f68b98c4677a6aef9f]
 
 (1) The Education (National Curriculum) (Key Stage 3 Assessment Arrangements) (England) Order 2003[^f00011] is amended as follows.
 
@@ -137,11 +137,11 @@ In regulation 5A of the British Nationality (General) Regulations 2003[^f00008] 
 
 .
 
-(3)[^key-a5bae67b78d7953695b78e416f0891c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a5bae67b78d7953695b78e416f0891c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In article 12(2) (supplementary powers of the Secretary of State) for “Authority” substitute “QCDA”.
 
-## 10. Amendment of the Education (National Curriculum) (Key Stage 1 Assessment Arrangements) (England) Order 2004[^key-42d759888533d1cc248f67d5dc75d80e]
+## 10. Amendment of the Education (National Curriculum) (Key Stage 1 Assessment Arrangements) (England) Order 2004[^c-42d759888533d1cc248f67d5dc75d80e]
 
 (1) The Education (National Curriculum) (Key Stage 1 Assessment Arrangements) (England) Order 2004[^f00012] is amended as follows.
 
@@ -154,11 +154,11 @@ In regulation 5A of the British Nationality (General) Regulations 2003[^f00008] 
 
   .
 
-(3)[^key-e67ea57ebebdd0d69ec8b4de4be79025] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e67ea57ebebdd0d69ec8b4de4be79025] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In article 9 (supplementary powers of the Secretary of State) for “Authority” substitute “QCDA”.
 
-## 11. Amendment of the Education (School Performance Targets) (England) Regulations 2004[^key-aaa8abaa95d51bf44eea9b40c4e29c1c]
+## 11. Amendment of the Education (School Performance Targets) (England) Regulations 2004[^c-aaa8abaa95d51bf44eea9b40c4e29c1c]
 
 (1) The Education (School Performance Targets) (England) Regulations 2004[^f00014] are amended as follows.
 
@@ -177,7 +177,7 @@ In regulation 5A of the British Nationality (General) Regulations 2003[^f00008] 
 
   .
 
-## 12. Amendment of the Education (Pupil Information) (England) Regulations 2005[^key-3be39aadea8ba2d715a5ee57e848a8b1]
+## 12. Amendment of the Education (Pupil Information) (England) Regulations 2005[^c-3be39aadea8ba2d715a5ee57e848a8b1]
 
 (1) The Education (Pupil Information) (England) Regulations 2005[^f00016] are amended as follows.
 
@@ -189,11 +189,11 @@ In regulation 5A of the British Nationality (General) Regulations 2003[^f00008] 
 
   ;
 - (b) in the definitions of “the associated documents” and “P Level Document” for “Qualifications and Curriculum Authority” substitute “QCDA”; and
-- (c)[^key-2121d45641e2fede75e152f657fdb96b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2121d45641e2fede75e152f657fdb96b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-18d3b262b96013f4d576f5f837147688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18d3b262b96013f4d576f5f837147688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of the Education (Local Education Authority Performance Targets) (England) Regulations 2005[^key-a3250c5b4c03f10dc7a6deb22f2a2df1]
+## 13. Amendment of the Education (Local Education Authority Performance Targets) (England) Regulations 2005[^c-a3250c5b4c03f10dc7a6deb22f2a2df1]
 
 In regulation 2 of the Education (Local Education Authority Performance Targets) (England) Regulations 2005[^f00017] (interpretation)—
 
@@ -201,11 +201,11 @@ In regulation 2 of the Education (Local Education Authority Performance Targets)
 - (b) in the definitions of “entry level”, “level 1” and “level 2” for the words from “as set out” to the end substitute “as determined by the Office of Qualifications and Examinations Regulation”; and
 - (c) in the definition of “level 2 threshold” for “Qualifications and Curriculum Authority” substitute “Qualifications and Curriculum Development Agency”.
 
-## 14. Amendment of the Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005[^key-6c157e097792c1dc33b8373f88ed6825]
+## 14. Amendment of the Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005[^c-6c157e097792c1dc33b8373f88ed6825]
 
 In Part 1 of Schedule 1 to the Disability Discrimination (Public Authorities) (Statutory Duties) Regulations 2005[^f00018] for “The Qualifications and Curriculum Authority (QCA)” substitute “The Qualifications and Curriculum Development Agency (QCDA)”.
 
-## 15. Amendment of the Education (Information About Individual Pupils) (England) Regulations 2006[^key-df33ac5abd83add5dc8d120e9ed0e534]
+## 15. Amendment of the Education (Information About Individual Pupils) (England) Regulations 2006[^c-df33ac5abd83add5dc8d120e9ed0e534]
 
 (1) The Education (Information About Individual Pupils) (England) Regulations 2006[^f00019] are amended as follows.
 
@@ -227,11 +227,11 @@ In Part 1 of Schedule 1 to the Disability Discrimination (Public Authorities) (S
 
 (3) In paragraph 4(a) of Schedule 2 (provision of information about the learning aims of pupils) omit “accreditation”.
 
-## 16. Amendment of the Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006[^key-9fd15e1d2185671dc3bb8be3c32d0706]
+## 16. Amendment of the Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006[^c-9fd15e1d2185671dc3bb8be3c32d0706]
 
 In the Schedule to the Sex Discrimination Act 1975 (Public Authorities) (Statutory Duties) Order 2006[^f00021] for “The Qualifications and Curriculum Authority (QCA)” substitute “The Qualifications and Curriculum Development Agency (QCDA)”.
 
-## 17. Amendment of the Education (Information About Children in Alternative Provision) (England) Regulations 2007[^key-373c1a1b58b59ecb30ef8db2c7667ec7]
+## 17. Amendment of the Education (Information About Children in Alternative Provision) (England) Regulations 2007[^c-373c1a1b58b59ecb30ef8db2c7667ec7]
 
 In regulation 8 of the Education (Information About Children in Alternative Provision) (England) Regulations 2007[^f00022] (persons to whom individual information supplied may be passed)—
 
@@ -240,23 +240,23 @@ In regulation 8 of the Education (Information About Children in Alternative Prov
   > - (d) the Office of Qualifications and Examinations Regulation;
 
   ; and
-- (b)[^key-3efff06fab91a8384ab1c7efc40b3dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3efff06fab91a8384ab1c7efc40b3dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of the Early Years Foundation Stage (Learning and Development Requirements) Order 2007[^key-c2acbc9d9f15ce27e31b17460090a8a7]
+## 18. Amendment of the Early Years Foundation Stage (Learning and Development Requirements) Order 2007[^c-c2acbc9d9f15ce27e31b17460090a8a7]
 
 In article 4(2) of the Early Years Foundation Stage (Learning and Development Requirements) Order 2007[^f00023] (further provisions about assessment arrangements) for “Qualifications and Curriculum Authority” substitute “Qualifications and Curriculum Development Agency”.
 
-## 19. Amendment of the Education (Supply of Information about the School Workforce) (No. 2) (England) Regulations 2007[^key-5f28a29390803d69e38a0dad59c9aade]
+## 19. Amendment of the Education (Supply of Information about the School Workforce) (No. 2) (England) Regulations 2007[^c-5f28a29390803d69e38a0dad59c9aade]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendment of the Education (School Performance Information) (England) Regulations 2007[^key-44fd44083c7fbb2ad1f4d158dafcafd3]
+## 20. Amendment of the Education (School Performance Information) (England) Regulations 2007[^c-44fd44083c7fbb2ad1f4d158dafcafd3]
 
 (1) The Education (School Performance Information) (England) Regulations 2007[^f00025] are amended as follows.
 
-(2)[^key-f871f152aae3125db630d78a680117bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f871f152aae3125db630d78a680117bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-32c21a69d2132eba1f9d2173f8f659b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-32c21a69d2132eba1f9d2173f8f659b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Schedule 4 (provision of information to the Secretary of State)—
 
@@ -267,18 +267,18 @@ In article 4(2) of the Early Years Foundation Stage (Learning and Development Re
   - (i) in sub-paragraph (1) for “an external” substitute “a relevant”; and
   - (ii) in the first and second sub-paragraph (2) for “external” in each place it occurs substitute “relevant”.
 
-## 21. Amendment of the Childcare (General Childcare Register) Regulations 2008[^key-aaaa15a6cc88b5459f2c684f4b6e6840]
+## 21. Amendment of the Childcare (General Childcare Register) Regulations 2008[^c-aaaa15a6cc88b5459f2c684f4b6e6840]
 
 In the following provisions of the Childcare (General Childcare Register) Regulations 2008[^f00026] for the words from “set out in” to the end substitute “determined by the Office of Qualifications and Examinations Regulation”—
 
 - (a) paragraph 11(2) of Schedule 3 (requirements governing activities); and
 - (b) paragraph 12(2) of Schedule 6 (requirements governing the activities of persons registered in Part B of the general childcare register).
 
-## 22. Amendment of the Childcare (Provision of Information About Young Children) (England) Regulations 2009[^key-c0dd2fc1a87b506f44ca58d7d2f2ede5]
+## 22. Amendment of the Childcare (Provision of Information About Young Children) (England) Regulations 2009[^c-c0dd2fc1a87b506f44ca58d7d2f2ede5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Amendment of the Education (Individual Pupil Information) (Prescribed Persons) (England) Regulations 2009[^key-96f421f4a9fee847d74f913d482dfa42]
+## 23. Amendment of the Education (Individual Pupil Information) (Prescribed Persons) (England) Regulations 2009[^c-96f421f4a9fee847d74f913d482dfa42]
 
 In regulation 3 of the Education (Individual Pupil Information) (Prescribed Persons) (England) Regulations 2009[^f00028] (prescribed persons)—
 
@@ -318,115 +318,115 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-11c5bfed8f237eecb2d3975bccb6ca15]: Commencement: Art. 1 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-11c5bfed8f237eecb2d3975bccb6ca15]: Commencement: Art. 1 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
-[^key-0210ee5e2c104cd08a5533725dbce0ca]: Commencement: Art. 2 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-0210ee5e2c104cd08a5533725dbce0ca]: Commencement: Art. 2 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00002]: Footnote: [S.I. 1992/548](https://www.legislation.gov.uk/uksi/1992/548), amended by [S.I. 2006/3396](https://www.legislation.gov.uk/uksi/2006/3396).
 
-[^key-392fbb27e97a441393ce63c720f97da7]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/677/article/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-392fbb27e97a441393ce63c720f97da7]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/677/article/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-cf256b1f613b880bf0a014baa7ec69c5]: Commencement.
+[^c-cf256b1f613b880bf0a014baa7ec69c5]: Commencement.
 
-[^key-926da099001bd6dcc88b98b4ce0f33b1]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-926da099001bd6dcc88b98b4ce0f33b1]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00004]: Footnote: [S.I. 1999/584](https://www.legislation.gov.uk/uksi/1999/584), paragraph (9B) was inserted by [S.I. 2007/2318](https://www.legislation.gov.uk/uksi/2007/2318); there are other amending instruments but none is relevant.
 
 [^f00005]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-8ffb2ac1fc67a8f81b124e439e41b780]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-8ffb2ac1fc67a8f81b124e439e41b780]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00006]: Footnote: [S.I. 1999/2257](https://www.legislation.gov.uk/uksi/1999/2257), amended by [S.I. 2007/1088](https://www.legislation.gov.uk/uksi/2007/1088); there is another amending instrument which is not relevant.
 
-[^key-6afb25fc2039024732f24a980040fe64]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-6afb25fc2039024732f24a980040fe64]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00007]: Footnote: [S.I. 2001/1294](https://www.legislation.gov.uk/uksi/2001/1294).
 
-[^key-0cb17546a4415fa91a3cbafcd7649116]: Commencement: Art. 7 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-0cb17546a4415fa91a3cbafcd7649116]: Commencement: Art. 7 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00008]: Footnote: [S.I. 2003/548](https://www.legislation.gov.uk/uksi/2003/548), amended by [S.I. 2005/2785](https://www.legislation.gov.uk/uksi/2005/2785).
 
-[^key-f0377d92c167cf19e0088436ba0b4d3c]: Commencement: Art. 8 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-f0377d92c167cf19e0088436ba0b4d3c]: Commencement: Art. 8 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00009]: Footnote: [S.I. 2003/1038](https://www.legislation.gov.uk/uksi/2003/1038), amended by [S.I. 2009/1585](https://www.legislation.gov.uk/uksi/2009/1585) and [2010/290](https://www.legislation.gov.uk/uksi/2010/290).
 
 [^f00010]: Footnote: By virtue of section 175 of the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), the body originally established under section 21 of the [Education Act 1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) as the Qualifications and Curriculum Authority is to continue in existence as the Qualifications and Curriculum Development Agency.
 
-[^key-3582e2896b3f25b7b746c1588368adc3]: Textual amendment: [Art. 8(6)](https://www.legislation.gov.uk/uksi/2010/677/article/8/6) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-3582e2896b3f25b7b746c1588368adc3]: Textual amendment: [Art. 8(6)](https://www.legislation.gov.uk/uksi/2010/677/article/8/6) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-f1b59a96739d05f68b98c4677a6aef9f]: Commencement: Art. 9 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-f1b59a96739d05f68b98c4677a6aef9f]: Commencement: Art. 9 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00011]: Footnote: [S.I. 2003/1039](https://www.legislation.gov.uk/uksi/2003/1039), amended by [S.I. 2008/3081](https://www.legislation.gov.uk/uksi/2008/3081) and [2009/1585](https://www.legislation.gov.uk/uksi/2009/1585).
 
-[^key-a5bae67b78d7953695b78e416f0891c4]: Textual amendment: [Art. 9(3)](https://www.legislation.gov.uk/uksi/2010/677/article/9/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-a5bae67b78d7953695b78e416f0891c4]: Textual amendment: [Art. 9(3)](https://www.legislation.gov.uk/uksi/2010/677/article/9/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-42d759888533d1cc248f67d5dc75d80e]: Commencement: Art. 10 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-42d759888533d1cc248f67d5dc75d80e]: Commencement: Art. 10 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00012]: Footnote: [S.I. 2004/2783](https://www.legislation.gov.uk/uksi/2004/2783).
 
 [^f00013]: Footnote: By virtue of section 175 of the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), the body originally established under section 21 of the [Education Act 1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) as the Qualifications and Curriculum Authority is to continue in existence as the Qualifications and Curriculum Development Agency.
 
-[^key-e67ea57ebebdd0d69ec8b4de4be79025]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2010/677/article/10/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-e67ea57ebebdd0d69ec8b4de4be79025]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2010/677/article/10/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-aaa8abaa95d51bf44eea9b40c4e29c1c]: Commencement: Art. 11 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-aaa8abaa95d51bf44eea9b40c4e29c1c]: Commencement: Art. 11 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00014]: Footnote: [S.I. 2004/2858](https://www.legislation.gov.uk/uksi/2004/2858), amended by [S.I. 2006/3151](https://www.legislation.gov.uk/uksi/2006/3151) and [2007/2975](https://www.legislation.gov.uk/uksi/2007/2975); there are other amending instruments but none is relevant.
 
 [^f00015]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-3be39aadea8ba2d715a5ee57e848a8b1]: Commencement: Art. 12 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-3be39aadea8ba2d715a5ee57e848a8b1]: Commencement: Art. 12 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00016]: Footnote: [S.I. 2005/1437](https://www.legislation.gov.uk/uksi/2005/1437), amended by [S.I. 2008/1747](https://www.legislation.gov.uk/uksi/2008/1747); there are other amending instruments but none is relevant.
 
-[^key-2121d45641e2fede75e152f657fdb96b]: Textual amendment: [Art. 12(2)(c)](https://www.legislation.gov.uk/uksi/2010/677/article/12/2/c) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-2121d45641e2fede75e152f657fdb96b]: Textual amendment: [Art. 12(2)(c)](https://www.legislation.gov.uk/uksi/2010/677/article/12/2/c) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-18d3b262b96013f4d576f5f837147688]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/2010/677/article/12/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-18d3b262b96013f4d576f5f837147688]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/2010/677/article/12/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-a3250c5b4c03f10dc7a6deb22f2a2df1]: Commencement: Art. 13 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-a3250c5b4c03f10dc7a6deb22f2a2df1]: Commencement: Art. 13 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00017]: Footnote: [S.I. 2005/2450](https://www.legislation.gov.uk/uksi/2005/2450), amended by [S.I. 2006/3150](https://www.legislation.gov.uk/uksi/2006/3150); there are other amending instruments but none is relevant.
 
-[^key-6c157e097792c1dc33b8373f88ed6825]: Commencement: Art. 14 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-6c157e097792c1dc33b8373f88ed6825]: Commencement: Art. 14 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00018]: Footnote: [S.I. 2005/2966](https://www.legislation.gov.uk/uksi/2005/2966), to which there are amendments not relevant to this Order.
 
-[^key-df33ac5abd83add5dc8d120e9ed0e534]: Commencement: Art. 15 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-df33ac5abd83add5dc8d120e9ed0e534]: Commencement: Art. 15 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00019]: Footnote: [S.I. 2006/2601](https://www.legislation.gov.uk/uksi/2006/2601), to which there are amendments not relevant to this Order.
 
 [^f00020]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-9fd15e1d2185671dc3bb8be3c32d0706]: Commencement: Art. 16 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-9fd15e1d2185671dc3bb8be3c32d0706]: Commencement: Art. 16 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00021]: Footnote: [S.I. 2006/2930](https://www.legislation.gov.uk/uksi/2006/2930), to which there are amendments not relevant to this Order.
 
-[^key-373c1a1b58b59ecb30ef8db2c7667ec7]: Commencement: Art. 17 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-373c1a1b58b59ecb30ef8db2c7667ec7]: Commencement: Art. 17 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00022]: Footnote: [S.I. 2007/1065](https://www.legislation.gov.uk/uksi/2007/1065).
 
-[^key-3efff06fab91a8384ab1c7efc40b3dcb]: Textual amendment: [Art. 17(b)](https://www.legislation.gov.uk/uksi/2010/677/article/17/b) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-3efff06fab91a8384ab1c7efc40b3dcb]: Textual amendment: [Art. 17(b)](https://www.legislation.gov.uk/uksi/2010/677/article/17/b) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-c2acbc9d9f15ce27e31b17460090a8a7]: Commencement: Art. 18 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-c2acbc9d9f15ce27e31b17460090a8a7]: Commencement: Art. 18 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00023]: Footnote: [S.I. 2007/1772](https://www.legislation.gov.uk/uksi/2007/1772).
 
-[^key-5f28a29390803d69e38a0dad59c9aade]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2010/677/article/19) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-5f28a29390803d69e38a0dad59c9aade]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2010/677/article/19) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-44fd44083c7fbb2ad1f4d158dafcafd3]: Commencement: Art. 20 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-44fd44083c7fbb2ad1f4d158dafcafd3]: Commencement: Art. 20 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00025]: Footnote: [S.I. 2007/2324](https://www.legislation.gov.uk/uksi/2007/2324), amended by [S.I. 2008/1727](https://www.legislation.gov.uk/uksi/2008/1727) and [2009/646](https://www.legislation.gov.uk/uksi/2009/646).
 
-[^key-f871f152aae3125db630d78a680117bb]: Textual amendment: [Art. 20(2)](https://www.legislation.gov.uk/uksi/2010/677/article/20/2) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-f871f152aae3125db630d78a680117bb]: Textual amendment: [Art. 20(2)](https://www.legislation.gov.uk/uksi/2010/677/article/20/2) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-32c21a69d2132eba1f9d2173f8f659b1]: Textual amendment: [Art. 20(3)](https://www.legislation.gov.uk/uksi/2010/677/article/20/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-32c21a69d2132eba1f9d2173f8f659b1]: Textual amendment: [Art. 20(3)](https://www.legislation.gov.uk/uksi/2010/677/article/20/3) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-aaaa15a6cc88b5459f2c684f4b6e6840]: Commencement: Art. 21 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-aaaa15a6cc88b5459f2c684f4b6e6840]: Commencement: Art. 21 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00026]: Footnote: [S.I. 2008/975](https://www.legislation.gov.uk/uksi/2008/975), to which there are amendments not relevant to this Order.
 
-[^key-c0dd2fc1a87b506f44ca58d7d2f2ede5]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2010/677/article/22) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
+[^c-c0dd2fc1a87b506f44ca58d7d2f2ede5]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2010/677/article/22) omitted (E.W.) (1.4.2012) by virtue of [The Education Act 2011 (Consequential Amendments to Subordinate Legislation) Order 2012 (S.I. 2012/765)](https://www.legislation.gov.uk/uksi/2012/765), [arts. 1](https://www.legislation.gov.uk/uksi/2012/765/article/1), [18](https://www.legislation.gov.uk/uksi/2012/765/article/18)
 
-[^key-96f421f4a9fee847d74f913d482dfa42]: Commencement: Art. 23 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
+[^c-96f421f4a9fee847d74f913d482dfa42]: Commencement: Art. 23 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/677/article/1)
 
 [^f00028]: Footnote: [S.I. 2009/1563](https://www.legislation.gov.uk/uksi/2009/1563).
 

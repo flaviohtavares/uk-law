@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86D. Limits on use of power: regulations directly imposing restrictions or requirements[^key-1fbe3b64e74b1d617988b2f4af4d44cc]
+## 86D. Limits on use of power: regulations directly imposing restrictions or requirements[^c-1fbe3b64e74b1d617988b2f4af4d44cc]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

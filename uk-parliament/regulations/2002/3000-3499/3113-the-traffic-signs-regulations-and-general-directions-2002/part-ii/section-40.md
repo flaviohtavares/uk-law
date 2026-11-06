@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Placing of signs varied to show metric units (affected by repeal, see note)[^key-cb19ce5c99d5c91c84fa741984d3e0fb][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5]
+## 40. Placing of signs varied to show metric units (affected by repeal, see note)[^c-cb19ce5c99d5c91c84fa741984d3e0fb][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb19ce5c99d5c91c84fa741984d3e0fb]: Textual amendment: Dir. 40 revoked (30.1.2012) by [The Traffic Signs (Amendment) (No. 2) Regulations and General Directions 2011 (S.I. 2011/3041)](https://www.legislation.gov.uk/uksi/2011/3041), [dirs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2011/3041/part/2/regulation/1/1/c), [24](https://www.legislation.gov.uk/uksi/2011/3041/part/2/regulation/24) (with [dir. 36](https://www.legislation.gov.uk/uksi/2011/3041/part/2/regulation/36))
+[^c-cb19ce5c99d5c91c84fa741984d3e0fb]: Textual amendment: Dir. 40 revoked (30.1.2012) by [The Traffic Signs (Amendment) (No. 2) Regulations and General Directions 2011 (S.I. 2011/3041)](https://www.legislation.gov.uk/uksi/2011/3041), [dirs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2011/3041/part/2/regulation/1/1/c), [24](https://www.legislation.gov.uk/uksi/2011/3041/part/2/regulation/24) (with [dir. 36](https://www.legislation.gov.uk/uksi/2011/3041/part/2/regulation/36))
 
-[^key-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))
+[^c-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))

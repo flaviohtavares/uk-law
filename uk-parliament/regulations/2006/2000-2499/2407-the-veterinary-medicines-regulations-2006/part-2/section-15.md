@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Exemptions[^key-16647f137bb6c1e755fa58d4c09dbd53]
+## 15. Exemptions[^c-16647f137bb6c1e755fa58d4c09dbd53]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16647f137bb6c1e755fa58d4c09dbd53]: Commencement: Reg. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-16647f137bb6c1e755fa58d4c09dbd53]: Commencement: Reg. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Duty on the Scottish Ministers to pay certain fees for legal work in exceptional cases[^key-8929e4020687e24566a9764acd36649c]
+## 93. Duty on the Scottish Ministers to pay certain fees for legal work in exceptional cases[^c-8929e4020687e24566a9764acd36649c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8929e4020687e24566a9764acd36649c]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2021/15/section/93) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-8929e4020687e24566a9764acd36649c]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2021/15/section/93) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

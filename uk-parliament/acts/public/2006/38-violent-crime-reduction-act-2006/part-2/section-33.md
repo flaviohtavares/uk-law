@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Age limits for purchase etc. of air weapons[^key-ba673d719d3298e5077c6ac24d30c04c]
+## 33. Age limits for purchase etc. of air weapons[^c-ba673d719d3298e5077c6ac24d30c04c]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba673d719d3298e5077c6ac24d30c04c]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/38/section/33) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/c)
+[^c-ba673d719d3298e5077c6ac24d30c04c]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/38/section/33) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/c)

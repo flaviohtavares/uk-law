@@ -104,7 +104,7 @@ Article 3
 
 - (a) has missed more than three consecutive meetings of the Authority;
 - (b) has a financial or other personal interest which is likely to influence the performance of his or her functions as a member;
-- (c) has been made[^key-169afe4c4fd996ce57fb7269120940c1] bankrupt, has had his or her estate sequestrated, or has made a composition or arrangement with, or granted a trust deed for, his or her creditors;
+- (c) has been made[^c-169afe4c4fd996ce57fb7269120940c1] bankrupt, has had his or her estate sequestrated, or has made a composition or arrangement with, or granted a trust deed for, his or her creditors;
 - (d) has misbehaved in a way that is relevant to his or her position as a member; or
 - (e) is unable, unfit or unwilling to perform his or her functions as a member.
 
@@ -171,4 +171,4 @@ An impact assessment in respect of this instrument has been prepared. It is avai
 
 [^c20167951]: Marginal citation: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048).
 
-[^key-169afe4c4fd996ce57fb7269120940c1]: Textual amendment: Word in [Sch. 3 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2010/319/schedule/3/paragraph/1/3/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-169afe4c4fd996ce57fb7269120940c1]: Textual amendment: Word in [Sch. 3 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2010/319/schedule/3/paragraph/1/3/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)

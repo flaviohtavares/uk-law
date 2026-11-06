@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Saving provisions[^key-c36a6fe5dfa96e489d3a84d628329777]
+## 48. Saving provisions[^c-c36a6fe5dfa96e489d3a84d628329777]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36a6fe5dfa96e489d3a84d628329777]: Commencement: Reg. 48 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-c36a6fe5dfa96e489d3a84d628329777]: Commencement: Reg. 48 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

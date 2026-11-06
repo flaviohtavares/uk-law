@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Safeguards for children[^key-d1cfa3fb6de3dab3bc72f10cad808830][^key-3f4187496d16abd64b2dccdd6ded9290][^key-071263159a882409f14661a41d82aabe][^M_C_13730190-7cd6-477a-afe1-719002ce8ed9]
+## 13. Safeguards for children[^c-d1cfa3fb6de3dab3bc72f10cad808830][^c-3f4187496d16abd64b2dccdd6ded9290][^c-071263159a882409f14661a41d82aabe][^M_C_13730190-7cd6-477a-afe1-719002ce8ed9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d1cfa3fb6de3dab3bc72f10cad808830]: Commencement: S. 13 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(l)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/l)
+[^c-d1cfa3fb6de3dab3bc72f10cad808830]: Commencement: S. 13 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(l)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/l)
 
-[^key-3f4187496d16abd64b2dccdd6ded9290]: Modification: S. 13 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619)](https://www.legislation.gov.uk/uksi/2018/619), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/619/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/619/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/619/schedule/2)
+[^c-3f4187496d16abd64b2dccdd6ded9290]: Modification: S. 13 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619)](https://www.legislation.gov.uk/uksi/2018/619), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/619/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/619/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/619/schedule/2)
 
-[^key-071263159a882409f14661a41d82aabe]: Modification: S. 13 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [5](https://www.legislation.gov.uk/uksi/2020/1560/article/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1560/schedule/4), [Sch. 4A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/4A)
+[^c-071263159a882409f14661a41d82aabe]: Modification: S. 13 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [5](https://www.legislation.gov.uk/uksi/2020/1560/article/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1560/schedule/4), [Sch. 4A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/4A)
 
 [^M_C_13730190-7cd6-477a-afe1-719002ce8ed9]: Modification: S. 13 extended (Isle of Man) (with modifications) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22](https://www.legislation.gov.uk/uksi/2008/680/article/22), [Sch. 9A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A) (as amended: (14.3.2019) by [S.I. 2019/562](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2019/562/article/1), [9](https://www.legislation.gov.uk/uksi/2019/562/article/9), [18](https://www.legislation.gov.uk/uksi/2019/562/article/18); (31.12.2020) by [S.I. 2020/1214](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [5](https://www.legislation.gov.uk/uksi/2020/1214/article/5), [12](https://www.legislation.gov.uk/uksi/2020/1214/article/12); (11.11.2021) by [S.I. 2021/1277](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1277/article/6))

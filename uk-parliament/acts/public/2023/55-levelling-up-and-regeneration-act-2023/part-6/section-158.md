@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. EOR regulations: devolved authorities[^key-aa397bf5aa051336ae1a49b03145cacf]
+## 158. EOR regulations: devolved authorities[^c-aa397bf5aa051336ae1a49b03145cacf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 13 contains restrictions on the exercise of the powers under this Part 
 
 ## Annotations
 
-[^key-aa397bf5aa051336ae1a49b03145cacf]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2023/55/section/158) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-aa397bf5aa051336ae1a49b03145cacf]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2023/55/section/158) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

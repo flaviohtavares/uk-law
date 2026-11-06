@@ -29,9 +29,9 @@ summary: ''
 - (a) to increase funds held in a bank account,
 - (b) in part payment for the acquisition of an asset,
 - (c) for the restoration or improvement of land,
-- (ca)[^key-404efacac26dd4a59180311250f3bd41] for the discharge (in whole or in part) of a mortgage, charge or other security,
+- (ca)[^c-404efacac26dd4a59180311250f3bd41] for the discharge (in whole or in part) of a mortgage, charge or other security,
 - (d) by a person holding a leasehold interest in the property to acquire the freehold.
 
 ## Annotations
 
-[^key-404efacac26dd4a59180311250f3bd41]: Textual amendment: [S. 306(3)(ca)](https://www.legislation.gov.uk/ukpga/2002/29/section/306/3/ca) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 34(10)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/10), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)
+[^c-404efacac26dd4a59180311250f3bd41]: Textual amendment: [S. 306(3)(ca)](https://www.legislation.gov.uk/ukpga/2002/29/section/306/3/ca) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 34(10)](https://www.legislation.gov.uk/ukpga/2017/22/section/34/10), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/s)

@@ -44,13 +44,13 @@ Coming into force
 
 The Scottish Ministers in exercise of the powers conferred on them by sections 6(4), 16(1)(e) and (f), 17, 18(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations, after consultation in accordance with section 48(4) of that Act with such organisations as appear to them to be representative of interests likely to be substantially affected by the Regulations:
 
-## 1. Citation, commencement and extent[^key-2367739a2acbbef2da1e068daec7a9ac]
+## 1. Citation, commencement and extent[^c-2367739a2acbbef2da1e068daec7a9ac]
 
 (1) These Regulations may be cited as the Genetically Modified and Novel Foods (Labelling) (Scotland) Regulations 2000 and shall come into force on 10th April 2000.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-50f403376ed4a374eb52259f9997e3e3]
+## 2. Interpretation[^c-50f403376ed4a374eb52259f9997e3e3]
 
 (1) In these Regulations–
 
@@ -89,7 +89,7 @@ The Scottish Ministers in exercise of the powers conferred on them by sections 6
 
 ## Food to which Regulation 1139/98 or Regulation 50/2000 applies
 
-### 3. Exemptions[^key-ef4445bc01f12d709cfc4f51a8c0bc17]
+### 3. Exemptions[^c-ef4445bc01f12d709cfc4f51a8c0bc17]
 
 (1) Subject to paragraph (2), these Regulations do not apply in respect of any food brought into Scotland–
 
@@ -104,7 +104,7 @@ in which it was lawfully sold, having been produced in a member State, or in whi
 
 (4) No prepacked food, which is either contained in an indelibly marked glass bottle intended for re-use and having no label, ring or collar, or the largest surface of whose packaging has an area of less than ten square centimetres, need be marked or labelled with the GMO particulars.
 
-### 4. Marking or labelling: general requirement[^key-cf584169011aa2e14dc0e7d8a95b3768]
+### 4. Marking or labelling: general requirement[^c-cf584169011aa2e14dc0e7d8a95b3768]
 
 When any food other than food to which regulation 5 applies is sold, the particulars with which it is required to be marked or labelled by Regulation 1139/98 or Regulation 50/2000 must appear–
 
@@ -114,7 +114,7 @@ When any food other than food to which regulation 5 applies is sold, the particu
 
 provided that where the sale is otherwise than to the final consumer, such particulars may, alternatively, appear only on the commercial documents relating to the food where it can be guaranteed that such documents, containing all such particulars, either accompany the food to which they relate or were sent before, or at the same time as, delivery of the food.
 
-### 5. Marking or labelling: special rules[^key-74f5c7fa0a137f94e68b8da42d0a96fa]
+### 5. Marking or labelling: special rules[^c-74f5c7fa0a137f94e68b8da42d0a96fa]
 
 (1) This regulation applies to–
 
@@ -155,7 +155,7 @@ use of alternative labelling in place of the GMO particulars is not alone be tre
 - (b) on a ticket or notice which is readily discernible by the intending purchaser at the place where he chooses the food; or
 - (c) in commercial documents relating to the food where it can be guaranteed that such documents either accompany the food to which they relate or were sent before, or at the same time as, delivery of the food.
 
-### 6. Manner of marking or labelling[^key-623c2f65f27ec1403866c6ee93dae02b]
+### 6. Manner of marking or labelling[^c-623c2f65f27ec1403866c6ee93dae02b]
 
 (1) The particulars with which a food is required to be marked or labelled by Regulation 1139/98 or by Regulation 50/2000, or which appear on a menu, notice, ticket or label pursuant to these Regulations, shall be easy to understand, clearly legible and indelible and, when a food is sold to the final consumer, the said particulars must be marked in a conspicuous place in such a way as to be easily visible.
 
@@ -165,7 +165,7 @@ use of alternative labelling in place of the GMO particulars is not alone be tre
 
 ## General
 
-### 7. Offences and penalties[^key-b0159359d46e9e33086b9c00ffca055e]
+### 7. Offences and penalties[^c-b0159359d46e9e33086b9c00ffca055e]
 
 If any person–
 
@@ -175,18 +175,18 @@ If any person–
 
 he is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 8. Enforcement[^key-4622e1e4745475f7df49d13d7166c8c6]
+### 8. Enforcement[^c-4622e1e4745475f7df49d13d7166c8c6]
 
 Each food authority shall enforce and execute these Regulations in its area and be the competent authority in its area for the purposes of the second paragraph of Article 2(2)(b) of Regulation 1139/98.
 
-### 9. Defence in relation to exports[^key-1013543a38233cb9fcbbeb21785bd6b3]
+### 9. Defence in relation to exports[^c-1013543a38233cb9fcbbeb21785bd6b3]
 
 In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove–
 
 - (a) that the food in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that it complies with that legislation; and
 - (b) in the case of export to a member State of food to which Regulation 1139/98 or Regulation 50/2000 applies, that the legislation complies with the provisions of Regulation 1139/98 or Regulation 50/2000, as appropriate, as read with Directive 79/112.
 
-### 10. Application of various provisions of the Act[^key-2888053668270c516f1e1610cbfbfc76]
+### 10. Application of various provisions of the Act[^c-2888053668270c516f1e1610cbfbfc76]
 
 (1) The following provisions of the Act apply for the purposes of these Regulations and, unless the context otherwise requires, any reference in those provisions to the Act or Part thereof is to be construed for the purposes of these Regulations as a reference to these Regulations–
 
@@ -205,7 +205,7 @@ In any proceedings for an offence under these Regulations, it is a defence for t
 - section 33 (obstruction etc. of officers),
 - section 44 (protection of officers acting in good faith).
 
-### 11. Consequential amendments[^key-65a689427e399b05c1adc8898c9cebb4]
+### 11. Consequential amendments[^c-65a689427e399b05c1adc8898c9cebb4]
 
 (1) The Food Labelling Regulations 1996[^f00011] are amended in accordance with paragraphs (2) to (11).
 
@@ -235,11 +235,11 @@ In any proceedings for an offence under these Regulations, it is a defence for t
 
 (11) In regulation 50 (transitional provision), paragraphs (5) to (7) are deleted.
 
-### 12.[^key-1b2813c56b534e7d8f110a43805a16ed]
+### 12.[^c-1b2813c56b534e7d8f110a43805a16ed]
 
 The Novel Foods and Novel Food Ingredients Regulations 1997[^f00012] shall be amended, by deleting paragraph 7 in the Schedule (specified Community provisions).
 
-### 13. Transitional provisions[^key-35d979c04313299c80bce98d3aa9fb6c]
+### 13. Transitional provisions[^c-35d979c04313299c80bce98d3aa9fb6c]
 
 (1) In any proceedings for an offence under–
 
@@ -310,9 +310,9 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); see section 4(1) for the definition of “the Ministers”. The functions of the Secretary of State were transferred, so far as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 6(4)(a) of the Act was amended by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), Schedule 9, paragraph 6.
 
-[^key-2367739a2acbbef2da1e068daec7a9ac]: Commencement: Reg. 1 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-2367739a2acbbef2da1e068daec7a9ac]: Commencement: Reg. 1 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-50f403376ed4a374eb52259f9997e3e3]: Commencement: Reg. 2 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-50f403376ed4a374eb52259f9997e3e3]: Commencement: Reg. 2 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
 [^f00002]: Footnote: O.J. No. L33, 8.2.79, p.1.
 
@@ -332,28 +332,28 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^f00010]: Footnote: O.J. No. L47, 19.2.2000, p.34.
 
-[^key-ef4445bc01f12d709cfc4f51a8c0bc17]: Commencement: Reg. 3 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-ef4445bc01f12d709cfc4f51a8c0bc17]: Commencement: Reg. 3 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-cf584169011aa2e14dc0e7d8a95b3768]: Commencement: Reg. 4 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-cf584169011aa2e14dc0e7d8a95b3768]: Commencement: Reg. 4 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-74f5c7fa0a137f94e68b8da42d0a96fa]: Commencement: Reg. 5 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-74f5c7fa0a137f94e68b8da42d0a96fa]: Commencement: Reg. 5 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-623c2f65f27ec1403866c6ee93dae02b]: Commencement: Reg. 6 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-623c2f65f27ec1403866c6ee93dae02b]: Commencement: Reg. 6 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-b0159359d46e9e33086b9c00ffca055e]: Commencement: Reg. 7 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-b0159359d46e9e33086b9c00ffca055e]: Commencement: Reg. 7 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-4622e1e4745475f7df49d13d7166c8c6]: Commencement: Reg. 8 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-4622e1e4745475f7df49d13d7166c8c6]: Commencement: Reg. 8 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-1013543a38233cb9fcbbeb21785bd6b3]: Commencement: Reg. 9 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-1013543a38233cb9fcbbeb21785bd6b3]: Commencement: Reg. 9 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-2888053668270c516f1e1610cbfbfc76]: Commencement: Reg. 10 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-2888053668270c516f1e1610cbfbfc76]: Commencement: Reg. 10 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
-[^key-65a689427e399b05c1adc8898c9cebb4]: Commencement: Reg. 11 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-65a689427e399b05c1adc8898c9cebb4]: Commencement: Reg. 11 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1996/1499](https://www.legislation.gov.uk/uksi/1996/1499); the relevant amending instruments are S.I. [1998/1398](https://www.legislation.gov.uk/uksi/1998/1398), [1999/747](https://www.legislation.gov.uk/uksi/1999/747), [1483](https://www.legislation.gov.uk/uksi/1999/1483).
 
-[^key-1b2813c56b534e7d8f110a43805a16ed]: Commencement: Reg. 12 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-1b2813c56b534e7d8f110a43805a16ed]: Commencement: Reg. 12 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1997/1335](https://www.legislation.gov.uk/uksi/1997/1335); to which there are amendments not relevant to these Regulations.
 
-[^key-35d979c04313299c80bce98d3aa9fb6c]: Commencement: Reg. 13 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)
+[^c-35d979c04313299c80bce98d3aa9fb6c]: Commencement: Reg. 13 in force at 10.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/83/regulation/1/1)

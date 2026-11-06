@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Power to respond to other eventualities[^key-42da004fa3d5ca3568eccc58b3795c3f]
+## 107. Power to respond to other eventualities[^c-42da004fa3d5ca3568eccc58b3795c3f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 13 of the 2005 Act (power to respond to other eventualities)—
 
 ## Annotations
 
-[^key-42da004fa3d5ca3568eccc58b3795c3f]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2012/8/section/107) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-42da004fa3d5ca3568eccc58b3795c3f]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2012/8/section/107) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

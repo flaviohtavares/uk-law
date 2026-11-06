@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If it appears to the directors of an open-ended investment company that any annual report of the company did not comply with the requirements of these Regulations or FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules, they may prepare a revised annual report.
+(1) If it appears to the directors of an open-ended investment company that any annual report of the company did not comply with the requirements of these Regulations or FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules, they may prepare a revised annual report.
 
 (2) Where copies of the previous report have been laid before the company in general meeting or delivered to the Authority, the revisions must be confined to—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

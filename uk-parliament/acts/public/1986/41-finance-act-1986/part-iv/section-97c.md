@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97C. Transfers to non-EU depositary receipt and clearance services systems[^key-0b195d3f94a76452fdb25c4f21093312]
+## 97C. Transfers to non-EU depositary receipt and clearance services systems[^c-0b195d3f94a76452fdb25c4f21093312]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b195d3f94a76452fdb25c4f21093312]: Textual amendment: S. 97C omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/17)
+[^c-0b195d3f94a76452fdb25c4f21093312]: Textual amendment: S. 97C omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/17)

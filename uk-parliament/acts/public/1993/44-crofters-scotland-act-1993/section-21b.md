@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21B. Commission consent for absence from croft[^key-86e406dd4a6d5a861a3388b233824d96]
+## 21B. Commission consent for absence from croft[^c-86e406dd4a6d5a861a3388b233824d96]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ of their decision and the reasons for making it.
 
 ## Annotations
 
-[^key-86e406dd4a6d5a861a3388b233824d96]: Textual amendment: Ss. 21B-21D and cross-heading inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 35](https://www.legislation.gov.uk/asp/2010/14/section/35), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-86e406dd4a6d5a861a3388b233824d96]: Textual amendment: Ss. 21B-21D and cross-heading inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 35](https://www.legislation.gov.uk/asp/2010/14/section/35), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

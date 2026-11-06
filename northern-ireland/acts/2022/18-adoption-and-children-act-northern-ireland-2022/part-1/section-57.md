@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Disclosure of other information[^key-e35b21fa0010d64f585c45f9a7ecd009]
+## 57. Disclosure of other information[^c-e35b21fa0010d64f585c45f9a7ecd009]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35b21fa0010d64f585c45f9a7ecd009]: Commencement: S. 57 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e35b21fa0010d64f585c45f9a7ecd009]: Commencement: S. 57 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

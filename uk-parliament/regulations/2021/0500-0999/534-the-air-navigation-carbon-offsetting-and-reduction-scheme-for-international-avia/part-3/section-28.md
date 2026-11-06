@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Calculation of CO<sub>2</sub> emissions from aeroplane fuel use[^key-4b4e26176e77a9b63c447d6333bd213e]
+## 28. Calculation of CO<sub>2</sub> emissions from aeroplane fuel use[^c-4b4e26176e77a9b63c447d6333bd213e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 where—
 
-- CO<sub>2</sub> = CO<sub>2</sub> emissions in tonnes[^f00032],[^key-91bfbefcb7d3f265e5dc970f043c9065]
+- CO<sub>2</sub> = CO<sub>2</sub> emissions in tonnes[^f00032],[^c-91bfbefcb7d3f265e5dc970f043c9065]
 - M<sub>f</sub> = Mass of fuel f used in tonnes, and
 - FCF<sub>f</sub> = Fuel conversion factor of given fuel f.
 
@@ -44,10 +44,10 @@ where—
 
 ## Annotations
 
-[^key-4b4e26176e77a9b63c447d6333bd213e]: Commencement: Art. 28 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-4b4e26176e77a9b63c447d6333bd213e]: Commencement: Art. 28 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00031]: Footnote: Guidance material on the Emissions Monitoring Plan and material changes is provided in the Environmental Technical Manual (Doc 9501), Volume IV – Procedures for demonstrating compliance with the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) which is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
 [^f00032]: Footnote: For the purpose of calculating CO<sub>2</sub> emissions the mass of fuel used includes conventional aviation fuel and sustainable aviation fuel.
 
-[^key-91bfbefcb7d3f265e5dc970f043c9065]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2021/534/article/28): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
+[^c-91bfbefcb7d3f265e5dc970f043c9065]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2021/534/article/28): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)

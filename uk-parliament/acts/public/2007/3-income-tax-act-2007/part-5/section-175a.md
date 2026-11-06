@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175A. The permitted maximum age requirement[^key-f0c99e974fcebc82de2e7468aaacf0a8]
+## 175A. The permitted maximum age requirement[^c-f0c99e974fcebc82de2e7468aaacf0a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) “**The initial investing period**” means—
 
-- (a) where the issuing company is a knowledge-intensive company at the issue date, the period of 10 years beginning with—[^key-e549da9fc9fbb2ab67001e10a4871fc7]
+- (a) where the issuing company is a knowledge-intensive company at the issue date, the period of 10 years beginning with—[^c-e549da9fc9fbb2ab67001e10a4871fc7]
   - (i) the relevant first commercial sale, or
   - (ii) if the issuing company so elects, the date by reference to which that company is treated as reaching an annual turnover of £200,000 (see section 252B), and
 - (b) in any other case, the period of 7 years beginning with that sale.
@@ -57,16 +57,16 @@ summary: ''
 - (e) the first commercial sale made by any person who previously (at any time) carried on a trade which was subsequently carried on by a company mentioned in paragraph (d) (including a trade carried on by such a company before it became such a subsidiary);
 - (f) if the money raised by the issue of the relevant shares (or any part of it) is employed for the purposes of a trade which has been transferred, after the issue date, to the issuing company or a 51% subsidiary of that company (or a partnership of which the issuing company or such a subsidiary is a member), having previously (at any time) been carried on by another person, the first commercial sale made by that other person.
 
-(7) “**The average turnover amount**” means one fifth of the total relevant turnover amount for the relevant five year period.[^key-f9bff6c368ff96eccf7a1857bf6aacff]
+(7) “**The average turnover amount**” means one fifth of the total relevant turnover amount for the relevant five year period.[^c-f9bff6c368ff96eccf7a1857bf6aacff]
 
-(7A)[^key-6645a109815d5bd1cab1e239dd0a4876] Subject to subsection (7B), the relevant five year period is the five year period which ends immediately before the beginning of the last accounts filing period.
+(7A)[^c-6645a109815d5bd1cab1e239dd0a4876] Subject to subsection (7B), the relevant five year period is the five year period which ends immediately before the beginning of the last accounts filing period.
 
 (7B) If the last accounts filing period ends more than 12 months before the issue date, the relevant five year period is the five year period which ends 12 months before the issue date.
 
 (8) In this section—
 
-- “**entering a new product or geographical market**” has the same meaning as in Commission Regulation (EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^key-73a057c128af2c2ad2512b32b9634f7a];
-- “**first commercial sale**” has the same meaning as in the European Commission's Guidelines on State aid to promote risk finance investments (as those guidelines had effect in the United Kingdom immediately before IP completion day)[^key-58df0aabb8ab18b7e40ab60807baec21];
+- “**entering a new product or geographical market**” has the same meaning as in Commission Regulation (EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^c-73a057c128af2c2ad2512b32b9634f7a];
+- “**first commercial sale**” has the same meaning as in the European Commission's Guidelines on State aid to promote risk finance investments (as those guidelines had effect in the United Kingdom immediately before IP completion day)[^c-58df0aabb8ab18b7e40ab60807baec21];
 - “**the issue date**” means the date on which the relevant shares are issued;
 - “**the last accounts filing period**” means the last period for filing (within the meaning of section 442 of the Companies Act 2006) for the issuing company which ends before the date on which the relevant shares are issued;
 - “**relevant investment**” has the meaning given by section 173A(3), and section 173A(4) and (5) (which determines when certain investments are made) applies for the purposes of this section;
@@ -91,14 +91,14 @@ and section 173A(6) and (7) (meaning of “trade” etc) applies for the purpose
 
 ## Annotations
 
-[^key-f0c99e974fcebc82de2e7468aaacf0a8]: Textual amendment: S. 175A inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/12)
+[^c-f0c99e974fcebc82de2e7468aaacf0a8]: Textual amendment: S. 175A inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/12)
 
-[^key-e549da9fc9fbb2ab67001e10a4871fc7]: Textual amendment: Words in s. 175A(2)(a) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-e549da9fc9fbb2ab67001e10a4871fc7]: Textual amendment: Words in s. 175A(2)(a) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-f9bff6c368ff96eccf7a1857bf6aacff]: Textual amendment: Words in s. 175A(7) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(1)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/1/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-f9bff6c368ff96eccf7a1857bf6aacff]: Textual amendment: Words in s. 175A(7) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(1)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/1/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
 
-[^key-6645a109815d5bd1cab1e239dd0a4876]: Textual amendment: S. 175A(7A)(7B) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/1/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-6645a109815d5bd1cab1e239dd0a4876]: Textual amendment: S. 175A(7A)(7B) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/1/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
 
-[^key-73a057c128af2c2ad2512b32b9634f7a]: Textual amendment: Words in [s. 175A(8)](https://www.legislation.gov.uk/ukpga/2007/3/section/175A/8) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/3/a)
+[^c-73a057c128af2c2ad2512b32b9634f7a]: Textual amendment: Words in [s. 175A(8)](https://www.legislation.gov.uk/ukpga/2007/3/section/175A/8) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/3/a)
 
-[^key-58df0aabb8ab18b7e40ab60807baec21]: Textual amendment: Words in [s. 175A(8)](https://www.legislation.gov.uk/ukpga/2007/3/section/175A/8) substituted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/3/b)
+[^c-58df0aabb8ab18b7e40ab60807baec21]: Textual amendment: Words in [s. 175A(8)](https://www.legislation.gov.uk/ukpga/2007/3/section/175A/8) substituted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/4/3/b)

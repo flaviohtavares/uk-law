@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Critical third parties: designation and powers[^key-0b78cffd5e0b66f2ced5c81a31397bbf][^key-a18a7f8f3eb250e4bff0eca845656e9c]
+## 18. Critical third parties: designation and powers[^c-0b78cffd5e0b66f2ced5c81a31397bbf][^c-a18a7f8f3eb250e4bff0eca845656e9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -296,6 +296,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b78cffd5e0b66f2ced5c81a31397bbf]: Commencement: S. 18 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0b78cffd5e0b66f2ced5c81a31397bbf]: Commencement: S. 18 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a18a7f8f3eb250e4bff0eca845656e9c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/29/section/18) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)
+[^c-a18a7f8f3eb250e4bff0eca845656e9c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/29/section/18) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/m)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71ZE. Secure electronic communications[^key-0f98c28c37a34ee7a14bc18911e7bc35]
+## 71ZE. Secure electronic communications[^c-0f98c28c37a34ee7a14bc18911e7bc35]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f98c28c37a34ee7a14bc18911e7bc35]: Textual amendment: Regs. 71ZC-71ZG inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
+[^c-0f98c28c37a34ee7a14bc18911e7bc35]: Textual amendment: Regs. 71ZC-71ZG inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310D. Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable[^key-86579d5752c9fa711f06432930cb0f7e]
+## 310D. Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable[^c-86579d5752c9fa711f06432930cb0f7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86579d5752c9fa711f06432930cb0f7e]: Textual amendment: S. 310D inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-86579d5752c9fa711f06432930cb0f7e]: Textual amendment: S. 310D inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)

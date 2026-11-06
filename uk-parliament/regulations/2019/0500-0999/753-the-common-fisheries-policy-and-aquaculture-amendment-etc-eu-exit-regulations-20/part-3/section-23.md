@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Commission Regulation [(EC) No 2056/2001](https://www.legislation.gov.uk/eur/2001/2056) establishing additional technical measures for the recovery of the stocks of cod in the North Sea and to the West of Scotland[^key-6fd4d8d451a583f8f98ed8b9f7029c0a]
+## 23. Commission Regulation [(EC) No 2056/2001](https://www.legislation.gov.uk/eur/2001/2056) establishing additional technical measures for the recovery of the stocks of cod in the North Sea and to the West of Scotland[^c-6fd4d8d451a583f8f98ed8b9f7029c0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd4d8d451a583f8f98ed8b9f7029c0a]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-6fd4d8d451a583f8f98ed8b9f7029c0a]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

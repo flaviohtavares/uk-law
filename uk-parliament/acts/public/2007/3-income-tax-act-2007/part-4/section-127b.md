@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127B. No relief for tax-generated agricultural expenses[^key-092d53434c9368b0e2e4868e07109b2d]
+## 127B. No relief for tax-generated agricultural expenses[^c-092d53434c9368b0e2e4868e07109b2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-092d53434c9368b0e2e4868e07109b2d]: Textual amendment: S. 127B inserted (17.7.2012) (with effect in accordance with s. 10(5)-(7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 10(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/10/4)
+[^c-092d53434c9368b0e2e4868e07109b2d]: Textual amendment: S. 127B inserted (17.7.2012) (with effect in accordance with s. 10(5)-(7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 10(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/10/4)

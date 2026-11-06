@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Transitional arrangements during the run-off period[^key-4fdc3f8523ccc519824b4482b09b9332]
+## 15. Transitional arrangements during the run-off period[^c-4fdc3f8523ccc519824b4482b09b9332]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fdc3f8523ccc519824b4482b09b9332]: Commencement: Reg. 15 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-4fdc3f8523ccc519824b4482b09b9332]: Commencement: Reg. 15 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

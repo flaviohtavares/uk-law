@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Amendment of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^key-3509ca5f060a1177135852ad0592a7f9]
+## 62. Amendment of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^c-3509ca5f060a1177135852ad0592a7f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3509ca5f060a1177135852ad0592a7f9]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2023/1071/regulation/62) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-3509ca5f060a1177135852ad0592a7f9]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2023/1071/regulation/62) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00051]: Footnote: [S.I. 2013/349](https://www.legislation.gov.uk/uksi/2013/349), to which there are amendments not relevant to these Regulations.

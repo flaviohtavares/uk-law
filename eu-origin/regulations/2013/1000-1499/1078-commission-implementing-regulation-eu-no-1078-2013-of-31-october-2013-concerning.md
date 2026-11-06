@@ -35,24 +35,24 @@ concerning the authorisation of fumaric acid as a feed additive for all animal s
 
 (Text with EEA relevance) (revoked)
 
-[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5]
+## ANNEX[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3aec666ff9bd5fc49d0dc6fcd2048c5]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 129](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/129) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d3aec666ff9bd5fc49d0dc6fcd2048c5]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 129](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/129) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

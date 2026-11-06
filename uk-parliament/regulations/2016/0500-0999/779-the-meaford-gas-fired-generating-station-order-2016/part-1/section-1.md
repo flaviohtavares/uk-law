@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-16307c97fba083030baf9413fc2a1cc4]
+## 1. Citation and commencement[^c-16307c97fba083030baf9413fc2a1cc4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Meaford Gas Fired Generating Station Order 2016 a
 
 ## Annotations
 
-[^key-16307c97fba083030baf9413fc2a1cc4]: Commencement: Art. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-16307c97fba083030baf9413fc2a1cc4]: Commencement: Art. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

@@ -42,7 +42,7 @@ the landlord may (except in a case where subsection (4) applies) recover under t
 
 he shall forthwith serve on the landlord a notice indicating an intention no longer to proceed with the acquisition of that interest, and subsection (2) shall apply accordingly.
 
-(4) If, at any time when any proceedings taken under or by virtue of this Part are pending before the court or the Upper Tribunal[^key-2614cc3e0c77e8c87fad95108af6133e]—
+(4) If, at any time when any proceedings taken under or by virtue of this Part are pending before the court or the Upper Tribunal[^c-2614cc3e0c77e8c87fad95108af6133e]—
 
 - (a) such a notice as is mentioned in subsection (2) or (3) is served on the landlord, or
 - (b) the nominated person indicates that he is no longer willing to act in the matter and nobody is nominated for the purposes of this Part in his place, or
@@ -51,7 +51,7 @@ he shall forthwith serve on the landlord a notice indicating an intention no lon
 
 or if the court discharges an acquisition order under subsection (1), the landlord may recover such costs incurred by him in connection with the disposal by him of his interest in those premises as the court or (as the case may be) the Tribunal may determine.
 
-(5) The costs that may be recovered by the landlord under subsection (2) or (4) include costs incurred by him in connection with any proceedings under this Part (other than proceedings before the appropriate tribunal[^key-90c22386df5de412c87c0f3ac11a3eea]).
+(5) The costs that may be recovered by the landlord under subsection (2) or (4) include costs incurred by him in connection with any proceedings under this Part (other than proceedings before the appropriate tribunal[^c-90c22386df5de412c87c0f3ac11a3eea]).
 
 (6) Any liability for costs arising under this section shall be the joint and several liability of the following persons, namely—
 
@@ -67,16 +67,16 @@ together with (in either case) any person nominated by those tenants for the pur
 (9) If—
 
 - (a) an acquisition order is discharged, or ceases to have effect, by virtue of any provision of this Part, and
-- (b) the order has been protected by an entry registered under the [^c10162531]Land Charges Act 1972 or the Land Registration Act 2002[^key-bbe84a165467de4b4bdc0dcf3cbe9626],
+- (b) the order has been protected by an entry registered under the [^c10162531]Land Charges Act 1972 or the Land Registration Act 2002[^c-bbe84a165467de4b4bdc0dcf3cbe9626],
 
 the court may by order direct that that entry shall be cancelled.
 
 ## Annotations
 
-[^key-2614cc3e0c77e8c87fad95108af6133e]: Textual amendment: Words in s. 34(4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 184](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/184) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-2614cc3e0c77e8c87fad95108af6133e]: Textual amendment: Words in s. 34(4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 184](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/184) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-90c22386df5de412c87c0f3ac11a3eea]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/1987/31/section/34/5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/74) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-90c22386df5de412c87c0f3ac11a3eea]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/1987/31/section/34/5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/74) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c10162531]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-bbe84a165467de4b4bdc0dcf3cbe9626]: Textual amendment: Words in s. 34(9) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/20) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-bbe84a165467de4b4bdc0dcf3cbe9626]: Textual amendment: Words in s. 34(9) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/20) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

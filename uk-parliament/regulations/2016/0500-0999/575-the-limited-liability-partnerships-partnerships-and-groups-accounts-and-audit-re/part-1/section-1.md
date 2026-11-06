@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and interpretation[^key-83bcc3770dd7918e68c3c584c8a905b1]
+## 1. Citation and interpretation[^c-83bcc3770dd7918e68c3c584c8a905b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-83bcc3770dd7918e68c3c584c8a905b1]: Commencement: Reg. 1 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-83bcc3770dd7918e68c3c584c8a905b1]: Commencement: Reg. 1 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00007]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Provisions of Parts 15 and 16 (accounts, reports and audit) were applied with modifications to LLPs by [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911) and to qualifying partnerships by [S.I. 2008/569](https://www.legislation.gov.uk/uksi/2008/569).
 

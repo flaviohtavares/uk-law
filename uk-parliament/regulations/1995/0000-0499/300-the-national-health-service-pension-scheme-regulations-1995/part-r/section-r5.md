@@ -30,16 +30,16 @@ summary: ''
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1995/300)
 
-(4) Subject to paragraph (5), for the purpose of calculating a member’s final year’s pensionable pay in respect of part–time employment, the member’s pensionable pay will be the amount that the Secretary of State determines would have been paid in respect of a single comparable whole–time employment and any amount by which the member’s actual final year’s pensionable pay in respect of part time employment exceeds the amount determined will be ignored[^key-2af6b72caa4b932905f77fa1b351ca54].
+(4) Subject to paragraph (5), for the purpose of calculating a member’s final year’s pensionable pay in respect of part–time employment, the member’s pensionable pay will be the amount that the Secretary of State determines would have been paid in respect of a single comparable whole–time employment and any amount by which the member’s actual final year’s pensionable pay in respect of part time employment exceeds the amount determined will be ignored[^c-2af6b72caa4b932905f77fa1b351ca54].
 
-(4A)[^key-fd96c79e929f3e49a14efa0c52716f28] “A single comparable whole-time employment” in paragraph 4 means the number of hours, half-days or sessions which the Secretary of State determines would constitute a single comparable whole-time pensionable employment.
+(4A)[^c-fd96c79e929f3e49a14efa0c52716f28] “A single comparable whole-time employment” in paragraph 4 means the number of hours, half-days or sessions which the Secretary of State determines would constitute a single comparable whole-time pensionable employment.
 
 (5) Paragraph (4) does not apply to the calculation of final year’s pensionable pay for the purposes of—
 
 - (a) regulations F1(2) and F2(2) (lump sum payable on death in pensionable employment or after pension becomes payable);
 - (b) regulation S2 (reduction of pension on return to NHS employment).
 
-(6)[^key-cb48e31196836f469142aa1959c220f0] If a member with pensionable service in part-time employment becomes entitled to a pension under regulation E2, E2A, E3 or E3A (ill health pensions, pensions on redundancy and early retirement pensions)—
+(6)[^c-cb48e31196836f469142aa1959c220f0] If a member with pensionable service in part-time employment becomes entitled to a pension under regulation E2, E2A, E3 or E3A (ill health pensions, pensions on redundancy and early retirement pensions)—
 
 - (a) the member’s pensionable service in part-time employment will count at its full length for the purpose of calculating—
   - (i) whether and (if so) to what extent, the pensionable service upon which the pension under regulation E2 or E2A is based should be increased under that regulation; or
@@ -62,8 +62,8 @@ where— “part–time pensionable employment" means the number of hours, half�
 
 ## Annotations
 
-[^key-2af6b72caa4b932905f77fa1b351ca54]: Textual amendment: Words in [reg. R5(4)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R5/4) inserted (14.12.2007) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) Amendment Regulations 2007 (S.I. 2007/3280)](https://www.legislation.gov.uk/uksi/2007/3280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/2/16)
+[^c-2af6b72caa4b932905f77fa1b351ca54]: Textual amendment: Words in [reg. R5(4)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R5/4) inserted (14.12.2007) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) Amendment Regulations 2007 (S.I. 2007/3280)](https://www.legislation.gov.uk/uksi/2007/3280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/2/16)
 
-[^key-fd96c79e929f3e49a14efa0c52716f28]: Textual amendment: [Reg. R5(4A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R5/4A) inserted (1.9.1997) by [The National Health Service Pension Scheme (Amendment) Regulations 1997 (S.I. 1997/1888)](https://www.legislation.gov.uk/uksi/1997/1888), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1888/regulation/1), [6](https://www.legislation.gov.uk/uksi/1997/1888/regulation/6)
+[^c-fd96c79e929f3e49a14efa0c52716f28]: Textual amendment: [Reg. R5(4A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R5/4A) inserted (1.9.1997) by [The National Health Service Pension Scheme (Amendment) Regulations 1997 (S.I. 1997/1888)](https://www.legislation.gov.uk/uksi/1997/1888), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1888/regulation/1), [6](https://www.legislation.gov.uk/uksi/1997/1888/regulation/6)
 
-[^key-cb48e31196836f469142aa1959c220f0]: Textual amendment: [Reg. R5(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R5/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2008/654/regulation/54)
+[^c-cb48e31196836f469142aa1959c220f0]: Textual amendment: [Reg. R5(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R5/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2008/654/regulation/54)

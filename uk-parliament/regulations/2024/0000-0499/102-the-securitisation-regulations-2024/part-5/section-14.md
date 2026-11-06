@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Registration of a securitisation repository[^key-b1ba352e57a618bd41d2a4610b83a18a]
+## 14. Registration of a securitisation repository[^c-b1ba352e57a618bd41d2a4610b83a18a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1ba352e57a618bd41d2a4610b83a18a]: Commencement: Reg. 14 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-b1ba352e57a618bd41d2a4610b83a18a]: Commencement: Reg. 14 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
 [^f00033]: Footnote: Article 78 was amended by section 40(3) of the Financial Services Act 2021; Article 80 was amended by [S.I. 2019/1416](https://www.legislation.gov.uk/uksi/2019/1416).

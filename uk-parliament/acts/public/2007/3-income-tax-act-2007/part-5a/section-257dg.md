@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257DG. The control and independence requirement[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257DG. The control and independence requirement[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the issuing company must not at any time in period A control (whether on its own or together with any person connected with it) any company which is not a qualifying subsidiary of the issuing company, and
 - (b) no arrangements must be in existence at any time in that period by virtue of which the issuing company could fail to meet paragraph (a) (whether during that period or otherwise).
 
-(2)[^key-2958023d9b1810b21ba06b35d40381b0] The independence element of the requirement is that—
+(2)[^c-2958023d9b1810b21ba06b35d40381b0] The independence element of the requirement is that—
 
 - (a) the issuing company must not at any time in period A (ignoring any on-the-shelf period) be within subsection (2A), and
 - (b) no arrangements must be in existence at any time in period A by virtue of which the issuing company could be within that subsection (whether during period A or otherwise).
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
-[^key-2958023d9b1810b21ba06b35d40381b0]: Textual amendment: S. 257DG(2)-(2B) substituted for s. 257DG(2) (with effect in accordance with s. 56(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/56/4)
+[^c-2958023d9b1810b21ba06b35d40381b0]: Textual amendment: S. 257DG(2)-(2B) substituted for s. 257DG(2) (with effect in accordance with s. 56(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/56/4)

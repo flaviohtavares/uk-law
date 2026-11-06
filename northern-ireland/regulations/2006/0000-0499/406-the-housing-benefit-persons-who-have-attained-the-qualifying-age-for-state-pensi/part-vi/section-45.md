@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Notional capital[^key-a46000ce2e4a144ed16daf5b435c2c2f]
+## 45. Notional capital[^c-a46000ce2e4a144ed16daf5b435c2c2f]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ shall be regarded as not depriving himself of it.
 
 ## Annotations
 
-[^key-a46000ce2e4a144ed16daf5b435c2c2f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/406/regulation/45) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-a46000ce2e4a144ed16daf5b435c2c2f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/406/regulation/45) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

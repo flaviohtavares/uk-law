@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Remuneration and standards of performance[^key-3f80516bb0d5715ff90e49c8cf5e590d][^c20149321]
+## 35A. Remuneration and standards of performance[^c-3f80516bb0d5715ff90e49c8cf5e590d][^c20149321]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ and if there are, or it is intended that there will be, such arrangements in for
 
 ## Annotations
 
-[^key-3f80516bb0d5715ff90e49c8cf5e590d]: Modification: [S. 35A](https://www.legislation.gov.uk/ukpga/1991/56/section/35A) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/9) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-3f80516bb0d5715ff90e49c8cf5e590d]: Modification: [S. 35A](https://www.legislation.gov.uk/ukpga/1991/56/section/35A) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/9) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c20149321]: Textual amendment: S. 35A and preceding cross-heading inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2003/37/section/50), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/g)

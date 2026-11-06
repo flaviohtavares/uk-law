@@ -52,11 +52,11 @@ shall be guilty of an offence.
 (6) For the purposes of subsection (1)(b), the use of a house as a dwelling shall be disregarded if—
 
 - (a) the house is being used for the provision of—
-  - (i) a care home service (as defined in paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^key-f7386383c4de630c4dc27a5b54d4ffc0] (asp 8));
-  - (ii) a school care accommodation service (as defined in paragraph 3 of that schedule[^key-d28ae48365fe8583cf1b9902ce258265]);
-  - (iii)[^key-84a183f96b5b36748bf638d57fdec99f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv) a secure accommodation service (as defined in paragraph 6 of that schedule[^key-c066c6d7cc716139684ca995f2737ed5]);
-  - (v)[^key-84405306f8eacd79490590bffb47e0eb] an independent hospital (as defined in subsection (2) of section 10F of the [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)));
+  - (i) a care home service (as defined in paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010[^c-f7386383c4de630c4dc27a5b54d4ffc0] (asp 8));
+  - (ii) a school care accommodation service (as defined in paragraph 3 of that schedule[^c-d28ae48365fe8583cf1b9902ce258265]);
+  - (iii)[^c-84a183f96b5b36748bf638d57fdec99f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) a secure accommodation service (as defined in paragraph 6 of that schedule[^c-c066c6d7cc716139684ca995f2737ed5]);
+  - (v)[^c-84405306f8eacd79490590bffb47e0eb] an independent hospital (as defined in subsection (2) of section 10F of the [Public Services Reform (Scotland) Act 2010 (asp 8](https://www.legislation.gov.uk/asp/2010/8)));
   - (vi) a private psychiatric hospital (as defined in that section);
   - (vii) an independent clinic (as defined in that section); or
   - (viii) an independent medical agency (as defined in that section);
@@ -65,7 +65,7 @@ shall be guilty of an offence.
 - (d) the house is being used for holiday purposes.
 - (e)[^c21021281] the house is the only or main residence of the relevant person;
 - (f) the house is–
-  - (i) on agricultural land which is land comprised in a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 [^c21021321] or comprised in a lease constituting a short limited duration tenancy , limited duration tenancy, modern limited duration tenancy or repairing tenancy[^key-80af653d4947d79e0eebbde901d5540c] (within the meaning of that Act); and
+  - (i) on agricultural land which is land comprised in a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 [^c21021321] or comprised in a lease constituting a short limited duration tenancy , limited duration tenancy, modern limited duration tenancy or repairing tenancy[^c-80af653d4947d79e0eebbde901d5540c] (within the meaning of that Act); and
   - (ii) occupied by the tenant of the relevant lease;
 - (g) the house is on a croft (within the meaning of section 3 of the Crofters (Scotland) Act 1993 [^c21021331]);
 - (h) the house is–
@@ -77,9 +77,9 @@ shall be guilty of an offence.
   - (i) owned by an organisation which has the advancement of religion as its principal purpose and the regular holding of worship as its principal activity; and
   - (ii) occupied by a person whose principal responsibility is the leading of members of the organisation in worship and preaching the faith of that organisation;
 - (k) the house is part of an estate of a deceased person and has been held by an executor for a period not exceeding 6 months from the date of death; [^c21023261]. . .
-- (l) the house is in the lawful possession of a heritable creditor and has been held by that creditor for a period not exceeding 6 months from the date of possession; [^key-d54891ff9becae7822c78cd4d57e8ed8]...[^c21023281]
-- (m) the house is owned by a person acting as an insolvency practitioner within the meaning of section 388 of the Insolvency Act 1986 [^c21023301] and has been so owned by that person for a period not exceeding six months ;[^key-fb74e40ec897f7f7a78a857a4bd572f6] [^key-46995935b40b5445f4178da099d26ded]...
-- (n)[^key-d259f9a018084c2b229a88c1958827df] the house is being used for a short-term let as defined in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022; or[^key-0336fa2f9744d34c81c525f1226c546d]
+- (l) the house is in the lawful possession of a heritable creditor and has been held by that creditor for a period not exceeding 6 months from the date of possession; [^c-d54891ff9becae7822c78cd4d57e8ed8]...[^c21023281]
+- (m) the house is owned by a person acting as an insolvency practitioner within the meaning of section 388 of the Insolvency Act 1986 [^c21023301] and has been so owned by that person for a period not exceeding six months ;[^c-fb74e40ec897f7f7a78a857a4bd572f6] [^c-46995935b40b5445f4178da099d26ded]...
+- (n)[^c-d259f9a018084c2b229a88c1958827df] the house is being used for a short-term let as defined in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022; or[^c-0336fa2f9744d34c81c525f1226c546d]
 - (o) the house is being used, under an occupancy arrangement, by a person who has permission to enter into or to stay in the United Kingdom granted under the immigration rules laid down under section 3(2) of the Immigration Act 1971 in relation to the Homes for Ukraine Sponsorship Scheme.
 
 (7) The Scottish Ministers may by order modify subsection (6).
@@ -100,15 +100,15 @@ shall be guilty of an offence.
 
 [^c21021421]: Textual amendment: S. 83(1)(ca) inserted (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 176(3)(b)](https://www.legislation.gov.uk/asp/2006/1/section/176/3/b), [195](https://www.legislation.gov.uk/asp/2006/1/section/195) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)
 
-[^key-f7386383c4de630c4dc27a5b54d4ffc0]: Textual amendment: Words in s. 83(6)(a)(i) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/3/a)
+[^c-f7386383c4de630c4dc27a5b54d4ffc0]: Textual amendment: Words in s. 83(6)(a)(i) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(3)(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/3/a)
 
-[^key-d28ae48365fe8583cf1b9902ce258265]: Textual amendment: Words in s. 83(6)(a)(ii) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(3)(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/3/b)
+[^c-d28ae48365fe8583cf1b9902ce258265]: Textual amendment: Words in s. 83(6)(a)(ii) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(3)(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/3/b)
 
-[^key-84a183f96b5b36748bf638d57fdec99f]: Textual amendment: S. 83(6)(a)(iii) and word repealed (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(b)(i)(ii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/b/i)
+[^c-84a183f96b5b36748bf638d57fdec99f]: Textual amendment: S. 83(6)(a)(iii) and word repealed (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(b)(i)(ii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/b/i)
 
-[^key-c066c6d7cc716139684ca995f2737ed5]: Textual amendment: Words in s. 83(6)(a)(iv) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(3)(c)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/3/c)
+[^c-c066c6d7cc716139684ca995f2737ed5]: Textual amendment: Words in s. 83(6)(a)(iv) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 14(3)(c)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/14/3/c)
 
-[^key-84405306f8eacd79490590bffb47e0eb]: Textual amendment: S. 83(6)(a)(v)-(viii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(b)(iii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/b/iii)
+[^c-84405306f8eacd79490590bffb47e0eb]: Textual amendment: S. 83(6)(a)(v)-(viii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 9(b)(iii)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/9/b/iii)
 
 [^c21021251]: Textual amendment: Word following s. 83(6)(c) omitted (1.1.2006) by virtue of [The Private Landlord Registration (Modification) (Scotland) Order 2005 (S.S.I. 2005/650)](https://www.legislation.gov.uk/ssi/2005/650), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/650/article/2/a)
 
@@ -116,22 +116,22 @@ shall be guilty of an offence.
 
 [^c21021321]: Marginal citation: [2003 asp 11](https://www.legislation.gov.uk/asp/2003/11).
 
-[^key-80af653d4947d79e0eebbde901d5540c]: Textual amendment: Words in [s. 83(6)(f)(i)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/f/i) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/8/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 13](https://www.legislation.gov.uk/ssi/2017/299/regulation/13))
+[^c-80af653d4947d79e0eebbde901d5540c]: Textual amendment: Words in [s. 83(6)(f)(i)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/f/i) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/8/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 13](https://www.legislation.gov.uk/ssi/2017/299/regulation/13))
 
 [^c21021331]: Marginal citation: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44).
 
 [^c21023261]: Textual amendment: Word following s. 83(6)(k) omitted (12.2.2009) by virtue of [The Private Landlord Registration (Modification) (Scotland) Order 2009 (S.S.I. 2009/33)](https://www.legislation.gov.uk/ssi/2009/33), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/33/article/2/a)
 
-[^key-d54891ff9becae7822c78cd4d57e8ed8]: Textual amendment: Word in s. 83(6) omitted (1.3.2022) by virtue of [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1/2/a)
+[^c-d54891ff9becae7822c78cd4d57e8ed8]: Textual amendment: Word in s. 83(6) omitted (1.3.2022) by virtue of [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1/2/a)
 
 [^c21023281]: Textual amendment: S. 83(6)(m) and preceding word inserted (12.2.2009) by [The Private Landlord Registration (Modification) (Scotland) Order 2009 (S.S.I. 2009/33)](https://www.legislation.gov.uk/ssi/2009/33), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/33/article/2/b)
 
 [^c21023301]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 388 was amended by regulation 17 of [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240).
 
-[^key-fb74e40ec897f7f7a78a857a4bd572f6]: Textual amendment: Word in [s. 83(6)(m)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/m) substituted (1.3.2022) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1/2/b)
+[^c-fb74e40ec897f7f7a78a857a4bd572f6]: Textual amendment: Word in [s. 83(6)(m)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/m) substituted (1.3.2022) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1/2/b)
 
-[^key-46995935b40b5445f4178da099d26ded]: Textual amendment: Word in [s. 83(6)](https://www.legislation.gov.uk/asp/2004/8/section/83/6) omitted (12.5.2022) by virtue of [The Private Landlord Registration (Modification) (Scotland) Order 2022 (S.S.I. 2022/163)](https://www.legislation.gov.uk/ssi/2022/163), [arts. 1](https://www.legislation.gov.uk/ssi/2022/163/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/163/article/2/a)
+[^c-46995935b40b5445f4178da099d26ded]: Textual amendment: Word in [s. 83(6)](https://www.legislation.gov.uk/asp/2004/8/section/83/6) omitted (12.5.2022) by virtue of [The Private Landlord Registration (Modification) (Scotland) Order 2022 (S.S.I. 2022/163)](https://www.legislation.gov.uk/ssi/2022/163), [arts. 1](https://www.legislation.gov.uk/ssi/2022/163/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/163/article/2/a)
 
-[^key-d259f9a018084c2b229a88c1958827df]: Textual amendment: [S. 83(6)(n)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/n) inserted (1.3.2022) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [sch. 4 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1/2/c)
+[^c-d259f9a018084c2b229a88c1958827df]: Textual amendment: [S. 83(6)(n)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/n) inserted (1.3.2022) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [sch. 4 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1/2/c)
 
-[^key-0336fa2f9744d34c81c525f1226c546d]: Textual amendment: [S. 83(6)(o)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/o) and word inserted (12.5.2022) by [The Private Landlord Registration (Modification) (Scotland) Order 2022 (S.S.I. 2022/163)](https://www.legislation.gov.uk/ssi/2022/163), [arts. 1](https://www.legislation.gov.uk/ssi/2022/163/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/163/article/2/b)
+[^c-0336fa2f9744d34c81c525f1226c546d]: Textual amendment: [S. 83(6)(o)](https://www.legislation.gov.uk/asp/2004/8/section/83/6/o) and word inserted (12.5.2022) by [The Private Landlord Registration (Modification) (Scotland) Order 2022 (S.S.I. 2022/163)](https://www.legislation.gov.uk/ssi/2022/163), [arts. 1](https://www.legislation.gov.uk/ssi/2022/163/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/163/article/2/b)

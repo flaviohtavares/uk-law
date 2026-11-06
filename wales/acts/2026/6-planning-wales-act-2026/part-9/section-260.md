@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 260. Warrant to enter land[^key-573b2823b25e187e45d1bfee8fc7d29b]
+## 260. Warrant to enter land[^c-573b2823b25e187e45d1bfee8fc7d29b]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-573b2823b25e187e45d1bfee8fc7d29b]: Commencement: S. 260 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-573b2823b25e187e45d1bfee8fc7d29b]: Commencement: S. 260 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Introduction[^key-2d41d79e2c1d4d7ed2cd620551796eba]
+## 190. Introduction[^c-2d41d79e2c1d4d7ed2cd620551796eba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Social Security (Contributions) Regulations 2001 in accordance with Ar
 
 ## Annotations
 
-[^key-2d41d79e2c1d4d7ed2cd620551796eba]: Commencement: Art. 190 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-2d41d79e2c1d4d7ed2cd620551796eba]: Commencement: Art. 190 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

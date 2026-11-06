@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Publishing reports etc[^key-22b132e6b4bc5d99eb4853d19af49f6d]
+## 216. Publishing reports etc[^c-22b132e6b4bc5d99eb4853d19af49f6d]
 
 *Extent: E+W+S*
 
 (1) If the PPF Ombudsman considers it appropriate to do so in any particular case, he may publish in such form and manner as he considers appropriate a report of any investigation carried out by virtue of regulations under section 213 or 214 and of the result of that investigation.
 
-(2)[^key-a465e842433ff1ce49949b0673b1d407] For the purposes of the law of defamation, the publication of any matter by the PPF Ombudsman under or by virtue of any provision of this Chapter shall be absolutely privileged.
+(2)[^c-a465e842433ff1ce49949b0673b1d407] For the purposes of the law of defamation, the publication of any matter by the PPF Ombudsman under or by virtue of any provision of this Chapter shall be absolutely privileged.
 
 ## Annotations
 
-[^key-22b132e6b4bc5d99eb4853d19af49f6d]: Commencement: S. 216 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
+[^c-22b132e6b4bc5d99eb4853d19af49f6d]: Commencement: S. 216 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
 
-[^key-a465e842433ff1ce49949b0673b1d407]: Modification: S. 216(2) applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(5)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/5)
+[^c-a465e842433ff1ce49949b0673b1d407]: Modification: S. 216(2) applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(5)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/5)

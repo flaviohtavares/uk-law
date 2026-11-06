@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Gaming Duty (Amendment) Regulations 2016 (revoked)[^key-962b2e5419a57306f156acf7f3aaa8b7]
+The Gaming Duty (Amendment) Regulations 2016 (revoked)[^c-962b2e5419a57306f156acf7f3aaa8b7]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 31st October 2016
 
-[^key-962b2e5419a57306f156acf7f3aaa8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-962b2e5419a57306f156acf7f3aaa8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-962b2e5419a57306f156acf7f3aaa8b7]
+## 1. Citation, commencement and effect[^c-962b2e5419a57306f156acf7f3aaa8b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The amount of payments on account[^key-962b2e5419a57306f156acf7f3aaa8b7]
+## 2. The amount of payments on account[^c-962b2e5419a57306f156acf7f3aaa8b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-962b2e5419a57306f156acf7f3aaa8b7]
+## 3. Revocation[^c-962b2e5419a57306f156acf7f3aaa8b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-962b2e5419a57306f156acf7f3aaa8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-962b2e5419a57306f156acf7f3aaa8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-962b2e5419a57306f156acf7f3aaa8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-962b2e5419a57306f156acf7f3aaa8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-962b2e5419a57306f156acf7f3aaa8b7]: Textual amendment: Regulations revoked (31.1.2018) by [The Gaming Duty (Amendment) Regulations 2018 (S.I. 2018/6)](https://www.legislation.gov.uk/uksi/2018/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/6/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/6/regulation/3)
+[^c-962b2e5419a57306f156acf7f3aaa8b7]: Textual amendment: Regulations revoked (31.1.2018) by [The Gaming Duty (Amendment) Regulations 2018 (S.I. 2018/6)](https://www.legislation.gov.uk/uksi/2018/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/6/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/6/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Acquisition of subsoil or airspace only[^key-45b0e00ab547d703dbdae79cc9631941]
+## 20. Acquisition of subsoil or airspace only[^c-45b0e00ab547d703dbdae79cc9631941]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45b0e00ab547d703dbdae79cc9631941]: Commencement: Art. 20 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-45b0e00ab547d703dbdae79cc9631941]: Commencement: Art. 20 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

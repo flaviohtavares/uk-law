@@ -24,9 +24,9 @@ Articles 36 and 48
 
 ### PART 1 — FOR THE PROTECTION OF ELECTRICITY, GAS, WATER AND SEWERAGE UNDERTAKERS
 
-**1.**[^key-c71d5350d00d66c3a4aa4c871c9b36f6] For the protection of the utility undertakers referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker concerned.
+**1.**[^c-c71d5350d00d66c3a4aa4c871c9b36f6] For the protection of the utility undertakers referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker concerned.
 
-**2.**[^key-0a5feea3bb1e998fc7d146f6e3003f0a] In this Part of this Schedule—
+**2.**[^c-0a5feea3bb1e998fc7d146f6e3003f0a] In this Part of this Schedule—
 
 - “**alternative apparatus**” means alternative apparatus adequate to enable the utility undertaker in question to fulfil its statutory functions in a manner no less efficient than previously;
 - “**apparatus**” means—
@@ -52,25 +52,25 @@ and includes any structure in which apparatus is or is to be lodged or which giv
 
 for the area of the authorised development, and in relation to any apparatus, means the utility undertaker to whom it belongs or by whom it is maintained.
 
-#### 3. On street apparatus[^key-30b610a953e1cbc1dadb105afc28c990]
+#### 3. On street apparatus[^c-30b610a953e1cbc1dadb105afc28c990]
 
 This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the utility undertaker are regulated by the provisions of Part 3 (street works in England and Wales) of the 1991 Act.
 
-#### 4. Apparatus in stopped up streets[^key-82e15760e94de4e1c8c81a9d946e28a2]
+#### 4. Apparatus in stopped up streets[^c-82e15760e94de4e1c8c81a9d946e28a2]
 
 (1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), any utility undertaker whose apparatus is in the street has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to the utility undertaker legal easements reasonably satisfactory to the utility undertaker in respect of such apparatus and access to it, but nothing in this paragraph affects any right of the undertaker or of the utility undertaker to require the removal of that apparatus under paragraph 7 (removal of apparatus) or the power of the undertaker to carry out works under paragraph 9 (retained apparatus).
 
-(2) Regardless of the temporary stopping up or diversion of any highway under the powers conferred by article 16 (temporary stopping up[^key-1d2007c7763af1d698004ff6dc0ca73d] and restriction of use of streets), a utility undertaker is at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the stopping up or diversion was in that highway.
+(2) Regardless of the temporary stopping up or diversion of any highway under the powers conferred by article 16 (temporary stopping up[^c-1d2007c7763af1d698004ff6dc0ca73d] and restriction of use of streets), a utility undertaker is at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the stopping up or diversion was in that highway.
 
-#### 5. Protective works to buildings[^key-b57cf132c8b128d5038bf243876e364e]
+#### 5. Protective works to buildings[^c-b57cf132c8b128d5038bf243876e364e]
 
 The undertaker, in the case of the powers conferred by article 22 (protective work to buildings), must exercise those powers so as not to obstruct or render less convenient the access to any apparatus.
 
-#### 6. Acquisition of land[^key-bc67f167a784cf6bd08b55734811184c]
+#### 6. Acquisition of land[^c-bc67f167a784cf6bd08b55734811184c]
 
 Regardless of any provision in this Order or anything shown on the land plans, the undertaker must not acquire any apparatus otherwise than by agreement.
 
-#### 7. Removal of apparatus[^key-c572cd8edb5cf4e39479f7ce764cc5d5]
+#### 7. Removal of apparatus[^c-c572cd8edb5cf4e39479f7ce764cc5d5]
 
 (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed or requires that the utility undertaker’s apparatus is relocated or diverted, that apparatus must not be removed under this Part of this Schedule, and any right of a utility undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the utility undertaker in question in accordance with sub-paragraphs (2) to (6).
 
@@ -84,13 +84,13 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 
 (6) Regardless of anything in sub-paragraph (5), if the undertaker gives notice in writing to the utility undertaker in question that the undertaker desires itself to execute any work, or part of any work in connection with the construction or removal of apparatus in any land of the undertaker, that work, instead of being executed by the utility undertaker, must be executed by the undertaker without unnecessary delay under the superintendence, if given, and to the reasonable satisfaction of the utility undertaker.
 
-#### 8. Facilities and rights for alternative apparatus[^key-0137a4cba8955404a56285f859b57c8e]
+#### 8. Facilities and rights for alternative apparatus[^c-0137a4cba8955404a56285f859b57c8e]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to a utility undertaker facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between the undertaker and the utility undertaker in question or in default of agreement settled by arbitration in accordance with article 51 (arbitration).
 
 (2) If the facilities and rights to be afforded by the undertaker in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the utility undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by the undertaker to that utility undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 9. Retained apparatus[^key-405a729eccac58e6c7c4d506b33f2034]
+#### 9. Retained apparatus[^c-405a729eccac58e6c7c4d506b33f2034]
 
 (1) Not less than 28 days before starting the execution of any works in, on or under any land purchased, held, appropriated or used under this Order that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 7(2), the undertaker must submit to the utility undertaker in question a plan of the works to be executed.
 
@@ -112,7 +112,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 - (d) the position of all electricity apparatus; and
 - (e) by way of detailed drawings, every alteration proposed to be made to such apparatus.
 
-#### 10. Expenses and costs[^key-3c201a3fcff1689a1c3d26ffc3460e88]
+#### 10. Expenses and costs[^c-3c201a3fcff1689a1c3d26ffc3460e88]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to a utility undertaker all expenses reasonably incurred by that utility undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 7(2).
 
@@ -132,7 +132,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to a utility undertaker in respect of works by virtue of sub-paragraph (1), if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the utility undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, is to be reduced by the amount which represents that benefit.
 
-**11.**[^key-9c5c8568923eb24537354e34bf3cc9e3] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 5 or 7(2) any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any utility undertaker, the undertaker must—
+**11.**[^c-9c5c8568923eb24537354e34bf3cc9e3] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 5 or 7(2) any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any utility undertaker, the undertaker must—
 
 - (a) bear and pay the cost reasonably incurred by that utility undertaker in making good such damage or restoring the supply; and
 - (b) make reasonable compensation to that utility undertaker for any other expenses, loss, damages, penalty or costs incurred by the utility undertaker,
@@ -145,7 +145,7 @@ by reason or in consequence of any such damage or interruption.
 
 (4) A utility undertaker must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise is to be made without the consent of the undertaker and, if such consent is withheld, has the sole conduct of any settlement or compromise of any proceedings necessary to resist the claim or demand.
 
-#### 12. Cooperation[^key-72a7cd1f4edc9e304fa7a0d9440a9ea4]
+#### 12. Cooperation[^c-72a7cd1f4edc9e304fa7a0d9440a9ea4]
 
 (1) Where in consequence of the proposed construction of any part of the authorised development, the undertaker or a utility undertaker requires the removal of apparatus under paragraph 7(2) or a utility undertaker makes requirements for the protection or alteration of apparatus under paragraph 9, the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of the utility undertaker’s undertaking and each utility undertaker must use its best endeavours to co- operate with the undertaker for that purpose.
 
@@ -153,9 +153,9 @@ by reason or in consequence of any such damage or interruption.
 
 ### PART 2 — FOR THE PROTECTION OF OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**13.**[^key-1df588b30f28f574e7b3e3ab954f9d0b] For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
+**13.**[^c-1df588b30f28f574e7b3e3ab954f9d0b] For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
 
-**14.**[^key-8dce7a3b27dd09313cad98250fd35939] In this Part of this Schedule—
+**14.**[^c-8dce7a3b27dd09313cad98250fd35939] In this Part of this Schedule—
 
 - “**the 2003 Act**” means the Communications Act 2003[^f00113];
 - “**electronic communications apparatus**” has the same meaning as in the electronic communications code;
@@ -167,9 +167,9 @@ by reason or in consequence of any such damage or interruption.
 - “**infrastructure system**” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7(2) of that code; and
 - “**operator**” means the operator of an electronic communications code network.
 
-**15.**[^key-8778a9e93867cbe47bfe4b791e8c2749] The exercise of the powers conferred by article 36 (statutory undertakers) is subject to Part 10 (undertakers works affecting electronic communications apparatus) of the electronic communications code.
+**15.**[^c-8778a9e93867cbe47bfe4b791e8c2749] The exercise of the powers conferred by article 36 (statutory undertakers) is subject to Part 10 (undertakers works affecting electronic communications apparatus) of the electronic communications code.
 
-**16.**[^key-5ae03f4b725160332ce9cc416948f032] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction, or of any subsidence resulting from any of those works—
+**16.**[^c-5ae03f4b725160332ce9cc416948f032] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction, or of any subsidence resulting from any of those works—
 
 - (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works), or other property of an operator; or
 - (b) there is any interruption in the supply of the service provided by an operator,
@@ -191,7 +191,7 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 ### PART 3 — FOR THE PROTECTION OF NATIONAL GRID AS ELECTRICITY UNDERTAKER
 
-#### 17. Application[^key-0717e88dc1e8532fb91b5f7e779baef1]
+#### 17. Application[^c-0717e88dc1e8532fb91b5f7e779baef1]
 
 (1) For the protection of National Grid as referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and National Grid.
 
@@ -202,7 +202,7 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 (3) Sub-paragraph (2) does not apply where the benefit of the Order is transferred or granted to National Grid (but see paragraph 27(3)(b)).
 
-#### 18. Interpretation[^key-3414f1b84e9db52a4e5c19b66a6bf2b2]
+#### 18. Interpretation[^c-3414f1b84e9db52a4e5c19b66a6bf2b2]
 
 In this Part of this Schedule—
 
@@ -211,7 +211,7 @@ In this Part of this Schedule—
 - “**authorised works**” has the same meaning as is given to the term “authorised development” in article 2(1) of this Order and for the purposes of this Part of this Schedule includes the use and maintenance of the authorised works and construction of any works authorised by this Schedule;
 - “commence” and “commencement” in paragraph 25 of this Part of this Schedule includes any below ground surveys, monitoring, ground work operations or the receipt and erection of construction plant and equipment,
 - “**deed of consent**” means a deed of consent, crossing agreement, deed of variation or new deed of grant agreed between the parties acting reasonably in order to vary or replace existing easements, agreements, and other such interests so as to secure land rights and interests as are necessary to carry out, maintain, operate and use the apparatus in a manner consistent with the terms of this Part of this Schedule;
-- “[^key-ce1581e8b3022d241a8aae64b8a0bcf2]**functions**” includes powers and duties;
+- “[^c-ce1581e8b3022d241a8aae64b8a0bcf2]**functions**” includes powers and duties;
 - “**ground mitigation scheme**” means a scheme approved by National Grid (such approval not to be unreasonably withheld or delayed) setting out the necessary measures (if any) for a ground subsidence event;
 - “in” in a context referring to apparatus or alternative apparatus in land includes a reference to apparatus or alternative apparatus under, over, across, along or upon such land;
 - “maintain” and “**maintenance**” includes the ability and right to do any of the following in relation to any apparatus or alternative apparatus of National Grid including construct, use, repair, alter, inspect, renew or remove the apparatus;
@@ -221,19 +221,19 @@ In this Part of this Schedule—
   - (a) will or may be situated over, or within 15 metres measured in any direction of any apparatus the removal of which has not been required by the undertaker under paragraph 23(2) or otherwise; or
   - (b) may in any way adversely affect any apparatus the removal of which has not been required by the undertaker under paragraph 23(2) or otherwise.
 
-**19.**[^key-8cf276e8d028d4c4b8290588eac6c48d] Except for paragraphs 36 (apparatus in stopped up streets), 41 (retained apparatus), 42 (expenses and costs) and 43 (indemnity) of this Schedule which will apply in respect of the exercise of all or any powers under the Order affecting the rights and apparatus of National Grid, the other provisions of this Schedule do not apply to apparatus in respect of which the relations between the undertaker and National Grid are regulated by the provisions of Part 3 of the 1991 Act.
+**19.**[^c-8cf276e8d028d4c4b8290588eac6c48d] Except for paragraphs 36 (apparatus in stopped up streets), 41 (retained apparatus), 42 (expenses and costs) and 43 (indemnity) of this Schedule which will apply in respect of the exercise of all or any powers under the Order affecting the rights and apparatus of National Grid, the other provisions of this Schedule do not apply to apparatus in respect of which the relations between the undertaker and National Grid are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 20. Apparatus of National Grid in stopped up streets[^key-9afe1424501bb1e69feed7951664c82d]
+#### 20. Apparatus of National Grid in stopped up streets[^c-9afe1424501bb1e69feed7951664c82d]
 
 (1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), if National Grid has any apparatus in the street or accessed via that street National Grid has the same rights in respect of that apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to National Grid, or procure the granting to National Grid of, legal easements reasonably satisfactory to National Grid in respect of such apparatus and access to it prior to the stopping up of any such street but nothing in this paragraph affects any right of the undertaker or National Grid to require the removal of that apparatus under paragraph 23 (removal of apparatus) or the power of the undertaker, subject to compliance with this sub-paragraph, to carry out works under paragraph 25 (retained apparatus: protection of electricity undertaker).
 
 (2) Notwithstanding the temporary alteration, diversion or restriction of any highway under the powers of article 16 (temporary stopping up and restriction of use of streets), National Grid will be at liberty at all times to take all necessary access across any such stopped up street and to execute and do all such works and things in, upon or under any such street as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the alteration, diversion or restriction was in that street.
 
-#### 21. Protective works to buildings[^key-546840463c3859a50553f9f8332b2a8c]
+#### 21. Protective works to buildings[^c-546840463c3859a50553f9f8332b2a8c]
 
 The undertaker must exercise the powers conferred by article 22 (protective work to buildings) so as not to obstruct or render less convenient the access to any apparatus without the written consent of National Grid (such consent not to be unreasonably withheld)
 
-#### 22. Acquisition of land[^key-28e16224709380950de1ec98d97e9c62]
+#### 22. Acquisition of land[^c-28e16224709380950de1ec98d97e9c62]
 
 (1) Regardless of any provision in this Order or anything shown on the land plans, the undertaker may not acquire any interest in land or apparatus or override any easement or other interest of National Grid otherwise than by agreement.
 
@@ -243,7 +243,7 @@ The undertaker must exercise the powers conferred by article 22 (protective work
 
 (4) Any agreement or consent granted by National Grid under paragraph 25 (retained apparatus: protection of electricity undertaker) or any other paragraph of this Part of this Schedule, is not to be taken to constitute agreement under sub-paragraph (1).
 
-#### 23. Removal of apparatus[^key-b049f07ab3e6eff3e3bb76d6e521f4d4]
+#### 23. Removal of apparatus[^c-b049f07ab3e6eff3e3bb76d6e521f4d4]
 
 (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in or possesses temporarily any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of National Grid to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed, and is in operation to the reasonable satisfaction of National Grid in accordance with sub-paragraph (2) to (5).
 
@@ -258,13 +258,13 @@ The undertaker must exercise the powers conferred by article 22 (protective work
 
 (5) National Grid must, after the alternative apparatus to be provided or constructed has been agreed, and subject to the grant to National Grid of any such facilities and rights as are referred to in sub-paragraph (2) or (3), proceed without unnecessary delay to construct and bring into operation the alternative apparatus and subsequently to remove any apparatus required by the undertaker to be removed under the provisions of this Part of this Schedule.
 
-#### 24. Facilities and rights for alternative apparatus[^key-5329fb9d21f245fba2c65dc64c5ec33d]
+#### 24. Facilities and rights for alternative apparatus[^c-5329fb9d21f245fba2c65dc64c5ec33d]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to or secures for National Grid facilities and rights in land for the construction, use, maintenance and protection of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and National Grid and must be no less favourable on the whole to National Grid than the facilities and rights enjoyed by it in respect of the apparatus to be removed unless otherwise agreed by National Grid.
 
 (2) If the facilities and rights to be afforded by the undertaker under paragraph (1) above in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are less favourable on the whole to National Grid than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the matter may be referred to arbitration in accordance with paragraph 31 (arbitration) of this Part of this Schedule and the arbitrator must make such provision for the payment of compensation by the undertaker to National Grid as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 25. Retained apparatus: protection of electricity undertaker[^key-748e714bb37d1c29503f7ad3a022865e]
+#### 25. Retained apparatus: protection of electricity undertaker[^c-748e714bb37d1c29503f7ad3a022865e]
 
 (1) Not less than 56 days before the commencement of any specified works the undertaker must submit to National Grid a plan of the works to be executed and seek from National Grid details of the underground extent of their electricity tower foundations.
 
@@ -310,7 +310,7 @@ The undertaker must exercise the powers conferred by article 22 (protective work
 
 (12) In sub-paragraph (11) “**emergency works**” means works whose execution at the time when they are executed is required in order to put an end to or to prevent the occurrence of circumstances then existing or imminent (or which the person responsible for the works believes on reasonable grounds to be existing or imminent) which are likely to cause danger to persons or property.
 
-#### 26. Expenses[^key-970701ac28eba4737a59bc040d478903]
+#### 26. Expenses[^c-970701ac28eba4737a59bc040d478903]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must pay to National Grid within 30 days of receipt of an itemised invoice or claim from National Grid all charges, costs and expenses reasonably anticipated within the following three months or reasonably and properly incurred by National Grid in, or in connection with, the inspection, removal, relaying or replacing, alteration or protection of any apparatus or the construction of any new or alternative apparatus which may be required in consequence of the execution of any authorised works including without limitation**—**
 
@@ -339,7 +339,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) Any amount which apart from this sub-paragraph would be payable to National Grid in respect of works by virtue of sub-paragraph (1) will, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on National Grid any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-#### 27. Indemnity[^key-72283c4d0657b6c5ee11737fe1e45ce8]
+#### 27. Indemnity[^c-72283c4d0657b6c5ee11737fe1e45ce8]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any works authorised by this Part of this Schedule or in consequence of the construction, use, maintenance or failure of any of the authorised works by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by him) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Part of this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised works) or property of National Grid, or there is any interruption in any service provided, or in the supply of any goods, by National Grid, or National Grid becomes liable to pay any amount to any third party, the undertaker will—
 
@@ -359,35 +359,35 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (6) National Grid must use its reasonable endeavours to mitigate and to minimise any costs, expenses, loss, demands, and penalties to which the indemnity under this paragraph applies where it is within National Grid’s reasonable ability and control to do so and which expressly excludes any obligation to mitigate liability arising from third parties which is outside of National Grid’s control and if reasonably requested to do so by the undertaker National Grid must provide an explanation of how the claim has been minimised, where relevant.
 
-#### 28. Enactments and agreements[^key-df54bee040a6f25ea58887a79d6a9ed2]
+#### 28. Enactments and agreements[^c-df54bee040a6f25ea58887a79d6a9ed2]
 
 Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and National Grid in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 29. Co-operation[^key-3f67ea00f943a08d34af90c16733b9b3]
+#### 29. Co-operation[^c-3f67ea00f943a08d34af90c16733b9b3]
 
 (1) Where in consequence of the proposed construction of any part of the authorised works, the undertaker or National Grid requires the removal of apparatus under paragraph 23(1) (removal of apparatus) or National Grid makes requirements for the protection or alteration of apparatus under paragraph 25 (retained apparatus: protection of electricity undertaker), the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised works and taking into account the need to ensure the safe and efficient operation of National Grid’s undertaking and National Grid must use its best endeavours to co-operate with the undertaker for that purpose.
 
 (2) For the avoidance of doubt whenever the undertaker’s or National Grid’s consent, agreement or approval is required in relation to plans, documents or other information submitted under this schedule, or agreement is required to be reached between the parties under this schedule, it must not be unreasonably withheld or delayed.
 
-#### 30. Access[^key-ce38d16f5f15f6f1a992cb60975d272a]
+#### 30. Access[^c-ce38d16f5f15f6f1a992cb60975d272a]
 
 If in consequence of the agreement reached in accordance with paragraph 22(1) (acquisition of land) or the powers granted under this Order the access to any apparatus is materially obstructed, the undertaker must provide such alternative means of access to such apparatus as will enable National Grid to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 31. Arbitration[^key-4e12fce73c5c927957b4a4f19767f8a4]
+#### 31. Arbitration[^c-4e12fce73c5c927957b4a4f19767f8a4]
 
 Save for differences or disputes arising under paragraph 23(2), 23(4) and 24(1), any difference or dispute arising between the undertaker and National Grid under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and National Grid, be determined by arbitration in accordance with article 51 (arbitration).
 
-#### 32. Notices[^key-63ff30bdd83d538a7219469b6abc3bd7]
+#### 32. Notices[^c-63ff30bdd83d538a7219469b6abc3bd7]
 
 Notwithstanding article 50 (service of notices), any plans submitted to National Grid by the undertaker pursuant to paragraph 25 (retained apparatus: protection of electricity undertaker) must be sent to https://lsbud.co.uk/ and National Grid Plant Protection at plantprotection@nationalgrid.com or such other address as National Grid may from time to time appoint instead for that purpose and notify to the undertaker in writing.
 
 ### PART 4 — FOR THE PROTECTION OF ANGLIAN WATER SERVICES LIMITED
 
-#### 33. Application[^key-0ea157cf238bc6f0fb6c2cb6d34943c2]
+#### 33. Application[^c-0ea157cf238bc6f0fb6c2cb6d34943c2]
 
 For the protection of Anglian Water, the following provisions have effect, unless otherwise agreed in writing between the undertaker and Anglian Water.
 
-#### 34. Interpretation[^key-d46cdcb8c518b8420b348f5dec3f1f37]
+#### 34. Interpretation[^c-d46cdcb8c518b8420b348f5dec3f1f37]
 
 In this Part of this Schedule –
 
@@ -404,25 +404,25 @@ and for the purpose of this definition, where words are defined by section 219 o
 - “in” in a context referring to apparatus or alternative apparatus in land, includes a reference to apparatus or alternative apparatus under, over or upon land; and
 - “**plan**” includes all designs, drawings, specifications, method statements, soil reports, programmes, calculations, risk assessments and other documents that are reasonably necessary properly and sufficiently to describe the works to be executed.
 
-#### 35. On street apparatus[^key-eccf3f410371e8140197270c89df73c6]
+#### 35. On street apparatus[^c-eccf3f410371e8140197270c89df73c6]
 
 This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and Anglian Water are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 36. Apparatus in stopped up streets[^key-a11888f399bfcae5a7324b0de6dec461]
+#### 36. Apparatus in stopped up streets[^c-a11888f399bfcae5a7324b0de6dec461]
 
-(1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), where Anglian Water has apparatus in the street or accessed by virtue of that street, it has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to Anglian Water legal easements reasonably satisfactory to Anglian Water in respect of such apparatus and access to it, but nothing in this paragraph affects any right of the undertaker or of Anglian Water to require the removal of that apparatus under paragraph 39 (removal of apparatus) or the power of the undertaker to carry out works under paragraph 41 (retained apparatus)[^key-f38a201cbf0433b2dc2c4f6e5e3ed890].
+(1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), where Anglian Water has apparatus in the street or accessed by virtue of that street, it has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to Anglian Water legal easements reasonably satisfactory to Anglian Water in respect of such apparatus and access to it, but nothing in this paragraph affects any right of the undertaker or of Anglian Water to require the removal of that apparatus under paragraph 39 (removal of apparatus) or the power of the undertaker to carry out works under paragraph 41 (retained apparatus)[^c-f38a201cbf0433b2dc2c4f6e5e3ed890].
 
 (2) Regardless of the temporary stopping up or diversion of any highway under the powers conferred by article 16 (temporary stopping up and restriction of the use of streets), Anglian Water is at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the stopping up or diversion was in that highway.
 
-#### 37. Protective works to buildings[^key-2f1ccaad6d51adf4c37ec8b148d1d854]
+#### 37. Protective works to buildings[^c-2f1ccaad6d51adf4c37ec8b148d1d854]
 
 The undertaker, in the case of the powers conferred by article 22 (protective work to buildings), must exercise those powers so as not to obstruct or render less convenient the access to any apparatus.
 
-#### 38. Acquisition of land[^key-f328680191579c1f618016f0d24599d1]
+#### 38. Acquisition of land[^c-f328680191579c1f618016f0d24599d1]
 
 Regardless of any provision in this Order or anything shown on the land plans, the undertaker must not acquire any apparatus otherwise than by agreement.
 
-#### 39. Removal of apparatus[^key-901e45ee75514da883a8d5ec4e0a7bc1]
+#### 39. Removal of apparatus[^c-901e45ee75514da883a8d5ec4e0a7bc1]
 
 (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed or requires that Anglian Water’s apparatus is relocated or diverted, that apparatus must not be removed under this Part of this Schedule, and any right of Anglian Water to maintain that apparatus in that land must not (without the prior written consent of Anglian Water) be extinguished, until:
 
@@ -448,7 +448,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 - (a) make network contingency arrangements; or
 - (b) bring such matters as it may consider reasonably necessary to the attention of end users of the utility in question.
 
-#### 40. Facilities and rights for alternative apparatus[^key-e76dbcc5cbda92a797fe2930982cc413]
+#### 40. Facilities and rights for alternative apparatus[^c-e76dbcc5cbda92a797fe2930982cc413]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to a utility undertaker facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between the undertaker and Anglian Water or in default of agreement settled by arbitration in accordance with article 51 (arbitration).
 
@@ -456,7 +456,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 
 (3) Such facilities and rights as are set out in this paragraph are deemed to include any statutory permits granted to the undertaker in respect of the apparatus in question, whether under the Environmental Permitting (England and Wales) Regulations 2016 or other legislation.
 
-#### 41. Retained apparatus[^key-dfa21ae1d8c8d389d6a1b7482359d1d2]
+#### 41. Retained apparatus[^c-dfa21ae1d8c8d389d6a1b7482359d1d2]
 
 (1) Not less than 28 days before starting the execution of any works in, on or under any land purchased, held, appropriated or used under this Order that are near to, or will or may affect, any apparatus (or any means of access to it) the removal of which has not been required by the undertaker under paragraph 39(2) (removal of apparatus), the undertaker must submit to Anglian Water a plan of the works to be executed.
 
@@ -477,7 +477,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 - (c) 4.5 metres where the diameter of the pipe is between 451 and 750 millimetres; and
 - (d) 6 metres where the diameter of the pipe exceeds 750 millimetres.
 
-#### 42. Expenses and costs[^key-705807e98b1cdf8b61e66802254ab8aa]
+#### 42. Expenses and costs[^c-705807e98b1cdf8b61e66802254ab8aa]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to Anglian Water all expenses reasonably incurred by Anglian Water in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in this Part of the Schedule.
 
@@ -495,7 +495,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 
 (5) An amount which apart from this sub-paragraph would be payable to Anglian Water in respect of works by virtue of sub-paragraph (1), if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on Anglian Water any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, is to be reduced by the amount which represents that benefit.
 
-#### 43. Indemnity[^key-f14445f8f105be5386e2ad055ef195aa]
+#### 43. Indemnity[^c-f14445f8f105be5386e2ad055ef195aa]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 37 (protective work to buildings) or 39(2) (removal of apparatus), or by reason of any subsidence resulting from such development or works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of Anglian Water, or there is any interruption in any service provided, or in the supply of any goods, by Anglian Water, the undertaker must—
 
@@ -508,23 +508,23 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 
 (4) Anglian Water must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise is to be made, without the consent of the undertaker (such consent not to be unreasonably withheld or delayed) who, if withholding such consent, has the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-#### 44. Cooperation[^key-7b8e7bf3672af4b1c8aa6d20a5447df0]
+#### 44. Cooperation[^c-7b8e7bf3672af4b1c8aa6d20a5447df0]
 
 Where in consequence of the proposed construction of any of the authorised development, the undertaker or Anglian Water requires the removal of apparatus under paragraph 39(2) (removal of apparatus) or Anglian Water makes requirements for the protection or alteration of apparatus under sub-paragraph (9), the undertaker must use all reasonable endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of Anglian Water’s undertaking and Anglian Water must use all reasonable endeavours to co-operate with the undertaker for that purpose.
 
-**45.**[^key-003b5383c6b298575384cea9e1b46922] Where the undertaker identifies any apparatus which may belong to or be maintainable by Anglian Water but which does not appear on any statutory map kept for the purpose by Anglian Water, it shall inform Anglian Water of the existence and location of the apparatus as soon as reasonably practicable.
+**45.**[^c-003b5383c6b298575384cea9e1b46922] Where the undertaker identifies any apparatus which may belong to or be maintainable by Anglian Water but which does not appear on any statutory map kept for the purpose by Anglian Water, it shall inform Anglian Water of the existence and location of the apparatus as soon as reasonably practicable.
 
-**46.**[^key-cb2343c2021f83b7b3527a73a32b1aff] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and Anglian Water in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
+**46.**[^c-cb2343c2021f83b7b3527a73a32b1aff] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and Anglian Water in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-**47.**[^key-4100ab54ac16723fc6f8bf9a8460b10f] Any time period in which an action must be taken in this Part of the Schedule may be amended by written agreement between the undertaker and Anglian Water.
+**47.**[^c-4100ab54ac16723fc6f8bf9a8460b10f] Any time period in which an action must be taken in this Part of the Schedule may be amended by written agreement between the undertaker and Anglian Water.
 
 ### PART 5 — FOR THE PROTECTION OF CADENT AS GAS UNDERTAKER
 
-#### 48. Application[^key-71889914bbd11e778395db7511dfaedd]
+#### 48. Application[^c-71889914bbd11e778395db7511dfaedd]
 
 For the protection of Cadent the following provisions will, unless otherwise agreed in writing between the undertaker and Cadent, have effect.
 
-#### 49. Interpretation[^key-71cd672594c42a9963713a8a022bf967]
+#### 49. Interpretation[^c-71cd672594c42a9963713a8a022bf967]
 
 In this Part of this Schedule—
 
@@ -544,10 +544,10 @@ In this Part of this Schedule—
 - “plan” or “plans” include all designs, drawings, specifications, method statements, soil reports, programmes, calculations, risk assessments and other documents that are reasonably necessary properly and sufficiently to describe and assess the works to be executed;
 - “**rights**” includes restrictive covenants and, in relation to decommissioned apparatus, the surrender of rights, release of liabilities and transfer of decommissioned apparatus; and
 - “**specified works**” means any of the authorised development or activities (including maintenance) undertaken in association with the authorised development which—
-  - (a) will or may be situated over, or within 15 metres measured in any direction of any apparatus the removal of which has not been required by the undertaker under paragraph 54(2)[^key-1100ea614d2f5792c17e052abe4cbd0d] (removal of apparatus) or otherwise; or
+  - (a) will or may be situated over, or within 15 metres measured in any direction of any apparatus the removal of which has not been required by the undertaker under paragraph 54(2)[^c-1100ea614d2f5792c17e052abe4cbd0d] (removal of apparatus) or otherwise; or
   - (b) may in any way adversely affect any apparatus the removal of which has not been required by the undertaker under paragraph 54(2) or otherwise.
 
-#### 50. On Street apparatus[^key-6dae10dc3c651e1fe36e3f421120e4dc]
+#### 50. On Street apparatus[^c-6dae10dc3c651e1fe36e3f421120e4dc]
 
 (1) This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and Cadent are regulated by the provisions of Part 3 of the 1991 Act, except for—
 
@@ -561,17 +561,17 @@ In this Part of this Schedule—
 - (a) the allowable costs of the relocation works are to be determined in accordance with section 85 (sharing of cost of necessary measures) of that Act and any regulations for the time being having effect under that section; and
 - (b) the allowable costs are to be borne by the undertaker and Cadent in such proportions as may be prescribed by any such regulations.
 
-#### 51. Apparatus of Cadent in stopped up streets[^key-c3a08dfcb0da73b5770d487d6f81ecd1]
+#### 51. Apparatus of Cadent in stopped up streets[^c-c3a08dfcb0da73b5770d487d6f81ecd1]
 
-(1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), if Cadent has any apparatus in the street or accessed via that street Cadent is entitled to the same rights in respect of such apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to Cadent, or procure the granting to Cadent of, legal easements reasonably satisfactory to Cadent in respect of such apparatus and access to it prior to the stopping up of any such street or highway, but nothing in this paragraph shall affect any right of the undertaker or of Cadent to require the removal of that apparatus under paragraph 54 (removal of apparatus)[^key-a27c774bcaa7c3daabd578d4f4cb75de].
+(1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), if Cadent has any apparatus in the street or accessed via that street Cadent is entitled to the same rights in respect of such apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to Cadent, or procure the granting to Cadent of, legal easements reasonably satisfactory to Cadent in respect of such apparatus and access to it prior to the stopping up of any such street or highway, but nothing in this paragraph shall affect any right of the undertaker or of Cadent to require the removal of that apparatus under paragraph 54 (removal of apparatus)[^c-a27c774bcaa7c3daabd578d4f4cb75de].
 
 (2) Notwithstanding the temporary alteration, diversion or restriction of use of any street under the powers of article 16 (temporary stopping up and restriction of use of streets), Cadent will be at liberty at all times to take all necessary access across any such street and to execute and do all such works and things in, upon or under any such street as it would have been entitled to do immediately before such temporary alteration, diversion or restriction of use in respect of any apparatus which at the time of the stopping up or diversion was in that street.
 
-#### 52. Protective works to buildings[^key-737cd432f271eb4bedd6aa5f05488049]
+#### 52. Protective works to buildings[^c-737cd432f271eb4bedd6aa5f05488049]
 
 The undertaker must exercise the powers conferred by article 22 (protective work to buildings) so as not to obstruct or render less convenient the access to any apparatus without the written consent of Cadent (such consent not to be unreasonably withheld or delayed).
 
-#### 53. Acquisition of land[^key-c8f5e6a074e4974e6af32ff423b0a68c]
+#### 53. Acquisition of land[^c-c8f5e6a074e4974e6af32ff423b0a68c]
 
 (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference to the Order, the undertaker may not appropriate or acquire any interest in land or appropriate, acquire, extinguish, interfere with or override any easement or other interest in land of Cadent otherwise than by agreement.
 
@@ -588,9 +588,9 @@ The undertaker must exercise the powers conferred by article 22 (protective work
 - (a) retain any notice of Cadent’s easement, right or other interest on the title to the relevant land when registering the undertaker’s title to such acquired land; and
 - (b) (where no such notice of Cadent’s easement, right or other interest exists in relation to such acquired land or any such notice is registered only on the Land Charges Register) include (with its application to register title to the undertaker’s interest in such acquired land at the Land Registry) a notice of Cadent’s easement, right or other interest in relation to such acquired land.
 
-#### 54. Removal of apparatus[^key-e9048dd79222865654fe96fd3048e2a9]
+#### 54. Removal of apparatus[^c-e9048dd79222865654fe96fd3048e2a9]
 
-(1) If, in the exercise of the powers conferred by this Order, including pursuant to any agreement reached in accordance with paragraph 53[^key-69f1ec66b932e05773addb57a018f087] (acquisition of land), the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be decommissioned or removed under this Part of this Schedule and any right of Cadent to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed, is in operation, and the facilities and rights referred to in sub-paragraph (2) have been provided, to the reasonable satisfaction of Cadent and in accordance with sub-paragraphs (2) to (5) inclusive.
+(1) If, in the exercise of the powers conferred by this Order, including pursuant to any agreement reached in accordance with paragraph 53[^c-69f1ec66b932e05773addb57a018f087] (acquisition of land), the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be decommissioned or removed under this Part of this Schedule and any right of Cadent to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed, is in operation, and the facilities and rights referred to in sub-paragraph (2) have been provided, to the reasonable satisfaction of Cadent and in accordance with sub-paragraphs (2) to (5) inclusive.
 
 (2) If, for the purpose of executing any works in, on, under or over any land purchased, held, appropriated or used under this Order, the undertaker requires the removal of any apparatus placed in that land, it must give to Cadent advance written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order Cadent reasonably needs to move or remove any of its apparatus) the undertaker must afford to Cadent to its satisfaction (taking into account paragraph 55(1) (facilities and rights for alternative apparatus)) the necessary facilities and rights—
 
@@ -603,13 +603,13 @@ The undertaker must exercise the powers conferred by article 22 (protective work
 
 (5) Cadent must, after the alternative apparatus to be provided or constructed has been agreed, and subject to the prior grant to Cadent of such facilities and rights as are referred to in sub-paragraph (2) or (3), then proceed without unnecessary delay to construct and bring into operation the alternative apparatus and subsequently to decommission or remove any apparatus required by the undertaker to be decommissioned or removed under the provisions of this Part of this Schedule.
 
-#### 55. Facilities and rights for alternative apparatus[^key-71988f0d397c5378052fc2c2eaa18a43]
+#### 55. Facilities and rights for alternative apparatus[^c-71988f0d397c5378052fc2c2eaa18a43]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to or secures for Cadent facilities and rights in land for the access to, construction and maintenance of alternative apparatus in substitution for apparatus to be decommissioned or removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and Cadent and must be no less favourable on the whole to Cadent than the facilities and rights enjoyed by it in respect of the apparatus to be decommissioned or removed unless otherwise agreed by Cadent.
 
-(2) If the facilities and rights to be afforded by the undertaker and agreed with Cadent under sub-paragraph (1) in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are less favourable on the whole to Cadent than the facilities and rights enjoyed by it in respect of the apparatus to be decommissioned or removed, then the terms and conditions to which those facilities and rights are subject may be referred to arbitration in accordance with paragraph 62[^key-53420173e400f15e8df31fd642b2aa15] (arbitration) of this Part of this Schedule and the arbitrator must make such provision for the payment of compensation by the undertaker to Cadent as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
+(2) If the facilities and rights to be afforded by the undertaker and agreed with Cadent under sub-paragraph (1) in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are less favourable on the whole to Cadent than the facilities and rights enjoyed by it in respect of the apparatus to be decommissioned or removed, then the terms and conditions to which those facilities and rights are subject may be referred to arbitration in accordance with paragraph 62[^c-53420173e400f15e8df31fd642b2aa15] (arbitration) of this Part of this Schedule and the arbitrator must make such provision for the payment of compensation by the undertaker to Cadent as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 56. Retained apparatus: protection of Cadent[^key-d969dbc5bedb510e0d920c81dbf142b2]
+#### 56. Retained apparatus: protection of Cadent[^c-d969dbc5bedb510e0d920c81dbf142b2]
 
 (1) Not less than 56 days before the commencement of any specified works the undertaker must submit to Cadent a plan and, if reasonably required by Cadent, a ground monitoring scheme in respect of those works.
 
@@ -645,18 +645,18 @@ The undertaker must exercise the powers conferred by article 22 (protective work
 (10) As soon as reasonably practicable after any ground subsidence event attributable to the authorised development (including such an event attributable to its maintenance)—
 
 - (a) the undertaker must implement an appropriate ground mitigation scheme; and
-- (b) Cadent retains the right to carry out any further necessary protective works for the safeguarding of its apparatus and can recover any such costs in line with paragraph 57[^key-d7f01998311a03766ea468e3dbae5e33] (expenses).
+- (b) Cadent retains the right to carry out any further necessary protective works for the safeguarding of its apparatus and can recover any such costs in line with paragraph 57[^c-d7f01998311a03766ea468e3dbae5e33] (expenses).
 
 (11) The undertaker is not required to comply with sub-paragraph (1) where it needs to carry out emergency works but in that case it must give to Cadent notice as soon as is reasonably practicable and a plan of those works and must comply with the conditions imposed under sub-paragraph (4)(a) insofar as is reasonably practicable in the circumstances.
 
 (12) In this paragraph, “**emergency works**” means works whose execution at the time when they are executed is required in order to put an end to, or to prevent the occurrence of, circumstances then existing or imminent (or which the person responsible for the works believes on reasonable grounds to be existing or imminent) which are likely to cause danger to persons or property.
 
-#### 57. Expenses[^key-d2f7e757fc562fe901ff0b3b0595937f]
+#### 57. Expenses[^c-d2f7e757fc562fe901ff0b3b0595937f]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must pay to Cadent on demand, all charges, costs and expenses reasonably anticipated or reasonably incurred by Cadent in, or in connection with, the inspection, removal, relaying or replacing, alteration or protection of any apparatus or the construction of any new or alternative apparatus which may be required in consequence of the execution of any authorised development including without limitation—
 
 - (a) any costs reasonably incurred by or compensation properly paid by Cadent in connection with the acquisition of rights or the exercise of statutory powers for such apparatus including without limitation all costs (including professional fees) incurred by Cadent as a consequence of Cadent;
-  - (i) using its own compulsory purchase powers to acquire any necessary rights under paragraph 54(3) (removal[^key-1b5b5c5c5d1cc1984b80dcf9536d6474] of apparatus) if it elects to do so; or
+  - (i) using its own compulsory purchase powers to acquire any necessary rights under paragraph 54(3) (removal[^c-1b5b5c5c5d1cc1984b80dcf9536d6474] of apparatus) if it elects to do so; or
   - (ii) exercising any compulsory purchase powers under this Order transferred to or benefitting Cadent;
 - (b) in connection with the cost of the carrying out of any diversion work or the provision of any alternative apparatus;
 - (c) the cutting off of any apparatus from any other apparatus or the making safe of redundant apparatus;
@@ -681,7 +681,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to Cadent in respect of works by virtue of sub-paragraph (1) will, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on Cadent any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-#### 58. Indemnity[^key-42a845f71f1f3223299dc50717446fd7]
+#### 58. Indemnity[^c-42a845f71f1f3223299dc50717446fd7]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works authorised by this Part of this Schedule (including without limitation relocation, diversion, decommissioning, construction and maintenance of apparatus or alternative apparatus) or in consequence of the construction, use, maintenance or failure of any of the authorised development (including works carried out under article 22 (protective work to buildings)) by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by the undertaker) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Part of this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised development) or property of Cadent, or there is any interruption in any service provided, or in the supply of any goods, by Cadent, or Cadent becomes liable to pay any amount to any third party, the undertaker will—
 
@@ -698,33 +698,33 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (4) Cadent must give the undertaker reasonable notice of any such third party claim or demand and no settlement, admission of liability or compromise must, unless payment is required in connection with a statutory compensation scheme, be made without first consulting the undertaker and considering their representations.
 
-#### 59. Enactments and agreements[^key-d77128819fa709afe1a7eef5dda8f2e5]
+#### 59. Enactments and agreements[^c-d77128819fa709afe1a7eef5dda8f2e5]
 
 Except where this Part of this Schedule provides otherwise, nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and Cadent in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 60. Co-operation[^key-8bf5b716eb0030a3aab4efa5c41609ff]
+#### 60. Co-operation[^c-8bf5b716eb0030a3aab4efa5c41609ff]
 
-(1) Where in consequence of the proposed construction of any part of the authorised development, the undertaker or Cadent requires the removal of apparatus under paragraph 54(2)[^key-5c0c9d0551b7e1797739b61c7003afcb] (removal of apparatus) or Cadent makes requirements for the protection or alteration of apparatus under paragraph 56 (retained apparatus: protection of Cadent), the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of Cadent’s undertaking and Cadent must use its best endeavours to co-operate with the undertaker for that purpose.
+(1) Where in consequence of the proposed construction of any part of the authorised development, the undertaker or Cadent requires the removal of apparatus under paragraph 54(2)[^c-5c0c9d0551b7e1797739b61c7003afcb] (removal of apparatus) or Cadent makes requirements for the protection or alteration of apparatus under paragraph 56 (retained apparatus: protection of Cadent), the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of Cadent’s undertaking and Cadent must use its best endeavours to co-operate with the undertaker for that purpose.
 
 (2) For the avoidance of doubt whenever Cadent’s consent, agreement or approval is required in relation to plans, documents or other information submitted by Cadent or the taking of action by Cadent, it must not be unreasonably withheld or delayed.
 
-#### 61. Access[^key-9c0c686ef20d463495250ef877e09b80]
+#### 61. Access[^c-9c0c686ef20d463495250ef877e09b80]
 
 If in consequence of any agreement reached in accordance with paragraph 53(1) (acquisition of land) or the powers conferred by this Order the access to any apparatus is materially obstructed, the undertaker must provide such alternative rights and means of access to such apparatus as will enable Cadent to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 62. Arbitration[^key-42846960e349038643bc72f6667bd6f0]
+#### 62. Arbitration[^c-42846960e349038643bc72f6667bd6f0]
 
-Save for differences or disputes arising under paragraph 54(2) (removal of apparatus) and (4)[^key-2bb21005f07c442a969b2a643e83c364] any difference or dispute arising between the undertaker and Cadent under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and Cadent, be determined by arbitration in accordance with article 51 (arbitration).
+Save for differences or disputes arising under paragraph 54(2) (removal of apparatus) and (4)[^c-2bb21005f07c442a969b2a643e83c364] any difference or dispute arising between the undertaker and Cadent under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and Cadent, be determined by arbitration in accordance with article 51 (arbitration).
 
-#### 63. Notices[^key-1817d556833d217b6c651b5550e3d273]
+#### 63. Notices[^c-1817d556833d217b6c651b5550e3d273]
 
-Notwithstanding article 50 (service of notices) any plans submitted to Cadent by the undertaker pursuant to paragraph 56(1)[^key-712263218d9b623a65bebc97bfd8faff] (retained apparatus: protection of Cadent) must be sent via email to Cadent Gas Limited Plant Protection at plantprotection@cadentgas.com as well as via post to Plant Protection, Cadent Gas Limited, Brick Kiln Street, Hinckley, Leicestershire, LE10 0NA, or such other address as Cadent may from time to time appoint instead for that purpose and notify to the undertaker in writing.
+Notwithstanding article 50 (service of notices) any plans submitted to Cadent by the undertaker pursuant to paragraph 56(1)[^c-712263218d9b623a65bebc97bfd8faff] (retained apparatus: protection of Cadent) must be sent via email to Cadent Gas Limited Plant Protection at plantprotection@cadentgas.com as well as via post to Plant Protection, Cadent Gas Limited, Brick Kiln Street, Hinckley, Leicestershire, LE10 0NA, or such other address as Cadent may from time to time appoint instead for that purpose and notify to the undertaker in writing.
 
 ### PART 6 — FOR THE PROTECTION OF RAILWAY INTERESTS
 
-**64.**[^key-1b6ed04b033c00ceb257a58966e653ca] The provisions of this Part of this Schedule have effect, unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 78 of this Part of this Schedule any other person on whom rights or obligations are conferred by that paragraph.
+**64.**[^c-1b6ed04b033c00ceb257a58966e653ca] The provisions of this Part of this Schedule have effect, unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 78 of this Part of this Schedule any other person on whom rights or obligations are conferred by that paragraph.
 
-**65.**[^key-aa105c6dd41cb2c16ea58d2a66b512d0] In this Part of this Schedule—
+**65.**[^c-aa105c6dd41cb2c16ea58d2a66b512d0] In this Part of this Schedule—
 
 - “**asset protection agreement**” means an agreement to regulate the construction and maintenance of the specified work in a form prescribed from time to time by Network Rail;
 - “**construction**” includes execution, placing, alteration and reconstruction and “construct” and “constructed” have corresponding meanings;
@@ -744,19 +744,19 @@ Notwithstanding article 50 (service of notices) any plans submitted to Cadent by
 
 by either the Office of Rail and Road or the Secretary of State for Transport or any other competent body including change procedures and any other consents, approvals of any access or beneficiary that may be required in relation to the authorised development; and
 
-- “**specified work**” means so much of any of the authorised development as is situated upon, across, under, over or within 15 metres of, or may in any way adversely affect, railway property and, for the avoidance of doubt, includes the maintenance of such works under the powers conferred by article 6 ([^key-f9874f3105e70a6dca31014ac2b9bd1f]... maintenance of authorised development) in respect of such works.
+- “**specified work**” means so much of any of the authorised development as is situated upon, across, under, over or within 15 metres of, or may in any way adversely affect, railway property and, for the avoidance of doubt, includes the maintenance of such works under the powers conferred by article 6 ([^c-f9874f3105e70a6dca31014ac2b9bd1f]... maintenance of authorised development) in respect of such works.
 
-**66.**[^key-4ef83bb47c756d466833091d86df692d] (1) Where under this Part of this Schedule Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
+**66.**[^c-4ef83bb47c756d466833091d86df692d] (1) Where under this Part of this Schedule Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
 
 (2) In so far as any specified work or the acquisition or use of railway property is or may be subject to railway operational procedures, Network Rail must—
 
 - (a) co-operate with the undertaker with a view to avoiding undue delay and securing conformity as between any plans approved by the engineer and requirements emanating from those procedures; and
 - (b) use their reasonable endeavours to avoid any conflict arising between the application of those procedures and the proper implementation of the authorised development pursuant to this Order.
 
-**67.**[^key-449442a2e9b40171680620a0603a9f81] (1) The undertaker must not exercise the powers conferred by—
+**67.**[^c-449442a2e9b40171680620a0603a9f81] (1) The undertaker must not exercise the powers conferred by—
 
 - (a) article 5 (development consent etc. granted by the Order);
-- (b) article 6 ([^key-c78569c87de3f3258f07afd3f09363b0]... maintenance of authorised development);
+- (b) article 6 ([^c-c78569c87de3f3258f07afd3f09363b0]... maintenance of authorised development);
 - (c) article 21 (discharge of water);
 - (d) article 23 (authority to survey and investigate the land);
 - (e) article 24 (compulsory acquisition of land);
@@ -787,7 +787,7 @@ in respect of any railway property unless the exercise of such powers is with th
 
 (7) The undertaker must enter into an asset protection agreement prior to the carrying out of any specified work.
 
-**68.**[^key-8243d080492372df97a1b104b5e0dafa] (1) The undertaker must before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work must not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
+**68.**[^c-8243d080492372df97a1b104b5e0dafa] (1) The undertaker must before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work must not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
 
 (2) The approval of the engineer under sub-paragraph (1) must not be unreasonably withheld, and if by the end of the period of 28 days beginning with the date on which such plans have been supplied to Network Rail the engineer has not intimated their disapproval of those plans and the grounds of such disapproval the undertaker may serve upon the engineer written notice requiring the engineer to intimate approval or disapproval within a further period of 28 days beginning with the date upon which the engineer receives written notice from the undertaker. If by the expiry of the further 28 days the engineer has not intimated approval or disapproval, the engineer shall be deemed to have approved the plans as submitted.
 
@@ -795,7 +795,7 @@ in respect of any railway property unless the exercise of such powers is with th
 
 (4) When signifying their approval of the plans the engineer may specify any protective works (whether temporary or permanent) which in the engineer’s opinion should be carried out before the commencement of the construction of a specified work to ensure the safety or stability of railway property or the continuation of safe and efficient operation of the railways of Network Rail or the services of operators using the same (including any relocation de-commissioning and removal of works, apparatus and equipment necessitated by a specified work and the comfort and safety of passengers who may be affected by the specified works), and such protective works as may be reasonably necessary for those purposes must be constructed by Network Rail or by the undertaker, if Network Rail so desires, and such protective works must be carried out at the expense of the undertaker in either case without unnecessary delay and the undertaker must not commence the construction of the specified works until the engineer has notified the undertaker that the protective works have been completed to their reasonable satisfaction.
 
-**69.**[^key-8eff5bdf508f411a49214d66956fdb33] (1) Any specified work and any protective works to be constructed by virtue of paragraph 68(4) must, when commenced, be constructed—
+**69.**[^c-8eff5bdf508f411a49214d66956fdb33] (1) Any specified work and any protective works to be constructed by virtue of paragraph 68(4) must, when commenced, be constructed—
 
 - (a) without unnecessary delay in accordance with the plans approved or deemed to have been approved or settled under paragraph 68;
 - (b) under the supervision (where appropriate and if given) and to the reasonable satisfaction of the engineer;
@@ -806,14 +806,14 @@ in respect of any railway property unless the exercise of such powers is with th
 
 (3) Nothing in this Part of this Schedule imposes any liability on the undertaker with respect to any damage, costs, expenses or loss attributable to the negligence of Network Rail or its servants, contractors or agents or any liability on Network Rail with respect of any damage, costs, expenses or loss attributable to the negligence of the undertaker or its servants, contractors or agents.
 
-**70.**[^key-d9869581c1c6e01103d84db1cf56f745] The undertaker must—
+**70.**[^c-d9869581c1c6e01103d84db1cf56f745] The undertaker must—
 
 - (a) at all times afford reasonable facilities to the engineer for access to a specified work during its construction; and
 - (b) supply the engineer with all such information as they may reasonably require with regard to a specified work or the method of constructing it.
 
-**71.**[^key-e477a023b4b59570009f494ce2b1bc35] Network Rail must at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Part of this Schedule during their construction and must supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
+**71.**[^c-e477a023b4b59570009f494ce2b1bc35] Network Rail must at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Part of this Schedule during their construction and must supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
 
-**72.**[^key-1469b22db89562fbd93a1b89f4dbfb87] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction or completion of a specified work in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail and if Network Rail gives to the undertaker 56 days’ notice (or in the event of an emergency or safety critical issue such notice as is reasonable in the circumstances) of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
+**72.**[^c-1469b22db89562fbd93a1b89f4dbfb87] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction or completion of a specified work in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail and if Network Rail gives to the undertaker 56 days’ notice (or in the event of an emergency or safety critical issue such notice as is reasonable in the circumstances) of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) If during the construction of a specified work by the undertaker, Network Rail gives notice to the undertaker that Network Rail desires itself to construct that part of the specified work which in the opinion of the engineer is endangering the stability of railway property or the safe operation of traffic on the railways of Network Rail then, if the undertaker decides that part of the specified work is to be constructed, Network Rail must assume construction of that part of the specified work and the undertaker must, notwithstanding any such approval of a specified work under paragraph 68(4), pay to Network Rail all reasonable expenses to which Network Rail may be put and compensation for any loss which it may suffer by reason of the execution by Network Rail of that specified work.
 
@@ -821,7 +821,7 @@ in respect of any railway property unless the exercise of such powers is with th
 
 (4) If the cost of maintaining, working or renewing railway property is reduced in consequence of any such alterations or additions a capitalised sum representing such saving must be set off against any sum payable by the undertaker to Network Rail under this paragraph.
 
-**73.**[^key-ecf65dd854e97150c3533fb5a4c3391c] The undertaker must repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
+**73.**[^c-ecf65dd854e97150c3533fb5a4c3391c] The undertaker must repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
 
 - (a) in constructing any part of a specified work on behalf of the undertaker as provided by paragraph 68(3) or in constructing any protective works under the provisions of paragraph 68(4) including, in respect of any permanent protective works, a capitalised sum representing the cost of maintaining and renewing those works;
 - (b) in respect of the approval by the engineer of plans submitted by the undertaker and the supervision by the engineer of the construction of a specified work;
@@ -829,7 +829,7 @@ in respect of any railway property unless the exercise of such powers is with th
 - (d) in respect of any special traffic working resulting from any speed restrictions which may in the opinion of the engineer, require to be imposed by reason or in consequence of the construction or failure of a specified work or from the substitution or diversion of services which may be reasonably necessary for the same reason; and
 - (e) in respect of any additional temporary lighting of railway property in the vicinity of the specified works, being lighting made reasonably necessary by reason or in consequence of the construction or failure of a specified work.
 
-**74.**[^key-83663ca3b10c562491d1cfca388a263d] (1) This paragraph applies to EMI only to the extent that such EMI is not attributable to any change to Network Rail’s apparatus carried out after approval of plans under paragraph 68(1) for the relevant part of the authorised development giving rise to EMI (unless the undertaker has been given notice in writing before the approval of those plans of the intention to make such change).
+**74.**[^c-83663ca3b10c562491d1cfca388a263d] (1) This paragraph applies to EMI only to the extent that such EMI is not attributable to any change to Network Rail’s apparatus carried out after approval of plans under paragraph 68(1) for the relevant part of the authorised development giving rise to EMI (unless the undertaker has been given notice in writing before the approval of those plans of the intention to make such change).
 
 (2) Subject to sub-paragraph (4), the undertaker must in the design and construction of the authorised development take all measures necessary to prevent EMI and must establish with Network Rail (both parties acting reasonably) appropriate arrangements to verify their effectiveness.
 
@@ -859,20 +859,20 @@ in respect of any railway property unless the exercise of such powers is with th
 
 (9) For the purpose of paragraph 73(a) any modifications to Network Rail’s apparatus under this paragraph shall be deemed to be protective works referred to in that paragraph.
 
-(10) In relation to any dispute arising under this paragraph the reference in article 51[^key-e318dad9e1278de41c5dff797e56866e] (Arbitration) to the Institution of Civil Engineers shall be read as a reference to the Institution of Engineering and Technology.
+(10) In relation to any dispute arising under this paragraph the reference in article 51[^c-e318dad9e1278de41c5dff797e56866e] (Arbitration) to the Institution of Civil Engineers shall be read as a reference to the Institution of Engineering and Technology.
 
 (11) In this paragraph—
 
 - “**EMI**” means, subject to sub-paragraph (1), electromagnetic interference with Network Rail apparatus generated by the operation of the authorised development where such interference is of a level which adversely affects the safe operation of Network Rail’s apparatus; and
 - “**Network Rail’s apparatus**” means any lines, circuits, wires, apparatus or equipment (whether or not modified or installed as part of the authorised development) which are owned or used by Network Rail for the purpose of transmitting or receiving electrical energy or of radio, telegraphic, telephonic, electric, electronic or other like means of signalling or other communications.
 
-**75.**[^key-f5b31e2ca70240015349e7959723ba2a] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
+**75.**[^c-f5b31e2ca70240015349e7959723ba2a] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
 
-**76.**[^key-da51638113d2fd4fa53344a645b905b8] The undertaker must not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it has first consulted Network Rail and it must comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
+**76.**[^c-da51638113d2fd4fa53344a645b905b8] The undertaker must not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it has first consulted Network Rail and it must comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
 
-**77.**[^key-484d8333a7c9cc0a441e7c3887845220] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work must, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
+**77.**[^c-484d8333a7c9cc0a441e7c3887845220] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work must, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
 
-**78.**[^key-503ebe09f42b4c04f254ebd492fc4fe7] (1) The undertaker must pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Part of this Schedule (subject to article 45 (no double recovery)) which may be occasioned to or reasonably incurred by Network Rail—
+**78.**[^c-503ebe09f42b4c04f254ebd492fc4fe7] (1) The undertaker must pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Part of this Schedule (subject to article 45 (no double recovery)) which may be occasioned to or reasonably incurred by Network Rail—
 
 - (a) by reason of the construction, maintenance or operation of a specified work or the failure thereof;
 - (b) by reason of any act or omission of the undertaker or of any person in its employ or of its contractors or others whilst engaged upon a specified work;
@@ -899,33 +899,33 @@ and the undertaker must indemnify and keep indemnified Network Rail from and aga
 - “**the relevant costs**” means the costs, losses and expenses (including loss of revenue) reasonably incurred by each train operator as a consequence of any specified work including but not limited to any restriction of the use of Network Rail’s railway network as a result of the construction, maintenance or failure of a specified work or any such act or omission as mentioned in subparagraph (1); and
 - “**train operator**” means any person who is authorised to act as the operator of a train by a licence under section 8 of the Railways Act 1993.
 
-**79.**[^key-ac9d2071669d9bbb29c80bc04539ed57] Network Rail must, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Part of this Schedule (including the amount of the relevant costs mentioned in paragraph 78) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Part of this Schedule (including any claim relating to those relevant costs).
+**79.**[^c-ac9d2071669d9bbb29c80bc04539ed57] Network Rail must, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Part of this Schedule (including the amount of the relevant costs mentioned in paragraph 78) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Part of this Schedule (including any claim relating to those relevant costs).
 
-**80.**[^key-0d3db39a14c8068fccf00cec5348c606] In the assessment of any sums payable to Network Rail under this Part of this Schedule there must not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Part of this Schedule or increasing the sums so payable.
+**80.**[^c-0d3db39a14c8068fccf00cec5348c606] In the assessment of any sums payable to Network Rail under this Part of this Schedule there must not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Part of this Schedule or increasing the sums so payable.
 
-**81.**[^key-d9a673fffcced7c2ecfef2d128edba41] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
+**81.**[^c-d9a673fffcced7c2ecfef2d128edba41] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
 
 - (a) any railway property shown on the works and land plans and described in the book of reference;
 - (b) any lands, works or other property held in connection with any such railway property; and
 - (c) any rights and obligations (whether or not statutory) of Network Rail relating to any railway property or any lands, works or other property referred to in this paragraph.
 
-**82.**[^key-3530e9dfc260f622b7db90546a34710e] Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993.
+**82.**[^c-3530e9dfc260f622b7db90546a34710e] Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993.
 
-**83.**[^key-de987b9f7e4ba8192b4cb60094ed7263] The undertaker must give written notice to Network Rail if any application is proposed to be made by the undertaker for the Secretary of State’s consent, under article 10 (consent to transfer benefit of Order) of this Order and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
+**83.**[^c-de987b9f7e4ba8192b4cb60094ed7263] The undertaker must give written notice to Network Rail if any application is proposed to be made by the undertaker for the Secretary of State’s consent, under article 10 (consent to transfer benefit of Order) of this Order and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
 
 - (a) the nature of the application to be made;
 - (b) the extent of the geographical area to which the application relates; and
 - (c) the name and address of the person acting for the Secretary of State to whom the application is to be made.
 
-**84.**[^key-90b525545b868118fe4864e73c2dbd1f] The undertaker must no later than 28 days from the date that the plans submitted to and certified by the Secretary of State in accordance with article 49 (certification of documents, etc.) are certified by the Secretary of State, provide a set of those plans to Network Rail in a format specified by Network Rail.
+**84.**[^c-90b525545b868118fe4864e73c2dbd1f] The undertaker must no later than 28 days from the date that the plans submitted to and certified by the Secretary of State in accordance with article 49 (certification of documents, etc.) are certified by the Secretary of State, provide a set of those plans to Network Rail in a format specified by Network Rail.
 
-**85.**[^key-6bbf86c0c2e7c0de641aa0150a8b4e72] In relation to any dispute arising under [^key-2126334470e3ca0c380c40b4f0576ed5]... this Part of this Schedule (except for those disputes referred to in paragraph 74(10)) the provisions of article 51 (arbitration) shall not apply and any such dispute, unless otherwise provided for, must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) to the President of the Institution of Civil Engineers.
+**85.**[^c-6bbf86c0c2e7c0de641aa0150a8b4e72] In relation to any dispute arising under [^c-2126334470e3ca0c380c40b4f0576ed5]... this Part of this Schedule (except for those disputes referred to in paragraph 74(10)) the provisions of article 51 (arbitration) shall not apply and any such dispute, unless otherwise provided for, must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) to the President of the Institution of Civil Engineers.
 
 ## Annotations
 
-[^key-c71d5350d00d66c3a4aa4c871c9b36f6]: Commencement: Sch. 9 para. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-c71d5350d00d66c3a4aa4c871c9b36f6]: Commencement: Sch. 9 para. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-0a5feea3bb1e998fc7d146f6e3003f0a]: Commencement: Sch. 9 para. 2 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-0a5feea3bb1e998fc7d146f6e3003f0a]: Commencement: Sch. 9 para. 2 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00107]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). The definition of “**electricity plant**” (in section 64) was amended by section 108 of, and paragraphs 24 and 38(1) and (3) of Schedule 6 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
@@ -939,214 +939,214 @@ and the undertaker must indemnify and keep indemnified Network Rail from and aga
 
 [^f00112]: Footnote: There are amendments to section 219 which are not relevant to this Order.
 
-[^key-30b610a953e1cbc1dadb105afc28c990]: Commencement: Sch. 9 para. 3 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-30b610a953e1cbc1dadb105afc28c990]: Commencement: Sch. 9 para. 3 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-82e15760e94de4e1c8c81a9d946e28a2]: Commencement: Sch. 9 para. 4 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-82e15760e94de4e1c8c81a9d946e28a2]: Commencement: Sch. 9 para. 4 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-1d2007c7763af1d698004ff6dc0ca73d]: Textual amendment: Words in [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/4/2) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-1d2007c7763af1d698004ff6dc0ca73d]: Textual amendment: Words in [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/4/2) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-b57cf132c8b128d5038bf243876e364e]: Commencement: Sch. 9 para. 5 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-b57cf132c8b128d5038bf243876e364e]: Commencement: Sch. 9 para. 5 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-bc67f167a784cf6bd08b55734811184c]: Commencement: Sch. 9 para. 6 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-bc67f167a784cf6bd08b55734811184c]: Commencement: Sch. 9 para. 6 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-c572cd8edb5cf4e39479f7ce764cc5d5]: Commencement: Sch. 9 para. 7 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-c572cd8edb5cf4e39479f7ce764cc5d5]: Commencement: Sch. 9 para. 7 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-0137a4cba8955404a56285f859b57c8e]: Commencement: Sch. 9 para. 8 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-0137a4cba8955404a56285f859b57c8e]: Commencement: Sch. 9 para. 8 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-405a729eccac58e6c7c4d506b33f2034]: Commencement: Sch. 9 para. 9 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-405a729eccac58e6c7c4d506b33f2034]: Commencement: Sch. 9 para. 9 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-3c201a3fcff1689a1c3d26ffc3460e88]: Commencement: Sch. 9 para. 10 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-3c201a3fcff1689a1c3d26ffc3460e88]: Commencement: Sch. 9 para. 10 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-9c5c8568923eb24537354e34bf3cc9e3]: Commencement: Sch. 9 para. 11 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-9c5c8568923eb24537354e34bf3cc9e3]: Commencement: Sch. 9 para. 11 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-72a7cd1f4edc9e304fa7a0d9440a9ea4]: Commencement: Sch. 9 para. 12 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-72a7cd1f4edc9e304fa7a0d9440a9ea4]: Commencement: Sch. 9 para. 12 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-1df588b30f28f574e7b3e3ab954f9d0b]: Commencement: Sch. 9 para. 13 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-1df588b30f28f574e7b3e3ab954f9d0b]: Commencement: Sch. 9 para. 13 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-8dce7a3b27dd09313cad98250fd35939]: Commencement: Sch. 9 para. 14 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-8dce7a3b27dd09313cad98250fd35939]: Commencement: Sch. 9 para. 14 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00113]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00114]: Footnote: See section 106 of the 2003 Act, which was amended by section 4(3) to (9) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30). See also Schedule 3A to the 2003 Act, which was inserted by section 4 of, and Schedule 1 to, the Digital Economy Act.
 
-[^key-8778a9e93867cbe47bfe4b791e8c2749]: Commencement: Sch. 9 para. 15 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-8778a9e93867cbe47bfe4b791e8c2749]: Commencement: Sch. 9 para. 15 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-5ae03f4b725160332ce9cc416948f032]: Commencement: Sch. 9 para. 16 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-5ae03f4b725160332ce9cc416948f032]: Commencement: Sch. 9 para. 16 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-0717e88dc1e8532fb91b5f7e779baef1]: Commencement: Sch. 9 para. 17 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-0717e88dc1e8532fb91b5f7e779baef1]: Commencement: Sch. 9 para. 17 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-3414f1b84e9db52a4e5c19b66a6bf2b2]: Commencement: Sch. 9 para. 18 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-3414f1b84e9db52a4e5c19b66a6bf2b2]: Commencement: Sch. 9 para. 18 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-ce1581e8b3022d241a8aae64b8a0bcf2]: Textual amendment: Words in [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/18) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-ce1581e8b3022d241a8aae64b8a0bcf2]: Textual amendment: Words in [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/18) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-8cf276e8d028d4c4b8290588eac6c48d]: Commencement: Sch. 9 para. 19 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-8cf276e8d028d4c4b8290588eac6c48d]: Commencement: Sch. 9 para. 19 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-9afe1424501bb1e69feed7951664c82d]: Commencement: Sch. 9 para. 20 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-9afe1424501bb1e69feed7951664c82d]: Commencement: Sch. 9 para. 20 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-546840463c3859a50553f9f8332b2a8c]: Commencement: Sch. 9 para. 21 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-546840463c3859a50553f9f8332b2a8c]: Commencement: Sch. 9 para. 21 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-28e16224709380950de1ec98d97e9c62]: Commencement: Sch. 9 para. 22 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-28e16224709380950de1ec98d97e9c62]: Commencement: Sch. 9 para. 22 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-b049f07ab3e6eff3e3bb76d6e521f4d4]: Commencement: Sch. 9 para. 23 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-b049f07ab3e6eff3e3bb76d6e521f4d4]: Commencement: Sch. 9 para. 23 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-5329fb9d21f245fba2c65dc64c5ec33d]: Commencement: Sch. 9 para. 24 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-5329fb9d21f245fba2c65dc64c5ec33d]: Commencement: Sch. 9 para. 24 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-748e714bb37d1c29503f7ad3a022865e]: Commencement: Sch. 9 para. 25 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-748e714bb37d1c29503f7ad3a022865e]: Commencement: Sch. 9 para. 25 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-970701ac28eba4737a59bc040d478903]: Commencement: Sch. 9 para. 26 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-970701ac28eba4737a59bc040d478903]: Commencement: Sch. 9 para. 26 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-72283c4d0657b6c5ee11737fe1e45ce8]: Commencement: Sch. 9 para. 27 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-72283c4d0657b6c5ee11737fe1e45ce8]: Commencement: Sch. 9 para. 27 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-df54bee040a6f25ea58887a79d6a9ed2]: Commencement: Sch. 9 para. 28 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-df54bee040a6f25ea58887a79d6a9ed2]: Commencement: Sch. 9 para. 28 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-3f67ea00f943a08d34af90c16733b9b3]: Commencement: Sch. 9 para. 29 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-3f67ea00f943a08d34af90c16733b9b3]: Commencement: Sch. 9 para. 29 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-ce38d16f5f15f6f1a992cb60975d272a]: Commencement: Sch. 9 para. 30 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-ce38d16f5f15f6f1a992cb60975d272a]: Commencement: Sch. 9 para. 30 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-4e12fce73c5c927957b4a4f19767f8a4]: Commencement: Sch. 9 para. 31 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-4e12fce73c5c927957b4a4f19767f8a4]: Commencement: Sch. 9 para. 31 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-63ff30bdd83d538a7219469b6abc3bd7]: Commencement: Sch. 9 para. 32 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-63ff30bdd83d538a7219469b6abc3bd7]: Commencement: Sch. 9 para. 32 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-0ea157cf238bc6f0fb6c2cb6d34943c2]: Commencement: Sch. 9 para. 33 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-0ea157cf238bc6f0fb6c2cb6d34943c2]: Commencement: Sch. 9 para. 33 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-d46cdcb8c518b8420b348f5dec3f1f37]: Commencement: Sch. 9 para. 34 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d46cdcb8c518b8420b348f5dec3f1f37]: Commencement: Sch. 9 para. 34 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-eccf3f410371e8140197270c89df73c6]: Commencement: Sch. 9 para. 35 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-eccf3f410371e8140197270c89df73c6]: Commencement: Sch. 9 para. 35 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-a11888f399bfcae5a7324b0de6dec461]: Commencement: Sch. 9 para. 36 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-a11888f399bfcae5a7324b0de6dec461]: Commencement: Sch. 9 para. 36 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-f38a201cbf0433b2dc2c4f6e5e3ed890]: Textual amendment: Words in [Sch. 9 para. 36(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/36/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-f38a201cbf0433b2dc2c4f6e5e3ed890]: Textual amendment: Words in [Sch. 9 para. 36(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/36/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-2f1ccaad6d51adf4c37ec8b148d1d854]: Commencement: Sch. 9 para. 37 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-2f1ccaad6d51adf4c37ec8b148d1d854]: Commencement: Sch. 9 para. 37 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-f328680191579c1f618016f0d24599d1]: Commencement: Sch. 9 para. 38 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-f328680191579c1f618016f0d24599d1]: Commencement: Sch. 9 para. 38 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-901e45ee75514da883a8d5ec4e0a7bc1]: Commencement: Sch. 9 para. 39 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-901e45ee75514da883a8d5ec4e0a7bc1]: Commencement: Sch. 9 para. 39 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-e76dbcc5cbda92a797fe2930982cc413]: Commencement: Sch. 9 para. 40 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-e76dbcc5cbda92a797fe2930982cc413]: Commencement: Sch. 9 para. 40 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-dfa21ae1d8c8d389d6a1b7482359d1d2]: Commencement: Sch. 9 para. 41 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-dfa21ae1d8c8d389d6a1b7482359d1d2]: Commencement: Sch. 9 para. 41 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-705807e98b1cdf8b61e66802254ab8aa]: Commencement: Sch. 9 para. 42 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-705807e98b1cdf8b61e66802254ab8aa]: Commencement: Sch. 9 para. 42 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-f14445f8f105be5386e2ad055ef195aa]: Commencement: Sch. 9 para. 43 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-f14445f8f105be5386e2ad055ef195aa]: Commencement: Sch. 9 para. 43 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-7b8e7bf3672af4b1c8aa6d20a5447df0]: Commencement: Sch. 9 para. 44 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-7b8e7bf3672af4b1c8aa6d20a5447df0]: Commencement: Sch. 9 para. 44 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-003b5383c6b298575384cea9e1b46922]: Commencement: Sch. 9 para. 45 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-003b5383c6b298575384cea9e1b46922]: Commencement: Sch. 9 para. 45 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-cb2343c2021f83b7b3527a73a32b1aff]: Commencement: Sch. 9 para. 46 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-cb2343c2021f83b7b3527a73a32b1aff]: Commencement: Sch. 9 para. 46 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-4100ab54ac16723fc6f8bf9a8460b10f]: Commencement: Sch. 9 para. 47 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-4100ab54ac16723fc6f8bf9a8460b10f]: Commencement: Sch. 9 para. 47 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-71889914bbd11e778395db7511dfaedd]: Commencement: Sch. 9 para. 48 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-71889914bbd11e778395db7511dfaedd]: Commencement: Sch. 9 para. 48 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-71cd672594c42a9963713a8a022bf967]: Commencement: Sch. 9 para. 49 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-71cd672594c42a9963713a8a022bf967]: Commencement: Sch. 9 para. 49 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00115]: Footnote: A new section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by sections 3(2) and 76 of, and paragraphs 1 and 4 of Schedule 6, and Schedule 8 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27); sections 149(1) and (5) and 197(9) of, and part 1 of Schedule 23 to, the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20); and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
-[^key-1100ea614d2f5792c17e052abe4cbd0d]: Textual amendment: Words in [Sch. 9 para. 49](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/49) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-1100ea614d2f5792c17e052abe4cbd0d]: Textual amendment: Words in [Sch. 9 para. 49](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/49) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-6dae10dc3c651e1fe36e3f421120e4dc]: Commencement: Sch. 9 para. 50 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-6dae10dc3c651e1fe36e3f421120e4dc]: Commencement: Sch. 9 para. 50 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-c3a08dfcb0da73b5770d487d6f81ecd1]: Commencement: Sch. 9 para. 51 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-c3a08dfcb0da73b5770d487d6f81ecd1]: Commencement: Sch. 9 para. 51 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-a27c774bcaa7c3daabd578d4f4cb75de]: Textual amendment: Words in [Sch. 9 para. 51(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/51/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-a27c774bcaa7c3daabd578d4f4cb75de]: Textual amendment: Words in [Sch. 9 para. 51(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/51/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-737cd432f271eb4bedd6aa5f05488049]: Commencement: Sch. 9 para. 52 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-737cd432f271eb4bedd6aa5f05488049]: Commencement: Sch. 9 para. 52 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-c8f5e6a074e4974e6af32ff423b0a68c]: Commencement: Sch. 9 para. 53 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-c8f5e6a074e4974e6af32ff423b0a68c]: Commencement: Sch. 9 para. 53 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-e9048dd79222865654fe96fd3048e2a9]: Commencement: Sch. 9 para. 54 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-e9048dd79222865654fe96fd3048e2a9]: Commencement: Sch. 9 para. 54 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-69f1ec66b932e05773addb57a018f087]: Textual amendment: Words in [Sch. 9 para. 54(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/54/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-69f1ec66b932e05773addb57a018f087]: Textual amendment: Words in [Sch. 9 para. 54(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/54/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-71988f0d397c5378052fc2c2eaa18a43]: Commencement: Sch. 9 para. 55 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-71988f0d397c5378052fc2c2eaa18a43]: Commencement: Sch. 9 para. 55 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-53420173e400f15e8df31fd642b2aa15]: Textual amendment: Words in [Sch. 9 para. 55(2)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/55/2) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-53420173e400f15e8df31fd642b2aa15]: Textual amendment: Words in [Sch. 9 para. 55(2)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/55/2) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-d969dbc5bedb510e0d920c81dbf142b2]: Commencement: Sch. 9 para. 56 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d969dbc5bedb510e0d920c81dbf142b2]: Commencement: Sch. 9 para. 56 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-d7f01998311a03766ea468e3dbae5e33]: Textual amendment: Words in [Sch. 9 para. 56(10)(b)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/56/10/b) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-d7f01998311a03766ea468e3dbae5e33]: Textual amendment: Words in [Sch. 9 para. 56(10)(b)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/56/10/b) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-d2f7e757fc562fe901ff0b3b0595937f]: Commencement: Sch. 9 para. 57 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d2f7e757fc562fe901ff0b3b0595937f]: Commencement: Sch. 9 para. 57 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-1b5b5c5c5d1cc1984b80dcf9536d6474]: Textual amendment: Words in [Sch. 9 para. 57(1)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/57/1/a/i) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-1b5b5c5c5d1cc1984b80dcf9536d6474]: Textual amendment: Words in [Sch. 9 para. 57(1)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/57/1/a/i) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-42a845f71f1f3223299dc50717446fd7]: Commencement: Sch. 9 para. 58 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-42a845f71f1f3223299dc50717446fd7]: Commencement: Sch. 9 para. 58 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-d77128819fa709afe1a7eef5dda8f2e5]: Commencement: Sch. 9 para. 59 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d77128819fa709afe1a7eef5dda8f2e5]: Commencement: Sch. 9 para. 59 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-8bf5b716eb0030a3aab4efa5c41609ff]: Commencement: Sch. 9 para. 60 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-8bf5b716eb0030a3aab4efa5c41609ff]: Commencement: Sch. 9 para. 60 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-5c0c9d0551b7e1797739b61c7003afcb]: Textual amendment: Words in [Sch. 9 para. 60(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/60/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-5c0c9d0551b7e1797739b61c7003afcb]: Textual amendment: Words in [Sch. 9 para. 60(1)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/60/1) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-9c0c686ef20d463495250ef877e09b80]: Commencement: Sch. 9 para. 61 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-9c0c686ef20d463495250ef877e09b80]: Commencement: Sch. 9 para. 61 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-42846960e349038643bc72f6667bd6f0]: Commencement: Sch. 9 para. 62 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-42846960e349038643bc72f6667bd6f0]: Commencement: Sch. 9 para. 62 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-2bb21005f07c442a969b2a643e83c364]: Textual amendment: Words in [Sch. 9 para. 62](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/62) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-2bb21005f07c442a969b2a643e83c364]: Textual amendment: Words in [Sch. 9 para. 62](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/62) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-1817d556833d217b6c651b5550e3d273]: Commencement: Sch. 9 para. 63 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-1817d556833d217b6c651b5550e3d273]: Commencement: Sch. 9 para. 63 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-712263218d9b623a65bebc97bfd8faff]: Textual amendment: Words in [Sch. 9 para. 63](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/63) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-712263218d9b623a65bebc97bfd8faff]: Textual amendment: Words in [Sch. 9 para. 63](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/63) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-1b6ed04b033c00ceb257a58966e653ca]: Commencement: Sch. 9 para. 64 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-1b6ed04b033c00ceb257a58966e653ca]: Commencement: Sch. 9 para. 64 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-aa105c6dd41cb2c16ea58d2a66b512d0]: Commencement: Sch. 9 para. 65 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-aa105c6dd41cb2c16ea58d2a66b512d0]: Commencement: Sch. 9 para. 65 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00116]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43). Section 8 was amended by section 216 of, and Part 1 of Schedule 2, paragraph 4 of Schedule 7 and Part 4 of Schedule 31 to, the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38); by section 16(5) of, and paragraph 5 of Schedule 2 to, the Railways and Transport Safety Act [2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20); sections 1 and 60 of, and paragraph 3 of Schedule 1 and Part 1 of Schedule 13 to, the Railways Act [2005 (c. 38)](https://www.legislation.gov.uk/ukpga/2005/38); and [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682).
 
 [^f00117]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-f9874f3105e70a6dca31014ac2b9bd1f]: Textual amendment: Words in [Sch. 9 para. 65](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/65) omitted (31.7.2023) by virtue of [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-f9874f3105e70a6dca31014ac2b9bd1f]: Textual amendment: Words in [Sch. 9 para. 65](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/65) omitted (31.7.2023) by virtue of [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-4ef83bb47c756d466833091d86df692d]: Commencement: Sch. 9 para. 66 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-4ef83bb47c756d466833091d86df692d]: Commencement: Sch. 9 para. 66 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-449442a2e9b40171680620a0603a9f81]: Commencement: Sch. 9 para. 67 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-449442a2e9b40171680620a0603a9f81]: Commencement: Sch. 9 para. 67 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-c78569c87de3f3258f07afd3f09363b0]: Textual amendment: Words in [Sch. 9 para. 67(1)(b)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/67/1/b) omitted (31.7.2023) by virtue of [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-c78569c87de3f3258f07afd3f09363b0]: Textual amendment: Words in [Sch. 9 para. 67(1)(b)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/67/1/b) omitted (31.7.2023) by virtue of [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
 [^f00118]: Footnote: Section 11(3) was amended by section 179 of, and paragraph 6 of Schedule 14 to, the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^f00119]: Footnote: Section 272 was amended by section 406(1) to, and paragraph 103 of Schedule 17 to, the Communications Act 2003.
 
-[^key-8243d080492372df97a1b104b5e0dafa]: Commencement: Sch. 9 para. 68 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-8243d080492372df97a1b104b5e0dafa]: Commencement: Sch. 9 para. 68 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-8eff5bdf508f411a49214d66956fdb33]: Commencement: Sch. 9 para. 69 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-8eff5bdf508f411a49214d66956fdb33]: Commencement: Sch. 9 para. 69 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-d9869581c1c6e01103d84db1cf56f745]: Commencement: Sch. 9 para. 70 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d9869581c1c6e01103d84db1cf56f745]: Commencement: Sch. 9 para. 70 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-e477a023b4b59570009f494ce2b1bc35]: Commencement: Sch. 9 para. 71 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-e477a023b4b59570009f494ce2b1bc35]: Commencement: Sch. 9 para. 71 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-1469b22db89562fbd93a1b89f4dbfb87]: Commencement: Sch. 9 para. 72 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-1469b22db89562fbd93a1b89f4dbfb87]: Commencement: Sch. 9 para. 72 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-ecf65dd854e97150c3533fb5a4c3391c]: Commencement: Sch. 9 para. 73 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-ecf65dd854e97150c3533fb5a4c3391c]: Commencement: Sch. 9 para. 73 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-83663ca3b10c562491d1cfca388a263d]: Commencement: Sch. 9 para. 74 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-83663ca3b10c562491d1cfca388a263d]: Commencement: Sch. 9 para. 74 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-e318dad9e1278de41c5dff797e56866e]: Textual amendment: Words in [Sch. 9 para. 74(10)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/74/10) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-e318dad9e1278de41c5dff797e56866e]: Textual amendment: Words in [Sch. 9 para. 74(10)](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/74/10) substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
 
-[^key-f5b31e2ca70240015349e7959723ba2a]: Commencement: Sch. 9 para. 75 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-f5b31e2ca70240015349e7959723ba2a]: Commencement: Sch. 9 para. 75 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-da51638113d2fd4fa53344a645b905b8]: Commencement: Sch. 9 para. 76 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-da51638113d2fd4fa53344a645b905b8]: Commencement: Sch. 9 para. 76 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-484d8333a7c9cc0a441e7c3887845220]: Commencement: Sch. 9 para. 77 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-484d8333a7c9cc0a441e7c3887845220]: Commencement: Sch. 9 para. 77 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-503ebe09f42b4c04f254ebd492fc4fe7]: Commencement: Sch. 9 para. 78 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-503ebe09f42b4c04f254ebd492fc4fe7]: Commencement: Sch. 9 para. 78 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-ac9d2071669d9bbb29c80bc04539ed57]: Commencement: Sch. 9 para. 79 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-ac9d2071669d9bbb29c80bc04539ed57]: Commencement: Sch. 9 para. 79 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-0d3db39a14c8068fccf00cec5348c606]: Commencement: Sch. 9 para. 80 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-0d3db39a14c8068fccf00cec5348c606]: Commencement: Sch. 9 para. 80 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-d9a673fffcced7c2ecfef2d128edba41]: Commencement: Sch. 9 para. 81 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d9a673fffcced7c2ecfef2d128edba41]: Commencement: Sch. 9 para. 81 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-3530e9dfc260f622b7db90546a34710e]: Commencement: Sch. 9 para. 82 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-3530e9dfc260f622b7db90546a34710e]: Commencement: Sch. 9 para. 82 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-de987b9f7e4ba8192b4cb60094ed7263]: Commencement: Sch. 9 para. 83 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-de987b9f7e4ba8192b4cb60094ed7263]: Commencement: Sch. 9 para. 83 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-90b525545b868118fe4864e73c2dbd1f]: Commencement: Sch. 9 para. 84 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-90b525545b868118fe4864e73c2dbd1f]: Commencement: Sch. 9 para. 84 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-6bbf86c0c2e7c0de641aa0150a8b4e72]: Commencement: Sch. 9 para. 85 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-6bbf86c0c2e7c0de641aa0150a8b4e72]: Commencement: Sch. 9 para. 85 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-2126334470e3ca0c380c40b4f0576ed5]: Textual amendment: Words in [Sch. 9 para. 85](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/85) omitted (31.7.2023) by virtue of [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-2126334470e3ca0c380c40b4f0576ed5]: Textual amendment: Words in [Sch. 9 para. 85](https://www.legislation.gov.uk/uksi/2022/1070/schedule/9/paragraph/85) omitted (31.7.2023) by virtue of [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)

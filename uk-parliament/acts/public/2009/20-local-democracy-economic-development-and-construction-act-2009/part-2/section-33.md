@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Powers of National Assembly for Wales[^key-5d5966feef2621867fd86dc46ed3c347]
+## 33. Powers of National Assembly for Wales[^c-5d5966feef2621867fd86dc46ed3c347]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d5966feef2621867fd86dc46ed3c347]: Commencement: S. 33 in force at 12.1.2010, see s. 148(2)(a)(ii)
+[^c-5d5966feef2621867fd86dc46ed3c347]: Commencement: S. 33 in force at 12.1.2010, see s. 148(2)(a)(ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. “Subsidy”[^key-1663acccc8905585f7611abb46e3d1fc]
+## 2. “Subsidy”[^c-1663acccc8905585f7611abb46e3d1fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1663acccc8905585f7611abb46e3d1fc]: Commencement: S. 2 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-1663acccc8905585f7611abb46e3d1fc]: Commencement: S. 2 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

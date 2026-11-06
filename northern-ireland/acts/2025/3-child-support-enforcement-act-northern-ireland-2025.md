@@ -35,7 +35,7 @@ An Act to make provision as to the enforcement of payments of particular amounts
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. Rules relating to liability orders[^key-5b4eb88814825b34814006332d0d9ba2][^key-31cee8515e8eaeff035ba1788803d004]
+## 1. Rules relating to liability orders[^c-5b4eb88814825b34814006332d0d9ba2][^c-31cee8515e8eaeff035ba1788803d004]
 
 **Not yet in force.**
 
@@ -49,7 +49,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “the 1991 Order” is the Child Support (Northern Ireland) Order 1991,
 - “the 2008 Act” is the Child Maintenance Act (Northern Ireland) 2008.
 
-## 2. Commencement and short title[^key-0288816bf91a0a64e7382577000f7492]
+## 2. Commencement and short title[^c-0288816bf91a0a64e7382577000f7492]
 
 (1) As follows—
 
@@ -66,7 +66,7 @@ Section 1(1).
 
 ### Making and varying liability orders
 
-**1.**[^key-1a4e6df28a748d0290e9cd92690b06e5] In Article 32M of the 1991 Order (liability orders) (as inserted by section 17 of the 2008 Act), for paragraph (1) substitute—
+**1.**[^c-1a4e6df28a748d0290e9cd92690b06e5] In Article 32M of the 1991 Order (liability orders) (as inserted by section 17 of the 2008 Act), for paragraph (1) substitute—
 
 > (1) Where it appears to the Department that—
 >
@@ -79,7 +79,7 @@ Section 1(1).
 
 .
 
-**2.**[^key-68bb88f8a61a21a363899dad4fc208f3] In Article 32N of the 1991 Order (regulations about liability orders) (as so inserted), after sub-paragraph (b) of paragraph (2) insert—
+**2.**[^c-68bb88f8a61a21a363899dad4fc208f3] In Article 32N of the 1991 Order (regulations about liability orders) (as so inserted), after sub-paragraph (b) of paragraph (2) insert—
 
 > - (ba) make provision for the variation of a liability order;
 
@@ -87,7 +87,7 @@ Section 1(1).
 
 ### Appealing against liability orders
 
-**3.**[^key-bf47598c3eb84aa40ff6c6b9da22d8c0] (1) In Article 32M of the 1991 Order (as inserted by section 17 of the 2008 Act), in paragraph (3)(a) and (b), for “Article 22” substitute “regulations made under Article 32N(3)”.
+**3.**[^c-bf47598c3eb84aa40ff6c6b9da22d8c0] (1) In Article 32M of the 1991 Order (as inserted by section 17 of the 2008 Act), in paragraph (3)(a) and (b), for “Article 22” substitute “regulations made under Article 32N(3)”.
 
 (2) In Article 32N of the 1991 Order (as so inserted), after paragraph (2) insert—
 
@@ -104,9 +104,9 @@ Section 1(1).
 
 (3) In Article 48 of the 1991 Order (regulations and orders), in paragraph (2A)(b), after “Article” insert “32N(3),”.
 
-**4.**[^key-d33e75105502a19b5b9b1329b70d6d32] In section 40 of the 2008 Act (transition), in subsection (3), after “32M,” insert “32N,”.
+**4.**[^c-d33e75105502a19b5b9b1329b70d6d32] In section 40 of the 2008 Act (transition), in subsection (3), after “32M,” insert “32N,”.
 
-**5.**[^key-11d109f7db1a1a43fde844dec6772c52] (1) In section 40 of the 2008 Act—
+**5.**[^c-11d109f7db1a1a43fde844dec6772c52] (1) In section 40 of the 2008 Act—
 
 - (a) in subsection (2), “22(5A),” is repealed,
 - (b) in subsection (3), “22(7A),” is repealed.
@@ -115,18 +115,18 @@ Section 1(1).
 
 ## Annotations
 
-[^key-5b4eb88814825b34814006332d0d9ba2]: Commencement: S. 1(1) not in operation at Royal Assent, see [s. 2(1)(b)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/b)
+[^c-5b4eb88814825b34814006332d0d9ba2]: Commencement: S. 1(1) not in operation at Royal Assent, see [s. 2(1)(b)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/b)
 
-[^key-31cee8515e8eaeff035ba1788803d004]: Commencement: S. 1(2) in operation at 24.6.2025, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-31cee8515e8eaeff035ba1788803d004]: Commencement: S. 1(2) in operation at 24.6.2025, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
 
-[^key-0288816bf91a0a64e7382577000f7492]: Commencement: S. 2 in operation at 24.6.2025, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-0288816bf91a0a64e7382577000f7492]: Commencement: S. 2 in operation at 24.6.2025, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
 
-[^key-1a4e6df28a748d0290e9cd92690b06e5]: Commencement: Sch. para. 1 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-1a4e6df28a748d0290e9cd92690b06e5]: Commencement: Sch. para. 1 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
 
-[^key-68bb88f8a61a21a363899dad4fc208f3]: Commencement: Sch. para. 2 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-68bb88f8a61a21a363899dad4fc208f3]: Commencement: Sch. para. 2 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
 
-[^key-bf47598c3eb84aa40ff6c6b9da22d8c0]: Commencement: Sch. para. 3 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-bf47598c3eb84aa40ff6c6b9da22d8c0]: Commencement: Sch. para. 3 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
 
-[^key-d33e75105502a19b5b9b1329b70d6d32]: Commencement: Sch. para. 4 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-d33e75105502a19b5b9b1329b70d6d32]: Commencement: Sch. para. 4 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
 
-[^key-11d109f7db1a1a43fde844dec6772c52]: Commencement: Sch. para. 5 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)
+[^c-11d109f7db1a1a43fde844dec6772c52]: Commencement: Sch. para. 5 not in operation at Royal Assent, see [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/3/section/2/1/a)

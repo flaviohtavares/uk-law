@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Optional lamps, reflectors, rear markings and devices[^key-6629c14036889c96b7c3ce61654ccc57]
+## 23. Optional lamps, reflectors, rear markings and devices[^c-6629c14036889c96b7c3ce61654ccc57]
 
 *Extent: N.I.*
 
-Subject to regulation 23A(8), every optional lamp[^key-395ad747e7580eebf6c0bd8f93478133], reflector, rear marking or device fitted to a vehicle, being of a type specified in an item in column 2 of the Table, shall comply with the provisions shown in column 3.
+Subject to regulation 23A(8), every optional lamp[^c-395ad747e7580eebf6c0bd8f93478133], reflector, rear marking or device fitted to a vehicle, being of a type specified in an item in column 2 of the Table, shall comply with the provisions shown in column 3.
 
 TABLE
 
@@ -53,14 +53,14 @@ TABLE
 </tbody>
 </table>
 
-[^key-6fc81d084235c36aa936797e4c698c64][^key-02498dba595d7230a9e0f5a36a10ae03]
+[^c-6fc81d084235c36aa936797e4c698c64][^c-02498dba595d7230a9e0f5a36a10ae03]
 
 ## Annotations
 
-[^key-6629c14036889c96b7c3ce61654ccc57]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-6629c14036889c96b7c3ce61654ccc57]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-395ad747e7580eebf6c0bd8f93478133]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2011/329/regulation/7)
+[^c-395ad747e7580eebf6c0bd8f93478133]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2011/329/regulation/7)
 
-[^key-6fc81d084235c36aa936797e4c698c64]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/88)](https://www.legislation.gov.uk/nisr/2018/88), [regs. 1](https://www.legislation.gov.uk/nisr/2018/88/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2018/88/regulation/2/4/a)
+[^c-6fc81d084235c36aa936797e4c698c64]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) inserted (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/88)](https://www.legislation.gov.uk/nisr/2018/88), [regs. 1](https://www.legislation.gov.uk/nisr/2018/88/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2018/88/regulation/2/4/a)
 
-[^key-02498dba595d7230a9e0f5a36a10ae03]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) added (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/88)](https://www.legislation.gov.uk/nisr/2018/88), [regs. 1](https://www.legislation.gov.uk/nisr/2018/88/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2018/88/regulation/2/4/b)
+[^c-02498dba595d7230a9e0f5a36a10ae03]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/nisr/2000/169/regulation/23) added (20.5.2018) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/88)](https://www.legislation.gov.uk/nisr/2018/88), [regs. 1](https://www.legislation.gov.uk/nisr/2018/88/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2018/88/regulation/2/4/b)

@@ -69,7 +69,7 @@ Section 103.
 
 **9.** In section 535(1)(a) of the Housing Act 1985 (exclusion of assistance under Part XV of that Act where grant application pending or approved), for the words from “an improvement grant" to “Part XV" substitute “ renovation grant or common parts grant under Chapter I of Part I of the Housing Grants, Construction and Regeneration Act 1996 (grants for renewal of private sector housing). ”.
 
-**10.**[^key-ac9215e83210cc6dc58f88d27a08a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ac9215e83210cc6dc58f88d27a08a8df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Landlord and Tenant Act 1985 (c.70)
 
@@ -105,6 +105,6 @@ Section 103.
 
 [^c11254891]: Extent: Act's amending/repealing provisions are co-extensive with the enactments they affect see [s. 148(4)](https://www.legislation.gov.uk/ukpga/1996/53/section/148/4)
 
-[^key-ac9215e83210cc6dc58f88d27a08a8df]: Textual amendment: Sch. 1 para. 10 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-ac9215e83210cc6dc58f88d27a08a8df]: Textual amendment: Sch. 1 para. 10 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
 [^c17641531]: Textual amendment: [Sch. 1 para. 15(3)(4)](https://www.legislation.gov.uk/ukpga/1996/53/schedule/1/paragraph/15/3/4) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6)

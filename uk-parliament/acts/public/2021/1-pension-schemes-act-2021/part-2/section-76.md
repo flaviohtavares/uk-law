@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Transfer rights[^c24480851][^key-c6d5261c9a0e6a6d373445a134d3998e]
+## 76. Transfer rights[^c24480851][^c-c6d5261c9a0e6a6d373445a134d3998e]
 
 *Extent: N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^c24480851]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2021/1/section/76) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-c6d5261c9a0e6a6d373445a134d3998e]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2021/1/section/76) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-c6d5261c9a0e6a6d373445a134d3998e]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2021/1/section/76) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

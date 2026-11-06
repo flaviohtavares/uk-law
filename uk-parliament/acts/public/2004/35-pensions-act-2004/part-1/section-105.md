@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Redetermination etc by the Tribunal[^key-e2d849a75c254c2bbe19c2d10ecbbf07]
+## 105. Redetermination etc by the Tribunal[^c-e2d849a75c254c2bbe19c2d10ecbbf07]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2d849a75c254c2bbe19c2d10ecbbf07]: Textual amendment: S. 105 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/82) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-e2d849a75c254c2bbe19c2d10ecbbf07]: Textual amendment: S. 105 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/82) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

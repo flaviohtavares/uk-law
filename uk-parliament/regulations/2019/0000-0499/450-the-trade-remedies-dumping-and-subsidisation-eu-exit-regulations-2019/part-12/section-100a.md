@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Recommendation of variation[^key-dc68a8dc60108bd892ea7da55f232855]
+## 100A. Recommendation of variation[^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The TRA must—
 
-- (a)[^key-17c9e37d55780119cefc7ef389d7004c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-17c9e37d55780119cefc7ef389d7004c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) have had regard to the current and prospective impact of the anti-dumping amount or the countervailing amount;
 - (c) specify the information set out in regulation 96A(2)(c).
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-17c9e37d55780119cefc7ef389d7004c]: Textual amendment: [Reg. 100A(2)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/100A/2/a) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2024/545/regulation/32) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-17c9e37d55780119cefc7ef389d7004c]: Textual amendment: [Reg. 100A(2)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/100A/2/a) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2024/545/regulation/32) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -43,17 +43,17 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(*a*) and (*d*), 123(1)(*e*), 131(1), 132(3) and (4)(*b*), 133(2)(i) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and Articles 2(2), 6(5), 8(2) and (4), 9(4), 14(1) and 4(*b*), 23, and 36(2) of, and paragraph 14 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 2 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2b057b80975b359e0520d020d4fb3cbd]
+## 1. Citation, commencement and interpretation[^c-2b057b80975b359e0520d020d4fb3cbd]
 
 (1) These Regulations may be cited as the Social Security (Students Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 31st July 2000.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-656abc94020e27255792925020ee6891]
+## 2. Amendment of the Housing Benefit Regulations[^c-656abc94020e27255792925020ee6891]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Income Support Regulations[^key-fac9873c11b07c73be1f08663b37a56a]
+## 3. Amendment of the Income Support Regulations[^c-fac9873c11b07c73be1f08663b37a56a]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00012] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -118,7 +118,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (5) In the provisions specified in the Schedule to these Regulations, for “student” there shall be substituted “full-time student”.
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-9365c48a92056440463a482302b9b973]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-9365c48a92056440463a482302b9b973]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00018] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -193,11 +193,11 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — Provisions in the Income Support (General) Regulations (Northern Ireland) 1987 in which references to “student” are to be substituted with references to “full-time student”[^key-fb50d54386d7c3c595a6c7854e0bf33d]
+## SCHEDULE — Provisions in the Income Support (General) Regulations (Northern Ireland) 1987 in which references to “student” are to be substituted with references to “full-time student”[^c-fb50d54386d7c3c595a6c7854e0bf33d]
 
 Regulation 3(5)
 
-[^key-fb50d54386d7c3c595a6c7854e0bf33d]
+[^c-fb50d54386d7c3c595a6c7854e0bf33d]
 
 - Regulation 4ZA(2) and (3)[^f00020] (prescribed categories of person)
 - Regulation 26 (calculation of income and capital of students)
@@ -247,13 +247,13 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-2b057b80975b359e0520d020d4fb3cbd]: Commencement: Reg. 1 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+[^c-2b057b80975b359e0520d020d4fb3cbd]: Commencement: Reg. 1 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-656abc94020e27255792925020ee6891]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/241/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-656abc94020e27255792925020ee6891]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/241/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-fac9873c11b07c73be1f08663b37a56a]: Commencement: Reg. 3 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+[^c-fac9873c11b07c73be1f08663b37a56a]: Commencement: Reg. 3 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459): relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1991 Nos. 46](https://www.legislation.gov.uk/nisr/1991/46), [204](https://www.legislation.gov.uk/nisr/1991/204) and [338](https://www.legislation.gov.uk/nisr/1991/338), [S.R. 1992 Nos. 147](https://www.legislation.gov.uk/nisr/1992/147) and [201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [412](https://www.legislation.gov.uk/nisr/1997/412), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81) and [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
@@ -267,13 +267,13 @@ These Regulations do not impose any charge on business.
 
 [^f00017]: Footnote: The definition of “student” was amended by regulation 6 of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
 
-[^key-9365c48a92056440463a482302b9b973]: Commencement: Reg. 4 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+[^c-9365c48a92056440463a482302b9b973]: Commencement: Reg. 4 in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
 
 [^f00019]: Footnote: The definition of “standard maintenance grant” was amended by regulation 2(14)(*b*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
 
-[^key-fb50d54386d7c3c595a6c7854e0bf33d]: Commencement: Sch. in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
+[^c-fb50d54386d7c3c595a6c7854e0bf33d]: Commencement: Sch. in operation at 31.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/241/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 4ZA was inserted by regulation 4 of [S.R. 1996 No 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph (3) was amended by regulation 5(3) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 

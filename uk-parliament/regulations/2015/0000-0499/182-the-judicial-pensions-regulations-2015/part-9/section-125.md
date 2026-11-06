@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Amount of pensionable earnings[^key-34c9bb77912c53ae0a2b841bec62e063]
+## 125. Amount of pensionable earnings[^c-34c9bb77912c53ae0a2b841bec62e063]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34c9bb77912c53ae0a2b841bec62e063]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2015/182/regulation/125) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-34c9bb77912c53ae0a2b841bec62e063]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2015/182/regulation/125) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

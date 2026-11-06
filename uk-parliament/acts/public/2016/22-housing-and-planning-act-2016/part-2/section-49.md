@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Helping tenants apply for rent repayment orders[^key-a574e25beb09856bfc041d8a5618d9a9]
+## 49. Helping tenants apply for rent repayment orders[^c-a574e25beb09856bfc041d8a5618d9a9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a574e25beb09856bfc041d8a5618d9a9]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/22/section/49) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)
+[^c-a574e25beb09856bfc041d8a5618d9a9]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/22/section/49) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/c)

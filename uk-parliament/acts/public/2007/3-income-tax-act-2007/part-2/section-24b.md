@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24B. Calculation of net income at Step 2 for low income estates and trusts[^key-947d04351ba8147a272834da530356b9]
+## 24B. Calculation of net income at Step 2 for low income estates and trusts[^c-947d04351ba8147a272834da530356b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ where QS is the total number of qualifying settlements.
 
 ## Annotations
 
-[^key-947d04351ba8147a272834da530356b9]: Textual amendment: [S. 24B](https://www.legislation.gov.uk/ukpga/2007/3/section/24B) inserted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/10/3), [14(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/a)
+[^c-947d04351ba8147a272834da530356b9]: Textual amendment: [S. 24B](https://www.legislation.gov.uk/ukpga/2007/3/section/24B) inserted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/10/3), [14(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/a)

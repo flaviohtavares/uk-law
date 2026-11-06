@@ -45,21 +45,21 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 138(1)(a), (2) and (4) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001] and section 9(1)(a) of the Social Security Act 1998[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-effea744ec963cac3a02322c12fb0dae]
+## 1. Citation, commencement and interpretation[^c-effea744ec963cac3a02322c12fb0dae]
 
 (1) These Regulations may be cited as the Social Fund Winter Fuel Payment and Maternity and Funeral Expenses (General) Amendment Regulations 2000 and shall come into force on 17th September 2000.
 
 (2) In these Regulations, “the General Regulations” means the Social Fund Maternity and Funeral Expenses (General) Regulations 1987[^f00004].
 
-## 2. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^key-101c9df8f24ddc579a7124356cc9400b][^key-4de9d5a98b57cdeea27a18926470363f]
+## 2. Amendment of the Social Fund Winter Fuel Payment Regulations 2000[^c-101c9df8f24ddc579a7124356cc9400b][^c-4de9d5a98b57cdeea27a18926470363f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the General Regulations[^key-276660bd4a9f4f0c3645fd644ea0d74a]
+## 3. Amendment of the General Regulations[^c-276660bd4a9f4f0c3645fd644ea0d74a]
 
 In regulation 5(2) of the General Regulations[^f00006] (amount of a Sure Start Maternity Grant), in each place where the amount “£200 ” appears there shall be substituted the amount “£300”.
 
-## 4. Transitional arrangements[^key-9fe3d13125a64de0fde88d694d25eda6]
+## 4. Transitional arrangements[^c-9fe3d13125a64de0fde88d694d25eda6]
 
 (1) Subject to paragraph (2) of this regulation, the General Regulations shall have effect as if regulation 3 of these Regulations had not been made where—
 
@@ -111,18 +111,18 @@ These Regulations do not impose any charge on business.
 
 [^f00003]: Footnote: *See* section 173(1)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-effea744ec963cac3a02322c12fb0dae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+[^c-effea744ec963cac3a02322c12fb0dae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1987/481](https://www.legislation.gov.uk/uksi/1987/481).
 
-[^key-101c9df8f24ddc579a7124356cc9400b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2229/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
+[^c-101c9df8f24ddc579a7124356cc9400b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2229/regulation/2) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2)
 
-[^key-4de9d5a98b57cdeea27a18926470363f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2229/regulation/2) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+[^c-4de9d5a98b57cdeea27a18926470363f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/2229/regulation/2) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
 
-[^key-276660bd4a9f4f0c3645fd644ea0d74a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/2229/regulation/3) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+[^c-276660bd4a9f4f0c3645fd644ea0d74a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/2229/regulation/3) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
 
 [^f00006]: Footnote: The relevant amending instrument is S.I. [2000/528](https://www.legislation.gov.uk/uksi/2000/528).
 
-[^key-9fe3d13125a64de0fde88d694d25eda6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2229/regulation/4) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
+[^c-9fe3d13125a64de0fde88d694d25eda6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/2229/regulation/4) in force at 17.9.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2229/regulation/1/1)
 
 [^f00007]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37).

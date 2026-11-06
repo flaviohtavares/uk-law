@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 178. Omission of unobtainable information[^key-9f894ccec550bc97bd95f221b5a97c5d]
+## 178. Omission of unobtainable information[^c-9f894ccec550bc97bd95f221b5a97c5d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Information required under rule 177 to be included in a notice to be gazetted ma
 
 ## Annotations
 
-[^key-9f894ccec550bc97bd95f221b5a97c5d]: Commencement: Rule 178 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-9f894ccec550bc97bd95f221b5a97c5d]: Commencement: Rule 178 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

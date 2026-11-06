@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Notice requiring statement of affairs[^key-08606afce74c1f60b1e9e72dbfce707a]
+## 27. Notice requiring statement of affairs[^c-08606afce74c1f60b1e9e72dbfce707a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08606afce74c1f60b1e9e72dbfce707a]: Commencement: Rule 27 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-08606afce74c1f60b1e9e72dbfce707a]: Commencement: Rule 27 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 160ZA(8)(b) of the Housing Act 1996[^f00001].
 
-## 1. Citation, commencement, extent and application[^key-36a3acfdd7e5b733938f6ef4b52551cb]
+## 1. Citation, commencement, extent and application[^c-36a3acfdd7e5b733938f6ef4b52551cb]
 
 (1) These Regulations may be cited as the Allocation of Housing (Qualification Criteria for Victims of Domestic Abuse and Care Leavers) (England) Regulations 2025 and come into force on 10th July 2025.
 
 (2) These Regulations extend to England and Wales and apply to local housing authorities[^f00002] in England only.
 
-## 2. Qualifying persons criterion[^key-79e7b082afa26e68fbf705b8986759a1]
+## 2. Qualifying persons criterion[^c-79e7b082afa26e68fbf705b8986759a1]
 
 (1) In deciding what classes of persons are not qualifying persons under section 160ZA(7) of the Housing Act 1996, a local housing authority in England may not use the criterion set out in this regulation.
 
@@ -96,11 +96,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52); section 160ZA was inserted by section 146(1) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-36a3acfdd7e5b733938f6ef4b52551cb]: Commencement: Reg. 1 in force at 10.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/706/regulation/1/1)
+[^c-36a3acfdd7e5b733938f6ef4b52551cb]: Commencement: Reg. 1 in force at 10.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/706/regulation/1/1)
 
 [^f00002]: Footnote: “Local housing authority” is defined in section 230 of the Housing Act 1996.
 
-[^key-79e7b082afa26e68fbf705b8986759a1]: Commencement: Reg. 2 in force at 10.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/706/regulation/1/1)
+[^c-79e7b082afa26e68fbf705b8986759a1]: Commencement: Reg. 2 in force at 10.7.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/706/regulation/1/1)
 
 [^f00003]: Footnote: “**Local connection**” has the meaning given by section 199 of the Housing Act 1996.
 

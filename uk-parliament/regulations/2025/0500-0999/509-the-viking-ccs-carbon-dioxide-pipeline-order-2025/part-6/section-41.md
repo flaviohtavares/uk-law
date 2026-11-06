@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Crown rights[^key-e146616e96c4e08390b4f1cf3749a5d7]
+## 41. Crown rights[^c-e146616e96c4e08390b4f1cf3749a5d7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e146616e96c4e08390b4f1cf3749a5d7]: Commencement: Art. 41 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-e146616e96c4e08390b4f1cf3749a5d7]: Commencement: Art. 41 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

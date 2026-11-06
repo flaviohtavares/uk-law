@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Additional provisions relating to offshore workplaces[^key-f6e534aad168723eec39127deda987af]
+## 9. Additional provisions relating to offshore workplaces[^c-f6e534aad168723eec39127deda987af]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The provisions of Schedule 6 (which contains additional provisions relating to o
 
 ## Annotations
 
-[^key-f6e534aad168723eec39127deda987af]: Commencement: Reg. 9 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-f6e534aad168723eec39127deda987af]: Commencement: Reg. 9 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

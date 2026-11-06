@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Assignment of patients[^key-987c0f5502fb5d59bed63a2751e69000]
+## 54. Assignment of patients[^c-987c0f5502fb5d59bed63a2751e69000]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Where, on 31st March 2004, a person had applied to a Local Health Board for assi
 
 ## Annotations
 
-[^key-987c0f5502fb5d59bed63a2751e69000]: Commencement: Art. 54 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-987c0f5502fb5d59bed63a2751e69000]: Commencement: Art. 54 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

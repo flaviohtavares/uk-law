@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Provisions supplementary to section 49[^key-34c193e24e5934adf90195a00ddcd7f6]
+## 50. Provisions supplementary to section 49[^c-34c193e24e5934adf90195a00ddcd7f6]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ must, as soon as possible after such modification, notify the Scottish Ministers
 
 ## Annotations
 
-[^key-34c193e24e5934adf90195a00ddcd7f6]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/18/section/50) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-34c193e24e5934adf90195a00ddcd7f6]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/18/section/50) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

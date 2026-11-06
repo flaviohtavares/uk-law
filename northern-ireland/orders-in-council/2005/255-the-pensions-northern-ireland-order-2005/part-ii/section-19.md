@@ -54,7 +54,7 @@ But no freezing order may be made in relation to a scheme during an assessment p
 - (f) a direction that—
   - (i) no transfers or no specified transfers of, or no transfer payments or no specified transfer payments in respect of, any member's rights under the scheme rules are to be made from the scheme, or
   - (ii) no other steps or no specified other steps are to be taken to discharge any liability of the scheme to or in respect of a member of the scheme in respect of pensions or other benefits;
-- (g) a direction that no statements of entitlement are to be provided to members of the scheme under section 89A of the Pension Schemes Act (benefits other than money purchase[^key-451fdb9134fb0affdb8cb087ec353a76]: right to statement of entitlement);
+- (g) a direction that no statements of entitlement are to be provided to members of the scheme under section 89A of the Pension Schemes Act (benefits other than money purchase[^c-451fdb9134fb0affdb8cb087ec353a76]: right to statement of entitlement);
 - (h) a direction that—
   - (i) no refunds of, or no specified refunds of, or in respect of, contributions paid by or in respect of a member towards the scheme are to be made from the scheme, or
   - (ii) refunds or specified refunds of, or in respect of, contributions paid by or in respect of a member towards the scheme may only be made from the scheme if they are determined in a specified manner and satisfy such other conditions as may be specified.
@@ -91,4 +91,4 @@ But no freezing order may be made in relation to a scheme during an assessment p
 
 ## Annotations
 
-[^key-451fdb9134fb0affdb8cb087ec353a76]: Textual amendment: Words in [art. 19(4)(g)](https://www.legislation.gov.uk/nisi/2005/255/article/19/4/g) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 82](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/82) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-451fdb9134fb0affdb8cb087ec353a76]: Textual amendment: Words in [art. 19(4)(g)](https://www.legislation.gov.uk/nisi/2005/255/article/19/4/g) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 82](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/82) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

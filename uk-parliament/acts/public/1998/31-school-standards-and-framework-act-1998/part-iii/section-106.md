@@ -23,7 +23,7 @@ summary: ''
 (1) In relation to a ballot under section 105(2)(a), ballot regulations shall provide that, subject to such exceptions as may be prescribed, the parents eligible to request or vote in the ballot are—
 
 - (a) registered parents of registered pupils at the following schools, namely—
-  - (i) where the ballot relates to all grammar schools within the area of a prescribed local authority[^key-5177265949adaa73e26402711f36dc2e], all schools maintained by that authority; or
+  - (i) where the ballot relates to all grammar schools within the area of a prescribed local authority[^c-5177265949adaa73e26402711f36dc2e], all schools maintained by that authority; or
   - (ii) where the ballot relates to all grammar schools within a prescribed area, all schools maintained by a local authority which are situated in such area as may be prescribed, together with (if the regulations so provide) all schools maintained by such local authority as may be prescribed;
 - (b) registered parents of registered pupils at independent schools where—
   - (i) such parents are resident, and
@@ -58,4 +58,4 @@ to be determined by reference to such different times as may be determined in ac
 
 ## Annotations
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

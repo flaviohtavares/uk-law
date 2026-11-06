@@ -16,94 +16,94 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Arbitrations[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+## SCHEDULE 7 — Arbitrations[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
 
 *Extent: S*
 
 Section 61.
 
-### Appointment of Arbiters[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+### Appointment of Arbiters[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
 
 **No longer in force.**
 
-**1.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Particulars of Claim[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
-
-**No longer in force.**
-
-**5.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Evidence[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+### Particulars of Claim[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
 
 **No longer in force.**
 
-**6.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Award[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+### Evidence[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
 
 **No longer in force.**
 
-**8.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Expenses[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+### Award[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
 
 **No longer in force.**
 
-**17.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Statement of Case[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+**11.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+**12.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Removal of Arbiter and Setting Aside of Award[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+**16.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
-
-**23.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**24.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Forms[^key-8e7c2a9f00702654aa21b6db4ff73f5a]
+### Expenses[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
 
 **No longer in force.**
 
-**25.**[^key-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Statement of Case[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
+
+**No longer in force.**
+
+**20.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Removal of Arbiter and Setting Aside of Award[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
+
+**No longer in force.**
+
+**23.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Forms[^c-8e7c2a9f00702654aa21b6db4ff73f5a]
+
+**No longer in force.**
+
+**25.**[^c-8e7c2a9f00702654aa21b6db4ff73f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e7c2a9f00702654aa21b6db4ff73f5a]: Textual amendment: Sch. 7 repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 44](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/44) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-8e7c2a9f00702654aa21b6db4ff73f5a]: Textual amendment: Sch. 7 repealed (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 44](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/44) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Licensing of private hire vehicles.[^c7230021][^key-a1b70d7ce44350446703d03cd1ea09fe]
+## 48. Licensing of private hire vehicles.[^c7230021][^c-a1b70d7ce44350446703d03cd1ea09fe]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ and shall not refuse such a licence for the purpose of limiting the number of ve
 
     S. 48 extended (13.3.2000) by [S.I. 2000/412](https://www.legislation.gov.uk/uksi/2000/412), [art. 4(3)](https://www.legislation.gov.uk/uksi/2000/412/article/4/3)
 
-[^key-a1b70d7ce44350446703d03cd1ea09fe]: Modification: Ss. 48-54 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-a1b70d7ce44350446703d03cd1ea09fe]: Modification: Ss. 48-54 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
 
 [^c7230031]: Textual amendment: Words substituted by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [s. 4](https://www.legislation.gov.uk/ukpga/1988/54/section/4), [Sch. 3 para. 16(1)](https://www.legislation.gov.uk/ukpga/1988/54/schedule/3/paragraph/16/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Time limit for requesting a review[^key-2492ce492457671d0f3db1fed5493197]
+## 174. Time limit for requesting a review[^c-2492ce492457671d0f3db1fed5493197]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the relevant period is the period of 30 days beginning with the day on which the
 
 ## Annotations
 
-[^key-2492ce492457671d0f3db1fed5493197]: Commencement: S. 174 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)
+[^c-2492ce492457671d0f3db1fed5493197]: Commencement: S. 174 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(i)](https://www.legislation.gov.uk/wsi/2018/33/article/2/i)

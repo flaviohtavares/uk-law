@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Teachers' Pay and Conditions (England) Order 2019 (revoked)[^key-548df9f4e82d6a1076de1f0ff7d09079]
+The School Teachers' Pay and Conditions (England) Order 2019 (revoked)[^c-548df9f4e82d6a1076de1f0ff7d09079]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 11th October 2019
 
-[^key-548df9f4e82d6a1076de1f0ff7d09079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-548df9f4e82d6a1076de1f0ff7d09079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-548df9f4e82d6a1076de1f0ff7d09079]
+## 1. Citation, commencement and application[^c-548df9f4e82d6a1076de1f0ff7d09079]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-548df9f4e82d6a1076de1f0ff7d09079]
+## 2. The Document[^c-548df9f4e82d6a1076de1f0ff7d09079]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-548df9f4e82d6a1076de1f0ff7d09079]
+## 3. Revocation[^c-548df9f4e82d6a1076de1f0ff7d09079]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-548df9f4e82d6a1076de1f0ff7d09079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-548df9f4e82d6a1076de1f0ff7d09079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-548df9f4e82d6a1076de1f0ff7d09079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-548df9f4e82d6a1076de1f0ff7d09079]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-548df9f4e82d6a1076de1f0ff7d09079]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1267) revoked (14.10.2020) by [The School Teachers' Pay and Conditions (England) Order 2020 (S.I. 2020/1020)](https://www.legislation.gov.uk/uksi/2020/1020), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1020/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1020/article/3)
+[^c-548df9f4e82d6a1076de1f0ff7d09079]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1267) revoked (14.10.2020) by [The School Teachers' Pay and Conditions (England) Order 2020 (S.I. 2020/1020)](https://www.legislation.gov.uk/uksi/2020/1020), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1020/article/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1020/article/3)

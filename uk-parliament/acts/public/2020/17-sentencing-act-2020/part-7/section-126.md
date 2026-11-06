@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Power to determine financial circumstances where offender is absent or fails to provide information[^key-052194126e2cf43599b79aa0ce99ccc4]
+## 126. Power to determine financial circumstances where offender is absent or fails to provide information[^c-052194126e2cf43599b79aa0ce99ccc4]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-052194126e2cf43599b79aa0ce99ccc4]: Commencement: S. 126 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-052194126e2cf43599b79aa0ce99ccc4]: Commencement: S. 126 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104B. Application of Chapter to part of expenditure[^key-c44cf10a55ef184e8b0ac49262ed6a26]
+## 104B. Application of Chapter to part of expenditure[^c-c44cf10a55ef184e8b0ac49262ed6a26]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ are to be treated for the purposes of this Act as expenditure on separate items 
 
 ## Annotations
 
-[^key-c44cf10a55ef184e8b0ac49262ed6a26]: Textual amendment: Pt. 2 Ch. 10A inserted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/2)
+[^c-c44cf10a55ef184e8b0ac49262ed6a26]: Textual amendment: Pt. 2 Ch. 10A inserted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/2)

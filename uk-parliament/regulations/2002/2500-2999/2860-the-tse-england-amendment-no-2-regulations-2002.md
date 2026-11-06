@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The TSE (England) (Amendment) (No. 2) Regulations 2002 (revoked)[^key-52001b8db964f888ab8c723c8ba03f8d]
+The TSE (England) (Amendment) (No. 2) Regulations 2002 (revoked)[^c-52001b8db964f888ab8c723c8ba03f8d]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 11th December 2002
 
-[^key-52001b8db964f888ab8c723c8ba03f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52001b8db964f888ab8c723c8ba03f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-52001b8db964f888ab8c723c8ba03f8d]
+## 1. Title, extent and commencement[^c-52001b8db964f888ab8c723c8ba03f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (England) Regulations 2002[^key-52001b8db964f888ab8c723c8ba03f8d]
+## 2. Amendment of the TSE (England) Regulations 2002[^c-52001b8db964f888ab8c723c8ba03f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52001b8db964f888ab8c723c8ba03f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52001b8db964f888ab8c723c8ba03f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52001b8db964f888ab8c723c8ba03f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52001b8db964f888ab8c723c8ba03f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52001b8db964f888ab8c723c8ba03f8d]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [regs. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/68/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-52001b8db964f888ab8c723c8ba03f8d]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [regs. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/68/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Byelaws[^key-fc086de42d11d07384e18b375d647018]
+## 51. Byelaws[^c-fc086de42d11d07384e18b375d647018]
 
 *Extent: E+W+S*
 
@@ -143,7 +143,7 @@ without first obtaining the consent of the undertaker, such consent not to be un
 
 ## Annotations
 
-[^key-fc086de42d11d07384e18b375d647018]: Commencement: Art. 51 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-fc086de42d11d07384e18b375d647018]: Commencement: Art. 51 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294691]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

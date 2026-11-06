@@ -43,22 +43,22 @@ The Department of Health, Social Services and Public Safety[^f00001] makes the f
 
 In accordance with Article 62(3) of that Order it has consulted with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians.
 
-## 1. Citation and commencement[^key-fbebc0f73e714efe1fa28af57c5a613e]
+## 1. Citation and commencement[^c-fbebc0f73e714efe1fa28af57c5a613e]
 
 These Regulations may be cited as the General Ophthalmic Services Regulations (Northern Ireland) 2007 and shall come into operation on 9th November 2007.
 
-## 2. Interpretation[^key-10acbcf24d318bbebfba3734497d9d0d]
+## 2. Interpretation[^c-10acbcf24d318bbebfba3734497d9d0d]
 
 In these Regulations —
 
 > - the Charges Regulations” means the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^f00004];
-> - “the Disciplinary Procedures Regulations” means the Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016[^key-c731f11619ed95ffc08e37bcefc0678e]
+> - “the Disciplinary Procedures Regulations” means the Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016[^c-c731f11619ed95ffc08e37bcefc0678e]
 > - “the Order” means the Health and Personal Social Services (Northern Ireland) Order 1972;
 > - “the Remission Regulations” means the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004[^f00005];
-> - “the[^key-8b87c7c3b78d9e1ee34ef383146d0a2e] 2003 Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
+> - “the[^c-8b87c7c3b78d9e1ee34ef383146d0a2e] 2003 Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
 > - “authority” has the meaning given to it by the Children (Northern Ireland) Order 1995[^f00006];
-> - “[^key-1d5395d3b529b96edbe463577b7a79a8]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
-> - [^key-f4bda9c157f038d4e72323a521d3980d]...
+> - “[^c-1d5395d3b529b96edbe463577b7a79a8]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+> - [^c-f4bda9c157f038d4e72323a521d3980d]...
 > - “capital limit” means the amount prescribed for the purposes of section 130(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00007] as it applies to income support;
 > - “child tax credit” means child tax credit under section 8 of the Tax Credits Act 2002[^f00008];
 > - “Committee” means the Ophthalmic Committee, constituted under regulation 3;
@@ -68,7 +68,7 @@ In these Regulations —
 >
 >   “contractor” means a person who has undertaken to provide general ophthalmic services and whose name is included in the ophthalmic list;
 > - “day care setting” has the same meaning as in Article 2 of the 2003 Order;
-> - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;[^key-02a63bab2538ce7db2eea6ce7768d25d]
+> - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;[^c-02a63bab2538ce7db2eea6ce7768d25d]
 > - “deputy” means an ophthalmic medical practitioner or optician, who is included in the ophthalmic list and assists in the provision of general ophthalmic services;
 > - “director” means —
 >   - (a) a director of a body corporate; or
@@ -77,16 +77,16 @@ In these Regulations —
 >   “disability element” means the disability element of working tax credit as specified in section 11(3) of the Tax Credits Act 2002;
 > - “doctor” means a medical practitioner;
 > - “eligible person” means a person who, in accordance with regulation 16, may have his sight tested under general ophthalmic services;
-> - [^key-a559a23e1744c40b86a2af910479bad3]...
-> - “[^key-95d8d39376bc5ae50fdcb78574ac518a]**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022;
+> - [^c-a559a23e1744c40b86a2af910479bad3]...
+> - “[^c-95d8d39376bc5ae50fdcb78574ac518a]**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022;
 > - “general ophthalmic services” means the services which a contractor must provide pursuant to paragraph 14 of the terms of service;
 > - “income-based jobseekers allowance” has the meaning given to it by Article 3(4) of the Jobseekers (Northern Ireland) Order 1995[^f00009];
 > - “income support” means income support under Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and includes personal expenses addition, special transitional addition and transitional addition as defined in regulation 2(1) of the Income Support (Transitional) Regulations (Northern Ireland) 1987[^f00010];
 > - “juvenile justice centre” has the meaning given by Article 51(1) of the Criminal Justice (Children) (Northern Ireland) Order 1998[^f00011];
 > - “Local Optical Committee” means the committee recognised by the Department under Article 55 of the Order;
 > - “medical card” means a card issued to a person by the RBSO in a form approved by the Department for the purpose of enabling that person to obtain or establish a title to receive primary medical services, including maternity medical services, general dental services or general ophthalmic services;
-> - “mobile practice” means a contractor who has made arrangements with the Department[^key-3147a51451bb729ba470223ee00ef386] to provide mobile services and does not have practice premises in its area;
-> - “mobile services” means general ophthalmic services provided at—[^key-c8b980d9ed037b968a64b8041f0a805c]
+> - “mobile practice” means a contractor who has made arrangements with the Department[^c-3147a51451bb729ba470223ee00ef386] to provide mobile services and does not have practice premises in its area;
+> - “mobile services” means general ophthalmic services provided at—[^c-c8b980d9ed037b968a64b8041f0a805c]
 >   - (a) a day care setting;
 >   - (b) a nursing home;
 >   - (c) a residential care home; or
@@ -98,13 +98,13 @@ In these Regulations —
 > - “ophthalmic hospital” includes an ophthalmic department of a hospital;
 > - “ophthalmic list” means the list prepared by the Agency under regulation 8;
 > - “ophthalmic medical practitioner” means a doctor whose qualifications have in accordance with regulation 6 or regulation 7 been approved as being prescribed qualifications;
-> - “Ophthalmic Qualifications Committee” means the Advisory Committee appointed under Article 25 of the Order after consultation with [^key-c8c785eeddc9783d53acbaa9e5203205]... such organisation as may be recognised by the Department as representing medical practitioners, for the purposes of approving —
+> - “Ophthalmic Qualifications Committee” means the Advisory Committee appointed under Article 25 of the Order after consultation with [^c-c8c785eeddc9783d53acbaa9e5203205]... such organisation as may be recognised by the Department as representing medical practitioners, for the purposes of approving —
 >   - (a) ophthalmic hospitals, academic degrees, academic or post graduate courses in ophthalmology and appointments affording special opportunities for acquiring the necessary skill and experience of the kind required for the provision of general ophthalmic services; and
 >   - (b) the qualifications of doctors for the purpose of the general ophthalmic services;
 > - “optician” means an ophthalmic optician;
 > - “patient” means a person for whom a contractor has agreed to provide general ophthalmic services;
 > - “pension credit guarantee credit” shall be construed in accordance with sections 1 and 2 of the State Pension Credit Act (Northern Ireland) 2002[^f00012];
-> - [^key-a559a23e1744c40b86a2af910479bad3]...
+> - [^c-a559a23e1744c40b86a2af910479bad3]...
 > - “qualifications” includes qualifications as to experience;
 > - “qualifying full-time education” has the meaning given to it by Article 62(4) of the Order;
 > - “relevant income” has the same meaning as in section 7(3) of the Tax Credits Act 2002;
@@ -118,15 +118,15 @@ In these Regulations —
 
 means working tax credit under section 10 of the Tax Credits Act 2002.
 
-## 3. Constitution of Ophthalmic Committee[^key-d138d5539c0ddc1a4611e4eb1ce5ec27]
+## 3. Constitution of Ophthalmic Committee[^c-d138d5539c0ddc1a4611e4eb1ce5ec27]
 
 The provisions set out in Schedule 2 shall apply to the Committee which shall be appointed by the Agency for the purpose of advising and assisting the Agency in the duties assigned to it by these regulations.
 
-## 4. Delegation of duties[^key-6e776c7fa8418437b613eec11d8a226f]
+## 4. Delegation of duties[^c-6e776c7fa8418437b613eec11d8a226f]
 
 The Committee may delegate to an officer of the Agency such of its duties with respect to general ophthalmic services as it thinks fit.
 
-## 5. Qualifications of ophthalmic medical practitioners[^key-9e7a0319a94c07aa86feea9a8e955de5]
+## 5. Qualifications of ophthalmic medical practitioners[^c-9e7a0319a94c07aa86feea9a8e955de5]
 
 (1) The prescribed qualifications which a doctor is to possess for the purposes of Article 62 of the Order (arrangements for general ophthalmic services) are that he has (at the date of consideration of his application under regulation 6) recent experience and either—
 
@@ -140,7 +140,7 @@ The Committee may delegate to an officer of the Agency such of its duties with r
 
 (2) In this regulation “approved” means approved by the Ophthalmic Qualifications Committee.
 
-## 6. Approval of qualifications of ophthalmic medical practitioners[^key-01cd730b6cec391728adf965b9e441dd]
+## 6. Approval of qualifications of ophthalmic medical practitioners[^c-01cd730b6cec391728adf965b9e441dd]
 
 (1) A doctor who wishes to establish his status as an ophthalmic medical practitioner shall apply to the Department for approval of his qualifications and experience, and shall give such particulars of his qualifications and experience as the Ophthalmic Qualifications Committee shall require.
 
@@ -155,7 +155,7 @@ The Committee may delegate to an officer of the Agency such of its duties with r
 - (a) the date upon which a completed application with all necessary supporting details is received by the Ophthalmic Qualifications Committee; or
 - (b) if the Ophthalmic Qualifications Committee require any further particulars from the applicant, the date on which the Ophthalmic Qualifications Committee receive all the particulars which it requires.
 
-## 7. Appeals against decisions of Ophthalmic Qualifications Committee[^key-8abda6acf6c3f8f17054a2eee9b07214]
+## 7. Appeals against decisions of Ophthalmic Qualifications Committee[^c-8abda6acf6c3f8f17054a2eee9b07214]
 
 (1) Any person dissatisfied with a decision of the Ophthalmic Qualifications Committee that he is not qualified to be an ophthalmic medical practitioner may within one month from and including the date on which he received notice of that decision, or such longer period as the Department may at any time allow, appeal against the decision by sending to the Department a notice of appeal stating the facts and contentions on which he relies.
 
@@ -178,9 +178,9 @@ The Committee may delegate to an officer of the Agency such of its duties with r
 
 (8) The appeal committee shall as soon as practicable notify its decision to the appellant, the Ophthalmic Qualifications Committee, the Agency, the Department and any other person to whom the Department has under paragraph (2) sent notice of the appeal.
 
-## 8. Ophthalmic list[^key-24b3e3c4c38e2d78cafce8710f12a4f5]
+## 8. Ophthalmic list[^c-24b3e3c4c38e2d78cafce8710f12a4f5]
 
-(1) The Agency shall from information obtained from the Department[^key-57ebb48c30a0dd8f36492a631757f330] keep a list called “the ophthalmic list” of those persons who, pursuant to the provisions of regulation 9 have undertaken to provide general ophthalmic services and who are not disqualified from inclusion by virtue of the provisions of paragraphs 5, 7, 9(5), 10(1) or 12(2) of Schedule 11 to the Order.
+(1) The Agency shall from information obtained from the Department[^c-57ebb48c30a0dd8f36492a631757f330] keep a list called “the ophthalmic list” of those persons who, pursuant to the provisions of regulation 9 have undertaken to provide general ophthalmic services and who are not disqualified from inclusion by virtue of the provisions of paragraphs 5, 7, 9(5), 10(1) or 12(2) of Schedule 11 to the Order.
 
 (2) The ophthalmic list shall be divided into two parts, of which the first part shall relate to ophthalmic medical practitioners and the second part to opticians.
 
@@ -189,39 +189,39 @@ The Committee may delegate to an officer of the Agency such of its duties with r
 - (a) the names of persons who are entitled to be included in it and in relation to each person—
   - (i) his professional registration number; and
   - (ii) the date that his name was included in the ophthalmic list;
-- (b) except in the case of a mobile practice, the addresses of any places [^key-a8e0baa0e3185391397d3b9f00c94daf]... at which they have undertaken to provide general ophthalmic services, other than mobile services;
+- (b) except in the case of a mobile practice, the addresses of any places [^c-a8e0baa0e3185391397d3b9f00c94daf]... at which they have undertaken to provide general ophthalmic services, other than mobile services;
 - (c) particulars of the days on which and hours between which general ophthalmic services will normally be available at those addresses;
 - (d) the names of every other ophthalmic medical practitioner or optician who is regularly engaged as a deputy, director or employee in assisting in the provision of general ophthalmic services at any of those addresses or in the provision of mobile services;
-- (e) if the contractor has made arrangements with the Department[^key-d9490694a4f7d9d7ccf4371da434ff22] to provide mobile services—
+- (e) if the contractor has made arrangements with the Department[^c-d9490694a4f7d9d7ccf4371da434ff22] to provide mobile services—
   - (i) that fact,
   - (ii) the address of any location visited regularly, with particulars of the months in which visits are planned to take place and the planned interval between such visits, and
   - (iii) if that contractor is a mobile practice, that fact and the addresses to which correspondence in connection with such provision may be sent.
 
-(4) The Agency shall send a copy of the ophthalmic list to the Department[^key-99757b1340926c12dae6a4a3af9c606c]... and the Local Optical Committee, and at intervals of not more than three months shall notify each of them of any alteration made in that list.
+(4) The Agency shall send a copy of the ophthalmic list to the Department[^c-99757b1340926c12dae6a4a3af9c606c]... and the Local Optical Committee, and at intervals of not more than three months shall notify each of them of any alteration made in that list.
 
-(5) Copies of the ophthalmic list shall be made available for inspection at the offices of [^key-3a525a66636314ea2941251c853b9076]... the Agency and at such other places as appear to the Agency to be convenient for informing all persons interested.
+(5) Copies of the ophthalmic list shall be made available for inspection at the offices of [^c-3a525a66636314ea2941251c853b9076]... the Agency and at such other places as appear to the Agency to be convenient for informing all persons interested.
 
-## 9. Application for inclusion in ophthalmic list[^key-e1166aee090cabb576c13e2e5d96a483]
+## 9. Application for inclusion in ophthalmic list[^c-e1166aee090cabb576c13e2e5d96a483]
 
-(1) An ophthalmic medical practitioner or optician who wishes to be included in the ophthalmic list shall make an application to the Department on a form approved by and available from the Department[^key-536ceac8393aac8e1a7acd1e221ce3a9] and the application shall include:
+(1) An ophthalmic medical practitioner or optician who wishes to be included in the ophthalmic list shall make an application to the Department on a form approved by and available from the Department[^c-536ceac8393aac8e1a7acd1e221ce3a9] and the application shall include:
 
 - (a) an undertaking to provide general ophthalmic services and to comply with the terms of service and if wishing to provide mobile services, a statement to that effect, with an undertaking to provide mobile services and to comply with the terms of service relevant to the provision of mobile services;
 - (b) the information specified in regulation 8(3); and
 - (c) a declaration that he is not suspended by direction of the Tribunal.
 
-(2) A contractor shall within fourteen days of any change or addition affecting the entries which the ophthalmic list is required to contain in relation to him notify the Department[^key-86c573258a4c05617d5c3c70728dab6c] accordingly.
+(2) A contractor shall within fourteen days of any change or addition affecting the entries which the ophthalmic list is required to contain in relation to him notify the Department[^c-86c573258a4c05617d5c3c70728dab6c] accordingly.
 
-## 10. Withdrawal from ophthalmic list[^key-a10a219fff92a7e6de9497c6f6ebf169]
+## 10. Withdrawal from ophthalmic list[^c-a10a219fff92a7e6de9497c6f6ebf169]
 
-(1) Subject to paragraphs (2) and (3), where a contractor gives notice in writing to the Department[^key-87a0c7cc420e668f514de3c3347ffe85] that he wishes to withdraw from the ophthalmic list, his name shall be removed from that list at the expiration of three months from and including the date of that notice or of such shorter period as the Department may agree.
+(1) Subject to paragraphs (2) and (3), where a contractor gives notice in writing to the Department[^c-87a0c7cc420e668f514de3c3347ffe85] that he wishes to withdraw from the ophthalmic list, his name shall be removed from that list at the expiration of three months from and including the date of that notice or of such shorter period as the Department may agree.
 
 (2) If representations are made to the Tribunal that the continued inclusion of a contractor in the ophthalmic list would be prejudicial to the efficiency of the general ophthalmic services, he shall not, except with the consent of the Department and subject to such conditions, if any, as the Department may impose, be entitled to have his name removed from the ophthalmic list pending the determination of the proceedings on those representations.
 
 (3) The Department shall not agree to a contractor’s withdrawal from the ophthalmic list unless and until it is satisfied that satisfactory arrangements have been made for the completion of any general ophthalmic services which he has undertaken to provide.
 
-## 11. Removal from ophthalmic list[^key-a3ddcb066cb4dc7c21082629380cce1c]
+## 11. Removal from ophthalmic list[^c-a3ddcb066cb4dc7c21082629380cce1c]
 
-(1) Where the Department[^key-4d1d78c0df75aedda38fb6c21ae6ffb0] has determined that a contractor—
+(1) Where the Department[^c-4d1d78c0df75aedda38fb6c21ae6ffb0] has determined that a contractor—
 
 - (a) has died,
 - (b) in the case of a body corporate, has been dissolved or ceased trading, or
@@ -250,7 +250,7 @@ The Committee may delegate to an officer of the Agency such of its duties with r
 
 (7) Any document which is required or authorised to be given to a contractor under this regulation may be given by delivering it to him or by sending it by recorded delivery service to his usual or last known place of business as recorded in the ophthalmic list.
 
-## 12. The Statement[^key-394617c7a9f700280d672032cdcb9cdf]
+## 12. The Statement[^c-394617c7a9f700280d672032cdcb9cdf]
 
 (1) The Department shall, after consultation with such organisations as appear to it to be representative of contractors providing general ophthalmic services, make provision in a determination (in these Regulations referred to as “the Statement”) as to —
 
@@ -262,11 +262,11 @@ The Committee may delegate to an officer of the Agency such of its duties with r
 - (a) shall be published;
 - (b) may be amended by the Department in whole or in part, after consultation with those organisations referred to in paragraph (1).
 
-## 13. Terms of Service[^key-82445a66714186e10c4bcf2817bd0037]
+## 13. Terms of Service[^c-82445a66714186e10c4bcf2817bd0037]
 
-The arrangements for the provision of general ophthalmic services which under Article 62 of the Order, the Department[^key-5969c341fc03a86d6865057b5502ddc0] is required to make, shall incorporate the terms of service and the Statement.
+The arrangements for the provision of general ophthalmic services which under Article 62 of the Order, the Department[^c-5969c341fc03a86d6865057b5502ddc0] is required to make, shall incorporate the terms of service and the Statement.
 
-## 14. Payment for services[^key-08e4e21e2cfe4442838c58eeb9f100cb]
+## 14. Payment for services[^c-08e4e21e2cfe4442838c58eeb9f100cb]
 
 (1) The Agency shall make payments in accordance with the Statement.
 
@@ -275,7 +275,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 (3) Where the Agency considers that it has made a payment to a contractor owing to an error or in circumstances where it was not due, it shall, except to the extent that the Department on the application of the Agency directs otherwise, draw the overpayment to the attention of the contractor and —
 
 - (a) where he admits the overpayment; or
-- (b)[^key-fbf9e525933768d3dbfbf45afb9a64c5] where he does not admit the overpayment but, the matter having been investigated under regulation 2(5) of the Disciplinary Procedures Regulations[^key-61c98720c3a009a6c26f57d193aa6a25], [^key-08834faa7ff95aa2de4a1879113ea790]... the Department on appeal, decides that there has been an overpayment,
+- (b)[^c-fbf9e525933768d3dbfbf45afb9a64c5] where he does not admit the overpayment but, the matter having been investigated under regulation 2(5) of the Disciplinary Procedures Regulations[^c-61c98720c3a009a6c26f57d193aa6a25], [^c-08834faa7ff95aa2de4a1879113ea790]... the Department on appeal, decides that there has been an overpayment,
 
 - the amount overpaid shall be recoverable by a deduction from the contractor’s remuneration or in some other manner.
 
@@ -283,7 +283,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 
 (5) A contractor who is unable to complete for a patient the general ophthalmic services which he has undertaken to provide shall inform the Agency accordingly in writing, and if the Agency is satisfied that the inability is due to a reasonable cause it shall make payments in accordance with the Statement to the contractor for such part of those services as he shall have provided.
 
-## 15. Payments to an ophthalmic medical practitioner or optician suspended by direction of the Tribunal[^key-a1c561f06b6a191c782c8c5e5b375f92]
+## 15. Payments to an ophthalmic medical practitioner or optician suspended by direction of the Tribunal[^c-a1c561f06b6a191c782c8c5e5b375f92]
 
 (1) The Agency shall make payments to any ophthalmic medical practitioner or optician who is suspended by direction of the Tribunal in accordance with the Department’s determination for the time being in operation in relation to such payments.
 
@@ -297,7 +297,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 
 (6) Regulation 14(3) shall apply to payments made under this regulation as it applies to payments made under that regulation.
 
-## 16. Sight Tests – eligibility[^key-92f25a847ced4c855f629551b2144055]
+## 16. Sight Tests – eligibility[^c-92f25a847ced4c855f629551b2144055]
 
 (1) A person may have his sight tested under the general ophthalmic services if, at the time of the testing of sight, he is any of the following —
 
@@ -323,13 +323,13 @@ The arrangements for the provision of general ophthalmic services which under Ar
     - (aa) working tax credit and child tax credit;
     - (bb) working tax credit which includes a disability element or a severe disability element; or
     - (cc) child tax credit, but is not eligible to receive working tax credit; and
-  - (ii) where the relevant income of the person or persons to whom an award of a tax credit is made under section 14 of the Tax Credits Act 2002 is determined at the time of the award not to exceed £15,276;[^key-8624b73ad61b3d11681a1fd821971778]
+  - (ii) where the relevant income of the person or persons to whom an award of a tax credit is made under section 14 of the Tax Credits Act 2002 is determined at the time of the award not to exceed £15,276;[^c-8624b73ad61b3d11681a1fd821971778]
 - (h) he is a person in respect of whom there is a current notice of entitlement;
-- (i) he is in receipt of pension credit guarantee credit; [^key-a6ff7742a0f159d01c53b5b0b183eca9]...
-- (j) he is a member of the same family as a person described in sub-paragraph (i) ; or[^key-42131b4ea5decedfa3451f49d71927b7]
-- (k)[^key-d41c770da11d7d90c077ccfa4fc61ae0] he is a relevant universal credit recipient.
+- (i) he is in receipt of pension credit guarantee credit; [^c-a6ff7742a0f159d01c53b5b0b183eca9]...
+- (j) he is a member of the same family as a person described in sub-paragraph (i) ; or[^c-42131b4ea5decedfa3451f49d71927b7]
+- (k)[^c-d41c770da11d7d90c077ccfa4fc61ae0] he is a relevant universal credit recipient.
 
-(2A)[^key-a9e5b1f6f5bf03b44fd97d08f9b2af1c] For the purposes of paragraph (2)(k) “**relevant universal credit recipient**” means a person who is—
+(2A)[^c-a9e5b1f6f5bf03b44fd97d08f9b2af1c] For the purposes of paragraph (2)(k) “**relevant universal credit recipient**” means a person who is—
 
 - (a) receiving universal credit, either as a single person or as a member of a couple, without—
   - (i) the child element,
@@ -353,7 +353,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 - (b) in sub-paragraph (f), “family” has the meaning assigned to it by Article 2(2) of the Jobseekers (Northern Ireland) Order 1995[^f00020]; and
 - (c) in sub-paragraph (g), “family” has the meaning assigned to it by regulation 2(2) of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^f00021].
 
-(5)[^key-c74f32a03f86fb006ceffd56f3371767] For the purposes of paragraph (2A)—
+(5)[^c-c74f32a03f86fb006ceffd56f3371767] For the purposes of paragraph (2A)—
 
 - “**assessment period**” means the assessment period for the purposes of universal credit as specified in regulation 22 of the Universal Credit Regulations (Northern Ireland) 2016 (Assessment periods);
 - “**child element**” means the child element of universal credit as specified in regulation 25 of the Universal Credit Regulations (Northern Ireland) 2016 (The child element);
@@ -365,7 +365,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 - “**single person**” is to be construed in accordance with Article 6(2)(a) of the Welfare Reform (Northern Ireland) Order 2015 (Universal credit); and
 - “**universal credit**” means universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015 (Universal credit).
 
-## 17. Sight tests – applications[^key-276bff18a974be13002a4c8be17605d6]
+## 17. Sight tests – applications[^c-276bff18a974be13002a4c8be17605d6]
 
 (1) An eligible person who wishes to have his sight tested under general ophthalmic services may make an application to any contractor for his sight to be tested.
 
@@ -382,7 +382,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 - (a) subject to paragraph (5) —
   - (i) satisfy himself that the person is an eligible person by asking for satisfactory evidence of entitlement, unless the contractor, in cases other than where the patient is a person specified in regulation 16(1)(d), already has satisfactory evidence of it available to him; and
   - (ii) where the patient has been asked for but not produced satisfactory evidence that he is an eligible person, then the contractor shall record the fact on the patient’s sight test form;
-- (b)[^key-a4d5fb39f030146b81762475232ca978] ensure that particulars of the patient, including the patient’s name and address, sex, date of birth and Health and Care number as shown on the patient’s medical card, and the approximate date of the last testing, if any, of the patient’s sight are inserted in a sight test form by the patient or on his behalf; and
+- (b)[^c-a4d5fb39f030146b81762475232ca978] ensure that particulars of the patient, including the patient’s name and address, sex, date of birth and Health and Care number as shown on the patient’s medical card, and the approximate date of the last testing, if any, of the patient’s sight are inserted in a sight test form by the patient or on his behalf; and
 - (c) satisfy himself that the testing of sight is necessary.
 
 (5) Where an eligible person to whom paragraph (3)(b) applies is unable to meet its requirements, the contractor may, instead of satisfying himself that those requirements are met, satisfy himself that the person is an eligible person by referring to his own records or by measuring the power of the lenses of the person’s existing optical appliance by means of a focimeter or other suitable means.
@@ -391,7 +391,7 @@ The arrangements for the provision of general ophthalmic services which under Ar
 
 (7) The contractor may appoint a member of his staff to carry out the requirements placed on him by paragraph (4)(a)(i) and (ii) on his behalf, provided that he ensures that person is given instruction by him to enable him to fulfil the requirements on his behalf.
 
-## 18. Sight test treated as a test under general ophthalmic services[^key-6a1b5370e4932a8c91926542e6b2a8b8]
+## 18. Sight test treated as a test under general ophthalmic services[^c-6a1b5370e4932a8c91926542e6b2a8b8]
 
 (1) A person whose sight is tested by a contractor but who was not an eligible person immediately before the testing and—
 
@@ -406,18 +406,18 @@ The arrangements for the provision of general ophthalmic services which under Ar
 
 (4) Where a testing of a person’s sight is treated by virtue of paragraphs (1)(b) and (3) as a testing of sight under the Order the Agency shall, on being presented with a receipt for, or other evidence of, any fee paid for the testing, and on being satisfied as to its amount, pay to that person an amount equal to that fee.
 
-## 19. School children[^key-b8bf5ae0648f0f5eabb6defdc534420b]
+## 19. School children[^c-b8bf5ae0648f0f5eabb6defdc534420b]
 
 (1) Without prejudice to their right to obtain general ophthalmic services under and in accordance with the foregoing regulations, the provisions of this regulation shall have effect in relation to persons for whom medical inspection or treatment is provided under or by virtue of the provisions of Article 9 of the Order.
 
-(2) In this regulation the expression “appointed ophthalmic medical practitioner” means an ophthalmic medical practitioner whose name is on the ophthalmic list and who has been appointed by the Department[^key-b533548bbde4178fbe3aa9464fdc51b2] to undertake sight testing for school children as may be required by this regulation. The expression “medical officer” means a medical practitioner, whose name is not included in the ophthalmic list, who has been appointed by the Department to undertake the medical inspection or medical supervision of school children under Article 9 of the Order.
+(2) In this regulation the expression “appointed ophthalmic medical practitioner” means an ophthalmic medical practitioner whose name is on the ophthalmic list and who has been appointed by the Department[^c-b533548bbde4178fbe3aa9464fdc51b2] to undertake sight testing for school children as may be required by this regulation. The expression “medical officer” means a medical practitioner, whose name is not included in the ophthalmic list, who has been appointed by the Department to undertake the medical inspection or medical supervision of school children under Article 9 of the Order.
 
 (3) Where on examination of the eyes of a pupil, a medical officer is of the opinion that the pupil needs to have his sight tested, he shall notify his opinion to the parent, guardian or other person having charge of the pupil. The notification shall indicate that the parent, guardian or other person in charge of the pupil may arrange to have the sight test carried out —
 
 - (a) by any ophthalmic medical practitioner or any optician on the ophthalmic list, or
 - (b) where the services of an appointed ophthalmic medical practitioner are available, by such appointed ophthalmic medical practitioner.
 
-## 20. Cases of disability[^key-5b5e4b3986b78086f0f26429beff6768]
+## 20. Cases of disability[^c-5b5e4b3986b78086f0f26429beff6768]
 
 (1) Subject to paragraph (2), an application for general ophthalmic services required by these regulations may be made and a signature required by these regulations may be given —
 
@@ -429,15 +429,15 @@ The arrangements for the provision of general ophthalmic services which under Ar
 
 (2) A signature on an application may not be given by the contractor or any person employed by a contractor, or assists a contractor in providing general ophthalmic services.
 
-## 21. Publication of particulars[^key-5508b53231f8139019929d1e9d7007cc]
+## 21. Publication of particulars[^c-5508b53231f8139019929d1e9d7007cc]
 
-The Agency shall publish in such manner as appears to it best calculated to inform all persons interested of the arrangements made by the Department[^key-88a6e88296048c95f075aa1480f89fdd] for the provision of general ophthalmic services and shall make available for inspection at its office and at such other places as appear to it to be convenient for informing any person interested, copies of these regulations, the ophthalmic list, the terms of service and the Statement, but the Agency need not make available copies of all those documents at every place at which it makes available copies of any of them.
+The Agency shall publish in such manner as appears to it best calculated to inform all persons interested of the arrangements made by the Department[^c-88a6e88296048c95f075aa1480f89fdd] for the provision of general ophthalmic services and shall make available for inspection at its office and at such other places as appear to it to be convenient for informing any person interested, copies of these regulations, the ophthalmic list, the terms of service and the Statement, but the Agency need not make available copies of all those documents at every place at which it makes available copies of any of them.
 
-## 22. Service of documents[^key-e1aedf607c91206dd5a682300db93bae]
+## 22. Service of documents[^c-e1aedf607c91206dd5a682300db93bae]
 
-Subject to regulations 7(3) and 11(7), any document which is required or authorised under these regulations (including the terms of service) to be given to a contractor may be given by delivering it to him or by sending it addressed to him at any address notified by him to the Department[^key-aa099aa2f25c7a39161e2535a8c283cb] for inclusion in the ophthalmic list as a place at which he has undertaken to provide general ophthalmic services, or, in the case of a mobile practice, the address notified to the Department and the Agency as the address to which correspondence may be sent.
+Subject to regulations 7(3) and 11(7), any document which is required or authorised under these regulations (including the terms of service) to be given to a contractor may be given by delivering it to him or by sending it addressed to him at any address notified by him to the Department[^c-aa099aa2f25c7a39161e2535a8c283cb] for inclusion in the ophthalmic list as a place at which he has undertaken to provide general ophthalmic services, or, in the case of a mobile practice, the address notified to the Department and the Agency as the address to which correspondence may be sent.
 
-## 23. Revocations and transitional provisions[^key-91fab38278aa8594de417cafdc9bd6fa]
+## 23. Revocations and transitional provisions[^c-91fab38278aa8594de417cafdc9bd6fa]
 
 (1) Subject to paragraph (2), the regulations specified in column 1 of Schedule 3 (“the revoked regulations”) are revoked to the extent specified in column 3 of that Schedule.
 
@@ -459,36 +459,36 @@ A senior officer of the Department of Finance and Personnel
 
 Regulation 2
 
-### 1. Interpretation[^key-b899a784d5c56c96239ce533a3c11a3d]
+### 1. Interpretation[^c-b899a784d5c56c96239ce533a3c11a3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Incorporation of provisions[^key-2a64c1e63c7aa322fe0938d17aa4ebc2]
+### 2. Incorporation of provisions[^c-2a64c1e63c7aa322fe0938d17aa4ebc2]
 
 Any provisions of the following affecting the rights and obligations of contractors shall be deemed to form part of the terms of service:
 
-- (a) these Regulations[^key-097993304b241df92774420210a3002f];
-- (b)[^key-6e411c086bf807ce6cb82ef8cf007e99] so much of the Disciplinary Procedures Regulations as relates to—
-  - (i) the investigation of questions arising between contractors and their patients, other investigations to be made by the Department[^key-158741c18eb75809b8c699e3a69ecf2a], and the action which may be taken by the Department as a result of such investigations, including the withholding of remuneration from a contractor where there has been a breach of the terms of service;
-  - (ii) appeals to the Family Practitioner Services Independent Panel from decisions of the Department[^key-506d2ef92f142bfe4dc37364aa7b69ff];
+- (a) these Regulations[^c-097993304b241df92774420210a3002f];
+- (b)[^c-6e411c086bf807ce6cb82ef8cf007e99] so much of the Disciplinary Procedures Regulations as relates to—
+  - (i) the investigation of questions arising between contractors and their patients, other investigations to be made by the Department[^c-158741c18eb75809b8c699e3a69ecf2a], and the action which may be taken by the Department as a result of such investigations, including the withholding of remuneration from a contractor where there has been a breach of the terms of service;
+  - (ii) appeals to the Family Practitioner Services Independent Panel from decisions of the Department[^c-506d2ef92f142bfe4dc37364aa7b69ff];
   - (iii) the investigation of excessive issuing of optical vouchers following a sight test;
 - (c) regulation 9 of the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997;
 - (d) the Statement.
 
-### 3. Premises at which general ophthalmic services are to be provided[^key-2ed349315e61f2d62b72471b4805e780]
+### 3. Premises at which general ophthalmic services are to be provided[^c-2ed349315e61f2d62b72471b4805e780]
 
 Subject to paragraph 4, a contractor shall provide general ophthalmic services only at an address which is included in relation to him in the ophthalmic list.
 
-### 4. Provision of mobile services[^key-27a3625fa22f04f27b94976a54852563]
+### 4. Provision of mobile services[^c-27a3625fa22f04f27b94976a54852563]
 
-(1) A contractor, who has made arrangements with the Department[^key-256d099ef67639171efbc8b96e00d59e] to provide mobile services, may provide them only in accordance with sub-paragraph (2), after giving notice in accordance with sub-paragraph (3).
+(1) A contractor, who has made arrangements with the Department[^c-256d099ef67639171efbc8b96e00d59e] to provide mobile services, may provide them only in accordance with sub-paragraph (2), after giving notice in accordance with sub-paragraph (3).
 
 (2) The contractor may only provide mobile services if—
 
 - (a) the patient has requested the contractor to provide those services to him, or, where the patient is incapable of making such a request, another person has made such a request on the patient’s behalf; and
 - (b) subject to sub-paragraphs (5), (6), (7) and (8), he has notified the Department in accordance with sub-paragraph (3) and, if applicable, (4) and the Department has not informed the contractor that it is not content with those changes*.*
 
-(3)[^key-d5c2fadd0ee9007973895ac4ec1bbe3c] The contractor shall notify the Department of his intention to provide mobile services at a location at least 48 hours (except that no part of a Saturday, Sunday or public holiday shall count towards that period) in advance of the date on which the contractor intends to provide the mobile services, identifying the persons to whom the services are to be provided by specifying—
+(3)[^c-d5c2fadd0ee9007973895ac4ec1bbe3c] The contractor shall notify the Department of his intention to provide mobile services at a location at least 48 hours (except that no part of a Saturday, Sunday or public holiday shall count towards that period) in advance of the date on which the contractor intends to provide the mobile services, identifying the persons to whom the services are to be provided by specifying—
 
 - (a) each patient’s name and address, sex, date of birth and Health and Care number as shown on the patient’s medical card; and
 - (b) the date and approximate time the contractor will provide them.
@@ -506,18 +506,18 @@ Subject to paragraph 4, a contractor shall provide general ophthalmic services o
 
 (7) In a case where circumstances have arisen whereby it was not possible to notify in accordance with sub-paragraph (4)(a), the contractor may provide mobile services to up to 3 other persons at the previously notified time and place.
 
-(8)[^key-b835632da9d909e033093d4e01dbdea1] The contractor shall be permitted to provide emergency mobile services without due notification to the Department in accordance with sub-paragraph (3), provided that the contractor notifies the Department of the location at which the emergency mobile services were provided as soon as possible, specifying—
+(8)[^c-b835632da9d909e033093d4e01dbdea1] The contractor shall be permitted to provide emergency mobile services without due notification to the Department in accordance with sub-paragraph (3), provided that the contractor notifies the Department of the location at which the emergency mobile services were provided as soon as possible, specifying—
 
 - (a) the patient’s name and address, sex, date of birth and Health and Care number as shown on the patient’s medical card;
 - (b) the date and approximate time the services were provided; and
 - (c) the reasons for the provision of the services.
 
-(8A)[^key-3236b81e695733fe9a283fa0bf28cce5] The contractor shall not—
+(8A)[^c-3236b81e695733fe9a283fa0bf28cce5] The contractor shall not—
 
 - (a) offer any inducement (except any discount or special offer available to patients) to use the mobile services provided by the contractor and in particular no such inducement shall be offered by the contractor, directly or indirectly, to the proprietor, manager or staff of a nursing home, residential care home or day care setting to secure that the contractor is asked or permitted to provide mobile services at that establishment; or
 - (b) seek to mislead any person about the availability, quality and extent of the mobile services provided.
 
-(9)[^key-4f619dbfc3afb1290b524ee36f628461] In sub-paragraph (8) “emergency mobile services” means general ophthalmic services provided at a location, other than the contractor’s practice premises, where the contractor has made reasonable arrangements to secure that a patient requiring prompt care will receive such care as soon as appropriately possible.
+(9)[^c-4f619dbfc3afb1290b524ee36f628461] In sub-paragraph (8) “emergency mobile services” means general ophthalmic services provided at a location, other than the contractor’s practice premises, where the contractor has made reasonable arrangements to secure that a patient requiring prompt care will receive such care as soon as appropriately possible.
 
 (10) For the purposes of sub-paragraph (9) a patient requires “prompt care” if in the clinical opinion of the contractor—
 
@@ -527,16 +527,16 @@ Subject to paragraph 4, a contractor shall provide general ophthalmic services o
 
 and “prompt care” does not necessitate a repair or replacement of an optical appliance unless head (c) applies.
 
-### 5. Premises and equipment[^key-744b095894415249a27286b4404baa30]
+### 5. Premises and equipment[^c-744b095894415249a27286b4404baa30]
 
 (1) Subject to sub-paragraph (2) to (5) and paragraph 9(3), a contractor shall provide as may be requisite, proper and sufficient consulting and waiting room accommodation and suitable equipment for the provision of the general ophthalmic services which he has undertaken to provide.
 
-(2) A contractor, who has made arrangements with the Department[^key-5d8e99d8f3c4365cc3757df6281571c7] to provide mobile services, shall provide suitable equipment for the provision of such services.
+(2) A contractor, who has made arrangements with the Department[^c-5d8e99d8f3c4365cc3757df6281571c7] to provide mobile services, shall provide suitable equipment for the provision of such services.
 
 (3) A contractor who—
 
 - (a) does not provide or no longer provides accommodation and equipment, as required under sub-paragraph (1), or equipment as required under sub-paragraph (2); and
-- (b) is not employed, in relation to the general ophthalmic services which he has undertaken to provide [^key-7b79a2c125bcb816c1732e2da1e62643]..., by another contractor,
+- (b) is not employed, in relation to the general ophthalmic services which he has undertaken to provide [^c-7b79a2c125bcb816c1732e2da1e62643]..., by another contractor,
 
 - may, instead of providing the accommodation and equipment, as required under sub-paragraph (1), or equipment as required by sub-paragraph (2), enter into arrangements of the kind described in sub-paragraph (4), provided the conditions set out in sub-paragraph (5) are met.
 
@@ -547,24 +547,24 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 
 - are available to him for the provision of the general ophthalmic services which he has undertaken to provide, which permit inspection as required under paragraph 5(6) or (7).
 
-(5) The conditions referred to in sub-paragraph (3) are that the contractor has satisfied the Department[^key-fad3de53b461531188ad01c0308de5b8] that—
+(5) The conditions referred to in sub-paragraph (3) are that the contractor has satisfied the Department[^c-fad3de53b461531188ad01c0308de5b8] that—
 
 - (a) the arrangements are legally enforceable and permit inspection as required under paragraph 5(6) or (7);
 - (b) the accommodation and equipment or, in the case of the provision of mobile services, equipment, provided under the arrangements are adequate and suitable.
 
-(6) Subject to sub-paragraph (7) and (8) and paragraph 9(3), a contractor, on receipt of a written request from the Department[^key-d66d7bd72b9719b9fc3fa745400e542b]..., the Agency or the Committee to do so, shall admit at all reasonable times for the purposes of inspecting his accommodation or equipment an authorised officer of the Department[^key-d66d7bd72b9719b9fc3fa745400e542b]... or the Agency, or authorised member of the Committee.
+(6) Subject to sub-paragraph (7) and (8) and paragraph 9(3), a contractor, on receipt of a written request from the Department[^c-d66d7bd72b9719b9fc3fa745400e542b]..., the Agency or the Committee to do so, shall admit at all reasonable times for the purposes of inspecting his accommodation or equipment an authorised officer of the Department[^c-d66d7bd72b9719b9fc3fa745400e542b]... or the Agency, or authorised member of the Committee.
 
-(7) A contractor, who has made arrangements with the Department[^key-e8c1b83ec21c2f45df1c71b2abe0f0d0] to provide mobile services on receipt of a written request from the Department[^key-43d765e4c782a7f16066e50dba7558fc]..., the Agency or the Committee, shall arrange for an authorised officer of the Department[^key-43d765e4c782a7f16066e50dba7558fc]..., the Agency, or of the Committee, to be allowed to inspect at a reasonable time the facilities and equipment that he uses.
+(7) A contractor, who has made arrangements with the Department[^c-e8c1b83ec21c2f45df1c71b2abe0f0d0] to provide mobile services on receipt of a written request from the Department[^c-43d765e4c782a7f16066e50dba7558fc]..., the Agency or the Committee, shall arrange for an authorised officer of the Department[^c-43d765e4c782a7f16066e50dba7558fc]..., the Agency, or of the Committee, to be allowed to inspect at a reasonable time the facilities and equipment that he uses.
 
-(8) In addition to the right to inspect under sub-paragraph (7), a contractor, who has made arrangements with the Department to provide mobile services, shall allow an authorised officer of the Department[^key-f88696b3ed06587d40cb07f888a7db01]... or the Agency, or authorised member of the Committee to inspect the facilities and equipment that he uses when providing those services at a location of which he notified the Department under paragraph 4(3).
+(8) In addition to the right to inspect under sub-paragraph (7), a contractor, who has made arrangements with the Department to provide mobile services, shall allow an authorised officer of the Department[^c-f88696b3ed06587d40cb07f888a7db01]... or the Agency, or authorised member of the Committee to inspect the facilities and equipment that he uses when providing those services at a location of which he notified the Department under paragraph 4(3).
 
-### 6. Notices[^key-7be3505df6190cbf4e2322350d5dbdff]
+### 6. Notices[^c-7be3505df6190cbf4e2322350d5dbdff]
 
 (1) Subject to sub-paragraph (2), a contractor shall secure that at each place at which he provides general ophthalmic services there is prominently displayed a notice and leaflet supplied or approved by the Agency, indicating the services available under general ophthalmic services and indicating to which descriptions of his patients a payment may be made under the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997[^f00025].
 
 (2) Where mobile services are being provided, a notice shall be displayed only in so far as it is reasonably practicable to do so.
 
-### 7. Records[^key-cc5e3dc28ca3ab435d542c8bf1cc3533]
+### 7. Records[^c-cc5e3dc28ca3ab435d542c8bf1cc3533]
 
 (1) A contractor shall keep a full, accurate and contemporaneous record in respect of each patient to whom he provides general ophthalmic services, giving the appropriate and necessary details of the sight testing.
 
@@ -572,31 +572,31 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 
 (3) Subject to paragraph 9(3), a contractor shall retain all such records for a period of seven years from and including the date of the last recorded sight test, and shall during that period—
 
-- (a) produce them on request to an optician in the employment of the Department[^key-2dc5bcc542b5415985f3317c9603134b] for inspection; or
-- (b) produce them to the Department[^key-e1d21d87ebeb8e23a2cadb3c03d25541]..., the Agency or the Committee within 14 days of being required to do so by the Department[^key-e1d21d87ebeb8e23a2cadb3c03d25541]..., the Agency or the Committee.
+- (a) produce them on request to an optician in the employment of the Department[^c-2dc5bcc542b5415985f3317c9603134b] for inspection; or
+- (b) produce them to the Department[^c-e1d21d87ebeb8e23a2cadb3c03d25541]..., the Agency or the Committee within 14 days of being required to do so by the Department[^c-e1d21d87ebeb8e23a2cadb3c03d25541]..., the Agency or the Committee.
 
-### 8. Deputies[^key-aeddb4c896ae44a88c898ac74bc26794]
+### 8. Deputies[^c-aeddb4c896ae44a88c898ac74bc26794]
 
 (1) A contractor may arrange for sight to be tested on his behalf by an ophthalmic medical practitioner or optician, but no such arrangements shall be made unless the name of that ophthalmic medical practitioner or optician is included in the ophthalmic list.
 
-(2) Any contractor who makes an arrangement for the regular provision of services by a deputy in terms of paragraph (1) shall notify the Department[^key-6470799298d821fa152365909f868531] of the arrangement.
+(2) Any contractor who makes an arrangement for the regular provision of services by a deputy in terms of paragraph (1) shall notify the Department[^c-6470799298d821fa152365909f868531] of the arrangement.
 
 (3) A contractor shall be responsible for all acts and omissions of any person acting as his deputy and of any employee of that person; and a deputy who is himself a contractor shall be jointly responsible to the same extent as the contractor for whom he is deputising.
 
-### 9. Employees[^key-7edd4f83fb0de1de697608ec7a97d196]
+### 9. Employees[^c-7edd4f83fb0de1de697608ec7a97d196]
 
 (1) A contractor who employs a person to test sight shall only employ—
 
 - (a) an ophthalmic medical practitioner or optician, whose name is included on the ophthalmic list; or
 - (b) a person, who is authorised to test sight by rules made under section 24(3) of the Opticians Act 1989 (testing of sight)[^f00026], acting under the continuous personal supervision of an ophthalmic medical practitioner or optician, whose name is included on the ophthalmic list.
 
-(2) A contractor who makes an arrangement for the regular provision of services by an employee in terms of paragraph (1) shall notify the Department[^key-437b58d4bfae45a47de1f5a75f87f1e8] of the arrangement.
+(2) A contractor who makes an arrangement for the regular provision of services by an employee in terms of paragraph (1) shall notify the Department[^c-437b58d4bfae45a47de1f5a75f87f1e8] of the arrangement.
 
 (3) A contractor shall be responsible for all acts and omissions of any employee; and an employee who is himself a contractor shall be jointly responsible but only, in the case of paragraphs 5(1) and (6) and 7(2), to the extent that he has not taken all reasonable steps to secure that the requirements of those provisions are met.
 
 (4) In this paragraph “employee” includes, in the case of a body corporate, a director and “employ” is to be interpreted accordingly.
 
-### 10. Complaints[^key-2c58638d58e9b1659949aa7651959841]
+### 10. Complaints[^c-2c58638d58e9b1659949aa7651959841]
 
 (1) Subject to sub-paragraphs (2) and (3), a contractor shall establish, and operate in accordance with this paragraph, a procedure (in this paragraph and in paragraph 11 referred to as a “complaints procedure”) to deal with any complaints made by or on behalf of his patients and former patients.
 
@@ -638,9 +638,9 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 
 (8) At each of the premises at which the contractor provides general ophthalmic services he must provide information about the complaints procedure which he operates and give the name (or title) and address of the person specified under sub-paragraph (7)(a).
 
-### 11. Co-operation with investigations[^key-74d01c5b22c86589ca3cedf9a1bba690]
+### 11. Co-operation with investigations[^c-74d01c5b22c86589ca3cedf9a1bba690]
 
-(1) A contractor shall co-operate with any investigation of a complaint by the Department[^key-0084af395989f068d5fe1ab265163e7f] in accordance with the procedures which it operates in accordance with directions given under Article 17(1) of the Order, whether the investigation follows one under the contractor’s complaints procedure or not.
+(1) A contractor shall co-operate with any investigation of a complaint by the Department[^c-0084af395989f068d5fe1ab265163e7f] in accordance with the procedures which it operates in accordance with directions given under Article 17(1) of the Order, whether the investigation follows one under the contractor’s complaints procedure or not.
 
 (2) The co-operation required by sub-paragraph (1) includes—
 
@@ -648,7 +648,7 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 - (b) providing any information relating to the complaint reasonably required by the Department; and
 - (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given), if the contractor’s presence at the meeting is reasonably required by the Department.
 
-### 12. Complaints against ophthalmic medical practitioners[^key-2f8f2cd7129365f721a9a1ef9f2b3fc5]
+### 12. Complaints against ophthalmic medical practitioners[^c-2f8f2cd7129365f721a9a1ef9f2b3fc5]
 
 (1) Where a contractor who, being an ophthalmic medical practitioner also performs primary medical services under a GMS contract for any person to whom he provides general ophthalmic services, the complaints procedure established and operated in accordance with the terms of that GMS contract shall apply in relation to any matter reasonably connected with his provision of general ophthalmic services as it applies as respects the provision of services under the GMS contract.
 
@@ -658,7 +658,7 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 
 (4) For as long as there are in existence contracts entered into under Article 13 of the General Medical Services Transitional and Consequential Provisions (No.1) (Northern Ireland) Order 2004[^f00028] (“default contracts”), any reference in this paragraph to a GMS contract shall be read as including a reference to a contract entered into under that Article and any reference to a term of a GMS contract shall be read as including a reference to the equivalent term of the default contract.
 
-### 13. Payments[^key-83a2f23403220c7399ade95c94f6c1a9]
+### 13. Payments[^c-83a2f23403220c7399ade95c94f6c1a9]
 
 (1) Any claim by a contractor for fees in respect of the provision of general ophthalmic services shall be made by completing or securing the completion of a sight test form and sending it to the Agency within six months from and including the date of completion of the provision of the services.
 
@@ -671,7 +671,7 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 
 (3) A signatory shall sign any such claim in ink with his initials or forename and with his surname in his own handwriting and not by means of a stamp.
 
-(4) Except as may be provided in the regulations, in these Regulations[^key-ff8066e1e1bd121b52cba7836045d356] or in sub-paragraph (5), a contractor shall not demand or accept from any patient or from other persons the payment of any fee or other remuneration in respect of the provision of general ophthalmic services.
+(4) Except as may be provided in the regulations, in these Regulations[^c-ff8066e1e1bd121b52cba7836045d356] or in sub-paragraph (5), a contractor shall not demand or accept from any patient or from other persons the payment of any fee or other remuneration in respect of the provision of general ophthalmic services.
 
 (5) A contractor shall be entitled to demand and recover from a patient or person having charge of a patient, a sum in respect of loss of remunerative time resulting from that patient’s failure to keep an appointment.
 
@@ -680,7 +680,7 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 - (a) which has not been provided under general ophthalmic services; or
 - (b) for which another claim has already been submitted to the Agency.
 
-### 14. Testing of Sight[^key-d4b9244c4677b707a470f1567026a22b]
+### 14. Testing of Sight[^c-d4b9244c4677b707a470f1567026a22b]
 
 (1) A contractor shall, having accepted pursuant to the regulations an application for the testing of sight, test the sight of a patient to determine whether the patient needs to wear or use an optical appliance, and on so doing shall fulfil any duty imposed on him by, or in Regulations made under, section 26 of the Opticians Act 1989.
 
@@ -694,19 +694,19 @@ and “prompt care” does not necessitate a repair or replacement of an optical
   - (ii) inform the patient’s doctor that he has done so, and
   - (iii) give the patient a written statement that he has done so, with details of the referral.
 
-(3)[^key-a528daa62e3525b4b5f7795df3e2835b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a528daa62e3525b4b5f7795df3e2835b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where a contractor issues to a patient a prescription for glasses, he shall, immediately thereafter, require the patient to acknowledge its receipt on a sight test form.
 
 (5) A prescription for glasses issued following a testing of sight under general ophthalmic services shall be completed by the method recommended in Appendix A to British Standard 3521: 1962 (Glossary of Terms relating to Ophthalmic Lenses and Spectacle Frames) published by the British Standards Institution, as effective on the date of its publication, and shall comply with any requirements as to its form specified in the Statement for the purposes of payment in respect of the sight test.
 
-### 15. Use of disqualified name[^key-dfba4f50ad8d96bdc7b19e4412e25e8b]
+### 15. Use of disqualified name[^c-dfba4f50ad8d96bdc7b19e4412e25e8b]
 
 (1) Subject to sub-paragraph (2), a contractor shall not use in any manner whatsoever the name or part of the name, either alone or in combination with any other words or letters of, or used by, any person so long as that person is disqualified by the Tribunal from inclusion in any ophthalmic list by virtue of paragraphs 5, 7, 9(5), 10(1) or 12(2) of Schedule 11 to the Order.
 
 (2) Nothing in sub-paragraph (1) shall prevent a contractor other than a body corporate from using his own name, or being a body corporate from using the name by which it is enrolled in the register maintained pursuant to the provisions of the Opticians Act 1989.
 
-### 16. Telephone services[^key-8dea8f440427a7c475e6e22304e63a83]
+### 16. Telephone services[^c-8dea8f440427a7c475e6e22304e63a83]
 
 (1) A contractor shall not be a party to any contract or other arrangement under which the number for telephone services to be used by—
 
@@ -721,31 +721,31 @@ and “prompt care” does not necessitate a repair or replacement of an optical
 
 Regulation 3
 
-**1.**[^key-40552e9fec2011f01a606dc286d7fdf2] The Ophthalmic Committee appointed by the Agency, after consultation with the Department[^key-e0d5e9917be2cb9e6125cb5ab646d040], such organisations as appear to it to represent ophthalmic medical practitioners and ophthalmic opticians and such other bodies as appear to it to be concerned, shall consist of a chairman and such number of other members as the Agency thinks fit.
+**1.**[^c-40552e9fec2011f01a606dc286d7fdf2] The Ophthalmic Committee appointed by the Agency, after consultation with the Department[^c-e0d5e9917be2cb9e6125cb5ab646d040], such organisations as appear to it to represent ophthalmic medical practitioners and ophthalmic opticians and such other bodies as appear to it to be concerned, shall consist of a chairman and such number of other members as the Agency thinks fit.
 
-**2.**[^key-a760737ef99458fbe87b19585f8f10c7] The Chairman shall be an optician appointed by the Department.
+**2.**[^c-a760737ef99458fbe87b19585f8f10c7] The Chairman shall be an optician appointed by the Department.
 
-**3.**[^key-0f8768e4140b6beca9c0f3b0e531d236] The term of office of members of the Committee shall be determined by the Agency.
+**3.**[^c-0f8768e4140b6beca9c0f3b0e531d236] The term of office of members of the Committee shall be determined by the Agency.
 
-**4.**[^key-cdda244954f9c91c6c3d4f31b2ce445d] Where the place of a member becomes vacant before the expiration of his term of office whether by death, resignation or otherwise, the vacancy shall be filled by the Agency, and any person so appointed shall hold office for the remainder of the term of office of the former member.
+**4.**[^c-cdda244954f9c91c6c3d4f31b2ce445d] Where the place of a member becomes vacant before the expiration of his term of office whether by death, resignation or otherwise, the vacancy shall be filled by the Agency, and any person so appointed shall hold office for the remainder of the term of office of the former member.
 
-**5.**[^key-1fa342f45aee084ee4402180e6601dc4] A member of the Committee may resign his membership by giving to the Agency notice in writing signed by him.
+**5.**[^c-1fa342f45aee084ee4402180e6601dc4] A member of the Committee may resign his membership by giving to the Agency notice in writing signed by him.
 
-**6.**[^key-e2698ce73000277af9e3fb21700f056c] Where any member of the Committee—
+**6.**[^c-e2698ce73000277af9e3fb21700f056c] Where any member of the Committee—
 
 - (a) is absent from the meetings of the Committee for more than six months consecutively (except for a reason approved by the Agency); or
-- (ab)[^key-a116e30a6b5103a2361458ebac8b6e56] has become the subject of a bankruptcy restrictions order or a debt relief restrictions order[^key-4d69688c91cc468508d06bc19e686273]; or
+- (ab)[^c-a116e30a6b5103a2361458ebac8b6e56] has become the subject of a bankruptcy restrictions order or a debt relief restrictions order[^c-4d69688c91cc468508d06bc19e686273]; or
 - (c) is convicted of an indictable offence;
 
 - the Agency shall forthwith by resolution, declare the office to be vacant and shall notify that fact in such manner as it thinks fit and thereupon the office shall become vacant.
 
-**7.**[^key-1db5b533b7e91e87ea4a23c0ffbd7ed8] Where a person who provides any ophthalmic or other professional services under the Order is a member of the Committee he may vote upon any matter which touches the interests of members of his profession (himself included) but shall not vote upon any matter touching only his individual professional interests.
+**7.**[^c-1db5b533b7e91e87ea4a23c0ffbd7ed8] Where a person who provides any ophthalmic or other professional services under the Order is a member of the Committee he may vote upon any matter which touches the interests of members of his profession (himself included) but shall not vote upon any matter touching only his individual professional interests.
 
-**8.**[^key-7298329c310c0a3e8a55722dff773b87] The proceedings of the Committee shall not be invalidated by any vacancy in the membership of the Committee or by any defect in the appointment of any of its members.
+**8.**[^c-7298329c310c0a3e8a55722dff773b87] The proceedings of the Committee shall not be invalidated by any vacancy in the membership of the Committee or by any defect in the appointment of any of its members.
 
-**9.**[^key-24ce4f5efa24d13c4b2a95296f6be03d] A member of the Committee who is appointed on the nomination of the Department[^key-e19674648ae53fa1e32f5316927ef75c], shall if he is a member of the Department[^key-6d04fc011ecd629f2e2fcb893ab939b3], cease to be a member of the Committee if he ceases to be a member of the Department.
+**9.**[^c-24ce4f5efa24d13c4b2a95296f6be03d] A member of the Committee who is appointed on the nomination of the Department[^c-e19674648ae53fa1e32f5316927ef75c], shall if he is a member of the Department[^c-6d04fc011ecd629f2e2fcb893ab939b3], cease to be a member of the Committee if he ceases to be a member of the Department.
 
-## SCHEDULE 3 — REGULATIONS REVOKED[^key-808c9115d19c78740772d4232c5865b9]
+## SCHEDULE 3 — REGULATIONS REVOKED[^c-808c9115d19c78740772d4232c5865b9]
 
 Regulation 23(1)
 
@@ -800,33 +800,33 @@ The Regulations make provision for the arrangements under which General Ophthalm
 
 [^f00003]: Footnote: Formerly Department of Finance: See [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 3
 
-[^key-fbebc0f73e714efe1fa28af57c5a613e]: Commencement: Reg. 1 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-fbebc0f73e714efe1fa28af57c5a613e]: Commencement: Reg. 1 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-10acbcf24d318bbebfba3734497d9d0d]: Commencement: Reg. 2 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-10acbcf24d318bbebfba3734497d9d0d]: Commencement: Reg. 2 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 382](https://www.legislation.gov.uk/nisr/1997/382)
 
-[^key-c731f11619ed95ffc08e37bcefc0678e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/nisr/2016/104/regulation/14/3/a)
+[^c-c731f11619ed95ffc08e37bcefc0678e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [14(3)(a)](https://www.legislation.gov.uk/nisr/2016/104/regulation/14/3/a)
 
 [^f00005]: Footnote: [S.R. 2004 No. 91](https://www.legislation.gov.uk/nisr/2004/91)
 
-[^key-8b87c7c3b78d9e1ee34ef383146d0a2e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2014/2/regulation/2/4)
+[^c-8b87c7c3b78d9e1ee34ef383146d0a2e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2014/2/regulation/2/4)
 
 [^f00006]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-1d5395d3b529b96edbe463577b7a79a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 44(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/44/2)
+[^c-1d5395d3b529b96edbe463577b7a79a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 44(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/44/2)
 
-[^key-f4bda9c157f038d4e72323a521d3980d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/2/a)
+[^c-f4bda9c157f038d4e72323a521d3980d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/2/a)
 
 [^f00007]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7); regulation 45 of the Income Support (General) Regulations (Northern Ireland) 1987 ([S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)) as amended by regulation 2(4) of [S.R. 2005 No. 424](https://www.legislation.gov.uk/nisr/2005/424) has prescribed the amount of £16,000 as the capital limit
 
 [^f00008]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-02a63bab2538ce7db2eea6ce7768d25d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 51(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/51/2)
+[^c-02a63bab2538ce7db2eea6ce7768d25d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 51(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/51/2)
 
-[^key-a559a23e1744c40b86a2af910479bad3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) omitted (1.4.2009) by virtue of [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2009/152/regulation/2)
+[^c-a559a23e1744c40b86a2af910479bad3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) omitted (1.4.2009) by virtue of [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2009/152/regulation/2)
 
-[^key-95d8d39376bc5ae50fdcb78574ac518a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 23(1)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/23/1)
+[^c-95d8d39376bc5ae50fdcb78574ac518a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) inserted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 23(1)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/23/1)
 
 [^f00009]: Footnote: [S.I. 1995/2705 (N.I.15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 3(4) was amended by paragraph 3(4)(a) of Schedule 7 to the Welfare and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
@@ -834,21 +834,21 @@ The Regulations make provision for the arrangements under which General Ophthalm
 
 [^f00011]: Footnote: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
-[^key-3147a51451bb729ba470223ee00ef386]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/2/b)
+[^c-3147a51451bb729ba470223ee00ef386]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/2/b)
 
-[^key-c8b980d9ed037b968a64b8041f0a805c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/2/regulation/2/3)
+[^c-c8b980d9ed037b968a64b8041f0a805c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/2/regulation/2/3)
 
-[^key-c8c785eeddc9783d53acbaa9e5203205]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/2/c)
+[^c-c8c785eeddc9783d53acbaa9e5203205]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/436/regulation/2) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/2/c)
 
 [^f00012]: Footnote: [2002 c.14](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-d138d5539c0ddc1a4611e4eb1ce5ec27]: Commencement: Reg. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-d138d5539c0ddc1a4611e4eb1ce5ec27]: Commencement: Reg. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-6e776c7fa8418437b613eec11d8a226f]: Commencement: Reg. 4 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-6e776c7fa8418437b613eec11d8a226f]: Commencement: Reg. 4 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-9e7a0319a94c07aa86feea9a8e955de5]: Commencement: Reg. 5 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-9e7a0319a94c07aa86feea9a8e955de5]: Commencement: Reg. 5 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-01cd730b6cec391728adf965b9e441dd]: Commencement: Reg. 6 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-01cd730b6cec391728adf965b9e441dd]: Commencement: Reg. 6 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00013]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49)
 
@@ -856,63 +856,63 @@ The Regulations make provision for the arrangements under which General Ophthalm
 
 [^f00015]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42)
 
-[^key-8abda6acf6c3f8f17054a2eee9b07214]: Commencement: Reg. 7 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-8abda6acf6c3f8f17054a2eee9b07214]: Commencement: Reg. 7 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-24b3e3c4c38e2d78cafce8710f12a4f5]: Commencement: Reg. 8 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-24b3e3c4c38e2d78cafce8710f12a4f5]: Commencement: Reg. 8 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-57ebb48c30a0dd8f36492a631757f330]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/1) substituted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-57ebb48c30a0dd8f36492a631757f330]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/1) substituted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-a8e0baa0e3185391397d3b9f00c94daf]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/4/a)
+[^c-a8e0baa0e3185391397d3b9f00c94daf]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/4/a)
 
-[^key-d9490694a4f7d9d7ccf4371da434ff22]: Textual amendment: Words in [reg. 8(3)(e)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/3/e) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-d9490694a4f7d9d7ccf4371da434ff22]: Textual amendment: Words in [reg. 8(3)(e)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/3/e) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-99757b1340926c12dae6a4a3af9c606c]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/4) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/4/b)
+[^c-99757b1340926c12dae6a4a3af9c606c]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/4) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/4/b)
 
-[^key-3a525a66636314ea2941251c853b9076]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/5) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/4/c)
+[^c-3a525a66636314ea2941251c853b9076]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/nisr/2007/436/regulation/8/5) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/4/c)
 
-[^key-e1166aee090cabb576c13e2e5d96a483]: Commencement: Reg. 9 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-e1166aee090cabb576c13e2e5d96a483]: Commencement: Reg. 9 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-536ceac8393aac8e1a7acd1e221ce3a9]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/9/1) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/5)
+[^c-536ceac8393aac8e1a7acd1e221ce3a9]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/9/1) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/5)
 
-[^key-86c573258a4c05617d5c3c70728dab6c]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/9/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-86c573258a4c05617d5c3c70728dab6c]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/9/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-a10a219fff92a7e6de9497c6f6ebf169]: Commencement: Reg. 10 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-a10a219fff92a7e6de9497c6f6ebf169]: Commencement: Reg. 10 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-87a0c7cc420e668f514de3c3347ffe85]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/nisr/2007/436/regulation/10) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/6)
+[^c-87a0c7cc420e668f514de3c3347ffe85]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/nisr/2007/436/regulation/10) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/6)
 
-[^key-a3ddcb066cb4dc7c21082629380cce1c]: Commencement: Reg. 11 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-a3ddcb066cb4dc7c21082629380cce1c]: Commencement: Reg. 11 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-4d1d78c0df75aedda38fb6c21ae6ffb0]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2007/436/regulation/11) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-4d1d78c0df75aedda38fb6c21ae6ffb0]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2007/436/regulation/11) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-394617c7a9f700280d672032cdcb9cdf]: Commencement: Reg. 12 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-394617c7a9f700280d672032cdcb9cdf]: Commencement: Reg. 12 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-82445a66714186e10c4bcf2817bd0037]: Commencement: Reg. 13 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-82445a66714186e10c4bcf2817bd0037]: Commencement: Reg. 13 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-5969c341fc03a86d6865057b5502ddc0]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2007/436/regulation/13) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-5969c341fc03a86d6865057b5502ddc0]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/nisr/2007/436/regulation/13) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-08e4e21e2cfe4442838c58eeb9f100cb]: Commencement: Reg. 14 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-08e4e21e2cfe4442838c58eeb9f100cb]: Commencement: Reg. 14 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-fbf9e525933768d3dbfbf45afb9a64c5]: Textual amendment: [Reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/14/3/b) substituted (24.11.2014) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2014 (S.R. 2014/267)](https://www.legislation.gov.uk/nisr/2014/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/267/regulation/1), [16](https://www.legislation.gov.uk/nisr/2014/267/regulation/16)
+[^c-fbf9e525933768d3dbfbf45afb9a64c5]: Textual amendment: [Reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/14/3/b) substituted (24.11.2014) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2014 (S.R. 2014/267)](https://www.legislation.gov.uk/nisr/2014/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/267/regulation/1), [16](https://www.legislation.gov.uk/nisr/2014/267/regulation/16)
 
-[^key-61c98720c3a009a6c26f57d193aa6a25]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/14/3/b) substituted (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/nisr/2016/104/regulation/14/3/b)
+[^c-61c98720c3a009a6c26f57d193aa6a25]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/14/3/b) substituted (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [14(3)(b)](https://www.legislation.gov.uk/nisr/2016/104/regulation/14/3/b)
 
-[^key-08834faa7ff95aa2de4a1879113ea790]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/14/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/7)
+[^c-08834faa7ff95aa2de4a1879113ea790]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/14/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/7)
 
-[^key-a1c561f06b6a191c782c8c5e5b375f92]: Commencement: Reg. 15 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-a1c561f06b6a191c782c8c5e5b375f92]: Commencement: Reg. 15 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-92f25a847ced4c855f629551b2144055]: Commencement: Reg. 16 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-92f25a847ced4c855f629551b2144055]: Commencement: Reg. 16 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00017]: Footnote: [1978 c.53](https://www.legislation.gov.uk/ukpga/1978/53)
 
-[^key-8624b73ad61b3d11681a1fd821971778]: Textual amendment: Sum in [Reg. 16(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/g/ii) substituted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2009/152/regulation/3)
+[^c-8624b73ad61b3d11681a1fd821971778]: Textual amendment: Sum in [Reg. 16(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/g/ii) substituted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2009/152/regulation/3)
 
-[^key-a6ff7742a0f159d01c53b5b0b183eca9]: Textual amendment: Word in [reg. 16(2)(i)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/i) omitted (1.12.2025) by virtue of [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/a/i) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
+[^c-a6ff7742a0f159d01c53b5b0b183eca9]: Textual amendment: Word in [reg. 16(2)(i)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/i) omitted (1.12.2025) by virtue of [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/a/i) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
 
-[^key-42131b4ea5decedfa3451f49d71927b7]: Textual amendment: Word in [reg. 16(2)(j)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/j) substituted for full stop (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/a/ii) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
+[^c-42131b4ea5decedfa3451f49d71927b7]: Textual amendment: Word in [reg. 16(2)(j)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/j) substituted for full stop (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/a/ii) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
 
-[^key-d41c770da11d7d90c077ccfa4fc61ae0]: Textual amendment: [Reg. 16(2)(k)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/k) inserted (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/a/iii) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
+[^c-d41c770da11d7d90c077ccfa4fc61ae0]: Textual amendment: [Reg. 16(2)(k)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2/k) inserted (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/a/iii) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
 
-[^key-a9e5b1f6f5bf03b44fd97d08f9b2af1c]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2A) inserted (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/b) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
+[^c-a9e5b1f6f5bf03b44fd97d08f9b2af1c]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/2A) inserted (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/b) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
 
 [^f00018]: Footnote: [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250)
 
@@ -922,146 +922,146 @@ The Regulations make provision for the arrangements under which General Ophthalm
 
 [^f00021]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006)
 
-[^key-c74f32a03f86fb006ceffd56f3371767]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/5) inserted (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/c) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
+[^c-c74f32a03f86fb006ceffd56f3371767]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/nisr/2007/436/regulation/16/5) inserted (1.12.2025) by [The Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 (S.R. 2025/172)](https://www.legislation.gov.uk/nisr/2025/172), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2025/172/regulation/4/2/c) (with [reg. 7](https://www.legislation.gov.uk/nisr/2025/172/regulation/7))
 
-[^key-276bff18a974be13002a4c8be17605d6]: Commencement: Reg. 17 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-276bff18a974be13002a4c8be17605d6]: Commencement: Reg. 17 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-a4d5fb39f030146b81762475232ca978]: Textual amendment: [Reg. 17(4)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/17/4/b) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/2/regulation/3)
+[^c-a4d5fb39f030146b81762475232ca978]: Textual amendment: [Reg. 17(4)(b)](https://www.legislation.gov.uk/nisr/2007/436/regulation/17/4/b) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2014/2/regulation/3)
 
-[^key-6a1b5370e4932a8c91926542e6b2a8b8]: Commencement: Reg. 18 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-6a1b5370e4932a8c91926542e6b2a8b8]: Commencement: Reg. 18 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00022]: Footnote: [S.R.1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191)
 
-[^key-b8bf5ae0648f0f5eabb6defdc534420b]: Commencement: Reg. 19 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-b8bf5ae0648f0f5eabb6defdc534420b]: Commencement: Reg. 19 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-b533548bbde4178fbe3aa9464fdc51b2]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/19/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-b533548bbde4178fbe3aa9464fdc51b2]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/19/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-5b5e4b3986b78086f0f26429beff6768]: Commencement: Reg. 20 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-5b5e4b3986b78086f0f26429beff6768]: Commencement: Reg. 20 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00023]: Footnote: [S.I.1995/755 (N.I.2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-5508b53231f8139019929d1e9d7007cc]: Commencement: Reg. 21 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-5508b53231f8139019929d1e9d7007cc]: Commencement: Reg. 21 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-88a6e88296048c95f075aa1480f89fdd]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2007/436/regulation/21) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(8)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/8)
+[^c-88a6e88296048c95f075aa1480f89fdd]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2007/436/regulation/21) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(8)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/8)
 
-[^key-e1aedf607c91206dd5a682300db93bae]: Commencement: Reg. 22 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-e1aedf607c91206dd5a682300db93bae]: Commencement: Reg. 22 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-aa099aa2f25c7a39161e2535a8c283cb]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/nisr/2007/436/regulation/22) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
+[^c-aa099aa2f25c7a39161e2535a8c283cb]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/nisr/2007/436/regulation/22) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/3)
 
-[^key-91fab38278aa8594de417cafdc9bd6fa]: Commencement: Reg. 23 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-91fab38278aa8594de417cafdc9bd6fa]: Commencement: Reg. 23 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-b899a784d5c56c96239ce533a3c11a3d]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/1) omitted (1.4.2009) by virtue of [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/a)
+[^c-b899a784d5c56c96239ce533a3c11a3d]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/1) omitted (1.4.2009) by virtue of [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/a)
 
-[^key-2a64c1e63c7aa322fe0938d17aa4ebc2]: Commencement: Sch. 1 para. 2 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-2a64c1e63c7aa322fe0938d17aa4ebc2]: Commencement: Sch. 1 para. 2 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-097993304b241df92774420210a3002f]: Textual amendment: Words in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/a) substituted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/b)
+[^c-097993304b241df92774420210a3002f]: Textual amendment: Words in [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/a) substituted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/b)
 
-[^key-6e411c086bf807ce6cb82ef8cf007e99]: Textual amendment: [Sch. 1 para. 2(b)(i)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/b/i) substituted (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [14(3)(c)](https://www.legislation.gov.uk/nisr/2016/104/regulation/14/3/c)
+[^c-6e411c086bf807ce6cb82ef8cf007e99]: Textual amendment: [Sch. 1 para. 2(b)(i)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/b/i) substituted (1.4.2016) by [The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016 (S.R. 2016/104)](https://www.legislation.gov.uk/nisr/2016/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/104/regulation/1/1), [14(3)(c)](https://www.legislation.gov.uk/nisr/2016/104/regulation/14/3/c)
 
-[^key-158741c18eb75809b8c699e3a69ecf2a]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/b) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 23(2)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/23/2/a)
+[^c-158741c18eb75809b8c699e3a69ecf2a]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/b) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 23(2)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/23/2/a)
 
-[^key-506d2ef92f142bfe4dc37364aa7b69ff]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/b) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 23(2)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/23/2/b)
+[^c-506d2ef92f142bfe4dc37364aa7b69ff]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/2/b) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 23(2)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/23/2/b)
 
-[^key-2ed349315e61f2d62b72471b4805e780]: Commencement: Sch. 1 para. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-2ed349315e61f2d62b72471b4805e780]: Commencement: Sch. 1 para. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-27a3625fa22f04f27b94976a54852563]: Commencement: Sch. 1 para. 4 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-27a3625fa22f04f27b94976a54852563]: Commencement: Sch. 1 para. 4 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-256d099ef67639171efbc8b96e00d59e]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-256d099ef67639171efbc8b96e00d59e]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-d5c2fadd0ee9007973895ac4ec1bbe3c]: Textual amendment: [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/3) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2014/2/regulation/4/2)
+[^c-d5c2fadd0ee9007973895ac4ec1bbe3c]: Textual amendment: [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/3) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2014/2/regulation/4/2)
 
-[^key-b835632da9d909e033093d4e01dbdea1]: Textual amendment: [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/8) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2014/2/regulation/4/3)
+[^c-b835632da9d909e033093d4e01dbdea1]: Textual amendment: [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/8) substituted (3.2.2014) by [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2014/2/regulation/4/3)
 
-[^key-3236b81e695733fe9a283fa0bf28cce5]: Textual amendment: [Sch. 1 para. 4(8A)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/8A) substituted for the first Sch. 1 para. 4(9) (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(b)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/b)
+[^c-3236b81e695733fe9a283fa0bf28cce5]: Textual amendment: [Sch. 1 para. 4(8A)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/8A) substituted for the first Sch. 1 para. 4(9) (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(b)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/b)
 
-[^key-4f619dbfc3afb1290b524ee36f628461]: Textual amendment: [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/9)[(10)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/10) inserted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/c)
+[^c-4f619dbfc3afb1290b524ee36f628461]: Textual amendment: [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/9)[(10)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/4/10) inserted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(c)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/c)
 
-[^key-744b095894415249a27286b4404baa30]: Commencement: Sch. 1 para. 5 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-744b095894415249a27286b4404baa30]: Commencement: Sch. 1 para. 5 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-5d8e99d8f3c4365cc3757df6281571c7]: Textual amendment: Words in [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-5d8e99d8f3c4365cc3757df6281571c7]: Textual amendment: Words in [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-7b79a2c125bcb816c1732e2da1e62643]: Textual amendment: Words in [Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(i)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/i)
+[^c-7b79a2c125bcb816c1732e2da1e62643]: Textual amendment: Words in [Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(i)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/i)
 
-[^key-fad3de53b461531188ad01c0308de5b8]: Textual amendment: Words in [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/5) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-fad3de53b461531188ad01c0308de5b8]: Textual amendment: Words in [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/5) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-d66d7bd72b9719b9fc3fa745400e542b]: Textual amendment: Words in [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/6) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/ii)
+[^c-d66d7bd72b9719b9fc3fa745400e542b]: Textual amendment: Words in [Sch. 1 para. 5(6)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/6) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/ii)
 
-[^key-e8c1b83ec21c2f45df1c71b2abe0f0d0]: Textual amendment: Words in [Sch. 1 para. 5(7)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/7)[(8)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/8) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-e8c1b83ec21c2f45df1c71b2abe0f0d0]: Textual amendment: Words in [Sch. 1 para. 5(7)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/7)[(8)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/8) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-43d765e4c782a7f16066e50dba7558fc]: Textual amendment: Words in [Sch. 1 para. 5(7)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/7) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/ii)
+[^c-43d765e4c782a7f16066e50dba7558fc]: Textual amendment: Words in [Sch. 1 para. 5(7)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/7) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/ii)
 
-[^key-f88696b3ed06587d40cb07f888a7db01]: Textual amendment: Words in [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/8) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/ii)
+[^c-f88696b3ed06587d40cb07f888a7db01]: Textual amendment: Words in [Sch. 1 para. 5(8)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/5/8) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/c/ii)
 
-[^key-7be3505df6190cbf4e2322350d5dbdff]: Commencement: Sch. 1 para. 6 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-7be3505df6190cbf4e2322350d5dbdff]: Commencement: Sch. 1 para. 6 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00025]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191)
 
-[^key-cc5e3dc28ca3ab435d542c8bf1cc3533]: Commencement: Sch. 1 para. 7 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-cc5e3dc28ca3ab435d542c8bf1cc3533]: Commencement: Sch. 1 para. 7 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-2dc5bcc542b5415985f3317c9603134b]: Textual amendment: Words in [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/7/3/a) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-2dc5bcc542b5415985f3317c9603134b]: Textual amendment: Words in [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/7/3/a) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-e1d21d87ebeb8e23a2cadb3c03d25541]: Textual amendment: Words in [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/7/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(d)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/d)
+[^c-e1d21d87ebeb8e23a2cadb3c03d25541]: Textual amendment: Words in [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/7/3/b) omitted (1.4.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(d)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/d)
 
-[^key-aeddb4c896ae44a88c898ac74bc26794]: Commencement: Sch. 1 para. 8 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-aeddb4c896ae44a88c898ac74bc26794]: Commencement: Sch. 1 para. 8 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-6470799298d821fa152365909f868531]: Textual amendment: Words in [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/8/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)(e)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-6470799298d821fa152365909f868531]: Textual amendment: Words in [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/8/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)(e)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-7edd4f83fb0de1de697608ec7a97d196]: Commencement: Sch. 1 para. 9 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-7edd4f83fb0de1de697608ec7a97d196]: Commencement: Sch. 1 para. 9 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00026]: Footnote: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44)
 
-[^key-437b58d4bfae45a47de1f5a75f87f1e8]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/9/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)(e)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-437b58d4bfae45a47de1f5a75f87f1e8]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/9/2) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)(e)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-2c58638d58e9b1659949aa7651959841]: Commencement: Sch. 1 para. 10 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-2c58638d58e9b1659949aa7651959841]: Commencement: Sch. 1 para. 10 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-74d01c5b22c86589ca3cedf9a1bba690]: Commencement: Sch. 1 para. 11 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-74d01c5b22c86589ca3cedf9a1bba690]: Commencement: Sch. 1 para. 11 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-0084af395989f068d5fe1ab265163e7f]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/11) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
+[^c-0084af395989f068d5fe1ab265163e7f]: Textual amendment: Words in [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/11) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(9)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/9/a)
 
-[^key-2f8f2cd7129365f721a9a1ef9f2b3fc5]: Commencement: Sch. 1 para. 12 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-2f8f2cd7129365f721a9a1ef9f2b3fc5]: Commencement: Sch. 1 para. 12 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
 [^f00027]: Footnote: [S.R. 2004 No. 140](https://www.legislation.gov.uk/nisr/2004/140)
 
 [^f00028]: Footnote: [S.R. 2004 No. 141](https://www.legislation.gov.uk/nisr/2004/141)
 
-[^key-83a2f23403220c7399ade95c94f6c1a9]: Commencement: Sch. 1 para. 13 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-83a2f23403220c7399ade95c94f6c1a9]: Commencement: Sch. 1 para. 13 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-ff8066e1e1bd121b52cba7836045d356]: Textual amendment: Words in [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/13/4) substituted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(d)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/d)
+[^c-ff8066e1e1bd121b52cba7836045d356]: Textual amendment: Words in [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/13/4) substituted (1.4.2009) by [The General Ophthalmic Services (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/152)](https://www.legislation.gov.uk/nisr/2009/152), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/152/regulation/1/1), [4(d)](https://www.legislation.gov.uk/nisr/2009/152/regulation/4/d)
 
-[^key-d4b9244c4677b707a470f1567026a22b]: Commencement: Sch. 1 para. 14 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-d4b9244c4677b707a470f1567026a22b]: Commencement: Sch. 1 para. 14 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-a528daa62e3525b4b5f7795df3e2835b]: Textual amendment: [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/14/3) omitted (3.2.2014) by virtue of [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/2/regulation/5)
+[^c-a528daa62e3525b4b5f7795df3e2835b]: Textual amendment: [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/nisr/2007/436/schedule/1/paragraph/14/3) omitted (3.2.2014) by virtue of [The General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/2)](https://www.legislation.gov.uk/nisr/2014/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/2/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2014/2/regulation/5)
 
-[^key-dfba4f50ad8d96bdc7b19e4412e25e8b]: Commencement: Sch. 1 para. 15 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-dfba4f50ad8d96bdc7b19e4412e25e8b]: Commencement: Sch. 1 para. 15 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-8dea8f440427a7c475e6e22304e63a83]: Commencement: Sch. 1 para. 16 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-8dea8f440427a7c475e6e22304e63a83]: Commencement: Sch. 1 para. 16 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-40552e9fec2011f01a606dc286d7fdf2]: Commencement: Sch. 2 para. 1 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-40552e9fec2011f01a606dc286d7fdf2]: Commencement: Sch. 2 para. 1 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-e0d5e9917be2cb9e6125cb5ab646d040]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/1) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(10)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/10/a)
+[^c-e0d5e9917be2cb9e6125cb5ab646d040]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/1) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(10)(a)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/10/a)
 
-[^key-a760737ef99458fbe87b19585f8f10c7]: Commencement: Sch. 2 para. 2 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-a760737ef99458fbe87b19585f8f10c7]: Commencement: Sch. 2 para. 2 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-0f8768e4140b6beca9c0f3b0e531d236]: Commencement: Sch. 2 para. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-0f8768e4140b6beca9c0f3b0e531d236]: Commencement: Sch. 2 para. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-cdda244954f9c91c6c3d4f31b2ce445d]: Commencement: Sch. 2 para. 4 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-cdda244954f9c91c6c3d4f31b2ce445d]: Commencement: Sch. 2 para. 4 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-1fa342f45aee084ee4402180e6601dc4]: Commencement: Sch. 2 para. 5 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-1fa342f45aee084ee4402180e6601dc4]: Commencement: Sch. 2 para. 5 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-e2698ce73000277af9e3fb21700f056c]: Commencement: Sch. 2 para. 6 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-e2698ce73000277af9e3fb21700f056c]: Commencement: Sch. 2 para. 6 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-a116e30a6b5103a2361458ebac8b6e56]: Textual amendment: [Sch. 2 para. 6(ab)](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/6/ab) substituted for [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/2) (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 44(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/44/3)
+[^c-a116e30a6b5103a2361458ebac8b6e56]: Textual amendment: [Sch. 2 para. 6(ab)](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/6/ab) substituted for [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nisr/2007/436/schedule/2) (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 44(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/44/3)
 
-[^key-4d69688c91cc468508d06bc19e686273]: Textual amendment: Words in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/6/a) inserted (7.3.2016) by virtue of [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 51(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/51/3)
+[^c-4d69688c91cc468508d06bc19e686273]: Textual amendment: Words in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/6/a) inserted (7.3.2016) by virtue of [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 51(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/51/3)
 
-[^key-1db5b533b7e91e87ea4a23c0ffbd7ed8]: Commencement: Sch. 2 para. 7 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-1db5b533b7e91e87ea4a23c0ffbd7ed8]: Commencement: Sch. 2 para. 7 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-7298329c310c0a3e8a55722dff773b87]: Commencement: Sch. 2 para. 8 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-7298329c310c0a3e8a55722dff773b87]: Commencement: Sch. 2 para. 8 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-24ce4f5efa24d13c4b2a95296f6be03d]: Commencement: Sch. 2 para. 9 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-24ce4f5efa24d13c4b2a95296f6be03d]: Commencement: Sch. 2 para. 9 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
 
-[^key-e19674648ae53fa1e32f5316927ef75c]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/9) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(10)(b)(i)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/10/b/i)
+[^c-e19674648ae53fa1e32f5316927ef75c]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/9) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(10)(b)(i)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/10/b/i)
 
-[^key-6d04fc011ecd629f2e2fcb893ab939b3]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/9) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(10)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/10/b/ii)
+[^c-6d04fc011ecd629f2e2fcb893ab939b3]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/436/schedule/2/paragraph/9) substituted (1.4.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (General Dental and Ophthalmic Services Consequential and Miscellaneous Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/104)](https://www.legislation.gov.uk/nisr/2022/104), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/104/regulation/1/1), [4(10)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/104/regulation/4/10/b/ii)
 
-[^key-808c9115d19c78740772d4232c5865b9]: Commencement: Sch. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)
+[^c-808c9115d19c78740772d4232c5865b9]: Commencement: Sch. 3 in operation at 9.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1)

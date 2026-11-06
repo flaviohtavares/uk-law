@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95ZA. Control of donation to recognised third parties: power of Scottish Ministers[^key-53c1dbc901a85c9a58ca34b813ea843b]
+## 95ZA. Control of donation to recognised third parties: power of Scottish Ministers[^c-53c1dbc901a85c9a58ca34b813ea843b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53c1dbc901a85c9a58ca34b813ea843b]: Textual amendment: S. 95ZA inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/7/4), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a) (with s. 7(5)); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)
+[^c-53c1dbc901a85c9a58ca34b813ea843b]: Textual amendment: S. 95ZA inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/7/4), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a) (with s. 7(5)); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)

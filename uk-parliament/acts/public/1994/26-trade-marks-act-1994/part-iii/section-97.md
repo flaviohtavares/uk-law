@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Forfeiture: England and Wales or Northern Ireland.[^c1885951][^key-526b8afa8d6ed4c0b3a1ae8d24d090ee]
+## 97. Forfeiture: England and Wales or Northern Ireland.[^c1885951][^c-526b8afa8d6ed4c0b3a1ae8d24d090ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,10 +53,10 @@ and an order so made may contain such provision as appears to the court to be ap
 
 (8) For the purposes of this section a “**relevant offence**” means
 
-- (a)[^key-afd1ab9be11d8c1b6d2673c7e7422b60] an offence under section 92 above (unauthorised use of trade mark, &c in relation to goods),
+- (a)[^c-afd1ab9be11d8c1b6d2673c7e7422b60] an offence under section 92 above (unauthorised use of trade mark, &c in relation to goods),
 - (b) an offence under the Trade Descriptions Act 1968,
 - (c) an offence under the Business Protection from Misleading Marketing Regulations 2008,
-- (d) an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-9655b9fd6d97f4bbd201a899ac334064], or
+- (d) an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-9655b9fd6d97f4bbd201a899ac334064], or
 - (e) any offence involving dishonesty or deception.
 
 ## Annotations
@@ -67,12 +67,12 @@ and an order so made may contain such provision as appears to the court to be ap
 
     S. 97 applied (with modifications) (14.8.1996) by [S.I. 1996/1908](https://www.legislation.gov.uk/uksi/1996/1908), [reg. 7](https://www.legislation.gov.uk/uksi/1996/1908/regulation/7)
 
-[^key-526b8afa8d6ed4c0b3a1ae8d24d090ee]: Modification: S. 97 applied (with modifications) (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1027/regulation/8)
+[^c-526b8afa8d6ed4c0b3a1ae8d24d090ee]: Modification: S. 97 applied (with modifications) (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1027/regulation/8)
 
 [^c1130415]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c1130416]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-afd1ab9be11d8c1b6d2673c7e7422b60]: Textual amendment: Words in s. 97(8) substituted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/55) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-afd1ab9be11d8c1b6d2673c7e7422b60]: Textual amendment: Words in s. 97(8) substituted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/55) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-9655b9fd6d97f4bbd201a899ac334064]: Textual amendment: Words in s. 97(8)(d) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 7(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/7/3) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
+[^c-9655b9fd6d97f4bbd201a899ac334064]: Textual amendment: Words in s. 97(8)(d) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 7(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/7/3) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)

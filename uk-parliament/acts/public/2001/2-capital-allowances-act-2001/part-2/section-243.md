@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Restriction on B’s qualifying expenditure: sale and finance leaseback[^key-ee2fd257ceb7d925255338fec43492d6]
+## 243. Restriction on B’s qualifying expenditure: sale and finance leaseback[^c-ee2fd257ceb7d925255338fec43492d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2fd257ceb7d925255338fec43492d6]: Textual amendment: S. 243 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(17)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/17)
+[^c-ee2fd257ceb7d925255338fec43492d6]: Textual amendment: S. 243 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(17)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/17)

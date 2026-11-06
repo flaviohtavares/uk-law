@@ -33,20 +33,20 @@ of 28 July 2014
 
 supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regards to the criteria for the calculation of the additional costs incurred by operators in the fishing, farming, processing and marketing of certain fishery and aquaculture products from the outermost regions (revoked)
 
-[^key-6169c34c80f947d90ec0281f60d37592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6169c34c80f947d90ec0281f60d37592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-6169c34c80f947d90ec0281f60d37592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6169c34c80f947d90ec0281f60d37592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6169c34c80f947d90ec0281f60d37592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6169c34c80f947d90ec0281f60d37592]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-6169c34c80f947d90ec0281f60d37592]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

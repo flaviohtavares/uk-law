@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Removal of community governors[^key-e843b011356dd3f106227971c26958c8]
+## 39. Removal of community governors[^c-e843b011356dd3f106227971c26958c8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The governing body may remove any community governor (except an additional commu
 
 ## Annotations
 
-[^key-e843b011356dd3f106227971c26958c8]: Commencement: Reg. 39 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-e843b011356dd3f106227971c26958c8]: Commencement: Reg. 39 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by Articles 2, 4(9), 5(10) and (11), 12(1) to (3), 14(3), 15, 16(4) and 19(3) of, and paragraph 8 of Schedule 1 to, the Recovery of Health Services Charges (Northern Ireland) Order 2006[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4386e03f6480389905774a8e7e6a1e6a]
+## 1. Citation, commencement and interpretation[^c-4386e03f6480389905774a8e7e6a1e6a]
 
 (1) These Regulations may be cited as the Recovery of Health Services Charges (General) Regulations (Northern Ireland) 2006 and shall come into operation on 29th January 2007.
 
@@ -50,14 +50,14 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - “certificate” means a certificate issued under Article 4;
 - “Department” means the Department for Social Development;
 - “hospital” means a health services hospital within the meaning of Article 2;
-- “the[^key-e70dc5f78840c573b278f693f98d747a] 2005 Regulations” means the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005;
+- “the[^c-e70dc5f78840c573b278f693f98d747a] 2005 Regulations” means the Provision of Health Services to Persons not Ordinarily Resident Regulations (Northern Ireland) 2005;
 - “the Order” means the Recovery of Health Services Charges (Northern Ireland) Order 2006.
 - “visitor” means a person not ordinarily resident in Northern Ireland;
 - “visitors' charge” means a charge in accordance with Article 42 of the Health and Personal Social Services (Northern Ireland) Order 1972 for the provision of health services treatment, where no exemption from charges under the 2005 Regulations applies.
 
 (3) A reference in these Regulations to a numbered Article or Schedule is a reference to that Article of, or that Schedule to, the Order.
 
-## 2. Application for a certificate of health services charges[^key-2dda859f00adab471cc7621b45a4c016]
+## 2. Application for a certificate of health services charges[^c-2dda859f00adab471cc7621b45a4c016]
 
 (1) An application for a certificate shall be made to the Department and shall include the following particulars—
 
@@ -66,7 +66,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - (c) the date on which the injury occurred;
 - (d) the nature of the injury;
 - (e) the name and address of any hospital at which the injured person received health services treatment in respect of his injury;
-- (f) where the applicant has made a compensation payment in respect of the injury, the date on which the payment was made , whether that payment includes an amount in respect of a visitors' charge and, if so, documentary evidence of that amount[^key-1d175c0f2fea448ffe9d97c82dfcda6d] ;
+- (f) where the applicant has made a compensation payment in respect of the injury, the date on which the payment was made , whether that payment includes an amount in respect of a visitors' charge and, if so, documentary evidence of that amount[^c-1d175c0f2fea448ffe9d97c82dfcda6d] ;
 - (g) where the certificate applied for relates to a claim to which any of the circumstances specified in paragraphs (a) to (f) of Article 5(3) (reduction of health services charges in cases of contributory negligence) applies—
   - (i) a statement of the proportion by which the damages payable in respect of the claim are to be reduced to reflect the injured person’s share in the responsibility for the injury in question, and
   - (ii) a copy of the order, judgement, minute or document which provides for that reduction; and
@@ -76,7 +76,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) The prescribed period for the purposes of Article 4(8)(b) (circumstances in which Article 4(7) applies) is 28 days.
 
-## 3. Reduction of health services charges in certificates relating to qualifying claims[^key-433733b5fd9005cbb88bb3898dca2231]
+## 3. Reduction of health services charges in certificates relating to qualifying claims[^c-433733b5fd9005cbb88bb3898dca2231]
 
 (1) The circumstances in which the amount specified in a certificate relating to a qualifying claim is to be reduced in accordance with Article 5(10) are where—
 
@@ -91,7 +91,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 - (d) the amount or proportion by which it was agreed that the damages were to be reduced; and
 - (e) the names of all those involved in the settlement process.
 
-## 4. Particulars as to amounts specified in certificate[^key-7abe7d0b3aff1c85154c955c24758354]
+## 4. Particulars as to amounts specified in certificate[^c-7abe7d0b3aff1c85154c955c24758354]
 
 The particulars to which a person to whom a certificate is issued is entitled, in accordance with Article 5(11), are—
 
@@ -103,7 +103,7 @@ The particulars to which a person to whom a certificate is issued is entitled, i
   - (i) the name and address of the responsible body of any hospital at which that treatment took place, and
   - (ii) whether the injured person was admitted to any hospital and if so, the number of days of admission counted at each hospital.
 
-## 5. Information to be provided in relation to an injured person[^key-09cd04369eddc4db0dbb28878f298696]
+## 5. Information to be provided in relation to an injured person[^c-09cd04369eddc4db0dbb28878f298696]
 
 (1) A person specified in Article 12(1)(a) shall send to the Department the information set out in paragraph (3) not later than 14 days after the date on which the claim in respect of the injury is made by or on behalf of the injured person.
 
@@ -120,11 +120,11 @@ The particulars to which a person to whom a certificate is issued is entitled, i
 - (e) the nature of the injury;
 - (f) in respect of health services treatment received at a hospital in respect of the injury—
   - (i) the name and address of the hospital, and
-  - (ii) whether the injured person was admitted to hospital and if so the date of admission and discharge and the type of treatment provided; [^key-9645ec72026081075896b69e0098ca42]...
+  - (ii) whether the injured person was admitted to hospital and if so the date of admission and discharge and the type of treatment provided; [^c-9645ec72026081075896b69e0098ca42]...
 - (g) in respect of health services ambulance services provided to the injured person as a result of his injury—
   - (i) the name and address of the ambulance trust which provided those services,
   - (ii) the date on which the services were provided, and
-  - (iii) the name and address of any hospital to which the injured person was taken; and[^key-cbc66251994169c2fffdbfb5bcd5ce02]
+  - (iii) the name and address of any hospital to which the injured person was taken; and[^c-cbc66251994169c2fffdbfb5bcd5ce02]
 - (h) whether the claim for compensation includes payment of a visitors' charge.
 
 (4) The responsible body of each hospital at which the injured person received health services treatment in respect of his injury shall send the following information in relation to that person to the Department not later than 14 days after the date on which the Department requests it—
@@ -132,8 +132,8 @@ The particulars to which a person to whom a certificate is issued is entitled, i
 - (a) the date the treatment began;
 - (b) whether and, if so, the date on which, health services ambulance services were provided to the injured person, as a result of his injury, for the purpose of taking him to a hospital in relation to which it is the responsible body (including taking him from one such hospital to another such hospital);
 - (c) whether the injured person was admitted to a hospital in relation to which it is the responsible body and, if so, the date of admission and discharge;
-- (d) where known, the name and address of any other hospital at which the injured person received treatment; [^key-514b3726e53ecf8a386d022b11451330]...
-- (e) whether there is likely to be further treatment in respect of the injury; and[^key-ccaa3827bcf919488cd16776e495a684]
+- (d) where known, the name and address of any other hospital at which the injured person received treatment; [^c-514b3726e53ecf8a386d022b11451330]...
+- (e) whether there is likely to be further treatment in respect of the injury; and[^c-ccaa3827bcf919488cd16776e495a684]
 - (f) whether a visitors' charge has been made in respect of the injured person.
 
 (5) Any ambulance trust which provided health services ambulance services to the injured person as a result of his injury shall send the following information to the Department not later than 14 days after the date on which the Department requests it—
@@ -141,7 +141,7 @@ The particulars to which a person to whom a certificate is issued is entitled, i
 - (a) the date on which those services were provided to the injured person as a result of his injury; and
 - (b) the name and address of any hospital to which the injured person was taken for health services treatment.
 
-## 6. Payments to hospitals and ambulance trusts[^key-fb83deebcbf0496466ca9ad7f6fdc44d]
+## 6. Payments to hospitals and ambulance trusts[^c-fb83deebcbf0496466ca9ad7f6fdc44d]
 
 (1) The Department—
 
@@ -164,7 +164,7 @@ the Department shall pay the amount received to the body to which the property, 
 
 (4) If the property, rights and liabilities of the old body or the old trust have been transferred to more than one body, the Department, may, for the purposes of paragraph (3), divide the payment among those bodies in such manner as it considers appropriate.
 
-## 7. Structured settlements[^key-cbdd88fd6947a28a0a73cb05ece5757a]
+## 7. Structured settlements[^c-cbdd88fd6947a28a0a73cb05ece5757a]
 
 (1) This regulation applies where, apart from the provisions of this regulation, the payments due under an agreement or court order referred to in paragraph (2) would fall to be treated for the purposes of the Order as compensation payments.
 
@@ -187,7 +187,7 @@ the Department shall pay the amount received to the body to which the property, 
 - (a) if the agreement referred to in paragraph (2)(a) is approved by the court, the day on which that approval is given; and
 - (b) in any other case, the day on which the agreement is entered into.
 
-## 8. Interim payments repaid under court order[^key-bdc455859c3b710d92b4724845a20dbe]
+## 8. Interim payments repaid under court order[^c-bdc455859c3b710d92b4724845a20dbe]
 
 (1) This regulation applies where—
 
@@ -209,7 +209,7 @@ the Department shall pay the amount received to the body to which the property, 
 - (b) the amount already paid by the Department; and
 - (c) whether that amount has been deducted, or payment to the Department or to the person who paid the relevant health services charges is required.
 
-## 9. Payments into court[^key-bbde108323face5b18cb7d826767270f]
+## 9. Payments into court[^c-bbde108323face5b18cb7d826767270f]
 
 (1) A payment into court made in respect of an injured person shall only be treated as the making of a compensation payment if it is—
 
@@ -225,7 +225,7 @@ the Department shall pay the amount received to the body to which the property, 
 
 (5) In the circumstances referred to in paragraph (1)(c), the compensation payment shall be treated as having been made on the date of the court order.
 
-## 10. Liability of insurers[^key-4c729f26dcf52417a1799087cb612f10]
+## 10. Liability of insurers[^c-4c729f26dcf52417a1799087cb612f10]
 
 Where—
 
@@ -237,7 +237,7 @@ Where—
 
 the liability imposed on the insurer by Article 16(1) shall be reduced by the same proportion as his liability for the compensation payment.
 
-## 11. Exempted payments[^key-81e6157aebd621f9daaa3e583c3902a7]
+## 11. Exempted payments[^c-81e6157aebd621f9daaa3e583c3902a7]
 
 The following payments are prescribed for the purposes of paragraph 8 of Schedule 1 (exempted payments)—
 
@@ -271,39 +271,39 @@ These Regulations make provision as to the following matters in connection with 
 
 [^f00001]: Footnote: S.I. [2006/1944 (N.I. 13)](https://www.legislation.gov.uk/nisi/2006/1944) Article 2 is cited for the definition of “prescribed”
 
-[^key-4386e03f6480389905774a8e7e6a1e6a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/536/regulation/1) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-4386e03f6480389905774a8e7e6a1e6a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/536/regulation/1) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-e70dc5f78840c573b278f693f98d747a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/2) inserted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/1)
+[^c-e70dc5f78840c573b278f693f98d747a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/2) inserted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/1)
 
-[^key-2dda859f00adab471cc7621b45a4c016]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/536/regulation/2) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-2dda859f00adab471cc7621b45a4c016]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/536/regulation/2) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-1d175c0f2fea448ffe9d97c82dfcda6d]: Textual amendment: Words in [reg. 2(1)(f)](https://www.legislation.gov.uk/nisr/2006/536/regulation/2/1/f) inserted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/2)
+[^c-1d175c0f2fea448ffe9d97c82dfcda6d]: Textual amendment: Words in [reg. 2(1)(f)](https://www.legislation.gov.uk/nisr/2006/536/regulation/2/1/f) inserted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/2)
 
-[^key-433733b5fd9005cbb88bb3898dca2231]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/536/regulation/3) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-433733b5fd9005cbb88bb3898dca2231]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/536/regulation/3) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-7abe7d0b3aff1c85154c955c24758354]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/536/regulation/4) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-7abe7d0b3aff1c85154c955c24758354]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/536/regulation/4) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-09cd04369eddc4db0dbb28878f298696]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/536/regulation/5) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-09cd04369eddc4db0dbb28878f298696]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/536/regulation/5) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-9645ec72026081075896b69e0098ca42]: Textual amendment: Word in [reg. 5(3)(f)(ii)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/3/f/ii) omitted (1.4.2009) by virtue of [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/a)
+[^c-9645ec72026081075896b69e0098ca42]: Textual amendment: Word in [reg. 5(3)(f)(ii)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/3/f/ii) omitted (1.4.2009) by virtue of [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/a)
 
-[^key-cbc66251994169c2fffdbfb5bcd5ce02]: Textual amendment: [Reg. 5(3)(h)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/3/h) and word inserted by virtue of (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/b)
+[^c-cbc66251994169c2fffdbfb5bcd5ce02]: Textual amendment: [Reg. 5(3)(h)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/3/h) and word inserted by virtue of (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/b)
 
-[^key-514b3726e53ecf8a386d022b11451330]: Textual amendment: Word in [reg. 5(4)(d)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/4/d) omitted (1.4.2009) by virtue of [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/c)
+[^c-514b3726e53ecf8a386d022b11451330]: Textual amendment: Word in [reg. 5(4)(d)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/4/d) omitted (1.4.2009) by virtue of [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/c)
 
-[^key-ccaa3827bcf919488cd16776e495a684]: Textual amendment: [Reg. 5(4)(f)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/4/f) and word inserted (1.4.2009) by virtue of [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/d)
+[^c-ccaa3827bcf919488cd16776e495a684]: Textual amendment: [Reg. 5(4)(f)](https://www.legislation.gov.uk/nisr/2006/536/regulation/5/4/f) and word inserted (1.4.2009) by virtue of [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/nisr/2009/121/schedule/2/paragraph/3/d)
 
-[^key-fb83deebcbf0496466ca9ad7f6fdc44d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/536/regulation/6) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-fb83deebcbf0496466ca9ad7f6fdc44d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/536/regulation/6) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-cbdd88fd6947a28a0a73cb05ece5757a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/536/regulation/7) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-cbdd88fd6947a28a0a73cb05ece5757a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/536/regulation/7) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-bdc455859c3b710d92b4724845a20dbe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/536/regulation/8) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-bdc455859c3b710d92b4724845a20dbe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/536/regulation/8) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-bbde108323face5b18cb7d826767270f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/536/regulation/9) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-bbde108323face5b18cb7d826767270f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/536/regulation/9) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-4c729f26dcf52417a1799087cb612f10]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/536/regulation/10) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-4c729f26dcf52417a1799087cb612f10]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/536/regulation/10) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
-[^key-81e6157aebd621f9daaa3e583c3902a7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/536/regulation/11) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
+[^c-81e6157aebd621f9daaa3e583c3902a7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/536/regulation/11) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/536/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [2002/796 (N.I. 1)](https://www.legislation.gov.uk/nisi/2002/796)
 

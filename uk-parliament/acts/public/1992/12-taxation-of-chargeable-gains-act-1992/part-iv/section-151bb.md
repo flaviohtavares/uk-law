@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151BB. CITR: rights issues etc[^key-1a17e2d036b29784c0f98e80858f9d1a]
+## 151BB. CITR: rights issues etc[^c-1a17e2d036b29784c0f98e80858f9d1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,10 +53,10 @@ In this subsection “old asset” and “the relevant transaction” have the m
 (5) In this section “the CDFI” is to be read—
 
 - (a) if the investor is an individual, in accordance with section 334(2) of ITA 2007,
-- (b) if the investor is a company, in accordance with section 219(2) of CTA 2010[^key-3ccd75c47a22e805a8505a656a5bf353].
+- (b) if the investor is a company, in accordance with section 219(2) of CTA 2010[^c-3ccd75c47a22e805a8505a656a5bf353].
 
 ## Annotations
 
-[^key-1a17e2d036b29784c0f98e80858f9d1a]: Textual amendment: S. 151BB inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 317](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/317) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-1a17e2d036b29784c0f98e80858f9d1a]: Textual amendment: S. 151BB inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 317](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/317) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-3ccd75c47a22e805a8505a656a5bf353]: Textual amendment: Words in s. 151BB(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 237](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/237) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3ccd75c47a22e805a8505a656a5bf353]: Textual amendment: Words in s. 151BB(5)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 237](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/237) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

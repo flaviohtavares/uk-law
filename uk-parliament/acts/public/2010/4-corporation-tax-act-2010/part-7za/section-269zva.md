@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZVA. Group allowance allocation statement: former groups[^key-791c8827f86adb88e2cb0b84313215ce][^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZVA. Group allowance allocation statement: former groups[^c-791c8827f86adb88e2cb0b84313215ce][^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-791c8827f86adb88e2cb0b84313215ce]: Textual amendment: S. 269ZVA inserted (with effect in accordance with [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/16) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/3) (with [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/23))
+[^c-791c8827f86adb88e2cb0b84313215ce]: Textual amendment: S. 269ZVA inserted (with effect in accordance with [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/16) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/3) (with [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/23))
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)

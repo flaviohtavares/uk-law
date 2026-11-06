@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 43. Restoration on pardon[^key-fc7471cf138bd53d324a76331a0a5b6d]
+## 43. Restoration on pardon[^c-fc7471cf138bd53d324a76331a0a5b6d]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ Where a priest, deacon, bishop or archbishop who, under this Measure or the CDM 
 
 ## Annotations
 
-[^key-fc7471cf138bd53d324a76331a0a5b6d]: Commencement: S. 43 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-fc7471cf138bd53d324a76331a0a5b6d]: Commencement: S. 43 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

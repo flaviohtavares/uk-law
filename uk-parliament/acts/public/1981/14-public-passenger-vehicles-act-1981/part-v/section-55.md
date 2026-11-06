@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S*
 
-Each traffic commissioner[^key-a62fc31c2043c96caf61cc284fb74174] shall make an annual report to the Secretary of State on his[^c2520641] proceedings containing particulars with respect to such matters as the Secretary of State may direct . . . [^c2520661].
+Each traffic commissioner[^c-a62fc31c2043c96caf61cc284fb74174] shall make an annual report to the Secretary of State on his[^c2520641] proceedings containing particulars with respect to such matters as the Secretary of State may direct . . . [^c2520661].
 
 ## Annotations
 
-[^key-a62fc31c2043c96caf61cc284fb74174]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/1981/14/section/55) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-a62fc31c2043c96caf61cc284fb74174]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/1981/14/section/55) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2520641]: Textual amendment: Word substituted by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 3(5)](https://www.legislation.gov.uk/ukpga/1985/67/section/3/5), [Sch. 2 Pt. II para. 4(15)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/2/part/II/paragraph/4/15)
 

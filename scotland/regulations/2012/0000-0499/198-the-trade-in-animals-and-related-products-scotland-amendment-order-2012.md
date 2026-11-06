@@ -87,7 +87,7 @@ This Order—
 
 ## 3. Amendment to the Bluetongue (Scotland) Order 2008
 
-[^key-7d9b597b3f7e02a46aa98509e32f0bd8]...
+[^c-7d9b597b3f7e02a46aa98509e32f0bd8]...
 
 .
 
@@ -125,4 +125,4 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c21293921]: Marginal citation: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177).
 
-[^key-7d9b597b3f7e02a46aa98509e32f0bd8]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2012/198/article/3) revoked (24.9.2012) by [The Bluetongue (Scotland) Order 2012 (S.S.I. 2012/199)](https://www.legislation.gov.uk/ssi/2012/199), [arts. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b), [34(3)](https://www.legislation.gov.uk/ssi/2012/199/article/34/3) (with [art. 8](https://www.legislation.gov.uk/ssi/2012/199/article/8))
+[^c-7d9b597b3f7e02a46aa98509e32f0bd8]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2012/198/article/3) revoked (24.9.2012) by [The Bluetongue (Scotland) Order 2012 (S.S.I. 2012/199)](https://www.legislation.gov.uk/ssi/2012/199), [arts. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b), [34(3)](https://www.legislation.gov.uk/ssi/2012/199/article/34/3) (with [art. 8](https://www.legislation.gov.uk/ssi/2012/199/article/8))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-13e648ca77a262370ce5b0154105c952] For the purposes of these Regulations, “health service scheme” means—
+(1)[^c-13e648ca77a262370ce5b0154105c952] For the purposes of these Regulations, “health service scheme” means—
 
 - (a) a superannuation scheme provided under regulations made under section 10 of the Superannuation Act 1972 and for the time being in force in relation to Scotland,
 - (b) a superannuation scheme provided under regulations for the time being in force under Article 12 of the Superannuation (Northern Ireland) Order 1972,
@@ -38,7 +38,7 @@ summary: ''
 
 (5) A member who leaves employment to which a health service scheme applied without becoming entitled to any benefits other than a return of contributions may buy additional service as described in regulation Q1 (right to buy additional service) and regulations Q4(7) and Q6(8) will apply, as the case may be, as if the previous service under a health service scheme were previous pensionable service under this Section of the Scheme[^M_F_91536419-9a22-4d56-be9e-2f05cc8925b5].
 
-(6)[^key-ec3351181845088b31c6907cd1845819] A member who leaves employment in respect of which the member qualified for benefit under a health service scheme and who joins the 2015 Scheme may, by notice in writing, require the Secretary of State to credit the member with a relevant period of pensionable service (together with the rights attaching to that service) under this Section of the scheme.
+(6)[^c-ec3351181845088b31c6907cd1845819] A member who leaves employment in respect of which the member qualified for benefit under a health service scheme and who joins the 2015 Scheme may, by notice in writing, require the Secretary of State to credit the member with a relevant period of pensionable service (together with the rights attaching to that service) under this Section of the scheme.
 
 This is subject to paragraphs (8) and (9).
 
@@ -50,7 +50,7 @@ This is subject to paragraphs (8) and (9).
 (8) The member may only exercise the right referred to in paragraph (6) if—
 
 - (a) a transfer payment is made from the health service scheme to this Section of the scheme, and
-- (b)[^key-3bb14f83ebced167c4665a89d109b137] on the day the member becomes an active member of the 2015 Scheme either—
+- (b)[^c-3bb14f83ebced167c4665a89d109b137] on the day the member becomes an active member of the 2015 Scheme either—
   - (i) paragraph 2 of Schedule 7 to the 2013 Act, or
   - (ii) paragraph 2 of Schedule 7 to the Public Service Pensions Act (Northern Ireland) 2014,
 
@@ -60,12 +60,12 @@ This is subject to paragraphs (8) and (9).
 
 ## Annotations
 
-[^key-13e648ca77a262370ce5b0154105c952]: Textual amendment: [Reg. R8(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8/1) substituted (1.4.2012) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2012 (S.I. 2012/610)](https://www.legislation.gov.uk/uksi/2012/610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/610/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2012/610/regulation/5)
+[^c-13e648ca77a262370ce5b0154105c952]: Textual amendment: [Reg. R8(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8/1) substituted (1.4.2012) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2012 (S.I. 2012/610)](https://www.legislation.gov.uk/uksi/2012/610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/610/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2012/610/regulation/5)
 
 [^M_F_8fac0adc-435f-4a2c-d9bb-59d72f88d556]: Textual amendment: Words in reg. R8(2)(3)(4) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
 [^M_F_91536419-9a22-4d56-be9e-2f05cc8925b5]: Textual amendment: Words in reg. R8(5) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/4)
 
-[^key-ec3351181845088b31c6907cd1845819]: Textual amendment: [Reg. R8(6)-(9)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8/6) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/6)
+[^c-ec3351181845088b31c6907cd1845819]: Textual amendment: [Reg. R8(6)-(9)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8/6) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/6)
 
-[^key-3bb14f83ebced167c4665a89d109b137]: Textual amendment: [Reg. R8(8)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8/8/b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [14](https://www.legislation.gov.uk/uksi/2016/245/regulation/14) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-3bb14f83ebced167c4665a89d109b137]: Textual amendment: [Reg. R8(8)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/R8/8/b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [14](https://www.legislation.gov.uk/uksi/2016/245/regulation/14) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

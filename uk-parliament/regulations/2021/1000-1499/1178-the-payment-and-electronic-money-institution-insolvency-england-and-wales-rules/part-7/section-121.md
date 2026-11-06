@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Costs of proving[^key-396821709b48935b2fa00f00bae36c31]
+## 121. Costs of proving[^c-396821709b48935b2fa00f00bae36c31]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the court otherwise orders—
 
 ## Annotations
 
-[^key-396821709b48935b2fa00f00bae36c31]: Commencement: Rule 121 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-396821709b48935b2fa00f00bae36c31]: Commencement: Rule 121 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

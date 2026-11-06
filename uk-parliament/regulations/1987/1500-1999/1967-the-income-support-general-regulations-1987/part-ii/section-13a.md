@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13A. Persons under 18 years[^key-2d748091ab4cab142ac15b11913aad08]
+## 13A. Persons under 18 years[^c-2d748091ab4cab142ac15b11913aad08]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d748091ab4cab142ac15b11913aad08]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/13A) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1), Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)
+[^c-2d748091ab4cab142ac15b11913aad08]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1987/1967/regulation/13A) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Support (General) (Jobseeker’s Allowance Consequential Amendments) Regulations 1996 (S.I. 1996/206)](https://www.legislation.gov.uk/uksi/1996/206), [reg. 1(1), Sch. 3](https://www.legislation.gov.uk/uksi/1996/206/schedule/3)

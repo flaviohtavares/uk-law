@@ -75,7 +75,7 @@ In regulation 75 (specified amount of a Class 1A contribution)—
 - (a) in paragraph (6) for “paragraph 26(1) of Schedule 4” substitute “ Schedule 36 to the Finance Act 2008 [^c1962082] (information and inspection powers) ”; and
 - (b) in paragraph (7) for “paragraph 26” substitute “ paragraph 26A ”.
 
-## 5. Amendment of regulation 87[^key-6bc873bc6ab469180317b222140063e3]
+## 5. Amendment of regulation 87[^c-6bc873bc6ab469180317b222140063e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -367,7 +367,7 @@ The impact on the costs of business and voluntary sector of the revision to the 
 
 [^c1962082]: Marginal citation: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9). Schedule 36 is brought into force on 1st April 2009 by [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404) (C. 25).
 
-[^key-6bc873bc6ab469180317b222140063e3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/600/regulation/5) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-6bc873bc6ab469180317b222140063e3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/600/regulation/5) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
 
 [^c1962083]: Marginal citation: [Regulation 1(2)](https://www.legislation.gov.uk/uksi/2009/600/regulation/1/2) of the Social Security (Contributions) Regulations 2001 defines “year” as meaning “tax year”.
 

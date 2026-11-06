@@ -31,7 +31,7 @@ summary: ''
 
 SALARIES
 
-Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2001 (revoked)[^key-e30b6af652b53cc71b98288afd013b34]
+Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2001 (revoked)[^c-e30b6af652b53cc71b98288afd013b34]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 27th September 2001
 
-[^key-e30b6af652b53cc71b98288afd013b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30b6af652b53cc71b98288afd013b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e30b6af652b53cc71b98288afd013b34]
+## 1. Title and commencement[^c-e30b6af652b53cc71b98288afd013b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-e30b6af652b53cc71b98288afd013b34]
+## 2. Revocation[^c-e30b6af652b53cc71b98288afd013b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase in salaries[^key-e30b6af652b53cc71b98288afd013b34]
+## 3. Increase in salaries[^c-e30b6af652b53cc71b98288afd013b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e30b6af652b53cc71b98288afd013b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30b6af652b53cc71b98288afd013b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e30b6af652b53cc71b98288afd013b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30b6af652b53cc71b98288afd013b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e30b6af652b53cc71b98288afd013b34]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/302) revoked (21.11.2002) by [Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2002 (revoked) 2002 (S.R. 2002/320)](https://www.legislation.gov.uk/nisr/2002/320), [arts. 1](https://www.legislation.gov.uk/nisr/2002/320/article/1), [2](https://www.legislation.gov.uk/nisr/2002/320/article/2)
+[^c-e30b6af652b53cc71b98288afd013b34]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/302) revoked (21.11.2002) by [Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2002 (revoked) 2002 (S.R. 2002/320)](https://www.legislation.gov.uk/nisr/2002/320), [arts. 1](https://www.legislation.gov.uk/nisr/2002/320/article/1), [2](https://www.legislation.gov.uk/nisr/2002/320/article/2)

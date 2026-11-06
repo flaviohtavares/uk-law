@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Use of land for non-agricultural purposes: requests for information[^key-6bb72c0958c31853fbc26482c3298451]
+## 122. Use of land for non-agricultural purposes: requests for information[^c-6bb72c0958c31853fbc26482c3298451]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bb72c0958c31853fbc26482c3298451]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2016/18/section/122) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-6bb72c0958c31853fbc26482c3298451]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2016/18/section/122) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

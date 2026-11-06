@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Exclusion of certain provision existing before commencement[^key-6cb8035505739e05cd44bd582865c9da]
+## 9. Exclusion of certain provision existing before commencement[^c-6cb8035505739e05cd44bd582865c9da]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cb8035505739e05cd44bd582865c9da]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/27/section/9) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-6cb8035505739e05cd44bd582865c9da]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/27/section/9) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

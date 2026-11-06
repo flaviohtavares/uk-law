@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 22(6), (7), (8), (9), (10), (11) and (12)[^f00001] and 105(2)(a) and (b) of the Local Government Act 2000[^f00002], make the following Regulations.
 
-## 1. Title, commencement and interpretation[^key-aaba86a309fa4e8ceceb3f5228523555]
+## 1. Title, commencement and interpretation[^c-aaba86a309fa4e8ceceb3f5228523555]
 
 (1) The title of these Regulations is the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) (Amendment) Regulations 2021.
 
@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 22(
 
 (3) In these Regulations, “the principal Regulations” means the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) Regulations 2001[^f00003].
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-152d891d2a45be6c019446cecc27dc47]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-152d891d2a45be6c019446cecc27dc47]
 
 In regulation 2 (interpretation) of the principal Regulations, at the appropriate place insert—
 
@@ -61,7 +61,7 @@ In regulation 2 (interpretation) of the principal Regulations, at the appropriat
 
 .
 
-## 3. Amendment of regulation 4 of the principal Regulations[^key-afaa0ce7014eeaf31f2f97677acf1e62]
+## 3. Amendment of regulation 4 of the principal Regulations[^c-afaa0ce7014eeaf31f2f97677acf1e62]
 
 (1) Regulation 4[^f00004] (admission of the public to meetings of local authority executives and their committees) of the principal Regulations is amended as follows.
 
@@ -82,7 +82,7 @@ In regulation 2 (interpretation) of the principal Regulations, at the appropriat
 > - (c) where the meeting is not open to the public and is held partly through remote means or is not held through remote means, give details of the time and place of the meeting and the fact that it is not open to the public;
 > - (d) where the meeting is not open to the public and is held through remote means only, give details of the time of the meeting, and the fact that it is being held through remote means only and is not open to the public.
 
-## 4. Amendment of regulation 5 of the principal Regulations[^key-5b00a94fdce13f22e29ea7583a11075f]
+## 4. Amendment of regulation 5 of the principal Regulations[^c-5b00a94fdce13f22e29ea7583a11075f]
 
 (1) Regulation 5[^f00005] (access to agenda and connected reports for public meetings) of the principal Regulations is amended as follows.
 
@@ -115,7 +115,7 @@ In regulation 2 (interpretation) of the principal Regulations, at the appropriat
 
 (8) In paragraph (8), for “Paragraph (3)” substitute “Paragraph (2)”.
 
-## 5. Amendment of regulation 6 of the principal Regulations[^key-c020cee65b1fd98378e2aa954f421aa5]
+## 5. Amendment of regulation 6 of the principal Regulations[^c-c020cee65b1fd98378e2aa954f421aa5]
 
 In regulation 6 (recording of decisions taken at meetings of local authority executives and their committees) of the principal Regulations, in paragraph (2), after sub-paragraph (b) insert—
 
@@ -123,7 +123,7 @@ In regulation 6 (recording of decisions taken at meetings of local authority exe
 
 .
 
-## 6. Amendment of regulation 7 of the principal Regulations[^key-b36139160cf0afa956841eb861a2f7e1]
+## 6. Amendment of regulation 7 of the principal Regulations[^c-b36139160cf0afa956841eb861a2f7e1]
 
 In regulation 7 (recording of executive decisions made by individuals) of the principal Regulations, in paragraph (4), after sub-paragraph (b) insert—
 
@@ -131,7 +131,7 @@ In regulation 7 (recording of executive decisions made by individuals) of the pr
 
 .
 
-## 7. Amendment of regulation 8 of the principal Regulations[^key-3fd4c164102f233d4fc8aadc2432c439]
+## 7. Amendment of regulation 8 of the principal Regulations[^c-3fd4c164102f233d4fc8aadc2432c439]
 
 (1) Regulation 8[^f00007] (inspection of documents following executive decisions) of the principal Regulations is amended as follows.
 
@@ -141,7 +141,7 @@ In regulation 7 (recording of executive decisions made by individuals) of the pr
 
 (4) In paragraph (2) for “available for public inspection” substitute “published”.
 
-## 8. Amendment of regulation 9 of the principal Regulations[^key-5e50403b664c8daf777dea91df6c0141]
+## 8. Amendment of regulation 9 of the principal Regulations[^c-5e50403b664c8daf777dea91df6c0141]
 
 (1) Regulation 9[^f00008] (inspection of background papers) of the principal Regulations is amended as follows.
 
@@ -153,7 +153,7 @@ In regulation 7 (recording of executive decisions made by individuals) of the pr
 
 > - (b) each of the documents included in that list must be published on the website of the authority as soon as is reasonably practicable but if, in the opinion of the proper officer, it is not reasonably practicable to publish on the website of the authority a document included in the list at least one copy of the document must be available for inspection by members of the public as soon as is reasonably practicable at the principal offices of the local authority.
 
-## 9. Amendment of regulation 10 of the principal Regulations[^key-0a824310bab6d9d8c3a9d5f9a3aa8a8a]
+## 9. Amendment of regulation 10 of the principal Regulations[^c-0a824310bab6d9d8c3a9d5f9a3aa8a8a]
 
 (1) Regulation 10[^f00009] (additional rights of access to documents for members of local authorities) of the principal Regulations is amended as follows.
 
@@ -164,7 +164,7 @@ In regulation 7 (recording of executive decisions made by individuals) of the pr
 
 (3) In paragraphs (2) and (2A), for “available for inspection” substitute “supplied”.
 
-## 10. Amendment of regulation 13 of the principal Regulations[^key-0930c5559b9540fb5cb7c725c1759daa]
+## 10. Amendment of regulation 13 of the principal Regulations[^c-0930c5559b9540fb5cb7c725c1759daa]
 
 (1) Regulation 13[^f00010] (supplementary provision) of the principal Regulations is amended as follows.
 
@@ -205,11 +205,11 @@ In regulation 7 (recording of executive decisions made by individuals) of the pr
 >
 > (6C) A local authority must have regard to any guidance issued by the Welsh Ministers about the exercise of their functions under these Regulations.
 
-## 11. Omission of regulation 14 of the principal Regulations[^key-db34582d2d56097e414d71b71d71fd31]
+## 11. Omission of regulation 14 of the principal Regulations[^c-db34582d2d56097e414d71b71d71fd31]
 
 Omit regulation 14[^f00011] (Part 2 offences) of the principal Regulations.
 
-## 12. Transitional provision[^key-5cd191a9c9744394ebeeb0c527e143be]
+## 12. Transitional provision[^c-5cd191a9c9744394ebeeb0c527e143be]
 
 (1) A step specified in paragraph (2) taken before 1 May 2021, in relation to a meeting held on or after that date, is to be treated as having been taken in accordance with the principal Regulations as amended by these Regulations.
 
@@ -250,46 +250,46 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). See section 22(13) for the definition of “prescribed”.
 
-[^key-aaba86a309fa4e8ceceb3f5228523555]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/357/regulation/1) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-aaba86a309fa4e8ceceb3f5228523555]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/357/regulation/1) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/2290 (W. 178)](https://www.legislation.gov.uk/wsi/2001/2290), amended by [S.I. 2002/1385 (W. 135)](https://www.legislation.gov.uk/wsi/2002/1385) and [2007/951 (W. 82)](https://www.legislation.gov.uk/wsi/2007/951), and modified by [S.I. 2020/442 (W. 100)](https://www.legislation.gov.uk/wsi/2020/442).
 
-[^key-152d891d2a45be6c019446cecc27dc47]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/357/regulation/2) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-152d891d2a45be6c019446cecc27dc47]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/357/regulation/2) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
-[^key-afaa0ce7014eeaf31f2f97677acf1e62]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/357/regulation/3) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-afaa0ce7014eeaf31f2f97677acf1e62]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/357/regulation/3) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00004]: Footnote: Regulation 4 was temporarily modified, by regulation 23(3) of the Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 ([S.I. 2020/442 (W. 100)](https://www.legislation.gov.uk/wsi/2020/442)) (“the 2020 Regulations”) in relation to meetings held between 22 April 2020 and the end of 30 April 2021.
 
-[^key-5b00a94fdce13f22e29ea7583a11075f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/357/regulation/4) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-5b00a94fdce13f22e29ea7583a11075f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/357/regulation/4) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 5 was temporarily modified by regulation 23(4) of the 2020 Regulations in relation to in relation to meetings held between 22 April 2020 and the end of 30 April 2021.
 
 [^f00006]: Footnote: Paragraph (4) was substituted by regulation 2(2) of the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) (Amendment) Regulations 2002 ([S.I. 2002/1385 (W. 135)](https://www.legislation.gov.uk/wsi/2002/1385)).
 
-[^key-c020cee65b1fd98378e2aa954f421aa5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/357/regulation/5) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-c020cee65b1fd98378e2aa954f421aa5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/357/regulation/5) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
-[^key-b36139160cf0afa956841eb861a2f7e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/357/regulation/6) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-b36139160cf0afa956841eb861a2f7e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/357/regulation/6) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
-[^key-3fd4c164102f233d4fc8aadc2432c439]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/357/regulation/7) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-3fd4c164102f233d4fc8aadc2432c439]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/357/regulation/7) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 8 was temporarily modified by regulation 23(5) of the 2020 Regulations in relation to meetings held, and executive decisions taken, between 22 April 2020 and the end of 30 April 2021.
 
-[^key-5e50403b664c8daf777dea91df6c0141]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/357/regulation/8) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-5e50403b664c8daf777dea91df6c0141]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/357/regulation/8) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00008]: Footnote: Regulation 9 was temporarily modified by regulation 23(6) of the 2020 Regulations in relation to meetings held, and executive decisions taken, between 22 April 2020 and the end of 30 April 2021 so that it was to be read as if it were omitted.
 
-[^key-0a824310bab6d9d8c3a9d5f9a3aa8a8a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/357/regulation/9) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-0a824310bab6d9d8c3a9d5f9a3aa8a8a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/357/regulation/9) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00009]: Footnote: Regulation 10 was temporarily modified, by regulation 23(7) of the 2020 Regulations, in relation to meetings held, and executive decisions taken, between 22 April 2020 and the end of 30 April 2021.
 
-[^key-0930c5559b9540fb5cb7c725c1759daa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/357/regulation/10) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-0930c5559b9540fb5cb7c725c1759daa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/357/regulation/10) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 13 was temporarily modified by regulation 23(8) of the 2020 Regulations, in relation to meetings held, and executive decisions taken, between 22 April 2020 and the end of 30 April 2021.
 
-[^key-db34582d2d56097e414d71b71d71fd31]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/357/regulation/11) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-db34582d2d56097e414d71b71d71fd31]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/357/regulation/11) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00011]: Footnote: Regulation 14 was temporarily modified by regulation 23(5) of the 2020 Regulations so that it was to be read as if it were omitted.
 
-[^key-5cd191a9c9744394ebeeb0c527e143be]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/357/regulation/12) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
+[^c-5cd191a9c9744394ebeeb0c527e143be]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/357/regulation/12) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/357/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2020/442 (W. 100)](https://www.legislation.gov.uk/wsi/2020/442).

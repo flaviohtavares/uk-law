@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Effect of certificates by Secretary of State[^key-b25dbbdc523816695c9c5109e00b25f9]
+## 30. Effect of certificates by Secretary of State[^c-b25dbbdc523816695c9c5109e00b25f9]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ the certificate shall be conclusive evidence of the matters certified by it.
 
 ## Annotations
 
-[^key-b25dbbdc523816695c9c5109e00b25f9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/261/regulation/30) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-b25dbbdc523816695c9c5109e00b25f9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/261/regulation/30) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00023]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)

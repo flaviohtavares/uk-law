@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Child criminal exploitation prevention orders: Scotland and Northern Ireland[^key-86f16a8c364192826453fd8f83a38693]
+## 64. Child criminal exploitation prevention orders: Scotland and Northern Ireland[^c-86f16a8c364192826453fd8f83a38693]
 
 *Extent: S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86f16a8c364192826453fd8f83a38693]: Commencement: S. 64 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(e)(10)(c)
+[^c-86f16a8c364192826453fd8f83a38693]: Commencement: S. 64 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(e)(10)(c)

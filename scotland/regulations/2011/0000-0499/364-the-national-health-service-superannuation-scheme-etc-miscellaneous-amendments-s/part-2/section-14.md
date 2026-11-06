@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Amendment of Schedule 1[^key-2cba186c29e50cd3823a200707662c15]
+## 14. Amendment of Schedule 1[^c-2cba186c29e50cd3823a200707662c15]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ In Schedule 1 (medical and dental practitioners)—
 
 ## Annotations
 
-[^key-2cba186c29e50cd3823a200707662c15]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/364/regulation/14) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-2cba186c29e50cd3823a200707662c15]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/364/regulation/14) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
 
 [^f00005]: Footnote: [S.S.I 2010/208](https://www.legislation.gov.uk/ssi/2010/208).

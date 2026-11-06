@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Subsequent mergers[^M_I_f8fd1dfe-4f07-409d-f793-1cce068c0f3d][^key-9eaba4fab0f3a22111507ebc7b2001a6]
+## 66. Subsequent mergers[^M_I_f8fd1dfe-4f07-409d-f793-1cce068c0f3d][^c-9eaba4fab0f3a22111507ebc7b2001a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_f8fd1dfe-4f07-409d-f793-1cce068c0f3d]: Commencement: S. 66 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9eaba4fab0f3a22111507ebc7b2001a6]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/30/section/66) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9eaba4fab0f3a22111507ebc7b2001a6]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/30/section/66) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

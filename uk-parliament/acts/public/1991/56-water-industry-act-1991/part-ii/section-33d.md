@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33D. Undertakings in lieu of a merger reference[^key-fe8edf04dc2d38fe6e4a96509602fafe]
+## 33D. Undertakings in lieu of a merger reference[^c-fe8edf04dc2d38fe6e4a96509602fafe]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8edf04dc2d38fe6e4a96509602fafe]: Textual amendment: [S. 33D](https://www.legislation.gov.uk/ukpga/1991/56/section/33D) inserted (18.12.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/3), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)
+[^c-fe8edf04dc2d38fe6e4a96509602fafe]: Textual amendment: [S. 33D](https://www.legislation.gov.uk/ukpga/1991/56/section/33D) inserted (18.12.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/3), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)

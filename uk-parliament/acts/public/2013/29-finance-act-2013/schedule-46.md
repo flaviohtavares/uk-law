@@ -405,19 +405,19 @@ Section 219
 
 **68.** (1) In section 858 (declarations of non-UK residence: individuals)—
 
-- (a)[^key-53ed527c82bfe624101541562f226be4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-53ed527c82bfe624101541562f226be4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (4), omit “ordinarily”.
 
 (2) The amendments made by this paragraph apply to the making of declarations on or after 6 April 2014, and any declarations made before that date continue to have effect in respect of interest paid on or after that date as if those amendments had not been made.
 
 **69.** (1) In section 859 (declarations of non-UK residence: Scottish partnerships)—
 
-- (a)[^key-859a571ec2ac01f39c79018a0e53bb04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-859a571ec2ac01f39c79018a0e53bb04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (4), omit “ordinarily”.
 
 (2) The amendments made by this paragraph apply to the making of declarations on or after 6 April 2014, and any declarations made before that date continue to have effect in respect of interest paid on or after that date as if those amendments had not been made.
 
-**70.** (1)[^key-f4bd06473bd6f7b904031a5317409f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.** (1)[^c-f4bd06473bd6f7b904031a5317409f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The amendment made by this paragraph applies only if the deceased died on or after 6 April 2014.
 
@@ -427,8 +427,8 @@ Section 219
 
 (3) In subsection (4)—
 
-- (a) in paragraphs (b) and (d), omit “ordinarily”, [^key-053ec00eb9e0421cb6946d433ec6bf0c]...
-- (b)[^key-053ec00eb9e0421cb6946d433ec6bf0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in paragraphs (b) and (d), omit “ordinarily”, [^c-053ec00eb9e0421cb6946d433ec6bf0c]...
+- (b)[^c-053ec00eb9e0421cb6946d433ec6bf0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The amendments made by this paragraph apply to the making of declarations on or after 6 April 2014, and any declarations made before that date continue to have effect in respect of interest paid on or after that date as if those amendments had not been made.
 
@@ -877,10 +877,10 @@ Section 219
 
 ## Annotations
 
-[^key-53ed527c82bfe624101541562f226be4]: Textual amendment: Sch. 46 para. 68(1)(a) omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(i)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/i)
+[^c-53ed527c82bfe624101541562f226be4]: Textual amendment: Sch. 46 para. 68(1)(a) omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(i)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/i)
 
-[^key-859a571ec2ac01f39c79018a0e53bb04]: Textual amendment: Sch. 46 para. 69(1)(a) omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(ii)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/ii)
+[^c-859a571ec2ac01f39c79018a0e53bb04]: Textual amendment: Sch. 46 para. 69(1)(a) omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(ii)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/ii)
 
-[^key-f4bd06473bd6f7b904031a5317409f5a]: Textual amendment: Sch. 46 para. 70(1) omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(iii)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/iii)
+[^c-f4bd06473bd6f7b904031a5317409f5a]: Textual amendment: Sch. 46 para. 70(1) omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(iii)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/iii)
 
-[^key-053ec00eb9e0421cb6946d433ec6bf0c]: Textual amendment: Sch. 46 para. 71(3)(b) and word omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(iv)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/iv)
+[^c-053ec00eb9e0421cb6946d433ec6bf0c]: Textual amendment: Sch. 46 para. 71(3)(b) and word omitted (15.9.2016) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 25(c)(iv)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/25/c/iv)

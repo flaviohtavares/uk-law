@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Adjustment of provisional amount[^key-8acc05ff6b813411ec50992f0ff70414]
+## 49. Adjustment of provisional amount[^c-8acc05ff6b813411ec50992f0ff70414]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8acc05ff6b813411ec50992f0ff70414]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2014/290/regulation/49) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-8acc05ff6b813411ec50992f0ff70414]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2014/290/regulation/49) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

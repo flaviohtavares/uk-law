@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Activities specified as designated activities for purposes of FSMA 2000[^key-4f532cca16b2bca89cfbaa30726bcef1]
+## 4. Activities specified as designated activities for purposes of FSMA 2000[^c-4f532cca16b2bca89cfbaa30726bcef1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f532cca16b2bca89cfbaa30726bcef1]: Commencement: Reg. 4 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/b)
+[^c-4f532cca16b2bca89cfbaa30726bcef1]: Commencement: Reg. 4 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/b)
 
 [^f00025]: Footnote: Inserted by section 8(2) of the Financial Services and Markets Act 2023.

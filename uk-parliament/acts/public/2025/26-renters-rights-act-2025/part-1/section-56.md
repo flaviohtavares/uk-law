@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Requirement to state rent and to avoid rental bidding[^key-fac95fed63223a0a4d042447f67e8434][^key-934249ffdf45424ee890ce73631746da]
+## 56. Requirement to state rent and to avoid rental bidding[^c-fac95fed63223a0a4d042447f67e8434][^c-934249ffdf45424ee890ce73631746da]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ in any written advertisement for, or written offer of, the proposed letting.
 
 ## Annotations
 
-[^key-fac95fed63223a0a4d042447f67e8434]: Commencement: S. 56 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-fac95fed63223a0a4d042447f67e8434]: Commencement: S. 56 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-934249ffdf45424ee890ce73631746da]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/26/section/56) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/c)
+[^c-934249ffdf45424ee890ce73631746da]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2025/26/section/56) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/c)

@@ -44,7 +44,7 @@ Section 49.
 
 ### Adoption (Scotland) Act 1978 (c. 28. )
 
-**6.**[^key-b10a07eb7dfa825f4f739baa0fd58d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b10a07eb7dfa825f4f739baa0fd58d38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adoption (Northern Ireland) Order 1987 (S. I. 1987/2203 (N. I. 22))
 
@@ -74,7 +74,7 @@ Section 49.
 
 [^c271765]: Commencement: Schedule 4 para. 5 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 
-[^key-b10a07eb7dfa825f4f739baa0fd58d38]: Textual amendment: Sch. 4 para. 6 repealed (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-b10a07eb7dfa825f4f739baa0fd58d38]: Textual amendment: Sch. 4 para. 6 repealed (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
 [^c271767]: Commencement: Schedule 4 para. 7 wholly in force at 1.8.1991 see s. 49(2) and [S.I. 1991/1400](https://www.legislation.gov.uk/uksi/1991/1400), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/1400/article/2/2)
 

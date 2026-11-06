@@ -37,7 +37,7 @@ the licensing authority shall notify the applicant or holder accordingly.
 
 **3.** Any notification given under paragraph 2 shall include a statement of the proposals of the licensing authority and of the reasons for them.
 
-**4.**[^key-c4f483489060d8d0745c35ea43fd97f0] (1) Subject to sub-paragraph (2), the applicant or holder to whom notice is given under paragraph 2 may, within the time allowed after the notification was given—
+**4.**[^c-c4f483489060d8d0745c35ea43fd97f0] (1) Subject to sub-paragraph (2), the applicant or holder to whom notice is given under paragraph 2 may, within the time allowed after the notification was given—
 
 - (a) notify the licensing authority that he wishes to appear before and be heard by a person appointed by the licensing authority with respect to the decision; or
 - (b) make representations in writing to the licensing authority with respect to the decision referred to in the notice.
@@ -58,14 +58,14 @@ as the case may be.
 (2) The person appointed—
 
 - (a) shall not be, or at any time have been, a member of—
-  - (i) the Commission on Human Medicines,[^key-cc6352a0aa4808007b0c4201d0c3b1d0]
+  - (i) the Commission on Human Medicines,[^c-cc6352a0aa4808007b0c4201d0c3b1d0]
   - (ii) an expert committee appointed by the licensing authority,
   - (iii) an expert advisory group within the meaning of regulation 14 of the 2012 Regulations,
   - (iv) the British Pharmacopoeia Commission referred to in regulation 11 of the 2012 Regulations, or any of its sub-committees,
   - (v) the Medicines Commission formerly established under section 2 of the Act, or any of its committees,
   - (vi) the Advisory Board on the Registration of Homoeopathic Products formerly established under section 4 of the Act, or any of its sub-committees, or
   - (vii) the Herbal Medicines Advisory Committee formerly established under section 4 of the Act, or any of its sub-committees, and
-- (b) shall not be an officer or servant of a Minister of the Crown , the Scottish Ministers, the Welsh Ministers or a Northern Ireland Minister[^key-6ae622c782865107ab22e349c07fea9b].
+- (b) shall not be an officer or servant of a Minister of the Crown , the Scottish Ministers, the Welsh Ministers or a Northern Ireland Minister[^c-6ae622c782865107ab22e349c07fea9b].
 
 (3) Subject to sub-paragraph (4), the applicant or holder shall provide the person appointed with—
 
@@ -103,8 +103,8 @@ before the end of the period of three months beginning with the date of the noti
 
 ## Annotations
 
-[^key-c4f483489060d8d0745c35ea43fd97f0]: Textual amendment: Sch. 8 paras. 4, 5 substituted (30.10.2005) by [The Medicines (Advisory Bodies) (No. 2) Regulations 2005 (S.I. 2005/2754)](https://www.legislation.gov.uk/uksi/2005/2754), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/2754/regulation/1/2/b), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2005/2754/schedule/3/paragraph/6)
+[^c-c4f483489060d8d0745c35ea43fd97f0]: Textual amendment: Sch. 8 paras. 4, 5 substituted (30.10.2005) by [The Medicines (Advisory Bodies) (No. 2) Regulations 2005 (S.I. 2005/2754)](https://www.legislation.gov.uk/uksi/2005/2754), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/2754/regulation/1/2/b), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2005/2754/schedule/3/paragraph/6)
 
-[^key-cc6352a0aa4808007b0c4201d0c3b1d0]: Textual amendment: Sch. 8 para. 5(2)(a)(i)-(vii) substituted for Sch. 8 para. 5(2)(a)(i)-(iii) (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 63(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/63/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-cc6352a0aa4808007b0c4201d0c3b1d0]: Textual amendment: Sch. 8 para. 5(2)(a)(i)-(vii) substituted for Sch. 8 para. 5(2)(a)(i)-(iii) (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 63(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/63/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-6ae622c782865107ab22e349c07fea9b]: Textual amendment: Words in Sch. 8 para. 5(2)(b) inserted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 63(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/63/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-6ae622c782865107ab22e349c07fea9b]: Textual amendment: Words in Sch. 8 para. 5(2)(b) inserted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 63(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/63/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

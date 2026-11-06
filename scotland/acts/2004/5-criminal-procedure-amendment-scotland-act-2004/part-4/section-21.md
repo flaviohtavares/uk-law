@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Increase in extended sentence which may be passed by sheriff court in certain cases[^key-df450a819cfaebc9aa20508e76c2bf72]
+## 21. Increase in extended sentence which may be passed by sheriff court in certain cases[^c-df450a819cfaebc9aa20508e76c2bf72]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 210A(6) of the 1995 Act (which provides for the maximum extended sent
 
 ## Annotations
 
-[^key-df450a819cfaebc9aa20508e76c2bf72]: Commencement: S. 21 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-df450a819cfaebc9aa20508e76c2bf72]: Commencement: S. 21 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

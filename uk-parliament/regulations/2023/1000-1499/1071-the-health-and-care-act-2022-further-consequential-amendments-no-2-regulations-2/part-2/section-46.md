@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendment of the Medical Profession (Responsible Officers) Regulations 2010[^key-e0e3bc65cd4db261af224954b55fcc54]
+## 46. Amendment of the Medical Profession (Responsible Officers) Regulations 2010[^c-e0e3bc65cd4db261af224954b55fcc54]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e3bc65cd4db261af224954b55fcc54]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2023/1071/regulation/46) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-e0e3bc65cd4db261af224954b55fcc54]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2023/1071/regulation/46) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841), amended by [S.I. 2013/391](https://www.legislation.gov.uk/uksi/2013/391); there are other amending instruments but none is relevant.

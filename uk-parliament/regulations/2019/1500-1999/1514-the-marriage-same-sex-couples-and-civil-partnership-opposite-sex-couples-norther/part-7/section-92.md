@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^key-3c45e930f3c85be21009579656e97daa]
+## 92. Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^c-3c45e930f3c85be21009579656e97daa]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In the Occupational Pension Schemes (Scheme Administration) Regulations (Norther
 
 ## Annotations
 
-[^key-3c45e930f3c85be21009579656e97daa]: Commencement: Reg. 92 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-3c45e930f3c85be21009579656e97daa]: Commencement: Reg. 92 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00153]: Footnote: [S.R. (N.I.) 1997/94](https://www.legislation.gov.uk/nisr/1997/94). Regulation 7(d) was inserted by [S.R. (N.I.) 1997/162](https://www.legislation.gov.uk/nisr/1997/162).

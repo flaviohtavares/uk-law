@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Licensing criteria[^key-1673b7f2a575ff3fa1ee32e0ec710d5e][^key-7bcba7411ee62246f751031faf100585]
+## 62. Licensing criteria[^c-1673b7f2a575ff3fa1ee32e0ec710d5e][^c-7bcba7411ee62246f751031faf100585]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1673b7f2a575ff3fa1ee32e0ec710d5e]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2017/2/section/62) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/c)
+[^c-1673b7f2a575ff3fa1ee32e0ec710d5e]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2017/2/section/62) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/c)
 
-[^key-7bcba7411ee62246f751031faf100585]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2017/2/section/62) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(f)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/f) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-7bcba7411ee62246f751031faf100585]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2017/2/section/62) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(f)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/f) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where an order under subsection (3)(a) of that section confers any functions on an urban development corporation in relation to any area the corporation shall have those functions in place of any authority (except the Secretary of State) who would otherwise have them in that area.
 
-(3)[^key-ec7e847c654e84866ee8127737bee9d8] This section is subject to section 8A.
+(3)[^c-ec7e847c654e84866ee8127737bee9d8] This section is subject to section 8A.
 
 ## Annotations
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c14016371]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
-[^key-ec7e847c654e84866ee8127737bee9d8]: Textual amendment: S. 7(3) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/2/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-ec7e847c654e84866ee8127737bee9d8]: Textual amendment: S. 7(3) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/2/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)

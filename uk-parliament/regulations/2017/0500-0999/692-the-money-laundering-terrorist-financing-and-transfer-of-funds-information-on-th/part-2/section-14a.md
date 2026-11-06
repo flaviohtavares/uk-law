@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Cryptoasset exchange providers and custodian wallet providers[^key-21127ec4e475aaab7f7049fa401bbccf]
+## 14A. Cryptoasset exchange providers and custodian wallet providers[^c-21127ec4e475aaab7f7049fa401bbccf]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ when providing such services.
 
 ## Annotations
 
-[^key-21127ec4e475aaab7f7049fa401bbccf]: Textual amendment: Reg. 14A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/7)
+[^c-21127ec4e475aaab7f7049fa401bbccf]: Textual amendment: Reg. 14A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/7)

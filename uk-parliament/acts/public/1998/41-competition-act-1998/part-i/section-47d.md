@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47D. Proceedings under section 47A or collective proceedings: injunctions etc.[^key-424f4e2840d6d1f43d52fcef72ce850c][^key-66a944493144eadaaf856db0a65c35c8][^key-bf1a8eef7a6eb8e02985f33da985f18d]
+## 47D. Proceedings under section 47A or collective proceedings: injunctions etc.[^c-424f4e2840d6d1f43d52fcef72ce850c][^c-66a944493144eadaaf856db0a65c35c8][^c-bf1a8eef7a6eb8e02985f33da985f18d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-424f4e2840d6d1f43d52fcef72ce850c]: Modification: Ss. 46-49 applied in part (31.10.2023) by [The Transport (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2023 (S.I. 2023/80)](https://www.legislation.gov.uk/uksi/2023/80), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/80/article/1/3), [22](https://www.legislation.gov.uk/uksi/2023/80/article/22)
+[^c-424f4e2840d6d1f43d52fcef72ce850c]: Modification: Ss. 46-49 applied in part (31.10.2023) by [The Transport (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2023 (S.I. 2023/80)](https://www.legislation.gov.uk/uksi/2023/80), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/80/article/1/3), [22](https://www.legislation.gov.uk/uksi/2023/80/article/22)
 
-[^key-66a944493144eadaaf856db0a65c35c8]: Textual amendment: S. 47D inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/7); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-66a944493144eadaaf856db0a65c35c8]: Textual amendment: S. 47D inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/7); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-bf1a8eef7a6eb8e02985f33da985f18d]: Textual amendment: S. 47B substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 5(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/1) (with [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)

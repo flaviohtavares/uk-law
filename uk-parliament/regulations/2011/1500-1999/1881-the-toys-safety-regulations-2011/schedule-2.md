@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — PARTICULAR SAFETY REQUIREMENTS (Annex II to the Directive)[^key-ba5d96504e6e6e33be830a43d095f45d]
+## SCHEDULE 2 — PARTICULAR SAFETY REQUIREMENTS (Annex II to the Directive)[^c-ba5d96504e6e6e33be830a43d095f45d]
 
 *Extent: E+W+S*
 
@@ -170,7 +170,7 @@ The maximum design speed of electrically driven ride-on toys must be limited so 
 | (53) | Isoeugenol | 97-54-1 |
 | (54) | Oakmoss extracts | 90028-68-5 |
 | (55) | Treemoss extracts | 90028-67-4 |
-| (56)[^key-4328480d07f085b6015e3b5b7c5fdace] | Atranol (2,6-Dihydroxy-4-methyl-benzaldehyde) | 526-37-4 |
+| (56)[^c-4328480d07f085b6015e3b5b7c5fdace] | Atranol (2,6-Dihydroxy-4-methyl-benzaldehyde) | 526-37-4 |
 | (57) | Chloroatranol (3-Chloro-2,6-Dihydroxy-4-methyl-benzaldehyde) | 57074-21-2 |
 | (58) | Methyl heptine carbonate | 111-12-6 |
 
@@ -189,7 +189,7 @@ In addition, the names of the following allergenic fragrances must be listed on 
 | (7) | Lilial | 80-54-6 |
 | (8) | d-Limonene | 5989-27-5 |
 | (9) | Linalool | 78-70-6 |
-| [^key-5343fc20746d386cfb1105e67e996541]. . . | [^key-5343fc20746d386cfb1105e67e996541]. . . | [^key-5343fc20746d386cfb1105e67e996541]. . . |
+| [^c-5343fc20746d386cfb1105e67e996541]. . . | [^c-5343fc20746d386cfb1105e67e996541]. . . | [^c-5343fc20746d386cfb1105e67e996541]. . . |
 | (11) | 3-methyl-4-(2.6,6-trimethyl-2-cyclohexen-1-yl)-3-buten-2-one | 127-51-5 |
 
 **12.** The use of the fragrances set out in points 41 to 55 of the list set out in the first paragraph of point 11 and of the fragrances set out in points 1 to 11 of the list set out in the third paragraph of that point are allowed in olfactory board games, cosmetic kits and gustative games, provided that
@@ -228,7 +228,7 @@ Such olfactory board games, cosmetic kits and gustative games must not be used b
 </tbody>
 </table>
 
-[^key-980fc369ab89d4b88c494bfc99b161e5]
+[^c-980fc369ab89d4b88c494bfc99b161e5]
 
 These limit values do not apply to toys or components of toys which, due to their accessibility, function, volume or mass, clearly exclude any hazard due to sucking, licking, swallowing or prolonged contact with skin when used as intended or in a foreseeable way, bearing in mind the behaviour of children.
 
@@ -262,7 +262,7 @@ Internal voltages must not exceed 24 volts DC or the equivalent AC voltage unles
 
 ### Part 6 — Radioactivity
 
-Toys must comply with all assimilated[^key-4e2d91578f5850f1e86bba73eb52cda4] law that was adopted for the purposes of implementing Chapter 3 of Euratom.
+Toys must comply with all assimilated[^c-4e2d91578f5850f1e86bba73eb52cda4] law that was adopted for the purposes of implementing Chapter 3 of Euratom.
 
 Appendix A
 
@@ -340,18 +340,18 @@ Specific limit values for chemicals used in toys intended for use by children un
 </tbody>
 </table>
 
-[^key-2fd8d74c2926a62a00f39c8bcd6905d1]
+[^c-2fd8d74c2926a62a00f39c8bcd6905d1]
 
 ## Annotations
 
-[^key-ba5d96504e6e6e33be830a43d095f45d]: Textual amendment: [Schs. 1-7](https://www.legislation.gov.uk/uksi/2011/1881/schedule/1) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 43](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/43) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba5d96504e6e6e33be830a43d095f45d]: Textual amendment: [Schs. 1-7](https://www.legislation.gov.uk/uksi/2011/1881/schedule/1) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 43](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/43) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4328480d07f085b6015e3b5b7c5fdace]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/3) table inserted (15.10.2022) by [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/3/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/1))
+[^c-4328480d07f085b6015e3b5b7c5fdace]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/3) table inserted (15.10.2022) by [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/3/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/1))
 
-[^key-5343fc20746d386cfb1105e67e996541]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/3) table omitted (15.10.2022) by virtue of [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/3/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/1))
+[^c-5343fc20746d386cfb1105e67e996541]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/3) table omitted (15.10.2022) by virtue of [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/3/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/1))
 
-[^key-980fc369ab89d4b88c494bfc99b161e5]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/3) table substituted (15.12.2022) by [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/3/c) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/2))
+[^c-980fc369ab89d4b88c494bfc99b161e5]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/3) table substituted (15.12.2022) by [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/3/c) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/2))
 
-[^key-4e2d91578f5850f1e86bba73eb52cda4]: Textual amendment: Word in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/7/2/b)
+[^c-4e2d91578f5850f1e86bba73eb52cda4]: Textual amendment: Word in [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/part/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/7/2/b)
 
-[^key-2fd8d74c2926a62a00f39c8bcd6905d1]: Textual amendment: Words in [Sch. 2 Appendix C](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/appendix/C) table inserted (15.12.2022) by [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/2))
+[^c-2fd8d74c2926a62a00f39c8bcd6905d1]: Textual amendment: Words in [Sch. 2 Appendix C](https://www.legislation.gov.uk/uksi/2011/1881/schedule/2/appendix/C) table inserted (15.12.2022) by [The Toys and Cosmetic Products (Restriction of Chemical Substances) Regulations 2022 (S.I. 2022/659)](https://www.legislation.gov.uk/uksi/2022/659), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/659/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2022/659/regulation/2/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/659/regulation/4/2))

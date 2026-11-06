@@ -39,25 +39,25 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-b61971bb1bcbfcea4f3be62cec2847d9]
+## 1. Citation[^c-b61971bb1bcbfcea4f3be62cec2847d9]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No.2) Order 2013.
 
-## 2. Interpretation[^key-d023d6283f06bfb2ba4d3d271743ccb3]
+## 2. Interpretation[^c-d023d6283f06bfb2ba4d3d271743ccb3]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-d2fdbbe6c389e1cbab24d6faf82e04ba]
+## 3. Designation of schools[^c-d2fdbbe6c389e1cbab24d6faf82e04ba]
 
 (1) The schools listed in column (1) of Schedule 1 are designated as schools having a religious character.
 
 (2) The relevant religion or religious denomination in relation to a school listed in column (1) of Schedule 1 is specified in relation to that school in column (2).
 
-## 4. Revocation[^key-22f89ca86e5d5a52c174245f838c802f]
+## 4. Revocation[^c-22f89ca86e5d5a52c174245f838c802f]
 
 The instrument listed in column (1) of Schedule 2 (which has the reference listed in column (2)) is revoked to the extent indicated in column (3).
 
-## 5. Amendments[^key-5ebb025511ec4e78535a0a3996389e72]
+## 5. Amendments[^c-5ebb025511ec4e78535a0a3996389e72]
 
 (1) Schedule 1 (Schools having a religious character) to the Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2013[^f00004] is amended in accordance with the following provisions of this article.
 
@@ -87,7 +87,7 @@ Department for Education
 
 5th November 2013
 
-## SCHEDULE 1 — Schools having a religious character[^key-6541ebbdefbe93802cdb7c2c79f2d4cf]
+## SCHEDULE 1 — Schools having a religious character[^c-6541ebbdefbe93802cdb7c2c79f2d4cf]
 
 Article 3
 
@@ -95,10 +95,10 @@ Article 3
 | --- | --- |
 | **Barnet**<br>Ohel Torah, NW11 9QA<br>St Andrew the Apostle Greek Orthodox School, N11 1NP | Judaism<br>Greek Orthodoxy |
 | **Bolton**<br>The Olive Tree Primary School Bolton, BL3 3NS | Hanafi Deobandism |
-| **Brighton and Hove**<br>King’s School, BN3 8BN[^key-834394cf34a5cceae839fbed2e9aebcc] | Christianity |
+| **Brighton and Hove**<br>King’s School, BN3 8BN[^c-834394cf34a5cceae839fbed2e9aebcc] | Christianity |
 | **Dorset**<br>Leweston Prep School, DT9 6EN<br>Leweston School, DT9 6EN | Catholicism<br>Catholicism |
 | **Hillingdon**<br>Nanaksar Primary School, UB4 0LT | Sikhism |
-| **South Gloucestershire**<br>Immanuel Christian School, BS37 8QG | Church of England[^key-09921f39ed0dff6d2b918bcbfdcb2b03] |
+| **South Gloucestershire**<br>Immanuel Christian School, BS37 8QG | Church of England[^c-09921f39ed0dff6d2b918bcbfdcb2b03] |
 |  |  |
 |  |  |
 |  |  |
@@ -116,7 +116,7 @@ Article 3
 |  |  |
 |  |  |
 
-## SCHEDULE 2 — Revocation[^key-609303a75af638233db117af620b50a6]
+## SCHEDULE 2 — Revocation[^c-609303a75af638233db117af620b50a6]
 
 Article 4
 
@@ -146,22 +146,22 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-b61971bb1bcbfcea4f3be62cec2847d9]: Commencement: Art. 1 in force at made date
+[^c-b61971bb1bcbfcea4f3be62cec2847d9]: Commencement: Art. 1 in force at made date
 
-[^key-d023d6283f06bfb2ba4d3d271743ccb3]: Commencement: Art. 2 in force at made date
+[^c-d023d6283f06bfb2ba4d3d271743ccb3]: Commencement: Art. 2 in force at made date
 
-[^key-d2fdbbe6c389e1cbab24d6faf82e04ba]: Commencement: Art. 3 in force at made date
+[^c-d2fdbbe6c389e1cbab24d6faf82e04ba]: Commencement: Art. 3 in force at made date
 
-[^key-22f89ca86e5d5a52c174245f838c802f]: Commencement: Art. 4 in force at made date
+[^c-22f89ca86e5d5a52c174245f838c802f]: Commencement: Art. 4 in force at made date
 
-[^key-5ebb025511ec4e78535a0a3996389e72]: Commencement: Art. 5 in force at made date
+[^c-5ebb025511ec4e78535a0a3996389e72]: Commencement: Art. 5 in force at made date
 
 [^f00004]: Footnote: [S.I. 2013/2162](https://www.legislation.gov.uk/uksi/2013/2162).
 
-[^key-6541ebbdefbe93802cdb7c2c79f2d4cf]: Commencement: Sch. 1 in force at made date
+[^c-6541ebbdefbe93802cdb7c2c79f2d4cf]: Commencement: Sch. 1 in force at made date
 
-[^key-834394cf34a5cceae839fbed2e9aebcc]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2867/schedule/1) substituted (26.3.2024) by [The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/427/article/3/2/a)
+[^c-834394cf34a5cceae839fbed2e9aebcc]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2867/schedule/1) substituted (26.3.2024) by [The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/427/article/3/2/a)
 
-[^key-09921f39ed0dff6d2b918bcbfdcb2b03]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2867/schedule/1) substituted (26.3.2024) by [The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/427/article/3/2/b)
+[^c-09921f39ed0dff6d2b918bcbfdcb2b03]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2867/schedule/1) substituted (26.3.2024) by [The Designation of Schools Having a Religious Character (England) (Amendment and Revocations) Order 2024 (S.I. 2024/427)](https://www.legislation.gov.uk/uksi/2024/427), [arts. 1](https://www.legislation.gov.uk/uksi/2024/427/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/427/article/3/2/b)
 
-[^key-609303a75af638233db117af620b50a6]: Commencement: Sch. 2 in force at made date
+[^c-609303a75af638233db117af620b50a6]: Commencement: Sch. 2 in force at made date

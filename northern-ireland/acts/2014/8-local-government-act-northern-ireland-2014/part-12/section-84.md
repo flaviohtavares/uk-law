@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Improvement: general duty[^key-94ca71e93b7052e6123328f49fce142a][^key-994c48aa1a5bfdd3e65b21075a628a4c]
+## 84. Improvement: general duty[^c-94ca71e93b7052e6123328f49fce142a][^c-994c48aa1a5bfdd3e65b21075a628a4c]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94ca71e93b7052e6123328f49fce142a]: Commencement: S. 84 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-94ca71e93b7052e6123328f49fce142a]: Commencement: S. 84 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-994c48aa1a5bfdd3e65b21075a628a4c]: Modification: S. 84 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1)[reg. 7](https://www.legislation.gov.uk/nisr/2015/183/regulation/7)
+[^c-994c48aa1a5bfdd3e65b21075a628a4c]: Modification: S. 84 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1)[reg. 7](https://www.legislation.gov.uk/nisr/2015/183/regulation/7)

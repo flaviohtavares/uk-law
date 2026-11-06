@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554OA. Exclusions: transfer of employment-related loans[^key-aaa45bdd6780ac3cfab784896e2d7f5e][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554OA. Exclusions: transfer of employment-related loans[^c-aaa45bdd6780ac3cfab784896e2d7f5e][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,12 +47,12 @@ does not exceed the amount specified at the end of section 180(2) (normal thresh
 - (a) “**employment-related loan**” has the same meaning as it has for the purposes of Chapter 7 of Part 3;
 - (b) “**relevant tax year**” means the tax year in which the relevant step is taken.
 
-(6)[^key-ec3b2e6d2269433cb09115cafd04c879] See paragraph 27 of Schedule 11 to F(No. 2)A 2017 for provision about exclusions where a loan is an employment-related loan and the relevant step is within paragraph 1 of that Schedule.
+(6)[^c-ec3b2e6d2269433cb09115cafd04c879] See paragraph 27 of Schedule 11 to F(No. 2)A 2017 for provision about exclusions where a loan is an employment-related loan and the relevant step is within paragraph 1 of that Schedule.
 
 ## Annotations
 
-[^key-aaa45bdd6780ac3cfab784896e2d7f5e]: Textual amendment: S. 554OA inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/5)
+[^c-aaa45bdd6780ac3cfab784896e2d7f5e]: Textual amendment: S. 554OA inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/5)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-ec3b2e6d2269433cb09115cafd04c879]: Textual amendment: S. 554OA(6) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/27/3)
+[^c-ec3b2e6d2269433cb09115cafd04c879]: Textual amendment: S. 554OA(6) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/27/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 95K. Transitional measure for active substance applications made before IP completion day pursuant to Article 93 where the United Kingdom competent authority was not the evaluating competent authority[^key-b261474fd75e07ea6a720d53ff01224a]
+## Article 95K. Transitional measure for active substance applications made before IP completion day pursuant to Article 93 where the United Kingdom competent authority was not the evaluating competent authority[^c-b261474fd75e07ea6a720d53ff01224a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b261474fd75e07ea6a720d53ff01224a]: Textual amendment: [Arts. 95A-95N](https://www.legislation.gov.uk/eur/2012/528/article/95A) inserted (31.12.2020) by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/2) (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4))
+[^c-b261474fd75e07ea6a720d53ff01224a]: Textual amendment: [Arts. 95A-95N](https://www.legislation.gov.uk/eur/2012/528/article/95A) inserted (31.12.2020) by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/2) (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4))

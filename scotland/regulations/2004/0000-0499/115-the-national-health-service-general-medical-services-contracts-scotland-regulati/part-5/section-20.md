@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Services generally[^key-6ee3b0cf8010ffd19630c1ccb948755f]
+## 20. Services generally[^c-6ee3b0cf8010ffd19630c1ccb948755f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ A contract must contain a term which requires the contractor in core hours—
 
 ## Annotations
 
-[^key-6ee3b0cf8010ffd19630c1ccb948755f]: Commencement: Reg. 20 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6ee3b0cf8010ffd19630c1ccb948755f]: Commencement: Reg. 20 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

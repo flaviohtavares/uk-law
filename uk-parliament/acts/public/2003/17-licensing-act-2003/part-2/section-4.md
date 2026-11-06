@@ -34,8 +34,8 @@ summary: ''
 - (a) its licensing statement published under section 5, and
 - (b) any guidance issued by the Secretary of State under section 182.
 
-(4)[^key-17e04ed1c4095384418dcfa40d513f11] In carrying out its licensing functions, a London licensing authority must also have regard to the licensing policy statement published by the Mayor of London under section 8A.
+(4)[^c-17e04ed1c4095384418dcfa40d513f11] In carrying out its licensing functions, a London licensing authority must also have regard to the licensing policy statement published by the Mayor of London under section 8A.
 
 ## Annotations
 
-[^key-17e04ed1c4095384418dcfa40d513f11]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2003/17/section/4/4) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-17e04ed1c4095384418dcfa40d513f11]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2003/17/section/4/4) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

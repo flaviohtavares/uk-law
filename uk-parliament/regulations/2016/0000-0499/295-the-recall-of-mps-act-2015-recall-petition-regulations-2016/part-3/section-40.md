@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Rejected signing sheets[^key-340667dc993ac679d9cccb4b820eb41c]
+## 40. Rejected signing sheets[^c-340667dc993ac679d9cccb4b820eb41c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ must not for such reason be taken to be void if an intention to sign the petitio
 
 ## Annotations
 
-[^key-340667dc993ac679d9cccb4b820eb41c]: Commencement: Reg. 40 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-340667dc993ac679d9cccb4b820eb41c]: Commencement: Reg. 40 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

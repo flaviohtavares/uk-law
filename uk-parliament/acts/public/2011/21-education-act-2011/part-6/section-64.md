@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Academy admissions arrangements: references to adjudicator[^key-2365c569dbf6bb207943285b418af0f8]
+## 64. Academy admissions arrangements: references to adjudicator[^c-2365c569dbf6bb207943285b418af0f8]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2365c569dbf6bb207943285b418af0f8]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2011/21/section/64) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-2365c569dbf6bb207943285b418af0f8]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2011/21/section/64) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

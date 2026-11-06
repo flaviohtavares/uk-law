@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Contravention of food information law: seizure of food etc.[^key-901fcb364d6b1020e1b808ab3b447336]
+## 15B. Contravention of food information law: seizure of food etc.[^c-901fcb364d6b1020e1b808ab3b447336]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-901fcb364d6b1020e1b808ab3b447336]: Textual amendment: Ss. 15A-15D and cross-heading inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 33](https://www.legislation.gov.uk/asp/2015/1/section/33), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-901fcb364d6b1020e1b808ab3b447336]: Textual amendment: Ss. 15A-15D and cross-heading inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 33](https://www.legislation.gov.uk/asp/2015/1/section/33), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

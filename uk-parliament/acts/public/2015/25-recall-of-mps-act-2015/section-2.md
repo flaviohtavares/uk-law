@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The first and third recall conditions: further provision[^key-4a43ce23de2ef56f9e5b84e3a9cbdc6f]
+## 2. The first and third recall conditions: further provision[^c-4a43ce23de2ef56f9e5b84e3a9cbdc6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a43ce23de2ef56f9e5b84e3a9cbdc6f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/25/section/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-4a43ce23de2ef56f9e5b84e3a9cbdc6f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/25/section/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

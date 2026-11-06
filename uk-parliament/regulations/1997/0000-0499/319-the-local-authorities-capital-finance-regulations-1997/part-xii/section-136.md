@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Use of certain credit approvals[^key-6223c0ee61202dea70c4e6194ff2be77]
+## 136. Use of certain credit approvals[^c-6223c0ee61202dea70c4e6194ff2be77]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6223c0ee61202dea70c4e6194ff2be77]: Commencement: Reg. 136 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6223c0ee61202dea70c4e6194ff2be77]: Commencement: Reg. 136 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

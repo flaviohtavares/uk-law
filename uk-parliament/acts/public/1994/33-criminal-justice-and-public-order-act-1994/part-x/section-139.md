@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Search powers available on arrests under sections 136, 137 and 137A.[^c19841781][^key-6ee769381437cc73a9d01dc549029085][^M_F_ca7bd07a-23f2-464e-e904-d1652181e4d8]
+## 139. Search powers available on arrests under sections 136, 137 and 137A.[^c19841781][^c-6ee769381437cc73a9d01dc549029085][^M_F_ca7bd07a-23f2-464e-e904-d1652181e4d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 - (a) that he might use it to assist him to escape from lawful custody; or
 - (b) that it is evidence of an offence, or has been obtained in consequence of the commission of an offence.
 
-(10A)[^M_F_671f9f88-2e11-4af5-c23c-1d0a5be8e45e] Where a constable of a police force in England and Wales searches premises in the exercise of the power conferred by subsection (3B) or where a constable of the British Transport Police or a constable appointed as a member of the Civil Nuclear Constabulary[^key-0a7edebf536c0b26f30be07e4d9e0c76] searches premises in England and Wales in the exercise of that power—
+(10A)[^M_F_671f9f88-2e11-4af5-c23c-1d0a5be8e45e] Where a constable of a police force in England and Wales searches premises in the exercise of the power conferred by subsection (3B) or where a constable of the British Transport Police or a constable appointed as a member of the Civil Nuclear Constabulary[^c-0a7edebf536c0b26f30be07e4d9e0c76] searches premises in England and Wales in the exercise of that power—
 
 - (a) the constable has the same powers as the constable would have under section 19 of the Police and Criminal Evidence Act 1984 if the search had taken place under section 32(2)(b) of that Act, and
 - (b) sections 21 and 22 of that Act apply in relation to anything seized in the exercise of the powers conferred by paragraph (a) above.
@@ -76,7 +76,7 @@ summary: ''
 - (a) the constable has the same powers as the constable would have under Article 21 of the Police and Criminal Evidence (Northern Ireland) Order 1989 ([S.I. 1989/1341 (N.I.12)](https://www.legislation.gov.uk/nisi/1989/1341)) if the search had taken place under Article 34(2)(b) of that Order, and
 - (b) Articles 23 and 24 of that Order apply in relation to anything seized in the exercise of the powers conferred by paragraph (a) above.
 
-(10C) Where a constable of a police force in Scotland searches premises in the exercise of the power conferred by subsection (3B), or where a constable of the British Transport Police or a constable appointed as a member of the Civil Nuclear Constabulary[^key-c2de0d3746e38c4ae379c549d8cdd309] searches premises in Scotland in the exercise of that power, the constable has the same powers of seizure and retention as the constable would have if the search had taken place in the exercise of a power of the constable (by virtue of any rule of law) in relation to a person arrested and charged with an offence by the constable in Scotland.
+(10C) Where a constable of a police force in Scotland searches premises in the exercise of the power conferred by subsection (3B), or where a constable of the British Transport Police or a constable appointed as a member of the Civil Nuclear Constabulary[^c-c2de0d3746e38c4ae379c549d8cdd309] searches premises in Scotland in the exercise of that power, the constable has the same powers of seizure and retention as the constable would have if the search had taken place in the exercise of a power of the constable (by virtue of any rule of law) in relation to a person arrested and charged with an offence by the constable in Scotland.
 
 (11) Nothing in this section shall be taken to affect the power conferred by section 43 of the Terrorism Act 2000[^c13105791].
 
@@ -98,7 +98,7 @@ summary: ''
 
 [^c19841781]: Modification: S. 139 applied (with modifications) (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 87(2)-(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/87/2)
 
-[^key-6ee769381437cc73a9d01dc549029085]: Modification: Ss. 136-139 applied (with modifications) (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 55(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/7)[(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/8)[61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) (with [Sch. 21 paras. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40), [42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/42), [43](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/43)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/g)
+[^c-6ee769381437cc73a9d01dc549029085]: Modification: Ss. 136-139 applied (with modifications) (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 55(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/7)[(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/55/8)[61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2) (with [Sch. 21 paras. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/40), [42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/42), [43](https://www.legislation.gov.uk/ukpga/2013/22/schedule/21/paragraph/43)); [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 4(g)](https://www.legislation.gov.uk/uksi/2013/1042/article/4/g)
 
 [^M_F_ca7bd07a-23f2-464e-e904-d1652181e4d8]: Textual amendment: Words in s. 139 heading substituted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 17 para. 4(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/4/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
@@ -120,9 +120,9 @@ summary: ''
 
 [^M_F_671f9f88-2e11-4af5-c23c-1d0a5be8e45e]: Textual amendment: S. 139(10A)-(10C) inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 17 para. 4(9)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/4/9); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
-[^key-0a7edebf536c0b26f30be07e4d9e0c76]: Textual amendment: Words in [s. 139(10A)](https://www.legislation.gov.uk/ukpga/1994/33/section/139/10A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 309(5)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/309/5/a), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-0a7edebf536c0b26f30be07e4d9e0c76]: Textual amendment: Words in [s. 139(10A)](https://www.legislation.gov.uk/ukpga/1994/33/section/139/10A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 309(5)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/309/5/a), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
 
-[^key-c2de0d3746e38c4ae379c549d8cdd309]: Textual amendment: Words in [s. 139(10C)](https://www.legislation.gov.uk/ukpga/1994/33/section/139/10C) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 309(5)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/309/5/b), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-c2de0d3746e38c4ae379c549d8cdd309]: Textual amendment: Words in [s. 139(10C)](https://www.legislation.gov.uk/ukpga/1994/33/section/139/10C) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 309(5)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/309/5/b), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
 
 [^c13105791]: Textual amendment: Words in s. 139(11) substituted (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [ss. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [128](https://www.legislation.gov.uk/ukpga/2000/11/section/128), [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/9): [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/421/article/2/a)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Arbitration in respect of removal of vessels[^key-698ab45b30d5541659b04ed38b3b8fa1]
+## 20. Arbitration in respect of removal of vessels[^c-698ab45b30d5541659b04ed38b3b8fa1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ and any dispute under this article must be determined in accordance with article
 
 ## Annotations
 
-[^key-698ab45b30d5541659b04ed38b3b8fa1]: Commencement: Art. 20 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-698ab45b30d5541659b04ed38b3b8fa1]: Commencement: Art. 20 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

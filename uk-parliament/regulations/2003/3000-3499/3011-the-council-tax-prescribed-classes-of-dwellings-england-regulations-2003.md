@@ -45,13 +45,13 @@ Coming into force
 
 The First Secretary of State, in exercise of the powers conferred upon him by section 11A of the Local Government Finance Act 1992[^f00001] hereby makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-ee5bf126d51a452fb6ca15f70f37b206]
+## 1. Citation, commencement and application[^c-ee5bf126d51a452fb6ca15f70f37b206]
 
 (1) These Regulations may be cited as the Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003 and shall come into force on 18th December 2003.
 
-(2) These Regulations apply to billing authorities[^key-3f69e08bf83c064d864424b448845f51] in England only.
+(2) These Regulations apply to billing authorities[^c-3f69e08bf83c064d864424b448845f51] in England only.
 
-## 2. Interpretation[^key-69b8bfe4984c2b1f892c08ae0c7403fa][^key-ae26c1f7ae909573fed9f264540e9c86]
+## 2. Interpretation[^c-69b8bfe4984c2b1f892c08ae0c7403fa][^c-ae26c1f7ae909573fed9f264540e9c86]
 
 (1) In these Regulations—
 
@@ -63,7 +63,7 @@ The First Secretary of State, in exercise of the powers conferred upon him by se
 - “**Class D**” means the class of dwellings described in regulation 8;
 - “**Class E**” means the class of dwellings described in regulation 9;
 - “**Class F**” means the class of dwellings described in regulation 10;
-- “[^key-00074e02c0af58f94ec15bcac26b8203]**Class G**” means the class of dwellings described in regulation 11;
+- “[^c-00074e02c0af58f94ec15bcac26b8203]**Class G**” means the class of dwellings described in regulation 11;
 - “**Class H**” means the class of dwellings described in regulation 12;
 - “**Class I**” means the class of dwellings described in regulation 13;
 - “**Class J**” means the class of dwellings described in regulation 14;
@@ -74,7 +74,7 @@ The First Secretary of State, in exercise of the powers conferred upon him by se
 - “**qualifying person**” means a person who is liable for the council tax in respect of a dwelling on a particular day, whether or not jointly with any other person, or who would be liable for the council tax in respect of a dwelling on a particular day if that dwelling did not fall within—
   - (a) Class O of the Council Tax (Exempt Dwellings) Order 1992; or
   - (b) Class E of the Council Tax (Liability for Owners) Regulations 1992;
-- “[^key-532b8c3fb81c77124e0f32a312f6a495]**relevant transaction**”, in relation to a dwelling, means a transfer on sale of—
+- “[^c-532b8c3fb81c77124e0f32a312f6a495]**relevant transaction**”, in relation to a dwelling, means a transfer on sale of—
   - (a) the freehold; or
   - (b) the leasehold for a term of seven years or more;
 - “**the relevant year**” means the financial year for which a billing authority makes a determination under section 11A of the Act;
@@ -88,13 +88,13 @@ The First Secretary of State, in exercise of the powers conferred upon him by se
   - (ii) in any other case, the dwelling is unoccupied and substantially unfurnished; and
 - (b) in considering whether a dwelling has been vacant for any period, any one period, not exceeding six weeks, during which it was not vacant shall be disregarded.
 
-## 3. Prescribed classes[^key-34ece85e2351df4d83f6ea97031f8ebd]
+## 3. Prescribed classes[^c-34ece85e2351df4d83f6ea97031f8ebd]
 
-(1)[^key-addce920ee7d8707640c104459cae366] Class A and Class B are prescribed as classes of dwelling for the purposes of section 11A(4) of the Act for each financial year beginning on or after 1st April 2013.
+(1)[^c-addce920ee7d8707640c104459cae366] Class A and Class B are prescribed as classes of dwelling for the purposes of section 11A(4) of the Act for each financial year beginning on or after 1st April 2013.
 
 (2) Class C and Class D are prescribed as classes of dwelling for the purposes of section 11A(4A) of the Act for each financial year beginning on or after 1st April 2013.
 
-(3)[^key-dbbefd2fa8f7ba045dda9ad1c92cdf43] Class E and Class F are prescribed as classes of dwelling for the purposes of—
+(3)[^c-dbbefd2fa8f7ba045dda9ad1c92cdf43] Class E and Class F are prescribed as classes of dwelling for the purposes of—
 
 - (a) section 11B(2) of the Act for each financial year beginning on or after 1st April 2013; and
 - (b) section 11D(1) of the Act for each financial year beginning on or after 1st April 2025.
@@ -105,7 +105,7 @@ The First Secretary of State, in exercise of the powers conferred upon him by se
 
 (6) Class M is prescribed as a class of dwelling for the purposes of section 11B(2) of the Act for each financial year beginning on or after 1st April 2025.
 
-## 4. Class A[^key-6174c3e9c57e5235ea9baae4003c5ebf]
+## 4. Class A[^c-6174c3e9c57e5235ea9baae4003c5ebf]
 
 The class of dwellings described in this regulation (“Class A”) comprises every chargeable dwelling in England —
 
@@ -115,7 +115,7 @@ The class of dwellings described in this regulation (“Class A”) comprises ev
 
 except that the class of dwellings described in this regulation shall not include any dwelling which is excluded from that class by virtue of regulation 6 below.
 
-## 5. Class B[^key-eef1671b04d88f396a2d5a2f3ae4e3fb]
+## 5. Class B[^c-eef1671b04d88f396a2d5a2f3ae4e3fb]
 
 The class of dwellings described in this regulation (“Class B”) comprises every chargeable dwelling in England —
 
@@ -125,18 +125,18 @@ The class of dwellings described in this regulation (“Class B”) comprises ev
 
 except that the class of dwellings described in this regulation shall not include any dwelling which is excluded from that class by virtue of regulation 6 below.
 
-## 6. Exceptions[^key-ac9aa4a351cc7532eebc0a4ae3a497b9]
+## 6. Exceptions[^c-ac9aa4a351cc7532eebc0a4ae3a497b9]
 
 Class A and Class B shall not include any dwelling which falls within the description of dwelling for Class J or Class K.
 
-## 7. Class C[^key-11088840545f15c4604aea5edbee0d4b]
+## 7. Class C[^c-11088840545f15c4604aea5edbee0d4b]
 
 The class of dwellings described in this regulation (“Class C”) comprises every chargeable dwelling in England —
 
 - (a) which is unoccupied; and
 - (b) which is substantially unfurnished.
 
-## 8. Class D[^key-bfcc197995663c44a2cce888bb902923]
+## 8. Class D[^c-bfcc197995663c44a2cce888bb902923]
 
 The class of dwellings described in this regulation (“Class D”) comprises every chargeable dwelling in England—
 
@@ -165,11 +165,11 @@ The class of dwellings described in this regulation (“Class D”) comprises ev
 
 (2) For the purposes of paragraph (1) “single property” means property which would apart from the Council Tax (Chargeable Dwellings) Order 1992 be one dwelling within the meaning of section 3 of the Act.
 
-## 11. Class G[^key-a5e891777da6421ef9912a42ed6a9897]
+## 11. Class G[^c-a5e891777da6421ef9912a42ed6a9897]
 
 (1) The class of dwellings described in this regulation (“**Class G**”) comprises every chargeable dwelling in England—
 
-- (a) that is being marketed for sale at a price that is reasonable for the sale of the dwelling, or[^key-88c3072f71dc4faf4ce1a1ef6340ed18]
+- (a) that is being marketed for sale at a price that is reasonable for the sale of the dwelling, or[^c-88c3072f71dc4faf4ce1a1ef6340ed18]
 - (b) in relation to which an offer to purchase the dwelling has been accepted (whether or not the acceptance is subject to contract) but the sale has not been completed,
 
 unless it has been such a dwelling for a period of one year or more.
@@ -178,7 +178,7 @@ unless it has been such a dwelling for a period of one year or more.
 
 (3) For the purposes of this regulation—
 
-- (a) marketing a dwelling for sale means[^key-e8a80d93573a20c8004b85775c9736e1] the marketing for sale of—
+- (a) marketing a dwelling for sale means[^c-e8a80d93573a20c8004b85775c9736e1] the marketing for sale of—
   - (i) the freehold; or
   - (ii) a leasehold for a term of seven years or more;
 - (b) “excepted period” is a period during which a dwelling falls within Class G.
@@ -187,12 +187,12 @@ unless it has been such a dwelling for a period of one year or more.
 
 (1) The class of dwellings described in this regulation (“**Class H**”) comprises every chargeable dwelling in England—
 
-- (a) that is being marketed for let under a tenancy on terms and conditions, including the proposed rent, that are reasonable for letting the dwelling, or[^key-9c53444630573ef2fc6f914776e6ce9f]
+- (a) that is being marketed for let under a tenancy on terms and conditions, including the proposed rent, that are reasonable for letting the dwelling, or[^c-9c53444630573ef2fc6f914776e6ce9f]
 - (b) in relation to which an offer to rent the dwelling has been accepted (whether or not the acceptance is subject to contract) but the tenancy has not started,
 
 unless it has been such a dwelling for a period of one year or more.
 
-(2) After the end of an excepted period a dwelling does not fall within Class H for a further period unless the dwelling has been subject to a tenancy that was granted for a term of six months or more or an assured tenancy (within the meaning given in section 1 of the Housing Act 1988)[^key-607253f3f9b7e83b65183820341422ce].
+(2) After the end of an excepted period a dwelling does not fall within Class H for a further period unless the dwelling has been subject to a tenancy that was granted for a term of six months or more or an assured tenancy (within the meaning given in section 1 of the Housing Act 1988)[^c-607253f3f9b7e83b65183820341422ce].
 
 (3) For the purposes of this regulation “excepted period” is a period during which a dwelling falls within Class H.
 
@@ -257,7 +257,7 @@ Office of the Deputy Prime Minister
 
 ## SCHEDULE — JOB-RELATED DWELLINGS
 
-**1.**[^key-add47c5e0164677fd1525e594c2d0b82] (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if it is provided for him by reason of his employment or for his spouse or civil partner by reason of that person's[^key-ea782706629a4ae7d3d8b45d5f93788c] employment, in any of the following cases—
+**1.**[^c-add47c5e0164677fd1525e594c2d0b82] (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if it is provided for him by reason of his employment or for his spouse or civil partner by reason of that person's[^c-ea782706629a4ae7d3d8b45d5f93788c] employment, in any of the following cases—
 
 - (a) where it is necessary for the proper performance of the duties of the employment that the employee should reside in that dwelling;
 - (b) where the dwelling is provided for the better performance of the duties of the employment, and it is one of the kinds of employment in the case of which it is customary for employers to provide dwellings to employees;
@@ -269,21 +269,21 @@ Office of the Deputy Prime Minister
 - (b) the company is non-profit making, that is to say, it does not carry on a trade nor do its functions consist wholly or mainly in the holding of investments or other property, or
 - (c) the company is established for charitable purposes only.
 
-**2.**[^key-cbb1f506ccde86efd550e39997996eba] (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if he or his spouse or civil partner[^key-96d34a97ad143a469aeb0af0c54b619f] is required, under a contract to which this sub-paragraph applies, to live in that dwelling.
+**2.**[^c-cbb1f506ccde86efd550e39997996eba] (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if he or his spouse or civil partner[^c-96d34a97ad143a469aeb0af0c54b619f] is required, under a contract to which this sub-paragraph applies, to live in that dwelling.
 
 (2) Sub-paragraph (1) does not apply if the dwelling concerned is in whole or in part provided by any other person or persons together with whom the person or spouse or civil partner carries on a trade or business in partnership.
 
 (3) A contract to which sub-paragraph (1) applies is a contract entered into at arm’s length and requiring the person concerned or his spouse or civil partner (as the case may be) to carry on a particular trade, profession or vocation in a property provided by another person and to live in a dwelling provided by that other person.
 
-**2A.**[^key-3e105b037c75e5523686447ad7fb1971] A dwelling is job-related for a person if he or his spouse or civil partner[^key-8ec4bd881cc42e2b7e5d3c13c9635f27] is a minister of any religious denomination and the dwelling is inhabited by him as a residence from which he performs the duties of his office.
+**2A.**[^c-3e105b037c75e5523686447ad7fb1971] A dwelling is job-related for a person if he or his spouse or civil partner[^c-8ec4bd881cc42e2b7e5d3c13c9635f27] is a minister of any religious denomination and the dwelling is inhabited by him as a residence from which he performs the duties of his office.
 
-**3.**[^key-ef8724d1be33c1a7ee265a1963b29fce] In this Schedule—
+**3.**[^c-ef8724d1be33c1a7ee265a1963b29fce] In this Schedule—
 
 - a company is an associated company of another person if one of them has control of the other or both are under the control of the same person;
 - “**director**”, “**full-time working director**” and “**control**”, in relation to a body corporate have the same meanings as they have in sections 67 and 69 of the Income Tax (Earnings and Pensions) Act 2003[^f00004] in relation to the benefits code;
 - “**provided**” means provided under a tenancy or otherwise; and
 
-references to the spouse or civil partner of a person are to be taken to include references to a person who is living with the other as if they were a married couple or civil partners[^key-3b75df82cf7185bf229ef63972e3ed9a].
+references to the spouse or civil partner of a person are to be taken to include references to a person who is living with the other as if they were a married couple or civil partners[^c-3b75df82cf7185bf229ef63972e3ed9a].
 
 (This note is not part of the Regulations)
 
@@ -315,58 +315,58 @@ Any determination of the billing authority under section 11A of the Act will app
 
 [^f00001]: Footnote: [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). Section 11A was inserted by s.75(1) of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26). Section 75(2) of that Act inserted similar provision in relation to Wales in substitution of section 12 of the Local Government Finance Act 1992.
 
-[^key-ee5bf126d51a452fb6ca15f70f37b206]: Commencement: Reg. 1 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-ee5bf126d51a452fb6ca15f70f37b206]: Commencement: Reg. 1 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-3f69e08bf83c064d864424b448845f51]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/2) substituted (1.4.2005) by [The Council Tax (Prescribed Classes of Dwellings) (Amendment) (England) Regulations 2005 (S.I. 2005/416)](https://www.legislation.gov.uk/uksi/2005/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/416/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/416/regulation/2/2)
+[^c-3f69e08bf83c064d864424b448845f51]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/2) substituted (1.4.2005) by [The Council Tax (Prescribed Classes of Dwellings) (Amendment) (England) Regulations 2005 (S.I. 2005/416)](https://www.legislation.gov.uk/uksi/2005/416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/416/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/416/regulation/2/2)
 
-[^key-69b8bfe4984c2b1f892c08ae0c7403fa]: Commencement: Reg. 2 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-69b8bfe4984c2b1f892c08ae0c7403fa]: Commencement: Reg. 2 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-ae26c1f7ae909573fed9f264540e9c86]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) substituted (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/2)
+[^c-ae26c1f7ae909573fed9f264540e9c86]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) substituted (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/2)
 
-[^key-00074e02c0af58f94ec15bcac26b8203]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/2/a)
+[^c-00074e02c0af58f94ec15bcac26b8203]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/2/a)
 
-[^key-532b8c3fb81c77124e0f32a312f6a495]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/2/b)
+[^c-532b8c3fb81c77124e0f32a312f6a495]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3011/regulation/2) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/2/b)
 
-[^key-34ece85e2351df4d83f6ea97031f8ebd]: Commencement: Reg. 3 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-34ece85e2351df4d83f6ea97031f8ebd]: Commencement: Reg. 3 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-addce920ee7d8707640c104459cae366]: Textual amendment: [Reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/1) substituted for [reg. 3(1)(2)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/1) (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/3)
+[^c-addce920ee7d8707640c104459cae366]: Textual amendment: [Reg. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/1) substituted for [reg. 3(1)(2)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/1) (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/3)
 
-[^key-dbbefd2fa8f7ba045dda9ad1c92cdf43]: Textual amendment: [Reg. 3(3)-(6)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/3) substituted for [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/3) (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/3)
+[^c-dbbefd2fa8f7ba045dda9ad1c92cdf43]: Textual amendment: [Reg. 3(3)-(6)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/3) substituted for [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/3/3) (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/3)
 
-[^key-6174c3e9c57e5235ea9baae4003c5ebf]: Commencement: Reg. 4 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-6174c3e9c57e5235ea9baae4003c5ebf]: Commencement: Reg. 4 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-eef1671b04d88f396a2d5a2f3ae4e3fb]: Commencement: Reg. 5 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-eef1671b04d88f396a2d5a2f3ae4e3fb]: Commencement: Reg. 5 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-ac9aa4a351cc7532eebc0a4ae3a497b9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/3011/regulation/6) substituted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/4)
+[^c-ac9aa4a351cc7532eebc0a4ae3a497b9]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/3011/regulation/6) substituted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/4)
 
-[^key-11088840545f15c4604aea5edbee0d4b]: Commencement: Reg. 7 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-11088840545f15c4604aea5edbee0d4b]: Commencement: Reg. 7 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-bfcc197995663c44a2cce888bb902923]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2003/3011/regulation/8) inserted (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/4)
+[^c-bfcc197995663c44a2cce888bb902923]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2003/3011/regulation/8) inserted (1.4.2013) by [The Council Tax (Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2012 (S.I. 2012/2964)](https://www.legislation.gov.uk/uksi/2012/2964), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/2964/regulation/2/4)
 
-[^key-a5e891777da6421ef9912a42ed6a9897]: Textual amendment: Regs. 11-17 inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/5)
+[^c-a5e891777da6421ef9912a42ed6a9897]: Textual amendment: Regs. 11-17 inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/2/5)
 
-[^key-88c3072f71dc4faf4ce1a1ef6340ed18]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/11/1/a) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/2/a)
+[^c-88c3072f71dc4faf4ce1a1ef6340ed18]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/11/1/a) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/2/a)
 
-[^key-e8a80d93573a20c8004b85775c9736e1]: Textual amendment: Word in [reg. 11(3)(a)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/11/3/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/2/b)
+[^c-e8a80d93573a20c8004b85775c9736e1]: Textual amendment: Word in [reg. 11(3)(a)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/11/3/a) substituted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/2/b)
 
-[^key-9c53444630573ef2fc6f914776e6ce9f]: Textual amendment: Word in reg. 12(1)(a) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/3)
+[^c-9c53444630573ef2fc6f914776e6ce9f]: Textual amendment: Word in reg. 12(1)(a) inserted (6.2.2025) by [The Council Tax (Demand Notices and Prescribed Classes of Dwellings) (England) (Amendment) Regulations 2025 (S.I. 2025/8)](https://www.legislation.gov.uk/uksi/2025/8), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/8/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/8/regulation/4/3)
 
-[^key-607253f3f9b7e83b65183820341422ce]: Textual amendment: Words in reg. 12(2) inserted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/325/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
+[^c-607253f3f9b7e83b65183820341422ce]: Textual amendment: Words in reg. 12(2) inserted (1.5.2026) by [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/325/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
 
-[^key-add47c5e0164677fd1525e594c2d0b82]: Commencement: Sch. para. 1 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-add47c5e0164677fd1525e594c2d0b82]: Commencement: Sch. para. 1 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-ea782706629a4ae7d3d8b45d5f93788c]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/1) substituted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/2)
+[^c-ea782706629a4ae7d3d8b45d5f93788c]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/1) substituted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/2)
 
-[^key-cbb1f506ccde86efd550e39997996eba]: Commencement: Sch. para. 2 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-cbb1f506ccde86efd550e39997996eba]: Commencement: Sch. para. 2 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
-[^key-96d34a97ad143a469aeb0af0c54b619f]: Textual amendment: Words in [Sch. paras. 2(1)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/2)[(3)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/3) inserted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/3)
+[^c-96d34a97ad143a469aeb0af0c54b619f]: Textual amendment: Words in [Sch. paras. 2(1)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/1)[(2)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/2)[(3)](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2/3) inserted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/3)
 
-[^key-3e105b037c75e5523686447ad7fb1971]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2A) inserted (22.4.2004) by [The Council Tax (Prescribed Classes of Dwellings) (Amendment) (England) Regulations 2004 (S.I. 2004/926)](https://www.legislation.gov.uk/uksi/2004/926), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/926/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/926/regulation/2/4)
+[^c-3e105b037c75e5523686447ad7fb1971]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2A) inserted (22.4.2004) by [The Council Tax (Prescribed Classes of Dwellings) (Amendment) (England) Regulations 2004 (S.I. 2004/926)](https://www.legislation.gov.uk/uksi/2004/926), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/926/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2004/926/regulation/2/4)
 
-[^key-8ec4bd881cc42e2b7e5d3c13c9635f27]: Textual amendment: Words in [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2A) inserted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/3)
+[^c-8ec4bd881cc42e2b7e5d3c13c9635f27]: Textual amendment: Words in [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/2A) inserted (10.12.2005 in relation to financial years beginning on or after 1.4.2006) by [The Council Tax (Civil Partners) (England) Regulations 2005 (S.I. 2005/2866)](https://www.legislation.gov.uk/uksi/2005/2866), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2005/2866/regulation/4/3)
 
-[^key-ef8724d1be33c1a7ee265a1963b29fce]: Commencement: Sch. para. 3 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
+[^c-ef8724d1be33c1a7ee265a1963b29fce]: Commencement: Sch. para. 3 in force at 18.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3011/regulation/1/1)
 
 [^f00004]: Footnote: [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1); for the meaning of benefits code, *see* section 63.
 
-[^key-3b75df82cf7185bf229ef63972e3ed9a]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 68](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/68)
+[^c-3b75df82cf7185bf229ef63972e3ed9a]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/3011/schedule/paragraph/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 68](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/68)

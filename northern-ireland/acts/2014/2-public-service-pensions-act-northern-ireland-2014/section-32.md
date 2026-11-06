@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Power to restrict other existing public body pension schemes[^key-e643e219af13757f6c50740f65f7e96a]
+## 32. Power to restrict other existing public body pension schemes[^c-e643e219af13757f6c50740f65f7e96a]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) must not specify a public body pension scheme which is a defined contributions scheme, and
 - (b) must except injury or compensation benefits provided under a scheme which is specified.
 
-(4) The public authority responsible for a scheme to which subsection (2) applies may provide for other exceptions to the provision made under subsection (2) [^key-2dc3df8c7be5677de582c778e05cb8cd]....
+(4) The public authority responsible for a scheme to which subsection (2) applies may provide for other exceptions to the provision made under subsection (2) [^c-2dc3df8c7be5677de582c778e05cb8cd]....
 
 (5) Provision made under subsection (2) or (4) may in particular be made by amending the public body pension scheme.
 
@@ -56,6 +56,6 @@ the public authority responsible for the scheme may establish a new scheme for t
 
 ## Annotations
 
-[^key-e643e219af13757f6c50740f65f7e96a]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2014/2/section/32) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 5(2)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/5/2/b)
+[^c-e643e219af13757f6c50740f65f7e96a]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2014/2/section/32) in operation at 1.4.2015 by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 5(2)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/5/2/b)
 
-[^key-2dc3df8c7be5677de582c778e05cb8cd]: Textual amendment: Words in [s. 32(4)](https://www.legislation.gov.uk/nia/2014/2/section/32/4) omitted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 88(6)](https://www.legislation.gov.uk/ukpga/2022/7/section/88/6), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-2dc3df8c7be5677de582c778e05cb8cd]: Textual amendment: Words in [s. 32(4)](https://www.legislation.gov.uk/nia/2014/2/section/32/4) omitted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 88(6)](https://www.legislation.gov.uk/ukpga/2022/7/section/88/6), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269DF. Group surcharge allowance and the nominated company[^key-3e03660a4275e6ae3aa881f06df8542c]
+## 269DF. Group surcharge allowance and the nominated company[^c-3e03660a4275e6ae3aa881f06df8542c]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,11 +25,11 @@ summary: ''
 - (a) two or more members of a group are banking companies, and
 - (b) all the banking companies that are members of the group together nominate (the “group allowance nomination”) one of their number (the “nominated company”) for the purposes of this Chapter.
 
-(2) The “group surcharge allowance” for the group is £100,000,000[^key-de25efac0f6d9e07fa6106cdf6a1d92c] for each accounting period of the nominated company throughout which the group allowance nomination has effect.
+(2) The “group surcharge allowance” for the group is £100,000,000[^c-de25efac0f6d9e07fa6106cdf6a1d92c] for each accounting period of the nominated company throughout which the group allowance nomination has effect.
 
 (3) If the group allowance nomination takes effect, or ceases to have effect, part of the way through an accounting period of the nominated company, the “group surcharge allowance” for the group for that period is—
 
-[formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)[^key-5f6ad30f2c0ffad2d8257bbac70fc8a9]
+[formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)[^c-5f6ad30f2c0ffad2d8257bbac70fc8a9]
 
 where—
 
@@ -67,8 +67,8 @@ where—
 
 ## Annotations
 
-[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
+[^c-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
 
-[^key-de25efac0f6d9e07fa6106cdf6a1d92c]: Textual amendment: Sum in [S. 269DF(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/269DF/2) substituted (1.4.2023 for accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/section/6/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/6/3)
+[^c-de25efac0f6d9e07fa6106cdf6a1d92c]: Textual amendment: Sum in [S. 269DF(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/269DF/2) substituted (1.4.2023 for accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/section/6/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/6/3)
 
-[^key-5f6ad30f2c0ffad2d8257bbac70fc8a9]: Textual amendment: [S. 269DF(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/269DF/3): in the formula the sum "£100,000,000" is substituted for "£25,000,000" (1.4.2023 for accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 6(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/6/2/b)
+[^c-5f6ad30f2c0ffad2d8257bbac70fc8a9]: Textual amendment: [S. 269DF(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/269DF/3): in the formula the sum "£100,000,000" is substituted for "£25,000,000" (1.4.2023 for accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 6(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/6/2/b)

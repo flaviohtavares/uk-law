@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Extension of financial year of fire and rescue authority[^key-d828842cc0c061b9fe34bac3ce86ce42]
+## 54. Extension of financial year of fire and rescue authority[^c-d828842cc0c061b9fe34bac3ce86ce42]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d828842cc0c061b9fe34bac3ce86ce42]: Commencement: Art. 54 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-d828842cc0c061b9fe34bac3ce86ce42]: Commencement: Art. 54 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00107]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 

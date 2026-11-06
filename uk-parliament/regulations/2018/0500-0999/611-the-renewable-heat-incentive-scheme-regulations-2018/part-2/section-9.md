@@ -29,7 +29,7 @@ summary: ''
 - (e) it has a coefficient of performance of at least 2.9; and
 - (f) in the case of a plant in respect of which an application for accreditation is made on or after 28th May 2014—
   - (i) the plant is designed and installed to operate with a seasonal performance factor of at least 2.5; and
-  - (ii) where the plant is capable of heating and cooling, a design heat load for the plant has been calculated in accordance with BS EN 12831-1:2017[^key-84b6cef444210893b18f67f582305956] or a subsequent version of that standard.
+  - (ii) where the plant is capable of heating and cooling, a design heat load for the plant has been calculated in accordance with BS EN 12831-1:2017[^c-84b6cef444210893b18f67f582305956] or a subsequent version of that standard.
 
 (2) Paragraph (3) applies where—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b6cef444210893b18f67f582305956]: Textual amendment: Words in [reg. 9(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2018/611/regulation/9/1/f/ii) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [36](https://www.legislation.gov.uk/uksi/2022/159/regulation/36)
+[^c-84b6cef444210893b18f67f582305956]: Textual amendment: Words in [reg. 9(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2018/611/regulation/9/1/f/ii) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [36](https://www.legislation.gov.uk/uksi/2022/159/regulation/36)

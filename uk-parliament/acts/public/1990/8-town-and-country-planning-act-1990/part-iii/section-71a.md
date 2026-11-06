@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71A. Assessment of environmental effects.[^key-353dd82073f942c2b95475dd289acb8c]
+## 71A. Assessment of environmental effects.[^c-353dd82073f942c2b95475dd289acb8c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-353dd82073f942c2b95475dd289acb8c]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/1990/8/section/71A) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 165(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/165/2), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-353dd82073f942c2b95475dd289acb8c]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/1990/8/section/71A) omitted (26.12.2023) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 165(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/165/2), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

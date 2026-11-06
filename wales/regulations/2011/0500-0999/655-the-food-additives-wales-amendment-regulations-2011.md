@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Additives (Wales) (Amendment) Regulations 2011 (revoked)[^key-080dbd42afcc422e93fcdf42827ae180]
+The Food Additives (Wales) (Amendment) Regulations 2011 (revoked)[^c-080dbd42afcc422e93fcdf42827ae180]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 31 March 2011
 
-[^key-080dbd42afcc422e93fcdf42827ae180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-080dbd42afcc422e93fcdf42827ae180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-080dbd42afcc422e93fcdf42827ae180]
+## 1. Title and commencement[^c-080dbd42afcc422e93fcdf42827ae180]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Additives (Wales) Regulations 2009[^key-080dbd42afcc422e93fcdf42827ae180]
+## 2. Amendment of the Food Additives (Wales) Regulations 2009[^c-080dbd42afcc422e93fcdf42827ae180]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-080dbd42afcc422e93fcdf42827ae180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-080dbd42afcc422e93fcdf42827ae180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-080dbd42afcc422e93fcdf42827ae180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-080dbd42afcc422e93fcdf42827ae180]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-080dbd42afcc422e93fcdf42827ae180]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)
+[^c-080dbd42afcc422e93fcdf42827ae180]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)

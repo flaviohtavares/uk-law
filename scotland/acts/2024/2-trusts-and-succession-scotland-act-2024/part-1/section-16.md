@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Conferring of additional powers by court[^key-d561c81aaefad21f3c6ff891f392810c]
+## 16. Conferring of additional powers by court[^c-d561c81aaefad21f3c6ff891f392810c]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d561c81aaefad21f3c6ff891f392810c]: Commencement: S. 16 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-d561c81aaefad21f3c6ff891f392810c]: Commencement: S. 16 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Road Vehicles (Construction and Use) (Amendment) Regulations 2012 (revoked)[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]
+The Road Vehicles (Construction and Use) (Amendment) Regulations 2012 (revoked)[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]
 
 Made
 
@@ -46,29 +46,29 @@ Coming into force
 
 25th June 2012
 
-[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]
+## 1. Citation and commencement[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]
+## 2. Revocations[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Regulations[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]
+## 3. Amendment of Regulations[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]
+## SCHEDULE — Revocations[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]
 
 Regulation 2
 
@@ -76,8 +76,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ad1647a4c9c8ff99c74f36bf35d3ef0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1404) revoked (20.8.2014) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2014 (S.I. 2014/1862)](https://www.legislation.gov.uk/uksi/2014/1862), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1862/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/1862/regulation/3)
+[^c-0ad1647a4c9c8ff99c74f36bf35d3ef0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1404) revoked (20.8.2014) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2014 (S.I. 2014/1862)](https://www.legislation.gov.uk/uksi/2014/1862), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1862/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/1862/regulation/3)

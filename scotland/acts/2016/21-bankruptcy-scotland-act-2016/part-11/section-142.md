@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Debtor not traced: new trustee[^key-12fd9c870d3017299f79d646bf7dfc93]
+## 142. Debtor not traced: new trustee[^c-12fd9c870d3017299f79d646bf7dfc93]
 
 *Extent: S*
 
@@ -37,11 +37,11 @@ summary: ''
 
 - (a) AiB is deemed to be the trustee,
 - (b) AiB must notify every creditor known to AiB that AiB is deemed to be the trustee,
-- (c) the former trustee is not entitled to recover, other than by a claim in the final distribution of the debtor's estate, outlays and remuneration payable under sections 132 and 133 (there being no effect on any outlays and remuneration paid to the former trustee before the issue of the notice)[^key-1a6b70f8de3e2002173d28e561ce8c81], and
+- (c) the former trustee is not entitled to recover, other than by a claim in the final distribution of the debtor's estate, outlays and remuneration payable under sections 132 and 133 (there being no effect on any outlays and remuneration paid to the former trustee before the issue of the notice)[^c-1a6b70f8de3e2002173d28e561ce8c81], and
 - (d) subsections (9) to (13) of section 69 apply in relation to the appointment of AiB as the new trustee as they apply in relation to the appointment of a new trustee under that section.
 
 ## Annotations
 
-[^key-12fd9c870d3017299f79d646bf7dfc93]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2016/21/section/142) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-12fd9c870d3017299f79d646bf7dfc93]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2016/21/section/142) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-1a6b70f8de3e2002173d28e561ce8c81]: Textual amendment: Words in [s. 142(6)(c)](https://www.legislation.gov.uk/asp/2016/21/section/142/6/c) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 11(2)](https://www.legislation.gov.uk/asp/2024/9/section/11/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/c)
+[^c-1a6b70f8de3e2002173d28e561ce8c81]: Textual amendment: Words in [s. 142(6)(c)](https://www.legislation.gov.uk/asp/2016/21/section/142/6/c) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 11(2)](https://www.legislation.gov.uk/asp/2024/9/section/11/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Inadequate performance of returning officer: reduction of charges[^key-0240aaad452d0b37254421148a55a615]
+## 18. Inadequate performance of returning officer: reduction of charges[^c-0240aaad452d0b37254421148a55a615]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0240aaad452d0b37254421148a55a615]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/6/section/18) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/414/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-0240aaad452d0b37254421148a55a615]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/6/section/18) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/414/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))

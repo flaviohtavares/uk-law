@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Entitlement to phased retirement pension[^key-91849edb72ead7283961b8fd6876c814]
+## 90. Entitlement to phased retirement pension[^c-91849edb72ead7283961b8fd6876c814]
 
 *Extent: S*
 
 (1) A person (P) is entitled to payment of a phased retirement earned pension from the entitlement day if—
 
-- (a) P has reached normal minimum pension age[^key-b11ae003702f8392668d103a880443f8] but has not reached 75;
+- (a) P has reached normal minimum pension age[^c-b11ae003702f8392668d103a880443f8] but has not reached 75;
 - (b) P is qualified or re-qualified for retirement benefits;
 - (c) P meets the reduced annual rate condition or the new employment condition;
 - (d) P has made a phased retirement application; and
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91849edb72ead7283961b8fd6876c814]: Commencement: [Reg. 90](https://www.legislation.gov.uk/ssi/2014/292/regulation/90) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-91849edb72ead7283961b8fd6876c814]: Commencement: [Reg. 90](https://www.legislation.gov.uk/ssi/2014/292/regulation/90) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-b11ae003702f8392668d103a880443f8]: Textual amendment: Words in [reg. 90(1)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/90/1/a) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [8](https://www.legislation.gov.uk/ssi/2015/97/regulation/8)
+[^c-b11ae003702f8392668d103a880443f8]: Textual amendment: Words in [reg. 90(1)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/90/1/a) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [8](https://www.legislation.gov.uk/ssi/2015/97/regulation/8)

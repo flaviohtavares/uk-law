@@ -120,7 +120,7 @@ Imports from third countries
 
 Trade between member States
 
-### 1. Scope and interpretation[^key-e79e67b3a139738368a80a2dfbaff7f9]
+### 1. Scope and interpretation[^c-e79e67b3a139738368a80a2dfbaff7f9]
 
 (1) This Schedule applies in relation to the following (referred to in this Schedule as “specified feed additives”) when used as feed additives—
 
@@ -138,7 +138,7 @@ Trade between member States
 - “premixture” means a mixture of a veterinary medicinal product or a specified feed additive with feedingstuffs materials, intended for further mixing with feedingstuffs before being fed to animals;
 - “zootechnical additive” means any additive used to maintain animals in good health or favourably affect their performance.
 
-### 2. Enforcement of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^key-157fb11cd7fe6106eeb3706224a4bc98]
+### 2. Enforcement of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^c-157fb11cd7fe6106eeb3706224a4bc98]
 
 (1) For the purposes of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) (of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00034]) the competent authority is the Secretary of State.
 
@@ -151,7 +151,7 @@ Trade between member States
 - (e) Article 18 (2) and (3) (requirements of traceability) in so far as it relates to feed business operators; and
 - (f) Article 20 (responsibilities of feed business operators).
 
-### 3. Enforcement of Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831)[^key-7eb2bfc0a72153247e0f25b404eeca41]
+### 3. Enforcement of Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831)[^c-7eb2bfc0a72153247e0f25b404eeca41]
 
 (1) For the purposes of Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) (of the European Parliament and the Council on additives for use in animal nutrition[^f00035]) the competent authority is the Secretary of State.
 
@@ -168,11 +168,11 @@ Trade between member States
 - (e) Article 16(4) (premixtures containing specified feed additives);
 - (f) Article 16(5) (packaging).
 
-### 4. Enforcement of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)[^key-59ff807d9a3e99480e94796d5d4b2ed4]
+### 4. Enforcement of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882)[^c-59ff807d9a3e99480e94796d5d4b2ed4]
 
 For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) (of the European Parliament and the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules[^f00036]) the competent authority is the Secretary of State.
 
-### 5. Enforcement of Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183)[^key-b43461d213cf2b386207e71d52443c40]
+### 5. Enforcement of Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183)[^c-b43461d213cf2b386207e71d52443c40]
 
 (1) For the purposes of Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183) (of the European Parliament and of the Council laying down requirements for feed hygiene[^f00037]) the competent authority is the Secretary of State.
 
@@ -192,7 +192,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (4) In the case of the refusal, suspension or revocation of an approval under the Regulation the representations procedure relating to a manufacturing authorisation in paragraph 6 of Schedule 2 applies.
 
-### 6. Approval of manufacturers and distributors of feedingstuffs containing veterinary medicinal products[^key-43b3d77c5e72cdf2566df54a97296b2a]
+### 6. Approval of manufacturers and distributors of feedingstuffs containing veterinary medicinal products[^c-43b3d77c5e72cdf2566df54a97296b2a]
 
 (1) It is an offence to incorporate a veterinary medicinal product into a premixture or feedingstuffs, or to act as a distributor of premixtures or feedingstuffs containing a veterinary medicinal product, without being approved to do so by the Secretary of State.
 
@@ -207,7 +207,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (5) In the case of the refusal, suspension or revocation of an approval under this paragraph the representations procedure relating to a manufacturing authorisation in paragraph 6 of Schedule 2 applies.
 
-### 7. Incorporation of a veterinary medicinal product into a premixture[^key-256f8d0f0a53ad2c8a0e60b04ed24f94]
+### 7. Incorporation of a veterinary medicinal product into a premixture[^c-256f8d0f0a53ad2c8a0e60b04ed24f94]
 
 (1) Any person who incorporates a veterinary medicinal product into a premixture—
 
@@ -216,7 +216,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (2) It is an offence to fail to comply with this paragraph.
 
-### 8. Incorporation of a veterinary medicinal product into feedingstuffs[^key-6340c6f82e177e890d3ebac2146012aa]
+### 8. Incorporation of a veterinary medicinal product into feedingstuffs[^c-6340c6f82e177e890d3ebac2146012aa]
 
 (1) Any person who incorporates a veterinary medicinal product (or a premixture containing a veterinary medicinal product) into feedingstuffs—
 
@@ -227,7 +227,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (2) It is an offence to fail to comply with this paragraph.
 
-### 9. Additional record keeping requirements relating to veterinary medicinal products[^key-76b63171c11fd9a00e31c447b3de966d]
+### 9. Additional record keeping requirements relating to veterinary medicinal products[^c-76b63171c11fd9a00e31c447b3de966d]
 
 (1) Any person who—
 
@@ -256,7 +256,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (5) It is an offence to fail to comply with this paragraph.
 
-### 10. Labelling a premixture containing a veterinary medicinal product[^key-f17c37db81b7abc65d0d6eca00cad8e8]
+### 10. Labelling a premixture containing a veterinary medicinal product[^c-f17c37db81b7abc65d0d6eca00cad8e8]
 
 (1) A premixture containing a veterinary medicinal product must be clearly and legibly labelled with the following—
 
@@ -275,7 +275,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (3) It is an offence to supply such a premixture not labelled in accordance with this paragraph.
 
-### 11. Labelling of feedingstuffs containing a specified feed additive[^key-cc8edca0850e9516015ada34ded553ee]
+### 11. Labelling of feedingstuffs containing a specified feed additive[^c-cc8edca0850e9516015ada34ded553ee]
 
 (1) Feedingstuffs containing a specified feed additive must be clearly and legibly labelled with the following—
 
@@ -288,7 +288,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (2) It is an offence to supply such feedingstuffs not labelled in accordance with this paragraph.
 
-### 12. Labelling of feedingstuffs containing a veterinary medicinal product[^key-66ec0f948282525612f1ccc8a8fda4d4]
+### 12. Labelling of feedingstuffs containing a veterinary medicinal product[^c-66ec0f948282525612f1ccc8a8fda4d4]
 
 (1) Feedingstuffs containing a veterinary medicinal product must be clearly and legibly labelled with the following—
 
@@ -305,19 +305,19 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (2) It is an offence to supply feedingstuffs not labelled in accordance with this paragraph.
 
-### 13. Supply of specified feed additives[^key-ee51aff0aa86083d12d6737a716a8620]
+### 13. Supply of specified feed additives[^c-ee51aff0aa86083d12d6737a716a8620]
 
 (1) A manufacturer or distributor of specified feed additives may only supply them to a person approved to hold them in accordance with this Schedule.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-### 14. Supply of premixture[^key-a4e402e32a7975d2ae2e3593488c56b5]
+### 14. Supply of premixture[^c-a4e402e32a7975d2ae2e3593488c56b5]
 
 (1) A manufacturer or distributor of a premixture may only supply it to a person approved to hold it in accordance with this Schedule.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-### 15. Supply of feedingstuffs containing a veterinary medicinal product[^key-5717ef974f627d29d7b0dae2bf2e0c43]
+### 15. Supply of feedingstuffs containing a veterinary medicinal product[^c-5717ef974f627d29d7b0dae2bf2e0c43]
 
 (1) A manufacturer (if his approval so permits) or distributor of feedingstuffs containing a veterinary medicinal product may only supply those feedingstuffs to—
 
@@ -328,7 +328,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (3) It is an offence to fail to comply with this paragraph.
 
-### 16. Possession[^key-7075feaa95991aa447a96e6e2623ad69]
+### 16. Possession[^c-7075feaa95991aa447a96e6e2623ad69]
 
 (1) It is an offence for any person other than a person holding the appropriate approval under this Schedule to be in possession of any—
 
@@ -338,7 +338,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (2) It is an offence for any person other than a manufacturer or distributor to be in possession of feedingstuffs incorporating a veterinary medicinal product unless it has been supplied under a prescription.
 
-### 17. Sampling and analysis[^key-bbb9bf7bc0425299ec49b2d2d4fcfd6a]
+### 17. Sampling and analysis[^c-bbb9bf7bc0425299ec49b2d2d4fcfd6a]
 
 (1) If any enforcement action is taken under this Schedule based on a sample, that sample must have been taken and analysed in accordance with Council Directive [76/371/EEC](https://www.legislation.gov.uk/european/directive/1976/0371) (establishing Community methods of sampling for the official control of feedingstuffs[^f00038]).
 
@@ -350,19 +350,19 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 - (d) exceeding 5g/kg but not exceeding 50g/kg: ±20%;
 - (e) exceeding 50g/kg: ±10%.
 
-### 18. Storage[^key-60b8aee54e360c5e09dad5ec983eb933]
+### 18. Storage[^c-60b8aee54e360c5e09dad5ec983eb933]
 
 (1) Any person who stores veterinary medicinal products intended for incorporation into feedingstuffs, or a premixture or feedingstuffs containing such veterinary medicinal products, shall do so in a suitable storage area that is locked when not in use or in hermetic containers designed to store those products.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-### 19. Packages and other containers[^key-ad619ca0f6aa92fbc2a5f7076fe3943b]
+### 19. Packages and other containers[^c-ad619ca0f6aa92fbc2a5f7076fe3943b]
 
 (1) Any person placing feedingstuffs containing a veterinary medicinal product on the market in packages or containers must ensure that they are sealed in such a way that, when the package or container is opened, the seal is damaged.
 
 (2) It is an offence to fail to comply with this paragraph.
 
-### 20. Transport[^key-5e8f2aa29d6cae4c823778ac8afd864d]
+### 20. Transport[^c-5e8f2aa29d6cae4c823778ac8afd864d]
 
 (1) In the case of feedingstuffs distributed by road tankers or in bulk the labelling requirements must be given in a document accompanying the feedingstuffs, and the transporter must hand over details when he delivers the feedingstuffs unless these have already been provided to the purchaser.
 
@@ -374,7 +374,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (5) It is an offence to fail to comply with this paragraph.
 
-### 21. Possession, placing on the market and use of feedingstuffs[^key-533185c8b25064f747ef7303355e1272]
+### 21. Possession, placing on the market and use of feedingstuffs[^c-533185c8b25064f747ef7303355e1272]
 
 (1) It is an offence for any person to possess, place on the market or feed to animals any feedingstuffs incorporating veterinary medicinal products or specified feed additives unless they have been incorporated in accordance with this Schedule.
 
@@ -382,7 +382,7 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (3) This paragraph shall not apply in relation to feedingstuffs if the veterinary medicinal product has been incorporated in accordance with an animal test certificate or the feedingstuff has been imported in accordance with this Schedule.
 
-### 22. Prescriptions for feedingstuffs containing a veterinary medicinal product[^key-cf72b1693db6e6d0447066b066ba3f00]
+### 22. Prescriptions for feedingstuffs containing a veterinary medicinal product[^c-cf72b1693db6e6d0447066b066ba3f00]
 
 (1) A prescription for feedingstuffs containing a veterinary medicinal product must be in writing (notwithstanding the provisions of paragraph 5 of Schedule 3) and must contain the following—
 
@@ -425,11 +425,11 @@ For the purposes of Regulation [(EC) No. 882/2004](https://www.legislation.gov.u
 
 (8) It is an offence to fail to comply with this paragraph.
 
-### 23. Imports from third countries[^key-5f3611fa43be7809ef3e3375d139c697]
+### 23. Imports from third countries[^c-5f3611fa43be7809ef3e3375d139c697]
 
 No person shall import feedingstuffs containing a veterinary medicinal product from a third country, and it is an offence to fail to comply with this paragraph.
 
-### 24. Trade between member States[^key-52cbed791408f7948207f62a62402e32]
+### 24. Trade between member States[^c-52cbed791408f7948207f62a62402e32]
 
 (1) No person shall bring in feedingstuffs containing a veterinary medicinal product from another member State unless—
 
@@ -440,62 +440,62 @@ No person shall import feedingstuffs containing a veterinary medicinal product f
 
 ## Annotations
 
-[^key-e79e67b3a139738368a80a2dfbaff7f9]: Commencement: Sch. 5 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e79e67b3a139738368a80a2dfbaff7f9]: Commencement: Sch. 5 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-157fb11cd7fe6106eeb3706224a4bc98]: Commencement: Sch. 5 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-157fb11cd7fe6106eeb3706224a4bc98]: Commencement: Sch. 5 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00034]: Footnote: OJ No. L 31, 1.2.2002, p. 1.
 
-[^key-7eb2bfc0a72153247e0f25b404eeca41]: Commencement: Sch. 5 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7eb2bfc0a72153247e0f25b404eeca41]: Commencement: Sch. 5 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00035]: Footnote: OJ No. L 268, 18.10.2003, p. 29.
 
-[^key-59ff807d9a3e99480e94796d5d4b2ed4]: Commencement: Sch. 5 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-59ff807d9a3e99480e94796d5d4b2ed4]: Commencement: Sch. 5 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00036]: Footnote: Corrected version at OJ No. L 191, 28.5.2004, p. 1.
 
-[^key-b43461d213cf2b386207e71d52443c40]: Commencement: Sch. 5 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-b43461d213cf2b386207e71d52443c40]: Commencement: Sch. 5 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00037]: Footnote: OJ No. L 35, 8.2.2005, p. 1.
 
-[^key-43b3d77c5e72cdf2566df54a97296b2a]: Commencement: Sch. 5 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-43b3d77c5e72cdf2566df54a97296b2a]: Commencement: Sch. 5 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-256f8d0f0a53ad2c8a0e60b04ed24f94]: Commencement: Sch. 5 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-256f8d0f0a53ad2c8a0e60b04ed24f94]: Commencement: Sch. 5 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-6340c6f82e177e890d3ebac2146012aa]: Commencement: Sch. 5 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-6340c6f82e177e890d3ebac2146012aa]: Commencement: Sch. 5 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-76b63171c11fd9a00e31c447b3de966d]: Commencement: Sch. 5 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-76b63171c11fd9a00e31c447b3de966d]: Commencement: Sch. 5 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-f17c37db81b7abc65d0d6eca00cad8e8]: Commencement: Sch. 5 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f17c37db81b7abc65d0d6eca00cad8e8]: Commencement: Sch. 5 para. 10 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-cc8edca0850e9516015ada34ded553ee]: Commencement: Sch. 5 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cc8edca0850e9516015ada34ded553ee]: Commencement: Sch. 5 para. 11 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-66ec0f948282525612f1ccc8a8fda4d4]: Commencement: Sch. 5 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-66ec0f948282525612f1ccc8a8fda4d4]: Commencement: Sch. 5 para. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ee51aff0aa86083d12d6737a716a8620]: Commencement: Sch. 5 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ee51aff0aa86083d12d6737a716a8620]: Commencement: Sch. 5 para. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-a4e402e32a7975d2ae2e3593488c56b5]: Commencement: Sch. 5 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-a4e402e32a7975d2ae2e3593488c56b5]: Commencement: Sch. 5 para. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-5717ef974f627d29d7b0dae2bf2e0c43]: Commencement: Sch. 5 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5717ef974f627d29d7b0dae2bf2e0c43]: Commencement: Sch. 5 para. 15 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-7075feaa95991aa447a96e6e2623ad69]: Commencement: Sch. 5 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-7075feaa95991aa447a96e6e2623ad69]: Commencement: Sch. 5 para. 16 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-bbb9bf7bc0425299ec49b2d2d4fcfd6a]: Commencement: Sch. 5 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bbb9bf7bc0425299ec49b2d2d4fcfd6a]: Commencement: Sch. 5 para. 17 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00038]: Footnote: OJ No. L 102, 15.4.76, p. 1.
 
-[^key-60b8aee54e360c5e09dad5ec983eb933]: Commencement: Sch. 5 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-60b8aee54e360c5e09dad5ec983eb933]: Commencement: Sch. 5 para. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ad619ca0f6aa92fbc2a5f7076fe3943b]: Commencement: Sch. 5 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ad619ca0f6aa92fbc2a5f7076fe3943b]: Commencement: Sch. 5 para. 19 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-5e8f2aa29d6cae4c823778ac8afd864d]: Commencement: Sch. 5 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5e8f2aa29d6cae4c823778ac8afd864d]: Commencement: Sch. 5 para. 20 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-533185c8b25064f747ef7303355e1272]: Commencement: Sch. 5 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-533185c8b25064f747ef7303355e1272]: Commencement: Sch. 5 para. 21 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-cf72b1693db6e6d0447066b066ba3f00]: Commencement: Sch. 5 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cf72b1693db6e6d0447066b066ba3f00]: Commencement: Sch. 5 para. 22 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-5f3611fa43be7809ef3e3375d139c697]: Commencement: Sch. 5 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5f3611fa43be7809ef3e3375d139c697]: Commencement: Sch. 5 para. 23 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-52cbed791408f7948207f62a62402e32]: Commencement: Sch. 5 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-52cbed791408f7948207f62a62402e32]: Commencement: Sch. 5 para. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00039]: Footnote: OJ No. L 92, 7.4.90, p. 42.

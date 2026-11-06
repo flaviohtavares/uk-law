@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.6. Costs where the court has made a group litigation order[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.6. Costs where the court has made a group litigation order[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) Unless the court orders otherwise, any order for common costs against group litigants imposes on each group litigant several liability for an equal proportion of those common costs.
 
-(4)[^key-3923376dc283715a766e0dcd07abac3b] The general rule is that a group litigant who is the paying party will, in addition to any liability to pay the receiving party, be liable for—
+(4)[^c-3923376dc283715a766e0dcd07abac3b] The general rule is that a group litigant who is the paying party will, in addition to any liability to pay the receiving party, be liable for—
 
 - (a) the individual costs of that group litigant’s claim; and
 - (b) an equal proportion, together with all the other group litigants, of the common costs.
@@ -53,6 +53,6 @@ the court will direct the proportion of the costs that is to relate to common co
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-3923376dc283715a766e0dcd07abac3b]: Textual amendment: [Rule 46.6(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/46.6/4) substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/1974/rule/21/a)
+[^c-3923376dc283715a766e0dcd07abac3b]: Textual amendment: [Rule 46.6(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/46.6/4) substituted (1.10.2013) by [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/article/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/1974/rule/21/a)

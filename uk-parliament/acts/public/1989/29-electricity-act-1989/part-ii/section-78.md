@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Government lending to the companies.[^key-ee18e763150552fb50fc986a409b8061]
+## 78. Government lending to the companies.[^c-ee18e763150552fb50fc986a409b8061]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ and the Comptroller and Auditor General shall examine, certify and report on the
 
 ## Annotations
 
-[^key-ee18e763150552fb50fc986a409b8061]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/1989/29/section/78) applied (2.10.2014) by [The Clocaenog Forest Wind Farm Order 2014 (S.I. 2014/2441)](https://www.legislation.gov.uk/uksi/2014/2441), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2441/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2441/article/4/2) (with [art. 33](https://www.legislation.gov.uk/uksi/2014/2441/article/33))
+[^c-ee18e763150552fb50fc986a409b8061]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/1989/29/section/78) applied (2.10.2014) by [The Clocaenog Forest Wind Farm Order 2014 (S.I. 2014/2441)](https://www.legislation.gov.uk/uksi/2014/2441), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2441/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/2441/article/4/2) (with [art. 33](https://www.legislation.gov.uk/uksi/2014/2441/article/33))

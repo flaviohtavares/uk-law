@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.20. Notarial acts and instruments[^key-d3ddbff3696ae526d1ced6c96399760f]
+## 32.20. Notarial acts and instruments[^c-d3ddbff3696ae526d1ced6c96399760f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A notarial act or instrument may be received in evidence without further proof a
 
 ## Annotations
 
-[^key-d3ddbff3696ae526d1ced6c96399760f]: Textual amendment: [Rule 32.20](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.20) inserted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [36](https://www.legislation.gov.uk/uksi/2005/2292/rule/36)
+[^c-d3ddbff3696ae526d1ced6c96399760f]: Textual amendment: [Rule 32.20](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.20) inserted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [36](https://www.legislation.gov.uk/uksi/2005/2292/rule/36)

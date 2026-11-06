@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Extraction of information from electronic devices: investigations of crime etc[^key-02595a09efb7141802dad93b963024e7][^key-e8046404c430f5a528c475fbfd323b81]
+## 37. Extraction of information from electronic devices: investigations of crime etc[^c-02595a09efb7141802dad93b963024e7][^c-e8046404c430f5a528c475fbfd323b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02595a09efb7141802dad93b963024e7]: Commencement: S. 37 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-02595a09efb7141802dad93b963024e7]: Commencement: S. 37 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-e8046404c430f5a528c475fbfd323b81]: Commencement: S. 37 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/a)
+[^c-e8046404c430f5a528c475fbfd323b81]: Commencement: S. 37 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Requirement for teachers in England to serve induction period[^key-f50f61961a7dd8d94c4bff20fba09d91]
+## 9. Requirement for teachers in England to serve induction period[^c-f50f61961a7dd8d94c4bff20fba09d91]
 
 *Extent: E+W*
 
@@ -109,4 +109,4 @@ In Part 8 of EA 2002 (teachers), after section 135 insert—
 
 ## Annotations
 
-[^key-f50f61961a7dd8d94c4bff20fba09d91]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/21/section/9) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-f50f61961a7dd8d94c4bff20fba09d91]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/21/section/9) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

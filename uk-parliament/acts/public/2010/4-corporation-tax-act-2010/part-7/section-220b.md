@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220B. Limit on State aid[^key-2e4e2535e6bff8c5fa1a3286928091ed]
+## 220B. Limit on State aid[^c-2e4e2535e6bff8c5fa1a3286928091ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e4e2535e6bff8c5fa1a3286928091ed]: Textual amendment: [S. 220B](https://www.legislation.gov.uk/ukpga/2010/4/section/220B) inserted (with effect in accordance with Sch. 27 para. 13(2)(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/13/1)
+[^c-2e4e2535e6bff8c5fa1a3286928091ed]: Textual amendment: [S. 220B](https://www.legislation.gov.uk/ukpga/2010/4/section/220B) inserted (with effect in accordance with Sch. 27 para. 13(2)(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 27 para. 13(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/27/paragraph/13/1)

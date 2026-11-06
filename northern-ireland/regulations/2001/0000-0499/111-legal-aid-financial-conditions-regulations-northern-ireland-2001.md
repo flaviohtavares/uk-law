@@ -31,7 +31,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-Legal Aid (Financial Conditions) Regulations (Northern Ireland) 2001 (revoked)[^key-fc50d51614d780c64ce7cc6204b79b96]
+Legal Aid (Financial Conditions) Regulations (Northern Ireland) 2001 (revoked)[^c-fc50d51614d780c64ce7cc6204b79b96]
 
 Made
 
@@ -43,32 +43,32 @@ Coming into operation
 
 9th April 2001
 
-[^key-fc50d51614d780c64ce7cc6204b79b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc50d51614d780c64ce7cc6204b79b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fc50d51614d780c64ce7cc6204b79b96]
+## 1. Citation, commencement and interpretation[^c-fc50d51614d780c64ce7cc6204b79b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Saving and revocation[^key-fc50d51614d780c64ce7cc6204b79b96]
+## 2. Saving and revocation[^c-fc50d51614d780c64ce7cc6204b79b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons eligible for legal aid[^key-fc50d51614d780c64ce7cc6204b79b96]
+## 3. Persons eligible for legal aid[^c-fc50d51614d780c64ce7cc6204b79b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Contributions from persons receiving legal aid[^key-fc50d51614d780c64ce7cc6204b79b96]
+## 4. Contributions from persons receiving legal aid[^c-fc50d51614d780c64ce7cc6204b79b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc50d51614d780c64ce7cc6204b79b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc50d51614d780c64ce7cc6204b79b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc50d51614d780c64ce7cc6204b79b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc50d51614d780c64ce7cc6204b79b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc50d51614d780c64ce7cc6204b79b96]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/111) revoked (8.4.2002) by [Legal Aid (Financial Conditions) Regulations (Northern Ireland) 2002 (S.R. 2002/60)](https://www.legislation.gov.uk/nisr/2002/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/60/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2002/60/regulation/2) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/60/regulation/2/2))
+[^c-fc50d51614d780c64ce7cc6204b79b96]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/111) revoked (8.4.2002) by [Legal Aid (Financial Conditions) Regulations (Northern Ireland) 2002 (S.R. 2002/60)](https://www.legislation.gov.uk/nisr/2002/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/60/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2002/60/regulation/2) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/60/regulation/2/2))

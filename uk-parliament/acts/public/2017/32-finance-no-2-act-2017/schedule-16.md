@@ -344,11 +344,11 @@ HMRC may assess the penalty on the basis of a reasonable estimate by HMRC of tha
 
 - (a) a proposal for arrangements is implemented more than once, by a number of tax arrangements which are substantially the same as each other (“related arrangements”),
 - (b) paragraph 1 applies in relation to particular arrangements (“the arrangements concerned”) which are one of the number of related arrangements implementing the proposal, and
-- (c) at the time when the person who entered into the arrangements concerned incurs a defeat in respect of them (other than a tribunal or court defeat), neither condition 1 nor condition 2 has been met[^key-6fba005d577106001e2d53bd4e6c68f3].
+- (c) at the time when the person who entered into the arrangements concerned incurs a defeat in respect of them (other than a tribunal or court defeat), neither condition 1 nor condition 2 has been met[^c-6fba005d577106001e2d53bd4e6c68f3].
 
-(2) HMRC may not assess any penalty payable under paragraph 1 in respect of the arrangements concerned until condition 1 or condition 2 is met[^key-f629d1f10883eb1fc6f1ad966b0e4a8e].
+(2) HMRC may not assess any penalty payable under paragraph 1 in respect of the arrangements concerned until condition 1 or condition 2 is met[^c-f629d1f10883eb1fc6f1ad966b0e4a8e].
 
-(2A)[^key-268f786178f27a09a4aab025c14e58af] Condition 1 is that a defeat that is a tribunal or court defeat is incurred in the case of at least one of the number of related arrangements implementing the proposal.
+(2A)[^c-268f786178f27a09a4aab025c14e58af] Condition 1 is that a defeat that is a tribunal or court defeat is incurred in the case of at least one of the number of related arrangements implementing the proposal.
 
 (2B) Condition 2 is that the required number or percentage of relevant defeats is reached.
 
@@ -361,7 +361,7 @@ HMRC may assess the penalty on the basis of a reasonable estimate by HMRC of tha
 
 (2E) For the purposes of sub-paragraph (2D), disregard variations that do not substantively alter the basis of the adjustment or assessment in question.
 
-(3) For the purposes of this paragraph the “required number or[^key-7a6bd04a52b3000a70dae017807022c5] percentage of relevant defeats” is reached when HMRC reasonably believe that —[^key-90d635d2dec85bb2a47d0ab23b570554]
+(3) For the purposes of this paragraph the “required number or[^c-7a6bd04a52b3000a70dae017807022c5] percentage of relevant defeats” is reached when HMRC reasonably believe that —[^c-90d635d2dec85bb2a47d0ab23b570554]
 
 - (a) the number of related arrangements implementing the proposal is fewer than 21 and defeats have been incurred in the case of 50% or more of those arrangements;
 - (b) the number of related arrangements implementing the proposal is more than 20 but fewer than 44 and defeats have been incurred in the case of 11 or more of those arrangements;
@@ -387,20 +387,20 @@ HMRC may assess the penalty on the basis of a reasonable estimate by HMRC of tha
 
 (3) Where—
 
-- (a) paragraph 21 prevented a penalty from being assessed before condition 1 or condition 2 was met[^key-bd52d02a7ae2273e1e9eca106d33fc7b], and
-- (b)[^key-715591c678a104834ac61e1e5b36ec85] condition 1 or condition 2 has been met,
+- (a) paragraph 21 prevented a penalty from being assessed before condition 1 or condition 2 was met[^c-bd52d02a7ae2273e1e9eca106d33fc7b], and
+- (b)[^c-715591c678a104834ac61e1e5b36ec85] condition 1 or condition 2 has been met,
 
 the relevant time in relation to that penalty is whichever is the later of—
 
 - (i) the relevant time given by sub-paragraph (2), and
-- (ii) the end of 12 months beginning with the date on which the first of condition 1 or condition 2 was met[^key-65fbe6c01e115fb2fa1d02fa7effee25].
+- (ii) the end of 12 months beginning with the date on which the first of condition 1 or condition 2 was met[^c-65fbe6c01e115fb2fa1d02fa7effee25].
 
 (4) Where under paragraph 21(4) a person requests assessment of a penalty, the relevant time in relation to that penalty is whichever is the later of—
 
 - (a) the relevant time given by sub-paragraph (2), and
 - (b) the end of 12 months beginning with the date on which the request is made,
 
-and sub-paragraph (3) does not apply to the penalty even if condition 1 or condition 2 is met[^key-46acb96f7d690ebb9675313b8d211819].
+and sub-paragraph (3) does not apply to the penalty even if condition 1 or condition 2 is met[^c-46acb96f7d690ebb9675313b8d211819].
 
 (5) Sub-paragraph (6) applies where—
 
@@ -696,7 +696,7 @@ and the reasons for that opinion.
 
 #### Information and inspection powers: application of Schedule 36 to FA 2008
 
-**40.** (1)[^key-d9962e43935ca712fa3ecf287c2611b4] Schedule 36 to FA 2008 (information and inspection powers) applies for the purpose of—
+**40.** (1)[^c-d9962e43935ca712fa3ecf287c2611b4] Schedule 36 to FA 2008 (information and inspection powers) applies for the purpose of—
 
 - (a) checking a relevant person's position as regards liability for a penalty under paragraph 1 in relation to particular tax arrangements;
 - (b) ascertaining the identity of any other person who has or may have enabled those arrangements,
@@ -705,22 +705,22 @@ as it applies for the purpose of checking a person's tax position, subject to th
 
 (2) In this paragraph and paragraphs 41 to 43—
 
-- “**relevant person**” means a person an officer of Revenue and Customs has reason to suspect is or may be liable to a penalty under paragraph 1 (or will become or may become so liable if T incurs a defeat)[^key-da62cbf73efdecf7aa4e38691f8661f6];
+- “**relevant person**” means a person an officer of Revenue and Customs has reason to suspect is or may be liable to a penalty under paragraph 1 (or will become or may become so liable if T incurs a defeat)[^c-da62cbf73efdecf7aa4e38691f8661f6];
 - “**the Schedule**” means Schedule 36 to FA 2008.
 
-(3)[^key-0042de38e0f2661c760ded9b32b6415e] References in this paragraph and paragraphs 41 and 42 to a person who has or may have enabled particular tax arrangements are to be read in accordance with Part 4 of this Schedule (persons who “enabled” the arrangements), save that—
+(3)[^c-0042de38e0f2661c760ded9b32b6415e] References in this paragraph and paragraphs 41 and 42 to a person who has or may have enabled particular tax arrangements are to be read in accordance with Part 4 of this Schedule (persons who “enabled” the arrangements), save that—
 
 - (a) references in that Part to the arrangements mentioned in paragraph 1 (however expressed) are to be read as references to the particular tax arrangements, and
 - (b) references in that Part to “T” are to be read as references to the person who entered into the particular tax arrangements.
 
 #### General modifications of Schedule 36 to FA 2008 as applied
 
-**41.** In its application for a purpose[^key-5a3412bfbe227cd6c283ba5d692a3a57] mentioned in paragraph 40(1) above, the Schedule has effect as if—
+**41.** In its application for a purpose[^c-5a3412bfbe227cd6c283ba5d692a3a57] mentioned in paragraph 40(1) above, the Schedule has effect as if—
 
 - (a) any provisions which can have no application for that purpose were omitted,
 - (b) references to “the taxpayer” were references to the relevant person whose position as regards liability for a penalty under paragraph 1 is to be checked, and references to “a taxpayer” were references to a relevant person,
 - (c) references to a person's “tax position” were to the relevant person's position as regards liability for a penalty under paragraph 1,
-- (d) references to prejudice to the assessment or collection of tax included prejudice to —[^key-0a1037d3fe7ca9276c6b79d308affedb]
+- (d) references to prejudice to the assessment or collection of tax included prejudice to —[^c-0a1037d3fe7ca9276c6b79d308affedb]
   - (i) the investigation of the relevant person's position as regards liability for a penalty under paragraph 1 in relation to particular tax arrangements, or (as the case may be)
   - (ii) the identification of any other person who has or may have enabled those arrangements, and
 - (e) references to a pending appeal relating to tax were to a pending appeal relating to an assessment of liability for a penalty under paragraph 1.
@@ -729,15 +729,15 @@ as it applies for the purpose of checking a person's tax position, subject to th
 
 **Not yet in force.**
 
-**42.** (1) The Schedule as it applies for a purpose[^key-b7d6979a7f4d4ae80b7674d2ed2d5595] mentioned in paragraph 40(1) above has effect with the modifications in sub-paragraphs (1A)[^key-e815128ab8da72b6fd278218dad3f6ef] to (6).
+**42.** (1) The Schedule as it applies for a purpose[^c-b7d6979a7f4d4ae80b7674d2ed2d5595] mentioned in paragraph 40(1) above has effect with the modifications in sub-paragraphs (1A)[^c-e815128ab8da72b6fd278218dad3f6ef] to (6).
 
-(1A)[^key-09fbff0fd9d575901b1095c7989f8bce] Paragraph 1 (taxpayer notices) has effect as if the reference to checking the taxpayer's tax position (as modified by paragraph 41 of this Schedule) included a reference to ascertaining the identity of any other person who has or may have enabled the particular tax arrangements in relation to which the relevant person's position as regards liability to a penalty under paragraph 1 is to be checked.
+(1A)[^c-09fbff0fd9d575901b1095c7989f8bce] Paragraph 1 (taxpayer notices) has effect as if the reference to checking the taxpayer's tax position (as modified by paragraph 41 of this Schedule) included a reference to ascertaining the identity of any other person who has or may have enabled the particular tax arrangements in relation to which the relevant person's position as regards liability to a penalty under paragraph 1 is to be checked.
 
 (1B) Paragraph 10 (power to inspect business premises etc) has effect as if the reference to checking that person's tax position (as modified by paragraph 41 of this Schedule) included a reference to ascertaining the identity of any other person who has or may have enabled the particular tax arrangements in relation to which the relevant person's position as regards liability to a penalty under paragraph 1 is to be checked.
 
 (2) Paragraph 10A (power to inspect business premises of involved third parties) has effect as if the reference in sub-paragraph (1) to the position of any person or class of persons as regards a relevant tax were to the position of a relevant person as regards liability for a penalty under paragraph 1.
 
-(2A)[^key-690d67ceaf51732e8976930e4b5f2add] Paragraph 25 (tax advisers) is treated as omitted.
+(2A)[^c-690d67ceaf51732e8976930e4b5f2add] Paragraph 25 (tax advisers) is treated as omitted.
 
 (3) Paragraph 47 (right to appeal against penalties under the Schedule) has effect as if after paragraph (b) (but not as part of that paragraph) there were inserted the words “but paragraph (b) does not give a right of appeal against the amount of an increased daily penalty payable by virtue of paragraph 49A.
 
@@ -766,7 +766,7 @@ as it applies for the purpose of checking a person's tax position, subject to th
 
 **Not yet in force.**
 
-**43.** Paragraphs 50 and 51 are excluded from the application of the Schedule for a purpose[^key-0f9eb5d1cfe19dbbf89aaa785a76a55b] mentioned in paragraph 40(1) above.
+**43.** Paragraphs 50 and 51 are excluded from the application of the Schedule for a purpose[^c-0f9eb5d1cfe19dbbf89aaa785a76a55b] mentioned in paragraph 40(1) above.
 
 #### Declarations about contents of legally privileged communications
 
@@ -874,15 +874,15 @@ and “contract settlement” here means a contract between the Commissioners an
 
 - (a) a penalty which has been reduced to nil or stayed;
 - (b) a penalty by reference to which information has previously been published under paragraph 46;
-- (c)[^key-ccb1ad635ed8a305d6b2f1e065775f02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ccb1ad635ed8a305d6b2f1e065775f02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a penalty that relates to arrangements which are related to arrangements that have already been dealt with (within the meaning given by sub-paragraph (4)).
 
-(2) For the purposes of sub-paragraph (1)(d)[^key-d1d3ac09b530b06ea1f40cbd61549cce] arrangements are “related to” each other if they—
+(2) For the purposes of sub-paragraph (1)(d)[^c-d1d3ac09b530b06ea1f40cbd61549cce] arrangements are “related to” each other if they—
 
 - (a) implement the same proposal for tax arrangements, and
 - (b) are substantially the same as each other.
 
-(3)[^key-cae11189a36030b35570c866d18844e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cae11189a36030b35570c866d18844e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of sub-paragraph (1)(d) arrangements have “already been dealt with” if information about the person has already been published under paragraph 46 by reference to a penalty that relates to those arrangements.
 
@@ -1084,46 +1084,46 @@ is subject to annulment in pursuance of a resolution of the House of Commons.
 
 ## Annotations
 
-[^key-6fba005d577106001e2d53bd4e6c68f3]: Textual amendment: Words in [Sch. 16 para. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/1/c) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/a) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-6fba005d577106001e2d53bd4e6c68f3]: Textual amendment: Words in [Sch. 16 para. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/1/c) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/a) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-f629d1f10883eb1fc6f1ad966b0e4a8e]: Textual amendment: Words in [Sch. 16 para. 21(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/2) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/b) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-f629d1f10883eb1fc6f1ad966b0e4a8e]: Textual amendment: Words in [Sch. 16 para. 21(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/2) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/b) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-268f786178f27a09a4aab025c14e58af]: Textual amendment: [Sch. 16 para. 21(2A)-(2E)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/2A) inserted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/c) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-268f786178f27a09a4aab025c14e58af]: Textual amendment: [Sch. 16 para. 21(2A)-(2E)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/2A) inserted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/c) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-7a6bd04a52b3000a70dae017807022c5]: Textual amendment: Words in [Sch. 16 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/3) inserted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/d/i) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-7a6bd04a52b3000a70dae017807022c5]: Textual amendment: Words in [Sch. 16 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/3) inserted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/d/i) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-90d635d2dec85bb2a47d0ab23b570554]: Textual amendment: [Sch. 16 para. 21(3)(a)-(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/3/a) substituted for words (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/d/ii) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-90d635d2dec85bb2a47d0ab23b570554]: Textual amendment: [Sch. 16 para. 21(3)(a)-(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/21/3/a) substituted for words (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/2/d/ii) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-bd52d02a7ae2273e1e9eca106d33fc7b]: Textual amendment: Words in [Sch. 16 para. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/3/a) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/a/i) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-bd52d02a7ae2273e1e9eca106d33fc7b]: Textual amendment: Words in [Sch. 16 para. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/3/a) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/a/i) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-715591c678a104834ac61e1e5b36ec85]: Textual amendment: Words in [Sch. 16 para. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/3/b) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/a/ii) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-715591c678a104834ac61e1e5b36ec85]: Textual amendment: Words in [Sch. 16 para. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/3/b) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/a/ii) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-65fbe6c01e115fb2fa1d02fa7effee25]: Textual amendment: Words in [Sch. 16 para. 22(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/3/b/ii) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/a/iii) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-65fbe6c01e115fb2fa1d02fa7effee25]: Textual amendment: Words in [Sch. 16 para. 22(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/3/b/ii) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/a/iii) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-46acb96f7d690ebb9675313b8d211819]: Textual amendment: Words in [Sch. 16 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/4) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/b) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
+[^c-46acb96f7d690ebb9675313b8d211819]: Textual amendment: Words in [Sch. 16 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/22/4) substituted (with effect in accordance with s. 123(9)-(11) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/3/b) (with [s. 123(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/9))
 
-[^key-d9962e43935ca712fa3ecf287c2611b4]: Textual amendment: [Sch. 16 para. 40(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/40/1) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(4)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/4/a) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-d9962e43935ca712fa3ecf287c2611b4]: Textual amendment: [Sch. 16 para. 40(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/40/1) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(4)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/4/a) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-da62cbf73efdecf7aa4e38691f8661f6]: Textual amendment: Words in [Sch. 16 para. 40(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/40/2) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(4)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/4/b) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-da62cbf73efdecf7aa4e38691f8661f6]: Textual amendment: Words in [Sch. 16 para. 40(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/40/2) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(4)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/4/b) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-0042de38e0f2661c760ded9b32b6415e]: Textual amendment: [Sch. 16 para. 40(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/40/3) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(4)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/4/c) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-0042de38e0f2661c760ded9b32b6415e]: Textual amendment: [Sch. 16 para. 40(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/40/3) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(4)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/4/c) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-5a3412bfbe227cd6c283ba5d692a3a57]: Textual amendment: Words in [Sch. 16 para. 41](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/41) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(5)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/5/a) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-5a3412bfbe227cd6c283ba5d692a3a57]: Textual amendment: Words in [Sch. 16 para. 41](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/41) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(5)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/5/a) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-0a1037d3fe7ca9276c6b79d308affedb]: Textual amendment: [Sch. 16 para. 41(d)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/41/d/i)[(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/41/d/ii) substituted for words (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(5)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/5/b) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-0a1037d3fe7ca9276c6b79d308affedb]: Textual amendment: [Sch. 16 para. 41(d)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/41/d/i)[(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/41/d/ii) substituted for words (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(5)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/5/b) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-b7d6979a7f4d4ae80b7674d2ed2d5595]: Textual amendment: Words in [Sch. 16 para. 42(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/a/i) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-b7d6979a7f4d4ae80b7674d2ed2d5595]: Textual amendment: Words in [Sch. 16 para. 42(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/a/i) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-e815128ab8da72b6fd278218dad3f6ef]: Textual amendment: Word in [Sch. 16 para. 42(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/a/ii) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-e815128ab8da72b6fd278218dad3f6ef]: Textual amendment: Word in [Sch. 16 para. 42(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/a/ii) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-09fbff0fd9d575901b1095c7989f8bce]: Textual amendment: [Sch. 16 para. 42(1A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1B) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/b) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-09fbff0fd9d575901b1095c7989f8bce]: Textual amendment: [Sch. 16 para. 42(1A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/1B) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/b) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-690d67ceaf51732e8976930e4b5f2add]: Textual amendment: [Sch. 16 para. 42(2A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/2A) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/c) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-690d67ceaf51732e8976930e4b5f2add]: Textual amendment: [Sch. 16 para. 42(2A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/42/2A) inserted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(6)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/6/c) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-0f9eb5d1cfe19dbbf89aaa785a76a55b]: Textual amendment: Words in [Sch. 16 para. 43](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/43) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/7) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
+[^c-0f9eb5d1cfe19dbbf89aaa785a76a55b]: Textual amendment: Words in [Sch. 16 para. 43](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/43) substituted (with effect in accordance with s. 123(12) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/7) (with [s. 123(12)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/12))
 
-[^key-ccb1ad635ed8a305d6b2f1e065775f02]: Textual amendment: [Sch. 16 para. 48(1)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/48/1/c) omitted (with effect in accordance with s. 123(13) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(8)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/8/a) (with [s. 123(13)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/13))
+[^c-ccb1ad635ed8a305d6b2f1e065775f02]: Textual amendment: [Sch. 16 para. 48(1)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/48/1/c) omitted (with effect in accordance with s. 123(13) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(8)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/8/a) (with [s. 123(13)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/13))
 
-[^key-d1d3ac09b530b06ea1f40cbd61549cce]: Textual amendment: Word in [Sch. 16 para. 48(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/48/2) substituted (with effect in accordance with s. 123(13) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(8)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/8/b) (with [s. 123(13)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/13))
+[^c-d1d3ac09b530b06ea1f40cbd61549cce]: Textual amendment: Word in [Sch. 16 para. 48(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/48/2) substituted (with effect in accordance with s. 123(13) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(8)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/8/b) (with [s. 123(13)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/13))
 
-[^key-cae11189a36030b35570c866d18844e3]: Textual amendment: [Sch. 16 para. 48(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/48/3) omitted (with effect in accordance with s. 123(13) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(8)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/8/c) (with [s. 123(13)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/13))
+[^c-cae11189a36030b35570c866d18844e3]: Textual amendment: [Sch. 16 para. 48(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/16/paragraph/48/3) omitted (with effect in accordance with s. 123(13) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 123(8)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/8/c) (with [s. 123(13)](https://www.legislation.gov.uk/ukpga/2021/26/section/123/13))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7.8B. Special measures direction relating to a person who is, or is at risk of, being subjected to abusive behaviour[^key-c7453f135c9b4e8640bbfe1b271f07f3]
+## 7.8B. Special measures direction relating to a person who is, or is at risk of, being subjected to abusive behaviour[^c-c7453f135c9b4e8640bbfe1b271f07f3]
 
 *Extent: N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7453f135c9b4e8640bbfe1b271f07f3]: Textual amendment: [Rule 7.8B](https://www.legislation.gov.uk/nisr/1996/322/rule/7.8B) inserted (28.11.2022) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/254)](https://www.legislation.gov.uk/nisr/2022/254), [rules 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1), [4](https://www.legislation.gov.uk/nisr/2022/254/rule/4); [S.R. 2022/253](https://www.legislation.gov.uk/nisr/2022/253), [art. 2](https://www.legislation.gov.uk/nisr/2022/253/article/2)
+[^c-c7453f135c9b4e8640bbfe1b271f07f3]: Textual amendment: [Rule 7.8B](https://www.legislation.gov.uk/nisr/1996/322/rule/7.8B) inserted (28.11.2022) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/254)](https://www.legislation.gov.uk/nisr/2022/254), [rules 1](https://www.legislation.gov.uk/nisr/2022/254/rule/1), [4](https://www.legislation.gov.uk/nisr/2022/254/rule/4); [S.R. 2022/253](https://www.legislation.gov.uk/nisr/2022/253), [art. 2](https://www.legislation.gov.uk/nisr/2022/253/article/2)

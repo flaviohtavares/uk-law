@@ -32,7 +32,7 @@ summary: ''
     - (aa) the loss in value that would result from closing out a derivative contract and making special bail-in provision (within the meaning given by section 48B) in respect of that contract; and
     - (bb) the reduction in the liabilities of the institution which is subject to the special bail-in provision as a result of making that provision in respect of the derivative contract.
 
-(3)[^key-1aad111153c28a3f1df25c3654de1219] Subject to paragraph (4), the Bank may make technical standards specifying—
+(3)[^c-1aad111153c28a3f1df25c3654de1219] Subject to paragraph (4), the Bank may make technical standards specifying—
 
 - (a) appropriate methodologies for the purposes of paragraph (2)(b)(i);
 - (b) principles for the purposes of paragraph (2)(b)(ii); or
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22308091]: Marginal citation: Section 48X was inserted by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329).
 
-[^key-1aad111153c28a3f1df25c3654de1219]: Textual amendment: [Art. 158(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/158/3)[(4)](https://www.legislation.gov.uk/uksi/2014/3348/article/158/4) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 90(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/90/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1aad111153c28a3f1df25c3654de1219]: Textual amendment: [Art. 158(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/158/3)[(4)](https://www.legislation.gov.uk/uksi/2014/3348/article/158/4) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 90(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/90/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

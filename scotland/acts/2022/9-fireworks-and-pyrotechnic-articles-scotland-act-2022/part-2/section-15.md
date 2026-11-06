@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. False statements[^key-c2de97a17479e3216f5a525104cb4dd1]
+## 15. False statements[^c-c2de97a17479e3216f5a525104cb4dd1]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2de97a17479e3216f5a525104cb4dd1]: Commencement: S. 15 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-c2de97a17479e3216f5a525104cb4dd1]: Commencement: S. 15 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

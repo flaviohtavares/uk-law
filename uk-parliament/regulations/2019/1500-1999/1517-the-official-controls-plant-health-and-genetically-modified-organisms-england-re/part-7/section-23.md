@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Schedule 2[^key-baf708f62b3fc8b10ccfcd5dd957c0ad]
+## 23. Schedule 2[^c-baf708f62b3fc8b10ccfcd5dd957c0ad]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 contains specific measures relating to certain solanaceous species.
 
 ## Annotations
 
-[^key-baf708f62b3fc8b10ccfcd5dd957c0ad]: Commencement: Reg. 23 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-baf708f62b3fc8b10ccfcd5dd957c0ad]: Commencement: Reg. 23 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)

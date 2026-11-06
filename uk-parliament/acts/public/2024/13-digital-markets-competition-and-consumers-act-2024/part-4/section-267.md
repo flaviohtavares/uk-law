@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Cancellation of subscription contract: further provision[^key-76b990155eeecfd999c38083d3606c41]
+## 267. Cancellation of subscription contract: further provision[^c-76b990155eeecfd999c38083d3606c41]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76b990155eeecfd999c38083d3606c41]: Commencement: S. 267 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-76b990155eeecfd999c38083d3606c41]: Commencement: S. 267 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)

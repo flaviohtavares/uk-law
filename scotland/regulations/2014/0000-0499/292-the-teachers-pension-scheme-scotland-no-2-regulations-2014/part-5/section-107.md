@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Entitlement to ill-health pension[^key-73ac5538b49b519fbb07d9a2789e19b9]
+## 107. Entitlement to ill-health pension[^c-73ac5538b49b519fbb07d9a2789e19b9]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73ac5538b49b519fbb07d9a2789e19b9]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2014/292/regulation/107) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-73ac5538b49b519fbb07d9a2789e19b9]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2014/292/regulation/107) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

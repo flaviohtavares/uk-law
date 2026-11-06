@@ -37,7 +37,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred upon her by sections 104(6)(a) and 105(3) to (6) of the Water Act 2003[^f00001] and having consulted the National Assembly for Wales[^f00002], hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-b262b9953c50d805a67aff5d52cdf022]
+## 1. Citation and interpretation[^c-b262b9953c50d805a67aff5d52cdf022]
 
 (1) This Order may be cited as the Water Act 2003 (Commencement No. 4, Transitional Provisions and Savings) Order 2005.
 
@@ -49,7 +49,7 @@ The Secretary of State, in exercise of the powers conferred upon her by sections
 
 (3) Unless the contrary intention appears, any reference in this Order to a section or Schedule is a reference to a section of or a Schedule to the Act.
 
-## 2. Provisions coming into force on 1st April 2005[^key-f639489dccf83560e6498bc096b09892]
+## 2. Provisions coming into force on 1st April 2005[^c-f639489dccf83560e6498bc096b09892]
 
 The following provisions of the Act shall come into force on 1st April 2005—
 
@@ -79,7 +79,7 @@ The following provisions of the Act shall come into force on 1st April 2005—
   - (iv) the repeal of paragraph 5(3) of Schedule 10 to the Competition Act 1998[^f00007]; and
   - (v) the repeal in relation to the reference in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999[^f00008] to section 2 of the WIA, in so far as it relates to provisions amended or introduced by any provision of the Act which is brought into force by virtue of this article.
 
-## 3. Provisions coming into force on 1st August 2005[^key-3229eec257e673765687ad207611db50]
+## 3. Provisions coming into force on 1st August 2005[^c-3229eec257e673765687ad207611db50]
 
 The following provisions of the Act shall come into force on 1st August 2005—
 
@@ -98,7 +98,7 @@ The following provisions of the Act shall come into force on 1st August 2005—
   - (iii) subsection (7), in so far as it relates to subsection (6) (so far as brought into force by sub-paragraph (ii)) or the amendments made by subsection (2) (so far as brought into force by sub-paragraph (i)); and
 - (d) section 101(1) (minor and consequential amendments and repeals), in so far as it relates to the amendments made, in paragraph 27 of Schedule 7, by sub-paragraph (7)(b) and sub paragraph (1) in so far it relates to that sub-paragraph.
 
-## 4. Transitional provisions, savings and revocation[^key-509faaf885250dd24894ab08f5699440]
+## 4. Transitional provisions, savings and revocation[^c-509faaf885250dd24894ab08f5699440]
 
 (1) The transitional provisions and savings in the Schedules to this Order shall have effect.
 
@@ -118,7 +118,7 @@ Department for Environment, Food and Rural Affairs
 
 Article 4
 
-### 1. Interpretation[^key-0375b3ad60d54a9e235a9c78e8944752]
+### 1. Interpretation[^c-0375b3ad60d54a9e235a9c78e8944752]
 
 (1) In this Schedule—
 
@@ -146,7 +146,7 @@ Article 4
 
 (3) Any reference in this Schedule to a regulation is a reference to a regulation in the Succession Regulations.
 
-### 2. Protected rights[^key-2dcad906154f523c81bca59bb02a0d1a]
+### 2. Protected rights[^c-2dcad906154f523c81bca59bb02a0d1a]
 
 (1) Until such time as section 23 (transfer and apportionment of licences), in so far as it inserts section 59C of the WRA (apportionment of licences to abstract), is fully in force, section 39A of the WRA (protected rights for the purposes of Chapter 2 of Part 2), as inserted by section 17, shall have effect as if—
 
@@ -157,7 +157,7 @@ were omitted.
 
 (2) Until such time as section 1 (licences to abstract water) is fully in force, section 102(3) (specific transitional and transitory provisions) shall have effect as if the reference to a full licence were a reference to an abstraction licence.
 
-### 3. Relevant applications[^key-03e86221030e94e05217c14d5014a79b]
+### 3. Relevant applications[^c-03e86221030e94e05217c14d5014a79b]
 
 (1) An abstraction to which a relevant application relates shall be treated, until that application is finally disposed of, as if the amendments made by section 6, so far as it comes into force in accordance with this Order, had not been made.
 
@@ -165,7 +165,7 @@ were omitted.
 
 (3) For the purposes of sub-paragraph (2), a “relevant licence” means an abstraction licence arising from the final disposal of a relevant application.
 
-### 4. Relevant applications: duty on Agency to inform applicants of transitional arrangements[^key-4623201dd178d19ea2372655e8bac5aa]
+### 4. Relevant applications: duty on Agency to inform applicants of transitional arrangements[^c-4623201dd178d19ea2372655e8bac5aa]
 
 The Agency shall by 1st June 2005 serve notice in writing on every person who has made a relevant application stating that—
 
@@ -178,7 +178,7 @@ The Agency shall by 1st June 2005 serve notice in writing on every person who ha
   - (ii) consideration of that application will continue; and
   - (iii) any decision to grant a licence will have effect only for the purpose of determining the extent of the applicant’s protected right.
 
-### 5. Aggregated abstractions[^key-908565633d2e66d4b42cb1fe0852b9c1]
+### 5. Aggregated abstractions[^c-908565633d2e66d4b42cb1fe0852b9c1]
 
 (1) For the purposes of this paragraph—
 
@@ -200,7 +200,7 @@ The Agency shall by 1st June 2005 serve notice in writing on every person who ha
 
 (5) Section 43(1)(a) of the WRA (appeals to the Secretary of State) shall have effect in relation to a licence granted in accordance with sub-paragraph (3) as if that licence had been granted on an application to the Agency.
 
-### 6. Succession to entire abstraction licence authorising a relevant abstraction[^key-db7a750cd229200b0caf1d97aaf61aa3]
+### 6. Succession to entire abstraction licence authorising a relevant abstraction[^c-db7a750cd229200b0caf1d97aaf61aa3]
 
 (1) For the purposes of sub-paragraph (2), “relevant licence” means a licence authorising a licensed relevant abstraction that—
 
@@ -220,7 +220,7 @@ The Agency shall by 1st June 2005 serve notice in writing on every person who ha
 
 (6) For the purposes of the application of section 102(3) in relation to a licence referred to in sub-paragraph (5), that licence shall be treated as if section 102(2) applied to it immediately after the licence was varied in accordance with section 49(4) of the WRA.
 
-### 7. Succession to part of abstraction licence authorising relevant abstraction[^key-15f249937615fc05a7f7adc1212552fd]
+### 7. Succession to part of abstraction licence authorising relevant abstraction[^c-15f249937615fc05a7f7adc1212552fd]
 
 (1) For the purposes of this paragraph, “relevant licence” means a licence authorising a licensed relevant abstraction in relation to which a precondition mentioned in paragraph (a) or (b) of section 50(1) of the WRA (succession where person becomes occupier of part of the relevant land) is satisfied before the relevant date.
 
@@ -251,7 +251,7 @@ The Agency shall by 1st June 2005 serve notice in writing on every person who ha
 
 (10) A new licence shall have effect for the purposes of sections 48(1) (which relates to protected rights) and 189 (register of abstraction and impounding licences) of the WRA.
 
-### 8. Succession to part of abstraction licence authorising abstraction other than a relevant abstraction[^key-76fcdcaef1ab54547853f195219a01a4]
+### 8. Succession to part of abstraction licence authorising abstraction other than a relevant abstraction[^c-76fcdcaef1ab54547853f195219a01a4]
 
 (1) For the purposes of this paragraph—
 
@@ -268,7 +268,7 @@ The Agency shall by 1st June 2005 serve notice in writing on every person who ha
 
 (3) A part licence shall have effect for the purposes of sections 48(1) and 189 of the WRA.
 
-### 9. Application of section 189 of the WRA to certain applications[^key-64e108e7849aad92215a8814371fbd4d]
+### 9. Application of section 189 of the WRA to certain applications[^c-64e108e7849aad92215a8814371fbd4d]
 
 Section 189 of the WRA, and any regulations having effect under that section, shall apply in relation to any licence referred to in paragraph 6(2), 6(6), 7(5) or 7(6) as if it were a licence under Chapter 2 of Part 2 of the WRA.
 
@@ -276,13 +276,13 @@ Section 189 of the WRA, and any regulations having effect under that section, sh
 
 Article 4
 
-**1.**[^key-92f5f68b1b94771b93f1f19d0a21bbca] Section 195A of the WIA (reasons for decisions), as inserted by section 51, shall only apply to decisions made after 1st April 2005.
+**1.**[^c-92f5f68b1b94771b93f1f19d0a21bbca] Section 195A of the WIA (reasons for decisions), as inserted by section 51, shall only apply to decisions made after 1st April 2005.
 
-**2.**[^key-6765b93c8b94597a6e783ccd936bbd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6765b93c8b94597a6e783ccd936bbd1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-58178f6c7b66161a73c1777d8d724f4f] Until such time as section 35(1) (the Council), in so far as it inserts section 27A of the WIA (establishment of the Council and committees), and section 35(2) to (4) are fully in force, any reference to the Council in any provision of the WIA introduced or amended by the Act and by virtue of this Order, except section 27A, shall have effect as if it were a reference to the customer service committees.
+**3.**[^c-58178f6c7b66161a73c1777d8d724f4f] Until such time as section 35(1) (the Council), in so far as it inserts section 27A of the WIA (establishment of the Council and committees), and section 35(2) to (4) are fully in force, any reference to the Council in any provision of the WIA introduced or amended by the Act and by virtue of this Order, except section 27A, shall have effect as if it were a reference to the customer service committees.
 
-**4.**[^key-363d2eef24ae7ed7f0da8c1febb154fa] Until the coming fully into force of section 36(1) (transfer to the Water Services Regulation Authority and the Council of functions, property etc), any reference to the Water Services Regulation Authority in any provision of the WIA introduced or amended by the Act and by virtue of this Order shall have effect as if it were a reference to the Director General of Water Services.
+**4.**[^c-363d2eef24ae7ed7f0da8c1febb154fa] Until the coming fully into force of section 36(1) (transfer to the Water Services Regulation Authority and the Council of functions, property etc), any reference to the Water Services Regulation Authority in any provision of the WIA introduced or amended by the Act and by virtue of this Order shall have effect as if it were a reference to the Director General of Water Services.
 
 (This note is not part of the Order)
 
@@ -401,11 +401,11 @@ The following provisions of the Act have been brought into force in Wales by com
 
 [^f00002]: Footnote: The power in section 105(3) to appoint a day on which provisions of the Water Act 2003 shall come into force is vested in the “appropriate authority”. The appropriate authority in relation to provisions of the Act for which a day is appointed by this Order is the Secretary of State after consulting “the Assembly” (the National Assembly for Wales: section 105(2)).
 
-[^key-b262b9953c50d805a67aff5d52cdf022]: Commencement: Art. 1 in force at made date
+[^c-b262b9953c50d805a67aff5d52cdf022]: Commencement: Art. 1 in force at made date
 
 [^f00003]: Footnote: The expression “the WIA” means the Water Industry Act [1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56) (section 105(2) of the Act).
 
-[^key-f639489dccf83560e6498bc096b09892]: Commencement: Art. 2 in force at made date
+[^c-f639489dccf83560e6498bc096b09892]: Commencement: Art. 2 in force at made date
 
 [^f00004]: Footnote: The expression “the WRA” means the Water Resources Act [1991 (c. 57)](https://www.legislation.gov.uk/ukpga/1991/57) (section 105(2) of the Act).
 
@@ -417,39 +417,39 @@ The following provisions of the Act have been brought into force in Wales by com
 
 [^f00008]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672).
 
-[^key-3229eec257e673765687ad207611db50]: Commencement: Art. 3 in force at made date
+[^c-3229eec257e673765687ad207611db50]: Commencement: Art. 3 in force at made date
 
-[^key-509faaf885250dd24894ab08f5699440]: Commencement: Art. 4 in force at made date
+[^c-509faaf885250dd24894ab08f5699440]: Commencement: Art. 4 in force at made date
 
-[^key-0375b3ad60d54a9e235a9c78e8944752]: Commencement: Sch. 1 para. 1 in force at made date
+[^c-0375b3ad60d54a9e235a9c78e8944752]: Commencement: Sch. 1 para. 1 in force at made date
 
 [^f00009]: Footnote: [S.I. 1969/976](https://www.legislation.gov.uk/uksi/1969/976).
 
-[^key-2dcad906154f523c81bca59bb02a0d1a]: Commencement: Sch. 1 para. 2 in force at made date
+[^c-2dcad906154f523c81bca59bb02a0d1a]: Commencement: Sch. 1 para. 2 in force at made date
 
-[^key-03e86221030e94e05217c14d5014a79b]: Commencement: Sch. 1 para. 3 in force at made date
+[^c-03e86221030e94e05217c14d5014a79b]: Commencement: Sch. 1 para. 3 in force at made date
 
-[^key-4623201dd178d19ea2372655e8bac5aa]: Commencement: Sch. 1 para. 4 in force at made date
+[^c-4623201dd178d19ea2372655e8bac5aa]: Commencement: Sch. 1 para. 4 in force at made date
 
-[^key-908565633d2e66d4b42cb1fe0852b9c1]: Commencement: Sch. 1 para. 5 in force at made date
+[^c-908565633d2e66d4b42cb1fe0852b9c1]: Commencement: Sch. 1 para. 5 in force at made date
 
-[^key-db7a750cd229200b0caf1d97aaf61aa3]: Commencement: Sch. 1 para. 6 in force at made date
+[^c-db7a750cd229200b0caf1d97aaf61aa3]: Commencement: Sch. 1 para. 6 in force at made date
 
 [^f00010]: Footnote: Section 49 was amended by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120 and Schedule 22, paragraph 128.
 
-[^key-15f249937615fc05a7f7adc1212552fd]: Commencement: Sch. 1 para. 7 in force at made date
+[^c-15f249937615fc05a7f7adc1212552fd]: Commencement: Sch. 1 para. 7 in force at made date
 
-[^key-76fcdcaef1ab54547853f195219a01a4]: Commencement: Sch. 1 para. 8 in force at made date
+[^c-76fcdcaef1ab54547853f195219a01a4]: Commencement: Sch. 1 para. 8 in force at made date
 
-[^key-64e108e7849aad92215a8814371fbd4d]: Commencement: Sch. 1 para. 9 in force at made date
+[^c-64e108e7849aad92215a8814371fbd4d]: Commencement: Sch. 1 para. 9 in force at made date
 
-[^key-92f5f68b1b94771b93f1f19d0a21bbca]: Commencement: Sch. 2 para. 1 in force at made date
+[^c-92f5f68b1b94771b93f1f19d0a21bbca]: Commencement: Sch. 2 para. 1 in force at made date
 
-[^key-6765b93c8b94597a6e783ccd936bbd1a]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/2/paragraph/2) revoked (1.10.2005) by [The Water Act 2003 (Commencement No. 5, Transitional Provisions and Savings) Order 2005 (S.I. 2005/2714)](https://www.legislation.gov.uk/uksi/2005/2714), [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/2714/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2005/2714/article/5/3)
+[^c-6765b93c8b94597a6e783ccd936bbd1a]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/2/paragraph/2) revoked (1.10.2005) by [The Water Act 2003 (Commencement No. 5, Transitional Provisions and Savings) Order 2005 (S.I. 2005/2714)](https://www.legislation.gov.uk/uksi/2005/2714), [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/2714/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2005/2714/article/5/3)
 
-[^key-58178f6c7b66161a73c1777d8d724f4f]: Commencement: Sch. 2 para. 3 in force at made date
+[^c-58178f6c7b66161a73c1777d8d724f4f]: Commencement: Sch. 2 para. 3 in force at made date
 
-[^key-363d2eef24ae7ed7f0da8c1febb154fa]: Commencement: Sch. 2 para. 4 in force at made date
+[^c-363d2eef24ae7ed7f0da8c1febb154fa]: Commencement: Sch. 2 para. 4 in force at made date
 
 [^f01000]: Footnote: \*
 

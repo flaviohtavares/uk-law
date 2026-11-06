@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Change of keeper: registration document issued in Great Britain before 24th March 1997[^key-0c5dc3657a58c212b6ea0485619afb87]
+## 21. Change of keeper: registration document issued in Great Britain before 24th March 1997[^c-0c5dc3657a58c212b6ea0485619afb87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c5dc3657a58c212b6ea0485619afb87]: Textual amendment: Reg. 21 revoked (1.7.2005) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/e), [8(a)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/8/a)
+[^c-0c5dc3657a58c212b6ea0485619afb87]: Textual amendment: Reg. 21 revoked (1.7.2005) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/e), [8(a)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/8/a)

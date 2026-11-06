@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Declarations provided by academic authorities[^key-6dc568bee99a833e2c67d95c92381eed]
+## 124. Declarations provided by academic authorities[^c-6dc568bee99a833e2c67d95c92381eed]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc568bee99a833e2c67d95c92381eed]: Commencement: Reg. 124 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-6dc568bee99a833e2c67d95c92381eed]: Commencement: Reg. 124 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

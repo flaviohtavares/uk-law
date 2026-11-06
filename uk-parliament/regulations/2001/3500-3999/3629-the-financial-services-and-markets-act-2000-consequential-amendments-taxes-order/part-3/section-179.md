@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Tax credits on distributions to insurance companies[^key-8328538187294cc95cb167fce871de25]
+## 179. Tax credits on distributions to insurance companies[^c-8328538187294cc95cb167fce871de25]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 4(1) of the Individual Savings Account (Insurance Companies) Regul
 
 ## Annotations
 
-[^key-8328538187294cc95cb167fce871de25]: Commencement: Art. 179 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-8328538187294cc95cb167fce871de25]: Commencement: Art. 179 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

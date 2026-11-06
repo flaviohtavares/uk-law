@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Article 8A inserted[^key-e80365e54ffd4bff3400996825260249]
+## 7. Article 8A inserted[^c-e80365e54ffd4bff3400996825260249]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ After article 8 insert—
 
 ## Annotations
 
-[^key-e80365e54ffd4bff3400996825260249]: Commencement: Art. 7 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-e80365e54ffd4bff3400996825260249]: Commencement: Art. 7 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
 
 [^c24385181]: Marginal citation: The Environment Agency was established by section 1 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 

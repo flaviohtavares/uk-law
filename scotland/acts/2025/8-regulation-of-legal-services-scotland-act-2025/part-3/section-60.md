@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Power of Commission to request practitioner’s details in connection with complaints[^key-f4b1cca0a1b9bd478a13fd286641a19e]
+## 60. Power of Commission to request practitioner’s details in connection with complaints[^c-f4b1cca0a1b9bd478a13fd286641a19e]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4b1cca0a1b9bd478a13fd286641a19e]: Commencement: S. 60 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f4b1cca0a1b9bd478a13fd286641a19e]: Commencement: S. 60 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

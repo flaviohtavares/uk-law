@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**93.**[^key-28919029e8e20173f8e8bf0949637e1e] In section 27 (co-operation between authorities)—
+**93.**[^c-28919029e8e20173f8e8bf0949637e1e] In section 27 (co-operation between authorities)—
 
 - (a) after subsection (3)(d) insert—
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28919029e8e20173f8e8bf0949637e1e]: Commencement: Reg. 93 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-28919029e8e20173f8e8bf0949637e1e]: Commencement: Reg. 93 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00113]: Footnote: Section 27(3)(e) was amended by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 19.

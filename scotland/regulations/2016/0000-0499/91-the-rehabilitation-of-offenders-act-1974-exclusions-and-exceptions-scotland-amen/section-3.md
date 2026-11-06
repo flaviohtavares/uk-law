@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Amendment of article 2A of the 2013 Order[^key-7df5df809580a4d0050f6b00f4b8dd0e]
+## 3. Amendment of article 2A of the 2013 Order[^c-7df5df809580a4d0050f6b00f4b8dd0e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In article 2A(3) of the 2013 Order (protected convictions), for “subsection”
 
 ## Annotations
 
-[^key-7df5df809580a4d0050f6b00f4b8dd0e]: Commencement: Art. 3 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
+[^c-7df5df809580a4d0050f6b00f4b8dd0e]: Commencement: Art. 3 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Requirement, direction, demand or permission[^key-f038ba2327166fcd38be7f097928f43a]
+## 4. Requirement, direction, demand or permission[^c-f038ba2327166fcd38be7f097928f43a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any requirement, direction, demand or permission by the Commissioners, under or 
 
 ## Annotations
 
-[^key-f038ba2327166fcd38be7f097928f43a]: Commencement: Reg. 4 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-f038ba2327166fcd38be7f097928f43a]: Commencement: Reg. 4 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

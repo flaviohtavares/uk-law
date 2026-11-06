@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Abolition of the GTCE: transfer schemes[^key-d9d0714e85d05308a3124ef30b21ae00]
+## 12. Abolition of the GTCE: transfer schemes[^c-d9d0714e85d05308a3124ef30b21ae00]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 (schemes for the transfer of staff, property, rights and liabilities 
 
 ## Annotations
 
-[^key-d9d0714e85d05308a3124ef30b21ae00]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/21/section/12) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-d9d0714e85d05308a3124ef30b21ae00]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/21/section/12) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

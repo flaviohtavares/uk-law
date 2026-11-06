@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Introductory[^key-18dc043bbf66d6dc22e6a762f9f7c7a2]
+## 91. Introductory[^c-18dc043bbf66d6dc22e6a762f9f7c7a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Osteopaths Act 1993[^f00072] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-18dc043bbf66d6dc22e6a762f9f7c7a2]: Commencement: Reg. 91 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-18dc043bbf66d6dc22e6a762f9f7c7a2]: Commencement: Reg. 91 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00072]: Footnote: c. 21.

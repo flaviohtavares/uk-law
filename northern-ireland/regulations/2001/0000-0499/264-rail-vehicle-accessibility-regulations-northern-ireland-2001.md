@@ -33,7 +33,7 @@ DISABLED PERSONS
 
 ROAD AND RAILWAY TRANSPORT
 
-Rail Vehicle Accessibility Regulations (Northern Ireland) 2001 (revoked)[^key-59c49ce0d197656bb8f446167c49cf4a]
+Rail Vehicle Accessibility Regulations (Northern Ireland) 2001 (revoked)[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 Made
 
@@ -43,119 +43,119 @@ Coming into operation
 
 19th October 2001
 
-[^key-59c49ce0d197656bb8f446167c49cf4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59c49ce0d197656bb8f446167c49cf4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-59c49ce0d197656bb8f446167c49cf4a]
+## 1. Citation and commencement[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-59c49ce0d197656bb8f446167c49cf4a]
+## 2. Interpretation[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of the Regulations[^key-59c49ce0d197656bb8f446167c49cf4a]
+## 3. Application of the Regulations[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Facilities for disabled persons[^key-59c49ce0d197656bb8f446167c49cf4a]
+## Facilities for disabled persons[^c-59c49ce0d197656bb8f446167c49cf4a]
 
-### 4. Doors[^key-59c49ce0d197656bb8f446167c49cf4a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Door controls[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 4. Doors[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Steps[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 5. Door controls[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Floors[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 6. Steps[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Seats[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 7. Floors[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Interior transparent surfaces[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 8. Seats[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Handrails and handholds[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 9. Interior transparent surfaces[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Door handles[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 10. Handrails and handholds[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Passenger information[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 11. Door handles[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Toilets[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 12. Passenger information[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Facilities for disabled persons in wheelchairs[^key-59c49ce0d197656bb8f446167c49cf4a]
-
-### 14. Wheelchair spaces[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 13. Toilets[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Wheelchair space specifications[^key-59c49ce0d197656bb8f446167c49cf4a]
+## Facilities for disabled persons in wheelchairs[^c-59c49ce0d197656bb8f446167c49cf4a]
+
+### 14. Wheelchair spaces[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Sleeping accommodation[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 15. Wheelchair space specifications[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Tables[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 16. Sleeping accommodation[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Wheelchair-compatible doorways[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 17. Tables[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Toilets for disabled persons in wheelchairs[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 18. Wheelchair-compatible doorways[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Wheelchair access to on board facilities[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 19. Toilets for disabled persons in wheelchairs[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Telephones[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 20. Wheelchair access to on board facilities[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Internal doorways[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 21. Telephones[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Boarding devices[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 22. Internal doorways[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Catering[^key-59c49ce0d197656bb8f446167c49cf4a]
+### 23. Boarding devices[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59c49ce0d197656bb8f446167c49cf4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 24. Catering[^c-59c49ce0d197656bb8f446167c49cf4a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-59c49ce0d197656bb8f446167c49cf4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-59c49ce0d197656bb8f446167c49cf4a]
+## SCHEDULE[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 Regulations 2, 8, 15, 18 and 19
 
-[^key-59c49ce0d197656bb8f446167c49cf4a]
+[^c-59c49ce0d197656bb8f446167c49cf4a]
 
 *(Note: the diagrams are not in scale)*
 
@@ -163,8 +163,8 @@ Regulations 2, 8, 15, 18 and 19
 
 **May not be in force at this date. Check the source.**
 
-[^key-59c49ce0d197656bb8f446167c49cf4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59c49ce0d197656bb8f446167c49cf4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59c49ce0d197656bb8f446167c49cf4a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/264) revoked (28.2.2014) by [The Rail Vehicle Accessibility Regulations (Northern Ireland) 2014 (S.R. 2014/45)](https://www.legislation.gov.uk/nisr/2014/45), [reg. 7(1)](https://www.legislation.gov.uk/nisr/2014/45/regulation/7/1)
+[^c-59c49ce0d197656bb8f446167c49cf4a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/264) revoked (28.2.2014) by [The Rail Vehicle Accessibility Regulations (Northern Ireland) 2014 (S.R. 2014/45)](https://www.legislation.gov.uk/nisr/2014/45), [reg. 7(1)](https://www.legislation.gov.uk/nisr/2014/45/regulation/7/1)

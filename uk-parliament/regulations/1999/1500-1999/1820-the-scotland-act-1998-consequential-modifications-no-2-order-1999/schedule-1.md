@@ -22,7 +22,7 @@ summary: ''
 
 Article 2(3)
 
-### PART I — PROVISIONS OR ACTS TO WHICH ARTICLE 2(2) DOES NOT APPLY[^key-ea3f5a59cf45bac92cac0bab3931d5c5]
+### PART I — PROVISIONS OR ACTS TO WHICH ARTICLE 2(2) DOES NOT APPLY[^c-ea3f5a59cf45bac92cac0bab3931d5c5]
 
 - Crown Suits (Scotland) Act [1857 (c. 44)](https://www.legislation.gov.uk/ukpga/1857/44)
 - Exchequer and Audit Departments Act [1866 (c. 39)](https://www.legislation.gov.uk/ukpga/1866/39)
@@ -38,21 +38,21 @@ Article 2(3)
 - European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68)
 - Fair Trading Act [1973 (c. 41)](https://www.legislation.gov.uk/ukpga/1973/41), sections 135 and 137
 - Government Trading Funds Act [1973 (c. 63)](https://www.legislation.gov.uk/ukpga/1973/63)
-- [^key-08d42fef405983cf4d5fceba3f407fdc]...
+- [^c-08d42fef405983cf4d5fceba3f407fdc]...
 - Civil Jurisdiction and Judgements Act [1982 (c. 27)](https://www.legislation.gov.uk/ukpga/1982/27)
 - National Audit Act [1983 (c. 44)](https://www.legislation.gov.uk/ukpga/1983/44)
 - Ordnance Factories and Military Services Act [1984 (c. 59)](https://www.legislation.gov.uk/ukpga/1984/59), section 17
 - Crown Proceedings (Armed Forces) Act [1987 (c. 25)](https://www.legislation.gov.uk/ukpga/1987/25), section 4
 - Consumer Protection Act [1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43), sections 38(6) and 45
 
-### PART II — SUBORDINATE LEGISLATION TO WHICH ARTICLE 2(2) DOES NOT APPLY[^key-a6ccae757f06e10aa3cf5d9ccc93d3c3]
+### PART II — SUBORDINATE LEGISLATION TO WHICH ARTICLE 2(2) DOES NOT APPLY[^c-a6ccae757f06e10aa3cf5d9ccc93d3c3]
 
 General Product Safety Regulations 1994 ([S.I. 1994/2328](https://www.legislation.gov.uk/uksi/1994/2328))
 
 ## Annotations
 
-[^key-ea3f5a59cf45bac92cac0bab3931d5c5]: Commencement: Sch. 1 Pt. 1 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-ea3f5a59cf45bac92cac0bab3931d5c5]: Commencement: Sch. 1 Pt. 1 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
-[^key-08d42fef405983cf4d5fceba3f407fdc]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1999/1820/schedule/1/part/I) revoked (1.9.2000) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/19/2)
+[^c-08d42fef405983cf4d5fceba3f407fdc]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1999/1820/schedule/1/part/I) revoked (1.9.2000) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/19/2)
 
-[^key-a6ccae757f06e10aa3cf5d9ccc93d3c3]: Commencement: Sch. 1 Pt. 2 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-a6ccae757f06e10aa3cf5d9ccc93d3c3]: Commencement: Sch. 1 Pt. 2 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)

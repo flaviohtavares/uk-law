@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duty to continue to comply with Code[^key-4a1478aa0a0ee809bf5496645fcd58a0]
+## 13. Duty to continue to comply with Code[^c-4a1478aa0a0ee809bf5496645fcd58a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a1478aa0a0ee809bf5496645fcd58a0]: Commencement: S. 13 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-4a1478aa0a0ee809bf5496645fcd58a0]: Commencement: S. 13 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

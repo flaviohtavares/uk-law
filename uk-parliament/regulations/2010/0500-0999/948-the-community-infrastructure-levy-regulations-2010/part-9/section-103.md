@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Charging orders[^key-1f9e27117691fda1f4ab1cc73554e54a]
+## 103. Charging orders[^c-1f9e27117691fda1f4ab1cc73554e54a]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f9e27117691fda1f4ab1cc73554e54a]: Commencement: Reg. 103 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-1f9e27117691fda1f4ab1cc73554e54a]: Commencement: Reg. 103 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00049]: Footnote: [1979 c. 53](https://www.legislation.gov.uk/ukpga/1979/53); section 1 was amended by paragraphs 2, 3 and 6 of Schedule 3 to the [Administration of Justice Act 1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53) and paragraph 71 of Schedule 2 to the [County Courts Act 1984 (c. 28)](https://www.legislation.gov.uk/ukpga/1984/28).

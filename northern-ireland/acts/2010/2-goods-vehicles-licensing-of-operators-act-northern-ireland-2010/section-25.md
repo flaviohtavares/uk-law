@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Disqualification[^key-10c233d8d1246015873fcf3bd9455218][^key-32e54de2cc2168a56b81bcd712539e2f]
+## 25. Disqualification[^c-10c233d8d1246015873fcf3bd9455218][^c-32e54de2cc2168a56b81bcd712539e2f]
 
 *Extent: N.I.*
 
-(1) Where, under section 23(1) or 24(1), the Department directs that an operator's licence be revoked, the Department may order the person who was the holder of the licence to be disqualified (either indefinitely or for such period as the Department thinks fit) from holding or obtaining an operator's licence; and so long as the disqualification is in force, notwithstanding anything in sections 12 to 12E[^key-f43ede267659cc406ee029517da13c48] or 21, no operator's licence may be issued to that person.
+(1) Where, under section 23(1) or 24(1), the Department directs that an operator's licence be revoked, the Department may order the person who was the holder of the licence to be disqualified (either indefinitely or for such period as the Department thinks fit) from holding or obtaining an operator's licence; and so long as the disqualification is in force, notwithstanding anything in sections 12 to 12E[^c-f43ede267659cc406ee029517da13c48] or 21, no operator's licence may be issued to that person.
 
 (2) If a person applies for or obtains an operator's licence while disqualified under subsection (1)—
 
@@ -55,8 +55,8 @@ and any reference in this section or in section 23 or 26 to subsection (1) or (3
 
 ## Annotations
 
-[^key-10c233d8d1246015873fcf3bd9455218]: Commencement: S. 25 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-10c233d8d1246015873fcf3bd9455218]: Commencement: S. 25 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-32e54de2cc2168a56b81bcd712539e2f]: Modification: S. 25 applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(8)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/8)
+[^c-32e54de2cc2168a56b81bcd712539e2f]: Modification: S. 25 applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(8)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/8)
 
-[^key-f43ede267659cc406ee029517da13c48]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/nia/2010/2/section/25/1) substituted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(10)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/10)
+[^c-f43ede267659cc406ee029517da13c48]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/nia/2010/2/section/25/1) substituted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(10)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/10)

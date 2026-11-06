@@ -22,16 +22,16 @@ summary: ''
 
 Regulation D5
 
-**1.**[^key-087fbe6c5f9b2c6194bdb19b345d7694] This Schedule applies where an employee has made an election under regulation C6 (periodical payments to increase reckonable service) and has commenced payment, but before he attains pensionable age a relevant event occurs and any payment made to him under regulation C12 (return of contributions) does not include the amount already paid by him under regulation C6(3).
+**1.**[^c-087fbe6c5f9b2c6194bdb19b345d7694] This Schedule applies where an employee has made an election under regulation C6 (periodical payments to increase reckonable service) and has commenced payment, but before he attains pensionable age a relevant event occurs and any payment made to him under regulation C12 (return of contributions) does not include the amount already paid by him under regulation C6(3).
 
-**2.**[^key-3e0d6e0634f46e9e3b70e547946d0c31] The relevant events are—
+**2.**[^c-3e0d6e0634f46e9e3b70e547946d0c31] The relevant events are—
 
 - (a) the discontinuance of payment under regulation C6(5), and
 - (b) where there has been no such discontinuance of payment—
   - (i) the employee's ceasing to hold his employment, and
   - (ii) the death of the employee while in local government employment.
 
-**3.**[^key-0f076f412984eb699f23d767e76590a6] Where the relevant event is the discontinuance of payment under regulation C6(5), the employee is entitled to reckon as reckonable service an additional period of
+**3.**[^c-0f076f412984eb699f23d767e76590a6] Where the relevant event is the discontinuance of payment under regulation C6(5), the employee is entitled to reckon as reckonable service an additional period of
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1986/24)
 
@@ -43,14 +43,14 @@ Regulation D5
 
 each period being expressed in complete years and any fraction of a year.
 
-**4.**[^key-513fe17a2583dce775f593f274d8e965] Where the relevant event is—
+**4.**[^c-513fe17a2583dce775f593f274d8e965] Where the relevant event is—
 
 - (a) the death of the employee, or
 - (b) his ceasing to hold his employment by reason of permanent ill-health or infirmity of mind or body,
 
 he is to be treated as having completed payment in accordance with regulation C6(3).
 
-**5.**[^key-22cfc2f83154d51a5fe2021bd79bc3e5] (1) Where the relevant event is the employee's ceasing to hold his employment and—
+**5.**[^c-22cfc2f83154d51a5fe2021bd79bc3e5] (1) Where the relevant event is the employee's ceasing to hold his employment and—
 
 - (a) condition (a) or (b) in regulation E2(4) is satisfied, and
 - (b) the last day of his employment is not less than 12 months after the date of receipt of his notice of election under regulation C6, and
@@ -62,7 +62,7 @@ he may pay to the appropriate superannuation fund within the period specified in
 
 (3) The period for making a payment under sub-paragraph (1) is the period of one month beginning on the date on which the person is notified by the appropriate administering authority of the amount calculated as mentioned in that sub-paragraph.
 
-**6.**[^key-9a44f0ea030e1959e24a139e301ef94b] (1) Where the relevant event is the employee's ceasing to hold his employment and neither paragraph 4(b) nor paragraph 5 applies, he is, unless sub-paragraph (2) applies, to be treated as if paragraph 3 (discontinuance of payment) had applied.
+**6.**[^c-9a44f0ea030e1959e24a139e301ef94b] (1) Where the relevant event is the employee's ceasing to hold his employment and neither paragraph 4(b) nor paragraph 5 applies, he is, unless sub-paragraph (2) applies, to be treated as if paragraph 3 (discontinuance of payment) had applied.
 
 (2) This sub-paragraph applies where the employee—
 
@@ -77,14 +77,14 @@ he may pay to the appropriate superannuation fund within the period specified in
 
 ## Annotations
 
-[^key-087fbe6c5f9b2c6194bdb19b345d7694]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-087fbe6c5f9b2c6194bdb19b345d7694]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-3e0d6e0634f46e9e3b70e547946d0c31]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3e0d6e0634f46e9e3b70e547946d0c31]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-0f076f412984eb699f23d767e76590a6]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0f076f412984eb699f23d767e76590a6]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-513fe17a2583dce775f593f274d8e965]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-513fe17a2583dce775f593f274d8e965]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-22cfc2f83154d51a5fe2021bd79bc3e5]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-22cfc2f83154d51a5fe2021bd79bc3e5]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-9a44f0ea030e1959e24a139e301ef94b]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9a44f0ea030e1959e24a139e301ef94b]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/8/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

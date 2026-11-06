@@ -32,7 +32,7 @@ summary: ''
   - (f) the Lord Justice Clerk;
   - (g) the President of the Queen's Bench Division;
   - (h) the President of the Family Division;
-  - (i) the President of the Business and Property Division[^key-0e9cb17647c5ab66109a4684606141d9];
+  - (i) the President of the Business and Property Division[^c-0e9cb17647c5ab66109a4684606141d9];
 - “**the Supreme Court**” means the Supreme Court of the United Kingdom.
 
 (2) In this Part—
@@ -57,10 +57,10 @@ summary: ''
 
 (4) Service as a Lord of Appeal in Ordinary counts as service as a judge of the Court for the purposes of subsection (3)(b).
 
-(5)[^key-46d4231967e349f73e1fef4b322da661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-46d4231967e349f73e1fef4b322da661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e9cb17647c5ab66109a4684606141d9]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/60/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/c)
+[^c-0e9cb17647c5ab66109a4684606141d9]: Textual amendment: Words in [s. 60(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/60/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/c)
 
-[^key-46d4231967e349f73e1fef4b322da661]: Textual amendment: [S. 60(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/60/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/1/b); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-46d4231967e349f73e1fef4b322da661]: Textual amendment: [S. 60(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/60/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/1/b); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)

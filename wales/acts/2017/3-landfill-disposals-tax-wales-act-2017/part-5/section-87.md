@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Power to make provision about transfers of businesses as going concerns[^key-10b06b1c5d56c4afb126f2904fb3c79f]
+## 87. Power to make provision about transfers of businesses as going concerns[^c-10b06b1c5d56c4afb126f2904fb3c79f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b06b1c5d56c4afb126f2904fb3c79f]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2017/3/section/87) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(g)](https://www.legislation.gov.uk/wsi/2017/955/article/2/g)
+[^c-10b06b1c5d56c4afb126f2904fb3c79f]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2017/3/section/87) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(g)](https://www.legislation.gov.uk/wsi/2017/955/article/2/g)

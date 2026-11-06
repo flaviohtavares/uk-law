@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Power to make consequential provision[^key-09c90c269544ae91e64253ab970b6a3e]
+## 16. Power to make consequential provision[^c-09c90c269544ae91e64253ab970b6a3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c90c269544ae91e64253ab970b6a3e]: Commencement: S. 16 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)
+[^c-09c90c269544ae91e64253ab970b6a3e]: Commencement: S. 16 in force at Royal Assent, see [s. 18(3)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/3)

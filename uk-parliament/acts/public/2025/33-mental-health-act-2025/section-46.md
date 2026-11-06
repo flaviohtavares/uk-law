@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. After-care services[^key-889866a3a85b26f6736feb03be5bc9ad]
+## 46. After-care services[^c-889866a3a85b26f6736feb03be5bc9ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-889866a3a85b26f6736feb03be5bc9ad]: Commencement: S. 46 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-889866a3a85b26f6736feb03be5bc9ad]: Commencement: S. 46 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

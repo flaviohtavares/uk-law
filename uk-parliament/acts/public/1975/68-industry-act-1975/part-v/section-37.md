@@ -24,7 +24,7 @@ summary: ''
 
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7978621]
 - “**enactment**” includes an enactment of the Parliament of Northern Ireland or the Northern Ireland Assembly;
-- “**holding company**” means a holding company as defined by section 1159 of the Companies Act 2006[^key-5ab6345255887b50154d7fb697b96f67];
+- “**holding company**” means a holding company as defined by section 1159 of the Companies Act 2006[^c-5ab6345255887b50154d7fb697b96f67];
 - “**industry**” includes any description of commercial activity, and any section of an industry, and “**industrial**” has a corresponding meaning;
 - “**manufacturing industry**” means, subject to subsection (3) below, activities which are described in any of the minimum list headings in Orders III to XIX (inclusive) of the Standard Industrial Classification;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7978651]
@@ -56,7 +56,7 @@ summary: ''
 
 [^c7978621]: Textual amendment: Definitions of "accounting year" and "wholly owned subsidiary" repealed (6.1.1992) by [British Technology Group Act 1991 (c. 66, SIF 64)](https://www.legislation.gov.uk/ukpga/1991/66), [s. 17(2)](https://www.legislation.gov.uk/ukpga/1991/66/section/17/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1991/66/schedule/2), [Pt.I](https://www.legislation.gov.uk/ukpga/1991/66/part/I); [S.I. 1991/2721](https://www.legislation.gov.uk/uksi/1991/2721), [art. 2](https://www.legislation.gov.uk/uksi/1991/2721/article/2).
 
-[^key-5ab6345255887b50154d7fb697b96f67]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1975/68/section/37/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/33) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5ab6345255887b50154d7fb697b96f67]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/1975/68/section/37/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/33) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c7978651]: Textual amendment: Definitions repealed by [Industry Act 1980 (c. 33, SIF 64)](https://www.legislation.gov.uk/ukpga/1980/33), [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/33/schedule/2)
 

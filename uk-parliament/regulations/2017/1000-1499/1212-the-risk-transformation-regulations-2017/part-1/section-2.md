@@ -72,7 +72,7 @@ summary: ''
 
 (3) Where these Regulations refer to the Welsh equivalent of a word or expression, the Welsh equivalent of that word or expression is set out in Table 6 in Schedule 1.
 
-(4)[^key-7888565cba5d3501bfcdf8b68b96ebe2] Any reference in these Regulations to any EU regulation, EU decision or EU tertiary legislation (within the meaning of section 20 of the European Union (Withdrawal) Act 2018 (“**the 2018 Act**”)), is, unless the contrary intention appears, to be treated as a reference to that EU regulation, EU decision or EU tertiary legislation as it forms part of domestic law by virtue of section 3 of the 2018 Act.
+(4)[^c-7888565cba5d3501bfcdf8b68b96ebe2] Any reference in these Regulations to any EU regulation, EU decision or EU tertiary legislation (within the meaning of section 20 of the European Union (Withdrawal) Act 2018 (“**the 2018 Act**”)), is, unless the contrary intention appears, to be treated as a reference to that EU regulation, EU decision or EU tertiary legislation as it forms part of domestic law by virtue of section 3 of the 2018 Act.
 
 ## Annotations
 
@@ -98,4 +98,4 @@ summary: ''
 
 [^c23090351]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). There are amendments to section 1173(1), but none are relevant to the definition of “working day”.
 
-[^key-7888565cba5d3501bfcdf8b68b96ebe2]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1233)](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/4), [2(2)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7888565cba5d3501bfcdf8b68b96ebe2]: Textual amendment: Reg. 2(4) inserted (31.12.2020) by [The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1233)](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/4), [2(2)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51A. Ill-health pension ceases to be payable[^key-0a2afda7a8477530b1b55d4b033a67aa]
+## 51A. Ill-health pension ceases to be payable[^c-0a2afda7a8477530b1b55d4b033a67aa]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Where an ill-health pension ceases to be payable under Part 7(retirement benefit
 
 ## Annotations
 
-[^key-0a2afda7a8477530b1b55d4b033a67aa]: Textual amendment: [Reg. 51A](https://www.legislation.gov.uk/ssi/2015/142/regulation/51A) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2017/387/regulation/13)
+[^c-0a2afda7a8477530b1b55d4b033a67aa]: Textual amendment: [Reg. 51A](https://www.legislation.gov.uk/ssi/2015/142/regulation/51A) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2017/387/regulation/13)

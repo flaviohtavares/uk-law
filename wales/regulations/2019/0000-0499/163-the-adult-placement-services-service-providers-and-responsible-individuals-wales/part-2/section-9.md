@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Duty of candour[^key-cf2c3ae3646975ec0738eb2c06771afb]
+## 9. Duty of candour[^c-cf2c3ae3646975ec0738eb2c06771afb]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The service provider must act in an open and transparent way with—
 
 ## Annotations
 
-[^key-cf2c3ae3646975ec0738eb2c06771afb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/163/regulation/9) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-cf2c3ae3646975ec0738eb2c06771afb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/163/regulation/9) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

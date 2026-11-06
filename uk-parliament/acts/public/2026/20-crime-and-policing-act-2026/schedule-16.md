@@ -24,7 +24,7 @@ Sections 153 and 156
 
 ### Part 1 — General
 
-#### 1. Interpretation[^key-8cb18f3d387c19aa377665b09a3bc7f2][^key-eb13edccd0511becaf7adec4409fb391]
+#### 1. Interpretation[^c-8cb18f3d387c19aa377665b09a3bc7f2][^c-eb13edccd0511becaf7adec4409fb391]
 
 (1) In this Schedule—
 
@@ -51,13 +51,13 @@ Sections 153 and 156
 
 (2) In this Schedule any reference to a power conferred by this Schedule or any provision of it includes a reference to a power conferred by virtue of the Schedule or provision.
 
-#### 2. Saving[^key-61b8e6d9698fac2c2e6566112222db28][^key-e223192caf61ea988b3d9abf3626b02d]
+#### 2. Saving[^c-61b8e6d9698fac2c2e6566112222db28][^c-e223192caf61ea988b3d9abf3626b02d]
 
 Nothing in this Schedule affects any power of a constable conferred otherwise than by this Schedule.
 
 ### Part 2 — Powers of entry etc
 
-#### 3. Power to enter and search vehicles[^key-afb993edde556f1ca35d4df81606f5b7][^key-b37b4b660de4ce1222f4080e09def090]
+#### 3. Power to enter and search vehicles[^c-afb993edde556f1ca35d4df81606f5b7][^c-b37b4b660de4ce1222f4080e09def090]
 
 (1) This paragraph applies where—
 
@@ -85,7 +85,7 @@ to provide such facilities and assistance with respect to matters under that per
 
 (5) The powers conferred by this paragraph may be exercised in any place to which the constable lawfully has access (whether or not it is a place to which the public has access).
 
-#### 4. Power to enter and search vessels or aircraft[^key-c2de3e530e9ea4e508a030973dad39a2][^key-04456fddb8a1c6649ffe96b23d00fc98]
+#### 4. Power to enter and search vessels or aircraft[^c-c2de3e530e9ea4e508a030973dad39a2][^c-04456fddb8a1c6649ffe96b23d00fc98]
 
 (1) This paragraph applies where—
 
@@ -109,7 +109,7 @@ to provide such facilities and assistance with respect to matters under that per
 
 (5) A constable may require any person on board a vessel or aircraft to provide such facilities and assistance with respect to matters under that person’s control as the constable considers would facilitate the exercise of any power conferred by this paragraph.
 
-#### 5. Warrant conferring power to enter and search premises[^key-faa6a71ee37511ff93ab684a8dcf08cf][^key-54ac5078809271e2bfd9590beb88a6d3]
+#### 5. Warrant conferring power to enter and search premises[^c-faa6a71ee37511ff93ab684a8dcf08cf][^c-54ac5078809271e2bfd9590beb88a6d3]
 
 (1) Where a justice is satisfied that the requirements in sub-paragraph (3) are met in relation to any premises, the justice may issue a warrant (a “search warrant”) authorising a constable—
 
@@ -130,7 +130,7 @@ to provide such facilities and assistance with respect to matters under that per
   - (iii) that entry to the premises is unlikely to be granted unless a warrant is produced;
   - (iv) that the purpose of entry may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
 
-#### 6. Applications for search warrants[^key-a295ff1d40769c421c74459a39de5640][^key-a3a86f6d341bf4f35a78aa3242a9b42c]
+#### 6. Applications for search warrants[^c-a295ff1d40769c421c74459a39de5640][^c-a3a86f6d341bf4f35a78aa3242a9b42c]
 
 (1) A search warrant may be issued under paragraph 5 only on the application of—
 
@@ -151,7 +151,7 @@ to provide such facilities and assistance with respect to matters under that per
 
 (6) Part 3 of this Schedule contains further provision about applications in England and Wales or Northern Ireland for search warrants under paragraph 5.
 
-#### 7. Execution of search warrants[^key-9939cc17d747307de6ced294cec262e9][^key-6055ac06bbc3a52f6a3a3996c256bd68]
+#### 7. Execution of search warrants[^c-9939cc17d747307de6ced294cec262e9][^c-6055ac06bbc3a52f6a3a3996c256bd68]
 
 (1) A search warrant may be executed by any constable.
 
@@ -166,7 +166,7 @@ to provide such facilities and assistance with respect to matters under that per
 
 (5) Part 4 of this Schedule contains further provision about the execution in England and Wales or Northern Ireland of search warrants under paragraph 5.
 
-#### 8. Powers of examination etc[^key-efe657e7fac1e0cb6dc837ad730e82c1][^key-b8e4591023a9a77235dd4b2f9a0b77ae]
+#### 8. Powers of examination etc[^c-efe657e7fac1e0cb6dc837ad730e82c1][^c-b8e4591023a9a77235dd4b2f9a0b77ae]
 
 (1) This paragraph applies where a constable is exercising a power of search conferred by this Schedule in relation to any premises.
 
@@ -184,7 +184,7 @@ to provide such facilities and assistance with respect to matters under that per
 
 (5) Nothing in this paragraph confers a power to search a person.
 
-#### 9. Power to require production of documents etc[^key-c134a61078b4c943a48d7d85e0c3c203][^key-249a7615784274fa98c3c2f04945bb6e]
+#### 9. Power to require production of documents etc[^c-c134a61078b4c943a48d7d85e0c3c203][^c-249a7615784274fa98c3c2f04945bb6e]
 
 (1) This paragraph applies where a constable is exercising a power of search conferred by this Schedule in relation to any premises.
 
@@ -202,13 +202,13 @@ to provide such facilities and assistance with respect to matters under that per
   - (i) it can be read with the naked eye, or
   - (ii) to the extent that it consists of images (for example photographs, pictures, maps, plans or drawings), it can be seen with the naked eye.
 
-#### 10. Power to use reasonable force[^key-eefb8db928c26eae8e7f338c02d35aeb][^key-20adb3df25bf1e0f26dc783f16347fc5]
+#### 10. Power to use reasonable force[^c-eefb8db928c26eae8e7f338c02d35aeb][^c-20adb3df25bf1e0f26dc783f16347fc5]
 
 (1) A constable may use reasonable force, if necessary, for the purpose of exercising a power conferred by this Schedule.
 
 (2) A person authorised under paragraph 7(2) to accompany a person who is executing a search warrant may use reasonable force, if necessary, for the purpose of exercising a power conferred by any of paragraphs 5 to 9.
 
-#### 11. Obstruction etc[^key-8573bf9cb4453c8e733796ee1ca41107][^key-898bf941a84966a9b98879775cb8a1b4]
+#### 11. Obstruction etc[^c-8573bf9cb4453c8e733796ee1ca41107][^c-898bf941a84966a9b98879775cb8a1b4]
 
 (1) A person commits an offence if, without reasonable excuse, the person intentionally obstructs a constable in the performance of a function conferred by this Schedule.
 
@@ -229,13 +229,13 @@ to provide such facilities and assistance with respect to matters under that per
 
 ### Part 3 — Applications for search warrants: England and Wales and Northern Ireland
 
-#### 12. Introduction[^key-d20abda869f29155386bca42c9dcdb98][^key-827ca3e4d7242a5b7a0c8c7227121bd5]
+#### 12. Introduction[^c-d20abda869f29155386bca42c9dcdb98][^c-827ca3e4d7242a5b7a0c8c7227121bd5]
 
 (1) This Part of this Schedule applies to applications in England and Wales or Northern Ireland for search warrants under paragraph 5.
 
 (2) In this Part of this Schedule “specific-premises warrant” and “all-premises warrant” have the meaning given by paragraph 5.
 
-#### 13. Applications for warrants[^key-392117ed1053544da268f9236f331c34][^key-008d6663f9f28e6d14867e778a3ac746]
+#### 13. Applications for warrants[^c-392117ed1053544da268f9236f331c34][^c-008d6663f9f28e6d14867e778a3ac746]
 
 (1) A person applying for a search warrant must—
 
@@ -258,11 +258,11 @@ to provide such facilities and assistance with respect to matters under that per
 - (a) the ground on which the person applies for such a warrant, and
 - (b) whether the person seeks a warrant authorising an unlimited number of entries, or (if not) the maximum number of entries desired.
 
-#### 14. Warrant: whether authorises one or multiple entries[^key-adf89023693086c9106826e5fc1904fd][^key-60041c83ddfbf1c749efb9941725430f]
+#### 14. Warrant: whether authorises one or multiple entries[^c-adf89023693086c9106826e5fc1904fd][^c-60041c83ddfbf1c749efb9941725430f]
 
 A search warrant authorises entry on one occasion only, unless it specifies that it authorises multiple entries.
 
-#### 15. Form of warrants[^key-019974e9f356dd64d213a6522189d0cb][^key-0fb92783785c57134c13d5e42b6e469a]
+#### 15. Form of warrants[^c-019974e9f356dd64d213a6522189d0cb][^c-0fb92783785c57134c13d5e42b6e469a]
 
 A search warrant must—
 
@@ -272,7 +272,7 @@ A search warrant must—
 - (d) specify each set of premises to be searched, or (in the case of an all-premises warrant) the person who is in occupation or control of premises to be searched, together with any premises to be searched that are under the person’s occupation or control and can be specified, and
 - (e) identify, so far as is possible, the offence to which the relevant evidence suspected to be on the premises relates.
 
-#### 16. Copies of warrants[^key-9d603fc1eee4131cb68ec6ae45d68ccd][^key-17d97c77b44671f8abff011b7c902d9c]
+#### 16. Copies of warrants[^c-9d603fc1eee4131cb68ec6ae45d68ccd][^c-17d97c77b44671f8abff011b7c902d9c]
 
 (1) Two copies must be made of a search warrant that specifies only one set of premises and does not authorise multiple entries.
 
@@ -282,7 +282,7 @@ A search warrant must—
 
 ### Part 4 — Execution of search warrants: England and Wales and Northern Ireland
 
-#### 17. Introduction[^key-e423cc7c13a9226b7e3a2889e5dfe7af][^key-f4d0670bc61d3b9b056ccf8bc4698620]
+#### 17. Introduction[^c-e423cc7c13a9226b7e3a2889e5dfe7af][^c-f4d0670bc61d3b9b056ccf8bc4698620]
 
 (1) This Part of this Schedule applies to the execution in England and Wales or Northern Ireland of a search warrant under paragraph 5.
 
@@ -290,11 +290,11 @@ A search warrant must—
 
 (3) In paragraphs 21, 22 and 24 “**constable**” includes a person who has the powers of a constable.
 
-#### 18. Warrant to be executed within one month[^key-63317086d547a007698c194275f731d2][^key-194a699b23739f556ce8c31d538f85ae]
+#### 18. Warrant to be executed within one month[^c-63317086d547a007698c194275f731d2][^c-194a699b23739f556ce8c31d538f85ae]
 
 Entry and search under a search warrant must be within one month from the date of its issue.
 
-#### 19. All-premises warrants[^key-1c113520920cbf1a2832c428db5b305d][^key-2c0b7b52d34da5c3e1e9d87eaecab57c]
+#### 19. All-premises warrants[^c-1c113520920cbf1a2832c428db5b305d][^c-2c0b7b52d34da5c3e1e9d87eaecab57c]
 
 (1) In the case of an all-premises warrant, premises that are not specified in the warrant may be entered and searched only if a senior officer has authorised them to be entered.
 
@@ -307,7 +307,7 @@ Entry and search under a search warrant must be within one month from the date o
   - (i) is designated under section 10 of the Crime and Courts Act 2013 as a person having the powers and privileges of a constable, and
   - (ii) is of grade 3 or above.
 
-#### 20. Search of premises more than once[^key-fb52fbb0851ddd3a1fd4a975bcc9c998][^key-9faef8f4c686f565de99a6ba8973ced2]
+#### 20. Search of premises more than once[^c-fb52fbb0851ddd3a1fd4a975bcc9c998][^c-9faef8f4c686f565de99a6ba8973ced2]
 
 (1) Premises may be entered or searched for the second or any subsequent time under a search warrant authorising multiple entries only if a senior officer has authorised that entry to the premises.
 
@@ -315,11 +315,11 @@ Entry and search under a search warrant must be within one month from the date o
 
 (3) In this paragraph “**senior officer**” has the meaning given by paragraph 19.
 
-#### 21. Time of search[^key-afd6418152d3edd2a06656950138097f][^key-0ae545fa199a171fd7e7ade975de0e10]
+#### 21. Time of search[^c-afd6418152d3edd2a06656950138097f][^c-0ae545fa199a171fd7e7ade975de0e10]
 
 Entry and search under a search warrant must be at a reasonable hour unless it appears to the constable executing it that the purpose of a search may be frustrated on an entry at a reasonable hour.
 
-#### 22. Evidence of authority etc[^key-609fd9668edeaa1d333d6ac1573d8357][^key-e63bdd497bc0c35567fd18e9916ec304]
+#### 22. Evidence of authority etc[^c-609fd9668edeaa1d333d6ac1573d8357][^c-e63bdd497bc0c35567fd18e9916ec304]
 
 (1) Where the occupier of premises to be entered and searched under a search warrant is present at the time when a constable seeks to execute the warrant, the following requirements must be satisfied—
 
@@ -333,15 +333,15 @@ Entry and search under a search warrant must be at a reasonable hour unless it a
 - (a) if some other person who appears to the constable to be in charge of the premises is present, sub-paragraph (1) has effect as if a reference to the occupier were a reference to that other person;
 - (b) if not, the constable must leave a copy of the warrant in a prominent place on the premises.
 
-#### 23. Extent of search[^key-97f13a142496a4c5266b60e12a09a9cb][^key-ca80b80a07886672fac061d979b66cd2]
+#### 23. Extent of search[^c-97f13a142496a4c5266b60e12a09a9cb][^c-ca80b80a07886672fac061d979b66cd2]
 
 A search under a search warrant may only be a search to the extent required for the purpose for which the warrant was issued.
 
-#### 24. Securing premises after entry[^key-ac0532a302ac294cdf50400090228028][^key-a74bd31dfc77faf87018987500b692c0]
+#### 24. Securing premises after entry[^c-ac0532a302ac294cdf50400090228028][^c-a74bd31dfc77faf87018987500b692c0]
 
 A constable who enters premises under a search warrant must take reasonable steps to ensure that when the constable leaves the premises they are as secure as they were before the entry.
 
-#### 25. Return and retention of warrant[^key-cdd8f96197908cf26de16c1d06cf6e05][^key-ac7153be6c20ad4b2ec021eb38730972]
+#### 25. Return and retention of warrant[^c-cdd8f96197908cf26de16c1d06cf6e05][^c-ac7153be6c20ad4b2ec021eb38730972]
 
 (1) A search warrant must be returned to the appropriate person (see sub-paragraph (2))—
 
@@ -362,102 +362,102 @@ A constable who enters premises under a search warrant must take reasonable step
 
 ## Annotations
 
-[^key-8cb18f3d387c19aa377665b09a3bc7f2]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8cb18f3d387c19aa377665b09a3bc7f2]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-eb13edccd0511becaf7adec4409fb391]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/1) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-eb13edccd0511becaf7adec4409fb391]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/1) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-61b8e6d9698fac2c2e6566112222db28]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-61b8e6d9698fac2c2e6566112222db28]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e223192caf61ea988b3d9abf3626b02d]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/2) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-e223192caf61ea988b3d9abf3626b02d]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/2) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-afb993edde556f1ca35d4df81606f5b7]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-afb993edde556f1ca35d4df81606f5b7]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b37b4b660de4ce1222f4080e09def090]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/3) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-b37b4b660de4ce1222f4080e09def090]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/3) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-c2de3e530e9ea4e508a030973dad39a2]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c2de3e530e9ea4e508a030973dad39a2]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-04456fddb8a1c6649ffe96b23d00fc98]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/4) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-04456fddb8a1c6649ffe96b23d00fc98]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/4) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-faa6a71ee37511ff93ab684a8dcf08cf]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-faa6a71ee37511ff93ab684a8dcf08cf]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-54ac5078809271e2bfd9590beb88a6d3]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/5) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-54ac5078809271e2bfd9590beb88a6d3]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/5) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-a295ff1d40769c421c74459a39de5640]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a295ff1d40769c421c74459a39de5640]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a3a86f6d341bf4f35a78aa3242a9b42c]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/6) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-a3a86f6d341bf4f35a78aa3242a9b42c]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/6) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-9939cc17d747307de6ced294cec262e9]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9939cc17d747307de6ced294cec262e9]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6055ac06bbc3a52f6a3a3996c256bd68]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/7) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-6055ac06bbc3a52f6a3a3996c256bd68]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/7) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-efe657e7fac1e0cb6dc837ad730e82c1]: Commencement: Sch. 16 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-efe657e7fac1e0cb6dc837ad730e82c1]: Commencement: Sch. 16 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b8e4591023a9a77235dd4b2f9a0b77ae]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/8) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-b8e4591023a9a77235dd4b2f9a0b77ae]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/8) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-c134a61078b4c943a48d7d85e0c3c203]: Commencement: Sch. 16 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c134a61078b4c943a48d7d85e0c3c203]: Commencement: Sch. 16 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-249a7615784274fa98c3c2f04945bb6e]: Commencement: [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/9) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-249a7615784274fa98c3c2f04945bb6e]: Commencement: [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/9) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-eefb8db928c26eae8e7f338c02d35aeb]: Commencement: Sch. 16 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-eefb8db928c26eae8e7f338c02d35aeb]: Commencement: Sch. 16 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-20adb3df25bf1e0f26dc783f16347fc5]: Commencement: [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/10) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-20adb3df25bf1e0f26dc783f16347fc5]: Commencement: [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/10) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-8573bf9cb4453c8e733796ee1ca41107]: Commencement: Sch. 16 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8573bf9cb4453c8e733796ee1ca41107]: Commencement: Sch. 16 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-898bf941a84966a9b98879775cb8a1b4]: Commencement: [Sch. 16 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/11) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-898bf941a84966a9b98879775cb8a1b4]: Commencement: [Sch. 16 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/11) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-d20abda869f29155386bca42c9dcdb98]: Commencement: Sch. 16 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d20abda869f29155386bca42c9dcdb98]: Commencement: Sch. 16 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-827ca3e4d7242a5b7a0c8c7227121bd5]: Commencement: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/12) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-827ca3e4d7242a5b7a0c8c7227121bd5]: Commencement: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/12) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-392117ed1053544da268f9236f331c34]: Commencement: Sch. 16 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-392117ed1053544da268f9236f331c34]: Commencement: Sch. 16 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-008d6663f9f28e6d14867e778a3ac746]: Commencement: [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/13) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-008d6663f9f28e6d14867e778a3ac746]: Commencement: [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/13) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-adf89023693086c9106826e5fc1904fd]: Commencement: Sch. 16 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-adf89023693086c9106826e5fc1904fd]: Commencement: Sch. 16 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-60041c83ddfbf1c749efb9941725430f]: Commencement: [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/14) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-60041c83ddfbf1c749efb9941725430f]: Commencement: [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/14) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-019974e9f356dd64d213a6522189d0cb]: Commencement: Sch. 16 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-019974e9f356dd64d213a6522189d0cb]: Commencement: Sch. 16 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0fb92783785c57134c13d5e42b6e469a]: Commencement: [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/15) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-0fb92783785c57134c13d5e42b6e469a]: Commencement: [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/15) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-9d603fc1eee4131cb68ec6ae45d68ccd]: Commencement: Sch. 16 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9d603fc1eee4131cb68ec6ae45d68ccd]: Commencement: Sch. 16 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-17d97c77b44671f8abff011b7c902d9c]: Commencement: [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/16) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-17d97c77b44671f8abff011b7c902d9c]: Commencement: [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/16) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-e423cc7c13a9226b7e3a2889e5dfe7af]: Commencement: Sch. 16 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e423cc7c13a9226b7e3a2889e5dfe7af]: Commencement: Sch. 16 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f4d0670bc61d3b9b056ccf8bc4698620]: Commencement: [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/17) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-f4d0670bc61d3b9b056ccf8bc4698620]: Commencement: [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/17) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-63317086d547a007698c194275f731d2]: Commencement: Sch. 16 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-63317086d547a007698c194275f731d2]: Commencement: Sch. 16 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-194a699b23739f556ce8c31d538f85ae]: Commencement: [Sch. 16 para. 18](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/18) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-194a699b23739f556ce8c31d538f85ae]: Commencement: [Sch. 16 para. 18](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/18) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-1c113520920cbf1a2832c428db5b305d]: Commencement: Sch. 16 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1c113520920cbf1a2832c428db5b305d]: Commencement: Sch. 16 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2c0b7b52d34da5c3e1e9d87eaecab57c]: Commencement: [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/19) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-2c0b7b52d34da5c3e1e9d87eaecab57c]: Commencement: [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/19) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-fb52fbb0851ddd3a1fd4a975bcc9c998]: Commencement: Sch. 16 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fb52fbb0851ddd3a1fd4a975bcc9c998]: Commencement: Sch. 16 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9faef8f4c686f565de99a6ba8973ced2]: Commencement: [Sch. 16 para. 20](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/20) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-9faef8f4c686f565de99a6ba8973ced2]: Commencement: [Sch. 16 para. 20](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/20) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-afd6418152d3edd2a06656950138097f]: Commencement: Sch. 16 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-afd6418152d3edd2a06656950138097f]: Commencement: Sch. 16 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0ae545fa199a171fd7e7ade975de0e10]: Commencement: [Sch. 16 para. 21](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/21) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-0ae545fa199a171fd7e7ade975de0e10]: Commencement: [Sch. 16 para. 21](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/21) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-609fd9668edeaa1d333d6ac1573d8357]: Commencement: Sch. 16 para. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-609fd9668edeaa1d333d6ac1573d8357]: Commencement: Sch. 16 para. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e63bdd497bc0c35567fd18e9916ec304]: Commencement: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/22) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-e63bdd497bc0c35567fd18e9916ec304]: Commencement: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/22) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-97f13a142496a4c5266b60e12a09a9cb]: Commencement: Sch. 16 para. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-97f13a142496a4c5266b60e12a09a9cb]: Commencement: Sch. 16 para. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ca80b80a07886672fac061d979b66cd2]: Commencement: [Sch. 16 para. 23](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/23) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-ca80b80a07886672fac061d979b66cd2]: Commencement: [Sch. 16 para. 23](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/23) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-ac0532a302ac294cdf50400090228028]: Commencement: Sch. 16 para. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ac0532a302ac294cdf50400090228028]: Commencement: Sch. 16 para. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a74bd31dfc77faf87018987500b692c0]: Commencement: [Sch. 16 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/24) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-a74bd31dfc77faf87018987500b692c0]: Commencement: [Sch. 16 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/24) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
 
-[^key-cdd8f96197908cf26de16c1d06cf6e05]: Commencement: Sch. 16 para. 25 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-cdd8f96197908cf26de16c1d06cf6e05]: Commencement: Sch. 16 para. 25 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ac7153be6c20ad4b2ec021eb38730972]: Commencement: [Sch. 16 para. 25](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/25) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)
+[^c-ac7153be6c20ad4b2ec021eb38730972]: Commencement: [Sch. 16 para. 25](https://www.legislation.gov.uk/ukpga/2026/20/schedule/16/paragraph/25) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/d)

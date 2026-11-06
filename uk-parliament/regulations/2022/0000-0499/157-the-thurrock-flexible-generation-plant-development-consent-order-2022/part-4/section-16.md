@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Discharge of water[^key-95aeb52a63f0a3861b4863cebc7a2b33]
+## 16. Discharge of water[^c-95aeb52a63f0a3861b4863cebc7a2b33]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-95aeb52a63f0a3861b4863cebc7a2b33]: Commencement: Art. 16 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-95aeb52a63f0a3861b4863cebc7a2b33]: Commencement: Art. 16 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
 [^f00036]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

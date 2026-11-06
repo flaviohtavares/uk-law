@@ -22,7 +22,7 @@ summary: ''
 
 (1) If a company carrying on a trade—
 
-- (a) pays any sum to a body[^key-2949ed8f89c1783c166de44bf3825631] in the case of which exemption may be claimed as a result of section 491 of CTA 2010 (scientific research associations)[^key-c8f041ac116145d65b13d25a677c8625] and which has as its object the undertaking of research and development which may lead to or facilitate an extension of the appropriate class of trade, or
+- (a) pays any sum to a body[^c-2949ed8f89c1783c166de44bf3825631] in the case of which exemption may be claimed as a result of section 491 of CTA 2010 (scientific research associations)[^c-c8f041ac116145d65b13d25a677c8625] and which has as its object the undertaking of research and development which may lead to or facilitate an extension of the appropriate class of trade, or
 - (b) pays to an approved university, college, research institute or other similar institution any sum to be used for scientific research related to the appropriate class of trade,
 
 a deduction is allowed for the sum in calculating the profits of the trade.
@@ -52,6 +52,6 @@ any activities constitute or constituted scientific research, an officer of Reve
 
 ## Annotations
 
-[^key-2949ed8f89c1783c166de44bf3825631]: Textual amendment: Words in s. 88(1)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 595(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/595/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2949ed8f89c1783c166de44bf3825631]: Textual amendment: Words in s. 88(1)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 595(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/595/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-c8f041ac116145d65b13d25a677c8625]: Textual amendment: Words in s. 88(1)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 595(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/595/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c8f041ac116145d65b13d25a677c8625]: Textual amendment: Words in s. 88(1)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 595(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/595/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

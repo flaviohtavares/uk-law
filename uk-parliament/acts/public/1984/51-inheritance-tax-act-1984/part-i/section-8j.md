@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8J. Meaning of “inherited”[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]
+## 8J. Meaning of “inherited”[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section explains for the purposes of sections 8E , 8F, 8FA, 8FB and 8M[^key-7a7a46214cf862b8139e7cfefbeecc98] whether a person (“B”) inherits, from a person who has died (“D”), property which forms part of D's estate immediately before D's death.
+(1) This section explains for the purposes of sections 8E , 8F, 8FA, 8FB and 8M[^c-7a7a46214cf862b8139e7cfefbeecc98] whether a person (“B”) inherits, from a person who has died (“D”), property which forms part of D's estate immediately before D's death.
 
 (2) B inherits the property if there is a disposition of it (whether effected by will, under the law relating to intestacy or otherwise) to B.
 
@@ -38,15 +38,15 @@ summary: ''
 
 (5) Where, immediately before D's death, the property was settled property in which D was beneficially entitled to an interest in possession, B inherits the property if B becomes beneficially entitled to it on D's death.
 
-(6) Where the property forms part of D's estate immediately before D's death as a result of the operation of section 102(3) of the Finance Act 1986 (gifts with reservation) in relation to a disposal of the property made by D by way of gift—[^key-bdef52fe73c18bb47c24264ee85fd5e9]
+(6) Where the property forms part of D's estate immediately before D's death as a result of the operation of section 102(3) of the Finance Act 1986 (gifts with reservation) in relation to a disposal of the property made by D by way of gift—[^c-bdef52fe73c18bb47c24264ee85fd5e9]
 
 - (a) subsections (2) to (5) do not apply, and
 - (b) B inherits the property if the property originally comprised in the gift became comprised in B’s estate on the making of the disposal.
 
 ## Annotations
 
-[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
+[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
 
-[^key-7a7a46214cf862b8139e7cfefbeecc98]: Textual amendment: Words in s. 8J(1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/9)
+[^c-7a7a46214cf862b8139e7cfefbeecc98]: Textual amendment: Words in s. 8J(1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/9)
 
-[^key-bdef52fe73c18bb47c24264ee85fd5e9]: Textual amendment: Words in s. 8J(6) substituted (with application in accordance with s. 66(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 66(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/66/5)
+[^c-bdef52fe73c18bb47c24264ee85fd5e9]: Textual amendment: Words in s. 8J(6) substituted (with application in accordance with s. 66(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 66(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/66/5)

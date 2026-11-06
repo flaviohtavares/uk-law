@@ -29,8 +29,8 @@ summary: ''
   - (iv) electronic money institutions;
   - (v) auction platforms;
   - (vi) credit unions in Northern Ireland;
-  - (vii) recognised investment exchanges within the meaning of section 285 of FSMA [^c23047701] (exemption for recognised investment exchanges , clearing houses and central securities depositories[^key-0756c5d62f49afe744005183501d4ba8]);
-  - (viii)[^key-4f241e9c70b2c6a0a9b7467f4b22b9c7] cryptoasset exchange providers;
+  - (vii) recognised investment exchanges within the meaning of section 285 of FSMA [^c23047701] (exemption for recognised investment exchanges , clearing houses and central securities depositories[^c-0756c5d62f49afe744005183501d4ba8]);
+  - (viii)[^c-4f241e9c70b2c6a0a9b7467f4b22b9c7] cryptoasset exchange providers;
   - (ix) custodian wallet providers;
 - (b) each of the professional bodies listed in Schedule 1 is the supervisory authority for relevant persons who are members of it, or regulated or supervised by it;
 - (c) the Commissioners are the supervisory authority for—
@@ -40,8 +40,8 @@ summary: ''
   - (iv) auditors, external accountants and tax advisers who are not supervised by one of the professional bodies listed in Schedule 1;
   - (v) bill payment service providers which are not supervised by the FCA;
   - (vi) telecommunication, digital and IT payment service providers which are not supervised by the FCA;
-  - (vii) estate agents and letting agents[^key-d04cafa12f2f02134ad14ce4e3cf72a7] which are not supervised by one of the professional bodies listed in Schedule 1;
-  - (viii)[^key-5f7eaebd1cbac5aad018da4ec63c8213] art market participants;
+  - (vii) estate agents and letting agents[^c-d04cafa12f2f02134ad14ce4e3cf72a7] which are not supervised by one of the professional bodies listed in Schedule 1;
+  - (viii)[^c-5f7eaebd1cbac5aad018da4ec63c8213] art market participants;
 - (d) the Gambling Commission is the supervisory authority for casinos.
 
 (2) Where under paragraph (1), there is more than one supervisory authority for a relevant person, the supervisory authorities may agree that one of them will act as the supervisory authority for that person.
@@ -67,13 +67,13 @@ summary: ''
 
 [^c23047701]: Marginal citation: Section 285 was amended by section 28 of the [Financial Services and Markets Act 2000 (c.8)](https://www.legislation.gov.uk/ukpga/2000/8); and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
 
-[^key-0756c5d62f49afe744005183501d4ba8]: Textual amendment: Words in reg. 7(1)(a)(vii) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/44) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-0756c5d62f49afe744005183501d4ba8]: Textual amendment: Words in reg. 7(1)(a)(vii) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/44) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-4f241e9c70b2c6a0a9b7467f4b22b9c7]: Textual amendment: Reg. 7(1)(a)(viii)(ix) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/3/2/a)
+[^c-4f241e9c70b2c6a0a9b7467f4b22b9c7]: Textual amendment: Reg. 7(1)(a)(viii)(ix) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/3/2/a)
 
-[^key-d04cafa12f2f02134ad14ce4e3cf72a7]: Textual amendment: Words in reg. 7(1)(c)(vii) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/3/2/b)
+[^c-d04cafa12f2f02134ad14ce4e3cf72a7]: Textual amendment: Words in reg. 7(1)(c)(vii) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/3/2/b)
 
-[^key-5f7eaebd1cbac5aad018da4ec63c8213]: Textual amendment: Reg. 7(1)(viii) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/3/2/c)
+[^c-5f7eaebd1cbac5aad018da4ec63c8213]: Textual amendment: Reg. 7(1)(viii) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/3/2/c)
 
 [^c23047711]: Marginal citation: Paragraph 23 was substituted, and paragraph 23B was inserted, by section 7 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 

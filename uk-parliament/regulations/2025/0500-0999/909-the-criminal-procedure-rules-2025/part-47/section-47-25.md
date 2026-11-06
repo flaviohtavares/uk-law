@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.25. Exercise of court’s powers[^key-d0a9d11c7568a98600a84f593ce048c9]
+## 47.25. Exercise of court’s powers[^c-d0a9d11c7568a98600a84f593ce048c9]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d0a9d11c7568a98600a84f593ce048c9]: Commencement: Rule 47.25 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d0a9d11c7568a98600a84f593ce048c9]: Commencement: Rule 47.25 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01194]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 15 was amended by sections 113 and 114 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and article 7 of [S.I. 2005/3496](https://www.legislation.gov.uk/uksi/2005/3496).
 

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) In this Part a “ **qualifying disclosure** ” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and[^key-89af2ff1dfe9521c9d77048f67716298] tends to show one or more of the following—
+(1) In this Part a “ **qualifying disclosure** ” means any disclosure of information which, in the reasonable belief of the worker making the disclosure, is made in the public interest and[^c-89af2ff1dfe9521c9d77048f67716298] tends to show one or more of the following—
 
 - (a) that a criminal offence has been committed, is being committed or is likely to be committed,
 - (b) that a person has failed, is failing or is likely to fail to comply with any legal obligation to which he is subject,
 - (c) that a miscarriage of justice has occurred, is occurring or is likely to occur,
 - (d) that the health or safety of any individual has been, is being or is likely to be endangered,
-- (da)[^key-edcbf00264db611a99cb251370d0e5aa] that sexual harassment has occurred, is occurring or is likely to occur,
+- (da)[^c-edcbf00264db611a99cb251370d0e5aa] that sexual harassment has occurred, is occurring or is likely to occur,
 - (e) that the environment has been, is being or is likely to be damaged, or
 - (f) that information tending to show any matter falling within any one of the preceding paragraphs has been, is being or is likely to be deliberately concealed.
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c16325111]: Textual amendment: Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
-[^key-89af2ff1dfe9521c9d77048f67716298]: Textual amendment: Words in s. 43B(1) inserted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2013/24/section/17), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-89af2ff1dfe9521c9d77048f67716298]: Textual amendment: Words in s. 43B(1) inserted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2013/24/section/17), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
 
-[^key-edcbf00264db611a99cb251370d0e5aa]: Textual amendment: [S. 43B(1)(da)](https://www.legislation.gov.uk/ukpga/1996/18/section/43B/1/da) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/23/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/2)
+[^c-edcbf00264db611a99cb251370d0e5aa]: Textual amendment: [S. 43B(1)(da)](https://www.legislation.gov.uk/ukpga/1996/18/section/43B/1/da) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/23/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/2)

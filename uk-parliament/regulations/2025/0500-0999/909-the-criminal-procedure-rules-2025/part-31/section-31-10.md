@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.10. Bind over: exercise of court’s powers[^key-6a6725dbcf8c4ce94e94a66bc02944fa]
+## 31.10. Bind over: exercise of court’s powers[^c-6a6725dbcf8c4ce94e94a66bc02944fa]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6a6725dbcf8c4ce94e94a66bc02944fa]: Commencement: [Rule 31.10](https://www.legislation.gov.uk/uksi/2025/909/rule/31.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6a6725dbcf8c4ce94e94a66bc02944fa]: Commencement: [Rule 31.10](https://www.legislation.gov.uk/uksi/2025/909/rule/31.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00780]: Footnote: [1361 c. 1](https://www.legislation.gov.uk/ukpga/1361/1).
 

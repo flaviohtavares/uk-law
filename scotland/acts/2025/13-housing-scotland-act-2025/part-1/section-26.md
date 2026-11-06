@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Assured tenancies: capping of rent increase[^key-9a558efc9b019a5cac0b84a7e8ba1904]
+## 26. Assured tenancies: capping of rent increase[^c-9a558efc9b019a5cac0b84a7e8ba1904]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a558efc9b019a5cac0b84a7e8ba1904]: Commencement: S. 26 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-9a558efc9b019a5cac0b84a7e8ba1904]: Commencement: S. 26 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

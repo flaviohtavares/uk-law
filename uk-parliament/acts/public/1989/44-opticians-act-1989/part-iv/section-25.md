@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-120bb8c626317e5cfde456d5a74bcf05] Subject to the following provisions of this section a person who is not a registered medical practitioner, a registered optometrist or a registered dispensing optician must not fit a contact lens for an individual.
+(1)[^c-120bb8c626317e5cfde456d5a74bcf05] Subject to the following provisions of this section a person who is not a registered medical practitioner, a registered optometrist or a registered dispensing optician must not fit a contact lens for an individual.
 
 (1A) A registered medical practitioner, a registered optometrist, a registered dispensing optician or a person to whom, by virtue of subsection (2) or (3) below, subsection (1) above does not apply, must not fit a contact lens for an individual unless—
 
@@ -29,11 +29,11 @@ summary: ''
 
 (2) Subsection (1) above shall not apply to the fitting of contact lenses by a person recognised by a medical authority as a medical student, if carried out as part of a course of instruction approved by that authority for medical students or as part of an examination so approved.
 
-(3) The Council may by rules exempt from subsection (1) above the fitting of contact lenses by persons training as optometrists or dispensing opticians[^key-4ccc0e233d0b9f2ea7d27ec5c694a8e3] , or any prescribed class of such persons, in such cases and subject to compliance with such conditions as may be prescribed by the rules.
+(3) The Council may by rules exempt from subsection (1) above the fitting of contact lenses by persons training as optometrists or dispensing opticians[^c-4ccc0e233d0b9f2ea7d27ec5c694a8e3] , or any prescribed class of such persons, in such cases and subject to compliance with such conditions as may be prescribed by the rules.
 
-(4) Any person who contravenes subsection (1) or (1A)[^key-8fbd252f1bd858af53ddc20c583c2862] above shall be liable on summary conviction to a fine of an amount not exceeding level 5[^key-9588244a60fd12b7574c45e626e968ef] on the standard scale.
+(4) Any person who contravenes subsection (1) or (1A)[^c-8fbd252f1bd858af53ddc20c583c2862] above shall be liable on summary conviction to a fine of an amount not exceeding level 5[^c-9588244a60fd12b7574c45e626e968ef] on the standard scale.
 
-(5)[^key-62ad6fc1874a85307cb2960cc30a533f] A person to whom this subsection applies who fits a contact lens to an individual must—
+(5)[^c-62ad6fc1874a85307cb2960cc30a533f] A person to whom this subsection applies who fits a contact lens to an individual must—
 
 - (a) on completion of the fitting, provide the individual with a signed, written specification of each lens fitted sufficient to enable the lens to be replicated unless, having carried out the assessment referred to in subsection (9)(a) below, he is of the view that a contact lens is not appropriate; and
 - (b) provide the individual with instructions and information on the care, wearing, treatment, cleaning and maintenance of the lens.
@@ -61,12 +61,12 @@ and “fit” and “fitted” shall be construed accordingly.
 
 ## Annotations
 
-[^key-120bb8c626317e5cfde456d5a74bcf05]: Textual amendment: S. 25(1)(1A) substituted for s. 25(1) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(2)](https://www.legislation.gov.uk/uksi/2005/848/article/18/2) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-120bb8c626317e5cfde456d5a74bcf05]: Textual amendment: S. 25(1)(1A) substituted for s. 25(1) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(2)](https://www.legislation.gov.uk/uksi/2005/848/article/18/2) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-4ccc0e233d0b9f2ea7d27ec5c694a8e3]: Textual amendment: Words in s. 25(3) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(3)](https://www.legislation.gov.uk/uksi/2005/848/article/18/3) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-4ccc0e233d0b9f2ea7d27ec5c694a8e3]: Textual amendment: Words in s. 25(3) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(3)](https://www.legislation.gov.uk/uksi/2005/848/article/18/3) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-8fbd252f1bd858af53ddc20c583c2862]: Textual amendment: Words in s. 25(4) inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(4)](https://www.legislation.gov.uk/uksi/2005/848/article/18/4) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-8fbd252f1bd858af53ddc20c583c2862]: Textual amendment: Words in s. 25(4) inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(4)](https://www.legislation.gov.uk/uksi/2005/848/article/18/4) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-9588244a60fd12b7574c45e626e968ef]: Textual amendment: Words in s. 25(4) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 21(1)](https://www.legislation.gov.uk/uksi/2005/848/article/21/1)[(2)](https://www.legislation.gov.uk/uksi/2005/848/article/21/2) (with [art. 21(4)](https://www.legislation.gov.uk/uksi/2005/848/article/21/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-9588244a60fd12b7574c45e626e968ef]: Textual amendment: Words in s. 25(4) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 21(1)](https://www.legislation.gov.uk/uksi/2005/848/article/21/1)[(2)](https://www.legislation.gov.uk/uksi/2005/848/article/21/2) (with [art. 21(4)](https://www.legislation.gov.uk/uksi/2005/848/article/21/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-62ad6fc1874a85307cb2960cc30a533f]: Textual amendment: S. 25(5)-(10) added (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(5)](https://www.legislation.gov.uk/uksi/2005/848/article/18/5) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-62ad6fc1874a85307cb2960cc30a533f]: Textual amendment: S. 25(5)-(10) added (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 18(5)](https://www.legislation.gov.uk/uksi/2005/848/article/18/5) (with [art. 18(6)](https://www.legislation.gov.uk/uksi/2005/848/article/18/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

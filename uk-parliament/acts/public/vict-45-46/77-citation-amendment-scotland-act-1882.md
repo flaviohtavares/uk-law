@@ -39,7 +39,7 @@ This Act may be cited as the Citation Amendment (Scotland) Act 1882.
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5707711]
 
-## 3. Citation may be by registered letter.[^key-7b7d41b40603a5e791e0dfe475d1f58f][^c5707751][^c5707761][^c5707741]
+## 3. Citation may be by registered letter.[^c-7b7d41b40603a5e791e0dfe475d1f58f][^c5707751][^c5707761][^c5707741]
 
 In any civil action or proceeding in any court or before any person or body of persons having by law power to cite parties or witnesses, any summons or warrant of citation of a person, whether as a party or witness, or warrant of service or judicial intimation, may be executed in Scotland by an officer of the court from which such summons, warrant, or judicial intimation was issued, or other officer who, according to the present law and practice might lawfully execute the same, or by an enrolled law agent, by sending to the known residence or place of business of the person upon whom such summons, warrant, or judicial intimation is to be served, or to his last known address, if it continues to be his legal domicile or proper place of citation, or to the office of the keeper of edictal citations, where the summons, warrant, or judicial intimation is required to be sent to that office, a registered letter by post containing the copy of the summons or petition or other document required by law in the particular case to be served, with the proper citation or notice subjoined thereto, or containing such other citation or notice as may be required in the circumstances, and such posting shall constitute a legal and valid citation, unless the person cited shall prove that such letter was not left or tendered at his known residence or place of business, or at his last known address if it continues to be his legal domicile or proper place of citation.
 
@@ -142,7 +142,7 @@ Where there are more parties than one cited in the same cause and only one execu
 
 [^c5707711]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/45-46/77/section/2) repealed by [Statute Law Revision Act 1898 (c. 22)](https://www.legislation.gov.uk/ukpga/1898/22)
 
-[^key-7b7d41b40603a5e791e0dfe475d1f58f]: Modification: S. 3 excluded (S.) (30.11.2016) by [Act of Sederunt (Sheriff Court Bankruptcy Rules) 2016 (S.S.I. 2016/313)](https://www.legislation.gov.uk/ssi/2016/313), [art. 6.4(3)](https://www.legislation.gov.uk/ssi/2016/313/article/6.4/3), [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
+[^c-7b7d41b40603a5e791e0dfe475d1f58f]: Modification: S. 3 excluded (S.) (30.11.2016) by [Act of Sederunt (Sheriff Court Bankruptcy Rules) 2016 (S.S.I. 2016/313)](https://www.legislation.gov.uk/ssi/2016/313), [art. 6.4(3)](https://www.legislation.gov.uk/ssi/2016/313/article/6.4/3), [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2016/313/rule/1.1/2)
 
 [^c5707751]: Modification: “Enrolled law agent” explained by [Execution of Diligence (Scotland) Act 1926 (c. 16, SIF 45:2)](https://www.legislation.gov.uk/ukpga/1926/16), [s. 4](https://www.legislation.gov.uk/ukpga/1926/16/section/4) and [Solicitors (Scotland) Act 1980 (c. 46, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1980/46), [s. 65(2)](https://www.legislation.gov.uk/ukpga/1980/46/section/65/2)
 

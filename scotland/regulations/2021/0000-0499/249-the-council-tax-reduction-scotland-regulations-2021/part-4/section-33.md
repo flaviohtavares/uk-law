@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Date on which entitlement is to begin[^key-a2e6e1f39d05801e8ad70ea82f05da7f]
+## 33. Date on which entitlement is to begin[^c-a2e6e1f39d05801e8ad70ea82f05da7f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ that person is entitled to council tax reduction from the day on which the perso
 
 ## Annotations
 
-[^key-a2e6e1f39d05801e8ad70ea82f05da7f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2021/249/regulation/33) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-a2e6e1f39d05801e8ad70ea82f05da7f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2021/249/regulation/33) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

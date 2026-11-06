@@ -43,21 +43,21 @@ To be laid before Parliament
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by Articles 3(1)(g) and 2(2)[^f00001] of, paragraphs 2(1), 8(1), 24(1) and (2) of Schedule 1 and paragraphs 2(1)(f) and 7(1)(f) of Schedule 2 to, the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00002].
 
-## 1. Citation and commencement[^key-095faacaacf899df1a46e0a80ff49cfa]
+## 1. Citation and commencement[^c-095faacaacf899df1a46e0a80ff49cfa]
 
 These Regulations may be cited as the Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2009 and come into operation on 12th October 2009.
 
-## 2. Interpretation[^key-22c63b316329f9fa7b56ceb43b3cc40f]
+## 2. Interpretation[^c-22c63b316329f9fa7b56ceb43b3cc40f]
 
 In these Regulations—
 
 - “the 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
 
-## 3. Vulnerable adults – welfare service of a prescribed description[^key-74c060a1684791dd9df7fa3ece2dbd52]
+## 3. Vulnerable adults – welfare service of a prescribed description[^c-74c060a1684791dd9df7fa3ece2dbd52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulated activity (driving a vehicle – prescribed circumstances relating to children)[^key-6a1a20729fcf64787abe1aa05e0fe4a9]
+## 4. Regulated activity (driving a vehicle – prescribed circumstances relating to children)[^c-6a1a20729fcf64787abe1aa05e0fe4a9]
 
 Driving a vehicle, which is being used only for the purpose of conveying children and any person supervising or caring for them, is a regulated activity under paragraph 2(1)(f) of Schedule 2 to the 2007 Order in the following circumstances—
 
@@ -65,11 +65,11 @@ Driving a vehicle, which is being used only for the purpose of conveying childre
 - (b) the arrangement is made between P and a person (B) or between P and a person with whom B is engaging in any form of work (whether or not for gain); and
 - (c) B drives the vehicle and conveys the children pursuant to that arrangement.
 
-## 5. Regulated activity (driving a vehicle – prescribed circumstances relating to vulnerable adults)[^key-24c849de7872467fb249bd67e3720274]
+## 5. Regulated activity (driving a vehicle – prescribed circumstances relating to vulnerable adults)[^c-24c849de7872467fb249bd67e3720274]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009[^key-337549bbf6e46ec48330f5dc9d9ff413]
+## 6. Amendments to the Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009[^c-337549bbf6e46ec48330f5dc9d9ff413]
 
 (1) The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009[^f00003] are amended in accordance with paragraphs (2) to (5).
 
@@ -132,17 +132,17 @@ Regulation 6 amends the Safeguarding Vulnerable Groups (Prescribed Criteria and 
 
 [^f00002]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-095faacaacf899df1a46e0a80ff49cfa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
+[^c-095faacaacf899df1a46e0a80ff49cfa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
 
-[^key-22c63b316329f9fa7b56ceb43b3cc40f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/306/regulation/2) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
+[^c-22c63b316329f9fa7b56ceb43b3cc40f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/306/regulation/2) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
 
-[^key-74c060a1684791dd9df7fa3ece2dbd52]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/306/regulation/3) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2012/323/regulation/22)
+[^c-74c060a1684791dd9df7fa3ece2dbd52]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/306/regulation/3) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2012/323/regulation/22)
 
-[^key-6a1a20729fcf64787abe1aa05e0fe4a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/306/regulation/4) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
+[^c-6a1a20729fcf64787abe1aa05e0fe4a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/306/regulation/4) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
 
-[^key-24c849de7872467fb249bd67e3720274]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/306/regulation/5) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2012/323/regulation/22)
+[^c-24c849de7872467fb249bd67e3720274]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/306/regulation/5) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2012/323/regulation/22)
 
-[^key-337549bbf6e46ec48330f5dc9d9ff413]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/306/regulation/6) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
+[^c-337549bbf6e46ec48330f5dc9d9ff413]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/306/regulation/6) in operation at 12.10.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/306/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2009 No. 39](https://www.legislation.gov.uk/nisr/2009/39).
 

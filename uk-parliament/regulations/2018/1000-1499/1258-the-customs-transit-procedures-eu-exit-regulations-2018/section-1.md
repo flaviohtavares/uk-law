@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-3c58c56ebcb70028f5f205dcc9f04c49]
+## 1. Citation and commencement[^c-3c58c56ebcb70028f5f205dcc9f04c49]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c58c56ebcb70028f5f205dcc9f04c49]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1258/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3c58c56ebcb70028f5f205dcc9f04c49]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1258/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23714581]: Marginal citation: Under section 52(2) of the [Taxation (Cross-border) Trade Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [section 52(1)](https://www.legislation.gov.uk/ukpga/2018/22/section/52/1) of which provides that “relevant subordinate legislation” for these purposes includes any subordinate legislation made under that Act and within the meaning of the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).

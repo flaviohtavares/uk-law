@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Offences in relation to sites of special scientific interest[^key-f1ae87a14b23f8c26fefd41e2fb60473]
+## 19. Offences in relation to sites of special scientific interest[^c-f1ae87a14b23f8c26fefd41e2fb60473]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-f1ae87a14b23f8c26fefd41e2fb60473]: Commencement: S. 19 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-f1ae87a14b23f8c26fefd41e2fb60473]: Commencement: S. 19 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

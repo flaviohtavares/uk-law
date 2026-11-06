@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Renaming of “compromise agreements”, “compromise contracts” and “compromises”[^key-97eeb2382edf4eb4a3a6e0befc6db23c]
+## 23. Renaming of “compromise agreements”, “compromise contracts” and “compromises”[^c-97eeb2382edf4eb4a3a6e0befc6db23c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97eeb2382edf4eb4a3a6e0befc6db23c]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2013/24/section/23) in force at 29.7.2013 by [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-97eeb2382edf4eb4a3a6e0befc6db23c]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2013/24/section/23) in force at 29.7.2013 by [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)

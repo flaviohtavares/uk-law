@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Application for building society insolvency order[^key-7fa3673b2d793449955f21b8378db257]
+## 6. Application for building society insolvency order[^c-7fa3673b2d793449955f21b8378db257]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An application for a building society insolvency order under section 95 of the B
 
 ## Annotations
 
-[^key-7fa3673b2d793449955f21b8378db257]: Commencement: Rule 6 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-7fa3673b2d793449955f21b8378db257]: Commencement: Rule 6 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

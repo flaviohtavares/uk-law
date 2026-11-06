@@ -41,10 +41,10 @@ as the part of the capital sum that is expenditure incurred by the lessee on the
 
 (5) This section is subject to—
 
-- (a)[^key-d44985339e7b4ca84f8bc830edded081] sections 186, 186A and 187 (fixtures on which industrial buildings allowance, business premises renovation allowance or research and development allowance has been made),
+- (a)[^c-d44985339e7b4ca84f8bc830edded081] sections 186, 186A and 187 (fixtures on which industrial buildings allowance, business premises renovation allowance or research and development allowance has been made),
 - (b) section 197 (disposal values in avoidance cases), and
 - (c) sections 200 and 201 (further provisions about elections).
 
 ## Annotations
 
-[^key-d44985339e7b4ca84f8bc830edded081]: Textual amendment: [S. 199(5)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/199/5/a) substituted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/10)
+[^c-d44985339e7b4ca84f8bc830edded081]: Textual amendment: [S. 199(5)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/199/5/a) substituted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/10)

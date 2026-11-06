@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Care leavers not to be regarded as becoming homeless intentionally[^key-57005b155fe0dbd98ff5a97c12aa1431][^key-26f29fe07103a54a45722b74ceb72518]
+## 9. Care leavers not to be regarded as becoming homeless intentionally[^c-57005b155fe0dbd98ff5a97c12aa1431][^c-26f29fe07103a54a45722b74ceb72518]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57005b155fe0dbd98ff5a97c12aa1431]: Commencement: S. 9 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-57005b155fe0dbd98ff5a97c12aa1431]: Commencement: S. 9 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-26f29fe07103a54a45722b74ceb72518]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2026/21/section/9) in force at 30.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/c)
+[^c-26f29fe07103a54a45722b74ceb72518]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2026/21/section/9) in force at 30.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/c)

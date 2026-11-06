@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 188. Duty of Scottish Ministers to keep compulsion order and restriction order under review[^key-431f1e144c03a0c56f40e4445e7a921a]
+## 188. Duty of Scottish Ministers to keep compulsion order and restriction order under review[^c-431f1e144c03a0c56f40e4445e7a921a]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) are satisfied that the patient has a mental disorder; but
 - (b) are not satisfied—
   - (i) that, as a result of the patient’s mental disorder, it is necessary, in order to protect any other person from serious harm, for the patient to be detained in hospital, whether or not for medical treatment; and
-  - (ii)[^key-baf5f7ece07264415032fa3f40294842] either—
+  - (ii)[^c-baf5f7ece07264415032fa3f40294842] either—
     - (A) that the conditions mentioned in paragraphs (b) and (c) of section 182(4) of this Act continue to apply in respect of the patient; or
     - (B) that it continues to be necessary for the patient to be subject to the compulsion order,
 
@@ -71,6 +71,6 @@ they may apply to the Tribunal under section 191 of this Act for an order under 
 
 ## Annotations
 
-[^key-431f1e144c03a0c56f40e4445e7a921a]: Commencement: S. 188 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-431f1e144c03a0c56f40e4445e7a921a]: Commencement: S. 188 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-baf5f7ece07264415032fa3f40294842]: Textual amendment: S. 188(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 69(3)](https://www.legislation.gov.uk/asp/2007/10/section/69/3), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-baf5f7ece07264415032fa3f40294842]: Textual amendment: S. 188(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 69(3)](https://www.legislation.gov.uk/asp/2007/10/section/69/3), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)

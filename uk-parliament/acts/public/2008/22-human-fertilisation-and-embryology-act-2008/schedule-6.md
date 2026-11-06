@@ -247,7 +247,7 @@ Section 56
 
 #### Magistrates' Courts Act 1980 (c. 43)
 
-**20.**[^key-ddeb01ffb34834740a5c080d6155c2d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-ddeb01ffb34834740a5c080d6155c2d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Supreme Court Act 1981 (c. 54)
 
@@ -441,7 +441,7 @@ Section 56
 
 #### Access to Justice Act 1999 (c. 22)
 
-**38.**[^key-235bca827665683f03d610d33d7b751f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-235bca827665683f03d610d33d7b751f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Adoption and Children Act 2002 (c. 38)
 
@@ -986,7 +986,7 @@ Section 56
 
 [^c2089204]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/19) wholly in force at 1.9.2009; [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/19) not in force at Royal Assent see [s. 68](https://www.legislation.gov.uk/ukpga/2008/22/section/68); [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/19) in force for certain purposes at 6.4.2009 and at 1.9.2009 otherwise by [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e){(2)} (with Sch.)
 
-[^key-ddeb01ffb34834740a5c080d6155c2d0]: Textual amendment: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/20) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ddeb01ffb34834740a5c080d6155c2d0]: Textual amendment: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/20) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c2089212]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/23) wholly in force at 1.9.2009; [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/23) not in force at Royal Assent see [s. 68](https://www.legislation.gov.uk/ukpga/2008/22/section/68); [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/23) in force for certain purposes at 6.4.2009 and at 1.9.2009 otherwise by [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e){(2)} (with Sch.)
 
@@ -1006,7 +1006,7 @@ Section 56
 
 [^c2089186]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/36) wholly in force at 6.4.2010; [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/36) not in force at Royal Assent see [s. 68](https://www.legislation.gov.uk/ukpga/2008/22/section/68); [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/36) in force for certain purposes at 6.4.2009 by [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(d)](https://www.legislation.gov.uk/uksi/2009/479/article/6/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule)); [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/36) otherwise in force 6.4.2010 by [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/987/article/2/g)
 
-[^key-235bca827665683f03d610d33d7b751f]: Textual amendment: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/38) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-235bca827665683f03d610d33d7b751f]: Textual amendment: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/38) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^c2089229]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/26) wholly in force at 1.9.2009; [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/26) not in force at Royal Assent see [s. 68](https://www.legislation.gov.uk/ukpga/2008/22/section/68); [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/26) in force for certain purposes at 6.4.2009 and at 1.9.2009 otherwise by [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e){(2)} (with Sch.)
 

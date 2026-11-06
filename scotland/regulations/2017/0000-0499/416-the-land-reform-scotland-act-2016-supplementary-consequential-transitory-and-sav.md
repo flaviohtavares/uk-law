@@ -44,7 +44,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 126(3)(m) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-75460ac789181566de383611c63f6bbb]
+## 1. Citation, commencement and interpretation[^c-75460ac789181566de383611c63f6bbb]
 
 (1) These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 and come into force on 30th November 2017.
 
@@ -56,11 +56,11 @@ In accordance with section 126(3)(m) of that Act, a draft of this instrument has
 - “limited duration tenancy” has the same meaning as in section 93 of the 2003 Act[^f00003]; and
 - “modern limited duration tenancy” has the same meaning as in section 93 of the 2003 Act[^f00004].
 
-## 2. Modifications[^key-f244cfb4bb6557405b50df6b302b71b5]
+## 2. Modifications[^c-f244cfb4bb6557405b50df6b302b71b5]
 
 Schedule 1 (consequential modifications and supplementary provision) has effect.
 
-## 3. Transitory and saving provisions[^key-1a65bd567c110ff41eaf11176f2579ea]
+## 3. Transitory and saving provisions[^c-1a65bd567c110ff41eaf11176f2579ea]
 
 Schedule 2 (transitory and saving provisions) has effect.
 
@@ -78,7 +78,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. The Opencast Coal Act 1958[^key-665b16cd80103db01ca225c9164b9e9a]
+### 1. The Opencast Coal Act 1958[^c-665b16cd80103db01ca225c9164b9e9a]
 
 (1) The Opencast Coal Act 1958[^f00005] is modified as follows.
 
@@ -89,7 +89,7 @@ Regulation 2
 
 (3) In section 52(2) (general application to Scotland)[^f00007], in the definition of “agricultural holding”, for “or a limited duration tenancy” substitute “a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy”.
 
-### 2. The Land Compensation (Scotland) Act 1973[^key-ec125f648437dd4d481c696b17acfbbc]
+### 2. The Land Compensation (Scotland) Act 1973[^c-ec125f648437dd4d481c696b17acfbbc]
 
 (1) The Land Compensation (Scotland) Act 1973[^f00008] is modified as follows.
 
@@ -97,19 +97,19 @@ Regulation 2
 
 (3) In section 80(1) (general interpretation)[^f00010], in the definition of “agricultural holding”, for “or a limited duration tenancy” substitute “, a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy”.
 
-### 3. The Land Tenure Reform (Scotland) Act 1974[^key-1f0fc2130e774c25678147c275952897]
+### 3. The Land Tenure Reform (Scotland) Act 1974[^c-1f0fc2130e774c25678147c275952897]
 
 (1) The Land Tenure Reform (Scotland) Act 1974[^f00011] is modified as follows.
 
 (2) In section 8(5) (property let under future long lease, etc. not to be used as private dwelling-house)[^f00012], in paragraph (aa), for “or a limited duration tenancy” substitute “, a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy”.
 
-### 4. The Matrimonial Homes (Family Protection) (Scotland) Act 1981[^key-f467b3b928fad5dd49abfda56dbbb393]
+### 4. The Matrimonial Homes (Family Protection) (Scotland) Act 1981[^c-f467b3b928fad5dd49abfda56dbbb393]
 
 (1) The Matrimonial Homes (Family Protection) (Scotland) Act 1981[^f00013] is modified as follows.
 
 (2) In section 13(8) (transfer of tenancy)[^f00014], in the definition of “agricultural lease”, for “or a short limited duration tenancy” substitute “, a short limited duration tenancy, a modern limited duration tenancy or a repairing tenancy”.
 
-### 5. The Rent (Scotland) Act 1984[^key-6b4aba991e4702647de3bc0a5200a3ce]
+### 5. The Rent (Scotland) Act 1984[^c-6b4aba991e4702647de3bc0a5200a3ce]
 
 (1) The Rent (Scotland) Act 1984[^f00015] is modified as follows.
 
@@ -122,17 +122,17 @@ Regulation 2
 
   .
 
-### 6. The Agriculture Act 1986[^key-7bbf1728533d0d885f7f2049ec3f4e8b]
+### 6. The Agriculture Act 1986[^c-7bbf1728533d0d885f7f2049ec3f4e8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. The Housing (Scotland) Act 1988[^key-3121c37fed6995c23ebd101ca0414504]
+### 7. The Housing (Scotland) Act 1988[^c-3121c37fed6995c23ebd101ca0414504]
 
 (1) The Housing (Scotland) Act 1988[^f00019] is modified as follows.
 
 (2) In paragraph 6 of schedule 4 (tenancies of agricultural holdings)[^f00020], in sub-paragraph (a), for “or a limited duration tenancy” substitute “, a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy”.
 
-### 8. The Agricultural Holdings (Scotland) Act 2003[^key-2bd75aa629c0e38bbf2f731d9959d24c]
+### 8. The Agricultural Holdings (Scotland) Act 2003[^c-2bd75aa629c0e38bbf2f731d9959d24c]
 
 (1) The 2003 Act is modified as follows.
 
@@ -142,30 +142,30 @@ Regulation 2
 
 Regulation 3
 
-### 1. Transitory provision: The Opencast Coal Act 1958[^key-d9b73de338dc5027c53573b0b7281d87]
+### 1. Transitory provision: The Opencast Coal Act 1958[^c-d9b73de338dc5027c53573b0b7281d87]
 
 Until the coming into force of section 92 of the 2016 Act (repairing tenancies: creation) for all purposes, section 52(2) of the Opencast Coal Act 1958 has effect as if the reference to “a repairing tenancy” in the definition of “agricultural holding” was omitted.
 
-### 2. Transitory provision: The Land Compensation (Scotland) Act 1973[^key-9770c1eabba40d1cf9d41e130b3950c3]
+### 2. Transitory provision: The Land Compensation (Scotland) Act 1973[^c-9770c1eabba40d1cf9d41e130b3950c3]
 
 Until the coming into force of section 92 of the 2016 Act for all purposes, the following provisions of the Land Compensation (Scotland) Act 1973 have effect as if references to “a repairing tenancy” were omitted—
 
 - (a) section 31(3)(c)(i); and
 - (b) section 80(1).
 
-### 3. Transitory provision: The Land Tenure Reform (Scotland) Act 1974[^key-d3dc9b6ec8bb38e0c7cbabf0d3481bc7]
+### 3. Transitory provision: The Land Tenure Reform (Scotland) Act 1974[^c-d3dc9b6ec8bb38e0c7cbabf0d3481bc7]
 
 Until the coming into force of section 92 of the 2016 Act for all purposes, section 8(5) of the Land Tenure Reform (Scotland) Act 1974 has effect as if the reference in paragraph (aa) to “a repairing tenancy” was omitted.
 
-### 4. Transitory provision: The Matrimonial Homes (Family Protection) (Scotland) Act 1981[^key-0b9f2968e7fddd900a6585d674e79597]
+### 4. Transitory provision: The Matrimonial Homes (Family Protection) (Scotland) Act 1981[^c-0b9f2968e7fddd900a6585d674e79597]
 
 Until the coming into force of section 92 of the 2016 Act for all purposes, section 13 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 has effect as if the reference in subsection (8) to “a repairing tenancy” was omitted.
 
-### 5. Transitory provision: The Rent (Scotland) Act 1984[^key-7a38e4715d143ce5befa9bba81625f57]
+### 5. Transitory provision: The Rent (Scotland) Act 1984[^c-7a38e4715d143ce5befa9bba81625f57]
 
 Until the coming into force of section 92 of the 2016 Act for all purposes, section 25(1) of the Rent (Scotland) Act 1984 has effect as if the reference to “a repairing tenancy” in paragraph (v) of the definition of “statutorily protected tenancy” was omitted.
 
-### 6. Saving provision: The Agriculture Act 1986[^key-33ad871d445871f9a93155cff7fc440f]
+### 6. Saving provision: The Agriculture Act 1986[^c-33ad871d445871f9a93155cff7fc440f]
 
 The modifications made by paragraph 6 of schedule 1 have no effect in respect of—
 
@@ -178,11 +178,11 @@ The modifications made by paragraph 6 of schedule 1 have no effect in respect of
   - (ii) comprises or includes the same land as that comprised in the 1991 Act tenancy being terminated by an agreement to which paragraph (1)(a) applies; and
   - (iii) has effect from the date on which the termination under that agreement has effect.
 
-### 7. Transitory provision: The Housing (Scotland) Act 1988[^key-190651df55863b1087e15e00f7a640fe]
+### 7. Transitory provision: The Housing (Scotland) Act 1988[^c-190651df55863b1087e15e00f7a640fe]
 
 Until the coming into force of section 92 of the 2016 Act for all purposes, paragraph 6 of schedule 4 of the Housing (Scotland) Act 1988 has effect as if the reference in sub-paragraph (a) to “a repairing tenancy” was omitted.
 
-### 8. Transitory Provision: Modern limited duration tenancies: rent review[^key-c18c666b25e0be6e1f8df64c30f0943b]
+### 8. Transitory Provision: Modern limited duration tenancies: rent review[^c-c18c666b25e0be6e1f8df64c30f0943b]
 
 Until the coming into force of section 102 of the 2016 Act (limited duration tenancies, modern limited duration tenancies and repairing tenancies: rent review) in respect of modern limited duration tenancies, section 9 of the 2003 Act (review of rent under limited duration tenancies) has effect as if—
 
@@ -209,7 +209,7 @@ Paragraph 8 of schedule 2 temporarily modifies section 9 of the Agricultural Hol
 
 [^f00001]: Footnote: [2016 asp 18](https://www.legislation.gov.uk/asp/2016/18) (“the 2016 Act”).
 
-[^key-75460ac789181566de383611c63f6bbb]: Commencement: Reg. 1 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-75460ac789181566de383611c63f6bbb]: Commencement: Reg. 1 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00002]: Footnote: The Agricultural Holdings (Scotland) Act [2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11) (“the 2003 Act”).
 
@@ -217,11 +217,11 @@ Paragraph 8 of schedule 2 temporarily modifies section 9 of the Agricultural Hol
 
 [^f00004]: Footnote: The definition of “modern limited duration tenancy” in section 93 of the 2003 Act is inserted by paragraph 7(30)(a) of schedule 2 of the 2016 Act.
 
-[^key-f244cfb4bb6557405b50df6b302b71b5]: Commencement: Reg. 2 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-f244cfb4bb6557405b50df6b302b71b5]: Commencement: Reg. 2 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-1a65bd567c110ff41eaf11176f2579ea]: Commencement: Reg. 3 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-1a65bd567c110ff41eaf11176f2579ea]: Commencement: Reg. 3 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-665b16cd80103db01ca225c9164b9e9a]: Commencement: Sch. 1 para. 1 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-665b16cd80103db01ca225c9164b9e9a]: Commencement: Sch. 1 para. 1 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00005]: Footnote: [1958 c.69](https://www.legislation.gov.uk/ukpga/1958/69).
 
@@ -229,7 +229,7 @@ Paragraph 8 of schedule 2 temporarily modifies section 9 of the Agricultural Hol
 
 [^f00007]: Footnote: The definition of “agricultural holding” in section 52(2) was substituted by [S.S.I. 2003/583](https://www.legislation.gov.uk/ssi/2003/583).
 
-[^key-ec125f648437dd4d481c696b17acfbbc]: Commencement: Sch. 1 para. 2 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-ec125f648437dd4d481c696b17acfbbc]: Commencement: Sch. 1 para. 2 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00008]: Footnote: [1973 c.56](https://www.legislation.gov.uk/ukpga/1973/56).
 
@@ -237,50 +237,50 @@ Paragraph 8 of schedule 2 temporarily modifies section 9 of the Agricultural Hol
 
 [^f00010]: Footnote: Section 80(1) was relevantly amended by [S.S.I. 2003/583](https://www.legislation.gov.uk/ssi/2003/583).
 
-[^key-1f0fc2130e774c25678147c275952897]: Commencement: Sch. 1 para. 3 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-1f0fc2130e774c25678147c275952897]: Commencement: Sch. 1 para. 3 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00011]: Footnote: [1974 c.38](https://www.legislation.gov.uk/ukpga/1974/38).
 
 [^f00012]: Footnote: Section 8(5) was amended by paragraph 4 of the schedule of the Agricultural Holdings (Scotland) Act 2003 (“the 2003 Act”).
 
-[^key-f467b3b928fad5dd49abfda56dbbb393]: Commencement: Sch. 1 para. 4 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-f467b3b928fad5dd49abfda56dbbb393]: Commencement: Sch. 1 para. 4 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00013]: Footnote: [1981 c.59](https://www.legislation.gov.uk/ukpga/1981/59).
 
 [^f00014]: Footnote: Section 13(8) was relevantly amended by paragraph 5(b) of the schedule of the 2003 Act.
 
-[^key-6b4aba991e4702647de3bc0a5200a3ce]: Commencement: Sch. 1 para. 5 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-6b4aba991e4702647de3bc0a5200a3ce]: Commencement: Sch. 1 para. 5 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00015]: Footnote: [1984 c.58](https://www.legislation.gov.uk/ukpga/1984/58).
 
 [^f00016]: Footnote: Section 25(1) was relevantly amended by paragraph 6 of the schedule of the Agricultural Holdings (Scotland) Act 2003 (“the 2003 Act”).
 
-[^key-7bbf1728533d0d885f7f2049ec3f4e8b]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/6) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-7bbf1728533d0d885f7f2049ec3f4e8b]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/6) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
 
-[^key-3121c37fed6995c23ebd101ca0414504]: Commencement: Sch. 1 para. 7 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-3121c37fed6995c23ebd101ca0414504]: Commencement: Sch. 1 para. 7 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00019]: Footnote: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43).
 
 [^f00020]: Footnote: Paragraph 6 of schedule 4 was relevantly amended by paragraph 11 of the schedule of the 2003 Act.
 
-[^key-2bd75aa629c0e38bbf2f731d9959d24c]: Commencement: Sch. 1 para. 8 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-2bd75aa629c0e38bbf2f731d9959d24c]: Commencement: Sch. 1 para. 8 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00021]: Footnote: Section 10A of the 2003 Act was inserted by section 119(4) of the Land Reform (Scotland) Act 2016.
 
-[^key-d9b73de338dc5027c53573b0b7281d87]: Commencement: Sch. 2 para. 1 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-d9b73de338dc5027c53573b0b7281d87]: Commencement: Sch. 2 para. 1 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-9770c1eabba40d1cf9d41e130b3950c3]: Commencement: Sch. 2 para. 2 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-9770c1eabba40d1cf9d41e130b3950c3]: Commencement: Sch. 2 para. 2 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-d3dc9b6ec8bb38e0c7cbabf0d3481bc7]: Commencement: Sch. 2 para. 3 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-d3dc9b6ec8bb38e0c7cbabf0d3481bc7]: Commencement: Sch. 2 para. 3 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-0b9f2968e7fddd900a6585d674e79597]: Commencement: Sch. 2 para. 4 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-0b9f2968e7fddd900a6585d674e79597]: Commencement: Sch. 2 para. 4 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-7a38e4715d143ce5befa9bba81625f57]: Commencement: Sch. 2 para. 5 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-7a38e4715d143ce5befa9bba81625f57]: Commencement: Sch. 2 para. 5 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-33ad871d445871f9a93155cff7fc440f]: Commencement: Sch. 2 para. 6 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-33ad871d445871f9a93155cff7fc440f]: Commencement: Sch. 2 para. 6 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
 [^f00022]: Footnote: Section 2(1) of the Agricultural Holdings (Scotland) Act 2003 is repealed by section 90(2) of the Land Reform (Scotland) Act 2016, subject to saving provision in [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299).
 
-[^key-190651df55863b1087e15e00f7a640fe]: Commencement: Sch. 2 para. 7 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-190651df55863b1087e15e00f7a640fe]: Commencement: Sch. 2 para. 7 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
 
-[^key-c18c666b25e0be6e1f8df64c30f0943b]: Commencement: Sch. 2 para. 8 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)
+[^c-c18c666b25e0be6e1f8df64c30f0943b]: Commencement: Sch. 2 para. 8 in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1)

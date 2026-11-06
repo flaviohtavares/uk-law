@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Functions of administrative staff of certain tribunals subject to investigation by Commissioner[^key-b23bd534177a59ba29e8f52b0236863b]
+## 275. Functions of administrative staff of certain tribunals subject to investigation by Commissioner[^c-b23bd534177a59ba29e8f52b0236863b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In Schedule 4[^f00195] to the Parliamentary Commissioner Act 1967 (relevant trib
 
 ## Annotations
 
-[^key-b23bd534177a59ba29e8f52b0236863b]: Commencement: Art. 275 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b23bd534177a59ba29e8f52b0236863b]: Commencement: Art. 275 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00195]: Footnote: Schedule 4 was inserted by the Parliamentary Commissioner Act [1994 (c. 14)](https://www.legislation.gov.uk/ukpga/1994/14) s. 1(3).
 

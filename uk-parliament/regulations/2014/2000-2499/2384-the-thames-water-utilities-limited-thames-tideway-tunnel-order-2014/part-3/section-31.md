@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Acquisition of land limited to subsoil lying more than 9 metres beneath surface[^key-88ca4aa39d9c7f352debf618659e18fa]
+## 31. Acquisition of land limited to subsoil lying more than 9 metres beneath surface[^c-88ca4aa39d9c7f352debf618659e18fa]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88ca4aa39d9c7f352debf618659e18fa]: Commencement: Art. 31 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-88ca4aa39d9c7f352debf618659e18fa]: Commencement: Art. 31 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

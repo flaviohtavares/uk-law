@@ -45,12 +45,12 @@ summary: ''
 - (c) section 123 (meaning of “**the loss has a capital allowances connection**” and “**the business has a relevant agricultural connection**”), and
 - (d) section 124 (supplementary).
 
-(7)[^key-2d4a43b7a687e7d9553ec3ae97bf5636] See also section 127A (no relief for tax-generated losses attributable to annual investment allowance) and section 127B (no relief for tax-generated agricultural expenses)[^key-d0db47bb7a35a0b94fad41f7f97fb901] and section 127BA (restriction of relief: cash basis)[^key-18a3a1b939adfe0bf3ac7df31a6c64db].
+(7)[^c-2d4a43b7a687e7d9553ec3ae97bf5636] See also section 127A (no relief for tax-generated losses attributable to annual investment allowance) and section 127B (no relief for tax-generated agricultural expenses)[^c-d0db47bb7a35a0b94fad41f7f97fb901] and section 127BA (restriction of relief: cash basis)[^c-18a3a1b939adfe0bf3ac7df31a6c64db].
 
 ## Annotations
 
-[^key-2d4a43b7a687e7d9553ec3ae97bf5636]: Textual amendment: S. 120(7) inserted (8.4.2010 with effect in accordance with s. 25(5)-(7) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 25(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/25/3)
+[^c-2d4a43b7a687e7d9553ec3ae97bf5636]: Textual amendment: S. 120(7) inserted (8.4.2010 with effect in accordance with s. 25(5)-(7) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 25(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/25/3)
 
-[^key-d0db47bb7a35a0b94fad41f7f97fb901]: Textual amendment: Words in s. 120(7) inserted (17.7.2012) (with effect in accordance with s. 10(5)-(7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/10/3)
+[^c-d0db47bb7a35a0b94fad41f7f97fb901]: Textual amendment: Words in s. 120(7) inserted (17.7.2012) (with effect in accordance with s. 10(5)-(7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/10/3)
 
-[^key-18a3a1b939adfe0bf3ac7df31a6c64db]: Textual amendment: Words in s. 120(7) inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 62(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/62/2)
+[^c-18a3a1b939adfe0bf3ac7df31a6c64db]: Textual amendment: Words in s. 120(7) inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 62(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/62/2)

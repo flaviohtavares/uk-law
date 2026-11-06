@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^key-f8616460541bee34df66c8f78b079ca5]
+## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^c-f8616460541bee34df66c8f78b079ca5]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulation 23
 
-**1.**[^key-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f8616460541bee34df66c8f78b079ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8616460541bee34df66c8f78b079ca5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/59) revoked (with application in accordance with reg.1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2023 (S.I. 2023/59)](https://www.legislation.gov.uk/uksi/2023/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/59/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/59/regulation/2)
+[^c-f8616460541bee34df66c8f78b079ca5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/59) revoked (with application in accordance with reg.1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2023 (S.I. 2023/59)](https://www.legislation.gov.uk/uksi/2023/59), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/59/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/59/regulation/2)

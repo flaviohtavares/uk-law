@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273B. Power of trustees or managers to make certain payments[^key-5ad07dc7286f20c32085d0a5889c28e6]
+## 273B. Power of trustees or managers to make certain payments[^c-5ad07dc7286f20c32085d0a5889c28e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) paid to purchase a dependants' short-term annuity,
 - (e) a payment of nominees' drawdown pension,
 - (f) paid to purchase a nominees' short-term annuity,
-- (fa)[^key-9eeaa2b209edd374ff5e3a1ababf9480] paid to purchase a nominees' annuity,
+- (fa)[^c-9eeaa2b209edd374ff5e3a1ababf9480] paid to purchase a nominees' annuity,
 - (fb) paid to purchase a successors' annuity,
 - (g) a payment of successors' drawdown pension,
 - (h) paid to purchase a successors' short-term annuity,
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ad07dc7286f20c32085d0a5889c28e6]: Textual amendment: S. 273B inserted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/79)
+[^c-5ad07dc7286f20c32085d0a5889c28e6]: Textual amendment: S. 273B inserted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/79)
 
-[^key-9eeaa2b209edd374ff5e3a1ababf9480]: Textual amendment: S. 273B(1)(fa)(fb) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/11)
+[^c-9eeaa2b209edd374ff5e3a1ababf9480]: Textual amendment: S. 273B(1)(fa)(fb) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/11)

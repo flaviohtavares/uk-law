@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Decision following a periodic review[^key-a0f9e18af30b106e0c3772c7160e41b9]
+## 21. Decision following a periodic review[^c-a0f9e18af30b106e0c3772c7160e41b9]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0f9e18af30b106e0c3772c7160e41b9]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/9/section/21) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/314/article/2/d)
+[^c-a0f9e18af30b106e0c3772c7160e41b9]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/9/section/21) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/314/article/2/d)

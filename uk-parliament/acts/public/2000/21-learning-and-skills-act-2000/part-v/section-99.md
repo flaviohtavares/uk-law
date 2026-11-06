@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Approved qualifications: Wales.[^key-e35f3235a23718429353661fb5be5ec0]
+## 99. Approved qualifications: Wales.[^c-e35f3235a23718429353661fb5be5ec0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35f3235a23718429353661fb5be5ec0]: Textual amendment: S. 99 omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(5)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/5); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-e35f3235a23718429353661fb5be5ec0]: Textual amendment: S. 99 omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(5)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/5); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

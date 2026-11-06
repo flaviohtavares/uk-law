@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Account to specify amount of additional pension[^key-ce027795827f9b150dfd34942bfc8454]
+## 56. Account to specify amount of additional pension[^c-ce027795827f9b150dfd34942bfc8454]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce027795827f9b150dfd34942bfc8454]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2014/292/regulation/56) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ce027795827f9b150dfd34942bfc8454]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2014/292/regulation/56) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

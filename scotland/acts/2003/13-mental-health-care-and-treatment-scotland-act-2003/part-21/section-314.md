@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 314. Notification requirements for offenders under sections 311 and 313[^key-93e0cbfa5f4a9697c61b8f544ce36f41]
+## 314. Notification requirements for offenders under sections 311 and 313[^c-93e0cbfa5f4a9697c61b8f544ce36f41]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93e0cbfa5f4a9697c61b8f544ce36f41]: Textual amendment: S. 314 repealed (27.9.2005 (before coming into force)) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
+[^c-93e0cbfa5f4a9697c61b8f544ce36f41]: Textual amendment: S. 314 repealed (27.9.2005 (before coming into force)) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)

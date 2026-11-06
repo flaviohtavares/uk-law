@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Claims and awards[^key-f9513e3b89085eb3e15be5ff13fe2171]
+## 98. Claims and awards[^c-f9513e3b89085eb3e15be5ff13fe2171]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9513e3b89085eb3e15be5ff13fe2171]: Commencement: S. 98 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/34)
+[^c-f9513e3b89085eb3e15be5ff13fe2171]: Commencement: S. 98 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/34)

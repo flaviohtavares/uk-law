@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Appointment to post[^key-c7e3592b1032fc5b036441294273504a]
+## 22. Appointment to post[^c-c7e3592b1032fc5b036441294273504a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e3592b1032fc5b036441294273504a]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/10/section/22) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-c7e3592b1032fc5b036441294273504a]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/10/section/22) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

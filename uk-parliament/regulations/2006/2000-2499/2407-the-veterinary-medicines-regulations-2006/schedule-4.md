@@ -52,7 +52,7 @@ Treatment in exceptional circumstances
 
 Administration of a homeopathic remedy
 
-### 1. Administration under the cascade[^key-21457c9e2f220fb54f447da9ae7e6b6a]
+### 1. Administration under the cascade[^c-21457c9e2f220fb54f447da9ae7e6b6a]
 
 (1) A veterinary surgeon acting under this paragraph may either administer a veterinary medicinal product prescribed by him personally or may direct another person to do so under his responsibility.
 
@@ -75,7 +75,7 @@ Administration of a homeopathic remedy
 
 (5) Any pharmacologically active substances included in a medicinal product administered to a food-producing animal under the cascade must be listed in Annex I, II or III to Council Regulation [(EEC) No. 2377/90](https://www.legislation.gov.uk/european/regulation/1990/2377).
 
-### 2. Withdrawal periods[^key-94eff585191b967dc2fe0a53c111b2da]
+### 2. Withdrawal periods[^c-94eff585191b967dc2fe0a53c111b2da]
 
 (1) A veterinary surgeon administering a veterinary medicinal product to a food-producing animal under the cascade must specify an appropriate withdrawal period.
 
@@ -90,17 +90,17 @@ Administration of a homeopathic remedy
 
 (4) In the case of a homeopathic remedy in which active principles figure in Annex II to Council Regulation [(EEC) No. 2377/90](https://www.legislation.gov.uk/european/regulation/1990/2377), the withdrawal period is zero.
 
-### 3. Immunological products for serious epizootic disease[^key-8cb221b493cd386d6afaaabded5c165d]
+### 3. Immunological products for serious epizootic disease[^c-8cb221b493cd386d6afaaabded5c165d]
 
 (1) In the event of serious epizootic diseases, the Secretary of State may permit in writing the administration of immunological veterinary medicinal products without a marketing authorisation, in the absence of a suitable medicinal product and after informing the Commission of the detailed conditions of use.
 
 (2) He shall publicise any permit as he sees fit.
 
-### 4. Immunological products for an imported or exported animal[^key-cd68e1b8c0c40fd21c9ac26333d4fc4e]
+### 4. Immunological products for an imported or exported animal[^c-cd68e1b8c0c40fd21c9ac26333d4fc4e]
 
 If an animal is imported from, or exported to, a third country, the Secretary of State may permit the administration to that animal of an immunological veterinary medicinal product that is not covered by a marketing authorisation in the United Kingdom but is authorised under the legislation of the third country.
 
-### 5. Administration by veterinary surgeons from other member States[^key-0807a59e92aa7e091c525c40e4814309]
+### 5. Administration by veterinary surgeons from other member States[^c-0807a59e92aa7e091c525c40e4814309]
 
 (1) Veterinary surgeons practising in another member State may bring into the United Kingdom and administer to animals small quantities of veterinary medicinal products that are not authorised for use in the United Kingdom if—
 
@@ -121,13 +121,13 @@ If an animal is imported from, or exported to, a third country, the Secretary of
 
 (5) This paragraph does not apply in relation to immunological veterinary medicinal products.
 
-### 6. Treatment in exceptional circumstances[^key-8dad499959d56a6803efe579e582d4de]
+### 6. Treatment in exceptional circumstances[^c-8dad499959d56a6803efe579e582d4de]
 
 (1) the health situation so requires, and where there is no suitable veterinary medicinal product available either as an authorised product or under the cascade, a veterinary surgeon may treat an animal with a medicinal product authorised in a third country; but if the veterinary surgeon has not obtained a certificate from the Secretary of State under regulation 25(5) permitting him to import it, he must obtain a certificate from the Secretary of State before he treats the animal.
 
 (2) The certificate may be granted subject to any condition the Secretary of State thinks fit.
 
-### 7. Administration of a homeopathic remedy[^key-ec8a5cccf373a931f91eae5ecf036728]
+### 7. Administration of a homeopathic remedy[^c-ec8a5cccf373a931f91eae5ecf036728]
 
 (1) A registered homeopathic remedy or a homeopathic remedy prepared and supplied by a pharmacist under paragraph 8 of Schedule 3 may be administered to an animal by anyone, subject to any restrictions specified in its registration.
 
@@ -140,7 +140,7 @@ If an animal is imported from, or exported to, a third country, the Secretary of
 
 ## Annotations
 
-[^key-21457c9e2f220fb54f447da9ae7e6b6a]: Commencement: Sch. 4 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-21457c9e2f220fb54f447da9ae7e6b6a]: Commencement: Sch. 4 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00028]: Footnote: S.I. [2004/1397](https://www.legislation.gov.uk/uksi/2004/1397).
 
@@ -150,18 +150,18 @@ If an animal is imported from, or exported to, a third country, the Secretary of
 
 [^f00031]: Footnote: S.I. [2005/231 (W. 21)](https://www.legislation.gov.uk/wsi/2005/231).
 
-[^key-94eff585191b967dc2fe0a53c111b2da]: Commencement: Sch. 4 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-94eff585191b967dc2fe0a53c111b2da]: Commencement: Sch. 4 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00032]: Footnote: The number of days of the withdrawal period is calculated by dividing 500 by the mean temperature of the water in degrees Celsius.
 
-[^key-8cb221b493cd386d6afaaabded5c165d]: Commencement: Sch. 4 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-8cb221b493cd386d6afaaabded5c165d]: Commencement: Sch. 4 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-cd68e1b8c0c40fd21c9ac26333d4fc4e]: Commencement: Sch. 4 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cd68e1b8c0c40fd21c9ac26333d4fc4e]: Commencement: Sch. 4 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-0807a59e92aa7e091c525c40e4814309]: Commencement: Sch. 4 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0807a59e92aa7e091c525c40e4814309]: Commencement: Sch. 4 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00033]: Footnote: Published at www.rcvs.org.uk/PrintFullArticle.asp?NodeID=89642
 
-[^key-8dad499959d56a6803efe579e582d4de]: Commencement: Sch. 4 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-8dad499959d56a6803efe579e582d4de]: Commencement: Sch. 4 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-ec8a5cccf373a931f91eae5ecf036728]: Commencement: Sch. 4 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-ec8a5cccf373a931f91eae5ecf036728]: Commencement: Sch. 4 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

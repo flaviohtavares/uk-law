@@ -22,10 +22,10 @@ summary: ''
 
 **Not yet in force.**
 
-[^M_F_781191c5-9a1f-4109-aa53-1c43ab124b97][^key-029887f4513f0a15022e1c375d9b93a7]...
+[^M_F_781191c5-9a1f-4109-aa53-1c43ab124b97][^c-029887f4513f0a15022e1c375d9b93a7]...
 
 ## Annotations
 
 [^M_F_781191c5-9a1f-4109-aa53-1c43ab124b97]: Textual amendment: Reg. 10 omitted (N.I.) (30.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/277)](https://www.legislation.gov.uk/nisr/2020/277), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/277/regulation/1/2), [2(2)](https://www.legislation.gov.uk/nisr/2020/277/regulation/2/2)
 
-[^key-029887f4513f0a15022e1c375d9b93a7]: Textual amendment: Reg. 10 omitted (E.W.S.) (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(7)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/7)
+[^c-029887f4513f0a15022e1c375d9b93a7]: Textual amendment: Reg. 10 omitted (E.W.S.) (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(7)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/7)

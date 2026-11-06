@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Consents under Electricity Act 1989: procedure on review[^key-f6578e21dc2fe67cc0544c5646eafaf4]
+## 90. Consents under Electricity Act 1989: procedure on review[^c-f6578e21dc2fe67cc0544c5646eafaf4]
 
 *Extent: E+W+S*
 
@@ -32,8 +32,8 @@ summary: ''
 
 *Extent: E+W*
 
-- (za)[^key-7ee9ad321a6b411b85635977bcbcb8a3] in a case where the Welsh Ministers are the competent authority, the relevant planning authority within the meaning of regulation 2(1) of the Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019 (interpretation),
-- (a) in any other case, *(Extent: E+W)*[^key-bf5ce7cb1dcc31ab9a24dafbd245a40b] the relevant planning authority within the meaning of paragraph 2(6) of Schedule 8 to the Electricity Act 1989 (consents under sections 36 and 37 of that Act) [^c23344251], and
+- (za)[^c-7ee9ad321a6b411b85635977bcbcb8a3] in a case where the Welsh Ministers are the competent authority, the relevant planning authority within the meaning of regulation 2(1) of the Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019 (interpretation),
+- (a) in any other case, *(Extent: E+W)*[^c-bf5ce7cb1dcc31ab9a24dafbd245a40b] the relevant planning authority within the meaning of paragraph 2(6) of Schedule 8 to the Electricity Act 1989 (consents under sections 36 and 37 of that Act) [^c23344251], and
 - (b) the appropriate nature conservation body,
 
 informing them of the decision and inviting their representations within the specified period.
@@ -49,10 +49,10 @@ an opportunity of appearing before, and being heard by, a person appointed by th
 
 ## Annotations
 
-[^key-f6578e21dc2fe67cc0544c5646eafaf4]: Modification: Reg. 90 applied (with modifications) (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [33(10)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/10)[(11)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/11) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-f6578e21dc2fe67cc0544c5646eafaf4]: Modification: Reg. 90 applied (with modifications) (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [33(10)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/10)[(11)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/33/11) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
-[^key-7ee9ad321a6b411b85635977bcbcb8a3]: Textual amendment: [Reg. 90(3)(za)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/90/3/za) inserted (E.W.) (1.4.2019) by [The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019 (S.I. 2019/295)](https://www.legislation.gov.uk/wsi/2019/295), [regs. 1](https://www.legislation.gov.uk/wsi/2019/295/regulation/1), [13(2)](https://www.legislation.gov.uk/wsi/2019/295/regulation/13/2)
+[^c-7ee9ad321a6b411b85635977bcbcb8a3]: Textual amendment: [Reg. 90(3)(za)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/90/3/za) inserted (E.W.) (1.4.2019) by [The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019 (S.I. 2019/295)](https://www.legislation.gov.uk/wsi/2019/295), [regs. 1](https://www.legislation.gov.uk/wsi/2019/295/regulation/1), [13(2)](https://www.legislation.gov.uk/wsi/2019/295/regulation/13/2)
 
-[^key-bf5ce7cb1dcc31ab9a24dafbd245a40b]: Textual amendment: Words in [reg. 90(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/90/3/a) inserted (E.W.) (1.4.2019) by [The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019 (S.I. 2019/295)](https://www.legislation.gov.uk/wsi/2019/295), [regs. 1](https://www.legislation.gov.uk/wsi/2019/295/regulation/1), [13(3)](https://www.legislation.gov.uk/wsi/2019/295/regulation/13/3)
+[^c-bf5ce7cb1dcc31ab9a24dafbd245a40b]: Textual amendment: Words in [reg. 90(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/90/3/a) inserted (E.W.) (1.4.2019) by [The Electricity (Offshore Generating Stations) (Applications for Consent) (Wales) Regulations 2019 (S.I. 2019/295)](https://www.legislation.gov.uk/wsi/2019/295), [regs. 1](https://www.legislation.gov.uk/wsi/2019/295/regulation/1), [13(3)](https://www.legislation.gov.uk/wsi/2019/295/regulation/13/3)
 
 [^c23344251]: Marginal citation: Schedule 8 was amended by the [Planning (Consequential Provisions) Act 1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2), [paragraph 83(1)](https://www.legislation.gov.uk/ukpga/1990/11/paragraph/83/1); the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [Schedule 6](https://www.legislation.gov.uk/ukpga/1994/19/schedule/6), [paragraph 22](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/22) and Schedule 18; and the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 10](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10), [paragraph 30(1)](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/30/1), (3) and (6) and Schedule 24.

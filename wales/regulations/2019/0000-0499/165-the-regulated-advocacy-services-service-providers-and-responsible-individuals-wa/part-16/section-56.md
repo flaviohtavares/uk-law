@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Offences – responsible individuals[^key-44c30cde7346fb0b9c3949371a8c1b52]
+## 56. Offences – responsible individuals[^c-44c30cde7346fb0b9c3949371a8c1b52]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44c30cde7346fb0b9c3949371a8c1b52]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2019/165/regulation/56) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-44c30cde7346fb0b9c3949371a8c1b52]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2019/165/regulation/56) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
 
 [^c23552591]: Marginal citation: For penalties upon conviction for an offence under this regulation, *see* section 51(1) of the Act.

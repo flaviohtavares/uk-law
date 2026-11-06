@@ -50,7 +50,7 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 45B(7)[^c1608286], 55A(6)[^c1608287], 55B(7)[^c1608288], 122(1)[^c1608289] and 175(3) and (4)[^c1608290] of the Social Security Contributions and Benefits Act 1992[^c1608291] and sections 23(1)(a), (b)(ii) and (c)(i) and (2), 49(4)[^c1608292] and 83(4) and (6) of the Welfare Reform and Pensions Act 1999 and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals to make regulation 4 of these Regulations should not be referred to it[^c1608293] and after consulting such persons as he considered appropriate[^c1608294], hereby makes the following Regulations:
 
-## PART 1 — General[^key-54e48d9a8712445c7175fd7748e89200]
+## PART 1 — General[^c-54e48d9a8712445c7175fd7748e89200]
 
 ### 1. Citation, commencement and interpretation
 
@@ -60,30 +60,30 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - “the 1992 Act" means the Social Security Contributions and Benefits Act 1992;
 - “the 1999 Act" means the Welfare Reform and Pensions Act 1999;
-- “new state scheme pension credit” is a credit under section 49A(2)(b) of the 1999 Act;[^key-fec50c861044fccbad7fd2f4860954fa]
+- “new state scheme pension credit” is a credit under section 49A(2)(b) of the 1999 Act;[^c-fec50c861044fccbad7fd2f4860954fa]
 - “old state scheme pension credit” is a credit under section 49(1)(b) of the 1999 Act;
 - “relevant date” has the meaning given by section 10(3) of the Family Law (Scotland) Act 1985;
 - “shareable new state scheme rights” has the meaning given by section 47(3) of the 1999 Act;
-- “shareable old[^key-3d2373a54ce3fa6a0cfe3d461d1d646a] state scheme rights" has the meaning given by section 47(2) of the 1999 Act.
+- “shareable old[^c-3d2373a54ce3fa6a0cfe3d461d1d646a] state scheme rights" has the meaning given by section 47(2) of the 1999 Act.
 
-## PART 2 — Old State Scheme Pension Credits and Debits[^key-3af200fc83558cba06e80b046d528206]
+## PART 2 — Old State Scheme Pension Credits and Debits[^c-3af200fc83558cba06e80b046d528206]
 
-### 2. Basic information about the sharing of state scheme rights and divorce or the dissolution of a civil partnership[^key-df11be0a2197d686962cee0b2c1aeedb]
+### 2. Basic information about the sharing of state scheme rights and divorce or the dissolution of a civil partnership[^c-df11be0a2197d686962cee0b2c1aeedb]
 
 (1) The requirements imposed on the Secretary of State for the purposes of section 23(1)(a) of the 1999 Act (supply of pension information in connection with divorce etc.) are that he shall furnish—
 
 - (a) the information specified in paragraphs (2) and (3)—
-  - (i) to a person who has shareable old[^key-8c109ae093998680296c5ae18e17fbab] state scheme rights on request from that person; or
+  - (i) to a person who has shareable old[^c-8c109ae093998680296c5ae18e17fbab] state scheme rights on request from that person; or
   - (ii) to the court, pursuant to an order of the court; or
-- (b) the information specified in paragraph (3) to the spouse or civil partner[^key-3211ff788978b4aec6a820c2f8c771a5] of a person who has shareable old state scheme rights, on request from that spouse or civil partner .
+- (b) the information specified in paragraph (3) to the spouse or civil partner[^c-3211ff788978b4aec6a820c2f8c771a5] of a person who has shareable old state scheme rights, on request from that spouse or civil partner .
 
 (2) The information specified in this paragraph is a valuation of the person’s shareable old state scheme rights.
 
 (3) The information in this paragraph is an explanation of—
 
-- (a) the state scheme rights which are shareable *(affected by repeal, see note)*[^key-56377567a091adbcf2179c0cb1729bae] shareable old state scheme rights *(affected by repeal, see note)*[^key-56377567a091adbcf2179c0cb1729bae];
+- (a) the state scheme rights which are shareable *(affected by repeal, see note)*[^c-56377567a091adbcf2179c0cb1729bae] shareable old state scheme rights *(affected by repeal, see note)*[^c-56377567a091adbcf2179c0cb1729bae];
 - (b) how a pension sharing order or provision will affect a person’s shareable old state scheme rights; and
-- (c) how a pension sharing order or provision in respect of a person’s shareable old state scheme rights will result in the spouse or civil partner[^key-8fd02cd9bf37a878772e9d883e5b00c9] of the person who has shareable old state scheme rights becoming entitled to a shared additional pension because of an old state scheme pension credit[^key-aebdc94f280ee0f5a7f0e1bbd2b173ff].
+- (c) how a pension sharing order or provision in respect of a person’s shareable old state scheme rights will result in the spouse or civil partner[^c-8fd02cd9bf37a878772e9d883e5b00c9] of the person who has shareable old state scheme rights becoming entitled to a shared additional pension because of an old state scheme pension credit[^c-aebdc94f280ee0f5a7f0e1bbd2b173ff].
 
 (4) The Secretary of State shall furnish the information specified in paragraphs (2) and (3) to the court, or, as the case may be, to the person who has shareable old state scheme rights within—
 
@@ -94,11 +94,11 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 (5) Where—
 
 - (a) the request made by the person with shareable old state scheme rights for, or the court order requiring, the provision of information does not include a request or, as the case may be, an order for a valuation under paragraph (2); or
-- (b) the spouse or civil partner[^key-6b94f7fd567185f8087baf31d7ef0c92] of the person with shareable old state scheme rights requests the information specified in paragraph (3),
+- (b) the spouse or civil partner[^c-6b94f7fd567185f8087baf31d7ef0c92] of the person with shareable old state scheme rights requests the information specified in paragraph (3),
 
-the Secretary of State shall furnish that information to the person who has shareable old state scheme rights, his spouse, civil partner[^key-f62434a73051519ac2e4c7b545c5a74d] or the court, as the case may be, within one month beginning with the date the Secretary of State receives the request or the court order for the provision of that information.
+the Secretary of State shall furnish that information to the person who has shareable old state scheme rights, his spouse, civil partner[^c-f62434a73051519ac2e4c7b545c5a74d] or the court, as the case may be, within one month beginning with the date the Secretary of State receives the request or the court order for the provision of that information.
 
-## 3. Information about the sharing of state scheme rights and divorce or dissolution of a civil partnership: valuation of shareable old state scheme rights[^key-877979d6ed92dce688133843faf270c5][^key-fabbbb5a42c71321eb855aad38bfd27e]
+## 3. Information about the sharing of state scheme rights and divorce or dissolution of a civil partnership: valuation of shareable old state scheme rights[^c-877979d6ed92dce688133843faf270c5][^c-fabbbb5a42c71321eb855aad38bfd27e]
 
 Where an application for financial relief or financial provision under any of the provisions referred to in section 23(1)(a) of the 1999 Act has been made or is in contemplation, the valuation of shareable old state scheme rights shall be calculated and verified for the purposes of regulation 2(2) of these Regulations in such manner as may be approved by or on behalf of the Government Actuary.
 
@@ -106,20 +106,20 @@ Where an application for financial relief or financial provision under any of th
 
 For the purposes of—
 
-- (a) section 49 of the 1999 Act (creation of state scheme pension debits and credits): transferor in old state pension system or pension sharing activated before 6th April 2016[^key-d422612fa2585d295137c45fdfa6a36b];
+- (a) section 49 of the 1999 Act (creation of state scheme pension debits and credits): transferor in old state pension system or pension sharing activated before 6th April 2016[^c-d422612fa2585d295137c45fdfa6a36b];
 - (b) section 45B of the 1992 Act (reduction of additional pension in Category A retirement pension: pension sharing);
-- (c) section 55A of the 1992 Act (shared additional pension) because of an old state scheme pension credit[^key-a4fa1d91109a3c865b3ee5dc1f378685]; and
+- (c) section 55A of the 1992 Act (shared additional pension) because of an old state scheme pension credit[^c-a4fa1d91109a3c865b3ee5dc1f378685]; and
 - (d) section 55B of the 1992 Act (reduction of shared additional pension: pension sharing),
-- (e)[^key-9cc5b1a94204466b158115650c684353] paragraph 2 of Schedule 8 to the Pensions Act 2014; and
+- (e)[^c-9cc5b1a94204466b158115650c684353] paragraph 2 of Schedule 8 to the Pensions Act 2014; and
 - (f) paragraph 2 of Schedule 10 to the Pensions Act 2014,
 
-cash equivalents or notional rates[^key-623fa0b3dae612cf6d8a1462aa242e5d] shall be calculated and verified in such manner as may be approved by or on behalf of the Government Actuary.
+cash equivalents or notional rates[^c-623fa0b3dae612cf6d8a1462aa242e5d] shall be calculated and verified in such manner as may be approved by or on behalf of the Government Actuary.
 
 ## 5. Revocation
 
 The Sharing of State Scheme Rights (Provision of Information and Valuation) Regulations 2000 [^c1608295] are revoked.
 
-## PART 3 — New State Scheme Pension Credits and Debits[^key-483be05d802a51767d56ba1fd30d7efe]
+## PART 3 — New State Scheme Pension Credits and Debits[^c-483be05d802a51767d56ba1fd30d7efe]
 
 ### 6. Basic information about the sharing of state scheme rights and divorce or the dissolution of a civil partnership
 
@@ -208,42 +208,42 @@ These Regulations do not impose any costs on business.
 
 [^c1608294]: Marginal citation: *See* section 83(11) of the Welfare Reform and Pensions Act 1999.
 
-[^key-54e48d9a8712445c7175fd7748e89200]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2000/2914/part/1): reg. 1 renumbered as Pt. 1 (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. paras. 1(6)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/6), [(7)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-54e48d9a8712445c7175fd7748e89200]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2000/2914/part/1): reg. 1 renumbered as Pt. 1 (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. paras. 1(6)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/6), [(7)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-fec50c861044fccbad7fd2f4860954fa]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-fec50c861044fccbad7fd2f4860954fa]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-3d2373a54ce3fa6a0cfe3d461d1d646a]: Textual amendment: Word in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-3d2373a54ce3fa6a0cfe3d461d1d646a]: Textual amendment: Word in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-3af200fc83558cba06e80b046d528206]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2000/2914/part/2): reg. 2-5 renumbered as Pt. 2 (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. paras. 1(8)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/8), [(9)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-3af200fc83558cba06e80b046d528206]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2000/2914/part/2): reg. 2-5 renumbered as Pt. 2 (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. paras. 1(8)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/8), [(9)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-df11be0a2197d686962cee0b2c1aeedb]: Textual amendment: Words in reg. 2 added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-df11be0a2197d686962cee0b2c1aeedb]: Textual amendment: Words in reg. 2 added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-8c109ae093998680296c5ae18e17fbab]: Textual amendment: Word in reg. 2 inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-8c109ae093998680296c5ae18e17fbab]: Textual amendment: Word in reg. 2 inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-3211ff788978b4aec6a820c2f8c771a5]: Textual amendment: Words in reg. 2(1)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-3211ff788978b4aec6a820c2f8c771a5]: Textual amendment: Words in reg. 2(1)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-56377567a091adbcf2179c0cb1729bae]: Textual amendment: Words in reg. 2(3)(a) substituted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-56377567a091adbcf2179c0cb1729bae]: Textual amendment: Words in reg. 2(3)(a) substituted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-8fd02cd9bf37a878772e9d883e5b00c9]: Textual amendment: Words in reg. 2(3)(c) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-8fd02cd9bf37a878772e9d883e5b00c9]: Textual amendment: Words in reg. 2(3)(c) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-aebdc94f280ee0f5a7f0e1bbd2b173ff]: Textual amendment: Words in reg. 2(3)(c) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-aebdc94f280ee0f5a7f0e1bbd2b173ff]: Textual amendment: Words in reg. 2(3)(c) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-6b94f7fd567185f8087baf31d7ef0c92]: Textual amendment: Words in reg. 2(5)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(d)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/d/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-6b94f7fd567185f8087baf31d7ef0c92]: Textual amendment: Words in reg. 2(5)(b) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(d)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/d/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-f62434a73051519ac2e4c7b545c5a74d]: Textual amendment: Words in reg. 2(5) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/d/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-f62434a73051519ac2e4c7b545c5a74d]: Textual amendment: Words in reg. 2(5) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/2/d/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-877979d6ed92dce688133843faf270c5]: Textual amendment: Words in reg. 3 inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-877979d6ed92dce688133843faf270c5]: Textual amendment: Words in reg. 3 inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/7/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-fabbbb5a42c71321eb855aad38bfd27e]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2000/2914/regulation/3) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-fabbbb5a42c71321eb855aad38bfd27e]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2000/2914/regulation/3) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-d422612fa2585d295137c45fdfa6a36b]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4/a) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-d422612fa2585d295137c45fdfa6a36b]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4/a) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-a4fa1d91109a3c865b3ee5dc1f378685]: Textual amendment: Words in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4/c) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-a4fa1d91109a3c865b3ee5dc1f378685]: Textual amendment: Words in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4/c) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-9cc5b1a94204466b158115650c684353]: Textual amendment: [Reg. 4(e)(f)](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4/e/f) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-9cc5b1a94204466b158115650c684353]: Textual amendment: [Reg. 4(e)(f)](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4/e/f) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-623fa0b3dae612cf6d8a1462aa242e5d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(d)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-623fa0b3dae612cf6d8a1462aa242e5d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2000/2914/regulation/4) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(5)(d)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/5/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
 [^c1608295]: Marginal citation: [S.I. 2000/2693](https://www.legislation.gov.uk/uksi/2000/2693).
 
-[^key-483be05d802a51767d56ba1fd30d7efe]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2000/2914/part/3) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(10)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-483be05d802a51767d56ba1fd30d7efe]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2000/2914/part/3) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 1(10)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/1/10) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))

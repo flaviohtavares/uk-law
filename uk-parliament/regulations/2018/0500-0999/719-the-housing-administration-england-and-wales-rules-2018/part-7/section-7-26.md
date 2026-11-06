@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.26. Personal delivery of documents[^key-3d83e20850b5117eec2402f9271a40f5]
+## 7.26. Personal delivery of documents[^c-3d83e20850b5117eec2402f9271a40f5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A document is delivered if it is personally delivered in accordance with the rul
 
 ## Annotations
 
-[^key-3d83e20850b5117eec2402f9271a40f5]: Commencement: Rule 7.26 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-3d83e20850b5117eec2402f9271a40f5]: Commencement: Rule 7.26 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

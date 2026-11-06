@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of article 10[^key-79450d8f20b75296ddaec36b70e6345e]
+## 15. Amendment of article 10[^c-79450d8f20b75296ddaec36b70e6345e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79450d8f20b75296ddaec36b70e6345e]: Commencement: Reg. 15 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-79450d8f20b75296ddaec36b70e6345e]: Commencement: Reg. 15 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

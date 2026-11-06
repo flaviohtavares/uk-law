@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Fees and allowances payable to the board[^key-801b845c9d99d08db4757fb9bec6b5d4]
+## 170. Fees and allowances payable to the board[^c-801b845c9d99d08db4757fb9bec6b5d4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-801b845c9d99d08db4757fb9bec6b5d4]: Commencement: Reg. 170 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-801b845c9d99d08db4757fb9bec6b5d4]: Commencement: Reg. 170 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

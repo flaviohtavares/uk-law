@@ -33,10 +33,10 @@ summary: ''
 
 by the agent in connection with the agent's functions under the scheme.
 
-(2A)[^key-002e0e5d3efa4cb628eeeba34c481402] In calculating the profits of the employer's trade on the cash basis, subsection (2) has effect as if paragraph (b) were omitted.
+(2A)[^c-002e0e5d3efa4cb628eeeba34c481402] In calculating the profits of the employer's trade on the cash basis, subsection (2) has effect as if paragraph (b) were omitted.
 
 (3) In this section “**approved agent**” and “**approved scheme**” have the same meaning as in section 714 of ITEPA 2003.
 
 ## Annotations
 
-[^key-002e0e5d3efa4cb628eeeba34c481402]: Textual amendment: S. 72(2A) inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/16)
+[^c-002e0e5d3efa4cb628eeeba34c481402]: Textual amendment: S. 72(2A) inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/16)

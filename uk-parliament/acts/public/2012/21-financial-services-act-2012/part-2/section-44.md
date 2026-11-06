@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Insolvency[^key-0d5ac7a5ed14a23411a61c6d356db984]
+## 44. Insolvency[^c-0d5ac7a5ed14a23411a61c6d356db984]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 14 contains amendments of Part 24 of FSMA 2000 (insolvency).
 
 ## Annotations
 
-[^key-0d5ac7a5ed14a23411a61c6d356db984]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2012/21/section/44) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-0d5ac7a5ed14a23411a61c6d356db984]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2012/21/section/44) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

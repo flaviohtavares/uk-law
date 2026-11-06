@@ -36,7 +36,7 @@ Section 42(1).
 
 **4.** In paragraph 118(3) of Schedule 37, omit paragraph (d).
 
-#### 5. Annual reports[^key-3e460bb22cf6df1a06d6f743f50f6d17][^c417869]
+#### 5. Annual reports[^c-3e460bb22cf6df1a06d6f743f50f6d17][^c417869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -82,7 +82,7 @@ Section 42(1).
 
 (2) In paragraph 4(1) of Schedule 26 (making of assessments under section 323), for “propose” substitute “ are considering whether ”.
 
-#### 12. Statements: suitable arrangements made by parents[^key-2e2962e7d76484391ab6964cf0c9d3dc]
+#### 12. Statements: suitable arrangements made by parents[^c-2e2962e7d76484391ab6964cf0c9d3dc]
 
 *Extent: E+W*
 
@@ -166,7 +166,7 @@ The Tribunals and Inquiries Act 1992 is amended as follows.
 **20.** In section 11(1) (appeals from certain tribunals)—
 
 - (a) for “15(a), (d) or (e)” substitute “ 15(a) or (d) ”; and
-- (b)[^key-234e1fe832b7498a8e5dbe8b3b778ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-234e1fe832b7498a8e5dbe8b3b778ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.** In paragraph 15 of Schedule 1 (bodies subject to the supervision of the Council) omit sub-paragraph (e).
 
@@ -180,7 +180,7 @@ The Tribunals and Inquiries Act 1992 is amended as follows.
 
 (1) The School Standards and Framework Act 1998 is amended as follows.
 
-(2)[^key-438faf1ee90c70f26ce255549554f4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-438faf1ee90c70f26ce255549554f4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 6 of Schedule 5 (duty of adjudicators to have regard to anti-discrimination duties of other bodies)—
 
@@ -201,7 +201,7 @@ The Tribunals and Inquiries Act 1992 is amended as follows.
 
 [^c459066]: Textual amendment: Sch. 8 para. 2 repealed (1.9.2003) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 215(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/215/2), [Sch. 22 Pt. 2](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/2); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 6](https://www.legislation.gov.uk/uksi/2002/3185/article/6)
 
-[^key-3e460bb22cf6df1a06d6f743f50f6d17]: Textual amendment: Sch. 8 para. 5 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/4); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)
+[^c-3e460bb22cf6df1a06d6f743f50f6d17]: Textual amendment: Sch. 8 para. 5 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/4); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)
 
 [^c417869]: Commencement: Sch. 8 para. 5 wholly in force at 1.9.2002; Sch. 8 para. 5 not in force at Royal Assent see s. 43(3); Sch. 8 para. 5 in force for E. at 1.1.2002 by [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [art. 5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/2217/schedule/part/II); [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4); Sch. 8 para. 5 in force for W. at 1.4.2002 by [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [art. 5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II); Sch. 8 para. 5 in force in so far as not already in force at 1.9.2002 by [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), [art. 3](https://www.legislation.gov.uk/uksi/2002/2217/article/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2217/schedule/1/part/1)
 
@@ -217,7 +217,7 @@ The Tribunals and Inquiries Act 1992 is amended as follows.
 
 [^c417871]: Commencement: Sch. 8 para. 11 wholly in force at 1.9.2002; Sch. 8 para. 11 not in force at Royal Assent see s. 43(3); Sch. 8 para. 11 in force for E. at 1.1.2002 by [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [art. 5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/2217/schedule/part/II); [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4); Sch. 8 para. 11 in force for W. at 1.4.2002 by [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [art. 5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II); Sch. 8 para. 11 in force in so far as not already in force at 1.9.2002 by [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), [art. 3](https://www.legislation.gov.uk/uksi/2002/2217/article/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2217/schedule/1/part/1)
 
-[^key-2e2962e7d76484391ab6964cf0c9d3dc]: Textual amendment: Sch. 8 para. 12 omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2021/861/regulation/4/2)
+[^c-2e2962e7d76484391ab6964cf0c9d3dc]: Textual amendment: Sch. 8 para. 12 omitted (1.9.2021) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [4(2)](https://www.legislation.gov.uk/wsi/2021/861/regulation/4/2)
 
 [^c417873]: Commencement: Sch. 8 para. 13 wholly in force at 1.9.2002; Sch. 8 para. 13(1)-(4) in force at Royal Assent for specified purposes see s. 43(4); Sch. 8 para. 13(1)-(4) in force to the extent not already in force for E. at 1.1.2002 by [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [art. 5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/2217/schedule/part/II) (as amended by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); Sch. 8 para. 13(1)-(4) in force to the extent not already in force for W. at 1.4.2002 by [S.I. 2001/3992](https://www.legislation.gov.uk/uksi/2001/3992), [art. 5](https://www.legislation.gov.uk/uksi/2001/3992/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/3992/schedule/part/II); Sch. 8 para. 13(5) in force at 1.7.2002 by [S.I. 2002/1721](https://www.legislation.gov.uk/uksi/2002/1721), [art. 3](https://www.legislation.gov.uk/uksi/2002/1721/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/1721/schedule/part/I); Sch. 8 para. 13 in force in so far as not already in force at 1.9.2002 by [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), [art. 3](https://www.legislation.gov.uk/uksi/2002/2217/article/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2217/schedule/1/part/1)
 
@@ -231,6 +231,6 @@ The Tribunals and Inquiries Act 1992 is amended as follows.
 
 [^c1421604]: Commencement: Sch. 8 para. 18 wholly in force at 1.9.2002; Sch. 8 para. 18 not in force at Royal Assent see s. 43(3); Sch. 8 para. 18 in force for certain purposes for E. at 15.6.2001 and Sch. 8 para. 18 in force for E. in so far as not already in force at 1.1.2002 by [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [arts. 4](https://www.legislation.gov.uk/uksi/2001/2217/article/4), [5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/2217/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/2001/2217/schedule/part/II); [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4); Sch. 8 para. 18 in force for certain purposes for W. at 21.1.2002 and Sch. 8 para. 18 in force in so far as not already in force for W. at 1.4.2002 by [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), arts. {4}, {5}, Sch. Pts. I, II; Sch. 8 para. 18 in force in so far as not already in force at 1.9.2002 by [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), art. {3}, Sch. 1 Pt. 1
 
-[^key-234e1fe832b7498a8e5dbe8b3b778ec2]: Textual amendment: Sch. 8 para. 20(b) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(i)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/i)
+[^c-234e1fe832b7498a8e5dbe8b3b778ec2]: Textual amendment: Sch. 8 para. 20(b) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(i)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/i)
 
-[^key-438faf1ee90c70f26ce255549554f4f8]: Textual amendment: Sch. 8 para. 23(2) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
+[^c-438faf1ee90c70f26ce255549554f4f8]: Textual amendment: Sch. 8 para. 23(2) repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)

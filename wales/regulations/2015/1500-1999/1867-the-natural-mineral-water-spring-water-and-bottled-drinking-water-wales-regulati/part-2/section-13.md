@@ -24,7 +24,7 @@ summary: ''
 
 (2) No person may sell bottled natural mineral water if it—
 
-- (a)[^key-30d50f227cf34dbf63a0d355aee825e0] has been extracted from a spring—
+- (a)[^c-30d50f227cf34dbf63a0d355aee825e0] has been extracted from a spring—
   - (i) in Wales, which has been exploited in contravention of regulation 8; or
   - (ii) otherwise than in Wales, which has been exploited otherwise than in compliance with the requirements as described at regulation 8(1)(a) and (c) and regulation 8(2), or if the responsible authority of the area in which the spring is exploited has not given permission for the spring to be so exploited;
 - (b) has been subjected—
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30d50f227cf34dbf63a0d355aee825e0]: Textual amendment: [Reg. 13(2)(a)-(d)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/13/2/a) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2017/935/regulation/4)
+[^c-30d50f227cf34dbf63a0d355aee825e0]: Textual amendment: [Reg. 13(2)(a)-(d)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/13/2/a) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2017/935/regulation/4)

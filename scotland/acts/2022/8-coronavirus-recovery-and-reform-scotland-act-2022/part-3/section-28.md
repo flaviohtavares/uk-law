@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Regulations under the 1965 Act[^key-ab7a6cad727eb2c0951e54f3849b555d]
+## 28. Regulations under the 1965 Act[^c-ab7a6cad727eb2c0951e54f3849b555d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7a6cad727eb2c0951e54f3849b555d]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2022/8/section/28) in force at 25.1.2023 by [S.S.I. 2023/3](https://www.legislation.gov.uk/ssi/2023/3), [reg. 2](https://www.legislation.gov.uk/ssi/2023/3/regulation/2)
+[^c-ab7a6cad727eb2c0951e54f3849b555d]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2022/8/section/28) in force at 25.1.2023 by [S.S.I. 2023/3](https://www.legislation.gov.uk/ssi/2023/3), [reg. 2](https://www.legislation.gov.uk/ssi/2023/3/regulation/2)

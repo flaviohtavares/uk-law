@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Interpretation of sections 97 to 100[^key-5ad41c58f50986a9638d7b719aae1b63]
+## 101. Interpretation of sections 97 to 100[^c-5ad41c58f50986a9638d7b719aae1b63]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In sections 97 to 100 “**responsible person**” means—
 
 ## Annotations
 
-[^key-5ad41c58f50986a9638d7b719aae1b63]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2005/16/section/101) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-5ad41c58f50986a9638d7b719aae1b63]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2005/16/section/101) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

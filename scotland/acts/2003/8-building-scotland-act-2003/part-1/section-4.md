@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Guidance documents for purposes of building regulations[^key-c5473eba593cc2837781254c522c5fac]
+## 4. Guidance documents for purposes of building regulations[^c-c5473eba593cc2837781254c522c5fac]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5473eba593cc2837781254c522c5fac]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2003/8/section/4) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
+[^c-c5473eba593cc2837781254c522c5fac]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2003/8/section/4) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)

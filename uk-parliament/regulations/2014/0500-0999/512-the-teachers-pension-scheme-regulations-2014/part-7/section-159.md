@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A death grant may be paid[^key-a08c42d3f4b989c3191f5e359a74d74e] under this regulation on the death of a pension credit member (D) if—
+(1) A death grant may be paid[^c-a08c42d3f4b989c3191f5e359a74d74e] under this regulation on the death of a pension credit member (D) if—
 
 - (a) a pension credit retirement pension became payable before D's death, and
 - (b) AR is greater than AP.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a08c42d3f4b989c3191f5e359a74d74e]: Textual amendment: Words in [reg. 159(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/159/1) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(7)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/7)
+[^c-a08c42d3f4b989c3191f5e359a74d74e]: Textual amendment: Words in [reg. 159(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/159/1) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(7)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/7)

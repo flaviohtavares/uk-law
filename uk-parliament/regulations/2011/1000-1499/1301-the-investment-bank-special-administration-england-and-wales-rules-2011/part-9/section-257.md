@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 257. Appointment of another person to act[^key-a028bce36bca0c1bd0fdbc4dca26a39b]
+## 257. Appointment of another person to act[^c-a028bce36bca0c1bd0fdbc4dca26a39b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a028bce36bca0c1bd0fdbc4dca26a39b]: Commencement: [Rule 257](https://www.legislation.gov.uk/uksi/2011/1301/rule/257) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a028bce36bca0c1bd0fdbc4dca26a39b]: Commencement: [Rule 257](https://www.legislation.gov.uk/uksi/2011/1301/rule/257) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

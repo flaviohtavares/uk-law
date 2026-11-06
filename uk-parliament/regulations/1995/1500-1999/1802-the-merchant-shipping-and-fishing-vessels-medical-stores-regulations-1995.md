@@ -46,17 +46,17 @@ Coming into force
 
 Whereas the Secretary of State is a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to maritime transport:
 
-And whereas, in so far as the following Regulations are made in the exercise of powers conferred by section 21 of the Merchant Shipping Act 1979[^f00003], the Secretary of State has in pursuance of subsection (2) of section 22 of that Act consulted the persons referred to in that subsection:[^key-2dd1971151a0682a0717d1345e901e1c]
+And whereas, in so far as the following Regulations are made in the exercise of powers conferred by section 21 of the Merchant Shipping Act 1979[^f00003], the Secretary of State has in pursuance of subsection (2) of section 22 of that Act consulted the persons referred to in that subsection:[^c-2dd1971151a0682a0717d1345e901e1c]
 
-Now therefore the Secretary of State for Transport, in exercise of the powers conferred by:[^key-2dd1971151a0682a0717d1345e901e1c]
+Now therefore the Secretary of State for Transport, in exercise of the powers conferred by:[^c-2dd1971151a0682a0717d1345e901e1c]
 
 - (a) the said section 2(2);
 - (b) sections 21(1)(a), (3), (4) and (6) and 22(1) of the Merchant Shipping Act 1979; and
 - (c) section 103(3) of the Medicines Act 1968;
 
-and of all other powers enabling him in that behalf, hereby makes the following Regulations:—[^key-2dd1971151a0682a0717d1345e901e1c]
+and of all other powers enabling him in that behalf, hereby makes the following Regulations:—[^c-2dd1971151a0682a0717d1345e901e1c]
 
-## 1. Citation, commencement, revocation and interpretation[^key-3e068cbc4a12f699048eb722dec582a2]
+## 1. Citation, commencement, revocation and interpretation[^c-3e068cbc4a12f699048eb722dec582a2]
 
 (1) These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995 and shall come into operation on 1st August 1995.
 
@@ -65,16 +65,16 @@ and of all other powers enabling him in that behalf, hereby makes the following 
 (3) In these Regulations:
 
 - “crew” means all persons including the master employed in any capacity on board a vessel;
-- “dangerous substances” means substances listed as such in Annex 4 of Merchant Shipping Notice 1768 (M+F)[^key-d26e71dd75eac912b88ddfd24179fd10];
+- “dangerous substances” means substances listed as such in Annex 4 of Merchant Shipping Notice 1768 (M+F)[^c-d26e71dd75eac912b88ddfd24179fd10];
 - “fishing vessel” means a vessel for the time being employed in sea-fishing for profit;
-- [^key-6deac3bab57a84deed41b2f81f29f738]...
+- [^c-6deac3bab57a84deed41b2f81f29f738]...
 - “harbour area” means any harbour in the United Kingdom in respect of which a harbour authority (within the meaning of the Harbours Act 1964[^f00010] or, in Northern Ireland, the Harbours Act (Northern Ireland) 1970[^f00011] ) has statutory powers or duties of improvement, maintenance or management;
-- “inland navigation” means navigation only in waters of Categories A to C as defined in Merchant Shipping Notice 1837(M) Amendment 2[^key-1970d4cfeae689b0b4c2f9ef475c2ab5];
-- [^key-72f4ba886252a1ab67cf0853a94b4ce8]...
-- “[^key-352eee4539d9f3b398496f20f4145eb1]**Merchant Shipping Notice**” means a Notice described as such, issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport), and includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
+- “inland navigation” means navigation only in waters of Categories A to C as defined in Merchant Shipping Notice 1837(M) Amendment 2[^c-1970d4cfeae689b0b4c2f9ef475c2ab5];
+- [^c-72f4ba886252a1ab67cf0853a94b4ce8]...
+- “[^c-352eee4539d9f3b398496f20f4145eb1]**Merchant Shipping Notice**” means a Notice described as such, issued by the Maritime and Coastguard Agency (an executive agency of the Department for Transport), and includes a reference to any document amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice;
 - “medical stores” includes medicines, medical equipment and antidotes;
 - “owner” in relation to a ship, means the registered owner of the ship unless the ship has been chartered by demise or is managed, either wholly or in part, by a person other than the registered owner under the terms of a management agreement; in that case “owner” includes the demise charterer or the person managing the ship as the case may be;
-- “Ship Captain’s Medical Guide” means the publication of that name published on behalf of the Maritime and Coastguard Agency (an executive agency of the Department for Transport)[^key-80f7054b0ec83049e5330bdc89e7d867];
+- “Ship Captain’s Medical Guide” means the publication of that name published on behalf of the Maritime and Coastguard Agency (an executive agency of the Department for Transport)[^c-80f7054b0ec83049e5330bdc89e7d867];
 - “tug” means a vessel constructed solely for the purpose of, and normally used for, providing external motive power for floating objects or vessels;
 - “voyage” means a journey from a port to the next port of call of a ship (which may be the same port).
 
@@ -82,19 +82,19 @@ and of all other powers enabling him in that behalf, hereby makes the following 
 
 (5) Any reference in these Regulations to a publication (other than those mentioned in paragraph (4) of this regulation) includes a reference to any amendment thereof published before the date on which these Regulations are made (and, in the case of the United States Pharmacopoeia, means the edition current at such date, as so amended); and shall include any document amending the same, or shall mean any new edition thereof together with any document amending the same, which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice.
 
-## 2. Purpose of Regulation[^key-ab5f4496725910a0f98bbe1c4007309a]
+## 2. Purpose of Regulation[^c-ab5f4496725910a0f98bbe1c4007309a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-2e570c263f7bb9e3e66125f5ef4f7414]
+## 3. Application[^c-2e570c263f7bb9e3e66125f5ef4f7414]
 
-These Regulations apply to United Kingdom ships [^key-fcbc43a346ae0183d3b43e94f9623213]..., other than:—
+These Regulations apply to United Kingdom ships [^c-fcbc43a346ae0183d3b43e94f9623213]..., other than:—
 
 - (a) ships employed in inland navigation;
 - (b) pleasure vessels, used for non-commercial purposes and not manned by professional crews;
 - (c) tugs operating in harbour areas.
 
-## 4. Carriage of medical stores[^key-b23688c7d74845de40e313f4c20ffdc7]
+## 4. Carriage of medical stores[^c-b23688c7d74845de40e313f4c20ffdc7]
 
 (1) Every ship to which these Regulations apply shall carry on board medical stores in accordance with the Table below.
 
@@ -112,21 +112,21 @@ These Regulations apply to United Kingdom ships [^key-fcbc43a346ae0183d3b43e94f9
 </tbody>
 </table>
 
-[^key-ee386c52e077b552f7cd907122539cbc][^key-d7d117cc9e1fb09e050da7414128b68a][^key-b36a82edd498e90bc6f25a311b879075]
+[^c-ee386c52e077b552f7cd907122539cbc][^c-d7d117cc9e1fb09e050da7414128b68a][^c-b36a82edd498e90bc6f25a311b879075]
 
 (2) The requirements in entries 4 and 5 are in addition to those in entry 1, 2 or 3 (as the case may be).
 
-## 5. Medical stores on board when these Regulations come into force[^key-b2a86a8544596927b28a7860b2696e2a]
+## 5. Medical stores on board when these Regulations come into force[^c-b2a86a8544596927b28a7860b2696e2a]
 
 (1) It shall be sufficient compliance with regulation 4 for there to be kept, in place of any instrument or appliance thereby required to be kept on board the ship, an instrument or appliance designed to fulfil the same function, for so long as it remains in good serviceable condition, if it was kept on board the vessel on the date on which these Regulations come into operation.
 
 (2) In the case of a ship which, on the date on which these Regulations come into force, is on a voyage, there may be kept on board the ship, in place of the medical stores required by regulation 4 to be kept on board it, the medical stores as it would be required to have on board if the Regulations referred to in regulation 1(2) had not been revoked; but this paragraph shall cease to apply to a ship at the time it arrives at a port in the United Kingdom or at the expiration of six months from the date on which these Regulations come into force, whichever shall be the earlier.
 
-## 6. Standards of medical stores[^key-d1a925565e20ef5e4a4e87a2a7fb1629]
+## 6. Standards of medical stores[^c-d1a925565e20ef5e4a4e87a2a7fb1629]
 
-All medical stores required by these Regulations to be kept on board a vessel shall conform to the standards and requirements of the British National Formulary, the British Pharmacopoeia, the European Pharmacopoeia, or the United States Pharmacopoeia, and with the requirements and specifications of Merchant Shipping Notice 1768 (M+F)[^key-b83beb521959e6866371259723a7225a].
+All medical stores required by these Regulations to be kept on board a vessel shall conform to the standards and requirements of the British National Formulary, the British Pharmacopoeia, the European Pharmacopoeia, or the United States Pharmacopoeia, and with the requirements and specifications of Merchant Shipping Notice 1768 (M+F)[^c-b83beb521959e6866371259723a7225a].
 
-## 7. Packaging and labelling of containers[^key-28dedb5b0e1b41544e014043818464c6]
+## 7. Packaging and labelling of containers[^c-28dedb5b0e1b41544e014043818464c6]
 
 (1) Without prejudice to any other enactment, any container of medical stores required by regulation 4 to be kept on board a ship:
 
@@ -140,42 +140,42 @@ All medical stores required by these Regulations to be kept on board a vessel sh
 
 (3) The particulars required by paragraph (1)(a) of this regulation to be shown on labels are:
 
-- (a) the ordering name by which the medical store is referred to in Merchant Shipping Notice 1768 (M+F)[^key-e30b3002f8795923a8ea3ffe50e892d5].
-- (b) any storage requirements laid down in any of the publications referred to in regulation 6, elsewhere in these Regulations or in Merchant Shipping Notice 1768 (M+F)[^key-f77f8e5f39ce7f6a10ac23ecc48e5106];
+- (a) the ordering name by which the medical store is referred to in Merchant Shipping Notice 1768 (M+F)[^c-e30b3002f8795923a8ea3ffe50e892d5].
+- (b) any storage requirements laid down in any of the publications referred to in regulation 6, elsewhere in these Regulations or in Merchant Shipping Notice 1768 (M+F)[^c-f77f8e5f39ce7f6a10ac23ecc48e5106];
 - (c) if the medical stores are perishable, the expiry date as defined in regulation 9;
 - (d) the name and address of the supplier of the medical stores, the product licence number and batch number;
-- (e) in the case of any container of a disinfectant or of an antiseptic prescribed in any of the categories set out in Merchant Shipping Notice 1768 (M+F)[^key-b64b8298c0b78e6502010f6af7f7ff7d], the dilution recommended for any purpose stated thereon;
-- (f) in the case of any container of an insecticide prescribed in any of the categories set out in Merchant Shipping Notice 1768 (M+F)[^key-9f378e5f6ada63a457bc72588a8cad82], instructions for use and precautions to be taken as detailed in [^key-874e90598042a6d42141f69543b8b7a5]... that Merchant Shipping Notice;
+- (e) in the case of any container of a disinfectant or of an antiseptic prescribed in any of the categories set out in Merchant Shipping Notice 1768 (M+F)[^c-b64b8298c0b78e6502010f6af7f7ff7d], the dilution recommended for any purpose stated thereon;
+- (f) in the case of any container of an insecticide prescribed in any of the categories set out in Merchant Shipping Notice 1768 (M+F)[^c-9f378e5f6ada63a457bc72588a8cad82], instructions for use and precautions to be taken as detailed in [^c-874e90598042a6d42141f69543b8b7a5]... that Merchant Shipping Notice;
 - (g) in the case of a container of hypochlorite, a notice indicating that the chemical may combust spontaneously and that the hypochlorite should be stored in a cool dark place; and
-- (h) any further information required by Merchant Shipping Notice 1768 (M+F)[^key-320c84baf0f34d96fd3465ee14f14291].
+- (h) any further information required by Merchant Shipping Notice 1768 (M+F)[^c-320c84baf0f34d96fd3465ee14f14291].
 
-## 8. Storage of medicines[^key-257d32fa93ff68ec8bfcba0ea3230228]
+## 8. Storage of medicines[^c-257d32fa93ff68ec8bfcba0ea3230228]
 
-(1) Any medical store required to be carried by regulation 4 shall be stored in accordance with any instructions on its container or prescribed in Merchant Shipping Notice 1768 (M+F)[^key-6e183d3e474c5cc8d100ac0755fbee24].
+(1) Any medical store required to be carried by regulation 4 shall be stored in accordance with any instructions on its container or prescribed in Merchant Shipping Notice 1768 (M+F)[^c-6e183d3e474c5cc8d100ac0755fbee24].
 
 (2) Any medicine which is a controlled drug shall, be stored in accordance with the requirements for controlled drugs contained in the Ship Captain’s Medical Guide.
 
 (3) Subject to paragraph (2), any medicine mentioned in paragraph (1), unless it is required to be kept in a refrigerator or in a first aid satchel or box, shall be stored:
 
-- (a)[^key-9faf5968dc8f3fe318152705487636df] in the medical cabinet if there is one; or
+- (a)[^c-9faf5968dc8f3fe318152705487636df] in the medical cabinet if there is one; or
 - (b) otherwise in a cool, dry, locked cabinet or locked container.
 
 (4) Any medical stores kept in a hyperbaric decompression chamber or otherwise in such a way as not to be readily accessible at all times to the master or any person authorised by him shall not be taken into account in respect of the requirements of regulation 4.
 
-## 9. Replenishment of dated medicines[^key-ef9e1a7ffb7d9cb3fa09870cecae990c]
+## 9. Replenishment of dated medicines[^c-ef9e1a7ffb7d9cb3fa09870cecae990c]
 
 Where:
 
-- (a) a vessel is required in pursuance of regulation 4 to have on board any medical stores in accordance with any of the categories set out in Merchant Shipping Notice 1768 (M+F)[^key-88eada324d29fb78dc86f4a8597c40e8]; and
+- (a) a vessel is required in pursuance of regulation 4 to have on board any medical stores in accordance with any of the categories set out in Merchant Shipping Notice 1768 (M+F)[^c-88eada324d29fb78dc86f4a8597c40e8]; and
 - (b) any label required by regulation 7(1)(a) to be borne by any container of any such medical stores, indicates a date after which the medical store contained in it is not to be used (hereafter called “the expiry date”),
 
 that medical store shall be replaced at the earliest possible date after the expiry date, and in any event within three months of the expiry date. Medical stores which have passed the expiry date shall, once replacements have been obtained, or after 3 months (whichever is the earlier), be disposed of in accordance with the Ship Captain’s Medical Guide.
 
-## 10. Carriage of guides[^key-0e9ebc1fce17777034026825f8c10a5d]
+## 10. Carriage of guides[^c-0e9ebc1fce17777034026825f8c10a5d]
 
-A ship to which these Regulations apply shall carry guides as to the use of medical stores required by regulation 4 to be carried on board it appropriate as to their categories, including in particular instructions for the use of antidotes, as specified in Merchant Shipping Notice 1768 (M+F)[^key-e3f218a7520a1a00d481b17190792a42].
+A ship to which these Regulations apply shall carry guides as to the use of medical stores required by regulation 4 to be carried on board it appropriate as to their categories, including in particular instructions for the use of antidotes, as specified in Merchant Shipping Notice 1768 (M+F)[^c-e3f218a7520a1a00d481b17190792a42].
 
-## 11. Inspection of medicines and medical stores[^key-0db356a819e9078a42a5fdc15445176f]
+## 11. Inspection of medicines and medical stores[^c-0db356a819e9078a42a5fdc15445176f]
 
 The owner of a ship to which these Regulations apply shall ensure that the medical stores are inspected by a competent person or authority at least once a year to ensure that:—
 
@@ -183,7 +183,7 @@ The owner of a ship to which these Regulations apply shall ensure that the medic
 - (b) such medical stores are correctly stored;
 - (c) any perishable medicines have been replaced in accordance with the requirements of regulation 9.
 
-## 12. Offences[^key-17cc24caf63e7af6eb6d317958ad7cf8]
+## 12. Offences[^c-17cc24caf63e7af6eb6d317958ad7cf8]
 
 (1) If any requirement of regulations 4 to 11 is contravened, the owner of the ship shall in respect of each Contravention be guilty of an offence, punishable on summary conviction by a fine not exceeding level 5 on the standard scale.
 
@@ -191,13 +191,13 @@ The owner of a ship to which these Regulations apply shall ensure that the medic
 
 (3) It shall be a defence for a person charged under this regulation, including a person charged by virtue of regulation 13, to show that he took all reasonable precautions and exercised all due diligence to avoid commission of the offence.
 
-**13.**[^key-9656523927c798484302373b821cd90e] Where an offence under these Regulations is committed, or would have been committed except for the operation of regulation 12(3), by any person due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
+**13.**[^c-9656523927c798484302373b821cd90e] Where an offence under these Regulations is committed, or would have been committed except for the operation of regulation 12(3), by any person due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
 
-## 14. Inspection and detention of vessels[^key-8ffd7afc9d0825aa38d02b0c659b7820]
+## 14. Inspection and detention of vessels[^c-8ffd7afc9d0825aa38d02b0c659b7820]
 
 Any person duly authorised by the Secretary of State may inspect any ship to which these Regulations apply and, if he is satisfied that there is a failure to comply in relation to that ship with the requirements of regulation 4, 6 or 7 of these Regulations, he may detain the vessel until such requirements are met.
 
-**15.**[^key-ed0fb6a7045c2e29c14e3f703b3f33aa] Where a ship is liable to be detained under these Regulations, section 692 of the Merchant Shipping Act 1894[^f00014] (which relates to the detention of ships) shall have effect in relation to the ship as if for the words “this Act” wherever they appear, there were substituted the words “the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995.”.
+**15.**[^c-ed0fb6a7045c2e29c14e3f703b3f33aa] Where a ship is liable to be detained under these Regulations, section 692 of the Merchant Shipping Act 1894[^f00014] (which relates to the detention of ships) shall have effect in relation to the ship as if for the words “this Act” wherever they appear, there were substituted the words “the Merchant Shipping and Fishing Vessels (Medical Stores) Regulations 1995.”.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -223,9 +223,9 @@ A compliance cost assessment has been prepared and copies can be obtained from t
 
 [^f00003]: Footnote: [1979 c. 39](https://www.legislation.gov.uk/ukpga/1979/39).
 
-[^key-2dd1971151a0682a0717d1345e901e1c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/1802) excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1998/2771/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2771/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3))
+[^c-2dd1971151a0682a0717d1345e901e1c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/1802) excluded (16.12.1998) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998 (S.I. 1998/2771)](https://www.legislation.gov.uk/uksi/1998/2771), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/2771/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1998/2771/regulation/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2771/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1998/2771/regulation/3))
 
-[^key-3e068cbc4a12f699048eb722dec582a2]: Commencement: Reg. 1 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-3e068cbc4a12f699048eb722dec582a2]: Commencement: Reg. 1 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
 [^f00006]: Footnote: S.I. [1986/144](https://www.legislation.gov.uk/uksi/1986/144).
 
@@ -233,78 +233,78 @@ A compliance cost assessment has been prepared and copies can be obtained from t
 
 [^f00008]: Footnote: S.I. [1988/1547](https://www.legislation.gov.uk/uksi/1988/1547).
 
-[^key-d26e71dd75eac912b88ddfd24179fd10]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/a)
+[^c-d26e71dd75eac912b88ddfd24179fd10]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/a)
 
-[^key-6deac3bab57a84deed41b2f81f29f738]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-6deac3bab57a84deed41b2f81f29f738]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^f00010]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^f00011]: Footnote: [1970 c. 1](https://www.legislation.gov.uk/ukpga/1970/1) (N.I.).
 
-[^key-1970d4cfeae689b0b4c2f9ef475c2ab5]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/c)
+[^c-1970d4cfeae689b0b4c2f9ef475c2ab5]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/c)
 
-[^key-72f4ba886252a1ab67cf0853a94b4ce8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) omitted (14.12.2018) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/d)
+[^c-72f4ba886252a1ab67cf0853a94b4ce8]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) omitted (14.12.2018) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/d)
 
-[^key-352eee4539d9f3b398496f20f4145eb1]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(e)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/e)
+[^c-352eee4539d9f3b398496f20f4145eb1]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(e)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/e)
 
-[^key-80f7054b0ec83049e5330bdc89e7d867]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(f)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/f)
+[^c-80f7054b0ec83049e5330bdc89e7d867]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1/3) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(2)(f)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/2/f)
 
-[^key-ab5f4496725910a0f98bbe1c4007309a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/1802/regulation/2) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/1202/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab5f4496725910a0f98bbe1c4007309a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/1802/regulation/2) omitted (31.12.2020) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/1202/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e570c263f7bb9e3e66125f5ef4f7414]: Commencement: Reg. 3 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-2e570c263f7bb9e3e66125f5ef4f7414]: Commencement: Reg. 3 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-fcbc43a346ae0183d3b43e94f9623213]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/1802/regulation/3) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-fcbc43a346ae0183d3b43e94f9623213]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/1802/regulation/3) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-b23688c7d74845de40e313f4c20ffdc7]: Commencement: Reg. 4 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-b23688c7d74845de40e313f4c20ffdc7]: Commencement: Reg. 4 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-ee386c52e077b552f7cd907122539cbc]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/4/1) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/3/a)
+[^c-ee386c52e077b552f7cd907122539cbc]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/4/1) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/3/a)
 
-[^key-d7d117cc9e1fb09e050da7414128b68a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/4/1) substituted (5.12.1996) by [The Merchant Shipping and Fishing Vessels (Medical Stores) (Amendment) Regulations 1996 (S.I. 1996/2821)](https://www.legislation.gov.uk/uksi/1996/2821), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2821/regulation/1), [2](https://www.legislation.gov.uk/uksi/1996/2821/regulation/2)
+[^c-d7d117cc9e1fb09e050da7414128b68a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/4/1) substituted (5.12.1996) by [The Merchant Shipping and Fishing Vessels (Medical Stores) (Amendment) Regulations 1996 (S.I. 1996/2821)](https://www.legislation.gov.uk/uksi/1996/2821), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2821/regulation/1), [2](https://www.legislation.gov.uk/uksi/1996/2821/regulation/2)
 
-[^key-b36a82edd498e90bc6f25a311b879075]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/4/1) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/3/b)
+[^c-b36a82edd498e90bc6f25a311b879075]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/4/1) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/3/b)
 
-[^key-b2a86a8544596927b28a7860b2696e2a]: Commencement: Reg. 5 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-b2a86a8544596927b28a7860b2696e2a]: Commencement: Reg. 5 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-d1a925565e20ef5e4a4e87a2a7fb1629]: Commencement: Reg. 6 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-d1a925565e20ef5e4a4e87a2a7fb1629]: Commencement: Reg. 6 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-b83beb521959e6866371259723a7225a]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1995/1802/regulation/6) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/4)
+[^c-b83beb521959e6866371259723a7225a]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/1995/1802/regulation/6) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/4)
 
-[^key-28dedb5b0e1b41544e014043818464c6]: Commencement: Reg. 7 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-28dedb5b0e1b41544e014043818464c6]: Commencement: Reg. 7 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-e30b3002f8795923a8ea3ffe50e892d5]: Textual amendment: Words in [reg. 7(3)(a)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/a) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/a)
+[^c-e30b3002f8795923a8ea3ffe50e892d5]: Textual amendment: Words in [reg. 7(3)(a)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/a) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/a)
 
-[^key-f77f8e5f39ce7f6a10ac23ecc48e5106]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/b) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/a)
+[^c-f77f8e5f39ce7f6a10ac23ecc48e5106]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/b) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/a)
 
-[^key-b64b8298c0b78e6502010f6af7f7ff7d]: Textual amendment: Words in [reg. 7(3)(e)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/e) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/b)
+[^c-b64b8298c0b78e6502010f6af7f7ff7d]: Textual amendment: Words in [reg. 7(3)(e)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/e) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/b)
 
-[^key-9f378e5f6ada63a457bc72588a8cad82]: Textual amendment: Words in [reg. 7(3)(f)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/f) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/b)
+[^c-9f378e5f6ada63a457bc72588a8cad82]: Textual amendment: Words in [reg. 7(3)(f)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/f) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/b)
 
-[^key-874e90598042a6d42141f69543b8b7a5]: Textual amendment: Words in [reg. 7(3)(f)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/f) omitted (14.12.2018) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/c)
+[^c-874e90598042a6d42141f69543b8b7a5]: Textual amendment: Words in [reg. 7(3)(f)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/f) omitted (14.12.2018) by virtue of [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/c)
 
-[^key-320c84baf0f34d96fd3465ee14f14291]: Textual amendment: Words in [reg. 7(3)(h)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/h) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/a)
+[^c-320c84baf0f34d96fd3465ee14f14291]: Textual amendment: Words in [reg. 7(3)(h)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/7/3/h) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/5/a)
 
-[^key-257d32fa93ff68ec8bfcba0ea3230228]: Commencement: Reg. 8 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-257d32fa93ff68ec8bfcba0ea3230228]: Commencement: Reg. 8 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-6e183d3e474c5cc8d100ac0755fbee24]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/8/1) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/6/a)
+[^c-6e183d3e474c5cc8d100ac0755fbee24]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/8/1) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/6/a)
 
-[^key-9faf5968dc8f3fe318152705487636df]: Textual amendment: [Reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/8/3/a) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/6/b)
+[^c-9faf5968dc8f3fe318152705487636df]: Textual amendment: [Reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/8/3/a) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/6/b)
 
-[^key-ef9e1a7ffb7d9cb3fa09870cecae990c]: Commencement: Reg. 9 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-ef9e1a7ffb7d9cb3fa09870cecae990c]: Commencement: Reg. 9 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-88eada324d29fb78dc86f4a8597c40e8]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/9/a) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/7)
+[^c-88eada324d29fb78dc86f4a8597c40e8]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/uksi/1995/1802/regulation/9/a) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/7)
 
-[^key-0e9ebc1fce17777034026825f8c10a5d]: Commencement: Reg. 10 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-0e9ebc1fce17777034026825f8c10a5d]: Commencement: Reg. 10 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-e3f218a7520a1a00d481b17190792a42]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1995/1802/regulation/10) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/8)
+[^c-e3f218a7520a1a00d481b17190792a42]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/1995/1802/regulation/10) substituted (14.12.2018) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/2/8)
 
-[^key-0db356a819e9078a42a5fdc15445176f]: Commencement: Reg. 11 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-0db356a819e9078a42a5fdc15445176f]: Commencement: Reg. 11 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-17cc24caf63e7af6eb6d317958ad7cf8]: Commencement: Reg. 12 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-17cc24caf63e7af6eb6d317958ad7cf8]: Commencement: Reg. 12 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-9656523927c798484302373b821cd90e]: Commencement: Reg. 13 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-9656523927c798484302373b821cd90e]: Commencement: Reg. 13 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-8ffd7afc9d0825aa38d02b0c659b7820]: Commencement: Reg. 14 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-8ffd7afc9d0825aa38d02b0c659b7820]: Commencement: Reg. 14 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
-[^key-ed0fb6a7045c2e29c14e3f703b3f33aa]: Commencement: Reg. 15 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
+[^c-ed0fb6a7045c2e29c14e3f703b3f33aa]: Commencement: Reg. 15 in force at 1.8.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1802/regulation/1)
 
 [^f00014]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60). Section 692 was amended by the Merchant Shipping Act 1979, Schedule 6, and the Merchant Shipping Act 1988, Schedule 6.

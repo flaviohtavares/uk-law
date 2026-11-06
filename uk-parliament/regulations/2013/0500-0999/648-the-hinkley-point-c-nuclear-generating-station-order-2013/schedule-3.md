@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — Deemed approval of matters referred to in requirements[^key-8a6e3c865fb5367a7a7c64c97805228f]
+## SCHEDULE 3 — Deemed approval of matters referred to in requirements[^c-8a6e3c865fb5367a7a7c64c97805228f]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ Article 4
 
 ## Annotations
 
-[^key-8a6e3c865fb5367a7a7c64c97805228f]: Commencement: Sch. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8a6e3c865fb5367a7a7c64c97805228f]: Commencement: Sch. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

@@ -24,37 +24,37 @@ Regulation 3, Direction 3
 
 ### PART 1 — General provisions applying to Parts 2 to 20
 
-**1.**[^key-e1a7d760b769fe12260bf01d726cab92] Information of a description in column 2 of a sign table in Parts 3, 5, 7, 9, 11, 12, 14, 15, 16, 17, 18, or 20 of this Schedule, or a combination of any such descriptions, must be conveyed by a sign (a “directional sign”) consisting of the legend or symbol, or a combination, provided for in respect of that description or descriptions in accordance with the provisions of this Part and Parts 2 to 20 on an appropriate background.
+**1.**[^c-e1a7d760b769fe12260bf01d726cab92] Information of a description in column 2 of a sign table in Parts 3, 5, 7, 9, 11, 12, 14, 15, 16, 17, 18, or 20 of this Schedule, or a combination of any such descriptions, must be conveyed by a sign (a “directional sign”) consisting of the legend or symbol, or a combination, provided for in respect of that description or descriptions in accordance with the provisions of this Part and Parts 2 to 20 on an appropriate background.
 
-**2.**[^key-1c8dced0a3306b39b955847106b242dc] Subject to paragraph 4, an appropriate background for a sign of a description specified in column 2 of an item in the Part 2 sign table is one of the colour and type shown in either diagram A or B of the item.
+**2.**[^c-1c8dced0a3306b39b955847106b242dc] Subject to paragraph 4, an appropriate background for a sign of a description specified in column 2 of an item in the Part 2 sign table is one of the colour and type shown in either diagram A or B of the item.
 
-**3.**[^key-92c2e920da4e617bca6e571dbb37d0b2] A legend on a directional sign must be of a height provided for in column 4 of the Part 2 sign table (unless in relation to a particular legend it is provided elsewhere that the legend is to be a different height) and the sign must be of a size appropriate to accommodate its elements (including any legend).
+**3.**[^c-92c2e920da4e617bca6e571dbb37d0b2] A legend on a directional sign must be of a height provided for in column 4 of the Part 2 sign table (unless in relation to a particular legend it is provided elsewhere that the legend is to be a different height) and the sign must be of a size appropriate to accommodate its elements (including any legend).
 
-**4.**[^key-0ab04057be1f140899ba59fe0210e282] An appropriate background may differ from diagram A or B in that—
+**4.**[^c-0ab04057be1f140899ba59fe0210e282] An appropriate background may differ from diagram A or B in that—
 
 - (a) a diagram A sign background may be divided into separate panels;
 - (b) a diagram B sign background may be reversed to point to the left; and
 - (c) the background at item 8 or 9 of the sign table in Part 2 (signs for cyclists and pedestrians respectively) may be varied in accordance with column 4 at that item.
 
-**5.**[^key-dbda23886bfeeafbf9607cd3621d0629] Where a sign indicates a road or route and that road or route is temporarily closed, a board coloured red and displaying in white lettering the words “Road temporarily closed” or “Route temporarily closed” may be fixed to the sign, or to that part of the sign where that road or route is indicated, in order to cancel temporarily the indication.
+**5.**[^c-dbda23886bfeeafbf9607cd3621d0629] Where a sign indicates a road or route and that road or route is temporarily closed, a board coloured red and displaying in white lettering the words “Road temporarily closed” or “Route temporarily closed” may be fixed to the sign, or to that part of the sign where that road or route is indicated, in order to cancel temporarily the indication.
 
-**6.**[^key-04934a6c3b069f74522e85a06421c377] (1) A sign with a background provided for at item 5, 8 or 9 of the Part 2 sign table need not be illuminated.
+**6.**[^c-04934a6c3b069f74522e85a06421c377] (1) A sign with a background provided for at item 5, 8 or 9 of the Part 2 sign table need not be illuminated.
 
 (2) Sub-paragraph (1) does not apply to a sign with an item 5 background when placed on a motorway or if the sign—
 
 - (a) gives directions to a leisure facility of a description at item 5, 6, 7, 10, 11 or 12 of the Part 14 sign table; or
 - (b) includes the legend “Tourist hostel”.
 
-**7.**[^key-fd916840f6b8e746ad1ce8d328faf4a7] A directional sign which only conveys directions to a telephone or public toilets (or both) need not be illuminated.
+**7.**[^c-fd916840f6b8e746ad1ce8d328faf4a7] A directional sign which only conveys directions to a telephone or public toilets (or both) need not be illuminated.
 
-**8.**[^key-7351a6b07033054732831e4ac1a695dc] Where a diagram A sign with a background provided for at item 1 in the Part 2 sign table is mounted above the carriageway of a motorway within 50 metres of any lamp which forms part of a system of street-lighting, the illumination requirements for the sign are—
+**8.**[^c-7351a6b07033054732831e4ac1a695dc] Where a diagram A sign with a background provided for at item 1 in the Part 2 sign table is mounted above the carriageway of a motorway within 50 metres of any lamp which forms part of a system of street-lighting, the illumination requirements for the sign are—
 
 - (a) where that system of street-lighting is illuminated throughout the hours of darkness, the sign must be illuminated by internal or external lighting for so long as that system is illuminated and may also be reflectorised; or
 - (b) where that system of street-lighting is not illuminated throughout the hours of darkness—
-  - (i) the sign must be illuminated by internal or external lighting for so long as that system is illuminated [^key-44afad9e802833bad61d3066b990ed06][^key-d04782917dfff4c04ecf9b597bc61971]... and must also be reflectorised, or
+  - (i) the sign must be illuminated by internal or external lighting for so long as that system is illuminated [^c-44afad9e802833bad61d3066b990ed06][^c-d04782917dfff4c04ecf9b597bc61971]... and must also be reflectorised, or
   - (ii) the sign must be illuminated throughout the hours of darkness by internal or external lighting and may also be reflectorised.
 
-### PART 2 — Sign background for directional signs for motorways, primary routes, non-primary routes, cyclists and pedestrians[^key-4731bd969970aba819ce6365f7aae1ff]
+### PART 2 — Sign background for directional signs for motorways, primary routes, non-primary routes, cyclists and pedestrians[^c-4731bd969970aba819ce6365f7aae1ff]
 
 Sign table — Schedule 12, Part 2
 
@@ -67,16 +67,16 @@ Sign table — Schedule 12, Part 2
 | 5 | Sign placed on a motorway, primary or non-primary route showing only tourist destinations or leisure facilities<br>(Type A and B) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_397) | An x-height that is not less than 50 mm and not more than 400 mm |
 | 6 | Sign placed on a primary or non-primary route showing only Ministry of Defence establishments<br>(Type A and B) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_398) | An x-height that is not less than 50 mm and not more than 300 mm |
 | 7 | Sign placed on a motorway, primary or non-primary route<br>showing only recommended routes for goods vehicles<br>ahead (Type A and B) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_399) | An x-height that is not less than 50 mm and not more than 400 mm |
-| 8 | Sign placed on a road, other than a motorway, showing routes for cyclists and drivers of electric scooters being used in a trial[^key-900f74171803589379c6804a2cecf95d]<br>(Type A and B) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_400) | 1\. An x-height that is not less than 25 mm and not more than 60<br>mm<br>2\. The background may be varied to brown when the sign shows only tourist destinations or leisure facilities |
+| 8 | Sign placed on a road, other than a motorway, showing routes for cyclists and drivers of electric scooters being used in a trial[^c-900f74171803589379c6804a2cecf95d]<br>(Type A and B) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_400) | 1\. An x-height that is not less than 25 mm and not more than 60<br>mm<br>2\. The background may be varied to brown when the sign shows only tourist destinations or leisure facilities |
 | 9 | Sign placed on a road, other than on a motorway, showing routes for pedestrians or equestrians<br>(Type A and B) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_400) | 1\. An x-height that is not less than 25 mm and not more than 60 mm<br>2\. The background, border and any chevron, legend, symbol or logo may be in any contrasting colours<br>3\. The border, chevron or both may be omitted<br>4\. The shape of the pointed end of diagram B may be varied |
 
 ### PART 3 — Legends that may be shown on signs in Part 2
 
-**1.**[^key-f76f62eaf10ed96d96229d1991a4af77] Information of a description in column 2 of an item in the sign table in this Part must be conveyed on a directional sign by one or more of the legends in column 3 of that item on an appropriate background.
+**1.**[^c-f76f62eaf10ed96d96229d1991a4af77] Information of a description in column 2 of an item in the sign table in this Part must be conveyed on a directional sign by one or more of the legends in column 3 of that item on an appropriate background.
 
-**2.**[^key-4fa5c91b57449e2370b14c4b5398b9e0] The inclusion of a legend is subject to such restrictions, and further descriptions, as are given in column 3 in respect of that legend and any restriction provided for is without prejudice to any provision elsewhere in this Schedule that provides that legends contained in Part 3 may be placed on a directional sign in a manner that does not comply with the restriction.
+**2.**[^c-4fa5c91b57449e2370b14c4b5398b9e0] The inclusion of a legend is subject to such restrictions, and further descriptions, as are given in column 3 in respect of that legend and any restriction provided for is without prejudice to any provision elsewhere in this Schedule that provides that legends contained in Part 3 may be placed on a directional sign in a manner that does not comply with the restriction.
 
-**3.**[^key-59c296a8ca218ddd3de743f0cb132df1] (1) Any word forming part of a legend provided for in the sign table in this Part may be written—
+**3.**[^c-59c296a8ca218ddd3de743f0cb132df1] (1) Any word forming part of a legend provided for in the sign table in this Part may be written—
 
 - (a) entirely in lower case letters;
 - (b) entirely in capital letters; or
@@ -84,7 +84,7 @@ Sign table — Schedule 12, Part 2
 
 (2) Paragraph (1) does not apply where alternative provision for a word is made in the sign table in this Part.
 
-**4.**[^key-4d514bc8b0d9b27e1dad3039cbeed68c] (1) This paragraph applies to a legend provided for in this Part in the following circumstances—
+**4.**[^c-4d514bc8b0d9b27e1dad3039cbeed68c] (1) This paragraph applies to a legend provided for in this Part in the following circumstances—
 
 - (a) the legend is the name of a place that is a city, town, village or tourist destination; and
 - (b) the directional sign on which the legend appears—
@@ -114,13 +114,13 @@ Sign table — Schedule 12, Part 2
 
 ### PART 4 — Provisions applicable to Part 5
 
-**1.**[^key-d1babd3f9936533158900d7444ef472e] Information or a requirement of a description in column 2 of an item in the sign table in Part 5 must be conveyed on a directional sign by the arrows or lane marking symbols of the size, colour and type shown in the diagram in column 3, or that diagram as varied in accordance with column 5.
+**1.**[^c-d1babd3f9936533158900d7444ef472e] Information or a requirement of a description in column 2 of an item in the sign table in Part 5 must be conveyed on a directional sign by the arrows or lane marking symbols of the size, colour and type shown in the diagram in column 3, or that diagram as varied in accordance with column 5.
 
-**2.**[^key-9e5fc807a507e0e0f1b8cc25ad45627c] The arrows and lane markings may only be placed on a diagram A background of a type which is referred to (by reference to an item number in the sign table in Part 2) in column 4 of the table in Part 5.
+**2.**[^c-9e5fc807a507e0e0f1b8cc25ad45627c] The arrows and lane markings may only be placed on a diagram A background of a type which is referred to (by reference to an item number in the sign table in Part 2) in column 4 of the table in Part 5.
 
-**3.**[^key-e9883e94fe3dea1fa98412a917335191] The sizes in the diagram are stroke widths.
+**3.**[^c-e9883e94fe3dea1fa98412a917335191] The sizes in the diagram are stroke widths.
 
-### PART 5 — Arrows and lane marking symbols that may be incorporated in diagram A signs[^key-ddcf34af1aa38d29f39899fe9e0b3071]
+### PART 5 — Arrows and lane marking symbols that may be incorporated in diagram A signs[^c-ddcf34af1aa38d29f39899fe9e0b3071]
 
 Sign table — Schedule 12, Part 5
 
@@ -137,13 +137,13 @@ Sign table — Schedule 12, Part 5
 
 ### PART 6 — Provisions applicable to Part 7
 
-**1.**[^key-01c3706a0e152e8bc69c4a2cee39572b] Information of a description in column 2 of an item in the sign table in Part 7 must be conveyed on a directional sign by a route symbol of the size, colour and type shown in the diagram in column 3, or that diagram as varied in accordance with column 4.
+**1.**[^c-01c3706a0e152e8bc69c4a2cee39572b] Information of a description in column 2 of an item in the sign table in Part 7 must be conveyed on a directional sign by a route symbol of the size, colour and type shown in the diagram in column 3, or that diagram as varied in accordance with column 4.
 
-**2.**[^key-dc55354958f65fc2f8ef578ce80298f6] A route symbol must only be placed on a diagram A appropriate background and must not be placed on a background provided for at item 8 or 9 in the sign table in Part 2.
+**2.**[^c-dc55354958f65fc2f8ef578ce80298f6] A route symbol must only be placed on a diagram A appropriate background and must not be placed on a background provided for at item 8 or 9 in the sign table in Part 2.
 
-**3.**[^key-0de21c2e5d344f3ba2d8e188d2ef2a74] The sizes in the diagram are stroke widths.
+**3.**[^c-0de21c2e5d344f3ba2d8e188d2ef2a74] The sizes in the diagram are stroke widths.
 
-### PART 7 — Route symbols, indicating the junction layout incorporated in diagram “A”[^key-f52865d0a8f5140fea0e6372a9e0a4c6]
+### PART 7 — Route symbols, indicating the junction layout incorporated in diagram “A”[^c-f52865d0a8f5140fea0e6372a9e0a4c6]
 
 Sign table — Schedule 12, Part 7
 
@@ -163,24 +163,24 @@ Sign table — Schedule 12, Part 7
 
 ### PART 8 — Provisions applicable to Part 9
 
-**1.**[^key-d7194814332508ab3dafc949e777153c] Information of a description in column 2 of an item in the sign table in Part 9 must be conveyed on a directional sign by a destination panel which is of the colour and type, and complies with the requirements as to size, shown in the diagram in column 3, or that diagram as varied in accordance with column 5
+**1.**[^c-d7194814332508ab3dafc949e777153c] Information of a description in column 2 of an item in the sign table in Part 9 must be conveyed on a directional sign by a destination panel which is of the colour and type, and complies with the requirements as to size, shown in the diagram in column 3, or that diagram as varied in accordance with column 5
 
-**2.**[^key-ed8d51d8423da56ee799011cd66e70b3] Subject to paragraph 3, the appropriate backgrounds on which a destination panel may be placed are—
+**2.**[^c-ed8d51d8423da56ee799011cd66e70b3] Subject to paragraph 3, the appropriate backgrounds on which a destination panel may be placed are—
 
 - (a) in the case of item 4—
   - (i) a diagram A background provided for at item 1, 2 or 3 of the sign table in Part 2; or
   - (ii) a diagram B background provided for at item 2 or 3 of that table; and
 - (b) in the case of each of the other items, a diagram A plate provided for in the sign table in Part 2 at the item number of that table specified in column 4 of the table in Part 9.
 
-**3.**[^key-bd635c9449df5db8cd15a4bef37bcf75] A diagram A background at item 1 of the sign table in Part 2 is not an appropriate background plate for an item in the sign table in Part 9 unless the plate is placed on an exit slip road or indicates the termination of a motorway.
+**3.**[^c-bd635c9449df5db8cd15a4bef37bcf75] A diagram A background at item 1 of the sign table in Part 2 is not an appropriate background plate for an item in the sign table in Part 9 unless the plate is placed on an exit slip road or indicates the termination of a motorway.
 
-**4.**[^key-3aeb4bce4cf07d86bcbab479eef932f1] A white border must be added around the destination panel shown by the diagram—
+**4.**[^c-3aeb4bce4cf07d86bcbab479eef932f1] A white border must be added around the destination panel shown by the diagram—
 
 - (a) for item 1, 7 or 8, where it appears on an appropriate background provided for at item 2 of the sign table in Part 2;
 - (b) for item 2, where it appears on an appropriate background provided for at item 1 of the sign table in Part 2;
 - (c) for item 4, 5 or 6, where it appears on an appropriate background provided for at item 1 or 2 of that table.
 
-**5.**[^key-6c34666399240359ef20bb5006236104] (1) This paragraph applies to a legend on a destination panel provided for at item 2, 3 or 4 of the sign table in Part 9 where the legend is the name of a place that is a city, town, village or tourist destination.
+**5.**[^c-6c34666399240359ef20bb5006236104] (1) This paragraph applies to a legend on a destination panel provided for at item 2, 3 or 4 of the sign table in Part 9 where the legend is the name of a place that is a city, town, village or tourist destination.
 
 (2) On a sign placed in Scotland, the name of the place may be written in Scottish Gaelic, in addition to English, provided the Scottish Gaelic version is shown above the English.
 
@@ -189,9 +189,9 @@ Sign table — Schedule 12, Part 7
 - (a) English; or
 - (b) Scottish Gaelic.
 
-**6.**[^key-d5d0f6f94fbca7aa012cb3c258bb775b] The sizes in the diagram are stroke widths.
+**6.**[^c-d5d0f6f94fbca7aa012cb3c258bb775b] The sizes in the diagram are stroke widths.
 
-### PART 9 — Destination panels that may appear on plates in Part 2[^key-0525e2e69f75552b3e83054a12e7e0e0]
+### PART 9 — Destination panels that may appear on plates in Part 2[^c-0525e2e69f75552b3e83054a12e7e0e0]
 
 Sign table — Schedule 12, Part 9
 
@@ -203,37 +203,37 @@ Sign table — Schedule 12, Part 9
 | 4 | Panel indicating tourist destination or leisure facility | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_423) |  | 1\. The symbol may be varied to any symbol shown in a diagram in Parts 14 to 18 and the name of the attraction or facility may be varied and may include the legends shown in the Part 3 sign table at item 3<br>2\. Either the symbol or the name may be omitted<br>3\. The direction in which the symbol faces and the relative positions of the symbol and name may be reversed as appropriate and the symbol may be placed centrally below the name<br>4\. The distance to the tourist destination or leisure facility may be shown in accordance with the entries 1 and 2 in column 3 at item 5 of the Part 3 sign table<br>5\. More than one tourist destination or leisure facility may be shown<br>6\. A phrase relating to the route to be followed may be shown in accordance with the entries in column 2 and 3 in the sign table in Part 3 at item 2, may be added<br>7\. The symbols shown in the diagram in column 3 of the sign table in Part 11 at item 25 or 26 may be added<br>8\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the Part 7 sign table<br>9\. Where a panel incorporates one or more symbols shown by a diagram in column 3 in the Part 5 sign table, any of the symbols shown by a diagram in column 3 in the Part 20 sign table may be added to the panel as appropriate |
 | 5 | Panel indicating a route recommended for goods vehicles | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_424) | 1, 2, 3 | 1\. The name of the destination may be omitted or varied in accordance with the entry in column 3 of the sign table in Part 3 at item 1 and more than one destination may be shown<br>2\. The distance to the named destination may be shown in accordance with column 3 of the sign table in Part 3 at item 5<br>3\. A phrase relating to the route to be followed, as detailed in column 3 of the sign table in Part 3 at item 2, may be added<br>4\. Identification numbers of routes to which the recommended route leads may be added in accordance with column 3 of the sign table in Part 3 at item 4; route numbers for non-primary routes must be in white characters on the black background<br>5\. The lorry symbol may be reversed<br>6\. The lorry symbol may be placed alongside of the named destination<br>7\. The panel may be varied to the word “Truckstop” or a geographical name and “truckstop”, with or without the lorry symbol<br>8\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the sign table in Part 7 |
 | 6 | Panel indicating a route to a Ministry of Defence establishment | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_425) | 1, 2, 3 | 1\. The destination may be varied in accordance with the entry in column 3 of the sign table in Part 3 at item 1 and more than one destination may be shown<br>2\. The distance to the destination may be shown in accordance with column 3 of the sign table in Part 3 at item 5<br>3\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the sign table in Part 7 |
-| 7 | Panel indicating a route recommended for pedal cyclists and drivers of electric scooters being used in a trial[^key-921963ef7e123ce4f5eca885fbbc8172], together with<br>a national cycle route number | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_426) | 2, 3 | 1\. The destination may be varied in accordance with the entry in column 3 of the sign table in Part 3 at item 1 and more than one destination may be shown<br>2\. A symbol in column 3 of the sign table in Part 11 representing a destination may be added<br>3\. The distance to the destination may be shown in accordance with column 3 of the sign table in Part 3 at item 5<br>4\. The cycle route number may be varied in accordance with column 3 of the sign table in Part 11 at item 3, or omitted<br>5\. The cycle symbol may be reversed and placed to the right of any cycle route number<br>6\. The cycle symbol and route number may be placed alongside the destination<br>7\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the sign table in Part 7 |
+| 7 | Panel indicating a route recommended for pedal cyclists and drivers of electric scooters being used in a trial[^c-921963ef7e123ce4f5eca885fbbc8172], together with<br>a national cycle route number | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_426) | 2, 3 | 1\. The destination may be varied in accordance with the entry in column 3 of the sign table in Part 3 at item 1 and more than one destination may be shown<br>2\. A symbol in column 3 of the sign table in Part 11 representing a destination may be added<br>3\. The distance to the destination may be shown in accordance with column 3 of the sign table in Part 3 at item 5<br>4\. The cycle route number may be varied in accordance with column 3 of the sign table in Part 11 at item 3, or omitted<br>5\. The cycle symbol may be reversed and placed to the right of any cycle route number<br>6\. The cycle symbol and route number may be placed alongside the destination<br>7\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the sign table in Part 7 |
 | 8 | Panel indicating a route to a motorway service area, access to which is reached from a primary or non-primary route | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_427) | 2, 3 | 1\. “Services” may be varied to a geographical name and “services”<br>2\. “Services” may be varied to “Rest area” or a geographical name and “rest area”<br>3\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the sign table in Part 7 |
 | 9 | Panel indicating a route to services on a primary or non‑primary route<br>(Shown on a primary route sign) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_428) | 2, 3 | 1\. “Services” may be varied to a geographical name and “services”<br>2\. Where space permits, a rectangular recess may be provided in one of the corners of the panel to accommodate an exit route arm shown by a diagram in column 3 of the sign table in Part 7<br>3\. If the legend appears on the background shown by diagram A at item 3 of the sign table in Part 2 the white panel must be omitted |
 
 ### PART 10 — Provisions applying to Parts 11 and 12
 
-**1.**[^key-0b0b1cd545128f2fd3665cdc2813f461] Information or a restriction of a description in column 2 of an item in the sign table in Part 11 must be conveyed by the inclusion of the symbol of the size, colour and type shown in the diagram in column 3, or that diagram as varied in accordance with column 5, on a directional sign with an appropriate background.
+**1.**[^c-0b0b1cd545128f2fd3665cdc2813f461] Information or a restriction of a description in column 2 of an item in the sign table in Part 11 must be conveyed by the inclusion of the symbol of the size, colour and type shown in the diagram in column 3, or that diagram as varied in accordance with column 5, on a directional sign with an appropriate background.
 
-**2.**[^key-eedd2c976aa74846479e85a0ef28143e] In the case of items 10 and 36, the reference in paragraph 1 to a symbol shown in the diagram is to the description of the symbol in column 3, or, in the case of item 10, that description as varied in accordance with column 5.
+**2.**[^c-eedd2c976aa74846479e85a0ef28143e] In the case of items 10 and 36, the reference in paragraph 1 to a symbol shown in the diagram is to the description of the symbol in column 3, or, in the case of item 10, that description as varied in accordance with column 5.
 
-**3.**[^key-10bc63bb685d2548beb348bdf3b0f18b] In the case of item 24, the description in column 2 is supplemented by the description in (a) to (d) in column 3.
+**3.**[^c-10bc63bb685d2548beb348bdf3b0f18b] In the case of item 24, the description in column 2 is supplemented by the description in (a) to (d) in column 3.
 
-**4.**[^key-786ea73e23b24f4435325da8d914bce1] A sign which contains a symbol provided for at item 25 or 26 of the Part 11 sign table may additionally include a legend provided for at an item number in the sign table in Part 12.
+**4.**[^c-786ea73e23b24f4435325da8d914bce1] A sign which contains a symbol provided for at item 25 or 26 of the Part 11 sign table may additionally include a legend provided for at an item number in the sign table in Part 12.
 
-**5.**[^key-564d6053b19cbc3c656a220acbdb65ec] (1) An appropriate background for a symbol provided for in the Part 11 sign table is one referred to in column 4 of the sign table in Part 11 by reference to an item number in the sign table in Part 2.
+**5.**[^c-564d6053b19cbc3c656a220acbdb65ec] (1) An appropriate background for a symbol provided for in the Part 11 sign table is one referred to in column 4 of the sign table in Part 11 by reference to an item number in the sign table in Part 2.
 
 (2) Unless otherwise stated at the entry in column 4, the reference to an appropriate background is to both backgrounds A and B at the item number in question in the Part 2 sign table.
 
-**6.**[^key-8e868e61f3dccd6d754a576c7077b86b] An appropriate background of the type provided for at item 4 of the Part 2 sign table must always incorporate at least one of the following symbols shown in the Part 11 sign table—
+**6.**[^c-8e868e61f3dccd6d754a576c7077b86b] An appropriate background of the type provided for at item 4 of the Part 2 sign table must always incorporate at least one of the following symbols shown in the Part 11 sign table—
 
 - (a) a “Park and Ride” symbol provided for at item 24;
 - (b) the parking place symbol at item 25;
 - (c) a parking place symbol at item 26.
 
-**7.**[^key-64a8656320f00a430c6be10bdf210fa2] An appropriate background of the type provided for at item 7 of the Part 2 sign table must always incorporate the white lorry symbol at item 2 of the Part 11 sign table.
+**7.**[^c-64a8656320f00a430c6be10bdf210fa2] An appropriate background of the type provided for at item 7 of the Part 2 sign table must always incorporate the white lorry symbol at item 2 of the Part 11 sign table.
 
-**8.**[^key-0f26bdac5e15842c8e718b76e6378303] An appropriate background of the type provided for at item 8 of the Part 2 sign table must always incorporate the white cycle symbol at item 3 of the Part 11 sign table.
+**8.**[^c-0f26bdac5e15842c8e718b76e6378303] An appropriate background of the type provided for at item 8 of the Part 2 sign table must always incorporate the white cycle symbol at item 3 of the Part 11 sign table.
 
-**9.**[^key-008ef0c4db3d926cc5af638a762318e5] The sizes in the diagram are stroke widths.
+**9.**[^c-008ef0c4db3d926cc5af638a762318e5] The sizes in the diagram are stroke widths.
 
-### PART 11 — General symbols that may be appear on plates in Part 2[^key-19876af8e90d70ce5df82bc0ce3ac113]
+### PART 11 — General symbols that may be appear on plates in Part 2[^c-19876af8e90d70ce5df82bc0ce3ac113]
 
 Sign table — Schedule 12, Part 11
 
@@ -241,7 +241,7 @@ Sign table — Schedule 12, Part 11
 | --- | --- | --- | --- | --- |
 | 1 | Route leading directly to a motorway<br>(for use on signs indicating a motorway entry slip road) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_429) | 1 |  |
 | 2 | Route for goods vehicles | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_430) | 7 | The symbol may be reversed |
-| 3 | Route for pedal cycles and electric scooters being used in a trial[^key-98798297a77b274656e74888e1daa499] with an indication of a national cycle route number<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_431) | 8 | 1\. The cycle route numbers may be varied and may include capital letters and, where indicating another route to which the route leads, shown in brackets, or omitted. Additional route numbers in separate patches may be shown alongside the route number patch<br>2\. The background colour of the route number patch must be varied to blue when the route forms part of a regional cycle route network<br>3\. When indicating a route other than a national or regional cycle route network, the route number and background of the route number patch may be in any contrasting colours. Where the route number patch has a light background the white edge to the patch must be omitted<br>4\. The background may be varied to brown when the symbol is incorporated in a sign which shows only tourist destinations and leisure facilities |
+| 3 | Route for pedal cycles and electric scooters being used in a trial[^c-98798297a77b274656e74888e1daa499] with an indication of a national cycle route number<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_431) | 8 | 1\. The cycle route numbers may be varied and may include capital letters and, where indicating another route to which the route leads, shown in brackets, or omitted. Additional route numbers in separate patches may be shown alongside the route number patch<br>2\. The background colour of the route number patch must be varied to blue when the route forms part of a regional cycle route network<br>3\. When indicating a route other than a national or regional cycle route network, the route number and background of the route number patch may be in any contrasting colours. Where the route number patch has a light background the white edge to the patch must be omitted<br>4\. The background may be varied to brown when the symbol is incorporated in a sign which shows only tourist destinations and leisure facilities |
 | 4 | Route for pedestrians | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_432) | 8, 9 | 1\. The symbol may be reversed<br>2\. The background may be varied to brown when the symbol is incorporated in a sign provided for at item 8 of the sign table in Part 2 and which shows only tourist destinations and leisure facilities<br>3\. The background and symbol may be of any contrasting colours when incorporated in the sign provided for at item 9 of the sign table in Part 2 |
 | 5 | Route for ridden horses (bridleway) with an indication of a route number<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_433) | 8, 9 | 1\. The route numbers may be varied and, where indicating another route to which the route leads, shown in brackets, or omitted. Additional route numbers in separate patches may be shown alongside the route number patch<br>2\. The route number and background of the route number patch may be in any contrasting colours. Where the route number patch has a light background the white edge to the patch must be omitted<br>3\. The background must be varied to blue or brown when the symbol is incorporated in a sign provided for at item 8 of the sign table in Part 2<br>4\. The background and symbol may be of any contrasting colours when incorporated in the sign provided for at item 9 of the sign table in Part 2 |
 | 6 | Airport | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_434) | 1 to 3 | 1\. The direction in which the symbol points may be varied, but it must not point downwards<br>2\. The symbol must be white when placed on a part of a sign having a blue or dark green background |
@@ -275,9 +275,9 @@ Sign table — Schedule 12, Part 11
 | 34 | Parking place with facilities for recharging electric vehicles (for use only in combination with the parking place symbol shown in item 24 or 25) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_461) | 2 to 5, 8, 9 |  |
 | 35 | Parking place for pedal cycles | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_462) | 8 | The cycle symbol may be reversed provided that it remains to the right of the “P” symbol |
 | 36 | A logo or pictorial representation of a local landmark or historical feature | May be of any appropriate design and colour with a height not exceeding 14 stroke widths | 9 |  |
-| 37[^key-4987459f5ac6c76eafbb22ac35f136c7] | Service point for motorhomes | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_012.gif) | 2 to 5, 8, 9 | 1\. The symbol may be reversed.<br>2\. The symbol may be white to ensure adequate contrast between the symbol and the background of the sign |
+| 37[^c-4987459f5ac6c76eafbb22ac35f136c7] | Service point for motorhomes | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_012.gif) | 2 to 5, 8, 9 | 1\. The symbol may be reversed.<br>2\. The symbol may be white to ensure adequate contrast between the symbol and the background of the sign |
 
-### PART 12 — Legends for the parking symbols shown in items 25 and 26 of Part 11[^key-0888783321efaae040a39384e1f17c5c]
+### PART 12 — Legends for the parking symbols shown in items 25 and 26 of Part 11[^c-0888783321efaae040a39384e1f17c5c]
 
 Sign table — Schedule 12, Part 12
 
@@ -288,36 +288,36 @@ Sign table — Schedule 12, Part 12
 
 ### PART 13 — Provisions applying to Parts 14 to 18
 
-**1.**[^key-79e68ca7fd9aaf9d9fe385711eee49a8] (1) The location of a tourist destination or leisure facility of a kind described in column 2 of an item in the sign tables in Parts 14 to 18 must be conveyed by the inclusion on a directional sign against an appropriate background of a symbol of the size, colour and type shown in—
+**1.**[^c-79e68ca7fd9aaf9d9fe385711eee49a8] (1) The location of a tourist destination or leisure facility of a kind described in column 2 of an item in the sign tables in Parts 14 to 18 must be conveyed by the inclusion on a directional sign against an appropriate background of a symbol of the size, colour and type shown in—
 
 - (a) the diagram in column 3 of the item; or
 - (b) that diagram varied in accordance with column 4.
 
 (2) A symbol provided for in the sign tables in Parts 14 to 18 may be used with, or instead of, a legend giving the name, or a generic description, of the destination or facility as provided for in Part 3.
 
-**2.**[^key-0423fe98b5c4372ee70750449a53f730] The signs in Part 14 are to be used for destinations or facilities in England, Scotland or Wales.
+**2.**[^c-0423fe98b5c4372ee70750449a53f730] The signs in Part 14 are to be used for destinations or facilities in England, Scotland or Wales.
 
-**3.**[^key-73d0a9691a0de3bd1a77cac4d9803944] The signs in Part 15 are to be used for destinations or facilities in England or Wales.
+**3.**[^c-73d0a9691a0de3bd1a77cac4d9803944] The signs in Part 15 are to be used for destinations or facilities in England or Wales.
 
-**4.**[^key-56bb8f9d064dc902dd9883758cd9a415] The signs in Part 16 are to be used for destinations or facilities in England.
+**4.**[^c-56bb8f9d064dc902dd9883758cd9a415] The signs in Part 16 are to be used for destinations or facilities in England.
 
-**5.**[^key-95fe1cb0bfbdd555423f14a9866e335a] The signs in Part 17 are to be used for destinations or facilities in Scotland.
+**5.**[^c-95fe1cb0bfbdd555423f14a9866e335a] The signs in Part 17 are to be used for destinations or facilities in Scotland.
 
-**6.**[^key-6208a4d521d62c8f1e77acc0331f7698] The signs in Part 18 are to be used for destinations or facilities in Wales.
+**6.**[^c-6208a4d521d62c8f1e77acc0331f7698] The signs in Part 18 are to be used for destinations or facilities in Wales.
 
-**7.**[^key-e89af5a28fc953c35d04e0675834e178] An appropriate background for an item in a table in Parts 14 to 18 is—
+**7.**[^c-e89af5a28fc953c35d04e0675834e178] An appropriate background for an item in a table in Parts 14 to 18 is—
 
 - (a) a diagram A or a diagram B background provided for at item 5, 8 or 9 of the sign table in Part 2; or
 - (b) a panel provided for at item 4 of the sign table in Part 9.
 
-**8.**[^key-667982dd25427efd8f5f302f45113282] Where the background of the sign is not brown—
+**8.**[^c-667982dd25427efd8f5f302f45113282] Where the background of the sign is not brown—
 
 - (a) the brown colour shown as part of the diagram for a symbol in column 3 of a sign table in Parts 14 to 18 must be varied to the background colour used; and
 - (b) the colour of the symbol may be varied to black to provide a contrast with the background.
 
-**9.**[^key-e178f44c22a8f56c6fe461a52d336170] The sizes in the diagram are stroke widths.
+**9.**[^c-e178f44c22a8f56c6fe461a52d336170] The sizes in the diagram are stroke widths.
 
-### PART 14 — Symbols indicating types of tourist destinations and leisure facilities in England, Scotland or Wales[^key-1cc09ea36435b0eb5334004af042cc73]
+### PART 14 — Symbols indicating types of tourist destinations and leisure facilities in England, Scotland or Wales[^c-1cc09ea36435b0eb5334004af042cc73]
 
 Sign table — Schedule 12, Part 14
 
@@ -330,7 +330,7 @@ Sign table — Schedule 12, Part 14
 | 9 | T 9<br>Viewpoint<br>(Leisure facility) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_472) | The symbol may be reversed |  | 10\. | T 10<br>Light refreshment facilities<br>(Leisure facility) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_473) |  |
 | 11 | T 11<br>Restaurant<br>(Leisure facility) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_474) |  |  | 12\. | T 12<br>Hotel or other overnight accommodation<br>(Leisure facility) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_475) | The symbol may be reversed |
 
-### PART 15 — Symbols indicating types of tourist destinations and leisure facilities in England or Wales[^key-8a1b58c5777a52b32c27ba34e1beb9e3]
+### PART 15 — Symbols indicating types of tourist destinations and leisure facilities in England or Wales[^c-8a1b58c5777a52b32c27ba34e1beb9e3]
 
 Sign table — Schedule 12, Part 15
 
@@ -372,7 +372,7 @@ Sign table — Schedule 12, Part 15
 | 67 | T 167<br>Rugby ground<br>(Leisure facility) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_542) |  |  | 68 | T 168<br>Military museum | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_543) | The symbol may be reversed |
 | 69 | T169<br>Antiques centre | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_544) |  |  |  |  |  |  |
 
-### PART 16 — Symbols indicating types of tourist destinations and leisure facilities in England[^key-a028c9629546e4a942707a13a9d82d8a]
+### PART 16 — Symbols indicating types of tourist destinations and leisure facilities in England[^c-a028c9629546e4a942707a13a9d82d8a]
 
 Sign table — Schedule 12, Part 16
 
@@ -382,17 +382,17 @@ Sign table — Schedule 12, Part 16
 | 3 | T 203<br>Museum or art gallery | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_547) |  |  | 4 | T 204<br>Sports centre<br>(Leisure facility) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_548) |  |
 | 5 | T 205<br>National Nature Reserve designated by Natural England | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_549) |  |  | 6 | T 206<br>Forestry Commission England property | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_550) |  |
 
-### PART 17 — Symbols indicating types of tourist destinations and leisure facilities in Scotland[^key-709fcd8dccb2c0c3700f744b454423da]
+### PART 17 — Symbols indicating types of tourist destinations and leisure facilities in Scotland[^c-709fcd8dccb2c0c3700f744b454423da]
 
 Sign table — Schedule 12, Part 17
 
 | *(1)*<br>*Item* | *(2)*<br>*Description* | *(3)*<br>*Symbol* | *(4)*<br>*Permitted variants* |  | *(1)*<br>*Item* | *(2)*<br>*Description* | *(3)*<br>*Symbol* | *(4)*<br>*Permitted variants* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | T 301.1<br>Tourist destination recognised by the national promoter of tourism for Scotland | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_551) | The thistle symbol may be shown in white on a brown sign indicating a National Tourist Route |  | 2 | T 302<br>Property in the care of Historic Scotland[^f00102] | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_552) | The legend “Historic Scotland” may be added |
-| 3 | T 303.1<br>National Trust for Scotland[^f00103] property (incorporates symbol T 301.1) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_553) | The thistle symbol may be placed<br>to the left of the “National Trust for Scotland” symbol and legend |  | 4[^key-bb5a883335fdbfa8d2d87e05f0329614] | T304.1<br>Property managed by Forestry and Land Scotland | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_008.gif) |  |
+| 3 | T 303.1<br>National Trust for Scotland[^f00103] property (incorporates symbol T 301.1) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_553) | The thistle symbol may be placed<br>to the left of the “National Trust for Scotland” symbol and legend |  | 4[^c-bb5a883335fdbfa8d2d87e05f0329614] | T304.1<br>Property managed by Forestry and Land Scotland | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_008.gif) |  |
 | 5 | T305<br>A nature reserve managed by Royal Society for the Protection of Birds (RSPB) Scotland | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_009.gif) |  |  |  |  |  |  |
 
-### PART 18 — Symbols indicating types of tourist destinations and leisure facilities in Wales[^key-eb31c32e8a0fadee4a44e137ff2f8f4f]
+### PART 18 — Symbols indicating types of tourist destinations and leisure facilities in Wales[^c-eb31c32e8a0fadee4a44e137ff2f8f4f]
 
 Sign table — Schedule 12, Part 18
 
@@ -403,32 +403,32 @@ Sign table — Schedule 12, Part 18
 
 ### PART 19 — Provisions applying to Part 20
 
-**1.**[^key-849995a4a56f1277ee9305e04d4ec0a7] Information or a warning, requirement, restriction or prohibition specified in column 2 of an item in the sign table in Part 20 must be conveyed by a directional sign that includes a symbol provided for in column 3 on an appropriate background.
+**1.**[^c-849995a4a56f1277ee9305e04d4ec0a7] Information or a warning, requirement, restriction or prohibition specified in column 2 of an item in the sign table in Part 20 must be conveyed by a directional sign that includes a symbol provided for in column 3 on an appropriate background.
 
-**2.**[^key-f142544dba555a10fe8db4abd8e36d3d] A symbol must be of the colour and type and comply with the requirements as to size, provided for in the diagram in column 3 or that diagram as varied in accordance with column 4.
+**2.**[^c-f142544dba555a10fe8db4abd8e36d3d] A symbol must be of the colour and type and comply with the requirements as to size, provided for in the diagram in column 3 or that diagram as varied in accordance with column 4.
 
-**3.**[^key-c2b090b56e49f1801ef40becdde0550c] The prohibition specified in column 2 at item 22 of the table must be conveyed by the inclusion of both the circular symbol and the symbol representing a plate and each must comply with paragraph 2.
+**3.**[^c-c2b090b56e49f1801ef40becdde0550c] The prohibition specified in column 2 at item 22 of the table must be conveyed by the inclusion of both the circular symbol and the symbol representing a plate and each must comply with paragraph 2.
 
-**4.**[^key-41f8b934dc597466ac6c83e38e741473] The prohibition specified in column 2 at item 33 of the table must be conveyed by the inclusion of both circular symbols and each must comply with paragraph 2.
+**4.**[^c-41f8b934dc597466ac6c83e38e741473] The prohibition specified in column 2 at item 33 of the table must be conveyed by the inclusion of both circular symbols and each must comply with paragraph 2.
 
-**5.**[^key-1c90b15e898113d2b4458d4583ca7b39] For the purpose of this Part and Part 20 an appropriate background is—
+**5.**[^c-1c90b15e898113d2b4458d4583ca7b39] For the purpose of this Part and Part 20 an appropriate background is—
 
 - (a) that shown by either diagram A or diagram B at item 1 of the sign table in Part 2 where the sign is placed on an exit slip road or indicates the termination of a motorway;
 - (b) that shown by either diagram A or diagram B at item 2, 3, 4 or 5 of the sign table in Part 2;
 - (c) that shown by the diagram at item 2, 3 or 4 of the sign table in Part 9;
 - (d) that shown by the diagram at item 3, 5 or 6 of the sign table in Part 28.
 
-**6.**[^key-47748a4b7d648f1522ca7a2d9d8bd80d] If two or more symbols from the sign table in Part 20 are included in a sign and there is any difference in the size of the symbols as provided for in the relevant diagrams, the size of all the symbols used on the sign must be that of the largest.
+**6.**[^c-47748a4b7d648f1522ca7a2d9d8bd80d] If two or more symbols from the sign table in Part 20 are included in a sign and there is any difference in the size of the symbols as provided for in the relevant diagrams, the size of all the symbols used on the sign must be that of the largest.
 
-**7.**[^key-eecaf3d7902677d4a475ab346b05579a] The symbol at item 22 must not be included on a sign with any other symbol provided for in the sign table in Part 20.
+**7.**[^c-eecaf3d7902677d4a475ab346b05579a] The symbol at item 22 must not be included on a sign with any other symbol provided for in the sign table in Part 20.
 
-**8.**[^key-fac3a7195dc9ae116bc2f7aba8188cbf] The dimensions in the diagrams in the sign table in Part 20 are in stroke widths.
+**8.**[^c-fac3a7195dc9ae116bc2f7aba8188cbf] The dimensions in the diagrams in the sign table in Part 20 are in stroke widths.
 
-**9.**[^key-80fc6d54e22e80a05ef05df6104975c0] A symbol provided for in Part 20 may be varied when used on a directional sign by the addition of a white border around the symbol to ensure adequate contrast between the symbol and the background of the sign.
+**9.**[^c-80fc6d54e22e80a05ef05df6104975c0] A symbol provided for in Part 20 may be varied when used on a directional sign by the addition of a white border around the symbol to ensure adequate contrast between the symbol and the background of the sign.
 
-**10.**[^key-7a2ea86853437ccffaff917260b8d7c4] A symbol provided for at [^key-ce41b2636cfabdbafbe7cace8ca51871]item 19, 21, 22, 23 or 36 to 43[^key-e1e52c78a9afd7afdda56104c11a0777] of the sign table in Part 20 may be used only on a sign which incorporates a route symbol shown by a diagram in the sign table in Part 7.
+**10.**[^c-7a2ea86853437ccffaff917260b8d7c4] A symbol provided for at [^c-ce41b2636cfabdbafbe7cace8ca51871]item 19, 21, 22, 23 or 36 to 43[^c-e1e52c78a9afd7afdda56104c11a0777] of the sign table in Part 20 may be used only on a sign which incorporates a route symbol shown by a diagram in the sign table in Part 7.
 
-### PART 20 — Warning and regulatory symbols that may be incorporated on directional signs[^key-0a1b42a39c03ac159c2a6f6b6ce5421a]
+### PART 20 — Warning and regulatory symbols that may be incorporated on directional signs[^c-0a1b42a39c03ac159c2a6f6b6ce5421a]
 
 Sign table — Schedule 12, Part 20
 
@@ -451,12 +451,12 @@ Sign table — Schedule 12, Part 20
 | 15 | Warning of a railway level crossing without gate or barrier | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_572) |  |
 | 16 | Warning of tramcars crossing | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_573) |  |
 | 17 | Warning of an electrified overhead cable | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_574) |  |
-| 18 | Warning of a crossing for cycles and electric scooters being used in a trial[^key-1ee1d422cea1a8ba84791d36e0b11058] | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_575) | The symbol may be reversed |
+| 18 | Warning of a crossing for cycles and electric scooters being used in a trial[^c-1ee1d422cea1a8ba84791d36e0b11058] | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_575) | The symbol may be reversed |
 | 19 | No right turn at all times | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_576) | The symbol may be reversed |
 | 20 | No U-turn at all times (only for use on the signs provided for at items 5 and 6 of the sign table in Part 28) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_577) |  |
 | 21 | No entry for vehicular traffic | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_578) |  |
 | 22 | All vehicles prohibited except non-mechanically propelled vehicles pushed by pedestrians | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_579) | 1\. The distance may be varied<br>2\. The distance may be omitted<br>3\. “No vehicles” may be on two lines<br>4\. “No vehicles” may be varied to “Play Street” with or without a time period and “except for access”<br>5\. When “No vehicles” is shown a time period may be added<br>6\. When “No vehicles” is shown, with or without a time period, the legend may include exceptions in accordance with paragraph 15 in Part 3 of Schedule 3<br>7\. The black border of the rectangular plate symbol may be omitted when the plate is placed on a blue, dark green or brown background part of the sign |
-| 23 | Motor vehicles prohibited , except for electric scooters being used in a trial[^key-f27ac383ab28a6b2c2d50ff1e7434259] | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_580) | The motor cycle symbol may be reversed |
+| 23 | Motor vehicles prohibited , except for electric scooters being used in a trial[^c-f27ac383ab28a6b2c2d50ff1e7434259] | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_580) | The motor cycle symbol may be reversed |
 | 24 | Goods vehicles exceeding the maximum gross weight indicated prohibited<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_581) | The numerals may be varied |
 | 25 | Vehicles exceeding the maximum gross weight indicated prohibited (Structural weight limit) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_582) | “18t” may be varied to “3t”, “7.5t”, “10t”, “13t”, “26t” or “33t” |
 | 26 | Vehicles carrying explosives prohibited | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_583) |  |
@@ -469,28 +469,28 @@ Sign table — Schedule 12, Part 20
 | 33 | Vehicles or combinations of vehicles exceeding the length indicated prohibited<br>(Imperial and metric units) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_590) | 1\. The numerals may be varied<br>2\. The two lorry symbols may be reversed |
 | 34 | Vehicles exceeding width indicated prohibited<br>(Metric and imperial units) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_591) | The numerals may be varied |
 | 35 | Vehicles exceeding height indicated prohibited<br>(Metric and imperial units) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_592) | The numerals may be varied |
-| 36 | Route for use by buses, pedal cycles , electric scooters being used in a trial[^key-6dd5ffdfb6a0ef3138db691d176acfad] and taxis only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_593) | The cycle symbol, the word “taxi” or both may be omitted |
+| 36 | Route for use by buses, pedal cycles , electric scooters being used in a trial[^c-6dd5ffdfb6a0ef3138db691d176acfad] and taxis only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_593) | The cycle symbol, the word “taxi” or both may be omitted |
 | 37 | Route for use by buses, pedal cycles and solo motor cycles only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_594) |  |
 | 38 | Route for use by buses, pedal cycles, solo motor cycles and taxis only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_595) |  |
 | 39 | Route for use by tramcars only | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_596) |  |
 | 40 | Route for use by tramcars and buses only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_597) |  |
-| 41 | Route for use by tramcars, buses , electric scooters being used in a trial[^key-14721d55a969ddc3005b0d6352a01e2a] and pedal cycles only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_598) |  |
+| 41 | Route for use by tramcars, buses , electric scooters being used in a trial[^c-14721d55a969ddc3005b0d6352a01e2a] and pedal cycles only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_598) |  |
 | 42 | Route for use by tramcars, buses, pedal cycles , electric scooters being used in a trial and taxis only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_599) |  |
 | 43 | Route for use by tramcars, buses, pedal cycles, solo motor cycles and taxis only<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_600) | The word “taxi” may be omitted |
 | 44 | Optional symbol representing a supplementary plate for use with symbols at items 1 to 43, indicating the distance to a hazard or prohibition | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_601) | 1\. The distance may be varied<br>2\. The black border must be omitted when the symbol is placed on a blue, dark green or brown background part of the sign. |
-| 45 | Optional symbol representing a supplementary plate for use with circular symbols from this table [^key-b2145e97fdcdcf473985d2079d861288](except items 22, 25, 27 and 35) *(Extent: E+W)*[^key-a72952f1f0214d9e541d00965632329d] , indicating conditions relating to a prohibition | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_602) | 1\. The legend may be varied in accordance with paragraphs 8 and 15, or a combination of both, in Part 3 of Schedule 3<br>2\. The legend may be varied to “Except trams” when the symbol is used in combination with the symbol shown by the diagram at [^key-4409715ab88976281b032e43c6f6d5b8]item 21 *(Extent: E+W)*[^key-b2c5d4f0a7356aec00a2a28d642b50d9]<br>3\. The legend may be varied to “No explosives” or “No inflammables or explosives” when the symbol is used in combination with the symbol at [^key-790e55302eb60d65fd97875d4a21c7ef]item 26 *(Extent: E+W)*[^key-90e2f0b3b05fe043f17b785f9f2f9f83]<br>4\. The legend may be varied to “and authorised vehicles” when the symbol is used in combination with a symbol at [^key-d9cf7985961dd140f41dda1c2be32f51]items 36 to 43 *(Extent: E+W)*[^key-9e93361aa5d1ac5bb3ab91289dc6f642]<br>5\. The black border may be omitted when the symbol is placed on a blue, dark green or brown background part of the sign |
-| 46[^key-4aa91562a8e9a3e246a081c103877c75] | Low Emission Zone | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_010.gif) |  |
+| 45 | Optional symbol representing a supplementary plate for use with circular symbols from this table [^c-b2145e97fdcdcf473985d2079d861288](except items 22, 25, 27 and 35) *(Extent: E+W)*[^c-a72952f1f0214d9e541d00965632329d] , indicating conditions relating to a prohibition | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_602) | 1\. The legend may be varied in accordance with paragraphs 8 and 15, or a combination of both, in Part 3 of Schedule 3<br>2\. The legend may be varied to “Except trams” when the symbol is used in combination with the symbol shown by the diagram at [^c-4409715ab88976281b032e43c6f6d5b8]item 21 *(Extent: E+W)*[^c-b2c5d4f0a7356aec00a2a28d642b50d9]<br>3\. The legend may be varied to “No explosives” or “No inflammables or explosives” when the symbol is used in combination with the symbol at [^c-790e55302eb60d65fd97875d4a21c7ef]item 26 *(Extent: E+W)*[^c-90e2f0b3b05fe043f17b785f9f2f9f83]<br>4\. The legend may be varied to “and authorised vehicles” when the symbol is used in combination with a symbol at [^c-d9cf7985961dd140f41dda1c2be32f51]items 36 to 43 *(Extent: E+W)*[^c-9e93361aa5d1ac5bb3ab91289dc6f642]<br>5\. The black border may be omitted when the symbol is placed on a blue, dark green or brown background part of the sign |
+| 46[^c-4aa91562a8e9a3e246a081c103877c75] | Low Emission Zone | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_010.gif) |  |
 
 ### PART 21 — Provisions applying to Part 22
 
-**1.**[^key-598d43c9f56d06a9fa34c360162f979d] Information of a description in column 2 of an item in the sign table in Part 22 must be conveyed by the sign shown by either diagram A or diagram B in column 3, including any appropriate symbol or legend that is required or permitted by virtue of column 4.
+**1.**[^c-598d43c9f56d06a9fa34c360162f979d] Information of a description in column 2 of an item in the sign table in Part 22 must be conveyed by the sign shown by either diagram A or diagram B in column 3, including any appropriate symbol or legend that is required or permitted by virtue of column 4.
 
-**2.**[^key-7f6faf906196bacf1f9d458cc7dfdeb0] A sign for conveying the description of information must be of—
+**2.**[^c-7f6faf906196bacf1f9d458cc7dfdeb0] A sign for conveying the description of information must be of—
 
 - (a) the colour and type shown in the diagram in column 3 of that table in respect of that item; and
 - (b) the size appropriate to accommodate a legend of a size specified in column 4 of the table in respect of the item.
 
-### PART 22 — Sign background for signs indicating services[^key-ce46c5300b07e09e4f5ac92f000edd80]
+### PART 22 — Sign background for signs indicating services[^c-ce46c5300b07e09e4f5ac92f000edd80]
 
 Sign table — Schedule 12, Part 22
 
@@ -502,21 +502,21 @@ Sign table — Schedule 12, Part 22
 
 ### PART 23 — Provisions applying to Part 24
 
-**1.**[^key-d3d7a329542901549393205481025cb9] Information of a description in column 2 of an item in the sign table in Part 24 must be conveyed on a sign provided for in the sign table in Part 22 by an arrow, symbol or panel (as the case may be) shown in the diagram in column 3 of the sign table in Part 24, or that diagram as varied or supplemented in accordance with column 5.
+**1.**[^c-d3d7a329542901549393205481025cb9] Information of a description in column 2 of an item in the sign table in Part 24 must be conveyed on a sign provided for in the sign table in Part 22 by an arrow, symbol or panel (as the case may be) shown in the diagram in column 3 of the sign table in Part 24, or that diagram as varied or supplemented in accordance with column 5.
 
-**2.**[^key-16f4da73866bae6fa2b7c69e1870ee82] An arrow, symbol or panel may only be placed on an appropriate diagram A sign (this is subject to paragraph 4).
+**2.**[^c-16f4da73866bae6fa2b7c69e1870ee82] An arrow, symbol or panel may only be placed on an appropriate diagram A sign (this is subject to paragraph 4).
 
-**3.**[^key-4bcf449ab1e12da99f84633ac4bc92eb] For the purposes of this Part, an appropriate diagram A sign is a sign shown in diagram A in column 2 of the sign table in Part 22 for an item of that table, the number of which is specified in column 4 of the sign table in Part 24.
+**3.**[^c-4bcf449ab1e12da99f84633ac4bc92eb] For the purposes of this Part, an appropriate diagram A sign is a sign shown in diagram A in column 2 of the sign table in Part 22 for an item of that table, the number of which is specified in column 4 of the sign table in Part 24.
 
-**4.**[^key-e033ef7986c520ef8fb30e032ae19656] The truck symbol provided for at item 13 of the sign table in Part 24 may be placed on a sign shown in diagram B at item 3 of the sign table in Part 22.
+**4.**[^c-e033ef7986c520ef8fb30e032ae19656] The truck symbol provided for at item 13 of the sign table in Part 24 may be placed on a sign shown in diagram B at item 3 of the sign table in Part 22.
 
-**5.**[^key-92e554b3305c7e7200f64477215b8040] The symbol or panel shown by the diagram in column 3 of the sign table in Part 24 at item 9, 11, 14 or 15 may only be incorporated in an appropriate diagram A sign which is placed on the main carriageway of a motorway.
+**5.**[^c-92e554b3305c7e7200f64477215b8040] The symbol or panel shown by the diagram in column 3 of the sign table in Part 24 at item 9, 11, 14 or 15 may only be incorporated in an appropriate diagram A sign which is placed on the main carriageway of a motorway.
 
-**6.**[^key-a6db5765168f8b269e56f7f93afb5444] The arrows, symbols or panels shown on a sign for conveying a description of information in column 2 of an item in the sign table in Part 24 must be of the size, colour and type shown in the diagram in column 3.
+**6.**[^c-a6db5765168f8b269e56f7f93afb5444] The arrows, symbols or panels shown on a sign for conveying a description of information in column 2 of an item in the sign table in Part 24 must be of the size, colour and type shown in the diagram in column 3.
 
-**7.**[^key-f0dbfce9691e34b2e087a1bbecf9ba0b] The sizes in the diagram are stroke widths.
+**7.**[^c-f0dbfce9691e34b2e087a1bbecf9ba0b] The sizes in the diagram are stroke widths.
 
-### PART 24 — Arrows, symbols and panels that may be placed on a services sign[^key-e7b8e3968c9b199d02cc588d01a49fe0]
+### PART 24 — Arrows, symbols and panels that may be placed on a services sign[^c-e7b8e3968c9b199d02cc588d01a49fe0]
 
 Sign table — Schedule 12, Part 24
 
@@ -539,13 +539,13 @@ Sign table — Schedule 12, Part 24
 | 15 | Panel:<br>Name of operator<br>(at the top of the sign) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_620) | 1, 3 | 1\. The name of the operator may be varied, may be in any style of lettering and may include a logo;<br>2\. The legend, logo and background may be in any contrasting colours;<br>3\. A white border may be added to the inside edge of the panel, to ensure adequate contrast between the panel and the background of the sign |
 | 16 | Panel:<br>Services not open for 24 hours<br>(within the sign) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_621) | 2, 3 | The panel must have white letters on a black background with a white border when incorporated in diagram A at item 3 of the sign table in Part 22 |
 | 17 | Panel:<br>Fuel only available 24 hours a day<br>(at the bottom of the sign) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_622) | 2, 3 | The panel must have white letters on a black background with a white border when incorporated in diagram A at item 3 of the sign table in Part 22 |
-| 18[^key-0b2d1fd3f2f6c4b8c4d4a922e99a7ec6] | Service point for motorhomes | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_011.gif) | 1, 2 | 1\. The symbol must be reversed when incorporated on a sign with a right pointing arrow;<br>2\. The symbol must be white when placed on a blue background. |
+| 18[^c-0b2d1fd3f2f6c4b8c4d4a922e99a7ec6] | Service point for motorhomes | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_011.gif) | 1, 2 | 1\. The symbol must be reversed when incorporated on a sign with a right pointing arrow;<br>2\. The symbol must be white when placed on a blue background. |
 
 ### PART 25 — Provisions applying to Part 26
 
-**1.**[^key-24719e634ed600dae33fb0bd3a050b3d] A description of information in column 2 at an item of the sign table in Part 26 must be conveyed by a sign which is of the colour and type, and complies with the requirements as to size, shown in the diagram in column 3, or that diagram as varied in accordance with column 4.
+**1.**[^c-24719e634ed600dae33fb0bd3a050b3d] A description of information in column 2 at an item of the sign table in Part 26 must be conveyed by a sign which is of the colour and type, and complies with the requirements as to size, shown in the diagram in column 3, or that diagram as varied in accordance with column 4.
 
-**2.**[^key-c8f36c5d69277e60620b2a0a98d8313d] (1) This paragraph applies to a legend on a sign provided for at item 6 or 7 of the sign table in Part 26 where the legend is the name of a place that is a city, town, or village.
+**2.**[^c-c8f36c5d69277e60620b2a0a98d8313d] (1) This paragraph applies to a legend on a sign provided for at item 6 or 7 of the sign table in Part 26 where the legend is the name of a place that is a city, town, or village.
 
 (2) On a sign placed in Scotland, the name of the place may be written in Scottish Gaelic, in addition to English, provided the Scottish Gaelic version is shown above the English.
 
@@ -554,7 +554,7 @@ Sign table — Schedule 12, Part 24
 - (a) English; or
 - (b) Scottish Gaelic.
 
-### PART 26 — Miscellaneous signs indicating services and local facilities[^key-0e93adab2aca49a106eac8c31d320f31]
+### PART 26 — Miscellaneous signs indicating services and local facilities[^c-0e93adab2aca49a106eac8c31d320f31]
 
 Sign table — Schedule 12, Part 26
 
@@ -565,16 +565,16 @@ Sign table — Schedule 12, Part 26
 | 3 | Diagram 2918<br>Distance to next motorway service area | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_625) | The numeral may be varied with the distance expressed in miles to the nearest mile |
 | 4 | Diagram 2918.1<br>Sign placed on or near a motorway indicating that services are not available | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_626) |  |
 | 5 | Diagram 2330<br>Sign placed on or near a primary or non‑primary route indicating that services are not available on motorway ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_627) | 1\. The motorway number may be varied and include a compass point as appropriate;<br>2\. The motorway number may be varied to “motorway” |
-| 6 | Diagram 2308.1<br>Junction ahead on a primary or non-primary route leading to a<br>small town or village not on a main through route, which provides parking, public toilets, refreshments and fuel during normal shop opening hours at least *(Extent: S)* *(affected by repeal, see note)*[^key-995b164e3aa7282b81ca3c1f3558ddbc] which provides parking and public toilets or fuel during normal shop opening hours *(Extent: S)* (Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_628)[^key-53d918fb2e31c7102761a573c79f0ebe][image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_013.gif) | 1\. The place name may be varied or omitted;<br>2\. “local” must be varied to “Local” when the place name is omitted;<br>3\. “local facilities” may be omitted;<br>4\. A distance in accordance with Part 3 of Schedule 18 may be added except that the distance must not be expressed in yards;<br>5\. The direction in which the arrow points may be varied and where the arrow points ahead and there is a single line of legend, the arrow shown by diagram B at item 1 of the table in Part 24 of this Schedule must be used;<br>6\. Symbols other than the “WC”, petrol pump and cup (denoting light refreshments) *(Extent: S)* *(affected by repeal, see note)*[^key-1fba8f06609688ecc4ba7dac24ba001c] may be omitted as appropriate; the wheelchair symbol (denoting facilities for disabled people), when shown, must always be placed to the right of the “WC” symbol; the “i”, spoon and fork, and bed symbols represent tourist information, restaurant and overnight accommodation respectively and symbols may be shown on a single line |
+| 6 | Diagram 2308.1<br>Junction ahead on a primary or non-primary route leading to a<br>small town or village not on a main through route, which provides parking, public toilets, refreshments and fuel during normal shop opening hours at least *(Extent: S)* *(affected by repeal, see note)*[^c-995b164e3aa7282b81ca3c1f3558ddbc] which provides parking and public toilets or fuel during normal shop opening hours *(Extent: S)* (Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_628)[^c-53d918fb2e31c7102761a573c79f0ebe][image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_013.gif) | 1\. The place name may be varied or omitted;<br>2\. “local” must be varied to “Local” when the place name is omitted;<br>3\. “local facilities” may be omitted;<br>4\. A distance in accordance with Part 3 of Schedule 18 may be added except that the distance must not be expressed in yards;<br>5\. The direction in which the arrow points may be varied and where the arrow points ahead and there is a single line of legend, the arrow shown by diagram B at item 1 of the table in Part 24 of this Schedule must be used;<br>6\. Symbols other than the “WC”, petrol pump and cup (denoting light refreshments) *(Extent: S)* *(affected by repeal, see note)*[^c-1fba8f06609688ecc4ba7dac24ba001c] may be omitted as appropriate; the wheelchair symbol (denoting facilities for disabled people), when shown, must always be placed to the right of the “WC” symbol; the “i”, spoon and fork, and bed symbols represent tourist information, restaurant and overnight accommodation respectively and symbols may be shown on a single line |
 | 7 | Diagram 2309.1<br>Direction and distance in miles to a small town or village offering facilities indicated on the sign shown in item 5 of this table | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_629) | 1\. The place name may be varied or omitted;<br>2\. “local” must be varied to “Local” when the place name is omitted;<br>3\. The direction in which the sign points may be reversed;<br>4\. The distance may be varied to another in accordance with Part 3 of Schedule 18 except that the distance must not be expressed in yards |
 
 ### PART 27 — Provisions applying to Part 28
 
-**1.**[^key-7382c0791c060f2308b5d408013d5b54] Information or a warning of a description in column 2 of an item in the sign table in Part 28 must be conveyed by a sign which is of the colour and type, and complies with the requirements as to size, shown in the diagram in column 3, or that diagram as varied in accordance with column 4.
+**1.**[^c-7382c0791c060f2308b5d408013d5b54] Information or a warning of a description in column 2 of an item in the sign table in Part 28 must be conveyed by a sign which is of the colour and type, and complies with the requirements as to size, shown in the diagram in column 3, or that diagram as varied in accordance with column 4.
 
-**2.**[^key-1cb6baefa8488e9a2969b57436c4d9f2] A sign provided for at item 17 must be internally lit.
+**2.**[^c-1cb6baefa8488e9a2969b57436c4d9f2] A sign provided for at item 17 must be internally lit.
 
-**3.**[^key-6fcbc473cda1f363f1769856e3005d7a] (1) This paragraph applies to a legend that is used on a sign provided for at item 2, 3 (other than when placed on a motorway), 7, 8, 9 or 10 of the table in Part 28 where the legend is the name of a place that is a city, town, village or tourist destination.
+**3.**[^c-6fcbc473cda1f363f1769856e3005d7a] (1) This paragraph applies to a legend that is used on a sign provided for at item 2, 3 (other than when placed on a motorway), 7, 8, 9 or 10 of the table in Part 28 where the legend is the name of a place that is a city, town, village or tourist destination.
 
 (2) On a sign placed in Scotland, the name of the place may be written in Scottish Gaelic, in addition to English, provided the Scottish Gaelic version is shown above the English.
 
@@ -583,15 +583,15 @@ Sign table — Schedule 12, Part 26
 - (a) English; or
 - (b) Scottish Gaelic.
 
-**4.**[^key-b77eb5d7db886e1505a22c0d99620d7f] Paragraph 2 of the Schedule 12 General Directions, applies to the sign provided for at item 21 of the sign table in Part 28.
+**4.**[^c-b77eb5d7db886e1505a22c0d99620d7f] Paragraph 2 of the Schedule 12 General Directions, applies to the sign provided for at item 21 of the sign table in Part 28.
 
-**5.**[^key-00593c70936e3c5f131b29e5625285e5] (1) The signs mentioned in sub-paragraph (2) need not be illuminated.
+**5.**[^c-00593c70936e3c5f131b29e5625285e5] (1) The signs mentioned in sub-paragraph (2) need not be illuminated.
 
 (2) The signs are those provided for at items 7, 8, 9, 14, 19, 20 and 21 of the Part 28 sign table.
 
 (3) Sub-paragraph (1) does not apply to a sign provided for at item 8 when placed on a motorway.
 
-### PART 28 — Other directional signs[^key-c93fa723a29cce9f6ed8ab3ee39d6f8d]
+### PART 28 — Other directional signs[^c-c93fa723a29cce9f6ed8ab3ee39d6f8d]
 
 Sign table — Schedule 12, Part 28
 
@@ -616,146 +616,146 @@ Sign table — Schedule 12, Part 28
 | 17 | Diagram 2711.1<br>Direction and distance to emergency exit for pedestrians from a tunnel<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_646) | 1\. The symbols and arrows may be reversed to indicate an exit to the left;<br>2\. The arrow in diagram B may point vertically upwards with the symbol facing either to the left or to the right;<br>3\. The distance may be varied or omitted;<br>4\. Where emergency exits are more than 880<br>yards apart, distances must be expressed in miles, denoted by “miles” or “mile” as appropriate, and must be to the nearest ¼ mile with the fractions ¾, ½ and ¼ being used |
 | 18 | Diagram 2922<br>Exit from a motorway for works traffic only | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_647) |  |
 | 19 | Diagram 2801 and 2802<br>Sign on a primary or non-primary route indicating a route<br>or direction to a testing station for goods vehicles | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_648) | 1\. The word “Goods” may be omitted or varied as appropriate to indicate the type or types of vehicle tested;<br>2\. The testing station symbol may be omitted;<br>3\. A distance may be added;<br>4\. The direction in which the arrow points in diagram 2801 may be varied; when pointing to the right it must be placed on the right hand side of the sign with the symbol, if shown, placed to the left of the legend;<br>5\. When the arrow in diagram 2801 is pointing ahead it may be placed either on the left hand or right hand side of the sign, with the symbol, if shown, placed at the opposite end of the sign;<br>6\. The arrow in diagram 2801 may be omitted and the U-turn arrow shown in column 3 of the sign table in Part 5 at item 2, placed on the right hand side of the sign, with the symbol, if shown, placed to the left of the legend;<br>7\. The sign shown by diagram 2802 may point to the left, with the symbol, if shown, placed to the right of the legend |
-| 20 | Diagram 2601.2<br>Indication of a route for cyclists and drivers of electric scooters being used in a trial[^key-4f3101b07ca920635b4a14cba8e3cf29] through a road junction ahead (Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_649) | 1\. Destinations may be omitted, varied or added and may incorporate the legends shown in column 3 of the sign table in Part 3 at item 1;<br>2\. A distance may be added;<br>3\. The symbols indicating the road layout and the route for cyclists may be varied as appropriate except the individual symbol widths |
+| 20 | Diagram 2601.2<br>Indication of a route for cyclists and drivers of electric scooters being used in a trial[^c-4f3101b07ca920635b4a14cba8e3cf29] through a road junction ahead (Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_649) | 1\. Destinations may be omitted, varied or added and may incorporate the legends shown in column 3 of the sign table in Part 3 at item 1;<br>2\. A distance may be added;<br>3\. The symbols indicating the road layout and the route for cyclists may be varied as appropriate except the individual symbol widths |
 | 21 | Diagram 2610.2<br>Direction along a public right of way, concessionary path or permissive path indicated by waymarks | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_650) | 1\. The direction in which the arrow points may be varied, the shaft may be extended and curved;<br>2\. The colour of the arrow may be varied to indicate the type of route, with the background in any colour;<br>3\. “Public Footpath”, “Footpath”, “Bridleway”, “Byway”, “Restricted Byway”, “Concessionary Path”, “Permissive Path” (or other appropriate description for conveying the direction of a public right of way, concessionary path or permissive path) may be added on, or adjacent to, the arrow;<br>4\. The name of a destination, a route and an identifying symbol of a route, in any combination, may be added on or adjacent to the arrow;<br>5\. A distance may be added;<br>6\. A legend may be in any style, size and contrasting colour |
-| 22 | Diagram 818.4<br>Nature and location of a prohibition, restriction or requirement with indication of alternative route | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_651) | 1\. The legend above the “weight limit” symbol, indicating the nature and location of the prohibition, restriction or requirement, may be varied as appropriate;<br>2\. The “weight limit” numeral may be varied;<br>3\. The “weight limit” symbol may be varied to a symbol shown in column 3 of the sign table in Part 20 at items 25, 27, 33, 34, 35 or 46 or omitted[^key-745c5a2baef35a51aea07070a87bc02e];<br>4\. A distance to the location of the prohibition, restriction or requirement may be shown in accordance with Part 3 of Schedule 18;<br>5\. An arrow pointing horizontally to the left or to the right may be added (and where an arrow pointing to the right is added, the lorry symbol is reversed);<br>6\. “ahead” may be added after any distance where an arrow has not been added;<br>7\. The legend below the “weight limit” symbol, indicating an alternative route, may be omitted or varied in accordance with column 3 of the sign table in Part 3 at item 8 and may include the words “Alternative route via” |
+| 22 | Diagram 818.4<br>Nature and location of a prohibition, restriction or requirement with indication of alternative route | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_651) | 1\. The legend above the “weight limit” symbol, indicating the nature and location of the prohibition, restriction or requirement, may be varied as appropriate;<br>2\. The “weight limit” numeral may be varied;<br>3\. The “weight limit” symbol may be varied to a symbol shown in column 3 of the sign table in Part 20 at items 25, 27, 33, 34, 35 or 46 or omitted[^c-745c5a2baef35a51aea07070a87bc02e];<br>4\. A distance to the location of the prohibition, restriction or requirement may be shown in accordance with Part 3 of Schedule 18;<br>5\. An arrow pointing horizontally to the left or to the right may be added (and where an arrow pointing to the right is added, the lorry symbol is reversed);<br>6\. “ahead” may be added after any distance where an arrow has not been added;<br>7\. The legend below the “weight limit” symbol, indicating an alternative route, may be omitted or varied in accordance with column 3 of the sign table in Part 3 at item 8 and may include the words “Alternative route via” |
 | 23 | Diagram 818.5<br>Location of a low bridge with indication of alternative route | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_652) | 1\. The legend “south of Maplebeck” may be varied as appropriate or omitted<br>2\. The numerals giving a height may be varied<br>3\. A distance to the low bridge may be shown in accordance with Part 3 of Schedule 18<br>4\. An arrow pointing horizontally to the left or to the right may be added<br>5\. “ahead” may be added after any distance where an arrow has not been added<br>6\. The legend below the “height limit” symbol, indicating an alternative route, may be omitted or varied and may include the legends shown in column 3 of the sign table in Part 3 at item 8 |
 | 24 | Diagram 2502<br>Sign on a primary or non-primary route indicating distance to a goods vehicles parking place ahead with public toilets and telephones | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_653) | 1\. The lorry, “WC” and telephone symbol may be omitted as appropriate<br>2\. The recycling symbol shown in column 3 of the table in Part 11 at item 14 may be added<br>3\. The “i” symbol shown in column 3 of the sign table in Part 11 at item 33 may be added where the parking place includes a general information point not associated with tourist destinations<br>4\. The distance may be varied in accordance with Part 3 of Schedule 18<br>5\. An arrow pointing horizontally to the left or to the right may be added<br>6\. An arrow pointing horizontally to the right may be added provided that the lorry symbol, if shown, is reversed<br>7\. The distance may be omitted when an arrow is added |
 
 ### PART 29 — The Schedule 12 General Directions
 
-**1.**[^key-ac0b986ec09c37d8490b12c9c55d8919] Paragraph 2 applies to a sign provided for—
+**1.**[^c-ac0b986ec09c37d8490b12c9c55d8919] Paragraph 2 applies to a sign provided for—
 
 - (a) in this Schedule which has a diagram B background as shown at an item in the sign table in Part 2 or 22.;
 - (b) at item 7 in Part 26; or
 - (c) at item 7, 15 (type B), 16 (diagram 2710) or 19 (diagram 2802) of Part 28.
 
-**2.**[^key-4c5ecd34233060e960afb8099293bcca] The sign may only be placed at a junction.
+**2.**[^c-4c5ecd34233060e960afb8099293bcca] The sign may only be placed at a junction.
 
-**3.**[^key-2692bdc38e08390dd597e3b6aa5ccf9c] Paragraph 4 applies to a sign—
+**3.**[^c-2692bdc38e08390dd597e3b6aa5ccf9c] Paragraph 4 applies to a sign—
 
 - (a) which has a background provided for at item 9 of the Part 2 sign table (routes for pedestrians); or
 - (b) provided for at item 21 of the sign table in Part 28 (direction along a public right of way etc.).
 
-**4.**[^key-0074d8fcad6fe97c6c4b688b1b0de016] The back of the sign may be of any colour.
+**4.**[^c-0074d8fcad6fe97c6c4b688b1b0de016] The back of the sign may be of any colour.
 
 ## Annotations
 
-[^key-e1a7d760b769fe12260bf01d726cab92]: Commencement: [Sch. 12 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e1a7d760b769fe12260bf01d726cab92]: Commencement: [Sch. 12 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1c8dced0a3306b39b955847106b242dc]: Commencement: [Sch. 12 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-1c8dced0a3306b39b955847106b242dc]: Commencement: [Sch. 12 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-92c2e920da4e617bca6e571dbb37d0b2]: Commencement: [Sch. 12 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-92c2e920da4e617bca6e571dbb37d0b2]: Commencement: [Sch. 12 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0ab04057be1f140899ba59fe0210e282]: Commencement: [Sch. 12 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0ab04057be1f140899ba59fe0210e282]: Commencement: [Sch. 12 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-dbda23886bfeeafbf9607cd3621d0629]: Commencement: [Sch. 12 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-dbda23886bfeeafbf9607cd3621d0629]: Commencement: [Sch. 12 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-04934a6c3b069f74522e85a06421c377]: Commencement: [Sch. 12 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-04934a6c3b069f74522e85a06421c377]: Commencement: [Sch. 12 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-fd916840f6b8e746ad1ce8d328faf4a7]: Commencement: [Sch. 12 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-fd916840f6b8e746ad1ce8d328faf4a7]: Commencement: [Sch. 12 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7351a6b07033054732831e4ac1a695dc]: Commencement: [Sch. 12 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7351a6b07033054732831e4ac1a695dc]: Commencement: [Sch. 12 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-44afad9e802833bad61d3066b990ed06]: Textual amendment: Word in [Sch. 12 Pt. 1 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/8/b/i) omitted (S.) (28.6.2018) by virtue of [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(2)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/2)
+[^c-44afad9e802833bad61d3066b990ed06]: Textual amendment: Word in [Sch. 12 Pt. 1 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/8/b/i) omitted (S.) (28.6.2018) by virtue of [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(2)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/2)
 
-[^key-d04782917dfff4c04ecf9b597bc61971]: Textual amendment: Word in [Sch. 12 Pt. 1 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/8/b/i) omitted (E.W.) (13.12.2017) by virtue of [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/2)
+[^c-d04782917dfff4c04ecf9b597bc61971]: Textual amendment: Word in [Sch. 12 Pt. 1 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/1/paragraph/8/b/i) omitted (E.W.) (13.12.2017) by virtue of [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/2)
 
-[^key-4731bd969970aba819ce6365f7aae1ff]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4731bd969970aba819ce6365f7aae1ff]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-900f74171803589379c6804a2cecf95d]: Textual amendment: Words in [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/2) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/9)
+[^c-900f74171803589379c6804a2cecf95d]: Textual amendment: Words in [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/2) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/9)
 
-[^key-f76f62eaf10ed96d96229d1991a4af77]: Commencement: [Sch. 12 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f76f62eaf10ed96d96229d1991a4af77]: Commencement: [Sch. 12 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-4fa5c91b57449e2370b14c4b5398b9e0]: Commencement: [Sch. 12 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4fa5c91b57449e2370b14c4b5398b9e0]: Commencement: [Sch. 12 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-59c296a8ca218ddd3de743f0cb132df1]: Commencement: [Sch. 12 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-59c296a8ca218ddd3de743f0cb132df1]: Commencement: [Sch. 12 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-4d514bc8b0d9b27e1dad3039cbeed68c]: Commencement: [Sch. 12 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4d514bc8b0d9b27e1dad3039cbeed68c]: Commencement: [Sch. 12 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/3/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00096]: Footnote: Registered company number (England and Wales) 282555 and registered charity number (England and Wales) 306122.
 
 [^f00097]: Footnote: Registered company number (Scotland) SC310841 and registered charity number (Scotland) SC013138.
 
-[^key-d1babd3f9936533158900d7444ef472e]: Commencement: [Sch. 12 Pt. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/4/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d1babd3f9936533158900d7444ef472e]: Commencement: [Sch. 12 Pt. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/4/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-9e5fc807a507e0e0f1b8cc25ad45627c]: Commencement: [Sch. 12 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/4/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-9e5fc807a507e0e0f1b8cc25ad45627c]: Commencement: [Sch. 12 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/4/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e9883e94fe3dea1fa98412a917335191]: Commencement: [Sch. 12 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/4/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e9883e94fe3dea1fa98412a917335191]: Commencement: [Sch. 12 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/4/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ddcf34af1aa38d29f39899fe9e0b3071]: Commencement: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ddcf34af1aa38d29f39899fe9e0b3071]: Commencement: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-01c3706a0e152e8bc69c4a2cee39572b]: Commencement: [Sch. 12 Pt. 6 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/6/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-01c3706a0e152e8bc69c4a2cee39572b]: Commencement: [Sch. 12 Pt. 6 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/6/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-dc55354958f65fc2f8ef578ce80298f6]: Commencement: [Sch. 12 Pt. 6 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/6/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-dc55354958f65fc2f8ef578ce80298f6]: Commencement: [Sch. 12 Pt. 6 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/6/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0de21c2e5d344f3ba2d8e188d2ef2a74]: Commencement: [Sch. 12 Pt. 6 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/6/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0de21c2e5d344f3ba2d8e188d2ef2a74]: Commencement: [Sch. 12 Pt. 6 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/6/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-f52865d0a8f5140fea0e6372a9e0a4c6]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f52865d0a8f5140fea0e6372a9e0a4c6]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d7194814332508ab3dafc949e777153c]: Commencement: [Sch. 12 Pt. 8 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d7194814332508ab3dafc949e777153c]: Commencement: [Sch. 12 Pt. 8 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ed8d51d8423da56ee799011cd66e70b3]: Commencement: [Sch. 12 Pt. 8 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ed8d51d8423da56ee799011cd66e70b3]: Commencement: [Sch. 12 Pt. 8 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-bd635c9449df5db8cd15a4bef37bcf75]: Commencement: [Sch. 12 Pt. 8 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bd635c9449df5db8cd15a4bef37bcf75]: Commencement: [Sch. 12 Pt. 8 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-3aeb4bce4cf07d86bcbab479eef932f1]: Commencement: [Sch. 12 Pt. 8 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-3aeb4bce4cf07d86bcbab479eef932f1]: Commencement: [Sch. 12 Pt. 8 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-6c34666399240359ef20bb5006236104]: Commencement: [Sch. 12 Pt. 8 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6c34666399240359ef20bb5006236104]: Commencement: [Sch. 12 Pt. 8 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d5d0f6f94fbca7aa012cb3c258bb775b]: Commencement: [Sch. 12 Pt. 8 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d5d0f6f94fbca7aa012cb3c258bb775b]: Commencement: [Sch. 12 Pt. 8 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/8/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0525e2e69f75552b3e83054a12e7e0e0]: Commencement: [Sch. 12 Pt. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0525e2e69f75552b3e83054a12e7e0e0]: Commencement: [Sch. 12 Pt. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-921963ef7e123ce4f5eca885fbbc8172]: Textual amendment: Words in [Sch. 12 Pt. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/9) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/10)
+[^c-921963ef7e123ce4f5eca885fbbc8172]: Textual amendment: Words in [Sch. 12 Pt. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/9) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/10)
 
-[^key-0b0b1cd545128f2fd3665cdc2813f461]: Commencement: [Sch. 12 Pt. 10 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0b0b1cd545128f2fd3665cdc2813f461]: Commencement: [Sch. 12 Pt. 10 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-eedd2c976aa74846479e85a0ef28143e]: Commencement: [Sch. 12 Pt. 10 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-eedd2c976aa74846479e85a0ef28143e]: Commencement: [Sch. 12 Pt. 10 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-10bc63bb685d2548beb348bdf3b0f18b]: Commencement: [Sch. 12 Pt. 10 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-10bc63bb685d2548beb348bdf3b0f18b]: Commencement: [Sch. 12 Pt. 10 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-786ea73e23b24f4435325da8d914bce1]: Commencement: [Sch. 12 Pt. 10 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-786ea73e23b24f4435325da8d914bce1]: Commencement: [Sch. 12 Pt. 10 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-564d6053b19cbc3c656a220acbdb65ec]: Commencement: [Sch. 12 Pt. 10 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-564d6053b19cbc3c656a220acbdb65ec]: Commencement: [Sch. 12 Pt. 10 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8e868e61f3dccd6d754a576c7077b86b]: Commencement: [Sch. 12 Pt. 10 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8e868e61f3dccd6d754a576c7077b86b]: Commencement: [Sch. 12 Pt. 10 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-64a8656320f00a430c6be10bdf210fa2]: Commencement: [Sch. 12 Pt. 10 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-64a8656320f00a430c6be10bdf210fa2]: Commencement: [Sch. 12 Pt. 10 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0f26bdac5e15842c8e718b76e6378303]: Commencement: [Sch. 12 Pt. 10 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0f26bdac5e15842c8e718b76e6378303]: Commencement: [Sch. 12 Pt. 10 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-008ef0c4db3d926cc5af638a762318e5]: Commencement: [Sch. 12 Pt. 10 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-008ef0c4db3d926cc5af638a762318e5]: Commencement: [Sch. 12 Pt. 10 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/10/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-19876af8e90d70ce5df82bc0ce3ac113]: Commencement: [Sch. 12 Pt. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-19876af8e90d70ce5df82bc0ce3ac113]: Commencement: [Sch. 12 Pt. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-98798297a77b274656e74888e1daa499]: Textual amendment: Words in [Sch. 12 Pt. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/11) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/11)
+[^c-98798297a77b274656e74888e1daa499]: Textual amendment: Words in [Sch. 12 Pt. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/11) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(11)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/11)
 
-[^key-4987459f5ac6c76eafbb22ac35f136c7]: Textual amendment: [Sch. 12 Pt. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/11) Table item 37 inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/2)
+[^c-4987459f5ac6c76eafbb22ac35f136c7]: Textual amendment: [Sch. 12 Pt. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/11) Table item 37 inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/2)
 
-[^key-0888783321efaae040a39384e1f17c5c]: Commencement: [Sch. 12 Pt. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0888783321efaae040a39384e1f17c5c]: Commencement: [Sch. 12 Pt. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-79e68ca7fd9aaf9d9fe385711eee49a8]: Commencement: [Sch. 12 Pt. 13 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-79e68ca7fd9aaf9d9fe385711eee49a8]: Commencement: [Sch. 12 Pt. 13 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0423fe98b5c4372ee70750449a53f730]: Commencement: [Sch. 12 Pt. 13 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0423fe98b5c4372ee70750449a53f730]: Commencement: [Sch. 12 Pt. 13 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-73d0a9691a0de3bd1a77cac4d9803944]: Commencement: [Sch. 12 Pt. 13 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-73d0a9691a0de3bd1a77cac4d9803944]: Commencement: [Sch. 12 Pt. 13 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-56bb8f9d064dc902dd9883758cd9a415]: Commencement: [Sch. 12 Pt. 13 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-56bb8f9d064dc902dd9883758cd9a415]: Commencement: [Sch. 12 Pt. 13 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-95fe1cb0bfbdd555423f14a9866e335a]: Commencement: [Sch. 12 Pt. 13 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-95fe1cb0bfbdd555423f14a9866e335a]: Commencement: [Sch. 12 Pt. 13 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-6208a4d521d62c8f1e77acc0331f7698]: Commencement: [Sch. 12 Pt. 13 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6208a4d521d62c8f1e77acc0331f7698]: Commencement: [Sch. 12 Pt. 13 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e89af5a28fc953c35d04e0675834e178]: Commencement: [Sch. 12 Pt. 13 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e89af5a28fc953c35d04e0675834e178]: Commencement: [Sch. 12 Pt. 13 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-667982dd25427efd8f5f302f45113282]: Commencement: [Sch. 12 Pt. 13 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-667982dd25427efd8f5f302f45113282]: Commencement: [Sch. 12 Pt. 13 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e178f44c22a8f56c6fe461a52d336170]: Commencement: [Sch. 12 Pt. 13 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e178f44c22a8f56c6fe461a52d336170]: Commencement: [Sch. 12 Pt. 13 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/13/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1cc09ea36435b0eb5334004af042cc73]: Commencement: [Sch. 12 Pt. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-1cc09ea36435b0eb5334004af042cc73]: Commencement: [Sch. 12 Pt. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8a1b58c5777a52b32c27ba34e1beb9e3]: Commencement: [Sch. 12 Pt. 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8a1b58c5777a52b32c27ba34e1beb9e3]: Commencement: [Sch. 12 Pt. 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00098]: Footnote: Registered as a charity in England and Wales (number: 205846).
 
@@ -763,130 +763,130 @@ Sign table — Schedule 12, Part 28
 
 [^f00100]: Footnote: Registered company (England and Wales) number 1204694; registered charity number (England and Wales) 269442.
 
-[^key-a028c9629546e4a942707a13a9d82d8a]: Commencement: [Sch. 12 Pt. 16](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/16) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a028c9629546e4a942707a13a9d82d8a]: Commencement: [Sch. 12 Pt. 16](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/16) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00101]: Footnote: Registered as a charity in England and Wales (number 1140351).
 
-[^key-709fcd8dccb2c0c3700f744b454423da]: Commencement: [Sch. 12 Pt. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/17) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-709fcd8dccb2c0c3700f744b454423da]: Commencement: [Sch. 12 Pt. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/17) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00102]: Footnote: Registered as a charity in Scotland (reference: SC045925).
 
 [^f00103]: Footnote: Registered as a charity in Scotland (reference: SC007410).
 
-[^key-bb5a883335fdbfa8d2d87e05f0329614]: Textual amendment: [Sch. 12 Pt. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/17) Table items 4, 5 substituted for item 5 (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/3) (with [Pt. 1 reg. 8](https://www.legislation.gov.uk/ssi/2022/111/part/1/regulation/8))
+[^c-bb5a883335fdbfa8d2d87e05f0329614]: Textual amendment: [Sch. 12 Pt. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/17) Table items 4, 5 substituted for item 5 (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/3) (with [Pt. 1 reg. 8](https://www.legislation.gov.uk/ssi/2022/111/part/1/regulation/8))
 
-[^key-eb31c32e8a0fadee4a44e137ff2f8f4f]: Commencement: [Sch. 12 Pt. 18](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/18) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-eb31c32e8a0fadee4a44e137ff2f8f4f]: Commencement: [Sch. 12 Pt. 18](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/18) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00104]: Footnote: The part of the Welsh Government currently with responsibility for Wales’ historic environment is Cadw.
 
-[^key-849995a4a56f1277ee9305e04d4ec0a7]: Commencement: [Sch. 12 Pt. 19 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-849995a4a56f1277ee9305e04d4ec0a7]: Commencement: [Sch. 12 Pt. 19 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-f142544dba555a10fe8db4abd8e36d3d]: Commencement: [Sch. 12 Pt. 19 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f142544dba555a10fe8db4abd8e36d3d]: Commencement: [Sch. 12 Pt. 19 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-c2b090b56e49f1801ef40becdde0550c]: Commencement: [Sch. 12 Pt. 19 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-c2b090b56e49f1801ef40becdde0550c]: Commencement: [Sch. 12 Pt. 19 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-41f8b934dc597466ac6c83e38e741473]: Commencement: [Sch. 12 Pt. 19 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-41f8b934dc597466ac6c83e38e741473]: Commencement: [Sch. 12 Pt. 19 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1c90b15e898113d2b4458d4583ca7b39]: Commencement: [Sch. 12 Pt. 19 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-1c90b15e898113d2b4458d4583ca7b39]: Commencement: [Sch. 12 Pt. 19 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-47748a4b7d648f1522ca7a2d9d8bd80d]: Commencement: [Sch. 12 Pt. 19 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-47748a4b7d648f1522ca7a2d9d8bd80d]: Commencement: [Sch. 12 Pt. 19 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-eecaf3d7902677d4a475ab346b05579a]: Commencement: [Sch. 12 Pt. 19 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-eecaf3d7902677d4a475ab346b05579a]: Commencement: [Sch. 12 Pt. 19 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-fac3a7195dc9ae116bc2f7aba8188cbf]: Commencement: [Sch. 12 Pt. 19 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-fac3a7195dc9ae116bc2f7aba8188cbf]: Commencement: [Sch. 12 Pt. 19 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-80fc6d54e22e80a05ef05df6104975c0]: Commencement: [Sch. 12 Pt. 19 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-80fc6d54e22e80a05ef05df6104975c0]: Commencement: [Sch. 12 Pt. 19 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7a2ea86853437ccffaff917260b8d7c4]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7a2ea86853437ccffaff917260b8d7c4]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ce41b2636cfabdbafbe7cace8ca51871]: Textual amendment: Words in [Sch. 12 Pt. 19 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/10) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(3)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/3)
+[^c-ce41b2636cfabdbafbe7cace8ca51871]: Textual amendment: Words in [Sch. 12 Pt. 19 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/10) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(3)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/3)
 
-[^key-e1e52c78a9afd7afdda56104c11a0777]: Textual amendment: Words in [Sch. 12 Pt. 19 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/10) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/3)
+[^c-e1e52c78a9afd7afdda56104c11a0777]: Textual amendment: Words in [Sch. 12 Pt. 19 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/19/paragraph/10) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/3)
 
-[^key-0a1b42a39c03ac159c2a6f6b6ce5421a]: Commencement: [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0a1b42a39c03ac159c2a6f6b6ce5421a]: Commencement: [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1ee1d422cea1a8ba84791d36e0b11058]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table substituted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(12)(a)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/12/a)
+[^c-1ee1d422cea1a8ba84791d36e0b11058]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table substituted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(12)(a)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/12/a)
 
-[^key-f27ac383ab28a6b2c2d50ff1e7434259]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table inserted (E.) (19.2.2021) by [The Traffic Signs (Coronavirus) (Amendment) (England) Regulations 2021 (S.I. 2021/75)](https://www.legislation.gov.uk/uksi/2021/75), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/75/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2021/75/regulation/2/13)
+[^c-f27ac383ab28a6b2c2d50ff1e7434259]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table inserted (E.) (19.2.2021) by [The Traffic Signs (Coronavirus) (Amendment) (England) Regulations 2021 (S.I. 2021/75)](https://www.legislation.gov.uk/uksi/2021/75), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/75/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2021/75/regulation/2/13)
 
-[^key-6dd5ffdfb6a0ef3138db691d176acfad]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(12)(b)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/12/b)
+[^c-6dd5ffdfb6a0ef3138db691d176acfad]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(12)(b)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/12/b)
 
-[^key-14721d55a969ddc3005b0d6352a01e2a]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(12)(c)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/12/c)
+[^c-14721d55a969ddc3005b0d6352a01e2a]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(12)(c)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/12/c)
 
-[^key-b2145e97fdcdcf473985d2079d861288]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/a)
+[^c-b2145e97fdcdcf473985d2079d861288]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/a)
 
-[^key-a72952f1f0214d9e541d00965632329d]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/a)
+[^c-a72952f1f0214d9e541d00965632329d]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/a)
 
-[^key-4409715ab88976281b032e43c6f6d5b8]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(b)(i)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/b/i)
+[^c-4409715ab88976281b032e43c6f6d5b8]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(b)(i)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/b/i)
 
-[^key-b2c5d4f0a7356aec00a2a28d642b50d9]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/b/i)
+[^c-b2c5d4f0a7356aec00a2a28d642b50d9]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/b/i)
 
-[^key-790e55302eb60d65fd97875d4a21c7ef]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/b/ii)
+[^c-790e55302eb60d65fd97875d4a21c7ef]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/b/ii)
 
-[^key-90e2f0b3b05fe043f17b785f9f2f9f83]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/b/ii)
+[^c-90e2f0b3b05fe043f17b785f9f2f9f83]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/b/ii)
 
-[^key-d9cf7985961dd140f41dda1c2be32f51]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/b/iii)
+[^c-d9cf7985961dd140f41dda1c2be32f51]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [12(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/12/4/b/iii)
 
-[^key-9e93361aa5d1ac5bb3ab91289dc6f642]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/b/iii)
+[^c-9e93361aa5d1ac5bb3ab91289dc6f642]: Textual amendment: Words in [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 45 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [12(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/12/4/b/iii)
 
-[^key-4aa91562a8e9a3e246a081c103877c75]: Textual amendment: [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 46 inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/4)
+[^c-4aa91562a8e9a3e246a081c103877c75]: Textual amendment: [Sch. 12 Pt. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/20) Table item 46 inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/4)
 
-[^key-598d43c9f56d06a9fa34c360162f979d]: Commencement: [Sch. 12 Pt. 21 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/21/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-598d43c9f56d06a9fa34c360162f979d]: Commencement: [Sch. 12 Pt. 21 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/21/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7f6faf906196bacf1f9d458cc7dfdeb0]: Commencement: [Sch. 12 Pt. 21 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/21/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7f6faf906196bacf1f9d458cc7dfdeb0]: Commencement: [Sch. 12 Pt. 21 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/21/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ce46c5300b07e09e4f5ac92f000edd80]: Commencement: [Sch. 12 Pt. 22](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/22) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ce46c5300b07e09e4f5ac92f000edd80]: Commencement: [Sch. 12 Pt. 22](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/22) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d3d7a329542901549393205481025cb9]: Commencement: [Sch. 12 Pt. 23 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d3d7a329542901549393205481025cb9]: Commencement: [Sch. 12 Pt. 23 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-16f4da73866bae6fa2b7c69e1870ee82]: Commencement: [Sch. 12 Pt. 23 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-16f4da73866bae6fa2b7c69e1870ee82]: Commencement: [Sch. 12 Pt. 23 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-4bcf449ab1e12da99f84633ac4bc92eb]: Commencement: [Sch. 12 Pt. 23 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4bcf449ab1e12da99f84633ac4bc92eb]: Commencement: [Sch. 12 Pt. 23 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e033ef7986c520ef8fb30e032ae19656]: Commencement: [Sch. 12 Pt. 23 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e033ef7986c520ef8fb30e032ae19656]: Commencement: [Sch. 12 Pt. 23 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-92e554b3305c7e7200f64477215b8040]: Commencement: [Sch. 12 Pt. 23 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-92e554b3305c7e7200f64477215b8040]: Commencement: [Sch. 12 Pt. 23 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a6db5765168f8b269e56f7f93afb5444]: Commencement: [Sch. 12 Pt. 23 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a6db5765168f8b269e56f7f93afb5444]: Commencement: [Sch. 12 Pt. 23 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-f0dbfce9691e34b2e087a1bbecf9ba0b]: Commencement: [Sch. 12 Pt. 23 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f0dbfce9691e34b2e087a1bbecf9ba0b]: Commencement: [Sch. 12 Pt. 23 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/23/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e7b8e3968c9b199d02cc588d01a49fe0]: Commencement: [Sch. 12 Pt. 24](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/24) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e7b8e3968c9b199d02cc588d01a49fe0]: Commencement: [Sch. 12 Pt. 24](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/24) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0b2d1fd3f2f6c4b8c4d4a922e99a7ec6]: Textual amendment: [Sch. 12 Pt. 24](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/24) Table item 18 inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(5)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/5)
+[^c-0b2d1fd3f2f6c4b8c4d4a922e99a7ec6]: Textual amendment: [Sch. 12 Pt. 24](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/24) Table item 18 inserted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(5)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/5)
 
-[^key-24719e634ed600dae33fb0bd3a050b3d]: Commencement: [Sch. 12 Pt. 25 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/25/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-24719e634ed600dae33fb0bd3a050b3d]: Commencement: [Sch. 12 Pt. 25 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/25/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-c8f36c5d69277e60620b2a0a98d8313d]: Commencement: [Sch. 12 Pt. 25 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/25/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-c8f36c5d69277e60620b2a0a98d8313d]: Commencement: [Sch. 12 Pt. 25 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/25/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0e93adab2aca49a106eac8c31d320f31]: Commencement: [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0e93adab2aca49a106eac8c31d320f31]: Commencement: [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-995b164e3aa7282b81ca3c1f3558ddbc]: Textual amendment: Words in [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) Table substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(6)(a)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/6/a)
+[^c-995b164e3aa7282b81ca3c1f3558ddbc]: Textual amendment: Words in [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) Table substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(6)(a)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/6/a)
 
-[^key-53d918fb2e31c7102761a573c79f0ebe]: Textual amendment: [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) Table item 6: diagram substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(6)(b)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/6/b), [sch.](https://www.legislation.gov.uk/ssi/2022/111/schedule)
+[^c-53d918fb2e31c7102761a573c79f0ebe]: Textual amendment: [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) Table item 6: diagram substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(6)(b)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/6/b), [sch.](https://www.legislation.gov.uk/ssi/2022/111/schedule)
 
-[^key-1fba8f06609688ecc4ba7dac24ba001c]: Textual amendment: Words in [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) Table omitted (S.) (23.5.2022) by virtue of [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(6)(c)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/6/c)
+[^c-1fba8f06609688ecc4ba7dac24ba001c]: Textual amendment: Words in [Sch. 12 Pt. 26](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/26) Table omitted (S.) (23.5.2022) by virtue of [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(6)(c)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/6/c)
 
-[^key-7382c0791c060f2308b5d408013d5b54]: Commencement: [Sch. 12 Pt. 27 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7382c0791c060f2308b5d408013d5b54]: Commencement: [Sch. 12 Pt. 27 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1cb6baefa8488e9a2969b57436c4d9f2]: Commencement: [Sch. 12 Pt. 27 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-1cb6baefa8488e9a2969b57436c4d9f2]: Commencement: [Sch. 12 Pt. 27 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-6fcbc473cda1f363f1769856e3005d7a]: Commencement: [Sch. 12 Pt. 27 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6fcbc473cda1f363f1769856e3005d7a]: Commencement: [Sch. 12 Pt. 27 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b77eb5d7db886e1505a22c0d99620d7f]: Commencement: [Sch. 12 Pt. 27 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b77eb5d7db886e1505a22c0d99620d7f]: Commencement: [Sch. 12 Pt. 27 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-00593c70936e3c5f131b29e5625285e5]: Commencement: [Sch. 12 Pt. 27 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-00593c70936e3c5f131b29e5625285e5]: Commencement: [Sch. 12 Pt. 27 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/27/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-c93fa723a29cce9f6ed8ab3ee39d6f8d]: Commencement: [Sch. 12 Pt. 28](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/28) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-c93fa723a29cce9f6ed8ab3ee39d6f8d]: Commencement: [Sch. 12 Pt. 28](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/28) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-4f3101b07ca920635b4a14cba8e3cf29]: Textual amendment: Words in [Sch. 12 Pt. 28](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/28) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/13)
+[^c-4f3101b07ca920635b4a14cba8e3cf29]: Textual amendment: Words in [Sch. 12 Pt. 28](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/28) Table inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/13)
 
-[^key-745c5a2baef35a51aea07070a87bc02e]: Textual amendment: Words in [Sch. 12 Pt. 28](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/28) Table substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(7)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/7)
+[^c-745c5a2baef35a51aea07070a87bc02e]: Textual amendment: Words in [Sch. 12 Pt. 28](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/28) Table substituted (S.) (23.5.2022) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2022 (S.S.I. 2022/111)](https://www.legislation.gov.uk/ssi/2022/111), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/111/regulation/1/2), [7(7)](https://www.legislation.gov.uk/ssi/2022/111/regulation/7/7)
 
-[^key-ac0b986ec09c37d8490b12c9c55d8919]: Commencement: [Sch. 12 Pt. 29 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ac0b986ec09c37d8490b12c9c55d8919]: Commencement: [Sch. 12 Pt. 29 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-4c5ecd34233060e960afb8099293bcca]: Commencement: [Sch. 12 Pt. 29 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4c5ecd34233060e960afb8099293bcca]: Commencement: [Sch. 12 Pt. 29 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-2692bdc38e08390dd597e3b6aa5ccf9c]: Commencement: [Sch. 12 Pt. 29 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-2692bdc38e08390dd597e3b6aa5ccf9c]: Commencement: [Sch. 12 Pt. 29 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0074d8fcad6fe97c6c4b688b1b0de016]: Commencement: [Sch. 12 Pt. 29 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0074d8fcad6fe97c6c4b688b1b0de016]: Commencement: [Sch. 12 Pt. 29 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/12/part/29/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

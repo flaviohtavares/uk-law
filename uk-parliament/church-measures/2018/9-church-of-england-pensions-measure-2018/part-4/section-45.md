@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 45. Status as trustee[^key-c6a6ba36f7ee72846643c5d44584c59f]
+## 45. Status as trustee[^c-c6a6ba36f7ee72846643c5d44584c59f]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a6ba36f7ee72846643c5d44584c59f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukcm/2018/9/section/45) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-c6a6ba36f7ee72846643c5d44584c59f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukcm/2018/9/section/45) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

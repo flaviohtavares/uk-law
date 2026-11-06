@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Disapplication and modification of legislative provisions[^key-2260af8be4d980ba00eefa902e14e758]
+## 52. Disapplication and modification of legislative provisions[^c-2260af8be4d980ba00eefa902e14e758]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2260af8be4d980ba00eefa902e14e758]: Commencement: Art. 52 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-2260af8be4d980ba00eefa902e14e758]: Commencement: Art. 52 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00097]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 32 was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

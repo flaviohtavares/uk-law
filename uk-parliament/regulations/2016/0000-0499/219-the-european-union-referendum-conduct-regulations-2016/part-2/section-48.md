@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Rejected ballot papers[^key-29d2d3190889861027dadc3430abec23]
+## 48. Rejected ballot papers[^c-29d2d3190889861027dadc3430abec23]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ is not to be treated as void for that reason if the voter’s intended answer to
 
 ## Annotations
 
-[^key-29d2d3190889861027dadc3430abec23]: Commencement: Reg. 48 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-29d2d3190889861027dadc3430abec23]: Commencement: Reg. 48 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

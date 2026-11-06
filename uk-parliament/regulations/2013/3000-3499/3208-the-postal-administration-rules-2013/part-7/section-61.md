@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Surrender for non-disclosure[^key-e140b444ea7a3b838e687e46b4d7e74e]
+## 61. Surrender for non-disclosure[^c-e140b444ea7a3b838e687e46b4d7e74e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e140b444ea7a3b838e687e46b4d7e74e]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2013/3208/rule/61) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e140b444ea7a3b838e687e46b4d7e74e]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2013/3208/rule/61) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

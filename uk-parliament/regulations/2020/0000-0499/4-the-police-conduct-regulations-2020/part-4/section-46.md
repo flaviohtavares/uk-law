@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Appeal meeting[^key-f1b9a642a3a248b92b3e7810d2aba74a]
+## 46. Appeal meeting[^c-f1b9a642a3a248b92b3e7810d2aba74a]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the appeal meeting must be postponed to the date or time proposed by the officer
 
 ## Annotations
 
-[^key-f1b9a642a3a248b92b3e7810d2aba74a]: Commencement: Reg. 46 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-f1b9a642a3a248b92b3e7810d2aba74a]: Commencement: Reg. 46 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

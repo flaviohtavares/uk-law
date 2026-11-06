@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(A1)[^key-eb821860c77bdeba585778ffef7dca0a] A person (“P”) who is disqualified (under section 68) from fostering a child privately must not carry on, or be otherwise concerned in the management of, or have any financial interest in, a children's home in England unless—
+(A1)[^c-eb821860c77bdeba585778ffef7dca0a] A person (“P”) who is disqualified (under section 68) from fostering a child privately must not carry on, or be otherwise concerned in the management of, or have any financial interest in, a children's home in England unless—
 
 - (a) P has, within the period of 28 days beginning with the day on which P became aware of P's disqualification, disclosed to the appropriate authority the fact that P is so disqualified, and
 - (b) P has obtained the appropriate authority's written consent.
@@ -30,12 +30,12 @@ summary: ''
 - (a) E has, within the period of 28 days beginning with the day on which E became aware of P's disqualification, disclosed to the appropriate authority the fact that P is so disqualified, and
 - (b) E has obtained the appropriate authority's written consent.
 
-(1) A person who is disqualified (under section 68) from fostering a child privately shall not carry on, or be otherwise concerned in the management of, or have any financial interest in a children’s home in Wales[^key-a91c802554d265f1111579e672466421] unless he has—
+(1) A person who is disqualified (under section 68) from fostering a child privately shall not carry on, or be otherwise concerned in the management of, or have any financial interest in a children’s home in Wales[^c-a91c802554d265f1111579e672466421] unless he has—
 
 - (a) disclosed to the appropriate authority[^c15167241] the fact that he is so disqualified; and
 - (b) obtained its written consent.
 
-(2) No person shall employ a person who is so disqualified in a children’s home in Wales[^key-1fc4a9efb46a39b1ec24cd49fb0f4a29] unless he has—
+(2) No person shall employ a person who is so disqualified in a children’s home in Wales[^c-1fc4a9efb46a39b1ec24cd49fb0f4a29] unless he has—
 
 - (a) disclosed to the appropriate authority the fact that that person is so disqualified; and
 - (b) obtained its written consent.
@@ -46,9 +46,9 @@ summary: ''
 - (b)[^c15167291] the applicant’s right to appeal under section 65A against the refusal to the First-tier Tribunal[^c19946061]
 - (c) the time within which he may do so.
 
-(4) Any person who contravenes subsection (A1), (A2),[^key-bc957062652e2179abe45d0fe62da191] (1) or (2) shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
+(4) Any person who contravenes subsection (A1), (A2),[^c-bc957062652e2179abe45d0fe62da191] (1) or (2) shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both.
 
-(5) Where a person contravenes subsection (A2) or[^key-8e944917d2bc0ac8fed0d2785e8ef470] (2) he shall not be guilty of an offence if he proves that he did not know, and had no reasonable grounds for believing, that the person whom he was employing was disqualified under section 68.
+(5) Where a person contravenes subsection (A2) or[^c-8e944917d2bc0ac8fed0d2785e8ef470] (2) he shall not be guilty of an offence if he proves that he did not know, and had no reasonable grounds for believing, that the person whom he was employing was disqualified under section 68.
 
 (6)[^c15167311] In this section and section 65A “**appropriate authority**” means—
 
@@ -61,13 +61,13 @@ summary: ''
 
 [^c18897021]: Modification: S. 65: transfer of functions (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 148(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/148/3), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-eb821860c77bdeba585778ffef7dca0a]: Textual amendment: S. 65(A1)(A2) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/2), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
+[^c-eb821860c77bdeba585778ffef7dca0a]: Textual amendment: S. 65(A1)(A2) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/2), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
 
-[^key-a91c802554d265f1111579e672466421]: Textual amendment: Words in s. 65(1) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
+[^c-a91c802554d265f1111579e672466421]: Textual amendment: Words in s. 65(1) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
 
 [^c15167241]: Textual amendment: Words in s. 65(1)(a)(b)(2)(a)(b) substituted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 14(13)(a)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/14/13/a); [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2002/1493/article/3/2/b) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/1493/article/4)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
-[^key-1fc4a9efb46a39b1ec24cd49fb0f4a29]: Textual amendment: Words in s. 65(2) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/4), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
+[^c-1fc4a9efb46a39b1ec24cd49fb0f4a29]: Textual amendment: Words in s. 65(2) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/4), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
 
 [^c15167281]: Textual amendment: Words in s. 65(3) substituted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 14(13)(b)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/14/13/b); [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2002/1493/article/3/2/b) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/1493/article/4)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
@@ -75,9 +75,9 @@ summary: ''
 
 [^c19946061]: Textual amendment: Words in s. 65(3)(b) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 6](https://www.legislation.gov.uk/uksi/2008/2833/article/6), [Sch. 3 para. 72](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/72)
 
-[^key-bc957062652e2179abe45d0fe62da191]: Textual amendment: Words in s. 65(4) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/5), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
+[^c-bc957062652e2179abe45d0fe62da191]: Textual amendment: Words in s. 65(4) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/5), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
 
-[^key-8e944917d2bc0ac8fed0d2785e8ef470]: Textual amendment: Words in s. 65(5) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/6), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
+[^c-8e944917d2bc0ac8fed0d2785e8ef470]: Textual amendment: Words in s. 65(5) inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/105/6), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/375/article/2/d)
 
 [^c15167311]: Textual amendment: S. 65(6) inserted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 14(13)(d)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/14/13/d); [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2002/1493/article/3/2/b) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/1493/article/4)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 

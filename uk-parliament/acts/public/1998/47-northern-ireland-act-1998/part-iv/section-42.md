@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Petitions of concern.[^key-0863b60f8cdab04dd18c6b5d1b6098a0]
+## 42. Petitions of concern.[^c-0863b60f8cdab04dd18c6b5d1b6098a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the vote on that matter requires cross-community support.
 
 ## Annotations
 
-[^key-0863b60f8cdab04dd18c6b5d1b6098a0]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/1998/47/section/42) substituted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 6](https://www.legislation.gov.uk/ukpga/2022/2/section/6), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-0863b60f8cdab04dd18c6b5d1b6098a0]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/1998/47/section/42) substituted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 6](https://www.legislation.gov.uk/ukpga/2022/2/section/6), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)

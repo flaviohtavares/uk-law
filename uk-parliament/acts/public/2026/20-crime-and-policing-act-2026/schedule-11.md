@@ -24,7 +24,7 @@ summary: ''
 
 Section 81
 
-### 1. Firearms Act [1968 (c.27)](https://www.legislation.gov.uk/ukpga/1968/27)[^key-78f0fe407431520c436d55e3fadf292d]
+### 1. Firearms Act [1968 (c.27)](https://www.legislation.gov.uk/ukpga/1968/27)[^c-78f0fe407431520c436d55e3fadf292d]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ Section 81
 
 .
 
-### 2. Internationally Protected Persons Act [1978 (c.17)](https://www.legislation.gov.uk/ukpga/1978/17)[^key-07582f0d5aa2aee8b4dd4477f85b51b5]
+### 2. Internationally Protected Persons Act [1978 (c.17)](https://www.legislation.gov.uk/ukpga/1978/17)[^c-07582f0d5aa2aee8b4dd4477f85b51b5]
 
 (1) [Section 1](https://www.legislation.gov.uk/ukpga/1978/17/section/1)[(1A)](https://www.legislation.gov.uk/ukpga/1978/17/section/1) of the [Internationally Protected Persons Act 1978](https://www.legislation.gov.uk/ukpga/1978/17/contents) (offences for purposes of section 1) is amended as follows.
 
@@ -53,7 +53,7 @@ Section 81
 
 .
 
-### 3. Suppression of Terrorism Act [1978 (c.26)](https://www.legislation.gov.uk/ukpga/1978/26)[^key-b73f8260d7bb40910e26de9b06e71228]
+### 3. Suppression of Terrorism Act [1978 (c.26)](https://www.legislation.gov.uk/ukpga/1978/26)[^c-b73f8260d7bb40910e26de9b06e71228]
 
 (1) [Paragraph 9](https://www.legislation.gov.uk/ukpga/1978/26/schedule/1/paragraph/9) of [Schedule 1](https://www.legislation.gov.uk/ukpga/1978/26/schedule/1) to the [Suppression of Terrorism Act 1978](https://www.legislation.gov.uk/ukpga/1978/26/contents) is amended as follows.
 
@@ -66,7 +66,7 @@ Section 81
 
 .
 
-### 4. Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48)[^key-a34959fdd68a9022f36cc27409396fca]
+### 4. Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48)[^c-a34959fdd68a9022f36cc27409396fca]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ Section 81
 > - Section 8B (assault of a child under 16 by penetration).
 > - Section 8C (causing or inciting a child under 16 to engage in sexual activity involving penetration), where the activity was caused.
 
-### 5. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^key-bd27730940b696bcc3a1ee09cef8287a]
+### 5. Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41)[^c-bd27730940b696bcc3a1ee09cef8287a]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ In Schedule ZA1 to the Children Act 1989 (serious sexual offences for the purpos
 
 .
 
-### 6. Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33)[^key-36ff832a56b73311d1c699774047c73b]
+### 6. Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33)[^c-36ff832a56b73311d1c699774047c73b]
 
 *Extent: E+W*
 
@@ -108,11 +108,11 @@ In Schedule ZA1 to the Children Act 1989 (serious sexual offences for the purpos
 
 .
 
-### 7. Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53)[^key-9d8a7def1e3b4f10bfd163b4e8fb2fc9]
+### 7. Criminal Injuries Compensation Act [1995 (c. 53)](https://www.legislation.gov.uk/ukpga/1995/53)[^c-9d8a7def1e3b4f10bfd163b4e8fb2fc9]
 
 In [section 11](https://www.legislation.gov.uk/ukpga/1995/53/section/11)[(9)](https://www.legislation.gov.uk/ukpga/1995/53/section/11) of the [Criminal Injuries Compensation Act 1995](https://www.legislation.gov.uk/ukpga/1995/53/contents) (definition of “rape”), for “or 5” substitute “, 5 or 8A”.
 
-### 8. Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43)[^key-4d5fce21c0a74fa66d06b42541d52a4f]
+### 8. Crime (Sentences) Act [1997 (c. 43)](https://www.legislation.gov.uk/ukpga/1997/43)[^c-4d5fce21c0a74fa66d06b42541d52a4f]
 
 In [section 32ZAB](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZAB)[(1)](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZAB) of the [Crime (Sentences) Act 1997](https://www.legislation.gov.uk/ukpga/1997/43/contents) (specified offences for purposes of section 32ZAA), after [paragraph (f)](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZAB) insert—
 
@@ -120,7 +120,7 @@ In [section 32ZAB](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZAB)[(
 
 .
 
-### 9. Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^key-39229993c1c284afeea85b9c9cdbad25]
+### 9. Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^c-39229993c1c284afeea85b9c9cdbad25]
 
 (1) The [Criminal Justice Act 2003](https://www.legislation.gov.uk/ukpga/2003/44/contents) is amended as follows.
 
@@ -180,7 +180,7 @@ In [section 32ZAB](https://www.legislation.gov.uk/ukpga/1997/43/section/32ZAB)[(
 
 .
 
-### 10. Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12)[^key-085dd2b6953ca29d352d1add9844403a]
+### 10. Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12)[^c-085dd2b6953ca29d352d1add9844403a]
 
 *Extent: E+W*
 
@@ -190,7 +190,7 @@ In [section 116](https://www.legislation.gov.uk/ukpga/2014/12/section/116)[(8)](
 
 .
 
-### 11. Modern Slavery Act [2015 (c.30)](https://www.legislation.gov.uk/ukpga/2015/30)[^key-46bc4958a27aa7a9b4a5477492d668eb]
+### 11. Modern Slavery Act [2015 (c.30)](https://www.legislation.gov.uk/ukpga/2015/30)[^c-46bc4958a27aa7a9b4a5477492d668eb]
 
 *Extent: E+W*
 
@@ -202,7 +202,7 @@ In [paragraph 33](https://www.legislation.gov.uk/ukpga/2015/30/schedule/4/paragr
 
 .
 
-### 12. Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17)[^key-f40d8588c686708c9c4532494f71930d]
+### 12. Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17)[^c-f40d8588c686708c9c4532494f71930d]
 
 *Extent: E+W*
 
@@ -246,26 +246,26 @@ In [paragraph 33](https://www.legislation.gov.uk/ukpga/2015/30/schedule/4/paragr
 
 ## Annotations
 
-[^key-78f0fe407431520c436d55e3fadf292d]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-78f0fe407431520c436d55e3fadf292d]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-07582f0d5aa2aee8b4dd4477f85b51b5]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-07582f0d5aa2aee8b4dd4477f85b51b5]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b73f8260d7bb40910e26de9b06e71228]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b73f8260d7bb40910e26de9b06e71228]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a34959fdd68a9022f36cc27409396fca]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a34959fdd68a9022f36cc27409396fca]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-bd27730940b696bcc3a1ee09cef8287a]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bd27730940b696bcc3a1ee09cef8287a]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-36ff832a56b73311d1c699774047c73b]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-36ff832a56b73311d1c699774047c73b]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9d8a7def1e3b4f10bfd163b4e8fb2fc9]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9d8a7def1e3b4f10bfd163b4e8fb2fc9]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4d5fce21c0a74fa66d06b42541d52a4f]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4d5fce21c0a74fa66d06b42541d52a4f]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-39229993c1c284afeea85b9c9cdbad25]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-39229993c1c284afeea85b9c9cdbad25]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-085dd2b6953ca29d352d1add9844403a]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-085dd2b6953ca29d352d1add9844403a]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-46bc4958a27aa7a9b4a5477492d668eb]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-46bc4958a27aa7a9b4a5477492d668eb]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f40d8588c686708c9c4532494f71930d]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f40d8588c686708c9c4532494f71930d]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

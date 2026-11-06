@@ -24,14 +24,14 @@ Regulation 26
 
 ### PART 1 — Provision of Services
 
-#### 1. Premises[^key-bcd009b1e28aa3f60290d0832f1f30de]
+#### 1. Premises[^c-bcd009b1e28aa3f60290d0832f1f30de]
 
 Subject to any plan which is included in the contract pursuant to regulation 18(3), the contractor shall ensure that the premises used for the provision of services under the contract are—
 
 - (a) suitable for the delivery of those services; and
 - (b) sufficient to meet the reasonable needs of the contractor’s patients.
 
-#### 2. Attendance at practice premises[^key-2d2b71c097fb4d2353a75cf5d5e79548]
+#### 2. Attendance at practice premises[^c-2d2b71c097fb4d2353a75cf5d5e79548]
 
 (1) The contractor shall take steps to ensure that any patient who—
 
@@ -45,7 +45,7 @@ is provided with such services by an appropriate health care professional during
 - (a) it is more appropriate for the patient to be referred elsewhere for services under the Act; or
 - (b) the patient is then offered an appointment to attend again within a time which is appropriate and reasonable having regard to all the circumstances and the patient’s health would not thereby be jeopardised.
 
-#### 3. Attendance outside practice premises[^key-da7bebcbcd7f9fff91e5fb77873a6dde]
+#### 3. Attendance outside practice premises[^c-da7bebcbcd7f9fff91e5fb77873a6dde]
 
 (1) In the case of a patient whose medical condition is such that in the reasonable opinion of the contractor—
 
@@ -65,7 +65,7 @@ the contractor shall provide services to that patient at whichever in its judgem
 - (a) arranging for the referral of a patient without first seeing the patient, in a case where the medical condition of that patient makes that course of action appropriate; or
 - (b) visiting the patient in circumstances where this paragraph does not place it under an obligation to do so.
 
-#### 4. Newly registered patients[^key-229312262444be008a94e809a7bb1890]
+#### 4. Newly registered patients[^c-229312262444be008a94e809a7bb1890]
 
 (1) Where a patient has been—
 
@@ -78,7 +78,7 @@ the contractor shall, in addition to and without prejudice to its other obligati
 
 (3) Where a patient (or, where appropriate, in the case of a patient who is a child, the child’s parent) agrees to participate in a consultation mentioned in sub-paragraph (1) the contractor shall, in the course of that consultation make such inquiries and undertake such examinations as appear to it to be appropriate in all the circumstances.
 
-#### 5. Patients not seen within 3 years[^key-86594b521f97ef5b59d2bb917929a1c0]
+#### 5. Patients not seen within 3 years[^c-86594b521f97ef5b59d2bb917929a1c0]
 
 (1) Where a registered patient who—
 
@@ -87,7 +87,7 @@ the contractor shall, in addition to and without prejudice to its other obligati
 
 requests a consultation the contractor shall, in addition and without prejudice to the contractor’s other obligations in respect of that patient under the contract, provide such a consultation in the course of which the contractor shall make such inquiries and undertake such examinations as appear to the contractor to be appropriate in all the circumstances.
 
-#### 6. Patients aged 75 years and over[^key-679ec1159b889b173c853c7870c9ef1a]
+#### 6. Patients aged 75 years and over[^c-679ec1159b889b173c853c7870c9ef1a]
 
 (1) Where a registered patient who—
 
@@ -98,7 +98,7 @@ requests a consultation, the contractor shall, in addition and without prejudice
 
 (2) A consultation under sub-paragraph (1) shall take place in the home of the patient where, in the reasonable opinion of the contractor, it would be inappropriate, as a result of the patient’s medical condition, for the patient to attend at the practice premises.
 
-#### 7. Clinical reports[^key-f0fc8c5e9daab3d3a200c55653ac6abb]
+#### 7. Clinical reports[^c-f0fc8c5e9daab3d3a200c55653ac6abb]
 
 (1) Where the contractor provides any clinical services, other than under a private arrangement, to a patient who is not on the contractor’s list of patients, the contractor shall, as soon as reasonably practicable, provide a clinical report relating to the consultation, and any treatment provided, to the Health Board.
 
@@ -107,26 +107,26 @@ requests a consultation, the contractor shall, in addition and without prejudice
 - (a) to the person with whom the patient is registered for the provision of essential services or their equivalent; or
 - (b) if the person referred to in paragraph (a) is not known to it, to the Health Board in whose area the patient is resident.
 
-#### 8. Storage of vaccines[^key-268ff64bdadf47255faad8e5518f3c63]
+#### 8. Storage of vaccines[^c-268ff64bdadf47255faad8e5518f3c63]
 
 The contractor shall ensure that—
 
 - (a) all vaccines are stored in accordance with the manufacturer’s instructions; and
 - (b) all refrigerators in which vaccines are stored have a maximum/minimum thermometer and that readings are taken on all working days.
 
-#### 9. Infection control[^key-13c8870a73edfdf7520f3a4e805f73d4]
+#### 9. Infection control[^c-13c8870a73edfdf7520f3a4e805f73d4]
 
 The contractor shall ensure that it has appropriate arrangements for infection control and decontamination.
 
-#### 10. Criteria for out of hours services[^key-0f3a44de3b93396460bc8ed0d0580ad8]
+#### 10. Criteria for out of hours services[^c-0f3a44de3b93396460bc8ed0d0580ad8]
 
 A contractor whose contract includes the provision of out of hours services shall only be required to provide such services if, in the reasonable opinion of the contractor in the light of the patient’s medical condition, it would not be reasonable in all the circumstances for the patient to wait for the services required until the next time at which the patient could obtain such services during core hours.
 
-#### 11. Standards for out of hours services[^key-4c064e8e63c63834877633a1cddc0b08]
+#### 11. Standards for out of hours services[^c-4c064e8e63c63834877633a1cddc0b08]
 
 From 1st January 2005, a contractor which provides out of hours services must, in the provision of such services, meet the quality standards set out from time to time in guidance which has been issued to Health Boards by NHS Quality Improvement Scotland and notified in writing to the contractor by the Health Board.
 
-#### 12. Duty of co-operation in relation to additional, enhanced and out of hours services[^key-4ff6bcc84b05fa8e3db6dcd4f482c836]
+#### 12. Duty of co-operation in relation to additional, enhanced and out of hours services[^c-4ff6bcc84b05fa8e3db6dcd4f482c836]
 
 (1) A contractor which does not provide to its registered patients or to persons whom it has accepted as temporary residents—
 
@@ -144,7 +144,7 @@ shall comply with the requirements specified in sub-paragraph (2).
 
 (3) Nothing in this paragraph shall require a contractor whose contract does not include the provision of out of hours services to make itself available during the out of hours period.
 
-#### 13. Duty of co-operation in relation to additional, enhanced and out of hours services[^key-798b9c2010efab4161fc0063168e1e0f]
+#### 13. Duty of co-operation in relation to additional, enhanced and out of hours services[^c-798b9c2010efab4161fc0063168e1e0f]
 
 Where a contractor is to cease to be required to provide to its patients—
 
@@ -156,14 +156,14 @@ it shall comply with any reasonable request for information relating to the prov
 
 ### PART 2 — Patients
 
-#### 14. List of patients[^key-17e9b501ee929ba83155f8340b533475]
+#### 14. List of patients[^c-17e9b501ee929ba83155f8340b533475]
 
 The Health Board shall prepare and keep up to date a list of the patients—
 
 - (a) who have been accepted by the contractor for inclusion in its list of patients under paragraph 15 and who have not subsequently been removed from that list under paragraphs 19 to 27; and
 - (b) who have been assigned to the contractor under paragraph 32 or 33 and whose assignment has not subsequently been rescinded.
 
-#### 15. Application for inclusion in a list of patients[^key-7e41f2077af855097acc9072891de2f2]
+#### 15. Application for inclusion in a list of patients[^c-7e41f2077af855097acc9072891de2f2]
 
 (1) The contractor may, if its list of patients is open, accept an application for inclusion in its list of patients made by or on behalf of any person whether or not resident in its practice area or included, at the time of that application, in the list of patients of another contractor or provider of primary medical services.
 
@@ -186,7 +186,7 @@ The Health Board shall prepare and keep up to date a list of the patients—
 - (a) include that person in the contractor’s list of patients from the date on which the notice is received; and
 - (b) notify the applicant (or, in the case of a child or incapable adult, the person making the application on their behalf) of the acceptance.
 
-#### 16. Temporary residents[^key-0319c19a06f4b5f052c9af92ff093f10]
+#### 16. Temporary residents[^c-0319c19a06f4b5f052c9af92ff093f10]
 
 (1) The contractor may, if its list of patients is open, accept a person as a temporary resident provided it is satisfied that the person is—
 
@@ -204,7 +204,7 @@ shall notify the person either orally or in writing and its responsibility for t
 
 (4) At the end of three months, or on such earlier date as its responsibility for the temporary resident has come to an end, the contractor shall notify the Health Board in writing of any person whom it accepted as a temporary resident.
 
-#### 17. Refusal of application for inclusion in the list of patients or for acceptance as a temporary resident[^key-f4dfae5420a1d5b1da56af0ba5b61d80]
+#### 17. Refusal of application for inclusion in the list of patients or for acceptance as a temporary resident[^c-f4dfae5420a1d5b1da56af0ba5b61d80]
 
 (1) The contractor shall only refuse an application made under paragraph 15 or 16 if it has reasonable grounds for doing so which do not relate to the applicant’s race, gender, social class, age, religion, sexual orientation, appearance, disability or medical condition.
 
@@ -214,7 +214,7 @@ shall notify the person either orally or in writing and its responsibility for t
 
 (4) The contractor shall keep a written record of refusals of applications made under paragraph 15 and of the reasons for them and shall make this record available to the Health Board on request.
 
-#### 18. Patient preference of practitioner[^key-5b5ddc3a61f674c0b4ed3c94e5efff10]
+#### 18. Patient preference of practitioner[^c-5b5ddc3a61f674c0b4ed3c94e5efff10]
 
 (1) Where the contractor has accepted an application for inclusion in its list of patients, it shall—
 
@@ -226,7 +226,7 @@ shall notify the person either orally or in writing and its responsibility for t
 - (a) has reasonable grounds for refusing to provide services to the patient; or
 - (b) does not routinely perform the service in question within the practice.
 
-#### 19. Removal from the list at the request of the patient[^key-c0663aa245897b14dd9ff3fa1f372b82]
+#### 19. Removal from the list at the request of the patient[^c-c0663aa245897b14dd9ff3fa1f372b82]
 
 (1) The contractor shall notify the Health Board in writing of any request for removal from its list of patients received from a registered patient.
 
@@ -256,7 +256,7 @@ that the patient’s name will be or has been removed from the contractor’s li
 - (a) in the case of a patient who is a child, a parent or other person referred to in paragraph 15(4)(a); or
 - (b) in the case of an adult patient who is incapable of making the relevant request or receiving the relevant advice, information or notification, a relative or the primary carer of the patient.
 
-#### 20. Removal from the list at the request of the contractor[^key-7bec2c0b02453f28446caa0bac8a1bfd]
+#### 20. Removal from the list at the request of the contractor[^c-7bec2c0b02453f28446caa0bac8a1bfd]
 
 (1) Subject to paragraph 21, a contractor which has reasonable grounds for wishing a patient to be removed from its list of patients which do not relate to the applicant’s race, gender, social class, age, religion, sexual orientation, appearance, disability or medical condition shall—
 
@@ -325,7 +325,7 @@ whichever is the sooner.
 
 that the patient’s name has been or will be removed from the contractor’s list of patients on the date referred to in sub-paragraph (8) or (9).
 
-#### 21. Removal from the list of patients who are violent[^key-ca54564e57a343c54e46c4fcc953bf7f]
+#### 21. Removal from the list of patients who are violent[^c-ca54564e57a343c54e46c4fcc953bf7f]
 
 (1) A contractor which wishes a patient to be removed from its list of patients with immediate effect on the grounds that—
 
@@ -365,7 +365,7 @@ shall notify the Health Board in accordance with sub-paragraph (3).
 
 (8) Where a patient is removed from the contractor’s list of patients in accordance with this paragraph, the contractor shall record in the patient’s medical records that the patient has been removed under this paragraph and the circumstances leading to the patient’s removal.
 
-#### 22. Removals from the list of patients registered elsewhere[^key-1d742f43d026a9904447286dcc7409ec]
+#### 22. Removals from the list of patients registered elsewhere[^c-1d742f43d026a9904447286dcc7409ec]
 
 (1) The Health Board shall remove a patient from the contractor’s list of patients if—
 
@@ -379,7 +379,7 @@ shall notify the Health Board in accordance with sub-paragraph (3).
 
 (3) The Health Board shall notify the contractor in writing of patients removed from its list of patients under sub-paragraph (1).
 
-#### 23. Removals from the list of patients who have moved[^key-16e5c294ecbe06040e1fbe696e5fff58]
+#### 23. Removals from the list of patients who have moved[^c-16e5c294ecbe06040e1fbe696e5fff58]
 
 (1) Subject to sub-paragraph (2), where the Health Board is satisfied that a person on the contractor’s list of patients has moved and no longer resides in that contractor’s practice area, the Board shall—
 
@@ -389,14 +389,14 @@ shall notify the Health Board in accordance with sub-paragraph (3).
 
 (2) If, at the expiration of the period of 30 days referred to in sub-paragraph (1)(c), the Health Board has not been notified of the action taken, it shall remove the patient from the contractor’s list of patients and inform the patient and the contractor accordingly.
 
-#### 24. Removals from the list of patients who have moved[^key-96c691a88aaafa1ab94eaee037acf641]
+#### 24. Removals from the list of patients who have moved[^c-96c691a88aaafa1ab94eaee037acf641]
 
 Where the address of a patient who is on the contractor’s list of patients is no longer known to the Health Board, the Health Board shall—
 
 - (a) give to the contractor notice in writing that it intends, at the end of the period of six months commencing with the date of the notice, to remove the patient from the contractor’s list of patients; and
 - (b) at the end of that period, remove the patient from the contractor’s list of patients unless, within that period, the contractor satisfies the Health Board that it is still responsible for providing essential services to that patient.
 
-#### 25. Removals from the list of patients absent from the United Kingdom etc.[^key-f45a77b69cf8280fff9b3309d2ba44f6]
+#### 25. Removals from the list of patients absent from the United Kingdom etc.[^c-f45a77b69cf8280fff9b3309d2ba44f6]
 
 (1) The Health Board shall remove a patient from the contractor’s list of patients where it receives notification that that patient—
 
@@ -412,7 +412,7 @@ Where the address of a patient who is on the contractor’s list of patients is 
 
 (3) The Health Board shall notify the contractor in writing of patients removed from its list of patients under sub-paragraph (1).
 
-#### 26. Removals from the list of patients accepted elsewhere as temporary residents[^key-a9cb4561a4bda67911a14f073c61993d]
+#### 26. Removals from the list of patients accepted elsewhere as temporary residents[^c-a9cb4561a4bda67911a14f073c61993d]
 
 (1) The Health Board shall remove from the contractor’s list of patients a patient who has been accepted as a temporary resident by another contractor or other provider of essential services (or their equivalent) where it is satisfied, after due inquiry—
 
@@ -429,7 +429,7 @@ Where the address of a patient who is on the contractor’s list of patients is 
 - (a) the patient’s entitlement to make arrangements for the provision to the patient of essential services (or their equivalent), including by the contractor by which the patient has been treated as a temporary resident; and
 - (b) the name and address of the Health Board in whose area the patient is resident.
 
-#### 27. Removals from the list of pupils etc. of a school[^key-ca0f89b60989570abcc0bf90b79037a1]
+#### 27. Removals from the list of pupils etc. of a school[^c-ca0f89b60989570abcc0bf90b79037a1]
 
 (1) Where the contractor provides essential services under the contract to persons on the grounds that they are pupils at or staff or residents of a school, the Health Board shall remove from the contractor’s list of patients any such persons who do not appear on particulars of persons who are pupils at or staff or residents of that school provided by that school.
 
@@ -437,7 +437,7 @@ Where the address of a patient who is on the contractor’s list of patients is 
 
 (3) The Health Board shall notify the contractor in writing of patients removed from its list of patients under sub-paragraph (1).
 
-#### 28. Termination of responsibility for patients not registered with the contractor[^key-e72d91f9f9be6a441b4c9fbea69876ac]
+#### 28. Termination of responsibility for patients not registered with the contractor[^c-e72d91f9f9be6a441b4c9fbea69876ac]
 
 (1) Where a contractor—
 
@@ -466,7 +466,7 @@ its responsibility for that patient shall be terminated in one of the circumstan
 - (a) from the date on which the notice is given where the grounds for termination are those specified in paragraph 21(1); or
 - (b) in all other cases, 14 days from the date on which the notice is given.
 
-#### 29. Closure of lists of patients[^key-b938d5bd5819a0fd310956d9553387ad]
+#### 29. Closure of lists of patients[^c-b938d5bd5819a0fd310956d9553387ad]
 
 (1) A contractor which wishes to close its list of patients shall notify the Health Board in writing to that effect.
 
@@ -510,7 +510,7 @@ and shall notify the contractor of its decision in writing as soon as possible.
 
 (13) Approval of the closure notice under sub-paragraph (12)(a) includes approval of the details specified in accordance with sub-paragraph (8) (or, where those details are revised following discussions under sub-paragraph (10), approval of those details as so revised).
 
-#### 30. Approval of closure notice by the Health Board[^key-5054294d5c1f145737df585cf10b5d20]
+#### 30. Approval of closure notice by the Health Board[^c-5054294d5c1f145737df585cf10b5d20]
 
 (1) If the Health Board approves the closure notice in accordance with paragraph 29(12)(a), the contractor shall close its list of patients—
 
@@ -530,7 +530,7 @@ and shall notify the contractor of its decision in writing as soon as possible.
 
 (6) Where the details specified in the closure notice in accordance with paragraph 29(8) have been revised following discussions under paragraph 29(10), references in this paragraph to details specified in the closure notice are references to those details as so revised.
 
-#### 31. Rejection of closure notice by the Health Board[^key-f1cc24ee2657a74e7aa7c6ba7f911109]
+#### 31. Rejection of closure notice by the Health Board[^c-f1cc24ee2657a74e7aa7c6ba7f911109]
 
 (1) This regulation applies where the Health Board rejects the closure notice in accordance with paragraph 29(12)(b).
 
@@ -565,7 +565,7 @@ whichever is the later unless there has been a change in the circumstances of th
 
 (10) Any decision or determination by the assessment panel for the purposes of this paragraph may be reached by a majority.
 
-#### 32. Assignment of patients to lists: open lists[^key-d4e7fd0d3426a1c5ce4b3f0a9ae377d2]
+#### 32. Assignment of patients to lists: open lists[^c-d4e7fd0d3426a1c5ce4b3f0a9ae377d2]
 
 (1) A Health Board may, subject to paragraph 34, assign a new patient to a contractor whose list of patients is open.
 
@@ -575,7 +575,7 @@ whichever is the later unless there has been a change in the circumstances of th
 - (b) has been refused inclusion in a list of patients of, or has not been accepted as a temporary resident by, a contractor whose premises are within such an area; and
 - (c) wishes to be included in the list of patients of a contractor whose practice premises are within that area.
 
-#### 33. Assignment of patients to lists: closed lists[^key-41eeec8d291e5c29660f1abd6b5e0e59]
+#### 33. Assignment of patients to lists: closed lists[^c-41eeec8d291e5c29660f1abd6b5e0e59]
 
 (1) A Health Board may not assign a new patient to a contractor which has closed its list of patients except in the circumstances specified in sub-paragraph (2).
 
@@ -585,7 +585,7 @@ whichever is the later unless there has been a change in the circumstances of th
 - (b) the assessment panel has determined under paragraph 35(7) that patients may be assigned to the contractor in question, and that determination has not been overturned either by a determination of the Scottish Ministers or the adjudicator under the NHS dispute resolution procedure as modified by paragraph 36(3) or (where applicable) by a court; and
 - (c) the Health Board has entered into discussions with the contractor in question regarding the assignment of a patient if such discussions are required under paragraph 37.
 
-#### 34. Factors relevant to assignments[^key-a407fbb47b42d527ce4e03eb8b442e3c]
+#### 34. Factors relevant to assignments[^c-a407fbb47b42d527ce4e03eb8b442e3c]
 
 In making an assignment to a contractor under paragraph 32 or 33, the Health Board shall have regard to—
 
@@ -595,7 +595,7 @@ In making an assignment to a contractor under paragraph 32 or 33, the Health Boa
 - (d) whether the patient’s name has been removed from the list of patients of any contractor in the area of the Health Board under paragraph 21 or its equivalent provision in relation to a section 17C provider in the area of the Health Board and, if so, whether the contractor has appropriate facilities to deal with such a patient;
 - (e) such other matters as the Health Board considers to be relevant.
 
-#### 35. Assignments to closed lists: determinations of the assessment panel[^key-e3a0b3bd0ab3eb4edf09168de353818b]
+#### 35. Assignments to closed lists: determinations of the assessment panel[^c-e3a0b3bd0ab3eb4edf09168de353818b]
 
 (1) This paragraph applies where most or all of the providers of essential services (or their equivalent) whose practice premises are within the area of a Health Board have closed their lists of patients.
 
@@ -627,7 +627,7 @@ that it has referred the matter to the assessment panel.
 
 (10) Any decision or determination by the assessment panel for the purposes of this paragraph may be reached by a majority.
 
-#### 36. Assignments to closed lists: NHS dispute resolution procedure relating to determinations of the assessment panel[^key-76b42897a71bb92bd9dbb264235f465f]
+#### 36. Assignments to closed lists: NHS dispute resolution procedure relating to determinations of the assessment panel[^c-76b42897a71bb92bd9dbb264235f465f]
 
 (1) Where an assessment panel makes a determination under paragraph 35(7) that the Health Board may assign new patients to contractors which have closed their lists of patients, any contractor specified in that determination may refer the matter to the Scottish Ministers to review the determination of the assessment panel.
 
@@ -661,7 +661,7 @@ that it has referred the matter to the assessment panel.
   ; and
 - (e) paragraph 92(2) shall not apply.
 
-#### 37. Assignments to closed lists: assignments of patients by a Health Board[^key-a9477d1d906fbd79eafb6b3456d432e9]
+#### 37. Assignments to closed lists: assignments of patients by a Health Board[^c-a9477d1d906fbd79eafb6b3456d432e9]
 
 (1) Before the Health Board may assign a new patient to a contractor, it shall, subject to sub-paragraph (3), enter into discussions with that contractor regarding additional support that the Health Board can offer the contractor, and the Health Board shall use its best endeavours to provide appropriate support.
 
@@ -674,11 +674,11 @@ that it has referred the matter to the assessment panel.
 
 ### PART 3 — Prescribing and Dispensing
 
-#### 38. Prescribing[^key-90e8ae7e40a56b017d2ece08cda287a7]
+#### 38. Prescribing[^c-90e8ae7e40a56b017d2ece08cda287a7]
 
 The contractor shall ensure that any prescription form for drugs, medicines or appliances issued by a prescriber complies as appropriate with the requirements in paragraphs 39 to 41.
 
-#### 39. Prescribing[^key-53e7f94bd48b25b6884b735b78290efe]
+#### 39. Prescribing[^c-53e7f94bd48b25b6884b735b78290efe]
 
 (1) Subject to paragraphs 40 and 41 a prescriber shall order any drugs, medicines or appliances which are needed for the treatment of any patient who is receiving treatment under the contract by issuing to that patient a prescription form and such a prescription form shall not be used in any other circumstances.
 
@@ -699,7 +699,7 @@ The contractor shall ensure that any prescription form for drugs, medicines or a
 - (b) in the case of a restricted availability appliance, the patient is a person, or it is for a purpose, specified in the Drug Tariff; and
 - (c) the prescriber undertakes to furnish the pharmacist, within 72 hours, with a prescription form completed in accordance with sub-paragraph (2).
 
-#### 40. Restrictions on prescribing by medical practitioners[^key-710330dd73d16790d4142b1d05bcddd8]
+#### 40. Restrictions on prescribing by medical practitioners[^c-710330dd73d16790d4142b1d05bcddd8]
 
 (1) In the course of treating a patient to whom a medical practitioner is providing treatment under the contract, the medical practitioner shall not order on a prescription form a drug, medicine or other substance specified in any directions given by the Scottish Ministers under section 17N(6) of the Act (Other mandatory contract terms)[^f00083] as being drugs, medicines or other substances which may not be ordered for patients in the provision of medical services under the contract but may, subject to regulation 24(2)(b), prescribe such a drug or other substance for that patient in the course of that treatment under a private arrangement.
 
@@ -718,7 +718,7 @@ but may, subject to regulation 24(2)(b), prescribe such a drug, medicine or othe
 
 but may, subject to regulation 24(2)(b), prescribe such an appliance for that patient in the course of that treatment under a private arrangement.
 
-#### 41. Restrictions on prescribing by supplementary prescribers[^key-fc115e247e19e97933fe2cc9f1dc8485]
+#### 41. Restrictions on prescribing by supplementary prescribers[^c-fc115e247e19e97933fe2cc9f1dc8485]
 
 (1) The contractor shall have arrangements in place to secure that a supplementary prescriber will—
 
@@ -784,17 +784,17 @@ as a supplementary prescriber under the conditions set out in sub-paragraph (4).
 
 (6) In relation to any time from the coming into force of any regulations made by the Secretary of State under section 2(2) of the European Communities Act 1972 (general implementation of treaties)[^f00086] to implement Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) on the Community code relating to medicinal products for human use[^f00087], sub-paragraph (4)(f)(ii) shall be read as if it referred to a clinical trial which has been authorised, or is treated as having been authorised by the licensing authority for the purposes of those Regulations.
 
-#### 42. Interpretation of paragraphs 38 to 41[^key-e6d358e57ec2f32a2f24cd449bf247b5]
+#### 42. Interpretation of paragraphs 38 to 41[^c-e6d358e57ec2f32a2f24cd449bf247b5]
 
 For the purposes of paragraphs 38 to 41, in their application to a contractor whose contract includes the provision of contraceptive services, drugs includes contraceptive substances and appliances includes contraceptive appliances.
 
-#### 43. Excessive prescribing[^key-4ecb0ffd9d7f7bbff3420cc4c6e5306d]
+#### 43. Excessive prescribing[^c-4ecb0ffd9d7f7bbff3420cc4c6e5306d]
 
 (1) The contractor shall not prescribe drugs, medicines or appliances whose cost or quantity, in relation to any patient, is, by reason of the character of the drug, medicine or appliance in question in excess of that which was reasonably necessary for the proper treatment of that patient.
 
 (2) In considering whether a contractor has breached its obligations under sub-paragraph (1), the Health Board shall seek the views of the area medical committee for its area.
 
-#### 44. Provision of dispensing services[^key-b2768fefe3832416596eb7be98fafbe4]
+#### 44. Provision of dispensing services[^c-b2768fefe3832416596eb7be98fafbe4]
 
 (1) A contractor may secure the provision of dispensing services to its registered patients only if it is authorised or required to do so by the Health Board in accordance with this paragraph.
 
@@ -840,7 +840,7 @@ will have serious difficulty in obtaining from a pharmacist any drugs, medicines
 
 (13) Nothing in this paragraph shall prevent a contractor providing a Scheduled drug or a restricted availability appliance in the course of treating a patient under a private arrangement.
 
-#### 45. Provision of drugs, medicines and appliances for immediate treatment or personal administration[^key-2e797da698b8e7e43775dd89e6429a23]
+#### 45. Provision of drugs, medicines and appliances for immediate treatment or personal administration[^c-2e797da698b8e7e43775dd89e6429a23]
 
 (1) Subject to sub-paragraph (2), a contractor—
 
@@ -853,7 +853,7 @@ but shall, in either case, provide a restricted availability appliance only if i
 
 ### PART 4 — Persons who perform services
 
-#### 46. Qualifications of performers[^key-b7423332eed934f21a8e548c86697410]
+#### 46. Qualifications of performers[^c-b7423332eed934f21a8e548c86697410]
 
 (1) Subject to sub-paragraph (2), no medical practitioner shall perform medical services under the contract unless the practitioner is—
 
@@ -867,19 +867,19 @@ but shall, in either case, provide a restricted availability appliance only if i
 - (b) a person who is provisionally registered under section 15 (provisional registration), 15A (provisional registration for EEA nationals) or 21 (provisional registration) of the Medical Act 1983[^f00092] acting in the course of the person’s employment in a resident medical capacity in an approved medical practice; or
 - (c) a GP Registrar during the first two months of the GP Registrar’s training period.
 
-#### 47. Qualifications of performers[^key-cad2ab5f4ec791f445eb18c3c2b6f5c7]
+#### 47. Qualifications of performers[^c-cad2ab5f4ec791f445eb18c3c2b6f5c7]
 
 No health care professional other than one to whom paragraph 46 applies shall perform clinical services under the contract unless the health care professional is appropriately registered with the health care professional’s relevant professional body and the health care professional’s registration is not currently suspended.
 
-#### 48. Qualifications of performers[^key-e70746800c39e37cd84179c13251e5e4]
+#### 48. Qualifications of performers[^c-e70746800c39e37cd84179c13251e5e4]
 
 Where the registration of a health care professional or, in the case of a medical practitioner, the practitioner’s inclusion in a list, is subject to conditions, the contractor shall ensure compliance with those conditions insofar as they are relevant to the contract.
 
-#### 49. Qualifications of performers[^key-84f561dc2738134a1a9e8de7a47ab9e6]
+#### 49. Qualifications of performers[^c-84f561dc2738134a1a9e8de7a47ab9e6]
 
 No health care professional shall perform any clinical services unless the health care professional has such clinical experience and training as are necessary to enable the health care professional properly to perform such services.
 
-#### 50. Conditions for employment and engagement[^key-b24daa0438e146ce237a5491cdb257a2]
+#### 50. Conditions for employment and engagement[^c-b24daa0438e146ce237a5491cdb257a2]
 
 (1) Subject to sub-paragraphs (2) and (3), a contractor shall not employ or engage a medical practitioner (other than one falling within paragraph 46(2)) unless—
 
@@ -893,7 +893,7 @@ No health care professional shall perform any clinical services unless the healt
 - (a) the name and address provided under sub-paragraph (1) may be the name and address of the Health Board on whose primary medical services performers list the GP Registrar has applied for inclusion; and
 - (b) confirmation that the GP Registrar’s name appears on that list shall not be required until the end of the first two months of the GP Registrar’s training period.
 
-#### 51. Conditions for employment and engagement[^key-babbbe670075944df5aceca30f835537]
+#### 51. Conditions for employment and engagement[^c-babbbe670075944df5aceca30f835537]
 
 (1) A contractor shall not employ or engage—
 
@@ -907,7 +907,7 @@ No health care professional shall perform any clinical services unless the healt
 - (a) any post-graduate or post-registration qualification held by the health care professional; and
 - (b) any relevant training undertaken by the health care professional and any relevant clinical experience gained by the health care professional.
 
-#### 52. Conditions for employment and engagement[^key-0c6039fe7b6e821ab4095b8635053719]
+#### 52. Conditions for employment and engagement[^c-0c6039fe7b6e821ab4095b8635053719]
 
 (1) The contractor shall not employ or engage a health care professional to perform medical services under the contract unless—
 
@@ -918,7 +918,7 @@ No health care professional shall perform any clinical services unless the healt
 
 (3) Where the contractor employs or engages the same person on more than one occasion within a period of three months, it may rely on the references provided on the first occasion, provided that those references are not more than twelve months old.
 
-#### 53. Conditions for employment and engagement[^key-73a19cc1187d1c6b67e52dc024e91b8e]
+#### 53. Conditions for employment and engagement[^c-73a19cc1187d1c6b67e52dc024e91b8e]
 
 (1) Before employing or engaging any person to assist it in the provision of services under the contract, the contractor shall take reasonable care to satisfy itself that the person in question is both suitably qualified and competent to discharge the duties for which the person is to be employed or engaged.
 
@@ -930,7 +930,7 @@ No health care professional shall perform any clinical services unless the healt
 - (b) that person’s education and training; and
 - (c) that person’s previous employment or work experience.
 
-#### 54. Training[^key-77283336e40e3089e11fd8a6864e89cb]
+#### 54. Training[^c-77283336e40e3089e11fd8a6864e89cb]
 
 The contractor shall ensure that for any health care professional who is—
 
@@ -939,15 +939,15 @@ The contractor shall ensure that for any health care professional who is—
 
 there are in place arrangements for the purpose of maintaining and updating the health care professional’s skills and knowledge in relation to the services which the health care professional is performing or assisting in performing.
 
-#### 55. Training[^key-6144acd078145fde299bbea3f29a6c65]
+#### 55. Training[^c-6144acd078145fde299bbea3f29a6c65]
 
 The contractor shall afford to each employee reasonable opportunities to undertake appropriate training with a view to maintaining that employee’s competence.
 
-#### 56. Terms and conditions[^key-f35c08b8bddf1c07243d9d5751923f55]
+#### 56. Terms and conditions[^c-f35c08b8bddf1c07243d9d5751923f55]
 
 The contractor shall only offer employment to a general medical practitioner on terms and conditions which are no less favourable than those contained in the “Model terms and conditions of service for a salaried general practitioner employed by a GMS practice” published by the British Medical Association and the NHS Confederation as item 1.2 of the supplementary documents to the new GMS contract 2003[^f00093].
 
-#### 57. Arrangements for GP Registrars[^key-fa28949ca39d086cc16cf45de4558302]
+#### 57. Arrangements for GP Registrars[^c-fa28949ca39d086cc16cf45de4558302]
 
 (1) The contractor shall only employ a GP Registrar for the purpose of being trained by a GP Trainer with the agreement of the Scottish Ministers and subject to the conditions in sub-paragraph (2).
 
@@ -958,7 +958,7 @@ The contractor shall only offer employment to a general medical practitioner on 
 - (a) offer the GP Registrar terms of employment in accordance with the rates and subject to the conditions contained in any directions given by the Scottish Ministers to Health Boards under section 17M of the Act[^f00094] concerning the grants, fees, travelling and other allowances payable to GP Registrars; and
 - (b) take into account any guidance issued by the Scottish Ministers in relation to the GP Registrar Scheme[^f00095].
 
-#### 58. Independent nurse prescribers and supplementary prescribers[^key-c43dcc7f2ce8cc1dbdfef2965b39043c]
+#### 58. Independent nurse prescribers and supplementary prescribers[^c-c43dcc7f2ce8cc1dbdfef2965b39043c]
 
 (1) Where—
 
@@ -999,7 +999,7 @@ it shall notify the Health Board in writing by the end of the second working day
   - (iii) the person’s functions changed so as no longer to include prescribing, or
   - (iv) on which the person was removed or suspended from the relevant register.
 
-#### 59. Signing of documents[^key-e8199eef55b5ea3bed5b01d89a22c6ee]
+#### 59. Signing of documents[^c-e8199eef55b5ea3bed5b01d89a22c6ee]
 
 (1) In addition to any other requirements relating to such documents whether in these Regulations or otherwise, the contractor shall ensure that the documents specified in sub-paragraph (2) include—
 
@@ -1012,11 +1012,11 @@ it shall notify the Health Board in writing by the end of the second working day
 - (b) prescription forms; and
 - (c) any other clinical documents.
 
-#### 60. Level of skill[^key-3fe3aaf2aad3e97d31f7dcd74045083e]
+#### 60. Level of skill[^c-3fe3aaf2aad3e97d31f7dcd74045083e]
 
 The contractor shall carry out its obligations under the contract with reasonable skill and care.
 
-#### 61. Appraisal and assessment[^key-6fe336d96290987abfcee1536d761750]
+#### 61. Appraisal and assessment[^c-6fe336d96290987abfcee1536d761750]
 
 (1) The contractor shall ensure that any medical practitioner performing services under the contract—
 
@@ -1030,7 +1030,7 @@ The contractor shall carry out its obligations under the contract with reasonabl
 - “armed forces GP” means a medical practitioner who is employed on a contract of service by the Ministry of Defence, whether or not as a member of the United Kingdom Armed Forces of Her Majesty; and
 - “health service body” does not include any person who is to be regarded as a health service body in accordance with regulation 10.
 
-#### 62. Sub-contracting of clinical matters[^key-44086513132378fb7f905c3889ce27bc]
+#### 62. Sub-contracting of clinical matters[^c-44086513132378fb7f905c3889ce27bc]
 
 (1) Subject to sub-paragraph (2), the contractor shall not sub-contract any of its rights or duties under the contract in relation to clinical matters unless—
 
@@ -1065,7 +1065,7 @@ The contractor shall carry out its obligations under the contract with reasonabl
 
 (9) A contract with a sub-contractor must prohibit the sub-contractor from sub-contracting the clinical services it has agreed with the contractor to provide.
 
-#### 63. Sub-contracting of out of hours service[^key-6c70c7552c8d4558da8b3dbe1b3a2a4b]
+#### 63. Sub-contracting of out of hours service[^c-6c70c7552c8d4558da8b3dbe1b3a2a4b]
 
 (1) A contractor shall not, otherwise than in accordance with the written approval of the Health Board, sub-contract all or part of its duty to provide out of hours services to any person other than those listed in sub-paragraph (2) other than on a short-term occasional basis.
 
@@ -1105,7 +1105,7 @@ The contractor shall carry out its obligations under the contract with reasonabl
 
 (10) A contract with a sub-contractor must prohibit the sub-contractor from sub-contracting the out of hours services it has agreed with the contractor to provide.
 
-#### 64. Withdrawal and variation of approval under paragraph 63[^key-a01305612dd863706817c647f0b9e151]
+#### 64. Withdrawal and variation of approval under paragraph 63[^c-a01305612dd863706817c647f0b9e151]
 
 (1) Without prejudice to any other remedies which it may have under the contract, where a Health Board has approved an application made under paragraph 63(3) it shall, subject to paragraph 65, be entitled to serve notice on the contractor withdrawing or varying that approval from a date specified in the notice if it is no longer satisfied that the proposed arrangement will enable the contractor to meet satisfactorily its obligations under the contract.
 
@@ -1116,7 +1116,7 @@ The contractor shall carry out its obligations under the contract with reasonabl
 - (a) the date specified in the notice; or
 - (b) (if applicable) the date of the final determination of the NHS dispute resolution procedure (or any court proceedings) relating to the notice in favour of the Health Board.
 
-#### 65. Withdrawal and variation of approval under paragraph 63[^key-620910ae769f99565a267b05a2bca229]
+#### 65. Withdrawal and variation of approval under paragraph 63[^c-620910ae769f99565a267b05a2bca229]
 
 (1) Without prejudice to any other remedies which it may have under the contract, where a Health Board has approved an application made under paragraph 63(3) it shall be entitled to serve notice on the contractor withdrawing or varying that approval with immediate effect if—
 
@@ -1127,7 +1127,7 @@ The contractor shall carry out its obligations under the contract with reasonabl
 
 ### PART 5 — Records, Information, Notifications and Rights of Entry
 
-#### 66. Patient records[^key-f6d28d4395b7211b252e4a681dac2cac]
+#### 66. Patient records[^c-f6d28d4395b7211b252e4a681dac2cac]
 
 (1) In this paragraph, “computerised records” means records created by way of entries on a computer.
 
@@ -1165,17 +1165,17 @@ The contractor shall carry out its obligations under the contract with reasonabl
 
 (9) A contractor whose patient records are computerised records shall not disable, or attempt to disable, either the security measures or the audit and system management functions referred to in sub-paragraph (4)(b).
 
-#### 67. Access to records for the purpose of the Quality Information Preparation Scheme[^key-8288c8c91634a13d830d5e70801cfc96]
+#### 67. Access to records for the purpose of the Quality Information Preparation Scheme[^c-8288c8c91634a13d830d5e70801cfc96]
 
 (1) The contractor must provide access to its patient records on request to any appropriately qualified person with whom the Health Board has made arrangements for the provision of the Quality Information Preparation Scheme referred to in section 7 of the GMS Statement of Financial Entitlements.
 
 (2) The contractor shall not be obliged to grant access to a person referred to in sub-paragraph (1) unless that person produces, on request, written evidence that that person is authorised by the Health Board to act on its behalf.
 
-#### 68. Confidentiality of personal data[^key-882d1255be0a432c3cc51e9e289545bd]
+#### 68. Confidentiality of personal data[^c-882d1255be0a432c3cc51e9e289545bd]
 
 The contractor shall nominate a person with responsibility for practices and procedures relating to the confidentiality of personal data held by it.
 
-#### 69. Practice leaflet[^key-7e1821eaa59d5d62a37b99c270ef7658]
+#### 69. Practice leaflet[^c-7e1821eaa59d5d62a37b99c270ef7658]
 
 The contractor shall—
 
@@ -1183,7 +1183,7 @@ The contractor shall—
 - (b) review its practice leaflet at least once in every period of twelve months and make any amendments necessary to maintain its accuracy; and
 - (c) make available a copy of the leaflet, and any subsequent updates, to its patients and prospective patients.
 
-#### 70. Provision of information[^key-86f27f5d253ebec8e6b15eca6956280d]
+#### 70. Provision of information[^c-86f27f5d253ebec8e6b15eca6956280d]
 
 (1) Subject to sub-paragraph (2), the contractor shall, at the request of the Health Board, produce to the Board or to a person authorised in writing by the Board or allow it, or a person authorised in writing by it, to access—
 
@@ -1192,7 +1192,7 @@ The contractor shall—
 
 (2) The contractor shall not be required to comply with any request made in accordance with sub-paragraph (1) unless it has been made by the Health Board in accordance with directions relating to the provision of information by contractors given to it by the Scottish Ministers under section 2(5) of the Act.
 
-#### 71. Inquiries about prescriptions and referrals[^key-cdb3913631b801be62db5505d5580bf3]
+#### 71. Inquiries about prescriptions and referrals[^c-cdb3913631b801be62db5505d5580bf3]
 
 (1) The contractor shall, subject to sub-paragraphs (2) and (3), sufficiently answer any inquires whether oral or in writing from the Health Board concerning—
 
@@ -1210,7 +1210,7 @@ The contractor shall—
 
 appointed in either case by the Health Board to assist the Board in the exercise of its functions under this paragraph and that person produces, on request, written evidence that the person is authorised by the Health Board to make such an inquiry on its behalf.
 
-#### 72. Reports to a medical officer[^key-6879365f11da8e89e7ce5abdd6238b2c]
+#### 72. Reports to a medical officer[^c-6879365f11da8e89e7ce5abdd6238b2c]
 
 (1) The contractor shall, if it is satisfied that the patient consents—
 
@@ -1219,7 +1219,7 @@ appointed in either case by the Health Board to assist the Board in the exercise
 
 (2) For the purpose of satisfying the contractor that the patient has consented as required by paragraph (1), the contractor may (unless it has reason to believe the patient does not consent) rely on an assurance in writing from the medical officer, or any officer of the Department for Work and Pensions, that that officer holds the patient’s written consent.
 
-#### 73. Annual return and review[^key-f9f527959fb00bca29af367c970e47ba]
+#### 73. Annual return and review[^c-f9f527959fb00bca29af367c970e47ba]
 
 (1) The contractor shall submit an annual return relating to the contract to the Health Board which shall require the same categories of information from all persons who hold contracts with that Board.
 
@@ -1231,7 +1231,7 @@ appointed in either case by the Health Board to assist the Board in the exercise
 
 (5) A copy of the final record referred to in sub-paragraph (4) shall be sent to the contractor.
 
-#### 74. Notifications to the Health Board[^key-e2d21b45ea4ff715fd83d731bd89ee7a]
+#### 74. Notifications to the Health Board[^c-e2d21b45ea4ff715fd83d731bd89ee7a]
 
 (1) In addition to any requirements of notification elsewhere in the regulations, the contractor shall notify the Health Board in writing, as soon as reasonably practicable, of—
 
@@ -1241,15 +1241,15 @@ appointed in either case by the Health Board to assist the Board in the exercise
 - (d) any change of which it is aware in the address of a registered patient; and
 - (e) the death of any patient of which it is aware.
 
-#### 75. Notifications to the Health Board[^key-d4806ea174471e7ccb95f39a01742c40]
+#### 75. Notifications to the Health Board[^c-d4806ea174471e7ccb95f39a01742c40]
 
 The contractor shall, unless it is impracticable for it to do so, notify the Health Board in writing within 28 days of any occurrence requiring a change in the information about it published by the Health Board in accordance with regulations made under section 2C(3) of the Act (Function of Health Boards: primary medical services)[^f00098].
 
-#### 76. Notifications to the Health Board[^key-b6605c487aa13d9a625613196141a609]
+#### 76. Notifications to the Health Board[^c-b6605c487aa13d9a625613196141a609]
 
 The contractor shall notify the Health Board in writing of any person other than a registered patient or a person whom it has accepted as a temporary resident to whom it has provided the essential services described in regulation 15(6) or (8) within the period of 28 days beginning on the day that the services were provided.
 
-#### 77. Notice provisions specific to a contract with a company limited by shares[^key-237085033204476a2f6722f440550df4]
+#### 77. Notice provisions specific to a contract with a company limited by shares[^c-237085033204476a2f6722f440550df4]
 
 (1) A contractor which is a company limited by shares shall give notice in writing to the Health Board forthwith when—
 
@@ -1264,7 +1264,7 @@ The contractor shall notify the Health Board in writing of any person other than
 - (a) is a medical practitioner, or that the new shareholder or, as the case may be, personal representative satisfies the conditions specified in section 17L(2)(c)(i) to (viii) of the Act (eligibility to be contractor under general medical services contract)[^f00100]; and
 - (b) meets the further conditions imposed on shareholders by virtue of regulations 4 and 5.
 
-#### 78. Notice provisions specific to a contract with persons practising in partnership[^key-fa93f3522224d033291a7237ec3b21de]
+#### 78. Notice provisions specific to a contract with persons practising in partnership[^c-fa93f3522224d033291a7237ec3b21de]
 
 (1) A contractor which is a partnership shall give notice in writing to the Health Board forthwith when—
 
@@ -1278,7 +1278,7 @@ The contractor shall notify the Health Board in writing of any person other than
 - (c) confirm that the new partner meets the conditions imposed by regulations 4 and 5; and
 - (d) state whether the new partner is a general or a limited partner.
 
-#### 79. Notification of deaths[^key-3a35e111b9f80d2c18a9f97f08fb48c4]
+#### 79. Notification of deaths[^c-3a35e111b9f80d2c18a9f97f08fb48c4]
 
 (1) The contractor shall report, in writing, to the Health Board, the death on its practice premises of any patient no later than the end of the first working day after the date on which the death occurred.
 
@@ -1293,7 +1293,7 @@ The contractor shall notify the Health Board in writing of any person other than
 
 (3) The contractor shall send a copy of the report referred to in sub-paragraph (1) to any other Health Board in whose area the deceased was resident at the time of the patient’s death.
 
-#### 80. Notifications to patients following variation of the contract[^key-c42886c23514a3bfe26926da1c5c81e2]
+#### 80. Notifications to patients following variation of the contract[^c-c42886c23514a3bfe26926da1c5c81e2]
 
 Where the contract is varied in accordance with Part 8 of this Schedule and, as a result of that variation—
 
@@ -1302,7 +1302,7 @@ Where the contract is varied in accordance with Part 8 of this Schedule and, as 
 
 the Health Board shall notify those patients in writing of the variation and its effect and inform them of the steps they can take to obtain elsewhere the services in question or, as the case may be, register elsewhere for the provision of essential services (or their equivalent).
 
-#### 81. Entry and inspection by the Health Board[^key-5b20896524dd9e3d7fa913b722d85a64]
+#### 81. Entry and inspection by the Health Board[^c-5b20896524dd9e3d7fa913b722d85a64]
 
 (1) Subject to the conditions in sub-paragraph (2), the contractor shall allow persons authorised in writing by the Health Board to enter and inspect the practice premises at any reasonable time.
 
@@ -1316,7 +1316,7 @@ the Health Board shall notify those patients in writing of the variation and its
 
 ### PART 6 — Complaints
 
-#### 82. Complaints procedure[^key-41701271b9f8ead56ff5fb6cf8374f2a]
+#### 82. Complaints procedure[^c-41701271b9f8ead56ff5fb6cf8374f2a]
 
 (1) The contractor shall establish and operate a complaints procedure to deal with any complaints in relation to any matter reasonably connected with the provision of services under the contract which shall comply with the requirements in paragraphs 83 to 86 and 88.
 
@@ -1327,7 +1327,7 @@ the Health Board shall notify those patients in writing of the variation and its
 
 (3) The contractor shall take reasonable steps to ensure that the complaints procedure is accessible to all patients.
 
-#### 83. Making of complaints[^key-6fbe4239bb0585513eb35e5990870330]
+#### 83. Making of complaints[^c-6fbe4239bb0585513eb35e5990870330]
 
 A complaint may be made by or, with the patient’s consent, on behalf of a patient, or former patient, who is receiving or has received services under the contract or—
 
@@ -1337,11 +1337,11 @@ A complaint may be made by or, with the patient’s consent, on behalf of a pati
   - (iii) by a person duly authorised by a voluntary organisation by which the child is being accommodated under the provisions of that Act;
 - (b) where the patient is incapable of making a complaint, by a relative or other adult who has an interest in the patient’s welfare.
 
-#### 84. Making of complaints[^key-e165ca7367e5dbb551410643db33537e]
+#### 84. Making of complaints[^c-e165ca7367e5dbb551410643db33537e]
 
 Where a patient has died, a complaint may be made by a relative or other adult who had an interest in the patient’s welfare or, where the patient falls within paragraph 83(a)(ii) or (iii), by the authority or voluntary organisation.
 
-#### 85. Period for making complaints[^key-33ff2e060398a316ab2409d379c35d6b]
+#### 85. Period for making complaints[^c-33ff2e060398a316ab2409d379c35d6b]
 
 (1) Subject to sub-paragraph (2), the period for making a complaint is—
 
@@ -1355,7 +1355,7 @@ Where a patient has died, a complaint may be made by a relative or other adult w
 
 the complaint shall be treated as if it had been received during the period specified in sub-paragraph (1).
 
-#### 86. Further requirements for complaints procedures[^key-25aed57371287cbc2d83f79dc53c3a7f]
+#### 86. Further requirements for complaints procedures[^c-25aed57371287cbc2d83f79dc53c3a7f]
 
 (1) A complaints procedure shall also comply with the requirements set out in sub-paragraphs (2) to (6).
 
@@ -1376,7 +1376,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 (6) The contractor must keep a record of all complaints and copies of all correspondence relating to complaints, but such records must be kept separate from patients' medical records.
 
-#### 87. Co-operation with investigations[^key-d9a9dd5e0bcedcbe9ad01b6dbda5dbd1]
+#### 87. Co-operation with investigations[^c-d9a9dd5e0bcedcbe9ad01b6dbda5dbd1]
 
 (1) The contractor shall co-operate with—
 
@@ -1399,13 +1399,13 @@ the complaint shall be treated as if it had been received during the period spec
 - (b) providing any information relating to the complaint reasonably required by the Health Board; and
 - (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given) if the contractor’s presence at the meeting is reasonably required by the Health Board.
 
-#### 88. Provision of information about complaints[^key-40b1d92f5fb0158ed0eee3757c0c831a]
+#### 88. Provision of information about complaints[^c-40b1d92f5fb0158ed0eee3757c0c831a]
 
 The contractor shall inform the Health Board, at such intervals as required, of the number of complaints it has received under the procedure established in accordance with this Part.
 
 ### PART 7 — Dispute Resolution
 
-#### 89. Local resolution of contract disputes[^key-ca716ce01a849a6ab5b47127c9ab0889]
+#### 89. Local resolution of contract disputes[^c-ca716ce01a849a6ab5b47127c9ab0889]
 
 (1) Subject to sub-paragraph (3), in the case of any dispute arising out of or in connection with the contract, the contractor and the Health Board must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute, before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings).
 
@@ -1413,7 +1413,7 @@ The contractor shall inform the Health Board, at such intervals as required, of 
 
 (3) In the case of a dispute which falls to be dealt with under the NHS dispute resolution procedure, as modified by paragraph 36(3), sub-paragraph (1) does not apply where it is not practicable for the parties to attempt local resolution before the expiry of the period specified in paragraph 91(4) as so modified.
 
-#### 90. Dispute resolution: non-NHS contracts[^key-6e4934724d59ce271f37bd9838e2d9bc]
+#### 90. Dispute resolution: non-NHS contracts[^c-6e4934724d59ce271f37bd9838e2d9bc]
 
 (1) In the case of a contract which is not an NHS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the complaints procedure pursuant to Part 6 of this Schedule, may be referred for consideration and determination to the Scottish Ministers, if—
 
@@ -1425,7 +1425,7 @@ The contractor shall inform the Health Board, at such intervals as required, of 
 - (a) the procedure to be followed is the NHS dispute resolution procedure; and
 - (b) the parties agree to be bound by any determination made by the adjudicator.
 
-#### 91. NHS dispute resolution procedure[^key-ac3f9240d0c59f9815aacd881337caf8]
+#### 91. NHS dispute resolution procedure[^c-ac3f9240d0c59f9815aacd881337caf8]
 
 (1) Subject to sub-paragraph (2), the procedure specified in the following sub-paragraphs and paragraph 92 applies in the case of any dispute arising out of, or in connection with, the contract which is referred to the Scottish Ministers—
 
@@ -1481,13 +1481,13 @@ the procedure specified in the following sub-paragraphs and paragraph 92 is modi
 
 (15) Where the adjudicator is a panel, any decision or determination by the panel for the purposes of this paragraph and paragraph 92 may be by a majority.
 
-#### 92. Determination of dispute[^key-ad28fd0f406676c9a2a78d9b985e66e0]
+#### 92. Determination of dispute[^c-ad28fd0f406676c9a2a78d9b985e66e0]
 
 (1) The adjudicator shall record its determination, and the reasons for it, in writing and shall give notice of the determination (including the record of the reasons) to the parties and, in the case where the adjudicator is a panel, to the Scottish Ministers.
 
 (2) Subsections (8) and (9) of section 17A of the Act (NHS contracts), as modified by regulation 10(7)(d) shall apply in the case of a determination of a reference under paragraph 90(1) as they apply in the case of a determination under subsection (4) of that section.
 
-#### 93. Interpretation of Part 7[^key-85675c69c2c4e0778651b09e8937f810]
+#### 93. Interpretation of Part 7[^c-85675c69c2c4e0778651b09e8937f810]
 
 (1) In this Part, “any dispute arising out of or in connection with the contract” includes any dispute arising out of or in connection with the termination of the contract.
 
@@ -1495,7 +1495,7 @@ the procedure specified in the following sub-paragraphs and paragraph 92 is modi
 
 ### PART 8 — Variation and Termination of Contracts
 
-#### 94. Variation of a contract: general[^key-812329e2959cf40518e430439b634178]
+#### 94. Variation of a contract: general[^c-812329e2959cf40518e430439b634178]
 
 (1) Subject to Schedule 2, paragraphs 62(8), 63(8) and 105 of this Schedule and paragraph 3 of Schedule 6, no amendment or variation shall have effect unless it is in writing and signed by or on behalf of the Health Board and the contractor.
 
@@ -1508,11 +1508,11 @@ and, where it is reasonably practicable to do so, the date that the proposed var
 
 (3) In sub-paragraph (1), “writing” does not include transmission by electronic means.
 
-#### 95. Termination by agreement[^key-7b4013ddd6228a9057d0552dd36e1290]
+#### 95. Termination by agreement[^c-7b4013ddd6228a9057d0552dd36e1290]
 
 The Health Board and the contractor may agree in writing to terminate the contract, and if the parties so agree, they shall agree the date upon which that termination should take effect and any further terms upon which the contract should be terminated.
 
-#### 96. Termination by the contractor[^key-58a5e78659e0380da111b19d0f452c6a]
+#### 96. Termination by the contractor[^c-58a5e78659e0380da111b19d0f452c6a]
 
 (1) A contractor may terminate the contract by serving notice in writing on the Health Board at any time.
 
@@ -1522,7 +1522,7 @@ The Health Board and the contractor may agree in writing to terminate the contra
 
 (4) This paragraph and paragraph 97 are without prejudice to any other rights to terminate the contract that the contractor may have.
 
-#### 97. Late payment notices[^key-f3a2b9fa653f94860be1f8cd9d2103ad]
+#### 97. Late payment notices[^c-f3a2b9fa653f94860be1f8cd9d2103ad]
 
 (1) The contractor may give notice in writing (a “late payment notice”) to the Health Board if the Board has failed to make any payments due to the contractor in accordance with a term of the contract that has the effect specified in regulation 22 and the contractor shall specify in the late payment notice the payments that the Board has failed to make in accordance with that regulation.
 
@@ -1535,11 +1535,11 @@ The Health Board and the contractor may agree in writing to terminate the contra
 
 whichever is the sooner.
 
-#### 98. Termination by the Health Board: general[^key-d7928528e34253cbc37bab83f62cb88d]
+#### 98. Termination by the Health Board: general[^c-d7928528e34253cbc37bab83f62cb88d]
 
 The Health Board may only terminate the contract in accordance with the provision in this Part.
 
-#### 99. Termination by the Health Board for breach of conditions in regulation 4[^key-4825f1295ada386cdbebe590d98d83f0]
+#### 99. Termination by the Health Board for breach of conditions in regulation 4[^c-4825f1295ada386cdbebe590d98d83f0]
 
 (1) The Health Board shall serve notice in writing on the contractor terminating the contract forthwith if the contractor is an individual medical practitioner and the medical practitioner no longer satisfies the condition specified in regulation 4(1).
 
@@ -1561,11 +1561,11 @@ sub-paragraph (3) shall apply.
 
 (6) If, at the end of the interim period, the contractor still falls within sub-paragraph (2)(a) or (b), the Health Board shall serve notice in writing on the contractor terminating the contract forthwith.
 
-#### 100. Termination by the Health Board for the provision of untrue etc. information[^key-6053aa83e8d0e00278eb179d60efe1bf]
+#### 100. Termination by the Health Board for the provision of untrue etc. information[^c-6053aa83e8d0e00278eb179d60efe1bf]
 
 The Health Board may serve notice in writing on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if, after the contract has been entered into, it comes to the attention of the Health Board that written information provided to the Health Board by the contractor before the contract was entered into in relation to the conditions set out in regulations 4 and 5 (and compliance with those conditions) was, when given, untrue or inaccurate in a material respect.
 
-#### 101. Other grounds for termination by the Health Board[^key-cb75932826826f5785892e1634b107ec]
+#### 101. Other grounds for termination by the Health Board[^c-cb75932826826f5785892e1634b107ec]
 
 (1) The Health Board may serve notice in writing on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if—
 
@@ -1638,14 +1638,14 @@ and the Health Board may only terminate the contract at the end of the period sp
 
 (6) In this paragraph, “health service body” does not include any person who is to be regarded as a health service body in accordance with regulation 10.
 
-#### 102. Other grounds for termination by the Health Board[^key-7a138de2a56c9b76e6f404d4d7fef06f]
+#### 102. Other grounds for termination by the Health Board[^c-7a138de2a56c9b76e6f404d4d7fef06f]
 
 The Health Board may serve notice in writing on the contractor terminating the contract forthwith or with effect from such date as may be specified in the notice if—
 
 - (a) the contractor has breached the contract and, as a result of that breach, the safety of the contractor’s patients is at serious risk if the contract is not terminated; or
 - (b) the contractor’s financial situation is such that the Health Board considers that the Health Board is at risk of material financial loss.
 
-#### 103. Termination by the Health Board: remedial notices and breach notices[^key-0416c61284cfcb9803d0022cadda8eb6]
+#### 103. Termination by the Health Board: remedial notices and breach notices[^c-0416c61284cfcb9803d0022cadda8eb6]
 
 (1) Where a contractor has breached the contract other than as specified in paragraphs 99 to 102 and the breach is capable of remedy, the Health Board shall, before taking any action it is otherwise entitled to take by virtue of the contract, serve a notice on the contractor requiring it to remedy the breach (“remedial notice”).
 
@@ -1677,7 +1677,7 @@ the Health Board may serve notice on the contractor terminating the contract wit
 
 (8) If the contractor is in breach of any obligation and a breach notice or a remedial notice in respect of that default has been given to the contractor, the Health Board may withhold or deduct monies which would otherwise be payable under the contract in respect of that obligation which is the subject of the default.
 
-#### 104. Termination by the Health Board: additional provision specific to contracts with a partnership and companies limited by shares[^key-776fbb250166cd1f9a9c8aad251c4a98]
+#### 104. Termination by the Health Board: additional provision specific to contracts with a partnership and companies limited by shares[^c-776fbb250166cd1f9a9c8aad251c4a98]
 
 (1) Where the contractor is a company limited by shares, if the Health Board becomes aware that the contractor is carrying on any business which the Health Board considers to be detrimental to the contractor’s performance of its obligations under the contract—
 
@@ -1691,7 +1691,7 @@ the Health Board may serve notice on the contractor terminating the contract wit
 - (a) the date upon which the contract is to be terminated; and
 - (b) the Health Board’s reasons for considering that the change in the membership of the partnership is likely to have a serious adverse impact on the ability of the contractor or the Health Board to perform its obligations under the contract.
 
-#### 105. Contract sanctions[^key-7bbf48aac97bf2e6cdcc71a18b930556]
+#### 105. Contract sanctions[^c-7bbf48aac97bf2e6cdcc71a18b930556]
 
 (1) In this paragraph and paragraph 106 , “contract sanction” means—
 
@@ -1712,7 +1712,7 @@ the Health Board may serve notice on the contractor terminating the contract wit
 
 (6) Where the Health Board imposes a contract sanction, the Health Board shall be entitled to charge the contractor the reasonable costs of additional administration that the Health Board has incurred in order to impose, or as a result of imposing, the contract sanction.
 
-#### 106. Contract sanctions and the dispute resolution procedure[^key-fd5ae4a82d13dd1218f6b4d8dd9c1dd5]
+#### 106. Contract sanctions and the dispute resolution procedure[^c-fd5ae4a82d13dd1218f6b4d8dd9c1dd5]
 
 (1) If there is a dispute between the Health Board and the contractor in relation to a contract sanction that the Health Board is proposing to impose, the Health Board shall not, subject to sub-paragraph (4), impose the proposed contract sanction except in the circumstances specified in sub-paragraph (2)(a) or (b).
 
@@ -1732,7 +1732,7 @@ whichever is the sooner.
 
 the Health Board shall be entitled to impose the contract sanction forthwith, pending the outcome of that procedure.
 
-#### 107. Termination and the NHS dispute resolution procedure[^key-c8a8310818e960bd0180c47a13f39462]
+#### 107. Termination and the NHS dispute resolution procedure[^c-c8a8310818e960bd0180c47a13f39462]
 
 (1) Where the Health Board is entitled to serve written notice on the contractor terminating the contract pursuant to paragraph 100,101,102 or 103(4) or (6) the Health Board shall, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates that it not less than 28 days after the date on which the Health Board has served that notice on the contractor unless sub-paragraph (2) applies.
 
@@ -1757,7 +1757,7 @@ whichever is the sooner.
 
 sub-paragraphs (3) and (4) shall not apply and the Health Board shall be entitled to confirm, by written notice to be served on the contractor, that the contract will nevertheless terminate at the end of the period of the notice it served pursuant to paragraph 100,101,102,103(4) or (6) or 104.
 
-#### 108. Consultation with the area medical committee[^key-81c0bdb00f2b702a2ecae3717a274bf7]
+#### 108. Consultation with the area medical committee[^c-81c0bdb00f2b702a2ecae3717a274bf7]
 
 (1) Whenever the Health Board is considering—
 
@@ -1768,7 +1768,7 @@ it shall, whenever it is reasonably practicable to do so, consult the area medic
 
 (2) Whether or not the area medical committee has been consulted pursuant to sub-paragraph (1), whenever the Health Board imposes a contract sanction on a contractor or terminates a contract pursuant to this Part, it shall, as soon as reasonably practicable, notify the area medical committee in writing of the contract sanction imposed or of the termination of the contract (as the case may be).
 
-#### 109. Where the contractor changes from being an individual to a partnership[^key-3dfe60f30d2637194d936a5640db104d]
+#### 109. Where the contractor changes from being an individual to a partnership[^c-3dfe60f30d2637194d936a5640db104d]
 
 (1) If—
 
@@ -1801,7 +1801,7 @@ and the notice shall specify the changes which the Health Board considers are ne
 
 (5) This paragraph is without prejudice to any other way in which the old contract may be terminated and a new contract entered into with the partnership.
 
-#### 110. Where the contractor changes from being a partnership to an individual[^key-6b186225b22a6fe9c48ae9f98ae5d48e]
+#### 110. Where the contractor changes from being a partnership to an individual[^c-6b186225b22a6fe9c48ae9f98ae5d48e]
 
 (1) If a contractor is a partnership which it is proposed will be terminated or dissolved and as a consequence the contractor’s contract (“the old contract”) will be terminated and one of the partners wishes to enter into a new contract (“the new contract”) with the Health Board as an individual medical practitioner (“the proposed contractor”) on as similar terms as possible as the old contract, the partnership and the proposed contractor may give written notice thereof to the Health Board which shall state—
 
@@ -1829,7 +1829,7 @@ and the notice shall specify the changes which the Health Board consider are nec
 
 ### PART 9 — MISCELLANEOUS
 
-#### 111. Clinical governance[^key-ae9d8fa8005b3c82dca50ea7b0e464cb]
+#### 111. Clinical governance[^c-ae9d8fa8005b3c82dca50ea7b0e464cb]
 
 (1) The contractor shall have an effective system of clinical governance.
 
@@ -1839,7 +1839,7 @@ and the notice shall specify the changes which the Health Board consider are nec
 
 (4) In this paragraph “system of clinical governance” means a framework through which the contractor endeavours continuously to improve the quality of its service and safeguard high standards of care by creating an environment in which clinical excellence can flourish.
 
-#### 112. Insurance[^key-683d757b32939183cd6c10bbe36f3f86]
+#### 112. Insurance[^c-683d757b32939183cd6c10bbe36f3f86]
 
 (1) The contractor shall at all times hold adequate insurance against liability arising from negligent performance of clinical services under the contract.
 
@@ -1850,11 +1850,11 @@ and the notice shall specify the changes which the Health Board consider are nec
 - (a) “insurance” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor; and
 - (b) a contractor shall be regarded as holding insurance if the insurance is held by an employee of the contractor in connection with clinical services which that employee provides under the contract or, as the case may be, sub-contract.
 
-#### 113. Insurance[^key-bbc2f2cc02fde670e06cfa04643d8c3a]
+#### 113. Insurance[^c-bbc2f2cc02fde670e06cfa04643d8c3a]
 
 The contractor shall at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the contract which are not covered by the insurance referred to in paragraph 112.
 
-#### 114. Gifts[^key-31d93e16f6048e4f22ccc51e0bcc74d6]
+#### 114. Gifts[^c-31d93e16f6048e4f22ccc51e0bcc74d6]
 
 (1) The contractor shall keep a register of gifts which—
 
@@ -1895,110 +1895,110 @@ The contractor shall at all times hold adequate public liability insurance in re
 
 (6) The contractor shall make the register available to the Health Board on request.
 
-#### 115. Compliance with legislation and guidance[^key-6a7d339197f2132bb70a00cdc3eda7c7]
+#### 115. Compliance with legislation and guidance[^c-6a7d339197f2132bb70a00cdc3eda7c7]
 
 The contractor shall—
 
 - (a) comply with all relevant legislation; and
 - (b) have regard to all relevant guidance issued by the Health Board and the Scottish Ministers.
 
-#### 116. Third party rights[^key-a934a70097e6be3534e6bde880d64992]
+#### 116. Third party rights[^c-a934a70097e6be3534e6bde880d64992]
 
 The contract shall not create any right enforceable by any person not a party to it.
 
 ## Annotations
 
-[^key-bcd009b1e28aa3f60290d0832f1f30de]: Commencement: Sch. 5 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-bcd009b1e28aa3f60290d0832f1f30de]: Commencement: Sch. 5 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-2d2b71c097fb4d2353a75cf5d5e79548]: Commencement: Sch. 5 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-2d2b71c097fb4d2353a75cf5d5e79548]: Commencement: Sch. 5 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-da7bebcbcd7f9fff91e5fb77873a6dde]: Commencement: Sch. 5 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-da7bebcbcd7f9fff91e5fb77873a6dde]: Commencement: Sch. 5 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-229312262444be008a94e809a7bb1890]: Commencement: Sch. 5 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-229312262444be008a94e809a7bb1890]: Commencement: Sch. 5 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-86594b521f97ef5b59d2bb917929a1c0]: Commencement: Sch. 5 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-86594b521f97ef5b59d2bb917929a1c0]: Commencement: Sch. 5 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-679ec1159b889b173c853c7870c9ef1a]: Commencement: Sch. 5 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-679ec1159b889b173c853c7870c9ef1a]: Commencement: Sch. 5 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f0fc8c5e9daab3d3a200c55653ac6abb]: Commencement: Sch. 5 para. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f0fc8c5e9daab3d3a200c55653ac6abb]: Commencement: Sch. 5 para. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-268ff64bdadf47255faad8e5518f3c63]: Commencement: Sch. 5 para. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-268ff64bdadf47255faad8e5518f3c63]: Commencement: Sch. 5 para. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-13c8870a73edfdf7520f3a4e805f73d4]: Commencement: Sch. 5 para. 9 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-13c8870a73edfdf7520f3a4e805f73d4]: Commencement: Sch. 5 para. 9 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-0f3a44de3b93396460bc8ed0d0580ad8]: Commencement: Sch. 5 para. 10 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-0f3a44de3b93396460bc8ed0d0580ad8]: Commencement: Sch. 5 para. 10 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-4c064e8e63c63834877633a1cddc0b08]: Commencement: Sch. 5 para. 11 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-4c064e8e63c63834877633a1cddc0b08]: Commencement: Sch. 5 para. 11 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-4ff6bcc84b05fa8e3db6dcd4f482c836]: Commencement: Sch. 5 para. 12 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-4ff6bcc84b05fa8e3db6dcd4f482c836]: Commencement: Sch. 5 para. 12 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-798b9c2010efab4161fc0063168e1e0f]: Commencement: Sch. 5 para. 13 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-798b9c2010efab4161fc0063168e1e0f]: Commencement: Sch. 5 para. 13 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-17e9b501ee929ba83155f8340b533475]: Commencement: Sch. 5 para. 14 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-17e9b501ee929ba83155f8340b533475]: Commencement: Sch. 5 para. 14 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-7e41f2077af855097acc9072891de2f2]: Commencement: Sch. 5 para. 15 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7e41f2077af855097acc9072891de2f2]: Commencement: Sch. 5 para. 15 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00079]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
 [^f00080]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4)
 
-[^key-0319c19a06f4b5f052c9af92ff093f10]: Commencement: Sch. 5 para. 16 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-0319c19a06f4b5f052c9af92ff093f10]: Commencement: Sch. 5 para. 16 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f4dfae5420a1d5b1da56af0ba5b61d80]: Commencement: Sch. 5 para. 17 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f4dfae5420a1d5b1da56af0ba5b61d80]: Commencement: Sch. 5 para. 17 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-5b5ddc3a61f674c0b4ed3c94e5efff10]: Commencement: Sch. 5 para. 18 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-5b5ddc3a61f674c0b4ed3c94e5efff10]: Commencement: Sch. 5 para. 18 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-c0663aa245897b14dd9ff3fa1f372b82]: Commencement: Sch. 5 para. 19 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c0663aa245897b14dd9ff3fa1f372b82]: Commencement: Sch. 5 para. 19 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-7bec2c0b02453f28446caa0bac8a1bfd]: Commencement: Sch. 5 para. 20 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7bec2c0b02453f28446caa0bac8a1bfd]: Commencement: Sch. 5 para. 20 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-ca54564e57a343c54e46c4fcc953bf7f]: Commencement: Sch. 5 para. 21 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ca54564e57a343c54e46c4fcc953bf7f]: Commencement: Sch. 5 para. 21 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-1d742f43d026a9904447286dcc7409ec]: Commencement: Sch. 5 para. 22 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-1d742f43d026a9904447286dcc7409ec]: Commencement: Sch. 5 para. 22 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-16e5c294ecbe06040e1fbe696e5fff58]: Commencement: Sch. 5 para. 23 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-16e5c294ecbe06040e1fbe696e5fff58]: Commencement: Sch. 5 para. 23 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-96c691a88aaafa1ab94eaee037acf641]: Commencement: Sch. 5 para. 24 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-96c691a88aaafa1ab94eaee037acf641]: Commencement: Sch. 5 para. 24 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f45a77b69cf8280fff9b3309d2ba44f6]: Commencement: Sch. 5 para. 25 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f45a77b69cf8280fff9b3309d2ba44f6]: Commencement: Sch. 5 para. 25 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a9cb4561a4bda67911a14f073c61993d]: Commencement: Sch. 5 para. 26 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a9cb4561a4bda67911a14f073c61993d]: Commencement: Sch. 5 para. 26 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-ca0f89b60989570abcc0bf90b79037a1]: Commencement: Sch. 5 para. 27 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ca0f89b60989570abcc0bf90b79037a1]: Commencement: Sch. 5 para. 27 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-e72d91f9f9be6a441b4c9fbea69876ac]: Commencement: Sch. 5 para. 28 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e72d91f9f9be6a441b4c9fbea69876ac]: Commencement: Sch. 5 para. 28 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-b938d5bd5819a0fd310956d9553387ad]: Commencement: Sch. 5 para. 29 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b938d5bd5819a0fd310956d9553387ad]: Commencement: Sch. 5 para. 29 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-5054294d5c1f145737df585cf10b5d20]: Commencement: Sch. 5 para. 30 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-5054294d5c1f145737df585cf10b5d20]: Commencement: Sch. 5 para. 30 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f1cc24ee2657a74e7aa7c6ba7f911109]: Commencement: Sch. 5 para. 31 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f1cc24ee2657a74e7aa7c6ba7f911109]: Commencement: Sch. 5 para. 31 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-d4e7fd0d3426a1c5ce4b3f0a9ae377d2]: Commencement: Sch. 5 para. 32 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-d4e7fd0d3426a1c5ce4b3f0a9ae377d2]: Commencement: Sch. 5 para. 32 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-41eeec8d291e5c29660f1abd6b5e0e59]: Commencement: Sch. 5 para. 33 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-41eeec8d291e5c29660f1abd6b5e0e59]: Commencement: Sch. 5 para. 33 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a407fbb47b42d527ce4e03eb8b442e3c]: Commencement: Sch. 5 para. 34 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a407fbb47b42d527ce4e03eb8b442e3c]: Commencement: Sch. 5 para. 34 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-e3a0b3bd0ab3eb4edf09168de353818b]: Commencement: Sch. 5 para. 35 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e3a0b3bd0ab3eb4edf09168de353818b]: Commencement: Sch. 5 para. 35 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-76b42897a71bb92bd9dbb264235f465f]: Commencement: Sch. 5 para. 36 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-76b42897a71bb92bd9dbb264235f465f]: Commencement: Sch. 5 para. 36 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a9477d1d906fbd79eafb6b3456d432e9]: Commencement: Sch. 5 para. 37 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a9477d1d906fbd79eafb6b3456d432e9]: Commencement: Sch. 5 para. 37 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-90e8ae7e40a56b017d2ece08cda287a7]: Commencement: Sch. 5 para. 38 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-90e8ae7e40a56b017d2ece08cda287a7]: Commencement: Sch. 5 para. 38 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-53e7f94bd48b25b6884b735b78290efe]: Commencement: Sch. 5 para. 39 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-53e7f94bd48b25b6884b735b78290efe]: Commencement: Sch. 5 para. 39 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00081]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
 [^f00082]: Footnote: Schedule 4 was amended by S.I. [2003/1432](https://www.legislation.gov.uk/uksi/2003/1432).
 
-[^key-710330dd73d16790d4142b1d05bcddd8]: Commencement: Sch. 5 para. 40 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-710330dd73d16790d4142b1d05bcddd8]: Commencement: Sch. 5 para. 40 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00083]: Footnote: Section 17N was inserted by the 2004 Act, section 4.
 
-[^key-fc115e247e19e97933fe2cc9f1dc8485]: Commencement: Sch. 5 para. 41 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-fc115e247e19e97933fe2cc9f1dc8485]: Commencement: Sch. 5 para. 41 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00084]: Footnote: Article 3B was inserted into the POM Order by S.I. [2003/696](https://www.legislation.gov.uk/uksi/2003/696).
 
@@ -2008,159 +2008,159 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^f00087]: Footnote: O.J. L 311, 28.11.2001, p. 67.
 
-[^key-e6d358e57ec2f32a2f24cd449bf247b5]: Commencement: Sch. 5 para. 42 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e6d358e57ec2f32a2f24cd449bf247b5]: Commencement: Sch. 5 para. 42 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-4ecb0ffd9d7f7bbff3420cc4c6e5306d]: Commencement: Sch. 5 para. 43 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-4ecb0ffd9d7f7bbff3420cc4c6e5306d]: Commencement: Sch. 5 para. 43 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-b2768fefe3832416596eb7be98fafbe4]: Commencement: Sch. 5 para. 44 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b2768fefe3832416596eb7be98fafbe4]: Commencement: Sch. 5 para. 44 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00088]: Footnote: [S.S.I. 2001/430](https://www.legislation.gov.uk/ssi/2001/430), as amended by [S.S.I. 2002/100](https://www.legislation.gov.uk/ssi/2002/100) and [2003/130](https://www.legislation.gov.uk/ssi/2003/130) and [295](https://www.legislation.gov.uk/ssi/2003/295).
 
 [^f00089]: Footnote: [S S.I. 2003/ 460](https://www.legislation.gov.uk/ssi/2003/460).
 
-[^key-2e797da698b8e7e43775dd89e6429a23]: Commencement: Sch. 5 para. 45 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-2e797da698b8e7e43775dd89e6429a23]: Commencement: Sch. 5 para. 45 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00090]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-b7423332eed934f21a8e548c86697410]: Commencement: Sch. 5 para. 46 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b7423332eed934f21a8e548c86697410]: Commencement: Sch. 5 para. 46 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00091]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 41A was inserted by S.I. [2000/1803](https://www.legislation.gov.uk/uksi/2000/1803).
 
 [^f00092]: Footnote: Section 15 was amended by the National Health Service (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46) (“the 1997 Act”), Schedule 1, Part 1, paragraph 61(9); section 15A was inserted by S.I. [2000/3041](https://www.legislation.gov.uk/uksi/2000/3041); section 21 was amended by the 1997 Act, Schedule 1, Part 1, paragraph 61(5) and by S.I. [1996/1591](https://www.legislation.gov.uk/uksi/1996/1591) and [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-cad2ab5f4ec791f445eb18c3c2b6f5c7]: Commencement: Sch. 5 para. 47 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-cad2ab5f4ec791f445eb18c3c2b6f5c7]: Commencement: Sch. 5 para. 47 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-e70746800c39e37cd84179c13251e5e4]: Commencement: Sch. 5 para. 48 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e70746800c39e37cd84179c13251e5e4]: Commencement: Sch. 5 para. 48 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-84f561dc2738134a1a9e8de7a47ab9e6]: Commencement: Sch. 5 para. 49 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-84f561dc2738134a1a9e8de7a47ab9e6]: Commencement: Sch. 5 para. 49 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-b24daa0438e146ce237a5491cdb257a2]: Commencement: Sch. 5 para. 50 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b24daa0438e146ce237a5491cdb257a2]: Commencement: Sch. 5 para. 50 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-babbbe670075944df5aceca30f835537]: Commencement: Sch. 5 para. 51 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-babbbe670075944df5aceca30f835537]: Commencement: Sch. 5 para. 51 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-0c6039fe7b6e821ab4095b8635053719]: Commencement: Sch. 5 para. 52 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-0c6039fe7b6e821ab4095b8635053719]: Commencement: Sch. 5 para. 52 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-73a19cc1187d1c6b67e52dc024e91b8e]: Commencement: Sch. 5 para. 53 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-73a19cc1187d1c6b67e52dc024e91b8e]: Commencement: Sch. 5 para. 53 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-77283336e40e3089e11fd8a6864e89cb]: Commencement: Sch. 5 para. 54 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-77283336e40e3089e11fd8a6864e89cb]: Commencement: Sch. 5 para. 54 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6144acd078145fde299bbea3f29a6c65]: Commencement: Sch. 5 para. 55 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6144acd078145fde299bbea3f29a6c65]: Commencement: Sch. 5 para. 55 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f35c08b8bddf1c07243d9d5751923f55]: Commencement: Sch. 5 para. 56 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f35c08b8bddf1c07243d9d5751923f55]: Commencement: Sch. 5 para. 56 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00093]: Footnote: This document is published jointly by the General Practitioners Committee of the British Medical Association and the NHS Confederation. It is available on the Department of Health’s website at www.doh.gov.uk/gmscontract/supportingdoc. htm or a copy may be obtained by writing to the NHS Confederation, 1 Warwick Road, London SW1E 5ER.
 
-[^key-fa28949ca39d086cc16cf45de4558302]: Commencement: Sch. 5 para. 57 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-fa28949ca39d086cc16cf45de4558302]: Commencement: Sch. 5 para. 57 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00094]: Footnote: Section 17M was inserted by the 2004 Act, section 4.
 
 [^f00095]: Footnote: The current guidance is the GP Registrar Scheme Vocational Guide for General Medical practice—the UK Guide 2000 published by the Department of Health and available on their website at www.doh.gov.uk/medicaltrainingintheuk or by writing to the Department of Health, P.O. Box 777, London SE1 6XH.
 
-[^key-c43dcc7f2ce8cc1dbdfef2965b39043c]: Commencement: Sch. 5 para. 58 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c43dcc7f2ce8cc1dbdfef2965b39043c]: Commencement: Sch. 5 para. 58 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-e8199eef55b5ea3bed5b01d89a22c6ee]: Commencement: Sch. 5 para. 59 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e8199eef55b5ea3bed5b01d89a22c6ee]: Commencement: Sch. 5 para. 59 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-3fe3aaf2aad3e97d31f7dcd74045083e]: Commencement: Sch. 5 para. 60 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-3fe3aaf2aad3e97d31f7dcd74045083e]: Commencement: Sch. 5 para. 60 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6fe336d96290987abfcee1536d761750]: Commencement: Sch. 5 para. 61 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6fe336d96290987abfcee1536d761750]: Commencement: Sch. 5 para. 61 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00096]: Footnote: Copies of NHS Circular PCA(M) (2001)17 may be obtained in writing from the Scottish Executive Health Department, Primary Care Division, St Andrew’s House, Regent Road, Edinburgh, EH1 3DG.
 
-[^key-44086513132378fb7f905c3889ce27bc]: Commencement: Sch. 5 para. 62 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-44086513132378fb7f905c3889ce27bc]: Commencement: Sch. 5 para. 62 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6c70c7552c8d4558da8b3dbe1b3a2a4b]: Commencement: Sch. 5 para. 63 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6c70c7552c8d4558da8b3dbe1b3a2a4b]: Commencement: Sch. 5 para. 63 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a01305612dd863706817c647f0b9e151]: Commencement: Sch. 5 para. 64 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a01305612dd863706817c647f0b9e151]: Commencement: Sch. 5 para. 64 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-620910ae769f99565a267b05a2bca229]: Commencement: Sch. 5 para. 65 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-620910ae769f99565a267b05a2bca229]: Commencement: Sch. 5 para. 65 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f6d28d4395b7211b252e4a681dac2cac]: Commencement: Sch. 5 para. 66 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f6d28d4395b7211b252e4a681dac2cac]: Commencement: Sch. 5 para. 66 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00097]: Footnote: RFA V.1 is published on Scottish Health On the Web (SHOW) at the following link:http://www.show.scot.nhs.uk/publications/me/gpcomputerrecords/rfav1.pdf.
 
-[^key-8288c8c91634a13d830d5e70801cfc96]: Commencement: Sch. 5 para. 67 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-8288c8c91634a13d830d5e70801cfc96]: Commencement: Sch. 5 para. 67 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-882d1255be0a432c3cc51e9e289545bd]: Commencement: Sch. 5 para. 68 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-882d1255be0a432c3cc51e9e289545bd]: Commencement: Sch. 5 para. 68 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-7e1821eaa59d5d62a37b99c270ef7658]: Commencement: Sch. 5 para. 69 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7e1821eaa59d5d62a37b99c270ef7658]: Commencement: Sch. 5 para. 69 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-86f27f5d253ebec8e6b15eca6956280d]: Commencement: Sch. 5 para. 70 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-86f27f5d253ebec8e6b15eca6956280d]: Commencement: Sch. 5 para. 70 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-cdb3913631b801be62db5505d5580bf3]: Commencement: Sch. 5 para. 71 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-cdb3913631b801be62db5505d5580bf3]: Commencement: Sch. 5 para. 71 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6879365f11da8e89e7ce5abdd6238b2c]: Commencement: Sch. 5 para. 72 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6879365f11da8e89e7ce5abdd6238b2c]: Commencement: Sch. 5 para. 72 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f9f527959fb00bca29af367c970e47ba]: Commencement: Sch. 5 para. 73 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f9f527959fb00bca29af367c970e47ba]: Commencement: Sch. 5 para. 73 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-e2d21b45ea4ff715fd83d731bd89ee7a]: Commencement: Sch. 5 para. 74 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e2d21b45ea4ff715fd83d731bd89ee7a]: Commencement: Sch. 5 para. 74 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-d4806ea174471e7ccb95f39a01742c40]: Commencement: Sch. 5 para. 75 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-d4806ea174471e7ccb95f39a01742c40]: Commencement: Sch. 5 para. 75 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00098]: Footnote: Section 2C was inserted by the 2004 Act, section 1(2).
 
-[^key-b6605c487aa13d9a625613196141a609]: Commencement: Sch. 5 para. 76 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b6605c487aa13d9a625613196141a609]: Commencement: Sch. 5 para. 76 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-237085033204476a2f6722f440550df4]: Commencement: Sch. 5 para. 77 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-237085033204476a2f6722f440550df4]: Commencement: Sch. 5 para. 77 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00099]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^f00100]: Footnote: Section 17L was inserted by the 2004 Act, section 4.
 
-[^key-fa93f3522224d033291a7237ec3b21de]: Commencement: Sch. 5 para. 78 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-fa93f3522224d033291a7237ec3b21de]: Commencement: Sch. 5 para. 78 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-3a35e111b9f80d2c18a9f97f08fb48c4]: Commencement: Sch. 5 para. 79 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-3a35e111b9f80d2c18a9f97f08fb48c4]: Commencement: Sch. 5 para. 79 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-c42886c23514a3bfe26926da1c5c81e2]: Commencement: Sch. 5 para. 80 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c42886c23514a3bfe26926da1c5c81e2]: Commencement: Sch. 5 para. 80 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-5b20896524dd9e3d7fa913b722d85a64]: Commencement: Sch. 5 para. 81 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-5b20896524dd9e3d7fa913b722d85a64]: Commencement: Sch. 5 para. 81 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-41701271b9f8ead56ff5fb6cf8374f2a]: Commencement: Sch. 5 para. 82 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-41701271b9f8ead56ff5fb6cf8374f2a]: Commencement: Sch. 5 para. 82 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6fbe4239bb0585513eb35e5990870330]: Commencement: Sch. 5 para. 83 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6fbe4239bb0585513eb35e5990870330]: Commencement: Sch. 5 para. 83 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00101]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-e165ca7367e5dbb551410643db33537e]: Commencement: Sch. 5 para. 84 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e165ca7367e5dbb551410643db33537e]: Commencement: Sch. 5 para. 84 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-33ff2e060398a316ab2409d379c35d6b]: Commencement: Sch. 5 para. 85 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-33ff2e060398a316ab2409d379c35d6b]: Commencement: Sch. 5 para. 85 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-25aed57371287cbc2d83f79dc53c3a7f]: Commencement: Sch. 5 para. 86 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-25aed57371287cbc2d83f79dc53c3a7f]: Commencement: Sch. 5 para. 86 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-d9a9dd5e0bcedcbe9ad01b6dbda5dbd1]: Commencement: Sch. 5 para. 87 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-d9a9dd5e0bcedcbe9ad01b6dbda5dbd1]: Commencement: Sch. 5 para. 87 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00102]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^f00103]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42); section 1 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 195 and by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 7.
 
-[^key-40b1d92f5fb0158ed0eee3757c0c831a]: Commencement: Sch. 5 para. 88 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-40b1d92f5fb0158ed0eee3757c0c831a]: Commencement: Sch. 5 para. 88 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-ca716ce01a849a6ab5b47127c9ab0889]: Commencement: Sch. 5 para. 89 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ca716ce01a849a6ab5b47127c9ab0889]: Commencement: Sch. 5 para. 89 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6e4934724d59ce271f37bd9838e2d9bc]: Commencement: Sch. 5 para. 90 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6e4934724d59ce271f37bd9838e2d9bc]: Commencement: Sch. 5 para. 90 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-ac3f9240d0c59f9815aacd881337caf8]: Commencement: Sch. 5 para. 91 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ac3f9240d0c59f9815aacd881337caf8]: Commencement: Sch. 5 para. 91 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00104]: Footnote: Section 17A was inserted by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), section 30.
 
-[^key-ad28fd0f406676c9a2a78d9b985e66e0]: Commencement: Sch. 5 para. 92 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ad28fd0f406676c9a2a78d9b985e66e0]: Commencement: Sch. 5 para. 92 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-85675c69c2c4e0778651b09e8937f810]: Commencement: Sch. 5 para. 93 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-85675c69c2c4e0778651b09e8937f810]: Commencement: Sch. 5 para. 93 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-812329e2959cf40518e430439b634178]: Commencement: Sch. 5 para. 94 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-812329e2959cf40518e430439b634178]: Commencement: Sch. 5 para. 94 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-7b4013ddd6228a9057d0552dd36e1290]: Commencement: Sch. 5 para. 95 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7b4013ddd6228a9057d0552dd36e1290]: Commencement: Sch. 5 para. 95 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-58a5e78659e0380da111b19d0f452c6a]: Commencement: Sch. 5 para. 96 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-58a5e78659e0380da111b19d0f452c6a]: Commencement: Sch. 5 para. 96 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-f3a2b9fa653f94860be1f8cd9d2103ad]: Commencement: Sch. 5 para. 97 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-f3a2b9fa653f94860be1f8cd9d2103ad]: Commencement: Sch. 5 para. 97 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-d7928528e34253cbc37bab83f62cb88d]: Commencement: Sch. 5 para. 98 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-d7928528e34253cbc37bab83f62cb88d]: Commencement: Sch. 5 para. 98 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-4825f1295ada386cdbebe590d98d83f0]: Commencement: Sch. 5 para. 99 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-4825f1295ada386cdbebe590d98d83f0]: Commencement: Sch. 5 para. 99 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6053aa83e8d0e00278eb179d60efe1bf]: Commencement: Sch. 5 para. 100 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6053aa83e8d0e00278eb179d60efe1bf]: Commencement: Sch. 5 para. 100 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-cb75932826826f5785892e1634b107ec]: Commencement: Sch. 5 para. 101 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-cb75932826826f5785892e1634b107ec]: Commencement: Sch. 5 para. 101 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00105]: Footnote: Section 17L was inserted by the 2004 Act, section 4.
 
@@ -2180,32 +2180,32 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^f00113]: Footnote: S.I. [2004/291](https://www.legislation.gov.uk/uksi/2004/291).
 
-[^key-7a138de2a56c9b76e6f404d4d7fef06f]: Commencement: Sch. 5 para. 102 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7a138de2a56c9b76e6f404d4d7fef06f]: Commencement: Sch. 5 para. 102 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-0416c61284cfcb9803d0022cadda8eb6]: Commencement: Sch. 5 para. 103 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-0416c61284cfcb9803d0022cadda8eb6]: Commencement: Sch. 5 para. 103 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-776fbb250166cd1f9a9c8aad251c4a98]: Commencement: Sch. 5 para. 104 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-776fbb250166cd1f9a9c8aad251c4a98]: Commencement: Sch. 5 para. 104 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-7bbf48aac97bf2e6cdcc71a18b930556]: Commencement: Sch. 5 para. 105 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-7bbf48aac97bf2e6cdcc71a18b930556]: Commencement: Sch. 5 para. 105 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-fd5ae4a82d13dd1218f6b4d8dd9c1dd5]: Commencement: Sch. 5 para. 106 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-fd5ae4a82d13dd1218f6b4d8dd9c1dd5]: Commencement: Sch. 5 para. 106 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-c8a8310818e960bd0180c47a13f39462]: Commencement: Sch. 5 para. 107 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c8a8310818e960bd0180c47a13f39462]: Commencement: Sch. 5 para. 107 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-81c0bdb00f2b702a2ecae3717a274bf7]: Commencement: Sch. 5 para. 108 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-81c0bdb00f2b702a2ecae3717a274bf7]: Commencement: Sch. 5 para. 108 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-3dfe60f30d2637194d936a5640db104d]: Commencement: Sch. 5 para. 109 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-3dfe60f30d2637194d936a5640db104d]: Commencement: Sch. 5 para. 109 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6b186225b22a6fe9c48ae9f98ae5d48e]: Commencement: Sch. 5 para. 110 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6b186225b22a6fe9c48ae9f98ae5d48e]: Commencement: Sch. 5 para. 110 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-ae9d8fa8005b3c82dca50ea7b0e464cb]: Commencement: Sch. 5 para. 111 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ae9d8fa8005b3c82dca50ea7b0e464cb]: Commencement: Sch. 5 para. 111 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-683d757b32939183cd6c10bbe36f3f86]: Commencement: Sch. 5 para. 112 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-683d757b32939183cd6c10bbe36f3f86]: Commencement: Sch. 5 para. 112 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-bbc2f2cc02fde670e06cfa04643d8c3a]: Commencement: Sch. 5 para. 113 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-bbc2f2cc02fde670e06cfa04643d8c3a]: Commencement: Sch. 5 para. 113 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-31d93e16f6048e4f22ccc51e0bcc74d6]: Commencement: Sch. 5 para. 114 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-31d93e16f6048e4f22ccc51e0bcc74d6]: Commencement: Sch. 5 para. 114 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-6a7d339197f2132bb70a00cdc3eda7c7]: Commencement: Sch. 5 para. 115 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-6a7d339197f2132bb70a00cdc3eda7c7]: Commencement: Sch. 5 para. 115 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a934a70097e6be3534e6bde880d64992]: Commencement: Sch. 5 para. 116 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a934a70097e6be3534e6bde880d64992]: Commencement: Sch. 5 para. 116 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

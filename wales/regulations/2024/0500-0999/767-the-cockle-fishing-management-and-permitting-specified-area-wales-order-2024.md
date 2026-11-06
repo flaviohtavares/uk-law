@@ -45,7 +45,7 @@ The Welsh Ministers, in exercise of powers conferred on them by sections 189(1) 
 
 ## PART 1 — Introduction
 
-### 1. Title, application and coming into force[^key-491d98a9228da6e25b47433178c30890]
+### 1. Title, application and coming into force[^c-491d98a9228da6e25b47433178c30890]
 
 (1) The title of this Order is the Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024.
 
@@ -54,18 +54,18 @@ The Welsh Ministers, in exercise of powers conferred on them by sections 189(1) 
 - (a) Parts 1, 2, 3, articles 14, 15, 16 and 17 of Part 4, Schedule 1, Schedule 2 and Parts 1 and 2 of Schedule 3 to this Order come into force on 10 July 2024;
 - (b) article 18 of Part 4 and Part 3 of Schedule 3 to this Order come into force on the 16 June 2025[^f00002].
 
-(3)[^key-18a2518ff7feca8473b5ecbb780e1129] In this article, “**Wales**” (“***Cymru***”) has the same meaning as in section 158(1) of the Government of Wales Act 2006.
+(3)[^c-18a2518ff7feca8473b5ecbb780e1129] In this article, “**Wales**” (“***Cymru***”) has the same meaning as in section 158(1) of the Government of Wales Act 2006.
 
-### 2. Interpretation[^key-d6bfc208809b7b7bedff810e2748f0ce]
+### 2. Interpretation[^c-d6bfc208809b7b7bedff810e2748f0ce]
 
 In this Order—
 
 - “**the 2009 Act**” (“***Deddf 2009***”) means the Marine and Coastal Access Act 2009;
-- [^key-588fad514306cd59bfef5cf63eb8ecc8]...
+- [^c-588fad514306cd59bfef5cf63eb8ecc8]...
 - “**cockle bed**” (“***gwely cocos***”) means an area of sand or fine sediment within the specified area where an aggregation of cockles is present;
-- “[^key-107d210d4ef27e910f7c46716e6cfb72]**cockles**” (“***cocos***”) means shellfish of the type *Cerastoderma edule*;
+- “[^c-107d210d4ef27e910f7c46716e6cfb72]**cockles**” (“***cocos***”) means shellfish of the type *Cerastoderma edule*;
 - “**environmental assessment**” (“***asesiad amgylcheddol***”) means an assessment of the implications of opening a cockle bed on a protected site under regulation 63 or regulation 65 of the Conservation of Habitats and Species Regulations 2017[^f00003];
-- “**harvestable surplus**” (“*gornifer cocos y gellir eu cynaeafu[^key-0e9372e77e46be71ead8da530eacab25]*) means the live weight of cockles that can be fished for or taken from the cockle bed without negatively impacting the long term sustainability of the cockle bed;
+- “**harvestable surplus**” (“*gornifer cocos y gellir eu cynaeafu[^c-0e9372e77e46be71ead8da530eacab25]*) means the live weight of cockles that can be fished for or taken from the cockle bed without negatively impacting the long term sustainability of the cockle bed;
 - “**intertidal safety training course**” (“***cwrs hyfforddiant ar ddiogelwch rhynglanwol***”) means a course that aims to make attendees familiar with conducting risk assessments, tidal information, position fixing, danger of crossing water and soft areas, commercial boat use legislation and how to request assistance in an emergency;
 - “**live weight**” (“***pwysau byw***”) means the weight of live cockles determined by weighing them in woven mesh sacks with no allowance being made of the weight of the mesh sack, whether wet or dry, nor of sand or other materials present in the sack;
 - “**relevant protected site**” (“***safle gwarchodedig perthnasol***”) means a European marine site, within the meaning of the Conservation of Habitats and Species Regulations 2017 and a site of special scientific interest, within the meaning of the Wildlife and Countryside Act 1981[^f00004];
@@ -73,23 +73,23 @@ In this Order—
   - (a) the period beginning on 1 June in a calendar year until the end of 31 May the following year, or
   - (b) where the permit is issued after 1 June in a calendar year, the period beginning when the permit is issued until the end of 31 May the following year;
 - “**specified area**” (“***ardal benodedig***”) means the area described in Schedule 1 to this Order;
-- [^key-24a7ccda25310d35dcddcadf4171fe7d]...
+- [^c-24a7ccda25310d35dcddcadf4171fe7d]...
 - “**vessel**” (“***llestr***”) has the same meaning as in section 115(1) of the 2009 Act and, for the purposes of this Order, refers to a vessel used to carry cockles fished for or taken from a cockle bed.
 
 ## PART 2 — Management of cockle beds within the specified area and fishing restrictions
 
-### 3. Prohibition[^key-312adcbc6b586246142fe49753c29793]
+### 3. Prohibition[^c-312adcbc6b586246142fe49753c29793]
 
 No person may fish for or take cockles or knowingly allow or assist another person to fish for or take cockles—
 
 - (a) from a closed cockle bed, and
 - (b) except and to the extent authorised by a permit issued under Part 3.
 
-### 4. Restriction on fishing activity[^key-792d9e2235e8e12741701dd527c13077]
+### 4. Restriction on fishing activity[^c-792d9e2235e8e12741701dd527c13077]
 
 All cockle beds are closed until they are assessed and declared open by the Welsh Ministers under articles 5 and 6.
 
-### 5. Assessment of cockle beds[^key-8027bab70fd3de6056e4b195fe5fd382]
+### 5. Assessment of cockle beds[^c-8027bab70fd3de6056e4b195fe5fd382]
 
 (1) In order to determine whether the criteria set out in article 6(a) and (b) have been met, the Welsh Ministers must assess all cockle beds that are closed under article 4 before the end of September 2024.
 
@@ -101,14 +101,14 @@ All cockle beds are closed until they are assessed and declared open by the Wels
 - (b) calculation of a harvestable surplus, and
 - (c) if there is a harvestable surplus, any required environmental assessment.
 
-### 6. Duty to open a cockle bed[^key-8e50a042fbb2e9dd2add91a0d69577b8]
+### 6. Duty to open a cockle bed[^c-8e50a042fbb2e9dd2add91a0d69577b8]
 
 The Welsh Ministers must by declaration, open a cockle bed if an assessment carried out under article 5 has concluded that—
 
 - (a) there is a harvestable surplus, and
 - (b) opening the cockle bed subject to conditions on fishing for or taking cockles from that bed will not adversely affect the integrity of a relevant protected site.
 
-### 7. Duty to close a cockle bed[^key-efbe6f04f1ad6108e23a75c8ea865121]
+### 7. Duty to close a cockle bed[^c-efbe6f04f1ad6108e23a75c8ea865121]
 
 (1) The Welsh Ministers must by declaration close an open cockle bed if there is evidence that—
 
@@ -120,7 +120,7 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 
 ## PART 3 — Permits to fish for or take cockles
 
-### 8. Requirement for a permit[^key-1e552cb5bda1fcc84f98c45b10c57dec]
+### 8. Requirement for a permit[^c-1e552cb5bda1fcc84f98c45b10c57dec]
 
 (1) The Welsh Ministers may issue a permit for the purpose of authorising fishing for or taking cockles from the specified area.
 
@@ -133,7 +133,7 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 
 (4) A permit may not be transferred from one person to another.
 
-### 9. Permit conditions[^key-1b5081044fdbeadfe116175c8ff22571]
+### 9. Permit conditions[^c-1b5081044fdbeadfe116175c8ff22571]
 
 (1) Every permit issued by the Welsh Ministers under article 8 is subject to—
 
@@ -152,7 +152,7 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 
 (3) The Welsh Ministers may vary the additional conditions or remove them from permits.
 
-(4) Where reasonably practicable, the Welsh Ministers must[^key-83329448290dad2dbfc6454cd04dfad6] consult with permit holders and other relevant stakeholders before varying or removing additional conditions.
+(4) Where reasonably practicable, the Welsh Ministers must[^c-83329448290dad2dbfc6454cd04dfad6] consult with permit holders and other relevant stakeholders before varying or removing additional conditions.
 
 (5) The Welsh Ministers must notify the following persons of a decision to vary or remove additional conditions—
 
@@ -164,9 +164,9 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 (7) In this article—
 
 - (a) “**a daily catch limit**” means the total live weight of cockles which may be fished for or taken each day by each permit holder;
-- (b)[^key-b81e5a928f2ba16f0720210b0542a2f5] “**minimum landing size**” means the smallest size of cockle that is retained by a gauge having a square opening of X millimetres measured across each side of the square, with “X” being the measurement set in conditions attached to a permit issued under article 8 of this Order
+- (b)[^c-b81e5a928f2ba16f0720210b0542a2f5] “**minimum landing size**” means the smallest size of cockle that is retained by a gauge having a square opening of X millimetres measured across each side of the square, with “X” being the measurement set in conditions attached to a permit issued under article 8 of this Order
 
-### 10. Persons entitled to a permit[^key-56f13aca51b2f12cdcadf53db74215c3]
+### 10. Persons entitled to a permit[^c-56f13aca51b2f12cdcadf53db74215c3]
 
 (1) A person may apply for a permit if they—
 
@@ -183,7 +183,7 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
   - (ii) section 190 (contravention of orders under section 189), or
   - (iii) section 292 (offences in relation to enforcement officers), of the 2009 Act[^f00008].
 
-### 11. Application for a permit[^key-417a088c9b678d85957d5aea23eccdf4]
+### 11. Application for a permit[^c-417a088c9b678d85957d5aea23eccdf4]
 
 (1) To apply for a permit, a person must—
 
@@ -200,13 +200,13 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 
 (2) An application may be made in respect of a single permit period.
 
-### 12. Permit fees[^key-91c8cb26a32a3a6b7a0bca7356775e32]
+### 12. Permit fees[^c-91c8cb26a32a3a6b7a0bca7356775e32]
 
 (1) The annual permit fee—
 
 - (a) is to be determined by the Welsh Ministers,
-- (b) must[^key-6439b22645a952a7865d01a4675d5350] apply to each permit, and
-- (c) must[^key-0741891e66b3642e0a21f508236804d0] apply even where a permit is applied for and issued partway through a permit period.
+- (b) must[^c-6439b22645a952a7865d01a4675d5350] apply to each permit, and
+- (c) must[^c-0741891e66b3642e0a21f508236804d0] apply even where a permit is applied for and issued partway through a permit period.
 
 (2) In determining the annual permit fee, the Welsh Ministers may take into account—
 
@@ -216,7 +216,7 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 - (d) expenditure arising from any analysis of daily catch returns, and
 - (e) any other relevant expenditure.
 
-### 13. Production of permits and additional requirements[^key-407e18f8f2cee9ba9c93286313eb9ef4]
+### 13. Production of permits and additional requirements[^c-407e18f8f2cee9ba9c93286313eb9ef4]
 
 (1) A person fishing for or taking cockles must produce a copy of that person’s permit if requested to do so by a person authorised by the Welsh Ministers.
 
@@ -228,7 +228,7 @@ The Welsh Ministers must by declaration, open a cockle bed if an assessment carr
 
 ## PART 4 — Exemptions, re-deposit of cockles and final provisions
 
-### 14. Exemptions[^key-74ed3f29dbdff2fce4621ec4834ad9b2]
+### 14. Exemptions[^c-74ed3f29dbdff2fce4621ec4834ad9b2]
 
 The provisions of this Order do not apply—
 
@@ -238,7 +238,7 @@ The provisions of this Order do not apply—
   - (i) any right of several fishery, or
   - (ii) any right on, to or over any part of the seashore that is enjoyed by a person under a local or special Act of the Parliament of the United Kingdom, a Royal charter, letters patent, or by prescription or immemorial usage.
 
-### 15. Re-deposit of cockles[^key-f3c968835751bcc5289fc260d7e1648c]
+### 15. Re-deposit of cockles[^c-f3c968835751bcc5289fc260d7e1648c]
 
 (1) A person who fishes for or takes cockles contrary to the provisions in this Order must re-deposit the cockles on the cockle bed from which they were taken in accordance with instructions from a marine enforcement officer.
 
@@ -246,23 +246,23 @@ The provisions of this Order do not apply—
 
 (3) In this article a “**marine enforcement officer**” has the same meaning as in section 235(1) of the 2009 Act.
 
-### 16. Declarations, notices and permits[^key-a3b4f71e3cf3d6c1b29876d07e55c7d9]
+### 16. Declarations, notices and permits[^c-a3b4f71e3cf3d6c1b29876d07e55c7d9]
 
 (1) A declaration, notification or permit made or issued under this Order must be made in writing.
 
-(2) Declarations and notifications made under this Order must[^key-17c8956447e9ffa78e2000c1756f0432] be published on the Welsh Government website[^f00009] and, whenever practicable, declarations must be placed in clearly visible locations on or near the cockle bed.
+(2) Declarations and notifications made under this Order must[^c-17c8956447e9ffa78e2000c1756f0432] be published on the Welsh Government website[^f00009] and, whenever practicable, declarations must be placed in clearly visible locations on or near the cockle bed.
 
 (3) Where anything under this Order must be done in writing, that includes an electronic communication as defined in section 15(1) of the Electronic Communications Act 2000[^f00010], which has been recorded and is consequently capable of being reproduced.
 
 (4) Declarations and notifications may be amended or revoked by subsequent declarations or notices.
 
-### 17. Revocations and amendments: general[^key-2cfa15363995bbb23531e300df2ff69b]
+### 17. Revocations and amendments: general[^c-2cfa15363995bbb23531e300df2ff69b]
 
 (1) Part 1 of Schedule 3 contains revocations and amendments to secondary legislation.
 
 (2) Part 2 of Schedule 3 contains revocations and amendments to the Byelaws of the former North Western and North Wales Sea Fisheries Committee[^f00011] and the Byelaws of the former South Wales Sea Fisheries Committee[^f00012].
 
-### 18. Revocations and amendments: Burry Inlet cockle fishery[^key-2abf22375f78c67fb8cab3436f56039b]
+### 18. Revocations and amendments: Burry Inlet cockle fishery[^c-2abf22375f78c67fb8cab3436f56039b]
 
 Part 3 of Schedule 3 contains revocations and amendments to the Marine and Coastal Access Act 2009 (Commencement No 1, Consequential, Transitional and Savings Provision) (England and Wales) Order 2010[^f00013] and the Byelaws of the former South Wales Sea Fisheries Committee in respect of the Burry Inlet cockle fishery.
 
@@ -276,7 +276,7 @@ Cabinet Secretary for Climate Change and Rural Affairs, one of the Welsh Ministe
 
 Article 2
 
-**1.**[^key-cf1a47c02d9ecf3e408c8cf6f22a0210] (1) The specified area lies within the following limits—
+**1.**[^c-cf1a47c02d9ecf3e408c8cf6f22a0210] (1) The specified area lies within the following limits—
 
 - (a) a line drawn eastwards from Ginst Point (map reference SN 332079) to Pen Tywyn Point (map reference SN 357064);
 - (b) a line drawn from—
@@ -285,7 +285,7 @@ Article 2
   - (iii) position C (map reference SS 4472 9670), and
   - (iv) along the Highest Astronomical Tides to position A;
 - (c) a line drawn—
-  - (i) on the West, from the seaward end of Pembrey Pier to the most northerly point of Whiteford Point, which lies between High Water Mark of Ordinary Tides[^key-f2a1ea6b0a6dcd808d01f2eda96c792d] on the northern and southern shores of the estuary respectively;
+  - (i) on the West, from the seaward end of Pembrey Pier to the most northerly point of Whiteford Point, which lies between High Water Mark of Ordinary Tides[^c-f2a1ea6b0a6dcd808d01f2eda96c792d] on the northern and southern shores of the estuary respectively;
   - (ii) on the east, from the seaward side of that part of the Loughor Railway Bridge which is situated between High Water Mark of Ordinary Tides on the north-western and south-eastern shores respectively and a line drawn from the south-eastern end of that part of the railway bridge due south until it again meets High Water Mark of Ordinary Tides;
   - (iii) on the north and south, from the High Water Mark of Ordinary Tides on the northern and southern shores of the estuary respectively between the western and eastern boundaries;
 - (d) the area below the line of the Highest Astronomical Tides enclosed by a line drawn between—
@@ -310,23 +310,23 @@ Article 2
 
 Article 9
 
-**1.**[^key-34631df14e0a3836c8e057b2c2c7d3f7] The following conditions apply to all permits issued by the Welsh Ministers under article 8 of this Order.
+**1.**[^c-34631df14e0a3836c8e057b2c2c7d3f7] The following conditions apply to all permits issued by the Welsh Ministers under article 8 of this Order.
 
-### 2. Requirement to check the status of a cockle bed[^key-aac75cef70e3dd57d8a1bfe5c77714db]
+### 2. Requirement to check the status of a cockle bed[^c-aac75cef70e3dd57d8a1bfe5c77714db]
 
 The permit holder must check the Welsh Government’s website[^f00014] each day to confirm a cockle bed is open before they fish for or take cockles from that cockle bed.
 
-### 3. Prohibition on fishing at night[^key-af556ca58c59712afa22e4b5a4942d06]
+### 3. Prohibition on fishing at night[^c-af556ca58c59712afa22e4b5a4942d06]
 
 The permit holder must not fish for or take cockles or knowingly allow or assist another person to fish for or take cockles from a cockle bed between half an hour after sunset on any day and half an hour before sunrise on the following day.
 
-### 4. Restriction on the use of vessels[^key-b17d57c58115bf5feafe5b13b9c3de38]
+### 4. Restriction on the use of vessels[^c-b17d57c58115bf5feafe5b13b9c3de38]
 
 The permit holder must not use a vessel over 10 metres in overall length when measured from bow to stern, when fishing for or taking cockles from a cockle bed.
 
-**5.**[^key-c94a9bf92b3359657245ce830d08d59c] A permit holder must notify the Welsh Ministers if the details relating to the vessel identified in their permit application change at any time during the permit period.
+**5.**[^c-c94a9bf92b3359657245ce830d08d59c] A permit holder must notify the Welsh Ministers if the details relating to the vessel identified in their permit application change at any time during the permit period.
 
-### 6. Daily catch returns[^key-f07a55d1db44bf7970c6c74f87a5f303]
+### 6. Daily catch returns[^c-f07a55d1db44bf7970c6c74f87a5f303]
 
 (1) The permit holder must submit a daily catch return to the Welsh Ministers within two days of the day on which those cockles were fished for or taken from a cockle bed.
 
@@ -336,15 +336,15 @@ The permit holder must not use a vessel over 10 metres in overall length when me
 - (b) the total live weight of all cockles gathered on that date, and
 - (c) the cockle bed from which the cockles were gathered.
 
-### 7. Gathering and sorting of cockles[^key-442d5f4673abae74059882ad01c98673]
+### 7. Gathering and sorting of cockles[^c-442d5f4673abae74059882ad01c98673]
 
 The permit holder must sort and wash cockles before they are taken from the cockle bed and for these purposes, a cockle is deemed as taken from a cockle bed as soon as it is placed in a container (including bags, sacks, and other similar receptacles).
 
-**8.**[^key-0707f07ee3d8127c9eae7cee8c82ab63] (1) The permit holder must not have in their possession or vessel a net bag while on a cockle bed or use a net bag to gather cockles from a cockle bed.
+**8.**[^c-0707f07ee3d8127c9eae7cee8c82ab63] (1) The permit holder must not have in their possession or vessel a net bag while on a cockle bed or use a net bag to gather cockles from a cockle bed.
 
 (2) For the purposes of this paragraph “**net bag**” means a flexible handheld device used to fish for or take cockles which has a rigid frame and a wide, open net.
 
-### 9. Requirement to carry and produce the permit[^key-bbfd99080eadc0b5765f9a69dd20ab7f]
+### 9. Requirement to carry and produce the permit[^c-bbfd99080eadc0b5765f9a69dd20ab7f]
 
 The permit holder must carry their permit at all times (either in electronic or paper form) while gathering cockles from a cockle bed.
 
@@ -354,7 +354,7 @@ Articles 17 and 18
 
 ### PART 1 — Secondary Legislation
 
-#### 1. Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010[^key-3c91ce3c0c21589f05b9afff2f546f8b]
+#### 1. Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010[^c-3c91ce3c0c21589f05b9afff2f546f8b]
 
 (1) The Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010[^f00015] is amended as follows.
 
@@ -362,7 +362,7 @@ Articles 17 and 18
 
 (3) In the Table in Schedule 4 (Byelaws of the former North Western and North Wales Sea Fisheries Committee), delete the row relating to Byelaw 14 (Cockle Fishery – Seasonal Closure).
 
-#### 2. The Cockles and Mussels (Specified Area) (Wales) Order 2011[^key-b5aed5c33c0810672ca47bb616ca93a2]
+#### 2. The Cockles and Mussels (Specified Area) (Wales) Order 2011[^c-b5aed5c33c0810672ca47bb616ca93a2]
 
 (1) The Cockles and Mussels (Specified Area) (Wales) Order 2011[^f00016] is amended as follows.
 
@@ -391,7 +391,7 @@ Articles 17 and 18
 
 ### PART 2 — Byelaws of the former Sea Fisheries Committees
 
-#### 3. Byelaws of the former North Western and North Wales Sea Fisheries Committee[^key-ffee7e5da3ad38eb512a83f3c59ae121]
+#### 3. Byelaws of the former North Western and North Wales Sea Fisheries Committee[^c-ffee7e5da3ad38eb512a83f3c59ae121]
 
 (1) The Byelaws[^f00017] of the former North Western and North Wales Sea Fisheries Committee are amended as follows.
 
@@ -400,13 +400,13 @@ Articles 17 and 18
 - (a) omit paragraph 1 b) and the “or” following it;
 - (b) after paragraph 3, insert “References in this Byelaw to bivalve molluscan shellfish do not include cockles.”
 
-(3) In Byelaw 13 (Cockles – Minimum Size), at the end insert “This Byelaw does not apply in the Specified Area defined in article 2 of and Schedule 1 to the Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024[^key-9696f2c347d327a313fbf2309ece1ee9].”
+(3) In Byelaw 13 (Cockles – Minimum Size), at the end insert “This Byelaw does not apply in the Specified Area defined in article 2 of and Schedule 1 to the Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024[^c-9696f2c347d327a313fbf2309ece1ee9].”
 
 (4) In Byelaw 13A (Cockles and Mussels – Management of the Fishery)—
 
 - (a) omit “cockles and” and “cockles or” in each place these occur, including in the heading;
 - (b) in paragraph 1, omit “cockle (*Cerastoderma edule*) or”;
-- (c) in paragraphs 2 and 3, in both places it occurs[^key-9f8ed0e6ecf7e10ed5bd8aaaaef4b391], omit “cockle or”.
+- (c) in paragraphs 2 and 3, in both places it occurs[^c-9f8ed0e6ecf7e10ed5bd8aaaaef4b391], omit “cockle or”.
 
 (5) Byelaw 14 (Cockle Fishery – Seasonal Closure) is revoked.
 
@@ -414,7 +414,7 @@ Articles 17 and 18
 
 (7) In Byelaw 17 (Re-Deposit of Shellfish), omit “, and in re-depositing cockles, in accordance with this byelaw, shall spread them thinly and evenly over the beds”.
 
-#### 4. Byelaws of the former South Wales Sea Fisheries Committee[^key-0a39d5d452975c5877ceb44749bd27e3]
+#### 4. Byelaws of the former South Wales Sea Fisheries Committee[^c-0a39d5d452975c5877ceb44749bd27e3]
 
 (1) The Byelaws[^f00018] of the former South Wales Sea Fisheries Committee are amended as follows.
 
@@ -437,11 +437,11 @@ Articles 17 and 18
 
 ### PART 3 — The Burry Inlet cockle fishery
 
-**5.**[^key-91f99498bbb28a0e5e884c7054ce7c7a] (1) The Marine and Coastal Access Act 2009 (Commencement No 1, Consequential, Transitional and Savings Provision) (England and Wales) Order 2010 is amended as follows.
+**5.**[^c-91f99498bbb28a0e5e884c7054ce7c7a] (1) The Marine and Coastal Access Act 2009 (Commencement No 1, Consequential, Transitional and Savings Provision) (England and Wales) Order 2010 is amended as follows.
 
 (2) In the Table in Schedule 3 (Byelaws of the former South Wales Sea Fisheries Committee), delete the rows relating to Byelaw 15 (Vehicle Usage in the Burry Inlet Cockle Fishery), Byelaw 16 (No Sunday Gathering), Byelaw 17 (The Licensing of Cockle Gathering in the Burry Inlet), Byelaw 18 (Daily Cockle Quota (Burry Inlet)), and Byelaw 19 (Personal Cockle Gathering – Burry Inlet).
 
-**6.**[^key-c8edef590c2346d5f963c98cdd13fdc6] (1) The Byelaws of the former South Wales Sea Fisheries Committee are amended as follows.
+**6.**[^c-c8edef590c2346d5f963c98cdd13fdc6] (1) The Byelaws of the former South Wales Sea Fisheries Committee are amended as follows.
 
 (2) Byelaw 15 (Vehicle Usage in the Burry Inlet Cockle Fishery) is revoked.
 
@@ -481,45 +481,45 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23). Section 189 was amended by paragraph 28 of Schedule 10 to the Fisheries Act [2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22). Provision which the authority for an IFC district may make by byelaw under section 155 for the purposes set out in section 153 and 154, is further described in sections 156 to 158.
 
-[^key-491d98a9228da6e25b47433178c30890]: Commencement: Art. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-491d98a9228da6e25b47433178c30890]: Commencement: Art. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00002]: Footnote: Article 18 refers to the Byelaws of the former South Wales Sea Fisheries Committee which relate to the management of the Burry Inlet Cockle Fishery. The Burry Inlet Cockle Fishery is also subject to the Burry Inlet Cockle Fishery Order 1965 which was made under section 1 Sea Fisheries (Shellfish) Act 1967. That Order will expire on 15 June 2025. From 16 June 2025, this Order will apply to the Burry Inlet Cockle Fishery.
 
-[^key-18a2518ff7feca8473b5ecbb780e1129]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2024/767/article/1/3) inserted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [4](https://www.legislation.gov.uk/wsi/2025/815/article/4)
+[^c-18a2518ff7feca8473b5ecbb780e1129]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2024/767/article/1/3) inserted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [4](https://www.legislation.gov.uk/wsi/2025/815/article/4)
 
-[^key-d6bfc208809b7b7bedff810e2748f0ce]: Commencement: Art. 2 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-d6bfc208809b7b7bedff810e2748f0ce]: Commencement: Art. 2 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-588fad514306cd59bfef5cf63eb8ecc8]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2025/815/article/5/2)
+[^c-588fad514306cd59bfef5cf63eb8ecc8]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2025/815/article/5/2)
 
-[^key-107d210d4ef27e910f7c46716e6cfb72]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) inserted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2025/815/article/5/3)
+[^c-107d210d4ef27e910f7c46716e6cfb72]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) inserted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2025/815/article/5/3)
 
 [^f00003]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012). Regulation 63 of [S.I. 2017/2012](https://www.legislation.gov.uk/uksi/2017/2012) has been amended by [S.I. 2019/579](https://www.legislation.gov.uk/uksi/2019/579) and [S.I. 2020/94](https://www.legislation.gov.uk/uksi/2020/94).
 
-[^key-0e9372e77e46be71ead8da530eacab25]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(4)](https://www.legislation.gov.uk/wsi/2025/815/article/5/4)
+[^c-0e9372e77e46be71ead8da530eacab25]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(4)](https://www.legislation.gov.uk/wsi/2025/815/article/5/4)
 
 [^f00004]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-24a7ccda25310d35dcddcadf4171fe7d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(5)](https://www.legislation.gov.uk/wsi/2025/815/article/5/5)
+[^c-24a7ccda25310d35dcddcadf4171fe7d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2024/767/article/2) omitted (1.8.2025) by virtue of [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [5(5)](https://www.legislation.gov.uk/wsi/2025/815/article/5/5)
 
-[^key-312adcbc6b586246142fe49753c29793]: Commencement: Art. 3 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-312adcbc6b586246142fe49753c29793]: Commencement: Art. 3 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-792d9e2235e8e12741701dd527c13077]: Commencement: Art. 4 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-792d9e2235e8e12741701dd527c13077]: Commencement: Art. 4 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-8027bab70fd3de6056e4b195fe5fd382]: Commencement: Art. 5 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-8027bab70fd3de6056e4b195fe5fd382]: Commencement: Art. 5 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-8e50a042fbb2e9dd2add91a0d69577b8]: Commencement: Art. 6 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-8e50a042fbb2e9dd2add91a0d69577b8]: Commencement: Art. 6 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-efbe6f04f1ad6108e23a75c8ea865121]: Commencement: Art. 7 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-efbe6f04f1ad6108e23a75c8ea865121]: Commencement: Art. 7 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-1e552cb5bda1fcc84f98c45b10c57dec]: Commencement: Art. 8 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-1e552cb5bda1fcc84f98c45b10c57dec]: Commencement: Art. 8 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-1b5081044fdbeadfe116175c8ff22571]: Commencement: Art. 9 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-1b5081044fdbeadfe116175c8ff22571]: Commencement: Art. 9 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-83329448290dad2dbfc6454cd04dfad6]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/wsi/2024/767/article/9/4) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2025/815/article/7/2)
+[^c-83329448290dad2dbfc6454cd04dfad6]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/wsi/2024/767/article/9/4) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2025/815/article/7/2)
 
-[^key-b81e5a928f2ba16f0720210b0542a2f5]: Textual amendment: [Art. 9(7)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/9/7/b) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2025/815/article/7/3)
+[^c-b81e5a928f2ba16f0720210b0542a2f5]: Textual amendment: [Art. 9(7)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/9/7/b) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2025/815/article/7/3)
 
-[^key-56f13aca51b2f12cdcadf53db74215c3]: Commencement: Art. 10 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-56f13aca51b2f12cdcadf53db74215c3]: Commencement: Art. 10 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00006]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83). Subsection (3) maximum fine was increased by the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), Section 31(6), and converted to a level on the standard scale by virtue of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) Subsection 37, 38, 46, and further increased by the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), Section 157, Schedule 8, Part I. Subsection (3) was further amended by the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), s 205(1), (2) and by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -527,82 +527,82 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23). Sections 139(1) and (2) were amended (relevantly) to include reference to new section 134A by the Fisheries Act [2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), Schedule 10, paragraph 23. Sections 190 and 292 were amended to increase the maximum fine by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), Schedule 4, paragraph 43.
 
-[^key-417a088c9b678d85957d5aea23eccdf4]: Commencement: Art. 11 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-417a088c9b678d85957d5aea23eccdf4]: Commencement: Art. 11 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-91c8cb26a32a3a6b7a0bca7356775e32]: Commencement: Art. 12 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-91c8cb26a32a3a6b7a0bca7356775e32]: Commencement: Art. 12 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-6439b22645a952a7865d01a4675d5350]: Textual amendment: Word in [art. 12(1)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/12/1/b) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2025/815/article/9/2)
+[^c-6439b22645a952a7865d01a4675d5350]: Textual amendment: Word in [art. 12(1)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/12/1/b) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2025/815/article/9/2)
 
-[^key-0741891e66b3642e0a21f508236804d0]: Textual amendment: Word in [art. 12(1)(c)](https://www.legislation.gov.uk/wsi/2024/767/article/12/1/c) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2025/815/article/9/3)
+[^c-0741891e66b3642e0a21f508236804d0]: Textual amendment: Word in [art. 12(1)(c)](https://www.legislation.gov.uk/wsi/2024/767/article/12/1/c) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2025/815/article/9/3)
 
-[^key-407e18f8f2cee9ba9c93286313eb9ef4]: Commencement: Art. 13 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-407e18f8f2cee9ba9c93286313eb9ef4]: Commencement: Art. 13 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-74ed3f29dbdff2fce4621ec4834ad9b2]: Commencement: Art. 14 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-74ed3f29dbdff2fce4621ec4834ad9b2]: Commencement: Art. 14 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-f3c968835751bcc5289fc260d7e1648c]: Commencement: Art. 15 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-f3c968835751bcc5289fc260d7e1648c]: Commencement: Art. 15 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-a3b4f71e3cf3d6c1b29876d07e55c7d9]: Commencement: Art. 16 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-a3b4f71e3cf3d6c1b29876d07e55c7d9]: Commencement: Art. 16 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-17c8956447e9ffa78e2000c1756f0432]: Textual amendment: Word in [art. 16(2)](https://www.legislation.gov.uk/wsi/2024/767/article/16/2) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [10](https://www.legislation.gov.uk/wsi/2025/815/article/10)
+[^c-17c8956447e9ffa78e2000c1756f0432]: Textual amendment: Word in [art. 16(2)](https://www.legislation.gov.uk/wsi/2024/767/article/16/2) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [10](https://www.legislation.gov.uk/wsi/2025/815/article/10)
 
 [^f00009]: Footnote: Copies of declarations can be accessed at www.gov.wales.
 
 [^f00010]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-2cfa15363995bbb23531e300df2ff69b]: Commencement: Art. 17 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-2cfa15363995bbb23531e300df2ff69b]: Commencement: Art. 17 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00011]: Footnote: The North Western and North Wales Sea Fisheries Committee was dissolved, in relation to Wales, on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38).
 
 [^f00012]: Footnote: The South Wales Sea Fisheries Committee was dissolved, in relation to Wales, on 1 April 2010 when article 3 of the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)) brought into force section 187 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), with the effect of repealing the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38).
 
-[^key-2abf22375f78c67fb8cab3436f56039b]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2024/767/article/18) in force at 16.6.2025, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b)
+[^c-2abf22375f78c67fb8cab3436f56039b]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2024/767/article/18) in force at 16.6.2025, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b)
 
 [^f00013]: Footnote: [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630).
 
-[^key-cf1a47c02d9ecf3e408c8cf6f22a0210]: Commencement: Sch. 1 para. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-cf1a47c02d9ecf3e408c8cf6f22a0210]: Commencement: Sch. 1 para. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-f2a1ea6b0a6dcd808d01f2eda96c792d]: Textual amendment: Words in [Sch. 1 para. 1(1)(c)(i)](https://www.legislation.gov.uk/wsi/2024/767/schedule/1/paragraph/1/1/c/i) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [11](https://www.legislation.gov.uk/wsi/2025/815/article/11)
+[^c-f2a1ea6b0a6dcd808d01f2eda96c792d]: Textual amendment: Words in [Sch. 1 para. 1(1)(c)(i)](https://www.legislation.gov.uk/wsi/2024/767/schedule/1/paragraph/1/1/c/i) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [11](https://www.legislation.gov.uk/wsi/2025/815/article/11)
 
-[^key-34631df14e0a3836c8e057b2c2c7d3f7]: Commencement: Sch. 2 para. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-34631df14e0a3836c8e057b2c2c7d3f7]: Commencement: Sch. 2 para. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-aac75cef70e3dd57d8a1bfe5c77714db]: Commencement: Sch. 2 para. 2 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-aac75cef70e3dd57d8a1bfe5c77714db]: Commencement: Sch. 2 para. 2 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00014]: Footnote: www.gov.wales.
 
-[^key-af556ca58c59712afa22e4b5a4942d06]: Commencement: Sch. 2 para. 3 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-af556ca58c59712afa22e4b5a4942d06]: Commencement: Sch. 2 para. 3 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-b17d57c58115bf5feafe5b13b9c3de38]: Commencement: Sch. 2 para. 4 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-b17d57c58115bf5feafe5b13b9c3de38]: Commencement: Sch. 2 para. 4 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-c94a9bf92b3359657245ce830d08d59c]: Commencement: Sch. 2 para. 5 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-c94a9bf92b3359657245ce830d08d59c]: Commencement: Sch. 2 para. 5 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-f07a55d1db44bf7970c6c74f87a5f303]: Commencement: Sch. 2 para. 6 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-f07a55d1db44bf7970c6c74f87a5f303]: Commencement: Sch. 2 para. 6 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-442d5f4673abae74059882ad01c98673]: Commencement: Sch. 2 para. 7 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-442d5f4673abae74059882ad01c98673]: Commencement: Sch. 2 para. 7 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-0707f07ee3d8127c9eae7cee8c82ab63]: Commencement: Sch. 2 para. 8 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-0707f07ee3d8127c9eae7cee8c82ab63]: Commencement: Sch. 2 para. 8 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-bbfd99080eadc0b5765f9a69dd20ab7f]: Commencement: Sch. 2 para. 9 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-bbfd99080eadc0b5765f9a69dd20ab7f]: Commencement: Sch. 2 para. 9 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
-[^key-3c91ce3c0c21589f05b9afff2f546f8b]: Commencement: Sch. 3 para. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-3c91ce3c0c21589f05b9afff2f546f8b]: Commencement: Sch. 3 para. 1 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00015]: Footnote: [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630). Schedule 3 has been amended by [S.I. 2015/2076 (W. 312)](https://www.legislation.gov.uk/wsi/2015/2076), art.7(6)(a), and [S.I.2019/1042 (W. 184)](https://www.legislation.gov.uk/wsi/2019/1042), art.7(3). Schedule 4 has been amended by [S.I. 2011/1988 (W. 219)](https://www.legislation.gov.uk/wsi/2011/1988), art 9(2), and [S.I. 2012/2571 (W. 282)](https://www.legislation.gov.uk/wsi/2012/2571), art 4(2), and [S.I. 2015/2076 (W. 312)](https://www.legislation.gov.uk/wsi/2015/2076), art 7(6)(b).
 
-[^key-b5aed5c33c0810672ca47bb616ca93a2]: Commencement: Sch. 3 para. 2 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-b5aed5c33c0810672ca47bb616ca93a2]: Commencement: Sch. 3 para. 2 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00016]: Footnote: [S.I. 2011/1988 (W. 219)](https://www.legislation.gov.uk/wsi/2011/1988).
 
-[^key-ffee7e5da3ad38eb512a83f3c59ae121]: Commencement: Sch. 3 para. 3 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-ffee7e5da3ad38eb512a83f3c59ae121]: Commencement: Sch. 3 para. 3 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00017]: Footnote: From 1 April 2010, the Byelaws of the former North Western and North Wales Sea Fisheries Committee have effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(3) of and Schedule 4 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
 
-[^key-9696f2c347d327a313fbf2309ece1ee9]: Textual amendment: Words in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/3/3) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2025/815/article/13/2)
+[^c-9696f2c347d327a313fbf2309ece1ee9]: Textual amendment: Words in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/3/3) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2025/815/article/13/2)
 
-[^key-9f8ed0e6ecf7e10ed5bd8aaaaef4b391]: Textual amendment: Words in [Sch. 3 para. 3(4)(c)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/3/4/c) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [13(3)](https://www.legislation.gov.uk/wsi/2025/815/article/13/3)
+[^c-9f8ed0e6ecf7e10ed5bd8aaaaef4b391]: Textual amendment: Words in [Sch. 3 para. 3(4)(c)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/3/4/c) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Minimum Landing Size and Miscellaneous Corrections) (Wales) Order 2025 (S.I. 2025/815)](https://www.legislation.gov.uk/wsi/2025/815), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/815/article/1/2), [13(3)](https://www.legislation.gov.uk/wsi/2025/815/article/13/3)
 
-[^key-0a39d5d452975c5877ceb44749bd27e3]: Commencement: Sch. 3 para. 4 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
+[^c-0a39d5d452975c5877ceb44749bd27e3]: Commencement: Sch. 3 para. 4 in force at 10.7.2024, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/a)
 
 [^f00018]: Footnote: From 1 April 2010, the Byelaws of the former South Wales Sea Fisheries Committee have effect as if made by the Welsh Ministers in a statutory instrument in relation to the same area of Wales as the area to which that byelaw originally applied by virtue of article 13(1) of and Schedule 3 to the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010 ([S.I. 2010/630 (C. 42)](https://www.legislation.gov.uk/uksi/2010/630)).
 
-[^key-91f99498bbb28a0e5e884c7054ce7c7a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/5) in force at 16.6.2025, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b)
+[^c-91f99498bbb28a0e5e884c7054ce7c7a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/5) in force at 16.6.2025, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b)
 
-[^key-c8edef590c2346d5f963c98cdd13fdc6]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/6) in force at 16.6.2025, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b)
+[^c-c8edef590c2346d5f963c98cdd13fdc6]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/6) in force at 16.6.2025, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b)

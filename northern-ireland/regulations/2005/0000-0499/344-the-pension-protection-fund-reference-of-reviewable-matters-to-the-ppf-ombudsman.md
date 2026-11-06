@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 192(1) to (3), (4)(a) to (d) and (f) and (5)(a) to (d) and (f) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-78f7e8ea20e769b77bb8aad16d2ebfd8]
+## 1. Citation, commencement and interpretation[^c-78f7e8ea20e769b77bb8aad16d2ebfd8]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Reference of Reviewable Matters to the PPF Ombudsman) Regulations (Northern Ireland) 2005 and shall come into operation on 21st July 2005.
 
@@ -54,11 +54,11 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (b) the Board;
 - “Reconsideration Committee” means a committee of the Board constituted under Article 189 (review and reconsideration by the Board of reviewable matters).
 
-## 2. Reference of a reviewable matter[^key-ea74a1e27725e3cbf032e3ab97bec3fc]
+## 2. Reference of a reviewable matter[^c-ea74a1e27725e3cbf032e3ab97bec3fc]
 
 Where the Reconsideration Committee has given a reconsideration decision in relation to a reviewable matter by virtue of regulations made under Article 189(1)(b) or (3)(b), that matter may be referred to the PPF Ombudsman by any person who is sent, or required to be sent, a copy of the reconsideration decision under those regulations.
 
-## 3. Time for making a reference[^key-81a74636d778e0403ff1c9cff6553a2c]
+## 3. Time for making a reference[^c-81a74636d778e0403ff1c9cff6553a2c]
 
 (1) Subject to regulation 19(1), a reference of a reviewable matter is made when it is sent to the PPF Ombudsman by a person before the end of the period of 28 days beginning with the date on which that person was sent a notice of the reconsideration decision.
 
@@ -71,7 +71,7 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
   - (i) a scheme failure notice under Article 114(2) (Board’s duty where application or notification received under Article 113), or
   - (ii) a withdrawal notice under Article 114(3);
 - (e) the issue of a notice under Article 120(2) (power to validate contraventions of Article 119);
-- (ea)[^key-34c9665aa899bdc79781df1041079fa4] the issue of—
+- (ea)[^c-34c9665aa899bdc79781df1041079fa4] the issue of—
   - (i) a notice under Article 127(2A) (whether Board will make a determination or obtain an actuarial valuation), or
   - (ii) a determination under Article 127(2)(a) (whether condition in Article 111(2)(a) or 112(2)(a) satisfied);
 - (f) the approval of the valuation under Article 128(2)(a)[^f00003] (approval of valuation);
@@ -80,12 +80,12 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
 - (i) the issue of a withdrawal notice under Article 131(2)(a) (new schemes created to replace existing schemes);
 - (j) the issue of a withdrawal notice under Article 132(3) or (4) (withdrawal following issue of Article 106(4) notice);
 - (k) the issue of a determination notice under Article 136(3) (duty to assume responsibility following reconsideration);
-- (l) the issue of a determination notice under Article 137(6) (closed schemes); or[^key-9b8429a352ab84f7f7732c96d89acf0d]
+- (l) the issue of a determination notice under Article 137(6) (closed schemes); or[^c-9b8429a352ab84f7f7732c96d89acf0d]
 - (m) the issue of—
   - (i) a notice under Article 142(3A) (whether Board will make a determination or obtain an actuarial valuation), or
   - (ii) a determination under Article 142(3)(a) (whether condition in Article 142(1) satisfied).
 
-## 4. Form and content of a reference[^key-f90e637c78db8817604a6adb016ef11a]
+## 4. Form and content of a reference[^c-f90e637c78db8817604a6adb016ef11a]
 
 (1) A reference of a reviewable matter to the PPF Ombudsman must be made in writing and must include—
 
@@ -101,7 +101,7 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
 
 (4) In paragraph (3) “electronic communications network” has the same meaning as in section 32 of the Communications Act 2003[^f00005] (meaning of electronic communications networks and services).
 
-## 5. Procedure on receipt of a reference[^key-12c7345c44df84d2552cf0331fc665dd]
+## 5. Procedure on receipt of a reference[^c-12c7345c44df84d2552cf0331fc665dd]
 
 (1) As soon as practicable after receiving a reference of a reviewable matter that is duly made in accordance with regulations 3(1) and 4, the PPF Ombudsman must—
 
@@ -136,7 +136,7 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
 - (b) the PPF Ombudsman is satisfied that the reference can be amended by the applicant so that it is duly made in accordance with regulation 4 within such period as the PPF Ombudsman requests, and
 - (c) the reference is so amended.
 
-## 6. Duty to investigate and determine a reviewable matter[^key-5cf54c99829b72a53885f746ede3d2cb]
+## 6. Duty to investigate and determine a reviewable matter[^c-5cf54c99829b72a53885f746ede3d2cb]
 
 (1) Where a reference of a reviewable matter is duly made in accordance with regulations 3(1) and 4, the PPF Ombudsman must—
 
@@ -158,7 +158,7 @@ Where the Reconsideration Committee has given a reconsideration decision in rela
 
 the PPF Ombudsman may determine the matter forthwith without any further investigation.
 
-## 7. Conduct of investigation: general[^key-bf6d012a98312cabc925f03746d391e0]
+## 7. Conduct of investigation: general[^c-bf6d012a98312cabc925f03746d391e0]
 
 (1) For the purposes of investigating a reference of a reviewable matter made to him, the PPF Ombudsman may consider any evidence before him.
 
@@ -182,7 +182,7 @@ the PPF Ombudsman may determine the matter forthwith without any further investi
 
 as he thinks fit.
 
-## 8. Written representations and right to be heard[^key-d17c8a733799014f394df35dd1bbb68d]
+## 8. Written representations and right to be heard[^c-d17c8a733799014f394df35dd1bbb68d]
 
 (1) A party to the reference of a reviewable matter, or a person notified of such a reference under regulation 5(1)(b), may—
 
@@ -215,7 +215,7 @@ as he thinks fit.
 - (a) must consider it, and
 - (b) if he considers that it is not appropriate to hold an oral hearing, must give his reasons in writing to the person making the request.
 
-## 9. Delivery of supplementary statement[^key-1b849069d8ce9a1b3d451af3094a17f9]
+## 9. Delivery of supplementary statement[^c-1b849069d8ce9a1b3d451af3094a17f9]
 
 (1) The applicant may at any time during the investigation of a reference by the PPF Ombudsman, if the PPF Ombudsman consents, submit a supplementary statement in writing in respect of a reference of a reviewable matter.
 
@@ -225,7 +225,7 @@ as he thinks fit.
 - (b) give notice of the submission in such manner and in such form as he considers appropriate to any person notified of the reference under regulation 5(1)(b), and
 - (c) make it available for inspection by any such person.
 
-## 10. Withdrawal and amendment of the reference or supplementary statement[^key-850a5283de488625978e783df6fa14b0]
+## 10. Withdrawal and amendment of the reference or supplementary statement[^c-850a5283de488625978e783df6fa14b0]
 
 (1) If the PPF Ombudsman consents, the applicant may at any time during the investigation of a reference of a reviewable matter by the PPF Ombudsman—
 
@@ -240,7 +240,7 @@ as he thinks fit.
 - (b) give notice of it in such manner and in such form as he considers appropriate to any person notified of the reference under regulation 5(1)(b), and
 - (c) in the case of an amendment, make it available for inspection by any such a person.
 
-## 11. Time and place of oral hearings[^key-60215f28644ebf14f952cd86e6eafef7]
+## 11. Time and place of oral hearings[^c-60215f28644ebf14f952cd86e6eafef7]
 
 (1) If the PPF Ombudsman decides that it is appropriate to hold an oral hearing in connection with his investigation of a reference of a reviewable matter made to him, he must fix the time and place of the hearing, having due regard to any representations made to him by the referring party and the Board about the time and place that would be convenient for them.
 
@@ -280,7 +280,7 @@ or at such later time as each party to the reference may agree.
 
 (7) In any case where the hearing is so adjourned, no further notice need be given by the PPF Ombudsman under this regulation if the time and place at which the hearing will be reconvened are announced before the adjournment.
 
-## 12. Attendance at oral hearings[^key-94244cc14cb09dc9dc2c48140969f838]
+## 12. Attendance at oral hearings[^c-94244cc14cb09dc9dc2c48140969f838]
 
 (1) At an oral hearing—
 
@@ -309,7 +309,7 @@ may call witnesses to give evidence that is relevant to the matter being investi
 
 (5) The PPF Ombudsman may at an oral hearing receive evidence of any fact which appears to him to be relevant, notwithstanding that the evidence would be inadmissible in civil proceedings before a county court, and must admit evidence which would be admissible in such proceedings and is relevant.
 
-## 13. Oral hearings usually to be held in public[^key-b64636efae9bda6f31a493b41f56fe09]
+## 13. Oral hearings usually to be held in public[^c-b64636efae9bda6f31a493b41f56fe09]
 
 (1) An oral hearing must be held in public unless in the opinion of the PPF Ombudsman it is appropriate for the hearing, or any part of it, to be held in private.
 
@@ -317,7 +317,7 @@ may call witnesses to give evidence that is relevant to the matter being investi
 
 (3) A person whose conduct has disrupted or is likely to disrupt a hearing may be excluded by the PPF Ombudsman.
 
-## 14. Costs and expenses[^key-4d7e71864f87ed746152f9e1e0189c00]
+## 14. Costs and expenses[^c-4d7e71864f87ed746152f9e1e0189c00]
 
 (1) Where, under regulation 7(2)(d), the PPF Ombudsman refers a question which arises out of a reference of a reviewable matter made to him to a person who, in his opinion, is able to provide an expert opinion in relation to that question, the PPF Ombudsman may pay that person such amount as he considers reasonable in respect of costs or expenses reasonably incurred by that person in connection with that referral.
 
@@ -343,7 +343,7 @@ he may direct the person who acted, as the case may be, vexatiously or unreasona
 
 (5) The PPF Ombudsman shall not make a direction to a person under paragraph (3) without first giving that person an opportunity to make representations.
 
-## 15. Reaching and giving determinations and consequential directions[^key-47b8d1fc3f49810de49c0ec4fc5a6b26]
+## 15. Reaching and giving determinations and consequential directions[^c-47b8d1fc3f49810de49c0ec4fc5a6b26]
 
 (1) If the PPF Ombudsman determines that the decision of the Reconsideration Committee in relation to a reviewable matter referred to him was reached correctly, the PPF Ombudsman must—
 
@@ -408,7 +408,7 @@ shall apply for the purposes of dealing with any matter remitted to it.
 
 it must send a copy of the varied or replacement determination, direction or other decision to the applicant, the PPF Ombudsman and any person notified of the reference under regulation 5(1)(b).
 
-## 16. Combining references[^key-96832122887e50fb2718ad56b56246b3]
+## 16. Combining references[^c-96832122887e50fb2718ad56b56246b3]
 
 (1) Where—
 
@@ -448,7 +448,7 @@ for the purposes of these Regulations, he may treat them as a single reference a
 - (b) the Board, or
 - (c) a person notified under regulation 5(1)(b) in respect of the reference or required to be so notified.
 
-## 17. Representation[^key-ec6720325d0e1beaa11f7989914fdc7a]
+## 17. Representation[^c-ec6720325d0e1beaa11f7989914fdc7a]
 
 (1) An applicant, or a person notified of a reference of a reviewable matter under regulation 5(1)(b), may appoint a person to act as his representative for the purposes of these Regulations by sending written notice of the appointment to the PPF Ombudsman.
 
@@ -462,7 +462,7 @@ the PPF Ombudsman may allow a person to represent, or to continue to represent, 
 
 (3) In any case where by virtue of this regulation a representative is acting on behalf of a person for the purposes of these Regulations, any reference to the person in these Regulations is to be read as a reference to the representative acting in his capacity as such.
 
-## 18. Restriction on use of documents and information provided for investigations[^key-64885d9829562068ba23ae0e3da92452]
+## 18. Restriction on use of documents and information provided for investigations[^c-64885d9829562068ba23ae0e3da92452]
 
 It is a condition of the supply or making available for inspection of any document or other information under these Regulations that any person to whom it is supplied or made available for inspection may only use it—
 
@@ -474,7 +474,7 @@ It is a condition of the supply or making available for inspection of any docume
 
   for the purposes of the matter referred to him under regulations made under Article 193.
 
-## 19. Miscellaneous powers of the PPF Ombudsman[^key-a4634a228cb22514d8f091970a884dbb]
+## 19. Miscellaneous powers of the PPF Ombudsman[^c-a4634a228cb22514d8f091970a884dbb]
 
 (1) The PPF Ombudsman may—
 
@@ -491,13 +491,13 @@ It is a condition of the supply or making available for inspection of any docume
 - (a) send notice that he proposes to make it to the applicant or, as the case may be, the person who made the representation, and
 - (b) give him the opportunity to show cause why such an order should not be made.
 
-## 20. Irregularities[^key-332cfa760dc5f5fe6ee14c332067a307]
+## 20. Irregularities[^c-332cfa760dc5f5fe6ee14c332067a307]
 
 (1) Any irregularity resulting from failure to comply with any provisions of these Regulations concerning any proceedings does not of itself render those proceedings void.
 
 (2) Clerical mistakes in any determination made or direction given under these Regulations or any error in such a document arising from an accidental slip or omission may be corrected by the PPF Ombudsman by certificate under his hand.
 
-## 21. Substituted service[^key-68b5655359cfd6514c48d385c6382a5d]
+## 21. Substituted service[^c-68b5655359cfd6514c48d385c6382a5d]
 
 (1) Notwithstanding section 24 of the Interpretation Act (Northern Ireland) 1954[^f00006], this regulation applies if—
 
@@ -574,58 +574,58 @@ As the Regulations are made before the end of the period of six months beginning
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I.1)](https://www.legislation.gov.uk/nisi/2005/255); Part III is modified in its application to partially guaranteed schemes by [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55), in its application to hybrid schemes by [S.R. 2005 No. 84](https://www.legislation.gov.uk/nisr/2005/84), and in its application to multi-employer schemes by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) as amended by [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
 
-[^key-78f7e8ea20e769b77bb8aad16d2ebfd8]: Commencement: Reg. 1 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-78f7e8ea20e769b77bb8aad16d2ebfd8]: Commencement: Reg. 1 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-ea74a1e27725e3cbf032e3ab97bec3fc]: Commencement: Reg. 2 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-ea74a1e27725e3cbf032e3ab97bec3fc]: Commencement: Reg. 2 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-81a74636d778e0403ff1c9cff6553a2c]: Commencement: Reg. 3 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-81a74636d778e0403ff1c9cff6553a2c]: Commencement: Reg. 3 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126), to which there are amendments not relevant to these regulations
 
-[^key-34c9665aa899bdc79781df1041079fa4]: Textual amendment: [Reg. 3(2)(ea)](https://www.legislation.gov.uk/nisr/2005/344/regulation/3/2/ea) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2012/270/regulation/7/a)
+[^c-34c9665aa899bdc79781df1041079fa4]: Textual amendment: [Reg. 3(2)(ea)](https://www.legislation.gov.uk/nisr/2005/344/regulation/3/2/ea) inserted (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2012/270/regulation/7/a)
 
 [^f00003]: Footnote: *See* regulation 3(3)(b) of [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55) which modifies Article 128 of the Pensions (Northern Ireland) Order 2005 in its application to an unsecured part of a partially guaranteed scheme so as to also apply in respect of the valuation of an unsecured part of such a scheme obtained under Article 127 of that Order
 
 [^f00004]: Footnote: *See* regulation 10(1)(b) of [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55) which modifies Article 144 of the Pensions (Northern Ireland) Order 2005 by inserting paragraph (8) which applies to an unsecured part of a partially guaranteed scheme
 
-[^key-9b8429a352ab84f7f7732c96d89acf0d]: Textual amendment: [Reg. 3(2)(m)](https://www.legislation.gov.uk/nisr/2005/344/regulation/3/2/m) and word added (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2012/270/regulation/7/b)
+[^c-9b8429a352ab84f7f7732c96d89acf0d]: Textual amendment: [Reg. 3(2)(m)](https://www.legislation.gov.uk/nisr/2005/344/regulation/3/2/m) and word added (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2012/270/regulation/7/b)
 
-[^key-f90e637c78db8817604a6adb016ef11a]: Commencement: Reg. 4 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-f90e637c78db8817604a6adb016ef11a]: Commencement: Reg. 4 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
 [^f00005]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-12c7345c44df84d2552cf0331fc665dd]: Commencement: Reg. 5 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-12c7345c44df84d2552cf0331fc665dd]: Commencement: Reg. 5 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-5cf54c99829b72a53885f746ede3d2cb]: Commencement: Reg. 6 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-5cf54c99829b72a53885f746ede3d2cb]: Commencement: Reg. 6 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-bf6d012a98312cabc925f03746d391e0]: Commencement: Reg. 7 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-bf6d012a98312cabc925f03746d391e0]: Commencement: Reg. 7 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-d17c8a733799014f394df35dd1bbb68d]: Commencement: Reg. 8 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-d17c8a733799014f394df35dd1bbb68d]: Commencement: Reg. 8 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-1b849069d8ce9a1b3d451af3094a17f9]: Commencement: Reg. 9 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-1b849069d8ce9a1b3d451af3094a17f9]: Commencement: Reg. 9 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-850a5283de488625978e783df6fa14b0]: Commencement: Reg. 10 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-850a5283de488625978e783df6fa14b0]: Commencement: Reg. 10 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-60215f28644ebf14f952cd86e6eafef7]: Commencement: Reg. 11 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-60215f28644ebf14f952cd86e6eafef7]: Commencement: Reg. 11 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-94244cc14cb09dc9dc2c48140969f838]: Commencement: Reg. 12 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-94244cc14cb09dc9dc2c48140969f838]: Commencement: Reg. 12 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-b64636efae9bda6f31a493b41f56fe09]: Commencement: Reg. 13 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-b64636efae9bda6f31a493b41f56fe09]: Commencement: Reg. 13 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-4d7e71864f87ed746152f9e1e0189c00]: Commencement: Reg. 14 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-4d7e71864f87ed746152f9e1e0189c00]: Commencement: Reg. 14 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-47b8d1fc3f49810de49c0ec4fc5a6b26]: Commencement: Reg. 15 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-47b8d1fc3f49810de49c0ec4fc5a6b26]: Commencement: Reg. 15 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-96832122887e50fb2718ad56b56246b3]: Commencement: Reg. 16 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-96832122887e50fb2718ad56b56246b3]: Commencement: Reg. 16 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-ec6720325d0e1beaa11f7989914fdc7a]: Commencement: Reg. 17 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-ec6720325d0e1beaa11f7989914fdc7a]: Commencement: Reg. 17 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-64885d9829562068ba23ae0e3da92452]: Commencement: Reg. 18 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-64885d9829562068ba23ae0e3da92452]: Commencement: Reg. 18 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-a4634a228cb22514d8f091970a884dbb]: Commencement: Reg. 19 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-a4634a228cb22514d8f091970a884dbb]: Commencement: Reg. 19 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-332cfa760dc5f5fe6ee14c332067a307]: Commencement: Reg. 20 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-332cfa760dc5f5fe6ee14c332067a307]: Commencement: Reg. 20 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
-[^key-68b5655359cfd6514c48d385c6382a5d]: Commencement: Reg. 21 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
+[^c-68b5655359cfd6514c48d385c6382a5d]: Commencement: Reg. 21 in operation at 21.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/344/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

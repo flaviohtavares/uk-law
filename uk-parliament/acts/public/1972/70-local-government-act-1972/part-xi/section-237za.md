@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 237ZA. Section 235 byelaws: powers of seizure etc[^key-14f706cd7e71b6ca1653c9a5873468b4]
+## 237ZA. Section 235 byelaws: powers of seizure etc[^c-14f706cd7e71b6ca1653c9a5873468b4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A byelaw made under section 235 may include provision for or in connection withâ
 
 ## Annotations
 
-[^key-14f706cd7e71b6ca1653c9a5873468b4]: Textual amendment: [S. 237ZA](https://www.legislation.gov.uk/ukpga/1972/70/section/237ZA) inserted (19.12.2011 for E.) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1)[(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/4); [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(k)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/k)
+[^c-14f706cd7e71b6ca1653c9a5873468b4]: Textual amendment: [S. 237ZA](https://www.legislation.gov.uk/ukpga/1972/70/section/237ZA) inserted (19.12.2011 for E.) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1)[(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/4); [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(k)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Amendment to the Magistrates’ Courts (Children and Young Persons) Rules 1992[^key-7f7687380991363c4efd277e3e8e3c71]
+## 26. Amendment to the Magistrates’ Courts (Children and Young Persons) Rules 1992[^c-7f7687380991363c4efd277e3e8e3c71]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the definition of “court” in rule 13(2) of the Magistrates’ Courts (Chi
 
 ## Annotations
 
-[^key-7f7687380991363c4efd277e3e8e3c71]: Commencement: Art. 26 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-7f7687380991363c4efd277e3e8e3c71]: Commencement: Art. 26 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00011]: Footnote: [S.I. 1992/2071](https://www.legislation.gov.uk/uksi/1992/2071).

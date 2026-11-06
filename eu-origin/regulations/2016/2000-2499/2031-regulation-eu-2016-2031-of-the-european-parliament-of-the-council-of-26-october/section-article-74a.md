@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 74a. Commodity classification[^key-0aa4ac8f5b7271fe5750f0ddf2006c66]
+## Article 74a. Commodity classification[^c-0aa4ac8f5b7271fe5750f0ddf2006c66]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The appropriate authority may by regulations amend Annex 11 to the Phytosanitary
 
 ## Annotations
 
-[^key-0aa4ac8f5b7271fe5750f0ddf2006c66]: Textual amendment: [Art. 74](https://www.legislation.gov.uk/eur/2016/2031/article/74)a inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(7)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/7) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-0aa4ac8f5b7271fe5750f0ddf2006c66]: Textual amendment: [Art. 74](https://www.legislation.gov.uk/eur/2016/2031/article/74)a inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(7)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/7) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

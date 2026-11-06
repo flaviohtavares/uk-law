@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58.[^key-1615e83b92aa229b470a43654db16b51]
+## 58.[^c-1615e83b92aa229b470a43654db16b51]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 16 (confidential information) has effect as if—
 
 ## Annotations
 
-[^key-1615e83b92aa229b470a43654db16b51]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2019/449/regulation/58) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-1615e83b92aa229b470a43654db16b51]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2019/449/regulation/58) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

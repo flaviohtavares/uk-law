@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Calculation of weekly income[^key-05a4f18e6da4430fbc21ed7fc3fd7b75]
+## 17. Calculation of weekly income[^c-05a4f18e6da4430fbc21ed7fc3fd7b75]
 
 *Extent: N.I.*
 
@@ -48,8 +48,8 @@ the weekly amount of that claimant’s income shall be determined –
 
 (5) This paragraph applies to –
 
-- (a)[^key-771637a639ab5466122afb5ee7201a38] royalties or other sums received as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
-- (b)[^key-ae95ab9e3ac5591cfa967a324dd2cc20] any payment in respect of any—
+- (a)[^c-771637a639ab5466122afb5ee7201a38] royalties or other sums received as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+- (b)[^c-ae95ab9e3ac5591cfa967a324dd2cc20] any payment in respect of any—
   - (i) book registered under the Public Lending Right Scheme 1982; or
   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982, and;
 - (c) any payment which is made on an occasional basis.
@@ -66,31 +66,31 @@ the weekly amount of that claimant’s income shall be determined –
 (9) The sums specified in Schedule 6 shall be disregarded in calculating –
 
 - (a) the claimant’s earnings, and
-- (b)[^key-d854e1ed7b8955daa81813bdb1da74b1] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
+- (b)[^c-d854e1ed7b8955daa81813bdb1da74b1] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
 
-(9A)[^key-faf44bac9bf1dc6fb05c6cd83f281d62] For the purposes of paragraph (9)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
+(9A)[^c-faf44bac9bf1dc6fb05c6cd83f281d62] For the purposes of paragraph (9)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
 
-(10) Subject to regulation 17B(6),[^key-989f55d47b0c9f016cc7fd6e3ef19836] in the case of any income taken into account for the purpose of calculating a person’s income, there shall be disregarded –
+(10) Subject to regulation 17B(6),[^c-989f55d47b0c9f016cc7fd6e3ef19836] in the case of any income taken into account for the purpose of calculating a person’s income, there shall be disregarded –
 
 - (a) any amount payable by way of income tax;
 - (b) any amount deducted by way of national insurance contributions under the Contributions and Benefits Act or under the Social Security Contributions and Benefits Act 1992[^f00044].
 
-(11)[^key-2135ee955896df0bf91866f0f7fcbbf8] In the case of the earnings of self-employed earners, the amounts specified in paragraph (10) shall be taken into account in accordance with paragraph (4) or, as the case may be, paragraph (10) of regulation 13 of the Computation of Earnings Regulations, as having effect in the case of state pension credit.
+(11)[^c-2135ee955896df0bf91866f0f7fcbbf8] In the case of the earnings of self-employed earners, the amounts specified in paragraph (10) shall be taken into account in accordance with paragraph (4) or, as the case may be, paragraph (10) of regulation 13 of the Computation of Earnings Regulations, as having effect in the case of state pension credit.
 
 ## Annotations
 
-[^key-05a4f18e6da4430fbc21ed7fc3fd7b75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/28/regulation/17) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-05a4f18e6da4430fbc21ed7fc3fd7b75]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2003/28/regulation/17) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
-[^key-771637a639ab5466122afb5ee7201a38]: Textual amendment: [Reg. 17(5)(a)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/5/a) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/3/a)
+[^c-771637a639ab5466122afb5ee7201a38]: Textual amendment: [Reg. 17(5)(a)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/5/a) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/3/a)
 
-[^key-ae95ab9e3ac5591cfa967a324dd2cc20]: Textual amendment: [Reg. 17(5)(b)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/5/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/3/b)
+[^c-ae95ab9e3ac5591cfa967a324dd2cc20]: Textual amendment: [Reg. 17(5)(b)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/5/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/3/b)
 
-[^key-d854e1ed7b8955daa81813bdb1da74b1]: Textual amendment: [Reg. 17(9)(b)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/9/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/3/c)
+[^c-d854e1ed7b8955daa81813bdb1da74b1]: Textual amendment: [Reg. 17(9)(b)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/9/b) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/nisr/2009/92/regulation/5/3/c)
 
-[^key-faf44bac9bf1dc6fb05c6cd83f281d62]: Textual amendment: [Reg. 17(9A)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/9A) inserted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 (S.R. 2003/191)](https://www.legislation.gov.uk/nisr/2003/191), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/1/2/b), [23(4)](https://www.legislation.gov.uk/nisr/2003/191/regulation/23/4) (with [regs. 34-36](https://www.legislation.gov.uk/nisr/2003/191/regulation/34))
+[^c-faf44bac9bf1dc6fb05c6cd83f281d62]: Textual amendment: [Reg. 17(9A)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/9A) inserted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 (S.R. 2003/191)](https://www.legislation.gov.uk/nisr/2003/191), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/1/2/b), [23(4)](https://www.legislation.gov.uk/nisr/2003/191/regulation/23/4) (with [regs. 34-36](https://www.legislation.gov.uk/nisr/2003/191/regulation/34))
 
-[^key-989f55d47b0c9f016cc7fd6e3ef19836]: Textual amendment: Words in [reg. 17(10)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/10) inserted (6.10.2003) by [The State Pension Credit (Transitional and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/421)](https://www.legislation.gov.uk/nisr/2003/421), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/421/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2003/421/regulation/2/8/a)
+[^c-989f55d47b0c9f016cc7fd6e3ef19836]: Textual amendment: Words in [reg. 17(10)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/10) inserted (6.10.2003) by [The State Pension Credit (Transitional and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/421)](https://www.legislation.gov.uk/nisr/2003/421), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/421/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2003/421/regulation/2/8/a)
 
 [^f00044]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4)
 
-[^key-2135ee955896df0bf91866f0f7fcbbf8]: Textual amendment: [Reg. 17(11)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/11) added (6.10.2003) by [The State Pension Credit (Transitional and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/421)](https://www.legislation.gov.uk/nisr/2003/421), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/421/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2003/421/regulation/2/8/b)
+[^c-2135ee955896df0bf91866f0f7fcbbf8]: Textual amendment: [Reg. 17(11)](https://www.legislation.gov.uk/nisr/2003/28/regulation/17/11) added (6.10.2003) by [The State Pension Credit (Transitional and Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/421)](https://www.legislation.gov.uk/nisr/2003/421), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/421/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2003/421/regulation/2/8/b)

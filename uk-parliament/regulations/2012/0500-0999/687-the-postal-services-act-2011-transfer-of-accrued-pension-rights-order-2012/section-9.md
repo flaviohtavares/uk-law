@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Application of occupational pensions legislation to RMSPS[^key-635c0ef54733b97f9161b630a066fe79][^key-cfec166cdbb0f20314c271579bb86e6a]
+## 9. Application of occupational pensions legislation to RMSPS[^c-635c0ef54733b97f9161b630a066fe79][^c-cfec166cdbb0f20314c271579bb86e6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The RMSPS is to be treated as an occupational pension scheme for the purposes of
 
 ## Annotations
 
-[^key-635c0ef54733b97f9161b630a066fe79]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-635c0ef54733b97f9161b630a066fe79]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-cfec166cdbb0f20314c271579bb86e6a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/687/article/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-cfec166cdbb0f20314c271579bb86e6a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/687/article/9) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

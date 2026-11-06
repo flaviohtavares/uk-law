@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 221A. Duty of employer to notify competent authority of a vessel’s flag State of certain redundancies[^key-c001817627ec3b4b2f20de30ba04988d]
+## 221A. Duty of employer to notify competent authority of a vessel’s flag State of certain redundancies[^c-c001817627ec3b4b2f20de30ba04988d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c001817627ec3b4b2f20de30ba04988d]: Textual amendment: [Art. 221A](https://www.legislation.gov.uk/nisi/1996/1919/article/221A) inserted (26.1.2020) by [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/5))
+[^c-c001817627ec3b4b2f20de30ba04988d]: Textual amendment: [Art. 221A](https://www.legislation.gov.uk/nisi/1996/1919/article/221A) inserted (26.1.2020) by [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/2) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/5))

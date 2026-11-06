@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Application to Parliament[^key-ddc196e145d08867412c70a64d55ad34]
+## 139. Application to Parliament[^c-ddc196e145d08867412c70a64d55ad34]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddc196e145d08867412c70a64d55ad34]: Commencement: S. 139 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-ddc196e145d08867412c70a64d55ad34]: Commencement: S. 139 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

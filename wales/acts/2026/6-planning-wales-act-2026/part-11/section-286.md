@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 286. Pedestrianisation of highway to improve amenity[^key-576100c91d16e2f21b8fb2a758c40894]
+## 286. Pedestrianisation of highway to improve amenity[^c-576100c91d16e2f21b8fb2a758c40894]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-576100c91d16e2f21b8fb2a758c40894]: Commencement: S. 286 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-576100c91d16e2f21b8fb2a758c40894]: Commencement: S. 286 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

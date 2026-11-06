@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8B — Hold-over relief for gains re-invested in social enterprises[^key-8dab66ea7e92522842922fca9da4cfcf]
+## SCHEDULE 8B — Hold-over relief for gains re-invested in social enterprises[^c-8dab66ea7e92522842922fca9da4cfcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ Section 255A
 (3) Condition B is that the gain is one that accrues—
 
 - (a) on or after 6 April 2014, and
-- (b) before 6 April 2023[^key-942cf355e78f4ec0f105527022a591b4] (but see sub-paragraph (8)).
+- (b) before 6 April 2023[^c-942cf355e78f4ec0f105527022a591b4] (but see sub-paragraph (8)).
 
 (4) Condition C is that the investor is resident in the United Kingdom—
 
@@ -54,7 +54,7 @@ Section 255A
 - (a) in the 3 years beginning with the day when the gain accrues, or
 - (b) in the year that ends at the beginning of that day.
 
-(7) The reference in sub-paragraph (2)(b) to a gain accruing in accordance with section 169N does not include such a gain so far as it is chargeable to capital gains tax at the rate in section 169N(3) (rate where business asset disposal relief[^key-81bc625811da9cbe5b35aca85a72dfb8] is available).
+(7) The reference in sub-paragraph (2)(b) to a gain accruing in accordance with section 169N does not include such a gain so far as it is chargeable to capital gains tax at the rate in section 169N(3) (rate where business asset disposal relief[^c-81bc625811da9cbe5b35aca85a72dfb8] is available).
 
 (8) The Treasury may by order substitute a later date for the date for the time being specified in sub-paragraph (3)(b).
 
@@ -74,7 +74,7 @@ Section 255A
 (2) Condition F is that the gain is one that accrues—
 
 - (a) on or after 6 April 2014, and
-- (b) before 6 April 2023[^key-0b3e2a68327c8da52d4a2611ed32640d] (but see sub-paragraph (6)).
+- (b) before 6 April 2023[^c-0b3e2a68327c8da52d4a2611ed32640d] (but see sub-paragraph (6)).
 
 (3) Condition G is that the investor is resident in the United Kingdom—
 
@@ -225,10 +225,10 @@ that chargeable gain is treated as accruing to the person who holds the asset, o
 
 ## Annotations
 
-[^key-8dab66ea7e92522842922fca9da4cfcf]: Textual amendment: Sch. 8B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/3)
+[^c-8dab66ea7e92522842922fca9da4cfcf]: Textual amendment: Sch. 8B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/3)
 
-[^key-942cf355e78f4ec0f105527022a591b4]: Textual amendment: Words in [Sch. 8B para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/8B/paragraph/1/3/b) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 20(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/20/b)
+[^c-942cf355e78f4ec0f105527022a591b4]: Textual amendment: Words in [Sch. 8B para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/8B/paragraph/1/3/b) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 20(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/20/b)
 
-[^key-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
+[^c-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
 
-[^key-0b3e2a68327c8da52d4a2611ed32640d]: Textual amendment: Words in [Sch. 8B para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/8B/paragraph/2/2/b) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 20(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/20/b)
+[^c-0b3e2a68327c8da52d4a2611ed32640d]: Textual amendment: Words in [Sch. 8B para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/8B/paragraph/2/2/b) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 20(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/20/b)

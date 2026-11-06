@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122A. Handling of postal petition documents by political campaigners[^key-cc96377aeb068edebfaa3f9d990919a4]
+## 122A. Handling of postal petition documents by political campaigners[^c-cc96377aeb068edebfaa3f9d990919a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ is to be treated as if it were a postal petition document that has been issued t
 
 ## Annotations
 
-[^key-cc96377aeb068edebfaa3f9d990919a4]: Textual amendment: Reg. 122A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(19)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/19)
+[^c-cc96377aeb068edebfaa3f9d990919a4]: Textual amendment: Reg. 122A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(19)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/19)

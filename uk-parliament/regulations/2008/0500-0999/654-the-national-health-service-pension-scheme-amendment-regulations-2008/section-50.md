@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Amendment of regulation Q7[^key-c0885cc84140b94198a00d22208d1b40]
+## 50. Amendment of regulation Q7[^c-c0885cc84140b94198a00d22208d1b40]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0885cc84140b94198a00d22208d1b40]: Commencement: Reg. 50 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-c0885cc84140b94198a00d22208d1b40]: Commencement: Reg. 50 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

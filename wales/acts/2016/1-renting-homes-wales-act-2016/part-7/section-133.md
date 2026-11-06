@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Exclusion of contract-holder from dwelling for specified periods[^key-fc5724b282823159eb4ab4706e0723aa]
+## 133. Exclusion of contract-holder from dwelling for specified periods[^c-fc5724b282823159eb4ab4706e0723aa]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The contract may specify periods for the purpose of subsection (1) by reference to any matters reasonably ascertainable by the contract-holder (as well as by reference to specified dates).
 
-(3)[^key-12f589862f9def90151d3a3c9d90becf] The Welsh Ministers may by regulations amend this Act for the purpose of—
+(3)[^c-12f589862f9def90151d3a3c9d90becf] The Welsh Ministers may by regulations amend this Act for the purpose of—
 
 - (a) providing that subsection (1) does not apply in relation to fixed term standard contracts of a particular description;
 - (b) providing that subsection (1) applies only in relation to fixed term standard contracts of a particular description;
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc5724b282823159eb4ab4706e0723aa]: Commencement: [S. 133](https://www.legislation.gov.uk/anaw/2016/1/section/133) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-fc5724b282823159eb4ab4706e0723aa]: Commencement: [S. 133](https://www.legislation.gov.uk/anaw/2016/1/section/133) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-12f589862f9def90151d3a3c9d90becf]: Textual amendment: [S. 133(3)](https://www.legislation.gov.uk/anaw/2016/1/section/133/3) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 13(3)](https://www.legislation.gov.uk/asc/2021/3/section/13/3), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-12f589862f9def90151d3a3c9d90becf]: Textual amendment: [S. 133(3)](https://www.legislation.gov.uk/anaw/2016/1/section/133/3) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 13(3)](https://www.legislation.gov.uk/asc/2021/3/section/13/3), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

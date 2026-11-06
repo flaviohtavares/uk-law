@@ -35,58 +35,58 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-345cf5d083eea3fad00b29fecdba24a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-345cf5d083eea3fad00b29fecdba24a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-345cf5d083eea3fad00b29fecdba24a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-345cf5d083eea3fad00b29fecdba24a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-345cf5d083eea3fad00b29fecdba24a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-345cf5d083eea3fad00b29fecdba24a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-345cf5d083eea3fad00b29fecdba24a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-345cf5d083eea3fad00b29fecdba24a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^key-345cf5d083eea3fad00b29fecdba24a3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-345cf5d083eea3fad00b29fecdba24a3] Amendments to IFRS 1 First-time Adoption of International Financial Reporting Standards
+## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^c-345cf5d083eea3fad00b29fecdba24a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3] Government Loans
+[^c-345cf5d083eea3fad00b29fecdba24a3] Amendments to IFRS 1 First-time Adoption of International Financial Reporting Standards
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]39N
+[^c-345cf5d083eea3fad00b29fecdba24a3] Government Loans
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]39O
+[^c-345cf5d083eea3fad00b29fecdba24a3]39N
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]B1
+[^c-345cf5d083eea3fad00b29fecdba24a3]39O
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-345cf5d083eea3fad00b29fecdba24a3]B1
 
 An entity shall apply the following exceptions:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3] Government loans
+[^c-345cf5d083eea3fad00b29fecdba24a3] Government loans
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]B10
+[^c-345cf5d083eea3fad00b29fecdba24a3]B10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]B11
+[^c-345cf5d083eea3fad00b29fecdba24a3]B11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]B12
+[^c-345cf5d083eea3fad00b29fecdba24a3]B12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-345cf5d083eea3fad00b29fecdba24a3]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/36) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-345cf5d083eea3fad00b29fecdba24a3]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/36) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

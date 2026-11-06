@@ -35,14 +35,14 @@ amending Decision 2009/496/EC, Euratom on the organisation and operation of the 
 
 (2012/368/EU, Euratom) (revoked)
 
-[^key-63f409e8021dbe956298185618549017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63f409e8021dbe956298185618549017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-63f409e8021dbe956298185618549017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-63f409e8021dbe956298185618549017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-63f409e8021dbe956298185618549017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-63f409e8021dbe956298185618549017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63f409e8021dbe956298185618549017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63f409e8021dbe956298185618549017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63f409e8021dbe956298185618549017]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f409e8021dbe956298185618549017]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

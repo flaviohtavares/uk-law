@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Apparatus and rights of statutory undertakers in altered or closed streets[^key-25e3c159bcd7b2c28cae8ba0009094e6]
+## 35. Apparatus and rights of statutory undertakers in altered or closed streets[^c-25e3c159bcd7b2c28cae8ba0009094e6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-25e3c159bcd7b2c28cae8ba0009094e6]: Commencement: Art. 35 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-25e3c159bcd7b2c28cae8ba0009094e6]: Commencement: Art. 35 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

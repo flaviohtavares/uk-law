@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. New fee grant[^key-40e5b904a63a760b486ce0c7edb63ccb]
+## 16. New fee grant[^c-40e5b904a63a760b486ce0c7edb63ccb]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (2), an eligible student who is a 2012 cohort student qualifies in accordance with this regulation for a new fee grant in respect of, or otherwise in connection with, the 2012 cohort student’s attendance on a designated course provided by a body listed in regulation 5(1)(e) or (ea)[^key-7a39902ba78813db8c605407362b5e5a].
+(1) Subject to paragraph (2), an eligible student who is a 2012 cohort student qualifies in accordance with this regulation for a new fee grant in respect of, or otherwise in connection with, the 2012 cohort student’s attendance on a designated course provided by a body listed in regulation 5(1)(e) or (ea)[^c-7a39902ba78813db8c605407362b5e5a].
 
 (2) A new fee grant is not available in respect of an academic year if that year is—
 
@@ -30,13 +30,13 @@ summary: ''
 
 (3) The maximum amount of new fee grant available under this regulation to a 2012 cohort student in respect of an academic year of a designated course where none of the circumstances in paragraphs (7), (8), (9) or (10) applies is the lesser of—
 
-- (a) £4,175[^key-a8817b3246251f59941523d4fbf45f40]; or
-- (b) the amount by which the fees payable by the applicant exceed £4,825[^key-3b3b77507010d261a84204cbfc0a0f2e].
+- (a) £4,175[^c-a8817b3246251f59941523d4fbf45f40]; or
+- (b) the amount by which the fees payable by the applicant exceed £4,825[^c-3b3b77507010d261a84204cbfc0a0f2e].
 
 (4) The maximum amount of new fee grant available under this regulation to a 2012 cohort student in respect of an academic year of a designated course where one of the circumstances in paragraph (7) or (8) applies is the lesser of—
 
-- (a) £2,150[^key-3cfed971efc10c1ae74b6621bb540067]; or
-- (b) the amount by which the fees payable by the applicant exceed £2,350[^key-f30181ba3d972f5983df9f2fca611881].
+- (a) £2,150[^c-3cfed971efc10c1ae74b6621bb540067]; or
+- (b) the amount by which the fees payable by the applicant exceed £2,350[^c-f30181ba3d972f5983df9f2fca611881].
 
 (5) The maximum amount of new fee grant available under this regulation to a 2012 cohort student in respect of an academic year of a designated course where paragraph (9) applies is the lesser of—
 
@@ -87,14 +87,14 @@ summary: ''
 
 ## Annotations
 
-[^key-40e5b904a63a760b486ce0c7edb63ccb]: Commencement: Reg. 16 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-40e5b904a63a760b486ce0c7edb63ccb]: Commencement: Reg. 16 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-7a39902ba78813db8c605407362b5e5a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/1) inserted (8.3.2024) by [The Education (Student Finance) (Fee Limit and Loan Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/144)](https://www.legislation.gov.uk/wsi/2024/144), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/144/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2024/144/regulation/7)
+[^c-7a39902ba78813db8c605407362b5e5a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/1) inserted (8.3.2024) by [The Education (Student Finance) (Fee Limit and Loan Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/144)](https://www.legislation.gov.uk/wsi/2024/144), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/144/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2024/144/regulation/7)
 
-[^key-a8817b3246251f59941523d4fbf45f40]: Textual amendment: Sum in [reg. 16(3)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/3/a) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/a)
+[^c-a8817b3246251f59941523d4fbf45f40]: Textual amendment: Sum in [reg. 16(3)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/3/a) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/a)
 
-[^key-3b3b77507010d261a84204cbfc0a0f2e]: Textual amendment: Sum in [reg. 16(3)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/3/b) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/b)
+[^c-3b3b77507010d261a84204cbfc0a0f2e]: Textual amendment: Sum in [reg. 16(3)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/3/b) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/b)
 
-[^key-3cfed971efc10c1ae74b6621bb540067]: Textual amendment: Sum in [reg. 16(4)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/4/a) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/c)
+[^c-3cfed971efc10c1ae74b6621bb540067]: Textual amendment: Sum in [reg. 16(4)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/4/a) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/c)
 
-[^key-f30181ba3d972f5983df9f2fca611881]: Textual amendment: Sum in [reg. 16(4)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/4/b) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(d)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/d)
+[^c-f30181ba3d972f5983df9f2fca611881]: Textual amendment: Sum in [reg. 16(4)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/16/4/b) substituted (with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/86)](https://www.legislation.gov.uk/wsi/2024/86), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/86/regulation/1/2), [4(d)](https://www.legislation.gov.uk/wsi/2024/86/regulation/4/d)

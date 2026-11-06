@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Notices of determination.[^key-6e9293da312ec3a3f8d1783b19df30dd]
+## 221. Notices of determination.[^c-6e9293da312ec3a3f8d1783b19df30dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ or to the amounts on which tax is then chargeable.
 
 ## Annotations
 
-[^key-6e9293da312ec3a3f8d1783b19df30dd]: Modification: [S. 221](https://www.legislation.gov.uk/ukpga/1984/51/section/221) applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 210(6)(d)](https://www.legislation.gov.uk/ukpga/2013/29/section/210/6/d)
+[^c-6e9293da312ec3a3f8d1783b19df30dd]: Modification: [S. 221](https://www.legislation.gov.uk/ukpga/1984/51/section/221) applied (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 210(6)(d)](https://www.legislation.gov.uk/ukpga/2013/29/section/210/6/d)
 
 [^c13613511]: Textual amendment: Finance Act 1985 Sch. 26, para. 5,*in relation to events occurring after* 18*March* 1985.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.11. Transmission for re-registration[^key-9a2527dd5e3fb49f3f813665544351eb]
+## 5.11. Transmission for re-registration[^c-9a2527dd5e3fb49f3f813665544351eb]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If an application under rule 5.10 is granted, the sheriff clerk shall send to th
 
 ## Annotations
 
-[^key-9a2527dd5e3fb49f3f813665544351eb]: Commencement: Rule 5.11 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-9a2527dd5e3fb49f3f813665544351eb]: Commencement: Rule 5.11 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

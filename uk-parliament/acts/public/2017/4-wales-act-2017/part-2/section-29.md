@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Welsh harbours[^key-6869981c3b26944010de32eb19e7f6c9]
+## 29. Welsh harbours[^c-6869981c3b26944010de32eb19e7f6c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ so far as exercisable in relation to harbours that are wholly in Wales, other th
 
 ## Annotations
 
-[^key-6869981c3b26944010de32eb19e7f6c9]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/4/section/29) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, regs. 1, 2, Sch.)
+[^c-6869981c3b26944010de32eb19e7f6c9]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/4/section/29) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, regs. 1, 2, Sch.)

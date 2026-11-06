@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58ZA. Renewal of local radio multiplex licences[^key-5751169f965e4809cde67be7479d3460]
+## 58ZA. Renewal of local radio multiplex licences[^c-5751169f965e4809cde67be7479d3460]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5751169f965e4809cde67be7479d3460]: Textual amendment: S. 58ZA inserted (6.4.2015) by [The Broadcasting Act 1996 (Renewal of Local Radio Multiplex Licences) Regulations 2015 (S.I. 2015/904)](https://www.legislation.gov.uk/uksi/2015/904), [regs. 1](https://www.legislation.gov.uk/uksi/2015/904/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/904/regulation/3)
+[^c-5751169f965e4809cde67be7479d3460]: Textual amendment: S. 58ZA inserted (6.4.2015) by [The Broadcasting Act 1996 (Renewal of Local Radio Multiplex Licences) Regulations 2015 (S.I. 2015/904)](https://www.legislation.gov.uk/uksi/2015/904), [regs. 1](https://www.legislation.gov.uk/uksi/2015/904/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/904/regulation/3)

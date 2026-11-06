@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Appeals to the Assembly against determinations of Local Health Boards (regulations 9, 10 and 11 of the Service Committees Regulations)[^key-c7cc590669cff174e2bff3eb985204d3]
+## 75. Appeals to the Assembly against determinations of Local Health Boards (regulations 9, 10 and 11 of the Service Committees Regulations)[^c-c7cc590669cff174e2bff3eb985204d3]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ it shall, in addition to the persons specified in regulation 10(14), notify the 
 
 ## Annotations
 
-[^key-c7cc590669cff174e2bff3eb985204d3]: Commencement: Art. 75 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c7cc590669cff174e2bff3eb985204d3]: Commencement: Art. 75 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

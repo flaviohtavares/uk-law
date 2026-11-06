@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Operation of new bridge[^key-b2093d03a0742b7f446e927cc434d9fa]
+## 43. Operation of new bridge[^c-b2093d03a0742b7f446e927cc434d9fa]
 
 *Extent: E+W+S*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2093d03a0742b7f446e927cc434d9fa]: Commencement: Art. 43 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-b2093d03a0742b7f446e927cc434d9fa]: Commencement: Art. 43 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294651]: Marginal citation: [1987 c. 21](https://www.legislation.gov.uk/ukpga/1987/21).

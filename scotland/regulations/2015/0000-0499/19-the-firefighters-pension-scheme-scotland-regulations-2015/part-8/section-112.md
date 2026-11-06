@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Contributions during absence from work on reserve forces service leave[^key-b5484dc300312f21bf7f08235d35999c]
+## 112. Contributions during absence from work on reserve forces service leave[^c-b5484dc300312f21bf7f08235d35999c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5484dc300312f21bf7f08235d35999c]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2015/19/regulation/112) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-b5484dc300312f21bf7f08235d35999c]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2015/19/regulation/112) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Commission Regulation [(EC) No 307/2008](https://www.legislation.gov.uk/eur/2008/307)[^key-a2bc44f4e3545e680f7d616313fbfb45]
+## 65. Commission Regulation [(EC) No 307/2008](https://www.legislation.gov.uk/eur/2008/307)[^c-a2bc44f4e3545e680f7d616313fbfb45]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
   > **1.**
   >
-  > Training attestations issued in European Union member States in accordance with Article 3 shall be valid in any part of Great Britain[^key-7e7792e10ca5b941d16901cfbce38a64].
+  > Training attestations issued in European Union member States in accordance with Article 3 shall be valid in any part of Great Britain[^c-7e7792e10ca5b941d16901cfbce38a64].
 
   ;
 - (c) in paragraph 2—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2bc44f4e3545e680f7d616313fbfb45]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-a2bc44f4e3545e680f7d616313fbfb45]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-7e7792e10ca5b941d16901cfbce38a64]: Textual amendment: Words in [reg. 65(5)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/65/5/b) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(31)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/31)
+[^c-7e7792e10ca5b941d16901cfbce38a64]: Textual amendment: Words in [reg. 65(5)(b)](https://www.legislation.gov.uk/uksi/2019/583/regulation/65/5/b) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(31)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/31)

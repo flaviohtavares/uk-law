@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40A. Connected persons: licence holder's duty to notify changes[^key-ba455c3dd35c3b0c26dc17425bab7bfd][^M_F_f427682c-4591-4ea2-a227-46a88343eedf]
+## 40A. Connected persons: licence holder's duty to notify changes[^c-ba455c3dd35c3b0c26dc17425bab7bfd][^M_F_f427682c-4591-4ea2-a227-46a88343eedf]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ give the appropriate Licensing Board notice of that fact.
 - (a) the name and address of the person, and
 - (b) if the person is an individual, the person's date of birth.
 
-(3) Where a Licensing Board receives a notice under subsection (1), the Board must give a copy of the notice to the chief constable[^key-d087ea7a6fa63844df2f7dbda7ab4690].
+(3) Where a Licensing Board receives a notice under subsection (1), the Board must give a copy of the notice to the chief constable[^c-d087ea7a6fa63844df2f7dbda7ab4690].
 
 (4) A premises licence holder who fails, without reasonable excuse, to comply with subsection (1) commits an offence.
 
@@ -40,7 +40,7 @@ give the appropriate Licensing Board notice of that fact.
 
 ## Annotations
 
-[^key-ba455c3dd35c3b0c26dc17425bab7bfd]: Textual amendment: S. 40A inserted (13.12.2010 for specified purposes, 29.6.2018 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 184(2)](https://www.legislation.gov.uk/asp/2010/13/section/184/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
+[^c-ba455c3dd35c3b0c26dc17425bab7bfd]: Textual amendment: S. 40A inserted (13.12.2010 for specified purposes, 29.6.2018 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 184(2)](https://www.legislation.gov.uk/asp/2010/13/section/184/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
 
 [^M_F_f427682c-4591-4ea2-a227-46a88343eedf]: Textual amendment: S. 40A heading substituted (29.6.2018) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 59(2)(c)](https://www.legislation.gov.uk/asp/2015/10/section/59/2/c), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 3](https://www.legislation.gov.uk/ssi/2018/102/article/3)
 
@@ -50,4 +50,4 @@ give the appropriate Licensing Board notice of that fact.
 
 [^M_F_e3561ca3-591f-422e-a37e-c2893234d073]: Textual amendment: Words in s. 40A(2) repealed (29.6.2018) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 59(2)(b)](https://www.legislation.gov.uk/asp/2015/10/section/59/2/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 3](https://www.legislation.gov.uk/ssi/2018/102/article/3)
 
-[^key-d087ea7a6fa63844df2f7dbda7ab4690]: Textual amendment: Words in s. 40A(3) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d087ea7a6fa63844df2f7dbda7ab4690]: Textual amendment: Words in s. 40A(3) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

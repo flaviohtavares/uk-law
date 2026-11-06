@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Compensation arising as a result of diversification and cropping of trees[^key-000f649418acd4d36ab6bdc70b6cc195][^key-288996eb104df12ebc606edc7957cae7]
+## 45A. Compensation arising as a result of diversification and cropping of trees[^c-000f649418acd4d36ab6bdc70b6cc195][^c-288996eb104df12ebc606edc7957cae7]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ in so far as those matters or, as the case may be, that use is attributable to t
 
 ## Annotations
 
-[^key-000f649418acd4d36ab6bdc70b6cc195]: Modification: S. 45A applied (with modifications) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 53(2)](https://www.legislation.gov.uk/asp/2003/11/section/53/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-000f649418acd4d36ab6bdc70b6cc195]: Modification: S. 45A applied (with modifications) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 53(2)](https://www.legislation.gov.uk/asp/2003/11/section/53/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-288996eb104df12ebc606edc7957cae7]: Textual amendment: S. 45A inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 51(1)](https://www.legislation.gov.uk/asp/2003/11/section/51/1), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-288996eb104df12ebc606edc7957cae7]: Textual amendment: S. 45A inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 51(1)](https://www.legislation.gov.uk/asp/2003/11/section/51/1), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

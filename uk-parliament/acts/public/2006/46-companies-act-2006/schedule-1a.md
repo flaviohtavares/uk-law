@@ -16,53 +16,53 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — References to people with significant control over a company[^key-6ed350b4417d46202a65eeeb9c40ce36][^key-632d817427322ce236a7159fb446ae73]
+## SCHEDULE 1A — References to people with significant control over a company[^c-6ed350b4417d46202a65eeeb9c40ce36][^c-632d817427322ce236a7159fb446ae73]
 
 *Extent: E+W+S+N.I.*
 
 Section 790C
 
-### PART 1 — The specified conditions[^key-632d817427322ce236a7159fb446ae73]
+### PART 1 — The specified conditions[^c-632d817427322ce236a7159fb446ae73]
 
 #### Introduction
 
-**1.**[^key-16772b9b81e9bf880054db20d0fc7764] This Part of this Schedule specifies the conditions at least one of which must be met by an individual (“X”) in relation to a company (“company Y”) in order for the individual to be a person with “significant control” over the company.
+**1.**[^c-16772b9b81e9bf880054db20d0fc7764] This Part of this Schedule specifies the conditions at least one of which must be met by an individual (“X”) in relation to a company (“company Y”) in order for the individual to be a person with “significant control” over the company.
 
 #### Ownership of shares
 
-**2.**[^key-16772b9b81e9bf880054db20d0fc7764] The first condition is that X holds, directly or indirectly, more than 25% of the shares in company Y.
+**2.**[^c-16772b9b81e9bf880054db20d0fc7764] The first condition is that X holds, directly or indirectly, more than 25% of the shares in company Y.
 
 #### Ownership of voting rights
 
-**3.**[^key-16772b9b81e9bf880054db20d0fc7764] The second condition is that X holds, directly or indirectly, more than 25% of the voting rights in company Y.
+**3.**[^c-16772b9b81e9bf880054db20d0fc7764] The second condition is that X holds, directly or indirectly, more than 25% of the voting rights in company Y.
 
 #### Ownership of right to appoint or remove directors
 
-**4.**[^key-16772b9b81e9bf880054db20d0fc7764] The third condition is that X holds the right, directly or indirectly, to appoint or remove a majority of the board of directors of company Y.
+**4.**[^c-16772b9b81e9bf880054db20d0fc7764] The third condition is that X holds the right, directly or indirectly, to appoint or remove a majority of the board of directors of company Y.
 
 #### Significant influence or control
 
-**5.**[^key-16772b9b81e9bf880054db20d0fc7764] The fourth condition is that X has the right to exercise, or actually exercises, significant influence or control over company Y.
+**5.**[^c-16772b9b81e9bf880054db20d0fc7764] The fourth condition is that X has the right to exercise, or actually exercises, significant influence or control over company Y.
 
 #### Trusts, partnerships etc
 
-**6.**[^key-16772b9b81e9bf880054db20d0fc7764] The fifth condition is that—
+**6.**[^c-16772b9b81e9bf880054db20d0fc7764] The fifth condition is that—
 
 - (a) the trustees of a trust or the members of a firm that, under the law by which it is governed, is not a legal person meet any of the other specified conditions (in their capacity as such) in relation to company Y, or would do so if they were individuals, and
 - (b) X has the right to exercise, or actually exercises, significant influence or control over the activities of that trust or firm.
 
-### PART 2 — Holding an interest in a company etc[^key-632d817427322ce236a7159fb446ae73]
+### PART 2 — Holding an interest in a company etc[^c-632d817427322ce236a7159fb446ae73]
 
 #### Introduction
 
-**7.**[^key-16772b9b81e9bf880054db20d0fc7764] This Part of this Schedule specifies the circumstances in which, for the purposes of section 790C(4) or (8)—
+**7.**[^c-16772b9b81e9bf880054db20d0fc7764] This Part of this Schedule specifies the circumstances in which, for the purposes of section 790C(4) or (8)—
 
 - (a) a person (“V”) is to be regarded as holding an interest in a company (“company W”);
 - (b) an interest held by V in company W is to be regarded as held through a legal entity.
 
 #### Holding an interest
 
-**8.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) V holds an interest in company W if—
+**8.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) V holds an interest in company W if—
 
 - (a) V holds shares in company W, directly or indirectly,
 - (b) V holds, directly or indirectly, voting rights in company W,
@@ -77,7 +77,7 @@ Section 790C
 
 #### Interests held through a legal entity
 
-**9.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) This paragraph applies where V—
+**9.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) This paragraph applies where V—
 
 - (a) holds an interest in company W by virtue of indirectly holding shares or a right, and
 - (b) does so by virtue of having a majority stake (see paragraph 18) in—
@@ -89,19 +89,19 @@ Section 790C
 - (a) through L, and
 - (b) through each other legal entity in the chain mentioned in sub-paragraph (1)(b)(ii).
 
-### PART 3 — Supplementary provision[^key-632d817427322ce236a7159fb446ae73]
+### PART 3 — Supplementary provision[^c-632d817427322ce236a7159fb446ae73]
 
 #### Introduction
 
-**10.**[^key-16772b9b81e9bf880054db20d0fc7764] This Part sets out rules for the interpretation of this Schedule.
+**10.**[^c-16772b9b81e9bf880054db20d0fc7764] This Part sets out rules for the interpretation of this Schedule.
 
 #### Joint interests
 
-**11.**[^key-16772b9b81e9bf880054db20d0fc7764] If two or more persons each hold a share or right jointly, each of them is treated for the purposes of this Schedule as holding that share or right.
+**11.**[^c-16772b9b81e9bf880054db20d0fc7764] If two or more persons each hold a share or right jointly, each of them is treated for the purposes of this Schedule as holding that share or right.
 
 #### Joint arrangements
 
-**12.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Schedule as holding the combined shares or rights of both of them.
+**12.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Schedule as holding the combined shares or rights of both of them.
 
 (2) A “joint arrangement” is an arrangement between the holders of shares (or rights) that they will exercise all or substantially all the rights conferred by their respective shares (or rights) jointly in a way that is pre-determined by the arrangement.
 
@@ -109,7 +109,7 @@ Section 790C
 
 #### Calculating shareholdings
 
-**13.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) In relation to a legal entity that has a share capital, a reference to holding “more than 25% of the shares” in that entity is to holding shares comprised in the issued share capital of that entity of a nominal value exceeding (in aggregate) 25% of that share capital.
+**13.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) In relation to a legal entity that has a share capital, a reference to holding “more than 25% of the shares” in that entity is to holding shares comprised in the issued share capital of that entity of a nominal value exceeding (in aggregate) 25% of that share capital.
 
 (2) In relation to a legal entity that does not have a share capital—
 
@@ -118,24 +118,24 @@ Section 790C
 
 #### Voting rights
 
-**14.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) A reference to the voting rights in a legal entity is to the rights conferred on shareholders in respect of their shares (or, in the case of an entity not having a share capital, on members) to vote at general meetings of the entity on all or substantially all matters.
+**14.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) A reference to the voting rights in a legal entity is to the rights conferred on shareholders in respect of their shares (or, in the case of an entity not having a share capital, on members) to vote at general meetings of the entity on all or substantially all matters.
 
 (2) In relation to a legal entity that does not have general meetings at which matters are decided by the exercise of voting rights—
 
 - (a) a reference to exercising voting rights in the entity is to be read as a reference to exercising rights in relation to the entity that are equivalent to those of a person entitled to exercise voting rights in a company;
 - (b) a reference to exercising more than 25% of the voting rights in the entity is to be read as a reference to exercising the right under the constitution of the entity to block changes to the overall policy of the entity or to the terms of its constitution.
 
-**15.**[^key-16772b9b81e9bf880054db20d0fc7764] In applying this Schedule, the voting rights in a legal entity are to be reduced by any rights held by the entity itself.
+**15.**[^c-16772b9b81e9bf880054db20d0fc7764] In applying this Schedule, the voting rights in a legal entity are to be reduced by any rights held by the entity itself.
 
 #### Rights to appoint or remove members of the board
 
-**16.**[^key-16772b9b81e9bf880054db20d0fc7764] A reference to the right to appoint or remove a majority of the board of directors of a legal entity is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
+**16.**[^c-16772b9b81e9bf880054db20d0fc7764] A reference to the right to appoint or remove a majority of the board of directors of a legal entity is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
 
-**17.**[^key-16772b9b81e9bf880054db20d0fc7764] References to a board of directors, in the case of an entity that does not have such a board, are to be read as references to the equivalent management body of that entity.
+**17.**[^c-16772b9b81e9bf880054db20d0fc7764] References to a board of directors, in the case of an entity that does not have such a board, are to be read as references to the equivalent management body of that entity.
 
 #### Shares or rights held “indirectly”
 
-**18.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) A person holds a share “indirectly” if the person has a majority stake in a legal entity and that entity—
+**18.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) A person holds a share “indirectly” if the person has a majority stake in a legal entity and that entity—
 
 - (a) holds the share in question, or
 - (b) is part of a chain of legal entities—
@@ -163,11 +163,11 @@ Section 790C
 
 #### Shares held by nominees
 
-**19.**[^key-16772b9b81e9bf880054db20d0fc7764] A share held by a person as nominee for another is to be treated for the purposes of this Schedule as held by the other (and not by the nominee).
+**19.**[^c-16772b9b81e9bf880054db20d0fc7764] A share held by a person as nominee for another is to be treated for the purposes of this Schedule as held by the other (and not by the nominee).
 
 #### Rights treated as held by person who controls their exercise
 
-**20.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) Where a person controls a right, the right is to be treated for the purposes of this Schedule as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
+**20.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) Where a person controls a right, the right is to be treated for the purposes of this Schedule as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
 (2) A person “controls” a right if, by virtue of any arrangement between that person and others, the right is exercisable only—
 
@@ -175,7 +175,7 @@ Section 790C
 - (b) in accordance with that person's directions or instructions, or
 - (c) with that person's consent or concurrence.
 
-**21.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) “**Arrangement**” includes—
+**21.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) “**Arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
@@ -184,7 +184,7 @@ Section 790C
 
 #### Rights exercisable only in certain circumstances etc
 
-**22.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
+**22.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
 - (a) when the circumstances have arisen, and for so long as they continue to obtain, or
 - (b) when the circumstances are within the control of the person having the rights.
@@ -201,14 +201,14 @@ Section 790C
 
 #### Rights attached to shares held by way of security
 
-**23.**[^key-16772b9b81e9bf880054db20d0fc7764] Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
+**23.**[^c-16772b9b81e9bf880054db20d0fc7764] Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
 
 - (a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in accordance with that person's instructions, and
 - (b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in that person's interests.
 
 #### Significant influence or control
 
-**24.**[^key-16772b9b81e9bf880054db20d0fc7764] (1) The Secretary of State must issue guidance about the meaning of “**significant influence or control**” for the purposes of this Schedule.
+**24.**[^c-16772b9b81e9bf880054db20d0fc7764] (1) The Secretary of State must issue guidance about the meaning of “**significant influence or control**” for the purposes of this Schedule.
 
 (2) Regard must be had to that guidance in interpreting references in this Schedule to “significant influence or control”.
 
@@ -273,8 +273,8 @@ in or in relation to a limited partner which (in its capacity as such) would mee
 
 ## Annotations
 
-[^key-6ed350b4417d46202a65eeeb9c40ce36]: Modification: Sch. 1A applied (with modifications) by S.I. 2009/2436, Sch. 1 para. 20A (as inserted (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [36](https://www.legislation.gov.uk/uksi/2017/693/regulation/36) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3)))
+[^c-6ed350b4417d46202a65eeeb9c40ce36]: Modification: Sch. 1A applied (with modifications) by S.I. 2009/2436, Sch. 1 para. 20A (as inserted (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [36](https://www.legislation.gov.uk/uksi/2017/693/regulation/36) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3)))
 
-[^key-632d817427322ce236a7159fb446ae73]: Textual amendment: Schs. 1A, 1B inserted (26.5.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/2); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
+[^c-632d817427322ce236a7159fb446ae73]: Textual amendment: Schs. 1A, 1B inserted (26.5.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/2); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a)
 
-[^key-16772b9b81e9bf880054db20d0fc7764]: Modification: Sch. 1A paras. 1-24 applied (with modifications) by S.I. 2009/1804 reg. 31M (as inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/340/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1))
+[^c-16772b9b81e9bf880054db20d0fc7764]: Modification: Sch. 1A paras. 1-24 applied (with modifications) by S.I. 2009/1804 reg. 31M (as inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/340/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1))

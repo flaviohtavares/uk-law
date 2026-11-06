@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Notification requirements: proceedings[^key-8aaeb97ffa06c226221ea4678ad934dc][^key-5ccf3be9f224653488d62c0095e8c660]
+## 171. Notification requirements: proceedings[^c-8aaeb97ffa06c226221ea4678ad934dc][^c-5ccf3be9f224653488d62c0095e8c660]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8aaeb97ffa06c226221ea4678ad934dc]: Commencement: S. 171 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-8aaeb97ffa06c226221ea4678ad934dc]: Commencement: S. 171 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-5ccf3be9f224653488d62c0095e8c660]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2024/13/section/171) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-5ccf3be9f224653488d62c0095e8c660]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2024/13/section/171) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

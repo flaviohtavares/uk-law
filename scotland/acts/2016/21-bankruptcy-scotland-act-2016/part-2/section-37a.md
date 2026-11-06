@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37A. Interest[^key-d628174cfd5cb0d6860fabdbef9f80a0]
+## 37A. Interest[^c-d628174cfd5cb0d6860fabdbef9f80a0]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d628174cfd5cb0d6860fabdbef9f80a0]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/asp/2016/21/section/37A) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 5(6)](https://www.legislation.gov.uk/asp/2024/9/section/5/6), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/107/regulation/3))
+[^c-d628174cfd5cb0d6860fabdbef9f80a0]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/asp/2016/21/section/37A) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 5(6)](https://www.legislation.gov.uk/asp/2024/9/section/5/6), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/107/regulation/3))

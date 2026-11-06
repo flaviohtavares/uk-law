@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Use of approved codes of practice in criminal proceedings[^c17536171][^c17536181][^c21340411][^c21342681][^key-357c9493e9034b32493d8e1a7eda3351][^key-15033d53347b53893e338c27c858338b][^key-5e0f5c850012a18e6648c243afa7e428]
+## 19. Use of approved codes of practice in criminal proceedings[^c17536171][^c17536181][^c21340411][^c21342681][^c-357c9493e9034b32493d8e1a7eda3351][^c-15033d53347b53893e338c27c858338b][^c-5e0f5c850012a18e6648c243afa7e428]
 
 *Extent: N.I.*
 
@@ -39,10 +39,10 @@ summary: ''
 
 [^c21342681]: Modification: [Arts. 18-30](https://www.legislation.gov.uk/nisi/1978/1039/article/18) applied (with modifications) (24.8.2009) by [Explosives (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 (S.R. 2009/273)](https://www.legislation.gov.uk/nisr/2009/273), [reg. 14(1)(a)](https://www.legislation.gov.uk/nisr/2009/273/regulation/14/1/a)
 
-[^key-357c9493e9034b32493d8e1a7eda3351]: Modification: Arts. 18-23 applied (with modifications) (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [regs. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [27(1)(a)](https://www.legislation.gov.uk/nisr/2015/325/regulation/27/1/a) (with [regs. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2), [27(3)](https://www.legislation.gov.uk/nisr/2015/325/regulation/27/3))
+[^c-357c9493e9034b32493d8e1a7eda3351]: Modification: Arts. 18-23 applied (with modifications) (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [regs. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [27(1)(a)](https://www.legislation.gov.uk/nisr/2015/325/regulation/27/1/a) (with [regs. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2), [27(3)](https://www.legislation.gov.uk/nisr/2015/325/regulation/27/3))
 
-[^key-15033d53347b53893e338c27c858338b]: Modification: Arts. 18-28 applied (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [regs. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/nisr/2015/339/regulation/30/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))
+[^c-15033d53347b53893e338c27c858338b]: Modification: Arts. 18-28 applied (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [regs. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/nisr/2015/339/regulation/30/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))
 
-[^key-5e0f5c850012a18e6648c243afa7e428]: Modification: Arts. 18-24 applied (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [regs. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [36(1)(a)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/1/a) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-5e0f5c850012a18e6648c243afa7e428]: Modification: Arts. 18-24 applied (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [regs. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [36(1)(a)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/1/a) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
 [^c17536191]: Textual amendment: [1998 NI 18](https://www.legislation.gov.uk/1998/ni18)

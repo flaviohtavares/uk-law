@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Time limit for exercise of authority to acquire rights compulsorily[^key-74503a01b67bb8be857953b1e70dea2e]
+## 21. Time limit for exercise of authority to acquire rights compulsorily[^c-74503a01b67bb8be857953b1e70dea2e]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ the authority conferred by article 27 (temporary use of land for carrying out th
 
 ## Annotations
 
-[^key-74503a01b67bb8be857953b1e70dea2e]: Commencement: Art. 21 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-74503a01b67bb8be857953b1e70dea2e]: Commencement: Art. 21 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
 [^f00017]: Footnote: [1981 c.66](https://www.legislation.gov.uk/ukpga/1981/66).

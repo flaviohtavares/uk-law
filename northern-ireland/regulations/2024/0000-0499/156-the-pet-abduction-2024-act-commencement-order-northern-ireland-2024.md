@@ -37,11 +37,11 @@ Made
 
 The Department of Agriculture, Environment and Rural Affairs makes the following Order in exercise of the powers conferred by section 6(2) of the Pet Abduction Act 2024[^f00001].
 
-## 1. Citation[^key-8ea6f759a3754d6e2e7f93368a9a61ee]
+## 1. Citation[^c-8ea6f759a3754d6e2e7f93368a9a61ee]
 
 This Order may be cited as The Pet Abduction (2024 Act) (Commencement) Order (Northern Ireland) 2024.
 
-## 2. Appointed Day[^key-1357e21e72bfffb6d92d04fcd702cc63]
+## 2. Appointed Day[^c-1357e21e72bfffb6d92d04fcd702cc63]
 
 The day appointed for the coming into force is—
 
@@ -68,6 +68,6 @@ This Order appoints 24th August 2024 as the day for the coming into force of sec
 
 [^f00001]: Footnote: [2024 c.16](https://www.legislation.gov.uk/ukpga/2024/16)
 
-[^key-8ea6f759a3754d6e2e7f93368a9a61ee]: Commencement: Art. 1 in operation at made date
+[^c-8ea6f759a3754d6e2e7f93368a9a61ee]: Commencement: Art. 1 in operation at made date
 
-[^key-1357e21e72bfffb6d92d04fcd702cc63]: Commencement: Art. 2 in operation at made date
+[^c-1357e21e72bfffb6d92d04fcd702cc63]: Commencement: Art. 2 in operation at made date

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Commitment to prison[^key-2b69883c75c1a0fd9414919654b89db2]
+## 100. Commitment to prison[^c-2b69883c75c1a0fd9414919654b89db2]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: W*
 
-- (b (Extent: E) (affected by repeal, see note))[^key-d3a35a6b532d0812eeaab8c2434e5e03] the authority has sought to levy an amount by distress under regulation *(Extent: E)* *(affected by repeal, see note)*[^key-d3a35a6b532d0812eeaab8c2434e5e03] 98 *(Extent: E)* *(affected by repeal, see note)*[^key-d3a35a6b532d0812eeaab8c2434e5e03] and the person making the distress reports that they were unable (for whatever reason) to find any or sufficient goods of the debtor on which to levy the amount; and *(Extent: E)* *(affected by repeal, see note)*[^key-d3a35a6b532d0812eeaab8c2434e5e03]
+- (b (Extent: E) (affected by repeal, see note))[^c-d3a35a6b532d0812eeaab8c2434e5e03] the authority has sought to levy an amount by distress under regulation *(Extent: E)* *(affected by repeal, see note)*[^c-d3a35a6b532d0812eeaab8c2434e5e03] 98 *(Extent: E)* *(affected by repeal, see note)*[^c-d3a35a6b532d0812eeaab8c2434e5e03] and the person making the distress reports that they were unable (for whatever reason) to find any or sufficient goods of the debtor on which to levy the amount; and *(Extent: E)* *(affected by repeal, see note)*[^c-d3a35a6b532d0812eeaab8c2434e5e03]
 
 *Extent: E*
 
@@ -44,7 +44,7 @@ summary: ''
 
 *Extent: W*
 
-- (a (Extent: E) (affected by repeal, see note))[^key-39908445cd521416433b4c66af9abe96] the appropriate amount mentioned in regulation *(Extent: E)* *(affected by repeal, see note)*[^key-39908445cd521416433b4c66af9abe96] 98(3) *(Extent: E)* *(affected by repeal, see note)*[^key-39908445cd521416433b4c66af9abe96], or (as the case may be) so much of it as remains outstanding; and *(Extent: E)* *(affected by repeal, see note)*[^key-39908445cd521416433b4c66af9abe96]
+- (a (Extent: E) (affected by repeal, see note))[^c-39908445cd521416433b4c66af9abe96] the appropriate amount mentioned in regulation *(Extent: E)* *(affected by repeal, see note)*[^c-39908445cd521416433b4c66af9abe96] 98(3) *(Extent: E)* *(affected by repeal, see note)*[^c-39908445cd521416433b4c66af9abe96], or (as the case may be) so much of it as remains outstanding; and *(Extent: E)* *(affected by repeal, see note)*[^c-39908445cd521416433b4c66af9abe96]
 
 *Extent: E*
 
@@ -69,7 +69,7 @@ the authority must accept the amount concerned, take no further steps as regards
 
 *Extent: W*
 
-- (a (Extent: E) (affected by repeal, see note))[^key-02fe63391be629fbceceb38312d99c06] the appropriate amount mentioned in regulation *(Extent: E)* *(affected by repeal, see note)*[^key-02fe63391be629fbceceb38312d99c06] 98(3) *(Extent: E)* *(affected by repeal, see note)*[^key-02fe63391be629fbceceb38312d99c06] (or so much of it as remains outstanding); and *(Extent: E)* *(affected by repeal, see note)*[^key-02fe63391be629fbceceb38312d99c06]
+- (a (Extent: E) (affected by repeal, see note))[^c-02fe63391be629fbceceb38312d99c06] the appropriate amount mentioned in regulation *(Extent: E)* *(affected by repeal, see note)*[^c-02fe63391be629fbceceb38312d99c06] 98(3) *(Extent: E)* *(affected by repeal, see note)*[^c-02fe63391be629fbceceb38312d99c06] (or so much of it as remains outstanding); and *(Extent: E)* *(affected by repeal, see note)*[^c-02fe63391be629fbceceb38312d99c06]
 
 *Extent: E*
 
@@ -94,12 +94,12 @@ the period of imprisonment ordered under the warrant must be the term fixed unde
 
 ## Annotations
 
-[^key-2b69883c75c1a0fd9414919654b89db2]: Commencement: Reg. 100 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-2b69883c75c1a0fd9414919654b89db2]: Commencement: Reg. 100 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-d3a35a6b532d0812eeaab8c2434e5e03]: Textual amendment: [Reg. 100(1)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/100/1/b) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/4/a) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-d3a35a6b532d0812eeaab8c2434e5e03]: Textual amendment: [Reg. 100(1)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/100/1/b) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/4/a) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-39908445cd521416433b4c66af9abe96]: Textual amendment: [Reg. 100(4)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/100/4/a) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/4/b) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-39908445cd521416433b4c66af9abe96]: Textual amendment: [Reg. 100(4)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/100/4/a) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/4/b) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-02fe63391be629fbceceb38312d99c06]: Textual amendment: [Reg. 100(7)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/100/7/a) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/4/c) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-02fe63391be629fbceceb38312d99c06]: Textual amendment: [Reg. 100(7)(a)](https://www.legislation.gov.uk/uksi/2010/948/regulation/100/7/a) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8/4/c) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
 [^f00047]: Footnote: [S.I. 1981/552](https://www.legislation.gov.uk/uksi/1981/552); relevant amending instruments are [S.I. 2001/610](https://www.legislation.gov.uk/uksi/2001/610) and [S.I. 2005/617](https://www.legislation.gov.uk/uksi/2005/617).

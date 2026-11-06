@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Appropriate arrangements under sections 84(1) and 85(2)[^key-8453bee9975a1f546dce6b50fe5c8d15]
+## 88. Appropriate arrangements under sections 84(1) and 85(2)[^c-8453bee9975a1f546dce6b50fe5c8d15]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8453bee9975a1f546dce6b50fe5c8d15]: Commencement: S. 88 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-8453bee9975a1f546dce6b50fe5c8d15]: Commencement: S. 88 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

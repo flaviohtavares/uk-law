@@ -33,8 +33,8 @@ summary: ''
   - (iii) for distributions made on or after 1st April 2006; and
 - (c) for the purposes of capital gains tax, in relation to disposals made on or after 6th April 2006.
 
-(3)[^key-e64c9ed4fa74fbbbe27d9e0acad6f678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e64c9ed4fa74fbbbe27d9e0acad6f678] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e64c9ed4fa74fbbbe27d9e0acad6f678]: Textual amendment: Reg. 1(3) revoked (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2007/794/regulation/8/a)
+[^c-e64c9ed4fa74fbbbe27d9e0acad6f678]: Textual amendment: Reg. 1(3) revoked (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2007/794/regulation/8/a)

@@ -53,7 +53,7 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 1A — Scheme closure[^key-4d09d389b685accd0a141ea51899057a]
+### PART 1A — Scheme closure[^c-4d09d389b685accd0a141ea51899057a]
 
 - [Section 2A — Closure of the domestic RHI scheme to applications](part-1a/section-2a.md)
 - [Section 2B — Approval of documents published after scheme closure](part-1a/section-2b.md)
@@ -88,7 +88,7 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 - [Section 21 — Accreditation](part-3/section-21.md)
 - [Section 22 — Rejection of accreditation applications](part-3/section-22.md)
 
-### PART 3A — Investors[^key-63745a543884765fe16a1c6733a43227]
+### PART 3A — Investors[^c-63745a543884765fe16a1c6733a43227]
 
 - [Section 22A — Investor applications](part-3a/section-22a.md)
 - [Section 22B — Time limits for provision of information](part-3a/section-22b.md)
@@ -142,7 +142,7 @@ In accordance with section 100(7) of that Act, the Secretary of State has obtain
 - [Section 43A — Exemption from requirement for metering](part-7/section-43a.md)
 - [Section 44 — Ongoing obligations: provision of information](part-7/section-44.md)
 
-### PART 7A — Ongoing obligations on RIs[^key-f6d1b004e476e052a8f3f0e7a38e17cc]
+### PART 7A — Ongoing obligations on RIs[^c-f6d1b004e476e052a8f3f0e7a38e17cc]
 
 - [Section 44A — Ongoing obligations on RIs: general](part-7a/section-44a.md)
 - [Section 44B — Ongoing obligations on RIs: changes affecting RI’s registration](part-7a/section-44b.md)
@@ -282,8 +282,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100 is amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
 
-[^key-4d09d389b685accd0a141ea51899057a]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2014/928/part/1A) inserted (15.3.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/2/d), [4](https://www.legislation.gov.uk/uksi/2022/159/regulation/4)
+[^c-4d09d389b685accd0a141ea51899057a]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2014/928/part/1A) inserted (15.3.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/2/d), [4](https://www.legislation.gov.uk/uksi/2022/159/regulation/4)
 
-[^key-63745a543884765fe16a1c6733a43227]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2014/928/part/3A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/610/regulation/10)
+[^c-63745a543884765fe16a1c6733a43227]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2014/928/part/3A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/610/regulation/10)
 
-[^key-f6d1b004e476e052a8f3f0e7a38e17cc]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2014/928/part/7A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/610/regulation/17)
+[^c-f6d1b004e476e052a8f3f0e7a38e17cc]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2014/928/part/7A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/610/regulation/17)

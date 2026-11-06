@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Brazil Nuts) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-5a69ddbe4620c6fbd24711ffd7320a61]
+Food (Brazil Nuts) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-5a69ddbe4620c6fbd24711ffd7320a61]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 4th December 2003
 
-[^key-5a69ddbe4620c6fbd24711ffd7320a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a69ddbe4620c6fbd24711ffd7320a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5a69ddbe4620c6fbd24711ffd7320a61]
+## 1. Citation and commencement[^c-5a69ddbe4620c6fbd24711ffd7320a61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Brazil Nuts) (Emergency Control) Regulations (Northern Ireland) 2003[^key-5a69ddbe4620c6fbd24711ffd7320a61]
+## 2. Amendments to the Food (Brazil Nuts) (Emergency Control) Regulations (Northern Ireland) 2003[^c-5a69ddbe4620c6fbd24711ffd7320a61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a69ddbe4620c6fbd24711ffd7320a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a69ddbe4620c6fbd24711ffd7320a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a69ddbe4620c6fbd24711ffd7320a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a69ddbe4620c6fbd24711ffd7320a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a69ddbe4620c6fbd24711ffd7320a61]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/505) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-5a69ddbe4620c6fbd24711ffd7320a61]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/505) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

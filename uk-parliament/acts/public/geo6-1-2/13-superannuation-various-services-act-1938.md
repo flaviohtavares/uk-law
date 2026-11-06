@@ -69,7 +69,7 @@ Sections 1 and 2.
 </tbody>
 </table>
 
-[^c589326][^c589327][^c589328][^c589326][^c589330][^c589330][^c589330][^c589333][^c589334][^c589326][^c589336][^c589337][^c589337][^c589337][^key-18648ec678ae034d41d21981a2cf6a61][^c589326][^key-18648ec678ae034d41d21981a2cf6a61][^key-18648ec678ae034d41d21981a2cf6a61][^c589326][^key-18648ec678ae034d41d21981a2cf6a61][^c589345][^c589345][^c589345][^c589348][^c589349][^c589326][^c589351][^c589351][^c589351]
+[^c589326][^c589327][^c589328][^c589326][^c589330][^c589330][^c589330][^c589333][^c589334][^c589326][^c589336][^c589337][^c589337][^c589337][^c-18648ec678ae034d41d21981a2cf6a61][^c589326][^c-18648ec678ae034d41d21981a2cf6a61][^c-18648ec678ae034d41d21981a2cf6a61][^c589326][^c-18648ec678ae034d41d21981a2cf6a61][^c589345][^c589345][^c589345][^c589348][^c589349][^c589326][^c589351][^c589351][^c589351]
 
 ### PART II — . . .[^c589355]
 
@@ -97,7 +97,7 @@ Sections 1 and 2.
 
 [^c589337]: Textual amendment: Entry repealed by [Superannuation (Amendment) Act 1965 (c. 10)](https://www.legislation.gov.uk/ukpga/1965/10), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/1965/10/schedule/4/part/II)
 
-[^key-18648ec678ae034d41d21981a2cf6a61]: Textual amendment: Entries in Sch. Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-18648ec678ae034d41d21981a2cf6a61]: Textual amendment: Entries in Sch. Pt. I repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
 [^c589345]: Textual amendment: Entries repealed by [Forestry Act 1967 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1967/10/schedule/7/part/I)
 

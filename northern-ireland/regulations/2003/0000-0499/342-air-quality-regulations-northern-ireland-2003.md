@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred upon it by Articles 15(1), (2) and 27(1) of the Environment (Northern Ireland) Order 2002[^f00001] and of every other power enabling it in that behalf, having consulted such competent authorities as the Department considered appropriate, such bodies or persons which appeared to it to be representative of the interests of industry as it considered appropriate and such other bodies or persons as it considered appropriate, in accordance with Article 15(6) of that Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-376f3eee5a54efb7b3144b00ad9987e0]
+## 1. Citation, commencement and interpretation[^c-376f3eee5a54efb7b3144b00ad9987e0]
 
 (1) These Regulations may be cited as the Air Quality Regulations (Northern Ireland) 2003 and shall come into operation on 1st September 2003.
 
@@ -49,7 +49,7 @@ The Department of the Environment, in exercise of the powers conferred upon it b
 
 (3) For the purposes of these Regulations, any reference to a numbered provision is a reference to that numbered provision of the Order.
 
-## 2. Relevant Authorities[^key-b958e611653e64b7ba99195ea2e86f80]
+## 2. Relevant Authorities[^c-b958e611653e64b7ba99195ea2e86f80]
 
 A competent authority specified in column 1 of the Table shall be a relevant authority for the purposes of the corresponding provision specified in column 2 of the Table.
 
@@ -106,13 +106,13 @@ TABLE
 </tbody>
 </table>
 
-## 3. Relevant Periods[^key-3f9dd019c6852735f9ab8e16dd7c80a2]
+## 3. Relevant Periods[^c-3f9dd019c6852735f9ab8e16dd7c80a2]
 
 (1) The relevant period for the purposes of Article 13(4) of the Order shall be, in relation to the preparation of an action plan to which that Article applies, the period of 3 months beginning with the date on which the district council preparing the action plan first consults the relevant authority in relation to the plan pursuant to Article 13(3) of the Order.
 
 (2) The relevant period for the purposes of any other provision of Part III of the Order shall be, in relation to an air quality objective, the period beginning with the date on which these Regulations come into operation and ending on the date set out in the third column of the Table in the Schedule which relates to that objective.
 
-## 4. Air Quality Objectives[^key-ade3338da6e5c918e4d16433f2c698c5]
+## 4. Air Quality Objectives[^c-ade3338da6e5c918e4d16433f2c698c5]
 
 (1) It is an air quality objective for each substance listed in the first column of the Table in the Schedule that the level at which that substance is present in the air is restricted to a level set out in the second column of that Table for that substance by no later than the date set out in the third column of that Table for that substance and level.
 
@@ -160,26 +160,26 @@ Regulation 3(2) and 4(1)
 </tbody>
 </table>
 
-[^f01000][^key-d4ee5d1120e1c4008c48203682c14d77]
+[^f01000][^c-d4ee5d1120e1c4008c48203682c14d77]
 
-### 1. Interpretation[^key-e504e57855d77a4a6e465cfab0b5b708]
+### 1. Interpretation[^c-e504e57855d77a4a6e465cfab0b5b708]
 
 For the purposes of this schedule:–
 
 “PM<sub>10</sub>” means particulate matter, which passes through a size-selective inlet with a 50% efficiency cut-off at 10μm aerodynamic diameter.
 
-**2.**[^key-7c0c85feaa2fefec6b11dffad4aade48] (1) A running annual mean is a mean, which is calculated on an hourly basis, yielding one running annual mean per hour. The running annual mean for a particular substance at a particular location for a particular hour is the mean of the hourly levels for that substance at that location for that hour and the preceding 8759 hours.
+**2.**[^c-7c0c85feaa2fefec6b11dffad4aade48] (1) A running annual mean is a mean, which is calculated on an hourly basis, yielding one running annual mean per hour. The running annual mean for a particular substance at a particular location for a particular hour is the mean of the hourly levels for that substance at that location for that hour and the preceding 8759 hours.
 
 (2) For the purpose of the calculation of a running annual mean, the hourly level for a particular substance at a particular location is either –
 
 - (a) the level at which that substance is recorded as being present in the air at that location during the hour on the basis of a continuous sample of air taken during that hour for at least 30 minutes: or
 - (b) the mean of the levels recorded at that location on the basis of 2 or more samples of air taken during the hour for an aggregate period of at least 30 minutes.
 
-**3.**[^key-71fdb9f0c3df84fb1acbbd27807fe239] (1) A maximum daily running 8-hour mean is calculated on a daily basis. The maximum daily running 8-hour mean for a particular substance at a particular location for a particular day is the maximum of the running 8-hour means ending during that day.
+**3.**[^c-71fdb9f0c3df84fb1acbbd27807fe239] (1) A maximum daily running 8-hour mean is calculated on a daily basis. The maximum daily running 8-hour mean for a particular substance at a particular location for a particular day is the maximum of the running 8-hour means ending during that day.
 
 (2) For the purpose of sub-paragraph (1) a “running 8-hour mean” is a mean, which is calculated on an hourly basis, yielding one running 8 hour mean per hour. The running 8-hour mean for the relevant substance at the relevant location for a particular hour is the mean of the hourly means for the substance at the location for the hour and the preceding 7 hours.
 
-**4.**[^key-215c199f9da7d2ff263e9d0d1d0b6ef3] (1) An annual mean is a mean, which is calculated on a yearly basis, yielding one annual mean per calendar year. The annual mean for a particular substance at a particular location for a particular calendar year is –
+**4.**[^c-215c199f9da7d2ff263e9d0d1d0b6ef3] (1) An annual mean is a mean, which is calculated on a yearly basis, yielding one annual mean per calendar year. The annual mean for a particular substance at a particular location for a particular calendar year is –
 
 - (a) in the case of lead, the mean of the daily levels for that year;
 - (b) in the case of nitrogen dioxide, the mean of the hourly means for that year;
@@ -197,16 +197,16 @@ For the purposes of this schedule:–
 - (a) in any calendar year beginning on a day other than a Monday, the period from the beginning of the year until the first Monday in that year; and
 - (b) in any year, the period from the end of the last complete fortnight in the year to the end of that year.
 
-**5.**[^key-4e4947256b5f309078ae17985223b230] An hourly mean is a mean calculated every hour. The hourly mean for a particular substance at a particular location for a particular hour is the mean of the levels recorded for that substance at that location –
+**5.**[^c-4e4947256b5f309078ae17985223b230] An hourly mean is a mean calculated every hour. The hourly mean for a particular substance at a particular location for a particular hour is the mean of the levels recorded for that substance at that location –
 
 - (a) in the case of benzene, at a frequency of not less than once during the hour; and
 - (b) in the case of carbon monoxide, nitrogen dioxide and sulphur dioxide, at a frequency of not less than once every 10 seconds during the hour.
 
-**6.**[^key-deea58f9dbf14acf65941bab6804caaa] A 24-hour mean is a mean calculated every 24 hours. The 24 hour mean for a particular substance at a particular location for a particular 24 hour period is the level at which that substance is recorded as being present in the air at that location on the basis of a continuous sample of air taken throughout the period.
+**6.**[^c-deea58f9dbf14acf65941bab6804caaa] A 24-hour mean is a mean calculated every 24 hours. The 24 hour mean for a particular substance at a particular location for a particular 24 hour period is the level at which that substance is recorded as being present in the air at that location on the basis of a continuous sample of air taken throughout the period.
 
-**7.**[^key-a680c7d7224fd15df26c8ea898fec649] A 15-minute mean is a mean calculated every 15 minutes. The 15 minute mean for a particular substance at a particular location for a particular 15 minutes is the mean of the levels recorded, at a frequency of not les than once every 10 seconds, for that substance at that location during that 15 minutes.
+**7.**[^c-a680c7d7224fd15df26c8ea898fec649] A 15-minute mean is a mean calculated every 15 minutes. The 15 minute mean for a particular substance at a particular location for a particular 15 minutes is the mean of the levels recorded, at a frequency of not les than once every 10 seconds, for that substance at that location during that 15 minutes.
 
-**8.**[^key-c983709be2160b90cd59985f529ffbb1] The reference to a number of micrograms or milligrams per cubic metre of a substance is a reference to the number of micrograms or milligrams per cubic metre of that substance when measured with the volume standardised at a temperature of 293K and at a pressure of 101.3 kPa.
+**8.**[^c-c983709be2160b90cd59985f529ffbb1] The reference to a number of micrograms or milligrams per cubic metre of a substance is a reference to the number of micrograms or milligrams per cubic metre of that substance when measured with the volume standardised at a temperature of 293K and at a pressure of 101.3 kPa.
 
 (This is not part of the Regulations.)
 
@@ -220,13 +220,13 @@ Where any of the prescribed objectives are not likely to be achieved within any 
 
 [^f00001]: Footnote: S.I. [2002/3153](https://www.legislation.gov.uk/uksi/2002/3153)
 
-[^key-376f3eee5a54efb7b3144b00ad9987e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/342/regulation/1) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-376f3eee5a54efb7b3144b00ad9987e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/342/regulation/1) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-b958e611653e64b7ba99195ea2e86f80]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/342/regulation/2) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-b958e611653e64b7ba99195ea2e86f80]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/342/regulation/2) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-3f9dd019c6852735f9ab8e16dd7c80a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/342/regulation/3) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-3f9dd019c6852735f9ab8e16dd7c80a2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/342/regulation/3) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-ade3338da6e5c918e4d16433f2c698c5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/342/regulation/4) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-ade3338da6e5c918e4d16433f2c698c5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/342/regulation/4) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
 [^f01000]: Footnote: \*
 
@@ -236,20 +236,20 @@ Where any of the prescribed objectives are not likely to be achieved within any 
 
     - mg/m<sup>3</sup>: milligrams per cubic metre
 
-[^key-d4ee5d1120e1c4008c48203682c14d77]: Textual amendment: [words in Sch.](https://www.legislation.gov.uk/nisr/2003/342/schedule) substituted (1.1.2004) by [Air Quality (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/543)](https://www.legislation.gov.uk/nisr/2003/543), [regs. 1](https://www.legislation.gov.uk/nisr/2003/543/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/543/regulation/2)
+[^c-d4ee5d1120e1c4008c48203682c14d77]: Textual amendment: [words in Sch.](https://www.legislation.gov.uk/nisr/2003/342/schedule) substituted (1.1.2004) by [Air Quality (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/543)](https://www.legislation.gov.uk/nisr/2003/543), [regs. 1](https://www.legislation.gov.uk/nisr/2003/543/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/543/regulation/2)
 
-[^key-e504e57855d77a4a6e465cfab0b5b708]: Commencement: Sch. para. 1n2 in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-e504e57855d77a4a6e465cfab0b5b708]: Commencement: Sch. para. 1n2 in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-7c0c85feaa2fefec6b11dffad4aade48]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/2) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-7c0c85feaa2fefec6b11dffad4aade48]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/2) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-71fdb9f0c3df84fb1acbbd27807fe239]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/3) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-71fdb9f0c3df84fb1acbbd27807fe239]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/3) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-215c199f9da7d2ff263e9d0d1d0b6ef3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/4) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-215c199f9da7d2ff263e9d0d1d0b6ef3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/4) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-4e4947256b5f309078ae17985223b230]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/5) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-4e4947256b5f309078ae17985223b230]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/5) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-deea58f9dbf14acf65941bab6804caaa]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/6) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-deea58f9dbf14acf65941bab6804caaa]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/6) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-a680c7d7224fd15df26c8ea898fec649]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/7) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-a680c7d7224fd15df26c8ea898fec649]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/7) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
 
-[^key-c983709be2160b90cd59985f529ffbb1]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/8) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)
+[^c-c983709be2160b90cd59985f529ffbb1]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2003/342/schedule/paragraph/8) in operation at 1.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/342/regulation/1/1)

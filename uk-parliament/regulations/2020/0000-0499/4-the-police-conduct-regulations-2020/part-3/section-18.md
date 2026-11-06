@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Representations to the investigator[^key-87c987d0a896f70375299f950b325e62]
+## 18. Representations to the investigator[^c-87c987d0a896f70375299f950b325e62]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c987d0a896f70375299f950b325e62]: Commencement: Reg. 18 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-87c987d0a896f70375299f950b325e62]: Commencement: Reg. 18 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

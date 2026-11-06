@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. “Regulated user-generated content”, “user-generated content”, “news publisher content”[^key-d8988bc452cfa2806257c529cecd6a4c]
+## 55. “Regulated user-generated content”, “user-generated content”, “news publisher content”[^c-d8988bc452cfa2806257c529cecd6a4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ For the purposes of subsection (6), content that is user-generated content in re
 
 ## Annotations
 
-[^key-d8988bc452cfa2806257c529cecd6a4c]: Commencement: S. 55 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-d8988bc452cfa2806257c529cecd6a4c]: Commencement: S. 55 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

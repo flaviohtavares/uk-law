@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286. Power to amend sections 277 to 285[^key-1c5cf22d09bd97a2c8ecf25ddebe2269]
+## 286. Power to amend sections 277 to 285[^c-1c5cf22d09bd97a2c8ecf25ddebe2269]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c5cf22d09bd97a2c8ecf25ddebe2269]: Textual amendment: Words in s. 286 substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 17 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/9/2)
+[^c-1c5cf22d09bd97a2c8ecf25ddebe2269]: Textual amendment: Words in s. 286 substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 17 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/9/2)

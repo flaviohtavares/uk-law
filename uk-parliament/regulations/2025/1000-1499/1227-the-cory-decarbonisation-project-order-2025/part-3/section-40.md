@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Apparatus and rights of statutory undertakers in stopped up streets[^key-76a4ee9497616d0200dbb1b6d6fc0df4]
+## 40. Apparatus and rights of statutory undertakers in stopped up streets[^c-76a4ee9497616d0200dbb1b6d6fc0df4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-76a4ee9497616d0200dbb1b6d6fc0df4]: Commencement: Art. 40 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-76a4ee9497616d0200dbb1b6d6fc0df4]: Commencement: Art. 40 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. National policy statements: parliamentary requirements[^key-27c507b432a5037dfdddae7506d8d99f][^key-95a6937da75ae5035ce0a54edc4003e4]
+## 2. National policy statements: parliamentary requirements[^c-27c507b432a5037dfdddae7506d8d99f][^c-95a6937da75ae5035ce0a54edc4003e4]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27c507b432a5037dfdddae7506d8d99f]: Commencement: S. 2 not in force at Royal Assent, see [s. 118(1)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/a)
+[^c-27c507b432a5037dfdddae7506d8d99f]: Commencement: S. 2 not in force at Royal Assent, see [s. 118(1)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/a)
 
-[^key-95a6937da75ae5035ce0a54edc4003e4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/34/section/2) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/b)
+[^c-95a6937da75ae5035ce0a54edc4003e4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/34/section/2) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/b)

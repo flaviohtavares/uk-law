@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Validity of contracts, collective agreements and rules of undertakings[^key-b17d1217b3b370548cf0636d071a7460]
+## 49. Validity of contracts, collective agreements and rules of undertakings[^c-b17d1217b3b370548cf0636d071a7460]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (validity of contracts, collective agreements and rules of undertakin
 
 ## Annotations
 
-[^key-b17d1217b3b370548cf0636d071a7460]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/261/regulation/49) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-b17d1217b3b370548cf0636d071a7460]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/261/regulation/49) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

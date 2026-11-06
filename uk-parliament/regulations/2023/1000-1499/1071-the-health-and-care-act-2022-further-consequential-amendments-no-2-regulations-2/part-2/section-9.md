@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of the Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004[^key-2c9c8f46830a0417cd08e10a09bf28c9]
+## 9. Amendment of the Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004[^c-2c9c8f46830a0417cd08e10a09bf28c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c9c8f46830a0417cd08e10a09bf28c9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1071/regulation/9) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-2c9c8f46830a0417cd08e10a09bf28c9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1071/regulation/9) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2004 No. 149](https://www.legislation.gov.uk/nisr/2004/149), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

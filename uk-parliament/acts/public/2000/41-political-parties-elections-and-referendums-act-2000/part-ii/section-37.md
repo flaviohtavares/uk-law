@@ -28,7 +28,7 @@ summary: ''
 - (b) the British Broadcasting Corporation, or
 - (c) Sianel Pedwar Cymru.
 
-(3)[^key-7daf5c3d6c31af373376cb690b66bf52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7daf5c3d6c31af373376cb690b66bf52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c10573661]: Marginal citation: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55).
 
-[^key-7daf5c3d6c31af373376cb690b66bf52]: Textual amendment: [S. 37(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/37/3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7daf5c3d6c31af373376cb690b66bf52]: Textual amendment: [S. 37(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/37/3) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102I. Transport strategy of an STB[^key-6e2ee48c09053746a72efbd34e02c3e6]
+## 102I. Transport strategy of an STB[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 *Extent: E+W*
 
@@ -39,13 +39,13 @@ summary: ''
 
 - (a) the Secretary of State;
 - (b) a combined authority;
-- (ba)[^key-4681d81e2d492557a59013908d20112d] a combined county authority;
+- (ba)[^c-4681d81e2d492557a59013908d20112d] a combined county authority;
 - (c) another STB;
 - (d) an ITA;
 - (e) a Passenger Transport Executive;
 - (f) Transport for London;
 - (g) a person to whom a licence is granted under section 8 of the Railways Act 1993 (licences authorising persons to be operator of railway assets);
-- (h) a strategic highways company appointed under section 1 of the Infrastructure Act 2015[^key-6f2b4a437df4482557d9ea23b570a3e6];
+- (h) a strategic highways company appointed under section 1 of the Infrastructure Act 2015[^c-6f2b4a437df4482557d9ea23b570a3e6];
 - (i) a local highway authority (within the meaning of the Highways Act 1980);
 - (j) a county council in England;
 - (k) a unitary district council;
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-4681d81e2d492557a59013908d20112d]: Textual amendment: [S. 102I(7)(ba)](https://www.legislation.gov.uk/ukpga/2008/26/section/102I/7/ba) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 183](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/183) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-4681d81e2d492557a59013908d20112d]: Textual amendment: [S. 102I(7)(ba)](https://www.legislation.gov.uk/ukpga/2008/26/section/102I/7/ba) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 183](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/183) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-6f2b4a437df4482557d9ea23b570a3e6]: Textual amendment: Words in [s. 102I(7)(h)](https://www.legislation.gov.uk/ukpga/2008/26/section/102I/7/h) substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2023/677/schedule/paragraph/1/2)
+[^c-6f2b4a437df4482557d9ea23b570a3e6]: Textual amendment: Words in [s. 102I(7)(h)](https://www.legislation.gov.uk/ukpga/2008/26/section/102I/7/h) substituted (12.7.2023) by [The Strategic Highways Company (Name Change and Consequential Amendments) Regulations 2023 (S.I. 2023/677)](https://www.legislation.gov.uk/uksi/2023/677), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/677/regulation/1/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2023/677/schedule/paragraph/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Powers of Privy Council where standards not maintained.[^key-ad1e675873d8140255e6d8282463e8f5]
+## 9. Powers of Privy Council where standards not maintained.[^c-ad1e675873d8140255e6d8282463e8f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad1e675873d8140255e6d8282463e8f5]: Textual amendment: S. 9 omitted (3.11.2008) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/8); [S.I. 2008/2556](https://www.legislation.gov.uk/uksi/2008/2556), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2556/article/2/1/a)
+[^c-ad1e675873d8140255e6d8282463e8f5]: Textual amendment: S. 9 omitted (3.11.2008) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/5), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/8); [S.I. 2008/2556](https://www.legislation.gov.uk/uksi/2008/2556), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2556/article/2/1/a)

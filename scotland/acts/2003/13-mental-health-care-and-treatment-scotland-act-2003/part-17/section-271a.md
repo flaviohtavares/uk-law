@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 271A. Regulation-making powers[^key-1dffe9e5dbbcbd696d7a2c7098f65087]
+## 271A. Regulation-making powers[^c-1dffe9e5dbbcbd696d7a2c7098f65087]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ a patient's detention in a hospital is to be taken to involve the patient being 
 
 ## Annotations
 
-[^key-1dffe9e5dbbcbd696d7a2c7098f65087]: Textual amendment: S. 271A and cross-heading inserted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 16(5)](https://www.legislation.gov.uk/asp/2015/9/section/16/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
+[^c-1dffe9e5dbbcbd696d7a2c7098f65087]: Textual amendment: S. 271A and cross-heading inserted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 16(5)](https://www.legislation.gov.uk/asp/2015/9/section/16/5), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)

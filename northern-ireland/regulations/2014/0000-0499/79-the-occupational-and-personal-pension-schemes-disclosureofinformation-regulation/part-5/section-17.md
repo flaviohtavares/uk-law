@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Statements of benefits: money purchase benefits[^key-3300f648b1ef69c593cf528dfb46359e]
+## 17. Statements of benefits: money purchase benefits[^c-3300f648b1ef69c593cf528dfb46359e]
 
 *Extent: N.I.*
 
@@ -70,7 +70,7 @@ summary: ''
 
 (10) For the purposes of paragraph (6), a part of an occupational pension scheme that provides additional money purchase benefits where the member pays voluntary contributions to that part is to be treated as a separate scheme from any other part of that scheme.
 
-(11)[^key-d34d183c0a7803b90c5165eb5a55ce4f] Paragraph (12) applies where—
+(11)[^c-d34d183c0a7803b90c5165eb5a55ce4f] Paragraph (12) applies where—
 
 - (a) information must be given in accordance with this regulation by the trustees or managers of an automatic enrolment scheme to a member, and
 - (b) the automatic enrolment scheme is a scheme under which all the benefits which may be payable are money purchase benefits.
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3300f648b1ef69c593cf528dfb46359e]: Commencement: Reg. 17 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-3300f648b1ef69c593cf528dfb46359e]: Commencement: Reg. 17 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00023]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-d34d183c0a7803b90c5165eb5a55ce4f]: Textual amendment: [Reg. 17(11)-(15)](https://www.legislation.gov.uk/nisr/2014/79/regulation/17/11) inserted (1.10.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Statements of Benefits: Money Purchase Benefits) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/208)](https://www.legislation.gov.uk/nisr/2022/208), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/208/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/208/regulation/2)
+[^c-d34d183c0a7803b90c5165eb5a55ce4f]: Textual amendment: [Reg. 17(11)-(15)](https://www.legislation.gov.uk/nisr/2014/79/regulation/17/11) inserted (1.10.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Statements of Benefits: Money Purchase Benefits) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/208)](https://www.legislation.gov.uk/nisr/2022/208), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/208/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2022/208/regulation/2)

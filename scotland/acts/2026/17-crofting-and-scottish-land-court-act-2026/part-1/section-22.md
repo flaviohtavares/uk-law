@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Common grazings: unattached shares etc.[^key-6fa68cbed0d8f3f37286f6c1d5e0a928]
+## 22. Common grazings: unattached shares etc.[^c-6fa68cbed0d8f3f37286f6c1d5e0a928]
 
 *Extent: S*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fa68cbed0d8f3f37286f6c1d5e0a928]: Commencement: S. 22 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-6fa68cbed0d8f3f37286f6c1d5e0a928]: Commencement: S. 22 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

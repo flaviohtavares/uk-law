@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.9. Application to a High Court judge for permission to serve a draft indictment[^key-e8949a54233243388678ad6d5929500c]
+## 10.9. Application to a High Court judge for permission to serve a draft indictment[^c-e8949a54233243388678ad6d5929500c]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8949a54233243388678ad6d5929500c]: Commencement: [Rule 10.9](https://www.legislation.gov.uk/uksi/2025/909/rule/10.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e8949a54233243388678ad6d5929500c]: Commencement: [Rule 10.9](https://www.legislation.gov.uk/uksi/2025/909/rule/10.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00309]: Footnote: [1933 c. 36](https://www.legislation.gov.uk/ukpga/1933/36); section 2(6) was amended by Part IV of Schedule 11 to the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), paragraph 1 of the Schedule to [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) and section 82 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).

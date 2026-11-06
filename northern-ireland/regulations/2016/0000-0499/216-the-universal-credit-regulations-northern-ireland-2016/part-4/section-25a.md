@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25A. Availability of the child element where maximum exceeded[^key-5ac8a9f9d691228259d7e7884815ab11]
+## 25A. Availability of the child element where maximum exceeded[^c-5ac8a9f9d691228259d7e7884815ab11]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ac8a9f9d691228259d7e7884815ab11]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/nisr/2016/216/regulation/25A) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/3/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
+[^c-5ac8a9f9d691228259d7e7884815ab11]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/nisr/2016/216/regulation/25A) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/3/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))

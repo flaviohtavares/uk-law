@@ -37,33 +37,33 @@ adopting guidelines for reporting by the Member States under Directive 2010/40/E
 
 (2011/453/EU) (revoked)
 
-[^key-3444d3487dac44e9cfad2504668b4ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3444d3487dac44e9cfad2504668b4ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3444d3487dac44e9cfad2504668b4ecc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3444d3487dac44e9cfad2504668b4ecc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3444d3487dac44e9cfad2504668b4ecc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3444d3487dac44e9cfad2504668b4ecc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3444d3487dac44e9cfad2504668b4ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3444d3487dac44e9cfad2504668b4ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — GUIDELINES FOR REPORTING BY THE MEMBER STATES UNDER DIRECTIVE 2010/40/EU[^key-3444d3487dac44e9cfad2504668b4ecc]
+## ANNEX — GUIDELINES FOR REPORTING BY THE MEMBER STATES UNDER DIRECTIVE 2010/40/EU[^c-3444d3487dac44e9cfad2504668b4ecc]
 
-[^key-3444d3487dac44e9cfad2504668b4ecc]1.
+[^c-3444d3487dac44e9cfad2504668b4ecc]1.
 
 **Initial report**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3444d3487dac44e9cfad2504668b4ecc]2.
+[^c-3444d3487dac44e9cfad2504668b4ecc]2.
 
 **Information on national ITS actions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3444d3487dac44e9cfad2504668b4ecc]3.
+[^c-3444d3487dac44e9cfad2504668b4ecc]3.
 
 **Progress reports**
 
@@ -71,4 +71,4 @@ adopting guidelines for reporting by the Member States under Directive 2010/40/E
 
 ## Annotations
 
-[^key-3444d3487dac44e9cfad2504668b4ecc]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3444d3487dac44e9cfad2504668b4ecc]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

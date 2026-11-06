@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Non-voting Co-opted members[^key-04e8f19dfb97e9bb29485f95b3257987]
+## 8. Non-voting Co-opted members[^c-04e8f19dfb97e9bb29485f95b3257987]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ From the establishment of the Board, the Board may from time to time co-opt no m
 
 ## Annotations
 
-[^key-04e8f19dfb97e9bb29485f95b3257987]: Commencement: Art. 8 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-04e8f19dfb97e9bb29485f95b3257987]: Commencement: Art. 8 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

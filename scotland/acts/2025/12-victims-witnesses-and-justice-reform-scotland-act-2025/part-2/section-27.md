@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Criminal courts: conduct of proceedings[^key-4801588ac77d3c8cfad6764894c9d3ee][^key-b5ba638b882851afc6f4cc79901aa685]
+## 27. Criminal courts: conduct of proceedings[^c-4801588ac77d3c8cfad6764894c9d3ee][^c-b5ba638b882851afc6f4cc79901aa685]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4801588ac77d3c8cfad6764894c9d3ee]: Commencement: S. 27 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-4801588ac77d3c8cfad6764894c9d3ee]: Commencement: S. 27 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-b5ba638b882851afc6f4cc79901aa685]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/12/section/27) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-b5ba638b882851afc6f4cc79901aa685]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/12/section/27) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

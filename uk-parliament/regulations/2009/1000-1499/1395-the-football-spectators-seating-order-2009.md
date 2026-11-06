@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events, England And Wales
 
-The Football Spectators (Seating) Order 2009 (revoked)[^key-8cc01a637561202186473bb2567e03d0]
+The Football Spectators (Seating) Order 2009 (revoked)[^c-8cc01a637561202186473bb2567e03d0]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 3rd July 2009
 
-[^key-8cc01a637561202186473bb2567e03d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8cc01a637561202186473bb2567e03d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-8cc01a637561202186473bb2567e03d0]
+## 1. Citation and Commencement[^c-8cc01a637561202186473bb2567e03d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Direction[^key-8cc01a637561202186473bb2567e03d0]
+## 2. Direction[^c-8cc01a637561202186473bb2567e03d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8cc01a637561202186473bb2567e03d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8cc01a637561202186473bb2567e03d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Premises in respect of which a condition imposing requirements about the seating of spectators at designated football matches must be imposed[^key-8cc01a637561202186473bb2567e03d0]
+## SCHEDULE 1 — Premises in respect of which a condition imposing requirements about the seating of spectators at designated football matches must be imposed[^c-8cc01a637561202186473bb2567e03d0]
 
 Article 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Requirements to be imposed[^key-8cc01a637561202186473bb2567e03d0]
+## SCHEDULE 2 — Requirements to be imposed[^c-8cc01a637561202186473bb2567e03d0]
 
 Article 2(2)
 
-**1.**[^key-8cc01a637561202186473bb2567e03d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8cc01a637561202186473bb2567e03d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8cc01a637561202186473bb2567e03d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8cc01a637561202186473bb2567e03d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8cc01a637561202186473bb2567e03d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8cc01a637561202186473bb2567e03d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8cc01a637561202186473bb2567e03d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1395) revoked (7.12.2021) by [The Football Spectators (Seating) Order 2021 (S.I. 2021/1239)](https://www.legislation.gov.uk/uksi/2021/1239), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1239/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1239/article/3/3)
+[^c-8cc01a637561202186473bb2567e03d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1395) revoked (7.12.2021) by [The Football Spectators (Seating) Order 2021 (S.I. 2021/1239)](https://www.legislation.gov.uk/uksi/2021/1239), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1239/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1239/article/3/3)

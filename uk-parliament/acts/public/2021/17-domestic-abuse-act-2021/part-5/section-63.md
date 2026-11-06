@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Special measures in family proceedings: victims of domestic abuse[^key-f66988a9159078f10edc7ca7d28b35fd]
+## 63. Special measures in family proceedings: victims of domestic abuse[^c-f66988a9159078f10edc7ca7d28b35fd]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f66988a9159078f10edc7ca7d28b35fd]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2021/17/section/63) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/d)
+[^c-f66988a9159078f10edc7ca7d28b35fd]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2021/17/section/63) in force at 1.10.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Delegation of appellate functions[^key-8caede64a9859466109fed164d9fa963]
+## SCHEDULE 3 — Delegation of appellate functions[^c-8caede64a9859466109fed164d9fa963]
 
 *Extent: E+W*
 
@@ -92,6 +92,6 @@ Section 8(2).
 
 ## Annotations
 
-[^key-8caede64a9859466109fed164d9fa963]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/37/schedule/3) applied (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d)[(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/4/4) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-8caede64a9859466109fed164d9fa963]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/37/schedule/3) applied (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d)[(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/4/4) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
 
 [^c1057147]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

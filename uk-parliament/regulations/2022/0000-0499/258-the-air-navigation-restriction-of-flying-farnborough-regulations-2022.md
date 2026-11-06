@@ -41,11 +41,11 @@ The Secretary of State has decided it is necessary in the public interest to res
 
 The Secretary of State, in exercise of the powers conferred by article 239 of the Air Navigation Order 2016[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-1e8adab6f7859cc6a33ae5dde5834ea7]
+## 1. Citation and commencement[^c-1e8adab6f7859cc6a33ae5dde5834ea7]
 
 These Regulations may be cited as the Air Navigation (Restriction of Flying) (Farnborough) Regulations 2022 and they come into force with immediate effect.
 
-## 2. Restricted airspace[^key-608ce8302ce03162959f3a70e769279f]
+## 2. Restricted airspace[^c-608ce8302ce03162959f3a70e769279f]
 
 (1) Subject to paragraph (2), no aeroplane of the type Bombardier BD700-1A10 and which is operated by Global Jet Luxembourg S.A. is to depart from Farnborough Airport.
 
@@ -75,6 +75,6 @@ Full details of this Statutory Instrument will be promulgated by Notice to Aviat
 
 [^f00001]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to these Regulations.
 
-[^key-1e8adab6f7859cc6a33ae5dde5834ea7]: Commencement: Reg. 1 in force at 8.3.2022 at 8.41 p.m. with immediate effect , see [reg. 1](https://www.legislation.gov.uk/uksi/2022/258/regulation/1)
+[^c-1e8adab6f7859cc6a33ae5dde5834ea7]: Commencement: Reg. 1 in force at 8.3.2022 at 8.41 p.m. with immediate effect , see [reg. 1](https://www.legislation.gov.uk/uksi/2022/258/regulation/1)
 
-[^key-608ce8302ce03162959f3a70e769279f]: Commencement: Reg. 2 in force at 8.3.2022 at 8.41 p.m. with immediate effect , see [reg. 1](https://www.legislation.gov.uk/uksi/2022/258/regulation/1)
+[^c-608ce8302ce03162959f3a70e769279f]: Commencement: Reg. 2 in force at 8.3.2022 at 8.41 p.m. with immediate effect , see [reg. 1](https://www.legislation.gov.uk/uksi/2022/258/regulation/1)

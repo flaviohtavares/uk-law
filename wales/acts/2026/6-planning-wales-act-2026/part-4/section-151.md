@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Offence of breaching stop notice[^key-9478a13fa1cd41a99674baf8620974fb]
+## 151. Offence of breaching stop notice[^c-9478a13fa1cd41a99674baf8620974fb]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9478a13fa1cd41a99674baf8620974fb]: Commencement: S. 151 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9478a13fa1cd41a99674baf8620974fb]: Commencement: S. 151 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

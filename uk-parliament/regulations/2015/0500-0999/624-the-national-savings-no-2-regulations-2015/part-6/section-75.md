@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Posting to be regarded as delivery[^key-87b9c3c844397756b01b3ea49f2efc39]
+## 75. Posting to be regarded as delivery[^c-87b9c3c844397756b01b3ea49f2efc39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The posting of a letter containing a warrant or cash payment advice issued under
 
 ## Annotations
 
-[^key-87b9c3c844397756b01b3ea49f2efc39]: Commencement: Reg. 75 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-87b9c3c844397756b01b3ea49f2efc39]: Commencement: Reg. 75 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

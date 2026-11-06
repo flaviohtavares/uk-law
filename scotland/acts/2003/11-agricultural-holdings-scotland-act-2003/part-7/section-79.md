@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Arbitration: procedure etc.[^key-d2d534271fca1a01a8ef1b876d9bdccd]
+## 79. Arbitration: procedure etc.[^c-d2d534271fca1a01a8ef1b876d9bdccd]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ and the arbiter or, as the case may be, each arbiter may be appointed by the par
 
 ## Annotations
 
-[^key-d2d534271fca1a01a8ef1b876d9bdccd]: Commencement: S. 79 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-d2d534271fca1a01a8ef1b876d9bdccd]: Commencement: S. 79 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
 [^M_F_146f8012-332f-4a2e-86bd-832914f03dd6]: Textual amendment: Words s. 79(15 inserted (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 118(3)(b)](https://www.legislation.gov.uk/asp/2016/18/section/118/3/b), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [Sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

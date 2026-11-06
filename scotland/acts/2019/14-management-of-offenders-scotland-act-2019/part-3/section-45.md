@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. References to the chairperson[^key-25787ceebdb063d49ad9fa053a8cce91]
+## 45. References to the chairperson[^c-25787ceebdb063d49ad9fa053a8cce91]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25787ceebdb063d49ad9fa053a8cce91]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2019/14/section/45) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/j)
+[^c-25787ceebdb063d49ad9fa053a8cce91]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2019/14/section/45) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(j)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/j)

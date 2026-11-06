@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Assignation of modern limited duration tenancies[^key-8637f1977ddf0335cf3933bdfbd9ca70]
+## 105. Assignation of modern limited duration tenancies[^c-8637f1977ddf0335cf3933bdfbd9ca70]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8637f1977ddf0335cf3933bdfbd9ca70]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/18/section/105) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-8637f1977ddf0335cf3933bdfbd9ca70]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2016/18/section/105) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

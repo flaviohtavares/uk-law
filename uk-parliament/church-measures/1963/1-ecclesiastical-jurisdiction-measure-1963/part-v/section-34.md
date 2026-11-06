@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 34. Contents of articles.[^key-ac95571003798386cc73f8f908c2cbb2][^key-ac95571003798386cc73f8f908c2cbb2]
+## 34. Contents of articles.[^c-ac95571003798386cc73f8f908c2cbb2][^c-ac95571003798386cc73f8f908c2cbb2]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac95571003798386cc73f8f908c2cbb2]: Textual amendment: Pt. 5 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-ac95571003798386cc73f8f908c2cbb2]: Textual amendment: Pt. 5 repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

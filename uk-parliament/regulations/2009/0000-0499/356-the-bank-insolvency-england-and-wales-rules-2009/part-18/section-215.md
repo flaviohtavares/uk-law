@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 215. Costs paid otherwise than out of the insolvent estate[^key-341d2bf733df6ea014396393e32ca211]
+## 215. Costs paid otherwise than out of the insolvent estate[^c-341d2bf733df6ea014396393e32ca211]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.38 of the 1986 Rules.
 
 ## Annotations
 
-[^key-341d2bf733df6ea014396393e32ca211]: Commencement: Rule 215 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-341d2bf733df6ea014396393e32ca211]: Commencement: Rule 215 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24A. Evidence as to age and nationality: registration of parliamentary electors and local government electors in England[^key-36d3aab5f2aa185c28c9fd9da3c1ea3b]
+## 24A. Evidence as to age and nationality: registration of parliamentary electors and local government electors in England[^c-36d3aab5f2aa185c28c9fd9da3c1ea3b]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - (c) where P has made an overseas elector’s declaration, further evidence of P’s status as a British citizen, including a document showing that P has become a British citizen by virtue of registration;
 - (d) in any other case—
   - (i) a document showing that P has become a Commonwealth citizen by virtue of registration, or
-  - (ii) a statutory declaration that P is a qualifying Commonwealth citizen, citizen of the Republic of Ireland, a qualifying EU citizen or an EU citizen with retained rights[^key-6a4654f61b04bb3f68afe4a37144a474].
+  - (ii) a statutory declaration that P is a qualifying Commonwealth citizen, citizen of the Republic of Ireland, a qualifying EU citizen or an EU citizen with retained rights[^c-6a4654f61b04bb3f68afe4a37144a474].
 
 (4) Where P has made an overseas elector’s declaration, the registration officer may require a copy of a document referred to in paragraph (3)(a) to (c).
 
@@ -41,12 +41,12 @@ summary: ''
 
 (7) Paragraph (6) does not apply where the declarant has, or has applied for, an anonymous entry.
 
-(8)[^key-2edb69a56777ca62580e7dbdead208db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-2edb69a56777ca62580e7dbdead208db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36d3aab5f2aa185c28c9fd9da3c1ea3b]: Textual amendment: Reg. 24A inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/3) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))
+[^c-36d3aab5f2aa185c28c9fd9da3c1ea3b]: Textual amendment: Reg. 24A inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/3) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))
 
-[^key-6a4654f61b04bb3f68afe4a37144a474]: Textual amendment: Words in [reg. 24A(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2001/341/regulation/24A/3/d/ii) substituted (7.5.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/3), [15(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/15/2)
+[^c-6a4654f61b04bb3f68afe4a37144a474]: Textual amendment: Words in [reg. 24A(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2001/341/regulation/24A/3/d/ii) substituted (7.5.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/3), [15(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/15/2)
 
-[^key-2edb69a56777ca62580e7dbdead208db]: Textual amendment: [Reg. 24A(8)](https://www.legislation.gov.uk/uksi/2001/341/regulation/24A/8) omitted (21.5.2024) by virtue of [The Representation of the People (England and Wales and Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/665)](https://www.legislation.gov.uk/uksi/2024/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/665/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/665/regulation/2/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2024/665/regulation/1/5))
+[^c-2edb69a56777ca62580e7dbdead208db]: Textual amendment: [Reg. 24A(8)](https://www.legislation.gov.uk/uksi/2001/341/regulation/24A/8) omitted (21.5.2024) by virtue of [The Representation of the People (England and Wales and Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/665)](https://www.legislation.gov.uk/uksi/2024/665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/665/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/665/regulation/2/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2024/665/regulation/1/5))

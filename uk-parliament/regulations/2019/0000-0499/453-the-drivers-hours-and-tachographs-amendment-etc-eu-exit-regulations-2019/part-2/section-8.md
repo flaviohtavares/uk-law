@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8.[^key-b76272647c46b12223dc1ec99641f4d1]
+## 8.[^c-b76272647c46b12223dc1ec99641f4d1]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ In section 97C [^c23620621]—
 
 ## Annotations
 
-[^key-b76272647c46b12223dc1ec99641f4d1]: Commencement: Reg. 8 in force at 26.3.2019, see reg. 1(2)
+[^c-b76272647c46b12223dc1ec99641f4d1]: Commencement: Reg. 8 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620621]: Marginal citation: Section 97C was inserted by [S.I. 2008/198](https://www.legislation.gov.uk/uksi/2008/198) and amended by [S.I. 2016/248](https://www.legislation.gov.uk/uksi/2016/248).

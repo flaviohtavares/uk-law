@@ -43,7 +43,7 @@ Coming into force
 
 The Registrar General in exercise of the powers conferred on her by Schedule 1 to this instrument, as extended by sections 2(2) and 3(2) of the Welsh Language Act 1967[^f00001], and of all other powers enabling her in that behalf, with the concurrence and approval of the Secretary of State for Wales[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-737ac6c3e11e74148e1a3b848e332e59]
+## 1. Citation, commencement and interpretation[^c-737ac6c3e11e74148e1a3b848e332e59]
 
 (1) These Regulations may be cited as the Registration of Births and Deaths (Welsh Language) Regulations 1987 and shall come into force on 1st January 1988.
 
@@ -56,18 +56,18 @@ The Registrar General in exercise of the powers conferred on her by Schedule 1 t
 
 (3) Where a still-born child is found exposed or a dead body is found, any reference in these Regulations to the place where the still-birth or death occurred is, if the place is unknown, to be construed as a reference to the place where the still-born child or the deceased was found.
 
-## 2. Prescribed forms for registration of births and deaths[^key-5132fb896a574594da723c88c9da4a55]
+## 2. Prescribed forms for registration of births and deaths[^c-5132fb896a574594da723c88c9da4a55]
 
 Subject to the provisions of regulation 6(2) of these Regulations, in relation to births and deaths occurring in Wales–
 
 - (a) forms 1 to 16 in Schedule 2 to these Regulations shall be the prescribed forms in place of the corresponding forms (“the English forms”), that is to say forms 1 to 6, 9 to 11, 13 to 18 and 20, in Schedule 2 to the principal Regulations;
 - (b) references to any of the English forms in the principal Regulations shall have effect as referring instead to the corresponding form in Schedule 2 to these Regulations.
 
-## 3. Prescribed words[^key-4d91e01db18ac215df07defc23fb208d]
+## 3. Prescribed words[^c-4d91e01db18ac215df07defc23fb208d]
 
 Where a regulation in the principal Regulations specified in column (1) of Schedule 3 to these Regulations requires the use of a form of words set out in column (2), the form of words set out opposite thereto in column (3) shall be used in any Welsh version.
 
-## 4. Registration and re-registration of live-births occurring in Wales[^key-0910e2a53be9c7cd52af132d44969853]
+## 4. Registration and re-registration of live-births occurring in Wales[^c-0910e2a53be9c7cd52af132d44969853]
 
 (1) Subject to paragraph (2), where a qualified informant, giving information relating to the registration or re-registration of a birth which occurred in Wales, elects for the particulars required by Part III, IV or V of the principal Regulations to be entered in Welsh as well as in English, the registrar shall enter those particulars accordingly.
 
@@ -80,7 +80,7 @@ Where a regulation in the principal Regulations specified in column (1) of Sched
 
 (3) Where under paragraph (2) of regulation 14 of the principal Regulations (giving or alteration of name after registration) a superintendent registrar or registrar makes an entry in space 17 of an entry of birth which has been completed in Welsh as well as in English, he shall add the Welsh version of the words prescribed by sub-paragraph (a) or (b) (as the case may be) of that paragraph.
 
-## 5. Registration of still-births occurring in Wales[^key-5ef1764ef7a376374f4c4224f306a20e]
+## 5. Registration of still-births occurring in Wales[^c-5ef1764ef7a376374f4c4224f306a20e]
 
 (1) Forms 8 and 9 may be completed in English only or in both English and Welsh.
 
@@ -103,7 +103,7 @@ and where the particulars in space 2 are entered in Welsh as well as in English 
 - (a) the registrar shall enter the particulars precisely as stated in the certificate in accordance with regulation 36(1) of the principal Regulations; and
 - (b) if the certificate is completed by the coroner in Welsh as well as in English, the registrar shall also enter the Welsh version of the words prescribed by sub-paragraph (b), and of the particulars prescribed by sub-paragraphs (c), (e) and (f), of regulation 36(1).
 
-## 6. Registration of deaths occurring in Wales[^key-26fc3987ae3f8db93b65528e8676941b]
+## 6. Registration of deaths occurring in Wales[^c-26fc3987ae3f8db93b65528e8676941b]
 
 (1) Forms 11 to 15 may be completed in English only or in both English and Welsh.
 
@@ -126,11 +126,11 @@ the registrar shall, subject to paragraph (4), enter the particulars in both Eng
 - (a) the registrar shall enter the particulars precisely as stated in the certificate in accordance with regulation 45(a) of the principal Regulations; and
 - (b) if the certificate is completed by the coroner in Welsh as well as in English, the registrar shall also enter the Welsh version of the words prescribed by sub-paragraph (b), and of the particulars prescribed by sub-paragraphs (d) and (e), of regulation 45.
 
-## 7. Correction of errors in birth and death entries[^key-cf0a8f253e782987140c67b904db4b18]
+## 7. Correction of errors in birth and death entries[^c-cf0a8f253e782987140c67b904db4b18]
 
 Where an error requires to be corrected in an entry in a register of births or deaths kept in Wales, the marginal note specified by regulation 54(1)(e), 55(3), 56(2), 57(3) or (4), 58(2)(b) or 59(2) or (3)(b) (as the case may be) of the principal Regulations shall be entered in English if the error occurs in particulars entered in English and in Welsh if the error occurs in particulars entered in Welsh.
 
-## 8. Short certificate of birth[^key-7831e60c8bebcbee26cd64d74c452744]
+## 8. Short certificate of birth[^c-7831e60c8bebcbee26cd64d74c452744]
 
 (1) In relation to a short certificate of birth issued by a superintendent registrar or registrar which is compiled from an entry in a birth register relating to a birth which occurred in Wales, form 17 shall be the prescribed form in place of form 21 in Schedule 2 to the principal Regulations and regulation 64(a) of those Regulations shall have effect as if it referred not to the latter form but to form 17.
 
@@ -146,15 +146,15 @@ form 18 shall be the prescribed form in place of form 22 in Schedule 2 to the pr
 
 (3) Where a short certificate of birth is compiled from an entry, or a certified copy of an entry, which pursuant to these Regulations contains a Welsh version of the particulars entered, the certificate shall likewise include particulars in Welsh as well as in English.
 
-## 9. Discrepancies[^key-c8e79246697537b5700a9d07e7d7acf0]
+## 9. Discrepancies[^c-c8e79246697537b5700a9d07e7d7acf0]
 
 In the case of any discrepancy between an English text and a Welsh text permitted by these Regulations, the English text shall prevail.
 
-## 10. Certified copies[^key-201b8553c27181579f317ae033a667f1]
+## 10. Certified copies[^c-201b8553c27181579f317ae033a667f1]
 
 Where a certified copy of an entry in a register of live-births, still-births or deaths containing English only, or in a certified copy of such a register, is made on a form containing both English and Welsh but the particulars in the original entry and those entered in the certified copy of that entry do not differ in any other respect the certified copy shall be treated as a true copy of the original entry.
 
-## 11. Revocations[^key-267aab8a4e60a789aa411d79e788d67b]
+## 11. Revocations[^c-267aab8a4e60a789aa411d79e788d67b]
 
 The regulations specified in Schedule 4 to these Regulations are hereby revoked.
 
@@ -172,7 +172,7 @@ Secretary of State for Wales
 
 26th November 1987
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-3c1c53adbaceccea8f71bebe95ef2144]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-3c1c53adbaceccea8f71bebe95ef2144]
 
 <table>
 <thead>
@@ -210,7 +210,7 @@ Secretary of State for Wales
 
 [^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016]
 
-## SCHEDULE 2 — PRESCRIBED FORMS[^key-68f9197f13bd68156781af92611fa3eb]
+## SCHEDULE 2 — PRESCRIBED FORMS[^c-68f9197f13bd68156781af92611fa3eb]
 
 Regulations 2(1), 8(1) and (2)
 
@@ -237,79 +237,79 @@ CONTENTS
 | 17 | Short certificate of birth issued by superintendent registrar/registrar | The Act, section 33 | 21 |
 | 18 | Short certificate of birth issued by Registrar General | The Act, section 33 | 22 |
 
-### FORM 1 — PARTICULARS OF BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 1 — PARTICULARS OF BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_001)
 
-### FORM 2 — DECLARATION/STATEMENT FOR THE REGISTRATION/RE-REGISTRATION OF A BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 2 — DECLARATION/STATEMENT FOR THE REGISTRATION/RE-REGISTRATION OF A BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_002)
 
-### FORM 3 — CERTIFICATE THAT NAME WAS GIVEN IN BAPTISM[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 3 — CERTIFICATE THAT NAME WAS GIVEN IN BAPTISM[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_003)
 
-### FORM 4 — CERTIFICATE THAT NAME WAS GIVEN OTHERWISE THAN IN BAPTISM[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 4 — CERTIFICATE THAT NAME WAS GIVEN OTHERWISE THAN IN BAPTISM[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_004)
 
-### FORM 5 — STATEMENT BY PARENT FOR THE RE-REGISTRATION OF A BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 5 — STATEMENT BY PARENT FOR THE RE-REGISTRATION OF A BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_005)
 
-### FORM 6 — STATEMENT BY MOTHER FOR THE RE-REGISTRATION OF A BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 6 — STATEMENT BY MOTHER FOR THE RE-REGISTRATION OF A BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_006)
 
-### FORM 7 — PARTICULARS OF STILL-BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 7 — PARTICULARS OF STILL-BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_007)
 
-### FORM 8 — MEDICAL CERTIFICATE OF STILL-BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 8 — MEDICAL CERTIFICATE OF STILL-BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_008)
 
-### FORM 9 — DECLARATION AS TO STILL-BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 9 — DECLARATION AS TO STILL-BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_009)
 
-### FORM 10 — PARTICULARS OF DEATH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 10 — PARTICULARS OF DEATH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_010)
 
-### FORM 11 — MEDICAL CERTIFICATE OF CAUSE OF DEATH EXCEPT FOR CHILD DYING WITH 28 DAYS OF BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 11 — MEDICAL CERTIFICATE OF CAUSE OF DEATH EXCEPT FOR CHILD DYING WITH 28 DAYS OF BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_011)
 
-### FORM 12 — MEDICAL CERTIFICATE OF CAUSE OF DEATH FOR CHILD DYING WITH 28 DAYS OF BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 12 — MEDICAL CERTIFICATE OF CAUSE OF DEATH FOR CHILD DYING WITH 28 DAYS OF BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_012)
 
-### FORM 13 — MEDICAL PRACTITIONER'S NOTICE TO INFORMANT OF DEATH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 13 — MEDICAL PRACTITIONER'S NOTICE TO INFORMANT OF DEATH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_013)
 
-### FORM 14 — NOTIFICATION[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 14 — NOTIFICATION[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_014)
 
-### FORM 15 — DECLARATION THAT CERTIFICATE OR ORDER HAS BEEN ISSUED[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 15 — DECLARATION THAT CERTIFICATE OR ORDER HAS BEEN ISSUED[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_015)
 
-### FORM 16 — CERTIFICATE OF REGISTRATION OF BIRTH[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 16 — CERTIFICATE OF REGISTRATION OF BIRTH[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_016)
 
-### FORM 17 — FORM OF SHORT BIRTH CERTIFICATE FOR ISSUE BY A SUPERINTENDENT REGISTRAR OR REGISTRAR[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 17 — FORM OF SHORT BIRTH CERTIFICATE FOR ISSUE BY A SUPERINTENDENT REGISTRAR OR REGISTRAR[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_017)
 
-### FORM 18 — FORM OF SHORT CERTIFICATE OF BIRTH FOR ISSUE BY THE REGISTRAR GENERAL[^key-68f9197f13bd68156781af92611fa3eb]
+### FORM 18 — FORM OF SHORT CERTIFICATE OF BIRTH FOR ISSUE BY THE REGISTRAR GENERAL[^c-68f9197f13bd68156781af92611fa3eb]
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2089/images/uksi_19872089_en_018)
 
-## SCHEDULE 3[^key-f51e34b35f3367176f39ff3406c54fb2]
+## SCHEDULE 3[^c-f51e34b35f3367176f39ff3406c54fb2]
 
 Regulation 3
 
@@ -382,7 +382,7 @@ Regulation 3
 </tbody>
 </table>
 
-## SCHEDULE 4 — REVOCATIONS[^key-7da025aa5d36227aa20420326d557780]
+## SCHEDULE 4 — REVOCATIONS[^c-7da025aa5d36227aa20420326d557780]
 
 Regulation 11
 
@@ -423,35 +423,35 @@ Mae'r Rheolau'n pennu ffurflenni yn Gymraeg a Saesneg i'w defnyddio yng Nghymru 
 
 [^f00002]: Footnote: The concurrence of the Secretary of State is required in relation to the exercise of the powers conferred by the provisions specified in paragraph 2 of Schedule 1 to this instrument and his approval is required in relation to the exercise of the powers conferred by the provisions specified in the remaining paragraphs of the Schedule.
 
-[^key-737ac6c3e11e74148e1a3b848e332e59]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-737ac6c3e11e74148e1a3b848e332e59]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
 [^f00003]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 
 [^f00004]: Footnote: [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088).
 
-[^key-5132fb896a574594da723c88c9da4a55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2089/regulation/2) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-5132fb896a574594da723c88c9da4a55]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2089/regulation/2) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-4d91e01db18ac215df07defc23fb208d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/2089/regulation/3) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-4d91e01db18ac215df07defc23fb208d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/2089/regulation/3) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-0910e2a53be9c7cd52af132d44969853]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/2089/regulation/4) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-0910e2a53be9c7cd52af132d44969853]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/2089/regulation/4) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-5ef1764ef7a376374f4c4224f306a20e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/2089/regulation/5) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-5ef1764ef7a376374f4c4224f306a20e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/2089/regulation/5) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-26fc3987ae3f8db93b65528e8676941b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/2089/regulation/6) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-26fc3987ae3f8db93b65528e8676941b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/2089/regulation/6) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-cf0a8f253e782987140c67b904db4b18]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/2089/regulation/7) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-cf0a8f253e782987140c67b904db4b18]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/2089/regulation/7) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-7831e60c8bebcbee26cd64d74c452744]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/2089/regulation/8) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-7831e60c8bebcbee26cd64d74c452744]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/2089/regulation/8) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
 [^f00005]: Footnote: Section 3A was inserted by section 92 of the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
-[^key-c8e79246697537b5700a9d07e7d7acf0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2089/regulation/9) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-c8e79246697537b5700a9d07e7d7acf0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2089/regulation/9) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-201b8553c27181579f317ae033a667f1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/2089/regulation/10) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-201b8553c27181579f317ae033a667f1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/2089/regulation/10) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-267aab8a4e60a789aa411d79e788d67b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2089/regulation/11) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-267aab8a4e60a789aa411d79e788d67b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2089/regulation/11) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-3c1c53adbaceccea8f71bebe95ef2144]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1987/2089/schedule/1) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-3c1c53adbaceccea8f71bebe95ef2144]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1987/2089/schedule/1) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
 [^f00006]: Footnote: [1926 c. 48](https://www.legislation.gov.uk/ukpga/1926/48).
 
@@ -475,8 +475,8 @@ Mae'r Rheolau'n pennu ffurflenni yn Gymraeg a Saesneg i'w defnyddio yng Nghymru 
 
 [^f00016]: Footnote: [1981 c. 25](https://www.legislation.gov.uk/ukpga/1981/25).
 
-[^key-68f9197f13bd68156781af92611fa3eb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2089/schedule/2) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-68f9197f13bd68156781af92611fa3eb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2089/schedule/2) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-f51e34b35f3367176f39ff3406c54fb2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1987/2089/schedule/3) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-f51e34b35f3367176f39ff3406c54fb2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1987/2089/schedule/3) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
 
-[^key-7da025aa5d36227aa20420326d557780]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1987/2089/schedule/4) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)
+[^c-7da025aa5d36227aa20420326d557780]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1987/2089/schedule/4) in force at 1.1.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1987/2089/regulation/1/1)

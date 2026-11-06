@@ -52,7 +52,7 @@ In accordance with section 125(1)(b) of the Act the Secretary of State has consi
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by sections 122(1), 123 and 124 of the Act. The document to which this Order refers also makes subsidiary provision about matters which have not been referred to the STRB under section 120(1) of the Act, in reliance upon section 125(2)(a) of the Act.
 
-## 1. Citation, commencement, application and interpretation[^key-15b398dff68e2b7decc4a9138f440b39]
+## 1. Citation, commencement, application and interpretation[^c-15b398dff68e2b7decc4a9138f440b39]
 
 (1) This Order may be cited as the Education (School Teachers’ Pay and Conditions) Order 2008 and comes into force on 1st September 2008.
 
@@ -60,14 +60,14 @@ The Secretary of State for Children, Schools and Families makes the following Or
 
 (3) In this Order, “the Document” means the document entitled “School Teachers’ Pay and Conditions Document 2008 and Guidance on School Teachers’ Pay and Conditions” published by The Stationery Office Limited[^f00005].
 
-## 2. The Document[^key-7d9eae64f3caf63cbe0c95fe7624fa6e]
+## 2. The Document[^c-7d9eae64f3caf63cbe0c95fe7624fa6e]
 
 The provisions set out in section 2 of the Document have effect on and after 1st September 2008 for the purposes of determining—
 
 - (a) the remuneration of school teachers, and
 - (b) other conditions of employment of school teachers which relate to their professional duties and working time.
 
-## 3. Revocation[^key-a7d53621bfc72fa4a2acffe9e2efc1ee]
+## 3. Revocation[^c-a7d53621bfc72fa4a2acffe9e2efc1ee]
 
 The Education (School Teachers’ Pay and Conditions) Order 2007[^f00006] is revoked.
 
@@ -101,12 +101,12 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00004]: Footnote: Cmnd. 7252 and Cmnd 7352.
 
-[^key-15b398dff68e2b7decc4a9138f440b39]: Commencement: Art. 1 in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2155/article/1/1)
+[^c-15b398dff68e2b7decc4a9138f440b39]: Commencement: Art. 1 in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2155/article/1/1)
 
 [^f00005]: Footnote: ISBN 978-0-11-271198-8
 
-[^key-7d9eae64f3caf63cbe0c95fe7624fa6e]: Commencement: Art. 2 in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2155/article/1/1)
+[^c-7d9eae64f3caf63cbe0c95fe7624fa6e]: Commencement: Art. 2 in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2155/article/1/1)
 
-[^key-a7d53621bfc72fa4a2acffe9e2efc1ee]: Commencement: Art. 3 in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2155/article/1/1)
+[^c-a7d53621bfc72fa4a2acffe9e2efc1ee]: Commencement: Art. 3 in force at 1.9.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2155/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2007/2282](https://www.legislation.gov.uk/uksi/2007/2282).

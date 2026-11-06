@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357YDA. Life insurance companies: amounts representing policyholder income[^key-19a386bcfed2b133b1be960788ed026f]
+## 357YDA. Life insurance companies: amounts representing policyholder income[^c-19a386bcfed2b133b1be960788ed026f]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ Amount A “represents policyholder income” so far as it does not exceed the t
 
 ## Annotations
 
-[^key-19a386bcfed2b133b1be960788ed026f]: Textual amendment: S. 357YDA inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/364/regulation/8)
+[^c-19a386bcfed2b133b1be960788ed026f]: Textual amendment: S. 357YDA inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Corporation Tax Act 2010 (Part 8C) (Amendment) Regulations 2017 (S.I. 2017/364)](https://www.legislation.gov.uk/uksi/2017/364), [regs. 1](https://www.legislation.gov.uk/uksi/2017/364/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/364/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Meaning of “eligible child”[^key-e3bdb5d530d9d992eee32d6710555af0]
+## 94. Meaning of “eligible child”[^c-e3bdb5d530d9d992eee32d6710555af0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3bdb5d530d9d992eee32d6710555af0]: Commencement: Reg. 94 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e3bdb5d530d9d992eee32d6710555af0]: Commencement: Reg. 94 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Complaints procedure operated by principal accountable person[^key-e59690b4519112fded21e2c3121b7aeb][^key-8bb92f4fbb44f2e17f785f9e494d177d]
+## 93. Complaints procedure operated by principal accountable person[^c-e59690b4519112fded21e2c3121b7aeb][^c-8bb92f4fbb44f2e17f785f9e494d177d]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e59690b4519112fded21e2c3121b7aeb]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-e59690b4519112fded21e2c3121b7aeb]: Commencement: S. 93 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-8bb92f4fbb44f2e17f785f9e494d177d]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2022/30/section/93) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/n)
+[^c-8bb92f4fbb44f2e17f785f9e494d177d]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2022/30/section/93) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/n)

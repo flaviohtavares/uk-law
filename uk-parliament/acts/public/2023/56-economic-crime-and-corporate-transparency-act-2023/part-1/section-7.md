@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Persons with initial significant control: identity verification[^key-5c129c6f86f91039e0bffeb267bdb5c8][^key-0ad50cf8e88359b985e82a8f6ecdcbc1]
+## 7. Persons with initial significant control: identity verification[^c-5c129c6f86f91039e0bffeb267bdb5c8][^c-0ad50cf8e88359b985e82a8f6ecdcbc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ After section 12A of the Companies Act 2006 insert—
 
 ## Annotations
 
-[^key-5c129c6f86f91039e0bffeb267bdb5c8]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5c129c6f86f91039e0bffeb267bdb5c8]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0ad50cf8e88359b985e82a8f6ecdcbc1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/56/section/7) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/b)[(3)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/3)
+[^c-0ad50cf8e88359b985e82a8f6ecdcbc1]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/56/section/7) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/b)[(3)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/3)

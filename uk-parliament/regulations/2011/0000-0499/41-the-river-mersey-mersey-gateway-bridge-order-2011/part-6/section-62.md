@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Arbitration[^key-8259819cd4213d08799ecd0d051132c0]
+## 62. Arbitration[^c-8259819cd4213d08799ecd0d051132c0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-8259819cd4213d08799ecd0d051132c0]: Commencement: Art. 62 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-8259819cd4213d08799ecd0d051132c0]: Commencement: Art. 62 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

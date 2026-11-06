@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Right of appeal: requirement for review before appeal[^key-480f75101c82ed917b83280228108983][^key-414fd9d9edc5b24243bf553c62208d29]
+## 26. Right of appeal: requirement for review before appeal[^c-480f75101c82ed917b83280228108983][^c-414fd9d9edc5b24243bf553c62208d29]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-480f75101c82ed917b83280228108983]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-480f75101c82ed917b83280228108983]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-414fd9d9edc5b24243bf553c62208d29]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/30/section/26) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/e)
+[^c-414fd9d9edc5b24243bf553c62208d29]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/30/section/26) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/e)

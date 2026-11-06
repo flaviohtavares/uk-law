@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 58. Preliminary accreditation of generating stations[^key-705b9591f9bb6587b9d012ad851dc25b]
+## 58. Preliminary accreditation of generating stations[^c-705b9591f9bb6587b9d012ad851dc25b]
 
 (1) Subject to paragraph (2), where a generating station in respect of which—
 
@@ -34,15 +34,15 @@ is not yet commissioned, the Authority may, upon the application of the person w
 
 (4) In paragraph (3), “permitted termination event” means—
 
-- (a)[^key-c067601da555fa11a143d336bb8582c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c067601da555fa11a143d336bb8582c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c067601da555fa11a143d336bb8582c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c067601da555fa11a143d336bb8582c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c067601da555fa11a143d336bb8582c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c067601da555fa11a143d336bb8582c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) an amendment to the investment contract that is made, or proposed, by the Secretary of State in the light of any standard terms issued under section 11 of the Energy Act 2013.
 
 (5) In this article, references to a person who proposes to construct a generating station include a person who arranges for the construction of the generating station.
 
 ## Annotations
 
-[^key-705b9591f9bb6587b9d012ad851dc25b]: Textual amendment: Arts. 58-58ZZB substituted for art. 58 (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [20](https://www.legislation.gov.uk/ssi/2014/94/article/20) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-705b9591f9bb6587b9d012ad851dc25b]: Textual amendment: Arts. 58-58ZZB substituted for art. 58 (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [20](https://www.legislation.gov.uk/ssi/2014/94/article/20) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-c067601da555fa11a143d336bb8582c4]: Textual amendment: [Art. 58(4)(a)-(c)](https://www.legislation.gov.uk/ssi/2009/140/article/58/4/a) omitted (31.12.2020) by virtue of [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/2/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c067601da555fa11a143d336bb8582c4]: Textual amendment: [Art. 58(4)(a)-(c)](https://www.legislation.gov.uk/ssi/2009/140/article/58/4/a) omitted (31.12.2020) by virtue of [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/2/paragraph/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

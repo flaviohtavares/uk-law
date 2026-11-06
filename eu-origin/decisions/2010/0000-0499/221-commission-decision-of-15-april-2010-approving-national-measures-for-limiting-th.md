@@ -50,68 +50,68 @@ approving national measures for limiting the impact of certain diseases in aquac
 
 (2010/221/EU) (revoked)
 
-[^key-7a36d3fd17b285c0cd20c82177dc06e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a36d3fd17b285c0cd20c82177dc06e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 1. Subject matter and scope[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Approval of certain national measures for limiting the impact of certain diseases not listed in Part II of Annex IV to Directive 2006/88/EC[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 2. Approval of certain national measures for limiting the impact of certain diseases not listed in Part II of Annex IV to Directive 2006/88/EC[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Approval of national eradication programmes regarding certain diseases not listed in Part II of Annex IV to Directive 2006/88/EC[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 3. Approval of national eradication programmes regarding certain diseases not listed in Part II of Annex IV to Directive 2006/88/EC[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Approval of national surveillance programmes regarding ostreid herpesvirus 1 μνar (OsHV-1 μνar)[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 3a. Approval of national surveillance programmes regarding ostreid herpesvirus 1 μνar (OsHV-1 μνar)[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Reporting[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 4. Reporting[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Suspicion and detection of diseases in disease-free areas[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 5. Suspicion and detection of diseases in disease-free areas[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5a. Suspicion and detection of ostreid herpesvirus 1 μνar (OsHV-1 μνar) in areas with surveillance programmes[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 5a. Suspicion and detection of ostreid herpesvirus 1 μνar (OsHV-1 μνar) in areas with surveillance programmes[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Repeal[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 6. Repeal[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional provisions[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 7. Transitional provisions[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Applicability[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 8. Applicability[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Addressees[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## Article 9. Addressees[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Member States and areas regarded as being free of diseases listed in the table and approved to take national measures to prevent the introduction of those diseases in accordance with Article 43(2) of Directive 2006/88/EC[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## ANNEX I — Member States and areas regarded as being free of diseases listed in the table and approved to take national measures to prevent the introduction of those diseases in accordance with Article 43(2) of Directive 2006/88/EC[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Member States and parts thereof with eradication programmes as regards certain diseases in aquaculture animals and approved to take national measures to control those diseases in accordance with Article 43(2) of Directive 2006/88/EC[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## ANNEX II — Member States and parts thereof with eradication programmes as regards certain diseases in aquaculture animals and approved to take national measures to control those diseases in accordance with Article 43(2) of Directive 2006/88/EC[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Member States and areas with surveillance programmes regarding ostreid herpesvirus 1 μvar (OsHV-1μVar) and approved to take national measures to control that disease in accordance with Article 43(2) of Directive 2006/88/EC[^key-7a36d3fd17b285c0cd20c82177dc06e6]
+## ANNEX III — Member States and areas with surveillance programmes regarding ostreid herpesvirus 1 μvar (OsHV-1μVar) and approved to take national measures to control that disease in accordance with Article 43(2) of Directive 2006/88/EC[^c-7a36d3fd17b285c0cd20c82177dc06e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a36d3fd17b285c0cd20c82177dc06e6]: Textual amendment: Decision revoked (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [10](https://www.legislation.gov.uk/uksi/2020/1388/regulation/10)
+[^c-7a36d3fd17b285c0cd20c82177dc06e6]: Textual amendment: Decision revoked (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [10](https://www.legislation.gov.uk/uksi/2020/1388/regulation/10)

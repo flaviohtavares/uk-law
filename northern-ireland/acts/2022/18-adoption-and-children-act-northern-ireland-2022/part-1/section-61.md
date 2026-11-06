@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Disclosing protected information about children[^key-6c74d36aaa820dd6ff6a2a9db131feb5]
+## 61. Disclosing protected information about children[^c-6c74d36aaa820dd6ff6a2a9db131feb5]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ and all the other circumstances of the case.
 
 ## Annotations
 
-[^key-6c74d36aaa820dd6ff6a2a9db131feb5]: Commencement: S. 61 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6c74d36aaa820dd6ff6a2a9db131feb5]: Commencement: S. 61 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

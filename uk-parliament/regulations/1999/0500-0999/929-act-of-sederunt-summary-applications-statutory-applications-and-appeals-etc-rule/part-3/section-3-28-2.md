@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.28.2. Public notice of appeal against section 14(2) remedial notice[^key-569fc6e8e58dbc9431662a7d27c96859]
+## 3.28.2. Public notice of appeal against section 14(2) remedial notice[^c-569fc6e8e58dbc9431662a7d27c96859]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where an owner of land appeals by summary application under section 14(4) of the
 
 ## Annotations
 
-[^key-569fc6e8e58dbc9431662a7d27c96859]: Textual amendment: Ch. 3 Pt. 28 inserted (9.2.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Land Reform (Scotland) Act 2003) 2005 (S.S.I. 2005/61)](https://www.legislation.gov.uk/ssi/2005/61), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/2/2)
+[^c-569fc6e8e58dbc9431662a7d27c96859]: Textual amendment: Ch. 3 Pt. 28 inserted (9.2.2005) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Land Reform (Scotland) Act 2003) 2005 (S.S.I. 2005/61)](https://www.legislation.gov.uk/ssi/2005/61), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2005/61/paragraph/2/2)

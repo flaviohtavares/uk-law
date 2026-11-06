@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Power of Secretary of State to protect others[^key-0fc7fdcea0f675ea4e7b2a1df47188e2][^key-bc0281901409de83c6213b4f0952f66c]
+## 48. Power of Secretary of State to protect others[^c-0fc7fdcea0f675ea4e7b2a1df47188e2][^c-bc0281901409de83c6213b4f0952f66c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Secretary of State may by regulations make provision that the Welsh Minister
 
 ## Annotations
 
-[^key-0fc7fdcea0f675ea4e7b2a1df47188e2]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-0fc7fdcea0f675ea4e7b2a1df47188e2]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-bc0281901409de83c6213b4f0952f66c]: Commencement: S. 48 in force at 1.6.2026 in so far as not already in force by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/6/article/2/f)
+[^c-bc0281901409de83c6213b4f0952f66c]: Commencement: S. 48 in force at 1.6.2026 in so far as not already in force by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/6/article/2/f)

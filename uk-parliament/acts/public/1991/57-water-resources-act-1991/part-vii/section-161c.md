@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 161C. Appeals against works notices.[^c18738051][^c18738061][^key-698d0038837843a4ce8d93c63cb375e1][^key-cec42d995312504c1a5575ce84628cac][^key-813cdca26a7fb211d3394456486bf364]
+## 161C. Appeals against works notices.[^c18738051][^c18738061][^c-698d0038837843a4ce8d93c63cb375e1][^c-cec42d995312504c1a5575ce84628cac][^c-813cdca26a7fb211d3394456486bf364]
 
 *Extent: E+W*
 
@@ -53,10 +53,10 @@ summary: ''
 
 [^c18738061]: Modification: S. 161C: power to delegate functions conferred (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 114(2)(a)(v)](https://www.legislation.gov.uk/ukpga/1995/25/section/114/2/a/v) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-698d0038837843a4ce8d93c63cb375e1]: Modification: S. 161C applied (with modifications) (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/4/3/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/984/article/2/d)
+[^c-698d0038837843a4ce8d93c63cb375e1]: Modification: S. 161C applied (with modifications) (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/4/3/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/984/article/2/d)
 
-[^key-cec42d995312504c1a5575ce84628cac]: Modification: Ss. 161-161D modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-cec42d995312504c1a5575ce84628cac]: Modification: Ss. 161-161D modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-813cdca26a7fb211d3394456486bf364]: Modification: Ss. 161-161D modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 Pt. 7 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/part/7/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/part/7/paragraph/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-813cdca26a7fb211d3394456486bf364]: Modification: Ss. 161-161D modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 Pt. 7 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/part/7/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/part/7/paragraph/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c18738071]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).

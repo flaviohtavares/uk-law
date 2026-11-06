@@ -64,10 +64,10 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 - “**childcare**” (“***gofal plant***”) has the meaning in section 30 of the Act;
 - “**childcare provider**” (“***darparwr gofal plant***”) means any person who is registered under Part 2 of the Measure to provide childcare;
 - “**day care**” (“***gofal dydd***”) has the meaning in Part 2 of the Measure;
-- “[^key-2a441d72e48b74bc8e731f56ec1c7f91]**Family Information Service**” (“***Gwasanaeth Gwybodaeth i Deuluoedd***”) means a service which a local authority is required to provide under section 27 of the Childcare Act 2006;
-- [^key-8011d23424efd0e9354ef48ac36218a9]...
-- “**home childcare providers**” (“***darparwyr gofal plant yn y cartref***”) means persons approved under a scheme made by the Welsh Ministers pursuant to section 60 of the Government of Wales Act 2006[^key-a4888b92d86db807ea4026464ffabc19];
-- [^key-59c77fbf9f5bb03e73087347f13487bf]...
+- “[^c-2a441d72e48b74bc8e731f56ec1c7f91]**Family Information Service**” (“***Gwasanaeth Gwybodaeth i Deuluoedd***”) means a service which a local authority is required to provide under section 27 of the Childcare Act 2006;
+- [^c-8011d23424efd0e9354ef48ac36218a9]...
+- “**home childcare providers**” (“***darparwyr gofal plant yn y cartref***”) means persons approved under a scheme made by the Welsh Ministers pursuant to section 60 of the Government of Wales Act 2006[^c-a4888b92d86db807ea4026464ffabc19];
+- [^c-59c77fbf9f5bb03e73087347f13487bf]...
 - “**relevant premises**” (“***mangre berthnasol***”) means premises on which a person acts as a childcare provider;
 - “**third sector organisation**” (“***sefydliad trydydd sector***”) means an organisation which a person might reasonably consider to exist wholly or mainly to provide benefits for society;
 - “**Welsh medium education forum**” (“***fforwm addysg cyfrwng Cymraeg***”) means a body established by a local authority for the purpose of improving the provision of Welsh medium education in its area, the members of which consist of the local authority and such other persons as the local authority considers appropriate [^c23290051].
@@ -84,7 +84,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 (2) The first assessment must be published by 31 March 2017.
 
-(2A)[^key-29aa2b2bd3e2fbb765a6f2f14436b704] But the date by which the assessment must be published in 2027 and in subsequent years is 30 June.
+(2A)[^c-29aa2b2bd3e2fbb765a6f2f14436b704] But the date by which the assessment must be published in 2027 and in subsequent years is 30 June.
 
 (3) Subsequent assessments must be prepared and published at five yearly intervals.
 
@@ -101,12 +101,12 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 - (a) an insufficiency in childcare provision for children in the local authority area, the action plan must set out what steps need to be taken to improve the opportunities for children to access childcare provision within that local authority area, or
 - (b) that opportunities for children to access childcare in the local authority area are sufficient, the action plan must set out what steps need to be taken to maintain opportunities for children to access childcare within that local authority area.
 
-(3)[^key-86917a160979547bfbf202bdcc500c10] An action plan must—
+(3)[^c-86917a160979547bfbf202bdcc500c10] An action plan must—
 
 - (a) prioritise the steps to be taken, and
 - (b) set out the time period within which the local authority will complete the steps.
 
-## 4A. Annual Progress Report[^key-c52e55b88273d225f597dab2f3ba7d71]
+## 4A. Annual Progress Report[^c-c52e55b88273d225f597dab2f3ba7d71]
 
 (1) A local authority must prepare an annual progress report and a further action plan on each anniversary of the date of the publication of the assessment.
 
@@ -118,21 +118,21 @@ The Schedule (which prescribes the matters which must be contained in the assess
 
 ## 6. Consultation
 
-In preparing the assessment the local authority must consult the following persons in its area[^key-e899d8f5a1061f9c1f4cb41459156271]—
+In preparing the assessment the local authority must consult the following persons in its area[^c-e899d8f5a1061f9c1f4cb41459156271]—
 
 - (a) children;
 - (b) parents or carers;
 - (c) childcare providers;
-- (d)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-a5eecc1e469e844c2b254bd492c6a9b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-4c315cfddfad02bad5f6aab753df153e]
+## 7.[^c-4c315cfddfad02bad5f6aab753df153e]
 
 (1) In preparing the assessment the local authority must—
 
@@ -161,7 +161,7 @@ The local authority must publish the assessment on the local authority's website
 
 The local authority may provide copies of the assessment to the public upon request.
 
-## 12. Annual progress reports[^key-b8409a27f3a816526892e8847674adfd]
+## 12. Annual progress reports[^c-b8409a27f3a816526892e8847674adfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,7 +173,7 @@ Lesley Griffiths
 
 Minister for Communities and Tackling Poverty, one of the Welsh Ministers
 
-## Schedule — Matters to be contained in the assessment[^key-4dd851509023df1992380684350d6445]
+## Schedule — Matters to be contained in the assessment[^c-4dd851509023df1992380684350d6445]
 
 Regulation 5
 
@@ -282,30 +282,30 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23290021]: Marginal citation: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
 
-[^key-2a441d72e48b74bc8e731f56ec1c7f91]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/c)
+[^c-2a441d72e48b74bc8e731f56ec1c7f91]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/c)
 
-[^key-8011d23424efd0e9354ef48ac36218a9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/a/i)
+[^c-8011d23424efd0e9354ef48ac36218a9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/a/i)
 
-[^key-a4888b92d86db807ea4026464ffabc19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/b)
+[^c-a4888b92d86db807ea4026464ffabc19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/b)
 
-[^key-59c77fbf9f5bb03e73087347f13487bf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/a/ii)
+[^c-59c77fbf9f5bb03e73087347f13487bf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2016/88/regulation/2) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/2/a/ii)
 
 [^c23290051]: Marginal citation: See the Welsh in Education Strategic Plans and Assessing Demand for Welsh Medium Education (Wales) Regulations 2013 – [S.I. 2013/3048](https://www.legislation.gov.uk/uksi/2013/3048) (W 307).
 
-[^key-29aa2b2bd3e2fbb765a6f2f14436b704]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/wsi/2016/88/regulation/3/2A) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/3)
+[^c-29aa2b2bd3e2fbb765a6f2f14436b704]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/wsi/2016/88/regulation/3/2A) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/3)
 
-[^key-86917a160979547bfbf202bdcc500c10]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2016/88/regulation/4/3) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/4)
+[^c-86917a160979547bfbf202bdcc500c10]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2016/88/regulation/4/3) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/4)
 
-[^key-c52e55b88273d225f597dab2f3ba7d71]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/wsi/2016/88/regulation/4A) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/5)
+[^c-c52e55b88273d225f597dab2f3ba7d71]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/wsi/2016/88/regulation/4A) inserted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/5)
 
-[^key-e899d8f5a1061f9c1f4cb41459156271]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/wsi/2016/88/regulation/6) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/6/a)
+[^c-e899d8f5a1061f9c1f4cb41459156271]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/wsi/2016/88/regulation/6) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/6/a)
 
-[^key-a5eecc1e469e844c2b254bd492c6a9b0]: Textual amendment: [Reg. 6(d)-(k)](https://www.legislation.gov.uk/wsi/2016/88/regulation/6/d) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/6/b)
+[^c-a5eecc1e469e844c2b254bd492c6a9b0]: Textual amendment: [Reg. 6(d)-(k)](https://www.legislation.gov.uk/wsi/2016/88/regulation/6/d) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/6/b)
 
-[^key-4c315cfddfad02bad5f6aab753df153e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/88/regulation/7) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/7)
+[^c-4c315cfddfad02bad5f6aab753df153e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/88/regulation/7) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/7)
 
-[^key-b8409a27f3a816526892e8847674adfd]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/88/regulation/12) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/8)
+[^c-b8409a27f3a816526892e8847674adfd]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/88/regulation/12) omitted (11.3.2026) by virtue of [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/8)
 
 [^c23290071]: Marginal citation: [S.I. 2013/2274](https://www.legislation.gov.uk/uksi/2013/2274) (W 220).
 
-[^key-4dd851509023df1992380684350d6445]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2016/88/schedule) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/9)
+[^c-4dd851509023df1992380684350d6445]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2016/88/schedule) substituted (11.3.2026) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/36)](https://www.legislation.gov.uk/wsi/2026/36), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/36/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2026/36/regulation/2/9)

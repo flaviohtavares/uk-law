@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Extension of sections 167 and 168[^key-022e60f16808c48e33978e8e1bc1413f]
+## 169. Extension of sections 167 and 168[^c-022e60f16808c48e33978e8e1bc1413f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Secretary of State may by regulations provide for sections 167 and 168 to ap
 
 ## Annotations
 
-[^key-022e60f16808c48e33978e8e1bc1413f]: Commencement: S. 169 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-022e60f16808c48e33978e8e1bc1413f]: Commencement: S. 169 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

@@ -151,7 +151,7 @@ Section 24
 >
 > (3) In this section “**subsidiary**” has the meaning given by international accounting standards.
 
-**13.**[^key-e613c97f7fd0eb6c1f401543948cccae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e613c97f7fd0eb6c1f401543948cccae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interest restriction returns
 
@@ -300,4 +300,4 @@ Section 24
 
 ## Annotations
 
-[^key-e613c97f7fd0eb6c1f401543948cccae]: Textual amendment: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/13) omitted (with effect in accordance with Sch. 3 paras. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/29)
+[^c-e613c97f7fd0eb6c1f401543948cccae]: Textual amendment: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/13) omitted (with effect in accordance with Sch. 3 paras. 30-36 of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/29)

@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of powers conferred on it by sections 107, 119A and 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made by virtue of, or consequential upon, Article 10 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00002] and is made before the end of the period of six months beginning with the coming into operation of that Article, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3f03e262ae7969c48be9a3402028cc15]
+## 1. Citation, commencement and interpretation[^c-3f03e262ae7969c48be9a3402028cc15]
 
 (1) These Regulations may be cited as the Housing Benefit (Information from Landlords and Agents) Regulations (Northern Ireland) 1997 and shall come into operation on 3rd November 1997.
 
@@ -56,11 +56,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Requiring information[^key-05883da12fda6cfe2f307628f419c318]
+## 2. Requiring information[^c-05883da12fda6cfe2f307628f419c318]
 
 Pursuant to the section, where a claim is made to the Executive, on which a rent allowance may be awarded, then, in the circumstances prescribed in regulation 3, the Executive, or any person authorised to exercise any function of the Executive relating to housing benefit, may require an appropriate person to supply to the Executive or person relevant information, in the manner prescribed in regulation 5.
 
-## 3. Circumstances for requiring information[^key-e20bf18f2ecbe7eca079f9d477b90cd1]
+## 3. Circumstances for requiring information[^c-e20bf18f2ecbe7eca079f9d477b90cd1]
 
 (1) A person is required to supply information in the following circumstances—
 
@@ -73,7 +73,7 @@ Pursuant to the section, where a claim is made to the Executive, on which a rent
 
 (2) Information required to be supplied under paragraph (1) shall be supplied to the requirer at the address specified in the notice.
 
-## 4. Relevant information[^key-c8225ce0e4266d20614b8e9c81b69279]
+## 4. Relevant information[^c-c8225ce0e4266d20614b8e9c81b69279]
 
 (1) The information the supplier is to supply to the requirer is that prescribed in paragraphs (2) and (3) (referred to in these Regulations as “the relevant information”).
 
@@ -130,7 +130,7 @@ Pursuant to the section, where a claim is made to the Executive, on which a rent
 
   as residential accommodation,and other expressions used in this regulation and also in the Companies (Northern Ireland) Order 1986[^f00007] shall have the same meaning in this regulation as they have in that Order.
 
-## 5. Manner of supply of information[^key-5a7c23aa946dc39bc7547c2574640c11]
+## 5. Manner of supply of information[^c-5a7c23aa946dc39bc7547c2574640c11]
 
 (1) Subject to the variations specified in paragraph (2), the relevant information shall be supplied in typewritten or printed form to the requirer, at the address specified in the notice, within 4 weeks of the service of the notice on the supplier.
 
@@ -139,7 +139,7 @@ Pursuant to the section, where a claim is made to the Executive, on which a rent
 - (a) in handwritten or electronic form, or
 - (b) within 8 weeks of the service of the notice on the supplier.
 
-## 6. Criminal offence[^key-ce5072eef1f01ecba6e5d6d6c4be81b9]
+## 6. Criminal offence[^c-ce5072eef1f01ecba6e5d6d6c4be81b9]
 
 Any failure by the supplier to supply relevant information to the requirer as, when and how required under these Regulations shall be an offence under section 107 of the Act and there may be recovered from the supplier, on summary conviction for this offence, penalties not exceeding—
 
@@ -170,24 +170,24 @@ Section 119A of the Social Security Administration (Northern Ireland) Act [1992 
 
 [^f00002]: Footnote: [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182); *see* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-3f03e262ae7969c48be9a3402028cc15]: Commencement: Reg. 1 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
+[^c-3f03e262ae7969c48be9a3402028cc15]: Commencement: Reg. 1 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335), [S.R. 1996 Nos. 181](https://www.legislation.gov.uk/nisr/1996/181), [334](https://www.legislation.gov.uk/nisr/1996/334) and [448](https://www.legislation.gov.uk/nisr/1996/448) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [452](https://www.legislation.gov.uk/nisr/1997/452)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-05883da12fda6cfe2f307628f419c318]: Commencement: Reg. 2 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
+[^c-05883da12fda6cfe2f307628f419c318]: Commencement: Reg. 2 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
 
-[^key-e20bf18f2ecbe7eca079f9d477b90cd1]: Commencement: Reg. 3 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
+[^c-e20bf18f2ecbe7eca079f9d477b90cd1]: Commencement: Reg. 3 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
 
 [^f00005]: Footnote: Regulation 93 was amended by [S.R. 1996 Nos. 334](https://www.legislation.gov.uk/nisr/1996/334) and [448](https://www.legislation.gov.uk/nisr/1996/448) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [452](https://www.legislation.gov.uk/nisr/1997/452) and regulation 94 was amended by [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335), [S.R. 1996 Nos. 181](https://www.legislation.gov.uk/nisr/1996/181) and [448](https://www.legislation.gov.uk/nisr/1996/448) and [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [452](https://www.legislation.gov.uk/nisr/1997/452)
 
-[^key-c8225ce0e4266d20614b8e9c81b69279]: Commencement: Reg. 4 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
+[^c-c8225ce0e4266d20614b8e9c81b69279]: Commencement: Reg. 4 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
 
 [^f00006]: Footnote: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33)
 
 [^f00007]: Footnote: [S.I. 1986/1032 (N.I. 16)](https://www.legislation.gov.uk/nisi/1986/1032)
 
-[^key-5a7c23aa946dc39bc7547c2574640c11]: Commencement: Reg. 5 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
+[^c-5a7c23aa946dc39bc7547c2574640c11]: Commencement: Reg. 5 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
 
-[^key-ce5072eef1f01ecba6e5d6d6c4be81b9]: Commencement: Reg. 6 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)
+[^c-ce5072eef1f01ecba6e5d6d6c4be81b9]: Commencement: Reg. 6 in operation at 3.11.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/453/regulation/1/1)

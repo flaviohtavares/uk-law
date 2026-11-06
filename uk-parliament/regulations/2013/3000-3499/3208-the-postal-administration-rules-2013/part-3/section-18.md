@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Release from duty to submit statement of affairs; extension of time[^key-2650ca54c2ab9208b35d467daa958e9a]
+## 18. Release from duty to submit statement of affairs; extension of time[^c-2650ca54c2ab9208b35d467daa958e9a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2650ca54c2ab9208b35d467daa958e9a]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2013/3208/rule/18) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2650ca54c2ab9208b35d467daa958e9a]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2013/3208/rule/18) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

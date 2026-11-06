@@ -47,7 +47,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 This Order may be cited as the Extradition Act 2003 (Designation of Part 1 Territories) Order 2003 and shall come into force on 1st January 2004.
 
-**1A..**[^key-f2fdcea98b09efc82a4866e93161c5ae] The following territories are designated for the purposes of Part 1 of the Extradition Act 2003—
+**1A..**[^c-f2fdcea98b09efc82a4866e93161c5ae] The following territories are designated for the purposes of Part 1 of the Extradition Act 2003—
 
 - Austria,
 - Belgium,
@@ -77,7 +77,7 @@ This Order may be cited as the Extradition Act 2003 (Designation of Part 1 Terri
 - Spain,
 - Sweden.
 
-**2.**[^key-397c66994342f45f53086e09b964507b] Gibraltar is designated for the purposes of Part 1 of the Extradition Act 2003.
+**2.**[^c-397c66994342f45f53086e09b964507b] Gibraltar is designated for the purposes of Part 1 of the Extradition Act 2003.
 
 Caroline Flint
 
@@ -93,6 +93,6 @@ Part 1 of the Extradition Act 2003 introduces new extradition procedures. These 
 
 [^c5112181]: Marginal citation: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).
 
-[^key-f2fdcea98b09efc82a4866e93161c5ae]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2003/3333/article/1A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/11/1), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/j)
+[^c-f2fdcea98b09efc82a4866e93161c5ae]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2003/3333/article/1A) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2020/29/section/11/1), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/j)
 
-[^key-397c66994342f45f53086e09b964507b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2003/3333/article/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [55(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/55/2) (with [reg. 57](https://www.legislation.gov.uk/uksi/2019/742/regulation/57)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [26](https://www.legislation.gov.uk/uksi/2020/1408/regulation/26)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-397c66994342f45f53086e09b964507b]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2003/3333/article/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [55(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/55/2) (with [reg. 57](https://www.legislation.gov.uk/uksi/2019/742/regulation/57)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [26](https://www.legislation.gov.uk/uksi/2020/1408/regulation/26)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

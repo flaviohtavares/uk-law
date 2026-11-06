@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Preferential Treatment on Transferring to Medical Lists[^key-ff6f113c9be37e4099b2b861a30f0159]
+## SCHEDULE 1 — Preferential Treatment on Transferring to Medical Lists[^c-ff6f113c9be37e4099b2b861a30f0159]
 
 *Extent: E+W+S*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 13(9).
 
-### Cases where preference is given[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Cases where preference is given[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**1.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The preferential treatment[^key-ff6f113c9be37e4099b2b861a30f0159]
+### The preferential treatment[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**2.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Representations against preferential treatment[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Representations against preferential treatment[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**3.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power of Tribunal to give directions[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Power of Tribunal to give directions[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**4.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Termination of directions[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Termination of directions[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**5.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Directions in Northern Ireland[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Directions in Northern Ireland[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**6.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Regulations[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Regulations[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**7.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-ff6f113c9be37e4099b2b861a30f0159]
+### Interpretation[^c-ff6f113c9be37e4099b2b861a30f0159]
 
-**8.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ff6f113c9be37e4099b2b861a30f0159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff6f113c9be37e4099b2b861a30f0159]: Textual amendment: Sch. 1 repealed (S.) (1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [s. 9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1), [sch. para. 2(9)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/2/9); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-ff6f113c9be37e4099b2b861a30f0159]: Textual amendment: Sch. 1 repealed (S.) (1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [s. 9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1), [sch. para. 2(9)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/2/9); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
     Sch. 1 repealed (E.W.) (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 178](https://www.legislation.gov.uk/ukpga/2003/43/section/178), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note; [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [arts. 4(3)(b)](https://www.legislation.gov.uk/uksi/2004/288/article/4/3/b), [6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(p)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))

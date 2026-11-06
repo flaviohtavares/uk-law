@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Development Management Procedure) (England) (Amendment) Order 2012 (revoked)[^key-3bd039eefaef1bf0a0b94576eb8034ba]
+The Town and Country Planning (Development Management Procedure) (England) (Amendment) Order 2012 (revoked)[^c-3bd039eefaef1bf0a0b94576eb8034ba]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 6th April 2012
 
-[^key-3bd039eefaef1bf0a0b94576eb8034ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bd039eefaef1bf0a0b94576eb8034ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3bd039eefaef1bf0a0b94576eb8034ba]
+## 1. Citation, commencement and application[^c-3bd039eefaef1bf0a0b94576eb8034ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2010[^key-3bd039eefaef1bf0a0b94576eb8034ba]
+## 2. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2010[^c-3bd039eefaef1bf0a0b94576eb8034ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment relating to consultees[^key-3bd039eefaef1bf0a0b94576eb8034ba]
+## 3. Amendment relating to consultees[^c-3bd039eefaef1bf0a0b94576eb8034ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments relating to register of neighbourhood development orders[^key-3bd039eefaef1bf0a0b94576eb8034ba]
+## 4. Amendments relating to register of neighbourhood development orders[^c-3bd039eefaef1bf0a0b94576eb8034ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments relating to register of enforcement and stop notices and other enforcement action[^key-3bd039eefaef1bf0a0b94576eb8034ba]
+## 5. Amendments relating to register of enforcement and stop notices and other enforcement action[^c-3bd039eefaef1bf0a0b94576eb8034ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bd039eefaef1bf0a0b94576eb8034ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bd039eefaef1bf0a0b94576eb8034ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bd039eefaef1bf0a0b94576eb8034ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bd039eefaef1bf0a0b94576eb8034ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bd039eefaef1bf0a0b94576eb8034ba]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/636) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+[^c-3bd039eefaef1bf0a0b94576eb8034ba]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/636) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))

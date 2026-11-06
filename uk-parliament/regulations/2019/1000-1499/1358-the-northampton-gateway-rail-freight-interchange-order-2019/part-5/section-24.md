@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Compulsory acquisition of land[^key-8a35218d0827f5a8c85b6af267c8665f]
+## 24. Compulsory acquisition of land[^c-8a35218d0827f5a8c85b6af267c8665f]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a35218d0827f5a8c85b6af267c8665f]: Commencement: Art. 24 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-8a35218d0827f5a8c85b6af267c8665f]: Commencement: Art. 24 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00037]: Footnote: Section 134 was amended by sections 142(1) to (4) and section 237 of, and Part 21 of Schedule 25 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and [S.I. 2017/16](https://www.legislation.gov.uk/uksi/2017/16).

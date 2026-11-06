@@ -57,7 +57,7 @@ In paragraph (1) of regulation 2 (interpretation) of the Miscellaneous Food Addi
 
 (1) Paragraph (2) of regulation 9 (consequential amendments) of the Miscellaneous Food Additives (Amendment) (England) (No. 2) Regulations 2001 [^c5026091] shall be omitted.
 
-(2)[^key-13a308cf66dacef08205656b56949763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-13a308cf66dacef08205656b56949763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Health
 
@@ -95,4 +95,4 @@ Department of Health
 
 [^c5026091]: Marginal citation: [S.I. 2001/3775](https://www.legislation.gov.uk/uksi/2001/3775).
 
-[^key-13a308cf66dacef08205656b56949763]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/1008/regulation/3/2) omitted (16.1.2004) by virtue of [The Miscellaneous Food Additives (Amendment) (England) (No. 2) Regulations 2003 (S.I. 2003/3295)](https://www.legislation.gov.uk/uksi/2003/3295), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3295/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/3295/regulation/3/1)
+[^c-13a308cf66dacef08205656b56949763]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2003/1008/regulation/3/2) omitted (16.1.2004) by virtue of [The Miscellaneous Food Additives (Amendment) (England) (No. 2) Regulations 2003 (S.I. 2003/3295)](https://www.legislation.gov.uk/uksi/2003/3295), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3295/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/3295/regulation/3/1)

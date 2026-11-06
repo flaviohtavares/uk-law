@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E17. Separate benefits in the case of certain re-employed pensioners[^key-d2350e364506046358c2011d984a2dae]
+## E17. Separate benefits in the case of certain re-employed pensioners[^c-d2350e364506046358c2011d984a2dae]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ regulation E3(12) (additional reckonable service) does not apply on his ceasing 
 
 ## Annotations
 
-[^key-d2350e364506046358c2011d984a2dae]: Commencement: [Reg. E17](https://www.legislation.gov.uk/uksi/1986/24/regulation/E17) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d2350e364506046358c2011d984a2dae]: Commencement: [Reg. E17](https://www.legislation.gov.uk/uksi/1986/24/regulation/E17) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-b118d41bac0865c1d957e51d62154aa8]
+## 1. Citation and commencement[^c-b118d41bac0865c1d957e51d62154aa8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A66 Northern Trans-Pennine Development Consent Or
 
 ## Annotations
 
-[^key-b118d41bac0865c1d957e51d62154aa8]: Commencement: Art. 1 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-b118d41bac0865c1d957e51d62154aa8]: Commencement: Art. 1 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

@@ -23,12 +23,12 @@ summary: ''
 Any of the following persons, that is to say—
 
 - (a) a person who contravenes any provision of these Regulations; and
-- (b) an open-ended investment company (including any director or depositary of such a company) which contravenes any provision of FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules,
+- (b) an open-ended investment company (including any director or depositary of such a company) which contravenes any provision of FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules,
 
-is to be treated as having contravened rules made under section 137A of[^key-c2805c6be37af2d16f2356f39d809597] the Act (FCA’s general rules).
+is to be treated as having contravened rules made under section 137A of[^c-c2805c6be37af2d16f2356f39d809597] the Act (FCA’s general rules).
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
 
-[^key-c2805c6be37af2d16f2356f39d809597]: Textual amendment: Words in [reg. 80](https://www.legislation.gov.uk/uksi/2001/1228/regulation/80) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(9)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/9)
+[^c-c2805c6be37af2d16f2356f39d809597]: Textual amendment: Words in [reg. 80](https://www.legislation.gov.uk/uksi/2001/1228/regulation/80) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(9)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Amendment of regulation H3[^key-464b36efff484e273ebb6a39782b1639]
+## 7. Amendment of regulation H3[^c-464b36efff484e273ebb6a39782b1639]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation H3(2A)(b) (child allowance when member dies in pensionable employm
 
 ## Annotations
 
-[^key-464b36efff484e273ebb6a39782b1639]: Commencement: Reg. 7 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-464b36efff484e273ebb6a39782b1639]: Commencement: Reg. 7 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

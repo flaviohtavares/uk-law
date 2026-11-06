@@ -31,7 +31,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations Order of Council 2010 (revoked)[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]
+The Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations Order of Council 2010 (revoked)[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]
 
 Made
 
@@ -45,27 +45,27 @@ At the Council Chamber, Whitehall, the 25th day of November 2010
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]
+## 1. Title and commencement[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]
+## 2. Approval[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]
+## 3. Revocation[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — VETERINARY SURGEONS AND VETERINARY PRACTITIONERS (REGISTRATION) REGULATIONS 2010[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]
+## SCHEDULE — VETERINARY SURGEONS AND VETERINARY PRACTITIONERS (REGISTRATION) REGULATIONS 2010[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]
 
 Article 2
 
@@ -73,8 +73,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92ae58deb6ba5768ad1dafbd1f50e2b0]: Textual amendment: Order revoked (14.1.2015) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations Order of Council 2014 (S.I. 2014/3493)](https://www.legislation.gov.uk/uksi/2014/3493), [arts. 2](https://www.legislation.gov.uk/uksi/2014/3493/article/2), [3](https://www.legislation.gov.uk/uksi/2014/3493/article/3), [Sch. reg. 22](https://www.legislation.gov.uk/uksi/2014/3493/schedule/regulation/22)
+[^c-92ae58deb6ba5768ad1dafbd1f50e2b0]: Textual amendment: Order revoked (14.1.2015) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations Order of Council 2014 (S.I. 2014/3493)](https://www.legislation.gov.uk/uksi/2014/3493), [arts. 2](https://www.legislation.gov.uk/uksi/2014/3493/article/2), [3](https://www.legislation.gov.uk/uksi/2014/3493/article/3), [Sch. reg. 22](https://www.legislation.gov.uk/uksi/2014/3493/schedule/regulation/22)

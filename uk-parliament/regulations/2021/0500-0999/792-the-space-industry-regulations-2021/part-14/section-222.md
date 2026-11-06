@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Interpretation[^key-ba87d85c9028aa7c29811863aba19056]
+## 222. Interpretation[^c-ba87d85c9028aa7c29811863aba19056]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-ba87d85c9028aa7c29811863aba19056]: Commencement: Reg. 222 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ba87d85c9028aa7c29811863aba19056]: Commencement: Reg. 222 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

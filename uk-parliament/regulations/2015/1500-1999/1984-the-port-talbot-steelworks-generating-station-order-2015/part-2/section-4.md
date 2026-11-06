@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to maintain authorised development[^key-3e8e763d023884377208d953e86a7481]
+## 4. Power to maintain authorised development[^c-3e8e763d023884377208d953e86a7481]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e8e763d023884377208d953e86a7481]: Commencement: Art. 4 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-3e8e763d023884377208d953e86a7481]: Commencement: Art. 4 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

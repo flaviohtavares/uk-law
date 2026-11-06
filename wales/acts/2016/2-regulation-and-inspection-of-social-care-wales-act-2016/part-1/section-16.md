@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Improvement notices[^key-596f1612564b6abe1cd39c873f039cfa]
+## 16. Improvement notices[^c-596f1612564b6abe1cd39c873f039cfa]
 
 *Extent: E+W*
 
 (1) This section applies where the Welsh Ministers propose to—
 
-- (a) cancel the registration of a service provider under section 15(1)(c), (d), (e) or (f)[^key-3597492124346778112ef97856f3f8a8], or
-- (b) vary a provider's registration under section 13(3)(b) or (4)(b), (ba) or (c)[^key-34c6ffd7a4358620901971d9a25395ae].
+- (a) cancel the registration of a service provider under section 15(1)(c), (d), (e) or (f)[^c-3597492124346778112ef97856f3f8a8], or
+- (b) vary a provider's registration under section 13(3)(b) or (4)(b), (ba) or (c)[^c-34c6ffd7a4358620901971d9a25395ae].
 
 (2) Before cancelling or varying the registration the Welsh Ministers must give an improvement notice to the service provider.
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-596f1612564b6abe1cd39c873f039cfa]: Commencement: S. 16 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-596f1612564b6abe1cd39c873f039cfa]: Commencement: S. 16 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
 
-[^key-3597492124346778112ef97856f3f8a8]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/anaw/2016/2/section/16/1/a) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/3/a)
+[^c-3597492124346778112ef97856f3f8a8]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/anaw/2016/2/section/16/1/a) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(3)(a)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/3/a)
 
-[^key-34c6ffd7a4358620901971d9a25395ae]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/anaw/2016/2/section/16/1/b) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/3/b)
+[^c-34c6ffd7a4358620901971d9a25395ae]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/anaw/2016/2/section/16/1/b) substituted (25.3.2025) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(1)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a/ii), [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/3/b)

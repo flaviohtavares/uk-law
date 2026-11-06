@@ -43,21 +43,21 @@ The following information must be included in the label—
 - (k) Point XI: duration of the eco programme at full load in hours and minutes (h:min) rounded to the nearest minute;
 - (l) Point XII: the number of these Regulations which is ‘2026 No. 318’.
 
-#### 2. Label design for condenser tumble dryers with repairability class pictogram[^key-1fee94f26779efc1aa2a5a77a2665075]
+#### 2. Label design for condenser tumble dryers with repairability class pictogram[^c-1fee94f26779efc1aa2a5a77a2665075]
 
 Figure 2 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_002)
 
 The label must meet all of the requirements set out in paragraphs 3 to 8.
 
-**3.**[^key-12af33e0b5463ebe10217a20c4af76c7] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format its content must remain proportionate to the specifications in Figure 2.
+**3.**[^c-12af33e0b5463ebe10217a20c4af76c7] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format its content must remain proportionate to the specifications in Figure 2.
 
-**4.**[^key-fe6f45fbf6785c92f882fb3762fc59da] The background must be 100% white.
+**4.**[^c-fe6f45fbf6785c92f882fb3762fc59da] The background must be 100% white.
 
-**5.**[^key-545e3af413a6983aa6d0e5b5d48e0ae9] The typeface must be Verdana.
+**5.**[^c-545e3af413a6983aa6d0e5b5d48e0ae9] The typeface must be Verdana.
 
-**6.**[^key-ff2ddcf2bd7014a61b9a730369b97d5c] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
+**6.**[^c-ff2ddcf2bd7014a61b9a730369b97d5c] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
 
-**7.**[^key-f5d1caf74bd90f449875dff04f73b367] The following requirements—
+**7.**[^c-f5d1caf74bd90f449875dff04f73b367] The following requirements—
 
 - (a) area 1: the colours of the UK logo must be as follows—
   - (i) the blue background: 100,72,0,18;
@@ -90,7 +90,7 @@ The label must meet all of the requirements set out in paragraphs 3 to 8.
   - (vii) the number of the duration of the eco programme pictogram must be in Bold 16 pt and it must be centred under the pictogram;
 - (k) area 11: the number of the Regulations must be 100% black and in Regular 6 pt.
 
-**8.**[^key-ac5a78aa66a61843379c36d08f982ad0] In paragraph 7 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
+**8.**[^c-ac5a78aa66a61843379c36d08f982ad0] In paragraph 7 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
 
 ### Part 2 — Label for non-condenser tumble dryers with repairability class pictogram
 
@@ -112,21 +112,21 @@ The following information must be included in the label—
 - (j) Point X: duration of the eco programme at full load in hours and minutes (h:min) rounded to the nearest minute;
 - (k) Point XI: the number of these Regulations which is ‘2026 No. 318’.
 
-#### 10. Label design for non-condenser tumble dryers with repairability class pictogram[^key-21953efd5a7372c7d393f5170c0b546d]
+#### 10. Label design for non-condenser tumble dryers with repairability class pictogram[^c-21953efd5a7372c7d393f5170c0b546d]
 
 Figure 4 [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_004)
 
 The label must meet all of the requirements set out in paragraphs 11 to 16.
 
-**11.**[^key-7c4280afe593e9693c44214614fff862] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format, its content must remain proportionate to the specifications in Figure 4.
+**11.**[^c-7c4280afe593e9693c44214614fff862] The label must be at least 96 mm wide and 192 mm high; where the label is printed in a larger format, its content must remain proportionate to the specifications in Figure 4.
 
-**12.**[^key-a3f4a157aebbf4c1829629e505ce91b6] The background must be 100% white.
+**12.**[^c-a3f4a157aebbf4c1829629e505ce91b6] The background must be 100% white.
 
-**13.**[^key-38b8a6433491fe300cd98d26b7bb07df] The typeface must be Verdana.
+**13.**[^c-38b8a6433491fe300cd98d26b7bb07df] The typeface must be Verdana.
 
-**14.**[^key-125307012a2ec644e156b00f05a35a63] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
+**14.**[^c-125307012a2ec644e156b00f05a35a63] The dimensions and specifications of the elements in the label must be as indicated in the label designs in this Part.
 
-**15.**[^key-b2cf4adc715df37e62edbdac005c195d] The following requirements—
+**15.**[^c-b2cf4adc715df37e62edbdac005c195d] The following requirements—
 
 - (a) area 1: the colours of the UK logo must be as follows—
   - (i) the blue background: 100,72,0,18;
@@ -158,38 +158,38 @@ The label must meet all of the requirements set out in paragraphs 11 to 16.
   - (vi) the number of the duration of the eco programme pictogram must be in Bold 16 pt and it must be centred under the pictogram;
 - (k) area 11: the number of these Regulations must be 100% black and in Regular 6 pt.
 
-**16.**[^key-b59b848e397bd2278e7f2dcc08efc1d2] In paragraph 15 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
+**16.**[^c-b59b848e397bd2278e7f2dcc08efc1d2] In paragraph 15 colour proportions are expressed in CMYK percentages, for example: 0,70,100,0 = 0% cyan, 70% magenta, 100% yellow, 0% black.
 
 ## Annotations
 
 [^M_I_a520db86-7bc2-41c0-f898-6b69a0e255d1]: Commencement: Sch. 7 para. 1 in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-1fee94f26779efc1aa2a5a77a2665075]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-1fee94f26779efc1aa2a5a77a2665075]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-12af33e0b5463ebe10217a20c4af76c7]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/3) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-12af33e0b5463ebe10217a20c4af76c7]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/3) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-fe6f45fbf6785c92f882fb3762fc59da]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/4) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-fe6f45fbf6785c92f882fb3762fc59da]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/4) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-545e3af413a6983aa6d0e5b5d48e0ae9]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/5) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-545e3af413a6983aa6d0e5b5d48e0ae9]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/5) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-ff2ddcf2bd7014a61b9a730369b97d5c]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/6) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-ff2ddcf2bd7014a61b9a730369b97d5c]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/6) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-f5d1caf74bd90f449875dff04f73b367]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/7) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-f5d1caf74bd90f449875dff04f73b367]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/7) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-ac5a78aa66a61843379c36d08f982ad0]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/8) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-ac5a78aa66a61843379c36d08f982ad0]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/8) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
 [^M_I_b3e76f40-c90f-45cd-ec84-86c993476d8c]: Commencement: Sch. 7 para. 9 in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-21953efd5a7372c7d393f5170c0b546d]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/10) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-21953efd5a7372c7d393f5170c0b546d]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/10) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-7c4280afe593e9693c44214614fff862]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/11) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-7c4280afe593e9693c44214614fff862]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/11) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-a3f4a157aebbf4c1829629e505ce91b6]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/12) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-a3f4a157aebbf4c1829629e505ce91b6]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/12) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-38b8a6433491fe300cd98d26b7bb07df]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/13) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-38b8a6433491fe300cd98d26b7bb07df]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/13) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-125307012a2ec644e156b00f05a35a63]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/14) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-125307012a2ec644e156b00f05a35a63]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/14) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-b2cf4adc715df37e62edbdac005c195d]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/15) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-b2cf4adc715df37e62edbdac005c195d]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/15) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-b59b848e397bd2278e7f2dcc08efc1d2]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/16) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-b59b848e397bd2278e7f2dcc08efc1d2]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2026/318/schedule/7/paragraph/16) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)

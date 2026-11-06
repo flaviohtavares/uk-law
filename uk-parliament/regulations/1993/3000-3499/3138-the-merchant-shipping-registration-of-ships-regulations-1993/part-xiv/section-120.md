@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Applications for registration made before commencement of these Regulations[^key-85efcec8a92466dcda7e41d05a05a2ce]
+## 120. Applications for registration made before commencement of these Regulations[^c-85efcec8a92466dcda7e41d05a05a2ce]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (2) any application for registration of a ship or small ship which is made, but in respect of which registration was not effected[^key-1e2796cbdae4522603d0249d553be8bf], prior to the commencement of these Regulations shall be completed in accordance with these regulations.
+(1) Subject to paragraph (2) any application for registration of a ship or small ship which is made, but in respect of which registration was not effected[^c-1e2796cbdae4522603d0249d553be8bf], prior to the commencement of these Regulations shall be completed in accordance with these regulations.
 
 (2) Where:—
 
-- (a) an application for registration of a ship or small ship is made, but in respect of which registration was not effected[^key-4087e03d7c9f3662b556c1fbb6a13064], prior to the commencement of these regulations, and
-- (b) the provisions of these Regulations[^key-2e34c3384c184ffccb851d6e747f349a] would render the ship or small ship ineligible for registration,
+- (a) an application for registration of a ship or small ship is made, but in respect of which registration was not effected[^c-4087e03d7c9f3662b556c1fbb6a13064], prior to the commencement of these regulations, and
+- (b) the provisions of these Regulations[^c-2e34c3384c184ffccb851d6e747f349a] would render the ship or small ship ineligible for registration,
 
 then the application shall be determined in accordance with the relevant legislation under which the application was made.
 
@@ -37,10 +37,10 @@ then the application shall be determined in accordance with the relevant legisla
 
 ## Annotations
 
-[^key-85efcec8a92466dcda7e41d05a05a2ce]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-85efcec8a92466dcda7e41d05a05a2ce]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-1e2796cbdae4522603d0249d553be8bf]: Textual amendment: Words in [reg. 120(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120/1) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/1994/541/regulation/15/a)
+[^c-1e2796cbdae4522603d0249d553be8bf]: Textual amendment: Words in [reg. 120(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120/1) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/1994/541/regulation/15/a)
 
-[^key-4087e03d7c9f3662b556c1fbb6a13064]: Textual amendment: Words in [reg. 120(2)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120/2/a) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/1994/541/regulation/15/a)
+[^c-4087e03d7c9f3662b556c1fbb6a13064]: Textual amendment: Words in [reg. 120(2)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120/2/a) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/1994/541/regulation/15/a)
 
-[^key-2e34c3384c184ffccb851d6e747f349a]: Textual amendment: Words in [reg. 120(2)(b)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120/2/b) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/1994/541/regulation/15/b)
+[^c-2e34c3384c184ffccb851d6e747f349a]: Textual amendment: Words in [reg. 120(2)(b)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/120/2/b) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/1994/541/regulation/15/b)

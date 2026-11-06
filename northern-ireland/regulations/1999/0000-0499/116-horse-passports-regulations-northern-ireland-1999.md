@@ -32,7 +32,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Horse Passports Regulations (Northern Ireland) 1999 (revoked)[^key-c3c7b225949af26d363f10917eabb2d3]
+Horse Passports Regulations (Northern Ireland) 1999 (revoked)[^c-c3c7b225949af26d363f10917eabb2d3]
 
 Made
 
@@ -42,95 +42,95 @@ Coming into operation
 
 21st April 1999
 
-[^key-c3c7b225949af26d363f10917eabb2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c7b225949af26d363f10917eabb2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c3c7b225949af26d363f10917eabb2d3]
+## 1. Citation and commencement[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c3c7b225949af26d363f10917eabb2d3]
+## 2. Interpretation[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-c3c7b225949af26d363f10917eabb2d3]
+## 3. Application[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Horses for competition or racing[^key-c3c7b225949af26d363f10917eabb2d3]
+## 4. Horses for competition or racing[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Issue of a horse passport[^key-c3c7b225949af26d363f10917eabb2d3]
+## 5. Issue of a horse passport[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Multiple registration and cancellation of registration[^key-c3c7b225949af26d363f10917eabb2d3]
+## 6. Multiple registration and cancellation of registration[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Keepers[^key-c3c7b225949af26d363f10917eabb2d3]
+## 7. Keepers[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Movement of a horse[^key-c3c7b225949af26d363f10917eabb2d3]
+## 8. Movement of a horse[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Completion of the horse passport by a veterinary surgeon[^key-c3c7b225949af26d363f10917eabb2d3]
+## 9. Completion of the horse passport by a veterinary surgeon[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Sale of a horse[^key-c3c7b225949af26d363f10917eabb2d3]
+## 10. Sale of a horse[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Prohibition on holding more than one horse passport[^key-c3c7b225949af26d363f10917eabb2d3]
+## 11. Prohibition on holding more than one horse passport[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Replacement of a lost or damaged horse passport[^key-c3c7b225949af26d363f10917eabb2d3]
+## 12. Replacement of a lost or damaged horse passport[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of recognised organisations[^key-c3c7b225949af26d363f10917eabb2d3]
+## 13. Powers of recognised organisations[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Identification of horses born before 1st January 1998[^key-c3c7b225949af26d363f10917eabb2d3]
+## 14. Identification of horses born before 1st January 1998[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Offences[^key-c3c7b225949af26d363f10917eabb2d3]
+## 15. Offences[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Power of inspectors[^key-c3c7b225949af26d363f10917eabb2d3]
+## 16. Power of inspectors[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Obstruction[^key-c3c7b225949af26d363f10917eabb2d3]
+## 17. Obstruction[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3c7b225949af26d363f10917eabb2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c7b225949af26d363f10917eabb2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Identification document for horses[^key-c3c7b225949af26d363f10917eabb2d3]
+## SCHEDULE — Identification document for horses[^c-c3c7b225949af26d363f10917eabb2d3]
 
 Article 5(1)
 
-### I. General Instructions[^key-c3c7b225949af26d363f10917eabb2d3]
+### I. General Instructions[^c-c3c7b225949af26d363f10917eabb2d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**II.**[^key-c3c7b225949af26d363f10917eabb2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**II.**[^c-c3c7b225949af26d363f10917eabb2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**A.**[^key-c3c7b225949af26d363f10917eabb2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**A.**[^c-c3c7b225949af26d363f10917eabb2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**B.**[^key-c3c7b225949af26d363f10917eabb2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**B.**[^c-c3c7b225949af26d363f10917eabb2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Section I
 
@@ -166,8 +166,8 @@ Section VIII
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3c7b225949af26d363f10917eabb2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c7b225949af26d363f10917eabb2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3c7b225949af26d363f10917eabb2d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/116) revoked (10.1.2005) by [Horse Passports Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/497)](https://www.legislation.gov.uk/nisr/2004/497), [regs. 1](https://www.legislation.gov.uk/nisr/2004/497/regulation/1), [25](https://www.legislation.gov.uk/nisr/2004/497/regulation/25)
+[^c-c3c7b225949af26d363f10917eabb2d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/116) revoked (10.1.2005) by [Horse Passports Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/497)](https://www.legislation.gov.uk/nisr/2004/497), [regs. 1](https://www.legislation.gov.uk/nisr/2004/497/regulation/1), [25](https://www.legislation.gov.uk/nisr/2004/497/regulation/25)

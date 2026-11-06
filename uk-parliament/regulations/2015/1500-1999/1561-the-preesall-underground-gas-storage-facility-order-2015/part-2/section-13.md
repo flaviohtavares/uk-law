@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Access to works[^key-4eb2f80fcd7ade5de486ced9e7d5021a]
+## 13. Access to works[^c-4eb2f80fcd7ade5de486ced9e7d5021a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The undertaker may, for the purposes of the construction or the maintenance of t
 
 ## Annotations
 
-[^key-4eb2f80fcd7ade5de486ced9e7d5021a]: Commencement: Art. 13 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-4eb2f80fcd7ade5de486ced9e7d5021a]: Commencement: Art. 13 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

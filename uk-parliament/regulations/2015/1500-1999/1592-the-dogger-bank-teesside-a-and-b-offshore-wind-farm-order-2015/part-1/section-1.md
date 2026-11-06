@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-6b3e10b577b2a4ac07b7879bc1a7dfc7]
+## 1. Citation and commencement[^c-6b3e10b577b2a4ac07b7879bc1a7dfc7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Dogger Bank Teesside A and B Offshore Wind Farm O
 
 ## Annotations
 
-[^key-6b3e10b577b2a4ac07b7879bc1a7dfc7]: Commencement: Art. 1 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-6b3e10b577b2a4ac07b7879bc1a7dfc7]: Commencement: Art. 1 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)

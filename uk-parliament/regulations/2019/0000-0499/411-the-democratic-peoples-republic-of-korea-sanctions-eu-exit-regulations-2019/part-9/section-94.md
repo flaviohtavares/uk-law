@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Treasury directions: general provisions[^key-3429ff4f2b2a864321bfc912b614cc28][^key-93cd45e72b9a251c7acf9d6a80d86a00]
+## 94. Treasury directions: general provisions[^c-3429ff4f2b2a864321bfc912b614cc28][^c-93cd45e72b9a251c7acf9d6a80d86a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3429ff4f2b2a864321bfc912b614cc28]: Commencement: Reg. 94 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-3429ff4f2b2a864321bfc912b614cc28]: Commencement: Reg. 94 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-93cd45e72b9a251c7acf9d6a80d86a00]: Commencement: Reg. 94 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93cd45e72b9a251c7acf9d6a80d86a00]: Commencement: Reg. 94 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

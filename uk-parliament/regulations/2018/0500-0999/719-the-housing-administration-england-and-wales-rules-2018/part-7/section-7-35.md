@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.35. Offence in relation to inspection of documents[^key-e75ef806e42166ab6a161051299c8a72]
+## 7.35. Offence in relation to inspection of documents[^c-e75ef806e42166ab6a161051299c8a72]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e75ef806e42166ab6a161051299c8a72]: Commencement: Rule 7.35 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e75ef806e42166ab6a161051299c8a72]: Commencement: Rule 7.35 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

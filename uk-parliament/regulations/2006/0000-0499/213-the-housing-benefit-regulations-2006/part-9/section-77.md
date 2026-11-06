@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Date on which housing benefit is to end[^key-456027c04bb9cb3363a6edcb0056c468]
+## 77. Date on which housing benefit is to end[^c-456027c04bb9cb3363a6edcb0056c468]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-456027c04bb9cb3363a6edcb0056c468]: Textual amendment: Reg. 77 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/a)
+[^c-456027c04bb9cb3363a6edcb0056c468]: Textual amendment: Reg. 77 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/a)

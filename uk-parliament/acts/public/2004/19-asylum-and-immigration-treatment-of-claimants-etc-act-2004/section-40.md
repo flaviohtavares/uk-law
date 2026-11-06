@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Appeal to Immigration Services Tribunal[^key-62e3ff10913bea63eff1f5ca04505ad4]
+## 40. Appeal to Immigration Services Tribunal[^c-62e3ff10913bea63eff1f5ca04505ad4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 87(3)(f) of the Immigration and Asylum Act 1999 (c. 33) (appeal to Tribu
 
 ## Annotations
 
-[^key-62e3ff10913bea63eff1f5ca04505ad4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2004/19/section/40) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-62e3ff10913bea63eff1f5ca04505ad4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2004/19/section/40) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

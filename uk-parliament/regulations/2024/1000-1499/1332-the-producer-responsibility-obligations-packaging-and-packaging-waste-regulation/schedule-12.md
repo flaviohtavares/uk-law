@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 112 and 113
 
-### 1. Modifications to the 1995 Act[^key-bd031a52532bd276f645d4fc3eec8169]
+### 1. Modifications to the 1995 Act[^c-bd031a52532bd276f645d4fc3eec8169]
 
 (1) In this paragraph, “**the 1995 Act**” has the meaning given in regulation 112(2).
 
@@ -67,7 +67,7 @@ Regulations 112 and 113
 
 (10) Paragraph 6(1) of Schedule 18 is to be read as if any reference to section 108(4)(a) or (b) or (5) of the 1995 Act were to regulation 112.
 
-### 2. Modifications to the 1997 Order[^key-bcb0cabc4611aba2851cef1291f0c0be]
+### 2. Modifications to the 1997 Order[^c-bcb0cabc4611aba2851cef1291f0c0be]
 
 (1) In this paragraph, “**the 1997 Order**” has the meaning given in regulation 113(2).
 
@@ -107,8 +107,8 @@ Regulations 112 and 113
 
 ## Annotations
 
-[^key-bd031a52532bd276f645d4fc3eec8169]: Commencement: Sch. 12 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-bd031a52532bd276f645d4fc3eec8169]: Commencement: Sch. 12 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00091]: Footnote: [S.S.I. 2015/383](https://www.legislation.gov.uk/ssi/2015/383).
 
-[^key-bcb0cabc4611aba2851cef1291f0c0be]: Commencement: Sch. 12 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-bcb0cabc4611aba2851cef1291f0c0be]: Commencement: Sch. 12 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

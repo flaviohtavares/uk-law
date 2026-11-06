@@ -44,11 +44,11 @@ The Department of Finance [^f00001], in exercise of the powers conferred by sect
 
 In accordance with section 8A(5) of the Act the Department of Finance have consulted, where they think it appropriate, with the Treasury.
 
-## 1. Title and commencement[^key-34c21e8a4341d28da76a245b833383ae]
+## 1. Title and commencement[^c-34c21e8a4341d28da76a245b833383ae]
 
 This Order may be cited as the Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) Order 2023 and shall come into operation on 19<sup>th</sup> April 2023.
 
-## 2. Designation of Bodies[^key-2b4bb8414998dfd6f85cb982ff3df06b]
+## 2. Designation of Bodies[^c-2b4bb8414998dfd6f85cb982ff3df06b]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of sections 8A and 8B of the Government Resources and Accounts (Northern Ireland) Act 2001—
 
@@ -63,7 +63,7 @@ A senior officer of the
 
 Department of Finance
 
-## SCHEDULE — DESIGNATED BODIES FOR 2023-2024[^key-125404685e0c62f7b11c3fdd859054b4]
+## SCHEDULE — DESIGNATED BODIES FOR 2023-2024[^c-125404685e0c62f7b11c3fdd859054b4]
 
 Article 2
 
@@ -242,8 +242,8 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00002]: Footnote: [2001 (c.6)](https://www.legislation.gov.uk/ukpga/2001/6) (NI), sections 8A and 8B were inserted by the Financial Reporting (Department and Public Bodies) Act (Northern Ireland) [2022 (c.8)](https://www.legislation.gov.uk/ukpga/2022/8)
 
-[^key-34c21e8a4341d28da76a245b833383ae]: Commencement: Art. 1 in operation at 19.4.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/53/article/1)
+[^c-34c21e8a4341d28da76a245b833383ae]: Commencement: Art. 1 in operation at 19.4.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/53/article/1)
 
-[^key-2b4bb8414998dfd6f85cb982ff3df06b]: Commencement: Art. 2 in operation at 19.4.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/53/article/1)
+[^c-2b4bb8414998dfd6f85cb982ff3df06b]: Commencement: Art. 2 in operation at 19.4.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/53/article/1)
 
-[^key-125404685e0c62f7b11c3fdd859054b4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2023/53/schedule) substituted for [Sch.](https://www.legislation.gov.uk/nisr/2023/53/schedule) (8.2.2024) by [The Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2024 (S.R. 2024/7)](https://www.legislation.gov.uk/nisr/2024/7), [arts. 1](https://www.legislation.gov.uk/nisr/2024/7/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/7/article/2/2)
+[^c-125404685e0c62f7b11c3fdd859054b4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2023/53/schedule) substituted for [Sch.](https://www.legislation.gov.uk/nisr/2023/53/schedule) (8.2.2024) by [The Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2024 (S.R. 2024/7)](https://www.legislation.gov.uk/nisr/2024/7), [arts. 1](https://www.legislation.gov.uk/nisr/2024/7/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/7/article/2/2)

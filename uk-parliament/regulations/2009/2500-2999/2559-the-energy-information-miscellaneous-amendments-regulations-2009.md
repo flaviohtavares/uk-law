@@ -32,7 +32,7 @@ summary: ''
 
 Energy Conservation
 
-The Energy Information (Miscellaneous Amendments) Regulations 2009 (revoked)[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+The Energy Information (Miscellaneous Amendments) Regulations 2009 (revoked)[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 15th October 2009
 
-[^key-df81a6fdc5f3dfbe696c0cae49213faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df81a6fdc5f3dfbe696c0cae49213faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 1. Citation and commencement[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Energy Information (Washing Machines) Regulations 1996[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 2. Amendment of the Energy Information (Washing Machines) Regulations 1996[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Energy Information (Tumble Driers) Regulations 1996[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 3. Amendment of the Energy Information (Tumble Driers) Regulations 1996[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Energy Information (Combined Washer-driers) Regulations 1997[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 4. Amendment of the Energy Information (Combined Washer-driers) Regulations 1997[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Energy Information (Lamps) Regulations 1999[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 5. Amendment of the Energy Information (Lamps) Regulations 1999[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Energy Information (Dishwashers) Regulations 1999[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 6. Amendment of the Energy Information (Dishwashers) Regulations 1999[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Energy Information (Household Electric Ovens) Regulations 2003[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 7. Amendment of the Energy Information (Household Electric Ovens) Regulations 2003[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Energy Information (Household Refrigerators and Freezers) Regulations 2004[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 8. Amendment of the Energy Information (Household Refrigerators and Freezers) Regulations 2004[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Energy Information (Household Air Conditioners) (No.2) Regulations 2005[^key-df81a6fdc5f3dfbe696c0cae49213faa]
+## 9. Amendment of the Energy Information (Household Air Conditioners) (No.2) Regulations 2005[^c-df81a6fdc5f3dfbe696c0cae49213faa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df81a6fdc5f3dfbe696c0cae49213faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df81a6fdc5f3dfbe696c0cae49213faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-df81a6fdc5f3dfbe696c0cae49213faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df81a6fdc5f3dfbe696c0cae49213faa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df81a6fdc5f3dfbe696c0cae49213faa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2559) revoked (20.7.2011) by [The Energy Information Regulations 2011 (S.I. 2011/1524)](https://www.legislation.gov.uk/uksi/2011/1524), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1524/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1524/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1524/regulation/3))
+[^c-df81a6fdc5f3dfbe696c0cae49213faa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2559) revoked (20.7.2011) by [The Energy Information Regulations 2011 (S.I. 2011/1524)](https://www.legislation.gov.uk/uksi/2011/1524), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1524/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1524/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1524/regulation/3))

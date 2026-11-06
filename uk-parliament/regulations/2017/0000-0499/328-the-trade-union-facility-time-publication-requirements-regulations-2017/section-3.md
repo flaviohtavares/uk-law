@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Crown employees: person or entity to be treated as an employer[^key-eb0216fdba4c5a8dbafa042444d1c973]
+## 3. Crown employees: person or entity to be treated as an employer[^c-eb0216fdba4c5a8dbafa042444d1c973]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of section 172A of the 1992 Act, a public authority that is an 
 
 ## Annotations
 
-[^key-eb0216fdba4c5a8dbafa042444d1c973]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-eb0216fdba4c5a8dbafa042444d1c973]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183A. Protection of prohibitions and restrictions etc on processing: relevant enactments[^key-e0bccd6b1e4e022c2e677ed1bdb9d8d1]
+## 183A. Protection of prohibitions and restrictions etc on processing: relevant enactments[^c-e0bccd6b1e4e022c2e677ed1bdb9d8d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - “**the main data protection legislation**” means the data protection legislation other than provision of or made under—
   - (a) Chapter 6 or 8 of the UK GDPR, or
   - (b) Parts 5 to 7 of this Act;
-- “**relevant enactment**” means an enactment so far as passed or made on or after 20th August 2025[^key-63330d56a2e81707f9cd5b177a000af0];
+- “**relevant enactment**” means an enactment so far as passed or made on or after 20th August 2025[^c-63330d56a2e81707f9cd5b177a000af0];
 - “**requirement**” includes a prohibition or restriction.
 
 (5) The reference in subsection (1) to an enactment or rule of law which imposes a duty, or confers a power, to process personal data is a reference to an enactment or rule of law which, directly or indirectly, requires or authorises the processing of personal data, including (for example)—
@@ -46,6 +46,6 @@ and the references in subsection (3) to a duty or power are to be read according
 
 ## Annotations
 
-[^key-e0bccd6b1e4e022c2e677ed1bdb9d8d1]: Textual amendment: S. 183A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
+[^c-e0bccd6b1e4e022c2e677ed1bdb9d8d1]: Textual amendment: S. 183A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
 
-[^key-63330d56a2e81707f9cd5b177a000af0]: Textual amendment: Words in [s. 183A(4)](https://www.legislation.gov.uk/ukpga/2018/12/section/183A/4) substituted (29.1.2026) by [The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026 (S.I. 2026/82)](https://www.legislation.gov.uk/uksi/2026/82), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2026/82/regulation/12/2)
+[^c-63330d56a2e81707f9cd5b177a000af0]: Textual amendment: Words in [s. 183A(4)](https://www.legislation.gov.uk/ukpga/2018/12/section/183A/4) substituted (29.1.2026) by [The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026 (S.I. 2026/82)](https://www.legislation.gov.uk/uksi/2026/82), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2026/82/regulation/12/2)

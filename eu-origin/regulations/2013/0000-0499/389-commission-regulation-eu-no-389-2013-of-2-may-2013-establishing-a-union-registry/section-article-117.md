@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 117. Repeal[^key-65c1987222be6105ab29977d3ba583c3]
+## Article 117. Repeal[^c-65c1987222be6105ab29977d3ba583c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65c1987222be6105ab29977d3ba583c3]: Textual amendment: [Arts. 113-118](https://www.legislation.gov.uk/eur/2013/389/article/113) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/511/regulation/9)
+[^c-65c1987222be6105ab29977d3ba583c3]: Textual amendment: [Arts. 113-118](https://www.legislation.gov.uk/eur/2013/389/article/113) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/511/regulation/9)

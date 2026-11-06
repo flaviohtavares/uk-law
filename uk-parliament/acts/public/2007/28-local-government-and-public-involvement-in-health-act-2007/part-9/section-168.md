@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Appointment and removal of Commissioners[^key-e8507ece07650935d7fcc7716e025227]
+## 168. Appointment and removal of Commissioners[^c-e8507ece07650935d7fcc7716e025227]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8507ece07650935d7fcc7716e025227]: Commencement: S. 168 in force at 1.4.2008 in so far as it relates to appointments of Local Commissioners made on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/f) (with [art. 6(4)](https://www.legislation.gov.uk/uksi/2008/917/article/6/4))
+[^c-e8507ece07650935d7fcc7716e025227]: Commencement: S. 168 in force at 1.4.2008 in so far as it relates to appointments of Local Commissioners made on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/f) (with [art. 6(4)](https://www.legislation.gov.uk/uksi/2008/917/article/6/4))

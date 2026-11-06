@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Amendments.[^c10579551][^key-89002751dfd26551157682ae44ad0a1f]
+## 74. Amendments.[^c10579551][^c-89002751dfd26551157682ae44ad0a1f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 7 (which makes minor and consequential amendments) is to have effect.
 
 [^c10579551]: Commencement: S. 74 partly in force; s. 74 not in force at Royal Assent see s. 80; s. 74 in force for specified purposes at 20.6.2001 and 2.7.2001 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(k)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/k)
 
-[^key-89002751dfd26551157682ae44ad0a1f]: Commencement: S. 74 in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)
+[^c-89002751dfd26551157682ae44ad0a1f]: Commencement: S. 74 in force at 2.9.2004 for specified purposes by [S.I. 2004/2171](https://www.legislation.gov.uk/uksi/2004/2171), [art. 2](https://www.legislation.gov.uk/uksi/2004/2171/article/2)

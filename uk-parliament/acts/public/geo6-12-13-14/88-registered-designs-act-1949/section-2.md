@@ -22,9 +22,9 @@ summary: ''
 
 (1)[^c9309] The author of a design shall be treated for the purposes of this Act as the original proprietor of the design, subject to the following provisions.
 
-(1A)[^key-023eadb6fca7c48b15e1ea2003044d2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-023eadb6fca7c48b15e1ea2003044d2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B) Where[^key-b8bacaeda8e6823d0fecce682a013953]... a design is created by an employee in the course of his employment, his employer shall be treated as the original proprietor of the design.
+(1B) Where[^c-b8bacaeda8e6823d0fecce682a013953]... a design is created by an employee in the course of his employment, his employer shall be treated as the original proprietor of the design.
 
 (2) Where a design [^c9310]. . . becomes vested, whether by assignment, transmission or operation of law, in any person other than the original proprietor, either alone or jointly with the original proprietor, that other person, or as the case may be the original proprietor and that other person, shall be treated for the purposes of this Act as the proprietor of the design [^c9311]. . ..
 
@@ -36,9 +36,9 @@ summary: ''
 
 [^c9309]: Textual amendment: S. 2(1) substituted by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 267(2)](https://www.legislation.gov.uk/ukpga/1988/48/section/267/2)
 
-[^key-023eadb6fca7c48b15e1ea2003044d2c]: Textual amendment: S. 2(1A) omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2014/18/section/6/1/a), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2330/article/4))
+[^c-023eadb6fca7c48b15e1ea2003044d2c]: Textual amendment: S. 2(1A) omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2014/18/section/6/1/a), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2330/article/4))
 
-[^key-b8bacaeda8e6823d0fecce682a013953]: Textual amendment: Words in s. 2(1B) omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2014/18/section/6/1/b), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2330/article/4))
+[^c-b8bacaeda8e6823d0fecce682a013953]: Textual amendment: Words in s. 2(1B) omitted (1.10.2014) by virtue of [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2014/18/section/6/1/b), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/2330/article/4))
 
 [^c9310]: Textual amendment: Words in s. 2(2) repealed (9.12.2001) by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [reg. 9(2)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/9/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3949/schedule/2) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 

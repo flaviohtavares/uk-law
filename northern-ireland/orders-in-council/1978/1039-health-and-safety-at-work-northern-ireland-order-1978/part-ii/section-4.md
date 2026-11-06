@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. General duties of employers to their employees[^c17534121][^c17534131][^c17534141][^c17534151][^key-46a7e1686eb3a860d5b9755c1521d37f]
+## 4. General duties of employers to their employees[^c17534121][^c17534131][^c17534141][^c17534151][^c-46a7e1686eb3a860d5b9755c1521d37f]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c17534151]: Textual amendment: mod. by [2002 c. 8 (NI)](https://www.legislation.gov.uk/nia/2002/8)
 
-[^key-46a7e1686eb3a860d5b9755c1521d37f]: Modification: Art. 4(1)(2)(3) modified (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [regs. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/4/2) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))
+[^c-46a7e1686eb3a860d5b9755c1521d37f]: Modification: Art. 4(1)(2)(3) modified (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [regs. 1](https://www.legislation.gov.uk/nisr/2015/339/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/4/2) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))

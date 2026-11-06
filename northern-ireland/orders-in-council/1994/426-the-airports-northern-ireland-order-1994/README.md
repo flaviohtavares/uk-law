@@ -41,7 +41,7 @@ The Airports (Northern Ireland) Order 1994 [^c5479131]
 
 *Extent: N.I.*
 
-#### Regulated airports[^key-9fadd6a7859e8a3c3468d41634441782]
+#### Regulated airports[^c-9fadd6a7859e8a3c3468d41634441782]
 
 *Extent: N.I.*
 
@@ -83,24 +83,24 @@ The Airports (Northern Ireland) Order 1994 [^c5479131]
 - [Section 25 — Status of certain airport operators as statutory undertakers](part-iii/section-25.md)
 - [Section 26 — Power to dispose of land to airport operators](part-iii/section-26.md)
 
-### PART IV — ECONOMIC REGULATION OF AIRPORTS[^key-24528b01d4b097fc6dac3006175a9a36]
+### PART IV — ECONOMIC REGULATION OF AIRPORTS[^c-24528b01d4b097fc6dac3006175a9a36]
 
 *Extent: N.I.*
 
-#### Preliminary[^key-24528b01d4b097fc6dac3006175a9a36]
+#### Preliminary[^c-24528b01d4b097fc6dac3006175a9a36]
 
 **No longer in force.**
 
 - [Section 27 — Interpretation of this Part](part-iv/section-27.md)
 
-#### Permissions[^key-24528b01d4b097fc6dac3006175a9a36]
+#### Permissions[^c-24528b01d4b097fc6dac3006175a9a36]
 
 **No longer in force.**
 
 - [Section 28 — Airports subject to economic regulation: requirement for permission to levy airport charges](part-iv/section-28.md)
 - [Section 29 — Grant or refusal of permissions](part-iv/section-29.md)
 
-#### Conditions[^key-24528b01d4b097fc6dac3006175a9a36]
+#### Conditions[^c-24528b01d4b097fc6dac3006175a9a36]
 
 *Extent: N.I.*
 
@@ -113,7 +113,7 @@ The Airports (Northern Ireland) Order 1994 [^c5479131]
 - [Section 32 — Discretionary conditions](part-iv/section-32.md)
 - [Section 33 — Discretionary conditions: supplementary provisions](part-iv/section-33.md)
 
-#### References to Commission[^key-24528b01d4b097fc6dac3006175a9a36]
+#### References to Commission[^c-24528b01d4b097fc6dac3006175a9a36]
 
 **No longer in force.**
 
@@ -125,7 +125,7 @@ The Airports (Northern Ireland) Order 1994 [^c5479131]
 - [Section 37 — Imposition or modification of conditions following Commission's report](part-iv/section-37.md)
 - [Section 38 — Charges to be paid by airport operators in respect of Commission's expenses](part-iv/section-38.md)
 
-#### Enforcement of conditions[^key-24528b01d4b097fc6dac3006175a9a36]
+#### Enforcement of conditions[^c-24528b01d4b097fc6dac3006175a9a36]
 
 **No longer in force.**
 
@@ -133,7 +133,7 @@ The Airports (Northern Ireland) Order 1994 [^c5479131]
 - [Section 40 — Validity and effect of compliance orders](part-iv/section-40.md)
 - [Section 41 — Breach of accounts conditions: criminal penalties, etc.](part-iv/section-41.md)
 
-#### Supplementary[^key-24528b01d4b097fc6dac3006175a9a36]
+#### Supplementary[^c-24528b01d4b097fc6dac3006175a9a36]
 
 **No longer in force.**
 
@@ -208,6 +208,6 @@ SCHEDULES
 
 [^c5479131]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-9fadd6a7859e8a3c3468d41634441782]: Textual amendment: Art. 2A and cross-heading inserted (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/8) (with [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-9fadd6a7859e8a3c3468d41634441782]: Textual amendment: Art. 2A and cross-heading inserted (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/8) (with [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-24528b01d4b097fc6dac3006175a9a36]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/nisi/1994/426/part/IV) revoked (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/76/2), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/589/article/4))
+[^c-24528b01d4b097fc6dac3006175a9a36]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/nisi/1994/426/part/IV) revoked (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/76/2), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/589/article/4))

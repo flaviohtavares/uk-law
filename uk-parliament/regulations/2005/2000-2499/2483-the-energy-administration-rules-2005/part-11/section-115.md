@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Application of CPR[^key-3624d91706a06b7a07fa19ca4e946972]
+## 115. Application of CPR[^c-3624d91706a06b7a07fa19ca4e946972]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to provision to inconsistent effect made as follows in this Chapter, CPR
 
 ## Annotations
 
-[^key-3624d91706a06b7a07fa19ca4e946972]: Commencement: Rule 115 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3624d91706a06b7a07fa19ca4e946972]: Commencement: Rule 115 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

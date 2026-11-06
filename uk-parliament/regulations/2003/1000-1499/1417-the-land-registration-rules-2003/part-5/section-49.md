@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Alteration of the cautions register by the registrar[^key-d5515070a8aae3b330d05acf9993126c]
+## 49. Alteration of the cautions register by the registrar[^c-d5515070a8aae3b330d05acf9993126c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5515070a8aae3b330d05acf9993126c]: Textual amendment: Rule 49 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/11) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-d5515070a8aae3b330d05acf9993126c]: Textual amendment: Rule 49 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/11) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Taxable weight of material in taxable disposal[^key-c08a4d613fd6d52ae9267b2ed8b02d02]
+## 18. Taxable weight of material in taxable disposal[^c-c08a4d613fd6d52ae9267b2ed8b02d02]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ the taxable weight of the material for the purposes of section 14(2) and (5) is 
 
 ## Annotations
 
-[^key-c08a4d613fd6d52ae9267b2ed8b02d02]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2017/3/section/18) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-c08a4d613fd6d52ae9267b2ed8b02d02]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2017/3/section/18) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

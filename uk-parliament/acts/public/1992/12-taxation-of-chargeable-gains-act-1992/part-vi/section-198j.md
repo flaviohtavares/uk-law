@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198J. Oil and gas: reinvestment after pre-trading disposal[^key-8876471476348382fc49f53488bd5bc8]
+## 198J. Oil and gas: reinvestment after pre-trading disposal[^c-8876471476348382fc49f53488bd5bc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ and a reference to a UK licence which relates to an undeveloped area has the sam
 
 ## Annotations
 
-[^key-8876471476348382fc49f53488bd5bc8]: Textual amendment: [Ss. 198J-198L](https://www.legislation.gov.uk/ukpga/1992/12/section/198J) inserted (with effect in accordance with s. 71(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/71/1)
+[^c-8876471476348382fc49f53488bd5bc8]: Textual amendment: [Ss. 198J-198L](https://www.legislation.gov.uk/ukpga/1992/12/section/198J) inserted (with effect in accordance with s. 71(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/71/1)

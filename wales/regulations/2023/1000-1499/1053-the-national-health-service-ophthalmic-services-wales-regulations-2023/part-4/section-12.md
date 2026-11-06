@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Application for inclusion in a list[^key-8c02055844c22e80621bfc89b6bee5cd]
+## 12. Application for inclusion in a list[^c-8c02055844c22e80621bfc89b6bee5cd]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c02055844c22e80621bfc89b6bee5cd]: Commencement: Reg. 12 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-8c02055844c22e80621bfc89b6bee5cd]: Commencement: Reg. 12 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

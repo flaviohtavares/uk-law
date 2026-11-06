@@ -34,7 +34,7 @@ This Statutory Instrument has been printed to correct errors in [S.I. 2020/1438]
 
 Customs
 
-The Trade Preference Scheme (EU Exit) (Amendment) Regulations 2021 (revoked)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+The Trade Preference Scheme (EU Exit) (Amendment) Regulations 2021 (revoked)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 Made
 
@@ -48,94 +48,94 @@ Coming into force
 
 23rd April 2021
 
-[^key-3f943c04a64f5f94db9fb8e2ed611153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f943c04a64f5f94db9fb8e2ed611153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — General[^key-3f943c04a64f5f94db9fb8e2ed611153]
+## PART I — General[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
-### 1. Citation and commencement[^key-3f943c04a64f5f94db9fb8e2ed611153]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 1. Citation and commencement[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Amendment of the Trade Preference Scheme (EU Exit) Regulations[^key-3f943c04a64f5f94db9fb8e2ed611153]
-
-### 3. Amendment of the Trade Preference Scheme (EU Exit) Regulations[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 2. Interpretation[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of regulation 2 (interpretation)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+## PART 2 — Amendment of the Trade Preference Scheme (EU Exit) Regulations[^c-3f943c04a64f5f94db9fb8e2ed611153]
+
+### 3. Amendment of the Trade Preference Scheme (EU Exit) Regulations[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 9 (suspension of country due to other trade arrangements)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 4. Amendment of regulation 2 (interpretation)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 10 (applying a GSP framework to goods)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 5. Amendment of regulation 9 (suspension of country due to other trade arrangements)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 11 (general)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 6. Amendment of regulation 10 (applying a GSP framework to goods)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of regulation 12 (import duty rule – LDCF)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 7. Amendment of regulation 11 (general)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 13 (import duty rules – GF)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 8. Amendment of regulation 12 (import duty rule – LDCF)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of regulation 14 (import duty rules – EF)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 9. Amendment of regulation 13 (import duty rules – GF)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of regulation 18 (country determined to no longer be economically vulnerable)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 10. Amendment of regulation 14 (import duty rules – EF)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of regulation 22 (goods graduation – general framework)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 11. Amendment of regulation 18 (country determined to no longer be economically vulnerable)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of regulation 26 (warning and assessment procedure)[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 12. Amendment of regulation 22 (goods graduation – general framework)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendment of Schedule 3[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 13. Amendment of regulation 26 (warning and assessment procedure)[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendment of Schedule 4[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 14. Amendment of Schedule 3[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of Schedule 5[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 15. Amendment of Schedule 4[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Further typographical amendments[^key-3f943c04a64f5f94db9fb8e2ed611153]
+### 16. Amendment of Schedule 5[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f943c04a64f5f94db9fb8e2ed611153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. Further typographical amendments[^c-3f943c04a64f5f94db9fb8e2ed611153]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3f943c04a64f5f94db9fb8e2ed611153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Further typographical amendments of the Trade Preference Scheme (EU Exit) Regulations[^key-3f943c04a64f5f94db9fb8e2ed611153]
+## SCHEDULE — Further typographical amendments of the Trade Preference Scheme (EU Exit) Regulations[^c-3f943c04a64f5f94db9fb8e2ed611153]
 
 Regulation 17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f943c04a64f5f94db9fb8e2ed611153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f943c04a64f5f94db9fb8e2ed611153]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f943c04a64f5f94db9fb8e2ed611153]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/435) revoked (19.6.2023) by [The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023 (S.I. 2023/561)](https://www.legislation.gov.uk/uksi/2023/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/4/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/4))
+[^c-3f943c04a64f5f94db9fb8e2ed611153]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/435) revoked (19.6.2023) by [The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023 (S.I. 2023/561)](https://www.legislation.gov.uk/uksi/2023/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/4/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/4))

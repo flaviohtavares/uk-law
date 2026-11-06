@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Health needs of children[^key-fbfbaf39475621bd01a31a710ae7d641]
+## 19. Health needs of children[^c-fbfbaf39475621bd01a31a710ae7d641]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbfbaf39475621bd01a31a710ae7d641]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/176/regulation/19) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-fbfbaf39475621bd01a31a710ae7d641]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/176/regulation/19) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

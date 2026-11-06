@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133F. Repayment to recipient during tax year[^key-b938ba14786892f1be33cb618079d081]
+## 133F. Repayment to recipient during tax year[^c-b938ba14786892f1be33cb618079d081]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Department may repay tax deducted from a lump sum to a recipient at any time
 
 ## Annotations
 
-[^key-b938ba14786892f1be33cb618079d081]: Textual amendment: Pt. 7 Ch. 2A added (6.4.2006) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2006 (S.I. 2006/243)](https://www.legislation.gov.uk/uksi/2006/243), [regs. 1](https://www.legislation.gov.uk/uksi/2006/243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/243/regulation/3)
+[^c-b938ba14786892f1be33cb618079d081]: Textual amendment: Pt. 7 Ch. 2A added (6.4.2006) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2006 (S.I. 2006/243)](https://www.legislation.gov.uk/uksi/2006/243), [regs. 1](https://www.legislation.gov.uk/uksi/2006/243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/243/regulation/3)

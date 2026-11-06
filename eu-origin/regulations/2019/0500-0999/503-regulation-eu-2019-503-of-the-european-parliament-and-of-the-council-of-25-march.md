@@ -35,59 +35,59 @@ on certain aspects of railway safety and connectivity with regard to the withdra
 
 (Text with EEA relevance) (revoked)
 
-[^key-90adc43fcf742d88acc11c21483bb664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90adc43fcf742d88acc11c21483bb664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 1. Subject matter and scope[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 2. Definitions[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Validity of safety authorisations, safety certificates, operating licences and train drivers licences[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 3. Validity of safety authorisations, safety certificates, operating licences and train drivers licences[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Rules and obligations regarding safety certificates, safety authorisations and licences[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 4. Rules and obligations regarding safety certificates, safety authorisations and licences[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Monitoring compliance with Union law[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 5. Monitoring compliance with Union law[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Consultation and cooperation[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 6. Consultation and cooperation[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 7. Committee[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and application[^key-90adc43fcf742d88acc11c21483bb664]
+## Article 8. Entry into force and application[^c-90adc43fcf742d88acc11c21483bb664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90adc43fcf742d88acc11c21483bb664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90adc43fcf742d88acc11c21483bb664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-90adc43fcf742d88acc11c21483bb664]
+## ANNEX[^c-90adc43fcf742d88acc11c21483bb664]
 
-[^key-90adc43fcf742d88acc11c21483bb664]
+[^c-90adc43fcf742d88acc11c21483bb664]
 
 The border-crossing stations and terminals referred to in Articles 3 and 4 are the following:
 
-[^key-90adc43fcf742d88acc11c21483bb664]1.
+[^c-90adc43fcf742d88acc11c21483bb664]1.
 
 IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90adc43fcf742d88acc11c21483bb664]2.
+[^c-90adc43fcf742d88acc11c21483bb664]2.
 
 FRANCE
 
@@ -95,4 +95,4 @@ FRANCE
 
 ## Annotations
 
-[^key-90adc43fcf742d88acc11c21483bb664]: Textual amendment: Regulation revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-90adc43fcf742d88acc11c21483bb664]: Textual amendment: Regulation revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

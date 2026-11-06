@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Arbitration[^key-88559693fdef525abfbe169774bb729d]
+## 67. Arbitration[^c-88559693fdef525abfbe169774bb729d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88559693fdef525abfbe169774bb729d]: Commencement: Art. 67 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-88559693fdef525abfbe169774bb729d]: Commencement: Art. 67 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

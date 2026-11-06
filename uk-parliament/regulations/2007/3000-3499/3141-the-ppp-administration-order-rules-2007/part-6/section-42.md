@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Other hearings without notice[^key-1bc27f3a2321b4ce6b0d4c08375cd166]
+## 42. Other hearings without notice[^c-1bc27f3a2321b4ce6b0d4c08375cd166]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bc27f3a2321b4ce6b0d4c08375cd166]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2007/3141/rule/42) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-1bc27f3a2321b4ce6b0d4c08375cd166]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2007/3141/rule/42) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

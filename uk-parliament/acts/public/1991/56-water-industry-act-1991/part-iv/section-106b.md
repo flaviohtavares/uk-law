@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106B. Requirement to enter into agreement before construction[^key-049e0f793fbc091aad7226f5a909633f]
+## 106B. Requirement to enter into agreement before construction[^c-049e0f793fbc091aad7226f5a909633f]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-049e0f793fbc091aad7226f5a909633f]: Textual amendment: S. 106B inserted (1.10.2010 for specified purposes, 1.10.2012 for specified purposes) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/42/1), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4); [S.I. 2012/2048](https://www.legislation.gov.uk/wsi/2012/2048), [art. 2](https://www.legislation.gov.uk/wsi/2012/2048/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/2048/article/3))
+[^c-049e0f793fbc091aad7226f5a909633f]: Textual amendment: S. 106B inserted (1.10.2010 for specified purposes, 1.10.2012 for specified purposes) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/42/1), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4); [S.I. 2012/2048](https://www.legislation.gov.uk/wsi/2012/2048), [art. 2](https://www.legislation.gov.uk/wsi/2012/2048/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2012/2048/article/3))

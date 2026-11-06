@@ -48,11 +48,11 @@ In accordance with Article 47(3A) of that Order, it has had regard to relevant a
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation and commencement[^key-90df999041d19f5d927557fc50230339]
+## 1. Citation and commencement[^c-90df999041d19f5d927557fc50230339]
 
 These Regulations may be cited as the Food Additives Regulations (Northern Ireland) 2009 and come into operation on 20th January 2010.
 
-## 2. Interpretation[^key-0c14935ab3f38bbb769126abe2a4c20d]
+## 2. Interpretation[^c-0c14935ab3f38bbb769126abe2a4c20d]
 
 (1) In these Regulations —
 
@@ -102,11 +102,11 @@ These Regulations may be cited as the Food Additives Regulations (Northern Irela
 - “modified starch” means any substance obtained by one or more chemical treatments of edible starch, which may have undergone a physical or enzymatic treatment, and may be acid or alkali thinned or bleached;
 - “the Order” means the Food Safety (Northern Ireland) Order 1991;
 - “packaging gas” means any gas, other than air, which is introduced into a container before, during or after the placing of a food in that container;
-- “permitted colour” means —[^key-732ac30fa2594c54087ee47017b19b22]
+- “permitted colour” means —[^c-732ac30fa2594c54087ee47017b19b22]
   - (a) before 1st December 2012, any colour listed in Annex I to Directive 94/36 which satisfies the specific purity criteria for that colour set out in the Annex to Directive 08/128;
   - (b) on or after 1st December 2012, any colour listed in Annex I to Directive 94/36 which satisfies the specific purity criteria for that colour set out in the Annex to Regulation 231/2012
 - “permitted miscellaneous additive” means any miscellaneous additive listed in Annex I, III, IV or V of Directive 95/2 which satisfies the purity criteria (if any) for that additive;
-- “permitted sweetener” means —[^key-a72f84c396f04084a474d00782a38f98]
+- “permitted sweetener” means —[^c-a72f84c396f04084a474d00782a38f98]
   - (a) before 1st December 2012 —
     - (i) any sweetener specified in the second column of the Annex to Directive 94/35 which satisfies the specific purity criteria for that sweetener set out in Annex I to Directive 08/60, or
     - (ii) in the case of E960 steviol glycosides, a sweetener which satisfies the purity criteria for that sweetener set out in the Annex to Regulation 231/2012;
@@ -119,12 +119,12 @@ These Regulations may be cited as the Food Additives Regulations (Northern Irela
 - “preservative” means any substance which prolongs the shelf-life of a food by protecting it against deterioration caused by micro-organisms;
 - “processing aid” means any substance not consumed as a food by itself, which is intentionally used in the processing of raw materials, foods or their ingredients to fulfil a certain technological purpose during treatment or processing and which may result in the unintentional but technically unavoidable presence of residues of the substance or its derivatives in the final product, but only if those residues do not present any health risk and do not have any technological effect on the finished product;
 - “propellant” means any gas, other than air, which expels a food from a container;
-- “purity criteria”, in relation to a miscellaneous additive, means —[^key-411a25bbfc3abf1301ca4d57dcd38791]
+- “purity criteria”, in relation to a miscellaneous additive, means —[^c-411a25bbfc3abf1301ca4d57dcd38791]
   - (a) before 1st December 2012, the purity criteria set out in relation to that additive in Annex I to Directive 08/84 or, in the case of E1205 basic methacrylate copolymer, in the Annex to Regulation 231/2012;
   - (b) on or after 1st December 2012, the purity criteria set out in relation to that additive in the Annex to Regulation 231/2012;
 - “raising agent” means any substance or combination of substances which liberates gas and thereby increases the volume of a dough or a batter;
-- “Regulation 1333/2008” means Regulation (EC) No.1333/2008 of the European Parliament and of the Council on food additives[^f00014] as read with Regulation 231/2012[^key-a33ed735129a6ba6f95383db8f48084b];
-- “Regulation 1129/2011” means Commission Regulation ([^key-da17d2e762467419a33ca4aa67c4fcbb]EU) No. 1129/2011 amending Annex II to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council by establishing a Union list of food additives, as read with Commission Regulation (EU) No. 1131/2011 amending Annex II to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council with regard to steviol glycosides;
+- “Regulation 1333/2008” means Regulation (EC) No.1333/2008 of the European Parliament and of the Council on food additives[^f00014] as read with Regulation 231/2012[^c-a33ed735129a6ba6f95383db8f48084b];
+- “Regulation 1129/2011” means Commission Regulation ([^c-da17d2e762467419a33ca4aa67c4fcbb]EU) No. 1129/2011 amending Annex II to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council by establishing a Union list of food additives, as read with Commission Regulation (EU) No. 1131/2011 amending Annex II to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council with regard to steviol glycosides;
 - “Regulation 1130/2011” means Commission Regulation (EU) No. 1130/2011 amending Annex III to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives by establishing a Union list of food additives approved for use in food additives, food enzymes, food flavourings and nutrients;
 - “Regulation 231/2012” means Commission Regulation (EU) No. 231/2012 laying down specifications for food additives listed in Annexes II and III to Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council;
 - “relevant food additive” means any miscellaneous additive, colour or sweetener, or an enzyme which is not acting as a processing aid;
@@ -157,113 +157,113 @@ These Regulations may be cited as the Food Additives Regulations (Northern Irela
 
 (4) Any reference to an EU instrument is a reference to it as amended, extended or applied at the date of making of these Regulations but any reference to an Annex to an EU instrument that is specified in paragraph (5) is a reference to that Annex as for the time being amended.
 
-(5)[^key-cdaf613cf140de56f40e7213fadc5da6] The EU instruments are Directive 94/35, Directive 95/2, Regulation 1333/2008 and Regulation 231/2012.
+(5)[^c-cdaf613cf140de56f40e7213fadc5da6] The EU instruments are Directive 94/35, Directive 95/2, Regulation 1333/2008 and Regulation 231/2012.
 
 (6) The Interpretation Act (Northern Ireland) 1954[^f00015] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Use of colours in or on food[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 3. Use of colours in or on food[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Health marking etc. of certain meat and meat products[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 4. Health marking etc. of certain meat and meat products[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Use of colours on eggshells[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 5. Use of colours on eggshells[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Sale of colours and food containing colours[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 6. Sale of colours and food containing colours[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provision[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 7. Transitional provision[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Use of miscellaneous additives[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 8. Use of miscellaneous additives[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Sale of food additives and food containing miscellaneous additives[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 9. Sale of food additives and food containing miscellaneous additives[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions and exemption[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 10. Transitional provisions and exemption[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Placing on the market and use of sweeteners[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 11. Placing on the market and use of sweeteners[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Sale of food containing sweeteners[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 12. Sale of food containing sweeteners[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Transitional provision[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 13. Transitional provision[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences and Penalties[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 14. Offences and Penalties[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Execution and Enforcement[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 15. Execution and Enforcement[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 16. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Condemnation of food[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 17. Condemnation of food[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Consequential amendments[^key-ac9d0859b880d54ff9f0cbf1366940cd]
+## 18. Consequential amendments[^c-ac9d0859b880d54ff9f0cbf1366940cd]
 
-(1)[^key-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cde5b10d5519691fea6e152afd087b6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cde5b10d5519691fea6e152afd087b6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7faf6e8ec9a50270389a1ce3e9082f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendment of the Specified Sugar Products Regulations (Northern Ireland) 2003[^key-febb3b0bcb513c9181016be7b818904b]
+## 19. Amendment of the Specified Sugar Products Regulations (Northern Ireland) 2003[^c-febb3b0bcb513c9181016be7b818904b]
 
 In the Specified Sugar Products Regulations (Northern Ireland) 2003[^f00035], for Note 7 to Schedule 1 (specified sugar products and their reserved descriptions) there is substituted—
 
@@ -271,7 +271,7 @@ In the Specified Sugar Products Regulations (Northern Ireland) 2003[^f00035], fo
 
 .
 
-## 20. Revocations[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## 20. Revocations[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
@@ -283,7 +283,7 @@ Sean Donaghy
 
 A senior officer of the Department of Health, Social Services and Public Safety
 
-## SCHEDULE 1 — SPECIFIED REGULATION 1333/2008 PROVISIONS[^key-7faf6e8ec9a50270389a1ce3e9082f5d]
+## SCHEDULE 1 — SPECIFIED REGULATION 1333/2008 PROVISIONS[^c-7faf6e8ec9a50270389a1ce3e9082f5d]
 
 **No longer in force.**
 
@@ -291,7 +291,7 @@ Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REGULATIONS REVOKED[^key-c39c1407409bdd86593d7e86b7876a19]
+## SCHEDULE 2 — REGULATIONS REVOKED[^c-c39c1407409bdd86593d7e86b7876a19]
 
 Regulation 20
 
@@ -372,9 +372,9 @@ These Regulations also—
 
 [^f00004]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 /EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188,18.7.2009 p.14)
 
-[^key-90df999041d19f5d927557fc50230339]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
+[^c-90df999041d19f5d927557fc50230339]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
 
-[^key-0c14935ab3f38bbb769126abe2a4c20d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/416/regulation/2) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
+[^c-0c14935ab3f38bbb769126abe2a4c20d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/416/regulation/2) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
 
 [^f00005]: Footnote: OJ No. L184, 15.7.1988, p.61, as last amended by Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council adapting to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) the provisions relating to committees which assist the Commission in the exercise of its implementing powers laid down in instruments subject to the procedure referred to in Article 251 of the EC Treaty (OJ No. L284, 31.10.2003, p.1)
 
@@ -394,30 +394,30 @@ These Regulations also—
 
 [^f00013]: Footnote: OJ No. L330, 5.12.1998, p.32
 
-[^key-732ac30fa2594c54087ee47017b19b22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/a)
+[^c-732ac30fa2594c54087ee47017b19b22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/a)
 
-[^key-a72f84c396f04084a474d00782a38f98]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/b)
+[^c-a72f84c396f04084a474d00782a38f98]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/b)
 
-[^key-411a25bbfc3abf1301ca4d57dcd38791]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/c)
+[^c-411a25bbfc3abf1301ca4d57dcd38791]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/c)
 
 [^f00014]: Footnote: OJ No. L354, 31.12.2008, p.16
 
-[^key-a33ed735129a6ba6f95383db8f48084b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/d)
+[^c-a33ed735129a6ba6f95383db8f48084b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/d)
 
-[^key-da17d2e762467419a33ca4aa67c4fcbb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/e)
+[^c-da17d2e762467419a33ca4aa67c4fcbb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/1) inserted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(2)(e)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/2/e)
 
-[^key-cdaf613cf140de56f40e7213fadc5da6]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/5) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/3)
+[^c-cdaf613cf140de56f40e7213fadc5da6]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2009/416/regulation/2/5) substituted (23.5.2012) by [The Food Additives (Amendment) and the Extraction Solvents in Food (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/180)](https://www.legislation.gov.uk/nisr/2012/180), [regs. 1](https://www.legislation.gov.uk/nisr/2012/180/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/180/regulation/2/3)
 
 [^f00015]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7faf6e8ec9a50270389a1ce3e9082f5d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/416) revoked in pt. (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [reg. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)
+[^c-7faf6e8ec9a50270389a1ce3e9082f5d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/416) revoked in pt. (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [reg. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)
 
-[^key-ac9d0859b880d54ff9f0cbf1366940cd]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/416/regulation/18) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
+[^c-ac9d0859b880d54ff9f0cbf1366940cd]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2009/416/regulation/18) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
 
-[^key-cde5b10d5519691fea6e152afd087b6d]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/2009/416/regulation/18/4) revoked (13.12.2014) by [The Products Containing Meat etc. Regulations (Northern Ireland) 2014 (S.R. 2014/285)](https://www.legislation.gov.uk/nisr/2014/285), [regs. 1](https://www.legislation.gov.uk/nisr/2014/285/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2014/285/regulation/10/c)
+[^c-cde5b10d5519691fea6e152afd087b6d]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/nisr/2009/416/regulation/18/4) revoked (13.12.2014) by [The Products Containing Meat etc. Regulations (Northern Ireland) 2014 (S.R. 2014/285)](https://www.legislation.gov.uk/nisr/2014/285), [regs. 1](https://www.legislation.gov.uk/nisr/2014/285/regulation/1), [10(c)](https://www.legislation.gov.uk/nisr/2014/285/regulation/10/c)
 
-[^key-febb3b0bcb513c9181016be7b818904b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2009/416/regulation/19) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
+[^c-febb3b0bcb513c9181016be7b818904b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2009/416/regulation/19) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
 
 [^f00035]: Footnote: [S.R. 2003 No. 301](https://www.legislation.gov.uk/nisr/2003/301), amended by [S.R. 2005 No. 574](https://www.legislation.gov.uk/nisr/2005/574)
 
-[^key-c39c1407409bdd86593d7e86b7876a19]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)
+[^c-c39c1407409bdd86593d7e86b7876a19]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/416/schedule/2) in operation at 20.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/416/regulation/1)

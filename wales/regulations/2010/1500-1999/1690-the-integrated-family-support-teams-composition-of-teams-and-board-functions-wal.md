@@ -35,7 +35,7 @@ NATIONAL HEALTH SERVICE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Integrated Family Support Teams (Composition of Teams and Board Functions) (Wales) Regulations 2010 (revoked)[^key-af3ac92158fefd05a21bfa98089021af]
+The Integrated Family Support Teams (Composition of Teams and Board Functions) (Wales) Regulations 2010 (revoked)[^c-af3ac92158fefd05a21bfa98089021af]
 
 Made
 
@@ -49,30 +49,30 @@ Coming into force
 
 1 September 2010
 
-[^key-af3ac92158fefd05a21bfa98089021af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af3ac92158fefd05a21bfa98089021af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-af3ac92158fefd05a21bfa98089021af]
+## 1. Citation, commencement, interpretation and application[^c-af3ac92158fefd05a21bfa98089021af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Composition of integrated family support teams[^key-af3ac92158fefd05a21bfa98089021af]
+## 2. Composition of integrated family support teams[^c-af3ac92158fefd05a21bfa98089021af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-af3ac92158fefd05a21bfa98089021af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-af3ac92158fefd05a21bfa98089021af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Integrated Family Support Boards[^key-af3ac92158fefd05a21bfa98089021af]
+## 4. Integrated Family Support Boards[^c-af3ac92158fefd05a21bfa98089021af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af3ac92158fefd05a21bfa98089021af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af3ac92158fefd05a21bfa98089021af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af3ac92158fefd05a21bfa98089021af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af3ac92158fefd05a21bfa98089021af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af3ac92158fefd05a21bfa98089021af]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1690) revoked (28.2.2012) by [The Integrated Family Support Teams (Composition of Teams and Board Functions) (Wales) Regulations 2012 (revoked) 2012 (S.I. 2012/202)](https://www.legislation.gov.uk/wsi/2012/202), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/202/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2012/202/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2012/202/regulation/1/3))
+[^c-af3ac92158fefd05a21bfa98089021af]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1690) revoked (28.2.2012) by [The Integrated Family Support Teams (Composition of Teams and Board Functions) (Wales) Regulations 2012 (revoked) 2012 (S.I. 2012/202)](https://www.legislation.gov.uk/wsi/2012/202), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/202/regulation/1/1), [5](https://www.legislation.gov.uk/wsi/2012/202/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2012/202/regulation/1/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197A. Operating leases[^key-6a256892fe44aea35d3f09a668c75c13]
+## 197A. Operating leases[^c-6a256892fe44aea35d3f09a668c75c13]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 - (b) that property is held for lease by the member, and
 - (c) the lease is accounted for in the underlying profits accounts of the member as an operating lease for that period.
 
-(2) The property[^key-ad3977225d82fddd4d74ed4f9ea3b453] is to be regarded as an eligible tangible asset of the member for that period (despite the exclusion in section 197(7)(a)).
+(2) The property[^c-ad3977225d82fddd4d74ed4f9ea3b453] is to be regarded as an eligible tangible asset of the member for that period (despite the exclusion in section 197(7)(a)).
 
-(3) But where the property is not a short-term rental asset for that period, any carrying value of the property[^key-f92abd308258e93b5419aec196bcdfc2] recorded at the start or the end of the period is to be reduced by the right-of-use amount for the property at that time for the purposes of carrying out the calculation in section 197(1).
+(3) But where the property is not a short-term rental asset for that period, any carrying value of the property[^c-f92abd308258e93b5419aec196bcdfc2] recorded at the start or the end of the period is to be reduced by the right-of-use amount for the property at that time for the purposes of carrying out the calculation in section 197(1).
 
 (4) In a case where the lessee is a member of the same multinational group as the lessor, the right-of-use amount in relation to the property at the start or the end of the period is the carrying value of the lessee’s right-of-use asset in relation to the property recorded at that time.
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6a256892fe44aea35d3f09a668c75c13]: Textual amendment: S. 197A inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 25(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/25/2)
+[^c-6a256892fe44aea35d3f09a668c75c13]: Textual amendment: S. 197A inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 25(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/25/2)
 
-[^key-ad3977225d82fddd4d74ed4f9ea3b453]: Textual amendment: Word in [s. 197A(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/197A/2) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 43](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/43), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-ad3977225d82fddd4d74ed4f9ea3b453]: Textual amendment: Word in [s. 197A(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/197A/2) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 43](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/43), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-f92abd308258e93b5419aec196bcdfc2]: Textual amendment: Word in [s. 197A(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/197A/3) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 43](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/43), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-f92abd308258e93b5419aec196bcdfc2]: Textual amendment: Word in [s. 197A(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/197A/3) substituted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 43](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/43), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

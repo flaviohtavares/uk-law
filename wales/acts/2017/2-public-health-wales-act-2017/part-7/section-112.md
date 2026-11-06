@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Pharmaceutical lists[^key-c2a7121be16516545704f668661872f4]
+## 112. Pharmaceutical lists[^c-c2a7121be16516545704f668661872f4]
 
 *Extent: E+W*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2a7121be16516545704f668661872f4]: Commencement: [S. 112](https://www.legislation.gov.uk/anaw/2017/2/section/112) in force at 1.4.2019 by [S.I. 2019/829](https://www.legislation.gov.uk/wsi/2019/829), [art. 2](https://www.legislation.gov.uk/wsi/2019/829/article/2)
+[^c-c2a7121be16516545704f668661872f4]: Commencement: [S. 112](https://www.legislation.gov.uk/anaw/2017/2/section/112) in force at 1.4.2019 by [S.I. 2019/829](https://www.legislation.gov.uk/wsi/2019/829), [art. 2](https://www.legislation.gov.uk/wsi/2019/829/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Forfeiture of money held in bank and building society accounts[^key-a25c632bef386d557a1b828b5fcfddd2][^key-6a4b03e046c19ecfc923a07d96237824][^c22725431]
+## 40. Forfeiture of money held in bank and building society accounts[^c-a25c632bef386d557a1b828b5fcfddd2][^c-6a4b03e046c19ecfc923a07d96237824][^c22725431]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ Schedule 4 contains amendments to the Anti-terrorism, Crime and Security Act 200
 
 ## Annotations
 
-[^key-a25c632bef386d557a1b828b5fcfddd2]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/22/section/40) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/f)
+[^c-a25c632bef386d557a1b828b5fcfddd2]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/22/section/40) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/f)
 
-[^key-6a4b03e046c19ecfc923a07d96237824]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/22/section/40) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/v)
+[^c-6a4b03e046c19ecfc923a07d96237824]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/22/section/40) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/v)
 
 [^c22725431]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/22/section/40) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

@@ -40,16 +40,16 @@ on the reference document referred to in Article 27(4) of Directive 2008/57/EC 
 
 (2009/965/EC) (revoked)
 
-[^key-7dc822ac6920ff491824e0bc3c5c39aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dc822ac6920ff491824e0bc3c5c39aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7dc822ac6920ff491824e0bc3c5c39aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7dc822ac6920ff491824e0bc3c5c39aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7dc822ac6920ff491824e0bc3c5c39aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7dc822ac6920ff491824e0bc3c5c39aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — List of parameters to be used for classifying national rules in the reference document referred to in Article 27 of Directive 2008/57/EC[^key-7dc822ac6920ff491824e0bc3c5c39aa]
+## ANNEX — List of parameters to be used for classifying national rules in the reference document referred to in Article 27 of Directive 2008/57/EC[^c-7dc822ac6920ff491824e0bc3c5c39aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dc822ac6920ff491824e0bc3c5c39aa]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-7dc822ac6920ff491824e0bc3c5c39aa]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

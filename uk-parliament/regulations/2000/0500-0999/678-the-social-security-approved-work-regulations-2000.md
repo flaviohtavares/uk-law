@@ -74,19 +74,19 @@ These Regulations may be cited as the Social Security (Approved Work) Regulation
   ;
 - (b) in paragraph (6B)(a), the words “throughout that period" shall be omitted.
 
-(3) In both regulation 26 of the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc] [^c1619573] and regulation 35 of the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc] [^c1619574] (which relate to notional income)– *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
+(3) In both regulation 26 of the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc] [^c1619573] and regulation 35 of the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc] [^c1619574] (which relate to notional income)– *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
 
-- (a) in paragraph (5)– *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
-  - (i) at the beginning, there shall be inserted the words *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc] “ Subject to paragraph (5A), ” *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc];
-  - (ii (affected by repeal, see note))[^key-7bdfc78d580ae497e48238527c30b6dc] the words from “; but this paragraph" to the end of the paragraph shall be omitted; *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
-- (b) after paragraph (5) there shall be inserted the following paragraph– *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
+- (a) in paragraph (5)– *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
+  - (i) at the beginning, there shall be inserted the words *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc] “ Subject to paragraph (5A), ” *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc];
+  - (ii (affected by repeal, see note))[^c-7bdfc78d580ae497e48238527c30b6dc] the words from “; but this paragraph" to the end of the paragraph shall be omitted; *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
+- (b) after paragraph (5) there shall be inserted the following paragraph– *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
 
-  > (5A) Paragraph (5) shall not apply– *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
+  > (5A) Paragraph (5) shall not apply– *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
   >
-  > - (a) to a claimant who is engaged by a charitable or voluntary organisation or who is a volunteer if the appropriate authority is satisfied in any of those cases that it is reasonable for him to provide those services free of charge; or *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
-  > - (b) in a case where the service is performed in connection with– *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
-  >   - (i) the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(q) of the Jobseeker’s Allowance Regulations 1996; or *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
-  >   - (ii (affected by repeal, see note))[^key-7bdfc78d580ae497e48238527c30b6dc] the claimant’s or the claimant’s partner’s participation in an employment or training programme as defined in regulation 19(3) of those Regulations for which a training allowance is not payable or, where such an allowance is payable, it is payable for the sole purpose of reimbursement of travelling or meal expenses to the person participating in that programme. *(affected by repeal, see note)*[^key-7bdfc78d580ae497e48238527c30b6dc]
+  > - (a) to a claimant who is engaged by a charitable or voluntary organisation or who is a volunteer if the appropriate authority is satisfied in any of those cases that it is reasonable for him to provide those services free of charge; or *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
+  > - (b) in a case where the service is performed in connection with– *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
+  >   - (i) the claimant’s participation in an employment or training programme in accordance with regulation 19(1)(q) of the Jobseeker’s Allowance Regulations 1996; or *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
+  >   - (ii (affected by repeal, see note))[^c-7bdfc78d580ae497e48238527c30b6dc] the claimant’s or the claimant’s partner’s participation in an employment or training programme as defined in regulation 19(3) of those Regulations for which a training allowance is not payable or, where such an allowance is payable, it is payable for the sole purpose of reimbursement of travelling or meal expenses to the person participating in that programme. *(affected by repeal, see note)*[^c-7bdfc78d580ae497e48238527c30b6dc]
 
   .
 
@@ -242,7 +242,7 @@ These Regulations do not impose any charge on business.
 
 [^c1619572]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); paragraphs (6A) and (6B) of regulation 42 were inserted by [S.I. 1999/2554](https://www.legislation.gov.uk/uksi/1999/2554).
 
-[^key-7bdfc78d580ae497e48238527c30b6dc]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/678/regulation/2/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-7bdfc78d580ae497e48238527c30b6dc]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/678/regulation/2/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1619573]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814); the relevant amending instruments are [S.I. 1995/560](https://www.legislation.gov.uk/uksi/1995/560) and 1997/2863.
 

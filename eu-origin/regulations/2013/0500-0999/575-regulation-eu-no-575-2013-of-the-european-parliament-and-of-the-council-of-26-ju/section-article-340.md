@@ -50,7 +50,7 @@ M
 
 total maturity.
 
-Correction shall be made to the calculation of the modified duration for debt instruments which are subject to prepayment risk. [^key-1fe253f23dd0bc8665bf1deed927354a]...
+Correction shall be made to the calculation of the modified duration for debt instruments which are subject to prepayment risk. [^c-1fe253f23dd0bc8665bf1deed927354a]...
 
 4. The institution shall then allocate each debt instrument to the appropriate zone in Table 3. It shall do so on the basis of the modified duration of each instrument.
 
@@ -79,4 +79,4 @@ The institution shall then calculate the unmatched duration-weighted positions f
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-1fe253f23dd0bc8665bf1deed927354a]: Textual amendment: Words in [Art. 340(3)](https://www.legislation.gov.uk/eur/2013/575/article/340/3) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [161](https://www.legislation.gov.uk/uksi/2018/1401/regulation/161) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fe253f23dd0bc8665bf1deed927354a]: Textual amendment: Words in [Art. 340(3)](https://www.legislation.gov.uk/eur/2013/575/article/340/3) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [161](https://www.legislation.gov.uk/uksi/2018/1401/regulation/161) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

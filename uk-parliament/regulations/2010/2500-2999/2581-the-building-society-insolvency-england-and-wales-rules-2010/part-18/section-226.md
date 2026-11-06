@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 226. Office copies of documents[^key-9211111f30f8d386ce3dbc70b1b5fe8e]
+## 226. Office copies of documents[^c-9211111f30f8d386ce3dbc70b1b5fe8e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.61 of the 1986 Rules.
 
 ## Annotations
 
-[^key-9211111f30f8d386ce3dbc70b1b5fe8e]: Commencement: Rule 226 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9211111f30f8d386ce3dbc70b1b5fe8e]: Commencement: Rule 226 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

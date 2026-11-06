@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64A. Paying for sexual services of a person[^key-b4863e007e5b85d332827534779b0328]
+## 64A. Paying for sexual services of a person[^c-b4863e007e5b85d332827534779b0328]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) In paragraph (1), “ **payment** ” means any financial advantage to B, or any person other than B, including the discharge of an obligation to pay or the provision of goods or services (other than sexual services)gratuitously or at a discount.
 
-(4)[^key-e6f55586db2e267c96445cceea5377b4] No offence is committed under this Article unless the sexual services that are provided or are to be provided by B to A fall within paragraph (4A) or (4B).
+(4)[^c-e6f55586db2e267c96445cceea5377b4] No offence is committed under this Article unless the sexual services that are provided or are to be provided by B to A fall within paragraph (4A) or (4B).
 
 (4A) Sexual services fall within this paragraph if they involve—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4863e007e5b85d332827534779b0328]: Textual amendment: Art. 64A substituted (1.6.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 15(5)](https://www.legislation.gov.uk/nia/2015/2/section/15/5), [28(5)](https://www.legislation.gov.uk/nia/2015/2/section/28/5)
+[^c-b4863e007e5b85d332827534779b0328]: Textual amendment: Art. 64A substituted (1.6.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 15(5)](https://www.legislation.gov.uk/nia/2015/2/section/15/5), [28(5)](https://www.legislation.gov.uk/nia/2015/2/section/28/5)
 
-[^key-e6f55586db2e267c96445cceea5377b4]: Textual amendment: [Art. 64A(4)-(4B)](https://www.legislation.gov.uk/nisi/2008/1769/article/64A/4) substituted for [art. 64A(4)](https://www.legislation.gov.uk/nisi/2008/1769/article/64A/4) (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/10); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-e6f55586db2e267c96445cceea5377b4]: Textual amendment: [Art. 64A(4)-(4B)](https://www.legislation.gov.uk/nisi/2008/1769/article/64A/4) substituted for [art. 64A(4)](https://www.legislation.gov.uk/nisi/2008/1769/article/64A/4) (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/10); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)

@@ -134,7 +134,7 @@ Section 10
 
 **11.** [^c2033768]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Registration of marriages and civil partnerships[^key-587f6cc89f1f3c51c44b0a50c74c01b9]
+#### Registration of marriages and civil partnerships[^c-587f6cc89f1f3c51c44b0a50c74c01b9]
 
 **11A.** (1) The Registrar General may make regulations about—
 
@@ -148,7 +148,7 @@ Section 10
 
 (3) In this paragraph—
 
-- “ **qualifying civil partnership** ” means a civil partnership under the law of England and Wales in a case where a full gender recognition certificate has been issued to one, or each,[^key-1aaefe6090bacb3a85623fd0e383d9c1] of the civil partners;
+- “ **qualifying civil partnership** ” means a civil partnership under the law of England and Wales in a case where a full gender recognition certificate has been issued to one, or each,[^c-1aaefe6090bacb3a85623fd0e383d9c1] of the civil partners;
 - “ **qualifying marriage** ” means a marriage under the law of England and Wales in a case where a full gender recognition certificate has been issued to one, or each, of the spouses.
 
 ### Part 2 — Scotland
@@ -212,7 +212,7 @@ Section 10
 
 #### Revocation of gender recognition certificate etc.
 
-**19.** (1) This paragraph applies if, after an entry has been made in the Gender Recognition Register in relation to a person, the High Court or the Court of Session makes an order under section 8(6) quashing the decision to grant the person’s application under section 1(1) 4C, 4E,[^key-cf9dceba7440f057ebbd0abfeab2d9c7] [^key-812a8e8fb7d7bac180aa4a4c290b2580]... , 5(2) or 5A(2)[^c2033451].
+**19.** (1) This paragraph applies if, after an entry has been made in the Gender Recognition Register in relation to a person, the High Court or the Court of Session makes an order under section 8(6) quashing the decision to grant the person’s application under section 1(1) 4C, 4E,[^c-cf9dceba7440f057ebbd0abfeab2d9c7] [^c-812a8e8fb7d7bac180aa4a4c290b2580]... , 5(2) or 5A(2)[^c2033451].
 
 (2) The High Court or the Court of Session must inform the Registrar General.
 
@@ -222,7 +222,7 @@ Section 10
 
 **20.** sections 41 and 41A[^c2034439] [^c2034443] of the 1965 Act (authentication of extracts etc. and their admissibility as evidence) apply[^c2034441] in relation to the Gender Recognition Register as in relation to the registers kept under the provisions of that Act.
 
-**20A.**[^key-308e26166ebf73382d2a3d16d6cc052a] (1) The Registrar General may, with the approval of the Scottish Ministers, make regulations about—
+**20A.**[^c-308e26166ebf73382d2a3d16d6cc052a] (1) The Registrar General may, with the approval of the Scottish Ministers, make regulations about—
 
 - (a) the registration of qualifying Scottish marriages, and
 - (b) the registration of qualifying Scottish civil partnerships.
@@ -233,7 +233,7 @@ Section 10
 
 (4) In this paragraph—
 
-- “qualifying Scottish civil partnership” means a civil partnership registered in Scotland in a case where a full gender recognition certificate has been issued to one, or each,[^key-055e6d185adb981c7615534bb99f937b] of the civil partners,
+- “qualifying Scottish civil partnership” means a civil partnership registered in Scotland in a case where a full gender recognition certificate has been issued to one, or each,[^c-055e6d185adb981c7615534bb99f937b] of the civil partners,
 - “ **qualifying Scottish marriage** ” means a marriage solemnised in Scotland in a case where a full gender recognition certificate has been issued to one, or each, of the spouses.
 
 ### Part 3 — Northern Ireland
@@ -255,9 +255,9 @@ Section 10
 
 (3) The form in which the Gender Recognition Register is maintained is to be determined by the Registrar General.
 
-(4) Subject to sub-paragraph (5), the[^key-c8591690df8c0ccbc03f0e1a4da0680b] Gender Recognition Register is not to be open to public inspection or search.
+(4) Subject to sub-paragraph (5), the[^c-c8591690df8c0ccbc03f0e1a4da0680b] Gender Recognition Register is not to be open to public inspection or search.
 
-(5)[^key-eac2de92354c84c14ddb30299bf307ba] The Department of Finance and Personnel may by regulations make provision for any person to have access, on payment of the prescribed fee, to any information contained in the Gender Recognition Register.
+(5)[^c-eac2de92354c84c14ddb30299bf307ba] The Department of Finance and Personnel may by regulations make provision for any person to have access, on payment of the prescribed fee, to any information contained in the Gender Recognition Register.
 
 (6) Regulations under sub-paragraph (5) may provide that the relevant period must have expired in relation to the information.
 
@@ -356,7 +356,7 @@ Section 10
 
 **32.** Article 47 of the 1976 Order (fees for searches, certificates etc.) applies in relation to the Gender Recognition Register as it applies in relation to a register under that Order.
 
-#### Registration of marriages and civil partnerships[^key-1a4c7f9b71022e58dc468b0e37662bb3]
+#### Registration of marriages and civil partnerships[^c-1a4c7f9b71022e58dc468b0e37662bb3]
 
 **33.** (1) The Department of Finance in Northern Ireland may by regulations make provision about—
 
@@ -387,9 +387,9 @@ Section 10
 
 [^c2033768]: Textual amendment: Sch. 3 para. 11 repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [ss. 30](https://www.legislation.gov.uk/ukpga/2006/51/section/30), [33](https://www.legislation.gov.uk/ukpga/2006/51/section/33), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (with [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2))
 
-[^key-587f6cc89f1f3c51c44b0a50c74c01b9]: Textual amendment: Sch. 3 para. 11A and cross-heading inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9/2); [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-587f6cc89f1f3c51c44b0a50c74c01b9]: Textual amendment: Sch. 3 para. 11A and cross-heading inserted (30.6.2014 for specified purposes, 10.12.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9/2); [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-1aaefe6090bacb3a85623fd0e383d9c1]: Textual amendment: Words in [Sch. 3 para. 11A(3)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/11A/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2019/1458/regulation/34) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-1aaefe6090bacb3a85623fd0e383d9c1]: Textual amendment: Words in [Sch. 3 para. 11A(3)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/11A/3) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2019/1458/regulation/34) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
 [^c2035336]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2004/7/section/17) and preceding cross-heading substituted (1.1.2007) by [The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/596/article/2/2)
 
@@ -399,9 +399,9 @@ Section 10
 
 [^c2034437]: Textual amendment: Words in Sch. 3 para. 18 substituted (1.1.2007) by [The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [art. 2(3)](https://www.legislation.gov.uk/ssi/2006/596/article/2/3)
 
-[^key-cf9dceba7440f057ebbd0abfeab2d9c7]: Textual amendment: Words in [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/19/1) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/a); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-cf9dceba7440f057ebbd0abfeab2d9c7]: Textual amendment: Words in [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/19/1) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/a); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-812a8e8fb7d7bac180aa4a4c290b2580]: Textual amendment: Word in [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/19) repealed (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(19)(a)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/19/a); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-812a8e8fb7d7bac180aa4a4c290b2580]: Textual amendment: Word in [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/19) repealed (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(19)(a)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/19/a); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
 [^c2033451]: Textual amendment: Words in Sch. 3 para. 19(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 250(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/250/9), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 3](https://www.legislation.gov.uk/uksi/2005/3175/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3175/schedule/2)
 
@@ -411,14 +411,14 @@ Section 10
 
 [^c2034441]: Textual amendment: Word in Sch. 3 para. 20 substituted (1.1.2007) by [The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [art. 2(4)(b)](https://www.legislation.gov.uk/ssi/2006/596/article/2/4/b)
 
-[^key-308e26166ebf73382d2a3d16d6cc052a]: Textual amendment: Sch. 3 para. 20A inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/b); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), Sch.); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-308e26166ebf73382d2a3d16d6cc052a]: Textual amendment: Sch. 3 para. 20A inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/b); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), Sch.); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-055e6d185adb981c7615534bb99f937b]: Textual amendment: Words in [Sch. 3 para. 20A(4)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/20A/4) substituted (18.1.2021 for specified purposes, 30.11.2021 in so far as not already in force) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(19)(b)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/19/b); [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/c); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-055e6d185adb981c7615534bb99f937b]: Textual amendment: Words in [Sch. 3 para. 20A(4)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/3/paragraph/20A/4) substituted (18.1.2021 for specified purposes, 30.11.2021 in so far as not already in force) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(19)(b)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/19/b); [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/c); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
-[^key-c8591690df8c0ccbc03f0e1a4da0680b]: Textual amendment: Words in Sch. 3 para. 22(4) substituted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 26(2)](https://www.legislation.gov.uk/nia/2011/20/section/26/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-c8591690df8c0ccbc03f0e1a4da0680b]: Textual amendment: Words in Sch. 3 para. 22(4) substituted (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 26(2)](https://www.legislation.gov.uk/nia/2011/20/section/26/2), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-eac2de92354c84c14ddb30299bf307ba]: Textual amendment: Sch. 3 para. 22(5)-(8) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 26(3)](https://www.legislation.gov.uk/nia/2011/20/section/26/3), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-eac2de92354c84c14ddb30299bf307ba]: Textual amendment: Sch. 3 para. 22(5)-(8) added (16.11.2012) by [Civil Registration Act (Northern Ireland) 2011 (c. 20)](https://www.legislation.gov.uk/nia/2011/20), [ss. 26(3)](https://www.legislation.gov.uk/nia/2011/20/section/26/3), [34](https://www.legislation.gov.uk/nia/2011/20/section/34); [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
 [^c2033454]: Textual amendment: Words in Sch. 3 para. 29(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 250(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/250/9), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 3](https://www.legislation.gov.uk/uksi/2005/3175/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3175/schedule/2)
 
-[^key-1a4c7f9b71022e58dc468b0e37662bb3]: Textual amendment: Sch. 3 para. 33 and cross-heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [48](https://www.legislation.gov.uk/uksi/2019/1514/regulation/48) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-1a4c7f9b71022e58dc468b0e37662bb3]: Textual amendment: Sch. 3 para. 33 and cross-heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [48](https://www.legislation.gov.uk/uksi/2019/1514/regulation/48) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

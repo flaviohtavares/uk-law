@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Extension of period where responsible person not of the requisite opinion[^key-2533fbe4fcb42e629e07429a8b158b3a]
+## 40. Extension of period where responsible person not of the requisite opinion[^c-2533fbe4fcb42e629e07429a8b158b3a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule3 makes provision for cases where it is proposed to make an extension un
 
 ## Annotations
 
-[^key-2533fbe4fcb42e629e07429a8b158b3a]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/18/section/40) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-2533fbe4fcb42e629e07429a8b158b3a]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2016/18/section/40) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Abatement of works abandoned or decayed[^key-f81a25208e2a65971220cc77caaff25a]
+## 18. Abatement of works abandoned or decayed[^c-f81a25208e2a65971220cc77caaff25a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f81a25208e2a65971220cc77caaff25a]: Commencement: Art. 18 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-f81a25208e2a65971220cc77caaff25a]: Commencement: Art. 18 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

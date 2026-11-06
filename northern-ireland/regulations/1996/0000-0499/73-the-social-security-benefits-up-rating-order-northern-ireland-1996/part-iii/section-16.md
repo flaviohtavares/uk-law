@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Family credit[^key-675f8f0bb0941c4e64ddc9fb18fe1d5c]
+## 16. Family credit[^c-675f8f0bb0941c4e64ddc9fb18fe1d5c]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ In the Family Credit (General) Regulations (Northern Ireland) 1987[^f00025]—
 
 ## Annotations
 
-[^key-675f8f0bb0941c4e64ddc9fb18fe1d5c]: Commencement: Art. 16 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
+[^c-675f8f0bb0941c4e64ddc9fb18fe1d5c]: Commencement: Art. 16 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
 
 [^f00025]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending provisions are [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 77](https://www.legislation.gov.uk/nisr/1994/77) and [274](https://www.legislation.gov.uk/nisr/1994/274) and [S.R. 1995 Nos. 71](https://www.legislation.gov.uk/nisr/1995/71), [86](https://www.legislation.gov.uk/nisr/1995/86) and [223](https://www.legislation.gov.uk/nisr/1995/223)
 

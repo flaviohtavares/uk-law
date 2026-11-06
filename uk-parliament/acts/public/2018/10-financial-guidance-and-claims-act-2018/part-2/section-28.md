@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Power of FCA to make rules restricting charges for claims management services[^key-dab26af70bf23f873d43d738e53f1b33]
+## 28. Power of FCA to make rules restricting charges for claims management services[^c-dab26af70bf23f873d43d738e53f1b33]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dab26af70bf23f873d43d738e53f1b33]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2018/10/section/28) in force at 29.3.2019 by [S.I. 2019/743](https://www.legislation.gov.uk/uksi/2019/743), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/743/regulation/2/a)
+[^c-dab26af70bf23f873d43d738e53f1b33]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2018/10/section/28) in force at 29.3.2019 by [S.I. 2019/743](https://www.legislation.gov.uk/uksi/2019/743), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/743/regulation/2/a)

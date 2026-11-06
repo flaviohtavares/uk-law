@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.18. Voting rights (members)[^key-3ce461a264736cd7c6acf1c8626a6cbd]
+## 1.18. Voting rights (members)[^c-3ce461a264736cd7c6acf1c8626a6cbd]
 
 *Extent: E+W*
 
 (1) Subject as follows, members of the company at their meeting vote according to the rights attaching to their shares respectively in accordance with the articles.
 
-(2)[^key-7d68041ee4d59f1634bb853bf633351f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7d68041ee4d59f1634bb853bf633351f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) References in this Rule to a person's shares include any other interest which he may have as a member of the company.
 
 ## Annotations
 
-[^key-3ce461a264736cd7c6acf1c8626a6cbd]: Commencement: Rule 1.18 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3ce461a264736cd7c6acf1c8626a6cbd]: Commencement: Rule 1.18 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-7d68041ee4d59f1634bb853bf633351f]: Textual amendment: Rule 1.18(2) omitted (1.1.2003) by virtue of [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/9) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-7d68041ee4d59f1634bb853bf633351f]: Textual amendment: Rule 1.18(2) omitted (1.1.2003) by virtue of [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/9) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))

@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (revoked)[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]
+The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (revoked)[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]
 
 Made
 
@@ -52,26 +52,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]
+## 1. Citation, commencement and revocation[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Variation of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]
+## 3. Variation of the Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2001[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac5a00c5e35fdcc98b1d4c19de9b1e95]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/745) revoked (6.4.2013) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013 (S.I. 2013/240)](https://www.legislation.gov.uk/uksi/2013/240), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/240/article/1/2) (with [art. 14](https://www.legislation.gov.uk/uksi/2013/240/article/14))
+[^c-ac5a00c5e35fdcc98b1d4c19de9b1e95]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/745) revoked (6.4.2013) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) Order 2013 (S.I. 2013/240)](https://www.legislation.gov.uk/uksi/2013/240), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/240/article/1/2) (with [art. 14](https://www.legislation.gov.uk/uksi/2013/240/article/14))

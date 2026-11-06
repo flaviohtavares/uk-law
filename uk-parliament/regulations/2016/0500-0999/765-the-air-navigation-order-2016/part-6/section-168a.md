@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168A. Declared training organisation[^key-af2bb45e1a39ee279f93453b135cfc63]
+## 168A. Declared training organisation[^c-af2bb45e1a39ee279f93453b135cfc63]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af2bb45e1a39ee279f93453b135cfc63]: Textual amendment: [Art. 168A](https://www.legislation.gov.uk/uksi/2016/765/article/168A) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [13](https://www.legislation.gov.uk/uksi/2025/850/article/13)
+[^c-af2bb45e1a39ee279f93453b135cfc63]: Textual amendment: [Art. 168A](https://www.legislation.gov.uk/uksi/2016/765/article/168A) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [13](https://www.legislation.gov.uk/uksi/2025/850/article/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.54. Security[^key-971b0102cd49eba4edd6dfe195dc59eb]
+## 33.54. Security[^c-971b0102cd49eba4edd6dfe195dc59eb]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ by the date specified.
 
 ## Annotations
 
-[^key-971b0102cd49eba4edd6dfe195dc59eb]: Commencement: [Rule 33.54](https://www.legislation.gov.uk/uksi/2025/909/rule/33.54) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-971b0102cd49eba4edd6dfe195dc59eb]: Commencement: [Rule 33.54](https://www.legislation.gov.uk/uksi/2025/909/rule/33.54) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00847]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 55(8) was amended by section 51(1) and (2) of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).

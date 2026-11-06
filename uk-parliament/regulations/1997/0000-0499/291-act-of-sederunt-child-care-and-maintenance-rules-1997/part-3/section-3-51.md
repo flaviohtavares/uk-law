@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.51. Decision of sheriff[^key-b6b4a54822ccf5ec16ba6b13d7f5a771]
+## 3.51. Decision of sheriff[^c-b6b4a54822ccf5ec16ba6b13d7f5a771]
 
 *Extent: S*
 
@@ -26,16 +26,16 @@ summary: ''
 
 - (a) the child, except where service on the child has been dispensed with in terms of rule 3.3;
 - (b) any relevant person whose whereabouts are known;
-- (c) any safeguarder and curator[^key-5eae27a0b0207c3b4a497ab1494629e3] *ad litem*;
-- (d) the Principal Reporter; and[^key-490f260bcfe3c0842afe27890ce54051]
+- (c) any safeguarder and curator[^c-5eae27a0b0207c3b4a497ab1494629e3] *ad litem*;
+- (d) the Principal Reporter; and[^c-490f260bcfe3c0842afe27890ce54051]
 - (e) such other persons as the sheriff may direct.
 
 (3) The sheriff may, when giving his decision in terms of paragraph (1) or within 7 days thereafter, issue a note of the reasons for his decision and the sheriff clerk shall forthwith send a copy of such a note to the persons referred to in paragraph (2).
 
 ## Annotations
 
-[^key-b6b4a54822ccf5ec16ba6b13d7f5a771]: Commencement: Rule 3.51 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-b6b4a54822ccf5ec16ba6b13d7f5a771]: Commencement: Rule 3.51 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-5eae27a0b0207c3b4a497ab1494629e3]: Textual amendment: Words in rule 3.51(2)(c) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(39)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/39/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-5eae27a0b0207c3b4a497ab1494629e3]: Textual amendment: Words in rule 3.51(2)(c) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(39)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/39/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
 
-[^key-490f260bcfe3c0842afe27890ce54051]: Textual amendment: Rule 3.51(2)(e) and word inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(39)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/39/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-490f260bcfe3c0842afe27890ce54051]: Textual amendment: Rule 3.51(2)(e) and word inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(39)(b)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/39/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

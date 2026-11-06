@@ -31,10 +31,10 @@ summary: ''
 
 of 11 December 1992 setting out the application arrangements of Council Decision 91/341/EEC providing for the adoption of a programme of community action for the vocational training of customs officials (Matthaeus Programme) (revoked)
 
-[^key-ff2975e2b2a54010f5aab691d4d8ac14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff2975e2b2a54010f5aab691d4d8ac14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ff2975e2b2a54010f5aab691d4d8ac14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ff2975e2b2a54010f5aab691d4d8ac14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff2975e2b2a54010f5aab691d4d8ac14]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff2975e2b2a54010f5aab691d4d8ac14]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

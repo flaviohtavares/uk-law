@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Ministerial guidance[^key-5da6ea71f427a119cfc22a49e6554e86]
+## 8. Ministerial guidance[^c-5da6ea71f427a119cfc22a49e6554e86]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5da6ea71f427a119cfc22a49e6554e86]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/16/section/8) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-5da6ea71f427a119cfc22a49e6554e86]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/16/section/8) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

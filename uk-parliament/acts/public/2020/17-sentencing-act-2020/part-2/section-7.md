@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Restorative justice requirements[^key-d85b3b8f2de3491f12bdae77b383de37]
+## 7. Restorative justice requirements[^c-d85b3b8f2de3491f12bdae77b383de37]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d85b3b8f2de3491f12bdae77b383de37]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2020/17/section/7) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d85b3b8f2de3491f12bdae77b383de37]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2020/17/section/7) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Requirements for knackers' yards[^key-ad1bee8a3efab7ae7e569e53c223e737]
+## SCHEDULE 4 — Requirements for knackers' yards[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 *Extent: N.I.*
 
@@ -24,44 +24,44 @@ summary: ''
 
 Articles 17, 18 and 19
 
-### 1. General requirements[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 1. General requirements[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ad1bee8a3efab7ae7e569e53c223e737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ad1bee8a3efab7ae7e569e53c223e737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ad1bee8a3efab7ae7e569e53c223e737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ad1bee8a3efab7ae7e569e53c223e737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ad1bee8a3efab7ae7e569e53c223e737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ad1bee8a3efab7ae7e569e53c223e737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Clean and unclean areas in premises producing feeding stuffs for animals whose flesh is not intended for human consumption[^key-ad1bee8a3efab7ae7e569e53c223e737]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Reception and storage facilities in premises not producing feeding stuffs[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 5. Clean and unclean areas in premises producing feeding stuffs for animals whose flesh is not intended for human consumption[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Hides[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 6. Reception and storage facilities in premises not producing feeding stuffs[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Cleansing and disinfection facilities[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 7. Hides[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Repair of installations[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 8. Cleansing and disinfection facilities[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Products of knackers' yards[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 9. Repair of installations[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Feeding stuffs[^key-ad1bee8a3efab7ae7e569e53c223e737]
+### 10. Products of knackers' yards[^c-ad1bee8a3efab7ae7e569e53c223e737]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Feeding stuffs[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad1bee8a3efab7ae7e569e53c223e737]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/209) revoked (3.12.2003) by [Animal By-Products Regulations (Northern Ireland) 2003 (S.R. 2003/495)](https://www.legislation.gov.uk/nisr/2003/495), [reg. 1](https://www.legislation.gov.uk/nisr/2003/495/regulation/1), [Sch. 5 reg. 51](https://www.legislation.gov.uk/nisr/2003/495/schedule/5/regulation/51)
+[^c-ad1bee8a3efab7ae7e569e53c223e737]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/209) revoked (3.12.2003) by [Animal By-Products Regulations (Northern Ireland) 2003 (S.R. 2003/495)](https://www.legislation.gov.uk/nisr/2003/495), [reg. 1](https://www.legislation.gov.uk/nisr/2003/495/regulation/1), [Sch. 5 reg. 51](https://www.legislation.gov.uk/nisr/2003/495/schedule/5/regulation/51)

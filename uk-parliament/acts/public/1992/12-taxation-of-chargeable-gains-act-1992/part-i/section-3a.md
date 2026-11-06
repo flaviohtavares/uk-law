@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Gains connected to avoidance or foreign activities etc[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 3A. Gains connected to avoidance or foreign activities etc[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,11 +34,11 @@ formed part of a scheme or arrangements of which the main purpose, or one of the
 
 and the reference here to the foreign part of a trade is to the part of the trade carried on outside the United Kingdom.
 
-(3)[^key-17b20d4303652a94d28dbabda9b0e8ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-17b20d4303652a94d28dbabda9b0e8ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-17b20d4303652a94d28dbabda9b0e8ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-17b20d4303652a94d28dbabda9b0e8ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-17b20d4303652a94d28dbabda9b0e8ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-17b20d4303652a94d28dbabda9b0e8ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A gain accruing on the disposal of an asset is “connected to other economically significant foreign activities” if—
 
@@ -56,6 +56,6 @@ and the reference here to the foreign part of a trade is to the part of the trad
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
 
-[^key-17b20d4303652a94d28dbabda9b0e8ed]: Textual amendment: [S. 3A(3)-(5)](https://www.legislation.gov.uk/ukpga/1992/12/section/3A/3) omitted (with effect in accordance with Sch. 5 para. 13 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 10(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/10/2), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-17b20d4303652a94d28dbabda9b0e8ed]: Textual amendment: [S. 3A(3)-(5)](https://www.legislation.gov.uk/ukpga/1992/12/section/3A/3) omitted (with effect in accordance with Sch. 5 para. 13 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 10(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/10/2), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

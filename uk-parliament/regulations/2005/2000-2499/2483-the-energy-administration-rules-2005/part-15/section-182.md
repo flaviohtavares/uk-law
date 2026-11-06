@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. “Energy administration proceedings”[^key-2012704202a99dbb6129ffa597eb053f]
+## 182. “Energy administration proceedings”[^c-2012704202a99dbb6129ffa597eb053f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2012704202a99dbb6129ffa597eb053f]: Commencement: Rule 182 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-2012704202a99dbb6129ffa597eb053f]: Commencement: Rule 182 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 384A. Restriction on relief where arrangements minimise risk to borrower[^key-c8b94ea3061f23e562fd4f8747cd3381]
+## 384A. Restriction on relief where arrangements minimise risk to borrower[^c-c8b94ea3061f23e562fd4f8747cd3381]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ that the transactions would not have been entered into or effected independently
 
 ## Annotations
 
-[^key-c8b94ea3061f23e562fd4f8747cd3381]: Textual amendment: S. 384A inserted (with effect in accordance with Sch. 30 para. 1(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 30 para. 1(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/30/paragraph/1/1)
+[^c-c8b94ea3061f23e562fd4f8747cd3381]: Textual amendment: S. 384A inserted (with effect in accordance with Sch. 30 para. 1(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 30 para. 1(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/30/paragraph/1/1)

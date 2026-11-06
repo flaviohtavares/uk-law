@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Prohibition of unauthorised superfund activity[^key-7307f5d42a5dc4659a2b6437fe38be2a]
+## 62. Prohibition of unauthorised superfund activity[^c-7307f5d42a5dc4659a2b6437fe38be2a]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7307f5d42a5dc4659a2b6437fe38be2a]: Commencement: S. 62 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-7307f5d42a5dc4659a2b6437fe38be2a]: Commencement: S. 62 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

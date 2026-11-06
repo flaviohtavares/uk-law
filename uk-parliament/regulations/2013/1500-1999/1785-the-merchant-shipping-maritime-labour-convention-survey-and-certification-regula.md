@@ -61,7 +61,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 (1) In these Regulations—
 
 - “**the Act**” means the Merchant Shipping Act 1995,
-- “**anniversary date**” means the day and the month of each year which will correspond to the original date of expiry[^key-d21ca0f5f7b91201e33e2ff882c25bb2] of the relevant certificate,
+- “**anniversary date**” means the day and the month of each year which will correspond to the original date of expiry[^c-d21ca0f5f7b91201e33e2ff882c25bb2] of the relevant certificate,
 - “**certifying authority**” means—
   - (a) the Secretary of State, or
   - (b) an organisation which has an agreement with the Secretary of State pursuant to Article 5(2) of Directive [2009/15/EC](https://www.legislation.gov.uk/european/directive/2009/0015) of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations [^c21870211] which authorises it to undertake surveys of ships under these Regulations,
@@ -76,36 +76,36 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 - “**Merchant Shipping Notice**” means a notice described as such and issued by the MCA and any reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time,
 - “**pleasure vessel**” means—
   - (a) any vessel which at the time it is being used is—
-    - (i) in the case of a vessel wholly owned by—[^key-3b6ff2511418993873a8a8174b04946c]
+    - (i) in the case of a vessel wholly owned by—[^c-3b6ff2511418993873a8a8174b04946c]
       - (aa) an individual or individuals, used only for the sport or pleasure of the owner or the immediate family or friends of the owner; or
       - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends; and
     - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion, or
   - (b) any vessel wholly owned by or on behalf of a members' club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
 
-  where, in the case of any vessel referred to in paragraph[^key-0d330e8fa15891e9be34564a7e8f7fc1] (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual's spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant,
+  where, in the case of any vessel referred to in paragraph[^c-0d330e8fa15891e9be34564a7e8f7fc1] (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “**immediate family**” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual's spouse or civil partner; and “**relative**” means brother, sister, ancestor or lineal descendant,
 - “**proper officer**” has the meaning given in section 313 of the Act,
 - “**relevant inspector**” means any of the persons mentioned in section 258(1) of the Act,
 - “**sea-going**” in relation to a United Kingdom ship means—
   - (a) a ship which operates outside the waters specified as Category A, B, C and D waters in Merchant Shipping Notice 1837(M) [^c21870251],
   - (b) a ship to which the Merchant Shipping (Survey and Certification) Regulations 1995 [^c21870261] apply and in respect of which no exemption granted under regulation 2(2) of those Regulations applies,
-  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^key-afd73d96774e977469283eb87348cea1]
-  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-7b9e3cd98bdab5997760ea700d392d5e],
+  - (c) a ship which is a large vessel within the meaning of regulation 3(1) of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 in respect of which a certificate of compliance has been issued in accordance with regulation 9 of those Regulations; or[^c-afd73d96774e977469283eb87348cea1]
+  - (d) a high speed craft in respect of which a permit to operate outside waters of Categories A, B, C or D has been issued in accordance with regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022[^c-7b9e3cd98bdab5997760ea700d392d5e],
 - “**seafarer**” means any person, including a master, who is employed or engaged or works in any capacity on board a ship and whose normal place of work is on a ship,
 - “**ship**” includes hovercraft,
 - “**shipowner**” means—
-  - (a) in relation to a ship which has a valid Maritime Labour Certificate or interim Maritime Labour Certificate[^key-6a289bcc9a30481d101dd64cba072f3f], the person identified as the shipowner on that certificate,
+  - (a) in relation to a ship which has a valid Maritime Labour Certificate or interim Maritime Labour Certificate[^c-6a289bcc9a30481d101dd64cba072f3f], the person identified as the shipowner on that certificate,
   - (b) in relation to any other ship, the owner of the ship or, if different, any other organisation or person such as the manager, or the bareboat charterer, that has assumed the responsibility for the operation of the ship from the owner,
-- “**the United Kingdom Maritime Labour Convention standards**” means the requirements imposed in relation to United Kingdom ships by the provisions specified in column 2 of the instruments listed in column 1 of the table contained in the Schedule[^key-883223dd1b733184a81033e212535c8b], and
+- “**the United Kingdom Maritime Labour Convention standards**” means the requirements imposed in relation to United Kingdom ships by the provisions specified in column 2 of the instruments listed in column 1 of the table contained in the Schedule[^c-883223dd1b733184a81033e212535c8b], and
 - “**United Kingdom ship**” means a ship which is—
-  - (a) a United Kingdom ship within the meaning of section 85(2) of the Act, or[^key-745039d7b0c2b822c36069dd912c6d2d]
-  - (b) [^key-993595dd028651f9fb9e20b5f4973e94]...
+  - (a) a United Kingdom ship within the meaning of section 85(2) of the Act, or[^c-745039d7b0c2b822c36069dd912c6d2d]
+  - (b) [^c-993595dd028651f9fb9e20b5f4973e94]...
   - (c) a hovercraft registered under the Hovercraft Act 1968 [^c21870291].
 
 (2) In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of the hovercraft.
 
 ## 3. Amendments to existing regulations
 
-(1)[^key-ece5b294b5adce4491ee4c0988679bbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ece5b294b5adce4491ee4c0988679bbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Schedule to the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c21870311] is amended as follows—
 
@@ -114,9 +114,9 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
 
 ## 4. Application
 
-(1) Subject to paragraph (3), regulations 5 to 8 and 10 to 17 (except regulation 11(3))[^key-e9445dc7109ecfa76fa774821ae064a3] apply to sea-going United Kingdom ships, wherever they may be.
+(1) Subject to paragraph (3), regulations 5 to 8 and 10 to 17 (except regulation 11(3))[^c-e9445dc7109ecfa76fa774821ae064a3] apply to sea-going United Kingdom ships, wherever they may be.
 
-(2) Subject to paragraph (3), regulations 9, 11(3)[^key-e876701e38b6f9973682f79e99055d8a] and 18 to 20 apply to a sea-going ship which is not a United Kingdom ship, while the ship is in United Kingdom waters, except where it is exercising the right of innocent passage or the right of transit passage through straits used for international navigation.
+(2) Subject to paragraph (3), regulations 9, 11(3)[^c-e876701e38b6f9973682f79e99055d8a] and 18 to 20 apply to a sea-going ship which is not a United Kingdom ship, while the ship is in United Kingdom waters, except where it is exercising the right of innocent passage or the right of transit passage through straits used for international navigation.
 
 (3) These Regulations do not apply to—
 
@@ -219,14 +219,14 @@ that certifying authority or the Government of that State may issue an interim M
 
 ## 10. Duration and validity of Maritime Labour Certificates
 
-(1) Subject to paragraphs (2) and (2B)[^key-7e3dde5ce4b380cea192b63fbb6df440], a Maritime Labour Certificate must be issued—
+(1) Subject to paragraphs (2) and (2B)[^c-7e3dde5ce4b380cea192b63fbb6df440], a Maritime Labour Certificate must be issued—
 
 - (a) on the date of the completion of the relevant survey, and
 - (b) with a period of validity starting on the date of issue and not exceeding five years.
 
-(2) Where a renewal survey as required by regulation 5(1)(b) has been completed within a period of three months before the expiry of a Maritime Labour Certificate, the new certificate must be issued as being valid from the original[^key-cbab47fa9f92c69794424a3f43a253b5] date of expiry of the existing certificate.
+(2) Where a renewal survey as required by regulation 5(1)(b) has been completed within a period of three months before the expiry of a Maritime Labour Certificate, the new certificate must be issued as being valid from the original[^c-cbab47fa9f92c69794424a3f43a253b5] date of expiry of the existing certificate.
 
-(2A)[^key-45e063555c9346a3331c0a658ca0cf99] This paragraph applies where a renewal survey as required by regulation 5(1)(b) has been completed but a new Maritime Labour Certificate cannot, on the date of completion of the survey—
+(2A)[^c-45e063555c9346a3331c0a658ca0cf99] This paragraph applies where a renewal survey as required by regulation 5(1)(b) has been completed but a new Maritime Labour Certificate cannot, on the date of completion of the survey—
 
 - (a) be issued; or
 - (b) made available on board the ship.
@@ -279,7 +279,7 @@ the Secretary of State may suspend the validity of the Maritime Labour Certifica
   - (i) certify it to that effect, and
   - (ii) issue to the shipowner Part 1 and Part 2 of the Declaration of Maritime Labour Compliance.
 
-(3) The certifying authority[^key-0c3ae269ddc5757cd999b276f1903f5e]...—
+(3) The certifying authority[^c-0c3ae269ddc5757cd999b276f1903f5e]...—
 
 - (a) when issuing or endorsing a Maritime Labour Certificate in accordance with regulation 9, must attach to that certificate Part 1 and Part 2 of the Declaration of Maritime Labour Compliance,
 - (b) when carrying out any survey as set out in Merchant Shipping Notice 1848(M) or any verification of the compliance of a ship with the Maritime Labour Convention, must record the results of that survey or verification in Part 1 of the Declaration of Maritime Labour Compliance or otherwise make that information available to seafarers on the ship, certifying authorities, inspectors from other States concerned with flag state or port state inspections, and shipowners' and seafarers' representatives.
@@ -376,7 +376,7 @@ but this paragraph does not apply in relation to Scotland.
 
 (1) If a ship to which regulation 5(2) applies proceeds or attempts to proceed to sea or on a voyage or excursion without a valid Maritime Labour Certificate and Declaration of Maritime Labour Compliance or a valid interim Maritime Labour Certificate, the shipowner and the master of the ship are guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment for a term not exceeding two years, or a fine, or both.
 
-(2) If a ship to which regulation 5(3) applies, and in respect of which a certifying authority has issued a Maritime Labour Certificate, proceeds or attempts to proceed to sea or on a voyage or excursion without the Maritime Labour Certificate having been endorsed in the manner required by Merchant Shipping Notice 1848(M), the shipowner and the master of the ship are guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment[^key-dcaf2f5794aa176806fc7c44d236d055] for a term not exceeding two years, or a fine, or both.
+(2) If a ship to which regulation 5(3) applies, and in respect of which a certifying authority has issued a Maritime Labour Certificate, proceeds or attempts to proceed to sea or on a voyage or excursion without the Maritime Labour Certificate having been endorsed in the manner required by Merchant Shipping Notice 1848(M), the shipowner and the master of the ship are guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment to imprisonment[^c-dcaf2f5794aa176806fc7c44d236d055] for a term not exceeding two years, or a fine, or both.
 
 (3) Any person who—
 
@@ -438,7 +438,7 @@ that ship is liable to be detained.
 
 - (a) if no proceedings for an offence under these Regulations are instituted within the period of seven days beginning with the day on which the ship is detained,
 - (b) if proceedings for an offence under these Regulations, having been instituted within that period, are concluded without the shipowner or master being convicted,
-- (c)[^key-ec881f17b2dcbda2c77783c7df8495db] if either—
+- (c)[^c-ec881f17b2dcbda2c77783c7df8495db] if either—
   - (i) the sum of £30,000 is paid to the Secretary of State by way of security; or
   - (ii) security which, in the opinion of the Secretary of State, is satisfactory and is for an amount not less than £30,000 is given to the Secretary of State,
 
@@ -540,7 +540,7 @@ Minister of State
 
 Department for Transport
 
-## SCHEDULE — The United Kingdom Maritime Labour Convention standards[^key-aa2fbc304755d36b542247cd413eeb62]
+## SCHEDULE — The United Kingdom Maritime Labour Convention standards[^c-aa2fbc304755d36b542247cd413eeb62]
 
 Regulation 2
 
@@ -588,7 +588,7 @@ Regulation 2
 </tbody>
 </table>
 
-[^key-b7a7f918bce436b4b1cea91d72cf48f6]
+[^c-b7a7f918bce436b4b1cea91d72cf48f6]
 
 *(This note is not part of the Regulations)*
 
@@ -618,7 +618,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21870201]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by section 8 of the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), and are applied to hovercraft by article 4 of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) (sections 85 and 86 re-enact sections 21 and 22 of the [Merchant Shipping Act 1979 (c. 39)](https://www.legislation.gov.uk/ukpga/1979/39) which are referred to in that article). There are other amendments to section 85 not relevant to these Regulations.
 
-[^key-d21ca0f5f7b91201e33e2ff882c25bb2]: Textual amendment: Words in reg. 2 substituted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+[^c-d21ca0f5f7b91201e33e2ff882c25bb2]: Textual amendment: Words in reg. 2 substituted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
 
 [^c21870211]: Marginal citation: OJ No L 131, 28.5.2009, p 47.
 
@@ -628,43 +628,43 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21870241]: Marginal citation: Cmnd. 7049.
 
-[^key-3b6ff2511418993873a8a8174b04946c]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/242/regulation/4/2/a)
+[^c-3b6ff2511418993873a8a8174b04946c]: Textual amendment: Words in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/242/regulation/4/2/a)
 
-[^key-0d330e8fa15891e9be34564a7e8f7fc1]: Textual amendment: Word in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/4/2/b)
+[^c-0d330e8fa15891e9be34564a7e8f7fc1]: Textual amendment: Word in reg. 2(1) substituted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/242)](https://www.legislation.gov.uk/uksi/2018/242), [regs. 1](https://www.legislation.gov.uk/uksi/2018/242/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/242/regulation/4/2/b)
 
 [^c21870251]: Marginal citation: Merchant Shipping Notice 1837(M) specifies which waters are Category A, B, C and D waters for the purposes of regulation 3(2)(a) of [S.I. 1992/2356](https://www.legislation.gov.uk/uksi/1992/2356), as the notice which currently supersedes Merchant Shipping Notice M1504 pursuant to regulation 2 of those Regulations.
 
 [^c21870261]: Marginal citation: [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [S.I](https://www.legislation.gov.uk/uksi/2004/302/section/I). 2005/2114 and [S.I. 2010/1075](https://www.legislation.gov.uk/uksi/2010/1075); there are other amending instruments but none is relevant.
 
-[^key-afd73d96774e977469283eb87348cea1]: Textual amendment: Words in reg. 2(1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-afd73d96774e977469283eb87348cea1]: Textual amendment: Words in reg. 2(1) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-7b9e3cd98bdab5997760ea700d392d5e]: Textual amendment: Words in reg. 2(1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/15) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-7b9e3cd98bdab5997760ea700d392d5e]: Textual amendment: Words in reg. 2(1) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/15) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-6a289bcc9a30481d101dd64cba072f3f]: Textual amendment: Words in reg. 2(1) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/2)
+[^c-6a289bcc9a30481d101dd64cba072f3f]: Textual amendment: Words in reg. 2(1) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/2)
 
-[^key-883223dd1b733184a81033e212535c8b]: Textual amendment: Words in reg. 2(1) substituted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/667/regulation/3/2)
+[^c-883223dd1b733184a81033e212535c8b]: Textual amendment: Words in reg. 2(1) substituted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/667/regulation/3/2)
 
-[^key-745039d7b0c2b822c36069dd912c6d2d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-745039d7b0c2b822c36069dd912c6d2d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-993595dd028651f9fb9e20b5f4973e94]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-993595dd028651f9fb9e20b5f4973e94]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c21870291]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-ece5b294b5adce4491ee4c0988679bbb]: Textual amendment: Reg. 3(1) omitted (12.12.2025) by virtue of [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-ece5b294b5adce4491ee4c0988679bbb]: Textual amendment: Reg. 3(1) omitted (12.12.2025) by virtue of [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
 [^c21870311]: Marginal citation: [S.I. 1998/1609](https://www.legislation.gov.uk/uksi/1998/1609).
 
-[^key-e9445dc7109ecfa76fa774821ae064a3]: Textual amendment: Words in reg. 4(1) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/3/a)
+[^c-e9445dc7109ecfa76fa774821ae064a3]: Textual amendment: Words in reg. 4(1) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(3)(a)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/3/a)
 
-[^key-e876701e38b6f9973682f79e99055d8a]: Textual amendment: Word in reg. 4(2) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(3)(b)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/3/b)
+[^c-e876701e38b6f9973682f79e99055d8a]: Textual amendment: Word in reg. 4(2) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(3)(b)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/3/b)
 
-[^key-7e3dde5ce4b380cea192b63fbb6df440]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/1) substituted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+[^c-7e3dde5ce4b380cea192b63fbb6df440]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/1) substituted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
 
-[^key-cbab47fa9f92c69794424a3f43a253b5]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/2) inserted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+[^c-cbab47fa9f92c69794424a3f43a253b5]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/2) inserted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
 
-[^key-45e063555c9346a3331c0a658ca0cf99]: Textual amendment: [Reg. 10(2A)-(2D)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/2A) inserted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
+[^c-45e063555c9346a3331c0a658ca0cf99]: Textual amendment: [Reg. 10(2A)-(2D)](https://www.legislation.gov.uk/uksi/2013/1785/regulation/10/2A) inserted (23.4.2019) by [The Merchant Shipping (Maritime Labour Convention) (Extension of Maritime Labour Certificate) (Amendment) Regulations 2019 (S.I. 2019/716)](https://www.legislation.gov.uk/uksi/2019/716), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/716/regulation/2/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/716/regulation/1/2))
 
-[^key-0c3ae269ddc5757cd999b276f1903f5e]: Textual amendment: Words in reg. 11(3) omitted (7.8.2014) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/4)
+[^c-0c3ae269ddc5757cd999b276f1903f5e]: Textual amendment: Words in reg. 11(3) omitted (7.8.2014) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/4)
 
 [^c21870321]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -672,14 +672,14 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21870341]: Marginal citation: Cmnd 3772.
 
-[^key-dcaf2f5794aa176806fc7c44d236d055]: Textual amendment: Words in reg. 15(2) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(5)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/5)
+[^c-dcaf2f5794aa176806fc7c44d236d055]: Textual amendment: Words in reg. 15(2) inserted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(5)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/5)
 
 [^c21870351]: Marginal citation: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, section 9 and Schedule 1.
 
-[^key-ec881f17b2dcbda2c77783c7df8495db]: Textual amendment: Reg. 17(5)(c) substituted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(6)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/6)
+[^c-ec881f17b2dcbda2c77783c7df8495db]: Textual amendment: Reg. 17(5)(c) substituted (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [14(6)](https://www.legislation.gov.uk/uksi/2014/1614/regulation/14/6)
 
 [^c21870361]: Marginal citation: Cmnd. 8941.
 
-[^key-aa2fbc304755d36b542247cd413eeb62]: Textual amendment: Sch. inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/667/regulation/3/3)
+[^c-aa2fbc304755d36b542247cd413eeb62]: Textual amendment: Sch. inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/667/regulation/3/3)
 
-[^key-b7a7f918bce436b4b1cea91d72cf48f6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1785/schedule) Table substituted (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/1/paragraph/9)
+[^c-b7a7f918bce436b4b1cea91d72cf48f6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2013/1785/schedule) Table substituted (10.1.2023) by [The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2022 (S.I. 2022/1342)](https://www.legislation.gov.uk/uksi/2022/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1342/regulation/1/1), [Sch. 1 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/2022/1342/schedule/1/part/1/paragraph/9)

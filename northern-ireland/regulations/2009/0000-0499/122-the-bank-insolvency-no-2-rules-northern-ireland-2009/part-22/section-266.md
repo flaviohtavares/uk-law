@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 266. Time[^key-30c58fac5b66b3e2fe529cf805060230]
+## 266. Time[^c-30c58fac5b66b3e2fe529cf805060230]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.10 of the 1991 Rules as regards time limits for anything required 
 
 ## Annotations
 
-[^key-30c58fac5b66b3e2fe529cf805060230]: Commencement: Rule 266 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-30c58fac5b66b3e2fe529cf805060230]: Commencement: Rule 266 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

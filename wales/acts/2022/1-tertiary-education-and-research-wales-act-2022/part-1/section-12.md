@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Promoting collaboration between providers of tertiary education and trade unions[^key-aab12853858bd64e9176a57bd0d58eb1][^key-f9a31788e214454649bdbe9407495e92][^key-42ca7a06ca144847916d3c32f51db311]
+## 12. Promoting collaboration between providers of tertiary education and trade unions[^c-aab12853858bd64e9176a57bd0d58eb1][^c-f9a31788e214454649bdbe9407495e92][^c-42ca7a06ca144847916d3c32f51db311]
 
 *Extent: E+W*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aab12853858bd64e9176a57bd0d58eb1]: Commencement: S. 12 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-aab12853858bd64e9176a57bd0d58eb1]: Commencement: S. 12 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-f9a31788e214454649bdbe9407495e92]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2022/1/section/12) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(k)](https://www.legislation.gov.uk/wsi/2023/919/article/3/k)
+[^c-f9a31788e214454649bdbe9407495e92]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2022/1/section/12) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(k)](https://www.legislation.gov.uk/wsi/2023/919/article/3/k)
 
-[^key-42ca7a06ca144847916d3c32f51db311]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2022/1/section/12) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)
+[^c-42ca7a06ca144847916d3c32f51db311]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2022/1/section/12) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 4(a)](https://www.legislation.gov.uk/wsi/2023/919/article/4/a)

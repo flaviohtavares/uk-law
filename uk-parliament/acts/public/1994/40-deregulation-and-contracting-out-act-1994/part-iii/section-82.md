@@ -22,23 +22,23 @@ summary: ''
 
 (1) This Act may be cited as the Deregulation and Contracting Out Act 1994.
 
-(2)[^key-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-11a6c26b9841fe97cffcf43a5e8186a4][^c1365834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-11a6c26b9841fe97cffcf43a5e8186a4][^c1365834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-11a6c26b9841fe97cffcf43a5e8186a4][^c1365835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-11a6c26b9841fe97cffcf43a5e8186a4][^c1365835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-11a6c26b9841fe97cffcf43a5e8186a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Except in so far as any provision of this Act otherwise provides, this Act, other than Chapter I of Part I and this section, does not extend to Northern Ireland.
 
 ## Annotations
 
-[^key-11a6c26b9841fe97cffcf43a5e8186a4]: Textual amendment: [S. 82(2)-(7)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-11a6c26b9841fe97cffcf43a5e8186a4]: Textual amendment: [S. 82(2)-(7)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c1365834]: Subordinate legislation: S. 82(4) power partly exercised: 1.12.1994 appointed for specified provisions by [S.I. 1994/3037](https://www.legislation.gov.uk/uksi/1994/3037), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3037/article/2), [3](https://www.legislation.gov.uk/uksi/1994/3037/article/3)
 

@@ -31,7 +31,7 @@ summary: ''
 
 Education
 
-The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2008 (revoked)[^key-d6c89f498856692bc7c16fc2394d2dc1]
+The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2008 (revoked)[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 Made
 
@@ -41,90 +41,90 @@ Coming into operation
 
 1st September 2008
 
-[^key-d6c89f498856692bc7c16fc2394d2dc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6c89f498856692bc7c16fc2394d2dc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 1. Citation and commencement[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 2. Interpretation[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 3. Application[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Eligible Students[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 4. Eligible Students[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designated courses[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 5. Designated courses[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Applying for support and provision of information[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 6. Applying for support and provision of information[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payments[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 7. Payments[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## 8. Revocation[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6c89f498856692bc7c16fc2394d2dc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6c89f498856692bc7c16fc2394d2dc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ELIGIBLE STUDENTS[^key-d6c89f498856692bc7c16fc2394d2dc1]
+## SCHEDULE 1 — ELIGIBLE STUDENTS[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 Regulation 4
 
-### PART 1 — Interpretation[^key-d6c89f498856692bc7c16fc2394d2dc1]
+### PART 1 — Interpretation[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
-**1.**[^key-d6c89f498856692bc7c16fc2394d2dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d6c89f498856692bc7c16fc2394d2dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Categories[^key-d6c89f498856692bc7c16fc2394d2dc1]
+### PART 2 — Categories[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
-#### 2. Persons who are settled in the United Kingdom[^key-d6c89f498856692bc7c16fc2394d2dc1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-d6c89f498856692bc7c16fc2394d2dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Refugees and their family members[^key-d6c89f498856692bc7c16fc2394d2dc1]
+#### 2. Persons who are settled in the United Kingdom[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Persons with leave to enter or remain and their family members[^key-d6c89f498856692bc7c16fc2394d2dc1]
+**3.**[^c-d6c89f498856692bc7c16fc2394d2dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Refugees and their family members[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Workers and their family members[^key-d6c89f498856692bc7c16fc2394d2dc1]
+#### 5. Persons with leave to enter or remain and their family members[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. EC nationals[^key-d6c89f498856692bc7c16fc2394d2dc1]
+#### 6. Workers and their family members[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Children of Swiss Nationals[^key-d6c89f498856692bc7c16fc2394d2dc1]
+#### 7. EC nationals[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Children of Turkish Workers[^key-d6c89f498856692bc7c16fc2394d2dc1]
+#### 8. Children of Swiss Nationals[^c-d6c89f498856692bc7c16fc2394d2dc1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Children of Turkish Workers[^c-d6c89f498856692bc7c16fc2394d2dc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6c89f498856692bc7c16fc2394d2dc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6c89f498856692bc7c16fc2394d2dc1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6c89f498856692bc7c16fc2394d2dc1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/324) revoked (1.9.2009) by [The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2009 (S.R. 2009/211)](https://www.legislation.gov.uk/nisr/2009/211), [regs. 1](https://www.legislation.gov.uk/nisr/2009/211/regulation/1), [8](https://www.legislation.gov.uk/nisr/2009/211/regulation/8)
+[^c-d6c89f498856692bc7c16fc2394d2dc1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/324) revoked (1.9.2009) by [The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2009 (S.R. 2009/211)](https://www.legislation.gov.uk/nisr/2009/211), [regs. 1](https://www.legislation.gov.uk/nisr/2009/211/regulation/1), [8](https://www.legislation.gov.uk/nisr/2009/211/regulation/8)

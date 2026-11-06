@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Interpretation of Part[^key-971dba40e66cdb2773f976c15569b654]
+## 66. Interpretation of Part[^c-971dba40e66cdb2773f976c15569b654]
 
 *Extent: E+W*
 
 (1) In this Part—
 
-- “[^key-7e18bdd325fb027635359b76c6dcf216]**apprenticeship agreement**” means an apprenticeship agreement within[^key-21b2fee877f267821aa231aeba651700] the meaning given in section 32 of the Apprenticeships, Skills, Children and Learning Act 2009 or an approved English apprenticeship agreement within the meaning given in section A1(3) of that Act[^key-c381e57d5b69686c72f35e18d93ba1e8];
+- “[^c-7e18bdd325fb027635359b76c6dcf216]**apprenticeship agreement**” means an apprenticeship agreement within[^c-21b2fee877f267821aa231aeba651700] the meaning given in section 32 of the Apprenticeships, Skills, Children and Learning Act 2009 or an approved English apprenticeship agreement within the meaning given in section A1(3) of that Act[^c-c381e57d5b69686c72f35e18d93ba1e8];
 - “**appropriate full-time education or training**” has the meaning given by section 4;
-- “**contract of employment**” means a contract of service, whether express or implied and (if it is express) whether oral or in writing, but does not include a contract of apprenticeship or an apprenticeship agreement[^key-8816dc3362ad25643a46e51f65bb0aa8];
+- “**contract of employment**” means a contract of service, whether express or implied and (if it is express) whether oral or in writing, but does not include a contract of apprenticeship or an apprenticeship agreement[^c-8816dc3362ad25643a46e51f65bb0aa8];
 - “**level 3 qualification**” has the meaning given by section 3;
 - “**proprietor**”, in relation to a school or other institution, means the person or body of persons responsible for its management;
 - “**relevant period**”, in relation to a person to whom this Part applies, has the meaning given by section 7;
@@ -44,12 +44,12 @@ summary: ''
 
 ## Annotations
 
-[^key-971dba40e66cdb2773f976c15569b654]: Commencement: S. 66 in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(t)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/t)
+[^c-971dba40e66cdb2773f976c15569b654]: Commencement: S. 66 in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(t)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/t)
 
-[^key-7e18bdd325fb027635359b76c6dcf216]: Textual amendment: Words in s. 66(1) inserted (6.4.2011) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 37(3)(a)](https://www.legislation.gov.uk/ukpga/2009/22/section/37/3/a), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-7e18bdd325fb027635359b76c6dcf216]: Textual amendment: Words in s. 66(1) inserted (6.4.2011) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 37(3)(a)](https://www.legislation.gov.uk/ukpga/2009/22/section/37/3/a), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
 
-[^key-21b2fee877f267821aa231aeba651700]: Textual amendment: Words in s. 66(1) substituted (24.11.2015) by [The English Apprenticeships (Consequential Amendments to Primary Legislation) Order 2015 (S.I. 2015/1852)](https://www.legislation.gov.uk/uksi/2015/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1852/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1852/article/3/a)
+[^c-21b2fee877f267821aa231aeba651700]: Textual amendment: Words in s. 66(1) substituted (24.11.2015) by [The English Apprenticeships (Consequential Amendments to Primary Legislation) Order 2015 (S.I. 2015/1852)](https://www.legislation.gov.uk/uksi/2015/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1852/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/1852/article/3/a)
 
-[^key-c381e57d5b69686c72f35e18d93ba1e8]: Textual amendment: Words in s. 66(1) inserted (24.11.2015) by [The English Apprenticeships (Consequential Amendments to Primary Legislation) Order 2015 (S.I. 2015/1852)](https://www.legislation.gov.uk/uksi/2015/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1852/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1852/article/3/b)
+[^c-c381e57d5b69686c72f35e18d93ba1e8]: Textual amendment: Words in s. 66(1) inserted (24.11.2015) by [The English Apprenticeships (Consequential Amendments to Primary Legislation) Order 2015 (S.I. 2015/1852)](https://www.legislation.gov.uk/uksi/2015/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1852/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/1852/article/3/b)
 
-[^key-8816dc3362ad25643a46e51f65bb0aa8]: Textual amendment: Words in s. 66(1) inserted (6.4.2011) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2009/22/section/37/3/b), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-8816dc3362ad25643a46e51f65bb0aa8]: Textual amendment: Words in s. 66(1) inserted (6.4.2011) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2009/22/section/37/3/b), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)

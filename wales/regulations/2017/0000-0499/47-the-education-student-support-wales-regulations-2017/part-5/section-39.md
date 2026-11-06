@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Special support grant –eligible students who are 2010 cohort students or 2012 cohort students[^key-bde57ad144af63ccc822f070fedec352]
+## 39. Special support grant –eligible students who are 2010 cohort students or 2012 cohort students[^c-bde57ad144af63ccc822f070fedec352]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bde57ad144af63ccc822f070fedec352]: Commencement: Reg. 39 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-bde57ad144af63ccc822f070fedec352]: Commencement: Reg. 39 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

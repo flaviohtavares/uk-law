@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Mental health: removal of need for witnessing of signature of nominated person[^key-f635900e74c0090087749aea5d32bb28]
+## 37. Mental health: removal of need for witnessing of signature of nominated person[^c-f635900e74c0090087749aea5d32bb28]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f635900e74c0090087749aea5d32bb28]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2022/8/section/37) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-f635900e74c0090087749aea5d32bb28]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2022/8/section/37) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

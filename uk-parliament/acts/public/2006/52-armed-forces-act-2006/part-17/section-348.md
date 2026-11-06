@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 348. British overseas territories: references to maximum penalties[^key-81767dfce09d22644802640da0c7f853][^key-0a052a98f00b47349553cdd0481a5d6f]
+## 348. British overseas territories: references to maximum penalties[^c-81767dfce09d22644802640da0c7f853][^c-0a052a98f00b47349553cdd0481a5d6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ specifying the maximum term of imprisonment, or the maximum fine, to which a per
 
 ## Annotations
 
-[^key-81767dfce09d22644802640da0c7f853]: Commencement: S. 348 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-81767dfce09d22644802640da0c7f853]: Commencement: S. 348 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0a052a98f00b47349553cdd0481a5d6f]: Commencement: S. 348 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0a052a98f00b47349553cdd0481a5d6f]: Commencement: S. 348 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

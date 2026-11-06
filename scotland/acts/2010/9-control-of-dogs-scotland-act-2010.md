@@ -219,7 +219,7 @@ any dog control notice served by an authorised officer appointed by the authorit
 - (a) any requirement imposed under subsection (4), and
 - (b) any direction given under subsection (6).
 
-(8) Even where P is not so convicted, P may appeal to the Sheriff Appeal Court[^key-cc759fe197e73ceb53cf91f28d823431] against—
+(8) Even where P is not so convicted, P may appeal to the Sheriff Appeal Court[^c-cc759fe197e73ceb53cf91f28d823431] against—
 
 - (a) any requirement so imposed, and
 - (b) any direction so given.
@@ -335,7 +335,7 @@ from owning or keeping a dog and at least one year has elapsed since the disqual
 
 (3) The person may, in such manner as may be prescribed by rules of court, apply to the court which imposed the disqualification for the disqualification to be discharged.
 
-(4) If, on such an application by a person disqualified by virtue of section 5(2)(a), the court which imposed the disqualification declines to discharge it, the disqualified person may appeal to the Sheriff Appeal Court[^key-07cb67e05ea5c70e8821ce82ea8ac8ea].
+(4) If, on such an application by a person disqualified by virtue of section 5(2)(a), the court which imposed the disqualification declines to discharge it, the disqualified person may appeal to the Sheriff Appeal Court[^c-07cb67e05ea5c70e8821ce82ea8ac8ea].
 
 (5) If, on such an application by a person disqualified by virtue of section 9(5), the court which imposed the disqualification declines to discharge it, the disqualified person may appeal to the sheriff principal.
 
@@ -364,7 +364,7 @@ In this Act—
 - “**dog control notice**” has the meaning given by section 1(1),
 - “**effective date**” has the meaning given by section 2(13),
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39),
-- **"police[^key-6a5506791cec317a4e134273e3ef35af]**” means the Police Service of Scotland,
+- **"police[^c-6a5506791cec317a4e134273e3ef35af]**” means the Police Service of Scotland,
 - “**proper person**” has the meaning given by section 1(5) (and “**P**” is to be construed in accordance with section 2(1)(a)), and
 - “**summary application**” has the meaning given by section 3(p) of the Sheriff Courts (Scotland) Act 1907 (c.51).
 
@@ -441,8 +441,8 @@ Nothing in this Act affects proceedings arising out of a dog's being out of cont
 
 ## Annotations
 
-[^key-cc759fe197e73ceb53cf91f28d823431]: Textual amendment: Words in [s. 5(8)](https://www.legislation.gov.uk/asp/2010/9/section/5/8) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/12/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-cc759fe197e73ceb53cf91f28d823431]: Textual amendment: Words in [s. 5(8)](https://www.legislation.gov.uk/asp/2010/9/section/5/8) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/12/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-07cb67e05ea5c70e8821ce82ea8ac8ea]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/asp/2010/9/section/11/4) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/12/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-07cb67e05ea5c70e8821ce82ea8ac8ea]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/asp/2010/9/section/11/4) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/12/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-6a5506791cec317a4e134273e3ef35af]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2010/9/section/13) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 41](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/41); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-6a5506791cec317a4e134273e3ef35af]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2010/9/section/13) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 41](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/41); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

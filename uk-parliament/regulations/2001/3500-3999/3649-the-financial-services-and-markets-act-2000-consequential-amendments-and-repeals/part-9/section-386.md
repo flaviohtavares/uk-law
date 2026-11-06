@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 386. Excepted contracts[^key-f40fcdc615cd4273a7dc40f75068630c]
+## 386. Excepted contracts[^c-f40fcdc615cd4273a7dc40f75068630c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f40fcdc615cd4273a7dc40f75068630c]: Textual amendment: [Art. 386](https://www.legislation.gov.uk/uksi/2001/3649/article/386) revoked (1.10.2008) by [The Cancellation of Contracts made in a Consumer's Home or Place of Work etc. Regulations 2008 (S.I. 2008/1816)](https://www.legislation.gov.uk/uksi/2008/1816), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1816/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1816/schedule/2) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2008/1816/regulation/4/3))
+[^c-f40fcdc615cd4273a7dc40f75068630c]: Textual amendment: [Art. 386](https://www.legislation.gov.uk/uksi/2001/3649/article/386) revoked (1.10.2008) by [The Cancellation of Contracts made in a Consumer's Home or Place of Work etc. Regulations 2008 (S.I. 2008/1816)](https://www.legislation.gov.uk/uksi/2008/1816), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1816/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1816/schedule/2) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2008/1816/regulation/4/3))

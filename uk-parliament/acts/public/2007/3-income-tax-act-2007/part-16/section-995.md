@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 995. Meaning of “control”[^key-4303aea7ba8b4ae0b02187357942a051]
+## 995. Meaning of “control”[^c-4303aea7ba8b4ae0b02187357942a051]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ that the affairs of company A are conducted in accordance with P's wishes.
 
 ## Annotations
 
-[^key-4303aea7ba8b4ae0b02187357942a051]: Modification: S. 995 applied by 2003 c. 1, s. 312G(6)(b) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
+[^c-4303aea7ba8b4ae0b02187357942a051]: Modification: S. 995 applied by 2003 c. 1, s. 312G(6)(b) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — SCHEDULE INSERTED AS SCHEDULE 8A TO THE POLICE ACT 1997[^key-7af936880636480f339c8c0f75f7def0]
+## SCHEDULE 4 — SCHEDULE INSERTED AS SCHEDULE 8A TO THE POLICE ACT 1997[^c-7af936880636480f339c8c0f75f7def0]
 
 *Extent: N.I.*
 
 Section 41.
 
-[^key-7af936880636480f339c8c0f75f7def0]
+[^c-7af936880636480f339c8c0f75f7def0]
 
 > **SCHEDULE 8A — REVIEW OF CRIMINAL RECORD CERTIFICATES**
 >
@@ -143,4 +143,4 @@ Section 41.
 
 ## Annotations
 
-[^key-7af936880636480f339c8c0f75f7def0]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/4) in operation at 1.3.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/418/article/3/b)
+[^c-7af936880636480f339c8c0f75f7def0]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/4) in operation at 1.3.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(b)](https://www.legislation.gov.uk/nisr/2015/418/article/3/b)

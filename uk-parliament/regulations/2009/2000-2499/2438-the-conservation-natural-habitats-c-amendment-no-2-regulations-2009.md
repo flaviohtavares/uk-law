@@ -52,52 +52,52 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1 — Introductory provisions
 
-### 1. Title, commencement and extent[^key-9b576387941970280c99bc4eff94510d]
+### 1. Title, commencement and extent[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-9b576387941970280c99bc4eff94510d]
+### 2. Interpretation[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments to the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 3. Amendments to the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Amendments relating to the grant of development consents
 
-### 4. Amendments to Part 1 of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 4. Amendments to Part 1 of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendments to Part 2 of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 5. Amendments to Part 2 of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Amendments to Part 4 of the 1994 Regulations
 
-(1)[^key-9b576387941970280c99bc4eff94510d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9b576387941970280c99bc4eff94510d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-2e7c88f4790db89521682028fa0298d0] For regulation 68 substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-2e7c88f4790db89521682028fa0298d0] For regulation 68 substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]
 
-> **68 (Extent: E+W) (affected by repeal, see note). Interpretation (Extent: E+W) (affected by repeal, see note)[^key-2e7c88f4790db89521682028fa0298d0][^key-2e7c88f4790db89521682028fa0298d0]**
+> **68 (Extent: E+W) (affected by repeal, see note). Interpretation (Extent: E+W) (affected by repeal, see note)[^c-2e7c88f4790db89521682028fa0298d0][^c-2e7c88f4790db89521682028fa0298d0]**
 >
-> (1 (Extent: E+W) (affected by repeal, see note))[^key-2e7c88f4790db89521682028fa0298d0]  Regulations 54 to 67 shall be construed— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]
+> (1 (Extent: E+W) (affected by repeal, see note))[^c-2e7c88f4790db89521682028fa0298d0]  Regulations 54 to 67 shall be construed— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-2e7c88f4790db89521682028fa0298d0] in England and Wales, as one with the Town and Country Planning Act 1990; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-2e7c88f4790db89521682028fa0298d0] in Scotland, as one with the Town and Country Planning (Scotland) Act 1997 *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0] [^c19848281]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-2e7c88f4790db89521682028fa0298d0] in England and Wales, as one with the Town and Country Planning Act 1990; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-2e7c88f4790db89521682028fa0298d0] in Scotland, as one with the Town and Country Planning (Scotland) Act 1997 *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0] [^c19848281]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]
 >
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-2e7c88f4790db89521682028fa0298d0] In regulations 67A and 67B, the terms “the Commission”, “the Council”, “development”, “development consent” and “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]**the Panel *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]**” shall have the meanings given by the Planning Act 2008. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-2e7c88f4790db89521682028fa0298d0] In regulations 67A and 67B, the terms “the Commission”, “the Council”, “development”, “development consent” and “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]**the Panel *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]**” shall have the meanings given by the Planning Act 2008. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2e7c88f4790db89521682028fa0298d0]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2e7c88f4790db89521682028fa0298d0]
 
-### 7. Amendments to Part 4A (England and Wales) of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 7. Amendments to Part 4A (England and Wales) of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments to Part 4A (Scotland) of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 8. Amendments to Part 4A (Scotland) of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 *Extent: S*
 
@@ -107,7 +107,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 *Extent: E+W*
 
-### 9. Amendments to Part 4 of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 9. Amendments to Part 4 of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,15 +115,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 *Extent: E+W*
 
-### 10. Amendments to Part 2 of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 10. Amendments to Part 2 of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendments to Part 5 of the 1994 Regulations[^key-9b576387941970280c99bc4eff94510d]
+### 11. Amendments to Part 5 of the 1994 Regulations[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Transitional provision[^key-9b576387941970280c99bc4eff94510d]
+### 12. Transitional provision[^c-9b576387941970280c99bc4eff94510d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,9 +159,9 @@ A transposition note setting out how the amendments transpose the provisions of 
 
 [^c19848241]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-9b576387941970280c99bc4eff94510d]: Textual amendment: Regulations revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-9b576387941970280c99bc4eff94510d]: Textual amendment: Regulations revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-2e7c88f4790db89521682028fa0298d0]: Textual amendment: Reg. 6(2) revoked in part (E.W.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-2e7c88f4790db89521682028fa0298d0]: Textual amendment: Reg. 6(2) revoked in part (E.W.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^c19848281]: Marginal citation: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 

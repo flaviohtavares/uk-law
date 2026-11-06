@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Presumption of conformity of approved bodies[^key-ebe4604eb6254838bfd955b50963ad3c]
+## 44. Presumption of conformity of approved bodies[^c-ebe4604eb6254838bfd955b50963ad3c]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe4604eb6254838bfd955b50963ad3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2016/1107/part/4) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/27) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(n)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/n/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebe4604eb6254838bfd955b50963ad3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2016/1107/part/4) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/27) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(n)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/n/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

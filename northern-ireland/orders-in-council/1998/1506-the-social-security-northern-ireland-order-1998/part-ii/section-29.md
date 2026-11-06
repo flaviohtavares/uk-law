@@ -25,7 +25,7 @@ summary: ''
 - (a) an express declaration of that fact shall be made and recorded; and
 - (b) subject to paragraph (3), a claimant shall be entitled to have the issue whether the relevant accident was an industrial accident decided notwithstanding that his claim is disallowed on other grounds.
 
-(2)[^key-5e5a69e6c91652703d4b518c6842721d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5e5a69e6c91652703d4b518c6842721d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Department, an appeal tribunal or a Commissioner (as the case may be) may refuse to decide the issue whether an accident was an industrial accident if satisfied that it is unlikely to be necessary to decide the issue for the purposes of any claim for benefit; and this Chapter shall apply as if any such refusal were a decision on the issue.
 
@@ -52,4 +52,4 @@ it shall have effect as if at the end there were added the words “whether or n
 
 [^c17081981]: Textual amendment: prosp. in pt. certain functions transf. by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-5e5a69e6c91652703d4b518c6842721d]: Textual amendment: [Art. 29(2)](https://www.legislation.gov.uk/nisi/1998/1506/article/29/2) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [74(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/74/1); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)
+[^c-5e5a69e6c91652703d4b518c6842721d]: Textual amendment: [Art. 29(2)](https://www.legislation.gov.uk/nisi/1998/1506/article/29/2) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [74(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/74/1); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)

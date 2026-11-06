@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Parliamentary Standards Act 2009: new Schedule 4[^key-d2609a12c1a31d9c228c243b37df425a]
+## SCHEDULE 4 — Parliamentary Standards Act 2009: new Schedule 4[^c-d2609a12c1a31d9c228c243b37df425a]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,4 +261,4 @@ Section 34
 
 ## Annotations
 
-[^key-d2609a12c1a31d9c228c243b37df425a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/25/schedule/4) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/g) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-d2609a12c1a31d9c228c243b37df425a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/25/schedule/4) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(g)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/g) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Determination of the place of the work-focused health-related assessment[^key-e494a710a70fda3a0bc68b1d2c793810]
+## 50. Determination of the place of the work-focused health-related assessment[^c-e494a710a70fda3a0bc68b1d2c793810]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e494a710a70fda3a0bc68b1d2c793810]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/nisr/2008/280/regulation/50) omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (S.R. 2010/200)](https://www.legislation.gov.uk/nisr/2010/200), [regs. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [9(12)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/12)
+[^c-e494a710a70fda3a0bc68b1d2c793810]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/nisr/2008/280/regulation/50) omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (S.R. 2010/200)](https://www.legislation.gov.uk/nisr/2010/200), [regs. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [9(12)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/12)

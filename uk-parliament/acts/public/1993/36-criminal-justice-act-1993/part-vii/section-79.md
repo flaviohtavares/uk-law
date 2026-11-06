@@ -48,7 +48,7 @@ paragraph 2 of Schedule 4.
 
 (6)[^c10499191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-213d3480cda0cc28141ae68fd2c36386] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-213d3480cda0cc28141ae68fd2c36386] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The provisions of Schedules 5 and 6 have the same extent as the provisions on which they operate.
 
@@ -79,7 +79,7 @@ paragraph 2 of Schedule 4.
 
 [^c10499191]: Textual amendment: S. 79(6) repealed (25.8.1996) by [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1), [63(7)](https://www.legislation.gov.uk/ukpga/1996/22/section/63/7), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1996/22/schedule/7/part/I)
 
-[^key-213d3480cda0cc28141ae68fd2c36386]: Textual amendment: [S. 79(7)](https://www.legislation.gov.uk/ukpga/1993/36/section/79/7) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-213d3480cda0cc28141ae68fd2c36386]: Textual amendment: [S. 79(7)](https://www.legislation.gov.uk/ukpga/1993/36/section/79/7) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
 
 [^c10499201]: Textual amendment: S. 79(11) repealed (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/2), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2)
 

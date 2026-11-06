@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73A. Payment thresholds: further interpretation[^key-70b110a6d19557bff59d99e138ac61ae]
+## 73A. Payment thresholds: further interpretation[^c-70b110a6d19557bff59d99e138ac61ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulations 72 and 73, a reference to a member who is partially retired inclu
 
 ## Annotations
 
-[^key-70b110a6d19557bff59d99e138ac61ae]: Textual amendment: [Reg. 73A](https://www.legislation.gov.uk/uksi/2014/1964/regulation/73A) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [16](https://www.legislation.gov.uk/uksi/2018/537/regulation/16)
+[^c-70b110a6d19557bff59d99e138ac61ae]: Textual amendment: [Reg. 73A](https://www.legislation.gov.uk/uksi/2014/1964/regulation/73A) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [16](https://www.legislation.gov.uk/uksi/2018/537/regulation/16)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a defendant neither resides nor carries on business within the administrative court division[^key-d13f7448f32bda8f1fa184e876828681] in which an action or matter is commenced, he may apply in Form 63 to the \[[^f00136] district judge\], in accordance with Rule 1, for an order directing the plaintiff to deposit in court a sum of money as security for his costs.
+(1) Where a defendant neither resides nor carries on business within the administrative court division[^c-d13f7448f32bda8f1fa184e876828681] in which an action or matter is commenced, he may apply in Form 63 to the \[[^f00136] district judge\], in accordance with Rule 1, for an order directing the plaintiff to deposit in court a sum of money as security for his costs.
 
 (2) The application shall be sent to the chief clerk by post or otherwise \[[^f00137] . . .\] within eight days of the service to the civil bill on him;
 
@@ -39,7 +39,7 @@ Provided that if the deposit is not made in due time, but is made later \[[^f001
 
 ## Annotations
 
-[^key-d13f7448f32bda8f1fa184e876828681]: Textual amendment: Words in Order 14 rule 5(1) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-d13f7448f32bda8f1fa184e876828681]: Textual amendment: Words in Order 14 rule 5(1) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/4); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00136]: Footnote: To be construed as such by [S.R. 1991 No. 230](https://www.legislation.gov.uk/nisr/1991/230) with effect from 28.6.91
 

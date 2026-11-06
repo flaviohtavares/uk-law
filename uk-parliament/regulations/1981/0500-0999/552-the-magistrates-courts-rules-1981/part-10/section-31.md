@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Documents to be sent under Mental Health Act 1959[^key-4836ff849ee045f86821a574d0056d3d]
+## 31. Documents to be sent under Mental Health Act 1959[^c-4836ff849ee045f86821a574d0056d3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4836ff849ee045f86821a574d0056d3d]: Textual amendment: [Rules 22-32](https://www.legislation.gov.uk/uksi/1981/552/rule/22) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(d)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/d)
+[^c-4836ff849ee045f86821a574d0056d3d]: Textual amendment: [Rules 22-32](https://www.legislation.gov.uk/uksi/1981/552/rule/22) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(d)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/d)

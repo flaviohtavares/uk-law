@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Minimum level of loan for living costs[^key-400ce5652431bee822c544ea06d7a665]
+## 101. Minimum level of loan for living costs[^c-400ce5652431bee822c544ea06d7a665]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-400ce5652431bee822c544ea06d7a665]: Commencement: Reg. 101 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-400ce5652431bee822c544ea06d7a665]: Commencement: Reg. 101 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Supply of information to local authorities[^key-c04eedb383c27084c64d06aae4fb458f]
+## 45. Supply of information to local authorities[^c-c04eedb383c27084c64d06aae4fb458f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c04eedb383c27084c64d06aae4fb458f]: Commencement: S. 45 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-c04eedb383c27084c64d06aae4fb458f]: Commencement: S. 45 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))

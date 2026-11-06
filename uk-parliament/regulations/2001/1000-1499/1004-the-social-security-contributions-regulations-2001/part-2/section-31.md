@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Practices avoiding or reducing liability for contributions[^key-1da6be5aed67e60e3989a2a8daa31ec4]
+## 31. Practices avoiding or reducing liability for contributions[^c-1da6be5aed67e60e3989a2a8daa31ec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ This is subject to the qualification in paragraph (3).
 
 ## Annotations
 
-[^key-1da6be5aed67e60e3989a2a8daa31ec4]: Textual amendment: Reg. 31 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [6](https://www.legislation.gov.uk/uksi/2002/2366/regulation/6)
+[^c-1da6be5aed67e60e3989a2a8daa31ec4]: Textual amendment: Reg. 31 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [6](https://www.legislation.gov.uk/uksi/2002/2366/regulation/6)

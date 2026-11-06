@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Information about convictions for serious offences[^key-b582334565769e91c6d3e81100c271d8]
+## 64. Information about convictions for serious offences[^c-b582334565769e91c6d3e81100c271d8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b582334565769e91c6d3e81100c271d8]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2021/15/section/64) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b582334565769e91c6d3e81100c271d8]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2021/15/section/64) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

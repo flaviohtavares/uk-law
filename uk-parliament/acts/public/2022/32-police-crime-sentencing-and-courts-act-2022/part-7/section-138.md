@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Imprisonment for public protection etc: duty to refer person released on licence to Parole Board[^key-82965c8692680150d7b610f8165c13ec]
+## 138. Imprisonment for public protection etc: duty to refer person released on licence to Parole Board[^c-82965c8692680150d7b610f8165c13ec]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82965c8692680150d7b610f8165c13ec]: Commencement: S. 138 in force at 28.6.2022, see [s. 208(5)(o)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/o)
+[^c-82965c8692680150d7b610f8165c13ec]: Commencement: S. 138 in force at 28.6.2022, see [s. 208(5)(o)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/o)

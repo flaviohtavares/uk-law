@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**92.**[^key-2780fd14e4f701946a603ff300a436e4] In regulation 8—
+**92.**[^c-2780fd14e4f701946a603ff300a436e4] In regulation 8—
 
 - (a) in the heading, for “section 39 of the Listed Buildings Act” substitute “section 127 of the 2023 Act”;
 - (b) in paragraph (1), for “section 39 of the Listed Buildings Act or that section as applied by section 74(3) of the Listed Buildings Act” substitute “section 127 of the 2023 Act or under that section as applied by section 163 of that Act”.
 
 ## Annotations
 
-[^key-2780fd14e4f701946a603ff300a436e4]: Commencement: [Reg. 92](https://www.legislation.gov.uk/wsi/2024/924/regulation/92) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-2780fd14e4f701946a603ff300a436e4]: Commencement: [Reg. 92](https://www.legislation.gov.uk/wsi/2024/924/regulation/92) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

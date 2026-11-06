@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Offences: penalties and time limits[^key-f705988aa61fbd5341d928cf88a12782][^key-1ceb3356715b8d28efb1cabaeb9ff374]
+## 46. Offences: penalties and time limits[^c-f705988aa61fbd5341d928cf88a12782][^c-1ceb3356715b8d28efb1cabaeb9ff374]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f705988aa61fbd5341d928cf88a12782]: Commencement: S. 46 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-f705988aa61fbd5341d928cf88a12782]: Commencement: S. 46 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-1ceb3356715b8d28efb1cabaeb9ff374]: Modification: S. 46 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-1ceb3356715b8d28efb1cabaeb9ff374]: Modification: S. 46 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

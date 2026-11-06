@@ -33,22 +33,22 @@ of 15 June 2017
 
 on greenhouse gas emissions covered by Decision No 406/2009/EC of the European Parliament and of the Council for the year 2014 for each Member State (revoked)
 
-[^key-5bc138956c1afa6b9bbce4b13c8ad248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bc138956c1afa6b9bbce4b13c8ad248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5bc138956c1afa6b9bbce4b13c8ad248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5bc138956c1afa6b9bbce4b13c8ad248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5bc138956c1afa6b9bbce4b13c8ad248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5bc138956c1afa6b9bbce4b13c8ad248] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bc138956c1afa6b9bbce4b13c8ad248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bc138956c1afa6b9bbce4b13c8ad248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-5bc138956c1afa6b9bbce4b13c8ad248]
+## ANNEX[^c-5bc138956c1afa6b9bbce4b13c8ad248]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5bc138956c1afa6b9bbce4b13c8ad248]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-5bc138956c1afa6b9bbce4b13c8ad248]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/519/schedule)

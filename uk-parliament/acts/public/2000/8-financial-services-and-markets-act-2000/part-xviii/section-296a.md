@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296A. Additional power to direct recognised central counterparties[^key-5a4010c2b5914fbfb9e11f98208faf9f][^M_F_b5ccdc3d-d8e2-4f9d-aa5a-fc9c06ee5015]
+## 296A. Additional power to direct recognised central counterparties[^c-5a4010c2b5914fbfb9e11f98208faf9f][^M_F_b5ccdc3d-d8e2-4f9d-aa5a-fc9c06ee5015]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4010c2b5914fbfb9e11f98208faf9f]: Textual amendment: S. 296A inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 31](https://www.legislation.gov.uk/ukpga/2012/21/section/31), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5a4010c2b5914fbfb9e11f98208faf9f]: Textual amendment: S. 296A inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 31](https://www.legislation.gov.uk/ukpga/2012/21/section/31), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^M_F_b5ccdc3d-d8e2-4f9d-aa5a-fc9c06ee5015]: Textual amendment: Words in s. 296A heading substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [3(11)(a)](https://www.legislation.gov.uk/uksi/2013/504/regulation/3/11/a) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 

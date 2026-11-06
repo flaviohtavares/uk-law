@@ -42,11 +42,11 @@ Made
 
 The Department of Justice[^f00001] makes the following Order in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020[^f00002].
 
-## 1. Citation[^key-239f594c1e0221f68e9f4891e4339106]
+## 1. Citation[^c-239f594c1e0221f68e9f4891e4339106]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Provisions relating to Live Links for Courts and Tribunals) Order (Northern Ireland) 2022.
 
-## 2. Extension of expiry date[^key-71870ac6d2e8e5843731a965741697dd]
+## 2. Extension of expiry date[^c-71870ac6d2e8e5843731a965741697dd]
 
 Parts 1 and 2 of Schedule 27 to the Coronavirus Act 2020, and section 57 of that Act so far as it relates to those Parts, do not expire at the time when they would otherwise expire and expire instead on 24th March 2023.
 
@@ -72,6 +72,6 @@ Article 2 extends the operation of the provisions until 24th March 2023.
 
 [^f00002]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-239f594c1e0221f68e9f4891e4339106]: Commencement: Art. 1 in operation at made date
+[^c-239f594c1e0221f68e9f4891e4339106]: Commencement: Art. 1 in operation at made date
 
-[^key-71870ac6d2e8e5843731a965741697dd]: Commencement: Art. 2 in operation at made date
+[^c-71870ac6d2e8e5843731a965741697dd]: Commencement: Art. 2 in operation at made date

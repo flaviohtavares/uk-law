@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Interpretation[^c22719311][^key-15038a113e45a2a17f7c0bae3d4149b5]
+## 95. Interpretation[^c22719311][^c-15038a113e45a2a17f7c0bae3d4149b5]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c22719311]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2017/3/section/95) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-15038a113e45a2a17f7c0bae3d4149b5]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2017/3/section/95) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-15038a113e45a2a17f7c0bae3d4149b5]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2017/3/section/95) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

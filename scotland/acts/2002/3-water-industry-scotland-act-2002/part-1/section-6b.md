@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6B. Annual reports and information regarding Customer Panels[^key-e7edca1dccaeb8527528f1d690fce3a9]
+## 6B. Annual reports and information regarding Customer Panels[^c-e7edca1dccaeb8527528f1d690fce3a9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7edca1dccaeb8527528f1d690fce3a9]: Textual amendment: S. 6B repealed (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/21); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)
+[^c-e7edca1dccaeb8527528f1d690fce3a9]: Textual amendment: S. 6B repealed (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/21); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Amendments to the Court Funds Rules 2011[^key-230903432161d7213b721939cdaa940a]
+## 133. Amendments to the Court Funds Rules 2011[^c-230903432161d7213b721939cdaa940a]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ In rule 2(b) of the Court Funds Rules 2011[^f00040]—
 
 ## Annotations
 
-[^key-230903432161d7213b721939cdaa940a]: Commencement: Art. 133 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-230903432161d7213b721939cdaa940a]: Commencement: Art. 133 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00040]: Footnote: [S.I. 2011/1734](https://www.legislation.gov.uk/uksi/2011/1734).

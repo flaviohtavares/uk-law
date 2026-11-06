@@ -31,9 +31,9 @@ summary: ''
 (5) In the case of a dispute referred to the Secretary of State under paragraph (1), the determination—
 
 - (a) may specify terms to be included in the proposed contract;
-- (b) may require NHS England[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660] to proceed with the proposed contract, but may not require the proposed contractor to proceed with the proposed contract; and
+- (b) may require NHS England[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660] to proceed with the proposed contract, but may not require the proposed contractor to proceed with the proposed contract; and
 - (c) shall be binding upon the prospective parties to the contract.
 
 ## Annotations
 
-[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

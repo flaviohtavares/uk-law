@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Death benefits[^key-3541254936218d29a0b096db05c29333]
+## 62. Death benefits[^c-3541254936218d29a0b096db05c29333]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3541254936218d29a0b096db05c29333]: Commencement: Reg. 62 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3541254936218d29a0b096db05c29333]: Commencement: Reg. 62 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

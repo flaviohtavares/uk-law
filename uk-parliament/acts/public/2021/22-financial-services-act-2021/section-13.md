@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Designation of certain critical benchmarks[^key-684e0384dc00637b73bae5b1dc099e80]
+## 13. Designation of certain critical benchmarks[^c-684e0384dc00637b73bae5b1dc099e80]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,4 +117,4 @@ In the Benchmarks Regulation, after Article 23 insert—
 
 ## Annotations
 
-[^key-684e0384dc00637b73bae5b1dc099e80]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/22/section/13) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/f)
+[^c-684e0384dc00637b73bae5b1dc099e80]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/22/section/13) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/f)

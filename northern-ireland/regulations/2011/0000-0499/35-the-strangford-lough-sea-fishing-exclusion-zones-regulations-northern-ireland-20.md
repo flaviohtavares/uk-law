@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries
 
-The Strangford Lough (Sea Fishing Exclusion Zones) Regulations (Northern Ireland) 2011 (revoked)[^key-f3c7e601882493d63a724fe453a2221f]
+The Strangford Lough (Sea Fishing Exclusion Zones) Regulations (Northern Ireland) 2011 (revoked)[^c-f3c7e601882493d63a724fe453a2221f]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into operation
 
 14th March 2011
 
-[^key-f3c7e601882493d63a724fe453a2221f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3c7e601882493d63a724fe453a2221f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-f3c7e601882493d63a724fe453a2221f]
+## 1. Citation and Commencement[^c-f3c7e601882493d63a724fe453a2221f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f3c7e601882493d63a724fe453a2221f]
+## 2. Interpretation[^c-f3c7e601882493d63a724fe453a2221f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of fishing[^key-f3c7e601882493d63a724fe453a2221f]
+## 3. Prohibition of fishing[^c-f3c7e601882493d63a724fe453a2221f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3c7e601882493d63a724fe453a2221f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3c7e601882493d63a724fe453a2221f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Co-ordinates[^key-f3c7e601882493d63a724fe453a2221f]
+## SCHEDULE — Co-ordinates[^c-f3c7e601882493d63a724fe453a2221f]
 
 Regulation 2 (2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3c7e601882493d63a724fe453a2221f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3c7e601882493d63a724fe453a2221f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3c7e601882493d63a724fe453a2221f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/35) revoked (8.1.2013) by [The Strangford Lough (Sea Fishing Exclusion Zones) Regulations (Northern Ireland) 2012 (S.R. 2012/441)](https://www.legislation.gov.uk/nisr/2012/441), [reg. 5](https://www.legislation.gov.uk/nisr/2012/441/regulation/5)
+[^c-f3c7e601882493d63a724fe453a2221f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/35) revoked (8.1.2013) by [The Strangford Lough (Sea Fishing Exclusion Zones) Regulations (Northern Ireland) 2012 (S.R. 2012/441)](https://www.legislation.gov.uk/nisr/2012/441), [reg. 5](https://www.legislation.gov.uk/nisr/2012/441/regulation/5)

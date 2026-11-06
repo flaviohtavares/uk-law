@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Separation of children and young persons from adults in police stations, courts, &c.[^key-5b8a1c4bbd2d5b96d4e5339f6bb13ced]
+## 31. Separation of children and young persons from adults in police stations, courts, &c.[^c-5b8a1c4bbd2d5b96d4e5339f6bb13ced]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Arrangements shall be made for preventing a child or young person while detained
 
 ## Annotations
 
-[^key-5b8a1c4bbd2d5b96d4e5339f6bb13ced]: Modification: S. 31 applied (with modifications) by 1994 c. 33, s. 137D(2)(d) Sch. 7B Pt. 1 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16)); S.I. 2018/227, art. 2(f)
+[^c-5b8a1c4bbd2d5b96d4e5339f6bb13ced]: Modification: S. 31 applied (with modifications) by 1994 c. 33, s. 137D(2)(d) Sch. 7B Pt. 1 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16)); S.I. 2018/227, art. 2(f)

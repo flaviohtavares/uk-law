@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Procedure following grant of an application[^key-333caf14060d1f60372aab9d89d2bddb]
+## 23. Procedure following grant of an application[^c-333caf14060d1f60372aab9d89d2bddb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-333caf14060d1f60372aab9d89d2bddb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2020/1073/regulation/23) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-333caf14060d1f60372aab9d89d2bddb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2020/1073/regulation/23) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

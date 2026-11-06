@@ -40,89 +40,89 @@ laying down rules for the implementation of Decision No 1313/2013/EU of the Euro
 
 (Text with EEA relevance) (revoked)
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-357d7c74dd4916e77f2f86039b1a1f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 1. Subject matter[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1a. Definitions[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 1a. Definitions[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. The initial composition of rescEU[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 2. The initial composition of rescEU[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Financial arrangements for the rescEU capacities referred to in Article 35 of Decision No 1313/2013/EU[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 3. Financial arrangements for the rescEU capacities referred to in Article 35 of Decision No 1313/2013/EU[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Total estimated costs of rescEU medical aerial evacuation capacities[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 3a. Total estimated costs of rescEU medical aerial evacuation capacities[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3b. Total estimated costs of rescEU emergency medical team type 3 capacities[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 3b. Total estimated costs of rescEU emergency medical team type 3 capacities[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3c. Total estimated costs of medical stockpiling rescEU capacities[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 3c. Total estimated costs of medical stockpiling rescEU capacities[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3d. Categories of low probability risks with a high impact[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 3d. Categories of low probability risks with a high impact[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3e. rescEU capacities established to respond to low probability risks with a high impact[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 3e. rescEU capacities established to respond to low probability risks with a high impact[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Implementing Decision 2014/762/EU[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 4. Amendment to Implementing Decision 2014/762/EU[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Addressees[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## Article 5. Addressees[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — QUALITY REQUIREMENTS FOR RESCEU CAPACITIES[^key-357d7c74dd4916e77f2f86039b1a1f69]
+## ANNEX — QUALITY REQUIREMENTS FOR RESCEU CAPACITIES[^c-357d7c74dd4916e77f2f86039b1a1f69]
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]1.
+[^c-357d7c74dd4916e77f2f86039b1a1f69]1.
 
 **Aerial forest firefighting capacities using airplanes**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]2.
+[^c-357d7c74dd4916e77f2f86039b1a1f69]2.
 
 **Aerial forest firefighting capacities using helicopters**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]3.
+[^c-357d7c74dd4916e77f2f86039b1a1f69]3.
 
 **Medical aerial evacuation capacities for highly infectious disease patients**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]4.
+[^c-357d7c74dd4916e77f2f86039b1a1f69]4.
 
 **Medical aerial evacuation capacities for disaster victims**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]5.
+[^c-357d7c74dd4916e77f2f86039b1a1f69]5.
 
 **Emergency medical team type 3 capacities: Inpatient Referral Care**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]6.
+[^c-357d7c74dd4916e77f2f86039b1a1f69]6.
 
 **Stockpiling of medical countermeasures and/or personal protective equipment aimed at combatting serious cross-border threats to health**
 
@@ -130,4 +130,4 @@ laying down rules for the implementation of Decision No 1313/2013/EU of the Euro
 
 ## Annotations
 
-[^key-357d7c74dd4916e77f2f86039b1a1f69]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(g)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/g)
+[^c-357d7c74dd4916e77f2f86039b1a1f69]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(g)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/g)

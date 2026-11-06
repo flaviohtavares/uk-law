@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Fitness to stand trial[^key-76de4a885987a103dcf6dcff1310a841][^key-e499e008dd213aa93ac4ebb67728fe32][^key-100c0df80fd69dc662d55a3c50425129]
+## 166. Fitness to stand trial[^c-76de4a885987a103dcf6dcff1310a841][^c-e499e008dd213aa93ac4ebb67728fe32][^c-100c0df80fd69dc662d55a3c50425129]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-76de4a885987a103dcf6dcff1310a841]: Commencement: S. 166 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-76de4a885987a103dcf6dcff1310a841]: Commencement: S. 166 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e499e008dd213aa93ac4ebb67728fe32]: Commencement: S. 166 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e499e008dd213aa93ac4ebb67728fe32]: Commencement: S. 166 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-100c0df80fd69dc662d55a3c50425129]: Modification: S. 166 applied (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 49(5)](https://www.legislation.gov.uk/uksi/2009/2041/rule/49/5)
+[^c-100c0df80fd69dc662d55a3c50425129]: Modification: S. 166 applied (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [art. 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [rule 49(5)](https://www.legislation.gov.uk/uksi/2009/2041/rule/49/5)

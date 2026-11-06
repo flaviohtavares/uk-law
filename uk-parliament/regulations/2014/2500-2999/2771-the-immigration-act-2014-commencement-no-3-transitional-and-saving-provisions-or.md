@@ -39,7 +39,7 @@ The Secretary of State, in exercise of the powers conferred by sections 35(3), 7
 
 ## PART 1 — Introduction and days appointed
 
-### 1. Citation and interpretation[^key-c47c8a4e49b3932ea9e03b17770a33bf]
+### 1. Citation and interpretation[^c-c47c8a4e49b3932ea9e03b17770a33bf]
 
 (1) This Order may be cited as the Immigration Act 2014 (Commencement No. 3, Transitional and Saving Provisions) Order 2014.
 
@@ -51,7 +51,7 @@ The Secretary of State, in exercise of the powers conferred by sections 35(3), 7
 - (d) “the relevant provisions” means section 1 (removal of persons unlawfully in the UK), section 15 (right of appeal to First-tier Tribunal) and section 17(2) (place from which appeal may be brought or continued) of, and paragraphs 3, 4, 5, 6 and 7 and Part 4 of Schedule 9 (apart from paragraph 26(2), (3) and (5)) (transitional and consequential provision relating to appeals) to, the Act;
 - (e) “the saved provisions” means section 10 of the Immigration and Asylum Act 1999[^f00004], sections 62, 72 and 76, and Part 5 of the 2002 Act[^f00005], section 8(7) of the Asylum and Immigration (Treatment of Claimants, etc) Act 2004[^f00006], section 47 of the Immigration, Asylum and Nationality Act 2006[^f00007] and paragraph 19(10) of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00008], as in force immediately prior to 20th October 2014.
 
-### 2. Provisions coming into force on 20th October 2014 subject to saving provision[^key-7ccec82ca1f3b13a28bbd34cd65db5b5]
+### 2. Provisions coming into force on 20th October 2014 subject to saving provision[^c-7ccec82ca1f3b13a28bbd34cd65db5b5]
 
 The day appointed for the coming into force of the following provisions of the Act, subject to the saving provision in articles 9, 10 and 11, is 20th October 2014—
 
@@ -61,7 +61,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (d) section 73(6) (transitional and consequential provision) so far as is necessary for the purpose of the provisions listed in sub-paragraph (e);
 - (e) paragraphs 1, 3, 4, 5, 6, 7, 9 and 10(2), and Part 4 of Schedule 9 to the extent not already commenced, apart from paragraph 26(2), (3) and (5).
 
-### 3. Part 4 provisions coming into force on 20th October 2014[^key-858b2e90df6d75ac93f72d376d2a12eb]
+### 3. Part 4 provisions coming into force on 20th October 2014[^c-858b2e90df6d75ac93f72d376d2a12eb]
 
 The day appointed for the coming into force of the following provisions of Part 4 of the Act (marriage and civil partnership), is 20th October 2014—
 
@@ -76,7 +76,7 @@ The day appointed for the coming into force of the following provisions of Part 
 - (i) section 60 (regulations about evidence);
 - (j) section 61 (notices).
 
-### 4. Other provisions coming into force on 20th October 2014[^key-54b023fdd15e96077870f72d37c80e54]
+### 4. Other provisions coming into force on 20th October 2014[^c-54b023fdd15e96077870f72d37c80e54]
 
 The day appointed for the coming into force of the following provisions of the Act is 20th October 2014—
 
@@ -88,7 +88,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (f) paragraphs 1 and 3 of Schedule 7;
 - (g) paragraph 1 of Schedule 9.
 
-### 5. Provisions coming into force on 17th November 2014[^key-61c56aea14ab6898797bc6d0c1bff2c8]
+### 5. Provisions coming into force on 17th November 2014[^c-61c56aea14ab6898797bc6d0c1bff2c8]
 
 The day appointed for the coming into force of the following provisions of the Act is 17th November 2014—
 
@@ -97,7 +97,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (c) Schedule 7 (immigration advisers and immigration service providers) to the extent not already commenced;
 - (d) Part 8 of Schedule 9 (transitional and consequential provision relating to immigration advisers and immigration service providers).
 
-### 6. Provisions coming into force on 1st December 2014 in certain areas only[^key-48cd720472465d2e33b556dec73a4459]
+### 6. Provisions coming into force on 1st December 2014 in certain areas only[^c-48cd720472465d2e33b556dec73a4459]
 
 (1) The day appointed for the coming into force of the following provisions of the Act is 1st December 2014 in respect of premises located in the areas of the relevant local authorities specified in paragraph (2)—
 
@@ -123,7 +123,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (d) Walsall Metropolitan Borough Council; and
 - (e) Wolverhampton City Council.
 
-### 7. Provisions coming into force on 1st December 2014[^key-eecc8d1ec7b71c65f65f8678deb46a59]
+### 7. Provisions coming into force on 1st December 2014[^c-eecc8d1ec7b71c65f65f8678deb46a59]
 
 The day appointed for the coming into force of the following provisions of the Act is 1st December 2014—
 
@@ -134,7 +134,7 @@ The day appointed for the coming into force of the following provisions of the A
 - (e) section 36 (Crown application); and
 - (f) section 37 (interpretation).
 
-### 8. Provisions coming into force on 15th December 2014[^key-1f7405c0411398acf39c78ec0408bbba]
+### 8. Provisions coming into force on 15th December 2014[^c-1f7405c0411398acf39c78ec0408bbba]
 
 The day appointed for the coming into force of the following provisions of the Act is 15th December 2014—
 
@@ -145,7 +145,7 @@ The day appointed for the coming into force of the following provisions of the A
 
 ## PART 2 — Transitional and saving provisions and repeals
 
-### 9. Transitional and saving provision[^key-feb36832c623c02848181fdfd7ff0593]
+### 9. Transitional and saving provision[^c-feb36832c623c02848181fdfd7ff0593]
 
 (1) Notwithstanding the commencement of the relevant provisions, the saved provisions continue to have effect and the relevant provisions do not have effect so far as they relate to the following decisions of the Secretary of State—
 
@@ -176,39 +176,39 @@ The day appointed for the coming into force of the following provisions of the A
 - “protection claim” has the same meaning as in section 82(2) of the 2002 Act;
 - “Tier 1 Migrant”, “Tier 2 Migrant”, “Tier 4 Migrant” and “Tier 5 Migrant” have the same meanings as in the immigration rules.
 
-**10.**[^key-3fe2f9421a67d6ca68c1003a6f3950df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3fe2f9421a67d6ca68c1003a6f3950df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c36ec96273c2d67e987d06b12593463e] (1)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c36ec96273c2d67e987d06b12593463e] (1)[^c-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c06dffb54e75fba0f7808acd451187e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the relevant provisions apply, and an appeal has already been brought against an immigration decision under section 82(1) of the 2002 Act but before the relevant provisions applied, the reference to a “decision” in section 96(1)(a) of the 2002 Act is to be read as a reference to an “immigration decision”.
 
 (5) In this article—
 
-- (a)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “immigration decision” has the same meaning as in section 82(2) of the 2002 Act as in force immediately prior to 20th October 2014;
-- (c)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-860a2ac358c27ff3c4a80746d536cb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-0698db601f69808a50d0e5e9816ba50b] For the purposes of section 35(3) of the Act, the day appointed as “the commencement day” is 1st December 2014.
+**12.**[^c-0698db601f69808a50d0e5e9816ba50b] For the purposes of section 35(3) of the Act, the day appointed as “the commencement day” is 1st December 2014.
 
-**13.**[^key-68ee183d660426715ea32f5ef18f3064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-68ee183d660426715ea32f5ef18f3064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Consequential revocation and saving[^key-c97a8d103e2f872e0862c91eef24ea75]
+### 14. Consequential revocation and saving[^c-c97a8d103e2f872e0862c91eef24ea75]
 
 Article 4 of the Immigration Act 2014 (Commencement No. 1, Transitory and Saving Provisions) Order 2014[^f00015] is revoked.
 
-**15.**[^key-5ffdc61ac47e0afff0f6a62d2c40c2b8] But in any case in which a foreign criminal as defined in section 117D(2) of the 2002 Act has made a human rights claim which the Secretary of State certified under section 94B of that Act prior to 20th October 2014, section 92 of the 2002 Act[^f00016] (appeal from within the United Kingdom: general) continues to have effect as if the following provisions of that Act were omitted—
+**15.**[^c-5ffdc61ac47e0afff0f6a62d2c40c2b8] But in any case in which a foreign criminal as defined in section 117D(2) of the 2002 Act has made a human rights claim which the Secretary of State certified under section 94B of that Act prior to 20th October 2014, section 92 of the 2002 Act[^f00016] (appeal from within the United Kingdom: general) continues to have effect as if the following provisions of that Act were omitted—
 
 - (a) the reference in subsection (2) to an immigration decision of a kind specified in section 82(2)(j);
 - (b) the reference in subsection (4)(a) to a human rights claim; and
@@ -287,7 +287,7 @@ The following provisions of the Act were brought into force by Statutory Instrum
 
 [^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-c47c8a4e49b3932ea9e03b17770a33bf]: Commencement: Art. 1 in force at made date
+[^c-c47c8a4e49b3932ea9e03b17770a33bf]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -303,38 +303,38 @@ The following provisions of the Act were brought into force by Statutory Instrum
 
 [^f00008]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-7ccec82ca1f3b13a28bbd34cd65db5b5]: Commencement: Art. 2 in force at made date
+[^c-7ccec82ca1f3b13a28bbd34cd65db5b5]: Commencement: Art. 2 in force at made date
 
-[^key-858b2e90df6d75ac93f72d376d2a12eb]: Commencement: Art. 3 in force at made date
+[^c-858b2e90df6d75ac93f72d376d2a12eb]: Commencement: Art. 3 in force at made date
 
-[^key-54b023fdd15e96077870f72d37c80e54]: Commencement: Art. 4 in force at made date
+[^c-54b023fdd15e96077870f72d37c80e54]: Commencement: Art. 4 in force at made date
 
-[^key-61c56aea14ab6898797bc6d0c1bff2c8]: Commencement: Art. 5 in force at made date
+[^c-61c56aea14ab6898797bc6d0c1bff2c8]: Commencement: Art. 5 in force at made date
 
-[^key-48cd720472465d2e33b556dec73a4459]: Commencement: Art. 6 in force at made date
+[^c-48cd720472465d2e33b556dec73a4459]: Commencement: Art. 6 in force at made date
 
-[^key-eecc8d1ec7b71c65f65f8678deb46a59]: Commencement: Art. 7 in force at made date
+[^c-eecc8d1ec7b71c65f65f8678deb46a59]: Commencement: Art. 7 in force at made date
 
-[^key-1f7405c0411398acf39c78ec0408bbba]: Commencement: Art. 8 in force at made date
+[^c-1f7405c0411398acf39c78ec0408bbba]: Commencement: Art. 8 in force at made date
 
-[^key-feb36832c623c02848181fdfd7ff0593]: Textual amendment: Art. 9 substituted (6.4.2015) by [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(2)](https://www.legislation.gov.uk/uksi/2015/371/article/8/2)
+[^c-feb36832c623c02848181fdfd7ff0593]: Textual amendment: Art. 9 substituted (6.4.2015) by [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(2)](https://www.legislation.gov.uk/uksi/2015/371/article/8/2)
 
-[^key-3fe2f9421a67d6ca68c1003a6f3950df]: Textual amendment: Art. 10 omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(3)](https://www.legislation.gov.uk/uksi/2015/371/article/8/3)
+[^c-3fe2f9421a67d6ca68c1003a6f3950df]: Textual amendment: Art. 10 omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(3)](https://www.legislation.gov.uk/uksi/2015/371/article/8/3)
 
-[^key-c36ec96273c2d67e987d06b12593463e]: Commencement: Art. 11 in force at made date
+[^c-c36ec96273c2d67e987d06b12593463e]: Commencement: Art. 11 in force at made date
 
-[^key-c06dffb54e75fba0f7808acd451187e7]: Textual amendment: Art. 11(1)(1A)(2)(3) omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(4)](https://www.legislation.gov.uk/uksi/2015/371/article/8/4)
+[^c-c06dffb54e75fba0f7808acd451187e7]: Textual amendment: Art. 11(1)(1A)(2)(3) omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(4)](https://www.legislation.gov.uk/uksi/2015/371/article/8/4)
 
-[^key-860a2ac358c27ff3c4a80746d536cb67]: Textual amendment: Art. 11(5)(a)(c)-(i) omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(4)](https://www.legislation.gov.uk/uksi/2015/371/article/8/4)
+[^c-860a2ac358c27ff3c4a80746d536cb67]: Textual amendment: Art. 11(5)(a)(c)-(i) omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(4)](https://www.legislation.gov.uk/uksi/2015/371/article/8/4)
 
-[^key-0698db601f69808a50d0e5e9816ba50b]: Commencement: Art. 12 in force at made date
+[^c-0698db601f69808a50d0e5e9816ba50b]: Commencement: Art. 12 in force at made date
 
-[^key-68ee183d660426715ea32f5ef18f3064]: Textual amendment: Art. 13 omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(5)](https://www.legislation.gov.uk/uksi/2015/371/article/8/5)
+[^c-68ee183d660426715ea32f5ef18f3064]: Textual amendment: Art. 13 omitted (6.4.2015) by virtue of [The Immigration Act 2014 (Commencement No. 4, Transitional and Saving Provisions and Amendment) Order 2015 (S.I. 2015/371)](https://www.legislation.gov.uk/uksi/2015/371), [art. 8(5)](https://www.legislation.gov.uk/uksi/2015/371/article/8/5)
 
-[^key-c97a8d103e2f872e0862c91eef24ea75]: Commencement: Art. 14 in force at made date
+[^c-c97a8d103e2f872e0862c91eef24ea75]: Commencement: Art. 14 in force at made date
 
 [^f00015]: Footnote: [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820).
 
-[^key-5ffdc61ac47e0afff0f6a62d2c40c2b8]: Commencement: Art. 15 in force at made date
+[^c-5ffdc61ac47e0afff0f6a62d2c40c2b8]: Commencement: Art. 15 in force at made date
 
 [^f00016]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); subsection (2) was amended by section 47(7) of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) and subsection (4)(b) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amendments but none are relevant.

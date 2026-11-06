@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122D. Entry of premises under warrant[^key-6fd0432ab398d8bfa3958d489ec58a52]
+## 122D. Entry of premises under warrant[^c-6fd0432ab398d8bfa3958d489ec58a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,20 +52,20 @@ summary: ''
 - (a) for the reference to a justice of the peace substitute a reference to a justice of the peace or a sheriff; and
 - (b) for the references to information on oath substitute references to evidence on oath.
 
-(10) The FCA may give information under subsection (1) or under section 176(1) at the request of an overseas[^key-8e6775957c7f9391432b437cb7ac9090] regulator where the regulator makes the request in the exercise of its relevant functions[^key-6951305407d3d0976bc1f3eb0c77bc5e].
+(10) The FCA may give information under subsection (1) or under section 176(1) at the request of an overseas[^c-8e6775957c7f9391432b437cb7ac9090] regulator where the regulator makes the request in the exercise of its relevant functions[^c-6951305407d3d0976bc1f3eb0c77bc5e].
 
-(10A)[^key-ef7d8918bcdaed2a1d4bef9c139b1720] In subsection (10), “overseas regulator” and “relevant functions” have the meaning given in section 122B(6A).
+(10A)[^c-ef7d8918bcdaed2a1d4bef9c139b1720] In subsection (10), “overseas regulator” and “relevant functions” have the meaning given in section 122B(6A).
 
-(11)[^key-1e4488824db3ec7229f7557c1d70e65a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-1e4488824db3ec7229f7557c1d70e65a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
+[^c-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
 
-[^key-8e6775957c7f9391432b437cb7ac9090]: Textual amendment: Word in [s. 122D(10)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/10) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e6775957c7f9391432b437cb7ac9090]: Textual amendment: Word in [s. 122D(10)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/10) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6951305407d3d0976bc1f3eb0c77bc5e]: Textual amendment: Words in [s. 122D(10)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/10) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6951305407d3d0976bc1f3eb0c77bc5e]: Textual amendment: Words in [s. 122D(10)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/10) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef7d8918bcdaed2a1d4bef9c139b1720]: Textual amendment: [S. 122D(10A)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/10A) inserted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef7d8918bcdaed2a1d4bef9c139b1720]: Textual amendment: [S. 122D(10A)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/10A) inserted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e4488824db3ec7229f7557c1d70e65a]: Textual amendment: [S. 122D(11)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/11) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e4488824db3ec7229f7557c1d70e65a]: Textual amendment: [S. 122D(11)](https://www.legislation.gov.uk/ukpga/2000/8/section/122D/11) omitted (31.12.2020) by virtue of [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

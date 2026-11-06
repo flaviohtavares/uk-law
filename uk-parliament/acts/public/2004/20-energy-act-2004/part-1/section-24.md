@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Limit on NDA borrowing[^key-3eb001156a60b74e7ed71152685e8ef9]
+## 24. Limit on NDA borrowing[^c-3eb001156a60b74e7ed71152685e8ef9]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eb001156a60b74e7ed71152685e8ef9]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2004/20/section/24) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-3eb001156a60b74e7ed71152685e8ef9]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2004/20/section/24) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

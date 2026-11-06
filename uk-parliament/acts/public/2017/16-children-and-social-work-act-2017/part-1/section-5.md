@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Maintained schools: staff member for previously looked after pupils[^key-93b0170936442cc2ac175f103f720288]
+## 5. Maintained schools: staff member for previously looked after pupils[^c-93b0170936442cc2ac175f103f720288]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ After section 20 of the Children and Young Persons Act 2008 insert—
 
 ## Annotations
 
-[^key-93b0170936442cc2ac175f103f720288]: Commencement: S. 5 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-93b0170936442cc2ac175f103f720288]: Commencement: S. 5 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)

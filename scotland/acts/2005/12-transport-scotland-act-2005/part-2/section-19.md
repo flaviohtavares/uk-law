@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-39fd35ff81cbdcfb9f855f003f3bc320][^key-c6ae1bb70cb88b55b7fc38c752caad90] For section 112 (the road works register) of the 1991 Act there are substituted the following sections—
+(1)[^c-39fd35ff81cbdcfb9f855f003f3bc320][^c-c6ae1bb70cb88b55b7fc38c752caad90] For section 112 (the road works register) of the 1991 Act there are substituted the following sections—
 
 > **112A. The Scottish Road Works Register**
 >
@@ -86,9 +86,9 @@ summary: ''
 
 .
 
-(2)[^key-c3535d83a4da649ebf7229c5cf0dfd21] In section 108(2) of the 1991 Act (roads authority to be regarded in certain circumstances as road works authority for purposes including those of section 112 of the Act) for “112” there is substituted “ 112B (duty to enter certain information in Scottish Road Works Register) ”.
+(2)[^c-c3535d83a4da649ebf7229c5cf0dfd21] In section 108(2) of the 1991 Act (roads authority to be regarded in certain circumstances as road works authority for purposes including those of section 112 of the Act) for “112” there is substituted “ 112B (duty to enter certain information in Scottish Road Works Register) ”.
 
-(3)[^key-c3535d83a4da649ebf7229c5cf0dfd21] In section 113 of the 1991 Act (giving of advance notice of certain road works)—
+(3)[^c-c3535d83a4da649ebf7229c5cf0dfd21] In section 113 of the 1991 Act (giving of advance notice of certain road works)—
 
 - (a) in subsection (1) “to the road works authority” is repealed; and
 - (b) for subsection (3) there is substituted—
@@ -97,7 +97,7 @@ summary: ''
 
   .
 
-(4)[^key-c3535d83a4da649ebf7229c5cf0dfd21] In section 114 of the 1991 Act (notice of starting date of road works)—
+(4)[^c-c3535d83a4da649ebf7229c5cf0dfd21] In section 114 of the 1991 Act (notice of starting date of road works)—
 
 - (a) in subsection (1) the words from “to”, where thirdly occurring, to the end are repealed; and
 - (b) for subsection (3) there is substituted—
@@ -111,7 +111,7 @@ summary: ''
 
   .
 
-(5)[^key-c3535d83a4da649ebf7229c5cf0dfd21] In section 116 of the 1991 Act (notice of emergency works)—
+(5)[^c-c3535d83a4da649ebf7229c5cf0dfd21] In section 116 of the 1991 Act (notice of emergency works)—
 
 - (a) in subsection (2) the words from “to” to the end are repealed; and
 - (b) for subsection (3) there is substituted—
@@ -125,12 +125,12 @@ summary: ''
 
   .
 
-(6)[^key-c3535d83a4da649ebf7229c5cf0dfd21] In subsection (2) of section 117 of the 1991 Act (restriction of works following substantial road works)—
+(6)[^c-c3535d83a4da649ebf7229c5cf0dfd21] In subsection (2) of section 117 of the 1991 Act (restriction of works following substantial road works)—
 
 - (a) for “published in the prescribed manner” there is substituted “ entered in the SRWR ”; and
 - (b) for “published”, where secondly and thirdly occurring, there is substituted “ so entered ”.
 
-(7)[^key-39fd35ff81cbdcfb9f855f003f3bc320][^key-c6ae1bb70cb88b55b7fc38c752caad90] In section 165 of the 1991 Act (index for Part 4)—
+(7)[^c-39fd35ff81cbdcfb9f855f003f3bc320][^c-c6ae1bb70cb88b55b7fc38c752caad90] In section 165 of the 1991 Act (index for Part 4)—
 
 - (a) after the entry for “carriageway” there is inserted—
 
@@ -149,8 +149,8 @@ summary: ''
 
 ## Annotations
 
-[^key-39fd35ff81cbdcfb9f855f003f3bc320]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/asp/2005/12/section/19/1)[(7)](https://www.legislation.gov.uk/asp/2005/12/section/19/7) in force at 29.2.2008 for specified purposes by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/15/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/15/article/3))
+[^c-39fd35ff81cbdcfb9f855f003f3bc320]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/asp/2005/12/section/19/1)[(7)](https://www.legislation.gov.uk/asp/2005/12/section/19/7) in force at 29.2.2008 for specified purposes by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/15/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/15/article/3))
 
-[^key-c6ae1bb70cb88b55b7fc38c752caad90]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/asp/2005/12/section/19/1)[(7)](https://www.legislation.gov.uk/asp/2005/12/section/19/7) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/15/article/3))
+[^c-c6ae1bb70cb88b55b7fc38c752caad90]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/asp/2005/12/section/19/1)[(7)](https://www.legislation.gov.uk/asp/2005/12/section/19/7) in force at 1.4.2008 in so far as not already in force by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/15/article/3))
 
-[^key-c3535d83a4da649ebf7229c5cf0dfd21]: Commencement: [S. 19(2)-(6)](https://www.legislation.gov.uk/asp/2005/12/section/19/2) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/15/article/3))
+[^c-c3535d83a4da649ebf7229c5cf0dfd21]: Commencement: [S. 19(2)-(6)](https://www.legislation.gov.uk/asp/2005/12/section/19/2) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/15/article/3))

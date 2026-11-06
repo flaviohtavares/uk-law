@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Traffic regulation measures[^key-c5ea3e6c5cac4eca0eecbe09ccfb70b7]
+## 14. Traffic regulation measures[^c-c5ea3e6c5cac4eca0eecbe09ccfb70b7]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) permitting, prohibiting or restricting the stopping, waiting, loading or unloading of vehicles on any road;
 - (c) as to the prescribed routes for vehicular traffic or the direction or priority of vehicular traffic on any road;
 - (d) permitting, prohibiting or restricting the use by vehicular traffic or non-vehicular traffic of any road; and
-- (e) suspending or amending[^key-fa7966b24558ede72b1466651b189c57] in whole or in part any order made, or having effect as if made, under the 1984 Act.
+- (e) suspending or amending[^c-fa7966b24558ede72b1466651b189c57] in whole or in part any order made, or having effect as if made, under the 1984 Act.
 
 (3) No speed limit imposed by or under this Order applies to vehicles falling within regulation 3(4) of the Road Traffic Exemptions (Special Forces) (Variation and Amendment) Regulations 2011[^f00038] when in accordance with regulation 3(5) of those regulations.
 
@@ -52,11 +52,11 @@ summary: ''
 
 ## Annotations
 
-[^key-c5ea3e6c5cac4eca0eecbe09ccfb70b7]: Commencement: Art. 14 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-c5ea3e6c5cac4eca0eecbe09ccfb70b7]: Commencement: Art. 14 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00037]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 
-[^key-fa7966b24558ede72b1466651b189c57]: Textual amendment: Word in [art. 14(2)(e)](https://www.legislation.gov.uk/uksi/2023/734/article/14/2/e) substituted (21.11.2023) by [The Longfield Solar Farm (Correction) Order 2023 (S.I. 2023/1241)](https://www.legislation.gov.uk/uksi/2023/1241), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1241/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1241/schedule)
+[^c-fa7966b24558ede72b1466651b189c57]: Textual amendment: Word in [art. 14(2)(e)](https://www.legislation.gov.uk/uksi/2023/734/article/14/2/e) substituted (21.11.2023) by [The Longfield Solar Farm (Correction) Order 2023 (S.I. 2023/1241)](https://www.legislation.gov.uk/uksi/2023/1241), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1241/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1241/schedule)
 
 [^f00038]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 

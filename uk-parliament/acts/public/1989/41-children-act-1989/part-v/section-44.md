@@ -100,7 +100,7 @@ he shall return the child or (as the case may be) allow him to be removed.
 - (a) his parents;
 - (b) any person who is not a parent of his but who has parental responsibility for him;
 - (c) any person with whom he was living immediately before the making of the order;
-- (d)[^key-dc900bebccbcd17d0db360511c47b4f8] any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
+- (d)[^c-dc900bebccbcd17d0db360511c47b4f8] any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
 - (e) any person who is allowed to have contact with the child by virtue of an order under section 34; and
 - (f) any person acting on behalf of any of those persons.
 
@@ -114,4 +114,4 @@ he shall return the child or (as the case may be) allow him to be removed.
 
 [^c15165681]: Commencement: S. 44 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-dc900bebccbcd17d0db360511c47b4f8]: Textual amendment: [S. 44(13)(d)](https://www.legislation.gov.uk/ukpga/1989/41/section/44/13/d) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/35); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-dc900bebccbcd17d0db360511c47b4f8]: Textual amendment: [S. 44(13)(d)](https://www.legislation.gov.uk/ukpga/1989/41/section/44/13/d) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/35); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

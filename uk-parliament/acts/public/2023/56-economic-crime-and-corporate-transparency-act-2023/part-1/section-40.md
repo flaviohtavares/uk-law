@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Disqualified directors[^key-2c7602a9108fdc04e8114bb53c19af0c][^key-cfd843bbd382c3ef17bd7c68293c4826]
+## 40. Disqualified directors[^c-2c7602a9108fdc04e8114bb53c19af0c][^c-cfd843bbd382c3ef17bd7c68293c4826]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c7602a9108fdc04e8114bb53c19af0c]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2c7602a9108fdc04e8114bb53c19af0c]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-cfd843bbd382c3ef17bd7c68293c4826]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/56/section/40) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z4)
+[^c-cfd843bbd382c3ef17bd7c68293c4826]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/56/section/40) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z4)

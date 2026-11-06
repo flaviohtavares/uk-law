@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12A. Consent required for certain alterations to premises[^key-bf2d8f607b82cbce1e358849077daf44]
+## 12A. Consent required for certain alterations to premises[^c-bf2d8f607b82cbce1e358849077daf44]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf2d8f607b82cbce1e358849077daf44]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/nisi/1996/3159/article/12A) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 29(1)](https://www.legislation.gov.uk/nia/2021/7/section/29/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-bf2d8f607b82cbce1e358849077daf44]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/nisi/1996/3159/article/12A) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 29(1)](https://www.legislation.gov.uk/nia/2021/7/section/29/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Register to be kept by the Commissioner[^key-feb96c56d6f1314ae59331e0cd2d40ac]
+## 83. Register to be kept by the Commissioner[^c-feb96c56d6f1314ae59331e0cd2d40ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feb96c56d6f1314ae59331e0cd2d40ac]: Commencement: Reg. 83 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-feb96c56d6f1314ae59331e0cd2d40ac]: Commencement: Reg. 83 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

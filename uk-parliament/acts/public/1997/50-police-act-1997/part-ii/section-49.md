@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Objectives.[^key-bb82d393f70dabe032c66aeac0609bc4]
+## 49. Objectives.[^c-bb82d393f70dabe032c66aeac0609bc4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb82d393f70dabe032c66aeac0609bc4]: Textual amendment: Ss. 1-87 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/95), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2)[(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/7))
+[^c-bb82d393f70dabe032c66aeac0609bc4]: Textual amendment: Ss. 1-87 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/95), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2)[(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/7))

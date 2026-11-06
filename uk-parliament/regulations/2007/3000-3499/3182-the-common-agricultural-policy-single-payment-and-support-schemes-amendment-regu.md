@@ -32,7 +32,7 @@ summary: ''
 
 agriculture, england
 
-The Common Agricultural Policy Single Payment and Support Schemes (Amendment) Regulations 2007 (revoked)[^key-5c72c68a191ea93a1b4775ac164a097e]
+The Common Agricultural Policy Single Payment and Support Schemes (Amendment) Regulations 2007 (revoked)[^c-5c72c68a191ea93a1b4775ac164a097e]
 
 Made
 
@@ -46,51 +46,51 @@ Coming into force
 
 1st December 2007
 
-[^key-5c72c68a191ea93a1b4775ac164a097e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c72c68a191ea93a1b4775ac164a097e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-5c72c68a191ea93a1b4775ac164a097e]
+## 1. Title and commencement[^c-5c72c68a191ea93a1b4775ac164a097e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-5c72c68a191ea93a1b4775ac164a097e]
+## 2. Amendments[^c-5c72c68a191ea93a1b4775ac164a097e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5c72c68a191ea93a1b4775ac164a097e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c72c68a191ea93a1b4775ac164a097e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c72c68a191ea93a1b4775ac164a097e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-5c72c68a191ea93a1b4775ac164a097e]
+## SCHEDULE[^c-5c72c68a191ea93a1b4775ac164a097e]
 
 Regulation 7
 
-> **SCHEDULE 1 — Progressive modifications of entitlements[^key-5c72c68a191ea93a1b4775ac164a097e]**
+> **SCHEDULE 1 — Progressive modifications of entitlements[^c-5c72c68a191ea93a1b4775ac164a097e]**
 >
 > Regulation 8
 >
-> **Part A (payments from sugar funding)[^key-5c72c68a191ea93a1b4775ac164a097e]**
+> **Part A (payments from sugar funding)[^c-5c72c68a191ea93a1b4775ac164a097e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part B (other payments)[^key-5c72c68a191ea93a1b4775ac164a097e]**
+> **Part B (other payments)[^c-5c72c68a191ea93a1b4775ac164a097e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5c72c68a191ea93a1b4775ac164a097e]EXPLANATORY NOTE
+[^c-5c72c68a191ea93a1b4775ac164a097e]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -108,4 +108,4 @@ An impact assessment on the options for incorporation of the income support paym
 
 ## Annotations
 
-[^key-5c72c68a191ea93a1b4775ac164a097e]: Textual amendment: Regulations revoked (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), regs. 1, [9(f)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9/f)
+[^c-5c72c68a191ea93a1b4775ac164a097e]: Textual amendment: Regulations revoked (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), regs. 1, [9(f)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9/f)

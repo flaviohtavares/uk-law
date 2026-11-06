@@ -177,7 +177,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation lays down the microbiological criteria for certain micro-organisms and the implementing rules to be complied with by food business operators when implementing the general and specific hygiene measures referred to in Article 4 of Regulation (EC) No 852/2004. The competent authority shall verify compliance with the rules and criteria laid down in this Regulation in accordance with Regulation (EC) No 882/2004, without prejudice to its right to undertake further sampling and analyses for the purpose of detecting and measuring other micro-organisms, their toxins or metabolites, either as a verification of processes, for food suspected of being unsafe, or in the context of a risk analysis.
 
-This Regulation shall apply without prejudice to other specific rules for the control of micro-organisms laid down in [^key-243e5be47981852a60a1905ad242fd9c]... legislation and in particular the health standards for foodstuffs laid down in Regulation (EC) No 853/2004 of the European Parliament and of the Council[^f00011], the rules on parasites laid down under Regulation (EC) No 854/2004 of the European Parliament and of the Council[^f00012] and the microbiological criteria laid down under Council Directive 80/777/EEC[^f00013].
+This Regulation shall apply without prejudice to other specific rules for the control of micro-organisms laid down in [^c-243e5be47981852a60a1905ad242fd9c]... legislation and in particular the health standards for foodstuffs laid down in Regulation (EC) No 853/2004 of the European Parliament and of the Council[^f00011], the rules on parasites laid down under Regulation (EC) No 854/2004 of the European Parliament and of the Council[^f00012] and the microbiological criteria laid down under Council Directive 80/777/EEC[^f00013].
 
 ## Article 2. Definitions
 
@@ -190,8 +190,8 @@ The following definitions shall apply:
 - ((e)) ‘batch’ means a group or set of identifiable products obtained from a given process under practically identical circumstances and produced in a given place within one defined production period;
 - ((f)) ‘shelf-life’ means either the period corresponding to the period preceding the ‘use by’ or the minimum durability date, as defined respectively in Articles 9 and 10 of Directive 2000/13/EC;
 - ((g)) ‘ready-to-eat food’ means food intended by the producer or the manufacturer for direct human consumption without the need for cooking or other processing effective to eliminate or reduce to an acceptable level micro-organisms of concern;
-- ((h)) ‘food intended for infants’ means food specifically intended for infants, as defined in Regulation (EU) No 609/2013[^key-de3482b4ce029bc58cdccdedc3126e29];
-- ((i)) ‘food intended for special medical purposes’ means dietary food for special medical purposes, as defined in Regulation (EU) No 609/2013[^key-36230c3a9cf8c8292d0584ccc47c10aa];
+- ((h)) ‘food intended for infants’ means food specifically intended for infants, as defined in Regulation (EU) No 609/2013[^c-de3482b4ce029bc58cdccdedc3126e29];
+- ((i)) ‘food intended for special medical purposes’ means dietary food for special medical purposes, as defined in Regulation (EU) No 609/2013[^c-36230c3a9cf8c8292d0584ccc47c10aa];
 - ((j)) ‘sample’ means a set composed of one or several units or a portion of matter selected by different means in a population or in an important quantity of matter, which is intended to provide information on a given characteristic of the studied population or matter and to provide a basis for a decision concerning the population or matter in question or concerning the process which has produced it;
 - ((k)) ‘representative sample’ means a sample in which the characteristics of the batch from which it is drawn are maintained. This is in particular the case of a simple random sample where each of the items or increments of the batch has been given the same probability of entering the sample;
 - ((l)) ‘compliance with microbiological criteria’ means obtaining satisfactory or acceptable results set in Annex I when testing against the values set for the criteria through the taking of samples, the conduct of analyses and the implementation of corrective action, in accordance with food law and the instructions given by the competent authority;[^c000001]
@@ -278,7 +278,7 @@ The food business operator may use the batch for purposes other than those for w
 
 4. In the event of unsatisfactory results as regards process hygiene criteria the actions laid down in Annex I, Chapter 2 shall be taken.
 
-## Article 8. Transitional derogation[^key-fa49075222f3b9e45856a52d7859ec96]
+## Article 8. Transitional derogation[^c-fa49075222f3b9e45856a52d7859ec96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -298,7 +298,7 @@ Decision 93/51/EEC is repealed.
 
 It shall apply from 1 January 2006.
 
-[^key-3399053cf67efc83afd131217ab6ab07]...
+[^c-3399053cf67efc83afd131217ab6ab07]...
 
 ## ANNEX I — Microbiological criteria for foodstuffs[^c000007]
 
@@ -792,7 +792,7 @@ The above mentioned studies shall take into account the inherent variability lin
 
 [^f00010]: Footnote: [OJ L 325, 12.12.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.325.01.0001.01.ENG).
 
-[^key-243e5be47981852a60a1905ad242fd9c]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2005/2073/article/1) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/642/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-243e5be47981852a60a1905ad242fd9c]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2005/2073/article/1) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/642/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00011]: Footnote: [OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG), corrected by [OJ L 226, 25.6.2004, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.226.01.0022.01.ENG).
 
@@ -800,9 +800,9 @@ The above mentioned studies shall take into account the inherent variability lin
 
 [^f00013]: Footnote: [OJ L 229, 30.8.1980, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1980.229.01.0001.01.ENG).
 
-[^key-de3482b4ce029bc58cdccdedc3126e29]: Textual amendment: Words in [Art. 2(h)](https://www.legislation.gov.uk/eur/2005/2073/article/2/h) substituted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [22(b)](https://www.legislation.gov.uk/uksi/2019/642/regulation/22/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de3482b4ce029bc58cdccdedc3126e29]: Textual amendment: Words in [Art. 2(h)](https://www.legislation.gov.uk/eur/2005/2073/article/2/h) substituted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [22(b)](https://www.legislation.gov.uk/uksi/2019/642/regulation/22/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36230c3a9cf8c8292d0584ccc47c10aa]: Textual amendment: Words in [Art. 2(i)](https://www.legislation.gov.uk/eur/2005/2073/article/2/i) substituted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [22(c)](https://www.legislation.gov.uk/uksi/2019/642/regulation/22/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36230c3a9cf8c8292d0584ccc47c10aa]: Textual amendment: Words in [Art. 2(i)](https://www.legislation.gov.uk/eur/2005/2073/article/2/i) substituted (31.12.2020) by [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [22(c)](https://www.legislation.gov.uk/uksi/2019/642/regulation/22/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 209/2013 of 11 March 2013 amending Regulation (EC) No 2073/2005 as regards microbiological criteria for sprouts and the sampling rules for poultry carcases and fresh poultry meat (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/209).
 
@@ -822,9 +822,9 @@ The above mentioned studies shall take into account the inherent variability lin
 
 [^f00018]: Footnote: Commission Delegated Regulation (EU) 2019/625 of[^c000006] 4 March 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption ( [OJ L 131, 17.5.2019, p. 18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.131.01.0018.01.ENG) ).
 
-[^key-fa49075222f3b9e45856a52d7859ec96]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2005/2073/article/8) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/642/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa49075222f3b9e45856a52d7859ec96]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2005/2073/article/8) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/642/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3399053cf67efc83afd131217ab6ab07]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/2073/signature) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/642/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3399053cf67efc83afd131217ab6ab07]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/2073/signature) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/642/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000007]: Textual amendment: Substituted by [Commission Regulation (EC) No 1441/2007 of 5 December 2007 amending Regulation (EC) No 2073/2005 on microbiological criteria for foodstuffs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2007/1441).
 

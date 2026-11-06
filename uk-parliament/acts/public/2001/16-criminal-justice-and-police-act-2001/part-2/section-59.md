@@ -64,8 +64,8 @@ if that authority is satisfied that the retention of the property is justified o
 - (b) to make an order under—
   - (i) paragraph 4 of Schedule 1 to the 1984 Act,
   - (ii) paragraph 4 of Schedule 1 to the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 1341 (N.I. 12)),
-  - (iii) section 20BA of the Taxes Management Act 1970 (c. 9), [^key-b535fcf4c445519a0621218e5e81b9f1]...
-  - (iv) paragraph 5 of Schedule 5 to the Terrorism Act 2000 (c. 11), or[^key-f6309c13da3e7fccf43602e985051eb6]
+  - (iii) section 20BA of the Taxes Management Act 1970 (c. 9), [^c-b535fcf4c445519a0621218e5e81b9f1]...
+  - (iv) paragraph 5 of Schedule 5 to the Terrorism Act 2000 (c. 11), or[^c-f6309c13da3e7fccf43602e985051eb6]
   - (v) paragraph 3 of Schedule 2 to the National Security Act 2023,
 
   under which the property would fall to be delivered up or produced to the person mentioned in paragraph (a).
@@ -97,12 +97,12 @@ the facts mentioned in paragraph (a) shall not be taken into account by the appr
 
 (12) For the purposes of subsection (11)(b), the persons who have an interest in seized property shall, in the case of property which is or contains an item subject to legal privilege, be taken to include the person in whose favour that privilege is conferred.
 
-(13)[^key-a974e0f14b10aa3f6c598130553c91fd] Criminal Procedure Rules may make provision about proceedings under this section on an application to a judge of the Crown Court in England and Wales.
+(13)[^c-a974e0f14b10aa3f6c598130553c91fd] Criminal Procedure Rules may make provision about proceedings under this section on an application to a judge of the Crown Court in England and Wales.
 
 ## Annotations
 
-[^key-b535fcf4c445519a0621218e5e81b9f1]: Textual amendment: Word in [s. 59(7)(b)(iii)](https://www.legislation.gov.uk/ukpga/2001/16/section/59/7/b/iii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 21(3)(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/21/3/a)
+[^c-b535fcf4c445519a0621218e5e81b9f1]: Textual amendment: Word in [s. 59(7)(b)(iii)](https://www.legislation.gov.uk/ukpga/2001/16/section/59/7/b/iii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 21(3)(a)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/21/3/a)
 
-[^key-f6309c13da3e7fccf43602e985051eb6]: Textual amendment: [S. 59(7)(b)(v)](https://www.legislation.gov.uk/ukpga/2001/16/section/59/7/b/v) and word inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/21/3/b)
+[^c-f6309c13da3e7fccf43602e985051eb6]: Textual amendment: [S. 59(7)(b)(v)](https://www.legislation.gov.uk/ukpga/2001/16/section/59/7/b/v) and word inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386)](https://www.legislation.gov.uk/uksi/2023/1386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1386/regulation/1/2), [Sch. para. 21(3)(b)](https://www.legislation.gov.uk/uksi/2023/1386/schedule/paragraph/21/3/b)
 
-[^key-a974e0f14b10aa3f6c598130553c91fd]: Textual amendment: S. 59(13) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 82(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/82/5), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(o)](https://www.legislation.gov.uk/uksi/2015/994/article/6/o)
+[^c-a974e0f14b10aa3f6c598130553c91fd]: Textual amendment: S. 59(13) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 82(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/82/5), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(o)](https://www.legislation.gov.uk/uksi/2015/994/article/6/o)

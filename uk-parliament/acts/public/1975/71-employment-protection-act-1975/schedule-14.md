@@ -36,7 +36,7 @@ Section 115.
 
 **4, 5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c890627]
 
-**6.** [^key-69fae341c85ebc740eeb5a54824f38ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.** [^c-69fae341c85ebc740eeb5a54824f38ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -52,4 +52,4 @@ Section 115.
 
 [^c890627]: Textual amendment: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1975/71/schedule/14/paragraph/1), [4](https://www.legislation.gov.uk/ukpga/1975/71/schedule/14/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/1975/71/schedule/14/paragraph/5) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
-[^key-69fae341c85ebc740eeb5a54824f38ad]: Textual amendment: Sch. 14 para. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-69fae341c85ebc740eeb5a54824f38ad]: Textual amendment: Sch. 14 para. 6 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

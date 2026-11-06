@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109A. Transferred EU merger commitments: witnesses, documents etc[^key-9916f4888c5c4164c6a7186c9d7f30ab]
+## 109A. Transferred EU merger commitments: witnesses, documents etc[^c-9916f4888c5c4164c6a7186c9d7f30ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any power exercisable by the CMA under section 109 for “permitted purposes” 
 
 ## Annotations
 
-[^key-9916f4888c5c4164c6a7186c9d7f30ab]: Textual amendment: S. 109A inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [50A](https://www.legislation.gov.uk/uksi/2019/93/regulation/50A) (with [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1343/regulation/9), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9916f4888c5c4164c6a7186c9d7f30ab]: Textual amendment: S. 109A inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [50A](https://www.legislation.gov.uk/uksi/2019/93/regulation/50A) (with [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/1343/regulation/9), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

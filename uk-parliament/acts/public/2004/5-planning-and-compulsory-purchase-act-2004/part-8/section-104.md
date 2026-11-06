@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104. Compensation: advance payments to mortgagees[^key-366cf8b30a79d7e34b00d3fdcc0d6a54]
+## 104. Compensation: advance payments to mortgagees[^c-366cf8b30a79d7e34b00d3fdcc0d6a54]
 
 *Extent: E+W*
 
@@ -175,4 +175,4 @@ summary: ''
 
 ## Annotations
 
-[^key-366cf8b30a79d7e34b00d3fdcc0d6a54]: Commencement: S. 104 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-366cf8b30a79d7e34b00d3fdcc0d6a54]: Commencement: S. 104 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

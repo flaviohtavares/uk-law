@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37A. Introduction[^key-51f6ca10ec893f78f8005d8a0aff5593]
+## 37A. Introduction[^c-51f6ca10ec893f78f8005d8a0aff5593]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51f6ca10ec893f78f8005d8a0aff5593]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1988/1478/part/5A) inserted (1.4.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/263/schedule)
+[^c-51f6ca10ec893f78f8005d8a0aff5593]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1988/1478/part/5A) inserted (1.4.1997) by [The Goods Vehicles (Plating and Testing) (Amendment) (No. 2) Regulations 1997 (S.I. 1997/263)](https://www.legislation.gov.uk/uksi/1997/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/263/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/263/schedule)

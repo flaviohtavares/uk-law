@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Power to exempt use of non-cash vouchers or credit-tokens to obtain exempt benefits[^key-d8b00834f748062ed78ebf7078acd9a0]
+## 96A. Power to exempt use of non-cash vouchers or credit-tokens to obtain exempt benefits[^c-d8b00834f748062ed78ebf7078acd9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8b00834f748062ed78ebf7078acd9a0]: Textual amendment: S. 96A inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 63](https://www.legislation.gov.uk/ukpga/2006/25/section/63)
+[^c-d8b00834f748062ed78ebf7078acd9a0]: Textual amendment: S. 96A inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 63](https://www.legislation.gov.uk/ukpga/2006/25/section/63)

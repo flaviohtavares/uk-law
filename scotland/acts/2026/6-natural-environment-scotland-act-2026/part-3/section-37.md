@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Right of occupier or grazings committee to prevent damage by deer[^key-2974eebf3648e91b82c71967cc865f89]
+## 37. Right of occupier or grazings committee to prevent damage by deer[^c-2974eebf3648e91b82c71967cc865f89]
 
 *Extent: S*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2974eebf3648e91b82c71967cc865f89]: Commencement: S. 37 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-2974eebf3648e91b82c71967cc865f89]: Commencement: S. 37 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

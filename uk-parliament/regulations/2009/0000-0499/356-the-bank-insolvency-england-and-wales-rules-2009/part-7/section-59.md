@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Contents of proof[^key-fac0a3b9e5a59835d4c977c43cb1cfbb]
+## 59. Contents of proof[^c-fac0a3b9e5a59835d4c977c43cb1cfbb]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.75 of the 1986 Rules[^f00023].
 
 ## Annotations
 
-[^key-fac0a3b9e5a59835d4c977c43cb1cfbb]: Commencement: Rule 59 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-fac0a3b9e5a59835d4c977c43cb1cfbb]: Commencement: Rule 59 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00023]: Footnote: Paragraph (1) was substituted by [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

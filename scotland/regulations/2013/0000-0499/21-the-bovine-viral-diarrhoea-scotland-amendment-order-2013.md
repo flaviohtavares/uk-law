@@ -49,15 +49,15 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1) and 83(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-7ef125fafeaa326d3f9a9a8cc5018c1a]
+## 1. Citation and commencement[^c-7ef125fafeaa326d3f9a9a8cc5018c1a]
 
 This Order may be cited as the Bovine Viral Diarrhoea (Scotland) Amendment Order 2013 and comes into force on 9th February 2013.
 
-## 2. Amendment of the Bovine Viral Diarrhoea (Scotland) Order 2013[^key-c6031a8140cab7b78ab872927ee2a3b6]
+## 2. Amendment of the Bovine Viral Diarrhoea (Scotland) Order 2013[^c-c6031a8140cab7b78ab872927ee2a3b6]
 
 The Bovine Viral Diarrhoea (Scotland) Order 2013[^f00002] is amended in accordance with articles 3 to 7.
 
-**3.**[^key-57377a99e09c8675a4272be5a391e1b1] In article 9 (obligations to sample and submit for testing)—
+**3.**[^c-57377a99e09c8675a4272be5a391e1b1] In article 9 (obligations to sample and submit for testing)—
 
 - (a) in paragraph (1), after “comply with” insert “the obligations, so far as applicable to that keeper, in”; and
 - (b) after paragraph (1) insert—
@@ -66,9 +66,9 @@ The Bovine Viral Diarrhoea (Scotland) Order 2013[^f00002] is amended in accordan
 
   .
 
-**4.**[^key-9ecedb1274ba134977e2b52ea9b2b24d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9ecedb1274ba134977e2b52ea9b2b24d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ca338b8e916fe2dccd7a699dad84e9eb] For article 12(1) (decision on type of sample to take) substitute—
+**5.**[^c-ca338b8e916fe2dccd7a699dad84e9eb] For article 12(1) (decision on type of sample to take) substitute—
 
 > (1) Subject to paragraph (2)—
 >
@@ -77,13 +77,13 @@ The Bovine Viral Diarrhoea (Scotland) Order 2013[^f00002] is amended in accordan
 
 .
 
-**6.**[^key-14834d7f6e8946bcecad5cc235560dac] In article 14(3) (submission of samples), after sub-paragraph (b)(v) insert—
+**6.**[^c-14834d7f6e8946bcecad5cc235560dac] In article 14(3) (submission of samples), after sub-paragraph (b)(v) insert—
 
 > - (va) in the case of a sample described in article 11(5A), the ear tag numbers from ear tags applied under the 2007 Regulations to the animal from which the sample derives;
 
 .
 
-**7.**[^key-705a29dc107d0657c5657393b0c05022] In article 17(5) (duties of operators of approved laboratories – breeding herds or breeding bovine animals), after sub-paragraph (g) omit “and” and insert—
+**7.**[^c-705a29dc107d0657c5657393b0c05022] In article 17(5) (duties of operators of approved laboratories – breeding herds or breeding bovine animals), after sub-paragraph (g) omit “and” and insert—
 
 > - (ga) in the case of a sample described in article 11(5A), the ear tag numbers from ear tags applied under the 2007 Regulations to the animal from which the sample derives; and
 
@@ -117,18 +117,18 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 [^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the Animal Health Act 1981. The functions of the Ministers were, so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-7ef125fafeaa326d3f9a9a8cc5018c1a]: Commencement: Art. 1 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
+[^c-7ef125fafeaa326d3f9a9a8cc5018c1a]: Commencement: Art. 1 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
 
-[^key-c6031a8140cab7b78ab872927ee2a3b6]: Commencement: Art. 2 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
+[^c-c6031a8140cab7b78ab872927ee2a3b6]: Commencement: Art. 2 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
 
 [^f00002]: Footnote: [S.S.I. 2013/3](https://www.legislation.gov.uk/ssi/2013/3).
 
-[^key-57377a99e09c8675a4272be5a391e1b1]: Commencement: Art. 3 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
+[^c-57377a99e09c8675a4272be5a391e1b1]: Commencement: Art. 3 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
 
-[^key-9ecedb1274ba134977e2b52ea9b2b24d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2013/21/article/4) revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(a)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/a)
+[^c-9ecedb1274ba134977e2b52ea9b2b24d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2013/21/article/4) revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(a)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/a)
 
-[^key-ca338b8e916fe2dccd7a699dad84e9eb]: Commencement: Art. 5 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
+[^c-ca338b8e916fe2dccd7a699dad84e9eb]: Commencement: Art. 5 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
 
-[^key-14834d7f6e8946bcecad5cc235560dac]: Commencement: Art. 6 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
+[^c-14834d7f6e8946bcecad5cc235560dac]: Commencement: Art. 6 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
 
-[^key-705a29dc107d0657c5657393b0c05022]: Commencement: Art. 7 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)
+[^c-705a29dc107d0657c5657393b0c05022]: Commencement: Art. 7 in force at 9.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/21/article/1)

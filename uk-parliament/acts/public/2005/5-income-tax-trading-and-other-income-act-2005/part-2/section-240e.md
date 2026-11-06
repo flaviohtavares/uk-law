@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240E. Effect of election where predecessor and successor are connected persons[^key-0bc9184a8f38bc9b05cf24d7792ebfd4]
+## 240E. Effect of election where predecessor and successor are connected persons[^c-0bc9184a8f38bc9b05cf24d7792ebfd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a person carrying on a trade enters the cash basis for a tax year,
 - (b) the person is the successor for the purposes of section 266 of CAA 2001, and
-- (c) as a result of an election under section 267 of that Act, relevant plant or machinery is treated as sold by the predecessor to the successor at any time during [^key-e472377da9d8d0d767341e4f0a9a6be0]... the tax year.
+- (c) as a result of an election under section 267 of that Act, relevant plant or machinery is treated as sold by the predecessor to the successor at any time during [^c-e472377da9d8d0d767341e4f0a9a6be0]... the tax year.
 
 (2) The provisions of this Chapter have effect in relation to the successor as if everything done to or by the predecessor had been done to or by the successor.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc9184a8f38bc9b05cf24d7792ebfd4]: Textual amendment: Pt. 2 Ch. 17A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/38)
+[^c-0bc9184a8f38bc9b05cf24d7792ebfd4]: Textual amendment: Pt. 2 Ch. 17A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/38)
 
-[^key-e472377da9d8d0d767341e4f0a9a6be0]: Textual amendment: Words in [s. 240E(1)(c)](https://www.legislation.gov.uk/ukpga/2005/5/section/240E/1/c) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 18](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/18), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-e472377da9d8d0d767341e4f0a9a6be0]: Textual amendment: Words in [s. 240E(1)(c)](https://www.legislation.gov.uk/ukpga/2005/5/section/240E/1/c) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 18](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/18), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

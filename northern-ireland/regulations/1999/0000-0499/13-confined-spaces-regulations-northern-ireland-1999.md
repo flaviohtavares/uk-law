@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Economic Development, being the Department concerned[^f00001], in exercise of the powers conferred on it by Articles 17(1), (2), (3), (5) and (6) and 55(2) of, and paragraphs 1(1) and (2), 8, 10 and 17(a) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00002] and of every other power enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Agency for Northern Ireland and such other bodies as appeared to the Department to be appropriate, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-93a2c650aadf9646265713c72f4e32c0]
+## 1. Citation, commencement and interpretation[^c-93a2c650aadf9646265713c72f4e32c0]
 
 (1) These Regulations may be cited as the Confined Spaces Regulations (Northern Ireland) 1999 and shall come into operation on 1st June 1999.
 
@@ -62,7 +62,7 @@ The Department of Economic Development, being the Department concerned[^f00001],
 - “system of work” includes the provision of equipment which is in good working order.
 - “territorial waters” means United Kingdom territorial waters adjacent to Northern Ireland and “within territorial waters” includes on, over and under them.
 
-## 2. Disapplication of Regulations[^key-8dd64c997493cf718c43e53ef46e9a89]
+## 2. Disapplication of Regulations[^c-8dd64c997493cf718c43e53ef46e9a89]
 
 These Regulations shall not apply to or in relation to—
 
@@ -70,7 +70,7 @@ These Regulations shall not apply to or in relation to—
 - (b) any place below ground in a mine; or
 - (c) any diving operation to and in relation to which the Diving Operations at Work Regulations (Northern Ireland) 1994 apply by virtue of regulation 3 of those Regulations.
 
-## 3. Duties[^key-f5c4739b0aa9eec0fc0a12cf7187c152]
+## 3. Duties[^c-f5c4739b0aa9eec0fc0a12cf7187c152]
 
 (1) Every employer shall—
 
@@ -82,13 +82,13 @@ These Regulations shall not apply to or in relation to—
 - (a) comply with the provisions of these Regulations in respect of his own work; and
 - (b) ensure compliance, so far as is reasonably practicable, with the provisions of these Regulations in respect of any work carried out by other persons insofar as the provisions relate to matters which are within his control.
 
-## 4. Work in confined spaces[^key-fb69580594d62a8b9d20cc0a6e03de79]
+## 4. Work in confined spaces[^c-fb69580594d62a8b9d20cc0a6e03de79]
 
 (1) A person at work shall not enter a confined space to carry out work for any purpose unless it is not reasonably practicable to achieve that purpose without such entry.
 
 (2) Without prejudice to paragraph (1), so far as is reasonably practicable, a person at work shall not enter or carry out any work in, or (other than as a result of an emergency) leave, a confined space otherwise than in accordance with a system of work which, in relation to any relevant specified risks, renders that work safe and without risks to health.
 
-## 5. Emergency arrangements[^key-e3fdc3e3a75dd485319893a34249d67d]
+## 5. Emergency arrangements[^c-e3fdc3e3a75dd485319893a34249d67d]
 
 (1) Without prejudice to regulation 4, a person at work shall not enter or carry out work in a confined space unless there have been prepared in respect of that confined space suitable and sufficient arrangements for the rescue of persons in the event of an emergency, whether or not arising out of a specified risk.
 
@@ -99,7 +99,7 @@ These Regulations shall not apply to or in relation to—
 
 (3) Whenever there arises any circumstance to which the arrangements referred to in paragraph (1) relate, those arrangements, or the relevant part of those arrangements, shall immediately be put into operation.
 
-## 6. Exemption certificates[^key-afef123e3719735ef5d6586bce0be757]
+## 6. Exemption certificates[^c-afef123e3719735ef5d6586bce0be757]
 
 (1) Subject to paragraph (2), the Department may, by a certificate in writing, exempt—
 
@@ -115,7 +115,7 @@ from the application of any of the requirements or prohibitions imposed by these
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 7. Defence in proceedings[^key-9ecb908fc148bdd3b64fcf11dced679d]
+## 7. Defence in proceedings[^c-9ecb908fc148bdd3b64fcf11dced679d]
 
 (1) In any proceedings for an offence for a contravention of regulation 5(3) it shall be a defence for the person charged to prove—
 
@@ -126,11 +126,11 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 (3) Where a contravention of the provision referred to in paragraph (1) by any person is due to the act or default of some other person, that other person shall be guilty of the offence which would, but for any defence under this regulation available to the first-mentioned person, be constituted by the act or default.
 
-## 8. Application to territorial waters[^key-1f1bc0c8d15e90af498135d978e78f26]
+## 8. Application to territorial waters[^c-1f1bc0c8d15e90af498135d978e78f26]
 
 Subject to regulation 2, these Regulations shall apply within territorial waters only to and in relation to the activities to which paragraph 2 of Schedule 1 applies.
 
-## 9. Repeal and revocations[^key-b65720a1a644ae94e9ddd7ac2ff47410]
+## 9. Repeal and revocations[^c-b65720a1a644ae94e9ddd7ac2ff47410]
 
 (1) Section 31 of the Factories Act (Northern Ireland) 1965[^f00005] is hereby repealed.
 
@@ -148,7 +148,7 @@ Assistant Secretary
 
 Regulation 8
 
-### 1. Interpretation[^key-5107df917063727668e2a3762f2ebea3]
+### 1. Interpretation[^c-5107df917063727668e2a3762f2ebea3]
 
 (1) In this Schedule—
 
@@ -168,7 +168,7 @@ and diving operations include the activity of any person in connection with the 
 
 (4) Any reference in this Schedule to premises and activities (howsoever described) shall include a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity but does not include a reference to an aircraft which is airborne.
 
-### 2. Specified activities[^key-b0308baecafaea89e10cde7fa5077dbf]
+### 2. Specified activities[^c-b0308baecafaea89e10cde7fa5077dbf]
 
 Subject to paragraphs 3 to 7 this paragraph applies to—
 
@@ -177,11 +177,11 @@ Subject to paragraphs 3 to 7 this paragraph applies to—
 - (c) the construction, reconstruction, finishing, refitting, repair, maintenance, cleaning or breaking up of a vessel except when carried out by the master or any officer or member of the crew of that vessel; and
 - (d) the maintaining on a station of a vessel which would be an offshore installation were it not a structure to which paragraph 4(3)(d) relates.
 
-### 3. Disapplication in respect of vessels registered outside the United Kingdom[^key-23a4deb8bbffa0904c6cc58a04d4e800]
+### 3. Disapplication in respect of vessels registered outside the United Kingdom[^c-23a4deb8bbffa0904c6cc58a04d4e800]
 
 Paragraph 2 shall not apply to vessels which are registered outside the United Kingdom and are on passage through territorial waters.
 
-### 4. Disapplication in respect of offshore installations[^key-f46810de9ffe42e9e9da125dc6ff0948]
+### 4. Disapplication in respect of offshore installations[^c-f46810de9ffe42e9e9da125dc6ff0948]
 
 (1) Paragraph 2 shall not apply to—
 
@@ -208,7 +208,7 @@ and which is not an excepted structure.
 - (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 5. Disapplication in respect of wells[^key-c5b2c47751486285d7ad10b74cb7bf35]
+### 5. Disapplication in respect of wells[^c-c5b2c47751486285d7ad10b74cb7bf35]
 
 (1) Subject to sub-paragraph (2), paragraph 2 shall not apply to—
 
@@ -217,7 +217,7 @@ and which is not an excepted structure.
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 6. Disapplication in respect of pipelines[^key-f0f1c02ca6b7e2ddfd5cf2a6453a15f6]
+### 6. Disapplication in respect of pipelines[^c-f0f1c02ca6b7e2ddfd5cf2a6453a15f6]
 
 (1) Paragraph 2 shall not apply to—
 
@@ -247,13 +247,13 @@ and which is not an excepted structure.
   - (e) any activities incidental to the activities described in paragraphs (a) to (d);
   - (f) diving operations in connection with any of the works mentioned in paragraphs (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 7. Disapplication in respect of mines[^key-e973821b74da44404533a435e6043994]
+### 7. Disapplication in respect of mines[^c-e973821b74da44404533a435e6043994]
 
 (1) Paragraph 2 shall not apply to the working of a mine, and work for the purpose of or in connection with the working of any part of a mine.
 
 (2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00006].
 
-## SCHEDULE 2 — Revocations[^key-b2c517169bc1773ed9e21da028b29af1]
+## SCHEDULE 2 — Revocations[^c-b2c517169bc1773ed9e21da028b29af1]
 
 Regulation 9(2)
 
@@ -299,44 +299,44 @@ Regulation 9(2)
 
 [^f00002]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
-[^key-93a2c650aadf9646265713c72f4e32c0]: Commencement: Reg. 1 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-93a2c650aadf9646265713c72f4e32c0]: Commencement: Reg. 1 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146)
 
 [^f00004]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-8dd64c997493cf718c43e53ef46e9a89]: Commencement: Reg. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-8dd64c997493cf718c43e53ef46e9a89]: Commencement: Reg. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-f5c4739b0aa9eec0fc0a12cf7187c152]: Commencement: Reg. 3 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-f5c4739b0aa9eec0fc0a12cf7187c152]: Commencement: Reg. 3 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-fb69580594d62a8b9d20cc0a6e03de79]: Commencement: Reg. 4 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-fb69580594d62a8b9d20cc0a6e03de79]: Commencement: Reg. 4 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-e3fdc3e3a75dd485319893a34249d67d]: Commencement: Reg. 5 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-e3fdc3e3a75dd485319893a34249d67d]: Commencement: Reg. 5 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-afef123e3719735ef5d6586bce0be757]: Commencement: Reg. 6 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-afef123e3719735ef5d6586bce0be757]: Commencement: Reg. 6 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-9ecb908fc148bdd3b64fcf11dced679d]: Commencement: Reg. 7 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-9ecb908fc148bdd3b64fcf11dced679d]: Commencement: Reg. 7 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-1f1bc0c8d15e90af498135d978e78f26]: Commencement: Reg. 8 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-1f1bc0c8d15e90af498135d978e78f26]: Commencement: Reg. 8 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-b65720a1a644ae94e9ddd7ac2ff47410]: Commencement: Reg. 9 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-b65720a1a644ae94e9ddd7ac2ff47410]: Commencement: Reg. 9 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
 [^f00005]: Footnote: [1965 c. 20 (N.I.)](https://www.legislation.gov.uk/apni/1965/20); section 31 was amended by [S.R. 1984 No. 283](https://www.legislation.gov.uk/nisr/1984/283) and [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20)
 
-[^key-5107df917063727668e2a3762f2ebea3]: Commencement: Sch. 1 para. 1 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-5107df917063727668e2a3762f2ebea3]: Commencement: Sch. 1 para. 1 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-b0308baecafaea89e10cde7fa5077dbf]: Commencement: Sch. 1 para. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-b0308baecafaea89e10cde7fa5077dbf]: Commencement: Sch. 1 para. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-23a4deb8bbffa0904c6cc58a04d4e800]: Commencement: Sch. 1 para. 3 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-23a4deb8bbffa0904c6cc58a04d4e800]: Commencement: Sch. 1 para. 3 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-f46810de9ffe42e9e9da125dc6ff0948]: Commencement: Sch. 1 para. 4 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-f46810de9ffe42e9e9da125dc6ff0948]: Commencement: Sch. 1 para. 4 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-c5b2c47751486285d7ad10b74cb7bf35]: Commencement: Sch. 1 para. 5 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-c5b2c47751486285d7ad10b74cb7bf35]: Commencement: Sch. 1 para. 5 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-f0f1c02ca6b7e2ddfd5cf2a6453a15f6]: Commencement: Sch. 1 para. 6 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-f0f1c02ca6b7e2ddfd5cf2a6453a15f6]: Commencement: Sch. 1 para. 6 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
-[^key-e973821b74da44404533a435e6043994]: Commencement: Sch. 1 para. 7 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-e973821b74da44404533a435e6043994]: Commencement: Sch. 1 para. 7 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
 
 [^f00006]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-b2c517169bc1773ed9e21da028b29af1]: Commencement: Sch. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)
+[^c-b2c517169bc1773ed9e21da028b29af1]: Commencement: Sch. 2 in operation at 1.6.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/13/regulation/1/1)

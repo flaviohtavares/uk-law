@@ -24,7 +24,7 @@ summary: ''
 
 2. If a CCP that enters into an interoperability arrangement with another CCP only provides initial margins to that CCP under a security financial collateral arrangement, the receiving CCP shall have no right of use over the margins provided by the other CCP.
 
-3. Collateral received in the form of financial instruments shall be deposited with operators of securities settlement systems that are designated systems within the meaning given in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-169bb47fa9d24cea3c97fe51a890070a].
+3. Collateral received in the form of financial instruments shall be deposited with operators of securities settlement systems that are designated systems within the meaning given in regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-169bb47fa9d24cea3c97fe51a890070a].
 
 4. The assets referred to in paragraphs 1 and 2 shall be available to the receiving CCP only in case of default of the CCP which has provided the collateral in the context of an interoperability arrangement.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-169bb47fa9d24cea3c97fe51a890070a]: Textual amendment: Words in [Art. 53(3)](https://www.legislation.gov.uk/eur/2012/648/article/53/3) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2019/335/regulation/54) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-169bb47fa9d24cea3c97fe51a890070a]: Textual amendment: Words in [Art. 53(3)](https://www.legislation.gov.uk/eur/2012/648/article/53/3) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2019/335/regulation/54) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

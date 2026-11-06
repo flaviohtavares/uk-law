@@ -30,7 +30,7 @@ summary: ''
 
 (3) But a notice may not be served by virtue of subsection (2)(a) or (c) until after the end of the period of 14 days beginning with the day after that on which the final determination is made.
 
-(4) A landlord under a long lease of a dwelling may make an application to the appropriate tribunal[^key-eb153e37a034bf6847a03d5cd48ad66e] for a determination that a breach of a covenant or condition in the lease has occurred.
+(4) A landlord under a long lease of a dwelling may make an application to the appropriate tribunal[^c-eb153e37a034bf6847a03d5cd48ad66e] for a determination that a breach of a covenant or condition in the lease has occurred.
 
 (5) But a landlord may not make an application under subsection (4) in respect of a matter which—
 
@@ -38,7 +38,7 @@ summary: ''
 - (b) has been the subject of determination by a court, or
 - (c) has been the subject of determination by an arbitral tribunal pursuant to a post-dispute arbitration agreement.
 
-(6)[^key-e6b4afcd3b4f6d83644c67ba3c44150e] For the purposes of subsection (4), “appropriate tribunal” means—
+(6)[^c-e6b4afcd3b4f6d83644c67ba3c44150e] For the purposes of subsection (4), “appropriate tribunal” means—
 
 - (a) in relation to a dwelling in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
 - (b) in relation to a dwelling in Wales, a leasehold valuation tribunal.
@@ -47,6 +47,6 @@ summary: ''
 
 [^c21532251]: Commencement: S. 168 wholly in force at 31.5.2005; s. 168 not in force at Royal Assent see s. 181(1); s. 168 in force at 28.2.2005 for E. by [S.I. 2004/3056](https://www.legislation.gov.uk/uksi/2004/3056), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/3056/article/3/f) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2004/3056/article/4/2)); s. 168 in force at 31.5.2005 for W. by [S.I. 2005/1353](https://www.legislation.gov.uk/uksi/2005/1353), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/1353/article/2/f) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2005/1353/article/3/3))
 
-[^key-eb153e37a034bf6847a03d5cd48ad66e]: Textual amendment: Words in s. 168(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 141(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/141/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-eb153e37a034bf6847a03d5cd48ad66e]: Textual amendment: Words in s. 168(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 141(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/141/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-e6b4afcd3b4f6d83644c67ba3c44150e]: Textual amendment: S. 168(6) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 141(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/141/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e6b4afcd3b4f6d83644c67ba3c44150e]: Textual amendment: S. 168(6) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 141(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/141/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

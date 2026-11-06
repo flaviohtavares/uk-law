@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13BA. Conditional confirmation[^key-25b9746e1689e33ee77104d85a9d8cd9][^key-a9973dfd55593ed0c291cf7096d3b143]
+## 13BA. Conditional confirmation[^c-25b9746e1689e33ee77104d85a9d8cd9][^c-a9973dfd55593ed0c291cf7096d3b143]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25b9746e1689e33ee77104d85a9d8cd9]: Textual amendment: [S. 13BA](https://www.legislation.gov.uk/ukpga/1981/67/section/13BA) inserted (31.3.2024 for specified purposes, 18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 183(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/183/2), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/j); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-25b9746e1689e33ee77104d85a9d8cd9]: Textual amendment: [S. 13BA](https://www.legislation.gov.uk/ukpga/1981/67/section/13BA) inserted (31.3.2024 for specified purposes, 18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 183(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/183/2), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/j); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
 
-[^key-a9973dfd55593ed0c291cf7096d3b143]: Textual amendment: Ss. 13-13C substituted for s. 13 (6.8.2004 for specified purposes, 31.10.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/6) (with [s. 100(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/8)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-a9973dfd55593ed0c291cf7096d3b143]: Textual amendment: Ss. 13-13C substituted for s. 13 (6.8.2004 for specified purposes, 31.10.2004 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 100(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/6) (with [s. 100(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/100/8)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
